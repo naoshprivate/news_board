@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">UK gambling stocks fall after watchdog says tax rises coming in budget www.reuters.com/world/uk/uks... <a href="https://bsky.app/profile/reuters.com/post/3m6k54z7do32k" target="_blank">reuters.com</a> (2025-11-27 00:08:47)</span><span style="padding-right:50px;">Soldiers took control of the main road leading to Guinea-Bissau's presidential palace on Wednesday after gunshots rang out, as the poverty-stricken west African country awaits results of a vote claimed by both major presidential candidates ➡️ u.afp.com/ShQY <a href="https://bsky.app/profile/en.afp.com/post/3m6k53nocfj23" target="_blank">en.afp.com</a> (2025-11-27 00:08:02)</span><span style="padding-right:50px;">France takes legal action against AliExpress and Joom over childlike sex dolls on.ft.com/4oZhdJ7 <a href="https://bsky.app/profile/financialtimes.com/post/3m6k4qiv2x726" target="_blank">financialtimes.com</a> (2025-11-27 00:01:47)</span><span style="padding-right:50px;">Deere's first outlook for the year ahead fell short of expectations as uncertainly continues to surround the US farm economy. <a href="https://bsky.app/profile/bloomberg.com/post/3m6k4otoesg2s" target="_blank">bloomberg.com</a> (2025-11-27 00:00:52)</span><span style="padding-right:50px;">America's biggest stores are taking big swings this year, trying to stand out and attract cautious consumers. President Donald Trump's tariffs, sticky inflation and rising unemployment are prompting Americans to be more careful with their holiday spending. https://cnn.it/3M2PrwO <a href="https://bsky.app/profile/cnn.com/post/3m6k4oq37g42f" target="_blank">cnn.com</a> (2025-11-27 00:00:48)</span>
+<span style="padding-right:50px;">Pope Leo XIV says that AI "cannot replace human intelligence." <a href="https://bsky.app/profile/yahoofinance.com/post/3m6k62z6dek23" target="_blank">yahoofinance.com</a> (2025-11-27 00:25:34)</span><span style="padding-right:50px;">Israel launches new military operation in northern West Bank reut.rs/44nCRhY <a href="https://bsky.app/profile/reuters.com/post/3m6k62c5fwf2n" target="_blank">reuters.com</a> (2025-11-27 00:25:10)</span><span style="padding-right:50px;">How did you do in Connections today? Players must select four groups of four words without making more than three mistakes. nyti.ms/4pxxhSg <a href="https://bsky.app/profile/nytimes.com/post/3m6k5yeetvi2q" target="_blank">nytimes.com</a> (2025-11-27 00:24:05)</span><span style="padding-right:50px;">"We are working with Democrats to reassure people that this isn't a transactional political thing," said one Republican operative who led a nonpartisan lobbying effort for "Trump accounts." <a href="https://bsky.app/profile/axios.com/post/3m6k5wtdsxs2u" target="_blank">axios.com</a> (2025-11-27 00:23:14)</span><span style="padding-right:50px;">Leaked call transcripts between special envoy Steve Witkoff and a Putin advisor could derail Trump's progress on peace in Ukraine. And, air travel is back to normal just in time for Thanksgiving. n.pr/3M2HPdJ <a href="https://bsky.app/profile/npr.org/post/3m6k5v7t6hg2j" target="_blank">npr.org</a> (2025-11-27 00:22:19)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49559.07 (🔺546.82 : 2025-11-26)</span><span style="padding-right:50px;">DOW: 47318.20 (🔺122.05 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23137.30 (🔻25.89 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 179.99 (🔻1.64 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3141.00 (🔺12.00 : 2025-11-26)</span><span style="padding-right:50px;">USD/JPY: 156.52 (🔺0.51 : 2025-11-26)</span>
+<span style="padding-right:50px;">NIKKEI: 49559.07 (🔺546.82 : 2025-11-26)</span><span style="padding-right:50px;">DOW: 47327.61 (🔺131.46 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23122.23 (🔻40.96 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 179.60 (🔻2.04 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3141.00 (🔺12.00 : 2025-11-26)</span><span style="padding-right:50px;">USD/JPY: 156.47 (🔺0.45 : 2025-11-26)</span>
   </div>
 </div>
 
@@ -30,87 +30,86 @@
 
 ---
 
-## [2025-11-27 00:10 updated](2025_11_27.md)
+## [2025-11-27 00:30 updated](2025_11_27.md)
+
+@yahoofinance.com
+
+Pope Leo XIV says that AI "cannot replace human intelligence."
+
+[2025-11-27 00:25:34](https://bsky.app/profile/yahoofinance.com/post/3m6k62z6dek23)
+
+---
 
 @reuters.com
 
-UK gambling stocks fall after watchdog says tax rises coming in budget www.reuters.com/world/uk/uks...
+Israel launches new military operation in northern West Bank reut.rs/44nCRhY
 
-[2025-11-27 00:08:47](https://bsky.app/profile/reuters.com/post/3m6k54z7do32k)
-
----
-
-@en.afp.com
-
-Soldiers took control of the main road leading to Guinea-Bissau's presidential palace on Wednesday after gunshots rang out, as the poverty-stricken west African country awaits results of a vote claimed by both major presidential candidates ➡️ u.afp.com/ShQY
-
-[2025-11-27 00:08:02](https://bsky.app/profile/en.afp.com/post/3m6k53nocfj23)
+[2025-11-27 00:25:10](https://bsky.app/profile/reuters.com/post/3m6k62c5fwf2n)
 
 ---
 
-@financialtimes.com
+@nytimes.com
 
-France takes legal action against AliExpress and Joom over childlike sex dolls on.ft.com/4oZhdJ7
+How did you do in Connections today? Players must select four groups of four words without making more than three mistakes. nyti.ms/4pxxhSg
 
-[2025-11-27 00:01:47](https://bsky.app/profile/financialtimes.com/post/3m6k4qiv2x726)
-
----
-
-@bloomberg.com
-
-Deere's first outlook for the year ahead fell short of expectations as uncertainly continues to surround the US farm economy.
-
-[2025-11-27 00:00:52](https://bsky.app/profile/bloomberg.com/post/3m6k4otoesg2s)
+[2025-11-27 00:24:05](https://bsky.app/profile/nytimes.com/post/3m6k5yeetvi2q)
 
 ---
 
-@cnn.com
+@axios.com
 
-America's biggest stores are taking big swings this year, trying to stand out and attract cautious consumers. President Donald Trump's tariffs, sticky inflation and rising unemployment are prompting Americans to be more careful with their holiday spending. https://cnn.it/3M2PrwO
+"We are working with Democrats to reassure people that this isn't a transactional political thing," said one Republican operative who led a nonpartisan lobbying effort for "Trump accounts."
 
-[2025-11-27 00:00:48](https://bsky.app/profile/cnn.com/post/3m6k4oq37g42f)
-
----
-
-@aljazeera.com
-
-Researchers reveal that four ages - nine, 32, 66 and 83 - are when the brain's most pivotal development occurs.
-
-[2025-11-27 00:00:42](https://bsky.app/profile/aljazeera.com/post/3m6k4ok7glb2x)
+[2025-11-27 00:23:14](https://bsky.app/profile/axios.com/post/3m6k5wtdsxs2u)
 
 ---
 
-@washingtonpost.com
+@npr.org
 
-Psychologists have found a way to disarm political opponents and detoxify conversation. 
+Leaked call transcripts between special envoy Steve Witkoff and a Putin advisor could derail Trump's progress on peace in Ukraine. And, air travel is back to normal just in time for Thanksgiving. n.pr/3M2HPdJ
 
-This research-backed technique can increase open-mindedness and reduce political polarization, improving dialogue at gatherings and in daily life.
-
-[2025-11-27 00:00:36](https://bsky.app/profile/washingtonpost.com/post/3m6k4oevzgs2o)
+[2025-11-27 00:22:19](https://bsky.app/profile/npr.org/post/3m6k5v7t6hg2j)
 
 ---
 
-@cnbc.com
+@bbcnews-world-rss.bsky.social
 
-Singapore tops the 2025 Global Talent Competitiveness Index, bolstered by its robust education systems, sound governance and innovation-ready workforce. 
+Nicolas Sarkozy illegal campaign financing conviction upheld 
 
-[2025-11-27 00:00:29](https://bsky.app/profile/cnbc.com/post/3m6k4o6jeat2s)
-
----
-
-@apnews.com
-
-A Turkish-German family of four who died while on holiday in Istanbul were likely poisoned by gas from a pesticide used in their hotel.
-
-[2025-11-27 00:00:22](https://bsky.app/profile/apnews.com/post/3m6k4nxgsxt2c)
+[2025-11-27 00:20:20](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6k5roakiv2g)
 
 ---
 
 @nbcnews.com
 
-Former Brazilian President Jair Bolsonaro starts his 27-year prison sentence for leading a coup attempt, to the surprise of many in the South American nation who doubted he would ever end up behind bars.
+A box truck with hundreds of frozen turkeys that were to be used in a holiday giveaway was stolen in Southern California, officials say. 
 
-[2025-11-27 00:00:12](https://bsky.app/profile/nbcnews.com/post/3m6k4nnmgro2j)
+[2025-11-27 00:20:16](https://bsky.app/profile/nbcnews.com/post/3m6k5rkb3is22)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+「需給ギャップ」推計値 3期ぶりにわずかなマイナスに 内閣府
+https://news.web.nhk/newsweb/na/na-k10014987361000
+
+[2025-11-27 00:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6k5nmwwic2r)
+
+---
+
+@financialtimes.com
+
+Budget 2025: what it means for your money on.ft.com/4imNfMA
+
+[2025-11-27 00:17:36](https://bsky.app/profile/financialtimes.com/post/3m6k5mrjuz724)
+
+---
+
+@cnbc.com
+
+MIT study finds AI can already replace 11.7% of U.S. workforce
+
+[2025-11-27 00:17:07](https://bsky.app/profile/cnbc.com/post/3m6k5lvlsnu2e)
 
 ---
 
