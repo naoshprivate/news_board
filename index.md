@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">President Donald Trump brushed off concerns about his special envoy Steve Witkoff’s engagements with the Kremlin after a new phone call transcript provided rare insight into how the president’s top negotiator advised his Russian counterpart.  <a href="https://bsky.app/profile/cnn.com/post/3m6kid3qzb62s" target="_blank">cnn.com</a> (2025-11-27 03:29:02)</span><span style="padding-right:50px;">Breaking news: At least 36 people were killed after a huge fire engulfed several high-rise buildings in an apartment complex in Hong Kong, the city’s top official said.  At least 279 people remain missing and 29 have been hospitalized. <a href="https://bsky.app/profile/washingtonpost.com/post/3m6ki6ixzzg23" target="_blank">washingtonpost.com</a> (2025-11-27 03:26:28)</span><span style="padding-right:50px;">Chinese regulators block ByteDance from using Nvidia chips, The Information reports reut.rs/3KkPYtr <a href="https://bsky.app/profile/reuters.com/post/3m6ki46o4ag26" target="_blank">reuters.com</a> (2025-11-27 03:25:10)</span><span style="padding-right:50px;">Tech analyst Dan Ives flags 10 stocks to own, insists there's no AI bubble <a href="https://bsky.app/profile/yahoofinance.com/post/3m6khux6ez42x" target="_blank">yahoofinance.com</a> (2025-11-27 03:21:08)</span><span style="padding-right:50px;">NBC's Molly Hunter spoke to Pope Leo XIV outside his lakeside residence, Castel Gandolfo. <a href="https://bsky.app/profile/nbcnews.com/post/3m6khtpw3vw2j" target="_blank">nbcnews.com</a> (2025-11-27 03:20:27)</span>
+<span style="padding-right:50px;">Instant View: Sterling, UK bond prices rise as Reeves' budget delivers more headroom reut.rs/48B2kHb <a href="https://bsky.app/profile/reuters.com/post/3m6kja5fbok2k" target="_blank">reuters.com</a> (2025-11-27 03:45:17)</span><span style="padding-right:50px;">This gold miner ETF can give a blueprint on whether the health care rally can go on. Here's why <a href="https://bsky.app/profile/cnbc.com/post/3m6kj6lrxhu2f" target="_blank">cnbc.com</a> (2025-11-27 03:44:25)</span><span style="padding-right:50px;">Retailers use marketing techniques to get you to spend more, like creating a false sense of urgency or creating artificial discounts. Outsmart the gimmicks with these tips. n.pr/4irpN0W <a href="https://bsky.app/profile/npr.org/post/3m6kj4gybds2s" target="_blank">npr.org</a> (2025-11-27 03:43:13)</span><span style="padding-right:50px;">SCOOP: The Trump administration has instructed employees and grantees not to use U.S. funds to commemorate World AIDS Day — because the observance was started by the World Health Organization.   www.nytimes.com/2025/11/26/h... <a href="https://bsky.app/profile/apoorvanyt.bsky.social/post/3m6kiztjo4k2l" target="_blank">apoorvanyt.bsky.social</a> (2025-11-27 03:41:46)</span><span style="padding-right:50px;">From @theathletic.com: Similar to last season's squad, the New York Knicks are a good team with legitimate flaws. Should they make a move before the NBA trade deadline? <a href="https://bsky.app/profile/nytimes.com/post/3m6kiyndos72w" target="_blank">nytimes.com</a> (2025-11-27 03:41:05)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49559.07 (🔺546.82 : 2025-11-26)</span><span style="padding-right:50px;">DOW: 47526.58 (🔺330.43 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23255.13 (🔺91.94 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.82 (🔻0.81 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3141.00 (🔺12.00 : 2025-11-26)</span><span style="padding-right:50px;">USD/JPY: 156.43 (🔺0.41 : 2025-11-26)</span>
+<span style="padding-right:50px;">NIKKEI: 49559.07 (🔺546.82 : 2025-11-26)</span><span style="padding-right:50px;">DOW: 47505.46 (🔺309.31 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23231.38 (🔺68.19 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.32 (🔻1.31 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3141.00 (🔺12.00 : 2025-11-26)</span><span style="padding-right:50px;">USD/JPY: 156.49 (🔺0.47 : 2025-11-26)</span>
   </div>
 </div>
 
@@ -30,88 +30,87 @@
 
 ---
 
-## [2025-11-27 03:30 updated](2025_11_27.md)
-
-@cnn.com
-
-President Donald Trump brushed off concerns about his special envoy Steve Witkoff’s engagements with the Kremlin after a new phone call transcript provided rare insight into how the president’s top negotiator advised his Russian counterpart. 
-
-[2025-11-27 03:29:02](https://bsky.app/profile/cnn.com/post/3m6kid3qzb62s)
-
----
-
-@washingtonpost.com
-
-Breaking news: At least 36 people were killed after a huge fire engulfed several high-rise buildings in an apartment complex in Hong Kong, the city’s top official said.
-
-At least 279 people remain missing and 29 have been hospitalized.
-
-[2025-11-27 03:26:28](https://bsky.app/profile/washingtonpost.com/post/3m6ki6ixzzg23)
-
----
+## [2025-11-27 03:50 updated](2025_11_27.md)
 
 @reuters.com
 
-Chinese regulators block ByteDance from using Nvidia chips, The Information reports reut.rs/3KkPYtr
+Instant View: Sterling, UK bond prices rise as Reeves' budget delivers more headroom reut.rs/48B2kHb
 
-[2025-11-27 03:25:10](https://bsky.app/profile/reuters.com/post/3m6ki46o4ag26)
-
----
-
-@yahoofinance.com
-
-Tech analyst Dan Ives flags 10 stocks to own, insists there's no AI bubble
-
-[2025-11-27 03:21:08](https://bsky.app/profile/yahoofinance.com/post/3m6khux6ez42x)
+[2025-11-27 03:45:17](https://bsky.app/profile/reuters.com/post/3m6kja5fbok2k)
 
 ---
 
-@nbcnews.com
+@cnbc.com
 
-NBC's Molly Hunter spoke to Pope Leo XIV outside his lakeside residence, Castel Gandolfo.
+This gold miner ETF can give a blueprint on whether the health care rally can go on. Here's why
 
-[2025-11-27 03:20:27](https://bsky.app/profile/nbcnews.com/post/3m6khtpw3vw2j)
+[2025-11-27 03:44:25](https://bsky.app/profile/cnbc.com/post/3m6kj6lrxhu2f)
+
+---
+
+@npr.org
+
+Retailers use marketing techniques to get you to spend more, like creating a false sense of urgency or creating artificial discounts. Outsmart the gimmicks with these tips. n.pr/4irpN0W
+
+[2025-11-27 03:43:13](https://bsky.app/profile/npr.org/post/3m6kj4gybds2s)
+
+---
+
+@apoorvanyt.bsky.social
+
+SCOOP: The Trump administration has instructed employees and grantees not to use U.S. funds to commemorate World AIDS Day — because the observance was started by the World Health Organization. 
+
+www.nytimes.com/2025/11/26/h...
+
+[2025-11-27 03:41:46](https://bsky.app/profile/apoorvanyt.bsky.social/post/3m6kiztjo4k2l)
 
 ---
 
 @nytimes.com
 
-From @theathletic.com: The Detroit Lions were the first team to harness the marketing power of Thanksgiving games. The idea was a smashing success. Decades later, the Dallas Cowboys also wanted in on the action. “But we’ll always be first.” 
-nyti.ms/3KmCU6O
+From @theathletic.com: Similar to last season's squad, the New York Knicks are a good team with legitimate flaws. Should they make a move before the NBA trade deadline?
 
-[2025-11-27 03:20:03](https://bsky.app/profile/nytimes.com/post/3m6khszq53p2y)
-
----
-
-@financialtimes.com
-
- Pets at Home chews through investors’ goodwill on.ft.com/4oCY9jb  | opinion
-
-[2025-11-27 03:19:50](https://bsky.app/profile/financialtimes.com/post/3m6khsmlf5n26)
-
----
-
-@jenniecoughlin.bsky.social
-
-Some of Manhattan's most iconic spots would be submerged, including parts of Chinatown, SoHo and the financial district. Several feet of water would pool in the theater district and areas near MSG. In the Bronx, Yankee Stadium would be nearly surrounded by water, up to 11 feet in places.
-
-[2025-11-27 03:16:22](https://bsky.app/profile/jenniecoughlin.bsky.social/post/3m6khmguaw22e)
+[2025-11-27 03:41:05](https://bsky.app/profile/nytimes.com/post/3m6kiyndos72w)
 
 ---
 
 @reuters.com
 
-European states buy underwater drones for military use, manufacturer says reut.rs/4ocWQqF
+US weekly jobless claims at seven-month low as layoffs remain low reut.rs/4p6MTfU
 
-[2025-11-27 03:15:19](https://bsky.app/profile/reuters.com/post/3m6khkkbt2k27)
+[2025-11-27 03:40:39](https://bsky.app/profile/reuters.com/post/3m6kixtzish2n)
+
+---
+
+@nbcnews.com
+
+A group of army officers say they have seized power in coup-prone Guinea-Bissau, in a statement read on state television, on the eve of the expected announcement of results from a hotly contested presidential election.
+
+[2025-11-27 03:40:10](https://bsky.app/profile/nbcnews.com/post/3m6kiwyhh7b2t)
 
 ---
 
 @reuters.com
 
-UK announces new tax on expensive homes from 2028 reut.rs/4iqWImj
+NYC comptroller's push to drop BlackRock creates test for Mamdani reut.rs/4p4xFIn
 
-[2025-11-27 03:10:15](https://bsky.app/profile/reuters.com/post/3m6khbigab72n)
+[2025-11-27 03:35:11](https://bsky.app/profile/reuters.com/post/3m6kio3ddsx2y)
+
+---
+
+@cnbc.com
+
+Workday shares sink on subscription revenue guidance concerns
+
+[2025-11-27 03:34:27](https://bsky.app/profile/cnbc.com/post/3m6kimrjvwu2q)
+
+---
+
+@nbcnews.com
+
+The president calls a New York Times reporter “ugly,” the third insult toward a female reporter in recent weeks.
+
+[2025-11-27 03:34:08](https://bsky.app/profile/nbcnews.com/post/3m6kim6vqul2c)
 
 ---
 
