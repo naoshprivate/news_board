@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Breaking: The Georgia election-interference case against Trump is over, as a prosecutor asks the judge to drop the case against the president and his allies. <a href="https://bsky.app/profile/wsj.com/post/3m6kblxbiqw2w" target="_blank">wsj.com</a> (2025-11-27 01:28:43)</span><span style="padding-right:50px;">Here's what to know about the DragonFire laser. <a href="https://bsky.app/profile/axios.com/post/3m6kbis6w2s2j" target="_blank">axios.com</a> (2025-11-27 01:26:58)</span><span style="padding-right:50px;">🎧 We're all about the euro zone economy with Philip Lane of the @ecb.europa.eu on this week's Reuters Econ World podcast. Tune in now reut.rs/4oheFFa <a href="https://bsky.app/profile/reuters.com/post/3m6kbhu7eyc2t" target="_blank">reuters.com</a> (2025-11-27 01:26:26)</span><span style="padding-right:50px;">JUST IN: The historic Georgia election interference case against President Trump and allies for their efforts to overturn the 2020 election is no more. <a href="https://bsky.app/profile/npr.org/post/3m6kbghnn5w2s" target="_blank">npr.org</a> (2025-11-27 01:25:39)</span><span style="padding-right:50px;">Deutsche Bank raises 2026 gold price forecast to $4,450/oz reut.rs/44qGe7P <a href="https://bsky.app/profile/reuters.com/post/3m6kbfkqhql2y" target="_blank">reuters.com</a> (2025-11-27 01:25:09)</span>
+<span style="padding-right:50px;">VIDEO: 🇳🇬 What's behind Nigeria's kidnapping crisis?  The abduction of hundreds of Nigerians, including almost 350 schoolchildren in just a matter of days, has reignited a pressing debate about the persistent security crisis gripping the country <a href="https://bsky.app/profile/en.afp.com/post/3m6kcppwnpk2e" target="_blank">en.afp.com</a> (2025-11-27 01:48:44)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:釧路沖, 深さ:80km マグニチュード:4.6, 最大震度:2 📍https://www.google.com/maps?q=42.5,144.3&ll=42.5,144.3&z=7&t=h 地震発生日時:2025-11-27 01:44頃 (10倍速▶210s→21s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m6kcoq4nuz2h" target="_blank">sokuho.news</a> (2025-11-27 01:48:10)</span><span style="padding-right:50px;">Cannabis has carved out it’s own holiday shopping rush and it’s called “Green Wednesday”. Behind April 20, the day before Thanksgiving has become the second-biggest day for cannabis sales in the U.S.  Brandon Gomez unpacks the new buzzy trend for an age old tradition.  Watch more: cnb.cx/4rliL1B <a href="https://bsky.app/profile/cnbc.com/post/3m6kcnpq3t22s" target="_blank">cnbc.com</a> (2025-11-27 01:47:36)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  1時44分頃、北海道で最大震度2の地震を観測しました。 震源:釧路沖, 深さ:80km, 規模:M4.6 この地震による津波の心配はありません。 (2025-11-27 01:46:53) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/11/27/2025-11-27-01-44-10.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3m6kcmhkdgf2h" target="_blank">sokuho.news</a> (2025-11-27 01:46:54)</span><span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像8🈡 (2025-11-27 01:45:05) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m6kcjt6edz2m" target="_blank">sokuho.news</a> (2025-11-27 01:45:26)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49559.07 (🔺546.82 : 2025-11-26)</span><span style="padding-right:50px;">DOW: 47467.85 (🔺271.70 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23236.17 (🔺72.98 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.94 (🔻0.69 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3141.00 (🔺12.00 : 2025-11-26)</span><span style="padding-right:50px;">USD/JPY: 156.34 (🔺0.32 : 2025-11-26)</span>
+<span style="padding-right:50px;">NIKKEI: 49559.07 (🔺546.82 : 2025-11-26)</span><span style="padding-right:50px;">DOW: 47524.54 (🔺328.39 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23256.67 (🔺93.47 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 181.14 (🔻0.49 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3141.00 (🔺12.00 : 2025-11-26)</span><span style="padding-right:50px;">USD/JPY: 156.38 (🔺0.36 : 2025-11-26)</span>
   </div>
 </div>
 
@@ -30,86 +30,128 @@
 
 ---
 
-## [2025-11-27 01:30 updated](2025_11_27.md)
+## [2025-11-27 01:50 updated](2025_11_27.md)
 
-@wsj.com
+@en.afp.com
 
-<strong><span style="color: red;">Breaking:</span> The Georgia election-interference case against Trump is over, as a prosecutor asks the judge to drop the case against the president and his allies.</strong>
+VIDEO: 🇳🇬 What's behind Nigeria's kidnapping crisis?
 
-[2025-11-27 01:28:43](https://bsky.app/profile/wsj.com/post/3m6kblxbiqw2w)
+The abduction of hundreds of Nigerians, including almost 350 schoolchildren in just a matter of days, has reignited a pressing debate about the persistent security crisis gripping the country
+
+[2025-11-27 01:48:44](https://bsky.app/profile/en.afp.com/post/3m6kcppwnpk2e)
 
 ---
 
-@axios.com
+@sokuho.news
 
-Here's what to know about the DragonFire laser.
+🔔防災科研より【強震モニタ】動画です。
 
-[2025-11-27 01:26:58](https://bsky.app/profile/axios.com/post/3m6kbis6w2s2j)
+震源:釧路沖, 深さ:80km
+マグニチュード:4.6, 最大震度:2
+📍https://www.google.com/maps?q=42.5,144.3&ll=42.5,144.3&z=7&t=h
+地震発生日時:2025-11-27 01:44頃
+(10倍速▶210s→21s) #地震
+
+[2025-11-27 01:48:10](https://bsky.app/profile/sokuho.news/post/3m6kcoq4nuz2h)
+
+---
+
+@cnbc.com
+
+Cannabis has carved out it’s own holiday shopping rush and it’s called “Green Wednesday”. Behind April 20, the day before Thanksgiving has become the second-biggest day for cannabis sales in the U.S.
+
+Brandon Gomez unpacks the new buzzy trend for an age old tradition.
+
+Watch more: cnb.cx/4rliL1B
+
+[2025-11-27 01:47:36](https://bsky.app/profile/cnbc.com/post/3m6kcnpq3t22s)
+
+---
+
+@sokuho.news
+
+🔔気象庁より【地震速報】です。
+
+1時44分頃、北海道で最大震度2の地震を観測しました。
+震源:釧路沖, 深さ:80km, 規模:M4.6
+この地震による津波の心配はありません。
+(2025-11-27 01:46:53) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/11/27/2025-11-27-01-44-10.html?xlarge_image=1
+
+[2025-11-27 01:46:54](https://bsky.app/profile/sokuho.news/post/3m6kcmhkdgf2h)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗
+
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像8🈡
+(2025-11-27 01:45:05) #緊急地震速報
+
+[2025-11-27 01:45:26](https://bsky.app/profile/sokuho.news/post/3m6kcjt6edz2m)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗
+
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像6
+(2025-11-27 01:44:40) #緊急地震速報
+
+[2025-11-27 01:45:23](https://bsky.app/profile/sokuho.news/post/3m6kcjqvvvl2p)
 
 ---
 
 @reuters.com
 
-🎧 We're all about the euro zone economy with Philip Lane of the @ecb.europa.eu on this week's Reuters Econ World podcast. Tune in now reut.rs/4oheFFa
+European Parliament supports year-long deforestation law delay reut.rs/43UX1jb
 
-[2025-11-27 01:26:26](https://bsky.app/profile/reuters.com/post/3m6kbhu7eyc2t)
-
----
-
-@npr.org
-
-<strong><span style="color: red;">JUST IN:</span> The historic Georgia election interference case against President Trump and allies for their efforts to overturn the 2020 election is no more.</strong>
-
-[2025-11-27 01:25:39](https://bsky.app/profile/npr.org/post/3m6kbghnn5w2s)
+[2025-11-27 01:45:19](https://bsky.app/profile/reuters.com/post/3m6kcjml4ln2r)
 
 ---
 
-@reuters.com
+@sokuho.news
 
-Deutsche Bank raises 2026 gold price forecast to $4,450/oz reut.rs/44qGe7P
+🚨地震発生中❗❗
 
-[2025-11-27 01:25:09](https://bsky.app/profile/reuters.com/post/3m6kbfkqhql2y)
+⚠️揺れに警戒してください
 
----
+🔶防災科研/強震モニタ/予測震度画像5
+(2025-11-27 01:44:28) #緊急地震速報
 
-@yahoofinance.com
-
-Black Friday tech shopping only gets more complicated with AI
-
-[2025-11-27 01:21:07](https://bsky.app/profile/yahoofinance.com/post/3m6kb6dxq4a25)
+[2025-11-27 01:45:13](https://bsky.app/profile/sokuho.news/post/3m6kcjgyt7s27)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@sokuho.news
 
-企業・団体献金 国民と公明提出の法案審議入り求める 野党側
-https://news.web.nhk/newsweb/na/na-k10014987381000
+🚨地震発生中❗❗
 
-[2025-11-27 01:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6kb6bjplo2n)
+⚠️揺れに警戒してください
 
----
+🔶防災科研/強震モニタ/予測震度画像4
+(2025-11-27 01:44:25) #緊急地震速報
 
-@financialtimes.com
-
- Citi reshuffles deckchairs but investors would rather it made waves on.ft.com/3M01sTL  | opinion
-
-[2025-11-27 01:20:35](https://bsky.app/profile/financialtimes.com/post/3m6kb5fhe7f2r)
+[2025-11-27 01:45:02](https://bsky.app/profile/sokuho.news/post/3m6kcj4t3oi2m)
 
 ---
 
-@nbcnews.com
+@sokuho.news
 
-NBC's Molly Hunter spoke to Pope Leo XIV outside his lakeside residence, Castel Gandolfo.
+🚨地震発生中❗❗
 
-[2025-11-27 01:20:11](https://bsky.app/profile/nbcnews.com/post/3m6kb4oshgg2t)
+⚠️揺れに警戒してください
 
----
+🔶防災科研/強震モニタ/予測震度画像3
+(2025-11-27 01:44:23) #緊急地震速報
 
-@cnn.com
-
-Democrats are in a position to end the year riding a wave of momentum, with one more chance to over-perform expectations and make the Republican majority in the US House even narrower.
-
-[2025-11-27 01:20:05](https://bsky.app/profile/cnn.com/post/3m6kb4iqosv2s)
+[2025-11-27 01:44:51](https://bsky.app/profile/sokuho.news/post/3m6kcisgwol2p)
 
 ---
 
