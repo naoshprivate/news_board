@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">US Medicare price cuts manageable for most drugmakers, analysts say reut.rs/3KcsYgo <a href="https://bsky.app/profile/reuters.com/post/3m6kkdrsuvp2d" target="_blank">reuters.com</a> (2025-11-27 04:05:13)</span><span style="padding-right:50px;">Google's AI, Gemini, is being added to its smart-home products. Our writer tested it for three weeks in her own home and was both creeped out and annoyed. <a href="https://bsky.app/profile/nytimes.com/post/3m6kkdgvwub2m" target="_blank">nytimes.com</a> (2025-11-27 04:05:02)</span><span style="padding-right:50px;">The Wall Street Journal followed a Lithuanian paramilitary force preparing for what many in the frontier city of Utena now fear: a Russian invasion. <a href="https://bsky.app/profile/wsj.com/post/3m6kk5zp4s62h" target="_blank">wsj.com</a> (2025-11-27 04:02:00)</span><span style="padding-right:50px;">India says examining Bangladesh request for Hasina's extradition reut.rs/43UAEKO <a href="https://bsky.app/profile/reuters.com/post/3m6kk3vr4t22y" target="_blank">reuters.com</a> (2025-11-27 04:00:49)</span><span style="padding-right:50px;">Mike O'Dell's side hustle, a quilting kit company called Legit Kits, brings in six figures per year — and helps him stave off burnout from his full-time job. <a href="https://bsky.app/profile/cnbc.com/post/3m6kk3ong3x2i" target="_blank">cnbc.com</a> (2025-11-27 04:00:41)</span>
+<span style="padding-right:50px;">A leaked telephone conversation between a White House envoy and a top Russian official about the Ukraine peace process sparked a global game of Clue in the search for whodunnit. <a href="https://bsky.app/profile/wsj.com/post/3m6klj25fjh2o" target="_blank">wsj.com</a> (2025-11-27 04:26:03)</span><span style="padding-right:50px;">UK's Reeves scraps two-child welfare cap to cut poverty reut.rs/4p46zRD <a href="https://bsky.app/profile/reuters.com/post/3m6klhimgzj2i" target="_blank">reuters.com</a> (2025-11-27 04:25:11)</span><span style="padding-right:50px;">Eric Swalwell sues FHFA chief, alleging director used private information to attack Trump critics <a href="https://bsky.app/profile/cnbc.com/post/3m6klhawaxb2s" target="_blank">cnbc.com</a> (2025-11-27 04:25:03)</span><span style="padding-right:50px;">A federal judge rules that immigration officers in Colorado can only arrest people without a warrant if they think those people are likely to flee. <a href="https://bsky.app/profile/nbcnews.com/post/3m6kl6lxcwz2y" target="_blank">nbcnews.com</a> (2025-11-27 04:20:13)</span><span style="padding-right:50px;">Hong Kong residents react as deadly fire tears through housing estate <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6kl23b37w2p" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-11-27 04:17:40)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49559.07 (🔺546.82 : 2025-11-26)</span><span style="padding-right:50px;">DOW: 47495.17 (🔺299.02 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23226.28 (🔺63.08 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.21 (🔻1.42 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3141.00 (🔺12.00 : 2025-11-26)</span><span style="padding-right:50px;">USD/JPY: 156.49 (🔺0.47 : 2025-11-26)</span>
+<span style="padding-right:50px;">NIKKEI: 49559.07 (🔺546.82 : 2025-11-26)</span><span style="padding-right:50px;">DOW: 47533.31 (🔺337.16 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23256.88 (🔺93.68 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.57 (🔻1.07 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3141.00 (🔺12.00 : 2025-11-26)</span><span style="padding-right:50px;">USD/JPY: 156.48 (🔺0.46 : 2025-11-26)</span>
   </div>
 </div>
 
@@ -30,87 +30,85 @@
 
 ---
 
-## [2025-11-27 04:10 updated](2025_11_27.md)
-
-@reuters.com
-
-US Medicare price cuts manageable for most drugmakers, analysts say reut.rs/3KcsYgo
-
-[2025-11-27 04:05:13](https://bsky.app/profile/reuters.com/post/3m6kkdrsuvp2d)
-
----
-
-@nytimes.com
-
-Google's AI, Gemini, is being added to its smart-home products. Our writer tested it for three weeks in her own home and was both creeped out and annoyed.
-
-[2025-11-27 04:05:02](https://bsky.app/profile/nytimes.com/post/3m6kkdgvwub2m)
-
----
+## [2025-11-27 04:30 updated](2025_11_27.md)
 
 @wsj.com
 
-The Wall Street Journal followed a Lithuanian paramilitary force preparing for what many in the frontier city of Utena now fear: a Russian invasion.
+A leaked telephone conversation between a White House envoy and a top Russian official about the Ukraine peace process sparked a global game of Clue in the search for whodunnit.
 
-[2025-11-27 04:02:00](https://bsky.app/profile/wsj.com/post/3m6kk5zp4s62h)
+[2025-11-27 04:26:03](https://bsky.app/profile/wsj.com/post/3m6klj25fjh2o)
 
 ---
 
 @reuters.com
 
-India says examining Bangladesh request for Hasina's extradition reut.rs/43UAEKO
+UK's Reeves scraps two-child welfare cap to cut poverty reut.rs/4p46zRD
 
-[2025-11-27 04:00:49](https://bsky.app/profile/reuters.com/post/3m6kk3vr4t22y)
+[2025-11-27 04:25:11](https://bsky.app/profile/reuters.com/post/3m6klhimgzj2i)
 
 ---
 
 @cnbc.com
 
-Mike O'Dell's side hustle, a quilting kit company called Legit Kits, brings in six figures per year — and helps him stave off burnout from his full-time job.
+Eric Swalwell sues FHFA chief, alleging director used private information to attack Trump critics
 
-[2025-11-27 04:00:41](https://bsky.app/profile/cnbc.com/post/3m6kk3ong3x2i)
-
----
-
-@usatoday.com
-
-Jelly Roll poked fun at his beardless look in a new selfie shared to Instagram.
-
-[2025-11-27 04:00:33](https://bsky.app/profile/usatoday.com/post/3m6kk3h7xaj2q)
+[2025-11-27 04:25:03](https://bsky.app/profile/cnbc.com/post/3m6klhawaxb2s)
 
 ---
 
 @nbcnews.com
 
-A U.S. climber was among two people killed in a fall on Aoraki, New Zealand’s tallest peak, authorities say. 
+A federal judge rules that immigration officers in Colorado can only arrest people without a warrant if they think those people are likely to flee.
 
-[2025-11-27 04:00:31](https://bsky.app/profile/nbcnews.com/post/3m6kk3eko3k2j)
-
----
-
-@cnn.com
-
-Politics, football and movies are among the many topics that tend to come up around Thanksgiving. 
-
-In 2025, a new question may arise at the table: Why the heck is everyone talking about AI, and what should I know about it? https://cnn.it/48i1z4p
-
-[2025-11-27 04:00:24](https://bsky.app/profile/cnn.com/post/3m6kk35ye7x2i)
+[2025-11-27 04:20:13](https://bsky.app/profile/nbcnews.com/post/3m6kl6lxcwz2y)
 
 ---
 
-@washingtonpost.com
+@bbcnews-world-rss.bsky.social
 
-On his first official foreign trip, Pope Leo XIV will stop in two Muslim-majority countries — Turkey and Lebanon — where he will confront Israel’s warfare in the Middle East and seek to spread the early themes of his papacy: unity and peace.
+Hong Kong residents react as deadly fire tears through housing estate
 
-[2025-11-27 04:00:22](https://bsky.app/profile/washingtonpost.com/post/3m6kk34buwu2f)
+[2025-11-27 04:17:40](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6kl23b37w2p)
 
 ---
 
-@bloomberg.com
+@nytimes.com
 
-The pumpkin spice index tells a tale of the forces that shape global commodities.
+From @theathletic.com: Here are 10 conversation starters, trivia and fun facts about Thanksgiving’s interwoven history with football, to make you seem like the most well-informed fan at your holiday gathering.
 
-[2025-11-27 04:00:17](https://bsky.app/profile/bloomberg.com/post/3m6kk2xxyvu2y)
+[2025-11-27 04:16:03](https://bsky.app/profile/nytimes.com/post/3m6kkx6bhwi2w)
+
+---
+
+@reuters.com
+
+China pushes for mediation to resolve Nexperia dispute reut.rs/3XglfAO
+
+[2025-11-27 04:15:19](https://bsky.app/profile/reuters.com/post/3m6kkvtn4m527)
+
+---
+
+@usatoday.com
+
+Most plumbing calls on Brown Friday are about fixing kitchen sink clogs, not restroom issues.
+
+[2025-11-27 04:15:10](https://bsky.app/profile/usatoday.com/post/3m6kkvl6ldw2d)
+
+---
+
+@usatoday.com
+
+<strong><span style="color: red;">Breaking:</span> Dozens dead, hundreds missing as deadliest Hong Kong fire in decades tears through high-rise. Follow updates. </strong>
+
+[2025-11-27 04:11:36](https://bsky.app/profile/usatoday.com/post/3m6kkp7gmhz2x)
+
+---
+
+@financialtimes.com
+
+ A tax-raising British Budget with no long-term solutions on.ft.com/3M4gqbm  | opinion
+
+[2025-11-27 04:11:33](https://bsky.app/profile/financialtimes.com/post/3m6kkp3zuyi26)
 
 ---
 
