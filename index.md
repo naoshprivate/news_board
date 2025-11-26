@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">JUST IN: A Peruvian court sentenced former President Martin Vizcarra to 14 years in prison after finding him guilty of taking bribes years before he took office, adding to a list of former leaders jailed for corruption reut.rs/4p6OqCH <a href="https://bsky.app/profile/reuters.com/post/3m6kg3fbzns25" target="_blank">reuters.com</a> (2025-11-27 02:48:57)</span><span style="padding-right:50px;">Reeves leaves Britons poorer but no wiser about Labour’s strategy on.ft.com/4ofdjux <a href="https://bsky.app/profile/financialtimes.com/post/3m6kg27blel2r" target="_blank">financialtimes.com</a> (2025-11-27 02:48:17)</span><span style="padding-right:50px;">Key measures in the budget proposed by UK finance minister Reeves reut.rs/3XgbHps <a href="https://bsky.app/profile/reuters.com/post/3m6kfv5y27l2y" target="_blank">reuters.com</a> (2025-11-27 02:45:27)</span><span style="padding-right:50px;">Massachusetts Institute of Technology on Wednesday released a study that found that artificial intelligence can already replace 11.7% of the U.S. labor market, or as much as $1.2 trillion in wages across finance, health care and professional services.  Read more: cnb.cx/481dqoM <a href="https://bsky.app/profile/cnbc.com/post/3m6kfv3c2m42o" target="_blank">cnbc.com</a> (2025-11-27 02:45:25)</span><span style="padding-right:50px;">Advent calendars have evolved into creatively designed collections that dispense items ranging from pet toys to soaps, fishing equipment to art supplies. Here, find suggestions for countdown calendars that cater to different interests.  <a href="https://bsky.app/profile/apnews.com/post/3m6kfuog5c32f" target="_blank">apnews.com</a> (2025-11-27 02:45:11)</span>
+<span style="padding-right:50px;">Russia said the leak of a recording of a call between top advisers to Donald Trump and Vladimir Putin was unacceptable and clearly aimed at hindering discussions between Russia and the United States reut.rs/3Xk4PHz <a href="https://bsky.app/profile/reuters.com/post/3m6kh5slxts25" target="_blank">reuters.com</a> (2025-11-27 03:08:11)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】香港高層住宅火災の死者は36人に 「279人と連絡取れなくなっている」李家超長官が緊急会見 (2025-11-27 03:04) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6kh274k5y2g" target="_blank">sokuho.news</a> (2025-11-27 03:06:10)</span><span style="padding-right:50px;">UK reforms 'motability' scheme to curb 'generous' taxpayers subsidies reut.rs/4pCgNIQ <a href="https://bsky.app/profile/reuters.com/post/3m6kgygz3ki2r" target="_blank">reuters.com</a> (2025-11-27 03:05:11)</span><span style="padding-right:50px;">9月の米コア資本財受注は0.9%増、3カ月連続で堅調な伸び－出荷も増加 <a href="https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6kgx24mjx2r" target="_blank">bloomberg-jp.bsky.social</a> (2025-11-27 03:04:24)</span><span style="padding-right:50px;">米住宅ローン申請件数、2023年以来の高水準－金利上昇にもかかわらず <a href="https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6kgwu6m3525" target="_blank">bloomberg-jp.bsky.social</a> (2025-11-27 03:04:18)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49559.07 (🔺546.82 : 2025-11-26)</span><span style="padding-right:50px;">DOW: 47535.61 (🔺339.46 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23251.65 (🔺88.46 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 181.07 (🔻0.56 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3141.00 (🔺12.00 : 2025-11-26)</span><span style="padding-right:50px;">USD/JPY: 156.41 (🔺0.40 : 2025-11-26)</span>
+<span style="padding-right:50px;">NIKKEI: 49559.07 (🔺546.82 : 2025-11-26)</span><span style="padding-right:50px;">DOW: 47473.98 (🔺277.83 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23221.56 (🔺58.37 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.85 (🔻0.78 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3141.00 (🔺12.00 : 2025-11-26)</span><span style="padding-right:50px;">USD/JPY: 156.37 (🔺0.35 : 2025-11-26)</span>
   </div>
 </div>
 
@@ -30,88 +30,88 @@
 
 ---
 
-## [2025-11-27 02:50 updated](2025_11_27.md)
+## [2025-11-27 03:10 updated](2025_11_27.md)
 
 @reuters.com
 
-<strong><span style="color: red;">JUST IN:</span> A Peruvian court sentenced former President Martin Vizcarra to 14 years in prison after finding him guilty of taking bribes years before he took office, adding to a list of former leaders jailed for corruption reut.rs/4p6OqCH</strong>
+Russia said the leak of a recording of a call between top advisers to Donald Trump and Vladimir Putin was unacceptable and clearly aimed at hindering discussions between Russia and the United States reut.rs/3Xk4PHz
 
-[2025-11-27 02:48:57](https://bsky.app/profile/reuters.com/post/3m6kg3fbzns25)
+[2025-11-27 03:08:11](https://bsky.app/profile/reuters.com/post/3m6kh5slxts25)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】香港高層住宅火災の死者は36人に 「279人と連絡取れなくなっている」李家超長官が緊急会見
+(2025-11-27 03:04) #ニュース
+
+[2025-11-27 03:06:10](https://bsky.app/profile/sokuho.news/post/3m6kh274k5y2g)
+
+---
+
+@reuters.com
+
+UK reforms 'motability' scheme to curb 'generous' taxpayers subsidies reut.rs/4pCgNIQ
+
+[2025-11-27 03:05:11](https://bsky.app/profile/reuters.com/post/3m6kgygz3ki2r)
+
+---
+
+@bloomberg-jp.bsky.social
+
+9月の米コア資本財受注は0.9%増、3カ月連続で堅調な伸び－出荷も増加
+
+[2025-11-27 03:04:24](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6kgx24mjx2r)
+
+---
+
+@bloomberg-jp.bsky.social
+
+米住宅ローン申請件数、2023年以来の高水準－金利上昇にもかかわらず
+
+[2025-11-27 03:04:18](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6kgwu6m3525)
 
 ---
 
 @financialtimes.com
 
-Reeves leaves Britons poorer but no wiser about Labour’s strategy on.ft.com/4ofdjux
+ Reeves’ fiscal ‘smorgasbord’ was a dish best served early on.ft.com/4p0LS8R  | opinion
 
-[2025-11-27 02:48:17](https://bsky.app/profile/financialtimes.com/post/3m6kg27blel2r)
+[2025-11-27 03:04:09](https://bsky.app/profile/financialtimes.com/post/3m6kgwlsdco24)
+
+---
+
+@financialtimes.com
+
+ The new nuclear age needs to make the right business case on.ft.com/4ixzuef  | opinion
+
+[2025-11-27 03:04:09](https://bsky.app/profile/financialtimes.com/post/3m6kgwlqwqc2j)
+
+---
+
+@nbcnews.com
+
+UPDATE: 36 people are dead after a major fire tore through multiple high-rise towers at a housing estate in Hong Kong, officials say, with 279 people still unaccounted for.
+
+[2025-11-27 03:02:49](https://bsky.app/profile/nbcnews.com/post/3m6kgu6ycqc2f)
 
 ---
 
 @reuters.com
 
-Key measures in the budget proposed by UK finance minister Reeves reut.rs/3XgbHps
+Britain cuts tax-free allowance for cash savings to spur investing reut.rs/4pxVx6M
 
-[2025-11-27 02:45:27](https://bsky.app/profile/reuters.com/post/3m6kfv5y27l2y)
-
----
-
-@cnbc.com
-
-Massachusetts Institute of Technology on Wednesday released a study that found that artificial intelligence can already replace 11.7% of the U.S. labor market, or as much as $1.2 trillion in wages across finance, health care and professional services.
-
-Read more: cnb.cx/481dqoM
-
-[2025-11-27 02:45:25](https://bsky.app/profile/cnbc.com/post/3m6kfv3c2m42o)
-
----
-
-@apnews.com
-
-Advent calendars have evolved into creatively designed collections that dispense items ranging from pet toys to soaps, fishing equipment to art supplies. Here, find suggestions for countdown calendars that cater to different interests. 
-
-[2025-11-27 02:45:11](https://bsky.app/profile/apnews.com/post/3m6kfuog5c32f)
-
----
-
-@nhknewsunofficial.bsky.social
-
-上海で日中のサッカーチームが対戦 厳戒態勢も大きな混乱なし
-https://news.web.nhk/newsweb/na/na-k10014987281000
-
-[2025-11-27 02:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6kfulk3f22k)
+[2025-11-27 03:01:14](https://bsky.app/profile/reuters.com/post/3m6kgrejnbl2i)
 
 ---
 
 @washingtonpost.com
 
-The mother of White House press secretary Karoline Leavitt’s 11-year-old nephew has been arrested for alleged civil immigration violations and is in a detention center fighting deportation to her native Brazil.
+Gramma, a Galápagos tortoise known as San Diego’s “Queen of the Zoo,” died after close to 141 years of existence — which included 20 presidents, two world wars and a pair of pandemics.
 
-[2025-11-27 02:44:29](https://bsky.app/profile/washingtonpost.com/post/3m6kftgo3rx2a)
-
----
-
-@reuters.com
-
-UK to raise dividend, property and savings tax rates by 2 percentage points reut.rs/43UNhWh
-
-[2025-11-27 02:40:24](https://bsky.app/profile/reuters.com/post/3m6kfm4ypsc26)
-
----
-
-@nytimes.com
-
-“It became a ritual. There were no ifs, ands or buts.” Six women in their 70s, all married and all mothers and grandmothers, have been meeting twice a month for 44 years. Over 90 minutes, they share with each other — and a paid facilitator — their worries, struggles and triumphs.
-
-[2025-11-27 02:40:05](https://bsky.app/profile/nytimes.com/post/3m6kflkisit2q)
-
----
-
-@reuters.com
-
-Tractor maker Deere flags higher 2026 tariff hit, weak profit reut.rs/4p39bit
-
-[2025-11-27 02:35:09](https://bsky.app/profile/reuters.com/post/3m6kfcqmnwm2n)
+[2025-11-27 03:00:39](https://bsky.app/profile/washingtonpost.com/post/3m6kgqddhbc2o)
 
 ---
 
