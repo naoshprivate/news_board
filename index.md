@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">One shopper in her 50s says she always gets complimented when she wears her Marfa Stance coat. “I can’t tell you how many 20-something young men have stopped me.” 🔗 on.wsj.com/3M1FjV9 <a href="https://bsky.app/profile/wsj.com/post/3m6kxubxfn72h" target="_blank">wsj.com</a> (2025-11-27 08:07:05)</span><span style="padding-right:50px;">Democratic-led states sue over Trump's food aid cuts for immigrants reut.rs/3Xhbu5p <a href="https://bsky.app/profile/reuters.com/post/3m6kxqutlfb26" target="_blank">reuters.com</a> (2025-11-27 08:05:11)</span><span style="padding-right:50px;">Supreme Court leaves copyright official targeted by Trump in place for now reut.rs/4iogDC9 <a href="https://bsky.app/profile/reuters.com/post/3m6kxjpyteh2n" target="_blank">reuters.com</a> (2025-11-27 08:01:11)</span><span style="padding-right:50px;">Pope Leo XIV begins a six-day visit to Turkey and Lebanon on Thursday, his first foreign trip since his election and one on which he’s expected to emphasize key themes of his fledgling pontificate – among them dialogue and unity.  <a href="https://bsky.app/profile/cnn.com/post/3m6kxjjbk722m" target="_blank">cnn.com</a> (2025-11-27 08:01:04)</span><span style="padding-right:50px;">西アフリカのギニアビサウでクーデターか　軍が「権力掌握」を宣言 www.nikkei.com/article/DGXZQO...  11月23日の大統領選挙と国会選挙では現職のエンバロ大統領と対立候補の双方が勝利を主張。  軍は大統領を解任し選挙プロセスを停止すると宣言しました。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m6kxjhw3k72k" target="_blank">nikkei.com</a> (2025-11-27 08:01:03)</span>
+<span style="padding-right:50px;">National Guard soldiers shot in 'targeted' attack near White House reut.rs/4oi6Tuw <a href="https://bsky.app/profile/reuters.com/post/3m6kyumuyyk2i" target="_blank">reuters.com</a> (2025-11-27 08:25:10)</span><span style="padding-right:50px;">Some doctors say the chemicals all around us—from golf courses to dry cleaners—may be increasing our risk of Parkinson’s disease, the fastest-growing neurodegenerative disease in the world.  Read more: on.wsj.com/4om76NA <a href="https://bsky.app/profile/wsj.com/post/3m6kypw43fz2r" target="_blank">wsj.com</a> (2025-11-27 08:22:32)</span><span style="padding-right:50px;">ICE detains mother of White House press secretary Karoline Leavitt's nephew reut.rs/49It0H5 <a href="https://bsky.app/profile/reuters.com/post/3m6kycvgctr27" target="_blank">reuters.com</a> (2025-11-27 08:15:16)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】3人が乗った乗用車が横転 1人が重体の模様 国道413号の通行止め解除 山梨・道志村 (2025-11-27 08:12:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6kybv5e6527" target="_blank">sokuho.news</a> (2025-11-27 08:14:42)</span><span style="padding-right:50px;">Residents of the Loop, Chicago’s downtown area, live on average until they are 87. In the West Garfield Park neighborhood, the average is 67. (via @wbez.org) <a href="https://bsky.app/profile/npr.org/post/3m6ky4us4jl2g" target="_blank">npr.org</a> (2025-11-27 08:11:54)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49559.07 (🔺546.82 : 2025-11-26)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3141.00 (🔺12.00 : 2025-11-26)</span><span style="padding-right:50px;">USD/JPY: 156.35 (🔻0.05 : 2025-11-26)</span>
+<span style="padding-right:50px;">NIKKEI: 49559.07 (🔺546.82 : 2025-11-26)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3141.00 (🔺12.00 : 2025-11-26)</span><span style="padding-right:50px;">USD/JPY: 156.29 (🔻0.11 : 2025-11-26)</span>
   </div>
 </div>
 
@@ -30,7 +30,60 @@
 
 ---
 
-## [2025-11-27 08:10 updated](2025_11_27.md)
+## [2025-11-27 08:30 updated](2025_11_27.md)
+
+@reuters.com
+
+National Guard soldiers shot in 'targeted' attack near White House reut.rs/4oi6Tuw
+
+[2025-11-27 08:25:10](https://bsky.app/profile/reuters.com/post/3m6kyumuyyk2i)
+
+---
+
+@wsj.com
+
+Some doctors say the chemicals all around us—from golf courses to dry cleaners—may be increasing our risk of Parkinson’s disease, the fastest-growing neurodegenerative disease in the world.
+
+Read more: on.wsj.com/4om76NA
+
+[2025-11-27 08:22:32](https://bsky.app/profile/wsj.com/post/3m6kypw43fz2r)
+
+---
+
+@reuters.com
+
+ICE detains mother of White House press secretary Karoline Leavitt's nephew reut.rs/49It0H5
+
+[2025-11-27 08:15:16](https://bsky.app/profile/reuters.com/post/3m6kycvgctr27)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】3人が乗った乗用車が横転 1人が重体の模様 国道413号の通行止め解除 山梨・道志村
+(2025-11-27 08:12:00) #ニュース
+
+[2025-11-27 08:14:42](https://bsky.app/profile/sokuho.news/post/3m6kybv5e6527)
+
+---
+
+@npr.org
+
+Residents of the Loop, Chicago’s downtown area, live on average until they are 87. In the West Garfield Park neighborhood, the average is 67. (via @wbez.org)
+
+[2025-11-27 08:11:54](https://bsky.app/profile/npr.org/post/3m6ky4us4jl2g)
+
+---
+
+@reuters.com
+
+Hong Kong inferno puts spotlight on risky bamboo scaffolding reut.rs/3M0VwKg
+
+[2025-11-27 08:10:22](https://bsky.app/profile/reuters.com/post/3m6ky25el362w)
+
+---
 
 @wsj.com
 
@@ -61,61 +114,6 @@ Supreme Court leaves copyright official targeted by Trump in place for now reut.
 Pope Leo XIV begins a six-day visit to Turkey and Lebanon on Thursday, his first foreign trip since his election and one on which he’s expected to emphasize key themes of his fledgling pontificate – among them dialogue and unity. 
 
 [2025-11-27 08:01:04](https://bsky.app/profile/cnn.com/post/3m6kxjjbk722m)
-
----
-
-@nikkei.com
-
-西アフリカのギニアビサウでクーデターか　軍が「権力掌握」を宣言
-www.nikkei.com/article/DGXZQO...
-
-11月23日の大統領選挙と国会選挙では現職のエンバロ大統領と対立候補の双方が勝利を主張。
-
-軍は大統領を解任し選挙プロセスを停止すると宣言しました。
-
-#ニュース
-
-[2025-11-27 08:01:03](https://bsky.app/profile/nikkei.com/post/3m6kxjhw3k72k)
-
----
-
-@usatoday.com
-
-Guy Fieri is opening up about a dramatic accident that landed him in the hospital amid filming for his new Food Network show.
-
-[2025-11-27 08:00:56](https://bsky.app/profile/usatoday.com/post/3m6kxjbtsww2u)
-
----
-
-@aljazeera.com
-
-The US president has repeatedly accused South Africa of perpetrating human rights abuses against white Afrikaners.
-
-[2025-11-27 08:00:26](https://bsky.app/profile/aljazeera.com/post/3m6kxifl5vf2z)
-
----
-
-@cnbc.com
-
-Anwar White has been a dating coach for more than a decade. His company, Get Your Guy Coaching, offers courses, group sessions and one-on-one coaching. 
-
-[2025-11-27 08:00:21](https://bsky.app/profile/cnbc.com/post/3m6kxia6jpe2g)
-
----
-
-@washingtonpost.com
-
-The Supreme Court said it would defer a decision about whether President Trump can fire the nation’s top copyright official until after it handles a pair of other cases weighing the legality of Trump’s removal of high-ranking bureaucrats.
-
-[2025-11-27 08:00:15](https://bsky.app/profile/washingtonpost.com/post/3m6kxi2qmaf23)
-
----
-
-@apnews.com
-
-Billionaire philanthropist MacKenzie Scott is one of the world's wealthiest women.
-
-[2025-11-27 08:00:15](https://bsky.app/profile/apnews.com/post/3m6kxi2um2e2j)
 
 ---
 
