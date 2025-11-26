@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">UK to cut household energy bills by 150 pounds a year reut.rs/4pwWvQP <a href="https://bsky.app/profile/reuters.com/post/3m6kmlia7ub2i" target="_blank">reuters.com</a> (2025-11-27 04:45:19)</span><span style="padding-right:50px;">Opinion: The biggest losers of the UK Budget are set to be Henrys and Henriettas — a shorthand for young professionals who are High Earners, but Not Rich Yet. And two measures make it particularly horrid for them. on.ft.com/48Ck8BK <a href="https://bsky.app/profile/financialtimes.com/post/3m6kmkans3r2v" target="_blank">financialtimes.com</a> (2025-11-27 04:44:37)</span><span style="padding-right:50px;">Britain eases opposition to new oil, gas permits, holds firm on taxes reut.rs/3M0DV5a <a href="https://bsky.app/profile/reuters.com/post/3m6kmchmf572k" target="_blank">reuters.com</a> (2025-11-27 04:40:16)</span><span style="padding-right:50px;">Four Marion County Fire and Rescue employees were arrested in connection with a "violent hazing incident" that included allegedly waterboarding a 19-year-old co-worker, the county's sheriff's office says in a news release. <a href="https://bsky.app/profile/nbcnews.com/post/3m6kmcdei6222" target="_blank">nbcnews.com</a> (2025-11-27 04:40:12)</span><span style="padding-right:50px;">As far as special holiday showstopping desserts go, one recipe reigns supreme: David Tanis’s cranberry curd tart. It’s not too sweet and gluten-free. Five stars and over 10,500 reviews later, it’s our most popular Thanksgiving dessert. <a href="https://bsky.app/profile/nytimes.com/post/3m6kmacpw4u2h" target="_blank">nytimes.com</a> (2025-11-27 04:39:04)</span>
+<span style="padding-right:50px;">Breaking news: At least three people were just shot near the White House, including two National Guardsmen. Their conditions are currently unknown.  Follow live updates: https://wapo.st/4p0ZdOt <a href="https://bsky.app/profile/washingtonpost.com/post/3m6knwbgwzk2s" target="_blank">washingtonpost.com</a> (2025-11-27 05:09:15)</span><span style="padding-right:50px;">ホワイトハウス付近で銃撃　少なくとも2人負傷、警戒中の州兵か www.nikkei.com/article/DGXZQO... <a href="https://bsky.app/profile/nikkei.com/post/3m6knvo3zpn2l" target="_blank">nikkei.com</a> (2025-11-27 05:08:54)</span><span style="padding-right:50px;">BREAKING: Two members of the National Guard were shot in Washington, D.C., Homeland Security Secretary Kristi Noem said in a post on X reut.rs/4pDmypI <a href="https://bsky.app/profile/reuters.com/post/3m6kntzzg2225" target="_blank">reuters.com</a> (2025-11-27 05:08:00)</span><span style="padding-right:50px;">Bloomberg News Now is a comprehensive audio report of today's top stories. Hear the latest news, updated throughout the day, covering global business stories in just a few minutes. <a href="https://bsky.app/profile/bloomberg.com/post/3m6knrdoscw2d" target="_blank">bloomberg.com</a> (2025-11-27 05:06:29)</span><span style="padding-right:50px;">Fed's Beige Book shows cooler consumer spending, muted hiring, higher prices <a href="https://bsky.app/profile/yahoofinance.com/post/3m6knrbl6sg2z" target="_blank">yahoofinance.com</a> (2025-11-27 05:06:27)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49559.07 (🔺546.82 : 2025-11-26)</span><span style="padding-right:50px;">DOW: 47494.72 (🔺298.57 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23228.44 (🔺65.24 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 179.98 (🔻1.65 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3141.00 (🔺12.00 : 2025-11-26)</span><span style="padding-right:50px;">USD/JPY: 156.44 (🔺0.42 : 2025-11-26)</span>
+<span style="padding-right:50px;">NIKKEI: 49559.07 (🔺546.82 : 2025-11-26)</span><span style="padding-right:50px;">DOW: 47491.51 (🔺295.36 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23250.03 (🔺86.83 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.41 (🔻1.22 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3141.00 (🔺12.00 : 2025-11-26)</span><span style="padding-right:50px;">USD/JPY: 156.44 (🔺0.42 : 2025-11-26)</span>
   </div>
 </div>
 
@@ -30,85 +30,88 @@
 
 ---
 
-## [2025-11-27 04:50 updated](2025_11_27.md)
+## [2025-11-27 05:10 updated](2025_11_27.md)
+
+@washingtonpost.com
+
+Breaking news: At least three people were just shot near the White House, including two National Guardsmen. Their conditions are currently unknown.
+
+Follow live updates: https://wapo.st/4p0ZdOt
+
+[2025-11-27 05:09:15](https://bsky.app/profile/washingtonpost.com/post/3m6knwbgwzk2s)
+
+---
+
+@nikkei.com
+
+ホワイトハウス付近で銃撃　少なくとも2人負傷、警戒中の州兵か
+www.nikkei.com/article/DGXZQO...
+
+[2025-11-27 05:08:54](https://bsky.app/profile/nikkei.com/post/3m6knvo3zpn2l)
+
+---
 
 @reuters.com
 
-UK to cut household energy bills by 150 pounds a year reut.rs/4pwWvQP
+<strong><span style="color: red;">BREAKING:</span> Two members of the National Guard were shot in Washington, D.C., Homeland Security Secretary Kristi Noem said in a post on X reut.rs/4pDmypI</strong>
 
-[2025-11-27 04:45:19](https://bsky.app/profile/reuters.com/post/3m6kmlia7ub2i)
-
----
-
-@financialtimes.com
-
-Opinion: The biggest losers of the UK Budget are set to be Henrys and Henriettas — a shorthand for young professionals who are High Earners, but Not Rich Yet. And two measures make it particularly horrid for them. on.ft.com/48Ck8BK
-
-[2025-11-27 04:44:37](https://bsky.app/profile/financialtimes.com/post/3m6kmkans3r2v)
+[2025-11-27 05:08:00](https://bsky.app/profile/reuters.com/post/3m6kntzzg2225)
 
 ---
 
-@reuters.com
+@bloomberg.com
 
-Britain eases opposition to new oil, gas permits, holds firm on taxes reut.rs/3M0DV5a
+Bloomberg News Now is a comprehensive audio report of today's top stories. Hear the latest news, updated throughout the day, covering global business stories in just a few minutes.
 
-[2025-11-27 04:40:16](https://bsky.app/profile/reuters.com/post/3m6kmchmf572k)
-
----
-
-@nbcnews.com
-
-Four Marion County Fire and Rescue employees were arrested in connection with a "violent hazing incident" that included allegedly waterboarding a 19-year-old co-worker, the county's sheriff's office says in a news release.
-
-[2025-11-27 04:40:12](https://bsky.app/profile/nbcnews.com/post/3m6kmcdei6222)
-
----
-
-@nytimes.com
-
-As far as special holiday showstopping desserts go, one recipe reigns supreme: David Tanis’s cranberry curd tart. It’s not too sweet and gluten-free. Five stars and over 10,500 reviews later, it’s our most popular Thanksgiving dessert.
-
-[2025-11-27 04:39:04](https://bsky.app/profile/nytimes.com/post/3m6kmacpw4u2h)
+[2025-11-27 05:06:29](https://bsky.app/profile/bloomberg.com/post/3m6knrdoscw2d)
 
 ---
 
 @yahoofinance.com
 
-Mortgage rates dropped this week amid fresh signs of job market weakness
+Fed's Beige Book shows cooler consumer spending, muted hiring, higher prices
 
-[2025-11-27 04:36:07](https://bsky.app/profile/yahoofinance.com/post/3m6km2zyxqn2k)
+[2025-11-27 05:06:27](https://bsky.app/profile/yahoofinance.com/post/3m6knrbl6sg2z)
+
+---
+
+@nytimes.com
+
+From @theathleticfc.bsky.social: Moroccan footballer Ilias Chair was convicted in 2024 of assaulting a man by hitting him with a stone and fracturing his skull. This is the first time Chair has spoken publicly about what happened.
+
+[2025-11-27 05:06:03](https://bsky.app/profile/nytimes.com/post/3m6knqklnzs27)
 
 ---
 
 @reuters.com
 
-Ireland tightens immigration rules in bid to slow population growth reut.rs/48BSqVN
+Trump administration again seeks to end Haitian protected status reut.rs/4iqC1qL
 
-[2025-11-27 04:35:12](https://bsky.app/profile/reuters.com/post/3m6klzfp3sv2y)
-
----
-
-@reuters.com
-
-LOT passenger jet veers off Vilnius taxiway, no injuries reported reut.rs/4ijSNHQ
-
-[2025-11-27 04:30:37](https://bsky.app/profile/reuters.com/post/3m6klr7ksfa2a)
+[2025-11-27 05:05:13](https://bsky.app/profile/reuters.com/post/3m6knp2x5w52e)
 
 ---
 
-@usatoday.com
+@cnn.com
 
-Jeep slams influencers who pull apart new Recon at LA Auto Show
+In the foothills of the San Gabriel Mountains, a 35-foot-tall structure made of bright lights and giant metal crossbeams withstood the deadly Eaton Fire’s flames. Its story reached back nearly a century, buoyed by a short list of devoted caretakers: https://cnn.it/3M5AZ7d
 
-[2025-11-27 04:30:31](https://bsky.app/profile/usatoday.com/post/3m6klqza5bj2h)
+[2025-11-27 05:05:05](https://bsky.app/profile/cnn.com/post/3m6knot6t2z2n)
 
 ---
 
-@aljazeera.com
+@cnn.com
 
-Syrian government security deployments helped avoid sectarian violence, unlike previous incidents this year.
+<strong><span style="color: red;">BREAKING:</span> Several people shot near the White House in Washington, DC, including at least one National Guardsman https://cnn.it/48jPTy2</strong>
 
-[2025-11-27 04:30:25](https://bsky.app/profile/aljazeera.com/post/3m6klquay2b2l)
+[2025-11-27 05:03:59](https://bsky.app/profile/cnn.com/post/3m6knmuaowb2n)
+
+---
+
+@financialtimes.com
+
+‘Spend now, pay later’: Reeves’ Budget delays the fiscal pain on.ft.com/49DaSyk
+
+[2025-11-27 05:03:21](https://bsky.app/profile/financialtimes.com/post/3m6knlpruu526)
 
 ---
 
