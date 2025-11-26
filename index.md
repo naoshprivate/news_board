@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Instant View: Sterling, UK bond prices rise as Reeves' budget delivers more headroom reut.rs/48B2kHb <a href="https://bsky.app/profile/reuters.com/post/3m6kja5fbok2k" target="_blank">reuters.com</a> (2025-11-27 03:45:17)</span><span style="padding-right:50px;">This gold miner ETF can give a blueprint on whether the health care rally can go on. Here's why <a href="https://bsky.app/profile/cnbc.com/post/3m6kj6lrxhu2f" target="_blank">cnbc.com</a> (2025-11-27 03:44:25)</span><span style="padding-right:50px;">Retailers use marketing techniques to get you to spend more, like creating a false sense of urgency or creating artificial discounts. Outsmart the gimmicks with these tips. n.pr/4irpN0W <a href="https://bsky.app/profile/npr.org/post/3m6kj4gybds2s" target="_blank">npr.org</a> (2025-11-27 03:43:13)</span><span style="padding-right:50px;">SCOOP: The Trump administration has instructed employees and grantees not to use U.S. funds to commemorate World AIDS Day — because the observance was started by the World Health Organization.   www.nytimes.com/2025/11/26/h... <a href="https://bsky.app/profile/apoorvanyt.bsky.social/post/3m6kiztjo4k2l" target="_blank">apoorvanyt.bsky.social</a> (2025-11-27 03:41:46)</span><span style="padding-right:50px;">From @theathletic.com: Similar to last season's squad, the New York Knicks are a good team with legitimate flaws. Should they make a move before the NBA trade deadline? <a href="https://bsky.app/profile/nytimes.com/post/3m6kiyndos72w" target="_blank">nytimes.com</a> (2025-11-27 03:41:05)</span>
+<span style="padding-right:50px;">US Medicare price cuts manageable for most drugmakers, analysts say reut.rs/3KcsYgo <a href="https://bsky.app/profile/reuters.com/post/3m6kkdrsuvp2d" target="_blank">reuters.com</a> (2025-11-27 04:05:13)</span><span style="padding-right:50px;">Google's AI, Gemini, is being added to its smart-home products. Our writer tested it for three weeks in her own home and was both creeped out and annoyed. <a href="https://bsky.app/profile/nytimes.com/post/3m6kkdgvwub2m" target="_blank">nytimes.com</a> (2025-11-27 04:05:02)</span><span style="padding-right:50px;">The Wall Street Journal followed a Lithuanian paramilitary force preparing for what many in the frontier city of Utena now fear: a Russian invasion. <a href="https://bsky.app/profile/wsj.com/post/3m6kk5zp4s62h" target="_blank">wsj.com</a> (2025-11-27 04:02:00)</span><span style="padding-right:50px;">India says examining Bangladesh request for Hasina's extradition reut.rs/43UAEKO <a href="https://bsky.app/profile/reuters.com/post/3m6kk3vr4t22y" target="_blank">reuters.com</a> (2025-11-27 04:00:49)</span><span style="padding-right:50px;">Mike O'Dell's side hustle, a quilting kit company called Legit Kits, brings in six figures per year — and helps him stave off burnout from his full-time job. <a href="https://bsky.app/profile/cnbc.com/post/3m6kk3ong3x2i" target="_blank">cnbc.com</a> (2025-11-27 04:00:41)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49559.07 (🔺546.82 : 2025-11-26)</span><span style="padding-right:50px;">DOW: 47505.46 (🔺309.31 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23231.38 (🔺68.19 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.32 (🔻1.31 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3141.00 (🔺12.00 : 2025-11-26)</span><span style="padding-right:50px;">USD/JPY: 156.49 (🔺0.47 : 2025-11-26)</span>
+<span style="padding-right:50px;">NIKKEI: 49559.07 (🔺546.82 : 2025-11-26)</span><span style="padding-right:50px;">DOW: 47495.17 (🔺299.02 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23226.28 (🔺63.08 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.21 (🔻1.42 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3141.00 (🔺12.00 : 2025-11-26)</span><span style="padding-right:50px;">USD/JPY: 156.49 (🔺0.47 : 2025-11-26)</span>
   </div>
 </div>
 
@@ -30,87 +30,87 @@
 
 ---
 
-## [2025-11-27 03:50 updated](2025_11_27.md)
+## [2025-11-27 04:10 updated](2025_11_27.md)
 
 @reuters.com
 
-Instant View: Sterling, UK bond prices rise as Reeves' budget delivers more headroom reut.rs/48B2kHb
+US Medicare price cuts manageable for most drugmakers, analysts say reut.rs/3KcsYgo
 
-[2025-11-27 03:45:17](https://bsky.app/profile/reuters.com/post/3m6kja5fbok2k)
-
----
-
-@cnbc.com
-
-This gold miner ETF can give a blueprint on whether the health care rally can go on. Here's why
-
-[2025-11-27 03:44:25](https://bsky.app/profile/cnbc.com/post/3m6kj6lrxhu2f)
-
----
-
-@npr.org
-
-Retailers use marketing techniques to get you to spend more, like creating a false sense of urgency or creating artificial discounts. Outsmart the gimmicks with these tips. n.pr/4irpN0W
-
-[2025-11-27 03:43:13](https://bsky.app/profile/npr.org/post/3m6kj4gybds2s)
-
----
-
-@apoorvanyt.bsky.social
-
-SCOOP: The Trump administration has instructed employees and grantees not to use U.S. funds to commemorate World AIDS Day — because the observance was started by the World Health Organization. 
-
-www.nytimes.com/2025/11/26/h...
-
-[2025-11-27 03:41:46](https://bsky.app/profile/apoorvanyt.bsky.social/post/3m6kiztjo4k2l)
+[2025-11-27 04:05:13](https://bsky.app/profile/reuters.com/post/3m6kkdrsuvp2d)
 
 ---
 
 @nytimes.com
 
-From @theathletic.com: Similar to last season's squad, the New York Knicks are a good team with legitimate flaws. Should they make a move before the NBA trade deadline?
+Google's AI, Gemini, is being added to its smart-home products. Our writer tested it for three weeks in her own home and was both creeped out and annoyed.
 
-[2025-11-27 03:41:05](https://bsky.app/profile/nytimes.com/post/3m6kiyndos72w)
+[2025-11-27 04:05:02](https://bsky.app/profile/nytimes.com/post/3m6kkdgvwub2m)
+
+---
+
+@wsj.com
+
+The Wall Street Journal followed a Lithuanian paramilitary force preparing for what many in the frontier city of Utena now fear: a Russian invasion.
+
+[2025-11-27 04:02:00](https://bsky.app/profile/wsj.com/post/3m6kk5zp4s62h)
 
 ---
 
 @reuters.com
 
-US weekly jobless claims at seven-month low as layoffs remain low reut.rs/4p6MTfU
+India says examining Bangladesh request for Hasina's extradition reut.rs/43UAEKO
 
-[2025-11-27 03:40:39](https://bsky.app/profile/reuters.com/post/3m6kixtzish2n)
-
----
-
-@nbcnews.com
-
-A group of army officers say they have seized power in coup-prone Guinea-Bissau, in a statement read on state television, on the eve of the expected announcement of results from a hotly contested presidential election.
-
-[2025-11-27 03:40:10](https://bsky.app/profile/nbcnews.com/post/3m6kiwyhh7b2t)
-
----
-
-@reuters.com
-
-NYC comptroller's push to drop BlackRock creates test for Mamdani reut.rs/4p4xFIn
-
-[2025-11-27 03:35:11](https://bsky.app/profile/reuters.com/post/3m6kio3ddsx2y)
+[2025-11-27 04:00:49](https://bsky.app/profile/reuters.com/post/3m6kk3vr4t22y)
 
 ---
 
 @cnbc.com
 
-Workday shares sink on subscription revenue guidance concerns
+Mike O'Dell's side hustle, a quilting kit company called Legit Kits, brings in six figures per year — and helps him stave off burnout from his full-time job.
 
-[2025-11-27 03:34:27](https://bsky.app/profile/cnbc.com/post/3m6kimrjvwu2q)
+[2025-11-27 04:00:41](https://bsky.app/profile/cnbc.com/post/3m6kk3ong3x2i)
+
+---
+
+@usatoday.com
+
+Jelly Roll poked fun at his beardless look in a new selfie shared to Instagram.
+
+[2025-11-27 04:00:33](https://bsky.app/profile/usatoday.com/post/3m6kk3h7xaj2q)
 
 ---
 
 @nbcnews.com
 
-The president calls a New York Times reporter “ugly,” the third insult toward a female reporter in recent weeks.
+A U.S. climber was among two people killed in a fall on Aoraki, New Zealand’s tallest peak, authorities say. 
 
-[2025-11-27 03:34:08](https://bsky.app/profile/nbcnews.com/post/3m6kim6vqul2c)
+[2025-11-27 04:00:31](https://bsky.app/profile/nbcnews.com/post/3m6kk3eko3k2j)
+
+---
+
+@cnn.com
+
+Politics, football and movies are among the many topics that tend to come up around Thanksgiving. 
+
+In 2025, a new question may arise at the table: Why the heck is everyone talking about AI, and what should I know about it? https://cnn.it/48i1z4p
+
+[2025-11-27 04:00:24](https://bsky.app/profile/cnn.com/post/3m6kk35ye7x2i)
+
+---
+
+@washingtonpost.com
+
+On his first official foreign trip, Pope Leo XIV will stop in two Muslim-majority countries — Turkey and Lebanon — where he will confront Israel’s warfare in the Middle East and seek to spread the early themes of his papacy: unity and peace.
+
+[2025-11-27 04:00:22](https://bsky.app/profile/washingtonpost.com/post/3m6kk34buwu2f)
+
+---
+
+@bloomberg.com
+
+The pumpkin spice index tells a tale of the forces that shape global commodities.
+
+[2025-11-27 04:00:17](https://bsky.app/profile/bloomberg.com/post/3m6kk2xxyvu2y)
 
 ---
 
