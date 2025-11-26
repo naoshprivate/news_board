@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">ホワイトハウス付近で銃撃　警戒中の州兵2人負傷、容疑者確保 www.nikkei.com/article/DGXZQO... <a href="https://bsky.app/profile/nikkei.com/post/3m6koyc6z6q2w" target="_blank">nikkei.com</a> (2025-11-27 05:28:16)</span><span style="padding-right:50px;">Norovirus has been rising across the U.S. since as early as mid-October, according to data from WastewaterSCAN, an academic program through Stanford University and Emory University, but rates are currently lower compared to last year’s spike. <a href="https://bsky.app/profile/nbcnews.com/post/3m6koy2rndk2j" target="_blank">nbcnews.com</a> (2025-11-27 05:28:08)</span><span style="padding-right:50px;">Three men have been arrested in connection with the deadly Hong Kong high-rise fire, police say. Hundreds of people remain missing. https://cnn.it/3JXaL6r <a href="https://bsky.app/profile/cnn.com/post/3m6koxg22f32f" target="_blank">cnn.com</a> (2025-11-27 05:27:47)</span><span style="padding-right:50px;">Federal Reserve’s anecdotal look at the economy shows a sputtering job market and moderate inflation in November. <a href="https://bsky.app/profile/wsj.com/post/3m6kow6rghp2p" target="_blank">wsj.com</a> (2025-11-27 05:27:05)</span><span style="padding-right:50px;">ウナギの取り引き規制 きょう採決へ ワシントン条約締約国会議 https://news.web.nhk/newsweb/na/na-k10014987581000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6kow5tb5v2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-27 05:27:02)</span>
+<span style="padding-right:50px;">米 首都ワシントンで州兵2人撃たれる 容疑者1人拘束 地元警察 https://news.web.nhk/newsweb/na/na-k10014987641000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6kq3pp6uu2t" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-27 05:48:03)</span><span style="padding-right:50px;">Police say one suspect is in custody after two National Guardsmen were shot blocks from the White House in Washington, DC. Follow live updates: https://cnn.it/44wvG76 <a href="https://bsky.app/profile/cnn.com/post/3m6kpyh4ia22i" target="_blank">cnn.com</a> (2025-11-27 05:46:15)</span><span style="padding-right:50px;">Grindr's two top shareholders scrap $3.46 billion take-private bid after board ends talks reut.rs/49HpLzD <a href="https://bsky.app/profile/reuters.com/post/3m6kpwnht3e2k" target="_blank">reuters.com</a> (2025-11-27 05:45:15)</span><span style="padding-right:50px;">🔔NHKより【速報 JUST IN】です。  米 首都ワシントンで州兵2人撃たれる 容疑者1人拘束 地元警察 (2025-11-27 05:44:32) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6kpw26rlq22" target="_blank">sokuho.news</a> (2025-11-27 05:44:54)</span><span style="padding-right:50px;">Looking for a product to sell to the expanding fast-food industry, Duane Roberts helped mainstream the burrito in the U.S. He died Nov. 1 at the age of 88. <a href="https://bsky.app/profile/wsj.com/post/3m6kpvnsbiv2x" target="_blank">wsj.com</a> (2025-11-27 05:44:41)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49559.07 (🔺546.82 : 2025-11-26)</span><span style="padding-right:50px;">DOW: 47505.78 (🔺309.63 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23262.16 (🔺98.97 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.52 (🔻1.11 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3141.00 (🔺12.00 : 2025-11-26)</span><span style="padding-right:50px;">USD/JPY: 156.44 (🔺0.43 : 2025-11-26)</span>
+<span style="padding-right:50px;">NIKKEI: 49559.07 (🔺546.82 : 2025-11-26)</span><span style="padding-right:50px;">DOW: 47463.90 (🔺267.75 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23237.11 (🔺73.91 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.11 (🔻1.52 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3141.00 (🔺12.00 : 2025-11-26)</span><span style="padding-right:50px;">USD/JPY: 156.41 (🔺0.39 : 2025-11-26)</span>
   </div>
 </div>
 
@@ -30,91 +30,88 @@
 
 ---
 
-## [2025-11-27 05:30 updated](2025_11_27.md)
+## [2025-11-27 05:50 updated](2025_11_27.md)
 
-@nikkei.com
+@nhknewsunofficial.bsky.social
 
-ホワイトハウス付近で銃撃　警戒中の州兵2人負傷、容疑者確保
-www.nikkei.com/article/DGXZQO...
+米 首都ワシントンで州兵2人撃たれる 容疑者1人拘束 地元警察
+https://news.web.nhk/newsweb/na/na-k10014987641000
 
-[2025-11-27 05:28:16](https://bsky.app/profile/nikkei.com/post/3m6koyc6z6q2w)
-
----
-
-@nbcnews.com
-
-Norovirus has been rising across the U.S. since as early as mid-October, according to data from WastewaterSCAN, an academic program through Stanford University and Emory University, but rates are currently lower compared to last year’s spike.
-
-[2025-11-27 05:28:08](https://bsky.app/profile/nbcnews.com/post/3m6koy2rndk2j)
+[2025-11-27 05:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6kq3pp6uu2t)
 
 ---
 
 @cnn.com
 
-Three men have been arrested in connection with the deadly Hong Kong high-rise fire, police say. Hundreds of people remain missing.
-https://cnn.it/3JXaL6r
+Police say one suspect is in custody after two National Guardsmen were shot blocks from the White House in Washington, DC. Follow live updates: https://cnn.it/44wvG76
 
-[2025-11-27 05:27:47](https://bsky.app/profile/cnn.com/post/3m6koxg22f32f)
-
----
-
-@wsj.com
-
-Federal Reserve’s anecdotal look at the economy shows a sputtering job market and moderate inflation in November.
-
-[2025-11-27 05:27:05](https://bsky.app/profile/wsj.com/post/3m6kow6rghp2p)
-
----
-
-@nhknewsunofficial.bsky.social
-
-ウナギの取り引き規制 きょう採決へ ワシントン条約締約国会議
-https://news.web.nhk/newsweb/na/na-k10014987581000
-
-[2025-11-27 05:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6kow5tb5v2k)
+[2025-11-27 05:46:15](https://bsky.app/profile/cnn.com/post/3m6kpyh4ia22i)
 
 ---
 
 @reuters.com
 
-S&P cuts Tether stablecoin rating to 'weak' on disclosure gaps reut.rs/3XT65Sa
+Grindr's two top shareholders scrap $3.46 billion take-private bid after board ends talks reut.rs/49HpLzD
 
-[2025-11-27 05:25:11](https://bsky.app/profile/reuters.com/post/3m6kosrey7w2y)
-
----
-
-@forbes.com
-
-The condition of those involved in the shooting was not immediately known Wednesday afternoon.
-
-[2025-11-27 05:25:04](https://bsky.app/profile/forbes.com/post/3m6kosl5qgm2p)
+[2025-11-27 05:45:15](https://bsky.app/profile/reuters.com/post/3m6kpwnht3e2k)
 
 ---
 
 @sokuho.news
 
-🛎️JNNより【速報】です。
+<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>米 首都ワシントンで州兵2人撃たれる 容疑者1人拘束 地元警察</strong><br><strong>(2025-11-27 05:44:32) #ニュース</strong>
 
-【速報】東京・足立区西新井本町の住宅で火災 けが人複数の情報も
-(2025-11-27 05:22:25) #ニュース
-
-[2025-11-27 05:24:47](https://bsky.app/profile/sokuho.news/post/3m6kos2cge626)
+[2025-11-27 05:44:54](https://bsky.app/profile/sokuho.news/post/3m6kpw26rlq22)
 
 ---
 
-@apnews.com
+@wsj.com
 
-President Trump says South Africa isn't invited to next year's G20 summit in Miami and will “stop all payments and subsidies” to the country over its treatment of a U.S. government representative at this year’s global meeting.
+Looking for a product to sell to the expanding fast-food industry, Duane Roberts helped mainstream the burrito in the U.S. He died Nov. 1 at the age of 88.
 
-[2025-11-27 05:23:22](https://bsky.app/profile/apnews.com/post/3m6kopjunr72h)
+[2025-11-27 05:44:41](https://bsky.app/profile/wsj.com/post/3m6kpvnsbiv2x)
 
 ---
 
-@axios.com
+@nhknewsunofficial.bsky.social
 
-<strong><span style="color: red;">BREAKING:</span> Two National Guard members shot near White House in D.C.</strong>
+米がウクライナに示した和平案“ロシア側作成の文書をもとに”
+https://news.web.nhk/newsweb/na/na-k10014987561000
 
-[2025-11-27 05:21:08](https://bsky.app/profile/axios.com/post/3m6kolk4pec2u)
+[2025-11-27 05:42:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6kpr4uj2w2g)
+
+---
+
+@npr.org
+
+White House press secretary Karoline Leavitt said President Trump has been briefed and actively monitoring the situation. n.pr/4ood40q
+
+[2025-11-27 05:42:06](https://bsky.app/profile/npr.org/post/3m6kpqzc3v72s)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+クマ被害増で損害保険会社が市町村向けの支援サービス始める
+https://news.web.nhk/newsweb/na/na-k10014987511000
+
+[2025-11-27 05:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6kpqydkvb2b)
+
+---
+
+@reuters.com
+
+Ahmedabad to host 2030 Centenary Commonwealth Games reut.rs/48lePFs
+
+[2025-11-27 05:40:17](https://bsky.app/profile/reuters.com/post/3m6kpnrg6hr2o)
+
+---
+
+@nbcnews.com
+
+A junior college basketball player dies after suffering an undisclosed injury during a weekend game in Texas, his school in eastern Oklahoma says.
+
+[2025-11-27 05:40:16](https://bsky.app/profile/nbcnews.com/post/3m6kpnqgjpy2f)
 
 ---
 
