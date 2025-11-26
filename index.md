@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Trump wants another 500 National Guard in D.C. after shooting near White House <a href="https://bsky.app/profile/axios.com/post/3m6kulzgdf22y" target="_blank">axios.com</a> (2025-11-27 07:08:47)</span><span style="padding-right:50px;">CORRECTION: West Virginia Gov. Patrick Morrisey walks back statement that both National Guard members were killed in shooting near White House. (This post corrects a previous post that stated the two members had died.) <a href="https://bsky.app/profile/apnews.com/post/3m6kujymbme2h" target="_blank">apnews.com</a> (2025-11-27 07:07:39)</span><span style="padding-right:50px;">Broadcaster E.W. Scripps adopts poison pill after $538 million Sinclair bid reut.rs/4oku0ou <a href="https://bsky.app/profile/reuters.com/post/3m6kufkiixy2n" target="_blank">reuters.com</a> (2025-11-27 07:05:10)</span><span style="padding-right:50px;">米ワシントンのホワイトハウス付近で銃撃　州兵2人負傷、容疑者確保 www.nikkei.com/article/DGXZQO...  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m6kuf2pffz2i" target="_blank">nikkei.com</a> (2025-11-27 07:04:53)</span><span style="padding-right:50px;">【今朝の5本】仕事を始める前に読んでおきたい厳選ニュース <a href="https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6kudjtemh26" target="_blank">bloomberg-jp.bsky.social</a> (2025-11-27 07:04:02)</span>
+<span style="padding-right:50px;">The Justice Department asked a judge for permission to publicly release financial records, travel documents, and notes of victim interviews obtained during the investigations into Jeffrey Epstein and his accomplice Ghislaine Maxwell to comply with a new law.  <a href="https://bsky.app/profile/cnn.com/post/3m6kvkty7lz2f" target="_blank">cnn.com</a> (2025-11-27 07:26:01)</span><span style="padding-right:50px;">K-pop group Riize explores a different side in new album 'Fame' reut.rs/4oi4Ab2 <a href="https://bsky.app/profile/reuters.com/post/3m6kvjc6afq22" target="_blank">reuters.com</a> (2025-11-27 07:25:09)</span><span style="padding-right:50px;">JR総武本線 運転再開 https://news.web.nhk/newsweb/na/na-k10014987681000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6kvhdtygc2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-27 07:24:01)</span><span style="padding-right:50px;">UPDATE: The two National Guard troops are in critical condition, FBI Director Kash Patel said Wednesday, after an official had earlier stated they had died. <a href="https://bsky.app/profile/usatoday.com/post/3m6kvgntw722p" target="_blank">usatoday.com</a> (2025-11-27 07:23:41)</span><span style="padding-right:50px;">UPDATE: The two National Guard troops are in critical condition, FBI Director Kash Patel said Wednesday, after an official had earlier stated they had died. <a href="https://bsky.app/profile/usatoday.com/post/3m6kvgbjacs2p" target="_blank">usatoday.com</a> (2025-11-27 07:23:28)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49559.07 (🔺546.82 : 2025-11-26)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3141.00 (🔺12.00 : 2025-11-26)</span><span style="padding-right:50px;">USD/JPY: 156.41 (🔺0.39 : 2025-11-26)</span>
+<span style="padding-right:50px;">NIKKEI: 49559.07 (🔺546.82 : 2025-11-26)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3141.00 (🔺12.00 : 2025-11-26)</span><span style="padding-right:50px;">USD/JPY: 156.42 (🔺0.40 : 2025-11-26)</span>
   </div>
 </div>
 
@@ -30,88 +30,90 @@
 
 ---
 
-## [2025-11-27 07:10 updated](2025_11_27.md)
+## [2025-11-27 07:30 updated](2025_11_27.md)
 
-@axios.com
+@cnn.com
 
-Trump wants another 500 National Guard in D.C. after shooting near White House
+The Justice Department asked a judge for permission to publicly release financial records, travel documents, and notes of victim interviews obtained during the investigations into Jeffrey Epstein and his accomplice Ghislaine Maxwell to comply with a new law. 
 
-[2025-11-27 07:08:47](https://bsky.app/profile/axios.com/post/3m6kulzgdf22y)
-
----
-
-@apnews.com
-
-CORRECTION: West Virginia Gov. Patrick Morrisey walks back statement that both National Guard members were killed in shooting near White House. (This post corrects a previous post that stated the two members had died.)
-
-[2025-11-27 07:07:39](https://bsky.app/profile/apnews.com/post/3m6kujymbme2h)
+[2025-11-27 07:26:01](https://bsky.app/profile/cnn.com/post/3m6kvkty7lz2f)
 
 ---
 
 @reuters.com
 
-Broadcaster E.W. Scripps adopts poison pill after $538 million Sinclair bid reut.rs/4oku0ou
+K-pop group Riize explores a different side in new album 'Fame' reut.rs/4oi4Ab2
 
-[2025-11-27 07:05:10](https://bsky.app/profile/reuters.com/post/3m6kufkiixy2n)
-
----
-
-@nikkei.com
-
-米ワシントンのホワイトハウス付近で銃撃　州兵2人負傷、容疑者確保
-www.nikkei.com/article/DGXZQO...
-
-#ニュース
-
-[2025-11-27 07:04:53](https://bsky.app/profile/nikkei.com/post/3m6kuf2pffz2i)
+[2025-11-27 07:25:09](https://bsky.app/profile/reuters.com/post/3m6kvjc6afq22)
 
 ---
 
-@bloomberg-jp.bsky.social
+@nhknewsunofficial.bsky.social
 
-【今朝の5本】仕事を始める前に読んでおきたい厳選ニュース
+JR総武本線 運転再開
+https://news.web.nhk/newsweb/na/na-k10014987681000
 
-[2025-11-27 07:04:02](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6kudjtemh26)
-
----
-
-@bloomberg-jp.bsky.social
-
-EU金融業界に揺らぎ－欧州委、ESGルールの大幅見直し案を公表
-
-[2025-11-27 07:03:58](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6kudfsf6k23)
+[2025-11-27 07:24:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6kvhdtygc2b)
 
 ---
 
-@bloomberg-jp.bsky.social
+@usatoday.com
 
-大阪ガス社長、米国でガス火力事業を拡大へ－AI需要増で海外投資加速
+UPDATE: The two National Guard troops are in critical condition, FBI Director Kash Patel said Wednesday, after an official had earlier stated they had died.
 
-[2025-11-27 07:03:53](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6kudasuhr2l)
-
----
-
-@bloomberg-jp.bsky.social
-
-フェデックス､テキサスで856人削減へ－主要顧客の移転で物流拠点閉鎖
-
-[2025-11-27 07:03:48](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6kud4gd622q)
+[2025-11-27 07:23:41](https://bsky.app/profile/usatoday.com/post/3m6kvgntw722p)
 
 ---
 
-@bloomberg-jp.bsky.social
+@usatoday.com
 
-ビットコイン9万ドル台回復－オプション市場はセンチメント転換示唆
+UPDATE: The two National Guard troops are in critical condition, FBI Director Kash Patel said Wednesday, after an official had earlier stated they had died.
 
-[2025-11-27 07:03:43](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6kucxzzvj2r)
+[2025-11-27 07:23:28](https://bsky.app/profile/usatoday.com/post/3m6kvgbjacs2p)
 
 ---
 
-@bloomberg-jp.bsky.social
+@apnews.com
 
-ホワイトハウス付近で銃撃事件、州兵2人が重傷－容疑者1人拘束
+D.C. mayor says the National Guard members were victims of a "targeted shooting."
 
-[2025-11-27 07:03:39](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6kuctgyx42j)
+[2025-11-27 07:21:44](https://bsky.app/profile/apnews.com/post/3m6kvd6vd2k2p)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+香港高層住宅火災 少なくとも44人死亡確認 香港の消防当局
+https://news.web.nhk/newsweb/na/na-k10014987551000
+
+[2025-11-27 07:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6kvbyumaq2n)
+
+---
+
+@cnn.com
+
+UPDATE: FBI says two National Guardsmen shot in DC are in critical condition after what appears to be a targeted attack. Suspect in custody is not cooperating.
+
+[2025-11-27 07:21:01](https://bsky.app/profile/cnn.com/post/3m6kvbvxk332q)
+
+---
+
+@sokuho.news
+
+🔔ANNより【速報】です。
+
+【速報】大阪市バイクひき逃げ事件 56歳男を逮捕
+(07:18) #ニュース
+
+[2025-11-27 07:20:19](https://bsky.app/profile/sokuho.news/post/3m6kvandw7x2l)
+
+---
+
+@nytimes.com
+
+A West Virginia judge has ruled that the state’s school vaccine law should allow exemptions for people with religious objections. Exemptions to the state’s vaccine requirement have been granted only for medical reasons, and for decades the state has had one of the highest vaccination rates.
+
+[2025-11-27 07:20:05](https://bsky.app/profile/nytimes.com/post/3m6kvaaf5ss22)
 
 ---
 
