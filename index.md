@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">From Breakingviews - Breakingviews - UK budget beat lacks a long-term lift reut.rs/4iqlPWv <a href="https://bsky.app/profile/reuters.com/post/3m6keqvyb6i2k" target="_blank">reuters.com</a> (2025-11-27 02:25:11)</span><span style="padding-right:50px;">A year after making a public pledge to do so, President Trump disclosed a list of donors who helped pay for his presidential transition. The 46-person list includes billionaires and people he went on to appoint to positions of power. <a href="https://bsky.app/profile/nytimes.com/post/3m6keqrp6wq2m" target="_blank">nytimes.com</a> (2025-11-27 02:25:07)</span><span style="padding-right:50px;">Akira Montague won big after suing TikTok influencer Brenay Kenard for ending her marriage. Other influencers took it upon themselves to tell her story on social media.  <a href="https://bsky.app/profile/cnn.com/post/3m6keqnpjfv2h" target="_blank">cnn.com</a> (2025-11-27 02:25:02)</span><span style="padding-right:50px;">Why Medicare price negotiations matter for Novo Nordisk, AstraZeneca, and other European pharma companies <a href="https://bsky.app/profile/cnbc.com/post/3m6kemiallq2r" target="_blank">cnbc.com</a> (2025-11-27 02:22:43)</span><span style="padding-right:50px;">Joan Branson, the wife of British billionaire Richard Branson, dies at age 80. <a href="https://bsky.app/profile/nbcnews.com/post/3m6kehxmmad2w" target="_blank">nbcnews.com</a> (2025-11-27 02:20:11)</span>
+<span style="padding-right:50px;">JUST IN: A Peruvian court sentenced former President Martin Vizcarra to 14 years in prison after finding him guilty of taking bribes years before he took office, adding to a list of former leaders jailed for corruption reut.rs/4p6OqCH <a href="https://bsky.app/profile/reuters.com/post/3m6kg3fbzns25" target="_blank">reuters.com</a> (2025-11-27 02:48:57)</span><span style="padding-right:50px;">Reeves leaves Britons poorer but no wiser about Labour’s strategy on.ft.com/4ofdjux <a href="https://bsky.app/profile/financialtimes.com/post/3m6kg27blel2r" target="_blank">financialtimes.com</a> (2025-11-27 02:48:17)</span><span style="padding-right:50px;">Key measures in the budget proposed by UK finance minister Reeves reut.rs/3XgbHps <a href="https://bsky.app/profile/reuters.com/post/3m6kfv5y27l2y" target="_blank">reuters.com</a> (2025-11-27 02:45:27)</span><span style="padding-right:50px;">Massachusetts Institute of Technology on Wednesday released a study that found that artificial intelligence can already replace 11.7% of the U.S. labor market, or as much as $1.2 trillion in wages across finance, health care and professional services.  Read more: cnb.cx/481dqoM <a href="https://bsky.app/profile/cnbc.com/post/3m6kfv3c2m42o" target="_blank">cnbc.com</a> (2025-11-27 02:45:25)</span><span style="padding-right:50px;">Advent calendars have evolved into creatively designed collections that dispense items ranging from pet toys to soaps, fishing equipment to art supplies. Here, find suggestions for countdown calendars that cater to different interests.  <a href="https://bsky.app/profile/apnews.com/post/3m6kfuog5c32f" target="_blank">apnews.com</a> (2025-11-27 02:45:11)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49559.07 (🔺546.82 : 2025-11-26)</span><span style="padding-right:50px;">DOW: 47512.11 (🔺315.96 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23242.40 (🔺79.21 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.77 (🔻0.86 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3141.00 (🔺12.00 : 2025-11-26)</span><span style="padding-right:50px;">USD/JPY: 156.44 (🔺0.42 : 2025-11-26)</span>
+<span style="padding-right:50px;">NIKKEI: 49559.07 (🔺546.82 : 2025-11-26)</span><span style="padding-right:50px;">DOW: 47535.61 (🔺339.46 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23251.65 (🔺88.46 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 181.07 (🔻0.56 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3141.00 (🔺12.00 : 2025-11-26)</span><span style="padding-right:50px;">USD/JPY: 156.41 (🔺0.40 : 2025-11-26)</span>
   </div>
 </div>
 
@@ -30,85 +30,88 @@
 
 ---
 
-## [2025-11-27 02:30 updated](2025_11_27.md)
+## [2025-11-27 02:50 updated](2025_11_27.md)
 
 @reuters.com
 
-From Breakingviews - Breakingviews - UK budget beat lacks a long-term lift reut.rs/4iqlPWv
+<strong><span style="color: red;">JUST IN:</span> A Peruvian court sentenced former President Martin Vizcarra to 14 years in prison after finding him guilty of taking bribes years before he took office, adding to a list of former leaders jailed for corruption reut.rs/4p6OqCH</strong>
 
-[2025-11-27 02:25:11](https://bsky.app/profile/reuters.com/post/3m6keqvyb6i2k)
-
----
-
-@nytimes.com
-
-A year after making a public pledge to do so, President Trump disclosed a list of donors who helped pay for his presidential transition. The 46-person list includes billionaires and people he went on to appoint to positions of power.
-
-[2025-11-27 02:25:07](https://bsky.app/profile/nytimes.com/post/3m6keqrp6wq2m)
-
----
-
-@cnn.com
-
-Akira Montague won big after suing TikTok influencer Brenay Kenard for ending her marriage. Other influencers took it upon themselves to tell her story on social media. 
-
-[2025-11-27 02:25:02](https://bsky.app/profile/cnn.com/post/3m6keqnpjfv2h)
-
----
-
-@cnbc.com
-
-Why Medicare price negotiations matter for Novo Nordisk, AstraZeneca, and other European pharma companies
-
-[2025-11-27 02:22:43](https://bsky.app/profile/cnbc.com/post/3m6kemiallq2r)
-
----
-
-@nbcnews.com
-
-Joan Branson, the wife of British billionaire Richard Branson, dies at age 80.
-
-[2025-11-27 02:20:11](https://bsky.app/profile/nbcnews.com/post/3m6kehxmmad2w)
-
----
-
-@reuters.com
-
-Man who drove into crowd at Liverpool soccer parade pleads guilty to 31 charges reut.rs/48i5jCZ
-
-[2025-11-27 02:15:14](https://bsky.app/profile/reuters.com/post/3m6ke74qaqj26)
-
----
-
-@nytimes.com
-
-The breakfast casserole of your dreams. Make this the night earlier and then pop it in the oven an hour before you plan to serve it. nyti.ms/43UeOai
-
-[2025-11-27 02:13:02](https://bsky.app/profile/nytimes.com/post/3m6ke36g3wh2m)
-
----
-
-@cnbc.com
-
-Stocks making the biggest moves midday: Dell, Arrowhead Pharmaceuticals, Urban Outfitters & more
-
-[2025-11-27 02:12:38](https://bsky.app/profile/cnbc.com/post/3m6ke2hnahg2y)
+[2025-11-27 02:48:57](https://bsky.app/profile/reuters.com/post/3m6kg3fbzns25)
 
 ---
 
 @financialtimes.com
 
-NYC comptroller urges city pensions to pull $42bn mandate from BlackRock on.ft.com/4rCkBvs
+Reeves leaves Britons poorer but no wiser about Labour’s strategy on.ft.com/4ofdjux
 
-[2025-11-27 02:12:21](https://bsky.app/profile/financialtimes.com/post/3m6kdzxkzth23)
+[2025-11-27 02:48:17](https://bsky.app/profile/financialtimes.com/post/3m6kg27blel2r)
 
 ---
 
 @reuters.com
 
-European Commission ramps up pressure on Shein, Paris hearing set for Dec. 5 reut.rs/4oCPvBf
+Key measures in the budget proposed by UK finance minister Reeves reut.rs/3XgbHps
 
-[2025-11-27 02:10:16](https://bsky.app/profile/reuters.com/post/3m6kdwadklq27)
+[2025-11-27 02:45:27](https://bsky.app/profile/reuters.com/post/3m6kfv5y27l2y)
+
+---
+
+@cnbc.com
+
+Massachusetts Institute of Technology on Wednesday released a study that found that artificial intelligence can already replace 11.7% of the U.S. labor market, or as much as $1.2 trillion in wages across finance, health care and professional services.
+
+Read more: cnb.cx/481dqoM
+
+[2025-11-27 02:45:25](https://bsky.app/profile/cnbc.com/post/3m6kfv3c2m42o)
+
+---
+
+@apnews.com
+
+Advent calendars have evolved into creatively designed collections that dispense items ranging from pet toys to soaps, fishing equipment to art supplies. Here, find suggestions for countdown calendars that cater to different interests. 
+
+[2025-11-27 02:45:11](https://bsky.app/profile/apnews.com/post/3m6kfuog5c32f)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+上海で日中のサッカーチームが対戦 厳戒態勢も大きな混乱なし
+https://news.web.nhk/newsweb/na/na-k10014987281000
+
+[2025-11-27 02:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6kfulk3f22k)
+
+---
+
+@washingtonpost.com
+
+The mother of White House press secretary Karoline Leavitt’s 11-year-old nephew has been arrested for alleged civil immigration violations and is in a detention center fighting deportation to her native Brazil.
+
+[2025-11-27 02:44:29](https://bsky.app/profile/washingtonpost.com/post/3m6kftgo3rx2a)
+
+---
+
+@reuters.com
+
+UK to raise dividend, property and savings tax rates by 2 percentage points reut.rs/43UNhWh
+
+[2025-11-27 02:40:24](https://bsky.app/profile/reuters.com/post/3m6kfm4ypsc26)
+
+---
+
+@nytimes.com
+
+“It became a ritual. There were no ifs, ands or buts.” Six women in their 70s, all married and all mothers and grandmothers, have been meeting twice a month for 44 years. Over 90 minutes, they share with each other — and a paid facilitator — their worries, struggles and triumphs.
+
+[2025-11-27 02:40:05](https://bsky.app/profile/nytimes.com/post/3m6kflkisit2q)
+
+---
+
+@reuters.com
+
+Tractor maker Deere flags higher 2026 tariff hit, weak profit reut.rs/4p39bit
+
+[2025-11-27 02:35:09](https://bsky.app/profile/reuters.com/post/3m6kfcqmnwm2n)
 
 ---
 
