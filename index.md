@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Chicago suspect who set woman on fire a 'career criminal', White House says <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6jzsmt2r72p" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-11-26 23:09:17)</span><span style="padding-right:50px;">ヒートショックに注意　入浴時の死亡、実は交通事故死より多く www.nikkei.com/article/DGXZQO...  （2024年2月 読まれた記事） #いい風呂の日 <a href="https://bsky.app/profile/nikkei.com/post/3m6jzmgbjcu2k" target="_blank">nikkei.com</a> (2025-11-26 23:05:49)</span><span style="padding-right:50px;">UK savers and investors hit by Budget tax raid on.ft.com/4pxuXLa <a href="https://bsky.app/profile/financialtimes.com/post/3m6jzlpmucm25" target="_blank">financialtimes.com</a> (2025-11-26 23:05:26)</span><span style="padding-right:50px;">Exclusive: EDF weighs full sale of US renewable unit to focus on French nuclear reut.rs/3XR8ywp <a href="https://bsky.app/profile/reuters.com/post/3m6jzlev4uh2e" target="_blank">reuters.com</a> (2025-11-26 23:05:14)</span><span style="padding-right:50px;">Breaking news: At least 13 people were killed after a huge fire engulfed several high-rise buildings in an apartment complex in Hong Kong, the city’s emergency services said. <a href="https://bsky.app/profile/washingtonpost.com/post/3m6jzl54l3m2g" target="_blank">washingtonpost.com</a> (2025-11-26 23:05:06)</span>
+<span style="padding-right:50px;">省エネな風呂の入り方　入浴直前に湯張り・追いだき www.nikkei.com/article/DGXZQO...  （2023年12月 読まれた記事） #いい風呂の日 <a href="https://bsky.app/profile/nikkei.com/post/3m6k2tqeog52k" target="_blank">nikkei.com</a> (2025-11-26 23:27:48)</span><span style="padding-right:50px;">石破前首相 “コメ増産の方針は正しかった” 認識示す https://news.web.nhk/newsweb/na/na-k10014987221000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6k2sgabo72g" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-26 23:27:02)</span><span style="padding-right:50px;">As you prepare for your holiday feast, here's something to consider. Research suggests there are certain foods that can help boost our moods and make us happier in the long-run. <a href="https://bsky.app/profile/npr.org/post/3m6k2pcudg52g" target="_blank">npr.org</a> (2025-11-26 23:25:20)</span><span style="padding-right:50px;">Most Gulf markets retreat on weak oil prices reut.rs/4roc5jg <a href="https://bsky.app/profile/reuters.com/post/3m6k2ozfcbj2n" target="_blank">reuters.com</a> (2025-11-26 23:25:10)</span><span style="padding-right:50px;">A Turkish-German family of four who died while on holiday in Istanbul was likely poisoned by gas from a pesticide used in their hotel.  <a href="https://bsky.app/profile/cbsnews.com/post/3m6k2oqevxw2d" target="_blank">cbsnews.com</a> (2025-11-26 23:25:01)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49559.07 (🔺546.82 : 2025-11-26)</span><span style="padding-right:50px;">DOW: 47112.45 (🔺630.09 : 2025-11-25)</span><span style="padding-right:50px;">NASDAQ: 23025.59 (🔺222.74 : 2025-11-25)</span><span style="padding-right:50px;">NVIDIA: 177.82 (🔺2.91 : 2025-11-25)</span><span style="padding-right:50px;">トヨタ自動車: 3141.00 (🔺12.00 : 2025-11-26)</span><span style="padding-right:50px;">USD/JPY: 156.65 (🔺0.63 : 2025-11-26)</span>
+<span style="padding-right:50px;">NIKKEI: 49559.07 (🔺546.82 : 2025-11-26)</span><span style="padding-right:50px;">DOW: 47217.30 (🔺21.15 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23025.59 (🔺222.74 : 2025-11-25)</span><span style="padding-right:50px;">NVIDIA: 181.56 (🔻0.07 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3141.00 (🔺12.00 : 2025-11-26)</span><span style="padding-right:50px;">USD/JPY: 156.71 (🔺0.69 : 2025-11-26)</span>
   </div>
 </div>
 
@@ -30,98 +30,90 @@
 
 ---
 
-## [2025-11-26 23:10 updated](2025_11_26.md)
-
-@bbcnews-world-rss.bsky.social
-
-Chicago suspect who set woman on fire a 'career criminal', White House says
-
-[2025-11-26 23:09:17](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6jzsmt2r72p)
-
----
+## [2025-11-26 23:30 updated](2025_11_26.md)
 
 @nikkei.com
 
-ヒートショックに注意　入浴時の死亡、実は交通事故死より多く
+省エネな風呂の入り方　入浴直前に湯張り・追いだき
 www.nikkei.com/article/DGXZQO...
 
-（2024年2月 読まれた記事）
+（2023年12月 読まれた記事）
 #いい風呂の日
 
-[2025-11-26 23:05:49](https://bsky.app/profile/nikkei.com/post/3m6jzmgbjcu2k)
+[2025-11-26 23:27:48](https://bsky.app/profile/nikkei.com/post/3m6k2tqeog52k)
 
 ---
 
-@financialtimes.com
+@nhknewsunofficial.bsky.social
 
-UK savers and investors hit by Budget tax raid on.ft.com/4pxuXLa
+石破前首相 “コメ増産の方針は正しかった” 認識示す
+https://news.web.nhk/newsweb/na/na-k10014987221000
 
-[2025-11-26 23:05:26](https://bsky.app/profile/financialtimes.com/post/3m6jzlpmucm25)
-
----
-
-@reuters.com
-
-Exclusive: EDF weighs full sale of US renewable unit to focus on French nuclear reut.rs/3XR8ywp
-
-[2025-11-26 23:05:14](https://bsky.app/profile/reuters.com/post/3m6jzlev4uh2e)
+[2025-11-26 23:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6k2sgabo72g)
 
 ---
 
-@washingtonpost.com
+@npr.org
 
-Breaking news: At least 13 people were killed after a huge fire engulfed several high-rise buildings in an apartment complex in Hong Kong, the city’s emergency services said.
+As you prepare for your holiday feast, here's something to consider. Research suggests there are certain foods that can help boost our moods and make us happier in the long-run.
 
-[2025-11-26 23:05:06](https://bsky.app/profile/washingtonpost.com/post/3m6jzl54l3m2g)
-
----
-
-@bloomberg-jp.bsky.social
-
-香港の高層マンション群で火災－少なくとも4人死亡、住民避難できず
-
-[2025-11-26 23:02:30](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6jzginr2524)
-
----
-
-@bloomberg-jp.bsky.social
-
-ECBミュラー氏、物価は「目標に十分近い」－追加利下げ急がない考え
-
-[2025-11-26 23:02:26](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6jzge5ymb2r)
-
----
-
-@bloomberg-jp.bsky.social
-
-英国債とポンドが乱高下、予算責任局の財政予測に市場が反応
-
-[2025-11-26 23:02:21](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6jzg7o45526)
-
----
-
-@nikkei.com
-
-越境EC経由の輸入品、TemuやSHEINに納税義務　年間販売額50億円超
-www.nikkei.com/article/DGXZQO...
-
-これまで免税としていた1万円以下の取引にも消費税をかけます。
-
-主に中国系サイトを経由して低価格品が国内に流入している事態に対応。
-
-年内にまとめる2026年度の税制改正大綱への反映をめざします。
-
-#ニュース
-
-[2025-11-26 23:01:49](https://bsky.app/profile/nikkei.com/post/3m6jzfaybia2e)
+[2025-11-26 23:25:20](https://bsky.app/profile/npr.org/post/3m6k2pcudg52g)
 
 ---
 
 @reuters.com
 
-Ethiopia says death toll from Marburg virus outbreak rises to 6 reut.rs/49G3HWf
+Most Gulf markets retreat on weak oil prices reut.rs/4roc5jg
 
-[2025-11-26 23:01:15](https://bsky.app/profile/reuters.com/post/3m6jzeazdxt2i)
+[2025-11-26 23:25:10](https://bsky.app/profile/reuters.com/post/3m6k2ozfcbj2n)
+
+---
+
+@cbsnews.com
+
+A Turkish-German family of four who died while on holiday in Istanbul was likely poisoned by gas from a pesticide used in their hotel. 
+
+[2025-11-26 23:25:01](https://bsky.app/profile/cbsnews.com/post/3m6k2oqevxw2d)
+
+---
+
+@cbsnews.com
+
+A Turkish-German family of four who died while on holiday in Istanbul was likely poisoned by gas from a pesticide used in their hotel. 
+
+[2025-11-26 23:25:01](https://bsky.app/profile/cbsnews.com/post/3m6k2oqislc2u)
+
+---
+
+@nbcnews.com
+
+The Justice Department says that Homeland Security Secretary Kristi Noem was the Trump administration official behind the decision not to comply with a federal judge’s order to halt the deportation of alleged Venezuelan gang members to El Salvador under the Alien Enemies Act.
+
+[2025-11-26 23:20:10](https://bsky.app/profile/nbcnews.com/post/3m6k2g3brww2j)
+
+---
+
+@en.afp.com
+
+#UPDATE A huge fire ripped through several high-rise blocks on a Hong Kong residential estate on Wednesday, killing at least 13 people, with media reporting that some residents were trapped inside ➡️ u.afp.com/ShMy
+
+[2025-11-26 23:16:50](https://bsky.app/profile/en.afp.com/post/3m6k2a4m3tk2r)
+
+---
+
+@reuters.com
+
+How sanctions made a showpiece Chinese refinery's Western partners run for the exits reut.rs/4rnDz8M
+
+[2025-11-26 23:15:13](https://bsky.app/profile/reuters.com/post/3m6k25a6xlb2r)
+
+---
+
+@npr.org
+
+Much of the turkey's early history is shrouded in uncertainty, historians and etymologists say — which is particularly true of how the bird got its name. n.pr/49Ce3q0
+
+[2025-11-26 23:10:40](https://bsky.app/profile/npr.org/post/3m6jzv3i3zy23)
 
 ---
 
