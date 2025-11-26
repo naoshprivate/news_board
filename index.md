@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The Forbes 2025 All-Star Eateries In New York <a href="https://bsky.app/profile/forbes.com/post/3m6jyo2l4ds2k" target="_blank">forbes.com</a> (2025-11-26 22:48:50)</span><span style="padding-right:50px;">日銀が保有するETF 含み益が46兆円余りに 株価の上昇背景に https://news.web.nhk/newsweb/na/na-k10014987321000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6jympgvvy2e" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-26 22:48:03)</span><span style="padding-right:50px;">Breaking News: The death toll rose to 13 in a fire that engulfed several apartment towers in Hong Kong. Firefighters were struggling to contain it.   Follow live. <a href="https://bsky.app/profile/nytimes.com/post/3m6jyj3fnxh26" target="_blank">nytimes.com</a> (2025-11-26 22:46:03)</span><span style="padding-right:50px;">Norway's Hydro plans to close five extrusion plants in Europe reut.rs/4pyqGHp <a href="https://bsky.app/profile/reuters.com/post/3m6jyhncm6n2k" target="_blank">reuters.com</a> (2025-11-26 22:45:15)</span><span style="padding-right:50px;">Here are Wednesday's biggest analyst calls: Nvidia, Amazon, Dell, Broadcom, ASML, Pinterest, Oracle & more <a href="https://bsky.app/profile/cnbc.com/post/3m6jyhewprm2e" target="_blank">cnbc.com</a> (2025-11-26 22:45:06)</span>
+<span style="padding-right:50px;">Chicago suspect who set woman on fire a 'career criminal', White House says <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6jzsmt2r72p" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-11-26 23:09:17)</span><span style="padding-right:50px;">ヒートショックに注意　入浴時の死亡、実は交通事故死より多く www.nikkei.com/article/DGXZQO...  （2024年2月 読まれた記事） #いい風呂の日 <a href="https://bsky.app/profile/nikkei.com/post/3m6jzmgbjcu2k" target="_blank">nikkei.com</a> (2025-11-26 23:05:49)</span><span style="padding-right:50px;">UK savers and investors hit by Budget tax raid on.ft.com/4pxuXLa <a href="https://bsky.app/profile/financialtimes.com/post/3m6jzlpmucm25" target="_blank">financialtimes.com</a> (2025-11-26 23:05:26)</span><span style="padding-right:50px;">Exclusive: EDF weighs full sale of US renewable unit to focus on French nuclear reut.rs/3XR8ywp <a href="https://bsky.app/profile/reuters.com/post/3m6jzlev4uh2e" target="_blank">reuters.com</a> (2025-11-26 23:05:14)</span><span style="padding-right:50px;">Breaking news: At least 13 people were killed after a huge fire engulfed several high-rise buildings in an apartment complex in Hong Kong, the city’s emergency services said. <a href="https://bsky.app/profile/washingtonpost.com/post/3m6jzl54l3m2g" target="_blank">washingtonpost.com</a> (2025-11-26 23:05:06)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49559.07 (🔺546.82 : 2025-11-26)</span><span style="padding-right:50px;">DOW: 47112.45 (🔺630.09 : 2025-11-25)</span><span style="padding-right:50px;">NASDAQ: 23025.59 (🔺222.74 : 2025-11-25)</span><span style="padding-right:50px;">NVIDIA: 177.82 (🔺2.91 : 2025-11-25)</span><span style="padding-right:50px;">トヨタ自動車: 3141.00 (🔺12.00 : 2025-11-26)</span><span style="padding-right:50px;">USD/JPY: 156.66 (🔺0.64 : 2025-11-26)</span>
+<span style="padding-right:50px;">NIKKEI: 49559.07 (🔺546.82 : 2025-11-26)</span><span style="padding-right:50px;">DOW: 47112.45 (🔺630.09 : 2025-11-25)</span><span style="padding-right:50px;">NASDAQ: 23025.59 (🔺222.74 : 2025-11-25)</span><span style="padding-right:50px;">NVIDIA: 177.82 (🔺2.91 : 2025-11-25)</span><span style="padding-right:50px;">トヨタ自動車: 3141.00 (🔺12.00 : 2025-11-26)</span><span style="padding-right:50px;">USD/JPY: 156.65 (🔺0.63 : 2025-11-26)</span>
   </div>
 </div>
 
@@ -30,90 +30,98 @@
 
 ---
 
-## [2025-11-26 22:50 updated](2025_11_26.md)
+## [2025-11-26 23:10 updated](2025_11_26.md)
 
-@forbes.com
+@bbcnews-world-rss.bsky.social
 
-The Forbes 2025 All-Star Eateries In New York
+Chicago suspect who set woman on fire a 'career criminal', White House says
 
-[2025-11-26 22:48:50](https://bsky.app/profile/forbes.com/post/3m6jyo2l4ds2k)
-
----
-
-@nhknewsunofficial.bsky.social
-
-日銀が保有するETF 含み益が46兆円余りに 株価の上昇背景に
-https://news.web.nhk/newsweb/na/na-k10014987321000
-
-[2025-11-26 22:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6jympgvvy2e)
+[2025-11-26 23:09:17](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6jzsmt2r72p)
 
 ---
 
-@nytimes.com
+@nikkei.com
 
-Breaking News: The death toll rose to 13 in a fire that engulfed several apartment towers in Hong Kong. Firefighters were struggling to contain it. 
+ヒートショックに注意　入浴時の死亡、実は交通事故死より多く
+www.nikkei.com/article/DGXZQO...
 
-Follow live.
+（2024年2月 読まれた記事）
+#いい風呂の日
 
-[2025-11-26 22:46:03](https://bsky.app/profile/nytimes.com/post/3m6jyj3fnxh26)
-
----
-
-@reuters.com
-
-Norway's Hydro plans to close five extrusion plants in Europe reut.rs/4pyqGHp
-
-[2025-11-26 22:45:15](https://bsky.app/profile/reuters.com/post/3m6jyhncm6n2k)
-
----
-
-@cnbc.com
-
-Here are Wednesday's biggest analyst calls: Nvidia, Amazon, Dell, Broadcom, ASML, Pinterest, Oracle & more
-
-[2025-11-26 22:45:06](https://bsky.app/profile/cnbc.com/post/3m6jyhewprm2e)
-
----
-
-@cbsnews.com
-
-Russian officials say they have now received the revised U.S.-backed proposal to end the Russian invasion of Ukraine, after high-level talks between American and Ukrainian negotiators in Geneva. 
-
-[2025-11-26 22:45:01](https://bsky.app/profile/cbsnews.com/post/3m6jyh7k4zk2j)
+[2025-11-26 23:05:49](https://bsky.app/profile/nikkei.com/post/3m6jzmgbjcu2k)
 
 ---
 
 @financialtimes.com
 
-Just in: Rachel Reeves says new 'mansion tax' a way to resolve ‘wealth inequality’ on.ft.com/4pSqtiz
+UK savers and investors hit by Budget tax raid on.ft.com/4pxuXLa
 
-[2025-11-26 22:42:28](https://bsky.app/profile/financialtimes.com/post/3m6jycnnw5i2n)
+[2025-11-26 23:05:26](https://bsky.app/profile/financialtimes.com/post/3m6jzlpmucm25)
 
 ---
 
 @reuters.com
 
-Singapore's Temasek-owned Seviora to integrate Pavilion Capital, lifting assets to $72 billion reut.rs/3MnNNpC
+Exclusive: EDF weighs full sale of US renewable unit to focus on French nuclear reut.rs/3XR8ywp
 
-[2025-11-26 22:40:17](https://bsky.app/profile/reuters.com/post/3m6jy6rcuex27)
-
----
-
-@nbcnews.com
-
-Officials detain the mother of White House press secretary Karoline Leavitt's nephew amid the Trump administration's ramped-up immigration enforcement efforts, a source confirms to NBC News.
-
-Read more: nbcnews.to/44vH82Q
-
-[2025-11-26 22:40:15](https://bsky.app/profile/nbcnews.com/post/3m6jy6phaw52h)
+[2025-11-26 23:05:14](https://bsky.app/profile/reuters.com/post/3m6jzlev4uh2e)
 
 ---
 
-@wsj.com
+@washingtonpost.com
 
-Ozempic—and 14 other popular prescription drugs—will cost less for Medicare after the U.S. government negotiated lower prices.
+Breaking news: At least 13 people were killed after a huge fire engulfed several high-rise buildings in an apartment complex in Hong Kong, the city’s emergency services said.
 
-[2025-11-26 22:40:11](https://bsky.app/profile/wsj.com/post/3m6jy6ltqmn2p)
+[2025-11-26 23:05:06](https://bsky.app/profile/washingtonpost.com/post/3m6jzl54l3m2g)
+
+---
+
+@bloomberg-jp.bsky.social
+
+香港の高層マンション群で火災－少なくとも4人死亡、住民避難できず
+
+[2025-11-26 23:02:30](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6jzginr2524)
+
+---
+
+@bloomberg-jp.bsky.social
+
+ECBミュラー氏、物価は「目標に十分近い」－追加利下げ急がない考え
+
+[2025-11-26 23:02:26](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6jzge5ymb2r)
+
+---
+
+@bloomberg-jp.bsky.social
+
+英国債とポンドが乱高下、予算責任局の財政予測に市場が反応
+
+[2025-11-26 23:02:21](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6jzg7o45526)
+
+---
+
+@nikkei.com
+
+越境EC経由の輸入品、TemuやSHEINに納税義務　年間販売額50億円超
+www.nikkei.com/article/DGXZQO...
+
+これまで免税としていた1万円以下の取引にも消費税をかけます。
+
+主に中国系サイトを経由して低価格品が国内に流入している事態に対応。
+
+年内にまとめる2026年度の税制改正大綱への反映をめざします。
+
+#ニュース
+
+[2025-11-26 23:01:49](https://bsky.app/profile/nikkei.com/post/3m6jzfaybia2e)
+
+---
+
+@reuters.com
+
+Ethiopia says death toll from Marburg virus outbreak rises to 6 reut.rs/49G3HWf
+
+[2025-11-26 23:01:15](https://bsky.app/profile/reuters.com/post/3m6jzeazdxt2i)
 
 ---
 
