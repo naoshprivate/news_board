@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">VIDEO: 🇳🇬 What's behind Nigeria's kidnapping crisis?  The abduction of hundreds of Nigerians, including almost 350 schoolchildren in just a matter of days, has reignited a pressing debate about the persistent security crisis gripping the country <a href="https://bsky.app/profile/en.afp.com/post/3m6kcppwnpk2e" target="_blank">en.afp.com</a> (2025-11-27 01:48:44)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:釧路沖, 深さ:80km マグニチュード:4.6, 最大震度:2 📍https://www.google.com/maps?q=42.5,144.3&ll=42.5,144.3&z=7&t=h 地震発生日時:2025-11-27 01:44頃 (10倍速▶210s→21s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m6kcoq4nuz2h" target="_blank">sokuho.news</a> (2025-11-27 01:48:10)</span><span style="padding-right:50px;">Cannabis has carved out it’s own holiday shopping rush and it’s called “Green Wednesday”. Behind April 20, the day before Thanksgiving has become the second-biggest day for cannabis sales in the U.S.  Brandon Gomez unpacks the new buzzy trend for an age old tradition.  Watch more: cnb.cx/4rliL1B <a href="https://bsky.app/profile/cnbc.com/post/3m6kcnpq3t22s" target="_blank">cnbc.com</a> (2025-11-27 01:47:36)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  1時44分頃、北海道で最大震度2の地震を観測しました。 震源:釧路沖, 深さ:80km, 規模:M4.6 この地震による津波の心配はありません。 (2025-11-27 01:46:53) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/11/27/2025-11-27-01-44-10.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3m6kcmhkdgf2h" target="_blank">sokuho.news</a> (2025-11-27 01:46:54)</span><span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像8🈡 (2025-11-27 01:45:05) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m6kcjt6edz2m" target="_blank">sokuho.news</a> (2025-11-27 01:45:26)</span>
+<span style="padding-right:50px;">VIEW Sterling, UK bond prices rise as Reeves' budget delivers more headroom reut.rs/4imuQQ9 <a href="https://bsky.app/profile/reuters.com/post/3m6kdn6gevc2d" target="_blank">reuters.com</a> (2025-11-27 02:05:12)</span><span style="padding-right:50px;">From @theathletic.com: You probably know a lot about Mick Jagger; the Rolling Stones singer is a cultural icon. What you might not know about Jagger is that he was a pioneer of streaming sports over the internet. Specifically, cricket. <a href="https://bsky.app/profile/nytimes.com/post/3m6kdl3cfqx24" target="_blank">nytimes.com</a> (2025-11-27 02:04:02)</span><span style="padding-right:50px;">Trump’s affordability problem: in charts on.ft.com/3M0RL7A <a href="https://bsky.app/profile/financialtimes.com/post/3m6kdjwdjvm26" target="_blank">financialtimes.com</a> (2025-11-27 02:03:23)</span><span style="padding-right:50px;">Budget exposes Labour to charges of being ‘high tax, high welfare’ party on.ft.com/489KZDK <a href="https://bsky.app/profile/financialtimes.com/post/3m6kdjuchzv23" target="_blank">financialtimes.com</a> (2025-11-27 02:03:21)</span><span style="padding-right:50px;">The 66-page ruling Tuesday by Senior U.S. District Judge R. Brooke Jackson of Colorado is a comprehensive rejection of a tactic regularly used by ICE to meet quotas set by the Trump administration. (via @cprnews.bsky.social) <a href="https://bsky.app/profile/npr.org/post/3m6kdgqch542j" target="_blank">npr.org</a> (2025-11-27 02:01:36)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49559.07 (🔺546.82 : 2025-11-26)</span><span style="padding-right:50px;">DOW: 47524.54 (🔺328.39 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23256.67 (🔺93.47 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 181.14 (🔻0.49 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3141.00 (🔺12.00 : 2025-11-26)</span><span style="padding-right:50px;">USD/JPY: 156.38 (🔺0.36 : 2025-11-26)</span>
+<span style="padding-right:50px;">NIKKEI: 49559.07 (🔺546.82 : 2025-11-26)</span><span style="padding-right:50px;">DOW: 47521.12 (🔺324.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23231.68 (🔺68.49 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.33 (🔻1.30 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3141.00 (🔺12.00 : 2025-11-26)</span><span style="padding-right:50px;">USD/JPY: 156.37 (🔺0.35 : 2025-11-26)</span>
   </div>
 </div>
 
@@ -30,128 +30,87 @@
 
 ---
 
-## [2025-11-27 01:50 updated](2025_11_27.md)
+## [2025-11-27 02:10 updated](2025_11_27.md)
 
-@en.afp.com
+@reuters.com
 
-VIDEO: 🇳🇬 What's behind Nigeria's kidnapping crisis?
+VIEW Sterling, UK bond prices rise as Reeves' budget delivers more headroom reut.rs/4imuQQ9
 
-The abduction of hundreds of Nigerians, including almost 350 schoolchildren in just a matter of days, has reignited a pressing debate about the persistent security crisis gripping the country
-
-[2025-11-27 01:48:44](https://bsky.app/profile/en.afp.com/post/3m6kcppwnpk2e)
+[2025-11-27 02:05:12](https://bsky.app/profile/reuters.com/post/3m6kdn6gevc2d)
 
 ---
 
-@sokuho.news
+@nytimes.com
 
-🔔防災科研より【強震モニタ】動画です。
+From @theathletic.com: You probably know a lot about Mick Jagger; the Rolling Stones singer is a cultural icon. What you might not know about Jagger is that he was a pioneer of streaming sports over the internet. Specifically, cricket.
 
-震源:釧路沖, 深さ:80km
-マグニチュード:4.6, 最大震度:2
-📍https://www.google.com/maps?q=42.5,144.3&ll=42.5,144.3&z=7&t=h
-地震発生日時:2025-11-27 01:44頃
-(10倍速▶210s→21s) #地震
-
-[2025-11-27 01:48:10](https://bsky.app/profile/sokuho.news/post/3m6kcoq4nuz2h)
+[2025-11-27 02:04:02](https://bsky.app/profile/nytimes.com/post/3m6kdl3cfqx24)
 
 ---
 
-@cnbc.com
+@financialtimes.com
 
-Cannabis has carved out it’s own holiday shopping rush and it’s called “Green Wednesday”. Behind April 20, the day before Thanksgiving has become the second-biggest day for cannabis sales in the U.S.
+Trump’s affordability problem: in charts on.ft.com/3M0RL7A
 
-Brandon Gomez unpacks the new buzzy trend for an age old tradition.
-
-Watch more: cnb.cx/4rliL1B
-
-[2025-11-27 01:47:36](https://bsky.app/profile/cnbc.com/post/3m6kcnpq3t22s)
+[2025-11-27 02:03:23](https://bsky.app/profile/financialtimes.com/post/3m6kdjwdjvm26)
 
 ---
 
-@sokuho.news
+@financialtimes.com
 
-🔔気象庁より【地震速報】です。
+Budget exposes Labour to charges of being ‘high tax, high welfare’ party on.ft.com/489KZDK
 
-1時44分頃、北海道で最大震度2の地震を観測しました。
-震源:釧路沖, 深さ:80km, 規模:M4.6
-この地震による津波の心配はありません。
-(2025-11-27 01:46:53) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/11/27/2025-11-27-01-44-10.html?xlarge_image=1
-
-[2025-11-27 01:46:54](https://bsky.app/profile/sokuho.news/post/3m6kcmhkdgf2h)
+[2025-11-27 02:03:21](https://bsky.app/profile/financialtimes.com/post/3m6kdjuchzv23)
 
 ---
 
-@sokuho.news
+@npr.org
 
-🚨地震発生中❗❗
+The 66-page ruling Tuesday by Senior U.S. District Judge R. Brooke Jackson of Colorado is a comprehensive rejection of a tactic regularly used by ICE to meet quotas set by the Trump administration. (via @cprnews.bsky.social)
 
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像8🈡
-(2025-11-27 01:45:05) #緊急地震速報
-
-[2025-11-27 01:45:26](https://bsky.app/profile/sokuho.news/post/3m6kcjt6edz2m)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗
-
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像6
-(2025-11-27 01:44:40) #緊急地震速報
-
-[2025-11-27 01:45:23](https://bsky.app/profile/sokuho.news/post/3m6kcjqvvvl2p)
+[2025-11-27 02:01:36](https://bsky.app/profile/npr.org/post/3m6kdgqch542j)
 
 ---
 
 @reuters.com
 
-European Parliament supports year-long deforestation law delay reut.rs/43UX1jb
+India approves $816 million rare earth permanent magnets manufacturing programme reut.rs/3M5BBtx
 
-[2025-11-27 01:45:19](https://bsky.app/profile/reuters.com/post/3m6kcjml4ln2r)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗
-
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像5
-(2025-11-27 01:44:28) #緊急地震速報
-
-[2025-11-27 01:45:13](https://bsky.app/profile/sokuho.news/post/3m6kcjgyt7s27)
+[2025-11-27 02:01:07](https://bsky.app/profile/reuters.com/post/3m6kdfvcrvy26)
 
 ---
 
-@sokuho.news
+@financialtimes.com
 
-🚨地震発生中❗❗
+Here's a quick guide to the main policy announcements from the UK Budget and what it says about the state of the economy on.ft.com/3M2fuEv
 
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像4
-(2025-11-27 01:44:25) #緊急地震速報
-
-[2025-11-27 01:45:02](https://bsky.app/profile/sokuho.news/post/3m6kcj4t3oi2m)
+[2025-11-27 02:01:04](https://bsky.app/profile/financialtimes.com/post/3m6kdfrnehn24)
 
 ---
 
-@sokuho.news
+@nytimes.com
 
-🚨地震発生中❗❗
+Don't forget: Liquor stores close early on Thanksgiving. Buy your supplies in advance. nyti.ms/4rB7wmb
 
-⚠️揺れに警戒してください
+[2025-11-27 02:01:04](https://bsky.app/profile/nytimes.com/post/3m6kdfrhk3b27)
 
-🔶防災科研/強震モニタ/予測震度画像3
-(2025-11-27 01:44:23) #緊急地震速報
+---
 
-[2025-11-27 01:44:51](https://bsky.app/profile/sokuho.news/post/3m6kcisgwol2p)
+@washingtonpost.com
+
+Typically, a company’s revenue, track record and market advantage drive valuations. 
+
+But in the age of President Trump’s promised nuclear revival, shareholders see connections to the White House as the road to profitability, investment analysts say.
+
+[2025-11-27 02:00:50](https://bsky.app/profile/washingtonpost.com/post/3m6kdfep4qm2j)
+
+---
+
+@cnbc.com
+
+Meena Thiruvengadam writes, "I know what it’s like to have inconsiderate houseguests — the kind where you can’t wait for them to leave. I don’t ever want to be that person when I’m in another country."
+
+[2025-11-27 02:00:44](https://bsky.app/profile/cnbc.com/post/3m6kdf6enau2j)
 
 ---
 
