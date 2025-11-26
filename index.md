@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Pope Leo XIV says that AI "cannot replace human intelligence." <a href="https://bsky.app/profile/yahoofinance.com/post/3m6k62z6dek23" target="_blank">yahoofinance.com</a> (2025-11-27 00:25:34)</span><span style="padding-right:50px;">Israel launches new military operation in northern West Bank reut.rs/44nCRhY <a href="https://bsky.app/profile/reuters.com/post/3m6k62c5fwf2n" target="_blank">reuters.com</a> (2025-11-27 00:25:10)</span><span style="padding-right:50px;">How did you do in Connections today? Players must select four groups of four words without making more than three mistakes. nyti.ms/4pxxhSg <a href="https://bsky.app/profile/nytimes.com/post/3m6k5yeetvi2q" target="_blank">nytimes.com</a> (2025-11-27 00:24:05)</span><span style="padding-right:50px;">"We are working with Democrats to reassure people that this isn't a transactional political thing," said one Republican operative who led a nonpartisan lobbying effort for "Trump accounts." <a href="https://bsky.app/profile/axios.com/post/3m6k5wtdsxs2u" target="_blank">axios.com</a> (2025-11-27 00:23:14)</span><span style="padding-right:50px;">Leaked call transcripts between special envoy Steve Witkoff and a Putin advisor could derail Trump's progress on peace in Ukraine. And, air travel is back to normal just in time for Thanksgiving. n.pr/3M2HPdJ <a href="https://bsky.app/profile/npr.org/post/3m6k5v7t6hg2j" target="_blank">npr.org</a> (2025-11-27 00:22:19)</span>
+<span style="padding-right:50px;">Smart Tips For Tackling Thanksgiving Leftovers—And Reducing Food Waste <a href="https://bsky.app/profile/forbes.com/post/3m6k7e3jfn22o" target="_blank">forbes.com</a> (2025-11-27 00:48:32)</span><span style="padding-right:50px;">UPDATE Military officers in Guinea-Bissau said on Wednesday they were taking "total control" of the country while suspending its electoral process and closing its borders, three days after the poverty-stricken west African nation's elections ➡️ u.afp.com/ShQ8 <a href="https://bsky.app/profile/en.afp.com/post/3m6k76pcb6s2r" target="_blank">en.afp.com</a> (2025-11-27 00:45:31)</span><span style="padding-right:50px;">Britain gives planning approval to major new film studio near London reut.rs/4adHuii <a href="https://bsky.app/profile/reuters.com/post/3m6k76cbdml2k" target="_blank">reuters.com</a> (2025-11-27 00:45:18)</span><span style="padding-right:50px;">President Trump has always used his stamina and energy as a political strength. But that image is getting harder for him to sustain.   Read more: nyti.ms/49MiIG5 <a href="https://bsky.app/profile/nytimes.com/post/3m6k75vjfpp2g" target="_blank">nytimes.com</a> (2025-11-27 00:45:04)</span><span style="padding-right:50px;"> How not to botch a Budget: lessons from the corporate world on.ft.com/4rnFNoK  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m6k6z2ldxo26" target="_blank">financialtimes.com</a> (2025-11-27 00:42:22)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49559.07 (🔺546.82 : 2025-11-26)</span><span style="padding-right:50px;">DOW: 47327.61 (🔺131.46 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23122.23 (🔻40.96 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 179.60 (🔻2.04 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3141.00 (🔺12.00 : 2025-11-26)</span><span style="padding-right:50px;">USD/JPY: 156.47 (🔺0.45 : 2025-11-26)</span>
+<span style="padding-right:50px;">NIKKEI: 49559.07 (🔺546.82 : 2025-11-26)</span><span style="padding-right:50px;">DOW: 47337.83 (🔺141.68 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23139.61 (🔻23.59 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.08 (🔻1.55 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3141.00 (🔺12.00 : 2025-11-26)</span><span style="padding-right:50px;">USD/JPY: 156.49 (🔺0.47 : 2025-11-26)</span>
   </div>
 </div>
 
@@ -30,86 +30,88 @@
 
 ---
 
-## [2025-11-27 00:30 updated](2025_11_27.md)
+## [2025-11-27 00:50 updated](2025_11_27.md)
 
-@yahoofinance.com
+@forbes.com
 
-Pope Leo XIV says that AI "cannot replace human intelligence."
+Smart Tips For Tackling Thanksgiving Leftovers—And Reducing Food Waste
 
-[2025-11-27 00:25:34](https://bsky.app/profile/yahoofinance.com/post/3m6k62z6dek23)
+[2025-11-27 00:48:32](https://bsky.app/profile/forbes.com/post/3m6k7e3jfn22o)
+
+---
+
+@en.afp.com
+
+UPDATE Military officers in Guinea-Bissau said on Wednesday they were taking "total control" of the country while suspending its electoral process and closing its borders, three days after the poverty-stricken west African nation's elections ➡️ u.afp.com/ShQ8
+
+[2025-11-27 00:45:31](https://bsky.app/profile/en.afp.com/post/3m6k76pcb6s2r)
 
 ---
 
 @reuters.com
 
-Israel launches new military operation in northern West Bank reut.rs/44nCRhY
+Britain gives planning approval to major new film studio near London reut.rs/4adHuii
 
-[2025-11-27 00:25:10](https://bsky.app/profile/reuters.com/post/3m6k62c5fwf2n)
+[2025-11-27 00:45:18](https://bsky.app/profile/reuters.com/post/3m6k76cbdml2k)
 
 ---
 
 @nytimes.com
 
-How did you do in Connections today? Players must select four groups of four words without making more than three mistakes. nyti.ms/4pxxhSg
+President Trump has always used his stamina and energy as a political strength. But that image is getting harder for him to sustain. 
 
-[2025-11-27 00:24:05](https://bsky.app/profile/nytimes.com/post/3m6k5yeetvi2q)
+Read more: nyti.ms/49MiIG5
 
----
-
-@axios.com
-
-"We are working with Democrats to reassure people that this isn't a transactional political thing," said one Republican operative who led a nonpartisan lobbying effort for "Trump accounts."
-
-[2025-11-27 00:23:14](https://bsky.app/profile/axios.com/post/3m6k5wtdsxs2u)
-
----
-
-@npr.org
-
-Leaked call transcripts between special envoy Steve Witkoff and a Putin advisor could derail Trump's progress on peace in Ukraine. And, air travel is back to normal just in time for Thanksgiving. n.pr/3M2HPdJ
-
-[2025-11-27 00:22:19](https://bsky.app/profile/npr.org/post/3m6k5v7t6hg2j)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Nicolas Sarkozy illegal campaign financing conviction upheld 
-
-[2025-11-27 00:20:20](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6k5roakiv2g)
-
----
-
-@nbcnews.com
-
-A box truck with hundreds of frozen turkeys that were to be used in a holiday giveaway was stolen in Southern California, officials say. 
-
-[2025-11-27 00:20:16](https://bsky.app/profile/nbcnews.com/post/3m6k5rkb3is22)
-
----
-
-@nhknewsunofficial.bsky.social
-
-「需給ギャップ」推計値 3期ぶりにわずかなマイナスに 内閣府
-https://news.web.nhk/newsweb/na/na-k10014987361000
-
-[2025-11-27 00:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6k5nmwwic2r)
+[2025-11-27 00:45:04](https://bsky.app/profile/nytimes.com/post/3m6k75vjfpp2g)
 
 ---
 
 @financialtimes.com
 
-Budget 2025: what it means for your money on.ft.com/4imNfMA
+ How not to botch a Budget: lessons from the corporate world on.ft.com/4rnFNoK  | opinion
 
-[2025-11-27 00:17:36](https://bsky.app/profile/financialtimes.com/post/3m6k5mrjuz724)
+[2025-11-27 00:42:22](https://bsky.app/profile/financialtimes.com/post/3m6k6z2ldxo26)
 
 ---
 
-@cnbc.com
+@financialtimes.com
 
-MIT study finds AI can already replace 11.7% of U.S. workforce
+Property income tax to rise as raid on expensive homes is confirmed on.ft.com/3LYc0CZ
 
-[2025-11-27 00:17:07](https://bsky.app/profile/cnbc.com/post/3m6k5lvlsnu2e)
+[2025-11-27 00:42:21](https://bsky.app/profile/financialtimes.com/post/3m6k6yzzzo32v)
+
+---
+
+@financialtimes.com
+
+ Altice USA bridles at an outbreak of creditor-on-creditor congeniality on.ft.com/4imPQ9i  | opinion
+
+[2025-11-27 00:42:21](https://bsky.app/profile/financialtimes.com/post/3m6k6yzkni32v)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+大型クロマグロ 日本近海の漁獲上限 来季8400トン余に 水産庁
+https://news.web.nhk/newsweb/na/na-k10014987481000
+
+[2025-11-27 00:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6k6yjuxsa2u)
+
+---
+
+@reuters.com
+
+Small US retailers face holiday supply chaos due to Trump tariffs reut.rs/4ijsvWa
+
+[2025-11-27 00:40:18](https://bsky.app/profile/reuters.com/post/3m6k6vetsgs2k)
+
+---
+
+@nbcnews.com
+
+The Kremlin says that the leak of a phone call between senior U.S. and Russian officials was intended to disrupt peace talks, and warned it was premature to say a deal to end its war in Ukraine was close.
+
+[2025-11-27 00:40:10](https://bsky.app/profile/nbcnews.com/post/3m6k6v4szao22)
 
 ---
 
