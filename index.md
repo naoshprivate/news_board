@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">National Guard soldiers shot in 'targeted' attack near White House reut.rs/4oi6Tuw <a href="https://bsky.app/profile/reuters.com/post/3m6kyumuyyk2i" target="_blank">reuters.com</a> (2025-11-27 08:25:10)</span><span style="padding-right:50px;">Some doctors say the chemicals all around us—from golf courses to dry cleaners—may be increasing our risk of Parkinson’s disease, the fastest-growing neurodegenerative disease in the world.  Read more: on.wsj.com/4om76NA <a href="https://bsky.app/profile/wsj.com/post/3m6kypw43fz2r" target="_blank">wsj.com</a> (2025-11-27 08:22:32)</span><span style="padding-right:50px;">ICE detains mother of White House press secretary Karoline Leavitt's nephew reut.rs/49It0H5 <a href="https://bsky.app/profile/reuters.com/post/3m6kycvgctr27" target="_blank">reuters.com</a> (2025-11-27 08:15:16)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】3人が乗った乗用車が横転 1人が重体の模様 国道413号の通行止め解除 山梨・道志村 (2025-11-27 08:12:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6kybv5e6527" target="_blank">sokuho.news</a> (2025-11-27 08:14:42)</span><span style="padding-right:50px;">Residents of the Loop, Chicago’s downtown area, live on average until they are 87. In the West Garfield Park neighborhood, the average is 67. (via @wbez.org) <a href="https://bsky.app/profile/npr.org/post/3m6ky4us4jl2g" target="_blank">npr.org</a> (2025-11-27 08:11:54)</span>
+<span style="padding-right:50px;">大阪 ひき逃げなどの疑い トラック運転手逮捕 バイク男性 死亡 https://news.web.nhk/newsweb/na/na-k10014987701000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6l25keje72j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-27 08:48:01)</span><span style="padding-right:50px;">Live Updates: The suspect in the National Guard shooting is believed to be an Afghan national, sources say. cbsn.ws/4oDqfLb <a href="https://bsky.app/profile/cbsnews.com/post/3m6l24qgewz2a" target="_blank">cbsnews.com</a> (2025-11-27 08:47:36)</span><span style="padding-right:50px;">Exclusive: After speaking with China's Xi, Trump called Japan’s prime minister and advised her not to provoke Beijing over Taiwan. <a href="https://bsky.app/profile/wsj.com/post/3m6l23tx24q2o" target="_blank">wsj.com</a> (2025-11-27 08:47:06)</span><span style="padding-right:50px;">Patriots rookie LT Will Campbell (knee) headed to IR reut.rs/4aeoobN <a href="https://bsky.app/profile/reuters.com/post/3m6kzyjmyuh2o" target="_blank">reuters.com</a> (2025-11-27 08:45:15)</span><span style="padding-right:50px;">Trump says South Africa won't receive invitation to G20 in 2026 reut.rs/48jiYtt <a href="https://bsky.app/profile/reuters.com/post/3m6kzpv7fcb27" target="_blank">reuters.com</a> (2025-11-27 08:40:25)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49559.07 (🔺546.82 : 2025-11-26)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3141.00 (🔺12.00 : 2025-11-26)</span><span style="padding-right:50px;">USD/JPY: 156.29 (🔻0.11 : 2025-11-26)</span>
+<span style="padding-right:50px;">NIKKEI: 49559.07 (🔺546.82 : 2025-11-26)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3141.00 (🔺12.00 : 2025-11-26)</span><span style="padding-right:50px;">USD/JPY: 156.26 (🔻0.14 : 2025-11-26)</span>
   </div>
 </div>
 
@@ -30,90 +30,97 @@
 
 ---
 
-## [2025-11-27 08:30 updated](2025_11_27.md)
+## [2025-11-27 08:50 updated](2025_11_27.md)
 
-@reuters.com
+@nhknewsunofficial.bsky.social
 
-National Guard soldiers shot in 'targeted' attack near White House reut.rs/4oi6Tuw
+大阪 ひき逃げなどの疑い トラック運転手逮捕 バイク男性 死亡
+https://news.web.nhk/newsweb/na/na-k10014987701000
 
-[2025-11-27 08:25:10](https://bsky.app/profile/reuters.com/post/3m6kyumuyyk2i)
+[2025-11-27 08:48:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6l25keje72j)
+
+---
+
+@cbsnews.com
+
+Live Updates: The suspect in the National Guard shooting is believed to be an Afghan national, sources say. cbsn.ws/4oDqfLb
+
+[2025-11-27 08:47:36](https://bsky.app/profile/cbsnews.com/post/3m6l24qgewz2a)
 
 ---
 
 @wsj.com
 
-Some doctors say the chemicals all around us—from golf courses to dry cleaners—may be increasing our risk of Parkinson’s disease, the fastest-growing neurodegenerative disease in the world.
+Exclusive: After speaking with China's Xi, Trump called Japan’s prime minister and advised her not to provoke Beijing over Taiwan.
 
-Read more: on.wsj.com/4om76NA
-
-[2025-11-27 08:22:32](https://bsky.app/profile/wsj.com/post/3m6kypw43fz2r)
+[2025-11-27 08:47:06](https://bsky.app/profile/wsj.com/post/3m6l23tx24q2o)
 
 ---
 
 @reuters.com
 
-ICE detains mother of White House press secretary Karoline Leavitt's nephew reut.rs/49It0H5
+Patriots rookie LT Will Campbell (knee) headed to IR reut.rs/4aeoobN
 
-[2025-11-27 08:15:16](https://bsky.app/profile/reuters.com/post/3m6kycvgctr27)
+[2025-11-27 08:45:15](https://bsky.app/profile/reuters.com/post/3m6kzyjmyuh2o)
 
 ---
 
-@sokuho.news
+@reuters.com
 
-🛎️JNNより【速報】です。
+Trump says South Africa won't receive invitation to G20 in 2026 reut.rs/48jiYtt
 
-【速報】3人が乗った乗用車が横転 1人が重体の模様 国道413号の通行止め解除 山梨・道志村
-(2025-11-27 08:12:00) #ニュース
+[2025-11-27 08:40:25](https://bsky.app/profile/reuters.com/post/3m6kzpv7fcb27)
 
-[2025-11-27 08:14:42](https://bsky.app/profile/sokuho.news/post/3m6kybv5e6527)
+---
+
+@nytimes.com
+
+Here's how "Stranger Things," built out of vintage pop-culture references, captured the “If you liked that, you’ll like this” spirit of Netflix. "It’s a big Halloween bowl of retro candy that invites you to remember when, one sugary bite at a time," James Poniewozi writes.
+
+[2025-11-27 08:40:04](https://bsky.app/profile/nytimes.com/post/3m6kzpb3o5427)
+
+---
+
+@wsj.com
+
+Sweating in elite new supersize saunas—with anywhere from one to 90 other people—produces a unique sort of connection. 
+
+Welcome to the new networking space: 🔗 on.wsj.com/4ip7p8U
+
+[2025-11-27 08:39:14](https://bsky.app/profile/wsj.com/post/3m6kznrrenv2p)
+
+---
+
+@reuters.com
+
+Savers and the wealthy count the costs of UK tax-raising budget reut.rs/4pEw4c5
+
+[2025-11-27 08:35:12](https://bsky.app/profile/reuters.com/post/3m6kzgkcs732i)
 
 ---
 
 @npr.org
 
-Residents of the Loop, Chicago’s downtown area, live on average until they are 87. In the West Garfield Park neighborhood, the average is 67. (via @wbez.org)
+California’s state veterinarian banned all chicken shows this year to limit the spread of bird flu, leaving county fairs across the state devoid of chickens. (via @kqednews.kqed.org)
 
-[2025-11-27 08:11:54](https://bsky.app/profile/npr.org/post/3m6ky4us4jl2g)
-
----
-
-@reuters.com
-
-Hong Kong inferno puts spotlight on risky bamboo scaffolding reut.rs/3M0VwKg
-
-[2025-11-27 08:10:22](https://bsky.app/profile/reuters.com/post/3m6ky25el362w)
+[2025-11-27 08:32:56](https://bsky.app/profile/npr.org/post/3m6kzcigzsv2q)
 
 ---
 
-@wsj.com
+@nikkei.com
 
-One shopper in her 50s says she always gets complimented when she wears her Marfa Stance coat. “I can’t tell you how many 20-something young men have stopped me.” 🔗 on.wsj.com/3M1FjV9
+アメリカの特使、ロシアに「トランプ対策」指南
+www.nikkei.com/article/DGXZQO...
 
-[2025-11-27 08:07:05](https://bsky.app/profile/wsj.com/post/3m6kxubxfn72h)
+トランプ氏との電話協議で「平和の男として大統領を尊敬している」とプーチン氏が発言するように伝えよ──。
 
----
+アメリカのウィットコフ中東担当特使が10月14日にロシア高官と実施した電話協議の通話記録を、ブルームバーグ通信が報じました。
 
-@reuters.com
+ロシア寄りの懸念があるとして共和党からは解任論が出ています。
 
-Democratic-led states sue over Trump's food aid cuts for immigrants reut.rs/3Xhbu5p
+#ニュース
 
-[2025-11-27 08:05:11](https://bsky.app/profile/reuters.com/post/3m6kxqutlfb26)
-
----
-
-@reuters.com
-
-Supreme Court leaves copyright official targeted by Trump in place for now reut.rs/4iogDC9
-
-[2025-11-27 08:01:11](https://bsky.app/profile/reuters.com/post/3m6kxjpyteh2n)
-
----
-
-@cnn.com
-
-Pope Leo XIV begins a six-day visit to Turkey and Lebanon on Thursday, his first foreign trip since his election and one on which he’s expected to emphasize key themes of his fledgling pontificate – among them dialogue and unity. 
-
-[2025-11-27 08:01:04](https://bsky.app/profile/cnn.com/post/3m6kxjjbk722m)
+[2025-11-27 08:31:00](https://bsky.app/profile/nikkei.com/post/3m6kz6zpodc26)
 
 ---
 
