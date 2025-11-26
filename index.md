@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Breaking news: At least three people were just shot near the White House, including two National Guardsmen. Their conditions are currently unknown.  Follow live updates: https://wapo.st/4p0ZdOt <a href="https://bsky.app/profile/washingtonpost.com/post/3m6knwbgwzk2s" target="_blank">washingtonpost.com</a> (2025-11-27 05:09:15)</span><span style="padding-right:50px;">ホワイトハウス付近で銃撃　少なくとも2人負傷、警戒中の州兵か www.nikkei.com/article/DGXZQO... <a href="https://bsky.app/profile/nikkei.com/post/3m6knvo3zpn2l" target="_blank">nikkei.com</a> (2025-11-27 05:08:54)</span><span style="padding-right:50px;">BREAKING: Two members of the National Guard were shot in Washington, D.C., Homeland Security Secretary Kristi Noem said in a post on X reut.rs/4pDmypI <a href="https://bsky.app/profile/reuters.com/post/3m6kntzzg2225" target="_blank">reuters.com</a> (2025-11-27 05:08:00)</span><span style="padding-right:50px;">Bloomberg News Now is a comprehensive audio report of today's top stories. Hear the latest news, updated throughout the day, covering global business stories in just a few minutes. <a href="https://bsky.app/profile/bloomberg.com/post/3m6knrdoscw2d" target="_blank">bloomberg.com</a> (2025-11-27 05:06:29)</span><span style="padding-right:50px;">Fed's Beige Book shows cooler consumer spending, muted hiring, higher prices <a href="https://bsky.app/profile/yahoofinance.com/post/3m6knrbl6sg2z" target="_blank">yahoofinance.com</a> (2025-11-27 05:06:27)</span>
+<span style="padding-right:50px;">ホワイトハウス付近で銃撃　警戒中の州兵2人負傷、容疑者確保 www.nikkei.com/article/DGXZQO... <a href="https://bsky.app/profile/nikkei.com/post/3m6koyc6z6q2w" target="_blank">nikkei.com</a> (2025-11-27 05:28:16)</span><span style="padding-right:50px;">Norovirus has been rising across the U.S. since as early as mid-October, according to data from WastewaterSCAN, an academic program through Stanford University and Emory University, but rates are currently lower compared to last year’s spike. <a href="https://bsky.app/profile/nbcnews.com/post/3m6koy2rndk2j" target="_blank">nbcnews.com</a> (2025-11-27 05:28:08)</span><span style="padding-right:50px;">Three men have been arrested in connection with the deadly Hong Kong high-rise fire, police say. Hundreds of people remain missing. https://cnn.it/3JXaL6r <a href="https://bsky.app/profile/cnn.com/post/3m6koxg22f32f" target="_blank">cnn.com</a> (2025-11-27 05:27:47)</span><span style="padding-right:50px;">Federal Reserve’s anecdotal look at the economy shows a sputtering job market and moderate inflation in November. <a href="https://bsky.app/profile/wsj.com/post/3m6kow6rghp2p" target="_blank">wsj.com</a> (2025-11-27 05:27:05)</span><span style="padding-right:50px;">ウナギの取り引き規制 きょう採決へ ワシントン条約締約国会議 https://news.web.nhk/newsweb/na/na-k10014987581000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6kow5tb5v2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-27 05:27:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49559.07 (🔺546.82 : 2025-11-26)</span><span style="padding-right:50px;">DOW: 47491.51 (🔺295.36 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23250.03 (🔺86.83 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.41 (🔻1.22 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3141.00 (🔺12.00 : 2025-11-26)</span><span style="padding-right:50px;">USD/JPY: 156.44 (🔺0.42 : 2025-11-26)</span>
+<span style="padding-right:50px;">NIKKEI: 49559.07 (🔺546.82 : 2025-11-26)</span><span style="padding-right:50px;">DOW: 47505.78 (🔺309.63 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23262.16 (🔺98.97 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.52 (🔻1.11 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3141.00 (🔺12.00 : 2025-11-26)</span><span style="padding-right:50px;">USD/JPY: 156.44 (🔺0.43 : 2025-11-26)</span>
   </div>
 </div>
 
@@ -30,88 +30,91 @@
 
 ---
 
-## [2025-11-27 05:10 updated](2025_11_27.md)
-
-@washingtonpost.com
-
-Breaking news: At least three people were just shot near the White House, including two National Guardsmen. Their conditions are currently unknown.
-
-Follow live updates: https://wapo.st/4p0ZdOt
-
-[2025-11-27 05:09:15](https://bsky.app/profile/washingtonpost.com/post/3m6knwbgwzk2s)
-
----
+## [2025-11-27 05:30 updated](2025_11_27.md)
 
 @nikkei.com
 
-ホワイトハウス付近で銃撃　少なくとも2人負傷、警戒中の州兵か
+ホワイトハウス付近で銃撃　警戒中の州兵2人負傷、容疑者確保
 www.nikkei.com/article/DGXZQO...
 
-[2025-11-27 05:08:54](https://bsky.app/profile/nikkei.com/post/3m6knvo3zpn2l)
+[2025-11-27 05:28:16](https://bsky.app/profile/nikkei.com/post/3m6koyc6z6q2w)
 
 ---
 
-@reuters.com
+@nbcnews.com
 
-<strong><span style="color: red;">BREAKING:</span> Two members of the National Guard were shot in Washington, D.C., Homeland Security Secretary Kristi Noem said in a post on X reut.rs/4pDmypI</strong>
+Norovirus has been rising across the U.S. since as early as mid-October, according to data from WastewaterSCAN, an academic program through Stanford University and Emory University, but rates are currently lower compared to last year’s spike.
 
-[2025-11-27 05:08:00](https://bsky.app/profile/reuters.com/post/3m6kntzzg2225)
-
----
-
-@bloomberg.com
-
-Bloomberg News Now is a comprehensive audio report of today's top stories. Hear the latest news, updated throughout the day, covering global business stories in just a few minutes.
-
-[2025-11-27 05:06:29](https://bsky.app/profile/bloomberg.com/post/3m6knrdoscw2d)
-
----
-
-@yahoofinance.com
-
-Fed's Beige Book shows cooler consumer spending, muted hiring, higher prices
-
-[2025-11-27 05:06:27](https://bsky.app/profile/yahoofinance.com/post/3m6knrbl6sg2z)
-
----
-
-@nytimes.com
-
-From @theathleticfc.bsky.social: Moroccan footballer Ilias Chair was convicted in 2024 of assaulting a man by hitting him with a stone and fracturing his skull. This is the first time Chair has spoken publicly about what happened.
-
-[2025-11-27 05:06:03](https://bsky.app/profile/nytimes.com/post/3m6knqklnzs27)
-
----
-
-@reuters.com
-
-Trump administration again seeks to end Haitian protected status reut.rs/4iqC1qL
-
-[2025-11-27 05:05:13](https://bsky.app/profile/reuters.com/post/3m6knp2x5w52e)
+[2025-11-27 05:28:08](https://bsky.app/profile/nbcnews.com/post/3m6koy2rndk2j)
 
 ---
 
 @cnn.com
 
-In the foothills of the San Gabriel Mountains, a 35-foot-tall structure made of bright lights and giant metal crossbeams withstood the deadly Eaton Fire’s flames. Its story reached back nearly a century, buoyed by a short list of devoted caretakers: https://cnn.it/3M5AZ7d
+Three men have been arrested in connection with the deadly Hong Kong high-rise fire, police say. Hundreds of people remain missing.
+https://cnn.it/3JXaL6r
 
-[2025-11-27 05:05:05](https://bsky.app/profile/cnn.com/post/3m6knot6t2z2n)
-
----
-
-@cnn.com
-
-<strong><span style="color: red;">BREAKING:</span> Several people shot near the White House in Washington, DC, including at least one National Guardsman https://cnn.it/48jPTy2</strong>
-
-[2025-11-27 05:03:59](https://bsky.app/profile/cnn.com/post/3m6knmuaowb2n)
+[2025-11-27 05:27:47](https://bsky.app/profile/cnn.com/post/3m6koxg22f32f)
 
 ---
 
-@financialtimes.com
+@wsj.com
 
-‘Spend now, pay later’: Reeves’ Budget delays the fiscal pain on.ft.com/49DaSyk
+Federal Reserve’s anecdotal look at the economy shows a sputtering job market and moderate inflation in November.
 
-[2025-11-27 05:03:21](https://bsky.app/profile/financialtimes.com/post/3m6knlpruu526)
+[2025-11-27 05:27:05](https://bsky.app/profile/wsj.com/post/3m6kow6rghp2p)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+ウナギの取り引き規制 きょう採決へ ワシントン条約締約国会議
+https://news.web.nhk/newsweb/na/na-k10014987581000
+
+[2025-11-27 05:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6kow5tb5v2k)
+
+---
+
+@reuters.com
+
+S&P cuts Tether stablecoin rating to 'weak' on disclosure gaps reut.rs/3XT65Sa
+
+[2025-11-27 05:25:11](https://bsky.app/profile/reuters.com/post/3m6kosrey7w2y)
+
+---
+
+@forbes.com
+
+The condition of those involved in the shooting was not immediately known Wednesday afternoon.
+
+[2025-11-27 05:25:04](https://bsky.app/profile/forbes.com/post/3m6kosl5qgm2p)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】東京・足立区西新井本町の住宅で火災 けが人複数の情報も
+(2025-11-27 05:22:25) #ニュース
+
+[2025-11-27 05:24:47](https://bsky.app/profile/sokuho.news/post/3m6kos2cge626)
+
+---
+
+@apnews.com
+
+President Trump says South Africa isn't invited to next year's G20 summit in Miami and will “stop all payments and subsidies” to the country over its treatment of a U.S. government representative at this year’s global meeting.
+
+[2025-11-27 05:23:22](https://bsky.app/profile/apnews.com/post/3m6kopjunr72h)
+
+---
+
+@axios.com
+
+<strong><span style="color: red;">BREAKING:</span> Two National Guard members shot near White House in D.C.</strong>
+
+[2025-11-27 05:21:08](https://bsky.app/profile/axios.com/post/3m6kolk4pec2u)
 
 ---
 
