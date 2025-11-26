@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Smart Tips For Tackling Thanksgiving Leftovers—And Reducing Food Waste <a href="https://bsky.app/profile/forbes.com/post/3m6k7e3jfn22o" target="_blank">forbes.com</a> (2025-11-27 00:48:32)</span><span style="padding-right:50px;">UPDATE Military officers in Guinea-Bissau said on Wednesday they were taking "total control" of the country while suspending its electoral process and closing its borders, three days after the poverty-stricken west African nation's elections ➡️ u.afp.com/ShQ8 <a href="https://bsky.app/profile/en.afp.com/post/3m6k76pcb6s2r" target="_blank">en.afp.com</a> (2025-11-27 00:45:31)</span><span style="padding-right:50px;">Britain gives planning approval to major new film studio near London reut.rs/4adHuii <a href="https://bsky.app/profile/reuters.com/post/3m6k76cbdml2k" target="_blank">reuters.com</a> (2025-11-27 00:45:18)</span><span style="padding-right:50px;">President Trump has always used his stamina and energy as a political strength. But that image is getting harder for him to sustain.   Read more: nyti.ms/49MiIG5 <a href="https://bsky.app/profile/nytimes.com/post/3m6k75vjfpp2g" target="_blank">nytimes.com</a> (2025-11-27 00:45:04)</span><span style="padding-right:50px;"> How not to botch a Budget: lessons from the corporate world on.ft.com/4rnFNoK  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m6k6z2ldxo26" target="_blank">financialtimes.com</a> (2025-11-27 00:42:22)</span>
+<span style="padding-right:50px;">再審に“担当裁判官関わらないか”意見交換 制度見直しの部会 https://news.web.nhk/newsweb/na/na-k10014987401000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6kaishcq32t" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-27 01:09:02)</span><span style="padding-right:50px;">Thirteen people were killed in a fire that spread across seven high-rise apartment buildings in a Hong Kong housing complex. About 700 people have been evacuated to temporary shelters. n.pr/3LY6ksF <a href="https://bsky.app/profile/npr.org/post/3m6kad73kr42s" target="_blank">npr.org</a> (2025-11-27 01:05:56)</span><span style="padding-right:50px;">BREAKING: Georgia prosecutor drops charges against President Trump and others in state 2020 election interference case.  <a href="https://bsky.app/profile/nbcnews.com/post/3m6kacegn6c2j" target="_blank">nbcnews.com</a> (2025-11-27 01:05:28)</span><span style="padding-right:50px;">Wall Street extends gains as Fed rate-cut bets for December grow reut.rs/489DRas <a href="https://bsky.app/profile/reuters.com/post/3m6kabtbexn2i" target="_blank">reuters.com</a> (2025-11-27 01:05:10)</span><span style="padding-right:50px;">Prosecutor Peter Skandalakis urged the judge to dismiss the case. <a href="https://bsky.app/profile/forbes.com/post/3m6kabn36zy2q" target="_blank">forbes.com</a> (2025-11-27 01:05:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49559.07 (🔺546.82 : 2025-11-26)</span><span style="padding-right:50px;">DOW: 47337.83 (🔺141.68 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23139.61 (🔻23.59 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.08 (🔻1.55 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3141.00 (🔺12.00 : 2025-11-26)</span><span style="padding-right:50px;">USD/JPY: 156.49 (🔺0.47 : 2025-11-26)</span>
+<span style="padding-right:50px;">NIKKEI: 49559.07 (🔺546.82 : 2025-11-26)</span><span style="padding-right:50px;">DOW: 47420.21 (🔺224.06 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23216.81 (🔺53.62 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.71 (🔻0.93 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3141.00 (🔺12.00 : 2025-11-26)</span><span style="padding-right:50px;">USD/JPY: 156.43 (🔺0.41 : 2025-11-26)</span>
   </div>
 </div>
 
@@ -30,88 +30,86 @@
 
 ---
 
-## [2025-11-27 00:50 updated](2025_11_27.md)
-
-@forbes.com
-
-Smart Tips For Tackling Thanksgiving Leftovers—And Reducing Food Waste
-
-[2025-11-27 00:48:32](https://bsky.app/profile/forbes.com/post/3m6k7e3jfn22o)
-
----
-
-@en.afp.com
-
-UPDATE Military officers in Guinea-Bissau said on Wednesday they were taking "total control" of the country while suspending its electoral process and closing its borders, three days after the poverty-stricken west African nation's elections ➡️ u.afp.com/ShQ8
-
-[2025-11-27 00:45:31](https://bsky.app/profile/en.afp.com/post/3m6k76pcb6s2r)
-
----
-
-@reuters.com
-
-Britain gives planning approval to major new film studio near London reut.rs/4adHuii
-
-[2025-11-27 00:45:18](https://bsky.app/profile/reuters.com/post/3m6k76cbdml2k)
-
----
-
-@nytimes.com
-
-President Trump has always used his stamina and energy as a political strength. But that image is getting harder for him to sustain. 
-
-Read more: nyti.ms/49MiIG5
-
-[2025-11-27 00:45:04](https://bsky.app/profile/nytimes.com/post/3m6k75vjfpp2g)
-
----
-
-@financialtimes.com
-
- How not to botch a Budget: lessons from the corporate world on.ft.com/4rnFNoK  | opinion
-
-[2025-11-27 00:42:22](https://bsky.app/profile/financialtimes.com/post/3m6k6z2ldxo26)
-
----
-
-@financialtimes.com
-
-Property income tax to rise as raid on expensive homes is confirmed on.ft.com/3LYc0CZ
-
-[2025-11-27 00:42:21](https://bsky.app/profile/financialtimes.com/post/3m6k6yzzzo32v)
-
----
-
-@financialtimes.com
-
- Altice USA bridles at an outbreak of creditor-on-creditor congeniality on.ft.com/4imPQ9i  | opinion
-
-[2025-11-27 00:42:21](https://bsky.app/profile/financialtimes.com/post/3m6k6yzkni32v)
-
----
+## [2025-11-27 01:10 updated](2025_11_27.md)
 
 @nhknewsunofficial.bsky.social
 
-大型クロマグロ 日本近海の漁獲上限 来季8400トン余に 水産庁
-https://news.web.nhk/newsweb/na/na-k10014987481000
+再審に“担当裁判官関わらないか”意見交換 制度見直しの部会
+https://news.web.nhk/newsweb/na/na-k10014987401000
 
-[2025-11-27 00:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6k6yjuxsa2u)
+[2025-11-27 01:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6kaishcq32t)
 
 ---
 
-@reuters.com
+@npr.org
 
-Small US retailers face holiday supply chaos due to Trump tariffs reut.rs/4ijsvWa
+Thirteen people were killed in a fire that spread across seven high-rise apartment buildings in a Hong Kong housing complex. About 700 people have been evacuated to temporary shelters. n.pr/3LY6ksF
 
-[2025-11-27 00:40:18](https://bsky.app/profile/reuters.com/post/3m6k6vetsgs2k)
+[2025-11-27 01:05:56](https://bsky.app/profile/npr.org/post/3m6kad73kr42s)
 
 ---
 
 @nbcnews.com
 
-The Kremlin says that the leak of a phone call between senior U.S. and Russian officials was intended to disrupt peace talks, and warned it was premature to say a deal to end its war in Ukraine was close.
+<strong><span style="color: red;">BREAKING:</span> Georgia prosecutor drops charges against President Trump and others in state 2020 election interference case. </strong>
 
-[2025-11-27 00:40:10](https://bsky.app/profile/nbcnews.com/post/3m6k6v4szao22)
+[2025-11-27 01:05:28](https://bsky.app/profile/nbcnews.com/post/3m6kacegn6c2j)
+
+---
+
+@reuters.com
+
+Wall Street extends gains as Fed rate-cut bets for December grow reut.rs/489DRas
+
+[2025-11-27 01:05:10](https://bsky.app/profile/reuters.com/post/3m6kabtbexn2i)
+
+---
+
+@forbes.com
+
+Prosecutor Peter Skandalakis urged the judge to dismiss the case.
+
+[2025-11-27 01:05:03](https://bsky.app/profile/forbes.com/post/3m6kabn36zy2q)
+
+---
+
+@bloomberg-jp.bsky.social
+
+補正で国債増発11兆円台後半、税収上振れでも歳入の過半補う－関係者
+
+[2025-11-27 01:03:35](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6ka6yfm7s2j)
+
+---
+
+@bloomberg-jp.bsky.social
+
+高市首相、台湾有事答弁を釈明「具体的言及したいと思わなかった」
+
+[2025-11-27 01:03:29](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6ka6smx4v26)
+
+---
+
+@bloomberg-jp.bsky.social
+
+米利下げ、金利先物市場は確実視－次期FRB議長人選で来年も緩和観測
+
+[2025-11-27 01:03:24](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6ka6ol4tf26)
+
+---
+
+@bloomberg-jp.bsky.social
+
+英政府の財政余力、22年3月以来の大きさに拡大－予算責任局
+
+[2025-11-27 01:03:19](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6ka6jv2cg2v)
+
+---
+
+@bloomberg-jp.bsky.social
+
+米新規失業保険申請件数、予想外に減少－4月半ば以来の低水準
+
+[2025-11-27 01:03:15](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6ka6ffqt22q)
 
 ---
 
