@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Trump says US must re-examine Afghan immigrants who came when Biden was president reut.rs/3XgV0u5 <a href="https://bsky.app/profile/reuters.com/post/3m6lqdmcitd2i" target="_blank">reuters.com</a> (2025-11-27 15:25:09)</span><span style="padding-right:50px;">Fracking transforms an Argentine town but what about the nation? <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6lqa66v3v2h" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-11-27 15:23:13)</span><span style="padding-right:50px;">'This is no life': Security and long-held views shattered in Lebanon amid Israeli strikes <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6lq6ab7s62w" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-11-27 15:22:08)</span><span style="padding-right:50px;">中日 ナゴヤ球場老朽化で本拠地移転へ 2030年代前半目指す https://news.web.nhk/newsweb/na/na-k10014987971000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6lq4hvub52b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-27 15:21:07)</span><span style="padding-right:50px;">US suspends immigration requests for Afghans after National Guard shooting <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6lq4cfv6527" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-11-27 15:21:03)</span>
+<span style="padding-right:50px;">Bank of Japan's Noguchi advocates gradual interest rate hikes reut.rs/4rps2po <a href="https://bsky.app/profile/reuters.com/post/3m6lrhfsblw26" target="_blank">reuters.com</a> (2025-11-27 15:45:10)</span><span style="padding-right:50px;">Reeves to pitch tax-raising Budget to voters on.ft.com/3M0UQ7K <a href="https://bsky.app/profile/financialtimes.com/post/3m6lrcis43k2j" target="_blank">financialtimes.com</a> (2025-11-27 15:42:26)</span><span style="padding-right:50px;">衆院憲法審 幹事懇談会 自民 起草小委員会提案 立民など応じず https://news.web.nhk/newsweb/na/na-k10014987951000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6lrbtk5x42k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-27 15:42:02)</span><span style="padding-right:50px;">China's industrial profits fall in October after two months of strong growth reut.rs/4p5jeDV <a href="https://bsky.app/profile/reuters.com/post/3m6lr6jp2ah27" target="_blank">reuters.com</a> (2025-11-27 15:40:12)</span><span style="padding-right:50px;">日銀 野口審議委員 “拙速な利上げはリスク 慎重に判断を” https://news.web.nhk/newsweb/na/na-k10014988001000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6lqx5jqn42j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-27 15:36:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50175.54 (🔺306.75 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3139.00 (🔻16.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 156.12 (🔻0.28 : 2025-11-27)</span>
+<span style="padding-right:50px;">NIKKEI: 50167.10 (🔺298.31 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3138.00 (🔻17.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 156.16 (🔻0.24 : 2025-11-27)</span>
   </div>
 </div>
 
@@ -30,81 +30,55 @@
 
 ---
 
-## [2025-11-27 15:30 updated](2025_11_27.md)
+## [2025-11-27 15:50 updated](2025_11_27.md)
 
 @reuters.com
 
-Trump says US must re-examine Afghan immigrants who came when Biden was president reut.rs/3XgV0u5
+Bank of Japan's Noguchi advocates gradual interest rate hikes reut.rs/4rps2po
 
-[2025-11-27 15:25:09](https://bsky.app/profile/reuters.com/post/3m6lqdmcitd2i)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Fracking transforms an Argentine town but what about the nation?
-
-[2025-11-27 15:23:13](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6lqa66v3v2h)
+[2025-11-27 15:45:10](https://bsky.app/profile/reuters.com/post/3m6lrhfsblw26)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@financialtimes.com
 
-'This is no life': Security and long-held views shattered in Lebanon amid Israeli strikes
+Reeves to pitch tax-raising Budget to voters on.ft.com/3M0UQ7K
 
-[2025-11-27 15:22:08](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6lq6ab7s62w)
+[2025-11-27 15:42:26](https://bsky.app/profile/financialtimes.com/post/3m6lrcis43k2j)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-中日 ナゴヤ球場老朽化で本拠地移転へ 2030年代前半目指す
-https://news.web.nhk/newsweb/na/na-k10014987971000
+衆院憲法審 幹事懇談会 自民 起草小委員会提案 立民など応じず
+https://news.web.nhk/newsweb/na/na-k10014987951000
 
-[2025-11-27 15:21:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6lq4hvub52b)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-US suspends immigration requests for Afghans after National Guard shooting
-
-[2025-11-27 15:21:03](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6lq4cfv6527)
-
----
-
-@nhknewsunofficial.bsky.social
-
-ガソリン価格 全国平均1リットル168.8円 値下がり続く見通し
-https://news.web.nhk/newsweb/na/na-k10014987981000
-
-[2025-11-27 15:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6lq4czwsj24)
-
----
-
-@wsj.com
-
-The outfits we throw on in the privacy of our living rooms are usually an afterthought, a Frankenstein-monster mishmash of fleece, stretched sweats and seen-better-days oversize tees. 
-
-Here’s a guide to upgrading your at-home looks: on.wsj.com/3LUPElR
-
-[2025-11-27 15:19:47](https://bsky.app/profile/wsj.com/post/3m6lpzyygvl2p)
+[2025-11-27 15:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6lrbtk5x42k)
 
 ---
 
 @reuters.com
 
-US directs diplomats to lobby governments against mass migration, cable says reut.rs/3XkYo77
+China's industrial profits fall in October after two months of strong growth reut.rs/4p5jeDV
 
-[2025-11-27 15:15:14](https://bsky.app/profile/reuters.com/post/3m6lprugk5z2d)
+[2025-11-27 15:40:12](https://bsky.app/profile/reuters.com/post/3m6lr6jp2ah27)
 
 ---
 
-@forbes.com
+@nhknewsunofficial.bsky.social
 
-This is the third lottery prize of 2025 to cross the $700 million mark and also the second biggest Powerball jackpot of the year so far.
+日銀 野口審議委員 “拙速な利上げはリスク 慎重に判断を”
+https://news.web.nhk/newsweb/na/na-k10014988001000
 
-[2025-11-27 15:15:04](https://bsky.app/profile/forbes.com/post/3m6lprl3nf726)
+[2025-11-27 15:36:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6lqx5jqn42j)
+
+---
+
+@reuters.com
+
+India's central bank expected to cut rates to 5.25% on December 5: Reuters poll reut.rs/3JXJDUT
+
+[2025-11-27 15:35:08](https://bsky.app/profile/reuters.com/post/3m6lqvhqj3j22)
 
 ---
 
@@ -112,13 +86,44 @@ This is the third lottery prize of 2025 to cross the $700 million mark and also 
 
 🛎️JNNより【速報】です。
 
-【速報】広島県がインフルエンザ警報発令
-(2025-11-27 15:09:00) #ニュース
+【速報】日経平均 5万円回復して取引終了 27日終値5万167円 アメリカの株高を受け続伸
+(2025-11-27 15:33:46) #ニュース
 
-⬛感染症情報
-🔗https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/infulenza/index.html
+📈世界の株価
+🔗https://sekai-kabuka.com/
 
-[2025-11-27 15:12:49](https://bsky.app/profile/sokuho.news/post/3m6lpnjtqko2y)
+[2025-11-27 15:34:47](https://bsky.app/profile/sokuho.news/post/3m6lqut7llz2w)
+
+---
+
+@nikkei.com
+
+サンリオ、VRのピューロランド新設へ（無料記事）
+www.nikkei.com/article/DGXZQO...
+
+「Virtual Sanrio Puroland（バーチャル・サンリオ・ピューロランド）」を12月11日午後6時に開設します。
+
+各国から24時間365日アクセスでき、スマホやパソコン、VRゴーグルで参加可能。
+
+パレードやアトラクション、キャラクターとのグリーティングなど複数のコンテンツを用意します。
+
+[2025-11-27 15:30:58](https://bsky.app/profile/nikkei.com/post/3m6lqnyv2qa2j)
+
+---
+
+@reuters.com
+
+India's Nifty 50, Sensex hit record highs on rate cut optimism reut.rs/4pciUDq
+
+[2025-11-27 15:30:19](https://bsky.app/profile/reuters.com/post/3m6lqmu2pch27)
+
+---
+
+@aljazeera.com
+
+Order reduces sentences for 3,085 people and drops charges against another 5,580 people still at large.
+
+[2025-11-27 15:30:16](https://bsky.app/profile/aljazeera.com/post/3m6lqmqjphu2a)
 
 ---
 
