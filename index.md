@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Toyota October output grows for fifth straight month on strong US demand reut.rs/4iHVsLT <a href="https://bsky.app/profile/reuters.com/post/3m6lv3offud2k" target="_blank">reuters.com</a> (2025-11-27 16:50:12)</span><span style="padding-right:50px;">CNBC Daily Open: Thanksgiving cheer comes a day early for U.S. markets <a href="https://bsky.app/profile/cnbc.com/post/3m6luuwqrep2s" target="_blank">cnbc.com</a> (2025-11-27 16:46:26)</span><span style="padding-right:50px;">The death toll from a fire that broke out at a residential apartment complex in Hong Kong has risen to 55, authorities say. Firefighters are battling one of Hong Kong’s deadliest modern blazes for a second day, fighting to control the fire that blackened several high-rise towers. <a href="https://bsky.app/profile/apnews.com/post/3m6lutlu5ug2r" target="_blank">apnews.com</a> (2025-11-27 16:45:41)</span><span style="padding-right:50px;">Wilting dollar, upbeat risk tone offer little lift to the rupee reut.rs/3KhOqR5 <a href="https://bsky.app/profile/reuters.com/post/3m6lusrglwe2i" target="_blank">reuters.com</a> (2025-11-27 16:45:13)</span><span style="padding-right:50px;">Europe’s slow and steady approach to AI could be its edge <a href="https://bsky.app/profile/cnbc.com/post/3m6lur3onti2e" target="_blank">cnbc.com</a> (2025-11-27 16:44:17)</span>
+<span style="padding-right:50px;">FBI probes gunman's motive in ambush shooting of Guardsmen near White House reut.rs/3MonPlQ <a href="https://bsky.app/profile/reuters.com/post/3m6lx26wll227" target="_blank">reuters.com</a> (2025-11-27 17:25:09)</span><span style="padding-right:50px;">Ready to toss those mismatched socks from 2001? Reworking your “hibernation” wardrobe will benefit your closet and your mood.   Some pro tips for staying stylish in the months ahead. on.wsj.com/4rsKTAi <a href="https://bsky.app/profile/wsj.com/post/3m6lwtv2bs42o" target="_blank">wsj.com</a> (2025-11-27 17:21:38)</span><span style="padding-right:50px;">Ban on eating dog meat causes division in Jakarta.  Animal rights groups celebrate the ban on trade for consumption of all rabies-transmitting animals, including cats, dogs, bats, monkeys and civets. But some communities say dog meat is an important home remedy for dengue fever u.afp.com/ShPk <a href="https://bsky.app/profile/en.afp.com/post/3m6lwtazwcc2j" target="_blank">en.afp.com</a> (2025-11-27 17:21:17)</span><span style="padding-right:50px;">大分 大規模火災 鉄骨だけの建物など 広範囲に焼け崩れた跡 https://news.web.nhk/newsweb/na/na-k10014987761000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6lwsvfxyj26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-27 17:21:02)</span><span style="padding-right:50px;">Trump said the suspected gunman is an Afghan national who entered the U.S. in September 2021. <a href="https://bsky.app/profile/forbes.com/post/3m6lwr3yipp26" target="_blank">forbes.com</a> (2025-11-27 17:20:04)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50167.10 (🔺298.31 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3138.00 (🔻17.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 156.18 (🔻0.21 : 2025-11-27)</span>
+<span style="padding-right:50px;">NIKKEI: 50167.10 (🔺298.31 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3138.00 (🔻17.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 156.21 (🔻0.19 : 2025-11-27)</span>
   </div>
 </div>
 
@@ -30,86 +30,93 @@
 
 ---
 
-## [2025-11-27 17:10 updated](2025_11_27.md)
+## [2025-11-27 17:30 updated](2025_11_27.md)
 
 @reuters.com
 
-Toyota October output grows for fifth straight month on strong US demand reut.rs/4iHVsLT
+FBI probes gunman's motive in ambush shooting of Guardsmen near White House reut.rs/3MonPlQ
 
-[2025-11-27 16:50:12](https://bsky.app/profile/reuters.com/post/3m6lv3offud2k)
-
----
-
-@cnbc.com
-
-CNBC Daily Open: Thanksgiving cheer comes a day early for U.S. markets
-
-[2025-11-27 16:46:26](https://bsky.app/profile/cnbc.com/post/3m6luuwqrep2s)
+[2025-11-27 17:25:09](https://bsky.app/profile/reuters.com/post/3m6lx26wll227)
 
 ---
 
-@apnews.com
+@wsj.com
 
-The death toll from a fire that broke out at a residential apartment complex in Hong Kong has risen to 55, authorities say. Firefighters are battling one of Hong Kong’s deadliest modern blazes for a second day, fighting to control the fire that blackened several high-rise towers.
+Ready to toss those mismatched socks from 2001? Reworking your “hibernation” wardrobe will benefit your closet and your mood. 
 
-[2025-11-27 16:45:41](https://bsky.app/profile/apnews.com/post/3m6lutlu5ug2r)
+Some pro tips for staying stylish in the months ahead. on.wsj.com/4rsKTAi
 
----
-
-@reuters.com
-
-Wilting dollar, upbeat risk tone offer little lift to the rupee reut.rs/3KhOqR5
-
-[2025-11-27 16:45:13](https://bsky.app/profile/reuters.com/post/3m6lusrglwe2i)
+[2025-11-27 17:21:38](https://bsky.app/profile/wsj.com/post/3m6lwtv2bs42o)
 
 ---
 
-@cnbc.com
+@en.afp.com
 
-Europe’s slow and steady approach to AI could be its edge
+Ban on eating dog meat causes division in Jakarta.
 
-[2025-11-27 16:44:17](https://bsky.app/profile/cnbc.com/post/3m6lur3onti2e)
+Animal rights groups celebrate the ban on trade for consumption of all rabies-transmitting animals, including cats, dogs, bats, monkeys and civets. But some communities say dog meat is an important home remedy for dengue fever
+u.afp.com/ShPk
+
+[2025-11-27 17:21:17](https://bsky.app/profile/en.afp.com/post/3m6lwtazwcc2j)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-元大関 貴景勝の湊川親方 常盤山部屋継承へ 来年初場所後
-https://news.web.nhk/newsweb/na/na-k10014988041000
+大分 大規模火災 鉄骨だけの建物など 広範囲に焼け崩れた跡
+https://news.web.nhk/newsweb/na/na-k10014987761000
 
-[2025-11-27 16:42:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6lun6djdr2p)
+[2025-11-27 17:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6lwsvfxyj26)
 
 ---
 
-@cnn.com
+@forbes.com
 
-The number of people who were killed in Hong Kong’s devastating apartment building fire has risen to at least 55, the city’s fire department said. Follow live updates. https://cnn.it/3Xh0MvL
+Trump said the suspected gunman is an Afghan national who entered the U.S. in September 2021.
 
-[2025-11-27 16:40:42](https://bsky.app/profile/cnn.com/post/3m6lukpdsmb2i)
+[2025-11-27 17:20:04](https://bsky.app/profile/forbes.com/post/3m6lwr3yipp26)
+
+---
+
+@financialtimes.com
+
+JPMorgan to build new Canary Wharf office tower on.ft.com/4ogdaHf
+
+[2025-11-27 17:16:56](https://bsky.app/profile/financialtimes.com/post/3m6lwli5ggz25)
 
 ---
 
 @reuters.com
 
-India's Vodafone Idea unit cuts debt issue size, aims for December completion, sources say reut.rs/4p6bDox
+Volunteers seek lost pets amid Hong Kong deadly inferno wreckage reut.rs/482BkAi
 
-[2025-11-27 16:40:16](https://bsky.app/profile/reuters.com/post/3m6lujw6gug27)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Car nearly hits first responders in Midwest blizzard conditions
-
-[2025-11-27 16:37:41](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6lufcvau62x)
+[2025-11-27 17:15:13](https://bsky.app/profile/reuters.com/post/3m6lwifqb4622)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@cnbc.com
 
-Pope Leo to visit Turkey and Lebanon in first foreign trip of his papacy
+Chinese firms rush to pledge millions in fire rescue as Hong Kong fire death toll climbs to 55
 
-[2025-11-27 16:36:34](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6luddnmvp2q)
+[2025-11-27 17:14:30](https://bsky.app/profile/cnbc.com/post/3m6lwh4otfc2i)
+
+---
+
+@reuters.com
+
+LIVE: New crew launches to ISS from Baikonur, Kazakhstan youtube.com/live/QHpNigS...
+
+[2025-11-27 17:13:56](https://bsky.app/profile/reuters.com/post/3m6lwg4bjw226)
+
+---
+
+@en.afp.com
+
+Australia shark bite incidents 2000 - 2025.
+
+AFP Infographic on shark bite incidents around Australia from 2000 to 2025, according to data on the Australian Shark Incident Database, a new fatal incident on November 27 is also located on the map
+
+[2025-11-27 17:13:05](https://bsky.app/profile/en.afp.com/post/3m6lwelk4zg2m)
 
 ---
 
