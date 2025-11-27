@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】日経平均 一時500円以上値上がり 節目の5万円回復 米株高受け続伸 (2025-11-27 09:07:27) #ニュース  📈世界の株価 🔗https://sekai-kabuka.com/ <a href="https://bsky.app/profile/sokuho.news/post/3m6l3c2nl5r2w" target="_blank">sokuho.news</a> (2025-11-27 09:08:29)</span><span style="padding-right:50px;">西～北日本 あすにかけ局地的に雨雲発達のおそれ 黄砂にも注意 https://news.web.nhk/newsweb/na/na-k10014987661000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6l35r2n7z26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-27 09:06:02)</span><span style="padding-right:50px;">【米国市況】株続伸、エヌビディアなどテク主導－利下げ期待が支えに <a href="https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6l34anwom2n" target="_blank">bloomberg-jp.bsky.social</a> (2025-11-27 09:05:14)</span><span style="padding-right:50px;">南アを来年G20に招待せず、トランプ氏表明－関係悪化が深刻化 <a href="https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6l34453yw2w" target="_blank">bloomberg-jp.bsky.social</a> (2025-11-27 09:05:09)</span><span style="padding-right:50px;">FCC says hackers hijack US radio gear to send fake alerts, obscenities reut.rs/48kbF54 <a href="https://bsky.app/profile/reuters.com/post/3m6l3447ze22a" target="_blank">reuters.com</a> (2025-11-27 09:05:09)</span>
+<span style="padding-right:50px;">The suspect in the National Guard shooting in D.C. has been identified as Rahmanullah Lakanwal, a 29-year-old Afghan national who entered the U.S. in 2021, multiple law enforcement sources confirmed to CBS News. cbsn.ws/4puxtld <a href="https://bsky.app/profile/cbsnews.com/post/3m6l4hfhh5m2r" target="_blank">cbsnews.com</a> (2025-11-27 09:29:21)</span><span style="padding-right:50px;">US economic activity little changed ahead of next Fed meeting, report shows reut.rs/43VEAed <a href="https://bsky.app/profile/reuters.com/post/3m6l47x7vwo2d" target="_blank">reuters.com</a> (2025-11-27 09:25:12)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:熊本県阿蘇地方, 深さ:ごく浅い マグニチュード:2.4, 最大震度:1 📍https://www.google.com/maps?q=33.0,131.1&ll=33.0,131.1&z=7&t=h 地震発生日時:2025-11-27 09:21頃 (10倍速▶90s→9s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m6l46sr3kf24" target="_blank">sokuho.news</a> (2025-11-27 09:24:34)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  9時21分頃、熊本県で最大震度1の地震を観測しました。 震源:熊本県阿蘇地方, 深さ:ごく浅い, 規模:M2.4 この地震による津波の心配はありません。 (2025-11-27 09:24:11) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/11/27/2025-11-27-09-21-09.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3m6l467bvp72m" target="_blank">sokuho.news</a> (2025-11-27 09:24:13)</span><span style="padding-right:50px;">香港高層住宅火災 44人死亡確認 200人以上連絡が取れず https://news.web.nhk/newsweb/na/na-k10014987551000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6l45wne6w2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-27 09:24:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49559.07 (🔺546.82 : 2025-11-26)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3141.00 (🔺12.00 : 2025-11-26)</span><span style="padding-right:50px;">USD/JPY: 156.11 (🔻0.29 : 2025-11-27)</span>
+<span style="padding-right:50px;">NIKKEI: 50135.77 (🔺266.98 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3149.00 (🔻6.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 156.06 (🔻0.34 : 2025-11-27)</span>
   </div>
 </div>
 
@@ -30,92 +30,101 @@
 
 ---
 
-## [2025-11-27 09:10 updated](2025_11_27.md)
+## [2025-11-27 09:30 updated](2025_11_27.md)
 
-@sokuho.news
+@cbsnews.com
 
-🛎️JNNより【速報】です。
+The suspect in the National Guard shooting in D.C. has been identified as Rahmanullah Lakanwal, a 29-year-old Afghan national who entered the U.S. in 2021, multiple law enforcement sources confirmed to CBS News. cbsn.ws/4puxtld
 
-【速報】日経平均 一時500円以上値上がり 節目の5万円回復 米株高受け続伸
-(2025-11-27 09:07:27) #ニュース
-
-📈世界の株価
-🔗https://sekai-kabuka.com/
-
-[2025-11-27 09:08:29](https://bsky.app/profile/sokuho.news/post/3m6l3c2nl5r2w)
-
----
-
-@nhknewsunofficial.bsky.social
-
-西～北日本 あすにかけ局地的に雨雲発達のおそれ 黄砂にも注意
-https://news.web.nhk/newsweb/na/na-k10014987661000
-
-[2025-11-27 09:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6l35r2n7z26)
-
----
-
-@bloomberg-jp.bsky.social
-
-【米国市況】株続伸、エヌビディアなどテク主導－利下げ期待が支えに
-
-[2025-11-27 09:05:14](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6l34anwom2n)
-
----
-
-@bloomberg-jp.bsky.social
-
-南アを来年G20に招待せず、トランプ氏表明－関係悪化が深刻化
-
-[2025-11-27 09:05:09](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6l34453yw2w)
+[2025-11-27 09:29:21](https://bsky.app/profile/cbsnews.com/post/3m6l4hfhh5m2r)
 
 ---
 
 @reuters.com
 
-FCC says hackers hijack US radio gear to send fake alerts, obscenities reut.rs/48kbF54
+US economic activity little changed ahead of next Fed meeting, report shows reut.rs/43VEAed
 
-[2025-11-27 09:05:09](https://bsky.app/profile/reuters.com/post/3m6l3447ze22a)
-
----
-
-@bloomberg-jp.bsky.social
-
-【今朝の5本】仕事を始める前に読んでおきたい厳選ニュース
-
-[2025-11-27 09:05:01](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6l33ui7ve26)
+[2025-11-27 09:25:12](https://bsky.app/profile/reuters.com/post/3m6l47x7vwo2d)
 
 ---
 
-@bloomberg-jp.bsky.social
+@sokuho.news
 
-HUMAN MADE上場は日本ファッション史の転換点、サブカルから世界へ
+🔔防災科研より【強震モニタ】動画です。
 
-[2025-11-27 09:04:56](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6l33pvy372j)
+震源:熊本県阿蘇地方, 深さ:ごく浅い
+マグニチュード:2.4, 最大震度:1
+📍https://www.google.com/maps?q=33.0,131.1&ll=33.0,131.1&z=7&t=h
+地震発生日時:2025-11-27 09:21頃
+(10倍速▶90s→9s) #地震
 
----
-
-@bloomberg-jp.bsky.social
-
-債券は上昇へ、夜間取引の先物堅調－野口日銀委員の発言は警戒
-
-[2025-11-27 09:04:51](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6l33lflcj2v)
+[2025-11-27 09:24:34](https://bsky.app/profile/sokuho.news/post/3m6l46sr3kf24)
 
 ---
 
-@bloomberg-jp.bsky.social
+@sokuho.news
 
-円は対ドル156円半ば、円安基調続く－野口日銀委員の講演トーン注目
+🔔気象庁より【地震速報】です。
 
-[2025-11-27 09:04:47](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6l33hcsfx2j)
+9時21分頃、熊本県で最大震度1の地震を観測しました。
+震源:熊本県阿蘇地方, 深さ:ごく浅い, 規模:M2.4
+この地震による津波の心配はありません。
+(2025-11-27 09:24:11) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/11/27/2025-11-27-09-21-09.html?xlarge_image=1
+
+[2025-11-27 09:24:13](https://bsky.app/profile/sokuho.news/post/3m6l467bvp72m)
 
 ---
 
-@cnbc.com
+@nhknewsunofficial.bsky.social
 
-Asia-Pacific markets set to open mixed after Wall Street gains as tech extends rebound
+香港高層住宅火災 44人死亡確認 200人以上連絡が取れず
+https://news.web.nhk/newsweb/na/na-k10014987551000
 
-[2025-11-27 09:02:47](https://bsky.app/profile/cnbc.com/post/3m6l2xuh57j2a)
+[2025-11-27 09:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6l45wne6w2j)
+
+---
+
+@financialtimes.com
+
+ Japan needs to end its dangerous debt delusion on.ft.com/4rnpOa5  | opinion
+
+[2025-11-27 09:19:52](https://bsky.app/profile/financialtimes.com/post/3m6l3wfxpco25)
+
+---
+
+@reuters.com
+
+SEC must not let crypto companies 'bypass' rules, stock exchanges say reut.rs/48AIlZ7
+
+[2025-11-27 09:15:20](https://bsky.app/profile/reuters.com/post/3m6l3od6arx2k)
+
+---
+
+@usatoday.com
+
+The Campbell's Co. says it has fired an executive who called the company’s products “highly” processed food for “poor people.”
+
+Read more: bit.ly/4pwO7AC
+
+[2025-11-27 09:15:09](https://bsky.app/profile/usatoday.com/post/3m6l3nyklmm2p)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+米 首都ワシントンで州兵2人撃たれる 容疑者1人拘束 捜査当局
+https://news.web.nhk/newsweb/na/na-k10014987641000
+
+[2025-11-27 09:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6l3nueyn22b)
+
+---
+
+@cbsnews.com
+
+The suspect in the National Guard shooting in D.C. has been identified as Rahmanullah Lakanwal, a 29-year-old Afghan national who entered in 2021, multiple law enforcement sources confirmed to CBS News. cbsn.ws/4puxtld
+
+[2025-11-27 09:13:13](https://bsky.app/profile/cbsnews.com/post/3m6l3kjenqz2p)
 
 ---
 
