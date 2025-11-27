@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">ヤマト運輸、一部地域で配送遅れ　ブラックフライデーで（無料記事） www.nikkei.com/article/DGXZQO...  荷物の配送遅れは佐川急便でも。  年末商戦による一時的な荷物増加や、高速道路の工事による交通規制が影響しているといいます。  到着日時を指定していても遅延する場合があります。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m6lo7el2au2w" target="_blank">nikkei.com</a> (2025-11-27 14:47:00)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】福井県にインフルエンザ警報 1医療機関当たり43.79人 前週の1.5倍に (2025-11-27 14:40) #ニュース  ⬛感染症情報 🔗https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/infulenza/index.html <a href="https://bsky.app/profile/sokuho.news/post/3m6lo54w5yw22" target="_blank">sokuho.news</a> (2025-11-27 14:45:44)</span><span style="padding-right:50px;">Mexico investigates Miss Universe president for drugs, arms trafficking reut.rs/3XX2en2 <a href="https://bsky.app/profile/reuters.com/post/3m6lntabstc2i" target="_blank">reuters.com</a> (2025-11-27 14:40:12)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】県内にインフルエンザ警報を発令 過去最速 (2025-11-27 14:39) #ニュース  ⬛感染症情報 🔗https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/infulenza/index.html <a href="https://bsky.app/profile/sokuho.news/post/3m6lnrugfee2q" target="_blank">sokuho.news</a> (2025-11-27 14:39:26)</span><span style="padding-right:50px;">小泉防衛相 韓国駐日大使と会談へ 韓国軍のイベント不参加受け https://news.web.nhk/newsweb/na/na-k10014987941000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6lnltzybn2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-27 14:36:03)</span>
+<span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】38歳男性が顔を殴られるなど暴行受け重傷を負い現金奪われる 19歳の男逮捕 大阪・都島区 (2025-11-27 14:40) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6lpan3m342p" target="_blank">sokuho.news</a> (2025-11-27 15:05:36)</span><span style="padding-right:50px;">Slot admits to bleak mood as Liverpool's slump deepens with 4-1 defeat to PSV reut.rs/3M1gDMw <a href="https://bsky.app/profile/reuters.com/post/3m6lp7us2bk2n" target="_blank">reuters.com</a> (2025-11-27 15:05:10)</span><span style="padding-right:50px;">中国の安踏体育、プーマ買収検討と関係者－アシックスも関心の可能性 <a href="https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6lp4ird542n" target="_blank">bloomberg-jp.bsky.social</a> (2025-11-27 15:03:17)</span><span style="padding-right:50px;">ロンドン証取の低迷深刻、企業や国民に投資呼びかけ－QuickTake <a href="https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6lp4ecpro2v" target="_blank">bloomberg-jp.bsky.social</a> (2025-11-27 15:03:12)</span><span style="padding-right:50px;">トヨタ、10月グループ世界販売は3％増の100万3631台－同月で過去最高 <a href="https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6lp47rhz426" target="_blank">bloomberg-jp.bsky.social</a> (2025-11-27 15:03:08)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50209.95 (🔺341.16 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3139.00 (🔻16.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 155.93 (🔻0.47 : 2025-11-27)</span>
+<span style="padding-right:50px;">NIKKEI: 50169.92 (🔺301.13 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3131.00 (🔻24.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 155.98 (🔻0.42 : 2025-11-27)</span>
   </div>
 </div>
 
@@ -30,114 +30,88 @@
 
 ---
 
-## [2025-11-27 14:50 updated](2025_11_27.md)
-
-@nikkei.com
-
-ヤマト運輸、一部地域で配送遅れ　ブラックフライデーで（無料記事）
-www.nikkei.com/article/DGXZQO...
-
-荷物の配送遅れは佐川急便でも。
-
-年末商戦による一時的な荷物増加や、高速道路の工事による交通規制が影響しているといいます。
-
-到着日時を指定していても遅延する場合があります。
-
-#ニュース
-
-[2025-11-27 14:47:00](https://bsky.app/profile/nikkei.com/post/3m6lo7el2au2w)
-
----
+## [2025-11-27 15:10 updated](2025_11_27.md)
 
 @sokuho.news
 
 🛎️FNNより【速報】です。
 
-【速報】福井県にインフルエンザ警報 1医療機関当たり43.79人 前週の1.5倍に
+【速報】38歳男性が顔を殴られるなど暴行受け重傷を負い現金奪われる 19歳の男逮捕 大阪・都島区
 (2025-11-27 14:40) #ニュース
 
-⬛感染症情報
-🔗https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/infulenza/index.html
-
-[2025-11-27 14:45:44](https://bsky.app/profile/sokuho.news/post/3m6lo54w5yw22)
+[2025-11-27 15:05:36](https://bsky.app/profile/sokuho.news/post/3m6lpan3m342p)
 
 ---
 
 @reuters.com
 
-Mexico investigates Miss Universe president for drugs, arms trafficking reut.rs/3XX2en2
+Slot admits to bleak mood as Liverpool's slump deepens with 4-1 defeat to PSV reut.rs/3M1gDMw
 
-[2025-11-27 14:40:12](https://bsky.app/profile/reuters.com/post/3m6lntabstc2i)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】県内にインフルエンザ警報を発令 過去最速
-(2025-11-27 14:39) #ニュース
-
-⬛感染症情報
-🔗https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/infulenza/index.html
-
-[2025-11-27 14:39:26](https://bsky.app/profile/sokuho.news/post/3m6lnrugfee2q)
+[2025-11-27 15:05:10](https://bsky.app/profile/reuters.com/post/3m6lp7us2bk2n)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@bloomberg-jp.bsky.social
 
-小泉防衛相 韓国駐日大使と会談へ 韓国軍のイベント不参加受け
-https://news.web.nhk/newsweb/na/na-k10014987941000
+中国の安踏体育、プーマ買収検討と関係者－アシックスも関心の可能性
 
-[2025-11-27 14:36:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6lnltzybn2j)
-
----
-
-@financialtimes.com
-
- Santa Claus is still a woman on.ft.com/4oocnEr  | opinion
-
-[2025-11-27 14:33:26](https://bsky.app/profile/financialtimes.com/post/3m6lnh4opwo2n)
+[2025-11-27 15:03:17](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6lp4ird542n)
 
 ---
 
-@financialtimes.com
+@bloomberg-jp.bsky.social
 
- How GLP-1s changed Thanksgiving on.ft.com/3M13aEu  | opinion
+ロンドン証取の低迷深刻、企業や国民に投資呼びかけ－QuickTake
 
-[2025-11-27 14:33:26](https://bsky.app/profile/financialtimes.com/post/3m6lnh54ccy26)
-
----
-
-@nhknewsunofficial.bsky.social
-
-ICAO 理事会議長に大沼俊之氏 日本人の選出は初
-https://news.web.nhk/newsweb/na/na-k10014987921000
-
-[2025-11-27 14:33:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6lngjfcvu2j)
+[2025-11-27 15:03:12](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6lp4ecpro2v)
 
 ---
 
-@nikkei.com
+@bloomberg-jp.bsky.social
 
-【SNSで魅力発信が条件】
-徳島県、大阪からのバス片道無料に（無料記事）
-www.nikkei.com/article/DGXZQO...
+トヨタ、10月グループ世界販売は3％増の100万3631台－同月で過去最高
 
-利用には予約サイトから先着順による申し込みが必要。
-
-旅行から1週間以内に少なくとも一度はおすすめスポットなど徳島の魅力を伝える投稿をするよう求めます。
-
-[2025-11-27 14:31:00](https://bsky.app/profile/nikkei.com/post/3m6lncr3kap2k)
+[2025-11-27 15:03:08](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6lp47rhz426)
 
 ---
 
-@aljazeera.com
+@bloomberg-jp.bsky.social
 
-Firefighters struggle to reach residents potentially trapped on upper floors of burning housing complex.
+大和証G社長､可能性否定せずも議論の段階でない－あおぞら銀出資上げ
 
-[2025-11-27 14:30:27](https://bsky.app/profile/aljazeera.com/post/3m6lnbrn76z2f)
+[2025-11-27 15:03:03](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6lp43ubi62v)
+
+---
+
+@bloomberg-jp.bsky.social
+
+JPモルガン、米利下げ見通し転換－12月実施予想、従来は1月見込む
+
+[2025-11-27 15:02:59](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6lp3xujtc24)
+
+---
+
+@bloomberg-jp.bsky.social
+
+25年度補正予算案は総額18.3兆円、コロナ禍以降で最大規模－資料
+
+[2025-11-27 15:02:55](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6lp3tsrao2v)
+
+---
+
+@bloomberg-jp.bsky.social
+
+ゴールドマン、米NJ州の住宅開発プロジェクトに2億ドル超拠出へ
+
+[2025-11-27 15:02:50](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6lp3pcxeu26)
+
+---
+
+@bloomberg-jp.bsky.social
+
+リーブス英財務相の秋季予算案、課題先送り－成長のための施策乏しく
+
+[2025-11-27 15:02:46](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6lp3ktems2j)
 
 ---
 
