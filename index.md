@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">クマだけじゃない脅威　「害」決めるのは誰か、小学生に問う命の重み www.nikkei.com/article/DGXZQO...  野生動物を殺すべきかと都会の子どもに聞くと、全員が「NO」と答えます。  生き物に対する捉え方が違う。クマに対しても同じです。  いや応なく同じ場所に住む者と、外から観戦している者の違いです。  都市部も含めて年間3000人の子どもに「命の授業」を行う猟師の原田祐介さん（52）。「正解はない」と言いつつ、問い続けています。 <a href="https://bsky.app/profile/nikkei.com/post/3m6nh7cknvy2t" target="_blank">nikkei.com</a> (2025-11-28 07:47:01)</span><span style="padding-right:50px;">60歳以降の5年間で大きな差　キャッシュフローで考える「働き方」 www.nikkei.com/article/DGXZQO...  豊かな老後を迎えるには60歳以降も働いて貯蓄を増やす、または減るペースを抑えるのが確かな方法です。  60歳でリタイアした場合と、60歳以降も年収150万円で5年間働いて65歳でリタイアした場合を比較しました。  貯蓄はそれぞれ、いつまでもつのでしょうか。 <a href="https://bsky.app/profile/nikkei.com/post/3m6nh7agzoc2i" target="_blank">nikkei.com</a> (2025-11-28 07:46:59)</span><span style="padding-right:50px;">Kenyan farmers secure right to share local seeds in court ruling reut.rs/3XlWO4V <a href="https://bsky.app/profile/reuters.com/post/3m6nh44lrro27" target="_blank">reuters.com</a> (2025-11-28 07:45:14)</span><span style="padding-right:50px;">Photos from a witness show the attack on two National Guard troops in Washington, D.C. <a href="https://bsky.app/profile/wsj.com/post/3m6ngzphmbe22" target="_blank">wsj.com</a> (2025-11-28 07:43:53)</span><span style="padding-right:50px;">President Trump has ordered a review of every Green Card holder from "every country of concern," U.S. Citizenship and Immigration Services Director Joseph Edlow said today. <a href="https://bsky.app/profile/axios.com/post/3m6ngw7ecls2u" target="_blank">axios.com</a> (2025-11-28 07:41:55)</span>
+<span style="padding-right:50px;">Firefighters battled a blaze at a Hong Kong high-rise apartment complex for the second day on Thursday, as the death toll rose to 94 in one of the deadliest blazes in the city’s modern history. <a href="https://bsky.app/profile/apnews.com/post/3m6nidsodl62j" target="_blank">apnews.com</a> (2025-11-28 08:07:26)</span><span style="padding-right:50px;">Military-related sectors behind Russia's industrial output spike reut.rs/4854Mpj <a href="https://bsky.app/profile/reuters.com/post/3m6ni7ruz242o" target="_blank">reuters.com</a> (2025-11-28 08:05:10)</span><span style="padding-right:50px;">After undergoing surgery, both US Army Specialist Sarah Beckstrom, 20, and US Air Force Staff Sgt. Andrew Wolfe, 24, remain in critical condition, with federal and local authorities, their West Virginia neighbors and their loved ones calling for prayers. https://cnn.it/4pE5Nuw <a href="https://bsky.app/profile/cnn.com/post/3m6nhyfzqcy23" target="_blank">cnn.com</a> (2025-11-28 08:01:03)</span><span style="padding-right:50px;">Brazil creates fewer formal jobs than expected in October reut.rs/3M2dD2s <a href="https://bsky.app/profile/reuters.com/post/3m6nhy4nl4z2i" target="_blank">reuters.com</a> (2025-11-28 08:00:53)</span><span style="padding-right:50px;">Psychologists say taking the time to thank ourselves for the qualities that carried us through life can be healthy and important, even if doing it feels awkward. <a href="https://bsky.app/profile/apnews.com/post/3m6nhxik6uo2r" target="_blank">apnews.com</a> (2025-11-28 08:00:32)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50167.10 (🔺298.31 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3138.00 (🔻17.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 156.27 (🔻0.13 : 2025-11-27)</span>
+<span style="padding-right:50px;">NIKKEI: 50167.10 (🔺298.31 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3138.00 (🔻17.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 156.27 (🔺0.00 : 2025-11-27)</span>
   </div>
 </div>
 
@@ -30,108 +30,87 @@
 
 ---
 
-## [2025-11-28 07:50 updated](2025_11_28.md)
+## [2025-11-28 08:10 updated](2025_11_28.md)
 
-@nikkei.com
+@apnews.com
 
-クマだけじゃない脅威　「害」決めるのは誰か、小学生に問う命の重み
-www.nikkei.com/article/DGXZQO...
+Firefighters battled a blaze at a Hong Kong high-rise apartment complex for the second day on Thursday, as the death toll rose to 94 in one of the deadliest blazes in the city’s modern history.
 
-野生動物を殺すべきかと都会の子どもに聞くと、全員が「NO」と答えます。
-
-生き物に対する捉え方が違う。クマに対しても同じです。
-
-いや応なく同じ場所に住む者と、外から観戦している者の違いです。
-
-都市部も含めて年間3000人の子どもに「命の授業」を行う猟師の原田祐介さん（52）。「正解はない」と言いつつ、問い続けています。
-
-[2025-11-28 07:47:01](https://bsky.app/profile/nikkei.com/post/3m6nh7cknvy2t)
-
----
-
-@nikkei.com
-
-60歳以降の5年間で大きな差　キャッシュフローで考える「働き方」
-www.nikkei.com/article/DGXZQO...
-
-豊かな老後を迎えるには60歳以降も働いて貯蓄を増やす、または減るペースを抑えるのが確かな方法です。
-
-60歳でリタイアした場合と、60歳以降も年収150万円で5年間働いて65歳でリタイアした場合を比較しました。
-
-貯蓄はそれぞれ、いつまでもつのでしょうか。
-
-[2025-11-28 07:46:59](https://bsky.app/profile/nikkei.com/post/3m6nh7agzoc2i)
+[2025-11-28 08:07:26](https://bsky.app/profile/apnews.com/post/3m6nidsodl62j)
 
 ---
 
 @reuters.com
 
-Kenyan farmers secure right to share local seeds in court ruling reut.rs/3XlWO4V
+Military-related sectors behind Russia's industrial output spike reut.rs/4854Mpj
 
-[2025-11-28 07:45:14](https://bsky.app/profile/reuters.com/post/3m6nh44lrro27)
-
----
-
-@wsj.com
-
-Photos from a witness show the attack on two National Guard troops in Washington, D.C.
-
-[2025-11-28 07:43:53](https://bsky.app/profile/wsj.com/post/3m6ngzphmbe22)
+[2025-11-28 08:05:10](https://bsky.app/profile/reuters.com/post/3m6ni7ruz242o)
 
 ---
 
-@axios.com
+@cnn.com
 
-President Trump has ordered a review of every Green Card holder from "every country of concern," U.S. Citizenship and Immigration Services Director Joseph Edlow said today.
+After undergoing surgery, both US Army Specialist Sarah Beckstrom, 20, and US Air Force Staff Sgt. Andrew Wolfe, 24, remain in critical condition, with federal and local authorities, their West Virginia neighbors and their loved ones calling for prayers. https://cnn.it/4pE5Nuw
 
-[2025-11-28 07:41:55](https://bsky.app/profile/axios.com/post/3m6ngw7ecls2u)
+[2025-11-28 08:01:03](https://bsky.app/profile/cnn.com/post/3m6nhyfzqcy23)
 
 ---
 
 @reuters.com
 
-Genome study reveals milestone in history of cat domestication reut.rs/3XlVnU4
+Brazil creates fewer formal jobs than expected in October reut.rs/3M2dD2s
 
-[2025-11-28 07:40:17](https://bsky.app/profile/reuters.com/post/3m6ngtbmyad2n)
-
----
-
-@reuters.com
-
-Peruvian court sentences former President Castillo to over  11 years in prison for rebellion reut.rs/4pAgjmm
-
-[2025-11-28 07:35:09](https://bsky.app/profile/reuters.com/post/3m6ngk3uuxq2i)
+[2025-11-28 08:00:53](https://bsky.app/profile/reuters.com/post/3m6nhy4nl4z2i)
 
 ---
 
-@financialtimes.com
+@apnews.com
 
-Opinion: There is nothing that China wants to import, nothing it does not believe it can make better and cheaper, nothing for which it wants to rely on foreigners a single day longer than it has to. on.ft.com/4irbwkS
+Psychologists say taking the time to thank ourselves for the qualities that carried us through life can be healthy and important, even if doing it feels awkward.
 
-[2025-11-28 07:34:06](https://bsky.app/profile/financialtimes.com/post/3m6ngi7zxvp25)
-
----
-
-@wsj.com
-
-Their home had one drawback: 8-foot ceilings that fell short of “grand.” Here’s how designer Heidi Caillier gave the interiors a boost—without hiring a wrecking crew.
-
-[2025-11-28 07:31:21](https://bsky.app/profile/wsj.com/post/3m6ngdcd43n2p)
+[2025-11-28 08:00:32](https://bsky.app/profile/apnews.com/post/3m6nhxik6uo2r)
 
 ---
 
-@nikkei.com
+@cnbc.com
 
-生命保険「支部長不人気」跳ね返せ　若手の野心くすぐる実力評価主義
-www.nikkei.com/article/DGXZQO...
+Couples counselor Baya Voce says that this green flag is a sure sign of relationship success, but it can be "hard to spot early on." 
 
-住友生命保険で働く山崎誠彦さん（30）は、10月に始まった「リーダーシップアカデミー」と呼ばれる研修に応募しました。
+[2025-11-28 08:00:25](https://bsky.app/profile/cnbc.com/post/3m6nhxb3a3z2e)
 
-支部長は全国に展開する営業拠点に派遣され、保険販売を担う営業職員を束ねる役割。
+---
 
-「支部長にはなりたくない」という総合職が増えてしまったという危機感から、住友生命が導入に動きました。
+@usatoday.com
 
-[2025-11-28 07:30:59](https://bsky.app/profile/nikkei.com/post/3m6ngcnkvui22)
+Operation Allies Welcome was framed as a way to help allies who assisted the U.S., but critics have scrutinized the vetting process for years.
+
+[2025-11-28 08:00:19](https://bsky.app/profile/usatoday.com/post/3m6nhx42cdw2d)
+
+---
+
+@bloomberg.com
+
+Australia’s upper house of parliament has passed a landmark bill to overhaul the nation’s environmental laws
+
+[2025-11-28 08:00:16](https://bsky.app/profile/bloomberg.com/post/3m6nhwzdjod2y)
+
+---
+
+@nbcnews.com
+
+In the latest twist in human evolution, scientists have discovered that a mysterious foot found in Ethiopia belonged to a previously unknown ancient relative.
+
+[2025-11-28 08:00:11](https://bsky.app/profile/nbcnews.com/post/3m6nhwuadp322)
+
+---
+
+@nytimes.com
+
+In @nytopinion.nytimes.com
+
+“The country should unequivocally honor their sacrifice and grieve for their loved ones,” the editorial board writes of the two National Guard members who were shot in Washington. “We also should also not lose sight of the uniquely American nature of the tragedy.”
+
+[2025-11-28 08:00:03](https://bsky.app/profile/nytimes.com/post/3m6nhwmkkek2g)
 
 ---
 
