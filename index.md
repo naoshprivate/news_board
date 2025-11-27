@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">CNBC Daily Open: Thanksgiving cheer comes a day early for U.S. markets <a href="https://bsky.app/profile/cnbc.com/post/3m6luuwqrep2s" target="_blank">cnbc.com</a> (2025-11-27 16:46:26)</span><span style="padding-right:50px;">The death toll from a fire that broke out at a residential apartment complex in Hong Kong has risen to 55, authorities say. Firefighters are battling one of Hong Kong’s deadliest modern blazes for a second day, fighting to control the fire that blackened several high-rise towers. <a href="https://bsky.app/profile/apnews.com/post/3m6lutlu5ug2r" target="_blank">apnews.com</a> (2025-11-27 16:45:41)</span><span style="padding-right:50px;">Wilting dollar, upbeat risk tone offer little lift to the rupee reut.rs/3KhOqR5 <a href="https://bsky.app/profile/reuters.com/post/3m6lusrglwe2i" target="_blank">reuters.com</a> (2025-11-27 16:45:13)</span><span style="padding-right:50px;">Europe’s slow and steady approach to AI could be its edge <a href="https://bsky.app/profile/cnbc.com/post/3m6lur3onti2e" target="_blank">cnbc.com</a> (2025-11-27 16:44:17)</span><span style="padding-right:50px;">元大関 貴景勝の湊川親方 常盤山部屋継承へ 来年初場所後 https://news.web.nhk/newsweb/na/na-k10014988041000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6lun6djdr2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-27 16:42:03)</span>
+<span style="padding-right:50px;">Toyota October output grows for fifth straight month on strong US demand reut.rs/4iHVsLT <a href="https://bsky.app/profile/reuters.com/post/3m6lv3offud2k" target="_blank">reuters.com</a> (2025-11-27 16:50:12)</span><span style="padding-right:50px;">CNBC Daily Open: Thanksgiving cheer comes a day early for U.S. markets <a href="https://bsky.app/profile/cnbc.com/post/3m6luuwqrep2s" target="_blank">cnbc.com</a> (2025-11-27 16:46:26)</span><span style="padding-right:50px;">The death toll from a fire that broke out at a residential apartment complex in Hong Kong has risen to 55, authorities say. Firefighters are battling one of Hong Kong’s deadliest modern blazes for a second day, fighting to control the fire that blackened several high-rise towers. <a href="https://bsky.app/profile/apnews.com/post/3m6lutlu5ug2r" target="_blank">apnews.com</a> (2025-11-27 16:45:41)</span><span style="padding-right:50px;">Wilting dollar, upbeat risk tone offer little lift to the rupee reut.rs/3KhOqR5 <a href="https://bsky.app/profile/reuters.com/post/3m6lusrglwe2i" target="_blank">reuters.com</a> (2025-11-27 16:45:13)</span><span style="padding-right:50px;">Europe’s slow and steady approach to AI could be its edge <a href="https://bsky.app/profile/cnbc.com/post/3m6lur3onti2e" target="_blank">cnbc.com</a> (2025-11-27 16:44:17)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50167.10 (🔺298.31 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3138.00 (🔻17.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 156.24 (🔻0.15 : 2025-11-27)</span>
+<span style="padding-right:50px;">NIKKEI: 50167.10 (🔺298.31 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3138.00 (🔻17.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 156.18 (🔻0.21 : 2025-11-27)</span>
   </div>
 </div>
 
@@ -30,7 +30,15 @@
 
 ---
 
-## [2025-11-27 16:50 updated](2025_11_27.md)
+## [2025-11-27 17:10 updated](2025_11_27.md)
+
+@reuters.com
+
+Toyota October output grows for fifth straight month on strong US demand reut.rs/4iHVsLT
+
+[2025-11-27 16:50:12](https://bsky.app/profile/reuters.com/post/3m6lv3offud2k)
+
+---
 
 @cnbc.com
 
@@ -102,15 +110,6 @@ Car nearly hits first responders in Midwest blizzard conditions
 Pope Leo to visit Turkey and Lebanon in first foreign trip of his papacy
 
 [2025-11-27 16:36:34](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6luddnmvp2q)
-
----
-
-@nhknewsunofficial.bsky.social
-
-米 ChatGPT影響訴えた16歳自殺訴訟 会社側 “AI原因ではない”
-https://news.web.nhk/newsweb/na/na-k10014988031000
-
-[2025-11-27 16:36:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6lucgpfj62k)
 
 ---
 
