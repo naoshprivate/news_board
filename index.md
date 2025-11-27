@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">【動画】Pickup NEWS（11月28日） https://news.web.nhk/newsweb/na/na-k10014988311000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ndvv7lfo24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-28 06:48:01)</span><span style="padding-right:50px;">大豆相場、1年半ぶり高値圏　中国がアメリカ産の購入再開で www.nikkei.com/article/DGXZQO...  国際指標となるシカゴ商品取引所の大豆先物価格は11月26日の終値が11.3ドル台。  米中首脳会談での合意前の10ドル台から1割前後切り上がっています。  一方で「合意した購入規模はもともとの取引水準に戻ったに過ぎない」と、上値追いには慎重な見方が少なくありません。 <a href="https://bsky.app/profile/nikkei.com/post/3m6ndtxa4jv2m" target="_blank">nikkei.com</a> (2025-11-28 06:46:59)</span><span style="padding-right:50px;">Bank of England's Greene says budget energy measures may help lower price expectations reut.rs/3XnNk9n <a href="https://bsky.app/profile/reuters.com/post/3m6ndqsze7m22" target="_blank">reuters.com</a> (2025-11-28 06:45:13)</span><span style="padding-right:50px;">Hegseth visits USS Gerald R. Ford aircraft carrier in Latin America region reut.rs/4rnYV5Z <a href="https://bsky.app/profile/reuters.com/post/3m6ndi2noq32r" target="_blank">reuters.com</a> (2025-11-28 06:40:19)</span><span style="padding-right:50px;">In @nytopinion.nytimes.com  In America, at least 47 million people are living with hunger. These are some of their stories. <a href="https://bsky.app/profile/nytimes.com/post/3m6ndhjwld72l" target="_blank">nytimes.com</a> (2025-11-28 06:40:02)</span>
+<span style="padding-right:50px;">UK waters down unfair dismissal plan after business pushback reut.rs/3KudF2B <a href="https://bsky.app/profile/reuters.com/post/3m6neuig5cd27" target="_blank">reuters.com</a> (2025-11-28 07:05:10)</span><span style="padding-right:50px;">Wanda Dench and Jamal Hinton met at the intersection of a wrong number and a bold invitation. A decade later, they’re still celebrating Thanksgiving together and their unlikely friendship continues to inspire. <a href="https://bsky.app/profile/cnn.com/post/3m6neqndwas2q" target="_blank">cnn.com</a> (2025-11-28 07:03:01)</span><span style="padding-right:50px;">香港高層マンション火災、改修工事の安全基準に疑義－死者83人に <a href="https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6neqld54v2j" target="_blank">bloomberg-jp.bsky.social</a> (2025-11-28 07:02:59)</span><span style="padding-right:50px;">【今朝の5本】仕事を始める前に読んでおきたい厳選ニュース <a href="https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6neqgzrmn2j" target="_blank">bloomberg-jp.bsky.social</a> (2025-11-28 07:02:55)</span><span style="padding-right:50px;">Some U.S. troops are celebrating Thanksgiving overseas, with military cooks serving up dinner with a "little extra love."   <a href="https://bsky.app/profile/nbcnews.com/post/3m6nensvrep2j" target="_blank">nbcnews.com</a> (2025-11-28 07:01:26)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50167.10 (🔺298.31 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3138.00 (🔻17.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 156.27 (🔻0.13 : 2025-11-27)</span>
+<span style="padding-right:50px;">NIKKEI: 50167.10 (🔺298.31 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3138.00 (🔻17.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 156.28 (🔻0.12 : 2025-11-27)</span>
   </div>
 </div>
 
@@ -30,96 +30,88 @@
 
 ---
 
-## [2025-11-28 06:50 updated](2025_11_28.md)
+## [2025-11-28 07:10 updated](2025_11_28.md)
 
-@nhknewsunofficial.bsky.social
+@reuters.com
 
-【動画】Pickup NEWS（11月28日）
-https://news.web.nhk/newsweb/na/na-k10014988311000
+UK waters down unfair dismissal plan after business pushback reut.rs/3KudF2B
 
-[2025-11-28 06:48:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ndvv7lfo24)
+[2025-11-28 07:05:10](https://bsky.app/profile/reuters.com/post/3m6neuig5cd27)
 
 ---
 
-@nikkei.com
+@cnn.com
 
-大豆相場、1年半ぶり高値圏　中国がアメリカ産の購入再開で
-www.nikkei.com/article/DGXZQO...
+Wanda Dench and Jamal Hinton met at the intersection of a wrong number and a bold invitation. A decade later, they’re still celebrating Thanksgiving together and their unlikely friendship continues to inspire.
 
-国際指標となるシカゴ商品取引所の大豆先物価格は11月26日の終値が11.3ドル台。
+[2025-11-28 07:03:01](https://bsky.app/profile/cnn.com/post/3m6neqndwas2q)
 
-米中首脳会談での合意前の10ドル台から1割前後切り上がっています。
+---
 
-一方で「合意した購入規模はもともとの取引水準に戻ったに過ぎない」と、上値追いには慎重な見方が少なくありません。
+@bloomberg-jp.bsky.social
 
-[2025-11-28 06:46:59](https://bsky.app/profile/nikkei.com/post/3m6ndtxa4jv2m)
+香港高層マンション火災、改修工事の安全基準に疑義－死者83人に
+
+[2025-11-28 07:02:59](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6neqld54v2j)
+
+---
+
+@bloomberg-jp.bsky.social
+
+【今朝の5本】仕事を始める前に読んでおきたい厳選ニュース
+
+[2025-11-28 07:02:55](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6neqgzrmn2j)
+
+---
+
+@nbcnews.com
+
+Some U.S. troops are celebrating Thanksgiving overseas, with military cooks serving up dinner with a "little extra love."  
+
+[2025-11-28 07:01:26](https://bsky.app/profile/nbcnews.com/post/3m6nensvrep2j)
 
 ---
 
 @reuters.com
 
-Bank of England's Greene says budget energy measures may help lower price expectations reut.rs/3XnNk9n
+Trump administration to carry out sweeping immigration review after National Guard shooting reut.rs/4rpLIcQ
 
-[2025-11-28 06:45:13](https://bsky.app/profile/reuters.com/post/3m6ndqsze7m22)
-
----
-
-@reuters.com
-
-Hegseth visits USS Gerald R. Ford aircraft carrier in Latin America region reut.rs/4rnYV5Z
-
-[2025-11-28 06:40:19](https://bsky.app/profile/reuters.com/post/3m6ndi2noq32r)
+[2025-11-28 07:01:02](https://bsky.app/profile/reuters.com/post/3m6nen3mkhw2w)
 
 ---
 
-@nytimes.com
+@aljazeera.com
 
-In @nytopinion.nytimes.com
+Several candidates are vying to replace President Xiomara Castro, but concerns about voting process have caused tension.
 
-In America, at least 47 million people are living with hunger. These are some of their stories.
-
-[2025-11-28 06:40:02](https://bsky.app/profile/nytimes.com/post/3m6ndhjwld72l)
+[2025-11-28 07:00:38](https://bsky.app/profile/aljazeera.com/post/3m6nemeyn4x2z)
 
 ---
 
-@reuters.com
+@sokuho.news
 
-Canada rolls back climate rules in energy deal with Alberta reut.rs/3MaNsXf
+🛎️文春より【スクープ】です。
 
-[2025-11-28 06:35:11](https://bsky.app/profile/reuters.com/post/3m6nd6u3ohn2y)
+「安倍首相もこの場に来ておられるかも」元首相襲撃犯・山上徹也の母が公判で語った「お詫び」
+(2025-11-28 07:00) #ニュース
 
----
-
-@reuters.com
-
-India's Sharma most expensive player in WPL auction, Aussie skipper Healy goes unsold reut.rs/4pvcdM9
-
-[2025-11-28 06:30:29](https://bsky.app/profile/reuters.com/post/3m6ncwh6bbh2o)
+[2025-11-28 07:00:36](https://bsky.app/profile/sokuho.news/post/3m6nemcyz6q2e)
 
 ---
 
 @usatoday.com
 
-Hong Kong firefighters brought under control a huge blaze in an apartment complex that killed at least 55 and left nearly 300 missing.
+Spoiler alert! Everything you need to know about "Stranger Things" Season 5 Episode 4, including that massive Will Byers cliffhanger.
 
-[2025-11-28 06:30:12](https://bsky.app/profile/usatoday.com/post/3m6ncvx2kcd2u)
-
----
-
-@washingtonpost.com
-
-Russia is expecting a U.S. delegation in Moscow next week to discuss the U.S. proposal for a peace deal that President Vladimir Putin called a “basis for future agreements.”
-
-[2025-11-28 06:30:06](https://bsky.app/profile/washingtonpost.com/post/3m6ncvrhmzd23)
+[2025-11-28 07:00:34](https://bsky.app/profile/usatoday.com/post/3m6nemaw3nn2u)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@apnews.com
 
-【随時更新】ロシア ウクライナに軍事侵攻（11月28日の動き）
-https://news.web.nhk/newsweb/na/na-k10014967041000
+Swapping turkeys for other animals was once a key part of North America's wildlife conservation efforts.
 
-[2025-11-28 06:30:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ncvqslzx2g)
+[2025-11-28 07:00:11](https://bsky.app/profile/apnews.com/post/3m6nelkjl3t27)
 
 ---
 
