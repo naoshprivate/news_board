@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">大阪 ひき逃げなどの疑い トラック運転手逮捕 バイク男性 死亡 https://news.web.nhk/newsweb/na/na-k10014987701000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6l25keje72j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-27 08:48:01)</span><span style="padding-right:50px;">Live Updates: The suspect in the National Guard shooting is believed to be an Afghan national, sources say. cbsn.ws/4oDqfLb <a href="https://bsky.app/profile/cbsnews.com/post/3m6l24qgewz2a" target="_blank">cbsnews.com</a> (2025-11-27 08:47:36)</span><span style="padding-right:50px;">Exclusive: After speaking with China's Xi, Trump called Japan’s prime minister and advised her not to provoke Beijing over Taiwan. <a href="https://bsky.app/profile/wsj.com/post/3m6l23tx24q2o" target="_blank">wsj.com</a> (2025-11-27 08:47:06)</span><span style="padding-right:50px;">Patriots rookie LT Will Campbell (knee) headed to IR reut.rs/4aeoobN <a href="https://bsky.app/profile/reuters.com/post/3m6kzyjmyuh2o" target="_blank">reuters.com</a> (2025-11-27 08:45:15)</span><span style="padding-right:50px;">Trump says South Africa won't receive invitation to G20 in 2026 reut.rs/48jiYtt <a href="https://bsky.app/profile/reuters.com/post/3m6kzpv7fcb27" target="_blank">reuters.com</a> (2025-11-27 08:40:25)</span>
+<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】日経平均 一時500円以上値上がり 節目の5万円回復 米株高受け続伸 (2025-11-27 09:07:27) #ニュース  📈世界の株価 🔗https://sekai-kabuka.com/ <a href="https://bsky.app/profile/sokuho.news/post/3m6l3c2nl5r2w" target="_blank">sokuho.news</a> (2025-11-27 09:08:29)</span><span style="padding-right:50px;">西～北日本 あすにかけ局地的に雨雲発達のおそれ 黄砂にも注意 https://news.web.nhk/newsweb/na/na-k10014987661000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6l35r2n7z26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-27 09:06:02)</span><span style="padding-right:50px;">【米国市況】株続伸、エヌビディアなどテク主導－利下げ期待が支えに <a href="https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6l34anwom2n" target="_blank">bloomberg-jp.bsky.social</a> (2025-11-27 09:05:14)</span><span style="padding-right:50px;">南アを来年G20に招待せず、トランプ氏表明－関係悪化が深刻化 <a href="https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6l34453yw2w" target="_blank">bloomberg-jp.bsky.social</a> (2025-11-27 09:05:09)</span><span style="padding-right:50px;">FCC says hackers hijack US radio gear to send fake alerts, obscenities reut.rs/48kbF54 <a href="https://bsky.app/profile/reuters.com/post/3m6l3447ze22a" target="_blank">reuters.com</a> (2025-11-27 09:05:09)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49559.07 (🔺546.82 : 2025-11-26)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3141.00 (🔺12.00 : 2025-11-26)</span><span style="padding-right:50px;">USD/JPY: 156.26 (🔻0.14 : 2025-11-26)</span>
+<span style="padding-right:50px;">NIKKEI: 49559.07 (🔺546.82 : 2025-11-26)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3141.00 (🔺12.00 : 2025-11-26)</span><span style="padding-right:50px;">USD/JPY: 156.11 (🔻0.29 : 2025-11-27)</span>
   </div>
 </div>
 
@@ -30,97 +30,92 @@
 
 ---
 
-## [2025-11-27 08:50 updated](2025_11_27.md)
+## [2025-11-27 09:10 updated](2025_11_27.md)
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】日経平均 一時500円以上値上がり 節目の5万円回復 米株高受け続伸
+(2025-11-27 09:07:27) #ニュース
+
+📈世界の株価
+🔗https://sekai-kabuka.com/
+
+[2025-11-27 09:08:29](https://bsky.app/profile/sokuho.news/post/3m6l3c2nl5r2w)
+
+---
 
 @nhknewsunofficial.bsky.social
 
-大阪 ひき逃げなどの疑い トラック運転手逮捕 バイク男性 死亡
-https://news.web.nhk/newsweb/na/na-k10014987701000
+西～北日本 あすにかけ局地的に雨雲発達のおそれ 黄砂にも注意
+https://news.web.nhk/newsweb/na/na-k10014987661000
 
-[2025-11-27 08:48:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6l25keje72j)
-
----
-
-@cbsnews.com
-
-Live Updates: The suspect in the National Guard shooting is believed to be an Afghan national, sources say. cbsn.ws/4oDqfLb
-
-[2025-11-27 08:47:36](https://bsky.app/profile/cbsnews.com/post/3m6l24qgewz2a)
+[2025-11-27 09:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6l35r2n7z26)
 
 ---
 
-@wsj.com
+@bloomberg-jp.bsky.social
 
-Exclusive: After speaking with China's Xi, Trump called Japan’s prime minister and advised her not to provoke Beijing over Taiwan.
+【米国市況】株続伸、エヌビディアなどテク主導－利下げ期待が支えに
 
-[2025-11-27 08:47:06](https://bsky.app/profile/wsj.com/post/3m6l23tx24q2o)
+[2025-11-27 09:05:14](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6l34anwom2n)
 
 ---
 
-@reuters.com
+@bloomberg-jp.bsky.social
 
-Patriots rookie LT Will Campbell (knee) headed to IR reut.rs/4aeoobN
+南アを来年G20に招待せず、トランプ氏表明－関係悪化が深刻化
 
-[2025-11-27 08:45:15](https://bsky.app/profile/reuters.com/post/3m6kzyjmyuh2o)
+[2025-11-27 09:05:09](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6l34453yw2w)
 
 ---
 
 @reuters.com
 
-Trump says South Africa won't receive invitation to G20 in 2026 reut.rs/48jiYtt
+FCC says hackers hijack US radio gear to send fake alerts, obscenities reut.rs/48kbF54
 
-[2025-11-27 08:40:25](https://bsky.app/profile/reuters.com/post/3m6kzpv7fcb27)
-
----
-
-@nytimes.com
-
-Here's how "Stranger Things," built out of vintage pop-culture references, captured the “If you liked that, you’ll like this” spirit of Netflix. "It’s a big Halloween bowl of retro candy that invites you to remember when, one sugary bite at a time," James Poniewozi writes.
-
-[2025-11-27 08:40:04](https://bsky.app/profile/nytimes.com/post/3m6kzpb3o5427)
+[2025-11-27 09:05:09](https://bsky.app/profile/reuters.com/post/3m6l3447ze22a)
 
 ---
 
-@wsj.com
+@bloomberg-jp.bsky.social
 
-Sweating in elite new supersize saunas—with anywhere from one to 90 other people—produces a unique sort of connection. 
+【今朝の5本】仕事を始める前に読んでおきたい厳選ニュース
 
-Welcome to the new networking space: 🔗 on.wsj.com/4ip7p8U
-
-[2025-11-27 08:39:14](https://bsky.app/profile/wsj.com/post/3m6kznrrenv2p)
+[2025-11-27 09:05:01](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6l33ui7ve26)
 
 ---
 
-@reuters.com
+@bloomberg-jp.bsky.social
 
-Savers and the wealthy count the costs of UK tax-raising budget reut.rs/4pEw4c5
+HUMAN MADE上場は日本ファッション史の転換点、サブカルから世界へ
 
-[2025-11-27 08:35:12](https://bsky.app/profile/reuters.com/post/3m6kzgkcs732i)
-
----
-
-@npr.org
-
-California’s state veterinarian banned all chicken shows this year to limit the spread of bird flu, leaving county fairs across the state devoid of chickens. (via @kqednews.kqed.org)
-
-[2025-11-27 08:32:56](https://bsky.app/profile/npr.org/post/3m6kzcigzsv2q)
+[2025-11-27 09:04:56](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6l33pvy372j)
 
 ---
 
-@nikkei.com
+@bloomberg-jp.bsky.social
 
-アメリカの特使、ロシアに「トランプ対策」指南
-www.nikkei.com/article/DGXZQO...
+債券は上昇へ、夜間取引の先物堅調－野口日銀委員の発言は警戒
 
-トランプ氏との電話協議で「平和の男として大統領を尊敬している」とプーチン氏が発言するように伝えよ──。
+[2025-11-27 09:04:51](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6l33lflcj2v)
 
-アメリカのウィットコフ中東担当特使が10月14日にロシア高官と実施した電話協議の通話記録を、ブルームバーグ通信が報じました。
+---
 
-ロシア寄りの懸念があるとして共和党からは解任論が出ています。
+@bloomberg-jp.bsky.social
 
-#ニュース
+円は対ドル156円半ば、円安基調続く－野口日銀委員の講演トーン注目
 
-[2025-11-27 08:31:00](https://bsky.app/profile/nikkei.com/post/3m6kz6zpodc26)
+[2025-11-27 09:04:47](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6l33hcsfx2j)
+
+---
+
+@cnbc.com
+
+Asia-Pacific markets set to open mixed after Wall Street gains as tech extends rebound
+
+[2025-11-27 09:02:47](https://bsky.app/profile/cnbc.com/post/3m6l2xuh57j2a)
 
 ---
 
