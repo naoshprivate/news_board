@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">US SEC probing Jefferies for bankrupt First Brands dealings, FT reports reut.rs/4ilt2qu <a href="https://bsky.app/profile/reuters.com/post/3m6ncmz6ohk2a" target="_blank">reuters.com</a> (2025-11-28 06:25:12)</span><span style="padding-right:50px;">Indian e-commerce firm Meesho aims for $5.6 billion valuation in IPO reut.rs/4ioySaT <a href="https://bsky.app/profile/reuters.com/post/3m6nc354tdm2e" target="_blank">reuters.com</a> (2025-11-28 06:15:12)</span><span style="padding-right:50px;">US defense firm Anduril faces setbacks from drone crashes, including in a recent Air Force test, reported here for the first time reut.rs/3XFSBtb <a href="https://bsky.app/profile/reuters.com/post/3m6nbzvxlwk2v" target="_blank">reuters.com</a> (2025-11-28 06:14:31)</span><span style="padding-right:50px;">What we know about Afghan national suspected of DC shooting reut.rs/4imLzml <a href="https://bsky.app/profile/reuters.com/post/3m6nbs6cidz2r" target="_blank">reuters.com</a> (2025-11-28 06:10:11)</span><span style="padding-right:50px;">The Trump administration will reexamine green cards issued to people from 19 countries "of concern." https://cnn.it/3M1L8C4 <a href="https://bsky.app/profile/cnn.com/post/3m6nbogo2ba2m" target="_blank">cnn.com</a> (2025-11-28 06:08:06)</span>
+<span style="padding-right:50px;">【動画】Pickup NEWS（11月28日） https://news.web.nhk/newsweb/na/na-k10014988311000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ndvv7lfo24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-28 06:48:01)</span><span style="padding-right:50px;">大豆相場、1年半ぶり高値圏　中国がアメリカ産の購入再開で www.nikkei.com/article/DGXZQO...  国際指標となるシカゴ商品取引所の大豆先物価格は11月26日の終値が11.3ドル台。  米中首脳会談での合意前の10ドル台から1割前後切り上がっています。  一方で「合意した購入規模はもともとの取引水準に戻ったに過ぎない」と、上値追いには慎重な見方が少なくありません。 <a href="https://bsky.app/profile/nikkei.com/post/3m6ndtxa4jv2m" target="_blank">nikkei.com</a> (2025-11-28 06:46:59)</span><span style="padding-right:50px;">Bank of England's Greene says budget energy measures may help lower price expectations reut.rs/3XnNk9n <a href="https://bsky.app/profile/reuters.com/post/3m6ndqsze7m22" target="_blank">reuters.com</a> (2025-11-28 06:45:13)</span><span style="padding-right:50px;">Hegseth visits USS Gerald R. Ford aircraft carrier in Latin America region reut.rs/4rnYV5Z <a href="https://bsky.app/profile/reuters.com/post/3m6ndi2noq32r" target="_blank">reuters.com</a> (2025-11-28 06:40:19)</span><span style="padding-right:50px;">In @nytopinion.nytimes.com  In America, at least 47 million people are living with hunger. These are some of their stories. <a href="https://bsky.app/profile/nytimes.com/post/3m6ndhjwld72l" target="_blank">nytimes.com</a> (2025-11-28 06:40:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50167.10 (🔺298.31 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3138.00 (🔻17.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 156.28 (🔻0.12 : 2025-11-27)</span>
+<span style="padding-right:50px;">NIKKEI: 50167.10 (🔺298.31 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3138.00 (🔻17.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 156.27 (🔻0.13 : 2025-11-27)</span>
   </div>
 </div>
 
@@ -30,87 +30,96 @@
 
 ---
 
-## [2025-11-28 06:30 updated](2025_11_28.md)
+## [2025-11-28 06:50 updated](2025_11_28.md)
 
-@reuters.com
+@nhknewsunofficial.bsky.social
 
-US SEC probing Jefferies for bankrupt First Brands dealings, FT reports reut.rs/4ilt2qu
+【動画】Pickup NEWS（11月28日）
+https://news.web.nhk/newsweb/na/na-k10014988311000
 
-[2025-11-28 06:25:12](https://bsky.app/profile/reuters.com/post/3m6ncmz6ohk2a)
+[2025-11-28 06:48:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ndvv7lfo24)
+
+---
+
+@nikkei.com
+
+大豆相場、1年半ぶり高値圏　中国がアメリカ産の購入再開で
+www.nikkei.com/article/DGXZQO...
+
+国際指標となるシカゴ商品取引所の大豆先物価格は11月26日の終値が11.3ドル台。
+
+米中首脳会談での合意前の10ドル台から1割前後切り上がっています。
+
+一方で「合意した購入規模はもともとの取引水準に戻ったに過ぎない」と、上値追いには慎重な見方が少なくありません。
+
+[2025-11-28 06:46:59](https://bsky.app/profile/nikkei.com/post/3m6ndtxa4jv2m)
 
 ---
 
 @reuters.com
 
-Indian e-commerce firm Meesho aims for $5.6 billion valuation in IPO reut.rs/4ioySaT
+Bank of England's Greene says budget energy measures may help lower price expectations reut.rs/3XnNk9n
 
-[2025-11-28 06:15:12](https://bsky.app/profile/reuters.com/post/3m6nc354tdm2e)
-
----
-
-@reuters.com
-
-US defense firm Anduril faces setbacks from drone crashes, including in a recent Air Force test, reported here for the first time reut.rs/3XFSBtb
-
-[2025-11-28 06:14:31](https://bsky.app/profile/reuters.com/post/3m6nbzvxlwk2v)
+[2025-11-28 06:45:13](https://bsky.app/profile/reuters.com/post/3m6ndqsze7m22)
 
 ---
 
 @reuters.com
 
-What we know about Afghan national suspected of DC shooting reut.rs/4imLzml
+Hegseth visits USS Gerald R. Ford aircraft carrier in Latin America region reut.rs/4rnYV5Z
 
-[2025-11-28 06:10:11](https://bsky.app/profile/reuters.com/post/3m6nbs6cidz2r)
-
----
-
-@cnn.com
-
-The Trump administration will reexamine green cards issued to people from 19 countries "of concern." https://cnn.it/3M1L8C4
-
-[2025-11-28 06:08:06](https://bsky.app/profile/cnn.com/post/3m6nbogo2ba2m)
+[2025-11-28 06:40:19](https://bsky.app/profile/reuters.com/post/3m6ndi2noq32r)
 
 ---
 
-@wsj.com
+@nytimes.com
 
-Since its founding in 2017, Anduril Industries has become one of the hottest companies in a crowded field of defense-tech startup. 
+In @nytopinion.nytimes.com
 
-Its fast-moving approach comes with its share of setbacks.
+In America, at least 47 million people are living with hunger. These are some of their stories.
 
-[2025-11-28 06:05:31](https://bsky.app/profile/wsj.com/post/3m6nbjtcjbk2p)
+[2025-11-28 06:40:02](https://bsky.app/profile/nytimes.com/post/3m6ndhjwld72l)
 
 ---
 
 @reuters.com
 
-Rheinmetall not currently negotiating with VW over Osnabrueck site, CEO says reut.rs/4p33LE2
+Canada rolls back climate rules in energy deal with Alberta reut.rs/3MaNsXf
 
-[2025-11-28 06:05:09](https://bsky.app/profile/reuters.com/post/3m6nbj5xou427)
+[2025-11-28 06:35:11](https://bsky.app/profile/reuters.com/post/3m6nd6u3ohn2y)
 
 ---
 
 @reuters.com
 
-European nations agree 30% boost in three-year space budget reut.rs/48hs2z5
+India's Sharma most expensive player in WPL auction, Aussie skipper Healy goes unsold reut.rs/4pvcdM9
 
-[2025-11-28 06:01:06](https://bsky.app/profile/reuters.com/post/3m6nbbwmghi2n)
-
----
-
-@cnn.com
-
-Russian President Vladimir Putin said that a US plan to end the war in Ukraine could “form the basis for future agreements” but renewed threats to seize more territory by force unless Kyiv withdraws.
-
-[2025-11-28 06:01:02](https://bsky.app/profile/cnn.com/post/3m6nbbs6szr2b)
+[2025-11-28 06:30:29](https://bsky.app/profile/reuters.com/post/3m6ncwh6bbh2o)
 
 ---
 
-@cnbc.com
+@usatoday.com
 
-Chanel Rivers moved to London in October 2024 after planning a move on and off since 2019. 
+Hong Kong firefighters brought under control a huge blaze in an apartment complex that killed at least 55 and left nearly 300 missing.
 
-[2025-11-28 06:00:58](https://bsky.app/profile/cnbc.com/post/3m6nbbo3jrw2e)
+[2025-11-28 06:30:12](https://bsky.app/profile/usatoday.com/post/3m6ncvx2kcd2u)
+
+---
+
+@washingtonpost.com
+
+Russia is expecting a U.S. delegation in Moscow next week to discuss the U.S. proposal for a peace deal that President Vladimir Putin called a “basis for future agreements.”
+
+[2025-11-28 06:30:06](https://bsky.app/profile/washingtonpost.com/post/3m6ncvrhmzd23)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【随時更新】ロシア ウクライナに軍事侵攻（11月28日の動き）
+https://news.web.nhk/newsweb/na/na-k10014967041000
+
+[2025-11-28 06:30:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ncvqslzx2g)
 
 ---
 
