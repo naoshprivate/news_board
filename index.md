@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】前橋市の小川晶市長が辞職…“ラブホ密会”問題で提出の「退職届」を議会が承認 (2025-11-27 14:07) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6llym7s5v2y" target="_blank">sokuho.news</a> (2025-11-27 14:07:25)</span><span style="padding-right:50px;"> France isn’t ready to send its children into battle on.ft.com/4rvutXR  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m6llrjwx7b2j" target="_blank">financialtimes.com</a> (2025-11-27 14:03:28)</span><span style="padding-right:50px;">A bizarre email told thousands of guests to leave their rooms ASAP—then they got kicked out.   How Marriott’s bet on an upstart rental company imploded: 🔗 on.wsj.com/48ysp9M <a href="https://bsky.app/profile/wsj.com/post/3m6llqk4t542h" target="_blank">wsj.com</a> (2025-11-27 14:02:54)</span><span style="padding-right:50px;">Federal immigration authorities said Wednesday they have paused processing requests from Afghan nationals, after a man who entered the U.S. from Afghanistan was identified as the suspect in a shooting that wounded two National Guard members in Washington, D.C. <a href="https://bsky.app/profile/cbsnews.com/post/3m6llplub6l2r" target="_blank">cbsnews.com</a> (2025-11-27 14:02:23)</span><span style="padding-right:50px;">NZ's housing funk sows doubts on reliable investment strategy, drags on economy reut.rs/48meKl9 <a href="https://bsky.app/profile/reuters.com/post/3m6lln5a65r2e" target="_blank">reuters.com</a> (2025-11-27 14:01:00)</span>
+<span style="padding-right:50px;">UK boards now more forceful on CEO pay, LSE boss says on.ft.com/48210go <a href="https://bsky.app/profile/financialtimes.com/post/3m6ln5qvwux2r" target="_blank">financialtimes.com</a> (2025-11-27 14:28:12)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】ガソリン全国平均168円80銭 補助金引き上げで1円値下がり 年末までにはさらに10円値下がりの見通し (2025-11-27 14:25:45) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6ln2xatut26" target="_blank">sokuho.news</a> (2025-11-27 14:26:38)</span><span style="padding-right:50px;">Firefighters were still dousing a devastating fire Thursday which ripped through a Hong Kong high-rise complex, killing at least 44 people and leaving hundreds missing according to authorities  u.afp.com/Shd8 <a href="https://bsky.app/profile/en.afp.com/post/3m6lmxcsl2r23" target="_blank">en.afp.com</a> (2025-11-27 14:24:36)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】小川晶市長の退職願を可決 あすから50日以内に市長選へ 前橋市議会 (2025年11月27日 14:20) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6lmrg2zzb26" target="_blank">sokuho.news</a> (2025-11-27 14:21:18)</span><span style="padding-right:50px;">自民と維新 政党の資金調達のあり方 第三者委設置し検討で合意 https://news.web.nhk/newsweb/na/na-k10014987931000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6lmr5q2o62b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-27 14:21:07)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50106.76 (🔺237.97 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3139.00 (🔻16.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 155.93 (🔻0.47 : 2025-11-27)</span>
+<span style="padding-right:50px;">NIKKEI: 50142.93 (🔺274.14 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3138.00 (🔻17.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 155.88 (🔻0.52 : 2025-11-27)</span>
   </div>
 </div>
 
@@ -30,97 +30,105 @@
 
 ---
 
-## [2025-11-27 14:10 updated](2025_11_27.md)
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】前橋市の小川晶市長が辞職…“ラブホ密会”問題で提出の「退職届」を議会が承認
-(2025-11-27 14:07) #ニュース
-
-[2025-11-27 14:07:25](https://bsky.app/profile/sokuho.news/post/3m6llym7s5v2y)
-
----
+## [2025-11-27 14:30 updated](2025_11_27.md)
 
 @financialtimes.com
 
- France isn’t ready to send its children into battle on.ft.com/4rvutXR  | opinion
+UK boards now more forceful on CEO pay, LSE boss says on.ft.com/48210go
 
-[2025-11-27 14:03:28](https://bsky.app/profile/financialtimes.com/post/3m6llrjwx7b2j)
-
----
-
-@wsj.com
-
-A bizarre email told thousands of guests to leave their rooms ASAP—then they got kicked out. 
-
-How Marriott’s bet on an upstart rental company imploded: 🔗 on.wsj.com/48ysp9M
-
-[2025-11-27 14:02:54](https://bsky.app/profile/wsj.com/post/3m6llqk4t542h)
+[2025-11-27 14:28:12](https://bsky.app/profile/financialtimes.com/post/3m6ln5qvwux2r)
 
 ---
 
-@cbsnews.com
+@sokuho.news
 
-Federal immigration authorities said Wednesday they have paused processing requests from Afghan nationals, after a man who entered the U.S. from Afghanistan was identified as the suspect in a shooting that wounded two National Guard members in Washington, D.C.
+🛎️JNNより【速報】です。
 
-[2025-11-27 14:02:23](https://bsky.app/profile/cbsnews.com/post/3m6llplub6l2r)
+【速報】ガソリン全国平均168円80銭 補助金引き上げで1円値下がり 年末までにはさらに10円値下がりの見通し
+(2025-11-27 14:25:45) #ニュース
+
+[2025-11-27 14:26:38](https://bsky.app/profile/sokuho.news/post/3m6ln2xatut26)
+
+---
+
+@en.afp.com
+
+Firefighters were still dousing a devastating fire Thursday which ripped through a Hong Kong high-rise complex, killing at least 44 people and leaving hundreds missing according to authorities
+
+u.afp.com/Shd8
+
+[2025-11-27 14:24:36](https://bsky.app/profile/en.afp.com/post/3m6lmxcsl2r23)
+
+---
+
+@sokuho.news
+
+🔔ANNより【速報】です。
+
+【速報】小川晶市長の退職願を可決 あすから50日以内に市長選へ 前橋市議会
+(2025年11月27日 14:20) #ニュース
+
+[2025-11-27 14:21:18](https://bsky.app/profile/sokuho.news/post/3m6lmrg2zzb26)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+自民と維新 政党の資金調達のあり方 第三者委設置し検討で合意
+https://news.web.nhk/newsweb/na/na-k10014987931000
+
+[2025-11-27 14:21:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6lmr5q2o62b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+自民税制調査会 法人税の租税特別措置の扱い議論
+https://news.web.nhk/newsweb/na/na-k10014987911000
+
+[2025-11-27 14:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6lmqznkuw2b)
 
 ---
 
 @reuters.com
 
-NZ's housing funk sows doubts on reliable investment strategy, drags on economy reut.rs/48meKl9
+Stocks rise on Fed easing hopes, yen locked in intervention zone reut.rs/4oghtCB
 
-[2025-11-27 14:01:00](https://bsky.app/profile/reuters.com/post/3m6lln5a65r2e)
-
----
-
-@nikkei.com
-
-パキスタン元首相「死亡説」広がる　刑務所で安否不明、軍トップと確執
-www.nikkei.com/article/DGXZQO...
-
-カーン元首相は2023年から同国北部ラワルピンディの刑務所に収監されています。
-
-SNS上などでは刑務所内で軍から拷問や嫌がらせを受けているとの投稿が相次いでいます。
-
-[2025-11-27 14:00:59](https://bsky.app/profile/nikkei.com/post/3m6lln4b3za2m)
+[2025-11-27 14:20:12](https://bsky.app/profile/reuters.com/post/3m6lmphz35x2k)
 
 ---
 
-@financialtimes.com
+@bloomberg.com
 
-President Donald Trump vowed a wide-ranging crackdown on millions of immigrants in the US as he said an Afghan national is the suspect in the shooting of two members of the National Guard in Washington. on.ft.com/4pxykSd
+A fire that broke out in an apartment building in Hong Kong’s suburban Tai Po district on Nov. 26, and engulfed seven towers, has killed dozens and left hundreds missing. Here's what to know ⤵️
 
-[2025-11-27 14:00:47](https://bsky.app/profile/financialtimes.com/post/3m6llmqi6b227)
-
----
-
-@cnbc.com
-
-In blue zones, communities known for having the highest life expectancies in the world, longevity researcher Dan Buettner says breakfast is a top priority.
-
-Buettner suggests going for these six foods in the morning to mirror the way the world’s longest-lived people eat.
-
-[2025-11-27 14:00:29](https://bsky.app/profile/cnbc.com/post/3m6llm7nkke2h)
+[2025-11-27 14:20:10](https://bsky.app/profile/bloomberg.com/post/3m6lmpfunnp2s)
 
 ---
 
-@aljazeera.com
+@wsj.com
 
-Three websites used to create abuse imagery had received 100,000 monthly visits from Australians, watchdog says.
+Influencers have described propranolol as a magic pill that eases nervous jitters in all kinds of settings.
 
-[2025-11-27 14:00:22](https://bsky.app/profile/aljazeera.com/post/3m6lllyz3ej2f)
+“It almost seems like a cheat code, if you will.”
+
+Prescriptions are on the rise, especially for young women. 🔗 on.wsj.com/48jLonu
+
+[2025-11-27 14:18:47](https://bsky.app/profile/wsj.com/post/3m6lmmwgudk2i)
 
 ---
 
-@washingtonpost.com
+@sokuho.news
 
-Ethan Dietz, a sophomore member of a junior college basketball team in Oklahoma, died Tuesday after suffering an injury during a game several days earlier. He was 20.
+🔔防災科研より【強震モニタ】動画です。
 
-[2025-11-27 14:00:14](https://bsky.app/profile/washingtonpost.com/post/3m6lllqx57c2e)
+震源:熊本県阿蘇地方, 深さ:10km
+マグニチュード:2.6, 最大震度:1
+📍https://www.google.com/maps?q=33.0,131.1&ll=33.0,131.1&z=7&t=h
+地震発生日時:2025-11-27 14:15頃
+(10倍速▶120s→12s) #地震
+
+[2025-11-27 14:18:34](https://bsky.app/profile/sokuho.news/post/3m6lmmjwv2b2y)
 
 ---
 
