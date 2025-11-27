@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Guinea-Bissau rocked by coup.  Military officials in Guinea-Bissau say they have seized "total control" of the west African country, arresting its president, closing its borders and suspending its electoral process three days after general elections  u.afp.com/ShdA <a href="https://bsky.app/profile/en.afp.com/post/3m6lkwbldnl2a" target="_blank">en.afp.com</a> (2025-11-27 13:48:13)</span><span style="padding-right:50px;">Intel denies TSMC allegations that executive leaked trade secrets reut.rs/43S54gJ <a href="https://bsky.app/profile/reuters.com/post/3m6lkhxnh5k2i" target="_blank">reuters.com</a> (2025-11-27 13:40:13)</span><span style="padding-right:50px;">アサヒグループHD会見 “190万件超の個人情報 外部流出か” https://news.web.nhk/newsweb/na/na-k10014987731000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6lkfx5l4a2g" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-27 13:39:03)</span><span style="padding-right:50px;">A chance discovery by a NASA rover on Mars shows that the red planet has a form of lightning, which researchers had suspected for decades but never seen. n.pr/4imUCUg <a href="https://bsky.app/profile/npr.org/post/3m6lkdnx2pj2y" target="_blank">npr.org</a> (2025-11-27 13:37:49)</span><span style="padding-right:50px;">JUST IN: Suspect is an Afghan national who came to the U.S. in 2021 after serving for years with American troops in Afghanistan, officials and a relative say. <a href="https://bsky.app/profile/nbcnews.com/post/3m6ljzhg4u72t" target="_blank">nbcnews.com</a> (2025-11-27 13:32:06)</span>
+<span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】前橋市の小川晶市長が辞職…“ラブホ密会”問題で提出の「退職届」を議会が承認 (2025-11-27 14:07) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6llym7s5v2y" target="_blank">sokuho.news</a> (2025-11-27 14:07:25)</span><span style="padding-right:50px;"> France isn’t ready to send its children into battle on.ft.com/4rvutXR  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m6llrjwx7b2j" target="_blank">financialtimes.com</a> (2025-11-27 14:03:28)</span><span style="padding-right:50px;">A bizarre email told thousands of guests to leave their rooms ASAP—then they got kicked out.   How Marriott’s bet on an upstart rental company imploded: 🔗 on.wsj.com/48ysp9M <a href="https://bsky.app/profile/wsj.com/post/3m6llqk4t542h" target="_blank">wsj.com</a> (2025-11-27 14:02:54)</span><span style="padding-right:50px;">Federal immigration authorities said Wednesday they have paused processing requests from Afghan nationals, after a man who entered the U.S. from Afghanistan was identified as the suspect in a shooting that wounded two National Guard members in Washington, D.C. <a href="https://bsky.app/profile/cbsnews.com/post/3m6llplub6l2r" target="_blank">cbsnews.com</a> (2025-11-27 14:02:23)</span><span style="padding-right:50px;">NZ's housing funk sows doubts on reliable investment strategy, drags on economy reut.rs/48meKl9 <a href="https://bsky.app/profile/reuters.com/post/3m6lln5a65r2e" target="_blank">reuters.com</a> (2025-11-27 14:01:00)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50088.35 (🔺219.56 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3138.00 (🔻17.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 156.03 (🔻0.37 : 2025-11-27)</span>
+<span style="padding-right:50px;">NIKKEI: 50106.76 (🔺237.97 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3139.00 (🔻16.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 155.93 (🔻0.47 : 2025-11-27)</span>
   </div>
 </div>
 
@@ -30,95 +30,97 @@
 
 ---
 
-## [2025-11-27 13:50 updated](2025_11_27.md)
+## [2025-11-27 14:10 updated](2025_11_27.md)
 
-@en.afp.com
+@sokuho.news
 
-Guinea-Bissau rocked by coup.
+🛎️FNNより【速報】です。
 
-Military officials in Guinea-Bissau say they have seized "total control" of the west African country, arresting its president, closing its borders and suspending its electoral process three days after general elections
+【速報】前橋市の小川晶市長が辞職…“ラブホ密会”問題で提出の「退職届」を議会が承認
+(2025-11-27 14:07) #ニュース
 
-u.afp.com/ShdA
+[2025-11-27 14:07:25](https://bsky.app/profile/sokuho.news/post/3m6llym7s5v2y)
 
-[2025-11-27 13:48:13](https://bsky.app/profile/en.afp.com/post/3m6lkwbldnl2a)
+---
+
+@financialtimes.com
+
+ France isn’t ready to send its children into battle on.ft.com/4rvutXR  | opinion
+
+[2025-11-27 14:03:28](https://bsky.app/profile/financialtimes.com/post/3m6llrjwx7b2j)
+
+---
+
+@wsj.com
+
+A bizarre email told thousands of guests to leave their rooms ASAP—then they got kicked out. 
+
+How Marriott’s bet on an upstart rental company imploded: 🔗 on.wsj.com/48ysp9M
+
+[2025-11-27 14:02:54](https://bsky.app/profile/wsj.com/post/3m6llqk4t542h)
+
+---
+
+@cbsnews.com
+
+Federal immigration authorities said Wednesday they have paused processing requests from Afghan nationals, after a man who entered the U.S. from Afghanistan was identified as the suspect in a shooting that wounded two National Guard members in Washington, D.C.
+
+[2025-11-27 14:02:23](https://bsky.app/profile/cbsnews.com/post/3m6llplub6l2r)
 
 ---
 
 @reuters.com
 
-Intel denies TSMC allegations that executive leaked trade secrets reut.rs/43S54gJ
+NZ's housing funk sows doubts on reliable investment strategy, drags on economy reut.rs/48meKl9
 
-[2025-11-27 13:40:13](https://bsky.app/profile/reuters.com/post/3m6lkhxnh5k2i)
-
----
-
-@nhknewsunofficial.bsky.social
-
-アサヒグループHD会見 “190万件超の個人情報 外部流出か”
-https://news.web.nhk/newsweb/na/na-k10014987731000
-
-[2025-11-27 13:39:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6lkfx5l4a2g)
-
----
-
-@npr.org
-
-A chance discovery by a NASA rover on Mars shows that the red planet has a form of lightning, which researchers had suspected for decades but never seen. n.pr/4imUCUg
-
-[2025-11-27 13:37:49](https://bsky.app/profile/npr.org/post/3m6lkdnx2pj2y)
-
----
-
-@nbcnews.com
-
-<strong><span style="color: red;">JUST IN:</span> Suspect is an Afghan national who came to the U.S. in 2021 after serving for years with American troops in Afghanistan, officials and a relative say.</strong>
-
-[2025-11-27 13:32:06](https://bsky.app/profile/nbcnews.com/post/3m6ljzhg4u72t)
+[2025-11-27 14:01:00](https://bsky.app/profile/reuters.com/post/3m6lln5a65r2e)
 
 ---
 
 @nikkei.com
 
-ヤマダHD、池袋本店に人間洗濯機　12月下旬から来店客が体験へ（無料記事）
+パキスタン元首相「死亡説」広がる　刑務所で安否不明、軍トップと確執
 www.nikkei.com/article/DGXZQO...
 
-微細な泡で洗浄することができ、大阪・関西万博に出展され話題を呼びました。
+カーン元首相は2023年から同国北部ラワルピンディの刑務所に収監されています。
 
-販売も検討します。1台あたり「6000万円程度と想定している」といいます。
+SNS上などでは刑務所内で軍から拷問や嫌がらせを受けているとの投稿が相次いでいます。
 
-[2025-11-27 13:30:59](https://bsky.app/profile/nikkei.com/post/3m6ljxh6psl2e)
+[2025-11-27 14:00:59](https://bsky.app/profile/nikkei.com/post/3m6lln4b3za2m)
 
 ---
 
-@reuters.com
+@financialtimes.com
 
-Gimenez's late header seals dramatic 2-1 win for Atletico over Inter Milan reut.rs/4pyN8QE
+President Donald Trump vowed a wide-ranging crackdown on millions of immigrants in the US as he said an Afghan national is the suspect in the shooting of two members of the National Guard in Washington. on.ft.com/4pxykSd
 
-[2025-11-27 13:30:27](https://bsky.app/profile/reuters.com/post/3m6ljwimxn327)
+[2025-11-27 14:00:47](https://bsky.app/profile/financialtimes.com/post/3m6llmqi6b227)
+
+---
+
+@cnbc.com
+
+In blue zones, communities known for having the highest life expectancies in the world, longevity researcher Dan Buettner says breakfast is a top priority.
+
+Buettner suggests going for these six foods in the morning to mirror the way the world’s longest-lived people eat.
+
+[2025-11-27 14:00:29](https://bsky.app/profile/cnbc.com/post/3m6llm7nkke2h)
 
 ---
 
 @aljazeera.com
 
-Arrest warrant issued for missing Thai mogul Anne Jakkaphong Jakrajutatip, as co-owner investigated in Mexico.
+Three websites used to create abuse imagery had received 100,000 monthly visits from Australians, watchdog says.
 
-[2025-11-27 13:30:24](https://bsky.app/profile/aljazeera.com/post/3m6ljwfqx3x2h)
-
----
-
-@bloomberg.com
-
-Some parts of Australia are facing heightened wildfire risks this summer, threatening wine-producing regions, coastal towns, and agricultural land used for grazing and grain, according to a seasonal outlook
-
-[2025-11-27 13:30:12](https://bsky.app/profile/bloomberg.com/post/3m6ljw2l7du2i)
+[2025-11-27 14:00:22](https://bsky.app/profile/aljazeera.com/post/3m6lllyz3ej2f)
 
 ---
 
-@nytimes.com
+@washingtonpost.com
 
-Lacey Chabert's first Christmas role was, arguably, in Mean Girls, in which she played the fetching Gretchen Wieners. Since then she has starred in at least 16 Hallmark Christmas movies. Here is how she sets up a cozy holiday movie night.
+Ethan Dietz, a sophomore member of a junior college basketball team in Oklahoma, died Tuesday after suffering an injury during a game several days earlier. He was 20.
 
-[2025-11-27 13:30:06](https://bsky.app/profile/nytimes.com/post/3m6ljvum6hi2q)
+[2025-11-27 14:00:14](https://bsky.app/profile/washingtonpost.com/post/3m6lllqx57c2e)
 
 ---
 
