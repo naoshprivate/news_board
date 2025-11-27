@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">UK boards now more forceful on CEO pay, LSE boss says on.ft.com/48210go <a href="https://bsky.app/profile/financialtimes.com/post/3m6ln5qvwux2r" target="_blank">financialtimes.com</a> (2025-11-27 14:28:12)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】ガソリン全国平均168円80銭 補助金引き上げで1円値下がり 年末までにはさらに10円値下がりの見通し (2025-11-27 14:25:45) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6ln2xatut26" target="_blank">sokuho.news</a> (2025-11-27 14:26:38)</span><span style="padding-right:50px;">Firefighters were still dousing a devastating fire Thursday which ripped through a Hong Kong high-rise complex, killing at least 44 people and leaving hundreds missing according to authorities  u.afp.com/Shd8 <a href="https://bsky.app/profile/en.afp.com/post/3m6lmxcsl2r23" target="_blank">en.afp.com</a> (2025-11-27 14:24:36)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】小川晶市長の退職願を可決 あすから50日以内に市長選へ 前橋市議会 (2025年11月27日 14:20) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6lmrg2zzb26" target="_blank">sokuho.news</a> (2025-11-27 14:21:18)</span><span style="padding-right:50px;">自民と維新 政党の資金調達のあり方 第三者委設置し検討で合意 https://news.web.nhk/newsweb/na/na-k10014987931000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6lmr5q2o62b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-27 14:21:07)</span>
+<span style="padding-right:50px;">ヤマト運輸、一部地域で配送遅れ　ブラックフライデーで（無料記事） www.nikkei.com/article/DGXZQO...  荷物の配送遅れは佐川急便でも。  年末商戦による一時的な荷物増加や、高速道路の工事による交通規制が影響しているといいます。  到着日時を指定していても遅延する場合があります。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m6lo7el2au2w" target="_blank">nikkei.com</a> (2025-11-27 14:47:00)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】福井県にインフルエンザ警報 1医療機関当たり43.79人 前週の1.5倍に (2025-11-27 14:40) #ニュース  ⬛感染症情報 🔗https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/infulenza/index.html <a href="https://bsky.app/profile/sokuho.news/post/3m6lo54w5yw22" target="_blank">sokuho.news</a> (2025-11-27 14:45:44)</span><span style="padding-right:50px;">Mexico investigates Miss Universe president for drugs, arms trafficking reut.rs/3XX2en2 <a href="https://bsky.app/profile/reuters.com/post/3m6lntabstc2i" target="_blank">reuters.com</a> (2025-11-27 14:40:12)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】県内にインフルエンザ警報を発令 過去最速 (2025-11-27 14:39) #ニュース  ⬛感染症情報 🔗https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/infulenza/index.html <a href="https://bsky.app/profile/sokuho.news/post/3m6lnrugfee2q" target="_blank">sokuho.news</a> (2025-11-27 14:39:26)</span><span style="padding-right:50px;">小泉防衛相 韓国駐日大使と会談へ 韓国軍のイベント不参加受け https://news.web.nhk/newsweb/na/na-k10014987941000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6lnltzybn2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-27 14:36:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50142.93 (🔺274.14 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3138.00 (🔻17.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 155.88 (🔻0.52 : 2025-11-27)</span>
+<span style="padding-right:50px;">NIKKEI: 50209.95 (🔺341.16 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3139.00 (🔻16.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 155.93 (🔻0.47 : 2025-11-27)</span>
   </div>
 </div>
 
@@ -30,105 +30,114 @@
 
 ---
 
-## [2025-11-27 14:30 updated](2025_11_27.md)
+## [2025-11-27 14:50 updated](2025_11_27.md)
 
-@financialtimes.com
+@nikkei.com
 
-UK boards now more forceful on CEO pay, LSE boss says on.ft.com/48210go
+ヤマト運輸、一部地域で配送遅れ　ブラックフライデーで（無料記事）
+www.nikkei.com/article/DGXZQO...
 
-[2025-11-27 14:28:12](https://bsky.app/profile/financialtimes.com/post/3m6ln5qvwux2r)
+荷物の配送遅れは佐川急便でも。
 
----
+年末商戦による一時的な荷物増加や、高速道路の工事による交通規制が影響しているといいます。
 
-@sokuho.news
+到着日時を指定していても遅延する場合があります。
 
-🛎️JNNより【速報】です。
+#ニュース
 
-【速報】ガソリン全国平均168円80銭 補助金引き上げで1円値下がり 年末までにはさらに10円値下がりの見通し
-(2025-11-27 14:25:45) #ニュース
-
-[2025-11-27 14:26:38](https://bsky.app/profile/sokuho.news/post/3m6ln2xatut26)
-
----
-
-@en.afp.com
-
-Firefighters were still dousing a devastating fire Thursday which ripped through a Hong Kong high-rise complex, killing at least 44 people and leaving hundreds missing according to authorities
-
-u.afp.com/Shd8
-
-[2025-11-27 14:24:36](https://bsky.app/profile/en.afp.com/post/3m6lmxcsl2r23)
+[2025-11-27 14:47:00](https://bsky.app/profile/nikkei.com/post/3m6lo7el2au2w)
 
 ---
 
 @sokuho.news
 
-🔔ANNより【速報】です。
+🛎️FNNより【速報】です。
 
-【速報】小川晶市長の退職願を可決 あすから50日以内に市長選へ 前橋市議会
-(2025年11月27日 14:20) #ニュース
+【速報】福井県にインフルエンザ警報 1医療機関当たり43.79人 前週の1.5倍に
+(2025-11-27 14:40) #ニュース
 
-[2025-11-27 14:21:18](https://bsky.app/profile/sokuho.news/post/3m6lmrg2zzb26)
+⬛感染症情報
+🔗https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/infulenza/index.html
 
----
-
-@nhknewsunofficial.bsky.social
-
-自民と維新 政党の資金調達のあり方 第三者委設置し検討で合意
-https://news.web.nhk/newsweb/na/na-k10014987931000
-
-[2025-11-27 14:21:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6lmr5q2o62b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-自民税制調査会 法人税の租税特別措置の扱い議論
-https://news.web.nhk/newsweb/na/na-k10014987911000
-
-[2025-11-27 14:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6lmqznkuw2b)
+[2025-11-27 14:45:44](https://bsky.app/profile/sokuho.news/post/3m6lo54w5yw22)
 
 ---
 
 @reuters.com
 
-Stocks rise on Fed easing hopes, yen locked in intervention zone reut.rs/4oghtCB
+Mexico investigates Miss Universe president for drugs, arms trafficking reut.rs/3XX2en2
 
-[2025-11-27 14:20:12](https://bsky.app/profile/reuters.com/post/3m6lmphz35x2k)
-
----
-
-@bloomberg.com
-
-A fire that broke out in an apartment building in Hong Kong’s suburban Tai Po district on Nov. 26, and engulfed seven towers, has killed dozens and left hundreds missing. Here's what to know ⤵️
-
-[2025-11-27 14:20:10](https://bsky.app/profile/bloomberg.com/post/3m6lmpfunnp2s)
-
----
-
-@wsj.com
-
-Influencers have described propranolol as a magic pill that eases nervous jitters in all kinds of settings.
-
-“It almost seems like a cheat code, if you will.”
-
-Prescriptions are on the rise, especially for young women. 🔗 on.wsj.com/48jLonu
-
-[2025-11-27 14:18:47](https://bsky.app/profile/wsj.com/post/3m6lmmwgudk2i)
+[2025-11-27 14:40:12](https://bsky.app/profile/reuters.com/post/3m6lntabstc2i)
 
 ---
 
 @sokuho.news
 
-🔔防災科研より【強震モニタ】動画です。
+🛎️NNNより【速報】です。
 
-震源:熊本県阿蘇地方, 深さ:10km
-マグニチュード:2.6, 最大震度:1
-📍https://www.google.com/maps?q=33.0,131.1&ll=33.0,131.1&z=7&t=h
-地震発生日時:2025-11-27 14:15頃
-(10倍速▶120s→12s) #地震
+【速報】県内にインフルエンザ警報を発令 過去最速
+(2025-11-27 14:39) #ニュース
 
-[2025-11-27 14:18:34](https://bsky.app/profile/sokuho.news/post/3m6lmmjwv2b2y)
+⬛感染症情報
+🔗https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/infulenza/index.html
+
+[2025-11-27 14:39:26](https://bsky.app/profile/sokuho.news/post/3m6lnrugfee2q)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+小泉防衛相 韓国駐日大使と会談へ 韓国軍のイベント不参加受け
+https://news.web.nhk/newsweb/na/na-k10014987941000
+
+[2025-11-27 14:36:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6lnltzybn2j)
+
+---
+
+@financialtimes.com
+
+ Santa Claus is still a woman on.ft.com/4oocnEr  | opinion
+
+[2025-11-27 14:33:26](https://bsky.app/profile/financialtimes.com/post/3m6lnh4opwo2n)
+
+---
+
+@financialtimes.com
+
+ How GLP-1s changed Thanksgiving on.ft.com/3M13aEu  | opinion
+
+[2025-11-27 14:33:26](https://bsky.app/profile/financialtimes.com/post/3m6lnh54ccy26)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+ICAO 理事会議長に大沼俊之氏 日本人の選出は初
+https://news.web.nhk/newsweb/na/na-k10014987921000
+
+[2025-11-27 14:33:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6lngjfcvu2j)
+
+---
+
+@nikkei.com
+
+【SNSで魅力発信が条件】
+徳島県、大阪からのバス片道無料に（無料記事）
+www.nikkei.com/article/DGXZQO...
+
+利用には予約サイトから先着順による申し込みが必要。
+
+旅行から1週間以内に少なくとも一度はおすすめスポットなど徳島の魅力を伝える投稿をするよう求めます。
+
+[2025-11-27 14:31:00](https://bsky.app/profile/nikkei.com/post/3m6lncr3kap2k)
+
+---
+
+@aljazeera.com
+
+Firefighters struggle to reach residents potentially trapped on upper floors of burning housing complex.
+
+[2025-11-27 14:30:27](https://bsky.app/profile/aljazeera.com/post/3m6lnbrn76z2f)
 
 ---
 
