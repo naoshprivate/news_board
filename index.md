@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Madueke enjoys 'perfect night' after scoring his first Arsenal goal against Bayern reut.rs/3JZ6rnf <a href="https://bsky.app/profile/reuters.com/post/3m6miwitpfg26" target="_blank">reuters.com</a> (2025-11-27 22:45:13)</span><span style="padding-right:50px;">As Washington escalates pressure on Venezuela, any push for regime change risks becoming a costly, dangerous gamble — not the quick fix President Trump might hope for. n.pr/48aVmHq <a href="https://bsky.app/profile/npr.org/post/3m6miv4xrcv2e" target="_blank">npr.org</a> (2025-11-27 22:44:27)</span><span style="padding-right:50px;">LIVE: FBI director on National Guard shooting near White House youtube.com/live/AMUEil2... <a href="https://bsky.app/profile/reuters.com/post/3m6miuljef22t" target="_blank">reuters.com</a> (2025-11-27 22:44:09)</span><span style="padding-right:50px;">What will the Budget mean for your personal finances, taxes and the broader UK economy? Take part in our live Ask an Expert Q&A happening now with the FT’s Stephen Bush, Robert Shrimsley, Claer Barrett and Emma Agyemang on.ft.com/4iqNqGP <a href="https://bsky.app/profile/financialtimes.com/post/3m6miuiiiu42j" target="_blank">financialtimes.com</a> (2025-11-27 22:44:06)</span><span style="padding-right:50px;">A Utah man who was spared execution this fall after developing dementia during his 37 years on death row died of apparent natural causes, according to the state’s Department of Corrections. <a href="https://bsky.app/profile/cnn.com/post/3m6mirxrgs32q" target="_blank">cnn.com</a> (2025-11-27 22:42:41)</span>
+<span style="padding-right:50px;">Two West Virginia National Guard members deployed to Washington, D.C., remain in critical condition after being shot while on patrol just blocks from the White House on Wednesday afternoon. n.pr/4pFSqdj <a href="https://bsky.app/profile/npr.org/post/3m6mkalmpze23" target="_blank">npr.org</a> (2025-11-27 23:08:45)</span><span style="padding-right:50px;">SEC probes Jefferies over its First Brands disclosures on.ft.com/44un1SD <a href="https://bsky.app/profile/financialtimes.com/post/3m6mk75nl3h2v" target="_blank">financialtimes.com</a> (2025-11-27 23:07:57)</span><span style="padding-right:50px;">Pakistan ex-PM Khan's party demands meeting amid health worries reut.rs/3XijKSL <a href="https://bsky.app/profile/reuters.com/post/3m6mk25wokk2k" target="_blank">reuters.com</a> (2025-11-27 23:05:10)</span><span style="padding-right:50px;">ウクライナ侵攻から4回目の冬､ロシア国民に痛み－経済体力に試練 <a href="https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6mjz4v6po2c" target="_blank">bloomberg-jp.bsky.social</a> (2025-11-27 23:04:35)</span><span style="padding-right:50px;">香港高層マンション火災、改修工事の安全基準に疑義－死者55人に <a href="https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6mjyyewth2j" target="_blank">bloomberg-jp.bsky.social</a> (2025-11-27 23:04:30)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50167.10 (🔺298.31 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3138.00 (🔻17.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 156.31 (🔻0.09 : 2025-11-27)</span>
+<span style="padding-right:50px;">NIKKEI: 50167.10 (🔺298.31 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3138.00 (🔻17.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 156.27 (🔻0.12 : 2025-11-27)</span>
   </div>
 </div>
 
@@ -30,85 +30,89 @@
 
 ---
 
-## [2025-11-27 22:50 updated](2025_11_27.md)
-
-@reuters.com
-
-Madueke enjoys 'perfect night' after scoring his first Arsenal goal against Bayern reut.rs/3JZ6rnf
-
-[2025-11-27 22:45:13](https://bsky.app/profile/reuters.com/post/3m6miwitpfg26)
-
----
+## [2025-11-27 23:10 updated](2025_11_27.md)
 
 @npr.org
 
-As Washington escalates pressure on Venezuela, any push for regime change risks becoming a costly, dangerous gamble — not the quick fix President Trump might hope for. n.pr/48aVmHq
+Two West Virginia National Guard members deployed to Washington, D.C., remain in critical condition after being shot while on patrol just blocks from the White House on Wednesday afternoon. n.pr/4pFSqdj
 
-[2025-11-27 22:44:27](https://bsky.app/profile/npr.org/post/3m6miv4xrcv2e)
-
----
-
-@reuters.com
-
-LIVE: FBI director on National Guard shooting near White House youtube.com/live/AMUEil2...
-
-[2025-11-27 22:44:09](https://bsky.app/profile/reuters.com/post/3m6miuljef22t)
+[2025-11-27 23:08:45](https://bsky.app/profile/npr.org/post/3m6mkalmpze23)
 
 ---
 
 @financialtimes.com
 
-What will the Budget mean for your personal finances, taxes and the broader UK economy? Take part in our live Ask an Expert Q&A happening now with the FT’s Stephen Bush, Robert Shrimsley, Claer Barrett and Emma Agyemang on.ft.com/4iqNqGP
+SEC probes Jefferies over its First Brands disclosures on.ft.com/44un1SD
 
-[2025-11-27 22:44:06](https://bsky.app/profile/financialtimes.com/post/3m6miuiiiu42j)
+[2025-11-27 23:07:57](https://bsky.app/profile/financialtimes.com/post/3m6mk75nl3h2v)
 
 ---
 
-@cnn.com
+@reuters.com
 
-A Utah man who was spared execution this fall after developing dementia during his 37 years on death row died of apparent natural causes, according to the state’s Department of Corrections.
+Pakistan ex-PM Khan's party demands meeting amid health worries reut.rs/3XijKSL
 
-[2025-11-27 22:42:41](https://bsky.app/profile/cnn.com/post/3m6mirxrgs32q)
+[2025-11-27 23:05:10](https://bsky.app/profile/reuters.com/post/3m6mk25wokk2k)
+
+---
+
+@bloomberg-jp.bsky.social
+
+ウクライナ侵攻から4回目の冬､ロシア国民に痛み－経済体力に試練
+
+[2025-11-27 23:04:35](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6mjz4v6po2c)
+
+---
+
+@bloomberg-jp.bsky.social
+
+香港高層マンション火災、改修工事の安全基準に疑義－死者55人に
+
+[2025-11-27 23:04:30](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6mjyyewth2j)
+
+---
+
+@usatoday.com
+
+The 99th Macy's Thanksgiving Day Parade returned to the streets of New York, with performances by Cynthia Erivo, Ciara, Gavin DeGraw and more.
+
+[2025-11-27 23:03:07](https://bsky.app/profile/usatoday.com/post/3m6mjwj7yqb2t)
+
+---
+
+@wsj.com
+
+For many Americans taking a weight-loss drug, Thanksgiving presents a conundrum: Take the weekly dose that staves off hunger, or push it off so they can feast?
+
+How GLP-1 users approach Thanksgiving feasts: on.wsj.com/4ruyKL9
+
+[2025-11-27 23:01:57](https://bsky.app/profile/wsj.com/post/3m6mjugcyes2p)
 
 ---
 
 @nbcnews.com
 
-NEW: Performers such as Cynthia Erivo, Lainey Wilson and the stars of the hit Netflix movie “KPop Demon Hunters” join the festivities this year at The 2025 Macy's Thanksgiving Day Parade. 
+A court in Thailand says that it has issued an arrest warrant for a co-owner of the Miss Universe Organization in connection with a fraud case.
 
-[2025-11-27 22:40:23](https://bsky.app/profile/nbcnews.com/post/3m6mintrqfo2y)
-
----
-
-@reuters.com
-
-French appeals trial over 2009 Rio-Paris crash reaches climax reut.rs/4pxPBL5
-
-[2025-11-27 22:40:19](https://bsky.app/profile/reuters.com/post/3m6minq6ycr2a)
-
----
-
-@nytimes.com
-
-Labubu usually lives in Pop Land, a Pop Mart amusement park in Beijing. But like a few million visitors to New York this time of year, she’s in town for the Macy’s Thanksgiving Day Parade, where she is a main attraction aboard a new float.
-
-[2025-11-27 22:40:04](https://bsky.app/profile/nytimes.com/post/3m6minc7utx2y)
+[2025-11-27 23:01:00](https://bsky.app/profile/nbcnews.com/post/3m6mjsq34l72j)
 
 ---
 
 @reuters.com
 
-Apple single-handedly drives Singles' Day smartphone sales growth reut.rs/3Xihzyz
+British globe trekker faces changed world on final leg of 27-year journey reut.rs/4pzHNbB
 
-[2025-11-27 22:35:09](https://bsky.app/profile/reuters.com/post/3m6mieiusdm2n)
+[2025-11-27 23:00:58](https://bsky.app/profile/reuters.com/post/3m6mjsntdc32i)
 
 ---
 
-@cnbc.com
+@usatoday.com
 
-Bank of America expects a meager gain for stocks next year
+The internet is abuzz with discussion of the bodies of “Wicked: For Good” stars, focusing on Ariana Grande, Cynthia Erivo and Michelle Yeoh, with many making assumptions about their health based on their looks. bit.ly/4rCyee6
 
-[2025-11-27 22:34:28](https://bsky.app/profile/cnbc.com/post/3m6midbuu3j2g)
+📸 Universal Pictures
+
+[2025-11-27 23:00:13](https://bsky.app/profile/usatoday.com/post/3m6mjrdeuqp2p)
 
 ---
 
