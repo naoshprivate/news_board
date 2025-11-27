@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">No regrets about moving to Ferrari, says Hamilton reut.rs/4rpIWo2 <a href="https://bsky.app/profile/reuters.com/post/3m6njdjppq72e" target="_blank">reuters.com</a> (2025-11-28 08:25:10)</span><span style="padding-right:50px;">These days, it seems like every brand is fighting for your attention (and money). Let us take the stress out of your shopping. These beauty deals are Wirecutter-approved, genuinely discounted, and worth gifting (including to yourself). nyti.ms/4pqNvN2 <a href="https://bsky.app/profile/nytimes.com/post/3m6njbnelpp2x" target="_blank">nytimes.com</a> (2025-11-28 08:24:07)</span><span style="padding-right:50px;">ミャンマー総選挙まで1か月 軍は批判的言動の取り締まり強める https://news.web.nhk/newsweb/na/na-k10014988361000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6niwtwj272r" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-28 08:18:02)</span><span style="padding-right:50px;">Hong Kong authorities said on Friday the death toll from the city's worst fire in decades had risen to at least 94, with the blaze almost entirely extinguished and rescuers scouring torched high-rise buildings for scores of people still listed as missing.  u.afp.com/Shsh <a href="https://bsky.app/profile/en.afp.com/post/3m6niuiycbz2d" target="_blank">en.afp.com</a> (2025-11-28 08:16:46)</span><span style="padding-right:50px;">UK court lifts BB Energy's injunction on South Sudan oil cargo to allow sale reut.rs/4irmjeL <a href="https://bsky.app/profile/reuters.com/post/3m6nirs4rqa27" target="_blank">reuters.com</a> (2025-11-28 08:15:15)</span>
+<span style="padding-right:50px;">Breaking: National Guard member Sarah Beckstrom, 20, dies after shooting near White House, President Trump said.   Follow live updates: bit.ly/3Mara82 <a href="https://bsky.app/profile/usatoday.com/post/3m6nkmftvgt2j" target="_blank">usatoday.com</a> (2025-11-28 08:48:02)</span><span style="padding-right:50px;">A Champagne that pleases all palates. A highly approachable natural red from Portugal. Our wine expert’s top recommendations for the season of wine gifting. <a href="https://bsky.app/profile/wsj.com/post/3m6nkivuvc42o" target="_blank">wsj.com</a> (2025-11-28 08:46:04)</span><span style="padding-right:50px;">German drone maker Quantum Systems triples valuation after new funding round reut.rs/4pE6kwv <a href="https://bsky.app/profile/reuters.com/post/3m6nkhdvb722i" target="_blank">reuters.com</a> (2025-11-28 08:45:12)</span><span style="padding-right:50px;">10月の有効求人倍率 全国平均で1.18倍 前月を下回る 厚労省 https://news.web.nhk/newsweb/na/na-k10014988521000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6nkh4qzsk2n" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-28 08:45:02)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】東京23区 11月の消費者物価2.8%上昇 新米価格高騰など食料費上昇の影響で (2025-11-28 08:42:31) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6nkfjmaqv2w" target="_blank">sokuho.news</a> (2025-11-28 08:44:11)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50167.10 (🔺298.31 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3138.00 (🔻17.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 156.21 (🔻0.07 : 2025-11-27)</span>
+<span style="padding-right:50px;">NIKKEI: 50167.10 (🔺298.31 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3138.00 (🔻17.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 156.30 (🔺0.03 : 2025-11-27)</span>
   </div>
 </div>
 
@@ -30,87 +30,91 @@
 
 ---
 
-## [2025-11-28 08:30 updated](2025_11_28.md)
+## [2025-11-28 08:50 updated](2025_11_28.md)
 
-@reuters.com
+@usatoday.com
 
-No regrets about moving to Ferrari, says Hamilton reut.rs/4rpIWo2
+<strong><span style="color: red;">Breaking:</span> National Guard member Sarah Beckstrom, 20, dies after shooting near White House, President Trump said. </strong><br><strong></strong><br><strong>Follow live updates: bit.ly/3Mara82</strong>
 
-[2025-11-28 08:25:10](https://bsky.app/profile/reuters.com/post/3m6njdjppq72e)
+[2025-11-28 08:48:02](https://bsky.app/profile/usatoday.com/post/3m6nkmftvgt2j)
 
 ---
 
-@nytimes.com
+@wsj.com
 
-These days, it seems like every brand is fighting for your attention (and money). Let us take the stress out of your shopping. These beauty deals are Wirecutter-approved, genuinely discounted, and worth gifting (including to yourself). nyti.ms/4pqNvN2
+A Champagne that pleases all palates. A highly approachable natural red from Portugal. Our wine expert’s top recommendations for the season of wine gifting.
 
-[2025-11-28 08:24:07](https://bsky.app/profile/nytimes.com/post/3m6njbnelpp2x)
+[2025-11-28 08:46:04](https://bsky.app/profile/wsj.com/post/3m6nkivuvc42o)
+
+---
+
+@reuters.com
+
+German drone maker Quantum Systems triples valuation after new funding round reut.rs/4pE6kwv
+
+[2025-11-28 08:45:12](https://bsky.app/profile/reuters.com/post/3m6nkhdvb722i)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-ミャンマー総選挙まで1か月 軍は批判的言動の取り締まり強める
-https://news.web.nhk/newsweb/na/na-k10014988361000
+10月の有効求人倍率 全国平均で1.18倍 前月を下回る 厚労省
+https://news.web.nhk/newsweb/na/na-k10014988521000
 
-[2025-11-28 08:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6niwtwj272r)
-
----
-
-@en.afp.com
-
-Hong Kong authorities said on Friday the death toll from the city's worst fire in decades had risen to at least 94, with the blaze almost entirely extinguished and rescuers scouring torched high-rise buildings for scores of people still listed as missing. 
-u.afp.com/Shsh
-
-[2025-11-28 08:16:46](https://bsky.app/profile/en.afp.com/post/3m6niuiycbz2d)
+[2025-11-28 08:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6nkh4qzsk2n)
 
 ---
 
-@reuters.com
+@sokuho.news
 
-UK court lifts BB Energy's injunction on South Sudan oil cargo to allow sale reut.rs/4irmjeL
+🛎️JNNより【速報】です。
 
-[2025-11-28 08:15:15](https://bsky.app/profile/reuters.com/post/3m6nirs4rqa27)
+【速報】東京23区 11月の消費者物価2.8%上昇 新米価格高騰など食料費上昇の影響で
+(2025-11-28 08:42:31) #ニュース
 
----
-
-@cnbc.com
-
-Stock futures are little changed, with Nasdaq on pace to end 7-month win streak: Live updates
-
-[2025-11-28 08:12:14](https://bsky.app/profile/cnbc.com/post/3m6nimft3k42r)
+[2025-11-28 08:44:11](https://bsky.app/profile/sokuho.news/post/3m6nkfjmaqv2w)
 
 ---
 
 @reuters.com
 
-Canadian dollar touches 8-day high as current account deficit improves reut.rs/4aebafd
+Five things to know about the gun used in the D.C. National Guard shootings reut.rs/4oeKvSR
 
-[2025-11-28 08:10:11](https://bsky.app/profile/reuters.com/post/3m6niiqwejw26)
+[2025-11-28 08:40:16](https://bsky.app/profile/reuters.com/post/3m6nk6k6bdx2w)
 
 ---
 
-@apnews.com
+@nhknewsunofficial.bsky.social
 
-Firefighters battled a blaze at a Hong Kong high-rise apartment complex for the second day on Thursday, as the death toll rose to 94 in one of the deadliest blazes in the city’s modern history.
+米ワシントン 州兵2人撃たれ重体 容疑者はアフガニスタン国籍
+https://news.web.nhk/newsweb/na/na-k10014988531000
 
-[2025-11-28 08:07:26](https://bsky.app/profile/apnews.com/post/3m6nidsodl62j)
+[2025-11-28 08:39:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6nk4fx75y2r)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+香港 高層住宅火災 94人死亡 犠牲者さらに増えるおそれ
+https://news.web.nhk/newsweb/na/na-k10014988441000
+
+[2025-11-28 08:36:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6njx2c5fc2u)
 
 ---
 
 @reuters.com
 
-Military-related sectors behind Russia's industrial output spike reut.rs/4854Mpj
+AMMA seeks Olympic inclusion for MMA with launch of new global body reut.rs/4pyCbyv
 
-[2025-11-28 08:05:10](https://bsky.app/profile/reuters.com/post/3m6ni7ruz242o)
+[2025-11-28 08:35:10](https://bsky.app/profile/reuters.com/post/3m6njvfssil2k)
 
 ---
 
 @cnn.com
 
-After undergoing surgery, both US Army Specialist Sarah Beckstrom, 20, and US Air Force Staff Sgt. Andrew Wolfe, 24, remain in critical condition, with federal and local authorities, their West Virginia neighbors and their loved ones calling for prayers. https://cnn.it/4pE5Nuw
+Tributes are being paid to a 12-year-old girl who died nine days after a Russian strike on her family’s apartment building in western Ukraine last week.
 
-[2025-11-28 08:01:03](https://bsky.app/profile/cnn.com/post/3m6nhyfzqcy23)
+[2025-11-28 08:31:01](https://bsky.app/profile/cnn.com/post/3m6njnypgcu2q)
 
 ---
 
