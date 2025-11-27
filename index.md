@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">India's Bandhan Bank to sell bad loans, write-offs via bid process reut.rs/4iszvAb <a href="https://bsky.app/profile/reuters.com/post/3m6nafjp5op2a" target="_blank">reuters.com</a> (2025-11-28 05:45:13)</span><span style="padding-right:50px;">We get it: A crisp white tee looks good peeking out of a shirtjacket. It’s also pretty boring.  Here’s how to upgrade your outfits with other pieces in your closet: on.wsj.com/3M7pjkn <a href="https://bsky.app/profile/wsj.com/post/3m6naczenw62i" target="_blank">wsj.com</a> (2025-11-28 05:43:49)</span><span style="padding-right:50px;">US-Palestinian teen freed after nine months in Israeli jail <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6na54ngy22d" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-11-28 05:40:31)</span><span style="padding-right:50px;">Exclusive: MSC, BlackRock bid for Hutchison's Barcelona terminal faces EU probe, source says reut.rs/3KquUSs <a href="https://bsky.app/profile/reuters.com/post/3m6na4qr4sa22" target="_blank">reuters.com</a> (2025-11-28 05:40:19)</span><span style="padding-right:50px;">Egypt's GDP grew by 5.3% in first quarter of 2025/2026 reut.rs/4p6WIKN <a href="https://bsky.app/profile/reuters.com/post/3m6n7tkzhu22k" target="_blank">reuters.com</a> (2025-11-28 05:35:11)</span>
+<span style="padding-right:50px;">The Trump administration will reexamine green cards issued to people from 19 countries "of concern." https://cnn.it/3M1L8C4 <a href="https://bsky.app/profile/cnn.com/post/3m6nbogo2ba2m" target="_blank">cnn.com</a> (2025-11-28 06:08:06)</span><span style="padding-right:50px;">Since its founding in 2017, Anduril Industries has become one of the hottest companies in a crowded field of defense-tech startup.   Its fast-moving approach comes with its share of setbacks. <a href="https://bsky.app/profile/wsj.com/post/3m6nbjtcjbk2p" target="_blank">wsj.com</a> (2025-11-28 06:05:31)</span><span style="padding-right:50px;">Rheinmetall not currently negotiating with VW over Osnabrueck site, CEO says reut.rs/4p33LE2 <a href="https://bsky.app/profile/reuters.com/post/3m6nbj5xou427" target="_blank">reuters.com</a> (2025-11-28 06:05:09)</span><span style="padding-right:50px;">European nations agree 30% boost in three-year space budget reut.rs/48hs2z5 <a href="https://bsky.app/profile/reuters.com/post/3m6nbbwmghi2n" target="_blank">reuters.com</a> (2025-11-28 06:01:06)</span><span style="padding-right:50px;">Russian President Vladimir Putin said that a US plan to end the war in Ukraine could “form the basis for future agreements” but renewed threats to seize more territory by force unless Kyiv withdraws. <a href="https://bsky.app/profile/cnn.com/post/3m6nbbs6szr2b" target="_blank">cnn.com</a> (2025-11-28 06:01:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50167.10 (🔺298.31 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3138.00 (🔻17.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 156.29 (🔻0.11 : 2025-11-27)</span>
+<span style="padding-right:50px;">NIKKEI: 50167.10 (🔺298.31 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3138.00 (🔻17.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 156.30 (🔻0.10 : 2025-11-27)</span>
   </div>
 </div>
 
@@ -30,91 +30,87 @@
 
 ---
 
-## [2025-11-28 05:50 updated](2025_11_28.md)
+## [2025-11-28 06:10 updated](2025_11_28.md)
 
-@reuters.com
+@cnn.com
 
-India's Bandhan Bank to sell bad loans, write-offs via bid process reut.rs/4iszvAb
+The Trump administration will reexamine green cards issued to people from 19 countries "of concern." https://cnn.it/3M1L8C4
 
-[2025-11-28 05:45:13](https://bsky.app/profile/reuters.com/post/3m6nafjp5op2a)
+[2025-11-28 06:08:06](https://bsky.app/profile/cnn.com/post/3m6nbogo2ba2m)
 
 ---
 
 @wsj.com
 
-We get it: A crisp white tee looks good peeking out of a shirtjacket. It’s also pretty boring.
+Since its founding in 2017, Anduril Industries has become one of the hottest companies in a crowded field of defense-tech startup. 
 
-Here’s how to upgrade your outfits with other pieces in your closet: on.wsj.com/3M7pjkn
+Its fast-moving approach comes with its share of setbacks.
 
-[2025-11-28 05:43:49](https://bsky.app/profile/wsj.com/post/3m6naczenw62i)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-US-Palestinian teen freed after nine months in Israeli jail
-
-[2025-11-28 05:40:31](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6na54ngy22d)
+[2025-11-28 06:05:31](https://bsky.app/profile/wsj.com/post/3m6nbjtcjbk2p)
 
 ---
 
 @reuters.com
 
-Exclusive: MSC, BlackRock bid for Hutchison's Barcelona terminal faces EU probe, source says reut.rs/3KquUSs
+Rheinmetall not currently negotiating with VW over Osnabrueck site, CEO says reut.rs/4p33LE2
 
-[2025-11-28 05:40:19](https://bsky.app/profile/reuters.com/post/3m6na4qr4sa22)
+[2025-11-28 06:05:09](https://bsky.app/profile/reuters.com/post/3m6nbj5xou427)
 
 ---
 
 @reuters.com
 
-Egypt's GDP grew by 5.3% in first quarter of 2025/2026 reut.rs/4p6WIKN
+European nations agree 30% boost in three-year space budget reut.rs/48hs2z5
 
-[2025-11-28 05:35:11](https://bsky.app/profile/reuters.com/post/3m6n7tkzhu22k)
+[2025-11-28 06:01:06](https://bsky.app/profile/reuters.com/post/3m6nbbwmghi2n)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@cnn.com
 
-ウナギ国際取引規制の提案否決 日本は資源管理の徹底が必要に
-https://news.web.nhk/newsweb/na/na-k10014988431000
+Russian President Vladimir Putin said that a US plan to end the war in Ukraine could “form the basis for future agreements” but renewed threats to seize more territory by force unless Kyiv withdraws.
 
-[2025-11-28 05:33:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6n7psjs6d24)
+[2025-11-28 06:01:02](https://bsky.app/profile/cnn.com/post/3m6nbbs6szr2b)
+
+---
+
+@cnbc.com
+
+Chanel Rivers moved to London in October 2024 after planning a move on and off since 2019. 
+
+[2025-11-28 06:00:58](https://bsky.app/profile/cnbc.com/post/3m6nbbo3jrw2e)
 
 ---
 
 @usatoday.com
 
-Hong Kong firefighters brought under control a huge blaze in an apartment complex that killed at least 55 and left nearly 300 missing.
+The Nov. 26 attack left both the National Guard members in critical condition, according to FBI Director Kash Patel.
 
-[2025-11-28 05:30:31](https://bsky.app/profile/usatoday.com/post/3m6n7l7zqtg2j)
+[2025-11-28 06:00:55](https://bsky.app/profile/usatoday.com/post/3m6nbbljczi2p)
+
+---
+
+@apnews.com
+
+While the exact cause of the deadly inferno that swept across a Hong Kong apartment complex remains unknown, questions have been raised about the role of the bamboo scaffolding that enveloped the buildings at the time of the fire.
+
+[2025-11-28 06:00:32](https://bsky.app/profile/apnews.com/post/3m6nbaveruv2f)
+
+---
+
+@nbcnews.com
+
+As we visit Hawkins, Indiana, one last time in the final season of Netflix’s “Stranger Things,” fans flock to the town of Jackson, Georgia, the “real” Hawkins, whose tourism helped bring it back from the upside down. 
+
+[2025-11-28 06:00:17](https://bsky.app/profile/nbcnews.com/post/3m6nbahrrli2j)
 
 ---
 
 @aljazeera.com
 
-UN says 32,000 Palestinians forced from their homes in the Israeli-occupied territory with major assault ongoing.
+The decision follows Castillo's failed 2022 bid to dissolve Congress and avoid a third impeachment attempt.
 
-[2025-11-28 05:30:19](https://bsky.app/profile/aljazeera.com/post/3m6n7kv6oly27)
-
----
-
-@washingtonpost.com
-
-With his latest Benoit Blanc movie “Wake Up Dead Man,” Rian Johnson has 'dun it again.
-
-“He’s an incredibly important director, and I don’t mean that lightly,” Daniel Craig says.
-
-[2025-11-28 05:30:06](https://bsky.app/profile/washingtonpost.com/post/3m6n7khwdht23)
-
----
-
-@nhknewsunofficial.bsky.social
-
-スノーボード 三木つばき「目標はオリンピック金メダル」
-https://news.web.nhk/newsweb/na/na-k10014988511000
-
-[2025-11-28 05:30:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6n7khjqud2b)
+[2025-11-28 06:00:14](https://bsky.app/profile/aljazeera.com/post/3m6nbaeejkd2k)
 
 ---
 
