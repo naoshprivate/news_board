@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The OBR’s careless leak has damaged us all on.ft.com/48DvyFi <a href="https://bsky.app/profile/financialtimes.com/post/3m6mekeznpi26" target="_blank">financialtimes.com</a> (2025-11-27 21:26:51)</span><span style="padding-right:50px;">Japan will pay 'painful price' if steps out of line over Taiwan, China military says reut.rs/49EsABD <a href="https://bsky.app/profile/reuters.com/post/3m6mehftnfy22" target="_blank">reuters.com</a> (2025-11-27 21:25:12)</span><span style="padding-right:50px;">Trump bars South Africa from G20 summit on.ft.com/4roH9Q7 <a href="https://bsky.app/profile/financialtimes.com/post/3m6mech6t2426" target="_blank">financialtimes.com</a> (2025-11-27 21:22:25)</span><span style="padding-right:50px;">U.S. adversaries are using President Trump’s eagerness to strike deals as a chance to drive a wedge between the U.S. and its allies and undermine the Washington-led security order. <a href="https://bsky.app/profile/wsj.com/post/3m6me3qa2va2w" target="_blank">wsj.com</a> (2025-11-27 21:18:40)</span><span style="padding-right:50px;">France brings back limited military service with 3,000 volunteers next year <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6me2s2vgx2y" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-11-27 21:18:07)</span>
+<span style="padding-right:50px;">Firefighters battled a blaze at a high-rise residential complex in Hong Kong for the second day, as the death toll rose to 65 in one of the deadliest blazes in the city’s modern history.  Hong Kong leader John Lee said contact had been lost with 279 people earlier Thursday. <a href="https://bsky.app/profile/apnews.com/post/3m6mfqdxom52t" target="_blank">apnews.com</a> (2025-11-27 21:48:05)</span><span style="padding-right:50px;">Guinea-Bissau army general named president a day after apparent coup <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6mfobvthj2h" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-11-27 21:46:56)</span><span style="padding-right:50px;">European shares steady as investors pause after rally; Puma surges on takeover interest reut.rs/3XiecHV <a href="https://bsky.app/profile/reuters.com/post/3m6mfl7vs7326" target="_blank">reuters.com</a> (2025-11-27 21:45:13)</span><span style="padding-right:50px;">With Human Made’s heavily oversubscribed listing, DJ-turned-designer Tomoaki "Nigo" Nagao is transforming Japan’s street culture into an investable asset. Read more: bloom.bg/4ovUzY4  📷️: Francois Durand/Getty Images <a href="https://bsky.app/profile/bloomberg.com/post/3m6mfl3jl5j2i" target="_blank">bloomberg.com</a> (2025-11-27 21:45:09)</span><span style="padding-right:50px;">Surprise! You have a $100 million trust fund. That’s the message at “trust reveal” meetings hosted by wealthy families and advisers around the U.S. <a href="https://bsky.app/profile/wsj.com/post/3m6mfhut4qf2i" target="_blank">wsj.com</a> (2025-11-27 21:43:21)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50167.10 (🔺298.31 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3138.00 (🔻17.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 156.30 (🔻0.09 : 2025-11-27)</span>
+<span style="padding-right:50px;">NIKKEI: 50167.10 (🔺298.31 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3138.00 (🔻17.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 156.38 (🔻0.02 : 2025-11-27)</span>
   </div>
 </div>
 
@@ -30,93 +30,92 @@
 
 ---
 
-## [2025-11-27 21:30 updated](2025_11_27.md)
+## [2025-11-27 21:50 updated](2025_11_27.md)
 
-@financialtimes.com
+@apnews.com
 
-The OBR’s careless leak has damaged us all on.ft.com/48DvyFi
+Firefighters battled a blaze at a high-rise residential complex in Hong Kong for the second day, as the death toll rose to 65 in one of the deadliest blazes in the city’s modern history.
 
-[2025-11-27 21:26:51](https://bsky.app/profile/financialtimes.com/post/3m6mekeznpi26)
+Hong Kong leader John Lee said contact had been lost with 279 people earlier Thursday.
 
----
-
-@reuters.com
-
-Japan will pay 'painful price' if steps out of line over Taiwan, China military says reut.rs/49EsABD
-
-[2025-11-27 21:25:12](https://bsky.app/profile/reuters.com/post/3m6mehftnfy22)
-
----
-
-@financialtimes.com
-
-Trump bars South Africa from G20 summit on.ft.com/4roH9Q7
-
-[2025-11-27 21:22:25](https://bsky.app/profile/financialtimes.com/post/3m6mech6t2426)
-
----
-
-@wsj.com
-
-U.S. adversaries are using President Trump’s eagerness to strike deals as a chance to drive a wedge between the U.S. and its allies and undermine the Washington-led security order.
-
-[2025-11-27 21:18:40](https://bsky.app/profile/wsj.com/post/3m6me3qa2va2w)
+[2025-11-27 21:48:05](https://bsky.app/profile/apnews.com/post/3m6mfqdxom52t)
 
 ---
 
 @bbcnews-world-rss.bsky.social
 
-France brings back limited military service with 3,000 volunteers next year
+Guinea-Bissau army general named president a day after apparent coup
 
-[2025-11-27 21:18:07](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6me2s2vgx2y)
-
----
-
-@nikkei.com
-
-オーストラリアの16歳未満SNS禁止、若者らが施行差し止め請求（無料記事）
-www.nikkei.com/article/DGXZQO...
-
-禁止法が施行されれば、250万人以上の子どもが政治的な対話に参画する権利を「奪われる」と主張しました。
-
-禁止法は2024年に成立。インスタグラムやTikTok、X、ユーチューブなどが対象となっています。
-
-#ニュース
-
-[2025-11-27 21:16:59](https://bsky.app/profile/nikkei.com/post/3m6mdyqdnue2i)
+[2025-11-27 21:46:56](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6mfobvthj2h)
 
 ---
 
 @reuters.com
 
-Venezuela revokes flight rights for six airlines amid escalating US tensions reut.rs/4pnKf5H
+European shares steady as investors pause after rally; Puma surges on takeover interest reut.rs/3XiecHV
 
-[2025-11-27 21:15:14](https://bsky.app/profile/reuters.com/post/3m6mdvllatg27)
+[2025-11-27 21:45:13](https://bsky.app/profile/reuters.com/post/3m6mfl7vs7326)
+
+---
+
+@bloomberg.com
+
+With Human Made’s heavily oversubscribed listing, DJ-turned-designer Tomoaki "Nigo" Nagao is transforming Japan’s street culture into an investable asset. Read more: bloom.bg/4ovUzY4
+
+📷️: Francois Durand/Getty Images
+
+[2025-11-27 21:45:09](https://bsky.app/profile/bloomberg.com/post/3m6mfl3jl5j2i)
+
+---
+
+@wsj.com
+
+Surprise! You have a $100 million trust fund. That’s the message at “trust reveal” meetings hosted by wealthy families and advisers around the U.S.
+
+[2025-11-27 21:43:21](https://bsky.app/profile/wsj.com/post/3m6mfhut4qf2i)
+
+---
+
+@npr.org
+
+In addition to hits already in theaters like Wicked: For Good, this holiday week brings sequels for Zootopia and Knives Out. n.pr/4oe0C33
+
+[2025-11-27 21:43:10](https://bsky.app/profile/npr.org/post/3m6mfhkev7g2s)
+
+---
+
+@reuters.com
+
+EU agrees on new rules for online fraud protection reut.rs/4ro6j17
+
+[2025-11-27 21:40:17](https://bsky.app/profile/reuters.com/post/3m6mfcfbyko2a)
+
+---
+
+@en.afp.com
+
+🇷🇸 Naively brilliant: Serbia's world-famous village painters
+
+Pavel Hajko never tires of painting roosters. Inside his home studio in Kovacica -- a sleepy town in northern Serbia famous for its style of naive art -- the brightly coloured creatures cover the walls ➡️ u.afp.com/ShWA
+
+[2025-11-27 21:36:18](https://bsky.app/profile/en.afp.com/post/3m6mf3aze372e)
+
+---
+
+@reuters.com
+
+Unite Group flags lower 2026 earnings on weak student housing demand, shares slump reut.rs/4ikQTqq
+
+[2025-11-27 21:35:11](https://bsky.app/profile/reuters.com/post/3m6mezb46552k)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-中学の部活動 “地域展開”で新ガイドライン案 国の有識者会議
-https://news.web.nhk/newsweb/na/na-k10014988271000
+アレフ未払いの賠償金差し押さえへ 被害者の支援団体が提訴
+https://news.web.nhk/newsweb/na/na-k10014988321000
 
-[2025-11-27 21:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6mdvcsuhx2p)
-
----
-
-@reuters.com
-
-LIVE: Scene near National Guard members shooting youtube.com/live/Y2_hKe8...
-
-[2025-11-27 21:14:14](https://bsky.app/profile/reuters.com/post/3m6mdtsveok2i)
-
----
-
-@cnbc.com
-
-How Google put together the pieces for its AI comeback
-
-[2025-11-27 21:12:18](https://bsky.app/profile/cnbc.com/post/3m6mdqe3cet2h)
+[2025-11-27 21:33:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6meviahv62u)
 
 ---
 
