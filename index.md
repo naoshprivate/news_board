@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Indian automaker Mahindra launches electric SUV in EV push reut.rs/485mjOf <a href="https://bsky.app/profile/reuters.com/post/3m6lzbq4cmy2i" target="_blank">reuters.com</a> (2025-11-27 18:05:10)</span><span style="padding-right:50px;">Hong Kong’s leader is holding a briefing as the city's deadliest fire in decades kills at least 55.  Follow our live blog for the latest news and analysis <a href="https://bsky.app/profile/bloomberg.com/post/3m6lzb74sa32n" target="_blank">bloomberg.com</a> (2025-11-27 18:04:52)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】鈴木農水相「まずはほっとしている」…ニホンウナギ含むウナギの国際取引の規制案が否決に 日中“連携”「結果を見ればそれが全て」 (2025-11-27 18:02) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6lz4sp5gf2h" target="_blank">sokuho.news</a> (2025-11-27 18:02:25)</span><span style="padding-right:50px;">コラム「ヒットのクスリ」これまでの記事はこちらから www.nikkei.com/topics/1805300... <a href="https://bsky.app/profile/nikkei.com/post/3m6lz2dx5ux2g" target="_blank">nikkei.com</a> (2025-11-27 18:01:02)</span><span style="padding-right:50px;">【おしゃれ度もイナズマ級？】 2万円のブラックサンダースカジャン完売 www.nikkei.com/article/DGXZQO...  うなぎパイのキャリーケースもXでバズり、大ブレーク。  「こういうのがあったら面白いね」  社内で生まれる遊び心が新たなファンを生んでいます。 <a href="https://bsky.app/profile/nikkei.com/post/3m6lz2banhh2j" target="_blank">nikkei.com</a> (2025-11-27 18:01:00)</span>
+<span style="padding-right:50px;">「給付付き税額控除」導入への課題など検討 4党が実務者協議へ https://news.web.nhk/newsweb/na/na-k10014988111000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6m2iwhlji2g" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-27 18:27:03)</span><span style="padding-right:50px;">Tech giant debt splurge ratchets up systemic risks: podcast reut.rs/4roNBXa <a href="https://bsky.app/profile/reuters.com/post/3m6m2fiqqor2w" target="_blank">reuters.com</a> (2025-11-27 18:25:10)</span><span style="padding-right:50px;">South Africa's Cyril Ramaphosa hits back after Donald Trump says US won't invite it for G20 summit <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6m2ez3ywz2y" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-11-27 18:24:53)</span><span style="padding-right:50px;">President Trump has enlisted JD Vance’s Yale classmate—Army Secretary Dan Driscoll—to handle high-stakes diplomacy in the Ukraine war peace talks. <a href="https://bsky.app/profile/wsj.com/post/3m6m2aanhsb2h" target="_blank">wsj.com</a> (2025-11-27 18:22:14)</span><span style="padding-right:50px;">#UPDATE A Turkish court on Thursday acquitted four journalists, including AFP photographer Yasin Akgul, who were on trial over mass demonstrations in Istanbul in March, according to an AFP journalist inside the courtroom ➡️ u.afp.com/ShPP <a href="https://bsky.app/profile/en.afp.com/post/3m6m22gdz5c2q" target="_blank">en.afp.com</a> (2025-11-27 18:18:59)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50167.10 (🔺298.31 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3138.00 (🔻17.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 156.35 (🔻0.05 : 2025-11-27)</span>
+<span style="padding-right:50px;">NIKKEI: 50167.10 (🔺298.31 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3138.00 (🔻17.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 156.40 (🔻0.00 : 2025-11-27)</span>
   </div>
 </div>
 
@@ -30,107 +30,89 @@
 
 ---
 
-## [2025-11-27 18:10 updated](2025_11_27.md)
+## [2025-11-27 18:30 updated](2025_11_27.md)
 
-@reuters.com
+@nhknewsunofficial.bsky.social
 
-Indian automaker Mahindra launches electric SUV in EV push reut.rs/485mjOf
+「給付付き税額控除」導入への課題など検討 4党が実務者協議へ
+https://news.web.nhk/newsweb/na/na-k10014988111000
 
-[2025-11-27 18:05:10](https://bsky.app/profile/reuters.com/post/3m6lzbq4cmy2i)
-
----
-
-@bloomberg.com
-
-Hong Kong’s leader is holding a briefing as the city's deadliest fire in decades kills at least 55.
-
-Follow our live blog for the latest news and analysis
-
-[2025-11-27 18:04:52](https://bsky.app/profile/bloomberg.com/post/3m6lzb74sa32n)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】鈴木農水相「まずはほっとしている」…ニホンウナギ含むウナギの国際取引の規制案が否決に 日中“連携”「結果を見ればそれが全て」
-(2025-11-27 18:02) #ニュース
-
-[2025-11-27 18:02:25](https://bsky.app/profile/sokuho.news/post/3m6lz4sp5gf2h)
-
----
-
-@nikkei.com
-
-コラム「ヒットのクスリ」これまでの記事はこちらから
-www.nikkei.com/topics/1805300...
-
-[2025-11-27 18:01:02](https://bsky.app/profile/nikkei.com/post/3m6lz2dx5ux2g)
-
----
-
-@nikkei.com
-
-【おしゃれ度もイナズマ級？】
-2万円のブラックサンダースカジャン完売
-www.nikkei.com/article/DGXZQO...
-
-うなぎパイのキャリーケースもXでバズり、大ブレーク。
-
-「こういうのがあったら面白いね」
-
-社内で生まれる遊び心が新たなファンを生んでいます。
-
-[2025-11-27 18:01:00](https://bsky.app/profile/nikkei.com/post/3m6lz2banhh2j)
+[2025-11-27 18:27:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6m2iwhlji2g)
 
 ---
 
 @reuters.com
 
-China regulator issues competition compliance guidance for smartphone industry reut.rs/4rmoTGT
+Tech giant debt splurge ratchets up systemic risks: podcast reut.rs/4roNBXa
 
-[2025-11-27 18:00:29](https://bsky.app/profile/reuters.com/post/3m6lyzdugwv2y)
-
----
-
-@cnbc.com
-
-Stephanie Venn-Watson helped discover an essential fatty acid, C15:0, which is often called the longevity nutrient.
-
-Here's how she gets more of it in her diet.
-
-[2025-11-27 18:00:27](https://bsky.app/profile/cnbc.com/post/3m6lyzc5ucy2a)
+[2025-11-27 18:25:10](https://bsky.app/profile/reuters.com/post/3m6m2fiqqor2w)
 
 ---
 
-@aljazeera.com
+@bbcnews-world-rss.bsky.social
 
-Up to 8,000 people across North Sumatra have been evacuated and roads remain blocked by landslide debris.
+South Africa's Cyril Ramaphosa hits back after Donald Trump says US won't invite it for G20 summit
 
-[2025-11-27 18:00:17](https://bsky.app/profile/aljazeera.com/post/3m6lyyysvuc2x)
+[2025-11-27 18:24:53](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6m2ez3ywz2y)
 
 ---
 
-@sokuho.news
+@wsj.com
 
-🛎️JNNより【速報】です。
+President Trump has enlisted JD Vance’s Yale classmate—Army Secretary Dan Driscoll—to handle high-stakes diplomacy in the Ukraine war peace talks.
 
-【速報】「感情を抑えきれなくなった」青森県議会の今博 県議 同会派の鶴賀谷貴 県議の胸ぐらをつかみ軽いけがをさせていた 県議選に関する話し合いで… 今 県議は暴力行為の事実認める
-(2025-11-27 17:52:00) #ニュース
-
-[2025-11-27 17:59:36](https://bsky.app/profile/sokuho.news/post/3m6lyxrfo6322)
+[2025-11-27 18:22:14](https://bsky.app/profile/wsj.com/post/3m6m2aanhsb2h)
 
 ---
 
 @en.afp.com
 
-High-flying tech hits potholes in India's Silicon Valley.
+#UPDATE A Turkish court on Thursday acquitted four journalists, including AFP photographer Yasin Akgul, who were on trial over mass demonstrations in Istanbul in March, according to an AFP journalist inside the courtroom ➡️ u.afp.com/ShPP
 
-In India's tech capital Bengaluru, the morning "rush hour" lasts so long it devours half the workday, throttling productivity in a city often viewed as the poster child of a booming economy
-u.afp.com/Shdu
+[2025-11-27 18:18:59](https://bsky.app/profile/en.afp.com/post/3m6m22gdz5c2q)
 
-[2025-11-27 17:59:03](https://bsky.app/profile/en.afp.com/post/3m6lyws42wa2j)
+---
+
+@nhknewsunofficial.bsky.social
+
+木原官房長官 日米電話会談めぐり 米有力紙の記事を一部否定
+https://news.web.nhk/newsweb/na/na-k10014988101000
+
+[2025-11-27 18:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6lzysvcbf2p)
+
+---
+
+@reuters.com
+
+JP Morgan shifts outlook on Fed rate cut to December reut.rs/4rG3pVZ
+
+[2025-11-27 18:15:12](https://bsky.app/profile/reuters.com/post/3m6lztorlej2w)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+円相場 小幅な値動き
+https://news.web.nhk/newsweb/na/na-k10014988121000
+
+[2025-11-27 18:15:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6lztljwmt2n)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+片山財務相 密輸した金を税関で没収など緊急対策を指示
+https://news.web.nhk/newsweb/na/na-k10014988081000
+
+[2025-11-27 18:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6lztgr63e2b)
+
+---
+
+@cnbc.com
+
+Alibaba's AI glasses to rival Meta go on sale for $500
+
+[2025-11-27 18:14:12](https://bsky.app/profile/cnbc.com/post/3m6lzruksqi2y)
 
 ---
 
