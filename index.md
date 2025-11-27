@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Breaking: The suspect in the shooting of two National Guardsmen near the White House is a 29-year-old  Afghan national, law enforcement officials say. <a href="https://bsky.app/profile/wsj.com/post/3m6lbq6ioei2j" target="_blank">wsj.com</a> (2025-11-27 11:03:45)</span><span style="padding-right:50px;">トランプ氏、高市氏に台湾巡り中国を刺激しないよう助言－WSJ <a href="https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6lbpilc7y25" target="_blank">bloomberg-jp.bsky.social</a> (2025-11-27 11:03:22)</span><span style="padding-right:50px;">米中の技術研究協力、20年ぶり低水準－イノベーション構造に変化も <a href="https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6lbpe5ikb2r" target="_blank">bloomberg-jp.bsky.social</a> (2025-11-27 11:03:17)</span><span style="padding-right:50px;">【日本市況】株式続伸、米株高好感し電機や金融に買い－債券先物上昇 <a href="https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6lbp7zj5v2l" target="_blank">bloomberg-jp.bsky.social</a> (2025-11-27 11:03:13)</span><span style="padding-right:50px;">オラクルの信用リスク、金融危機時を上回る恐れ－AI巨額投資に不安 <a href="https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6lbp3kux52v" target="_blank">bloomberg-jp.bsky.social</a> (2025-11-27 11:03:08)</span>
+<span style="padding-right:50px;">Hong Kong police arrest three as apartment fire death toll rises to 44,  hundreds missing reut.rs/49Dv9nt <a href="https://bsky.app/profile/reuters.com/post/3m6lcnnsipx2w" target="_blank">reuters.com</a> (2025-11-27 11:20:14)</span><span style="padding-right:50px;">Readers really, really love this chopped salad from Lidey Heuck. It has ⭐ ⭐ ⭐ ⭐ ⭐ and more than 8,000 reviews. Get the recipe: nyti.ms/4iiuVEt <a href="https://bsky.app/profile/nytimes.com/post/3m6lcneggho2w" target="_blank">nytimes.com</a> (2025-11-27 11:20:04)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】アサヒGHD サイバー攻撃での個人情報流出 計191万件余に上る可能性 (2025年11月27日 11:16) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6lchrz6xt2q" target="_blank">sokuho.news</a> (2025-11-27 11:16:57)</span><span style="padding-right:50px;">【ライブ】アサヒGHD会見“190万件超の個人情報 外部流出か” https://news.web.nhk/newsweb/na/na-k10014987731000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6lcegqgzv26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-27 11:15:03)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】福岡県がインフルエンザ警報を発表 (2025-11-27 11:12) #ニュース  ⬛感染症情報 🔗https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/infulenza/index.html <a href="https://bsky.app/profile/sokuho.news/post/3m6lc7swwlj2q" target="_blank">sokuho.news</a> (2025-11-27 11:12:30)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50229.72 (🔺360.93 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3140.00 (🔻15.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 155.95 (🔻0.45 : 2025-11-27)</span>
+<span style="padding-right:50px;">NIKKEI: 50152.45 (🔺283.66 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3132.00 (🔻23.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 156.12 (🔻0.28 : 2025-11-27)</span>
   </div>
 </div>
 
@@ -30,7 +30,65 @@
 
 ---
 
-## [2025-11-27 11:10 updated](2025_11_27.md)
+## [2025-11-27 11:30 updated](2025_11_27.md)
+
+@reuters.com
+
+Hong Kong police arrest three as apartment fire death toll rises to 44,  hundreds missing reut.rs/49Dv9nt
+
+[2025-11-27 11:20:14](https://bsky.app/profile/reuters.com/post/3m6lcnnsipx2w)
+
+---
+
+@nytimes.com
+
+Readers really, really love this chopped salad from Lidey Heuck. It has ⭐ ⭐ ⭐ ⭐ ⭐ and more than 8,000 reviews. Get the recipe: nyti.ms/4iiuVEt
+
+[2025-11-27 11:20:04](https://bsky.app/profile/nytimes.com/post/3m6lcneggho2w)
+
+---
+
+@sokuho.news
+
+🔔ANNより【速報】です。
+
+【速報】アサヒGHD サイバー攻撃での個人情報流出 計191万件余に上る可能性
+(2025年11月27日 11:16) #ニュース
+
+[2025-11-27 11:16:57](https://bsky.app/profile/sokuho.news/post/3m6lchrz6xt2q)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【ライブ】アサヒGHD会見“190万件超の個人情報 外部流出か”
+https://news.web.nhk/newsweb/na/na-k10014987731000
+
+[2025-11-27 11:15:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6lcegqgzv26)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】福岡県がインフルエンザ警報を発表
+(2025-11-27 11:12) #ニュース
+
+⬛感染症情報
+🔗https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/infulenza/index.html
+
+[2025-11-27 11:12:30](https://bsky.app/profile/sokuho.news/post/3m6lc7swwlj2q)
+
+---
+
+@reuters.com
+
+Boeing to build Apache helicopters for Poland as part of $4.7 billion contract reut.rs/485neOG
+
+[2025-11-27 11:10:13](https://bsky.app/profile/reuters.com/post/3m6lc3quj7x2w)
+
+---
 
 @wsj.com
 
@@ -61,56 +119,6 @@
 【日本市況】株式続伸、米株高好感し電機や金融に買い－債券先物上昇
 
 [2025-11-27 11:03:13](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6lbp7zj5v2l)
-
----
-
-@bloomberg-jp.bsky.social
-
-オラクルの信用リスク、金融危機時を上回る恐れ－AI巨額投資に不安
-
-[2025-11-27 11:03:08](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6lbp3kux52v)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【ライブ】アサヒGHDが記者会見 サイバー攻撃の調査結果を公表
-https://news.web.nhk/newsweb/na/na-k10014987731000
-
-[2025-11-27 11:03:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6lbp3srzt2g)
-
----
-
-@bloomberg-jp.bsky.social
-
-日本株続伸へ、米国株高を好感し電機や金融に買い－AI関連も上昇公算
-
-[2025-11-27 11:03:04](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6lboxogtz2c)
-
----
-
-@nhknewsunofficial.bsky.social
-
-政府 今年度の補正予算案 総額は約18兆3000億円の見通し
-https://news.web.nhk/newsweb/na/na-k10014987751000
-
-[2025-11-27 11:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6lboxhov62t)
-
----
-
-@bloomberg-jp.bsky.social
-
-【米国市況】株続伸、エヌビディアなどテク主導－利下げ期待が支えに
-
-[2025-11-27 11:03:00](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6lbotk2wn2l)
-
----
-
-@bloomberg-jp.bsky.social
-
-大阪ガス社長「北米での天然ガス事業に注力」データセンター需要狙う
-
-[2025-11-27 11:02:55](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6lbop2ltm2q)
 
 ---
 
