@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">European nations to fund military-grade surveillance network in space on.ft.com/4isSJFQ <a href="https://bsky.app/profile/financialtimes.com/post/3m6mys34dom26" target="_blank">financialtimes.com</a> (2025-11-28 03:29:04)</span><span style="padding-right:50px;">ECB accounts show no hurry to cut rates, debate on declaring end of easing reut.rs/4p6P8Ql <a href="https://bsky.app/profile/reuters.com/post/3m6myl2fwap2i" target="_blank">reuters.com</a> (2025-11-28 03:25:09)</span><span style="padding-right:50px;">The Macy's Thanksgiving Day Parade marched back into town for another year of supersized floats, holiday cheer and star-studded performances. bit.ly/4a1sVP5  📸: Getty Images, AFP via Getty images <a href="https://bsky.app/profile/usatoday.com/post/3m6myfuyi7g2m" target="_blank">usatoday.com</a> (2025-11-28 03:22:15)</span><span style="padding-right:50px;">U.S. proposals to end the war between Russia and Ukraine offer a starting point for talks, Russian President Vladimir Putin said. <a href="https://bsky.app/profile/cbsnews.com/post/3m6myctwl5t2h" target="_blank">cbsnews.com</a> (2025-11-28 03:20:33)</span><span style="padding-right:50px;">A 29-year-old Afghan national drove across the country from Washington state to the nation’s capital and shot two National Guard members in an ambush Wednesday afternoon near the White House, said federal authorities.  Here’s what to know: <a href="https://bsky.app/profile/washingtonpost.com/post/3m6mybhukna2g" target="_blank">washingtonpost.com</a> (2025-11-28 03:19:47)</span>
+<span style="padding-right:50px;">Trafigura says Gupta pilfered funds from metals fraud for his distressed firms reut.rs/3XRAMqO <a href="https://bsky.app/profile/reuters.com/post/3m6mzoyo4ff2i" target="_blank">reuters.com</a> (2025-11-28 03:45:15)</span><span style="padding-right:50px;">Two members of the West Virginia National Guard remained in critical condition in a hospital on Thursday, officials said, a day after they were ambushed just a few blocks from the White House. The father of one of the Guard members said his daughter had a “mortal wound.” <a href="https://bsky.app/profile/nytimes.com/post/3m6mzn5u7ci2e" target="_blank">nytimes.com</a> (2025-11-28 03:44:13)</span><span style="padding-right:50px;"> Walmart reinvents itself as a growth stock on.ft.com/49JrZi6  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m6mzgd5rhg2l" target="_blank">financialtimes.com</a> (2025-11-28 03:40:24)</span><span style="padding-right:50px;">Newcastle say French police assaulted several of their fans after loss at Marseille reut.rs/3Kmo7cl <a href="https://bsky.app/profile/reuters.com/post/3m6mzg54q2x2e" target="_blank">reuters.com</a> (2025-11-28 03:40:18)</span><span style="padding-right:50px;">Jimmie Duncan was released on bond in Louisiana after evidence used to convict him in the murder of his former girlfriend's daughter was discredited.  <a href="https://bsky.app/profile/cbsnews.com/post/3m6mzfmnwql2u" target="_blank">cbsnews.com</a> (2025-11-28 03:40:00)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50167.10 (🔺298.31 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3138.00 (🔻17.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 156.37 (🔻0.03 : 2025-11-27)</span>
+<span style="padding-right:50px;">NIKKEI: 50167.10 (🔺298.31 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3138.00 (🔻17.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 156.35 (🔻0.05 : 2025-11-27)</span>
   </div>
 </div>
 
@@ -30,89 +30,85 @@
 
 ---
 
-## [2025-11-28 03:30 updated](2025_11_28.md)
-
-@financialtimes.com
-
-European nations to fund military-grade surveillance network in space on.ft.com/4isSJFQ
-
-[2025-11-28 03:29:04](https://bsky.app/profile/financialtimes.com/post/3m6mys34dom26)
-
----
+## [2025-11-28 03:50 updated](2025_11_28.md)
 
 @reuters.com
 
-ECB accounts show no hurry to cut rates, debate on declaring end of easing reut.rs/4p6P8Ql
+Trafigura says Gupta pilfered funds from metals fraud for his distressed firms reut.rs/3XRAMqO
 
-[2025-11-28 03:25:09](https://bsky.app/profile/reuters.com/post/3m6myl2fwap2i)
-
----
-
-@usatoday.com
-
-The Macy's Thanksgiving Day Parade marched back into town for another year of supersized floats, holiday cheer and star-studded performances. bit.ly/4a1sVP5
-
-📸: Getty Images, AFP via Getty images
-
-[2025-11-28 03:22:15](https://bsky.app/profile/usatoday.com/post/3m6myfuyi7g2m)
-
----
-
-@cbsnews.com
-
-U.S. proposals to end the war between Russia and Ukraine offer a starting point for talks, Russian President Vladimir Putin said.
-
-[2025-11-28 03:20:33](https://bsky.app/profile/cbsnews.com/post/3m6myctwl5t2h)
-
----
-
-@washingtonpost.com
-
-A 29-year-old Afghan national drove across the country from Washington state to the nation’s capital and shot two National Guard members in an ambush Wednesday afternoon near the White House, said federal authorities.
-
-Here’s what to know:
-
-[2025-11-28 03:19:47](https://bsky.app/profile/washingtonpost.com/post/3m6mybhukna2g)
+[2025-11-28 03:45:15](https://bsky.app/profile/reuters.com/post/3m6mzoyo4ff2i)
 
 ---
 
 @nytimes.com
 
-These stunning cookies would be a gorgeous addition to any holiday cookie assortment. The glass-like centers are made from crushed hard candies that melt in the heat of the oven. nyti.ms/43Q21pr
+Two members of the West Virginia National Guard remained in critical condition in a hospital on Thursday, officials said, a day after they were ambushed just a few blocks from the White House. The father of one of the Guard members said his daughter had a “mortal wound.”
 
-[2025-11-28 03:16:05](https://bsky.app/profile/nytimes.com/post/3m6my2tpxuq2y)
-
----
-
-@reuters.com
-
-Bolivia's bread shortage highlights subsidy reform challenge reut.rs/4psQ15w
-
-[2025-11-28 03:15:16](https://bsky.app/profile/reuters.com/post/3m6mxzffzmd27)
-
----
-
-@wsj.com
-
-French President Emmanuel Macron is resurrecting the concept of military service as a rite of passage for young people, part of a broader push to put Europe on a war footing.
-
-[2025-11-28 03:12:05](https://bsky.app/profile/wsj.com/post/3m6mxtp22xx2p)
-
----
-
-@reuters.com
-
-How JPMorgan's planned London tower ranks among Europe's biggest buildings reut.rs/3KoQKFU
-
-[2025-11-28 03:10:13](https://bsky.app/profile/reuters.com/post/3m6mxqee4xp26)
+[2025-11-28 03:44:13](https://bsky.app/profile/nytimes.com/post/3m6mzn5u7ci2e)
 
 ---
 
 @financialtimes.com
 
- The UK’s new gambling tax ups the odds of M&A on.ft.com/4oEv7zH  | opinion
+ Walmart reinvents itself as a growth stock on.ft.com/49JrZi6  | opinion
 
-[2025-11-28 03:08:49](https://bsky.app/profile/financialtimes.com/post/3m6mxnug3kd2r)
+[2025-11-28 03:40:24](https://bsky.app/profile/financialtimes.com/post/3m6mzgd5rhg2l)
+
+---
+
+@reuters.com
+
+Newcastle say French police assaulted several of their fans after loss at Marseille reut.rs/3Kmo7cl
+
+[2025-11-28 03:40:18](https://bsky.app/profile/reuters.com/post/3m6mzg54q2x2e)
+
+---
+
+@cbsnews.com
+
+Jimmie Duncan was released on bond in Louisiana after evidence used to convict him in the murder of his former girlfriend's daughter was discredited. 
+
+[2025-11-28 03:40:00](https://bsky.app/profile/cbsnews.com/post/3m6mzfmnwql2u)
+
+---
+
+@reuters.com
+
+EU watchdog accuses Commission of lack of transparency in 'urgent' proposals reut.rs/4p1zB47
+
+[2025-11-28 03:35:09](https://bsky.app/profile/reuters.com/post/3m6mz4xg2we2i)
+
+---
+
+@nytimes.com
+
+A strong, 6.0-magnitude earthquake struck in Alaska on Thursday, according to the USGS.
+
+[2025-11-28 03:35:08](https://bsky.app/profile/nytimes.com/post/3m6mz4w656n2e)
+
+---
+
+@usatoday.com
+
+Some forecasters say a complex dance involving the polar vortex could send some of Earth's most extreme cold toward the United States.
+
+[2025-11-28 03:32:27](https://bsky.app/profile/usatoday.com/post/3m6myy4fhsb2z)
+
+---
+
+@financialtimes.com
+
+Legislation for a crucial £4.8bn tax rise through salary sacrifice schemes is expected to be introduced before Christmas, even though it will not take effect until April 2029, officials said. on.ft.com/4rtTLpe
+
+[2025-11-28 03:32:05](https://bsky.app/profile/financialtimes.com/post/3m6myxhpilo2q)
+
+---
+
+@aljazeera.com
+
+Russian leader says Ukraine must cede key territory and the world must recognise Russia’s gains.
+
+[2025-11-28 03:30:39](https://bsky.app/profile/aljazeera.com/post/3m6myuvmpq623)
 
 ---
 
