@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">UPDATE Man suspected of shooting two National Guard soldiers near the White House is an Afghan national who had served alongside American troops in Afghanistan, US media report  u.afp.com/ShPp <a href="https://bsky.app/profile/en.afp.com/post/3m6ly6jsfev2p" target="_blank">en.afp.com</a> (2025-11-27 17:45:29)</span><span style="padding-right:50px;">Morning Bid: Is the dollar headed for the carvery? reut.rs/4odTyU5 <a href="https://bsky.app/profile/reuters.com/post/3m6ly5zo6nm2d" target="_blank">reuters.com</a> (2025-11-27 17:45:12)</span><span style="padding-right:50px;">Taiwan says it has discussed with US arms purchases for extra defence budget reut.rs/3M4qvoG <a href="https://bsky.app/profile/reuters.com/post/3m6lxv23lup22" target="_blank">reuters.com</a> (2025-11-27 17:40:10)</span><span style="padding-right:50px;">熊本 阿蘇 “震度5強地震”観光への影響広がりなく 市は安堵 https://news.web.nhk/newsweb/na/na-k10014988061000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6lxo43l7523" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-27 17:36:02)</span><span style="padding-right:50px;">China's tech giants move AI model training overseas to access Nvidia chips, FT reports reut.rs/48jJHGx <a href="https://bsky.app/profile/reuters.com/post/3m6lxm3kxms2r" target="_blank">reuters.com</a> (2025-11-27 17:35:10)</span>
+<span style="padding-right:50px;">Indian automaker Mahindra launches electric SUV in EV push reut.rs/485mjOf <a href="https://bsky.app/profile/reuters.com/post/3m6lzbq4cmy2i" target="_blank">reuters.com</a> (2025-11-27 18:05:10)</span><span style="padding-right:50px;">Hong Kong’s leader is holding a briefing as the city's deadliest fire in decades kills at least 55.  Follow our live blog for the latest news and analysis <a href="https://bsky.app/profile/bloomberg.com/post/3m6lzb74sa32n" target="_blank">bloomberg.com</a> (2025-11-27 18:04:52)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】鈴木農水相「まずはほっとしている」…ニホンウナギ含むウナギの国際取引の規制案が否決に 日中“連携”「結果を見ればそれが全て」 (2025-11-27 18:02) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6lz4sp5gf2h" target="_blank">sokuho.news</a> (2025-11-27 18:02:25)</span><span style="padding-right:50px;">コラム「ヒットのクスリ」これまでの記事はこちらから www.nikkei.com/topics/1805300... <a href="https://bsky.app/profile/nikkei.com/post/3m6lz2dx5ux2g" target="_blank">nikkei.com</a> (2025-11-27 18:01:02)</span><span style="padding-right:50px;">【おしゃれ度もイナズマ級？】 2万円のブラックサンダースカジャン完売 www.nikkei.com/article/DGXZQO...  うなぎパイのキャリーケースもXでバズり、大ブレーク。  「こういうのがあったら面白いね」  社内で生まれる遊び心が新たなファンを生んでいます。 <a href="https://bsky.app/profile/nikkei.com/post/3m6lz2banhh2j" target="_blank">nikkei.com</a> (2025-11-27 18:01:00)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50167.10 (🔺298.31 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3138.00 (🔻17.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 156.29 (🔻0.11 : 2025-11-27)</span>
+<span style="padding-right:50px;">NIKKEI: 50167.10 (🔺298.31 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3138.00 (🔻17.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 156.35 (🔻0.05 : 2025-11-27)</span>
   </div>
 </div>
 
@@ -30,98 +30,107 @@
 
 ---
 
-## [2025-11-27 17:50 updated](2025_11_27.md)
-
-@en.afp.com
-
-UPDATE Man suspected of shooting two National Guard soldiers near the White House is an Afghan national who had served alongside American troops in Afghanistan, US media report
-
-u.afp.com/ShPp
-
-[2025-11-27 17:45:29](https://bsky.app/profile/en.afp.com/post/3m6ly6jsfev2p)
-
----
+## [2025-11-27 18:10 updated](2025_11_27.md)
 
 @reuters.com
 
-Morning Bid: Is the dollar headed for the carvery? reut.rs/4odTyU5
+Indian automaker Mahindra launches electric SUV in EV push reut.rs/485mjOf
 
-[2025-11-27 17:45:12](https://bsky.app/profile/reuters.com/post/3m6ly5zo6nm2d)
-
----
-
-@reuters.com
-
-Taiwan says it has discussed with US arms purchases for extra defence budget reut.rs/3M4qvoG
-
-[2025-11-27 17:40:10](https://bsky.app/profile/reuters.com/post/3m6lxv23lup22)
+[2025-11-27 18:05:10](https://bsky.app/profile/reuters.com/post/3m6lzbq4cmy2i)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@bloomberg.com
 
-熊本 阿蘇 “震度5強地震”観光への影響広がりなく 市は安堵
-https://news.web.nhk/newsweb/na/na-k10014988061000
+Hong Kong’s leader is holding a briefing as the city's deadliest fire in decades kills at least 55.
 
-[2025-11-27 17:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6lxo43l7523)
+Follow our live blog for the latest news and analysis
 
----
-
-@reuters.com
-
-China's tech giants move AI model training overseas to access Nvidia chips, FT reports reut.rs/48jJHGx
-
-[2025-11-27 17:35:10](https://bsky.app/profile/reuters.com/post/3m6lxm3kxms2r)
+[2025-11-27 18:04:52](https://bsky.app/profile/bloomberg.com/post/3m6lzb74sa32n)
 
 ---
 
-@en.afp.com
+@sokuho.news
 
-UPDATE  At least 55 dead, over 250 missing after Hong Kong's deadliest blaze in decades.
+🛎️FNNより【速報】です。
 
-Over 24 hours after fire broke out in the eight-building housing estate with 2,000 units, flames were still visible in some windows 
+【速報】鈴木農水相「まずはほっとしている」…ニホンウナギ含むウナギの国際取引の規制案が否決に 日中“連携”「結果を見ればそれが全て」
+(2025-11-27 18:02) #ニュース
 
-u.afp.com/Shdn
-
-[2025-11-27 17:32:23](https://bsky.app/profile/en.afp.com/post/3m6lxh3yy7o2x)
+[2025-11-27 18:02:25](https://bsky.app/profile/sokuho.news/post/3m6lz4sp5gf2h)
 
 ---
 
 @nikkei.com
 
-【中堅は最大60万円】
-住友生命、転勤手当引き上げ（無料記事）
+コラム「ヒットのクスリ」これまでの記事はこちらから
+www.nikkei.com/topics/1805300...
+
+[2025-11-27 18:01:02](https://bsky.app/profile/nikkei.com/post/3m6lz2dx5ux2g)
+
+---
+
+@nikkei.com
+
+【おしゃれ度もイナズマ級？】
+2万円のブラックサンダースカジャン完売
 www.nikkei.com/article/DGXZQO...
 
-転勤後の3年間にわたって年2回の賞与に10万円ずつ上乗せします。
+うなぎパイのキャリーケースもXでバズり、大ブレーク。
 
-現行制度は資格に応じて5万円から7万5000円の手当を支給していました。転勤による離職を防ぐ狙いです。
+「こういうのがあったら面白いね」
 
-[2025-11-27 17:30:59](https://bsky.app/profile/nikkei.com/post/3m6lxelr7o62t)
+社内で生まれる遊び心が新たなファンを生んでいます。
+
+[2025-11-27 18:01:00](https://bsky.app/profile/nikkei.com/post/3m6lz2banhh2j)
 
 ---
 
 @reuters.com
 
-LIVE: Fire engulfs residential buildings in Hong Kong youtube.com/live/S-Np4rj...
+China regulator issues competition compliance guidance for smartphone industry reut.rs/4rmoTGT
 
-[2025-11-27 17:30:36](https://bsky.app/profile/reuters.com/post/3m6lxdw6duc2z)
+[2025-11-27 18:00:29](https://bsky.app/profile/reuters.com/post/3m6lyzdugwv2y)
+
+---
+
+@cnbc.com
+
+Stephanie Venn-Watson helped discover an essential fatty acid, C15:0, which is often called the longevity nutrient.
+
+Here's how she gets more of it in her diet.
+
+[2025-11-27 18:00:27](https://bsky.app/profile/cnbc.com/post/3m6lyzc5ucy2a)
 
 ---
 
 @aljazeera.com
 
-First American pope will arrive in the Turkish capital Ankara where he will meet President Erdogan.
+Up to 8,000 people across North Sumatra have been evacuated and roads remain blocked by landslide debris.
 
-[2025-11-27 17:30:12](https://bsky.app/profile/aljazeera.com/post/3m6lxd7tgim2f)
+[2025-11-27 18:00:17](https://bsky.app/profile/aljazeera.com/post/3m6lyyysvuc2x)
 
 ---
 
-@apnews.com
+@sokuho.news
 
-Free-agent pitcher Dylan Cease and the Toronto Blue Jays have agreed to a $210 million, seven-year contract, a person familiar with the negotiations tells The Associated Press.
+🛎️JNNより【速報】です。
 
-[2025-11-27 17:30:11](https://bsky.app/profile/apnews.com/post/3m6lxd6fop72h)
+【速報】「感情を抑えきれなくなった」青森県議会の今博 県議 同会派の鶴賀谷貴 県議の胸ぐらをつかみ軽いけがをさせていた 県議選に関する話し合いで… 今 県議は暴力行為の事実認める
+(2025-11-27 17:52:00) #ニュース
+
+[2025-11-27 17:59:36](https://bsky.app/profile/sokuho.news/post/3m6lyxrfo6322)
+
+---
+
+@en.afp.com
+
+High-flying tech hits potholes in India's Silicon Valley.
+
+In India's tech capital Bengaluru, the morning "rush hour" lasts so long it devours half the workday, throttling productivity in a city often viewed as the poster child of a booming economy
+u.afp.com/Shdu
+
+[2025-11-27 17:59:03](https://bsky.app/profile/en.afp.com/post/3m6lyws42wa2j)
 
 ---
 
