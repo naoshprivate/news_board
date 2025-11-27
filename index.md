@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">「給付付き税額控除」導入への課題など検討 4党が実務者協議へ https://news.web.nhk/newsweb/na/na-k10014988111000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6m2iwhlji2g" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-27 18:27:03)</span><span style="padding-right:50px;">Tech giant debt splurge ratchets up systemic risks: podcast reut.rs/4roNBXa <a href="https://bsky.app/profile/reuters.com/post/3m6m2fiqqor2w" target="_blank">reuters.com</a> (2025-11-27 18:25:10)</span><span style="padding-right:50px;">South Africa's Cyril Ramaphosa hits back after Donald Trump says US won't invite it for G20 summit <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6m2ez3ywz2y" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-11-27 18:24:53)</span><span style="padding-right:50px;">President Trump has enlisted JD Vance’s Yale classmate—Army Secretary Dan Driscoll—to handle high-stakes diplomacy in the Ukraine war peace talks. <a href="https://bsky.app/profile/wsj.com/post/3m6m2aanhsb2h" target="_blank">wsj.com</a> (2025-11-27 18:22:14)</span><span style="padding-right:50px;">#UPDATE A Turkish court on Thursday acquitted four journalists, including AFP photographer Yasin Akgul, who were on trial over mass demonstrations in Istanbul in March, according to an AFP journalist inside the courtroom ➡️ u.afp.com/ShPP <a href="https://bsky.app/profile/en.afp.com/post/3m6m22gdz5c2q" target="_blank">en.afp.com</a> (2025-11-27 18:18:59)</span>
+<span style="padding-right:50px;">【ドローン映像】大阪 河内長野 滝畑ダム周辺の紅葉 https://news.web.nhk/newsweb/na/na-k10014984351000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6m3ohqx6c2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-27 18:48:02)</span><span style="padding-right:50px;">英スターマー政権、大幅増税の予算案　長期金利の上昇を警戒 www.nikkei.com/article/DGXZQO...  所得増税に踏み切るほか、糖分を含む飲料に課す「砂糖税」の対象を広げます。  長期金利はG7最高水準にあり、財政規律の重視を打ち出します。 <a href="https://bsky.app/profile/nikkei.com/post/3m6m3minskj2l" target="_blank">nikkei.com</a> (2025-11-27 18:46:59)</span><span style="padding-right:50px;">JPMorgan to build huge new tower in London's Canary Wharf reut.rs/4pnBV5X <a href="https://bsky.app/profile/reuters.com/post/3m6m3jfhm6r2i" target="_blank">reuters.com</a> (2025-11-27 18:45:15)</span><span style="padding-right:50px;">皇居 敷地内にドローン 外国人観光客2人が操縦か 皇宮警察本部 https://news.web.nhk/newsweb/na/na-k10014988161000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6m3j3a64i23" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-27 18:45:01)</span><span style="padding-right:50px;">前橋市長が辞職「自分の行動に対するけじめ」 市長選は来年1月 https://news.web.nhk/newsweb/na/na-k10014987801000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6m3dpscdv26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-27 18:42:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50167.10 (🔺298.31 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3138.00 (🔻17.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 156.40 (🔻0.00 : 2025-11-27)</span>
+<span style="padding-right:50px;">NIKKEI: 50167.10 (🔺298.31 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3138.00 (🔻17.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 156.35 (🔻0.05 : 2025-11-27)</span>
   </div>
 </div>
 
@@ -30,89 +30,95 @@
 
 ---
 
-## [2025-11-27 18:30 updated](2025_11_27.md)
+## [2025-11-27 18:50 updated](2025_11_27.md)
 
 @nhknewsunofficial.bsky.social
 
-「給付付き税額控除」導入への課題など検討 4党が実務者協議へ
-https://news.web.nhk/newsweb/na/na-k10014988111000
+【ドローン映像】大阪 河内長野 滝畑ダム周辺の紅葉
+https://news.web.nhk/newsweb/na/na-k10014984351000
 
-[2025-11-27 18:27:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6m2iwhlji2g)
+[2025-11-27 18:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6m3ohqx6c2j)
+
+---
+
+@nikkei.com
+
+英スターマー政権、大幅増税の予算案　長期金利の上昇を警戒
+www.nikkei.com/article/DGXZQO...
+
+所得増税に踏み切るほか、糖分を含む飲料に課す「砂糖税」の対象を広げます。
+
+長期金利はG7最高水準にあり、財政規律の重視を打ち出します。
+
+[2025-11-27 18:46:59](https://bsky.app/profile/nikkei.com/post/3m6m3minskj2l)
 
 ---
 
 @reuters.com
 
-Tech giant debt splurge ratchets up systemic risks: podcast reut.rs/4roNBXa
+JPMorgan to build huge new tower in London's Canary Wharf reut.rs/4pnBV5X
 
-[2025-11-27 18:25:10](https://bsky.app/profile/reuters.com/post/3m6m2fiqqor2w)
+[2025-11-27 18:45:15](https://bsky.app/profile/reuters.com/post/3m6m3jfhm6r2i)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@nhknewsunofficial.bsky.social
 
-South Africa's Cyril Ramaphosa hits back after Donald Trump says US won't invite it for G20 summit
+皇居 敷地内にドローン 外国人観光客2人が操縦か 皇宮警察本部
+https://news.web.nhk/newsweb/na/na-k10014988161000
 
-[2025-11-27 18:24:53](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6m2ez3ywz2y)
+[2025-11-27 18:45:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6m3j3a64i23)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+前橋市長が辞職「自分の行動に対するけじめ」 市長選は来年1月
+https://news.web.nhk/newsweb/na/na-k10014987801000
+
+[2025-11-27 18:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6m3dpscdv26)
+
+---
+
+@reuters.com
+
+Alibaba starts selling Quark AI glasses in China, enters global wearables race reut.rs/4roOuyY
+
+[2025-11-27 18:40:11](https://bsky.app/profile/reuters.com/post/3m6m3aed47527)
 
 ---
 
 @wsj.com
 
-President Trump has enlisted JD Vance’s Yale classmate—Army Secretary Dan Driscoll—to handle high-stakes diplomacy in the Ukraine war peace talks.
+Campbell’s soup is a staple of American childhood, sick days and holiday casserole recipes—and this week, it’s at the center of a hot debate.
 
-[2025-11-27 18:22:14](https://bsky.app/profile/wsj.com/post/3m6m2aanhsb2h)
-
----
-
-@en.afp.com
-
-#UPDATE A Turkish court on Thursday acquitted four journalists, including AFP photographer Yasin Akgul, who were on trial over mass demonstrations in Istanbul in March, according to an AFP journalist inside the courtroom ➡️ u.afp.com/ShPP
-
-[2025-11-27 18:18:59](https://bsky.app/profile/en.afp.com/post/3m6m22gdz5c2q)
+[2025-11-27 18:39:38](https://bsky.app/profile/wsj.com/post/3m6m37ecw6n2p)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@apnews.com
 
-木原官房長官 日米電話会談めぐり 米有力紙の記事を一部否定
-https://news.web.nhk/newsweb/na/na-k10014988101000
+Pope Leo XIV arrives in Turkey on his first foreign trip, fulfilling Pope Francis’ plans to mark an important Orthodox anniversary and bring a message of peace to the region.
 
-[2025-11-27 18:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6lzysvcbf2p)
+Follow AP's live updates.
+
+[2025-11-27 18:37:41](https://bsky.app/profile/apnews.com/post/3m6m33v6rbt2j)
 
 ---
 
 @reuters.com
 
-JP Morgan shifts outlook on Fed rate cut to December reut.rs/4rG3pVZ
+UK tax hikes to placate bond markets likely to be costly for Reeves reut.rs/4ojtOFS
 
-[2025-11-27 18:15:12](https://bsky.app/profile/reuters.com/post/3m6lztorlej2w)
-
----
-
-@nhknewsunofficial.bsky.social
-
-円相場 小幅な値動き
-https://news.web.nhk/newsweb/na/na-k10014988121000
-
-[2025-11-27 18:15:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6lztljwmt2n)
+[2025-11-27 18:35:09](https://bsky.app/profile/reuters.com/post/3m6m2xdkwnn27)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@reuters.com
 
-片山財務相 密輸した金を税関で没収など緊急対策を指示
-https://news.web.nhk/newsweb/na/na-k10014988081000
+LIVE: Hong Kong leader provides update on deadly fire youtube.com/live/iifQH1t...
 
-[2025-11-27 18:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6lztgr63e2b)
-
----
-
-@cnbc.com
-
-Alibaba's AI glasses to rival Meta go on sale for $500
-
-[2025-11-27 18:14:12](https://bsky.app/profile/cnbc.com/post/3m6lzruksqi2y)
+[2025-11-27 18:32:32](https://bsky.app/profile/reuters.com/post/3m6m2snrdj22t)
 
 ---
 
