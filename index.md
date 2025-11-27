@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Hong Kong police arrest three as apartment fire death toll rises to 44,  hundreds missing reut.rs/49Dv9nt <a href="https://bsky.app/profile/reuters.com/post/3m6lcnnsipx2w" target="_blank">reuters.com</a> (2025-11-27 11:20:14)</span><span style="padding-right:50px;">Readers really, really love this chopped salad from Lidey Heuck. It has ⭐ ⭐ ⭐ ⭐ ⭐ and more than 8,000 reviews. Get the recipe: nyti.ms/4iiuVEt <a href="https://bsky.app/profile/nytimes.com/post/3m6lcneggho2w" target="_blank">nytimes.com</a> (2025-11-27 11:20:04)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】アサヒGHD サイバー攻撃での個人情報流出 計191万件余に上る可能性 (2025年11月27日 11:16) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6lchrz6xt2q" target="_blank">sokuho.news</a> (2025-11-27 11:16:57)</span><span style="padding-right:50px;">【ライブ】アサヒGHD会見“190万件超の個人情報 外部流出か” https://news.web.nhk/newsweb/na/na-k10014987731000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6lcegqgzv26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-27 11:15:03)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】福岡県がインフルエンザ警報を発表 (2025-11-27 11:12) #ニュース  ⬛感染症情報 🔗https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/infulenza/index.html <a href="https://bsky.app/profile/sokuho.news/post/3m6lc7swwlj2q" target="_blank">sokuho.news</a> (2025-11-27 11:12:30)</span>
+<span style="padding-right:50px;">【各地の紅葉 動画】静岡 葵区 洞慶院のイロハモミジ https://news.web.nhk/newsweb/na/na-k10014984351000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6le7hchnt23" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-27 11:48:02)</span><span style="padding-right:50px;">🛎️NNNより【独自】です。  【独自】広陵高校野球部の暴力事案 生徒2人を書類送検する方針 広島県警 (2025-11-27 11:40) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6ldtn3cbf2x" target="_blank">sokuho.news</a> (2025-11-27 11:41:28)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】「配達バイクがあたってけがをした」”ウソの事故”でピザ配達店から現金を詐取しようとした疑い 無職の男逮捕 大阪府警 (2025-11-27 11:30) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6ldsb4uhh22" target="_blank">sokuho.news</a> (2025-11-27 11:40:42)</span><span style="padding-right:50px;">Bank of Mexico cuts growth forecast as inflation optimism is questioned reut.rs/48iIE9J <a href="https://bsky.app/profile/reuters.com/post/3m6ldrhxmyd2i" target="_blank">reuters.com</a> (2025-11-27 11:40:16)</span><span style="padding-right:50px;">'Couldn't do anything': deadly Hong Kong fire devours homes of thousands.  The blaze, still smoldering early Thursday, has claimed at least 44 lives, with authorities reporting hundreds more remain unaccounted for u.afp.com/ShdQ <a href="https://bsky.app/profile/en.afp.com/post/3m6ldo4b27h23" target="_blank">en.afp.com</a> (2025-11-27 11:38:23)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50152.45 (🔺283.66 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3132.00 (🔻23.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 156.12 (🔻0.28 : 2025-11-27)</span>
+<span style="padding-right:50px;">NIKKEI: 50203.38 (🔺334.59 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3136.00 (🔻19.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 156.08 (🔻0.32 : 2025-11-27)</span>
   </div>
 </div>
 
@@ -30,95 +30,106 @@
 
 ---
 
-## [2025-11-27 11:30 updated](2025_11_27.md)
+## [2025-11-27 11:50 updated](2025_11_27.md)
 
-@reuters.com
+@nhknewsunofficial.bsky.social
 
-Hong Kong police arrest three as apartment fire death toll rises to 44,  hundreds missing reut.rs/49Dv9nt
+【各地の紅葉 動画】静岡 葵区 洞慶院のイロハモミジ
+https://news.web.nhk/newsweb/na/na-k10014984351000
 
-[2025-11-27 11:20:14](https://bsky.app/profile/reuters.com/post/3m6lcnnsipx2w)
-
----
-
-@nytimes.com
-
-Readers really, really love this chopped salad from Lidey Heuck. It has ⭐ ⭐ ⭐ ⭐ ⭐ and more than 8,000 reviews. Get the recipe: nyti.ms/4iiuVEt
-
-[2025-11-27 11:20:04](https://bsky.app/profile/nytimes.com/post/3m6lcneggho2w)
+[2025-11-27 11:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6le7hchnt23)
 
 ---
 
 @sokuho.news
 
-🔔ANNより【速報】です。
+🛎️NNNより【独自】です。
 
-【速報】アサヒGHD サイバー攻撃での個人情報流出 計191万件余に上る可能性
-(2025年11月27日 11:16) #ニュース
+【独自】広陵高校野球部の暴力事案 生徒2人を書類送検する方針 広島県警
+(2025-11-27 11:40) #ニュース
 
-[2025-11-27 11:16:57](https://bsky.app/profile/sokuho.news/post/3m6lchrz6xt2q)
+[2025-11-27 11:41:28](https://bsky.app/profile/sokuho.news/post/3m6ldtn3cbf2x)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】「配達バイクがあたってけがをした」”ウソの事故”でピザ配達店から現金を詐取しようとした疑い 無職の男逮捕 大阪府警
+(2025-11-27 11:30) #ニュース
+
+[2025-11-27 11:40:42](https://bsky.app/profile/sokuho.news/post/3m6ldsb4uhh22)
+
+---
+
+@reuters.com
+
+Bank of Mexico cuts growth forecast as inflation optimism is questioned reut.rs/48iIE9J
+
+[2025-11-27 11:40:16](https://bsky.app/profile/reuters.com/post/3m6ldrhxmyd2i)
+
+---
+
+@en.afp.com
+
+'Couldn't do anything': deadly Hong Kong fire devours homes of thousands.
+
+The blaze, still smoldering early Thursday, has claimed at least 44 lives, with authorities reporting hundreds more remain unaccounted for
+u.afp.com/ShdQ
+
+[2025-11-27 11:38:23](https://bsky.app/profile/en.afp.com/post/3m6ldo4b27h23)
+
+---
+
+@bloomberg.com
+
+The Nifty 50 index is in an unprecedented phase of calm, with logging a 77-day streak of intraday ranges smaller than 1.2% for the first time ever, making it one of the world's most stable. Read for free with your email on what could move markets today
+
+[2025-11-27 11:38:20](https://bsky.app/profile/bloomberg.com/post/3m6ldnzkqjo2d)
+
+---
+
+@npr.org
+
+We're bringing back our listener poll to help stick a fork in 2025 and make sense of all the amazing music that came out. So... tell us your top five albums (or EPs) this year. n.pr/3MotDf6
+
+[2025-11-27 11:37:23](https://bsky.app/profile/npr.org/post/3m6ldmd7wwi2j)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-【ライブ】アサヒGHD会見“190万件超の個人情報 外部流出か”
-https://news.web.nhk/newsweb/na/na-k10014987731000
+DNA鑑定不正 特別監察の中間報告 “捜査への影響 確認されず”
+https://news.web.nhk/newsweb/na/na-k10014987771000
 
-[2025-11-27 11:15:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6lcegqgzv26)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】福岡県がインフルエンザ警報を発表
-(2025-11-27 11:12) #ニュース
-
-⬛感染症情報
-🔗https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/infulenza/index.html
-
-[2025-11-27 11:12:30](https://bsky.app/profile/sokuho.news/post/3m6lc7swwlj2q)
+[2025-11-27 11:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ldjxnx4t23)
 
 ---
 
-@reuters.com
+@nhknewsunofficial.bsky.social
 
-Boeing to build Apache helicopters for Poland as part of $4.7 billion contract reut.rs/485neOG
+【きょうのおはBiz 11月27日(木)】日本から中国 今後の影響は
+https://news.web.nhk/newsweb/na/na-k10014987741000
 
-[2025-11-27 11:10:13](https://bsky.app/profile/reuters.com/post/3m6lc3quj7x2w)
-
----
-
-@wsj.com
-
-<strong><span style="color: red;">Breaking:</span> The suspect in the shooting of two National Guardsmen near the White House is a 29-year-old  Afghan national, law enforcement officials say.</strong>
-
-[2025-11-27 11:03:45](https://bsky.app/profile/wsj.com/post/3m6lbq6ioei2j)
+[2025-11-27 11:33:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ldemgggf2b)
 
 ---
 
-@bloomberg-jp.bsky.social
+@nikkei.com
 
-トランプ氏、高市氏に台湾巡り中国を刺激しないよう助言－WSJ
+火星で「雷」初観測（無料記事）
+www.nikkei.com/article/DGXZQO...
 
-[2025-11-27 11:03:22](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6lbpilc7y25)
+放電現象や雷は機器や宇宙飛行士に危険をもたらす可能性があります。
 
----
+フランスの研究所などが、NASAが2020年に打ち上げた無人探査車のデータを分析。
 
-@bloomberg-jp.bsky.social
+太陽系では地球のほか、土星や木星で雷や電気の活動が確認されています。
 
-米中の技術研究協力、20年ぶり低水準－イノベーション構造に変化も
+#ニュース
 
-[2025-11-27 11:03:17](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6lbpe5ikb2r)
-
----
-
-@bloomberg-jp.bsky.social
-
-【日本市況】株式続伸、米株高好感し電機や金融に買い－債券先物上昇
-
-[2025-11-27 11:03:13](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6lbp7zj5v2l)
+[2025-11-27 11:30:59](https://bsky.app/profile/nikkei.com/post/3m6ldaudlfv2k)
 
 ---
 
