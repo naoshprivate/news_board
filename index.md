@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">外国人による不動産保有の実態は 政府 国籍把握の具体策検討へ https://news.web.nhk/newsweb/na/na-k10014988151000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6m5u7kxr62k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-27 19:27:03)</span><span style="padding-right:50px;">Liverpool slump not a 'crisis' but Slot needs answers soon, says Gerrard reut.rs/4pTZhQv <a href="https://bsky.app/profile/reuters.com/post/3m6m5qr6tv42n" target="_blank">reuters.com</a> (2025-11-27 19:25:09)</span><span style="padding-right:50px;">The death toll from the blaze at a high-rise apartment complex in Hong Kong rose to at least 55, officials said. Follow live updates. <a href="https://bsky.app/profile/nytimes.com/post/3m6m5qkioqa2d" target="_blank">nytimes.com</a> (2025-11-27 19:25:02)</span><span style="padding-right:50px;">与党会派 衆議院で過半数へ 無所属議員3人 自民会派加入で調整 https://news.web.nhk/newsweb/na/na-k10014988171000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6m5ot766v2n" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-27 19:24:02)</span><span style="padding-right:50px;">Corporate tie-ups are surging under Trump 2.0, as a looser approach to antitrust enforcement has led to fewer challenges. <a href="https://bsky.app/profile/wsj.com/post/3m6m5msdf4u2i" target="_blank">wsj.com</a> (2025-11-27 19:22:56)</span>
+<span style="padding-right:50px;">Gale scores BMW with ace in stormy Brisbane, Garcia leads reut.rs/48m1f4G <a href="https://bsky.app/profile/reuters.com/post/3m6m6utdytz2k" target="_blank">reuters.com</a> (2025-11-27 19:45:19)</span><span style="padding-right:50px;">政府 来年度予算編成の基本方針案 経済成長に資する施策重点化 https://news.web.nhk/newsweb/na/na-k10014988191000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6m6ozptdh2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-27 19:42:02)</span><span style="padding-right:50px;">The incoming Mayor of New York City has had a volatile relationship with President Trump. They recently had a surprisingly cordial meeting. New Yorkers say they are still feeling on edge. n.pr/4pz5lxu <a href="https://bsky.app/profile/npr.org/post/3m6m6mlfj5i23" target="_blank">npr.org</a> (2025-11-27 19:40:43)</span><span style="padding-right:50px;">Naver's payment arm to acquire South Korean crypto exchange operator in $10 bln deal reut.rs/4ovYHr2 <a href="https://bsky.app/profile/reuters.com/post/3m6m6lqsayv27" target="_blank">reuters.com</a> (2025-11-27 19:40:15)</span><span style="padding-right:50px;">Pope Leo XIV arrived in Turkey on Thursday for a four-day visit where he will hold talks with President Recep Tayyip Erdogan and meet Christian leaders on the first overseas trip of his papacy ➡️ u.afp.com/ShPD <a href="https://bsky.app/profile/en.afp.com/post/3m6m6ldxq5p2j" target="_blank">en.afp.com</a> (2025-11-27 19:40:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50167.10 (🔺298.31 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3138.00 (🔻17.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 156.29 (🔻0.11 : 2025-11-27)</span>
+<span style="padding-right:50px;">NIKKEI: 50167.10 (🔺298.31 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3138.00 (🔻17.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 156.28 (🔻0.12 : 2025-11-27)</span>
   </div>
 </div>
 
@@ -30,94 +30,87 @@
 
 ---
 
-## [2025-11-27 19:30 updated](2025_11_27.md)
-
-@nhknewsunofficial.bsky.social
-
-外国人による不動産保有の実態は 政府 国籍把握の具体策検討へ
-https://news.web.nhk/newsweb/na/na-k10014988151000
-
-[2025-11-27 19:27:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6m5u7kxr62k)
-
----
+## [2025-11-27 19:50 updated](2025_11_27.md)
 
 @reuters.com
 
-Liverpool slump not a 'crisis' but Slot needs answers soon, says Gerrard reut.rs/4pTZhQv
+Gale scores BMW with ace in stormy Brisbane, Garcia leads reut.rs/48m1f4G
 
-[2025-11-27 19:25:09](https://bsky.app/profile/reuters.com/post/3m6m5qr6tv42n)
-
----
-
-@nytimes.com
-
-The death toll from the blaze at a high-rise apartment complex in Hong Kong rose to at least 55, officials said. Follow live updates.
-
-[2025-11-27 19:25:02](https://bsky.app/profile/nytimes.com/post/3m6m5qkioqa2d)
+[2025-11-27 19:45:19](https://bsky.app/profile/reuters.com/post/3m6m6utdytz2k)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-与党会派 衆議院で過半数へ 無所属議員3人 自民会派加入で調整
-https://news.web.nhk/newsweb/na/na-k10014988171000
+政府 来年度予算編成の基本方針案 経済成長に資する施策重点化
+https://news.web.nhk/newsweb/na/na-k10014988191000
 
-[2025-11-27 19:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6m5ot766v2n)
-
----
-
-@wsj.com
-
-Corporate tie-ups are surging under Trump 2.0, as a looser approach to antitrust enforcement has led to fewer challenges.
-
-[2025-11-27 19:22:56](https://bsky.app/profile/wsj.com/post/3m6m5msdf4u2i)
+[2025-11-27 19:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6m6ozptdh2j)
 
 ---
 
-@reuters.com
+@npr.org
 
-A huge fire is still burning in a Hong Kong apartment complex, killing at least 55 people and leaving nearly 300 missing. The fire may have been caused by a 'grossly negligent' construction firm using unsafe materials, police said reut.rs/4rpDjWK
+The incoming Mayor of New York City has had a volatile relationship with President Trump. They recently had a surprisingly cordial meeting. New Yorkers say they are still feeling on edge. n.pr/4pz5lxu
 
-[2025-11-27 19:20:19](https://bsky.app/profile/reuters.com/post/3m6m5i3w33k2r)
+[2025-11-27 19:40:43](https://bsky.app/profile/npr.org/post/3m6m6mlfj5i23)
 
 ---
 
 @reuters.com
 
-As firefighters battled floor by floor in Hong Kong's flaming Wang Fuk Court housing complex overnight to find survivors and reunite them with fearful relatives, another band of volunteers swung into action to rescue the estate's pets reut.rs/3XTf0mE
+Naver's payment arm to acquire South Korean crypto exchange operator in $10 bln deal reut.rs/4ovYHr2
 
-[2025-11-27 19:19:29](https://bsky.app/profile/reuters.com/post/3m6m5gocxok2r)
-
----
-
-@reuters.com
-
-Hong Kong's deadliest fire in three decades has spotlighted its risky use of flammable bamboo scaffolding and mesh for building work in a tradition dating back centuries to mainland China reut.rs/4p4BNYA
-
-[2025-11-27 19:19:29](https://bsky.app/profile/reuters.com/post/3m6m5gmxwq22r)
+[2025-11-27 19:40:15](https://bsky.app/profile/reuters.com/post/3m6m6lqsayv27)
 
 ---
 
 @en.afp.com
 
-Streets were nearly deserted on Thursday in the capital of Guinea-Bissau, with the announcement of election results thwarted by the military seizing power, arresting the president and closing the borders of the coup-prone west African country ➡️ u.afp.com/ShPR
+Pope Leo XIV arrived in Turkey on Thursday for a four-day visit where he will hold talks with President Recep Tayyip Erdogan and meet Christian leaders on the first overseas trip of his papacy ➡️ u.afp.com/ShPD
 
-[2025-11-27 19:18:34](https://bsky.app/profile/en.afp.com/post/3m6m5ey44ch2a)
+[2025-11-27 19:40:02](https://bsky.app/profile/en.afp.com/post/3m6m6ldxq5p2j)
+
+---
+
+@wsj.com
+
+Pope Leo XIV is stepping into the limelight with a trip to Turkey and Lebanon.
+
+[2025-11-27 19:38:10](https://bsky.app/profile/wsj.com/post/3m6m6hzhsov2o)
+
+---
+
+@reuters.com
+
+New Remy Cointreau CEO targets growth after cost cuts cushion profit drop reut.rs/4rvLn8L
+
+[2025-11-27 19:35:10](https://bsky.app/profile/reuters.com/post/3m6m6co4wcu2n)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Venezuela bans six international airlines as tensions escalate
+
+[2025-11-27 19:32:06](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6m65753q327)
 
 ---
 
 @nikkei.com
 
-【“なぜ消せない“住民から怒り】
-香港の高層住宅火災、炎上20時間超www.nikkei.com/article/DGXZQO...
+TikTok、日本の利用者数は月間4200万人　3年で2倍に（無料記事）
+www.nikkei.com/article/DGXZQO...
 
-「ヘリコプターを出動させろ」。火災が起きた「宏福苑」に住む男性は現場で焦燥感をあらわに。
+[2025-11-27 19:30:59](https://bsky.app/profile/nikkei.com/post/3m6m636vxxq2m)
 
-11月26日午後に発生した火災は隣接する棟に飛び火して勢いを増し、夜を徹した消火活動でも鎮火しきれませんでした。
+---
 
-避難所となった近くの学校では水や食料などの物資が運び込まれ、ボランティアらが住民に付き添っています。
+@aljazeera.com
 
-[2025-11-27 19:16:59](https://bsky.app/profile/nikkei.com/post/3m6m5c54fwb2l)
+Public prosecutor vows to appeal the verdict saying the government wants the maximum penalty.
+
+[2025-11-27 19:30:19](https://bsky.app/profile/aljazeera.com/post/3m6m5zxyi6r2h)
 
 ---
 
