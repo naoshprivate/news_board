@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;"> The UK’s new gambling tax ups the odds of M&A on.ft.com/4oEv7zH  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m6mxnug3kd2r" target="_blank">financialtimes.com</a> (2025-11-28 03:08:49)</span><span style="padding-right:50px;">Only Ronaldo worth his pay, says Saudi ex-sports chief reut.rs/3Kdmuhe <a href="https://bsky.app/profile/reuters.com/post/3m6mxhd5wve2e" target="_blank">reuters.com</a> (2025-11-28 03:05:10)</span><span style="padding-right:50px;">来年度国債発行は短中長期に増額余地の声、超長期減額－財務省PD会合 <a href="https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6mxfo6gmv2n" target="_blank">bloomberg-jp.bsky.social</a> (2025-11-28 03:04:14)</span><span style="padding-right:50px;">OPECプラス、増産一時停止の方針維持の見通し－30日に会合 <a href="https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6mxfjgncn2w" target="_blank">bloomberg-jp.bsky.social</a> (2025-11-28 03:04:09)</span><span style="padding-right:50px;">香港大規模火災で注目、なぜ竹製足場を使うのか－QuickTake <a href="https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6mxfewxv725" target="_blank">bloomberg-jp.bsky.social</a> (2025-11-28 03:04:05)</span>
+<span style="padding-right:50px;">European nations to fund military-grade surveillance network in space on.ft.com/4isSJFQ <a href="https://bsky.app/profile/financialtimes.com/post/3m6mys34dom26" target="_blank">financialtimes.com</a> (2025-11-28 03:29:04)</span><span style="padding-right:50px;">ECB accounts show no hurry to cut rates, debate on declaring end of easing reut.rs/4p6P8Ql <a href="https://bsky.app/profile/reuters.com/post/3m6myl2fwap2i" target="_blank">reuters.com</a> (2025-11-28 03:25:09)</span><span style="padding-right:50px;">The Macy's Thanksgiving Day Parade marched back into town for another year of supersized floats, holiday cheer and star-studded performances. bit.ly/4a1sVP5  📸: Getty Images, AFP via Getty images <a href="https://bsky.app/profile/usatoday.com/post/3m6myfuyi7g2m" target="_blank">usatoday.com</a> (2025-11-28 03:22:15)</span><span style="padding-right:50px;">U.S. proposals to end the war between Russia and Ukraine offer a starting point for talks, Russian President Vladimir Putin said. <a href="https://bsky.app/profile/cbsnews.com/post/3m6myctwl5t2h" target="_blank">cbsnews.com</a> (2025-11-28 03:20:33)</span><span style="padding-right:50px;">A 29-year-old Afghan national drove across the country from Washington state to the nation’s capital and shot two National Guard members in an ambush Wednesday afternoon near the White House, said federal authorities.  Here’s what to know: <a href="https://bsky.app/profile/washingtonpost.com/post/3m6mybhukna2g" target="_blank">washingtonpost.com</a> (2025-11-28 03:19:47)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50167.10 (🔺298.31 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3138.00 (🔻17.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 156.34 (🔻0.06 : 2025-11-27)</span>
+<span style="padding-right:50px;">NIKKEI: 50167.10 (🔺298.31 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3138.00 (🔻17.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 156.37 (🔻0.03 : 2025-11-27)</span>
   </div>
 </div>
 
@@ -30,85 +30,89 @@
 
 ---
 
-## [2025-11-28 03:10 updated](2025_11_28.md)
+## [2025-11-28 03:30 updated](2025_11_28.md)
+
+@financialtimes.com
+
+European nations to fund military-grade surveillance network in space on.ft.com/4isSJFQ
+
+[2025-11-28 03:29:04](https://bsky.app/profile/financialtimes.com/post/3m6mys34dom26)
+
+---
+
+@reuters.com
+
+ECB accounts show no hurry to cut rates, debate on declaring end of easing reut.rs/4p6P8Ql
+
+[2025-11-28 03:25:09](https://bsky.app/profile/reuters.com/post/3m6myl2fwap2i)
+
+---
+
+@usatoday.com
+
+The Macy's Thanksgiving Day Parade marched back into town for another year of supersized floats, holiday cheer and star-studded performances. bit.ly/4a1sVP5
+
+📸: Getty Images, AFP via Getty images
+
+[2025-11-28 03:22:15](https://bsky.app/profile/usatoday.com/post/3m6myfuyi7g2m)
+
+---
+
+@cbsnews.com
+
+U.S. proposals to end the war between Russia and Ukraine offer a starting point for talks, Russian President Vladimir Putin said.
+
+[2025-11-28 03:20:33](https://bsky.app/profile/cbsnews.com/post/3m6myctwl5t2h)
+
+---
+
+@washingtonpost.com
+
+A 29-year-old Afghan national drove across the country from Washington state to the nation’s capital and shot two National Guard members in an ambush Wednesday afternoon near the White House, said federal authorities.
+
+Here’s what to know:
+
+[2025-11-28 03:19:47](https://bsky.app/profile/washingtonpost.com/post/3m6mybhukna2g)
+
+---
+
+@nytimes.com
+
+These stunning cookies would be a gorgeous addition to any holiday cookie assortment. The glass-like centers are made from crushed hard candies that melt in the heat of the oven. nyti.ms/43Q21pr
+
+[2025-11-28 03:16:05](https://bsky.app/profile/nytimes.com/post/3m6my2tpxuq2y)
+
+---
+
+@reuters.com
+
+Bolivia's bread shortage highlights subsidy reform challenge reut.rs/4psQ15w
+
+[2025-11-28 03:15:16](https://bsky.app/profile/reuters.com/post/3m6mxzffzmd27)
+
+---
+
+@wsj.com
+
+French President Emmanuel Macron is resurrecting the concept of military service as a rite of passage for young people, part of a broader push to put Europe on a war footing.
+
+[2025-11-28 03:12:05](https://bsky.app/profile/wsj.com/post/3m6mxtp22xx2p)
+
+---
+
+@reuters.com
+
+How JPMorgan's planned London tower ranks among Europe's biggest buildings reut.rs/3KoQKFU
+
+[2025-11-28 03:10:13](https://bsky.app/profile/reuters.com/post/3m6mxqee4xp26)
+
+---
 
 @financialtimes.com
 
  The UK’s new gambling tax ups the odds of M&A on.ft.com/4oEv7zH  | opinion
 
 [2025-11-28 03:08:49](https://bsky.app/profile/financialtimes.com/post/3m6mxnug3kd2r)
-
----
-
-@reuters.com
-
-Only Ronaldo worth his pay, says Saudi ex-sports chief reut.rs/3Kdmuhe
-
-[2025-11-28 03:05:10](https://bsky.app/profile/reuters.com/post/3m6mxhd5wve2e)
-
----
-
-@bloomberg-jp.bsky.social
-
-来年度国債発行は短中長期に増額余地の声、超長期減額－財務省PD会合
-
-[2025-11-28 03:04:14](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6mxfo6gmv2n)
-
----
-
-@bloomberg-jp.bsky.social
-
-OPECプラス、増産一時停止の方針維持の見通し－30日に会合
-
-[2025-11-28 03:04:09](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6mxfjgncn2w)
-
----
-
-@bloomberg-jp.bsky.social
-
-香港大規模火災で注目、なぜ竹製足場を使うのか－QuickTake
-
-[2025-11-28 03:04:05](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6mxfewxv725)
-
----
-
-@bloomberg-jp.bsky.social
-
-香港高層マンション火災、改修工事の安全基準に疑義－死者75人に
-
-[2025-11-28 03:03:45](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6mxeru6mv2n)
-
----
-
-@reuters.com
-
-UK housing demand seen recovering on clearer post-budget outlook reut.rs/43Qr0c7
-
-[2025-11-28 03:01:05](https://bsky.app/profile/reuters.com/post/3m6mx7zi3gq2k)
-
----
-
-@aljazeera.com
-
-Critics worry that the creation of 'alternative safe communities' may tip the enclave into permanent division.
-
-[2025-11-28 03:00:30](https://bsky.app/profile/aljazeera.com/post/3m6mx6ydj6p2f)
-
----
-
-@nbcnews.com
-
-Pope Leo XIV touches down in the conflict-ridden Middle East on the first international trip of his papacy, urging peace and hoping to help the Catholic Church heal centuries-old divisions with other religions and denominations.
-
-[2025-11-28 03:00:29](https://bsky.app/profile/nbcnews.com/post/3m6mx6wueec2t)
-
----
-
-@bloomberg.com
-
-Mexican President Claudia Sheinbaum said her first face-to-face meeting with Donald Trump could happen as soon as next week at the FIFA 2026 World Cup draw
-
-[2025-11-28 03:00:21](https://bsky.app/profile/bloomberg.com/post/3m6mx6pmwdw2h)
 
 ---
 
