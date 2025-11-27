@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">違憲判断続く同性婚訴訟 きょう東京高裁で最後の2審判決 https://news.web.nhk/newsweb/na/na-k10014988251000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6n6f27ccb23" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-28 05:09:07)</span><span style="padding-right:50px;">“不起訴理由などの公表 積極的に検討を” 全国の検察庁に周知 https://news.web.nhk/newsweb/na/na-k10014988421000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6n6evaxyq26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-28 05:09:02)</span><span style="padding-right:50px;">日本郵政 根岸社長 収益力改善へ 不動産事業強化の考え示す https://news.web.nhk/newsweb/na/na-k10014988301000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6n67jg4aj2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-28 05:06:02)</span><span style="padding-right:50px;">【欧州市況】英国債が6営業日ぶり下落－自動車、金融関連株が上昇 <a href="https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6n65zdbct2n" target="_blank">bloomberg-jp.bsky.social</a> (2025-11-28 05:05:14)</span><span style="padding-right:50px;">Zimbabwe sees economic growth slowing to 5% in 2026 amid global headwinds reut.rs/49Eu9zt <a href="https://bsky.app/profile/reuters.com/post/3m6n65w2vvp2d" target="_blank">reuters.com</a> (2025-11-28 05:05:10)</span>
+<span style="padding-right:50px;">Deutsche Boerse offers 4.7 billion euros for fund platform Allfunds reut.rs/48n5VHA <a href="https://bsky.app/profile/reuters.com/post/3m6n7bo4unv2n" target="_blank">reuters.com</a> (2025-11-28 05:25:10)</span><span style="padding-right:50px;">Leftovers are quite possibly the best part of Thanksgiving. Here are some ideas for what to do with them, including this ridiculously easy enchilada pie. nyti.ms/4pwjziE <a href="https://bsky.app/profile/nytimes.com/post/3m6n77nvq6v2m" target="_blank">nytimes.com</a> (2025-11-28 05:24:03)</span><span style="padding-right:50px;">アサヒグループHD 来月上旬からシステムの受注や出荷を再開へ https://news.web.nhk/newsweb/na/na-k10014988341000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6n77pul3m2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-28 05:24:03)</span><span style="padding-right:50px;">For millions of Indigenous Americans, Thanksgiving is tied to a history of invasion, displacement, and devastation as settlers took over the land that is now the US aje.io/bb1ezw <a href="https://bsky.app/profile/aljazeera.com/post/3m6n77chqxw2z" target="_blank">aljazeera.com</a> (2025-11-28 05:23:49)</span><span style="padding-right:50px;">議員定数削減 自民と維新 法案化に向け詰めの調整へ https://news.web.nhk/newsweb/na/na-k10014988391000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6n72ekxmk26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-28 05:21:03)</span>
   </div>
 </div>
 
@@ -30,90 +30,88 @@
 
 ---
 
-## [2025-11-28 05:10 updated](2025_11_28.md)
+## [2025-11-28 05:30 updated](2025_11_28.md)
 
-@nhknewsunofficial.bsky.social
+@reuters.com
 
-違憲判断続く同性婚訴訟 きょう東京高裁で最後の2審判決
-https://news.web.nhk/newsweb/na/na-k10014988251000
+Deutsche Boerse offers 4.7 billion euros for fund platform Allfunds reut.rs/48n5VHA
 
-[2025-11-28 05:09:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6n6f27ccb23)
+[2025-11-28 05:25:10](https://bsky.app/profile/reuters.com/post/3m6n7bo4unv2n)
+
+---
+
+@nytimes.com
+
+Leftovers are quite possibly the best part of Thanksgiving. Here are some ideas for what to do with them, including this ridiculously easy enchilada pie. nyti.ms/4pwjziE
+
+[2025-11-28 05:24:03](https://bsky.app/profile/nytimes.com/post/3m6n77nvq6v2m)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-“不起訴理由などの公表 積極的に検討を” 全国の検察庁に周知
-https://news.web.nhk/newsweb/na/na-k10014988421000
+アサヒグループHD 来月上旬からシステムの受注や出荷を再開へ
+https://news.web.nhk/newsweb/na/na-k10014988341000
 
-[2025-11-28 05:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6n6evaxyq26)
+[2025-11-28 05:24:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6n77pul3m2p)
+
+---
+
+@aljazeera.com
+
+For millions of Indigenous Americans, Thanksgiving is tied to a history of invasion, displacement, and devastation as settlers took over the land that is now the US aje.io/bb1ezw
+
+[2025-11-28 05:23:49](https://bsky.app/profile/aljazeera.com/post/3m6n77chqxw2z)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-日本郵政 根岸社長 収益力改善へ 不動産事業強化の考え示す
-https://news.web.nhk/newsweb/na/na-k10014988301000
+議員定数削減 自民と維新 法案化に向け詰めの調整へ
+https://news.web.nhk/newsweb/na/na-k10014988391000
 
-[2025-11-28 05:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6n67jg4aj2j)
+[2025-11-28 05:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6n72ekxmk26)
 
 ---
 
-@bloomberg-jp.bsky.social
+@wsj.com
 
-【欧州市況】英国債が6営業日ぶり下落－自動車、金融関連株が上昇
+Oil giants have fled California, but James Flores and his company Sable Offshore are desperate to get in, even if it means crossing swords with the state.
 
-[2025-11-28 05:05:14](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6n65zdbct2n)
+[2025-11-28 05:18:30](https://bsky.app/profile/wsj.com/post/3m6n6vqeout2o)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+アサヒGHD 来月上旬からシステムでの受注や出荷を再開へ
+https://news.web.nhk/newsweb/na/na-k10014988341000
+
+[2025-11-28 05:18:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6n6uyv3ax2g)
 
 ---
 
 @reuters.com
 
-Zimbabwe sees economic growth slowing to 5% in 2026 amid global headwinds reut.rs/49Eu9zt
+Denmark orders $580 million air defence system from Kongsberg reut.rs/4rj0BO5
 
-[2025-11-28 05:05:10](https://bsky.app/profile/reuters.com/post/3m6n65w2vvp2d)
-
----
-
-@bloomberg-jp.bsky.social
-
-フランスが志願兵制を創設へ、35年まで5万人目標－ロシア脅威に対応
-
-[2025-11-28 05:05:09](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6n65ukizn2c)
+[2025-11-28 05:15:15](https://bsky.app/profile/reuters.com/post/3m6n6px27lx2k)
 
 ---
 
-@bloomberg-jp.bsky.social
+@reuters.com
 
-英国への純移民数が約70%減、コロナ禍以降で最低－ビザ発給も減少
+Germany says Trump should invite South Africa to G20 summit reut.rs/48DlqMT
 
-[2025-11-28 05:05:03](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6n65op5jl2n)
-
----
-
-@bloomberg-jp.bsky.social
-
-JPモルガン、中国株の投資判断引き上げ－AI採用や刺激策が追い風に
-
-[2025-11-28 05:04:58](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6n65ju5x52c)
+[2025-11-28 05:10:15](https://bsky.app/profile/reuters.com/post/3m6n6gyibfh27)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@nytimes.com
 
-今年度の補正予算案 きょう決定 総額は約18兆3000億円
-https://news.web.nhk/newsweb/na/na-k10014988331000
+The Trump administration said on Thursday that it was reviewing all asylum cases that were approved under the Biden administration, signaling a broad crackdown in the wake of the shooting of two National Guard members.
 
-[2025-11-28 05:03:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6n62d3pig2e)
-
----
-
-@nhknewsunofficial.bsky.social
-
-国民健康保険 保険料軽減措置 高校生年代まで拡大で調整
-https://news.web.nhk/newsweb/na/na-k10014988411000
-
-[2025-11-28 05:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6n625ucop2t)
+[2025-11-28 05:10:01](https://bsky.app/profile/nytimes.com/post/3m6n6gkxftz22)
 
 ---
 
