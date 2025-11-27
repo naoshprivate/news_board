@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">FBI probes gunman's motive in ambush shooting of Guardsmen near White House reut.rs/3MonPlQ <a href="https://bsky.app/profile/reuters.com/post/3m6lx26wll227" target="_blank">reuters.com</a> (2025-11-27 17:25:09)</span><span style="padding-right:50px;">Ready to toss those mismatched socks from 2001? Reworking your “hibernation” wardrobe will benefit your closet and your mood.   Some pro tips for staying stylish in the months ahead. on.wsj.com/4rsKTAi <a href="https://bsky.app/profile/wsj.com/post/3m6lwtv2bs42o" target="_blank">wsj.com</a> (2025-11-27 17:21:38)</span><span style="padding-right:50px;">Ban on eating dog meat causes division in Jakarta.  Animal rights groups celebrate the ban on trade for consumption of all rabies-transmitting animals, including cats, dogs, bats, monkeys and civets. But some communities say dog meat is an important home remedy for dengue fever u.afp.com/ShPk <a href="https://bsky.app/profile/en.afp.com/post/3m6lwtazwcc2j" target="_blank">en.afp.com</a> (2025-11-27 17:21:17)</span><span style="padding-right:50px;">大分 大規模火災 鉄骨だけの建物など 広範囲に焼け崩れた跡 https://news.web.nhk/newsweb/na/na-k10014987761000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6lwsvfxyj26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-27 17:21:02)</span><span style="padding-right:50px;">Trump said the suspected gunman is an Afghan national who entered the U.S. in September 2021. <a href="https://bsky.app/profile/forbes.com/post/3m6lwr3yipp26" target="_blank">forbes.com</a> (2025-11-27 17:20:04)</span>
+<span style="padding-right:50px;">UPDATE Man suspected of shooting two National Guard soldiers near the White House is an Afghan national who had served alongside American troops in Afghanistan, US media report  u.afp.com/ShPp <a href="https://bsky.app/profile/en.afp.com/post/3m6ly6jsfev2p" target="_blank">en.afp.com</a> (2025-11-27 17:45:29)</span><span style="padding-right:50px;">Morning Bid: Is the dollar headed for the carvery? reut.rs/4odTyU5 <a href="https://bsky.app/profile/reuters.com/post/3m6ly5zo6nm2d" target="_blank">reuters.com</a> (2025-11-27 17:45:12)</span><span style="padding-right:50px;">Taiwan says it has discussed with US arms purchases for extra defence budget reut.rs/3M4qvoG <a href="https://bsky.app/profile/reuters.com/post/3m6lxv23lup22" target="_blank">reuters.com</a> (2025-11-27 17:40:10)</span><span style="padding-right:50px;">熊本 阿蘇 “震度5強地震”観光への影響広がりなく 市は安堵 https://news.web.nhk/newsweb/na/na-k10014988061000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6lxo43l7523" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-27 17:36:02)</span><span style="padding-right:50px;">China's tech giants move AI model training overseas to access Nvidia chips, FT reports reut.rs/48jJHGx <a href="https://bsky.app/profile/reuters.com/post/3m6lxm3kxms2r" target="_blank">reuters.com</a> (2025-11-27 17:35:10)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50167.10 (🔺298.31 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3138.00 (🔻17.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 156.21 (🔻0.19 : 2025-11-27)</span>
+<span style="padding-right:50px;">NIKKEI: 50167.10 (🔺298.31 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3138.00 (🔻17.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 156.29 (🔻0.11 : 2025-11-27)</span>
   </div>
 </div>
 
@@ -30,93 +30,98 @@
 
 ---
 
-## [2025-11-27 17:30 updated](2025_11_27.md)
-
-@reuters.com
-
-FBI probes gunman's motive in ambush shooting of Guardsmen near White House reut.rs/3MonPlQ
-
-[2025-11-27 17:25:09](https://bsky.app/profile/reuters.com/post/3m6lx26wll227)
-
----
-
-@wsj.com
-
-Ready to toss those mismatched socks from 2001? Reworking your “hibernation” wardrobe will benefit your closet and your mood. 
-
-Some pro tips for staying stylish in the months ahead. on.wsj.com/4rsKTAi
-
-[2025-11-27 17:21:38](https://bsky.app/profile/wsj.com/post/3m6lwtv2bs42o)
-
----
+## [2025-11-27 17:50 updated](2025_11_27.md)
 
 @en.afp.com
 
-Ban on eating dog meat causes division in Jakarta.
+UPDATE Man suspected of shooting two National Guard soldiers near the White House is an Afghan national who had served alongside American troops in Afghanistan, US media report
 
-Animal rights groups celebrate the ban on trade for consumption of all rabies-transmitting animals, including cats, dogs, bats, monkeys and civets. But some communities say dog meat is an important home remedy for dengue fever
-u.afp.com/ShPk
+u.afp.com/ShPp
 
-[2025-11-27 17:21:17](https://bsky.app/profile/en.afp.com/post/3m6lwtazwcc2j)
+[2025-11-27 17:45:29](https://bsky.app/profile/en.afp.com/post/3m6ly6jsfev2p)
+
+---
+
+@reuters.com
+
+Morning Bid: Is the dollar headed for the carvery? reut.rs/4odTyU5
+
+[2025-11-27 17:45:12](https://bsky.app/profile/reuters.com/post/3m6ly5zo6nm2d)
+
+---
+
+@reuters.com
+
+Taiwan says it has discussed with US arms purchases for extra defence budget reut.rs/3M4qvoG
+
+[2025-11-27 17:40:10](https://bsky.app/profile/reuters.com/post/3m6lxv23lup22)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-大分 大規模火災 鉄骨だけの建物など 広範囲に焼け崩れた跡
-https://news.web.nhk/newsweb/na/na-k10014987761000
+熊本 阿蘇 “震度5強地震”観光への影響広がりなく 市は安堵
+https://news.web.nhk/newsweb/na/na-k10014988061000
 
-[2025-11-27 17:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6lwsvfxyj26)
-
----
-
-@forbes.com
-
-Trump said the suspected gunman is an Afghan national who entered the U.S. in September 2021.
-
-[2025-11-27 17:20:04](https://bsky.app/profile/forbes.com/post/3m6lwr3yipp26)
-
----
-
-@financialtimes.com
-
-JPMorgan to build new Canary Wharf office tower on.ft.com/4ogdaHf
-
-[2025-11-27 17:16:56](https://bsky.app/profile/financialtimes.com/post/3m6lwli5ggz25)
+[2025-11-27 17:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6lxo43l7523)
 
 ---
 
 @reuters.com
 
-Volunteers seek lost pets amid Hong Kong deadly inferno wreckage reut.rs/482BkAi
+China's tech giants move AI model training overseas to access Nvidia chips, FT reports reut.rs/48jJHGx
 
-[2025-11-27 17:15:13](https://bsky.app/profile/reuters.com/post/3m6lwifqb4622)
-
----
-
-@cnbc.com
-
-Chinese firms rush to pledge millions in fire rescue as Hong Kong fire death toll climbs to 55
-
-[2025-11-27 17:14:30](https://bsky.app/profile/cnbc.com/post/3m6lwh4otfc2i)
-
----
-
-@reuters.com
-
-LIVE: New crew launches to ISS from Baikonur, Kazakhstan youtube.com/live/QHpNigS...
-
-[2025-11-27 17:13:56](https://bsky.app/profile/reuters.com/post/3m6lwg4bjw226)
+[2025-11-27 17:35:10](https://bsky.app/profile/reuters.com/post/3m6lxm3kxms2r)
 
 ---
 
 @en.afp.com
 
-Australia shark bite incidents 2000 - 2025.
+UPDATE  At least 55 dead, over 250 missing after Hong Kong's deadliest blaze in decades.
 
-AFP Infographic on shark bite incidents around Australia from 2000 to 2025, according to data on the Australian Shark Incident Database, a new fatal incident on November 27 is also located on the map
+Over 24 hours after fire broke out in the eight-building housing estate with 2,000 units, flames were still visible in some windows 
 
-[2025-11-27 17:13:05](https://bsky.app/profile/en.afp.com/post/3m6lwelk4zg2m)
+u.afp.com/Shdn
+
+[2025-11-27 17:32:23](https://bsky.app/profile/en.afp.com/post/3m6lxh3yy7o2x)
+
+---
+
+@nikkei.com
+
+【中堅は最大60万円】
+住友生命、転勤手当引き上げ（無料記事）
+www.nikkei.com/article/DGXZQO...
+
+転勤後の3年間にわたって年2回の賞与に10万円ずつ上乗せします。
+
+現行制度は資格に応じて5万円から7万5000円の手当を支給していました。転勤による離職を防ぐ狙いです。
+
+[2025-11-27 17:30:59](https://bsky.app/profile/nikkei.com/post/3m6lxelr7o62t)
+
+---
+
+@reuters.com
+
+LIVE: Fire engulfs residential buildings in Hong Kong youtube.com/live/S-Np4rj...
+
+[2025-11-27 17:30:36](https://bsky.app/profile/reuters.com/post/3m6lxdw6duc2z)
+
+---
+
+@aljazeera.com
+
+First American pope will arrive in the Turkish capital Ankara where he will meet President Erdogan.
+
+[2025-11-27 17:30:12](https://bsky.app/profile/aljazeera.com/post/3m6lxd7tgim2f)
+
+---
+
+@apnews.com
+
+Free-agent pitcher Dylan Cease and the Toronto Blue Jays have agreed to a $210 million, seven-year contract, a person familiar with the negotiations tells The Associated Press.
+
+[2025-11-27 17:30:11](https://bsky.app/profile/apnews.com/post/3m6lxd6fop72h)
 
 ---
 
