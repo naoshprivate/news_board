@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Brazil seeks US cooperation in money laundering probe reut.rs/4pbE0Sm <a href="https://bsky.app/profile/reuters.com/post/3m6n3wfmjqx2r" target="_blank">reuters.com</a> (2025-11-28 04:25:11)</span><span style="padding-right:50px;">In @nytopinion.nytimes.com  In his annual column, Kevin Dowd offers some advice for President Trump. “Do not underestimate the power of grocery receipts,” he writes. “Lower tariffs on food items. Do not lose voters over a bag of potato chips.” <a href="https://bsky.app/profile/nytimes.com/post/3m6n3wa3ojs2g" target="_blank">nytimes.com</a> (2025-11-28 04:25:05)</span><span style="padding-right:50px;">Apple almost never discounts its popular devices. Our deals experts vetted these discounts to confirm that they are, in fact, the lowest prices of the year. nyti.ms/47Z8eBO <a href="https://bsky.app/profile/nytimes.com/post/3m6n3sky5ls26" target="_blank">nytimes.com</a> (2025-11-28 04:23:02)</span><span style="padding-right:50px;">The man suspected of shooting two National Guard members was once part of a CIA-backed paramilitary group, one of several so-called Zero Units, according to Afghan and U.S. officials. <a href="https://bsky.app/profile/nytimes.com/post/3m6n3nbbmc62w" target="_blank">nytimes.com</a> (2025-11-28 04:20:04)</span><span style="padding-right:50px;">OPEC+ expected to hold oil output policy steady for Q1, sources say reut.rs/4imEz93 <a href="https://bsky.app/profile/reuters.com/post/3m6n3esamv22i" target="_blank">reuters.com</a> (2025-11-28 04:15:20)</span>
+<span style="padding-right:50px;">The author Joan Didion embraced Thanksgiving. And she staged it the same way she conjured her essays, novels, screenplays and memoirs, with an almost military mustering of planning and ambition. <a href="https://bsky.app/profile/nytimes.com/post/3m6n5b5xlqu2m" target="_blank">nytimes.com</a> (2025-11-28 04:49:06)</span><span style="padding-right:50px;">UK retailers urge government to end parcel tariff loophole sooner reut.rs/4pDUJgX <a href="https://bsky.app/profile/reuters.com/post/3m6n52axqdp2i" target="_blank">reuters.com</a> (2025-11-28 04:45:14)</span><span style="padding-right:50px;">Opinion: The best that can be said for the UK Budget is that it could have been worse. on.ft.com/4pa94BY <a href="https://bsky.app/profile/financialtimes.com/post/3m6n522ajpj27" target="_blank">financialtimes.com</a> (2025-11-28 04:45:07)</span><span style="padding-right:50px;">今年度補正予算案 きょう決定へ 総額は約18兆3000億円に https://news.web.nhk/newsweb/na/na-k10014988331000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6n4zy6ua52e" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-28 04:45:02)</span><span style="padding-right:50px;">Brazilian physician hails love of paleontology that led to major ancient reptile discovery reut.rs/48mzWqW <a href="https://bsky.app/profile/reuters.com/post/3m6n4rfr4i52k" target="_blank">reuters.com</a> (2025-11-28 04:40:17)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50167.10 (🔺298.31 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3138.00 (🔻17.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 156.35 (🔻0.05 : 2025-11-27)</span>
+<span style="padding-right:50px;">NIKKEI: 50167.10 (🔺298.31 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3138.00 (🔻17.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 156.32 (🔻0.08 : 2025-11-27)</span>
   </div>
 </div>
 
@@ -30,87 +30,88 @@
 
 ---
 
-## [2025-11-28 04:30 updated](2025_11_28.md)
-
-@reuters.com
-
-Brazil seeks US cooperation in money laundering probe reut.rs/4pbE0Sm
-
-[2025-11-28 04:25:11](https://bsky.app/profile/reuters.com/post/3m6n3wfmjqx2r)
-
----
+## [2025-11-28 04:50 updated](2025_11_28.md)
 
 @nytimes.com
 
-In @nytopinion.nytimes.com
+The author Joan Didion embraced Thanksgiving. And she staged it the same way she conjured her essays, novels, screenplays and memoirs, with an almost military mustering of planning and ambition.
 
-In his annual column, Kevin Dowd offers some advice for President Trump. “Do not underestimate the power of grocery receipts,” he writes. “Lower tariffs on food items. Do not lose voters over a bag of potato chips.”
-
-[2025-11-28 04:25:05](https://bsky.app/profile/nytimes.com/post/3m6n3wa3ojs2g)
-
----
-
-@nytimes.com
-
-Apple almost never discounts its popular devices. Our deals experts vetted these discounts to confirm that they are, in fact, the lowest prices of the year. nyti.ms/47Z8eBO
-
-[2025-11-28 04:23:02](https://bsky.app/profile/nytimes.com/post/3m6n3sky5ls26)
-
----
-
-@nytimes.com
-
-The man suspected of shooting two National Guard members was once part of a CIA-backed paramilitary group, one of several so-called Zero Units, according to Afghan and U.S. officials.
-
-[2025-11-28 04:20:04](https://bsky.app/profile/nytimes.com/post/3m6n3nbbmc62w)
+[2025-11-28 04:49:06](https://bsky.app/profile/nytimes.com/post/3m6n5b5xlqu2m)
 
 ---
 
 @reuters.com
 
-OPEC+ expected to hold oil output policy steady for Q1, sources say reut.rs/4imEz93
+UK retailers urge government to end parcel tariff loophole sooner reut.rs/4pDUJgX
 
-[2025-11-28 04:15:20](https://bsky.app/profile/reuters.com/post/3m6n3esamv22i)
-
----
-
-@reuters.com
-
-Netherlands to increase tax on private jets reut.rs/4istRht
-
-[2025-11-28 04:10:13](https://bsky.app/profile/reuters.com/post/3m6n33nru6w2o)
-
----
-
-@cnn.com
-
-We owe it to our wallets and to the planet to do our darndest to reduce any possible waste. https://cnn.it/4pAvMTx
-
-[2025-11-28 04:07:04](https://bsky.app/profile/cnn.com/post/3m6n2vzlfo52q)
-
----
-
-@reuters.com
-
-Bosnian broadcaster uses tent studio to protest over funding crisis reut.rs/3M1GZ0V
-
-[2025-11-28 04:05:10](https://bsky.app/profile/reuters.com/post/3m6n2smbvvo2o)
+[2025-11-28 04:45:14](https://bsky.app/profile/reuters.com/post/3m6n52axqdp2i)
 
 ---
 
 @financialtimes.com
 
-Most Americans think Donald Trump is making a national affordability crisis worse. About three-quarters of Americans view the economy as only fair or poor, and among those who say it is poor, rising prices are the main reason. on.ft.com/4reyoYK
+Opinion: The best that can be said for the UK Budget is that it could have been worse. on.ft.com/4pa94BY
 
-[2025-11-28 04:05:03](https://bsky.app/profile/financialtimes.com/post/3m6n2sfyqb62r)
+[2025-11-28 04:45:07](https://bsky.app/profile/financialtimes.com/post/3m6n522ajpj27)
 
 ---
 
-@apnews.com
+@nhknewsunofficial.bsky.social
 
-Detroit Lions wide receiver Amon-Ra St. Brown limped off the field and toward the locker room with an ankle injury in the first quarter against the Green Bay Packers on Thursday.
+今年度補正予算案 きょう決定へ 総額は約18兆3000億円に
+https://news.web.nhk/newsweb/na/na-k10014988331000
 
-[2025-11-28 04:04:07](https://bsky.app/profile/apnews.com/post/3m6n2qqcrei22)
+[2025-11-28 04:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6n4zy6ua52e)
+
+---
+
+@reuters.com
+
+Brazilian physician hails love of paleontology that led to major ancient reptile discovery reut.rs/48mzWqW
+
+[2025-11-28 04:40:17](https://bsky.app/profile/reuters.com/post/3m6n4rfr4i52k)
+
+---
+
+@nytimes.com
+
+Pope Leo XIV embarked on his first international trip as pontiff on Thursday, traveling to Turkey to start a six-day tour that will also include Lebanon. www.nytimes.com/2025/11/27/w...
+
+[2025-11-28 04:40:04](https://bsky.app/profile/nytimes.com/post/3m6n4qzqtt22i)
+
+---
+
+@reuters.com
+
+Portugal's centre-right government passes 2026 budget with Socialists' abstention reut.rs/4ojxIi4
+
+[2025-11-28 04:35:11](https://bsky.app/profile/reuters.com/post/3m6n4ibv7vf2n)
+
+---
+
+@nytimes.com
+
+After a mostly dry Thanksgiving across the U.S., forecasters say a storm bringing heavy snow, sleet, freezing rain and blizzard conditions could lead to “severe travel disruptions” for the Northern Plains, Upper Midwest and Great Lakes from Friday through the weekend.
+
+[2025-11-28 04:35:02](https://bsky.app/profile/nytimes.com/post/3m6n4hzplhq26)
+
+---
+
+@reuters.com
+
+Kenya Wildlife Service rejects wildebeest migration concerns linked to luxury lodge reut.rs/43SSVIo
+
+[2025-11-28 04:31:06](https://bsky.app/profile/reuters.com/post/3m6n4axyrqh2d)
+
+---
+
+@wsj.com
+
+Men’s brands are having a moment. From beard oil to body wash, companies are ramping up their messaging and speaking directly to male consumers in more fun and frank ways.
+
+Six brands tell us what men seeking grooming products want.
+
+[2025-11-28 04:30:38](https://bsky.app/profile/wsj.com/post/3m6n4a5is7e24)
 
 ---
 
