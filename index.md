@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;"> Germany’s Schumpeterian pains on.ft.com/4rG912v  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m6mbbs4k4h26" target="_blank">financialtimes.com</a> (2025-11-27 20:28:22)</span><span style="padding-right:50px;">プロ野球 FA権で巨人移籍の松本剛「全試合出場を目指す」 https://news.web.nhk/newsweb/na/na-k10014988261000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6mb7irfu526" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-27 20:27:03)</span><span style="padding-right:50px;">KKR-backed Serentica may raise up to $8 bln for India green energy expansion reut.rs/485keBR <a href="https://bsky.app/profile/reuters.com/post/3m6mb43geot27" target="_blank">reuters.com</a> (2025-11-27 20:25:10)</span><span style="padding-right:50px;">Pope Leo XIV begins a trip to Turkey and Lebanon on Thursday — the first foreign voyage of his papacy, and his biggest test yet. <a href="https://bsky.app/profile/nytimes.com/post/3m6mb3tyas527" target="_blank">nytimes.com</a> (2025-11-27 20:25:03)</span><span style="padding-right:50px;">VIDEO: 🇵🇸 🇻🇦 Popemobile transformed into Gaza children's clinic  The popemobile used by the late Pope Francis on his 2014 visit to Bethlehem has been modified to be used as a mobile children's clinic in Gaza, in accordance with the late pope's wishes <a href="https://bsky.app/profile/en.afp.com/post/3m6mb2imxic2u" target="_blank">en.afp.com</a> (2025-11-27 20:24:17)</span>
+<span style="padding-right:50px;">自動車“環境性能割” 廃止など求める意見相次ぐ 自民税調小委 https://news.web.nhk/newsweb/na/na-k10014988211000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6mcf24g2p2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-27 20:48:03)</span><span style="padding-right:50px;">香港の高層住宅火災、防火不備で「異常な延焼」か　死者55人に www.nikkei.com/article/DGXZQO...  11月26日午後に出火し、27日午後時点でも鎮火していません。行方不明者の捜索が続いており、犠牲者が増える可能性があります。  警察は補修工事を請け負った建設業者の役員ら3人を過失致死容疑で逮捕したと発表しました。  各階の窓付近に燃えやすい発泡スチロールの板が置かれ、防護ネットも防火基準を満たしていなかったといいます。 <a href="https://bsky.app/profile/nikkei.com/post/3m6mcd2vdvq2w" target="_blank">nikkei.com</a> (2025-11-27 20:46:58)</span><span style="padding-right:50px;">Gut-Behrami to miss Winter Olympics after knee injury reut.rs/485u7Q3 <a href="https://bsky.app/profile/reuters.com/post/3m6mc7wy5gn2k" target="_blank">reuters.com</a> (2025-11-27 20:45:14)</span><span style="padding-right:50px;">自民 献金の透明性向上へ 受け皿となる支部指定などの法案了承 https://news.web.nhk/newsweb/na/na-k10014988221000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6mc7sucyf2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-27 20:45:07)</span><span style="padding-right:50px;">立民 企業・団体献金扱い 国民と公明の提出法案に賛成の方針 https://news.web.nhk/newsweb/na/na-k10014988231000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6mc7om6k52b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-27 20:45:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50167.10 (🔺298.31 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3138.00 (🔻17.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 156.27 (🔻0.13 : 2025-11-27)</span>
+<span style="padding-right:50px;">NIKKEI: 50167.10 (🔺298.31 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3138.00 (🔻17.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 156.34 (🔻0.06 : 2025-11-27)</span>
   </div>
 </div>
 
@@ -30,97 +30,101 @@
 
 ---
 
-## [2025-11-27 20:30 updated](2025_11_27.md)
-
-@financialtimes.com
-
- Germany’s Schumpeterian pains on.ft.com/4rG912v  | opinion
-
-[2025-11-27 20:28:22](https://bsky.app/profile/financialtimes.com/post/3m6mbbs4k4h26)
-
----
+## [2025-11-27 20:50 updated](2025_11_27.md)
 
 @nhknewsunofficial.bsky.social
 
-プロ野球 FA権で巨人移籍の松本剛「全試合出場を目指す」
-https://news.web.nhk/newsweb/na/na-k10014988261000
+自動車“環境性能割” 廃止など求める意見相次ぐ 自民税調小委
+https://news.web.nhk/newsweb/na/na-k10014988211000
 
-[2025-11-27 20:27:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6mb7irfu526)
-
----
-
-@reuters.com
-
-KKR-backed Serentica may raise up to $8 bln for India green energy expansion reut.rs/485keBR
-
-[2025-11-27 20:25:10](https://bsky.app/profile/reuters.com/post/3m6mb43geot27)
-
----
-
-@nytimes.com
-
-Pope Leo XIV begins a trip to Turkey and Lebanon on Thursday — the first foreign voyage of his papacy, and his biggest test yet.
-
-[2025-11-27 20:25:03](https://bsky.app/profile/nytimes.com/post/3m6mb3tyas527)
-
----
-
-@en.afp.com
-
-VIDEO: 🇵🇸 🇻🇦 Popemobile transformed into Gaza children's clinic
-
-The popemobile used by the late Pope Francis on his 2014 visit to Bethlehem has been modified to be used as a mobile children's clinic in Gaza, in accordance with the late pope's wishes
-
-[2025-11-27 20:24:17](https://bsky.app/profile/en.afp.com/post/3m6mb2imxic2u)
-
----
-
-@nhknewsunofficial.bsky.social
-
-在留許可の手数料引き上げと国籍取得要件の厳格化を検討 政府
-https://news.web.nhk/newsweb/na/na-k10014988241000
-
-[2025-11-27 20:24:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6mb2ayrvm2b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-能登半島地震の震源域周辺 地震半年ほど前に地殻のひずみ増大
-https://news.web.nhk/newsweb/na/na-k10014988141000
-
-[2025-11-27 20:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6mb23ro2i2e)
+[2025-11-27 20:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6mcf24g2p2p)
 
 ---
 
 @nikkei.com
 
-多摩モノレール延伸が事業認可　上北台―箱根ケ崎（無料記事）
+香港の高層住宅火災、防火不備で「異常な延焼」か　死者55人に
 www.nikkei.com/article/DGXZQO...
 
-計画では上北台駅から新青梅街道に沿って北西方向に延伸し、7つの駅を新設。東京都内の区市で唯一鉄道駅がない武蔵村山市に4つの駅ができます。
+11月26日午後に出火し、27日午後時点でも鎮火していません。行方不明者の捜索が続いており、犠牲者が増える可能性があります。
 
-2025年度中に着手し、2034年度の開業を目指します。
+警察は補修工事を請け負った建設業者の役員ら3人を過失致死容疑で逮捕したと発表しました。
 
-#ニュース
+各階の窓付近に燃えやすい発泡スチロールの板が置かれ、防護ネットも防火基準を満たしていなかったといいます。
 
-[2025-11-27 20:16:59](https://bsky.app/profile/nikkei.com/post/3m6mangdh2x2w)
-
----
-
-@wsj.com
-
-Citibank’s launch of its Strata Elite credit card this summer marked its return to the sizzling-hot premium market. Behind the scenes, the rollout was marred by a headache.
-
-[2025-11-27 20:16:29](https://bsky.app/profile/wsj.com/post/3m6mamkpgx52r)
+[2025-11-27 20:46:58](https://bsky.app/profile/nikkei.com/post/3m6mcd2vdvq2w)
 
 ---
 
-@apnews.com
+@reuters.com
 
-French President Emmanuel Macron has announced that volunteers aged 18 and 19 will start serving next year in a 10-month new military service program as France seeks to bolster its armed forces to address growing threats.
+Gut-Behrami to miss Winter Olympics after knee injury reut.rs/485u7Q3
 
-[2025-11-27 20:16:04](https://bsky.app/profile/apnews.com/post/3m6malrylp52y)
+[2025-11-27 20:45:14](https://bsky.app/profile/reuters.com/post/3m6mc7wy5gn2k)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+自民 献金の透明性向上へ 受け皿となる支部指定などの法案了承
+https://news.web.nhk/newsweb/na/na-k10014988221000
+
+[2025-11-27 20:45:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6mc7sucyf2b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+立民 企業・団体献金扱い 国民と公明の提出法案に賛成の方針
+https://news.web.nhk/newsweb/na/na-k10014988231000
+
+[2025-11-27 20:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6mc7om6k52b)
+
+---
+
+@npr.org
+
+Thanksgiving has a complicated origin story, but it remains a great opportunity to express gratitude. Morning Edition host Michel Martin explains why that is. n.pr/4ptlq7M
+
+[2025-11-27 20:43:12](https://bsky.app/profile/npr.org/post/3m6mc4cxchy2h)
+
+---
+
+@reuters.com
+
+UK's Halfords profit jumps 1% on strong bicycle sales reut.rs/43XpVzk
+
+[2025-11-27 20:40:18](https://bsky.app/profile/reuters.com/post/3m6mbx56cmn27)
+
+---
+
+@yahoofinance.com
+
+Seasonal hiring offers little reprieve for labor market woes
+
+[2025-11-27 20:36:08](https://bsky.app/profile/yahoofinance.com/post/3m6mbpo5h3m2e)
+
+---
+
+@reuters.com
+
+UK's Debenhams to implement pay plan without vote in Frasers stand-off reut.rs/4pfH5Aw
+
+[2025-11-27 20:35:09](https://bsky.app/profile/reuters.com/post/3m6mbnwg3lp2w)
+
+---
+
+@nikkei.com
+
+【3分でわかる就活・業界研究】
+航空業界、インバウンド拡大で需要増
+www.nikkei.com/article/DGXZQO...
+
+成田空港では2029年に3本目の滑走路が完成する予定で、インバウンド需要を取り込む国際線が業績を支える柱に。
+
+各社はマイルや低運賃で顧客の囲い込みを競います。
+
+[2025-11-27 20:30:58](https://bsky.app/profile/nikkei.com/post/3m6mbghckgu2e)
 
 ---
 
