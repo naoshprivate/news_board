@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Russia's Urals oil price discount widens to 23% in November, central bank says reut.rs/4p1ch6x <a href="https://bsky.app/profile/reuters.com/post/3m6mwdose6b22" target="_blank">reuters.com</a> (2025-11-28 02:45:14)</span><span style="padding-right:50px;">An overnight rocket attack on one of the largest gas fields in Iraq caused major power outages across most of the country’s semiautonomous Kurdistan region on Thursday, local authorities said. <a href="https://bsky.app/profile/nytimes.com/post/3m6mw7tdalj2y" target="_blank">nytimes.com</a> (2025-11-28 02:43:05)</span><span style="padding-right:50px;">Schools and councils warn rising cost of special needs support is unaffordable on.ft.com/4ishhyI <a href="https://bsky.app/profile/financialtimes.com/post/3m6mw5j3nmn2r" target="_blank">financialtimes.com</a> (2025-11-28 02:41:47)</span><span style="padding-right:50px;">President Emmanuel Macron unveils a new national military service plan as France seeks to bolster its armed forces to address growing concerns over Russia’s threat to European nations beyond the war in Ukraine. <a href="https://bsky.app/profile/nbcnews.com/post/3m6mw2trjgi2w" target="_blank">nbcnews.com</a> (2025-11-28 02:40:17)</span><span style="padding-right:50px;">ECB's Kazaks says time is not ripe for a rate cut reut.rs/486amry <a href="https://bsky.app/profile/reuters.com/post/3m6mw2rrdqi27" target="_blank">reuters.com</a> (2025-11-28 02:40:15)</span>
+<span style="padding-right:50px;"> The UK’s new gambling tax ups the odds of M&A on.ft.com/4oEv7zH  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m6mxnug3kd2r" target="_blank">financialtimes.com</a> (2025-11-28 03:08:49)</span><span style="padding-right:50px;">Only Ronaldo worth his pay, says Saudi ex-sports chief reut.rs/3Kdmuhe <a href="https://bsky.app/profile/reuters.com/post/3m6mxhd5wve2e" target="_blank">reuters.com</a> (2025-11-28 03:05:10)</span><span style="padding-right:50px;">来年度国債発行は短中長期に増額余地の声、超長期減額－財務省PD会合 <a href="https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6mxfo6gmv2n" target="_blank">bloomberg-jp.bsky.social</a> (2025-11-28 03:04:14)</span><span style="padding-right:50px;">OPECプラス、増産一時停止の方針維持の見通し－30日に会合 <a href="https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6mxfjgncn2w" target="_blank">bloomberg-jp.bsky.social</a> (2025-11-28 03:04:09)</span><span style="padding-right:50px;">香港大規模火災で注目、なぜ竹製足場を使うのか－QuickTake <a href="https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6mxfewxv725" target="_blank">bloomberg-jp.bsky.social</a> (2025-11-28 03:04:05)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50167.10 (🔺298.31 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3138.00 (🔻17.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 156.35 (🔻0.05 : 2025-11-27)</span>
+<span style="padding-right:50px;">NIKKEI: 50167.10 (🔺298.31 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3138.00 (🔻17.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 156.34 (🔻0.06 : 2025-11-27)</span>
   </div>
 </div>
 
@@ -30,85 +30,85 @@
 
 ---
 
-## [2025-11-28 02:50 updated](2025_11_28.md)
-
-@reuters.com
-
-Russia's Urals oil price discount widens to 23% in November, central bank says reut.rs/4p1ch6x
-
-[2025-11-28 02:45:14](https://bsky.app/profile/reuters.com/post/3m6mwdose6b22)
-
----
-
-@nytimes.com
-
-An overnight rocket attack on one of the largest gas fields in Iraq caused major power outages across most of the country’s semiautonomous Kurdistan region on Thursday, local authorities said.
-
-[2025-11-28 02:43:05](https://bsky.app/profile/nytimes.com/post/3m6mw7tdalj2y)
-
----
+## [2025-11-28 03:10 updated](2025_11_28.md)
 
 @financialtimes.com
 
-Schools and councils warn rising cost of special needs support is unaffordable on.ft.com/4ishhyI
+ The UK’s new gambling tax ups the odds of M&A on.ft.com/4oEv7zH  | opinion
 
-[2025-11-28 02:41:47](https://bsky.app/profile/financialtimes.com/post/3m6mw5j3nmn2r)
-
----
-
-@nbcnews.com
-
-President Emmanuel Macron unveils a new national military service plan as France seeks to bolster its armed forces to address growing concerns over Russia’s threat to European nations beyond the war in Ukraine.
-
-[2025-11-28 02:40:17](https://bsky.app/profile/nbcnews.com/post/3m6mw2trjgi2w)
+[2025-11-28 03:08:49](https://bsky.app/profile/financialtimes.com/post/3m6mxnug3kd2r)
 
 ---
 
 @reuters.com
 
-ECB's Kazaks says time is not ripe for a rate cut reut.rs/486amry
+Only Ronaldo worth his pay, says Saudi ex-sports chief reut.rs/3Kdmuhe
 
-[2025-11-28 02:40:15](https://bsky.app/profile/reuters.com/post/3m6mw2rrdqi27)
+[2025-11-28 03:05:10](https://bsky.app/profile/reuters.com/post/3m6mxhd5wve2e)
 
 ---
 
-@forbes.com
+@bloomberg-jp.bsky.social
 
-The NFL has four games scheduled before its regular slate of matchups on Sunday — including a game on Amazon Prime that will include Black Friday sales deals.
+来年度国債発行は短中長期に増額余地の声、超長期減額－財務省PD会合
 
-[2025-11-28 02:40:08](https://bsky.app/profile/forbes.com/post/3m6mw2kyb5m2p)
+[2025-11-28 03:04:14](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6mxfo6gmv2n)
+
+---
+
+@bloomberg-jp.bsky.social
+
+OPECプラス、増産一時停止の方針維持の見通し－30日に会合
+
+[2025-11-28 03:04:09](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6mxfjgncn2w)
+
+---
+
+@bloomberg-jp.bsky.social
+
+香港大規模火災で注目、なぜ竹製足場を使うのか－QuickTake
+
+[2025-11-28 03:04:05](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6mxfewxv725)
+
+---
+
+@bloomberg-jp.bsky.social
+
+香港高層マンション火災、改修工事の安全基準に疑義－死者75人に
+
+[2025-11-28 03:03:45](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6mxeru6mv2n)
 
 ---
 
 @reuters.com
 
-Vanke bonds plunge on plan to delay repayment, revive China property concerns reut.rs/4aiYC6n
+UK housing demand seen recovering on clearer post-budget outlook reut.rs/43Qr0c7
 
-[2025-11-28 02:35:09](https://bsky.app/profile/reuters.com/post/3m6mvro7qe427)
-
----
-
-@usatoday.com
-
-Macy's Thanksgiving Day spectacle is all set to kick off the 2025 holiday season as it returns on Thursday, Nov. 27. Here's what to expect.
-
-[2025-11-28 02:30:41](https://bsky.app/profile/usatoday.com/post/3m6mvjnqk5t2d)
+[2025-11-28 03:01:05](https://bsky.app/profile/reuters.com/post/3m6mx7zi3gq2k)
 
 ---
 
 @aljazeera.com
 
-Sonia Dahmani, 60, was arrested in 2024 after questioning government policy on African refugees and migrants.
+Critics worry that the creation of 'alternative safe communities' may tip the enclave into permanent division.
 
-[2025-11-28 02:30:39](https://bsky.app/profile/aljazeera.com/post/3m6mvjlx6mx2f)
+[2025-11-28 03:00:30](https://bsky.app/profile/aljazeera.com/post/3m6mx6ydj6p2f)
 
 ---
 
-@reuters.com
+@nbcnews.com
 
-Tunisia frees prominent lawyer Sonia Dahmani, a critic of the president reut.rs/4ioVJmB
+Pope Leo XIV touches down in the conflict-ridden Middle East on the first international trip of his papacy, urging peace and hoping to help the Catholic Church heal centuries-old divisions with other religions and denominations.
 
-[2025-11-28 02:30:37](https://bsky.app/profile/reuters.com/post/3m6mvjkmeb22i)
+[2025-11-28 03:00:29](https://bsky.app/profile/nbcnews.com/post/3m6mx6wueec2t)
+
+---
+
+@bloomberg.com
+
+Mexican President Claudia Sheinbaum said her first face-to-face meeting with Donald Trump could happen as soon as next week at the FIFA 2026 World Cup draw
+
+[2025-11-28 03:00:21](https://bsky.app/profile/bloomberg.com/post/3m6mx6pmwdw2h)
 
 ---
 
