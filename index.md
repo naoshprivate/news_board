@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The author Joan Didion embraced Thanksgiving. And she staged it the same way she conjured her essays, novels, screenplays and memoirs, with an almost military mustering of planning and ambition. <a href="https://bsky.app/profile/nytimes.com/post/3m6n5b5xlqu2m" target="_blank">nytimes.com</a> (2025-11-28 04:49:06)</span><span style="padding-right:50px;">UK retailers urge government to end parcel tariff loophole sooner reut.rs/4pDUJgX <a href="https://bsky.app/profile/reuters.com/post/3m6n52axqdp2i" target="_blank">reuters.com</a> (2025-11-28 04:45:14)</span><span style="padding-right:50px;">Opinion: The best that can be said for the UK Budget is that it could have been worse. on.ft.com/4pa94BY <a href="https://bsky.app/profile/financialtimes.com/post/3m6n522ajpj27" target="_blank">financialtimes.com</a> (2025-11-28 04:45:07)</span><span style="padding-right:50px;">今年度補正予算案 きょう決定へ 総額は約18兆3000億円に https://news.web.nhk/newsweb/na/na-k10014988331000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6n4zy6ua52e" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-28 04:45:02)</span><span style="padding-right:50px;">Brazilian physician hails love of paleontology that led to major ancient reptile discovery reut.rs/48mzWqW <a href="https://bsky.app/profile/reuters.com/post/3m6n4rfr4i52k" target="_blank">reuters.com</a> (2025-11-28 04:40:17)</span>
+<span style="padding-right:50px;">違憲判断続く同性婚訴訟 きょう東京高裁で最後の2審判決 https://news.web.nhk/newsweb/na/na-k10014988251000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6n6f27ccb23" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-28 05:09:07)</span><span style="padding-right:50px;">“不起訴理由などの公表 積極的に検討を” 全国の検察庁に周知 https://news.web.nhk/newsweb/na/na-k10014988421000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6n6evaxyq26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-28 05:09:02)</span><span style="padding-right:50px;">日本郵政 根岸社長 収益力改善へ 不動産事業強化の考え示す https://news.web.nhk/newsweb/na/na-k10014988301000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6n67jg4aj2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-28 05:06:02)</span><span style="padding-right:50px;">【欧州市況】英国債が6営業日ぶり下落－自動車、金融関連株が上昇 <a href="https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6n65zdbct2n" target="_blank">bloomberg-jp.bsky.social</a> (2025-11-28 05:05:14)</span><span style="padding-right:50px;">Zimbabwe sees economic growth slowing to 5% in 2026 amid global headwinds reut.rs/49Eu9zt <a href="https://bsky.app/profile/reuters.com/post/3m6n65w2vvp2d" target="_blank">reuters.com</a> (2025-11-28 05:05:10)</span>
   </div>
 </div>
 
@@ -30,88 +30,90 @@
 
 ---
 
-## [2025-11-28 04:50 updated](2025_11_28.md)
+## [2025-11-28 05:10 updated](2025_11_28.md)
 
-@nytimes.com
+@nhknewsunofficial.bsky.social
 
-The author Joan Didion embraced Thanksgiving. And she staged it the same way she conjured her essays, novels, screenplays and memoirs, with an almost military mustering of planning and ambition.
+違憲判断続く同性婚訴訟 きょう東京高裁で最後の2審判決
+https://news.web.nhk/newsweb/na/na-k10014988251000
 
-[2025-11-28 04:49:06](https://bsky.app/profile/nytimes.com/post/3m6n5b5xlqu2m)
-
----
-
-@reuters.com
-
-UK retailers urge government to end parcel tariff loophole sooner reut.rs/4pDUJgX
-
-[2025-11-28 04:45:14](https://bsky.app/profile/reuters.com/post/3m6n52axqdp2i)
-
----
-
-@financialtimes.com
-
-Opinion: The best that can be said for the UK Budget is that it could have been worse. on.ft.com/4pa94BY
-
-[2025-11-28 04:45:07](https://bsky.app/profile/financialtimes.com/post/3m6n522ajpj27)
+[2025-11-28 05:09:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6n6f27ccb23)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-今年度補正予算案 きょう決定へ 総額は約18兆3000億円に
+“不起訴理由などの公表 積極的に検討を” 全国の検察庁に周知
+https://news.web.nhk/newsweb/na/na-k10014988421000
+
+[2025-11-28 05:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6n6evaxyq26)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+日本郵政 根岸社長 収益力改善へ 不動産事業強化の考え示す
+https://news.web.nhk/newsweb/na/na-k10014988301000
+
+[2025-11-28 05:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6n67jg4aj2j)
+
+---
+
+@bloomberg-jp.bsky.social
+
+【欧州市況】英国債が6営業日ぶり下落－自動車、金融関連株が上昇
+
+[2025-11-28 05:05:14](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6n65zdbct2n)
+
+---
+
+@reuters.com
+
+Zimbabwe sees economic growth slowing to 5% in 2026 amid global headwinds reut.rs/49Eu9zt
+
+[2025-11-28 05:05:10](https://bsky.app/profile/reuters.com/post/3m6n65w2vvp2d)
+
+---
+
+@bloomberg-jp.bsky.social
+
+フランスが志願兵制を創設へ、35年まで5万人目標－ロシア脅威に対応
+
+[2025-11-28 05:05:09](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6n65ukizn2c)
+
+---
+
+@bloomberg-jp.bsky.social
+
+英国への純移民数が約70%減、コロナ禍以降で最低－ビザ発給も減少
+
+[2025-11-28 05:05:03](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6n65op5jl2n)
+
+---
+
+@bloomberg-jp.bsky.social
+
+JPモルガン、中国株の投資判断引き上げ－AI採用や刺激策が追い風に
+
+[2025-11-28 05:04:58](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6n65ju5x52c)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+今年度の補正予算案 きょう決定 総額は約18兆3000億円
 https://news.web.nhk/newsweb/na/na-k10014988331000
 
-[2025-11-28 04:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6n4zy6ua52e)
+[2025-11-28 05:03:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6n62d3pig2e)
 
 ---
 
-@reuters.com
+@nhknewsunofficial.bsky.social
 
-Brazilian physician hails love of paleontology that led to major ancient reptile discovery reut.rs/48mzWqW
+国民健康保険 保険料軽減措置 高校生年代まで拡大で調整
+https://news.web.nhk/newsweb/na/na-k10014988411000
 
-[2025-11-28 04:40:17](https://bsky.app/profile/reuters.com/post/3m6n4rfr4i52k)
-
----
-
-@nytimes.com
-
-Pope Leo XIV embarked on his first international trip as pontiff on Thursday, traveling to Turkey to start a six-day tour that will also include Lebanon. www.nytimes.com/2025/11/27/w...
-
-[2025-11-28 04:40:04](https://bsky.app/profile/nytimes.com/post/3m6n4qzqtt22i)
-
----
-
-@reuters.com
-
-Portugal's centre-right government passes 2026 budget with Socialists' abstention reut.rs/4ojxIi4
-
-[2025-11-28 04:35:11](https://bsky.app/profile/reuters.com/post/3m6n4ibv7vf2n)
-
----
-
-@nytimes.com
-
-After a mostly dry Thanksgiving across the U.S., forecasters say a storm bringing heavy snow, sleet, freezing rain and blizzard conditions could lead to “severe travel disruptions” for the Northern Plains, Upper Midwest and Great Lakes from Friday through the weekend.
-
-[2025-11-28 04:35:02](https://bsky.app/profile/nytimes.com/post/3m6n4hzplhq26)
-
----
-
-@reuters.com
-
-Kenya Wildlife Service rejects wildebeest migration concerns linked to luxury lodge reut.rs/43SSVIo
-
-[2025-11-28 04:31:06](https://bsky.app/profile/reuters.com/post/3m6n4axyrqh2d)
-
----
-
-@wsj.com
-
-Men’s brands are having a moment. From beard oil to body wash, companies are ramping up their messaging and speaking directly to male consumers in more fun and frank ways.
-
-Six brands tell us what men seeking grooming products want.
-
-[2025-11-28 04:30:38](https://bsky.app/profile/wsj.com/post/3m6n4a5is7e24)
+[2025-11-28 05:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6n625ucop2t)
 
 ---
 
