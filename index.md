@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Trafigura says Gupta pilfered funds from metals fraud for his distressed firms reut.rs/3XRAMqO <a href="https://bsky.app/profile/reuters.com/post/3m6mzoyo4ff2i" target="_blank">reuters.com</a> (2025-11-28 03:45:15)</span><span style="padding-right:50px;">Two members of the West Virginia National Guard remained in critical condition in a hospital on Thursday, officials said, a day after they were ambushed just a few blocks from the White House. The father of one of the Guard members said his daughter had a “mortal wound.” <a href="https://bsky.app/profile/nytimes.com/post/3m6mzn5u7ci2e" target="_blank">nytimes.com</a> (2025-11-28 03:44:13)</span><span style="padding-right:50px;"> Walmart reinvents itself as a growth stock on.ft.com/49JrZi6  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m6mzgd5rhg2l" target="_blank">financialtimes.com</a> (2025-11-28 03:40:24)</span><span style="padding-right:50px;">Newcastle say French police assaulted several of their fans after loss at Marseille reut.rs/3Kmo7cl <a href="https://bsky.app/profile/reuters.com/post/3m6mzg54q2x2e" target="_blank">reuters.com</a> (2025-11-28 03:40:18)</span><span style="padding-right:50px;">Jimmie Duncan was released on bond in Louisiana after evidence used to convict him in the murder of his former girlfriend's daughter was discredited.  <a href="https://bsky.app/profile/cbsnews.com/post/3m6mzfmnwql2u" target="_blank">cbsnews.com</a> (2025-11-28 03:40:00)</span>
+<span style="padding-right:50px;">We owe it to our wallets and to the planet to do our darndest to reduce any possible waste. https://cnn.it/4pAvMTx <a href="https://bsky.app/profile/cnn.com/post/3m6n2vzlfo52q" target="_blank">cnn.com</a> (2025-11-28 04:07:04)</span><span style="padding-right:50px;">Bosnian broadcaster uses tent studio to protest over funding crisis reut.rs/3M1GZ0V <a href="https://bsky.app/profile/reuters.com/post/3m6n2smbvvo2o" target="_blank">reuters.com</a> (2025-11-28 04:05:10)</span><span style="padding-right:50px;">Most Americans think Donald Trump is making a national affordability crisis worse. About three-quarters of Americans view the economy as only fair or poor, and among those who say it is poor, rising prices are the main reason. on.ft.com/4reyoYK <a href="https://bsky.app/profile/financialtimes.com/post/3m6n2sfyqb62r" target="_blank">financialtimes.com</a> (2025-11-28 04:05:03)</span><span style="padding-right:50px;">Detroit Lions wide receiver Amon-Ra St. Brown limped off the field and toward the locker room with an ankle injury in the first quarter against the Green Bay Packers on Thursday. <a href="https://bsky.app/profile/apnews.com/post/3m6n2qqcrei22" target="_blank">apnews.com</a> (2025-11-28 04:04:07)</span><span style="padding-right:50px;">Dutch prosecutor fines Morgan Stanley 101 million euros for tax evasion reut.rs/3M7jPGj <a href="https://bsky.app/profile/reuters.com/post/3m6n2l4w2bx2d" target="_blank">reuters.com</a> (2025-11-28 04:00:59)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50167.10 (🔺298.31 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3138.00 (🔻17.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 156.35 (🔻0.05 : 2025-11-27)</span>
+<span style="padding-right:50px;">NIKKEI: 50167.10 (🔺298.31 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3138.00 (🔻17.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 156.34 (🔻0.06 : 2025-11-27)</span>
   </div>
 </div>
 
@@ -30,85 +30,85 @@
 
 ---
 
-## [2025-11-28 03:50 updated](2025_11_28.md)
+## [2025-11-28 04:10 updated](2025_11_28.md)
 
-@reuters.com
+@cnn.com
 
-Trafigura says Gupta pilfered funds from metals fraud for his distressed firms reut.rs/3XRAMqO
+We owe it to our wallets and to the planet to do our darndest to reduce any possible waste. https://cnn.it/4pAvMTx
 
-[2025-11-28 03:45:15](https://bsky.app/profile/reuters.com/post/3m6mzoyo4ff2i)
+[2025-11-28 04:07:04](https://bsky.app/profile/cnn.com/post/3m6n2vzlfo52q)
 
 ---
 
-@nytimes.com
+@reuters.com
 
-Two members of the West Virginia National Guard remained in critical condition in a hospital on Thursday, officials said, a day after they were ambushed just a few blocks from the White House. The father of one of the Guard members said his daughter had a “mortal wound.”
+Bosnian broadcaster uses tent studio to protest over funding crisis reut.rs/3M1GZ0V
 
-[2025-11-28 03:44:13](https://bsky.app/profile/nytimes.com/post/3m6mzn5u7ci2e)
+[2025-11-28 04:05:10](https://bsky.app/profile/reuters.com/post/3m6n2smbvvo2o)
 
 ---
 
 @financialtimes.com
 
- Walmart reinvents itself as a growth stock on.ft.com/49JrZi6  | opinion
+Most Americans think Donald Trump is making a national affordability crisis worse. About three-quarters of Americans view the economy as only fair or poor, and among those who say it is poor, rising prices are the main reason. on.ft.com/4reyoYK
 
-[2025-11-28 03:40:24](https://bsky.app/profile/financialtimes.com/post/3m6mzgd5rhg2l)
+[2025-11-28 04:05:03](https://bsky.app/profile/financialtimes.com/post/3m6n2sfyqb62r)
+
+---
+
+@apnews.com
+
+Detroit Lions wide receiver Amon-Ra St. Brown limped off the field and toward the locker room with an ankle injury in the first quarter against the Green Bay Packers on Thursday.
+
+[2025-11-28 04:04:07](https://bsky.app/profile/apnews.com/post/3m6n2qqcrei22)
 
 ---
 
 @reuters.com
 
-Newcastle say French police assaulted several of their fans after loss at Marseille reut.rs/3Kmo7cl
+Dutch prosecutor fines Morgan Stanley 101 million euros for tax evasion reut.rs/3M7jPGj
 
-[2025-11-28 03:40:18](https://bsky.app/profile/reuters.com/post/3m6mzg54q2x2e)
-
----
-
-@cbsnews.com
-
-Jimmie Duncan was released on bond in Louisiana after evidence used to convict him in the murder of his former girlfriend's daughter was discredited. 
-
-[2025-11-28 03:40:00](https://bsky.app/profile/cbsnews.com/post/3m6mzfmnwql2u)
-
----
-
-@reuters.com
-
-EU watchdog accuses Commission of lack of transparency in 'urgent' proposals reut.rs/4p1zB47
-
-[2025-11-28 03:35:09](https://bsky.app/profile/reuters.com/post/3m6mz4xg2we2i)
-
----
-
-@nytimes.com
-
-A strong, 6.0-magnitude earthquake struck in Alaska on Thursday, according to the USGS.
-
-[2025-11-28 03:35:08](https://bsky.app/profile/nytimes.com/post/3m6mz4w656n2e)
+[2025-11-28 04:00:59](https://bsky.app/profile/reuters.com/post/3m6n2l4w2bx2d)
 
 ---
 
 @usatoday.com
 
-Some forecasters say a complex dance involving the polar vortex could send some of Earth's most extreme cold toward the United States.
+James McCrery II, who was brought on board by Trump to serve as the lead architect, reportedly expressed concern it could 'dwarf' the White House.
 
-[2025-11-28 03:32:27](https://bsky.app/profile/usatoday.com/post/3m6myy4fhsb2z)
+[2025-11-28 04:00:53](https://bsky.app/profile/usatoday.com/post/3m6n2kwtoew2p)
 
 ---
 
-@financialtimes.com
+@nbcnews.com
 
-Legislation for a crucial £4.8bn tax rise through salary sacrifice schemes is expected to be introduced before Christmas, even though it will not take effect until April 2029, officials said. on.ft.com/4rtTLpe
+Jeanine Pirro, the U.S. attorney for the District of Columbia, described at a news conference in Washington what investigators know about the shooting of two National Guard members on the day before Thanksgiving.
 
-[2025-11-28 03:32:05](https://bsky.app/profile/financialtimes.com/post/3m6myxhpilo2q)
+[2025-11-28 04:00:35](https://bsky.app/profile/nbcnews.com/post/3m6n2kfqlck2j)
 
 ---
 
 @aljazeera.com
 
-Russian leader says Ukraine must cede key territory and the world must recognise Russia’s gains.
+Observers condemn Israeli army's killing of two Palestinian men in northern West Bank as 'shocking crime'.
 
-[2025-11-28 03:30:39](https://bsky.app/profile/aljazeera.com/post/3m6myuvmpq623)
+[2025-11-28 04:00:34](https://bsky.app/profile/aljazeera.com/post/3m6n2kf6fat2c)
+
+---
+
+@apnews.com
+
+A rare Faberge egg crafted for Russia's ruling family before the revolution is going up for auction.
+
+[2025-11-28 04:00:24](https://bsky.app/profile/apnews.com/post/3m6n2k3ywz72c)
+
+---
+
+@financialtimes.com
+
+Opinion: 'China is making trade impossible. If it will buy nothing from others but commodities and consumer goods, they must prepare to do the same'. on.ft.com/3LZWQwZ
+
+[2025-11-28 04:00:05](https://bsky.app/profile/financialtimes.com/post/3m6n2jj6hwc2q)
 
 ---
 
