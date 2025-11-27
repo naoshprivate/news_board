@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Nigeria’s Tinubu declares security emergency, orders mass recruitment of police and army reut.rs/3KbC9xA <a href="https://bsky.app/profile/reuters.com/post/3m6l5drueu62i" target="_blank">reuters.com</a> (2025-11-27 09:45:14)</span><span style="padding-right:50px;">US drillers cut oil rigs to lowest in four years, Baker Hughes says reut.rs/3MnXPHg <a href="https://bsky.app/profile/reuters.com/post/3m6l52xw4xl2k" target="_blank">reuters.com</a> (2025-11-27 09:40:18)</span><span style="padding-right:50px;">In @nytopinion.nytimes.com   “We ask a lot of those who put their lives on the line defending our nation. The least we can do is respect their free speech rights once they’ve retired,” David Cole writes. <a href="https://bsky.app/profile/nytimes.com/post/3m6l52kj4yi2l" target="_blank">nytimes.com</a> (2025-11-27 09:40:04)</span><span style="padding-right:50px;">Louisiana surgeon general who stopped state's vaccine program named CDC's principal deputy director. <a href="https://bsky.app/profile/cbsnews.com/post/3m6l52gts4r2p" target="_blank">cbsnews.com</a> (2025-11-27 09:40:01)</span><span style="padding-right:50px;">Bayer unveils new soy seed for Brazil's farmers reut.rs/4pCKYj5 <a href="https://bsky.app/profile/reuters.com/post/3m6l4rthlu52w" target="_blank">reuters.com</a> (2025-11-27 09:35:12)</span>
+<span style="padding-right:50px;">BREAKING: The suspect in the shooting of National Guard members near the White House is an Afghan national who entered the U.S. in 2021, AP sources say. <a href="https://bsky.app/profile/apnews.com/post/3m6l6nnyesh2c" target="_blank">apnews.com</a> (2025-11-27 10:08:39)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】佐賀県警の“不正DNA型鑑定” 警察庁が「特別監察」の中間報告を公表 (2025-11-27 10:03:30) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6l6fltppw2l" target="_blank">sokuho.news</a> (2025-11-27 10:04:09)</span><span style="padding-right:50px;">Archaeologists say a 3D model of a centuries-old quarry of unfinished stone head statues on Easter Island offers new clues about how these monuments were made and the Polynesian society that brought them into being. https://cnn.it/4okaqZC <a href="https://bsky.app/profile/cnn.com/post/3m6l6btildw2h" target="_blank">cnn.com</a> (2025-11-27 10:02:02)</span><span style="padding-right:50px;">Reports: Arkansas close to hiring USF's Alex Golesh as head coach reut.rs/3M128s4 <a href="https://bsky.app/profile/reuters.com/post/3m6l6aonsnv2w" target="_blank">reuters.com</a> (2025-11-27 10:01:24)</span><span style="padding-right:50px;">Before "Stranger Things" returns for Season 5 on Netflix, read our complete recap of everything to remember from the previous seasons. <a href="https://bsky.app/profile/usatoday.com/post/3m6l6a25rqj2z" target="_blank">usatoday.com</a> (2025-11-27 10:01:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50281.52 (🔺412.73 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3139.00 (🔻16.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 156.06 (🔻0.34 : 2025-11-27)</span>
+<span style="padding-right:50px;">NIKKEI: 50184.39 (🔺315.60 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3141.00 (🔻14.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 155.93 (🔻0.46 : 2025-11-27)</span>
   </div>
 </div>
 
@@ -30,55 +30,13 @@
 
 ---
 
-## [2025-11-27 09:50 updated](2025_11_27.md)
+## [2025-11-27 10:10 updated](2025_11_27.md)
 
-@reuters.com
+@apnews.com
 
-Nigeria’s Tinubu declares security emergency, orders mass recruitment of police and army reut.rs/3KbC9xA
+<strong><span style="color: red;">BREAKING:</span> The suspect in the shooting of National Guard members near the White House is an Afghan national who entered the U.S. in 2021, AP sources say.</strong>
 
-[2025-11-27 09:45:14](https://bsky.app/profile/reuters.com/post/3m6l5drueu62i)
-
----
-
-@reuters.com
-
-US drillers cut oil rigs to lowest in four years, Baker Hughes says reut.rs/3MnXPHg
-
-[2025-11-27 09:40:18](https://bsky.app/profile/reuters.com/post/3m6l52xw4xl2k)
-
----
-
-@nytimes.com
-
-In @nytopinion.nytimes.com 
-
-“We ask a lot of those who put their lives on the line defending our nation. The least we can do is respect their free speech rights once they’ve retired,” David Cole writes.
-
-[2025-11-27 09:40:04](https://bsky.app/profile/nytimes.com/post/3m6l52kj4yi2l)
-
----
-
-@cbsnews.com
-
-Louisiana surgeon general who stopped state's vaccine program named CDC's principal deputy director.
-
-[2025-11-27 09:40:01](https://bsky.app/profile/cbsnews.com/post/3m6l52gts4r2p)
-
----
-
-@reuters.com
-
-Bayer unveils new soy seed for Brazil's farmers reut.rs/4pCKYj5
-
-[2025-11-27 09:35:12](https://bsky.app/profile/reuters.com/post/3m6l4rthlu52w)
-
----
-
-@npr.org
-
-A transcript of the call appears to show Steve Witkoff coaching his Russian counterpart on how they could get a better deal to end the war in Ukraine n.pr/4incxdN
-
-[2025-11-27 09:34:56](https://bsky.app/profile/npr.org/post/3m6l4reifnm2i)
+[2025-11-27 10:08:39](https://bsky.app/profile/apnews.com/post/3m6l6nnyesh2c)
 
 ---
 
@@ -86,50 +44,83 @@ A transcript of the call appears to show Steve Witkoff coaching his Russian coun
 
 🛎️JNNより【速報】です。
 
-【速報】日経平均 一時600円以上値上がり 節目の5万円回復 米株高受け続伸
-(2025-11-27 09:07:27) #ニュース
+【速報】佐賀県警の“不正DNA型鑑定” 警察庁が「特別監察」の中間報告を公表
+(2025-11-27 10:03:30) #ニュース
 
-📈世界の株価
-🔗https://sekai-kabuka.com/
-
-[2025-11-27 09:34:15](https://bsky.app/profile/sokuho.news/post/3m6l4q5e75u2e)
+[2025-11-27 10:04:09](https://bsky.app/profile/sokuho.news/post/3m6l6fltppw2l)
 
 ---
 
-@sokuho.news
+@cnn.com
 
-🛎️JNNより【速報】です。
+Archaeologists say a 3D model of a centuries-old quarry of unfinished stone head statues on Easter Island offers new clues about how these monuments were made and the Polynesian society that brought them into being. https://cnn.it/4okaqZC
 
-【速報】重体の模様だった1人が死亡 国道で3人が乗った乗用車が横転 山梨
-(2025-11-27 09:20:00) #ニュース
-
-[2025-11-27 09:34:09](https://bsky.app/profile/sokuho.news/post/3m6l4pxcone2h)
+[2025-11-27 10:02:02](https://bsky.app/profile/cnn.com/post/3m6l6btildw2h)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@reuters.com
 
-高市首相動静 2025年11月26日
-https://news.web.nhk/newsweb/na/na-k10014987711000
+Reports: Arkansas close to hiring USF's Alex Golesh as head coach reut.rs/3M128s4
 
-[2025-11-27 09:33:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6l4o2l2lw2j)
+[2025-11-27 10:01:24](https://bsky.app/profile/reuters.com/post/3m6l6aonsnv2w)
+
+---
+
+@usatoday.com
+
+Before "Stranger Things" returns for Season 5 on Netflix, read our complete recap of everything to remember from the previous seasons.
+
+[2025-11-27 10:01:02](https://bsky.app/profile/usatoday.com/post/3m6l6a25rqj2z)
 
 ---
 
 @nikkei.com
 
-国際民間航空機関、議長に国交省出身の大沼俊之氏　アジアから初選出
+犬猫の「福祉」にEUが新規制　業者のコンテナ飼育禁止、チップ義務化
 www.nikkei.com/article/DGXZQO...
 
-国際民間航空機関（ICAO）は国連の専門機関。
+不正な取引を防ぐため、個体識別番号を記録したマイクロチップの装着や登録義務を強化します。
 
-国際航空における安全や運航に関わるルールを決めています。
+背景にあるのは違法業者による劣悪な環境での繁殖です。
 
-2050年の国際線からのCO2排出実質ゼロを目標に、航空分野の脱炭素に向けたルール作りも進めています。
+ドイツでは、東欧で繁殖した犬や猫を不正に輸入する「子犬マフィア」が近年話題になりました。
 
-#ニュース
+[2025-11-27 10:01:00](https://bsky.app/profile/nikkei.com/post/3m6l67xj2vb2k)
 
-[2025-11-27 09:30:59](https://bsky.app/profile/nikkei.com/post/3m6l4kcerhe2z)
+---
+
+@cnbc.com
+
+Students pursuing professional degrees will be able to borrow up to $200,000 in federal student loans beginning in 2026. 
+
+[2025-11-27 10:00:35](https://bsky.app/profile/cnbc.com/post/3m6l677pg6y23)
+
+---
+
+@apnews.com
+
+Brazilian President Luiz Inacio Lula da Silva has sanctioned a bill that exempts people earning up to 5,000 reais a month from income taxes.
+
+[2025-11-27 10:00:27](https://bsky.app/profile/apnews.com/post/3m6l66ythgq2c)
+
+---
+
+@bloomberg.com
+
+Northwestern University is closing in on a deal with Trump’s administration to pay roughly $75 million in order to restore about $790 million in frozen federal research grants
+
+[2025-11-27 10:00:22](https://bsky.app/profile/bloomberg.com/post/3m6l66tspgb2q)
+
+---
+
+@washingtonpost.com
+
+Severe flooding in southern Thailand killed at least 33 people and displaced and stranded tens of thousands more amid record-setting rainfall in parts of the country.
+
+It’s the latest in a string of deadly weather across Southeast Asia.
+
+[2025-11-27 10:00:14](https://bsky.app/profile/washingtonpost.com/post/3m6l66mf6dm2g)
 
 ---
 
