@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】ウナギ国際取引の規制案を否決 日本も反対 ワシントン条約締約国会議の委員会 (2025年11月27日 16:05) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6lsnbggve2q" target="_blank">sokuho.news</a> (2025-11-27 16:06:21)</span><span style="padding-right:50px;">ウナギ全種類 国際取り引き規制 否決 日本の主張認める https://news.web.nhk/newsweb/na/na-k10014987991000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6lsms2gur2r" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-27 16:06:03)</span><span style="padding-right:50px;">US stops processing Afghan immigration requests after attack near White House reut.rs/4856win <a href="https://bsky.app/profile/reuters.com/post/3m6lsl6gf3f2d" target="_blank">reuters.com</a> (2025-11-27 16:05:11)</span><span style="padding-right:50px;">🔔NHKより【速報 JUST IN】です。  ウナギ全種類 国際取り引き規制 否決 日本の主張認める (2025-11-27 16:03:49) #ニュース https://news.web.nhk/newsweb/na/na-k10014987991000 <a href="https://bsky.app/profile/sokuho.news/post/3m6lsjjlk4u2y" target="_blank">sokuho.news</a> (2025-11-27 16:04:15)</span><span style="padding-right:50px;">Watch: How the DC shooting unfolded that left 2 guardsmen dead <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6lshjznd42w" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-11-27 16:03:08)</span>
+<span style="padding-right:50px;">China's Anta Sports exploring bid for Puma, Bloomberg News reports reut.rs/4ijODQ8 <a href="https://bsky.app/profile/reuters.com/post/3m6ltov2i5f27" target="_blank">reuters.com</a> (2025-11-27 16:25:09)</span><span style="padding-right:50px;">CNBC's Inside India newsletter: Tricky labor reset — balancing business interests with worker welfare <a href="https://bsky.app/profile/cnbc.com/post/3m6ltn5d5kl23" target="_blank">cnbc.com</a> (2025-11-27 16:24:10)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】香港の高層マンション火災 死者55人に 270人以上と連絡とれず 消防当局 (2025年11月27日 16:22) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6ltkn7rdf2m" target="_blank">sokuho.news</a> (2025-11-27 16:22:46)</span><span style="padding-right:50px;">There’s no time like the end of the year to catch up on the culture you missed.  An irreverent guide to the year in culture: 🔗 on.wsj.com/4rsAl44 <a href="https://bsky.app/profile/wsj.com/post/3m6lthfcn6p2j" target="_blank">wsj.com</a> (2025-11-27 16:20:57)</span><span style="padding-right:50px;">香港 高層住宅火災 55人死亡 修繕工事担当の会社幹部ら3人逮捕 https://news.web.nhk/newsweb/na/na-k10014987551000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ltcaynj32p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-27 16:18:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50167.10 (🔺298.31 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3138.00 (🔻17.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 156.20 (🔻0.20 : 2025-11-27)</span>
+<span style="padding-right:50px;">NIKKEI: 50167.10 (🔺298.31 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3138.00 (🔻17.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 156.24 (🔻0.16 : 2025-11-27)</span>
   </div>
 </div>
 
@@ -30,7 +30,91 @@
 
 ---
 
-## [2025-11-27 16:10 updated](2025_11_27.md)
+## [2025-11-27 16:30 updated](2025_11_27.md)
+
+@reuters.com
+
+China's Anta Sports exploring bid for Puma, Bloomberg News reports reut.rs/4ijODQ8
+
+[2025-11-27 16:25:09](https://bsky.app/profile/reuters.com/post/3m6ltov2i5f27)
+
+---
+
+@cnbc.com
+
+CNBC's Inside India newsletter: Tricky labor reset — balancing business interests with worker welfare
+
+[2025-11-27 16:24:10](https://bsky.app/profile/cnbc.com/post/3m6ltn5d5kl23)
+
+---
+
+@sokuho.news
+
+🔔ANNより【速報】です。
+
+【速報】香港の高層マンション火災 死者55人に 270人以上と連絡とれず 消防当局
+(2025年11月27日 16:22) #ニュース
+
+[2025-11-27 16:22:46](https://bsky.app/profile/sokuho.news/post/3m6ltkn7rdf2m)
+
+---
+
+@wsj.com
+
+There’s no time like the end of the year to catch up on the culture you missed.
+
+An irreverent guide to the year in culture: 🔗 on.wsj.com/4rsAl44
+
+[2025-11-27 16:20:57](https://bsky.app/profile/wsj.com/post/3m6lthfcn6p2j)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+香港 高層住宅火災 55人死亡 修繕工事担当の会社幹部ら3人逮捕
+https://news.web.nhk/newsweb/na/na-k10014987551000
+
+[2025-11-27 16:18:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ltcaynj32p)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】ニホンウナギ含む取引規制案を「否決」 ワシントン条約の締約国会議 来月の全体会合で確定へ
+(2025-11-27 16:09:33) #ニュース
+
+[2025-11-27 16:15:25](https://bsky.app/profile/sokuho.news/post/3m6lt5htw6e2q)
+
+---
+
+@reuters.com
+
+Train runs down, kills 11 in China's worst rail accident in over a decade reut.rs/4iucc9g
+
+[2025-11-27 16:15:12](https://bsky.app/profile/reuters.com/post/3m6lt53sqet2e)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】ウナギ取引規制「否決」 ワシントン条約の締約国会議 来月の全体会合で確定へ
+(2025-11-27 16:09:33) #ニュース
+
+[2025-11-27 16:11:01](https://bsky.app/profile/sokuho.news/post/3m6lsvm4nzn2h)
+
+---
+
+@reuters.com
+
+Dollar retreats, kiwi leaps as rate direction diverges reut.rs/48jDvyh
+
+[2025-11-27 16:10:09](https://bsky.app/profile/reuters.com/post/3m6lsu2x6i22r)
+
+---
 
 @sokuho.news
 
@@ -40,92 +124,6 @@
 (2025年11月27日 16:05) #ニュース
 
 [2025-11-27 16:06:21](https://bsky.app/profile/sokuho.news/post/3m6lsnbggve2q)
-
----
-
-@nhknewsunofficial.bsky.social
-
-ウナギ全種類 国際取り引き規制 否決 日本の主張認める
-https://news.web.nhk/newsweb/na/na-k10014987991000
-
-[2025-11-27 16:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6lsms2gur2r)
-
----
-
-@reuters.com
-
-US stops processing Afghan immigration requests after attack near White House reut.rs/4856win
-
-[2025-11-27 16:05:11](https://bsky.app/profile/reuters.com/post/3m6lsl6gf3f2d)
-
----
-
-@sokuho.news
-
-<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>ウナギ全種類 国際取り引き規制 否決 日本の主張認める</strong><br><strong>(2025-11-27 16:03:49) #ニュース</strong><br><strong>https://news.web.nhk/newsweb/na/na-k10014987991000</strong>
-
-[2025-11-27 16:04:15](https://bsky.app/profile/sokuho.news/post/3m6lsjjlk4u2y)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Watch: How the DC shooting unfolded that left 2 guardsmen dead
-
-[2025-11-27 16:03:08](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6lshjznd42w)
-
----
-
-@sokuho.news
-
-🔔NHKより【速報】です。
-
-ウナギ全種類 国際取り引き規制否決 ワシントン条約の会議 日本主張認める
-(2025-11-27 16:02) #ニュース
-
-[2025-11-27 16:02:43](https://bsky.app/profile/sokuho.news/post/3m6lsgr4qdm24)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】ニホンウナギ含むウナギ全種類を国際取引の規制対象にする案は否決 本会議で可決されれば最終的に採択の可能性も
-(2025-11-27 15:59) #ニュース
-
-[2025-11-27 16:02:16](https://bsky.app/profile/sokuho.news/post/3m6lsfy7bot26)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Sean Duffy wants more civility in air travel. Not everyone is on board
-
-[2025-11-27 16:02:02](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6lsfl33fl26)
-
----
-
-@nikkei.com
-
-ピックルボール人気急上昇、初心者やシニアもラリー簡単
-www.nikkei.com/article/DGXZQO...
-
-ピックルボールはアメリカ発祥のラケット競技です。卓球、テニス、バドミントンを融合させた比較的新しいスポーツ。
-
-大きな卓球のラケットに似た板状の「パドル」を使い、表面に穴が開いたプラスチックのボールを打ち合います。
-
-テニスなどと比べ運動量が比較的少なく、動きも複雑でないため、取り組みやすいのが特徴。国内の競技人口は2025年3月時点に推計約4万5千人となっています。
-
-[2025-11-27 16:00:59](https://bsky.app/profile/nikkei.com/post/3m6lsdnze5n2m)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Daybreak aerial footage reveals scale of Hong Kong apartment block blaze
-
-[2025-11-27 16:00:56](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6lsdm4c7m2e)
 
 ---
 
