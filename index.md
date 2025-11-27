@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">常陸宮さま きょう卒寿の誕生日 https://news.web.nhk/newsweb/na/na-k10014988371000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6mnmgx76t2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-28 00:09:02)</span><span style="padding-right:50px;">PetroChina, PipeChina set up two gas storage companies in China reut.rs/4rpyGfv <a href="https://bsky.app/profile/reuters.com/post/3m6mnfh222t2o" target="_blank">reuters.com</a> (2025-11-28 00:05:09)</span><span style="padding-right:50px;">More than half a million people, including executives from tech companies like Apple and LinkedIn, spend hours listening to the "Acquired" podcast. Here's why. <a href="https://bsky.app/profile/cnbc.com/post/3m6mnaq3hws2y" target="_blank">cnbc.com</a> (2025-11-28 00:02:31)</span><span style="padding-right:50px;">Chipmaker Nvidia posted yet another blockbuster earnings report this month.  The stock fell anyway, as many investors worry that the market is in the middle of an about-to-burst AI bubble. https://cnn.it/43Sx1Fb <a href="https://bsky.app/profile/cnn.com/post/3m6mn6of75o2r" target="_blank">cnn.com</a> (2025-11-28 00:01:22)</span><span style="padding-right:50px;">Interpol elects France's Lucas Philippe as new president reut.rs/4onpl5k <a href="https://bsky.app/profile/reuters.com/post/3m6mn6lumky2y" target="_blank">reuters.com</a> (2025-11-28 00:01:20)</span>
+<span style="padding-right:50px;">FTSE 100 falls as energy and consumer staples stocks weigh reut.rs/4rkujm5 <a href="https://bsky.app/profile/reuters.com/post/3m6moj7ir5y22" target="_blank">reuters.com</a> (2025-11-28 00:25:09)</span><span style="padding-right:50px;">US President Trump called to “re-examine” every Afghan national who entered “under Biden,” after two DC National Guard troops were shot by 29-year-old suspect Rahmanullah Lakanwal aje.io/o5l4w4 <a href="https://bsky.app/profile/aljazeera.com/post/3m6mog3cswi2d" target="_blank">aljazeera.com</a> (2025-11-28 00:23:23)</span><span style="padding-right:50px;">"I've long thought Thanksgiving is an underappreciated holiday, sandwiched between Halloween and Christmas. I especially feel that way since the 2020 Thanksgiving I spent battling COVID-19," writes USA TODAY commentary editor Blake Fontenay. bit.ly/4oj2KXe  📷: GMVozd, Getty Images <a href="https://bsky.app/profile/usatoday.com/post/3m6mobykqpg2z" target="_blank">usatoday.com</a> (2025-11-28 00:21:07)</span><span style="padding-right:50px;">VIDEO: 🇬🇼 Guinea-Bissau rocked by military coup  Military officials said they had seized "total control" of the coup-prone west African country, arresting its president, closing its borders and suspending its electoral process three days after general elections <a href="https://bsky.app/profile/en.afp.com/post/3m6mo56swt52o" target="_blank">en.afp.com</a> (2025-11-28 00:18:26)</span><span style="padding-right:50px;">UK expected to scale back proposals to limit jury trials on.ft.com/3M2jLaW <a href="https://bsky.app/profile/financialtimes.com/post/3m6mo3vrmh726" target="_blank">financialtimes.com</a> (2025-11-28 00:17:43)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50167.10 (🔺298.31 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3138.00 (🔻17.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 156.30 (🔻0.10 : 2025-11-27)</span>
+<span style="padding-right:50px;">NIKKEI: 50167.10 (🔺298.31 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3138.00 (🔻17.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 156.26 (🔻0.13 : 2025-11-27)</span>
   </div>
 </div>
 
@@ -30,88 +30,89 @@
 
 ---
 
-## [2025-11-28 00:10 updated](2025_11_28.md)
-
-@nhknewsunofficial.bsky.social
-
-常陸宮さま きょう卒寿の誕生日
-https://news.web.nhk/newsweb/na/na-k10014988371000
-
-[2025-11-28 00:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6mnmgx76t2j)
-
----
+## [2025-11-28 00:30 updated](2025_11_28.md)
 
 @reuters.com
 
-PetroChina, PipeChina set up two gas storage companies in China reut.rs/4rpyGfv
+FTSE 100 falls as energy and consumer staples stocks weigh reut.rs/4rkujm5
 
-[2025-11-28 00:05:09](https://bsky.app/profile/reuters.com/post/3m6mnfh222t2o)
-
----
-
-@cnbc.com
-
-More than half a million people, including executives from tech companies like Apple and LinkedIn, spend hours listening to the "Acquired" podcast. Here's why.
-
-[2025-11-28 00:02:31](https://bsky.app/profile/cnbc.com/post/3m6mnaq3hws2y)
-
----
-
-@cnn.com
-
-Chipmaker Nvidia posted yet another blockbuster earnings report this month.
-
-The stock fell anyway, as many investors worry that the market is in the middle of an about-to-burst AI bubble. https://cnn.it/43Sx1Fb
-
-[2025-11-28 00:01:22](https://bsky.app/profile/cnn.com/post/3m6mn6of75o2r)
-
----
-
-@reuters.com
-
-Interpol elects France's Lucas Philippe as new president reut.rs/4onpl5k
-
-[2025-11-28 00:01:20](https://bsky.app/profile/reuters.com/post/3m6mn6lumky2y)
-
----
-
-@usatoday.com
-
-The 99th edition of Macys Thanksgiving Day Parade will begin on Manhattan’s Upper West Side and end at Macy’s flagship store.
-
-[2025-11-28 00:01:06](https://bsky.app/profile/usatoday.com/post/3m6mn66sw362u)
-
----
-
-@apnews.com
-
-Lawyers for a pro-Palestinian protest group banned by the British government are challenging its classification as a terrorist organization.
-
-[2025-11-28 00:00:54](https://bsky.app/profile/apnews.com/post/3m6mn5swueh2p)
+[2025-11-28 00:25:09](https://bsky.app/profile/reuters.com/post/3m6moj7ir5y22)
 
 ---
 
 @aljazeera.com
 
-General Horta Nta Na Man is named the head of a one-year transitional government after President Embalo was detained.
+US President Trump called to “re-examine” every Afghan national who entered “under Biden,” after two DC National Guard troops were shot by 29-year-old suspect Rahmanullah Lakanwal aje.io/o5l4w4
 
-[2025-11-28 00:00:52](https://bsky.app/profile/aljazeera.com/post/3m6mn5rwcxu2v)
-
----
-
-@nbcnews.com
-
-Pope Leo XIV flew to the Middle East on the first international trip of his papacy. But what is it like to fly with the pope? NBC News' Claudio Lavanga reports from the pope's charter flight.
-
-[2025-11-28 00:00:29](https://bsky.app/profile/nbcnews.com/post/3m6mn53fae72h)
+[2025-11-28 00:23:23](https://bsky.app/profile/aljazeera.com/post/3m6mog3cswi2d)
 
 ---
 
-@cbsnews.com
+@usatoday.com
 
-Bruna Caroline Ferreira, the mother of White House press secretary Karoline Leavitt's nephew, was arrested by ICE in Massachusetts after they said she overstayed her tourist visa. 
+"I've long thought Thanksgiving is an underappreciated holiday, sandwiched between Halloween and Christmas. I especially feel that way since the 2020 Thanksgiving I spent battling COVID-19," writes USA TODAY commentary editor Blake Fontenay. bit.ly/4oj2KXe
 
-[2025-11-28 00:00:00](https://bsky.app/profile/cbsnews.com/post/3m6mn4ab5742j)
+📷: GMVozd, Getty Images
+
+[2025-11-28 00:21:07](https://bsky.app/profile/usatoday.com/post/3m6mobykqpg2z)
+
+---
+
+@en.afp.com
+
+VIDEO: 🇬🇼 Guinea-Bissau rocked by military coup
+
+Military officials said they had seized "total control" of the coup-prone west African country, arresting its president, closing its borders and suspending its electoral process three days after general elections
+
+[2025-11-28 00:18:26](https://bsky.app/profile/en.afp.com/post/3m6mo56swt52o)
+
+---
+
+@financialtimes.com
+
+UK expected to scale back proposals to limit jury trials on.ft.com/3M2jLaW
+
+[2025-11-28 00:17:43](https://bsky.app/profile/financialtimes.com/post/3m6mo3vrmh726)
+
+---
+
+@reuters.com
+
+Pakistan fuel oil exports scale fresh high in 2025, to hold in 2026 reut.rs/3K19Di9
+
+[2025-11-28 00:15:15](https://bsky.app/profile/reuters.com/post/3m6mnxiqrbe2o)
+
+---
+
+@reuters.com
+
+LIVE: New NASA crew arrives at the International Space Station youtube.com/live/KSK2-k6...
+
+[2025-11-28 00:13:21](https://bsky.app/profile/reuters.com/post/3m6mnu3vpyc2n)
+
+---
+
+@cnbc.com
+
+CNBC Sport: In Thanksgiving NFL games, prediction platforms could win big
+
+[2025-11-28 00:12:32](https://bsky.app/profile/cnbc.com/post/3m6mnsn3blf2s)
+
+---
+
+@financialtimes.com
+
+ Europe must be a rulemaker, not a rule-taker on.ft.com/49JB0I2  | opinion
+
+[2025-11-28 00:11:04](https://bsky.app/profile/financialtimes.com/post/3m6mnpz7nu426)
+
+---
+
+@financialtimes.com
+
+ Taming the four horsemen of the infocalypse on.ft.com/48h3vtZ  | opinion
+
+[2025-11-28 00:11:01](https://bsky.app/profile/financialtimes.com/post/3m6mnpwar422w)
 
 ---
 
