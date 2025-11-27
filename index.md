@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Two West Virginia National Guard members deployed to Washington, D.C., remain in critical condition after being shot while on patrol just blocks from the White House on Wednesday afternoon. n.pr/4pFSqdj <a href="https://bsky.app/profile/npr.org/post/3m6mkalmpze23" target="_blank">npr.org</a> (2025-11-27 23:08:45)</span><span style="padding-right:50px;">SEC probes Jefferies over its First Brands disclosures on.ft.com/44un1SD <a href="https://bsky.app/profile/financialtimes.com/post/3m6mk75nl3h2v" target="_blank">financialtimes.com</a> (2025-11-27 23:07:57)</span><span style="padding-right:50px;">Pakistan ex-PM Khan's party demands meeting amid health worries reut.rs/3XijKSL <a href="https://bsky.app/profile/reuters.com/post/3m6mk25wokk2k" target="_blank">reuters.com</a> (2025-11-27 23:05:10)</span><span style="padding-right:50px;">ウクライナ侵攻から4回目の冬､ロシア国民に痛み－経済体力に試練 <a href="https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6mjz4v6po2c" target="_blank">bloomberg-jp.bsky.social</a> (2025-11-27 23:04:35)</span><span style="padding-right:50px;">香港高層マンション火災、改修工事の安全基準に疑義－死者55人に <a href="https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6mjyyewth2j" target="_blank">bloomberg-jp.bsky.social</a> (2025-11-27 23:04:30)</span>
+<span style="padding-right:50px;">Walking tours shed light on Madrid's hidden Black history reut.rs/3XSWieR <a href="https://bsky.app/profile/reuters.com/post/3m6ml5vh4id2i" target="_blank">reuters.com</a> (2025-11-27 23:25:09)</span><span style="padding-right:50px;">中国国防省 「全くむだ」台湾の防衛力強化方針 特別予算めぐり https://news.web.nhk/newsweb/na/na-k10014988491000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ml4bkvx62b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-27 23:24:12)</span><span style="padding-right:50px;">愛子さま ペリリュー島の戦闘描いたアニメ映画の上映会に出席 https://news.web.nhk/newsweb/na/na-k10014988481000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ml44zhne26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-27 23:24:07)</span><span style="padding-right:50px;">静岡 18歳男性自殺 2審は労災と認める 東京高裁が逆転判決 https://news.web.nhk/newsweb/na/na-k10014988471000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ml3yamhm2t" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-27 23:24:02)</span><span style="padding-right:50px;">Cookie week is almost here! Sign up to get a brand-new cookie recipe every day, Dec. 1 through Dec. 8: nyti.ms/4rgCeAy <a href="https://bsky.app/profile/nytimes.com/post/3m6ml2c5dyo2q" target="_blank">nytimes.com</a> (2025-11-27 23:23:08)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50167.10 (🔺298.31 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3138.00 (🔻17.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 156.27 (🔻0.12 : 2025-11-27)</span>
+<span style="padding-right:50px;">NIKKEI: 50167.10 (🔺298.31 : 2025-11-27)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3138.00 (🔻17.00 : 2025-11-27)</span><span style="padding-right:50px;">USD/JPY: 156.34 (🔻0.06 : 2025-11-27)</span>
   </div>
 </div>
 
@@ -30,89 +30,89 @@
 
 ---
 
-## [2025-11-27 23:10 updated](2025_11_27.md)
-
-@npr.org
-
-Two West Virginia National Guard members deployed to Washington, D.C., remain in critical condition after being shot while on patrol just blocks from the White House on Wednesday afternoon. n.pr/4pFSqdj
-
-[2025-11-27 23:08:45](https://bsky.app/profile/npr.org/post/3m6mkalmpze23)
-
----
-
-@financialtimes.com
-
-SEC probes Jefferies over its First Brands disclosures on.ft.com/44un1SD
-
-[2025-11-27 23:07:57](https://bsky.app/profile/financialtimes.com/post/3m6mk75nl3h2v)
-
----
+## [2025-11-27 23:30 updated](2025_11_27.md)
 
 @reuters.com
 
-Pakistan ex-PM Khan's party demands meeting amid health worries reut.rs/3XijKSL
+Walking tours shed light on Madrid's hidden Black history reut.rs/3XSWieR
 
-[2025-11-27 23:05:10](https://bsky.app/profile/reuters.com/post/3m6mk25wokk2k)
-
----
-
-@bloomberg-jp.bsky.social
-
-ウクライナ侵攻から4回目の冬､ロシア国民に痛み－経済体力に試練
-
-[2025-11-27 23:04:35](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6mjz4v6po2c)
+[2025-11-27 23:25:09](https://bsky.app/profile/reuters.com/post/3m6ml5vh4id2i)
 
 ---
 
-@bloomberg-jp.bsky.social
+@nhknewsunofficial.bsky.social
 
-香港高層マンション火災、改修工事の安全基準に疑義－死者55人に
+中国国防省 「全くむだ」台湾の防衛力強化方針 特別予算めぐり
+https://news.web.nhk/newsweb/na/na-k10014988491000
 
-[2025-11-27 23:04:30](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6mjyyewth2j)
-
----
-
-@usatoday.com
-
-The 99th Macy's Thanksgiving Day Parade returned to the streets of New York, with performances by Cynthia Erivo, Ciara, Gavin DeGraw and more.
-
-[2025-11-27 23:03:07](https://bsky.app/profile/usatoday.com/post/3m6mjwj7yqb2t)
+[2025-11-27 23:24:12](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ml4bkvx62b)
 
 ---
 
-@wsj.com
+@nhknewsunofficial.bsky.social
 
-For many Americans taking a weight-loss drug, Thanksgiving presents a conundrum: Take the weekly dose that staves off hunger, or push it off so they can feast?
+愛子さま ペリリュー島の戦闘描いたアニメ映画の上映会に出席
+https://news.web.nhk/newsweb/na/na-k10014988481000
 
-How GLP-1 users approach Thanksgiving feasts: on.wsj.com/4ruyKL9
+[2025-11-27 23:24:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ml44zhne26)
 
-[2025-11-27 23:01:57](https://bsky.app/profile/wsj.com/post/3m6mjugcyes2p)
+---
+
+@nhknewsunofficial.bsky.social
+
+静岡 18歳男性自殺 2審は労災と認める 東京高裁が逆転判決
+https://news.web.nhk/newsweb/na/na-k10014988471000
+
+[2025-11-27 23:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ml3yamhm2t)
+
+---
+
+@nytimes.com
+
+Cookie week is almost here! Sign up to get a brand-new cookie recipe every day, Dec. 1 through Dec. 8: nyti.ms/4rgCeAy
+
+[2025-11-27 23:23:08](https://bsky.app/profile/nytimes.com/post/3m6ml2c5dyo2q)
+
+---
+
+@washingtonpost.com
+
+Attorney General Pam Bondi says the Justice Department intends to charge with terrorism offenses the suspect in the shooting of two National Guard soldiers in Washington.
+
+[2025-11-27 23:22:52](https://bsky.app/profile/washingtonpost.com/post/3m6mkzsw6sd2j)
 
 ---
 
 @nbcnews.com
 
-A court in Thailand says that it has issued an arrest warrant for a co-owner of the Miss Universe Organization in connection with a fraud case.
+<strong><span style="color: red;">BREAKING:</span> The suspect in the D.C. shooting attack is an Afghan national who worked with a CIA-backed military unit during the war in Afghanistan, the CIA says.</strong>
 
-[2025-11-27 23:01:00](https://bsky.app/profile/nbcnews.com/post/3m6mjsq34l72j)
-
----
-
-@reuters.com
-
-British globe trekker faces changed world on final leg of 27-year journey reut.rs/4pzHNbB
-
-[2025-11-27 23:00:58](https://bsky.app/profile/reuters.com/post/3m6mjsntdc32i)
+[2025-11-27 23:22:49](https://bsky.app/profile/nbcnews.com/post/3m6mkzqmjze2h)
 
 ---
 
-@usatoday.com
+@en.afp.com
 
-The internet is abuzz with discussion of the bodies of “Wicked: For Good” stars, focusing on Ariana Grande, Cynthia Erivo and Michelle Yeoh, with many making assumptions about their health based on their looks. bit.ly/4rCyee6
+Floods and landslides triggered by heavy rain have killed at least 40 people and injured 10 across Sri Lanka this week, with 21 others missing, authorities said on Thursday ➡️ u.afp.com/ShmQ
 
-📸 Universal Pictures
+[2025-11-27 23:18:03](https://bsky.app/profile/en.afp.com/post/3m6mkr72bmk2x)
 
-[2025-11-27 23:00:13](https://bsky.app/profile/usatoday.com/post/3m6mjrdeuqp2p)
+---
+
+@nhknewsunofficial.bsky.social
+
+JR中央線快速 東京駅～高尾駅 上下線で運転見合わせ
+https://news.web.nhk/newsweb/na/na-k10014988501000
+
+[2025-11-27 23:18:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6mkray35l2b)
+
+---
+
+@cnbc.com
+
+With Trump's tax bill set to dent giving by the wealthy, can middle-class donors make up the difference?
+
+[2025-11-27 23:16:40](https://bsky.app/profile/cnbc.com/post/3m6mkoq2lak23)
 
 ---
 
