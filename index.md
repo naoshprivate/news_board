@@ -1,9 +1,9 @@
-# [2025-11-29 03:10 updated](2025_11_29.md)
+# [2025-11-29 03:30 updated](2025_11_29.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">DHS points to US travel ban list when asked about 'Third World' countries reut.rs/3XV9ShT <a href="https://bsky.app/profile/reuters.com/post/3m6phwctnb52k" target="_blank">reuters.com</a> (2025-11-29 03:05:12)</span><span style="padding-right:50px;">Exclusive: Defense Secretary Pete Hegseth gave an order to “kill everybody” in the first strike on suspected drug boats in the Caribbean. After two men survived, the mission commander ordered a second strike to comply with Hegseth’s instructions, according to two sources. <a href="https://bsky.app/profile/washingtonpost.com/post/3m6phw2oe6e2a" target="_blank">washingtonpost.com</a> (2025-11-29 03:05:04)</span><span style="padding-right:50px;">Man suspected of killing National Guard member to face murder charges, US attorney says reut.rs/4inMEuc <a href="https://bsky.app/profile/reuters.com/post/3m6phphuhwn2i" target="_blank">reuters.com</a> (2025-11-29 03:01:23)</span><span style="padding-right:50px;">The lead-up to Sunday's vote has been marred by finger-pointing and fears of election manipulation by campaign rivals. <a href="https://bsky.app/profile/aljazeera.com/post/3m6phoryx232f" target="_blank">aljazeera.com</a> (2025-11-29 03:01:00)</span><span style="padding-right:50px;">India's olive ridley turtle numbers appear to have rebounded after years of patchwork efforts to stem their decline. Can it last? n.pr/4p0igIV <a href="https://bsky.app/profile/npr.org/post/3m6phoamdcw2e" target="_blank">npr.org</a> (2025-11-29 03:00:42)</span>
+<span style="padding-right:50px;">Israeli forces on Thursday killed a pair of Palestinian men in the occupied West Bank after they appeared to surrender, drawing Palestinian accusations that the men were executed "in cold blood." n.pr/44yxUms <a href="https://bsky.app/profile/npr.org/post/3m6pjb2mjm32e" target="_blank">npr.org</a> (2025-11-29 03:29:07)</span><span style="padding-right:50px;">Keeping cool: heat a key challenge for data centers and AI reut.rs/4ojmM4d <a href="https://bsky.app/profile/reuters.com/post/3m6pizyqrzm2r" target="_blank">reuters.com</a> (2025-11-29 03:25:10)</span><span style="padding-right:50px;">An Israeli raid into southern Syria on Friday killed at least 13 people and left several Israeli soldiers wounded, according to Syrian health officials and the Israeli military, in what appeared to be one of the bloodiest cross-border incursions since the fall of the Assad regime last year. <a href="https://bsky.app/profile/nytimes.com/post/3m6pizurzhf2y" target="_blank">nytimes.com</a> (2025-11-29 03:25:05)</span><span style="padding-right:50px;">Afghans in US issue plea to Trump after 'tragic' Washington DC shooting <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6pitgb3k32d" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-11-29 03:21:28)</span><span style="padding-right:50px;">Florence Welch talks about Everybody Scream, plus the band performs live from Electric Lady Studios in New York City. n.pr/48n2GjA <a href="https://bsky.app/profile/npr.org/post/3m6piqsrxt42s" target="_blank">npr.org</a> (2025-11-29 03:20:01)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50253.91 (🔺34.95 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 176.98 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.19 (🔻0.08 : 2025-11-28)</span>
+<span style="padding-right:50px;">NIKKEI: 50253.91 (🔺34.95 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻1.99 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.12 (🔻0.15 : 2025-11-28)</span>
   </div>
 </div>
 
@@ -32,92 +32,94 @@
 
 ## News Headlines
 
-1. 米国防長官、カリブ海での麻薬船攻撃で「全員殺害」を指示か
-2. 国民 Guard 兵殺害容疑者、殺人罪で起訴へ
-3. インドのアカウミガメ、個体数が回復
-4. トランプ大統領、記者を「愚か」と非難
-5. イズニク湖から現れた古代バシリカ、水危機に直面
-6. アフガニスタンからの移民、米国での地位が不安定化か
+1.  イスラエル軍、占領下のヨルダン川西岸でパレスチナ人男性2名を射殺、処刑との批判
+2.  データセンターとAI、冷却が主要課題
+3.  シリア南部へのイスラエル軍襲撃で13人死亡、複数負傷
+4.  ジャカルタ、人口で世界最大の都市に
+5.  米株市場、ボラティリティ収まり12月の見通し鮮明に
+6.  トランプ大統領、記者を「愚か」と呼ぶ、D.C.銃撃犯の入国責任をバイデン政権に転嫁
 
 ----
 
-@reuters.com
+@npr.org
 
-DHS points to US travel ban list when asked about 'Third World' countries reut.rs/3XV9ShT
+Israeli forces on Thursday killed a pair of Palestinian men in the occupied West Bank after they appeared to surrender, drawing Palestinian accusations that the men were executed "in cold blood." n.pr/44yxUms
 
-[2025-11-29 03:05:12](https://bsky.app/profile/reuters.com/post/3m6phwctnb52k)
-
----
-
-@washingtonpost.com
-
-Exclusive: Defense Secretary Pete Hegseth gave an order to “kill everybody” in the first strike on suspected drug boats in the Caribbean. After two men survived, the mission commander ordered a second strike to comply with Hegseth’s instructions, according to two sources.
-
-[2025-11-29 03:05:04](https://bsky.app/profile/washingtonpost.com/post/3m6phw2oe6e2a)
+[2025-11-29 03:29:07](https://bsky.app/profile/npr.org/post/3m6pjb2mjm32e)
 
 ---
 
 @reuters.com
 
-Man suspected of killing National Guard member to face murder charges, US attorney says reut.rs/4inMEuc
+Keeping cool: heat a key challenge for data centers and AI reut.rs/4ojmM4d
 
-[2025-11-29 03:01:23](https://bsky.app/profile/reuters.com/post/3m6phphuhwn2i)
+[2025-11-29 03:25:10](https://bsky.app/profile/reuters.com/post/3m6pizyqrzm2r)
 
 ---
 
-@aljazeera.com
+@nytimes.com
 
-The lead-up to Sunday's vote has been marred by finger-pointing and fears of election manipulation by campaign rivals.
+An Israeli raid into southern Syria on Friday killed at least 13 people and left several Israeli soldiers wounded, according to Syrian health officials and the Israeli military, in what appeared to be one of the bloodiest cross-border incursions since the fall of the Assad regime last year.
 
-[2025-11-29 03:01:00](https://bsky.app/profile/aljazeera.com/post/3m6phoryx232f)
+[2025-11-29 03:25:05](https://bsky.app/profile/nytimes.com/post/3m6pizurzhf2y)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Afghans in US issue plea to Trump after 'tragic' Washington DC shooting
+
+[2025-11-29 03:21:28](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6pitgb3k32d)
 
 ---
 
 @npr.org
 
-India's olive ridley turtle numbers appear to have rebounded after years of patchwork efforts to stem their decline. Can it last? n.pr/4p0igIV
+Florence Welch talks about Everybody Scream, plus the band performs live from Electric Lady Studios in New York City. n.pr/48n2GjA
 
-[2025-11-29 03:00:42](https://bsky.app/profile/npr.org/post/3m6phoamdcw2e)
-
----
-
-@nbcnews.com
-
-President Trump calls a reporter “stupid” for questioning his blame of the Biden administration over the D.C shooter’s entry into the U.S.
-
-[2025-11-29 03:00:40](https://bsky.app/profile/nbcnews.com/post/3m6pho6sdpb2p)
+[2025-11-29 03:20:01](https://bsky.app/profile/npr.org/post/3m6piqsrxt42s)
 
 ---
 
-@washingtonpost.com
+@npr.org
 
-Today, Pope Leo visited Iznik, Turkey, to commemorate a seminal event in Christian history at a once-sunken basilica that has reemerged from Lake Iznik, a freshwater expanse whose very survival is now threatened by a water crisis.
+Chef Rick Martinez, a James Beard award winner, helped an NPR host recreate a beloved Ecuadorian dish his family ate during Thanksgiving. Here's the recipe. n.pr/4pxSj3h
 
-[2025-11-29 03:00:34](https://bsky.app/profile/washingtonpost.com/post/3m6phnz4e6n2h)
-
----
-
-@apnews.com
-
-Anonymity is the name of the game for many college mascots.
-
-[2025-11-29 03:00:20](https://bsky.app/profile/apnews.com/post/3m6phnmga772h)
+[2025-11-29 03:19:17](https://bsky.app/profile/npr.org/post/3m6pipi5cuu2s)
 
 ---
 
-@bloomberg.com
+@wsj.com
 
-To regain its edge in style, Target is looking to California college students, among other inspirations.
+"But one day a close friend upbraided me for shunning Black Friday, insisting that such antisocial tightfistedness was inherently un-American. She said that I was stingy and mean, an outcast at life’s rich feast. Or words to that effect."
 
-[2025-11-29 03:00:17](https://bsky.app/profile/bloomberg.com/post/3m6phnjbp3e22)
+Read more: on.wsj.com/48DD2bn
+
+[2025-11-29 03:17:27](https://bsky.app/profile/wsj.com/post/3m6pim7ully24)
 
 ---
 
-@cbsnews.com
+@financialtimes.com
 
-As millions of Americans search apps and websites for deals, experts warn that consumers should be on the lookout for fraudsters who will try to capitalize on the holiday shopping rush. 
+The MD moment in an investment banking career on.ft.com/4ajQClA
 
-[2025-11-29 03:00:01](https://bsky.app/profile/cbsnews.com/post/3m6phn2ahnh2o)
+[2025-11-29 03:15:39](https://bsky.app/profile/financialtimes.com/post/3m6piiyizzc2r)
+
+---
+
+@bloomberg-jp.bsky.social
+
+中国外相、台湾巡り英国にも支持要請－対日スタンスを英高官に説明
+
+[2025-11-29 03:15:33](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6piitarcl26)
+
+---
+
+@bloomberg-jp.bsky.social
+
+米株市場、ボラティリティー収まり12月の見通し鮮明に－ゴールドマン
+
+[2025-11-29 03:15:29](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6piipg5gc2r)
 
 ---
 
