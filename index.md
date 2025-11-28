@@ -1,9 +1,9 @@
-# [2025-11-29 07:10 updated](2025_11_29.md)
+# [2025-11-29 07:30 updated](2025_11_29.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">A Louisiana man who spent 27 years on death row is released on bail after his murder conviction was overturned earlier this year in the 1993 death of his girlfriend’s toddler, his lawyers says. <a href="https://bsky.app/profile/nbcnews.com/post/3m6pvkigxps2c" target="_blank">nbcnews.com</a> (2025-11-29 07:09:08)</span><span style="padding-right:50px;">【動画】Pickup NEWS（11月29日） https://news.web.nhk/newsweb/na/na-k10014989211000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6pvez7stk2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-29 07:06:01)</span><span style="padding-right:50px;">Vanderbilt's Clark Lea receives contract extension reut.rs/44AsDLa <a href="https://bsky.app/profile/reuters.com/post/3m6pvdk3ia42k" target="_blank">reuters.com</a> (2025-11-29 07:05:15)</span><span style="padding-right:50px;">Report: Lions WR Amon-Ra St. Brown nursing low-ankle sprain reut.rs/4p8v3Ju <a href="https://bsky.app/profile/reuters.com/post/3m6pv43wbgh2a" target="_blank">reuters.com</a> (2025-11-29 07:01:05)</span><span style="padding-right:50px;">President Trump said he will "permanently pause" migration from all "Third World Countries" following the shooting of National Guard troops in DC. <a href="https://bsky.app/profile/usatoday.com/post/3m6pv3bglvi26" target="_blank">usatoday.com</a> (2025-11-29 07:00:37)</span>
+<span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】全日空33便が欠航 エアバス社機体のシステム更新で (07:27) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6pwmp2hci2p" target="_blank">sokuho.news</a> (2025-11-29 07:28:16)</span><span style="padding-right:50px;">スキージャンプ女子 W杯個人第3戦で丸山希が優勝 開幕3連勝 https://news.web.nhk/newsweb/na/na-k10014989531000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6pwklh3d62b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-29 07:27:03)</span><span style="padding-right:50px;">Rubio plans to skip NATO meeting at key moment for Ukraine, sources say reut.rs/3XXLNa8 <a href="https://bsky.app/profile/reuters.com/post/3m6pwh63qir2a" target="_blank">reuters.com</a> (2025-11-29 07:25:10)</span><span style="padding-right:50px;">Violence against healthcare facilities and workers is an increasingly reported tactic in modern warfare. Read Reuters’ investigation into paramilitary attacks that dismantled a Sudanese city’s healthcare system reut.rs/4pDdzEW <a href="https://bsky.app/profile/reuters.com/post/3m6pvypqovs2t" target="_blank">reuters.com</a> (2025-11-29 07:17:05)</span><span style="padding-right:50px;">Airbus A320 repairs must be before next flight, bulletin shows reut.rs/4rsqawk <a href="https://bsky.app/profile/reuters.com/post/3m6pvvikru52k" target="_blank">reuters.com</a> (2025-11-29 07:15:17)</span>
   </div>
 </div>
 
@@ -32,14 +32,82 @@
 
 ## News Headlines
 
-1.  死刑囚27年、殺人罪覆り保釈
-2.  トランプ大統領、「第三世界」からの移民を「永久停止」
-3.  WHO、麻疹急増でワクチン関連疾患への警鐘
-4.  エアバス機ソフト問題で多数の欠航便発生
-5.  全日空、エアバス機不具合で国内線33便欠航
-6.  年末商戦ピーク、消費二極化も
+1. 全日空、エアバス機不具合で国内線33便欠航
+2. スキージャンプ丸山希、W杯開幕3連勝
+3. 米、ウクライナ支援の重要局面でNATO会議欠席か
+4. スーダン、医療施設への攻撃で医療システム崩壊
+5. 中国人観光客激減、日本で12億ドルの損失か
+6. WHO、麻疹急増でワクチン関連疾患の流行警告
 
 ----
+
+@sokuho.news
+
+🔔ANNより【速報】です。
+
+【速報】全日空33便が欠航 エアバス社機体のシステム更新で
+(07:27) #ニュース
+
+[2025-11-29 07:28:16](https://bsky.app/profile/sokuho.news/post/3m6pwmp2hci2p)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+スキージャンプ女子 W杯個人第3戦で丸山希が優勝 開幕3連勝
+https://news.web.nhk/newsweb/na/na-k10014989531000
+
+[2025-11-29 07:27:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6pwklh3d62b)
+
+---
+
+@reuters.com
+
+Rubio plans to skip NATO meeting at key moment for Ukraine, sources say reut.rs/3XXLNa8
+
+[2025-11-29 07:25:10](https://bsky.app/profile/reuters.com/post/3m6pwh63qir2a)
+
+---
+
+@reuters.com
+
+Violence against healthcare facilities and workers is an increasingly reported tactic in modern warfare. Read Reuters’ investigation into paramilitary attacks that dismantled a Sudanese city’s healthcare system reut.rs/4pDdzEW
+
+[2025-11-29 07:17:05](https://bsky.app/profile/reuters.com/post/3m6pvypqovs2t)
+
+---
+
+@reuters.com
+
+Airbus A320 repairs must be before next flight, bulletin shows reut.rs/4rsqawk
+
+[2025-11-29 07:15:17](https://bsky.app/profile/reuters.com/post/3m6pvvikru52k)
+
+---
+
+@reuters.com
+
+Chinese tourism to Japan has taken a nosedive in recent weeks amid a diplomatic spat — an outcome that could result in Japan losing as much as $1.2 billion in tourist spending by the end of the year reut.rs/3KkUcRO
+
+[2025-11-29 07:13:16](https://bsky.app/profile/reuters.com/post/3m6pvrvgais23)
+
+---
+
+@reuters.com
+
+Oregon State hires Alabama co-OC JaMarcus Shephard as head coach reut.rs/4riGFLg
+
+[2025-11-29 07:10:14](https://bsky.app/profile/reuters.com/post/3m6pvmhevb226)
+
+---
+
+@forbes.com
+
+Trump’s approval rating has fallen among multiple polls as he nears the end of his second term’s first year.
+
+[2025-11-29 07:10:03](https://bsky.app/profile/forbes.com/post/3m6pvm5frik26)
+
+---
 
 @nbcnews.com
 
@@ -55,73 +123,6 @@ A Louisiana man who spent 27 years on death row is released on bail after his mu
 https://news.web.nhk/newsweb/na/na-k10014989211000
 
 [2025-11-29 07:06:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6pvez7stk2k)
-
----
-
-@reuters.com
-
-Vanderbilt's Clark Lea receives contract extension reut.rs/44AsDLa
-
-[2025-11-29 07:05:15](https://bsky.app/profile/reuters.com/post/3m6pvdk3ia42k)
-
----
-
-@reuters.com
-
-Report: Lions WR Amon-Ra St. Brown nursing low-ankle sprain reut.rs/4p8v3Ju
-
-[2025-11-29 07:01:05](https://bsky.app/profile/reuters.com/post/3m6pv43wbgh2a)
-
----
-
-@usatoday.com
-
-President Trump said he will "permanently pause" migration from all "Third World Countries" following the shooting of National Guard troops in DC.
-
-[2025-11-29 07:00:37](https://bsky.app/profile/usatoday.com/post/3m6pv3bglvi26)
-
----
-
-@aljazeera.com
-
-The announcement comes as undocumented people flee neighbouring Chile in anticipation of an immigration crackdown.
-
-[2025-11-29 07:00:22](https://bsky.app/profile/aljazeera.com/post/3m6pv2t43qk2v)
-
----
-
-@bloomberg.com
-
-Stay on top of the global banking industry with emerging trends, winners and losers, and market opportunities. Sign up for our weekly newsletter and read the latest edition: bloom.bg/4pBpfb2
-
-[2025-11-29 07:00:17](https://bsky.app/profile/bloomberg.com/post/3m6pv2obshu2n)
-
----
-
-@nbcnews.com
-
-The surging number of measles cases around the world is a stark warning sign that outbreaks of other vaccine-preventable diseases could be next, the World Health Organization warns.
-
-[2025-11-29 07:00:11](https://bsky.app/profile/nbcnews.com/post/3m6pv2ibmq52c)
-
----
-
-@cbsnews.com
-
-Airbus plane software issue expected to cause flight delays during busy Thanksgiving weekend.
-
-[2025-11-29 07:00:00](https://bsky.app/profile/cbsnews.com/post/3m6pv26in5e2g)
-
----
-
-@sokuho.news
-
-🔔ANNより【速報】です。
-
-【速報】全日空 きょうの国内線33便が欠航 エアバス機の一部に不具合
-(2025年11月29日 06:57) #ニュース
-
-[2025-11-29 06:57:57](https://bsky.app/profile/sokuho.news/post/3m6puwidwyd26)
 
 ---
 
