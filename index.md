@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">愛知 妊婦死亡事故裁判 検察“長女に対する罪には問えず” https://news.web.nhk/newsweb/na/na-k10014988821000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6nxzrartu2n" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-28 12:48:06)</span><span style="padding-right:50px;">先月の伊豆諸島南部の台風被害「局地激甚災害」に指定 政府 https://news.web.nhk/newsweb/na/na-k10014988741000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6nxzmzvhx2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-28 12:48:01)</span><span style="padding-right:50px;">美浜原発と高浜原発 運転差し止め申し立て退ける 高裁金沢支部 https://news.web.nhk/newsweb/na/na-k10014988591000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6nxucbacf2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-28 12:45:02)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】「4台が絡む事故」山陽道のトンネルで事故 5～6人がけがか 本郷ICー河内IC（下り）で通行止め (2025-11-28 12:39:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6nxnljihl22" target="_blank">sokuho.news</a> (2025-11-28 12:41:20)</span><span style="padding-right:50px;">Women's Top 25 roundup: No. 7 Maryland throttles Hofstra reut.rs/3XVxKlq <a href="https://bsky.app/profile/reuters.com/post/3m6nxlomsdy2n" target="_blank">reuters.com</a> (2025-11-28 12:40:16)</span>
+<span style="padding-right:50px;">羽田空港第2ターミナルのトイレで水流れず　144カ所のうち最大7割（無料記事） www.nikkei.com/article/DGXZQO...  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m6nza2uph72l" target="_blank">nikkei.com</a> (2025-11-28 13:09:34)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】NHK党党首の立花孝志容疑者（58）を起訴 名誉毀損の罪 神戸地検 (2025年11月28日 12:03) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6nz5u44vr26" target="_blank">sokuho.news</a> (2025-11-28 13:08:19)</span><span style="padding-right:50px;">日中緊張、日本のGDP成長率を0.2ポイント押し下げ－ゴールドマン試算 <a href="https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6nywwu6sa2r" target="_blank">bloomberg-jp.bsky.social</a> (2025-11-28 13:04:27)</span><span style="padding-right:50px;">商船三井社長、累進配当の導入で株主定着を検討－次期中期計画 <a href="https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6nywscwvk27" target="_blank">bloomberg-jp.bsky.social</a> (2025-11-28 13:04:23)</span><span style="padding-right:50px;">トランプ氏、自分の好みにG20再編へ－南アを来年の会議に招待せず <a href="https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6nywnwwp52q" target="_blank">bloomberg-jp.bsky.social</a> (2025-11-28 13:04:18)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50112.82 (🔻106.14 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3130.00 (🔻10.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.18 (🔻0.09 : 2025-11-28)</span>
+<span style="padding-right:50px;">NIKKEI: 50117.39 (🔻101.57 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3135.00 (🔻5.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.23 (🔻0.04 : 2025-11-28)</span>
   </div>
 </div>
 
@@ -30,101 +30,91 @@
 
 ---
 
-## [2025-11-28 12:50 updated](2025_11_28.md)
+## [2025-11-28 13:10 updated](2025_11_28.md)
 
-@nhknewsunofficial.bsky.social
+@nikkei.com
 
-愛知 妊婦死亡事故裁判 検察“長女に対する罪には問えず”
-https://news.web.nhk/newsweb/na/na-k10014988821000
+羽田空港第2ターミナルのトイレで水流れず　144カ所のうち最大7割（無料記事）
+www.nikkei.com/article/DGXZQO...
 
-[2025-11-28 12:48:06](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6nxzrartu2n)
+#ニュース
 
----
-
-@nhknewsunofficial.bsky.social
-
-先月の伊豆諸島南部の台風被害「局地激甚災害」に指定 政府
-https://news.web.nhk/newsweb/na/na-k10014988741000
-
-[2025-11-28 12:48:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6nxzmzvhx2j)
-
----
-
-@nhknewsunofficial.bsky.social
-
-美浜原発と高浜原発 運転差し止め申し立て退ける 高裁金沢支部
-https://news.web.nhk/newsweb/na/na-k10014988591000
-
-[2025-11-28 12:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6nxucbacf2b)
+[2025-11-28 13:09:34](https://bsky.app/profile/nikkei.com/post/3m6nza2uph72l)
 
 ---
 
 @sokuho.news
 
-🛎️JNNより【速報】です。
+🔔ANNより【速報】です。
 
-【速報】「4台が絡む事故」山陽道のトンネルで事故 5～6人がけがか 本郷ICー河内IC（下り）で通行止め
-(2025-11-28 12:39:00) #ニュース
+【速報】NHK党党首の立花孝志容疑者（58）を起訴 名誉毀損の罪 神戸地検
+(2025年11月28日 12:03) #ニュース
 
-[2025-11-28 12:41:20](https://bsky.app/profile/sokuho.news/post/3m6nxnljihl22)
-
----
-
-@reuters.com
-
-Women's Top 25 roundup: No. 7 Maryland throttles Hofstra reut.rs/3XVxKlq
-
-[2025-11-28 12:40:16](https://bsky.app/profile/reuters.com/post/3m6nxlomsdy2n)
+[2025-11-28 13:08:19](https://bsky.app/profile/sokuho.news/post/3m6nz5u44vr26)
 
 ---
 
-@cnn.com
+@bloomberg-jp.bsky.social
 
-Cheaper and easier to build than manned vehicles, and in some cases more effective, drones are a military planner's dream – and greatly reduce the risk of a pilot or operator being killed in action. https://cnn.it/48hCUNp
+日中緊張、日本のGDP成長率を0.2ポイント押し下げ－ゴールドマン試算
 
-[2025-11-28 12:31:02](https://bsky.app/profile/cnn.com/post/3m6nx366ygd2i)
-
----
-
-@nikkei.com
-
-【婚活×ビリヤニ…？】
-オミカレとRetty、偏愛グルメでマッチング
-www.nikkei.com/article/DGXZQO...
-
-羊肉に麻辣、ビリヤニ…。
-
-特定の食をテーマにした婚活イベントでは「偏愛」が強力なアイスブレイクに。
-
-助走なしに会話が弾みます。
-
-予想以上の手応えで定期開催することになりました。
-
-[2025-11-28 12:30:59](https://bsky.app/profile/nikkei.com/post/3m6nx33wdfl2w)
+[2025-11-28 13:04:27](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6nywwu6sa2r)
 
 ---
 
-@bloomberg.com
+@bloomberg-jp.bsky.social
 
-Hong Kong authorities warned renovators of a high-rise complex about fire hazards one week before the housing estate was wrecked by the city’s deadliest fire in decades, raising questions about the effectiveness of safety enforcement
+商船三井社長、累進配当の導入で株主定着を検討－次期中期計画
 
-[2025-11-28 12:30:40](https://bsky.app/profile/bloomberg.com/post/3m6nx2jap5l2y)
-
----
-
-@reuters.com
-
-UK's October car output falls 24% as impact from JLR cyberattack lingers reut.rs/49ESipB
-
-[2025-11-28 12:30:31](https://bsky.app/profile/reuters.com/post/3m6nx2aujjx2k)
+[2025-11-28 13:04:23](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6nywscwvk27)
 
 ---
 
-@aljazeera.com
+@bloomberg-jp.bsky.social
 
-US president claims attacks on vessels in Latin American region have stopped 85 percent of drugs trafficked by sea.
+トランプ氏、自分の好みにG20再編へ－南アを来年の会議に招待せず
 
-[2025-11-28 12:30:17](https://bsky.app/profile/aljazeera.com/post/3m6nwztcgc62v)
+[2025-11-28 13:04:18](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6nywnwwp52q)
+
+---
+
+@bloomberg-jp.bsky.social
+
+台湾は地政学そのもの、今後数カ月が極めて重要
+
+[2025-11-28 13:04:13](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6nywjhl6a2n)
+
+---
+
+@bloomberg-jp.bsky.social
+
+カナダへの外国直接投資が鈍化、7－9月期は1年半ぶり低水準
+
+[2025-11-28 13:04:09](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6nywevgfy2n)
+
+---
+
+@bloomberg-jp.bsky.social
+
+SEC、ジェフリーズによるファースト・ブランズ巡る開示を調査－FT
+
+[2025-11-28 13:04:01](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6nyw66ela2n)
+
+---
+
+@bloomberg-jp.bsky.social
+
+イングランド女子サッカーWSLに投資提案、リーグ側は長期戦略優先
+
+[2025-11-28 13:03:57](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6nyvzkmxc26)
+
+---
+
+@bloomberg-jp.bsky.social
+
+中国アリババ、AI搭載スマートグラスの販売開始－海外版は来年提供
+
+[2025-11-28 13:03:52](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6nyvv2bbc27)
 
 ---
 
