@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Good morning, Asia. While you were sleeping, one of our most-read articles was this opinion piece about Americans’ changing relationship to food — and the festivals that focus on it on.ft.com/44y8p4I <a href="https://bsky.app/profile/financialtimes.com/post/3m6noysr6cp2c" target="_blank">financialtimes.com</a> (2025-11-28 10:06:33)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】トヨタグループの広告会社元社員の男（43）ら逮捕 架空の水増し請求させ2800万円をだまし取ったか 警視庁 (2025-11-28 10:01:03) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6noveuebe2h" target="_blank">sokuho.news</a> (2025-11-28 10:04:38)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】秋田県のクマ対策、自衛隊派遣を今月30日で終了 (2025-11-28 10:02:39) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6nov62zh52e" target="_blank">sokuho.news</a> (2025-11-28 10:04:30)</span><span style="padding-right:50px;">11月 卵の平均卸売価格 東京地区340円 11月として最高値に https://news.web.nhk/newsweb/na/na-k10014988631000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6noslpxxj23" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-28 10:03:02)</span><span style="padding-right:50px;">Rory McIlroy: Merger unlikely with LIV Golf spending 'irrationally' reut.rs/4rnk0xh <a href="https://bsky.app/profile/reuters.com/post/3m6nopdcdxw2i" target="_blank">reuters.com</a> (2025-11-28 10:01:14)</span>
+<span style="padding-right:50px;">フランス大統領 “若者中心の志願による兵役制度導入へ” https://news.web.nhk/newsweb/na/na-k10014988461000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6nq5jjkla2n" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-28 10:27:02)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】ガソリン暫定税率廃止の関連法が成立 参院本会議 全会一致で可決 (2025年11月28日 10:26) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6nq54qspk2m" target="_blank">sokuho.news</a> (2025-11-28 10:26:51)</span><span style="padding-right:50px;">ガソリン税の暫定税率廃止法 参院本会議で成立 12月31日廃止へ https://news.web.nhk/newsweb/na/na-k10014988621000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6npy536632r" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-28 10:24:02)</span><span style="padding-right:50px;">CNBC Daily Open: A rough and historically atypical November for U.S. stocks <a href="https://bsky.app/profile/cnbc.com/post/3m6npvvlotz2i" target="_blank">cnbc.com</a> (2025-11-28 10:22:49)</span><span style="padding-right:50px;">🔔NHKより【速報 JUST IN】です。  ガソリン税の暫定税率廃止法 参院本会議で成立 12月31日廃止へ (2025-11-28 10:21:35) #ニュース https://news.web.nhk/newsweb/na/na-k10014988621000 <a href="https://bsky.app/profile/sokuho.news/post/3m6npujfih22d" target="_blank">sokuho.news</a> (2025-11-28 10:22:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50115.18 (🔻103.78 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3134.00 (🔻6.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.39 (🔺0.12 : 2025-11-28)</span>
+<span style="padding-right:50px;">NIKKEI: 50070.14 (🔻148.82 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3134.00 (🔻6.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.37 (🔺0.10 : 2025-11-28)</span>
   </div>
 </div>
 
@@ -30,93 +30,100 @@
 
 ---
 
-## [2025-11-28 10:10 updated](2025_11_28.md)
+## [2025-11-28 10:30 updated](2025_11_28.md)
 
-@financialtimes.com
+@nhknewsunofficial.bsky.social
 
-Good morning, Asia. While you were sleeping, one of our most-read articles was this opinion piece about Americans’ changing relationship to food — and the festivals that focus on it on.ft.com/44y8p4I
+フランス大統領 “若者中心の志願による兵役制度導入へ”
+https://news.web.nhk/newsweb/na/na-k10014988461000
 
-[2025-11-28 10:06:33](https://bsky.app/profile/financialtimes.com/post/3m6noysr6cp2c)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】トヨタグループの広告会社元社員の男（43）ら逮捕 架空の水増し請求させ2800万円をだまし取ったか 警視庁
-(2025-11-28 10:01:03) #ニュース
-
-[2025-11-28 10:04:38](https://bsky.app/profile/sokuho.news/post/3m6noveuebe2h)
+[2025-11-28 10:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6nq5jjkla2n)
 
 ---
 
 @sokuho.news
 
-🛎️JNNより【速報】です。
+🔔ANNより【速報】です。
 
-【速報】秋田県のクマ対策、自衛隊派遣を今月30日で終了
-(2025-11-28 10:02:39) #ニュース
+【速報】ガソリン暫定税率廃止の関連法が成立 参院本会議 全会一致で可決
+(2025年11月28日 10:26) #ニュース
 
-[2025-11-28 10:04:30](https://bsky.app/profile/sokuho.news/post/3m6nov62zh52e)
+[2025-11-28 10:26:51](https://bsky.app/profile/sokuho.news/post/3m6nq54qspk2m)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-11月 卵の平均卸売価格 東京地区340円 11月として最高値に
-https://news.web.nhk/newsweb/na/na-k10014988631000
+ガソリン税の暫定税率廃止法 参院本会議で成立 12月31日廃止へ
+https://news.web.nhk/newsweb/na/na-k10014988621000
 
-[2025-11-28 10:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6noslpxxj23)
-
----
-
-@reuters.com
-
-Rory McIlroy: Merger unlikely with LIV Golf spending 'irrationally' reut.rs/4rnk0xh
-
-[2025-11-28 10:01:14](https://bsky.app/profile/reuters.com/post/3m6nopdcdxw2i)
-
----
-
-@usatoday.com
-
-Will Taylor Swift be in attendance for the Chiefs vs. Cowboys on Thanksgiving in Dallas? Here's the latest.
-
-[2025-11-28 10:01:12](https://bsky.app/profile/usatoday.com/post/3m6nopb4y2s2u)
-
----
-
-@cnn.com
-
-General Horta Nta Na Man was sworn in as the transitional president of Guinea-Bissau on Thursday, an army statement said, one day after army officers announced they had deposed the country’s president.
-
-[2025-11-28 10:01:02](https://bsky.app/profile/cnn.com/post/3m6noowyiod2r)
-
----
-
-@apnews.com
-
-Black Friday has become something of an anachronism in the e-commerce era.
-
-[2025-11-28 10:00:32](https://bsky.app/profile/apnews.com/post/3m6noo2xnkw2h)
-
----
-
-@nbcnews.com
-
-Previously, graduate students could borrow federal loans up to the cost of their degree, but under the new proposal, there would be caps on loans based on whether students are enrolled in a program that is considered professional or not.
-nbcnews.to/4ao1ZZE
-
-[2025-11-28 10:00:31](https://bsky.app/profile/nbcnews.com/post/3m6nonzpns427)
+[2025-11-28 10:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6npy536632r)
 
 ---
 
 @cnbc.com
 
-How Anna-Marie Ortiz turned her side hustle into a profitable cleaning business in Portland, Oregon.
+CNBC Daily Open: A rough and historically atypical November for U.S. stocks
 
-[2025-11-28 10:00:28](https://bsky.app/profile/cnbc.com/post/3m6nonx6mle2x)
+[2025-11-28 10:22:49](https://bsky.app/profile/cnbc.com/post/3m6npvvlotz2i)
+
+---
+
+@sokuho.news
+
+<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>ガソリン税の暫定税率廃止法 参院本会議で成立 12月31日廃止へ</strong><br><strong>(2025-11-28 10:21:35) #ニュース</strong><br><strong>https://news.web.nhk/newsweb/na/na-k10014988621000</strong>
+
+[2025-11-28 10:22:02](https://bsky.app/profile/sokuho.news/post/3m6npujfih22d)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】ガソリンの暫定税率廃止法が成立
+(2025-11-28 10:19:36) #ニュース
+
+[2025-11-28 10:21:35](https://bsky.app/profile/sokuho.news/post/3m6nptp7zkd2w)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+ダイハツのSNS業務請け負った会社の元社員ら2人逮捕 詐欺容疑
+https://news.web.nhk/newsweb/na/na-k10014988611000
+
+[2025-11-28 10:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6npsrt5eb2b)
+
+---
+
+@reuters.com
+
+Ogier ahead of Evans in title chase as Fourmaux leads in Saudi reut.rs/486hO63
+
+[2025-11-28 10:20:20](https://bsky.app/profile/reuters.com/post/3m6nprhguj72i)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】熊本市電で「全国交通系IC」“継続”を表明 大西市長
+(2025-11-28 10:13:00) #ニュース
+
+[2025-11-28 10:19:39](https://bsky.app/profile/sokuho.news/post/3m6npqaku7k2h)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】住民側の訴え退ける 原発運転差し止め仮処分 名古屋高裁金沢支部 美浜3号機、高浜1～4号機
+(2025-11-28 10:19) #ニュース
+
+[2025-11-28 10:19:34](https://bsky.app/profile/sokuho.news/post/3m6npq46unq24)
 
 ---
 
