@@ -1,9 +1,9 @@
-# [2025-11-29 00:10 updated](2025_11_29.md)
+# [2025-11-29 00:30 updated](2025_11_29.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Floods and landslides in Indonesia's Sumatra kill at least 174 reut.rs/3Xjsrw5 <a href="https://bsky.app/profile/reuters.com/post/3m6p5uext7e2i" target="_blank">reuters.com</a> (2025-11-29 00:05:10)</span><span style="padding-right:50px;">Online marketplaces like Airbnb and Fiverr can be very lucrative for sellers, but riskier than you might think, according to a group of high-earners. <a href="https://bsky.app/profile/cnbc.com/post/3m6p5trxbvz2s" target="_blank">cnbc.com</a> (2025-11-29 00:04:50)</span><span style="padding-right:50px;">France caught one of two detainees who used bed sheets to escape from prison a day earlier after sawing through the bars of their cell, a prosecutor said.  <a href="https://bsky.app/profile/cbsnews.com/post/3m6p5t52gdw2u" target="_blank">cbsnews.com</a> (2025-11-29 00:04:28)</span><span style="padding-right:50px;">Anduril says failures identified by Reuters were 'isolated examples' and that in general, learning from testing is part of the development process reut.rs/3XFSBtb <a href="https://bsky.app/profile/reuters.com/post/3m6p5ocjvpc2l" target="_blank">reuters.com</a> (2025-11-29 00:01:46)</span><span style="padding-right:50px;">The Paris prosecutor said that a man arrested earlier this week is thought to be the fourth member of the team behind October's jewel heist at the Louvre Museum. <a href="https://bsky.app/profile/apnews.com/post/3m6p5ngyvz52y" target="_blank">apnews.com</a> (2025-11-29 00:01:17)</span>
+<span style="padding-right:50px;">Retail expert Katie Thomas scours her local shopping mall in Pittsburgh to divine what Americans' shopping habits reveal about the economy and the nation's future. n.pr/48nJ9Q4 <a href="https://bsky.app/profile/npr.org/post/3m6p6zvycfq2f" target="_blank">npr.org</a> (2025-11-29 00:26:09)</span><span style="padding-right:50px;">'Slow' EU to unveil plan for cutting raw materials' reliance on China reut.rs/48ozUPm <a href="https://bsky.app/profile/reuters.com/post/3m6p6y7cwvd2n" target="_blank">reuters.com</a> (2025-11-29 00:25:12)</span><span style="padding-right:50px;">Rahmanullah Lakanwal’s path from a village in Afghanistan to the corner in Washington, D.C., where authorities say he opened fire on two National Guard troops was forged by America's longest war. <a href="https://bsky.app/profile/nytimes.com/post/3m6p6xva5wb2d" target="_blank">nytimes.com</a> (2025-11-29 00:25:01)</span><span style="padding-right:50px;">New research shows feverish temperatures make it more difficult for viruses to hijack our cells. A mouse study suggests it's the heat itself that makes the difference. n.pr/4846jvM <a href="https://bsky.app/profile/npr.org/post/3m6p6x7rxib23" target="_blank">npr.org</a> (2025-11-29 00:24:39)</span><span style="padding-right:50px;">Rahmanullah Lakanwal, the Afghan man who allegedly shot two National Guard members in Washington, D.C., had served in one of Afghanistan's elite counterterrorism units, according to a nonprofit run by people who served in Afghanistan. n.pr/49JN3VM <a href="https://bsky.app/profile/npr.org/post/3m6p6rbn6my2h" target="_blank">npr.org</a> (2025-11-29 00:21:20)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50253.91 (🔺34.95 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47602.69 (🔺120.44 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23271.84 (🔻19.75 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.67 (🔻1.32 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.25 (🔻0.02 : 2025-11-28)</span>
+<span style="padding-right:50px;">NIKKEI: 50253.91 (🔺34.95 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47682.97 (🔺200.72 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23267.67 (🔻23.91 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.21 (🔻1.78 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.23 (🔻0.04 : 2025-11-28)</span>
   </div>
 </div>
 
@@ -32,92 +32,107 @@
 
 ## News Headlines
 
-1. インドネシア・スマトラ島で洪水と地滑り、死者174人に
-2. AirbnbやFiverrは高収入の可能性も、リスクも高い
-3. フランスで脱獄囚2人のうち1人を逮捕、ベッドシーツを使用
-4. ルーブル美術館宝石盗難事件、実行犯4人目の男を逮捕か
-5. 米大統領、83人死亡の攻撃を擁護、野党は非難
-6. 香港の火災、死者128人に、新たに8人逮捕
+1. 米国の小売専門家、ショッピングモールから経済と未来を占う
+2. EU、中国への原材料依存脱却計画を発表へ
+3. アフガン出身者、米兵銃撃事件に至る経緯
+4. 研究：発熱がウイルス感染を抑制する可能性
+5. D.C.銃撃事件、死亡した州兵隊員と容疑者の背景
+6. インドネシア・スマトラ島で洪水と地滑り、少なくとも174人死亡
 
 ----
 
-@reuters.com
+@npr.org
 
-Floods and landslides in Indonesia's Sumatra kill at least 174 reut.rs/3Xjsrw5
+Retail expert Katie Thomas scours her local shopping mall in Pittsburgh to divine what Americans' shopping habits reveal about the economy and the nation's future. n.pr/48nJ9Q4
 
-[2025-11-29 00:05:10](https://bsky.app/profile/reuters.com/post/3m6p5uext7e2i)
-
----
-
-@cnbc.com
-
-Online marketplaces like Airbnb and Fiverr can be very lucrative for sellers, but riskier than you might think, according to a group of high-earners.
-
-[2025-11-29 00:04:50](https://bsky.app/profile/cnbc.com/post/3m6p5trxbvz2s)
-
----
-
-@cbsnews.com
-
-France caught one of two detainees who used bed sheets to escape from prison a day earlier after sawing through the bars of their cell, a prosecutor said. 
-
-[2025-11-29 00:04:28](https://bsky.app/profile/cbsnews.com/post/3m6p5t52gdw2u)
+[2025-11-29 00:26:09](https://bsky.app/profile/npr.org/post/3m6p6zvycfq2f)
 
 ---
 
 @reuters.com
 
-Anduril says failures identified by Reuters were 'isolated examples' and that in general, learning from testing is part of the development process reut.rs/3XFSBtb
+'Slow' EU to unveil plan for cutting raw materials' reliance on China reut.rs/48ozUPm
 
-[2025-11-29 00:01:46](https://bsky.app/profile/reuters.com/post/3m6p5ocjvpc2l)
+[2025-11-29 00:25:12](https://bsky.app/profile/reuters.com/post/3m6p6y7cwvd2n)
 
 ---
 
-@apnews.com
+@nytimes.com
 
-The Paris prosecutor said that a man arrested earlier this week is thought to be the fourth member of the team behind October's jewel heist at the Louvre Museum.
+Rahmanullah Lakanwal’s path from a village in Afghanistan to the corner in Washington, D.C., where authorities say he opened fire on two National Guard troops was forged by America's longest war.
 
-[2025-11-29 00:01:17](https://bsky.app/profile/apnews.com/post/3m6p5ngyvz52y)
+[2025-11-29 00:25:01](https://bsky.app/profile/nytimes.com/post/3m6p6xva5wb2d)
+
+---
+
+@npr.org
+
+New research shows feverish temperatures make it more difficult for viruses to hijack our cells. A mouse study suggests it's the heat itself that makes the difference. n.pr/4846jvM
+
+[2025-11-29 00:24:39](https://bsky.app/profile/npr.org/post/3m6p6x7rxib23)
+
+---
+
+@npr.org
+
+Rahmanullah Lakanwal, the Afghan man who allegedly shot two National Guard members in Washington, D.C., had served in one of Afghanistan's elite counterterrorism units, according to a nonprofit run by people who served in Afghanistan. n.pr/49JN3VM
+
+[2025-11-29 00:21:20](https://bsky.app/profile/npr.org/post/3m6p6rbn6my2h)
+
+---
+
+@npr.org
+
+National Guard member Sarah Beckstrom had died from her injuries after a shooting in the nation's capital. And, the death toll in the Hong Kong high-rise fire rises as dozens remain missing. n.pr/3JXuJ0U
+
+[2025-11-29 00:20:49](https://bsky.app/profile/npr.org/post/3m6p6qenzpa2i)
+
+---
+
+@sokuho.news
+
+🔔防災科研より【強震モニタ】動画です。
+
+震源:茨城県沖, 深さ:40km
+マグニチュード:3.5, 最大震度:1
+📍https://www.google.com/maps?q=36.4,141.0&ll=36.4,141.0&z=7&t=h
+地震発生日時:2025-11-29 00:15頃
+(10倍速▶120s→12s) #地震
+
+[2025-11-29 00:18:12](https://bsky.app/profile/sokuho.news/post/3m6p6loogxj2x)
+
+---
+
+@sokuho.news
+
+🔔気象庁より【地震速報】です。
+
+0時15分頃、茨城県で最大震度1の地震を観測しました。
+震源:茨城県沖, 深さ:40km, 規模:M3.5
+この地震による津波の心配はありません。
+(2025-11-29 00:17:45) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/11/29/2025-11-29-00-15-04.html?xlarge_image=1
+
+[2025-11-29 00:17:47](https://bsky.app/profile/sokuho.news/post/3m6p6kwu25u2l)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】大阪府警の警察官が万引きの疑いで逮捕 キャラクターのステッカーなど62点 「子供にプレゼントするために盗みました」と容疑を認める
+(2025-11-29 00:08) #ニュース
+
+[2025-11-29 00:16:21](https://bsky.app/profile/sokuho.news/post/3m6p6iexffy2w)
 
 ---
 
 @reuters.com
 
-Key facts about trading on the CME reut.rs/4pxi7MP
+At crowded Ukrainian cemetery, mourners yearn for war to end reut.rs/4a3aj19
 
-[2025-11-29 00:01:01](https://bsky.app/profile/reuters.com/post/3m6p5mxvbs32a)
-
----
-
-@usatoday.com
-
-The president's refusal comes as Democrats, other critics say strikes killing at least 83 people are unjustified and illegal 'extrajudicial killings.'
-
-[2025-11-29 00:00:56](https://bsky.app/profile/usatoday.com/post/3m6p5msensy2j)
-
----
-
-@aljazeera.com
-
-US president's announcement comes after two National Guard members were shot and an Afghan national was named a suspect.
-
-[2025-11-29 00:00:44](https://bsky.app/profile/aljazeera.com/post/3m6p5mh4hhq2k)
-
----
-
-@apnews.com
-
-There’s a lot of slop to sift through as we get closer to the holidays, many interests to appeal to and a whole bunch of deals-that-aren't-deals flashing before our screens. Here's a guide to the best tech gifts to invest in this year. apnews.com/projects/gif...  
-
-[2025-11-29 00:00:28](https://bsky.app/profile/apnews.com/post/3m6p5lxvgqv2y)
-
----
-
-@bloomberg.com
-
-The Canadian economy rebounded sharply from the initial damage of the trade war as the country's growth drivers shifted to housing and government spending.
-
-[2025-11-29 00:00:19](https://bsky.app/profile/bloomberg.com/post/3m6p5lphorj2q)
+[2025-11-29 00:15:14](https://bsky.app/profile/reuters.com/post/3m6p6gf2otg2o)
 
 ---
 
