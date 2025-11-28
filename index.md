@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】静岡市中心部の大規模商業施設｢静岡パルコ｣2027年1月末での“営業終了”を発表…県内経済影響懸念も (2025-11-28 17:06) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6ogmlnvnt2e" target="_blank">sokuho.news</a> (2025-11-28 17:09:12)</span><span style="padding-right:50px;">インフルエンザの患者数 1医療機関当たり 今季初の50人超え https://news.web.nhk/newsweb/na/na-k10014989091000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ogmdymdd2t" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-28 17:09:02)</span><span style="padding-right:50px;">Japan's same-sex marriage ban is constitutional, says Tokyo court <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6oghr3vne2y" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-11-28 17:06:30)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】静岡市中心部の商業施設｢静岡パルコ｣2027年1月末での“営業終了”を発表…県内経済影響懸念も (2025-11-28 17:06) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6oghen5fa27" target="_blank">sokuho.news</a> (2025-11-28 17:06:17)</span><span style="padding-right:50px;">Germany set to approve $3.36 billion in arms in defence surge, Bloomberg News reports reut.rs/43XlS5X <a href="https://bsky.app/profile/reuters.com/post/3m6ogfe4vd32k" target="_blank">reuters.com</a> (2025-11-28 17:05:10)</span>
+<span style="padding-right:50px;">Venezuela’s President Nicolas Maduro has posted video of himself driving through the streets of the country’s capital, in an apparent attempt to dismiss perceptions he’s living in fear of the US military build-up in the region and a $50 million US bounty for his arrest. <a href="https://bsky.app/profile/aljazeera.com/post/3m6ohprjqus2t" target="_blank">aljazeera.com</a> (2025-11-28 17:28:53)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】ユネスコ無形遺産登録目指す候補 岡山の備中神楽など全国40件含む「神楽」 国の文化審議会 (2025-11-28 17:15) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6ohk4tlor24" target="_blank">sokuho.news</a> (2025-11-28 17:25:44)</span><span style="padding-right:50px;">Cyclone Ditwah kills 46 in Sri Lanka, leaves 23 missing as rescue efforts continue reut.rs/43UN4Cs <a href="https://bsky.app/profile/reuters.com/post/3m6ohj5hdrm2k" target="_blank">reuters.com</a> (2025-11-28 17:25:11)</span><span style="padding-right:50px;">高市政権下で初の補正予算決定、国債頼み11兆円超追加－積極財政鮮明 <a href="https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6ohekvvuh2r" target="_blank">bloomberg-jp.bsky.social</a> (2025-11-28 17:22:37)</span><span style="padding-right:50px;">商船三井社長、累進配当の導入で株主定着を検討－次期中期計画 <a href="https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6oheh2tqb23" target="_blank">bloomberg-jp.bsky.social</a> (2025-11-28 17:22:33)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50253.91 (🔺34.95 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.36 (🔺0.09 : 2025-11-28)</span>
+<span style="padding-right:50px;">NIKKEI: 50253.91 (🔺34.95 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.33 (🔺0.06 : 2025-11-28)</span>
   </div>
 </div>
 
@@ -30,101 +30,88 @@
 
 ---
 
-## [2025-11-28 17:10 updated](2025_11_28.md)
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】静岡市中心部の大規模商業施設｢静岡パルコ｣2027年1月末での“営業終了”を発表…県内経済影響懸念も
-(2025-11-28 17:06) #ニュース
-
-[2025-11-28 17:09:12](https://bsky.app/profile/sokuho.news/post/3m6ogmlnvnt2e)
-
----
-
-@nhknewsunofficial.bsky.social
-
-インフルエンザの患者数 1医療機関当たり 今季初の50人超え
-https://news.web.nhk/newsweb/na/na-k10014989091000
-
-[2025-11-28 17:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ogmdymdd2t)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Japan's same-sex marriage ban is constitutional, says Tokyo court
-
-[2025-11-28 17:06:30](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6oghr3vne2y)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】静岡市中心部の商業施設｢静岡パルコ｣2027年1月末での“営業終了”を発表…県内経済影響懸念も
-(2025-11-28 17:06) #ニュース
-
-[2025-11-28 17:06:17](https://bsky.app/profile/sokuho.news/post/3m6oghen5fa27)
-
----
-
-@reuters.com
-
-Germany set to approve $3.36 billion in arms in defence surge, Bloomberg News reports reut.rs/43XlS5X
-
-[2025-11-28 17:05:10](https://bsky.app/profile/reuters.com/post/3m6ogfe4vd32k)
-
----
-
-@nikkei.com
-
-株主優待銘柄、投資するときの注意点は？
-www.nikkei.com/article/DGXZQO...
-
-【この記事でわかること】
-・株式取得の時期、なぜ重要？
-・優待内容への課税方法とは
-・廃止が株価に影響しうる理由
-
-[2025-11-28 17:01:00](https://bsky.app/profile/nikkei.com/post/3m6og5weekf22)
-
----
-
-@reuters.com
-
-Indonesia rejects US 'poison pill' clauses in trade deal talks, FT reports reut.rs/4rqxQz7
-
-[2025-11-28 17:00:31](https://bsky.app/profile/reuters.com/post/3m6og527rca27)
-
----
-
-@cnn.com
-
-President Donald Trump has pledged to use the "influence of the presidency to bring an immediate halt" to the two-year-old war in Sudan that the United Nations High Commissioner for Refugees estimates has displaced nearly 12 million people. https://cnn.it/44sYkWN
-
-[2025-11-28 17:00:18](https://bsky.app/profile/cnn.com/post/3m6og4o7qxg2m)
-
----
+## [2025-11-28 17:30 updated](2025_11_28.md)
 
 @aljazeera.com
 
-At least 12 Syrians killed in Israeli attacks after two unarmed Palestinians murdered in occupied West Bank's Jenin.
+Venezuela’s President Nicolas Maduro has posted video of himself driving through the streets of the country’s capital, in an apparent attempt to dismiss perceptions he’s living in fear of the US military build-up in the region and a $50 million US bounty for his arrest.
 
-[2025-11-28 17:00:17](https://bsky.app/profile/aljazeera.com/post/3m6og4mna2l2c)
+[2025-11-28 17:28:53](https://bsky.app/profile/aljazeera.com/post/3m6ohprjqus2t)
 
 ---
 
 @sokuho.news
 
-🛎️文春より【スクープ】です。
+🛎️FNNより【速報】です。
 
-【国分太一・事情聴取の真相】「ハラスメント行為をしていませんか」打ち合わせの予定が突如、日本テレビ幹部社員と弁護士が登場「コンプラ違反について事情を聞きたい」
-(2025-11-28 17:00) #ニュース
+【速報】ユネスコ無形遺産登録目指す候補 岡山の備中神楽など全国40件含む「神楽」 国の文化審議会
+(2025-11-28 17:15) #ニュース
 
-[2025-11-28 17:00:07](https://bsky.app/profile/sokuho.news/post/3m6og4de66u22)
+[2025-11-28 17:25:44](https://bsky.app/profile/sokuho.news/post/3m6ohk4tlor24)
+
+---
+
+@reuters.com
+
+Cyclone Ditwah kills 46 in Sri Lanka, leaves 23 missing as rescue efforts continue reut.rs/43UN4Cs
+
+[2025-11-28 17:25:11](https://bsky.app/profile/reuters.com/post/3m6ohj5hdrm2k)
+
+---
+
+@bloomberg-jp.bsky.social
+
+高市政権下で初の補正予算決定、国債頼み11兆円超追加－積極財政鮮明
+
+[2025-11-28 17:22:37](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6ohekvvuh2r)
+
+---
+
+@bloomberg-jp.bsky.social
+
+商船三井社長、累進配当の導入で株主定着を検討－次期中期計画
+
+[2025-11-28 17:22:33](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6oheh2tqb23)
+
+---
+
+@bloomberg-jp.bsky.social
+
+49ドルで人生の教訓、Z世代にヘッジファンド投資家が講座提供
+
+[2025-11-28 17:22:28](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6ohecjo4n26)
+
+---
+
+@bloomberg-jp.bsky.social
+
+北朝鮮ハッカー集団、暗号資産取引所ハッキング関与の疑い－聯合
+
+[2025-11-28 17:22:24](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6ohe6ljxw2l)
+
+---
+
+@bloomberg-jp.bsky.social
+
+ケリング、「グッチ」の新CFOに元ルノー幹部を起用－経営再建目指す
+
+[2025-11-28 17:22:19](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6ohdzunxr23)
+
+---
+
+@bloomberg-jp.bsky.social
+
+香港当局、高層マンション群火災の1週間前に施工業者に危険性警告
+
+[2025-11-28 17:22:14](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6ohdv4jqk2w)
+
+---
+
+@bloomberg-jp.bsky.social
+
+タイとインドネシア、洪水や土砂崩れで153人死亡－経済にも影響
+
+[2025-11-28 17:22:09](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6ohdqfvmv24)
 
 ---
 
