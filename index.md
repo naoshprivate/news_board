@@ -1,9 +1,9 @@
-# [2025-11-29 02:30 updated](2025_11_29.md)
+# [2025-11-29 02:50 updated](2025_11_29.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Scientists solve the mystery of the prehistoric 'Burtele Foot' reut.rs/4pFZjeE <a href="https://bsky.app/profile/reuters.com/post/3m6pfoov32f26" target="_blank">reuters.com</a> (2025-11-29 02:25:09)</span><span style="padding-right:50px;">Reeves accused of exaggerating gloom to pave way for tax-raising Budget on.ft.com/4p61Qi3 <a href="https://bsky.app/profile/financialtimes.com/post/3m6pfmdfpl22n" target="_blank">financialtimes.com</a> (2025-11-29 02:23:50)</span><span style="padding-right:50px;">Just a few months into Olga Stefanishyna's job as Ukraine's ambassador to the U.S, she is helping negotiate a peace deal that could end Russia's war on Ukraine. n.pr/4rktzNP <a href="https://bsky.app/profile/npr.org/post/3m6pfbyviso2q" target="_blank">npr.org</a> (2025-11-29 02:18:03)</span><span style="padding-right:50px;">Lufthansa Airlines aims to increase profitability in 2026, says CEO reut.rs/48lDrOr <a href="https://bsky.app/profile/reuters.com/post/3m6pf4wow2s2o" target="_blank">reuters.com</a> (2025-11-29 02:15:13)</span><span style="padding-right:50px;">I chatted with Anthropic’s Mike Krieger about the company’s enterprise strategy. He said Claude usage is sticky: 60% of business customers are using more than one Claude product. www.forbes.com/sites/richar... <a href="https://bsky.app/profile/richardnieva.bsky.social/post/3m6pevlmrjk2d" target="_blank">richardnieva.bsky.social</a> (2025-11-29 02:11:07)</span>
+<span style="padding-right:50px;">From Breakingviews - Breakingviews - Deutsche Börse finds tasty meal in Euronext scraps reut.rs/4iuucjG <a href="https://bsky.app/profile/reuters.com/post/3m6pgspbvvm2w" target="_blank">reuters.com</a> (2025-11-29 02:45:17)</span><span style="padding-right:50px;"> Trial by jury is a right that needs protecting on.ft.com/4rIHHkb  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m6pgqweue52q" target="_blank">financialtimes.com</a> (2025-11-29 02:44:18)</span><span style="padding-right:50px;">India's Adani Group aims to take total debt on book to $11 billion by 2030, CFO Singh says reut.rs/4rrzhNM <a href="https://bsky.app/profile/reuters.com/post/3m6pgju2zwh26" target="_blank">reuters.com</a> (2025-11-29 02:40:20)</span><span style="padding-right:50px;">Those who didn’t survive the fire either couldn’t get out or didn’t know they had to.  on.wsj.com/48t9kVt <a href="https://bsky.app/profile/wsj.com/post/3m6pgewive42o" target="_blank">wsj.com</a> (2025-11-29 02:37:35)</span><span style="padding-right:50px;">The Afghan man suspected of shooting two National Guard members entered the U.S. under the program in 2021. Here's a look at why it was set up and how those who entered the U.S. were vetted. n.pr/4pDYP8M <a href="https://bsky.app/profile/npr.org/post/3m6pgbexxg22e" target="_blank">npr.org</a> (2025-11-29 02:35:36)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50253.91 (🔺34.95 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47656.43 (🔺174.18 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23302.13 (🔺10.54 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.04 (🔻1.95 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.23 (🔻0.04 : 2025-11-28)</span>
+<span style="padding-right:50px;">NIKKEI: 50253.91 (🔺34.95 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47666.47 (🔺184.22 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23306.62 (🔺15.03 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 176.88 (🔻2.11 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.17 (🔻0.10 : 2025-11-28)</span>
   </div>
 </div>
 
@@ -32,92 +32,94 @@
 
 ## News Headlines
 
-1. 先史時代の「ブルテレの足」の謎を解明
-2. ルフトハンザ航空、2026年の収益性向上を目指す
-3. ビートルズ・アンソロジー、30年を経て新エピソード追加で復活
-4. 宮崎県で震度1の地震発生
-5. 香港高層ビル火災、住民が1年以上前に安全違反を警告
-6. トランプ氏、移民政策を大幅強化へ
+1. ドイツ取引所、ユーロネクストの残骸から魅力的な食事を発見
+2. インドのアダニ・グループ、2030年までに総負債を110億ドルに
+3. WHO発表、麻疹患者が24年間で71%減少
+4. トランプ大統領の幼少期の家が230万ドルで再販売
+5. ルーブル美術館の宝石盗難事件、4人目の容疑者を逮捕
+6. ウクライナ大統領、汚職調査で首席補佐官を解任
 
 ----
 
 @reuters.com
 
-Scientists solve the mystery of the prehistoric 'Burtele Foot' reut.rs/4pFZjeE
+From Breakingviews - Breakingviews - Deutsche Börse finds tasty meal in Euronext scraps reut.rs/4iuucjG
 
-[2025-11-29 02:25:09](https://bsky.app/profile/reuters.com/post/3m6pfoov32f26)
+[2025-11-29 02:45:17](https://bsky.app/profile/reuters.com/post/3m6pgspbvvm2w)
 
 ---
 
 @financialtimes.com
 
-Reeves accused of exaggerating gloom to pave way for tax-raising Budget on.ft.com/4p61Qi3
+ Trial by jury is a right that needs protecting on.ft.com/4rIHHkb  | opinion
 
-[2025-11-29 02:23:50](https://bsky.app/profile/financialtimes.com/post/3m6pfmdfpl22n)
+[2025-11-29 02:44:18](https://bsky.app/profile/financialtimes.com/post/3m6pgqweue52q)
+
+---
+
+@reuters.com
+
+India's Adani Group aims to take total debt on book to $11 billion by 2030, CFO Singh says reut.rs/4rrzhNM
+
+[2025-11-29 02:40:20](https://bsky.app/profile/reuters.com/post/3m6pgju2zwh26)
+
+---
+
+@wsj.com
+
+Those who didn’t survive the fire either couldn’t get out or didn’t know they had to.
+
+on.wsj.com/48t9kVt
+
+[2025-11-29 02:37:35](https://bsky.app/profile/wsj.com/post/3m6pgewive42o)
 
 ---
 
 @npr.org
 
-Just a few months into Olga Stefanishyna's job as Ukraine's ambassador to the U.S, she is helping negotiate a peace deal that could end Russia's war on Ukraine. n.pr/4rktzNP
+The Afghan man suspected of shooting two National Guard members entered the U.S. under the program in 2021. Here's a look at why it was set up and how those who entered the U.S. were vetted. n.pr/4pDYP8M
 
-[2025-11-29 02:18:03](https://bsky.app/profile/npr.org/post/3m6pfbyviso2q)
-
----
-
-@reuters.com
-
-Lufthansa Airlines aims to increase profitability in 2026, says CEO reut.rs/48lDrOr
-
-[2025-11-29 02:15:13](https://bsky.app/profile/reuters.com/post/3m6pf4wow2s2o)
-
----
-
-@richardnieva.bsky.social
-
-I chatted with Anthropic’s Mike Krieger about the company’s enterprise strategy. He said Claude usage is sticky: 60% of business customers are using more than one Claude product. www.forbes.com/sites/richar...
-
-[2025-11-29 02:11:07](https://bsky.app/profile/richardnieva.bsky.social/post/3m6pevlmrjk2d)
+[2025-11-29 02:35:36](https://bsky.app/profile/npr.org/post/3m6pgbexxg22e)
 
 ---
 
 @reuters.com
 
-Trump’s ‘reverse migration’, Hong Kong and Black Friday reut.rs/4rrO3nK
+Global measles cases drop 71% in 24 years on improved vaccination coverage, WHO says reut.rs/4omp2HS
 
-[2025-11-29 02:10:18](https://bsky.app/profile/reuters.com/post/3m6peu5qvz42e)
-
----
-
-@npr.org
-
-In 1995, an eight-part documentary series told the story of The Beatles and their music. Now, 30 years later, The Beatles Anthology is back, with a fresh sound and a brand-new ninth episode. n.pr/4pwIAtX
-
-[2025-11-29 02:10:01](https://bsky.app/profile/npr.org/post/3m6petmmfjv2s)
+[2025-11-29 02:35:12](https://bsky.app/profile/reuters.com/post/3m6pganslgm2r)
 
 ---
 
-@reuters.com
+@nytimes.com
 
-World's biggest jeweller Pandora braces for fierce Black Friday competition reut.rs/48D20rs
+President Trump’s childhood home in Queens is back on the market, this time after a gut renovation and with a $2.3 million price tag.
 
-[2025-11-29 02:05:12](https://bsky.app/profile/reuters.com/post/3m6pekz3j652y)
-
----
-
-@cnbc.com
-
-These stocks are proven winners in December
-
-[2025-11-29 02:02:40](https://bsky.app/profile/cnbc.com/post/3m6pegink422a)
+[2025-11-29 02:35:06](https://bsky.app/profile/nytimes.com/post/3m6pgaiftbg2q)
 
 ---
 
 @reuters.com
 
-Uneven economy will drive investors' Black Friday stock picking reut.rs/4ajbSI8
+UN urges Washington to keep doors open to asylum seekers after D.C. attack reut.rs/4puXdOy
 
-[2025-11-29 02:01:20](https://bsky.app/profile/reuters.com/post/3m6pee3smii2i)
+[2025-11-29 02:30:54](https://bsky.app/profile/reuters.com/post/3m6pfyxythg2d)
+
+---
+
+@aljazeera.com
+
+Advocates say killing of two Palestinians in West Bank part of Israel's 'systematic policy of extrajudicial killings'.
+
+[2025-11-29 02:30:24](https://bsky.app/profile/aljazeera.com/post/3m6pfy3g7la2f)
+
+---
+
+@usatoday.com
+
+Concerns over searches, detentions and visa rules have travelers asking what it actually takes to enter the U.S. — and why some are denied.
+
+[2025-11-29 02:30:22](https://bsky.app/profile/usatoday.com/post/3m6pfxzlnxd2p)
 
 ---
 
