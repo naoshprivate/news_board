@@ -1,9 +1,9 @@
-# [2025-11-29 07:50 updated](2025_11_29.md)
+# [2025-11-29 08:10 updated](2025_11_29.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">American Airlines says Airbus software issue to impact 340 aircraft reut.rs/4orwOjv <a href="https://bsky.app/profile/reuters.com/post/3m6pxl24q3j2k" target="_blank">reuters.com</a> (2025-11-29 07:45:14)</span><span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像7🈡 (2025-11-29 07:42:02) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m6pxfvbvxx26" target="_blank">sokuho.news</a> (2025-11-29 07:42:21)</span><span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像4 (2025-11-29 07:41:32) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m6pxfb2mva2q" target="_blank">sokuho.news</a> (2025-11-29 07:42:00)</span><span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像3 (2025-11-29 07:41:22) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m6pxelizqg24" target="_blank">sokuho.news</a> (2025-11-29 07:41:37)</span><span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください 🔗http://www.kmoni.bosai.go.jp/  🔶防災科研/強震モニタ/予測震度画像1 (2025-11-29 07:41:13) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m6pxe2zium2h" target="_blank">sokuho.news</a> (2025-11-29 07:41:20)</span>
+<span style="padding-right:50px;">After the alleged shooter was identified as Rahmanullah Lakanwal — a 29-year-old Afghan national — Trump said he would permanently shut down immigration from impoverished countries. n.pr/4roPiE2 <a href="https://bsky.app/profile/npr.org/post/3m6pypfjt332e" target="_blank">npr.org</a> (2025-11-29 08:05:34)</span><span style="padding-right:50px;">Report: Packers DL Devonte Wyatt (ankle) to miss rest of season reut.rs/3Kl7Gx5 <a href="https://bsky.app/profile/reuters.com/post/3m6pyoq7y2s2i" target="_blank">reuters.com</a> (2025-11-29 08:05:11)</span><span style="padding-right:50px;">The "Wicked" star is breaking her silence on the early shuttering of her badly reviewed Broadway musical, amid her polarizing Charlie Kirk comments. <a href="https://bsky.app/profile/usatoday.com/post/3m6pyhvpcwv2p" target="_blank">usatoday.com</a> (2025-11-29 08:01:22)</span><span style="padding-right:50px;">【20時間超の「超長距離便」離陸へ】 カンタス航空、2027年にシドニー・NY便 www.nikkei.com/article/DGXZQO...  エアバスのA350-1000ULRを使用。全席の41%分をファーストクラスなど「プレミアム席」にします。  ANAやJALは、需要が見込めず超長距離便を計画していません。 <a href="https://bsky.app/profile/nikkei.com/post/3m6pyhryjqj2j" target="_blank">nikkei.com</a> (2025-11-29 08:01:18)</span><span style="padding-right:50px;">Juan Orlando Hernandez, member of Trump-endorsed candidate Nasry Asfura's party, serving US drug trafficking sentence. <a href="https://bsky.app/profile/aljazeera.com/post/3m6pyhbdith2l" target="_blank">aljazeera.com</a> (2025-11-29 08:01:01)</span>
   </div>
 </div>
 
@@ -32,122 +32,98 @@
 
 ## News Headlines
 
-1.  緊急地震速報、各地で揺れに警戒
-2.  全日空、エアバス機不具合で国内線33便欠航
-3.  トランプ氏、オランド前ホンジュラス大統領を恩赦へ
-4.  スキージャンプ女子W杯、丸山希が開幕3連勝
-5.  ゼレンスキー大統領府長官、汚職疑惑で辞任
-6.  WHO、麻疹急増でワクチン予防疾患の流行を警告
+1. トランプ氏、貧困国からの移民を永久閉鎖へ
+2. カンタス航空、2027年にシドニー・NY超長距離便
+3. 米財務省、不法滞在者への連邦給付金停止へ
+4. エアバス機、太陽放射で操縦データ破損の恐れ
+5. 米国で死刑制度への関心が再燃
+6. 丸山希、スキージャンプW杯開幕3連勝
 
 ----
 
-@reuters.com
+@npr.org
 
-American Airlines says Airbus software issue to impact 340 aircraft reut.rs/4orwOjv
+After the alleged shooter was identified as Rahmanullah Lakanwal — a 29-year-old Afghan national — Trump said he would permanently shut down immigration from impoverished countries. n.pr/4roPiE2
 
-[2025-11-29 07:45:14](https://bsky.app/profile/reuters.com/post/3m6pxl24q3j2k)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗
-
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像7🈡
-(2025-11-29 07:42:02) #緊急地震速報
-
-[2025-11-29 07:42:21](https://bsky.app/profile/sokuho.news/post/3m6pxfvbvxx26)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗
-
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像4
-(2025-11-29 07:41:32) #緊急地震速報
-
-[2025-11-29 07:42:00](https://bsky.app/profile/sokuho.news/post/3m6pxfb2mva2q)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗
-
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像3
-(2025-11-29 07:41:22) #緊急地震速報
-
-[2025-11-29 07:41:37](https://bsky.app/profile/sokuho.news/post/3m6pxelizqg24)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗
-
-⚠️揺れに警戒してください
-🔗http://www.kmoni.bosai.go.jp/
-
-🔶防災科研/強震モニタ/予測震度画像1
-(2025-11-29 07:41:13) #緊急地震速報
-
-[2025-11-29 07:41:20](https://bsky.app/profile/sokuho.news/post/3m6pxe2zium2h)
-
----
-
-@nytimes.com
-
-Our Wirecutter testers think this cheesy contraption belongs at every holiday party. Read writer Maki Yazawa's review on the medieval-looking cheese cutter that “provides boundless entertainment for my inquisitive guests." nyti.ms/4ir2S5G
-
-[2025-11-29 07:40:45](https://bsky.app/profile/nytimes.com/post/3m6pxczquvj2l)
+[2025-11-29 08:05:34](https://bsky.app/profile/npr.org/post/3m6pypfjt332e)
 
 ---
 
 @reuters.com
 
-Warburg Pincus to acquire Raptor Technologies for around $1.8 billion, sources say reut.rs/4opswcu
+Report: Packers DL Devonte Wyatt (ankle) to miss rest of season reut.rs/3Kl7Gx5
 
-[2025-11-29 07:40:18](https://bsky.app/profile/reuters.com/post/3m6pxcac3nr27)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Guinea-Bissau coup called a 'sham' by West African political figures 
-
-[2025-11-29 07:35:29](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6pwzmzy2s2e)
+[2025-11-29 08:05:11](https://bsky.app/profile/reuters.com/post/3m6pyoq7y2s2i)
 
 ---
 
-@reuters.com
+@usatoday.com
 
-Trump, Maduro spoke last week, New York Times reports reut.rs/4otl7ZV
+The "Wicked" star is breaking her silence on the early shuttering of her badly reviewed Broadway musical, amid her polarizing Charlie Kirk comments.
 
-[2025-11-29 07:35:10](https://bsky.app/profile/reuters.com/post/3m6pwz2awmb2w)
+[2025-11-29 08:01:22](https://bsky.app/profile/usatoday.com/post/3m6pyhvpcwv2p)
 
 ---
 
 @nikkei.com
 
-ゼレンスキー氏最側近のイエルマーク大統領府長官、大型汚職疑惑で辞任
+【20時間超の「超長距離便」離陸へ】
+カンタス航空、2027年にシドニー・NY便
 www.nikkei.com/article/DGXZQO...
 
-ウクライナの政権ナンバー2として強い影響力を発揮してきました。
+エアバスのA350-1000ULRを使用。全席の41%分をファーストクラスなど「プレミアム席」にします。
 
-国営原子力企業エネルゴアトムをめぐる汚職疑惑の収束が見えないことが、更迭の背景に。
+ANAやJALは、需要が見込めず超長距離便を計画していません。
 
-ゼレンスキー氏は政権運営の支柱を失い、政策決定に空白が生まれる可能性もあります。
+[2025-11-29 08:01:18](https://bsky.app/profile/nikkei.com/post/3m6pyhryjqj2j)
 
-#ニュース
+---
 
-[2025-11-29 07:31:18](https://bsky.app/profile/nikkei.com/post/3m6pws53ozb2k)
+@aljazeera.com
+
+Juan Orlando Hernandez, member of Trump-endorsed candidate Nasry Asfura's party, serving US drug trafficking sentence.
+
+[2025-11-29 08:01:01](https://bsky.app/profile/aljazeera.com/post/3m6pyhbdith2l)
+
+---
+
+@reuters.com
+
+Bessent says US Treasury working to cut off federal benefits to 'illegal aliens' reut.rs/4paZJd0
+
+[2025-11-29 08:00:53](https://bsky.app/profile/reuters.com/post/3m6pygzl6o22i)
+
+---
+
+@nbcnews.com
+
+Israeli security forces shot and killed two Palestinian men who appeared to be unarmed and surrendering in the occupied West Bank, according to video filmed by Palestine TV that was distributed by Reuters, and video shot by the news agency itself.
+
+[2025-11-29 08:00:42](https://bsky.app/profile/nbcnews.com/post/3m6pygpgiz52j)
+
+---
+
+@cnbc.com
+
+The Clocktower Penthouse is a triplex apartment at the top of 108 Leonard Street in New York City. 
+
+[2025-11-29 08:00:41](https://bsky.app/profile/cnbc.com/post/3m6pygocwgj2y)
+
+---
+
+@nytimes.com
+
+Airbus on Friday urged airlines to immediately address a software problem that could affect flight controls on thousands of its airplanes. The European airplane maker said a recent incident had shown that “intense solar radiation may corrupt data critical to the functioning of flight controls.”
+
+[2025-11-29 08:00:38](https://bsky.app/profile/nytimes.com/post/3m6pygkzcup2g)
+
+---
+
+@bloomberg.com
+
+A call for the death penalty in the case of the killing of a National Guard member has revived attention on the use of capital punishment in the US. Here's what you need to know
+
+[2025-11-29 08:00:10](https://bsky.app/profile/bloomberg.com/post/3m6pyfqtfpr2q)
 
 ---
 
