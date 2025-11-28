@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Lloyd’s of London is no longer a bastion of white, male privilege. Or so the white men running it say. A reputational crisis is putting the iconic British institution under pressure to prove it has changed. <a href="https://bsky.app/profile/wsj.com/post/3m6okyhpgci2p" target="_blank">wsj.com</a> (2025-11-28 18:27:26)</span><span style="padding-right:50px;">野菜 卵 コメ… 物価の高止まり続く食料品 消費と生産の現場は https://news.web.nhk/newsweb/na/na-k10014988931000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6okxsarfv23" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-28 18:27:02)</span><span style="padding-right:50px;">Receding waters begin revealing devastating damage from floods in Thailand that have killed at least 145 people and affected millions. <a href="https://bsky.app/profile/apnews.com/post/3m6okv5noe52h" target="_blank">apnews.com</a> (2025-11-28 18:25:35)</span><span style="padding-right:50px;">India's Jayaswal Neco pivots to cheaper funding replacing high cost bonds, sources say reut.rs/4ipdS3N <a href="https://bsky.app/profile/reuters.com/post/3m6okuewheh2o" target="_blank">reuters.com</a> (2025-11-28 18:25:09)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】車両と自転車の事故…自転車に乗っていた人が重傷のもよう 山口・周南 (2025-11-28 18:12:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6okmldxxm27" target="_blank">sokuho.news</a> (2025-11-28 18:20:47)</span>
+<span style="padding-right:50px;">Few people make partner at Goldman. Two brothers doing it within two years of each other is even more unusual. <a href="https://bsky.app/profile/wsj.com/post/3m6om2jmxmu22" target="_blank">wsj.com</a> (2025-11-28 18:46:29)</span><span style="padding-right:50px;">LIVE: ICC rules on former Philippine President Rodrigo Duterte’s release youtube.com/live/IKHl4ka... <a href="https://bsky.app/profile/reuters.com/post/3m6olysjq522i" target="_blank">reuters.com</a> (2025-11-28 18:45:31)</span><span style="padding-right:50px;">Spain's 12-month EU-harmonised inflation falls to 3.1% in November reut.rs/48Fsdpm <a href="https://bsky.app/profile/reuters.com/post/3m6olya4t2k2y" target="_blank">reuters.com</a> (2025-11-28 18:45:12)</span><span style="padding-right:50px;">大手銀行 12月に適用する住宅ローンの固定金利引き上げ https://news.web.nhk/newsweb/na/na-k10014989201000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6olxyx5ky2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-28 18:45:02)</span><span style="padding-right:50px;">South Africans in Ukraine: 'Scared and desperate' after allegedly being duped by Zuma's daughter to fight for Russia <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6oltx7xil2p" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-11-28 18:42:48)</span>
   </div>
 </div>
 
@@ -30,97 +30,92 @@
 
 ---
 
-## [2025-11-28 18:30 updated](2025_11_28.md)
+## [2025-11-28 18:50 updated](2025_11_28.md)
 
 @wsj.com
 
-Lloyd’s of London is no longer a bastion of white, male privilege. Or so the white men running it say. A reputational crisis is putting the iconic British institution under pressure to prove it has changed.
+Few people make partner at Goldman. Two brothers doing it within two years of each other is even more unusual.
 
-[2025-11-28 18:27:26](https://bsky.app/profile/wsj.com/post/3m6okyhpgci2p)
-
----
-
-@nhknewsunofficial.bsky.social
-
-野菜 卵 コメ… 物価の高止まり続く食料品 消費と生産の現場は
-https://news.web.nhk/newsweb/na/na-k10014988931000
-
-[2025-11-28 18:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6okxsarfv23)
-
----
-
-@apnews.com
-
-Receding waters begin revealing devastating damage from floods in Thailand that have killed at least 145 people and affected millions.
-
-[2025-11-28 18:25:35](https://bsky.app/profile/apnews.com/post/3m6okv5noe52h)
+[2025-11-28 18:46:29](https://bsky.app/profile/wsj.com/post/3m6om2jmxmu22)
 
 ---
 
 @reuters.com
 
-India's Jayaswal Neco pivots to cheaper funding replacing high cost bonds, sources say reut.rs/4ipdS3N
+LIVE: ICC rules on former Philippine President Rodrigo Duterte’s release youtube.com/live/IKHl4ka...
 
-[2025-11-28 18:25:09](https://bsky.app/profile/reuters.com/post/3m6okuewheh2o)
+[2025-11-28 18:45:31](https://bsky.app/profile/reuters.com/post/3m6olysjq522i)
 
 ---
 
-@sokuho.news
+@reuters.com
 
-🛎️JNNより【速報】です。
+Spain's 12-month EU-harmonised inflation falls to 3.1% in November reut.rs/48Fsdpm
 
-【速報】車両と自転車の事故…自転車に乗っていた人が重傷のもよう 山口・周南
-(2025-11-28 18:12:00) #ニュース
+[2025-11-28 18:45:12](https://bsky.app/profile/reuters.com/post/3m6olya4t2k2y)
 
-[2025-11-28 18:20:47](https://bsky.app/profile/sokuho.news/post/3m6okmldxxm27)
+---
+
+@nhknewsunofficial.bsky.social
+
+大手銀行 12月に適用する住宅ローンの固定金利引き上げ
+https://news.web.nhk/newsweb/na/na-k10014989201000
+
+[2025-11-28 18:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6olxyx5ky2p)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+South Africans in Ukraine: 'Scared and desperate' after allegedly being duped by Zuma's daughter to fight for Russia
+
+[2025-11-28 18:42:48](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6oltx7xil2p)
+
+---
+
+@reuters.com
+
+Spain October retail sales rise 3.8% y/y reut.rs/483Ay64
+
+[2025-11-28 18:40:16](https://bsky.app/profile/reuters.com/post/3m6olpg6tcw2r)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+高市首相 税制改正“国民の視点で議論を” 自民税調会長に指示
+https://news.web.nhk/newsweb/na/na-k10014989111000
+
+[2025-11-28 18:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6olhwabof2u)
+
+---
+
+@reuters.com
+
+French economic growth confirmed at 0.5% in third quarter - INSEE reut.rs/3XmiWw4
+
+[2025-11-28 18:35:10](https://bsky.app/profile/reuters.com/post/3m6olgbwyvh2o)
 
 ---
 
 @nikkei.com
 
-香港火災、窓付近に燃えやすい発泡スチロール
+JAL人財本部長が求める人材「優しい人ではなく素直に学ぶ人を」
 www.nikkei.com/article/DGXZQO...
 
-香港当局は各階の窓付近に燃えやすい発泡スチロールの板が設置され、防火基準を満たさない防護ネットを使っていたことが被害の拡大を招いたとみています。
+「新卒採用の現場における責任者も入社5年目の社員」。新人に任せる仕事が格段に増えているといいます。
 
-竹製の足場から火が出たとされていますが、出火原因は特定されていません。
+学んでほしい「JALフィロソフィ」とは何かを聞きました。
 
-#ニュース
-
-[2025-11-28 18:17:00](https://bsky.app/profile/nikkei.com/post/3m6okfsanlz2t)
+[2025-11-28 18:30:59](https://bsky.app/profile/nikkei.com/post/3m6ol6sugux2l)
 
 ---
 
 @reuters.com
 
-Sabadell's David Martinez steps down from board after failed BBVA bid reut.rs/4rr26tB
+Forvia to divest assets of its car interiors business, among others reut.rs/4pvpa8Q
 
-[2025-11-28 18:15:11](https://bsky.app/profile/reuters.com/post/3m6okckxiog2n)
-
----
-
-@apnews.com
-
-Pope Leo XIV opened his first full day in Turkey on Friday by meeting with its tiny Catholic community, greeted by cheers and applause as he embarked on a day meant to bolster Christians around the world.
-
-[2025-11-28 18:15:08](https://bsky.app/profile/apnews.com/post/3m6okchx5lo2i)
-
----
-
-@cnbc.com
-
-What’s going on at Nexperia? Dutch chipmaker issues urgent plea to its China unit
-
-[2025-11-28 18:12:46](https://bsky.app/profile/cnbc.com/post/3m6ok6ag4mj2e)
-
----
-
-@nhknewsunofficial.bsky.social
-
-小泉防衛相 韓国のイ駐日大使と会談 今後も当局間の交流を確認
-https://news.web.nhk/newsweb/na/na-k10014989071000
-
-[2025-11-28 18:12:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ok4yzkph2b)
+[2025-11-28 18:30:19](https://bsky.app/profile/reuters.com/post/3m6ol5moq362k)
 
 ---
 
