@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Baikonur launch pad damaged after Russian Soyuz launch to International Space Station reut.rs/4iow2CB <a href="https://bsky.app/profile/reuters.com/post/3m6nmosiwc622" target="_blank">reuters.com</a> (2025-11-28 09:25:09)</span><span style="padding-right:50px;">One of the two National Guard members shot Wednesday near the White House complex, Spec. Sarah Beckstrom, has died, President Donald Trump said.   The second critically wounded National Guard member, Staff Sgt. Andrew Wolfe, 24, is still fighting for his life.  <a href="https://bsky.app/profile/washingtonpost.com/post/3m6nmey7ewf2q" target="_blank">washingtonpost.com</a> (2025-11-28 09:19:40)</span><span style="padding-right:50px;">"The leftovers are in my fridge right now. *chef’s kiss*"  Calling all mushroom lovers: Add this Slow Cooker Mushroom and Wild Rice Soup to your to-cook list. nyti.ms/4pumKXY <a href="https://bsky.app/profile/nytimes.com/post/3m6nmc6m53k2y" target="_blank">nytimes.com</a> (2025-11-28 09:18:06)</span><span style="padding-right:50px;">Breaking News: Army Specialist Sarah Beckstrom, one of the two National Guard members shot in Washington, has died, President Trump said. The other remained in critical condition. <a href="https://bsky.app/profile/nytimes.com/post/3m6nm6gpj3s2y" target="_blank">nytimes.com</a> (2025-11-28 09:16:00)</span><span style="padding-right:50px;">Losing streaks collide as Maryland, Michigan State meet in Detroit reut.rs/48rpzCr <a href="https://bsky.app/profile/reuters.com/post/3m6nm536h622a" target="_blank">reuters.com</a> (2025-11-28 09:15:14)</span>
+<span style="padding-right:50px;">Canadian minister Guilbeault resigns from cabinet over government's deal with Alberta reut.rs/4isiA0L <a href="https://bsky.app/profile/reuters.com/post/3m6nnsouks72o" target="_blank">reuters.com</a> (2025-11-28 09:45:14)</span><span style="padding-right:50px;">US-South Korea military drills aim to deter North Korea, KCNA says reut.rs/4p8FSv5 <a href="https://bsky.app/profile/reuters.com/post/3m6nnju3feb2n" target="_blank">reuters.com</a> (2025-11-28 09:40:17)</span><span style="padding-right:50px;">Army Specialist Sarah Beckstrom, one of the National Guard members shot in D.C., has died, Trump said. <a href="https://bsky.app/profile/wsj.com/post/3m6nngnwrjt2i" target="_blank">wsj.com</a> (2025-11-28 09:38:30)</span><span style="padding-right:50px;">Do we wait for the food to cool on the counter (and risk harmful bacteria proliferating)? Or do we rush it to the fridge, potentially warming everything inside? There’s a universal — and easy — answer to a common kitchen predicament. nyti.ms/4prwMJu <a href="https://bsky.app/profile/nytimes.com/post/3m6nndzbq362h" target="_blank">nytimes.com</a> (2025-11-28 09:37:01)</span><span style="padding-right:50px;">Switzerland's Odermatt triumphs in Copper Mountain Super-G reut.rs/3K2yDFM <a href="https://bsky.app/profile/reuters.com/post/3m6nnaqfmho2e" target="_blank">reuters.com</a> (2025-11-28 09:35:11)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50061.43 (🔻157.53 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3129.00 (🔻11.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.32 (🔺0.05 : 2025-11-28)</span>
+<span style="padding-right:50px;">NIKKEI: 50044.20 (🔻174.76 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3131.00 (🔻9.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.47 (🔺0.20 : 2025-11-28)</span>
   </div>
 </div>
 
@@ -30,91 +30,94 @@
 
 ---
 
-## [2025-11-28 09:30 updated](2025_11_28.md)
+## [2025-11-28 09:50 updated](2025_11_28.md)
 
 @reuters.com
 
-Baikonur launch pad damaged after Russian Soyuz launch to International Space Station reut.rs/4iow2CB
+Canadian minister Guilbeault resigns from cabinet over government's deal with Alberta reut.rs/4isiA0L
 
-[2025-11-28 09:25:09](https://bsky.app/profile/reuters.com/post/3m6nmosiwc622)
+[2025-11-28 09:45:14](https://bsky.app/profile/reuters.com/post/3m6nnsouks72o)
 
 ---
 
-@washingtonpost.com
+@reuters.com
 
-One of the two National Guard members shot Wednesday near the White House complex, Spec. Sarah Beckstrom, has died, President Donald Trump said. 
+US-South Korea military drills aim to deter North Korea, KCNA says reut.rs/4p8FSv5
 
-The second critically wounded National Guard member, Staff Sgt. Andrew Wolfe, 24, is still fighting for his life.
+[2025-11-28 09:40:17](https://bsky.app/profile/reuters.com/post/3m6nnju3feb2n)
 
+---
 
-[2025-11-28 09:19:40](https://bsky.app/profile/washingtonpost.com/post/3m6nmey7ewf2q)
+@wsj.com
+
+Army Specialist Sarah Beckstrom, one of the National Guard members shot in D.C., has died, Trump said.
+
+[2025-11-28 09:38:30](https://bsky.app/profile/wsj.com/post/3m6nngnwrjt2i)
 
 ---
 
 @nytimes.com
 
-"The leftovers are in my fridge right now. *chef’s kiss*"
+Do we wait for the food to cool on the counter (and risk harmful bacteria proliferating)? Or do we rush it to the fridge, potentially warming everything inside? There’s a universal — and easy — answer to a common kitchen predicament. nyti.ms/4prwMJu
 
-Calling all mushroom lovers: Add this Slow Cooker Mushroom and Wild Rice Soup to your to-cook list. nyti.ms/4pumKXY
-
-[2025-11-28 09:18:06](https://bsky.app/profile/nytimes.com/post/3m6nmc6m53k2y)
-
----
-
-@nytimes.com
-
-Breaking News: Army Specialist Sarah Beckstrom, one of the two National Guard members shot in Washington, has died, President Trump said. The other remained in critical condition.
-
-[2025-11-28 09:16:00](https://bsky.app/profile/nytimes.com/post/3m6nm6gpj3s2y)
+[2025-11-28 09:37:01](https://bsky.app/profile/nytimes.com/post/3m6nndzbq362h)
 
 ---
 
 @reuters.com
 
-Losing streaks collide as Maryland, Michigan State meet in Detroit reut.rs/48rpzCr
+Switzerland's Odermatt triumphs in Copper Mountain Super-G reut.rs/3K2yDFM
 
-[2025-11-28 09:15:14](https://bsky.app/profile/reuters.com/post/3m6nm536h622a)
-
----
-
-@cnbc.com
-
-Asia-Pacific stocks set for softer open as Tokyo inflation runs hotter than expected
-
-[2025-11-28 09:12:26](https://bsky.app/profile/cnbc.com/post/3m6nly2njxs2i)
+[2025-11-28 09:35:11](https://bsky.app/profile/reuters.com/post/3m6nnaqfmho2e)
 
 ---
 
-@apnews.com
+@nikkei.com
 
-<strong><span style="color: red;">BREAKING:</span> President Donald Trump says West Virginia National Guard member Sarah Beckstrom has died from wounds in the Washington, D.C., attack.</strong>
+香港の高層住宅火災、死者75人に
+www.nikkei.com/article/DGXZQO...
 
-[2025-11-28 09:11:29](https://bsky.app/profile/apnews.com/post/3m6nlweewiv2w)
-
----
-
-@financialtimes.com
-
-The European Space Agency will develop a programme designed to serve military as well as civil requirements for the first time, as it clinched a record budget increase on.ft.com/3K1DgQp
-
-[2025-11-28 09:11:10](https://bsky.app/profile/financialtimes.com/post/3m6nlvsbeko26)
+[2025-11-28 09:31:01](https://bsky.app/profile/nikkei.com/post/3m6nmzbz3yg2e)
 
 ---
 
-@reuters.com
+@cnn.com
 
-Roma tame Midtjylland, Malen double earns Villa win over Young Boys reut.rs/3KtgbpM
+Israeli authorities are reviewing an incident in Jenin in the occupied West Bank, in which soldiers shot two people following a “surrender procedure,” according to a joint statement by a military spokesperson and Israel Police.
 
-[2025-11-28 09:10:11](https://bsky.app/profile/reuters.com/post/3m6nltzg6ko26)
+[2025-11-28 09:31:01](https://bsky.app/profile/cnn.com/post/3m6nmzbwpx22j)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@nikkei.com
 
-10月の鉱工業生産指数 前月を1.4％上回る 上昇は2か月連続
-https://news.web.nhk/newsweb/na/na-k10014988571000
+香港の高層住宅火災、「煙突効果」で延焼か　日本は厳しい防火対策
+www.nikkei.com/article/DGXZQO...
 
-[2025-11-28 09:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6nlmoxupy2r)
+火災現場は狭い空間で熱気が上昇する「煙突効果」の影響があった可能性があります。
+
+日本では11階以上へのスプリンクラーの設置など、対策が義務づけられています。
+
+[2025-11-28 09:31:00](https://bsky.app/profile/nikkei.com/post/3m6nmzacrpg2e)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】軽トラックが脱輪 車内にいた男性が死亡している模様【岡山・新見市哲多町】
+(2025-11-28 08:59:00) #ニュース
+
+[2025-11-28 09:30:55](https://bsky.app/profile/sokuho.news/post/3m6nmz3vx5g2h)
+
+---
+
+@usatoday.com
+
+Famed director Quentin Tarantino had some choice words about "The Hunger Games" and how it "ripped off" "Battle Royale."
+
+[2025-11-28 09:30:36](https://bsky.app/profile/usatoday.com/post/3m6nmyjyfvc2u)
 
 ---
 
