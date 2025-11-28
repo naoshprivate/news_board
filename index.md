@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】立花孝志被告の起訴を受け竹内元県議の妻が会見「誹謗中傷が激しさ増している」「いつまで繰り返され続けるのか」 (2025-11-28 17:45) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6oipgrqpu2y" target="_blank">sokuho.news</a> (2025-11-28 17:46:35)</span><span style="padding-right:50px;">Earthquake with 5.1 magnitude strikes central Iran; no casualties reported reut.rs/4p03yBH <a href="https://bsky.app/profile/reuters.com/post/3m6oimxejcf2o" target="_blank">reuters.com</a> (2025-11-28 17:45:12)</span><span style="padding-right:50px;">What’s next for Japan and China as tensions over Taiwan threaten to derail what was seen as a warming of ties?   Join us for a Live Q&A on Dec 1 at 10 a.m. HKT / Nov 30 at 9 p.m. EST: bloom.bg/4pAb3z2 <a href="https://bsky.app/profile/bloomberg.com/post/3m6oimtsd6g2m" target="_blank">bloomberg.com</a> (2025-11-28 17:45:09)</span><span style="padding-right:50px;">【各地の紅葉 動画】群馬 桐生 宝徳寺 幻想的な“床もみじ” https://news.web.nhk/newsweb/na/na-k10014984351000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6oimq4pbm2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-28 17:45:02)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】国道188号で自転車の高齢男性が車にはねられる 山口 (2025-11-28 17:42:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6oilvdnkv2e" target="_blank">sokuho.news</a> (2025-11-28 17:44:37)</span>
+<span style="padding-right:50px;">Trading on CME halted after exchange hit by data centre outage on.ft.com/43VvbU9 <a href="https://bsky.app/profile/financialtimes.com/post/3m6ojtblbdf2n" target="_blank">financialtimes.com</a> (2025-11-28 18:06:38)</span><span style="padding-right:50px;">Hong Kong residents scramble to deliver aid, support after deadly fire reut.rs/4pfLtj9 <a href="https://bsky.app/profile/reuters.com/post/3m6ojqqauev2n" target="_blank">reuters.com</a> (2025-11-28 18:05:13)</span><span style="padding-right:50px;">🔔原子力規制委員会より【Nアラート】です。  【緊急情報】(第2報) 愛媛県伊予灘沖で発生した地震の影響 (2025/11/28 18:00) 🔗https://kinkyu.nra.go.jp/m/sp/kinkyu/2025/11/post-114.html <a href="https://bsky.app/profile/sokuho.news/post/3m6ojnsvpq72e" target="_blank">sokuho.news</a> (2025-11-28 18:03:34)</span><span style="padding-right:50px;">🛎️ANNより【速報】です。  【速報】最新コメ平均価格 4312円 5キロあたり 2週間ぶり値上がり (2025-11-28 18:00:27) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6ojncksin2m" target="_blank">sokuho.news</a> (2025-11-28 18:03:18)</span><span style="padding-right:50px;">福岡市、ビッグバンさらに　天神再開発で120棟建て替え www.nikkei.com/article/DGXZQO...  九州の玄関口、JR博多駅前でも2026年夏に新たなビルが開業する予定です。  福岡市の人口は25年11月時点で167万人を超え、10年間で約10万人増えました。 <a href="https://bsky.app/profile/nikkei.com/post/3m6ojj5otb522" target="_blank">nikkei.com</a> (2025-11-28 18:00:58)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50253.91 (🔺34.95 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.33 (🔺0.06 : 2025-11-28)</span>
+<span style="padding-right:50px;">NIKKEI: 50253.91 (🔺34.95 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.29 (🔺0.02 : 2025-11-28)</span>
   </div>
 </div>
 
@@ -30,94 +30,101 @@
 
 ---
 
-## [2025-11-28 17:50 updated](2025_11_28.md)
+## [2025-11-28 18:10 updated](2025_11_28.md)
 
-@sokuho.news
+@financialtimes.com
 
-🛎️NNNより【速報】です。
+Trading on CME halted after exchange hit by data centre outage on.ft.com/43VvbU9
 
-【速報】立花孝志被告の起訴を受け竹内元県議の妻が会見「誹謗中傷が激しさ増している」「いつまで繰り返され続けるのか」
-(2025-11-28 17:45) #ニュース
-
-[2025-11-28 17:46:35](https://bsky.app/profile/sokuho.news/post/3m6oipgrqpu2y)
+[2025-11-28 18:06:38](https://bsky.app/profile/financialtimes.com/post/3m6ojtblbdf2n)
 
 ---
 
 @reuters.com
 
-Earthquake with 5.1 magnitude strikes central Iran; no casualties reported reut.rs/4p03yBH
+Hong Kong residents scramble to deliver aid, support after deadly fire reut.rs/4pfLtj9
 
-[2025-11-28 17:45:12](https://bsky.app/profile/reuters.com/post/3m6oimxejcf2o)
-
----
-
-@bloomberg.com
-
-What’s next for Japan and China as tensions over Taiwan threaten to derail what was seen as a warming of ties? 
-
-Join us for a Live Q&A on Dec 1 at 10 a.m. HKT / Nov 30 at 9 p.m. EST: bloom.bg/4pAb3z2
-
-[2025-11-28 17:45:09](https://bsky.app/profile/bloomberg.com/post/3m6oimtsd6g2m)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【各地の紅葉 動画】群馬 桐生 宝徳寺 幻想的な“床もみじ”
-https://news.web.nhk/newsweb/na/na-k10014984351000
-
-[2025-11-28 17:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6oimq4pbm2j)
+[2025-11-28 18:05:13](https://bsky.app/profile/reuters.com/post/3m6ojqqauev2n)
 
 ---
 
 @sokuho.news
 
-🛎️JNNより【速報】です。
+🔔原子力規制委員会より【Nアラート】です。
 
-【速報】国道188号で自転車の高齢男性が車にはねられる 山口
-(2025-11-28 17:42:00) #ニュース
+【緊急情報】(第2報) 愛媛県伊予灘沖で発生した地震の影響
+(2025/11/28 18:00)
+🔗https://kinkyu.nra.go.jp/m/sp/kinkyu/2025/11/post-114.html
 
-[2025-11-28 17:44:37](https://bsky.app/profile/sokuho.news/post/3m6oilvdnkv2e)
+[2025-11-28 18:03:34](https://bsky.app/profile/sokuho.news/post/3m6ojnsvpq72e)
+
+---
+
+@sokuho.news
+
+🛎️ANNより【速報】です。
+
+【速報】最新コメ平均価格 4312円 5キロあたり 2週間ぶり値上がり
+(2025-11-28 18:00:27) #ニュース
+
+[2025-11-28 18:03:18](https://bsky.app/profile/sokuho.news/post/3m6ojncksin2m)
+
+---
+
+@nikkei.com
+
+福岡市、ビッグバンさらに　天神再開発で120棟建て替え
+www.nikkei.com/article/DGXZQO...
+
+九州の玄関口、JR博多駅前でも2026年夏に新たなビルが開業する予定です。
+
+福岡市の人口は25年11月時点で167万人を超え、10年間で約10万人増えました。
+
+[2025-11-28 18:00:58](https://bsky.app/profile/nikkei.com/post/3m6ojj5otb522)
 
 ---
 
 @reuters.com
 
-Five killed during Israeli raid in southern Syria, Syrian state media reports reut.rs/4p5tJa5
+Japan finalises $117 billion extra budget to fund stimulus, mostly via debt reut.rs/4aj4MmZ
 
-[2025-11-28 17:40:10](https://bsky.app/profile/reuters.com/post/3m6oidwxk5n2o)
-
----
-
-@reuters.com
-
-The exact cause of the inferno has not been determined. What is clear, however, is that the fire spread rapidly through the exterior scaffolding system, said Jiang Liming, a fire-safety expert at Hong Kong Polytechnic University. Read more: reut.rs/4pyWaNt 4/4
-
-[2025-11-28 17:38:47](https://bsky.app/profile/reuters.com/post/3m6oid7e2xs2j)
+[2025-11-28 18:00:36](https://bsky.app/profile/reuters.com/post/3m6ojiih6fq2e)
 
 ---
 
-@reuters.com
+@aljazeera.com
 
-The department subsequently reviewed safety certification for the mesh, which was used as a net for falling debris, and told residents the material's 'flame-retardant performance' met standards 3/4
+Sudan Doctors Network says military use of hospital is 'a blatant violation of sanctity of medical institutions'.
 
-[2025-11-28 17:38:47](https://bsky.app/profile/reuters.com/post/3m6oicdckbc2j)
-
----
-
-@reuters.com
-
-People living at Wang Fuk Court in northern Hong Kong had raised concerns over maintenance activity in September 2024, including about the potential flammability of the protective green mesh contractors had used to cover the bamboo scaffolding 2/4
-
-[2025-11-28 17:38:47](https://bsky.app/profile/reuters.com/post/3m6oibocq7s2j)
+[2025-11-28 18:00:22](https://bsky.app/profile/aljazeera.com/post/3m6oji2zjvc2h)
 
 ---
 
-@reuters.com
+@cnbc.com
 
-Residents of the housing complex that was engulfed in Hong Kong's deadliest blaze in seven decades were told by authorities they faced 'relatively low fire risks' after complaining repeatedly about fire hazards posed by ongoing renovation works reut.rs/3XVbJTQ 1/4
+Food and diet have a bigger influence on your brain and memory than you might think. Harvard nutritionist and neuroscience expert Dr. Uma Naidoo shares the worst foods that weaken your brain health.
 
-[2025-11-28 17:38:47](https://bsky.app/profile/reuters.com/post/3m6oibhhkkc2j)
+[2025-11-28 18:00:19](https://bsky.app/profile/cnbc.com/post/3m6ojhy5atu2j)
+
+---
+
+@financialtimes.com
+
+Opinion: It has become a rite of passage for every new generation of young adults to be labelled lazy and irresponsible by its elders, but Gen Z has probably had it worse than most. on.ft.com/4pVhFsf
+
+[2025-11-28 18:00:09](https://bsky.app/profile/financialtimes.com/post/3m6ojhobuhn2v)
+
+---
+
+@en.afp.com
+
+UPDATE  More than 70 species of sharks and rays given increased protection by the world's top wildlife trade body.
+
+The Convention on International Trade in Endangered Species of Wild Fauna and Flora backed increased trade restrictions on species from whale sharks to manta rays
+
+u.afp.com/SheB
+
+[2025-11-28 17:58:19](https://bsky.app/profile/en.afp.com/post/3m6ojefbwkm2k)
 
 ---
 
