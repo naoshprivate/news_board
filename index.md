@@ -1,9 +1,9 @@
-# [2025-11-28 21:50 updated](2025_11_28.md)
+# [2025-11-28 22:10 updated](2025_11_28.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">VIDEO: 🇭🇰 Fire alarms in Hong Kong blaze buildings were 'malfunctioning': fire service  The fire alarms in residential estate buildings ravaged by the financial hub's deadliest blaze in decades were malfunctioning, the city's fire service chief said on Friday, as the death toll rose to 128 <a href="https://bsky.app/profile/en.afp.com/post/3m6ow6wqjso2e" target="_blank">en.afp.com</a> (2025-11-28 21:47:54)</span><span style="padding-right:50px;">Foreign firms challenge liquor policy of India's Maharashtra in court reut.rs/4rrwYtZ <a href="https://bsky.app/profile/reuters.com/post/3m6ow25nnro2k" target="_blank">reuters.com</a> (2025-11-28 21:45:14)</span><span style="padding-right:50px;">🔊 'If Boeing fumbles again, then you can assume that maybe these other missions are just gonna be crewed or uncrewed without humans on board.' Reuters World News on NASA's concerns about Boeing's Starliner program reut.rs/3XmPRk4 <a href="https://bsky.app/profile/reuters.com/post/3m6ovtw3fqs2i" target="_blank">reuters.com</a> (2025-11-28 21:41:45)</span><span style="padding-right:50px;">German start-ups seek to fill the British army’s ‘drone gap’ on.ft.com/4p2y5i9 <a href="https://bsky.app/profile/financialtimes.com/post/3m6ovrgjdu526" target="_blank">financialtimes.com</a> (2025-11-28 21:40:21)</span><span style="padding-right:50px;">Hospital massacre caps a long series of attacks on healthcare in war-torn Sudan reut.rs/49EkUzg <a href="https://bsky.app/profile/reuters.com/post/3m6ovr7jixz2k" target="_blank">reuters.com</a> (2025-11-28 21:40:14)</span>
+<span style="padding-right:50px;">LIVE: Firefighters contain Hong Kong Tai Po blaze youtube.com/live/rEcf0zY... <a href="https://bsky.app/profile/reuters.com/post/3m6oxf4hlrc2m" target="_blank">reuters.com</a> (2025-11-28 22:09:15)</span><span style="padding-right:50px;">大規模生産者の農地面積 初めて全体の半分超に 農水省 https://news.web.nhk/newsweb/na/na-k10014989331000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6oxesnceu2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-28 22:09:03)</span><span style="padding-right:50px;">Italian court rules against Sicily bridge, government wants to press on reut.rs/48ockm4 <a href="https://bsky.app/profile/reuters.com/post/3m6ox62s4lh22" target="_blank">reuters.com</a> (2025-11-28 22:05:19)</span><span style="padding-right:50px;">The ability to say "no" is an important skill for career growth. It protects your time, energy and focus. A CEO and productivity expert shares the model she uses when deciding whether to refuse a request at work, along with six example phrases to politely get your message across. <a href="https://bsky.app/profile/cnbc.com/post/3m6owx23cnl2s" target="_blank">cnbc.com</a> (2025-11-28 22:01:23)</span><span style="padding-right:50px;">中国の経済的威圧、ノルウェーは関係回復に6年　オーストラリアは対抗 www.nikkei.com/article/DGXZQO...  中国はノルウェー産サーモンの輸入を規制しました。こうした経済的威圧は年々増加傾向にあります。  そんな中、2020年から毅然とした対応を貫いたのがオーストラリア。交渉力を支えたのは鉄鉱石などの資源でした。  専門家によると、中国が関係を大きく見直すタイミングにはある傾向がつかめるといいます。 <a href="https://bsky.app/profile/nikkei.com/post/3m6owwqp2qj2l" target="_blank">nikkei.com</a> (2025-11-28 22:01:13)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50253.91 (🔺34.95 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.10 (🔻0.17 : 2025-11-28)</span>
+<span style="padding-right:50px;">NIKKEI: 50253.91 (🔺34.95 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.11 (🔻0.16 : 2025-11-28)</span>
   </div>
 </div>
 
@@ -32,94 +32,102 @@
 
 ## News Headlines
 
-1.  **香港マンション火災、死者128人に増加 - 警報装置の不具合が判明**
-2.  **米CME先物・オプション取引が技術的問題で一時停止、金価格が乱高下**
-3.  **NASA、ボーイング「スターライナー」計画に懸念 - 再び失敗なら無人化も**
-4.  **ウクライナ汚職対策機関、ゼレンスキー大統領最側近の自宅を捜索**
-5.  **インドネシア・スマトラ島で洪水と地滑り、死者174人に**
-6.  **WHO、顧みられない不妊治療を国家医療サービスに含めるべきと提言**
+はい、以下にニュースから重要なものを6つ選んで作成したヘッドラインを日本語で示します。
+
+1.  **香港高層マンション火災、死者128人に増加 - 防火設備の不備も**
+2.  **ウクライナ、ゼレンスキー大統領側近の自宅を汚職捜査**
+3.  **ノルウェー、中国の経済的威圧からの回復に6年 - オーストラリアは対抗**
+4.  **米CME先物・オプション取引が技術的問題で一時停止**
+5.  **タイ大洪水、主要都市が壊滅的な被害 - 多数が行方不明**
+6.  **高市首相、「戦略技術」分野への税制優遇を検討**
 
 ----
 
-@en.afp.com
+@reuters.com
 
-VIDEO: 🇭🇰 Fire alarms in Hong Kong blaze buildings were 'malfunctioning': fire service
+LIVE: Firefighters contain Hong Kong Tai Po blaze youtube.com/live/rEcf0zY...
 
-The fire alarms in residential estate buildings ravaged by the financial hub's deadliest blaze in decades were malfunctioning, the city's fire service chief said on Friday, as the death toll rose to 128
+[2025-11-28 22:09:15](https://bsky.app/profile/reuters.com/post/3m6oxf4hlrc2m)
 
-[2025-11-28 21:47:54](https://bsky.app/profile/en.afp.com/post/3m6ow6wqjso2e)
+---
+
+@nhknewsunofficial.bsky.social
+
+大規模生産者の農地面積 初めて全体の半分超に 農水省
+https://news.web.nhk/newsweb/na/na-k10014989331000
+
+[2025-11-28 22:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6oxesnceu2b)
 
 ---
 
 @reuters.com
 
-Foreign firms challenge liquor policy of India's Maharashtra in court reut.rs/4rrwYtZ
+Italian court rules against Sicily bridge, government wants to press on reut.rs/48ockm4
 
-[2025-11-28 21:45:14](https://bsky.app/profile/reuters.com/post/3m6ow25nnro2k)
+[2025-11-28 22:05:19](https://bsky.app/profile/reuters.com/post/3m6ox62s4lh22)
+
+---
+
+@cnbc.com
+
+The ability to say "no" is an important skill for career growth. It protects your time, energy and focus. A CEO and productivity expert shares the model she uses when deciding whether to refuse a request at work, along with six example phrases to politely get your message across.
+
+[2025-11-28 22:01:23](https://bsky.app/profile/cnbc.com/post/3m6owx23cnl2s)
+
+---
+
+@nikkei.com
+
+中国の経済的威圧、ノルウェーは関係回復に6年　オーストラリアは対抗
+www.nikkei.com/article/DGXZQO...
+
+中国はノルウェー産サーモンの輸入を規制しました。こうした経済的威圧は年々増加傾向にあります。
+
+そんな中、2020年から毅然とした対応を貫いたのがオーストラリア。交渉力を支えたのは鉄鉱石などの資源でした。
+
+専門家によると、中国が関係を大きく見直すタイミングにはある傾向がつかめるといいます。
+
+[2025-11-28 22:01:13](https://bsky.app/profile/nikkei.com/post/3m6owwqp2qj2l)
 
 ---
 
 @reuters.com
 
-🔊 'If Boeing fumbles again, then you can assume that maybe these other missions are just gonna be crewed or uncrewed without humans on board.' Reuters World News on NASA's concerns about Boeing's Starliner program reut.rs/3XmPRk4
+Putting Pompeii's pieces together, with the help of a robot reut.rs/4pBkXAn
 
-[2025-11-28 21:41:45](https://bsky.app/profile/reuters.com/post/3m6ovtw3fqs2i)
-
----
-
-@financialtimes.com
-
-German start-ups seek to fill the British army’s ‘drone gap’ on.ft.com/4p2y5i9
-
-[2025-11-28 21:40:21](https://bsky.app/profile/financialtimes.com/post/3m6ovrgjdu526)
+[2025-11-28 22:01:10](https://bsky.app/profile/reuters.com/post/3m6owwnyg772k)
 
 ---
 
-@reuters.com
+@cnn.com
 
-Hospital massacre caps a long series of attacks on healthcare in war-torn Sudan reut.rs/49EkUzg
+Officials and candidates across the country are lamenting rising power bills, water usage and the potential climate impact of the AI boom. But they’re hard-pressed to turn down job-creating investments that could go to their neighbors instead. https://cnn.it/4omQRjd
 
-[2025-11-28 21:40:14](https://bsky.app/profile/reuters.com/post/3m6ovr7jixz2k)
-
----
-
-@bloomberg-jp.bsky.social
-
-米CMEで先物･オプション取引停止、データセンターの技術的問題で
-
-[2025-11-28 21:36:46](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6ovkzf4in2v)
+[2025-11-28 22:01:03](https://bsky.app/profile/cnn.com/post/3m6owwgypcl2y)
 
 ---
 
-@bloomberg-jp.bsky.social
+@nbcnews.com
 
-米CME先物・オプション取引停止で金価格が乱高下－スプレッド拡大
+NBC Select has been tracking the deals for weeks, and these are some of the lowest prices ever.
 
-[2025-11-28 21:36:41](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6ovkv4x6q25)
-
----
-
-@bloomberg-jp.bsky.social
-
-ウクライナ汚職対策機関、ゼレンスキー大統領最側近の自宅を捜索
-
-[2025-11-28 21:36:37](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6ovkqhiye2c)
+[2025-11-28 22:00:45](https://bsky.app/profile/nbcnews.com/post/3m6owvvl5pg2p)
 
 ---
 
-@bloomberg-jp.bsky.social
+@usatoday.com
 
-香港マンション火災の死者128人に－改修工事関係者の逮捕続く
+Following the National Guard shooting on Nov. 26, the Trump administration began ordering widespread reviews of immigration policies.
 
-[2025-11-28 21:36:31](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6ovklbz3m2c)
+[2025-11-28 22:00:33](https://bsky.app/profile/usatoday.com/post/3m6owvkefvz2d)
 
 ---
 
-@bloomberg-jp.bsky.social
+@aljazeera.com
 
-フランス、11月のインフレ率は横ばいの0.8%－予想下回る
+Authorities say 79 people remain missing and thousands of families have been displaced from their homes across Sumatra.
 
-[2025-11-28 21:36:25](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6ovkfdkve26)
+[2025-11-28 22:00:31](https://bsky.app/profile/aljazeera.com/post/3m6owvio2xo2a)
 
 ---
 
