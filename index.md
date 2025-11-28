@@ -1,9 +1,9 @@
-# [2025-11-29 05:30 updated](2025_11_29.md)
+# [2025-11-29 05:50 updated](2025_11_29.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Northern Irish prosecutors drop charges in case that sparked anti-immigrant riots reut.rs/4iruOGN <a href="https://bsky.app/profile/reuters.com/post/3m6ppqn6r5a2i" target="_blank">reuters.com</a> (2025-11-29 05:25:12)</span><span style="padding-right:50px;">China-Japan tensions hit tourism hard: At least a dozen air routes between the two countries have been canceled as Beijing advises citizens to avoid travel to Japan following Japanese Prime Minister Sanae Takaichi’s Taiwan remarks  reut.rs/3KkUcRO <a href="https://bsky.app/profile/reuters.com/post/3m6pponhfhk23" target="_blank">reuters.com</a> (2025-11-29 05:24:05)</span><span style="padding-right:50px;">補正予算案 総額18兆円余の規模や効果 今後の国会で議論へ https://news.web.nhk/newsweb/na/na-k10014989381000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ppom6grq2r" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-29 05:24:01)</span><span style="padding-right:50px;">Leftovers are quite possibly the best part of Thanksgiving. Here are some ideas for what to do with them, including this ridiculously easy enchilada pie. nyti.ms/3Kq0tvF <a href="https://bsky.app/profile/nytimes.com/post/3m6ppmvaw3j2x" target="_blank">nytimes.com</a> (2025-11-29 05:23:06)</span><span style="padding-right:50px;">国会議員関係団体など375万円の寄付不記載 総務省提出分 https://news.web.nhk/newsweb/na/na-k10014988711000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ppjbofn32j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-29 05:21:02)</span>
+<span style="padding-right:50px;">UK court dismisses challenge to issuing of oil and gas exploration licences reut.rs/4omSGfU <a href="https://bsky.app/profile/reuters.com/post/3m6pqujdapv2a" target="_blank">reuters.com</a> (2025-11-29 05:45:16)</span><span style="padding-right:50px;">🛎️産経より【独自】です。  ＜独自＞東北大、外国人留学生の学費を1・7倍に引き上げへ 日本の学生と「差別化」 (2025/11/29 05:00) #ニュース https://www.sankei.com/article/20251129-IN75FIAU5RP5FLHYCZP7KT4JFU/ <a href="https://bsky.app/profile/sokuho.news/post/3m6pqscycsj26" target="_blank">sokuho.news</a> (2025-11-29 05:44:02)</span><span style="padding-right:50px;">Wingtech challenges Nexperia decisions at Netherlands' Supreme Court reut.rs/3Mu90yb <a href="https://bsky.app/profile/reuters.com/post/3m6pqlpi67j2i" target="_blank">reuters.com</a> (2025-11-29 05:40:20)</span><span style="padding-right:50px;">President Trump said he was revoking all executive orders former President Joe Biden signed with an autopen, escalating his battle with his predecessor over the use of the signature proxy device.  on.wsj.com/3McIppg <a href="https://bsky.app/profile/wsj.com/post/3m6pqfmhbv62j" target="_blank">wsj.com</a> (2025-11-29 05:36:55)</span><span style="padding-right:50px;">US futures, options resume after CME outage underscores resilience concerns reut.rs/44iApJR <a href="https://bsky.app/profile/reuters.com/post/3m6pqciizwi26" target="_blank">reuters.com</a> (2025-11-29 05:35:11)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50253.91 (🔺34.95 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻1.99 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.10 (🔻0.17 : 2025-11-28)</span>
+<span style="padding-right:50px;">NIKKEI: 50253.91 (🔺34.95 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻1.99 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.09 (🔻0.18 : 2025-11-28)</span>
   </div>
 </div>
 
@@ -32,94 +32,99 @@
 
 ## News Headlines
 
-1. 北アイルランド、反移民暴動の原因となった事件で訴追を取り下げ
-2. 中国、対日旅行自粛を勧告 - 日中間の航空便に影響
-3. 補正予算案、総額18兆円超 - 国会で議論へ
-4. エアバスA320型機、ソフトウェア変更で運航に混乱か
-5. トランプ氏、「第三世界」からの移民に「恒久的停止」を示唆
-6. ゼレンスキー大統領、側近のイエルマク大統領府長官を解任
+1.  英国裁判所、石油・ガス探査ライセンス発行への異議を退ける
+2.  東北大、外国人留学生の学費を1.7倍に引き上げへ
+3.  ウィンテック、ネクスペリアの決定をオランダ最高裁で争う
+4.  トランプ前大統領、バイデン大統領の行政命令を全て撤回すると発言
+5.  香港高層住宅火災、安全管理・工事不正の疑いで捜査
+6.  トランプ大統領、ベネズエラのマドゥロ大統領と会談か
 
 ----
 
 @reuters.com
 
-Northern Irish prosecutors drop charges in case that sparked anti-immigrant riots reut.rs/4iruOGN
+UK court dismisses challenge to issuing of oil and gas exploration licences reut.rs/4omSGfU
 
-[2025-11-29 05:25:12](https://bsky.app/profile/reuters.com/post/3m6ppqn6r5a2i)
+[2025-11-29 05:45:16](https://bsky.app/profile/reuters.com/post/3m6pqujdapv2a)
+
+---
+
+@sokuho.news
+
+🛎️産経より【独自】です。
+
+＜独自＞東北大、外国人留学生の学費を1・7倍に引き上げへ 日本の学生と「差別化」
+(2025/11/29 05:00) #ニュース
+https://www.sankei.com/article/20251129-IN75FIAU5RP5FLHYCZP7KT4JFU/
+
+[2025-11-29 05:44:02](https://bsky.app/profile/sokuho.news/post/3m6pqscycsj26)
 
 ---
 
 @reuters.com
 
-China-Japan tensions hit tourism hard: At least a dozen air routes between the two countries have been canceled as Beijing advises citizens to avoid travel to Japan following Japanese Prime Minister Sanae Takaichi’s Taiwan remarks  reut.rs/3KkUcRO
+Wingtech challenges Nexperia decisions at Netherlands' Supreme Court reut.rs/3Mu90yb
 
-[2025-11-29 05:24:05](https://bsky.app/profile/reuters.com/post/3m6pponhfhk23)
-
----
-
-@nhknewsunofficial.bsky.social
-
-補正予算案 総額18兆円余の規模や効果 今後の国会で議論へ
-https://news.web.nhk/newsweb/na/na-k10014989381000
-
-[2025-11-29 05:24:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ppom6grq2r)
+[2025-11-29 05:40:20](https://bsky.app/profile/reuters.com/post/3m6pqlpi67j2i)
 
 ---
 
-@nytimes.com
+@wsj.com
 
-Leftovers are quite possibly the best part of Thanksgiving. Here are some ideas for what to do with them, including this ridiculously easy enchilada pie. nyti.ms/3Kq0tvF
+President Trump said he was revoking all executive orders former President Joe Biden signed with an autopen, escalating his battle with his predecessor over the use of the signature proxy device.
 
-[2025-11-29 05:23:06](https://bsky.app/profile/nytimes.com/post/3m6ppmvaw3j2x)
+on.wsj.com/3McIppg
 
----
-
-@nhknewsunofficial.bsky.social
-
-国会議員関係団体など375万円の寄付不記載 総務省提出分
-https://news.web.nhk/newsweb/na/na-k10014988711000
-
-[2025-11-29 05:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ppjbofn32j)
+[2025-11-29 05:36:55](https://bsky.app/profile/wsj.com/post/3m6pqfmhbv62j)
 
 ---
 
 @reuters.com
 
-The British Civil Aviation Authority also said it expects some disruptions to airlines and flights operating in the country due to the Airbus software change reut.rs/4rlps3P
+US futures, options resume after CME outage underscores resilience concerns reut.rs/44iApJR
 
-[2025-11-29 05:20:48](https://bsky.app/profile/reuters.com/post/3m6ppisu2hc2h)
-
----
-
-@reuters.com
-
-American Airlines said it expects some operational delays due to the major software change on Airbus A320 jets, adding that the issue impacts about 340 aircraft at the carrier reut.rs/3XoEZlU
-
-[2025-11-29 05:20:48](https://bsky.app/profile/reuters.com/post/3m6ppishmyk2h)
-
----
-
-@reuters.com
-
-Europe's Airbus said it was ordering an immediate software change on a 'significant number' of its best-selling A320 family of jets — a move that industry sources said would bring disruption to thousands of jets reut.rs/4ir5NLG
-
-[2025-11-29 05:20:48](https://bsky.app/profile/reuters.com/post/3m6ppirm63k2h)
+[2025-11-29 05:35:11](https://bsky.app/profile/reuters.com/post/3m6pqciizwi26)
 
 ---
 
 @npr.org
 
-Since 1981, Chicago Women in Trades has worked to promote equity by getting more women into the construction trades. Now the nonprofit faces a different challenge: Trump's efforts to erase DEI.
+The child advocacy nonprofit Fairplay issued an advisory warning people against buying AI toys this holiday season. It's not the only group.
 
-[2025-11-29 05:18:56](https://bsky.app/profile/npr.org/post/3m6ppfhbljh2i)
+[2025-11-29 05:34:30](https://bsky.app/profile/npr.org/post/3m6pqbbcsd72r)
 
 ---
 
-@financialtimes.com
+@nhknewsunofficial.bsky.social
 
-How London’s housing market stagnated on.ft.com/49LXxUr
+香港 高層住宅火災 安全管理や工事の不正がなかったか捜査
+https://news.web.nhk/newsweb/na/na-k10014989511000
 
-[2025-11-29 05:17:01](https://bsky.app/profile/financialtimes.com/post/3m6ppbypish2v)
+[2025-11-29 05:33:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6pq6qt3dd2j)
+
+---
+
+@nytimes.com
+
+<strong><span style="color: red;">Breaking News</span>: President Trump is said to have held a call with Nicolás Maduro of Venezuela last week amid U.S. threats of military action. It included a discussion about a possible meeting between the two men, people with knowledge of the matter said.</strong>
+
+[2025-11-29 05:30:47](https://bsky.app/profile/nytimes.com/post/3m6pq2mhcpt2y)
+
+---
+
+@aljazeera.com
+
+New Democratic Party ousts longtime Prime Minister Ralph Gonsalves, who has served in office since 2001.
+
+[2025-11-29 05:30:37](https://bsky.app/profile/aljazeera.com/post/3m6pq2dg3aj2z)
+
+---
+
+@usatoday.com
+
+Michael Douglas is looking back on his classic film "One Flew Over the Cuckoo's Nest" and the awkward situation it created with his father.
+
+[2025-11-29 05:30:31](https://bsky.app/profile/usatoday.com/post/3m6pq25yy562m)
 
 ---
 
