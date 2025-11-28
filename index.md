@@ -1,9 +1,9 @@
-# [2025-11-29 04:50 updated](2025_11_29.md)
+# [2025-11-29 05:10 updated](2025_11_29.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">愛媛 拳銃暴発事故 事故前に警察に相談も鑑定行わず https://news.web.nhk/newsweb/na/na-k10014989291000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6pnob2zt62b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-29 04:48:02)</span><span style="padding-right:50px;">Exclusive: US defense firm Anduril faces setbacks from drone crashes, including in a recent Air Force test, reported here for the first time reut.rs/3XFSBtb <a href="https://bsky.app/profile/reuters.com/post/3m6pnlee72c2q" target="_blank">reuters.com</a> (2025-11-29 04:46:27)</span><span style="padding-right:50px;">NatWest in exclusive talks to sell Cushon to Willis Towers Watson, sources said reut.rs/3KoIt4J <a href="https://bsky.app/profile/reuters.com/post/3m6pnj6kp4x2k" target="_blank">reuters.com</a> (2025-11-29 04:45:14)</span><span style="padding-right:50px;">ゼレンスキー大統領 最側近イエルマク大統領府長官の解任発表 https://news.web.nhk/newsweb/na/na-k10014989491000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6pndk5dsf2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-29 04:42:03)</span><span style="padding-right:50px;">German parliament passes debt-heavy 2026 budget reut.rs/3Xl3yQH <a href="https://bsky.app/profile/reuters.com/post/3m6pnauynlp2w" target="_blank">reuters.com</a> (2025-11-29 04:40:35)</span>
+<span style="padding-right:50px;">Transport in Italy disrupted by strikes against PM Meloni reut.rs/488lOD5 <a href="https://bsky.app/profile/reuters.com/post/3m6pomsqzgu2o" target="_blank">reuters.com</a> (2025-11-29 05:05:09)</span><span style="padding-right:50px;">Blasts hit sanctioned tankers off Turkey's coast, rescues underway reut.rs/3XWiTqY <a href="https://bsky.app/profile/reuters.com/post/3m6pofsjse72i" target="_blank">reuters.com</a> (2025-11-29 05:01:14)</span><span style="padding-right:50px;">Naim Qassem labels the killing of Haytham Tabtabai as a 'heinous crime' saying Hezbollah has the right to respond. <a href="https://bsky.app/profile/aljazeera.com/post/3m6pof3pmhj2a" target="_blank">aljazeera.com</a> (2025-11-29 05:00:51)</span><span style="padding-right:50px;">DreamWorks unveiled two new casting updates for the upcoming "Shrek 5" movie, with Marcello Hernandez and Skyler Gisondo cast as Shrek's son. <a href="https://bsky.app/profile/usatoday.com/post/3m6poehbglb2x" target="_blank">usatoday.com</a> (2025-11-29 05:00:29)</span><span style="padding-right:50px;">Valuable eels are in decline all over the world, leading to a new push for restrictions on trade to try to help stave off extinction. <a href="https://bsky.app/profile/apnews.com/post/3m6poee7oyp2h" target="_blank">apnews.com</a> (2025-11-29 05:00:26)</span>
   </div>
 </div>
 
@@ -32,94 +32,97 @@
 
 ## News Headlines
 
-1. 愛媛で拳銃暴発事故、警察への相談も鑑定されず
-2. ゼレンスキー大統領、最側近のイエルマク大統領府長官を解任
-3. ゴルフ界のレジェンド、ファジー・ゼラー氏が死去
-4. ロシア、WhatsAppを全面禁止の可能性
-5. トランプ政権下で470件以上の報復対象を記録
-6. タイで自動車ショー開幕、中国メーカーとの競争激化
+1.  イタリアで交通機関ストライキ、メローニ首相への抗議
+2.  トルコ沿岸で制裁対象タンカーが爆発、救助活動
+3.  「シュレック5」に新キャスト、マルチェロ・エルナンデスとスカイラー・ギソンド
+4.  トランプ前大統領、ベネズエラ麻薬密売人への攻撃を示唆
+5.  ゼレンスキー大統領、側近を解任
+6.  トランプ政権、報復対象470件以上を記録
 
 ----
 
-@nhknewsunofficial.bsky.social
+@reuters.com
 
-愛媛 拳銃暴発事故 事故前に警察に相談も鑑定行わず
-https://news.web.nhk/newsweb/na/na-k10014989291000
+Transport in Italy disrupted by strikes against PM Meloni reut.rs/488lOD5
 
-[2025-11-29 04:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6pnob2zt62b)
+[2025-11-29 05:05:09](https://bsky.app/profile/reuters.com/post/3m6pomsqzgu2o)
 
 ---
 
 @reuters.com
 
-Exclusive: US defense firm Anduril faces setbacks from drone crashes, including in a recent Air Force test, reported here for the first time reut.rs/3XFSBtb
+Blasts hit sanctioned tankers off Turkey's coast, rescues underway reut.rs/3XWiTqY
 
-[2025-11-29 04:46:27](https://bsky.app/profile/reuters.com/post/3m6pnlee72c2q)
-
----
-
-@reuters.com
-
-NatWest in exclusive talks to sell Cushon to Willis Towers Watson, sources said reut.rs/3KoIt4J
-
-[2025-11-29 04:45:14](https://bsky.app/profile/reuters.com/post/3m6pnj6kp4x2k)
+[2025-11-29 05:01:14](https://bsky.app/profile/reuters.com/post/3m6pofsjse72i)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@aljazeera.com
 
-ゼレンスキー大統領 最側近イエルマク大統領府長官の解任発表
-https://news.web.nhk/newsweb/na/na-k10014989491000
+Naim Qassem labels the killing of Haytham Tabtabai as a 'heinous crime' saying Hezbollah has the right to respond.
 
-[2025-11-29 04:42:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6pndk5dsf2b)
-
----
-
-@reuters.com
-
-German parliament passes debt-heavy 2026 budget reut.rs/3Xl3yQH
-
-[2025-11-29 04:40:35](https://bsky.app/profile/reuters.com/post/3m6pnauynlp2w)
-
----
-
-@npr.org
-
-Two-time golf champion Fuzzy Zoeller has died at the age of 74. One of golf's most gregarious characters Zoeller's career was tainted by a racially insensitive joke he made about Tiger Woods. n.pr/4p428Ge
-
-[2025-11-29 04:39:05](https://bsky.app/profile/npr.org/post/3m6pn66mzjn2h)
-
----
-
-@reuters.com
-
-To track how the Trump administration wielded government power against perceived opponents, Reuters grouped its findings into three categories: punitive acts, threats and coercion reut.rs/49B2UWt
-
-[2025-11-29 04:38:40](https://bsky.app/profile/reuters.com/post/3m6pn5jclhc2e)
-
----
-
-@reuters.com
-
-Reuters documented at least 470 targets of retribution under Trump’s leadership. They range from federal employees and prosecutors to universities and media outlets reut.rs/49B2UWt
-
-[2025-11-29 04:38:40](https://bsky.app/profile/reuters.com/post/3m6pn5h5apc2e)
+[2025-11-29 05:00:51](https://bsky.app/profile/aljazeera.com/post/3m6pof3pmhj2a)
 
 ---
 
 @usatoday.com
 
-Apple TV is reportedly postponing the premiere of "The Hunt," a thriller previously set to hit the streamer in days, following plagiarism claims.
+DreamWorks unveiled two new casting updates for the upcoming "Shrek 5" movie, with Marcello Hernandez and Skyler Gisondo cast as Shrek's son.
 
-[2025-11-29 04:37:09](https://bsky.app/profile/usatoday.com/post/3m6pn2psgoo26)
+[2025-11-29 05:00:29](https://bsky.app/profile/usatoday.com/post/3m6poehbglb2x)
 
 ---
 
-@reuters.com
+@apnews.com
 
-Premier Inn owner Whitbread warns on impact of UK property tax reut.rs/4ahKwSD
+Valuable eels are in decline all over the world, leading to a new push for restrictions on trade to try to help stave off extinction.
 
-[2025-11-29 04:35:11](https://bsky.app/profile/reuters.com/post/3m6pmx7dzg62w)
+[2025-11-29 05:00:26](https://bsky.app/profile/apnews.com/post/3m6poee7oyp2h)
+
+---
+
+@bloomberg.com
+
+So far, only 27 players have received a perfect score on the latest edition of Pointed.
+
+Do you think you can join the 190-point club? Prove it and play now: 
+
+[2025-11-29 05:00:21](https://bsky.app/profile/bloomberg.com/post/3m6poe75yxs2s)
+
+---
+
+@washingtonpost.com
+
+Animals have been kissing for over 17 million years, a new study suggests.
+
+Kissing has long perplexed evolutionary biologists, given it has no obvious benefit to reproducing or finding food, while carrying the risk of disease transmission. 
+
+[2025-11-29 05:00:17](https://bsky.app/profile/washingtonpost.com/post/3m6poe3jfz52e)
+
+---
+
+@nbcnews.com
+
+President Trump suggested that the U.S. could “very soon” begin targeting alleged Venezuelan drug traffickers on land, expanding operations that have so far focused on the Caribbean Sea.
+
+[2025-11-29 05:00:11](https://bsky.app/profile/nbcnews.com/post/3m6podw3zwi2i)
+
+---
+
+@financialtimes.com
+
+The move is the latest step by authorities to regulate alcohol as Crown Prince Mohammed bin Salman pushes to open up the country to attract more tourists and highly skilled foreign workers. on.ft.com/4of0tMR
+
+[2025-11-29 05:00:05](https://bsky.app/profile/financialtimes.com/post/3m6podpvbxb2j)
+
+---
+
+@cbsnews.com
+
+LIVE UPDATES: U.S. intelligence analysts are combing the suspect's communications and online footprint for signs of international coordination or ideological radicalization, multiple U.S. officials said.
+
+
+[2025-11-29 05:00:00](https://bsky.app/profile/cbsnews.com/post/3m6podm2amb2z)
 
 ---
 
