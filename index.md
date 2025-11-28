@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】新潟空港などで停電発生 管制塔や旅客ターミナルなどに影響 運航に乱れも《新潟》 (2025-11-28 11:06) #ニュース  🕯停電情報 🔗https://www.fepc.or.jp/sp/bousai/link.html <a href="https://bsky.app/profile/sokuho.news/post/3m6nsfzuhli2g" target="_blank">sokuho.news</a> (2025-11-28 11:07:38)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】新潟空港で停電発生 管制塔や旅客ターミナルなどに影響 運航に乱れも《新潟》 (2025-11-28 11:06) #ニュース  🕯停電情報 🔗https://www.fepc.or.jp/sp/bousai/link.html <a href="https://bsky.app/profile/sokuho.news/post/3m6nsdy7wdf2m" target="_blank">sokuho.news</a> (2025-11-28 11:06:29)</span><span style="padding-right:50px;">東京消費者物価は伸び横ばい、市場予想上回る－日銀利上げ観測後押し <a href="https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6nscujkyc23" target="_blank">bloomberg-jp.bsky.social</a> (2025-11-28 11:05:51)</span><span style="padding-right:50px;">荒れるAI相場で電力株が堅調、原発再稼働に期待も－PBRは依然1倍割れ <a href="https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6nscqacc32n" target="_blank">bloomberg-jp.bsky.social</a> (2025-11-28 11:05:47)</span><span style="padding-right:50px;">香港高層住宅火災の死者94人､消火ほぼ完了-改修工事の安全基準に疑義 <a href="https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6nscm4sje2v" target="_blank">bloomberg-jp.bsky.social</a> (2025-11-28 11:05:43)</span>
+<span style="padding-right:50px;">India’s fear gauge is set for its biggest weekly decline since May as stocks climb to within a whisker of a record close. Read for free with your email on what could move markets today <a href="https://bsky.app/profile/bloomberg.com/post/3m6ntivzgis2m" target="_blank">bloomberg.com</a> (2025-11-28 11:27:08)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】同性婚認めない規定は「合憲」 東京高裁が判断 (2025年11月28日 11:26) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6ntikap6c2q" target="_blank">sokuho.news</a> (2025-11-28 11:26:56)</span><span style="padding-right:50px;">EU should reject automakers' biofuel plea, says campaign group reut.rs/3M2TKs2 <a href="https://bsky.app/profile/reuters.com/post/3m6nt4pxjt52i" target="_blank">reuters.com</a> (2025-11-28 11:20:19)</span><span style="padding-right:50px;">France on Thursday announced the creation of a paid, voluntary military service for young adults, becoming the latest European country to beef up its armed forces in the face of perceived threats from Russia since its full-scale invasion of Ukraine. <a href="https://bsky.app/profile/nytimes.com/post/3m6nt47ycu32d" target="_blank">nytimes.com</a> (2025-11-28 11:20:02)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】同性婚認めないのは「合憲」同性カップルらの訴え退ける判決 東京高裁 (2025-11-28 11:16) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6nsx4isyi2m" target="_blank">sokuho.news</a> (2025-11-28 11:17:11)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50054.11 (🔻164.85 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.36 (🔺0.09 : 2025-11-28)</span>
+<span style="padding-right:50px;">NIKKEI: 50111.51 (🔻107.45 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3132.00 (🔻8.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.28 (🔺0.01 : 2025-11-28)</span>
   </div>
 </div>
 
@@ -30,97 +30,95 @@
 
 ---
 
-## [2025-11-28 11:10 updated](2025_11_28.md)
+## [2025-11-28 11:30 updated](2025_11_28.md)
 
-@sokuho.news
+@bloomberg.com
 
-🛎️NNNより【速報】です。
+India’s fear gauge is set for its biggest weekly decline since May as stocks climb to within a whisker of a record close. Read for free with your email on what could move markets today
 
-【速報】新潟空港などで停電発生 管制塔や旅客ターミナルなどに影響 運航に乱れも《新潟》
-(2025-11-28 11:06) #ニュース
-
-🕯停電情報
-🔗https://www.fepc.or.jp/sp/bousai/link.html
-
-[2025-11-28 11:07:38](https://bsky.app/profile/sokuho.news/post/3m6nsfzuhli2g)
+[2025-11-28 11:27:08](https://bsky.app/profile/bloomberg.com/post/3m6ntivzgis2m)
 
 ---
 
 @sokuho.news
 
-🛎️NNNより【速報】です。
+🔔ANNより【速報】です。
 
-【速報】新潟空港で停電発生 管制塔や旅客ターミナルなどに影響 運航に乱れも《新潟》
-(2025-11-28 11:06) #ニュース
+【速報】同性婚認めない規定は「合憲」 東京高裁が判断
+(2025年11月28日 11:26) #ニュース
 
-🕯停電情報
-🔗https://www.fepc.or.jp/sp/bousai/link.html
-
-[2025-11-28 11:06:29](https://bsky.app/profile/sokuho.news/post/3m6nsdy7wdf2m)
-
----
-
-@bloomberg-jp.bsky.social
-
-東京消費者物価は伸び横ばい、市場予想上回る－日銀利上げ観測後押し
-
-[2025-11-28 11:05:51](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6nscujkyc23)
-
----
-
-@bloomberg-jp.bsky.social
-
-荒れるAI相場で電力株が堅調、原発再稼働に期待も－PBRは依然1倍割れ
-
-[2025-11-28 11:05:47](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6nscqacc32n)
-
----
-
-@bloomberg-jp.bsky.social
-
-香港高層住宅火災の死者94人､消火ほぼ完了-改修工事の安全基準に疑義
-
-[2025-11-28 11:05:43](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6nscm4sje2v)
-
----
-
-@bloomberg-jp.bsky.social
-
-ドイツ取引所、オールファンズ買収で独占交渉入り－総額9600億円
-
-[2025-11-28 11:05:38](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6nschq7im2v)
-
----
-
-@bloomberg-jp.bsky.social
-
-中国、ヒト型ロボット分野のバブル警戒－当局が異例の懸念表明
-
-[2025-11-28 11:05:33](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6nsccsqk52c)
+[2025-11-28 11:26:56](https://bsky.app/profile/sokuho.news/post/3m6ntikap6c2q)
 
 ---
 
 @reuters.com
 
-Hong Kong fire authorities said they expected to wrap up search and rescue operations after the city's worst fire in nearly 80 years tore through a massive apartment complex on November 28, killing at least 94 people and leaving dozens still missing. Follow our live coverage: reut.rs/3Xm4ww0
+EU should reject automakers' biofuel plea, says campaign group reut.rs/3M2TKs2
 
-[2025-11-28 11:05:31](https://bsky.app/profile/reuters.com/post/3m6nscau5m22q)
-
----
-
-@bloomberg-jp.bsky.social
-
-カナダ首相、包括的エネルギー計画を発表－アルバータ州首相と覚書
-
-[2025-11-28 11:05:28](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6nsc6n7qd2n)
+[2025-11-28 11:20:19](https://bsky.app/profile/reuters.com/post/3m6nt4pxjt52i)
 
 ---
 
-@bloomberg-jp.bsky.social
+@nytimes.com
 
-米首都銃撃事件で重体の女性州兵死亡、トランプ氏発表－テロ捜査続く
+France on Thursday announced the creation of a paid, voluntary military service for young adults, becoming the latest European country to beef up its armed forces in the face of perceived threats from Russia since its full-scale invasion of Ukraine.
 
-[2025-11-28 11:05:24](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6nsc25zyv25)
+[2025-11-28 11:20:02](https://bsky.app/profile/nytimes.com/post/3m6nt47ycu32d)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】同性婚認めないのは「合憲」同性カップルらの訴え退ける判決 東京高裁
+(2025-11-28 11:16) #ニュース
+
+[2025-11-28 11:17:11](https://bsky.app/profile/sokuho.news/post/3m6nsx4isyi2m)
+
+---
+
+@cnn.com
+
+President Donald Trump suggested that the United States is preparing to take new action against alleged drug trafficking networks in Venezuela, telling service members during a Thanksgiving call that efforts for strikes on land will be starting "very soon." https://cnn.it/487SPPL
+
+[2025-11-28 11:16:58](https://bsky.app/profile/cnn.com/post/3m6nswq5esm2s)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】同性婚認めぬ民法などの規定は「合憲」と東京高裁「結婚の自由をすべての人に」東京第2次訴訟 同様裁判では「違憲」判決も…判断分かれる
+(2025-11-28 11:14:27) #ニュース
+
+[2025-11-28 11:15:51](https://bsky.app/profile/sokuho.news/post/3m6nsuqjwhj24)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+大分 大規模火災 木原官房長官“復旧・復興へ支援策まとめた”
+https://news.web.nhk/newsweb/na/na-k10014988701000
+
+[2025-11-28 11:12:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6nsnxwve52k)
+
+---
+
+@reuters.com
+
+LG Chem plans to sell LG Energy Solution stake for shareholder returns reut.rs/485QCUR
+
+[2025-11-28 11:10:13](https://bsky.app/profile/reuters.com/post/3m6nsko55f42i)
+
+---
+
+@nytimes.com
+
+As Hong Kong grapples with the worst fire in the city for more than 60 years, hundreds of its residents have stepped up to try and help the displaced victims.
+
+[2025-11-28 11:10:04](https://bsky.app/profile/nytimes.com/post/3m6nskfj6kj22)
 
 ---
 
