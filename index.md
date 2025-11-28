@@ -1,9 +1,9 @@
-# [2025-11-28 22:30 updated](2025_11_28.md)
+# [2025-11-28 22:50 updated](2025_11_28.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">US stock futures frozen by CME outage reut.rs/4penwcc <a href="https://bsky.app/profile/reuters.com/post/3m6oyblbtey2i" target="_blank">reuters.com</a> (2025-11-28 22:25:10)</span><span style="padding-right:50px;">Israeli security forces shot dead two Palestinians in the West Bank on Thursday after they appeared to surrender, according to videos released by an international news agency and two Arab television networks. <a href="https://bsky.app/profile/nytimes.com/post/3m6oybey7zb2m" target="_blank">nytimes.com</a> (2025-11-28 22:25:04)</span><span style="padding-right:50px;">Stocks making the biggest moves premarket: CME Group, Tilray Brands, SanDisk & more <a href="https://bsky.app/profile/cnbc.com/post/3m6oyapglqo2a" target="_blank">cnbc.com</a> (2025-11-28 22:24:41)</span><span style="padding-right:50px;">U.S. tech stocks mostly gained in premarket action, while a CME Group outage halted trading in index futures and other key contracts. <a href="https://bsky.app/profile/wsj.com/post/3m6oy5csc7x24" target="_blank">wsj.com</a> (2025-11-28 22:22:47)</span><span style="padding-right:50px;">CME disruption, Black Friday, the K-beauty boom and more in Morning Squawk <a href="https://bsky.app/profile/cnbc.com/post/3m6oy4utkjw2j" target="_blank">cnbc.com</a> (2025-11-28 22:22:33)</span>
+<span style="padding-right:50px;">松本文科相 高校教育改革の「グランドデザイン」の骨子公表 https://news.web.nhk/newsweb/na/na-k10014989351000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ozkjtw3c24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-28 22:48:03)</span><span style="padding-right:50px;">Divided Fed sparks surge in rate options hedging as policy uncertainty lingers reut.rs/49FPg4r <a href="https://bsky.app/profile/reuters.com/post/3m6ozfhnxmi22" target="_blank">reuters.com</a> (2025-11-28 22:45:14)</span><span style="padding-right:50px;">バスケットボール 男子日本代表 W杯アジア1次予選 台湾に快勝 https://news.web.nhk/newsweb/na/na-k10014989461000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ozf6mmcg23" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-28 22:45:03)</span><span style="padding-right:50px;">Ukraine’s anticorruption agency searched the home of Andriy Yermak, a top aide to President Zelensky, prompting renewed demands from lawmakers to remove Yermak. <a href="https://bsky.app/profile/wsj.com/post/3m6oz6ktejx24" target="_blank">wsj.com</a> (2025-11-28 22:41:23)</span><span style="padding-right:50px;">German unemployment rises less than expected in November reut.rs/4pVY7nB <a href="https://bsky.app/profile/reuters.com/post/3m6oz4sa5mj2w" target="_blank">reuters.com</a> (2025-11-28 22:40:24)</span>
   </div>
 </div>
 
@@ -32,114 +32,101 @@
 
 ## News Headlines
 
-以下は、ニュース記事から抽出した6つの重要なヘッドラインです。
-
-1.  **CMEシステム障害で米株先物取引停止** (US stock futures frozen by CME outage)
-2.  **ウクライナ捜査当局、ゼレンスキー大統領側近の関係先を汚職疑惑で捜索** (Ukrainian anti-corruption units have raided the home of Andriy Yermak)
-3.  **台湾、AI需要急増で2025年GDP成長率予測が15年ぶりの高水準** (Taiwan 2025 GDP growth forecast hits 15-year high on surge in AI demand)
-4.  **タイの大洪水、壊滅的な被害** ('We’ve lost everything': How floods devastated one of Thailand's largest cities)
-5.  **香港火災、警報装置故障で被害拡大** (Fire alarms in Hong Kong blaze buildings were 'malfunctioning')
-6.  **巨人、オコエ瑠偉選手を自由契約に** (プロ野球 巨人 オコエ瑠偉選手を自由契約にすると発表)
+1. 松本文科相、高校教育改革「グランドデザイン」骨子を発表
+2. バスケットボール男子日本代表、W杯アジア1次予選で台湾に快勝
+3. 香港マンション火災、死者128人に 200人不明
+4. トランプ氏、移民政策で強硬姿勢 「第三世界」からの移民停止を主張
+5. ウクライナ捜査当局、ゼレンスキー大統領最側近の関係先を捜索
+6. 巨人、オコエ瑠偉選手を自由契約に
 
 ----
 
+@nhknewsunofficial.bsky.social
+
+松本文科相 高校教育改革の「グランドデザイン」の骨子公表
+https://news.web.nhk/newsweb/na/na-k10014989351000
+
+[2025-11-28 22:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ozkjtw3c24)
+
+---
+
 @reuters.com
 
-US stock futures frozen by CME outage reut.rs/4penwcc
+Divided Fed sparks surge in rate options hedging as policy uncertainty lingers reut.rs/49FPg4r
 
-[2025-11-28 22:25:10](https://bsky.app/profile/reuters.com/post/3m6oyblbtey2i)
-
----
-
-@nytimes.com
-
-Israeli security forces shot dead two Palestinians in the West Bank on Thursday after they appeared to surrender, according to videos released by an international news agency and two Arab television networks.
-
-[2025-11-28 22:25:04](https://bsky.app/profile/nytimes.com/post/3m6oybey7zb2m)
-
----
-
-@cnbc.com
-
-Stocks making the biggest moves premarket: CME Group, Tilray Brands, SanDisk & more
-
-[2025-11-28 22:24:41](https://bsky.app/profile/cnbc.com/post/3m6oyapglqo2a)
-
----
-
-@wsj.com
-
-U.S. tech stocks mostly gained in premarket action, while a CME Group outage halted trading in index futures and other key contracts.
-
-[2025-11-28 22:22:47](https://bsky.app/profile/wsj.com/post/3m6oy5csc7x24)
-
----
-
-@cnbc.com
-
-CME disruption, Black Friday, the K-beauty boom and more in Morning Squawk
-
-[2025-11-28 22:22:33](https://bsky.app/profile/cnbc.com/post/3m6oy4utkjw2j)
+[2025-11-28 22:45:14](https://bsky.app/profile/reuters.com/post/3m6ozfhnxmi22)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-自民新潟県連 柏崎刈羽原発再稼働めぐり赤澤経産相に要望
-https://news.web.nhk/newsweb/na/na-k10014989361000
+バスケットボール 男子日本代表 W杯アジア1次予選 台湾に快勝
+https://news.web.nhk/newsweb/na/na-k10014989461000
 
-[2025-11-28 22:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6oxuv5whf23)
-
----
-
-@sokuho.news
-
-🔔防災科研より【強震モニタ】動画です。
-
-震源:根室半島南東沖, 深さ:60km
-マグニチュード:3.5, 最大震度:1
-📍https://www.google.com/maps?q=43.3,146.6&ll=43.3,146.6&z=7&t=h
-地震発生日時:2025-11-28 22:14頃
-(10倍速▶120s→12s) #地震
-
-[2025-11-28 22:17:55](https://bsky.app/profile/sokuho.news/post/3m6oxumcnw22q)
+[2025-11-28 22:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ozf6mmcg23)
 
 ---
 
-@sokuho.news
+@wsj.com
 
-🔔気象庁より【地震速報】です。
+Ukraine’s anticorruption agency searched the home of Andriy Yermak, a top aide to President Zelensky, prompting renewed demands from lawmakers to remove Yermak.
 
-22時14分頃、北海道で最大震度1の地震を観測しました。
-震源:根室半島南東沖, 深さ:60km, 規模:M3.5
-この地震による津波の心配はありません。
-(2025-11-28 22:17:27) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/11/28/2025-11-28-22-14-31.html?xlarge_image=1
-
-[2025-11-28 22:17:29](https://bsky.app/profile/sokuho.news/post/3m6oxtsxwab2m)
-
----
-
-@nikkei.com
-
-ゼレンスキー氏最側近の関係先捜索　汚職疑惑でウクライナ捜査当局
-www.nikkei.com/article/DGXZQO...
-
-イェルマーク大統領府長官は、アメリカとの和平協議でウクライナの代表団を率いています。
-
-大統領府への権力集中を推し進め、当局の捜査を妨害したとの疑いも出ています。
-
-#ニュース
-
-[2025-11-28 22:16:59](https://bsky.app/profile/nikkei.com/post/3m6oxswms7e2g)
+[2025-11-28 22:41:23](https://bsky.app/profile/wsj.com/post/3m6oz6ktejx24)
 
 ---
 
 @reuters.com
 
-Russian court awards EuroChem $2.19 billion in lawsuit against Italy's Tecnimont reut.rs/43ZmRTk
+German unemployment rises less than expected in November reut.rs/4pVY7nB
 
-[2025-11-28 22:15:16](https://bsky.app/profile/reuters.com/post/3m6oxpu6lv426)
+[2025-11-28 22:40:24](https://bsky.app/profile/reuters.com/post/3m6oz4sa5mj2w)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】JR阪和線で人身事故 一部区間で運転見合わせ
+(2025-11-28 22:20) #ニュース
+
+🚃鉄道運行情報
+🔗https://transit.yahoo.co.jp/diainfo
+
+[2025-11-28 22:35:47](https://bsky.app/profile/sokuho.news/post/3m6oyuk7cls2l)
+
+---
+
+@reuters.com
+
+South Korea to cut planned income tax on dividend payouts, media say reut.rs/487fR9p
+
+[2025-11-28 22:35:09](https://bsky.app/profile/reuters.com/post/3m6oytgfrki2r)
+
+---
+
+@cnn.com
+
+<strong><span style="color: red;">JUST IN:</span> The number of people killed in the devastating Hong Kong apartment complex fire has risen to 128 with as many as 200 missing, officials said Friday, as authorities announced eight more arrests over the blaze. https://cnn.it/4io1eln</strong>
+
+[2025-11-28 22:33:54](https://bsky.app/profile/cnn.com/post/3m6oyr6jdmr23)
+
+---
+
+@forbes.com
+
+Billionaire Robert Kuok’s Allgreen Offers Top Bid Of $358 Million For Singapore Residential Site
+
+[2025-11-28 22:32:10](https://bsky.app/profile/forbes.com/post/3m6oyo2zw522g)
+
+---
+
+@forbes.com
+
+Mike Krieger, who cofounded Instagram before joining Anthropic last year, wants the AI giant’s Claude model to power workflows across entire companies. Already 60% of its business customers use more than one Claude product.
+www.forbes.com/sites/richar... (Photo: Getty Images)
+
+[2025-11-28 22:31:49](https://bsky.app/profile/forbes.com/post/3m6oynhk75k2g)
 
 ---
 
