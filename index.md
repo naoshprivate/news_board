@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Venezuela’s President Nicolas Maduro has posted video of himself driving through the streets of the country’s capital, in an apparent attempt to dismiss perceptions he’s living in fear of the US military build-up in the region and a $50 million US bounty for his arrest. <a href="https://bsky.app/profile/aljazeera.com/post/3m6ohprjqus2t" target="_blank">aljazeera.com</a> (2025-11-28 17:28:53)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】ユネスコ無形遺産登録目指す候補 岡山の備中神楽など全国40件含む「神楽」 国の文化審議会 (2025-11-28 17:15) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6ohk4tlor24" target="_blank">sokuho.news</a> (2025-11-28 17:25:44)</span><span style="padding-right:50px;">Cyclone Ditwah kills 46 in Sri Lanka, leaves 23 missing as rescue efforts continue reut.rs/43UN4Cs <a href="https://bsky.app/profile/reuters.com/post/3m6ohj5hdrm2k" target="_blank">reuters.com</a> (2025-11-28 17:25:11)</span><span style="padding-right:50px;">高市政権下で初の補正予算決定、国債頼み11兆円超追加－積極財政鮮明 <a href="https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6ohekvvuh2r" target="_blank">bloomberg-jp.bsky.social</a> (2025-11-28 17:22:37)</span><span style="padding-right:50px;">商船三井社長、累進配当の導入で株主定着を検討－次期中期計画 <a href="https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6oheh2tqb23" target="_blank">bloomberg-jp.bsky.social</a> (2025-11-28 17:22:33)</span>
+<span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】立花孝志被告の起訴を受け竹内元県議の妻が会見「誹謗中傷が激しさ増している」「いつまで繰り返され続けるのか」 (2025-11-28 17:45) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6oipgrqpu2y" target="_blank">sokuho.news</a> (2025-11-28 17:46:35)</span><span style="padding-right:50px;">Earthquake with 5.1 magnitude strikes central Iran; no casualties reported reut.rs/4p03yBH <a href="https://bsky.app/profile/reuters.com/post/3m6oimxejcf2o" target="_blank">reuters.com</a> (2025-11-28 17:45:12)</span><span style="padding-right:50px;">What’s next for Japan and China as tensions over Taiwan threaten to derail what was seen as a warming of ties?   Join us for a Live Q&A on Dec 1 at 10 a.m. HKT / Nov 30 at 9 p.m. EST: bloom.bg/4pAb3z2 <a href="https://bsky.app/profile/bloomberg.com/post/3m6oimtsd6g2m" target="_blank">bloomberg.com</a> (2025-11-28 17:45:09)</span><span style="padding-right:50px;">【各地の紅葉 動画】群馬 桐生 宝徳寺 幻想的な“床もみじ” https://news.web.nhk/newsweb/na/na-k10014984351000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6oimq4pbm2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-28 17:45:02)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】国道188号で自転車の高齢男性が車にはねられる 山口 (2025-11-28 17:42:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6oilvdnkv2e" target="_blank">sokuho.news</a> (2025-11-28 17:44:37)</span>
   </div>
 </div>
 
@@ -30,88 +30,94 @@
 
 ---
 
-## [2025-11-28 17:30 updated](2025_11_28.md)
-
-@aljazeera.com
-
-Venezuela’s President Nicolas Maduro has posted video of himself driving through the streets of the country’s capital, in an apparent attempt to dismiss perceptions he’s living in fear of the US military build-up in the region and a $50 million US bounty for his arrest.
-
-[2025-11-28 17:28:53](https://bsky.app/profile/aljazeera.com/post/3m6ohprjqus2t)
-
----
+## [2025-11-28 17:50 updated](2025_11_28.md)
 
 @sokuho.news
 
-🛎️FNNより【速報】です。
+🛎️NNNより【速報】です。
 
-【速報】ユネスコ無形遺産登録目指す候補 岡山の備中神楽など全国40件含む「神楽」 国の文化審議会
-(2025-11-28 17:15) #ニュース
+【速報】立花孝志被告の起訴を受け竹内元県議の妻が会見「誹謗中傷が激しさ増している」「いつまで繰り返され続けるのか」
+(2025-11-28 17:45) #ニュース
 
-[2025-11-28 17:25:44](https://bsky.app/profile/sokuho.news/post/3m6ohk4tlor24)
+[2025-11-28 17:46:35](https://bsky.app/profile/sokuho.news/post/3m6oipgrqpu2y)
 
 ---
 
 @reuters.com
 
-Cyclone Ditwah kills 46 in Sri Lanka, leaves 23 missing as rescue efforts continue reut.rs/43UN4Cs
+Earthquake with 5.1 magnitude strikes central Iran; no casualties reported reut.rs/4p03yBH
 
-[2025-11-28 17:25:11](https://bsky.app/profile/reuters.com/post/3m6ohj5hdrm2k)
-
----
-
-@bloomberg-jp.bsky.social
-
-高市政権下で初の補正予算決定、国債頼み11兆円超追加－積極財政鮮明
-
-[2025-11-28 17:22:37](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6ohekvvuh2r)
+[2025-11-28 17:45:12](https://bsky.app/profile/reuters.com/post/3m6oimxejcf2o)
 
 ---
 
-@bloomberg-jp.bsky.social
+@bloomberg.com
 
-商船三井社長、累進配当の導入で株主定着を検討－次期中期計画
+What’s next for Japan and China as tensions over Taiwan threaten to derail what was seen as a warming of ties? 
 
-[2025-11-28 17:22:33](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6oheh2tqb23)
+Join us for a Live Q&A on Dec 1 at 10 a.m. HKT / Nov 30 at 9 p.m. EST: bloom.bg/4pAb3z2
 
----
-
-@bloomberg-jp.bsky.social
-
-49ドルで人生の教訓、Z世代にヘッジファンド投資家が講座提供
-
-[2025-11-28 17:22:28](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6ohecjo4n26)
+[2025-11-28 17:45:09](https://bsky.app/profile/bloomberg.com/post/3m6oimtsd6g2m)
 
 ---
 
-@bloomberg-jp.bsky.social
+@nhknewsunofficial.bsky.social
 
-北朝鮮ハッカー集団、暗号資産取引所ハッキング関与の疑い－聯合
+【各地の紅葉 動画】群馬 桐生 宝徳寺 幻想的な“床もみじ”
+https://news.web.nhk/newsweb/na/na-k10014984351000
 
-[2025-11-28 17:22:24](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6ohe6ljxw2l)
-
----
-
-@bloomberg-jp.bsky.social
-
-ケリング、「グッチ」の新CFOに元ルノー幹部を起用－経営再建目指す
-
-[2025-11-28 17:22:19](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6ohdzunxr23)
+[2025-11-28 17:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6oimq4pbm2j)
 
 ---
 
-@bloomberg-jp.bsky.social
+@sokuho.news
 
-香港当局、高層マンション群火災の1週間前に施工業者に危険性警告
+🛎️JNNより【速報】です。
 
-[2025-11-28 17:22:14](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6ohdv4jqk2w)
+【速報】国道188号で自転車の高齢男性が車にはねられる 山口
+(2025-11-28 17:42:00) #ニュース
+
+[2025-11-28 17:44:37](https://bsky.app/profile/sokuho.news/post/3m6oilvdnkv2e)
 
 ---
 
-@bloomberg-jp.bsky.social
+@reuters.com
 
-タイとインドネシア、洪水や土砂崩れで153人死亡－経済にも影響
+Five killed during Israeli raid in southern Syria, Syrian state media reports reut.rs/4p5tJa5
 
-[2025-11-28 17:22:09](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6ohdqfvmv24)
+[2025-11-28 17:40:10](https://bsky.app/profile/reuters.com/post/3m6oidwxk5n2o)
+
+---
+
+@reuters.com
+
+The exact cause of the inferno has not been determined. What is clear, however, is that the fire spread rapidly through the exterior scaffolding system, said Jiang Liming, a fire-safety expert at Hong Kong Polytechnic University. Read more: reut.rs/4pyWaNt 4/4
+
+[2025-11-28 17:38:47](https://bsky.app/profile/reuters.com/post/3m6oid7e2xs2j)
+
+---
+
+@reuters.com
+
+The department subsequently reviewed safety certification for the mesh, which was used as a net for falling debris, and told residents the material's 'flame-retardant performance' met standards 3/4
+
+[2025-11-28 17:38:47](https://bsky.app/profile/reuters.com/post/3m6oicdckbc2j)
+
+---
+
+@reuters.com
+
+People living at Wang Fuk Court in northern Hong Kong had raised concerns over maintenance activity in September 2024, including about the potential flammability of the protective green mesh contractors had used to cover the bamboo scaffolding 2/4
+
+[2025-11-28 17:38:47](https://bsky.app/profile/reuters.com/post/3m6oibocq7s2j)
+
+---
+
+@reuters.com
+
+Residents of the housing complex that was engulfed in Hong Kong's deadliest blaze in seven decades were told by authorities they faced 'relatively low fire risks' after complaining repeatedly about fire hazards posed by ongoing renovation works reut.rs/3XVbJTQ 1/4
+
+[2025-11-28 17:38:47](https://bsky.app/profile/reuters.com/post/3m6oibhhkkc2j)
 
 ---
 
