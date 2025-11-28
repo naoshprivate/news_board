@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】泊原発3号機再稼働 北海道知事が容認の考え示す「当面とり得る現実的な選択」 (2025年11月28日 14:04) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6o4crg4nv27" target="_blank">sokuho.news</a> (2025-11-28 14:04:46)</span><span style="padding-right:50px;">UPDATE US President Donald Trump says he plans to suspend migration from what he calls "third world countries," a day after an Afghan national allegedly shot two National Guard soldiers in Washington.   On social media, he threatened to "remove anyone who is not a net asset to the United States" <a href="https://bsky.app/profile/en.afp.com/post/3m6o455e2pi2z" target="_blank">en.afp.com</a> (2025-11-28 14:01:37)</span><span style="padding-right:50px;">Emma Mazzenga is no ordinary 92-year-old.  The Italian is an elite sprinter who has broken multiple world records in track and field. https://cnn.it/3XnJdtX <a href="https://bsky.app/profile/cnn.com/post/3m6o444vifb2w" target="_blank">cnn.com</a> (2025-11-28 14:01:03)</span><span style="padding-right:50px;">No, you can’t get the flu from the flu vaccine.  The temporary side effects that you might feel after getting the vaccine are your immune system reacting to the inactive proteins from the surface of the virus. <a href="https://bsky.app/profile/washingtonpost.com/post/3m6o443h4fz23" target="_blank">washingtonpost.com</a> (2025-11-28 14:01:01)</span><span style="padding-right:50px;">タイ、シャム猫など「国家の象徴」に指定 www.nikkei.com/article/DGXZQO...  （2025年11月 読まれた記事）  #猫と人の日 <a href="https://bsky.app/profile/nikkei.com/post/3m6o43zw5bw2t" target="_blank">nikkei.com</a> (2025-11-28 14:01:00)</span>
+<span style="padding-right:50px;">President Trump said tonight he "will permanently pause migration from all Third World Countries to allow the U.S. system to fully recover." <a href="https://bsky.app/profile/axios.com/post/3m6o5n4upns2g" target="_blank">axios.com</a> (2025-11-28 14:28:27)</span><span style="padding-right:50px;"> The horror of the work blunder on.ft.com/4ojS0YQ  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m6o5n2tgco2r" target="_blank">financialtimes.com</a> (2025-11-28 14:28:25)</span><span style="padding-right:50px;"> Why I couldn’t help torching my equity funds on.ft.com/4oq4lea  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m6o5n2drtr25" target="_blank">financialtimes.com</a> (2025-11-28 14:28:24)</span><span style="padding-right:50px;">UK signals expansion of short-term debt market in ‘radical’ borrowing shift on.ft.com/48D0Wnr <a href="https://bsky.app/profile/financialtimes.com/post/3m6o5iyzy4o26" target="_blank">financialtimes.com</a> (2025-11-28 14:26:09)</span><span style="padding-right:50px;">South Korea joins growing number of countries imposing sanctions on Prince Group as probe into Cambodian scams widens <a href="https://bsky.app/profile/cnbc.com/post/3m6o5fkrkmu2e" target="_blank">cnbc.com</a> (2025-11-28 14:24:13)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50150.20 (🔻68.76 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3130.00 (🔻10.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.25 (🔻0.02 : 2025-11-28)</span>
+<span style="padding-right:50px;">NIKKEI: 50207.87 (🔻11.09 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3134.00 (🔻6.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.28 (🔺0.01 : 2025-11-28)</span>
   </div>
 </div>
 
@@ -30,102 +30,97 @@
 
 ---
 
-## [2025-11-28 14:10 updated](2025_11_28.md)
+## [2025-11-28 14:30 updated](2025_11_28.md)
 
-@sokuho.news
+@axios.com
 
-🔔ANNより【速報】です。
+President Trump said tonight he "will permanently pause migration from all Third World Countries to allow the U.S. system to fully recover."
 
-【速報】泊原発3号機再稼働 北海道知事が容認の考え示す「当面とり得る現実的な選択」
-(2025年11月28日 14:04) #ニュース
-
-[2025-11-28 14:04:46](https://bsky.app/profile/sokuho.news/post/3m6o4crg4nv27)
+[2025-11-28 14:28:27](https://bsky.app/profile/axios.com/post/3m6o5n4upns2g)
 
 ---
 
-@en.afp.com
+@financialtimes.com
 
-UPDATE US President Donald Trump says he plans to suspend migration from what he calls "third world countries," a day after an Afghan national allegedly shot two National Guard soldiers in Washington. 
+ The horror of the work blunder on.ft.com/4ojS0YQ  | opinion
 
-On social media, he threatened to "remove anyone who is not a net asset to the United States"
-
-[2025-11-28 14:01:37](https://bsky.app/profile/en.afp.com/post/3m6o455e2pi2z)
+[2025-11-28 14:28:25](https://bsky.app/profile/financialtimes.com/post/3m6o5n2tgco2r)
 
 ---
 
-@cnn.com
+@financialtimes.com
 
-Emma Mazzenga is no ordinary 92-year-old.
+ Why I couldn’t help torching my equity funds on.ft.com/4oq4lea  | opinion
 
-The Italian is an elite sprinter who has broken multiple world records in track and field. https://cnn.it/3XnJdtX
-
-[2025-11-28 14:01:03](https://bsky.app/profile/cnn.com/post/3m6o444vifb2w)
+[2025-11-28 14:28:24](https://bsky.app/profile/financialtimes.com/post/3m6o5n2drtr25)
 
 ---
 
-@washingtonpost.com
+@financialtimes.com
 
-No, you can’t get the flu from the flu vaccine.
+UK signals expansion of short-term debt market in ‘radical’ borrowing shift on.ft.com/48D0Wnr
 
-The temporary side effects that you might feel after getting the vaccine are your immune system reacting to the inactive proteins from the surface of the virus.
-
-[2025-11-28 14:01:01](https://bsky.app/profile/washingtonpost.com/post/3m6o443h4fz23)
-
----
-
-@nikkei.com
-
-タイ、シャム猫など「国家の象徴」に指定
-www.nikkei.com/article/DGXZQO...
-
-（2025年11月 読まれた記事）
-
-#猫と人の日
-
-[2025-11-28 14:01:00](https://bsky.app/profile/nikkei.com/post/3m6o43zw5bw2t)
-
----
-
-@nikkei.com
-
-泊原発の再稼働容認、北海道知事が表明　「現実的な選択」（無料記事）
-www.nikkei.com/article/DGXZQO...
-
-#ニュース
-
-[2025-11-28 14:00:36](https://bsky.app/profile/nikkei.com/post/3m6o43dkbax2g)
-
----
-
-@reuters.com
-
-Asian shares end tough November on firmer ground helped by Fed cut bets reut.rs/49Jbhzf
-
-[2025-11-28 14:00:35](https://bsky.app/profile/reuters.com/post/3m6o43cn4dv22)
+[2025-11-28 14:26:09](https://bsky.app/profile/financialtimes.com/post/3m6o5iyzy4o26)
 
 ---
 
 @cnbc.com
 
-Opposites may attract, but similarities are usually what determine if a relationship can stand the test of time, says Mark Travers, a psychologist who studies couples. Here's what the happiest couples share in common with their partner.
+South Korea joins growing number of countries imposing sanctions on Prince Group as probe into Cambodian scams widens
 
-[2025-11-28 14:00:29](https://bsky.app/profile/cnbc.com/post/3m6o434xq5i2x)
-
----
-
-@aljazeera.com
-
-Putin also branded fears that Moscow is planning to invade another European nation 'ridiculous' and 'complete nonsense'.
-
-[2025-11-28 14:00:21](https://bsky.app/profile/aljazeera.com/post/3m6o42v3reo2c)
+[2025-11-28 14:24:13](https://bsky.app/profile/cnbc.com/post/3m6o5fkrkmu2e)
 
 ---
 
-@nbcnews.com
+@cnbc.com
 
-Before she even raised her hand to take the oath of office, Arizona Democrat Adelita Grijalva was thrown into the national spotlight and has become an unexpected but unwavering voice for sexual assault survivors.
+Millennials are driving a sports tourism boom — and spending big to do it. Here's why
 
-[2025-11-28 14:00:17](https://bsky.app/profile/nbcnews.com/post/3m6o42rcvaf2f)
+[2025-11-28 14:22:06](https://bsky.app/profile/cnbc.com/post/3m6o5brnktn2a)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】インフル感染者数 前週の約1.36倍で14週連続増加 「警報」レベル 宮城県では1定点医療機関あたり89人超え
+(2025-11-28 14:20) #ニュース
+
+⬛感染症情報
+🔗https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/infulenza/index.html
+
+[2025-11-28 14:21:01](https://bsky.app/profile/sokuho.news/post/3m6o57tpzyy2x)
+
+---
+
+@reuters.com
+
+Indian equity benchmarks trade flat near record highs ahead of growth data reut.rs/4rqh1V2
+
+[2025-11-28 14:20:11](https://bsky.app/profile/reuters.com/post/3m6o56efaqv27)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】インフルエンザ感染者数 1医療機関あたり「51.12人」 39都道府県で「警報レベル」の基準超え 厚生労働省
+(2025-11-28 14:17:34) #ニュース
+
+⬛感染症情報
+🔗https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/infulenza/index.html
+
+[2025-11-28 14:19:24](https://bsky.app/profile/sokuho.news/post/3m6o54xbu3g2h)
+
+---
+
+@financialtimes.com
+
+OpenAI partners amass $100bn debt pile to fund its ambitions on.ft.com/4p5Ebyg
+
+[2025-11-28 14:17:08](https://bsky.app/profile/financialtimes.com/post/3m6o4yvirhi2v)
 
 ---
 
