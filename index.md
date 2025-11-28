@@ -1,9 +1,9 @@
-# [2025-11-29 02:50 updated](2025_11_29.md)
+# [2025-11-29 03:10 updated](2025_11_29.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">From Breakingviews - Breakingviews - Deutsche Börse finds tasty meal in Euronext scraps reut.rs/4iuucjG <a href="https://bsky.app/profile/reuters.com/post/3m6pgspbvvm2w" target="_blank">reuters.com</a> (2025-11-29 02:45:17)</span><span style="padding-right:50px;"> Trial by jury is a right that needs protecting on.ft.com/4rIHHkb  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m6pgqweue52q" target="_blank">financialtimes.com</a> (2025-11-29 02:44:18)</span><span style="padding-right:50px;">India's Adani Group aims to take total debt on book to $11 billion by 2030, CFO Singh says reut.rs/4rrzhNM <a href="https://bsky.app/profile/reuters.com/post/3m6pgju2zwh26" target="_blank">reuters.com</a> (2025-11-29 02:40:20)</span><span style="padding-right:50px;">Those who didn’t survive the fire either couldn’t get out or didn’t know they had to.  on.wsj.com/48t9kVt <a href="https://bsky.app/profile/wsj.com/post/3m6pgewive42o" target="_blank">wsj.com</a> (2025-11-29 02:37:35)</span><span style="padding-right:50px;">The Afghan man suspected of shooting two National Guard members entered the U.S. under the program in 2021. Here's a look at why it was set up and how those who entered the U.S. were vetted. n.pr/4pDYP8M <a href="https://bsky.app/profile/npr.org/post/3m6pgbexxg22e" target="_blank">npr.org</a> (2025-11-29 02:35:36)</span>
+<span style="padding-right:50px;">DHS points to US travel ban list when asked about 'Third World' countries reut.rs/3XV9ShT <a href="https://bsky.app/profile/reuters.com/post/3m6phwctnb52k" target="_blank">reuters.com</a> (2025-11-29 03:05:12)</span><span style="padding-right:50px;">Exclusive: Defense Secretary Pete Hegseth gave an order to “kill everybody” in the first strike on suspected drug boats in the Caribbean. After two men survived, the mission commander ordered a second strike to comply with Hegseth’s instructions, according to two sources. <a href="https://bsky.app/profile/washingtonpost.com/post/3m6phw2oe6e2a" target="_blank">washingtonpost.com</a> (2025-11-29 03:05:04)</span><span style="padding-right:50px;">Man suspected of killing National Guard member to face murder charges, US attorney says reut.rs/4inMEuc <a href="https://bsky.app/profile/reuters.com/post/3m6phphuhwn2i" target="_blank">reuters.com</a> (2025-11-29 03:01:23)</span><span style="padding-right:50px;">The lead-up to Sunday's vote has been marred by finger-pointing and fears of election manipulation by campaign rivals. <a href="https://bsky.app/profile/aljazeera.com/post/3m6phoryx232f" target="_blank">aljazeera.com</a> (2025-11-29 03:01:00)</span><span style="padding-right:50px;">India's olive ridley turtle numbers appear to have rebounded after years of patchwork efforts to stem their decline. Can it last? n.pr/4p0igIV <a href="https://bsky.app/profile/npr.org/post/3m6phoamdcw2e" target="_blank">npr.org</a> (2025-11-29 03:00:42)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50253.91 (🔺34.95 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47666.47 (🔺184.22 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23306.62 (🔺15.03 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 176.88 (🔻2.11 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.17 (🔻0.10 : 2025-11-28)</span>
+<span style="padding-right:50px;">NIKKEI: 50253.91 (🔺34.95 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 176.98 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.19 (🔻0.08 : 2025-11-28)</span>
   </div>
 </div>
 
@@ -32,94 +32,92 @@
 
 ## News Headlines
 
-1. ドイツ取引所、ユーロネクストの残骸から魅力的な食事を発見
-2. インドのアダニ・グループ、2030年までに総負債を110億ドルに
-3. WHO発表、麻疹患者が24年間で71%減少
-4. トランプ大統領の幼少期の家が230万ドルで再販売
-5. ルーブル美術館の宝石盗難事件、4人目の容疑者を逮捕
-6. ウクライナ大統領、汚職調査で首席補佐官を解任
+1. 米国防長官、カリブ海での麻薬船攻撃で「全員殺害」を指示か
+2. 国民 Guard 兵殺害容疑者、殺人罪で起訴へ
+3. インドのアカウミガメ、個体数が回復
+4. トランプ大統領、記者を「愚か」と非難
+5. イズニク湖から現れた古代バシリカ、水危機に直面
+6. アフガニスタンからの移民、米国での地位が不安定化か
 
 ----
 
 @reuters.com
 
-From Breakingviews - Breakingviews - Deutsche Börse finds tasty meal in Euronext scraps reut.rs/4iuucjG
+DHS points to US travel ban list when asked about 'Third World' countries reut.rs/3XV9ShT
 
-[2025-11-29 02:45:17](https://bsky.app/profile/reuters.com/post/3m6pgspbvvm2w)
-
----
-
-@financialtimes.com
-
- Trial by jury is a right that needs protecting on.ft.com/4rIHHkb  | opinion
-
-[2025-11-29 02:44:18](https://bsky.app/profile/financialtimes.com/post/3m6pgqweue52q)
+[2025-11-29 03:05:12](https://bsky.app/profile/reuters.com/post/3m6phwctnb52k)
 
 ---
 
-@reuters.com
+@washingtonpost.com
 
-India's Adani Group aims to take total debt on book to $11 billion by 2030, CFO Singh says reut.rs/4rrzhNM
+Exclusive: Defense Secretary Pete Hegseth gave an order to “kill everybody” in the first strike on suspected drug boats in the Caribbean. After two men survived, the mission commander ordered a second strike to comply with Hegseth’s instructions, according to two sources.
 
-[2025-11-29 02:40:20](https://bsky.app/profile/reuters.com/post/3m6pgju2zwh26)
-
----
-
-@wsj.com
-
-Those who didn’t survive the fire either couldn’t get out or didn’t know they had to.
-
-on.wsj.com/48t9kVt
-
-[2025-11-29 02:37:35](https://bsky.app/profile/wsj.com/post/3m6pgewive42o)
-
----
-
-@npr.org
-
-The Afghan man suspected of shooting two National Guard members entered the U.S. under the program in 2021. Here's a look at why it was set up and how those who entered the U.S. were vetted. n.pr/4pDYP8M
-
-[2025-11-29 02:35:36](https://bsky.app/profile/npr.org/post/3m6pgbexxg22e)
+[2025-11-29 03:05:04](https://bsky.app/profile/washingtonpost.com/post/3m6phw2oe6e2a)
 
 ---
 
 @reuters.com
 
-Global measles cases drop 71% in 24 years on improved vaccination coverage, WHO says reut.rs/4omp2HS
+Man suspected of killing National Guard member to face murder charges, US attorney says reut.rs/4inMEuc
 
-[2025-11-29 02:35:12](https://bsky.app/profile/reuters.com/post/3m6pganslgm2r)
-
----
-
-@nytimes.com
-
-President Trump’s childhood home in Queens is back on the market, this time after a gut renovation and with a $2.3 million price tag.
-
-[2025-11-29 02:35:06](https://bsky.app/profile/nytimes.com/post/3m6pgaiftbg2q)
-
----
-
-@reuters.com
-
-UN urges Washington to keep doors open to asylum seekers after D.C. attack reut.rs/4puXdOy
-
-[2025-11-29 02:30:54](https://bsky.app/profile/reuters.com/post/3m6pfyxythg2d)
+[2025-11-29 03:01:23](https://bsky.app/profile/reuters.com/post/3m6phphuhwn2i)
 
 ---
 
 @aljazeera.com
 
-Advocates say killing of two Palestinians in West Bank part of Israel's 'systematic policy of extrajudicial killings'.
+The lead-up to Sunday's vote has been marred by finger-pointing and fears of election manipulation by campaign rivals.
 
-[2025-11-29 02:30:24](https://bsky.app/profile/aljazeera.com/post/3m6pfy3g7la2f)
+[2025-11-29 03:01:00](https://bsky.app/profile/aljazeera.com/post/3m6phoryx232f)
 
 ---
 
-@usatoday.com
+@npr.org
 
-Concerns over searches, detentions and visa rules have travelers asking what it actually takes to enter the U.S. — and why some are denied.
+India's olive ridley turtle numbers appear to have rebounded after years of patchwork efforts to stem their decline. Can it last? n.pr/4p0igIV
 
-[2025-11-29 02:30:22](https://bsky.app/profile/usatoday.com/post/3m6pfxzlnxd2p)
+[2025-11-29 03:00:42](https://bsky.app/profile/npr.org/post/3m6phoamdcw2e)
+
+---
+
+@nbcnews.com
+
+President Trump calls a reporter “stupid” for questioning his blame of the Biden administration over the D.C shooter’s entry into the U.S.
+
+[2025-11-29 03:00:40](https://bsky.app/profile/nbcnews.com/post/3m6pho6sdpb2p)
+
+---
+
+@washingtonpost.com
+
+Today, Pope Leo visited Iznik, Turkey, to commemorate a seminal event in Christian history at a once-sunken basilica that has reemerged from Lake Iznik, a freshwater expanse whose very survival is now threatened by a water crisis.
+
+[2025-11-29 03:00:34](https://bsky.app/profile/washingtonpost.com/post/3m6phnz4e6n2h)
+
+---
+
+@apnews.com
+
+Anonymity is the name of the game for many college mascots.
+
+[2025-11-29 03:00:20](https://bsky.app/profile/apnews.com/post/3m6phnmga772h)
+
+---
+
+@bloomberg.com
+
+To regain its edge in style, Target is looking to California college students, among other inspirations.
+
+[2025-11-29 03:00:17](https://bsky.app/profile/bloomberg.com/post/3m6phnjbp3e22)
+
+---
+
+@cbsnews.com
+
+As millions of Americans search apps and websites for deals, experts warn that consumers should be on the lookout for fraudsters who will try to capitalize on the holiday shopping rush. 
+
+[2025-11-29 03:00:01](https://bsky.app/profile/cbsnews.com/post/3m6phn2ahnh2o)
 
 ---
 
