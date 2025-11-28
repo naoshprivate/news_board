@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">It’s here: Our list of 100 Notable Books of 2025. www.nytimes.com/2025/11/24/b... <a href="https://bsky.app/profile/nytimes.com/post/3m6nrdezeok2i" target="_blank">nytimes.com</a> (2025-11-28 10:48:15)</span><span style="padding-right:50px;">ルーブル美術館 欧州以外から訪れる人の入館料 45％引き上げへ https://news.web.nhk/newsweb/na/na-k10014988681000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6nrd3ce5e2t" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-28 10:48:03)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】ガソリン暫定税率廃止法 参院本会議で成立 (10:44) #ニュース https://news.tv-asahi.co.jp/news_politics/articles/000469416.html?display=full <a href="https://bsky.app/profile/sokuho.news/post/3m6nr7yjtsv2w" target="_blank">sokuho.news</a> (2025-11-28 10:46:21)</span><span style="padding-right:50px;">A jaguar is released back into the wild in Novo Airao, Amazonas State, Brazil.  The jaguar was rescued from the Negro River in October after being shot in the head by illegal hunters. It underwent surgery and has made a full recovery  📸  State Secretariat for Animal Protection in the Amazonas <a href="https://bsky.app/profile/en.afp.com/post/3m6nqydlxpu2p" target="_blank">en.afp.com</a> (2025-11-28 10:42:04)</span><span style="padding-right:50px;">The high-seas cowboys who speed tons of cocaine to American consumers face the new danger of getting blown out of the water under Trump’s orders by the U.S. military. They say it won’t stop them. <a href="https://bsky.app/profile/wsj.com/post/3m6nqvtkjdz22" target="_blank">wsj.com</a> (2025-11-28 10:40:40)</span>
+<span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】新潟空港などで停電発生 管制塔や旅客ターミナルなどに影響 運航に乱れも《新潟》 (2025-11-28 11:06) #ニュース  🕯停電情報 🔗https://www.fepc.or.jp/sp/bousai/link.html <a href="https://bsky.app/profile/sokuho.news/post/3m6nsfzuhli2g" target="_blank">sokuho.news</a> (2025-11-28 11:07:38)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】新潟空港で停電発生 管制塔や旅客ターミナルなどに影響 運航に乱れも《新潟》 (2025-11-28 11:06) #ニュース  🕯停電情報 🔗https://www.fepc.or.jp/sp/bousai/link.html <a href="https://bsky.app/profile/sokuho.news/post/3m6nsdy7wdf2m" target="_blank">sokuho.news</a> (2025-11-28 11:06:29)</span><span style="padding-right:50px;">東京消費者物価は伸び横ばい、市場予想上回る－日銀利上げ観測後押し <a href="https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6nscujkyc23" target="_blank">bloomberg-jp.bsky.social</a> (2025-11-28 11:05:51)</span><span style="padding-right:50px;">荒れるAI相場で電力株が堅調、原発再稼働に期待も－PBRは依然1倍割れ <a href="https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6nscqacc32n" target="_blank">bloomberg-jp.bsky.social</a> (2025-11-28 11:05:47)</span><span style="padding-right:50px;">香港高層住宅火災の死者94人､消火ほぼ完了-改修工事の安全基準に疑義 <a href="https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6nscm4sje2v" target="_blank">bloomberg-jp.bsky.social</a> (2025-11-28 11:05:43)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50129.97 (🔻88.99 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3135.00 (🔻5.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.37 (🔺0.10 : 2025-11-28)</span>
+<span style="padding-right:50px;">NIKKEI: 50054.11 (🔻164.85 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.36 (🔺0.09 : 2025-11-28)</span>
   </div>
 </div>
 
@@ -30,103 +30,97 @@
 
 ---
 
-## [2025-11-28 10:50 updated](2025_11_28.md)
+## [2025-11-28 11:10 updated](2025_11_28.md)
 
-@nytimes.com
+@sokuho.news
 
-It’s here: Our list of 100 Notable Books of 2025. www.nytimes.com/2025/11/24/b...
+🛎️NNNより【速報】です。
 
-[2025-11-28 10:48:15](https://bsky.app/profile/nytimes.com/post/3m6nrdezeok2i)
+【速報】新潟空港などで停電発生 管制塔や旅客ターミナルなどに影響 運航に乱れも《新潟》
+(2025-11-28 11:06) #ニュース
 
----
+🕯停電情報
+🔗https://www.fepc.or.jp/sp/bousai/link.html
 
-@nhknewsunofficial.bsky.social
-
-ルーブル美術館 欧州以外から訪れる人の入館料 45％引き上げへ
-https://news.web.nhk/newsweb/na/na-k10014988681000
-
-[2025-11-28 10:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6nrd3ce5e2t)
+[2025-11-28 11:07:38](https://bsky.app/profile/sokuho.news/post/3m6nsfzuhli2g)
 
 ---
 
 @sokuho.news
 
-🔔ANNより【速報】です。
+🛎️NNNより【速報】です。
 
-【速報】ガソリン暫定税率廃止法 参院本会議で成立
-(10:44) #ニュース
-https://news.tv-asahi.co.jp/news_politics/articles/000469416.html?display=full
+【速報】新潟空港で停電発生 管制塔や旅客ターミナルなどに影響 運航に乱れも《新潟》
+(2025-11-28 11:06) #ニュース
 
-[2025-11-28 10:46:21](https://bsky.app/profile/sokuho.news/post/3m6nr7yjtsv2w)
+🕯停電情報
+🔗https://www.fepc.or.jp/sp/bousai/link.html
 
----
-
-@en.afp.com
-
-A jaguar is released back into the wild in Novo Airao, Amazonas State, Brazil.
-
-The jaguar was rescued from the Negro River in October after being shot in the head by illegal hunters. It underwent surgery and has made a full recovery
-
-📸  State Secretariat for Animal Protection in the Amazonas
-
-[2025-11-28 10:42:04](https://bsky.app/profile/en.afp.com/post/3m6nqydlxpu2p)
+[2025-11-28 11:06:29](https://bsky.app/profile/sokuho.news/post/3m6nsdy7wdf2m)
 
 ---
 
-@wsj.com
+@bloomberg-jp.bsky.social
 
-The high-seas cowboys who speed tons of cocaine to American consumers face the new danger of getting blown out of the water under Trump’s orders by the U.S. military. They say it won’t stop them.
+東京消費者物価は伸び横ばい、市場予想上回る－日銀利上げ観測後押し
 
-[2025-11-28 10:40:40](https://bsky.app/profile/wsj.com/post/3m6nqvtkjdz22)
+[2025-11-28 11:05:51](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6nscujkyc23)
+
+---
+
+@bloomberg-jp.bsky.social
+
+荒れるAI相場で電力株が堅調、原発再稼働に期待も－PBRは依然1倍割れ
+
+[2025-11-28 11:05:47](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6nscqacc32n)
+
+---
+
+@bloomberg-jp.bsky.social
+
+香港高層住宅火災の死者94人､消火ほぼ完了-改修工事の安全基準に疑義
+
+[2025-11-28 11:05:43](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6nscm4sje2v)
+
+---
+
+@bloomberg-jp.bsky.social
+
+ドイツ取引所、オールファンズ買収で独占交渉入り－総額9600億円
+
+[2025-11-28 11:05:38](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6nschq7im2v)
+
+---
+
+@bloomberg-jp.bsky.social
+
+中国、ヒト型ロボット分野のバブル警戒－当局が異例の懸念表明
+
+[2025-11-28 11:05:33](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6nsccsqk52c)
 
 ---
 
 @reuters.com
 
-Moldovan Parliament votes to close Russian cultural centre reut.rs/48mSNlI
+Hong Kong fire authorities said they expected to wrap up search and rescue operations after the city's worst fire in nearly 80 years tore through a massive apartment complex on November 28, killing at least 94 people and leaving dozens still missing. Follow our live coverage: reut.rs/3Xm4ww0
 
-[2025-11-28 10:40:12](https://bsky.app/profile/reuters.com/post/3m6nquyyn6w2r)
-
----
-
-@nhknewsunofficial.bsky.social
-
-ローマ教皇 初の外遊先トルコを訪問「人類の未来が危機に」
-https://news.web.nhk/newsweb/na/na-k10014988451000
-
-[2025-11-28 10:33:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6nqifcenk2b)
+[2025-11-28 11:05:31](https://bsky.app/profile/reuters.com/post/3m6nscau5m22q)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@bloomberg-jp.bsky.social
 
-高市首相動静 2025年11月27日
-https://news.web.nhk/newsweb/na/na-k10014988601000
+カナダ首相、包括的エネルギー計画を発表－アルバータ州首相と覚書
 
-[2025-11-28 10:33:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6nqiau4vb2n)
-
----
-
-@cnn.com
-
-The US will reexamine all green cards issued to people from 19 countries “of concern” at President Donald Trump’s direction, as the Trump administration intensifies its immigration crackdown following the shooting of two National Guard members in Washington, DC.
-
-
-
-[2025-11-28 10:31:01](https://bsky.app/profile/cnn.com/post/3m6nqelb3ut2q)
+[2025-11-28 11:05:28](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6nsc6n7qd2n)
 
 ---
 
-@nikkei.com
+@bloomberg-jp.bsky.social
 
-10億超の鳴き声分析、ネコ語を翻訳するAIアプリの実力は
-www.nikkei.com/article/DGXZQO...
+米首都銃撃事件で重体の女性州兵死亡、トランプ氏発表－テロ捜査続く
 
-（2024年12月 読まれた記事）
-
-#猫と人の日
-
-[2025-11-28 10:30:59](https://bsky.app/profile/nikkei.com/post/3m6nqejeezs2l)
+[2025-11-28 11:05:24](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6nsc25zyv25)
 
 ---
 
