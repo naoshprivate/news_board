@@ -1,9 +1,9 @@
-# [2025-11-29 05:50 updated](2025_11_29.md)
+# [2025-11-29 06:10 updated](2025_11_29.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">UK court dismisses challenge to issuing of oil and gas exploration licences reut.rs/4omSGfU <a href="https://bsky.app/profile/reuters.com/post/3m6pqujdapv2a" target="_blank">reuters.com</a> (2025-11-29 05:45:16)</span><span style="padding-right:50px;">🛎️産経より【独自】です。  ＜独自＞東北大、外国人留学生の学費を1・7倍に引き上げへ 日本の学生と「差別化」 (2025/11/29 05:00) #ニュース https://www.sankei.com/article/20251129-IN75FIAU5RP5FLHYCZP7KT4JFU/ <a href="https://bsky.app/profile/sokuho.news/post/3m6pqscycsj26" target="_blank">sokuho.news</a> (2025-11-29 05:44:02)</span><span style="padding-right:50px;">Wingtech challenges Nexperia decisions at Netherlands' Supreme Court reut.rs/3Mu90yb <a href="https://bsky.app/profile/reuters.com/post/3m6pqlpi67j2i" target="_blank">reuters.com</a> (2025-11-29 05:40:20)</span><span style="padding-right:50px;">President Trump said he was revoking all executive orders former President Joe Biden signed with an autopen, escalating his battle with his predecessor over the use of the signature proxy device.  on.wsj.com/3McIppg <a href="https://bsky.app/profile/wsj.com/post/3m6pqfmhbv62j" target="_blank">wsj.com</a> (2025-11-29 05:36:55)</span><span style="padding-right:50px;">US futures, options resume after CME outage underscores resilience concerns reut.rs/44iApJR <a href="https://bsky.app/profile/reuters.com/post/3m6pqciizwi26" target="_blank">reuters.com</a> (2025-11-29 05:35:11)</span>
+<span style="padding-right:50px;">UN panel says Israel operating 'de facto policy of torture' <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6ps6hwn7k26" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-11-29 06:08:43)</span><span style="padding-right:50px;">Catholic leaders say the nuns can remain at the Austrian convent but must return to a “cloistered monastic life” away from the public eye after going viral on Instagram. <a href="https://bsky.app/profile/nbcnews.com/post/3m6ps5fjcpr2c" target="_blank">nbcnews.com</a> (2025-11-29 06:08:07)</span><span style="padding-right:50px;">South Africa's Eskom sees annual profit matching last year's after strong first half reut.rs/4p6uCz5 <a href="https://bsky.app/profile/reuters.com/post/3m6pry5twde2d" target="_blank">reuters.com</a> (2025-11-29 06:05:12)</span><span style="padding-right:50px;">BREAKING: President Trump says he's canceling all orders signed by former President Joe Biden using an autopen. <a href="https://bsky.app/profile/cbsnews.com/post/3m6prvr5l5w2u" target="_blank">cbsnews.com</a> (2025-11-29 06:03:51)</span><span style="padding-right:50px;">Schedule for US economic data delayed by government shutdown reut.rs/3M4gsjv <a href="https://bsky.app/profile/reuters.com/post/3m6prrjo4os2i" target="_blank">reuters.com</a> (2025-11-29 06:01:29)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50253.91 (🔺34.95 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻1.99 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.09 (🔻0.18 : 2025-11-28)</span>
+<span style="padding-right:50px;">NIKKEI: 50253.91 (🔺34.95 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻1.99 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.13 (🔻0.14 : 2025-11-28)</span>
   </div>
 </div>
 
@@ -32,99 +32,92 @@
 
 ## News Headlines
 
-1.  英国裁判所、石油・ガス探査ライセンス発行への異議を退ける
-2.  東北大、外国人留学生の学費を1.7倍に引き上げへ
-3.  ウィンテック、ネクスペリアの決定をオランダ最高裁で争う
-4.  トランプ前大統領、バイデン大統領の行政命令を全て撤回すると発言
-5.  香港高層住宅火災、安全管理・工事不正の疑いで捜査
-6.  トランプ大統領、ベネズエラのマドゥロ大統領と会談か
+1.  国連、イスラエルで拷問が横行していると非難
+2.  人気修道女、インスタ禁止で閉鎖的な生活へ
+3.  トランプ、バイデン前大統領の署名入り命令を全て撤回
+4.  コーヒー価格、過去数十年で最大の高騰
+5.  エアバスA320にソフトウェア修正、航空便に混乱の恐れ
+6.  東北大、外国人留学生の学費を大幅値上げへ
 
 ----
 
-@reuters.com
+@bbcnews-world-rss.bsky.social
 
-UK court dismisses challenge to issuing of oil and gas exploration licences reut.rs/4omSGfU
+UN panel says Israel operating 'de facto policy of torture'
 
-[2025-11-29 05:45:16](https://bsky.app/profile/reuters.com/post/3m6pqujdapv2a)
+[2025-11-29 06:08:43](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6ps6hwn7k26)
 
 ---
 
-@sokuho.news
+@nbcnews.com
 
-🛎️産経より【独自】です。
+Catholic leaders say the nuns can remain at the Austrian convent but must return to a “cloistered monastic life” away from the public eye after going viral on Instagram.
 
-＜独自＞東北大、外国人留学生の学費を1・7倍に引き上げへ 日本の学生と「差別化」
-(2025/11/29 05:00) #ニュース
-https://www.sankei.com/article/20251129-IN75FIAU5RP5FLHYCZP7KT4JFU/
-
-[2025-11-29 05:44:02](https://bsky.app/profile/sokuho.news/post/3m6pqscycsj26)
+[2025-11-29 06:08:07](https://bsky.app/profile/nbcnews.com/post/3m6ps5fjcpr2c)
 
 ---
 
 @reuters.com
 
-Wingtech challenges Nexperia decisions at Netherlands' Supreme Court reut.rs/3Mu90yb
+South Africa's Eskom sees annual profit matching last year's after strong first half reut.rs/4p6uCz5
 
-[2025-11-29 05:40:20](https://bsky.app/profile/reuters.com/post/3m6pqlpi67j2i)
+[2025-11-29 06:05:12](https://bsky.app/profile/reuters.com/post/3m6pry5twde2d)
 
 ---
 
-@wsj.com
+@cbsnews.com
 
-President Trump said he was revoking all executive orders former President Joe Biden signed with an autopen, escalating his battle with his predecessor over the use of the signature proxy device.
+<strong><span style="color: red;">BREAKING:</span> President Trump says he's canceling all orders signed by former President Joe Biden using an autopen.</strong>
 
-on.wsj.com/3McIppg
-
-[2025-11-29 05:36:55](https://bsky.app/profile/wsj.com/post/3m6pqfmhbv62j)
+[2025-11-29 06:03:51](https://bsky.app/profile/cbsnews.com/post/3m6prvr5l5w2u)
 
 ---
 
 @reuters.com
 
-US futures, options resume after CME outage underscores resilience concerns reut.rs/44iApJR
+Schedule for US economic data delayed by government shutdown reut.rs/3M4gsjv
 
-[2025-11-29 05:35:11](https://bsky.app/profile/reuters.com/post/3m6pqciizwi26)
-
----
-
-@npr.org
-
-The child advocacy nonprofit Fairplay issued an advisory warning people against buying AI toys this holiday season. It's not the only group.
-
-[2025-11-29 05:34:30](https://bsky.app/profile/npr.org/post/3m6pqbbcsd72r)
+[2025-11-29 06:01:29](https://bsky.app/profile/reuters.com/post/3m6prrjo4os2i)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@cnbc.com
 
-香港 高層住宅火災 安全管理や工事の不正がなかったか捜査
-https://news.web.nhk/newsweb/na/na-k10014989511000
+Grocery-store coffee prices rose 41% in a year, a surge the U.S. hasn’t seen in decades. 
 
-[2025-11-29 05:33:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6pq6qt3dd2j)
+[2025-11-29 06:00:57](https://bsky.app/profile/cnbc.com/post/3m6prqlbi5z2s)
 
 ---
 
-@nytimes.com
+@nbcnews.com
 
-<strong><span style="color: red;">Breaking News</span>: President Trump is said to have held a call with Nicolás Maduro of Venezuela last week amid U.S. threats of military action. It included a discussion about a possible meeting between the two men, people with knowledge of the matter said.</strong>
+Cyclone Ditwah in Sri Lanka causes flooding and landslides, killing dozens of people.
 
-[2025-11-29 05:30:47](https://bsky.app/profile/nytimes.com/post/3m6pq2mhcpt2y)
+[2025-11-29 06:00:46](https://bsky.app/profile/nbcnews.com/post/3m6prqahd6v2h)
 
 ---
 
 @aljazeera.com
 
-New Democratic Party ousts longtime Prime Minister Ralph Gonsalves, who has served in office since 2001.
+General Horta Inta-A appoints new prime minister amid growing condemnation of military coup in West African nation.
 
-[2025-11-29 05:30:37](https://bsky.app/profile/aljazeera.com/post/3m6pq2dg3aj2z)
+[2025-11-29 06:00:34](https://bsky.app/profile/aljazeera.com/post/3m6prputt222a)
 
 ---
 
 @usatoday.com
 
-Michael Douglas is looking back on his classic film "One Flew Over the Cuckoo's Nest" and the awkward situation it created with his father.
+Garrick Merrifield, the star of TLC's "Seeking Sister Wife," was reportedly arrested in Colorado for a domestic violence charge.
 
-[2025-11-29 05:30:31](https://bsky.app/profile/usatoday.com/post/3m6pq25yy562m)
+[2025-11-29 06:00:33](https://bsky.app/profile/usatoday.com/post/3m6prptx2ty2x)
+
+---
+
+@bloomberg.com
+
+President Donald Trump threatened a slew of aggressive actions to curtail legal migration to the US, though the scope of those moves and what legal or congressional mechanisms he may pursue remain unclear.
+
+[2025-11-29 06:00:23](https://bsky.app/profile/bloomberg.com/post/3m6prpkhesz2q)
 
 ---
 
