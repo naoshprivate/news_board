@@ -1,9 +1,9 @@
-# [2025-11-29 08:30 updated](2025_11_29.md)
+# [2025-11-29 08:50 updated](2025_11_29.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】住宅火災 1人死亡、5人搬送 死亡は77歳の住人男性か 徳島・阿波市 (2025-11-29 08:15) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6pzt4fef32p" target="_blank">sokuho.news</a> (2025-11-29 08:25:32)</span><span style="padding-right:50px;">UK's Reeves painted bleak economic picture despite having better news, OBR letter shows reut.rs/488GQl1 <a href="https://bsky.app/profile/reuters.com/post/3m6pzsizlyz2o" target="_blank">reuters.com</a> (2025-11-29 08:25:12)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】全日空欠航65便に エアバス社機体のシステム更新で (08:20) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6pzlr2tbx2q" target="_blank">sokuho.news</a> (2025-11-29 08:21:25)</span><span style="padding-right:50px;">Trump to pardon ex-Honduran president serving 45 years for drug trafficking on.ft.com/4iBRcNJ <a href="https://bsky.app/profile/financialtimes.com/post/3m6pzi562dz2l" target="_blank">financialtimes.com</a> (2025-11-29 08:19:24)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】全日空 きょうの国内線欠航65便に拡大 エアバス機の一部の不具合受け (2025年11月29日 08:18) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6pzgba5ae2l" target="_blank">sokuho.news</a> (2025-11-29 08:18:21)</span>
+<span style="padding-right:50px;">US oil production rose to record high in September, EIA data shows reut.rs/4p42X1L <a href="https://bsky.app/profile/reuters.com/post/3m6q2wcc7k52d" target="_blank">reuters.com</a> (2025-11-29 08:45:13)</span><span style="padding-right:50px;">“It felt like the sky was falling. Everything I owned was turning to dust.” In his own words, William Li, a resident of the Hong Kong apartment complex that became an inferno, recounted how he and two neighbors survived until help arrived. <a href="https://bsky.app/profile/nytimes.com/post/3m6q2vxsmnu24" target="_blank">nytimes.com</a> (2025-11-29 08:45:02)</span><span style="padding-right:50px;">The Afghan national accused of shooting two National Guard members near the White House this week underwent thorough vetting by counterterrorism authorities before entering the U.S., according to people with direct knowledge of the case. <a href="https://bsky.app/profile/washingtonpost.com/post/3m6q2vxlrwf2e" target="_blank">washingtonpost.com</a> (2025-11-29 08:45:02)</span><span style="padding-right:50px;">エアバス機に不具合 全日空の国内線65便がきょう欠航 https://news.web.nhk/newsweb/na/na-k10014989561000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6q2w2mpr42r" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-29 08:45:02)</span><span style="padding-right:50px;">🔔NHKより【速報 JUST IN】です。  エアバス機に不具合 全日空の国内線65便がきょう欠航 (2025-11-29 08:42:26) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6q2s5ermi2w" target="_blank">sokuho.news</a> (2025-11-29 08:42:53)</span>
   </div>
 </div>
 
@@ -32,101 +32,109 @@
 
 ## News Headlines
 
-1.  徳島・阿波市で住宅火災、77歳男性死亡、5人搬送
-2.  全日空、エアバス機システム不具合で国内線65便欠航
-3.  トランプ氏、麻薬密輸で服役中の元ホンジュラス大統領を恩赦へ
-4.  カンタス航空、2027年にシドニー・NY超長距離便就航へ
-5.  エアバス、ソフト問題で航空各社に緊急対応を要請
-6.  丸山希、スキージャンプW杯開幕3連勝
+1. 米国、原油生産量が記録的な高水準に
+2. ANA国内線65便が欠航、エアバス機に不具合
+3. トランプ氏、バイデン氏の大統領令を「取り消し」
+4. 徳島で住宅火災、77歳男性が死亡、5人搬送
+5. ピエストリがカタールスプリントでポールポジション獲得
+6. カンタス航空、シドニー・NY間の超長距離便を計画
 
 ----
 
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】住宅火災 1人死亡、5人搬送 死亡は77歳の住人男性か 徳島・阿波市
-(2025-11-29 08:15) #ニュース
-
-[2025-11-29 08:25:32](https://bsky.app/profile/sokuho.news/post/3m6pzt4fef32p)
-
----
-
 @reuters.com
 
-UK's Reeves painted bleak economic picture despite having better news, OBR letter shows reut.rs/488GQl1
+US oil production rose to record high in September, EIA data shows reut.rs/4p42X1L
 
-[2025-11-29 08:25:12](https://bsky.app/profile/reuters.com/post/3m6pzsizlyz2o)
-
----
-
-@sokuho.news
-
-🔔ANNより【速報】です。
-
-【速報】全日空欠航65便に エアバス社機体のシステム更新で
-(08:20) #ニュース
-
-[2025-11-29 08:21:25](https://bsky.app/profile/sokuho.news/post/3m6pzlr2tbx2q)
+[2025-11-29 08:45:13](https://bsky.app/profile/reuters.com/post/3m6q2wcc7k52d)
 
 ---
 
-@financialtimes.com
+@nytimes.com
 
-Trump to pardon ex-Honduran president serving 45 years for drug trafficking on.ft.com/4iBRcNJ
+“It felt like the sky was falling. Everything I owned was turning to dust.” In his own words, William Li, a resident of the Hong Kong apartment complex that became an inferno, recounted how he and two neighbors survived until help arrived.
 
-[2025-11-29 08:19:24](https://bsky.app/profile/financialtimes.com/post/3m6pzi562dz2l)
+[2025-11-29 08:45:02](https://bsky.app/profile/nytimes.com/post/3m6q2vxsmnu24)
+
+---
+
+@washingtonpost.com
+
+The Afghan national accused of shooting two National Guard members near the White House this week underwent thorough vetting by counterterrorism authorities before entering the U.S., according to people with direct knowledge of the case.
+
+[2025-11-29 08:45:02](https://bsky.app/profile/washingtonpost.com/post/3m6q2vxlrwf2e)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+エアバス機に不具合 全日空の国内線65便がきょう欠航
+https://news.web.nhk/newsweb/na/na-k10014989561000
+
+[2025-11-29 08:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6q2w2mpr42r)
 
 ---
 
 @sokuho.news
 
-🔔ANNより【速報】です。
+<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>エアバス機に不具合 全日空の国内線65便がきょう欠航</strong><br><strong>(2025-11-29 08:42:26) #ニュース</strong>
 
-【速報】全日空 きょうの国内線欠航65便に拡大 エアバス機の一部の不具合受け
-(2025年11月29日 08:18) #ニュース
+[2025-11-29 08:42:53](https://bsky.app/profile/sokuho.news/post/3m6q2s5ermi2w)
 
-[2025-11-29 08:18:21](https://bsky.app/profile/sokuho.news/post/3m6pzgba5ae2l)
+---
+
+@nikkei.com
+
+ANA国内65便が欠航、約9400人影響　欧州当局のエアバス整備指示で（無料記事）
+www.nikkei.com/article/DGXZQO...
+
+ANAでは、9月末時点で整備が必要となるA320とA321を37機運航。このうち34機が影響を受けています。
+
+グループ内のLCC、ピーチ・アビエーションも同型機を使用。JALはこれらの機体を使用しておらず「欠航は起きていない」と説明しています。
+
+#ニュース
+
+[2025-11-29 08:41:18](https://bsky.app/profile/nikkei.com/post/3m6q2pc3r3m2k)
 
 ---
 
 @reuters.com
 
-Referee dishes out 17 red cards as mass brawl mars Copa Bolivia match reut.rs/4rJjABV
+CoinShares pulls plug on select crypto ETFs ahead of US listing reut.rs/4riOIHY
 
-[2025-11-29 08:15:14](https://bsky.app/profile/reuters.com/post/3m6pzap6zt42e)
-
----
-
-@reuters.com
-
-Peru's president to declare border state of emergency to prevent entry of undocumented migrants reut.rs/4roQebw
-
-[2025-11-29 08:10:11](https://bsky.app/profile/reuters.com/post/3m6pyxo52ks27)
-
----
-
-@npr.org
-
-After the alleged shooter was identified as Rahmanullah Lakanwal — a 29-year-old Afghan national — Trump said he would permanently shut down immigration from impoverished countries. n.pr/4roPiE2
-
-[2025-11-29 08:05:34](https://bsky.app/profile/npr.org/post/3m6pypfjt332e)
+[2025-11-29 08:40:20](https://bsky.app/profile/reuters.com/post/3m6q2nkwlof2k)
 
 ---
 
 @reuters.com
 
-Report: Packers DL Devonte Wyatt (ankle) to miss rest of season reut.rs/3Kl7Gx5
+Piastri on pole for Qatar sprint, Norris third and Verstappen sixth reut.rs/4pHwUVA
 
-[2025-11-29 08:05:11](https://bsky.app/profile/reuters.com/post/3m6pyoq7y2s2i)
+[2025-11-29 08:35:10](https://bsky.app/profile/reuters.com/post/3m6q2edljm32n)
 
 ---
 
-@usatoday.com
+@nytimes.com
 
-The "Wicked" star is breaking her silence on the early shuttering of her badly reviewed Broadway musical, amid her polarizing Charlie Kirk comments.
+The Tokushima Modern Art Museum in Japan was duped in a major art fraud more than 25 years ago, and it just closed the case last week, when it published an investigation into an early Cubist painting that turned out to be a fake by a famous forger.
 
-[2025-11-29 08:01:22](https://bsky.app/profile/usatoday.com/post/3m6pyhvpcwv2p)
+[2025-11-29 08:35:03](https://bsky.app/profile/nytimes.com/post/3m6q2e4jbpy24)
+
+---
+
+@nikkei.com
+
+トランプ氏、バイデン氏の大統領令「取り消し」　自動署名理由に
+www.nikkei.com/article/DGXZQO...
+
+バイデン氏がオートペン（署名機）を使って署名した文書はおよそ92%に上ると、トランプ氏は根拠を示さずに指摘。
+
+バイデン氏が直接署名したもの以外はすべて無効にすると表明しました。
+
+米メディアによると、オートペンは故・ケネディ元大統領やオバマ元大統領らも使用していたといいます。
+
+#ニュース
+
+[2025-11-29 08:31:17](https://bsky.app/profile/nikkei.com/post/3m6q25fd7na2g)
 
 ---
 
