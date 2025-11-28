@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Trading on CME halted after exchange hit by data centre outage on.ft.com/43VvbU9 <a href="https://bsky.app/profile/financialtimes.com/post/3m6ojtblbdf2n" target="_blank">financialtimes.com</a> (2025-11-28 18:06:38)</span><span style="padding-right:50px;">Hong Kong residents scramble to deliver aid, support after deadly fire reut.rs/4pfLtj9 <a href="https://bsky.app/profile/reuters.com/post/3m6ojqqauev2n" target="_blank">reuters.com</a> (2025-11-28 18:05:13)</span><span style="padding-right:50px;">🔔原子力規制委員会より【Nアラート】です。  【緊急情報】(第2報) 愛媛県伊予灘沖で発生した地震の影響 (2025/11/28 18:00) 🔗https://kinkyu.nra.go.jp/m/sp/kinkyu/2025/11/post-114.html <a href="https://bsky.app/profile/sokuho.news/post/3m6ojnsvpq72e" target="_blank">sokuho.news</a> (2025-11-28 18:03:34)</span><span style="padding-right:50px;">🛎️ANNより【速報】です。  【速報】最新コメ平均価格 4312円 5キロあたり 2週間ぶり値上がり (2025-11-28 18:00:27) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6ojncksin2m" target="_blank">sokuho.news</a> (2025-11-28 18:03:18)</span><span style="padding-right:50px;">福岡市、ビッグバンさらに　天神再開発で120棟建て替え www.nikkei.com/article/DGXZQO...  九州の玄関口、JR博多駅前でも2026年夏に新たなビルが開業する予定です。  福岡市の人口は25年11月時点で167万人を超え、10年間で約10万人増えました。 <a href="https://bsky.app/profile/nikkei.com/post/3m6ojj5otb522" target="_blank">nikkei.com</a> (2025-11-28 18:00:58)</span>
+<span style="padding-right:50px;">Lloyd’s of London is no longer a bastion of white, male privilege. Or so the white men running it say. A reputational crisis is putting the iconic British institution under pressure to prove it has changed. <a href="https://bsky.app/profile/wsj.com/post/3m6okyhpgci2p" target="_blank">wsj.com</a> (2025-11-28 18:27:26)</span><span style="padding-right:50px;">野菜 卵 コメ… 物価の高止まり続く食料品 消費と生産の現場は https://news.web.nhk/newsweb/na/na-k10014988931000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6okxsarfv23" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-28 18:27:02)</span><span style="padding-right:50px;">Receding waters begin revealing devastating damage from floods in Thailand that have killed at least 145 people and affected millions. <a href="https://bsky.app/profile/apnews.com/post/3m6okv5noe52h" target="_blank">apnews.com</a> (2025-11-28 18:25:35)</span><span style="padding-right:50px;">India's Jayaswal Neco pivots to cheaper funding replacing high cost bonds, sources say reut.rs/4ipdS3N <a href="https://bsky.app/profile/reuters.com/post/3m6okuewheh2o" target="_blank">reuters.com</a> (2025-11-28 18:25:09)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】車両と自転車の事故…自転車に乗っていた人が重傷のもよう 山口・周南 (2025-11-28 18:12:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6okmldxxm27" target="_blank">sokuho.news</a> (2025-11-28 18:20:47)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50253.91 (🔺34.95 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.29 (🔺0.02 : 2025-11-28)</span>
+<span style="padding-right:50px;">NIKKEI: 50253.91 (🔺34.95 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.31 (🔺0.04 : 2025-11-28)</span>
   </div>
 </div>
 
@@ -30,101 +30,97 @@
 
 ---
 
-## [2025-11-28 18:10 updated](2025_11_28.md)
+## [2025-11-28 18:30 updated](2025_11_28.md)
 
-@financialtimes.com
+@wsj.com
 
-Trading on CME halted after exchange hit by data centre outage on.ft.com/43VvbU9
+Lloyd’s of London is no longer a bastion of white, male privilege. Or so the white men running it say. A reputational crisis is putting the iconic British institution under pressure to prove it has changed.
 
-[2025-11-28 18:06:38](https://bsky.app/profile/financialtimes.com/post/3m6ojtblbdf2n)
+[2025-11-28 18:27:26](https://bsky.app/profile/wsj.com/post/3m6okyhpgci2p)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+野菜 卵 コメ… 物価の高止まり続く食料品 消費と生産の現場は
+https://news.web.nhk/newsweb/na/na-k10014988931000
+
+[2025-11-28 18:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6okxsarfv23)
+
+---
+
+@apnews.com
+
+Receding waters begin revealing devastating damage from floods in Thailand that have killed at least 145 people and affected millions.
+
+[2025-11-28 18:25:35](https://bsky.app/profile/apnews.com/post/3m6okv5noe52h)
 
 ---
 
 @reuters.com
 
-Hong Kong residents scramble to deliver aid, support after deadly fire reut.rs/4pfLtj9
+India's Jayaswal Neco pivots to cheaper funding replacing high cost bonds, sources say reut.rs/4ipdS3N
 
-[2025-11-28 18:05:13](https://bsky.app/profile/reuters.com/post/3m6ojqqauev2n)
-
----
-
-@sokuho.news
-
-🔔原子力規制委員会より【Nアラート】です。
-
-【緊急情報】(第2報) 愛媛県伊予灘沖で発生した地震の影響
-(2025/11/28 18:00)
-🔗https://kinkyu.nra.go.jp/m/sp/kinkyu/2025/11/post-114.html
-
-[2025-11-28 18:03:34](https://bsky.app/profile/sokuho.news/post/3m6ojnsvpq72e)
+[2025-11-28 18:25:09](https://bsky.app/profile/reuters.com/post/3m6okuewheh2o)
 
 ---
 
 @sokuho.news
 
-🛎️ANNより【速報】です。
+🛎️JNNより【速報】です。
 
-【速報】最新コメ平均価格 4312円 5キロあたり 2週間ぶり値上がり
-(2025-11-28 18:00:27) #ニュース
+【速報】車両と自転車の事故…自転車に乗っていた人が重傷のもよう 山口・周南
+(2025-11-28 18:12:00) #ニュース
 
-[2025-11-28 18:03:18](https://bsky.app/profile/sokuho.news/post/3m6ojncksin2m)
+[2025-11-28 18:20:47](https://bsky.app/profile/sokuho.news/post/3m6okmldxxm27)
 
 ---
 
 @nikkei.com
 
-福岡市、ビッグバンさらに　天神再開発で120棟建て替え
+香港火災、窓付近に燃えやすい発泡スチロール
 www.nikkei.com/article/DGXZQO...
 
-九州の玄関口、JR博多駅前でも2026年夏に新たなビルが開業する予定です。
+香港当局は各階の窓付近に燃えやすい発泡スチロールの板が設置され、防火基準を満たさない防護ネットを使っていたことが被害の拡大を招いたとみています。
 
-福岡市の人口は25年11月時点で167万人を超え、10年間で約10万人増えました。
+竹製の足場から火が出たとされていますが、出火原因は特定されていません。
 
-[2025-11-28 18:00:58](https://bsky.app/profile/nikkei.com/post/3m6ojj5otb522)
+#ニュース
+
+[2025-11-28 18:17:00](https://bsky.app/profile/nikkei.com/post/3m6okfsanlz2t)
 
 ---
 
 @reuters.com
 
-Japan finalises $117 billion extra budget to fund stimulus, mostly via debt reut.rs/4aj4MmZ
+Sabadell's David Martinez steps down from board after failed BBVA bid reut.rs/4rr26tB
 
-[2025-11-28 18:00:36](https://bsky.app/profile/reuters.com/post/3m6ojiih6fq2e)
+[2025-11-28 18:15:11](https://bsky.app/profile/reuters.com/post/3m6okckxiog2n)
 
 ---
 
-@aljazeera.com
+@apnews.com
 
-Sudan Doctors Network says military use of hospital is 'a blatant violation of sanctity of medical institutions'.
+Pope Leo XIV opened his first full day in Turkey on Friday by meeting with its tiny Catholic community, greeted by cheers and applause as he embarked on a day meant to bolster Christians around the world.
 
-[2025-11-28 18:00:22](https://bsky.app/profile/aljazeera.com/post/3m6oji2zjvc2h)
+[2025-11-28 18:15:08](https://bsky.app/profile/apnews.com/post/3m6okchx5lo2i)
 
 ---
 
 @cnbc.com
 
-Food and diet have a bigger influence on your brain and memory than you might think. Harvard nutritionist and neuroscience expert Dr. Uma Naidoo shares the worst foods that weaken your brain health.
+What’s going on at Nexperia? Dutch chipmaker issues urgent plea to its China unit
 
-[2025-11-28 18:00:19](https://bsky.app/profile/cnbc.com/post/3m6ojhy5atu2j)
-
----
-
-@financialtimes.com
-
-Opinion: It has become a rite of passage for every new generation of young adults to be labelled lazy and irresponsible by its elders, but Gen Z has probably had it worse than most. on.ft.com/4pVhFsf
-
-[2025-11-28 18:00:09](https://bsky.app/profile/financialtimes.com/post/3m6ojhobuhn2v)
+[2025-11-28 18:12:46](https://bsky.app/profile/cnbc.com/post/3m6ok6ag4mj2e)
 
 ---
 
-@en.afp.com
+@nhknewsunofficial.bsky.social
 
-UPDATE  More than 70 species of sharks and rays given increased protection by the world's top wildlife trade body.
+小泉防衛相 韓国のイ駐日大使と会談 今後も当局間の交流を確認
+https://news.web.nhk/newsweb/na/na-k10014989071000
 
-The Convention on International Trade in Endangered Species of Wild Fauna and Flora backed increased trade restrictions on species from whale sharks to manta rays
-
-u.afp.com/SheB
-
-[2025-11-28 17:58:19](https://bsky.app/profile/en.afp.com/post/3m6ojefbwkm2k)
+[2025-11-28 18:12:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ok4yzkph2b)
 
 ---
 
