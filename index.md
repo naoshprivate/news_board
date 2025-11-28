@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Authorities are searching for clues to why a man shot two West Virginia National Guard members serving in Washington, D.C., on Wednesday. <a href="https://bsky.app/profile/wsj.com/post/3m6ophxjtee2i" target="_blank">wsj.com</a> (2025-11-28 19:47:41)</span><span style="padding-right:50px;">China's Baidu starts layoffs after reporting third-quarter loss - sources reut.rs/4ivNmWy <a href="https://bsky.app/profile/reuters.com/post/3m6opdr7kz422" target="_blank">reuters.com</a> (2025-11-28 19:45:20)</span><span style="padding-right:50px;">Ten killed in deadliest Israeli raid for months in southern Syria <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6opdgtb3l2p" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-11-28 19:45:08)</span><span style="padding-right:50px;">Hong Kong's deadliest fire in decades followed a year of safety complaints reut.rs/4okpN44 <a href="https://bsky.app/profile/reuters.com/post/3m6op2qvgub27" target="_blank">reuters.com</a> (2025-11-28 19:40:18)</span><span style="padding-right:50px;">泊原発再稼働､北海道知事が「現実的選択」－電力需要増に対応 <a href="https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6ooskyurd26" target="_blank">bloomberg-jp.bsky.social</a> (2025-11-28 19:35:43)</span>
+<span style="padding-right:50px;"> Should I be myself at work? on.ft.com/3KjXcOu  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m6oqm7y5a72c" target="_blank">financialtimes.com</a> (2025-11-28 20:07:58)</span><span style="padding-right:50px;">Pope Leo struggles to unveil plaque in Turkey <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6oqk654tx2p" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-11-28 20:06:48)</span><span style="padding-right:50px;">France keeps up opposition to nationalising ArcelorMittal sites reut.rs/4pADXPG <a href="https://bsky.app/profile/reuters.com/post/3m6oqhc5d4k2r" target="_blank">reuters.com</a> (2025-11-28 20:05:12)</span><span style="padding-right:50px;">Billionaire investor and entrepreneur Mark Cuban says the skills you need to land a job right now will be the same ones companies are hiring for in ten years. <a href="https://bsky.app/profile/cnbc.com/post/3m6oqg2u77e2j" target="_blank">cnbc.com</a> (2025-11-28 20:04:31)</span><span style="padding-right:50px;">外交官退去へ｢伝家の宝刀｣　ペルソナ･ノン･グラータ、日本は過去4例 www.nikkei.com/article/DGXZQO...  外交官の国外追放につながる措置で、通告された国は対象者を召喚するか任務を終了させなければなりません。  ユダヤ人に「命のビザ」を発給したことで知られる杉原千畝氏。  彼も戦前、旧ソ連から通告を受けていました。 <a href="https://bsky.app/profile/nikkei.com/post/3m6oq7sw7vf2k" target="_blank">nikkei.com</a> (2025-11-28 20:01:01)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50253.91 (🔺34.95 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.31 (🔺0.04 : 2025-11-28)</span>
+<span style="padding-right:50px;">NIKKEI: 50253.91 (🔺34.95 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.28 (🔺0.01 : 2025-11-28)</span>
   </div>
 </div>
 
@@ -30,92 +30,94 @@
 
 ---
 
-## [2025-11-28 19:50 updated](2025_11_28.md)
+## [2025-11-28 20:10 updated](2025_11_28.md)
 
-@wsj.com
+@financialtimes.com
 
-Authorities are searching for clues to why a man shot two West Virginia National Guard members serving in Washington, D.C., on Wednesday.
+ Should I be myself at work? on.ft.com/3KjXcOu  | opinion
 
-[2025-11-28 19:47:41](https://bsky.app/profile/wsj.com/post/3m6ophxjtee2i)
-
----
-
-@reuters.com
-
-China's Baidu starts layoffs after reporting third-quarter loss - sources reut.rs/4ivNmWy
-
-[2025-11-28 19:45:20](https://bsky.app/profile/reuters.com/post/3m6opdr7kz422)
+[2025-11-28 20:07:58](https://bsky.app/profile/financialtimes.com/post/3m6oqm7y5a72c)
 
 ---
 
 @bbcnews-world-rss.bsky.social
 
-Ten killed in deadliest Israeli raid for months in southern Syria
+Pope Leo struggles to unveil plaque in Turkey
 
-[2025-11-28 19:45:08](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6opdgtb3l2p)
-
----
-
-@reuters.com
-
-Hong Kong's deadliest fire in decades followed a year of safety complaints reut.rs/4okpN44
-
-[2025-11-28 19:40:18](https://bsky.app/profile/reuters.com/post/3m6op2qvgub27)
-
----
-
-@bloomberg-jp.bsky.social
-
-泊原発再稼働､北海道知事が「現実的選択」－電力需要増に対応
-
-[2025-11-28 19:35:43](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6ooskyurd26)
-
----
-
-@bloomberg-jp.bsky.social
-
-中国外相、台湾問題でフランスに支持要請－高市氏への圧力継続
-
-[2025-11-28 19:35:39](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6oosgsgdl2w)
-
----
-
-@bloomberg-jp.bsky.social
-
-中国外相、台湾問題でフランスに支持要請－高市氏への圧力継続
-
-[2025-11-28 19:35:22](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6oorx5evp26)
+[2025-11-28 20:06:48](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6oqk654tx2p)
 
 ---
 
 @reuters.com
 
-Belgium PM says using frozen Russian assets could derail Ukraine peace deal reut.rs/4rqnpeW
+France keeps up opposition to nationalising ArcelorMittal sites reut.rs/4pADXPG
 
-[2025-11-28 19:35:12](https://bsky.app/profile/reuters.com/post/3m6oornp43e2y)
+[2025-11-28 20:05:12](https://bsky.app/profile/reuters.com/post/3m6oqhc5d4k2r)
 
 ---
 
-@en.afp.com
+@cnbc.com
 
-#UPDATE Days of devastating flooding across Southeast Asia have killed more than 250 people across Indonesia, Thailand and Malaysia, authorities said on Friday ➡️ u.afp.com/ShnS
+Billionaire investor and entrepreneur Mark Cuban says the skills you need to land a job right now will be the same ones companies are hiring for in ten years.
 
-[2025-11-28 19:34:23](https://bsky.app/profile/en.afp.com/post/3m6ooq6ibqs22)
+[2025-11-28 20:04:31](https://bsky.app/profile/cnbc.com/post/3m6oqg2u77e2j)
 
 ---
 
 @nikkei.com
 
-講談社の幼児誌「げんき」休刊　1994年に創刊（無料記事）
+外交官退去へ｢伝家の宝刀｣　ペルソナ･ノン･グラータ、日本は過去4例
 www.nikkei.com/article/DGXZQO...
 
-11月28日発売の2026年1月号をもって休刊。
+外交官の国外追放につながる措置で、通告された国は対象者を召喚するか任務を終了させなければなりません。
 
-キャラクター玩具の付録などで人気を集めてきましたが、消費者の雑誌離れで部数を減らしていました。
+ユダヤ人に「命のビザ」を発給したことで知られる杉原千畝氏。
 
-#ニュース
+彼も戦前、旧ソ連から通告を受けていました。
 
-[2025-11-28 19:30:59](https://bsky.app/profile/nikkei.com/post/3m6ook4ghtk2w)
+[2025-11-28 20:01:01](https://bsky.app/profile/nikkei.com/post/3m6oq7sw7vf2k)
+
+---
+
+@reuters.com
+
+EU to examine if Apple Ads and Maps subject to tough rules, Apple says no reut.rs/4itQ1zU
+
+[2025-11-28 20:00:53](https://bsky.app/profile/reuters.com/post/3m6oq7ksk752w)
+
+---
+
+@bloomberg.com
+
+India’s economy grew faster than expected last quarter, underscoring its resilience in the face of tariffs.
+
+[2025-11-28 20:00:22](https://bsky.app/profile/bloomberg.com/post/3m6oq6npe3e2d)
+
+---
+
+@nbcnews.com
+
+The deadly inferno that tore through a high-rise housing estate in Hong Kong has killed at least 128 people, authorities say, with some 200 people still missing.
+
+[2025-11-28 20:00:19](https://bsky.app/profile/nbcnews.com/post/3m6oq6kxulw2w)
+
+---
+
+@financialtimes.com
+
+What is salary sacrifice? Who uses them? How are the rules changing? How much will it cost me? 
+
+Find out the answers to these questions and more here: on.ft.com/4rqyTPu
+
+[2025-11-28 20:00:07](https://bsky.app/profile/financialtimes.com/post/3m6oq677fwe26)
+
+---
+
+@forbes.com
+
+Trump attacked immigrants living in the U.S., claiming without evidence that most of them were from “failed nations” or from “prisons, mental institutions, gangs, or drug cartels.”
+
+[2025-11-28 20:00:04](https://bsky.app/profile/forbes.com/post/3m6oq646yh42p)
 
 ---
 
