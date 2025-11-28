@@ -1,9 +1,9 @@
-# [2025-11-29 08:10 updated](2025_11_29.md)
+# [2025-11-29 08:30 updated](2025_11_29.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">After the alleged shooter was identified as Rahmanullah Lakanwal — a 29-year-old Afghan national — Trump said he would permanently shut down immigration from impoverished countries. n.pr/4roPiE2 <a href="https://bsky.app/profile/npr.org/post/3m6pypfjt332e" target="_blank">npr.org</a> (2025-11-29 08:05:34)</span><span style="padding-right:50px;">Report: Packers DL Devonte Wyatt (ankle) to miss rest of season reut.rs/3Kl7Gx5 <a href="https://bsky.app/profile/reuters.com/post/3m6pyoq7y2s2i" target="_blank">reuters.com</a> (2025-11-29 08:05:11)</span><span style="padding-right:50px;">The "Wicked" star is breaking her silence on the early shuttering of her badly reviewed Broadway musical, amid her polarizing Charlie Kirk comments. <a href="https://bsky.app/profile/usatoday.com/post/3m6pyhvpcwv2p" target="_blank">usatoday.com</a> (2025-11-29 08:01:22)</span><span style="padding-right:50px;">【20時間超の「超長距離便」離陸へ】 カンタス航空、2027年にシドニー・NY便 www.nikkei.com/article/DGXZQO...  エアバスのA350-1000ULRを使用。全席の41%分をファーストクラスなど「プレミアム席」にします。  ANAやJALは、需要が見込めず超長距離便を計画していません。 <a href="https://bsky.app/profile/nikkei.com/post/3m6pyhryjqj2j" target="_blank">nikkei.com</a> (2025-11-29 08:01:18)</span><span style="padding-right:50px;">Juan Orlando Hernandez, member of Trump-endorsed candidate Nasry Asfura's party, serving US drug trafficking sentence. <a href="https://bsky.app/profile/aljazeera.com/post/3m6pyhbdith2l" target="_blank">aljazeera.com</a> (2025-11-29 08:01:01)</span>
+<span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】住宅火災 1人死亡、5人搬送 死亡は77歳の住人男性か 徳島・阿波市 (2025-11-29 08:15) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6pzt4fef32p" target="_blank">sokuho.news</a> (2025-11-29 08:25:32)</span><span style="padding-right:50px;">UK's Reeves painted bleak economic picture despite having better news, OBR letter shows reut.rs/488GQl1 <a href="https://bsky.app/profile/reuters.com/post/3m6pzsizlyz2o" target="_blank">reuters.com</a> (2025-11-29 08:25:12)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】全日空欠航65便に エアバス社機体のシステム更新で (08:20) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6pzlr2tbx2q" target="_blank">sokuho.news</a> (2025-11-29 08:21:25)</span><span style="padding-right:50px;">Trump to pardon ex-Honduran president serving 45 years for drug trafficking on.ft.com/4iBRcNJ <a href="https://bsky.app/profile/financialtimes.com/post/3m6pzi562dz2l" target="_blank">financialtimes.com</a> (2025-11-29 08:19:24)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】全日空 きょうの国内線欠航65便に拡大 エアバス機の一部の不具合受け (2025年11月29日 08:18) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6pzgba5ae2l" target="_blank">sokuho.news</a> (2025-11-29 08:18:21)</span>
   </div>
 </div>
 
@@ -32,14 +32,79 @@
 
 ## News Headlines
 
-1. トランプ氏、貧困国からの移民を永久閉鎖へ
-2. カンタス航空、2027年にシドニー・NY超長距離便
-3. 米財務省、不法滞在者への連邦給付金停止へ
-4. エアバス機、太陽放射で操縦データ破損の恐れ
-5. 米国で死刑制度への関心が再燃
-6. 丸山希、スキージャンプW杯開幕3連勝
+1.  徳島・阿波市で住宅火災、77歳男性死亡、5人搬送
+2.  全日空、エアバス機システム不具合で国内線65便欠航
+3.  トランプ氏、麻薬密輸で服役中の元ホンジュラス大統領を恩赦へ
+4.  カンタス航空、2027年にシドニー・NY超長距離便就航へ
+5.  エアバス、ソフト問題で航空各社に緊急対応を要請
+6.  丸山希、スキージャンプW杯開幕3連勝
 
 ----
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】住宅火災 1人死亡、5人搬送 死亡は77歳の住人男性か 徳島・阿波市
+(2025-11-29 08:15) #ニュース
+
+[2025-11-29 08:25:32](https://bsky.app/profile/sokuho.news/post/3m6pzt4fef32p)
+
+---
+
+@reuters.com
+
+UK's Reeves painted bleak economic picture despite having better news, OBR letter shows reut.rs/488GQl1
+
+[2025-11-29 08:25:12](https://bsky.app/profile/reuters.com/post/3m6pzsizlyz2o)
+
+---
+
+@sokuho.news
+
+🔔ANNより【速報】です。
+
+【速報】全日空欠航65便に エアバス社機体のシステム更新で
+(08:20) #ニュース
+
+[2025-11-29 08:21:25](https://bsky.app/profile/sokuho.news/post/3m6pzlr2tbx2q)
+
+---
+
+@financialtimes.com
+
+Trump to pardon ex-Honduran president serving 45 years for drug trafficking on.ft.com/4iBRcNJ
+
+[2025-11-29 08:19:24](https://bsky.app/profile/financialtimes.com/post/3m6pzi562dz2l)
+
+---
+
+@sokuho.news
+
+🔔ANNより【速報】です。
+
+【速報】全日空 きょうの国内線欠航65便に拡大 エアバス機の一部の不具合受け
+(2025年11月29日 08:18) #ニュース
+
+[2025-11-29 08:18:21](https://bsky.app/profile/sokuho.news/post/3m6pzgba5ae2l)
+
+---
+
+@reuters.com
+
+Referee dishes out 17 red cards as mass brawl mars Copa Bolivia match reut.rs/4rJjABV
+
+[2025-11-29 08:15:14](https://bsky.app/profile/reuters.com/post/3m6pzap6zt42e)
+
+---
+
+@reuters.com
+
+Peru's president to declare border state of emergency to prevent entry of undocumented migrants reut.rs/4roQebw
+
+[2025-11-29 08:10:11](https://bsky.app/profile/reuters.com/post/3m6pyxo52ks27)
+
+---
 
 @npr.org
 
@@ -62,68 +127,6 @@ Report: Packers DL Devonte Wyatt (ankle) to miss rest of season reut.rs/3Kl7Gx5
 The "Wicked" star is breaking her silence on the early shuttering of her badly reviewed Broadway musical, amid her polarizing Charlie Kirk comments.
 
 [2025-11-29 08:01:22](https://bsky.app/profile/usatoday.com/post/3m6pyhvpcwv2p)
-
----
-
-@nikkei.com
-
-【20時間超の「超長距離便」離陸へ】
-カンタス航空、2027年にシドニー・NY便
-www.nikkei.com/article/DGXZQO...
-
-エアバスのA350-1000ULRを使用。全席の41%分をファーストクラスなど「プレミアム席」にします。
-
-ANAやJALは、需要が見込めず超長距離便を計画していません。
-
-[2025-11-29 08:01:18](https://bsky.app/profile/nikkei.com/post/3m6pyhryjqj2j)
-
----
-
-@aljazeera.com
-
-Juan Orlando Hernandez, member of Trump-endorsed candidate Nasry Asfura's party, serving US drug trafficking sentence.
-
-[2025-11-29 08:01:01](https://bsky.app/profile/aljazeera.com/post/3m6pyhbdith2l)
-
----
-
-@reuters.com
-
-Bessent says US Treasury working to cut off federal benefits to 'illegal aliens' reut.rs/4paZJd0
-
-[2025-11-29 08:00:53](https://bsky.app/profile/reuters.com/post/3m6pygzl6o22i)
-
----
-
-@nbcnews.com
-
-Israeli security forces shot and killed two Palestinian men who appeared to be unarmed and surrendering in the occupied West Bank, according to video filmed by Palestine TV that was distributed by Reuters, and video shot by the news agency itself.
-
-[2025-11-29 08:00:42](https://bsky.app/profile/nbcnews.com/post/3m6pygpgiz52j)
-
----
-
-@cnbc.com
-
-The Clocktower Penthouse is a triplex apartment at the top of 108 Leonard Street in New York City. 
-
-[2025-11-29 08:00:41](https://bsky.app/profile/cnbc.com/post/3m6pygocwgj2y)
-
----
-
-@nytimes.com
-
-Airbus on Friday urged airlines to immediately address a software problem that could affect flight controls on thousands of its airplanes. The European airplane maker said a recent incident had shown that “intense solar radiation may corrupt data critical to the functioning of flight controls.”
-
-[2025-11-29 08:00:38](https://bsky.app/profile/nytimes.com/post/3m6pygkzcup2g)
-
----
-
-@bloomberg.com
-
-A call for the death penalty in the case of the killing of a National Guard member has revived attention on the use of capital punishment in the US. Here's what you need to know
-
-[2025-11-29 08:00:10](https://bsky.app/profile/bloomberg.com/post/3m6pyfqtfpr2q)
 
 ---
 
