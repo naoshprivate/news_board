@@ -1,9 +1,9 @@
-# [2025-11-28 23:10 updated](2025_11_28.md)
+# [2025-11-28 23:30 updated](2025_11_28.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️ANNより【速報】です。  【速報】デルタ航空の機体が羽田空港に緊急着陸 油圧系統のトラブルで (2025-11-28 22:13:21) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6p2qeagro24" target="_blank">sokuho.news</a> (2025-11-28 23:09:14)</span><span style="padding-right:50px;">India posts fastest growth in six quarters, cushions against trade strains reut.rs/48nZ5BA <a href="https://bsky.app/profile/reuters.com/post/3m6p2j2imso2i" target="_blank">reuters.com</a> (2025-11-28 23:05:09)</span><span style="padding-right:50px;">Exclusive: There have been several failures related to Anduril's Altius and Ghost drones, either in tests or in Ukraine reut.rs/3XFSBtb <a href="https://bsky.app/profile/reuters.com/post/3m6p2diwbxk2t" target="_blank">reuters.com</a> (2025-11-28 23:02:03)</span><span style="padding-right:50px;">「同性婚認めないのは合憲」東京高裁判決　専門家の見方 www.nikkei.com/article/DGXZQO...  ■早稲田大学の棚村政行名誉教授 同性婚の法制化について国会に丸投げした。人権を守る最後のとりでとしての司法の役割を放棄したと言わざるを得ない。  ■立教大学の白水隆教授 最高裁は今後、結論はどうであれ、同性婚を認めない規定に対する司法の考えを実体論に踏み込んで明らかにし、司法のあるべき姿を示してほしい。 <a href="https://bsky.app/profile/nikkei.com/post/3m6p2bpjydi2j" target="_blank">nikkei.com</a> (2025-11-28 23:01:02)</span><span style="padding-right:50px;">Google ditches EU antitrust complaint about Microsoft cloud amid EU probe reut.rs/4p5skQL <a href="https://bsky.app/profile/reuters.com/post/3m6p2bhopft2d" target="_blank">reuters.com</a> (2025-11-28 23:00:54)</span>
+<span style="padding-right:50px;">U.S. President Donald Trump on Thursday announced sweeping plans to tighten immigration rules, including a suspension on migration from “Third World Countries” and cancellation of all federal benefits and subsidies to “noncitizens” in the country.  Read more: cnb.cx/4rr2E2K <a href="https://bsky.app/profile/cnbc.com/post/3m6p3s5neau2r" target="_blank">cnbc.com</a> (2025-11-28 23:28:08)</span><span style="padding-right:50px;">#UPDATE Hong Kong's anti-corruption watchdog said it arrested eight people on Friday in connection with a housing estate fire that killed at least 128 people, the world's deadliest building blaze since 1980 ➡️ u.afp.com/ShhK <a href="https://bsky.app/profile/en.afp.com/post/3m6p3ranocs2l" target="_blank">en.afp.com</a> (2025-11-28 23:27:37)</span><span style="padding-right:50px;">President Trump pledged to “permanently pause migration” from certain countries in social media posts, hours after announcing one of the National Guard members shot near the White House had died of her injuries. <a href="https://bsky.app/profile/washingtonpost.com/post/3m6p3osrm762i" target="_blank">washingtonpost.com</a> (2025-11-28 23:26:16)</span><span style="padding-right:50px;">Exclusive: Amazon, Flipkart take aim at India's banks with new consumer loan offerings reut.rs/4ireQMU <a href="https://bsky.app/profile/reuters.com/post/3m6p3mu64mr22" target="_blank">reuters.com</a> (2025-11-28 23:25:10)</span><span style="padding-right:50px;">President Trump claimed there were “a lot of problems with Afghans,” without providing evidence, as his administration announced that it was implementing new immigration guidelines in the wake of the shooting of two National Guard members. <a href="https://bsky.app/profile/nytimes.com/post/3m6p3mpfrb424" target="_blank">nytimes.com</a> (2025-11-28 23:25:05)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50253.91 (🔺34.95 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 155.98 (🔻0.29 : 2025-11-28)</span>
+<span style="padding-right:50px;">NIKKEI: 50253.91 (🔺34.95 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47476.86 (🔻5.39 : 2025-11-28)</span><span style="padding-right:50px;">^IXIC: Error</span><span style="padding-right:50px;">NVIDIA: 179.00 (🔺0.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.28 (🔺0.01 : 2025-11-28)</span>
   </div>
 </div>
 
@@ -32,110 +32,94 @@
 
 ## News Headlines
 
-1. デルタ航空機、羽田に緊急着陸 - 油圧系統トラブル
-2. JR阪和線で人身事故 - 一部区間で運転見合わせ
-3. 東京高裁、同性婚認めないのは合憲と判断 - 専門家が司法の役割放棄と批判
-4. 香港アパート火災、死者128人に - 約200人不明
-5. ウクライナ大統領府長官の自宅を捜索 - 汚職疑惑で
-6. 米国株先物取引停止 - シカゴ・マーカンタイル取引所で技術的問題
+1. トランプ大統領、移民規制を強化へ 「第三世界からの移民停止」など
+2. 香港の高層住宅火災、死者128人に 過去最悪の火災か
+3. アマゾンとフリップカート、インドで消費者ローン市場に参入
+4. インドネシアの洪水と地滑り、死者174人に増加 行方不明者多数
+5. スペイン、30年ぶりに豚熱発生 中国への輸出に影響か
+6. 東京高裁、同性婚認めないのは合憲判決
 
 ----
 
-@sokuho.news
+@cnbc.com
 
-🛎️ANNより【速報】です。
+U.S. President Donald Trump on Thursday announced sweeping plans to tighten immigration rules, including a suspension on migration from “Third World Countries” and cancellation of all federal benefits and subsidies to “noncitizens” in the country.
 
-【速報】デルタ航空の機体が羽田空港に緊急着陸 油圧系統のトラブルで
-(2025-11-28 22:13:21) #ニュース
+Read more: cnb.cx/4rr2E2K
 
-[2025-11-28 23:09:14](https://bsky.app/profile/sokuho.news/post/3m6p2qeagro24)
-
----
-
-@reuters.com
-
-India posts fastest growth in six quarters, cushions against trade strains reut.rs/48nZ5BA
-
-[2025-11-28 23:05:09](https://bsky.app/profile/reuters.com/post/3m6p2j2imso2i)
+[2025-11-28 23:28:08](https://bsky.app/profile/cnbc.com/post/3m6p3s5neau2r)
 
 ---
 
-@reuters.com
+@en.afp.com
 
-Exclusive: There have been several failures related to Anduril's Altius and Ghost drones, either in tests or in Ukraine reut.rs/3XFSBtb
+#UPDATE Hong Kong's anti-corruption watchdog said it arrested eight people on Friday in connection with a housing estate fire that killed at least 128 people, the world's deadliest building blaze since 1980 ➡️ u.afp.com/ShhK
 
-[2025-11-28 23:02:03](https://bsky.app/profile/reuters.com/post/3m6p2diwbxk2t)
-
----
-
-@nikkei.com
-
-「同性婚認めないのは合憲」東京高裁判決　専門家の見方
-www.nikkei.com/article/DGXZQO...
-
-■早稲田大学の棚村政行名誉教授
-同性婚の法制化について国会に丸投げした。人権を守る最後のとりでとしての司法の役割を放棄したと言わざるを得ない。
-
-■立教大学の白水隆教授
-最高裁は今後、結論はどうであれ、同性婚を認めない規定に対する司法の考えを実体論に踏み込んで明らかにし、司法のあるべき姿を示してほしい。
-
-[2025-11-28 23:01:02](https://bsky.app/profile/nikkei.com/post/3m6p2bpjydi2j)
-
----
-
-@reuters.com
-
-Google ditches EU antitrust complaint about Microsoft cloud amid EU probe reut.rs/4p5skQL
-
-[2025-11-28 23:00:54](https://bsky.app/profile/reuters.com/post/3m6p2bhopft2d)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】JR阪和線で人身事故 天王寺～和歌山駅間で運転見合わせ
-(2025-11-28 22:20) #ニュース
-
-🚃鉄道運行情報
-🔗https://transit.yahoo.co.jp/diainfo
-
-[2025-11-28 23:00:49](https://bsky.app/profile/sokuho.news/post/3m6p2bd7sd224)
-
----
-
-@usatoday.com
-
-Here's a breakdown of how the "Stranger Things" characters' and actors' ages differ in Season 5, including Holly Wheeler, Will Byers, and Eleven.
-
-[2025-11-28 23:00:48](https://bsky.app/profile/usatoday.com/post/3m6p2bbma622u)
+[2025-11-28 23:27:37](https://bsky.app/profile/en.afp.com/post/3m6p3ranocs2l)
 
 ---
 
 @washingtonpost.com
 
-Doctors currently recommend lung cancer screenings for people age 50 to 80 who have a history of heavy smoking.
+President Trump pledged to “permanently pause migration” from certain countries in social media posts, hours after announcing one of the National Guard members shot near the White House had died of her injuries.
 
-But those guidelines exclude those who could otherwise have their cancer detected earlier, a new study says. 
-
-[2025-11-28 23:00:42](https://bsky.app/profile/washingtonpost.com/post/3m6p2b4fczf2f)
+[2025-11-28 23:26:16](https://bsky.app/profile/washingtonpost.com/post/3m6p3osrm762i)
 
 ---
 
-@apnews.com
+@reuters.com
 
-Trading in futures for the Dow Jones Industrial Average, S&P 500 and Nasdaq have been halted due to a technical issue at the Chicago Mercantile Exchange.
+Exclusive: Amazon, Flipkart take aim at India's banks with new consumer loan offerings reut.rs/4ireQMU
 
-[2025-11-28 23:00:36](https://bsky.app/profile/apnews.com/post/3m6p2awsice2f)
+[2025-11-28 23:25:10](https://bsky.app/profile/reuters.com/post/3m6p3mu64mr22)
 
 ---
 
-@nbcnews.com
+@nytimes.com
 
-The son of famed singer-songwriter Jackson Browne was “found unresponsive in his home” and has died, the Rock & Roll Hall of Fame performer discloses.
+President Trump claimed there were “a lot of problems with Afghans,” without providing evidence, as his administration announced that it was implementing new immigration guidelines in the wake of the shooting of two National Guard members.
 
-[2025-11-28 23:00:13](https://bsky.app/profile/nbcnews.com/post/3m6p2aanvzg2j)
+[2025-11-28 23:25:05](https://bsky.app/profile/nytimes.com/post/3m6p3mpfrb424)
+
+---
+
+@cnbc.com
+
+Bitcoin set to rally back to $100,000, BTIG says
+
+[2025-11-28 23:24:17](https://bsky.app/profile/cnbc.com/post/3m6p3lbxwca2a)
+
+---
+
+@financialtimes.com
+
+ Ukraine’s Catch-22 moment on.ft.com/49L5CZx  | opinion
+
+[2025-11-28 23:21:33](https://bsky.app/profile/financialtimes.com/post/3m6p3gesxlh2n)
+
+---
+
+@yahoofinance.com
+
+Oil prices expected to fall in 2026 as Wall Street sees 'punishing oversupply' risking return to COVID levels
+
+[2025-11-28 23:21:07](https://bsky.app/profile/yahoofinance.com/post/3m6p3fmhckr2m)
+
+---
+
+@wsj.com
+
+Trading of futures and options on exchanges operated by CME Group were hit by a data-center problem.
+
+[2025-11-28 23:15:34](https://bsky.app/profile/wsj.com/post/3m6p33oofnd2l)
+
+---
+
+@reuters.com
+
+Europe, North America face early wave of bird flu cases reut.rs/486lwfT
+
+[2025-11-28 23:15:14](https://bsky.app/profile/reuters.com/post/3m6p3342bg426)
 
 ---
 
