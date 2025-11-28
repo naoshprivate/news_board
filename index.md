@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The death toll from a fire in a Hong Kong residential complex has risen to 128 after more bodies were found in the blackened towers, authorities said. The search for victims was continuing and the numbers could still rise, an official added. <a href="https://bsky.app/profile/apnews.com/post/3m6oeetpr5h2j" target="_blank">apnews.com</a> (2025-11-28 16:29:05)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】香港の高層マンション火災 死者128人に 死者はさらに増える可能性 香港当局 (2025年11月28日 16:27) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6oebrjm2k2p" target="_blank">sokuho.news</a> (2025-11-28 16:27:22)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】死者128人に 香港・高層マンション火災 現地当局が発表 (2025-11-28 16:24:34) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6oe7spesq2y" target="_blank">sokuho.news</a> (2025-11-28 16:26:16)</span><span style="padding-right:50px;">StoneX bets on India with new metals desk, tech push reut.rs/4rHfdHx <a href="https://bsky.app/profile/reuters.com/post/3m6oe5stdsx2y" target="_blank">reuters.com</a> (2025-11-28 16:25:09)</span><span style="padding-right:50px;">フィギュア女子 中井亜美 GPファイナルへ「自分の演技に集中」 https://news.web.nhk/newsweb/na/na-k10014989021000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6oe46l2kg24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-28 16:24:13)</span>
+<span style="padding-right:50px;">JUST IN: The number of people killed in Hong Kong’s devastating apartment complex fire has risen to 128. Officials warn that the number could rise. https://cnn.it/4pAjg6s <a href="https://bsky.app/profile/cnn.com/post/3m6ofhl6jla2i" target="_blank">cnn.com</a> (2025-11-28 16:48:30)</span><span style="padding-right:50px;">How does the Hong Kong tower fire compare to other recent building blazes? reut.rs/48r9AUY <a href="https://bsky.app/profile/reuters.com/post/3m6ofbncr5i27" target="_blank">reuters.com</a> (2025-11-28 16:45:11)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】旧統一教会の名称変更めぐる行政文書の非開示 判決は「一部の不開示決定を取り消し」大阪地裁 (2025-11-28 16:41:44) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6of7b5v5q2e" target="_blank">sokuho.news</a> (2025-11-28 16:43:52)</span><span style="padding-right:50px;">BREAKING The world's top wildlife trade organisation increased protections on Friday for more than 70 species of sharks and rays.  The upgraded protections are "a historical win for sharks," Barbara Slee, senior programme manager at the International Fund for Animal Welfare, told AFP <a href="https://bsky.app/profile/en.afp.com/post/3m6of4r23i22c" target="_blank">en.afp.com</a> (2025-11-28 16:42:28)</span><span style="padding-right:50px;">CNBC Daily Open: November hasn't been kind — or typical — for U.S. stocks <a href="https://bsky.app/profile/cnbc.com/post/3m6of4k2mkc2s" target="_blank">cnbc.com</a> (2025-11-28 16:42:20)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50253.91 (🔺34.95 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.37 (🔺0.10 : 2025-11-28)</span>
+<span style="padding-right:50px;">NIKKEI: 50253.91 (🔺34.95 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.38 (🔺0.11 : 2025-11-28)</span>
   </div>
 </div>
 
@@ -30,24 +30,21 @@
 
 ---
 
-## [2025-11-28 16:30 updated](2025_11_28.md)
+## [2025-11-28 16:50 updated](2025_11_28.md)
 
-@apnews.com
+@cnn.com
 
-The death toll from a fire in a Hong Kong residential complex has risen to 128 after more bodies were found in the blackened towers, authorities said. The search for victims was continuing and the numbers could still rise, an official added.
+<strong><span style="color: red;">JUST IN:</span> The number of people killed in Hong Kong’s devastating apartment complex fire has risen to 128. Officials warn that the number could rise. https://cnn.it/4pAjg6s</strong>
 
-[2025-11-28 16:29:05](https://bsky.app/profile/apnews.com/post/3m6oeetpr5h2j)
+[2025-11-28 16:48:30](https://bsky.app/profile/cnn.com/post/3m6ofhl6jla2i)
 
 ---
 
-@sokuho.news
+@reuters.com
 
-🔔ANNより【速報】です。
+How does the Hong Kong tower fire compare to other recent building blazes? reut.rs/48r9AUY
 
-【速報】香港の高層マンション火災 死者128人に 死者はさらに増える可能性 香港当局
-(2025年11月28日 16:27) #ニュース
-
-[2025-11-28 16:27:22](https://bsky.app/profile/sokuho.news/post/3m6oebrjm2k2p)
+[2025-11-28 16:45:11](https://bsky.app/profile/reuters.com/post/3m6ofbncr5i27)
 
 ---
 
@@ -55,73 +52,69 @@ The death toll from a fire in a Hong Kong residential complex has risen to 128 a
 
 🛎️JNNより【速報】です。
 
-【速報】死者128人に 香港・高層マンション火災 現地当局が発表
-(2025-11-28 16:24:34) #ニュース
+【速報】旧統一教会の名称変更めぐる行政文書の非開示 判決は「一部の不開示決定を取り消し」大阪地裁
+(2025-11-28 16:41:44) #ニュース
 
-[2025-11-28 16:26:16](https://bsky.app/profile/sokuho.news/post/3m6oe7spesq2y)
-
----
-
-@reuters.com
-
-StoneX bets on India with new metals desk, tech push reut.rs/4rHfdHx
-
-[2025-11-28 16:25:09](https://bsky.app/profile/reuters.com/post/3m6oe5stdsx2y)
+[2025-11-28 16:43:52](https://bsky.app/profile/sokuho.news/post/3m6of7b5v5q2e)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@en.afp.com
 
-フィギュア女子 中井亜美 GPファイナルへ「自分の演技に集中」
-https://news.web.nhk/newsweb/na/na-k10014989021000
+BREAKING The world's top wildlife trade organisation increased protections on Friday for more than 70 species of sharks and rays.
 
-[2025-11-28 16:24:13](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6oe46l2kg24)
+The upgraded protections are "a historical win for sharks," Barbara Slee, senior programme manager at the International Fund for Animal Welfare, told AFP
 
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】香港高層住宅火災の死者128人に…200人と連絡取れず79人がケガ<br />
-(2025-11-28 16:24) #ニュース
-
-[2025-11-28 16:24:10](https://bsky.app/profile/sokuho.news/post/3m6oe42es5f2m)
+[2025-11-28 16:42:28](https://bsky.app/profile/en.afp.com/post/3m6of4r23i22c)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@cnbc.com
 
-補正予算案 物価高対応など中心に一般会計約18兆3000億円に
-https://news.web.nhk/newsweb/na/na-k10014988911000
+CNBC Daily Open: November hasn't been kind — or typical — for U.S. stocks
 
-[2025-11-28 16:24:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6oe425w3m26)
-
----
-
-@nhknewsunofficial.bsky.social
-
-与党会派 衆議院で過半数に 無所属3人が自民党の会派入りで
-https://news.web.nhk/newsweb/na/na-k10014989011000
-
-[2025-11-28 16:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6oe3vjnyn2b)
+[2025-11-28 16:42:20](https://bsky.app/profile/cnbc.com/post/3m6of4k2mkc2s)
 
 ---
 
 @bbcnews-world-rss.bsky.social
 
-What we know about shooting of National Guard in Washington DC
+Trump says US will 'permanently pause migration' from 'third world countries'
 
-[2025-11-28 16:23:09](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6oe2beuvv2m)
+[2025-11-28 16:42:09](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6of4a3ywl2y)
+
+---
+
+@reuters.com
+
+German retail sales falls unexpectedly in October reut.rs/49KsXe2
+
+[2025-11-28 16:40:10](https://bsky.app/profile/reuters.com/post/3m6oeynshpz2k)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-香港 高層住宅火災 128人死亡確認 約200人連絡取れず 香港政府
-https://news.web.nhk/newsweb/na/na-k10014988441000
+麻薬取締法違反疑いで逮捕の大相撲元力士を不起訴に 東京地検
+https://news.web.nhk/newsweb/na/na-k10014989051000
 
-[2025-11-28 16:18:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6odr6h4hx2u)
+[2025-11-28 16:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6oerdy3i32k)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Nigeria's security crises: A guide to the different groups causing chaos 
+
+[2025-11-28 16:35:29](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6oeqcqqe62d)
+
+---
+
+@reuters.com
+
+German import prices, retail sales fall in October reut.rs/4ajEJMv
+
+[2025-11-28 16:35:09](https://bsky.app/profile/reuters.com/post/3m6oepp7msz2w)
 
 ---
 
