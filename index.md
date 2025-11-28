@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Hong Kong tower blocks fire death toll rises to 128 <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6ooezgveb2q" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-11-28 19:28:04)</span><span style="padding-right:50px;">Merz to ask EU to drop hard cut-off for combustion cars from 2035 reut.rs/4rxdO6f <a href="https://bsky.app/profile/reuters.com/post/3m6oo7o3tt22o" target="_blank">reuters.com</a> (2025-11-28 19:25:09)</span><span style="padding-right:50px;">環境省 クマ対策 今年度補正予算案に約34億円計上 https://news.web.nhk/newsweb/na/na-k10014989221000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6oo5qfmrf23" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-28 19:24:02)</span><span style="padding-right:50px;">Labour will not tax state pension for those with no other earnings on.ft.com/49KrfZZ <a href="https://bsky.app/profile/financialtimes.com/post/3m6onxtiqrq26" target="_blank">financialtimes.com</a> (2025-11-28 19:20:46)</span><span style="padding-right:50px;">A Visual Chronicle of the Year’s Most Memorable Moments <a href="https://bsky.app/profile/reuters.com/post/3m6onnt5jgk2o" target="_blank">reuters.com</a> (2025-11-28 19:15:10)</span>
+<span style="padding-right:50px;">Authorities are searching for clues to why a man shot two West Virginia National Guard members serving in Washington, D.C., on Wednesday. <a href="https://bsky.app/profile/wsj.com/post/3m6ophxjtee2i" target="_blank">wsj.com</a> (2025-11-28 19:47:41)</span><span style="padding-right:50px;">China's Baidu starts layoffs after reporting third-quarter loss - sources reut.rs/4ivNmWy <a href="https://bsky.app/profile/reuters.com/post/3m6opdr7kz422" target="_blank">reuters.com</a> (2025-11-28 19:45:20)</span><span style="padding-right:50px;">Ten killed in deadliest Israeli raid for months in southern Syria <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6opdgtb3l2p" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-11-28 19:45:08)</span><span style="padding-right:50px;">Hong Kong's deadliest fire in decades followed a year of safety complaints reut.rs/4okpN44 <a href="https://bsky.app/profile/reuters.com/post/3m6op2qvgub27" target="_blank">reuters.com</a> (2025-11-28 19:40:18)</span><span style="padding-right:50px;">泊原発再稼働､北海道知事が「現実的選択」－電力需要増に対応 <a href="https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6ooskyurd26" target="_blank">bloomberg-jp.bsky.social</a> (2025-11-28 19:35:43)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50253.91 (🔺34.95 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.30 (🔺0.03 : 2025-11-28)</span>
+<span style="padding-right:50px;">NIKKEI: 50253.91 (🔺34.95 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.31 (🔺0.04 : 2025-11-28)</span>
   </div>
 </div>
 
@@ -30,95 +30,92 @@
 
 ---
 
-## [2025-11-28 19:30 updated](2025_11_28.md)
+## [2025-11-28 19:50 updated](2025_11_28.md)
+
+@wsj.com
+
+Authorities are searching for clues to why a man shot two West Virginia National Guard members serving in Washington, D.C., on Wednesday.
+
+[2025-11-28 19:47:41](https://bsky.app/profile/wsj.com/post/3m6ophxjtee2i)
+
+---
+
+@reuters.com
+
+China's Baidu starts layoffs after reporting third-quarter loss - sources reut.rs/4ivNmWy
+
+[2025-11-28 19:45:20](https://bsky.app/profile/reuters.com/post/3m6opdr7kz422)
+
+---
 
 @bbcnews-world-rss.bsky.social
 
-Hong Kong tower blocks fire death toll rises to 128
+Ten killed in deadliest Israeli raid for months in southern Syria
 
-[2025-11-28 19:28:04](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6ooezgveb2q)
-
----
-
-@reuters.com
-
-Merz to ask EU to drop hard cut-off for combustion cars from 2035 reut.rs/4rxdO6f
-
-[2025-11-28 19:25:09](https://bsky.app/profile/reuters.com/post/3m6oo7o3tt22o)
-
----
-
-@nhknewsunofficial.bsky.social
-
-環境省 クマ対策 今年度補正予算案に約34億円計上
-https://news.web.nhk/newsweb/na/na-k10014989221000
-
-[2025-11-28 19:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6oo5qfmrf23)
-
----
-
-@financialtimes.com
-
-Labour will not tax state pension for those with no other earnings on.ft.com/49KrfZZ
-
-[2025-11-28 19:20:46](https://bsky.app/profile/financialtimes.com/post/3m6onxtiqrq26)
+[2025-11-28 19:45:08](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6opdgtb3l2p)
 
 ---
 
 @reuters.com
 
-A Visual Chronicle of the Year’s Most Memorable Moments
+Hong Kong's deadliest fire in decades followed a year of safety complaints reut.rs/4okpN44
 
-[2025-11-28 19:15:10](https://bsky.app/profile/reuters.com/post/3m6onnt5jgk2o)
-
----
-
-@nhknewsunofficial.bsky.social
-
-警視庁が異例の捜索 「民泊新法」違反疑いで 区にうその報告か
-https://news.web.nhk/newsweb/na/na-k10014988651000
-
-[2025-11-28 19:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6onnnhlzt2n)
+[2025-11-28 19:40:18](https://bsky.app/profile/reuters.com/post/3m6op2qvgub27)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@bloomberg-jp.bsky.social
 
-オリックス 新人選手入団会見 ドラフト1位 藤川敦也などが抱負
-https://news.web.nhk/newsweb/na/na-k10014989151000
+泊原発再稼働､北海道知事が「現実的選択」－電力需要増に対応
 
-[2025-11-28 19:12:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6onihpjjn2u)
-
----
-
-@nhknewsunofficial.bsky.social
-
-「神楽」と「温泉文化」ユネスコ無形文化遺産に提案へ 文化庁
-https://news.web.nhk/newsweb/na/na-k10014989181000
-
-[2025-11-28 19:12:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6onicd4jb2p)
+[2025-11-28 19:35:43](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6ooskyurd26)
 
 ---
 
-@sokuho.news
+@bloomberg-jp.bsky.social
 
-🛎️JNNより【速報】です。
+中国外相、台湾問題でフランスに支持要請－高市氏への圧力継続
 
-【速報】JR日豊本線の踏切内で特急「ソニック」と車が衝突 遅れや運休が発生 大分
-(2025-11-28 19:09:00) #ニュース
+[2025-11-28 19:35:39](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6oosgsgdl2w)
 
-🚃鉄道運行情報
-🔗https://transit.yahoo.co.jp/diainfo
+---
 
-[2025-11-28 19:10:30](https://bsky.app/profile/sokuho.news/post/3m6onfiehy62y)
+@bloomberg-jp.bsky.social
+
+中国外相、台湾問題でフランスに支持要請－高市氏への圧力継続
+
+[2025-11-28 19:35:22](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6oorx5evp26)
 
 ---
 
 @reuters.com
 
-Swiss economy contracts slightly in Q3 due to lower pharma exports reut.rs/4iyJxjm
+Belgium PM says using frozen Russian assets could derail Ukraine peace deal reut.rs/4rqnpeW
 
-[2025-11-28 19:10:13](https://bsky.app/profile/reuters.com/post/3m6oney2m5m2i)
+[2025-11-28 19:35:12](https://bsky.app/profile/reuters.com/post/3m6oornp43e2y)
+
+---
+
+@en.afp.com
+
+#UPDATE Days of devastating flooding across Southeast Asia have killed more than 250 people across Indonesia, Thailand and Malaysia, authorities said on Friday ➡️ u.afp.com/ShnS
+
+[2025-11-28 19:34:23](https://bsky.app/profile/en.afp.com/post/3m6ooq6ibqs22)
+
+---
+
+@nikkei.com
+
+講談社の幼児誌「げんき」休刊　1994年に創刊（無料記事）
+www.nikkei.com/article/DGXZQO...
+
+11月28日発売の2026年1月号をもって休刊。
+
+キャラクター玩具の付録などで人気を集めてきましたが、消費者の雑誌離れで部数を減らしていました。
+
+#ニュース
+
+[2025-11-28 19:30:59](https://bsky.app/profile/nikkei.com/post/3m6ook4ghtk2w)
 
 ---
 
