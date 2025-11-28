@@ -3,7 +3,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">フランス大統領 “若者中心の志願による兵役制度導入へ” https://news.web.nhk/newsweb/na/na-k10014988461000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6nq5jjkla2n" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-28 10:27:02)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】ガソリン暫定税率廃止の関連法が成立 参院本会議 全会一致で可決 (2025年11月28日 10:26) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6nq54qspk2m" target="_blank">sokuho.news</a> (2025-11-28 10:26:51)</span><span style="padding-right:50px;">ガソリン税の暫定税率廃止法 参院本会議で成立 12月31日廃止へ https://news.web.nhk/newsweb/na/na-k10014988621000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6npy536632r" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-28 10:24:02)</span><span style="padding-right:50px;">CNBC Daily Open: A rough and historically atypical November for U.S. stocks <a href="https://bsky.app/profile/cnbc.com/post/3m6npvvlotz2i" target="_blank">cnbc.com</a> (2025-11-28 10:22:49)</span><span style="padding-right:50px;">🔔NHKより【速報 JUST IN】です。  ガソリン税の暫定税率廃止法 参院本会議で成立 12月31日廃止へ (2025-11-28 10:21:35) #ニュース https://news.web.nhk/newsweb/na/na-k10014988621000 <a href="https://bsky.app/profile/sokuho.news/post/3m6npujfih22d" target="_blank">sokuho.news</a> (2025-11-28 10:22:02)</span>
+<span style="padding-right:50px;">It’s here: Our list of 100 Notable Books of 2025. www.nytimes.com/2025/11/24/b... <a href="https://bsky.app/profile/nytimes.com/post/3m6nrdezeok2i" target="_blank">nytimes.com</a> (2025-11-28 10:48:15)</span><span style="padding-right:50px;">ルーブル美術館 欧州以外から訪れる人の入館料 45％引き上げへ https://news.web.nhk/newsweb/na/na-k10014988681000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6nrd3ce5e2t" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-28 10:48:03)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】ガソリン暫定税率廃止法 参院本会議で成立 (10:44) #ニュース https://news.tv-asahi.co.jp/news_politics/articles/000469416.html?display=full <a href="https://bsky.app/profile/sokuho.news/post/3m6nr7yjtsv2w" target="_blank">sokuho.news</a> (2025-11-28 10:46:21)</span><span style="padding-right:50px;">A jaguar is released back into the wild in Novo Airao, Amazonas State, Brazil.  The jaguar was rescued from the Negro River in October after being shot in the head by illegal hunters. It underwent surgery and has made a full recovery  📸  State Secretariat for Animal Protection in the Amazonas <a href="https://bsky.app/profile/en.afp.com/post/3m6nqydlxpu2p" target="_blank">en.afp.com</a> (2025-11-28 10:42:04)</span><span style="padding-right:50px;">The high-seas cowboys who speed tons of cocaine to American consumers face the new danger of getting blown out of the water under Trump’s orders by the U.S. military. They say it won’t stop them. <a href="https://bsky.app/profile/wsj.com/post/3m6nqvtkjdz22" target="_blank">wsj.com</a> (2025-11-28 10:40:40)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50070.14 (🔻148.82 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3134.00 (🔻6.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.37 (🔺0.10 : 2025-11-28)</span>
+<span style="padding-right:50px;">NIKKEI: 50129.97 (🔻88.99 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47427.12 (🔺230.97 : 2025-11-26)</span><span style="padding-right:50px;">NASDAQ: 23214.69 (🔺51.50 : 2025-11-26)</span><span style="padding-right:50px;">NVIDIA: 180.26 (🔻1.37 : 2025-11-26)</span><span style="padding-right:50px;">トヨタ自動車: 3135.00 (🔻5.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.37 (🔺0.10 : 2025-11-28)</span>
   </div>
 </div>
 
@@ -30,14 +30,22 @@
 
 ---
 
-## [2025-11-28 10:30 updated](2025_11_28.md)
+## [2025-11-28 10:50 updated](2025_11_28.md)
+
+@nytimes.com
+
+It’s here: Our list of 100 Notable Books of 2025. www.nytimes.com/2025/11/24/b...
+
+[2025-11-28 10:48:15](https://bsky.app/profile/nytimes.com/post/3m6nrdezeok2i)
+
+---
 
 @nhknewsunofficial.bsky.social
 
-フランス大統領 “若者中心の志願による兵役制度導入へ”
-https://news.web.nhk/newsweb/na/na-k10014988461000
+ルーブル美術館 欧州以外から訪れる人の入館料 45％引き上げへ
+https://news.web.nhk/newsweb/na/na-k10014988681000
 
-[2025-11-28 10:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6nq5jjkla2n)
+[2025-11-28 10:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6nrd3ce5e2t)
 
 ---
 
@@ -45,85 +53,80 @@ https://news.web.nhk/newsweb/na/na-k10014988461000
 
 🔔ANNより【速報】です。
 
-【速報】ガソリン暫定税率廃止の関連法が成立 参院本会議 全会一致で可決
-(2025年11月28日 10:26) #ニュース
+【速報】ガソリン暫定税率廃止法 参院本会議で成立
+(10:44) #ニュース
+https://news.tv-asahi.co.jp/news_politics/articles/000469416.html?display=full
 
-[2025-11-28 10:26:51](https://bsky.app/profile/sokuho.news/post/3m6nq54qspk2m)
-
----
-
-@nhknewsunofficial.bsky.social
-
-ガソリン税の暫定税率廃止法 参院本会議で成立 12月31日廃止へ
-https://news.web.nhk/newsweb/na/na-k10014988621000
-
-[2025-11-28 10:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6npy536632r)
+[2025-11-28 10:46:21](https://bsky.app/profile/sokuho.news/post/3m6nr7yjtsv2w)
 
 ---
 
-@cnbc.com
+@en.afp.com
 
-CNBC Daily Open: A rough and historically atypical November for U.S. stocks
+A jaguar is released back into the wild in Novo Airao, Amazonas State, Brazil.
 
-[2025-11-28 10:22:49](https://bsky.app/profile/cnbc.com/post/3m6npvvlotz2i)
+The jaguar was rescued from the Negro River in October after being shot in the head by illegal hunters. It underwent surgery and has made a full recovery
 
----
+📸  State Secretariat for Animal Protection in the Amazonas
 
-@sokuho.news
-
-<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>ガソリン税の暫定税率廃止法 参院本会議で成立 12月31日廃止へ</strong><br><strong>(2025-11-28 10:21:35) #ニュース</strong><br><strong>https://news.web.nhk/newsweb/na/na-k10014988621000</strong>
-
-[2025-11-28 10:22:02](https://bsky.app/profile/sokuho.news/post/3m6npujfih22d)
+[2025-11-28 10:42:04](https://bsky.app/profile/en.afp.com/post/3m6nqydlxpu2p)
 
 ---
 
-@sokuho.news
+@wsj.com
 
-🛎️JNNより【速報】です。
+The high-seas cowboys who speed tons of cocaine to American consumers face the new danger of getting blown out of the water under Trump’s orders by the U.S. military. They say it won’t stop them.
 
-【速報】ガソリンの暫定税率廃止法が成立
-(2025-11-28 10:19:36) #ニュース
-
-[2025-11-28 10:21:35](https://bsky.app/profile/sokuho.news/post/3m6nptp7zkd2w)
-
----
-
-@nhknewsunofficial.bsky.social
-
-ダイハツのSNS業務請け負った会社の元社員ら2人逮捕 詐欺容疑
-https://news.web.nhk/newsweb/na/na-k10014988611000
-
-[2025-11-28 10:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6npsrt5eb2b)
+[2025-11-28 10:40:40](https://bsky.app/profile/wsj.com/post/3m6nqvtkjdz22)
 
 ---
 
 @reuters.com
 
-Ogier ahead of Evans in title chase as Fourmaux leads in Saudi reut.rs/486hO63
+Moldovan Parliament votes to close Russian cultural centre reut.rs/48mSNlI
 
-[2025-11-28 10:20:20](https://bsky.app/profile/reuters.com/post/3m6nprhguj72i)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】熊本市電で「全国交通系IC」“継続”を表明 大西市長
-(2025-11-28 10:13:00) #ニュース
-
-[2025-11-28 10:19:39](https://bsky.app/profile/sokuho.news/post/3m6npqaku7k2h)
+[2025-11-28 10:40:12](https://bsky.app/profile/reuters.com/post/3m6nquyyn6w2r)
 
 ---
 
-@sokuho.news
+@nhknewsunofficial.bsky.social
 
-🛎️NNNより【速報】です。
+ローマ教皇 初の外遊先トルコを訪問「人類の未来が危機に」
+https://news.web.nhk/newsweb/na/na-k10014988451000
 
-【速報】住民側の訴え退ける 原発運転差し止め仮処分 名古屋高裁金沢支部 美浜3号機、高浜1～4号機
-(2025-11-28 10:19) #ニュース
+[2025-11-28 10:33:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6nqifcenk2b)
 
-[2025-11-28 10:19:34](https://bsky.app/profile/sokuho.news/post/3m6npq46unq24)
+---
+
+@nhknewsunofficial.bsky.social
+
+高市首相動静 2025年11月27日
+https://news.web.nhk/newsweb/na/na-k10014988601000
+
+[2025-11-28 10:33:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6nqiau4vb2n)
+
+---
+
+@cnn.com
+
+The US will reexamine all green cards issued to people from 19 countries “of concern” at President Donald Trump’s direction, as the Trump administration intensifies its immigration crackdown following the shooting of two National Guard members in Washington, DC.
+
+
+
+[2025-11-28 10:31:01](https://bsky.app/profile/cnn.com/post/3m6nqelb3ut2q)
+
+---
+
+@nikkei.com
+
+10億超の鳴き声分析、ネコ語を翻訳するAIアプリの実力は
+www.nikkei.com/article/DGXZQO...
+
+（2024年12月 読まれた記事）
+
+#猫と人の日
+
+[2025-11-28 10:30:59](https://bsky.app/profile/nikkei.com/post/3m6nqejeezs2l)
 
 ---
 
