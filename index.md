@@ -1,9 +1,9 @@
-# [2025-11-28 23:30 updated](2025_11_28.md)
+# [2025-11-28 23:50 updated](2025_11_28.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">U.S. President Donald Trump on Thursday announced sweeping plans to tighten immigration rules, including a suspension on migration from “Third World Countries” and cancellation of all federal benefits and subsidies to “noncitizens” in the country.  Read more: cnb.cx/4rr2E2K <a href="https://bsky.app/profile/cnbc.com/post/3m6p3s5neau2r" target="_blank">cnbc.com</a> (2025-11-28 23:28:08)</span><span style="padding-right:50px;">#UPDATE Hong Kong's anti-corruption watchdog said it arrested eight people on Friday in connection with a housing estate fire that killed at least 128 people, the world's deadliest building blaze since 1980 ➡️ u.afp.com/ShhK <a href="https://bsky.app/profile/en.afp.com/post/3m6p3ranocs2l" target="_blank">en.afp.com</a> (2025-11-28 23:27:37)</span><span style="padding-right:50px;">President Trump pledged to “permanently pause migration” from certain countries in social media posts, hours after announcing one of the National Guard members shot near the White House had died of her injuries. <a href="https://bsky.app/profile/washingtonpost.com/post/3m6p3osrm762i" target="_blank">washingtonpost.com</a> (2025-11-28 23:26:16)</span><span style="padding-right:50px;">Exclusive: Amazon, Flipkart take aim at India's banks with new consumer loan offerings reut.rs/4ireQMU <a href="https://bsky.app/profile/reuters.com/post/3m6p3mu64mr22" target="_blank">reuters.com</a> (2025-11-28 23:25:10)</span><span style="padding-right:50px;">President Trump claimed there were “a lot of problems with Afghans,” without providing evidence, as his administration announced that it was implementing new immigration guidelines in the wake of the shooting of two National Guard members. <a href="https://bsky.app/profile/nytimes.com/post/3m6p3mpfrb424" target="_blank">nytimes.com</a> (2025-11-28 23:25:05)</span>
+<span style="padding-right:50px;">US Commerce Department pushed for control of Swiss investment in trade talks, sources say reut.rs/4rrA7Kp <a href="https://bsky.app/profile/reuters.com/post/3m6p4qp7fgo2d" target="_blank">reuters.com</a> (2025-11-28 23:45:13)</span><span style="padding-right:50px;">China's BYD recalls 88,981 plug-in hybrids over battery safety hazard reut.rs/48vrbv4 <a href="https://bsky.app/profile/reuters.com/post/3m6p4hx32gj2w" target="_blank">reuters.com</a> (2025-11-28 23:40:19)</span><span style="padding-right:50px;">日中緊張、日本のGDP成長率を0.2ポイント押し下げ－ゴールドマン試算 <a href="https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6p4cwydsz2r" target="_blank">bloomberg-jp.bsky.social</a> (2025-11-28 23:37:31)</span><span style="padding-right:50px;">スイス議員、企業幹部によるトランプ氏への贈答品めぐり刑事告発 <a href="https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6p4cswj3c2c" target="_blank">bloomberg-jp.bsky.social</a> (2025-11-28 23:37:27)</span><span style="padding-right:50px;">Hungary's Orban defies EU partners and meets Putin again in Moscow <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6p4amsdr52w" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-11-28 23:36:13)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50253.91 (🔺34.95 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47476.86 (🔻5.39 : 2025-11-28)</span><span style="padding-right:50px;">^IXIC: Error</span><span style="padding-right:50px;">NVIDIA: 179.00 (🔺0.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.28 (🔺0.01 : 2025-11-28)</span>
+<span style="padding-right:50px;">NIKKEI: 50253.91 (🔺34.95 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47558.08 (🔺75.83 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23302.93 (🔺11.34 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 178.67 (🔻0.32 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.33 (🔺0.06 : 2025-11-28)</span>
   </div>
 </div>
 
@@ -32,94 +32,92 @@
 
 ## News Headlines
 
-1. トランプ大統領、移民規制を強化へ 「第三世界からの移民停止」など
-2. 香港の高層住宅火災、死者128人に 過去最悪の火災か
-3. アマゾンとフリップカート、インドで消費者ローン市場に参入
-4. インドネシアの洪水と地滑り、死者174人に増加 行方不明者多数
-5. スペイン、30年ぶりに豚熱発生 中国への輸出に影響か
-6. 東京高裁、同性婚認めないのは合憲判決
+1. 米商務省、貿易交渉でスイス投資の管理を要求か
+2. 中国BYD、バッテリー安全上の危険でプラグインハイブリッド車8万8981台をリコール
+3. トランプ氏、新たな移民規制を発表 「第三世界諸国」からの移民停止など
+4. 香港で高層住宅火災、128人死亡　1980年以降で世界最悪の建物火災
+5. スペイン、30年ぶりに豚コレラ発生　中国への輸出に影響か
+6. インドネシア・スマトラ島で洪水と地滑り、死者174人に増加
 
 ----
 
-@cnbc.com
+@reuters.com
 
-U.S. President Donald Trump on Thursday announced sweeping plans to tighten immigration rules, including a suspension on migration from “Third World Countries” and cancellation of all federal benefits and subsidies to “noncitizens” in the country.
+US Commerce Department pushed for control of Swiss investment in trade talks, sources say reut.rs/4rrA7Kp
 
-Read more: cnb.cx/4rr2E2K
-
-[2025-11-28 23:28:08](https://bsky.app/profile/cnbc.com/post/3m6p3s5neau2r)
-
----
-
-@en.afp.com
-
-#UPDATE Hong Kong's anti-corruption watchdog said it arrested eight people on Friday in connection with a housing estate fire that killed at least 128 people, the world's deadliest building blaze since 1980 ➡️ u.afp.com/ShhK
-
-[2025-11-28 23:27:37](https://bsky.app/profile/en.afp.com/post/3m6p3ranocs2l)
-
----
-
-@washingtonpost.com
-
-President Trump pledged to “permanently pause migration” from certain countries in social media posts, hours after announcing one of the National Guard members shot near the White House had died of her injuries.
-
-[2025-11-28 23:26:16](https://bsky.app/profile/washingtonpost.com/post/3m6p3osrm762i)
+[2025-11-28 23:45:13](https://bsky.app/profile/reuters.com/post/3m6p4qp7fgo2d)
 
 ---
 
 @reuters.com
 
-Exclusive: Amazon, Flipkart take aim at India's banks with new consumer loan offerings reut.rs/4ireQMU
+China's BYD recalls 88,981 plug-in hybrids over battery safety hazard reut.rs/48vrbv4
 
-[2025-11-28 23:25:10](https://bsky.app/profile/reuters.com/post/3m6p3mu64mr22)
-
----
-
-@nytimes.com
-
-President Trump claimed there were “a lot of problems with Afghans,” without providing evidence, as his administration announced that it was implementing new immigration guidelines in the wake of the shooting of two National Guard members.
-
-[2025-11-28 23:25:05](https://bsky.app/profile/nytimes.com/post/3m6p3mpfrb424)
+[2025-11-28 23:40:19](https://bsky.app/profile/reuters.com/post/3m6p4hx32gj2w)
 
 ---
 
-@cnbc.com
+@bloomberg-jp.bsky.social
 
-Bitcoin set to rally back to $100,000, BTIG says
+日中緊張、日本のGDP成長率を0.2ポイント押し下げ－ゴールドマン試算
 
-[2025-11-28 23:24:17](https://bsky.app/profile/cnbc.com/post/3m6p3lbxwca2a)
-
----
-
-@financialtimes.com
-
- Ukraine’s Catch-22 moment on.ft.com/49L5CZx  | opinion
-
-[2025-11-28 23:21:33](https://bsky.app/profile/financialtimes.com/post/3m6p3gesxlh2n)
+[2025-11-28 23:37:31](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6p4cwydsz2r)
 
 ---
 
-@yahoofinance.com
+@bloomberg-jp.bsky.social
 
-Oil prices expected to fall in 2026 as Wall Street sees 'punishing oversupply' risking return to COVID levels
+スイス議員、企業幹部によるトランプ氏への贈答品めぐり刑事告発
 
-[2025-11-28 23:21:07](https://bsky.app/profile/yahoofinance.com/post/3m6p3fmhckr2m)
+[2025-11-28 23:37:27](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6p4cswj3c2c)
 
 ---
 
-@wsj.com
+@bbcnews-world-rss.bsky.social
 
-Trading of futures and options on exchanges operated by CME Group were hit by a data-center problem.
+Hungary's Orban defies EU partners and meets Putin again in Moscow
 
-[2025-11-28 23:15:34](https://bsky.app/profile/wsj.com/post/3m6p33oofnd2l)
+[2025-11-28 23:36:13](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6p4amsdr52w)
 
 ---
 
 @reuters.com
 
-Europe, North America face early wave of bird flu cases reut.rs/486lwfT
+Crypto hoarding company shares under pressure as risk appetite wanes reut.rs/4rregCM
 
-[2025-11-28 23:15:14](https://bsky.app/profile/reuters.com/post/3m6p3342bg426)
+[2025-11-28 23:35:09](https://bsky.app/profile/reuters.com/post/3m6p46pyhpc2i)
+
+---
+
+@usatoday.com
+
+Many Americans say this 'no interest' financing plan should be illegal
+
+[2025-11-28 23:30:38](https://bsky.app/profile/usatoday.com/post/3m6p3wmrug426)
+
+---
+
+@bloomberg.com
+
+Watch groups are on the alert for anything out of the ordinary in the official US government data
+
+[2025-11-28 23:30:16](https://bsky.app/profile/bloomberg.com/post/3m6p3vxwfmx2s)
+
+---
+
+@aljazeera.com
+
+Ukrainian president's chief of staff Andriy Yermak confirms search, saying he has offered 'full cooperation'.
+
+[2025-11-28 23:30:14](https://bsky.app/profile/aljazeera.com/post/3m6p3vw42332c)
+
+---
+
+@cbsnews.com
+
+U.S. Attorney Jeanine Pirro announced on Friday morning that National Guard shooting suspect Rahmanullah Lakanwal would be charged with murder in the first degree following Army Spc. Sarah Beckstrom's death. 
+
+[2025-11-28 23:30:01](https://bsky.app/profile/cbsnews.com/post/3m6p3vjq3lf2u)
 
 ---
 
