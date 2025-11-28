@@ -1,9 +1,9 @@
-# [2025-11-29 07:30 updated](2025_11_29.md)
+# [2025-11-29 07:50 updated](2025_11_29.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】全日空33便が欠航 エアバス社機体のシステム更新で (07:27) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6pwmp2hci2p" target="_blank">sokuho.news</a> (2025-11-29 07:28:16)</span><span style="padding-right:50px;">スキージャンプ女子 W杯個人第3戦で丸山希が優勝 開幕3連勝 https://news.web.nhk/newsweb/na/na-k10014989531000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6pwklh3d62b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-29 07:27:03)</span><span style="padding-right:50px;">Rubio plans to skip NATO meeting at key moment for Ukraine, sources say reut.rs/3XXLNa8 <a href="https://bsky.app/profile/reuters.com/post/3m6pwh63qir2a" target="_blank">reuters.com</a> (2025-11-29 07:25:10)</span><span style="padding-right:50px;">Violence against healthcare facilities and workers is an increasingly reported tactic in modern warfare. Read Reuters’ investigation into paramilitary attacks that dismantled a Sudanese city’s healthcare system reut.rs/4pDdzEW <a href="https://bsky.app/profile/reuters.com/post/3m6pvypqovs2t" target="_blank">reuters.com</a> (2025-11-29 07:17:05)</span><span style="padding-right:50px;">Airbus A320 repairs must be before next flight, bulletin shows reut.rs/4rsqawk <a href="https://bsky.app/profile/reuters.com/post/3m6pvvikru52k" target="_blank">reuters.com</a> (2025-11-29 07:15:17)</span>
+<span style="padding-right:50px;">American Airlines says Airbus software issue to impact 340 aircraft reut.rs/4orwOjv <a href="https://bsky.app/profile/reuters.com/post/3m6pxl24q3j2k" target="_blank">reuters.com</a> (2025-11-29 07:45:14)</span><span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像7🈡 (2025-11-29 07:42:02) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m6pxfvbvxx26" target="_blank">sokuho.news</a> (2025-11-29 07:42:21)</span><span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像4 (2025-11-29 07:41:32) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m6pxfb2mva2q" target="_blank">sokuho.news</a> (2025-11-29 07:42:00)</span><span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像3 (2025-11-29 07:41:22) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m6pxelizqg24" target="_blank">sokuho.news</a> (2025-11-29 07:41:37)</span><span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください 🔗http://www.kmoni.bosai.go.jp/  🔶防災科研/強震モニタ/予測震度画像1 (2025-11-29 07:41:13) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m6pxe2zium2h" target="_blank">sokuho.news</a> (2025-11-29 07:41:20)</span>
   </div>
 </div>
 
@@ -32,97 +32,122 @@
 
 ## News Headlines
 
-1. 全日空、エアバス機不具合で国内線33便欠航
-2. スキージャンプ丸山希、W杯開幕3連勝
-3. 米、ウクライナ支援の重要局面でNATO会議欠席か
-4. スーダン、医療施設への攻撃で医療システム崩壊
-5. 中国人観光客激減、日本で12億ドルの損失か
-6. WHO、麻疹急増でワクチン関連疾患の流行警告
+1.  緊急地震速報、各地で揺れに警戒
+2.  全日空、エアバス機不具合で国内線33便欠航
+3.  トランプ氏、オランド前ホンジュラス大統領を恩赦へ
+4.  スキージャンプ女子W杯、丸山希が開幕3連勝
+5.  ゼレンスキー大統領府長官、汚職疑惑で辞任
+6.  WHO、麻疹急増でワクチン予防疾患の流行を警告
 
 ----
 
+@reuters.com
+
+American Airlines says Airbus software issue to impact 340 aircraft reut.rs/4orwOjv
+
+[2025-11-29 07:45:14](https://bsky.app/profile/reuters.com/post/3m6pxl24q3j2k)
+
+---
+
 @sokuho.news
 
-🔔ANNより【速報】です。
+🚨地震発生中❗❗
 
-【速報】全日空33便が欠航 エアバス社機体のシステム更新で
-(07:27) #ニュース
+⚠️揺れに警戒してください
 
-[2025-11-29 07:28:16](https://bsky.app/profile/sokuho.news/post/3m6pwmp2hci2p)
+🔶防災科研/強震モニタ/予測震度画像7🈡
+(2025-11-29 07:42:02) #緊急地震速報
+
+[2025-11-29 07:42:21](https://bsky.app/profile/sokuho.news/post/3m6pxfvbvxx26)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@sokuho.news
 
-スキージャンプ女子 W杯個人第3戦で丸山希が優勝 開幕3連勝
-https://news.web.nhk/newsweb/na/na-k10014989531000
+🚨地震発生中❗❗
 
-[2025-11-29 07:27:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6pwklh3d62b)
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像4
+(2025-11-29 07:41:32) #緊急地震速報
+
+[2025-11-29 07:42:00](https://bsky.app/profile/sokuho.news/post/3m6pxfb2mva2q)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗
+
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像3
+(2025-11-29 07:41:22) #緊急地震速報
+
+[2025-11-29 07:41:37](https://bsky.app/profile/sokuho.news/post/3m6pxelizqg24)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗
+
+⚠️揺れに警戒してください
+🔗http://www.kmoni.bosai.go.jp/
+
+🔶防災科研/強震モニタ/予測震度画像1
+(2025-11-29 07:41:13) #緊急地震速報
+
+[2025-11-29 07:41:20](https://bsky.app/profile/sokuho.news/post/3m6pxe2zium2h)
+
+---
+
+@nytimes.com
+
+Our Wirecutter testers think this cheesy contraption belongs at every holiday party. Read writer Maki Yazawa's review on the medieval-looking cheese cutter that “provides boundless entertainment for my inquisitive guests." nyti.ms/4ir2S5G
+
+[2025-11-29 07:40:45](https://bsky.app/profile/nytimes.com/post/3m6pxczquvj2l)
 
 ---
 
 @reuters.com
 
-Rubio plans to skip NATO meeting at key moment for Ukraine, sources say reut.rs/3XXLNa8
+Warburg Pincus to acquire Raptor Technologies for around $1.8 billion, sources say reut.rs/4opswcu
 
-[2025-11-29 07:25:10](https://bsky.app/profile/reuters.com/post/3m6pwh63qir2a)
+[2025-11-29 07:40:18](https://bsky.app/profile/reuters.com/post/3m6pxcac3nr27)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Guinea-Bissau coup called a 'sham' by West African political figures 
+
+[2025-11-29 07:35:29](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6pwzmzy2s2e)
 
 ---
 
 @reuters.com
 
-Violence against healthcare facilities and workers is an increasingly reported tactic in modern warfare. Read Reuters’ investigation into paramilitary attacks that dismantled a Sudanese city’s healthcare system reut.rs/4pDdzEW
+Trump, Maduro spoke last week, New York Times reports reut.rs/4otl7ZV
 
-[2025-11-29 07:17:05](https://bsky.app/profile/reuters.com/post/3m6pvypqovs2t)
-
----
-
-@reuters.com
-
-Airbus A320 repairs must be before next flight, bulletin shows reut.rs/4rsqawk
-
-[2025-11-29 07:15:17](https://bsky.app/profile/reuters.com/post/3m6pvvikru52k)
+[2025-11-29 07:35:10](https://bsky.app/profile/reuters.com/post/3m6pwz2awmb2w)
 
 ---
 
-@reuters.com
+@nikkei.com
 
-Chinese tourism to Japan has taken a nosedive in recent weeks amid a diplomatic spat — an outcome that could result in Japan losing as much as $1.2 billion in tourist spending by the end of the year reut.rs/3KkUcRO
+ゼレンスキー氏最側近のイエルマーク大統領府長官、大型汚職疑惑で辞任
+www.nikkei.com/article/DGXZQO...
 
-[2025-11-29 07:13:16](https://bsky.app/profile/reuters.com/post/3m6pvrvgais23)
+ウクライナの政権ナンバー2として強い影響力を発揮してきました。
 
----
+国営原子力企業エネルゴアトムをめぐる汚職疑惑の収束が見えないことが、更迭の背景に。
 
-@reuters.com
+ゼレンスキー氏は政権運営の支柱を失い、政策決定に空白が生まれる可能性もあります。
 
-Oregon State hires Alabama co-OC JaMarcus Shephard as head coach reut.rs/4riGFLg
+#ニュース
 
-[2025-11-29 07:10:14](https://bsky.app/profile/reuters.com/post/3m6pvmhevb226)
-
----
-
-@forbes.com
-
-Trump’s approval rating has fallen among multiple polls as he nears the end of his second term’s first year.
-
-[2025-11-29 07:10:03](https://bsky.app/profile/forbes.com/post/3m6pvm5frik26)
-
----
-
-@nbcnews.com
-
-A Louisiana man who spent 27 years on death row is released on bail after his murder conviction was overturned earlier this year in the 1993 death of his girlfriend’s toddler, his lawyers says.
-
-[2025-11-29 07:09:08](https://bsky.app/profile/nbcnews.com/post/3m6pvkigxps2c)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【動画】Pickup NEWS（11月29日）
-https://news.web.nhk/newsweb/na/na-k10014989211000
-
-[2025-11-29 07:06:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6pvez7stk2k)
+[2025-11-29 07:31:18](https://bsky.app/profile/nikkei.com/post/3m6pws53ozb2k)
 
 ---
 
