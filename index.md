@@ -1,9 +1,9 @@
-# [2025-11-29 16:30 updated](2025_11_29.md)
+# [2025-11-29 16:50 updated](2025_11_29.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">東北大学、留学生の授業料を7割引き上げ　欧米型の「受益者負担」に www.nikkei.com/article/DGXZQO...  現在は国内の学生と同じ年53万5800円ですが、2027年度に約90万円にします。  2%にとどまる学部の留学生比率を、10年後に9%まで上げるため受け入れ環境を拡充します。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m6qunhwuyf2z" target="_blank">nikkei.com</a> (2025-11-29 16:25:34)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】ヴァンラーレ八戸が後半に先制許す 今季最終FC琉球戦【J2昇格かけた大一番】 (2025-11-29 16:24:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6qun3mcje2y" target="_blank">sokuho.news</a> (2025-11-29 16:25:21)</span><span style="padding-right:50px;">Hong Kong blaze spotlights enduring role of city's foreign domestic helpers reut.rs/49RioG5 <a href="https://bsky.app/profile/reuters.com/post/3m6qumrgves2n" target="_blank">reuters.com</a> (2025-11-29 16:25:10)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】ロアッソ熊本「得失点差1」でJ3降格圏に 最終戦で甲府と引き分けも… (2025-11-29 16:16) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6quer7zgs2h" target="_blank">sokuho.news</a> (2025-11-29 16:20:42)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】ロアッソ熊本「得失点差1」でJ3降格 最終戦で甲府と引き分けも… (2025-11-29 16:16) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6qu5briky2p" target="_blank">sokuho.news</a> (2025-11-29 16:16:31)</span>
+<span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】ロアッソ熊本がJ3降格 最終節ホームで甲府と引き分けるも秋田が3点差で勝利【熊本発】 (2025-11-29 16:42) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6qvrind2224" target="_blank">sokuho.news</a> (2025-11-29 16:45:43)</span><span style="padding-right:50px;">Ukrainian drone pilots look to AI for battlefield edge reut.rs/4p4MhHt <a href="https://bsky.app/profile/reuters.com/post/3m6qvqli3ek2n" target="_blank">reuters.com</a> (2025-11-29 16:45:12)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】カターレ富山 J2残留決定！ ホーム最終戦で秋田に4-1で勝利 熊本は引き分け、得失点差で上回る サッカー明治安田J2 (2025-11-29 16:09:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6qvilt5kt2q" target="_blank">sokuho.news</a> (2025-11-29 16:40:44)</span><span style="padding-right:50px;">From mobile phones to cooked frogs, inside London's biggest lost property office reut.rs/4p1PveQ <a href="https://bsky.app/profile/reuters.com/post/3m6qvhmz2z322" target="_blank">reuters.com</a> (2025-11-29 16:40:12)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】ヴァンラーレ八戸が先制許した直後に永田が同点に持ち込む 今季最終FC琉球戦【J2昇格かけた大一番】 (2025-11-29 16:31:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6qv7x6ris2e" target="_blank">sokuho.news</a> (2025-11-29 16:35:54)</span>
   </div>
 </div>
 
@@ -32,68 +32,31 @@
 
 ## News Headlines
 
-1. 東北大学、留学生授業料を7割引き上げ　「受益者負担」へ
-2. V・ファーレン長崎、8年ぶりJ1昇格決定！劇的V字回復で悲願達成
-3. ロアッソ熊本、J3降格決定…得失点差「1」に泣く
-4. 徳島県議、ホテルで盗撮容疑で逮捕
-5. カターレ富山、J2残留決定！熊本は降格
-6. 長崎・長与町の焼き肉店で火事発生、消防車8台が出動
+1.  ロアッソ熊本、J3降格決定 - 最終節で甲府と引き分け、他チームの結果響く
+2.  カターレ富山、J2残留！秋田に勝利、得失点差で熊本を上回る
+3.  V・ファーレン長崎、8年ぶりJ1昇格！最終節で悲願達成
+4.  群馬・渋川市でトレーラーが製材所に突っ込む
+5.  東北大学、留学生の授業料を7割引き上げ - 2027年度から
+6.  徳島県議会議員、盗撮容疑で逮捕 - 都内ホテルで風俗店女性か
 
 ----
 
-@nikkei.com
-
-東北大学、留学生の授業料を7割引き上げ　欧米型の「受益者負担」に
-www.nikkei.com/article/DGXZQO...
-
-現在は国内の学生と同じ年53万5800円ですが、2027年度に約90万円にします。
-
-2%にとどまる学部の留学生比率を、10年後に9%まで上げるため受け入れ環境を拡充します。
-
-#ニュース
-
-[2025-11-29 16:25:34](https://bsky.app/profile/nikkei.com/post/3m6qunhwuyf2z)
-
----
-
 @sokuho.news
 
-🛎️JNNより【速報】です。
+🛎️FNNより【速報】です。
 
-【速報】ヴァンラーレ八戸が後半に先制許す 今季最終FC琉球戦【J2昇格かけた大一番】
-(2025-11-29 16:24:00) #ニュース
+【速報】ロアッソ熊本がJ3降格 最終節ホームで甲府と引き分けるも秋田が3点差で勝利【熊本発】
+(2025-11-29 16:42) #ニュース
 
-[2025-11-29 16:25:21](https://bsky.app/profile/sokuho.news/post/3m6qun3mcje2y)
+[2025-11-29 16:45:43](https://bsky.app/profile/sokuho.news/post/3m6qvrind2224)
 
 ---
 
 @reuters.com
 
-Hong Kong blaze spotlights enduring role of city's foreign domestic helpers reut.rs/49RioG5
+Ukrainian drone pilots look to AI for battlefield edge reut.rs/4p4MhHt
 
-[2025-11-29 16:25:10](https://bsky.app/profile/reuters.com/post/3m6qumrgves2n)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】ロアッソ熊本「得失点差1」でJ3降格圏に 最終戦で甲府と引き分けも…
-(2025-11-29 16:16) #ニュース
-
-[2025-11-29 16:20:42](https://bsky.app/profile/sokuho.news/post/3m6quer7zgs2h)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】ロアッソ熊本「得失点差1」でJ3降格 最終戦で甲府と引き分けも…
-(2025-11-29 16:16) #ニュース
-
-[2025-11-29 16:16:31](https://bsky.app/profile/sokuho.news/post/3m6qu5briky2p)
+[2025-11-29 16:45:12](https://bsky.app/profile/reuters.com/post/3m6qvqli3ek2n)
 
 ---
 
@@ -101,10 +64,18 @@ Hong Kong blaze spotlights enduring role of city's foreign domestic helpers reut
 
 🛎️JNNより【速報】です。
 
-【速報】V・ファーレン長崎、8年ぶりJ1昇格決定 高木体制で劇的V字回復 最終節で悲願達成
-(2025-11-29 16:02:00) #ニュース
+【速報】カターレ富山 J2残留決定！ ホーム最終戦で秋田に4-1で勝利 熊本は引き分け、得失点差で上回る サッカー明治安田J2
+(2025-11-29 16:09:00) #ニュース
 
-[2025-11-29 16:15:30](https://bsky.app/profile/sokuho.news/post/3m6qu3ifjlr2m)
+[2025-11-29 16:40:44](https://bsky.app/profile/sokuho.news/post/3m6qvilt5kt2q)
+
+---
+
+@reuters.com
+
+From mobile phones to cooked frogs, inside London's biggest lost property office reut.rs/4p1PveQ
+
+[2025-11-29 16:40:12](https://bsky.app/profile/reuters.com/post/3m6qvhmz2z322)
 
 ---
 
@@ -112,41 +83,54 @@ Hong Kong blaze spotlights enduring role of city's foreign domestic helpers reut
 
 🛎️JNNより【速報】です。
 
-【速報】ロアッソ熊本のJ3降格が決まる 明治安田J2
-(2025-11-29 16:06:00) #ニュース
+【速報】ヴァンラーレ八戸が先制許した直後に永田が同点に持ち込む 今季最終FC琉球戦【J2昇格かけた大一番】
+(2025-11-29 16:31:00) #ニュース
 
-[2025-11-29 16:15:20](https://bsky.app/profile/sokuho.news/post/3m6qu36gtdz2m)
+[2025-11-29 16:35:54](https://bsky.app/profile/sokuho.news/post/3m6qv7x6ris2e)
+
+---
+
+@sokuho.news
+
+🔔ANNより【速報】です。
+
+【速報】トレーラーが国道沿いの製材所に突っ込む 群馬・渋川市
+(16:33) #ニュース
+
+[2025-11-29 16:35:21](https://bsky.app/profile/sokuho.news/post/3m6qv6y3a662m)
+
+---
+
+@reuters.com
+
+China's military, coast guard conduct patrols around Scarborough Shoal, Xinhua says reut.rs/3XryE9d
+
+[2025-11-29 16:35:10](https://bsky.app/profile/reuters.com/post/3m6qv6n24lr2e)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-自民 小林政調会長“年収の壁 国民などと協議し結論出したい”
-https://news.web.nhk/newsweb/na/na-k10014989661000
+立民 野田代表“補正予算案 野党連携し審議でただしていく”
+https://news.web.nhk/newsweb/na/na-k10014989681000
 
-[2025-11-29 16:12:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6qtvdrhfl2n)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】徳島県議会議員の古川広志容疑者（64）を逮捕 都内のホテルで風俗店の女性を呼んで盗撮したか 警視庁
-(2025-11-29 16:01:20) #ニュース
-
-[2025-11-29 16:10:22](https://bsky.app/profile/sokuho.news/post/3m6qtsbtkc42x)
+[2025-11-29 16:33:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6qv2vanuc2b)
 
 ---
 
-@sokuho.news
+@reuters.com
 
-🛎️JNNより【速報】です。
+Death toll in Thailand floods rises to 162, government says reut.rs/3Xoz4xe
 
-【速報】明治安田J2 ロアッソ熊本のJ3降格が決まる
-(2025-11-29 16:06:00) #ニュース
+[2025-11-29 16:30:20](https://bsky.app/profile/reuters.com/post/3m6quvz4y7f2k)
 
-[2025-11-29 16:10:03](https://bsky.app/profile/sokuho.news/post/3m6qtrq5jeq27)
+---
+
+@aljazeera.com
+
+Indonesia, Malaysia and Thailand have been inundated with cyclone-driven rain for a week, killing about 400 people.
+
+[2025-11-29 16:30:15](https://bsky.app/profile/aljazeera.com/post/3m6quvtr3ei2a)
 
 ---
 
