@@ -1,9 +1,9 @@
-# [2025-11-29 09:50 updated](2025_11_29.md)
+# [2025-11-29 10:10 updated](2025_11_29.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Vasseur maybe underestimated psychological hit of development halt reut.rs/4pesjua <a href="https://bsky.app/profile/reuters.com/post/3m6q6bnrb7z2k" target="_blank">reuters.com</a> (2025-11-29 09:45:15)</span><span style="padding-right:50px;">Former Honduran President Juan Orlando Hernandez was convicted for drug trafficking and weapons charges and sentenced to 45 years in prison. n.pr/4pGmc1n <a href="https://bsky.app/profile/npr.org/post/3m6q5ys57sw23" target="_blank">npr.org</a> (2025-11-29 09:40:18)</span><span style="padding-right:50px;">Giants QB Jaxson Dart to start vs. Patriots reut.rs/3M4tRrT <a href="https://bsky.app/profile/reuters.com/post/3m6q5yqedq226" target="_blank">reuters.com</a> (2025-11-29 09:40:16)</span><span style="padding-right:50px;">Bucs QB Baker Mayfield practices, expects to play Sunday reut.rs/44ExyuC <a href="https://bsky.app/profile/reuters.com/post/3m6q5poav7q2n" target="_blank">reuters.com</a> (2025-11-29 09:35:12)</span><span style="padding-right:50px;">The Trump administration paused asylum applications filed by migrants inside the U.S., the latest change to come out of the government’s review of the immigration system after the authorities said an Afghan man opened fire on two National Guard members. <a href="https://bsky.app/profile/nytimes.com/post/3m6q5l5z2lz2w" target="_blank">nytimes.com</a> (2025-11-29 09:32:40)</span>
+<span style="padding-right:50px;">トヨタがアフリカ向けに「現地組み立て車」 www.nikkei.com/article/DGXZQO...  ケニアの標高約2800mの農村で現地住民と試作を進めます。  「IMVオリジン」は軽トラックと同等の大きさで、座席は運転席のみ設置。  悪路を想定して修理しやすく、現地でのアレンジもできる設計です。 <a href="https://bsky.app/profile/nikkei.com/post/3m6q76cvfqi2z" target="_blank">nikkei.com</a> (2025-11-29 10:01:17)</span><span style="padding-right:50px;">Grace Richardson, a 20-year-old musical theater student, has become the first-ever out lesbian winner of the Miss England beauty pageant. https://cnn.it/4rpMMxh <a href="https://bsky.app/profile/cnn.com/post/3m6q75uekvh2n" target="_blank">cnn.com</a> (2025-11-29 10:01:02)</span><span style="padding-right:50px;">Pope Leo XIV joins Orthodox patriarchs and ecumenical leaders in commemorating an important moment in Christian history, gathering at the site in Turkey of an unprecedented A.D. 325 meeting of bishops to pray that Christians might once again be reunited. <a href="https://bsky.app/profile/nbcnews.com/post/3m6q74zbzcu2y" target="_blank">nbcnews.com</a> (2025-11-29 10:00:33)</span><span style="padding-right:50px;">The federal government has released about $3.6 billion in delayed funding for the Low Income Home Energy Assistance Program, or LIHEAP. <a href="https://bsky.app/profile/apnews.com/post/3m6q74obsfu2c" target="_blank">apnews.com</a> (2025-11-29 10:00:22)</span><span style="padding-right:50px;">So much advice out there for "introverts suggests that the best way for us to succeed is to fake being an extrovert," writes Goldie Chan. That's not the case. <a href="https://bsky.app/profile/cnbc.com/post/3m6q74hxjms2h" target="_blank">cnbc.com</a> (2025-11-29 10:00:15)</span>
   </div>
 </div>
 
@@ -32,97 +32,99 @@
 
 ## News Headlines
 
-1. ホンジュラス元大統領、麻薬密輸で禁錮45年
-2. ゼレンスキー政権、和平協議の側近を汚職疑惑で解任
-3. トランプ氏、バイデン政権の政策を無効化すると主張
-4. エアバス機ソフト更新で運航混乱の可能性、航空当局が警告
-5. シリア、イスラエル軍の攻撃を非難、10人以上死亡
-6. 全日空、エアバス機の不具合で国内線65便欠航
+1. トヨタ、アフリカ向け現地組み立て車を開発
+2. ミス・イングランド初のレズビアン優勝者誕生
+3. トランプ氏、バイデン大統領の行政命令を「キャンセル」主張
+4. 元ホンジュラス大統領、麻薬密輸で禁錮45年
+5. ゼレンスキー政権幹部、汚職疑惑で解任
+6. 米国、亡命申請を一時停止
 
 ----
 
-@reuters.com
-
-Vasseur maybe underestimated psychological hit of development halt reut.rs/4pesjua
-
-[2025-11-29 09:45:15](https://bsky.app/profile/reuters.com/post/3m6q6bnrb7z2k)
-
----
-
-@npr.org
-
-Former Honduran President Juan Orlando Hernandez was convicted for drug trafficking and weapons charges and sentenced to 45 years in prison. n.pr/4pGmc1n
-
-[2025-11-29 09:40:18](https://bsky.app/profile/npr.org/post/3m6q5ys57sw23)
-
----
-
-@reuters.com
-
-Giants QB Jaxson Dart to start vs. Patriots reut.rs/3M4tRrT
-
-[2025-11-29 09:40:16](https://bsky.app/profile/reuters.com/post/3m6q5yqedq226)
-
----
-
-@reuters.com
-
-Bucs QB Baker Mayfield practices, expects to play Sunday reut.rs/44ExyuC
-
-[2025-11-29 09:35:12](https://bsky.app/profile/reuters.com/post/3m6q5poav7q2n)
-
----
-
-@nytimes.com
-
-The Trump administration paused asylum applications filed by migrants inside the U.S., the latest change to come out of the government’s review of the immigration system after the authorities said an Afghan man opened fire on two National Guard members.
-
-[2025-11-29 09:32:40](https://bsky.app/profile/nytimes.com/post/3m6q5l5z2lz2w)
-
----
-
 @nikkei.com
 
-ゼレンスキー政権、窮地に　和平協議率いた最側近を汚職疑惑で解任
+トヨタがアフリカ向けに「現地組み立て車」
 www.nikkei.com/article/DGXZQO...
 
-イエルマーク氏は、政権の発足当初からウクライナの内政・外交両面で強い影響力を発揮。ゼレンスキー氏が信頼する右腕のナンバー2の実力者でした。
+ケニアの標高約2800mの農村で現地住民と試作を進めます。
 
-アメリカとの和平協議で代表団を率い、ロシアとの交渉にも大きな役割を持っていました。
+「IMVオリジン」は軽トラックと同等の大きさで、座席は運転席のみ設置。
 
-[2025-11-29 09:31:17](https://bsky.app/profile/nikkei.com/post/3m6q5iookjl2g)
+悪路を想定して修理しやすく、現地でのアレンジもできる設計です。
+
+[2025-11-29 10:01:17](https://bsky.app/profile/nikkei.com/post/3m6q76cvfqi2z)
 
 ---
 
 @cnn.com
 
-President Donald Trump continued his effort to delegitimize actions taken during Joe Biden’s presidency, claiming in a social media post that he is “cancelling all executive orders, and anything else that was not directly signed” by his predecessor. https://cnn.it/3M7zKV9
+Grace Richardson, a 20-year-old musical theater student, has become the first-ever out lesbian winner of the Miss England beauty pageant. https://cnn.it/4rpMMxh
 
-[2025-11-29 09:31:02](https://bsky.app/profile/cnn.com/post/3m6q5i7vpnd2b)
-
----
-
-@reuters.com
-
-Report: Mavericks F Anthony Davis (calf) to return vs. Lakers reut.rs/4pv1oK0
-
-[2025-11-29 09:30:32](https://bsky.app/profile/reuters.com/post/3m6q5hdavgj2y)
+[2025-11-29 10:01:02](https://bsky.app/profile/cnn.com/post/3m6q75uekvh2n)
 
 ---
 
-@usatoday.com
+@nbcnews.com
 
-"We’ll be starting to stop them by land also," Trump said of Venezuelan drug traffickers. "The land is easier, but that’s going to start very soon."
+Pope Leo XIV joins Orthodox patriarchs and ecumenical leaders in commemorating an important moment in Christian history, gathering at the site in Turkey of an unprecedented A.D. 325 meeting of bishops to pray that Christians might once again be reunited.
 
-[2025-11-29 09:30:28](https://bsky.app/profile/usatoday.com/post/3m6q5h7prdo2t)
+[2025-11-29 10:00:33](https://bsky.app/profile/nbcnews.com/post/3m6q74zbzcu2y)
 
 ---
 
-@cbsnews.com
+@apnews.com
 
-National Guard member killed in D.C. shooting remembered as courageous person who "liked to laugh."
+The federal government has released about $3.6 billion in delayed funding for the Low Income Home Energy Assistance Program, or LIHEAP.
 
-[2025-11-29 09:30:01](https://bsky.app/profile/cbsnews.com/post/3m6q5gfsbn626)
+[2025-11-29 10:00:22](https://bsky.app/profile/apnews.com/post/3m6q74obsfu2c)
+
+---
+
+@cnbc.com
+
+So much advice out there for "introverts suggests that the best way for us to succeed is to fake being an extrovert," writes Goldie Chan. That's not the case.
+
+[2025-11-29 10:00:15](https://bsky.app/profile/cnbc.com/post/3m6q74hxjms2h)
+
+---
+
+@washingtonpost.com
+
+The airspace around Mar-a-Lago, the president’s estate, is a no-fly zone 24/7, even when Trump isn’t home. This means noise and soot from flights out of Palm Beach International Airport are being diverted to other parts of the neighborhood.
+
+[2025-11-29 10:00:10](https://bsky.app/profile/washingtonpost.com/post/3m6q74dmwto23)
+
+---
+
+@nytimes.com
+
+A recently recognized form of dementia is changing the understanding of cognitive decline, improving the ability to diagnose patients and underscoring the need for a wider array of treatments.
+
+[2025-11-29 10:00:03](https://bsky.app/profile/nytimes.com/post/3m6q743zjt62y)
+
+---
+
+@bloomberg-jp.bsky.social
+
+ウクライナ代表団が訪米へ、トランプ氏主導の和平案巡り協議－関係者
+
+[2025-11-29 09:51:14](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6q6mee6ll2r)
+
+---
+
+@bloomberg-jp.bsky.social
+
+ANAが国内線65便を欠航、エアバス機整備作業で－9400人に影響
+
+[2025-11-29 09:51:09](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6q6m6ydin2j)
+
+---
+
+@bloomberg-jp.bsky.social
+
+データセンター冷却なぜ難しいのか、CMEの障害で再び注目－QuickTake
+
+[2025-11-29 09:51:02](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6q6lylcbl2w)
 
 ---
 
