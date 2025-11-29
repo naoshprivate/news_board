@@ -1,9 +1,9 @@
-# [2025-11-30 01:30 updated](2025_11_30.md)
+# [2025-11-30 01:50 updated](2025_11_30.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">At least 19 people die in Congo boat accident reut.rs/3XpnwcV <a href="https://bsky.app/profile/reuters.com/post/3m6rrhilpvh2r" target="_blank">reuters.com</a> (2025-11-30 01:01:12)</span><span style="padding-right:50px;">Wicked composer Stephen Schwartz spoke to NBC News’ Rebecca Keegan about how “No Place Like Home” was inspired by the current political climate in the U.S. — saying it’s a reflection of the question “why do we care so much” for a “place we don’t necessarily feel great about.” <a href="https://bsky.app/profile/nbcnews.com/post/3m6rrgk5pm22c" target="_blank">nbcnews.com</a> (2025-11-30 01:00:40)</span><span style="padding-right:50px;">President Trump said he closed the Venezuelan airspace, following weeks of escalating tensions between Washington and Caracas and the growing threat of a U.S. attack against the country. <a href="https://bsky.app/profile/washingtonpost.com/post/3m6rrg4r6kf2h" target="_blank">washingtonpost.com</a> (2025-11-30 01:00:26)</span><span style="padding-right:50px;">Why this nighttime anxiety happens is likely a mix of biological and psychological factors, experts said. https://cnn.it/4iurLxt <a href="https://bsky.app/profile/cnn.com/post/3m6rrg4slv62q" target="_blank">cnn.com</a> (2025-11-30 01:00:26)</span><span style="padding-right:50px;">Are green peas good for you/? Here's what nutrition experts say. <a href="https://bsky.app/profile/usatoday.com/post/3m6rrg2r4zy2t" target="_blank">usatoday.com</a> (2025-11-30 01:00:24)</span>
+<span style="padding-right:50px;">Under new Trump administration rules, students won't be able to borrow as much for medical or nursing school or some other health professions. <a href="https://bsky.app/profile/npr.org/post/3m6ru3squdr2g" target="_blank">npr.org</a> (2025-11-30 01:48:21)</span><span style="padding-right:50px;">Flooding in South East Asia leaves hundreds dead <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6ru3guwha24" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-11-30 01:48:08)</span><span style="padding-right:50px;">OPEC+ set to hold oil output policy steady on Sunday, sources say reut.rs/486hvYQ <a href="https://bsky.app/profile/reuters.com/post/3m6rtw6zbrq2w" target="_blank">reuters.com</a> (2025-11-30 01:45:13)</span><span style="padding-right:50px;">🇭🇰 An outpouring of grief swept Hong Kong on Saturday as thousands paid their respects and laid flowers for the 128 people killed in one of the city's deadliest fires, marking the start of an official, three-day mourning period.  ➡️ u.afp.com/ShXn <a href="https://bsky.app/profile/en.afp.com/post/3m6rtmwbspl2j" target="_blank">en.afp.com</a> (2025-11-30 01:40:02)</span><span style="padding-right:50px;">Russian strikes on Kyiv kill three, injure dozens, as Ukraine seeks US support for a resolution to the war. <a href="https://bsky.app/profile/aljazeera.com/post/3m6rt3i5d752l" target="_blank">aljazeera.com</a> (2025-11-30 01:30:16)</span>
   </div>
 </div>
 
@@ -32,93 +32,95 @@
 
 ## News Headlines
 
-1. コンゴでボート事故、少なくとも19人死亡
-2. トランプ大統領、ベネズエラ空域を閉鎖
-3. 研究資金回復、反ユダヤ主義調査終結で北西部大学が7500万ドル支払い
-4. エアバス、ソフトウェア更新でフライト通常再開
-5. トランプ大統領、ベネズエラ近隣空域を閉鎖と警告
-6. ウクライナ、ロシアの石油ターミナルを攻撃
+1. トランプ政権、医療系学生への融資額を制限
+2. 東南アジアの洪水、死者数百人に
+3. 香港で大火災、128人死亡で3日間の追悼期間
+4. ロシアのキーウ攻撃で3人死亡、ウクライナはアメリカの支援を要請
+5. トランプ大統領、ベネズエラの空域を閉鎖と警告
+6. 国連、パレスチナ経済が記録的な崩壊に直面と警告
 
 ----
 
+@npr.org
+
+Under new Trump administration rules, students won't be able to borrow as much for medical or nursing school or some other health professions.
+
+[2025-11-30 01:48:21](https://bsky.app/profile/npr.org/post/3m6ru3squdr2g)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Flooding in South East Asia leaves hundreds dead
+
+[2025-11-30 01:48:08](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6ru3guwha24)
+
+---
+
 @reuters.com
 
-At least 19 people die in Congo boat accident reut.rs/3XpnwcV
+OPEC+ set to hold oil output policy steady on Sunday, sources say reut.rs/486hvYQ
 
-[2025-11-30 01:01:12](https://bsky.app/profile/reuters.com/post/3m6rrhilpvh2r)
-
----
-
-@nbcnews.com
-
-Wicked composer Stephen Schwartz spoke to NBC News’ Rebecca Keegan about how “No Place Like Home” was inspired by the current political climate in the U.S. — saying it’s a reflection of the question “why do we care so much” for a “place we don’t necessarily feel great about.”
-
-[2025-11-30 01:00:40](https://bsky.app/profile/nbcnews.com/post/3m6rrgk5pm22c)
+[2025-11-30 01:45:13](https://bsky.app/profile/reuters.com/post/3m6rtw6zbrq2w)
 
 ---
 
-@washingtonpost.com
+@en.afp.com
 
-President Trump said he closed the Venezuelan airspace, following weeks of escalating tensions between Washington and Caracas and the growing threat of a U.S. attack against the country.
+🇭🇰 An outpouring of grief swept Hong Kong on Saturday as thousands paid their respects and laid flowers for the 128 people killed in one of the city's deadliest fires, marking the start of an official, three-day mourning period. 
+➡️ u.afp.com/ShXn
 
-[2025-11-30 01:00:26](https://bsky.app/profile/washingtonpost.com/post/3m6rrg4r6kf2h)
+[2025-11-30 01:40:02](https://bsky.app/profile/en.afp.com/post/3m6rtmwbspl2j)
 
 ---
 
-@cnn.com
+@aljazeera.com
 
-Why this nighttime anxiety happens is likely a mix of biological and psychological factors, experts said.
-https://cnn.it/4iurLxt
+Russian strikes on Kyiv kill three, injure dozens, as Ukraine seeks US support for a resolution to the war.
 
-[2025-11-30 01:00:26](https://bsky.app/profile/cnn.com/post/3m6rrg4slv62q)
+[2025-11-30 01:30:16](https://bsky.app/profile/aljazeera.com/post/3m6rt3i5d752l)
 
 ---
 
 @usatoday.com
 
-Are green peas good for you/? Here's what nutrition experts say.
+Vice President JD Vance has a midterm warning for Republicans: do a better job motivating voters who helped Trump take back the White House.
 
-[2025-11-30 01:00:24](https://bsky.app/profile/usatoday.com/post/3m6rrg2r4zy2t)
+[2025-11-30 01:30:14](https://bsky.app/profile/usatoday.com/post/3m6rt3fo2oz2u)
+
+---
+
+@washingtonpost.com
+
+The head of the Senate Armed Services Committee has vowed “vigorous oversight” following a Post report that Defense Secretary Pete Hegseth ordered the killing of all crew members during the first U.S. strike on suspected drug smugglers in the Caribbean.
+
+[2025-11-30 01:30:06](https://bsky.app/profile/washingtonpost.com/post/3m6rt36fojq2x)
+
+---
+
+@en.afp.com
+
+🇺🇸 🇻🇪 US President Donald Trump warned on Saturday that the airspace above and near Venezuela should be considered closed, the latest escalation in a standoff with leftist leader Nicolas Maduro. 
+➡️ u.afp.com/ShXn
+
+[2025-11-30 01:30:04](https://bsky.app/profile/en.afp.com/post/3m6rt34in442e)
 
 ---
 
 @nytimes.com
 
-Northwestern agreed to pay $75 million to the federal government in a deal reached on Friday with the Trump administration that restores hundreds of millions in research funding and closes multiple investigations into antisemitism on campus.
+The State Department said on Friday that it had ramped up its capacity at the U.S. Embassy in Seoul to process more business visas for South Koreans, as the Trump administration tries to repair the damage from an immigration raid on a large South Korean-run factory in Georgia.
 
-[2025-11-30 00:55:05](https://bsky.app/profile/nytimes.com/post/3m6rr4khfwe2l)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Airbus: Flights resume as normal after software update warning
-
-[2025-11-30 00:50:38](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6rqumhwos2y)
+[2025-11-30 01:26:53](https://bsky.app/profile/nytimes.com/post/3m6rsvgr2xs2e)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@en.afp.com
 
-Pope Leo visits Istanbul's Blue Mosque
+🇻🇦 🇹🇷 Thousands of worshippers battled the rain to join Pope Leo XIV as he celebrated mass in Istanbul on Saturday, the last full day of his visit to Turkey. 
+➡️ u.afp.com/ShXe
 
-[2025-11-30 00:49:33](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6rqsot2vm2p)
-
----
-
-@nytimes.com
-
-These are the 100 gifts our readers have loved the most from all of our gift guides since we started our gifts coverage in 2020.
-
-[2025-11-30 00:47:03](https://bsky.app/profile/nytimes.com/post/3m6rqo6maig2y)
-
----
-
-@nytimes.com
-
-There’s something undeniably fun (and giftable!) about an itty-bitty beauty product. Our favorites include a TikTok-famous snail serum and a tiny lip gloss.
-
-[2025-11-30 00:42:56](https://bsky.app/profile/nytimes.com/post/3m6rqgttvcw2h)
+[2025-11-30 01:20:01](https://bsky.app/profile/en.afp.com/post/3m6rsj5wv3x2a)
 
 ---
 
