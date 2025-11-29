@@ -1,9 +1,9 @@
-# [2025-11-30 04:30 updated](2025_11_30.md)
+# [2025-11-30 04:50 updated](2025_11_30.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">There’s a timeless, ageless delight that one gets from emptying a stocking on Christmas morning. From the whimsical to the practical, here are the best pint-size gifts to charm any adult on your list. nyti.ms/4ijvKNk <a href="https://bsky.app/profile/nytimes.com/post/3m6s4ur2rwn24" target="_blank">nytimes.com</a> (2025-11-30 04:25:28)</span><span style="padding-right:50px;">Venezuela condemns Trump statement on closing the country's airspace reut.rs/3Kso9zo <a href="https://bsky.app/profile/reuters.com/post/3m6s4ua57xr27" target="_blank">reuters.com</a> (2025-11-30 04:25:10)</span><span style="padding-right:50px;">Simon Cowell discovered the singer Liam Payne on “The X Factor” talent competition and cast him in One Direction. In a conversation with “The Interview” host Lulu Garcia-Navarro, he discussed how he learned about Payne’s death. www.nytimes.com/2025/11/29/m... <a href="https://bsky.app/profile/nytimes.com/post/3m6s4i7yvac2r" target="_blank">nytimes.com</a> (2025-11-30 04:18:28)</span><span style="padding-right:50px;">Northwestern University became the sixth the sixth school to reach a deal with the Trump administration, ending federal investigations into alleged discrimination, race-based admissions and a hostile environment for Jewish students. <a href="https://bsky.app/profile/washingtonpost.com/post/3m6s4c5af5o2o" target="_blank">washingtonpost.com</a> (2025-11-30 04:15:03)</span><span style="padding-right:50px;">"He will be remembered for his works, for their brilliance and humanity, and for his wit, his irreverence, his generosity of spirit and his profound love of the English language. It was an honour to work with Tom and to know him," a statement from United Agents said.  <a href="https://bsky.app/profile/cbsnews.com/post/3m6s4c2l6lq2p" target="_blank">cbsnews.com</a> (2025-11-30 04:15:00)</span>
+<span style="padding-right:50px;">You’re not weak for avoiding bad news — you’re human. Behavioral science calls it the “ostrich effect,” a reflex to help the mind manage what it can’t control. <a href="https://bsky.app/profile/bloomberg.com/post/3m6s65bsxxx2n" target="_blank">bloomberg.com</a> (2025-11-30 04:48:08)</span><span style="padding-right:50px;">German lugers dominate at Cortina test event as Americans surprise in men's doubles reut.rs/4opBXsy <a href="https://bsky.app/profile/reuters.com/post/3m6s5y26umo2i" target="_blank">reuters.com</a> (2025-11-30 04:45:12)</span><span style="padding-right:50px;">Israeli forces killed two children in Gaza in a strike on Saturday, according to the family and a Gazan health official, amid persistent violence in the territory despite an ongoing cease-fire. <a href="https://bsky.app/profile/nytimes.com/post/3m6s5xtqa2r2q" target="_blank">nytimes.com</a> (2025-11-30 04:45:05)</span><span style="padding-right:50px;">Dr. Vinay Prasad, the director of the Food and Drug Administration's vaccine division, sent a memo to staff that linked children's deaths to the COVID-19 vaccine, but did not provide data to back the claim. <a href="https://bsky.app/profile/cbsnews.com/post/3m6s5xpcc5v26" target="_blank">cbsnews.com</a> (2025-11-30 04:45:01)</span><span style="padding-right:50px;">Two-goal Foden helps Manchester City overcome reliance on Haaland reut.rs/48qT9rN <a href="https://bsky.app/profile/reuters.com/post/3m6s5p6horq26" target="_blank">reuters.com</a> (2025-11-30 04:40:14)</span>
   </div>
 </div>
 
@@ -32,92 +32,92 @@
 
 ## News Headlines
 
-1.  ブラックフライデー、オンライン売上が大幅増
-2.  劇作家トム・ストッパード氏が死去、88歳
-3.  中西部・五大湖で大雪、感謝祭の旅行に影響
-4.  ベネズエラ、トランプ氏の発言を非難
-5.  FDA、コロナワクチン接種で少なくとも10人の子供が死亡と主張
-6.  メキシコの失踪者家族、クリスマスオーナメントに希望を託す
+1.  ガザでイスラエル軍が子ども2人を殺害、停戦下で暴力続く
+2.  FDA幹部、COVID-19ワクチンと子供の死亡を結びつけるメモを配布
+3.  ウクライナ大統領府長官が辞任、ロシア侵攻との戦いの重要な局面で
+4.  エアバスA320型機に緊急ソフトウェアアップデートの必要性、各地で遅延
+5.  マクロン大統領、ゼレンスキー大統領とパリで会談、ウクライナ和平協議へ
+6.  劇作家トム・ストッパード氏が死去
 
 ----
 
-@nytimes.com
+@bloomberg.com
 
-There’s a timeless, ageless delight that one gets from emptying a stocking on Christmas morning. From the whimsical to the practical, here are the best pint-size gifts to charm any adult on your list. nyti.ms/4ijvKNk
+You’re not weak for avoiding bad news — you’re human. Behavioral science calls it the “ostrich effect,” a reflex to help the mind manage what it can’t control.
 
-[2025-11-30 04:25:28](https://bsky.app/profile/nytimes.com/post/3m6s4ur2rwn24)
+[2025-11-30 04:48:08](https://bsky.app/profile/bloomberg.com/post/3m6s65bsxxx2n)
 
 ---
 
 @reuters.com
 
-Venezuela condemns Trump statement on closing the country's airspace reut.rs/3Kso9zo
+German lugers dominate at Cortina test event as Americans surprise in men's doubles reut.rs/4opBXsy
 
-[2025-11-30 04:25:10](https://bsky.app/profile/reuters.com/post/3m6s4ua57xr27)
+[2025-11-30 04:45:12](https://bsky.app/profile/reuters.com/post/3m6s5y26umo2i)
 
 ---
 
 @nytimes.com
 
-Simon Cowell discovered the singer Liam Payne on “The X Factor” talent competition and cast him in One Direction. In a conversation with “The Interview” host Lulu Garcia-Navarro, he discussed how he learned about Payne’s death. www.nytimes.com/2025/11/29/m...
+Israeli forces killed two children in Gaza in a strike on Saturday, according to the family and a Gazan health official, amid persistent violence in the territory despite an ongoing cease-fire.
 
-[2025-11-30 04:18:28](https://bsky.app/profile/nytimes.com/post/3m6s4i7yvac2r)
-
----
-
-@washingtonpost.com
-
-Northwestern University became the sixth the sixth school to reach a deal with the Trump administration, ending federal investigations into alleged discrimination, race-based admissions and a hostile environment for Jewish students.
-
-[2025-11-30 04:15:03](https://bsky.app/profile/washingtonpost.com/post/3m6s4c5af5o2o)
+[2025-11-30 04:45:05](https://bsky.app/profile/nytimes.com/post/3m6s5xtqa2r2q)
 
 ---
 
 @cbsnews.com
 
-"He will be remembered for his works, for their brilliance and humanity, and for his wit, his irreverence, his generosity of spirit and his profound love of the English language. It was an honour to work with Tom and to know him," a statement from United Agents said. 
+Dr. Vinay Prasad, the director of the Food and Drug Administration's vaccine division, sent a memo to staff that linked children's deaths to the COVID-19 vaccine, but did not provide data to back the claim.
 
-[2025-11-30 04:15:00](https://bsky.app/profile/cbsnews.com/post/3m6s4c2l6lq2p)
-
----
-
-@reuters.com
-
-Thiago's impact hailed by coach as Brentford beat Burnley reut.rs/4ip8g9s
-
-[2025-11-30 04:10:14](https://bsky.app/profile/reuters.com/post/3m6s3zizp6d2r)
-
----
-
-@nytimes.com
-
-Here is the standout fiction, poetry and nonfiction of the year, chosen by the staff of The New York Times Book Review.
-
-[2025-11-30 04:10:02](https://bsky.app/profile/nytimes.com/post/3m6s3z5w75s2w)
-
----
-
-@yahoofinance.com
-
-Bitcoin faces 3 headwinds as the cryptocurrency sits 28% below record high
-
-[2025-11-30 04:06:08](https://bsky.app/profile/yahoofinance.com/post/3m6s3s6f3ty2p)
-
----
-
-@nbcnews.com
-
-The FDA claims in an internal memo that Covid shots killed at least 10 children, a conclusion experts say was made without substantial or peer-reviewed evidence.
-
-[2025-11-30 04:05:11](https://bsky.app/profile/nbcnews.com/post/3m6s3qi6are2i)
+[2025-11-30 04:45:01](https://bsky.app/profile/cbsnews.com/post/3m6s5xpcc5v26)
 
 ---
 
 @reuters.com
 
-5-star WR Easton Royal commits to 2027 class for Texas reut.rs/48a00qE
+Two-goal Foden helps Manchester City overcome reliance on Haaland reut.rs/48qT9rN
 
-[2025-11-30 04:05:09](https://bsky.app/profile/reuters.com/post/3m6s3qgfpp42e)
+[2025-11-30 04:40:14](https://bsky.app/profile/reuters.com/post/3m6s5p6horq26)
+
+---
+
+@bloomberg.com
+
+The American Revolution filmmaker talks about the hypocrisies of US history and what’s missing from our political lives today.
+
+[2025-11-30 04:38:07](https://bsky.app/profile/bloomberg.com/post/3m6s5leuty42h)
+
+---
+
+@bloomberg.com
+
+From small clubs to viral variety shows, China’s stand-up comedians are testing the limits of laughter in a system where every punchline must pass through censors.
+
+[2025-11-30 04:37:07](https://bsky.app/profile/bloomberg.com/post/3m6s5jljsvc2o)
+
+---
+
+@bloomberg.com
+
+The resignation of Zelenskiy’s chief of staff leaves the Ukrainian president deprived of his most important adviser at a critical moment in the fight against the Russian invasion.
+
+[2025-11-30 04:36:07](https://bsky.app/profile/bloomberg.com/post/3m6s5hsmz7a2d)
+
+---
+
+@reuters.com
+
+Piastri beats Norris to Qatar pole, Verstappen third reut.rs/4p39kCB
+
+[2025-11-30 04:35:11](https://bsky.app/profile/reuters.com/post/3m6s5g5ewyw2i)
+
+---
+
+@bloomberg.com
+
+The men were arrested at the OR Tambo airport near Johannesburg on Friday and will appear in court on Dec. 1, the Hawks, an elite police unit, said in a statement.
+
+[2025-11-30 04:35:07](https://bsky.app/profile/bloomberg.com/post/3m6s5fzbuvs22)
 
 ---
 
