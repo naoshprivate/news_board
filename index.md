@@ -1,9 +1,9 @@
-# [2025-11-29 22:10 updated](2025_11_29.md)
+# [2025-11-29 22:30 updated](2025_11_29.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Spain's SailGP final chances ebb in Abu Dhabi's light airs reut.rs/441i6Zs <a href="https://bsky.app/profile/reuters.com/post/3m6rhmrl5tf2k" target="_blank">reuters.com</a> (2025-11-29 22:05:12)</span><span style="padding-right:50px;">President Trump's "choices of words have consequences," wrote Indiana Sen. Mike Bohacek, whose daughter has Down syndrome. <a href="https://bsky.app/profile/usatoday.com/post/3m6rhf76e6x2q" target="_blank">usatoday.com</a> (2025-11-29 22:00:58)</span><span style="padding-right:50px;">The Las Vegas Raiders and Los Angeles Chargers find themselves in very different places going into their game in Inglewood, California, on Sunday. <a href="https://bsky.app/profile/apnews.com/post/3m6rheaojci2h" target="_blank">apnews.com</a> (2025-11-29 22:00:26)</span><span style="padding-right:50px;">With $1.5 million saved at 37, Florence Poirel shares the spending habits that helped her build wealth before her "mini retirement." <a href="https://bsky.app/profile/cnbc.com/post/3m6rheamwhk23" target="_blank">cnbc.com</a> (2025-11-29 22:00:25)</span><span style="padding-right:50px;">"Google just threw another twist in the fast-changing AI race. And its biggest competitors are taking notice," writes Lisa Eadicicco | Analysis https://cnn.it/3LZwyLo <a href="https://bsky.app/profile/cnn.com/post/3m6rhe5rpzb2r" target="_blank">cnn.com</a> (2025-11-29 22:00:22)</span>
+<span style="padding-right:50px;">Charts show how President Trump has eased his tariffs on some food items—but some key ingredients might still weigh on consumers. <a href="https://bsky.app/profile/wsj.com/post/3m6riqca5472i" target="_blank">wsj.com</a> (2025-11-29 22:25:03)</span><span style="padding-right:50px;">BREAKING: US President Donald Trump has said the airspace above and surrounding Venezuela is to be closed "in its entirety," as tensions between the countries escalate aje.io/cw5jnm <a href="https://bsky.app/profile/aljazeera.com/post/3m6riils5xs2h" target="_blank">aljazeera.com</a> (2025-11-29 22:20:45)</span><span style="padding-right:50px;">🇺🇸 🇻🇪 US President Donald Trump has issued a warning that the airspace above and near Venezuela should be considered closed, amid an escalating standoff with leftist leader Nicolas Maduro.  ➡️ u.afp.com/Sh8F <a href="https://bsky.app/profile/en.afp.com/post/3m6rigtgg2n2d" target="_blank">en.afp.com</a> (2025-11-29 22:19:46)</span><span style="padding-right:50px;">フランス語で書く水林章さん、仏文学の担い手に　戦禍と芸術による再生 www.nikkei.com/article/DGXZQO...  上智大学名誉教授の水林さんは日本生まれ。日本に暮らしながらフランス語で執筆しています。  9冊目のフランス語の著書『La forêt de flammes et d'ombres（炎と影の森）』が現地で話題に。  第2次世界大戦中の東京を舞台にしながら、日本語には直訳できない表現もあります。 <a href="https://bsky.app/profile/nikkei.com/post/3m6ri6tl6y52t" target="_blank">nikkei.com</a> (2025-11-29 22:15:18)</span><span style="padding-right:50px;">Trump says airspace above and surrounding Venezuela to be closed in its entirety reut.rs/4a4K6PN <a href="https://bsky.app/profile/reuters.com/post/3m6rhvq7urv2d" target="_blank">reuters.com</a> (2025-11-29 22:10:12)</span>
   </div>
 </div>
 
@@ -32,14 +32,71 @@
 
 ## News Headlines
 
-1. スペイン、SailGPファイナル進出に暗雲
-2. 中国、香港批判に警告：火災利用なら「法で処罰」
-3. 米国でTemuとSheinの売上が急減後、再び増加
-4. インボイス負担軽減措置、期限延長見送りへ
-5. 香港高層ビル火災、中国が全国的な検査開始
-6. 京都・先斗町で火災、飲食店から出火か
+1. トランプ大統領、ベネズエラ周辺空域を閉鎖
+2. 東南アジアの洪水・地滑り、死者400人超
+3. 中国治安機関、香港批判に警告：火災利用なら処罰
+4. スペインの豚肉輸出、アフリカ豚コレラ発生で大幅減
+5. 京都・先斗町で火災発生、繁華街に消防車24台出動
+6. 香港高層ビル火災、数十年来で最悪の事態
 
 ----
+
+@wsj.com
+
+Charts show how President Trump has eased his tariffs on some food items—but some key ingredients might still weigh on consumers.
+
+[2025-11-29 22:25:03](https://bsky.app/profile/wsj.com/post/3m6riqca5472i)
+
+---
+
+@aljazeera.com
+
+<strong><span style="color: red;">BREAKING:</span> US President Donald Trump has said the airspace above and surrounding Venezuela is to be closed "in its entirety," as tensions between the countries escalate aje.io/cw5jnm</strong>
+
+[2025-11-29 22:20:45](https://bsky.app/profile/aljazeera.com/post/3m6riils5xs2h)
+
+---
+
+@en.afp.com
+
+🇺🇸 🇻🇪 US President Donald Trump has issued a warning that the airspace above and near Venezuela should be considered closed, amid an escalating standoff with leftist leader Nicolas Maduro. 
+➡️ u.afp.com/Sh8F
+
+[2025-11-29 22:19:46](https://bsky.app/profile/en.afp.com/post/3m6rigtgg2n2d)
+
+---
+
+@nikkei.com
+
+フランス語で書く水林章さん、仏文学の担い手に　戦禍と芸術による再生
+www.nikkei.com/article/DGXZQO...
+
+上智大学名誉教授の水林さんは日本生まれ。日本に暮らしながらフランス語で執筆しています。
+
+9冊目のフランス語の著書『La forêt de flammes et d'ombres（炎と影の森）』が現地で話題に。
+
+第2次世界大戦中の東京を舞台にしながら、日本語には直訳できない表現もあります。
+
+[2025-11-29 22:15:18](https://bsky.app/profile/nikkei.com/post/3m6ri6tl6y52t)
+
+---
+
+@reuters.com
+
+Trump says airspace above and surrounding Venezuela to be closed in its entirety reut.rs/4a4K6PN
+
+[2025-11-29 22:10:12](https://bsky.app/profile/reuters.com/post/3m6rhvq7urv2d)
+
+---
+
+@en.afp.com
+
+🇮🇩 🇹🇭 🇲🇾 The death toll from devastating floods and landslides in Southeast Asia climbed past 400 as clean-up and search-and-rescue operations got underway in Indonesia, Thailand and Malaysia.  
+➡️ u.afp.com/Sh8m
+
+[2025-11-29 22:10:02](https://bsky.app/profile/en.afp.com/post/3m6rhvg6xri2x)
+
+---
 
 @reuters.com
 
@@ -70,68 +127,6 @@ The Las Vegas Raiders and Los Angeles Chargers find themselves in very different
 With $1.5 million saved at 37, Florence Poirel shares the spending habits that helped her build wealth before her "mini retirement."
 
 [2025-11-29 22:00:25](https://bsky.app/profile/cnbc.com/post/3m6rheamwhk23)
-
----
-
-@cnn.com
-
-"Google just threw another twist in the fast-changing AI race. And its biggest competitors are taking notice," writes Lisa Eadicicco | Analysis
-https://cnn.it/3LZwyLo
-
-[2025-11-29 22:00:22](https://bsky.app/profile/cnn.com/post/3m6rhe5rpzb2r)
-
----
-
-@nikkei.com
-
-中国治安機関、香港当局への批判に警告　火災に乗じれば「法で処罰」
-www.nikkei.com/article/DGXZQO...
-
-中国政府が香港に設置した治安機関、国家安全維持公署が声明を発表。
-
-反中勢力らが火災の混乱を利用し、フェイクニュースで香港政府への憎悪をあおっていると指摘しました。
-
-「香港で『黒暴』を再現しようとしている」とし、2019年の大規模デモの時代に引き戻そうとする動きだと主張しました。
-
-#ニュース
-
-[2025-11-29 22:00:21](https://bsky.app/profile/nikkei.com/post/3m6rhe436wf2g)
-
----
-
-@bloomberg.com
-
-Can Ken Burns keep his credibility as America’s most trusted storyteller? With ‘The American Revolution,’ he says he’s showing the nation’s founding principles in their “correct light.”
-
-Tap the link to read the full interview with Mishal Husain: bloom.bg/4p7F6yn
-
-📷️: Michael Loccisano/Getty Images
-
-[2025-11-29 22:00:21](https://bsky.app/profile/bloomberg.com/post/3m6rhe4s4lu2i)
-
----
-
-@washingtonpost.com
-
-Temu and Shein’s American sales dried up as shoppers were hit with higher prices and baffling import bills from new tariffs. But as the holiday shopping season kicks off, Temu and Shein have defied predictions of doom.
-
-[2025-11-29 22:00:17](https://bsky.app/profile/washingtonpost.com/post/3m6rhdyma332e)
-
----
-
-@npr.org
-
-"Where are the Black photographers?" Deborah Willis on how she turned that question into an artistic mission.
-
-[2025-11-29 21:58:13](https://bsky.app/profile/npr.org/post/3m6rhac637u2y)
-
----
-
-@reuters.com
-
-One third of Spanish pork export certificates blocked since swine fever outbreak, minister says reut.rs/4rsFby0
-
-[2025-11-29 21:50:12](https://bsky.app/profile/reuters.com/post/3m6rgrxu7322y)
 
 ---
 
