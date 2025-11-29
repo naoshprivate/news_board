@@ -1,9 +1,9 @@
-# [2025-11-30 00:10 updated](2025_11_30.md)
+# [2025-11-30 00:30 updated](2025_11_30.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">10 truths about the stock market <a href="https://bsky.app/profile/yahoofinance.com/post/3m6roezxxd422" target="_blank">yahoofinance.com</a> (2025-11-30 00:06:08)</span><span style="padding-right:50px;">Doctors say it's possible to get hooked on pot. There's a widespread misconception that marijuana is not addictive, and it's expanded as a growing number of states legalize pot. <a href="https://bsky.app/profile/apnews.com/post/3m6ro3ga7lf2j" target="_blank">apnews.com</a> (2025-11-30 00:00:46)</span><span style="padding-right:50px;">✈️ Fears of days of travel chaos across Europe and the world eased on Saturday after plane manufacturer Airbus intervened rapidly to implement a software upgrade it had said was immediately needed on some 6,000 of its stalwart A320 planes.  ➡️ u.afp.com/ShXN <a href="https://bsky.app/profile/en.afp.com/post/3m6ro3fvqeg2x" target="_blank">en.afp.com</a> (2025-11-30 00:00:45)</span><span style="padding-right:50px;">Ukrainian underwater drones have struck two tankers belonging to Russia’s so-called shadow fleet in the Black Sea, according to an official in Ukraine’s security services (SBU). https://cnn.it/4ot3tp8 <a href="https://bsky.app/profile/cnn.com/post/3m6ro2xo6e62f" target="_blank">cnn.com</a> (2025-11-30 00:00:30)</span><span style="padding-right:50px;">The White House launched a page on its website, titled the “Hall of Shame,” devoted to naming and shaming media outlets and reporters that publish stories President Trump disagrees with.  “Misleading. Biased. Exposed,” the site reads.  <a href="https://bsky.app/profile/washingtonpost.com/post/3m6ro2wuyjg2s" target="_blank">washingtonpost.com</a> (2025-11-30 00:00:29)</span>
+<span style="padding-right:50px;">秋篠宮さま 60歳の誕生日 https://news.web.nhk/newsweb/na/na-k10014989741000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6rpf3sgkt2r" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-30 00:24:02)</span><span style="padding-right:50px;">How Trump's 'big beautiful bill' could affect your Giving Tuesday tax break <a href="https://bsky.app/profile/cnbc.com/post/3m6rpdciju22e" target="_blank">cnbc.com</a> (2025-11-30 00:23:04)</span><span style="padding-right:50px;">🇺🇦 🇷🇺 One of Russia's largest oil terminals halted operations on Saturday following an attack by sea drones, hours before Ukrainian negotiators were headed to the United States for talks on ending the war.  ➡️ u.afp.com/ShXg <a href="https://bsky.app/profile/en.afp.com/post/3m6rp6tgewh25" target="_blank">en.afp.com</a> (2025-11-30 00:20:34)</span><span style="padding-right:50px;">BREAKING: Gaza’s Health Ministry said Saturday that the Palestinian death toll has surpassed 70,000 since the Israel-Hamas war began. <a href="https://bsky.app/profile/apnews.com/post/3m6rp4q22ew27" target="_blank">apnews.com</a> (2025-11-30 00:19:23)</span><span style="padding-right:50px;">Tunisian police arrest prominent opposition figure Chaima Issa to enforce 20-year jail term reut.rs/4ak3lEM <a href="https://bsky.app/profile/reuters.com/post/3m6romj6ojk2i" target="_blank">reuters.com</a> (2025-11-30 00:10:19)</span>
   </div>
 </div>
 
@@ -32,14 +32,56 @@
 
 ## News Headlines
 
-1. 株の真実：知っておくべき10のこと
-2. 医師警告：マリファナ中毒の可能性、誤解が蔓延
-3. エアバス、A320型機ソフトウェア更新で旅行混乱回避
-4. ウクライナ、ロシア影の艦隊タンカーを水中ドローンで攻撃か
-5. ホワイトハウス、「恥の殿堂」開設でトランプ批判メディアを非難
-6. 170ポンドのウミガメ「モリー」、腫瘍除去手術成功で故郷へ
+1. 秋篠宮さま、60歳の誕生日を迎えられる
+2. ロシアの主要石油ターミナル、海上ドローン攻撃で操業停止
+3. ガザ保健省、イスラエル・ハマス戦争でのパレスチナ人死者7万人超と発表
+4. チュニジア警察、著名な反体制派人物を逮捕
+5. エアバス、A320型機6000機に緊急ソフトウェアアップデートを実施
+6. 巨大なオサガメ「モリー」、腫瘍除去手術成功でフロリダの海へ
 
 ----
+
+@nhknewsunofficial.bsky.social
+
+秋篠宮さま 60歳の誕生日
+https://news.web.nhk/newsweb/na/na-k10014989741000
+
+[2025-11-30 00:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6rpf3sgkt2r)
+
+---
+
+@cnbc.com
+
+How Trump's 'big beautiful bill' could affect your Giving Tuesday tax break
+
+[2025-11-30 00:23:04](https://bsky.app/profile/cnbc.com/post/3m6rpdciju22e)
+
+---
+
+@en.afp.com
+
+🇺🇦 🇷🇺 One of Russia's largest oil terminals halted operations on Saturday following an attack by sea drones, hours before Ukrainian negotiators were headed to the United States for talks on ending the war. 
+➡️ u.afp.com/ShXg
+
+[2025-11-30 00:20:34](https://bsky.app/profile/en.afp.com/post/3m6rp6tgewh25)
+
+---
+
+@apnews.com
+
+<strong><span style="color: red;">BREAKING:</span> Gaza’s Health Ministry said Saturday that the Palestinian death toll has surpassed 70,000 since the Israel-Hamas war began.</strong>
+
+[2025-11-30 00:19:23](https://bsky.app/profile/apnews.com/post/3m6rp4q22ew27)
+
+---
+
+@reuters.com
+
+Tunisian police arrest prominent opposition figure Chaima Issa to enforce 20-year jail term reut.rs/4ak3lEM
+
+[2025-11-30 00:10:19](https://bsky.app/profile/reuters.com/post/3m6romj6ojk2i)
+
+---
 
 @yahoofinance.com
 
@@ -82,52 +124,6 @@ The White House launched a page on its website, titled the “Hall of Shame,” 
 “Misleading. Biased. Exposed,” the site reads. 
 
 [2025-11-30 00:00:29](https://bsky.app/profile/washingtonpost.com/post/3m6ro2wuyjg2s)
-
----
-
-@cnbc.com
-
-Despite the region’s reputation for opulence, Nicole Brewer’s day-to-day life in Oman is unostentatious and, by U.S. standards, inexpensive. 
-
-For now, Brewer has no plans to leave what she says is a fulfilling and peaceful life in Oman.
-
-[2025-11-30 00:00:22](https://bsky.app/profile/cnbc.com/post/3m6ro2powuz2g)
-
----
-
-@nbcnews.com
-
-A massive 170-pound loggerhead sea turtle nicknamed “Molly” is home in the warm waters of the Florida Keys after a successful surgery to remove a life-threatening tumor inches from her head. 
-
-[2025-11-30 00:00:13](https://bsky.app/profile/nbcnews.com/post/3m6ro2h25zb2r)
-
----
-
-@bloomberg.com
-
-At one of the world's leading hospitality schools, we learned the secret to five-start service. Hint: It might be hiding at your local Starbucks.
-
-Read more: bloom.bg/3JZwdI0
-
-📷️: Getty Images
-
-[2025-11-30 00:00:12](https://bsky.app/profile/bloomberg.com/post/3m6ro2gblnl2h)
-
----
-
-@usatoday.com
-
-During the pandemic, Kelly Matsunaga started making workout videos. Today, she has nearly half a million subscribers on YouTube and more than 450,000 followers on Instagram where she shares at home fitness routines and insights on womanhood, motherhood and mental health. bit.ly/48gEW0d
-
-[2025-11-30 00:00:09](https://bsky.app/profile/usatoday.com/post/3m6ro2cwvwj2d)
-
----
-
-@financialtimes.com
-
-In the latest edition of FT Weekend Magazine’s Christmas issue you'll find advice from the festive pros, a round-up of the best ever Christmas recipes, Nigella Lawson’s gift guide: on.ft.com/4rrcpho
-
-[2025-11-30 00:00:04](https://bsky.app/profile/financialtimes.com/post/3m6ro26xjt226)
 
 ---
 
