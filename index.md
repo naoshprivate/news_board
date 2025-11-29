@@ -1,9 +1,9 @@
-# [2025-11-29 18:30 updated](2025_11_29.md)
+# [2025-11-29 19:10 updated](2025_11_29.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Thai family trapped by floods clings to furniture for 48 hours to survive reut.rs/4ambVmz <a href="https://bsky.app/profile/reuters.com/post/3m6r3dealjh27" target="_blank">reuters.com</a> (2025-11-29 18:25:11)</span><span style="padding-right:50px;">スノーボードW杯 ビッグエア開幕戦 女子は日本勢が表彰台独占 https://news.web.nhk/newsweb/na/na-k10014989751000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6r3bfgnxx2t" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-29 18:24:03)</span><span style="padding-right:50px;">“ウクライナ代表団が近く訪米し協議予定” 和平案めぐり https://news.web.nhk/newsweb/na/na-k10014989771000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6r33zuhfm2g" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-29 18:21:03)</span><span style="padding-right:50px;">🇮🇩 🇹🇭 🇲🇾 The death toll from devastating floods and landslides in Southeast Asia has climbed past 370 as clean-up and search and rescue operations got underway in Indonesia, Thailand and Malaysia.  ➡️ u.afp.com/Sh8m <a href="https://bsky.app/profile/en.afp.com/post/3m6r32rrou32u" target="_blank">en.afp.com</a> (2025-11-29 18:20:23)</span><span style="padding-right:50px;">Henry Bath lists LME warehouse in Hong Kong reut.rs/4ivzbRa <a href="https://bsky.app/profile/reuters.com/post/3m6r2rje53626" target="_blank">reuters.com</a> (2025-11-29 18:15:12)</span>
+<span style="padding-right:50px;">2025 sporting moments in pictures reut.rs/4pgcmUk <a href="https://bsky.app/profile/reuters.com/post/3m6r5kwkyjq2i" target="_blank">reuters.com</a> (2025-11-29 19:05:12)</span><span style="padding-right:50px;">✈️ More airlines around the world announced delayed or cancelled flights Saturday following an Airbus alert that up to 6,000 A320 aircraft may require upgrades.  ➡️ u.afp.com/Sh87 <a href="https://bsky.app/profile/en.afp.com/post/3m6r5fap5vz2x" target="_blank">en.afp.com</a> (2025-11-29 19:02:02)</span><span style="padding-right:50px;">🛎️週刊女性より【独自】です。  【独自】ドラマ『スキャンダルイブ』で不倫疑惑タレントを演じる浅香航大に“新たな”スキャンダル!? 酉の… (2025-11-29) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6r5dyoyzc24" target="_blank">sokuho.news</a> (2025-11-29 19:01:20)</span><span style="padding-right:50px;">【トラフグといえば千葉？】 漁獲急増のいすみ市、処理師の育成急ぐ www.nikkei.com/article/DGXZQO...  太平洋に面する千葉県いすみ市の大原漁港で近年トラフグの漁獲が急増。  しかし、フグは取れても地元で食べられる場所がまだ少なく、市などはふぐ処理師の育成を急いでいます。  いすみ市が「ふぐのまち」になれば、フグ料理で腹を満たしヒレ酒で心地よく酔った後、JR外房線の電車に乗り込んでその日のうちに東京に帰り着くこともできます。 <a href="https://bsky.app/profile/nikkei.com/post/3m6r5dvtu5s2w" target="_blank">nikkei.com</a> (2025-11-29 19:01:17)</span><span style="padding-right:50px;">Four times taller than the Hollywood sign and around seven times larger than the White House, Uzbekistan’s newest cultural center is a monument of epic proportions. <a href="https://bsky.app/profile/cnn.com/post/3m6r5dh6i2b23" target="_blank">cnn.com</a> (2025-11-29 19:01:01)</span>
   </div>
 </div>
 
@@ -32,95 +32,105 @@
 
 ## News Headlines
 
-1. 東南アジア洪水・地滑り、死者370人超
-2. スノーボードW杯ビッグエア、日本勢が表彰台独占
-3. LME銅価格、史上最高値を更新
-4. 米マイクロン、日本にAIメモリチップ工場建設へ1兆5千億円投資
-5. タイの家族、洪水で48時間家具につかまり生存
-6. 中国、香港火災を受け全国的な防火検査を開始
+1.  エアバス機に不具合、全日空95便欠航
+2.  黒海で無人艇がロシア影のタンカーを攻撃か
+3.  トラフグ漁獲急増、千葉県いすみ市が「ふぐのまち」へ
+4.  東南アジアで洪水・地滑り、死者370人超
+5.  ウクライナに大規模攻撃、首都キーウで停電
+6.  証券口座乗っ取りか、低位株ねらい株価つり上げ
 
 ----
 
 @reuters.com
 
-Thai family trapped by floods clings to furniture for 48 hours to survive reut.rs/4ambVmz
+2025 sporting moments in pictures reut.rs/4pgcmUk
 
-[2025-11-29 18:25:11](https://bsky.app/profile/reuters.com/post/3m6r3dealjh27)
-
----
-
-@nhknewsunofficial.bsky.social
-
-スノーボードW杯 ビッグエア開幕戦 女子は日本勢が表彰台独占
-https://news.web.nhk/newsweb/na/na-k10014989751000
-
-[2025-11-29 18:24:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6r3bfgnxx2t)
-
----
-
-@nhknewsunofficial.bsky.social
-
-“ウクライナ代表団が近く訪米し協議予定” 和平案めぐり
-https://news.web.nhk/newsweb/na/na-k10014989771000
-
-[2025-11-29 18:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6r33zuhfm2g)
+[2025-11-29 19:05:12](https://bsky.app/profile/reuters.com/post/3m6r5kwkyjq2i)
 
 ---
 
 @en.afp.com
 
-🇮🇩 🇹🇭 🇲🇾 The death toll from devastating floods and landslides in Southeast Asia has climbed past 370 as clean-up and search and rescue operations got underway in Indonesia, Thailand and Malaysia. 
-➡️ u.afp.com/Sh8m
+✈️ More airlines around the world announced delayed or cancelled flights Saturday following an Airbus alert that up to 6,000 A320 aircraft may require upgrades. 
+➡️ u.afp.com/Sh87
 
-[2025-11-29 18:20:23](https://bsky.app/profile/en.afp.com/post/3m6r32rrou32u)
+[2025-11-29 19:02:02](https://bsky.app/profile/en.afp.com/post/3m6r5fap5vz2x)
+
+---
+
+@sokuho.news
+
+🛎️週刊女性より【独自】です。
+
+【独自】ドラマ『スキャンダルイブ』で不倫疑惑タレントを演じる浅香航大に“新たな”スキャンダル!? 酉の…
+(2025-11-29) #ニュース
+
+[2025-11-29 19:01:20](https://bsky.app/profile/sokuho.news/post/3m6r5dyoyzc24)
+
+---
+
+@nikkei.com
+
+【トラフグといえば千葉？】
+漁獲急増のいすみ市、処理師の育成急ぐ
+www.nikkei.com/article/DGXZQO...
+
+太平洋に面する千葉県いすみ市の大原漁港で近年トラフグの漁獲が急増。
+
+しかし、フグは取れても地元で食べられる場所がまだ少なく、市などはふぐ処理師の育成を急いでいます。
+
+いすみ市が「ふぐのまち」になれば、フグ料理で腹を満たしヒレ酒で心地よく酔った後、JR外房線の電車に乗り込んでその日のうちに東京に帰り着くこともできます。
+
+[2025-11-29 19:01:17](https://bsky.app/profile/nikkei.com/post/3m6r5dvtu5s2w)
+
+---
+
+@cnn.com
+
+Four times taller than the Hollywood sign and around seven times larger than the White House, Uzbekistan’s newest cultural center is a monument of epic proportions.
+
+[2025-11-29 19:01:01](https://bsky.app/profile/cnn.com/post/3m6r5dh6i2b23)
+
+---
+
+@apnews.com
+
+A college freshman trying to fly from Boston to Texas to surprise her family for Thanksgiving was deported to Honduras in violation of a court order.
+
+[2025-11-29 19:00:39](https://bsky.app/profile/apnews.com/post/3m6r5crlfjt27)
 
 ---
 
 @reuters.com
 
-Henry Bath lists LME warehouse in Hong Kong reut.rs/4ivzbRa
+Unmanned vessel attacked Russian shadow-fleet tanker in Black Sea, Turkey says reut.rs/3MuTuSH
 
-[2025-11-29 18:15:12](https://bsky.app/profile/reuters.com/post/3m6r2rje53626)
+[2025-11-29 19:00:27](https://bsky.app/profile/reuters.com/post/3m6r5cgsqim2d)
+
+---
+
+@financialtimes.com
+
+The executive on the ‘hideous’ implementation of the 2022 Chips Act, his new role heading up a Christian AI platform — and why quantum could upend computing on.ft.com/48oBhO2
+
+[2025-11-29 19:00:09](https://bsky.app/profile/financialtimes.com/post/3m6r5bvnboz2c)
 
 ---
 
 @reuters.com
 
-NBA roundup: Luka Doncic burns Mavs, Lakers sweep NBA Cup group reut.rs/44F8Mun
+Chile's copper output, manufacturing production fall in October reut.rs/43Whh47
 
-[2025-11-29 18:10:11](https://bsky.app/profile/reuters.com/post/3m6r2ikjbmn2o)
-
----
-
-@reuters.com
-
-Airbus eases estimate of A320 recall impact, sources say reut.rs/49NdiKO
-
-[2025-11-29 18:05:09](https://bsky.app/profile/reuters.com/post/3m6r27kci7o2r)
+[2025-11-29 18:50:14](https://bsky.app/profile/reuters.com/post/3m6r4q5pylm2n)
 
 ---
 
-@washingtonpost.com
+@en.afp.com
 
-In a landmark move, countries around the world have adopted international protections for many species of sharks and rays that are widely hunted, some whose parts are used in commercial products like makeup, moisturizers and culinary delicacies.
+🇧🇩 Former Bangladesh prime minister Khaleda Zia's health deteriorated since being admitted to hospital, prompting her family and party members to urge citizens to pray for her speedy recovery on Saturday. 
+➡️ u.afp.com/Sh8n
 
-[2025-11-29 18:01:01](https://bsky.app/profile/washingtonpost.com/post/3m6qzy5dk2b2a)
-
----
-
-@reuters.com
-
-China launches nationwide fire safety inspection following Hong Kong fire reut.rs/43UapnU
-
-[2025-11-29 18:00:43](https://bsky.app/profile/reuters.com/post/3m6qzxmjpxg2r)
-
----
-
-@aljazeera.com
-
-Some 44,000 people displaced by flooding across the country as relief operations intensify amid widespread destruction.
-
-[2025-11-29 18:00:23](https://bsky.app/profile/aljazeera.com/post/3m6qzwz5bf32c)
+[2025-11-29 18:50:01](https://bsky.app/profile/en.afp.com/post/3m6r4prdkue2a)
 
 ---
 
