@@ -1,9 +1,9 @@
-# [2025-11-29 23:10 updated](2025_11_29.md)
+# [2025-11-29 23:30 updated](2025_11_29.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Breaking news: Donald Trump has said that Venezuela’s airspace should be considered closed, after a military build-up by US forces in the region on.ft.com/489mnfV <a href="https://bsky.app/profile/financialtimes.com/post/3m6rl3t5f4x24" target="_blank">financialtimes.com</a> (2025-11-29 23:07:18)</span><span style="padding-right:50px;">Medicare Advantage woos seniors with plan perks, but a study found they often go unused <a href="https://bsky.app/profile/yahoofinance.com/post/3m6rkzpy5l42e" target="_blank">yahoofinance.com</a> (2025-11-29 23:06:07)</span><span style="padding-right:50px;">Getting a diagnosis is key since there are different causes for the problem calling for different treatments. Here's what to know and how to find support if you are living with hair loss. <a href="https://bsky.app/profile/npr.org/post/3m6rkxpxi5s2h" target="_blank">npr.org</a> (2025-11-29 23:05:00)</span><span style="padding-right:50px;">Anthony Davis returned to Los Angeles on the same night he came back from a 14-game injury absence, and he received loud pregame cheers from Lakers fans who were thrilled to see a longtime favorite healthy and hooping. <a href="https://bsky.app/profile/apnews.com/post/3m6rkqmr5bx2w" target="_blank">apnews.com</a> (2025-11-29 23:01:02)</span><span style="padding-right:50px;">No immediate response from Venezuela after President Trump’s makes the announcement on social media on Saturday. <a href="https://bsky.app/profile/aljazeera.com/post/3m6rkqj763w2d" target="_blank">aljazeera.com</a> (2025-11-29 23:00:58)</span>
+<span style="padding-right:50px;">In 2024, Romania, an upper middle income European country, had over 30,000 cases — putting it on the world's top ten measles list. Its vaccination rate hovers around 60%. How did this happen? <a href="https://bsky.app/profile/npr.org/post/3m6rm4mswmx2s" target="_blank">npr.org</a> (2025-11-29 23:25:39)</span><span style="padding-right:50px;">🇻🇦 🇹🇷 Pope Leo XIV visits Istanbul's Blue Mosque  Pope Leo XIV visits Istanbul's famed Blue Mosque on the third day of his trip to Turkey. It was the first time the American pope, who was elected in May, has visited a Muslim place of worship since taking over from his late predecessor Francis. <a href="https://bsky.app/profile/en.afp.com/post/3m6rlvrgdtp2u" target="_blank">en.afp.com</a> (2025-11-29 23:21:48)</span><span style="padding-right:50px;">Azerbaijani police raid home of leading opposition figure amid coup attempt probe reut.rs/43ZrA7s <a href="https://bsky.app/profile/reuters.com/post/3m6rljy4qfb2a" target="_blank">reuters.com</a> (2025-11-29 23:15:13)</span><span style="padding-right:50px;">FDA commissioner says data showed 10 child deaths due to COVID shots reut.rs/4prwtyZ <a href="https://bsky.app/profile/reuters.com/post/3m6rlb54gsq26" target="_blank">reuters.com</a> (2025-11-29 23:10:16)</span><span style="padding-right:50px;">Breaking news: Donald Trump has said that Venezuela’s airspace should be considered closed, after a military build-up by US forces in the region on.ft.com/489mnfV <a href="https://bsky.app/profile/financialtimes.com/post/3m6rl3t5f4x24" target="_blank">financialtimes.com</a> (2025-11-29 23:07:18)</span>
   </div>
 </div>
 
@@ -32,14 +32,48 @@
 
 ## News Headlines
 
-1. トランプ氏、ベネズエラ空域閉鎖を表明
-2. メディケアアドバンテージ、特典利用されず？研究が指摘
-3. 薄毛の診断と治療：原因に応じたアプローチ
-4. アンソニー・デイビス復帰、レイカーズファン歓喜
-5. リンダ・ハミルトン、自然な老化を受け入れ年齢差別を拒否
-6. FDA、コロナワクチンが子供の死亡に関与と結論
+1.  ルーマニア、麻疹患者数で世界トップ10入り、ワクチン接種率低迷
+2.  レオ14世教皇、イスタンブール・ブルーモスクを訪問
+3.  トランプ大統領、ベネズエラの空域閉鎖を宣言
+4.  FDA、COVIDワクチン接種後の子供の死亡例を報告
+5.  ガザ地区、戦闘開始以降の死者7万人超と発表
+6.  東南アジアの洪水・地滑り、死者400人超に増加
 
 ----
+
+@npr.org
+
+In 2024, Romania, an upper middle income European country, had over 30,000 cases — putting it on the world's top ten measles list. Its vaccination rate hovers around 60%. How did this happen?
+
+[2025-11-29 23:25:39](https://bsky.app/profile/npr.org/post/3m6rm4mswmx2s)
+
+---
+
+@en.afp.com
+
+🇻🇦 🇹🇷 Pope Leo XIV visits Istanbul's Blue Mosque
+
+Pope Leo XIV visits Istanbul's famed Blue Mosque on the third day of his trip to Turkey. It was the first time the American pope, who was elected in May, has visited a Muslim place of worship since taking over from his late predecessor Francis.
+
+[2025-11-29 23:21:48](https://bsky.app/profile/en.afp.com/post/3m6rlvrgdtp2u)
+
+---
+
+@reuters.com
+
+Azerbaijani police raid home of leading opposition figure amid coup attempt probe reut.rs/43ZrA7s
+
+[2025-11-29 23:15:13](https://bsky.app/profile/reuters.com/post/3m6rljy4qfb2a)
+
+---
+
+@reuters.com
+
+FDA commissioner says data showed 10 child deaths due to COVID shots reut.rs/4prwtyZ
+
+[2025-11-29 23:10:16](https://bsky.app/profile/reuters.com/post/3m6rlb54gsq26)
+
+---
 
 @financialtimes.com
 
@@ -86,39 +120,6 @@ No immediate response from Venezuela after President Trump’s makes the announc
 Linda Hamilton joins a growing group of Hollywood women rejecting ageism and embracing natural aging, inspiring others to rethink beauty expectations.
 
 [2025-11-29 23:00:56](https://bsky.app/profile/usatoday.com/post/3m6rkqhgnjb2u)
-
----
-
-@reuters.com
-
-Airbus recall, Pope Leo and icy swims reut.rs/4pFob69
-
-[2025-11-29 23:00:39](https://bsky.app/profile/reuters.com/post/3m6rkpwkm4r2a)
-
----
-
-@nbcnews.com
-
-Mohammed Ibrahim, an American teenager held in Israeli custody months after he was accused of throwing rocks at Israeli settlers, has reunited with his family.
-
-[2025-11-29 23:00:31](https://bsky.app/profile/nbcnews.com/post/3m6rkpp6g4s22)
-
----
-
-@en.afp.com
-
-🇵🇸 With a pot of glue, a blade and a keen eye, Manal al-Saadani repairs tattered banknotes -- a necessity in the Gaza Strip, where the cash in circulation is wearing out. 
-➡️ u.afp.com/Sh8v
-
-[2025-11-29 23:00:12](https://bsky.app/profile/en.afp.com/post/3m6rkp4neok22)
-
----
-
-@bloomberg.com
-
-We're covering how the world feeds itself in a changing economy and climate, from farming to supply chains to consumer trends. Subscribe to our Business of Food weekly newsletter and read the latest edition: bloom.bg/4mVorw9
-
-[2025-11-29 23:00:12](https://bsky.app/profile/bloomberg.com/post/3m6rkp4o2lc2s)
 
 ---
 
