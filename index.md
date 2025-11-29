@@ -1,9 +1,9 @@
-# [2025-11-29 15:50 updated](2025_11_29.md)
+# [2025-11-29 16:10 updated](2025_11_29.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Top 25 basketball roundup: No. 5 UConn rolls past No. 13 Illinois reut.rs/3XWc88B <a href="https://bsky.app/profile/reuters.com/post/3m6qsfcyvqb2e" target="_blank">reuters.com</a> (2025-11-29 15:45:13)</span><span style="padding-right:50px;">Lenders gear up for loosening of capital rules by Bank of England on.ft.com/3KfGBeK <a href="https://bsky.app/profile/financialtimes.com/post/3m6qrupww3w2l" target="_blank">financialtimes.com</a> (2025-11-29 15:35:56)</span><span style="padding-right:50px;">PWHL's expansion Seattle team breaks attendance record reut.rs/3XqPq8t <a href="https://bsky.app/profile/reuters.com/post/3m6qrtci3gj2e" target="_blank">reuters.com</a> (2025-11-29 15:35:08)</span><span style="padding-right:50px;">「インナーマッスル」を鍛える　力入れすぎずトレーニング www.nikkei.com/article/DGXZQO...  （2025年6月 読まれた記事） #いい肉の日 <a href="https://bsky.app/profile/nikkei.com/post/3m6qrit5h3q2l" target="_blank">nikkei.com</a> (2025-11-29 15:29:17)</span><span style="padding-right:50px;">‘Too little, too late’: advisers to the rich react to UK Budget’s non-dom tax cap on.ft.com/48mQb7n <a href="https://bsky.app/profile/financialtimes.com/post/3m6qrilnaw226" target="_blank">financialtimes.com</a> (2025-11-29 15:29:09)</span>
+<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】J2ベガルタ仙台 J1昇格プレーオフ進出ならず (2025-11-29 15:33:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6qtksmu3u2x" target="_blank">sokuho.news</a> (2025-11-29 16:06:11)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】V・ファーレン長崎が8年ぶりのJ1昇格！徳島に1-1で引き分ける (2025-11-29 16:01) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6qtklrmt72d" target="_blank">sokuho.news</a> (2025-11-29 16:06:04)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】徳島県議会議員の古川広志容疑（64）を逮捕 都内のホテルで風俗店の女性を呼んで盗撮したか 警視庁 (2025-11-29 16:01:20) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6qtjtgzur2m" target="_blank">sokuho.news</a> (2025-11-29 16:05:38)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】祝カターレ富山J2残留 秋田を4-1で破る！熊本が引き分け得失点差で上回り残留 (2025-11-29 16:02) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6qtjq2fgf2l" target="_blank">sokuho.news</a> (2025-11-29 16:05:35)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】V・ファーレン長崎、8年ぶりJ1昇格決定！最終節で悲願達成、高木体制で「劇的V字回復」果たし頂点へ (2025-11-29 16:02:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6qtjb43ky27" target="_blank">sokuho.news</a> (2025-11-29 16:05:19)</span>
   </div>
 </div>
 
@@ -32,96 +32,113 @@
 
 ## News Headlines
 
-1.  UConn大勝、イリノイ大を圧倒
-2.  PWHLシアトル、観客動員記録を更新
-3.  イギリスホッケーの英雄シェルワニ氏死去、63歳
-4.  長崎・長与町の焼き肉店で火事、消防車8台が出動
-5.  郡山市の公園で熊が出没、周辺は住宅地
-6.  香港高層住宅火災、政府への批判高まる
+1.  V・ファーレン長崎、8年ぶりJ1昇格決定！
+2.  カターレ富山、J2残留！得失点差で劇的勝利
+3.  ベガルタ仙台、J1昇格プレーオフ進出ならず
+4.  徳島県議会議員、盗撮容疑で逮捕
+5.  郡山市で熊出没、学校・住宅地付近で警戒
+6.  長与町の焼き肉店で火事、消防車8台出動
 
 ----
 
-@reuters.com
+@sokuho.news
 
-Top 25 basketball roundup: No. 5 UConn rolls past No. 13 Illinois reut.rs/3XWc88B
+🛎️JNNより【速報】です。
 
-[2025-11-29 15:45:13](https://bsky.app/profile/reuters.com/post/3m6qsfcyvqb2e)
+【速報】J2ベガルタ仙台 J1昇格プレーオフ進出ならず
+(2025-11-29 15:33:00) #ニュース
 
----
-
-@financialtimes.com
-
-Lenders gear up for loosening of capital rules by Bank of England on.ft.com/3KfGBeK
-
-[2025-11-29 15:35:56](https://bsky.app/profile/financialtimes.com/post/3m6qrupww3w2l)
+[2025-11-29 16:06:11](https://bsky.app/profile/sokuho.news/post/3m6qtksmu3u2x)
 
 ---
 
-@reuters.com
+@sokuho.news
 
-PWHL's expansion Seattle team breaks attendance record reut.rs/3XqPq8t
+🛎️FNNより【速報】です。
 
-[2025-11-29 15:35:08](https://bsky.app/profile/reuters.com/post/3m6qrtci3gj2e)
+【速報】V・ファーレン長崎が8年ぶりのJ1昇格！徳島に1-1で引き分ける
+(2025-11-29 16:01) #ニュース
 
----
-
-@nikkei.com
-
-「インナーマッスル」を鍛える　力入れすぎずトレーニング
-www.nikkei.com/article/DGXZQO...
-
-（2025年6月 読まれた記事）
-#いい肉の日
-
-[2025-11-29 15:29:17](https://bsky.app/profile/nikkei.com/post/3m6qrit5h3q2l)
+[2025-11-29 16:06:04](https://bsky.app/profile/sokuho.news/post/3m6qtklrmt72d)
 
 ---
 
-@financialtimes.com
+@sokuho.news
 
-‘Too little, too late’: advisers to the rich react to UK Budget’s non-dom tax cap on.ft.com/48mQb7n
+🛎️JNNより【速報】です。
 
-[2025-11-29 15:29:09](https://bsky.app/profile/financialtimes.com/post/3m6qrilnaw226)
+【速報】徳島県議会議員の古川広志容疑（64）を逮捕 都内のホテルで風俗店の女性を呼んで盗撮したか 警視庁
+(2025-11-29 16:01:20) #ニュース
 
----
-
-@reuters.com
-
-Britain hockey great Sherwani dies aged 63 reut.rs/4rptcBq
-
-[2025-11-29 15:25:09](https://bsky.app/profile/reuters.com/post/3m6qrbh26ta2k)
+[2025-11-29 16:05:38](https://bsky.app/profile/sokuho.news/post/3m6qtjtgzur2m)
 
 ---
 
-@reuters.com
+@sokuho.news
 
-Morkel says white-ball switch will help India regroup after test defeat reut.rs/3XXEa3w
+🛎️FNNより【速報】です。
 
-[2025-11-29 15:15:13](https://bsky.app/profile/reuters.com/post/3m6qqpoey6w2i)
+【速報】祝カターレ富山J2残留 秋田を4-1で破る！熊本が引き分け得失点差で上回り残留
+(2025-11-29 16:02) #ニュース
+
+[2025-11-29 16:05:35](https://bsky.app/profile/sokuho.news/post/3m6qtjq2fgf2l)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@sokuho.news
 
-Are UK Christmas markets as good as German ones? Here's what we found
+🛎️JNNより【速報】です。
 
-[2025-11-29 15:15:06](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6qqpik6e32h)
+【速報】V・ファーレン長崎、8年ぶりJ1昇格決定！最終節で悲願達成、高木体制で「劇的V字回復」果たし頂点へ
+(2025-11-29 16:02:00) #ニュース
+
+[2025-11-29 16:05:19](https://bsky.app/profile/sokuho.news/post/3m6qtjb43ky27)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】カターレ富山 J2残留決定！ ホーム最終戦で秋田に勝利 熊本は引き分け、得失点差で上回る サッカー明治安田J2
+(2025-11-29 16:02:00) #ニュース
+
+[2025-11-29 16:04:59](https://bsky.app/profile/sokuho.news/post/3m6qtio7nmb24)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】J2最終節 V長崎がJ1昇格決定！ 徳島と引き分け8季ぶりの舞台へ
+(2025-11-29 16:02) #ニュース
+
+[2025-11-29 16:02:43](https://bsky.app/profile/sokuho.news/post/3m6qtemjwx42l)
+
+---
+
+@cnn.com
+
+More than $100,000 worth of escargots were stolen from a French snail farmer earlier this week, French media reported, leaving the supplier scrambling to replenish its stock in time for the holiday season.
+
+[2025-11-29 16:01:01](https://bsky.app/profile/cnn.com/post/3m6qtbl63h22m)
+
+---
+
+@apnews.com
+
+Houston quarterback C.J. Stroud will return Sunday when the Texans visit Indianapolis in a key AFC South matchup after he missed the last three games recovering from a concussion.
+
+[2025-11-29 16:00:43](https://bsky.app/profile/apnews.com/post/3m6qtazie7k2r)
 
 ---
 
 @cnbc.com
 
-Silver hit record highs in 2025 – here's why the 'Devil’s metal' has further to run
+"If you want your kids to always trust, respect and want to be around you, no matter how old they are, start doing these seven things early on," says this parenting researcher and coach.
 
-[2025-11-29 15:12:49](https://bsky.app/profile/cnbc.com/post/3m6qqlexkk42j)
-
----
-
-@financialtimes.com
-
-Liberalism can win back the working class. Here’s how on.ft.com/4p790CK
-
-[2025-11-29 15:11:09](https://bsky.app/profile/financialtimes.com/post/3m6qqifi66r2l)
+[2025-11-29 16:00:33](https://bsky.app/profile/cnbc.com/post/3m6qtaqcec32a)
 
 ---
 
