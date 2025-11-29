@@ -1,9 +1,9 @@
-# [2025-11-30 00:30 updated](2025_11_30.md)
+# [2025-11-30 00:50 updated](2025_11_30.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">秋篠宮さま 60歳の誕生日 https://news.web.nhk/newsweb/na/na-k10014989741000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6rpf3sgkt2r" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-30 00:24:02)</span><span style="padding-right:50px;">How Trump's 'big beautiful bill' could affect your Giving Tuesday tax break <a href="https://bsky.app/profile/cnbc.com/post/3m6rpdciju22e" target="_blank">cnbc.com</a> (2025-11-30 00:23:04)</span><span style="padding-right:50px;">🇺🇦 🇷🇺 One of Russia's largest oil terminals halted operations on Saturday following an attack by sea drones, hours before Ukrainian negotiators were headed to the United States for talks on ending the war.  ➡️ u.afp.com/ShXg <a href="https://bsky.app/profile/en.afp.com/post/3m6rp6tgewh25" target="_blank">en.afp.com</a> (2025-11-30 00:20:34)</span><span style="padding-right:50px;">BREAKING: Gaza’s Health Ministry said Saturday that the Palestinian death toll has surpassed 70,000 since the Israel-Hamas war began. <a href="https://bsky.app/profile/apnews.com/post/3m6rp4q22ew27" target="_blank">apnews.com</a> (2025-11-30 00:19:23)</span><span style="padding-right:50px;">Tunisian police arrest prominent opposition figure Chaima Issa to enforce 20-year jail term reut.rs/4ak3lEM <a href="https://bsky.app/profile/reuters.com/post/3m6romj6ojk2i" target="_blank">reuters.com</a> (2025-11-30 00:10:19)</span>
+<span style="padding-right:50px;">These are the 100 gifts our readers have loved the most from all of our gift guides since we started our gifts coverage in 2020. <a href="https://bsky.app/profile/nytimes.com/post/3m6rqo6maig2y" target="_blank">nytimes.com</a> (2025-11-30 00:47:03)</span><span style="padding-right:50px;">There’s something undeniably fun (and giftable!) about an itty-bitty beauty product. Our favorites include a TikTok-famous snail serum and a tiny lip gloss. <a href="https://bsky.app/profile/nytimes.com/post/3m6rqgttvcw2h" target="_blank">nytimes.com</a> (2025-11-30 00:42:56)</span><span style="padding-right:50px;">White House blasts Boston Globe, CBS News and The Independent for coverage of 'illegal orders' video <a href="https://bsky.app/profile/cnbc.com/post/3m6rqg7rr2c2i" target="_blank">cnbc.com</a> (2025-11-30 00:42:35)</span><span style="padding-right:50px;">Real defence boosted by the return of Ruediger and Militao for Girona visit reut.rs/3XY3oPg <a href="https://bsky.app/profile/reuters.com/post/3m6rpyzj5zt2w" target="_blank">reuters.com</a> (2025-11-30 00:35:13)</span><span style="padding-right:50px;">President Trump warned airlines and pilots on Saturday that the airspace near Venezuela was closed, ratcheting up what his administration has characterized as a war against drug cartels. <a href="https://bsky.app/profile/nytimes.com/post/3m6rpyxvdvx24" target="_blank">nytimes.com</a> (2025-11-30 00:35:11)</span>
   </div>
 </div>
 
@@ -32,98 +32,95 @@
 
 ## News Headlines
 
-1. 秋篠宮さま、60歳の誕生日を迎えられる
-2. ロシアの主要石油ターミナル、海上ドローン攻撃で操業停止
-3. ガザ保健省、イスラエル・ハマス戦争でのパレスチナ人死者7万人超と発表
-4. チュニジア警察、著名な反体制派人物を逮捕
-5. エアバス、A320型機6000機に緊急ソフトウェアアップデートを実施
-6. 巨大なオサガメ「モリー」、腫瘍除去手術成功でフロリダの海へ
+1. 読者が選んだ最高のギフト100選（2020年以降）
+2. トランプ氏、ベネズエラ周辺空域閉鎖を警告
+3. ウクライナ、ロシアの石油ターミナルを攻撃
+4. ガザの死者、7万人を超える
+5. エアバス、A320型機6000機にソフトウェアアップデート
+6. 秋篠宮さま、60歳の誕生日
 
 ----
 
-@nhknewsunofficial.bsky.social
+@nytimes.com
 
-秋篠宮さま 60歳の誕生日
-https://news.web.nhk/newsweb/na/na-k10014989741000
+These are the 100 gifts our readers have loved the most from all of our gift guides since we started our gifts coverage in 2020.
 
-[2025-11-30 00:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6rpf3sgkt2r)
+[2025-11-30 00:47:03](https://bsky.app/profile/nytimes.com/post/3m6rqo6maig2y)
+
+---
+
+@nytimes.com
+
+There’s something undeniably fun (and giftable!) about an itty-bitty beauty product. Our favorites include a TikTok-famous snail serum and a tiny lip gloss.
+
+[2025-11-30 00:42:56](https://bsky.app/profile/nytimes.com/post/3m6rqgttvcw2h)
 
 ---
 
 @cnbc.com
 
-How Trump's 'big beautiful bill' could affect your Giving Tuesday tax break
+White House blasts Boston Globe, CBS News and The Independent for coverage of 'illegal orders' video
 
-[2025-11-30 00:23:04](https://bsky.app/profile/cnbc.com/post/3m6rpdciju22e)
-
----
-
-@en.afp.com
-
-🇺🇦 🇷🇺 One of Russia's largest oil terminals halted operations on Saturday following an attack by sea drones, hours before Ukrainian negotiators were headed to the United States for talks on ending the war. 
-➡️ u.afp.com/ShXg
-
-[2025-11-30 00:20:34](https://bsky.app/profile/en.afp.com/post/3m6rp6tgewh25)
-
----
-
-@apnews.com
-
-<strong><span style="color: red;">BREAKING:</span> Gaza’s Health Ministry said Saturday that the Palestinian death toll has surpassed 70,000 since the Israel-Hamas war began.</strong>
-
-[2025-11-30 00:19:23](https://bsky.app/profile/apnews.com/post/3m6rp4q22ew27)
+[2025-11-30 00:42:35](https://bsky.app/profile/cnbc.com/post/3m6rqg7rr2c2i)
 
 ---
 
 @reuters.com
 
-Tunisian police arrest prominent opposition figure Chaima Issa to enforce 20-year jail term reut.rs/4ak3lEM
+Real defence boosted by the return of Ruediger and Militao for Girona visit reut.rs/3XY3oPg
 
-[2025-11-30 00:10:19](https://bsky.app/profile/reuters.com/post/3m6romj6ojk2i)
-
----
-
-@yahoofinance.com
-
-10 truths about the stock market
-
-[2025-11-30 00:06:08](https://bsky.app/profile/yahoofinance.com/post/3m6roezxxd422)
+[2025-11-30 00:35:13](https://bsky.app/profile/reuters.com/post/3m6rpyzj5zt2w)
 
 ---
 
-@apnews.com
+@nytimes.com
 
-Doctors say it's possible to get hooked on pot. There's a widespread misconception that marijuana is not addictive, and it's expanded as a growing number of states legalize pot.
+President Trump warned airlines and pilots on Saturday that the airspace near Venezuela was closed, ratcheting up what his administration has characterized as a war against drug cartels.
 
-[2025-11-30 00:00:46](https://bsky.app/profile/apnews.com/post/3m6ro3ga7lf2j)
+[2025-11-30 00:35:11](https://bsky.app/profile/nytimes.com/post/3m6rpyxvdvx24)
 
 ---
 
-@en.afp.com
+@usatoday.com
 
-✈️ Fears of days of travel chaos across Europe and the world eased on Saturday after plane manufacturer Airbus intervened rapidly to implement a software upgrade it had said was immediately needed on some 6,000 of its stalwart A320 planes. 
-➡️ u.afp.com/ShXN
+While details are forthcoming, and legal challenges are likely, here’s what to know on the new federal guidance.
 
-[2025-11-30 00:00:45](https://bsky.app/profile/en.afp.com/post/3m6ro3fvqeg2x)
+[2025-11-30 00:30:19](https://bsky.app/profile/usatoday.com/post/3m6rpqbe22f2u)
+
+---
+
+@bloomberg.com
+
+Beijing is pulling the ladder up behind it when it comes to the market for low-cost goods.
+
+[2025-11-30 00:30:15](https://bsky.app/profile/bloomberg.com/post/3m6rpq5apbo2o)
 
 ---
 
 @cnn.com
 
-Ukrainian underwater drones have struck two tankers belonging to Russia’s so-called shadow fleet in the Black Sea, according to an official in Ukraine’s security services (SBU).
-https://cnn.it/4ot3tp8
+Now, he's transforming lives from beyond the grave.
+https://cnn.it/489CQRg
 
-[2025-11-30 00:00:30](https://bsky.app/profile/cnn.com/post/3m6ro2xo6e62f)
+[2025-11-30 00:30:09](https://bsky.app/profile/cnn.com/post/3m6rppyhuwh2w)
 
 ---
 
 @washingtonpost.com
 
-The White House launched a page on its website, titled the “Hall of Shame,” devoted to naming and shaming media outlets and reporters that publish stories President Trump disagrees with.
+The U.S. poverty line for a family of four is $32,150.
 
-“Misleading. Biased. Exposed,” the site reads. 
+However, investor Michael W. Green argues it should be more than four times higher, a threshold that would classify most American households as living “in poverty” by his measure.
 
-[2025-11-30 00:00:29](https://bsky.app/profile/washingtonpost.com/post/3m6ro2wuyjg2s)
+[2025-11-30 00:30:08](https://bsky.app/profile/washingtonpost.com/post/3m6rppwndj32s)
+
+---
+
+@cbsnews.com
+
+Louisiana prison "father-daughter dance" restores family bonds and heals wounds cbsn.ws/4rnFQ41 
+
+[2025-11-30 00:30:01](https://bsky.app/profile/cbsnews.com/post/3m6rppqbt5k2u)
 
 ---
 
