@@ -1,9 +1,9 @@
-# [2025-11-30 02:50 updated](2025_11_30.md)
+# [2025-11-30 03:10 updated](2025_11_30.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Breaking news: Tom Stoppard, the Czech-born British playwright whose intellectually daring and verbally dazzling works became some of the most acclaimed and frequently staged of the past half-century, has died at 88. <a href="https://bsky.app/profile/washingtonpost.com/post/3m6rxi2ppqq2y" target="_blank">washingtonpost.com</a> (2025-11-30 02:48:53)</span><span style="padding-right:50px;">British playwright Tom Stoppard dies at 88 reut.rs/4pBMyBs <a href="https://bsky.app/profile/reuters.com/post/3m6rxbi5j4h22" target="_blank">reuters.com</a> (2025-11-30 02:45:13)</span><span style="padding-right:50px;">Snow and chilly temperatures have already greeted some Thanksgiving travelers and plenty more could be on its way this holiday weekend, with winter storm warnings Saturday across much of the northern part of the country.  <a href="https://bsky.app/profile/cbsnews.com/post/3m6rxb4zonc2m" target="_blank">cbsnews.com</a> (2025-11-30 02:45:01)</span><span style="padding-right:50px;">Report: LSU 'confident' as Lane Kiffin ponders his next step reut.rs/48o0mZz <a href="https://bsky.app/profile/reuters.com/post/3m6rwyqsrvi2o" target="_blank">reuters.com</a> (2025-11-30 02:40:20)</span><span style="padding-right:50px;">The Trump administration is casting more doubt on the safety of vaccines, with the FDA’s top vaccine official suggesting in an internal memo, without offering evidence, that the deaths of at least 10 children were related to the Covid vaccine. Public health experts questioned the findings. <a href="https://bsky.app/profile/nytimes.com/post/3m6rwybojvp2g" target="_blank">nytimes.com</a> (2025-11-30 02:40:04)</span>
+<span style="padding-right:50px;">Breaking News: Tom Stoppard, the playwright known for a witty, cerebral style who drew comparisons to Shakespeare and Shaw, has died at 88. <a href="https://bsky.app/profile/nytimes.com/post/3m6rym5k6cw2h" target="_blank">nytimes.com</a> (2025-11-30 03:09:04)</span><span style="padding-right:50px;">BREAKING: Tom Stoppard, British playwright who won an Oscar for "Shakespeare in Love," dies at 88. <a href="https://bsky.app/profile/nbcnews.com/post/3m6ryl4dsgx2r" target="_blank">nbcnews.com</a> (2025-11-30 03:08:29)</span><span style="padding-right:50px;">C Frank Ragnow fails physical, will not rejoin Lions reut.rs/4rtVg6y <a href="https://bsky.app/profile/reuters.com/post/3m6ryfa7llo2y" target="_blank">reuters.com</a> (2025-11-30 03:05:12)</span><span style="padding-right:50px;">The award-winning British playwright and screenwriter Tom Stoppard has died, according to his talent agency United Agents. He was 88. https://cnn.it/4pJohtz <a href="https://bsky.app/profile/cnn.com/post/3m6ryc4ypqy2m" target="_blank">cnn.com</a> (2025-11-30 03:03:28)</span><span style="padding-right:50px;">Skier Lauren Macuga injures knee, to miss Olympics reut.rs/489gkYB <a href="https://bsky.app/profile/reuters.com/post/3m6ry5eh7ta2k" target="_blank">reuters.com</a> (2025-11-30 03:00:48)</span>
   </div>
 </div>
 
@@ -32,92 +32,95 @@
 
 ## News Headlines
 
-1.  劇作家トム・ストッパード氏死去、88歳
-2.  感謝祭の旅行シーズン、冬の嵐に警戒
-3.  トランプ政権、ワクチン安全性に疑念
-4.  スプリングボクス、ウェールズに記録的大勝
-5.  ウクライナへのロシアの夜間攻撃、3人死亡、数十人負傷
-6.  米国、アフガン難民の受け入れを一時停止
+1. 劇作家トム・ストッパード氏死去、88歳 「恋におちたシェイクスピア」脚本でオスカー
+2. C・フランク・ラグナウ、身体検査不合格でライオンズに復帰せず
+3. スキーヤー、ローレン・マキューガ選手、膝を負傷しオリンピック欠場
+4. スリランカ、サイクロン「ディトワ」で死者150人超、広範囲で洪水
+5. 研究：閉塞性睡眠時無呼吸症候群とパーキンソン病の発症に関連性
+6. ウクライナ、ロシアの大規模攻撃で3人死亡、数十人負傷
 
 ----
 
+@nytimes.com
+
+<strong><span style="color: red;">Breaking News</span>: Tom Stoppard, the playwright known for a witty, cerebral style who drew comparisons to Shakespeare and Shaw, has died at 88.</strong>
+
+[2025-11-30 03:09:04](https://bsky.app/profile/nytimes.com/post/3m6rym5k6cw2h)
+
+---
+
+@nbcnews.com
+
+<strong><span style="color: red;">BREAKING:</span> Tom Stoppard, British playwright who won an Oscar for "Shakespeare in Love," dies at 88.</strong>
+
+[2025-11-30 03:08:29](https://bsky.app/profile/nbcnews.com/post/3m6ryl4dsgx2r)
+
+---
+
+@reuters.com
+
+C Frank Ragnow fails physical, will not rejoin Lions reut.rs/4rtVg6y
+
+[2025-11-30 03:05:12](https://bsky.app/profile/reuters.com/post/3m6ryfa7llo2y)
+
+---
+
+@cnn.com
+
+The award-winning British playwright and screenwriter Tom Stoppard has died, according to his talent agency United Agents. He was 88.
+https://cnn.it/4pJohtz
+
+[2025-11-30 03:03:28](https://bsky.app/profile/cnn.com/post/3m6ryc4ypqy2m)
+
+---
+
+@reuters.com
+
+Skier Lauren Macuga injures knee, to miss Olympics reut.rs/489gkYB
+
+[2025-11-30 03:00:48](https://bsky.app/profile/reuters.com/post/3m6ry5eh7ta2k)
+
+---
+
+@apnews.com
+
+Families of Mexico's disappeared gathered at a cathedral near Mexico City to craft Christmas ornaments bearing the faces of their missing loved ones.
+
+[2025-11-30 03:00:15](https://bsky.app/profile/apnews.com/post/3m6ry4evvwd2h)
+
+---
+
 @washingtonpost.com
 
-Breaking news: Tom Stoppard, the Czech-born British playwright whose intellectually daring and verbally dazzling works became some of the most acclaimed and frequently staged of the past half-century, has died at 88.
+Researchers have found a potential link between obstructive sleep apnea and the development of Parkinson’s disease.
 
-[2025-11-30 02:48:53](https://bsky.app/profile/washingtonpost.com/post/3m6rxi2ppqq2y)
+Those who treated their sleep apnea early in their diagnoses had fewer cases of Parkinson’s. 
 
----
-
-@reuters.com
-
-British playwright Tom Stoppard dies at 88 reut.rs/4pBMyBs
-
-[2025-11-30 02:45:13](https://bsky.app/profile/reuters.com/post/3m6rxbi5j4h22)
-
----
-
-@cbsnews.com
-
-Snow and chilly temperatures have already greeted some Thanksgiving travelers and plenty more could be on its way this holiday weekend, with winter storm warnings Saturday across much of the northern part of the country. 
-
-[2025-11-30 02:45:01](https://bsky.app/profile/cbsnews.com/post/3m6rxb4zonc2m)
-
----
-
-@reuters.com
-
-Report: LSU 'confident' as Lane Kiffin ponders his next step reut.rs/48o0mZz
-
-[2025-11-30 02:40:20](https://bsky.app/profile/reuters.com/post/3m6rwyqsrvi2o)
+[2025-11-30 03:00:13](https://bsky.app/profile/washingtonpost.com/post/3m6ry4d2g532o)
 
 ---
 
 @nytimes.com
 
-The Trump administration is casting more doubt on the safety of vaccines, with the FDA’s top vaccine official suggesting in an internal memo, without offering evidence, that the deaths of at least 10 children were related to the Covid vaccine. Public health experts questioned the findings.
+Large parts of Sri Lanka remain under water and the death toll from Cyclone Ditwah, still battering the island nation, has surpassed 150 people.
 
-[2025-11-30 02:40:04](https://bsky.app/profile/nytimes.com/post/3m6rwybojvp2g)
+[2025-11-30 02:55:05](https://bsky.app/profile/nytimes.com/post/3m6rxt5k4tj2y)
+
+---
+
+@apnews.com
+
+<strong><span style="color: red;">BREAKING:</span> British playwright Tom Stoppard, who won an Academy Award for the screenplay for “Shakespeare In Love," dies at 88.</strong>
+
+[2025-11-30 02:55:03](https://bsky.app/profile/apnews.com/post/3m6rxt3bgbq2j)
 
 ---
 
 @reuters.com
 
-Foden's double secures Manchester City's thrilling win over Leeds reut.rs/48FpXyh
+Olmo scores twice as Barca fight back to beat Alaves 3-1 reut.rs/3KsChc2
 
-[2025-11-30 02:35:09](https://bsky.app/profile/reuters.com/post/3m6rwpiusx32y)
-
----
-
-@reuters.com
-
-Springboks score 11 tries in record 73-0 win over hapless Wales reut.rs/48baDtj
-
-[2025-11-30 02:30:37](https://bsky.app/profile/reuters.com/post/3m6rwhfe2v227)
-
----
-
-@usatoday.com
-
-What to know ahead of Trump’s 'high stakes' Fed chair nomination
-
-[2025-11-30 02:30:27](https://bsky.app/profile/usatoday.com/post/3m6rwh3kgrc2d)
-
----
-
-@reuters.com
-
-Sunderland break into top four with 3-2 comeback win over Bournemouth reut.rs/4ajeFRA
-
-[2025-11-30 02:25:10](https://bsky.app/profile/reuters.com/post/3m6rw5nnbji2o)
-
----
-
-@nytimes.com
-
-Here is the beauty of wassail: more than just another nice-tasting drink, it’s part of a long (if largely forgotten) tradition of celebrating the life that winter can seem determined to snuff out. nyti.ms/48g3x5x
-
-[2025-11-30 02:25:02](https://bsky.app/profile/nytimes.com/post/3m6rw5ftoom27)
+[2025-11-30 02:50:13](https://bsky.app/profile/reuters.com/post/3m6rxkgx4ki2o)
 
 ---
 
