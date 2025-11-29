@@ -1,9 +1,9 @@
-# [2025-11-29 22:50 updated](2025_11_29.md)
+# [2025-11-29 23:10 updated](2025_11_29.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">京都市の繁華街の飲食店で火事 けが人なし https://news.web.nhk/newsweb/na/na-k10014989841000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6rjzg6rpk2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-29 22:48:02)</span><span style="padding-right:50px;">Venezuela’s wily ruler digs in to defy Trump on.ft.com/4aiUB1I <a href="https://bsky.app/profile/financialtimes.com/post/3m6rjvc3odz2n" target="_blank">financialtimes.com</a> (2025-11-29 22:45:45)</span><span style="padding-right:50px;">U.S. consumers spent $11.8 billion on Black Friday, says Adobe Analytics reut.rs/48nEAVP <a href="https://bsky.app/profile/reuters.com/post/3m6rjuc46hw2d" target="_blank">reuters.com</a> (2025-11-29 22:45:11)</span><span style="padding-right:50px;">December will begin with investors owning little stock. Is a year-end rally at play? <a href="https://bsky.app/profile/cnbc.com/post/3m6rjpk3hb32q" target="_blank">cnbc.com</a> (2025-11-29 22:42:32)</span><span style="padding-right:50px;">ガザ地区当局 戦闘開始以降の死者 7万人超えたと発表 https://news.web.nhk/newsweb/na/na-k10014989871000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6rjoqcpia2g" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-29 22:42:03)</span>
+<span style="padding-right:50px;">Breaking news: Donald Trump has said that Venezuela’s airspace should be considered closed, after a military build-up by US forces in the region on.ft.com/489mnfV <a href="https://bsky.app/profile/financialtimes.com/post/3m6rl3t5f4x24" target="_blank">financialtimes.com</a> (2025-11-29 23:07:18)</span><span style="padding-right:50px;">Medicare Advantage woos seniors with plan perks, but a study found they often go unused <a href="https://bsky.app/profile/yahoofinance.com/post/3m6rkzpy5l42e" target="_blank">yahoofinance.com</a> (2025-11-29 23:06:07)</span><span style="padding-right:50px;">Getting a diagnosis is key since there are different causes for the problem calling for different treatments. Here's what to know and how to find support if you are living with hair loss. <a href="https://bsky.app/profile/npr.org/post/3m6rkxpxi5s2h" target="_blank">npr.org</a> (2025-11-29 23:05:00)</span><span style="padding-right:50px;">Anthony Davis returned to Los Angeles on the same night he came back from a 14-game injury absence, and he received loud pregame cheers from Lakers fans who were thrilled to see a longtime favorite healthy and hooping. <a href="https://bsky.app/profile/apnews.com/post/3m6rkqmr5bx2w" target="_blank">apnews.com</a> (2025-11-29 23:01:02)</span><span style="padding-right:50px;">No immediate response from Venezuela after President Trump’s makes the announcement on social media on Saturday. <a href="https://bsky.app/profile/aljazeera.com/post/3m6rkqj763w2d" target="_blank">aljazeera.com</a> (2025-11-29 23:00:58)</span>
   </div>
 </div>
 
@@ -32,101 +32,93 @@
 
 ## News Headlines
 
-1. 京都市の繁華街で火事発生、けが人なし
-2. ブラックフライデー、米消費者は118億ドルを費やす
-3. ガザ地区当局、戦闘開始以降の死者7万人超えと発表
-4. 中国のヒューマノイドロボット、3日間100kmの歩行で世界記録
-5. トランプ氏、ベネズエラ上空の閉鎖を宣言
-6. 東南アジアの洪水と地滑りによる死者、400人超え
+1. トランプ氏、ベネズエラ空域閉鎖を表明
+2. メディケアアドバンテージ、特典利用されず？研究が指摘
+3. 薄毛の診断と治療：原因に応じたアプローチ
+4. アンソニー・デイビス復帰、レイカーズファン歓喜
+5. リンダ・ハミルトン、自然な老化を受け入れ年齢差別を拒否
+6. FDA、コロナワクチンが子供の死亡に関与と結論
 
 ----
 
-@nhknewsunofficial.bsky.social
+@financialtimes.com
 
-京都市の繁華街の飲食店で火事 けが人なし
-https://news.web.nhk/newsweb/na/na-k10014989841000
+Breaking news: Donald Trump has said that Venezuela’s airspace should be considered closed, after a military build-up by US forces in the region on.ft.com/489mnfV
 
-[2025-11-29 22:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6rjzg6rpk2p)
+[2025-11-29 23:07:18](https://bsky.app/profile/financialtimes.com/post/3m6rl3t5f4x24)
 
 ---
 
-@financialtimes.com
+@yahoofinance.com
 
-Venezuela’s wily ruler digs in to defy Trump on.ft.com/4aiUB1I
+Medicare Advantage woos seniors with plan perks, but a study found they often go unused
 
-[2025-11-29 22:45:45](https://bsky.app/profile/financialtimes.com/post/3m6rjvc3odz2n)
+[2025-11-29 23:06:07](https://bsky.app/profile/yahoofinance.com/post/3m6rkzpy5l42e)
+
+---
+
+@npr.org
+
+Getting a diagnosis is key since there are different causes for the problem calling for different treatments. Here's what to know and how to find support if you are living with hair loss.
+
+[2025-11-29 23:05:00](https://bsky.app/profile/npr.org/post/3m6rkxpxi5s2h)
+
+---
+
+@apnews.com
+
+Anthony Davis returned to Los Angeles on the same night he came back from a 14-game injury absence, and he received loud pregame cheers from Lakers fans who were thrilled to see a longtime favorite healthy and hooping.
+
+[2025-11-29 23:01:02](https://bsky.app/profile/apnews.com/post/3m6rkqmr5bx2w)
+
+---
+
+@aljazeera.com
+
+No immediate response from Venezuela after President Trump’s makes the announcement on social media on Saturday.
+
+[2025-11-29 23:00:58](https://bsky.app/profile/aljazeera.com/post/3m6rkqj763w2d)
+
+---
+
+@usatoday.com
+
+Linda Hamilton joins a growing group of Hollywood women rejecting ageism and embracing natural aging, inspiring others to rethink beauty expectations.
+
+[2025-11-29 23:00:56](https://bsky.app/profile/usatoday.com/post/3m6rkqhgnjb2u)
 
 ---
 
 @reuters.com
 
-U.S. consumers spent $11.8 billion on Black Friday, says Adobe Analytics reut.rs/48nEAVP
+Airbus recall, Pope Leo and icy swims reut.rs/4pFob69
 
-[2025-11-29 22:45:11](https://bsky.app/profile/reuters.com/post/3m6rjuc46hw2d)
-
----
-
-@cnbc.com
-
-December will begin with investors owning little stock. Is a year-end rally at play?
-
-[2025-11-29 22:42:32](https://bsky.app/profile/cnbc.com/post/3m6rjpk3hb32q)
+[2025-11-29 23:00:39](https://bsky.app/profile/reuters.com/post/3m6rkpwkm4r2a)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@nbcnews.com
 
-ガザ地区当局 戦闘開始以降の死者 7万人超えたと発表
-https://news.web.nhk/newsweb/na/na-k10014989871000
+Mohammed Ibrahim, an American teenager held in Israeli custody months after he was accused of throwing rocks at Israeli settlers, has reunited with his family.
 
-[2025-11-29 22:42:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6rjoqcpia2g)
-
----
-
-@financialtimes.com
-
-Trump says Venezuela airspace to be closed on.ft.com/44F3q2e
-
-[2025-11-29 22:41:15](https://bsky.app/profile/financialtimes.com/post/3m6rjnan2lt26)
+[2025-11-29 23:00:31](https://bsky.app/profile/nbcnews.com/post/3m6rkpp6g4s22)
 
 ---
 
 @en.afp.com
 
-🇨🇳 Chinese humanoid robot's 3-day walk sets world record
+🇵🇸 With a pot of glue, a blade and a keen eye, Manal al-Saadani repairs tattered banknotes -- a necessity in the Gaza Strip, where the cash in circulation is wearing out. 
+➡️ u.afp.com/Sh8v
 
-A Chinese humanoid robot has completed a three-day, 100-kilometre trek, the longest reported distance ever walked by a humanoid machine.
-
-[2025-11-29 22:40:34](https://bsky.app/profile/en.afp.com/post/3m6rjlz5xc62x)
-
----
-
-@reuters.com
-
-U.S. consumers spent $11.8 billion on Black Friday, says Adobe Analytics reut.rs/3KlLpPJ
-
-[2025-11-29 22:40:14](https://bsky.app/profile/reuters.com/post/3m6rjlgvgdh2i)
+[2025-11-29 23:00:12](https://bsky.app/profile/en.afp.com/post/3m6rkp4neok22)
 
 ---
 
-@reuters.com
+@bloomberg.com
 
-Death toll in Sri Lanka rises to 153 after Cyclone Ditwah reut.rs/4p6ia2i
+We're covering how the world feeds itself in a changing economy and climate, from farming to supply chains to consumer trends. Subscribe to our Business of Food weekly newsletter and read the latest edition: bloom.bg/4mVorw9
 
-[2025-11-29 22:35:10](https://bsky.app/profile/reuters.com/post/3m6rjceujs62k)
-
----
-
-@nikkei.com
-
-名古屋の名門｢五摂家｣､リニア後の都市競争へ一丸
-www.nikkei.com/article/DGXZQO...
-
-ナゴヤ圏に近づく「黒船」。リニア中央新幹線の開通によって「東京にも大阪にも日帰りで行ける」という優位性が薄れるのでは――。
-
-危機感を持った名古屋鉄道が各社に呼びかけ、「五摂家」と称される重鎮企業が魅力向上へと動き出しました。
-
-[2025-11-29 22:31:18](https://bsky.app/profile/nikkei.com/post/3m6rj3hk3he2j)
+[2025-11-29 23:00:12](https://bsky.app/profile/bloomberg.com/post/3m6rkp4o2lc2s)
 
 ---
 
