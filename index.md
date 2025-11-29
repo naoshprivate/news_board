@@ -1,9 +1,9 @@
-# [2025-11-29 14:10 updated](2025_11_29.md)
+# [2025-11-29 14:30 updated](2025_11_29.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;"> Hybrid-car believers should bet on platinum’s renaissance on.ft.com/3MgpOIZ  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m6qmttua6m26" target="_blank">financialtimes.com</a> (2025-11-29 14:05:58)</span><span style="padding-right:50px;"> The UK should enjoy the calming of the bond vigilantes on.ft.com/4pDaqF0  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m6qmttub4e26" target="_blank">financialtimes.com</a> (2025-11-29 14:05:58)</span><span style="padding-right:50px;">Successful teams aren’t necessarily about star talent, but more often depend on “Glue” employees—the quiet leaders who make everybody else look good and rarely get rewarded for their contributions.  🔗: on.wsj.com/4rm7MVG <a href="https://bsky.app/profile/wsj.com/post/3m6qmsfn46o2i" target="_blank">wsj.com</a> (2025-11-29 14:05:09)</span><span style="padding-right:50px;">Russia-Ukraine war: Drone strike hits Kyiv residential areas despite peace moves <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6qmqxesvu2e" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-11-29 14:04:20)</span><span style="padding-right:50px;">Airbus A320 recall disrupts global travel after glitch linked to solar flares <a href="https://bsky.app/profile/cnbc.com/post/3m6qmoannhm2y" target="_blank">cnbc.com</a> (2025-11-29 14:02:50)</span>
+<span style="padding-right:50px;"> EasyJet’s taste for luxury flies the flag for the package holiday revival on.ft.com/3XltNq7  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m6qnyqkc4k25" target="_blank">financialtimes.com</a> (2025-11-29 14:26:36)</span><span style="padding-right:50px;">Jets' Kris Boyd back in hospital due to 'health issues' from shooting reut.rs/4rwZivi <a href="https://bsky.app/profile/reuters.com/post/3m6qnnccqgv2n" target="_blank">reuters.com</a> (2025-11-29 14:20:12)</span><span style="padding-right:50px;">Broad says winning toss a crucial factor in pink-ball Ashes test reut.rs/4rwYNBq <a href="https://bsky.app/profile/reuters.com/post/3m6qn3eylbd2e" target="_blank">reuters.com</a> (2025-11-29 14:10:11)</span><span style="padding-right:50px;"> Hybrid-car believers should bet on platinum’s renaissance on.ft.com/3MgpOIZ  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m6qmttua6m26" target="_blank">financialtimes.com</a> (2025-11-29 14:05:58)</span><span style="padding-right:50px;"> The UK should enjoy the calming of the bond vigilantes on.ft.com/4pDaqF0  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m6qmttub4e26" target="_blank">financialtimes.com</a> (2025-11-29 14:05:58)</span>
   </div>
 </div>
 
@@ -32,14 +32,38 @@
 
 ## News Headlines
 
-1.  中国航空会社、日本行き減便900便超に拡大
-2.  Airbus A320リコールで世界的な旅行混乱
-3.  米ブラックフライデー、オンライン売上高86億ドル
-4.  香港で火災、死者128人超
-5.  上海で日本アニソン歌唱中に強制中断、イベント中止
-6.  エッセンシャルワーカーへの転職1割どまり、人材難加速
+1.  EasyJet、高級化路線でパッケージ旅行復活を牽引
+2.  Jetsのクリス・ボイド、健康問題で再入院
+3.  ピンクボールテスト、コイントスが重要要因
+4.  ハイブリッド車信仰者はプラチナに賭けるべき
+5.  英国、債券自警団の鎮静化を享受すべき
+6. 中国航空会社、日本行き減便900便超に拡大、関空便に影響
 
 ----
+
+@financialtimes.com
+
+ EasyJet’s taste for luxury flies the flag for the package holiday revival on.ft.com/3XltNq7  | opinion
+
+[2025-11-29 14:26:36](https://bsky.app/profile/financialtimes.com/post/3m6qnyqkc4k25)
+
+---
+
+@reuters.com
+
+Jets' Kris Boyd back in hospital due to 'health issues' from shooting reut.rs/4rwZivi
+
+[2025-11-29 14:20:12](https://bsky.app/profile/reuters.com/post/3m6qnnccqgv2n)
+
+---
+
+@reuters.com
+
+Broad says winning toss a crucial factor in pink-ball Ashes test reut.rs/4rwYNBq
+
+[2025-11-29 14:10:11](https://bsky.app/profile/reuters.com/post/3m6qn3eylbd2e)
+
+---
 
 @financialtimes.com
 
@@ -99,35 +123,6 @@ www.nikkei.com/article/DGXZQO...
 Venezuela is entering one of its most repressive periods in years, rights monitors say, as President Nicolás Maduro faces mounting isolation and an expanding US military presence in the Caribbean.
 
 [2025-11-29 14:01:01](https://bsky.app/profile/cnn.com/post/3m6qmkywoeq2n)
-
----
-
-@reuters.com
-
-Stanford tabs former QB Tavita Pritchard as head coach reut.rs/4ioljIm
-
-[2025-11-29 14:00:37](https://bsky.app/profile/reuters.com/post/3m6qmkcakfn26)
-
----
-
-@cnbc.com
-
-Students pursuing professional degrees will be able to borrow up to $200,000 in federal student loans beginning in 2026.
-
-The Department of Education has named these 11 degree fields that meet the requirements to be considered professional.
-
-[2025-11-29 14:00:31](https://bsky.app/profile/cnbc.com/post/3m6qmk3xnh72a)
-
----
-
-@sokuho.news
-
-🛎️NNNより【独自】です。
-
-【独自】高止まりするコメの価格は「消費者の購買行動」にどのような影響を与えているのでしょうか？
-(2025-11-29 14:00) #ニュース
-
-[2025-11-29 14:00:25](https://bsky.app/profile/sokuho.news/post/3m6qmjw67zz2y)
 
 ---
 
