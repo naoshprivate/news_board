@@ -1,9 +1,9 @@
-# [2025-11-30 06:50 updated](2025_11_30.md)
+# [2025-11-30 07:10 updated](2025_11_30.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">スキージャンプ男子ワールドカップ 個人第5戦 二階堂蓮2位 https://news.web.nhk/newsweb/na/na-k10014989931000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6seogi2bs2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-30 06:45:03)</span><span style="padding-right:50px;">A Utah man who was rescued with his three children, ages 2, 4 and 8, after a cold and treacherous hike through mountainous terrain last month faces child abuse charges over forcing them to endure the ordeal, the authorities said. <a href="https://bsky.app/profile/nytimes.com/post/3m6seff5but26" target="_blank">nytimes.com</a> (2025-11-30 06:40:02)</span><span style="padding-right:50px;">【動画】Pickup NEWS（11月30日） https://news.web.nhk/newsweb/na/na-k10014989831000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6sednuzvc2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-30 06:39:02)</span><span style="padding-right:50px;">These stunning no-bake treats welcome all sorts of bits and bobs — even gingerbread house leftovers. "I made this together with my 7-year-old son! Had a blast. Totally kid-friendly! Thank you for incorporating a recipe that kids can make!" <a href="https://bsky.app/profile/nytimes.com/post/3m6se7ev5w62p" target="_blank">nytimes.com</a> (2025-11-30 06:36:41)</span><span style="padding-right:50px;">Shoppers spent $1 billion more online shopping on Black Friday this year compared to 2024. <a href="https://bsky.app/profile/forbes.com/post/3m6se4jzwu52d" target="_blank">forbes.com</a> (2025-11-30 06:35:04)</span>
+<span style="padding-right:50px;">Reports: Orioles sign closer Ryan Helsley to 2-year contract reut.rs/4rKCBE3 <a href="https://bsky.app/profile/reuters.com/post/3m6sfsei4cf2o" target="_blank">reuters.com</a> (2025-11-30 07:05:11)</span><span style="padding-right:50px;">The Wiggles issue statement after appearing in Ecstasy music video <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6sfrusowv27" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-11-30 07:04:54)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:山梨県東部・富士五湖, 深さ:20km マグニチュード:2.6, 最大震度:1 📍https://www.google.com/maps?q=35.5,139.0&ll=35.5,139.0&z=7&t=h 地震発生日時:2025-11-30 07:00頃 (10倍速▶120s→12s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m6sfpizy4n27" target="_blank">sokuho.news</a> (2025-11-30 07:03:36)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  7時0分頃、山梨県で最大震度1の地震を観測しました。 震源:山梨県東部・富士五湖, 深さ:20km, 規模:M2.6 この地震による津波の心配はありません。 (2025-11-30 07:03:09) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/11/30/2025-11-30-07-00-35.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3m6sforowpc26" target="_blank">sokuho.news</a> (2025-11-30 07:03:11)</span><span style="padding-right:50px;">The No. 1 Ohio State Buckeyes earned a 27-9 win over the No. 15 Michigan Wolverines in a Week 14 Big Ten game. Here are the highlights. <a href="https://bsky.app/profile/usatoday.com/post/3m6sfjpzlkk2m" target="_blank">usatoday.com</a> (2025-11-30 07:00:22)</span>
   </div>
 </div>
 
@@ -32,104 +32,106 @@
 
 ## News Headlines
 
-1. 二階堂蓮、スキージャンプW杯で2位入賞
-2. ユタ州の父親、子供虐待で訴追 山岳地帯での過酷なハイキング強要
-3. ブラックフライデー、オンライン売上10億ドル増
-4. エアバス機に不具合、世界の航空便に混乱 ANAも一部欠航
-5. トランプ氏、ベネズエラ麻薬対策強化で政権転覆も示唆
-6. 香港、火災で128人死亡 住民が追悼
+1. オリオールズ、抑えのヘルズリーと2年契約
+2. 山梨県東部・富士五湖で震度1の地震
+3. オハイオ州立大学、ミシガン大学に勝利
+4. トランプ政権、コーヒーなど100品目以上の関税引き下げ
+5. ウォルマート製品、キャンプ用ストーブと子供用ヘルメットをリコール
+6. エアバス機に異常、世界の航空便に混乱、ANAも一部欠航
 
 ----
 
-@nhknewsunofficial.bsky.social
-
-スキージャンプ男子ワールドカップ 個人第5戦 二階堂蓮2位
-https://news.web.nhk/newsweb/na/na-k10014989931000
-
-[2025-11-30 06:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6seogi2bs2k)
-
----
-
-@nytimes.com
-
-A Utah man who was rescued with his three children, ages 2, 4 and 8, after a cold and treacherous hike through mountainous terrain last month faces child abuse charges over forcing them to endure the ordeal, the authorities said.
-
-[2025-11-30 06:40:02](https://bsky.app/profile/nytimes.com/post/3m6seff5but26)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【動画】Pickup NEWS（11月30日）
-https://news.web.nhk/newsweb/na/na-k10014989831000
-
-[2025-11-30 06:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6sednuzvc2p)
-
----
-
-@nytimes.com
-
-These stunning no-bake treats welcome all sorts of bits and bobs — even gingerbread house leftovers. "I made this together with my 7-year-old son! Had a blast. Totally kid-friendly! Thank you for incorporating a recipe that kids can make!"
-
-[2025-11-30 06:36:41](https://bsky.app/profile/nytimes.com/post/3m6se7ev5w62p)
-
----
-
-@forbes.com
-
-Shoppers spent $1 billion more online shopping on Black Friday this year compared to 2024.
-
-[2025-11-30 06:35:04](https://bsky.app/profile/forbes.com/post/3m6se4jzwu52d)
-
----
-
-@nikkei.com
-
-エアバス主力機「A320」系に異常、世界の航空便混乱　ANAは30日も一部欠航
-www.nikkei.com/article/DGXZQO...
-
-フランスメディアによると対象は6000機で、大半は数時間かけてソフトウエアのアップデートをすれば対応できるといいます。
-
-ANAは運航する34機のソフト更新を進めており、30日朝までに必要な作業を終える見通しです。
-
-ただ一部で影響が残り、国内線の6便が欠航します。
-
-#ニュース
-
-[2025-11-30 06:31:19](https://bsky.app/profile/nikkei.com/post/3m6sdvruzze2t)
-
----
-
 @reuters.com
 
-Foden double gets shaky Man City back on track, Sunderland go fourth reut.rs/4ahktes
+Reports: Orioles sign closer Ryan Helsley to 2-year contract reut.rs/4rKCBE3
 
-[2025-11-30 06:30:31](https://bsky.app/profile/reuters.com/post/3m6sduebatf27)
+[2025-11-30 07:05:11](https://bsky.app/profile/reuters.com/post/3m6sfsei4cf2o)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+The Wiggles issue statement after appearing in Ecstasy music video
+
+[2025-11-30 07:04:54](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6sfrusowv27)
+
+---
+
+@sokuho.news
+
+🔔防災科研より【強震モニタ】動画です。
+
+震源:山梨県東部・富士五湖, 深さ:20km
+マグニチュード:2.6, 最大震度:1
+📍https://www.google.com/maps?q=35.5,139.0&ll=35.5,139.0&z=7&t=h
+地震発生日時:2025-11-30 07:00頃
+(10倍速▶120s→12s) #地震
+
+[2025-11-30 07:03:36](https://bsky.app/profile/sokuho.news/post/3m6sfpizy4n27)
+
+---
+
+@sokuho.news
+
+🔔気象庁より【地震速報】です。
+
+7時0分頃、山梨県で最大震度1の地震を観測しました。
+震源:山梨県東部・富士五湖, 深さ:20km, 規模:M2.6
+この地震による津波の心配はありません。
+(2025-11-30 07:03:09) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/11/30/2025-11-30-07-00-35.html?xlarge_image=1
+
+[2025-11-30 07:03:11](https://bsky.app/profile/sokuho.news/post/3m6sforowpc26)
 
 ---
 
 @usatoday.com
 
-President Donald Trump is ramping up a lethal campaign aimed at drug traffickers that observers say could topple Venezuelan President Nicolás Maduro
+The No. 1 Ohio State Buckeyes earned a 27-9 win over the No. 15 Michigan Wolverines in a Week 14 Big Ten game. Here are the highlights.
 
-[2025-11-30 06:30:21](https://bsky.app/profile/usatoday.com/post/3m6sdu2tvil2u)
+[2025-11-30 07:00:22](https://bsky.app/profile/usatoday.com/post/3m6sfjpzlkk2m)
+
+---
+
+@aljazeera.com
+
+Umaro Sissoco Embalo arrives in the Republic of Congo after first seeking refuge in Senegal following this week's coup.
+
+[2025-11-30 07:00:19](https://bsky.app/profile/aljazeera.com/post/3m6sfjntoc52f)
+
+---
+
+@apnews.com
+
+The temporary Olympic Village in Cortina d'Ampezzo that will house up to 1,400 athletes and other team members during the Milan Cortina Games consists of nearly 400 rented mobile homes arranged in close proximity to one another on a humid valley floor.
+
+[2025-11-30 07:00:14](https://bsky.app/profile/apnews.com/post/3m6sfjixqdk2p)
 
 ---
 
 @bloomberg.com
 
-Sergey Brin gave away more than $1.1 billion worth of Alphabet stock this week, with most of the money going to a nonprofit the Google co-founder created
+Investor hype over Chinese robotics stocks is giving way to deepening unease, with the latest government warning against a potential bubble bringing fresh scrutiny to the sector’s lofty valuations.
 
-[2025-11-30 06:30:19](https://bsky.app/profile/bloomberg.com/post/3m6sdtz3hka2d)
+[2025-11-30 07:00:11](https://bsky.app/profile/bloomberg.com/post/3m6sfjfmpiy2d)
 
 ---
 
-@cnn.com
+@washingtonpost.com
 
-Now they'll face another trial.
-https://cnn.it/4pjEPbu
+President Trump’s latest move cut tariffs on over 100 products, including coffee, beef, bananas and orange juice.
 
-[2025-11-30 06:30:07](https://bsky.app/profile/cnn.com/post/3m6sdtnu3fx2j)
+While the reduced tariffs may ease food inflation, shoppers are unlikely to see major price drops in stores.
+
+[2025-11-30 07:00:08](https://bsky.app/profile/washingtonpost.com/post/3m6sfjd3ujz2e)
+
+---
+
+@nytimes.com
+
+Top negotiators for President Trump plan to meet with Ukrainian officials in Florida on Sunday to discuss a possible peace settlement to halt Russia’s invasion of Ukraine, according to a senior U.S. official.
+
+[2025-11-30 07:00:04](https://bsky.app/profile/nytimes.com/post/3m6sfj7bkc62x)
 
 ---
 
