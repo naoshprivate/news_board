@@ -1,9 +1,9 @@
-# [2025-11-29 10:50 updated](2025_11_29.md)
+# [2025-11-29 11:10 updated](2025_11_29.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Trump says he will pardon ex-Honduras president convicted of drug trafficking <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6qbtqzdvd2y" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-11-29 10:49:03)</span><span style="padding-right:50px;">Frozen pizza is special in its own right. But not every pizza is worth the freezer space. Wirecutter testers tasted 26 widely available frozen cheese and pepperoni pizzas. Here are their favorites: nyti.ms/483c6So <a href="https://bsky.app/profile/nytimes.com/post/3m6qbizue2m24" target="_blank">nytimes.com</a> (2025-11-29 10:43:04)</span><span style="padding-right:50px;">RB Leipzig held to scoreless draw by Moenchengladbach reut.rs/3Mda2yu <a href="https://bsky.app/profile/reuters.com/post/3m6qbe4reev2e" target="_blank">reuters.com</a> (2025-11-29 10:40:19)</span><span style="padding-right:50px;">Thousands of Airbus A320 airliners around the world might require a software update, potentially causing flight delays or cancellations during the busy Thanksgiving holiday weekend. cbsn.ws/3XWfokh <a href="https://bsky.app/profile/cbsnews.com/post/3m6qbdlsyw52r" target="_blank">cbsnews.com</a> (2025-11-29 10:40:00)</span><span style="padding-right:50px;">Donald Trump pledges to tackle Sudan atrocities - what difference can he make? <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6qb22vi3r24" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-11-29 10:34:41)</span>
+<span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】福島市森合や曽根田町で熊の目撃が相次ぐ…体長1.5m、現場は市の中心部 福島 (2025-11-29 11:05) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6qcqthziq2q" target="_blank">sokuho.news</a> (2025-11-29 11:05:19)</span><span style="padding-right:50px;">フィンランド、世界一の「偽情報を見破る力」 www.nikkei.com/article/DGXZQO...  ロシア発とみられる偽情報がインターネットで広がるなか、フィンランドのアドラークロイツ教育相は「メディアリテラシー」教育が効果をあげているとの見方を示しました。  2025年10月 #注目された記事 <a href="https://bsky.app/profile/nikkei.com/post/3m6qcjm4gzy2g" target="_blank">nikkei.com</a> (2025-11-29 11:01:17)</span><span style="padding-right:50px;">A solar radiation–linked software flaw in Airbus A320 jets triggered urgent global fixes, causing possible delays but no safety risk for travelers. <a href="https://bsky.app/profile/usatoday.com/post/3m6qcjigqoy2j" target="_blank">usatoday.com</a> (2025-11-29 11:01:13)</span><span style="padding-right:50px;">A fleet of planes that UPS grounded after a deadly crash isn’t expected to be back in service during the peak holiday season due to inspections and possible repairs, the company says.  <a href="https://bsky.app/profile/nbcnews.com/post/3m6qcjco36q2w" target="_blank">nbcnews.com</a> (2025-11-29 11:01:07)</span><span style="padding-right:50px;">“Slow down”: Celine Dion issued an important reminder, in light of the holiday. <a href="https://bsky.app/profile/cnn.com/post/3m6qcj53v2r2r" target="_blank">cnn.com</a> (2025-11-29 11:01:01)</span>
   </div>
 </div>
 
@@ -32,100 +32,104 @@
 
 ## News Headlines
 
-1. トランプ氏、麻薬密売で有罪の元ホンジュラス大統領を恩赦へ
-2. エアバスA320型機にソフトウェア更新の可能性、感謝祭の休暇に遅延・欠航のおそれ
-3. 片頭痛、「飲み薬」で予防へ、米ファイザーの「ナルティーク」が日本でも近く発売
-4. 宇都宮市で住宅と空き家が全焼、焼け跡から1人の遺体
-5. トヨタ、アフリカ向けに「現地組み立て車」開発、ケニアの農村で試作
-6. ANAが国内線65便を欠航、エアバス機整備作業で9400人に影響
+1.  福島市中心部で熊の目撃相次ぐ、体長1.5m
+2.  フィンランド、「偽情報を見破る力」世界一
+3.  トランプ氏、麻薬で有罪の元ホンジュラス大統領を恩赦へ
+4.  ファイザーの片頭痛予防薬「ナルティーク」日本でも発売へ
+5.  トヨタ、アフリカ向け「現地組み立て車」を開発
+6.  ANA、エアバス機整備で国内線65便欠航、9400人に影響
 
 ----
 
-@bbcnews-world-rss.bsky.social
+@sokuho.news
 
-Trump says he will pardon ex-Honduras president convicted of drug trafficking
+🛎️NNNより【速報】です。
 
-[2025-11-29 10:49:03](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6qbtqzdvd2y)
+【速報】福島市森合や曽根田町で熊の目撃が相次ぐ…体長1.5m、現場は市の中心部 福島
+(2025-11-29 11:05) #ニュース
 
----
-
-@nytimes.com
-
-Frozen pizza is special in its own right. But not every pizza is worth the freezer space. Wirecutter testers tasted 26 widely available frozen cheese and pepperoni pizzas. Here are their favorites: nyti.ms/483c6So
-
-[2025-11-29 10:43:04](https://bsky.app/profile/nytimes.com/post/3m6qbizue2m24)
-
----
-
-@reuters.com
-
-RB Leipzig held to scoreless draw by Moenchengladbach reut.rs/3Mda2yu
-
-[2025-11-29 10:40:19](https://bsky.app/profile/reuters.com/post/3m6qbe4reev2e)
-
----
-
-@cbsnews.com
-
-Thousands of Airbus A320 airliners around the world might require a software update, potentially causing flight delays or cancellations during the busy Thanksgiving holiday weekend. cbsn.ws/3XWfokh
-
-[2025-11-29 10:40:00](https://bsky.app/profile/cbsnews.com/post/3m6qbdlsyw52r)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Donald Trump pledges to tackle Sudan atrocities - what difference can he make?
-
-[2025-11-29 10:34:41](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6qb22vi3r24)
+[2025-11-29 11:05:19](https://bsky.app/profile/sokuho.news/post/3m6qcqthziq2q)
 
 ---
 
 @nikkei.com
 
-片頭痛、「飲み薬」で予防へ
+フィンランド、世界一の「偽情報を見破る力」
 www.nikkei.com/article/DGXZQO...
 
-痛みを軽減し発生頻度を抑制できる飲み薬、米ファイザーの「ナルティーク」が日本でも近く発売されます。
+ロシア発とみられる偽情報がインターネットで広がるなか、フィンランドのアドラークロイツ教育相は「メディアリテラシー」教育が効果をあげているとの見方を示しました。
 
-注射に抵抗がある患者も始めやすく、治療の選択肢が大きく広がります。
+2025年10月 #注目された記事
 
-[2025-11-29 10:31:17](https://bsky.app/profile/nikkei.com/post/3m6qatx6dco2w)
-
----
-
-@reuters.com
-
-Congo, Rwanda presidents to sign peace deal in Washington next week, sources say reut.rs/4ak5WyA
-
-[2025-11-29 10:30:36](https://bsky.app/profile/reuters.com/post/3m6qasqbu3g22)
+[2025-11-29 11:01:17](https://bsky.app/profile/nikkei.com/post/3m6qcjm4gzy2g)
 
 ---
 
 @usatoday.com
 
-Sears has just 5 locations left. Will they survive into 2026?
+A solar radiation–linked software flaw in Airbus A320 jets triggered urgent global fixes, causing possible delays but no safety risk for travelers.
 
-[2025-11-29 10:30:30](https://bsky.app/profile/usatoday.com/post/3m6qaskybqc2u)
-
----
-
-@aljazeera.com
-
-Here are the key events from day 1,374 of Russia’s war on Ukraine.
-
-[2025-11-29 10:30:16](https://bsky.app/profile/aljazeera.com/post/3m6qas5xdgq2c)
+[2025-11-29 11:01:13](https://bsky.app/profile/usatoday.com/post/3m6qcjigqoy2j)
 
 ---
 
-@sokuho.news
+@nbcnews.com
 
-🔔ANNより【速報】です。
+A fleet of planes that UPS grounded after a deadly crash isn’t expected to be back in service during the peak holiday season due to inspections and possible repairs, the company says. 
 
-【速報】住宅と空き家が全焼 焼け跡から1人の遺体 宇都宮市
-(10:22) #ニュース
+[2025-11-29 11:01:07](https://bsky.app/profile/nbcnews.com/post/3m6qcjco36q2w)
 
-[2025-11-29 10:23:22](https://bsky.app/profile/sokuho.news/post/3m6qafsslva2p)
+---
+
+@cnn.com
+
+“Slow down”: Celine Dion issued an important reminder, in light of the holiday.
+
+[2025-11-29 11:01:01](https://bsky.app/profile/cnn.com/post/3m6qcj53v2r2r)
+
+---
+
+@reuters.com
+
+Taiwan's 'Left-Handed Girl' shot on iPhones and inspired by real stories reut.rs/43Tz77N
+
+[2025-11-29 11:01:00](https://bsky.app/profile/reuters.com/post/3m6qcj3sdnu2y)
+
+---
+
+@cnbc.com
+
+Born and raised in New York, Chanel Rivers, now 35, says she was tired of the dating scene and worrying about her safety in the Big Apple.
+
+She booked a trip to London with a friend and realized how comfortable she felt walking around the city, something she no longer felt in New York.
+
+[2025-11-29 11:00:33](https://bsky.app/profile/cnbc.com/post/3m6qcicpe6l2f)
+
+---
+
+@bloomberg.com
+
+Trump says he plans to pardon a former president of Honduras, Juan Orlando Hernandez, who’s serving a decades-long US sentence for cocaine trafficking.
+
+[2025-11-29 11:00:11](https://bsky.app/profile/bloomberg.com/post/3m6qchnnrzn2m)
+
+---
+
+@washingtonpost.com
+
+Review: Filmmaker Rian Johnson displays his impressive skill once again in “Wake Up Dead Man,” the third installment in his “Knives Out” franchise.
+
+Like its predecessors, the new film is twisty-turny enough to keep you enthralled until the very end.
+
+[2025-11-29 11:00:05](https://bsky.app/profile/washingtonpost.com/post/3m6qchh6xdd2f)
+
+---
+
+@cbsnews.com
+
+No West Virginia National Guard troops deployed in D.C. have asked to leave since deadly shooting, governor says.
+
+[2025-11-29 11:00:01](https://bsky.app/profile/cbsnews.com/post/3m6qchdifjw2n)
 
 ---
 
