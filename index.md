@@ -1,9 +1,9 @@
-# [2025-11-29 09:30 updated](2025_11_29.md)
+# [2025-11-29 09:50 updated](2025_11_29.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The Trump administration has announced it is halting all asylum decisions in the wake of the National Guard shooting in Washington, D.C. The director of U.S. <a href="https://bsky.app/profile/apnews.com/post/3m6q5fckqvb2c" target="_blank">apnews.com</a> (2025-11-29 09:29:24)</span><span style="padding-right:50px;">障害の娘 置き去りにして死亡させた母 2年8か月の実刑判決 https://news.web.nhk/newsweb/na/na-k10014989371000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6q5b4nun62e" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-29 09:27:02)</span><span style="padding-right:50px;">Portugal applies for $6.73 billion in EU loans to strengthen defences reut.rs/4ixKOqY <a href="https://bsky.app/profile/reuters.com/post/3m6q55ps4xj2k" target="_blank">reuters.com</a> (2025-11-29 09:25:09)</span><span style="padding-right:50px;">UK to hold fresh pork, other affected Spanish products at border amid African swine fever outbreak reut.rs/3K1diwr <a href="https://bsky.app/profile/reuters.com/post/3m6q4m2ms5b2y" target="_blank">reuters.com</a> (2025-11-29 09:15:17)</span><span style="padding-right:50px;">The fourth installment of the Jackie Chan-led franchise will be distributed by Paramount, Matt Belloni at Puck reported. The film series, which launched in 1998 from director Brett Ratner, includes "Rush Hour," Rush Hour 2," and "Rush Hour 3." <a href="https://bsky.app/profile/usatoday.com/post/3m6q4ltgcwo2p" target="_blank">usatoday.com</a> (2025-11-29 09:15:09)</span>
+<span style="padding-right:50px;">Vasseur maybe underestimated psychological hit of development halt reut.rs/4pesjua <a href="https://bsky.app/profile/reuters.com/post/3m6q6bnrb7z2k" target="_blank">reuters.com</a> (2025-11-29 09:45:15)</span><span style="padding-right:50px;">Former Honduran President Juan Orlando Hernandez was convicted for drug trafficking and weapons charges and sentenced to 45 years in prison. n.pr/4pGmc1n <a href="https://bsky.app/profile/npr.org/post/3m6q5ys57sw23" target="_blank">npr.org</a> (2025-11-29 09:40:18)</span><span style="padding-right:50px;">Giants QB Jaxson Dart to start vs. Patriots reut.rs/3M4tRrT <a href="https://bsky.app/profile/reuters.com/post/3m6q5yqedq226" target="_blank">reuters.com</a> (2025-11-29 09:40:16)</span><span style="padding-right:50px;">Bucs QB Baker Mayfield practices, expects to play Sunday reut.rs/44ExyuC <a href="https://bsky.app/profile/reuters.com/post/3m6q5poav7q2n" target="_blank">reuters.com</a> (2025-11-29 09:35:12)</span><span style="padding-right:50px;">The Trump administration paused asylum applications filed by migrants inside the U.S., the latest change to come out of the government’s review of the immigration system after the authorities said an Afghan man opened fire on two National Guard members. <a href="https://bsky.app/profile/nytimes.com/post/3m6q5l5z2lz2w" target="_blank">nytimes.com</a> (2025-11-29 09:32:40)</span>
   </div>
 </div>
 
@@ -32,99 +32,97 @@
 
 ## News Headlines
 
-1. トランプ政権、亡命申請判断を一時停止
-2. 障害の娘置き去り死亡事件、母親に実刑判決
-3. イギリス、アフリカ豚コレラでスペイン産豚肉製品を国境で保留
-4. 「ラッシュアワー4」製作へ、トランプ大統領が要望
-5. エアバス機ソフト更新で運航混乱の可能性
-6. 全日空、エアバス機不具合で国内線65便欠航
+1. ホンジュラス元大統領、麻薬密輸で禁錮45年
+2. ゼレンスキー政権、和平協議の側近を汚職疑惑で解任
+3. トランプ氏、バイデン政権の政策を無効化すると主張
+4. エアバス機ソフト更新で運航混乱の可能性、航空当局が警告
+5. シリア、イスラエル軍の攻撃を非難、10人以上死亡
+6. 全日空、エアバス機の不具合で国内線65便欠航
 
 ----
 
-@apnews.com
-
-The Trump administration has announced it is halting all asylum decisions in the wake of the National Guard shooting in Washington, D.C. The director of U.S.
-
-[2025-11-29 09:29:24](https://bsky.app/profile/apnews.com/post/3m6q5fckqvb2c)
-
----
-
-@nhknewsunofficial.bsky.social
-
-障害の娘 置き去りにして死亡させた母 2年8か月の実刑判決
-https://news.web.nhk/newsweb/na/na-k10014989371000
-
-[2025-11-29 09:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6q5b4nun62e)
-
----
-
 @reuters.com
 
-Portugal applies for $6.73 billion in EU loans to strengthen defences reut.rs/4ixKOqY
+Vasseur maybe underestimated psychological hit of development halt reut.rs/4pesjua
 
-[2025-11-29 09:25:09](https://bsky.app/profile/reuters.com/post/3m6q55ps4xj2k)
-
----
-
-@reuters.com
-
-UK to hold fresh pork, other affected Spanish products at border amid African swine fever outbreak reut.rs/3K1diwr
-
-[2025-11-29 09:15:17](https://bsky.app/profile/reuters.com/post/3m6q4m2ms5b2y)
-
----
-
-@usatoday.com
-
-The fourth installment of the Jackie Chan-led franchise will be distributed by Paramount, Matt Belloni at Puck reported. The film series, which launched in 1998 from director Brett Ratner, includes "Rush Hour," Rush Hour 2," and "Rush Hour 3."
-
-[2025-11-29 09:15:09](https://bsky.app/profile/usatoday.com/post/3m6q4ltgcwo2p)
-
----
-
-@usatoday.com
-
-"Rush Hour 4" is reportedly in the works at Paramount.
-  
-The revival follows a specific request from President Donald Trump, according to Semafor.
-  
-📸: Glen Wilson New Line Cinema HO
-
-Read more: bit.ly/4ojriiX
-
-[2025-11-29 09:15:08](https://bsky.app/profile/usatoday.com/post/3m6q4lsqnl62p)
-
----
-
-@nytimes.com
-
-Here's something easy (that's not leftovers) for dinner: This vegan sauce is hearty like a meat ragù. The richness is created by the sheer volume of the garlic — 40 cloves. nyti.ms/3KgGy27
-
-[2025-11-29 09:13:03](https://bsky.app/profile/nytimes.com/post/3m6q4i3eftt2e)
-
----
-
-@reuters.com
-
-Report: Florida not waiting on Lane Kiffin reut.rs/3K4ZMrE
-
-[2025-11-29 09:10:12](https://bsky.app/profile/reuters.com/post/3m6q4cyiova2e)
+[2025-11-29 09:45:15](https://bsky.app/profile/reuters.com/post/3m6q6bnrb7z2k)
 
 ---
 
 @npr.org
 
-A320 planes are flown by a number of domestic and international airlines, and the required software update could lead to "operational disruptions to passengers and customers," according to Airbus. n.pr/4al27ct
+Former Honduran President Juan Orlando Hernandez was convicted for drug trafficking and weapons charges and sentenced to 45 years in prison. n.pr/4pGmc1n
 
-[2025-11-29 09:06:38](https://bsky.app/profile/npr.org/post/3m6q44lm7s62r)
+[2025-11-29 09:40:18](https://bsky.app/profile/npr.org/post/3m6q5ys57sw23)
 
 ---
 
-@wsj.com
+@reuters.com
 
-For Sarah Beckstrom, the National Guard member who died after being shot while on duty in Washington, the military offered opportunities that her West Virginia hometown didn’t.
+Giants QB Jaxson Dart to start vs. Patriots reut.rs/3M4tRrT
 
-[2025-11-29 09:05:59](https://bsky.app/profile/wsj.com/post/3m6q43gxxay2x)
+[2025-11-29 09:40:16](https://bsky.app/profile/reuters.com/post/3m6q5yqedq226)
+
+---
+
+@reuters.com
+
+Bucs QB Baker Mayfield practices, expects to play Sunday reut.rs/44ExyuC
+
+[2025-11-29 09:35:12](https://bsky.app/profile/reuters.com/post/3m6q5poav7q2n)
+
+---
+
+@nytimes.com
+
+The Trump administration paused asylum applications filed by migrants inside the U.S., the latest change to come out of the government’s review of the immigration system after the authorities said an Afghan man opened fire on two National Guard members.
+
+[2025-11-29 09:32:40](https://bsky.app/profile/nytimes.com/post/3m6q5l5z2lz2w)
+
+---
+
+@nikkei.com
+
+ゼレンスキー政権、窮地に　和平協議率いた最側近を汚職疑惑で解任
+www.nikkei.com/article/DGXZQO...
+
+イエルマーク氏は、政権の発足当初からウクライナの内政・外交両面で強い影響力を発揮。ゼレンスキー氏が信頼する右腕のナンバー2の実力者でした。
+
+アメリカとの和平協議で代表団を率い、ロシアとの交渉にも大きな役割を持っていました。
+
+[2025-11-29 09:31:17](https://bsky.app/profile/nikkei.com/post/3m6q5iookjl2g)
+
+---
+
+@cnn.com
+
+President Donald Trump continued his effort to delegitimize actions taken during Joe Biden’s presidency, claiming in a social media post that he is “cancelling all executive orders, and anything else that was not directly signed” by his predecessor. https://cnn.it/3M7zKV9
+
+[2025-11-29 09:31:02](https://bsky.app/profile/cnn.com/post/3m6q5i7vpnd2b)
+
+---
+
+@reuters.com
+
+Report: Mavericks F Anthony Davis (calf) to return vs. Lakers reut.rs/4pv1oK0
+
+[2025-11-29 09:30:32](https://bsky.app/profile/reuters.com/post/3m6q5hdavgj2y)
+
+---
+
+@usatoday.com
+
+"We’ll be starting to stop them by land also," Trump said of Venezuelan drug traffickers. "The land is easier, but that’s going to start very soon."
+
+[2025-11-29 09:30:28](https://bsky.app/profile/usatoday.com/post/3m6q5h7prdo2t)
+
+---
+
+@cbsnews.com
+
+National Guard member killed in D.C. shooting remembered as courageous person who "liked to laugh."
+
+[2025-11-29 09:30:01](https://bsky.app/profile/cbsnews.com/post/3m6q5gfsbn626)
 
 ---
 
