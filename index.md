@@ -1,9 +1,9 @@
-# [2025-11-29 12:30 updated](2025_11_29.md)
+# [2025-11-29 12:50 updated](2025_11_29.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】宮崎市神宮西で建物火災 宮崎県立図書館の北側 (2025-11-29 12:22:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6qhanko4y2e" target="_blank">sokuho.news</a> (2025-11-29 12:25:45)</span><span style="padding-right:50px;">Trump administration reaches deal with Northwestern University to restore funding reut.rs/4877TwW <a href="https://bsky.app/profile/reuters.com/post/3m6qgwtuja52o" target="_blank">reuters.com</a> (2025-11-29 12:20:16)</span><span style="padding-right:50px;">香港 高層住宅火災 128人死亡確認 追悼の動き広がる https://news.web.nhk/newsweb/na/na-k10014989511000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6qgnkvk5h26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-29 12:15:02)</span><span style="padding-right:50px;">No. 5 LSU set an NCAA record with its seventh consecutive 100-point game Friday night, routing Marist 113-53 in the Reef Division semifinal game at the Paradise Jam tournament. <a href="https://bsky.app/profile/apnews.com/post/3m6qgl4i3ql22" target="_blank">apnews.com</a> (2025-11-29 12:13:43)</span><span style="padding-right:50px;">エアバス機に不具合 全日空の国内線95便がきょう欠航 https://news.web.nhk/newsweb/na/na-k10014989561000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6qgi6eorv2r" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-29 12:12:02)</span>
+<span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】石巻市内の学校で“小型カメラで着替え”盗撮か 53歳の教師の男を逮捕 あいまいな供述 (2025-11-29 12:20) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6qieh4bvl2h" target="_blank">sokuho.news</a> (2025-11-29 12:45:46)</span><span style="padding-right:50px;">Thunder star Jalen Williams (wrist) making season debut vs. Suns reut.rs/43ZGiv7 <a href="https://bsky.app/profile/reuters.com/post/3m6qi2jo3tn2i" target="_blank">reuters.com</a> (2025-11-29 12:40:13)</span><span style="padding-right:50px;">東大病院汚職事件 贈賄側の勾留認めず 最高裁 https://news.web.nhk/newsweb/na/na-k10014989631000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6qht4htvd2g" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-29 12:36:02)</span><span style="padding-right:50px;">エッセンシャルワーカーへの転職1割どまり　待遇見劣り、人材難加速 www.nikkei.com/article/DGXZQO...  小中学校では給食出せず弁当に、路線バスは廃止・減便──。  2040年にエッセンシャルワーカー不足が500万人に迫るとの見方も。日本の生活基盤が脅かされています。 <a href="https://bsky.app/profile/nikkei.com/post/3m6qhkjxafm26" target="_blank">nikkei.com</a> (2025-11-29 12:31:17)</span><span style="padding-right:50px;">Flights to Philadelphia International resume after brief ground stop over bomb threat reut.rs/48jiO5y <a href="https://bsky.app/profile/reuters.com/post/3m6qhiyj4ff2w" target="_blank">reuters.com</a> (2025-11-29 12:30:25)</span>
   </div>
 </div>
 
@@ -32,14 +32,72 @@
 
 ## News Headlines
 
-1. 宮崎市で建物火災、県立図書館北側
-2. 香港高層住宅火災、128人死亡確認
-3. 全日空、エアバス機不具合で国内線95便欠航
-4. 介護サービス車が電柱に激突、90代利用者2人重体
-5. 新潟市街地にイノシシ出没、車に体当たり
-6. 福島市中心部で熊の目撃相次ぐ
+1. 石巻市で教師が盗撮か、小型カメラで着替えを盗撮容疑
+2. 東大病院汚職事件、贈賄側の勾留認めず - 最高裁
+3. エッセンシャルワーカー不足深刻化、2040年に500万人迫る
+4. 香港高層住宅火災、128人死亡確認 - 追悼広がる
+5. 全日空、エアバス機不具合で国内線95便欠航
+6. 介護サービスの車が電柱に激突、90代利用者2人意識不明の重体
 
 ----
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】石巻市内の学校で“小型カメラで着替え”盗撮か 53歳の教師の男を逮捕 あいまいな供述
+(2025-11-29 12:20) #ニュース
+
+[2025-11-29 12:45:46](https://bsky.app/profile/sokuho.news/post/3m6qieh4bvl2h)
+
+---
+
+@reuters.com
+
+Thunder star Jalen Williams (wrist) making season debut vs. Suns reut.rs/43ZGiv7
+
+[2025-11-29 12:40:13](https://bsky.app/profile/reuters.com/post/3m6qi2jo3tn2i)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+東大病院汚職事件 贈賄側の勾留認めず 最高裁
+https://news.web.nhk/newsweb/na/na-k10014989631000
+
+[2025-11-29 12:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6qht4htvd2g)
+
+---
+
+@nikkei.com
+
+エッセンシャルワーカーへの転職1割どまり　待遇見劣り、人材難加速
+www.nikkei.com/article/DGXZQO...
+
+小中学校では給食出せず弁当に、路線バスは廃止・減便──。
+
+2040年にエッセンシャルワーカー不足が500万人に迫るとの見方も。日本の生活基盤が脅かされています。
+
+[2025-11-29 12:31:17](https://bsky.app/profile/nikkei.com/post/3m6qhkjxafm26)
+
+---
+
+@reuters.com
+
+Flights to Philadelphia International resume after brief ground stop over bomb threat reut.rs/48jiO5y
+
+[2025-11-29 12:30:25](https://bsky.app/profile/reuters.com/post/3m6qhiyj4ff2w)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+大分 大規模火災 住宅地など鎮火で一部区域の立ち入り規制解除
+https://news.web.nhk/newsweb/na/na-k10014989651000
+
+[2025-11-29 12:30:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6qhiejx2w2b)
+
+---
 
 @sokuho.news
 
@@ -74,63 +132,6 @@ https://news.web.nhk/newsweb/na/na-k10014989511000
 No. 5 LSU set an NCAA record with its seventh consecutive 100-point game Friday night, routing Marist 113-53 in the Reef Division semifinal game at the Paradise Jam tournament.
 
 [2025-11-29 12:13:43](https://bsky.app/profile/apnews.com/post/3m6qgl4i3ql22)
-
----
-
-@nhknewsunofficial.bsky.social
-
-エアバス機に不具合 全日空の国内線95便がきょう欠航
-https://news.web.nhk/newsweb/na/na-k10014989561000
-
-[2025-11-29 12:12:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6qgi6eorv2r)
-
----
-
-@wsj.com
-
-Kentucky Gov. Andy Beshear, the unwavering Democrat who has repeatedly won in Trump country, says some in his party need to talk more like “normal human beings.”
-
-[2025-11-29 12:11:54](https://bsky.app/profile/wsj.com/post/3m6qghuyunt2h)
-
----
-
-@reuters.com
-
-Keegan Bradley takes home $2.1M in return of the Skins Game reut.rs/3XWmZ2h
-
-[2025-11-29 12:10:12](https://bsky.app/profile/reuters.com/post/3m6qgetmmgm27)
-
----
-
-@nikkei.com
-
-渋谷や梅田…駅前再開発いつ終わる？
-www.nikkei.com/article/DGXZQO...
-
-「ずっと工事しているよね。不便だな」
-「なんであちこちで駅前の再開発をしているのかな」
-「駅前の工事はなぜそんなに時間がかかるのかな」
-
-皆さんはこんな風に思ったことはありませんか？
-
-[2025-11-29 12:05:17](https://bsky.app/profile/nikkei.com/post/3m6qg427ts22k)
-
----
-
-@nhknewsunofficial.bsky.social
-
-証券口座乗っ取り “フィッシング”通じ口座に不正アクセスか
-https://news.web.nhk/newsweb/na/na-k10014989611000
-
-[2025-11-29 12:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6qfy3igkf2r)
-
----
-
-@cnn.com
-
-In just a few short hours on Wednesday afternoon, what began as a small fire on the first floor of an apartment building swelled into a raging inferno that consumed seven high-rise towers on a Hong Kong public housing estate.
-
-[2025-11-29 12:01:01](https://bsky.app/profile/cnn.com/post/3m6qfugjugt2i)
 
 ---
 
