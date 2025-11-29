@@ -1,9 +1,9 @@
-# [2025-11-29 17:10 updated](2025_11_29.md)
+# [2025-11-29 17:30 updated](2025_11_29.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">東京六大学野球 結成100周年記念 出身高校を東西に分けて対戦 https://news.web.nhk/newsweb/na/na-k10014989701000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6qwvwems52j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-29 17:06:03)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】岡山空港のANA羽田線2便欠航 エアバス機整備作業の影響 高松発は4便欠航 29日【岡山】 (2025-11-29 17:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6qwvl7xom22" target="_blank">sokuho.news</a> (2025-11-29 17:05:53)</span><span style="padding-right:50px;">Top 25 roundup: No. 16 Texas hands No. 3 Texas A&M first loss reut.rs/48js5uo <a href="https://bsky.app/profile/reuters.com/post/3m6qwubezo32r" target="_blank">reuters.com</a> (2025-11-29 17:05:10)</span><span style="padding-right:50px;">Lululemon founder Chip Wilson has been trolling the board and CEO, blaming the retailer’s “loss of cool” on their mistakes. <a href="https://bsky.app/profile/wsj.com/post/3m6qwpmicwv2i" target="_blank">wsj.com</a> (2025-11-29 17:02:33)</span><span style="padding-right:50px;">米マイクロンが広島にAI半導体新工場　1.5兆円投資、国内入手容易に www.nikkei.com/article/DGXZQO...  これまで台湾が先行してきた高性能メモリーの次世代品を広島工場で生産します。供給制限が緩和され価格低下も期待できます。  高性能メモリーはHBMと呼ばれ、画像処理半導体のGPUと組み合わされてAI半導体を構成します。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m6qwned34r26" target="_blank">nikkei.com</a> (2025-11-29 17:01:18)</span>
+<span style="padding-right:50px;">スーパーが目指す「唐揚げ王」　下味や包み方…花形総菜の戦い熱く www.nikkei.com/article/DGXZQO...  （2025年9月 読まれた記事） #いい肉の日 <a href="https://bsky.app/profile/nikkei.com/post/3m6qy7fkldo2z" target="_blank">nikkei.com</a> (2025-11-29 17:29:17)</span><span style="padding-right:50px;">ICE canola futures lower on Friday but up for the week reut.rs/3Kv4YFe <a href="https://bsky.app/profile/reuters.com/post/3m6qxxzrpxt2r" target="_blank">reuters.com</a> (2025-11-29 17:25:09)</span><span style="padding-right:50px;">Ryanair axes loyalty scheme after passengers took too many cheap flights on.ft.com/4rtoTVF <a href="https://bsky.app/profile/financialtimes.com/post/3m6qxnphkyo2w" target="_blank">financialtimes.com</a> (2025-11-29 17:19:23)</span><span style="padding-right:50px;">NBA レイカーズ 八村塁 14得点 チームの6連勝に貢献 https://news.web.nhk/newsweb/na/na-k10014989711000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6qxlgd5lz23" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-29 17:18:03)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】岡山空港のANA羽田線2便欠航 エアバス機整備作業の影響 高松発着は4便欠航 29日【岡山】 (2025-11-29 17:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6qxhg5dj42l" target="_blank">sokuho.news</a> (2025-11-29 17:15:52)</span>
   </div>
 </div>
 
@@ -32,14 +32,87 @@
 
 ## News Headlines
 
-1.  東京六大学野球100周年、東西出身高校別対戦
-2.  岡山空港ANA羽田線、機材整備で欠航
-3.  米マイクロン、広島にAI半導体新工場建設へ
-4.  ヴァンラーレ八戸、クラブ史上初のJ2昇格決定
-5.  V・ファーレン長崎、8年ぶりJ1昇格決定
-6.  トレーラーが国道沿いの製材所に突っ込む 群馬・渋川市
+1. スーパー「唐揚げ王」を目指す！花形総菜の戦い激化
+2. レイカーズ八村塁14得点！チーム6連勝に貢献
+3. ANA岡山-羽田線、機材整備で欠航相次ぐ
+4. マイクロン、日本にAIメモリ工場建設へ1.5兆円投資
+5. ヴァンラーレ八戸、クラブ史上初のJ2昇格！
+6. 香港高層アパート火災、3日間の服喪期間へ
 
 ----
+
+@nikkei.com
+
+スーパーが目指す「唐揚げ王」　下味や包み方…花形総菜の戦い熱く
+www.nikkei.com/article/DGXZQO...
+
+（2025年9月 読まれた記事）
+#いい肉の日
+
+[2025-11-29 17:29:17](https://bsky.app/profile/nikkei.com/post/3m6qy7fkldo2z)
+
+---
+
+@reuters.com
+
+ICE canola futures lower on Friday but up for the week reut.rs/3Kv4YFe
+
+[2025-11-29 17:25:09](https://bsky.app/profile/reuters.com/post/3m6qxxzrpxt2r)
+
+---
+
+@financialtimes.com
+
+Ryanair axes loyalty scheme after passengers took too many cheap flights on.ft.com/4rtoTVF
+
+[2025-11-29 17:19:23](https://bsky.app/profile/financialtimes.com/post/3m6qxnphkyo2w)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+NBA レイカーズ 八村塁 14得点 チームの6連勝に貢献
+https://news.web.nhk/newsweb/na/na-k10014989711000
+
+[2025-11-29 17:18:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6qxlgd5lz23)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】岡山空港のANA羽田線2便欠航 エアバス機整備作業の影響 高松発着は4便欠航 29日【岡山】
+(2025-11-29 17:00) #ニュース
+
+[2025-11-29 17:15:52](https://bsky.app/profile/sokuho.news/post/3m6qxhg5dj42l)
+
+---
+
+@reuters.com
+
+Pope removes shoes but doesn't pray on visit to Istanbul's Blue Mosque reut.rs/3LZOpSt
+
+[2025-11-29 17:15:12](https://bsky.app/profile/reuters.com/post/3m6qxgak5ru2n)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+証券口座乗っ取り“フィッシング”で不正入手のIDでアクセスか
+https://news.web.nhk/newsweb/na/na-k10014989611000
+
+[2025-11-29 17:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6qxfybnfp2t)
+
+---
+
+@reuters.com
+
+Micron to invest $9.6 billion in Japan to build AI memory chip plant, Nikkei reports reut.rs/3XVc7BJ
+
+[2025-11-29 17:10:11](https://bsky.app/profile/reuters.com/post/3m6qx5ayye626)
+
+---
 
 @nhknewsunofficial.bsky.social
 
@@ -58,83 +131,6 @@ https://news.web.nhk/newsweb/na/na-k10014989701000
 (2025-11-29 17:00) #ニュース
 
 [2025-11-29 17:05:53](https://bsky.app/profile/sokuho.news/post/3m6qwvl7xom22)
-
----
-
-@reuters.com
-
-Top 25 roundup: No. 16 Texas hands No. 3 Texas A&M first loss reut.rs/48js5uo
-
-[2025-11-29 17:05:10](https://bsky.app/profile/reuters.com/post/3m6qwubezo32r)
-
----
-
-@wsj.com
-
-Lululemon founder Chip Wilson has been trolling the board and CEO, blaming the retailer’s “loss of cool” on their mistakes.
-
-[2025-11-29 17:02:33](https://bsky.app/profile/wsj.com/post/3m6qwpmicwv2i)
-
----
-
-@nikkei.com
-
-米マイクロンが広島にAI半導体新工場　1.5兆円投資、国内入手容易に
-www.nikkei.com/article/DGXZQO...
-
-これまで台湾が先行してきた高性能メモリーの次世代品を広島工場で生産します。供給制限が緩和され価格低下も期待できます。
-
-高性能メモリーはHBMと呼ばれ、画像処理半導体のGPUと組み合わされてAI半導体を構成します。
-
-#ニュース
-
-[2025-11-29 17:01:18](https://bsky.app/profile/nikkei.com/post/3m6qwned34r26)
-
----
-
-@cnn.com
-
-President Donald Trump is blaming the Biden administration for this week’s shooting of two National Guard members in Washington, DC, in part by insisting that the suspect, a 29-year-old Afghan, was among millions of foreigners Biden allowed into the US without proper vetting. 
-
-[2025-11-29 17:01:03](https://bsky.app/profile/cnn.com/post/3m6qwmvykk52q)
-
----
-
-@reuters.com
-
-Lakers top Mavericks, storm into NBA Cup knockout round reut.rs/43ZeJlI
-
-[2025-11-29 17:00:33](https://bsky.app/profile/reuters.com/post/3m6qwlzvyev2w)
-
----
-
-@aljazeera.com
-
-At least 128 people died and 200 remain missing after the towers housing 4,600 people were engulfed by flames.
-
-[2025-11-29 17:00:18](https://bsky.app/profile/aljazeera.com/post/3m6qwllpjz62v)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】ヴァンラーレ八戸がクラブ史上初のJ2昇格 昇格請負人の石﨑監督体制3年目で快挙 今季最終FC琉球戦でドロー【J2昇格かけた大一番】
-(2025-11-29 16:54:00) #ニュース
-
-[2025-11-29 16:55:53](https://bsky.app/profile/sokuho.news/post/3m6qwdowa7j2p)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】V・ファーレン長崎が8年ぶりのJ1昇格決定！最終節は徳島に1-1で引き分ける
-(2025-11-29 16:01) #ニュース
-
-[2025-11-29 16:55:44](https://bsky.app/profile/sokuho.news/post/3m6qwdgczib2e)
 
 ---
 
