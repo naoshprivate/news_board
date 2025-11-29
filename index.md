@@ -1,9 +1,9 @@
-# [2025-11-29 16:10 updated](2025_11_29.md)
+# [2025-11-29 16:30 updated](2025_11_29.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】J2ベガルタ仙台 J1昇格プレーオフ進出ならず (2025-11-29 15:33:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6qtksmu3u2x" target="_blank">sokuho.news</a> (2025-11-29 16:06:11)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】V・ファーレン長崎が8年ぶりのJ1昇格！徳島に1-1で引き分ける (2025-11-29 16:01) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6qtklrmt72d" target="_blank">sokuho.news</a> (2025-11-29 16:06:04)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】徳島県議会議員の古川広志容疑（64）を逮捕 都内のホテルで風俗店の女性を呼んで盗撮したか 警視庁 (2025-11-29 16:01:20) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6qtjtgzur2m" target="_blank">sokuho.news</a> (2025-11-29 16:05:38)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】祝カターレ富山J2残留 秋田を4-1で破る！熊本が引き分け得失点差で上回り残留 (2025-11-29 16:02) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6qtjq2fgf2l" target="_blank">sokuho.news</a> (2025-11-29 16:05:35)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】V・ファーレン長崎、8年ぶりJ1昇格決定！最終節で悲願達成、高木体制で「劇的V字回復」果たし頂点へ (2025-11-29 16:02:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6qtjb43ky27" target="_blank">sokuho.news</a> (2025-11-29 16:05:19)</span>
+<span style="padding-right:50px;">東北大学、留学生の授業料を7割引き上げ　欧米型の「受益者負担」に www.nikkei.com/article/DGXZQO...  現在は国内の学生と同じ年53万5800円ですが、2027年度に約90万円にします。  2%にとどまる学部の留学生比率を、10年後に9%まで上げるため受け入れ環境を拡充します。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m6qunhwuyf2z" target="_blank">nikkei.com</a> (2025-11-29 16:25:34)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】ヴァンラーレ八戸が後半に先制許す 今季最終FC琉球戦【J2昇格かけた大一番】 (2025-11-29 16:24:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6qun3mcje2y" target="_blank">sokuho.news</a> (2025-11-29 16:25:21)</span><span style="padding-right:50px;">Hong Kong blaze spotlights enduring role of city's foreign domestic helpers reut.rs/49RioG5 <a href="https://bsky.app/profile/reuters.com/post/3m6qumrgves2n" target="_blank">reuters.com</a> (2025-11-29 16:25:10)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】ロアッソ熊本「得失点差1」でJ3降格圏に 最終戦で甲府と引き分けも… (2025-11-29 16:16) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6quer7zgs2h" target="_blank">sokuho.news</a> (2025-11-29 16:20:42)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】ロアッソ熊本「得失点差1」でJ3降格 最終戦で甲府と引き分けも… (2025-11-29 16:16) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6qu5briky2p" target="_blank">sokuho.news</a> (2025-11-29 16:16:31)</span>
   </div>
 </div>
 
@@ -32,34 +32,27 @@
 
 ## News Headlines
 
-1.  V・ファーレン長崎、8年ぶりJ1昇格決定！
-2.  カターレ富山、J2残留！得失点差で劇的勝利
-3.  ベガルタ仙台、J1昇格プレーオフ進出ならず
-4.  徳島県議会議員、盗撮容疑で逮捕
-5.  郡山市で熊出没、学校・住宅地付近で警戒
-6.  長与町の焼き肉店で火事、消防車8台出動
+1. 東北大学、留学生授業料を7割引き上げ　「受益者負担」へ
+2. V・ファーレン長崎、8年ぶりJ1昇格決定！劇的V字回復で悲願達成
+3. ロアッソ熊本、J3降格決定…得失点差「1」に泣く
+4. 徳島県議、ホテルで盗撮容疑で逮捕
+5. カターレ富山、J2残留決定！熊本は降格
+6. 長崎・長与町の焼き肉店で火事発生、消防車8台が出動
 
 ----
 
-@sokuho.news
+@nikkei.com
 
-🛎️JNNより【速報】です。
+東北大学、留学生の授業料を7割引き上げ　欧米型の「受益者負担」に
+www.nikkei.com/article/DGXZQO...
 
-【速報】J2ベガルタ仙台 J1昇格プレーオフ進出ならず
-(2025-11-29 15:33:00) #ニュース
+現在は国内の学生と同じ年53万5800円ですが、2027年度に約90万円にします。
 
-[2025-11-29 16:06:11](https://bsky.app/profile/sokuho.news/post/3m6qtksmu3u2x)
+2%にとどまる学部の留学生比率を、10年後に9%まで上げるため受け入れ環境を拡充します。
 
----
+#ニュース
 
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】V・ファーレン長崎が8年ぶりのJ1昇格！徳島に1-1で引き分ける
-(2025-11-29 16:01) #ニュース
-
-[2025-11-29 16:06:04](https://bsky.app/profile/sokuho.news/post/3m6qtklrmt72d)
+[2025-11-29 16:25:34](https://bsky.app/profile/nikkei.com/post/3m6qunhwuyf2z)
 
 ---
 
@@ -67,43 +60,18 @@
 
 🛎️JNNより【速報】です。
 
-【速報】徳島県議会議員の古川広志容疑（64）を逮捕 都内のホテルで風俗店の女性を呼んで盗撮したか 警視庁
-(2025-11-29 16:01:20) #ニュース
+【速報】ヴァンラーレ八戸が後半に先制許す 今季最終FC琉球戦【J2昇格かけた大一番】
+(2025-11-29 16:24:00) #ニュース
 
-[2025-11-29 16:05:38](https://bsky.app/profile/sokuho.news/post/3m6qtjtgzur2m)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】祝カターレ富山J2残留 秋田を4-1で破る！熊本が引き分け得失点差で上回り残留
-(2025-11-29 16:02) #ニュース
-
-[2025-11-29 16:05:35](https://bsky.app/profile/sokuho.news/post/3m6qtjq2fgf2l)
+[2025-11-29 16:25:21](https://bsky.app/profile/sokuho.news/post/3m6qun3mcje2y)
 
 ---
 
-@sokuho.news
+@reuters.com
 
-🛎️JNNより【速報】です。
+Hong Kong blaze spotlights enduring role of city's foreign domestic helpers reut.rs/49RioG5
 
-【速報】V・ファーレン長崎、8年ぶりJ1昇格決定！最終節で悲願達成、高木体制で「劇的V字回復」果たし頂点へ
-(2025-11-29 16:02:00) #ニュース
-
-[2025-11-29 16:05:19](https://bsky.app/profile/sokuho.news/post/3m6qtjb43ky27)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】カターレ富山 J2残留決定！ ホーム最終戦で秋田に勝利 熊本は引き分け、得失点差で上回る サッカー明治安田J2
-(2025-11-29 16:02:00) #ニュース
-
-[2025-11-29 16:04:59](https://bsky.app/profile/sokuho.news/post/3m6qtio7nmb24)
+[2025-11-29 16:25:10](https://bsky.app/profile/reuters.com/post/3m6qumrgves2n)
 
 ---
 
@@ -111,34 +79,74 @@
 
 🛎️NNNより【速報】です。
 
-【速報】J2最終節 V長崎がJ1昇格決定！ 徳島と引き分け8季ぶりの舞台へ
-(2025-11-29 16:02) #ニュース
+【速報】ロアッソ熊本「得失点差1」でJ3降格圏に 最終戦で甲府と引き分けも…
+(2025-11-29 16:16) #ニュース
 
-[2025-11-29 16:02:43](https://bsky.app/profile/sokuho.news/post/3m6qtemjwx42l)
-
----
-
-@cnn.com
-
-More than $100,000 worth of escargots were stolen from a French snail farmer earlier this week, French media reported, leaving the supplier scrambling to replenish its stock in time for the holiday season.
-
-[2025-11-29 16:01:01](https://bsky.app/profile/cnn.com/post/3m6qtbl63h22m)
+[2025-11-29 16:20:42](https://bsky.app/profile/sokuho.news/post/3m6quer7zgs2h)
 
 ---
 
-@apnews.com
+@sokuho.news
 
-Houston quarterback C.J. Stroud will return Sunday when the Texans visit Indianapolis in a key AFC South matchup after he missed the last three games recovering from a concussion.
+🛎️NNNより【速報】です。
 
-[2025-11-29 16:00:43](https://bsky.app/profile/apnews.com/post/3m6qtazie7k2r)
+【速報】ロアッソ熊本「得失点差1」でJ3降格 最終戦で甲府と引き分けも…
+(2025-11-29 16:16) #ニュース
+
+[2025-11-29 16:16:31](https://bsky.app/profile/sokuho.news/post/3m6qu5briky2p)
 
 ---
 
-@cnbc.com
+@sokuho.news
 
-"If you want your kids to always trust, respect and want to be around you, no matter how old they are, start doing these seven things early on," says this parenting researcher and coach.
+🛎️JNNより【速報】です。
 
-[2025-11-29 16:00:33](https://bsky.app/profile/cnbc.com/post/3m6qtaqcec32a)
+【速報】V・ファーレン長崎、8年ぶりJ1昇格決定 高木体制で劇的V字回復 最終節で悲願達成
+(2025-11-29 16:02:00) #ニュース
+
+[2025-11-29 16:15:30](https://bsky.app/profile/sokuho.news/post/3m6qu3ifjlr2m)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】ロアッソ熊本のJ3降格が決まる 明治安田J2
+(2025-11-29 16:06:00) #ニュース
+
+[2025-11-29 16:15:20](https://bsky.app/profile/sokuho.news/post/3m6qu36gtdz2m)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+自民 小林政調会長“年収の壁 国民などと協議し結論出したい”
+https://news.web.nhk/newsweb/na/na-k10014989661000
+
+[2025-11-29 16:12:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6qtvdrhfl2n)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】徳島県議会議員の古川広志容疑者（64）を逮捕 都内のホテルで風俗店の女性を呼んで盗撮したか 警視庁
+(2025-11-29 16:01:20) #ニュース
+
+[2025-11-29 16:10:22](https://bsky.app/profile/sokuho.news/post/3m6qtsbtkc42x)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】明治安田J2 ロアッソ熊本のJ3降格が決まる
+(2025-11-29 16:06:00) #ニュース
+
+[2025-11-29 16:10:03](https://bsky.app/profile/sokuho.news/post/3m6qtrq5jeq27)
 
 ---
 
