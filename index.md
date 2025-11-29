@@ -1,9 +1,9 @@
-# [2025-11-29 13:30 updated](2025_11_29.md)
+# [2025-11-29 13:50 updated](2025_11_29.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">広がるジビエ活用、観光や給食にも　販売額は過去最多 www.nikkei.com/article/DGXZQO...  （2025年10月 読まれた記事） #いい肉の日 <a href="https://bsky.app/profile/nikkei.com/post/3m6qksbjqig2e" target="_blank">nikkei.com</a> (2025-11-29 13:29:18)</span><span style="padding-right:50px;">U.S. Olympic medal hope Macuga out for season with knee injury reut.rs/4ivxDGT <a href="https://bsky.app/profile/reuters.com/post/3m6qkc5ewdq22" target="_blank">reuters.com</a> (2025-11-29 13:20:16)</span><span style="padding-right:50px;">Police in California evacuated a shopping mall on one of the busiest shopping days of the year after a shooting left two people with gunshot wounds. <a href="https://bsky.app/profile/apnews.com/post/3m6qkbzyrmr2w" target="_blank">apnews.com</a> (2025-11-29 13:20:13)</span><span style="padding-right:50px;">Combined bid for 2031 WWC includes 14 U.S. cities reut.rs/4p4lPh7 <a href="https://bsky.app/profile/reuters.com/post/3m6qjq4jqaj27" target="_blank">reuters.com</a> (2025-11-29 13:10:11)</span><span style="padding-right:50px;">愛媛 国の原子力総合防災訓練 地震と同時に原発事故を想定 https://news.web.nhk/newsweb/na/na-k10014989641000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6qjo4nh432g" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-29 13:09:02)</span>
+<span style="padding-right:50px;">No. 16 Texas spoils No. 3 Texas A&M's perfect season and knocks the Aggies out of the SEC title game. <a href="https://bsky.app/profile/apnews.com/post/3m6qlhkwwvv22" target="_blank">apnews.com</a> (2025-11-29 13:41:12)</span><span style="padding-right:50px;">Japan's ANA cancels 65 flights on Saturday after Airbus A320 recall reut.rs/4ait8x5 <a href="https://bsky.app/profile/reuters.com/post/3m6qlfrthjy22" target="_blank">reuters.com</a> (2025-11-29 13:40:12)</span><span style="padding-right:50px;">Hong Kong mourns victims of blaze that killed 128 and counting reut.rs/48toUk1 <a href="https://bsky.app/profile/reuters.com/post/3m6qkul3jlw2o" target="_blank">reuters.com</a> (2025-11-29 13:30:35)</span><span style="padding-right:50px;">Northwestern University has reached a deal with the Trump administration to restore hundreds of millions of dollars in research funding and close all pending federal investigations, while paying the government $75 million over three years. <a href="https://bsky.app/profile/bloomberg.com/post/3m6qktu2isr2q" target="_blank">bloomberg.com</a> (2025-11-29 13:30:11)</span><span style="padding-right:50px;">広がるジビエ活用、観光や給食にも　販売額は過去最多 www.nikkei.com/article/DGXZQO...  （2025年10月 読まれた記事） #いい肉の日 <a href="https://bsky.app/profile/nikkei.com/post/3m6qksbjqig2e" target="_blank">nikkei.com</a> (2025-11-29 13:29:18)</span>
   </div>
 </div>
 
@@ -32,14 +32,46 @@
 
 ## News Headlines
 
-1. ジビエ活用広がる、販売額は過去最多
-2. 米五輪メダル候補、膝の怪我でシーズン絶望
-3. 2031年女子W杯、米14都市が共同開催に名乗り
-4. 上海でアニソン歌唱中に強制中断、イベント中止
-5. トランプ前大統領、元ホンジュラス大統領に恩赦検討
-6. 香港高層住宅火災、128人死亡確認
+1. テキサス大、テキサスA&Mの全勝を阻止 SECタイトル戦から脱落
+2. 全日空、エアバス機リコールで65便欠航
+3. 香港高層住宅火災、死者128人に 追悼広がる
+4. 上海でアニソン歌唱中に強制中断 イベント中止
+5. カリフォルニアのショッピングモールで銃撃事件、2人負傷 避難騒ぎ
+6. 石巻市の学校で教師が盗撮か 53歳男を逮捕
 
 ----
+
+@apnews.com
+
+No. 16 Texas spoils No. 3 Texas A&M's perfect season and knocks the Aggies out of the SEC title game.
+
+[2025-11-29 13:41:12](https://bsky.app/profile/apnews.com/post/3m6qlhkwwvv22)
+
+---
+
+@reuters.com
+
+Japan's ANA cancels 65 flights on Saturday after Airbus A320 recall reut.rs/4ait8x5
+
+[2025-11-29 13:40:12](https://bsky.app/profile/reuters.com/post/3m6qlfrthjy22)
+
+---
+
+@reuters.com
+
+Hong Kong mourns victims of blaze that killed 128 and counting reut.rs/48toUk1
+
+[2025-11-29 13:30:35](https://bsky.app/profile/reuters.com/post/3m6qkul3jlw2o)
+
+---
+
+@bloomberg.com
+
+Northwestern University has reached a deal with the Trump administration to restore hundreds of millions of dollars in research funding and close all pending federal investigations, while paying the government $75 million over three years.
+
+[2025-11-29 13:30:11](https://bsky.app/profile/bloomberg.com/post/3m6qktu2isr2q)
+
+---
 
 @nikkei.com
 
@@ -98,40 +130,6 @@ www.nikkei.com/article/DGXZQO...
 #ニュース
 
 [2025-11-29 13:03:17](https://bsky.app/profile/nikkei.com/post/3m6qjdrdedz2i)
-
----
-
-@cnn.com
-
-President Donald Trump said Friday he intends to grant a “full and complete pardon” to former Honduran President Juan Orlando Hernández, a move that would erase a major US drug-trafficking conviction for a onetime US ally who is currently serving a 45-year federal prison sentence. 
-
-[2025-11-29 13:01:02](https://bsky.app/profile/cnn.com/post/3m6qj7q3lym2n)
-
----
-
-@reuters.com
-
-Steelers QB Aaron Rodgers (wrist) cleared to return vs. Bills reut.rs/4isHWLS
-
-[2025-11-29 13:01:02](https://bsky.app/profile/reuters.com/post/3m6qj7qu75k2r)
-
----
-
-@cnbc.com
-
-We’re often inundated with relationship advice that rarely captures the complexity of what actually makes love work.
-
-As a couples counselor, Baya Voce found that one of the most underrated signs of a healthy and resilient relationship is a concept called “mutual influence.”
-
-[2025-11-29 13:00:35](https://bsky.app/profile/cnbc.com/post/3m6qj6whjxx23)
-
----
-
-@aljazeera.com
-
-Joaquin Guzman Lopez, one of four sons of the Sinaloa cartel's 'El Chapo', changes his plea to guilty, documents show.
-
-[2025-11-29 13:00:31](https://bsky.app/profile/aljazeera.com/post/3m6qj6swgbq2c)
 
 ---
 
