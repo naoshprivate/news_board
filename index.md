@@ -1,9 +1,9 @@
-# [2025-11-30 07:50 updated](2025_11_30.md)
+# [2025-11-30 08:10 updated](2025_11_30.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">トランプ大統領 ベネズエラ上空は全面的に閉鎖とSNSで警告 https://news.web.nhk/newsweb/na/na-k10014989921000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6si72cpyh2n" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-30 07:48:02)</span><span style="padding-right:50px;">Starting Jan. 1, foreign tourists will have to pay much more to visit some of America's most popular national parks. What all visitors should know. <a href="https://bsky.app/profile/usatoday.com/post/3m6shzsvbs526" target="_blank">usatoday.com</a> (2025-11-30 07:45:08)</span><span style="padding-right:50px;">Russia unleashed a nearly 10-hour air assault across Ukraine on Saturday, killing at least two people in the capital and injuring dozens more, according to the Ukrainian authorities. www.nytimes.com/2025/11/29/w... <a href="https://bsky.app/profile/nytimes.com/post/3m6shz57fkk23" target="_blank">nytimes.com</a> (2025-11-30 07:44:46)</span><span style="padding-right:50px;">Women's Top 25 roundup: No. 12 North Carolina tops Columbia with big second half reut.rs/48cxoNy <a href="https://bsky.app/profile/reuters.com/post/3m6shqxshfj2n" target="_blank">reuters.com</a> (2025-11-30 07:40:12)</span><span style="padding-right:50px;">ウクライナ 首都キーウなどでロシア軍の攻撃 2人死亡 https://news.web.nhk/newsweb/na/na-k10014989941000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6shp4jlgw2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-30 07:39:08)</span>
+<span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:青森県東方沖, 深さ:60km マグニチュード:3.6, 最大震度:1 📍https://www.google.com/maps?q=40.6,142.0&ll=40.6,142.0&z=7&t=h 地震発生日時:2025-11-30 08:03頃 (10倍速▶120s→12s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m6sjaqbac62g" target="_blank">sokuho.news</a> (2025-11-30 08:06:55)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  8時3分頃、青森県・岩手県で最大震度1の地震を観測しました。 震源:青森県東方沖, 深さ:60km, 規模:M3.6 この地震による津波の心配はありません。 (2025-11-30 08:06:29) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/11/30/2025-11-30-08-03-48.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3m6sj7yn3fw2w" target="_blank">sokuho.news</a> (2025-11-30 08:06:29)</span><span style="padding-right:50px;">風の争奪戦が招く摩擦、太陽光パネルが農地侵食　再生可能エネルギーの副作用 www.nikkei.com/article/DGXZQO...  2020年に生産された農作物のうち人間が食べたのはカロリーベースで約半分。  残り半分を消費したのは家畜とバイオ燃料です。 <a href="https://bsky.app/profile/nikkei.com/post/3m6siwo4yzb2l" target="_blank">nikkei.com</a> (2025-11-30 08:01:17)</span><span style="padding-right:50px;">Frank blasts Tottenham fans for booing keeper Vicario after error reut.rs/43Tfkp6 <a href="https://bsky.app/profile/reuters.com/post/3m6siwinaug2o" target="_blank">reuters.com</a> (2025-11-30 08:01:11)</span><span style="padding-right:50px;">To keep his brain healthy and memory sharp, Dr. Baibing Chen tries to avoid these four things, including relying on GPS for navigation. <a href="https://bsky.app/profile/cnbc.com/post/3m6sivnksfl23" target="_blank">cnbc.com</a> (2025-11-30 08:00:43)</span>
   </div>
 </div>
 
@@ -32,104 +32,111 @@
 
 ## News Headlines
 
-1. トランプ氏、ベネズエラ上空を「全面閉鎖」と警告
-2. ロシア、ウクライナに大規模攻撃　キーウで死者
-3. インドネシア・スマトラ島で洪水・土砂災害、300人超死亡
-4. 香港高層住宅火災、治安機関が厳罰警告
-5. インフルエンザ、例年より早く流行　特に子どもで拡大
-6. スキージャンプW杯、二階堂蓮が2位
+1. 青森県東方沖でM3.6の地震発生、最大震度1
+2. 再生可能エネルギーの副作用、太陽光パネルが農地侵食
+3. スマートトイレ登場、排泄物から健康データを取得
+4. トランプ氏、ベネズエラ周辺空域の「全面閉鎖」警告
+5. ロシア、ウクライナに大規模空爆、首都キーウで死者
+6. インドネシア・スマトラ島で洪水と土砂災害、300人超死亡
 
 ----
 
-@nhknewsunofficial.bsky.social
+@sokuho.news
 
-トランプ大統領 ベネズエラ上空は全面的に閉鎖とSNSで警告
-https://news.web.nhk/newsweb/na/na-k10014989921000
+🔔防災科研より【強震モニタ】動画です。
 
-[2025-11-30 07:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6si72cpyh2n)
+震源:青森県東方沖, 深さ:60km
+マグニチュード:3.6, 最大震度:1
+📍https://www.google.com/maps?q=40.6,142.0&ll=40.6,142.0&z=7&t=h
+地震発生日時:2025-11-30 08:03頃
+(10倍速▶120s→12s) #地震
 
----
-
-@usatoday.com
-
-Starting Jan. 1, foreign tourists will have to pay much more to visit some of America's most popular national parks. What all visitors should know.
-
-[2025-11-30 07:45:08](https://bsky.app/profile/usatoday.com/post/3m6shzsvbs526)
+[2025-11-30 08:06:55](https://bsky.app/profile/sokuho.news/post/3m6sjaqbac62g)
 
 ---
 
-@nytimes.com
+@sokuho.news
 
-Russia unleashed a nearly 10-hour air assault across Ukraine on Saturday, killing at least two people in the capital and injuring dozens more, according to the Ukrainian authorities. www.nytimes.com/2025/11/29/w...
+🔔気象庁より【地震速報】です。
 
-[2025-11-30 07:44:46](https://bsky.app/profile/nytimes.com/post/3m6shz57fkk23)
+8時3分頃、青森県・岩手県で最大震度1の地震を観測しました。
+震源:青森県東方沖, 深さ:60km, 規模:M3.6
+この地震による津波の心配はありません。
+(2025-11-30 08:06:29) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/11/30/2025-11-30-08-03-48.html?xlarge_image=1
 
----
-
-@reuters.com
-
-Women's Top 25 roundup: No. 12 North Carolina tops Columbia with big second half reut.rs/48cxoNy
-
-[2025-11-30 07:40:12](https://bsky.app/profile/reuters.com/post/3m6shqxshfj2n)
-
----
-
-@nhknewsunofficial.bsky.social
-
-ウクライナ 首都キーウなどでロシア軍の攻撃 2人死亡
-https://news.web.nhk/newsweb/na/na-k10014989941000
-
-[2025-11-30 07:39:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6shp4jlgw2b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【随時更新】ロシア ウクライナに軍事侵攻（11月30日の動き）
-https://news.web.nhk/newsweb/na/na-k10014967061000
-
-[2025-11-30 07:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6shoxt5yx2n)
-
----
-
-@reuters.com
-
-Milan edge Lazio 1-0 with Leao strike to claim Serie A top spot reut.rs/44ETl5n
-
-[2025-11-30 07:35:09](https://bsky.app/profile/reuters.com/post/3m6shhwybh726)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Ukraine hits tankers in Black Sea in escalation against Russia
-
-[2025-11-30 07:34:38](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6shgzqlqy2w)
+[2025-11-30 08:06:29](https://bsky.app/profile/sokuho.news/post/3m6sj7yn3fw2w)
 
 ---
 
 @nikkei.com
 
-トランプ氏、ベネズエラ周辺空域は「全面閉鎖に」　航空会社に警告
+風の争奪戦が招く摩擦、太陽光パネルが農地侵食　再生可能エネルギーの副作用
 www.nikkei.com/article/DGXZQO...
 
-トランプ米大統領はベネズエラの上空や周辺空域を飛行しないよう航空会社に警告しました。
+2020年に生産された農作物のうち人間が食べたのはカロリーベースで約半分。
 
-ベネズエラの麻薬カルテルに向けて、陸上攻撃を始めると再三、脅しています。
+残り半分を消費したのは家畜とバイオ燃料です。
 
-トランプ政権は麻薬や不法移民対策を攻撃の理由に掲げていますが、反米のマドゥロ政権転覆を狙っているとの見方があります。
+[2025-11-30 08:01:17](https://bsky.app/profile/nikkei.com/post/3m6siwo4yzb2l)
 
-#ニュース
+---
 
-[2025-11-30 07:31:18](https://bsky.app/profile/nikkei.com/post/3m6shb2csyz2t)
+@reuters.com
+
+Frank blasts Tottenham fans for booing keeper Vicario after error reut.rs/43Tfkp6
+
+[2025-11-30 08:01:11](https://bsky.app/profile/reuters.com/post/3m6siwinaug2o)
+
+---
+
+@cnbc.com
+
+To keep his brain healthy and memory sharp, Dr. Baibing Chen tries to avoid these four things, including relying on GPS for navigation.
+
+[2025-11-30 08:00:43](https://bsky.app/profile/cnbc.com/post/3m6sivnksfl23)
+
+---
+
+@bloomberg.com
+
+After steps, sleep and heart rate, the next wave of wellness tracking may be in the bathroom. A new crop of smart toilets is turning bowel movements into health data.
+
+[2025-11-30 08:00:41](https://bsky.app/profile/bloomberg.com/post/3m6sivlhhho2h)
 
 ---
 
 @usatoday.com
 
-Will Lane Kiffin leave for LSU or stay in Ole Miss? Here's the latest news as we await decision from Oxford.
+The deal restores nearly $800 million in federal funding and puts an end to investigations over alleged civil rights violations and antisemitism.
 
-[2025-11-30 07:30:22](https://bsky.app/profile/usatoday.com/post/3m6sh7emwa42u)
+[2025-11-30 08:00:27](https://bsky.app/profile/usatoday.com/post/3m6siv6rrzd2j)
+
+---
+
+@apnews.com
+
+The Plantation Course at Kapalua Resort on Maui is famous for its ocean views and hosting The Sentry, a $20 million PGA Tour event.
+
+[2025-11-30 08:00:18](https://bsky.app/profile/apnews.com/post/3m6siuvwtdz2p)
+
+---
+
+@washingtonpost.com
+
+Bravo superfans are now podcasters, TikTok recappers, Facebook-group organizers and meme-makers who turned a once-niche fandom into its own micro-economy.
+
+No other TV network has people turn their viewing obsession into a profitable career quite like this. https://wapo.st/4amKUiN
+
+[2025-11-30 08:00:08](https://bsky.app/profile/washingtonpost.com/post/3m6siumlj4r2x)
+
+---
+
+@nytimes.com
+
+The South African government is investigating how more than a dozen men unwittingly ended up on the front line in Russia’s war on Ukraine.
+
+[2025-11-30 08:00:04](https://bsky.app/profile/nytimes.com/post/3m6siuineac2d)
 
 ---
 
