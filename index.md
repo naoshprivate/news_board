@@ -1,9 +1,9 @@
-# [2025-11-29 17:30 updated](2025_11_29.md)
+# [2025-11-29 17:50 updated](2025_11_29.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">スーパーが目指す「唐揚げ王」　下味や包み方…花形総菜の戦い熱く www.nikkei.com/article/DGXZQO...  （2025年9月 読まれた記事） #いい肉の日 <a href="https://bsky.app/profile/nikkei.com/post/3m6qy7fkldo2z" target="_blank">nikkei.com</a> (2025-11-29 17:29:17)</span><span style="padding-right:50px;">ICE canola futures lower on Friday but up for the week reut.rs/3Kv4YFe <a href="https://bsky.app/profile/reuters.com/post/3m6qxxzrpxt2r" target="_blank">reuters.com</a> (2025-11-29 17:25:09)</span><span style="padding-right:50px;">Ryanair axes loyalty scheme after passengers took too many cheap flights on.ft.com/4rtoTVF <a href="https://bsky.app/profile/financialtimes.com/post/3m6qxnphkyo2w" target="_blank">financialtimes.com</a> (2025-11-29 17:19:23)</span><span style="padding-right:50px;">NBA レイカーズ 八村塁 14得点 チームの6連勝に貢献 https://news.web.nhk/newsweb/na/na-k10014989711000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6qxlgd5lz23" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-29 17:18:03)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】岡山空港のANA羽田線2便欠航 エアバス機整備作業の影響 高松発着は4便欠航 29日【岡山】 (2025-11-29 17:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6qxhg5dj42l" target="_blank">sokuho.news</a> (2025-11-29 17:15:52)</span>
+<span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】少なくとも住宅2棟焼く火事 六戸町 (2025-11-29 17:45) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6qz3x5vgc2h" target="_blank">sokuho.news</a> (2025-11-29 17:45:15)</span><span style="padding-right:50px;">Catarina Macario tallies twice as USWNT routs Italy reut.rs/3KwgT5E <a href="https://bsky.app/profile/reuters.com/post/3m6qz3ubgws2e" target="_blank">reuters.com</a> (2025-11-29 17:45:12)</span><span style="padding-right:50px;">ミャクミャクが会場から“旅立ち” 大阪府民「ありがとう」 https://news.web.nhk/newsweb/na/na-k10014989621000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6qywbeogs2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-29 17:42:02)</span><span style="padding-right:50px;">LME copper races to all-time peak above $11,200 a ton reut.rs/4os3YQ1 <a href="https://bsky.app/profile/reuters.com/post/3m6qysuhuda2y" target="_blank">reuters.com</a> (2025-11-29 17:40:10)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】ロアッソ熊本がJ3降格 最終節ホームで甲府と引き分けるも【熊本発】 (2025-11-29 16:42) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6qykranza2q" target="_blank">sokuho.news</a> (2025-11-29 17:35:38)</span>
   </div>
 </div>
 
@@ -32,14 +32,93 @@
 
 ## News Headlines
 
-1. スーパー「唐揚げ王」を目指す！花形総菜の戦い激化
-2. レイカーズ八村塁14得点！チーム6連勝に貢献
-3. ANA岡山-羽田線、機材整備で欠航相次ぐ
-4. マイクロン、日本にAIメモリ工場建設へ1.5兆円投資
-5. ヴァンラーレ八戸、クラブ史上初のJ2昇格！
-6. 香港高層アパート火災、3日間の服喪期間へ
+1.  六戸町で住宅火災、少なくとも2棟焼失
+2.  LME銅、史上最高値を更新 11,200ドル/トン超え
+3.  ロアッソ熊本、J3降格決定
+4.  岡山空港ANA羽田線、エアバス機整備で欠航
+5.  米マイクロン、日本にAIメモリチップ工場建設へ1兆5千億円投資
+6.  ヴァンラーレ八戸、J2昇格決定！
 
 ----
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】少なくとも住宅2棟焼く火事 六戸町
+(2025-11-29 17:45) #ニュース
+
+[2025-11-29 17:45:15](https://bsky.app/profile/sokuho.news/post/3m6qz3x5vgc2h)
+
+---
+
+@reuters.com
+
+Catarina Macario tallies twice as USWNT routs Italy reut.rs/3KwgT5E
+
+[2025-11-29 17:45:12](https://bsky.app/profile/reuters.com/post/3m6qz3ubgws2e)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+ミャクミャクが会場から“旅立ち” 大阪府民「ありがとう」
+https://news.web.nhk/newsweb/na/na-k10014989621000
+
+[2025-11-29 17:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6qywbeogs2k)
+
+---
+
+@reuters.com
+
+LME copper races to all-time peak above $11,200 a ton reut.rs/4os3YQ1
+
+[2025-11-29 17:40:10](https://bsky.app/profile/reuters.com/post/3m6qysuhuda2y)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】ロアッソ熊本がJ3降格 最終節ホームで甲府と引き分けるも【熊本発】
+(2025-11-29 16:42) #ニュース
+
+[2025-11-29 17:35:38](https://bsky.app/profile/sokuho.news/post/3m6qykranza2q)
+
+---
+
+@reuters.com
+
+NHL roundup: Wild end Avs' 10-game winning streak reut.rs/3LZfSDN
+
+[2025-11-29 17:35:09](https://bsky.app/profile/reuters.com/post/3m6qyjvzsce2r)
+
+---
+
+@apnews.com
+
+Botswana built its development on diamonds since they were discovered soon after independence in the 1960s. It became an African success story. But now it's crashing down because of the rapid rise of synthetic gems from Russia and India.
+
+[2025-11-29 17:30:17](https://bsky.app/profile/apnews.com/post/3m6qyb7e2zw2w)
+
+---
+
+@aljazeera.com
+
+Authorities also designate Anti-Corruption Foundation as 'terrorist' group and consider total ban on WhatsApp.
+
+[2025-11-29 17:30:15](https://bsky.app/profile/aljazeera.com/post/3m6qyb5enny23)
+
+---
+
+@cnn.com
+
+The university’s $790 million of federal funding was suspended earlier this year amid a Title VI civil rights investigation, part of a broader administration effort to scrutinize university policies and campus speech.
+
+[2025-11-29 17:30:03](https://bsky.app/profile/cnn.com/post/3m6qyart2ko2b)
+
+---
 
 @nikkei.com
 
@@ -50,87 +129,6 @@ www.nikkei.com/article/DGXZQO...
 #いい肉の日
 
 [2025-11-29 17:29:17](https://bsky.app/profile/nikkei.com/post/3m6qy7fkldo2z)
-
----
-
-@reuters.com
-
-ICE canola futures lower on Friday but up for the week reut.rs/3Kv4YFe
-
-[2025-11-29 17:25:09](https://bsky.app/profile/reuters.com/post/3m6qxxzrpxt2r)
-
----
-
-@financialtimes.com
-
-Ryanair axes loyalty scheme after passengers took too many cheap flights on.ft.com/4rtoTVF
-
-[2025-11-29 17:19:23](https://bsky.app/profile/financialtimes.com/post/3m6qxnphkyo2w)
-
----
-
-@nhknewsunofficial.bsky.social
-
-NBA レイカーズ 八村塁 14得点 チームの6連勝に貢献
-https://news.web.nhk/newsweb/na/na-k10014989711000
-
-[2025-11-29 17:18:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6qxlgd5lz23)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】岡山空港のANA羽田線2便欠航 エアバス機整備作業の影響 高松発着は4便欠航 29日【岡山】
-(2025-11-29 17:00) #ニュース
-
-[2025-11-29 17:15:52](https://bsky.app/profile/sokuho.news/post/3m6qxhg5dj42l)
-
----
-
-@reuters.com
-
-Pope removes shoes but doesn't pray on visit to Istanbul's Blue Mosque reut.rs/3LZOpSt
-
-[2025-11-29 17:15:12](https://bsky.app/profile/reuters.com/post/3m6qxgak5ru2n)
-
----
-
-@nhknewsunofficial.bsky.social
-
-証券口座乗っ取り“フィッシング”で不正入手のIDでアクセスか
-https://news.web.nhk/newsweb/na/na-k10014989611000
-
-[2025-11-29 17:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6qxfybnfp2t)
-
----
-
-@reuters.com
-
-Micron to invest $9.6 billion in Japan to build AI memory chip plant, Nikkei reports reut.rs/3XVc7BJ
-
-[2025-11-29 17:10:11](https://bsky.app/profile/reuters.com/post/3m6qx5ayye626)
-
----
-
-@nhknewsunofficial.bsky.social
-
-東京六大学野球 結成100周年記念 出身高校を東西に分けて対戦
-https://news.web.nhk/newsweb/na/na-k10014989701000
-
-[2025-11-29 17:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6qwvwems52j)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】岡山空港のANA羽田線2便欠航 エアバス機整備作業の影響 高松発は4便欠航 29日【岡山】
-(2025-11-29 17:00) #ニュース
-
-[2025-11-29 17:05:53](https://bsky.app/profile/sokuho.news/post/3m6qwvl7xom22)
 
 ---
 
