@@ -1,9 +1,9 @@
-# [2025-11-30 08:30 updated](2025_11_30.md)
+# [2025-11-30 08:50 updated](2025_11_30.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Dolphins activate TE Darren Waller, OL Austin Jackson off IR reut.rs/4pHZExp <a href="https://bsky.app/profile/reuters.com/post/3m6skbe6ycn2n" target="_blank">reuters.com</a> (2025-11-30 08:25:09)</span><span style="padding-right:50px;">NPR's Scott Simon explains why The Pogues' "Fairytale of New York" is a holiday song for those who have troubles and heartache. n.pr/4ot3Aky <a href="https://bsky.app/profile/npr.org/post/3m6sk4ziqr52r" target="_blank">npr.org</a> (2025-11-30 08:22:44)</span><span style="padding-right:50px;">More than 70,000 killed in Gaza since Israel offensive began, Hamas-run health ministry says <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6sk2ojnxq2h" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-11-30 08:21:25)</span><span style="padding-right:50px;">South Korean e-commerce firm Coupang says 33.7 million customer accounts breached reut.rs/4as0722 <a href="https://bsky.app/profile/reuters.com/post/3m6sjgl76nj2a" target="_blank">reuters.com</a> (2025-11-30 08:10:11)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:青森県東方沖, 深さ:60km マグニチュード:3.6, 最大震度:1 📍https://www.google.com/maps?q=40.6,142.0&ll=40.6,142.0&z=7&t=h 地震発生日時:2025-11-30 08:03頃 (10倍速▶120s→12s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m6sjaqbac62g" target="_blank">sokuho.news</a> (2025-11-30 08:06:55)</span>
+<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】テナントビルで男性刺される 殺人未遂容疑で現行犯逮捕 大分 (2025-11-30 08:27:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6slcr2tiy2e" target="_blank">sokuho.news</a> (2025-11-30 08:43:50)</span><span style="padding-right:50px;">In @nytopinion.nytimes.com  “Most people don’t dream of spending their baby’s first holiday season in the hospital, and you can make that difficult experience easier for them to bear by donating to Project NICU,” Jessica Grose writes in her giving guide. <a href="https://bsky.app/profile/nytimes.com/post/3m6sl3wgdwt2d" target="_blank">nytimes.com</a> (2025-11-30 08:40:01)</span><span style="padding-right:50px;">US judge authorizes sale of Citgo parent's shares to Elliott affiliate reut.rs/44FRsp4 <a href="https://bsky.app/profile/reuters.com/post/3m6sktb55f22k" target="_blank">reuters.com</a> (2025-11-30 08:35:10)</span><span style="padding-right:50px;">白血病治療にiPS細胞活用、京都大学が2027年にも治験　「ドナー探し」短縮 www.nikkei.com/article/DGXZQO...  健康な人の細胞をもとにしたiPS細胞から、がん細胞を攻撃する「キラーT細胞」を作製。急性骨髄性白血病の患者に投与します。  あらかじめ作ったキラーT細胞を凍結保存しておけば、白血病が判明してからすぐに治療できるメリットも。  白血球の型がよく似たドナーの「造血幹細胞」を移植する従来の治療法には、ドナー探しに時間がかかる問題がありました。 <a href="https://bsky.app/profile/nikkei.com/post/3m6skmcaygm2i" target="_blank">nikkei.com</a> (2025-11-30 08:31:17)</span><span style="padding-right:50px;">Soccer Flamengo beat Palmeiras 1-0 to win fourth Copa Libertadores title reut.rs/4p2ddro <a href="https://bsky.app/profile/reuters.com/post/3m6skl5nn6t22" target="_blank">reuters.com</a> (2025-11-30 08:30:38)</span>
   </div>
 </div>
 
@@ -32,14 +32,82 @@
 
 ## News Headlines
 
-1. ドルフィンズ、TEウォラーをアクティブ化、OLジャクソンがIRから復帰
-2. 韓国eコマースCoupang、顧客アカウント3370万件が侵害
-3. 青森県東方沖で地震発生、最大震度1
-4. 太陽光パネルが農地侵食、再生可能エネルギーの副作用
-5. スマートトイレ登場、排便を健康データに
-6. トランプ氏、ベネズエラ周辺空域の「全面閉鎖」警告
+1. 大分テナントビルで殺人未遂、男を現行犯逮捕
+2. 京大、iPS細胞で白血病治療治験へ　2027年にも
+3. 韓国Coupang、顧客アカウント3370万件が侵害
+4. 青森県東方沖で地震発生、最大震度1
+5. トランプ氏、ベネズエラ周辺空域「全面閉鎖」警告
+6. インドネシア・スマトラ島で洪水・土砂災害、300人超死亡
 
 ----
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】テナントビルで男性刺される 殺人未遂容疑で現行犯逮捕 大分
+(2025-11-30 08:27:00) #ニュース
+
+[2025-11-30 08:43:50](https://bsky.app/profile/sokuho.news/post/3m6slcr2tiy2e)
+
+---
+
+@nytimes.com
+
+In @nytopinion.nytimes.com
+
+“Most people don’t dream of spending their baby’s first holiday season in the hospital, and you can make that difficult experience easier for them to bear by donating to Project NICU,” Jessica Grose writes in her giving guide.
+
+[2025-11-30 08:40:01](https://bsky.app/profile/nytimes.com/post/3m6sl3wgdwt2d)
+
+---
+
+@reuters.com
+
+US judge authorizes sale of Citgo parent's shares to Elliott affiliate reut.rs/44FRsp4
+
+[2025-11-30 08:35:10](https://bsky.app/profile/reuters.com/post/3m6sktb55f22k)
+
+---
+
+@nikkei.com
+
+白血病治療にiPS細胞活用、京都大学が2027年にも治験　「ドナー探し」短縮
+www.nikkei.com/article/DGXZQO...
+
+健康な人の細胞をもとにしたiPS細胞から、がん細胞を攻撃する「キラーT細胞」を作製。急性骨髄性白血病の患者に投与します。
+
+あらかじめ作ったキラーT細胞を凍結保存しておけば、白血病が判明してからすぐに治療できるメリットも。
+
+白血球の型がよく似たドナーの「造血幹細胞」を移植する従来の治療法には、ドナー探しに時間がかかる問題がありました。
+
+[2025-11-30 08:31:17](https://bsky.app/profile/nikkei.com/post/3m6skmcaygm2i)
+
+---
+
+@reuters.com
+
+Soccer Flamengo beat Palmeiras 1-0 to win fourth Copa Libertadores title reut.rs/4p2ddro
+
+[2025-11-30 08:30:38](https://bsky.app/profile/reuters.com/post/3m6skl5nn6t22)
+
+---
+
+@bloomberg.com
+
+British millennials are embracing an unlikely new cause: infrastructure, housing and the politics of economic growth.
+
+[2025-11-30 08:30:20](https://bsky.app/profile/bloomberg.com/post/3m6skkmi6ez2q)
+
+---
+
+@usatoday.com
+
+Fourth runner-up Olivia Yacé publicly cut ties with the Miss Universe pageant and resigned her title as Miss Universe Africa and Oceania.
+
+[2025-11-30 08:30:19](https://bsky.app/profile/usatoday.com/post/3m6skkl73ex2d)
+
+---
 
 @reuters.com
 
@@ -62,79 +130,6 @@ NPR's Scott Simon explains why The Pogues' "Fairytale of New York" is a holiday 
 More than 70,000 killed in Gaza since Israel offensive began, Hamas-run health ministry says
 
 [2025-11-30 08:21:25](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6sk2ojnxq2h)
-
----
-
-@reuters.com
-
-South Korean e-commerce firm Coupang says 33.7 million customer accounts breached reut.rs/4as0722
-
-[2025-11-30 08:10:11](https://bsky.app/profile/reuters.com/post/3m6sjgl76nj2a)
-
----
-
-@sokuho.news
-
-🔔防災科研より【強震モニタ】動画です。
-
-震源:青森県東方沖, 深さ:60km
-マグニチュード:3.6, 最大震度:1
-📍https://www.google.com/maps?q=40.6,142.0&ll=40.6,142.0&z=7&t=h
-地震発生日時:2025-11-30 08:03頃
-(10倍速▶120s→12s) #地震
-
-[2025-11-30 08:06:55](https://bsky.app/profile/sokuho.news/post/3m6sjaqbac62g)
-
----
-
-@sokuho.news
-
-🔔気象庁より【地震速報】です。
-
-8時3分頃、青森県・岩手県で最大震度1の地震を観測しました。
-震源:青森県東方沖, 深さ:60km, 規模:M3.6
-この地震による津波の心配はありません。
-(2025-11-30 08:06:29) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/11/30/2025-11-30-08-03-48.html?xlarge_image=1
-
-[2025-11-30 08:06:29](https://bsky.app/profile/sokuho.news/post/3m6sj7yn3fw2w)
-
----
-
-@nikkei.com
-
-風の争奪戦が招く摩擦、太陽光パネルが農地侵食　再生可能エネルギーの副作用
-www.nikkei.com/article/DGXZQO...
-
-2020年に生産された農作物のうち人間が食べたのはカロリーベースで約半分。
-
-残り半分を消費したのは家畜とバイオ燃料です。
-
-[2025-11-30 08:01:17](https://bsky.app/profile/nikkei.com/post/3m6siwo4yzb2l)
-
----
-
-@reuters.com
-
-Frank blasts Tottenham fans for booing keeper Vicario after error reut.rs/43Tfkp6
-
-[2025-11-30 08:01:11](https://bsky.app/profile/reuters.com/post/3m6siwinaug2o)
-
----
-
-@cnbc.com
-
-To keep his brain healthy and memory sharp, Dr. Baibing Chen tries to avoid these four things, including relying on GPS for navigation.
-
-[2025-11-30 08:00:43](https://bsky.app/profile/cnbc.com/post/3m6sivnksfl23)
-
----
-
-@bloomberg.com
-
-After steps, sleep and heart rate, the next wave of wellness tracking may be in the bathroom. A new crop of smart toilets is turning bowel movements into health data.
-
-[2025-11-30 08:00:41](https://bsky.app/profile/bloomberg.com/post/3m6sivlhhho2h)
 
 ---
 
