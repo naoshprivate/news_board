@@ -1,9 +1,9 @@
-# [2025-11-29 13:50 updated](2025_11_29.md)
+# [2025-11-29 14:10 updated](2025_11_29.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">No. 16 Texas spoils No. 3 Texas A&M's perfect season and knocks the Aggies out of the SEC title game. <a href="https://bsky.app/profile/apnews.com/post/3m6qlhkwwvv22" target="_blank">apnews.com</a> (2025-11-29 13:41:12)</span><span style="padding-right:50px;">Japan's ANA cancels 65 flights on Saturday after Airbus A320 recall reut.rs/4ait8x5 <a href="https://bsky.app/profile/reuters.com/post/3m6qlfrthjy22" target="_blank">reuters.com</a> (2025-11-29 13:40:12)</span><span style="padding-right:50px;">Hong Kong mourns victims of blaze that killed 128 and counting reut.rs/48toUk1 <a href="https://bsky.app/profile/reuters.com/post/3m6qkul3jlw2o" target="_blank">reuters.com</a> (2025-11-29 13:30:35)</span><span style="padding-right:50px;">Northwestern University has reached a deal with the Trump administration to restore hundreds of millions of dollars in research funding and close all pending federal investigations, while paying the government $75 million over three years. <a href="https://bsky.app/profile/bloomberg.com/post/3m6qktu2isr2q" target="_blank">bloomberg.com</a> (2025-11-29 13:30:11)</span><span style="padding-right:50px;">広がるジビエ活用、観光や給食にも　販売額は過去最多 www.nikkei.com/article/DGXZQO...  （2025年10月 読まれた記事） #いい肉の日 <a href="https://bsky.app/profile/nikkei.com/post/3m6qksbjqig2e" target="_blank">nikkei.com</a> (2025-11-29 13:29:18)</span>
+<span style="padding-right:50px;"> Hybrid-car believers should bet on platinum’s renaissance on.ft.com/3MgpOIZ  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m6qmttua6m26" target="_blank">financialtimes.com</a> (2025-11-29 14:05:58)</span><span style="padding-right:50px;"> The UK should enjoy the calming of the bond vigilantes on.ft.com/4pDaqF0  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m6qmttub4e26" target="_blank">financialtimes.com</a> (2025-11-29 14:05:58)</span><span style="padding-right:50px;">Successful teams aren’t necessarily about star talent, but more often depend on “Glue” employees—the quiet leaders who make everybody else look good and rarely get rewarded for their contributions.  🔗: on.wsj.com/4rm7MVG <a href="https://bsky.app/profile/wsj.com/post/3m6qmsfn46o2i" target="_blank">wsj.com</a> (2025-11-29 14:05:09)</span><span style="padding-right:50px;">Russia-Ukraine war: Drone strike hits Kyiv residential areas despite peace moves <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6qmqxesvu2e" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-11-29 14:04:20)</span><span style="padding-right:50px;">Airbus A320 recall disrupts global travel after glitch linked to solar flares <a href="https://bsky.app/profile/cnbc.com/post/3m6qmoannhm2y" target="_blank">cnbc.com</a> (2025-11-29 14:02:50)</span>
   </div>
 </div>
 
@@ -32,104 +32,102 @@
 
 ## News Headlines
 
-1. テキサス大、テキサスA&Mの全勝を阻止 SECタイトル戦から脱落
-2. 全日空、エアバス機リコールで65便欠航
-3. 香港高層住宅火災、死者128人に 追悼広がる
-4. 上海でアニソン歌唱中に強制中断 イベント中止
-5. カリフォルニアのショッピングモールで銃撃事件、2人負傷 避難騒ぎ
-6. 石巻市の学校で教師が盗撮か 53歳男を逮捕
+1.  中国航空会社、日本行き減便900便超に拡大
+2.  Airbus A320リコールで世界的な旅行混乱
+3.  米ブラックフライデー、オンライン売上高86億ドル
+4.  香港で火災、死者128人超
+5.  上海で日本アニソン歌唱中に強制中断、イベント中止
+6.  エッセンシャルワーカーへの転職1割どまり、人材難加速
 
 ----
 
-@apnews.com
+@financialtimes.com
 
-No. 16 Texas spoils No. 3 Texas A&M's perfect season and knocks the Aggies out of the SEC title game.
+ Hybrid-car believers should bet on platinum’s renaissance on.ft.com/3MgpOIZ  | opinion
 
-[2025-11-29 13:41:12](https://bsky.app/profile/apnews.com/post/3m6qlhkwwvv22)
-
----
-
-@reuters.com
-
-Japan's ANA cancels 65 flights on Saturday after Airbus A320 recall reut.rs/4ait8x5
-
-[2025-11-29 13:40:12](https://bsky.app/profile/reuters.com/post/3m6qlfrthjy22)
+[2025-11-29 14:05:58](https://bsky.app/profile/financialtimes.com/post/3m6qmttua6m26)
 
 ---
 
-@reuters.com
+@financialtimes.com
 
-Hong Kong mourns victims of blaze that killed 128 and counting reut.rs/48toUk1
+ The UK should enjoy the calming of the bond vigilantes on.ft.com/4pDaqF0  | opinion
 
-[2025-11-29 13:30:35](https://bsky.app/profile/reuters.com/post/3m6qkul3jlw2o)
-
----
-
-@bloomberg.com
-
-Northwestern University has reached a deal with the Trump administration to restore hundreds of millions of dollars in research funding and close all pending federal investigations, while paying the government $75 million over three years.
-
-[2025-11-29 13:30:11](https://bsky.app/profile/bloomberg.com/post/3m6qktu2isr2q)
+[2025-11-29 14:05:58](https://bsky.app/profile/financialtimes.com/post/3m6qmttub4e26)
 
 ---
 
-@nikkei.com
+@wsj.com
 
-広がるジビエ活用、観光や給食にも　販売額は過去最多
-www.nikkei.com/article/DGXZQO...
+Successful teams aren’t necessarily about star talent, but more often depend on “Glue” employees—the quiet leaders who make everybody else look good and rarely get rewarded for their contributions.
 
-（2025年10月 読まれた記事）
-#いい肉の日
+🔗: on.wsj.com/4rm7MVG
 
-[2025-11-29 13:29:18](https://bsky.app/profile/nikkei.com/post/3m6qksbjqig2e)
+[2025-11-29 14:05:09](https://bsky.app/profile/wsj.com/post/3m6qmsfn46o2i)
 
 ---
 
-@reuters.com
+@bbcnews-world-rss.bsky.social
 
-U.S. Olympic medal hope Macuga out for season with knee injury reut.rs/4ivxDGT
+Russia-Ukraine war: Drone strike hits Kyiv residential areas despite peace moves
 
-[2025-11-29 13:20:16](https://bsky.app/profile/reuters.com/post/3m6qkc5ewdq22)
-
----
-
-@apnews.com
-
-Police in California evacuated a shopping mall on one of the busiest shopping days of the year after a shooting left two people with gunshot wounds.
-
-[2025-11-29 13:20:13](https://bsky.app/profile/apnews.com/post/3m6qkbzyrmr2w)
+[2025-11-29 14:04:20](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6qmqxesvu2e)
 
 ---
 
-@reuters.com
+@cnbc.com
 
-Combined bid for 2031 WWC includes 14 U.S. cities reut.rs/4p4lPh7
+Airbus A320 recall disrupts global travel after glitch linked to solar flares
 
-[2025-11-29 13:10:11](https://bsky.app/profile/reuters.com/post/3m6qjq4jqaj27)
-
----
-
-@nhknewsunofficial.bsky.social
-
-愛媛 国の原子力総合防災訓練 地震と同時に原発事故を想定
-https://news.web.nhk/newsweb/na/na-k10014989641000
-
-[2025-11-29 13:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6qjo4nh432g)
+[2025-11-29 14:02:50](https://bsky.app/profile/cnbc.com/post/3m6qmoannhm2y)
 
 ---
 
 @nikkei.com
 
-中国・上海で日本のアニソンを歌唱中に強制中断
+中国航空会社、日本行き減便900便超に拡大
 www.nikkei.com/article/DGXZQO...
 
-バンナムHDが開いたイベントで、「ONE PIECE」のテーマ曲などで知られる大槻マキさんが歌唱を強制的に中断されました。
+12月の中国→日本便の16%が関空発着を中心に運休。チケット価格にも影響し、関空―上海便の12月の往復航空券の最安値は昨年の2万円台から8500円前後まで値下がりしているといいます。
 
-11月30日まで3日間にわたって開く予定でしたが、29日にイベント自体の中止を発表しました。
+[2025-11-29 14:01:18](https://bsky.app/profile/nikkei.com/post/3m6qmliwd5u2m)
 
-#ニュース
+---
 
-[2025-11-29 13:03:17](https://bsky.app/profile/nikkei.com/post/3m6qjdrdedz2i)
+@cnn.com
+
+Venezuela is entering one of its most repressive periods in years, rights monitors say, as President Nicolás Maduro faces mounting isolation and an expanding US military presence in the Caribbean.
+
+[2025-11-29 14:01:01](https://bsky.app/profile/cnn.com/post/3m6qmkywoeq2n)
+
+---
+
+@reuters.com
+
+Stanford tabs former QB Tavita Pritchard as head coach reut.rs/4ioljIm
+
+[2025-11-29 14:00:37](https://bsky.app/profile/reuters.com/post/3m6qmkcakfn26)
+
+---
+
+@cnbc.com
+
+Students pursuing professional degrees will be able to borrow up to $200,000 in federal student loans beginning in 2026.
+
+The Department of Education has named these 11 degree fields that meet the requirements to be considered professional.
+
+[2025-11-29 14:00:31](https://bsky.app/profile/cnbc.com/post/3m6qmk3xnh72a)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【独自】です。
+
+【独自】高止まりするコメの価格は「消費者の購買行動」にどのような影響を与えているのでしょうか？
+(2025-11-29 14:00) #ニュース
+
+[2025-11-29 14:00:25](https://bsky.app/profile/sokuho.news/post/3m6qmjw67zz2y)
 
 ---
 
