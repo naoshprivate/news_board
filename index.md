@@ -1,9 +1,9 @@
-# [2025-11-30 01:50 updated](2025_11_30.md)
+# [2025-11-30 02:10 updated](2025_11_30.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Under new Trump administration rules, students won't be able to borrow as much for medical or nursing school or some other health professions. <a href="https://bsky.app/profile/npr.org/post/3m6ru3squdr2g" target="_blank">npr.org</a> (2025-11-30 01:48:21)</span><span style="padding-right:50px;">Flooding in South East Asia leaves hundreds dead <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6ru3guwha24" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-11-30 01:48:08)</span><span style="padding-right:50px;">OPEC+ set to hold oil output policy steady on Sunday, sources say reut.rs/486hvYQ <a href="https://bsky.app/profile/reuters.com/post/3m6rtw6zbrq2w" target="_blank">reuters.com</a> (2025-11-30 01:45:13)</span><span style="padding-right:50px;">🇭🇰 An outpouring of grief swept Hong Kong on Saturday as thousands paid their respects and laid flowers for the 128 people killed in one of the city's deadliest fires, marking the start of an official, three-day mourning period.  ➡️ u.afp.com/ShXn <a href="https://bsky.app/profile/en.afp.com/post/3m6rtmwbspl2j" target="_blank">en.afp.com</a> (2025-11-30 01:40:02)</span><span style="padding-right:50px;">Russian strikes on Kyiv kill three, injure dozens, as Ukraine seeks US support for a resolution to the war. <a href="https://bsky.app/profile/aljazeera.com/post/3m6rt3i5d752l" target="_blank">aljazeera.com</a> (2025-11-30 01:30:16)</span>
+<span style="padding-right:50px;">'We needed to go to work': Hilton CEO details how a winning offering evolved <a href="https://bsky.app/profile/yahoofinance.com/post/3m6rv3m577o2z" target="_blank">yahoofinance.com</a> (2025-11-30 02:06:08)</span><span style="padding-right:50px;">Vast Russian overnight attack on Ukraine kills three, wounds dozens reut.rs/4pYgokb <a href="https://bsky.app/profile/reuters.com/post/3m6ruzuxr5e22" target="_blank">reuters.com</a> (2025-11-30 02:05:10)</span><span style="padding-right:50px;">After winning on a progressive platform, the democratic socialist is reaching out to the political establishment. <a href="https://bsky.app/profile/usatoday.com/post/3m6rurqyjil2j" target="_blank">usatoday.com</a> (2025-11-30 02:00:38)</span><span style="padding-right:50px;">Fasil Regassa wipes away tears when he talks about Sarah Beckstrom, the 20-year-old National Guard member who was shot Wednesday just a few feet away from his store.  “I cried when I heard she died,” Regassa told CNN. <a href="https://bsky.app/profile/cnn.com/post/3m6rurh3nww2q" target="_blank">cnn.com</a> (2025-11-30 02:00:27)</span><span style="padding-right:50px;">The U.S. halted all decisions relating to asylum claims and paused visa issuances for Afghan nationals, a day after President Trump vowed to “permanently pause” migration from nations he described as “Third World Countries.”  <a href="https://bsky.app/profile/washingtonpost.com/post/3m6rurgw2ju2y" target="_blank">washingtonpost.com</a> (2025-11-30 02:00:27)</span>
   </div>
 </div>
 
@@ -32,95 +32,97 @@
 
 ## News Headlines
 
-1. トランプ政権、医療系学生への融資額を制限
-2. 東南アジアの洪水、死者数百人に
-3. 香港で大火災、128人死亡で3日間の追悼期間
-4. ロシアのキーウ攻撃で3人死亡、ウクライナはアメリカの支援を要請
-5. トランプ大統領、ベネズエラの空域を閉鎖と警告
-6. 国連、パレスチナ経済が記録的な崩壊に直面と警告
+1. ウクライナへのロシアの大規模攻撃、死者・負傷者多数
+2. トランプ政権、アフガン国民への亡命審査とビザ発給を一時停止
+3. 航空各社、ソフトウエア修正で週末のフライトに遅延・欠航
+4. ギニアビサウの大統領、軍事クーデターで失脚し亡命
+5. ANA、エアバス機整備で国内線95便を欠航
+6. トランプ氏、ベネズエラ空域を閉鎖と主張
 
 ----
 
-@npr.org
+@yahoofinance.com
 
-Under new Trump administration rules, students won't be able to borrow as much for medical or nursing school or some other health professions.
+'We needed to go to work': Hilton CEO details how a winning offering evolved
 
-[2025-11-30 01:48:21](https://bsky.app/profile/npr.org/post/3m6ru3squdr2g)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Flooding in South East Asia leaves hundreds dead
-
-[2025-11-30 01:48:08](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6ru3guwha24)
+[2025-11-30 02:06:08](https://bsky.app/profile/yahoofinance.com/post/3m6rv3m577o2z)
 
 ---
 
 @reuters.com
 
-OPEC+ set to hold oil output policy steady on Sunday, sources say reut.rs/486hvYQ
+Vast Russian overnight attack on Ukraine kills three, wounds dozens reut.rs/4pYgokb
 
-[2025-11-30 01:45:13](https://bsky.app/profile/reuters.com/post/3m6rtw6zbrq2w)
-
----
-
-@en.afp.com
-
-🇭🇰 An outpouring of grief swept Hong Kong on Saturday as thousands paid their respects and laid flowers for the 128 people killed in one of the city's deadliest fires, marking the start of an official, three-day mourning period. 
-➡️ u.afp.com/ShXn
-
-[2025-11-30 01:40:02](https://bsky.app/profile/en.afp.com/post/3m6rtmwbspl2j)
-
----
-
-@aljazeera.com
-
-Russian strikes on Kyiv kill three, injure dozens, as Ukraine seeks US support for a resolution to the war.
-
-[2025-11-30 01:30:16](https://bsky.app/profile/aljazeera.com/post/3m6rt3i5d752l)
+[2025-11-30 02:05:10](https://bsky.app/profile/reuters.com/post/3m6ruzuxr5e22)
 
 ---
 
 @usatoday.com
 
-Vice President JD Vance has a midterm warning for Republicans: do a better job motivating voters who helped Trump take back the White House.
+After winning on a progressive platform, the democratic socialist is reaching out to the political establishment.
 
-[2025-11-30 01:30:14](https://bsky.app/profile/usatoday.com/post/3m6rt3fo2oz2u)
+[2025-11-30 02:00:38](https://bsky.app/profile/usatoday.com/post/3m6rurqyjil2j)
+
+---
+
+@cnn.com
+
+Fasil Regassa wipes away tears when he talks about Sarah Beckstrom, the 20-year-old National Guard member who was shot Wednesday just a few feet away from his store.
+
+“I cried when I heard she died,” Regassa told CNN.
+
+[2025-11-30 02:00:27](https://bsky.app/profile/cnn.com/post/3m6rurh3nww2q)
 
 ---
 
 @washingtonpost.com
 
-The head of the Senate Armed Services Committee has vowed “vigorous oversight” following a Post report that Defense Secretary Pete Hegseth ordered the killing of all crew members during the first U.S. strike on suspected drug smugglers in the Caribbean.
+The U.S. halted all decisions relating to asylum claims and paused visa issuances for Afghan nationals, a day after President Trump vowed to “permanently pause” migration from nations he described as “Third World Countries.” 
 
-[2025-11-30 01:30:06](https://bsky.app/profile/washingtonpost.com/post/3m6rt36fojq2x)
+[2025-11-30 02:00:27](https://bsky.app/profile/washingtonpost.com/post/3m6rurgw2ju2y)
+
+---
+
+@apnews.com
+
+Airlines around the world canceled and delayed flights heading into the weekend to fix software on a widely used commercial plane after an analysis found computer code may have contributed to a sudden drop in the altitude of a JetBlue aircraft last month.
+
+[2025-11-30 02:00:23](https://bsky.app/profile/apnews.com/post/3m6rurd7xtc2j)
 
 ---
 
 @en.afp.com
 
-🇺🇸 🇻🇪 US President Donald Trump warned on Saturday that the airspace above and near Venezuela should be considered closed, the latest escalation in a standoff with leftist leader Nicolas Maduro. 
-➡️ u.afp.com/ShXn
+🇬🇧 Veteran British socialist Jeremy Corbyn's new left-wing political party faced a fresh crisis on Saturday after its co-founder, Zarah Sultana, vowed to skip the first day of its inaugural conference. 
+➡️ u.afp.com/ShXh
 
-[2025-11-30 01:30:04](https://bsky.app/profile/en.afp.com/post/3m6rt34in442e)
+[2025-11-30 02:00:08](https://bsky.app/profile/en.afp.com/post/3m6ruquy3252x)
 
 ---
 
-@nytimes.com
+@financialtimes.com
 
-The State Department said on Friday that it had ramped up its capacity at the U.S. Embassy in Seoul to process more business visas for South Koreans, as the Trump administration tries to repair the damage from an immigration raid on a large South Korean-run factory in Georgia.
+Simon Kuper on the big, beautiful flattery industry
+on.ft.com/4ot93aZ
 
-[2025-11-30 01:26:53](https://bsky.app/profile/nytimes.com/post/3m6rsvgr2xs2e)
+[2025-11-30 02:00:06](https://bsky.app/profile/financialtimes.com/post/3m6ruqsuvl62q)
 
 ---
 
 @en.afp.com
 
-🇻🇦 🇹🇷 Thousands of worshippers battled the rain to join Pope Leo XIV as he celebrated mass in Istanbul on Saturday, the last full day of his visit to Turkey. 
-➡️ u.afp.com/ShXe
+🇬🇼 Guinea-Bissau's ousted president Umaro Sissoco Embalo arrived in the Republic of Congo's capital Brazzaville on Saturday, days after he was overthrown by the military, Congolese government sources told AFP. 
+➡️ u.afp.com/ShX8
 
-[2025-11-30 01:20:01](https://bsky.app/profile/en.afp.com/post/3m6rsj5wv3x2a)
+[2025-11-30 01:57:25](https://bsky.app/profile/en.afp.com/post/3m6rulzjx6322)
+
+---
+
+@bloomberg-jp.bsky.social
+
+トランプ氏、ベネズエラ空域は閉鎖されたと主張－攻撃への警戒強まる
+
+[2025-11-30 01:51:24](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6rubawzij2c)
 
 ---
 
