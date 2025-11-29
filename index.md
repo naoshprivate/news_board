@@ -1,9 +1,9 @@
-# [2025-11-29 14:30 updated](2025_11_29.md)
+# [2025-11-29 14:50 updated](2025_11_29.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;"> EasyJet’s taste for luxury flies the flag for the package holiday revival on.ft.com/3XltNq7  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m6qnyqkc4k25" target="_blank">financialtimes.com</a> (2025-11-29 14:26:36)</span><span style="padding-right:50px;">Jets' Kris Boyd back in hospital due to 'health issues' from shooting reut.rs/4rwZivi <a href="https://bsky.app/profile/reuters.com/post/3m6qnnccqgv2n" target="_blank">reuters.com</a> (2025-11-29 14:20:12)</span><span style="padding-right:50px;">Broad says winning toss a crucial factor in pink-ball Ashes test reut.rs/4rwYNBq <a href="https://bsky.app/profile/reuters.com/post/3m6qn3eylbd2e" target="_blank">reuters.com</a> (2025-11-29 14:10:11)</span><span style="padding-right:50px;"> Hybrid-car believers should bet on platinum’s renaissance on.ft.com/3MgpOIZ  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m6qmttua6m26" target="_blank">financialtimes.com</a> (2025-11-29 14:05:58)</span><span style="padding-right:50px;"> The UK should enjoy the calming of the bond vigilantes on.ft.com/4pDaqF0  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m6qmttub4e26" target="_blank">financialtimes.com</a> (2025-11-29 14:05:58)</span>
+<span style="padding-right:50px;">Flights disrupted after Airbus discovers intense sun radiation could impact flight control data <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6qp3u6bbg2e" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-11-29 14:46:14)</span><span style="padding-right:50px;">What’s next for Japan and China as tensions over Taiwan threaten to derail what was seen as a warming of ties?   Join us for a Live Q&A on Dec 1 at 10 a.m. HKT / Nov 30 at 9 p.m. EST ⤵️ <a href="https://bsky.app/profile/bloomberg.com/post/3m6qozvs45g2d" target="_blank">bloomberg.com</a> (2025-11-29 14:45:09)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】ヴァンラーレ八戸がJ2昇格かけて今季最終FC琉球戦【J2昇格かけた大一番】 (2025-11-29 14:40:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6qowgf76427" target="_blank">sokuho.news</a> (2025-11-29 14:43:12)</span><span style="padding-right:50px;">Ole Miss' Lane Kiffin says he'll declare decision Saturday reut.rs/3KptCXL <a href="https://bsky.app/profile/reuters.com/post/3m6qor2tbbs22" target="_blank">reuters.com</a> (2025-11-29 14:40:12)</span><span style="padding-right:50px;"> The best white wines for Christmas, from £11.50 and up on.ft.com/43Z9nXE  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m6qojoaxqj2l" target="_blank">financialtimes.com</a> (2025-11-29 14:36:04)</span>
   </div>
 </div>
 
@@ -32,97 +32,97 @@
 
 ## News Headlines
 
-1.  EasyJet、高級化路線でパッケージ旅行復活を牽引
-2.  Jetsのクリス・ボイド、健康問題で再入院
-3.  ピンクボールテスト、コイントスが重要要因
-4.  ハイブリッド車信仰者はプラチナに賭けるべき
-5.  英国、債券自警団の鎮静化を享受すべき
-6. 中国航空会社、日本行き減便900便超に拡大、関空便に影響
+1.  エアバス機、太陽放射で運航データに影響か - 複数便に遅延
+2.  日中関係、台湾問題で緊張 - 関係改善に暗雲
+3.  ヴァンラーレ八戸、J2昇格をかけた最終決戦！
+4.  香港高層住宅火災、政府対応に住民から批判
+5.  帯広川で成人女性の遺体発見、目立った外傷なし
+6.  中国発日本行き航空便、大幅減便 - 関空便中心に運休
 
 ----
 
-@financialtimes.com
-
- EasyJet’s taste for luxury flies the flag for the package holiday revival on.ft.com/3XltNq7  | opinion
-
-[2025-11-29 14:26:36](https://bsky.app/profile/financialtimes.com/post/3m6qnyqkc4k25)
-
----
-
-@reuters.com
-
-Jets' Kris Boyd back in hospital due to 'health issues' from shooting reut.rs/4rwZivi
-
-[2025-11-29 14:20:12](https://bsky.app/profile/reuters.com/post/3m6qnnccqgv2n)
-
----
-
-@reuters.com
-
-Broad says winning toss a crucial factor in pink-ball Ashes test reut.rs/4rwYNBq
-
-[2025-11-29 14:10:11](https://bsky.app/profile/reuters.com/post/3m6qn3eylbd2e)
-
----
-
-@financialtimes.com
-
- Hybrid-car believers should bet on platinum’s renaissance on.ft.com/3MgpOIZ  | opinion
-
-[2025-11-29 14:05:58](https://bsky.app/profile/financialtimes.com/post/3m6qmttua6m26)
-
----
-
-@financialtimes.com
-
- The UK should enjoy the calming of the bond vigilantes on.ft.com/4pDaqF0  | opinion
-
-[2025-11-29 14:05:58](https://bsky.app/profile/financialtimes.com/post/3m6qmttub4e26)
-
----
-
-@wsj.com
-
-Successful teams aren’t necessarily about star talent, but more often depend on “Glue” employees—the quiet leaders who make everybody else look good and rarely get rewarded for their contributions.
-
-🔗: on.wsj.com/4rm7MVG
-
-[2025-11-29 14:05:09](https://bsky.app/profile/wsj.com/post/3m6qmsfn46o2i)
-
----
-
 @bbcnews-world-rss.bsky.social
 
-Russia-Ukraine war: Drone strike hits Kyiv residential areas despite peace moves
+Flights disrupted after Airbus discovers intense sun radiation could impact flight control data
 
-[2025-11-29 14:04:20](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6qmqxesvu2e)
-
----
-
-@cnbc.com
-
-Airbus A320 recall disrupts global travel after glitch linked to solar flares
-
-[2025-11-29 14:02:50](https://bsky.app/profile/cnbc.com/post/3m6qmoannhm2y)
+[2025-11-29 14:46:14](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6qp3u6bbg2e)
 
 ---
 
-@nikkei.com
+@bloomberg.com
 
-中国航空会社、日本行き減便900便超に拡大
-www.nikkei.com/article/DGXZQO...
+What’s next for Japan and China as tensions over Taiwan threaten to derail what was seen as a warming of ties? 
 
-12月の中国→日本便の16%が関空発着を中心に運休。チケット価格にも影響し、関空―上海便の12月の往復航空券の最安値は昨年の2万円台から8500円前後まで値下がりしているといいます。
+Join us for a Live Q&A on Dec 1 at 10 a.m. HKT / Nov 30 at 9 p.m. EST ⤵️
 
-[2025-11-29 14:01:18](https://bsky.app/profile/nikkei.com/post/3m6qmliwd5u2m)
+[2025-11-29 14:45:09](https://bsky.app/profile/bloomberg.com/post/3m6qozvs45g2d)
 
 ---
 
-@cnn.com
+@sokuho.news
 
-Venezuela is entering one of its most repressive periods in years, rights monitors say, as President Nicolás Maduro faces mounting isolation and an expanding US military presence in the Caribbean.
+🛎️JNNより【速報】です。
 
-[2025-11-29 14:01:01](https://bsky.app/profile/cnn.com/post/3m6qmkywoeq2n)
+【速報】ヴァンラーレ八戸がJ2昇格かけて今季最終FC琉球戦【J2昇格かけた大一番】
+(2025-11-29 14:40:00) #ニュース
+
+[2025-11-29 14:43:12](https://bsky.app/profile/sokuho.news/post/3m6qowgf76427)
+
+---
+
+@reuters.com
+
+Ole Miss' Lane Kiffin says he'll declare decision Saturday reut.rs/3KptCXL
+
+[2025-11-29 14:40:12](https://bsky.app/profile/reuters.com/post/3m6qor2tbbs22)
+
+---
+
+@financialtimes.com
+
+ The best white wines for Christmas, from £11.50 and up on.ft.com/43Z9nXE  | opinion
+
+[2025-11-29 14:36:04](https://bsky.app/profile/financialtimes.com/post/3m6qojoaxqj2l)
+
+---
+
+@financialtimes.com
+
+ The lovelorn bards of London on.ft.com/4pElCkS  | opinion
+
+[2025-11-29 14:36:02](https://bsky.app/profile/financialtimes.com/post/3m6qojlvvby26)
+
+---
+
+@financialtimes.com
+
+ The coup de grâce for woke on.ft.com/3MbWwew  | opinion
+
+[2025-11-29 14:35:56](https://bsky.app/profile/financialtimes.com/post/3m6qojgxrpq26)
+
+---
+
+@financialtimes.com
+
+ This Budget’s tax decisions will haunt the government on.ft.com/44xZOPB  | opinion
+
+[2025-11-29 14:35:56](https://bsky.app/profile/financialtimes.com/post/3m6qojgwnbc2q)
+
+---
+
+@financialtimes.com
+
+ Fill your boots before Budget tax changes kick in on.ft.com/3KxaTJX  | opinion
+
+[2025-11-29 14:35:56](https://bsky.app/profile/financialtimes.com/post/3m6qojgwtkj2l)
+
+---
+
+@financialtimes.com
+
+ How the pope went pop on.ft.com/4pBlUc3  | opinion
+
+[2025-11-29 14:35:56](https://bsky.app/profile/financialtimes.com/post/3m6qojglgzx2r)
 
 ---
 
