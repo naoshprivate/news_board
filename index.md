@@ -1,9 +1,9 @@
-# [2025-11-29 11:50 updated](2025_11_29.md)
+# [2025-11-29 12:10 updated](2025_11_29.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">UK's easyJet completes software update on many Airbus A320 aircraft after recall reut.rs/4p9A30o <a href="https://bsky.app/profile/reuters.com/post/3m6qepdjh3y2r" target="_blank">reuters.com</a> (2025-11-29 11:40:16)</span><span style="padding-right:50px;">皇居 「乾通り」の一般公開 始まる 紅葉が見頃 https://news.web.nhk/newsweb/na/na-k10014989601000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6qeht5cri24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-29 11:36:02)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】新潟市江南区・秋葉区 市街地や住宅街にイノシシ 次々と車に体当たり… 目撃情報多数 (2025-11-29 11:33:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6qefpqhnf2h" target="_blank">sokuho.news</a> (2025-11-29 11:34:54)</span><span style="padding-right:50px;">President José Jarí of Peru has announced a state of emergency along the country's southern border. This decision comes as Venezuelan migrants move north from Chile, where anti-immigrant sentiment has intensified during a tense presidential campaign. <a href="https://bsky.app/profile/apnews.com/post/3m6qe5v2jss2j" target="_blank">apnews.com</a> (2025-11-29 11:30:31)</span><span style="padding-right:50px;">Ukrainian forces fighting in Kupiansk, despite Russian claims, top commander says reut.rs/4peBnzc <a href="https://bsky.app/profile/reuters.com/post/3m6qe5qmunb2i" target="_blank">reuters.com</a> (2025-11-29 11:30:26)</span>
+<span style="padding-right:50px;">渋谷や梅田…駅前再開発いつ終わる？ www.nikkei.com/article/DGXZQO...  「ずっと工事しているよね。不便だな」 「なんであちこちで駅前の再開発をしているのかな」 「駅前の工事はなぜそんなに時間がかかるのかな」  皆さんはこんな風に思ったことはありませんか？ <a href="https://bsky.app/profile/nikkei.com/post/3m6qg427ts22k" target="_blank">nikkei.com</a> (2025-11-29 12:05:17)</span><span style="padding-right:50px;">証券口座乗っ取り “フィッシング”通じ口座に不正アクセスか https://news.web.nhk/newsweb/na/na-k10014989611000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6qfy3igkf2r" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-29 12:03:02)</span><span style="padding-right:50px;">In just a few short hours on Wednesday afternoon, what began as a small fire on the first floor of an apartment building swelled into a raging inferno that consumed seven high-rise towers on a Hong Kong public housing estate. <a href="https://bsky.app/profile/cnn.com/post/3m6qfugjugt2i" target="_blank">cnn.com</a> (2025-11-29 12:01:01)</span><span style="padding-right:50px;">Iran to boycott World Cup draw over visa restrictions reut.rs/3Xpg6Xg <a href="https://bsky.app/profile/reuters.com/post/3m6qfuekaky22" target="_blank">reuters.com</a> (2025-11-29 12:00:59)</span><span style="padding-right:50px;">A brain scan revealed Kim Kardashian had "low activity" on the Nov. 27 episode of "The Kardashians" after she learned she had a small brain aneurysm. <a href="https://bsky.app/profile/usatoday.com/post/3m6qfu6lkov2z" target="_blank">usatoday.com</a> (2025-11-29 12:00:53)</span>
   </div>
 </div>
 
@@ -32,101 +32,103 @@
 
 ## News Headlines
 
-1.  エアバスA320機、ソフト更新完了で運航再開へ
-2.  皇居「乾通り」一般公開、紅葉が見頃
-3.  新潟市でイノシシ出没、車に体当たり被害続出
-4.  ペルー、南部国境に非常事態宣言　ベネズエラ移民流入で
-5.  日米関係「良好」70%余、昨年より低下
-6.  トランプ氏、麻薬密輸で有罪の前ホンジュラス大統領を恩赦へ
+1.  渋谷・梅田駅前再開発、いつ終わる？長引く工事に不満の声
+2.  証券口座乗っ取りか、フィッシング詐欺で不正アクセス
+3.  和歌山で介護車両が電柱激突、90代利用者2人が意識不明
+4.  トランプ氏、麻薬罪で服役中のホンジュラス元大統領を恩赦へ
+5.  エアバスA320にソフト不具合、世界中で緊急改修
+6.  福島市でクマの目撃相次ぐ、市中心部に出没
 
 ----
 
-@reuters.com
+@nikkei.com
 
-UK's easyJet completes software update on many Airbus A320 aircraft after recall reut.rs/4p9A30o
+渋谷や梅田…駅前再開発いつ終わる？
+www.nikkei.com/article/DGXZQO...
 
-[2025-11-29 11:40:16](https://bsky.app/profile/reuters.com/post/3m6qepdjh3y2r)
+「ずっと工事しているよね。不便だな」
+「なんであちこちで駅前の再開発をしているのかな」
+「駅前の工事はなぜそんなに時間がかかるのかな」
+
+皆さんはこんな風に思ったことはありませんか？
+
+[2025-11-29 12:05:17](https://bsky.app/profile/nikkei.com/post/3m6qg427ts22k)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-皇居 「乾通り」の一般公開 始まる 紅葉が見頃
-https://news.web.nhk/newsweb/na/na-k10014989601000
+証券口座乗っ取り “フィッシング”通じ口座に不正アクセスか
+https://news.web.nhk/newsweb/na/na-k10014989611000
 
-[2025-11-29 11:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6qeht5cri24)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】新潟市江南区・秋葉区 市街地や住宅街にイノシシ 次々と車に体当たり… 目撃情報多数
-(2025-11-29 11:33:00) #ニュース
-
-[2025-11-29 11:34:54](https://bsky.app/profile/sokuho.news/post/3m6qefpqhnf2h)
+[2025-11-29 12:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6qfy3igkf2r)
 
 ---
 
-@apnews.com
+@cnn.com
 
-President José Jarí of Peru has announced a state of emergency along the country's southern border. This decision comes as Venezuelan migrants move north from Chile, where anti-immigrant sentiment has intensified during a tense presidential campaign.
+In just a few short hours on Wednesday afternoon, what began as a small fire on the first floor of an apartment building swelled into a raging inferno that consumed seven high-rise towers on a Hong Kong public housing estate.
 
-[2025-11-29 11:30:31](https://bsky.app/profile/apnews.com/post/3m6qe5v2jss2j)
+[2025-11-29 12:01:01](https://bsky.app/profile/cnn.com/post/3m6qfugjugt2i)
 
 ---
 
 @reuters.com
 
-Ukrainian forces fighting in Kupiansk, despite Russian claims, top commander says reut.rs/4peBnzc
+Iran to boycott World Cup draw over visa restrictions reut.rs/3Xpg6Xg
 
-[2025-11-29 11:30:26](https://bsky.app/profile/reuters.com/post/3m6qe5qmunb2i)
+[2025-11-29 12:00:59](https://bsky.app/profile/reuters.com/post/3m6qfuekaky22)
 
 ---
 
 @usatoday.com
 
-Tony Germano, an actor best known for his Portuguese voiceover work, has reportedly died at the age of 55.
+A brain scan revealed Kim Kardashian had "low activity" on the Nov. 27 episode of "The Kardashians" after she learned she had a small brain aneurysm.
 
-[2025-11-29 11:30:25](https://bsky.app/profile/usatoday.com/post/3m6qe5pbk4s2u)
+[2025-11-29 12:00:53](https://bsky.app/profile/usatoday.com/post/3m6qfu6lkov2z)
 
 ---
 
 @aljazeera.com
 
-Duduzile Zuma-Sambudla's resignation comes amid investigation into role in luring South Africans to fight in Ukraine.
+Pause on visas and halting of asylum applications comes after shooting of two National Guard members in Washington, DC.
 
-[2025-11-29 11:30:19](https://bsky.app/profile/aljazeera.com/post/3m6qe5jdocp2n)
-
----
-
-@cbsnews.com
-
-Northwestern University to pay $75 million to federal government to settle antisemitism claims, restore frozen funds.
-
-[2025-11-29 11:30:01](https://bsky.app/profile/cbsnews.com/post/3m6qe4yo6lq2u)
+[2025-11-29 12:00:37](https://bsky.app/profile/aljazeera.com/post/3m6qftp2ogn27)
 
 ---
 
-@nikkei.com
+@nbcnews.com
 
-キャベツと焼肉の川崎喰い、「孤独のグルメ」で海外客も
-www.nikkei.com/article/DGXZQO...
+Cities in Texas are facing a difficult situation: partner with ICE and risk blowback from their own communities, or don’t and risk the Trump administration sending federal troops to their streets.
 
-（2025年2月 読まれた記事）
-#いい肉の日
-
-[2025-11-29 11:29:17](https://bsky.app/profile/nikkei.com/post/3m6qe3ogux52i)
+[2025-11-29 12:00:14](https://bsky.app/profile/nbcnews.com/post/3m6qfszkgux2t)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@washingtonpost.com
 
-日米関係「良好だと思う」去年より低く70％余に 内閣府調査
-https://news.web.nhk/newsweb/na/na-k10014989591000
+Retired federal and state judges say President Trump’s attacks on the judiciary strain its integrity. They cite partisanship, antagonistic rhetoric from public officials and ambiguous decisions handed down by the Supreme Court.
 
-[2025-11-29 11:24:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6qdsf62yb2p)
+[2025-11-29 12:00:06](https://bsky.app/profile/washingtonpost.com/post/3m6qfss4vwo2j)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】介護サービスの車が電信柱に激突 同乗の90代利用者2人が意識不明の重体 運転手は無事 和歌山・田辺市
+(2025-11-29 11:40) #ニュース
+
+[2025-11-29 11:53:46](https://bsky.app/profile/sokuho.news/post/3m6qfhhhnl32y)
+
+---
+
+@npr.org
+
+Jeff de Boer has made an entire career out of crafting tiny plate armor. He's compelled by the idea of the underdog finding an edge; something so small being so well-protected.
+
+[2025-11-29 11:53:25](https://bsky.app/profile/npr.org/post/3m6qfgtnzjo23)
 
 ---
 
