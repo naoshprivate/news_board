@@ -1,9 +1,9 @@
-# [2025-11-30 07:30 updated](2025_11_30.md)
+# [2025-11-30 07:50 updated](2025_11_30.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">トム・ストッパードさん死去　世界的な英劇作家 www.nikkei.com/article/DGXZQO...  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m6sgzwi57h2l" target="_blank">nikkei.com</a> (2025-11-30 07:27:19)</span><span style="padding-right:50px;">香港 高層住宅火災 治安機関“混乱たくらむもの厳罰受ける” https://news.web.nhk/newsweb/na/na-k10014989881000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6sgzmr4xx2n" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-30 07:27:06)</span><span style="padding-right:50px;">京急線 上大岡～金沢文庫で運転見合わせ 人身事故の影響 https://news.web.nhk/newsweb/na/na-k10014989951000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6sgzhrekh23" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-30 07:27:02)</span><span style="padding-right:50px;">North Korea's Kim stresses Air Force's nuclear war deterrence on its 80th anniversary reut.rs/4paTmXb <a href="https://bsky.app/profile/reuters.com/post/3m6sgw3yxm42e" target="_blank">reuters.com</a> (2025-11-30 07:25:10)</span><span style="padding-right:50px;">The National Oceanic and Atmospheric Administration predicts a Kp index of four out of nine Saturday night.  <a href="https://bsky.app/profile/forbes.com/post/3m6sgmx366j2d" target="_blank">forbes.com</a> (2025-11-30 07:20:03)</span>
+<span style="padding-right:50px;">トランプ大統領 ベネズエラ上空は全面的に閉鎖とSNSで警告 https://news.web.nhk/newsweb/na/na-k10014989921000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6si72cpyh2n" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-30 07:48:02)</span><span style="padding-right:50px;">Starting Jan. 1, foreign tourists will have to pay much more to visit some of America's most popular national parks. What all visitors should know. <a href="https://bsky.app/profile/usatoday.com/post/3m6shzsvbs526" target="_blank">usatoday.com</a> (2025-11-30 07:45:08)</span><span style="padding-right:50px;">Russia unleashed a nearly 10-hour air assault across Ukraine on Saturday, killing at least two people in the capital and injuring dozens more, according to the Ukrainian authorities. www.nytimes.com/2025/11/29/w... <a href="https://bsky.app/profile/nytimes.com/post/3m6shz57fkk23" target="_blank">nytimes.com</a> (2025-11-30 07:44:46)</span><span style="padding-right:50px;">Women's Top 25 roundup: No. 12 North Carolina tops Columbia with big second half reut.rs/48cxoNy <a href="https://bsky.app/profile/reuters.com/post/3m6shqxshfj2n" target="_blank">reuters.com</a> (2025-11-30 07:40:12)</span><span style="padding-right:50px;">ウクライナ 首都キーウなどでロシア軍の攻撃 2人死亡 https://news.web.nhk/newsweb/na/na-k10014989941000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6shp4jlgw2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-30 07:39:08)</span>
   </div>
 </div>
 
@@ -32,100 +32,104 @@
 
 ## News Headlines
 
-1. トム・ストッパード氏死去、世界的劇作家
-2. 香港高層住宅火災、治安機関が厳罰警告
-3. 京急線、人身事故で運転見合わせ
-4. 北朝鮮、空軍力で核戦争抑止強調
-5. インフルエンザ流行、例年より1か月早く
-6. エアバス機に異常、世界の航空便混乱
+1. トランプ氏、ベネズエラ上空を「全面閉鎖」と警告
+2. ロシア、ウクライナに大規模攻撃　キーウで死者
+3. インドネシア・スマトラ島で洪水・土砂災害、300人超死亡
+4. 香港高層住宅火災、治安機関が厳罰警告
+5. インフルエンザ、例年より早く流行　特に子どもで拡大
+6. スキージャンプW杯、二階堂蓮が2位
 
 ----
 
-@nikkei.com
-
-トム・ストッパードさん死去　世界的な英劇作家
-www.nikkei.com/article/DGXZQO...
-
-#ニュース
-
-[2025-11-30 07:27:19](https://bsky.app/profile/nikkei.com/post/3m6sgzwi57h2l)
-
----
-
 @nhknewsunofficial.bsky.social
 
-香港 高層住宅火災 治安機関“混乱たくらむもの厳罰受ける”
-https://news.web.nhk/newsweb/na/na-k10014989881000
+トランプ大統領 ベネズエラ上空は全面的に閉鎖とSNSで警告
+https://news.web.nhk/newsweb/na/na-k10014989921000
 
-[2025-11-30 07:27:06](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6sgzmr4xx2n)
-
----
-
-@nhknewsunofficial.bsky.social
-
-京急線 上大岡～金沢文庫で運転見合わせ 人身事故の影響
-https://news.web.nhk/newsweb/na/na-k10014989951000
-
-[2025-11-30 07:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6sgzhrekh23)
-
----
-
-@reuters.com
-
-North Korea's Kim stresses Air Force's nuclear war deterrence on its 80th anniversary reut.rs/4paTmXb
-
-[2025-11-30 07:25:10](https://bsky.app/profile/reuters.com/post/3m6sgw3yxm42e)
-
----
-
-@forbes.com
-
-The National Oceanic and Atmospheric Administration predicts a Kp index of four out of nine Saturday night. 
-
-[2025-11-30 07:20:03](https://bsky.app/profile/forbes.com/post/3m6sgmx366j2d)
-
----
-
-@reuters.com
-
-Nicaraguan authorities release about 40 political critics from prison - political activists reut.rs/3MeNAoF
-
-[2025-11-30 07:15:18](https://bsky.app/profile/reuters.com/post/3m6sgegup6o2k)
-
----
-
-@reuters.com
-
-Sorloth double fires Atletico past bottom side Oviedo reut.rs/3MeNA89
-
-[2025-11-30 07:15:16](https://bsky.app/profile/reuters.com/post/3m6sgeep2xg2d)
+[2025-11-30 07:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6si72cpyh2n)
 
 ---
 
 @usatoday.com
 
-Voyager 1, which launched in 1977 and explored Jupiter, Saturn and points beyond, will reach a light-day milestone in November 2026 when it becomes the first craft to travel 16.1 billion miles from Earth.
+Starting Jan. 1, foreign tourists will have to pay much more to visit some of America's most popular national parks. What all visitors should know.
 
-Read more: bit.ly/4amNLbv
-
-[2025-11-30 07:15:09](https://bsky.app/profile/usatoday.com/post/3m6sge6dinb2d)
+[2025-11-30 07:45:08](https://bsky.app/profile/usatoday.com/post/3m6shzsvbs526)
 
 ---
 
 @nytimes.com
 
-More than a dozen candidates, as well as hundreds of state and county election officials across Texas, are waiting for the Supreme Court to decide which congressional map will be used in Texas races in 2026, the old one drawn by Republicans in 2021 or the new one drawn by Republicans this summer.
+Russia unleashed a nearly 10-hour air assault across Ukraine on Saturday, killing at least two people in the capital and injuring dozens more, according to the Ukrainian authorities. www.nytimes.com/2025/11/29/w...
 
-[2025-11-30 07:15:05](https://bsky.app/profile/nytimes.com/post/3m6sge2nlgj2h)
+[2025-11-30 07:44:46](https://bsky.app/profile/nytimes.com/post/3m6shz57fkk23)
+
+---
+
+@reuters.com
+
+Women's Top 25 roundup: No. 12 North Carolina tops Columbia with big second half reut.rs/48cxoNy
+
+[2025-11-30 07:40:12](https://bsky.app/profile/reuters.com/post/3m6shqxshfj2n)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-インフルエンザ 去年より約1か月早く流行 特に子どもで広がる
-https://news.web.nhk/newsweb/na/na-k10014989821000
+ウクライナ 首都キーウなどでロシア軍の攻撃 2人死亡
+https://news.web.nhk/newsweb/na/na-k10014989941000
 
-[2025-11-30 07:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6sgdzgqbz2r)
+[2025-11-30 07:39:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6shp4jlgw2b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【随時更新】ロシア ウクライナに軍事侵攻（11月30日の動き）
+https://news.web.nhk/newsweb/na/na-k10014967061000
+
+[2025-11-30 07:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6shoxt5yx2n)
+
+---
+
+@reuters.com
+
+Milan edge Lazio 1-0 with Leao strike to claim Serie A top spot reut.rs/44ETl5n
+
+[2025-11-30 07:35:09](https://bsky.app/profile/reuters.com/post/3m6shhwybh726)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Ukraine hits tankers in Black Sea in escalation against Russia
+
+[2025-11-30 07:34:38](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6shgzqlqy2w)
+
+---
+
+@nikkei.com
+
+トランプ氏、ベネズエラ周辺空域は「全面閉鎖に」　航空会社に警告
+www.nikkei.com/article/DGXZQO...
+
+トランプ米大統領はベネズエラの上空や周辺空域を飛行しないよう航空会社に警告しました。
+
+ベネズエラの麻薬カルテルに向けて、陸上攻撃を始めると再三、脅しています。
+
+トランプ政権は麻薬や不法移民対策を攻撃の理由に掲げていますが、反米のマドゥロ政権転覆を狙っているとの見方があります。
+
+#ニュース
+
+[2025-11-30 07:31:18](https://bsky.app/profile/nikkei.com/post/3m6shb2csyz2t)
+
+---
+
+@usatoday.com
+
+Will Lane Kiffin leave for LSU or stay in Ole Miss? Here's the latest news as we await decision from Oxford.
+
+[2025-11-30 07:30:22](https://bsky.app/profile/usatoday.com/post/3m6sh7emwa42u)
 
 ---
 
