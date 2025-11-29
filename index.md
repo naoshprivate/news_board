@@ -1,9 +1,9 @@
-# [2025-11-29 11:30 updated](2025_11_29.md)
+# [2025-11-29 11:50 updated](2025_11_29.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">キャベツと焼肉の川崎喰い、「孤独のグルメ」で海外客も www.nikkei.com/article/DGXZQO...  （2025年2月 読まれた記事） #いい肉の日 <a href="https://bsky.app/profile/nikkei.com/post/3m6qe3ogux52i" target="_blank">nikkei.com</a> (2025-11-29 11:29:17)</span><span style="padding-right:50px;">日米関係「良好だと思う」去年より低く70％余に 内閣府調査 https://news.web.nhk/newsweb/na/na-k10014989591000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6qdsf62yb2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-29 11:24:03)</span><span style="padding-right:50px;">Global airlines affected major A320 recall by Airbus reut.rs/3XUeIvN <a href="https://bsky.app/profile/reuters.com/post/3m6qdlk73gs27" target="_blank">reuters.com</a> (2025-11-29 11:20:16)</span><span style="padding-right:50px;">The Kremlin pitched the White House on peace through business. To Europe’s dismay, the president and his envoy are on board. <a href="https://bsky.app/profile/wsj.com/post/3m6qd3dg7xo2i" target="_blank">wsj.com</a> (2025-11-29 11:11:11)</span><span style="padding-right:50px;">Germany, Spain draw 0-0 in Women's Nations League final first leg reut.rs/4osEGS6 <a href="https://bsky.app/profile/reuters.com/post/3m6qczkelxy2i" target="_blank">reuters.com</a> (2025-11-29 11:10:12)</span>
+<span style="padding-right:50px;">UK's easyJet completes software update on many Airbus A320 aircraft after recall reut.rs/4p9A30o <a href="https://bsky.app/profile/reuters.com/post/3m6qepdjh3y2r" target="_blank">reuters.com</a> (2025-11-29 11:40:16)</span><span style="padding-right:50px;">皇居 「乾通り」の一般公開 始まる 紅葉が見頃 https://news.web.nhk/newsweb/na/na-k10014989601000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6qeht5cri24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-29 11:36:02)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】新潟市江南区・秋葉区 市街地や住宅街にイノシシ 次々と車に体当たり… 目撃情報多数 (2025-11-29 11:33:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6qefpqhnf2h" target="_blank">sokuho.news</a> (2025-11-29 11:34:54)</span><span style="padding-right:50px;">President José Jarí of Peru has announced a state of emergency along the country's southern border. This decision comes as Venezuelan migrants move north from Chile, where anti-immigrant sentiment has intensified during a tense presidential campaign. <a href="https://bsky.app/profile/apnews.com/post/3m6qe5v2jss2j" target="_blank">apnews.com</a> (2025-11-29 11:30:31)</span><span style="padding-right:50px;">Ukrainian forces fighting in Kupiansk, despite Russian claims, top commander says reut.rs/4peBnzc <a href="https://bsky.app/profile/reuters.com/post/3m6qe5qmunb2i" target="_blank">reuters.com</a> (2025-11-29 11:30:26)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50253.91 (🔺34.95 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻1.99 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.28 (🔻0.00 : 2025-11-28)</span>
+<span style="padding-right:50px;">NIKKEI: 50253.91 (🔺34.95 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.28 (🔻0.00 : 2025-11-28)</span>
   </div>
 </div>
 
@@ -32,14 +32,82 @@
 
 ## News Headlines
 
-1. 「孤独のグルメ」川崎焼肉、海外客も魅了
-2. 内閣府調査：日米関係「良好」70％、昨年より低下
-3. エアバスA320型機、大規模リコールで運航に影響
-4. 福島市中心部でクマ目撃相次ぐ、体長1.5m
-5. トランプ氏、麻薬密輸で有罪の元ホンジュラス大統領を恩赦へ
-6. ファイザーの片頭痛予防薬「ナルティーク」、日本で発売へ
+1.  エアバスA320機、ソフト更新完了で運航再開へ
+2.  皇居「乾通り」一般公開、紅葉が見頃
+3.  新潟市でイノシシ出没、車に体当たり被害続出
+4.  ペルー、南部国境に非常事態宣言　ベネズエラ移民流入で
+5.  日米関係「良好」70%余、昨年より低下
+6.  トランプ氏、麻薬密輸で有罪の前ホンジュラス大統領を恩赦へ
 
 ----
+
+@reuters.com
+
+UK's easyJet completes software update on many Airbus A320 aircraft after recall reut.rs/4p9A30o
+
+[2025-11-29 11:40:16](https://bsky.app/profile/reuters.com/post/3m6qepdjh3y2r)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+皇居 「乾通り」の一般公開 始まる 紅葉が見頃
+https://news.web.nhk/newsweb/na/na-k10014989601000
+
+[2025-11-29 11:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6qeht5cri24)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】新潟市江南区・秋葉区 市街地や住宅街にイノシシ 次々と車に体当たり… 目撃情報多数
+(2025-11-29 11:33:00) #ニュース
+
+[2025-11-29 11:34:54](https://bsky.app/profile/sokuho.news/post/3m6qefpqhnf2h)
+
+---
+
+@apnews.com
+
+President José Jarí of Peru has announced a state of emergency along the country's southern border. This decision comes as Venezuelan migrants move north from Chile, where anti-immigrant sentiment has intensified during a tense presidential campaign.
+
+[2025-11-29 11:30:31](https://bsky.app/profile/apnews.com/post/3m6qe5v2jss2j)
+
+---
+
+@reuters.com
+
+Ukrainian forces fighting in Kupiansk, despite Russian claims, top commander says reut.rs/4peBnzc
+
+[2025-11-29 11:30:26](https://bsky.app/profile/reuters.com/post/3m6qe5qmunb2i)
+
+---
+
+@usatoday.com
+
+Tony Germano, an actor best known for his Portuguese voiceover work, has reportedly died at the age of 55.
+
+[2025-11-29 11:30:25](https://bsky.app/profile/usatoday.com/post/3m6qe5pbk4s2u)
+
+---
+
+@aljazeera.com
+
+Duduzile Zuma-Sambudla's resignation comes amid investigation into role in luring South Africans to fight in Ukraine.
+
+[2025-11-29 11:30:19](https://bsky.app/profile/aljazeera.com/post/3m6qe5jdocp2n)
+
+---
+
+@cbsnews.com
+
+Northwestern University to pay $75 million to federal government to settle antisemitism claims, restore frozen funds.
+
+[2025-11-29 11:30:01](https://bsky.app/profile/cbsnews.com/post/3m6qe4yo6lq2u)
+
+---
 
 @nikkei.com
 
@@ -59,78 +127,6 @@ www.nikkei.com/article/DGXZQO...
 https://news.web.nhk/newsweb/na/na-k10014989591000
 
 [2025-11-29 11:24:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6qdsf62yb2p)
-
----
-
-@reuters.com
-
-Global airlines affected major A320 recall by Airbus reut.rs/3XUeIvN
-
-[2025-11-29 11:20:16](https://bsky.app/profile/reuters.com/post/3m6qdlk73gs27)
-
----
-
-@wsj.com
-
-The Kremlin pitched the White House on peace through business. To Europe’s dismay, the president and his envoy are on board.
-
-[2025-11-29 11:11:11](https://bsky.app/profile/wsj.com/post/3m6qd3dg7xo2i)
-
----
-
-@reuters.com
-
-Germany, Spain draw 0-0 in Women's Nations League final first leg reut.rs/4osEGS6
-
-[2025-11-29 11:10:12](https://bsky.app/profile/reuters.com/post/3m6qczkelxy2i)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】福島市森合や曽根田町で熊の目撃が相次ぐ…体長1.5m、現場は市の中心部 福島
-(2025-11-29 11:05) #ニュース
-
-[2025-11-29 11:05:19](https://bsky.app/profile/sokuho.news/post/3m6qcqthziq2q)
-
----
-
-@nikkei.com
-
-フィンランド、世界一の「偽情報を見破る力」
-www.nikkei.com/article/DGXZQO...
-
-ロシア発とみられる偽情報がインターネットで広がるなか、フィンランドのアドラークロイツ教育相は「メディアリテラシー」教育が効果をあげているとの見方を示しました。
-
-2025年10月 #注目された記事
-
-[2025-11-29 11:01:17](https://bsky.app/profile/nikkei.com/post/3m6qcjm4gzy2g)
-
----
-
-@usatoday.com
-
-A solar radiation–linked software flaw in Airbus A320 jets triggered urgent global fixes, causing possible delays but no safety risk for travelers.
-
-[2025-11-29 11:01:13](https://bsky.app/profile/usatoday.com/post/3m6qcjigqoy2j)
-
----
-
-@nbcnews.com
-
-A fleet of planes that UPS grounded after a deadly crash isn’t expected to be back in service during the peak holiday season due to inspections and possible repairs, the company says. 
-
-[2025-11-29 11:01:07](https://bsky.app/profile/nbcnews.com/post/3m6qcjco36q2w)
-
----
-
-@cnn.com
-
-“Slow down”: Celine Dion issued an important reminder, in light of the holiday.
-
-[2025-11-29 11:01:01](https://bsky.app/profile/cnn.com/post/3m6qcj53v2r2r)
 
 ---
 
