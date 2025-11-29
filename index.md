@@ -1,9 +1,9 @@
-# [2025-11-30 03:30 updated](2025_11_30.md)
+# [2025-11-30 03:50 updated](2025_11_30.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Barrick employees released from Mali prison after deal, sources say reut.rs/4iuYtPh <a href="https://bsky.app/profile/reuters.com/post/3m6rziy67jx27" target="_blank">reuters.com</a> (2025-11-30 03:25:12)</span><span style="padding-right:50px;">JUST IN: Acclaimed playwright Tom Stoppard dies at 88 <a href="https://bsky.app/profile/npr.org/post/3m6ryym4x4y2a" target="_blank">npr.org</a> (2025-11-30 03:16:02)</span><span style="padding-right:50px;">Moldova says Russian drones entered its airspace again, posing aviation threat reut.rs/4irVCql <a href="https://bsky.app/profile/reuters.com/post/3m6ryx3wb4g27" target="_blank">reuters.com</a> (2025-11-30 03:15:12)</span><span style="padding-right:50px;">For 40 years, Costco has had its inflation-defying $1.50 hot dog deal. It's more popular than ever now that America is facing an affordability crisis <a href="https://bsky.app/profile/usatoday.com/post/3m6ryx23isb2u" target="_blank">usatoday.com</a> (2025-11-30 03:15:10)</span><span style="padding-right:50px;">Chinese parts supplier takes stake in leading Russian drone maker on.ft.com/440b1s5 <a href="https://bsky.app/profile/financialtimes.com/post/3m6ryqb7jb323" target="_blank">financialtimes.com</a> (2025-11-30 03:11:22)</span>
+<span style="padding-right:50px;">I tried The Feels, a singles mixer where strangers hold each other and make deep, psychospiritual conversation. Did I fall in love? <a href="https://bsky.app/profile/usatoday.com/post/3m6s2mnwojw2j" target="_blank">usatoday.com</a> (2025-11-30 03:45:09)</span><span style="padding-right:50px;">Most dogs have some wolf DNA, scientists say. These breeds have more than others.  <a href="https://bsky.app/profile/cbsnews.com/post/3m6s2mgeljg2n" target="_blank">cbsnews.com</a> (2025-11-30 03:45:01)</span><span style="padding-right:50px;">Giants DE Kayvon Thibodeaux (shoulder) out vs. Patriots reut.rs/4pdYTw4 <a href="https://bsky.app/profile/reuters.com/post/3m6s22t7kbj2e" target="_blank">reuters.com</a> (2025-11-30 03:35:10)</span><span style="padding-right:50px;">In Opinion  President Trump’s plan to defund the Department of Education “echoes attacks by conservatives after the Civil War,” Anthony Conwright writes. “He has joined the fight against federal oversight of education as the latest steward of the Confederacy’s endeavor to preserve oligarchy.” <a href="https://bsky.app/profile/nytimes.com/post/3m6s22knkfz24" target="_blank">nytimes.com</a> (2025-11-30 03:35:02)</span><span style="padding-right:50px;">Mushrooms are a popular ingredient. But that doesn't mean they are OK for just anyone to enjoy. <a href="https://bsky.app/profile/usatoday.com/post/3m6rzsfbiph2d" target="_blank">usatoday.com</a> (2025-11-30 03:30:27)</span>
   </div>
 </div>
 
@@ -32,14 +32,65 @@
 
 ## News Headlines
 
-1. バリック従業員、マリの刑務所から解放
-2. 劇作家トム・ストッパード氏、88歳で死去
-3. モルドバ、ロシア製ドローンが領空侵犯と発表
-4. 中国部品メーカー、ロシア大手ドローンメーカーに出資
-5. スリランカ、サイクロンによる死者150人超
-6. 睡眠時無呼吸症候群とパーキンソン病の関連性示唆
+1. 劇作家トム・ストッパード氏死去、88歳
+2. 大学生、感謝祭帰省で誤ってホンジュラスへ強制送還
+3. メキシコの失踪者家族、クリスマスの飾りを作成
+4. スリランカ、サイクロン被害深刻、死者150人超
+5. ロシアのドローン、モルドバ領空侵犯で航空脅威
+6. ウクライナ、ロシアの夜間攻撃で死傷者多数
 
 ----
+
+@usatoday.com
+
+I tried The Feels, a singles mixer where strangers hold each other and make deep, psychospiritual conversation. Did I fall in love?
+
+[2025-11-30 03:45:09](https://bsky.app/profile/usatoday.com/post/3m6s2mnwojw2j)
+
+---
+
+@cbsnews.com
+
+Most dogs have some wolf DNA, scientists say. These breeds have more than others. 
+
+[2025-11-30 03:45:01](https://bsky.app/profile/cbsnews.com/post/3m6s2mgeljg2n)
+
+---
+
+@reuters.com
+
+Giants DE Kayvon Thibodeaux (shoulder) out vs. Patriots reut.rs/4pdYTw4
+
+[2025-11-30 03:35:10](https://bsky.app/profile/reuters.com/post/3m6s22t7kbj2e)
+
+---
+
+@nytimes.com
+
+In Opinion
+
+President Trump’s plan to defund the Department of Education “echoes attacks by conservatives after the Civil War,” Anthony Conwright writes. “He has joined the fight against federal oversight of education as the latest steward of the Confederacy’s endeavor to preserve oligarchy.”
+
+[2025-11-30 03:35:02](https://bsky.app/profile/nytimes.com/post/3m6s22knkfz24)
+
+---
+
+@usatoday.com
+
+Mushrooms are a popular ingredient. But that doesn't mean they are OK for just anyone to enjoy.
+
+[2025-11-30 03:30:27](https://bsky.app/profile/usatoday.com/post/3m6rzsfbiph2d)
+
+---
+
+@cnn.com
+
+A college freshman trying to fly from Boston to Texas to surprise her family for Thanksgiving was instead deported to Honduras in violation of a court order, according to her attorney.
+https://cnn.it/4oqqiJU
+
+[2025-11-30 03:30:06](https://bsky.app/profile/cnn.com/post/3m6rzrqne2j2q)
+
+---
 
 @reuters.com
 
@@ -70,55 +121,6 @@ Moldova says Russian drones entered its airspace again, posing aviation threat r
 For 40 years, Costco has had its inflation-defying $1.50 hot dog deal. It's more popular than ever now that America is facing an affordability crisis
 
 [2025-11-30 03:15:10](https://bsky.app/profile/usatoday.com/post/3m6ryx23isb2u)
-
----
-
-@financialtimes.com
-
-Chinese parts supplier takes stake in leading Russian drone maker on.ft.com/440b1s5
-
-[2025-11-30 03:11:22](https://bsky.app/profile/financialtimes.com/post/3m6ryqb7jb323)
-
----
-
-@reuters.com
-
-Colts rookie TE Tyler Warren (illness) questionable vs. Texans reut.rs/4rxBYgY
-
-[2025-11-30 03:10:12](https://bsky.app/profile/reuters.com/post/3m6ryo6acvu2n)
-
----
-
-@nytimes.com
-
-<strong><span style="color: red;">Breaking News</span>: Tom Stoppard, the playwright known for a witty, cerebral style who drew comparisons to Shakespeare and Shaw, has died at 88.</strong>
-
-[2025-11-30 03:09:04](https://bsky.app/profile/nytimes.com/post/3m6rym5k6cw2h)
-
----
-
-@nbcnews.com
-
-<strong><span style="color: red;">BREAKING:</span> Tom Stoppard, British playwright who won an Oscar for "Shakespeare in Love," dies at 88.</strong>
-
-[2025-11-30 03:08:29](https://bsky.app/profile/nbcnews.com/post/3m6ryl4dsgx2r)
-
----
-
-@reuters.com
-
-C Frank Ragnow fails physical, will not rejoin Lions reut.rs/4rtVg6y
-
-[2025-11-30 03:05:12](https://bsky.app/profile/reuters.com/post/3m6ryfa7llo2y)
-
----
-
-@cnn.com
-
-The award-winning British playwright and screenwriter Tom Stoppard has died, according to his talent agency United Agents. He was 88.
-https://cnn.it/4pJohtz
-
-[2025-11-30 03:03:28](https://bsky.app/profile/cnn.com/post/3m6ryc4ypqy2m)
 
 ---
 
