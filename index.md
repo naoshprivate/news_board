@@ -1,9 +1,9 @@
-# [2025-11-29 22:30 updated](2025_11_29.md)
+# [2025-11-29 22:50 updated](2025_11_29.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Charts show how President Trump has eased his tariffs on some food items—but some key ingredients might still weigh on consumers. <a href="https://bsky.app/profile/wsj.com/post/3m6riqca5472i" target="_blank">wsj.com</a> (2025-11-29 22:25:03)</span><span style="padding-right:50px;">BREAKING: US President Donald Trump has said the airspace above and surrounding Venezuela is to be closed "in its entirety," as tensions between the countries escalate aje.io/cw5jnm <a href="https://bsky.app/profile/aljazeera.com/post/3m6riils5xs2h" target="_blank">aljazeera.com</a> (2025-11-29 22:20:45)</span><span style="padding-right:50px;">🇺🇸 🇻🇪 US President Donald Trump has issued a warning that the airspace above and near Venezuela should be considered closed, amid an escalating standoff with leftist leader Nicolas Maduro.  ➡️ u.afp.com/Sh8F <a href="https://bsky.app/profile/en.afp.com/post/3m6rigtgg2n2d" target="_blank">en.afp.com</a> (2025-11-29 22:19:46)</span><span style="padding-right:50px;">フランス語で書く水林章さん、仏文学の担い手に　戦禍と芸術による再生 www.nikkei.com/article/DGXZQO...  上智大学名誉教授の水林さんは日本生まれ。日本に暮らしながらフランス語で執筆しています。  9冊目のフランス語の著書『La forêt de flammes et d'ombres（炎と影の森）』が現地で話題に。  第2次世界大戦中の東京を舞台にしながら、日本語には直訳できない表現もあります。 <a href="https://bsky.app/profile/nikkei.com/post/3m6ri6tl6y52t" target="_blank">nikkei.com</a> (2025-11-29 22:15:18)</span><span style="padding-right:50px;">Trump says airspace above and surrounding Venezuela to be closed in its entirety reut.rs/4a4K6PN <a href="https://bsky.app/profile/reuters.com/post/3m6rhvq7urv2d" target="_blank">reuters.com</a> (2025-11-29 22:10:12)</span>
+<span style="padding-right:50px;">京都市の繁華街の飲食店で火事 けが人なし https://news.web.nhk/newsweb/na/na-k10014989841000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6rjzg6rpk2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-29 22:48:02)</span><span style="padding-right:50px;">Venezuela’s wily ruler digs in to defy Trump on.ft.com/4aiUB1I <a href="https://bsky.app/profile/financialtimes.com/post/3m6rjvc3odz2n" target="_blank">financialtimes.com</a> (2025-11-29 22:45:45)</span><span style="padding-right:50px;">U.S. consumers spent $11.8 billion on Black Friday, says Adobe Analytics reut.rs/48nEAVP <a href="https://bsky.app/profile/reuters.com/post/3m6rjuc46hw2d" target="_blank">reuters.com</a> (2025-11-29 22:45:11)</span><span style="padding-right:50px;">December will begin with investors owning little stock. Is a year-end rally at play? <a href="https://bsky.app/profile/cnbc.com/post/3m6rjpk3hb32q" target="_blank">cnbc.com</a> (2025-11-29 22:42:32)</span><span style="padding-right:50px;">ガザ地区当局 戦闘開始以降の死者 7万人超えたと発表 https://news.web.nhk/newsweb/na/na-k10014989871000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6rjoqcpia2g" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-29 22:42:03)</span>
   </div>
 </div>
 
@@ -32,101 +32,101 @@
 
 ## News Headlines
 
-1. トランプ大統領、ベネズエラ周辺空域を閉鎖
-2. 東南アジアの洪水・地滑り、死者400人超
-3. 中国治安機関、香港批判に警告：火災利用なら処罰
-4. スペインの豚肉輸出、アフリカ豚コレラ発生で大幅減
-5. 京都・先斗町で火災発生、繁華街に消防車24台出動
-6. 香港高層ビル火災、数十年来で最悪の事態
+1. 京都市の繁華街で火事発生、けが人なし
+2. ブラックフライデー、米消費者は118億ドルを費やす
+3. ガザ地区当局、戦闘開始以降の死者7万人超えと発表
+4. 中国のヒューマノイドロボット、3日間100kmの歩行で世界記録
+5. トランプ氏、ベネズエラ上空の閉鎖を宣言
+6. 東南アジアの洪水と地滑りによる死者、400人超え
 
 ----
 
-@wsj.com
+@nhknewsunofficial.bsky.social
 
-Charts show how President Trump has eased his tariffs on some food items—but some key ingredients might still weigh on consumers.
+京都市の繁華街の飲食店で火事 けが人なし
+https://news.web.nhk/newsweb/na/na-k10014989841000
 
-[2025-11-29 22:25:03](https://bsky.app/profile/wsj.com/post/3m6riqca5472i)
-
----
-
-@aljazeera.com
-
-<strong><span style="color: red;">BREAKING:</span> US President Donald Trump has said the airspace above and surrounding Venezuela is to be closed "in its entirety," as tensions between the countries escalate aje.io/cw5jnm</strong>
-
-[2025-11-29 22:20:45](https://bsky.app/profile/aljazeera.com/post/3m6riils5xs2h)
+[2025-11-29 22:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6rjzg6rpk2p)
 
 ---
 
-@en.afp.com
+@financialtimes.com
 
-🇺🇸 🇻🇪 US President Donald Trump has issued a warning that the airspace above and near Venezuela should be considered closed, amid an escalating standoff with leftist leader Nicolas Maduro. 
-➡️ u.afp.com/Sh8F
+Venezuela’s wily ruler digs in to defy Trump on.ft.com/4aiUB1I
 
-[2025-11-29 22:19:46](https://bsky.app/profile/en.afp.com/post/3m6rigtgg2n2d)
-
----
-
-@nikkei.com
-
-フランス語で書く水林章さん、仏文学の担い手に　戦禍と芸術による再生
-www.nikkei.com/article/DGXZQO...
-
-上智大学名誉教授の水林さんは日本生まれ。日本に暮らしながらフランス語で執筆しています。
-
-9冊目のフランス語の著書『La forêt de flammes et d'ombres（炎と影の森）』が現地で話題に。
-
-第2次世界大戦中の東京を舞台にしながら、日本語には直訳できない表現もあります。
-
-[2025-11-29 22:15:18](https://bsky.app/profile/nikkei.com/post/3m6ri6tl6y52t)
+[2025-11-29 22:45:45](https://bsky.app/profile/financialtimes.com/post/3m6rjvc3odz2n)
 
 ---
 
 @reuters.com
 
-Trump says airspace above and surrounding Venezuela to be closed in its entirety reut.rs/4a4K6PN
+U.S. consumers spent $11.8 billion on Black Friday, says Adobe Analytics reut.rs/48nEAVP
 
-[2025-11-29 22:10:12](https://bsky.app/profile/reuters.com/post/3m6rhvq7urv2d)
-
----
-
-@en.afp.com
-
-🇮🇩 🇹🇭 🇲🇾 The death toll from devastating floods and landslides in Southeast Asia climbed past 400 as clean-up and search-and-rescue operations got underway in Indonesia, Thailand and Malaysia.  
-➡️ u.afp.com/Sh8m
-
-[2025-11-29 22:10:02](https://bsky.app/profile/en.afp.com/post/3m6rhvg6xri2x)
-
----
-
-@reuters.com
-
-Spain's SailGP final chances ebb in Abu Dhabi's light airs reut.rs/441i6Zs
-
-[2025-11-29 22:05:12](https://bsky.app/profile/reuters.com/post/3m6rhmrl5tf2k)
-
----
-
-@usatoday.com
-
-President Trump's "choices of words have consequences," wrote Indiana Sen. Mike Bohacek, whose daughter has Down syndrome.
-
-[2025-11-29 22:00:58](https://bsky.app/profile/usatoday.com/post/3m6rhf76e6x2q)
-
----
-
-@apnews.com
-
-The Las Vegas Raiders and Los Angeles Chargers find themselves in very different places going into their game in Inglewood, California, on Sunday.
-
-[2025-11-29 22:00:26](https://bsky.app/profile/apnews.com/post/3m6rheaojci2h)
+[2025-11-29 22:45:11](https://bsky.app/profile/reuters.com/post/3m6rjuc46hw2d)
 
 ---
 
 @cnbc.com
 
-With $1.5 million saved at 37, Florence Poirel shares the spending habits that helped her build wealth before her "mini retirement."
+December will begin with investors owning little stock. Is a year-end rally at play?
 
-[2025-11-29 22:00:25](https://bsky.app/profile/cnbc.com/post/3m6rheamwhk23)
+[2025-11-29 22:42:32](https://bsky.app/profile/cnbc.com/post/3m6rjpk3hb32q)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+ガザ地区当局 戦闘開始以降の死者 7万人超えたと発表
+https://news.web.nhk/newsweb/na/na-k10014989871000
+
+[2025-11-29 22:42:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6rjoqcpia2g)
+
+---
+
+@financialtimes.com
+
+Trump says Venezuela airspace to be closed on.ft.com/44F3q2e
+
+[2025-11-29 22:41:15](https://bsky.app/profile/financialtimes.com/post/3m6rjnan2lt26)
+
+---
+
+@en.afp.com
+
+🇨🇳 Chinese humanoid robot's 3-day walk sets world record
+
+A Chinese humanoid robot has completed a three-day, 100-kilometre trek, the longest reported distance ever walked by a humanoid machine.
+
+[2025-11-29 22:40:34](https://bsky.app/profile/en.afp.com/post/3m6rjlz5xc62x)
+
+---
+
+@reuters.com
+
+U.S. consumers spent $11.8 billion on Black Friday, says Adobe Analytics reut.rs/3KlLpPJ
+
+[2025-11-29 22:40:14](https://bsky.app/profile/reuters.com/post/3m6rjlgvgdh2i)
+
+---
+
+@reuters.com
+
+Death toll in Sri Lanka rises to 153 after Cyclone Ditwah reut.rs/4p6ia2i
+
+[2025-11-29 22:35:10](https://bsky.app/profile/reuters.com/post/3m6rjceujs62k)
+
+---
+
+@nikkei.com
+
+名古屋の名門｢五摂家｣､リニア後の都市競争へ一丸
+www.nikkei.com/article/DGXZQO...
+
+ナゴヤ圏に近づく「黒船」。リニア中央新幹線の開通によって「東京にも大阪にも日帰りで行ける」という優位性が薄れるのでは――。
+
+危機感を持った名古屋鉄道が各社に呼びかけ、「五摂家」と称される重鎮企業が魅力向上へと動き出しました。
+
+[2025-11-29 22:31:18](https://bsky.app/profile/nikkei.com/post/3m6rj3hk3he2j)
 
 ---
 
