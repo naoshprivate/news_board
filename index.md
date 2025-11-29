@@ -1,9 +1,9 @@
-# [2025-11-30 07:10 updated](2025_11_30.md)
+# [2025-11-30 07:30 updated](2025_11_30.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Reports: Orioles sign closer Ryan Helsley to 2-year contract reut.rs/4rKCBE3 <a href="https://bsky.app/profile/reuters.com/post/3m6sfsei4cf2o" target="_blank">reuters.com</a> (2025-11-30 07:05:11)</span><span style="padding-right:50px;">The Wiggles issue statement after appearing in Ecstasy music video <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6sfrusowv27" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-11-30 07:04:54)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:山梨県東部・富士五湖, 深さ:20km マグニチュード:2.6, 最大震度:1 📍https://www.google.com/maps?q=35.5,139.0&ll=35.5,139.0&z=7&t=h 地震発生日時:2025-11-30 07:00頃 (10倍速▶120s→12s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m6sfpizy4n27" target="_blank">sokuho.news</a> (2025-11-30 07:03:36)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  7時0分頃、山梨県で最大震度1の地震を観測しました。 震源:山梨県東部・富士五湖, 深さ:20km, 規模:M2.6 この地震による津波の心配はありません。 (2025-11-30 07:03:09) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/11/30/2025-11-30-07-00-35.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3m6sforowpc26" target="_blank">sokuho.news</a> (2025-11-30 07:03:11)</span><span style="padding-right:50px;">The No. 1 Ohio State Buckeyes earned a 27-9 win over the No. 15 Michigan Wolverines in a Week 14 Big Ten game. Here are the highlights. <a href="https://bsky.app/profile/usatoday.com/post/3m6sfjpzlkk2m" target="_blank">usatoday.com</a> (2025-11-30 07:00:22)</span>
+<span style="padding-right:50px;">トム・ストッパードさん死去　世界的な英劇作家 www.nikkei.com/article/DGXZQO...  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m6sgzwi57h2l" target="_blank">nikkei.com</a> (2025-11-30 07:27:19)</span><span style="padding-right:50px;">香港 高層住宅火災 治安機関“混乱たくらむもの厳罰受ける” https://news.web.nhk/newsweb/na/na-k10014989881000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6sgzmr4xx2n" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-30 07:27:06)</span><span style="padding-right:50px;">京急線 上大岡～金沢文庫で運転見合わせ 人身事故の影響 https://news.web.nhk/newsweb/na/na-k10014989951000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6sgzhrekh23" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-30 07:27:02)</span><span style="padding-right:50px;">North Korea's Kim stresses Air Force's nuclear war deterrence on its 80th anniversary reut.rs/4paTmXb <a href="https://bsky.app/profile/reuters.com/post/3m6sgw3yxm42e" target="_blank">reuters.com</a> (2025-11-30 07:25:10)</span><span style="padding-right:50px;">The National Oceanic and Atmospheric Administration predicts a Kp index of four out of nine Saturday night.  <a href="https://bsky.app/profile/forbes.com/post/3m6sgmx366j2d" target="_blank">forbes.com</a> (2025-11-30 07:20:03)</span>
   </div>
 </div>
 
@@ -32,106 +32,100 @@
 
 ## News Headlines
 
-1. オリオールズ、抑えのヘルズリーと2年契約
-2. 山梨県東部・富士五湖で震度1の地震
-3. オハイオ州立大学、ミシガン大学に勝利
-4. トランプ政権、コーヒーなど100品目以上の関税引き下げ
-5. ウォルマート製品、キャンプ用ストーブと子供用ヘルメットをリコール
-6. エアバス機に異常、世界の航空便に混乱、ANAも一部欠航
+1. トム・ストッパード氏死去、世界的劇作家
+2. 香港高層住宅火災、治安機関が厳罰警告
+3. 京急線、人身事故で運転見合わせ
+4. 北朝鮮、空軍力で核戦争抑止強調
+5. インフルエンザ流行、例年より1か月早く
+6. エアバス機に異常、世界の航空便混乱
 
 ----
 
+@nikkei.com
+
+トム・ストッパードさん死去　世界的な英劇作家
+www.nikkei.com/article/DGXZQO...
+
+#ニュース
+
+[2025-11-30 07:27:19](https://bsky.app/profile/nikkei.com/post/3m6sgzwi57h2l)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+香港 高層住宅火災 治安機関“混乱たくらむもの厳罰受ける”
+https://news.web.nhk/newsweb/na/na-k10014989881000
+
+[2025-11-30 07:27:06](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6sgzmr4xx2n)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+京急線 上大岡～金沢文庫で運転見合わせ 人身事故の影響
+https://news.web.nhk/newsweb/na/na-k10014989951000
+
+[2025-11-30 07:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6sgzhrekh23)
+
+---
+
 @reuters.com
 
-Reports: Orioles sign closer Ryan Helsley to 2-year contract reut.rs/4rKCBE3
+North Korea's Kim stresses Air Force's nuclear war deterrence on its 80th anniversary reut.rs/4paTmXb
 
-[2025-11-30 07:05:11](https://bsky.app/profile/reuters.com/post/3m6sfsei4cf2o)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-The Wiggles issue statement after appearing in Ecstasy music video
-
-[2025-11-30 07:04:54](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6sfrusowv27)
+[2025-11-30 07:25:10](https://bsky.app/profile/reuters.com/post/3m6sgw3yxm42e)
 
 ---
 
-@sokuho.news
+@forbes.com
 
-🔔防災科研より【強震モニタ】動画です。
+The National Oceanic and Atmospheric Administration predicts a Kp index of four out of nine Saturday night. 
 
-震源:山梨県東部・富士五湖, 深さ:20km
-マグニチュード:2.6, 最大震度:1
-📍https://www.google.com/maps?q=35.5,139.0&ll=35.5,139.0&z=7&t=h
-地震発生日時:2025-11-30 07:00頃
-(10倍速▶120s→12s) #地震
-
-[2025-11-30 07:03:36](https://bsky.app/profile/sokuho.news/post/3m6sfpizy4n27)
+[2025-11-30 07:20:03](https://bsky.app/profile/forbes.com/post/3m6sgmx366j2d)
 
 ---
 
-@sokuho.news
+@reuters.com
 
-🔔気象庁より【地震速報】です。
+Nicaraguan authorities release about 40 political critics from prison - political activists reut.rs/3MeNAoF
 
-7時0分頃、山梨県で最大震度1の地震を観測しました。
-震源:山梨県東部・富士五湖, 深さ:20km, 規模:M2.6
-この地震による津波の心配はありません。
-(2025-11-30 07:03:09) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/11/30/2025-11-30-07-00-35.html?xlarge_image=1
+[2025-11-30 07:15:18](https://bsky.app/profile/reuters.com/post/3m6sgegup6o2k)
 
-[2025-11-30 07:03:11](https://bsky.app/profile/sokuho.news/post/3m6sforowpc26)
+---
+
+@reuters.com
+
+Sorloth double fires Atletico past bottom side Oviedo reut.rs/3MeNA89
+
+[2025-11-30 07:15:16](https://bsky.app/profile/reuters.com/post/3m6sgeep2xg2d)
 
 ---
 
 @usatoday.com
 
-The No. 1 Ohio State Buckeyes earned a 27-9 win over the No. 15 Michigan Wolverines in a Week 14 Big Ten game. Here are the highlights.
+Voyager 1, which launched in 1977 and explored Jupiter, Saturn and points beyond, will reach a light-day milestone in November 2026 when it becomes the first craft to travel 16.1 billion miles from Earth.
 
-[2025-11-30 07:00:22](https://bsky.app/profile/usatoday.com/post/3m6sfjpzlkk2m)
+Read more: bit.ly/4amNLbv
 
----
-
-@aljazeera.com
-
-Umaro Sissoco Embalo arrives in the Republic of Congo after first seeking refuge in Senegal following this week's coup.
-
-[2025-11-30 07:00:19](https://bsky.app/profile/aljazeera.com/post/3m6sfjntoc52f)
-
----
-
-@apnews.com
-
-The temporary Olympic Village in Cortina d'Ampezzo that will house up to 1,400 athletes and other team members during the Milan Cortina Games consists of nearly 400 rented mobile homes arranged in close proximity to one another on a humid valley floor.
-
-[2025-11-30 07:00:14](https://bsky.app/profile/apnews.com/post/3m6sfjixqdk2p)
-
----
-
-@bloomberg.com
-
-Investor hype over Chinese robotics stocks is giving way to deepening unease, with the latest government warning against a potential bubble bringing fresh scrutiny to the sector’s lofty valuations.
-
-[2025-11-30 07:00:11](https://bsky.app/profile/bloomberg.com/post/3m6sfjfmpiy2d)
-
----
-
-@washingtonpost.com
-
-President Trump’s latest move cut tariffs on over 100 products, including coffee, beef, bananas and orange juice.
-
-While the reduced tariffs may ease food inflation, shoppers are unlikely to see major price drops in stores.
-
-[2025-11-30 07:00:08](https://bsky.app/profile/washingtonpost.com/post/3m6sfjd3ujz2e)
+[2025-11-30 07:15:09](https://bsky.app/profile/usatoday.com/post/3m6sge6dinb2d)
 
 ---
 
 @nytimes.com
 
-Top negotiators for President Trump plan to meet with Ukrainian officials in Florida on Sunday to discuss a possible peace settlement to halt Russia’s invasion of Ukraine, according to a senior U.S. official.
+More than a dozen candidates, as well as hundreds of state and county election officials across Texas, are waiting for the Supreme Court to decide which congressional map will be used in Texas races in 2026, the old one drawn by Republicans in 2021 or the new one drawn by Republicans this summer.
 
-[2025-11-30 07:00:04](https://bsky.app/profile/nytimes.com/post/3m6sfj7bkc62x)
+[2025-11-30 07:15:05](https://bsky.app/profile/nytimes.com/post/3m6sge2nlgj2h)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+インフルエンザ 去年より約1か月早く流行 特に子どもで広がる
+https://news.web.nhk/newsweb/na/na-k10014989821000
+
+[2025-11-30 07:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6sgdzgqbz2r)
 
 ---
 
