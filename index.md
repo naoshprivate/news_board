@@ -1,9 +1,9 @@
-# [2025-11-29 21:10 updated](2025_11_29.md)
+# [2025-11-29 21:30 updated](2025_11_29.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">JR中央・総武線 各駅停車 中央線快速 人身事故で運転見合わせ https://news.web.nhk/newsweb/na/na-k10014989851000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6reigia5524" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-29 21:09:03)</span><span style="padding-right:50px;">'Untold story' of Charlie Munger's last years <a href="https://bsky.app/profile/cnbc.com/post/3m6re4aw7lm2s" target="_blank">cnbc.com</a> (2025-11-29 21:02:16)</span><span style="padding-right:50px;">「もっと働きたい人」6%どまり　厚労省試算 www.nikkei.com/article/DGXZQO...  労働力確保に苦しむ企業の不満を受け、与野党の一部で残業時間の規制緩和を求める声があがっています。  ただ調査では就業時間を「変えたくない」と「減らしたい」が合わせて全体の9割以上。  増やしたい人の約半分は、所定労働時間が週35時間未満かつ年収が200万円未満でした。  パートやアルバイトで働く女性を中心に「年収の壁」を気にせず働きたい層が多いと厚労省はみています。  2025年10月 #注目された記事 <a href="https://bsky.app/profile/nikkei.com/post/3m6re2ido7h2w" target="_blank">nikkei.com</a> (2025-11-29 21:01:17)</span><span style="padding-right:50px;">China guides banks, insurers to fully provide financial services after Hong Kong fire reut.rs/48FX2u6 <a href="https://bsky.app/profile/reuters.com/post/3m6rdzd73uz2w" target="_blank">reuters.com</a> (2025-11-29 21:00:38)</span><span style="padding-right:50px;">When does aging really shift into overdrive? A new study suggests it may be sooner than you think. <a href="https://bsky.app/profile/usatoday.com/post/3m6rdz6cgtv2m" target="_blank">usatoday.com</a> (2025-11-29 21:00:33)</span>
+<span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:福島県中通り, 深さ:90km マグニチュード:3.3, 最大震度:2 📍https://www.google.com/maps?q=37.5,140.5&ll=37.5,140.5&z=7&t=h 地震発生日時:2025-11-29 21:23頃 (10倍速▶150s→15s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m6rfhyhl4f2y" target="_blank">sokuho.news</a> (2025-11-29 21:26:44)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  21時23分頃、福島県・茨城県で最大震度2の地震を観測しました。 震源:福島県中通り, 深さ:90km, 規模:M3.3 この地震による津波の心配はありません。 (2025-11-29 21:26:13) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/11/29/2025-11-29-21-23-22.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3m6rfh4uobt2g" target="_blank">sokuho.news</a> (2025-11-29 21:26:14)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】京都・先斗町で火災 「調理場から出火して2階まで燃えている」と通報 賑わう京都、夜の繁華街で (2025-11-29 21:21:27) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6rff3trrw2e" target="_blank">sokuho.news</a> (2025-11-29 21:25:06)</span><span style="padding-right:50px;">競泳 ジャパンオープン 西川我咲 男子400m個人メドレー初優勝 https://news.web.nhk/newsweb/na/na-k10014989811000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6rfdazpbw2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-29 21:24:03)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】京都・先斗町で火災 飲食店が立ち並ぶ繁華街に消防車24台が出動 今のところけが人の情報はなし (2025-11-29 21:10) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6rf5g5ppb24" target="_blank">sokuho.news</a> (2025-11-29 21:20:49)</span>
   </div>
 </div>
 
@@ -32,110 +32,113 @@
 
 ## News Headlines
 
-1. JR中央・総武線、人身事故で運転見合わせ
-2. 香港高層住宅火災、128人死亡
-3. インドネシア洪水、死者303人に
-4. Z世代、35％が週休3日を希望
-5. 害獣キョン、おいしく駆除で需要開拓
-6. オジエ、WRCでローブに並ぶ9度目の世界タイトル
+1. 福島県・茨城県で震度2の地震発生、津波の心配なし
+2. 京都・先斗町で火災発生、飲食店が立ち並ぶ繁華街
+3. 競泳ジャパンオープン、西川我咲が男子400m個人メドレーで初優勝
+4. 中国、香港火災を受け全国で高層建築物の検査開始
+5. 厚労省試算：「もっと働きたい人」は6%どまり
+6. オジエ、世界ラリー選手権で9度目の優勝、ローブに並ぶ
 
 ----
 
+@sokuho.news
+
+🔔防災科研より【強震モニタ】動画です。
+
+震源:福島県中通り, 深さ:90km
+マグニチュード:3.3, 最大震度:2
+📍https://www.google.com/maps?q=37.5,140.5&ll=37.5,140.5&z=7&t=h
+地震発生日時:2025-11-29 21:23頃
+(10倍速▶150s→15s) #地震
+
+[2025-11-29 21:26:44](https://bsky.app/profile/sokuho.news/post/3m6rfhyhl4f2y)
+
+---
+
+@sokuho.news
+
+🔔気象庁より【地震速報】です。
+
+21時23分頃、福島県・茨城県で最大震度2の地震を観測しました。
+震源:福島県中通り, 深さ:90km, 規模:M3.3
+この地震による津波の心配はありません。
+(2025-11-29 21:26:13) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/11/29/2025-11-29-21-23-22.html?xlarge_image=1
+
+[2025-11-29 21:26:14](https://bsky.app/profile/sokuho.news/post/3m6rfh4uobt2g)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】京都・先斗町で火災 「調理場から出火して2階まで燃えている」と通報 賑わう京都、夜の繁華街で
+(2025-11-29 21:21:27) #ニュース
+
+[2025-11-29 21:25:06](https://bsky.app/profile/sokuho.news/post/3m6rff3trrw2e)
+
+---
+
 @nhknewsunofficial.bsky.social
 
-JR中央・総武線 各駅停車 中央線快速 人身事故で運転見合わせ
-https://news.web.nhk/newsweb/na/na-k10014989851000
+競泳 ジャパンオープン 西川我咲 男子400m個人メドレー初優勝
+https://news.web.nhk/newsweb/na/na-k10014989811000
 
-[2025-11-29 21:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6reigia5524)
-
----
-
-@cnbc.com
-
-'Untold story' of Charlie Munger's last years
-
-[2025-11-29 21:02:16](https://bsky.app/profile/cnbc.com/post/3m6re4aw7lm2s)
+[2025-11-29 21:24:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6rfdazpbw2p)
 
 ---
 
-@nikkei.com
+@sokuho.news
 
-「もっと働きたい人」6%どまり　厚労省試算
-www.nikkei.com/article/DGXZQO...
+🛎️FNNより【速報】です。
 
-労働力確保に苦しむ企業の不満を受け、与野党の一部で残業時間の規制緩和を求める声があがっています。
+【速報】京都・先斗町で火災 飲食店が立ち並ぶ繁華街に消防車24台が出動 今のところけが人の情報はなし
+(2025-11-29 21:10) #ニュース
 
-ただ調査では就業時間を「変えたくない」と「減らしたい」が合わせて全体の9割以上。
-
-増やしたい人の約半分は、所定労働時間が週35時間未満かつ年収が200万円未満でした。
-
-パートやアルバイトで働く女性を中心に「年収の壁」を気にせず働きたい層が多いと厚労省はみています。
-
-2025年10月 #注目された記事
-
-[2025-11-29 21:01:17](https://bsky.app/profile/nikkei.com/post/3m6re2ido7h2w)
-
----
-
-@reuters.com
-
-China guides banks, insurers to fully provide financial services after Hong Kong fire reut.rs/48FX2u6
-
-[2025-11-29 21:00:38](https://bsky.app/profile/reuters.com/post/3m6rdzd73uz2w)
-
----
-
-@usatoday.com
-
-When does aging really shift into overdrive? A new study suggests it may be sooner than you think.
-
-[2025-11-29 21:00:33](https://bsky.app/profile/usatoday.com/post/3m6rdz6cgtv2m)
+[2025-11-29 21:20:49](https://bsky.app/profile/sokuho.news/post/3m6rf5g5ppb24)
 
 ---
 
 @en.afp.com
 
-🥇 Sebastien Ogier won a ninth world rally title on Saturday to draw level with the record haul of his French compatriot Sebastien Loeb. 
-#AFPSports
-➡️ u.afp.com/Sh8E
+🇯🇵 The Japanese students turning walking into a viral spectacle
 
-[2025-11-29 21:00:10](https://bsky.app/profile/en.afp.com/post/3m6rdyiavwi23)
+For more than half a century, students at Nippon Sport Science University have captivated audiences with their synchronised walking -- a practice known as Shudan Kodo, meaning "collective action".
+
+[2025-11-29 21:20:46](https://bsky.app/profile/en.afp.com/post/3m6rf5dq6hb2j)
+
+---
+
+@wsj.com
+
+Teenagers are diving into stock markets, with some encouraged by parents who wished they started investing earlier.
+
+[2025-11-29 21:16:27](https://bsky.app/profile/wsj.com/post/3m6revmjyak2t)
+
+---
+
+@usatoday.com
+
+Want to Buy American? These 8 U.S. manufacturers have found ways to compete against a rising tide of imports.
+
+[2025-11-29 21:15:50](https://bsky.app/profile/usatoday.com/post/3m6reujf3s22j)
+
+---
+
+@cbsnews.com
+
+Hong Kong's deadliest fire in decades has raised questions about corruption and negligence in the renovations of the apartment complex where at least 128 people died. cbsn.ws/3KfOkcK 
+
+[2025-11-29 21:15:01](https://bsky.app/profile/cbsnews.com/post/3m6ret2pap52b)
 
 ---
 
 @financialtimes.com
 
-What did Napoleon smell like?
+China launches nationwide high-rise inspections after deadly Hong Kong fire on.ft.com/3M92xss
 
-Lost early formulas of world famous fragrances are painstakingly recreated at the Osmothèque in Versailles
-on.ft.com/4pdiQ6m
-
-[2025-11-29 21:00:04](https://bsky.app/profile/financialtimes.com/post/3m6rdyco6qd2n)
-
----
-
-@nhknewsunofficial.bsky.social
-
-京都市の繁華街で火事の通報 飲食店か
-https://news.web.nhk/newsweb/na/na-k10014989841000
-
-[2025-11-29 20:57:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6rdswttrr2u)
-
----
-
-@reuters.com
-
-England's Wood likely to miss second Ashes test due to sore knee, reports say reut.rs/43WkDnJ
-
-[2025-11-29 20:50:14](https://bsky.app/profile/reuters.com/post/3m6rdgq5t4v2d)
-
----
-
-@npr.org
-
-Scientists searching for new ways to combat cancer think they may have uncovered a promising new lead in the DNA of the bowhead whale.
-
-[2025-11-29 20:47:53](https://bsky.app/profile/npr.org/post/3m6rdcjpscs2h)
+[2025-11-29 21:11:17](https://bsky.app/profile/financialtimes.com/post/3m6remey2gl2l)
 
 ---
 
