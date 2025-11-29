@@ -1,9 +1,9 @@
-# [2025-11-29 19:50 updated](2025_11_29.md)
+# [2025-11-29 20:10 updated](2025_11_29.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Georgia arrests opposition figure for attempted arson of government building reut.rs/48q83yi <a href="https://bsky.app/profile/reuters.com/post/3m6r7sgx4l52d" target="_blank">reuters.com</a> (2025-11-29 19:45:12)</span><span style="padding-right:50px;">香港 高層住宅火災 128人死亡確認 今も多くの人と連絡取れず https://news.web.nhk/newsweb/na/na-k10014989511000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6r7sa2flf2g" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-29 19:45:02)</span><span style="padding-right:50px;">2025 sporting moments in pictures reut.rs/3M4Sm8l <a href="https://bsky.app/profile/reuters.com/post/3m6r7jj5tuy2k" target="_blank">reuters.com</a> (2025-11-29 19:40:12)</span><span style="padding-right:50px;">Major Israeli offensive has also destroyed roads, water networks and private property. <a href="https://bsky.app/profile/aljazeera.com/post/3m6r6xqxlqa23" target="_blank">aljazeera.com</a> (2025-11-29 19:30:16)</span><span style="padding-right:50px;">"Among Ukrainians, Yermak’s downfall will likely find considerable approval," Andrew Carey writes | Analysis  <a href="https://bsky.app/profile/cnn.com/post/3m6r6xd7v4e2m" target="_blank">cnn.com</a> (2025-11-29 19:30:02)</span>
+<span style="padding-right:50px;">ChatGPT was unveiled 3 years ago, kicking off the AI revolution. For investors, it did even more. <a href="https://bsky.app/profile/yahoofinance.com/post/3m6raxunnub2m" target="_blank">yahoofinance.com</a> (2025-11-29 20:06:08)</span><span style="padding-right:50px;">Australian prime minister Albanese becomes first to wed in office <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6rawf6bsg22" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-11-29 20:05:17)</span><span style="padding-right:50px;">After the death of his first wife, David Judelson married his former banker and left her millions. Was he a victim of elder abuse? Or were his children in denial that their dad had fallen in love with someone new? <a href="https://bsky.app/profile/wsj.com/post/3m6rapkomgl2p" target="_blank">wsj.com</a> (2025-11-29 20:01:29)</span><span style="padding-right:50px;">令和なコトバ「ファミレス席」　あの椅子がなぜ職場に？ www.nikkei.com/article/DGXZQO...  「テーブルを挟んでソファを向かい合わせ、ソファの背やパネルで簡易に囲んだセミクローズなオフィスの席が、こう呼ばれています」。  ファミレスの方がアイデアが湧きやすい。そんな効果も期待出来るのでしょうか。オフィスは時代によって変化しています。 <a href="https://bsky.app/profile/nikkei.com/post/3m6rap7lbn62m" target="_blank">nikkei.com</a> (2025-11-29 20:01:17)</span><span style="padding-right:50px;">"As a cardiologist, there are nine American foods you couldn’t pay me to eat," says Dr. Sanjay Bhojraj.  After years of treating heart disease, here are the common American foods that Dr. Bhojraj won't touch, and what he recommends instead. <a href="https://bsky.app/profile/cnbc.com/post/3m6ranmfubg2q" target="_blank">cnbc.com</a> (2025-11-29 20:00:24)</span>
   </div>
 </div>
 
@@ -32,100 +32,102 @@
 
 ## News Headlines
 
-1. 香港高層住宅火災、128人死亡 確認
-2. ジョージア、政府庁舎放火未遂で野党幹部を逮捕
-3. スペイン・カタルーニャで豚熱発生、公園閉鎖
-4. マレーシア科学者、ナンキンムシを犯罪捜査に活用
-5. イラクからのガス輸出、ドローン攻撃後に再開
-6. エアバス機に不具合、世界中で遅延・欠航相次ぐ
+1. ChatGPT 3周年、AI革命を加速
+2. オーストラリア首相、現職で初の結婚
+3. ファミレス席、オフィスに浸透？
+4. 心臓専門医が食べない9つのアメリカ食品
+5. イスラエル軍の攻撃続く、ガザ南部でドローン攻撃
+6. スリランカ、サイクロン被害で非常事態宣言
 
 ----
 
-@reuters.com
+@yahoofinance.com
 
-Georgia arrests opposition figure for attempted arson of government building reut.rs/48q83yi
+ChatGPT was unveiled 3 years ago, kicking off the AI revolution. For investors, it did even more.
 
-[2025-11-29 19:45:12](https://bsky.app/profile/reuters.com/post/3m6r7sgx4l52d)
-
----
-
-@nhknewsunofficial.bsky.social
-
-香港 高層住宅火災 128人死亡確認 今も多くの人と連絡取れず
-https://news.web.nhk/newsweb/na/na-k10014989511000
-
-[2025-11-29 19:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6r7sa2flf2g)
+[2025-11-29 20:06:08](https://bsky.app/profile/yahoofinance.com/post/3m6raxunnub2m)
 
 ---
 
-@reuters.com
+@bbcnews-world-rss.bsky.social
 
-2025 sporting moments in pictures reut.rs/3M4Sm8l
+Australian prime minister Albanese becomes first to wed in office
 
-[2025-11-29 19:40:12](https://bsky.app/profile/reuters.com/post/3m6r7jj5tuy2k)
-
----
-
-@aljazeera.com
-
-Major Israeli offensive has also destroyed roads, water networks and private property.
-
-[2025-11-29 19:30:16](https://bsky.app/profile/aljazeera.com/post/3m6r6xqxlqa23)
+[2025-11-29 20:05:17](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6rawf6bsg22)
 
 ---
 
-@cnn.com
+@wsj.com
 
-"Among Ukrainians, Yermak’s downfall will likely find considerable approval," Andrew Carey writes | Analysis
+After the death of his first wife, David Judelson married his former banker and left her millions. Was he a victim of elder abuse? Or were his children in denial that their dad had fallen in love with someone new?
 
-
-[2025-11-29 19:30:02](https://bsky.app/profile/cnn.com/post/3m6r6xd7v4e2m)
+[2025-11-29 20:01:29](https://bsky.app/profile/wsj.com/post/3m6rapkomgl2p)
 
 ---
 
 @nikkei.com
 
-塩麹で肉・魚を軟らかく、うま味アップ　料理を科学する
+令和なコトバ「ファミレス席」　あの椅子がなぜ職場に？
 www.nikkei.com/article/DGXZQO...
 
-（2025年10月 読まれた記事）
-#いい肉の日
+「テーブルを挟んでソファを向かい合わせ、ソファの背やパネルで簡易に囲んだセミクローズなオフィスの席が、こう呼ばれています」。
 
-[2025-11-29 19:29:17](https://bsky.app/profile/nikkei.com/post/3m6r6vxwk452k)
+ファミレスの方がアイデアが湧きやすい。そんな効果も期待出来るのでしょうか。オフィスは時代によって変化しています。
+
+[2025-11-29 20:01:17](https://bsky.app/profile/nikkei.com/post/3m6rap7lbn62m)
 
 ---
 
-@reuters.com
+@cnbc.com
 
-Catalonia closes park after swine fever outbreak reut.rs/44jkI59
+"As a cardiologist, there are nine American foods you couldn’t pay me to eat," says Dr. Sanjay Bhojraj.
 
-[2025-11-29 19:25:09](https://bsky.app/profile/reuters.com/post/3m6r6om2da72w)
+After years of treating heart disease, here are the common American foods that Dr. Bhojraj won't touch, and what he recommends instead.
+
+[2025-11-29 20:00:24](https://bsky.app/profile/cnbc.com/post/3m6ranmfubg2q)
+
+---
+
+@aljazeera.com
+
+Drone attack hits Bani Suheila in southern Gaza amid continued Israeli attacks on the enclave.
+
+[2025-11-29 20:00:18](https://bsky.app/profile/aljazeera.com/post/3m6rangv5uj2f)
+
+---
+
+@bloomberg.com
+
+An emerging political movement aims to make infrastructure, housing and growth cool for a generation of frustrated Britons. Read more: bloom.bg/4pCKfOE
+
+📷️: Erik Winther Paisley
+
+[2025-11-29 20:00:10](https://bsky.app/profile/bloomberg.com/post/3m6ran7kklb2h)
 
 ---
 
 @en.afp.com
 
-🇲🇾 Malaysian scientists recruit bed bugs as crime scene sleuths
+🇱🇰 Sri Lanka has declared a state of emergency and appealed for international assistance as the death toll from heavy rains and floods triggered by Cyclone Ditwah rose to 132, with another 176 reported missing. 
+➡️ u.afp.com/Sh86
 
-Long-loathed as itchy household pests, the blood-sucking bed bugs have revealed a darker, more intriguing potential as Malaysian scientists have discovered they can be turned into unlikely crime-busting allies.
-
-[2025-11-29 19:20:02](https://bsky.app/profile/en.afp.com/post/3m6r6fguskk2k)
-
----
-
-@npr.org
-
-Few nursing homes can care for people who need help breathing with a ventilator because of ALS and other conditions. Insurers often deny payment for the best at-home machines, and innovative solutions are endangered by Medicaid cuts. n.pr/3M3fPqx
-
-[2025-11-29 19:15:59](https://bsky.app/profile/npr.org/post/3m6r667jotr2s)
+[2025-11-29 20:00:09](https://bsky.app/profile/en.afp.com/post/3m6ran6u6kd2y)
 
 ---
 
-@reuters.com
+@cnn.com
 
-Abductors kill priest in Nigeria after a month in captivity, church leader says reut.rs/4pH4dIj
+"If Trump wins, the Fed’s vaunted independence to set interest rates without political interference could crumble," Bryan Mena writes | Analysis
 
-[2025-11-29 19:15:13](https://bsky.app/profile/reuters.com/post/3m6r64t4nj72r)
+[2025-11-29 20:00:09](https://bsky.app/profile/cnn.com/post/3m6ran6m6jo2y)
+
+---
+
+@washingtonpost.com
+
+Column: As a prosecutor, my career was spent putting away the bad guys. Two decades after working to put someone away for life, I stood beside him as his friend. Sometimes, life gives you a second chance to understand someone you once condemned.
+
+[2025-11-29 20:00:07](https://bsky.app/profile/washingtonpost.com/post/3m6ran4tl7k2j)
 
 ---
 
