@@ -1,9 +1,9 @@
-# [2025-11-29 12:50 updated](2025_11_29.md)
+# [2025-11-29 13:10 updated](2025_11_29.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】石巻市内の学校で“小型カメラで着替え”盗撮か 53歳の教師の男を逮捕 あいまいな供述 (2025-11-29 12:20) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6qieh4bvl2h" target="_blank">sokuho.news</a> (2025-11-29 12:45:46)</span><span style="padding-right:50px;">Thunder star Jalen Williams (wrist) making season debut vs. Suns reut.rs/43ZGiv7 <a href="https://bsky.app/profile/reuters.com/post/3m6qi2jo3tn2i" target="_blank">reuters.com</a> (2025-11-29 12:40:13)</span><span style="padding-right:50px;">東大病院汚職事件 贈賄側の勾留認めず 最高裁 https://news.web.nhk/newsweb/na/na-k10014989631000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6qht4htvd2g" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-29 12:36:02)</span><span style="padding-right:50px;">エッセンシャルワーカーへの転職1割どまり　待遇見劣り、人材難加速 www.nikkei.com/article/DGXZQO...  小中学校では給食出せず弁当に、路線バスは廃止・減便──。  2040年にエッセンシャルワーカー不足が500万人に迫るとの見方も。日本の生活基盤が脅かされています。 <a href="https://bsky.app/profile/nikkei.com/post/3m6qhkjxafm26" target="_blank">nikkei.com</a> (2025-11-29 12:31:17)</span><span style="padding-right:50px;">Flights to Philadelphia International resume after brief ground stop over bomb threat reut.rs/48jiO5y <a href="https://bsky.app/profile/reuters.com/post/3m6qhiyj4ff2w" target="_blank">reuters.com</a> (2025-11-29 12:30:25)</span>
+<span style="padding-right:50px;">愛媛 国の原子力総合防災訓練 地震と同時に原発事故を想定 https://news.web.nhk/newsweb/na/na-k10014989641000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6qjo4nh432g" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-29 13:09:02)</span><span style="padding-right:50px;">中国・上海で日本のアニソンを歌唱中に強制中断 www.nikkei.com/article/DGXZQO...  バンナムHDが開いたイベントで、「ONE PIECE」のテーマ曲などで知られる大槻マキさんが歌唱を強制的に中断されました。  11月30日まで3日間にわたって開く予定でしたが、29日にイベント自体の中止を発表しました。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m6qjdrdedz2i" target="_blank">nikkei.com</a> (2025-11-29 13:03:17)</span><span style="padding-right:50px;">President Donald Trump said Friday he intends to grant a “full and complete pardon” to former Honduran President Juan Orlando Hernández, a move that would erase a major US drug-trafficking conviction for a onetime US ally who is currently serving a 45-year federal prison sentence.  <a href="https://bsky.app/profile/cnn.com/post/3m6qj7q3lym2n" target="_blank">cnn.com</a> (2025-11-29 13:01:02)</span><span style="padding-right:50px;">Steelers QB Aaron Rodgers (wrist) cleared to return vs. Bills reut.rs/4isHWLS <a href="https://bsky.app/profile/reuters.com/post/3m6qj7qu75k2r" target="_blank">reuters.com</a> (2025-11-29 13:01:02)</span><span style="padding-right:50px;">We’re often inundated with relationship advice that rarely captures the complexity of what actually makes love work.  As a couples counselor, Baya Voce found that one of the most underrated signs of a healthy and resilient relationship is a concept called “mutual influence.” <a href="https://bsky.app/profile/cnbc.com/post/3m6qj6whjxx23" target="_blank">cnbc.com</a> (2025-11-29 13:00:35)</span>
   </div>
 </div>
 
@@ -32,106 +32,102 @@
 
 ## News Headlines
 
-1. 石巻市で教師が盗撮か、小型カメラで着替えを盗撮容疑
-2. 東大病院汚職事件、贈賄側の勾留認めず - 最高裁
-3. エッセンシャルワーカー不足深刻化、2040年に500万人迫る
-4. 香港高層住宅火災、128人死亡確認 - 追悼広がる
-5. 全日空、エアバス機不具合で国内線95便欠航
-6. 介護サービスの車が電柱に激突、90代利用者2人意識不明の重体
+1. 愛媛で原子力防災訓練、地震と原発事故を想定
+2. 上海アニソンイベント強制中断、主催者側が中止発表
+3. トランプ前大統領、麻薬取引で有罪の元ホンジュラス大統領に恩赦意向
+4. スリランカで洪水と地滑り、死者56人に
+5. 東大病院汚職事件、贈賄側の勾留認めず最高裁
+6. 香港高層住宅火災、128人死亡確認
 
 ----
 
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】石巻市内の学校で“小型カメラで着替え”盗撮か 53歳の教師の男を逮捕 あいまいな供述
-(2025-11-29 12:20) #ニュース
-
-[2025-11-29 12:45:46](https://bsky.app/profile/sokuho.news/post/3m6qieh4bvl2h)
-
----
-
-@reuters.com
-
-Thunder star Jalen Williams (wrist) making season debut vs. Suns reut.rs/43ZGiv7
-
-[2025-11-29 12:40:13](https://bsky.app/profile/reuters.com/post/3m6qi2jo3tn2i)
-
----
-
 @nhknewsunofficial.bsky.social
 
-東大病院汚職事件 贈賄側の勾留認めず 最高裁
-https://news.web.nhk/newsweb/na/na-k10014989631000
+愛媛 国の原子力総合防災訓練 地震と同時に原発事故を想定
+https://news.web.nhk/newsweb/na/na-k10014989641000
 
-[2025-11-29 12:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6qht4htvd2g)
+[2025-11-29 13:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6qjo4nh432g)
 
 ---
 
 @nikkei.com
 
-エッセンシャルワーカーへの転職1割どまり　待遇見劣り、人材難加速
+中国・上海で日本のアニソンを歌唱中に強制中断
 www.nikkei.com/article/DGXZQO...
 
-小中学校では給食出せず弁当に、路線バスは廃止・減便──。
+バンナムHDが開いたイベントで、「ONE PIECE」のテーマ曲などで知られる大槻マキさんが歌唱を強制的に中断されました。
 
-2040年にエッセンシャルワーカー不足が500万人に迫るとの見方も。日本の生活基盤が脅かされています。
+11月30日まで3日間にわたって開く予定でしたが、29日にイベント自体の中止を発表しました。
 
-[2025-11-29 12:31:17](https://bsky.app/profile/nikkei.com/post/3m6qhkjxafm26)
+#ニュース
+
+[2025-11-29 13:03:17](https://bsky.app/profile/nikkei.com/post/3m6qjdrdedz2i)
+
+---
+
+@cnn.com
+
+President Donald Trump said Friday he intends to grant a “full and complete pardon” to former Honduran President Juan Orlando Hernández, a move that would erase a major US drug-trafficking conviction for a onetime US ally who is currently serving a 45-year federal prison sentence. 
+
+[2025-11-29 13:01:02](https://bsky.app/profile/cnn.com/post/3m6qj7q3lym2n)
 
 ---
 
 @reuters.com
 
-Flights to Philadelphia International resume after brief ground stop over bomb threat reut.rs/48jiO5y
+Steelers QB Aaron Rodgers (wrist) cleared to return vs. Bills reut.rs/4isHWLS
 
-[2025-11-29 12:30:25](https://bsky.app/profile/reuters.com/post/3m6qhiyj4ff2w)
-
----
-
-@nhknewsunofficial.bsky.social
-
-大分 大規模火災 住宅地など鎮火で一部区域の立ち入り規制解除
-https://news.web.nhk/newsweb/na/na-k10014989651000
-
-[2025-11-29 12:30:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6qhiejx2w2b)
+[2025-11-29 13:01:02](https://bsky.app/profile/reuters.com/post/3m6qj7qu75k2r)
 
 ---
 
-@sokuho.news
+@cnbc.com
 
-🛎️JNNより【速報】です。
+We’re often inundated with relationship advice that rarely captures the complexity of what actually makes love work.
 
-【速報】宮崎市神宮西で建物火災 宮崎県立図書館の北側
-(2025-11-29 12:22:00) #ニュース
+As a couples counselor, Baya Voce found that one of the most underrated signs of a healthy and resilient relationship is a concept called “mutual influence.”
 
-[2025-11-29 12:25:45](https://bsky.app/profile/sokuho.news/post/3m6qhanko4y2e)
-
----
-
-@reuters.com
-
-Trump administration reaches deal with Northwestern University to restore funding reut.rs/4877TwW
-
-[2025-11-29 12:20:16](https://bsky.app/profile/reuters.com/post/3m6qgwtuja52o)
+[2025-11-29 13:00:35](https://bsky.app/profile/cnbc.com/post/3m6qj6whjxx23)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@aljazeera.com
 
-香港 高層住宅火災 128人死亡確認 追悼の動き広がる
-https://news.web.nhk/newsweb/na/na-k10014989511000
+Joaquin Guzman Lopez, one of four sons of the Sinaloa cartel's 'El Chapo', changes his plea to guilty, documents show.
 
-[2025-11-29 12:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6qgnkvk5h26)
+[2025-11-29 13:00:31](https://bsky.app/profile/aljazeera.com/post/3m6qj6swgbq2c)
+
+---
+
+@nbcnews.com
+
+Sri Lanka closes their government offices and schools as the death toll from floods and landslides across the country rises to 56, while more than 600 houses were damaged, officials say.
+
+[2025-11-29 13:00:15](https://bsky.app/profile/nbcnews.com/post/3m6qj6d4hnv2t)
 
 ---
 
 @apnews.com
 
-No. 5 LSU set an NCAA record with its seventh consecutive 100-point game Friday night, routing Marist 113-53 in the Reef Division semifinal game at the Paradise Jam tournament.
+The United States Soccer Federation proposed 14 American sites among 20 possible venues to host games of the 2031 Women’s World Cup, including seven U.S. stadiums to be used for next year’s men’s tournament.
 
-[2025-11-29 12:13:43](https://bsky.app/profile/apnews.com/post/3m6qgl4i3ql22)
+[2025-11-29 13:00:12](https://bsky.app/profile/apnews.com/post/3m6qj6alhol2c)
+
+---
+
+@washingtonpost.com
+
+More than three decades after its last known sighting, officials have a plan to bring back the red-cockaded woodpecker to Tennessee, as part of an effort to expand the range and population of a keystone species that once flourished across the Southeast.
+
+[2025-11-29 13:00:07](https://bsky.app/profile/washingtonpost.com/post/3m6qj63uwap23)
+
+---
+
+@reuters.com
+
+Well-known faces to join the royals for Princes Kate's annual carol service reut.rs/4pH3KWA
+
+[2025-11-29 12:50:16](https://bsky.app/profile/reuters.com/post/3m6qimicpgm2a)
 
 ---
 
