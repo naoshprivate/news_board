@@ -1,9 +1,9 @@
-# [2025-11-30 03:50 updated](2025_11_30.md)
+# [2025-11-30 04:10 updated](2025_11_30.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">I tried The Feels, a singles mixer where strangers hold each other and make deep, psychospiritual conversation. Did I fall in love? <a href="https://bsky.app/profile/usatoday.com/post/3m6s2mnwojw2j" target="_blank">usatoday.com</a> (2025-11-30 03:45:09)</span><span style="padding-right:50px;">Most dogs have some wolf DNA, scientists say. These breeds have more than others.  <a href="https://bsky.app/profile/cbsnews.com/post/3m6s2mgeljg2n" target="_blank">cbsnews.com</a> (2025-11-30 03:45:01)</span><span style="padding-right:50px;">Giants DE Kayvon Thibodeaux (shoulder) out vs. Patriots reut.rs/4pdYTw4 <a href="https://bsky.app/profile/reuters.com/post/3m6s22t7kbj2e" target="_blank">reuters.com</a> (2025-11-30 03:35:10)</span><span style="padding-right:50px;">In Opinion  President Trump’s plan to defund the Department of Education “echoes attacks by conservatives after the Civil War,” Anthony Conwright writes. “He has joined the fight against federal oversight of education as the latest steward of the Confederacy’s endeavor to preserve oligarchy.” <a href="https://bsky.app/profile/nytimes.com/post/3m6s22knkfz24" target="_blank">nytimes.com</a> (2025-11-30 03:35:02)</span><span style="padding-right:50px;">Mushrooms are a popular ingredient. But that doesn't mean they are OK for just anyone to enjoy. <a href="https://bsky.app/profile/usatoday.com/post/3m6rzsfbiph2d" target="_blank">usatoday.com</a> (2025-11-30 03:30:27)</span>
+<span style="padding-right:50px;">Bitcoin faces 3 headwinds as the cryptocurrency sits 28% below record high <a href="https://bsky.app/profile/yahoofinance.com/post/3m6s3s6f3ty2p" target="_blank">yahoofinance.com</a> (2025-11-30 04:06:08)</span><span style="padding-right:50px;">The FDA claims in an internal memo that Covid shots killed at least 10 children, a conclusion experts say was made without substantial or peer-reviewed evidence. <a href="https://bsky.app/profile/nbcnews.com/post/3m6s3qi6are2i" target="_blank">nbcnews.com</a> (2025-11-30 04:05:11)</span><span style="padding-right:50px;">5-star WR Easton Royal commits to 2027 class for Texas reut.rs/48a00qE <a href="https://bsky.app/profile/reuters.com/post/3m6s3qgfpp42e" target="_blank">reuters.com</a> (2025-11-30 04:05:09)</span><span style="padding-right:50px;">Wales coach Tandy takes lessons from record home defeat reut.rs/4pEqaaT <a href="https://bsky.app/profile/reuters.com/post/3m6s3jd3jzb2i" target="_blank">reuters.com</a> (2025-11-30 04:01:11)</span><span style="padding-right:50px;">A six-figure household income doesn’t necessarily make you rich — in many cases, it just means you’re middle class, according to a report. <a href="https://bsky.app/profile/cnbc.com/post/3m6s3jbw7uo2o" target="_blank">cnbc.com</a> (2025-11-30 04:01:09)</span>
   </div>
 </div>
 
@@ -32,95 +32,94 @@
 
 ## News Headlines
 
-1. 劇作家トム・ストッパード氏死去、88歳
-2. 大学生、感謝祭帰省で誤ってホンジュラスへ強制送還
-3. メキシコの失踪者家族、クリスマスの飾りを作成
-4. スリランカ、サイクロン被害深刻、死者150人超
-5. ロシアのドローン、モルドバ領空侵犯で航空脅威
-6. ウクライナ、ロシアの夜間攻撃で死傷者多数
+1.  ビットコイン、過去最高値から28%下落、3つの逆風に直面
+2.  FDA内部メモ、COVIDワクチン接種で少なくとも10人の子供が死亡と主張
+3.  中西部・五大湖で大雪、感謝祭の旅行者に影響
+4.  ブラックフライデー、インフレにも関わらずオンライン支出が大幅増
+5.  劇作家トム・ストッパード氏死去、88歳
+6.  Costcoの1.5ドルのホットドッグ、インフレにも負けず人気継続
 
 ----
 
+@yahoofinance.com
+
+Bitcoin faces 3 headwinds as the cryptocurrency sits 28% below record high
+
+[2025-11-30 04:06:08](https://bsky.app/profile/yahoofinance.com/post/3m6s3s6f3ty2p)
+
+---
+
+@nbcnews.com
+
+The FDA claims in an internal memo that Covid shots killed at least 10 children, a conclusion experts say was made without substantial or peer-reviewed evidence.
+
+[2025-11-30 04:05:11](https://bsky.app/profile/nbcnews.com/post/3m6s3qi6are2i)
+
+---
+
+@reuters.com
+
+5-star WR Easton Royal commits to 2027 class for Texas reut.rs/48a00qE
+
+[2025-11-30 04:05:09](https://bsky.app/profile/reuters.com/post/3m6s3qgfpp42e)
+
+---
+
+@reuters.com
+
+Wales coach Tandy takes lessons from record home defeat reut.rs/4pEqaaT
+
+[2025-11-30 04:01:11](https://bsky.app/profile/reuters.com/post/3m6s3jd3jzb2i)
+
+---
+
+@cnbc.com
+
+A six-figure household income doesn’t necessarily make you rich — in many cases, it just means you’re middle class, according to a report.
+
+[2025-11-30 04:01:09](https://bsky.app/profile/cnbc.com/post/3m6s3jbw7uo2o)
+
+---
+
+@apnews.com
+
+A major snowstorm in the Midwest and Great Lakes is affecting Thanksgiving travelers.
+
+[2025-11-30 04:00:56](https://bsky.app/profile/apnews.com/post/3m6s3ivbpbw2j)
+
+---
+
 @usatoday.com
 
-I tried The Feels, a singles mixer where strangers hold each other and make deep, psychospiritual conversation. Did I fall in love?
+That's "Emergency!" (and "Road House") star Kevin Tighe shocking as evil Roy More in "One Battle After Another." How 81-year-old actor got there.
 
-[2025-11-30 03:45:09](https://bsky.app/profile/usatoday.com/post/3m6s2mnwojw2j)
+[2025-11-30 04:00:50](https://bsky.app/profile/usatoday.com/post/3m6s3ip26ts2x)
+
+---
+
+@nbcnews.com
+
+Some Apple models at their lowest prices ever. @nbcselect.nbcnews.com has everything you need to make the right choice.
+
+[2025-11-30 04:00:33](https://bsky.app/profile/nbcnews.com/post/3m6s3i7fqld2h)
+
+---
+
+@washingtonpost.com
+
+Jonathan White fought the first Trump administration’s efforts to separate migrant families.
+
+Now, White says he has a new mission — challenging Democrats that he believes aren’t doing enough to fight the Trump administration.
+
+[2025-11-30 04:00:13](https://bsky.app/profile/washingtonpost.com/post/3m6s3hmibjg23)
 
 ---
 
 @cbsnews.com
 
-Most dogs have some wolf DNA, scientists say. These breeds have more than others. 
+Despite wider economic uncertainty hovering above this year's holiday season, shoppers turned out in big numbers for Black Friday — spending billions of dollars both in stores and online.
 
-[2025-11-30 03:45:01](https://bsky.app/profile/cbsnews.com/post/3m6s2mgeljg2n)
-
----
-
-@reuters.com
-
-Giants DE Kayvon Thibodeaux (shoulder) out vs. Patriots reut.rs/4pdYTw4
-
-[2025-11-30 03:35:10](https://bsky.app/profile/reuters.com/post/3m6s22t7kbj2e)
-
----
-
-@nytimes.com
-
-In Opinion
-
-President Trump’s plan to defund the Department of Education “echoes attacks by conservatives after the Civil War,” Anthony Conwright writes. “He has joined the fight against federal oversight of education as the latest steward of the Confederacy’s endeavor to preserve oligarchy.”
-
-[2025-11-30 03:35:02](https://bsky.app/profile/nytimes.com/post/3m6s22knkfz24)
-
----
-
-@usatoday.com
-
-Mushrooms are a popular ingredient. But that doesn't mean they are OK for just anyone to enjoy.
-
-[2025-11-30 03:30:27](https://bsky.app/profile/usatoday.com/post/3m6rzsfbiph2d)
-
----
-
-@cnn.com
-
-A college freshman trying to fly from Boston to Texas to surprise her family for Thanksgiving was instead deported to Honduras in violation of a court order, according to her attorney.
-https://cnn.it/4oqqiJU
-
-[2025-11-30 03:30:06](https://bsky.app/profile/cnn.com/post/3m6rzrqne2j2q)
-
----
-
-@reuters.com
-
-Barrick employees released from Mali prison after deal, sources say reut.rs/4iuYtPh
-
-[2025-11-30 03:25:12](https://bsky.app/profile/reuters.com/post/3m6rziy67jx27)
-
----
-
-@npr.org
-
-<strong><span style="color: red;">JUST IN:</span> Acclaimed playwright Tom Stoppard dies at 88</strong>
-
-[2025-11-30 03:16:02](https://bsky.app/profile/npr.org/post/3m6ryym4x4y2a)
-
----
-
-@reuters.com
-
-Moldova says Russian drones entered its airspace again, posing aviation threat reut.rs/4irVCql
-
-[2025-11-30 03:15:12](https://bsky.app/profile/reuters.com/post/3m6ryx3wb4g27)
-
----
-
-@usatoday.com
-
-For 40 years, Costco has had its inflation-defying $1.50 hot dog deal. It's more popular than ever now that America is facing an affordability crisis
-
-[2025-11-30 03:15:10](https://bsky.app/profile/usatoday.com/post/3m6ryx23isb2u)
+[2025-11-30 04:00:01](https://bsky.app/profile/cbsnews.com/post/3m6s3haiy7s26)
 
 ---
 
