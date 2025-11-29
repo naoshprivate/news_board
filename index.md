@@ -1,9 +1,9 @@
-# [2025-11-29 15:30 updated](2025_11_29.md)
+# [2025-11-29 15:50 updated](2025_11_29.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">「インナーマッスル」を鍛える　力入れすぎずトレーニング www.nikkei.com/article/DGXZQO...  （2025年6月 読まれた記事） #いい肉の日 <a href="https://bsky.app/profile/nikkei.com/post/3m6qrit5h3q2l" target="_blank">nikkei.com</a> (2025-11-29 15:29:17)</span><span style="padding-right:50px;">‘Too little, too late’: advisers to the rich react to UK Budget’s non-dom tax cap on.ft.com/48mQb7n <a href="https://bsky.app/profile/financialtimes.com/post/3m6qrilnaw226" target="_blank">financialtimes.com</a> (2025-11-29 15:29:09)</span><span style="padding-right:50px;">Britain hockey great Sherwani dies aged 63 reut.rs/4rptcBq <a href="https://bsky.app/profile/reuters.com/post/3m6qrbh26ta2k" target="_blank">reuters.com</a> (2025-11-29 15:25:09)</span><span style="padding-right:50px;">Morkel says white-ball switch will help India regroup after test defeat reut.rs/3XXEa3w <a href="https://bsky.app/profile/reuters.com/post/3m6qqpoey6w2i" target="_blank">reuters.com</a> (2025-11-29 15:15:13)</span><span style="padding-right:50px;">Are UK Christmas markets as good as German ones? Here's what we found <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6qqpik6e32h" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-11-29 15:15:06)</span>
+<span style="padding-right:50px;">Top 25 basketball roundup: No. 5 UConn rolls past No. 13 Illinois reut.rs/3XWc88B <a href="https://bsky.app/profile/reuters.com/post/3m6qsfcyvqb2e" target="_blank">reuters.com</a> (2025-11-29 15:45:13)</span><span style="padding-right:50px;">Lenders gear up for loosening of capital rules by Bank of England on.ft.com/3KfGBeK <a href="https://bsky.app/profile/financialtimes.com/post/3m6qrupww3w2l" target="_blank">financialtimes.com</a> (2025-11-29 15:35:56)</span><span style="padding-right:50px;">PWHL's expansion Seattle team breaks attendance record reut.rs/3XqPq8t <a href="https://bsky.app/profile/reuters.com/post/3m6qrtci3gj2e" target="_blank">reuters.com</a> (2025-11-29 15:35:08)</span><span style="padding-right:50px;">「インナーマッスル」を鍛える　力入れすぎずトレーニング www.nikkei.com/article/DGXZQO...  （2025年6月 読まれた記事） #いい肉の日 <a href="https://bsky.app/profile/nikkei.com/post/3m6qrit5h3q2l" target="_blank">nikkei.com</a> (2025-11-29 15:29:17)</span><span style="padding-right:50px;">‘Too little, too late’: advisers to the rich react to UK Budget’s non-dom tax cap on.ft.com/48mQb7n <a href="https://bsky.app/profile/financialtimes.com/post/3m6qrilnaw226" target="_blank">financialtimes.com</a> (2025-11-29 15:29:09)</span>
   </div>
 </div>
 
@@ -32,14 +32,38 @@
 
 ## News Headlines
 
-1. インナーマッスル鍛え方：力みすぎず効果的に
-2. 富裕層アドバイザー、英予算案の税制上限に「遅すぎる」と批判
-3. 銀、2025年に史上最高値更新 – 今後の上昇要因とは？
-4. トランプ氏、報復対象を追跡
-5. 福島・郡山の公園にクマ出没、学校・住宅地周辺で警戒
-6. エアバス機、ソフト不具合でフライトに影響か
+1.  UConn大勝、イリノイ大を圧倒
+2.  PWHLシアトル、観客動員記録を更新
+3.  イギリスホッケーの英雄シェルワニ氏死去、63歳
+4.  長崎・長与町の焼き肉店で火事、消防車8台が出動
+5.  郡山市の公園で熊が出没、周辺は住宅地
+6.  香港高層住宅火災、政府への批判高まる
 
 ----
+
+@reuters.com
+
+Top 25 basketball roundup: No. 5 UConn rolls past No. 13 Illinois reut.rs/3XWc88B
+
+[2025-11-29 15:45:13](https://bsky.app/profile/reuters.com/post/3m6qsfcyvqb2e)
+
+---
+
+@financialtimes.com
+
+Lenders gear up for loosening of capital rules by Bank of England on.ft.com/3KfGBeK
+
+[2025-11-29 15:35:56](https://bsky.app/profile/financialtimes.com/post/3m6qrupww3w2l)
+
+---
+
+@reuters.com
+
+PWHL's expansion Seattle team breaks attendance record reut.rs/3XqPq8t
+
+[2025-11-29 15:35:08](https://bsky.app/profile/reuters.com/post/3m6qrtci3gj2e)
+
+---
 
 @nikkei.com
 
@@ -98,33 +122,6 @@ Silver hit record highs in 2025 – here's why the 'Devil’s metal' has further
 Liberalism can win back the working class. Here’s how on.ft.com/4p790CK
 
 [2025-11-29 15:11:09](https://bsky.app/profile/financialtimes.com/post/3m6qqifi66r2l)
-
----
-
-@reuters.com
-
-Tracking Trump’s retribution targets reut.rs/4pCQCSc
-
-[2025-11-29 15:10:13](https://bsky.app/profile/reuters.com/post/3m6qqgqeezk27)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】長崎・長与町の焼き肉店で火事 消防車8台で消火活動中 けが人はいない模様
-(2025-11-29 15:01) #ニュース
-
-[2025-11-29 15:05:32](https://bsky.app/profile/sokuho.news/post/3m6qq6euefi2d)
-
----
-
-@wsj.com
-
-As Christian artists embrace a wider variety of sounds and market songs savvily on social media, they are rapidly widening their reach 🔗 on.wsj.com/3M9H2HX
-
-[2025-11-29 15:05:30](https://bsky.app/profile/wsj.com/post/3m6qq6ctlcd22)
 
 ---
 
