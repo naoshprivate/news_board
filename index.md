@@ -1,9 +1,9 @@
-# [2025-11-29 21:50 updated](2025_11_29.md)
+# [2025-11-29 22:10 updated](2025_11_29.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">JR中央・総武線 各駅停車 中央線快速 運転再開 https://news.web.nhk/newsweb/na/na-k10014989851000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6rgo652ua2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-29 21:48:02)</span><span style="padding-right:50px;">Bank of America says these five stocks like Nvidia have room to run <a href="https://bsky.app/profile/cnbc.com/post/3m6rgiknayw2e" target="_blank">cnbc.com</a> (2025-11-29 21:44:56)</span><span style="padding-right:50px;">🛎️産経より【独自】です。  ＜独自＞インボイス負担軽減措置、期限延長見送りで調整 「8割控除」課税逃れに悪用も (2025/11/29 21:34) #ニュース https://www.sankei.com/article/20251129-XAMP5TYMSJPZNJPNEN6RA2L7LM/ <a href="https://bsky.app/profile/sokuho.news/post/3m6rgf526oj2l" target="_blank">sokuho.news</a> (2025-11-29 21:43:01)</span><span style="padding-right:50px;">Alphabet is among the most overbought stocks on Wall Street. Here are the others <a href="https://bsky.app/profile/cnbc.com/post/3m6rges5z732a" target="_blank">cnbc.com</a> (2025-11-29 21:42:50)</span><span style="padding-right:50px;">京都市の繁華街で火事 これまでにけが人や逃げ遅れの情報なし https://news.web.nhk/newsweb/na/na-k10014989841000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6rg62yv4m23" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-29 21:39:02)</span>
+<span style="padding-right:50px;">Spain's SailGP final chances ebb in Abu Dhabi's light airs reut.rs/441i6Zs <a href="https://bsky.app/profile/reuters.com/post/3m6rhmrl5tf2k" target="_blank">reuters.com</a> (2025-11-29 22:05:12)</span><span style="padding-right:50px;">President Trump's "choices of words have consequences," wrote Indiana Sen. Mike Bohacek, whose daughter has Down syndrome. <a href="https://bsky.app/profile/usatoday.com/post/3m6rhf76e6x2q" target="_blank">usatoday.com</a> (2025-11-29 22:00:58)</span><span style="padding-right:50px;">The Las Vegas Raiders and Los Angeles Chargers find themselves in very different places going into their game in Inglewood, California, on Sunday. <a href="https://bsky.app/profile/apnews.com/post/3m6rheaojci2h" target="_blank">apnews.com</a> (2025-11-29 22:00:26)</span><span style="padding-right:50px;">With $1.5 million saved at 37, Florence Poirel shares the spending habits that helped her build wealth before her "mini retirement." <a href="https://bsky.app/profile/cnbc.com/post/3m6rheamwhk23" target="_blank">cnbc.com</a> (2025-11-29 22:00:25)</span><span style="padding-right:50px;">"Google just threw another twist in the fast-changing AI race. And its biggest competitors are taking notice," writes Lisa Eadicicco | Analysis https://cnn.it/3LZwyLo <a href="https://bsky.app/profile/cnn.com/post/3m6rhe5rpzb2r" target="_blank">cnn.com</a> (2025-11-29 22:00:22)</span>
   </div>
 </div>
 
@@ -32,105 +32,106 @@
 
 ## News Headlines
 
-1. JR中央・総武線、運転再開
-2. インボイス負担軽減措置、期限延長見送りへ
-3. 京都市繁華街で火事発生
-4. 香港高層ビル火災、腐敗・過失疑惑浮上
-5. ウクライナ首都で攻撃、汚職捜査も
-6. インドネシア洪水、死者300人超
+1. スペイン、SailGPファイナル進出に暗雲
+2. 中国、香港批判に警告：火災利用なら「法で処罰」
+3. 米国でTemuとSheinの売上が急減後、再び増加
+4. インボイス負担軽減措置、期限延長見送りへ
+5. 香港高層ビル火災、中国が全国的な検査開始
+6. 京都・先斗町で火災、飲食店から出火か
 
 ----
 
-@nhknewsunofficial.bsky.social
+@reuters.com
 
-JR中央・総武線 各駅停車 中央線快速 運転再開
-https://news.web.nhk/newsweb/na/na-k10014989851000
+Spain's SailGP final chances ebb in Abu Dhabi's light airs reut.rs/441i6Zs
 
-[2025-11-29 21:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6rgo652ua2p)
-
----
-
-@cnbc.com
-
-Bank of America says these five stocks like Nvidia have room to run
-
-[2025-11-29 21:44:56](https://bsky.app/profile/cnbc.com/post/3m6rgiknayw2e)
-
----
-
-@sokuho.news
-
-🛎️産経より【独自】です。
-
-＜独自＞インボイス負担軽減措置、期限延長見送りで調整 「8割控除」課税逃れに悪用も
-(2025/11/29 21:34) #ニュース
-https://www.sankei.com/article/20251129-XAMP5TYMSJPZNJPNEN6RA2L7LM/
-
-[2025-11-29 21:43:01](https://bsky.app/profile/sokuho.news/post/3m6rgf526oj2l)
-
----
-
-@cnbc.com
-
-Alphabet is among the most overbought stocks on Wall Street. Here are the others
-
-[2025-11-29 21:42:50](https://bsky.app/profile/cnbc.com/post/3m6rges5z732a)
-
----
-
-@nhknewsunofficial.bsky.social
-
-京都市の繁華街で火事 これまでにけが人や逃げ遅れの情報なし
-https://news.web.nhk/newsweb/na/na-k10014989841000
-
-[2025-11-29 21:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6rg62yv4m23)
-
----
-
-@nikkei.com
-
-俳優・山口智子さん　気取らない味、世界で楽しむ
-www.nikkei.com/article/DGXZQO...
-
-食は夫の唐沢寿明さんとの時間をつないでくれる存在だといいます。2人は休日の過ごし方が正反対。
-
-「（旅先でも）私は何時間でも外を歩いていたいタイプだけれど、彼は部屋でずっと動画を見ている人」。
-
-30代になってから世界を旅した経験は、山口さんに食の魅力を気づかせてくれました。
-
-[2025-11-29 21:31:18](https://bsky.app/profile/nikkei.com/post/3m6rfq6gnae2e)
+[2025-11-29 22:05:12](https://bsky.app/profile/reuters.com/post/3m6rhmrl5tf2k)
 
 ---
 
 @usatoday.com
 
-First Lady Melania Trump announced the launch of "Muse Films," a production company that will debut with the upcoming documentary titled "Melania."
+President Trump's "choices of words have consequences," wrote Indiana Sen. Mike Bohacek, whose daughter has Down syndrome.
 
-[2025-11-29 21:30:22](https://bsky.app/profile/usatoday.com/post/3m6rfoia2fl2j)
-
----
-
-@aljazeera.com
-
-As Turkiye hosts pontiff, minority community figures describe a moment marked by visibility and engagement with state.
-
-[2025-11-29 21:30:19](https://bsky.app/profile/aljazeera.com/post/3m6rfofogoh2v)
+[2025-11-29 22:00:58](https://bsky.app/profile/usatoday.com/post/3m6rhf76e6x2q)
 
 ---
 
-@bloomberg.com
+@apnews.com
 
-Winter storm warnings and weather advisories stretch from Montana to western Ohio as a large swath of the region is forecast to get 6 to 12 inches (15 to 30 centimeters) of snow.
+The Las Vegas Raiders and Los Angeles Chargers find themselves in very different places going into their game in Inglewood, California, on Sunday.
 
-[2025-11-29 21:30:14](https://bsky.app/profile/bloomberg.com/post/3m6rfoan7gy2h)
+[2025-11-29 22:00:26](https://bsky.app/profile/apnews.com/post/3m6rheaojci2h)
+
+---
+
+@cnbc.com
+
+With $1.5 million saved at 37, Florence Poirel shares the spending habits that helped her build wealth before her "mini retirement."
+
+[2025-11-29 22:00:25](https://bsky.app/profile/cnbc.com/post/3m6rheamwhk23)
 
 ---
 
 @cnn.com
 
-Pope Leo XIV has made his first visit to a mosque since his election.
+"Google just threw another twist in the fast-changing AI race. And its biggest competitors are taking notice," writes Lisa Eadicicco | Analysis
+https://cnn.it/3LZwyLo
 
-[2025-11-29 21:30:07](https://bsky.app/profile/cnn.com/post/3m6rfo2hptr2n)
+[2025-11-29 22:00:22](https://bsky.app/profile/cnn.com/post/3m6rhe5rpzb2r)
+
+---
+
+@nikkei.com
+
+中国治安機関、香港当局への批判に警告　火災に乗じれば「法で処罰」
+www.nikkei.com/article/DGXZQO...
+
+中国政府が香港に設置した治安機関、国家安全維持公署が声明を発表。
+
+反中勢力らが火災の混乱を利用し、フェイクニュースで香港政府への憎悪をあおっていると指摘しました。
+
+「香港で『黒暴』を再現しようとしている」とし、2019年の大規模デモの時代に引き戻そうとする動きだと主張しました。
+
+#ニュース
+
+[2025-11-29 22:00:21](https://bsky.app/profile/nikkei.com/post/3m6rhe436wf2g)
+
+---
+
+@bloomberg.com
+
+Can Ken Burns keep his credibility as America’s most trusted storyteller? With ‘The American Revolution,’ he says he’s showing the nation’s founding principles in their “correct light.”
+
+Tap the link to read the full interview with Mishal Husain: bloom.bg/4p7F6yn
+
+📷️: Michael Loccisano/Getty Images
+
+[2025-11-29 22:00:21](https://bsky.app/profile/bloomberg.com/post/3m6rhe4s4lu2i)
+
+---
+
+@washingtonpost.com
+
+Temu and Shein’s American sales dried up as shoppers were hit with higher prices and baffling import bills from new tariffs. But as the holiday shopping season kicks off, Temu and Shein have defied predictions of doom.
+
+[2025-11-29 22:00:17](https://bsky.app/profile/washingtonpost.com/post/3m6rhdyma332e)
+
+---
+
+@npr.org
+
+"Where are the Black photographers?" Deborah Willis on how she turned that question into an artistic mission.
+
+[2025-11-29 21:58:13](https://bsky.app/profile/npr.org/post/3m6rhac637u2y)
+
+---
+
+@reuters.com
+
+One third of Spanish pork export certificates blocked since swine fever outbreak, minister says reut.rs/4rsFby0
+
+[2025-11-29 21:50:12](https://bsky.app/profile/reuters.com/post/3m6rgrxu7322y)
 
 ---
 
