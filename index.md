@@ -1,9 +1,9 @@
-# [2025-11-29 10:10 updated](2025_11_29.md)
+# [2025-11-29 10:30 updated](2025_11_29.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">トヨタがアフリカ向けに「現地組み立て車」 www.nikkei.com/article/DGXZQO...  ケニアの標高約2800mの農村で現地住民と試作を進めます。  「IMVオリジン」は軽トラックと同等の大きさで、座席は運転席のみ設置。  悪路を想定して修理しやすく、現地でのアレンジもできる設計です。 <a href="https://bsky.app/profile/nikkei.com/post/3m6q76cvfqi2z" target="_blank">nikkei.com</a> (2025-11-29 10:01:17)</span><span style="padding-right:50px;">Grace Richardson, a 20-year-old musical theater student, has become the first-ever out lesbian winner of the Miss England beauty pageant. https://cnn.it/4rpMMxh <a href="https://bsky.app/profile/cnn.com/post/3m6q75uekvh2n" target="_blank">cnn.com</a> (2025-11-29 10:01:02)</span><span style="padding-right:50px;">Pope Leo XIV joins Orthodox patriarchs and ecumenical leaders in commemorating an important moment in Christian history, gathering at the site in Turkey of an unprecedented A.D. 325 meeting of bishops to pray that Christians might once again be reunited. <a href="https://bsky.app/profile/nbcnews.com/post/3m6q74zbzcu2y" target="_blank">nbcnews.com</a> (2025-11-29 10:00:33)</span><span style="padding-right:50px;">The federal government has released about $3.6 billion in delayed funding for the Low Income Home Energy Assistance Program, or LIHEAP. <a href="https://bsky.app/profile/apnews.com/post/3m6q74obsfu2c" target="_blank">apnews.com</a> (2025-11-29 10:00:22)</span><span style="padding-right:50px;">So much advice out there for "introverts suggests that the best way for us to succeed is to fake being an extrovert," writes Goldie Chan. That's not the case. <a href="https://bsky.app/profile/cnbc.com/post/3m6q74hxjms2h" target="_blank">cnbc.com</a> (2025-11-29 10:00:15)</span>
+<span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】住宅と空き家が全焼 焼け跡から1人の遺体 宇都宮市 (10:22) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6qafsslva2p" target="_blank">sokuho.news</a> (2025-11-29 10:23:22)</span><span style="padding-right:50px;">Bankrupt Yellow settles with pensions that sought billions reut.rs/4ivmwh9 <a href="https://bsky.app/profile/reuters.com/post/3m6qaa7cdqe2e" target="_blank">reuters.com</a> (2025-11-29 10:20:14)</span><span style="padding-right:50px;">Russia's Rosneft reports 70% fall in 9-month net income reut.rs/48ankod <a href="https://bsky.app/profile/reuters.com/post/3m6q7okn3qr2i" target="_blank">reuters.com</a> (2025-11-29 10:10:22)</span><span style="padding-right:50px;">トヨタがアフリカ向けに「現地組み立て車」 www.nikkei.com/article/DGXZQO...  ケニアの標高約2800mの農村で現地住民と試作を進めます。  「IMVオリジン」は軽トラックと同等の大きさで、座席は運転席のみ設置。  悪路を想定して修理しやすく、現地でのアレンジもできる設計です。 <a href="https://bsky.app/profile/nikkei.com/post/3m6q76cvfqi2z" target="_blank">nikkei.com</a> (2025-11-29 10:01:17)</span><span style="padding-right:50px;">Grace Richardson, a 20-year-old musical theater student, has become the first-ever out lesbian winner of the Miss England beauty pageant. https://cnn.it/4rpMMxh <a href="https://bsky.app/profile/cnn.com/post/3m6q75uekvh2n" target="_blank">cnn.com</a> (2025-11-29 10:01:02)</span>
   </div>
 </div>
 
@@ -32,14 +32,41 @@
 
 ## News Headlines
 
-1. トヨタ、アフリカ向け現地組み立て車を開発
-2. ミス・イングランド初のレズビアン優勝者誕生
-3. トランプ氏、バイデン大統領の行政命令を「キャンセル」主張
-4. 元ホンジュラス大統領、麻薬密輸で禁錮45年
-5. ゼレンスキー政権幹部、汚職疑惑で解任
-6. 米国、亡命申請を一時停止
+1.  宇都宮市で住宅全焼、焼け跡から1遺体
+2.  トヨタ、アフリカ向け「現地組み立て車」試作開始
+3.  ミス・イングランド初の同性愛女性優勝
+4.  ウクライナ代表団が訪米、トランプ氏主導の和平案協議
+5.  ゼレンスキー政権、最側近を汚職疑惑で解任
+6.  トランプ氏、バイデン大統領の行政命令を「全てキャンセル」と主張
 
 ----
+
+@sokuho.news
+
+🔔ANNより【速報】です。
+
+【速報】住宅と空き家が全焼 焼け跡から1人の遺体 宇都宮市
+(10:22) #ニュース
+
+[2025-11-29 10:23:22](https://bsky.app/profile/sokuho.news/post/3m6qafsslva2p)
+
+---
+
+@reuters.com
+
+Bankrupt Yellow settles with pensions that sought billions reut.rs/4ivmwh9
+
+[2025-11-29 10:20:14](https://bsky.app/profile/reuters.com/post/3m6qaa7cdqe2e)
+
+---
+
+@reuters.com
+
+Russia's Rosneft reports 70% fall in 9-month net income reut.rs/48ankod
+
+[2025-11-29 10:10:22](https://bsky.app/profile/reuters.com/post/3m6q7okn3qr2i)
+
+---
 
 @nikkei.com
 
@@ -101,30 +128,6 @@ The airspace around Mar-a-Lago, the president’s estate, is a no-fly zone 24/7,
 A recently recognized form of dementia is changing the understanding of cognitive decline, improving the ability to diagnose patients and underscoring the need for a wider array of treatments.
 
 [2025-11-29 10:00:03](https://bsky.app/profile/nytimes.com/post/3m6q743zjt62y)
-
----
-
-@bloomberg-jp.bsky.social
-
-ウクライナ代表団が訪米へ、トランプ氏主導の和平案巡り協議－関係者
-
-[2025-11-29 09:51:14](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6q6mee6ll2r)
-
----
-
-@bloomberg-jp.bsky.social
-
-ANAが国内線65便を欠航、エアバス機整備作業で－9400人に影響
-
-[2025-11-29 09:51:09](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6q6m6ydin2j)
-
----
-
-@bloomberg-jp.bsky.social
-
-データセンター冷却なぜ難しいのか、CMEの障害で再び注目－QuickTake
-
-[2025-11-29 09:51:02](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6q6lylcbl2w)
 
 ---
 
