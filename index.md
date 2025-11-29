@@ -1,9 +1,9 @@
-# [2025-11-29 20:30 updated](2025_11_29.md)
+# [2025-11-29 20:50 updated](2025_11_29.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">害獣「キョン」、おいしく駆除　千葉の猟師が食の需要開拓 www.nikkei.com/article/DGXZQO...  #いい肉の日 <a href="https://bsky.app/profile/nikkei.com/post/3m6rcbczhcs2k" target="_blank">nikkei.com</a> (2025-11-29 20:29:19)</span><span style="padding-right:50px;">Ogier equals Loeb's record with ninth world championship reut.rs/3MaBi0z <a href="https://bsky.app/profile/reuters.com/post/3m6rbzw3jxr26" target="_blank">reuters.com</a> (2025-11-29 20:25:10)</span><span style="padding-right:50px;">🇬🇷 Divers haul abandoned 'ghost nets' from seabed off Greek island  Off the Greek island of Spetses, divers lift abandoned fishing nets from reefs in the Aegean Sea. The nets, known as ghost nets, continue to trap marine animals on the seabed for years before breaking down into microplastics. <a href="https://bsky.app/profile/en.afp.com/post/3m6rbqsjga22o" target="_blank">en.afp.com</a> (2025-11-29 20:20:04)</span><span style="padding-right:50px;">Stockholm like a local reut.rs/4agB8yM <a href="https://bsky.app/profile/reuters.com/post/3m6rbi5f2nb2y" target="_blank">reuters.com</a> (2025-11-29 20:15:14)</span><span style="padding-right:50px;">Go Ahead Eagles fine Edvardsen for mocking Stuttgart player Stiller's appearance reut.rs/4pihIOH <a href="https://bsky.app/profile/reuters.com/post/3m6rb76j3sf27" target="_blank">reuters.com</a> (2025-11-29 20:10:13)</span>
+<span style="padding-right:50px;">Scientists searching for new ways to combat cancer think they may have uncovered a promising new lead in the DNA of the bowhead whale. <a href="https://bsky.app/profile/npr.org/post/3m6rdcjpscs2h" target="_blank">npr.org</a> (2025-11-29 20:47:53)</span><span style="padding-right:50px;">Andriy Yermak: How Zelensky's right-hand man fell from power <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6rcyjffz52e" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-11-29 20:42:16)</span><span style="padding-right:50px;">Indonesia flood death toll climbs to 303 amid cyclone devastation, disaster agency says reut.rs/3MaBzR9 <a href="https://bsky.app/profile/reuters.com/post/3m6rcusr2f422" target="_blank">reuters.com</a> (2025-11-29 20:40:13)</span><span style="padding-right:50px;">🇮🇱 A new draft law on conscripting ultra-Orthodox Jews, whose support is crucial for Prime Minister Benjamin Netanyahu's government, has sparked uproar in Israel, with the opposition denouncing it as a special privilege for "draft-dodgers".  ➡️ u.afp.com/Sh8u <a href="https://bsky.app/profile/en.afp.com/post/3m6rcuhli7b22" target="_blank">en.afp.com</a> (2025-11-29 20:40:01)</span><span style="padding-right:50px;">Sustainable Switch Climate Focus: Southeast Asia flood deaths reach 241 reut.rs/3Xp2rPW <a href="https://bsky.app/profile/reuters.com/post/3m6rcltlkfq2a" target="_blank">reuters.com</a> (2025-11-29 20:35:11)</span>
   </div>
 </div>
 
@@ -32,14 +32,89 @@
 
 ## News Headlines
 
-1. 千葉県、害獣キョンを食で駆除
-2. オジェ、ローブに並びWRC9度目の世界制覇
-3. ギリシャのダイバー、海底から「ゴーストネット」を回収
-4. スリランカ、サイクロン被害で非常事態宣言
-5. 香港高層住宅火災、128人死亡
-6. 米マイクロン、広島にAI半導体新工場建設へ
+1.  ホッキョククジラのDNAに癌治療の新手がかりか
+2.  インドネシア洪水、死者303人に
+3.  香港高層住宅火災、128人死亡、汚職と過失の疑い
+4.  Z世代の35％が週休3日希望
+5.  「なでしこジャパン」カナダとの強化試合で快勝
+6.  マレーシアの科学者がナンキンムシを犯罪捜査に活用
 
 ----
+
+@npr.org
+
+Scientists searching for new ways to combat cancer think they may have uncovered a promising new lead in the DNA of the bowhead whale.
+
+[2025-11-29 20:47:53](https://bsky.app/profile/npr.org/post/3m6rdcjpscs2h)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Andriy Yermak: How Zelensky's right-hand man fell from power
+
+[2025-11-29 20:42:16](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6rcyjffz52e)
+
+---
+
+@reuters.com
+
+Indonesia flood death toll climbs to 303 amid cyclone devastation, disaster agency says reut.rs/3MaBzR9
+
+[2025-11-29 20:40:13](https://bsky.app/profile/reuters.com/post/3m6rcusr2f422)
+
+---
+
+@en.afp.com
+
+🇮🇱 A new draft law on conscripting ultra-Orthodox Jews, whose support is crucial for Prime Minister Benjamin Netanyahu's government, has sparked uproar in Israel, with the opposition denouncing it as a special privilege for "draft-dodgers". 
+➡️ u.afp.com/Sh8u
+
+[2025-11-29 20:40:01](https://bsky.app/profile/en.afp.com/post/3m6rcuhli7b22)
+
+---
+
+@reuters.com
+
+Sustainable Switch Climate Focus: Southeast Asia flood deaths reach 241 reut.rs/3Xp2rPW
+
+[2025-11-29 20:35:11](https://bsky.app/profile/reuters.com/post/3m6rcltlkfq2a)
+
+---
+
+@nikkei.com
+
+Z世代、35％が週休3日希望 「無理せず・安定」に重き　民間調査
+www.nikkei.com/article/DGXZQO...
+
+[2025-11-29 20:31:18](https://bsky.app/profile/nikkei.com/post/3m6rceuk7eb2i)
+
+---
+
+@apnews.com
+
+Hong Kong's deadliest fire in decades is raising questions about corruption and negligence in the renovations of the apartment complex where at least 128 people died.
+
+[2025-11-29 20:30:23](https://bsky.app/profile/apnews.com/post/3m6rcdaasju2c)
+
+---
+
+@bloomberg.com
+
+Today's Green Daily newsletter looks at how climate change might affect the taste of coffee.
+
+[2025-11-29 20:30:14](https://bsky.app/profile/bloomberg.com/post/3m6rccxsalm2n)
+
+---
+
+@en.afp.com
+
+🇺🇦 A team of Ukrainian negotiators was on Saturday headed to the United States for talks on Washington's plan to end the war, Ukrainian President Volodymyr Zelensky said. 
+➡️ u.afp.com/Sh8L
+
+[2025-11-29 20:30:04](https://bsky.app/profile/en.afp.com/post/3m6rccnvqsz2k)
+
+---
 
 @nikkei.com
 
@@ -49,87 +124,6 @@ www.nikkei.com/article/DGXZQO...
 #いい肉の日
 
 [2025-11-29 20:29:19](https://bsky.app/profile/nikkei.com/post/3m6rcbczhcs2k)
-
----
-
-@reuters.com
-
-Ogier equals Loeb's record with ninth world championship reut.rs/3MaBi0z
-
-[2025-11-29 20:25:10](https://bsky.app/profile/reuters.com/post/3m6rbzw3jxr26)
-
----
-
-@en.afp.com
-
-🇬🇷 Divers haul abandoned 'ghost nets' from seabed off Greek island
-
-Off the Greek island of Spetses, divers lift abandoned fishing nets from reefs in the Aegean Sea. The nets, known as ghost nets, continue to trap marine animals on the seabed for years before breaking down into microplastics.
-
-[2025-11-29 20:20:04](https://bsky.app/profile/en.afp.com/post/3m6rbqsjga22o)
-
----
-
-@reuters.com
-
-Stockholm like a local reut.rs/4agB8yM
-
-[2025-11-29 20:15:14](https://bsky.app/profile/reuters.com/post/3m6rbi5f2nb2y)
-
----
-
-@reuters.com
-
-Go Ahead Eagles fine Edvardsen for mocking Stuttgart player Stiller's appearance reut.rs/4pihIOH
-
-[2025-11-29 20:10:13](https://bsky.app/profile/reuters.com/post/3m6rb76j3sf27)
-
----
-
-@yahoofinance.com
-
-ChatGPT was unveiled 3 years ago, kicking off the AI revolution. For investors, it did even more.
-
-[2025-11-29 20:06:08](https://bsky.app/profile/yahoofinance.com/post/3m6raxunnub2m)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Australian prime minister Albanese becomes first to wed in office
-
-[2025-11-29 20:05:17](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6rawf6bsg22)
-
----
-
-@wsj.com
-
-After the death of his first wife, David Judelson married his former banker and left her millions. Was he a victim of elder abuse? Or were his children in denial that their dad had fallen in love with someone new?
-
-[2025-11-29 20:01:29](https://bsky.app/profile/wsj.com/post/3m6rapkomgl2p)
-
----
-
-@nikkei.com
-
-令和なコトバ「ファミレス席」　あの椅子がなぜ職場に？
-www.nikkei.com/article/DGXZQO...
-
-「テーブルを挟んでソファを向かい合わせ、ソファの背やパネルで簡易に囲んだセミクローズなオフィスの席が、こう呼ばれています」。
-
-ファミレスの方がアイデアが湧きやすい。そんな効果も期待出来るのでしょうか。オフィスは時代によって変化しています。
-
-[2025-11-29 20:01:17](https://bsky.app/profile/nikkei.com/post/3m6rap7lbn62m)
-
----
-
-@cnbc.com
-
-"As a cardiologist, there are nine American foods you couldn’t pay me to eat," says Dr. Sanjay Bhojraj.
-
-After years of treating heart disease, here are the common American foods that Dr. Bhojraj won't touch, and what he recommends instead.
-
-[2025-11-29 20:00:24](https://bsky.app/profile/cnbc.com/post/3m6ranmfubg2q)
 
 ---
 
