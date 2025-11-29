@@ -1,9 +1,9 @@
-# [2025-11-29 23:30 updated](2025_11_29.md)
+# [2025-11-29 23:50 updated](2025_11_29.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">In 2024, Romania, an upper middle income European country, had over 30,000 cases — putting it on the world's top ten measles list. Its vaccination rate hovers around 60%. How did this happen? <a href="https://bsky.app/profile/npr.org/post/3m6rm4mswmx2s" target="_blank">npr.org</a> (2025-11-29 23:25:39)</span><span style="padding-right:50px;">🇻🇦 🇹🇷 Pope Leo XIV visits Istanbul's Blue Mosque  Pope Leo XIV visits Istanbul's famed Blue Mosque on the third day of his trip to Turkey. It was the first time the American pope, who was elected in May, has visited a Muslim place of worship since taking over from his late predecessor Francis. <a href="https://bsky.app/profile/en.afp.com/post/3m6rlvrgdtp2u" target="_blank">en.afp.com</a> (2025-11-29 23:21:48)</span><span style="padding-right:50px;">Azerbaijani police raid home of leading opposition figure amid coup attempt probe reut.rs/43ZrA7s <a href="https://bsky.app/profile/reuters.com/post/3m6rljy4qfb2a" target="_blank">reuters.com</a> (2025-11-29 23:15:13)</span><span style="padding-right:50px;">FDA commissioner says data showed 10 child deaths due to COVID shots reut.rs/4prwtyZ <a href="https://bsky.app/profile/reuters.com/post/3m6rlb54gsq26" target="_blank">reuters.com</a> (2025-11-29 23:10:16)</span><span style="padding-right:50px;">Breaking news: Donald Trump has said that Venezuela’s airspace should be considered closed, after a military build-up by US forces in the region on.ft.com/489mnfV <a href="https://bsky.app/profile/financialtimes.com/post/3m6rl3t5f4x24" target="_blank">financialtimes.com</a> (2025-11-29 23:07:18)</span>
+<span style="padding-right:50px;">As you prepare your feasts this holiday season, here's something to consider. Research suggests there are certain foods that can help boost our moods and make us happier in the long-run. <a href="https://bsky.app/profile/npr.org/post/3m6rnavjxqh2x" target="_blank">npr.org</a> (2025-11-29 23:45:56)</span><span style="padding-right:50px;">Piastri wins Qatar sprint to trim Norris's lead reut.rs/43WmAjU <a href="https://bsky.app/profile/reuters.com/post/3m6rn7mlbwc2n" target="_blank">reuters.com</a> (2025-11-29 23:45:13)</span><span style="padding-right:50px;">The U.S. has ramped up its military presence off the coast of Venezuela amid its war with drug cartels and push to oust President Nicolás Maduro. <a href="https://bsky.app/profile/forbes.com/post/3m6rmwfzpca2q" target="_blank">forbes.com</a> (2025-11-29 23:40:03)</span><span style="padding-right:50px;">🇲🇽 More than 120,000 people are listed as missing in Mexico — a number that surged after the 2006 crackdown on cartels. Now authorities are focusing on mass graves in cemeteries, where many unidentified bodies ended up due to bureaucratic failures.  ➡️ u.afp.com/Sh8M <a href="https://bsky.app/profile/en.afp.com/post/3m6rmwdwpke23" target="_blank">en.afp.com</a> (2025-11-29 23:40:02)</span><span style="padding-right:50px;">Wondering if you (or someone you know) can ever stop snoring? The good news is that, in many circumstances, it's common, treatable, and preventable. <a href="https://bsky.app/profile/usatoday.com/post/3m6rmfkwj7g2q" target="_blank">usatoday.com</a> (2025-11-29 23:30:39)</span>
   </div>
 </div>
 
@@ -32,14 +32,71 @@
 
 ## News Headlines
 
-1.  ルーマニア、麻疹患者数で世界トップ10入り、ワクチン接種率低迷
-2.  レオ14世教皇、イスタンブール・ブルーモスクを訪問
-3.  トランプ大統領、ベネズエラの空域閉鎖を宣言
-4.  FDA、COVIDワクチン接種後の子供の死亡例を報告
-5.  ガザ地区、戦闘開始以降の死者7万人超と発表
-6.  東南アジアの洪水・地滑り、死者400人超に増加
+1.  気分を高める食品とは？注目の研究結果
+2.  ピアストリ、カタールスプリントで勝利
+3.  ベネズエラ沖で米軍増強、緊張高まる
+4.  メキシコで12万人以上が行方不明
+5.  ブラジルコーヒー産地、異常気象で苦境
+6.  FDA、COVIDワクチン接種後の子供の死亡例を報告
 
 ----
+
+@npr.org
+
+As you prepare your feasts this holiday season, here's something to consider. Research suggests there are certain foods that can help boost our moods and make us happier in the long-run.
+
+[2025-11-29 23:45:56](https://bsky.app/profile/npr.org/post/3m6rnavjxqh2x)
+
+---
+
+@reuters.com
+
+Piastri wins Qatar sprint to trim Norris's lead reut.rs/43WmAjU
+
+[2025-11-29 23:45:13](https://bsky.app/profile/reuters.com/post/3m6rn7mlbwc2n)
+
+---
+
+@forbes.com
+
+The U.S. has ramped up its military presence off the coast of Venezuela amid its war with drug cartels and push to oust President Nicolás Maduro.
+
+[2025-11-29 23:40:03](https://bsky.app/profile/forbes.com/post/3m6rmwfzpca2q)
+
+---
+
+@en.afp.com
+
+🇲🇽 More than 120,000 people are listed as missing in Mexico — a number that surged after the 2006 crackdown on cartels. Now authorities are focusing on mass graves in cemeteries, where many unidentified bodies ended up due to bureaucratic failures. 
+➡️ u.afp.com/Sh8M
+
+[2025-11-29 23:40:02](https://bsky.app/profile/en.afp.com/post/3m6rmwdwpke23)
+
+---
+
+@usatoday.com
+
+Wondering if you (or someone you know) can ever stop snoring? The good news is that, in many circumstances, it's common, treatable, and preventable.
+
+[2025-11-29 23:30:39](https://bsky.app/profile/usatoday.com/post/3m6rmfkwj7g2q)
+
+---
+
+@bloomberg.com
+
+Brazil's traditional coffee-growing regions are being hammered by harsher weather. Here's how growers are coping — and what it means for you.
+
+[2025-11-29 23:30:12](https://bsky.app/profile/bloomberg.com/post/3m6rmerk5zz2h)
+
+---
+
+@cnn.com
+
+It was the night before Thanksgiving, 1980. An unexpected blizzard had coated central Missouri in inches of snow. And John Morris' car had just spun off an icy road and into a ditch. https://cnn.it/3XoBFHu
+
+[2025-11-29 23:30:07](https://bsky.app/profile/cnn.com/post/3m6rmemo7vs2y)
+
+---
 
 @npr.org
 
@@ -64,62 +121,6 @@ Pope Leo XIV visits Istanbul's famed Blue Mosque on the third day of his trip to
 Azerbaijani police raid home of leading opposition figure amid coup attempt probe reut.rs/43ZrA7s
 
 [2025-11-29 23:15:13](https://bsky.app/profile/reuters.com/post/3m6rljy4qfb2a)
-
----
-
-@reuters.com
-
-FDA commissioner says data showed 10 child deaths due to COVID shots reut.rs/4prwtyZ
-
-[2025-11-29 23:10:16](https://bsky.app/profile/reuters.com/post/3m6rlb54gsq26)
-
----
-
-@financialtimes.com
-
-Breaking news: Donald Trump has said that Venezuela’s airspace should be considered closed, after a military build-up by US forces in the region on.ft.com/489mnfV
-
-[2025-11-29 23:07:18](https://bsky.app/profile/financialtimes.com/post/3m6rl3t5f4x24)
-
----
-
-@yahoofinance.com
-
-Medicare Advantage woos seniors with plan perks, but a study found they often go unused
-
-[2025-11-29 23:06:07](https://bsky.app/profile/yahoofinance.com/post/3m6rkzpy5l42e)
-
----
-
-@npr.org
-
-Getting a diagnosis is key since there are different causes for the problem calling for different treatments. Here's what to know and how to find support if you are living with hair loss.
-
-[2025-11-29 23:05:00](https://bsky.app/profile/npr.org/post/3m6rkxpxi5s2h)
-
----
-
-@apnews.com
-
-Anthony Davis returned to Los Angeles on the same night he came back from a 14-game injury absence, and he received loud pregame cheers from Lakers fans who were thrilled to see a longtime favorite healthy and hooping.
-
-[2025-11-29 23:01:02](https://bsky.app/profile/apnews.com/post/3m6rkqmr5bx2w)
-
----
-
-@aljazeera.com
-
-No immediate response from Venezuela after President Trump’s makes the announcement on social media on Saturday.
-
-[2025-11-29 23:00:58](https://bsky.app/profile/aljazeera.com/post/3m6rkqj763w2d)
-
----
-
-@usatoday.com
-
-Linda Hamilton joins a growing group of Hollywood women rejecting ageism and embracing natural aging, inspiring others to rethink beauty expectations.
-
-[2025-11-29 23:00:56](https://bsky.app/profile/usatoday.com/post/3m6rkqhgnjb2u)
 
 ---
 
