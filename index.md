@@ -1,9 +1,9 @@
-# [2025-12-01 08:10 updated](2025_12_01.md)
+# [2025-12-01 08:30 updated](2025_12_01.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">As Pakistan and Afghanistan have escalated military clashes and closed their borders, the Pakistani authorities have intensified mass expulsions of Afghans. <a href="https://bsky.app/profile/nytimes.com/post/3m6uzoujjkm26" target="_blank">nytimes.com</a> (2025-12-01 08:06:28)</span><span style="padding-right:50px;">World champions Duplantis, McLaughlin-Levrone named World Athletes of the Year reut.rs/4p8g4yW <a href="https://bsky.app/profile/reuters.com/post/3m6uzmltipc2r" target="_blank">reuters.com</a> (2025-12-01 08:05:12)</span><span style="padding-right:50px;">After the Zika outbreak ended in Brazil, many families faced a new reality: a child whose life was irrevocably altered after the mother contracted the virus while pregnant. Here's what happened next. <a href="https://bsky.app/profile/npr.org/post/3m6uzk5wjep23" target="_blank">npr.org</a> (2025-12-01 08:03:51)</span><span style="padding-right:50px;">【東京は3位に後退】 世界最大の都市圏はジャカルタ　国連2025年の推計人口 www.nikkei.com/article/DGXZQO...  ジャカルタの人口は2000年の2600万人から1.6倍に。大気汚染や交通渋滞が深刻になっています。  00年代に首位だった東京は、50年には7位に後退する見通しです。 <a href="https://bsky.app/profile/nikkei.com/post/3m6uzg5yuo32e" target="_blank">nikkei.com</a> (2025-12-01 08:01:36)</span><span style="padding-right:50px;">Real Madrid held to third straight draw in 1-1 stalemate at Girona reut.rs/4aj9vVJ <a href="https://bsky.app/profile/reuters.com/post/3m6uzevbjio26" target="_blank">reuters.com</a> (2025-12-01 08:00:54)</span>
+<span style="padding-right:50px;">NPR's Scott Simon explains why The Pogues' "Fairytale of New York" is a holiday song for those who have troubles and heartache. <a href="https://bsky.app/profile/npr.org/post/3m6v2u5npvr2g" target="_blank">npr.org</a> (2025-12-01 08:27:20)</span><span style="padding-right:50px;">Australia's ASX hit by outage affecting corporate announcements, website shows reut.rs/48seqkG <a href="https://bsky.app/profile/reuters.com/post/3m6v2qbt4qc2k" target="_blank">reuters.com</a> (2025-12-01 08:25:10)</span><span style="padding-right:50px;">Unregulated e-bikes are a growing danger on American streets. In one Bay Area town, a terrible accident finally led to reform. www.nytimes.com/2025/11/30/m... <a href="https://bsky.app/profile/nytimes.com/post/3m6v2jbu4u22y" target="_blank">nytimes.com</a> (2025-12-01 08:21:15)</span><span style="padding-right:50px;">Oxford University Press announced today that "rage bait" is its 2025 word of the year. <a href="https://bsky.app/profile/axios.com/post/3m6v2f3r5dc22" target="_blank">axios.com</a> (2025-12-01 08:18:54)</span><span style="padding-right:50px;">The U.S. military has turned its attention southward, and the defense industry is lining up to sell it the tools for a different kind of war. <a href="https://bsky.app/profile/wsj.com/post/3m6v2a3tabz2w" target="_blank">wsj.com</a> (2025-12-01 08:16:06)</span>
   </div>
 </div>
 
@@ -32,14 +32,78 @@
 
 ## News Headlines
 
-1. パキスタン、アフガン人大量追放強化
-2. 世界年間最優秀選手にデュプランティスとマクラフリン＝レブロン
-3. 世界最大の都市圏はジャカルタ、東京は3位に後退
-4. 香港大規模火災、死者146人で政府が情報統制
-5. こころの不調で年7兆円経済損失、早期相談が重要
-6. バロック画家ルーベンスの長らく所在不明だった絵画がオークションで270万ドルで落札
+1. NYのクリスマスソング「フェアリーテイル」苦悩抱える人々の歌
+2. ASXでシステム障害、企業発表に影響
+3. 無規制電動自転車、アメリカの路上で危険増大
+4. オックスフォード大学出版、「rage bait」を2025年の言葉に
+5. パキスタン、アフガン人強制送還を強化
+6. 世界最大の都市圏はジャカルタ、東京は3位に後退
 
 ----
+
+@npr.org
+
+NPR's Scott Simon explains why The Pogues' "Fairytale of New York" is a holiday song for those who have troubles and heartache.
+
+[2025-12-01 08:27:20](https://bsky.app/profile/npr.org/post/3m6v2u5npvr2g)
+
+---
+
+@reuters.com
+
+Australia's ASX hit by outage affecting corporate announcements, website shows reut.rs/48seqkG
+
+[2025-12-01 08:25:10](https://bsky.app/profile/reuters.com/post/3m6v2qbt4qc2k)
+
+---
+
+@nytimes.com
+
+Unregulated e-bikes are a growing danger on American streets. In one Bay Area town, a terrible accident finally led to reform. www.nytimes.com/2025/11/30/m...
+
+[2025-12-01 08:21:15](https://bsky.app/profile/nytimes.com/post/3m6v2jbu4u22y)
+
+---
+
+@axios.com
+
+Oxford University Press announced today that "rage bait" is its 2025 word of the year.
+
+[2025-12-01 08:18:54](https://bsky.app/profile/axios.com/post/3m6v2f3r5dc22)
+
+---
+
+@wsj.com
+
+The U.S. military has turned its attention southward, and the defense industry is lining up to sell it the tools for a different kind of war.
+
+[2025-12-01 08:16:06](https://bsky.app/profile/wsj.com/post/3m6v2a3tabz2w)
+
+---
+
+@reuters.com
+
+Sainz secures fifth place for Williams in constructors' standings reut.rs/4rq3tch
+
+[2025-12-01 08:15:12](https://bsky.app/profile/reuters.com/post/3m6v26i7jjs2k)
+
+---
+
+@cnbc.com
+
+Stock futures are little changed as traders get ready for the final month of the year: Live updates
+
+[2025-12-01 08:13:03](https://bsky.app/profile/cnbc.com/post/3m6v22mlxeu2s)
+
+---
+
+@reuters.com
+
+Data center operator CyrusOne adds more cooling after outage, Bloomberg News reports reut.rs/44HgRyH
+
+[2025-12-01 08:10:10](https://bsky.app/profile/reuters.com/post/3m6uzvi2kxg2d)
+
+---
 
 @nytimes.com
 
@@ -54,76 +118,6 @@ As Pakistan and Afghanistan have escalated military clashes and closed their bor
 World champions Duplantis, McLaughlin-Levrone named World Athletes of the Year reut.rs/4p8g4yW
 
 [2025-12-01 08:05:12](https://bsky.app/profile/reuters.com/post/3m6uzmltipc2r)
-
----
-
-@npr.org
-
-After the Zika outbreak ended in Brazil, many families faced a new reality: a child whose life was irrevocably altered after the mother contracted the virus while pregnant. Here's what happened next.
-
-[2025-12-01 08:03:51](https://bsky.app/profile/npr.org/post/3m6uzk5wjep23)
-
----
-
-@nikkei.com
-
-【東京は3位に後退】
-世界最大の都市圏はジャカルタ　国連2025年の推計人口
-www.nikkei.com/article/DGXZQO...
-
-ジャカルタの人口は2000年の2600万人から1.6倍に。大気汚染や交通渋滞が深刻になっています。
-
-00年代に首位だった東京は、50年には7位に後退する見通しです。
-
-[2025-12-01 08:01:36](https://bsky.app/profile/nikkei.com/post/3m6uzg5yuo32e)
-
----
-
-@reuters.com
-
-Real Madrid held to third straight draw in 1-1 stalemate at Girona reut.rs/4aj9vVJ
-
-[2025-12-01 08:00:54](https://bsky.app/profile/reuters.com/post/3m6uzevbjio26)
-
----
-
-@cnbc.com
-
-Cassiy Johnson's print-on-demand Etsy T-shirt shop helped her quit her job and launch two other side hustles — and it only takes 30 minutes per day, she says.
-
-[2025-12-01 08:00:31](https://bsky.app/profile/cnbc.com/post/3m6uze7gbc423)
-
----
-
-@usatoday.com
-
-Can you retire comfortably on Social Security alone? We asked seniors.
-
-[2025-12-01 08:00:21](https://bsky.app/profile/usatoday.com/post/3m6uzdwkaul2u)
-
----
-
-@aljazeera.com
-
-A bride, 10 bridesmaids, a baby and two women were kidnapped during a night raid in Sokoto State.
-
-[2025-12-01 08:00:18](https://bsky.app/profile/aljazeera.com/post/3m6uzdtlzbm2f)
-
----
-
-@washingtonpost.com
-
-Immigration officers were sent to Chicago to detain and deport “violent offenders” that DHS said were released from jails because of “sanctuary” policies. The agency says it has arrested more than 4,000 people, but only about 120 of those have a criminal record.
-
-[2025-12-01 08:00:11](https://bsky.app/profile/washingtonpost.com/post/3m6uzdmnrhu23)
-
----
-
-@apnews.com
-
-Max Verstappen has won the Qatar Grand Prix to send a tense Formula 1 title fight into the season’s final race in Abu Dhabi next weekend.
-
-[2025-12-01 08:00:11](https://bsky.app/profile/apnews.com/post/3m6uzdmurck2j)
 
 ---
 
