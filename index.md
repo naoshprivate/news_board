@@ -1,9 +1,9 @@
-# [2025-12-01 07:50 updated](2025_12_01.md)
+# [2025-12-01 08:10 updated](2025_12_01.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">【逮捕直後に無料相談”当番弁護士”】 登録割合低下、「使命感」頼みに限界（無料記事） www.nikkei.com/article/DGXZQO...  「負担に見合わない。やっていられない」  そのまま国選弁護人になることが多く、起訴されれば判決までは早くても数カ月。報酬は国選と合わせても10万〜20万円程度です。  大阪では登録者が3年間で約500人減り、「緊急事態宣言」と題して登録を呼びかけるメールが出回りました。 <a href="https://bsky.app/profile/nikkei.com/post/3m6uyjjyqfv2m" target="_blank">nikkei.com</a> (2025-12-01 07:45:36)</span><span style="padding-right:50px;">Soccer Spain's Bonmati ruled out of Nations League final with fractured leg reut.rs/44uSjZI <a href="https://bsky.app/profile/reuters.com/post/3m6uyisbpfe2o" target="_blank">reuters.com</a> (2025-12-01 07:45:11)</span><span style="padding-right:50px;">Intense competition pushes some brands to adapt to Chinese tastes and introduce lower prices—and use the country as an innovation hub to learn from. <a href="https://bsky.app/profile/wsj.com/post/3m6uyadg3ar2t" target="_blank">wsj.com</a> (2025-12-01 07:40:27)</span><span style="padding-right:50px;">Top 25 Roundup: Audi Crooks pours in 47 as No. 10 Iowa State edges Indiana reut.rs/3KnHaDh <a href="https://bsky.app/profile/reuters.com/post/3m6uyadc47f2k" target="_blank">reuters.com</a> (2025-12-01 07:40:27)</span><span style="padding-right:50px;">Lane Kiffin officially hired by LSU, won't coach Ole Miss again reut.rs/4anxCCJ <a href="https://bsky.app/profile/reuters.com/post/3m6uxwuljq72w" target="_blank">reuters.com</a> (2025-12-01 07:35:09)</span>
+<span style="padding-right:50px;">As Pakistan and Afghanistan have escalated military clashes and closed their borders, the Pakistani authorities have intensified mass expulsions of Afghans. <a href="https://bsky.app/profile/nytimes.com/post/3m6uzoujjkm26" target="_blank">nytimes.com</a> (2025-12-01 08:06:28)</span><span style="padding-right:50px;">World champions Duplantis, McLaughlin-Levrone named World Athletes of the Year reut.rs/4p8g4yW <a href="https://bsky.app/profile/reuters.com/post/3m6uzmltipc2r" target="_blank">reuters.com</a> (2025-12-01 08:05:12)</span><span style="padding-right:50px;">After the Zika outbreak ended in Brazil, many families faced a new reality: a child whose life was irrevocably altered after the mother contracted the virus while pregnant. Here's what happened next. <a href="https://bsky.app/profile/npr.org/post/3m6uzk5wjep23" target="_blank">npr.org</a> (2025-12-01 08:03:51)</span><span style="padding-right:50px;">【東京は3位に後退】 世界最大の都市圏はジャカルタ　国連2025年の推計人口 www.nikkei.com/article/DGXZQO...  ジャカルタの人口は2000年の2600万人から1.6倍に。大気汚染や交通渋滞が深刻になっています。  00年代に首位だった東京は、50年には7位に後退する見通しです。 <a href="https://bsky.app/profile/nikkei.com/post/3m6uzg5yuo32e" target="_blank">nikkei.com</a> (2025-12-01 08:01:36)</span><span style="padding-right:50px;">Real Madrid held to third straight draw in 1-1 stalemate at Girona reut.rs/4aj9vVJ <a href="https://bsky.app/profile/reuters.com/post/3m6uzevbjio26" target="_blank">reuters.com</a> (2025-12-01 08:00:54)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50253.91 (🔺34.95 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.10 (🔺0.05 : 2025-11-30)</span>
+<span style="padding-right:50px;">NIKKEI: 50253.91 (🔺34.95 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.03 (🔻0.02 : 2025-11-30)</span>
   </div>
 </div>
 
@@ -32,105 +32,98 @@
 
 ## News Headlines
 
-1. 当番弁護士の登録割合低下、「使命感」頼みに限界か
-2. サッカー スペイン代表 ボンマティ選手、足の骨折で代表決勝欠場
-3. こころの不調で年7兆円経済損失、相談の輪が必須
-4. 屋外の津波避難場所、備蓄・空調の不足が課題
-5. 広がる原発再稼働、迫る「核のごみ」問題
-6. 米西部 パーティー会場で銃撃事件、子ども含む4人死亡
+1. パキスタン、アフガン人大量追放強化
+2. 世界年間最優秀選手にデュプランティスとマクラフリン＝レブロン
+3. 世界最大の都市圏はジャカルタ、東京は3位に後退
+4. 香港大規模火災、死者146人で政府が情報統制
+5. こころの不調で年7兆円経済損失、早期相談が重要
+6. バロック画家ルーベンスの長らく所在不明だった絵画がオークションで270万ドルで落札
 
 ----
 
-@nikkei.com
+@nytimes.com
 
-【逮捕直後に無料相談”当番弁護士”】
-登録割合低下、「使命感」頼みに限界（無料記事）
-www.nikkei.com/article/DGXZQO...
+As Pakistan and Afghanistan have escalated military clashes and closed their borders, the Pakistani authorities have intensified mass expulsions of Afghans.
 
-「負担に見合わない。やっていられない」
-
-そのまま国選弁護人になることが多く、起訴されれば判決までは早くても数カ月。報酬は国選と合わせても10万〜20万円程度です。
-
-大阪では登録者が3年間で約500人減り、「緊急事態宣言」と題して登録を呼びかけるメールが出回りました。
-
-[2025-12-01 07:45:36](https://bsky.app/profile/nikkei.com/post/3m6uyjjyqfv2m)
+[2025-12-01 08:06:28](https://bsky.app/profile/nytimes.com/post/3m6uzoujjkm26)
 
 ---
 
 @reuters.com
 
-Soccer Spain's Bonmati ruled out of Nations League final with fractured leg reut.rs/44uSjZI
+World champions Duplantis, McLaughlin-Levrone named World Athletes of the Year reut.rs/4p8g4yW
 
-[2025-12-01 07:45:11](https://bsky.app/profile/reuters.com/post/3m6uyisbpfe2o)
-
----
-
-@wsj.com
-
-Intense competition pushes some brands to adapt to Chinese tastes and introduce lower prices—and use the country as an innovation hub to learn from.
-
-[2025-12-01 07:40:27](https://bsky.app/profile/wsj.com/post/3m6uyadg3ar2t)
+[2025-12-01 08:05:12](https://bsky.app/profile/reuters.com/post/3m6uzmltipc2r)
 
 ---
 
-@reuters.com
+@npr.org
 
-Top 25 Roundup: Audi Crooks pours in 47 as No. 10 Iowa State edges Indiana reut.rs/3KnHaDh
+After the Zika outbreak ended in Brazil, many families faced a new reality: a child whose life was irrevocably altered after the mother contracted the virus while pregnant. Here's what happened next.
 
-[2025-12-01 07:40:27](https://bsky.app/profile/reuters.com/post/3m6uyadc47f2k)
-
----
-
-@reuters.com
-
-Lane Kiffin officially hired by LSU, won't coach Ole Miss again reut.rs/4anxCCJ
-
-[2025-12-01 07:35:09](https://bsky.app/profile/reuters.com/post/3m6uxwuljq72w)
-
----
-
-@financialtimes.com
-
-Starmer to launch fresh push for welfare spending reform on.ft.com/4ixMEIf
-
-[2025-12-01 07:35:07](https://bsky.app/profile/financialtimes.com/post/3m6uxwsbqq225)
-
----
-
-@bloomberg.com
-
-The $260 billion fixed-maturity funds sector is supposed to offer investors security. But the chase for yield is taking them into riskier corners of the market.
-
-[2025-12-01 07:32:08](https://bsky.app/profile/bloomberg.com/post/3m6uxrhvarb2m)
+[2025-12-01 08:03:51](https://bsky.app/profile/npr.org/post/3m6uzk5wjep23)
 
 ---
 
 @nikkei.com
 
-忘年会に行ったら成長できる？　Z世代、職場飲み会不要派6割
+【東京は3位に後退】
+世界最大の都市圏はジャカルタ　国連2025年の推計人口
 www.nikkei.com/article/DGXZQO...
 
-「職場の飲み会は気を遣うから行きたくない」と語る20代女性。「ここで働くのは3年だけ。上司と交流するモチベーションは薄い」というのが本音です。
+ジャカルタの人口は2000年の2600万人から1.6倍に。大気汚染や交通渋滞が深刻になっています。
 
-連載「飲みノミクス」の初回です。
+00年代に首位だった東京は、50年には7位に後退する見通しです。
 
-[2025-12-01 07:31:36](https://bsky.app/profile/nikkei.com/post/3m6uxqiufqa2t)
+[2025-12-01 08:01:36](https://bsky.app/profile/nikkei.com/post/3m6uzg5yuo32e)
+
+---
+
+@reuters.com
+
+Real Madrid held to third straight draw in 1-1 stalemate at Girona reut.rs/4aj9vVJ
+
+[2025-12-01 08:00:54](https://bsky.app/profile/reuters.com/post/3m6uzevbjio26)
+
+---
+
+@cnbc.com
+
+Cassiy Johnson's print-on-demand Etsy T-shirt shop helped her quit her job and launch two other side hustles — and it only takes 30 minutes per day, she says.
+
+[2025-12-01 08:00:31](https://bsky.app/profile/cnbc.com/post/3m6uze7gbc423)
 
 ---
 
 @usatoday.com
 
-It is possible to overdo it on the protein. Here's how nutrition experts recommend finding that happy medium.
+Can you retire comfortably on Social Security alone? We asked seniors.
 
-[2025-12-01 07:30:20](https://bsky.app/profile/usatoday.com/post/3m6uxoa4eoi2p)
+[2025-12-01 08:00:21](https://bsky.app/profile/usatoday.com/post/3m6uzdwkaul2u)
 
 ---
 
-@bloomberg.com
+@aljazeera.com
 
-US and Ukrainian negotiators said they had productive discussions about a framework for a peace deal, but there was no final breakthrough as Trump continues to push for a truce with Russia.
+A bride, 10 bridesmaids, a baby and two women were kidnapped during a night raid in Sokoto State.
 
-[2025-12-01 07:30:14](https://bsky.app/profile/bloomberg.com/post/3m6uxo2qb5j2o)
+[2025-12-01 08:00:18](https://bsky.app/profile/aljazeera.com/post/3m6uzdtlzbm2f)
+
+---
+
+@washingtonpost.com
+
+Immigration officers were sent to Chicago to detain and deport “violent offenders” that DHS said were released from jails because of “sanctuary” policies. The agency says it has arrested more than 4,000 people, but only about 120 of those have a criminal record.
+
+[2025-12-01 08:00:11](https://bsky.app/profile/washingtonpost.com/post/3m6uzdmnrhu23)
+
+---
+
+@apnews.com
+
+Max Verstappen has won the Qatar Grand Prix to send a tense Formula 1 title fight into the season’s final race in Abu Dhabi next weekend.
+
+[2025-12-01 08:00:11](https://bsky.app/profile/apnews.com/post/3m6uzdmurck2j)
 
 ---
 
