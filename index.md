@@ -1,9 +1,9 @@
-# [2025-11-30 16:10 updated](2025_11_30.md)
+# [2025-11-30 16:30 updated](2025_11_30.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Operations restart at Iraq's Khor Mor field, transporting gas to power stations, ministry says reut.rs/4pEaPHi <a href="https://bsky.app/profile/reuters.com/post/3m6tdxvqkqn27" target="_blank">reuters.com</a> (2025-11-30 16:05:10)</span><span style="padding-right:50px;">J’Mari Taylor became the first Atlantic Coast Conference running back since 2021 to run for a touchdown and throw for a score in the same game as No. 17 Virginia beat Virginia Tech 27-7 on Saturday night to clinch a spot in the conference championship game. <a href="https://bsky.app/profile/apnews.com/post/3m6tdv4ji7d2h" target="_blank">apnews.com</a> (2025-11-30 16:03:36)</span><span style="padding-right:50px;">鋳造会社は「ネズミとゾウ」　中小の製造業、自社キャラ作り採用活動 www.nikkei.com/article/DGXZQO...  「ちゅうぞうくん」「スチールパイセン」「カキミマン」…。  トヨタやスズキなどの自動車産業や航空産業といった製造業の集積地でもある中部圏。  世界大手がひしめくなか、中小・零細企業は人材採用につなげるために自社キャラで認知度拡大を狙います。 <a href="https://bsky.app/profile/nikkei.com/post/3m6tdqza2wp2g" target="_blank">nikkei.com</a> (2025-11-30 16:01:18)</span><span style="padding-right:50px;">British millennials are embracing an unlikely new cause: infrastructure, housing and the politics of economic growth. <a href="https://bsky.app/profile/bloomberg.com/post/3m6tdpvk7fn22" target="_blank">bloomberg.com</a> (2025-11-30 16:00:41)</span><span style="padding-right:50px;">You can make a couple small changes. to get the most of your interactions with your colleagues — starting with your first greeting to them, says Vanessa Van Edwards.  Mastering other interactions could help you become more well-liked at work, too.   Here are four more tips from other experts. <a href="https://bsky.app/profile/cnbc.com/post/3m6tdps53kg2i" target="_blank">cnbc.com</a> (2025-11-30 16:00:37)</span>
+<span style="padding-right:50px;">Top 25 roundup: No. 10 Alabama survives, will play for SEC title reut.rs/48jFDrb <a href="https://bsky.app/profile/reuters.com/post/3m6tf3odi6r2k" target="_blank">reuters.com</a> (2025-11-30 16:25:10)</span><span style="padding-right:50px;">India's Abhishek runs riot with 52-ball 148 in domestic T20 clash reut.rs/48lO9V5 <a href="https://bsky.app/profile/reuters.com/post/3m6tejsrmy22a" target="_blank">reuters.com</a> (2025-11-30 16:15:10)</span><span style="padding-right:50px;">NBA roundup: Pacers sink Bulls on Pascal Siakam's buzzer shot reut.rs/489c1fV <a href="https://bsky.app/profile/reuters.com/post/3m6teaucahj2i" target="_blank">reuters.com</a> (2025-11-30 16:10:10)</span><span style="padding-right:50px;">Operations restart at Iraq's Khor Mor field, transporting gas to power stations, ministry says reut.rs/4pEaPHi <a href="https://bsky.app/profile/reuters.com/post/3m6tdxvqkqn27" target="_blank">reuters.com</a> (2025-11-30 16:05:10)</span><span style="padding-right:50px;">J’Mari Taylor became the first Atlantic Coast Conference running back since 2021 to run for a touchdown and throw for a score in the same game as No. 17 Virginia beat Virginia Tech 27-7 on Saturday night to clinch a spot in the conference championship game. <a href="https://bsky.app/profile/apnews.com/post/3m6tdv4ji7d2h" target="_blank">apnews.com</a> (2025-11-30 16:03:36)</span>
   </div>
 </div>
 
@@ -32,14 +32,38 @@
 
 ## News Headlines
 
-1. イラク、ホル・モル油田で操業再開
-2. バージニア大、カンファレンス決勝進出
-3. 中小製造業、自社キャラで採用活動を活性化
-4. 米ブラックフライデー売上高、伸び加速
-5. カリフォルニア、子どもの誕生日会で銃乱射事件、4人死亡
-6. ツバル、メタバース国家で水没の危機に挑む
+1. アラバマ大、接戦制しSECタイトル戦へ
+2. インド国内T20でアビシェクが52球で148点の大暴れ
+3. シアカムのブザービーターでペイサーズがブルズを沈める
+4. イラクのホル・モル油田で操業再開、発電所へガス供給
+5. 中小製造業、自社キャラで採用活動を活性化
+6. 米ブラックフライデー売上高、伸び加速 - 個人消費堅調
 
 ----
+
+@reuters.com
+
+Top 25 roundup: No. 10 Alabama survives, will play for SEC title reut.rs/48jFDrb
+
+[2025-11-30 16:25:10](https://bsky.app/profile/reuters.com/post/3m6tf3odi6r2k)
+
+---
+
+@reuters.com
+
+India's Abhishek runs riot with 52-ball 148 in domestic T20 clash reut.rs/48lO9V5
+
+[2025-11-30 16:15:10](https://bsky.app/profile/reuters.com/post/3m6tejsrmy22a)
+
+---
+
+@reuters.com
+
+NBA roundup: Pacers sink Bulls on Pascal Siakam's buzzer shot reut.rs/489c1fV
+
+[2025-11-30 16:10:10](https://bsky.app/profile/reuters.com/post/3m6teaucahj2i)
+
+---
 
 @reuters.com
 
@@ -105,31 +129,6 @@ NHL roundup: Lightning stifle Rangers in 7th straight win reut.rs/3Kwlvc0
 Authorities have not yet released information about the attacker's identity or motive behind attack on family gathering.
 
 [2025-11-30 16:00:20](https://bsky.app/profile/aljazeera.com/post/3m6tdpbzvy227)
-
----
-
-@apnews.com
-
-The New York Rangers have an NHL-best 11 road wins, yet their play at home has been a mess by comparison.
-
-[2025-11-30 16:00:10](https://bsky.app/profile/apnews.com/post/3m6tdoyb6bl2j)
-
----
-
-@nhknewsunofficial.bsky.social
-
-衆議院で与党会派が過半数 自民 古屋氏 安定的政権運営に期待
-https://news.web.nhk/newsweb/na/na-k10014990061000
-
-[2025-11-30 15:57:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6tdjh3v5o2u)
-
----
-
-@bloomberg-jp.bsky.social
-
-中国の製造業活動、11月も縮小－過去最長の低迷局面に
-
-[2025-11-30 15:53:23](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6tdctzgcd2j)
 
 ---
 
