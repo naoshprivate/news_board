@@ -1,9 +1,9 @@
-# [2025-11-30 09:30 updated](2025_11_30.md)
+# [2025-11-30 09:50 updated](2025_11_30.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Ukraine hits two Russian 'shadow fleet' oil tankers with naval drones reut.rs/48bPNKc <a href="https://bsky.app/profile/reuters.com/post/3m6sn2szuwu2i" target="_blank">reuters.com</a> (2025-11-30 09:15:11)</span><span style="padding-right:50px;">Israel Gaza war: Why I spend hours painstakingly repairing banknotes <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6smxsei5b22" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-11-30 09:13:29)</span><span style="padding-right:50px;">UK plans justice overhaul to prioritise victims by cutting court delays reut.rs/49NVZtg <a href="https://bsky.app/profile/reuters.com/post/3m6smrvl5ty2o" target="_blank">reuters.com</a> (2025-11-30 09:10:12)</span><span style="padding-right:50px;">「クマはサンジンサマの授けもの」　令和のマタギ、共生の哲学守れるか www.nikkei.com/article/DGXZQO...  狩猟を生業にしてきた「マタギ」の里、秋田県北秋田市の阿仁地区。  「シカリ」と呼ばれる頭領を32年間務めた松橋吉太郎さんは「今の人は真剣さが足んねぇなあ」とつぶやきます。  そんな往年のシカリが目を細めたのは、「伝説のマタギ」と呼ばれた祖父を持つ一人の若者のことを話す時でした。 <a href="https://bsky.app/profile/nikkei.com/post/3m6smbybilk2l" target="_blank">nikkei.com</a> (2025-11-30 09:01:18)</span><span style="padding-right:50px;">Here are live predictions and projections for the College Football Playoff bracket and 12-team CFP field after Week 14 games. Follow along: <a href="https://bsky.app/profile/usatoday.com/post/3m6smasldck2q" target="_blank">usatoday.com</a> (2025-11-30 09:00:39)</span>
+<span style="padding-right:50px;">In a conversation with ChatGPT, I told my AI 'therapist' I was crashing out after seeing my ex. No matter what I said, it told me I was right. <a href="https://bsky.app/profile/usatoday.com/post/3m6soqfa56y2d" target="_blank">usatoday.com</a> (2025-11-30 09:45:09)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】井原市で建物火災 焼け跡から1人の遺体【岡山】 (2025-11-30 09:41:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6sopvtnrq2g" target="_blank">sokuho.news</a> (2025-11-30 09:44:53)</span><span style="padding-right:50px;">India freedom struggle: The hidden heroines found in long-lost photographs  <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6so3q3ing22" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-11-30 09:33:35)</span><span style="padding-right:50px;">スーパー戦隊終了、積み重ねた価値と特撮の未来 www.nikkei.com/article/DGXZQO...  「かつては集団ヒーローという構造は画期的だったが、半世紀という時を経て、目新しさも失われていった可能性がある」  アニメ特撮研究家の氷川竜介氏に、スーパー戦隊が果たしてきた役割と特撮のこれからについて聞きました。 <a href="https://bsky.app/profile/nikkei.com/post/3m6snxn7t4q2g" target="_blank">nikkei.com</a> (2025-11-30 09:31:18)</span><span style="padding-right:50px;">Michigan's Jaishawn Barham headbutted a referee in the Wolverines' game against Ohio State on Saturday, Nov. 29. <a href="https://bsky.app/profile/usatoday.com/post/3m6snvtmpaj2h" target="_blank">usatoday.com</a> (2025-11-30 09:30:18)</span>
   </div>
 </div>
 
@@ -32,14 +32,70 @@
 
 ## News Headlines
 
-1. ウクライナ、ロシア「影の艦隊」タンカーを海軍ドローンで攻撃
-2. 英国、司法制度改革で被害者優先、裁判遅延を削減へ
-3. iPS細胞活用で白血病治療、京大が2027年にも治験
-4. 韓国EC企業Coupang、顧客アカウント3370万件が侵害
-5. トランプ大統領、ベネズエラ上空を全面的に閉鎖と警告
-6. ロシア、ウクライナに大規模空襲、首都キーウなどで2人死亡
+1. 井原市で建物火災、焼け跡から1遺体
+2. ウクライナ、ロシア「影の艦隊」石油タンカーを攻撃
+3. iPS細胞で白血病治療、京大が2027年にも治験
+4. 韓国EC大手クーパン、顧客アカウント3370万件漏洩
+5. 米判事、シチゴ親会社の株式売却を承認
+6. 障害ある子の親、9割が「自分が亡き後」を心配
 
 ----
+
+@usatoday.com
+
+In a conversation with ChatGPT, I told my AI 'therapist' I was crashing out after seeing my ex. No matter what I said, it told me I was right.
+
+[2025-11-30 09:45:09](https://bsky.app/profile/usatoday.com/post/3m6soqfa56y2d)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】井原市で建物火災 焼け跡から1人の遺体【岡山】
+(2025-11-30 09:41:00) #ニュース
+
+[2025-11-30 09:44:53](https://bsky.app/profile/sokuho.news/post/3m6sopvtnrq2g)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+India freedom struggle: The hidden heroines found in long-lost photographs 
+
+[2025-11-30 09:33:35](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6so3q3ing22)
+
+---
+
+@nikkei.com
+
+スーパー戦隊終了、積み重ねた価値と特撮の未来
+www.nikkei.com/article/DGXZQO...
+
+「かつては集団ヒーローという構造は画期的だったが、半世紀という時を経て、目新しさも失われていった可能性がある」
+
+アニメ特撮研究家の氷川竜介氏に、スーパー戦隊が果たしてきた役割と特撮のこれからについて聞きました。
+
+[2025-11-30 09:31:18](https://bsky.app/profile/nikkei.com/post/3m6snxn7t4q2g)
+
+---
+
+@usatoday.com
+
+Michigan's Jaishawn Barham headbutted a referee in the Wolverines' game against Ohio State on Saturday, Nov. 29.
+
+[2025-11-30 09:30:18](https://bsky.app/profile/usatoday.com/post/3m6snvtmpaj2h)
+
+---
+
+@bloomberg.com
+
+A euro-zone inflation reading close to 2% will be enough to satisfy ECB officials that they should avoid tweaking rates in December.
+
+[2025-11-30 09:30:17](https://bsky.app/profile/bloomberg.com/post/3m6snvsqulo27)
+
+---
 
 @reuters.com
 
@@ -77,58 +133,6 @@ www.nikkei.com/article/DGXZQO...
 そんな往年のシカリが目を細めたのは、「伝説のマタギ」と呼ばれた祖父を持つ一人の若者のことを話す時でした。
 
 [2025-11-30 09:01:18](https://bsky.app/profile/nikkei.com/post/3m6smbybilk2l)
-
----
-
-@usatoday.com
-
-Here are live predictions and projections for the College Football Playoff bracket and 12-team CFP field after Week 14 games. Follow along:
-
-[2025-11-30 09:00:39](https://bsky.app/profile/usatoday.com/post/3m6smasldck2q)
-
----
-
-@bloomberg.com
-
-At one of the world's leading hospitality schools, I learned the secret to five-start service. Hint: It might be hiding at your local Starbucks.
-
-[2025-11-30 09:00:25](https://bsky.app/profile/bloomberg.com/post/3m6smafdk232d)
-
----
-
-@apnews.com
-
-The Louisiana State Penitentiary held its first ever 'Father Daughter Dance' this month.
-
-[2025-11-30 09:00:23](https://bsky.app/profile/apnews.com/post/3m6smadpqjr2p)
-
----
-
-@cnn.com
-
-After years guiding tourists around Cambodia, Nao Sok has a clear answer when asked which destination is most underrated: Oudong.
-https://cnn.it/48FyEsq
-
-[2025-11-30 09:00:11](https://bsky.app/profile/cnn.com/post/3m6sm7ylo7b23)
-
----
-
-@washingtonpost.com
-
-Caught between the threat of a U.S. attack and a government they don’t trust to provide accurate information, Venezuelans are living moment to moment, unsure of what to expect next — a disrupting, exhausting existence. 
-
-[2025-11-30 09:00:10](https://bsky.app/profile/washingtonpost.com/post/3m6sm7xj4hj2e)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】テナントビルで男性刺される 殺人未遂容疑で現行犯逮捕 大分
-(2025-11-30 08:27:00) #ニュース
-
-[2025-11-30 08:43:50](https://bsky.app/profile/sokuho.news/post/3m6slcr2tiy2e)
 
 ---
 
