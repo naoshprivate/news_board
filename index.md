@@ -1,9 +1,9 @@
-# [2025-12-01 02:10 updated](2025_12_01.md)
+# [2025-12-01 02:30 updated](2025_12_01.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Surprise heirs are popping up because of DNA test kits and wreaking havoc for families handling their loved ones’ estates. <a href="https://bsky.app/profile/wsj.com/post/3m6ufn2qcz72i" target="_blank">wsj.com</a> (2025-12-01 02:07:33)</span><span style="padding-right:50px;">College football’s final week of the regular season brought familiar foes head-to-head, setting the stage for conference championship games and fresh rankings in the latest AP Top 25 poll at 2 p.m. ET. Follow live. <a href="https://bsky.app/profile/apnews.com/post/3m6ufmixn3c2y" target="_blank">apnews.com</a> (2025-12-01 02:07:14)</span><span style="padding-right:50px;">BREAKING: Pope Leo XIV has said the only solution to Israel-Palestine must include a Palestinian state, reaffirming the Vatican’s position.  🔴 LIVE updates: aje.io/kaiji6 <a href="https://bsky.app/profile/aljazeera.com/post/3m6ufleb55k2l" target="_blank">aljazeera.com</a> (2025-12-01 02:06:36)</span><span style="padding-right:50px;">Reports: Arkansas to hire Memphis' Ryan Silverfield as coach reut.rs/3MwAsLJ <a href="https://bsky.app/profile/reuters.com/post/3m6ufiv4fyg2n" target="_blank">reuters.com</a> (2025-12-01 02:05:13)</span><span style="padding-right:50px;">After an unfulfilling retirement, 68-year-old George Jerjian unretired and started his own company. He shares the most important lessons that most retirees don't talk about. <a href="https://bsky.app/profile/cnbc.com/post/3m6ufbml35m2o" target="_blank">cnbc.com</a> (2025-12-01 02:01:09)</span>
+<span style="padding-right:50px;">The restaurant-turned-hospitality brand co-founded by the actor is riding the branded residences boom — and the pipeline stretches from Manchester to Mexico on.ft.com/4oGvklX <a href="https://bsky.app/profile/financialtimes.com/post/3m6ugtn4hsy27" target="_blank">financialtimes.com</a> (2025-12-01 02:29:07)</span><span style="padding-right:50px;">🔔気象庁より【震源速報】です。  2時26分頃、宮城県沖(深さ:60km) を震源とする M4.7 の地震を観測しました。 この地震による津波の心配はありません。 (2025-12-01 02:28:31) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m6ugsmxmto2q" target="_blank">sokuho.news</a> (2025-12-01 02:28:34)</span><span style="padding-right:50px;">🔔NHKより【地震速報】です。  ■震度3■ 岩手沿岸南部 岩手内陸南部 宮城北部 宮城中部 (2025-12-01 02:26) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m6ugrd2tty27" target="_blank">sokuho.news</a> (2025-12-01 02:27:50)</span><span style="padding-right:50px;">🔔気象庁より【震度速報】です。  2時26分頃、岩手県・宮城県で最大震度3の地震を観測しました。 今後の情報に注意してください。 (2025-12-01 02:27:33) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/01/2025-12-01-02-26-00.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3m6ugqv7jvk2y" target="_blank">sokuho.news</a> (2025-12-01 02:27:35)</span><span style="padding-right:50px;">🚨地震発生中❗❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像7🈡 (2025-12-01 02:26:51) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m6ugqsnqav2d" target="_blank">sokuho.news</a> (2025-12-01 02:27:32)</span>
   </div>
 </div>
 
@@ -32,96 +32,136 @@
 
 ## News Headlines
 
-1.  DNA検査キットで思わぬ相続人が出現、遺産相続に混乱
-2.  法王レオ14世、イスラエル・パレスチナ問題の解決にはパレスチナ国家が必要と表明
-3.  AI搭載トイレ、健康状態を監視？次世代ウェルネストラッキングの可能性
-4.  トランプ氏、ベネズエラ空域は閉鎖されたと警告－緊張高まる
-5.  ガザ保健省、イスラエルによる攻撃で7万人以上が死亡と発表
-6.  トランプ政権高官、ウクライナと和平協議開始、停戦目指す
+1. 宮城県沖でM4.7の地震発生、最大震度3
+2. 俳優共同設立のレストランブランド、高級住宅市場に進出
+3. フロリダ大学、チューレーン大学のジョン・サムラルを新監督に指名
+4. カーリー、インドが南アフリカに勝利した試合でセンチュリーを記録
+5. ローマ教皇レオ14世、イスラエル・パレスチナ問題解決にはパレスチナ国家が必要と発言
+6. スマートトイレ、AIとセンサーで健康状態をモニタリング
 
 ----
 
-@wsj.com
+@financialtimes.com
 
-Surprise heirs are popping up because of DNA test kits and wreaking havoc for families handling their loved ones’ estates.
+The restaurant-turned-hospitality brand co-founded by the actor is riding the branded residences boom — and the pipeline stretches from Manchester to Mexico
+on.ft.com/4oGvklX
 
-[2025-12-01 02:07:33](https://bsky.app/profile/wsj.com/post/3m6ufn2qcz72i)
-
----
-
-@apnews.com
-
-College football’s final week of the regular season brought familiar foes head-to-head, setting the stage for conference championship games and fresh rankings in the latest AP Top 25 poll at 2 p.m. ET. Follow live.
-
-[2025-12-01 02:07:14](https://bsky.app/profile/apnews.com/post/3m6ufmixn3c2y)
+[2025-12-01 02:29:07](https://bsky.app/profile/financialtimes.com/post/3m6ugtn4hsy27)
 
 ---
 
-@aljazeera.com
+@sokuho.news
 
-<strong><span style="color: red;">BREAKING:</span> Pope Leo XIV has said the only solution to Israel-Palestine must include a Palestinian state, reaffirming the Vatican’s position.</strong><br><strong></strong><br><strong>🔴 LIVE updates: aje.io/kaiji6</strong>
+🔔気象庁より【震源速報】です。
 
-[2025-12-01 02:06:36](https://bsky.app/profile/aljazeera.com/post/3m6ufleb55k2l)
+2時26分頃、宮城県沖(深さ:60km) を震源とする M4.7 の地震を観測しました。
+この地震による津波の心配はありません。
+(2025-12-01 02:28:31) #地震
 
----
-
-@reuters.com
-
-Reports: Arkansas to hire Memphis' Ryan Silverfield as coach reut.rs/3MwAsLJ
-
-[2025-12-01 02:05:13](https://bsky.app/profile/reuters.com/post/3m6ufiv4fyg2n)
+[2025-12-01 02:28:34](https://bsky.app/profile/sokuho.news/post/3m6ugsmxmto2q)
 
 ---
 
-@cnbc.com
+@sokuho.news
 
-After an unfulfilling retirement, 68-year-old George Jerjian unretired and started his own company. He shares the most important lessons that most retirees don't talk about.
+🔔NHKより【地震速報】です。
 
-[2025-12-01 02:01:09](https://bsky.app/profile/cnbc.com/post/3m6ufbml35m2o)
+■震度3■
+岩手沿岸南部 岩手内陸南部 宮城北部 宮城中部
+(2025-12-01 02:26) #地震
 
----
-
-@usatoday.com
-
-Police departments around the country are using AI-powered technology that allows them to communicate with people who don't speak the same language.
-
-[2025-12-01 02:00:59](https://bsky.app/profile/usatoday.com/post/3m6ufbdgdkm2p)
+[2025-12-01 02:27:50](https://bsky.app/profile/sokuho.news/post/3m6ugrd2tty27)
 
 ---
 
-@reuters.com
+@sokuho.news
 
-De Cuyper, Tzimas on target as Brighton down Forest to go fifth reut.rs/4iuifKF
+🔔気象庁より【震度速報】です。
 
-[2025-12-01 02:00:52](https://bsky.app/profile/reuters.com/post/3m6ufb4b3li27)
+2時26分頃、岩手県・宮城県で最大震度3の地震を観測しました。
+今後の情報に注意してください。
+(2025-12-01 02:27:33) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/01/2025-12-01-02-26-00.html?xlarge_image=1
 
----
-
-@bloomberg.com
-
-After steps, sleep and heart rate, the next wave of wellness tracking may be in the bathroom. Equipped with sensors and AI, smart toilets promise to monitor hydration, gut health and even cancer risk — if users can get past the ick factor.
-
-Read more: bloom.bg/4896Dth
-
-📷️: Toto
-
-[2025-12-01 02:00:44](https://bsky.app/profile/bloomberg.com/post/3m6ufauylki2n)
+[2025-12-01 02:27:35](https://bsky.app/profile/sokuho.news/post/3m6ugqv7jvk2y)
 
 ---
 
-@cnn.com
+@sokuho.news
 
-Gone are the days of seniors walking down the road from their house to see the town doctor. https://cnn.it/3MdyJuI
+🚨地震発生中❗❗❗
 
-[2025-12-01 02:00:28](https://bsky.app/profile/cnn.com/post/3m6ufafskbb2n)
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像7🈡
+(2025-12-01 02:26:51) #緊急地震速報
+
+[2025-12-01 02:27:32](https://bsky.app/profile/sokuho.news/post/3m6ugqsnqav2d)
 
 ---
 
-@washingtonpost.com
+@sokuho.news
 
-The Defense Department under Pete Hegseth has been co-opted into President Trump's norm-shattering bid to exploit what are supposed to be the nonpartisan tools of government to crush political foes.
+🚨地震発生中❗❗❗
 
-[2025-12-01 02:00:26](https://bsky.app/profile/washingtonpost.com/post/3m6ufad2o3k2e)
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像6
+(2025-12-01 02:26:50) #緊急地震速報
+
+[2025-12-01 02:27:31](https://bsky.app/profile/sokuho.news/post/3m6ugqqsjlu26)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗❗
+
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像5
+(2025-12-01 02:26:30) #緊急地震速報
+
+[2025-12-01 02:27:20](https://bsky.app/profile/sokuho.news/post/3m6ugqgtsgc2y)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗❗
+
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像4
+(2025-12-01 02:26:15) #緊急地震速報
+
+[2025-12-01 02:27:00](https://bsky.app/profile/sokuho.news/post/3m6ugptlcv22y)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗❗
+
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像3
+(2025-12-01 02:26:14) #緊急地震速報
+
+[2025-12-01 02:26:50](https://bsky.app/profile/sokuho.news/post/3m6ugpk4dh724)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗
+
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像2
+(2025-12-01 02:26:10) #緊急地震速報
+
+[2025-12-01 02:26:31](https://bsky.app/profile/sokuho.news/post/3m6ugoy7mit2p)
 
 ---
 
