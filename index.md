@@ -1,9 +1,9 @@
-# [2025-11-30 10:50 updated](2025_11_30.md)
+# [2025-11-30 11:10 updated](2025_11_30.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】山陽自動車道（下り）の鴨方IC付近で事故 現場付近を先頭に約2キロの渋滞 (2025-11-30 10:43:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6ss5vhgz62y" target="_blank">sokuho.news</a> (2025-11-30 10:46:23)</span><span style="padding-right:50px;">Will new warning labels in Ireland turn people away from alcohol? <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6srzlkytv2m" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-11-30 10:43:58)</span><span style="padding-right:50px;">🛎️JNNより【独自】です。  【独自】香港マンション火災 発火直後のマンション内部写真入手 (2025-11-30 09:57:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6srhwfk7o24" target="_blank">sokuho.news</a> (2025-11-30 10:34:06)</span><span style="padding-right:50px;">British playwright Tom Stoppard has died at age 88 peacefully at his home in Dorset, England, his agents confirmed. <a href="https://bsky.app/profile/usatoday.com/post/3m6srb22di52p" target="_blank">usatoday.com</a> (2025-11-30 10:30:15)</span><span style="padding-right:50px;">Here are the key events from day 1,375 of Russia’s war on Ukraine. <a href="https://bsky.app/profile/aljazeera.com/post/3m6srazijsf27" target="_blank">aljazeera.com</a> (2025-11-30 10:30:14)</span>
+<span style="padding-right:50px;">“暗黒物質が放った可能性あるガンマ線発見” 東大研究者 https://news.web.nhk/newsweb/na/na-k10014989961000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6st3qfsjo2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-30 11:03:02)</span><span style="padding-right:50px;">永谷園「東海道五拾三次カード」年内終了　お茶づけ商品に封入 www.nikkei.com/article/DGXZQO...  12月末の生産分をもって終了すると発表しました。   「お茶づけ海苔」は1952年に発売。検印紙に伝統的な絵画を印刷したのが始まりといいます。   現在実施中の「東海道五拾三次カードフルセットキャンペーン」は2026年8月末まで応募できます。  2025年10月 #注目された記事 <a href="https://bsky.app/profile/nikkei.com/post/3m6ssyliurk2g" target="_blank">nikkei.com</a> (2025-11-30 11:01:19)</span><span style="padding-right:50px;">China Nov non-manufacturing activity contracts for first time in nearly three years, PMI shows reut.rs/44F3aQN <a href="https://bsky.app/profile/reuters.com/post/3m6ssydr52f2i" target="_blank">reuters.com</a> (2025-11-30 11:01:11)</span><span style="padding-right:50px;">Is it a test drive or an indoor roller coaster? At this year's showcase, Camp Jeep serves as a bit of both. Take a look. <a href="https://bsky.app/profile/usatoday.com/post/3m6ssxa7gua26" target="_blank">usatoday.com</a> (2025-11-30 11:00:33)</span><span style="padding-right:50px;">Starting December 10, sites that meet the Australian government's definition of an "age-restricted social media platform" will need to show that they're doing enough to eject or block children under 16 or face fines of up to 49.5 million Australian dollars ($32 million). https://cnn.it/48kl1h6 <a href="https://bsky.app/profile/cnn.com/post/3m6sswgn5ny2i" target="_blank">cnn.com</a> (2025-11-30 11:00:07)</span>
   </div>
 </div>
 
@@ -32,14 +32,91 @@
 
 ## News Headlines
 
-1. 山陽道鴨方IC付近で事故、最大2キロ渋滞
-2. 香港マンション火災、内部写真を入手
-3. 井原市で建物火災、焼け跡から性別不明遺体
-4. スーパー戦隊、半世紀の歴史に幕
-5. ウクライナ、ロシア「影の艦隊」タンカーを攻撃
-6. 京大、iPS細胞で白血病治療へ、2027年にも治験
+1. 暗黒物質由来か、ガンマ線発見か　東大研究者が発表
+2. 永谷園「東海道五拾三次カード」年内終了へ
+3. 中国、非製造業PMIが3年ぶりに縮小
+4. 豪、未成年者対策不十分なSNSに罰金
+5. 山陽道で事故、鴨方IC付近で渋滞
+6. 井原市で建物火災、焼け跡から遺体
 
 ----
+
+@nhknewsunofficial.bsky.social
+
+“暗黒物質が放った可能性あるガンマ線発見” 東大研究者
+https://news.web.nhk/newsweb/na/na-k10014989961000
+
+[2025-11-30 11:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6st3qfsjo2j)
+
+---
+
+@nikkei.com
+
+永谷園「東海道五拾三次カード」年内終了　お茶づけ商品に封入
+www.nikkei.com/article/DGXZQO...
+
+12月末の生産分をもって終了すると発表しました。
+ 
+「お茶づけ海苔」は1952年に発売。検印紙に伝統的な絵画を印刷したのが始まりといいます。
+ 
+現在実施中の「東海道五拾三次カードフルセットキャンペーン」は2026年8月末まで応募できます。
+
+2025年10月 #注目された記事
+
+[2025-11-30 11:01:19](https://bsky.app/profile/nikkei.com/post/3m6ssyliurk2g)
+
+---
+
+@reuters.com
+
+China Nov non-manufacturing activity contracts for first time in nearly three years, PMI shows reut.rs/44F3aQN
+
+[2025-11-30 11:01:11](https://bsky.app/profile/reuters.com/post/3m6ssydr52f2i)
+
+---
+
+@usatoday.com
+
+Is it a test drive or an indoor roller coaster? At this year's showcase, Camp Jeep serves as a bit of both. Take a look.
+
+[2025-11-30 11:00:33](https://bsky.app/profile/usatoday.com/post/3m6ssxa7gua26)
+
+---
+
+@cnn.com
+
+Starting December 10, sites that meet the Australian government's definition of an "age-restricted social media platform" will need to show that they're doing enough to eject or block children under 16 or face fines of up to 49.5 million Australian dollars ($32 million).
+https://cnn.it/48kl1h6
+
+[2025-11-30 11:00:07](https://bsky.app/profile/cnn.com/post/3m6sswgn5ny2i)
+
+---
+
+@washingtonpost.com
+
+A fog bank hundreds of miles long in California’s Central Valley reappeared every day for a week and was likely to linger into the weekend.
+
+Here’s why “Tule fog” seems to linger:
+
+[2025-11-30 11:00:06](https://bsky.app/profile/washingtonpost.com/post/3m6sswftfro23)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Watch: Moment huge fireball destroys Sydney waste facility
+
+[2025-11-30 10:52:05](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6ssi3zwzk2e)
+
+---
+
+@reuters.com
+
+China's factory activity shrinks for eighth month in November, PMI shows reut.rs/48kFRwQ
+
+[2025-11-30 10:50:12](https://bsky.app/profile/reuters.com/post/3m6ssepwdwy2i)
+
+---
 
 @sokuho.news
 
@@ -57,79 +134,6 @@
 Will new warning labels in Ireland turn people away from alcohol?
 
 [2025-11-30 10:43:58](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6srzlkytv2m)
-
----
-
-@sokuho.news
-
-🛎️JNNより【独自】です。
-
-【独自】香港マンション火災 発火直後のマンション内部写真入手
-(2025-11-30 09:57:00) #ニュース
-
-[2025-11-30 10:34:06](https://bsky.app/profile/sokuho.news/post/3m6srhwfk7o24)
-
----
-
-@usatoday.com
-
-British playwright Tom Stoppard has died at age 88 peacefully at his home in Dorset, England, his agents confirmed.
-
-[2025-11-30 10:30:15](https://bsky.app/profile/usatoday.com/post/3m6srb22di52p)
-
----
-
-@aljazeera.com
-
-Here are the key events from day 1,375 of Russia’s war on Ukraine.
-
-[2025-11-30 10:30:14](https://bsky.app/profile/aljazeera.com/post/3m6srazijsf27)
-
----
-
-@npr.org
-
-After the Zika outbreak ended in Brazil, many families faced a new reality: a child whose life was irrevocably altered after the mother contracted the virus while pregnant. Here's what happened next. n.pr/48bOXNK
-
-[2025-11-30 10:25:51](https://bsky.app/profile/npr.org/post/3m6sqz5ublp2o)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Nigeria's kidnapping crisis: 'Too scared to speak' - villagers on living in the midst of bandits
-
-[2025-11-30 10:20:11](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6sqp2pktb2x)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】山陽自動車道下り線の鴨方IC付近で事故 付近では1㎞の渋滞
-(2025-11-30 10:16:00) #ニュース
-
-[2025-11-30 10:18:25](https://bsky.app/profile/sokuho.news/post/3m6sqluyo4d2l)
-
----
-
-@nytimes.com
-
-If you love physical books and hate Kindles, but need a travel-friendly reading device, our Wirecutter tech lover has a recommendation for you: nyti.ms/3M319rh
-
-[2025-11-30 10:09:06](https://bsky.app/profile/nytimes.com/post/3m6sq37keja2y)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】井原市で建物火災 焼け跡から性別不明の1人の遺体【岡山】
-(2025-11-30 10:01:00) #ニュース
-
-[2025-11-30 10:03:10](https://bsky.app/profile/sokuho.news/post/3m6spqmaeze2l)
 
 ---
 
