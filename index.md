@@ -1,9 +1,9 @@
-# [2025-12-01 02:50 updated](2025_12_01.md)
+# [2025-12-01 03:10 updated](2025_12_01.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Homeland Security Secretary Kristi Noem said the man who allegedly opened fire on National Guard members in Washington, D.C., last week was likely drawn to more extreme political views after coming to the U.S. <a href="https://bsky.app/profile/wsj.com/post/3m6uhjgv42l2a" target="_blank">wsj.com</a> (2025-12-01 02:41:19)</span><span style="padding-right:50px;">Verstappen wins in Qatar to ensure three-way title showdown reut.rs/49NYfAE <a href="https://bsky.app/profile/reuters.com/post/3m6uhhkvc2z26" target="_blank">reuters.com</a> (2025-12-01 02:40:16)</span><span style="padding-right:50px;">A storm has already brought over eight inches of snowfall to parts of Illinois, including Chicago. <a href="https://bsky.app/profile/forbes.com/post/3m6uhh72enj2m" target="_blank">forbes.com</a> (2025-12-01 02:40:03)</span><span style="padding-right:50px;">【地震速報】岩手 宮城で震度3 津波の心配なし https://news.web.nhk/newsweb/na/na-k10014990341000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6uha2mt2j2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 02:36:01)</span><span style="padding-right:50px;">Lithuania capital airport closes again over balloons reut.rs/4olRjy9 <a href="https://bsky.app/profile/reuters.com/post/3m6uh6hbuvs2o" target="_blank">reuters.com</a> (2025-12-01 02:35:10)</span>
+<span style="padding-right:50px;">Slot admits relief as misfiring Reds stop rot at West Ham reut.rs/48G4bum <a href="https://bsky.app/profile/reuters.com/post/3m6uiu5vwmu26" target="_blank">reuters.com</a> (2025-12-01 03:05:12)</span><span style="padding-right:50px;">Accenture dubs its 800,000 staff ‘reinventors’ as it adapts to AI on.ft.com/3M91cSz <a href="https://bsky.app/profile/financialtimes.com/post/3m6uitlaywh2q" target="_blank">financialtimes.com</a> (2025-12-01 03:04:53)</span><span style="padding-right:50px;">In a star-studded event to mark the date, the Grand Ole Opry celebrated 100 years. <a href="https://bsky.app/profile/usatoday.com/post/3m6uiloixh626" target="_blank">usatoday.com</a> (2025-12-01 03:00:28)</span><span style="padding-right:50px;">A jury in a suburban town south of Boston is set to hear the murder case against Brian Walshe in the death of his wife, Ana Walshe, nearly three years after her disappearance garnered national attention. https://cnn.it/3KvaK9W <a href="https://bsky.app/profile/cnn.com/post/3m6uilh4lwi2q" target="_blank">cnn.com</a> (2025-12-01 03:00:20)</span><span style="padding-right:50px;">Delegations meet in Florida to ‘create pathway’ for sovereign Ukraine ahead of US special envoy Witkoff’s Moscow trip. <a href="https://bsky.app/profile/aljazeera.com/post/3m6uilg4vim2z" target="_blank">aljazeera.com</a> (2025-12-01 03:00:19)</span>
   </div>
 </div>
 
@@ -32,93 +32,94 @@
 
 ## News Headlines
 
-1. 米国土安全保障長官、首都銃撃事件容疑者は米国で過激化した可能性
-2. フェルスタッペン、カタールで優勝！三つ巴のタイトル争いへ
-3. シカゴ含むイリノイ州で大雪、20センチ超の積雪
-4. 岩手・宮城で震度3の地震、津波の心配なし
-5. リトアニア首都空港、気球侵入で再び閉鎖
-6. 遺産相続巡りDNA検査キットで思わぬ相続人が出現、混乱招く
+1. リバプールが連敗ストップ、マンUは勝利
+2. 宮城・岩手で震度3の地震、津波の心配なし
+3. カタールGPでフェルスタッペンが勝利、タイトル争いは最終戦へ
+4. 米主要空港で遅延、冬の嵐とソフトウエア問題が影響
+5. ウクライナへのドローン攻撃強化、ロシアの新たな戦術
+6. アクセンチュア、80万人の従業員を「リインベンター」と命名
 
 ----
 
-@wsj.com
-
-Homeland Security Secretary Kristi Noem said the man who allegedly opened fire on National Guard members in Washington, D.C., last week was likely drawn to more extreme political views after coming to the U.S.
-
-[2025-12-01 02:41:19](https://bsky.app/profile/wsj.com/post/3m6uhjgv42l2a)
-
----
-
 @reuters.com
 
-Verstappen wins in Qatar to ensure three-way title showdown reut.rs/49NYfAE
+Slot admits relief as misfiring Reds stop rot at West Ham reut.rs/48G4bum
 
-[2025-12-01 02:40:16](https://bsky.app/profile/reuters.com/post/3m6uhhkvc2z26)
-
----
-
-@forbes.com
-
-A storm has already brought over eight inches of snowfall to parts of Illinois, including Chicago.
-
-[2025-12-01 02:40:03](https://bsky.app/profile/forbes.com/post/3m6uhh72enj2m)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【地震速報】岩手 宮城で震度3 津波の心配なし
-https://news.web.nhk/newsweb/na/na-k10014990341000
-
-[2025-12-01 02:36:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6uha2mt2j2b)
-
----
-
-@reuters.com
-
-Lithuania capital airport closes again over balloons reut.rs/4olRjy9
-
-[2025-12-01 02:35:10](https://bsky.app/profile/reuters.com/post/3m6uh6hbuvs2o)
-
----
-
-@cnbc.com
-
-'Zootopia 2' fuels top 5 Thanksgiving box office haul
-
-[2025-12-01 02:32:09](https://bsky.app/profile/cnbc.com/post/3m6ugz2mm2c2s)
+[2025-12-01 03:05:12](https://bsky.app/profile/reuters.com/post/3m6uiu5vwmu26)
 
 ---
 
 @financialtimes.com
 
-On Sunday more than 80% of those who voted rejected the initiative to impose an inheritance levy on the super-rich on.ft.com/4ruKm0x
+Accenture dubs its 800,000 staff ‘reinventors’ as it adapts to AI on.ft.com/3M91cSz
 
-[2025-12-01 02:31:09](https://bsky.app/profile/financialtimes.com/post/3m6ugxb7ahx2l)
-
----
-
-@financialtimes.com
-
-On Sunday more than 80% of those who voted rejected the initiative to impose an inheritance levy on the super-rich on.ft.com/43XDw9L
-
-[2025-12-01 02:31:06](https://bsky.app/profile/financialtimes.com/post/3m6ugx6ocjq2r)
+[2025-12-01 03:04:53](https://bsky.app/profile/financialtimes.com/post/3m6uitlaywh2q)
 
 ---
 
 @usatoday.com
 
-Proponents tout biotin's potential benefits for hair, nails and more. But do they offer benefits for some people more than others?
+In a star-studded event to mark the date, the Grand Ole Opry celebrated 100 years.
 
-[2025-12-01 02:30:32](https://bsky.app/profile/usatoday.com/post/3m6ugw5vvq52x)
+[2025-12-01 03:00:28](https://bsky.app/profile/usatoday.com/post/3m6uiloixh626)
 
 ---
 
-@reuters.com
+@cnn.com
 
-Isak scores as Liverpool halt woeful run, Man United win at Palace reut.rs/4pDdXTJ
+A jury in a suburban town south of Boston is set to hear the murder case against Brian Walshe in the death of his wife, Ana Walshe, nearly three years after her disappearance garnered national attention. https://cnn.it/3KvaK9W
 
-[2025-12-01 02:30:25](https://bsky.app/profile/reuters.com/post/3m6ugvwwjck2o)
+[2025-12-01 03:00:20](https://bsky.app/profile/cnn.com/post/3m6uilh4lwi2q)
+
+---
+
+@aljazeera.com
+
+Delegations meet in Florida to ‘create pathway’ for sovereign Ukraine ahead of US special envoy Witkoff’s Moscow trip.
+
+[2025-12-01 03:00:19](https://bsky.app/profile/aljazeera.com/post/3m6uilg4vim2z)
+
+---
+
+@washingtonpost.com
+
+Analysis: There was once a time when a shocking tragedy would bring the country together. So far, almost the opposite is happening after two young National Guard members from West Virginia were ambushed, killing one and critically injuring the other.
+
+[2025-12-01 03:00:17](https://bsky.app/profile/washingtonpost.com/post/3m6uile7jyh2y)
+
+---
+
+@apnews.com
+
+Emails obtained by The Associated Press show that the Afghan man accused of shooting two National Guard members near the White House had been unraveling for years. Rahmanullah Lakanwal couldn't hold down a job and he flipped between long, lightless stretches of isolation.
+
+[2025-12-01 03:00:12](https://bsky.app/profile/apnews.com/post/3m6uil7q4b527)
+
+---
+
+@nytimes.com
+
+A top Republican and Democrats in Congress suggested on Sunday that U.S. military officials might have committed a war crime in President Trump’s offensive against boats in the Caribbean after a Washington Post report said that during one attack, a follow-up strike was ordered to kill survivors.
+
+[2025-12-01 03:00:05](https://bsky.app/profile/nytimes.com/post/3m6uikyeqkb26)
+
+---
+
+@cbsnews.com
+
+Travelers around the United States faced delays at major airports during the busy holiday weekend, as winter weather disrupted airlines' schedules and software issues temporarily grounded a popular plane model in the days after Thanksgiving.
+
+
+
+[2025-12-01 03:00:01](https://bsky.app/profile/cbsnews.com/post/3m6uikux5tp2n)
+
+---
+
+@wsj.com
+
+The most important development in the war in Ukraine this year is Russia’s growing ability to hit Ukrainian supply lines with drones—a more significant shift than its incremental gains in territory.
+
+[2025-12-01 02:57:43](https://bsky.app/profile/wsj.com/post/3m6uigr5nc524)
 
 ---
 
