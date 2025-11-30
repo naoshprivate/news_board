@@ -1,9 +1,9 @@
-# [2025-11-30 13:50 updated](2025_11_30.md)
+# [2025-11-30 14:10 updated](2025_11_30.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">BREAKING: Four people were killed and 10 wounded in a shooting during a family gathering at a banquet hall in Stockton, sheriff’s officials say. <a href="https://bsky.app/profile/apnews.com/post/3m6t462ow4222" target="_blank">apnews.com</a> (2025-11-30 13:45:26)</span><span style="padding-right:50px;">Shooting in Stockton, California, leaves at least four dead and 10 others injured, officials say <a href="https://bsky.app/profile/cbsnews.com/post/3m6t42runmh2n" target="_blank">cbsnews.com</a> (2025-11-30 13:43:36)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】「車が海に転落」と119番通報 1人搬送 那覇港 (2025-11-30 13:34:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6t3o7npav2d" target="_blank">sokuho.news</a> (2025-11-30 13:36:35)</span><span style="padding-right:50px;">SNSで「契約」　VTuber受難、書面なしで報酬額や支払日あいまい www.nikkei.com/article/DGXZQO...  「録音もされていないし、飲みの席のような雰囲気で進んでいく」と語るのは5年の活動歴があるVチューバー。  企業から商品宣伝の仕事を受ける際に契約書はないことが多く、口頭で報酬について合意することも。  SNS上ではトラブルを訴える声が上がっています。 <a href="https://bsky.app/profile/nikkei.com/post/3m6t3erm6qt26" target="_blank">nikkei.com</a> (2025-11-30 13:31:18)</span><span style="padding-right:50px;">Mammoth F Logan Cooley injured in loss to Blues reut.rs/4pyVAiM <a href="https://bsky.app/profile/reuters.com/post/3m6t3d2rnyn26" target="_blank">reuters.com</a> (2025-11-30 13:30:20)</span>
+<span style="padding-right:50px;"> Leave me alone, AI on.ft.com/4pEq9DB  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m6t5d5okgf27" target="_blank">financialtimes.com</a> (2025-11-30 14:06:11)</span><span style="padding-right:50px;"> Doge, crypto and the end of the lol era on.ft.com/4rscZLN  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m6t5d5bbyi2j" target="_blank">financialtimes.com</a> (2025-11-30 14:06:10)</span><span style="padding-right:50px;">China services activity hits three-year low while factory slump persists on.ft.com/4isNNkn <a href="https://bsky.app/profile/financialtimes.com/post/3m6t573qm5a26" target="_blank">financialtimes.com</a> (2025-11-30 14:03:55)</span><span style="padding-right:50px;">テック・オブ・ザ・リング　米AIマフィアが狙う「王の帰還」 www.nikkei.com/article/DGXZQO...  あらゆる種族を力で統べようとする冥王サウロンと、それに対抗する「自由の民」との戦いを描く「指輪物語（ロード・オブ・ザ・リング）」。  トランプ政権の周辺に集う米テック経営者の多くが座右の書にしています。  彼らは光と闇のどちら側にいるのでしょうか。 <a href="https://bsky.app/profile/nikkei.com/post/3m6t52glw5b2z" target="_blank">nikkei.com</a> (2025-11-30 14:01:18)</span><span style="padding-right:50px;">BREAKING: Four people are dead and 10 are hospitalized after a shooting at a banquet hall in Stockton, California, officials say. <a href="https://bsky.app/profile/nbcnews.com/post/3m6t525shd72i" target="_blank">nbcnews.com</a> (2025-11-30 14:01:09)</span>
   </div>
 </div>
 
@@ -32,112 +32,107 @@
 
 ## News Headlines
 
-1. カリフォルニア州ストックトンで銃撃事件、4人死亡、10人負傷
-2. 那覇港で車が海に転落、1人搬送
-3. VTuber受難、契約書なしで報酬トラブル多発
-4. パレスチナ連帯デモ、死者7万人超え
-5. 片山財務相、円の急落はファンダメンタルズで説明できず
-6. ほぼ日手帳、ついにアプリ化　共有機能なし
+1. 米カリフォルニア州ストックトンで銃撃事件、4人死亡10人負傷
+2. 中国、製造業の景況感指数が8か月連続で50を下回る
+3. 金総書記、空軍創設80年で核戦争抑止への貢献を強調
+4. 温暖化対策：ミカン農家がアボカド栽培に挑戦
+5. VTuber受難：契約書なしの口頭合意で報酬トラブル発生
+6. AIによる気象予測の新時代：Googleの新モデルがハリケーン予測で最高の結果
 
 ----
 
-@apnews.com
+@financialtimes.com
 
-<strong><span style="color: red;">BREAKING:</span> Four people were killed and 10 wounded in a shooting during a family gathering at a banquet hall in Stockton, sheriff’s officials say.</strong>
+ Leave me alone, AI on.ft.com/4pEq9DB  | opinion
 
-[2025-11-30 13:45:26](https://bsky.app/profile/apnews.com/post/3m6t462ow4222)
-
----
-
-@cbsnews.com
-
-Shooting in Stockton, California, leaves at least four dead and 10 others injured, officials say
-
-[2025-11-30 13:43:36](https://bsky.app/profile/cbsnews.com/post/3m6t42runmh2n)
+[2025-11-30 14:06:11](https://bsky.app/profile/financialtimes.com/post/3m6t5d5okgf27)
 
 ---
 
-@sokuho.news
+@financialtimes.com
 
-🛎️JNNより【速報】です。
+ Doge, crypto and the end of the lol era on.ft.com/4rscZLN  | opinion
 
-【速報】「車が海に転落」と119番通報 1人搬送 那覇港
-(2025-11-30 13:34:00) #ニュース
+[2025-11-30 14:06:10](https://bsky.app/profile/financialtimes.com/post/3m6t5d5bbyi2j)
 
-[2025-11-30 13:36:35](https://bsky.app/profile/sokuho.news/post/3m6t3o7npav2d)
+---
+
+@financialtimes.com
+
+China services activity hits three-year low while factory slump persists on.ft.com/4isNNkn
+
+[2025-11-30 14:03:55](https://bsky.app/profile/financialtimes.com/post/3m6t573qm5a26)
 
 ---
 
 @nikkei.com
 
-SNSで「契約」　VTuber受難、書面なしで報酬額や支払日あいまい
+テック・オブ・ザ・リング　米AIマフィアが狙う「王の帰還」
 www.nikkei.com/article/DGXZQO...
 
-「録音もされていないし、飲みの席のような雰囲気で進んでいく」と語るのは5年の活動歴があるVチューバー。
+あらゆる種族を力で統べようとする冥王サウロンと、それに対抗する「自由の民」との戦いを描く「指輪物語（ロード・オブ・ザ・リング）」。
 
-企業から商品宣伝の仕事を受ける際に契約書はないことが多く、口頭で報酬について合意することも。
+トランプ政権の周辺に集う米テック経営者の多くが座右の書にしています。
 
-SNS上ではトラブルを訴える声が上がっています。
+彼らは光と闇のどちら側にいるのでしょうか。
 
-[2025-11-30 13:31:18](https://bsky.app/profile/nikkei.com/post/3m6t3erm6qt26)
+[2025-11-30 14:01:18](https://bsky.app/profile/nikkei.com/post/3m6t52glw5b2z)
+
+---
+
+@nbcnews.com
+
+<strong><span style="color: red;">BREAKING:</span> Four people are dead and 10 are hospitalized after a shooting at a banquet hall in Stockton, California, officials say.</strong>
+
+[2025-11-30 14:01:09](https://bsky.app/profile/nbcnews.com/post/3m6t525shd72i)
 
 ---
 
 @reuters.com
 
-Mammoth F Logan Cooley injured in loss to Blues reut.rs/4pyVAiM
+Four dead after 14 people shot at family gathering in Stockton, California reut.rs/48GGr9o
 
-[2025-11-30 13:30:20](https://bsky.app/profile/reuters.com/post/3m6t3d2rnyn26)
+[2025-11-30 14:00:39](https://bsky.app/profile/reuters.com/post/3m6t4zav47m2r)
+
+---
+
+@bloomberg.com
+
+From small clubs to viral talent shows, Chinese comedians are testing how far laughter can go in a system where every punchline must pass through censors. Read more: bloom.bg/44FapIv
+
+📷️: A Weibo account under iQiyi  
+
+[2025-11-30 14:00:34](https://bsky.app/profile/bloomberg.com/post/3m6t4z47bw72s)
 
 ---
 
 @aljazeera.com
 
-Solidarity demonstrations with Palestinians come as the death toll from Israel's war on Gaza crosses 70,000.
+Kurdish authorities say one killed, several wounded in riots in Erbil's Gwer, as authorities try to restore power.
 
-[2025-11-30 13:30:19](https://bsky.app/profile/aljazeera.com/post/3m6t3cz74xv2k)
-
----
-
-@reuters.com
-
-Japan finance minister says yen's rapid fall clearly not driven by fundamentals reut.rs/4ruw67Q
-
-[2025-11-30 13:20:10](https://bsky.app/profile/reuters.com/post/3m6t2qv7hxf2y)
+[2025-11-30 14:00:21](https://bsky.app/profile/aljazeera.com/post/3m6t4yqdsek2f)
 
 ---
 
-@reuters.com
+@cnbc.com
 
-Steelers starting LT Broderick Jones (neck) placed on injured reserve reut.rs/49HCgv7
+In blue zones, communities known for having the highest life expectancies in the world, longevity researcher Dan Buettner says breakfast is a top priority.
 
-[2025-11-30 13:10:12](https://bsky.app/profile/reuters.com/post/3m6t27254li2k)
+Buettner suggests going for these six foods in the morning to mirror the way the world’s longest-lived people eat.
 
----
-
-@nikkei.com
-
-ほぼ日手帳、ついにアプリに　共有機能なし「映えより自分との対話」
-www.nikkei.com/article/DGXZQO...
-
-「1日1ページ」をどうデジタル化するか。構想から公開までは３年がかり。
-
-こだわったのは遊び心とゲームっぽさ。
-
-糸井重里会長は「スペックの競争からは抜け出したいと思ってた」といいます。
-
-[2025-11-30 13:01:18](https://bsky.app/profile/nikkei.com/post/3m6szp4vz7o2k)
+[2025-11-30 14:00:17](https://bsky.app/profile/cnbc.com/post/3m6t4ymflmn2x)
 
 ---
 
-@sokuho.news
+@washingtonpost.com
 
-🛎️文春より【スクープ】です。
+Their parents died a few years ago, yet the partner of the letter writer’s brother won’t stop making fun of them.
 
-「恋愛は個人の自由だけれど…」人気ゴルファー・都玲華（21）の“30歳差”熱愛スクープにモヤモヤ反応が続出
-(2025-11-30 13:00) #ニュース
+“I am finding it harder to keep silent,” they wrote. “Should I confront her the next time this happens?”
 
-[2025-11-30 13:00:40](https://bsky.app/profile/sokuho.news/post/3m6sznyictv24)
+Eric responds:
+
+[2025-11-30 14:00:07](https://bsky.app/profile/washingtonpost.com/post/3m6t4ycqned2y)
 
 ---
 
