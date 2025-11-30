@@ -1,9 +1,9 @@
-# [2025-11-30 14:10 updated](2025_11_30.md)
+# [2025-11-30 14:30 updated](2025_11_30.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;"> Leave me alone, AI on.ft.com/4pEq9DB  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m6t5d5okgf27" target="_blank">financialtimes.com</a> (2025-11-30 14:06:11)</span><span style="padding-right:50px;"> Doge, crypto and the end of the lol era on.ft.com/4rscZLN  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m6t5d5bbyi2j" target="_blank">financialtimes.com</a> (2025-11-30 14:06:10)</span><span style="padding-right:50px;">China services activity hits three-year low while factory slump persists on.ft.com/4isNNkn <a href="https://bsky.app/profile/financialtimes.com/post/3m6t573qm5a26" target="_blank">financialtimes.com</a> (2025-11-30 14:03:55)</span><span style="padding-right:50px;">テック・オブ・ザ・リング　米AIマフィアが狙う「王の帰還」 www.nikkei.com/article/DGXZQO...  あらゆる種族を力で統べようとする冥王サウロンと、それに対抗する「自由の民」との戦いを描く「指輪物語（ロード・オブ・ザ・リング）」。  トランプ政権の周辺に集う米テック経営者の多くが座右の書にしています。  彼らは光と闇のどちら側にいるのでしょうか。 <a href="https://bsky.app/profile/nikkei.com/post/3m6t52glw5b2z" target="_blank">nikkei.com</a> (2025-11-30 14:01:18)</span><span style="padding-right:50px;">BREAKING: Four people are dead and 10 are hospitalized after a shooting at a banquet hall in Stockton, California, officials say. <a href="https://bsky.app/profile/nbcnews.com/post/3m6t525shd72i" target="_blank">nbcnews.com</a> (2025-11-30 14:01:09)</span>
+<span style="padding-right:50px;">Ty Simpson and Isaiah Horton connected three times for touchdowns, the last on a fourth-down play in the waning minutes, and No. 10 Alabama escaped Auburn with a 27-20 victory in the rivalry known as the Iron Bowl on Saturday night. <a href="https://bsky.app/profile/apnews.com/post/3m6t5qhzo3l2h" target="_blank">apnews.com</a> (2025-11-30 14:13:38)</span><span style="padding-right:50px;">Morgan Stanley and Goldman dominate Hong Kong equity deals on.ft.com/3MeDDaO <a href="https://bsky.app/profile/financialtimes.com/post/3m6t5pgjukn24" target="_blank">financialtimes.com</a> (2025-11-30 14:13:03)</span><span style="padding-right:50px;"> Leave me alone, AI on.ft.com/4pEq9DB  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m6t5d5okgf27" target="_blank">financialtimes.com</a> (2025-11-30 14:06:11)</span><span style="padding-right:50px;"> Doge, crypto and the end of the lol era on.ft.com/4rscZLN  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m6t5d5bbyi2j" target="_blank">financialtimes.com</a> (2025-11-30 14:06:10)</span><span style="padding-right:50px;">China services activity hits three-year low while factory slump persists on.ft.com/4isNNkn <a href="https://bsky.app/profile/financialtimes.com/post/3m6t573qm5a26" target="_blank">financialtimes.com</a> (2025-11-30 14:03:55)</span>
   </div>
 </div>
 
@@ -32,14 +32,30 @@
 
 ## News Headlines
 
-1. 米カリフォルニア州ストックトンで銃撃事件、4人死亡10人負傷
-2. 中国、製造業の景況感指数が8か月連続で50を下回る
-3. 金総書記、空軍創設80年で核戦争抑止への貢献を強調
-4. 温暖化対策：ミカン農家がアボカド栽培に挑戦
-5. VTuber受難：契約書なしの口頭合意で報酬トラブル発生
-6. AIによる気象予測の新時代：Googleの新モデルがハリケーン予測で最高の結果
+1. アラバマ大、オーバーン大に辛勝　鉄壁のアイアンボウル制す
+2. 香港株式取引、モルガン・スタンレーとゴールドマンが寡占
+3. 中国、サービス業は3年ぶりの低迷、製造業の不振続く
+4. 米国カリフォルニア州ストックトンで銃乱射事件、4人死亡、10人負傷
+5. 世界の航空会社、エアバスA320のソフト不具合で緊急対応
+6. 北朝鮮キム総書記、空軍創設80年演説「核戦争抑止の一翼担う」
 
 ----
+
+@apnews.com
+
+Ty Simpson and Isaiah Horton connected three times for touchdowns, the last on a fourth-down play in the waning minutes, and No. 10 Alabama escaped Auburn with a 27-20 victory in the rivalry known as the Iron Bowl on Saturday night.
+
+[2025-11-30 14:13:38](https://bsky.app/profile/apnews.com/post/3m6t5qhzo3l2h)
+
+---
+
+@financialtimes.com
+
+Morgan Stanley and Goldman dominate Hong Kong equity deals on.ft.com/3MeDDaO
+
+[2025-11-30 14:13:03](https://bsky.app/profile/financialtimes.com/post/3m6t5pgjukn24)
+
+---
 
 @financialtimes.com
 
@@ -111,28 +127,6 @@ From small clubs to viral talent shows, Chinese comedians are testing how far la
 Kurdish authorities say one killed, several wounded in riots in Erbil's Gwer, as authorities try to restore power.
 
 [2025-11-30 14:00:21](https://bsky.app/profile/aljazeera.com/post/3m6t4yqdsek2f)
-
----
-
-@cnbc.com
-
-In blue zones, communities known for having the highest life expectancies in the world, longevity researcher Dan Buettner says breakfast is a top priority.
-
-Buettner suggests going for these six foods in the morning to mirror the way the world’s longest-lived people eat.
-
-[2025-11-30 14:00:17](https://bsky.app/profile/cnbc.com/post/3m6t4ymflmn2x)
-
----
-
-@washingtonpost.com
-
-Their parents died a few years ago, yet the partner of the letter writer’s brother won’t stop making fun of them.
-
-“I am finding it harder to keep silent,” they wrote. “Should I confront her the next time this happens?”
-
-Eric responds:
-
-[2025-11-30 14:00:07](https://bsky.app/profile/washingtonpost.com/post/3m6t4ycqned2y)
 
 ---
 
