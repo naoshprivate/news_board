@@ -1,9 +1,9 @@
-# [2025-12-01 04:10 updated](2025_12_01.md)
+# [2025-12-01 04:30 updated](2025_12_01.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">bit.ly/44zTerJ <a href="https://bsky.app/profile/apnews.com/post/3m6um7qi5wd2t" target="_blank">apnews.com</a> (2025-12-01 04:05:22)</span><span style="padding-right:50px;">bit.ly/4amcahq Georgia moves up to No. 3 as Texas A&M falls out of the top five for the first time in two months in The Associated Press college football poll Sunday. <a href="https://bsky.app/profile/apnews.com/post/3m6um7niill22" target="_blank">apnews.com</a> (2025-12-01 04:05:19)</span><span style="padding-right:50px;">Coastal Carolina fires head coach Tim Beck reut.rs/4oJGKFz <a href="https://bsky.app/profile/reuters.com/post/3m6um7jdv2e27" target="_blank">reuters.com</a> (2025-12-01 04:05:15)</span><span style="padding-right:50px;">Vitamin prices are often deceiving. It’s typically not necessary to spend top dollar on supplements. The inexpensive options can be just as good—if you pick the right ones. <a href="https://bsky.app/profile/nytimes.com/post/3m6um5g6njs2y" target="_blank">nytimes.com</a> (2025-12-01 04:04:04)</span><span style="padding-right:50px;">A fatal attack on a routine patrol has intensified questions over the administration’s open-ended military deployments in American cities. <a href="https://bsky.app/profile/wsj.com/post/3m6um4zcpn42o" target="_blank">wsj.com</a> (2025-12-01 04:03:51)</span>
+<span style="padding-right:50px;">Hong Kong’s government moved to stamp out mounting public anger in the wake of the city’s deadliest fire in nearly eight decades, which left at least 128 people dead and raised questions about missed warnings <a href="https://bsky.app/profile/bloomberg.com/post/3m6unkaefqx2y" target="_blank">bloomberg.com</a> (2025-12-01 04:29:08)</span><span style="padding-right:50px;">US officials will meet with a Ukrainian delegation Sunday in south Florida as the White House continues its drive toward an agreement on ending the Kremlin’s almost four-year war on Ukraine <a href="https://bsky.app/profile/bloomberg.com/post/3m6unige5gi2h" target="_blank">bloomberg.com</a> (2025-12-01 04:28:07)</span><span style="padding-right:50px;">US authorities believe the shooter suspected of killing one National Guard member and seriously wounding another in Washington, DC, was radicalized while in the US, Homeland Security Secretary Kristi Noem said <a href="https://bsky.app/profile/bloomberg.com/post/3m6ungnjh2z2o" target="_blank">bloomberg.com</a> (2025-12-01 04:27:08)</span><span style="padding-right:50px;">BREAKING: An attack by Israeli settlers on a water well east of Ramallah in the occupied West Bank has cut off the water supply to several Palestinian towns, according to the Jerusalem Water Authority.  🔴 LIVE updates: aje.io/5equzi <a href="https://bsky.app/profile/aljazeera.com/post/3m6ungi2lh22l" target="_blank">aljazeera.com</a> (2025-12-01 04:27:02)</span><span style="padding-right:50px;">Wargames on Europe's eastern flank offered a glimpse into Nato's future: Fighting off a future invasion with minimal US support. <a href="https://bsky.app/profile/bloomberg.com/post/3m6undecw6g2g" target="_blank">bloomberg.com</a> (2025-12-01 04:25:17)</span>
   </div>
 </div>
 
@@ -32,93 +32,92 @@
 
 ## News Headlines
 
-1. ジョージア大学、APカレッジフットボールランキングで3位に浮上
-2. コースタルカロライナ大学、ヘッドコーチのティム・ベックを解任
-3. カムチャツカ地震で津波警報、避難は対象の約2割
-4. 南アフリカ、G20への完全なメンバーとしての関与を継続
-5. イスラエル大統領官邸前で抗議活動、ネタニヤフ首相の恩赦要求に反対
-6. アクセンチュア、AI適応で80万人を「再発明者」と命名
+1. 香港で過去80年で最悪の火災、少なくとも128人死亡
+2. 米国、ウクライナ代表団と会談、和平合意に向けた動き
+3. イスラエル入植者による攻撃でパレスチナの町で断水
+4. NATO、米国支援が最小限の侵略防衛を想定した演習
+5. Databricks、1340億ドル評価額で資金調達を協議中
+6. ネタニヤフ首相、汚職裁判で恩赦を正式要請
 
 ----
 
-@apnews.com
+@bloomberg.com
 
-bit.ly/44zTerJ
+Hong Kong’s government moved to stamp out mounting public anger in the wake of the city’s deadliest fire in nearly eight decades, which left at least 128 people dead and raised questions about missed warnings
 
-[2025-12-01 04:05:22](https://bsky.app/profile/apnews.com/post/3m6um7qi5wd2t)
+[2025-12-01 04:29:08](https://bsky.app/profile/bloomberg.com/post/3m6unkaefqx2y)
 
 ---
 
-@apnews.com
+@bloomberg.com
 
-bit.ly/4amcahq
-Georgia moves up to No. 3 as Texas A&M falls out of the top five for the first time in two months in The Associated Press college football poll Sunday.
+US officials will meet with a Ukrainian delegation Sunday in south Florida as the White House continues its drive toward an agreement on ending the Kremlin’s almost four-year war on Ukraine
 
-[2025-12-01 04:05:19](https://bsky.app/profile/apnews.com/post/3m6um7niill22)
+[2025-12-01 04:28:07](https://bsky.app/profile/bloomberg.com/post/3m6unige5gi2h)
+
+---
+
+@bloomberg.com
+
+US authorities believe the shooter suspected of killing one National Guard member and seriously wounding another in Washington, DC, was radicalized while in the US, Homeland Security Secretary Kristi Noem said
+
+[2025-12-01 04:27:08](https://bsky.app/profile/bloomberg.com/post/3m6ungnjh2z2o)
+
+---
+
+@aljazeera.com
+
+<strong><span style="color: red;">BREAKING:</span> An attack by Israeli settlers on a water well east of Ramallah in the occupied West Bank has cut off the water supply to several Palestinian towns, according to the Jerusalem Water Authority.</strong><br><strong></strong><br><strong>🔴 LIVE updates: aje.io/5equzi</strong>
+
+[2025-12-01 04:27:02](https://bsky.app/profile/aljazeera.com/post/3m6ungi2lh22l)
+
+---
+
+@bloomberg.com
+
+Wargames on Europe's eastern flank offered a glimpse into Nato's future: Fighting off a future invasion with minimal US support.
+
+[2025-12-01 04:25:17](https://bsky.app/profile/bloomberg.com/post/3m6undecw6g2g)
 
 ---
 
 @reuters.com
 
-Coastal Carolina fires head coach Tim Beck reut.rs/4oJGKFz
+Databricks in talks to raise capital at $134 billion valuation, The Information reports reut.rs/3M1EV9j
 
-[2025-12-01 04:05:15](https://bsky.app/profile/reuters.com/post/3m6um7jdv2e27)
+[2025-12-01 04:25:10](https://bsky.app/profile/reuters.com/post/3m6und5sop427)
+
+---
+
+@bloomberg.com
+
+Wargames on Europe's eastern flank offered a glimpse into Nato's future: Fighting off a future invasion with minimal US support.
+
+[2025-12-01 04:25:08](https://bsky.app/profile/bloomberg.com/post/3m6und2yvio2y)
 
 ---
 
 @nytimes.com
 
-Vitamin prices are often deceiving. It’s typically not necessary to spend top dollar on supplements. The inexpensive options can be just as good—if you pick the right ones.
+Prime Minister Benjamin Netanyahu of Israel formally requested a pardon from the president on Sunday in his long-running corruption trial. Here’s what to know about the trial.
 
-[2025-12-01 04:04:04](https://bsky.app/profile/nytimes.com/post/3m6um5g6njs2y)
-
----
-
-@wsj.com
-
-A fatal attack on a routine patrol has intensified questions over the administration’s open-ended military deployments in American cities.
-
-[2025-12-01 04:03:51](https://bsky.app/profile/wsj.com/post/3m6um4zcpn42o)
-
----
-
-@usatoday.com
-
-Minnesota Gov. Tim Walz condemned President Donald Trump for his use of a slur in a social media post on Thanksgiving and for his characterization of the state's Somali immigrant and diaspora community. bit.ly/4ivjlpM
-
-[2025-12-01 04:01:58](https://bsky.app/profile/usatoday.com/post/3m6ulznzron2t)
-
----
-
-@cnbc.com
-
-Respect is fundamental in a healthy relationship, says psychotherapist Sara Nasserzadeh.
-
-[2025-12-01 04:01:49](https://bsky.app/profile/cnbc.com/post/3m6ulzfh6bb2a)
-
----
-
-@usatoday.com
-
-Fox and CBS are once again splitting up the NFL's Sunday slate in Week 13. Here's which games will air regionally in Week 13.
-
-[2025-12-01 04:01:24](https://bsky.app/profile/usatoday.com/post/3m6ulymsomd2x)
+[2025-12-01 04:20:04](https://bsky.app/profile/nytimes.com/post/3m6umzzjye32l)
 
 ---
 
 @reuters.com
 
-Colts CB Sauce Gardner leaves game vs. Texans with leg injury reut.rs/4pIRYLl
+Viking Stavanger end 34-year drought with Norwegian title win reut.rs/48rBvUH
 
-[2025-12-01 04:01:09](https://bsky.app/profile/reuters.com/post/3m6uly6rcpt2o)
+[2025-12-01 04:15:16](https://bsky.app/profile/reuters.com/post/3m6umrgufmv26)
 
 ---
 
-@apnews.com
+@bloomberg.com
 
-The holiday season is a popular time for volunteering, but experts say giving back is beneficial year-round.
+Thousands of protesters in the Philippines, including Roman Catholic clergy and civil society groups, gathered in the capital for another rally triggered by a government corruption scandal
 
-[2025-12-01 04:00:43](https://bsky.app/profile/apnews.com/post/3m6ulxg3g5e2p)
+[2025-12-01 04:14:48](https://bsky.app/profile/bloomberg.com/post/3m6umqmdjww2s)
 
 ---
 
