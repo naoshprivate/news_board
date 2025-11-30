@@ -1,9 +1,9 @@
-# [2025-11-30 15:10 updated](2025_11_30.md)
+# [2025-11-30 15:30 updated](2025_11_30.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">ミズノ、飛ぶように走れる板バネフットギア　競技用義足の技術生かす（無料記事） www.nikkei.com/article/DGXZQO...  コンセプトモデルを「ジャパンモビリティショー2025」に出展。  靴を移動手段と捉え、自身の体で楽な走行を実現させたいとしています。  2025年10月 #注目された記事 <a href="https://bsky.app/profile/nikkei.com/post/3m6tafovzzl2t" target="_blank">nikkei.com</a> (2025-11-30 15:01:17)</span><span style="padding-right:50px;">Four killed in shooting at child's birthday party in California <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6tafgoxuj26" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-11-30 15:01:08)</span><span style="padding-right:50px;">Now, with tensions sharply rising inside the Capitol over party infighting and a new focus on partisan floor attacks, it's about to get worse. https://cnn.it/3LZU7Up <a href="https://bsky.app/profile/cnn.com/post/3m6tadryzmo2q" target="_blank">cnn.com</a> (2025-11-30 15:00:13)</span><span style="padding-right:50px;">Latinas in the U.S. are using twin braids with colorful ribbons as a symbol of resistance against immigration raids.  This traditional hairstyle, rooted in Mexican culture, represents resilience and identity. <a href="https://bsky.app/profile/washingtonpost.com/post/3m6tadr2o3h2s" target="_blank">washingtonpost.com</a> (2025-11-30 15:00:12)</span><span style="padding-right:50px;">Du Plessis opts out of IPL auctions to play in PSL reut.rs/49NLXs2 <a href="https://bsky.app/profile/reuters.com/post/3m6t77xwv4m2w" target="_blank">reuters.com</a> (2025-11-30 14:40:12)</span>
+<span style="padding-right:50px;">Robinson revels in record fifth World Cup win reut.rs/48fP89e <a href="https://bsky.app/profile/reuters.com/post/3m6tbqesiex2y" target="_blank">reuters.com</a> (2025-11-30 15:25:09)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】J3降格のレノファ山口・中山元気監督(44)が退任へ「このような結果、すべての責任は自分に」 (2025-11-30 15:09:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6tbebxt4w22" target="_blank">sokuho.news</a> (2025-11-30 15:18:24)</span><span style="padding-right:50px;">日曜討論 補正予算案めぐり 自民“早期成立” 立民“修正を” https://news.web.nhk/newsweb/na/na-k10014990021000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6tbdozb3w2g" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-30 15:18:02)</span><span style="padding-right:50px;">トルコ沖でタンカー爆発 “ウクライナ当局などが攻撃”報道 https://news.web.nhk/newsweb/na/na-k10014990041000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6tb6cs6fs23" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-30 15:15:03)</span><span style="padding-right:50px;">Companies drown in 3,000 hours of paperwork to tap EU climate funds on.ft.com/4ooDsag <a href="https://bsky.app/profile/financialtimes.com/post/3m6tay2bcd426" target="_blank">financialtimes.com</a> (2025-11-30 15:11:33)</span>
   </div>
 </div>
 
@@ -32,14 +32,59 @@
 
 ## News Headlines
 
-1. カリフォルニア州ストックトンで銃撃事件、4人死亡、10人負傷
-2. ミズノ、競技用義足技術を生かした板バネフットギア開発
-3. 温暖化で水没危機、ツバルがメタバース国家建設へ
-4. 中国、サービス業は3年ぶり低水準、工場も不況続く
-5. VTuber受難、SNS契約で報酬トラブル増加
-6. 元病院長、第二の人生は離島の医師
+1. ロビンソン、ワールドカップ5度目の優勝
+2. レノファ山口、中山元気監督が退任へ
+3. トルコ沖でタンカー爆発、攻撃報道
+4. カリフォルニアの誕生日パーティーで銃撃、4人死亡
+5. ツバル、メタバース国家で水没の危機に挑戦
+6. 株価急落、中国サービス業3年ぶりの低水準
 
 ----
+
+@reuters.com
+
+Robinson revels in record fifth World Cup win reut.rs/48fP89e
+
+[2025-11-30 15:25:09](https://bsky.app/profile/reuters.com/post/3m6tbqesiex2y)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】J3降格のレノファ山口・中山元気監督(44)が退任へ「このような結果、すべての責任は自分に」
+(2025-11-30 15:09:00) #ニュース
+
+[2025-11-30 15:18:24](https://bsky.app/profile/sokuho.news/post/3m6tbebxt4w22)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+日曜討論 補正予算案めぐり 自民“早期成立” 立民“修正を”
+https://news.web.nhk/newsweb/na/na-k10014990021000
+
+[2025-11-30 15:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6tbdozb3w2g)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+トルコ沖でタンカー爆発 “ウクライナ当局などが攻撃”報道
+https://news.web.nhk/newsweb/na/na-k10014990041000
+
+[2025-11-30 15:15:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6tb6cs6fs23)
+
+---
+
+@financialtimes.com
+
+Companies drown in 3,000 hours of paperwork to tap EU climate funds on.ft.com/4ooDsag
+
+[2025-11-30 15:11:33](https://bsky.app/profile/financialtimes.com/post/3m6tay2bcd426)
+
+---
 
 @nikkei.com
 
@@ -88,53 +133,6 @@ This traditional hairstyle, rooted in Mexican culture, represents resilience and
 Du Plessis opts out of IPL auctions to play in PSL reut.rs/49NLXs2
 
 [2025-11-30 14:40:12](https://bsky.app/profile/reuters.com/post/3m6t77xwv4m2w)
-
----
-
-@financialtimes.com
-
- Why the influencer economy deserves its fan club on.ft.com/489v3CP  | opinion
-
-[2025-11-30 14:36:13](https://bsky.app/profile/financialtimes.com/post/3m6t6ytzmmm2q)
-
----
-
-@npr.org
-
-The storm will spread through the Midwest and Great Lakes regions over the weekend with "widespread heavy snowfall and hazardous travel conditions," the National Weather Service said. n.pr/440gsqZ
-
-[2025-11-30 14:31:50](https://bsky.app/profile/npr.org/post/3m6t6qz3lrw2s)
-
----
-
-@nikkei.com
-
-温暖化による「水没」にらむ島国ツバルの挑戦
-www.nikkei.com/article/DGXZQO...
-
-オーストラリアへの集団移住が始まり、注目されているのがメタバース国家づくり。
-
-国の歴史や文化など様々な情報をデジタル空間に残し、国民が散り散りになっても仮想国家として存続することを目指します。
-
-気候変動の悪影響を受け入れ、軽減する適応策は日本でも急務です。
-
-[2025-11-30 14:31:17](https://bsky.app/profile/nikkei.com/post/3m6t6pzyjez2k)
-
----
-
-@financialtimes.com
-
-Health minister says UK should cash in on NHS patient data on.ft.com/3M9bZMr
-
-[2025-11-30 14:30:55](https://bsky.app/profile/financialtimes.com/post/3m6t6per7eo25)
-
----
-
-@apnews.com
-
-A member of three Warriors championship teams, Kevon Looney embraced any role for coach Steve Kerr — starting, coming off the bench, even playing minimal or no minutes at times if that was best for the team.
-
-[2025-11-30 14:30:11](https://bsky.app/profile/apnews.com/post/3m6t6o2qhvu2j)
 
 ---
 
