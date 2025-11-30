@@ -1,9 +1,9 @@
-# [2025-12-01 01:10 updated](2025_12_01.md)
+# [2025-12-01 01:30 updated](2025_12_01.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;"> AI doesn’t add up if you neglect the mathematicians on.ft.com/4rB8BKH  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m6uccaiovr2n" target="_blank">financialtimes.com</a> (2025-12-01 01:07:49)</span><span style="padding-right:50px;">Update: Travel disruptions continued across the country on Sunday, with over 1,600 flight delays and nearly 500 cancellations. <a href="https://bsky.app/profile/npr.org/post/3m6ucarw4fk2e" target="_blank">npr.org</a> (2025-12-01 01:07:00)</span><span style="padding-right:50px;">As one winter storm winds down over the Midwest and Great Lakes region, forecasters warn that a new system — a potential nor’easter — could unleash “widespread and impactful snow and ice” across the Mid-Atlantic and the Northeast by Tuesday. <a href="https://bsky.app/profile/nytimes.com/post/3m6ubyifu6a2y" target="_blank">nytimes.com</a> (2025-12-01 01:02:21)</span><span style="padding-right:50px;">Lane Kiffin kept us waiting. Mark Stoops says "0% chance" he walks. Kentucky has 0% chance of a bowl. And apparently we're headbutting refs now. <a href="https://bsky.app/profile/usatoday.com/post/3m6ubvdmne226" target="_blank">usatoday.com</a> (2025-12-01 01:00:36)</span><span style="padding-right:50px;">Zelenskiy picks ex-Ukrainian envoy to US as reconstruction and investment adviser reut.rs/44uFQFm <a href="https://bsky.app/profile/reuters.com/post/3m6ubvat7yr27" target="_blank">reuters.com</a> (2025-12-01 01:00:33)</span>
+<span style="padding-right:50px;">Pope Leo XIV challenges Lebanon’s political leaders to be true peacemakers as he seeks to give message of hope in Beirut. <a href="https://bsky.app/profile/apnews.com/post/3m6udeffoet22" target="_blank">apnews.com</a> (2025-12-01 01:26:55)</span><span style="padding-right:50px;">Martinez double earns Inter 2-0 win at Pisa reut.rs/4iv83Sq <a href="https://bsky.app/profile/reuters.com/post/3m6udbbuyeo26" target="_blank">reuters.com</a> (2025-12-01 01:25:10)</span><span style="padding-right:50px;">President Trump has set free a private equity executive who had served less than two weeks of a seven-year sentence for his role in what prosecutors described as a $1.6 billion scheme that defrauded thousands of victims. <a href="https://bsky.app/profile/nytimes.com/post/3m6udaztqjs2q" target="_blank">nytimes.com</a> (2025-12-01 01:25:02)</span><span style="padding-right:50px;">Top Trump administration officials are meeting Ukrainian negotiators in Florida this weekend, pushing to broker an end to Russia's war in Ukraine. n.pr/4aspVLs <a href="https://bsky.app/profile/npr.org/post/3m6ud7rg7ur2g" target="_blank">npr.org</a> (2025-12-01 01:24:20)</span><span style="padding-right:50px;">Isak's first Liverpool league goal helps Reds to vital win at West Ham reut.rs/4pf08uY <a href="https://bsky.app/profile/reuters.com/post/3m6ucphrvmb2i" target="_blank">reuters.com</a> (2025-12-01 01:15:12)</span>
   </div>
 </div>
 
@@ -32,14 +32,78 @@
 
 ## News Headlines
 
-1. AI活用、数学者の重要性を軽視するな
-2. アメリカ各地で旅行混乱続く、多数のフライト遅延・キャンセル
-3. 東海岸に新たな冬の嵐、広範囲で雪と氷の被害のおそれ
-4. スマトラ洪水、死者303人に、住民が略奪に走る事態も
-5. ローマ教皇、イスラエル・パレスチナ二国家解決を改めて主張
-6. インドネシア・スマトラ島の洪水と地滑りで数百人が死亡・行方不明
+1. 教皇レオ14世、レバノンの指導者に真の平和構築を呼びかけ
+2. トランプ前大統領、16億ドル詐欺事件の受刑者を恩赦
+3. 米政府高官、ウクライナ和平交渉を推進
+4. インドネシア、洪水で数百人が行方不明
+5. 米国で過激化した容疑者、州兵銃撃事件に関与
+6. スマトラ島洪水、略奪が発生
 
 ----
+
+@apnews.com
+
+Pope Leo XIV challenges Lebanon’s political leaders to be true peacemakers as he seeks to give message of hope in Beirut.
+
+[2025-12-01 01:26:55](https://bsky.app/profile/apnews.com/post/3m6udeffoet22)
+
+---
+
+@reuters.com
+
+Martinez double earns Inter 2-0 win at Pisa reut.rs/4iv83Sq
+
+[2025-12-01 01:25:10](https://bsky.app/profile/reuters.com/post/3m6udbbuyeo26)
+
+---
+
+@nytimes.com
+
+President Trump has set free a private equity executive who had served less than two weeks of a seven-year sentence for his role in what prosecutors described as a $1.6 billion scheme that defrauded thousands of victims.
+
+[2025-12-01 01:25:02](https://bsky.app/profile/nytimes.com/post/3m6udaztqjs2q)
+
+---
+
+@npr.org
+
+Top Trump administration officials are meeting Ukrainian negotiators in Florida this weekend, pushing to broker an end to Russia's war in Ukraine. n.pr/4aspVLs
+
+[2025-12-01 01:24:20](https://bsky.app/profile/npr.org/post/3m6ud7rg7ur2g)
+
+---
+
+@reuters.com
+
+Isak's first Liverpool league goal helps Reds to vital win at West Ham reut.rs/4pf08uY
+
+[2025-12-01 01:15:12](https://bsky.app/profile/reuters.com/post/3m6ucphrvmb2i)
+
+---
+
+@wsj.com
+
+Stocks and cryptocurrencies linked to President Trump are in a slump—leaving some of his biggest fans with steep losses.
+
+[2025-12-01 01:13:26](https://bsky.app/profile/wsj.com/post/3m6ucmcdqk32t)
+
+---
+
+@nytimes.com
+
+A punchy mix of tangy Dijon, sweet maple, sharp garlic and fresh dill is slathered onto salmon fillets here, bringing major flavor to this quick dish.
+
+[2025-12-01 01:13:11](https://bsky.app/profile/nytimes.com/post/3m6uclu5gf622)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Indonesia searches for hundreds missing in deadly floods
+
+[2025-12-01 01:09:52](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6ucfwiujc27)
+
+---
 
 @financialtimes.com
 
@@ -54,74 +118,6 @@
 Update: Travel disruptions continued across the country on Sunday, with over 1,600 flight delays and nearly 500 cancellations.
 
 [2025-12-01 01:07:00](https://bsky.app/profile/npr.org/post/3m6ucarw4fk2e)
-
----
-
-@nytimes.com
-
-As one winter storm winds down over the Midwest and Great Lakes region, forecasters warn that a new system — a potential nor’easter — could unleash “widespread and impactful snow and ice” across the Mid-Atlantic and the Northeast by Tuesday.
-
-[2025-12-01 01:02:21](https://bsky.app/profile/nytimes.com/post/3m6ubyifu6a2y)
-
----
-
-@usatoday.com
-
-Lane Kiffin kept us waiting. Mark Stoops says "0% chance" he walks. Kentucky has 0% chance of a bowl. And apparently we're headbutting refs now.
-
-[2025-12-01 01:00:36](https://bsky.app/profile/usatoday.com/post/3m6ubvdmne226)
-
----
-
-@reuters.com
-
-Zelenskiy picks ex-Ukrainian envoy to US as reconstruction and investment adviser reut.rs/44uFQFm
-
-[2025-12-01 01:00:33](https://bsky.app/profile/reuters.com/post/3m6ubvat7yr27)
-
----
-
-@cnn.com
-
-Lindsey Halligan’s future as a top prosecutor remains in a sort of purgatory — with Justice Department officials still working through how they might bring the cases against Comey and James back to life — and her position inside the US attorney’s office up for debate https://cnn.it/3MtFske
-
-[2025-12-01 01:00:20](https://bsky.app/profile/cnn.com/post/3m6ubuuv6a62r)
-
----
-
-@washingtonpost.com
-
-Have you noticed scenes in “Wicked: For Good” were made with CGI or other visual effects?
-
-See if you can tell what’s real or not in our quiz: 
-
-[2025-12-01 01:00:14](https://bsky.app/profile/washingtonpost.com/post/3m6ubuonfjv2a)
-
----
-
-@apnews.com
-
-Authorities report that some residents of flood-hit Sumatra have resorted to looting, seeking food and water. The floods, which began nearly a week ago, have killed 303 people and displaced thousands.
-
-[2025-12-01 01:00:11](https://bsky.app/profile/apnews.com/post/3m6ubuljdta22)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【動画】Pickup NEWS（12月1日）
-https://news.web.nhk/newsweb/na/na-k10014990241000
-
-[2025-12-01 01:00:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ubufcl642p)
-
----
-
-@cbsnews.com
-
-From living on her Upstate New York farm, to her roles in movies like the forthcoming "The Testament of Ann Lee" and "The Housemaid," to her battling serious anxiety and OCD, the Oscar-nominee reveals a grounded movie star living a grounded life.
-
-
-[2025-12-01 01:00:00](https://bsky.app/profile/cbsnews.com/post/3m6ububr75j2j)
 
 ---
 
