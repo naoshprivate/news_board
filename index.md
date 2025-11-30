@@ -1,9 +1,9 @@
-# [2025-12-01 06:10 updated](2025_12_01.md)
+# [2025-12-01 06:30 updated](2025_12_01.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">ロシア政府 輸入車のみにかかる税金 大幅引き上げ 戦費調達か https://news.web.nhk/newsweb/na/na-k10014990261000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ut53zyt32j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 06:09:07)</span><span style="padding-right:50px;">香港 高層住宅火災 安否確認などには3～4週間かかる見通し https://news.web.nhk/newsweb/na/na-k10014990321000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ut4ws7fp26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 06:09:02)</span><span style="padding-right:50px;">U.S. president’s endorsement, and announcement of plans to pardon a former Honduran president convicted of drug trafficking, upend a tight vote. <a href="https://bsky.app/profile/wsj.com/post/3m6usxvvt7n2p" target="_blank">wsj.com</a> (2025-12-01 06:06:15)</span><span style="padding-right:50px;">Qatar blow hurts more than Vegas disqualification, says Piastri reut.rs/49NgXZd <a href="https://bsky.app/profile/reuters.com/post/3m6usvxblo72n" target="_blank">reuters.com</a> (2025-12-01 06:05:10)</span><span style="padding-right:50px;">Lane Kiffin is leaving his 11-1 Ole Miss team to become the coach at LSU, taking over a Tigers program that has won national titles under three of its previous four coaches. <a href="https://bsky.app/profile/apnews.com/post/3m6ustm2ylt2i" target="_blank">apnews.com</a> (2025-12-01 06:03:51)</span>
+<span style="padding-right:50px;">インドネシア 大雨で400人以上死亡 日本人10人近くが孤立状態 https://news.web.nhk/newsweb/na/na-k10014990301000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6uu54wlpk2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 06:27:02)</span><span style="padding-right:50px;">Kiffin could soon be one of the highest paid coaches in college football. <a href="https://bsky.app/profile/forbes.com/post/3m6utzjirlz2q" target="_blank">forbes.com</a> (2025-12-01 06:25:03)</span><span style="padding-right:50px;">北～西日本の日本海側中心に大気不安定 急な雷雨などに注意 https://news.web.nhk/newsweb/na/na-k10014990401000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6utxqgrxp26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 06:24:02)</span><span style="padding-right:50px;">JR横浜線 運転再開 https://news.web.nhk/newsweb/na/na-k10014990391000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6utsf3fyk2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 06:21:02)</span><span style="padding-right:50px;">Juan Orlando Hernández, a former president of Honduras, helped orchestrate a decades-long scheme that prosecutors said brought more than 500 tons of cocaine into the U.S. He was convicted in a sweeping case last year, but President Trump said on Friday that he would pardon Hernandez. <a href="https://bsky.app/profile/nytimes.com/post/3m6utqbwrht2e" target="_blank">nytimes.com</a> (2025-12-01 06:19:54)</span>
   </div>
 </div>
 
@@ -32,14 +32,81 @@
 
 ## News Headlines
 
-1. ロシア政府、輸入車税大幅引き上げか 戦費調達目的
-2. 香港高層住宅火災、安否確認に数週間の見通し
-3. 自民・維新、議員定数削減協議を本格化へ
-4. 北海道 日本製鉄所で爆発火災、消火活動続く
-5. 能登半島地震1年11か月、復旧途上道路の除雪に新システム
-6. JR横浜線、線路に車侵入で運転見合わせ
+1. インドネシア大雨、400人超死亡、日本人孤立
+2. 北～西日本、急な雷雨に注意
+3. ロシア、輸入車への税金大幅引き上げ
+4. 香港高層住宅火災、安否確認に数週間
+5. 日本製鉄室蘭で爆発火災、消火活動続く
+6. レーン・キフィン、LSUのヘッドコーチに就任
 
 ----
+
+@nhknewsunofficial.bsky.social
+
+インドネシア 大雨で400人以上死亡 日本人10人近くが孤立状態
+https://news.web.nhk/newsweb/na/na-k10014990301000
+
+[2025-12-01 06:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6uu54wlpk2k)
+
+---
+
+@forbes.com
+
+Kiffin could soon be one of the highest paid coaches in college football.
+
+[2025-12-01 06:25:03](https://bsky.app/profile/forbes.com/post/3m6utzjirlz2q)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+北～西日本の日本海側中心に大気不安定 急な雷雨などに注意
+https://news.web.nhk/newsweb/na/na-k10014990401000
+
+[2025-12-01 06:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6utxqgrxp26)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+JR横浜線 運転再開
+https://news.web.nhk/newsweb/na/na-k10014990391000
+
+[2025-12-01 06:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6utsf3fyk2p)
+
+---
+
+@nytimes.com
+
+Juan Orlando Hernández, a former president of Honduras, helped orchestrate a decades-long scheme that prosecutors said brought more than 500 tons of cocaine into the U.S. He was convicted in a sweeping case last year, but President Trump said on Friday that he would pardon Hernandez.
+
+[2025-12-01 06:19:54](https://bsky.app/profile/nytimes.com/post/3m6utqbwrht2e)
+
+---
+
+@npr.org
+
+Immigrants make up a significant proportion of all the country's doctors. New policies are making it harder and less appealing for foreign-born physicians to come to the U.S.
+
+[2025-12-01 06:18:03](https://bsky.app/profile/npr.org/post/3m6utmy7ldh2g)
+
+---
+
+@apnews.com
+
+Lawmakers from both parties want reviews of U.S. strikes on suspected drug-smuggling vessels after a report that Defense Secretary Pete Hegseth ordered all crew members killed in a Sept. 2 attack.
+
+[2025-12-01 06:15:10](https://bsky.app/profile/apnews.com/post/3m6uthtbcj22j)
+
+---
+
+@financialtimes.com
+
+Nato considers being ‘more aggressive’ against Russia’s hybrid warfare on.ft.com/3Xr2nPG
+
+[2025-12-01 06:09:44](https://bsky.app/profile/financialtimes.com/post/3m6ut64mgut2v)
+
+---
 
 @nhknewsunofficial.bsky.social
 
@@ -56,71 +123,6 @@ https://news.web.nhk/newsweb/na/na-k10014990261000
 https://news.web.nhk/newsweb/na/na-k10014990321000
 
 [2025-12-01 06:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ut4ws7fp26)
-
----
-
-@wsj.com
-
-U.S. president’s endorsement, and announcement of plans to pardon a former Honduran president convicted of drug trafficking, upend a tight vote.
-
-[2025-12-01 06:06:15](https://bsky.app/profile/wsj.com/post/3m6usxvvt7n2p)
-
----
-
-@reuters.com
-
-Qatar blow hurts more than Vegas disqualification, says Piastri reut.rs/49NgXZd
-
-[2025-12-01 06:05:10](https://bsky.app/profile/reuters.com/post/3m6usvxblo72n)
-
----
-
-@apnews.com
-
-Lane Kiffin is leaving his 11-1 Ole Miss team to become the coach at LSU, taking over a Tigers program that has won national titles under three of its previous four coaches.
-
-[2025-12-01 06:03:51](https://bsky.app/profile/apnews.com/post/3m6ustm2ylt2i)
-
----
-
-@nhknewsunofficial.bsky.social
-
-議員定数削減めぐる自民 維新の協議 今週 調整本格化の見通し
-https://news.web.nhk/newsweb/na/na-k10014990271000
-
-[2025-12-01 06:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ussa4ptw2k)
-
----
-
-@npr.org
-
-Michael Jordan's 23XI Racing and Front Row Motorsports are taking NASCAR to federal court Monday over antitrust allegations. n.pr/3Mxgtwo
-
-[2025-12-01 06:02:55](https://bsky.app/profile/npr.org/post/3m6usrwsxxn2y)
-
----
-
-@usatoday.com
-
-Can I just toss old documents in my basement? We asked accountants.
-
-[2025-12-01 06:00:52](https://bsky.app/profile/usatoday.com/post/3m6usobguaf2j)
-
----
-
-@cnbc.com
-
-A child witnessing you support a friend, or vice versa, shows them that part of resilience is creating a network where it's OK to ask for help.
-
-[2025-12-01 06:00:41](https://bsky.app/profile/cnbc.com/post/3m6usnwnn4d23)
-
----
-
-@apnews.com
-
-Construction on the arena that is set to welcome NHL players back to the Olympics for the first time in more than a decade is behind schedule and its completion is going right down to the wire. 
-
-[2025-12-01 06:00:33](https://bsky.app/profile/apnews.com/post/3m6usnonscn2c)
 
 ---
 
