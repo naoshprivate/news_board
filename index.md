@@ -1,9 +1,9 @@
-# [2025-11-30 08:50 updated](2025_11_30.md)
+# [2025-11-30 09:10 updated](2025_11_30.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】テナントビルで男性刺される 殺人未遂容疑で現行犯逮捕 大分 (2025-11-30 08:27:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6slcr2tiy2e" target="_blank">sokuho.news</a> (2025-11-30 08:43:50)</span><span style="padding-right:50px;">In @nytopinion.nytimes.com  “Most people don’t dream of spending their baby’s first holiday season in the hospital, and you can make that difficult experience easier for them to bear by donating to Project NICU,” Jessica Grose writes in her giving guide. <a href="https://bsky.app/profile/nytimes.com/post/3m6sl3wgdwt2d" target="_blank">nytimes.com</a> (2025-11-30 08:40:01)</span><span style="padding-right:50px;">US judge authorizes sale of Citgo parent's shares to Elliott affiliate reut.rs/44FRsp4 <a href="https://bsky.app/profile/reuters.com/post/3m6sktb55f22k" target="_blank">reuters.com</a> (2025-11-30 08:35:10)</span><span style="padding-right:50px;">白血病治療にiPS細胞活用、京都大学が2027年にも治験　「ドナー探し」短縮 www.nikkei.com/article/DGXZQO...  健康な人の細胞をもとにしたiPS細胞から、がん細胞を攻撃する「キラーT細胞」を作製。急性骨髄性白血病の患者に投与します。  あらかじめ作ったキラーT細胞を凍結保存しておけば、白血病が判明してからすぐに治療できるメリットも。  白血球の型がよく似たドナーの「造血幹細胞」を移植する従来の治療法には、ドナー探しに時間がかかる問題がありました。 <a href="https://bsky.app/profile/nikkei.com/post/3m6skmcaygm2i" target="_blank">nikkei.com</a> (2025-11-30 08:31:17)</span><span style="padding-right:50px;">Soccer Flamengo beat Palmeiras 1-0 to win fourth Copa Libertadores title reut.rs/4p2ddro <a href="https://bsky.app/profile/reuters.com/post/3m6skl5nn6t22" target="_blank">reuters.com</a> (2025-11-30 08:30:38)</span>
+<span style="padding-right:50px;">「クマはサンジンサマの授けもの」　令和のマタギ、共生の哲学守れるか www.nikkei.com/article/DGXZQO...  狩猟を生業にしてきた「マタギ」の里、秋田県北秋田市の阿仁地区。  「シカリ」と呼ばれる頭領を32年間務めた松橋吉太郎さんは「今の人は真剣さが足んねぇなあ」とつぶやきます。  そんな往年のシカリが目を細めたのは、「伝説のマタギ」と呼ばれた祖父を持つ一人の若者のことを話す時でした。 <a href="https://bsky.app/profile/nikkei.com/post/3m6smbybilk2l" target="_blank">nikkei.com</a> (2025-11-30 09:01:18)</span><span style="padding-right:50px;">Here are live predictions and projections for the College Football Playoff bracket and 12-team CFP field after Week 14 games. Follow along: <a href="https://bsky.app/profile/usatoday.com/post/3m6smasldck2q" target="_blank">usatoday.com</a> (2025-11-30 09:00:39)</span><span style="padding-right:50px;">At one of the world's leading hospitality schools, I learned the secret to five-start service. Hint: It might be hiding at your local Starbucks. <a href="https://bsky.app/profile/bloomberg.com/post/3m6smafdk232d" target="_blank">bloomberg.com</a> (2025-11-30 09:00:25)</span><span style="padding-right:50px;">The Louisiana State Penitentiary held its first ever 'Father Daughter Dance' this month. <a href="https://bsky.app/profile/apnews.com/post/3m6smadpqjr2p" target="_blank">apnews.com</a> (2025-11-30 09:00:23)</span><span style="padding-right:50px;">After years guiding tourists around Cambodia, Nao Sok has a clear answer when asked which destination is most underrated: Oudong. https://cnn.it/48FyEsq <a href="https://bsky.app/profile/cnn.com/post/3m6sm7ylo7b23" target="_blank">cnn.com</a> (2025-11-30 09:00:11)</span>
   </div>
 </div>
 
@@ -32,14 +32,70 @@
 
 ## News Headlines
 
-1. 大分テナントビルで殺人未遂、男を現行犯逮捕
-2. 京大、iPS細胞で白血病治療治験へ　2027年にも
-3. 韓国Coupang、顧客アカウント3370万件が侵害
-4. 青森県東方沖で地震発生、最大震度1
-5. トランプ氏、ベネズエラ周辺空域「全面閉鎖」警告
-6. インドネシア・スマトラ島で洪水・土砂災害、300人超死亡
+1. 秋田・阿仁地区、令和のマタギは共生の哲学を守れるか
+2. 大分、テナントビルで男性刺される　殺人未遂容疑で現行犯逮捕
+3. 京大、iPS細胞活用した白血病治療治験を2027年にも
+4. 韓国eコマースCoupang、顧客アカウント3370万件が侵害
+5. 障害ある人の親の9割「自分が亡くなったあと心配」
+6. トランプ氏、ベネズエラ周辺空域は「全面閉鎖に」航空会社に警告
 
 ----
+
+@nikkei.com
+
+「クマはサンジンサマの授けもの」　令和のマタギ、共生の哲学守れるか
+www.nikkei.com/article/DGXZQO...
+
+狩猟を生業にしてきた「マタギ」の里、秋田県北秋田市の阿仁地区。
+
+「シカリ」と呼ばれる頭領を32年間務めた松橋吉太郎さんは「今の人は真剣さが足んねぇなあ」とつぶやきます。
+
+そんな往年のシカリが目を細めたのは、「伝説のマタギ」と呼ばれた祖父を持つ一人の若者のことを話す時でした。
+
+[2025-11-30 09:01:18](https://bsky.app/profile/nikkei.com/post/3m6smbybilk2l)
+
+---
+
+@usatoday.com
+
+Here are live predictions and projections for the College Football Playoff bracket and 12-team CFP field after Week 14 games. Follow along:
+
+[2025-11-30 09:00:39](https://bsky.app/profile/usatoday.com/post/3m6smasldck2q)
+
+---
+
+@bloomberg.com
+
+At one of the world's leading hospitality schools, I learned the secret to five-start service. Hint: It might be hiding at your local Starbucks.
+
+[2025-11-30 09:00:25](https://bsky.app/profile/bloomberg.com/post/3m6smafdk232d)
+
+---
+
+@apnews.com
+
+The Louisiana State Penitentiary held its first ever 'Father Daughter Dance' this month.
+
+[2025-11-30 09:00:23](https://bsky.app/profile/apnews.com/post/3m6smadpqjr2p)
+
+---
+
+@cnn.com
+
+After years guiding tourists around Cambodia, Nao Sok has a clear answer when asked which destination is most underrated: Oudong.
+https://cnn.it/48FyEsq
+
+[2025-11-30 09:00:11](https://bsky.app/profile/cnn.com/post/3m6sm7ylo7b23)
+
+---
+
+@washingtonpost.com
+
+Caught between the threat of a U.S. attack and a government they don’t trust to provide accurate information, Venezuelans are living moment to moment, unsure of what to expect next — a disrupting, exhausting existence. 
+
+[2025-11-30 09:00:10](https://bsky.app/profile/washingtonpost.com/post/3m6sm7xj4hj2e)
+
+---
 
 @sokuho.news
 
@@ -82,54 +138,6 @@ www.nikkei.com/article/DGXZQO...
 白血球の型がよく似たドナーの「造血幹細胞」を移植する従来の治療法には、ドナー探しに時間がかかる問題がありました。
 
 [2025-11-30 08:31:17](https://bsky.app/profile/nikkei.com/post/3m6skmcaygm2i)
-
----
-
-@reuters.com
-
-Soccer Flamengo beat Palmeiras 1-0 to win fourth Copa Libertadores title reut.rs/4p2ddro
-
-[2025-11-30 08:30:38](https://bsky.app/profile/reuters.com/post/3m6skl5nn6t22)
-
----
-
-@bloomberg.com
-
-British millennials are embracing an unlikely new cause: infrastructure, housing and the politics of economic growth.
-
-[2025-11-30 08:30:20](https://bsky.app/profile/bloomberg.com/post/3m6skkmi6ez2q)
-
----
-
-@usatoday.com
-
-Fourth runner-up Olivia Yacé publicly cut ties with the Miss Universe pageant and resigned her title as Miss Universe Africa and Oceania.
-
-[2025-11-30 08:30:19](https://bsky.app/profile/usatoday.com/post/3m6skkl73ex2d)
-
----
-
-@reuters.com
-
-Dolphins activate TE Darren Waller, OL Austin Jackson off IR reut.rs/4pHZExp
-
-[2025-11-30 08:25:09](https://bsky.app/profile/reuters.com/post/3m6skbe6ycn2n)
-
----
-
-@npr.org
-
-NPR's Scott Simon explains why The Pogues' "Fairytale of New York" is a holiday song for those who have troubles and heartache. n.pr/4ot3Aky
-
-[2025-11-30 08:22:44](https://bsky.app/profile/npr.org/post/3m6sk4ziqr52r)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-More than 70,000 killed in Gaza since Israel offensive began, Hamas-run health ministry says
-
-[2025-11-30 08:21:25](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6sk2ojnxq2h)
 
 ---
 
