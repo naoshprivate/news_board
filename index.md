@@ -1,9 +1,9 @@
-# [2025-12-01 05:50 updated](2025_12_01.md)
+# [2025-12-01 06:10 updated](2025_12_01.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Los Angeles is a hot spot in a nationwide wave of copper thefts. <a href="https://bsky.app/profile/wsj.com/post/3m6uruc2hlv2h" target="_blank">wsj.com</a> (2025-12-01 05:46:20)</span><span style="padding-right:50px;">Venezuela's National Assembly to investigate US boat strikes reut.rs/3M8vxAM <a href="https://bsky.app/profile/reuters.com/post/3m6ursrfaq327" target="_blank">reuters.com</a> (2025-12-01 05:45:29)</span><span style="padding-right:50px;">BREAKING: Lane Kiffin leaves Ole Miss on the brink of its first College Football Playoff appearance to become LSU's head coach. <a href="https://bsky.app/profile/nbcnews.com/post/3m6urmgaf342j" target="_blank">nbcnews.com</a> (2025-12-01 05:41:56)</span><span style="padding-right:50px;">Red card experts Chelsea learn how to cope with 10 men reut.rs/3MuegBU <a href="https://bsky.app/profile/reuters.com/post/3m6urjgze6r26" target="_blank">reuters.com</a> (2025-12-01 05:40:16)</span><span style="padding-right:50px;">'Call me Chucky': Verstappen revels in McLaren's Qatar horror show reut.rs/3Y0hXlm <a href="https://bsky.app/profile/reuters.com/post/3m6urad46ue2i" target="_blank">reuters.com</a> (2025-12-01 05:35:10)</span>
+<span style="padding-right:50px;">ロシア政府 輸入車のみにかかる税金 大幅引き上げ 戦費調達か https://news.web.nhk/newsweb/na/na-k10014990261000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ut53zyt32j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 06:09:07)</span><span style="padding-right:50px;">香港 高層住宅火災 安否確認などには3～4週間かかる見通し https://news.web.nhk/newsweb/na/na-k10014990321000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ut4ws7fp26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 06:09:02)</span><span style="padding-right:50px;">U.S. president’s endorsement, and announcement of plans to pardon a former Honduran president convicted of drug trafficking, upend a tight vote. <a href="https://bsky.app/profile/wsj.com/post/3m6usxvvt7n2p" target="_blank">wsj.com</a> (2025-12-01 06:06:15)</span><span style="padding-right:50px;">Qatar blow hurts more than Vegas disqualification, says Piastri reut.rs/49NgXZd <a href="https://bsky.app/profile/reuters.com/post/3m6usvxblo72n" target="_blank">reuters.com</a> (2025-12-01 06:05:10)</span><span style="padding-right:50px;">Lane Kiffin is leaving his 11-1 Ole Miss team to become the coach at LSU, taking over a Tigers program that has won national titles under three of its previous four coaches. <a href="https://bsky.app/profile/apnews.com/post/3m6ustm2ylt2i" target="_blank">apnews.com</a> (2025-12-01 06:03:51)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50253.91 (🔺34.95 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.07 (🔺0.02 : 2025-11-30)</span>
+<span style="padding-right:50px;">NIKKEI: 50253.91 (🔺34.95 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.10 (🔺0.05 : 2025-11-30)</span>
   </div>
 </div>
 
@@ -32,92 +32,95 @@
 
 ## News Headlines
 
-1.  全米で銅線盗難が多発、ロサンゼルスがホットスポット
-2.  レーン・キフィン、LSUのヘッドコーチに就任か
-3.  アメリカとウクライナ、和平案をめぐり高官協議
-4.  豪、世界初のソーシャルメディアの子供利用禁止へ
-5.  ノースウェスタン大学、差別問題で7500万ドルを支払い和解
-6.  ニュージャージー州のコーリー・ブッカー上院議員が結婚
+1. ロシア政府、輸入車税大幅引き上げか 戦費調達目的
+2. 香港高層住宅火災、安否確認に数週間の見通し
+3. 自民・維新、議員定数削減協議を本格化へ
+4. 北海道 日本製鉄所で爆発火災、消火活動続く
+5. 能登半島地震1年11か月、復旧途上道路の除雪に新システム
+6. JR横浜線、線路に車侵入で運転見合わせ
 
 ----
 
+@nhknewsunofficial.bsky.social
+
+ロシア政府 輸入車のみにかかる税金 大幅引き上げ 戦費調達か
+https://news.web.nhk/newsweb/na/na-k10014990261000
+
+[2025-12-01 06:09:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ut53zyt32j)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+香港 高層住宅火災 安否確認などには3～4週間かかる見通し
+https://news.web.nhk/newsweb/na/na-k10014990321000
+
+[2025-12-01 06:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ut4ws7fp26)
+
+---
+
 @wsj.com
 
-Los Angeles is a hot spot in a nationwide wave of copper thefts.
+U.S. president’s endorsement, and announcement of plans to pardon a former Honduran president convicted of drug trafficking, upend a tight vote.
 
-[2025-12-01 05:46:20](https://bsky.app/profile/wsj.com/post/3m6uruc2hlv2h)
-
----
-
-@reuters.com
-
-Venezuela's National Assembly to investigate US boat strikes reut.rs/3M8vxAM
-
-[2025-12-01 05:45:29](https://bsky.app/profile/reuters.com/post/3m6ursrfaq327)
-
----
-
-@nbcnews.com
-
-<strong><span style="color: red;">BREAKING:</span> Lane Kiffin leaves Ole Miss on the brink of its first College Football Playoff appearance to become LSU's head coach.</strong>
-
-[2025-12-01 05:41:56](https://bsky.app/profile/nbcnews.com/post/3m6urmgaf342j)
+[2025-12-01 06:06:15](https://bsky.app/profile/wsj.com/post/3m6usxvvt7n2p)
 
 ---
 
 @reuters.com
 
-Red card experts Chelsea learn how to cope with 10 men reut.rs/3MuegBU
+Qatar blow hurts more than Vegas disqualification, says Piastri reut.rs/49NgXZd
 
-[2025-12-01 05:40:16](https://bsky.app/profile/reuters.com/post/3m6urjgze6r26)
+[2025-12-01 06:05:10](https://bsky.app/profile/reuters.com/post/3m6usvxblo72n)
 
 ---
 
-@reuters.com
+@apnews.com
 
-'Call me Chucky': Verstappen revels in McLaren's Qatar horror show reut.rs/3Y0hXlm
+Lane Kiffin is leaving his 11-1 Ole Miss team to become the coach at LSU, taking over a Tigers program that has won national titles under three of its previous four coaches.
 
-[2025-12-01 05:35:10](https://bsky.app/profile/reuters.com/post/3m6urad46ue2i)
+[2025-12-01 06:03:51](https://bsky.app/profile/apnews.com/post/3m6ustm2ylt2i)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+議員定数削減めぐる自民 維新の協議 今週 調整本格化の見通し
+https://news.web.nhk/newsweb/na/na-k10014990271000
+
+[2025-12-01 06:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ussa4ptw2k)
+
+---
+
+@npr.org
+
+Michael Jordan's 23XI Racing and Front Row Motorsports are taking NASCAR to federal court Monday over antitrust allegations. n.pr/3Mxgtwo
+
+[2025-12-01 06:02:55](https://bsky.app/profile/npr.org/post/3m6usrwsxxn2y)
 
 ---
 
 @usatoday.com
 
-“Sentimental Value” star Renate Reinsve was expected to work at her grandpa's hardware store in rural Norway. Instead, she chased her acting dreams.
+Can I just toss old documents in my basement? We asked accountants.
 
-[2025-12-01 05:30:27](https://bsky.app/profile/usatoday.com/post/3m6uqxume3g2u)
-
----
-
-@bloomberg.com
-
-As the US options market heads for a sixth straight year of record volume, some in the industry are growing nervous about its over-reliance on a small group of banks to guarantee trades for the biggest market makers
-
-[2025-12-01 05:30:13](https://bsky.app/profile/bloomberg.com/post/3m6uqxh2u3c2h)
+[2025-12-01 06:00:52](https://bsky.app/profile/usatoday.com/post/3m6usobguaf2j)
 
 ---
 
-@cbsnews.com
+@cnbc.com
 
-What were the Afghan "Zero Units" that sources say the National Guard shooting suspect worked for?
+A child witnessing you support a friend, or vice versa, shows them that part of resilience is creating a network where it's OK to ask for help.
 
-[2025-12-01 05:30:00](https://bsky.app/profile/cbsnews.com/post/3m6uqx3kxxf23)
-
----
-
-@wsj.com
-
-The leader of Scotland sees the issue of the first Scottish bond in centuries as a step toward independence.
-
-[2025-12-01 05:29:55](https://bsky.app/profile/wsj.com/post/3m6uqwwwrn624)
+[2025-12-01 06:00:41](https://bsky.app/profile/cnbc.com/post/3m6usnwnn4d23)
 
 ---
 
-@nytimes.com
+@apnews.com
 
-<strong><span style="color: red;">Breaking News</span> from @theathletic.com: Lane Kiffin, one of college football’s top coaches, is leaving Ole Miss for LSU.</strong>
+Construction on the arena that is set to welcome NHL players back to the Olympics for the first time in more than a decade is behind schedule and its completion is going right down to the wire. 
 
-[2025-12-01 05:28:22](https://bsky.app/profile/nytimes.com/post/3m6uqu5ohyc2r)
+[2025-12-01 06:00:33](https://bsky.app/profile/apnews.com/post/3m6usnonscn2c)
 
 ---
 
