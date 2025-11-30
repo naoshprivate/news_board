@@ -1,9 +1,9 @@
-# [2025-12-01 06:30 updated](2025_12_01.md)
+# [2025-12-01 06:50 updated](2025_12_01.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">インドネシア 大雨で400人以上死亡 日本人10人近くが孤立状態 https://news.web.nhk/newsweb/na/na-k10014990301000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6uu54wlpk2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 06:27:02)</span><span style="padding-right:50px;">Kiffin could soon be one of the highest paid coaches in college football. <a href="https://bsky.app/profile/forbes.com/post/3m6utzjirlz2q" target="_blank">forbes.com</a> (2025-12-01 06:25:03)</span><span style="padding-right:50px;">北～西日本の日本海側中心に大気不安定 急な雷雨などに注意 https://news.web.nhk/newsweb/na/na-k10014990401000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6utxqgrxp26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 06:24:02)</span><span style="padding-right:50px;">JR横浜線 運転再開 https://news.web.nhk/newsweb/na/na-k10014990391000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6utsf3fyk2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 06:21:02)</span><span style="padding-right:50px;">Juan Orlando Hernández, a former president of Honduras, helped orchestrate a decades-long scheme that prosecutors said brought more than 500 tons of cocaine into the U.S. He was convicted in a sweeping case last year, but President Trump said on Friday that he would pardon Hernandez. <a href="https://bsky.app/profile/nytimes.com/post/3m6utqbwrht2e" target="_blank">nytimes.com</a> (2025-12-01 06:19:54)</span>
+<span style="padding-right:50px;">【広がる原発再稼働】 迫る「核のごみ」、関西電力は貯蔵プール満杯まで3年 www.nikkei.com/article/DGXZQO...  新潟県の柏崎刈羽原発と北海道の泊原発について、地元知事が再稼働容認を表明しました。  火力より安価で、再生可能エネルギーより安定した電源との期待がある一方、使用済み核燃料の扱いの問題も避けて通れません。 <a href="https://bsky.app/profile/nikkei.com/post/3m6uv6a5q6f2t" target="_blank">nikkei.com</a> (2025-12-01 06:45:35)</span><span style="padding-right:50px;">クマ被害 大手損保 ケガや物損以外の補償やサービス始める https://news.web.nhk/newsweb/na/na-k10014990201000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6uv5c2h2e2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 06:45:03)</span><span style="padding-right:50px;">Lane Kiffin, the most-coveted name in this year’s coaching cycle, ended weeks of speculation by announcing he will leave Ole Miss for LSU. <a href="https://bsky.app/profile/wsj.com/post/3m6uuxphsnr22" target="_blank">wsj.com</a> (2025-12-01 06:41:56)</span><span style="padding-right:50px;">A 19-year-old college student was about to board a flight to surprise her family for Thanksgiving when she was detained at Boston Logan International Airport and deported to Honduras two days later, her father and lawyer said on Sunday. <a href="https://bsky.app/profile/nytimes.com/post/3m6uuuf3zpj2x" target="_blank">nytimes.com</a> (2025-12-01 06:40:05)</span><span style="padding-right:50px;">1年間の書籍のベストセラー 『大ピンチずかん3』が総合1位に https://news.web.nhk/newsweb/na/na-k10014989241000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6uune3bq22g" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 06:36:06)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50253.91 (🔺34.95 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.10 (🔺0.05 : 2025-11-30)</span>
+<span style="padding-right:50px;">NIKKEI: 50253.91 (🔺34.95 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.12 (🔺0.07 : 2025-11-30)</span>
   </div>
 </div>
 
@@ -32,97 +32,102 @@
 
 ## News Headlines
 
-1. インドネシア大雨、400人超死亡、日本人孤立
-2. 北～西日本、急な雷雨に注意
-3. ロシア、輸入車への税金大幅引き上げ
-4. 香港高層住宅火災、安否確認に数週間
-5. 日本製鉄室蘭で爆発火災、消火活動続く
-6. レーン・キフィン、LSUのヘッドコーチに就任
+1. 原発再稼働進む裏で「核のごみ」問題深刻化、関電貯蔵プール逼迫
+2. クマ被害対策、大手損保がケガ・物損以外も補償へ
+3. カレッジフットボール名将Kiffin、Ole MissからLSUへ電撃移籍
+4. ベストセラー年間1位は『大ピンチずかん3』
+5. 食品値上げ品目、昨年比8割減も依然続く
+6. 米西部パーティー会場で銃撃、子ども含む4人死亡11人負傷
 
 ----
 
-@nhknewsunofficial.bsky.social
+@nikkei.com
 
-インドネシア 大雨で400人以上死亡 日本人10人近くが孤立状態
-https://news.web.nhk/newsweb/na/na-k10014990301000
+【広がる原発再稼働】
+迫る「核のごみ」、関西電力は貯蔵プール満杯まで3年
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-01 06:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6uu54wlpk2k)
+新潟県の柏崎刈羽原発と北海道の泊原発について、地元知事が再稼働容認を表明しました。
 
----
+火力より安価で、再生可能エネルギーより安定した電源との期待がある一方、使用済み核燃料の扱いの問題も避けて通れません。
 
-@forbes.com
-
-Kiffin could soon be one of the highest paid coaches in college football.
-
-[2025-12-01 06:25:03](https://bsky.app/profile/forbes.com/post/3m6utzjirlz2q)
+[2025-12-01 06:45:35](https://bsky.app/profile/nikkei.com/post/3m6uv6a5q6f2t)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-北～西日本の日本海側中心に大気不安定 急な雷雨などに注意
-https://news.web.nhk/newsweb/na/na-k10014990401000
+クマ被害 大手損保 ケガや物損以外の補償やサービス始める
+https://news.web.nhk/newsweb/na/na-k10014990201000
 
-[2025-12-01 06:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6utxqgrxp26)
+[2025-12-01 06:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6uv5c2h2e2k)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@wsj.com
 
-JR横浜線 運転再開
-https://news.web.nhk/newsweb/na/na-k10014990391000
+Lane Kiffin, the most-coveted name in this year’s coaching cycle, ended weeks of speculation by announcing he will leave Ole Miss for LSU.
 
-[2025-12-01 06:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6utsf3fyk2p)
+[2025-12-01 06:41:56](https://bsky.app/profile/wsj.com/post/3m6uuxphsnr22)
 
 ---
 
 @nytimes.com
 
-Juan Orlando Hernández, a former president of Honduras, helped orchestrate a decades-long scheme that prosecutors said brought more than 500 tons of cocaine into the U.S. He was convicted in a sweeping case last year, but President Trump said on Friday that he would pardon Hernandez.
+A 19-year-old college student was about to board a flight to surprise her family for Thanksgiving when she was detained at Boston Logan International Airport and deported to Honduras two days later, her father and lawyer said on Sunday.
 
-[2025-12-01 06:19:54](https://bsky.app/profile/nytimes.com/post/3m6utqbwrht2e)
+[2025-12-01 06:40:05](https://bsky.app/profile/nytimes.com/post/3m6uuuf3zpj2x)
 
 ---
 
-@npr.org
+@nhknewsunofficial.bsky.social
 
-Immigrants make up a significant proportion of all the country's doctors. New policies are making it harder and less appealing for foreign-born physicians to come to the U.S.
+1年間の書籍のベストセラー 『大ピンチずかん3』が総合1位に
+https://news.web.nhk/newsweb/na/na-k10014989241000
 
-[2025-12-01 06:18:03](https://bsky.app/profile/npr.org/post/3m6utmy7ldh2g)
+[2025-12-01 06:36:06](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6uune3bq22g)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+来年値上げ予定の食品 ことしと比べ8割近く品目減 民間調査
+https://news.web.nhk/newsweb/na/na-k10014990281000
+
+[2025-12-01 06:36:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6uun74doc23)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+スキージャンプ女子 W杯 個人第4戦 丸山希 開幕4連勝逃すも2位
+https://news.web.nhk/newsweb/na/na-k10014990251000
+
+[2025-12-01 06:33:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6uuhvezw223)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Ukraine talks 'productive' but more work needed, Rubio says
+
+[2025-12-01 06:31:35](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6uuf7juc42h)
+
+---
+
+@usatoday.com
+
+Sen. Cory Booker and Alexis Lewis married in a courthouse ceremony on Nov. 24. The couple also held a private interfaith wedding ceremony in Washington.
+
+[2025-12-01 06:30:26](https://bsky.app/profile/usatoday.com/post/3m6uud4nsv42j)
 
 ---
 
 @apnews.com
 
-Lawmakers from both parties want reviews of U.S. strikes on suspected drug-smuggling vessels after a report that Defense Secretary Pete Hegseth ordered all crew members killed in a Sept. 2 attack.
+"Zootopia 2" broke box office records with a massive Thanksgiving weekend opening. The Disney sequel earned $96 million in North America over the weekend and $156 million over the five-day Thanksgiving frame.
 
-[2025-12-01 06:15:10](https://bsky.app/profile/apnews.com/post/3m6uthtbcj22j)
-
----
-
-@financialtimes.com
-
-Nato considers being ‘more aggressive’ against Russia’s hybrid warfare on.ft.com/3Xr2nPG
-
-[2025-12-01 06:09:44](https://bsky.app/profile/financialtimes.com/post/3m6ut64mgut2v)
-
----
-
-@nhknewsunofficial.bsky.social
-
-ロシア政府 輸入車のみにかかる税金 大幅引き上げ 戦費調達か
-https://news.web.nhk/newsweb/na/na-k10014990261000
-
-[2025-12-01 06:09:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ut53zyt32j)
-
----
-
-@nhknewsunofficial.bsky.social
-
-香港 高層住宅火災 安否確認などには3～4週間かかる見通し
-https://news.web.nhk/newsweb/na/na-k10014990321000
-
-[2025-12-01 06:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ut4ws7fp26)
+[2025-12-01 06:30:20](https://bsky.app/profile/apnews.com/post/3m6uucxp2hu2h)
 
 ---
 
