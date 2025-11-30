@@ -1,9 +1,9 @@
-# [2025-11-30 12:10 updated](2025_11_30.md)
+# [2025-11-30 12:30 updated](2025_11_30.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">日曜討論 “台湾有事”めぐる首相答弁や日中関係 与野党が議論 https://news.web.nhk/newsweb/na/na-k10014989981000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6swrqrcb62t" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-30 12:09:02)</span><span style="padding-right:50px;">アボカドはミカン農家を救えるか www.nikkei.com/article/DGXZQO...  21世紀末にはミカン産地の約7割が適地から外れるという予測も。  温暖化に備え、静岡県で亜熱帯果樹のアボカドを育てる挑戦が始まりました。  外国産にはない「地の利」もあるといいます。 <a href="https://bsky.app/profile/nikkei.com/post/3m6swdswex32t" target="_blank">nikkei.com</a> (2025-11-30 12:01:17)</span><span style="padding-right:50px;">China’s factory activity contracted for the eighth straight month in November, according to an official survey, underscoring challenges for the country’s economy despite the U.S.-China trade truce. <a href="https://bsky.app/profile/apnews.com/post/3m6swcvbb2o2f" target="_blank">apnews.com</a> (2025-11-30 12:00:46)</span><span style="padding-right:50px;">Here are the five healthiest vegetables Dr. Steven Gundry eats every day, no matter what. <a href="https://bsky.app/profile/cnbc.com/post/3m6swcb4ayd2y" target="_blank">cnbc.com</a> (2025-11-30 12:00:25)</span><span style="padding-right:50px;">WWE Survivor Series 2025 is underway with WarGames and championship matches taking place. Follow the action. <a href="https://bsky.app/profile/usatoday.com/post/3m6swca2r4p2p" target="_blank">usatoday.com</a> (2025-11-30 12:00:24)</span>
+<span style="padding-right:50px;">Meteorologists are surprised that the weather model that did the best job forecasting hurricanes this year was a new one, introduced by Google. AI may be the beginning of a new era of forecasting. n.pr/49MFa1M <a href="https://bsky.app/profile/npr.org/post/3m6sxpzgg4i2i" target="_blank">npr.org</a> (2025-11-30 12:26:00)</span><span style="padding-right:50px;">Both the House and Senate have started inquiries into a reported second strike on an alleged drug boat in the Caribbean last September which killed the survivors of an initial strike. <a href="https://bsky.app/profile/nbcnews.com/post/3m6sxmct65e2c" target="_blank">nbcnews.com</a> (2025-11-30 12:23:56)</span><span style="padding-right:50px;">The U.K. this week extended its sugar tax to some coffee drinks and milkshakes in an ongoing effort to fight obesity. <a href="https://bsky.app/profile/cbsnews.com/post/3m6sxdhhyt72u" target="_blank">cbsnews.com</a> (2025-11-30 12:18:59)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】滋賀・長浜市で熊1頭の目撃情報 警察が注意よびかけ (2025-11-30 12:13) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6sx2n2at224" target="_blank">sokuho.news</a> (2025-11-30 12:14:03)</span><span style="padding-right:50px;">中国 11月の製造業景況感指数 判断の節目の50下回る 8か月連続 https://news.web.nhk/newsweb/na/na-k10014990011000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6swxcc4ja2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-30 12:12:08)</span>
   </div>
 </div>
 
@@ -32,14 +32,75 @@
 
 ## News Headlines
 
-1. 台湾有事、日中関係…与野党が日曜討論で議論
-2. アボカドがミカン農家を救う？温暖化対策で静岡挑戦
-3. 中国工場活動、8ヶ月連続縮小…米中貿易休戦も影響
-4. 大分大規模火災、避難所にランドリー車が支援
-5. 香港マンション火災で怒り、北京が「混乱」を警告
-6. 東大研究者、暗黒物質由来か？ガンマ線発見
+1. GoogleのAI、ハリケーン予測で驚異的な成果
+2. 米議会、カリブ海での麻薬密輸船攻撃を調査
+3. イギリス、肥満対策で砂糖税をコーヒーやミルクシェイクに拡大
+4. 滋賀・長浜市で熊目撃情報、警察が注意喚起
+5. 中国製造業、8か月連続で景況感指数が50を下回る
+6. 北朝鮮キム総書記、空軍創設80年で核戦争抑止を強調
 
 ----
+
+@npr.org
+
+Meteorologists are surprised that the weather model that did the best job forecasting hurricanes this year was a new one, introduced by Google. AI may be the beginning of a new era of forecasting. n.pr/49MFa1M
+
+[2025-11-30 12:26:00](https://bsky.app/profile/npr.org/post/3m6sxpzgg4i2i)
+
+---
+
+@nbcnews.com
+
+Both the House and Senate have started inquiries into a reported second strike on an alleged drug boat in the Caribbean last September which killed the survivors of an initial strike.
+
+[2025-11-30 12:23:56](https://bsky.app/profile/nbcnews.com/post/3m6sxmct65e2c)
+
+---
+
+@cbsnews.com
+
+The U.K. this week extended its sugar tax to some coffee drinks and milkshakes in an ongoing effort to fight obesity.
+
+[2025-11-30 12:18:59](https://bsky.app/profile/cbsnews.com/post/3m6sxdhhyt72u)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】滋賀・長浜市で熊1頭の目撃情報 警察が注意よびかけ
+(2025-11-30 12:13) #ニュース
+
+[2025-11-30 12:14:03](https://bsky.app/profile/sokuho.news/post/3m6sx2n2at224)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+中国 11月の製造業景況感指数 判断の節目の50下回る 8か月連続
+https://news.web.nhk/newsweb/na/na-k10014990011000
+
+[2025-11-30 12:12:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6swxcc4ja2k)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+北朝鮮キム総書記 空軍創設80年演説“核戦争抑止の一翼担う”
+https://news.web.nhk/newsweb/na/na-k10014990001000
+
+[2025-11-30 12:12:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6swx5s6gu2j)
+
+---
+
+@reuters.com
+
+Wanderers coach Stajcic calls for unity after Sydney derby win reut.rs/48oEsp7
+
+[2025-11-30 12:10:14](https://bsky.app/profile/reuters.com/post/3m6swttgqlr2w)
+
+---
 
 @nhknewsunofficial.bsky.social
 
@@ -70,63 +131,6 @@ www.nikkei.com/article/DGXZQO...
 China’s factory activity contracted for the eighth straight month in November, according to an official survey, underscoring challenges for the country’s economy despite the U.S.-China trade truce.
 
 [2025-11-30 12:00:46](https://bsky.app/profile/apnews.com/post/3m6swcvbb2o2f)
-
----
-
-@cnbc.com
-
-Here are the five healthiest vegetables Dr. Steven Gundry eats every day, no matter what.
-
-[2025-11-30 12:00:25](https://bsky.app/profile/cnbc.com/post/3m6swcb4ayd2y)
-
----
-
-@usatoday.com
-
-WWE Survivor Series 2025 is underway with WarGames and championship matches taking place. Follow the action.
-
-[2025-11-30 12:00:24](https://bsky.app/profile/usatoday.com/post/3m6swca2r4p2p)
-
----
-
-@washingtonpost.com
-
-Ukrainian President Volodymyr Zelensky will face a new round of U.S. pressure next week to reach a deal to end Russia’s war as a corruption scandal engulfs his inner circle.
-
-[2025-11-30 12:00:09](https://bsky.app/profile/washingtonpost.com/post/3m6swbs2zjo2q)
-
----
-
-@nhknewsunofficial.bsky.social
-
-大分 大規模火災 避難所にランドリー車 洗濯を支援
-https://news.web.nhk/newsweb/na/na-k10014989971000
-
-[2025-11-30 12:00:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6swbmzbwp23)
-
----
-
-@bloomberg-jp.bsky.social
-
-片山財務相、ファンダメンタルズで動いていないのは明確－為替乱高下
-
-[2025-11-30 11:51:55](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6svt34stp27)
-
----
-
-@bloomberg-jp.bsky.social
-
-【焦点】ユーロ圏インフレは2%近辺へ、ECBの12月据え置き根拠強まる
-
-[2025-11-30 11:51:50](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6svswn73x23)
-
----
-
-@reuters.com
-
-China's factory activity shrinks again in November, services activity cools reut.rs/43X5Rgo
-
-[2025-11-30 11:40:11](https://bsky.app/profile/reuters.com/post/3m6sv63lwpc2e)
 
 ---
 
