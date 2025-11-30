@@ -1,9 +1,9 @@
-# [2025-11-30 21:50 updated](2025_11_30.md)
+# [2025-11-30 22:10 updated](2025_11_30.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">能登半島地震の液状化19平方キロ　被災4県を防災科研が調査（無料記事） www.nikkei.com/article/DGXZQO...  被害面積は東京ドーム410個分に相当し、2016年に発生した熊本地震の約4倍に上るといいます。  先名重樹主任専門研究員は「日本海側には緩い砂質の地盤が多く、被害が拡大したと考えられる」と説明します。 <a href="https://bsky.app/profile/nikkei.com/post/3m6twy3zxuu2i" target="_blank">nikkei.com</a> (2025-11-30 21:45:17)</span><span style="padding-right:50px;">Fewer international students are enrolling at U.S. colleges, which could cost the country $1 billion, reports find <a href="https://bsky.app/profile/cnbc.com/post/3m6twtqr4ub2g" target="_blank">cnbc.com</a> (2025-11-30 21:42:51)</span><span style="padding-right:50px;">West Ham great Bonds dies aged 79 reut.rs/48ItbB6 <a href="https://bsky.app/profile/reuters.com/post/3m6twozb2mn2i" target="_blank">reuters.com</a> (2025-11-30 21:40:12)</span><span style="padding-right:50px;">Netanyahu asks Israeli president for pardon to end corruption case on.ft.com/4pGCZ4t <a href="https://bsky.app/profile/financialtimes.com/post/3m6twm2sjpo23" target="_blank">financialtimes.com</a> (2025-11-30 21:38:33)</span><span style="padding-right:50px;">Kazakh pair accused of using spycam and earpieces to win A$1.2m in casino <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6twahn3gb22" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-11-30 21:32:04)</span>
+<span style="padding-right:50px;">'I don't know if we'll get that Santa rally': Why Wall Street says December may break from its usual strength <a href="https://bsky.app/profile/yahoofinance.com/post/3m6ty5ejnaf2u" target="_blank">yahoofinance.com</a> (2025-11-30 22:06:08)</span><span style="padding-right:50px;">動画にタッチペン「ぶるっ」　野菜切る感触体験 www.nikkei.com/article/DGXZQO...  乳幼児向け玩具ピープルのサブスク「さわるTECH」は1歳半からの子供が対象。iPad向けアプリをタッチペンで操作して遊びます。  毎月10種ほどのゲームを配信。「包丁で切りたい放題」は画面に現れたまな板に載った野菜の絵を、ペンを包丁に見立てて切れます。 <a href="https://bsky.app/profile/nikkei.com/post/3m6txupu5yf2z" target="_blank">nikkei.com</a> (2025-11-30 22:01:18)</span><span style="padding-right:50px;">Your Rich BFF founder and self-made millionaire Vivian Tu reveals the "rich people habits" that made her a millionaire. <a href="https://bsky.app/profile/cnbc.com/post/3m6txtesstn2h" target="_blank">cnbc.com</a> (2025-11-30 22:00:33)</span><span style="padding-right:50px;">Elevating the perspectives of women leaders and experts shaping global finance, driving decisions on capital allocation and advancing the conversation across the industry.  ✉️ Subscribe to our Women, Money & Power Report newsletter: bloom.bg/4hWXN4T <a href="https://bsky.app/profile/bloomberg.com/post/3m6txt2pb7k2i" target="_blank">bloomberg.com</a> (2025-11-30 22:00:22)</span><span style="padding-right:50px;">Countries around the world adopted international protections for many species of sharks and rays that are widely hunted, some whose parts are used in commercial products like makeup, moisturizers and culinary delicacies. https://wapo.st/4rpyEUO <a href="https://bsky.app/profile/washingtonpost.com/post/3m6txsuj7ss2e" target="_blank">washingtonpost.com</a> (2025-11-30 22:00:15)</span>
   </div>
 </div>
 
@@ -32,107 +32,99 @@
 
 ## News Headlines
 
-1. 能登半島地震、液状化被害は東京ドーム410個分
-2. 元ウエストハムの偉大な選手、ボンド氏死去、79歳
-3. ネタニヤフ首相、汚職事件の赦免を大統領に要請
-4. STARTO社、TOKIOとの契約を年内で終了
-5. 東京都、無痛分娩に10万円補助開始
-6. 韓国、国産ロケット打ち上げ成功で宇宙開発加速
+1.  米ウォール街、12月の異例な弱気相場を警戒
+2.  動画に触覚をプラス、野菜を切る感触を体験できる玩具
+3.  若年層の脳卒中増加、18～44歳で約15%増
+4.  カリフォルニア州で家族の集まりで銃撃、少なくとも4人死亡
+5.  能登半島地震、液状化被害は東京ドーム410個分
+6.  STARTO社、TOKIOとの契約を年内で終了
 
 ----
 
+@yahoofinance.com
+
+'I don't know if we'll get that Santa rally': Why Wall Street says December may break from its usual strength
+
+[2025-11-30 22:06:08](https://bsky.app/profile/yahoofinance.com/post/3m6ty5ejnaf2u)
+
+---
+
 @nikkei.com
 
-能登半島地震の液状化19平方キロ　被災4県を防災科研が調査（無料記事）
+動画にタッチペン「ぶるっ」　野菜切る感触体験
 www.nikkei.com/article/DGXZQO...
 
-被害面積は東京ドーム410個分に相当し、2016年に発生した熊本地震の約4倍に上るといいます。
+乳幼児向け玩具ピープルのサブスク「さわるTECH」は1歳半からの子供が対象。iPad向けアプリをタッチペンで操作して遊びます。
 
-先名重樹主任専門研究員は「日本海側には緩い砂質の地盤が多く、被害が拡大したと考えられる」と説明します。
+毎月10種ほどのゲームを配信。「包丁で切りたい放題」は画面に現れたまな板に載った野菜の絵を、ペンを包丁に見立てて切れます。
 
-[2025-11-30 21:45:17](https://bsky.app/profile/nikkei.com/post/3m6twy3zxuu2i)
+[2025-11-30 22:01:18](https://bsky.app/profile/nikkei.com/post/3m6txupu5yf2z)
 
 ---
 
 @cnbc.com
 
-Fewer international students are enrolling at U.S. colleges, which could cost the country $1 billion, reports find
+Your Rich BFF founder and self-made millionaire Vivian Tu reveals the "rich people habits" that made her a millionaire.
 
-[2025-11-30 21:42:51](https://bsky.app/profile/cnbc.com/post/3m6twtqr4ub2g)
-
----
-
-@reuters.com
-
-West Ham great Bonds dies aged 79 reut.rs/48ItbB6
-
-[2025-11-30 21:40:12](https://bsky.app/profile/reuters.com/post/3m6twozb2mn2i)
+[2025-11-30 22:00:33](https://bsky.app/profile/cnbc.com/post/3m6txtesstn2h)
 
 ---
 
-@financialtimes.com
+@bloomberg.com
 
-Netanyahu asks Israeli president for pardon to end corruption case on.ft.com/4pGCZ4t
+Elevating the perspectives of women leaders and experts shaping global finance, driving decisions on capital allocation and advancing the conversation across the industry.
 
-[2025-11-30 21:38:33](https://bsky.app/profile/financialtimes.com/post/3m6twm2sjpo23)
+✉️ Subscribe to our Women, Money & Power Report newsletter: bloom.bg/4hWXN4T
 
----
-
-@bbcnews-world-rss.bsky.social
-
-Kazakh pair accused of using spycam and earpieces to win A$1.2m in casino
-
-[2025-11-30 21:32:04](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6twahn3gb22)
+[2025-11-30 22:00:22](https://bsky.app/profile/bloomberg.com/post/3m6txt2pb7k2i)
 
 ---
 
-@nikkei.com
+@washingtonpost.com
 
-【ルポ・クマ駆除の現場】
-ヒグマに襲われ左目失ったハンターの教え
-www.nikkei.com/article/DGXZQO...
+Countries around the world adopted international protections for many species of sharks and rays that are widely hunted, some whose parts are used in commercial products like makeup, moisturizers and culinary delicacies. https://wapo.st/4rpyEUO
 
-「学生の指導っちゅうのはなかなか難しいねぇ。みんな、この片目をしっかりと見てくれない。時間がかかるけど真剣にやらないといけない」
-
-ワナにかかったクマの命を高圧の電気で絶ち、ナイフで解体する現場も目撃。
-
-人と獣の共生が犠牲の上に成り立っていることを身をもって学ぶ合宿に同行しました。
-
-[2025-11-30 21:31:17](https://bsky.app/profile/nikkei.com/post/3m6tw72pckf2l)
+[2025-11-30 22:00:15](https://bsky.app/profile/washingtonpost.com/post/3m6txsuj7ss2e)
 
 ---
 
 @usatoday.com
 
-The Supreme Court is weighing internet service providers' role in stopping music piracy. Much is at stake for both the industry and internet users.
+More strokes are occurring in younger people. There's been a significant increase, nearly 15%, in stroke prevalence among people ages 18 to 44.
 
-[2025-11-30 21:30:16](https://bsky.app/profile/usatoday.com/post/3m6tw5ahn332m)
-
----
-
-@nhknewsunofficial.bsky.social
-
-陸上 中島佑気ジョセフ 陸上教室で小学生に速く走るコツを指導
-https://news.web.nhk/newsweb/na/na-k10014990231000
-
-[2025-11-30 21:27:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6tvxkpltw2r)
+[2025-11-30 22:00:13](https://bsky.app/profile/usatoday.com/post/3m6txsrpwyo2u)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@apnews.com
 
-日大の1年生 鮫島輝が「アマチュア横綱」に
-https://news.web.nhk/newsweb/na/na-k10014990181000
+Makai Lemon caught a 32-yard touchdown pass after being benched for the first quarter, and King Miller rushed for 124 yards and two scores in No. 19 Southern California’s 29-10 victory over UCLA.
 
-[2025-11-30 21:24:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6tvs7glto2u)
+[2025-11-30 22:00:11](https://bsky.app/profile/apnews.com/post/3m6txsqldge22)
 
 ---
 
-@financialtimes.com
+@cbsnews.com
 
- Europe needs a plan for decoupling from America on.ft.com/4pD4ewL  | opinion
+At least four people were killed and 10 others wounded in a shooting during a family gathering in the Northern California city of Stockton Saturday night, authorities said. The suspect remains at large.  
 
-[2025-11-30 21:13:52](https://bsky.app/profile/financialtimes.com/post/3m6tv7w6kuj26)
+[2025-11-30 22:00:00](https://bsky.app/profile/cbsnews.com/post/3m6txsgcmkq2b)
+
+---
+
+@npr.org
+
+It's no secret that going to college can be very expensive, with tuition costs rising faster than financial aid. But what's causing that price tag to rise so quickly?
+
+[2025-11-30 21:53:35](https://bsky.app/profile/npr.org/post/3m6txgwxz6k23)
+
+---
+
+@bloomberg-jp.bsky.social
+
+香港、火災の死者数146人に－政府は市民の怒り封じ込めに取り組む
+
+[2025-11-30 21:52:30](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6txeybsfn26)
 
 ---
 
