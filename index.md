@@ -1,9 +1,9 @@
-# [2025-11-30 13:10 updated](2025_11_30.md)
+# [2025-11-30 13:30 updated](2025_11_30.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">ほぼ日手帳、ついにアプリに　共有機能なし「映えより自分との対話」 www.nikkei.com/article/DGXZQO...  「1日1ページ」をどうデジタル化するか。構想から公開までは３年がかり。  こだわったのは遊び心とゲームっぽさ。  糸井重里会長は「スペックの競争からは抜け出したいと思ってた」といいます。 <a href="https://bsky.app/profile/nikkei.com/post/3m6szp4vz7o2k" target="_blank">nikkei.com</a> (2025-11-30 13:01:18)</span><span style="padding-right:50px;">🛎️文春より【スクープ】です。  「恋愛は個人の自由だけれど…」人気ゴルファー・都玲華（21）の“30歳差”熱愛スクープにモヤモヤ反応が続出 (2025-11-30 13:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6sznyictv24" target="_blank">sokuho.news</a> (2025-11-30 13:00:40)</span><span style="padding-right:50px;">Leeds boss Farke accuses City's Donnarumma of bending rules after 3-2 loss reut.rs/4ooGTOo <a href="https://bsky.app/profile/reuters.com/post/3m6szno65zy2k" target="_blank">reuters.com</a> (2025-11-30 13:00:29)</span><span style="padding-right:50px;">"The concluding chapter raises the stakes and leans hard into another scorchingly hot political topic: immigration," Dan Heching writes | Analysis  <a href="https://bsky.app/profile/cnn.com/post/3m6szn5rkzj2v" target="_blank">cnn.com</a> (2025-11-30 13:00:12)</span><span style="padding-right:50px;">“I Run,” by the group Haven, blew up on TikTok before streaming platforms banned it.  The case underscores what the music business will (and won’t) tolerate from artificial intelligence. <a href="https://bsky.app/profile/washingtonpost.com/post/3m6szn5av232x" target="_blank">washingtonpost.com</a> (2025-11-30 13:00:11)</span>
+<span style="padding-right:50px;">Japan finance minister says yen's rapid fall clearly not driven by fundamentals reut.rs/4ruw67Q <a href="https://bsky.app/profile/reuters.com/post/3m6t2qv7hxf2y" target="_blank">reuters.com</a> (2025-11-30 13:20:10)</span><span style="padding-right:50px;">Steelers starting LT Broderick Jones (neck) placed on injured reserve reut.rs/49HCgv7 <a href="https://bsky.app/profile/reuters.com/post/3m6t27254li2k" target="_blank">reuters.com</a> (2025-11-30 13:10:12)</span><span style="padding-right:50px;">ほぼ日手帳、ついにアプリに　共有機能なし「映えより自分との対話」 www.nikkei.com/article/DGXZQO...  「1日1ページ」をどうデジタル化するか。構想から公開までは３年がかり。  こだわったのは遊び心とゲームっぽさ。  糸井重里会長は「スペックの競争からは抜け出したいと思ってた」といいます。 <a href="https://bsky.app/profile/nikkei.com/post/3m6szp4vz7o2k" target="_blank">nikkei.com</a> (2025-11-30 13:01:18)</span><span style="padding-right:50px;">🛎️文春より【スクープ】です。  「恋愛は個人の自由だけれど…」人気ゴルファー・都玲華（21）の“30歳差”熱愛スクープにモヤモヤ反応が続出 (2025-11-30 13:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6sznyictv24" target="_blank">sokuho.news</a> (2025-11-30 13:00:40)</span><span style="padding-right:50px;">Leeds boss Farke accuses City's Donnarumma of bending rules after 3-2 loss reut.rs/4ooGTOo <a href="https://bsky.app/profile/reuters.com/post/3m6szno65zy2k" target="_blank">reuters.com</a> (2025-11-30 13:00:29)</span>
   </div>
 </div>
 
@@ -32,14 +32,30 @@
 
 ## News Headlines
 
-1. ほぼ日手帳、アプリ版登場　「自分との対話」重視
-2. 人気ゴルファー都玲華、30歳差熱愛報道で波紋
-3. 元病院長、離島で第二の人生　震災経験が転機に
-4. GoogleのAI気象モデル、ハリケーン予測で新境地
-5. 中国製造業PMI、8か月連続で50を下回る
-6. 永谷園「東海道五拾三次カード」年内終了へ
+1. 円急落、ファンダメンタルズ要因でないと財務相
+2. スティーラーズ、LTジョーンズが故障者リスト入り
+3. ほぼ日手帳、アプリ版ついに登場
+4. 人気ゴルファーと30歳差熱愛報道
+5. 中国、製造業景況感指数が8か月連続で節目割れ
+6. AIがハリケーン予測で新時代到来か、Googleモデルが最高精度
 
 ----
+
+@reuters.com
+
+Japan finance minister says yen's rapid fall clearly not driven by fundamentals reut.rs/4ruw67Q
+
+[2025-11-30 13:20:10](https://bsky.app/profile/reuters.com/post/3m6t2qv7hxf2y)
+
+---
+
+@reuters.com
+
+Steelers starting LT Broderick Jones (neck) placed on injured reserve reut.rs/49HCgv7
+
+[2025-11-30 13:10:12](https://bsky.app/profile/reuters.com/post/3m6t27254li2k)
+
+---
 
 @nikkei.com
 
@@ -124,22 +140,6 @@ www.nikkei.com/article/DGXZQO...
 日常とは対照的な光景に「地域医療も似たような状況なのではないか」との考えがよぎりました。
 
 [2025-11-30 12:31:17](https://bsky.app/profile/nikkei.com/post/3m6sxzhoqsu2t)
-
----
-
-@reuters.com
-
-Swedish fans tear down fences, throw flares during playoff match reut.rs/3KoTanR
-
-[2025-11-30 12:30:26](https://bsky.app/profile/reuters.com/post/3m6sxxx2zlq2k)
-
----
-
-@npr.org
-
-Meteorologists are surprised that the weather model that did the best job forecasting hurricanes this year was a new one, introduced by Google. AI may be the beginning of a new era of forecasting. n.pr/49MFa1M
-
-[2025-11-30 12:26:00](https://bsky.app/profile/npr.org/post/3m6sxpzgg4i2i)
 
 ---
 
