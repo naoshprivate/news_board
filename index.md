@@ -1,9 +1,9 @@
-# [2025-11-30 15:30 updated](2025_11_30.md)
+# [2025-11-30 15:50 updated](2025_11_30.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Robinson revels in record fifth World Cup win reut.rs/48fP89e <a href="https://bsky.app/profile/reuters.com/post/3m6tbqesiex2y" target="_blank">reuters.com</a> (2025-11-30 15:25:09)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】J3降格のレノファ山口・中山元気監督(44)が退任へ「このような結果、すべての責任は自分に」 (2025-11-30 15:09:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6tbebxt4w22" target="_blank">sokuho.news</a> (2025-11-30 15:18:24)</span><span style="padding-right:50px;">日曜討論 補正予算案めぐり 自民“早期成立” 立民“修正を” https://news.web.nhk/newsweb/na/na-k10014990021000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6tbdozb3w2g" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-30 15:18:02)</span><span style="padding-right:50px;">トルコ沖でタンカー爆発 “ウクライナ当局などが攻撃”報道 https://news.web.nhk/newsweb/na/na-k10014990041000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6tb6cs6fs23" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-30 15:15:03)</span><span style="padding-right:50px;">Companies drown in 3,000 hours of paperwork to tap EU climate funds on.ft.com/4ooDsag <a href="https://bsky.app/profile/financialtimes.com/post/3m6tay2bcd426" target="_blank">financialtimes.com</a> (2025-11-30 15:11:33)</span>
+<span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】米 子どもの誕生日会で銃乱射4人死亡 感謝祭休暇の真っ只中 特定の人物狙う？けが10人 (15:42) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6tcssziq52w" target="_blank">sokuho.news</a> (2025-11-30 15:44:25)</span><span style="padding-right:50px;">Pope Leo taking peace message to Lebanon, target of Israeli strikes reut.rs/4ooPrVg <a href="https://bsky.app/profile/reuters.com/post/3m6tccbr6pe2i" target="_blank">reuters.com</a> (2025-11-30 15:35:10)</span><span style="padding-right:50px;">着ぐるみ｢ララちゃん｣500体超へ、7年で5割増　イオンファンタジー www.nikkei.com/article/DGXZQO...  室内遊戯施設「モーリーファンタジー」の公式キャラとして2000年に設定されました。  イオンファンタジーは知名度向上へ着ぐるみの数を大幅に増やしており、足元の数は国内外で計470体。  「着ぐるみの数が世界で最も多いキャラクター」といいます。 <a href="https://bsky.app/profile/nikkei.com/post/3m6tc3dowu52e" target="_blank">nikkei.com</a> (2025-11-30 15:31:17)</span><span style="padding-right:50px;">Basketball WNBA lockout looms with pay talks deadlocked reut.rs/3XpOe5m <a href="https://bsky.app/profile/reuters.com/post/3m6tbzide342k" target="_blank">reuters.com</a> (2025-11-30 15:30:15)</span><span style="padding-right:50px;">Claims that President Ferdinand Marcos Jr took kickbacks from infrastructure projects cause outrage in the Philippines. <a href="https://bsky.app/profile/aljazeera.com/post/3m6tbzglsbc2h" target="_blank">aljazeera.com</a> (2025-11-30 15:30:13)</span>
   </div>
 </div>
 
@@ -32,14 +32,64 @@
 
 ## News Headlines
 
-1. ロビンソン、ワールドカップ5度目の優勝
+1. 米国、子どもの誕生日会で銃乱射事件、4人死亡
 2. レノファ山口、中山元気監督が退任へ
-3. トルコ沖でタンカー爆発、攻撃報道
-4. カリフォルニアの誕生日パーティーで銃撃、4人死亡
-5. ツバル、メタバース国家で水没の危機に挑戦
-6. 株価急落、中国サービス業3年ぶりの低水準
+3. トルコ沖でタンカー爆発、攻撃報道も
+4. ツバル、温暖化による水没に備えメタバース国家建設へ
+5. 米カリフォルニア州ストックトンで銃乱射、4人死亡
+6. Vチューバー受難、SNSでの契約トラブル多発
 
 ----
+
+@sokuho.news
+
+🔔ANNより【速報】です。
+
+【速報】米 子どもの誕生日会で銃乱射4人死亡 感謝祭休暇の真っ只中 特定の人物狙う？けが10人
+(15:42) #ニュース
+
+[2025-11-30 15:44:25](https://bsky.app/profile/sokuho.news/post/3m6tcssziq52w)
+
+---
+
+@reuters.com
+
+Pope Leo taking peace message to Lebanon, target of Israeli strikes reut.rs/4ooPrVg
+
+[2025-11-30 15:35:10](https://bsky.app/profile/reuters.com/post/3m6tccbr6pe2i)
+
+---
+
+@nikkei.com
+
+着ぐるみ｢ララちゃん｣500体超へ、7年で5割増　イオンファンタジー
+www.nikkei.com/article/DGXZQO...
+
+室内遊戯施設「モーリーファンタジー」の公式キャラとして2000年に設定されました。
+
+イオンファンタジーは知名度向上へ着ぐるみの数を大幅に増やしており、足元の数は国内外で計470体。
+
+「着ぐるみの数が世界で最も多いキャラクター」といいます。
+
+[2025-11-30 15:31:17](https://bsky.app/profile/nikkei.com/post/3m6tc3dowu52e)
+
+---
+
+@reuters.com
+
+Basketball WNBA lockout looms with pay talks deadlocked reut.rs/3XpOe5m
+
+[2025-11-30 15:30:15](https://bsky.app/profile/reuters.com/post/3m6tbzide342k)
+
+---
+
+@aljazeera.com
+
+Claims that President Ferdinand Marcos Jr took kickbacks from infrastructure projects cause outrage in the Philippines.
+
+[2025-11-30 15:30:13](https://bsky.app/profile/aljazeera.com/post/3m6tbzglsbc2h)
+
+---
 
 @reuters.com
 
@@ -83,56 +133,6 @@ https://news.web.nhk/newsweb/na/na-k10014990041000
 Companies drown in 3,000 hours of paperwork to tap EU climate funds on.ft.com/4ooDsag
 
 [2025-11-30 15:11:33](https://bsky.app/profile/financialtimes.com/post/3m6tay2bcd426)
-
----
-
-@nikkei.com
-
-ミズノ、飛ぶように走れる板バネフットギア　競技用義足の技術生かす（無料記事）
-www.nikkei.com/article/DGXZQO...
-
-コンセプトモデルを「ジャパンモビリティショー2025」に出展。
-
-靴を移動手段と捉え、自身の体で楽な走行を実現させたいとしています。
-
-2025年10月 #注目された記事
-
-[2025-11-30 15:01:17](https://bsky.app/profile/nikkei.com/post/3m6tafovzzl2t)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Four killed in shooting at child's birthday party in California
-
-[2025-11-30 15:01:08](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6tafgoxuj26)
-
----
-
-@cnn.com
-
-Now, with tensions sharply rising inside the Capitol over party infighting and a new focus on partisan floor attacks, it's about to get worse.
-https://cnn.it/3LZU7Up
-
-[2025-11-30 15:00:13](https://bsky.app/profile/cnn.com/post/3m6tadryzmo2q)
-
----
-
-@washingtonpost.com
-
-Latinas in the U.S. are using twin braids with colorful ribbons as a symbol of resistance against immigration raids.
-
-This traditional hairstyle, rooted in Mexican culture, represents resilience and identity.
-
-[2025-11-30 15:00:12](https://bsky.app/profile/washingtonpost.com/post/3m6tadr2o3h2s)
-
----
-
-@reuters.com
-
-Du Plessis opts out of IPL auctions to play in PSL reut.rs/49NLXs2
-
-[2025-11-30 14:40:12](https://bsky.app/profile/reuters.com/post/3m6t77xwv4m2w)
 
 ---
 
