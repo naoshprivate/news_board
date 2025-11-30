@@ -1,9 +1,9 @@
-# [2025-12-01 01:30 updated](2025_12_01.md)
+# [2025-12-01 01:50 updated](2025_12_01.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Pope Leo XIV challenges Lebanon’s political leaders to be true peacemakers as he seeks to give message of hope in Beirut. <a href="https://bsky.app/profile/apnews.com/post/3m6udeffoet22" target="_blank">apnews.com</a> (2025-12-01 01:26:55)</span><span style="padding-right:50px;">Martinez double earns Inter 2-0 win at Pisa reut.rs/4iv83Sq <a href="https://bsky.app/profile/reuters.com/post/3m6udbbuyeo26" target="_blank">reuters.com</a> (2025-12-01 01:25:10)</span><span style="padding-right:50px;">President Trump has set free a private equity executive who had served less than two weeks of a seven-year sentence for his role in what prosecutors described as a $1.6 billion scheme that defrauded thousands of victims. <a href="https://bsky.app/profile/nytimes.com/post/3m6udaztqjs2q" target="_blank">nytimes.com</a> (2025-12-01 01:25:02)</span><span style="padding-right:50px;">Top Trump administration officials are meeting Ukrainian negotiators in Florida this weekend, pushing to broker an end to Russia's war in Ukraine. n.pr/4aspVLs <a href="https://bsky.app/profile/npr.org/post/3m6ud7rg7ur2g" target="_blank">npr.org</a> (2025-12-01 01:24:20)</span><span style="padding-right:50px;">Isak's first Liverpool league goal helps Reds to vital win at West Ham reut.rs/4pf08uY <a href="https://bsky.app/profile/reuters.com/post/3m6ucphrvmb2i" target="_blank">reuters.com</a> (2025-12-01 01:15:12)</span>
+<span style="padding-right:50px;">The Gaza Health Ministry says more than 70,000 Palestinians have been killed since Israel’s genocidal war on Gaza began on October 7, 2023, with attacks continuing despite the ceasefire deal that came into effect last month.  🔗: aje.io/kunho7 | #Infograph <a href="https://bsky.app/profile/aljazeera.com/post/3m6ueicp5ns2l" target="_blank">aljazeera.com</a> (2025-12-01 01:47:00)</span><span style="padding-right:50px;">Some of America’s best starting salaries are at sea. And they aren’t luring enough workers. <a href="https://bsky.app/profile/wsj.com/post/3m6uehegmbh2h" target="_blank">wsj.com</a> (2025-12-01 01:46:28)</span><span style="padding-right:50px;">Report: Warriors to sign G Seth Curry reut.rs/4rubmx2 <a href="https://bsky.app/profile/reuters.com/post/3m6uef6e7ov27" target="_blank">reuters.com</a> (2025-12-01 01:45:14)</span><span style="padding-right:50px;">Disney's 'Zootopia 2' hauls in $556 million at global box offices reut.rs/48k3Ygx <a href="https://bsky.app/profile/reuters.com/post/3m6ue4ajy3o2y" target="_blank">reuters.com</a> (2025-12-01 01:40:15)</span><span style="padding-right:50px;">Zillow, the country’s largest real estate listings site, has quietly removed a feature that showed the risks from extreme weather for more than one million home sale listings on its site. <a href="https://bsky.app/profile/nytimes.com/post/3m6ue3xsn322h" target="_blank">nytimes.com</a> (2025-12-01 01:40:06)</span>
   </div>
 </div>
 
@@ -32,92 +32,94 @@
 
 ## News Headlines
 
-1. 教皇レオ14世、レバノンの指導者に真の平和構築を呼びかけ
-2. トランプ前大統領、16億ドル詐欺事件の受刑者を恩赦
-3. 米政府高官、ウクライナ和平交渉を推進
-4. インドネシア、洪水で数百人が行方不明
-5. 米国で過激化した容疑者、州兵銃撃事件に関与
-6. スマトラ島洪水、略奪が発生
+1.  ガザ保健省：イスラエルの攻撃で7万人以上が死亡
+2.  アメリカの海運業、高給にもかかわらず人材不足
+3.  ウォリアーズ、セス・カリーと契約へ
+4.  ズートピア2、世界興行収入5億5600万ドル突破
+5.  Zillow、不動産サイトから異常気象リスク情報を削除
+6.  トランプ政権高官、ウクライナ交渉団と会談
 
 ----
 
-@apnews.com
+@aljazeera.com
 
-Pope Leo XIV challenges Lebanon’s political leaders to be true peacemakers as he seeks to give message of hope in Beirut.
+The Gaza Health Ministry says more than 70,000 Palestinians have been killed since Israel’s genocidal war on Gaza began on October 7, 2023, with attacks continuing despite the ceasefire deal that came into effect last month.
 
-[2025-12-01 01:26:55](https://bsky.app/profile/apnews.com/post/3m6udeffoet22)
+🔗: aje.io/kunho7 | #Infograph
 
----
-
-@reuters.com
-
-Martinez double earns Inter 2-0 win at Pisa reut.rs/4iv83Sq
-
-[2025-12-01 01:25:10](https://bsky.app/profile/reuters.com/post/3m6udbbuyeo26)
-
----
-
-@nytimes.com
-
-President Trump has set free a private equity executive who had served less than two weeks of a seven-year sentence for his role in what prosecutors described as a $1.6 billion scheme that defrauded thousands of victims.
-
-[2025-12-01 01:25:02](https://bsky.app/profile/nytimes.com/post/3m6udaztqjs2q)
-
----
-
-@npr.org
-
-Top Trump administration officials are meeting Ukrainian negotiators in Florida this weekend, pushing to broker an end to Russia's war in Ukraine. n.pr/4aspVLs
-
-[2025-12-01 01:24:20](https://bsky.app/profile/npr.org/post/3m6ud7rg7ur2g)
-
----
-
-@reuters.com
-
-Isak's first Liverpool league goal helps Reds to vital win at West Ham reut.rs/4pf08uY
-
-[2025-12-01 01:15:12](https://bsky.app/profile/reuters.com/post/3m6ucphrvmb2i)
+[2025-12-01 01:47:00](https://bsky.app/profile/aljazeera.com/post/3m6ueicp5ns2l)
 
 ---
 
 @wsj.com
 
-Stocks and cryptocurrencies linked to President Trump are in a slump—leaving some of his biggest fans with steep losses.
+Some of America’s best starting salaries are at sea. And they aren’t luring enough workers.
 
-[2025-12-01 01:13:26](https://bsky.app/profile/wsj.com/post/3m6ucmcdqk32t)
+[2025-12-01 01:46:28](https://bsky.app/profile/wsj.com/post/3m6uehegmbh2h)
+
+---
+
+@reuters.com
+
+Report: Warriors to sign G Seth Curry reut.rs/4rubmx2
+
+[2025-12-01 01:45:14](https://bsky.app/profile/reuters.com/post/3m6uef6e7ov27)
+
+---
+
+@reuters.com
+
+Disney's 'Zootopia 2' hauls in $556 million at global box offices reut.rs/48k3Ygx
+
+[2025-12-01 01:40:15](https://bsky.app/profile/reuters.com/post/3m6ue4ajy3o2y)
 
 ---
 
 @nytimes.com
 
-A punchy mix of tangy Dijon, sweet maple, sharp garlic and fresh dill is slathered onto salmon fillets here, bringing major flavor to this quick dish.
+Zillow, the country’s largest real estate listings site, has quietly removed a feature that showed the risks from extreme weather for more than one million home sale listings on its site.
 
-[2025-12-01 01:13:11](https://bsky.app/profile/nytimes.com/post/3m6uclu5gf622)
+[2025-12-01 01:40:06](https://bsky.app/profile/nytimes.com/post/3m6ue3xsn322h)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@nytimes.com
 
-Indonesia searches for hundreds missing in deadly floods
+Prime Minister Benjamin Netanyahu asked Israel’s president on Sunday to pardon him in his long-running corruption trial, a request that the president, Isaac Herzog, called “extraordinary” and that critics said would run counter to the rule of law.
 
-[2025-12-01 01:09:52](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6ucfwiujc27)
+[2025-12-01 01:40:05](https://bsky.app/profile/nytimes.com/post/3m6ue3xfupa2g)
+
+---
+
+@reuters.com
+
+Kamara stunner sends Villa third with narrow win over Wolves reut.rs/4oojTyY
+
+[2025-12-01 01:35:11](https://bsky.app/profile/reuters.com/post/3m6udt75ssm27)
 
 ---
 
 @financialtimes.com
 
- AI doesn’t add up if you neglect the mathematicians on.ft.com/4rB8BKH  | opinion
+Senior Ukrainian officials began talks on Sunday with Donald Trump’s negotiating team in Florida, starting what could be a pivotal week of diplomacy in a US push to end Russia’s years-long invasion on.ft.com/4itsWgw
 
-[2025-12-01 01:07:49](https://bsky.app/profile/financialtimes.com/post/3m6uccaiovr2n)
+[2025-12-01 01:32:52](https://bsky.app/profile/financialtimes.com/post/3m6udp24zbp2c)
 
 ---
 
-@npr.org
+@financialtimes.com
 
-Update: Travel disruptions continued across the country on Sunday, with over 1,600 flight delays and nearly 500 cancellations.
+US strike on Venezuelan vessel could be war crime, say Democrats on.ft.com/48JpnQc
 
-[2025-12-01 01:07:00](https://bsky.app/profile/npr.org/post/3m6ucarw4fk2e)
+[2025-12-01 01:32:33](https://bsky.app/profile/financialtimes.com/post/3m6udoihirl27)
+
+---
+
+@aljazeera.com
+
+Crowds welcome Pope Leo in Beirut as he calls for an end to violence and promotes interfaith understanding.
+
+[2025-12-01 01:30:25](https://bsky.app/profile/aljazeera.com/post/3m6udko76uh2h)
 
 ---
 
