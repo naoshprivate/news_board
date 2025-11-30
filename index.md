@@ -1,9 +1,9 @@
-# [2025-12-01 07:30 updated](2025_12_01.md)
+# [2025-12-01 07:50 updated](2025_12_01.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🔊 British ex-paratrooper Karl Bushby is nearing the end of a 36,000-mile walk around the world that began in Chile in 1998. He shares his story on today's episode of the Reuters World News podcast reut.rs/48leBOI <a href="https://bsky.app/profile/reuters.com/post/3m6uxhorhqk2c" target="_blank">reuters.com</a> (2025-12-01 07:26:40)</span><span style="padding-right:50px;">Napoli thwart Roma's bid to reclaim top spot with 1-0 away win reut.rs/3MadaeD <a href="https://bsky.app/profile/reuters.com/post/3m6uxeyl2iz2y" target="_blank">reuters.com</a> (2025-12-01 07:25:10)</span><span style="padding-right:50px;">An auctioneer stumbled upon the long lost painting, which depicts the crucifixion of Jesus Christ, inside a Paris townhouse last year during a routine visit. n.pr/48s2L5m <a href="https://bsky.app/profile/npr.org/post/3m6ux2vgd422y" target="_blank">npr.org</a> (2025-12-01 07:19:31)</span><span style="padding-right:50px;">【こころの不調で年7兆円経済損失】 欠勤や生産性低下、相談の輪が必須に www.nikkei.com/article/DGXZQO...  会社のミーティングで号泣、ロープを買いにホームセンターへ――。  うつ病などのこころの病は気分障害と呼ばれ、外来患者数は2023年に156万6000人と20年前に比べ2.3倍に増えました。  異変を早めに察知し、無理のないスムーズな復帰につなげる環境づくりが欠かせません。 <a href="https://bsky.app/profile/nikkei.com/post/3m6uwtv75gi2k" target="_blank">nikkei.com</a> (2025-12-01 07:15:36)</span><span style="padding-right:50px;">Not McLaren's finest day, says Norris as lead cut to 12 points reut.rs/4p9NL3l <a href="https://bsky.app/profile/reuters.com/post/3m6uwtabf7f2k" target="_blank">reuters.com</a> (2025-12-01 07:15:14)</span>
+<span style="padding-right:50px;">【逮捕直後に無料相談”当番弁護士”】 登録割合低下、「使命感」頼みに限界（無料記事） www.nikkei.com/article/DGXZQO...  「負担に見合わない。やっていられない」  そのまま国選弁護人になることが多く、起訴されれば判決までは早くても数カ月。報酬は国選と合わせても10万〜20万円程度です。  大阪では登録者が3年間で約500人減り、「緊急事態宣言」と題して登録を呼びかけるメールが出回りました。 <a href="https://bsky.app/profile/nikkei.com/post/3m6uyjjyqfv2m" target="_blank">nikkei.com</a> (2025-12-01 07:45:36)</span><span style="padding-right:50px;">Soccer Spain's Bonmati ruled out of Nations League final with fractured leg reut.rs/44uSjZI <a href="https://bsky.app/profile/reuters.com/post/3m6uyisbpfe2o" target="_blank">reuters.com</a> (2025-12-01 07:45:11)</span><span style="padding-right:50px;">Intense competition pushes some brands to adapt to Chinese tastes and introduce lower prices—and use the country as an innovation hub to learn from. <a href="https://bsky.app/profile/wsj.com/post/3m6uyadg3ar2t" target="_blank">wsj.com</a> (2025-12-01 07:40:27)</span><span style="padding-right:50px;">Top 25 Roundup: Audi Crooks pours in 47 as No. 10 Iowa State edges Indiana reut.rs/3KnHaDh <a href="https://bsky.app/profile/reuters.com/post/3m6uyadc47f2k" target="_blank">reuters.com</a> (2025-12-01 07:40:27)</span><span style="padding-right:50px;">Lane Kiffin officially hired by LSU, won't coach Ole Miss again reut.rs/4anxCCJ <a href="https://bsky.app/profile/reuters.com/post/3m6uxwuljq72w" target="_blank">reuters.com</a> (2025-12-01 07:35:09)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50253.91 (🔺34.95 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.09 (🔺0.04 : 2025-11-30)</span>
+<span style="padding-right:50px;">NIKKEI: 50253.91 (🔺34.95 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.10 (🔺0.05 : 2025-11-30)</span>
   </div>
 </div>
 
@@ -32,107 +32,105 @@
 
 ## News Headlines
 
-1. 元英軍兵士、1998年開始の世界一周徒歩旅行が終盤へ
-2. ナポリ、ローマを下し首位奪還阻止
-3. パリで発見されたルーベンスの幻の絵画、オークションで270万ドル
-4. 津波避難場所、備蓄不足が判明 - 政府が保管設備助成へ
-5. 地球温暖化の逆説：北極海の氷解が航行をより危険に
-6. 心的不調による経済損失、年間7兆円 - 相談の輪が必須
+1. 当番弁護士の登録割合低下、「使命感」頼みに限界か
+2. サッカー スペイン代表 ボンマティ選手、足の骨折で代表決勝欠場
+3. こころの不調で年7兆円経済損失、相談の輪が必須
+4. 屋外の津波避難場所、備蓄・空調の不足が課題
+5. 広がる原発再稼働、迫る「核のごみ」問題
+6. 米西部 パーティー会場で銃撃事件、子ども含む4人死亡
 
 ----
 
-@reuters.com
-
-🔊 British ex-paratrooper Karl Bushby is nearing the end of a 36,000-mile walk around the world that began in Chile in 1998. He shares his story on today's episode of the Reuters World News podcast reut.rs/48leBOI
-
-[2025-12-01 07:26:40](https://bsky.app/profile/reuters.com/post/3m6uxhorhqk2c)
-
----
-
-@reuters.com
-
-Napoli thwart Roma's bid to reclaim top spot with 1-0 away win reut.rs/3MadaeD
-
-[2025-12-01 07:25:10](https://bsky.app/profile/reuters.com/post/3m6uxeyl2iz2y)
-
----
-
-@npr.org
-
-An auctioneer stumbled upon the long lost painting, which depicts the crucifixion of Jesus Christ, inside a Paris townhouse last year during a routine visit. n.pr/48s2L5m
-
-[2025-12-01 07:19:31](https://bsky.app/profile/npr.org/post/3m6ux2vgd422y)
-
----
-
 @nikkei.com
 
-【こころの不調で年7兆円経済損失】
-欠勤や生産性低下、相談の輪が必須に
+【逮捕直後に無料相談”当番弁護士”】
+登録割合低下、「使命感」頼みに限界（無料記事）
 www.nikkei.com/article/DGXZQO...
 
-会社のミーティングで号泣、ロープを買いにホームセンターへ――。
+「負担に見合わない。やっていられない」
 
-うつ病などのこころの病は気分障害と呼ばれ、外来患者数は2023年に156万6000人と20年前に比べ2.3倍に増えました。
+そのまま国選弁護人になることが多く、起訴されれば判決までは早くても数カ月。報酬は国選と合わせても10万〜20万円程度です。
 
-異変を早めに察知し、無理のないスムーズな復帰につなげる環境づくりが欠かせません。
+大阪では登録者が3年間で約500人減り、「緊急事態宣言」と題して登録を呼びかけるメールが出回りました。
 
-[2025-12-01 07:15:36](https://bsky.app/profile/nikkei.com/post/3m6uwtv75gi2k)
+[2025-12-01 07:45:36](https://bsky.app/profile/nikkei.com/post/3m6uyjjyqfv2m)
 
 ---
 
 @reuters.com
 
-Not McLaren's finest day, says Norris as lead cut to 12 points reut.rs/4p9NL3l
+Soccer Spain's Bonmati ruled out of Nations League final with fractured leg reut.rs/44uSjZI
 
-[2025-12-01 07:15:14](https://bsky.app/profile/reuters.com/post/3m6uwtabf7f2k)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Sudan civil war: The terrifying escape from el-Fasher in Darfur
-
-[2025-12-01 07:11:54](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6uwnd3mtf24)
-
----
-
-@sokuho.news
-
-🛎️産経より【独自】です。
-
-＜独自＞屋外の津波緊急避難場所、備蓄15%、空調8%… 政府調査、保管設備助成へ
-(2025/12/1 05:00) #ニュース
-
-⬛津波情報
-🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami
-https://www.sankei.com/article/20251201-THUFCDYUGNMUXPYD34ZEAOISCI/
-
-[2025-12-01 07:05:43](https://bsky.app/profile/sokuho.news/post/3m6uwcamyp42x)
+[2025-12-01 07:45:11](https://bsky.app/profile/reuters.com/post/3m6uyisbpfe2o)
 
 ---
 
 @wsj.com
 
-In a paradox of global warming, thawing ice isn’t making Arctic waters easier to navigate: it makes them more dangerous.
+Intense competition pushes some brands to adapt to Chinese tastes and introduce lower prices—and use the country as an innovation hub to learn from.
 
-[2025-12-01 07:02:28](https://bsky.app/profile/wsj.com/post/3m6uw4gmqwb2r)
+[2025-12-01 07:40:27](https://bsky.app/profile/wsj.com/post/3m6uyadg3ar2t)
 
 ---
 
-@nytimes.com
+@reuters.com
 
-Oxford University Press has chosen “rage bait” as its 2025 Word of the Year. The open-compound word, which beat out “biohack” and “aura farming,” goes back at least to 2002. www.nytimes.com/2025/11/30/a...
+Top 25 Roundup: Audi Crooks pours in 47 as No. 10 Iowa State edges Indiana reut.rs/3KnHaDh
 
-[2025-12-01 07:01:55](https://bsky.app/profile/nytimes.com/post/3m6uw3gblkk2z)
+[2025-12-01 07:40:27](https://bsky.app/profile/reuters.com/post/3m6uyadc47f2k)
+
+---
+
+@reuters.com
+
+Lane Kiffin officially hired by LSU, won't coach Ole Miss again reut.rs/4anxCCJ
+
+[2025-12-01 07:35:09](https://bsky.app/profile/reuters.com/post/3m6uxwuljq72w)
+
+---
+
+@financialtimes.com
+
+Starmer to launch fresh push for welfare spending reform on.ft.com/4ixMEIf
+
+[2025-12-01 07:35:07](https://bsky.app/profile/financialtimes.com/post/3m6uxwsbqq225)
+
+---
+
+@bloomberg.com
+
+The $260 billion fixed-maturity funds sector is supposed to offer investors security. But the chase for yield is taking them into riskier corners of the market.
+
+[2025-12-01 07:32:08](https://bsky.app/profile/bloomberg.com/post/3m6uxrhvarb2m)
+
+---
+
+@nikkei.com
+
+忘年会に行ったら成長できる？　Z世代、職場飲み会不要派6割
+www.nikkei.com/article/DGXZQO...
+
+「職場の飲み会は気を遣うから行きたくない」と語る20代女性。「ここで働くのは3年だけ。上司と交流するモチベーションは薄い」というのが本音です。
+
+連載「飲みノミクス」の初回です。
+
+[2025-12-01 07:31:36](https://bsky.app/profile/nikkei.com/post/3m6uxqiufqa2t)
 
 ---
 
 @usatoday.com
 
-Vin Diesel is sharing his emotional memories of his "other half" Paul Walker on the 12th anniversary of the actor's death.
+It is possible to overdo it on the protein. Here's how nutrition experts recommend finding that happy medium.
 
-[2025-12-01 07:01:11](https://bsky.app/profile/usatoday.com/post/3m6uw24pkp62p)
+[2025-12-01 07:30:20](https://bsky.app/profile/usatoday.com/post/3m6uxoa4eoi2p)
+
+---
+
+@bloomberg.com
+
+US and Ukrainian negotiators said they had productive discussions about a framework for a peace deal, but there was no final breakthrough as Trump continues to push for a truce with Russia.
+
+[2025-12-01 07:30:14](https://bsky.app/profile/bloomberg.com/post/3m6uxo2qb5j2o)
 
 ---
 
