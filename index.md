@@ -1,9 +1,9 @@
-# [2025-12-01 03:50 updated](2025_12_01.md)
+# [2025-12-01 04:10 updated](2025_12_01.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Ten-man Chelsea hold off Arsenal in tetchy 1-1 London derby reut.rs/4rLy2t9 <a href="https://bsky.app/profile/reuters.com/post/3m6ul3qsu2x2r" target="_blank">reuters.com</a> (2025-12-01 03:45:15)</span><span style="padding-right:50px;">A writer reflects on how, as a child, a sleeper train crossing South India awakened a passion for life on the rails. More than 30 years later, trains remain her favorite way to see the world. <a href="https://bsky.app/profile/wsj.com/post/3m6ul22lj7w2h" target="_blank">wsj.com</a> (2025-12-01 03:44:18)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:熊本県阿蘇地方, 深さ:10km マグニチュード:2.2, 最大震度:1 📍https://www.google.com/maps?q=33.0,131.1&ll=33.0,131.1&z=7&t=h 地震発生日時:2025-12-01 03:40頃 (10倍速▶90s→9s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m6ukzohk6g2p" target="_blank">sokuho.news</a> (2025-12-01 03:44:05)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  3時40分頃、熊本県で最大震度1の地震を観測しました。 震源:熊本県阿蘇地方, 深さ:10km, 規模:M2.2 この地震による津波の心配はありません。 (2025-12-01 03:43:43) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/01/2025-12-01-03-40-27.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3m6ukz2ic5f2l" target="_blank">sokuho.news</a> (2025-12-01 03:43:43)</span><span style="padding-right:50px;">UnitedHealth agrees to sell South American business to private equity firm Patria for $1 billion, sources say reut.rs/4iwXJtd <a href="https://bsky.app/profile/reuters.com/post/3m6uksplk5h2r" target="_blank">reuters.com</a> (2025-12-01 03:40:11)</span>
+<span style="padding-right:50px;">bit.ly/44zTerJ <a href="https://bsky.app/profile/apnews.com/post/3m6um7qi5wd2t" target="_blank">apnews.com</a> (2025-12-01 04:05:22)</span><span style="padding-right:50px;">bit.ly/4amcahq Georgia moves up to No. 3 as Texas A&M falls out of the top five for the first time in two months in The Associated Press college football poll Sunday. <a href="https://bsky.app/profile/apnews.com/post/3m6um7niill22" target="_blank">apnews.com</a> (2025-12-01 04:05:19)</span><span style="padding-right:50px;">Coastal Carolina fires head coach Tim Beck reut.rs/4oJGKFz <a href="https://bsky.app/profile/reuters.com/post/3m6um7jdv2e27" target="_blank">reuters.com</a> (2025-12-01 04:05:15)</span><span style="padding-right:50px;">Vitamin prices are often deceiving. It’s typically not necessary to spend top dollar on supplements. The inexpensive options can be just as good—if you pick the right ones. <a href="https://bsky.app/profile/nytimes.com/post/3m6um5g6njs2y" target="_blank">nytimes.com</a> (2025-12-01 04:04:04)</span><span style="padding-right:50px;">A fatal attack on a routine patrol has intensified questions over the administration’s open-ended military deployments in American cities. <a href="https://bsky.app/profile/wsj.com/post/3m6um4zcpn42o" target="_blank">wsj.com</a> (2025-12-01 04:03:51)</span>
   </div>
 </div>
 
@@ -32,104 +32,93 @@
 
 ## News Headlines
 
-1. チェルシー、10人でアーセナルとドロー
-2. 熊本県阿蘇地方で地震発生、最大震度1
-3. ユナイテッドヘルス、南米事業を10億ドルで売却合意
-4. ESPN報道：レーン・キフィン、LSUの次期監督就任か
-5. イスラエル大統領官邸前で抗議デモ、ネタニヤフ首相への恩赦要求
-6. ヴェルスタッペン、カタールGPで勝利、タイトル争いは最終戦へ
+1. ジョージア大学、APカレッジフットボールランキングで3位に浮上
+2. コースタルカロライナ大学、ヘッドコーチのティム・ベックを解任
+3. カムチャツカ地震で津波警報、避難は対象の約2割
+4. 南アフリカ、G20への完全なメンバーとしての関与を継続
+5. イスラエル大統領官邸前で抗議活動、ネタニヤフ首相の恩赦要求に反対
+6. アクセンチュア、AI適応で80万人を「再発明者」と命名
 
 ----
 
-@reuters.com
+@apnews.com
 
-Ten-man Chelsea hold off Arsenal in tetchy 1-1 London derby reut.rs/4rLy2t9
+bit.ly/44zTerJ
 
-[2025-12-01 03:45:15](https://bsky.app/profile/reuters.com/post/3m6ul3qsu2x2r)
-
----
-
-@wsj.com
-
-A writer reflects on how, as a child, a sleeper train crossing South India awakened a passion for life on the rails. More than 30 years later, trains remain her favorite way to see the world.
-
-[2025-12-01 03:44:18](https://bsky.app/profile/wsj.com/post/3m6ul22lj7w2h)
+[2025-12-01 04:05:22](https://bsky.app/profile/apnews.com/post/3m6um7qi5wd2t)
 
 ---
 
-@sokuho.news
+@apnews.com
 
-🔔防災科研より【強震モニタ】動画です。
+bit.ly/4amcahq
+Georgia moves up to No. 3 as Texas A&M falls out of the top five for the first time in two months in The Associated Press college football poll Sunday.
 
-震源:熊本県阿蘇地方, 深さ:10km
-マグニチュード:2.2, 最大震度:1
-📍https://www.google.com/maps?q=33.0,131.1&ll=33.0,131.1&z=7&t=h
-地震発生日時:2025-12-01 03:40頃
-(10倍速▶90s→9s) #地震
-
-[2025-12-01 03:44:05](https://bsky.app/profile/sokuho.news/post/3m6ukzohk6g2p)
-
----
-
-@sokuho.news
-
-🔔気象庁より【地震速報】です。
-
-3時40分頃、熊本県で最大震度1の地震を観測しました。
-震源:熊本県阿蘇地方, 深さ:10km, 規模:M2.2
-この地震による津波の心配はありません。
-(2025-12-01 03:43:43) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/01/2025-12-01-03-40-27.html?xlarge_image=1
-
-[2025-12-01 03:43:43](https://bsky.app/profile/sokuho.news/post/3m6ukz2ic5f2l)
+[2025-12-01 04:05:19](https://bsky.app/profile/apnews.com/post/3m6um7niill22)
 
 ---
 
 @reuters.com
 
-UnitedHealth agrees to sell South American business to private equity firm Patria for $1 billion, sources say reut.rs/4iwXJtd
+Coastal Carolina fires head coach Tim Beck reut.rs/4oJGKFz
 
-[2025-12-01 03:40:11](https://bsky.app/profile/reuters.com/post/3m6uksplk5h2r)
+[2025-12-01 04:05:15](https://bsky.app/profile/reuters.com/post/3m6um7jdv2e27)
 
 ---
 
 @nytimes.com
 
-We recently published our list of the 100 Notable Books of 2025. Browsing a list of 100 books is exciting, but can be overwhelming. Want to find one to read right away? We can help! We broke the list down into categories to suit any kind of mood. Take a look.
+Vitamin prices are often deceiving. It’s typically not necessary to spend top dollar on supplements. The inexpensive options can be just as good—if you pick the right ones.
 
-[2025-12-01 03:40:05](https://bsky.app/profile/nytimes.com/post/3m6uksjnvnr2y)
-
----
-
-@reuters.com
-
-India's Kohli to stick to ODIs after match-winning 'mental' masterclass reut.rs/3Xucbs6
-
-[2025-12-01 03:35:10](https://bsky.app/profile/reuters.com/post/3m6ukjpui332i)
+[2025-12-01 04:04:04](https://bsky.app/profile/nytimes.com/post/3m6um5g6njs2y)
 
 ---
 
-@financialtimes.com
+@wsj.com
 
-Opinion: The EU must make itself minimally vulnerable to inevitable US pressure, writes Martin Sandbu on.ft.com/4itV7fz
+A fatal attack on a routine patrol has intensified questions over the administration’s open-ended military deployments in American cities.
 
-[2025-12-01 03:31:12](https://bsky.app/profile/financialtimes.com/post/3m6ukcmzojq2r)
+[2025-12-01 04:03:51](https://bsky.app/profile/wsj.com/post/3m6um4zcpn42o)
 
 ---
 
 @usatoday.com
 
-Lane Kiffin is likely to leave Ole Miss to be LSU's next coach, ESPN reported early Sunday, Nov. 30.
+Minnesota Gov. Tim Walz condemned President Donald Trump for his use of a slur in a social media post on Thanksgiving and for his characterization of the state's Somali immigrant and diaspora community. bit.ly/4ivjlpM
 
-[2025-12-01 03:30:27](https://bsky.app/profile/usatoday.com/post/3m6ukbcnxv52d)
+[2025-12-01 04:01:58](https://bsky.app/profile/usatoday.com/post/3m6ulznzron2t)
 
 ---
 
-@bloomberg.com
+@cnbc.com
 
-The head of German utility EON said Europe’s largest economy should slow the pace of wind and solar expansion, saying the country’s power grids are struggling to cope with the surge in new renewable projects.
+Respect is fundamental in a healthy relationship, says psychotherapist Sara Nasserzadeh.
 
-[2025-12-01 03:30:13](https://bsky.app/profile/bloomberg.com/post/3m6ukaupqci2y)
+[2025-12-01 04:01:49](https://bsky.app/profile/cnbc.com/post/3m6ulzfh6bb2a)
+
+---
+
+@usatoday.com
+
+Fox and CBS are once again splitting up the NFL's Sunday slate in Week 13. Here's which games will air regionally in Week 13.
+
+[2025-12-01 04:01:24](https://bsky.app/profile/usatoday.com/post/3m6ulymsomd2x)
+
+---
+
+@reuters.com
+
+Colts CB Sauce Gardner leaves game vs. Texans with leg injury reut.rs/4pIRYLl
+
+[2025-12-01 04:01:09](https://bsky.app/profile/reuters.com/post/3m6uly6rcpt2o)
+
+---
+
+@apnews.com
+
+The holiday season is a popular time for volunteering, but experts say giving back is beneficial year-round.
+
+[2025-12-01 04:00:43](https://bsky.app/profile/apnews.com/post/3m6ulxg3g5e2p)
 
 ---
 
