@@ -1,9 +1,9 @@
-# [2025-12-01 05:30 updated](2025_12_01.md)
+# [2025-12-01 05:50 updated](2025_12_01.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Breaking News from @theathletic.com: Lane Kiffin, one of college football’s top coaches, is leaving Ole Miss for LSU. <a href="https://bsky.app/profile/nytimes.com/post/3m6uqu5ohyc2r" target="_blank">nytimes.com</a> (2025-12-01 05:28:22)</span><span style="padding-right:50px;">Retailers use marketing techniques to get you to spend more, like creating a false sense of urgency or creating artificial discounts. Outsmart the gimmicks with these tips. <a href="https://bsky.app/profile/npr.org/post/3m6uqptalk62i" target="_blank">npr.org</a> (2025-12-01 05:25:57)</span><span style="padding-right:50px;">能登半島地震1年11か月 復旧途中の道路除雪に新システム https://news.web.nhk/newsweb/na/na-k10014990121000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6uqmhezud2e" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 05:24:02)</span><span style="padding-right:50px;">Update: U.S. and Ukrainian officials completed roughly four hours of talks aimed at finding an endgame to the war between Russia and Ukraine. <a href="https://bsky.app/profile/npr.org/post/3m6uqmbq5aa2a" target="_blank">npr.org</a> (2025-12-01 05:23:58)</span><span style="padding-right:50px;">石川県 除雪に新システム導入 復旧前の道路でも安全に作業 https://news.web.nhk/newsweb/na/na-k10014990121000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6uqbtrr2b2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 05:18:06)</span>
+<span style="padding-right:50px;">Los Angeles is a hot spot in a nationwide wave of copper thefts. <a href="https://bsky.app/profile/wsj.com/post/3m6uruc2hlv2h" target="_blank">wsj.com</a> (2025-12-01 05:46:20)</span><span style="padding-right:50px;">Venezuela's National Assembly to investigate US boat strikes reut.rs/3M8vxAM <a href="https://bsky.app/profile/reuters.com/post/3m6ursrfaq327" target="_blank">reuters.com</a> (2025-12-01 05:45:29)</span><span style="padding-right:50px;">BREAKING: Lane Kiffin leaves Ole Miss on the brink of its first College Football Playoff appearance to become LSU's head coach. <a href="https://bsky.app/profile/nbcnews.com/post/3m6urmgaf342j" target="_blank">nbcnews.com</a> (2025-12-01 05:41:56)</span><span style="padding-right:50px;">Red card experts Chelsea learn how to cope with 10 men reut.rs/3MuegBU <a href="https://bsky.app/profile/reuters.com/post/3m6urjgze6r26" target="_blank">reuters.com</a> (2025-12-01 05:40:16)</span><span style="padding-right:50px;">'Call me Chucky': Verstappen revels in McLaren's Qatar horror show reut.rs/3Y0hXlm <a href="https://bsky.app/profile/reuters.com/post/3m6urad46ue2i" target="_blank">reuters.com</a> (2025-12-01 05:35:10)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50253.91 (🔺34.95 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.16 (🔺0.11 : 2025-11-30)</span>
+<span style="padding-right:50px;">NIKKEI: 50253.91 (🔺34.95 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.07 (🔺0.02 : 2025-11-30)</span>
   </div>
 </div>
 
@@ -32,96 +32,92 @@
 
 ## News Headlines
 
-1. レーン・キフィン、カレッジフットボールの名コーチがLSUへ
-2. 能登半島地震から1年11ヶ月、復旧途上の道路除雪に新システム
-3. 米ウクライナ高官協議、和平案模索か
-4. オーストラリア、子供のソーシャルメディア利用禁止へ
-5. セネガル、トルコタンカー事故で原油流出阻止を急ぐ
-6. 香港、大規模火災で128人死亡、政府が対応
+1.  全米で銅線盗難が多発、ロサンゼルスがホットスポット
+2.  レーン・キフィン、LSUのヘッドコーチに就任か
+3.  アメリカとウクライナ、和平案をめぐり高官協議
+4.  豪、世界初のソーシャルメディアの子供利用禁止へ
+5.  ノースウェスタン大学、差別問題で7500万ドルを支払い和解
+6.  ニュージャージー州のコーリー・ブッカー上院議員が結婚
 
 ----
+
+@wsj.com
+
+Los Angeles is a hot spot in a nationwide wave of copper thefts.
+
+[2025-12-01 05:46:20](https://bsky.app/profile/wsj.com/post/3m6uruc2hlv2h)
+
+---
+
+@reuters.com
+
+Venezuela's National Assembly to investigate US boat strikes reut.rs/3M8vxAM
+
+[2025-12-01 05:45:29](https://bsky.app/profile/reuters.com/post/3m6ursrfaq327)
+
+---
+
+@nbcnews.com
+
+<strong><span style="color: red;">BREAKING:</span> Lane Kiffin leaves Ole Miss on the brink of its first College Football Playoff appearance to become LSU's head coach.</strong>
+
+[2025-12-01 05:41:56](https://bsky.app/profile/nbcnews.com/post/3m6urmgaf342j)
+
+---
+
+@reuters.com
+
+Red card experts Chelsea learn how to cope with 10 men reut.rs/3MuegBU
+
+[2025-12-01 05:40:16](https://bsky.app/profile/reuters.com/post/3m6urjgze6r26)
+
+---
+
+@reuters.com
+
+'Call me Chucky': Verstappen revels in McLaren's Qatar horror show reut.rs/3Y0hXlm
+
+[2025-12-01 05:35:10](https://bsky.app/profile/reuters.com/post/3m6urad46ue2i)
+
+---
+
+@usatoday.com
+
+“Sentimental Value” star Renate Reinsve was expected to work at her grandpa's hardware store in rural Norway. Instead, she chased her acting dreams.
+
+[2025-12-01 05:30:27](https://bsky.app/profile/usatoday.com/post/3m6uqxume3g2u)
+
+---
+
+@bloomberg.com
+
+As the US options market heads for a sixth straight year of record volume, some in the industry are growing nervous about its over-reliance on a small group of banks to guarantee trades for the biggest market makers
+
+[2025-12-01 05:30:13](https://bsky.app/profile/bloomberg.com/post/3m6uqxh2u3c2h)
+
+---
+
+@cbsnews.com
+
+What were the Afghan "Zero Units" that sources say the National Guard shooting suspect worked for?
+
+[2025-12-01 05:30:00](https://bsky.app/profile/cbsnews.com/post/3m6uqx3kxxf23)
+
+---
+
+@wsj.com
+
+The leader of Scotland sees the issue of the first Scottish bond in centuries as a step toward independence.
+
+[2025-12-01 05:29:55](https://bsky.app/profile/wsj.com/post/3m6uqwwwrn624)
+
+---
 
 @nytimes.com
 
 <strong><span style="color: red;">Breaking News</span> from @theathletic.com: Lane Kiffin, one of college football’s top coaches, is leaving Ole Miss for LSU.</strong>
 
 [2025-12-01 05:28:22](https://bsky.app/profile/nytimes.com/post/3m6uqu5ohyc2r)
-
----
-
-@npr.org
-
-Retailers use marketing techniques to get you to spend more, like creating a false sense of urgency or creating artificial discounts. Outsmart the gimmicks with these tips.
-
-[2025-12-01 05:25:57](https://bsky.app/profile/npr.org/post/3m6uqptalk62i)
-
----
-
-@nhknewsunofficial.bsky.social
-
-能登半島地震1年11か月 復旧途中の道路除雪に新システム
-https://news.web.nhk/newsweb/na/na-k10014990121000
-
-[2025-12-01 05:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6uqmhezud2e)
-
----
-
-@npr.org
-
-Update: U.S. and Ukrainian officials completed roughly four hours of talks aimed at finding an endgame to the war between Russia and Ukraine.
-
-[2025-12-01 05:23:58](https://bsky.app/profile/npr.org/post/3m6uqmbq5aa2a)
-
----
-
-@nhknewsunofficial.bsky.social
-
-石川県 除雪に新システム導入 復旧前の道路でも安全に作業
-https://news.web.nhk/newsweb/na/na-k10014990121000
-
-[2025-12-01 05:18:06](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6uqbtrr2b2j)
-
----
-
-@nhknewsunofficial.bsky.social
-
-JR横浜線 八王子～橋本 上下線 運転見合わせ 線路に車進入
-https://news.web.nhk/newsweb/na/na-k10014990391000
-
-[2025-12-01 05:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6uqbpqixz24)
-
----
-
-@nhknewsunofficial.bsky.social
-
-和平案めぐりアメリカとウクライナの高官協議行われる
-https://news.web.nhk/newsweb/na/na-k10014990351000
-
-[2025-12-01 05:15:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6uq4fjr442k)
-
----
-
-@wsj.com
-
-One California couple blended their love of Midcentury Modern design with Spanish Revival architecture to craft a $200,000 kitchen, which has a massive marble island bookended by walnut butcher block.
-
-[2025-12-01 05:12:02](https://bsky.app/profile/wsj.com/post/3m6upwxhxd22r)
-
----
-
-@apnews.com
-
-Travelers at the end of the Thanksgiving holiday on Sunday were finding hundreds of flights delayed and canceled in Chicago following a winter storm in the Great Lakes region, while a wintry mix of rain and snow developed in the Northeast.
-
-[2025-12-01 05:05:09](https://bsky.app/profile/apnews.com/post/3m6upkmwvkf2c)
-
----
-
-@npr.org
-
-NPR's Lauren Frayer plays the puzzle with Kevin Demko of Rehoboth Beach, Delaware and Weekend Edition Puzzlemaster Will Shortz.
-
-[2025-12-01 05:01:28](https://bsky.app/profile/npr.org/post/3m6upe2je4g2e)
 
 ---
 
