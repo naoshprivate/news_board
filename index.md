@@ -1,9 +1,9 @@
-# [2025-12-01 02:30 updated](2025_12_01.md)
+# [2025-12-01 02:50 updated](2025_12_01.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The restaurant-turned-hospitality brand co-founded by the actor is riding the branded residences boom — and the pipeline stretches from Manchester to Mexico on.ft.com/4oGvklX <a href="https://bsky.app/profile/financialtimes.com/post/3m6ugtn4hsy27" target="_blank">financialtimes.com</a> (2025-12-01 02:29:07)</span><span style="padding-right:50px;">🔔気象庁より【震源速報】です。  2時26分頃、宮城県沖(深さ:60km) を震源とする M4.7 の地震を観測しました。 この地震による津波の心配はありません。 (2025-12-01 02:28:31) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m6ugsmxmto2q" target="_blank">sokuho.news</a> (2025-12-01 02:28:34)</span><span style="padding-right:50px;">🔔NHKより【地震速報】です。  ■震度3■ 岩手沿岸南部 岩手内陸南部 宮城北部 宮城中部 (2025-12-01 02:26) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m6ugrd2tty27" target="_blank">sokuho.news</a> (2025-12-01 02:27:50)</span><span style="padding-right:50px;">🔔気象庁より【震度速報】です。  2時26分頃、岩手県・宮城県で最大震度3の地震を観測しました。 今後の情報に注意してください。 (2025-12-01 02:27:33) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/01/2025-12-01-02-26-00.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3m6ugqv7jvk2y" target="_blank">sokuho.news</a> (2025-12-01 02:27:35)</span><span style="padding-right:50px;">🚨地震発生中❗❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像7🈡 (2025-12-01 02:26:51) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m6ugqsnqav2d" target="_blank">sokuho.news</a> (2025-12-01 02:27:32)</span>
+<span style="padding-right:50px;">Homeland Security Secretary Kristi Noem said the man who allegedly opened fire on National Guard members in Washington, D.C., last week was likely drawn to more extreme political views after coming to the U.S. <a href="https://bsky.app/profile/wsj.com/post/3m6uhjgv42l2a" target="_blank">wsj.com</a> (2025-12-01 02:41:19)</span><span style="padding-right:50px;">Verstappen wins in Qatar to ensure three-way title showdown reut.rs/49NYfAE <a href="https://bsky.app/profile/reuters.com/post/3m6uhhkvc2z26" target="_blank">reuters.com</a> (2025-12-01 02:40:16)</span><span style="padding-right:50px;">A storm has already brought over eight inches of snowfall to parts of Illinois, including Chicago. <a href="https://bsky.app/profile/forbes.com/post/3m6uhh72enj2m" target="_blank">forbes.com</a> (2025-12-01 02:40:03)</span><span style="padding-right:50px;">【地震速報】岩手 宮城で震度3 津波の心配なし https://news.web.nhk/newsweb/na/na-k10014990341000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6uha2mt2j2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 02:36:01)</span><span style="padding-right:50px;">Lithuania capital airport closes again over balloons reut.rs/4olRjy9 <a href="https://bsky.app/profile/reuters.com/post/3m6uh6hbuvs2o" target="_blank">reuters.com</a> (2025-12-01 02:35:10)</span>
   </div>
 </div>
 
@@ -32,136 +32,93 @@
 
 ## News Headlines
 
-1. 宮城県沖でM4.7の地震発生、最大震度3
-2. 俳優共同設立のレストランブランド、高級住宅市場に進出
-3. フロリダ大学、チューレーン大学のジョン・サムラルを新監督に指名
-4. カーリー、インドが南アフリカに勝利した試合でセンチュリーを記録
-5. ローマ教皇レオ14世、イスラエル・パレスチナ問題解決にはパレスチナ国家が必要と発言
-6. スマートトイレ、AIとセンサーで健康状態をモニタリング
+1. 米国土安全保障長官、首都銃撃事件容疑者は米国で過激化した可能性
+2. フェルスタッペン、カタールで優勝！三つ巴のタイトル争いへ
+3. シカゴ含むイリノイ州で大雪、20センチ超の積雪
+4. 岩手・宮城で震度3の地震、津波の心配なし
+5. リトアニア首都空港、気球侵入で再び閉鎖
+6. 遺産相続巡りDNA検査キットで思わぬ相続人が出現、混乱招く
 
 ----
 
+@wsj.com
+
+Homeland Security Secretary Kristi Noem said the man who allegedly opened fire on National Guard members in Washington, D.C., last week was likely drawn to more extreme political views after coming to the U.S.
+
+[2025-12-01 02:41:19](https://bsky.app/profile/wsj.com/post/3m6uhjgv42l2a)
+
+---
+
+@reuters.com
+
+Verstappen wins in Qatar to ensure three-way title showdown reut.rs/49NYfAE
+
+[2025-12-01 02:40:16](https://bsky.app/profile/reuters.com/post/3m6uhhkvc2z26)
+
+---
+
+@forbes.com
+
+A storm has already brought over eight inches of snowfall to parts of Illinois, including Chicago.
+
+[2025-12-01 02:40:03](https://bsky.app/profile/forbes.com/post/3m6uhh72enj2m)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【地震速報】岩手 宮城で震度3 津波の心配なし
+https://news.web.nhk/newsweb/na/na-k10014990341000
+
+[2025-12-01 02:36:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6uha2mt2j2b)
+
+---
+
+@reuters.com
+
+Lithuania capital airport closes again over balloons reut.rs/4olRjy9
+
+[2025-12-01 02:35:10](https://bsky.app/profile/reuters.com/post/3m6uh6hbuvs2o)
+
+---
+
+@cnbc.com
+
+'Zootopia 2' fuels top 5 Thanksgiving box office haul
+
+[2025-12-01 02:32:09](https://bsky.app/profile/cnbc.com/post/3m6ugz2mm2c2s)
+
+---
+
 @financialtimes.com
 
-The restaurant-turned-hospitality brand co-founded by the actor is riding the branded residences boom — and the pipeline stretches from Manchester to Mexico
-on.ft.com/4oGvklX
+On Sunday more than 80% of those who voted rejected the initiative to impose an inheritance levy on the super-rich on.ft.com/4ruKm0x
 
-[2025-12-01 02:29:07](https://bsky.app/profile/financialtimes.com/post/3m6ugtn4hsy27)
-
----
-
-@sokuho.news
-
-🔔気象庁より【震源速報】です。
-
-2時26分頃、宮城県沖(深さ:60km) を震源とする M4.7 の地震を観測しました。
-この地震による津波の心配はありません。
-(2025-12-01 02:28:31) #地震
-
-[2025-12-01 02:28:34](https://bsky.app/profile/sokuho.news/post/3m6ugsmxmto2q)
+[2025-12-01 02:31:09](https://bsky.app/profile/financialtimes.com/post/3m6ugxb7ahx2l)
 
 ---
 
-@sokuho.news
+@financialtimes.com
 
-🔔NHKより【地震速報】です。
+On Sunday more than 80% of those who voted rejected the initiative to impose an inheritance levy on the super-rich on.ft.com/43XDw9L
 
-■震度3■
-岩手沿岸南部 岩手内陸南部 宮城北部 宮城中部
-(2025-12-01 02:26) #地震
-
-[2025-12-01 02:27:50](https://bsky.app/profile/sokuho.news/post/3m6ugrd2tty27)
+[2025-12-01 02:31:06](https://bsky.app/profile/financialtimes.com/post/3m6ugx6ocjq2r)
 
 ---
 
-@sokuho.news
+@usatoday.com
 
-🔔気象庁より【震度速報】です。
+Proponents tout biotin's potential benefits for hair, nails and more. But do they offer benefits for some people more than others?
 
-2時26分頃、岩手県・宮城県で最大震度3の地震を観測しました。
-今後の情報に注意してください。
-(2025-12-01 02:27:33) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/01/2025-12-01-02-26-00.html?xlarge_image=1
-
-[2025-12-01 02:27:35](https://bsky.app/profile/sokuho.news/post/3m6ugqv7jvk2y)
+[2025-12-01 02:30:32](https://bsky.app/profile/usatoday.com/post/3m6ugw5vvq52x)
 
 ---
 
-@sokuho.news
+@reuters.com
 
-🚨地震発生中❗❗❗
+Isak scores as Liverpool halt woeful run, Man United win at Palace reut.rs/4pDdXTJ
 
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像7🈡
-(2025-12-01 02:26:51) #緊急地震速報
-
-[2025-12-01 02:27:32](https://bsky.app/profile/sokuho.news/post/3m6ugqsnqav2d)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗❗
-
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像6
-(2025-12-01 02:26:50) #緊急地震速報
-
-[2025-12-01 02:27:31](https://bsky.app/profile/sokuho.news/post/3m6ugqqsjlu26)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗❗
-
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像5
-(2025-12-01 02:26:30) #緊急地震速報
-
-[2025-12-01 02:27:20](https://bsky.app/profile/sokuho.news/post/3m6ugqgtsgc2y)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗❗
-
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像4
-(2025-12-01 02:26:15) #緊急地震速報
-
-[2025-12-01 02:27:00](https://bsky.app/profile/sokuho.news/post/3m6ugptlcv22y)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗❗
-
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像3
-(2025-12-01 02:26:14) #緊急地震速報
-
-[2025-12-01 02:26:50](https://bsky.app/profile/sokuho.news/post/3m6ugpk4dh724)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗
-
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像2
-(2025-12-01 02:26:10) #緊急地震速報
-
-[2025-12-01 02:26:31](https://bsky.app/profile/sokuho.news/post/3m6ugoy7mit2p)
+[2025-12-01 02:30:25](https://bsky.app/profile/reuters.com/post/3m6ugvwwjck2o)
 
 ---
 
