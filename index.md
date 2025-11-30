@@ -1,9 +1,9 @@
-# [2025-12-01 05:10 updated](2025_12_01.md)
+# [2025-12-01 05:30 updated](2025_12_01.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Travelers at the end of the Thanksgiving holiday on Sunday were finding hundreds of flights delayed and canceled in Chicago following a winter storm in the Great Lakes region, while a wintry mix of rain and snow developed in the Northeast. <a href="https://bsky.app/profile/apnews.com/post/3m6upkmwvkf2c" target="_blank">apnews.com</a> (2025-12-01 05:05:09)</span><span style="padding-right:50px;">NPR's Lauren Frayer plays the puzzle with Kevin Demko of Rehoboth Beach, Delaware and Weekend Edition Puzzlemaster Will Shortz. <a href="https://bsky.app/profile/npr.org/post/3m6upe2je4g2e" target="_blank">npr.org</a> (2025-12-01 05:01:28)</span><span style="padding-right:50px;">Australia will soon ban children from social media in a world-first measure, with tech giants forced to comply or face fines up to $32 million <a href="https://bsky.app/profile/bloomberg.com/post/3m6updh4yym2s" target="_blank">bloomberg.com</a> (2025-12-01 05:01:08)</span><span style="padding-right:50px;">A Yahoo/YouGov poll found that 49% of respondents said Trump's actions since taking office in January have raised prices rather than lowering them. <a href="https://bsky.app/profile/usatoday.com/post/3m6upcgcjz42u" target="_blank">usatoday.com</a> (2025-12-01 05:00:33)</span><span style="padding-right:50px;">Major retail chains and tech companies are offering new or updated artificial intelligence tools in time for the holiday shopping season. <a href="https://bsky.app/profile/apnews.com/post/3m6upc7jt7b2y" target="_blank">apnews.com</a> (2025-12-01 05:00:26)</span>
+<span style="padding-right:50px;">Breaking News from @theathletic.com: Lane Kiffin, one of college football’s top coaches, is leaving Ole Miss for LSU. <a href="https://bsky.app/profile/nytimes.com/post/3m6uqu5ohyc2r" target="_blank">nytimes.com</a> (2025-12-01 05:28:22)</span><span style="padding-right:50px;">Retailers use marketing techniques to get you to spend more, like creating a false sense of urgency or creating artificial discounts. Outsmart the gimmicks with these tips. <a href="https://bsky.app/profile/npr.org/post/3m6uqptalk62i" target="_blank">npr.org</a> (2025-12-01 05:25:57)</span><span style="padding-right:50px;">能登半島地震1年11か月 復旧途中の道路除雪に新システム https://news.web.nhk/newsweb/na/na-k10014990121000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6uqmhezud2e" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 05:24:02)</span><span style="padding-right:50px;">Update: U.S. and Ukrainian officials completed roughly four hours of talks aimed at finding an endgame to the war between Russia and Ukraine. <a href="https://bsky.app/profile/npr.org/post/3m6uqmbq5aa2a" target="_blank">npr.org</a> (2025-12-01 05:23:58)</span><span style="padding-right:50px;">石川県 除雪に新システム導入 復旧前の道路でも安全に作業 https://news.web.nhk/newsweb/na/na-k10014990121000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6uqbtrr2b2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 05:18:06)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50253.91 (🔺34.95 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.15 (🔺0.10 : 2025-11-30)</span>
+<span style="padding-right:50px;">NIKKEI: 50253.91 (🔺34.95 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.16 (🔺0.11 : 2025-11-30)</span>
   </div>
 </div>
 
@@ -32,14 +32,82 @@
 
 ## News Headlines
 
-1.  シカゴで数百便が遅延・欠航、北東部で雪混じりの雨
-2.  豪、世界初の措置として子供のソーシャルメディア利用を禁止へ
-3.  小売・ハイテク企業、ホリデーシーズン向けにAIツールを提供
-4.  コリー・ブッカー上院議員が結婚
-5.  トランプ大統領、ベネズエラ上空の空域を閉鎖と発言
-6.  香港で80年近くで最悪の火災、128人以上が死亡
+1. レーン・キフィン、カレッジフットボールの名コーチがLSUへ
+2. 能登半島地震から1年11ヶ月、復旧途上の道路除雪に新システム
+3. 米ウクライナ高官協議、和平案模索か
+4. オーストラリア、子供のソーシャルメディア利用禁止へ
+5. セネガル、トルコタンカー事故で原油流出阻止を急ぐ
+6. 香港、大規模火災で128人死亡、政府が対応
 
 ----
+
+@nytimes.com
+
+<strong><span style="color: red;">Breaking News</span> from @theathletic.com: Lane Kiffin, one of college football’s top coaches, is leaving Ole Miss for LSU.</strong>
+
+[2025-12-01 05:28:22](https://bsky.app/profile/nytimes.com/post/3m6uqu5ohyc2r)
+
+---
+
+@npr.org
+
+Retailers use marketing techniques to get you to spend more, like creating a false sense of urgency or creating artificial discounts. Outsmart the gimmicks with these tips.
+
+[2025-12-01 05:25:57](https://bsky.app/profile/npr.org/post/3m6uqptalk62i)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+能登半島地震1年11か月 復旧途中の道路除雪に新システム
+https://news.web.nhk/newsweb/na/na-k10014990121000
+
+[2025-12-01 05:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6uqmhezud2e)
+
+---
+
+@npr.org
+
+Update: U.S. and Ukrainian officials completed roughly four hours of talks aimed at finding an endgame to the war between Russia and Ukraine.
+
+[2025-12-01 05:23:58](https://bsky.app/profile/npr.org/post/3m6uqmbq5aa2a)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+石川県 除雪に新システム導入 復旧前の道路でも安全に作業
+https://news.web.nhk/newsweb/na/na-k10014990121000
+
+[2025-12-01 05:18:06](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6uqbtrr2b2j)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+JR横浜線 八王子～橋本 上下線 運転見合わせ 線路に車進入
+https://news.web.nhk/newsweb/na/na-k10014990391000
+
+[2025-12-01 05:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6uqbpqixz24)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+和平案めぐりアメリカとウクライナの高官協議行われる
+https://news.web.nhk/newsweb/na/na-k10014990351000
+
+[2025-12-01 05:15:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6uq4fjr442k)
+
+---
+
+@wsj.com
+
+One California couple blended their love of Midcentury Modern design with Spanish Revival architecture to craft a $200,000 kitchen, which has a massive marble island bookended by walnut butcher block.
+
+[2025-12-01 05:12:02](https://bsky.app/profile/wsj.com/post/3m6upwxhxd22r)
+
+---
 
 @apnews.com
 
@@ -54,74 +122,6 @@ Travelers at the end of the Thanksgiving holiday on Sunday were finding hundreds
 NPR's Lauren Frayer plays the puzzle with Kevin Demko of Rehoboth Beach, Delaware and Weekend Edition Puzzlemaster Will Shortz.
 
 [2025-12-01 05:01:28](https://bsky.app/profile/npr.org/post/3m6upe2je4g2e)
-
----
-
-@bloomberg.com
-
-Australia will soon ban children from social media in a world-first measure, with tech giants forced to comply or face fines up to $32 million
-
-[2025-12-01 05:01:08](https://bsky.app/profile/bloomberg.com/post/3m6updh4yym2s)
-
----
-
-@usatoday.com
-
-A Yahoo/YouGov poll found that 49% of respondents said Trump's actions since taking office in January have raised prices rather than lowering them.
-
-[2025-12-01 05:00:33](https://bsky.app/profile/usatoday.com/post/3m6upcgcjz42u)
-
----
-
-@apnews.com
-
-Major retail chains and tech companies are offering new or updated artificial intelligence tools in time for the holiday shopping season.
-
-[2025-12-01 05:00:26](https://bsky.app/profile/apnews.com/post/3m6upc7jt7b2y)
-
----
-
-@washingtonpost.com
-
-Sen. Cory Booker (D-New Jersey) is officially off the market.
-
-The 56-year-old married Alexis Lewis, 38, in an intimate ceremony Saturday in Washington, D.C., trading in years of public speculation about his love life for a new ring on his left hand.
-
-[2025-12-01 05:00:13](https://bsky.app/profile/washingtonpost.com/post/3m6upbswsjy2o)
-
----
-
-@bloomberg.com
-
-Italy’s Borromeo family is listing its real estate holdings including a group of islands on Lake Maggiore as it seeks to turn the area into a hub to rival nearby Lake Como
-
-[2025-12-01 05:00:12](https://bsky.app/profile/bloomberg.com/post/3m6upbrlbyq2h)
-
----
-
-@cbsnews.com
-
-Despite wider economic uncertainty hovering above this year's holiday season, shoppers turned out in big numbers for Black Friday — spending billions of dollars both in stores and online.
-
-
-
-[2025-12-01 05:00:01](https://bsky.app/profile/cbsnews.com/post/3m6upbh6vna2p)
-
----
-
-@wsj.com
-
-Northwestern University has reached a deal with the Trump administration to pay the government $75 million to settle complaints of alleged discrimination and to restore federal research funding.
-
-[2025-12-01 04:53:00](https://bsky.app/profile/wsj.com/post/3m6uouw6vif24)
-
----
-
-@npr.org
-
-President Trump said that the airspace "above and surrounding Venezuela" was "closed in its entirety". In response, the Venezuelan government said his comments violate international law, and are a "colonialist threat" to its sovereignty. n.pr/4rl57f0
-
-[2025-12-01 04:44:28](https://bsky.app/profile/npr.org/post/3m6uofnodxf2s)
 
 ---
 
