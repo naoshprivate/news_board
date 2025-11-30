@@ -1,9 +1,9 @@
-# [2025-11-30 15:50 updated](2025_11_30.md)
+# [2025-11-30 16:10 updated](2025_11_30.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】米 子どもの誕生日会で銃乱射4人死亡 感謝祭休暇の真っ只中 特定の人物狙う？けが10人 (15:42) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6tcssziq52w" target="_blank">sokuho.news</a> (2025-11-30 15:44:25)</span><span style="padding-right:50px;">Pope Leo taking peace message to Lebanon, target of Israeli strikes reut.rs/4ooPrVg <a href="https://bsky.app/profile/reuters.com/post/3m6tccbr6pe2i" target="_blank">reuters.com</a> (2025-11-30 15:35:10)</span><span style="padding-right:50px;">着ぐるみ｢ララちゃん｣500体超へ、7年で5割増　イオンファンタジー www.nikkei.com/article/DGXZQO...  室内遊戯施設「モーリーファンタジー」の公式キャラとして2000年に設定されました。  イオンファンタジーは知名度向上へ着ぐるみの数を大幅に増やしており、足元の数は国内外で計470体。  「着ぐるみの数が世界で最も多いキャラクター」といいます。 <a href="https://bsky.app/profile/nikkei.com/post/3m6tc3dowu52e" target="_blank">nikkei.com</a> (2025-11-30 15:31:17)</span><span style="padding-right:50px;">Basketball WNBA lockout looms with pay talks deadlocked reut.rs/3XpOe5m <a href="https://bsky.app/profile/reuters.com/post/3m6tbzide342k" target="_blank">reuters.com</a> (2025-11-30 15:30:15)</span><span style="padding-right:50px;">Claims that President Ferdinand Marcos Jr took kickbacks from infrastructure projects cause outrage in the Philippines. <a href="https://bsky.app/profile/aljazeera.com/post/3m6tbzglsbc2h" target="_blank">aljazeera.com</a> (2025-11-30 15:30:13)</span>
+<span style="padding-right:50px;">Operations restart at Iraq's Khor Mor field, transporting gas to power stations, ministry says reut.rs/4pEaPHi <a href="https://bsky.app/profile/reuters.com/post/3m6tdxvqkqn27" target="_blank">reuters.com</a> (2025-11-30 16:05:10)</span><span style="padding-right:50px;">J’Mari Taylor became the first Atlantic Coast Conference running back since 2021 to run for a touchdown and throw for a score in the same game as No. 17 Virginia beat Virginia Tech 27-7 on Saturday night to clinch a spot in the conference championship game. <a href="https://bsky.app/profile/apnews.com/post/3m6tdv4ji7d2h" target="_blank">apnews.com</a> (2025-11-30 16:03:36)</span><span style="padding-right:50px;">鋳造会社は「ネズミとゾウ」　中小の製造業、自社キャラ作り採用活動 www.nikkei.com/article/DGXZQO...  「ちゅうぞうくん」「スチールパイセン」「カキミマン」…。  トヨタやスズキなどの自動車産業や航空産業といった製造業の集積地でもある中部圏。  世界大手がひしめくなか、中小・零細企業は人材採用につなげるために自社キャラで認知度拡大を狙います。 <a href="https://bsky.app/profile/nikkei.com/post/3m6tdqza2wp2g" target="_blank">nikkei.com</a> (2025-11-30 16:01:18)</span><span style="padding-right:50px;">British millennials are embracing an unlikely new cause: infrastructure, housing and the politics of economic growth. <a href="https://bsky.app/profile/bloomberg.com/post/3m6tdpvk7fn22" target="_blank">bloomberg.com</a> (2025-11-30 16:00:41)</span><span style="padding-right:50px;">You can make a couple small changes. to get the most of your interactions with your colleagues — starting with your first greeting to them, says Vanessa Van Edwards.  Mastering other interactions could help you become more well-liked at work, too.   Here are four more tips from other experts. <a href="https://bsky.app/profile/cnbc.com/post/3m6tdps53kg2i" target="_blank">cnbc.com</a> (2025-11-30 16:00:37)</span>
   </div>
 </div>
 
@@ -32,107 +32,104 @@
 
 ## News Headlines
 
-1. 米国、子どもの誕生日会で銃乱射事件、4人死亡
-2. レノファ山口、中山元気監督が退任へ
-3. トルコ沖でタンカー爆発、攻撃報道も
-4. ツバル、温暖化による水没に備えメタバース国家建設へ
-5. 米カリフォルニア州ストックトンで銃乱射、4人死亡
-6. Vチューバー受難、SNSでの契約トラブル多発
+1. イラク、ホル・モル油田で操業再開
+2. バージニア大、カンファレンス決勝進出
+3. 中小製造業、自社キャラで採用活動を活性化
+4. 米ブラックフライデー売上高、伸び加速
+5. カリフォルニア、子どもの誕生日会で銃乱射事件、4人死亡
+6. ツバル、メタバース国家で水没の危機に挑む
 
 ----
 
-@sokuho.news
+@reuters.com
 
-🔔ANNより【速報】です。
+Operations restart at Iraq's Khor Mor field, transporting gas to power stations, ministry says reut.rs/4pEaPHi
 
-【速報】米 子どもの誕生日会で銃乱射4人死亡 感謝祭休暇の真っ只中 特定の人物狙う？けが10人
-(15:42) #ニュース
-
-[2025-11-30 15:44:25](https://bsky.app/profile/sokuho.news/post/3m6tcssziq52w)
+[2025-11-30 16:05:10](https://bsky.app/profile/reuters.com/post/3m6tdxvqkqn27)
 
 ---
 
-@reuters.com
+@apnews.com
 
-Pope Leo taking peace message to Lebanon, target of Israeli strikes reut.rs/4ooPrVg
+J’Mari Taylor became the first Atlantic Coast Conference running back since 2021 to run for a touchdown and throw for a score in the same game as No. 17 Virginia beat Virginia Tech 27-7 on Saturday night to clinch a spot in the conference championship game.
 
-[2025-11-30 15:35:10](https://bsky.app/profile/reuters.com/post/3m6tccbr6pe2i)
+[2025-11-30 16:03:36](https://bsky.app/profile/apnews.com/post/3m6tdv4ji7d2h)
 
 ---
 
 @nikkei.com
 
-着ぐるみ｢ララちゃん｣500体超へ、7年で5割増　イオンファンタジー
+鋳造会社は「ネズミとゾウ」　中小の製造業、自社キャラ作り採用活動
 www.nikkei.com/article/DGXZQO...
 
-室内遊戯施設「モーリーファンタジー」の公式キャラとして2000年に設定されました。
+「ちゅうぞうくん」「スチールパイセン」「カキミマン」…。
 
-イオンファンタジーは知名度向上へ着ぐるみの数を大幅に増やしており、足元の数は国内外で計470体。
+トヨタやスズキなどの自動車産業や航空産業といった製造業の集積地でもある中部圏。
 
-「着ぐるみの数が世界で最も多いキャラクター」といいます。
+世界大手がひしめくなか、中小・零細企業は人材採用につなげるために自社キャラで認知度拡大を狙います。
 
-[2025-11-30 15:31:17](https://bsky.app/profile/nikkei.com/post/3m6tc3dowu52e)
+[2025-11-30 16:01:18](https://bsky.app/profile/nikkei.com/post/3m6tdqza2wp2g)
+
+---
+
+@bloomberg.com
+
+British millennials are embracing an unlikely new cause: infrastructure, housing and the politics of economic growth.
+
+[2025-11-30 16:00:41](https://bsky.app/profile/bloomberg.com/post/3m6tdpvk7fn22)
+
+---
+
+@cnbc.com
+
+You can make a couple small changes. to get the most of your interactions with your colleagues — starting with your first greeting to them, says Vanessa Van Edwards.
+
+Mastering other interactions could help you become more well-liked at work, too. 
+
+Here are four more tips from other experts.
+
+[2025-11-30 16:00:37](https://bsky.app/profile/cnbc.com/post/3m6tdps53kg2i)
 
 ---
 
 @reuters.com
 
-Basketball WNBA lockout looms with pay talks deadlocked reut.rs/3XpOe5m
+NHL roundup: Lightning stifle Rangers in 7th straight win reut.rs/3Kwlvc0
 
-[2025-11-30 15:30:15](https://bsky.app/profile/reuters.com/post/3m6tbzide342k)
+[2025-11-30 16:00:30](https://bsky.app/profile/reuters.com/post/3m6tdpkwnxd2e)
 
 ---
 
 @aljazeera.com
 
-Claims that President Ferdinand Marcos Jr took kickbacks from infrastructure projects cause outrage in the Philippines.
+Authorities have not yet released information about the attacker's identity or motive behind attack on family gathering.
 
-[2025-11-30 15:30:13](https://bsky.app/profile/aljazeera.com/post/3m6tbzglsbc2h)
-
----
-
-@reuters.com
-
-Robinson revels in record fifth World Cup win reut.rs/48fP89e
-
-[2025-11-30 15:25:09](https://bsky.app/profile/reuters.com/post/3m6tbqesiex2y)
+[2025-11-30 16:00:20](https://bsky.app/profile/aljazeera.com/post/3m6tdpbzvy227)
 
 ---
 
-@sokuho.news
+@apnews.com
 
-🛎️JNNより【速報】です。
+The New York Rangers have an NHL-best 11 road wins, yet their play at home has been a mess by comparison.
 
-【速報】J3降格のレノファ山口・中山元気監督(44)が退任へ「このような結果、すべての責任は自分に」
-(2025-11-30 15:09:00) #ニュース
-
-[2025-11-30 15:18:24](https://bsky.app/profile/sokuho.news/post/3m6tbebxt4w22)
+[2025-11-30 16:00:10](https://bsky.app/profile/apnews.com/post/3m6tdoyb6bl2j)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-日曜討論 補正予算案めぐり 自民“早期成立” 立民“修正を”
-https://news.web.nhk/newsweb/na/na-k10014990021000
+衆議院で与党会派が過半数 自民 古屋氏 安定的政権運営に期待
+https://news.web.nhk/newsweb/na/na-k10014990061000
 
-[2025-11-30 15:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6tbdozb3w2g)
-
----
-
-@nhknewsunofficial.bsky.social
-
-トルコ沖でタンカー爆発 “ウクライナ当局などが攻撃”報道
-https://news.web.nhk/newsweb/na/na-k10014990041000
-
-[2025-11-30 15:15:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6tb6cs6fs23)
+[2025-11-30 15:57:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6tdjh3v5o2u)
 
 ---
 
-@financialtimes.com
+@bloomberg-jp.bsky.social
 
-Companies drown in 3,000 hours of paperwork to tap EU climate funds on.ft.com/4ooDsag
+中国の製造業活動、11月も縮小－過去最長の低迷局面に
 
-[2025-11-30 15:11:33](https://bsky.app/profile/financialtimes.com/post/3m6tay2bcd426)
+[2025-11-30 15:53:23](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6tdctzgcd2j)
 
 ---
 
