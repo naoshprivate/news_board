@@ -1,9 +1,9 @@
-# [2025-11-30 11:30 updated](2025_11_30.md)
+# [2025-11-30 11:50 updated](2025_11_30.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">食堂風居酒屋｢てんぐ大ホール｣、豪快メニューに集う20代 www.nikkei.com/article/DGXZQO...  （2024年11月の記事、値段は当時のものです）  #サワーの日 <a href="https://bsky.app/profile/nikkei.com/post/3m6sukmikne2m" target="_blank">nikkei.com</a> (2025-11-30 11:29:18)</span><span style="padding-right:50px;">Thunder C Isaiah Hartenstein (calf) out at least 10-14 days reut.rs/4ix9Xls <a href="https://bsky.app/profile/reuters.com/post/3m6su2iop6p22" target="_blank">reuters.com</a> (2025-11-30 11:20:17)</span><span style="padding-right:50px;">The gang that abducted a group of young women in Nigeria's northeast state of Borno a week ago released the remaining 12 late Saturday, a local official told AFP. <a href="https://bsky.app/profile/cbsnews.com/post/3m6su2csbo52n" target="_blank">cbsnews.com</a> (2025-11-30 11:20:10)</span><span style="padding-right:50px;">“暗黒物質が放った可能性あるガンマ線発見” 東大研究者 https://news.web.nhk/newsweb/na/na-k10014989961000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6st3qfsjo2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-30 11:03:02)</span><span style="padding-right:50px;">永谷園「東海道五拾三次カード」年内終了　お茶づけ商品に封入 www.nikkei.com/article/DGXZQO...  12月末の生産分をもって終了すると発表しました。   「お茶づけ海苔」は1952年に発売。検印紙に伝統的な絵画を印刷したのが始まりといいます。   現在実施中の「東海道五拾三次カードフルセットキャンペーン」は2026年8月末まで応募できます。  2025年10月 #注目された記事 <a href="https://bsky.app/profile/nikkei.com/post/3m6ssyliurk2g" target="_blank">nikkei.com</a> (2025-11-30 11:01:19)</span>
+<span style="padding-right:50px;">China's factory activity shrinks again in November, services activity cools reut.rs/43X5Rgo <a href="https://bsky.app/profile/reuters.com/post/3m6sv63lwpc2e" target="_blank">reuters.com</a> (2025-11-30 11:40:11)</span><span style="padding-right:50px;">In @nytopinion.nytimes.com  “You cannot learn or grow while trying to appear as if you have everything figured out. You cannot talk to God by trying to avoid doing something wrong. Perfection is stagnation,” the concert pianist Jonathan Bliss writes in a guest essay. <a href="https://bsky.app/profile/nytimes.com/post/3m6sv5uqb7x24" target="_blank">nytimes.com</a> (2025-11-30 11:40:04)</span><span style="padding-right:50px;">Anger simmers over Hong Kong deadly blaze as Beijing warns against "disruption" reut.rs/4itIEbv <a href="https://bsky.app/profile/reuters.com/post/3m6summd3ve27" target="_blank">reuters.com</a> (2025-11-30 11:30:24)</span><span style="padding-right:50px;">Ex-prime minister's family calls for prayers for her early recovery after hospitalisation for a lung infection. <a href="https://bsky.app/profile/aljazeera.com/post/3m6sumfgfzq2v" target="_blank">aljazeera.com</a> (2025-11-30 11:30:17)</span><span style="padding-right:50px;">President Donald Trump said in a brief Nov. 29 social media post that airspace around the South American country should be considered closed. <a href="https://bsky.app/profile/usatoday.com/post/3m6sumc5euu2d" target="_blank">usatoday.com</a> (2025-11-30 11:30:14)</span>
   </div>
 </div>
 
@@ -32,14 +32,64 @@
 
 ## News Headlines
 
-1. てんぐ大ホール、豪快メニューで20代に人気
-2. 東大研究者、暗黒物質由来か ガンマ線を発見
-3. 永谷園「東海道五拾三次カード」年内終了へ
-4. 中国、製造業・非製造業ともに景況感悪化
-5. オーストラリア、16歳未満排除へ SNS規制強化
-6. スーパー戦隊、半世紀の歴史に幕
+1. 中国、製造業活動が11月も再び縮小
+2. 香港火災、怒り渦巻く　北京は「妨害」を警告
+3. 元首相、肺感染症で入院　家族が早期回復を祈る
+4. ナイジェリアで女性誘拐事件、生存者全員解放
+5. 東大研究者、暗黒物質由来のガンマ線を発見か
+6. 井原市で建物火災、焼け跡から性別不明の遺体
 
 ----
+
+@reuters.com
+
+China's factory activity shrinks again in November, services activity cools reut.rs/43X5Rgo
+
+[2025-11-30 11:40:11](https://bsky.app/profile/reuters.com/post/3m6sv63lwpc2e)
+
+---
+
+@nytimes.com
+
+In @nytopinion.nytimes.com
+
+“You cannot learn or grow while trying to appear as if you have everything figured out. You cannot talk to God by trying to avoid doing something wrong. Perfection is stagnation,” the concert pianist Jonathan Bliss writes in a guest essay.
+
+[2025-11-30 11:40:04](https://bsky.app/profile/nytimes.com/post/3m6sv5uqb7x24)
+
+---
+
+@reuters.com
+
+Anger simmers over Hong Kong deadly blaze as Beijing warns against "disruption" reut.rs/4itIEbv
+
+[2025-11-30 11:30:24](https://bsky.app/profile/reuters.com/post/3m6summd3ve27)
+
+---
+
+@aljazeera.com
+
+Ex-prime minister's family calls for prayers for her early recovery after hospitalisation for a lung infection.
+
+[2025-11-30 11:30:17](https://bsky.app/profile/aljazeera.com/post/3m6sumfgfzq2v)
+
+---
+
+@usatoday.com
+
+President Donald Trump said in a brief Nov. 29 social media post that airspace around the South American country should be considered closed.
+
+[2025-11-30 11:30:14](https://bsky.app/profile/usatoday.com/post/3m6sumc5euu2d)
+
+---
+
+@apnews.com
+
+Bear Bachmeier threw for 289 yards and a touchdown to help No. 11 BYU beat UCF 41-21.
+
+[2025-11-30 11:30:11](https://bsky.app/profile/apnews.com/post/3m6sum733h22c)
+
+---
 
 @nikkei.com
 
@@ -76,66 +126,6 @@ The gang that abducted a group of young women in Nigeria's northeast state of Bo
 https://news.web.nhk/newsweb/na/na-k10014989961000
 
 [2025-11-30 11:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6st3qfsjo2j)
-
----
-
-@nikkei.com
-
-永谷園「東海道五拾三次カード」年内終了　お茶づけ商品に封入
-www.nikkei.com/article/DGXZQO...
-
-12月末の生産分をもって終了すると発表しました。
- 
-「お茶づけ海苔」は1952年に発売。検印紙に伝統的な絵画を印刷したのが始まりといいます。
- 
-現在実施中の「東海道五拾三次カードフルセットキャンペーン」は2026年8月末まで応募できます。
-
-2025年10月 #注目された記事
-
-[2025-11-30 11:01:19](https://bsky.app/profile/nikkei.com/post/3m6ssyliurk2g)
-
----
-
-@reuters.com
-
-China Nov non-manufacturing activity contracts for first time in nearly three years, PMI shows reut.rs/44F3aQN
-
-[2025-11-30 11:01:11](https://bsky.app/profile/reuters.com/post/3m6ssydr52f2i)
-
----
-
-@usatoday.com
-
-Is it a test drive or an indoor roller coaster? At this year's showcase, Camp Jeep serves as a bit of both. Take a look.
-
-[2025-11-30 11:00:33](https://bsky.app/profile/usatoday.com/post/3m6ssxa7gua26)
-
----
-
-@cnn.com
-
-Starting December 10, sites that meet the Australian government's definition of an "age-restricted social media platform" will need to show that they're doing enough to eject or block children under 16 or face fines of up to 49.5 million Australian dollars ($32 million).
-https://cnn.it/48kl1h6
-
-[2025-11-30 11:00:07](https://bsky.app/profile/cnn.com/post/3m6sswgn5ny2i)
-
----
-
-@washingtonpost.com
-
-A fog bank hundreds of miles long in California’s Central Valley reappeared every day for a week and was likely to linger into the weekend.
-
-Here’s why “Tule fog” seems to linger:
-
-[2025-11-30 11:00:06](https://bsky.app/profile/washingtonpost.com/post/3m6sswftfro23)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Watch: Moment huge fireball destroys Sydney waste facility
-
-[2025-11-30 10:52:05](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6ssi3zwzk2e)
 
 ---
 
