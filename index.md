@@ -1,9 +1,9 @@
-# [2025-12-01 04:30 updated](2025_12_01.md)
+# [2025-12-01 04:50 updated](2025_12_01.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Hong Kong’s government moved to stamp out mounting public anger in the wake of the city’s deadliest fire in nearly eight decades, which left at least 128 people dead and raised questions about missed warnings <a href="https://bsky.app/profile/bloomberg.com/post/3m6unkaefqx2y" target="_blank">bloomberg.com</a> (2025-12-01 04:29:08)</span><span style="padding-right:50px;">US officials will meet with a Ukrainian delegation Sunday in south Florida as the White House continues its drive toward an agreement on ending the Kremlin’s almost four-year war on Ukraine <a href="https://bsky.app/profile/bloomberg.com/post/3m6unige5gi2h" target="_blank">bloomberg.com</a> (2025-12-01 04:28:07)</span><span style="padding-right:50px;">US authorities believe the shooter suspected of killing one National Guard member and seriously wounding another in Washington, DC, was radicalized while in the US, Homeland Security Secretary Kristi Noem said <a href="https://bsky.app/profile/bloomberg.com/post/3m6ungnjh2z2o" target="_blank">bloomberg.com</a> (2025-12-01 04:27:08)</span><span style="padding-right:50px;">BREAKING: An attack by Israeli settlers on a water well east of Ramallah in the occupied West Bank has cut off the water supply to several Palestinian towns, according to the Jerusalem Water Authority.  🔴 LIVE updates: aje.io/5equzi <a href="https://bsky.app/profile/aljazeera.com/post/3m6ungi2lh22l" target="_blank">aljazeera.com</a> (2025-12-01 04:27:02)</span><span style="padding-right:50px;">Wargames on Europe's eastern flank offered a glimpse into Nato's future: Fighting off a future invasion with minimal US support. <a href="https://bsky.app/profile/bloomberg.com/post/3m6undecw6g2g" target="_blank">bloomberg.com</a> (2025-12-01 04:25:17)</span>
+<span style="padding-right:50px;">President Trump said that the airspace "above and surrounding Venezuela" was "closed in its entirety". In response, the Venezuelan government said his comments violate international law, and are a "colonialist threat" to its sovereignty. n.pr/4rl57f0 <a href="https://bsky.app/profile/npr.org/post/3m6uofnodxf2s" target="_blank">npr.org</a> (2025-12-01 04:44:28)</span><span style="padding-right:50px;">White House National Economic Council Director Kevin Hassett touted a positive market response to indications that Donald Trump could pick the next Federal Reserve chair before the end of the year. <a href="https://bsky.app/profile/bloomberg.com/post/3m6uoff2vpn2s" target="_blank">bloomberg.com</a> (2025-12-01 04:44:19)</span><span style="padding-right:50px;">🔊 Retailers are building AI versions of their e-commerce websites as Americans increasingly ask ChatGPT for gift ideas. Find out why on the daily Reuters World News podcast reut.rs/48leBOI <a href="https://bsky.app/profile/reuters.com/post/3m6uof7w53c2c" target="_blank">reuters.com</a> (2025-12-01 04:44:14)</span><span style="padding-right:50px;">Senegal rushes to avert oil spill after Turkish tanker incident off Dakar reut.rs/3XWstKr <a href="https://bsky.app/profile/reuters.com/post/3m6uo5zndg22k" target="_blank">reuters.com</a> (2025-12-01 04:40:12)</span><span style="padding-right:50px;">Ludwig Minelli: Dignitas founder dies by assisted suicide aged 92, group says <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6unxctzvl2p" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-01 04:36:26)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50253.91 (🔺34.95 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.06 (🔺0.01 : 2025-11-30)</span>
+<span style="padding-right:50px;">NIKKEI: 50253.91 (🔺34.95 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.15 (🔺0.09 : 2025-11-30)</span>
   </div>
 </div>
 
@@ -32,92 +32,92 @@
 
 ## News Headlines
 
-1. 香港で過去80年で最悪の火災、少なくとも128人死亡
-2. 米国、ウクライナ代表団と会談、和平合意に向けた動き
-3. イスラエル入植者による攻撃でパレスチナの町で断水
-4. NATO、米国支援が最小限の侵略防衛を想定した演習
-5. Databricks、1340億ドル評価額で資金調達を協議中
-6. ネタニヤフ首相、汚職裁判で恩赦を正式要請
+1.  トランプ氏、ベネズエラ上空の空域を「完全閉鎖」と宣言
+2.  AI搭載Eコマースサイト急増、ギフト選びはChatGPTに
+3.  セネガル沖でタンカー事故、油流出の危機
+4.  ISIS武器貯蔵施設を米・シリア軍が空爆
+5.  カリフォルニア州ストックトンで誕生日パーティー中に銃撃、4人死亡
+6.  ネタニヤフ首相、汚職裁判で恩赦を申請
 
 ----
 
-@bloomberg.com
+@npr.org
 
-Hong Kong’s government moved to stamp out mounting public anger in the wake of the city’s deadliest fire in nearly eight decades, which left at least 128 people dead and raised questions about missed warnings
+President Trump said that the airspace "above and surrounding Venezuela" was "closed in its entirety". In response, the Venezuelan government said his comments violate international law, and are a "colonialist threat" to its sovereignty. n.pr/4rl57f0
 
-[2025-12-01 04:29:08](https://bsky.app/profile/bloomberg.com/post/3m6unkaefqx2y)
-
----
-
-@bloomberg.com
-
-US officials will meet with a Ukrainian delegation Sunday in south Florida as the White House continues its drive toward an agreement on ending the Kremlin’s almost four-year war on Ukraine
-
-[2025-12-01 04:28:07](https://bsky.app/profile/bloomberg.com/post/3m6unige5gi2h)
+[2025-12-01 04:44:28](https://bsky.app/profile/npr.org/post/3m6uofnodxf2s)
 
 ---
 
 @bloomberg.com
 
-US authorities believe the shooter suspected of killing one National Guard member and seriously wounding another in Washington, DC, was radicalized while in the US, Homeland Security Secretary Kristi Noem said
+White House National Economic Council Director Kevin Hassett touted a positive market response to indications that Donald Trump could pick the next Federal Reserve chair before the end of the year.
 
-[2025-12-01 04:27:08](https://bsky.app/profile/bloomberg.com/post/3m6ungnjh2z2o)
-
----
-
-@aljazeera.com
-
-<strong><span style="color: red;">BREAKING:</span> An attack by Israeli settlers on a water well east of Ramallah in the occupied West Bank has cut off the water supply to several Palestinian towns, according to the Jerusalem Water Authority.</strong><br><strong></strong><br><strong>🔴 LIVE updates: aje.io/5equzi</strong>
-
-[2025-12-01 04:27:02](https://bsky.app/profile/aljazeera.com/post/3m6ungi2lh22l)
-
----
-
-@bloomberg.com
-
-Wargames on Europe's eastern flank offered a glimpse into Nato's future: Fighting off a future invasion with minimal US support.
-
-[2025-12-01 04:25:17](https://bsky.app/profile/bloomberg.com/post/3m6undecw6g2g)
+[2025-12-01 04:44:19](https://bsky.app/profile/bloomberg.com/post/3m6uoff2vpn2s)
 
 ---
 
 @reuters.com
 
-Databricks in talks to raise capital at $134 billion valuation, The Information reports reut.rs/3M1EV9j
+🔊 Retailers are building AI versions of their e-commerce websites as Americans increasingly ask ChatGPT for gift ideas. Find out why on the daily Reuters World News podcast reut.rs/48leBOI
 
-[2025-12-01 04:25:10](https://bsky.app/profile/reuters.com/post/3m6und5sop427)
+[2025-12-01 04:44:14](https://bsky.app/profile/reuters.com/post/3m6uof7w53c2c)
 
 ---
 
-@bloomberg.com
+@reuters.com
 
-Wargames on Europe's eastern flank offered a glimpse into Nato's future: Fighting off a future invasion with minimal US support.
+Senegal rushes to avert oil spill after Turkish tanker incident off Dakar reut.rs/3XWstKr
 
-[2025-12-01 04:25:08](https://bsky.app/profile/bloomberg.com/post/3m6und2yvio2y)
+[2025-12-01 04:40:12](https://bsky.app/profile/reuters.com/post/3m6uo5zndg22k)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Ludwig Minelli: Dignitas founder dies by assisted suicide aged 92, group says
+
+[2025-12-01 04:36:26](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6unxctzvl2p)
+
+---
+
+@reuters.com
+
+American and Syrian forces conduct airstrikes on ISIS weapon storage facilities, US military says reut.rs/4ivnwSu
+
+[2025-12-01 04:35:08](https://bsky.app/profile/reuters.com/post/3m6unuxxqm42y)
+
+---
+
+@wsj.com
+
+Uganda has long been a haven for Africans fleeing war and famine. No longer.
+
+[2025-12-01 04:34:19](https://bsky.app/profile/wsj.com/post/3m6untj6bts2x)
 
 ---
 
 @nytimes.com
 
-Prime Minister Benjamin Netanyahu of Israel formally requested a pardon from the president on Sunday in his long-running corruption trial. Here’s what to know about the trial.
+Senator Cory Booker of New Jersey celebrated his marriage to his partner Alexis Lewis in an intimate ceremony in Washington, D.C. on Saturday evening.
 
-[2025-12-01 04:20:04](https://bsky.app/profile/nytimes.com/post/3m6umzzjye32l)
+[2025-12-01 04:32:07](https://bsky.app/profile/nytimes.com/post/3m6unpkvjew24)
+
+---
+
+@apnews.com
+
+The performance of Stefon Diggs was one of the biggest unknowns for the New England Patriots entering the season.
+
+[2025-12-01 04:30:27](https://bsky.app/profile/apnews.com/post/3m6unmllkhd2h)
 
 ---
 
 @reuters.com
 
-Viking Stavanger end 34-year drought with Norwegian title win reut.rs/48rBvUH
+Ramaphosa dismisses Trump’s threat to bar South Africa from 2026 G20 summit reut.rs/4pdlqcq
 
-[2025-12-01 04:15:16](https://bsky.app/profile/reuters.com/post/3m6umrgufmv26)
-
----
-
-@bloomberg.com
-
-Thousands of protesters in the Philippines, including Roman Catholic clergy and civil society groups, gathered in the capital for another rally triggered by a government corruption scandal
-
-[2025-12-01 04:14:48](https://bsky.app/profile/bloomberg.com/post/3m6umqmdjww2s)
+[2025-12-01 04:30:26](https://bsky.app/profile/reuters.com/post/3m6unmkisur22)
 
 ---
 
