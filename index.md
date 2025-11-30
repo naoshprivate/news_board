@@ -1,9 +1,9 @@
-# [2025-11-30 18:30 updated](2025_11_30.md)
+# [2025-11-30 18:50 updated](2025_11_30.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】香港マンション火災 死亡者数が146人に (2025-11-30 18:20:35) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6tlovxd4v2l" target="_blank">sokuho.news</a> (2025-11-30 18:23:18)</span><span style="padding-right:50px;">BREAKING: The death toll in the Hong Kong blaze has risen to 146 as more bodies are found in the apartment complex, authorities say. <a href="https://bsky.app/profile/apnews.com/post/3m6tllirjup2h" target="_blank">apnews.com</a> (2025-11-30 18:21:23)</span><span style="padding-right:50px;">J1 鹿島アントラーズと柏レイソルともに勝つ 優勝決定は最終節 https://news.web.nhk/newsweb/na/na-k10014990031000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6tla7v74h2t" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-30 18:15:03)</span><span style="padding-right:50px;">Four people are dead and at least 10 wounded after shooting at a family gathering in Stockton, California, officials say https://cnn.it/48FwDwq <a href="https://bsky.app/profile/cnn.com/post/3m6tl5epjtp2n" target="_blank">cnn.com</a> (2025-11-30 18:13:29)</span><span style="padding-right:50px;">まだ11月なのに…大学の“年内入試”が本格化 https://news.web.nhk/newsweb/na/na-k10014989991000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6tkq4crw62p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-30 18:06:02)</span>
+<span style="padding-right:50px;">Tropical storm deaths cross 500 in Southeast Asia, over 4 million affected reut.rs/43XhWCh <a href="https://bsky.app/profile/reuters.com/post/3m6tmw2znze2y" target="_blank">reuters.com</a> (2025-11-30 18:45:12)</span><span style="padding-right:50px;">Hong Kong authorities say at least 146 people have died killed in the fire that spread through a dense high-rise residential housing complex Wednesday. n.pr/3M7OQKw <a href="https://bsky.app/profile/npr.org/post/3m6tmu53x2f23" target="_blank">npr.org</a> (2025-11-30 18:44:07)</span><span style="padding-right:50px;">香港 高層住宅火災 146人の死亡確認と発表 地元当局 https://news.web.nhk/newsweb/na/na-k10014990111000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6tml5rfyr2e" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-30 18:39:02)</span><span style="padding-right:50px;">日本人歌手 中国 上海でパフォーマンス中に演奏中断 https://news.web.nhk/newsweb/na/na-k10014990091000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6tmfrjcsj2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-30 18:36:03)</span><span style="padding-right:50px;">中国局長、日系企業の拠点視察　日中協議直後「安心して事業を」と伝達 www.nikkei.com/article/DGXZQO...  中国外務省の劉勁松アジア局長が、日系大手メーカーの遼寧省の拠点を視察していたことが分かりました。  劉氏は日本外務省の金井正彰アジア大洋州局長との協議後、ポケットに手を入れながら見送る様子がSNSで拡散しました。  中国側には現時点で、政治分野の日中対立を中国国内の生産販売活動に飛び火させたくないとの思惑があるとみられます。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m6tm57lxer2t" target="_blank">nikkei.com</a> (2025-11-30 18:31:18)</span>
   </div>
 </div>
 
@@ -32,14 +32,81 @@
 
 ## News Headlines
 
-1. 香港マンション火災、死者146人に増加
-2. J1リーグ優勝決定は最終節へ、鹿島・柏が勝利
-3. 米カリフォルニア州、家族の集まりで銃撃事件発生、4人死亡
-4. アルツハイマー病の安価な治療薬につながる標的発見
-5. 男子ゴルフ国内ツアー、大岩龍一がプロ7年目で初優勝
-6. 女子ゴルフ国内ツアー最終戦、鈴木愛がプレーオフ制しV
+1. 東南アジア熱帯低気圧、死者500人超え、400万人以上に影響
+2. 香港高層住宅火災、死者146人に
+3. 日本人歌手、上海公演中に演奏中断
+4. 中国当局、日系企業拠点を視察、「安心して事業を」と伝達
+5. 米カリフォルニア州で銃撃事件、4人死亡、10人負傷
+6. トライアル、1000円フリースで首都圏攻略
 
 ----
+
+@reuters.com
+
+Tropical storm deaths cross 500 in Southeast Asia, over 4 million affected reut.rs/43XhWCh
+
+[2025-11-30 18:45:12](https://bsky.app/profile/reuters.com/post/3m6tmw2znze2y)
+
+---
+
+@npr.org
+
+Hong Kong authorities say at least 146 people have died killed in the fire that spread through a dense high-rise residential housing complex Wednesday. n.pr/3M7OQKw
+
+[2025-11-30 18:44:07](https://bsky.app/profile/npr.org/post/3m6tmu53x2f23)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+香港 高層住宅火災 146人の死亡確認と発表 地元当局
+https://news.web.nhk/newsweb/na/na-k10014990111000
+
+[2025-11-30 18:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6tml5rfyr2e)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+日本人歌手 中国 上海でパフォーマンス中に演奏中断
+https://news.web.nhk/newsweb/na/na-k10014990091000
+
+[2025-11-30 18:36:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6tmfrjcsj2p)
+
+---
+
+@nikkei.com
+
+中国局長、日系企業の拠点視察　日中協議直後「安心して事業を」と伝達
+www.nikkei.com/article/DGXZQO...
+
+中国外務省の劉勁松アジア局長が、日系大手メーカーの遼寧省の拠点を視察していたことが分かりました。
+
+劉氏は日本外務省の金井正彰アジア大洋州局長との協議後、ポケットに手を入れながら見送る様子がSNSで拡散しました。
+
+中国側には現時点で、政治分野の日中対立を中国国内の生産販売活動に飛び火させたくないとの思惑があるとみられます。
+
+#ニュース
+
+[2025-11-30 18:31:18](https://bsky.app/profile/nikkei.com/post/3m6tm57lxer2t)
+
+---
+
+@reuters.com
+
+UK's Reeves says she did not mislead public on the budget reut.rs/4aijQRN
+
+[2025-11-30 18:30:18](https://bsky.app/profile/reuters.com/post/3m6tm3gwbb227)
+
+---
+
+@bloomberg.com
+
+From small clubs to viral variety shows, China’s stand-up comedians are testing the limits of laughter in a system where every punchline must pass through censors.
+
+[2025-11-30 18:30:14](https://bsky.app/profile/bloomberg.com/post/3m6tm3cxqxk2q)
+
+---
 
 @sokuho.news
 
@@ -66,67 +133,6 @@ J1 鹿島アントラーズと柏レイソルともに勝つ 優勝決定は最�
 https://news.web.nhk/newsweb/na/na-k10014990031000
 
 [2025-11-30 18:15:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6tla7v74h2t)
-
----
-
-@cnn.com
-
-Four people are dead and at least 10 wounded after shooting at a family gathering in Stockton, California, officials say https://cnn.it/48FwDwq
-
-[2025-11-30 18:13:29](https://bsky.app/profile/cnn.com/post/3m6tl5epjtp2n)
-
----
-
-@nhknewsunofficial.bsky.social
-
-まだ11月なのに…大学の“年内入試”が本格化
-https://news.web.nhk/newsweb/na/na-k10014989991000
-
-[2025-11-30 18:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6tkq4crw62p)
-
----
-
-@nikkei.com
-
-アルツハイマー病、安価な治療薬につながる標的発見　理化学研究所（無料記事）
-www.nikkei.com/article/DGXZQO...
-
-[2025-11-30 18:01:18](https://bsky.app/profile/nikkei.com/post/3m6tkhkw6io2e)
-
----
-
-@bloomberg.com
-
-In Hikari’s new film, Brendan Fraser steps into the real-life industry of rented relatives, turning Tokyo from a city of solitude into one of connection. Read our full review: bloom.bg/4osm58P
-
-📷️: James Lisle/Searchlight Pictures
-
-[2025-11-30 18:00:17](https://bsky.app/profile/bloomberg.com/post/3m6tkfremkg2d)
-
----
-
-@cnbc.com
-
-San Diego State University psychologist Jean Twenge's new book includes 10 rules for parents to put in place around kids' usage of smartphones and social media.
-
-[2025-11-30 18:00:12](https://bsky.app/profile/cnbc.com/post/3m6tkfly5ek2i)
-
----
-
-@financialtimes.com
-
-Some customers love La Vialla’s mail-order wines, oils and cheeses so much they spend their holidays helping with the harvest on.ft.com/487nyMJ
-
-[2025-11-30 18:00:05](https://bsky.app/profile/financialtimes.com/post/3m6tkffp35p2q)
-
----
-
-@nhknewsunofficial.bsky.social
-
-男子ゴルフ 国内ツアー 大岩龍一がプロ7年目でツアー初優勝
-https://news.web.nhk/newsweb/na/na-k10014990101000
-
-[2025-11-30 18:00:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6tkffzrmf2g)
 
 ---
 
