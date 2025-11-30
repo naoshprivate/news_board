@@ -1,9 +1,9 @@
-# [2025-11-30 11:50 updated](2025_11_30.md)
+# [2025-11-30 12:10 updated](2025_11_30.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">China's factory activity shrinks again in November, services activity cools reut.rs/43X5Rgo <a href="https://bsky.app/profile/reuters.com/post/3m6sv63lwpc2e" target="_blank">reuters.com</a> (2025-11-30 11:40:11)</span><span style="padding-right:50px;">In @nytopinion.nytimes.com  “You cannot learn or grow while trying to appear as if you have everything figured out. You cannot talk to God by trying to avoid doing something wrong. Perfection is stagnation,” the concert pianist Jonathan Bliss writes in a guest essay. <a href="https://bsky.app/profile/nytimes.com/post/3m6sv5uqb7x24" target="_blank">nytimes.com</a> (2025-11-30 11:40:04)</span><span style="padding-right:50px;">Anger simmers over Hong Kong deadly blaze as Beijing warns against "disruption" reut.rs/4itIEbv <a href="https://bsky.app/profile/reuters.com/post/3m6summd3ve27" target="_blank">reuters.com</a> (2025-11-30 11:30:24)</span><span style="padding-right:50px;">Ex-prime minister's family calls for prayers for her early recovery after hospitalisation for a lung infection. <a href="https://bsky.app/profile/aljazeera.com/post/3m6sumfgfzq2v" target="_blank">aljazeera.com</a> (2025-11-30 11:30:17)</span><span style="padding-right:50px;">President Donald Trump said in a brief Nov. 29 social media post that airspace around the South American country should be considered closed. <a href="https://bsky.app/profile/usatoday.com/post/3m6sumc5euu2d" target="_blank">usatoday.com</a> (2025-11-30 11:30:14)</span>
+<span style="padding-right:50px;">日曜討論 “台湾有事”めぐる首相答弁や日中関係 与野党が議論 https://news.web.nhk/newsweb/na/na-k10014989981000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6swrqrcb62t" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-30 12:09:02)</span><span style="padding-right:50px;">アボカドはミカン農家を救えるか www.nikkei.com/article/DGXZQO...  21世紀末にはミカン産地の約7割が適地から外れるという予測も。  温暖化に備え、静岡県で亜熱帯果樹のアボカドを育てる挑戦が始まりました。  外国産にはない「地の利」もあるといいます。 <a href="https://bsky.app/profile/nikkei.com/post/3m6swdswex32t" target="_blank">nikkei.com</a> (2025-11-30 12:01:17)</span><span style="padding-right:50px;">China’s factory activity contracted for the eighth straight month in November, according to an official survey, underscoring challenges for the country’s economy despite the U.S.-China trade truce. <a href="https://bsky.app/profile/apnews.com/post/3m6swcvbb2o2f" target="_blank">apnews.com</a> (2025-11-30 12:00:46)</span><span style="padding-right:50px;">Here are the five healthiest vegetables Dr. Steven Gundry eats every day, no matter what. <a href="https://bsky.app/profile/cnbc.com/post/3m6swcb4ayd2y" target="_blank">cnbc.com</a> (2025-11-30 12:00:25)</span><span style="padding-right:50px;">WWE Survivor Series 2025 is underway with WarGames and championship matches taking place. Follow the action. <a href="https://bsky.app/profile/usatoday.com/post/3m6swca2r4p2p" target="_blank">usatoday.com</a> (2025-11-30 12:00:24)</span>
   </div>
 </div>
 
@@ -32,100 +32,101 @@
 
 ## News Headlines
 
-1. 中国、製造業活動が11月も再び縮小
-2. 香港火災、怒り渦巻く　北京は「妨害」を警告
-3. 元首相、肺感染症で入院　家族が早期回復を祈る
-4. ナイジェリアで女性誘拐事件、生存者全員解放
-5. 東大研究者、暗黒物質由来のガンマ線を発見か
-6. 井原市で建物火災、焼け跡から性別不明の遺体
+1. 台湾有事、日中関係…与野党が日曜討論で議論
+2. アボカドがミカン農家を救う？温暖化対策で静岡挑戦
+3. 中国工場活動、8ヶ月連続縮小…米中貿易休戦も影響
+4. 大分大規模火災、避難所にランドリー車が支援
+5. 香港マンション火災で怒り、北京が「混乱」を警告
+6. 東大研究者、暗黒物質由来か？ガンマ線発見
 
 ----
+
+@nhknewsunofficial.bsky.social
+
+日曜討論 “台湾有事”めぐる首相答弁や日中関係 与野党が議論
+https://news.web.nhk/newsweb/na/na-k10014989981000
+
+[2025-11-30 12:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6swrqrcb62t)
+
+---
+
+@nikkei.com
+
+アボカドはミカン農家を救えるか
+www.nikkei.com/article/DGXZQO...
+
+21世紀末にはミカン産地の約7割が適地から外れるという予測も。
+
+温暖化に備え、静岡県で亜熱帯果樹のアボカドを育てる挑戦が始まりました。
+
+外国産にはない「地の利」もあるといいます。
+
+[2025-11-30 12:01:17](https://bsky.app/profile/nikkei.com/post/3m6swdswex32t)
+
+---
+
+@apnews.com
+
+China’s factory activity contracted for the eighth straight month in November, according to an official survey, underscoring challenges for the country’s economy despite the U.S.-China trade truce.
+
+[2025-11-30 12:00:46](https://bsky.app/profile/apnews.com/post/3m6swcvbb2o2f)
+
+---
+
+@cnbc.com
+
+Here are the five healthiest vegetables Dr. Steven Gundry eats every day, no matter what.
+
+[2025-11-30 12:00:25](https://bsky.app/profile/cnbc.com/post/3m6swcb4ayd2y)
+
+---
+
+@usatoday.com
+
+WWE Survivor Series 2025 is underway with WarGames and championship matches taking place. Follow the action.
+
+[2025-11-30 12:00:24](https://bsky.app/profile/usatoday.com/post/3m6swca2r4p2p)
+
+---
+
+@washingtonpost.com
+
+Ukrainian President Volodymyr Zelensky will face a new round of U.S. pressure next week to reach a deal to end Russia’s war as a corruption scandal engulfs his inner circle.
+
+[2025-11-30 12:00:09](https://bsky.app/profile/washingtonpost.com/post/3m6swbs2zjo2q)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+大分 大規模火災 避難所にランドリー車 洗濯を支援
+https://news.web.nhk/newsweb/na/na-k10014989971000
+
+[2025-11-30 12:00:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6swbmzbwp23)
+
+---
+
+@bloomberg-jp.bsky.social
+
+片山財務相、ファンダメンタルズで動いていないのは明確－為替乱高下
+
+[2025-11-30 11:51:55](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6svt34stp27)
+
+---
+
+@bloomberg-jp.bsky.social
+
+【焦点】ユーロ圏インフレは2%近辺へ、ECBの12月据え置き根拠強まる
+
+[2025-11-30 11:51:50](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6svswn73x23)
+
+---
 
 @reuters.com
 
 China's factory activity shrinks again in November, services activity cools reut.rs/43X5Rgo
 
 [2025-11-30 11:40:11](https://bsky.app/profile/reuters.com/post/3m6sv63lwpc2e)
-
----
-
-@nytimes.com
-
-In @nytopinion.nytimes.com
-
-“You cannot learn or grow while trying to appear as if you have everything figured out. You cannot talk to God by trying to avoid doing something wrong. Perfection is stagnation,” the concert pianist Jonathan Bliss writes in a guest essay.
-
-[2025-11-30 11:40:04](https://bsky.app/profile/nytimes.com/post/3m6sv5uqb7x24)
-
----
-
-@reuters.com
-
-Anger simmers over Hong Kong deadly blaze as Beijing warns against "disruption" reut.rs/4itIEbv
-
-[2025-11-30 11:30:24](https://bsky.app/profile/reuters.com/post/3m6summd3ve27)
-
----
-
-@aljazeera.com
-
-Ex-prime minister's family calls for prayers for her early recovery after hospitalisation for a lung infection.
-
-[2025-11-30 11:30:17](https://bsky.app/profile/aljazeera.com/post/3m6sumfgfzq2v)
-
----
-
-@usatoday.com
-
-President Donald Trump said in a brief Nov. 29 social media post that airspace around the South American country should be considered closed.
-
-[2025-11-30 11:30:14](https://bsky.app/profile/usatoday.com/post/3m6sumc5euu2d)
-
----
-
-@apnews.com
-
-Bear Bachmeier threw for 289 yards and a touchdown to help No. 11 BYU beat UCF 41-21.
-
-[2025-11-30 11:30:11](https://bsky.app/profile/apnews.com/post/3m6sum733h22c)
-
----
-
-@nikkei.com
-
-食堂風居酒屋｢てんぐ大ホール｣、豪快メニューに集う20代
-www.nikkei.com/article/DGXZQO...
-
-（2024年11月の記事、値段は当時のものです）
-
-#サワーの日
-
-[2025-11-30 11:29:18](https://bsky.app/profile/nikkei.com/post/3m6sukmikne2m)
-
----
-
-@reuters.com
-
-Thunder C Isaiah Hartenstein (calf) out at least 10-14 days reut.rs/4ix9Xls
-
-[2025-11-30 11:20:17](https://bsky.app/profile/reuters.com/post/3m6su2iop6p22)
-
----
-
-@cbsnews.com
-
-The gang that abducted a group of young women in Nigeria's northeast state of Borno a week ago released the remaining 12 late Saturday, a local official told AFP.
-
-[2025-11-30 11:20:10](https://bsky.app/profile/cbsnews.com/post/3m6su2csbo52n)
-
----
-
-@nhknewsunofficial.bsky.social
-
-“暗黒物質が放った可能性あるガンマ線発見” 東大研究者
-https://news.web.nhk/newsweb/na/na-k10014989961000
-
-[2025-11-30 11:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6st3qfsjo2j)
 
 ---
 
