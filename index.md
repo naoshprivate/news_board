@@ -1,9 +1,9 @@
-# [2025-11-30 13:30 updated](2025_11_30.md)
+# [2025-11-30 13:50 updated](2025_11_30.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Japan finance minister says yen's rapid fall clearly not driven by fundamentals reut.rs/4ruw67Q <a href="https://bsky.app/profile/reuters.com/post/3m6t2qv7hxf2y" target="_blank">reuters.com</a> (2025-11-30 13:20:10)</span><span style="padding-right:50px;">Steelers starting LT Broderick Jones (neck) placed on injured reserve reut.rs/49HCgv7 <a href="https://bsky.app/profile/reuters.com/post/3m6t27254li2k" target="_blank">reuters.com</a> (2025-11-30 13:10:12)</span><span style="padding-right:50px;">ほぼ日手帳、ついにアプリに　共有機能なし「映えより自分との対話」 www.nikkei.com/article/DGXZQO...  「1日1ページ」をどうデジタル化するか。構想から公開までは３年がかり。  こだわったのは遊び心とゲームっぽさ。  糸井重里会長は「スペックの競争からは抜け出したいと思ってた」といいます。 <a href="https://bsky.app/profile/nikkei.com/post/3m6szp4vz7o2k" target="_blank">nikkei.com</a> (2025-11-30 13:01:18)</span><span style="padding-right:50px;">🛎️文春より【スクープ】です。  「恋愛は個人の自由だけれど…」人気ゴルファー・都玲華（21）の“30歳差”熱愛スクープにモヤモヤ反応が続出 (2025-11-30 13:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6sznyictv24" target="_blank">sokuho.news</a> (2025-11-30 13:00:40)</span><span style="padding-right:50px;">Leeds boss Farke accuses City's Donnarumma of bending rules after 3-2 loss reut.rs/4ooGTOo <a href="https://bsky.app/profile/reuters.com/post/3m6szno65zy2k" target="_blank">reuters.com</a> (2025-11-30 13:00:29)</span>
+<span style="padding-right:50px;">BREAKING: Four people were killed and 10 wounded in a shooting during a family gathering at a banquet hall in Stockton, sheriff’s officials say. <a href="https://bsky.app/profile/apnews.com/post/3m6t462ow4222" target="_blank">apnews.com</a> (2025-11-30 13:45:26)</span><span style="padding-right:50px;">Shooting in Stockton, California, leaves at least four dead and 10 others injured, officials say <a href="https://bsky.app/profile/cbsnews.com/post/3m6t42runmh2n" target="_blank">cbsnews.com</a> (2025-11-30 13:43:36)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】「車が海に転落」と119番通報 1人搬送 那覇港 (2025-11-30 13:34:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6t3o7npav2d" target="_blank">sokuho.news</a> (2025-11-30 13:36:35)</span><span style="padding-right:50px;">SNSで「契約」　VTuber受難、書面なしで報酬額や支払日あいまい www.nikkei.com/article/DGXZQO...  「録音もされていないし、飲みの席のような雰囲気で進んでいく」と語るのは5年の活動歴があるVチューバー。  企業から商品宣伝の仕事を受ける際に契約書はないことが多く、口頭で報酬について合意することも。  SNS上ではトラブルを訴える声が上がっています。 <a href="https://bsky.app/profile/nikkei.com/post/3m6t3erm6qt26" target="_blank">nikkei.com</a> (2025-11-30 13:31:18)</span><span style="padding-right:50px;">Mammoth F Logan Cooley injured in loss to Blues reut.rs/4pyVAiM <a href="https://bsky.app/profile/reuters.com/post/3m6t3d2rnyn26" target="_blank">reuters.com</a> (2025-11-30 13:30:20)</span>
   </div>
 </div>
 
@@ -32,14 +32,72 @@
 
 ## News Headlines
 
-1. 円急落、ファンダメンタルズ要因でないと財務相
-2. スティーラーズ、LTジョーンズが故障者リスト入り
-3. ほぼ日手帳、アプリ版ついに登場
-4. 人気ゴルファーと30歳差熱愛報道
-5. 中国、製造業景況感指数が8か月連続で節目割れ
-6. AIがハリケーン予測で新時代到来か、Googleモデルが最高精度
+1. カリフォルニア州ストックトンで銃撃事件、4人死亡、10人負傷
+2. 那覇港で車が海に転落、1人搬送
+3. VTuber受難、契約書なしで報酬トラブル多発
+4. パレスチナ連帯デモ、死者7万人超え
+5. 片山財務相、円の急落はファンダメンタルズで説明できず
+6. ほぼ日手帳、ついにアプリ化　共有機能なし
 
 ----
+
+@apnews.com
+
+<strong><span style="color: red;">BREAKING:</span> Four people were killed and 10 wounded in a shooting during a family gathering at a banquet hall in Stockton, sheriff’s officials say.</strong>
+
+[2025-11-30 13:45:26](https://bsky.app/profile/apnews.com/post/3m6t462ow4222)
+
+---
+
+@cbsnews.com
+
+Shooting in Stockton, California, leaves at least four dead and 10 others injured, officials say
+
+[2025-11-30 13:43:36](https://bsky.app/profile/cbsnews.com/post/3m6t42runmh2n)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】「車が海に転落」と119番通報 1人搬送 那覇港
+(2025-11-30 13:34:00) #ニュース
+
+[2025-11-30 13:36:35](https://bsky.app/profile/sokuho.news/post/3m6t3o7npav2d)
+
+---
+
+@nikkei.com
+
+SNSで「契約」　VTuber受難、書面なしで報酬額や支払日あいまい
+www.nikkei.com/article/DGXZQO...
+
+「録音もされていないし、飲みの席のような雰囲気で進んでいく」と語るのは5年の活動歴があるVチューバー。
+
+企業から商品宣伝の仕事を受ける際に契約書はないことが多く、口頭で報酬について合意することも。
+
+SNS上ではトラブルを訴える声が上がっています。
+
+[2025-11-30 13:31:18](https://bsky.app/profile/nikkei.com/post/3m6t3erm6qt26)
+
+---
+
+@reuters.com
+
+Mammoth F Logan Cooley injured in loss to Blues reut.rs/4pyVAiM
+
+[2025-11-30 13:30:20](https://bsky.app/profile/reuters.com/post/3m6t3d2rnyn26)
+
+---
+
+@aljazeera.com
+
+Solidarity demonstrations with Palestinians come as the death toll from Israel's war on Gaza crosses 70,000.
+
+[2025-11-30 13:30:19](https://bsky.app/profile/aljazeera.com/post/3m6t3cz74xv2k)
+
+---
 
 @reuters.com
 
@@ -80,66 +138,6 @@ www.nikkei.com/article/DGXZQO...
 (2025-11-30 13:00) #ニュース
 
 [2025-11-30 13:00:40](https://bsky.app/profile/sokuho.news/post/3m6sznyictv24)
-
----
-
-@reuters.com
-
-Leeds boss Farke accuses City's Donnarumma of bending rules after 3-2 loss reut.rs/4ooGTOo
-
-[2025-11-30 13:00:29](https://bsky.app/profile/reuters.com/post/3m6szno65zy2k)
-
----
-
-@cnn.com
-
-"The concluding chapter raises the stakes and leans hard into another scorchingly hot political topic: immigration," Dan Heching writes | Analysis
-
-
-[2025-11-30 13:00:12](https://bsky.app/profile/cnn.com/post/3m6szn5rkzj2v)
-
----
-
-@washingtonpost.com
-
-“I Run,” by the group Haven, blew up on TikTok before streaming platforms banned it.
-
-The case underscores what the music business will (and won’t) tolerate from artificial intelligence.
-
-[2025-11-30 13:00:11](https://bsky.app/profile/washingtonpost.com/post/3m6szn5av232x)
-
----
-
-@apnews.com
-
-Chicago Bears coach Ben Johnson views his team as one capable of winning no matter what's required, and Friday's 24-15 victory over the defending Super Bowl champion Philadelphia Eagles showed they could do it by playing smash-mouth football.
-
-[2025-11-30 13:00:11](https://bsky.app/profile/apnews.com/post/3m6szn55yts2c)
-
----
-
-@cbsnews.com
-
-Several people have been taken to the hospital after a shooting in Stockton, California, Saturday night, authorities said. 
-
-
-
-[2025-11-30 12:41:33](https://bsky.app/profile/cbsnews.com/post/3m6sylt5cka2o)
-
----
-
-@nikkei.com
-
-第二の人生は離島の医師　東京の元病院長が選んだ道
-www.nikkei.com/article/DGXZQO...
-
-きっかけは医療チームを組んで被災地に入った2011年の東日本大震災。
-
-医療器具は限られ、レントゲンを撮ることも血液検査もできませんでした。
-
-日常とは対照的な光景に「地域医療も似たような状況なのではないか」との考えがよぎりました。
-
-[2025-11-30 12:31:17](https://bsky.app/profile/nikkei.com/post/3m6sxzhoqsu2t)
 
 ---
 
