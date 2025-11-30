@@ -1,9 +1,9 @@
-# [2025-11-30 21:30 updated](2025_11_30.md)
+# [2025-11-30 21:50 updated](2025_11_30.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">陸上 中島佑気ジョセフ 陸上教室で小学生に速く走るコツを指導 https://news.web.nhk/newsweb/na/na-k10014990231000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6tvxkpltw2r" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-30 21:27:03)</span><span style="padding-right:50px;">日大の1年生 鮫島輝が「アマチュア横綱」に https://news.web.nhk/newsweb/na/na-k10014990181000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6tvs7glto2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-30 21:24:03)</span><span style="padding-right:50px;"> Europe needs a plan for decoupling from America on.ft.com/4pD4ewL  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m6tv7w6kuj26" target="_blank">financialtimes.com</a> (2025-11-30 21:13:52)</span><span style="padding-right:50px;">Zelenskyy aides to meet Trump team in Florida for talks on peace plan on.ft.com/3M753iW <a href="https://bsky.app/profile/financialtimes.com/post/3m6tv42di2m25" target="_blank">financialtimes.com</a> (2025-11-30 21:11:42)</span><span style="padding-right:50px;">Politics and debt don’t mix well. Americans would be wise to look across the Atlantic to see how tough things can get, writes James Mackintosh. <a href="https://bsky.app/profile/wsj.com/post/3m6tuw7puiu2i" target="_blank">wsj.com</a> (2025-11-30 21:08:26)</span>
+<span style="padding-right:50px;">能登半島地震の液状化19平方キロ　被災4県を防災科研が調査（無料記事） www.nikkei.com/article/DGXZQO...  被害面積は東京ドーム410個分に相当し、2016年に発生した熊本地震の約4倍に上るといいます。  先名重樹主任専門研究員は「日本海側には緩い砂質の地盤が多く、被害が拡大したと考えられる」と説明します。 <a href="https://bsky.app/profile/nikkei.com/post/3m6twy3zxuu2i" target="_blank">nikkei.com</a> (2025-11-30 21:45:17)</span><span style="padding-right:50px;">Fewer international students are enrolling at U.S. colleges, which could cost the country $1 billion, reports find <a href="https://bsky.app/profile/cnbc.com/post/3m6twtqr4ub2g" target="_blank">cnbc.com</a> (2025-11-30 21:42:51)</span><span style="padding-right:50px;">West Ham great Bonds dies aged 79 reut.rs/48ItbB6 <a href="https://bsky.app/profile/reuters.com/post/3m6twozb2mn2i" target="_blank">reuters.com</a> (2025-11-30 21:40:12)</span><span style="padding-right:50px;">Netanyahu asks Israeli president for pardon to end corruption case on.ft.com/4pGCZ4t <a href="https://bsky.app/profile/financialtimes.com/post/3m6twm2sjpo23" target="_blank">financialtimes.com</a> (2025-11-30 21:38:33)</span><span style="padding-right:50px;">Kazakh pair accused of using spycam and earpieces to win A$1.2m in casino <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6twahn3gb22" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-11-30 21:32:04)</span>
   </div>
 </div>
 
@@ -32,14 +32,83 @@
 
 ## News Headlines
 
-1. 中島佑気ジョセフ、小学生に速く走るコツを伝授
-2. 日大1年生、鮫島輝がアマチュア横綱に
-3. STARTO社、TOKIOとの契約を年内で終了
-4. 東京都、無痛分娩に10万円補助開始
-5. 三浦知良、来季も現役続行へ意欲
-6. 長野県南部で地震発生、最大震度1
+1. 能登半島地震、液状化被害は東京ドーム410個分
+2. 元ウエストハムの偉大な選手、ボンド氏死去、79歳
+3. ネタニヤフ首相、汚職事件の赦免を大統領に要請
+4. STARTO社、TOKIOとの契約を年内で終了
+5. 東京都、無痛分娩に10万円補助開始
+6. 韓国、国産ロケット打ち上げ成功で宇宙開発加速
 
 ----
+
+@nikkei.com
+
+能登半島地震の液状化19平方キロ　被災4県を防災科研が調査（無料記事）
+www.nikkei.com/article/DGXZQO...
+
+被害面積は東京ドーム410個分に相当し、2016年に発生した熊本地震の約4倍に上るといいます。
+
+先名重樹主任専門研究員は「日本海側には緩い砂質の地盤が多く、被害が拡大したと考えられる」と説明します。
+
+[2025-11-30 21:45:17](https://bsky.app/profile/nikkei.com/post/3m6twy3zxuu2i)
+
+---
+
+@cnbc.com
+
+Fewer international students are enrolling at U.S. colleges, which could cost the country $1 billion, reports find
+
+[2025-11-30 21:42:51](https://bsky.app/profile/cnbc.com/post/3m6twtqr4ub2g)
+
+---
+
+@reuters.com
+
+West Ham great Bonds dies aged 79 reut.rs/48ItbB6
+
+[2025-11-30 21:40:12](https://bsky.app/profile/reuters.com/post/3m6twozb2mn2i)
+
+---
+
+@financialtimes.com
+
+Netanyahu asks Israeli president for pardon to end corruption case on.ft.com/4pGCZ4t
+
+[2025-11-30 21:38:33](https://bsky.app/profile/financialtimes.com/post/3m6twm2sjpo23)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Kazakh pair accused of using spycam and earpieces to win A$1.2m in casino
+
+[2025-11-30 21:32:04](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6twahn3gb22)
+
+---
+
+@nikkei.com
+
+【ルポ・クマ駆除の現場】
+ヒグマに襲われ左目失ったハンターの教え
+www.nikkei.com/article/DGXZQO...
+
+「学生の指導っちゅうのはなかなか難しいねぇ。みんな、この片目をしっかりと見てくれない。時間がかかるけど真剣にやらないといけない」
+
+ワナにかかったクマの命を高圧の電気で絶ち、ナイフで解体する現場も目撃。
+
+人と獣の共生が犠牲の上に成り立っていることを身をもって学ぶ合宿に同行しました。
+
+[2025-11-30 21:31:17](https://bsky.app/profile/nikkei.com/post/3m6tw72pckf2l)
+
+---
+
+@usatoday.com
+
+The Supreme Court is weighing internet service providers' role in stopping music piracy. Much is at stake for both the industry and internet users.
+
+[2025-11-30 21:30:16](https://bsky.app/profile/usatoday.com/post/3m6tw5ahn332m)
+
+---
 
 @nhknewsunofficial.bsky.social
 
@@ -64,67 +133,6 @@ https://news.web.nhk/newsweb/na/na-k10014990181000
  Europe needs a plan for decoupling from America on.ft.com/4pD4ewL  | opinion
 
 [2025-11-30 21:13:52](https://bsky.app/profile/financialtimes.com/post/3m6tv7w6kuj26)
-
----
-
-@financialtimes.com
-
-Zelenskyy aides to meet Trump team in Florida for talks on peace plan on.ft.com/3M753iW
-
-[2025-11-30 21:11:42](https://bsky.app/profile/financialtimes.com/post/3m6tv42di2m25)
-
----
-
-@wsj.com
-
-Politics and debt don’t mix well. Americans would be wise to look across the Atlantic to see how tough things can get, writes James Mackintosh.
-
-[2025-11-30 21:08:26](https://bsky.app/profile/wsj.com/post/3m6tuw7puiu2i)
-
----
-
-@sokuho.news
-
-🔔ANNより【速報】です。
-
-【速報】STARTO社 株式会社TOKIOとの契約を年内いっぱいで終了することを発表
-(21:06) #ニュース
-https://news.tv-asahi.co.jp/news_geinou/articles/000469847.html?display=full
-
-[2025-11-30 21:08:19](https://bsky.app/profile/sokuho.news/post/3m6tuvz2e3m2y)
-
----
-
-@yahoofinance.com
-
-Who deserves to win Company of the Year?
-
-[2025-11-30 21:06:08](https://bsky.app/profile/yahoofinance.com/post/3m6tus3er672p)
-
----
-
-@reuters.com
-
-Eight more suspected swine fever cases as Spain struggles to limit export damage reut.rs/4p9hp8N
-
-[2025-11-30 21:05:11](https://bsky.app/profile/reuters.com/post/3m6tuqexddn2r)
-
----
-
-@nhknewsunofficial.bsky.social
-
-官房長官 沖縄県知事と会談 “米軍施設返還計画実行していく”
-https://news.web.nhk/newsweb/na/na-k10014990171000
-
-[2025-11-30 21:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6tummfthz2b)
-
----
-
-@financialtimes.com
-
-Labour has already broken its manifesto commitments on.ft.com/4pz8NIo
-
-[2025-11-30 21:02:36](https://bsky.app/profile/financialtimes.com/post/3m6tulr5uxa26)
 
 ---
 
