@@ -1,9 +1,9 @@
-# [2025-12-01 06:50 updated](2025_12_01.md)
+# [2025-12-01 07:10 updated](2025_12_01.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">【広がる原発再稼働】 迫る「核のごみ」、関西電力は貯蔵プール満杯まで3年 www.nikkei.com/article/DGXZQO...  新潟県の柏崎刈羽原発と北海道の泊原発について、地元知事が再稼働容認を表明しました。  火力より安価で、再生可能エネルギーより安定した電源との期待がある一方、使用済み核燃料の扱いの問題も避けて通れません。 <a href="https://bsky.app/profile/nikkei.com/post/3m6uv6a5q6f2t" target="_blank">nikkei.com</a> (2025-12-01 06:45:35)</span><span style="padding-right:50px;">クマ被害 大手損保 ケガや物損以外の補償やサービス始める https://news.web.nhk/newsweb/na/na-k10014990201000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6uv5c2h2e2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 06:45:03)</span><span style="padding-right:50px;">Lane Kiffin, the most-coveted name in this year’s coaching cycle, ended weeks of speculation by announcing he will leave Ole Miss for LSU. <a href="https://bsky.app/profile/wsj.com/post/3m6uuxphsnr22" target="_blank">wsj.com</a> (2025-12-01 06:41:56)</span><span style="padding-right:50px;">A 19-year-old college student was about to board a flight to surprise her family for Thanksgiving when she was detained at Boston Logan International Airport and deported to Honduras two days later, her father and lawyer said on Sunday. <a href="https://bsky.app/profile/nytimes.com/post/3m6uuuf3zpj2x" target="_blank">nytimes.com</a> (2025-12-01 06:40:05)</span><span style="padding-right:50px;">1年間の書籍のベストセラー 『大ピンチずかん3』が総合1位に https://news.web.nhk/newsweb/na/na-k10014989241000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6uune3bq22g" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 06:36:06)</span>
+<span style="padding-right:50px;">🛎️産経より【独自】です。  ＜独自＞屋外の津波緊急避難場所、備蓄15%、空調8%… 政府調査、保管設備助成へ (2025/12/1 05:00) #ニュース  ⬛津波情報 🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami https://www.sankei.com/article/20251201-THUFCDYUGNMUXPYD34ZEAOISCI/ <a href="https://bsky.app/profile/sokuho.news/post/3m6uwcamyp42x" target="_blank">sokuho.news</a> (2025-12-01 07:05:43)</span><span style="padding-right:50px;">In a paradox of global warming, thawing ice isn’t making Arctic waters easier to navigate: it makes them more dangerous. <a href="https://bsky.app/profile/wsj.com/post/3m6uw4gmqwb2r" target="_blank">wsj.com</a> (2025-12-01 07:02:28)</span><span style="padding-right:50px;">Oxford University Press has chosen “rage bait” as its 2025 Word of the Year. The open-compound word, which beat out “biohack” and “aura farming,” goes back at least to 2002. www.nytimes.com/2025/11/30/a... <a href="https://bsky.app/profile/nytimes.com/post/3m6uw3gblkk2z" target="_blank">nytimes.com</a> (2025-12-01 07:01:55)</span><span style="padding-right:50px;">Vin Diesel is sharing his emotional memories of his "other half" Paul Walker on the 12th anniversary of the actor's death. <a href="https://bsky.app/profile/usatoday.com/post/3m6uw24pkp62p" target="_blank">usatoday.com</a> (2025-12-01 07:01:11)</span><span style="padding-right:50px;">Australia's Treasury Wine Estates flags impairment of US assets reut.rs/4ou9m5k <a href="https://bsky.app/profile/reuters.com/post/3m6uvzvwjt32k" target="_blank">reuters.com</a> (2025-12-01 07:01:04)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50253.91 (🔺34.95 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.12 (🔺0.07 : 2025-11-30)</span>
+<span style="padding-right:50px;">NIKKEI: 50253.91 (🔺34.95 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.11 (🔺0.06 : 2025-11-30)</span>
   </div>
 </div>
 
@@ -32,102 +32,100 @@
 
 ## News Headlines
 
-1. 原発再稼働進む裏で「核のごみ」問題深刻化、関電貯蔵プール逼迫
-2. クマ被害対策、大手損保がケガ・物損以外も補償へ
-3. カレッジフットボール名将Kiffin、Ole MissからLSUへ電撃移籍
-4. ベストセラー年間1位は『大ピンチずかん3』
-5. 食品値上げ品目、昨年比8割減も依然続く
-6. 米西部パーティー会場で銃撃、子ども含む4人死亡11人負傷
+1.  屋外避難場所の備蓄不足、政府が保管設備助成へ
+2.  温暖化の逆説、北極海の航行がより危険に
+3.  オックスフォード「今年の言葉」は「rage bait」
+4.  習近平氏、米国との接触で台湾統一の目標を強調
+5.  原発再稼働拡大、使用済み核燃料問題が課題
+6.  レーン・キフィン、LSUヘッドコーチ就任でオレミス離脱
 
 ----
 
-@nikkei.com
+@sokuho.news
 
-【広がる原発再稼働】
-迫る「核のごみ」、関西電力は貯蔵プール満杯まで3年
-www.nikkei.com/article/DGXZQO...
+🛎️産経より【独自】です。
 
-新潟県の柏崎刈羽原発と北海道の泊原発について、地元知事が再稼働容認を表明しました。
+＜独自＞屋外の津波緊急避難場所、備蓄15%、空調8%… 政府調査、保管設備助成へ
+(2025/12/1 05:00) #ニュース
 
-火力より安価で、再生可能エネルギーより安定した電源との期待がある一方、使用済み核燃料の扱いの問題も避けて通れません。
+⬛津波情報
+🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami
+https://www.sankei.com/article/20251201-THUFCDYUGNMUXPYD34ZEAOISCI/
 
-[2025-12-01 06:45:35](https://bsky.app/profile/nikkei.com/post/3m6uv6a5q6f2t)
-
----
-
-@nhknewsunofficial.bsky.social
-
-クマ被害 大手損保 ケガや物損以外の補償やサービス始める
-https://news.web.nhk/newsweb/na/na-k10014990201000
-
-[2025-12-01 06:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6uv5c2h2e2k)
+[2025-12-01 07:05:43](https://bsky.app/profile/sokuho.news/post/3m6uwcamyp42x)
 
 ---
 
 @wsj.com
 
-Lane Kiffin, the most-coveted name in this year’s coaching cycle, ended weeks of speculation by announcing he will leave Ole Miss for LSU.
+In a paradox of global warming, thawing ice isn’t making Arctic waters easier to navigate: it makes them more dangerous.
 
-[2025-12-01 06:41:56](https://bsky.app/profile/wsj.com/post/3m6uuxphsnr22)
+[2025-12-01 07:02:28](https://bsky.app/profile/wsj.com/post/3m6uw4gmqwb2r)
 
 ---
 
 @nytimes.com
 
-A 19-year-old college student was about to board a flight to surprise her family for Thanksgiving when she was detained at Boston Logan International Airport and deported to Honduras two days later, her father and lawyer said on Sunday.
+Oxford University Press has chosen “rage bait” as its 2025 Word of the Year. The open-compound word, which beat out “biohack” and “aura farming,” goes back at least to 2002. www.nytimes.com/2025/11/30/a...
 
-[2025-12-01 06:40:05](https://bsky.app/profile/nytimes.com/post/3m6uuuf3zpj2x)
-
----
-
-@nhknewsunofficial.bsky.social
-
-1年間の書籍のベストセラー 『大ピンチずかん3』が総合1位に
-https://news.web.nhk/newsweb/na/na-k10014989241000
-
-[2025-12-01 06:36:06](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6uune3bq22g)
-
----
-
-@nhknewsunofficial.bsky.social
-
-来年値上げ予定の食品 ことしと比べ8割近く品目減 民間調査
-https://news.web.nhk/newsweb/na/na-k10014990281000
-
-[2025-12-01 06:36:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6uun74doc23)
-
----
-
-@nhknewsunofficial.bsky.social
-
-スキージャンプ女子 W杯 個人第4戦 丸山希 開幕4連勝逃すも2位
-https://news.web.nhk/newsweb/na/na-k10014990251000
-
-[2025-12-01 06:33:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6uuhvezw223)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Ukraine talks 'productive' but more work needed, Rubio says
-
-[2025-12-01 06:31:35](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6uuf7juc42h)
+[2025-12-01 07:01:55](https://bsky.app/profile/nytimes.com/post/3m6uw3gblkk2z)
 
 ---
 
 @usatoday.com
 
-Sen. Cory Booker and Alexis Lewis married in a courthouse ceremony on Nov. 24. The couple also held a private interfaith wedding ceremony in Washington.
+Vin Diesel is sharing his emotional memories of his "other half" Paul Walker on the 12th anniversary of the actor's death.
 
-[2025-12-01 06:30:26](https://bsky.app/profile/usatoday.com/post/3m6uud4nsv42j)
+[2025-12-01 07:01:11](https://bsky.app/profile/usatoday.com/post/3m6uw24pkp62p)
+
+---
+
+@reuters.com
+
+Australia's Treasury Wine Estates flags impairment of US assets reut.rs/4ou9m5k
+
+[2025-12-01 07:01:04](https://bsky.app/profile/reuters.com/post/3m6uvzvwjt32k)
+
+---
+
+@bloomberg.com
+
+President Xi Jinping is using his renewed contact with the US to sharpen his long-declared objective: Unification with Taiwan (via Bloomberg Opinion) 
+
+[2025-12-01 07:00:21](https://bsky.app/profile/bloomberg.com/post/3m6uvyncnsf2h)
 
 ---
 
 @apnews.com
 
-"Zootopia 2" broke box office records with a massive Thanksgiving weekend opening. The Disney sequel earned $96 million in North America over the weekend and $156 million over the five-day Thanksgiving frame.
+A long-lost painting by Baroque master Peter Paul Rubens has sold for $2.7 million at an auction on Sunday.
 
-[2025-12-01 06:30:20](https://bsky.app/profile/apnews.com/post/3m6uucxp2hu2h)
+[2025-12-01 07:00:18](https://bsky.app/profile/apnews.com/post/3m6uvyjwtqv2t)
+
+---
+
+@washingtonpost.com
+
+Though Americans might be clamoring for relief on groceries, housing and energy costs, economists say there’s a bigger downside to falling prices: Ironically, falling prices can both signal a recession and trigger one.
+
+[2025-12-01 07:00:12](https://bsky.app/profile/washingtonpost.com/post/3m6uvye2nf52s)
+
+---
+
+@cbsnews.com
+
+Rep. Mike Turner says "you can't be America first and pro-Russia" as negotiators seek to broker an end to the war in Ukraine.
+
+[2025-12-01 07:00:00](https://bsky.app/profile/cbsnews.com/post/3m6uvxzfsco2j)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+イスラエル ネタニヤフ首相 大統領に対し恩赦を求めたと発表
+https://news.web.nhk/newsweb/na/na-k10014990361000
+
+[2025-12-01 06:54:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6uvnfondk23)
 
 ---
 
