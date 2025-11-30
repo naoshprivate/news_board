@@ -1,9 +1,9 @@
-# [2025-11-30 16:30 updated](2025_11_30.md)
+# [2025-11-30 16:50 updated](2025_11_30.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Top 25 roundup: No. 10 Alabama survives, will play for SEC title reut.rs/48jFDrb <a href="https://bsky.app/profile/reuters.com/post/3m6tf3odi6r2k" target="_blank">reuters.com</a> (2025-11-30 16:25:10)</span><span style="padding-right:50px;">India's Abhishek runs riot with 52-ball 148 in domestic T20 clash reut.rs/48lO9V5 <a href="https://bsky.app/profile/reuters.com/post/3m6tejsrmy22a" target="_blank">reuters.com</a> (2025-11-30 16:15:10)</span><span style="padding-right:50px;">NBA roundup: Pacers sink Bulls on Pascal Siakam's buzzer shot reut.rs/489c1fV <a href="https://bsky.app/profile/reuters.com/post/3m6teaucahj2i" target="_blank">reuters.com</a> (2025-11-30 16:10:10)</span><span style="padding-right:50px;">Operations restart at Iraq's Khor Mor field, transporting gas to power stations, ministry says reut.rs/4pEaPHi <a href="https://bsky.app/profile/reuters.com/post/3m6tdxvqkqn27" target="_blank">reuters.com</a> (2025-11-30 16:05:10)</span><span style="padding-right:50px;">J’Mari Taylor became the first Atlantic Coast Conference running back since 2021 to run for a touchdown and throw for a score in the same game as No. 17 Virginia beat Virginia Tech 27-7 on Saturday night to clinch a spot in the conference championship game. <a href="https://bsky.app/profile/apnews.com/post/3m6tdv4ji7d2h" target="_blank">apnews.com</a> (2025-11-30 16:03:36)</span>
+<span style="padding-right:50px;">China factory activity edges up in November but remains in contraction for eighth month as fading holiday demand drags services <a href="https://bsky.app/profile/cnbc.com/post/3m6tg2cdxwv2g" target="_blank">cnbc.com</a> (2025-11-30 16:42:17)</span><span style="padding-right:50px;">Whitecaps top SDFC to win West, earn date with Miami in MLS Cup final reut.rs/4pCT5Mr <a href="https://bsky.app/profile/reuters.com/post/3m6tfnjgltj2i" target="_blank">reuters.com</a> (2025-11-30 16:35:09)</span><span style="padding-right:50px;">Four people were killed and 10 wounded in a shooting during a family gathering at a banquet hall in Stockton, sheriff's officials said Saturday. n.pr/3M0EoV4 <a href="https://bsky.app/profile/npr.org/post/3m6tfl56fl62a" target="_blank">npr.org</a> (2025-11-30 16:33:49)</span><span style="padding-right:50px;">トライアル、1000円フリースで首都圏攻略狙う　ユニクロの約3分の1 www.nikkei.com/article/DGXZQO...  衣料品ショップ「RIALT（リアルト）の1号店を西友三軒茶屋店の一角に開きました。  看板商品のフリースのほか、タートルネックのセーター（998円）やパーカー（2189円）、ロングコート（4990円）もそろえます。  ユニクロのほか、無印良品やしまむらも出店する三軒茶屋を選んだ理由とは。 <a href="https://bsky.app/profile/nikkei.com/post/3m6tfgmz7kd2k" target="_blank">nikkei.com</a> (2025-11-30 16:31:18)</span><span style="padding-right:50px;">Tadeo Allende's hat trick powers Inter Miami past NYCFC to title match reut.rs/3XWajIG <a href="https://bsky.app/profile/reuters.com/post/3m6tfero3gj2k" target="_blank">reuters.com</a> (2025-11-30 16:30:15)</span>
   </div>
 </div>
 
@@ -32,14 +32,69 @@
 
 ## News Headlines
 
-1. アラバマ大、接戦制しSECタイトル戦へ
-2. インド国内T20でアビシェクが52球で148点の大暴れ
-3. シアカムのブザービーターでペイサーズがブルズを沈める
-4. イラクのホル・モル油田で操業再開、発電所へガス供給
-5. 中小製造業、自社キャラで採用活動を活性化
-6. 米ブラックフライデー売上高、伸び加速 - 個人消費堅調
+1. 中国製造業、8ヶ月連続で縮小
+2. 米カリフォルニア、誕生日会で銃乱射事件、4人死亡
+3. トライアル、1000円フリースで首都圏攻略
+4. イラク、ホル・モル油田の操業再開
+5. イオンファンタジー、「ララちゃん」着ぐるみ500体超へ
+6. ツバル、水没対策でメタバース国家建設へ
 
 ----
+
+@cnbc.com
+
+China factory activity edges up in November but remains in contraction for eighth month as fading holiday demand drags services
+
+[2025-11-30 16:42:17](https://bsky.app/profile/cnbc.com/post/3m6tg2cdxwv2g)
+
+---
+
+@reuters.com
+
+Whitecaps top SDFC to win West, earn date with Miami in MLS Cup final reut.rs/4pCT5Mr
+
+[2025-11-30 16:35:09](https://bsky.app/profile/reuters.com/post/3m6tfnjgltj2i)
+
+---
+
+@npr.org
+
+Four people were killed and 10 wounded in a shooting during a family gathering at a banquet hall in Stockton, sheriff's officials said Saturday. n.pr/3M0EoV4
+
+[2025-11-30 16:33:49](https://bsky.app/profile/npr.org/post/3m6tfl56fl62a)
+
+---
+
+@nikkei.com
+
+トライアル、1000円フリースで首都圏攻略狙う　ユニクロの約3分の1
+www.nikkei.com/article/DGXZQO...
+
+衣料品ショップ「RIALT（リアルト）の1号店を西友三軒茶屋店の一角に開きました。
+
+看板商品のフリースのほか、タートルネックのセーター（998円）やパーカー（2189円）、ロングコート（4990円）もそろえます。
+
+ユニクロのほか、無印良品やしまむらも出店する三軒茶屋を選んだ理由とは。
+
+[2025-11-30 16:31:18](https://bsky.app/profile/nikkei.com/post/3m6tfgmz7kd2k)
+
+---
+
+@reuters.com
+
+Tadeo Allende's hat trick powers Inter Miami past NYCFC to title match reut.rs/3XWajIG
+
+[2025-11-30 16:30:15](https://bsky.app/profile/reuters.com/post/3m6tfero3gj2k)
+
+---
+
+@aljazeera.com
+
+Israeli army carried out attacks east of Rafah city, demolitions east of Khan Younis.
+
+[2025-11-30 16:30:11](https://bsky.app/profile/aljazeera.com/post/3m6tfenowkt2n)
+
+---
 
 @reuters.com
 
@@ -70,65 +125,6 @@ NBA roundup: Pacers sink Bulls on Pascal Siakam's buzzer shot reut.rs/489c1fV
 Operations restart at Iraq's Khor Mor field, transporting gas to power stations, ministry says reut.rs/4pEaPHi
 
 [2025-11-30 16:05:10](https://bsky.app/profile/reuters.com/post/3m6tdxvqkqn27)
-
----
-
-@apnews.com
-
-J’Mari Taylor became the first Atlantic Coast Conference running back since 2021 to run for a touchdown and throw for a score in the same game as No. 17 Virginia beat Virginia Tech 27-7 on Saturday night to clinch a spot in the conference championship game.
-
-[2025-11-30 16:03:36](https://bsky.app/profile/apnews.com/post/3m6tdv4ji7d2h)
-
----
-
-@nikkei.com
-
-鋳造会社は「ネズミとゾウ」　中小の製造業、自社キャラ作り採用活動
-www.nikkei.com/article/DGXZQO...
-
-「ちゅうぞうくん」「スチールパイセン」「カキミマン」…。
-
-トヨタやスズキなどの自動車産業や航空産業といった製造業の集積地でもある中部圏。
-
-世界大手がひしめくなか、中小・零細企業は人材採用につなげるために自社キャラで認知度拡大を狙います。
-
-[2025-11-30 16:01:18](https://bsky.app/profile/nikkei.com/post/3m6tdqza2wp2g)
-
----
-
-@bloomberg.com
-
-British millennials are embracing an unlikely new cause: infrastructure, housing and the politics of economic growth.
-
-[2025-11-30 16:00:41](https://bsky.app/profile/bloomberg.com/post/3m6tdpvk7fn22)
-
----
-
-@cnbc.com
-
-You can make a couple small changes. to get the most of your interactions with your colleagues — starting with your first greeting to them, says Vanessa Van Edwards.
-
-Mastering other interactions could help you become more well-liked at work, too. 
-
-Here are four more tips from other experts.
-
-[2025-11-30 16:00:37](https://bsky.app/profile/cnbc.com/post/3m6tdps53kg2i)
-
----
-
-@reuters.com
-
-NHL roundup: Lightning stifle Rangers in 7th straight win reut.rs/3Kwlvc0
-
-[2025-11-30 16:00:30](https://bsky.app/profile/reuters.com/post/3m6tdpkwnxd2e)
-
----
-
-@aljazeera.com
-
-Authorities have not yet released information about the attacker's identity or motive behind attack on family gathering.
-
-[2025-11-30 16:00:20](https://bsky.app/profile/aljazeera.com/post/3m6tdpbzvy227)
 
 ---
 
