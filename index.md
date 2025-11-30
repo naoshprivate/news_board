@@ -1,9 +1,9 @@
-# [2025-12-01 03:30 updated](2025_12_01.md)
+# [2025-12-01 03:50 updated](2025_12_01.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">LeBron James (foot) won't play against Pelicans reut.rs/3M1cAzU <a href="https://bsky.app/profile/reuters.com/post/3m6ujxtnes42w" target="_blank">reuters.com</a> (2025-12-01 03:25:10)</span><span style="padding-right:50px;">From @theathletic.com: The WNBA and WNBAPA have held regular meetings since the sides agreed to a 30-day extension of the CBA in late October. Sunday night marks the expiration. What comes next? <a href="https://bsky.app/profile/nytimes.com/post/3m6ujxqwhf22r" target="_blank">nytimes.com</a> (2025-12-01 03:25:07)</span><span style="padding-right:50px;">BREAKING: Protesters have gathered outside of Israeli President Isaac Herzog’s house in Tel Aviv, demanding that he reject PM Netanyahu’s request for a pardon in the three corruption cases against him.  🔴 LIVE updates: aje.io/iv17v7 <a href="https://bsky.app/profile/aljazeera.com/post/3m6ujqw6xyc2l" target="_blank">aljazeera.com</a> (2025-12-01 03:21:17)</span><span style="padding-right:50px;">The authorities in Indonesia were searching on Sunday for hundreds of people they said were missing after days of heavy rains across Southeast Asia that have killed hundreds and displaced millions. <a href="https://bsky.app/profile/nytimes.com/post/3m6ujop2wpx2w" target="_blank">nytimes.com</a> (2025-12-01 03:20:03)</span><span style="padding-right:50px;">Israeli Prime Minister Benjamin Netanyahu has officially requested a pardon in his corruption trial, an unusual move over an issue that has divided the country. <a href="https://bsky.app/profile/wsj.com/post/3m6ujifwzlj2h" target="_blank">wsj.com</a> (2025-12-01 03:16:32)</span>
+<span style="padding-right:50px;">Ten-man Chelsea hold off Arsenal in tetchy 1-1 London derby reut.rs/4rLy2t9 <a href="https://bsky.app/profile/reuters.com/post/3m6ul3qsu2x2r" target="_blank">reuters.com</a> (2025-12-01 03:45:15)</span><span style="padding-right:50px;">A writer reflects on how, as a child, a sleeper train crossing South India awakened a passion for life on the rails. More than 30 years later, trains remain her favorite way to see the world. <a href="https://bsky.app/profile/wsj.com/post/3m6ul22lj7w2h" target="_blank">wsj.com</a> (2025-12-01 03:44:18)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:熊本県阿蘇地方, 深さ:10km マグニチュード:2.2, 最大震度:1 📍https://www.google.com/maps?q=33.0,131.1&ll=33.0,131.1&z=7&t=h 地震発生日時:2025-12-01 03:40頃 (10倍速▶90s→9s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m6ukzohk6g2p" target="_blank">sokuho.news</a> (2025-12-01 03:44:05)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  3時40分頃、熊本県で最大震度1の地震を観測しました。 震源:熊本県阿蘇地方, 深さ:10km, 規模:M2.2 この地震による津波の心配はありません。 (2025-12-01 03:43:43) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/01/2025-12-01-03-40-27.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3m6ukz2ic5f2l" target="_blank">sokuho.news</a> (2025-12-01 03:43:43)</span><span style="padding-right:50px;">UnitedHealth agrees to sell South American business to private equity firm Patria for $1 billion, sources say reut.rs/4iwXJtd <a href="https://bsky.app/profile/reuters.com/post/3m6uksplk5h2r" target="_blank">reuters.com</a> (2025-12-01 03:40:11)</span>
   </div>
 </div>
 
@@ -32,92 +32,104 @@
 
 ## News Headlines
 
-1. レブロン・ジェームズ、足の怪我でペリカンズ戦欠場
-2. イスラエル大統領邸前で抗議デモ、ネタニヤフ首相の恩赦要請に反対
-3. インドネシア、豪雨で数百人が行方不明
-4. ウクライナ和平交渉、米とウクライナが楽観視
-5. 米報道：トランプ政権下の対カリブ海作戦で米軍が戦争犯罪の可能性
-6. 宮城県沖でM4.7の地震、最大震度3、津波の心配なし
+1. チェルシー、10人でアーセナルとドロー
+2. 熊本県阿蘇地方で地震発生、最大震度1
+3. ユナイテッドヘルス、南米事業を10億ドルで売却合意
+4. ESPN報道：レーン・キフィン、LSUの次期監督就任か
+5. イスラエル大統領官邸前で抗議デモ、ネタニヤフ首相への恩赦要求
+6. ヴェルスタッペン、カタールGPで勝利、タイトル争いは最終戦へ
 
 ----
 
 @reuters.com
 
-LeBron James (foot) won't play against Pelicans reut.rs/3M1cAzU
+Ten-man Chelsea hold off Arsenal in tetchy 1-1 London derby reut.rs/4rLy2t9
 
-[2025-12-01 03:25:10](https://bsky.app/profile/reuters.com/post/3m6ujxtnes42w)
-
----
-
-@nytimes.com
-
-From @theathletic.com: The WNBA and WNBAPA have held regular meetings since the sides agreed to a 30-day extension of the CBA in late October. Sunday night marks the expiration. What comes next?
-
-[2025-12-01 03:25:07](https://bsky.app/profile/nytimes.com/post/3m6ujxqwhf22r)
-
----
-
-@aljazeera.com
-
-<strong><span style="color: red;">BREAKING:</span> Protesters have gathered outside of Israeli President Isaac Herzog’s house in Tel Aviv, demanding that he reject PM Netanyahu’s request for a pardon in the three corruption cases against him.</strong><br><strong></strong><br><strong>🔴 LIVE updates: aje.io/iv17v7</strong>
-
-[2025-12-01 03:21:17](https://bsky.app/profile/aljazeera.com/post/3m6ujqw6xyc2l)
-
----
-
-@nytimes.com
-
-The authorities in Indonesia were searching on Sunday for hundreds of people they said were missing after days of heavy rains across Southeast Asia that have killed hundreds and displaced millions.
-
-[2025-12-01 03:20:03](https://bsky.app/profile/nytimes.com/post/3m6ujop2wpx2w)
+[2025-12-01 03:45:15](https://bsky.app/profile/reuters.com/post/3m6ul3qsu2x2r)
 
 ---
 
 @wsj.com
 
-Israeli Prime Minister Benjamin Netanyahu has officially requested a pardon in his corruption trial, an unusual move over an issue that has divided the country.
+A writer reflects on how, as a child, a sleeper train crossing South India awakened a passion for life on the rails. More than 30 years later, trains remain her favorite way to see the world.
 
-[2025-12-01 03:16:32](https://bsky.app/profile/wsj.com/post/3m6ujifwzlj2h)
+[2025-12-01 03:44:18](https://bsky.app/profile/wsj.com/post/3m6ul22lj7w2h)
+
+---
+
+@sokuho.news
+
+🔔防災科研より【強震モニタ】動画です。
+
+震源:熊本県阿蘇地方, 深さ:10km
+マグニチュード:2.2, 最大震度:1
+📍https://www.google.com/maps?q=33.0,131.1&ll=33.0,131.1&z=7&t=h
+地震発生日時:2025-12-01 03:40頃
+(10倍速▶90s→9s) #地震
+
+[2025-12-01 03:44:05](https://bsky.app/profile/sokuho.news/post/3m6ukzohk6g2p)
+
+---
+
+@sokuho.news
+
+🔔気象庁より【地震速報】です。
+
+3時40分頃、熊本県で最大震度1の地震を観測しました。
+震源:熊本県阿蘇地方, 深さ:10km, 規模:M2.2
+この地震による津波の心配はありません。
+(2025-12-01 03:43:43) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/01/2025-12-01-03-40-27.html?xlarge_image=1
+
+[2025-12-01 03:43:43](https://bsky.app/profile/sokuho.news/post/3m6ukz2ic5f2l)
 
 ---
 
 @reuters.com
 
-Officials express optimism as US and Ukraine try to work out peace deal in Florida reut.rs/48NRNYn
+UnitedHealth agrees to sell South American business to private equity firm Patria for $1 billion, sources say reut.rs/4iwXJtd
 
-[2025-12-01 03:10:13](https://bsky.app/profile/reuters.com/post/3m6uj54ncb42o)
+[2025-12-01 03:40:11](https://bsky.app/profile/reuters.com/post/3m6uksplk5h2r)
 
 ---
 
 @nytimes.com
 
-So many skin-care categories promise miracles, but retinoids are one of the few with the science to back it up. nyti.ms/48bceiM
+We recently published our list of the 100 Notable Books of 2025. Browsing a list of 100 books is exciting, but can be overwhelming. Want to find one to read right away? We can help! We broke the list down into categories to suit any kind of mood. Take a look.
 
-[2025-12-01 03:10:06](https://bsky.app/profile/nytimes.com/post/3m6uj4vx4g627)
+[2025-12-01 03:40:05](https://bsky.app/profile/nytimes.com/post/3m6uksjnvnr2y)
 
 ---
 
 @reuters.com
 
-Slot admits relief as misfiring Reds stop rot at West Ham reut.rs/48G4bum
+India's Kohli to stick to ODIs after match-winning 'mental' masterclass reut.rs/3Xucbs6
 
-[2025-12-01 03:05:12](https://bsky.app/profile/reuters.com/post/3m6uiu5vwmu26)
+[2025-12-01 03:35:10](https://bsky.app/profile/reuters.com/post/3m6ukjpui332i)
 
 ---
 
 @financialtimes.com
 
-Accenture dubs its 800,000 staff ‘reinventors’ as it adapts to AI on.ft.com/3M91cSz
+Opinion: The EU must make itself minimally vulnerable to inevitable US pressure, writes Martin Sandbu on.ft.com/4itV7fz
 
-[2025-12-01 03:04:53](https://bsky.app/profile/financialtimes.com/post/3m6uitlaywh2q)
+[2025-12-01 03:31:12](https://bsky.app/profile/financialtimes.com/post/3m6ukcmzojq2r)
 
 ---
 
 @usatoday.com
 
-In a star-studded event to mark the date, the Grand Ole Opry celebrated 100 years.
+Lane Kiffin is likely to leave Ole Miss to be LSU's next coach, ESPN reported early Sunday, Nov. 30.
 
-[2025-12-01 03:00:28](https://bsky.app/profile/usatoday.com/post/3m6uiloixh626)
+[2025-12-01 03:30:27](https://bsky.app/profile/usatoday.com/post/3m6ukbcnxv52d)
+
+---
+
+@bloomberg.com
+
+The head of German utility EON said Europe’s largest economy should slow the pace of wind and solar expansion, saying the country’s power grids are struggling to cope with the surge in new renewable projects.
+
+[2025-12-01 03:30:13](https://bsky.app/profile/bloomberg.com/post/3m6ukaupqci2y)
 
 ---
 
