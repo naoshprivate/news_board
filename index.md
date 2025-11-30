@@ -1,9 +1,9 @@
-# [2025-12-01 00:50 updated](2025_12_01.md)
+# [2025-12-01 01:10 updated](2025_12_01.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Italy's Fornaroli wins Formula Two title in Qatar reut.rs/4pFos9d <a href="https://bsky.app/profile/reuters.com/post/3m6uaqvfcuv26" target="_blank">reuters.com</a> (2025-12-01 00:40:13)</span><span style="padding-right:50px;">Israeli Prime Minister Benjamin Netanyahu has asked Israel's president to grant him a pardon during his long-running corruption trial that's bitterly divided the country. n.pr/48FC2Ue <a href="https://bsky.app/profile/npr.org/post/3m6uanklgjj2f" target="_blank">npr.org</a> (2025-12-01 00:38:21)</span><span style="padding-right:50px;">Amorim credits United's attention to details for win at Palace reut.rs/48ldcru <a href="https://bsky.app/profile/reuters.com/post/3m6uahu546z2i" target="_blank">reuters.com</a> (2025-12-01 00:35:09)</span><span style="padding-right:50px;">Hundreds are dead and missing across Southeast Asia after tropical cyclones caused heavy flooding and landslides in the region.  The death toll from floods and landslides on the Indonesian island of Sumatra rose to 303, officials said Sunday. https://wapo.st/3XsuaPH <a href="https://bsky.app/profile/washingtonpost.com/post/3m6ua7wt4ur2e" target="_blank">washingtonpost.com</a> (2025-12-01 00:30:44)</span><span style="padding-right:50px;">National Guard shooting suspect radicalized in US, homeland secretary says reut.rs/49O8CV8 <a href="https://bsky.app/profile/reuters.com/post/3m6ua7lhaqz27" target="_blank">reuters.com</a> (2025-12-01 00:30:32)</span>
+<span style="padding-right:50px;"> AI doesn’t add up if you neglect the mathematicians on.ft.com/4rB8BKH  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m6uccaiovr2n" target="_blank">financialtimes.com</a> (2025-12-01 01:07:49)</span><span style="padding-right:50px;">Update: Travel disruptions continued across the country on Sunday, with over 1,600 flight delays and nearly 500 cancellations. <a href="https://bsky.app/profile/npr.org/post/3m6ucarw4fk2e" target="_blank">npr.org</a> (2025-12-01 01:07:00)</span><span style="padding-right:50px;">As one winter storm winds down over the Midwest and Great Lakes region, forecasters warn that a new system — a potential nor’easter — could unleash “widespread and impactful snow and ice” across the Mid-Atlantic and the Northeast by Tuesday. <a href="https://bsky.app/profile/nytimes.com/post/3m6ubyifu6a2y" target="_blank">nytimes.com</a> (2025-12-01 01:02:21)</span><span style="padding-right:50px;">Lane Kiffin kept us waiting. Mark Stoops says "0% chance" he walks. Kentucky has 0% chance of a bowl. And apparently we're headbutting refs now. <a href="https://bsky.app/profile/usatoday.com/post/3m6ubvdmne226" target="_blank">usatoday.com</a> (2025-12-01 01:00:36)</span><span style="padding-right:50px;">Zelenskiy picks ex-Ukrainian envoy to US as reconstruction and investment adviser reut.rs/44uFQFm <a href="https://bsky.app/profile/reuters.com/post/3m6ubvat7yr27" target="_blank">reuters.com</a> (2025-12-01 01:00:33)</span>
   </div>
 </div>
 
@@ -32,95 +32,96 @@
 
 ## News Headlines
 
-1. イタリアのフォルナロリ、F2選手権で優勝
-2. ネタニヤフ首相、汚職裁判で恩赦を要請
-3. 東南アジアで熱帯低気圧による洪水・地滑り、死者・行方不明者多数
-4. 国民防衛隊銃撃事件の容疑者、米国で過激化
-5. レオ14世、レバノン訪問で希望のメッセージ
-6. 立憲民主党、公明党との政策協議を進める意向
+1. AI活用、数学者の重要性を軽視するな
+2. アメリカ各地で旅行混乱続く、多数のフライト遅延・キャンセル
+3. 東海岸に新たな冬の嵐、広範囲で雪と氷の被害のおそれ
+4. スマトラ洪水、死者303人に、住民が略奪に走る事態も
+5. ローマ教皇、イスラエル・パレスチナ二国家解決を改めて主張
+6. インドネシア・スマトラ島の洪水と地滑りで数百人が死亡・行方不明
 
 ----
 
-@reuters.com
+@financialtimes.com
 
-Italy's Fornaroli wins Formula Two title in Qatar reut.rs/4pFos9d
+ AI doesn’t add up if you neglect the mathematicians on.ft.com/4rB8BKH  | opinion
 
-[2025-12-01 00:40:13](https://bsky.app/profile/reuters.com/post/3m6uaqvfcuv26)
+[2025-12-01 01:07:49](https://bsky.app/profile/financialtimes.com/post/3m6uccaiovr2n)
 
 ---
 
 @npr.org
 
-Israeli Prime Minister Benjamin Netanyahu has asked Israel's president to grant him a pardon during his long-running corruption trial that's bitterly divided the country. n.pr/48FC2Ue
+Update: Travel disruptions continued across the country on Sunday, with over 1,600 flight delays and nearly 500 cancellations.
 
-[2025-12-01 00:38:21](https://bsky.app/profile/npr.org/post/3m6uanklgjj2f)
-
----
-
-@reuters.com
-
-Amorim credits United's attention to details for win at Palace reut.rs/48ldcru
-
-[2025-12-01 00:35:09](https://bsky.app/profile/reuters.com/post/3m6uahu546z2i)
+[2025-12-01 01:07:00](https://bsky.app/profile/npr.org/post/3m6ucarw4fk2e)
 
 ---
 
-@washingtonpost.com
+@nytimes.com
 
-Hundreds are dead and missing across Southeast Asia after tropical cyclones caused heavy flooding and landslides in the region.
+As one winter storm winds down over the Midwest and Great Lakes region, forecasters warn that a new system — a potential nor’easter — could unleash “widespread and impactful snow and ice” across the Mid-Atlantic and the Northeast by Tuesday.
 
-The death toll from floods and landslides on the Indonesian island of Sumatra rose to 303, officials said Sunday. https://wapo.st/3XsuaPH
-
-[2025-12-01 00:30:44](https://bsky.app/profile/washingtonpost.com/post/3m6ua7wt4ur2e)
-
----
-
-@reuters.com
-
-National Guard shooting suspect radicalized in US, homeland secretary says reut.rs/49O8CV8
-
-[2025-12-01 00:30:32](https://bsky.app/profile/reuters.com/post/3m6ua7lhaqz27)
-
----
-
-@aljazeera.com
-
-Israel killed 13 people, including two children, in Syria on Friday after locals resisted an incursion by its army.
-
-[2025-12-01 00:30:28](https://bsky.app/profile/aljazeera.com/post/3m6ua7h5bn22k)
+[2025-12-01 01:02:21](https://bsky.app/profile/nytimes.com/post/3m6ubyifu6a2y)
 
 ---
 
 @usatoday.com
 
-There was a major upset in the US LBM Coaches Poll that will shake up the rankings after Week 14. Here's our projection of the top 10.
+Lane Kiffin kept us waiting. Mark Stoops says "0% chance" he walks. Kentucky has 0% chance of a bowl. And apparently we're headbutting refs now.
 
-[2025-12-01 00:30:23](https://bsky.app/profile/usatoday.com/post/3m6ua7d5h5z2u)
-
----
-
-@bloomberg.com
-
-Tokyo has long been portrayed as cinema’s capital of loneliness. 'Rental Family', a new film from director Hikari starring Brendan Fraser, reframes that solitude as connection.
-
-[2025-12-01 00:30:21](https://bsky.app/profile/bloomberg.com/post/3m6ua7ahvs22s)
+[2025-12-01 01:00:36](https://bsky.app/profile/usatoday.com/post/3m6ubvdmne226)
 
 ---
 
-@cbsnews.com
+@reuters.com
 
-Pope Leo XIV wrapped up his visit to Turkey on Sunday before heading to Lebanon, where he aimed to bring a message of hope to its long-suffering people and bolster a crucial Christian community in the Middle East.
+Zelenskiy picks ex-Ukrainian envoy to US as reconstruction and investment adviser reut.rs/44uFQFm
 
-[2025-12-01 00:30:00](https://bsky.app/profile/cbsnews.com/post/3m6ua6n4fpb2u)
+[2025-12-01 01:00:33](https://bsky.app/profile/reuters.com/post/3m6ubvat7yr27)
+
+---
+
+@cnn.com
+
+Lindsey Halligan’s future as a top prosecutor remains in a sort of purgatory — with Justice Department officials still working through how they might bring the cases against Comey and James back to life — and her position inside the US attorney’s office up for debate https://cnn.it/3MtFske
+
+[2025-12-01 01:00:20](https://bsky.app/profile/cnn.com/post/3m6ubuuv6a62r)
+
+---
+
+@washingtonpost.com
+
+Have you noticed scenes in “Wicked: For Good” were made with CGI or other visual effects?
+
+See if you can tell what’s real or not in our quiz: 
+
+[2025-12-01 01:00:14](https://bsky.app/profile/washingtonpost.com/post/3m6ubuonfjv2a)
+
+---
+
+@apnews.com
+
+Authorities report that some residents of flood-hit Sumatra have resorted to looting, seeking food and water. The floods, which began nearly a week ago, have killed 303 people and displaced thousands.
+
+[2025-12-01 01:00:11](https://bsky.app/profile/apnews.com/post/3m6ubuljdta22)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-立民 安住幹事長 “政策整理し公明党と話し合い進めたい”
-https://news.web.nhk/newsweb/na/na-k10014990311000
+【動画】Pickup NEWS（12月1日）
+https://news.web.nhk/newsweb/na/na-k10014990241000
 
-[2025-12-01 00:27:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6u7zg5wdn2b)
+[2025-12-01 01:00:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ubufcl642p)
+
+---
+
+@cbsnews.com
+
+From living on her Upstate New York farm, to her roles in movies like the forthcoming "The Testament of Ann Lee" and "The Housemaid," to her battling serious anxiety and OCD, the Oscar-nominee reveals a grounded movie star living a grounded life.
+
+
+[2025-12-01 01:00:00](https://bsky.app/profile/cbsnews.com/post/3m6ububr75j2j)
 
 ---
 
