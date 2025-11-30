@@ -1,9 +1,9 @@
-# [2025-12-01 07:10 updated](2025_12_01.md)
+# [2025-12-01 07:30 updated](2025_12_01.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️産経より【独自】です。  ＜独自＞屋外の津波緊急避難場所、備蓄15%、空調8%… 政府調査、保管設備助成へ (2025/12/1 05:00) #ニュース  ⬛津波情報 🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami https://www.sankei.com/article/20251201-THUFCDYUGNMUXPYD34ZEAOISCI/ <a href="https://bsky.app/profile/sokuho.news/post/3m6uwcamyp42x" target="_blank">sokuho.news</a> (2025-12-01 07:05:43)</span><span style="padding-right:50px;">In a paradox of global warming, thawing ice isn’t making Arctic waters easier to navigate: it makes them more dangerous. <a href="https://bsky.app/profile/wsj.com/post/3m6uw4gmqwb2r" target="_blank">wsj.com</a> (2025-12-01 07:02:28)</span><span style="padding-right:50px;">Oxford University Press has chosen “rage bait” as its 2025 Word of the Year. The open-compound word, which beat out “biohack” and “aura farming,” goes back at least to 2002. www.nytimes.com/2025/11/30/a... <a href="https://bsky.app/profile/nytimes.com/post/3m6uw3gblkk2z" target="_blank">nytimes.com</a> (2025-12-01 07:01:55)</span><span style="padding-right:50px;">Vin Diesel is sharing his emotional memories of his "other half" Paul Walker on the 12th anniversary of the actor's death. <a href="https://bsky.app/profile/usatoday.com/post/3m6uw24pkp62p" target="_blank">usatoday.com</a> (2025-12-01 07:01:11)</span><span style="padding-right:50px;">Australia's Treasury Wine Estates flags impairment of US assets reut.rs/4ou9m5k <a href="https://bsky.app/profile/reuters.com/post/3m6uvzvwjt32k" target="_blank">reuters.com</a> (2025-12-01 07:01:04)</span>
+<span style="padding-right:50px;">🔊 British ex-paratrooper Karl Bushby is nearing the end of a 36,000-mile walk around the world that began in Chile in 1998. He shares his story on today's episode of the Reuters World News podcast reut.rs/48leBOI <a href="https://bsky.app/profile/reuters.com/post/3m6uxhorhqk2c" target="_blank">reuters.com</a> (2025-12-01 07:26:40)</span><span style="padding-right:50px;">Napoli thwart Roma's bid to reclaim top spot with 1-0 away win reut.rs/3MadaeD <a href="https://bsky.app/profile/reuters.com/post/3m6uxeyl2iz2y" target="_blank">reuters.com</a> (2025-12-01 07:25:10)</span><span style="padding-right:50px;">An auctioneer stumbled upon the long lost painting, which depicts the crucifixion of Jesus Christ, inside a Paris townhouse last year during a routine visit. n.pr/48s2L5m <a href="https://bsky.app/profile/npr.org/post/3m6ux2vgd422y" target="_blank">npr.org</a> (2025-12-01 07:19:31)</span><span style="padding-right:50px;">【こころの不調で年7兆円経済損失】 欠勤や生産性低下、相談の輪が必須に www.nikkei.com/article/DGXZQO...  会社のミーティングで号泣、ロープを買いにホームセンターへ――。  うつ病などのこころの病は気分障害と呼ばれ、外来患者数は2023年に156万6000人と20年前に比べ2.3倍に増えました。  異変を早めに察知し、無理のないスムーズな復帰につなげる環境づくりが欠かせません。 <a href="https://bsky.app/profile/nikkei.com/post/3m6uwtv75gi2k" target="_blank">nikkei.com</a> (2025-12-01 07:15:36)</span><span style="padding-right:50px;">Not McLaren's finest day, says Norris as lead cut to 12 points reut.rs/4p9NL3l <a href="https://bsky.app/profile/reuters.com/post/3m6uwtabf7f2k" target="_blank">reuters.com</a> (2025-12-01 07:15:14)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50253.91 (🔺34.95 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.11 (🔺0.06 : 2025-11-30)</span>
+<span style="padding-right:50px;">NIKKEI: 50253.91 (🔺34.95 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.09 (🔺0.04 : 2025-11-30)</span>
   </div>
 </div>
 
@@ -32,14 +32,70 @@
 
 ## News Headlines
 
-1.  屋外避難場所の備蓄不足、政府が保管設備助成へ
-2.  温暖化の逆説、北極海の航行がより危険に
-3.  オックスフォード「今年の言葉」は「rage bait」
-4.  習近平氏、米国との接触で台湾統一の目標を強調
-5.  原発再稼働拡大、使用済み核燃料問題が課題
-6.  レーン・キフィン、LSUヘッドコーチ就任でオレミス離脱
+1. 元英軍兵士、1998年開始の世界一周徒歩旅行が終盤へ
+2. ナポリ、ローマを下し首位奪還阻止
+3. パリで発見されたルーベンスの幻の絵画、オークションで270万ドル
+4. 津波避難場所、備蓄不足が判明 - 政府が保管設備助成へ
+5. 地球温暖化の逆説：北極海の氷解が航行をより危険に
+6. 心的不調による経済損失、年間7兆円 - 相談の輪が必須
 
 ----
+
+@reuters.com
+
+🔊 British ex-paratrooper Karl Bushby is nearing the end of a 36,000-mile walk around the world that began in Chile in 1998. He shares his story on today's episode of the Reuters World News podcast reut.rs/48leBOI
+
+[2025-12-01 07:26:40](https://bsky.app/profile/reuters.com/post/3m6uxhorhqk2c)
+
+---
+
+@reuters.com
+
+Napoli thwart Roma's bid to reclaim top spot with 1-0 away win reut.rs/3MadaeD
+
+[2025-12-01 07:25:10](https://bsky.app/profile/reuters.com/post/3m6uxeyl2iz2y)
+
+---
+
+@npr.org
+
+An auctioneer stumbled upon the long lost painting, which depicts the crucifixion of Jesus Christ, inside a Paris townhouse last year during a routine visit. n.pr/48s2L5m
+
+[2025-12-01 07:19:31](https://bsky.app/profile/npr.org/post/3m6ux2vgd422y)
+
+---
+
+@nikkei.com
+
+【こころの不調で年7兆円経済損失】
+欠勤や生産性低下、相談の輪が必須に
+www.nikkei.com/article/DGXZQO...
+
+会社のミーティングで号泣、ロープを買いにホームセンターへ――。
+
+うつ病などのこころの病は気分障害と呼ばれ、外来患者数は2023年に156万6000人と20年前に比べ2.3倍に増えました。
+
+異変を早めに察知し、無理のないスムーズな復帰につなげる環境づくりが欠かせません。
+
+[2025-12-01 07:15:36](https://bsky.app/profile/nikkei.com/post/3m6uwtv75gi2k)
+
+---
+
+@reuters.com
+
+Not McLaren's finest day, says Norris as lead cut to 12 points reut.rs/4p9NL3l
+
+[2025-12-01 07:15:14](https://bsky.app/profile/reuters.com/post/3m6uwtabf7f2k)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Sudan civil war: The terrifying escape from el-Fasher in Darfur
+
+[2025-12-01 07:11:54](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6uwnd3mtf24)
+
+---
 
 @sokuho.news
 
@@ -77,55 +133,6 @@ Oxford University Press has chosen “rage bait” as its 2025 Word of the Year.
 Vin Diesel is sharing his emotional memories of his "other half" Paul Walker on the 12th anniversary of the actor's death.
 
 [2025-12-01 07:01:11](https://bsky.app/profile/usatoday.com/post/3m6uw24pkp62p)
-
----
-
-@reuters.com
-
-Australia's Treasury Wine Estates flags impairment of US assets reut.rs/4ou9m5k
-
-[2025-12-01 07:01:04](https://bsky.app/profile/reuters.com/post/3m6uvzvwjt32k)
-
----
-
-@bloomberg.com
-
-President Xi Jinping is using his renewed contact with the US to sharpen his long-declared objective: Unification with Taiwan (via Bloomberg Opinion) 
-
-[2025-12-01 07:00:21](https://bsky.app/profile/bloomberg.com/post/3m6uvyncnsf2h)
-
----
-
-@apnews.com
-
-A long-lost painting by Baroque master Peter Paul Rubens has sold for $2.7 million at an auction on Sunday.
-
-[2025-12-01 07:00:18](https://bsky.app/profile/apnews.com/post/3m6uvyjwtqv2t)
-
----
-
-@washingtonpost.com
-
-Though Americans might be clamoring for relief on groceries, housing and energy costs, economists say there’s a bigger downside to falling prices: Ironically, falling prices can both signal a recession and trigger one.
-
-[2025-12-01 07:00:12](https://bsky.app/profile/washingtonpost.com/post/3m6uvye2nf52s)
-
----
-
-@cbsnews.com
-
-Rep. Mike Turner says "you can't be America first and pro-Russia" as negotiators seek to broker an end to the war in Ukraine.
-
-[2025-12-01 07:00:00](https://bsky.app/profile/cbsnews.com/post/3m6uvxzfsco2j)
-
----
-
-@nhknewsunofficial.bsky.social
-
-イスラエル ネタニヤフ首相 大統領に対し恩赦を求めたと発表
-https://news.web.nhk/newsweb/na/na-k10014990361000
-
-[2025-12-01 06:54:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6uvnfondk23)
 
 ---
 
