@@ -1,9 +1,9 @@
-# [2025-11-30 09:50 updated](2025_11_30.md)
+# [2025-11-30 10:10 updated](2025_11_30.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">In a conversation with ChatGPT, I told my AI 'therapist' I was crashing out after seeing my ex. No matter what I said, it told me I was right. <a href="https://bsky.app/profile/usatoday.com/post/3m6soqfa56y2d" target="_blank">usatoday.com</a> (2025-11-30 09:45:09)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】井原市で建物火災 焼け跡から1人の遺体【岡山】 (2025-11-30 09:41:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6sopvtnrq2g" target="_blank">sokuho.news</a> (2025-11-30 09:44:53)</span><span style="padding-right:50px;">India freedom struggle: The hidden heroines found in long-lost photographs  <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6so3q3ing22" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-11-30 09:33:35)</span><span style="padding-right:50px;">スーパー戦隊終了、積み重ねた価値と特撮の未来 www.nikkei.com/article/DGXZQO...  「かつては集団ヒーローという構造は画期的だったが、半世紀という時を経て、目新しさも失われていった可能性がある」  アニメ特撮研究家の氷川竜介氏に、スーパー戦隊が果たしてきた役割と特撮のこれからについて聞きました。 <a href="https://bsky.app/profile/nikkei.com/post/3m6snxn7t4q2g" target="_blank">nikkei.com</a> (2025-11-30 09:31:18)</span><span style="padding-right:50px;">Michigan's Jaishawn Barham headbutted a referee in the Wolverines' game against Ohio State on Saturday, Nov. 29. <a href="https://bsky.app/profile/usatoday.com/post/3m6snvtmpaj2h" target="_blank">usatoday.com</a> (2025-11-30 09:30:18)</span>
+<span style="padding-right:50px;">If you love physical books and hate Kindles, but need a travel-friendly reading device, our Wirecutter tech lover has a recommendation for you: nyti.ms/3M319rh <a href="https://bsky.app/profile/nytimes.com/post/3m6sq37keja2y" target="_blank">nytimes.com</a> (2025-11-30 10:09:06)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】井原市で建物火災 焼け跡から性別不明の1人の遺体【岡山】 (2025-11-30 10:01:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6spqmaeze2l" target="_blank">sokuho.news</a> (2025-11-30 10:03:10)</span><span style="padding-right:50px;">ビッグサイズでカラフルな「ランディーズドーナツ」　東京駅に12月開業 www.nikkei.com/article/DGXZQO...  最も大きいドーナツは直径16cm。派手な見た目に反して、甘さは意外と控えめです。  代官山と新宿にある店舗のショーケースは常にカラフルなドーナツがぎっしり詰まっています。 <a href="https://bsky.app/profile/nikkei.com/post/3m6spnbiunl2w" target="_blank">nikkei.com</a> (2025-11-30 10:01:18)</span><span style="padding-right:50px;">The suspect faces a first-degree murder charge that resulted in the fatal shooting of U.S. Army Specialist Sarah Beckstrom, 20. <a href="https://bsky.app/profile/usatoday.com/post/3m6spm5exyp2d" target="_blank">usatoday.com</a> (2025-11-30 10:00:40)</span><span style="padding-right:50px;">If you work full-time, you already know how much time and effort it takes to master work-life balance. Add to that a relationship, and it becomes even harder.  Here’s how people in the happiest, most successful relationships spend their free time. <a href="https://bsky.app/profile/cnbc.com/post/3m6splptuwv23" target="_blank">cnbc.com</a> (2025-11-30 10:00:26)</span>
   </div>
 </div>
 
@@ -32,20 +32,20 @@
 
 ## News Headlines
 
-1. 井原市で建物火災、焼け跡から1遺体
-2. ウクライナ、ロシア「影の艦隊」石油タンカーを攻撃
-3. iPS細胞で白血病治療、京大が2027年にも治験
-4. 韓国EC大手クーパン、顧客アカウント3370万件漏洩
-5. 米判事、シチゴ親会社の株式売却を承認
-6. 障害ある子の親、9割が「自分が亡き後」を心配
+1. 井原市で建物火災、焼け跡から性別不明の遺体
+2. 東京駅にビッグサイズ「ランディーズドーナツ」12月開業
+3. 京急線、運転再開
+4. ウクライナ、ロシア「影の艦隊」タンカー2隻を攻撃
+5. 京都大学、iPS細胞で白血病治療治験へ
+6. 韓国EC企業クーパン、顧客アカウント3370万件が侵害
 
 ----
 
-@usatoday.com
+@nytimes.com
 
-In a conversation with ChatGPT, I told my AI 'therapist' I was crashing out after seeing my ex. No matter what I said, it told me I was right.
+If you love physical books and hate Kindles, but need a travel-friendly reading device, our Wirecutter tech lover has a recommendation for you: nyti.ms/3M319rh
 
-[2025-11-30 09:45:09](https://bsky.app/profile/usatoday.com/post/3m6soqfa56y2d)
+[2025-11-30 10:09:06](https://bsky.app/profile/nytimes.com/post/3m6sq37keja2y)
 
 ---
 
@@ -53,86 +53,87 @@ In a conversation with ChatGPT, I told my AI 'therapist' I was crashing out afte
 
 🛎️JNNより【速報】です。
 
-【速報】井原市で建物火災 焼け跡から1人の遺体【岡山】
-(2025-11-30 09:41:00) #ニュース
+【速報】井原市で建物火災 焼け跡から性別不明の1人の遺体【岡山】
+(2025-11-30 10:01:00) #ニュース
 
-[2025-11-30 09:44:53](https://bsky.app/profile/sokuho.news/post/3m6sopvtnrq2g)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-India freedom struggle: The hidden heroines found in long-lost photographs 
-
-[2025-11-30 09:33:35](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6so3q3ing22)
+[2025-11-30 10:03:10](https://bsky.app/profile/sokuho.news/post/3m6spqmaeze2l)
 
 ---
 
 @nikkei.com
 
-スーパー戦隊終了、積み重ねた価値と特撮の未来
+ビッグサイズでカラフルな「ランディーズドーナツ」　東京駅に12月開業
 www.nikkei.com/article/DGXZQO...
 
-「かつては集団ヒーローという構造は画期的だったが、半世紀という時を経て、目新しさも失われていった可能性がある」
+最も大きいドーナツは直径16cm。派手な見た目に反して、甘さは意外と控えめです。
 
-アニメ特撮研究家の氷川竜介氏に、スーパー戦隊が果たしてきた役割と特撮のこれからについて聞きました。
+代官山と新宿にある店舗のショーケースは常にカラフルなドーナツがぎっしり詰まっています。
 
-[2025-11-30 09:31:18](https://bsky.app/profile/nikkei.com/post/3m6snxn7t4q2g)
+[2025-11-30 10:01:18](https://bsky.app/profile/nikkei.com/post/3m6spnbiunl2w)
 
 ---
 
 @usatoday.com
 
-Michigan's Jaishawn Barham headbutted a referee in the Wolverines' game against Ohio State on Saturday, Nov. 29.
+The suspect faces a first-degree murder charge that resulted in the fatal shooting of U.S. Army Specialist Sarah Beckstrom, 20.
 
-[2025-11-30 09:30:18](https://bsky.app/profile/usatoday.com/post/3m6snvtmpaj2h)
-
----
-
-@bloomberg.com
-
-A euro-zone inflation reading close to 2% will be enough to satisfy ECB officials that they should avoid tweaking rates in December.
-
-[2025-11-30 09:30:17](https://bsky.app/profile/bloomberg.com/post/3m6snvsqulo27)
+[2025-11-30 10:00:40](https://bsky.app/profile/usatoday.com/post/3m6spm5exyp2d)
 
 ---
 
-@reuters.com
+@cnbc.com
 
-Ukraine hits two Russian 'shadow fleet' oil tankers with naval drones reut.rs/48bPNKc
+If you work full-time, you already know how much time and effort it takes to master work-life balance. Add to that a relationship, and it becomes even harder.
 
-[2025-11-30 09:15:11](https://bsky.app/profile/reuters.com/post/3m6sn2szuwu2i)
+Here’s how people in the happiest, most successful relationships spend their free time.
 
----
-
-@bbcnews-world-rss.bsky.social
-
-Israel Gaza war: Why I spend hours painstakingly repairing banknotes
-
-[2025-11-30 09:13:29](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6smxsei5b22)
+[2025-11-30 10:00:26](https://bsky.app/profile/cnbc.com/post/3m6splptuwv23)
 
 ---
 
-@reuters.com
+@apnews.com
 
-UK plans justice overhaul to prioritise victims by cutting court delays reut.rs/49NVZtg
+Skaters at the Speed Skating Stadium in Milan say the ice feels like skating on a lake.
 
-[2025-11-30 09:10:12](https://bsky.app/profile/reuters.com/post/3m6smrvl5ty2o)
+[2025-11-30 10:00:10](https://bsky.app/profile/apnews.com/post/3m6splabkq42t)
 
 ---
 
-@nikkei.com
+@washingtonpost.com
 
-「クマはサンジンサマの授けもの」　令和のマタギ、共生の哲学守れるか
-www.nikkei.com/article/DGXZQO...
+Elisabeth Yoder’s 15-month-old son had a serious bacterial infection, and doctors urged his mother to take an ambulance to treat him 40 minutes away.
 
-狩猟を生業にしてきた「マタギ」の里、秋田県北秋田市の阿仁地区。
+The bill came to $9,250. 
 
-「シカリ」と呼ばれる頭領を32年間務めた松橋吉太郎さんは「今の人は真剣さが足んねぇなあ」とつぶやきます。
+[2025-11-30 10:00:08](https://bsky.app/profile/washingtonpost.com/post/3m6spl6ivns2j)
 
-そんな往年のシカリが目を細めたのは、「伝説のマタギ」と呼ばれた祖父を持つ一人の若者のことを話す時でした。
+---
 
-[2025-11-30 09:01:18](https://bsky.app/profile/nikkei.com/post/3m6smbybilk2l)
+@nhknewsunofficial.bsky.social
+
+京急線 運転再開
+https://news.web.nhk/newsweb/na/na-k10014989951000
+
+[2025-11-30 10:00:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6spl2gmzj2b)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【独自】です。
+
+【独自】香港マンション火災 直後に撮影されたマンション内部写真入手
+(2025-11-30 09:57:26) #ニュース
+
+[2025-11-30 09:58:03](https://bsky.app/profile/sokuho.news/post/3m6sphhy7al26)
+
+---
+
+@usatoday.com
+
+In a conversation with ChatGPT, I told my AI 'therapist' I was crashing out after seeing my ex. No matter what I said, it told me I was right.
+
+[2025-11-30 09:45:09](https://bsky.app/profile/usatoday.com/post/3m6soqfa56y2d)
 
 ---
 
