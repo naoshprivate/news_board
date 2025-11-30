@@ -1,9 +1,9 @@
-# [2025-11-30 10:30 updated](2025_11_30.md)
+# [2025-11-30 10:50 updated](2025_11_30.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">After the Zika outbreak ended in Brazil, many families faced a new reality: a child whose life was irrevocably altered after the mother contracted the virus while pregnant. Here's what happened next. n.pr/48bOXNK <a href="https://bsky.app/profile/npr.org/post/3m6sqz5ublp2o" target="_blank">npr.org</a> (2025-11-30 10:25:51)</span><span style="padding-right:50px;">Nigeria's kidnapping crisis: 'Too scared to speak' - villagers on living in the midst of bandits <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6sqp2pktb2x" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-11-30 10:20:11)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】山陽自動車道下り線の鴨方IC付近で事故 付近では1㎞の渋滞 (2025-11-30 10:16:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6sqluyo4d2l" target="_blank">sokuho.news</a> (2025-11-30 10:18:25)</span><span style="padding-right:50px;">If you love physical books and hate Kindles, but need a travel-friendly reading device, our Wirecutter tech lover has a recommendation for you: nyti.ms/3M319rh <a href="https://bsky.app/profile/nytimes.com/post/3m6sq37keja2y" target="_blank">nytimes.com</a> (2025-11-30 10:09:06)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】井原市で建物火災 焼け跡から性別不明の1人の遺体【岡山】 (2025-11-30 10:01:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6spqmaeze2l" target="_blank">sokuho.news</a> (2025-11-30 10:03:10)</span>
+<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】山陽自動車道（下り）の鴨方IC付近で事故 現場付近を先頭に約2キロの渋滞 (2025-11-30 10:43:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6ss5vhgz62y" target="_blank">sokuho.news</a> (2025-11-30 10:46:23)</span><span style="padding-right:50px;">Will new warning labels in Ireland turn people away from alcohol? <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6srzlkytv2m" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-11-30 10:43:58)</span><span style="padding-right:50px;">🛎️JNNより【独自】です。  【独自】香港マンション火災 発火直後のマンション内部写真入手 (2025-11-30 09:57:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6srhwfk7o24" target="_blank">sokuho.news</a> (2025-11-30 10:34:06)</span><span style="padding-right:50px;">British playwright Tom Stoppard has died at age 88 peacefully at his home in Dorset, England, his agents confirmed. <a href="https://bsky.app/profile/usatoday.com/post/3m6srb22di52p" target="_blank">usatoday.com</a> (2025-11-30 10:30:15)</span><span style="padding-right:50px;">Here are the key events from day 1,375 of Russia’s war on Ukraine. <a href="https://bsky.app/profile/aljazeera.com/post/3m6srazijsf27" target="_blank">aljazeera.com</a> (2025-11-30 10:30:14)</span>
   </div>
 </div>
 
@@ -32,14 +32,60 @@
 
 ## News Headlines
 
-1. ブラジル、ジカ熱流行後、子供達の人生に深刻な影響
-2. ナイジェリアの誘拐危機：「恐怖で語れない」村人たちの苦境
-3. 山陽道下り鴨方IC付近で事故、1kmの渋滞
-4. 井原市で建物火災、焼け跡から性別不明の遺体
-5. 東京駅にビッグサイズ「ランディーズドーナツ」12月開業
-6. ウクライナ、ロシアの「影の艦隊」タンカーを攻撃
+1. 山陽道鴨方IC付近で事故、最大2キロ渋滞
+2. 香港マンション火災、内部写真を入手
+3. 井原市で建物火災、焼け跡から性別不明遺体
+4. スーパー戦隊、半世紀の歴史に幕
+5. ウクライナ、ロシア「影の艦隊」タンカーを攻撃
+6. 京大、iPS細胞で白血病治療へ、2027年にも治験
 
 ----
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】山陽自動車道（下り）の鴨方IC付近で事故 現場付近を先頭に約2キロの渋滞
+(2025-11-30 10:43:00) #ニュース
+
+[2025-11-30 10:46:23](https://bsky.app/profile/sokuho.news/post/3m6ss5vhgz62y)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Will new warning labels in Ireland turn people away from alcohol?
+
+[2025-11-30 10:43:58](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6srzlkytv2m)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【独自】です。
+
+【独自】香港マンション火災 発火直後のマンション内部写真入手
+(2025-11-30 09:57:00) #ニュース
+
+[2025-11-30 10:34:06](https://bsky.app/profile/sokuho.news/post/3m6srhwfk7o24)
+
+---
+
+@usatoday.com
+
+British playwright Tom Stoppard has died at age 88 peacefully at his home in Dorset, England, his agents confirmed.
+
+[2025-11-30 10:30:15](https://bsky.app/profile/usatoday.com/post/3m6srb22di52p)
+
+---
+
+@aljazeera.com
+
+Here are the key events from day 1,375 of Russia’s war on Ukraine.
+
+[2025-11-30 10:30:14](https://bsky.app/profile/aljazeera.com/post/3m6srazijsf27)
+
+---
 
 @npr.org
 
@@ -84,55 +130,6 @@ If you love physical books and hate Kindles, but need a travel-friendly reading 
 (2025-11-30 10:01:00) #ニュース
 
 [2025-11-30 10:03:10](https://bsky.app/profile/sokuho.news/post/3m6spqmaeze2l)
-
----
-
-@nikkei.com
-
-ビッグサイズでカラフルな「ランディーズドーナツ」　東京駅に12月開業
-www.nikkei.com/article/DGXZQO...
-
-最も大きいドーナツは直径16cm。派手な見た目に反して、甘さは意外と控えめです。
-
-代官山と新宿にある店舗のショーケースは常にカラフルなドーナツがぎっしり詰まっています。
-
-[2025-11-30 10:01:18](https://bsky.app/profile/nikkei.com/post/3m6spnbiunl2w)
-
----
-
-@usatoday.com
-
-The suspect faces a first-degree murder charge that resulted in the fatal shooting of U.S. Army Specialist Sarah Beckstrom, 20.
-
-[2025-11-30 10:00:40](https://bsky.app/profile/usatoday.com/post/3m6spm5exyp2d)
-
----
-
-@cnbc.com
-
-If you work full-time, you already know how much time and effort it takes to master work-life balance. Add to that a relationship, and it becomes even harder.
-
-Here’s how people in the happiest, most successful relationships spend their free time.
-
-[2025-11-30 10:00:26](https://bsky.app/profile/cnbc.com/post/3m6splptuwv23)
-
----
-
-@apnews.com
-
-Skaters at the Speed Skating Stadium in Milan say the ice feels like skating on a lake.
-
-[2025-11-30 10:00:10](https://bsky.app/profile/apnews.com/post/3m6splabkq42t)
-
----
-
-@washingtonpost.com
-
-Elisabeth Yoder’s 15-month-old son had a serious bacterial infection, and doctors urged his mother to take an ambulance to treat him 40 minutes away.
-
-The bill came to $9,250. 
-
-[2025-11-30 10:00:08](https://bsky.app/profile/washingtonpost.com/post/3m6spl6ivns2j)
 
 ---
 
