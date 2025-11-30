@@ -1,9 +1,9 @@
-# [2025-12-01 04:50 updated](2025_12_01.md)
+# [2025-12-01 05:10 updated](2025_12_01.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">President Trump said that the airspace "above and surrounding Venezuela" was "closed in its entirety". In response, the Venezuelan government said his comments violate international law, and are a "colonialist threat" to its sovereignty. n.pr/4rl57f0 <a href="https://bsky.app/profile/npr.org/post/3m6uofnodxf2s" target="_blank">npr.org</a> (2025-12-01 04:44:28)</span><span style="padding-right:50px;">White House National Economic Council Director Kevin Hassett touted a positive market response to indications that Donald Trump could pick the next Federal Reserve chair before the end of the year. <a href="https://bsky.app/profile/bloomberg.com/post/3m6uoff2vpn2s" target="_blank">bloomberg.com</a> (2025-12-01 04:44:19)</span><span style="padding-right:50px;">🔊 Retailers are building AI versions of their e-commerce websites as Americans increasingly ask ChatGPT for gift ideas. Find out why on the daily Reuters World News podcast reut.rs/48leBOI <a href="https://bsky.app/profile/reuters.com/post/3m6uof7w53c2c" target="_blank">reuters.com</a> (2025-12-01 04:44:14)</span><span style="padding-right:50px;">Senegal rushes to avert oil spill after Turkish tanker incident off Dakar reut.rs/3XWstKr <a href="https://bsky.app/profile/reuters.com/post/3m6uo5zndg22k" target="_blank">reuters.com</a> (2025-12-01 04:40:12)</span><span style="padding-right:50px;">Ludwig Minelli: Dignitas founder dies by assisted suicide aged 92, group says <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6unxctzvl2p" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-01 04:36:26)</span>
+<span style="padding-right:50px;">Travelers at the end of the Thanksgiving holiday on Sunday were finding hundreds of flights delayed and canceled in Chicago following a winter storm in the Great Lakes region, while a wintry mix of rain and snow developed in the Northeast. <a href="https://bsky.app/profile/apnews.com/post/3m6upkmwvkf2c" target="_blank">apnews.com</a> (2025-12-01 05:05:09)</span><span style="padding-right:50px;">NPR's Lauren Frayer plays the puzzle with Kevin Demko of Rehoboth Beach, Delaware and Weekend Edition Puzzlemaster Will Shortz. <a href="https://bsky.app/profile/npr.org/post/3m6upe2je4g2e" target="_blank">npr.org</a> (2025-12-01 05:01:28)</span><span style="padding-right:50px;">Australia will soon ban children from social media in a world-first measure, with tech giants forced to comply or face fines up to $32 million <a href="https://bsky.app/profile/bloomberg.com/post/3m6updh4yym2s" target="_blank">bloomberg.com</a> (2025-12-01 05:01:08)</span><span style="padding-right:50px;">A Yahoo/YouGov poll found that 49% of respondents said Trump's actions since taking office in January have raised prices rather than lowering them. <a href="https://bsky.app/profile/usatoday.com/post/3m6upcgcjz42u" target="_blank">usatoday.com</a> (2025-12-01 05:00:33)</span><span style="padding-right:50px;">Major retail chains and tech companies are offering new or updated artificial intelligence tools in time for the holiday shopping season. <a href="https://bsky.app/profile/apnews.com/post/3m6upc7jt7b2y" target="_blank">apnews.com</a> (2025-12-01 05:00:26)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50253.91 (🔺34.95 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.15 (🔺0.09 : 2025-11-30)</span>
+<span style="padding-right:50px;">NIKKEI: 50253.91 (🔺34.95 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.15 (🔺0.10 : 2025-11-30)</span>
   </div>
 </div>
 
@@ -32,92 +32,96 @@
 
 ## News Headlines
 
-1.  トランプ氏、ベネズエラ上空の空域を「完全閉鎖」と宣言
-2.  AI搭載Eコマースサイト急増、ギフト選びはChatGPTに
-3.  セネガル沖でタンカー事故、油流出の危機
-4.  ISIS武器貯蔵施設を米・シリア軍が空爆
-5.  カリフォルニア州ストックトンで誕生日パーティー中に銃撃、4人死亡
-6.  ネタニヤフ首相、汚職裁判で恩赦を申請
+1.  シカゴで数百便が遅延・欠航、北東部で雪混じりの雨
+2.  豪、世界初の措置として子供のソーシャルメディア利用を禁止へ
+3.  小売・ハイテク企業、ホリデーシーズン向けにAIツールを提供
+4.  コリー・ブッカー上院議員が結婚
+5.  トランプ大統領、ベネズエラ上空の空域を閉鎖と発言
+6.  香港で80年近くで最悪の火災、128人以上が死亡
 
 ----
+
+@apnews.com
+
+Travelers at the end of the Thanksgiving holiday on Sunday were finding hundreds of flights delayed and canceled in Chicago following a winter storm in the Great Lakes region, while a wintry mix of rain and snow developed in the Northeast.
+
+[2025-12-01 05:05:09](https://bsky.app/profile/apnews.com/post/3m6upkmwvkf2c)
+
+---
+
+@npr.org
+
+NPR's Lauren Frayer plays the puzzle with Kevin Demko of Rehoboth Beach, Delaware and Weekend Edition Puzzlemaster Will Shortz.
+
+[2025-12-01 05:01:28](https://bsky.app/profile/npr.org/post/3m6upe2je4g2e)
+
+---
+
+@bloomberg.com
+
+Australia will soon ban children from social media in a world-first measure, with tech giants forced to comply or face fines up to $32 million
+
+[2025-12-01 05:01:08](https://bsky.app/profile/bloomberg.com/post/3m6updh4yym2s)
+
+---
+
+@usatoday.com
+
+A Yahoo/YouGov poll found that 49% of respondents said Trump's actions since taking office in January have raised prices rather than lowering them.
+
+[2025-12-01 05:00:33](https://bsky.app/profile/usatoday.com/post/3m6upcgcjz42u)
+
+---
+
+@apnews.com
+
+Major retail chains and tech companies are offering new or updated artificial intelligence tools in time for the holiday shopping season.
+
+[2025-12-01 05:00:26](https://bsky.app/profile/apnews.com/post/3m6upc7jt7b2y)
+
+---
+
+@washingtonpost.com
+
+Sen. Cory Booker (D-New Jersey) is officially off the market.
+
+The 56-year-old married Alexis Lewis, 38, in an intimate ceremony Saturday in Washington, D.C., trading in years of public speculation about his love life for a new ring on his left hand.
+
+[2025-12-01 05:00:13](https://bsky.app/profile/washingtonpost.com/post/3m6upbswsjy2o)
+
+---
+
+@bloomberg.com
+
+Italy’s Borromeo family is listing its real estate holdings including a group of islands on Lake Maggiore as it seeks to turn the area into a hub to rival nearby Lake Como
+
+[2025-12-01 05:00:12](https://bsky.app/profile/bloomberg.com/post/3m6upbrlbyq2h)
+
+---
+
+@cbsnews.com
+
+Despite wider economic uncertainty hovering above this year's holiday season, shoppers turned out in big numbers for Black Friday — spending billions of dollars both in stores and online.
+
+
+
+[2025-12-01 05:00:01](https://bsky.app/profile/cbsnews.com/post/3m6upbh6vna2p)
+
+---
+
+@wsj.com
+
+Northwestern University has reached a deal with the Trump administration to pay the government $75 million to settle complaints of alleged discrimination and to restore federal research funding.
+
+[2025-12-01 04:53:00](https://bsky.app/profile/wsj.com/post/3m6uouw6vif24)
+
+---
 
 @npr.org
 
 President Trump said that the airspace "above and surrounding Venezuela" was "closed in its entirety". In response, the Venezuelan government said his comments violate international law, and are a "colonialist threat" to its sovereignty. n.pr/4rl57f0
 
 [2025-12-01 04:44:28](https://bsky.app/profile/npr.org/post/3m6uofnodxf2s)
-
----
-
-@bloomberg.com
-
-White House National Economic Council Director Kevin Hassett touted a positive market response to indications that Donald Trump could pick the next Federal Reserve chair before the end of the year.
-
-[2025-12-01 04:44:19](https://bsky.app/profile/bloomberg.com/post/3m6uoff2vpn2s)
-
----
-
-@reuters.com
-
-🔊 Retailers are building AI versions of their e-commerce websites as Americans increasingly ask ChatGPT for gift ideas. Find out why on the daily Reuters World News podcast reut.rs/48leBOI
-
-[2025-12-01 04:44:14](https://bsky.app/profile/reuters.com/post/3m6uof7w53c2c)
-
----
-
-@reuters.com
-
-Senegal rushes to avert oil spill after Turkish tanker incident off Dakar reut.rs/3XWstKr
-
-[2025-12-01 04:40:12](https://bsky.app/profile/reuters.com/post/3m6uo5zndg22k)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Ludwig Minelli: Dignitas founder dies by assisted suicide aged 92, group says
-
-[2025-12-01 04:36:26](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6unxctzvl2p)
-
----
-
-@reuters.com
-
-American and Syrian forces conduct airstrikes on ISIS weapon storage facilities, US military says reut.rs/4ivnwSu
-
-[2025-12-01 04:35:08](https://bsky.app/profile/reuters.com/post/3m6unuxxqm42y)
-
----
-
-@wsj.com
-
-Uganda has long been a haven for Africans fleeing war and famine. No longer.
-
-[2025-12-01 04:34:19](https://bsky.app/profile/wsj.com/post/3m6untj6bts2x)
-
----
-
-@nytimes.com
-
-Senator Cory Booker of New Jersey celebrated his marriage to his partner Alexis Lewis in an intimate ceremony in Washington, D.C. on Saturday evening.
-
-[2025-12-01 04:32:07](https://bsky.app/profile/nytimes.com/post/3m6unpkvjew24)
-
----
-
-@apnews.com
-
-The performance of Stefon Diggs was one of the biggest unknowns for the New England Patriots entering the season.
-
-[2025-12-01 04:30:27](https://bsky.app/profile/apnews.com/post/3m6unmllkhd2h)
-
----
-
-@reuters.com
-
-Ramaphosa dismisses Trump’s threat to bar South Africa from 2026 G20 summit reut.rs/4pdlqcq
-
-[2025-12-01 04:30:26](https://bsky.app/profile/reuters.com/post/3m6unmkisur22)
 
 ---
 
