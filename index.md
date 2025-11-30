@@ -1,9 +1,9 @@
-# [2025-11-30 21:10 updated](2025_11_30.md)
+# [2025-11-30 21:30 updated](2025_11_30.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Politics and debt don’t mix well. Americans would be wise to look across the Atlantic to see how tough things can get, writes James Mackintosh. <a href="https://bsky.app/profile/wsj.com/post/3m6tuw7puiu2i" target="_blank">wsj.com</a> (2025-11-30 21:08:26)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】STARTO社 株式会社TOKIOとの契約を年内いっぱいで終了することを発表 (21:06) #ニュース https://news.tv-asahi.co.jp/news_geinou/articles/000469847.html?display=full <a href="https://bsky.app/profile/sokuho.news/post/3m6tuvz2e3m2y" target="_blank">sokuho.news</a> (2025-11-30 21:08:19)</span><span style="padding-right:50px;">Who deserves to win Company of the Year? <a href="https://bsky.app/profile/yahoofinance.com/post/3m6tus3er672p" target="_blank">yahoofinance.com</a> (2025-11-30 21:06:08)</span><span style="padding-right:50px;">Eight more suspected swine fever cases as Spain struggles to limit export damage reut.rs/4p9hp8N <a href="https://bsky.app/profile/reuters.com/post/3m6tuqexddn2r" target="_blank">reuters.com</a> (2025-11-30 21:05:11)</span><span style="padding-right:50px;">官房長官 沖縄県知事と会談 “米軍施設返還計画実行していく” https://news.web.nhk/newsweb/na/na-k10014990171000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6tummfthz2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-30 21:03:02)</span>
+<span style="padding-right:50px;">陸上 中島佑気ジョセフ 陸上教室で小学生に速く走るコツを指導 https://news.web.nhk/newsweb/na/na-k10014990231000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6tvxkpltw2r" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-30 21:27:03)</span><span style="padding-right:50px;">日大の1年生 鮫島輝が「アマチュア横綱」に https://news.web.nhk/newsweb/na/na-k10014990181000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6tvs7glto2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-11-30 21:24:03)</span><span style="padding-right:50px;"> Europe needs a plan for decoupling from America on.ft.com/4pD4ewL  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m6tv7w6kuj26" target="_blank">financialtimes.com</a> (2025-11-30 21:13:52)</span><span style="padding-right:50px;">Zelenskyy aides to meet Trump team in Florida for talks on peace plan on.ft.com/3M753iW <a href="https://bsky.app/profile/financialtimes.com/post/3m6tv42di2m25" target="_blank">financialtimes.com</a> (2025-11-30 21:11:42)</span><span style="padding-right:50px;">Politics and debt don’t mix well. Americans would be wise to look across the Atlantic to see how tough things can get, writes James Mackintosh. <a href="https://bsky.app/profile/wsj.com/post/3m6tuw7puiu2i" target="_blank">wsj.com</a> (2025-11-30 21:08:26)</span>
   </div>
 </div>
 
@@ -32,14 +32,48 @@
 
 ## News Headlines
 
-1. 株式会社TOKIO、STARTO社との契約を年内終了
-2. スペイン、豚熱感染拡大で輸出に打撃
-3. 東京都、無痛分娩に10万円補助開始
-4. サッカー三浦知良、来季も現役続行へ意欲
-5. 韓国、国産ロケット打ち上げ成功で宇宙開発加速
+1. 中島佑気ジョセフ、小学生に速く走るコツを伝授
+2. 日大1年生、鮫島輝がアマチュア横綱に
+3. STARTO社、TOKIOとの契約を年内で終了
+4. 東京都、無痛分娩に10万円補助開始
+5. 三浦知良、来季も現役続行へ意欲
 6. 長野県南部で地震発生、最大震度1
 
 ----
+
+@nhknewsunofficial.bsky.social
+
+陸上 中島佑気ジョセフ 陸上教室で小学生に速く走るコツを指導
+https://news.web.nhk/newsweb/na/na-k10014990231000
+
+[2025-11-30 21:27:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6tvxkpltw2r)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+日大の1年生 鮫島輝が「アマチュア横綱」に
+https://news.web.nhk/newsweb/na/na-k10014990181000
+
+[2025-11-30 21:24:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6tvs7glto2u)
+
+---
+
+@financialtimes.com
+
+ Europe needs a plan for decoupling from America on.ft.com/4pD4ewL  | opinion
+
+[2025-11-30 21:13:52](https://bsky.app/profile/financialtimes.com/post/3m6tv7w6kuj26)
+
+---
+
+@financialtimes.com
+
+Zelenskyy aides to meet Trump team in Florida for talks on peace plan on.ft.com/3M753iW
+
+[2025-11-30 21:11:42](https://bsky.app/profile/financialtimes.com/post/3m6tv42di2m25)
+
+---
 
 @wsj.com
 
@@ -91,47 +125,6 @@ https://news.web.nhk/newsweb/na/na-k10014990171000
 Labour has already broken its manifesto commitments on.ft.com/4pz8NIo
 
 [2025-11-30 21:02:36](https://bsky.app/profile/financialtimes.com/post/3m6tulr5uxa26)
-
----
-
-@nikkei.com
-
-東京都、無痛分娩に10万円補助開始
-www.nikkei.com/article/DGXZQO...
-
-10月1日以降、都内の対象医療機関で無痛分娩をした人を対象に麻酔などにかかった費用を助成。
-
-安全対策など実施要件を満たした医療機関は120を超え、提供体制が整いました。
-
-都は「推奨しているわけではない」と説明し、矛盾を指摘する声もあります。
-
-2025年10月 #注目された記事
-
-[2025-11-30 21:01:17](https://bsky.app/profile/nikkei.com/post/3m6tujggxdu2w)
-
----
-
-@usatoday.com
-
-The Sheriff’s office in San Joaquin County, California, is investigating, saying early indications suggest it may have been a "targeted incident."
-
-[2025-11-30 21:00:49](https://bsky.app/profile/usatoday.com/post/3m6tuilnzoa2d)
-
----
-
-@bloomberg.com
-
-You’re not weak for avoiding bad news — you’re human. Behavioral science calls it the “ostrich effect,” a reflex to help the mind manage what it can’t control.
-
-[2025-11-30 21:00:19](https://bsky.app/profile/bloomberg.com/post/3m6tuhovidl22)
-
----
-
-@aljazeera.com
-
-More than 100 people remain unaccounted for after seven high-rise buildings caught fire and burned for two days.
-
-[2025-11-30 21:00:18](https://bsky.app/profile/aljazeera.com/post/3m6tuhnldpq2h)
 
 ---
 
