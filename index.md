@@ -1,9 +1,9 @@
-# [2025-12-01 15:10 updated](2025_12_01.md)
+# [2025-12-01 15:30 updated](2025_12_01.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">インドネシア 大雨で400人以上死亡 日本人8人孤立も7人救出 https://news.web.nhk/newsweb/na/na-k10014990301000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vr55wc5l2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 15:06:02)</span><span style="padding-right:50px;">Ole Miss promotes DC Pete Golding to replace Lane Kiffin as head coach reut.rs/43ZN1W0 <a href="https://bsky.app/profile/reuters.com/post/3m6vr3l52552o" target="_blank">reuters.com</a> (2025-12-01 15:05:11)</span><span style="padding-right:50px;">武田信玄の狼煙vs特急あずさ　伝令、どっちが早い？ www.nikkei.com/article/DGXZQO...  4月の信玄公祭りの日。「上杉勢、信濃へ侵攻」を伝令する速さを競いました。  19カ所の狼煙リレーと、JR中央本線の特急「あずさ」に乗って伝令を運んだ足軽が対決。その結果は――。 <a href="https://bsky.app/profile/nikkei.com/post/3m6vqtpf7rx2k" target="_blank">nikkei.com</a> (2025-12-01 15:00:47)</span><span style="padding-right:50px;">China's November new home prices climb but resale values extend declines, survey shows reut.rs/4irToXY <a href="https://bsky.app/profile/reuters.com/post/3m6vqtp3ult27" target="_blank">reuters.com</a> (2025-12-01 15:00:47)</span><span style="padding-right:50px;">Floods across Indonesia, Thailand, Malaysia and Sri Lanka have killed nearly 1,000 people in less than a week. <a href="https://bsky.app/profile/aljazeera.com/post/3m6vqsxwps62c" target="_blank">aljazeera.com</a> (2025-12-01 15:00:22)</span>
+<span style="padding-right:50px;">From Breakingviews - Breakingviews - A China Vanke default may be blessing in disguise reut.rs/44t6CxW <a href="https://bsky.app/profile/reuters.com/post/3m6vs7dyqoz2d" target="_blank">reuters.com</a> (2025-12-01 15:25:11)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】“万博効果”関西3空港の4～9月の旅客数が過去最高 一方で中国「渡航自粛」呼びかけが影響…12月の中国便は“3分の1”減も (2025-12-01 15:21) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6vrzphkov2e" target="_blank">sokuho.news</a> (2025-12-01 15:22:02)</span><span style="padding-right:50px;">Russian manufacturing sector faces sharper output decline in November, PMI shows reut.rs/4oq5zWy <a href="https://bsky.app/profile/reuters.com/post/3m6vrnliy6w2o" target="_blank">reuters.com</a> (2025-12-01 15:15:15)</span><span style="padding-right:50px;">NBA レイカーズ 八村塁 ペリカンズ戦で14得点 チームは7連勝 https://news.web.nhk/newsweb/na/na-k10014990901000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vrng2ufx2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 15:15:07)</span><span style="padding-right:50px;">東京 品川で住宅火災 1人が遺体で見つかる https://news.web.nhk/newsweb/na/na-k10014990801000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vrnatsgd2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 15:15:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49267.75 (🔻1050.84 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3090.00 (🔻42.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.66 (🔻0.40 : 2025-12-01)</span>
+<span style="padding-right:50px;">NIKKEI: 49291.01 (🔻1027.58 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3085.00 (🔻47.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.64 (🔻0.41 : 2025-12-01)</span>
   </div>
 </div>
 
@@ -32,14 +32,75 @@
 
 ## News Headlines
 
-1.  インドネシア大雨、死者400人超 - 日本人7人救出
-2.  武田信玄の狼煙 vs 特急あずさ、伝令対決の結果は？
-3.  高市首相、維新・吉村代表と会談 - 衆院議員定数削減へ
-4.  神戸で中学硬式野球クラブハウス全焼、放火容疑で男逮捕
-5.  日経平均、一時1000円超安 - 日銀総裁発言で売り注文
-6.  米子市の養鶏場で鳥インフルエンザ発生か、7.5万羽飼育
+1. 中国不動産大手、デフォルトの危機か？裏に潜む光明
+2. 関西3空港、万博効果で旅客数過去最高も中国便は減少
+3. 品川で住宅火災、1人死亡
+4. インドネシア大雨で400人以上死亡、日本人孤立も
+5. 高市首相と維新代表が会談、衆院議員定数削減へ
+6. 日銀総裁発言で株価急落、一時1000円以上値下がり
 
 ----
+
+@reuters.com
+
+From Breakingviews - Breakingviews - A China Vanke default may be blessing in disguise reut.rs/44t6CxW
+
+[2025-12-01 15:25:11](https://bsky.app/profile/reuters.com/post/3m6vs7dyqoz2d)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】“万博効果”関西3空港の4～9月の旅客数が過去最高 一方で中国「渡航自粛」呼びかけが影響…12月の中国便は“3分の1”減も
+(2025-12-01 15:21) #ニュース
+
+[2025-12-01 15:22:02](https://bsky.app/profile/sokuho.news/post/3m6vrzphkov2e)
+
+---
+
+@reuters.com
+
+Russian manufacturing sector faces sharper output decline in November, PMI shows reut.rs/4oq5zWy
+
+[2025-12-01 15:15:15](https://bsky.app/profile/reuters.com/post/3m6vrnliy6w2o)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+NBA レイカーズ 八村塁 ペリカンズ戦で14得点 チームは7連勝
+https://news.web.nhk/newsweb/na/na-k10014990901000
+
+[2025-12-01 15:15:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vrng2ufx2p)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+東京 品川で住宅火災 1人が遺体で見つかる
+https://news.web.nhk/newsweb/na/na-k10014990801000
+
+[2025-12-01 15:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vrnatsgd2j)
+
+---
+
+@apnews.com
+
+<strong><span style="color: red;">BREAKING:</span> A Bangladesh court sentences ousted premier Sheikh Hasina and her niece, Britain’s Labour lawmaker Tulip Siddiq, to prison on graft charges.</strong>
+
+[2025-12-01 15:11:51](https://bsky.app/profile/apnews.com/post/3m6vrhimvze2j)
+
+---
+
+@reuters.com
+
+Brandi Carlile, Coco Jones, Charlie Puth to perform at Super Bowl pregame reut.rs/3M1Gior
+
+[2025-12-01 15:10:11](https://bsky.app/profile/reuters.com/post/3m6vrejfxuy2k)
+
+---
 
 @nhknewsunofficial.bsky.social
 
@@ -68,70 +129,6 @@ www.nikkei.com/article/DGXZQO...
 19カ所の狼煙リレーと、JR中央本線の特急「あずさ」に乗って伝令を運んだ足軽が対決。その結果は――。
 
 [2025-12-01 15:00:47](https://bsky.app/profile/nikkei.com/post/3m6vqtpf7rx2k)
-
----
-
-@reuters.com
-
-China's November new home prices climb but resale values extend declines, survey shows reut.rs/4irToXY
-
-[2025-12-01 15:00:47](https://bsky.app/profile/reuters.com/post/3m6vqtp3ult27)
-
----
-
-@aljazeera.com
-
-Floods across Indonesia, Thailand, Malaysia and Sri Lanka have killed nearly 1,000 people in less than a week.
-
-[2025-12-01 15:00:22](https://bsky.app/profile/aljazeera.com/post/3m6vqsxwps62c)
-
----
-
-@washingtonpost.com
-
-The lustrous “akoya” pearl, coveted around the world for their timeless beauty, originated in the calm waters and sheltered inlets of Japan's Ago Bay.
-
-But after 130 years, Ago Bay's pearl industry is facing an existential crisis.
-
-[2025-12-01 15:00:13](https://bsky.app/profile/washingtonpost.com/post/3m6vqspb2ee2e)
-
----
-
-@nhknewsunofficial.bsky.social
-
-高市首相 維新 吉村代表と会談 衆院議員定数 約1割削減の方針
-https://news.web.nhk/newsweb/na/na-k10014990861000
-
-[2025-12-01 15:00:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vqsgt7dq2r)
-
----
-
-@cbsnews.com
-
-Meet Domer, one of Polymarket's biggest bettors who has wagered more than $400 million on the platform.
-
-[2025-12-01 15:00:01](https://bsky.app/profile/cbsnews.com/post/3m6vqsdnn3o2d)
-
----
-
-@en.afp.com
-
-Israelis protest Netanyahu's pardon request.
-
-Hundreds protest outside President Herzog’s residence after Prime Minister Benjamin Netanyahu's announcement that he has requested a pardon. On trial for corruption, Netanyahu argues the long-running cases are tearing the country apart
-
-[2025-12-01 14:59:05](https://bsky.app/profile/en.afp.com/post/3m6vqqnylbl2x)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】中学硬式野球の強豪「ヤング神戸須磨クラブ」クラブハウス全焼 放火容疑で41歳の男を逮捕 神戸・西区
-(2025-12-01 14:51:28) #ニュース
-
-[2025-12-01 14:56:07](https://bsky.app/profile/sokuho.news/post/3m6vqleditr2h)
 
 ---
 
