@@ -1,9 +1,9 @@
-# [2025-12-01 14:51 updated](2025_12_01.md)
+# [2025-12-01 15:10 updated](2025_12_01.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Billionaire Benettons strike private capital merger in expansion push on.ft.com/3MeCkss <a href="https://bsky.app/profile/financialtimes.com/post/3m6vpxdi3pc2j" target="_blank">financialtimes.com</a> (2025-12-01 14:44:55)</span><span style="padding-right:50px;">President Trump said he's decided who he'll nominate to be the next Federal Reserve chair — but he wouldn't be drawn on whether the pick is the National Economic Council's Kevin Hassett, who's emerged as a front-runner. <a href="https://bsky.app/profile/axios.com/post/3m6vpufqr3c2g" target="_blank">axios.com</a> (2025-12-01 14:43:17)</span><span style="padding-right:50px;">India's factory growth slows to nine-month low as US tariffs dent demand, PMI shows reut.rs/3XW1UoK <a href="https://bsky.app/profile/reuters.com/post/3m6vpovmkph26" target="_blank">reuters.com</a> (2025-12-01 14:40:12)</span><span style="padding-right:50px;">流行語大賞、高市首相「働いて働いて働いて」　トップ10に古古古米 www.nikkei.com/article/DGXZQO... <a href="https://bsky.app/profile/nikkei.com/post/3m6vpiqzk4h2i" target="_blank">nikkei.com</a> (2025-12-01 14:36:46)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】午前2時に江別市の公園駐車場でSNSで知り合った女性といると→男性が黒髪オールバックの男ら2人に襲われ数万円奪われる→“一時意識を失い”目を覚ますと男2人と女性もいない状… (2025-12-01 14:32) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6vpgpsjn52x" target="_blank">sokuho.news</a> (2025-12-01 14:35:37)</span>
+<span style="padding-right:50px;">インドネシア 大雨で400人以上死亡 日本人8人孤立も7人救出 https://news.web.nhk/newsweb/na/na-k10014990301000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vr55wc5l2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 15:06:02)</span><span style="padding-right:50px;">Ole Miss promotes DC Pete Golding to replace Lane Kiffin as head coach reut.rs/43ZN1W0 <a href="https://bsky.app/profile/reuters.com/post/3m6vr3l52552o" target="_blank">reuters.com</a> (2025-12-01 15:05:11)</span><span style="padding-right:50px;">武田信玄の狼煙vs特急あずさ　伝令、どっちが早い？ www.nikkei.com/article/DGXZQO...  4月の信玄公祭りの日。「上杉勢、信濃へ侵攻」を伝令する速さを競いました。  19カ所の狼煙リレーと、JR中央本線の特急「あずさ」に乗って伝令を運んだ足軽が対決。その結果は――。 <a href="https://bsky.app/profile/nikkei.com/post/3m6vqtpf7rx2k" target="_blank">nikkei.com</a> (2025-12-01 15:00:47)</span><span style="padding-right:50px;">China's November new home prices climb but resale values extend declines, survey shows reut.rs/4irToXY <a href="https://bsky.app/profile/reuters.com/post/3m6vqtp3ult27" target="_blank">reuters.com</a> (2025-12-01 15:00:47)</span><span style="padding-right:50px;">Floods across Indonesia, Thailand, Malaysia and Sri Lanka have killed nearly 1,000 people in less than a week. <a href="https://bsky.app/profile/aljazeera.com/post/3m6vqsxwps62c" target="_blank">aljazeera.com</a> (2025-12-01 15:00:22)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49258.38 (🔻1060.21 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3088.00 (🔻44.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.55 (🔻0.50 : 2025-12-01)</span>
+<span style="padding-right:50px;">NIKKEI: 49267.75 (🔻1050.84 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3090.00 (🔻42.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.66 (🔻0.40 : 2025-12-01)</span>
   </div>
 </div>
 
@@ -32,101 +32,106 @@
 
 ## News Headlines
 
-1. ベネトン家、プライベートキャピタルと合併で事業拡大へ
-2. トランプ大統領、次期FRB議長の指名を決定か
-3. インド工場成長、9ヶ月ぶり低水準　米関税が需要に影響
-4. 日経平均一時1000円以上下落　植田総裁発言で売り注文
-5. 米子市の養鶏場で鳥インフルエンザ感染疑い、7.5万羽飼育
-6. 小中高生の自殺、過去最多529人　若者の心の健康悪化
+1.  インドネシア大雨、死者400人超 - 日本人7人救出
+2.  武田信玄の狼煙 vs 特急あずさ、伝令対決の結果は？
+3.  高市首相、維新・吉村代表と会談 - 衆院議員定数削減へ
+4.  神戸で中学硬式野球クラブハウス全焼、放火容疑で男逮捕
+5.  日経平均、一時1000円超安 - 日銀総裁発言で売り注文
+6.  米子市の養鶏場で鳥インフルエンザ発生か、7.5万羽飼育
 
 ----
 
-@financialtimes.com
+@nhknewsunofficial.bsky.social
 
-Billionaire Benettons strike private capital merger in expansion push on.ft.com/3MeCkss
+インドネシア 大雨で400人以上死亡 日本人8人孤立も7人救出
+https://news.web.nhk/newsweb/na/na-k10014990301000
 
-[2025-12-01 14:44:55](https://bsky.app/profile/financialtimes.com/post/3m6vpxdi3pc2j)
-
----
-
-@axios.com
-
-President Trump said he's decided who he'll nominate to be the next Federal Reserve chair — but he wouldn't be drawn on whether the pick is the National Economic Council's Kevin Hassett, who's emerged as a front-runner.
-
-[2025-12-01 14:43:17](https://bsky.app/profile/axios.com/post/3m6vpufqr3c2g)
+[2025-12-01 15:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vr55wc5l2j)
 
 ---
 
 @reuters.com
 
-India's factory growth slows to nine-month low as US tariffs dent demand, PMI shows reut.rs/3XW1UoK
+Ole Miss promotes DC Pete Golding to replace Lane Kiffin as head coach reut.rs/43ZN1W0
 
-[2025-12-01 14:40:12](https://bsky.app/profile/reuters.com/post/3m6vpovmkph26)
+[2025-12-01 15:05:11](https://bsky.app/profile/reuters.com/post/3m6vr3l52552o)
 
 ---
 
 @nikkei.com
 
-流行語大賞、高市首相「働いて働いて働いて」　トップ10に古古古米
+武田信玄の狼煙vs特急あずさ　伝令、どっちが早い？
 www.nikkei.com/article/DGXZQO...
 
-[2025-12-01 14:36:46](https://bsky.app/profile/nikkei.com/post/3m6vpiqzk4h2i)
+4月の信玄公祭りの日。「上杉勢、信濃へ侵攻」を伝令する速さを競いました。
+
+19カ所の狼煙リレーと、JR中央本線の特急「あずさ」に乗って伝令を運んだ足軽が対決。その結果は――。
+
+[2025-12-01 15:00:47](https://bsky.app/profile/nikkei.com/post/3m6vqtpf7rx2k)
+
+---
+
+@reuters.com
+
+China's November new home prices climb but resale values extend declines, survey shows reut.rs/4irToXY
+
+[2025-12-01 15:00:47](https://bsky.app/profile/reuters.com/post/3m6vqtp3ult27)
+
+---
+
+@aljazeera.com
+
+Floods across Indonesia, Thailand, Malaysia and Sri Lanka have killed nearly 1,000 people in less than a week.
+
+[2025-12-01 15:00:22](https://bsky.app/profile/aljazeera.com/post/3m6vqsxwps62c)
+
+---
+
+@washingtonpost.com
+
+The lustrous “akoya” pearl, coveted around the world for their timeless beauty, originated in the calm waters and sheltered inlets of Japan's Ago Bay.
+
+But after 130 years, Ago Bay's pearl industry is facing an existential crisis.
+
+[2025-12-01 15:00:13](https://bsky.app/profile/washingtonpost.com/post/3m6vqspb2ee2e)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+高市首相 維新 吉村代表と会談 衆院議員定数 約1割削減の方針
+https://news.web.nhk/newsweb/na/na-k10014990861000
+
+[2025-12-01 15:00:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vqsgt7dq2r)
+
+---
+
+@cbsnews.com
+
+Meet Domer, one of Polymarket's biggest bettors who has wagered more than $400 million on the platform.
+
+[2025-12-01 15:00:01](https://bsky.app/profile/cbsnews.com/post/3m6vqsdnn3o2d)
+
+---
+
+@en.afp.com
+
+Israelis protest Netanyahu's pardon request.
+
+Hundreds protest outside President Herzog’s residence after Prime Minister Benjamin Netanyahu's announcement that he has requested a pardon. On trial for corruption, Netanyahu argues the long-running cases are tearing the country apart
+
+[2025-12-01 14:59:05](https://bsky.app/profile/en.afp.com/post/3m6vqqnylbl2x)
 
 ---
 
 @sokuho.news
 
-🛎️FNNより【速報】です。
+🛎️JNNより【速報】です。
 
-【速報】午前2時に江別市の公園駐車場でSNSで知り合った女性といると→男性が黒髪オールバックの男ら2人に襲われ数万円奪われる→“一時意識を失い”目を覚ますと男2人と女性もいない状…
-(2025-12-01 14:32) #ニュース
+【速報】中学硬式野球の強豪「ヤング神戸須磨クラブ」クラブハウス全焼 放火容疑で41歳の男を逮捕 神戸・西区
+(2025-12-01 14:51:28) #ニュース
 
-[2025-12-01 14:35:37](https://bsky.app/profile/sokuho.news/post/3m6vpgpsjn52x)
-
----
-
-@nbcnews.com
-
-The Broncos outlast the Commanders 27-26 in overtime for their ninth straight win, keeping them on top of the AFC West.
-
-[2025-12-01 14:34:00](https://bsky.app/profile/nbcnews.com/post/3m6vpdt4kep2y)
-
----
-
-@financialtimes.com
-
- The UK must escape the doom loop of low skills on.ft.com/3KuxmY6  | opinion
-
-[2025-12-01 14:32:11](https://bsky.app/profile/financialtimes.com/post/3m6vpalavqw2n)
-
----
-
-@financialtimes.com
-
- The best time to buy quality stocks is now on.ft.com/3Xr3dMo  | opinion
-
-[2025-12-01 14:32:11](https://bsky.app/profile/financialtimes.com/post/3m6vpakvy5p26)
-
----
-
-@financialtimes.com
-
- Ask a stylist: how do I look good for work and parties this Christmas? on.ft.com/48bvXPl  | opinion
-
-[2025-12-01 14:32:10](https://bsky.app/profile/financialtimes.com/post/3m6vpake6ii2v)
-
----
-
-@nikkei.com
-
-会社員、年末調整は自身でせよ（私見卓見）
-www.nikkei.com/article/DGXZQO...
-
-本来は納税者と国が直接行うべき精算事務を、雇用者へ恒常的に転嫁している点が問題。「会社任せ」が納税者意識を育ちにくくしている点も見逃せない。
-
-――米国公認会計士・大森朋章氏の見方です。
-
-[2025-12-01 14:30:47](https://bsky.app/profile/nikkei.com/post/3m6vp636par2w)
+[2025-12-01 14:56:07](https://bsky.app/profile/sokuho.news/post/3m6vqleditr2h)
 
 ---
 
