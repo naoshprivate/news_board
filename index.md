@@ -1,9 +1,9 @@
-# [2025-12-02 03:30 updated](2025_12_02.md)
+# [2025-12-02 03:50 updated](2025_12_02.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Four people killed, 40 injured in Russian strike on Ukraine's Dnipro, Kyiv says reut.rs/48tO7e8 <a href="https://bsky.app/profile/reuters.com/post/3m6x2gua27w22" target="_blank">reuters.com</a> (2025-12-02 03:25:13)</span><span style="padding-right:50px;">As children, they watched their parents work double shifts and multiple jobs. As adults, they gave their parents a version of the American dream by buying them a house. <a href="https://bsky.app/profile/nytimes.com/post/3m6x2gkzqyp2y" target="_blank">nytimes.com</a> (2025-12-02 03:25:03)</span><span style="padding-right:50px;">As regime change looms at the Fed, one candidate emerges as frontrunner for chair <a href="https://bsky.app/profile/cnbc.com/post/3m6x2ghileb2e" target="_blank">cnbc.com</a> (2025-12-02 03:25:00)</span><span style="padding-right:50px;">RBC raises 12-month S&P 500 target to 7,750 as more Wall Street firms turn bullish on stocks <a href="https://bsky.app/profile/yahoofinance.com/post/3m6x27jxplt2k" target="_blank">yahoofinance.com</a> (2025-12-02 03:21:07)</span><span style="padding-right:50px;"> India’s blockbuster labour reforms on.ft.com/4pGZ0QC  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m6x273atr62c" target="_blank">financialtimes.com</a> (2025-12-02 03:20:52)</span>
+<span style="padding-right:50px;">Accenture ties up with OpenAI to equip thousands of its employees with ChatGPT reut.rs/4iw9yzx <a href="https://bsky.app/profile/reuters.com/post/3m6x3knrstb2d" target="_blank">reuters.com</a> (2025-12-02 03:45:14)</span><span style="padding-right:50px;">Shopify outage: Shopping platform goes down for some users during Cyber Monday <a href="https://bsky.app/profile/cnbc.com/post/3m6x3jmq2rr2r" target="_blank">cnbc.com</a> (2025-12-02 03:44:39)</span><span style="padding-right:50px;">President Trump is expected to discuss Venezuela with top aides today amid threats of military action, sources say. <a href="https://bsky.app/profile/cbsnews.com/post/3m6x3goxiq52j" target="_blank">cbsnews.com</a> (2025-12-02 03:43:01)</span><span style="padding-right:50px;">Damaged Turkish tanker off Senegal was hit by explosions, manager says reut.rs/3KB9F0h <a href="https://bsky.app/profile/reuters.com/post/3m6x3cnllpq2i" target="_blank">reuters.com</a> (2025-12-02 03:40:45)</span><span style="padding-right:50px;">Shopify reports that its platform was suffering from multiple service outages, as Cyber Monday sales kicked off. <a href="https://bsky.app/profile/nbcnews.com/post/3m6x3bk6toq27" target="_blank">nbcnews.com</a> (2025-12-02 03:40:08)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49303.28 (🔻1015.31 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47541.45 (🔻39.40 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23337.52 (🔺165.17 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.42 (🔺4.72 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3082.00 (🔻50.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.45 (🔻0.61 : 2025-12-01)</span>
+<span style="padding-right:50px;">NIKKEI: 49303.28 (🔻1015.31 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47559.86 (🔻20.99 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23341.00 (🔺168.66 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.59 (🔺4.89 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3082.00 (🔻50.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.48 (🔻0.57 : 2025-12-01)</span>
   </div>
 </div>
 
@@ -32,94 +32,96 @@
 
 ## News Headlines
 
-1.  ロシアの攻撃でウクライナ・ドニプロで4人死亡、40人負傷
-2.  RBC、S&P500の目標株価を7,750に引き上げ
-3.  ターガ、ミッドストリーム企業を12.5億ドルで買収しパーミアンでの存在感強化
-4.  イーライリリー、肥満治療薬ゼップバウンドの価格を引き下げ
-5.  ゴールドマンサックス、ETFスポンサーのイノベーターを20億ドルで買収
-6.  南アフリカなどで画期的なHIV予防注射の公的投与開始
+1. Accenture、OpenAIと提携、従業員にChatGPT導入
+2. Shopifyで大規模障害発生、サイバーマンデーに影響
+3. トランプ大統領、ベネズエラ情勢で軍事行動を議論か
+4. トルコタンカー、セネガル沖で爆発事故
+5. オックスフォード、「rage bait」を2025年の「今年の言葉」に選出
+6. ロシアの攻撃でウクライナ・ドニプロで4人死亡、40人負傷
 
 ----
 
 @reuters.com
 
-Four people killed, 40 injured in Russian strike on Ukraine's Dnipro, Kyiv says reut.rs/48tO7e8
+Accenture ties up with OpenAI to equip thousands of its employees with ChatGPT reut.rs/4iw9yzx
 
-[2025-12-02 03:25:13](https://bsky.app/profile/reuters.com/post/3m6x2gua27w22)
-
----
-
-@nytimes.com
-
-As children, they watched their parents work double shifts and multiple jobs. As adults, they gave their parents a version of the American dream by buying them a house.
-
-[2025-12-02 03:25:03](https://bsky.app/profile/nytimes.com/post/3m6x2gkzqyp2y)
+[2025-12-02 03:45:14](https://bsky.app/profile/reuters.com/post/3m6x3knrstb2d)
 
 ---
 
 @cnbc.com
 
-As regime change looms at the Fed, one candidate emerges as frontrunner for chair
+Shopify outage: Shopping platform goes down for some users during Cyber Monday
 
-[2025-12-02 03:25:00](https://bsky.app/profile/cnbc.com/post/3m6x2ghileb2e)
-
----
-
-@yahoofinance.com
-
-RBC raises 12-month S&P 500 target to 7,750 as more Wall Street firms turn bullish on stocks
-
-[2025-12-02 03:21:07](https://bsky.app/profile/yahoofinance.com/post/3m6x27jxplt2k)
-
----
-
-@financialtimes.com
-
- India’s blockbuster labour reforms on.ft.com/4pGZ0QC  | opinion
-
-[2025-12-02 03:20:52](https://bsky.app/profile/financialtimes.com/post/3m6x273atr62c)
-
----
-
-@nbcnews.com
-
-President Trump said that he would release the results of his MRI test that he received in October.
-
-[2025-12-02 03:20:24](https://bsky.app/profile/nbcnews.com/post/3m6x26awxek2c)
+[2025-12-02 03:44:39](https://bsky.app/profile/cnbc.com/post/3m6x3jmq2rr2r)
 
 ---
 
 @cbsnews.com
 
-Bitcoin prices spiraled lower on Monday, temporarily dipping below $85,000 as investors continue a selloff that began in October.
+President Trump is expected to discuss Venezuela with top aides today amid threats of military action, sources say.
 
-
-
-[2025-12-02 03:20:01](https://bsky.app/profile/cbsnews.com/post/3m6x25kd7nx2g)
-
----
-
-@npr.org
-
-For the first time in three months, the White House is reopening for public tours, just in time for the holidays. n.pr/4418ii4
-
-[2025-12-02 03:19:20](https://bsky.app/profile/npr.org/post/3m6x24dsu4g2j)
-
----
-
-@npr.org
-
-In the decades since its release, "Wonderful Christmastime" has become a seasonal staple beloved by some but loathed by others. n.pr/4pyKudI
-
-[2025-12-02 03:17:05](https://bsky.app/profile/npr.org/post/3m6wzycp4gc2r)
+[2025-12-02 03:43:01](https://bsky.app/profile/cbsnews.com/post/3m6x3goxiq52j)
 
 ---
 
 @reuters.com
 
-Targa strengthens Permian presence with $1.25 billion deal for midstream firm reut.rs/3XtbNu2
+Damaged Turkish tanker off Senegal was hit by explosions, manager says reut.rs/3KB9F0h
 
-[2025-12-02 03:15:16](https://bsky.app/profile/reuters.com/post/3m6wzv2xefq2d)
+[2025-12-02 03:40:45](https://bsky.app/profile/reuters.com/post/3m6x3cnllpq2i)
+
+---
+
+@nbcnews.com
+
+Shopify reports that its platform was suffering from multiple service outages, as Cyber Monday sales kicked off.
+
+[2025-12-02 03:40:08](https://bsky.app/profile/nbcnews.com/post/3m6x3bk6toq27)
+
+---
+
+@usatoday.com
+
+The Oxford University Press promises it's not rage baiting with its two-word Word of the Year.
+
+The publishing house announced on Dec. 1 that its experts have named "rage bait" the 2025 Word of the Year.
+
+Read more: bit.ly/4rrFiu1
+
+[2025-12-02 03:36:12](https://bsky.app/profile/usatoday.com/post/3m6x32iqv4y2u)
+
+---
+
+@wsj.com
+
+Silicon Valley insiders have started calling Cursor, the AI coding tool, the fastest-growing product of all time. Millions of users love it, but they aren’t sure it will last.
+
+[2025-12-02 03:35:34](https://bsky.app/profile/wsj.com/post/3m6x2zf5sk424)
+
+---
+
+@reuters.com
+
+Damaged Shenzhou-20 spacecraft to return to Earth uncrewed for inspection reut.rs/43XDsqz
+
+[2025-12-02 03:35:11](https://bsky.app/profile/reuters.com/post/3m6x2yow37j27)
+
+---
+
+@en.afp.com
+
+In a yearly tradition going back to 1947, a Norwegian spruce arrives in London, where it will "grace" Trafalgar Square during the Christmas period. Paul Dimoldenberg, Lord Mayor of Westminster, says, "It really is the start of Christmas for many people in London".
+
+[2025-12-02 03:31:04](https://bsky.app/profile/en.afp.com/post/3m6x2rd7gk422)
+
+---
+
+@aljazeera.com
+
+Donald Trump warns against actions that could 'interfere with Syria’s evolution' amid new Israeli incursion, strikes.
+
+[2025-12-02 03:30:23](https://bsky.app/profile/aljazeera.com/post/3m6x2q3riyn2f)
 
 ---
 
