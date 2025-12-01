@@ -1,9 +1,9 @@
-# [2025-12-02 07:50 updated](2025_12_02.md)
+# [2025-12-02 08:10 updated](2025_12_02.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">接待するなら「飲むよりゴルフ」　企業の交際費は西高東低 www.nikkei.com/article/DGXZQO...  飲食や金品授受といった企業の交際費は2024年度、社員1人当たり月2万2823円。都道府県別では大阪府が最高で、京都府や神奈川県が続きます。  首都圏と比べて遠方の取引先を開拓する必要があり、接待の回数も多くなると推測されます。  コロナ禍以降、会食に代わって接待需要が高まったのがゴルフ。会員権平均価格は295万6000円まで上昇しています。 <a href="https://bsky.app/profile/nikkei.com/post/3m6xiz2smwc2k" target="_blank">nikkei.com</a> (2025-12-02 07:45:56)</span><span style="padding-right:50px;">US says it will use G20 presidency to focus on economic growth reut.rs/48xNvnD <a href="https://bsky.app/profile/reuters.com/post/3m6xixrdc462a" target="_blank">reuters.com</a> (2025-12-02 07:45:13)</span><span style="padding-right:50px;">EU drops complaint against Chinese trade curbs on Lithuania at WTO - document reut.rs/4avuu7M <a href="https://bsky.app/profile/reuters.com/post/3m6xip6zqqs22" target="_blank">reuters.com</a> (2025-12-02 07:40:25)</span><span style="padding-right:50px;">Artificial intelligence is increasingly emerging as a key wedge issue not just between the major political parties, but within them. <a href="https://bsky.app/profile/nbcnews.com/post/3m6xioqvxl32c" target="_blank">nbcnews.com</a> (2025-12-02 07:40:10)</span><span style="padding-right:50px;">Exclusive: Amber Energy plans to hold on to Citgo refineries after takeover reut.rs/44zUwmF <a href="https://bsky.app/profile/reuters.com/post/3m6xifu3rbn26" target="_blank">reuters.com</a> (2025-12-02 07:35:11)</span>
+<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】養鶏場で高病原性鳥インフルエンザ感染 7万5000羽の殺処分始まる 鳥取県米子市 (2025-12-02 08:06:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6xkbu6s272y" target="_blank">sokuho.news</a> (2025-12-02 08:08:45)</span><span style="padding-right:50px;">Bank of America says its wealth management clients may put up to 4% of their portfolio in crypto <a href="https://bsky.app/profile/yahoofinance.com/post/3m6xk55jj752k" target="_blank">yahoofinance.com</a> (2025-12-02 08:06:07)</span><span style="padding-right:50px;">French authorities detain two minors in terrorism probe reut.rs/44JqQn8 <a href="https://bsky.app/profile/reuters.com/post/3m6xk3hubim2n" target="_blank">reuters.com</a> (2025-12-02 08:05:11)</span><span style="padding-right:50px;">The 14 FEMA employees who signed the so-called Katrina declaration went back to work for a little while Monday — but the Department of Homeland Security now says that should never have happened. <a href="https://bsky.app/profile/axios.com/post/3m6xjz4asks27" target="_blank">axios.com</a> (2025-12-02 08:03:51)</span><span style="padding-right:50px;">Tayo and Dolu Lanlehin started their party rental side hustle Bay Area Kids Rentals by buying and storing 48 chairs in their basement in Oakland, California.  <a href="https://bsky.app/profile/cnbc.com/post/3m6xjy4xpkh23" target="_blank">cnbc.com</a> (2025-12-02 08:03:19)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49303.28 (🔻1015.31 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47289.33 (🔻291.52 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23275.92 (🔺103.58 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.92 (🔺5.22 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3082.00 (🔻50.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.42 (🔻0.64 : 2025-12-01)</span>
+<span style="padding-right:50px;">NIKKEI: 49303.28 (🔻1015.31 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47289.33 (🔻291.52 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23275.92 (🔺103.58 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.92 (🔺5.22 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3082.00 (🔻50.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.43 (🔺0.00 : 2025-12-01)</span>
   </div>
 </div>
 
@@ -32,106 +32,105 @@
 
 ## News Headlines
 
-1. 接待は「ゴルフ」が主流？企業の交際費、西高東低の傾向
-2. マイナ保険証が原則化、従来の保険証は暫定利用へ
-3. 武装ドローンが急速に拡散、5年で採用国が2倍に
-4. 高市首相、「進撃の巨人」のセリフを引用し投資を呼びかけ
-5. 財務省「隠された不祥事リスト」を入手か
-6. 尖閣諸島沖、中国海警局の船が一時領海侵入
+1. 鳥取県米子市で鳥インフルエンザ発生、7万5000羽殺処分開始
+2. 米国防長官、難破者殺害指示疑惑浮上 - 政府は否定
+3. 米特使、プーチン大統領とモスクワで会談へ
+4. マイナ保険証が原則化、今日から開始 - 紙保険証は暫定利用
+5. トランプ氏のMRI検査結果「正常」、極めて健康と確認
+6. AI搭載のぬいぐるみ登場、子供の想像力を刺激
 
 ----
 
-@nikkei.com
+@sokuho.news
 
-接待するなら「飲むよりゴルフ」　企業の交際費は西高東低
-www.nikkei.com/article/DGXZQO...
+🛎️JNNより【速報】です。
 
-飲食や金品授受といった企業の交際費は2024年度、社員1人当たり月2万2823円。都道府県別では大阪府が最高で、京都府や神奈川県が続きます。
+【速報】養鶏場で高病原性鳥インフルエンザ感染 7万5000羽の殺処分始まる 鳥取県米子市
+(2025-12-02 08:06:00) #ニュース
 
-首都圏と比べて遠方の取引先を開拓する必要があり、接待の回数も多くなると推測されます。
+[2025-12-02 08:08:45](https://bsky.app/profile/sokuho.news/post/3m6xkbu6s272y)
 
-コロナ禍以降、会食に代わって接待需要が高まったのがゴルフ。会員権平均価格は295万6000円まで上昇しています。
+---
 
-[2025-12-02 07:45:56](https://bsky.app/profile/nikkei.com/post/3m6xiz2smwc2k)
+@yahoofinance.com
+
+Bank of America says its wealth management clients may put up to 4% of their portfolio in crypto
+
+[2025-12-02 08:06:07](https://bsky.app/profile/yahoofinance.com/post/3m6xk55jj752k)
 
 ---
 
 @reuters.com
 
-US says it will use G20 presidency to focus on economic growth reut.rs/48xNvnD
+French authorities detain two minors in terrorism probe reut.rs/44JqQn8
 
-[2025-12-02 07:45:13](https://bsky.app/profile/reuters.com/post/3m6xixrdc462a)
-
----
-
-@reuters.com
-
-EU drops complaint against Chinese trade curbs on Lithuania at WTO - document reut.rs/4avuu7M
-
-[2025-12-02 07:40:25](https://bsky.app/profile/reuters.com/post/3m6xip6zqqs22)
+[2025-12-02 08:05:11](https://bsky.app/profile/reuters.com/post/3m6xk3hubim2n)
 
 ---
 
-@nbcnews.com
+@axios.com
 
-Artificial intelligence is increasingly emerging as a key wedge issue not just between the major political parties, but within them.
+The 14 FEMA employees who signed the so-called Katrina declaration went back to work for a little while Monday — but the Department of Homeland Security now says that should never have happened.
 
-[2025-12-02 07:40:10](https://bsky.app/profile/nbcnews.com/post/3m6xioqvxl32c)
-
----
-
-@reuters.com
-
-Exclusive: Amber Energy plans to hold on to Citgo refineries after takeover reut.rs/44zUwmF
-
-[2025-12-02 07:35:11](https://bsky.app/profile/reuters.com/post/3m6xifu3rbn26)
+[2025-12-02 08:03:51](https://bsky.app/profile/axios.com/post/3m6xjz4asks27)
 
 ---
 
 @cnbc.com
 
-Apple's artificial intelligence chief is stepping down, company says
+Tayo and Dolu Lanlehin started their party rental side hustle Bay Area Kids Rentals by buying and storing 48 chairs in their basement in Oakland, California. 
 
-[2025-12-02 07:34:27](https://bsky.app/profile/cnbc.com/post/3m6xiejqthx2r)
+[2025-12-02 08:03:19](https://bsky.app/profile/cnbc.com/post/3m6xjy4xpkh23)
 
 ---
 
 @nikkei.com
 
-マイナ保険証が原則に　きょう（2025年12月2日）から
+【アメリカで戦争犯罪の疑惑浮上】
+ヘグセス国防長官に難破者の殺害指示か、政府は否定
 www.nikkei.com/article/DGXZQO...
 
-従来の紙やプラスチックの保険証は1日に「有効期限」を迎えました。
+9月に「麻薬運搬船」を爆破した際に、海上で生存が確認できた乗組員を追撃し、殺害するよう指示していたと報じられました。
 
-2026年3月末まで暫定利用が認められます。
+国際人道法では、武力紛争下においても難破者や負傷者の保護が定められています。
 
-マイナ保険証により医師や薬剤師らが患者の受診歴や処方薬の情報を確認でき、重複投薬などを防げます。
+そもそも米軍による「麻薬運搬船」への攻撃自体も、国際法違反ではないかと国内外で批判されています。
 
-[2025-12-02 07:31:56](https://bsky.app/profile/nikkei.com/post/3m6xi7zxq342t)
+#ニュース
 
----
-
-@aljazeera.com
-
-Threatening emails say '2020 election was rigged', echoing Trump's false claims about the vote.
-
-[2025-12-02 07:30:21](https://bsky.app/profile/aljazeera.com/post/3m6xi56snqf2h)
+[2025-12-02 08:01:58](https://bsky.app/profile/nikkei.com/post/3m6xjvq5mh72z)
 
 ---
 
-@bloomberg.com
+@usatoday.com
 
-China’s yuan is heading for its best annual performance in five years as growing optimism about the nation’s assets and economy outweighs concerns over US trade tensions
+Millie Bobby Brown is adding yet another name to her moniker, revealing she changed her title following her wedding to Jake Bongiovi.
 
-[2025-12-02 07:30:17](https://bsky.app/profile/bloomberg.com/post/3m6xi535tpq2h)
+[2025-12-02 08:00:46](https://bsky.app/profile/usatoday.com/post/3m6xjtleosh26)
 
 ---
 
-@washingtonpost.com
+@nbcnews.com
 
-The Pentagon’s top general called senior lawmakers to discuss the legality of lethal military strikes around Latin America, as Republican-led panels vowed aggressive oversight following revelations that U.S. forces killed the survivors of a strike.
+After a meeting in Florida between U.S. and Ukrainian officials, the U.S. is now sending its special envoy to Moscow for face-to-face talks with Russian President Putin. It comes as Russia targeted Ukrainian troops and civilians in Kyiv, according to local officials. NBC News’ Richard Engel reports.
 
-[2025-12-02 07:30:10](https://bsky.app/profile/washingtonpost.com/post/3m6xi4uo7wb2h)
+[2025-12-02 08:00:30](https://bsky.app/profile/nbcnews.com/post/3m6xjt43evj2j)
+
+---
+
+@reuters.com
+
+Nippon Steel sees US Steel weak performance as temporary, executive says reut.rs/3M99MRi
+
+[2025-12-02 08:00:27](https://bsky.app/profile/reuters.com/post/3m6xjsyzvbm2n)
+
+---
+
+@wsj.com
+
+An archaeologist spent years studying the area around a lake in Turkey. Then he realized that the biggest treasure was hidden in the lake itself.
+
+[2025-12-02 08:00:26](https://bsky.app/profile/wsj.com/post/3m6xjsylis22h)
 
 ---
 
