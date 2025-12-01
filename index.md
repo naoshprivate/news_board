@@ -1,9 +1,9 @@
-# [2025-12-01 19:50 updated](2025_12_01.md)
+# [2025-12-01 20:10 updated](2025_12_01.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The weeks leading up to Christmas are typically a time of anticipation and preparation for Christians, but for some immigrant congregations the mood this Advent season isn't especially hopeful. n.pr/3KoRIlq <a href="https://bsky.app/profile/npr.org/post/3m6wav44duk2j" target="_blank">npr.org</a> (2025-12-01 19:47:54)</span><span style="padding-right:50px;">Indonesia flood death toll hits 502, official data shows reut.rs/4p9ROfU <a href="https://bsky.app/profile/reuters.com/post/3m6waqczvq52o" target="_blank">reuters.com</a> (2025-12-01 19:45:13)</span><span style="padding-right:50px;">衆院議員の定数削減 高市首相 自民党内での議論加速を指示 https://news.web.nhk/newsweb/na/na-k10014991111000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6waq2qlke2n" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 19:45:02)</span><span style="padding-right:50px;">Swiss prosecutors file charges against Credit Suisse and UBS on.ft.com/3MwuHh3 <a href="https://bsky.app/profile/financialtimes.com/post/3m6wanzif2i27" target="_blank">financialtimes.com</a> (2025-12-01 19:43:56)</span><span style="padding-right:50px;">Saudi Arabia's Hassana names Al-Sabty as CEO reut.rs/3KA2fdH <a href="https://bsky.app/profile/reuters.com/post/3m6wahnsdk62i" target="_blank">reuters.com</a> (2025-12-01 19:40:22)</span>
+<span style="padding-right:50px;">インドネシア 大雨で400人以上死亡 日本人7人救助 1人現地残る https://news.web.nhk/newsweb/na/na-k10014990301000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6wbvmpdd22j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 20:06:03)</span><span style="padding-right:50px;">Landmine casualties hit 4-year high as states exit ban treaty reut.rs/3KgieO3 <a href="https://bsky.app/profile/reuters.com/post/3m6wbtzd44v27" target="_blank">reuters.com</a> (2025-12-01 20:05:11)</span><span style="padding-right:50px;">India's industrial output grew just 0.4% in October, missing estimates <a href="https://bsky.app/profile/cnbc.com/post/3m6wbp6j4ol2o" target="_blank">cnbc.com</a> (2025-12-01 20:02:29)</span><span style="padding-right:50px;">「下請け」脱し成長へ　保管させられていた金型、融通し新製品開発 www.nikkei.com/article/DGXZQO...  金型はノウハウの固まり。本来、転用は許されません。  岡山市の部品会社は「転用できれば自動車業界全体のCO2排出量を抑えられる」と訴え、大手企業の承諾を得ました。 <a href="https://bsky.app/profile/nikkei.com/post/3m6wbm72ibo2k" target="_blank">nikkei.com</a> (2025-12-01 20:00:49)</span><span style="padding-right:50px;">Sri Lanka's cyclone death toll climbs to 355, with 366 missing reut.rs/4pEhFwl <a href="https://bsky.app/profile/reuters.com/post/3m6wblvsz7a2d" target="_blank">reuters.com</a> (2025-12-01 20:00:39)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49303.28 (🔻1015.31 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3082.00 (🔻50.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.24 (🔻0.81 : 2025-12-01)</span>
+<span style="padding-right:50px;">NIKKEI: 49303.28 (🔻1015.31 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3082.00 (🔻50.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.29 (🔻0.77 : 2025-12-01)</span>
   </div>
 </div>
 
@@ -32,100 +32,102 @@
 
 ## News Headlines
 
-1. インドネシア洪水、死者500人超え
-2. 千葉・京成成田駅近くで住宅火災、京成本線一部運転見合わせ
-3. 香港高層住宅火災、原因究明求める声
-4. トランプ氏、和平交渉でクレムリンへ
-5. 広陵高野球部、暴力問題で生徒書類送検
-6. 愛子さま、24歳の誕生日
+1. インドネシア大雨、死者500人超 邦人7人救助
+2. スリランカ サイクロン死者355人に
+3. 林芳正総務大臣 公選法違反で刑事告発
+4. 中央道で車両火災、諏訪IC～岡谷JCT間通行止め
+5. 東南アジア豪雨 死者1000人近くに
+6. 高市首相 衆院議員定数削減で自民党内議論指示
 
 ----
 
-@npr.org
-
-The weeks leading up to Christmas are typically a time of anticipation and preparation for Christians, but for some immigrant congregations the mood this Advent season isn't especially hopeful. n.pr/3KoRIlq
-
-[2025-12-01 19:47:54](https://bsky.app/profile/npr.org/post/3m6wav44duk2j)
-
----
-
-@reuters.com
-
-Indonesia flood death toll hits 502, official data shows reut.rs/4p9ROfU
-
-[2025-12-01 19:45:13](https://bsky.app/profile/reuters.com/post/3m6waqczvq52o)
-
----
-
 @nhknewsunofficial.bsky.social
 
-衆院議員の定数削減 高市首相 自民党内での議論加速を指示
-https://news.web.nhk/newsweb/na/na-k10014991111000
+インドネシア 大雨で400人以上死亡 日本人7人救助 1人現地残る
+https://news.web.nhk/newsweb/na/na-k10014990301000
 
-[2025-12-01 19:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6waq2qlke2n)
-
----
-
-@financialtimes.com
-
-Swiss prosecutors file charges against Credit Suisse and UBS on.ft.com/3MwuHh3
-
-[2025-12-01 19:43:56](https://bsky.app/profile/financialtimes.com/post/3m6wanzif2i27)
+[2025-12-01 20:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6wbvmpdd22j)
 
 ---
 
 @reuters.com
 
-Saudi Arabia's Hassana names Al-Sabty as CEO reut.rs/3KA2fdH
+Landmine casualties hit 4-year high as states exit ban treaty reut.rs/3KgieO3
 
-[2025-12-01 19:40:22](https://bsky.app/profile/reuters.com/post/3m6wahnsdk62i)
-
----
-
-@nbcnews.com
-
-President Trump says there's a “good chance” for a deal, but his bid for peace now heads to the Kremlin and faces more work with Kyiv after what the U.S. describes as “very productive” talks.
-
-[2025-12-01 19:40:09](https://bsky.app/profile/nbcnews.com/post/3m6wahbgt6y27)
+[2025-12-01 20:05:11](https://bsky.app/profile/reuters.com/post/3m6wbtzd44v27)
 
 ---
 
-@en.afp.com
+@cnbc.com
 
-🇺🇸 🇻🇪 US President Donald Trump has confirmed he has spoken with Venezuelan leader Nicolas Maduro amid soaring tensions between the two countries, while Caracas slammed what it called US preparations for an attack. 
-➡️ u.afp.com/ShLF
+India's industrial output grew just 0.4% in October, missing estimates
 
-[2025-12-01 19:40:01](https://bsky.app/profile/en.afp.com/post/3m6wagzh2el2a)
+[2025-12-01 20:02:29](https://bsky.app/profile/cnbc.com/post/3m6wbp6j4ol2o)
+
+---
+
+@nikkei.com
+
+「下請け」脱し成長へ　保管させられていた金型、融通し新製品開発
+www.nikkei.com/article/DGXZQO...
+
+金型はノウハウの固まり。本来、転用は許されません。
+
+岡山市の部品会社は「転用できれば自動車業界全体のCO2排出量を抑えられる」と訴え、大手企業の承諾を得ました。
+
+[2025-12-01 20:00:49](https://bsky.app/profile/nikkei.com/post/3m6wbm72ibo2k)
+
+---
+
+@reuters.com
+
+Sri Lanka's cyclone death toll climbs to 355, with 366 missing reut.rs/4pEhFwl
+
+[2025-12-01 20:00:39](https://bsky.app/profile/reuters.com/post/3m6wblvsz7a2d)
 
 ---
 
 @sokuho.news
 
-🛎️JNNより【速報】です。
+🛎️文春より【スクープ】です。
 
-【速報】千葉・京成成田駅近くの住宅で火事 京成本線の一部区間で運転見合わせ
-(2025-12-01 19:38:21) #ニュース
+林芳正総務大臣がついに公職選挙法違反で刑事告発された！「常習犯の可能性」「大規模買収事件が明るみに」
+(2025-12-01 20:00) #ニュース
 
-🚃鉄道運行情報
-🔗https://transit.yahoo.co.jp/diainfo
-
-[2025-12-01 19:39:35](https://bsky.app/profile/sokuho.news/post/3m6wagaxcxd2h)
+[2025-12-01 20:00:27](https://bsky.app/profile/sokuho.news/post/3m6wblkhuag2d)
 
 ---
 
-@reuters.com
+@aljazeera.com
 
-The government's recovery efforts include restoring roads, bridges and telecommunication services. More than 28,000 homes have been damaged in Indonesia and 1.4 million people affected, according to the disaster agency. Read more: reut.rs/4rpXS5H 5/5
+Children as young as eight have been pushed to work for their families’ survival, losing their education and childhood.
 
-[2025-12-01 19:39:23](https://bsky.app/profile/reuters.com/post/3m6wajm42os2n)
+[2025-12-01 20:00:23](https://bsky.app/profile/aljazeera.com/post/3m6wblgl45a2l)
 
 ---
 
-@reuters.com
+@en.afp.com
 
-Under sunshine and clear blue skies in the town of Palembayan in Indonesia's West Sumatra, hundreds of people were clearing mud, trees and wreckage from roads as some residents tried to salvage valuable items like documents and motorcycles from their damaged homes 4/5
+🇦🇺 Australia's under-16 social media ban will make the nation a real-life laboratory on how best to tackle the technology's impact on young people, experts say. 
+➡️ u.afp.com/Shbo
 
-[2025-12-01 19:39:23](https://bsky.app/profile/reuters.com/post/3m6waiic2ss2n)
+[2025-12-01 20:00:22](https://bsky.app/profile/en.afp.com/post/3m6wblg4fu72d)
+
+---
+
+@nbcnews.com
+
+Israeli Prime Minister Benjamin Netanyahu has submitted a request for a formal pardon amid a yearslong corruption trial, just weeks after President Trump said he should be pardoned.
+
+[2025-12-01 20:00:19](https://bsky.app/profile/nbcnews.com/post/3m6wblcvaen2c)
+
+---
+
+@washingtonpost.com
+
+Days before the presidential election in Honduras, President Trump not only pledged his support for the conservative candidate, he also plans to pardon a former Honduran president, who was convicted of smuggling hundreds of tons of cocaine to the U.S.
+
+[2025-12-01 20:00:13](https://bsky.app/profile/washingtonpost.com/post/3m6wbl4xwgc2y)
 
 ---
 
