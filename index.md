@@ -1,9 +1,9 @@
-# [2025-12-01 11:50 updated](2025_12_01.md)
+# [2025-12-01 12:10 updated](2025_12_01.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">American standout Mikaela Shiffrin has dominated a World Cup slalom on home Colorado snow to remain perfect in the discipline during the Olympic season. <a href="https://bsky.app/profile/apnews.com/post/3m6vfvvgklx2t" target="_blank">apnews.com</a> (2025-12-01 11:45:09)</span><span style="padding-right:50px;">インドネシア 大雨で400人以上死亡 日本人8人が孤立状態 https://news.web.nhk/newsweb/na/na-k10014990301000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vfqexohk2n" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 11:42:01)</span><span style="padding-right:50px;">India equity benchmarks to open higher as GDP data tops forecast reut.rs/4omVo55 <a href="https://bsky.app/profile/reuters.com/post/3m6vfn3r3kw2r" target="_blank">reuters.com</a> (2025-12-01 11:40:14)</span><span style="padding-right:50px;">ウクライナ和平案 米特使をロシアに派遣へ プーチン氏と交渉も https://news.web.nhk/newsweb/na/na-k10014990521000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vffooeqh2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 11:36:03)</span><span style="padding-right:50px;">U.S. troops have become top gun traders, swapping investment tips from cockpits and the decks of aircraft carriers and making fortunes. <a href="https://bsky.app/profile/wsj.com/post/3m6vf5cg2ml2l" target="_blank">wsj.com</a> (2025-12-01 11:31:24)</span>
+<span style="padding-right:50px;">韓国 旧統一教会トップ ハン総裁側 裁判で起訴内容すべて否認 https://news.web.nhk/newsweb/na/na-k10014990571000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vhanv37z26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 12:09:02)</span><span style="padding-right:50px;">「次世代原発」いつ実現？ www.nikkei.com/article/DGXZQO...  国が本命視する「革新軽水炉」は建設コストが数兆円かかるとされ、国の経済支援が必要になります。  既存原発のような重大事故が起こりにくいとされる核融合発電の実用化はずっと先です。 <a href="https://bsky.app/profile/nikkei.com/post/3m6vgrvg3hg2t" target="_blank">nikkei.com</a> (2025-12-01 12:00:49)</span><span style="padding-right:50px;">In-N-Out to open 3 restaurants in Tennessee in 2025. See new locations. <a href="https://bsky.app/profile/usatoday.com/post/3m6vgrrqneu2d" target="_blank">usatoday.com</a> (2025-12-01 12:00:45)</span><span style="padding-right:50px;">Here are the key events from day 1,376 of Russia’s war on Ukraine. <a href="https://bsky.app/profile/aljazeera.com/post/3m6vgrh3zck2v" target="_blank">aljazeera.com</a> (2025-12-01 12:00:34)</span><span style="padding-right:50px;">James says 10-man Chelsea could have won against Arsenal reut.rs/43Ylhkw <a href="https://bsky.app/profile/reuters.com/post/3m6vgrfe3z52y" target="_blank">reuters.com</a> (2025-12-01 12:00:32)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49407.31 (🔻911.28 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3079.00 (🔻53.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.47 (🔻0.59 : 2025-12-01)</span>
+<span style="padding-right:50px;">NIKKEI: 49407.31 (🔻911.28 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3079.00 (🔻53.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.55 (🔻0.51 : 2025-12-01)</span>
   </div>
 </div>
 
@@ -32,104 +32,99 @@
 
 ## News Headlines
 
-1. シフリン、W杯スラロームで圧勝、五輪シーズン無敗維持
-2. インドネシア豪雨、死者1000人規模か、日本人8名避難へ
-3. 米特使、ウクライナ和平案でロシア派遣へ、プーチン氏と交渉も
-4. Adobe動画生成ツール、Google Geminiと連携、著作権トラブル回避
-5. 中国製造業、11月に予想外の縮小
-6. 株価一時900円以上値下がり、日銀総裁発言が影響
+1. 旧統一教会トップ、ハン総裁側が起訴内容を全面否認
+2. 「次世代原発」実現はいつ？建設コスト数兆円、国の支援が不可欠か
+3. In-N-Out、テネシー州に3店舗を2025年オープン
+4. 日銀総裁、次回会合で利上げの是非を判断へ
+5. インドネシア大雨、足止め日本人は安全な都市へ避難
+6. Adobe動画生成ツール、Google「Gemini」と連携
 
 ----
 
-@apnews.com
-
-American standout Mikaela Shiffrin has dominated a World Cup slalom on home Colorado snow to remain perfect in the discipline during the Olympic season.
-
-[2025-12-01 11:45:09](https://bsky.app/profile/apnews.com/post/3m6vfvvgklx2t)
-
----
-
 @nhknewsunofficial.bsky.social
 
-インドネシア 大雨で400人以上死亡 日本人8人が孤立状態
-https://news.web.nhk/newsweb/na/na-k10014990301000
+韓国 旧統一教会トップ ハン総裁側 裁判で起訴内容すべて否認
+https://news.web.nhk/newsweb/na/na-k10014990571000
 
-[2025-12-01 11:42:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vfqexohk2n)
-
----
-
-@reuters.com
-
-India equity benchmarks to open higher as GDP data tops forecast reut.rs/4omVo55
-
-[2025-12-01 11:40:14](https://bsky.app/profile/reuters.com/post/3m6vfn3r3kw2r)
-
----
-
-@nhknewsunofficial.bsky.social
-
-ウクライナ和平案 米特使をロシアに派遣へ プーチン氏と交渉も
-https://news.web.nhk/newsweb/na/na-k10014990521000
-
-[2025-12-01 11:36:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vffooeqh2b)
-
----
-
-@wsj.com
-
-U.S. troops have become top gun traders, swapping investment tips from cockpits and the decks of aircraft carriers and making fortunes.
-
-[2025-12-01 11:31:24](https://bsky.app/profile/wsj.com/post/3m6vf5cg2ml2l)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】豪雨で足止めの日本人8人は今日にも安全な都市に避難へ…木原官房長官がインドネシア豪雨被害の対応説明
-(2025-12-01 11:21) #ニュース
-
-[2025-12-01 11:31:03](https://bsky.app/profile/sokuho.news/post/3m6vf4orujw2h)
+[2025-12-01 12:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vhanv37z26)
 
 ---
 
 @nikkei.com
 
-Adobeの動画生成ツール､Google「Gemini」と連係
+「次世代原発」いつ実現？
 www.nikkei.com/article/DGXZQO...
 
-OpenAIなど外部のAIモデルもツール上で利用可能に。
+国が本命視する「革新軽水炉」は建設コストが数兆円かかるとされ、国の経済支援が必要になります。
 
-フォトストックサービス「Adobe Stock」の素材を学習しているため、著作権トラブルの恐れがありません。
+既存原発のような重大事故が起こりにくいとされる核融合発電の実用化はずっと先です。
 
-出力には「コンテンツ認証情報」を付与でき、独自のアイデアに基づいて生成した作品については「真正性を確保できるような仕組みになっている」（最高法務責任者）といいます。
-
-[2025-12-01 11:30:47](https://bsky.app/profile/nikkei.com/post/3m6vf46pjqw2e)
-
----
-
-@reuters.com
-
-Asian stocks steady on Fed rate-cut optimism; yen firms reut.rs/4op7SJy
-
-[2025-12-01 11:30:20](https://bsky.app/profile/reuters.com/post/3m6vf3fut5e2o)
+[2025-12-01 12:00:49](https://bsky.app/profile/nikkei.com/post/3m6vgrvg3hg2t)
 
 ---
 
 @usatoday.com
 
-The U.S. military said on Sunday that it recently destroyed 15 sites containing Islamic State weapons caches in southern Syria.
+In-N-Out to open 3 restaurants in Tennessee in 2025. See new locations.
 
-[2025-12-01 11:30:19](https://bsky.app/profile/usatoday.com/post/3m6vf3esb3c2u)
+[2025-12-01 12:00:45](https://bsky.app/profile/usatoday.com/post/3m6vgrrqneu2d)
 
 ---
 
-@bloomberg.com
+@aljazeera.com
 
-China’s manufacturing activity surprisingly contracted in November for the first time in four months, according to a private survey
+Here are the key events from day 1,376 of Russia’s war on Ukraine.
 
-[2025-12-01 11:30:13](https://bsky.app/profile/bloomberg.com/post/3m6vf36z7n22q)
+[2025-12-01 12:00:34](https://bsky.app/profile/aljazeera.com/post/3m6vgrh3zck2v)
+
+---
+
+@reuters.com
+
+James says 10-man Chelsea could have won against Arsenal reut.rs/43Ylhkw
+
+[2025-12-01 12:00:32](https://bsky.app/profile/reuters.com/post/3m6vgrfe3z52y)
+
+---
+
+@cnbc.com
+
+Cashmere apparel brand Naadam began with a surprise trip to the Gobi Desert and a $2.5 million loan that used CEO Matt Scanlan's parents' house as collateral.
+
+[2025-12-01 12:00:27](https://bsky.app/profile/cnbc.com/post/3m6vgras4cp2i)
+
+---
+
+@apnews.com
+
+GlitterLab, a company in southern Poland, specializes in creating unique Christmas decorations. Known as the "magicians of glass," they craft custom ornaments for clients like Swarovski and Harrods.
+
+[2025-12-01 12:00:20](https://bsky.app/profile/apnews.com/post/3m6vgr2flce2h)
+
+---
+
+@washingtonpost.com
+
+Sure, vomiting is allowed (but discouraged), according to the rules of this ultramarathon. Each participant must run to nine Taco Bells scattered across Virginia and D.C. At each location, they must purchase and eat an item off the menu. Drinks don’t count.
+
+[2025-12-01 12:00:07](https://bsky.app/profile/washingtonpost.com/post/3m6vgqnwdyn2h)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+「NHK歳末たすけあい・海外たすけあい」受け付け開始
+https://news.web.nhk/newsweb/na/na-k10014990561000
+
+[2025-12-01 12:00:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vgqlp65s2b)
+
+---
+
+@cbsnews.com
+
+These two products sold at Walmart are being recalled over safety concerns
+
+[2025-12-01 12:00:01](https://bsky.app/profile/cbsnews.com/post/3m6vgqi4ihb2d)
 
 ---
 
