@@ -1,9 +1,9 @@
-# [2025-12-02 06:30 updated](2025_12_02.md)
+# [2025-12-02 06:50 updated](2025_12_02.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">暗号資産 金融商品に位置づけへ 金融庁 改正案を来年提出方針 https://news.web.nhk/newsweb/na/na-k10014991371000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6xem3ceap2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-02 06:27:03)</span><span style="padding-right:50px;">The Oscar-winning costume designer has been enchanted by Oz and Munchkinland for most of his life. He created more than 1,000 looks for Wicked: For Good — including Elphaba's "sex cardigan." n.pr/3KpFCIX <a href="https://bsky.app/profile/npr.org/post/3m6xejwmnmb23" target="_blank">npr.org</a> (2025-12-02 06:25:53)</span><span style="padding-right:50px;">Early winter storm puts 16 million Americans under weather advisories reut.rs/48dhmTx <a href="https://bsky.app/profile/reuters.com/post/3m6xeinqvtd2r" target="_blank">reuters.com</a> (2025-12-02 06:25:11)</span><span style="padding-right:50px;">Starbucks will pay about $35 million to more than 15,000 New York City workers to settle claims it denied them stable schedules and arbitrarily cut their hours, city officials announce. <a href="https://bsky.app/profile/nbcnews.com/post/3m6xe7v46ua2h" target="_blank">nbcnews.com</a> (2025-12-02 06:20:16)</span><span style="padding-right:50px;">These are the 10 richest people in the world right now. <a href="https://bsky.app/profile/forbes.com/post/3m6xe73sa4c2m" target="_blank">forbes.com</a> (2025-12-02 06:19:50)</span>
+<span style="padding-right:50px;">中国の対日威圧、業種で温度差　低迷の自国経済へ飛び火懸念か www.nikkei.com/article/DGXZQO...  中国外務省の劉勁松アジア局長が日系大手メーカーの遼寧省大連市にある拠点を視察し、「安心して事業活動をしてほしい」と伝えました。  中国事業でとりわけ影響を受けているのがエンターテインメント業界です。  バンダイナムコHDは上海市で開く予定だったイベントを中止。歌手の浜崎あゆみさんのコンサートも中止となりました。 <a href="https://bsky.app/profile/nikkei.com/post/3m6xfnrws6n22" target="_blank">nikkei.com</a> (2025-12-02 06:45:57)</span><span style="padding-right:50px;">From Breakingviews - Breakingviews - Crypto hoarders veer from farce to tragedy reut.rs/3KkeUl0 <a href="https://bsky.app/profile/reuters.com/post/3m6xfmnkxhm27" target="_blank">reuters.com</a> (2025-12-02 06:45:18)</span><span style="padding-right:50px;">Black ice, snow showers and fog are pestering post-holiday travelers in the Midwest, while the Northeast is gearing up for its first major snowstorm of the season. <a href="https://bsky.app/profile/apnews.com/post/3m6xfmi36n72c" target="_blank">apnews.com</a> (2025-12-02 06:45:13)</span><span style="padding-right:50px;">ロシア ウクライナ東部の要衝ポクロウシクを掌握と発表 https://news.web.nhk/newsweb/na/na-k10014991541000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6xfmb2gg52p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-02 06:45:03)</span><span style="padding-right:50px;">ロシア ウクライナ東部の要衝を掌握と発表 https://news.web.nhk/newsweb/na/na-k10014991541000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6xfgutwxz2e" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-02 06:42:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49303.28 (🔻1015.31 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47289.33 (🔻291.52 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23275.92 (🔺103.58 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.92 (🔺5.22 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3082.00 (🔻50.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.46 (🔻0.60 : 2025-12-01)</span>
+<span style="padding-right:50px;">NIKKEI: 49303.28 (🔻1015.31 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47289.33 (🔻291.52 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23275.92 (🔺103.58 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.92 (🔺5.22 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3082.00 (🔻50.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.50 (🔻0.55 : 2025-12-01)</span>
   </div>
 </div>
 
@@ -32,95 +32,102 @@
 
 ## News Headlines
 
-1. 暗号資産、金融商品に位置づけへ 金融庁が改正案
-2. 米国、ベネズエラからの麻薬船に2度目の攻撃
-3. 「エル・チャポ」の息子、麻薬取引で有罪認める
-4. リニア山梨県駅、JR東海が4階建て駅舎の完成スケジュール発表
-5. REAL IDなしの航空旅客に45ドルの手数料
-6. 尖閣諸島沖、中国海警局の船が領海侵入
+1. 中国、対日威圧に温度差　自国経済への影響懸念
+2. 米中会談へ ウクライナ和平案で溝
+3. ロシア、ウクライナ東部要衝ポクロウシク掌握と発表
+4. ソフトバンクG孫社長、AIが世界GDPの10％に
+5. 金融庁、暗号資産を金融商品に位置づけへ
+6. 米国、ベネズエラ麻薬船へ2度目の攻撃　ホワイトハウスが発表
 
 ----
 
-@nhknewsunofficial.bsky.social
+@nikkei.com
 
-暗号資産 金融商品に位置づけへ 金融庁 改正案を来年提出方針
-https://news.web.nhk/newsweb/na/na-k10014991371000
+中国の対日威圧、業種で温度差　低迷の自国経済へ飛び火懸念か
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-02 06:27:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6xem3ceap2b)
+中国外務省の劉勁松アジア局長が日系大手メーカーの遼寧省大連市にある拠点を視察し、「安心して事業活動をしてほしい」と伝えました。
 
----
+中国事業でとりわけ影響を受けているのがエンターテインメント業界です。
 
-@npr.org
+バンダイナムコHDは上海市で開く予定だったイベントを中止。歌手の浜崎あゆみさんのコンサートも中止となりました。
 
-The Oscar-winning costume designer has been enchanted by Oz and Munchkinland for most of his life. He created more than 1,000 looks for Wicked: For Good — including Elphaba's "sex cardigan." n.pr/3KpFCIX
-
-[2025-12-02 06:25:53](https://bsky.app/profile/npr.org/post/3m6xejwmnmb23)
+[2025-12-02 06:45:57](https://bsky.app/profile/nikkei.com/post/3m6xfnrws6n22)
 
 ---
 
 @reuters.com
 
-Early winter storm puts 16 million Americans under weather advisories reut.rs/48dhmTx
+From Breakingviews - Breakingviews - Crypto hoarders veer from farce to tragedy reut.rs/3KkeUl0
 
-[2025-12-02 06:25:11](https://bsky.app/profile/reuters.com/post/3m6xeinqvtd2r)
-
----
-
-@nbcnews.com
-
-Starbucks will pay about $35 million to more than 15,000 New York City workers to settle claims it denied them stable schedules and arbitrarily cut their hours, city officials announce.
-
-[2025-12-02 06:20:16](https://bsky.app/profile/nbcnews.com/post/3m6xe7v46ua2h)
-
----
-
-@forbes.com
-
-These are the 10 richest people in the world right now.
-
-[2025-12-02 06:19:50](https://bsky.app/profile/forbes.com/post/3m6xe73sa4c2m)
-
----
-
-@nbcnews.com
-
-The White House confirms that the U.S. did launch a second strike on an alleged drug boat from Venezuela in early September.
-
-[2025-12-02 06:17:26](https://bsky.app/profile/nbcnews.com/post/3m6xe2sfbpl2c)
-
----
-
-@nytimes.com
-
-We were not surprised to find that toe shoes are ultra-comfortable. But our testers were stunned to find that we actually enjoyed working them into their wardrobes.
-
-[2025-12-02 06:17:06](https://bsky.app/profile/nytimes.com/post/3m6xe27v5he2m)
+[2025-12-02 06:45:18](https://bsky.app/profile/reuters.com/post/3m6xfmnkxhm27)
 
 ---
 
 @apnews.com
 
-<strong><span style="color: red;">BREAKING:</span> Joaquin Guzman Lopez, son of Mexican drug kingpin "El Chapo,’" pleads guilty to drug trafficking charges in Chicago.</strong>
+Black ice, snow showers and fog are pestering post-holiday travelers in the Midwest, while the Northeast is gearing up for its first major snowstorm of the season.
 
-[2025-12-02 06:16:57](https://bsky.app/profile/apnews.com/post/3m6xdzx2rdr2p)
+[2025-12-02 06:45:13](https://bsky.app/profile/apnews.com/post/3m6xfmi36n72c)
 
 ---
 
-@nikkei.com
+@nhknewsunofficial.bsky.social
 
-甲府市に新設するリニア中央新幹線山梨県駅（仮称）
-JR東海が4階建て駅舎の完成スケジュールを初めて示しました。
-www.nikkei.com/article/DGXZQO...
+ロシア ウクライナ東部の要衝ポクロウシクを掌握と発表
+https://news.web.nhk/newsweb/na/na-k10014991541000
 
-[2025-12-02 06:15:57](https://bsky.app/profile/nikkei.com/post/3m6xdy5ejn42m)
+[2025-12-02 06:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6xfmb2gg52p)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+ロシア ウクライナ東部の要衝を掌握と発表
+https://news.web.nhk/newsweb/na/na-k10014991541000
+
+[2025-12-02 06:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6xfgutwxz2e)
 
 ---
 
 @reuters.com
 
-US HHS names pediatric cardiologist Milhoan as chair of vaccine panel reut.rs/48cCQjh
+Dublin council delays vote on removing former Israeli president's name from park reut.rs/48JXFCR
 
-[2025-12-02 06:15:16](https://bsky.app/profile/reuters.com/post/3m6xdwwgrvq2k)
+[2025-12-02 06:40:25](https://bsky.app/profile/reuters.com/post/3m6xfdw7b5k27)
+
+---
+
+@nbcnews.com
+
+Senate Minority Leader Chuck Schumer says that several of his New York offices have faced bomb threats via an email with the subject line “MAGA.”
+
+[2025-12-02 06:40:11](https://bsky.app/profile/nbcnews.com/post/3m6xfdifp3r2j)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+ソフトバンクG 孫社長“将来世界GDPの10％はAIに置き換わる”
+https://news.web.nhk/newsweb/na/na-k10014991381000
+
+[2025-12-02 06:39:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6xfbjdbvj26)
+
+---
+
+@cnbc.com
+
+Santoli's Monday market wrap-up: Stocks struggle with a mild hangover after five-day buying binge
+
+[2025-12-02 06:36:48](https://bsky.app/profile/cnbc.com/post/3m6xf5gm5zh2x)
+
+---
+
+@reuters.com
+
+Swiss, German authorities shut down cryptomixer.io in money laundering crackdown reut.rs/4pC3d88
+
+[2025-12-02 06:35:11](https://bsky.app/profile/reuters.com/post/3m6xf2kjdez2y)
 
 ---
 
