@@ -1,9 +1,9 @@
-# [2025-12-02 00:10 updated](2025_12_02.md)
+# [2025-12-02 00:30 updated](2025_12_02.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Trump’s push for more AI data centers faces backlash from his own voters reut.rs/44I2avg <a href="https://bsky.app/profile/reuters.com/post/3m6wpb4td762d" target="_blank">reuters.com</a> (2025-12-02 00:05:09)</span><span style="padding-right:50px;">A district court previously found Habba was unlawfully appointed U.S. Attorney for New Jersey. <a href="https://bsky.app/profile/forbes.com/post/3m6wpb2sxpu2t" target="_blank">forbes.com</a> (2025-12-02 00:05:07)</span><span style="padding-right:50px;">Heard on the Street: Some investors might want to move a few eggs into the bond market basket. <a href="https://bsky.app/profile/wsj.com/post/3m6wp5oysyj2x" target="_blank">wsj.com</a> (2025-12-02 00:03:14)</span><span style="padding-right:50px;">New this AM: FEMA has ordered a group of employees to return to work after placing them on leave in August — and later dismissing one — for publicly raising concerns about the agency’s disaster-response capabilities.  Story w/@laurenthal.bsky.social, gift link: www.bloomberg.com/news/article... <a href="https://bsky.app/profile/zhirji.bsky.social/post/3m6wp2hsekk2l" target="_blank">zhirji.bsky.social</a> (2025-12-02 00:01:26)</span><span style="padding-right:50px;">Produced by Curtis Jackson, the four-part series, "Sean Combs: The Reckoning" shows the rise and fall of the Bad Boys Records founder. <a href="https://bsky.app/profile/usatoday.com/post/3m6wp2gta7c2x" target="_blank">usatoday.com</a> (2025-12-02 00:01:25)</span>
+<span style="padding-right:50px;">Christmas decorations at the White House, which were personally selected by first lady Melania Trump, aim to reflect the American spirit of generosity, patriotism and gratitude under the theme: "Home is Where the Heart Is." bit.ly/4pjksLW  📸: Anna Moneymaker, Getty Images <a href="https://bsky.app/profile/usatoday.com/post/3m6wqlydmo52x" target="_blank">usatoday.com</a> (2025-12-02 00:29:08)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】車いすの男性が踏切で列車にはねられ死亡 別府市・大分 (2025-12-02 00:15) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6wqfzuffh27" target="_blank">sokuho.news</a> (2025-12-02 00:25:48)</span><span style="padding-right:50px;">Morning Bid: A far from quiet end to the year reut.rs/4pFTLAA <a href="https://bsky.app/profile/reuters.com/post/3m6wqewcvke2e" target="_blank">reuters.com</a> (2025-12-02 00:25:10)</span><span style="padding-right:50px;">The release of the documentary series “Sean Combs: The Reckoning,” produced by 50 Cent, marks an escalation in what was once a low-stakes beef between two hip-hop luminaries. <a href="https://bsky.app/profile/nytimes.com/post/3m6wqeouf4f2y" target="_blank">nytimes.com</a> (2025-12-02 00:25:03)</span><span style="padding-right:50px;">NEW: A federal appeals court has disqualified Alina Habba as U.S. attorney for New Jersey <a href="https://bsky.app/profile/axios.com/post/3m6wq7umbr22s" target="_blank">axios.com</a> (2025-12-02 00:22:21)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49303.28 (🔻1015.31 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47529.57 (🔻51.28 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23251.07 (🔺78.73 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 178.71 (🔺4.01 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3082.00 (🔻50.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.06 (🔻0.99 : 2025-12-01)</span>
+<span style="padding-right:50px;">NIKKEI: 49303.28 (🔻1015.31 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47385.38 (🔻195.47 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23216.90 (🔺44.56 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 178.95 (🔺4.25 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3082.00 (🔻50.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.06 (🔻1.00 : 2025-12-01)</span>
   </div>
 </div>
 
@@ -32,96 +32,98 @@
 
 ## News Headlines
 
-1. トランプ氏のAIデータセンター推進、支持者から反発
-2. ハッバ氏、ニュージャージー州検事の任命違法と判決
-3. 債券市場への分散投資を検討すべきか
-4. FEMA、災害対応能力に懸念表明した職員に復職命令
-5. ショーン・コムズの栄光と没落を描くドキュメンタリー公開
-6. スペイン、バルセロナ近郊でアフリカ豚コレラ封じ込めのため軍派遣
+1. ホワイトハウスのクリスマス装飾、テーマは「心の故郷」
+2. 【速報】別府市で車椅子の男性が列車にはねられ死亡
+3. 米連邦控訴裁、Habba氏のN.J.州連邦検事就任を認めず
+4. トランプ氏、ベネズエラの空域閉鎖を検討、政府は反発
+5. ナイジェリアで誘拐事件多発、牧師と花嫁が標的に
+6. FEMA、災害対応能力への懸念を表明した職員に復帰命令
 
 ----
 
-@reuters.com
-
-Trump’s push for more AI data centers faces backlash from his own voters reut.rs/44I2avg
-
-[2025-12-02 00:05:09](https://bsky.app/profile/reuters.com/post/3m6wpb4td762d)
-
----
-
-@forbes.com
-
-A district court previously found Habba was unlawfully appointed U.S. Attorney for New Jersey.
-
-[2025-12-02 00:05:07](https://bsky.app/profile/forbes.com/post/3m6wpb2sxpu2t)
-
----
-
-@wsj.com
-
-Heard on the Street: Some investors might want to move a few eggs into the bond market basket.
-
-[2025-12-02 00:03:14](https://bsky.app/profile/wsj.com/post/3m6wp5oysyj2x)
-
----
-
-@zhirji.bsky.social
-
-New this AM: FEMA has ordered a group of employees to return to work after placing them on leave in August — and later dismissing one — for publicly raising concerns about the agency’s disaster-response capabilities.
-
-Story w/@laurenthal.bsky.social, gift link: www.bloomberg.com/news/article...
-
-[2025-12-02 00:01:26](https://bsky.app/profile/zhirji.bsky.social/post/3m6wp2hsekk2l)
-
----
-
 @usatoday.com
 
-Produced by Curtis Jackson, the four-part series, "Sean Combs: The Reckoning" shows the rise and fall of the Bad Boys Records founder.
+Christmas decorations at the White House, which were personally selected by first lady Melania Trump, aim to reflect the American spirit of generosity, patriotism and gratitude under the theme: "Home is Where the Heart Is." bit.ly/4pjksLW
 
-[2025-12-02 00:01:25](https://bsky.app/profile/usatoday.com/post/3m6wp2gta7c2x)
+📸: Anna Moneymaker, Getty Images
+
+[2025-12-02 00:29:08](https://bsky.app/profile/usatoday.com/post/3m6wqlydmo52x)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】車いすの男性が踏切で列車にはねられ死亡 別府市・大分
+(2025-12-02 00:15) #ニュース
+
+[2025-12-02 00:25:48](https://bsky.app/profile/sokuho.news/post/3m6wqfzuffh27)
 
 ---
 
 @reuters.com
 
-Spain deploys military to contain African swine fever near Barcelona reut.rs/4peyXjY
+Morning Bid: A far from quiet end to the year reut.rs/4pFTLAA
 
-[2025-12-02 00:01:20](https://bsky.app/profile/reuters.com/post/3m6wp2bwc2v2d)
+[2025-12-02 00:25:10](https://bsky.app/profile/reuters.com/post/3m6wqewcvke2e)
+
+---
+
+@nytimes.com
+
+The release of the documentary series “Sean Combs: The Reckoning,” produced by 50 Cent, marks an escalation in what was once a low-stakes beef between two hip-hop luminaries.
+
+[2025-12-02 00:25:03](https://bsky.app/profile/nytimes.com/post/3m6wqeouf4f2y)
+
+---
+
+@axios.com
+
+NEW: A federal appeals court has disqualified Alina Habba as U.S. attorney for New Jersey
+
+[2025-12-02 00:22:21](https://bsky.app/profile/axios.com/post/3m6wq7umbr22s)
+
+---
+
+@en.afp.com
+
+🇺🇦 EU foreign policy chief Kaja Kallas has warned that talks between Russian President Vladimir Putin and US envoy Steve Witkoff risk ramping up pressure on Ukraine to make concessions. 
+➡️ u.afp.com/ShEH
+
+[2025-12-02 00:20:24](https://bsky.app/profile/en.afp.com/post/3m6wq4fgaus2j)
+
+---
+
+@nbcnews.com
+
+President Trump posts that Venezuela’s airspace should be considered “closed in its entirety” as he weighs military action against the nation. Venezuela’s government said it “forcefully rejects” Trump’s claim about closing the airspace.
+
+[2025-12-02 00:20:23](https://bsky.app/profile/nbcnews.com/post/3m6wq4efqtt2h)
 
 ---
 
 @cnbc.com
 
-Raising happy kids starts with a calm, joyful morning routine. Child psychologist Reem Raouda has studied over 200 kids, and she's found that the happiest, most well-rounded kids have parents who do nine things with their children every morning.
+Appeals court disqualifies Trump's N.J. prosecutor pick Alina Habba, rejecting DOJ challenge
 
-[2025-12-02 00:01:03](https://bsky.app/profile/cnbc.com/post/3m6wozrtx6d2e)
-
----
-
-@washingtonpost.com
-
-People on weight-loss drugs have reported craving a crunchy carrot and tart kiwi over a salty chip.
-
-Ozempic and other drugs are changing how people spend their money. See how: 
-
-[2025-12-02 00:00:57](https://bsky.app/profile/washingtonpost.com/post/3m6wozmaef52o)
+[2025-12-02 00:17:01](https://bsky.app/profile/cnbc.com/post/3m6wpwdjlk72a)
 
 ---
 
-@cnn.com
+@reuters.com
 
-You know that feeling when you read something online and it seems deliberately provocative, almost manufactured to create outrage?
+Wall St opens lower ahead of Powell speech, manufacturing data reut.rs/4pFAJu6
 
-[2025-12-02 00:00:57](https://bsky.app/profile/cnn.com/post/3m6wozlootu2f)
+[2025-12-02 00:15:14](https://bsky.app/profile/reuters.com/post/3m6wpt4xbws2k)
 
 ---
 
-@apnews.com
+@forbes.com
 
-Laura Nolte of Germany and Kaysha Love of the U.S. have continued their strong starts to the World Cup bobsled season.
+Spotify’s annual end-of-year summaries faced criticism last year after including underwhelming features, like one that called some users a “pink pilates princess” for listening to pop music.
 
-[2025-12-02 00:00:38](https://bsky.app/profile/apnews.com/post/3m6woz2fe3d2r)
+[2025-12-02 00:15:03](https://bsky.app/profile/forbes.com/post/3m6wpstbpsl2x)
 
 ---
 
