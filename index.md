@@ -1,9 +1,9 @@
-# [2025-12-01 23:50 updated](2025_12_01.md)
+# [2025-12-02 00:10 updated](2025_12_02.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Luigi Mangione faces key evidence hearings over US healthcare executive's killing reut.rs/4ao0hYm <a href="https://bsky.app/profile/reuters.com/post/3m6wo5nsblm2e" target="_blank">reuters.com</a> (2025-12-01 23:45:19)</span><span style="padding-right:50px;">The pharmaceutical giant and Novo Nordisk said they would lower the prices of their popular weight loss drugs to expand access. <a href="https://bsky.app/profile/forbes.com/post/3m6wo56hwax2m" target="_blank">forbes.com</a> (2025-12-01 23:45:03)</span><span style="padding-right:50px;">Called "buy-now, pay-later" loans, they essentially work the way they sound. Shoppers borrow money to buy goods then pay the loan back over time, often interest-free. Experts share risks and benefits. <a href="https://bsky.app/profile/npr.org/post/3m6wo54kmju2f" target="_blank">npr.org</a> (2025-12-01 23:45:01)</span><span style="padding-right:50px;">US stocks drop at start of key month for markets on.ft.com/49Qe3mm <a href="https://bsky.app/profile/financialtimes.com/post/3m6wnylilsu26" target="_blank">financialtimes.com</a> (2025-12-01 23:42:29)</span><span style="padding-right:50px;">Swiss prosecutors indict UBS over Credit Suisse-era money laundering reut.rs/3KuaZ57 <a href="https://bsky.app/profile/reuters.com/post/3m6wnuq2vfg2i" target="_blank">reuters.com</a> (2025-12-01 23:40:20)</span>
+<span style="padding-right:50px;">Trump’s push for more AI data centers faces backlash from his own voters reut.rs/44I2avg <a href="https://bsky.app/profile/reuters.com/post/3m6wpb4td762d" target="_blank">reuters.com</a> (2025-12-02 00:05:09)</span><span style="padding-right:50px;">A district court previously found Habba was unlawfully appointed U.S. Attorney for New Jersey. <a href="https://bsky.app/profile/forbes.com/post/3m6wpb2sxpu2t" target="_blank">forbes.com</a> (2025-12-02 00:05:07)</span><span style="padding-right:50px;">Heard on the Street: Some investors might want to move a few eggs into the bond market basket. <a href="https://bsky.app/profile/wsj.com/post/3m6wp5oysyj2x" target="_blank">wsj.com</a> (2025-12-02 00:03:14)</span><span style="padding-right:50px;">New this AM: FEMA has ordered a group of employees to return to work after placing them on leave in August — and later dismissing one — for publicly raising concerns about the agency’s disaster-response capabilities.  Story w/@laurenthal.bsky.social, gift link: www.bloomberg.com/news/article... <a href="https://bsky.app/profile/zhirji.bsky.social/post/3m6wp2hsekk2l" target="_blank">zhirji.bsky.social</a> (2025-12-02 00:01:26)</span><span style="padding-right:50px;">Produced by Curtis Jackson, the four-part series, "Sean Combs: The Reckoning" shows the rise and fall of the Bad Boys Records founder. <a href="https://bsky.app/profile/usatoday.com/post/3m6wp2gta7c2x" target="_blank">usatoday.com</a> (2025-12-02 00:01:25)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49303.28 (🔻1015.31 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47543.40 (🔻37.45 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23198.71 (🔺26.37 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 178.10 (🔺3.40 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3082.00 (🔻50.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.00 (🔻1.05 : 2025-12-01)</span>
+<span style="padding-right:50px;">NIKKEI: 49303.28 (🔻1015.31 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47529.57 (🔻51.28 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23251.07 (🔺78.73 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 178.71 (🔺4.01 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3082.00 (🔻50.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.06 (🔻0.99 : 2025-12-01)</span>
   </div>
 </div>
 
@@ -32,105 +32,96 @@
 
 ## News Headlines
 
-1. 米国ヘルスケア幹部殺害事件、重要証拠審問へ
-2. 製薬大手、肥満治療薬の価格引き下げアクセス拡大
-3. スイス検察、UBSをクレディ・スイス時代のマネーロンダリングで起訴
-4. カリフォルニア州バースデーパーティー銃撃事件、犠牲者のうち3人が子供
-5. 香港の火災、逮捕者13人に増加　死者数はさらに増加の可能性
-6. トランプ氏の元弁護士、連邦控訴裁がニュージャージー州検察官の資格なしと判断
+1. トランプ氏のAIデータセンター推進、支持者から反発
+2. ハッバ氏、ニュージャージー州検事の任命違法と判決
+3. 債券市場への分散投資を検討すべきか
+4. FEMA、災害対応能力に懸念表明した職員に復職命令
+5. ショーン・コムズの栄光と没落を描くドキュメンタリー公開
+6. スペイン、バルセロナ近郊でアフリカ豚コレラ封じ込めのため軍派遣
 
 ----
 
 @reuters.com
 
-Luigi Mangione faces key evidence hearings over US healthcare executive's killing reut.rs/4ao0hYm
+Trump’s push for more AI data centers faces backlash from his own voters reut.rs/44I2avg
 
-[2025-12-01 23:45:19](https://bsky.app/profile/reuters.com/post/3m6wo5nsblm2e)
+[2025-12-02 00:05:09](https://bsky.app/profile/reuters.com/post/3m6wpb4td762d)
 
 ---
 
 @forbes.com
 
-The pharmaceutical giant and Novo Nordisk said they would lower the prices of their popular weight loss drugs to expand access.
+A district court previously found Habba was unlawfully appointed U.S. Attorney for New Jersey.
 
-[2025-12-01 23:45:03](https://bsky.app/profile/forbes.com/post/3m6wo56hwax2m)
-
----
-
-@npr.org
-
-Called "buy-now, pay-later" loans, they essentially work the way they sound. Shoppers borrow money to buy goods then pay the loan back over time, often interest-free. Experts share risks and benefits.
-
-[2025-12-01 23:45:01](https://bsky.app/profile/npr.org/post/3m6wo54kmju2f)
+[2025-12-02 00:05:07](https://bsky.app/profile/forbes.com/post/3m6wpb2sxpu2t)
 
 ---
 
-@financialtimes.com
+@wsj.com
 
-US stocks drop at start of key month for markets on.ft.com/49Qe3mm
+Heard on the Street: Some investors might want to move a few eggs into the bond market basket.
 
-[2025-12-01 23:42:29](https://bsky.app/profile/financialtimes.com/post/3m6wnylilsu26)
+[2025-12-02 00:03:14](https://bsky.app/profile/wsj.com/post/3m6wp5oysyj2x)
+
+---
+
+@zhirji.bsky.social
+
+New this AM: FEMA has ordered a group of employees to return to work after placing them on leave in August — and later dismissing one — for publicly raising concerns about the agency’s disaster-response capabilities.
+
+Story w/@laurenthal.bsky.social, gift link: www.bloomberg.com/news/article...
+
+[2025-12-02 00:01:26](https://bsky.app/profile/zhirji.bsky.social/post/3m6wp2hsekk2l)
+
+---
+
+@usatoday.com
+
+Produced by Curtis Jackson, the four-part series, "Sean Combs: The Reckoning" shows the rise and fall of the Bad Boys Records founder.
+
+[2025-12-02 00:01:25](https://bsky.app/profile/usatoday.com/post/3m6wp2gta7c2x)
 
 ---
 
 @reuters.com
 
-Swiss prosecutors indict UBS over Credit Suisse-era money laundering reut.rs/3KuaZ57
+Spain deploys military to contain African swine fever near Barcelona reut.rs/4peyXjY
 
-[2025-12-01 23:40:20](https://bsky.app/profile/reuters.com/post/3m6wnuq2vfg2i)
-
----
-
-@nbcnews.com
-
-Three of the four victims killed when gunfire erupted at a birthday party in Stockton, California, were children, according to officials. It comes as police search for the suspect or suspects who took the fatal shots.
-
-[2025-12-01 23:40:19](https://bsky.app/profile/nbcnews.com/post/3m6wnuphggg27)
+[2025-12-02 00:01:20](https://bsky.app/profile/reuters.com/post/3m6wp2bwc2v2d)
 
 ---
 
-@nytimes.com
+@cnbc.com
 
-What is the “right” age to get your child a smartphone? New study findings strengthen the case for holding off.
+Raising happy kids starts with a calm, joyful morning routine. Child psychologist Reem Raouda has studied over 200 kids, and she's found that the happiest, most well-rounded kids have parents who do nine things with their children every morning.
 
-[2025-12-01 23:40:04](https://bsky.app/profile/nytimes.com/post/3m6wnub3ahj2y)
-
----
-
-@en.afp.com
-
-🇭🇰 Authorities said Monday they have made a total 13 arrests over Hong Kong's deadliest fire in decades after the blaze killed 151 people last week, a toll that could further rise. 
-➡️ u.afp.com/ShEL
-
-[2025-12-01 23:40:02](https://bsky.app/profile/en.afp.com/post/3m6wnu6stdp2j)
+[2025-12-02 00:01:03](https://bsky.app/profile/cnbc.com/post/3m6wozrtx6d2e)
 
 ---
 
-@sokuho.news
+@washingtonpost.com
 
-🔔防災科研より【強震モニタ】動画です。
+People on weight-loss drugs have reported craving a crunchy carrot and tart kiwi over a salty chip.
 
-震源:熊本県阿蘇地方, 深さ:ごく浅い
-マグニチュード:2.0, 最大震度:1
-📍https://www.google.com/maps?q=33.0,131.1&ll=33.0,131.1&z=7&t=h
-地震発生日時:2025-12-01 23:35頃
-(10倍速▶90s→9s) #地震
+Ozempic and other drugs are changing how people spend their money. See how: 
 
-[2025-12-01 23:39:09](https://bsky.app/profile/sokuho.news/post/3m6wnsmop3z26)
+[2025-12-02 00:00:57](https://bsky.app/profile/washingtonpost.com/post/3m6wozmaef52o)
 
 ---
 
-@sokuho.news
+@cnn.com
 
-🔔気象庁より【地震速報】です。
+You know that feeling when you read something online and it seems deliberately provocative, almost manufactured to create outrage?
 
-23時35分頃、熊本県で最大震度1の地震を観測しました。
-震源:熊本県阿蘇地方, 深さ:ごく浅い, 規模:M2.0
-この地震による津波の心配はありません。
-(2025-12-01 23:38:47) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/01/2025-12-01-23-35-40.html?xlarge_image=1
+[2025-12-02 00:00:57](https://bsky.app/profile/cnn.com/post/3m6wozlootu2f)
 
-[2025-12-01 23:38:47](https://bsky.app/profile/sokuho.news/post/3m6wnryjo2q2y)
+---
+
+@apnews.com
+
+Laura Nolte of Germany and Kaysha Love of the U.S. have continued their strong starts to the World Cup bobsled season.
+
+[2025-12-02 00:00:38](https://bsky.app/profile/apnews.com/post/3m6woz2fe3d2r)
 
 ---
 
@@ -138,7 +129,7 @@ https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/01/2025-12-01-23-35
 
 ## 2025-12
 
-[12月01日](2025_12_01.md), 
+[12月02日](2025_12_02.md), [12月01日](2025_12_01.md), 
 
 ## 2025-11
 
