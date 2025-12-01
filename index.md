@@ -1,9 +1,9 @@
-# [2025-12-01 10:50 updated](2025_12_01.md)
+# [2025-12-01 11:10 updated](2025_12_01.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">President Trump said today he'll release the results of his October MRI scan, after Minnesota Gov. Tim Walz (D) called for him to do so and questioned the 79-year-old's health. <a href="https://bsky.app/profile/axios.com/post/3m6vcntwie22g" target="_blank">axios.com</a> (2025-12-01 10:46:58)</span><span style="padding-right:50px;">日銀 植田総裁 「利上げの是非 適切に判断」 https://news.web.nhk/newsweb/na/na-k10014990471000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vckm47yz2e" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 10:45:07)</span><span style="padding-right:50px;">株価 一時900円以上値下がり 日銀 植田総裁の発言受け売り注文 https://news.web.nhk/newsweb/na/na-k10014990511000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vcki2mxn2r" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 10:45:03)</span><span style="padding-right:50px;">🔔NHKより【速報 JUST IN】です。  株価 一時900円以上値下がり 日銀 植田総裁の発言受け売り注文 (2025-12-01 10:44:09) #ニュース https://news.web.nhk/newsweb/na/na-k10014990511000 <a href="https://bsky.app/profile/sokuho.news/post/3m6vcjjc7oc2m" target="_blank">sokuho.news</a> (2025-12-01 10:44:32)</span><span style="padding-right:50px;">Indian rupee, bond traders to take cues from RBI monetary policy decision reut.rs/4pJoMUv <a href="https://bsky.app/profile/reuters.com/post/3m6vcbva6po22" target="_blank">reuters.com</a> (2025-12-01 10:40:17)</span>
+<span style="padding-right:50px;">【きょうのおはBiz 12月1日(月)】ステーブルコイン 日本でも https://news.web.nhk/newsweb/na/na-k10014990461000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vdknxsk42j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 11:03:03)</span><span style="padding-right:50px;">Food and Drug Administration officials say they will ratchet up requirements for vaccine studies, citing concerns about COVID shots for kids. But public health experts question the agency's analysis. <a href="https://bsky.app/profile/npr.org/post/3m6vdjnsqay2i" target="_blank">npr.org</a> (2025-12-01 11:02:31)</span><span style="padding-right:50px;">China's factory activity unexpectedly contracts in November, missing estimates, private survey shows <a href="https://bsky.app/profile/cnbc.com/post/3m6vdjdu4wk2a" target="_blank">cnbc.com</a> (2025-12-01 11:02:21)</span><span style="padding-right:50px;">President Trump said today he'll release the results of his October MRI scan, after Minnesota Gov. Tim Walz called for him to do so and claimed that the president is "fading physically." <a href="https://bsky.app/profile/axios.com/post/3m6vdgzf6fc2g" target="_blank">axios.com</a> (2025-12-01 11:01:03)</span><span style="padding-right:50px;">愛子さま24歳に　ラオス訪問や初のお言葉、公務の幅広げ様々な経験 www.nikkei.com/article/DGXZQO...  11月には初の外国公式訪問としてラオスを訪問。  2025年は国際親善の機会に多く立ち会われました。  天皇ご一家では8月に三毛の子猫を迎え、「美海（みみ）」と名付けて育てています。 <a href="https://bsky.app/profile/nikkei.com/post/3m6vdgkotol22" target="_blank">nikkei.com</a> (2025-12-01 11:00:47)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49439.46 (🔻879.13 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3097.00 (🔻35.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.70 (🔻0.35 : 2025-12-01)</span>
+<span style="padding-right:50px;">NIKKEI: 49519.20 (🔻799.39 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3097.00 (🔻35.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.60 (🔻0.46 : 2025-12-01)</span>
   </div>
 </div>
 
@@ -32,104 +32,102 @@
 
 ## News Headlines
 
-1. トランプ氏、健康診断結果公開へ　年齢を巡る批判受け
-2. 日銀総裁「利上げ、適切に判断」発言で株価一時900円超下落
-3. 武器売上高、過去最高の6790億ドル　ウクライナ・ガザ戦争で需要増
-4. 中国公務員試験、競争率84倍　高失業率背景
-5. 北海道浦河町で震度3　津波の心配なし
-6. 「ノースフェイス」ゴールドウイン、PFASを年内使用せず
+1. ステーブルコイン、日本でも議論へ
+2. FDA、子供向けCOVIDワクチン研究で要件強化
+3. 中国の工場活動、予想外の縮小
+4. 愛子さま24歳、ラオス訪問など公務の幅広げる
+5. 日銀、12月会合で利上げの是非を検討
+6. 日本製鉄 室蘭の製鉄所で爆発、火災は鎮火へ
 
 ----
 
+@nhknewsunofficial.bsky.social
+
+【きょうのおはBiz 12月1日(月)】ステーブルコイン 日本でも
+https://news.web.nhk/newsweb/na/na-k10014990461000
+
+[2025-12-01 11:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vdknxsk42j)
+
+---
+
+@npr.org
+
+Food and Drug Administration officials say they will ratchet up requirements for vaccine studies, citing concerns about COVID shots for kids. But public health experts question the agency's analysis.
+
+[2025-12-01 11:02:31](https://bsky.app/profile/npr.org/post/3m6vdjnsqay2i)
+
+---
+
+@cnbc.com
+
+China's factory activity unexpectedly contracts in November, missing estimates, private survey shows
+
+[2025-12-01 11:02:21](https://bsky.app/profile/cnbc.com/post/3m6vdjdu4wk2a)
+
+---
+
 @axios.com
 
-President Trump said today he'll release the results of his October MRI scan, after Minnesota Gov. Tim Walz (D) called for him to do so and questioned the 79-year-old's health.
+President Trump said today he'll release the results of his October MRI scan, after Minnesota Gov. Tim Walz called for him to do so and claimed that the president is "fading physically."
 
-[2025-12-01 10:46:58](https://bsky.app/profile/axios.com/post/3m6vcntwie22g)
-
----
-
-@nhknewsunofficial.bsky.social
-
-日銀 植田総裁 「利上げの是非 適切に判断」
-https://news.web.nhk/newsweb/na/na-k10014990471000
-
-[2025-12-01 10:45:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vckm47yz2e)
-
----
-
-@nhknewsunofficial.bsky.social
-
-株価 一時900円以上値下がり 日銀 植田総裁の発言受け売り注文
-https://news.web.nhk/newsweb/na/na-k10014990511000
-
-[2025-12-01 10:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vcki2mxn2r)
-
----
-
-@sokuho.news
-
-<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>株価 一時900円以上値下がり 日銀 植田総裁の発言受け売り注文</strong><br><strong>(2025-12-01 10:44:09) #ニュース</strong><br><strong>https://news.web.nhk/newsweb/na/na-k10014990511000</strong>
-
-[2025-12-01 10:44:32](https://bsky.app/profile/sokuho.news/post/3m6vcjjc7oc2m)
-
----
-
-@reuters.com
-
-Indian rupee, bond traders to take cues from RBI monetary policy decision reut.rs/4pJoMUv
-
-[2025-12-01 10:40:17](https://bsky.app/profile/reuters.com/post/3m6vcbva6po22)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】ノースサファリサッポロが「動物移動計画書」をメールで市に提出＿12月中に移動する動物など記載も…全ての動物”引き続き調整中”警察の家宅捜索を受け期限を延期＿園内に残された…
-(2025-12-01 10:31) #ニュース
-
-[2025-12-01 10:35:48](https://bsky.app/profile/sokuho.news/post/3m6vbzvjpig24)
-
----
-
-@en.afp.com
-
-Sales by the world's top 100 arms makers reached a record $679 billion last year, with the wars in Ukraine and Gaza boosting demand, researchers say
-
-u.afp.com/Sh6p
-
-[2025-12-01 10:31:03](https://bsky.app/profile/en.afp.com/post/3m6vbrf72v42o)
-
----
-
-@financialtimes.com
-
-The rollout of the label follows a long tradition of corporate jargon to describe employees, including Disney’s ‘imagineers’ and Amazon’s ‘ninja coders’ on.ft.com/48J5Cbq
-
-[2025-12-01 10:31:02](https://bsky.app/profile/financialtimes.com/post/3m6vbrejblj2l)
+[2025-12-01 11:01:03](https://bsky.app/profile/axios.com/post/3m6vdgzf6fc2g)
 
 ---
 
 @nikkei.com
 
-中国の国家公務員試験、競争率84倍　高失業率背景に
+愛子さま24歳に　ラオス訪問や初のお言葉、公務の幅広げ様々な経験
 www.nikkei.com/article/DGXZQO...
 
-およそ3万8000人の採用枠に351万人が出願。日本の競争率は大卒総合職で9倍前後、大卒一般職で3倍前後です。
+11月には初の外国公式訪問としてラオスを訪問。
 
-一方、地方では公務員の給与が引き下げられる例が相次いでいます。山東省では3割減った上に支給が遅れているという報告も。
+2025年は国際親善の機会に多く立ち会われました。
 
-[2025-12-01 10:30:46](https://bsky.app/profile/nikkei.com/post/3m6vbqv5qvz2w)
+天皇ご一家では8月に三毛の子猫を迎え、「美海（みみ）」と名付けて育てています。
+
+[2025-12-01 11:00:47](https://bsky.app/profile/nikkei.com/post/3m6vdgkotol22)
+
+---
+
+@reuters.com
+
+BOJ to consider 'pros and cons' of rate increase at December meeting, Ueda says reut.rs/4owXUG9
+
+[2025-12-01 11:00:34](https://bsky.app/profile/reuters.com/post/3m6vdg5um422w)
+
+---
+
+@aljazeera.com
+
+Protesters rally outside President Isaac Herzog's home demanding he reject the prime minister's request for a pardon.
+
+[2025-12-01 11:00:23](https://bsky.app/profile/aljazeera.com/post/3m6vdftge342v)
 
 ---
 
 @usatoday.com
 
-Sen. Mark Kelly said the Armed Services Committee will put people connected to a strike on survivors of an attack on an alleged drug boat "under oath."
+Judi Dench has revealed in a new interview that a degenerative eye condition has left her unable to read or "recognize anybody."
 
-[2025-12-01 10:30:34](https://bsky.app/profile/usatoday.com/post/3m6vbqjg3yd26)
+[2025-12-01 11:00:21](https://bsky.app/profile/usatoday.com/post/3m6vdfrbwds2x)
+
+---
+
+@bloomberg.com
+
+Severe weather across parts of Asia has claimed nearly 1,000 lives, with Indonesia and Sri Lanka among the worst affected by heavy rainfall, flooding and landslides.
+
+[2025-12-01 11:00:18](https://bsky.app/profile/bloomberg.com/post/3m6vdfovwnt2m)
+
+---
+
+@washingtonpost.com
+
+Everyone knows the neon-bright red flags of dating like love bombing and breadcrumbing. But there are some more subtle patterns that are no less destructive.
+
+Here are a few:
+
+[2025-12-01 11:00:06](https://bsky.app/profile/washingtonpost.com/post/3m6vdfdv4vp2i)
 
 ---
 
