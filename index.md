@@ -1,9 +1,9 @@
-# [2025-12-01 14:30 updated](2025_12_01.md)
+# [2025-12-01 14:51 updated](2025_12_01.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">LIVE: Pope Leo continues his visit to Lebanon  www.youtube.com/watch?v=0ldI... <a href="https://bsky.app/profile/reuters.com/post/3m6voumh4bs2h" target="_blank">reuters.com</a> (2025-12-01 14:25:30)</span><span style="padding-right:50px;">株価 一時1000円以上値下がり 日銀植田総裁の発言受け売り注文 https://news.web.nhk/newsweb/na/na-k10014990511000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vos3jqpl2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 14:24:03)</span><span style="padding-right:50px;">With votes from 34% of polling places counted in Honduras’ presidential race, conservative candidates Nasry Asfura and Salvador Nasralla are in the lead and the governing LIBRE party is trailing. <a href="https://bsky.app/profile/apnews.com/post/3m6voqhavdi2h" target="_blank">apnews.com</a> (2025-12-01 14:23:10)</span><span style="padding-right:50px;">Revolut did not tell UK regulators CEO was listed as UAE resident on.ft.com/4pDJ01A <a href="https://bsky.app/profile/financialtimes.com/post/3m6vop2lrxd23" target="_blank">financialtimes.com</a> (2025-12-01 14:22:23)</span><span style="padding-right:50px;">東京 品川で住宅火災 1人意識不明 https://news.web.nhk/newsweb/na/na-k10014990801000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vomp3pc723" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 14:21:02)</span>
+<span style="padding-right:50px;">Billionaire Benettons strike private capital merger in expansion push on.ft.com/3MeCkss <a href="https://bsky.app/profile/financialtimes.com/post/3m6vpxdi3pc2j" target="_blank">financialtimes.com</a> (2025-12-01 14:44:55)</span><span style="padding-right:50px;">President Trump said he's decided who he'll nominate to be the next Federal Reserve chair — but he wouldn't be drawn on whether the pick is the National Economic Council's Kevin Hassett, who's emerged as a front-runner. <a href="https://bsky.app/profile/axios.com/post/3m6vpufqr3c2g" target="_blank">axios.com</a> (2025-12-01 14:43:17)</span><span style="padding-right:50px;">India's factory growth slows to nine-month low as US tariffs dent demand, PMI shows reut.rs/3XW1UoK <a href="https://bsky.app/profile/reuters.com/post/3m6vpovmkph26" target="_blank">reuters.com</a> (2025-12-01 14:40:12)</span><span style="padding-right:50px;">流行語大賞、高市首相「働いて働いて働いて」　トップ10に古古古米 www.nikkei.com/article/DGXZQO... <a href="https://bsky.app/profile/nikkei.com/post/3m6vpiqzk4h2i" target="_blank">nikkei.com</a> (2025-12-01 14:36:46)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】午前2時に江別市の公園駐車場でSNSで知り合った女性といると→男性が黒髪オールバックの男ら2人に襲われ数万円奪われる→“一時意識を失い”目を覚ますと男2人と女性もいない状… (2025-12-01 14:32) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6vpgpsjn52x" target="_blank">sokuho.news</a> (2025-12-01 14:35:37)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49266.78 (🔻1051.81 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3083.00 (🔻49.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.47 (🔻0.58 : 2025-12-01)</span>
+<span style="padding-right:50px;">NIKKEI: 49258.38 (🔻1060.21 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3088.00 (🔻44.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.55 (🔻0.50 : 2025-12-01)</span>
   </div>
 </div>
 
@@ -32,86 +32,45 @@
 
 ## News Headlines
 
-1. 日経平均株価、一時1000円超下落 - 利益確定売りと円高進行が要因
-2. 米子市の養鶏場で鳥インフルエンザ感染疑い、7万5千羽飼育
-3. 外国産米を日本米と偽り販売か - ベトナム国籍の経営者ら書類送検
-4. 自民・維新、衆院議員定数1割削減で合意
-5. 小中高生の自殺者数、過去最多529人 - 若者の心の健康悪化
-6. 植田日銀総裁発言で円高・株安 - 利上げ時期の憶測か
+1. ベネトン家、プライベートキャピタルと合併で事業拡大へ
+2. トランプ大統領、次期FRB議長の指名を決定か
+3. インド工場成長、9ヶ月ぶり低水準　米関税が需要に影響
+4. 日経平均一時1000円以上下落　植田総裁発言で売り注文
+5. 米子市の養鶏場で鳥インフルエンザ感染疑い、7.5万羽飼育
+6. 小中高生の自殺、過去最多529人　若者の心の健康悪化
 
 ----
 
-@reuters.com
-
-LIVE: Pope Leo continues his visit to Lebanon
-
-www.youtube.com/watch?v=0ldI...
-
-[2025-12-01 14:25:30](https://bsky.app/profile/reuters.com/post/3m6voumh4bs2h)
-
----
-
-@nhknewsunofficial.bsky.social
-
-株価 一時1000円以上値下がり 日銀植田総裁の発言受け売り注文
-https://news.web.nhk/newsweb/na/na-k10014990511000
-
-[2025-12-01 14:24:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vos3jqpl2p)
-
----
-
-@apnews.com
-
-With votes from 34% of polling places counted in Honduras’ presidential race, conservative candidates Nasry Asfura and Salvador Nasralla are in the lead and the governing LIBRE party is trailing.
-
-[2025-12-01 14:23:10](https://bsky.app/profile/apnews.com/post/3m6voqhavdi2h)
-
----
-
 @financialtimes.com
 
-Revolut did not tell UK regulators CEO was listed as UAE resident on.ft.com/4pDJ01A
+Billionaire Benettons strike private capital merger in expansion push on.ft.com/3MeCkss
 
-[2025-12-01 14:22:23](https://bsky.app/profile/financialtimes.com/post/3m6vop2lrxd23)
-
----
-
-@nhknewsunofficial.bsky.social
-
-東京 品川で住宅火災 1人意識不明
-https://news.web.nhk/newsweb/na/na-k10014990801000
-
-[2025-12-01 14:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vomp3pc723)
+[2025-12-01 14:44:55](https://bsky.app/profile/financialtimes.com/post/3m6vpxdi3pc2j)
 
 ---
 
-@sokuho.news
+@axios.com
 
-🛎️JNNより【速報】です。
+President Trump said he's decided who he'll nominate to be the next Federal Reserve chair — but he wouldn't be drawn on whether the pick is the National Economic Council's Kevin Hassett, who's emerged as a front-runner.
 
-【速報】米子市内の養鶏場で高病原性鳥インフルエンザ発生の疑い
-(2025-12-01 14:18:00) #ニュース
-
-[2025-12-01 14:20:41](https://bsky.app/profile/sokuho.news/post/3m6volytpek2g)
+[2025-12-01 14:43:17](https://bsky.app/profile/axios.com/post/3m6vpufqr3c2g)
 
 ---
 
 @reuters.com
 
-From Breakingviews - Breakingviews - Safety-first budget revives UK’s 1974 question reut.rs/48vYHkR
+India's factory growth slows to nine-month low as US tariffs dent demand, PMI shows reut.rs/3XW1UoK
 
-[2025-12-01 14:20:11](https://bsky.app/profile/reuters.com/post/3m6vol4fex52k)
+[2025-12-01 14:40:12](https://bsky.app/profile/reuters.com/post/3m6vpovmkph26)
 
 ---
 
-@sokuho.news
+@nikkei.com
 
-🛎️NNNより【速報】です。
+流行語大賞、高市首相「働いて働いて働いて」　トップ10に古古古米
+www.nikkei.com/article/DGXZQO...
 
-【速報】米子市の養鶏場で鳥インフルエンザの感染疑い この養鶏場では約7万5千羽を飼育 鳥取県
-(2025-12-01 14:17) #ニュース
-
-[2025-12-01 14:17:30](https://bsky.app/profile/sokuho.news/post/3m6vogd5ink2y)
+[2025-12-01 14:36:46](https://bsky.app/profile/nikkei.com/post/3m6vpiqzk4h2i)
 
 ---
 
@@ -119,24 +78,55 @@ From Breakingviews - Breakingviews - Safety-first budget revives UK’s 1974 que
 
 🛎️FNNより【速報】です。
 
-【速報】「日本米の販売始めました」うそのメッセージ送り『外国産米を日本米と偽って代金をだまし取った疑い』ベトナム国籍の輸入販売会社の経営者らを書類送検
-(2025-12-01 14:00) #ニュース
+【速報】午前2時に江別市の公園駐車場でSNSで知り合った女性といると→男性が黒髪オールバックの男ら2人に襲われ数万円奪われる→“一時意識を失い”目を覚ますと男2人と女性もいない状…
+(2025-12-01 14:32) #ニュース
 
-[2025-12-01 14:15:58](https://bsky.app/profile/sokuho.news/post/3m6vodku24i2l)
+[2025-12-01 14:35:37](https://bsky.app/profile/sokuho.news/post/3m6vpgpsjn52x)
 
 ---
 
-@sokuho.news
+@nbcnews.com
 
-🛎️JNNより【速報】です。
+The Broncos outlast the Commanders 27-26 in overtime for their ninth straight win, keeping them on top of the AFC West.
 
-【速報】日経平均 一時1000円以上値下がり 利益確定の売りや円高進行が要因
-(2025-12-01 14:08:19) #ニュース
+[2025-12-01 14:34:00](https://bsky.app/profile/nbcnews.com/post/3m6vpdt4kep2y)
 
-📉世界の株価
-🔗https://sekai-kabuka.com/
+---
 
-[2025-12-01 14:14:30](https://bsky.app/profile/sokuho.news/post/3m6voax22sx2p)
+@financialtimes.com
+
+ The UK must escape the doom loop of low skills on.ft.com/3KuxmY6  | opinion
+
+[2025-12-01 14:32:11](https://bsky.app/profile/financialtimes.com/post/3m6vpalavqw2n)
+
+---
+
+@financialtimes.com
+
+ The best time to buy quality stocks is now on.ft.com/3Xr3dMo  | opinion
+
+[2025-12-01 14:32:11](https://bsky.app/profile/financialtimes.com/post/3m6vpakvy5p26)
+
+---
+
+@financialtimes.com
+
+ Ask a stylist: how do I look good for work and parties this Christmas? on.ft.com/48bvXPl  | opinion
+
+[2025-12-01 14:32:10](https://bsky.app/profile/financialtimes.com/post/3m6vpake6ii2v)
+
+---
+
+@nikkei.com
+
+会社員、年末調整は自身でせよ（私見卓見）
+www.nikkei.com/article/DGXZQO...
+
+本来は納税者と国が直接行うべき精算事務を、雇用者へ恒常的に転嫁している点が問題。「会社任せ」が納税者意識を育ちにくくしている点も見逃せない。
+
+――米国公認会計士・大森朋章氏の見方です。
+
+[2025-12-01 14:30:47](https://bsky.app/profile/nikkei.com/post/3m6vp636par2w)
 
 ---
 
