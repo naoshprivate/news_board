@@ -1,9 +1,9 @@
-# [2025-12-01 19:10 updated](2025_12_01.md)
+# [2025-12-01 19:30 updated](2025_12_01.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">UK's Ofcom fines Virgin Media $31 million reut.rs/4q0rGo3 <a href="https://bsky.app/profile/reuters.com/post/3m6w6io6fjl27" target="_blank">reuters.com</a> (2025-12-01 19:05:09)</span><span style="padding-right:50px;">Ukraine peace talks shift to Moscow — the big unknown is whether Putin will play ball <a href="https://bsky.app/profile/cnbc.com/post/3m6w6h6hbys2o" target="_blank">cnbc.com</a> (2025-12-01 19:04:19)</span><span style="padding-right:50px;">Death toll in Indonesia floods passes 500 <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6w6fpmjtj2e" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-01 19:03:29)</span><span style="padding-right:50px;">無印良品 ネット通販一部受注再開 全商品再開は12月中旬見通し https://news.web.nhk/newsweb/na/na-k10014991071000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6w6exhnau2t" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 19:03:03)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】広陵野球部 暴力行為を加えた部員2人を書類送検 学校側に伝える (2025-12-01 18:50) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6w6bw6yr62h" target="_blank">sokuho.news</a> (2025-12-01 19:01:22)</span>
+<span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】広陵高野球部の暴力問題 3年の生徒2人を暴行の疑いで書類送検 学校関係者 (19:21) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6w7mmxc5g2g" target="_blank">sokuho.news</a> (2025-12-01 19:25:16)</span><span style="padding-right:50px;">Swiss billionaire calls for higher tax on rich reut.rs/4iufnOb <a href="https://bsky.app/profile/reuters.com/post/3m6w7miahp72k" target="_blank">reuters.com</a> (2025-12-01 19:25:11)</span><span style="padding-right:50px;">Millions of people in parts of New York, Pennsylvania and New England were under a winter storm watch early Monday, as forecasters warned that a potential nor’easter could leave up to a foot of snow by Tuesday.  Here's what to know. <a href="https://bsky.app/profile/nytimes.com/post/3m6w7mcgnpm22" target="_blank">nytimes.com</a> (2025-12-01 19:25:05)</span><span style="padding-right:50px;">A Bangladeshi court sentences ousted Prime Minister Sheikh Hasina to five years in prison and her niece, British Labour Party lawmaker Tulip Siddiq, to two years in prison for corruption involving a government land project. <a href="https://bsky.app/profile/nbcnews.com/post/3m6w7diy5un2f" target="_blank">nbcnews.com</a> (2025-12-01 19:20:09)</span><span style="padding-right:50px;">Bitcoin briefly dropped below $86,000 early on Monday, reversing the recovery it mounted last week following its worst month since the 2021 crypto crash. <a href="https://bsky.app/profile/forbes.com/post/3m6w7depdki2u" target="_blank">forbes.com</a> (2025-12-01 19:20:04)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49303.28 (🔻1015.31 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3082.00 (🔻50.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.24 (🔻0.81 : 2025-12-01)</span>
+<span style="padding-right:50px;">NIKKEI: 49303.28 (🔻1015.31 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3082.00 (🔻50.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.16 (🔻0.90 : 2025-12-01)</span>
   </div>
 </div>
 
@@ -32,105 +32,101 @@
 
 ## News Headlines
 
-1. 英Ofcom、ヴァージンメディアに3100万ドルの罰金
-2. インドネシア洪水、死者500人超え
-3. 広陵野球部、暴力行為で部員2人を書類送検
-4. 水戸ホーリーホック、J1初昇格の「奇跡」
-5. 無印良品ネット通販、一部受注再開へ
-6. ホンジュラス大統領選、野党候補が接戦
+1. 広陵高校野球部、暴力問題で部員2人を書類送検
+2. NYなど北東部で大雪の恐れ、冬の嵐に警戒
+3. バングラデシュ元首相に汚職で禁錮刑、姪は英議員
+4. ビットコイン一時急落、86,000ドル割れ
+5. 愛子さま、24歳の誕生日
+6. ホンジュラス大統領選、トランプ氏支持の保守派候補がリード
 
 ----
 
+@sokuho.news
+
+🔔ANNより【速報】です。
+
+【速報】広陵高野球部の暴力問題 3年の生徒2人を暴行の疑いで書類送検 学校関係者
+(19:21) #ニュース
+
+[2025-12-01 19:25:16](https://bsky.app/profile/sokuho.news/post/3m6w7mmxc5g2g)
+
+---
+
 @reuters.com
 
-UK's Ofcom fines Virgin Media $31 million reut.rs/4q0rGo3
+Swiss billionaire calls for higher tax on rich reut.rs/4iufnOb
 
-[2025-12-01 19:05:09](https://bsky.app/profile/reuters.com/post/3m6w6io6fjl27)
-
----
-
-@cnbc.com
-
-Ukraine peace talks shift to Moscow — the big unknown is whether Putin will play ball
-
-[2025-12-01 19:04:19](https://bsky.app/profile/cnbc.com/post/3m6w6h6hbys2o)
+[2025-12-01 19:25:11](https://bsky.app/profile/reuters.com/post/3m6w7miahp72k)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@nytimes.com
 
-Death toll in Indonesia floods passes 500
+Millions of people in parts of New York, Pennsylvania and New England were under a winter storm watch early Monday, as forecasters warned that a potential nor’easter could leave up to a foot of snow by Tuesday.
 
-[2025-12-01 19:03:29](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6w6fpmjtj2e)
+Here's what to know.
+
+[2025-12-01 19:25:05](https://bsky.app/profile/nytimes.com/post/3m6w7mcgnpm22)
+
+---
+
+@nbcnews.com
+
+A Bangladeshi court sentences ousted Prime Minister Sheikh Hasina to five years in prison and her niece, British Labour Party lawmaker Tulip Siddiq, to two years in prison for corruption involving a government land project.
+
+[2025-12-01 19:20:09](https://bsky.app/profile/nbcnews.com/post/3m6w7diy5un2f)
+
+---
+
+@forbes.com
+
+Bitcoin briefly dropped below $86,000 early on Monday, reversing the recovery it mounted last week following its worst month since the 2021 crypto crash.
+
+[2025-12-01 19:20:04](https://bsky.app/profile/forbes.com/post/3m6w7depdki2u)
+
+---
+
+@en.afp.com
+
+🏎️ The three-way F1 title fight will go down to the last race of the season after Max Verstappen took full advantage of a McLaren blunder to win the Qatar Grand Prix.
+#AFPSports  
+➡️ u.afp.com/ShLR
+
+[2025-12-01 19:20:02](https://bsky.app/profile/en.afp.com/post/3m6w7dbhfg22m)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-無印良品 ネット通販一部受注再開 全商品再開は12月中旬見通し
-https://news.web.nhk/newsweb/na/na-k10014991071000
+愛子さま 24歳の誕生日を迎え 上皇ご夫妻にあいさつ
+https://news.web.nhk/newsweb/na/na-k10014991091000
 
-[2025-12-01 19:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6w6exhnau2t)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】広陵野球部 暴力行為を加えた部員2人を書類送検 学校側に伝える
-(2025-12-01 18:50) #ニュース
-
-[2025-12-01 19:01:22](https://bsky.app/profile/sokuho.news/post/3m6w6bw6yr62h)
+[2025-12-01 19:18:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6w77w67p42n)
 
 ---
 
-@nikkei.com
+@nhknewsunofficial.bsky.social
 
-水戸ホーリーホックがJ1初昇格、貧乏球団の｢奇跡｣
-www.nikkei.com/article/DGXZQO...
+京成本線 沿線で住宅火災 一部運転見合わせ 千葉
+https://news.web.nhk/newsweb/na/na-k10014991151000
 
-「去年はJ3への降格争いだったのに、今年は優勝してJ1。信じられない」
+[2025-12-01 19:18:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6w77ryu4m2n)
 
-2000年にJ2に参入して以来、26年続いたJ2生活。売上高はJ1チーム平均の4分の1ほどで、年俸も高くありません。
+---
 
-「やりきる・走りきる・勝ちきる」のスローガンどおり、堅守速攻で選手たちが躍動しました。
+@npr.org
 
-一方で、本拠地スタジアムの移転という難題も迫っています。
+A new survey of centenarians finds a growing number of people living to 100 have prioritized healthy habits. Here's how exercise, social connection and positivity play a role in aging well. n.pr/4pFS0n4
 
-[2025-12-01 19:00:47](https://bsky.app/profile/nikkei.com/post/3m6w6auh43b2i)
+[2025-12-01 19:16:06](https://bsky.app/profile/npr.org/post/3m6w74b6fiu2i)
 
 ---
 
 @reuters.com
 
-Thai central bank planning measures to ease strong baht, sees room for rate cuts reut.rs/4rzNA2Y
+UK's easyJet completes Airbus A320 software updates reut.rs/44vHBCc
 
-[2025-12-01 19:00:44](https://bsky.app/profile/reuters.com/post/3m6w6arjflb27)
-
----
-
-@apnews.com
-
-Arkansas hired Ryan Silverfield away from Memphis as the Razorbacks’ new coach Sunday after a miserable 2-10 season filled with near misses.
-
-[2025-12-01 19:00:27](https://bsky.app/profile/apnews.com/post/3m6w6abeeli2p)
-
----
-
-@aljazeera.com
-
-Nasry Asfura holds a narrow lead over his rival Salvador Nasralla, with about 40 percent of the votes counted.
-
-[2025-12-01 19:00:18](https://bsky.app/profile/aljazeera.com/post/3m6w67z2dqr23)
-
----
-
-@bloomberg.com
-
-Shifting the cost of the tariffs to customers would mean a price increase of about 17%, CEO Yoshinori Kanehana told Bloomberg.
-
-[2025-12-01 19:00:13](https://bsky.app/profile/bloomberg.com/post/3m6w67twthf2d)
+[2025-12-01 19:15:13](https://bsky.app/profile/reuters.com/post/3m6w72ooqc52e)
 
 ---
 
