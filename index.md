@@ -1,9 +1,9 @@
-# [2025-12-01 13:10 updated](2025_12_01.md)
+# [2025-12-01 13:30 updated](2025_12_01.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】84歳運転の車が事故 歩行男性が意識不明の重体 兵庫・姫路市の信号のない交差点 「横断歩道を歩く人に衝突したのは間違いない」 (2025-12-01 12:18:05) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6vkdsee6t2x" target="_blank">sokuho.news</a> (2025-12-01 13:04:31)</span><span style="padding-right:50px;">Thousands of demonstrators including from the dominant Roman Catholic church clergy are protesting in the Philippines, calling for the swift prosecution of top legislators. n.pr/48brg8f <a href="https://bsky.app/profile/npr.org/post/3m6vkafhaww23" target="_blank">npr.org</a> (2025-12-01 13:02:36)</span><span style="padding-right:50px;">Negotiations between the U.S. and Ukraine today focused on where the de facto border with Russia would be drawn under a peace deal, two Ukrainian officials tell Axios. <a href="https://bsky.app/profile/axios.com/post/3m6vk7knrok2g" target="_blank">axios.com</a> (2025-12-01 13:02:08)</span><span style="padding-right:50px;">Bank Indonesia will bring rupiah to trade at 16,500 per dollar next year, governor says reut.rs/3KrTy53 <a href="https://bsky.app/profile/reuters.com/post/3m6vk553dku27" target="_blank">reuters.com</a> (2025-12-01 13:00:47)</span><span style="padding-right:50px;">名匠・小津安二郎を支えた謎の人　黒幕から銀幕へ www.nikkei.com/article/DGXZQO...  政財界の黒幕とうわさされた人物、菅原通済（みちなり）。  小津は通済との交流を重ね、1957年の「東京暮色」以降の作品に次々と出演させています。  何をした人物だったのでしょうか。  #映画の日 <a href="https://bsky.app/profile/nikkei.com/post/3m6vk54gtxp2w" target="_blank">nikkei.com</a> (2025-12-01 13:00:46)</span>
+<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】東京品川区の住宅密集地で2階建て住宅延焼中 男性1人が意識不明 女性1人がけが (2025-12-01 13:24:32) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6vlibxxgf2e" target="_blank">sokuho.news</a> (2025-12-01 13:24:55)</span><span style="padding-right:50px;">Rangers place D Adam Fox (upper body) on long-term injured reserve reut.rs/4pdNKeO <a href="https://bsky.app/profile/reuters.com/post/3m6vl7u26572d" target="_blank">reuters.com</a> (2025-12-01 13:20:12)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】「楽天モバイル 最強パーク宮城」へ来年1月1日から愛称変更へ 楽天イーグルス本拠地の宮城球場ネーミングライツ契約更新 (2025-12-01 13:17:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6vl7hedw626" target="_blank">sokuho.news</a> (2025-12-01 13:19:59)</span><span style="padding-right:50px;">Death toll from Sri Lanka floods, landslides rises to 334, reports disaster agency.  It is the worst natural disaster to hit the island in two decades, and officials say the extent of damage in the worst-affected central region is only just being revealed  u.afp.com/Sh6d <a href="https://bsky.app/profile/en.afp.com/post/3m6vl4aor752p" target="_blank">en.afp.com</a> (2025-12-01 13:18:11)</span><span style="padding-right:50px;">政府・与党 来年度の税制改正 暗号資産の所得 分離課税で調整 https://news.web.nhk/newsweb/na/na-k10014990791000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vkrdjjxq2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 13:12:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49334.15 (🔻984.44 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3079.00 (🔻53.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.43 (🔻0.62 : 2025-12-01)</span>
+<span style="padding-right:50px;">NIKKEI: 49293.27 (🔻1025.32 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3076.00 (🔻56.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.44 (🔻0.62 : 2025-12-01)</span>
   </div>
 </div>
 
@@ -32,14 +32,84 @@
 
 ## News Headlines
 
-1. 兵庫・姫路市: 84歳運転の車が事故、歩行者重体
-2. フィリピン: ローマ・カトリック教会が議員の起訴を求めデモ
-3. 米国とウクライナ: ロシアとの和平交渉で事実上の国境線が焦点
-4. 小津安二郎を支えた謎の人物、政財界の黒幕・菅原通済
-5. インドネシア: 来年、ルピアを1ドル16,500ルピアに誘導
-6. 維新・吉村氏、高市首相に議員定数削減の推進を強調
+1. 品川区住宅火災、男性意識不明・女性けが
+2. 楽天イーグルス本拠地、来年から「楽天モバイル 最強パーク宮城」に
+3. スリランカ洪水・地滑り、死者334人に増加
+4. 政府・与党、暗号資産の所得分離課税で調整
+5. 北海道江別市で強盗傷害事件、現金奪い逃走
+6. 兵庫・姫路市で84歳運転の車が事故、歩行者重体
 
 ----
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】東京品川区の住宅密集地で2階建て住宅延焼中 男性1人が意識不明 女性1人がけが
+(2025-12-01 13:24:32) #ニュース
+
+[2025-12-01 13:24:55](https://bsky.app/profile/sokuho.news/post/3m6vlibxxgf2e)
+
+---
+
+@reuters.com
+
+Rangers place D Adam Fox (upper body) on long-term injured reserve reut.rs/4pdNKeO
+
+[2025-12-01 13:20:12](https://bsky.app/profile/reuters.com/post/3m6vl7u26572d)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】「楽天モバイル 最強パーク宮城」へ来年1月1日から愛称変更へ 楽天イーグルス本拠地の宮城球場ネーミングライツ契約更新
+(2025-12-01 13:17:00) #ニュース
+
+[2025-12-01 13:19:59](https://bsky.app/profile/sokuho.news/post/3m6vl7hedw626)
+
+---
+
+@en.afp.com
+
+Death toll from Sri Lanka floods, landslides rises to 334, reports disaster agency.
+
+It is the worst natural disaster to hit the island in two decades, and officials say the extent of damage in the worst-affected central region is only just being revealed
+
+u.afp.com/Sh6d
+
+[2025-12-01 13:18:11](https://bsky.app/profile/en.afp.com/post/3m6vl4aor752p)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+政府・与党 来年度の税制改正 暗号資産の所得 分離課税で調整
+https://news.web.nhk/newsweb/na/na-k10014990791000
+
+[2025-12-01 13:12:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vkrdjjxq2p)
+
+---
+
+@reuters.com
+
+NHL roundup: Wyatt Johnston (3 goals), Stars pound Senators reut.rs/48qJHEO
+
+[2025-12-01 13:10:11](https://bsky.app/profile/reuters.com/post/3m6vknxa72i2w)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】強盗傷害事件発生 北海道江別市の公園で28歳の男性が男2人に襲われる 男らは現金数万円を強奪して逃走
+(2025-12-01 12:55:00) #ニュース
+
+[2025-12-01 13:09:43](https://bsky.app/profile/sokuho.news/post/3m6vkn3rv742w)
+
+---
 
 @sokuho.news
 
@@ -65,76 +135,6 @@ Thousands of demonstrators including from the dominant Roman Catholic church cle
 Negotiations between the U.S. and Ukraine today focused on where the de facto border with Russia would be drawn under a peace deal, two Ukrainian officials tell Axios.
 
 [2025-12-01 13:02:08](https://bsky.app/profile/axios.com/post/3m6vk7knrok2g)
-
----
-
-@reuters.com
-
-Bank Indonesia will bring rupiah to trade at 16,500 per dollar next year, governor says reut.rs/3KrTy53
-
-[2025-12-01 13:00:47](https://bsky.app/profile/reuters.com/post/3m6vk553dku27)
-
----
-
-@nikkei.com
-
-名匠・小津安二郎を支えた謎の人　黒幕から銀幕へ
-www.nikkei.com/article/DGXZQO...
-
-政財界の黒幕とうわさされた人物、菅原通済（みちなり）。
-
-小津は通済との交流を重ね、1957年の「東京暮色」以降の作品に次々と出演させています。
-
-何をした人物だったのでしょうか。
-
-#映画の日
-
-[2025-12-01 13:00:46](https://bsky.app/profile/nikkei.com/post/3m6vk54gtxp2w)
-
----
-
-@apnews.com
-
-Italian cultural officials are offering digital copies of Italian masterpieces as part of a new project to help museums raise money.
-
-[2025-12-01 13:00:35](https://bsky.app/profile/apnews.com/post/3m6vk4r6mv42p)
-
----
-
-@washingtonpost.com
-
-In Indigenous writer Thomas King’s 2020 novel “Indians on Vacation,” King said he was told as a child that his father was part Cherokee.
-
-A genealogist traced his paternal lineage and found no Indigenous ancestry.
-
-[2025-12-01 13:00:07](https://bsky.app/profile/washingtonpost.com/post/3m6vk3wftty2s)
-
----
-
-@cbsnews.com
-
-A telescope in Chile has captured a stunning new picture of a grand and graceful cosmic butterfly. Snapped last month by the Gemini South telescope, the aptly named Butterfly Nebula is 2,500 to 3,800 light-years away in the constellation Scorpius. cbsn.ws/4p6XGGL
-
-[2025-12-01 13:00:01](https://bsky.app/profile/cbsnews.com/post/3m6vk3rr6xm2j)
-
----
-
-@cbsnews.com
-
-D.C. National Guard shooting suspect spent "weeks on end" in isolation, struggled with mental health, 2024 emails say
-
-[2025-12-01 13:00:01](https://bsky.app/profile/cbsnews.com/post/3m6vk3qyrqh2m)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】強盗傷害事件発生 北海道江別市の公園で28歳の男性が男2人に襲われる 男らは逃走
-(2025-12-01 12:55:00) #ニュース
-
-[2025-12-01 12:59:33](https://bsky.app/profile/sokuho.news/post/3m6vk2w3zpw2p)
 
 ---
 
