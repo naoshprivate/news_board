@@ -1,9 +1,9 @@
-# [2025-12-01 20:30 updated](2025_12_01.md)
+# [2025-12-01 20:50 updated](2025_12_01.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;"> 🛍️ US shoppers spent a record $11.8 billion online on Black Friday, up 9% from last year — but is it real growth or just inflation? Hear the breakdown: reut.rs/4aloMFw <a href="https://bsky.app/profile/reuters.com/post/3m6wcysipfc2y" target="_blank">reuters.com</a> (2025-12-01 20:25:45)</span><span style="padding-right:50px;">Labuschagne backs under fire Khawaja ahead of second Ashes test reut.rs/48bns6N <a href="https://bsky.app/profile/reuters.com/post/3m6wcxrp74o27" target="_blank">reuters.com</a> (2025-12-01 20:25:11)</span><span style="padding-right:50px;">“生成AIのサービスで記事無断利用” 日本の3社が米企業に抗議 https://news.web.nhk/newsweb/na/na-k10014991141000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6wcvsbyd62g" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 20:24:02)</span><span style="padding-right:50px;">🇦🇺 Australia mum channels grief into social media limits  Mia Bannister's skin is inked with a eulogy to her teenage son Ollie, whose suicide after a battle with anorexia and online bullying pushed her to fight for world-first laws in Australia to get kids off social media. <a href="https://bsky.app/profile/en.afp.com/post/3m6wcpvsam52k" target="_blank">en.afp.com</a> (2025-12-01 20:20:47)</span><span style="padding-right:50px;">At issue is whether internet providers can be liable for their users' committing copyright violations using its services. n.pr/4pJUZLq <a href="https://bsky.app/profile/npr.org/post/3m6wcpo7eac2s" target="_blank">npr.org</a> (2025-12-01 20:20:39)</span>
+<span style="padding-right:50px;">Video shows the moment two Palestinian men were arrested by Israeli soldiers in the town of Qarawat Bani Hassan in the occupied West Bank. <a href="https://bsky.app/profile/aljazeera.com/post/3m6webckmgk2w" target="_blank">aljazeera.com</a> (2025-12-01 20:48:24)</span><span style="padding-right:50px;">千葉 成田 京成本線 線路沿いアパートで火事 一部運転見合わせ https://news.web.nhk/newsweb/na/na-k10014991151000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6weaoubxm2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 20:48:02)</span><span style="padding-right:50px;">Bitcoin drops 5% below $90,000; bearish factors rack up reut.rs/48JMD0n <a href="https://bsky.app/profile/reuters.com/post/3m6we3tiw442i" target="_blank">reuters.com</a> (2025-12-01 20:45:21)</span><span style="padding-right:50px;">Keir Starmer admits he planned to break manifesto pledge on income tax on.ft.com/4otI1jU <a href="https://bsky.app/profile/financialtimes.com/post/3m6wdwuir5r2c" target="_blank">financialtimes.com</a> (2025-12-01 20:42:34)</span><span style="padding-right:50px;">Intel stock holds 10% rise after analyst predicts major Apple deal <a href="https://bsky.app/profile/cnbc.com/post/3m6wdwmvb4d2i" target="_blank">cnbc.com</a> (2025-12-01 20:42:26)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49303.28 (🔻1015.31 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3082.00 (🔻50.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.20 (🔻0.85 : 2025-12-01)</span>
+<span style="padding-right:50px;">NIKKEI: 49303.28 (🔻1015.31 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3082.00 (🔻50.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.14 (🔻0.91 : 2025-12-01)</span>
   </div>
 </div>
 
@@ -32,96 +32,96 @@
 
 ## News Headlines
 
-1. 米国ブラックフライデー、オンライン売上高が過去最高の118億ドルを記録
-2. 日本企業3社、生成AIの記事無断利用で米企業に抗議
-3. オーストラリア、ソーシャルメディア規制で世界初の試み
-4. インドネシア豪雨、死者400人超え、邦人救助も
-5. 林芳正総務大臣、公職選挙法違反で刑事告発
-6. 高市首相、衆院議員の定数削減に向け自民党内議論加速を指示
+1.  西岸地区でパレスチナ人男性2名がイスラエル兵に逮捕
+2.  千葉・成田で京成本線沿いアパート火災、一部運転見合わせ
+3.  ビットコイン、9万ドル割れで5%急落
+4.  ゼレンスキー大統領、マクロン大統領と会談しウクライナ支援を要請
+5.  東京都、火葬料金高騰で実態調査開始
+6.  インドネシア大雨で400人超死亡、日本人7人救助
 
 ----
 
-@reuters.com
+@aljazeera.com
 
- 🛍️ US shoppers spent a record $11.8 billion online on Black Friday, up 9% from last year — but is it real growth or just inflation? Hear the breakdown: reut.rs/4aloMFw
+Video shows the moment two Palestinian men were arrested by Israeli soldiers in the town of Qarawat Bani Hassan in the occupied West Bank.
 
-[2025-12-01 20:25:45](https://bsky.app/profile/reuters.com/post/3m6wcysipfc2y)
-
----
-
-@reuters.com
-
-Labuschagne backs under fire Khawaja ahead of second Ashes test reut.rs/48bns6N
-
-[2025-12-01 20:25:11](https://bsky.app/profile/reuters.com/post/3m6wcxrp74o27)
+[2025-12-01 20:48:24](https://bsky.app/profile/aljazeera.com/post/3m6webckmgk2w)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-“生成AIのサービスで記事無断利用” 日本の3社が米企業に抗議
-https://news.web.nhk/newsweb/na/na-k10014991141000
+千葉 成田 京成本線 線路沿いアパートで火事 一部運転見合わせ
+https://news.web.nhk/newsweb/na/na-k10014991151000
 
-[2025-12-01 20:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6wcvsbyd62g)
-
----
-
-@en.afp.com
-
-🇦🇺 Australia mum channels grief into social media limits
-
-Mia Bannister's skin is inked with a eulogy to her teenage son Ollie, whose suicide after a battle with anorexia and online bullying pushed her to fight for world-first laws in Australia to get kids off social media.
-
-[2025-12-01 20:20:47](https://bsky.app/profile/en.afp.com/post/3m6wcpvsam52k)
-
----
-
-@npr.org
-
-At issue is whether internet providers can be liable for their users' committing copyright violations using its services. n.pr/4pJUZLq
-
-[2025-12-01 20:20:39](https://bsky.app/profile/npr.org/post/3m6wcpo7eac2s)
-
----
-
-@nbcnews.com
-
-Indonesia’s president told survivors of last week’s devastating floods that help was arriving to those in need as Asian governments scaled up their responses to a disaster that has left more than 1,000 dead in three countries.
-
-[2025-12-01 20:20:09](https://bsky.app/profile/nbcnews.com/post/3m6wcos2zgw2t)
-
----
-
-@nhknewsunofficial.bsky.social
-
-白いユニフォーム 下着透けるなど高校生女子約半数 困った経験
-https://news.web.nhk/newsweb/na/na-k10014991021000
-
-[2025-12-01 20:18:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6wcl3oqm62t)
+[2025-12-01 20:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6weaoubxm2j)
 
 ---
 
 @reuters.com
 
-Apple trying to stall India antitrust case by challenging penalty law, watchdog says reut.rs/4alff19
+Bitcoin drops 5% below $90,000; bearish factors rack up reut.rs/48JMD0n
 
-[2025-12-01 20:15:14](https://bsky.app/profile/reuters.com/post/3m6wcfypnig2i)
+[2025-12-01 20:45:21](https://bsky.app/profile/reuters.com/post/3m6we3tiw442i)
+
+---
+
+@financialtimes.com
+
+Keir Starmer admits he planned to break manifesto pledge on income tax on.ft.com/4otI1jU
+
+[2025-12-01 20:42:34](https://bsky.app/profile/financialtimes.com/post/3m6wdwuir5r2c)
 
 ---
 
 @cnbc.com
 
-Luminar Technologies CEO and founder Austin Russell, the world's youngest self-made billionaire, credits his success to two traits common among young people.
+Intel stock holds 10% rise after analyst predicts major Apple deal
 
-[2025-12-01 20:12:40](https://bsky.app/profile/cnbc.com/post/3m6wcbfyztz2q)
+[2025-12-01 20:42:26](https://bsky.app/profile/cnbc.com/post/3m6wdwmvb4d2i)
+
+---
+
+@en.afp.com
+
+🇺🇦 President Volodymyr Zelensky has sought to reinforce European support for Ukraine at a potentially pivotal moment in Kyiv's battle against the Russian invasion, meeting President Emmanuel Macron in Paris as Washington pushed a plan to end the war. 
+➡️ u.afp.com/Shb2
+
+[2025-12-01 20:40:34](https://bsky.app/profile/en.afp.com/post/3m6wdtcgyfg2p)
 
 ---
 
 @reuters.com
 
-European shares decline after November's gains as industrial stocks weigh reut.rs/4iyOLLU
+EssilorLuxottica's wearables chief Basilico to leave in January reut.rs/4iANunK
 
-[2025-12-01 20:10:20](https://bsky.app/profile/reuters.com/post/3m6wc5a4pdw27)
+[2025-12-01 20:40:16](https://bsky.app/profile/reuters.com/post/3m6wdsr6v3p2r)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+プロ野球クライマックスシリーズ 実行委が制度の見直しを検討
+https://news.web.nhk/newsweb/na/na-k10014991231000
+
+[2025-12-01 20:39:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6wdqnbt6726)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+東京都 火葬場など実態調査開始 火葬料金の値上げ相次ぐ中
+https://news.web.nhk/newsweb/na/na-k10014991191000
+
+[2025-12-01 20:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6wdlbc7gz2b)
+
+---
+
+@reuters.com
+
+TotalEnergies to sell 40% stake in Nigeria licenses to Chevron reut.rs/49U8wLL
+
+[2025-12-01 20:35:11](https://bsky.app/profile/reuters.com/post/3m6wdjof44z2d)
 
 ---
 
