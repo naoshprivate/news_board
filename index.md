@@ -1,9 +1,9 @@
-# [2025-12-01 14:10 updated](2025_12_01.md)
+# [2025-12-01 14:30 updated](2025_12_01.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】イーグルス本拠地 来年から「楽天モバイル 最強パーク宮城」へ (2025-12-01 14:06) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6vntm5hzk2w" target="_blank">sokuho.news</a> (2025-12-01 14:07:01)</span><span style="padding-right:50px;">トランプ大統領 “ベネズエラ大統領と電話会談行った” https://news.web.nhk/newsweb/na/na-k10014990831000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vns6hfmd2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 14:06:12)</span><span style="padding-right:50px;">高市首相 維新吉村代表と会談 衆院議員定数 約1割削減の方針 https://news.web.nhk/newsweb/na/na-k10014990861000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vnrzax4d2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 14:06:07)</span><span style="padding-right:50px;">「新語・流行語大賞」 2025年の年間大賞は https://news.web.nhk/newsweb/na/na-k10014990491000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vnruqfmm2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 14:06:02)</span><span style="padding-right:50px;">日銀 植田総裁 「利上げの是非 適切に判断」【ライブ】 https://news.web.nhk/newsweb/na/na-k10014990471000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vnmnwje32b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 14:03:07)</span>
+<span style="padding-right:50px;">LIVE: Pope Leo continues his visit to Lebanon  www.youtube.com/watch?v=0ldI... <a href="https://bsky.app/profile/reuters.com/post/3m6voumh4bs2h" target="_blank">reuters.com</a> (2025-12-01 14:25:30)</span><span style="padding-right:50px;">株価 一時1000円以上値下がり 日銀植田総裁の発言受け売り注文 https://news.web.nhk/newsweb/na/na-k10014990511000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vos3jqpl2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 14:24:03)</span><span style="padding-right:50px;">With votes from 34% of polling places counted in Honduras’ presidential race, conservative candidates Nasry Asfura and Salvador Nasralla are in the lead and the governing LIBRE party is trailing. <a href="https://bsky.app/profile/apnews.com/post/3m6voqhavdi2h" target="_blank">apnews.com</a> (2025-12-01 14:23:10)</span><span style="padding-right:50px;">Revolut did not tell UK regulators CEO was listed as UAE resident on.ft.com/4pDJ01A <a href="https://bsky.app/profile/financialtimes.com/post/3m6vop2lrxd23" target="_blank">financialtimes.com</a> (2025-12-01 14:22:23)</span><span style="padding-right:50px;">東京 品川で住宅火災 1人意識不明 https://news.web.nhk/newsweb/na/na-k10014990801000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vomp3pc723" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 14:21:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49316.52 (🔻1002.07 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3085.00 (🔻47.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.55 (🔻0.50 : 2025-12-01)</span>
+<span style="padding-right:50px;">NIKKEI: 49266.78 (🔻1051.81 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3083.00 (🔻49.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.47 (🔻0.58 : 2025-12-01)</span>
   </div>
 </div>
 
@@ -32,108 +32,111 @@
 
 ## News Headlines
 
-1. 楽天イーグルス本拠地、来年から「楽天モバイル 最強パーク宮城」へ
-2. 高市首相、維新吉村代表と会談　衆院議員定数1割削減で合意
-3. 日銀植田総裁、利上げの是非「適切に判断」
-4. 小中高生の自殺最多、若者の心の健康悪化深刻
-5. 政府・与党、従業員への食事費用補助 非課税限度額引き上げ検討
-6. 東京・品川で住宅火災、90代男性が重傷
+1. 日経平均株価、一時1000円超下落 - 利益確定売りと円高進行が要因
+2. 米子市の養鶏場で鳥インフルエンザ感染疑い、7万5千羽飼育
+3. 外国産米を日本米と偽り販売か - ベトナム国籍の経営者ら書類送検
+4. 自民・維新、衆院議員定数1割削減で合意
+5. 小中高生の自殺者数、過去最多529人 - 若者の心の健康悪化
+6. 植田日銀総裁発言で円高・株安 - 利上げ時期の憶測か
 
 ----
 
-@sokuho.news
+@reuters.com
 
-🛎️NNNより【速報】です。
+LIVE: Pope Leo continues his visit to Lebanon
 
-【速報】イーグルス本拠地 来年から「楽天モバイル 最強パーク宮城」へ
-(2025-12-01 14:06) #ニュース
+www.youtube.com/watch?v=0ldI...
 
-[2025-12-01 14:07:01](https://bsky.app/profile/sokuho.news/post/3m6vntm5hzk2w)
-
----
-
-@nhknewsunofficial.bsky.social
-
-トランプ大統領 “ベネズエラ大統領と電話会談行った”
-https://news.web.nhk/newsweb/na/na-k10014990831000
-
-[2025-12-01 14:06:12](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vns6hfmd2p)
+[2025-12-01 14:25:30](https://bsky.app/profile/reuters.com/post/3m6voumh4bs2h)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-高市首相 維新吉村代表と会談 衆院議員定数 約1割削減の方針
-https://news.web.nhk/newsweb/na/na-k10014990861000
+株価 一時1000円以上値下がり 日銀植田総裁の発言受け売り注文
+https://news.web.nhk/newsweb/na/na-k10014990511000
 
-[2025-12-01 14:06:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vnrzax4d2b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-「新語・流行語大賞」 2025年の年間大賞は
-https://news.web.nhk/newsweb/na/na-k10014990491000
-
-[2025-12-01 14:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vnruqfmm2k)
+[2025-12-01 14:24:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vos3jqpl2p)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@apnews.com
 
-日銀 植田総裁 「利上げの是非 適切に判断」【ライブ】
-https://news.web.nhk/newsweb/na/na-k10014990471000
+With votes from 34% of polling places counted in Honduras’ presidential race, conservative candidates Nasry Asfura and Salvador Nasralla are in the lead and the governing LIBRE party is trailing.
 
-[2025-12-01 14:03:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vnmnwje32b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-高市首相 “補正予算案を早期成立させたい” 政府与党連絡会議
-https://news.web.nhk/newsweb/na/na-k10014990541000
-
-[2025-12-01 14:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vnmjlggt2b)
+[2025-12-01 14:23:10](https://bsky.app/profile/apnews.com/post/3m6voqhavdi2h)
 
 ---
 
 @financialtimes.com
 
-Yen and bond yields rise after BoJ governor hints at rate increase on.ft.com/48bB02j
+Revolut did not tell UK regulators CEO was listed as UAE resident on.ft.com/4pDJ01A
 
-[2025-12-01 14:02:10](https://bsky.app/profile/financialtimes.com/post/3m6vnkvsc3d2l)
-
----
-
-@nikkei.com
-
-小中高の自殺最多529人､15～29歳は3000人超　25年白書（無料記事）
-www.nikkei.com/article/DGXZQO...
-
-[2025-12-01 14:00:51](https://bsky.app/profile/nikkei.com/post/3m6vnijwfce26)
+[2025-12-01 14:22:23](https://bsky.app/profile/financialtimes.com/post/3m6vop2lrxd23)
 
 ---
 
-@nikkei.com
+@nhknewsunofficial.bsky.social
 
-悪化する若者の心の健康　女子の自殺10年で2.6倍
-www.nikkei.com/article/DGXZQO...
+東京 品川で住宅火災 1人意識不明
+https://news.web.nhk/newsweb/na/na-k10014990801000
 
-日本では2024年、20歳未満の女子の自殺者数（430人）が男子（370人）を初めて上回りました。
- 
-要因の１つは学業関連のプレッシャー。
- 
-現代の女性は「家庭で子どもを育てるべきだ」などという伝統的な役割への期待に加え、学業や職業上での成功も求められ、二重の心理的負担を感じやすいといいます。
+[2025-12-01 14:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vomp3pc723)
 
-[2025-12-01 14:00:47](https://bsky.app/profile/nikkei.com/post/3m6vnigm3762g)
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】米子市内の養鶏場で高病原性鳥インフルエンザ発生の疑い
+(2025-12-01 14:18:00) #ニュース
+
+[2025-12-01 14:20:41](https://bsky.app/profile/sokuho.news/post/3m6volytpek2g)
 
 ---
 
 @reuters.com
 
-Indonesia's October trade surplus smaller than expected reut.rs/4rJxAvo
+From Breakingviews - Breakingviews - Safety-first budget revives UK’s 1974 question reut.rs/48vYHkR
 
-[2025-12-01 14:00:38](https://bsky.app/profile/reuters.com/post/3m6vni5kqee2o)
+[2025-12-01 14:20:11](https://bsky.app/profile/reuters.com/post/3m6vol4fex52k)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】米子市の養鶏場で鳥インフルエンザの感染疑い この養鶏場では約7万5千羽を飼育 鳥取県
+(2025-12-01 14:17) #ニュース
+
+[2025-12-01 14:17:30](https://bsky.app/profile/sokuho.news/post/3m6vogd5ink2y)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】「日本米の販売始めました」うそのメッセージ送り『外国産米を日本米と偽って代金をだまし取った疑い』ベトナム国籍の輸入販売会社の経営者らを書類送検
+(2025-12-01 14:00) #ニュース
+
+[2025-12-01 14:15:58](https://bsky.app/profile/sokuho.news/post/3m6vodku24i2l)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】日経平均 一時1000円以上値下がり 利益確定の売りや円高進行が要因
+(2025-12-01 14:08:19) #ニュース
+
+📉世界の株価
+🔗https://sekai-kabuka.com/
+
+[2025-12-01 14:14:30](https://bsky.app/profile/sokuho.news/post/3m6voax22sx2p)
 
 ---
 
