@@ -1,9 +1,9 @@
-# [2025-12-01 12:50 updated](2025_12_01.md)
+# [2025-12-01 13:10 updated](2025_12_01.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Pope urges Lebanese to embrace reconciliation, stay in crisis-hit country.  Lebanon rolled out the red carpet and a 21-gun salute for Leo, who was greeted at the airport by children and a brass band as ships at the port sounded their horns  u.afp.com/Sh6Y <a href="https://bsky.app/profile/en.afp.com/post/3m6viz6bget2x" target="_blank">en.afp.com</a> (2025-12-01 12:40:40)</span><span style="padding-right:50px;">China's November factory activity swings back to decline, private PMI shows reut.rs/44xWbsV <a href="https://bsky.app/profile/reuters.com/post/3m6viygpemd26" target="_blank">reuters.com</a> (2025-12-01 12:40:15)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】維新・吉村氏が高市首相に議員定数削減の実現要求 初の政府与党連絡会議で「合意を進めることが重要」 (2025-12-01 12:38) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6viwmtbwe2h" target="_blank">sokuho.news</a> (2025-12-01 12:39:15)</span><span style="padding-right:50px;">【バス廃線・ゴミ収集ままならず】 シニア頼みの現場、生活基盤崩れる予兆 www.nikkei.com/article/DGXZQO...  家庭ゴミ収集は週6日勤務が珍しくなく、炎天下での作業も多い過酷な仕事。  都内では約2000人の組合員のうち、毎年1〜2割が離職するといいます。 <a href="https://bsky.app/profile/nikkei.com/post/3m6vihirgcb2m" target="_blank">nikkei.com</a> (2025-12-01 12:30:47)</span><span style="padding-right:50px;">Taiwan airline seeks role in 'whole of society' defence with surveillance flights to counter China reut.rs/4p9D68D <a href="https://bsky.app/profile/reuters.com/post/3m6vigoic7k26" target="_blank">reuters.com</a> (2025-12-01 12:30:20)</span>
+<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】84歳運転の車が事故 歩行男性が意識不明の重体 兵庫・姫路市の信号のない交差点 「横断歩道を歩く人に衝突したのは間違いない」 (2025-12-01 12:18:05) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6vkdsee6t2x" target="_blank">sokuho.news</a> (2025-12-01 13:04:31)</span><span style="padding-right:50px;">Thousands of demonstrators including from the dominant Roman Catholic church clergy are protesting in the Philippines, calling for the swift prosecution of top legislators. n.pr/48brg8f <a href="https://bsky.app/profile/npr.org/post/3m6vkafhaww23" target="_blank">npr.org</a> (2025-12-01 13:02:36)</span><span style="padding-right:50px;">Negotiations between the U.S. and Ukraine today focused on where the de facto border with Russia would be drawn under a peace deal, two Ukrainian officials tell Axios. <a href="https://bsky.app/profile/axios.com/post/3m6vk7knrok2g" target="_blank">axios.com</a> (2025-12-01 13:02:08)</span><span style="padding-right:50px;">Bank Indonesia will bring rupiah to trade at 16,500 per dollar next year, governor says reut.rs/3KrTy53 <a href="https://bsky.app/profile/reuters.com/post/3m6vk553dku27" target="_blank">reuters.com</a> (2025-12-01 13:00:47)</span><span style="padding-right:50px;">名匠・小津安二郎を支えた謎の人　黒幕から銀幕へ www.nikkei.com/article/DGXZQO...  政財界の黒幕とうわさされた人物、菅原通済（みちなり）。  小津は通済との交流を重ね、1957年の「東京暮色」以降の作品に次々と出演させています。  何をした人物だったのでしょうか。  #映画の日 <a href="https://bsky.app/profile/nikkei.com/post/3m6vk54gtxp2w" target="_blank">nikkei.com</a> (2025-12-01 13:00:46)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49319.80 (🔻998.79 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3080.00 (🔻52.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.42 (🔻0.64 : 2025-12-01)</span>
+<span style="padding-right:50px;">NIKKEI: 49334.15 (🔻984.44 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3079.00 (🔻53.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.43 (🔻0.62 : 2025-12-01)</span>
   </div>
 </div>
 
@@ -32,91 +32,98 @@
 
 ## News Headlines
 
-1. 教皇、レバノン国民に和解を呼びかけ
-2. 中国、11月の工場活動が再び悪化
-3. 維新・吉村氏、高市首相に議員定数削減を要求
-4. シニア頼みの現場、バス廃線・ゴミ収集困難に
-5. 台湾航空、中国に対抗し監視飛行で防衛強化
-6. 日本製鉄 室蘭製鉄所で爆発火災、鎮火
+1. 兵庫・姫路市: 84歳運転の車が事故、歩行者重体
+2. フィリピン: ローマ・カトリック教会が議員の起訴を求めデモ
+3. 米国とウクライナ: ロシアとの和平交渉で事実上の国境線が焦点
+4. 小津安二郎を支えた謎の人物、政財界の黒幕・菅原通済
+5. インドネシア: 来年、ルピアを1ドル16,500ルピアに誘導
+6. 維新・吉村氏、高市首相に議員定数削減の推進を強調
 
 ----
 
-@en.afp.com
+@sokuho.news
 
-Pope urges Lebanese to embrace reconciliation, stay in crisis-hit country.
+🛎️JNNより【速報】です。
 
-Lebanon rolled out the red carpet and a 21-gun salute for Leo, who was greeted at the airport by children and a brass band as ships at the port sounded their horns
+【速報】84歳運転の車が事故 歩行男性が意識不明の重体 兵庫・姫路市の信号のない交差点 「横断歩道を歩く人に衝突したのは間違いない」
+(2025-12-01 12:18:05) #ニュース
 
-u.afp.com/Sh6Y
+[2025-12-01 13:04:31](https://bsky.app/profile/sokuho.news/post/3m6vkdsee6t2x)
 
-[2025-12-01 12:40:40](https://bsky.app/profile/en.afp.com/post/3m6viz6bget2x)
+---
+
+@npr.org
+
+Thousands of demonstrators including from the dominant Roman Catholic church clergy are protesting in the Philippines, calling for the swift prosecution of top legislators. n.pr/48brg8f
+
+[2025-12-01 13:02:36](https://bsky.app/profile/npr.org/post/3m6vkafhaww23)
+
+---
+
+@axios.com
+
+Negotiations between the U.S. and Ukraine today focused on where the de facto border with Russia would be drawn under a peace deal, two Ukrainian officials tell Axios.
+
+[2025-12-01 13:02:08](https://bsky.app/profile/axios.com/post/3m6vk7knrok2g)
 
 ---
 
 @reuters.com
 
-China's November factory activity swings back to decline, private PMI shows reut.rs/44xWbsV
+Bank Indonesia will bring rupiah to trade at 16,500 per dollar next year, governor says reut.rs/3KrTy53
 
-[2025-12-01 12:40:15](https://bsky.app/profile/reuters.com/post/3m6viygpemd26)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】維新・吉村氏が高市首相に議員定数削減の実現要求 初の政府与党連絡会議で「合意を進めることが重要」
-(2025-12-01 12:38) #ニュース
-
-[2025-12-01 12:39:15](https://bsky.app/profile/sokuho.news/post/3m6viwmtbwe2h)
+[2025-12-01 13:00:47](https://bsky.app/profile/reuters.com/post/3m6vk553dku27)
 
 ---
 
 @nikkei.com
 
-【バス廃線・ゴミ収集ままならず】
-シニア頼みの現場、生活基盤崩れる予兆
+名匠・小津安二郎を支えた謎の人　黒幕から銀幕へ
 www.nikkei.com/article/DGXZQO...
 
-家庭ゴミ収集は週6日勤務が珍しくなく、炎天下での作業も多い過酷な仕事。
+政財界の黒幕とうわさされた人物、菅原通済（みちなり）。
 
-都内では約2000人の組合員のうち、毎年1〜2割が離職するといいます。
+小津は通済との交流を重ね、1957年の「東京暮色」以降の作品に次々と出演させています。
 
-[2025-12-01 12:30:47](https://bsky.app/profile/nikkei.com/post/3m6vihirgcb2m)
+何をした人物だったのでしょうか。
 
----
+#映画の日
 
-@reuters.com
-
-Taiwan airline seeks role in 'whole of society' defence with surveillance flights to counter China reut.rs/4p9D68D
-
-[2025-12-01 12:30:20](https://bsky.app/profile/reuters.com/post/3m6vigoic7k26)
+[2025-12-01 13:00:46](https://bsky.app/profile/nikkei.com/post/3m6vk54gtxp2w)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@apnews.com
 
-政治団体NHK党 立花党首 私人逮捕呼びかけか 支持者ら書類送検
-https://news.web.nhk/newsweb/na/na-k10014990591000
+Italian cultural officials are offering digital copies of Italian masterpieces as part of a new project to help museums raise money.
 
-[2025-12-01 12:24:06](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vi3mn2rt2b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-北海道 室蘭 日本製鉄の製鉄所で爆発 火災は鎮火
-https://news.web.nhk/newsweb/na/na-k10014990371000
-
-[2025-12-01 12:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vi3ihppc26)
+[2025-12-01 13:00:35](https://bsky.app/profile/apnews.com/post/3m6vk4r6mv42p)
 
 ---
 
-@reuters.com
+@washingtonpost.com
 
-Ajax condemns fireworks at stadium after match gets abandoned reut.rs/4rzz7Ec
+In Indigenous writer Thomas King’s 2020 novel “Indians on Vacation,” King said he was told as a child that his father was part Cherokee.
 
-[2025-12-01 12:20:14](https://bsky.app/profile/reuters.com/post/3m6vhumfvaj22)
+A genealogist traced his paternal lineage and found no Indigenous ancestry.
+
+[2025-12-01 13:00:07](https://bsky.app/profile/washingtonpost.com/post/3m6vk3wftty2s)
+
+---
+
+@cbsnews.com
+
+A telescope in Chile has captured a stunning new picture of a grand and graceful cosmic butterfly. Snapped last month by the Gemini South telescope, the aptly named Butterfly Nebula is 2,500 to 3,800 light-years away in the constellation Scorpius. cbsn.ws/4p6XGGL
+
+[2025-12-01 13:00:01](https://bsky.app/profile/cbsnews.com/post/3m6vk3rr6xm2j)
+
+---
+
+@cbsnews.com
+
+D.C. National Guard shooting suspect spent "weeks on end" in isolation, struggled with mental health, 2024 emails say
+
+[2025-12-01 13:00:01](https://bsky.app/profile/cbsnews.com/post/3m6vk3qyrqh2m)
 
 ---
 
@@ -124,25 +131,10 @@ Ajax condemns fireworks at stadium after match gets abandoned reut.rs/4rzz7Ec
 
 🛎️JNNより【速報】です。
 
-【速報】84歳運転の車が事故 歩行者が意識不明で搬送 兵庫・姫路市の信号のない交差点
-(2025-12-01 12:18:05) #ニュース
+【速報】強盗傷害事件発生 北海道江別市の公園で28歳の男性が男2人に襲われる 男らは逃走
+(2025-12-01 12:55:00) #ニュース
 
-[2025-12-01 12:18:58](https://bsky.app/profile/sokuho.news/post/3m6vhsdyybs2h)
-
----
-
-@nikkei.com
-
-子どもの「外遊び」は驚くほど脳にいい、一生ものの能力に影響（無料記事）
-www.nikkei.com/article/DGXZQO...
-
-滑りやすい丸太の上を歩いてバランス力を試す、遊びのルールを話し合いで決める、小さくても重要な問題を自分たちで解決するといった瞬間が、脳にとっては訓練の場に。
-
-身体的なリスクをとる子どもたちは、その他のリスクを判断する能力が高まるケースが多いと専門家は指摘します。
-
-#ナショナルジオグラフィック
-
-[2025-12-01 12:18:55](https://bsky.app/profile/nikkei.com/post/3m6vhsbaoug2t)
+[2025-12-01 12:59:33](https://bsky.app/profile/sokuho.news/post/3m6vk2w3zpw2p)
 
 ---
 
