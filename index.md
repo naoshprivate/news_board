@@ -1,9 +1,9 @@
-# [2025-12-02 05:10 updated](2025_12_02.md)
+# [2025-12-02 05:30 updated](2025_12_02.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">As Pope Leo prepares to visit northern Lebanon, Christian border villages in the south feel abandoned and struggle to rebuild after the war with Israel. n.pr/4iA7pTE <a href="https://bsky.app/profile/npr.org/post/3m6xa6ne4yg2s" target="_blank">npr.org</a> (2025-12-02 05:08:00)</span><span style="padding-right:50px;">Great clothing stores are surprising and satisfying and, above all else, keep alive the thrill of in-person shopping in this age of e-commerce. The New York Times traveled across the U.S. to compile a list of the 50 best stores in America. See the full list. <a href="https://bsky.app/profile/nytimes.com/post/3m6xa674zss2v" target="_blank">nytimes.com</a> (2025-12-02 05:07:45)</span><span style="padding-right:50px;">Head of UK budget watchdog quits after early release of Reeves' budget reut.rs/3Y0E8YF <a href="https://bsky.app/profile/reuters.com/post/3m6x7zoa46226" target="_blank">reuters.com</a> (2025-12-02 05:05:13)</span><span style="padding-right:50px;">NYSE insider Jay Woods on the stocks to watch this week, including a retail turnaround story <a href="https://bsky.app/profile/cnbc.com/post/3m6x7yuy2po23" target="_blank">cnbc.com</a> (2025-12-02 05:04:46)</span><span style="padding-right:50px;">An exonerated Michigan man says the police, doctors, and medical examiners forged reports to frame him for his infant daughter's death. <a href="https://bsky.app/profile/usatoday.com/post/3m6x7s3akhu2x" target="_blank">usatoday.com</a> (2025-12-02 05:00:58)</span>
+<span style="padding-right:50px;">LIVE: Sen. Mark Kelly to speak on 'efforts to intimidate' him in Washington, DC youtube.com/live/Xk3rUfy... <a href="https://bsky.app/profile/reuters.com/post/3m6xbca4wr22y" target="_blank">reuters.com</a> (2025-12-02 05:27:54)</span><span style="padding-right:50px;">Floods have killed at least 604 people in Indonesia, 366 in Sri Lanka, 176 in Thailand and three in Malaysia, with hundreds still missing.  🔗: aje.io/0y8xc4 | #Infograph <a href="https://bsky.app/profile/aljazeera.com/post/3m6xb7quhrc23" target="_blank">aljazeera.com</a> (2025-12-02 05:26:31)</span><span style="padding-right:50px;">Sharpie maker Newell Brands to cut 900 jobs, take up to $90 million charges reut.rs/4ivqyWJ <a href="https://bsky.app/profile/reuters.com/post/3m6xb5eodh326" target="_blank">reuters.com</a> (2025-12-02 05:25:11)</span><span style="padding-right:50px;">Pope Leo XIV is on his first visit to Lebanon. He arrives at a pivotal time for the country, buffeted by conflict with Israel and a devastating economic crisis. <a href="https://bsky.app/profile/npr.org/post/3m6xaz4vwlq2q" target="_blank">npr.org</a> (2025-12-02 05:22:48)</span><span style="padding-right:50px;">Congress begins final session of 2025 with healthcare (and a dash of AI policy) on the docket <a href="https://bsky.app/profile/yahoofinance.com/post/3m6xaw45l432p" target="_blank">yahoofinance.com</a> (2025-12-02 05:21:07)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49303.28 (🔻1015.31 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47383.27 (🔻197.58 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23276.39 (🔺104.04 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.16 (🔺4.46 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3082.00 (🔻50.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.46 (🔻0.60 : 2025-12-01)</span>
+<span style="padding-right:50px;">NIKKEI: 49303.28 (🔻1015.31 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47390.91 (🔻189.94 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23287.67 (🔺115.33 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.39 (🔺4.69 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3082.00 (🔻50.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.51 (🔻0.55 : 2025-12-01)</span>
   </div>
 </div>
 
@@ -32,92 +32,97 @@
 
 ## News Headlines
 
-1. 教皇レオ、レバノン北部訪問へ：南部国境の村は戦後復興に苦悩
-2. 米国ベストストア50選発表：実店舗の魅力を再発見
-3. 英国予算監視機関トップ辞任：リーヴス予算の早期公開で
-4. トランプ大統領、詐欺罪で有罪判決を受けた金融幹部の刑を減刑
-5. HIV治療に一縷の望み：投薬なしのコントロール研究で
-6. メーガン・ジー・スタリオン、名誉毀損訴訟で勝訴：ブロガーに賠償命令
+1. インドネシア洪水、死者600人超 多数が行方不明
+2. シャーピーのニューウェル・ブランズ、900人削減へ
+3. 教皇レオ14世、レバノンを訪問 経済危機と紛争の中で
+4. 米トラック運転学校、44%が閉鎖の可能性 連邦政府の審査で
+5. 自民・維新、衆院議員1割削減法案を今国会に提出へ
+6. トランプ前大統領のMRI検査結果「完全に正常」 ホワイトハウス発表
 
 ----
 
-@npr.org
-
-As Pope Leo prepares to visit northern Lebanon, Christian border villages in the south feel abandoned and struggle to rebuild after the war with Israel. n.pr/4iA7pTE
-
-[2025-12-02 05:08:00](https://bsky.app/profile/npr.org/post/3m6xa6ne4yg2s)
-
----
-
-@nytimes.com
-
-Great clothing stores are surprising and satisfying and, above all else, keep alive the thrill of in-person shopping in this age of e-commerce. The New York Times traveled across the U.S. to compile a list of the 50 best stores in America. See the full list.
-
-[2025-12-02 05:07:45](https://bsky.app/profile/nytimes.com/post/3m6xa674zss2v)
-
----
-
 @reuters.com
 
-Head of UK budget watchdog quits after early release of Reeves' budget reut.rs/3Y0E8YF
+LIVE: Sen. Mark Kelly to speak on 'efforts to intimidate' him in Washington, DC youtube.com/live/Xk3rUfy...
 
-[2025-12-02 05:05:13](https://bsky.app/profile/reuters.com/post/3m6x7zoa46226)
-
----
-
-@cnbc.com
-
-NYSE insider Jay Woods on the stocks to watch this week, including a retail turnaround story
-
-[2025-12-02 05:04:46](https://bsky.app/profile/cnbc.com/post/3m6x7yuy2po23)
-
----
-
-@usatoday.com
-
-An exonerated Michigan man says the police, doctors, and medical examiners forged reports to frame him for his infant daughter's death.
-
-[2025-12-02 05:00:58](https://bsky.app/profile/usatoday.com/post/3m6x7s3akhu2x)
+[2025-12-02 05:27:54](https://bsky.app/profile/reuters.com/post/3m6xbca4wr22y)
 
 ---
 
 @aljazeera.com
 
-US military build-up near Venezuela raises fearof invasion; White House defends kill order of alleged drug smugglers.
+Floods have killed at least 604 people in Indonesia, 366 in Sri Lanka, 176 in Thailand and three in Malaysia, with hundreds still missing.
 
-[2025-12-02 05:00:49](https://bsky.app/profile/aljazeera.com/post/3m6x7rsyrcb2h)
+🔗: aje.io/0y8xc4 | #Infograph
+
+[2025-12-02 05:26:31](https://bsky.app/profile/aljazeera.com/post/3m6xb7quhrc23)
 
 ---
 
 @reuters.com
 
-Belarus, Lithuania trade diplomatic barbs over alleged airspace violations reut.rs/48qRBOj
+Sharpie maker Newell Brands to cut 900 jobs, take up to $90 million charges reut.rs/4ivqyWJ
 
-[2025-12-02 05:00:40](https://bsky.app/profile/reuters.com/post/3m6x7rkkkk22a)
+[2025-12-02 05:25:11](https://bsky.app/profile/reuters.com/post/3m6xb5eodh326)
+
+---
+
+@npr.org
+
+Pope Leo XIV is on his first visit to Lebanon. He arrives at a pivotal time for the country, buffeted by conflict with Israel and a devastating economic crisis.
+
+[2025-12-02 05:22:48](https://bsky.app/profile/npr.org/post/3m6xaz4vwlq2q)
+
+---
+
+@yahoofinance.com
+
+Congress begins final session of 2025 with healthcare (and a dash of AI policy) on the docket
+
+[2025-12-02 05:21:07](https://bsky.app/profile/yahoofinance.com/post/3m6xaw45l432p)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+熊本 震度5強の地震から1週間 気象庁“備えを続けて”
+https://news.web.nhk/newsweb/na/na-k10014991391000
+
+[2025-12-02 05:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6xavzlfqs2p)
+
+---
+
+@cbsnews.com
+
+FBI Director Kash Patel's travel to watch his girlfriend sing at a Pennsylvania sporting event is now being investigated by the top Democrats on the House Judiciary Committee.
+
+
+
+[2025-12-02 05:20:01](https://bsky.app/profile/cbsnews.com/post/3m6xau4zqdt2h)
 
 ---
 
 @apnews.com
 
-Melania Trump has decorated the White House for the holidays, and her theme is “Home Is Where the Heart Is.”
+<strong><span style="color: red;">BREAKING:</span> Nearly 44% of U.S. truck driving schools could close after a federal review found many may be out of compliance with government rules.</strong>
 
-[2025-12-02 05:00:37](https://bsky.app/profile/apnews.com/post/3m6x7rh2oh527)
-
----
-
-@cnn.com
-
-President Donald Trump commuted the sentence of David Gentile, a private equity executive who was convicted and sentenced to seven years in prison for a fraud scheme, according to a White House official. 
-
-[2025-12-02 05:00:20](https://bsky.app/profile/cnn.com/post/3m6x7qxcsga2i)
+[2025-12-02 05:18:30](https://bsky.app/profile/apnews.com/post/3m6xargngvl2y)
 
 ---
 
-@washingtonpost.com
+@wsj.com
 
-A small, highly anticipated study shows a glimmer of hope in the long effort to control HIV without medication and search for a cure for a virus that attacks immune cells.
+Starting Feb. 1, air travelers will need to pay a $45 fee if they arrive at an airport without a REAL ID.
 
-[2025-12-02 05:00:19](https://bsky.app/profile/washingtonpost.com/post/3m6x7qw45e323)
+[2025-12-02 05:15:28](https://bsky.app/profile/wsj.com/post/3m6xalzhwas2p)
+
+---
+
+@reuters.com
+
+Bitcoin hoarder Strategy sharply cuts annual earnings target as crypto slide deepens reut.rs/3XtznH4
+
+[2025-12-02 05:15:19](https://bsky.app/profile/reuters.com/post/3m6xalqmarw2n)
 
 ---
 
