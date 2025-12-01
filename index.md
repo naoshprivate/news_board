@@ -1,9 +1,9 @@
-# [2025-12-02 00:50 updated](2025_12_02.md)
+# [2025-12-02 01:10 updated](2025_12_02.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">This stock tied to U.S. housing could be in trouble. How to make money on potential declines through options <a href="https://bsky.app/profile/cnbc.com/post/3m6wrivkski2i" target="_blank">cnbc.com</a> (2025-12-02 00:45:18)</span><span style="padding-right:50px;">South Koreans arrested in Iran on smuggling charges, Seoul says reut.rs/4apmAwP <a href="https://bsky.app/profile/reuters.com/post/3m6wrirza7r2o" target="_blank">reuters.com</a> (2025-12-02 00:45:14)</span><span style="padding-right:50px;">“高校の授業料無償化 財源注視し準備”松本文科相 https://news.web.nhk/newsweb/na/na-k10014991481000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6wriienbz2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-02 00:45:02)</span><span style="padding-right:50px;">Anicet Ekane: Cameroon opposition firebrand dies in detention aged 74 <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6wrclqlrm2e" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-02 00:41:46)</span><span style="padding-right:50px;">US Supreme Court to hear copyright dispute between Cox and record labels reut.rs/4onmh97 <a href="https://bsky.app/profile/reuters.com/post/3m6wrabnyup2i" target="_blank">reuters.com</a> (2025-12-02 00:40:28)</span>
+<span style="padding-right:50px;">UK PM Starmer praises budget for retaining market confidence, sees growth ahead reut.rs/48e5Yqo <a href="https://bsky.app/profile/reuters.com/post/3m6wsmhpks222" target="_blank">reuters.com</a> (2025-12-02 01:05:11)</span><span style="padding-right:50px;">政府 大雨被害のスリランカに医療チーム派遣を決定 https://news.web.nhk/newsweb/na/na-k10014991501000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6wsioqv6v2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-02 01:03:02)</span><span style="padding-right:50px;">OpenAI takes stake in Thrive Holdings to help accelerate enterprise AI adoption <a href="https://bsky.app/profile/cnbc.com/post/3m6wsibislg2y" target="_blank">cnbc.com</a> (2025-12-02 01:02:50)</span><span style="padding-right:50px;">The program has been helping children get gifts for over 100 years. <a href="https://bsky.app/profile/usatoday.com/post/3m6wshl3c2t2t" target="_blank">usatoday.com</a> (2025-12-02 01:02:27)</span><span style="padding-right:50px;">Exclusive: Alberta oil regulator stopped enforcing gas flaring limits after government pressure, documents show reut.rs/4rCQsMz <a href="https://bsky.app/profile/reuters.com/post/3m6wsfkluij2r" target="_blank">reuters.com</a> (2025-12-02 01:01:19)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49303.28 (🔻1015.31 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47404.01 (🔻176.84 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23233.77 (🔺61.43 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.36 (🔺4.66 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3082.00 (🔻50.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.09 (🔻0.97 : 2025-12-01)</span>
+<span style="padding-right:50px;">NIKKEI: 49303.28 (🔻1015.31 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47454.78 (🔻126.07 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23250.20 (🔺77.86 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.01 (🔺4.31 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3082.00 (🔻50.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.11 (🔻0.94 : 2025-12-01)</span>
   </div>
 </div>
 
@@ -32,94 +32,93 @@
 
 ## News Headlines
 
-1. 米国住宅関連株、オプション取引で下落に備えよ
-2. 韓国人、イランで密輸容疑で逮捕
-3. 高校授業料無償化、財源確保を注視 - 松本文科相
-4. トランプ氏任命の検察官、控訴裁が資格を認めず
-5. レバノン、紛争と経済危機の中、ローマ教皇が訪問
-6. スペイン、バルセロナ近郊で豚コレラ封じ込めのため軍を派遣
+1. 英国首相、予算を評価し市場の信頼維持、成長見通し
+2. 政府、スリランカ大雨被害に医療チーム派遣を決定
+3. アルバータ州、政府圧力でガス燃焼制限の執行停止
+4. イスラエル、レーザー防衛システム「アイアンビーム」を12月末に配備
+5. 立憲民主党、土地・建物の所有者国籍収集法案を提出
+6. トランプ前大統領が指名したN.J.検察官、控訴裁判所が無効と判断
 
 ----
 
-@cnbc.com
-
-This stock tied to U.S. housing could be in trouble. How to make money on potential declines through options
-
-[2025-12-02 00:45:18](https://bsky.app/profile/cnbc.com/post/3m6wrivkski2i)
-
----
-
 @reuters.com
 
-South Koreans arrested in Iran on smuggling charges, Seoul says reut.rs/4apmAwP
+UK PM Starmer praises budget for retaining market confidence, sees growth ahead reut.rs/48e5Yqo
 
-[2025-12-02 00:45:14](https://bsky.app/profile/reuters.com/post/3m6wrirza7r2o)
+[2025-12-02 01:05:11](https://bsky.app/profile/reuters.com/post/3m6wsmhpks222)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-“高校の授業料無償化 財源注視し準備”松本文科相
-https://news.web.nhk/newsweb/na/na-k10014991481000
+政府 大雨被害のスリランカに医療チーム派遣を決定
+https://news.web.nhk/newsweb/na/na-k10014991501000
 
-[2025-12-02 00:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6wriienbz2j)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Anicet Ekane: Cameroon opposition firebrand dies in detention aged 74
-
-[2025-12-02 00:41:46](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6wrclqlrm2e)
+[2025-12-02 01:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6wsioqv6v2k)
 
 ---
 
-@reuters.com
+@cnbc.com
 
-US Supreme Court to hear copyright dispute between Cox and record labels reut.rs/4onmh97
+OpenAI takes stake in Thrive Holdings to help accelerate enterprise AI adoption
 
-[2025-12-02 00:40:28](https://bsky.app/profile/reuters.com/post/3m6wrabnyup2i)
-
----
-
-@nytimes.com
-
-The political events of the last year in the U.S. have intensified debates around issues that affect our daily lives. We want to hear about how this polarization is affecting your neighborhood — in ways big or small — in the form below.
-
-[2025-12-02 00:40:08](https://bsky.app/profile/nytimes.com/post/3m6wr7nxdke2q)
-
----
-
-@en.afp.com
-
-🇫🇷 French artist JR, who made his way from tagging graffiti on the street to being one of the most recognisable figures on the country's art scene, has told AFP how he plans to turn the oldest bridge in Paris into an "immersive cave" for his latest project. 
-➡️ u.afp.com/ShEV
-
-[2025-12-02 00:40:05](https://bsky.app/profile/en.afp.com/post/3m6wr7l6s7u2d)
+[2025-12-02 01:02:50](https://bsky.app/profile/cnbc.com/post/3m6wsibislg2y)
 
 ---
 
 @usatoday.com
 
-A grassroots group of seniors protests Ohio county's cooperation with ICE. Only retirees are free to attend daytime commissioners' meetings, they say.
+The program has been helping children get gifts for over 100 years.
 
-[2025-12-02 00:39:20](https://bsky.app/profile/usatoday.com/post/3m6wr6aar4v2q)
-
----
-
-@wsj.com
-
-An appeals court ruled that Alina Habba cannot serve as the acting U.S. attorney in New Jersey, in the latest setback for the Trump administration’s efforts to keep preferred candidates in top prosecutorial posts without Senate approval.
-
-[2025-12-02 00:35:36](https://bsky.app/profile/wsj.com/post/3m6wqxlahie22)
+[2025-12-02 01:02:27](https://bsky.app/profile/usatoday.com/post/3m6wshl3c2t2t)
 
 ---
 
 @reuters.com
 
-Flurry of Fed dissents in coming meetings could pose market, political risks reut.rs/4pmzzUw
+Exclusive: Alberta oil regulator stopped enforcing gas flaring limits after government pressure, documents show reut.rs/4rCQsMz
 
-[2025-12-02 00:35:11](https://bsky.app/profile/reuters.com/post/3m6wqwtdb3s27)
+[2025-12-02 01:01:19](https://bsky.app/profile/reuters.com/post/3m6wsfkluij2r)
+
+---
+
+@apnews.com
+
+References to the "K-shaped economy" are rapidly proliferating.
+
+[2025-12-02 01:01:15](https://bsky.app/profile/apnews.com/post/3m6wsfg5j5d2j)
+
+---
+
+@usatoday.com
+
+Here’s what Metamucil is, the benefits it provides and why moderation matters.
+
+[2025-12-02 01:00:53](https://bsky.app/profile/usatoday.com/post/3m6wservw2n2h)
+
+---
+
+@cnn.com
+
+In the ten months since Trump took office for the second time, he has left his imprint on the nation’s capital in a manner that’s impossible to ignore.
+
+[2025-12-02 01:00:43](https://bsky.app/profile/cnn.com/post/3m6wsehkge62q)
+
+---
+
+@washingtonpost.com
+
+Fear of arrest has chilled activity in Chicago’s predominantly Latino neighborhoods, where businesses in one area report their sales have dropped anywhere from 20 to 70 percent. 
+
+[2025-12-02 01:00:42](https://bsky.app/profile/washingtonpost.com/post/3m6wsehdk3q23)
+
+---
+
+@nbcnews.com
+
+ President Trump says that he would release the results of his MRI test that he received in October.
+
+[2025-12-02 01:00:12](https://bsky.app/profile/nbcnews.com/post/3m6wsdkk2zu2w)
 
 ---
 
