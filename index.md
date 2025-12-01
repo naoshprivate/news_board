@@ -1,9 +1,9 @@
-# [2025-12-02 03:10 updated](2025_12_02.md)
+# [2025-12-02 03:30 updated](2025_12_02.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Eli Lilly cuts Zepbound price to widen access for obesity drug reut.rs/4pcWH8f <a href="https://bsky.app/profile/reuters.com/post/3m6wzd2k2ww2k" target="_blank">reuters.com</a> (2025-12-02 03:05:11)</span><span style="padding-right:50px;">Steve Cohen moves closer to gaining lucrative New York City casino licence on.ft.com/3MaSXW7 <a href="https://bsky.app/profile/financialtimes.com/post/3m6wz6kcmxf23" target="_blank">financialtimes.com</a> (2025-12-02 03:02:40)</span><span style="padding-right:50px;">New York City is getting three new casinos — including one expected to be located next to the New York Mets stadium — in a major expansion of legal gambling. <a href="https://bsky.app/profile/axios.com/post/3m6wz4ey3rs2d" target="_blank">axios.com</a> (2025-12-02 03:01:28)</span><span style="padding-right:50px;">BofA expects December Fed cut, two more in 2026 reut.rs/3MvTIJg <a href="https://bsky.app/profile/reuters.com/post/3m6wz42hacg27" target="_blank">reuters.com</a> (2025-12-02 03:01:17)</span><span style="padding-right:50px;">A college freshman deported while flying home for Thanksgiving is fighting to return. Here’s what we know about her case: https://cnn.it/4oyafKd <a href="https://bsky.app/profile/cnn.com/post/3m6wz3ozmlq2y" target="_blank">cnn.com</a> (2025-12-02 03:01:05)</span>
+<span style="padding-right:50px;">Four people killed, 40 injured in Russian strike on Ukraine's Dnipro, Kyiv says reut.rs/48tO7e8 <a href="https://bsky.app/profile/reuters.com/post/3m6x2gua27w22" target="_blank">reuters.com</a> (2025-12-02 03:25:13)</span><span style="padding-right:50px;">As children, they watched their parents work double shifts and multiple jobs. As adults, they gave their parents a version of the American dream by buying them a house. <a href="https://bsky.app/profile/nytimes.com/post/3m6x2gkzqyp2y" target="_blank">nytimes.com</a> (2025-12-02 03:25:03)</span><span style="padding-right:50px;">As regime change looms at the Fed, one candidate emerges as frontrunner for chair <a href="https://bsky.app/profile/cnbc.com/post/3m6x2ghileb2e" target="_blank">cnbc.com</a> (2025-12-02 03:25:00)</span><span style="padding-right:50px;">RBC raises 12-month S&P 500 target to 7,750 as more Wall Street firms turn bullish on stocks <a href="https://bsky.app/profile/yahoofinance.com/post/3m6x27jxplt2k" target="_blank">yahoofinance.com</a> (2025-12-02 03:21:07)</span><span style="padding-right:50px;"> India’s blockbuster labour reforms on.ft.com/4pGZ0QC  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m6x273atr62c" target="_blank">financialtimes.com</a> (2025-12-02 03:20:52)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49303.28 (🔻1015.31 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47523.95 (🔻56.90 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23339.86 (🔺167.52 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.32 (🔺4.62 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3082.00 (🔻50.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.38 (🔻0.68 : 2025-12-01)</span>
+<span style="padding-right:50px;">NIKKEI: 49303.28 (🔻1015.31 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47541.45 (🔻39.40 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23337.52 (🔺165.17 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.42 (🔺4.72 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3082.00 (🔻50.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.45 (🔻0.61 : 2025-12-01)</span>
   </div>
 </div>
 
@@ -32,95 +32,94 @@
 
 ## News Headlines
 
-1.  イーライリリー、肥満治療薬ゼプバウンドの価格引き下げ
-2.  スティーブ・コーエン氏、ニューヨーク市カジノライセンス獲得へ前進
-3.  BofA、FRBは12月利下げ、2026年にさらに2回と予想
-4.  中国、AIでオンライン検閲を強化
+1.  ロシアの攻撃でウクライナ・ドニプロで4人死亡、40人負傷
+2.  RBC、S&P500の目標株価を7,750に引き上げ
+3.  ターガ、ミッドストリーム企業を12.5億ドルで買収しパーミアンでの存在感強化
+4.  イーライリリー、肥満治療薬ゼップバウンドの価格を引き下げ
 5.  ゴールドマンサックス、ETFスポンサーのイノベーターを20億ドルで買収
-6.  Nvidia、AI取引加速でシノプシスに20億ドル出資
+6.  南アフリカなどで画期的なHIV予防注射の公的投与開始
 
 ----
 
 @reuters.com
 
-Eli Lilly cuts Zepbound price to widen access for obesity drug reut.rs/4pcWH8f
+Four people killed, 40 injured in Russian strike on Ukraine's Dnipro, Kyiv says reut.rs/48tO7e8
 
-[2025-12-02 03:05:11](https://bsky.app/profile/reuters.com/post/3m6wzd2k2ww2k)
+[2025-12-02 03:25:13](https://bsky.app/profile/reuters.com/post/3m6x2gua27w22)
+
+---
+
+@nytimes.com
+
+As children, they watched their parents work double shifts and multiple jobs. As adults, they gave their parents a version of the American dream by buying them a house.
+
+[2025-12-02 03:25:03](https://bsky.app/profile/nytimes.com/post/3m6x2gkzqyp2y)
+
+---
+
+@cnbc.com
+
+As regime change looms at the Fed, one candidate emerges as frontrunner for chair
+
+[2025-12-02 03:25:00](https://bsky.app/profile/cnbc.com/post/3m6x2ghileb2e)
+
+---
+
+@yahoofinance.com
+
+RBC raises 12-month S&P 500 target to 7,750 as more Wall Street firms turn bullish on stocks
+
+[2025-12-02 03:21:07](https://bsky.app/profile/yahoofinance.com/post/3m6x27jxplt2k)
 
 ---
 
 @financialtimes.com
 
-Steve Cohen moves closer to gaining lucrative New York City casino licence on.ft.com/3MaSXW7
+ India’s blockbuster labour reforms on.ft.com/4pGZ0QC  | opinion
 
-[2025-12-02 03:02:40](https://bsky.app/profile/financialtimes.com/post/3m6wz6kcmxf23)
-
----
-
-@axios.com
-
-New York City is getting three new casinos — including one expected to be located next to the New York Mets stadium — in a major expansion of legal gambling.
-
-[2025-12-02 03:01:28](https://bsky.app/profile/axios.com/post/3m6wz4ey3rs2d)
+[2025-12-02 03:20:52](https://bsky.app/profile/financialtimes.com/post/3m6x273atr62c)
 
 ---
 
-@reuters.com
+@nbcnews.com
 
-BofA expects December Fed cut, two more in 2026 reut.rs/3MvTIJg
+President Trump said that he would release the results of his MRI test that he received in October.
 
-[2025-12-02 03:01:17](https://bsky.app/profile/reuters.com/post/3m6wz42hacg27)
-
----
-
-@cnn.com
-
-A college freshman deported while flying home for Thanksgiving is fighting to return. Here’s what we know about her case: https://cnn.it/4oyafKd
-
-[2025-12-02 03:01:05](https://bsky.app/profile/cnn.com/post/3m6wz3ozmlq2y)
+[2025-12-02 03:20:24](https://bsky.app/profile/nbcnews.com/post/3m6x26awxek2c)
 
 ---
 
 @cbsnews.com
 
-A woman was supposed to be a flower girl in a family wedding when she was 8 years old. CBS News contributor David Begnaud shares how a stranger helped fulfill her wish eight decades later.
+Bitcoin prices spiraled lower on Monday, temporarily dipping below $85,000 as investors continue a selloff that began in October.
 
 
-[2025-12-02 03:01:00](https://bsky.app/profile/cbsnews.com/post/3m6wz3kuvoi2d)
 
----
-
-@usatoday.com
-
-A grassroots group of seniors protests Ohio county's cooperation with ICE. Only retirees are free to attend daytime commissioners' meetings, they say.
-
-[2025-12-02 03:00:29](https://bsky.app/profile/usatoday.com/post/3m6wz2ngvsy2j)
+[2025-12-02 03:20:01](https://bsky.app/profile/cbsnews.com/post/3m6x25kd7nx2g)
 
 ---
 
-@washingtonpost.com
+@npr.org
 
-The Chinese government operates an advanced system of monitoring and censoring politically sensitive content online.
+For the first time in three months, the White House is reopening for public tours, just in time for the holidays. n.pr/4418ii4
 
-But a new report reveals that Chinese officials are using AI to turbocharge these processes.
-
-[2025-12-02 03:00:24](https://bsky.app/profile/washingtonpost.com/post/3m6wz2ipfty2y)
+[2025-12-02 03:19:20](https://bsky.app/profile/npr.org/post/3m6x24dsu4g2j)
 
 ---
 
-@bloomberg.com
+@npr.org
 
-A new book argues that personal finance is “rigged,” with fees, traps, and complex products that saddle ordinary consumers while the wealthy reap the benefits
+In the decades since its release, "Wonderful Christmastime" has become a seasonal staple beloved by some but loathed by others. n.pr/4pyKudI
 
-[2025-12-02 03:00:14](https://bsky.app/profile/bloomberg.com/post/3m6wz26jeva2h)
+[2025-12-02 03:17:05](https://bsky.app/profile/npr.org/post/3m6wzycp4gc2r)
 
 ---
 
-@apnews.com
+@reuters.com
 
-From corporate executives to Wall Street analysts to Federal Reserve officials, references to the “K-shaped economy” are rapidly proliferating.
+Targa strengthens Permian presence with $1.25 billion deal for midstream firm reut.rs/3XtbNu2
 
-[2025-12-02 03:00:13](https://bsky.app/profile/apnews.com/post/3m6wz25vvsl2j)
+[2025-12-02 03:15:16](https://bsky.app/profile/reuters.com/post/3m6wzv2xefq2d)
 
 ---
 
