@@ -1,9 +1,9 @@
-# [2025-12-02 05:30 updated](2025_12_02.md)
+# [2025-12-02 05:50 updated](2025_12_02.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">LIVE: Sen. Mark Kelly to speak on 'efforts to intimidate' him in Washington, DC youtube.com/live/Xk3rUfy... <a href="https://bsky.app/profile/reuters.com/post/3m6xbca4wr22y" target="_blank">reuters.com</a> (2025-12-02 05:27:54)</span><span style="padding-right:50px;">Floods have killed at least 604 people in Indonesia, 366 in Sri Lanka, 176 in Thailand and three in Malaysia, with hundreds still missing.  🔗: aje.io/0y8xc4 | #Infograph <a href="https://bsky.app/profile/aljazeera.com/post/3m6xb7quhrc23" target="_blank">aljazeera.com</a> (2025-12-02 05:26:31)</span><span style="padding-right:50px;">Sharpie maker Newell Brands to cut 900 jobs, take up to $90 million charges reut.rs/4ivqyWJ <a href="https://bsky.app/profile/reuters.com/post/3m6xb5eodh326" target="_blank">reuters.com</a> (2025-12-02 05:25:11)</span><span style="padding-right:50px;">Pope Leo XIV is on his first visit to Lebanon. He arrives at a pivotal time for the country, buffeted by conflict with Israel and a devastating economic crisis. <a href="https://bsky.app/profile/npr.org/post/3m6xaz4vwlq2q" target="_blank">npr.org</a> (2025-12-02 05:22:48)</span><span style="padding-right:50px;">Congress begins final session of 2025 with healthcare (and a dash of AI policy) on the docket <a href="https://bsky.app/profile/yahoofinance.com/post/3m6xaw45l432p" target="_blank">yahoofinance.com</a> (2025-12-02 05:21:07)</span>
+<span style="padding-right:50px;">ICC赤根所長 “独立性と公平性は影響を受けない”締約国会議で https://news.web.nhk/newsweb/na/na-k10014991461000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6xcgd47wj2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-02 05:48:02)</span><span style="padding-right:50px;">Nicola Pietrangeli: not just a champion but a 'symbol of Italian tennis' reut.rs/4pAkbDY <a href="https://bsky.app/profile/reuters.com/post/3m6xcbdgkys2i" target="_blank">reuters.com</a> (2025-12-02 05:45:17)</span><span style="padding-right:50px;">香港 高層住宅火災 住民 “当局に懸念伝えても対応なかった” https://news.web.nhk/newsweb/na/na-k10014991411000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6xcb4hi6w2g" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-02 05:45:08)</span><span style="padding-right:50px;">軍需企業の24年販売額､三菱重など日本勢が最大の4割増 主要国で最大の伸び www.nikkei.com/article/DGXZQO... <a href="https://bsky.app/profile/nikkei.com/post/3m6xcavm6a42e" target="_blank">nikkei.com</a> (2025-12-02 05:45:03)</span><span style="padding-right:50px;">住宅ローン減税 制度延長の方針 中古住宅購入の支援策も検討 https://news.web.nhk/newsweb/na/na-k10014991361000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6xcaxkdr52u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-02 05:45:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49303.28 (🔻1015.31 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47390.91 (🔻189.94 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23287.67 (🔺115.33 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.39 (🔺4.69 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3082.00 (🔻50.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.51 (🔻0.55 : 2025-12-01)</span>
+<span style="padding-right:50px;">NIKKEI: 49303.28 (🔻1015.31 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47368.78 (🔻212.07 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23292.96 (🔺120.61 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.74 (🔺5.04 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3082.00 (🔻50.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.50 (🔻0.55 : 2025-12-01)</span>
   </div>
 </div>
 
@@ -32,97 +32,98 @@
 
 ## News Headlines
 
-1. インドネシア洪水、死者600人超 多数が行方不明
-2. シャーピーのニューウェル・ブランズ、900人削減へ
-3. 教皇レオ14世、レバノンを訪問 経済危機と紛争の中で
-4. 米トラック運転学校、44%が閉鎖の可能性 連邦政府の審査で
-5. 自民・維新、衆院議員1割削減法案を今国会に提出へ
-6. トランプ前大統領のMRI検査結果「完全に正常」 ホワイトハウス発表
+1. ICC所長「独立性と公平性は不変」
+2. 香港高層住宅火災、住民が当局の対応不足を訴え
+3. 軍需企業の販売額、日本勢が最大の伸び
+4. 住宅ローン減税延長へ、中古住宅支援も検討
+5. 米国、日曜日の航空旅客数が過去最高を記録
+6. インドネシアなど東南アジアで洪水、多数の死者・行方不明者
 
 ----
 
-@reuters.com
+@nhknewsunofficial.bsky.social
 
-LIVE: Sen. Mark Kelly to speak on 'efforts to intimidate' him in Washington, DC youtube.com/live/Xk3rUfy...
+ICC赤根所長 “独立性と公平性は影響を受けない”締約国会議で
+https://news.web.nhk/newsweb/na/na-k10014991461000
 
-[2025-12-02 05:27:54](https://bsky.app/profile/reuters.com/post/3m6xbca4wr22y)
-
----
-
-@aljazeera.com
-
-Floods have killed at least 604 people in Indonesia, 366 in Sri Lanka, 176 in Thailand and three in Malaysia, with hundreds still missing.
-
-🔗: aje.io/0y8xc4 | #Infograph
-
-[2025-12-02 05:26:31](https://bsky.app/profile/aljazeera.com/post/3m6xb7quhrc23)
+[2025-12-02 05:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6xcgd47wj2p)
 
 ---
 
 @reuters.com
 
-Sharpie maker Newell Brands to cut 900 jobs, take up to $90 million charges reut.rs/4ivqyWJ
+Nicola Pietrangeli: not just a champion but a 'symbol of Italian tennis' reut.rs/4pAkbDY
 
-[2025-12-02 05:25:11](https://bsky.app/profile/reuters.com/post/3m6xb5eodh326)
-
----
-
-@npr.org
-
-Pope Leo XIV is on his first visit to Lebanon. He arrives at a pivotal time for the country, buffeted by conflict with Israel and a devastating economic crisis.
-
-[2025-12-02 05:22:48](https://bsky.app/profile/npr.org/post/3m6xaz4vwlq2q)
-
----
-
-@yahoofinance.com
-
-Congress begins final session of 2025 with healthcare (and a dash of AI policy) on the docket
-
-[2025-12-02 05:21:07](https://bsky.app/profile/yahoofinance.com/post/3m6xaw45l432p)
+[2025-12-02 05:45:17](https://bsky.app/profile/reuters.com/post/3m6xcbdgkys2i)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-熊本 震度5強の地震から1週間 気象庁“備えを続けて”
-https://news.web.nhk/newsweb/na/na-k10014991391000
+香港 高層住宅火災 住民 “当局に懸念伝えても対応なかった”
+https://news.web.nhk/newsweb/na/na-k10014991411000
 
-[2025-12-02 05:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6xavzlfqs2p)
-
----
-
-@cbsnews.com
-
-FBI Director Kash Patel's travel to watch his girlfriend sing at a Pennsylvania sporting event is now being investigated by the top Democrats on the House Judiciary Committee.
-
-
-
-[2025-12-02 05:20:01](https://bsky.app/profile/cbsnews.com/post/3m6xau4zqdt2h)
+[2025-12-02 05:45:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6xcb4hi6w2g)
 
 ---
 
-@apnews.com
+@nikkei.com
 
-<strong><span style="color: red;">BREAKING:</span> Nearly 44% of U.S. truck driving schools could close after a federal review found many may be out of compliance with government rules.</strong>
+軍需企業の24年販売額､三菱重など日本勢が最大の4割増
+主要国で最大の伸び
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-02 05:18:30](https://bsky.app/profile/apnews.com/post/3m6xargngvl2y)
+[2025-12-02 05:45:03](https://bsky.app/profile/nikkei.com/post/3m6xcavm6a42e)
 
 ---
 
-@wsj.com
+@nhknewsunofficial.bsky.social
 
-Starting Feb. 1, air travelers will need to pay a $45 fee if they arrive at an airport without a REAL ID.
+住宅ローン減税 制度延長の方針 中古住宅購入の支援策も検討
+https://news.web.nhk/newsweb/na/na-k10014991361000
 
-[2025-12-02 05:15:28](https://bsky.app/profile/wsj.com/post/3m6xalzhwas2p)
+[2025-12-02 05:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6xcaxkdr52u)
+
+---
+
+@en.afp.com
+
+US President Donald Trump summoned his top national security officials to the White House on Monday to discuss Venezuela, as tensions rise over potential military action by Washington. 
+u.afp.com/ShR3
+
+[2025-12-02 05:45:02](https://bsky.app/profile/en.afp.com/post/3m6xcaufpqj2e)
+
+---
+
+@cnbc.com
+
+Holiday shopping season kicks off with a solid start. Here are the big winners
+
+[2025-12-02 05:44:09](https://bsky.app/profile/cnbc.com/post/3m6xc7brody2j)
+
+---
+
+@axios.com
+
+FEMA reinstates workers put on leave for criticizing the White House
+
+[2025-12-02 05:41:23](https://bsky.app/profile/axios.com/post/3m6xc2e7mzc2q)
 
 ---
 
 @reuters.com
 
-Bitcoin hoarder Strategy sharply cuts annual earnings target as crypto slide deepens reut.rs/3XtznH4
+TSX retreats from record high as investors await bank earnings reut.rs/3XpdrwJ
 
-[2025-12-02 05:15:19](https://bsky.app/profile/reuters.com/post/3m6xalqmarw2n)
+[2025-12-02 05:40:17](https://bsky.app/profile/reuters.com/post/3m6xbyetx3s27)
+
+---
+
+@npr.org
+
+A new show at Miami's Museum of Graffiti traces the origins and development of street art. What began in the 1970s with teenagers tagging New York subway cars has grown into a worldwide art movement. n.pr/44J1CFs
+
+[2025-12-02 05:38:41](https://bsky.app/profile/npr.org/post/3m6xbvivoys23)
 
 ---
 
