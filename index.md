@@ -1,9 +1,9 @@
-# [2025-12-02 01:50 updated](2025_12_02.md)
+# [2025-12-02 02:10 updated](2025_12_02.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Pope Leo XIV’s voyage to the Middle East is taking him to places where early Christianity flourished, but where that community is now struggling. <a href="https://bsky.app/profile/wsj.com/post/3m6wv252qfn2i" target="_blank">wsj.com</a> (2025-12-02 01:48:37)</span><span style="padding-right:50px;">Ares Management launches Marq brand to unify global logistics real estate platform reut.rs/4pb6ITh <a href="https://bsky.app/profile/reuters.com/post/3m6wuu2abbe2i" target="_blank">reuters.com</a> (2025-12-02 01:45:13)</span><span style="padding-right:50px;">In her first holiday back in charge of White House decor, First Lady Melania Trump presented a straightforward, understated look. The decorations include ample ribbon and LEGO portraits of Presidents Trump and George Washington. https://wapo.st/4pHght1 <a href="https://bsky.app/profile/washingtonpost.com/post/3m6wutw67x62e" target="_blank">washingtonpost.com</a> (2025-12-02 01:45:09)</span><span style="padding-right:50px;">Nvidia shares to retreat 20% on competitive pressures, says only analyst with sell rating <a href="https://bsky.app/profile/cnbc.com/post/3m6wusfizmd2e" target="_blank">cnbc.com</a> (2025-12-02 01:44:18)</span><span style="padding-right:50px;">Canadian banks expected to post strong fourth-quarter earnings reut.rs/4onJOqr <a href="https://bsky.app/profile/reuters.com/post/3m6wulri3eg26" target="_blank">reuters.com</a> (2025-12-02 01:40:35)</span>
+<span style="padding-right:50px;">Berkshire Hathaway’s Charlie Munger was making gutsy investments, forging unlikely friendships and facing new challenges to the end.  🔗: on.wsj.com/4irOxWO <a href="https://bsky.app/profile/wsj.com/post/3m6ww2guqxj2a" target="_blank">wsj.com</a> (2025-12-02 02:06:41)</span><span style="padding-right:50px;">Cat Goetze, who goes by CatGPT online, launched Physical Phones to help people spend less time on their smartphones. <a href="https://bsky.app/profile/cnbc.com/post/3m6ww2fe5wp2a" target="_blank">cnbc.com</a> (2025-12-02 02:06:40)</span><span style="padding-right:50px;">Hilton CEO on AI: 'Everybody has a plan until you get punched in the face' <a href="https://bsky.app/profile/yahoofinance.com/post/3m6wvzpvihe25" target="_blank">yahoofinance.com</a> (2025-12-02 02:06:17)</span><span style="padding-right:50px;">Red Bull regret suggesting Antonelli moved aside for Norris reut.rs/3KvetnM <a href="https://bsky.app/profile/reuters.com/post/3m6wvxqnofo2r" target="_blank">reuters.com</a> (2025-12-02 02:05:11)</span><span style="padding-right:50px;">A 19-year-old college student was about to board a flight to surprise her family for Thanksgiving when she was detained at Boston Logan International Airport and deported to Honduras two days later, her father and lawyer said. nyti.ms/3M8DUMA <a href="https://bsky.app/profile/nytimes.com/post/3m6wvxkbaln2g" target="_blank">nytimes.com</a> (2025-12-02 02:05:04)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49303.28 (🔻1015.31 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47518.46 (🔻62.39 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23321.18 (🔺148.84 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.79 (🔺5.09 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3082.00 (🔻50.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.29 (🔻0.76 : 2025-12-01)</span>
+<span style="padding-right:50px;">NIKKEI: 49303.28 (🔻1015.31 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47515.08 (🔻65.77 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23322.84 (🔺150.50 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.71 (🔺5.01 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3082.00 (🔻50.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.30 (🔻0.75 : 2025-12-01)</span>
   </div>
 </div>
 
@@ -32,93 +32,94 @@
 
 ## News Headlines
 
-1. ローマ教皇、中東訪問：初期キリスト教の地で苦闘するコミュニティへ
-2. アメリカ軍、トップガントレーダーに転身：投資情報交換で巨万の富
-3. インド・ニューデリーの大気汚染、危険レベル：呼吸困難を引き起こす
-4. アメリカ政府高官、米ウクライナ和平協議後プーチン大統領と会談
-5. 世界で肥満が深刻化：WHO、画期的肥満治療薬に期待
-6. イスラエル、レーザー防衛システム「アイアンビーム」完成：年末までに配備
+1. チャーリー・マンガー氏、最後まで果敢な投資と友情
+2. スマホ依存脱却支援ツール「Physical Phones」登場
+3. ヒルトンCEO、AI戦略の脆さを語る
+4. 米大学生、感謝祭サプライズ帰郷直前に拘束・強制送還
+5. トランプ氏MRI検査結果公開に前向き姿勢
+6. インドネシア洪水、死者604人、数百人不明
 
 ----
 
 @wsj.com
 
-Pope Leo XIV’s voyage to the Middle East is taking him to places where early Christianity flourished, but where that community is now struggling.
+Berkshire Hathaway’s Charlie Munger was making gutsy investments, forging unlikely friendships and facing new challenges to the end.
 
-[2025-12-02 01:48:37](https://bsky.app/profile/wsj.com/post/3m6wv252qfn2i)
+🔗: on.wsj.com/4irOxWO
 
----
-
-@reuters.com
-
-Ares Management launches Marq brand to unify global logistics real estate platform reut.rs/4pb6ITh
-
-[2025-12-02 01:45:13](https://bsky.app/profile/reuters.com/post/3m6wuu2abbe2i)
-
----
-
-@washingtonpost.com
-
-In her first holiday back in charge of White House decor, First Lady Melania Trump presented a straightforward, understated look. The decorations include ample ribbon and LEGO portraits of Presidents Trump and George Washington.
-https://wapo.st/4pHght1
-
-[2025-12-02 01:45:09](https://bsky.app/profile/washingtonpost.com/post/3m6wutw67x62e)
+[2025-12-02 02:06:41](https://bsky.app/profile/wsj.com/post/3m6ww2guqxj2a)
 
 ---
 
 @cnbc.com
 
-Nvidia shares to retreat 20% on competitive pressures, says only analyst with sell rating
+Cat Goetze, who goes by CatGPT online, launched Physical Phones to help people spend less time on their smartphones.
 
-[2025-12-02 01:44:18](https://bsky.app/profile/cnbc.com/post/3m6wusfizmd2e)
+[2025-12-02 02:06:40](https://bsky.app/profile/cnbc.com/post/3m6ww2fe5wp2a)
+
+---
+
+@yahoofinance.com
+
+Hilton CEO on AI: 'Everybody has a plan until you get punched in the face'
+
+[2025-12-02 02:06:17](https://bsky.app/profile/yahoofinance.com/post/3m6wvzpvihe25)
 
 ---
 
 @reuters.com
 
-Canadian banks expected to post strong fourth-quarter earnings reut.rs/4onJOqr
+Red Bull regret suggesting Antonelli moved aside for Norris reut.rs/3KvetnM
 
-[2025-12-02 01:40:35](https://bsky.app/profile/reuters.com/post/3m6wulri3eg26)
-
----
-
-@nbcnews.com
-
-A 45-car pileup in Indiana and a Delta jet's skidding off the runway in Iowa are among the travel disasters stemming from a powerful winter storm taking aim at the heart of the country on one of the biggest travel days of the year.
-
-[2025-12-02 01:40:15](https://bsky.app/profile/nbcnews.com/post/3m6wul5qwnq2r)
+[2025-12-02 02:05:11](https://bsky.app/profile/reuters.com/post/3m6wvxqnofo2r)
 
 ---
 
 @nytimes.com
 
-Experts at India’s top research hospital call the air in New Delhi “severe and life-threatening.” The level of toxic pollutants has been as many as 20 times above recommended levels for safe breathing.
+A 19-year-old college student was about to board a flight to surprise her family for Thanksgiving when she was detained at Boston Logan International Airport and deported to Honduras two days later, her father and lawyer said. nyti.ms/3M8DUMA
 
-[2025-12-02 01:40:08](https://bsky.app/profile/nytimes.com/post/3m6wukx764y22)
+[2025-12-02 02:05:04](https://bsky.app/profile/nytimes.com/post/3m6wvxkbaln2g)
+
+---
+
+@forbes.com
+
+“Sean Combs: The Reckoning” will include previously unseen footage Combs commissioned before his arrest, though Combs’ spokesperson says he is “deeply concerned” about how 50 Cent gained access to it.
+
+[2025-12-02 02:05:03](https://bsky.app/profile/forbes.com/post/3m6wvxjg2lc2d)
+
+---
+
+@cnn.com
+
+It took 150 volunteers working for one week, with 25,000 feet of ribbon, 120 pounds of gingerbread, more than 10,000 butterflies and a 6,000-piece Lego portrait of President Donald Trump’s likeness to deck the White House halls this year. https://cnn.it/48toRV6
+
+[2025-12-02 02:03:05](https://bsky.app/profile/cnn.com/post/3m6wvtym3g72q)
 
 ---
 
 @reuters.com
 
-Philippines celebrates 'heroic' helper who survived Hong Kong fire reut.rs/4ivH0Gn
+Indonesia's floods kill 604 with hundreds missing, disaster agency says reut.rs/4pAGtp0
 
-[2025-12-02 01:35:10](https://bsky.app/profile/reuters.com/post/3m6wuc3dcbs2a)
-
----
-
-@financialtimes.com
-
-BP scraps plans for Teesside hydrogen and carbon capture scheme on.ft.com/4irLTjQ
-
-[2025-12-02 01:34:56](https://bsky.app/profile/financialtimes.com/post/3m6wubnhaqo2v)
+[2025-12-02 02:01:05](https://bsky.app/profile/reuters.com/post/3m6wvqgedik2n)
 
 ---
 
-@aljazeera.com
+@usatoday.com
 
-Senior US officials will meet President Putin in Moscow on Tuesday, two days after US-Ukraine peace talks in Florida.
+It was so shockingly cold that there were short-lived fears of a new ice age. Scientists think human activity contributed to the historic weather.
 
-[2025-12-02 01:30:26](https://bsky.app/profile/aljazeera.com/post/3m6wtzmoc7n2k)
+[2025-12-02 02:00:53](https://bsky.app/profile/usatoday.com/post/3m6wvq2qpyk2j)
+
+---
+
+@apnews.com
+
+Deals promoted as some of the best of the holiday season are expected to keep people across the United States glued to their computers and smartphones on Cyber Monday.
+
+[2025-12-02 02:00:49](https://bsky.app/profile/apnews.com/post/3m6wvpx43is2c)
 
 ---
 
