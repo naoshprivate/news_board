@@ -1,9 +1,9 @@
-# [2025-12-01 15:50 updated](2025_12_01.md)
+# [2025-12-01 16:10 updated](2025_12_01.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Aspinall diagnosed with rare eye condition after Gane poke reut.rs/3Y0fF5M <a href="https://bsky.app/profile/reuters.com/post/3m6vtd4litm2w" target="_blank">reuters.com</a> (2025-12-01 15:45:11)</span><span style="padding-right:50px;">【随時更新】ロシア ウクライナに軍事侵攻（12月1日の動き） https://news.web.nhk/newsweb/na/na-k10014973021000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vtcwp3ze2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 15:45:03)</span><span style="padding-right:50px;">Reuters followed the fortunes of a group of raw recruits who enlisted as part of Ukraine’s drive to refresh its depleted ranks. None of the 11 are still fighting reut.rs/4own9bJ <a href="https://bsky.app/profile/reuters.com/post/3m6vt3bmyrk2h" target="_blank">reuters.com</a> (2025-12-01 15:40:48)</span><span style="padding-right:50px;">Rupee at record low; weak flows and stalled trade deal eclipse blowout growth reut.rs/3M2hqwR <a href="https://bsky.app/profile/reuters.com/post/3m6vt25vpsr2d" target="_blank">reuters.com</a> (2025-12-01 15:40:11)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】「水道管が破裂して車道が通れなくなっている」などと通報 冠水し通行止めに 神奈川・横須賀市 (2025-12-01 15:37) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6vsvuuze327" target="_blank">sokuho.news</a> (2025-12-01 15:37:47)</span>
+<span style="padding-right:50px;">Australia ban offers test on social media harm.  Australia's under-16 social media ban will make the nation a real-life laboratory on how best to tackle the technology's impact on young people, experts say  u.afp.com/Sh6j <a href="https://bsky.app/profile/en.afp.com/post/3m6vui4t5qm2y" target="_blank">en.afp.com</a> (2025-12-01 16:05:53)</span><span style="padding-right:50px;">India seeks parliament nod for 1.31 trillion rupees in extra spending for 2025/26 reut.rs/4opbE5K <a href="https://bsky.app/profile/reuters.com/post/3m6vugtaj4j2a" target="_blank">reuters.com</a> (2025-12-01 16:05:10)</span><span style="padding-right:50px;">【動画】名古屋 徳川園の紅葉 https://news.web.nhk/newsweb/na/na-k10014990441000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vud4c73w2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 16:03:02)</span><span style="padding-right:50px;">スシローのF&LC、ブリ稚魚を人工種苗生産　養殖し店舗で提供 www.nikkei.com/article/DGXZQO...  「人工種苗」は飼育している親魚から人工的にふ化させる方法です。  稚魚は水温が高くなる夏場を乗り越え、順調に育っているといいます。  2027年にはブリのすし約100万皿分を提供できる見通しです。 <a href="https://bsky.app/profile/nikkei.com/post/3m6vu72mbte26" target="_blank">nikkei.com</a> (2025-12-01 16:00:49)</span><span style="padding-right:50px;">South African rand weakens ahead of manufacturing PMI, car sales data reut.rs/44vg5EW <a href="https://bsky.app/profile/reuters.com/post/3m6vu6lbi5s27" target="_blank">reuters.com</a> (2025-12-01 16:00:33)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49303.28 (🔻1015.31 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3082.00 (🔻50.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.66 (🔻0.39 : 2025-12-01)</span>
+<span style="padding-right:50px;">NIKKEI: 49303.28 (🔻1015.31 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3082.00 (🔻50.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.54 (🔻0.52 : 2025-12-01)</span>
   </div>
 </div>
 
@@ -32,106 +32,107 @@
 
 ## News Headlines
 
-1.  アスピナル、ガーン戦の後に稀な目の疾患と診断
-2.  ウクライナ軍の新兵募集、戦闘継続者はゼロ
-3.  水道管破裂で冠水、神奈川・横須賀市で通行止め
-4.  人気ゴルファー都玲華（21）51歳恋人との破局を報告
-5.  万博効果で関西3空港の旅客数が過去最高、中国便は減少
-6.  神戸の野球クラブハウス全焼、放火容疑で男逮捕
+1.  豪州、16歳未満のSNS利用禁止で影響検証へ
+2.  インド、2025/26年度の追加支出1.31兆ルピーを議会に要請
+3.  スシロー、ブリ稚魚の人工種苗生産に成功
+4.  香港高層住宅火災、扇動企てた疑いで3人逮捕
+5.  ビットコイン急落、8万6000ドル割れ
+6.  出前館、宅配料理価格を「店頭と同じ」に
 
 ----
 
+@en.afp.com
+
+Australia ban offers test on social media harm.
+
+Australia's under-16 social media ban will make the nation a real-life laboratory on how best to tackle the technology's impact on young people, experts say
+
+u.afp.com/Sh6j
+
+[2025-12-01 16:05:53](https://bsky.app/profile/en.afp.com/post/3m6vui4t5qm2y)
+
+---
+
 @reuters.com
 
-Aspinall diagnosed with rare eye condition after Gane poke reut.rs/3Y0fF5M
+India seeks parliament nod for 1.31 trillion rupees in extra spending for 2025/26 reut.rs/4opbE5K
 
-[2025-12-01 15:45:11](https://bsky.app/profile/reuters.com/post/3m6vtd4litm2w)
+[2025-12-01 16:05:10](https://bsky.app/profile/reuters.com/post/3m6vugtaj4j2a)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-【随時更新】ロシア ウクライナに軍事侵攻（12月1日の動き）
-https://news.web.nhk/newsweb/na/na-k10014973021000
+【動画】名古屋 徳川園の紅葉
+https://news.web.nhk/newsweb/na/na-k10014990441000
 
-[2025-12-01 15:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vtcwp3ze2k)
-
----
-
-@reuters.com
-
-Reuters followed the fortunes of a group of raw recruits who enlisted as part of Ukraine’s drive to refresh its depleted ranks. None of the 11 are still fighting reut.rs/4own9bJ
-
-[2025-12-01 15:40:48](https://bsky.app/profile/reuters.com/post/3m6vt3bmyrk2h)
-
----
-
-@reuters.com
-
-Rupee at record low; weak flows and stalled trade deal eclipse blowout growth reut.rs/3M2hqwR
-
-[2025-12-01 15:40:11](https://bsky.app/profile/reuters.com/post/3m6vt25vpsr2d)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】「水道管が破裂して車道が通れなくなっている」などと通報 冠水し通行止めに 神奈川・横須賀市
-(2025-12-01 15:37) #ニュース
-
-[2025-12-01 15:37:47](https://bsky.app/profile/sokuho.news/post/3m6vsvuuze327)
-
----
-
-@reuters.com
-
-Thailand floods to have small impact on overall economy, finance minister says reut.rs/48Jimig
-
-[2025-12-01 15:35:11](https://bsky.app/profile/reuters.com/post/3m6vsr7ugri2k)
-
----
-
-@sokuho.news
-
-🛎️文春より【スクープ】です。
-
-《30歳差禁断愛→破局を報告》「昨年からお付き合いをしておりました」人気ゴルファー・都玲華（21）がぞっこんだった“51歳恋人”《本人が文春報道を認める》
-(2025-12-01 15:30) #ニュース
-
-[2025-12-01 15:30:51](https://bsky.app/profile/sokuho.news/post/3m6vsjiblfo2e)
+[2025-12-01 16:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vud4c73w2j)
 
 ---
 
 @nikkei.com
 
-出前館、宅配料理価格「店頭と同じ」に（無料記事）
+スシローのF&LC、ブリ稚魚を人工種苗生産　養殖し店舗で提供
 www.nikkei.com/article/DGXZQO...
 
-新たに東京都千代田区、中央区、目黒区、世田谷区、豊島区が対象に。中華食堂「日高屋」やカレー店「ゴーゴーカレー」などの約790店舗が追加されます。
+「人工種苗」は飼育している親魚から人工的にふ化させる方法です。
 
-期間は12月1日から2026年2月28日まで。
+稚魚は水温が高くなる夏場を乗り越え、順調に育っているといいます。
 
-宅配価格は店頭より2〜4割ほど高いケースが多く、事実上の値下げとなります。
+2027年にはブリのすし約100万皿分を提供できる見通しです。
 
-[2025-12-01 15:30:48](https://bsky.app/profile/nikkei.com/post/3m6vsjexluo2z)
-
----
-
-@reuters.com
-
-Morning Bid: Rate hike prospect arrests yen decline, for now reut.rs/3Mg2L0S
-
-[2025-12-01 15:30:19](https://bsky.app/profile/reuters.com/post/3m6vsijhdii2e)
+[2025-12-01 16:00:49](https://bsky.app/profile/nikkei.com/post/3m6vu72mbte26)
 
 ---
 
 @reuters.com
 
-From Breakingviews - Breakingviews - A China Vanke default may be blessing in disguise reut.rs/44t6CxW
+South African rand weakens ahead of manufacturing PMI, car sales data reut.rs/44vg5EW
 
-[2025-12-01 15:25:11](https://bsky.app/profile/reuters.com/post/3m6vs7dyqoz2d)
+[2025-12-01 16:00:33](https://bsky.app/profile/reuters.com/post/3m6vu6lbi5s27)
+
+---
+
+@cnbc.com
+
+Kathy and Ross Petras write, "Handling rudeness is not hard as you might think."
+
+[2025-12-01 16:00:29](https://bsky.app/profile/cnbc.com/post/3m6vu6hd25x2s)
+
+---
+
+@aljazeera.com
+
+Torrential rain has left Sri Lanka and parts of Indonesia's Sumatra, southern Thailand and northern Malaysia under water
+
+[2025-12-01 16:00:23](https://bsky.app/profile/aljazeera.com/post/3m6vu6c5q2o23)
+
+---
+
+@washingtonpost.com
+
+Housing economists say President Trump's pitch for a “50-year mortgage” could save buyers a couple hundred dollars a month.
+
+But it would be costlier in other ways, including with more interest paid over a longer period of time.
+
+[2025-12-01 16:00:13](https://bsky.app/profile/washingtonpost.com/post/3m6vu5ypa5z2f)
+
+---
+
+@apnews.com
+
+Brock Purdy rushed for a touchdown and passed for another score in the second half, and the San Francisco 49ers spoiled Shedeur Sanders' first home start with a 26-8 victory over the Cleveland Browns.
+
+[2025-12-01 16:00:09](https://bsky.app/profile/apnews.com/post/3m6vu5u2pld2c)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+香港 高層住宅火災 “扇動企てた疑いで3人逮捕” 香港メディア
+https://news.web.nhk/newsweb/na/na-k10014990321000
+
+[2025-12-01 16:00:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vu5qniql2r)
 
 ---
 
