@@ -1,9 +1,9 @@
-# [2025-12-01 13:30 updated](2025_12_01.md)
+# [2025-12-01 13:50 updated](2025_12_01.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】東京品川区の住宅密集地で2階建て住宅延焼中 男性1人が意識不明 女性1人がけが (2025-12-01 13:24:32) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6vlibxxgf2e" target="_blank">sokuho.news</a> (2025-12-01 13:24:55)</span><span style="padding-right:50px;">Rangers place D Adam Fox (upper body) on long-term injured reserve reut.rs/4pdNKeO <a href="https://bsky.app/profile/reuters.com/post/3m6vl7u26572d" target="_blank">reuters.com</a> (2025-12-01 13:20:12)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】「楽天モバイル 最強パーク宮城」へ来年1月1日から愛称変更へ 楽天イーグルス本拠地の宮城球場ネーミングライツ契約更新 (2025-12-01 13:17:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6vl7hedw626" target="_blank">sokuho.news</a> (2025-12-01 13:19:59)</span><span style="padding-right:50px;">Death toll from Sri Lanka floods, landslides rises to 334, reports disaster agency.  It is the worst natural disaster to hit the island in two decades, and officials say the extent of damage in the worst-affected central region is only just being revealed  u.afp.com/Sh6d <a href="https://bsky.app/profile/en.afp.com/post/3m6vl4aor752p" target="_blank">en.afp.com</a> (2025-12-01 13:18:11)</span><span style="padding-right:50px;">政府・与党 来年度の税制改正 暗号資産の所得 分離課税で調整 https://news.web.nhk/newsweb/na/na-k10014990791000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vkrdjjxq2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 13:12:03)</span>
+<span style="padding-right:50px;">日銀 植田総裁 「利上げの是非 適切に判断」【ライブ予定】 https://news.web.nhk/newsweb/na/na-k10014990471000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vmrondy72p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 13:48:02)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】小選挙区と比例計1割定数削減で合意…自民・維新が党首・幹部間で確認 (2025-12-01 13:40) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6vmfmnhry2l" target="_blank">sokuho.news</a> (2025-12-01 13:41:19)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】東京・品川で住宅火災 90代くらいの男性が心肺停止 (2025-12-01 13:40) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6vme66chg22" target="_blank">sokuho.news</a> (2025-12-01 13:40:31)</span><span style="padding-right:50px;">Chargers QB Justin Herbert breaks bone in non-throwing hand vs. Raiders reut.rs/4isqLKt <a href="https://bsky.app/profile/reuters.com/post/3m6vmdl7lmu26" target="_blank">reuters.com</a> (2025-12-01 13:40:11)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】議員定数削減1年で結論でなければ小選挙区と比例代表合わせて約1割削減 自民党と日本維新の会が合意 (2025-12-01 13:36:33) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6vmd4vzng2x" target="_blank">sokuho.news</a> (2025-12-01 13:39:56)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49293.27 (🔻1025.32 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3076.00 (🔻56.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.44 (🔻0.62 : 2025-12-01)</span>
+<span style="padding-right:50px;">NIKKEI: 49371.02 (🔻947.57 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3086.00 (🔻46.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.58 (🔻0.47 : 2025-12-01)</span>
   </div>
 </div>
 
@@ -32,31 +32,51 @@
 
 ## News Headlines
 
-1. 品川区住宅火災、男性意識不明・女性けが
-2. 楽天イーグルス本拠地、来年から「楽天モバイル 最強パーク宮城」に
-3. スリランカ洪水・地滑り、死者334人に増加
-4. 政府・与党、暗号資産の所得分離課税で調整
-5. 北海道江別市で強盗傷害事件、現金奪い逃走
-6. 兵庫・姫路市で84歳運転の車が事故、歩行者重体
+1.  日銀植田総裁、利上げ判断「適切に」
+2.  議員定数1割削減で自民・維新合意
+3.  東京・品川で住宅火災、90代男性心肺停止
+4.  楽天イーグルス本拠地、来年から「楽天モバイル 最強パーク宮城」に
+5.  北海道江別市で強盗傷害事件、現金奪い逃走
+6.  政府与党、暗号資産の所得分離課税で調整
 
 ----
 
+@nhknewsunofficial.bsky.social
+
+日銀 植田総裁 「利上げの是非 適切に判断」【ライブ予定】
+https://news.web.nhk/newsweb/na/na-k10014990471000
+
+[2025-12-01 13:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vmrondy72p)
+
+---
+
 @sokuho.news
 
-🛎️JNNより【速報】です。
+🛎️FNNより【速報】です。
 
-【速報】東京品川区の住宅密集地で2階建て住宅延焼中 男性1人が意識不明 女性1人がけが
-(2025-12-01 13:24:32) #ニュース
+【速報】小選挙区と比例計1割定数削減で合意…自民・維新が党首・幹部間で確認
+(2025-12-01 13:40) #ニュース
 
-[2025-12-01 13:24:55](https://bsky.app/profile/sokuho.news/post/3m6vlibxxgf2e)
+[2025-12-01 13:41:19](https://bsky.app/profile/sokuho.news/post/3m6vmfmnhry2l)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】東京・品川で住宅火災 90代くらいの男性が心肺停止
+(2025-12-01 13:40) #ニュース
+
+[2025-12-01 13:40:31](https://bsky.app/profile/sokuho.news/post/3m6vme66chg22)
 
 ---
 
 @reuters.com
 
-Rangers place D Adam Fox (upper body) on long-term injured reserve reut.rs/4pdNKeO
+Chargers QB Justin Herbert breaks bone in non-throwing hand vs. Raiders reut.rs/4isqLKt
 
-[2025-12-01 13:20:12](https://bsky.app/profile/reuters.com/post/3m6vl7u26572d)
+[2025-12-01 13:40:11](https://bsky.app/profile/reuters.com/post/3m6vmdl7lmu26)
 
 ---
 
@@ -64,77 +84,60 @@ Rangers place D Adam Fox (upper body) on long-term injured reserve reut.rs/4pdNK
 
 🛎️JNNより【速報】です。
 
-【速報】「楽天モバイル 最強パーク宮城」へ来年1月1日から愛称変更へ 楽天イーグルス本拠地の宮城球場ネーミングライツ契約更新
-(2025-12-01 13:17:00) #ニュース
+【速報】議員定数削減1年で結論でなければ小選挙区と比例代表合わせて約1割削減 自民党と日本維新の会が合意
+(2025-12-01 13:36:33) #ニュース
 
-[2025-12-01 13:19:59](https://bsky.app/profile/sokuho.news/post/3m6vl7hedw626)
-
----
-
-@en.afp.com
-
-Death toll from Sri Lanka floods, landslides rises to 334, reports disaster agency.
-
-It is the worst natural disaster to hit the island in two decades, and officials say the extent of damage in the worst-affected central region is only just being revealed
-
-u.afp.com/Sh6d
-
-[2025-12-01 13:18:11](https://bsky.app/profile/en.afp.com/post/3m6vl4aor752p)
+[2025-12-01 13:39:56](https://bsky.app/profile/sokuho.news/post/3m6vmd4vzng2x)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-政府・与党 来年度の税制改正 暗号資産の所得 分離課税で調整
-https://news.web.nhk/newsweb/na/na-k10014990791000
+【ライブ】政府与党連絡会議 高市政権の発足後で初
+https://news.web.nhk/newsweb/na/na-k10014990541000
 
-[2025-12-01 13:12:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vkrdjjxq2p)
-
----
-
-@reuters.com
-
-NHL roundup: Wyatt Johnston (3 goals), Stars pound Senators reut.rs/48qJHEO
-
-[2025-12-01 13:10:11](https://bsky.app/profile/reuters.com/post/3m6vknxa72i2w)
+[2025-12-01 13:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vmbm2zwp23)
 
 ---
 
-@sokuho.news
+@nhknewsunofficial.bsky.social
 
-🛎️JNNより【速報】です。
+政府与党連絡会議 高市政権の発足後で初
+https://news.web.nhk/newsweb/na/na-k10014990541000
 
-【速報】強盗傷害事件発生 北海道江別市の公園で28歳の男性が男2人に襲われる 男らは現金数万円を強奪して逃走
-(2025-12-01 12:55:00) #ニュース
-
-[2025-12-01 13:09:43](https://bsky.app/profile/sokuho.news/post/3m6vkn3rv742w)
+[2025-12-01 13:36:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vm4e6vzx24)
 
 ---
 
-@sokuho.news
+@nhknewsunofficial.bsky.social
 
-🛎️JNNより【速報】です。
+東京 品川で住宅火災
+https://news.web.nhk/newsweb/na/na-k10014990801000
 
-【速報】84歳運転の車が事故 歩行男性が意識不明の重体 兵庫・姫路市の信号のない交差点 「横断歩道を歩く人に衝突したのは間違いない」
-(2025-12-01 12:18:05) #ニュース
-
-[2025-12-01 13:04:31](https://bsky.app/profile/sokuho.news/post/3m6vkdsee6t2x)
+[2025-12-01 13:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vm47zs572p)
 
 ---
 
-@npr.org
+@financialtimes.com
 
-Thousands of demonstrators including from the dominant Roman Catholic church clergy are protesting in the Philippines, calling for the swift prosecution of top legislators. n.pr/48brg8f
+ Learning to lead in a world of spiralling complexity on.ft.com/44lIYDJ  | opinion
 
-[2025-12-01 13:02:36](https://bsky.app/profile/npr.org/post/3m6vkafhaww23)
+[2025-12-01 13:32:53](https://bsky.app/profile/financialtimes.com/post/3m6vlwjucyz26)
 
 ---
 
-@axios.com
+@nikkei.com
 
-Negotiations between the U.S. and Ukraine today focused on where the de facto border with Russia would be drawn under a peace deal, two Ukrainian officials tell Axios.
+ハローワーク職員が就職水増し、求職者になりすまし（無料記事）
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-01 13:02:08](https://bsky.app/profile/axios.com/post/3m6vk7knrok2g)
+職業相談担当の職員1人が偽名を使って求職者2人分を登録し、求人を出した企業に紹介。
+
+紹介した企業は判明しているだけで9社に上り、うち4社で内定を得ていました。
+
+#ニュース
+
+[2025-12-01 13:30:46](https://bsky.app/profile/nikkei.com/post/3m6vlsqvcfw2k)
 
 ---
 
