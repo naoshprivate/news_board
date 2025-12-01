@@ -1,9 +1,9 @@
-# [2025-12-01 18:50 updated](2025_12_01.md)
+# [2025-12-01 19:10 updated](2025_12_01.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">【鉄道忘れ物市は大阪発祥？】 遺失物ビジネス発展に大阪人の目利き力 www.nikkei.com/article/DGXZQO...  店内には200〜300円ほどの充電ケーブルやメガネから数万円の「グッチ」の高級バッグまで。  「仕入れ」の舞台は鉄道会社や警察が開く遺失物オークションです。 <a href="https://bsky.app/profile/nikkei.com/post/3m6w5ht6ma72z" target="_blank">nikkei.com</a> (2025-12-01 18:46:47)</span><span style="padding-right:50px;">Tesla November car registrations drop 58% in France, 49% in Denmark, data shows reut.rs/3MxVGc4 <a href="https://bsky.app/profile/reuters.com/post/3m6w5exovkp26" target="_blank">reuters.com</a> (2025-12-01 18:45:11)</span><span style="padding-right:50px;">楽天 最多安打の村林一輝 推定年俸1億2500万円で契約更改 https://news.web.nhk/newsweb/na/na-k10014991101000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6w5ewvf3k26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 18:45:08)</span><span style="padding-right:50px;">Economists predicted a global shock from President Trump’s tariffs, but some of them are now revising their growth predictions upward due to AI spending by the U.S. tech industry. <a href="https://bsky.app/profile/wsj.com/post/3m6w5eth25y2p" target="_blank">wsj.com</a> (2025-12-01 18:45:06)</span><span style="padding-right:50px;">ツルハHD ウエルシアHDと経営統合 “3兆円の売り上げ目指す” https://news.web.nhk/newsweb/na/na-k10014991081000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6w5ersiop2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 18:45:02)</span>
+<span style="padding-right:50px;">UK's Ofcom fines Virgin Media $31 million reut.rs/4q0rGo3 <a href="https://bsky.app/profile/reuters.com/post/3m6w6io6fjl27" target="_blank">reuters.com</a> (2025-12-01 19:05:09)</span><span style="padding-right:50px;">Ukraine peace talks shift to Moscow — the big unknown is whether Putin will play ball <a href="https://bsky.app/profile/cnbc.com/post/3m6w6h6hbys2o" target="_blank">cnbc.com</a> (2025-12-01 19:04:19)</span><span style="padding-right:50px;">Death toll in Indonesia floods passes 500 <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6w6fpmjtj2e" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-01 19:03:29)</span><span style="padding-right:50px;">無印良品 ネット通販一部受注再開 全商品再開は12月中旬見通し https://news.web.nhk/newsweb/na/na-k10014991071000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6w6exhnau2t" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 19:03:03)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】広陵野球部 暴力行為を加えた部員2人を書類送検 学校側に伝える (2025-12-01 18:50) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6w6bw6yr62h" target="_blank">sokuho.news</a> (2025-12-01 19:01:22)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49303.28 (🔻1015.31 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3082.00 (🔻50.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.28 (🔻0.78 : 2025-12-01)</span>
+<span style="padding-right:50px;">NIKKEI: 49303.28 (🔻1015.31 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3082.00 (🔻50.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.24 (🔻0.81 : 2025-12-01)</span>
   </div>
 </div>
 
@@ -32,103 +32,105 @@
 
 ## News Headlines
 
-1. 鉄道忘れ物市は大阪発祥？遺失物ビジネスに大阪人の目利き力
-2. テスラ、フランスとデンマークで11月登録台数大幅減
-3. ツルハHDとウエルシアHDが経営統合へ、売上高3兆円目指す
-4. 三省堂書店神田神保町本店、売り場面積4割減で再開業へ
-5. 円高進行、日銀の追加利上げ観測が背景
-6. 能登半島地震から2年、解体終わらない空き家110か所余
+1. 英Ofcom、ヴァージンメディアに3100万ドルの罰金
+2. インドネシア洪水、死者500人超え
+3. 広陵野球部、暴力行為で部員2人を書類送検
+4. 水戸ホーリーホック、J1初昇格の「奇跡」
+5. 無印良品ネット通販、一部受注再開へ
+6. ホンジュラス大統領選、野党候補が接戦
 
 ----
 
-@nikkei.com
+@reuters.com
 
-【鉄道忘れ物市は大阪発祥？】
-遺失物ビジネス発展に大阪人の目利き力
-www.nikkei.com/article/DGXZQO...
+UK's Ofcom fines Virgin Media $31 million reut.rs/4q0rGo3
 
-店内には200〜300円ほどの充電ケーブルやメガネから数万円の「グッチ」の高級バッグまで。
-
-「仕入れ」の舞台は鉄道会社や警察が開く遺失物オークションです。
-
-[2025-12-01 18:46:47](https://bsky.app/profile/nikkei.com/post/3m6w5ht6ma72z)
+[2025-12-01 19:05:09](https://bsky.app/profile/reuters.com/post/3m6w6io6fjl27)
 
 ---
 
-@reuters.com
+@cnbc.com
 
-Tesla November car registrations drop 58% in France, 49% in Denmark, data shows reut.rs/3MxVGc4
+Ukraine peace talks shift to Moscow — the big unknown is whether Putin will play ball
 
-[2025-12-01 18:45:11](https://bsky.app/profile/reuters.com/post/3m6w5exovkp26)
+[2025-12-01 19:04:19](https://bsky.app/profile/cnbc.com/post/3m6w6h6hbys2o)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Death toll in Indonesia floods passes 500
+
+[2025-12-01 19:03:29](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6w6fpmjtj2e)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-楽天 最多安打の村林一輝 推定年俸1億2500万円で契約更改
-https://news.web.nhk/newsweb/na/na-k10014991101000
+無印良品 ネット通販一部受注再開 全商品再開は12月中旬見通し
+https://news.web.nhk/newsweb/na/na-k10014991071000
 
-[2025-12-01 18:45:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6w5ewvf3k26)
-
----
-
-@wsj.com
-
-Economists predicted a global shock from President Trump’s tariffs, but some of them are now revising their growth predictions upward due to AI spending by the U.S. tech industry.
-
-[2025-12-01 18:45:06](https://bsky.app/profile/wsj.com/post/3m6w5eth25y2p)
-
----
-
-@nhknewsunofficial.bsky.social
-
-ツルハHD ウエルシアHDと経営統合 “3兆円の売り上げ目指す”
-https://news.web.nhk/newsweb/na/na-k10014991081000
-
-[2025-12-01 18:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6w5ersiop2b)
-
----
-
-@reuters.com
-
-Tajikistan says five people have been killed in cross-border attacks from Afghanistan in past week reut.rs/44lUXkH
-
-[2025-12-01 18:40:10](https://bsky.app/profile/reuters.com/post/3m6w53yngmv2i)
-
----
-
-@reuters.com
-
-LIVE: Ukraine's Zelenskiy visits the Elysee presidential palace in Paris youtube.com/live/5QxlwNN...
-
-[2025-12-01 18:39:09](https://bsky.app/profile/reuters.com/post/3m6w526fdlc2i)
+[2025-12-01 19:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6w6exhnau2t)
 
 ---
 
 @sokuho.news
 
-🛎️NNNより【速報】です。
+🛎️FNNより【速報】です。
 
-【速報】40代と60代の男性作業員2人が死亡 バキュームカーの下敷きに 大分県日田市
-(2025-12-01 18:38) #ニュース
+【速報】広陵野球部 暴力行為を加えた部員2人を書類送検 学校側に伝える
+(2025-12-01 18:50) #ニュース
 
-[2025-12-01 18:39:06](https://bsky.app/profile/sokuho.news/post/3m6w5246i6f27)
+[2025-12-01 19:01:22](https://bsky.app/profile/sokuho.news/post/3m6w6bw6yr62h)
+
+---
+
+@nikkei.com
+
+水戸ホーリーホックがJ1初昇格、貧乏球団の｢奇跡｣
+www.nikkei.com/article/DGXZQO...
+
+「去年はJ3への降格争いだったのに、今年は優勝してJ1。信じられない」
+
+2000年にJ2に参入して以来、26年続いたJ2生活。売上高はJ1チーム平均の4分の1ほどで、年俸も高くありません。
+
+「やりきる・走りきる・勝ちきる」のスローガンどおり、堅守速攻で選手たちが躍動しました。
+
+一方で、本拠地スタジアムの移転という難題も迫っています。
+
+[2025-12-01 19:00:47](https://bsky.app/profile/nikkei.com/post/3m6w6auh43b2i)
 
 ---
 
 @reuters.com
 
-China export controls push European firms to move supply chains reut.rs/4pJGebt
+Thai central bank planning measures to ease strong baht, sees room for rate cuts reut.rs/4rzNA2Y
 
-[2025-12-01 18:35:09](https://bsky.app/profile/reuters.com/post/3m6w4szpyu72k)
+[2025-12-01 19:00:44](https://bsky.app/profile/reuters.com/post/3m6w6arjflb27)
 
 ---
 
-@reuters.com
+@apnews.com
 
-A Filipino domestic worker, Rhodora Alcaraz, who rescued a three-month-old baby from a residential fire in Hong Kong has been praised for bravery by members of the Filipino community as well as her former employer.
+Arkansas hired Ryan Silverfield away from Memphis as the Razorbacks’ new coach Sunday after a miserable 2-10 season filled with near misses.
 
-[2025-12-01 18:32:42](https://bsky.app/profile/reuters.com/post/3m6w4on2s7s2h)
+[2025-12-01 19:00:27](https://bsky.app/profile/apnews.com/post/3m6w6abeeli2p)
+
+---
+
+@aljazeera.com
+
+Nasry Asfura holds a narrow lead over his rival Salvador Nasralla, with about 40 percent of the votes counted.
+
+[2025-12-01 19:00:18](https://bsky.app/profile/aljazeera.com/post/3m6w67z2dqr23)
+
+---
+
+@bloomberg.com
+
+Shifting the cost of the tariffs to customers would mean a price increase of about 17%, CEO Yoshinori Kanehana told Bloomberg.
+
+[2025-12-01 19:00:13](https://bsky.app/profile/bloomberg.com/post/3m6w67twthf2d)
 
 ---
 
