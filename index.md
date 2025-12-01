@@ -1,9 +1,9 @@
-# [2025-12-01 08:50 updated](2025_12_01.md)
+# [2025-12-01 09:10 updated](2025_12_01.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:福島県沖, 深さ:40km マグニチュード:4.2, 最大震度:2 📍https://www.google.com/maps?q=37.3,141.6&ll=37.3,141.6&z=7&t=h 地震発生日時:2025-12-01 08:44頃 (10倍速▶180s→18s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m6v3zpsew522" target="_blank">sokuho.news</a> (2025-12-01 08:48:20)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  8時44分頃、福島県・宮城県で最大震度2の地震を観測しました。 震源:福島県沖, 深さ:40km, 規模:M4.2 この地震による津波の心配はありません。 (2025-12-01 08:47:43) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/01/2025-12-01-08-44-45.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3m6v3ynqf2g2x" target="_blank">sokuho.news</a> (2025-12-01 08:47:44)</span><span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像3🈡 (2025-12-01 08:45:32) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m6v3v2ifyp2m" target="_blank">sokuho.news</a> (2025-12-01 08:45:43)</span><span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像2 (2025-12-01 08:45:15) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m6v3ugvwvm26" target="_blank">sokuho.news</a> (2025-12-01 08:45:23)</span><span style="padding-right:50px;">China's military firms struggle as corruption purge bites, report says reut.rs/443l3su <a href="https://bsky.app/profile/reuters.com/post/3m6v3u5yq6k2k" target="_blank">reuters.com</a> (2025-12-01 08:45:13)</span>
+<span style="padding-right:50px;">米・ウクライナ和平協議、ルビオ氏「生産的」－打開には至らず <a href="https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6v4xsidbr2q" target="_blank">bloomberg-jp.bsky.social</a> (2025-12-01 09:05:09)</span><span style="padding-right:50px;">香港の大規模火災、政府は市民の怒り封じ込めに取り組む－死者数146人 <a href="https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6v4xofa2426" target="_blank">bloomberg-jp.bsky.social</a> (2025-12-01 09:05:05)</span><span style="padding-right:50px;">【今朝の5本】仕事を始める前に読んでおきたい厳選ニュース <a href="https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6v4xk77uz2q" target="_blank">bloomberg-jp.bsky.social</a> (2025-12-01 09:05:01)</span><span style="padding-right:50px;">ボーナス減るのは米社債トレーダー、勝ち組と格差－日本市場も低調 <a href="https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6v4xgdsgp23" target="_blank">bloomberg-jp.bsky.social</a> (2025-12-01 09:04:57)</span><span style="padding-right:50px;">米ブラックフライデー売上高、前年より伸び加速－個人消費の堅調示唆 <a href="https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6v4xcdds42r" target="_blank">bloomberg-jp.bsky.social</a> (2025-12-01 09:04:53)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50253.91 (🔺34.95 : 2025-11-28)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3133.00 (🔻7.00 : 2025-11-28)</span><span style="padding-right:50px;">USD/JPY: 156.01 (🔻0.05 : 2025-11-30)</span>
+<span style="padding-right:50px;">^N225: Error</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">7203.T: Error</span><span style="padding-right:50px;">USD/JPY: 155.87 (🔻0.19 : 2025-12-01)</span>
   </div>
 </div>
 
@@ -32,122 +32,92 @@
 
 ## News Headlines
 
-1. 福島県沖でM4.2の地震発生、最大震度2
-2. 中国軍事企業、汚職撲滅で苦境か
-3. 日本と中国、台湾を巡る緊張で関係悪化の危機？
-4. OPECプラス、現状の原油生産量を維持
-5. AI搭載ツール、グループ写真や自撮りを進化させる一方で懸念も
-6. 東京の都市圏人口、世界3位に後退
+1. 米ウクライナ和平協議、打開には至らず
+2. 香港大規模火災、市民の怒り封じ込め
+3. 米ブラックフライデー売上高が加速、個人消費は堅調
+4. 中国製造業活動、過去最長の低迷
+5. CMEで先物取引が一時停止、データセンター冷却障害が発生
+6. 国内企業経常利益、去年同期比19.7%増
 
 ----
 
-@sokuho.news
+@bloomberg-jp.bsky.social
 
-🔔防災科研より【強震モニタ】動画です。
+米・ウクライナ和平協議、ルビオ氏「生産的」－打開には至らず
 
-震源:福島県沖, 深さ:40km
-マグニチュード:4.2, 最大震度:2
-📍https://www.google.com/maps?q=37.3,141.6&ll=37.3,141.6&z=7&t=h
-地震発生日時:2025-12-01 08:44頃
-(10倍速▶180s→18s) #地震
-
-[2025-12-01 08:48:20](https://bsky.app/profile/sokuho.news/post/3m6v3zpsew522)
+[2025-12-01 09:05:09](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6v4xsidbr2q)
 
 ---
 
-@sokuho.news
+@bloomberg-jp.bsky.social
 
-🔔気象庁より【地震速報】です。
+香港の大規模火災、政府は市民の怒り封じ込めに取り組む－死者数146人
 
-8時44分頃、福島県・宮城県で最大震度2の地震を観測しました。
-震源:福島県沖, 深さ:40km, 規模:M4.2
-この地震による津波の心配はありません。
-(2025-12-01 08:47:43) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/01/2025-12-01-08-44-45.html?xlarge_image=1
-
-[2025-12-01 08:47:44](https://bsky.app/profile/sokuho.news/post/3m6v3ynqf2g2x)
+[2025-12-01 09:05:05](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6v4xofa2426)
 
 ---
 
-@sokuho.news
+@bloomberg-jp.bsky.social
 
-🚨地震発生中❗❗
+【今朝の5本】仕事を始める前に読んでおきたい厳選ニュース
 
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像3🈡
-(2025-12-01 08:45:32) #緊急地震速報
-
-[2025-12-01 08:45:43](https://bsky.app/profile/sokuho.news/post/3m6v3v2ifyp2m)
+[2025-12-01 09:05:01](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6v4xk77uz2q)
 
 ---
 
-@sokuho.news
+@bloomberg-jp.bsky.social
 
-🚨地震発生中❗❗
+ボーナス減るのは米社債トレーダー、勝ち組と格差－日本市場も低調
 
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像2
-(2025-12-01 08:45:15) #緊急地震速報
-
-[2025-12-01 08:45:23](https://bsky.app/profile/sokuho.news/post/3m6v3ugvwvm26)
+[2025-12-01 09:04:57](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6v4xgdsgp23)
 
 ---
 
-@reuters.com
+@bloomberg-jp.bsky.social
 
-China's military firms struggle as corruption purge bites, report says reut.rs/443l3su
+米ブラックフライデー売上高、前年より伸び加速－個人消費の堅調示唆
 
-[2025-12-01 08:45:13](https://bsky.app/profile/reuters.com/post/3m6v3u5yq6k2k)
-
----
-
-@bloomberg.com
-
-What’s next for Japan and China as tensions over Taiwan threaten to derail what was seen as a warming of ties? 
-
-Join us for a Live Q&A on Dec 1 at 10 a.m. HKT / Nov 30 at 9 p.m. EST ⤵️
-
-[2025-12-01 08:45:09](https://bsky.app/profile/bloomberg.com/post/3m6v3tzsgjx2s)
+[2025-12-01 09:04:53](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6v4xcdds42r)
 
 ---
 
-@sokuho.news
+@bloomberg-jp.bsky.social
 
-🚨地震発生中❗❗
+AI覇権争い、グーグルがChatGPTに追いつかない理由
 
-⚠️揺れに警戒してください
-🔗http://www.kmoni.bosai.go.jp/
-
-🔶防災科研/強震モニタ/予測震度画像1
-(2025-12-01 08:45:00) #緊急地震速報
-
-[2025-12-01 08:45:07](https://bsky.app/profile/sokuho.news/post/3m6v3ty4nfe26)
+[2025-12-01 09:04:48](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6v4x6cdl72j)
 
 ---
 
-@nytimes.com
+@bloomberg-jp.bsky.social
 
-James Riches, a retired deputy chief for the New York City Fire Department who spent months in the wreckage of the World Trade Center searching for the remains of his firefighter son and others who were killed in the Sept. 11, 2001, attacks, died on Thursday. He was 74.
+台湾は地政学そのもの、今後数カ月が極めて重要
 
-[2025-12-01 08:42:03](https://bsky.app/profile/nytimes.com/post/3m6v3ohy2yd2q)
-
----
-
-@reuters.com
-
-Oil rises after OPEC+ meeting maintains current output reut.rs/3MfDNyG
-
-[2025-12-01 08:40:12](https://bsky.app/profile/reuters.com/post/3m6v3l6igeu2i)
+[2025-12-01 09:04:44](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6v4x2akth23)
 
 ---
 
-@reuters.com
+@bloomberg-jp.bsky.social
 
-Trump confirms conversation with Venezuela's Maduro reut.rs/4oqQODa
+FRB次期議長選び、ハセット氏について語ろう
 
-[2025-12-01 08:35:09](https://bsky.app/profile/reuters.com/post/3m6v3c5t4mi2i)
+[2025-12-01 09:04:39](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6v4wvvawk25)
+
+---
+
+@bloomberg-jp.bsky.social
+
+FRB議長候補ハセット氏、市場はトランプ氏の指名発表に備え万全
+
+[2025-12-01 09:04:35](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6v4wrd6d426)
+
+---
+
+@apnews.com
+
+Michigan State plans to hire former Northwestern coach Pat Fitzgerald to lead its football program.
+
+[2025-12-01 09:04:34](https://bsky.app/profile/apnews.com/post/3m6v4wq7orn22)
 
 ---
 
