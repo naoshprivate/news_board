@@ -1,9 +1,9 @@
-# [2025-12-02 01:10 updated](2025_12_02.md)
+# [2025-12-02 01:30 updated](2025_12_02.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">UK PM Starmer praises budget for retaining market confidence, sees growth ahead reut.rs/48e5Yqo <a href="https://bsky.app/profile/reuters.com/post/3m6wsmhpks222" target="_blank">reuters.com</a> (2025-12-02 01:05:11)</span><span style="padding-right:50px;">政府 大雨被害のスリランカに医療チーム派遣を決定 https://news.web.nhk/newsweb/na/na-k10014991501000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6wsioqv6v2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-02 01:03:02)</span><span style="padding-right:50px;">OpenAI takes stake in Thrive Holdings to help accelerate enterprise AI adoption <a href="https://bsky.app/profile/cnbc.com/post/3m6wsibislg2y" target="_blank">cnbc.com</a> (2025-12-02 01:02:50)</span><span style="padding-right:50px;">The program has been helping children get gifts for over 100 years. <a href="https://bsky.app/profile/usatoday.com/post/3m6wshl3c2t2t" target="_blank">usatoday.com</a> (2025-12-02 01:02:27)</span><span style="padding-right:50px;">Exclusive: Alberta oil regulator stopped enforcing gas flaring limits after government pressure, documents show reut.rs/4rCQsMz <a href="https://bsky.app/profile/reuters.com/post/3m6wsfkluij2r" target="_blank">reuters.com</a> (2025-12-02 01:01:19)</span>
+<span style="padding-right:50px;">Gunvor said billionaire founder Torbjörn Törnqvist would leave the commodities-trading company and sell his stake to employees, less than a month after the Trump administration pilloried the firm over its alleged ties to Moscow. <a href="https://bsky.app/profile/wsj.com/post/3m6wtt6lyge2i" target="_blank">wsj.com</a> (2025-12-02 01:26:50)</span><span style="padding-right:50px;">Bitcoin champion Strategy launches ‘dollar reserve’ amid crypto sell-off on.ft.com/3Y16mm6 <a href="https://bsky.app/profile/financialtimes.com/post/3m6wtrnsm6o2n" target="_blank">financialtimes.com</a> (2025-12-02 01:25:59)</span><span style="padding-right:50px;">Saudi Arabia aims to draw in more Japanese investment, PIF governor says reut.rs/4rrgqTb <a href="https://bsky.app/profile/reuters.com/post/3m6wtq7gjbq2a" target="_blank">reuters.com</a> (2025-12-02 01:25:10)</span><span style="padding-right:50px;">Asia floods death toll tops 1,100 as troops aid survivors   The toll in deadly flooding and landslides across parts of Asia has climbed past 1,100 as hardest-hit Sri Lanka and Indonesia deployed military personnel to help survivors. #AFPVertical <a href="https://bsky.app/profile/en.afp.com/post/3m6wtil5g4d2x" target="_blank">en.afp.com</a> (2025-12-02 01:20:54)</span><span style="padding-right:50px;">Florida hires Tulane’s Jon Sumrall as its next coach, settling for its second choice after Lane Kiffin reportedly picked LSU over the Gators. <a href="https://bsky.app/profile/nbcnews.com/post/3m6wthau5ja2w" target="_blank">nbcnews.com</a> (2025-12-02 01:20:10)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49303.28 (🔻1015.31 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47454.78 (🔻126.07 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23250.20 (🔺77.86 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.01 (🔺4.31 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3082.00 (🔻50.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.11 (🔻0.94 : 2025-12-01)</span>
+<span style="padding-right:50px;">NIKKEI: 49303.28 (🔻1015.31 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47490.52 (🔻90.33 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23266.14 (🔺93.80 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 178.99 (🔺4.29 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3082.00 (🔻50.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.27 (🔻0.78 : 2025-12-01)</span>
   </div>
 </div>
 
@@ -32,93 +32,96 @@
 
 ## News Headlines
 
-1. 英国首相、予算を評価し市場の信頼維持、成長見通し
-2. 政府、スリランカ大雨被害に医療チーム派遣を決定
-3. アルバータ州、政府圧力でガス燃焼制限の執行停止
-4. イスラエル、レーザー防衛システム「アイアンビーム」を12月末に配備
-5. 立憲民主党、土地・建物の所有者国籍収集法案を提出
-6. トランプ前大統領が指名したN.J.検察官、控訴裁判所が無効と判断
+1.  グンヴォール創業者、トーンクヴィスト氏が退任、従業員に株式売却
+2.  マイクロストラテジー、仮想通貨売りの中で「ドル準備」を開始
+3.  サウジアラビア、日本からの投資誘致を目指す
+4.  アジアの洪水による死者、1100人超え
+5.  ニューヨーク州、ブロンクスとクイーンズにカジノライセンスを推奨
+6.  トランプ氏、2度目の大統領就任後も首都に影響力
 
 ----
 
-@reuters.com
+@wsj.com
 
-UK PM Starmer praises budget for retaining market confidence, sees growth ahead reut.rs/48e5Yqo
+Gunvor said billionaire founder Torbjörn Törnqvist would leave the commodities-trading company and sell his stake to employees, less than a month after the Trump administration pilloried the firm over its alleged ties to Moscow.
 
-[2025-12-02 01:05:11](https://bsky.app/profile/reuters.com/post/3m6wsmhpks222)
-
----
-
-@nhknewsunofficial.bsky.social
-
-政府 大雨被害のスリランカに医療チーム派遣を決定
-https://news.web.nhk/newsweb/na/na-k10014991501000
-
-[2025-12-02 01:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6wsioqv6v2k)
+[2025-12-02 01:26:50](https://bsky.app/profile/wsj.com/post/3m6wtt6lyge2i)
 
 ---
 
-@cnbc.com
+@financialtimes.com
 
-OpenAI takes stake in Thrive Holdings to help accelerate enterprise AI adoption
+Bitcoin champion Strategy launches ‘dollar reserve’ amid crypto sell-off on.ft.com/3Y16mm6
 
-[2025-12-02 01:02:50](https://bsky.app/profile/cnbc.com/post/3m6wsibislg2y)
-
----
-
-@usatoday.com
-
-The program has been helping children get gifts for over 100 years.
-
-[2025-12-02 01:02:27](https://bsky.app/profile/usatoday.com/post/3m6wshl3c2t2t)
+[2025-12-02 01:25:59](https://bsky.app/profile/financialtimes.com/post/3m6wtrnsm6o2n)
 
 ---
 
 @reuters.com
 
-Exclusive: Alberta oil regulator stopped enforcing gas flaring limits after government pressure, documents show reut.rs/4rCQsMz
+Saudi Arabia aims to draw in more Japanese investment, PIF governor says reut.rs/4rrgqTb
 
-[2025-12-02 01:01:19](https://bsky.app/profile/reuters.com/post/3m6wsfkluij2r)
-
----
-
-@apnews.com
-
-References to the "K-shaped economy" are rapidly proliferating.
-
-[2025-12-02 01:01:15](https://bsky.app/profile/apnews.com/post/3m6wsfg5j5d2j)
+[2025-12-02 01:25:10](https://bsky.app/profile/reuters.com/post/3m6wtq7gjbq2a)
 
 ---
 
-@usatoday.com
+@en.afp.com
 
-Here’s what Metamucil is, the benefits it provides and why moderation matters.
+Asia floods death toll tops 1,100 as troops aid survivors
+ 
+The toll in deadly flooding and landslides across parts of Asia has climbed past 1,100 as hardest-hit Sri Lanka and Indonesia deployed military personnel to help survivors.
+#AFPVertical
 
-[2025-12-02 01:00:53](https://bsky.app/profile/usatoday.com/post/3m6wservw2n2h)
-
----
-
-@cnn.com
-
-In the ten months since Trump took office for the second time, he has left his imprint on the nation’s capital in a manner that’s impossible to ignore.
-
-[2025-12-02 01:00:43](https://bsky.app/profile/cnn.com/post/3m6wsehkge62q)
-
----
-
-@washingtonpost.com
-
-Fear of arrest has chilled activity in Chicago’s predominantly Latino neighborhoods, where businesses in one area report their sales have dropped anywhere from 20 to 70 percent. 
-
-[2025-12-02 01:00:42](https://bsky.app/profile/washingtonpost.com/post/3m6wsehdk3q23)
+[2025-12-02 01:20:54](https://bsky.app/profile/en.afp.com/post/3m6wtil5g4d2x)
 
 ---
 
 @nbcnews.com
 
- President Trump says that he would release the results of his MRI test that he received in October.
+Florida hires Tulane’s Jon Sumrall as its next coach, settling for its second choice after Lane Kiffin reportedly picked LSU over the Gators.
 
-[2025-12-02 01:00:12](https://bsky.app/profile/nbcnews.com/post/3m6wsdkk2zu2w)
+[2025-12-02 01:20:10](https://bsky.app/profile/nbcnews.com/post/3m6wthau5ja2w)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+バスケットボール男子日本代表 台湾に勝って2連勝
+https://news.web.nhk/newsweb/na/na-k10014991471000
+
+[2025-12-02 01:18:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6wtdjp2np24)
+
+---
+
+@reuters.com
+
+Gulf markets mixed on US rate cut hopes reut.rs/3XssaH7
+
+[2025-12-02 01:15:15](https://bsky.app/profile/reuters.com/post/3m6wt6hmgu427)
+
+---
+
+@cnbc.com
+
+Josh Brown bought this tech stock when he was a retail broker decades ago. Now it's back on his radar
+
+[2025-12-02 01:15:01](https://bsky.app/profile/cnbc.com/post/3m6wt62mlnq2e)
+
+---
+
+@nytimes.com
+
+<strong><span style="color: red;">Breaking News</span>: A New York board recommended licenses for three casinos, one in the Bronx and two in Queens, to a state commission, which is expected to award all three.</strong>
+
+[2025-12-02 01:10:59](https://bsky.app/profile/nytimes.com/post/3m6wswtsqld2x)
+
+---
+
+@reuters.com
+
+Blue Owl's teachable moment for investors and asset managers chasing yield and 'hot money' reut.rs/48n4Kba
+
+[2025-12-02 01:10:17](https://bsky.app/profile/reuters.com/post/3m6wsvluapa2n)
 
 ---
 
