@@ -1,9 +1,9 @@
-# [2025-12-02 04:10 updated](2025_12_02.md)
+# [2025-12-02 04:30 updated](2025_12_02.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;"> Barrick looks for gold in North American asset IPO on.ft.com/4pGzBXa  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m6x4pgx3dx2n" target="_blank">financialtimes.com</a> (2025-12-02 04:05:48)</span><span style="padding-right:50px;">Britain will spend more on new medicines in exchange for avoiding tariffs on U.K. pharmaceutical exports to the U.S. <a href="https://bsky.app/profile/wsj.com/post/3m6x4p2fmlj2h" target="_blank">wsj.com</a> (2025-12-02 04:05:35)</span><span style="padding-right:50px;">US manufacturing stuck in doldrums as tariff headwinds persist reut.rs/4pA0Lz4 <a href="https://bsky.app/profile/reuters.com/post/3m6x4odg2rh27" target="_blank">reuters.com</a> (2025-12-02 04:05:11)</span><span style="padding-right:50px;">A Brazilian teenager was mauled by a lioness in full view of zoo visitors on Sunday, after scaling a six-meter wall and safety fencing and shimmying down a tree into the enclosure, authorities said. <a href="https://bsky.app/profile/cbsnews.com/post/3m6x4nz4txz2o" target="_blank">cbsnews.com</a> (2025-12-02 04:05:00)</span><span style="padding-right:50px;">France's Orano says uranium convoy from seized Niger mine poses safety risks reut.rs/4oxIMsb <a href="https://bsky.app/profile/reuters.com/post/3m6x4gyo3xw2a" target="_blank">reuters.com</a> (2025-12-02 04:01:05)</span>
+<span style="padding-right:50px;">A Florida jury sides with Megan Thee Stallion, agreeing that a blogger defamed and harassed the rapper after she was shot five years ago by R&B musician Tory Lanez. <a href="https://bsky.app/profile/nbcnews.com/post/3m6x5xdtjox27" target="_blank">nbcnews.com</a> (2025-12-02 04:28:07)</span><span style="padding-right:50px;">Canada's Barrick Mining explores IPO of North American assets reut.rs/4pFdcJI <a href="https://bsky.app/profile/reuters.com/post/3m6x5s2ct5e2n" target="_blank">reuters.com</a> (2025-12-02 04:25:09)</span><span style="padding-right:50px;">Peru landslide: 12 killed after two boats hit in Amazon rainforest <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6x5okldm22l" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-02 04:23:11)</span><span style="padding-right:50px;">New York City will get three mega-casinos after a state commission awarded licenses to Mets owner Steve Cohen and two other proposals. <a href="https://bsky.app/profile/wsj.com/post/3m6x5lzupef2r" target="_blank">wsj.com</a> (2025-12-02 04:21:48)</span><span style="padding-right:50px;">A new survey of centenarians finds a growing number of people living to 100 have prioritized healthy habits. Here's how exercise, social connection and positivity play a role in aging well. <a href="https://bsky.app/profile/npr.org/post/3m6x5lno7hh2i" target="_blank">npr.org</a> (2025-12-02 04:21:35)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49303.28 (🔻1015.31 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47481.04 (🔻99.81 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23318.51 (🔺146.16 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.49 (🔺4.79 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3082.00 (🔻50.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.51 (🔻0.54 : 2025-12-01)</span>
+<span style="padding-right:50px;">NIKKEI: 49303.28 (🔻1015.31 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47370.67 (🔻210.18 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23273.24 (🔺100.90 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.07 (🔺4.37 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3082.00 (🔻50.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.49 (🔻0.57 : 2025-12-01)</span>
   </div>
 </div>
 
@@ -32,92 +32,93 @@
 
 ## News Headlines
 
-1. 米国製造業、関税の影響で低迷続く
-2. エアバスA320型機に技術的問題、相次ぐ警告
-3. トランプ大統領、元PEファンドCEOの刑を減刑
-4. ディズニー、AI時代の電力不足に対応強化でエネルギートレーダー採用
-5. ショッピングプラットフォームShopifyでCyber Mondayに障害発生
-6. ロシア軍、ウクライナのドニプロを攻撃、死傷者多数
+1. メーガン・ザ・スタリオン、名誉毀損訴訟でブロガーに勝訴
+2. NYC、3つのメガカジノにライセンス付与
+3. RBC、S&P500の12ヶ月目標を7,750に設定
+4. NY市、スターバックスと3890万ドルの和解
+5. トランプ前大統領、元PE CEOの刑期を短縮
+6. 東京ディズニーシーのホテルに刃物男、けが人なし
 
 ----
 
-@financialtimes.com
+@nbcnews.com
 
- Barrick looks for gold in North American asset IPO on.ft.com/4pGzBXa  | opinion
+A Florida jury sides with Megan Thee Stallion, agreeing that a blogger defamed and harassed the rapper after she was shot five years ago by R&B musician Tory Lanez.
 
-[2025-12-02 04:05:48](https://bsky.app/profile/financialtimes.com/post/3m6x4pgx3dx2n)
+[2025-12-02 04:28:07](https://bsky.app/profile/nbcnews.com/post/3m6x5xdtjox27)
+
+---
+
+@reuters.com
+
+Canada's Barrick Mining explores IPO of North American assets reut.rs/4pFdcJI
+
+[2025-12-02 04:25:09](https://bsky.app/profile/reuters.com/post/3m6x5s2ct5e2n)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Peru landslide: 12 killed after two boats hit in Amazon rainforest
+
+[2025-12-02 04:23:11](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6x5okldm22l)
 
 ---
 
 @wsj.com
 
-Britain will spend more on new medicines in exchange for avoiding tariffs on U.K. pharmaceutical exports to the U.S.
+New York City will get three mega-casinos after a state commission awarded licenses to Mets owner Steve Cohen and two other proposals.
 
-[2025-12-02 04:05:35](https://bsky.app/profile/wsj.com/post/3m6x4p2fmlj2h)
+[2025-12-02 04:21:48](https://bsky.app/profile/wsj.com/post/3m6x5lzupef2r)
 
 ---
 
-@reuters.com
+@npr.org
 
-US manufacturing stuck in doldrums as tariff headwinds persist reut.rs/4pA0Lz4
+A new survey of centenarians finds a growing number of people living to 100 have prioritized healthy habits. Here's how exercise, social connection and positivity play a role in aging well.
 
-[2025-12-02 04:05:11](https://bsky.app/profile/reuters.com/post/3m6x4odg2rh27)
+[2025-12-02 04:21:35](https://bsky.app/profile/npr.org/post/3m6x5lno7hh2i)
+
+---
+
+@yahoofinance.com
+
+RBC sets 12-month S&P 500 target at 7,750 as more Wall Street firms turn bullish on stocks
+
+[2025-12-02 04:21:08](https://bsky.app/profile/yahoofinance.com/post/3m6x5ktixbh2d)
+
+---
+
+@nytimes.com
+
+Mayor Eric Adams announced a $38.9 million settlement with Starbucks on Monday over violations of New York City’s law guaranteeing fair working conditions, a resolution that officials said was the largest worker protection settlement in the city’s history. trib.al/uqfim3j
+
+[2025-12-02 04:20:49](https://bsky.app/profile/nytimes.com/post/3m6x5kc36s22z)
+
+---
+
+@nbcnews.com
+
+At least nine elected Republicans in Indiana have been the target of swatting attacks in the weeks since President Trump publicly pressured state lawmakers to pass new congressional maps that would benefit Republicans.
+
+[2025-12-02 04:20:11](https://bsky.app/profile/nbcnews.com/post/3m6x5j5umpd2j)
 
 ---
 
 @cbsnews.com
 
-A Brazilian teenager was mauled by a lioness in full view of zoo visitors on Sunday, after scaling a six-meter wall and safety fencing and shimmying down a tree into the enclosure, authorities said.
+The average price across the U.S. now stands at $2.95 per gallon, down 8.5 cents from a week ago, according to GasBuddy.
 
-[2025-12-02 04:05:00](https://bsky.app/profile/cbsnews.com/post/3m6x4nz4txz2o)
 
----
-
-@reuters.com
-
-France's Orano says uranium convoy from seized Niger mine poses safety risks reut.rs/4oxIMsb
-
-[2025-12-02 04:01:05](https://bsky.app/profile/reuters.com/post/3m6x4gyo3xw2a)
-
----
-
-@cnn.com
-
-Airbus has identified an issue affecting “a limited number” of metal panels in its A320 passenger planes, a spokesperson for the company said Monday, just days after warning of another technical problem in its aircraft. https://cnn.it/3XsIc3S
-
-[2025-12-02 04:01:03](https://bsky.app/profile/cnn.com/post/3m6x4gwi65z2y)
+[2025-12-02 04:20:00](https://bsky.app/profile/cbsnews.com/post/3m6x5itd2du2p)
 
 ---
 
 @usatoday.com
 
-A group often forgotten about in the discussion of HIV – despite research pointing to an ongoing crisis – is Black women in the South. Why?
+<strong><span style="color: red;">BREAKING:</span> White House says President Trump's MRI results are 'perfectly normal' and the evaluation was 'preventative' in nature</strong><br><strong></strong><br><strong>The president is in good cardiovascular health, press secretary Karoline Leavitt said, in releasing results from a procedure done during Donald Trump's recent physical.</strong>
 
-[2025-12-02 04:00:41](https://bsky.app/profile/usatoday.com/post/3m6x4gbbftv2u)
-
----
-
-@cnbc.com
-
-Anthony Fredericks writes, "I’ve discovered that the key to excellent memory is to be intentional and proactive with cognitive-boosting activities every day."
-
-[2025-12-02 04:00:38](https://bsky.app/profile/cnbc.com/post/3m6x4g73a6c23)
-
----
-
-@aljazeera.com
-
-Senior military leaders suppressed reports of potential war crimes by elite troops, whistleblower testifies.
-
-[2025-12-02 04:00:21](https://bsky.app/profile/aljazeera.com/post/3m6x4fopy632l)
-
----
-
-@apnews.com
-
-In over 200 locations globally, photojournalists with The Associated Press are trusted eyewitnesses to the world's news, and have won 36 of AP's 59 Pulitzer Prizes since the award was established in 1917. See their most striking photos of 2025.
-
-[2025-12-02 04:00:20](https://bsky.app/profile/apnews.com/post/3m6x4fnyuxn2j)
+[2025-12-02 04:18:53](https://bsky.app/profile/usatoday.com/post/3m6x5gstxee2m)
 
 ---
 
