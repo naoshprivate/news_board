@@ -1,9 +1,9 @@
-# [2025-12-01 22:50 updated](2025_12_01.md)
+# [2025-12-01 23:10 updated](2025_12_01.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">アスクル、サイバー攻撃で11月売上高95%減 www.nikkei.com/article/DGXZQO...  10月19日にランサムウエアに感染し通販サイトを停止した影響で、11月度（10月21日〜11月20日）の法人向け「ASKUL」事業の売上高が94.6%減の17億円。  個人向け「LOHACO（ロハコ）」事業は99.9%減の300万円と、深刻な影響が出ています。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m6wkxzhpwd2i" target="_blank">nikkei.com</a> (2025-12-01 22:48:29)</span><span style="padding-right:50px;">Spend your FSA balance before it expires: Many workers 'aren't aware that they have a deadline,' expert says <a href="https://bsky.app/profile/cnbc.com/post/3m6wkvliyvh23" target="_blank">cnbc.com</a> (2025-12-01 22:47:07)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】パーティー会場に“刃物男” けが人なし 男は30歳～40歳くらい 現在逃走中 千葉・浦安市のホテルミラコスタ (2025-12-01 22:45) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6wkssjb2624" target="_blank">sokuho.news</a> (2025-12-01 22:45:34)</span><span style="padding-right:50px;">South Africa's Pick n Pay CFO Lerena Olivier to step down in 2026 reut.rs/3M8AKZc <a href="https://bsky.app/profile/reuters.com/post/3m6wks5yqjd2o" target="_blank">reuters.com</a> (2025-12-01 22:45:12)</span><span style="padding-right:50px;">Goldman Sachs acquires ETF firm for $2 billion in latest deal to bolster asset management division <a href="https://bsky.app/profile/cnbc.com/post/3m6wkroksg22h" target="_blank">cnbc.com</a> (2025-12-01 22:44:56)</span>
+<span style="padding-right:50px;">India plans to overhaul 'sin taxes' prior to phase-out of GST cess reut.rs/49OJhu5 <a href="https://bsky.app/profile/reuters.com/post/3m6wlvttc6b2k" target="_blank">reuters.com</a> (2025-12-01 23:05:10)</span><span style="padding-right:50px;">What began as a horrific shooting of two National Guard members in Washington, D.C., last week has now led to a set of far-reaching changes to the U.S. immigration system.  Listen to "The Daily." <a href="https://bsky.app/profile/nytimes.com/post/3m6wlvpnijh2e" target="_blank">nytimes.com</a> (2025-12-01 23:05:05)</span><span style="padding-right:50px;">Congress launched inquiries and lawmakers from both parties raised the possibility of war crimes after a report that the U.S. targeted survivors of a strike on an alleged drug boat. <a href="https://bsky.app/profile/wsj.com/post/3m6wlplmes522" target="_blank">wsj.com</a> (2025-12-01 23:01:40)</span><span style="padding-right:50px;">UK manufacturing PMI shows first growth in over a year in November reut.rs/3KjSf8s <a href="https://bsky.app/profile/reuters.com/post/3m6wlowq4zd2i" target="_blank">reuters.com</a> (2025-12-01 23:01:18)</span><span style="padding-right:50px;">India plans to overhaul 'sin taxes' prior to phase-out of GST cess reut.rs/3KiLjbE <a href="https://bsky.app/profile/reuters.com/post/3m6wlonzvbx22" target="_blank">reuters.com</a> (2025-12-01 23:01:09)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49303.28 (🔻1015.31 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3082.00 (🔻50.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 154.78 (🔻1.27 : 2025-12-01)</span>
+<span style="padding-right:50px;">NIKKEI: 49303.28 (🔻1015.31 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3082.00 (🔻50.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.00 (🔻1.06 : 2025-12-01)</span>
   </div>
 </div>
 
@@ -32,103 +32,98 @@
 
 ## News Headlines
 
-1. アスクル、サイバー攻撃で11月売上高95%減
-2. 千葉・浦安ホテルミラコスタに刃物男、逃走中
-3. 日本版GPS衛星「みちびき」7号機、来年2月打ち上げへ
-4. インドネシア大雨で死者600人以上、アジアで1000人超
-5. 東京メトロ、駅員の茶髪・ネイル・ひげを容認
-6. Nvidia、Synopsysに20億ドル出資、AI連携を強化
+1. インド、罪悪税の見直しを計画
+2. 米国移民制度に広範囲な変更
+3. 米軍、薬物船攻撃で戦争犯罪の可能性
+4. 英国製造業PMI、1年以上ぶりに成長
+5. 香港、国家安全警察が3人を逮捕
+6. アスクル、サイバー攻撃で売上高95%減
 
 ----
 
-@nikkei.com
-
-アスクル、サイバー攻撃で11月売上高95%減
-www.nikkei.com/article/DGXZQO...
-
-10月19日にランサムウエアに感染し通販サイトを停止した影響で、11月度（10月21日〜11月20日）の法人向け「ASKUL」事業の売上高が94.6%減の17億円。
-
-個人向け「LOHACO（ロハコ）」事業は99.9%減の300万円と、深刻な影響が出ています。
-
-#ニュース
-
-[2025-12-01 22:48:29](https://bsky.app/profile/nikkei.com/post/3m6wkxzhpwd2i)
-
----
-
-@cnbc.com
-
-Spend your FSA balance before it expires: Many workers 'aren't aware that they have a deadline,' expert says
-
-[2025-12-01 22:47:07](https://bsky.app/profile/cnbc.com/post/3m6wkvliyvh23)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】パーティー会場に“刃物男” けが人なし 男は30歳～40歳くらい 現在逃走中 千葉・浦安市のホテルミラコスタ
-(2025-12-01 22:45) #ニュース
-
-[2025-12-01 22:45:34](https://bsky.app/profile/sokuho.news/post/3m6wkssjb2624)
-
----
-
 @reuters.com
 
-South Africa's Pick n Pay CFO Lerena Olivier to step down in 2026 reut.rs/3M8AKZc
+India plans to overhaul 'sin taxes' prior to phase-out of GST cess reut.rs/49OJhu5
 
-[2025-12-01 22:45:12](https://bsky.app/profile/reuters.com/post/3m6wks5yqjd2o)
-
----
-
-@cnbc.com
-
-Goldman Sachs acquires ETF firm for $2 billion in latest deal to bolster asset management division
-
-[2025-12-01 22:44:56](https://bsky.app/profile/cnbc.com/post/3m6wkroksg22h)
-
----
-
-@cnbc.com
-
-Stocks making the biggest moves premarket: Synopsys, Moderna, Micron Technology, Wynn Resorts, Coinbase and more
-
-[2025-12-01 22:42:49](https://bsky.app/profile/cnbc.com/post/3m6wknvchju2i)
-
----
-
-@nhknewsunofficial.bsky.social
-
-日本版GPS衛星「みちびき」7号機 来年2月の打ち上げを前に公開
-https://news.web.nhk/newsweb/na/na-k10014991291000
-
-[2025-12-01 22:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6wkmkq3ap2b)
-
----
-
-@iainmartin.bsky.social
-
-The new edition of Forbes magazine just dropped - the cover story is on two 30-year-old entrepreneurs from Poland, who sick of bad movie dubbing, built their own voice AI model. Today, it's worth $6.6 billion, they are new billionaires & are beating Silicon Valley's tech giants
-
-[2025-12-01 22:41:27](https://bsky.app/profile/iainmartin.bsky.social/post/3m6wklgmigd2n)
+[2025-12-01 23:05:10](https://bsky.app/profile/reuters.com/post/3m6wlvttc6b2k)
 
 ---
 
 @nytimes.com
 
-A fifth of Britain’s small businesses export their goods, and among those that do, the U.S. is the second most popular destination after the European Union. For most of them, the allure of the U.S. consumer market outweighs the trade upheaval.
+What began as a horrific shooting of two National Guard members in Washington, D.C., last week has now led to a set of far-reaching changes to the U.S. immigration system.
 
-[2025-12-01 22:41:07](https://bsky.app/profile/nytimes.com/post/3m6wkktupz522)
+Listen to "The Daily."
+
+[2025-12-01 23:05:05](https://bsky.app/profile/nytimes.com/post/3m6wlvpnijh2e)
+
+---
+
+@wsj.com
+
+Congress launched inquiries and lawmakers from both parties raised the possibility of war crimes after a report that the U.S. targeted survivors of a strike on an alleged drug boat.
+
+[2025-12-01 23:01:40](https://bsky.app/profile/wsj.com/post/3m6wlplmes522)
 
 ---
 
 @reuters.com
 
-South African manufacturing sentiment plunges in November reut.rs/3K4oWGT
+UK manufacturing PMI shows first growth in over a year in November reut.rs/3KjSf8s
 
-[2025-12-01 22:40:15](https://bsky.app/profile/reuters.com/post/3m6wkjchpxt27)
+[2025-12-01 23:01:18](https://bsky.app/profile/reuters.com/post/3m6wlowq4zd2i)
+
+---
+
+@reuters.com
+
+India plans to overhaul 'sin taxes' prior to phase-out of GST cess reut.rs/3KiLjbE
+
+[2025-12-01 23:01:09](https://bsky.app/profile/reuters.com/post/3m6wlonzvbx22)
+
+---
+
+@washingtonpost.com
+
+Republicans promised a vote before the end of the year on expiring health care subsidies.
+
+Several have offered proposals, though it is not clear whether they can achieve sufficient support to pass the Senate. 
+
+[2025-12-01 23:00:57](https://bsky.app/profile/washingtonpost.com/post/3m6wlocomcq2x)
+
+---
+
+@cnn.com
+
+The nation’s immigration courts are ground zero for the mass deportations that Trump says are necessary to remove dangerous criminals from the US. 
+
+They're also one of the few places where those targeted can fight back.
+
+[2025-12-01 23:00:56](https://bsky.app/profile/cnn.com/post/3m6wlobmpzs2m)
+
+---
+
+@aljazeera.com
+
+Hong Kong's national security police arrest three, as Beijing issues warning to 'anti-China and pro-chaos elements'.
+
+[2025-12-01 23:00:43](https://bsky.app/profile/aljazeera.com/post/3m6wlnvkrt62f)
+
+---
+
+@apnews.com
+
+Thousands of people on Sunday joined protest marches in Croatia against a surging far right following a spate of incidents that have fueled both ethnic and political tensions in the European Union country.
+
+[2025-12-01 23:00:40](https://bsky.app/profile/apnews.com/post/3m6wlnsyzod2p)
+
+---
+
+@usatoday.com
+
+The 2026 Super Bowl entertainment lineup will include heavy hitters from the pop and R&B genres, including Charlie Puth and Coco Jones.
+
+[2025-12-01 23:00:25](https://bsky.app/profile/usatoday.com/post/3m6wlnergpe2d)
 
 ---
 
