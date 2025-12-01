@@ -1,9 +1,9 @@
-# [2025-12-01 23:30 updated](2025_12_01.md)
+# [2025-12-01 23:50 updated](2025_12_01.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">OpenAI takes stake in Thrive Holdings in latest circular deal on.ft.com/44mgSrZ <a href="https://bsky.app/profile/financialtimes.com/post/3m6wn4gk5ko26" target="_blank">financialtimes.com</a> (2025-12-01 23:26:44)</span><span style="padding-right:50px;">Gunvor managers buy out CEO Tornqvist as company seeks 'definitive reset' reut.rs/4iuLTiU <a href="https://bsky.app/profile/reuters.com/post/3m6wmzmw6fw2i" target="_blank">reuters.com</a> (2025-12-01 23:25:10)</span><span style="padding-right:50px;">At least 1,200 people have been killed in floods that have ravaged southern Asia over the past few weeks. Hundreds more are still missing and millions are displaced across the rain-soaked region, with Sri Lanka and Indonesia hit particularly hard. Here's what to know. <a href="https://bsky.app/profile/nytimes.com/post/3m6wmzhfun52p" target="_blank">nytimes.com</a> (2025-12-01 23:25:05)</span><span style="padding-right:50px;">A U.S. appeals court rules former Trump lawyer Alina Habba is disqualified as New Jersey prosecutor.  <a href="https://bsky.app/profile/apnews.com/post/3m6wmyn5qma2f" target="_blank">apnews.com</a> (2025-12-01 23:24:37)</span><span style="padding-right:50px;">Bitcoin starts financial markets off on wrong foot to begin December <a href="https://bsky.app/profile/cnbc.com/post/3m6wmxveqda2j" target="_blank">cnbc.com</a> (2025-12-01 23:24:12)</span>
+<span style="padding-right:50px;">Luigi Mangione faces key evidence hearings over US healthcare executive's killing reut.rs/4ao0hYm <a href="https://bsky.app/profile/reuters.com/post/3m6wo5nsblm2e" target="_blank">reuters.com</a> (2025-12-01 23:45:19)</span><span style="padding-right:50px;">The pharmaceutical giant and Novo Nordisk said they would lower the prices of their popular weight loss drugs to expand access. <a href="https://bsky.app/profile/forbes.com/post/3m6wo56hwax2m" target="_blank">forbes.com</a> (2025-12-01 23:45:03)</span><span style="padding-right:50px;">Called "buy-now, pay-later" loans, they essentially work the way they sound. Shoppers borrow money to buy goods then pay the loan back over time, often interest-free. Experts share risks and benefits. <a href="https://bsky.app/profile/npr.org/post/3m6wo54kmju2f" target="_blank">npr.org</a> (2025-12-01 23:45:01)</span><span style="padding-right:50px;">US stocks drop at start of key month for markets on.ft.com/49Qe3mm <a href="https://bsky.app/profile/financialtimes.com/post/3m6wnylilsu26" target="_blank">financialtimes.com</a> (2025-12-01 23:42:29)</span><span style="padding-right:50px;">Swiss prosecutors indict UBS over Credit Suisse-era money laundering reut.rs/3KuaZ57 <a href="https://bsky.app/profile/reuters.com/post/3m6wnuq2vfg2i" target="_blank">reuters.com</a> (2025-12-01 23:40:20)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49303.28 (🔻1015.31 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47412.85 (🔻168.00 : 2025-12-01)</span><span style="padding-right:50px;">^IXIC: Error</span><span style="padding-right:50px;">NVIDIA: 174.71 (🔺0.01 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3082.00 (🔻50.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 154.93 (🔻1.13 : 2025-12-01)</span>
+<span style="padding-right:50px;">NIKKEI: 49303.28 (🔻1015.31 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47543.40 (🔻37.45 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23198.71 (🔺26.37 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 178.10 (🔺3.40 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3082.00 (🔻50.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.00 (🔻1.05 : 2025-12-01)</span>
   </div>
 </div>
 
@@ -32,96 +32,105 @@
 
 ## News Headlines
 
-1. OpenAI、Thrive Holdingsに出資
-2. Gunvor経営陣、CEOを買収し「明確なリセット」を目指す
-3. 南アジアの洪水、死者1200人超、数百万人が避難
-4. トランプ前弁護士、ニュージャージー州検察官資格を剥奪
-5. エアバスA320に新たな品質問題か
-6. 日本版GPS衛星「みちびき」7号機、来年2月打ち上げへ
+1. 米国ヘルスケア幹部殺害事件、重要証拠審問へ
+2. 製薬大手、肥満治療薬の価格引き下げアクセス拡大
+3. スイス検察、UBSをクレディ・スイス時代のマネーロンダリングで起訴
+4. カリフォルニア州バースデーパーティー銃撃事件、犠牲者のうち3人が子供
+5. 香港の火災、逮捕者13人に増加　死者数はさらに増加の可能性
+6. トランプ氏の元弁護士、連邦控訴裁がニュージャージー州検察官の資格なしと判断
 
 ----
 
-@financialtimes.com
-
-OpenAI takes stake in Thrive Holdings in latest circular deal on.ft.com/44mgSrZ
-
-[2025-12-01 23:26:44](https://bsky.app/profile/financialtimes.com/post/3m6wn4gk5ko26)
-
----
-
 @reuters.com
 
-Gunvor managers buy out CEO Tornqvist as company seeks 'definitive reset' reut.rs/4iuLTiU
+Luigi Mangione faces key evidence hearings over US healthcare executive's killing reut.rs/4ao0hYm
 
-[2025-12-01 23:25:10](https://bsky.app/profile/reuters.com/post/3m6wmzmw6fw2i)
-
----
-
-@nytimes.com
-
-At least 1,200 people have been killed in floods that have ravaged southern Asia over the past few weeks. Hundreds more are still missing and millions are displaced across the rain-soaked region, with Sri Lanka and Indonesia hit particularly hard. Here's what to know.
-
-[2025-12-01 23:25:05](https://bsky.app/profile/nytimes.com/post/3m6wmzhfun52p)
+[2025-12-01 23:45:19](https://bsky.app/profile/reuters.com/post/3m6wo5nsblm2e)
 
 ---
 
-@apnews.com
+@forbes.com
 
-A U.S. appeals court rules former Trump lawyer Alina Habba is disqualified as New Jersey prosecutor. 
+The pharmaceutical giant and Novo Nordisk said they would lower the prices of their popular weight loss drugs to expand access.
 
-[2025-12-01 23:24:37](https://bsky.app/profile/apnews.com/post/3m6wmyn5qma2f)
-
----
-
-@cnbc.com
-
-Bitcoin starts financial markets off on wrong foot to begin December
-
-[2025-12-01 23:24:12](https://bsky.app/profile/cnbc.com/post/3m6wmxveqda2j)
-
----
-
-@cnn.com
-
-He pleaded guilty to disposing of his wife's body, but maintains that he didn't kill her. Now his case will be heard before a jury. Watch live as opening statements get underway in the murder trial of Brian Walshe: https://cnn.it/4pKfffW
-
-[2025-12-01 23:23:49](https://bsky.app/profile/cnn.com/post/3m6wmx736fq2q)
-
----
-
-@en.afp.com
-
-Champagne from Lady Diana And Prince Charles’s wedding up for auction
- 
-A rare magnum of Dom Pérignon champagne which was served at Lady Diana's wedding to Prince Charles in 1981 will be auctioned on 11 December in Denmark. 
-#AFPVertical
-🎥 Camille Bas-Wohlert
-
-[2025-12-01 23:21:08](https://bsky.app/profile/en.afp.com/post/3m6wmsfq2qw2p)
-
----
-
-@nbcnews.com
-
-NBC Select has been tracking the deals for weeks, and these are some of the lowest prices ever.
-
-[2025-12-01 23:20:10](https://bsky.app/profile/nbcnews.com/post/3m6wmqoqv762c)
+[2025-12-01 23:45:03](https://bsky.app/profile/forbes.com/post/3m6wo56hwax2m)
 
 ---
 
 @npr.org
 
-Retail expert Katie Thomas scours her local shopping mall in Pittsburgh to divine what Americans' shopping habits reveal about the economy and the nation's future
+Called "buy-now, pay-later" loans, they essentially work the way they sound. Shoppers borrow money to buy goods then pay the loan back over time, often interest-free. Experts share risks and benefits.
 
-[2025-12-01 23:17:42](https://bsky.app/profile/npr.org/post/3m6wmmbd5kd2f)
+[2025-12-01 23:45:01](https://bsky.app/profile/npr.org/post/3m6wo54kmju2f)
+
+---
+
+@financialtimes.com
+
+US stocks drop at start of key month for markets on.ft.com/49Qe3mm
+
+[2025-12-01 23:42:29](https://bsky.app/profile/financialtimes.com/post/3m6wnylilsu26)
 
 ---
 
 @reuters.com
 
-Exclusive: Airbus faces new quality problem on dozens of A320 jets, sources say reut.rs/4iDVO68
+Swiss prosecutors indict UBS over Credit Suisse-era money laundering reut.rs/3KuaZ57
 
-[2025-12-01 23:15:13](https://bsky.app/profile/reuters.com/post/3m6wmhtgmzm2w)
+[2025-12-01 23:40:20](https://bsky.app/profile/reuters.com/post/3m6wnuq2vfg2i)
+
+---
+
+@nbcnews.com
+
+Three of the four victims killed when gunfire erupted at a birthday party in Stockton, California, were children, according to officials. It comes as police search for the suspect or suspects who took the fatal shots.
+
+[2025-12-01 23:40:19](https://bsky.app/profile/nbcnews.com/post/3m6wnuphggg27)
+
+---
+
+@nytimes.com
+
+What is the “right” age to get your child a smartphone? New study findings strengthen the case for holding off.
+
+[2025-12-01 23:40:04](https://bsky.app/profile/nytimes.com/post/3m6wnub3ahj2y)
+
+---
+
+@en.afp.com
+
+🇭🇰 Authorities said Monday they have made a total 13 arrests over Hong Kong's deadliest fire in decades after the blaze killed 151 people last week, a toll that could further rise. 
+➡️ u.afp.com/ShEL
+
+[2025-12-01 23:40:02](https://bsky.app/profile/en.afp.com/post/3m6wnu6stdp2j)
+
+---
+
+@sokuho.news
+
+🔔防災科研より【強震モニタ】動画です。
+
+震源:熊本県阿蘇地方, 深さ:ごく浅い
+マグニチュード:2.0, 最大震度:1
+📍https://www.google.com/maps?q=33.0,131.1&ll=33.0,131.1&z=7&t=h
+地震発生日時:2025-12-01 23:35頃
+(10倍速▶90s→9s) #地震
+
+[2025-12-01 23:39:09](https://bsky.app/profile/sokuho.news/post/3m6wnsmop3z26)
+
+---
+
+@sokuho.news
+
+🔔気象庁より【地震速報】です。
+
+23時35分頃、熊本県で最大震度1の地震を観測しました。
+震源:熊本県阿蘇地方, 深さ:ごく浅い, 規模:M2.0
+この地震による津波の心配はありません。
+(2025-12-01 23:38:47) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/01/2025-12-01-23-35-40.html?xlarge_image=1
+
+[2025-12-01 23:38:47](https://bsky.app/profile/sokuho.news/post/3m6wnryjo2q2y)
 
 ---
 
