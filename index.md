@@ -1,9 +1,9 @@
-# [2025-12-02 08:30 updated](2025_12_02.md)
+# [2025-12-02 08:50 updated](2025_12_02.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">US President Trump will host the leaders of Rwanda and the DRC at the White House to sign a peace deal, building on earlier agreements to end the ongoing fighting in eastern DRC aje.io/tf7oxi <a href="https://bsky.app/profile/aljazeera.com/post/3m6xlafpx362k" target="_blank">aljazeera.com</a> (2025-12-02 08:25:48)</span><span style="padding-right:50px;">Peru landslide sinks boats in Amazon region river, killing 12 reut.rs/48LuiA0 <a href="https://bsky.app/profile/reuters.com/post/3m6xl77gzdc2k" target="_blank">reuters.com</a> (2025-12-02 08:25:10)</span><span style="padding-right:50px;">The White House attempted to defuse a growing controversy over an attack on an alleged drug boat in September, saying an admiral had acted legally under authority granted him by Defense Secretary Pete Hegseth. <a href="https://bsky.app/profile/wsj.com/post/3m6xl3kr7u72l" target="_blank">wsj.com</a> (2025-12-02 08:23:08)</span><span style="padding-right:50px;">Jim Cramer explains why Nvidia's deal with Synopsys gave the stock a boost <a href="https://bsky.app/profile/cnbc.com/post/3m6xl2l7fzi23" target="_blank">cnbc.com</a> (2025-12-02 08:22:34)</span><span style="padding-right:50px;">The U.S. Transportation Security Administration said on Monday it will begin charging air travelers $45 on February 1 if their IDs do not meet stricter federal standards, a move aimed at encouraging travelers to get the enhanced identity documents. nbcnews.to/4rBgkZe <a href="https://bsky.app/profile/nbcnews.com/post/3m6xkw7q7e622" target="_blank">nbcnews.com</a> (2025-12-02 08:20:08)</span>
+<span style="padding-right:50px;">Exclusive: US Republican senator calls for DOJ and Homeland Security to investigate Shein, Temu for counterfeiting reut.rs/43YAqm2 <a href="https://bsky.app/profile/reuters.com/post/3m6xmd3m25g27" target="_blank">reuters.com</a> (2025-12-02 08:45:14)</span><span style="padding-right:50px;">A son of the infamous Mexican drug lord Joaquin "El Chapo" Guzman pleaded guilty Monday in Chicago to a narcotics trafficking charge and continuing criminal enterprise. ➡️ u.afp.com/ShRp <a href="https://bsky.app/profile/en.afp.com/post/3m6xmcq3iaa2k" target="_blank">en.afp.com</a> (2025-12-02 08:45:02)</span><span style="padding-right:50px;">Some of America’s best starting salaries are at sea, with graduates straight out of the country’s maritime academies able to earn more than $200,000. And they aren’t luring enough workers. on.wsj.com/48ussSQ <a href="https://bsky.app/profile/wsj.com/post/3m6xmcq5tbp2a" target="_blank">wsj.com</a> (2025-12-02 08:45:02)</span><span style="padding-right:50px;">Why Jim Cramer thinks the AI trade is breaking up <a href="https://bsky.app/profile/cnbc.com/post/3m6xmbe2ijz2r" target="_blank">cnbc.com</a> (2025-12-02 08:44:16)</span><span style="padding-right:50px;">White House says admiral approved second strike on boat from Venezuela, defends attack as lawful reut.rs/4rx2TsY <a href="https://bsky.app/profile/reuters.com/post/3m6xm2a2xgb2y" target="_blank">reuters.com</a> (2025-12-02 08:40:16)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49303.28 (🔻1015.31 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47289.33 (🔻291.52 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23275.92 (🔺103.58 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.92 (🔺5.22 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3082.00 (🔻50.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.47 (🔺0.05 : 2025-12-01)</span>
+<span style="padding-right:50px;">NIKKEI: 49303.28 (🔻1015.31 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47289.33 (🔻291.52 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23275.92 (🔺103.58 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.92 (🔺5.22 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3082.00 (🔻50.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.53 (🔺0.11 : 2025-12-01)</span>
   </div>
 </div>
 
@@ -32,93 +32,102 @@
 
 ## News Headlines
 
-1. トランプ大統領、ルワンダとコンゴ民主共和国の首脳をホワイトハウスに迎え和平合意署名へ
-2. ペルーで地滑り、アマゾン川の船が沈没し12人死亡
-3. 米運輸保安庁、ID厳格化で2月から空の旅に45ドル課金
-4. ナイジェリアのダンゴート製油所、12月に15億リットルのガソリン供給可能
-5. ウクライナの攻撃でタンカー保険料が上昇
-6. 鳥取県の養鶏場で鳥インフルエンザ発生、7万5000羽の殺処分開始
+1. 米共和党議員、SheinとTemuの偽造品問題を調査するよう司法省と国土安全保障省に要請
+2. 麻薬王「エル・チャポ」の息子、麻薬密売で有罪認める
+3. 海事アカデミー卒業生の初任給は高水準、人材不足が深刻
+4. ホワイトハウス、ベネズエラ船への攻撃を擁護、合法と主張
+5. カリフォルニアの誕生日パーティーで銃撃事件、多数負傷
+6. 米運輸保安庁、身分証明書不備の旅行者に2月から45ドル徴収
 
 ----
 
-@aljazeera.com
+@reuters.com
 
-US President Trump will host the leaders of Rwanda and the DRC at the White House to sign a peace deal, building on earlier agreements to end the ongoing fighting in eastern DRC aje.io/tf7oxi
+Exclusive: US Republican senator calls for DOJ and Homeland Security to investigate Shein, Temu for counterfeiting reut.rs/43YAqm2
 
-[2025-12-02 08:25:48](https://bsky.app/profile/aljazeera.com/post/3m6xlafpx362k)
+[2025-12-02 08:45:14](https://bsky.app/profile/reuters.com/post/3m6xmd3m25g27)
 
 ---
 
-@reuters.com
+@en.afp.com
 
-Peru landslide sinks boats in Amazon region river, killing 12 reut.rs/48LuiA0
+A son of the infamous Mexican drug lord Joaquin "El Chapo" Guzman pleaded guilty Monday in Chicago to a narcotics trafficking charge and continuing criminal enterprise.
+➡️ u.afp.com/ShRp
 
-[2025-12-02 08:25:10](https://bsky.app/profile/reuters.com/post/3m6xl77gzdc2k)
+[2025-12-02 08:45:02](https://bsky.app/profile/en.afp.com/post/3m6xmcq3iaa2k)
 
 ---
 
 @wsj.com
 
-The White House attempted to defuse a growing controversy over an attack on an alleged drug boat in September, saying an admiral had acted legally under authority granted him by Defense Secretary Pete Hegseth.
+Some of America’s best starting salaries are at sea, with graduates straight out of the country’s maritime academies able to earn more than $200,000. And they aren’t luring enough workers. on.wsj.com/48ussSQ
 
-[2025-12-02 08:23:08](https://bsky.app/profile/wsj.com/post/3m6xl3kr7u72l)
+[2025-12-02 08:45:02](https://bsky.app/profile/wsj.com/post/3m6xmcq5tbp2a)
 
 ---
 
 @cnbc.com
 
-Jim Cramer explains why Nvidia's deal with Synopsys gave the stock a boost
+Why Jim Cramer thinks the AI trade is breaking up
 
-[2025-12-02 08:22:34](https://bsky.app/profile/cnbc.com/post/3m6xl2l7fzi23)
+[2025-12-02 08:44:16](https://bsky.app/profile/cnbc.com/post/3m6xmbe2ijz2r)
+
+---
+
+@reuters.com
+
+White House says admiral approved second strike on boat from Venezuela, defends attack as lawful reut.rs/4rx2TsY
+
+[2025-12-02 08:40:16](https://bsky.app/profile/reuters.com/post/3m6xm2a2xgb2y)
 
 ---
 
 @nbcnews.com
 
-The U.S. Transportation Security Administration said on Monday it will begin charging air travelers $45 on February 1 if their IDs do not meet stricter federal standards, a move aimed at encouraging travelers to get the enhanced identity documents.
-nbcnews.to/4rBgkZe
+Luigi Mangione was on “constant watch” after his arrest in Pennsylvania last year in part because the state prison where he was held wanted to avoid an “Epstein-style situation,” a corrections officer testifies.
 
-[2025-12-02 08:20:08](https://bsky.app/profile/nbcnews.com/post/3m6xkw7q7e622)
-
----
-
-@npr.org
-
-The U.S. Transportation Department is threatening to shut down thousands of truck driving schools, part of the Trump administration's widening crackdown on industry.
-
-[2025-12-02 08:19:16](https://bsky.app/profile/npr.org/post/3m6xkunjzpg2j)
-
----
-
-@cnn.com
-
-President Donald Trump’s doctor said in a memo released by the White House on Monday that his October medical imaging was of his cardiovascular and abdominal systems and that both showed “perfectly normal” results.
-
-[2025-12-02 08:16:01](https://bsky.app/profile/cnn.com/post/3m6xkou42n52y)
+[2025-12-02 08:40:11](https://bsky.app/profile/nbcnews.com/post/3m6xm22t6fz22)
 
 ---
 
 @reuters.com
 
-Nigeria's Dangote Refinery says it can deliver 1.5 billion litres of petrol in December reut.rs/3KloNyU
+Shopify resolves login issues that impacted thousands of users on Cyber Monday reut.rs/4oyqJCb
 
-[2025-12-02 08:15:12](https://bsky.app/profile/reuters.com/post/3m6xknfmdno2i)
-
----
-
-@cnbc.com
-
-Stock futures are little changed after major U.S. indexes snap five-day win streaks: Live updates
-
-[2025-12-02 08:12:38](https://bsky.app/profile/cnbc.com/post/3m6xkisgqoj2r)
+[2025-12-02 08:35:11](https://bsky.app/profile/reuters.com/post/3m6xlr4ly7w2k)
 
 ---
 
-@reuters.com
+@usatoday.com
 
-Black Sea shipping insurance rates rise after Ukraine attacks tankers, sources say reut.rs/4pLNsM8
+Read more: bit.ly/3Y5J3aI
 
-[2025-12-02 08:10:14](https://bsky.app/profile/reuters.com/post/3m6xkejl2bp27)
+[2025-12-02 08:35:07](https://bsky.app/profile/usatoday.com/post/3m6xlqyjo2x2m)
+
+---
+
+@usatoday.com
+
+Are United States military airstrikes on Venezuela imminent?
+
+Over the weekend, President Donald Trump issued a warning to avoid airspace over the South American country. Trump has already signaled forthcoming land attacks in Venezuela, located along the continent's northern coast.
+
+[2025-12-02 08:35:03](https://bsky.app/profile/usatoday.com/post/3m6xlquoyw42u)
+
+---
+
+@nikkei.com
+
+ニューヨーク、市内3カ所でカジノ計画　メッツ球場など2030年にも
+www.nikkei.com/article/DGXZQO...
+
+アメリカの他の東海岸の州で合法化が相次ぐなか、州外に流出していた観光需要や税収を取り戻す狙いです。
+
+ただギャンブル依存症や地元経済への影響を懸念し、反対する声も根強くあります。
+
+#ニュース
+
+[2025-12-02 08:31:57](https://bsky.app/profile/nikkei.com/post/3m6xlle5hze2l)
 
 ---
 
