@@ -1,9 +1,9 @@
-# [2025-12-01 15:30 updated](2025_12_01.md)
+# [2025-12-01 15:50 updated](2025_12_01.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">From Breakingviews - Breakingviews - A China Vanke default may be blessing in disguise reut.rs/44t6CxW <a href="https://bsky.app/profile/reuters.com/post/3m6vs7dyqoz2d" target="_blank">reuters.com</a> (2025-12-01 15:25:11)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】“万博効果”関西3空港の4～9月の旅客数が過去最高 一方で中国「渡航自粛」呼びかけが影響…12月の中国便は“3分の1”減も (2025-12-01 15:21) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6vrzphkov2e" target="_blank">sokuho.news</a> (2025-12-01 15:22:02)</span><span style="padding-right:50px;">Russian manufacturing sector faces sharper output decline in November, PMI shows reut.rs/4oq5zWy <a href="https://bsky.app/profile/reuters.com/post/3m6vrnliy6w2o" target="_blank">reuters.com</a> (2025-12-01 15:15:15)</span><span style="padding-right:50px;">NBA レイカーズ 八村塁 ペリカンズ戦で14得点 チームは7連勝 https://news.web.nhk/newsweb/na/na-k10014990901000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vrng2ufx2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 15:15:07)</span><span style="padding-right:50px;">東京 品川で住宅火災 1人が遺体で見つかる https://news.web.nhk/newsweb/na/na-k10014990801000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vrnatsgd2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 15:15:02)</span>
+<span style="padding-right:50px;">Aspinall diagnosed with rare eye condition after Gane poke reut.rs/3Y0fF5M <a href="https://bsky.app/profile/reuters.com/post/3m6vtd4litm2w" target="_blank">reuters.com</a> (2025-12-01 15:45:11)</span><span style="padding-right:50px;">【随時更新】ロシア ウクライナに軍事侵攻（12月1日の動き） https://news.web.nhk/newsweb/na/na-k10014973021000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vtcwp3ze2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 15:45:03)</span><span style="padding-right:50px;">Reuters followed the fortunes of a group of raw recruits who enlisted as part of Ukraine’s drive to refresh its depleted ranks. None of the 11 are still fighting reut.rs/4own9bJ <a href="https://bsky.app/profile/reuters.com/post/3m6vt3bmyrk2h" target="_blank">reuters.com</a> (2025-12-01 15:40:48)</span><span style="padding-right:50px;">Rupee at record low; weak flows and stalled trade deal eclipse blowout growth reut.rs/3M2hqwR <a href="https://bsky.app/profile/reuters.com/post/3m6vt25vpsr2d" target="_blank">reuters.com</a> (2025-12-01 15:40:11)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】「水道管が破裂して車道が通れなくなっている」などと通報 冠水し通行止めに 神奈川・横須賀市 (2025-12-01 15:37) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6vsvuuze327" target="_blank">sokuho.news</a> (2025-12-01 15:37:47)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49291.01 (🔻1027.58 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3085.00 (🔻47.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.64 (🔻0.41 : 2025-12-01)</span>
+<span style="padding-right:50px;">NIKKEI: 49303.28 (🔻1015.31 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3082.00 (🔻50.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.66 (🔻0.39 : 2025-12-01)</span>
   </div>
 </div>
 
@@ -32,20 +32,45 @@
 
 ## News Headlines
 
-1. 中国不動産大手、デフォルトの危機か？裏に潜む光明
-2. 関西3空港、万博効果で旅客数過去最高も中国便は減少
-3. 品川で住宅火災、1人死亡
-4. インドネシア大雨で400人以上死亡、日本人孤立も
-5. 高市首相と維新代表が会談、衆院議員定数削減へ
-6. 日銀総裁発言で株価急落、一時1000円以上値下がり
+1.  アスピナル、ガーン戦の後に稀な目の疾患と診断
+2.  ウクライナ軍の新兵募集、戦闘継続者はゼロ
+3.  水道管破裂で冠水、神奈川・横須賀市で通行止め
+4.  人気ゴルファー都玲華（21）51歳恋人との破局を報告
+5.  万博効果で関西3空港の旅客数が過去最高、中国便は減少
+6.  神戸の野球クラブハウス全焼、放火容疑で男逮捕
 
 ----
 
 @reuters.com
 
-From Breakingviews - Breakingviews - A China Vanke default may be blessing in disguise reut.rs/44t6CxW
+Aspinall diagnosed with rare eye condition after Gane poke reut.rs/3Y0fF5M
 
-[2025-12-01 15:25:11](https://bsky.app/profile/reuters.com/post/3m6vs7dyqoz2d)
+[2025-12-01 15:45:11](https://bsky.app/profile/reuters.com/post/3m6vtd4litm2w)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【随時更新】ロシア ウクライナに軍事侵攻（12月1日の動き）
+https://news.web.nhk/newsweb/na/na-k10014973021000
+
+[2025-12-01 15:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vtcwp3ze2k)
+
+---
+
+@reuters.com
+
+Reuters followed the fortunes of a group of raw recruits who enlisted as part of Ukraine’s drive to refresh its depleted ranks. None of the 11 are still fighting reut.rs/4own9bJ
+
+[2025-12-01 15:40:48](https://bsky.app/profile/reuters.com/post/3m6vt3bmyrk2h)
+
+---
+
+@reuters.com
+
+Rupee at record low; weak flows and stalled trade deal eclipse blowout growth reut.rs/3M2hqwR
+
+[2025-12-01 15:40:11](https://bsky.app/profile/reuters.com/post/3m6vt25vpsr2d)
 
 ---
 
@@ -53,82 +78,60 @@ From Breakingviews - Breakingviews - A China Vanke default may be blessing in di
 
 🛎️NNNより【速報】です。
 
-【速報】“万博効果”関西3空港の4～9月の旅客数が過去最高 一方で中国「渡航自粛」呼びかけが影響…12月の中国便は“3分の1”減も
-(2025-12-01 15:21) #ニュース
+【速報】「水道管が破裂して車道が通れなくなっている」などと通報 冠水し通行止めに 神奈川・横須賀市
+(2025-12-01 15:37) #ニュース
 
-[2025-12-01 15:22:02](https://bsky.app/profile/sokuho.news/post/3m6vrzphkov2e)
-
----
-
-@reuters.com
-
-Russian manufacturing sector faces sharper output decline in November, PMI shows reut.rs/4oq5zWy
-
-[2025-12-01 15:15:15](https://bsky.app/profile/reuters.com/post/3m6vrnliy6w2o)
-
----
-
-@nhknewsunofficial.bsky.social
-
-NBA レイカーズ 八村塁 ペリカンズ戦で14得点 チームは7連勝
-https://news.web.nhk/newsweb/na/na-k10014990901000
-
-[2025-12-01 15:15:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vrng2ufx2p)
-
----
-
-@nhknewsunofficial.bsky.social
-
-東京 品川で住宅火災 1人が遺体で見つかる
-https://news.web.nhk/newsweb/na/na-k10014990801000
-
-[2025-12-01 15:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vrnatsgd2j)
-
----
-
-@apnews.com
-
-<strong><span style="color: red;">BREAKING:</span> A Bangladesh court sentences ousted premier Sheikh Hasina and her niece, Britain’s Labour lawmaker Tulip Siddiq, to prison on graft charges.</strong>
-
-[2025-12-01 15:11:51](https://bsky.app/profile/apnews.com/post/3m6vrhimvze2j)
+[2025-12-01 15:37:47](https://bsky.app/profile/sokuho.news/post/3m6vsvuuze327)
 
 ---
 
 @reuters.com
 
-Brandi Carlile, Coco Jones, Charlie Puth to perform at Super Bowl pregame reut.rs/3M1Gior
+Thailand floods to have small impact on overall economy, finance minister says reut.rs/48Jimig
 
-[2025-12-01 15:10:11](https://bsky.app/profile/reuters.com/post/3m6vrejfxuy2k)
-
----
-
-@nhknewsunofficial.bsky.social
-
-インドネシア 大雨で400人以上死亡 日本人8人孤立も7人救出
-https://news.web.nhk/newsweb/na/na-k10014990301000
-
-[2025-12-01 15:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vr55wc5l2j)
+[2025-12-01 15:35:11](https://bsky.app/profile/reuters.com/post/3m6vsr7ugri2k)
 
 ---
 
-@reuters.com
+@sokuho.news
 
-Ole Miss promotes DC Pete Golding to replace Lane Kiffin as head coach reut.rs/43ZN1W0
+🛎️文春より【スクープ】です。
 
-[2025-12-01 15:05:11](https://bsky.app/profile/reuters.com/post/3m6vr3l52552o)
+《30歳差禁断愛→破局を報告》「昨年からお付き合いをしておりました」人気ゴルファー・都玲華（21）がぞっこんだった“51歳恋人”《本人が文春報道を認める》
+(2025-12-01 15:30) #ニュース
+
+[2025-12-01 15:30:51](https://bsky.app/profile/sokuho.news/post/3m6vsjiblfo2e)
 
 ---
 
 @nikkei.com
 
-武田信玄の狼煙vs特急あずさ　伝令、どっちが早い？
+出前館、宅配料理価格「店頭と同じ」に（無料記事）
 www.nikkei.com/article/DGXZQO...
 
-4月の信玄公祭りの日。「上杉勢、信濃へ侵攻」を伝令する速さを競いました。
+新たに東京都千代田区、中央区、目黒区、世田谷区、豊島区が対象に。中華食堂「日高屋」やカレー店「ゴーゴーカレー」などの約790店舗が追加されます。
 
-19カ所の狼煙リレーと、JR中央本線の特急「あずさ」に乗って伝令を運んだ足軽が対決。その結果は――。
+期間は12月1日から2026年2月28日まで。
 
-[2025-12-01 15:00:47](https://bsky.app/profile/nikkei.com/post/3m6vqtpf7rx2k)
+宅配価格は店頭より2〜4割ほど高いケースが多く、事実上の値下げとなります。
+
+[2025-12-01 15:30:48](https://bsky.app/profile/nikkei.com/post/3m6vsjexluo2z)
+
+---
+
+@reuters.com
+
+Morning Bid: Rate hike prospect arrests yen decline, for now reut.rs/3Mg2L0S
+
+[2025-12-01 15:30:19](https://bsky.app/profile/reuters.com/post/3m6vsijhdii2e)
+
+---
+
+@reuters.com
+
+From Breakingviews - Breakingviews - A China Vanke default may be blessing in disguise reut.rs/44t6CxW
+
+[2025-12-01 15:25:11](https://bsky.app/profile/reuters.com/post/3m6vs7dyqoz2d)
 
 ---
 
