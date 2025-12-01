@@ -1,9 +1,9 @@
-# [2025-12-02 03:50 updated](2025_12_02.md)
+# [2025-12-02 04:10 updated](2025_12_02.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Accenture ties up with OpenAI to equip thousands of its employees with ChatGPT reut.rs/4iw9yzx <a href="https://bsky.app/profile/reuters.com/post/3m6x3knrstb2d" target="_blank">reuters.com</a> (2025-12-02 03:45:14)</span><span style="padding-right:50px;">Shopify outage: Shopping platform goes down for some users during Cyber Monday <a href="https://bsky.app/profile/cnbc.com/post/3m6x3jmq2rr2r" target="_blank">cnbc.com</a> (2025-12-02 03:44:39)</span><span style="padding-right:50px;">President Trump is expected to discuss Venezuela with top aides today amid threats of military action, sources say. <a href="https://bsky.app/profile/cbsnews.com/post/3m6x3goxiq52j" target="_blank">cbsnews.com</a> (2025-12-02 03:43:01)</span><span style="padding-right:50px;">Damaged Turkish tanker off Senegal was hit by explosions, manager says reut.rs/3KB9F0h <a href="https://bsky.app/profile/reuters.com/post/3m6x3cnllpq2i" target="_blank">reuters.com</a> (2025-12-02 03:40:45)</span><span style="padding-right:50px;">Shopify reports that its platform was suffering from multiple service outages, as Cyber Monday sales kicked off. <a href="https://bsky.app/profile/nbcnews.com/post/3m6x3bk6toq27" target="_blank">nbcnews.com</a> (2025-12-02 03:40:08)</span>
+<span style="padding-right:50px;"> Barrick looks for gold in North American asset IPO on.ft.com/4pGzBXa  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m6x4pgx3dx2n" target="_blank">financialtimes.com</a> (2025-12-02 04:05:48)</span><span style="padding-right:50px;">Britain will spend more on new medicines in exchange for avoiding tariffs on U.K. pharmaceutical exports to the U.S. <a href="https://bsky.app/profile/wsj.com/post/3m6x4p2fmlj2h" target="_blank">wsj.com</a> (2025-12-02 04:05:35)</span><span style="padding-right:50px;">US manufacturing stuck in doldrums as tariff headwinds persist reut.rs/4pA0Lz4 <a href="https://bsky.app/profile/reuters.com/post/3m6x4odg2rh27" target="_blank">reuters.com</a> (2025-12-02 04:05:11)</span><span style="padding-right:50px;">A Brazilian teenager was mauled by a lioness in full view of zoo visitors on Sunday, after scaling a six-meter wall and safety fencing and shimmying down a tree into the enclosure, authorities said. <a href="https://bsky.app/profile/cbsnews.com/post/3m6x4nz4txz2o" target="_blank">cbsnews.com</a> (2025-12-02 04:05:00)</span><span style="padding-right:50px;">France's Orano says uranium convoy from seized Niger mine poses safety risks reut.rs/4oxIMsb <a href="https://bsky.app/profile/reuters.com/post/3m6x4gyo3xw2a" target="_blank">reuters.com</a> (2025-12-02 04:01:05)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49303.28 (🔻1015.31 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47559.86 (🔻20.99 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23341.00 (🔺168.66 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.59 (🔺4.89 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3082.00 (🔻50.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.48 (🔻0.57 : 2025-12-01)</span>
+<span style="padding-right:50px;">NIKKEI: 49303.28 (🔻1015.31 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47481.04 (🔻99.81 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23318.51 (🔺146.16 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.49 (🔺4.79 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3082.00 (🔻50.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.51 (🔻0.54 : 2025-12-01)</span>
   </div>
 </div>
 
@@ -32,96 +32,92 @@
 
 ## News Headlines
 
-1. Accenture、OpenAIと提携、従業員にChatGPT導入
-2. Shopifyで大規模障害発生、サイバーマンデーに影響
-3. トランプ大統領、ベネズエラ情勢で軍事行動を議論か
-4. トルコタンカー、セネガル沖で爆発事故
-5. オックスフォード、「rage bait」を2025年の「今年の言葉」に選出
-6. ロシアの攻撃でウクライナ・ドニプロで4人死亡、40人負傷
+1. 米国製造業、関税の影響で低迷続く
+2. エアバスA320型機に技術的問題、相次ぐ警告
+3. トランプ大統領、元PEファンドCEOの刑を減刑
+4. ディズニー、AI時代の電力不足に対応強化でエネルギートレーダー採用
+5. ショッピングプラットフォームShopifyでCyber Mondayに障害発生
+6. ロシア軍、ウクライナのドニプロを攻撃、死傷者多数
 
 ----
 
-@reuters.com
+@financialtimes.com
 
-Accenture ties up with OpenAI to equip thousands of its employees with ChatGPT reut.rs/4iw9yzx
+ Barrick looks for gold in North American asset IPO on.ft.com/4pGzBXa  | opinion
 
-[2025-12-02 03:45:14](https://bsky.app/profile/reuters.com/post/3m6x3knrstb2d)
-
----
-
-@cnbc.com
-
-Shopify outage: Shopping platform goes down for some users during Cyber Monday
-
-[2025-12-02 03:44:39](https://bsky.app/profile/cnbc.com/post/3m6x3jmq2rr2r)
-
----
-
-@cbsnews.com
-
-President Trump is expected to discuss Venezuela with top aides today amid threats of military action, sources say.
-
-[2025-12-02 03:43:01](https://bsky.app/profile/cbsnews.com/post/3m6x3goxiq52j)
-
----
-
-@reuters.com
-
-Damaged Turkish tanker off Senegal was hit by explosions, manager says reut.rs/3KB9F0h
-
-[2025-12-02 03:40:45](https://bsky.app/profile/reuters.com/post/3m6x3cnllpq2i)
-
----
-
-@nbcnews.com
-
-Shopify reports that its platform was suffering from multiple service outages, as Cyber Monday sales kicked off.
-
-[2025-12-02 03:40:08](https://bsky.app/profile/nbcnews.com/post/3m6x3bk6toq27)
-
----
-
-@usatoday.com
-
-The Oxford University Press promises it's not rage baiting with its two-word Word of the Year.
-
-The publishing house announced on Dec. 1 that its experts have named "rage bait" the 2025 Word of the Year.
-
-Read more: bit.ly/4rrFiu1
-
-[2025-12-02 03:36:12](https://bsky.app/profile/usatoday.com/post/3m6x32iqv4y2u)
+[2025-12-02 04:05:48](https://bsky.app/profile/financialtimes.com/post/3m6x4pgx3dx2n)
 
 ---
 
 @wsj.com
 
-Silicon Valley insiders have started calling Cursor, the AI coding tool, the fastest-growing product of all time. Millions of users love it, but they aren’t sure it will last.
+Britain will spend more on new medicines in exchange for avoiding tariffs on U.K. pharmaceutical exports to the U.S.
 
-[2025-12-02 03:35:34](https://bsky.app/profile/wsj.com/post/3m6x2zf5sk424)
+[2025-12-02 04:05:35](https://bsky.app/profile/wsj.com/post/3m6x4p2fmlj2h)
 
 ---
 
 @reuters.com
 
-Damaged Shenzhou-20 spacecraft to return to Earth uncrewed for inspection reut.rs/43XDsqz
+US manufacturing stuck in doldrums as tariff headwinds persist reut.rs/4pA0Lz4
 
-[2025-12-02 03:35:11](https://bsky.app/profile/reuters.com/post/3m6x2yow37j27)
+[2025-12-02 04:05:11](https://bsky.app/profile/reuters.com/post/3m6x4odg2rh27)
 
 ---
 
-@en.afp.com
+@cbsnews.com
 
-In a yearly tradition going back to 1947, a Norwegian spruce arrives in London, where it will "grace" Trafalgar Square during the Christmas period. Paul Dimoldenberg, Lord Mayor of Westminster, says, "It really is the start of Christmas for many people in London".
+A Brazilian teenager was mauled by a lioness in full view of zoo visitors on Sunday, after scaling a six-meter wall and safety fencing and shimmying down a tree into the enclosure, authorities said.
 
-[2025-12-02 03:31:04](https://bsky.app/profile/en.afp.com/post/3m6x2rd7gk422)
+[2025-12-02 04:05:00](https://bsky.app/profile/cbsnews.com/post/3m6x4nz4txz2o)
+
+---
+
+@reuters.com
+
+France's Orano says uranium convoy from seized Niger mine poses safety risks reut.rs/4oxIMsb
+
+[2025-12-02 04:01:05](https://bsky.app/profile/reuters.com/post/3m6x4gyo3xw2a)
+
+---
+
+@cnn.com
+
+Airbus has identified an issue affecting “a limited number” of metal panels in its A320 passenger planes, a spokesperson for the company said Monday, just days after warning of another technical problem in its aircraft. https://cnn.it/3XsIc3S
+
+[2025-12-02 04:01:03](https://bsky.app/profile/cnn.com/post/3m6x4gwi65z2y)
+
+---
+
+@usatoday.com
+
+A group often forgotten about in the discussion of HIV – despite research pointing to an ongoing crisis – is Black women in the South. Why?
+
+[2025-12-02 04:00:41](https://bsky.app/profile/usatoday.com/post/3m6x4gbbftv2u)
+
+---
+
+@cnbc.com
+
+Anthony Fredericks writes, "I’ve discovered that the key to excellent memory is to be intentional and proactive with cognitive-boosting activities every day."
+
+[2025-12-02 04:00:38](https://bsky.app/profile/cnbc.com/post/3m6x4g73a6c23)
 
 ---
 
 @aljazeera.com
 
-Donald Trump warns against actions that could 'interfere with Syria’s evolution' amid new Israeli incursion, strikes.
+Senior military leaders suppressed reports of potential war crimes by elite troops, whistleblower testifies.
 
-[2025-12-02 03:30:23](https://bsky.app/profile/aljazeera.com/post/3m6x2q3riyn2f)
+[2025-12-02 04:00:21](https://bsky.app/profile/aljazeera.com/post/3m6x4fopy632l)
+
+---
+
+@apnews.com
+
+In over 200 locations globally, photojournalists with The Associated Press are trusted eyewitnesses to the world's news, and have won 36 of AP's 59 Pulitzer Prizes since the award was established in 1917. See their most striking photos of 2025.
+
+[2025-12-02 04:00:20](https://bsky.app/profile/apnews.com/post/3m6x4fnyuxn2j)
 
 ---
 
