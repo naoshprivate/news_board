@@ -1,9 +1,9 @@
-# [2025-12-01 18:10 updated](2025_12_01.md)
+# [2025-12-01 18:30 updated](2025_12_01.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NZ out to dominate West Indies again with red ball to kick off WTC campaign reut.rs/4phqi0i <a href="https://bsky.app/profile/reuters.com/post/3m6w35ffu7s2a" target="_blank">reuters.com</a> (2025-12-01 18:05:09)</span><span style="padding-right:50px;">介護保険サービスの2割負担 対象拡大の場合の配慮措置を提示 https://news.web.nhk/newsweb/na/na-k10014990971000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6w2zrwggx24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 18:03:06)</span><span style="padding-right:50px;">経団連の筒井会長 柏崎刈羽原発を視察 再稼働に期待感示す https://news.web.nhk/newsweb/na/na-k10014990991000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6w2znm4mi2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 18:03:02)</span><span style="padding-right:50px;">Venezuelan President Nicolás Maduro made his first public appearance in days on Sunday. He has not been seen since Wednesday, ending speculation he had fled the country. CNN's Stefano Pozzebon reports from Caracas, Venezuela.  Read more: https://cnn.it/4rvReuv <a href="https://bsky.app/profile/cnn.com/post/3m6w2vst4hd2j" target="_blank">cnn.com</a> (2025-12-01 18:00:55)</span><span style="padding-right:50px;">トランプ氏、ロシア宥和の病　中国もさらに強気に www.nikkei.com/article/DGXZQO...   トランプ大統領がウクライナに迫った和平案は、ほぼ「降伏」に近い内容。その後の協議でひとまず中立的な案に戻りましたが、トランプ氏のロシア配慮姿勢が改めて鮮明になりました。   世界の安定に役立つなら、あり得る選択肢の一つでしょう。ただ、トランプ氏の「対ロシア宥和症」は世界をより不安定にする恐れが大きいです。 <a href="https://bsky.app/profile/nikkei.com/post/3m6w2vkuz572t" target="_blank">nikkei.com</a> (2025-12-01 18:00:47)</span>
+<span style="padding-right:50px;">円相場 値上がり 日銀が追加利上げ行うのではないかとの観測 https://news.web.nhk/newsweb/na/na-k10014991041000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6w4eqbueh2t" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 18:27:07)</span><span style="padding-right:50px;">神奈川 横須賀 水道管の工事中 水があふれ周辺の道路が冠水 https://news.web.nhk/newsweb/na/na-k10014990921000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6w4elfunv2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 18:27:02)</span><span style="padding-right:50px;">South Korean police probe massive data leak at Coupang reut.rs/3Kj6tGA <a href="https://bsky.app/profile/reuters.com/post/3m6w4b764z42i" target="_blank">reuters.com</a> (2025-12-01 18:25:11)</span><span style="padding-right:50px;">れいわ 代表選告示 山本代表ら5人が立候補 https://news.web.nhk/newsweb/na/na-k10014991011000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6w47f7bpq2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 18:24:08)</span><span style="padding-right:50px;">北海道知事 メガソーラー建設めぐる法整備など環境相に要望 https://news.web.nhk/newsweb/na/na-k10014991031000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6w47abo6t2n" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 18:24:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49303.28 (🔻1015.31 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3082.00 (🔻50.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.46 (🔻0.60 : 2025-12-01)</span>
+<span style="padding-right:50px;">NIKKEI: 49303.28 (🔻1015.31 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3082.00 (🔻50.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.33 (🔻0.72 : 2025-12-01)</span>
   </div>
 </div>
 
@@ -32,105 +32,100 @@
 
 ## News Headlines
 
-1.  NZ、WTC始動で西インド諸島に挑む
-2.  介護保険2割負担拡大、配慮措置提示
-3.  経団連会長、柏崎刈羽原発視察で再稼働に期待
-4.  ベネズエラ大統領、数日ぶりに公の場に姿
-5.  トランプ氏の「ロシア宥和」に懸念
-6.  来年11月、「防災庁」設置へ
+1. 円高進む、日銀追加利上げ観測で
+2. 横須賀で水道管工事中に道路冠水
+3. れいわ新選組代表選、山本太郎氏ら5名が立候補
+4. 広陵高校野球部員、暴力事件で書類送検
+5. 日本製鉄室蘭工場で爆発火災発生
+6. マイナ保険証、明日から完全移行へ
 
 ----
 
-@reuters.com
+@nhknewsunofficial.bsky.social
 
-NZ out to dominate West Indies again with red ball to kick off WTC campaign reut.rs/4phqi0i
+円相場 値上がり 日銀が追加利上げ行うのではないかとの観測
+https://news.web.nhk/newsweb/na/na-k10014991041000
 
-[2025-12-01 18:05:09](https://bsky.app/profile/reuters.com/post/3m6w35ffu7s2a)
+[2025-12-01 18:27:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6w4eqbueh2t)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-介護保険サービスの2割負担 対象拡大の場合の配慮措置を提示
-https://news.web.nhk/newsweb/na/na-k10014990971000
+神奈川 横須賀 水道管の工事中 水があふれ周辺の道路が冠水
+https://news.web.nhk/newsweb/na/na-k10014990921000
 
-[2025-12-01 18:03:06](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6w2zrwggx24)
-
----
-
-@nhknewsunofficial.bsky.social
-
-経団連の筒井会長 柏崎刈羽原発を視察 再稼働に期待感示す
-https://news.web.nhk/newsweb/na/na-k10014990991000
-
-[2025-12-01 18:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6w2znm4mi2p)
-
----
-
-@cnn.com
-
-Venezuelan President Nicolás Maduro made his first public appearance in days on Sunday. He has not been seen since Wednesday, ending speculation he had fled the country. CNN's Stefano Pozzebon reports from Caracas, Venezuela.
-
-Read more: https://cnn.it/4rvReuv
-
-[2025-12-01 18:00:55](https://bsky.app/profile/cnn.com/post/3m6w2vst4hd2j)
-
----
-
-@nikkei.com
-
-トランプ氏、ロシア宥和の病　中国もさらに強気に
-www.nikkei.com/article/DGXZQO...
- 
-トランプ大統領がウクライナに迫った和平案は、ほぼ「降伏」に近い内容。その後の協議でひとまず中立的な案に戻りましたが、トランプ氏のロシア配慮姿勢が改めて鮮明になりました。
- 
-世界の安定に役立つなら、あり得る選択肢の一つでしょう。ただ、トランプ氏の「対ロシア宥和症」は世界をより不安定にする恐れが大きいです。
-
-[2025-12-01 18:00:47](https://bsky.app/profile/nikkei.com/post/3m6w2vkuz572t)
-
----
-
-@cnbc.com
-
-Klutch Sports CEO Rich Paul says employees who believe they can do anything, and then putting their all into their jobs, stand out from all others.
-
-[2025-12-01 18:00:21](https://bsky.app/profile/cnbc.com/post/3m6w2usmtfs23)
+[2025-12-01 18:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6w4elfunv2b)
 
 ---
 
 @reuters.com
 
-Test flights for Taiwan's delayed new F-16s to start this month reut.rs/48e9vFm
+South Korean police probe massive data leak at Coupang reut.rs/3Kj6tGA
 
-[2025-12-01 18:00:18](https://bsky.app/profile/reuters.com/post/3m6w2upk6zc2a)
+[2025-12-01 18:25:11](https://bsky.app/profile/reuters.com/post/3m6w4b764z42i)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-「防災庁」来年11月設置目指す 全国2か所に地方拠点で調整
-https://news.web.nhk/newsweb/na/na-k10014991001000
+れいわ 代表選告示 山本代表ら5人が立候補
+https://news.web.nhk/newsweb/na/na-k10014991011000
 
-[2025-12-01 18:00:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6w2ubvqhp26)
-
----
-
-@cbsnews.com
-
-Lyme disease often goes undetected when it's most treatable. These teens are working to change that.
-
-[2025-12-01 18:00:01](https://bsky.app/profile/cbsnews.com/post/3m6w2u7dh4j2d)
+[2025-12-01 18:24:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6w47f7bpq2p)
 
 ---
 
-@en.afp.com
+@nhknewsunofficial.bsky.social
 
-Leader of one of South Korea's largest cult-like churches stands trial on Monday accused of bribing the country's former first lady.
+北海道知事 メガソーラー建設めぐる法整備など環境相に要望
+https://news.web.nhk/newsweb/na/na-k10014991031000
 
-Han Hak-ja is the leader of the Unification Church, which claims to have 10 million followers worldwide and controls a business empire
-u.afp.com/Sh6V
+[2025-12-01 18:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6w47abo6t2n)
 
-[2025-12-01 17:58:35](https://bsky.app/profile/en.afp.com/post/3m6w2rnmbfk2a)
+---
+
+@reuters.com
+
+VinFast considers petrol engines to extend EV range, sources say reut.rs/4p4oirW
+
+[2025-12-01 18:15:14](https://bsky.app/profile/reuters.com/post/3m6w3pfpq5h2d)
+
+---
+
+@apnews.com
+
+In over 200 locations globally, photojournalists with The Associated Press are trusted eyewitnesses to the world's news, and have won 36 of AP's 59 Pulitzer Prizes since the award was established in 1917. See their most striking photos of 2025.
+
+[2025-12-01 18:15:11](https://bsky.app/profile/apnews.com/post/3m6w3pdbvea2h)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+陸上 ドルーリー朱瑛里 来年米留学で決意“日本から世界へ”
+https://news.web.nhk/newsweb/na/na-k10014990981000
+
+[2025-12-01 18:12:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6w3jr3tei2e)
+
+---
+
+@sokuho.news
+
+🔔ANNより【速報】です。
+
+【速報】広陵高野球部の暴力問題 3年生の部員2人を暴行の疑いで書類送検 学校関係者
+(2025年12月1日 18:11) #ニュース
+
+[2025-12-01 18:11:57](https://bsky.app/profile/sokuho.news/post/3m6w3jjqsu72p)
+
+---
+
+@reuters.com
+
+South Korea market watchdog wary of FX risks for retail investors reut.rs/49KasGv
+
+[2025-12-01 18:10:11](https://bsky.app/profile/reuters.com/post/3m6w3gfgsm22a)
 
 ---
 
