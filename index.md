@@ -1,9 +1,9 @@
-# [2025-12-01 20:10 updated](2025_12_01.md)
+# [2025-12-01 20:30 updated](2025_12_01.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">インドネシア 大雨で400人以上死亡 日本人7人救助 1人現地残る https://news.web.nhk/newsweb/na/na-k10014990301000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6wbvmpdd22j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 20:06:03)</span><span style="padding-right:50px;">Landmine casualties hit 4-year high as states exit ban treaty reut.rs/3KgieO3 <a href="https://bsky.app/profile/reuters.com/post/3m6wbtzd44v27" target="_blank">reuters.com</a> (2025-12-01 20:05:11)</span><span style="padding-right:50px;">India's industrial output grew just 0.4% in October, missing estimates <a href="https://bsky.app/profile/cnbc.com/post/3m6wbp6j4ol2o" target="_blank">cnbc.com</a> (2025-12-01 20:02:29)</span><span style="padding-right:50px;">「下請け」脱し成長へ　保管させられていた金型、融通し新製品開発 www.nikkei.com/article/DGXZQO...  金型はノウハウの固まり。本来、転用は許されません。  岡山市の部品会社は「転用できれば自動車業界全体のCO2排出量を抑えられる」と訴え、大手企業の承諾を得ました。 <a href="https://bsky.app/profile/nikkei.com/post/3m6wbm72ibo2k" target="_blank">nikkei.com</a> (2025-12-01 20:00:49)</span><span style="padding-right:50px;">Sri Lanka's cyclone death toll climbs to 355, with 366 missing reut.rs/4pEhFwl <a href="https://bsky.app/profile/reuters.com/post/3m6wblvsz7a2d" target="_blank">reuters.com</a> (2025-12-01 20:00:39)</span>
+<span style="padding-right:50px;"> 🛍️ US shoppers spent a record $11.8 billion online on Black Friday, up 9% from last year — but is it real growth or just inflation? Hear the breakdown: reut.rs/4aloMFw <a href="https://bsky.app/profile/reuters.com/post/3m6wcysipfc2y" target="_blank">reuters.com</a> (2025-12-01 20:25:45)</span><span style="padding-right:50px;">Labuschagne backs under fire Khawaja ahead of second Ashes test reut.rs/48bns6N <a href="https://bsky.app/profile/reuters.com/post/3m6wcxrp74o27" target="_blank">reuters.com</a> (2025-12-01 20:25:11)</span><span style="padding-right:50px;">“生成AIのサービスで記事無断利用” 日本の3社が米企業に抗議 https://news.web.nhk/newsweb/na/na-k10014991141000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6wcvsbyd62g" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 20:24:02)</span><span style="padding-right:50px;">🇦🇺 Australia mum channels grief into social media limits  Mia Bannister's skin is inked with a eulogy to her teenage son Ollie, whose suicide after a battle with anorexia and online bullying pushed her to fight for world-first laws in Australia to get kids off social media. <a href="https://bsky.app/profile/en.afp.com/post/3m6wcpvsam52k" target="_blank">en.afp.com</a> (2025-12-01 20:20:47)</span><span style="padding-right:50px;">At issue is whether internet providers can be liable for their users' committing copyright violations using its services. n.pr/4pJUZLq <a href="https://bsky.app/profile/npr.org/post/3m6wcpo7eac2s" target="_blank">npr.org</a> (2025-12-01 20:20:39)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49303.28 (🔻1015.31 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3082.00 (🔻50.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.29 (🔻0.77 : 2025-12-01)</span>
+<span style="padding-right:50px;">NIKKEI: 49303.28 (🔻1015.31 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3082.00 (🔻50.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.20 (🔻0.85 : 2025-12-01)</span>
   </div>
 </div>
 
@@ -32,102 +32,96 @@
 
 ## News Headlines
 
-1. インドネシア大雨、死者500人超 邦人7人救助
-2. スリランカ サイクロン死者355人に
-3. 林芳正総務大臣 公選法違反で刑事告発
-4. 中央道で車両火災、諏訪IC～岡谷JCT間通行止め
-5. 東南アジア豪雨 死者1000人近くに
-6. 高市首相 衆院議員定数削減で自民党内議論指示
+1. 米国ブラックフライデー、オンライン売上高が過去最高の118億ドルを記録
+2. 日本企業3社、生成AIの記事無断利用で米企業に抗議
+3. オーストラリア、ソーシャルメディア規制で世界初の試み
+4. インドネシア豪雨、死者400人超え、邦人救助も
+5. 林芳正総務大臣、公職選挙法違反で刑事告発
+6. 高市首相、衆院議員の定数削減に向け自民党内議論加速を指示
 
 ----
 
+@reuters.com
+
+ 🛍️ US shoppers spent a record $11.8 billion online on Black Friday, up 9% from last year — but is it real growth or just inflation? Hear the breakdown: reut.rs/4aloMFw
+
+[2025-12-01 20:25:45](https://bsky.app/profile/reuters.com/post/3m6wcysipfc2y)
+
+---
+
+@reuters.com
+
+Labuschagne backs under fire Khawaja ahead of second Ashes test reut.rs/48bns6N
+
+[2025-12-01 20:25:11](https://bsky.app/profile/reuters.com/post/3m6wcxrp74o27)
+
+---
+
 @nhknewsunofficial.bsky.social
 
-インドネシア 大雨で400人以上死亡 日本人7人救助 1人現地残る
-https://news.web.nhk/newsweb/na/na-k10014990301000
+“生成AIのサービスで記事無断利用” 日本の3社が米企業に抗議
+https://news.web.nhk/newsweb/na/na-k10014991141000
 
-[2025-12-01 20:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6wbvmpdd22j)
-
----
-
-@reuters.com
-
-Landmine casualties hit 4-year high as states exit ban treaty reut.rs/3KgieO3
-
-[2025-12-01 20:05:11](https://bsky.app/profile/reuters.com/post/3m6wbtzd44v27)
-
----
-
-@cnbc.com
-
-India's industrial output grew just 0.4% in October, missing estimates
-
-[2025-12-01 20:02:29](https://bsky.app/profile/cnbc.com/post/3m6wbp6j4ol2o)
-
----
-
-@nikkei.com
-
-「下請け」脱し成長へ　保管させられていた金型、融通し新製品開発
-www.nikkei.com/article/DGXZQO...
-
-金型はノウハウの固まり。本来、転用は許されません。
-
-岡山市の部品会社は「転用できれば自動車業界全体のCO2排出量を抑えられる」と訴え、大手企業の承諾を得ました。
-
-[2025-12-01 20:00:49](https://bsky.app/profile/nikkei.com/post/3m6wbm72ibo2k)
-
----
-
-@reuters.com
-
-Sri Lanka's cyclone death toll climbs to 355, with 366 missing reut.rs/4pEhFwl
-
-[2025-12-01 20:00:39](https://bsky.app/profile/reuters.com/post/3m6wblvsz7a2d)
-
----
-
-@sokuho.news
-
-🛎️文春より【スクープ】です。
-
-林芳正総務大臣がついに公職選挙法違反で刑事告発された！「常習犯の可能性」「大規模買収事件が明るみに」
-(2025-12-01 20:00) #ニュース
-
-[2025-12-01 20:00:27](https://bsky.app/profile/sokuho.news/post/3m6wblkhuag2d)
-
----
-
-@aljazeera.com
-
-Children as young as eight have been pushed to work for their families’ survival, losing their education and childhood.
-
-[2025-12-01 20:00:23](https://bsky.app/profile/aljazeera.com/post/3m6wblgl45a2l)
+[2025-12-01 20:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6wcvsbyd62g)
 
 ---
 
 @en.afp.com
 
-🇦🇺 Australia's under-16 social media ban will make the nation a real-life laboratory on how best to tackle the technology's impact on young people, experts say. 
-➡️ u.afp.com/Shbo
+🇦🇺 Australia mum channels grief into social media limits
 
-[2025-12-01 20:00:22](https://bsky.app/profile/en.afp.com/post/3m6wblg4fu72d)
+Mia Bannister's skin is inked with a eulogy to her teenage son Ollie, whose suicide after a battle with anorexia and online bullying pushed her to fight for world-first laws in Australia to get kids off social media.
+
+[2025-12-01 20:20:47](https://bsky.app/profile/en.afp.com/post/3m6wcpvsam52k)
+
+---
+
+@npr.org
+
+At issue is whether internet providers can be liable for their users' committing copyright violations using its services. n.pr/4pJUZLq
+
+[2025-12-01 20:20:39](https://bsky.app/profile/npr.org/post/3m6wcpo7eac2s)
 
 ---
 
 @nbcnews.com
 
-Israeli Prime Minister Benjamin Netanyahu has submitted a request for a formal pardon amid a yearslong corruption trial, just weeks after President Trump said he should be pardoned.
+Indonesia’s president told survivors of last week’s devastating floods that help was arriving to those in need as Asian governments scaled up their responses to a disaster that has left more than 1,000 dead in three countries.
 
-[2025-12-01 20:00:19](https://bsky.app/profile/nbcnews.com/post/3m6wblcvaen2c)
+[2025-12-01 20:20:09](https://bsky.app/profile/nbcnews.com/post/3m6wcos2zgw2t)
 
 ---
 
-@washingtonpost.com
+@nhknewsunofficial.bsky.social
 
-Days before the presidential election in Honduras, President Trump not only pledged his support for the conservative candidate, he also plans to pardon a former Honduran president, who was convicted of smuggling hundreds of tons of cocaine to the U.S.
+白いユニフォーム 下着透けるなど高校生女子約半数 困った経験
+https://news.web.nhk/newsweb/na/na-k10014991021000
 
-[2025-12-01 20:00:13](https://bsky.app/profile/washingtonpost.com/post/3m6wbl4xwgc2y)
+[2025-12-01 20:18:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6wcl3oqm62t)
+
+---
+
+@reuters.com
+
+Apple trying to stall India antitrust case by challenging penalty law, watchdog says reut.rs/4alff19
+
+[2025-12-01 20:15:14](https://bsky.app/profile/reuters.com/post/3m6wcfypnig2i)
+
+---
+
+@cnbc.com
+
+Luminar Technologies CEO and founder Austin Russell, the world's youngest self-made billionaire, credits his success to two traits common among young people.
+
+[2025-12-01 20:12:40](https://bsky.app/profile/cnbc.com/post/3m6wcbfyztz2q)
+
+---
+
+@reuters.com
+
+European shares decline after November's gains as industrial stocks weigh reut.rs/4iyOLLU
+
+[2025-12-01 20:10:20](https://bsky.app/profile/reuters.com/post/3m6wc5a4pdw27)
 
 ---
 
