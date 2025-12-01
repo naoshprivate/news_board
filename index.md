@@ -1,9 +1,9 @@
-# [2025-12-01 21:50 updated](2025_12_01.md)
+# [2025-12-01 22:10 updated](2025_12_01.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">インフルエンザ流行、96%が「サブクレードK」（無料記事） www.nikkei.com/article/DGXZQO...  国立感染症研究所によると9月以降11月5日までに採取した「H3型」で、23株のうち22株がサブクレードKでした。  変異型の症状や重症度は従来のインフルエンザと大きく変わらないといいます。ただ「高いレベルで流行が続くと考え、対策をたてる必要がある」。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m6whjo5vl72w" target="_blank">nikkei.com</a> (2025-12-01 21:46:46)</span><span style="padding-right:50px;">WNBA, players union extend CBA to new Jan. 9 deadline reut.rs/48bsNuR <a href="https://bsky.app/profile/reuters.com/post/3m6whh4bd7r22" target="_blank">reuters.com</a> (2025-12-01 21:45:20)</span><span style="padding-right:50px;">President Trump said that Defense Secretary Pete Hegseth did not give a spoken order to kill all crew members aboard a vessel suspected of smuggling drugs in the Caribbean Sea in September.  <a href="https://bsky.app/profile/washingtonpost.com/post/3m6whglxmm22a" target="_blank">washingtonpost.com</a> (2025-12-01 21:45:03)</span><span style="padding-right:50px;">🔊 'We're not sure what action Trump is willing to take.’ Reuters World News on the confusion in Caracas after Trump’s airspace comments and his confirmation that he’s spoken to Venezuela’s Nicolas Maduro by phone reut.rs/4opsSzW <a href="https://bsky.app/profile/reuters.com/post/3m6whfcpdm224" target="_blank">reuters.com</a> (2025-12-01 21:44:20)</span><span style="padding-right:50px;">Omnicom to axe historic ad agencies and cut 4,000 jobs in IPG takeover on.ft.com/3XopTNd <a href="https://bsky.app/profile/financialtimes.com/post/3m6whdoga4f2l" target="_blank">financialtimes.com</a> (2025-12-01 21:43:25)</span>
+<span style="padding-right:50px;">Stocks drift back toward record highs as the final month of 2025 gets underway: What to watch this week <a href="https://bsky.app/profile/yahoofinance.com/post/3m6wimckia52m" target="_blank">yahoofinance.com</a> (2025-12-01 22:06:08)</span><span style="padding-right:50px;">広島 広陵高校野球部 当時2年生の部員2人を暴行疑いで書類送検 https://news.web.nhk/newsweb/na/na-k10014991331000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6wim7n42v24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 22:06:03)</span><span style="padding-right:50px;">Euro zone factory activity contracts in November, job cuts accelerate, PMI shows reut.rs/4pMsQ6t <a href="https://bsky.app/profile/reuters.com/post/3m6wiknwsrk2o" target="_blank">reuters.com</a> (2025-12-01 22:05:13)</span><span style="padding-right:50px;">Trump, Xi, Putin and the strongman race on.ft.com/48sL2e4 <a href="https://bsky.app/profile/financialtimes.com/post/3m6wihrpvwp27" target="_blank">financialtimes.com</a> (2025-12-01 22:03:36)</span><span style="padding-right:50px;">New Tesla sales in Spain fall 8.75% in November, other EV sales double reut.rs/48H9BFs <a href="https://bsky.app/profile/reuters.com/post/3m6widivfqz2o" target="_blank">reuters.com</a> (2025-12-01 22:01:13)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49303.28 (🔻1015.31 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3082.00 (🔻50.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 154.86 (🔻1.19 : 2025-12-01)</span>
+<span style="padding-right:50px;">NIKKEI: 49303.28 (🔻1015.31 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3082.00 (🔻50.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 154.80 (🔻1.25 : 2025-12-01)</span>
   </div>
 </div>
 
@@ -32,101 +32,100 @@
 
 ## News Headlines
 
-1. インフルエンザ流行、96%が「サブクレードK」感染研
-2. WNBA、労使協定交渉期限を1月9日に延長
-3. オムニコム、大手広告代理店を閉鎖、4000人削減へ
-4. レスリング文田健一郎、パリ五輪金へ練習公開
-5. 香港火災、足場用ネットが防火基準違反、151人死亡
-6. ガメラ生誕60年記念、「平成3部作」イベント開催
+1. 株価、2025年最終月に向け最高値圏へ
+2. 広陵高校野球部員、部内暴力で書類送検
+3. ユーロ圏製造業、縮小続く - PMI発表
+4. トランプ、習近平、プーチン - 強権リーダーシップ競争
+5. スペインのテスラ販売、11月に減少 - EV全体は倍増
+6. 香港火災、死者150人超 - 政府批判を抑制か
 
 ----
 
-@nikkei.com
+@yahoofinance.com
 
-インフルエンザ流行、96%が「サブクレードK」（無料記事）
-www.nikkei.com/article/DGXZQO...
+Stocks drift back toward record highs as the final month of 2025 gets underway: What to watch this week
 
-国立感染症研究所によると9月以降11月5日までに採取した「H3型」で、23株のうち22株がサブクレードKでした。
+[2025-12-01 22:06:08](https://bsky.app/profile/yahoofinance.com/post/3m6wimckia52m)
 
-変異型の症状や重症度は従来のインフルエンザと大きく変わらないといいます。ただ「高いレベルで流行が続くと考え、対策をたてる必要がある」。
+---
 
-#ニュース
+@nhknewsunofficial.bsky.social
 
-[2025-12-01 21:46:46](https://bsky.app/profile/nikkei.com/post/3m6whjo5vl72w)
+広島 広陵高校野球部 当時2年生の部員2人を暴行疑いで書類送検
+https://news.web.nhk/newsweb/na/na-k10014991331000
+
+[2025-12-01 22:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6wim7n42v24)
 
 ---
 
 @reuters.com
 
-WNBA, players union extend CBA to new Jan. 9 deadline reut.rs/48bsNuR
+Euro zone factory activity contracts in November, job cuts accelerate, PMI shows reut.rs/4pMsQ6t
 
-[2025-12-01 21:45:20](https://bsky.app/profile/reuters.com/post/3m6whh4bd7r22)
-
----
-
-@washingtonpost.com
-
-President Trump said that Defense Secretary Pete Hegseth did not give a spoken order to kill all crew members aboard a vessel suspected of smuggling drugs in the Caribbean Sea in September. 
-
-[2025-12-01 21:45:03](https://bsky.app/profile/washingtonpost.com/post/3m6whglxmm22a)
-
----
-
-@reuters.com
-
-🔊 'We're not sure what action Trump is willing to take.’ Reuters World News on the confusion in Caracas after Trump’s airspace comments and his confirmation that he’s spoken to Venezuela’s Nicolas Maduro by phone reut.rs/4opsSzW
-
-[2025-12-01 21:44:20](https://bsky.app/profile/reuters.com/post/3m6whfcpdm224)
+[2025-12-01 22:05:13](https://bsky.app/profile/reuters.com/post/3m6wiknwsrk2o)
 
 ---
 
 @financialtimes.com
 
-Omnicom to axe historic ad agencies and cut 4,000 jobs in IPG takeover on.ft.com/3XopTNd
+Trump, Xi, Putin and the strongman race on.ft.com/48sL2e4
 
-[2025-12-01 21:43:25](https://bsky.app/profile/financialtimes.com/post/3m6whdoga4f2l)
-
----
-
-@nhknewsunofficial.bsky.social
-
-レスリング パリ五輪金 文田健一郎 全日本選手権前に練習公開
-https://news.web.nhk/newsweb/na/na-k10014991271000
-
-[2025-12-01 21:42:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6whbg5y7m2p)
-
----
-
-@nhknewsunofficial.bsky.social
-
-自民 維新 衆議院議員定数削減に向けた法案の概要が判明
-https://news.web.nhk/newsweb/na/na-k10014991311000
-
-[2025-12-01 21:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6whbbavcv2b)
+[2025-12-01 22:03:36](https://bsky.app/profile/financialtimes.com/post/3m6wihrpvwp27)
 
 ---
 
 @reuters.com
 
-Chevron says oil loadings continue at Russia's Black Sea CPC terminal after drone attack reut.rs/48njh6D
+New Tesla sales in Spain fall 8.75% in November, other EV sales double reut.rs/48H9BFs
 
-[2025-12-01 21:40:15](https://bsky.app/profile/reuters.com/post/3m6wh5zpzcs2d)
-
----
-
-@nbcnews.com
-
-Hong Kong officials say that their investigation into a deadly blaze that killed at least 151 has revealed netting that covered scaffolding used in renovations was not up to fire-safety codes.
-
-[2025-12-01 21:40:10](https://bsky.app/profile/nbcnews.com/post/3m6wh5tx7yf2h)
+[2025-12-01 22:01:13](https://bsky.app/profile/reuters.com/post/3m6widivfqz2o)
 
 ---
 
-@nytimes.com
+@nikkei.com
 
-<strong><span style="color: red;">Breaking News</span>: Contractors at the Hong Kong housing estate where a fire killed more than 150 people wrapped the buildings in substandard scaffolding netting and then sought to hide it from inspectors, officials said.</strong>
+ピカチュウが育てる理系人材　科学教育、コンテンツ産業に政府も期待
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-01 21:40:06](https://bsky.app/profile/nytimes.com/post/3m6wh5r32ud2y)
+国立天文台は「ポケットモンスター」のブランド運営を担うポケモンと連携し、相模原市立博物館で教育イベント「ポケモン天文台」を開催。
+
+科学への入り口を漫画やアニメのキャラクターが担うことはこれまでにも。
+
+坂口志文氏のノーベル生理学・医学賞の授賞理由となった「制御性T細胞」は人気アニメ「はたらく細胞」のキャラクターとして登場していました。
+
+[2025-12-01 22:00:49](https://bsky.app/profile/nikkei.com/post/3m6wicrztl62z)
+
+---
+
+@wsj.com
+
+The deadly fire in Hong Kong was followed by a threat by Beijing to arrest those who direct anger over the tragedy at the government.
+
+[2025-12-01 22:00:35](https://bsky.app/profile/wsj.com/post/3m6wicfxgti22)
+
+---
+
+@cnn.com
+
+Affordability, long a kitchen-table concern for many American families, has escalated into a national crisis. Here’s what experts say could make a difference.
+
+[2025-12-01 22:00:31](https://bsky.app/profile/cnn.com/post/3m6wicbas5q2f)
+
+---
+
+@washingtonpost.com
+
+As people face rising grocery prices and an uncertain economy, community groups across the country are rallying volunteers with creative ways to ensure their neighbors don’t go hungry.
+
+[2025-12-01 22:00:30](https://bsky.app/profile/washingtonpost.com/post/3m6wic7rizy2i)
+
+---
+
+@apnews.com
+
+Princess Aiko's increasing popularity is sparking discussions about changing Japan's male-only succession law. Aiko is the only child of the current emperor and cannot succeed him under the law.
+
+[2025-12-01 22:00:25](https://bsky.app/profile/apnews.com/post/3m6wic37sl32r)
 
 ---
 
