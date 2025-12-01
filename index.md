@@ -1,9 +1,9 @@
-# [2025-12-02 01:30 updated](2025_12_02.md)
+# [2025-12-02 01:50 updated](2025_12_02.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Gunvor said billionaire founder Torbjörn Törnqvist would leave the commodities-trading company and sell his stake to employees, less than a month after the Trump administration pilloried the firm over its alleged ties to Moscow. <a href="https://bsky.app/profile/wsj.com/post/3m6wtt6lyge2i" target="_blank">wsj.com</a> (2025-12-02 01:26:50)</span><span style="padding-right:50px;">Bitcoin champion Strategy launches ‘dollar reserve’ amid crypto sell-off on.ft.com/3Y16mm6 <a href="https://bsky.app/profile/financialtimes.com/post/3m6wtrnsm6o2n" target="_blank">financialtimes.com</a> (2025-12-02 01:25:59)</span><span style="padding-right:50px;">Saudi Arabia aims to draw in more Japanese investment, PIF governor says reut.rs/4rrgqTb <a href="https://bsky.app/profile/reuters.com/post/3m6wtq7gjbq2a" target="_blank">reuters.com</a> (2025-12-02 01:25:10)</span><span style="padding-right:50px;">Asia floods death toll tops 1,100 as troops aid survivors   The toll in deadly flooding and landslides across parts of Asia has climbed past 1,100 as hardest-hit Sri Lanka and Indonesia deployed military personnel to help survivors. #AFPVertical <a href="https://bsky.app/profile/en.afp.com/post/3m6wtil5g4d2x" target="_blank">en.afp.com</a> (2025-12-02 01:20:54)</span><span style="padding-right:50px;">Florida hires Tulane’s Jon Sumrall as its next coach, settling for its second choice after Lane Kiffin reportedly picked LSU over the Gators. <a href="https://bsky.app/profile/nbcnews.com/post/3m6wthau5ja2w" target="_blank">nbcnews.com</a> (2025-12-02 01:20:10)</span>
+<span style="padding-right:50px;">Pope Leo XIV’s voyage to the Middle East is taking him to places where early Christianity flourished, but where that community is now struggling. <a href="https://bsky.app/profile/wsj.com/post/3m6wv252qfn2i" target="_blank">wsj.com</a> (2025-12-02 01:48:37)</span><span style="padding-right:50px;">Ares Management launches Marq brand to unify global logistics real estate platform reut.rs/4pb6ITh <a href="https://bsky.app/profile/reuters.com/post/3m6wuu2abbe2i" target="_blank">reuters.com</a> (2025-12-02 01:45:13)</span><span style="padding-right:50px;">In her first holiday back in charge of White House decor, First Lady Melania Trump presented a straightforward, understated look. The decorations include ample ribbon and LEGO portraits of Presidents Trump and George Washington. https://wapo.st/4pHght1 <a href="https://bsky.app/profile/washingtonpost.com/post/3m6wutw67x62e" target="_blank">washingtonpost.com</a> (2025-12-02 01:45:09)</span><span style="padding-right:50px;">Nvidia shares to retreat 20% on competitive pressures, says only analyst with sell rating <a href="https://bsky.app/profile/cnbc.com/post/3m6wusfizmd2e" target="_blank">cnbc.com</a> (2025-12-02 01:44:18)</span><span style="padding-right:50px;">Canadian banks expected to post strong fourth-quarter earnings reut.rs/4onJOqr <a href="https://bsky.app/profile/reuters.com/post/3m6wulri3eg26" target="_blank">reuters.com</a> (2025-12-02 01:40:35)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49303.28 (🔻1015.31 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47490.52 (🔻90.33 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23266.14 (🔺93.80 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 178.99 (🔺4.29 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3082.00 (🔻50.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.27 (🔻0.78 : 2025-12-01)</span>
+<span style="padding-right:50px;">NIKKEI: 49303.28 (🔻1015.31 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47518.46 (🔻62.39 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23321.18 (🔺148.84 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.79 (🔺5.09 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3082.00 (🔻50.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.29 (🔻0.76 : 2025-12-01)</span>
   </div>
 </div>
 
@@ -32,96 +32,93 @@
 
 ## News Headlines
 
-1.  グンヴォール創業者、トーンクヴィスト氏が退任、従業員に株式売却
-2.  マイクロストラテジー、仮想通貨売りの中で「ドル準備」を開始
-3.  サウジアラビア、日本からの投資誘致を目指す
-4.  アジアの洪水による死者、1100人超え
-5.  ニューヨーク州、ブロンクスとクイーンズにカジノライセンスを推奨
-6.  トランプ氏、2度目の大統領就任後も首都に影響力
+1. ローマ教皇、中東訪問：初期キリスト教の地で苦闘するコミュニティへ
+2. アメリカ軍、トップガントレーダーに転身：投資情報交換で巨万の富
+3. インド・ニューデリーの大気汚染、危険レベル：呼吸困難を引き起こす
+4. アメリカ政府高官、米ウクライナ和平協議後プーチン大統領と会談
+5. 世界で肥満が深刻化：WHO、画期的肥満治療薬に期待
+6. イスラエル、レーザー防衛システム「アイアンビーム」完成：年末までに配備
 
 ----
 
 @wsj.com
 
-Gunvor said billionaire founder Torbjörn Törnqvist would leave the commodities-trading company and sell his stake to employees, less than a month after the Trump administration pilloried the firm over its alleged ties to Moscow.
+Pope Leo XIV’s voyage to the Middle East is taking him to places where early Christianity flourished, but where that community is now struggling.
 
-[2025-12-02 01:26:50](https://bsky.app/profile/wsj.com/post/3m6wtt6lyge2i)
-
----
-
-@financialtimes.com
-
-Bitcoin champion Strategy launches ‘dollar reserve’ amid crypto sell-off on.ft.com/3Y16mm6
-
-[2025-12-02 01:25:59](https://bsky.app/profile/financialtimes.com/post/3m6wtrnsm6o2n)
+[2025-12-02 01:48:37](https://bsky.app/profile/wsj.com/post/3m6wv252qfn2i)
 
 ---
 
 @reuters.com
 
-Saudi Arabia aims to draw in more Japanese investment, PIF governor says reut.rs/4rrgqTb
+Ares Management launches Marq brand to unify global logistics real estate platform reut.rs/4pb6ITh
 
-[2025-12-02 01:25:10](https://bsky.app/profile/reuters.com/post/3m6wtq7gjbq2a)
-
----
-
-@en.afp.com
-
-Asia floods death toll tops 1,100 as troops aid survivors
- 
-The toll in deadly flooding and landslides across parts of Asia has climbed past 1,100 as hardest-hit Sri Lanka and Indonesia deployed military personnel to help survivors.
-#AFPVertical
-
-[2025-12-02 01:20:54](https://bsky.app/profile/en.afp.com/post/3m6wtil5g4d2x)
+[2025-12-02 01:45:13](https://bsky.app/profile/reuters.com/post/3m6wuu2abbe2i)
 
 ---
 
-@nbcnews.com
+@washingtonpost.com
 
-Florida hires Tulane’s Jon Sumrall as its next coach, settling for its second choice after Lane Kiffin reportedly picked LSU over the Gators.
+In her first holiday back in charge of White House decor, First Lady Melania Trump presented a straightforward, understated look. The decorations include ample ribbon and LEGO portraits of Presidents Trump and George Washington.
+https://wapo.st/4pHght1
 
-[2025-12-02 01:20:10](https://bsky.app/profile/nbcnews.com/post/3m6wthau5ja2w)
-
----
-
-@nhknewsunofficial.bsky.social
-
-バスケットボール男子日本代表 台湾に勝って2連勝
-https://news.web.nhk/newsweb/na/na-k10014991471000
-
-[2025-12-02 01:18:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6wtdjp2np24)
-
----
-
-@reuters.com
-
-Gulf markets mixed on US rate cut hopes reut.rs/3XssaH7
-
-[2025-12-02 01:15:15](https://bsky.app/profile/reuters.com/post/3m6wt6hmgu427)
+[2025-12-02 01:45:09](https://bsky.app/profile/washingtonpost.com/post/3m6wutw67x62e)
 
 ---
 
 @cnbc.com
 
-Josh Brown bought this tech stock when he was a retail broker decades ago. Now it's back on his radar
+Nvidia shares to retreat 20% on competitive pressures, says only analyst with sell rating
 
-[2025-12-02 01:15:01](https://bsky.app/profile/cnbc.com/post/3m6wt62mlnq2e)
-
----
-
-@nytimes.com
-
-<strong><span style="color: red;">Breaking News</span>: A New York board recommended licenses for three casinos, one in the Bronx and two in Queens, to a state commission, which is expected to award all three.</strong>
-
-[2025-12-02 01:10:59](https://bsky.app/profile/nytimes.com/post/3m6wswtsqld2x)
+[2025-12-02 01:44:18](https://bsky.app/profile/cnbc.com/post/3m6wusfizmd2e)
 
 ---
 
 @reuters.com
 
-Blue Owl's teachable moment for investors and asset managers chasing yield and 'hot money' reut.rs/48n4Kba
+Canadian banks expected to post strong fourth-quarter earnings reut.rs/4onJOqr
 
-[2025-12-02 01:10:17](https://bsky.app/profile/reuters.com/post/3m6wsvluapa2n)
+[2025-12-02 01:40:35](https://bsky.app/profile/reuters.com/post/3m6wulri3eg26)
+
+---
+
+@nbcnews.com
+
+A 45-car pileup in Indiana and a Delta jet's skidding off the runway in Iowa are among the travel disasters stemming from a powerful winter storm taking aim at the heart of the country on one of the biggest travel days of the year.
+
+[2025-12-02 01:40:15](https://bsky.app/profile/nbcnews.com/post/3m6wul5qwnq2r)
+
+---
+
+@nytimes.com
+
+Experts at India’s top research hospital call the air in New Delhi “severe and life-threatening.” The level of toxic pollutants has been as many as 20 times above recommended levels for safe breathing.
+
+[2025-12-02 01:40:08](https://bsky.app/profile/nytimes.com/post/3m6wukx764y22)
+
+---
+
+@reuters.com
+
+Philippines celebrates 'heroic' helper who survived Hong Kong fire reut.rs/4ivH0Gn
+
+[2025-12-02 01:35:10](https://bsky.app/profile/reuters.com/post/3m6wuc3dcbs2a)
+
+---
+
+@financialtimes.com
+
+BP scraps plans for Teesside hydrogen and carbon capture scheme on.ft.com/4irLTjQ
+
+[2025-12-02 01:34:56](https://bsky.app/profile/financialtimes.com/post/3m6wubnhaqo2v)
+
+---
+
+@aljazeera.com
+
+Senior US officials will meet President Putin in Moscow on Tuesday, two days after US-Ukraine peace talks in Florida.
+
+[2025-12-02 01:30:26](https://bsky.app/profile/aljazeera.com/post/3m6wtzmoc7n2k)
 
 ---
 
