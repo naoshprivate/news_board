@@ -1,9 +1,9 @@
-# [2025-12-01 11:30 updated](2025_12_01.md)
+# [2025-12-01 11:50 updated](2025_12_01.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The alliance’s top military officer said it could become proactive in dealing with threats from Moscow on.ft.com/3K6P57X <a href="https://bsky.app/profile/financialtimes.com/post/3m6vevjhhw22l" target="_blank">financialtimes.com</a> (2025-12-01 11:27:03)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】軌道回路に不具合 快速エアポートなど運転見合わせ 北広島ー千歳間の上下線 JR北海道 (2025-12-01 11:26) #ニュース  🚃鉄道運行情報 🔗https://transit.yahoo.co.jp/diainfo <a href="https://bsky.app/profile/sokuho.news/post/3m6vevgrol72p" target="_blank">sokuho.news</a> (2025-12-01 11:27:00)</span><span style="padding-right:50px;">北～西日本の日本海側中心に大気不安定 北海道は暴風に警戒 https://news.web.nhk/newsweb/na/na-k10014990401000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6veq7ffvg2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 11:24:02)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】豪雨で足止めの日本人8人は安全な都市に避難へ…木原官房長官がインドネシア豪雨被害の対応説明 (2025-12-01 11:21) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6vemc65i52h" target="_blank">sokuho.news</a> (2025-12-01 11:21:53)</span><span style="padding-right:50px;">NFL roundup: Panthers stymie Matthew Stafford, end Rams' streak reut.rs/48bMd2Q <a href="https://bsky.app/profile/reuters.com/post/3m6vejbxafg2k" target="_blank">reuters.com</a> (2025-12-01 11:20:12)</span>
+<span style="padding-right:50px;">American standout Mikaela Shiffrin has dominated a World Cup slalom on home Colorado snow to remain perfect in the discipline during the Olympic season. <a href="https://bsky.app/profile/apnews.com/post/3m6vfvvgklx2t" target="_blank">apnews.com</a> (2025-12-01 11:45:09)</span><span style="padding-right:50px;">インドネシア 大雨で400人以上死亡 日本人8人が孤立状態 https://news.web.nhk/newsweb/na/na-k10014990301000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vfqexohk2n" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 11:42:01)</span><span style="padding-right:50px;">India equity benchmarks to open higher as GDP data tops forecast reut.rs/4omVo55 <a href="https://bsky.app/profile/reuters.com/post/3m6vfn3r3kw2r" target="_blank">reuters.com</a> (2025-12-01 11:40:14)</span><span style="padding-right:50px;">ウクライナ和平案 米特使をロシアに派遣へ プーチン氏と交渉も https://news.web.nhk/newsweb/na/na-k10014990521000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vffooeqh2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 11:36:03)</span><span style="padding-right:50px;">U.S. troops have become top gun traders, swapping investment tips from cockpits and the decks of aircraft carriers and making fortunes. <a href="https://bsky.app/profile/wsj.com/post/3m6vf5cg2ml2l" target="_blank">wsj.com</a> (2025-12-01 11:31:24)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49416.40 (🔻902.19 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3082.00 (🔻50.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.59 (🔻0.46 : 2025-12-01)</span>
+<span style="padding-right:50px;">NIKKEI: 49407.31 (🔻911.28 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3079.00 (🔻53.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.47 (🔻0.59 : 2025-12-01)</span>
   </div>
 </div>
 
@@ -32,43 +32,54 @@
 
 ## News Headlines
 
-1. NATO、モスクワからの脅威に先制対処も
-2. JR千歳線、軌道回路トラブルで運転見合わせ
-3. 北～西日本、大気不安定で暴風警戒
-4. 公明党県議、盗撮疑いで逮捕
-5. トランプ氏、ベネズエラ大統領と会談
-6. 日銀、12月会合で利上げ検討へ
+1. シフリン、W杯スラロームで圧勝、五輪シーズン無敗維持
+2. インドネシア豪雨、死者1000人規模か、日本人8名避難へ
+3. 米特使、ウクライナ和平案でロシア派遣へ、プーチン氏と交渉も
+4. Adobe動画生成ツール、Google Geminiと連携、著作権トラブル回避
+5. 中国製造業、11月に予想外の縮小
+6. 株価一時900円以上値下がり、日銀総裁発言が影響
 
 ----
 
-@financialtimes.com
+@apnews.com
 
-The alliance’s top military officer said it could become proactive in dealing with threats from Moscow on.ft.com/3K6P57X
+American standout Mikaela Shiffrin has dominated a World Cup slalom on home Colorado snow to remain perfect in the discipline during the Olympic season.
 
-[2025-12-01 11:27:03](https://bsky.app/profile/financialtimes.com/post/3m6vevjhhw22l)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】軌道回路に不具合 快速エアポートなど運転見合わせ 北広島ー千歳間の上下線 JR北海道
-(2025-12-01 11:26) #ニュース
-
-🚃鉄道運行情報
-🔗https://transit.yahoo.co.jp/diainfo
-
-[2025-12-01 11:27:00](https://bsky.app/profile/sokuho.news/post/3m6vevgrol72p)
+[2025-12-01 11:45:09](https://bsky.app/profile/apnews.com/post/3m6vfvvgklx2t)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-北～西日本の日本海側中心に大気不安定 北海道は暴風に警戒
-https://news.web.nhk/newsweb/na/na-k10014990401000
+インドネシア 大雨で400人以上死亡 日本人8人が孤立状態
+https://news.web.nhk/newsweb/na/na-k10014990301000
 
-[2025-12-01 11:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6veq7ffvg2k)
+[2025-12-01 11:42:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vfqexohk2n)
+
+---
+
+@reuters.com
+
+India equity benchmarks to open higher as GDP data tops forecast reut.rs/4omVo55
+
+[2025-12-01 11:40:14](https://bsky.app/profile/reuters.com/post/3m6vfn3r3kw2r)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+ウクライナ和平案 米特使をロシアに派遣へ プーチン氏と交渉も
+https://news.web.nhk/newsweb/na/na-k10014990521000
+
+[2025-12-01 11:36:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vffooeqh2b)
+
+---
+
+@wsj.com
+
+U.S. troops have become top gun traders, swapping investment tips from cockpits and the decks of aircraft carriers and making fortunes.
+
+[2025-12-01 11:31:24](https://bsky.app/profile/wsj.com/post/3m6vf5cg2ml2l)
 
 ---
 
@@ -76,73 +87,49 @@ https://news.web.nhk/newsweb/na/na-k10014990401000
 
 🛎️FNNより【速報】です。
 
-【速報】豪雨で足止めの日本人8人は安全な都市に避難へ…木原官房長官がインドネシア豪雨被害の対応説明
+【速報】豪雨で足止めの日本人8人は今日にも安全な都市に避難へ…木原官房長官がインドネシア豪雨被害の対応説明
 (2025-12-01 11:21) #ニュース
 
-[2025-12-01 11:21:53](https://bsky.app/profile/sokuho.news/post/3m6vemc65i52h)
+[2025-12-01 11:31:03](https://bsky.app/profile/sokuho.news/post/3m6vf4orujw2h)
+
+---
+
+@nikkei.com
+
+Adobeの動画生成ツール､Google「Gemini」と連係
+www.nikkei.com/article/DGXZQO...
+
+OpenAIなど外部のAIモデルもツール上で利用可能に。
+
+フォトストックサービス「Adobe Stock」の素材を学習しているため、著作権トラブルの恐れがありません。
+
+出力には「コンテンツ認証情報」を付与でき、独自のアイデアに基づいて生成した作品については「真正性を確保できるような仕組みになっている」（最高法務責任者）といいます。
+
+[2025-12-01 11:30:47](https://bsky.app/profile/nikkei.com/post/3m6vf46pjqw2e)
 
 ---
 
 @reuters.com
 
-NFL roundup: Panthers stymie Matthew Stafford, end Rams' streak reut.rs/48bMd2Q
+Asian stocks steady on Fed rate-cut optimism; yen firms reut.rs/4op7SJy
 
-[2025-12-01 11:20:12](https://bsky.app/profile/reuters.com/post/3m6vejbxafg2k)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】JR千歳線 北広島ー千歳間で運転見合わせ 軌道回路トラブルで快速エアポートなどに影響
-(2025-12-01 11:13:00) #ニュース
-
-🚃鉄道運行情報
-🔗https://transit.yahoo.co.jp/diainfo
-
-[2025-12-01 11:18:37](https://bsky.app/profile/sokuho.news/post/3m6veggsuxj27)
+[2025-12-01 11:30:20](https://bsky.app/profile/reuters.com/post/3m6vf3fut5e2o)
 
 ---
 
-@sokuho.news
+@usatoday.com
 
-🛎️JNNより【速報】です。
+The U.S. military said on Sunday that it recently destroyed 15 sites containing Islamic State weapons caches in southern Syria.
 
-【速報】公明党・徳島県本部の代表務める県議 派遣型風俗店の女性盗撮疑いで逮捕 「痛恨の極み」県議会が急遽の会長幹事長会
-(2025-12-01 11:16:14) #ニュース
-
-[2025-12-01 11:18:28](https://bsky.app/profile/sokuho.news/post/3m6veg6mvuq22)
-
----
-
-@en.afp.com
-
-Trump confirms he recently spoke with Venezuelan leader Maduro amid soaring tensions between the two countries.
-
-Venezuela slams what it calls US preparations for an attack
-
-u.afp.com/Sh6Q
-
-[2025-12-01 11:13:52](https://bsky.app/profile/en.afp.com/post/3m6ve5xag7q2p)
+[2025-12-01 11:30:19](https://bsky.app/profile/usatoday.com/post/3m6vf3esb3c2u)
 
 ---
 
 @bloomberg.com
 
-🚨 LIVE NOW: What’s next for Japan and China as tensions over Taiwan threaten to derail what was seen as a warming of ties? 
+China’s manufacturing activity surprisingly contracted in November for the first time in four months, according to a private survey
 
-Ask your questions here ⤵️
-
-[2025-12-01 11:13:42](https://bsky.app/profile/bloomberg.com/post/3m6ve5nqhe62s)
-
----
-
-@reuters.com
-
-Stars D Lian Bichsel injured vs. Senators reut.rs/4pxJx5a
-
-[2025-12-01 11:10:13](https://bsky.app/profile/reuters.com/post/3m6vdxgheta2k)
+[2025-12-01 11:30:13](https://bsky.app/profile/bloomberg.com/post/3m6vf36z7n22q)
 
 ---
 
