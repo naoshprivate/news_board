@@ -1,9 +1,9 @@
-# [2025-12-01 10:30 updated](2025_12_01.md)
+# [2025-12-01 10:50 updated](2025_12_01.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Aditya-L1: Why 2026 will be a year like no other for India’s Sun mission <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6vb6mjm5l2x" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-01 10:20:33)</span><span style="padding-right:50px;">Dollar braces for crucial December with Fed meeting, Powell's successor pick reut.rs/3MfRcqu <a href="https://bsky.app/profile/reuters.com/post/3m6vb62dnor2k" target="_blank">reuters.com</a> (2025-12-01 10:20:14)</span><span style="padding-right:50px;">高市首相動静 2025年11月28日～30日 https://news.web.nhk/newsweb/na/na-k10014990421000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vb26p6ev2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 10:18:02)</span><span style="padding-right:50px;">India gets to grips with biggest labour law shake-up in decades on.ft.com/3XnybVA <a href="https://bsky.app/profile/financialtimes.com/post/3m6vaykvovw2v" target="_blank">financialtimes.com</a> (2025-12-01 10:17:10)</span><span style="padding-right:50px;">From Breakingviews - Breakingviews - The Week in Breakingviews: Hostile retreat reut.rs/4omQc15 <a href="https://bsky.app/profile/reuters.com/post/3m6vama5n5k2r" target="_blank">reuters.com</a> (2025-12-01 10:10:16)</span>
+<span style="padding-right:50px;">President Trump said today he'll release the results of his October MRI scan, after Minnesota Gov. Tim Walz (D) called for him to do so and questioned the 79-year-old's health. <a href="https://bsky.app/profile/axios.com/post/3m6vcntwie22g" target="_blank">axios.com</a> (2025-12-01 10:46:58)</span><span style="padding-right:50px;">日銀 植田総裁 「利上げの是非 適切に判断」 https://news.web.nhk/newsweb/na/na-k10014990471000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vckm47yz2e" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 10:45:07)</span><span style="padding-right:50px;">株価 一時900円以上値下がり 日銀 植田総裁の発言受け売り注文 https://news.web.nhk/newsweb/na/na-k10014990511000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vcki2mxn2r" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-01 10:45:03)</span><span style="padding-right:50px;">🔔NHKより【速報 JUST IN】です。  株価 一時900円以上値下がり 日銀 植田総裁の発言受け売り注文 (2025-12-01 10:44:09) #ニュース https://news.web.nhk/newsweb/na/na-k10014990511000 <a href="https://bsky.app/profile/sokuho.news/post/3m6vcjjc7oc2m" target="_blank">sokuho.news</a> (2025-12-01 10:44:32)</span><span style="padding-right:50px;">Indian rupee, bond traders to take cues from RBI monetary policy decision reut.rs/4pJoMUv <a href="https://bsky.app/profile/reuters.com/post/3m6vcbva6po22" target="_blank">reuters.com</a> (2025-12-01 10:40:17)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49370.47 (🔻948.12 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3093.00 (🔻39.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.59 (🔻0.47 : 2025-12-01)</span>
+<span style="padding-right:50px;">NIKKEI: 49439.46 (🔻879.13 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47716.42 (🔺234.17 : 2025-11-28)</span><span style="padding-right:50px;">NASDAQ: 23365.69 (🔺74.10 : 2025-11-28)</span><span style="padding-right:50px;">NVIDIA: 177.00 (🔻2.01 : 2025-11-28)</span><span style="padding-right:50px;">トヨタ自動車: 3097.00 (🔻35.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.70 (🔻0.35 : 2025-12-01)</span>
   </div>
 </div>
 
@@ -32,99 +32,104 @@
 
 ## News Headlines
 
-1.  インド太陽ミッション、2026年は特別な年に
-2.  米ドル、FRB会合とパウエル後継者人事で重要な12月へ
-3.  インド、数十年間で最大の労働法改革に着手
-4.  北海道浦河町で震度3の地震、津波の心配なし
-5.  日経平均、一時700円以上値下がり
-6.  ゴールドウイン、「ノースフェイス」でPFAS使用を年内廃止
+1. トランプ氏、健康診断結果公開へ　年齢を巡る批判受け
+2. 日銀総裁「利上げ、適切に判断」発言で株価一時900円超下落
+3. 武器売上高、過去最高の6790億ドル　ウクライナ・ガザ戦争で需要増
+4. 中国公務員試験、競争率84倍　高失業率背景
+5. 北海道浦河町で震度3　津波の心配なし
+6. 「ノースフェイス」ゴールドウイン、PFASを年内使用せず
 
 ----
 
-@bbcnews-world-rss.bsky.social
+@axios.com
 
-Aditya-L1: Why 2026 will be a year like no other for India’s Sun mission
+President Trump said today he'll release the results of his October MRI scan, after Minnesota Gov. Tim Walz (D) called for him to do so and questioned the 79-year-old's health.
 
-[2025-12-01 10:20:33](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6vb6mjm5l2x)
-
----
-
-@reuters.com
-
-Dollar braces for crucial December with Fed meeting, Powell's successor pick reut.rs/3MfRcqu
-
-[2025-12-01 10:20:14](https://bsky.app/profile/reuters.com/post/3m6vb62dnor2k)
+[2025-12-01 10:46:58](https://bsky.app/profile/axios.com/post/3m6vcntwie22g)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-高市首相動静 2025年11月28日～30日
-https://news.web.nhk/newsweb/na/na-k10014990421000
+日銀 植田総裁 「利上げの是非 適切に判断」
+https://news.web.nhk/newsweb/na/na-k10014990471000
 
-[2025-12-01 10:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vb26p6ev2b)
+[2025-12-01 10:45:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vckm47yz2e)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+株価 一時900円以上値下がり 日銀 植田総裁の発言受け売り注文
+https://news.web.nhk/newsweb/na/na-k10014990511000
+
+[2025-12-01 10:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6vcki2mxn2r)
+
+---
+
+@sokuho.news
+
+<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>株価 一時900円以上値下がり 日銀 植田総裁の発言受け売り注文</strong><br><strong>(2025-12-01 10:44:09) #ニュース</strong><br><strong>https://news.web.nhk/newsweb/na/na-k10014990511000</strong>
+
+[2025-12-01 10:44:32](https://bsky.app/profile/sokuho.news/post/3m6vcjjc7oc2m)
+
+---
+
+@reuters.com
+
+Indian rupee, bond traders to take cues from RBI monetary policy decision reut.rs/4pJoMUv
+
+[2025-12-01 10:40:17](https://bsky.app/profile/reuters.com/post/3m6vcbva6po22)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】ノースサファリサッポロが「動物移動計画書」をメールで市に提出＿12月中に移動する動物など記載も…全ての動物”引き続き調整中”警察の家宅捜索を受け期限を延期＿園内に残された…
+(2025-12-01 10:31) #ニュース
+
+[2025-12-01 10:35:48](https://bsky.app/profile/sokuho.news/post/3m6vbzvjpig24)
+
+---
+
+@en.afp.com
+
+Sales by the world's top 100 arms makers reached a record $679 billion last year, with the wars in Ukraine and Gaza boosting demand, researchers say
+
+u.afp.com/Sh6p
+
+[2025-12-01 10:31:03](https://bsky.app/profile/en.afp.com/post/3m6vbrf72v42o)
 
 ---
 
 @financialtimes.com
 
-India gets to grips with biggest labour law shake-up in decades on.ft.com/3XnybVA
+The rollout of the label follows a long tradition of corporate jargon to describe employees, including Disney’s ‘imagineers’ and Amazon’s ‘ninja coders’ on.ft.com/48J5Cbq
 
-[2025-12-01 10:17:10](https://bsky.app/profile/financialtimes.com/post/3m6vaykvovw2v)
-
----
-
-@reuters.com
-
-From Breakingviews - Breakingviews - The Week in Breakingviews: Hostile retreat reut.rs/4omQc15
-
-[2025-12-01 10:10:16](https://bsky.app/profile/reuters.com/post/3m6vama5n5k2r)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【地震情報】北海道浦河町で震度3 津波の心配なし
-https://news.web.nhk/newsweb/na/na-k10014990451000
-
-[2025-12-01 10:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6va7dzgrx2k)
-
----
-
-@cnbc.com
-
-CNBC Daily Open: Will December bring joy to round off the year?
-
-[2025-12-01 10:02:31](https://bsky.app/profile/cnbc.com/post/3m6va6ea7au2x)
-
----
-
-@reuters.com
-
-Australia's AUB plunges as EQT, CVC abandon $3.44 billion offer reut.rs/3XYzzhz
-
-[2025-12-01 10:00:55](https://bsky.app/profile/reuters.com/post/3m6va3jfvyi2e)
+[2025-12-01 10:31:02](https://bsky.app/profile/financialtimes.com/post/3m6vbrejblj2l)
 
 ---
 
 @nikkei.com
 
-「ノースフェイス」のゴールドウイン、年内でPFAS使用せず
+中国の国家公務員試験、競争率84倍　高失業率背景に
 www.nikkei.com/article/DGXZQO...
 
-PFASは熱に強く、これまで荒天時や雪山での着用を想定したレインジャケットやバッグ、シューズ類の加工に使っていました。
+およそ3万8000人の採用枠に351万人が出願。日本の競争率は大卒総合職で9倍前後、大卒一般職で3倍前後です。
 
-健康への有害性が指摘され、アメリカやヨーロッパで規制が進んでいます。
+一方、地方では公務員の給与が引き下げられる例が相次いでいます。山東省では3割減った上に支給が遅れているという報告も。
 
-[2025-12-01 10:00:46](https://bsky.app/profile/nikkei.com/post/3m6va3ao27o2l)
+[2025-12-01 10:30:46](https://bsky.app/profile/nikkei.com/post/3m6vbqv5qvz2w)
 
 ---
 
-@cnbc.com
+@usatoday.com
 
-Chabely Rodriguez's high salary may have made it easier, but 3 tips also helped her eliminate six figures of student debt.
+Sen. Mark Kelly said the Armed Services Committee will put people connected to a strike on survivors of an attack on an alleged drug boat "under oath."
 
-[2025-12-01 10:00:20](https://bsky.app/profile/cnbc.com/post/3m6va2hx5hz2e)
+[2025-12-01 10:30:34](https://bsky.app/profile/usatoday.com/post/3m6vbqjg3yd26)
 
 ---
 
