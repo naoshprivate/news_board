@@ -1,9 +1,9 @@
-# [2025-12-03 06:50 updated](2025_12_03.md)
+# [2025-12-03 07:10 updated](2025_12_03.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">大腸がんを攻撃する「海洋細菌」発見　北陸先端科学技術大学院大学 www.nikkei.com/article/DGXZQO...  海洋細菌は海に生息する細菌の総称。フォトバクテリウム・アングスタムという細菌に高い抗腫瘍効果があることが分かりました。  遺伝子を改変していない天然の細菌です。 <a href="https://bsky.app/profile/nikkei.com/post/3m6zw5oenzg2k" target="_blank">nikkei.com</a> (2025-12-03 06:46:29)</span><span style="padding-right:50px;">Trump's NASA pick to tell Congress about moon race with China, deep-space ambition reut.rs/3MA6PJu <a href="https://bsky.app/profile/reuters.com/post/3m6zw3d3k3i2y" target="_blank">reuters.com</a> (2025-12-03 06:45:10)</span><span style="padding-right:50px;">【動画】Pickup NEWS（12月3日） https://news.web.nhk/newsweb/na/na-k10014992211000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6zw35naio2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 06:45:02)</span><span style="padding-right:50px;">Companies used to hate employees posting about their jobs. Now they want them to be in-house TikTok influencers. <a href="https://bsky.app/profile/wsj.com/post/3m6zvtmrmnb2r" target="_blank">wsj.com</a> (2025-12-03 06:40:52)</span><span style="padding-right:50px;">Trump administration fires numerous New York immigration judges reut.rs/4pJwr4Y <a href="https://bsky.app/profile/reuters.com/post/3m6zvsmeliq2k" target="_blank">reuters.com</a> (2025-12-03 06:40:18)</span>
+<span style="padding-right:50px;">政府 ウクライナの地雷除去を支援へ 首都キーウで署名式 https://news.web.nhk/newsweb/na/na-k10014992471000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6zxaps6mk2e" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 07:06:03)</span><span style="padding-right:50px;">Novo Nordisk to test next-gen obesity drug CagriSema in children reut.rs/4rzBnLu <a href="https://bsky.app/profile/reuters.com/post/3m6zx752z3k2k" target="_blank">reuters.com</a> (2025-12-03 07:05:12)</span><span style="padding-right:50px;">Minneapolis and St. Paul leaders rallied behind the Somali community Tuesday after reports emerged that the Trump administration plans an intensive immigration enforcement operation targeting hundreds of undocumented Somali immigrants in the region. (via @mprnews.org) <a href="https://bsky.app/profile/npr.org/post/3m6zx4puxc42g" target="_blank">npr.org</a> (2025-12-03 07:03:51)</span><span style="padding-right:50px;">F1レッドブル・レーシング 角田裕毅 来季はリザーブドライバー https://news.web.nhk/newsweb/na/na-k10014992461000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6zx3es55k2e" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 07:03:03)</span><span style="padding-right:50px;">Bobcat sues Caterpillar over construction equipment patents reut.rs/4pJVF3i <a href="https://bsky.app/profile/reuters.com/post/3m6zwy6czlv2i" target="_blank">reuters.com</a> (2025-12-03 07:01:18)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49303.45 (🔻191.13 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.30 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 155.86 (🔺0.44 : 2025-12-02)</span>
+<span style="padding-right:50px;">NIKKEI: 49303.45 (🔻191.13 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.26 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 155.83 (🔺0.41 : 2025-12-02)</span>
   </div>
 </div>
 
@@ -32,100 +32,94 @@
 
 ## News Headlines
 
-1. 大腸がん攻撃する「海洋細菌」発見
-2. トランプ政権、ニューヨークの移民判事を多数解雇
-3. 英、米との医薬品追加関税3年間ゼロで合意
-4. プーチン大統領、米特使と会談 ウクライナ和平案進展か
-5. 北海道函館市中心部の火災、発生から11時間半後に鎮圧
-6. 日本海側中心に大雪見込み、交通影響に注意
+1. 政府、ウクライナの地雷除去を支援へ
+2. 角田裕毅、来季はF1レッドブルのリザーブドライバー
+3. トランプ大統領、FRB議長の後任候補にハセット氏
+4. 大腸がんを攻撃する海洋細菌を発見
+5. 英、医薬品の追加関税を3年間ゼロで米側と合意
+6. 函館市中心部の火災が鎮圧
 
 ----
 
-@nikkei.com
+@nhknewsunofficial.bsky.social
 
-大腸がんを攻撃する「海洋細菌」発見　北陸先端科学技術大学院大学
-www.nikkei.com/article/DGXZQO...
+政府 ウクライナの地雷除去を支援へ 首都キーウで署名式
+https://news.web.nhk/newsweb/na/na-k10014992471000
 
-海洋細菌は海に生息する細菌の総称。フォトバクテリウム・アングスタムという細菌に高い抗腫瘍効果があることが分かりました。
-
-遺伝子を改変していない天然の細菌です。
-
-[2025-12-03 06:46:29](https://bsky.app/profile/nikkei.com/post/3m6zw5oenzg2k)
+[2025-12-03 07:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6zxaps6mk2e)
 
 ---
 
 @reuters.com
 
-Trump's NASA pick to tell Congress about moon race with China, deep-space ambition reut.rs/3MA6PJu
+Novo Nordisk to test next-gen obesity drug CagriSema in children reut.rs/4rzBnLu
 
-[2025-12-03 06:45:10](https://bsky.app/profile/reuters.com/post/3m6zw3d3k3i2y)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【動画】Pickup NEWS（12月3日）
-https://news.web.nhk/newsweb/na/na-k10014992211000
-
-[2025-12-03 06:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6zw35naio2k)
-
----
-
-@wsj.com
-
-Companies used to hate employees posting about their jobs. Now they want them to be in-house TikTok influencers.
-
-[2025-12-03 06:40:52](https://bsky.app/profile/wsj.com/post/3m6zvtmrmnb2r)
-
----
-
-@reuters.com
-
-Trump administration fires numerous New York immigration judges reut.rs/4pJwr4Y
-
-[2025-12-03 06:40:18](https://bsky.app/profile/reuters.com/post/3m6zvsmeliq2k)
-
----
-
-@nytimes.com
-
-Voters in Tennessee are set to provide this year’s final big sign of where the political environment stands in the state's special House election, as President Trump’s approval ratings slip and Democrats grow more hopeful heading into the 2026 midterm elections. Here are five things to know.
-
-[2025-12-03 06:40:08](https://bsky.app/profile/nytimes.com/post/3m6zvsd52rg22)
-
----
-
-@nbcnews.com
-
-Camp Mystic has announced its plan to reopen next summer with new safety measures after over two dozen people were killed in floods at the all-girls Texas summer's camp earlier this year.
-
-[2025-12-03 06:40:08](https://bsky.app/profile/nbcnews.com/post/3m6zvsdbeld2j)
-
----
-
-@cbsnews.com
-
-How the Trump administration's account of Sept. 2 boat strike has evolved
-
-
-[2025-12-03 06:40:01](https://bsky.app/profile/cbsnews.com/post/3m6zvs4fsnd2u)
-
----
-
-@nhknewsunofficial.bsky.social
-
-英が米側と合意と発表 “医薬品の追加関税3年間はゼロ”
-https://news.web.nhk/newsweb/na/na-k10014992361000
-
-[2025-12-03 06:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6zvqg7psi2g)
+[2025-12-03 07:05:12](https://bsky.app/profile/reuters.com/post/3m6zx752z3k2k)
 
 ---
 
 @npr.org
 
-Rahmanullah Lakanwal, 29, was formally charged in D.C. Superior Court with multiple crimes, including first-degree murder and assault with the intent to kill while armed.
+Minneapolis and St. Paul leaders rallied behind the Somali community Tuesday after reports emerged that the Trump administration plans an intensive immigration enforcement operation targeting hundreds of undocumented Somali immigrants in the region. (via @mprnews.org)
 
-[2025-12-03 06:36:07](https://bsky.app/profile/npr.org/post/3m6zvl5aoh52h)
+[2025-12-03 07:03:51](https://bsky.app/profile/npr.org/post/3m6zx4puxc42g)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+F1レッドブル・レーシング 角田裕毅 来季はリザーブドライバー
+https://news.web.nhk/newsweb/na/na-k10014992461000
+
+[2025-12-03 07:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6zx3es55k2e)
+
+---
+
+@reuters.com
+
+Bobcat sues Caterpillar over construction equipment patents reut.rs/4pJVF3i
+
+[2025-12-03 07:01:18](https://bsky.app/profile/reuters.com/post/3m6zwy6czlv2i)
+
+---
+
+@aljazeera.com
+
+Polls show Democratic candidate within striking distance of Republican rival in district Trump carried by 22 points.
+
+[2025-12-03 07:01:00](https://bsky.app/profile/aljazeera.com/post/3m6zwxmykvg2k)
+
+---
+
+@nbcnews.com
+
+Timothy Shane should "be considered armed and dangerous," according to Rockdale County Sheriff's deputies.
+
+[2025-12-03 07:00:30](https://bsky.app/profile/nbcnews.com/post/3m6zwwqo3ei2c)
+
+---
+
+@usatoday.com
+
+Before finding fame, George Clooney was terrible at auditions. He revisits his acting life and career mortality with Netflix's "Jay Kelly."
+
+[2025-12-03 07:00:27](https://bsky.app/profile/usatoday.com/post/3m6zwwncxuq2p)
+
+---
+
+@apnews.com
+
+A new type of lens approved by the FDA promises to slow nearsightedness in children.
+
+[2025-12-03 07:00:26](https://bsky.app/profile/apnews.com/post/3m6zwwm6ecx2t)
+
+---
+
+@washingtonpost.com
+
+The Trump administration plans to block Democratic-controlled states from accessing billions of dollars they need to run their food stamp programs unless governors turn over benefits rolls to federal officials.
+
+[2025-12-03 07:00:17](https://bsky.app/profile/washingtonpost.com/post/3m6zwwefzxb2j)
 
 ---
 
