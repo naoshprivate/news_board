@@ -1,9 +1,9 @@
-# [2025-12-03 02:10 updated](2025_12_03.md)
+# [2025-12-03 02:30 updated](2025_12_03.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Growth will slow and inflation will rise in the U.S. next year, a new report warns, and things could get worse if the AI-driven stock market bubble were to burst. <a href="https://bsky.app/profile/axios.com/post/3m6zghmtmg22j" target="_blank">axios.com</a> (2025-12-03 02:05:43)</span><span style="padding-right:50px;">EU vets in Barcelona for swine fever outbreak as cases rise to nine reut.rs/3Xx2ol7 <a href="https://bsky.app/profile/reuters.com/post/3m6zggm7auy26" target="_blank">reuters.com</a> (2025-12-03 02:05:09)</span><span style="padding-right:50px;">Amazon Web Services announced the public launch of its Trainium3 custom AI chip, which it says is four times as fast as its previous generation of artificial-intelligence chips. <a href="https://bsky.app/profile/wsj.com/post/3m6zg7k54he2i" target="_blank">wsj.com</a> (2025-12-03 02:01:12)</span><span style="padding-right:50px;">Being the president of the United States takes a toll on your mental health, says Barack Obama. Here's the tactic he's used to maintain a positive mindset. <a href="https://bsky.app/profile/cnbc.com/post/3m6zg7adtmv2a" target="_blank">cnbc.com</a> (2025-12-03 02:01:02)</span><span style="padding-right:50px;">Germany's foreign minister to visit China next week, as EU prepares to toughen up on trade reut.rs/4iRASc1 <a href="https://bsky.app/profile/reuters.com/post/3m6zg75d5xr2i" target="_blank">reuters.com</a> (2025-12-03 02:00:58)</span>
+<span style="padding-right:50px;">Former England batter Robin Smith dies at 62 reut.rs/4iGYno0 <a href="https://bsky.app/profile/reuters.com/post/3m6zhkju7lj2i" target="_blank">reuters.com</a> (2025-12-03 02:25:14)</span><span style="padding-right:50px;">Exclusive: AI startup Ricursive, founded by former Google researchers, wants to remake the $800 billion chip industry and it raised $35 million with backing from Sequoia. <a href="https://bsky.app/profile/wsj.com/post/3m6zhkbqrkj2h" target="_blank">wsj.com</a> (2025-12-03 02:25:06)</span><span style="padding-right:50px;">The U.S. will soon get its first mass-market smartphone that folds not just once, but twice with the Samsung Electronics’ Galaxy Z TriFold. <a href="https://bsky.app/profile/wsj.com/post/3m6zhdtmhil24" target="_blank">wsj.com</a> (2025-12-03 02:21:29)</span><span style="padding-right:50px;">American climber Sasha DiGiulian has become the first woman to free-climb El Capitan's longest route — a journey she said ended up being the "most formative and challenging climb" of her career.    <a href="https://bsky.app/profile/cbsnews.com/post/3m6zhb6ziwd26" target="_blank">cbsnews.com</a> (2025-12-03 02:20:01)</span><span style="padding-right:50px;">Defense Secretary Pete Hegseth faces growing scrutiny over an attack on an alleged drug boat. His response included a parody of the kids' book character Franklin, showing the turtle firing at boats. n.pr/4iI8PLR <a href="https://bsky.app/profile/npr.org/post/3m6zh4rvahb2r" target="_blank">npr.org</a> (2025-12-03 02:17:33)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49303.45 (🔻191.13 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47442.56 (🔺25.65 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23374.01 (🔻5.74 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.54 (🔻0.18 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 156.03 (🔺0.60 : 2025-12-02)</span>
+<span style="padding-right:50px;">NIKKEI: 49303.45 (🔻191.13 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47549.67 (🔺132.76 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23455.40 (🔺75.65 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 182.17 (🔺0.45 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 156.04 (🔺0.62 : 2025-12-02)</span>
   </div>
 </div>
 
@@ -32,94 +32,94 @@
 
 ## News Headlines
 
-1. 米国、来年インフレ上昇と成長鈍化、AIバブル崩壊なら悪化も
-2. ドイツ外相が来週中国訪問、EUは貿易で強硬姿勢へ
-3. 南韓国で12万台のカメラがハッキングされ性的搾取映像を撮影、4人が起訴
-4. 米小規模事業者の破産申請が過去最多、高金利と消費鈍化が影響
-5. テスラ、中国製EV販売が11月に9.9%増加
-6. スーダン、世界最大の避難民危機に直面－国連発表
+1. 元イングランド代表ロビン・スミス氏が死去、62歳
+2. AIスタートアップRicursive、半導体業界に革命を起こす？3500万ドル調達
+3. サムスン、二つ折りスマホ「Galaxy Z TriFold」を米国で発売へ
+4. 米国人女性登山家、サシャ・ディジュリアン氏がエルキャピタンの最長ルートをフリークライミングで初制覇
+5. トランプ氏、ベネズエラのマドゥロ大統領を再び脅迫
+6. ドンバスから脱出するウクライナ人「取引の時だ」
 
 ----
 
-@axios.com
-
-Growth will slow and inflation will rise in the U.S. next year, a new report warns, and things could get worse if the AI-driven stock market bubble were to burst.
-
-[2025-12-03 02:05:43](https://bsky.app/profile/axios.com/post/3m6zghmtmg22j)
-
----
-
 @reuters.com
 
-EU vets in Barcelona for swine fever outbreak as cases rise to nine reut.rs/3Xx2ol7
+Former England batter Robin Smith dies at 62 reut.rs/4iGYno0
 
-[2025-12-03 02:05:09](https://bsky.app/profile/reuters.com/post/3m6zggm7auy26)
+[2025-12-03 02:25:14](https://bsky.app/profile/reuters.com/post/3m6zhkju7lj2i)
 
 ---
 
 @wsj.com
 
-Amazon Web Services announced the public launch of its Trainium3 custom AI chip, which it says is four times as fast as its previous generation of artificial-intelligence chips.
+Exclusive: AI startup Ricursive, founded by former Google researchers, wants to remake the $800 billion chip industry and it raised $35 million with backing from Sequoia.
 
-[2025-12-03 02:01:12](https://bsky.app/profile/wsj.com/post/3m6zg7k54he2i)
+[2025-12-03 02:25:06](https://bsky.app/profile/wsj.com/post/3m6zhkbqrkj2h)
 
 ---
 
-@cnbc.com
+@wsj.com
 
-Being the president of the United States takes a toll on your mental health, says Barack Obama. Here's the tactic he's used to maintain a positive mindset.
+The U.S. will soon get its first mass-market smartphone that folds not just once, but twice with the Samsung Electronics’ Galaxy Z TriFold.
 
-[2025-12-03 02:01:02](https://bsky.app/profile/cnbc.com/post/3m6zg7adtmv2a)
+[2025-12-03 02:21:29](https://bsky.app/profile/wsj.com/post/3m6zhdtmhil24)
+
+---
+
+@cbsnews.com
+
+American climber Sasha DiGiulian has become the first woman to free-climb El Capitan's longest route — a journey she said ended up being the "most formative and challenging climb" of her career. 
+
+
+
+[2025-12-03 02:20:01](https://bsky.app/profile/cbsnews.com/post/3m6zhb6ziwd26)
+
+---
+
+@npr.org
+
+Defense Secretary Pete Hegseth faces growing scrutiny over an attack on an alleged drug boat. His response included a parody of the kids' book character Franklin, showing the turtle firing at boats. n.pr/4iI8PLR
+
+[2025-12-03 02:17:33](https://bsky.app/profile/npr.org/post/3m6zh4rvahb2r)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Why is US President Trump threatening Venezuela's President Maduro?
+
+[2025-12-03 02:17:20](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6zh4fupfd2e)
+
+---
+
+@nytimes.com
+
+We asked Wirecutter staffers to recommend the most hilarious gifts under $25 that made them smile. We think they’ll make you smile too.
+
+[2025-12-03 02:16:17](https://bsky.app/profile/nytimes.com/post/3m6zh2j2qv32e)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+'Time for a deal' say some Ukrainians escaping war-ravaged Donbas
+
+[2025-12-03 02:16:16](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6zh2j5ate2h)
 
 ---
 
 @reuters.com
 
-Germany's foreign minister to visit China next week, as EU prepares to toughen up on trade reut.rs/4iRASc1
+Trump's Maduro ultimatum, Ukraine, Honduras and music copyright reut.rs/4paFRGN
 
-[2025-12-03 02:00:58](https://bsky.app/profile/reuters.com/post/3m6zg75d5xr2i)
+[2025-12-03 02:15:12](https://bsky.app/profile/reuters.com/post/3m6zgylfhtf2r)
 
 ---
 
 @cnn.com
 
-Dressed head to toe in army fatigues, Russian President Vladimir Putin on Sunday received the news he had been awaiting for more than a year: Russia had taken over the eastern Ukrainian city of Pokrovsk. https://cnn.it/4ovSM50
+Pope Leo urges against a US incursion in Venezuela, as he warns Western countries to be "less fearful" of immigrants https://cnn.it/44IEG9g
 
-[2025-12-03 02:00:51](https://bsky.app/profile/cnn.com/post/3m6zg6w7mcv2f)
-
----
-
-@washingtonpost.com
-
-Four people in South Korea have been charged with hacking roughly 120,000 home and business cameras to obtain sexually exploitative footage, authorities said.
-
-[2025-12-03 02:00:45](https://bsky.app/profile/washingtonpost.com/post/3m6zg6q52tf2i)
-
----
-
-@aljazeera.com
-
-'Double strikes' allegedly used on Venezuelan boats accused of trafficking drugs were used extensively under Obama.
-
-[2025-12-03 02:00:18](https://bsky.app/profile/aljazeera.com/post/3m6zg5xah532v)
-
----
-
-@apnews.com
-
-Former Baltimore Orioles manager Brandon Hyde has been hired by the Tampa Bay Rays as senior adviser of baseball operations.
-
-[2025-12-03 02:00:12](https://bsky.app/profile/apnews.com/post/3m6zg5ri7uq2h)
-
----
-
-@nbcnews.com
-
-DHS Secretary Kristi Noem says she is recommending a "full travel ban" in the wake of last week's shooting of two National Guard members in Washington.
-
-DHS did not immediately respond to a request for comment about which countries Noem was referring to Monday night.
-
-[2025-12-03 02:00:10](https://bsky.app/profile/nbcnews.com/post/3m6zg5pnz4z2j)
+[2025-12-03 02:10:44](https://bsky.app/profile/cnn.com/post/3m6zgqlq3a62f)
 
 ---
 
