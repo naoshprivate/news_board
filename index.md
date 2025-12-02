@@ -1,9 +1,9 @@
-# [2025-12-03 04:50 updated](2025_12_03.md)
+# [2025-12-03 05:10 updated](2025_12_03.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Asset-backed finance is growing fast and drawing new scrutiny <a href="https://bsky.app/profile/cnbc.com/post/3m6zpi6dhu22g" target="_blank">cnbc.com</a> (2025-12-03 04:47:05)</span><span style="padding-right:50px;">Nigeria's president names General Musa as defence minister reut.rs/4pPt8tf <a href="https://bsky.app/profile/reuters.com/post/3m6zpewbl4o2o" target="_blank">reuters.com</a> (2025-12-03 04:45:16)</span><span style="padding-right:50px;">The stock market believes Google is now winning the AI race over OpenAI, Nvidia <a href="https://bsky.app/profile/cnbc.com/post/3m6zpeal73x2s" target="_blank">cnbc.com</a> (2025-12-03 04:44:53)</span><span style="padding-right:50px;">トランプ氏、FRB次期議長指名「おそらく年明けに」 www.nikkei.com/article/DGXZQO... <a href="https://bsky.app/profile/nikkei.com/post/3m6zpbtwgpn2w" target="_blank">nikkei.com</a> (2025-12-03 04:43:33)</span><span style="padding-right:50px;">Russian officials warn of challenges posed by strong rouble reut.rs/4pdBiLU <a href="https://bsky.app/profile/reuters.com/post/3m6zp3yl35o2e" target="_blank">reuters.com</a> (2025-12-03 04:40:16)</span>
+<span style="padding-right:50px;">三菱自動車、日産･ホンダと米国で共同生産検討　関税影響を抑制 www.nikkei.com/article/DGXZQO... <a href="https://bsky.app/profile/nikkei.com/post/3m6zqn6rtgr2g" target="_blank">nikkei.com</a> (2025-12-03 05:07:47)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:熊本県阿蘇地方, 深さ:10km マグニチュード:2.2, 最大震度:1 📍https://www.google.com/maps?q=33.0,131.1&ll=33.0,131.1&z=7&t=h 地震発生日時:2025-12-03 05:03頃 (10倍速▶90s→9s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m6zqn6la4u27" target="_blank">sokuho.news</a> (2025-12-03 05:07:46)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  5時3分頃、熊本県で最大震度1の地震を観測しました。 震源:熊本県阿蘇地方, 深さ:10km, 規模:M2.2 この地震による津波の心配はありません。 (2025-12-03 05:07:21) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/03/2025-12-03-05-03-16.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3m6zqmi2wiw2l" target="_blank">sokuho.news</a> (2025-12-03 05:07:23)</span><span style="padding-right:50px;">Sabrina Carpenter blasts Trump admin for 'evil' ICE video that uses her song 'Juno' <a href="https://bsky.app/profile/cnbc.com/post/3m6zqlytadw2q" target="_blank">cnbc.com</a> (2025-12-03 05:07:07)</span><span style="padding-right:50px;">BlackRock turns bearish on long-term Treasuries as AI funding wave looms reut.rs/49OuCzb <a href="https://bsky.app/profile/reuters.com/post/3m6zqiikttm27" target="_blank">reuters.com</a> (2025-12-03 05:05:09)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49303.45 (🔻191.13 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47499.51 (🔺82.60 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23433.29 (🔺53.54 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.33 (🔻0.39 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 155.92 (🔺0.50 : 2025-12-02)</span>
+<span style="padding-right:50px;">NIKKEI: 49303.45 (🔻191.13 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47543.36 (🔺126.45 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23451.82 (🔺72.07 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.54 (🔻0.18 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 155.85 (🔺0.43 : 2025-12-02)</span>
   </div>
 </div>
 
@@ -32,93 +32,107 @@
 
 ## News Headlines
 
-1.  ナイジェリア大統領、ムサ将軍を国防相に任命
-2.  トランプ氏、FRB次期議長指名「おそらく年明けに」
-3.  ロシア当局、ルーブル高に警戒感
-4.  D.C.の国軍兵士射殺事件、容疑者が無罪主張
-5.  ベネズエラ、米国からの移民帰還便を承認
-6.  マスク氏の慈善団体、寄付義務を再び果たせず
+1.  三菱自、日産･ホンダと米国で共同生産検討
+2.  熊本県阿蘇地方で地震発生、最大震度1
+3.  捜査情報漏えい事件、設置カメラリストも漏洩か
+4.  ファベルジェの卵、3000万ドル超で落札
+5.  トランプ氏、FRB議長指名を年明けに発表へ
+6.  D.C.ナショナルガード銃撃事件、容疑者が無罪主張
 
 ----
 
-@cnbc.com
-
-Asset-backed finance is growing fast and drawing new scrutiny
-
-[2025-12-03 04:47:05](https://bsky.app/profile/cnbc.com/post/3m6zpi6dhu22g)
-
----
-
-@reuters.com
-
-Nigeria's president names General Musa as defence minister reut.rs/4pPt8tf
-
-[2025-12-03 04:45:16](https://bsky.app/profile/reuters.com/post/3m6zpewbl4o2o)
-
----
-
-@cnbc.com
-
-The stock market believes Google is now winning the AI race over OpenAI, Nvidia
-
-[2025-12-03 04:44:53](https://bsky.app/profile/cnbc.com/post/3m6zpeal73x2s)
-
----
-
 @nikkei.com
 
-トランプ氏、FRB次期議長指名「おそらく年明けに」
+三菱自動車、日産･ホンダと米国で共同生産検討　関税影響を抑制
 www.nikkei.com/article/DGXZQO...
 
-[2025-12-03 04:43:33](https://bsky.app/profile/nikkei.com/post/3m6zpbtwgpn2w)
+[2025-12-03 05:07:47](https://bsky.app/profile/nikkei.com/post/3m6zqn6rtgr2g)
+
+---
+
+@sokuho.news
+
+🔔防災科研より【強震モニタ】動画です。
+
+震源:熊本県阿蘇地方, 深さ:10km
+マグニチュード:2.2, 最大震度:1
+📍https://www.google.com/maps?q=33.0,131.1&ll=33.0,131.1&z=7&t=h
+地震発生日時:2025-12-03 05:03頃
+(10倍速▶90s→9s) #地震
+
+[2025-12-03 05:07:46](https://bsky.app/profile/sokuho.news/post/3m6zqn6la4u27)
+
+---
+
+@sokuho.news
+
+🔔気象庁より【地震速報】です。
+
+5時3分頃、熊本県で最大震度1の地震を観測しました。
+震源:熊本県阿蘇地方, 深さ:10km, 規模:M2.2
+この地震による津波の心配はありません。
+(2025-12-03 05:07:21) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/03/2025-12-03-05-03-16.html?xlarge_image=1
+
+[2025-12-03 05:07:23](https://bsky.app/profile/sokuho.news/post/3m6zqmi2wiw2l)
+
+---
+
+@cnbc.com
+
+Sabrina Carpenter blasts Trump admin for 'evil' ICE video that uses her song 'Juno'
+
+[2025-12-03 05:07:07](https://bsky.app/profile/cnbc.com/post/3m6zqlytadw2q)
 
 ---
 
 @reuters.com
 
-Russian officials warn of challenges posed by strong rouble reut.rs/4pdBiLU
+BlackRock turns bearish on long-term Treasuries as AI funding wave looms reut.rs/49OuCzb
 
-[2025-12-03 04:40:16](https://bsky.app/profile/reuters.com/post/3m6zp3yl35o2e)
-
----
-
-@nbcnews.com
-
-Rapper Toosii will step out of recording studio and on to the gridiron in hopes of suiting up for Syracuse University's football team, the artist announces.
-
-[2025-12-03 04:40:07](https://bsky.app/profile/nbcnews.com/post/3m6zp3pgj5y2i)
+[2025-12-03 05:05:09](https://bsky.app/profile/reuters.com/post/3m6zqiikttm27)
 
 ---
 
-@nytimes.com
+@cnbc.com
 
-We asked readers for their questions for The New York Times’s executive editor Joe Kahn about how we cover the news and make judgment calls in our reporting and editing. Here's what he said.
+This cloud name is set to post earnings Wednesday. What the charts show ahead of the report
 
-[2025-12-03 04:40:02](https://bsky.app/profile/nytimes.com/post/3m6zp3l7ea722)
+[2025-12-03 05:04:57](https://bsky.app/profile/cnbc.com/post/3m6zqi4aqrk2o)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+捜査情報漏えい事件 設置カメラのリストも漏らしたか 再逮捕へ
+https://news.web.nhk/newsweb/na/na-k10014992171000
+
+[2025-12-03 05:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6zqerjihu2r)
 
 ---
 
 @cbsnews.com
 
-GOP Rep. Elise Stefanik of New York lashed out at House Speaker Mike Johnson, accusing him of blocking a provision that would require the FBI to notify Congress when it opens counterintelligence investigations into candidates running for federal office. 
+Personal finance is too complex for most people to navigate, two economists contend in a new book. Is there a better way to help people deal with money?
 
-[2025-12-03 04:40:01](https://bsky.app/profile/cbsnews.com/post/3m6zp3jseiw2g)
 
----
-
-@axios.com
-
-<strong><span style="color: red;">JUST IN:</span> ICE coming for Minneapolis after Trump targets Somalis</strong>
-
-[2025-12-03 04:37:56](https://bsky.app/profile/axios.com/post/3m6zoxsddx223)
+[2025-12-03 05:02:00](https://bsky.app/profile/cbsnews.com/post/3m6zqcu36uq2m)
 
 ---
 
-@wsj.com
+@usatoday.com
 
-Pete Hegseth says he didn’t see the second strike on an alleged drug boat that killed two survivors because he had left the room after the first strike.
+Deadline extended to file a claim in AT&T data breach settlement. Are you eligible?
 
-[2025-12-03 04:36:31](https://bsky.app/profile/wsj.com/post/3m6zovbqhou22)
+[2025-12-03 05:01:20](https://bsky.app/profile/usatoday.com/post/3m6zqbnzat22p)
+
+---
+
+@nytimes.com
+
+Four people were arrested over the hacking of 120,000 home security cameras in South Korea, whose footage was used to make sexually exploitative material, the country's National Police Agency said Monday.
+
+[2025-12-03 05:01:13](https://bsky.app/profile/nytimes.com/post/3m6zqbh2uiw2h)
 
 ---
 
