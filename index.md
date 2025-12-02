@@ -1,9 +1,9 @@
-# [2025-12-03 02:50 updated](2025_12_03.md)
+# [2025-12-03 03:10 updated](2025_12_03.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Every National Guard member in Washington, D.C., is now armed after a deadly attack near White House. <a href="https://bsky.app/profile/axios.com/post/3m6zis2p3u22x" target="_blank">axios.com</a> (2025-12-03 02:47:21)</span><span style="padding-right:50px;">Beta stock jumps 9% on $1 billion motor deal with air taxi maker Eve Air Mobiliy <a href="https://bsky.app/profile/cnbc.com/post/3m6zird6npk2f" target="_blank">cnbc.com</a> (2025-12-03 02:46:56)</span><span style="padding-right:50px;">India investigates Air India after plane flown repeatedly without safety certificate reut.rs/4osQWSw <a href="https://bsky.app/profile/reuters.com/post/3m6zio5blbd27" target="_blank">reuters.com</a> (2025-12-03 02:45:09)</span><span style="padding-right:50px;">The nation’s top drug regulator, Richard Pazdur, has decided to retire three weeks after taking the job, according to two people familiar with his decision. <a href="https://bsky.app/profile/washingtonpost.com/post/3m6zio2j7bq2e" target="_blank">washingtonpost.com</a> (2025-12-03 02:45:06)</span><span style="padding-right:50px;">Bitcoin rebounds after drawdown reaches 20%. Is the crypto winter over or just starting? <a href="https://bsky.app/profile/cnbc.com/post/3m6zin2diyi2x" target="_blank">cnbc.com</a> (2025-12-03 02:44:33)</span>
+<span style="padding-right:50px;"> Andrew Bailey helps out UK banks — and maybe European ones too on.ft.com/4oxh3YG  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m6zjwceefp24" target="_blank">financialtimes.com</a> (2025-12-03 03:07:37)</span><span style="padding-right:50px;">Ruffer cuts a fifth of jobs as profits fall on.ft.com/48NjEZB <a href="https://bsky.app/profile/financialtimes.com/post/3m6zjwbpvh425" target="_blank">financialtimes.com</a> (2025-12-03 03:07:36)</span><span style="padding-right:50px;">Ford November sales down on EV demand hit, following Hyundai and Kia <a href="https://bsky.app/profile/yahoofinance.com/post/3m6zjtkplqi2x" target="_blank">yahoofinance.com</a> (2025-12-03 03:06:05)</span><span style="padding-right:50px;">Ford US sales down slightly in November as EVs drag reut.rs/3Mk8fYt <a href="https://bsky.app/profile/reuters.com/post/3m6zjrz4bgs2r" target="_blank">reuters.com</a> (2025-12-03 03:05:13)</span><span style="padding-right:50px;">UN’s Guterres to headline Reuters NEXT summit in New York reut.rs/4arvVUR <a href="https://bsky.app/profile/reuters.com/post/3m6zjko3aat27" target="_blank">reuters.com</a> (2025-12-03 03:01:06)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49303.45 (🔻191.13 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47525.71 (🔺108.80 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23446.21 (🔺66.46 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 182.31 (🔺0.59 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 155.96 (🔺0.54 : 2025-12-02)</span>
+<span style="padding-right:50px;">NIKKEI: 49303.45 (🔻191.13 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47388.97 (🔻27.94 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23405.52 (🔺25.77 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.73 (🔺0.01 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 155.94 (🔺0.52 : 2025-12-02)</span>
   </div>
 </div>
 
@@ -32,92 +32,92 @@
 
 ## News Headlines
 
-1. D.C. の州兵全員が武装、ホワイトハウス付近での致命的な攻撃後
-2. Eve Air Mobilityとの10億ドル規模のモーター取引でBeta株9%急騰
-3. 安全証明なしで繰り返し飛行、インドがエア・インディアを調査
-4. ビットコイン、20%の下落後に反発。暗号資産の冬は終わりか、始まりか？
-5. トランプ政権、ソマリア移民を標的とした作戦を開始
-6. トランプ氏、麻薬事件で有罪判決を受けた元ホンジュラス大統領を恩赦、米国の信頼性に懸念
+1.  英中銀、銀行支援策発表か　欧州にも影響の可能性
+2.  資産運用会社Ruffer、利益減少で人員削減
+3.  フォード、EV需要低迷で11月販売不振
+4.  国連事務総長、ロイターNEXTサミットで講演
+5.  カナダのFairstone、Laurentian Bankを19億カナダドルで買収
+6.  トランプ前大統領、麻薬事件で有罪のホンジュラス元大統領を恩赦か　米国の信頼性への懸念
 
 ----
 
-@axios.com
+@financialtimes.com
 
-Every National Guard member in Washington, D.C., is now armed after a deadly attack near White House.
+ Andrew Bailey helps out UK banks — and maybe European ones too on.ft.com/4oxh3YG  | opinion
 
-[2025-12-03 02:47:21](https://bsky.app/profile/axios.com/post/3m6zis2p3u22x)
-
----
-
-@cnbc.com
-
-Beta stock jumps 9% on $1 billion motor deal with air taxi maker Eve Air Mobiliy
-
-[2025-12-03 02:46:56](https://bsky.app/profile/cnbc.com/post/3m6zird6npk2f)
-
----
-
-@reuters.com
-
-India investigates Air India after plane flown repeatedly without safety certificate reut.rs/4osQWSw
-
-[2025-12-03 02:45:09](https://bsky.app/profile/reuters.com/post/3m6zio5blbd27)
-
----
-
-@washingtonpost.com
-
-The nation’s top drug regulator, Richard Pazdur, has decided to retire three weeks after taking the job, according to two people familiar with his decision.
-
-[2025-12-03 02:45:06](https://bsky.app/profile/washingtonpost.com/post/3m6zio2j7bq2e)
-
----
-
-@cnbc.com
-
-Bitcoin rebounds after drawdown reaches 20%. Is the crypto winter over or just starting?
-
-[2025-12-03 02:44:33](https://bsky.app/profile/cnbc.com/post/3m6zin2diyi2x)
-
----
-
-@wsj.com
-
-The Energy Department is renaming its National Renewable Energy Laboratory to the National Laboratory of the Rockies, a rebranding to align it with the Trump administration’s focus on fossil fuels.
-
-[2025-12-03 02:43:54](https://bsky.app/profile/wsj.com/post/3m6zilvuvmb2h)
+[2025-12-03 03:07:37](https://bsky.app/profile/financialtimes.com/post/3m6zjwceefp24)
 
 ---
 
 @financialtimes.com
 
-UK envoy to Moscow enters race to be next ambassador to US on.ft.com/4iuCZSy
+Ruffer cuts a fifth of jobs as profits fall on.ft.com/48NjEZB
 
-[2025-12-03 02:42:50](https://bsky.app/profile/financialtimes.com/post/3m6zijyoe6226)
+[2025-12-03 03:07:36](https://bsky.app/profile/financialtimes.com/post/3m6zjwbpvh425)
 
 ---
 
-@cnn.com
+@yahoofinance.com
 
-Andrew Wolfe, the 24-year-old National Guard member who was injured in an ambush-style shooting in Washington, DC, last Wednesday, remains in serious condition but has shown “positive” signs of recovery, West Virginia Gov. Patrick Morrisey said. https://cnn.it/4iBxOjW
+Ford November sales down on EV demand hit, following Hyundai and Kia
 
-[2025-12-03 02:41:04](https://bsky.app/profile/cnn.com/post/3m6zigtoibh2m)
+[2025-12-03 03:06:05](https://bsky.app/profile/yahoofinance.com/post/3m6zjtkplqi2x)
 
 ---
 
 @reuters.com
 
-German antitrust watchdog tests Apple's revised app tracking rules reut.rs/4pomJoX
+Ford US sales down slightly in November as EVs drag reut.rs/3Mk8fYt
 
-[2025-12-03 02:40:13](https://bsky.app/profile/reuters.com/post/3m6zifczvuw2r)
+[2025-12-03 03:05:13](https://bsky.app/profile/reuters.com/post/3m6zjrz4bgs2r)
 
 ---
 
-@nytimes.com
+@reuters.com
 
-President Nicolás Maduro of Venezuela has tightened his personal security, including changing beds, and leaned on key ally Cuba amid President Trump’s growing threat of military action, according to multiple people close to the Venezuelan government.
+UN’s Guterres to headline Reuters NEXT summit in New York reut.rs/4arvVUR
 
-[2025-12-03 02:40:07](https://bsky.app/profile/nytimes.com/post/3m6zif4uzjr2h)
+[2025-12-03 03:01:06](https://bsky.app/profile/reuters.com/post/3m6zjko3aat27)
+
+---
+
+@nbcnews.com
+
+The Beirut port explosion and the economic collapse that followed led some Maronite Catholics to leave Lebanon. Pope Leo's Lebanon visit has renewed hope.
+
+[2025-12-03 03:00:28](https://bsky.app/profile/nbcnews.com/post/3m6zjjjiicq2j)
+
+---
+
+@washingtonpost.com
+
+Corporations are expected to claim $16 billion in new tax breaks this year for purchases they had already made and put into use before the July passage of the Republican tax law, according to an analysis.
+
+[2025-12-03 03:00:24](https://bsky.app/profile/washingtonpost.com/post/3m6zjjg5lgu2f)
+
+---
+
+@usatoday.com
+
+Costco sues US to preserve tariff refunds if Trump loses appeal
+
+[2025-12-03 03:00:15](https://bsky.app/profile/usatoday.com/post/3m6zjj5dsc42u)
+
+---
+
+@apnews.com
+
+Michael Porter Jr. scored 35 points, Noah Clowney had 18 and the Brooklyn Nets beat the Charlotte Hornets 116-103.
+
+[2025-12-03 03:00:14](https://bsky.app/profile/apnews.com/post/3m6zjj4fmuz2j)
+
+---
+
+@aljazeera.com
+
+An Israeli drone strike in Khan Younis, Gaza also killed photojournalist Mahmoud Wadi.
+
+[2025-12-03 03:00:09](https://bsky.app/profile/aljazeera.com/post/3m6zjixvjjd2c)
 
 ---
 
