@@ -1,9 +1,9 @@
-# [2025-12-03 05:10 updated](2025_12_03.md)
+# [2025-12-03 05:30 updated](2025_12_03.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">三菱自動車、日産･ホンダと米国で共同生産検討　関税影響を抑制 www.nikkei.com/article/DGXZQO... <a href="https://bsky.app/profile/nikkei.com/post/3m6zqn6rtgr2g" target="_blank">nikkei.com</a> (2025-12-03 05:07:47)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:熊本県阿蘇地方, 深さ:10km マグニチュード:2.2, 最大震度:1 📍https://www.google.com/maps?q=33.0,131.1&ll=33.0,131.1&z=7&t=h 地震発生日時:2025-12-03 05:03頃 (10倍速▶90s→9s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m6zqn6la4u27" target="_blank">sokuho.news</a> (2025-12-03 05:07:46)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  5時3分頃、熊本県で最大震度1の地震を観測しました。 震源:熊本県阿蘇地方, 深さ:10km, 規模:M2.2 この地震による津波の心配はありません。 (2025-12-03 05:07:21) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/03/2025-12-03-05-03-16.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3m6zqmi2wiw2l" target="_blank">sokuho.news</a> (2025-12-03 05:07:23)</span><span style="padding-right:50px;">Sabrina Carpenter blasts Trump admin for 'evil' ICE video that uses her song 'Juno' <a href="https://bsky.app/profile/cnbc.com/post/3m6zqlytadw2q" target="_blank">cnbc.com</a> (2025-12-03 05:07:07)</span><span style="padding-right:50px;">BlackRock turns bearish on long-term Treasuries as AI funding wave looms reut.rs/49OuCzb <a href="https://bsky.app/profile/reuters.com/post/3m6zqiikttm27" target="_blank">reuters.com</a> (2025-12-03 05:05:09)</span>
+<span style="padding-right:50px;">Rio Tinto’s Nuton venture is using microbes to remove copper from ores that are otherwise uneconomical to mine. <a href="https://bsky.app/profile/wsj.com/post/3m6zrqefoxl2r" target="_blank">wsj.com</a> (2025-12-03 05:27:27)</span><span style="padding-right:50px;">The Trump administration said that it will move to withhold SNAP food aid from most Democratic-controlled states unless they provide recipient records. <a href="https://bsky.app/profile/apnews.com/post/3m6zrouarkg2c" target="_blank">apnews.com</a> (2025-12-03 05:26:37)</span><span style="padding-right:50px;">Breaking News: The Trump administration said Tuesday that it will move to withhold SNAP food aid from recipients in most Democratic-controlled states starting next week unless they provide information on those receiving the assistance. yhoo.it/4otlPGs <a href="https://bsky.app/profile/yahoonews.com/post/3m6zrnrzfrw26" target="_blank">yahoonews.com</a> (2025-12-03 05:26:01)</span><span style="padding-right:50px;">Alicia Graf Mack says her new role as artistic director of Alvin Ailey American Dance Theater is like coming full circle after a stint as principal dancer for the beloved group. n.pr/49SYfPU <a href="https://bsky.app/profile/npr.org/post/3m6zrmdbck42j" target="_blank">npr.org</a> (2025-12-03 05:25:12)</span><span style="padding-right:50px;">Heavy snow expected in parts of US Midwest, Northeast reut.rs/48qcjxL <a href="https://bsky.app/profile/reuters.com/post/3m6zrmbbqr32d" target="_blank">reuters.com</a> (2025-12-03 05:25:10)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49303.45 (🔻191.13 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47543.36 (🔺126.45 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23451.82 (🔺72.07 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.54 (🔻0.18 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 155.85 (🔺0.43 : 2025-12-02)</span>
+<span style="padding-right:50px;">NIKKEI: 49303.45 (🔻191.13 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47550.08 (🔺133.17 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23449.42 (🔺69.67 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.43 (🔻0.29 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 155.88 (🔺0.46 : 2025-12-02)</span>
   </div>
 </div>
 
@@ -32,107 +32,97 @@
 
 ## News Headlines
 
-1.  三菱自、日産･ホンダと米国で共同生産検討
-2.  熊本県阿蘇地方で地震発生、最大震度1
-3.  捜査情報漏えい事件、設置カメラリストも漏洩か
-4.  ファベルジェの卵、3000万ドル超で落札
-5.  トランプ氏、FRB議長指名を年明けに発表へ
-6.  D.C.ナショナルガード銃撃事件、容疑者が無罪主張
+1.  リオ・ティント、微生物利用で銅採掘の新技術
+2.  トランプ政権、民主党州への食糧支援停止を示唆
+3.  アルビン・エイリー舞踊団、新芸術監督にアリシア・グラフ・マック
+4.  米中西部・北東部で大雪の予想
+5.  相続人なき遺産、昨年度1291億円と過去最多
+6.  トランプ政権、ダレス国際空港の再建計画を発表
 
 ----
 
-@nikkei.com
+@wsj.com
 
-三菱自動車、日産･ホンダと米国で共同生産検討　関税影響を抑制
-www.nikkei.com/article/DGXZQO...
+Rio Tinto’s Nuton venture is using microbes to remove copper from ores that are otherwise uneconomical to mine.
 
-[2025-12-03 05:07:47](https://bsky.app/profile/nikkei.com/post/3m6zqn6rtgr2g)
-
----
-
-@sokuho.news
-
-🔔防災科研より【強震モニタ】動画です。
-
-震源:熊本県阿蘇地方, 深さ:10km
-マグニチュード:2.2, 最大震度:1
-📍https://www.google.com/maps?q=33.0,131.1&ll=33.0,131.1&z=7&t=h
-地震発生日時:2025-12-03 05:03頃
-(10倍速▶90s→9s) #地震
-
-[2025-12-03 05:07:46](https://bsky.app/profile/sokuho.news/post/3m6zqn6la4u27)
+[2025-12-03 05:27:27](https://bsky.app/profile/wsj.com/post/3m6zrqefoxl2r)
 
 ---
 
-@sokuho.news
+@apnews.com
 
-🔔気象庁より【地震速報】です。
+The Trump administration said that it will move to withhold SNAP food aid from most Democratic-controlled states unless they provide recipient records.
 
-5時3分頃、熊本県で最大震度1の地震を観測しました。
-震源:熊本県阿蘇地方, 深さ:10km, 規模:M2.2
-この地震による津波の心配はありません。
-(2025-12-03 05:07:21) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/03/2025-12-03-05-03-16.html?xlarge_image=1
-
-[2025-12-03 05:07:23](https://bsky.app/profile/sokuho.news/post/3m6zqmi2wiw2l)
+[2025-12-03 05:26:37](https://bsky.app/profile/apnews.com/post/3m6zrouarkg2c)
 
 ---
 
-@cnbc.com
+@yahoonews.com
 
-Sabrina Carpenter blasts Trump admin for 'evil' ICE video that uses her song 'Juno'
+<strong><span style="color: red;">Breaking News</span>: The Trump administration said Tuesday that it will move to withhold SNAP food aid from recipients in most Democratic-controlled states starting next week unless they provide information on those receiving the assistance. yhoo.it/4otlPGs</strong>
 
-[2025-12-03 05:07:07](https://bsky.app/profile/cnbc.com/post/3m6zqlytadw2q)
+[2025-12-03 05:26:01](https://bsky.app/profile/yahoonews.com/post/3m6zrnrzfrw26)
+
+---
+
+@npr.org
+
+Alicia Graf Mack says her new role as artistic director of Alvin Ailey American Dance Theater is like coming full circle after a stint as principal dancer for the beloved group. n.pr/49SYfPU
+
+[2025-12-03 05:25:12](https://bsky.app/profile/npr.org/post/3m6zrmdbck42j)
 
 ---
 
 @reuters.com
 
-BlackRock turns bearish on long-term Treasuries as AI funding wave looms reut.rs/49OuCzb
+Heavy snow expected in parts of US Midwest, Northeast reut.rs/48qcjxL
 
-[2025-12-03 05:05:09](https://bsky.app/profile/reuters.com/post/3m6zqiikttm27)
-
----
-
-@cnbc.com
-
-This cloud name is set to post earnings Wednesday. What the charts show ahead of the report
-
-[2025-12-03 05:04:57](https://bsky.app/profile/cnbc.com/post/3m6zqi4aqrk2o)
+[2025-12-03 05:25:10](https://bsky.app/profile/reuters.com/post/3m6zrmbbqr32d)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-捜査情報漏えい事件 設置カメラのリストも漏らしたか 再逮捕へ
-https://news.web.nhk/newsweb/na/na-k10014992171000
+香港 高層住宅火災 発生から1週間 原因究明や生活再建が課題
+https://news.web.nhk/newsweb/na/na-k10014992321000
 
-[2025-12-03 05:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6zqerjihu2r)
+[2025-12-03 05:21:12](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6zrfaz5l22n)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+国民 中選挙区連記制を提案 人口減少率を議席に反映させる案も
+https://news.web.nhk/newsweb/na/na-k10014992401000
+
+[2025-12-03 05:21:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6zrf4ad232b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+“相続人なき遺産” 昨年度 最多の1291億円 10年余で3倍以上に
+https://news.web.nhk/newsweb/na/na-k10014992201000
+
+[2025-12-03 05:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6zrexdxh524)
+
+---
+
+@nbcnews.com
+
+President Trump says that his administration will embark on a reconstruction of Dulles International Airport in northern Virginia.
+
+[2025-12-03 05:20:08](https://bsky.app/profile/nbcnews.com/post/3m6zrdbkbl62f)
 
 ---
 
 @cbsnews.com
 
-Personal finance is too complex for most people to navigate, two economists contend in a new book. Is there a better way to help people deal with money?
+An invasive crab species has been spotted again in Oregon, a discovery that wildlife officials called "concerning," especially because the crab turned up this time in a different part of the state.
 
 
-[2025-12-03 05:02:00](https://bsky.app/profile/cbsnews.com/post/3m6zqcu36uq2m)
 
----
-
-@usatoday.com
-
-Deadline extended to file a claim in AT&T data breach settlement. Are you eligible?
-
-[2025-12-03 05:01:20](https://bsky.app/profile/usatoday.com/post/3m6zqbnzat22p)
-
----
-
-@nytimes.com
-
-Four people were arrested over the hacking of 120,000 home security cameras in South Korea, whose footage was used to make sexually exploitative material, the country's National Police Agency said Monday.
-
-[2025-12-03 05:01:13](https://bsky.app/profile/nytimes.com/post/3m6zqbh2uiw2h)
+[2025-12-03 05:20:02](https://bsky.app/profile/cbsnews.com/post/3m6zrd3qwfe2y)
 
 ---
 
