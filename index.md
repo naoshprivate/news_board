@@ -1,9 +1,9 @@
-# [2025-12-02 17:50 updated](2025_12_02.md)
+# [2025-12-02 18:10 updated](2025_12_02.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】「責任持って取り組み進める」高市総理 就任後初の福島訪問で福島第一原発など視察 (2025-12-02 17:40:52) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6ykjbe7aa2q" target="_blank">sokuho.news</a> (2025-12-02 17:45:33)</span><span style="padding-right:50px;">The TSA has announced that U.S. air travelers without a REAL ID will face a $45 fee starting in February. The Department of Homeland Security says 94% of passengers are already compliant. n.pr/49Q80OP <a href="https://bsky.app/profile/npr.org/post/3m6ykj5h3eb23" target="_blank">npr.org</a> (2025-12-02 17:45:29)</span><span style="padding-right:50px;">Nomura projects India's Nifty rising to 29,300 by 2026 as growth recovers reut.rs/3MaMnii <a href="https://bsky.app/profile/reuters.com/post/3m6ykilnyct2d" target="_blank">reuters.com</a> (2025-12-02 17:45:11)</span><span style="padding-right:50px;">北海道 函館市中心部の繁華街で火災 消火活動続く https://news.web.nhk/newsweb/na/na-k10014991941000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ykifpxzr26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-02 17:45:02)</span><span style="padding-right:50px;">ラグビー リーグワンが13日開幕 各チーム選手らが意気込み https://news.web.nhk/newsweb/na/na-k10014991931000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ykd74faw2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-02 17:42:07)</span>
+<span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】東京ディズニーシーホテル“刃物男” 逮捕は川崎市に住む34歳中国籍の男 (2025-12-02 18:06) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6ylop4zcz2m" target="_blank">sokuho.news</a> (2025-12-02 18:06:29)</span><span style="padding-right:50px;">Suns G Devin Booker (groin) exits game vs. Lakers reut.rs/48LOEcs <a href="https://bsky.app/profile/reuters.com/post/3m6ylma5inv26" target="_blank">reuters.com</a> (2025-12-02 18:05:07)</span><span style="padding-right:50px;">空気で電気を充放電!?「液化空気」が12月中にも稼働 www.nikkei.com/article/DGXZQO...   空気を冷却して液体の状態で保存し、気体に戻す際に生じるエネルギーを使って発電。住友重機械工業の新設備は10秒単位で充放電の制御が可能です。   リチウムイオン電池よりも長期間蓄電でき、太陽光発電などで大量に余った再生可能エネルギーをためるのに適しています。 <a href="https://bsky.app/profile/nikkei.com/post/3m6ylgltkw72e" target="_blank">nikkei.com</a> (2025-12-02 18:01:57)</span><span style="padding-right:50px;">Santander sells 3.5% stake in its Polish unit for around $473 million reut.rs/48sFhNp <a href="https://bsky.app/profile/reuters.com/post/3m6yle2u6mn2i" target="_blank">reuters.com</a> (2025-12-02 18:00:32)</span><span style="padding-right:50px;">White House 'optimistic' about a deal, but Ukraine still wary that plan is based on Russian demands. <a href="https://bsky.app/profile/aljazeera.com/post/3m6yldmqhrx2d" target="_blank">aljazeera.com</a> (2025-12-02 18:00:18)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49303.45 (🔻191.13 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47289.33 (🔻291.52 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23275.92 (🔺103.58 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.92 (🔺5.16 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 155.93 (🔺0.51 : 2025-12-02)</span>
+<span style="padding-right:50px;">NIKKEI: 49303.45 (🔻191.13 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47289.33 (🔻291.52 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23275.92 (🔺103.58 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.92 (🔺5.16 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 155.98 (🔺0.55 : 2025-12-02)</span>
   </div>
 </div>
 
@@ -32,105 +32,108 @@
 
 ## News Headlines
 
-1. 高市総理、福島第一原発を初視察
-2. 函館市中心部で大規模火災、消火活動続く
-3. 佐賀・有田町長、出張先セクハラ問題で辞意表明
-4. 美ら海水族館のイルカ「オキちゃん」死ぬ、推定52歳
-5. 安倍元首相銃撃事件裁判、被告「旧統一教会との関わりの中心にいた」
-6. 東京ディズニーシー・ホテルミラコスタで刃物男逮捕
+1.  東京ディズニーシーホテルで刃物男逮捕、川崎市在住の中国籍34歳
+2.  液化空気発電、12月にも稼働開始 - 再生可能エネルギー貯蔵に期待
+3.  片山財務相、羽田空港で金の密輸取締り強化を視察
+4.  ツルハHDへのTOB価格、イオンが1株2900円に引き上げ
+5.  高市総理、就任後初の福島訪問 - 福島第一原発を視察
+6.  沖縄・美ら海水族館のイルカ「オキちゃん」死ぬ - ショー出演半世紀
 
 ----
 
 @sokuho.news
 
-🛎️JNNより【速報】です。
+🛎️NNNより【速報】です。
 
-【速報】「責任持って取り組み進める」高市総理 就任後初の福島訪問で福島第一原発など視察
-(2025-12-02 17:40:52) #ニュース
+【速報】東京ディズニーシーホテル“刃物男” 逮捕は川崎市に住む34歳中国籍の男
+(2025-12-02 18:06) #ニュース
 
-[2025-12-02 17:45:33](https://bsky.app/profile/sokuho.news/post/3m6ykjbe7aa2q)
-
----
-
-@npr.org
-
-The TSA has announced that U.S. air travelers without a REAL ID will face a $45 fee starting in February. The Department of Homeland Security says 94% of passengers are already compliant. n.pr/49Q80OP
-
-[2025-12-02 17:45:29](https://bsky.app/profile/npr.org/post/3m6ykj5h3eb23)
+[2025-12-02 18:06:29](https://bsky.app/profile/sokuho.news/post/3m6ylop4zcz2m)
 
 ---
 
 @reuters.com
 
-Nomura projects India's Nifty rising to 29,300 by 2026 as growth recovers reut.rs/3MaMnii
+Suns G Devin Booker (groin) exits game vs. Lakers reut.rs/48LOEcs
 
-[2025-12-02 17:45:11](https://bsky.app/profile/reuters.com/post/3m6ykilnyct2d)
-
----
-
-@nhknewsunofficial.bsky.social
-
-北海道 函館市中心部の繁華街で火災 消火活動続く
-https://news.web.nhk/newsweb/na/na-k10014991941000
-
-[2025-12-02 17:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ykifpxzr26)
+[2025-12-02 18:05:07](https://bsky.app/profile/reuters.com/post/3m6ylma5inv26)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@nikkei.com
 
-ラグビー リーグワンが13日開幕 各チーム選手らが意気込み
-https://news.web.nhk/newsweb/na/na-k10014991931000
+空気で電気を充放電!?「液化空気」が12月中にも稼働
+www.nikkei.com/article/DGXZQO...
+ 
+空気を冷却して液体の状態で保存し、気体に戻す際に生じるエネルギーを使って発電。住友重機械工業の新設備は10秒単位で充放電の制御が可能です。
+ 
+リチウムイオン電池よりも長期間蓄電でき、太陽光発電などで大量に余った再生可能エネルギーをためるのに適しています。
 
-[2025-12-02 17:42:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ykd74faw2b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-新潟県知事 柏崎刈羽原発 再稼働の容認諮る補正予算案を提出
-https://news.web.nhk/newsweb/na/na-k10014991921000
-
-[2025-12-02 17:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ykczkh4s23)
+[2025-12-02 18:01:57](https://bsky.app/profile/nikkei.com/post/3m6ylgltkw72e)
 
 ---
 
 @reuters.com
 
-Second proxy adviser calls for vote against Westpac director over ASX stint reut.rs/3XwP3Jx
+Santander sells 3.5% stake in its Polish unit for around $473 million reut.rs/48sFhNp
 
-[2025-12-02 17:40:10](https://bsky.app/profile/reuters.com/post/3m6yk7moatg2w)
+[2025-12-02 18:00:32](https://bsky.app/profile/reuters.com/post/3m6yle2u6mn2i)
+
+---
+
+@aljazeera.com
+
+White House 'optimistic' about a deal, but Ukraine still wary that plan is based on Russian demands.
+
+[2025-12-02 18:00:18](https://bsky.app/profile/aljazeera.com/post/3m6yldmqhrx2d)
+
+---
+
+@cnbc.com
+
+A majority of the fastest-growing roles for 2034 will be in the health care and information and technology sectors.
+
+These are the fastest-growing occupations for 2034, as well as the expected increase in jobs by 2034 and the current median salary for each role.
+
+[2025-12-02 18:00:10](https://bsky.app/profile/cnbc.com/post/3m6yldfbfwj2h)
+
+---
+
+@nytimes.com
+
+In Opinion
+
+"Even if Mr. Trump’s muscular approach has found fertile ground across the hemisphere, history suggests that, should officials in Washington overstep, they risk planting the seeds of an anti-American backlash that could outlive the current administration," Brian Winter writes.
+
+[2025-12-02 18:00:05](https://bsky.app/profile/nytimes.com/post/3m6ylda6tw32e)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+片山財務相 金の密輸取締り強化で羽田空港の税関検査場を視察
+https://news.web.nhk/newsweb/na/na-k10014991961000
+
+[2025-12-02 18:00:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ylda7r7c2j)
 
 ---
 
 @en.afp.com
 
-One year ago, South Korea's leader declared martial law, sending tanks to Seoul and soldiers to storm parliament as lawmakers fought to overturn the decree.
+Hong Kong firefighters save beloved pets.
 
-AFP talks to three people who were there fighting to protect democracy, and whose lives will never be the same
+"I was so happy I was out of my mind,” says Jacky Lee after Jason, her 15-year-old grey poodle, was saved from the city’s deadliest blaze in decades
+u.afp.com/ShDW
 
-u.afp.com/ShREb
-
-[2025-12-02 17:36:18](https://bsky.app/profile/en.afp.com/post/3m6yjypgckt2o)
-
----
-
-@reuters.com
-
-China floods the world with gasoline cars it can't sell at home reut.rs/3MdWnY4
-
-[2025-12-02 17:35:08](https://bsky.app/profile/reuters.com/post/3m6yjwmrlkf2r)
+[2025-12-02 17:57:49](https://bsky.app/profile/en.afp.com/post/3m6yl76xnyy2u)
 
 ---
 
-@sokuho.news
+@bloomberg-jp.bsky.social
 
-🔔ANNより【速報】です。
+サイバーマンデー、米支出の伸びが欧州下回る－関税とECB利下げ影響
 
-【速報】佐賀・有田町の松尾佳昭町長が会見で辞意表明 出張先でのセクハラ問題を受けて
-(2025年12月2日 17:34) #ニュース
-
-[2025-12-02 17:34:35](https://bsky.app/profile/sokuho.news/post/3m6yjvnhvdy2e)
+[2025-12-02 17:53:02](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m6ykwnggrr24)
 
 ---
 
