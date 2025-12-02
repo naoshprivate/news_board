@@ -1,9 +1,9 @@
-# [2025-12-02 20:30 updated](2025_12_02.md)
+# [2025-12-02 20:50 updated](2025_12_02.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">This week will bring a split screen that will reinforce growing doubts in Europe about the American commitment to the alliance that has served as the bedrock of Western unity since the end of World War II. <a href="https://bsky.app/profile/wsj.com/post/3m6ytisejkj2t" target="_blank">wsj.com</a> (2025-12-02 20:26:21)</span><span style="padding-right:50px;">Bank of England says UK lenders clear stress tests reut.rs/3MbEMQI <a href="https://bsky.app/profile/reuters.com/post/3m6ytgkq6uj2o" target="_blank">reuters.com</a> (2025-12-02 20:25:06)</span><span style="padding-right:50px;">半年で約6000頭 駆除したクマの処理が課題に https://news.web.nhk/newsweb/na/na-k10014991831000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ytepea4t2n" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-02 20:24:02)</span><span style="padding-right:50px;">The bear that moved into a home’s crawlspace more than a week ago in Altadena is not budging: despite numerous attempts by the homeowners to keep him out, the animal is staying put. <a href="https://bsky.app/profile/nbcnews.com/post/3m6yt5lyv5c22" target="_blank">nbcnews.com</a> (2025-12-02 20:20:06)</span><span style="padding-right:50px;">🇵🇸 Children scarred by the war in Gaza are undergoing a therapy programme using virtual reality headsets that transport the youngsters to a world far away from the destruction around them.  ➡️ u.afp.com/Shz5 <a href="https://bsky.app/profile/en.afp.com/post/3m6yt5i2m272o" target="_blank">en.afp.com</a> (2025-12-02 20:20:01)</span>
+<span style="padding-right:50px;">From climate tech to robots helping humans, these young entrepreneurs are building new tools, materials and technologies for a sustainable and safe world. <a href="https://bsky.app/profile/forbes.com/post/3m6yurkmtc22e" target="_blank">forbes.com</a> (2025-12-02 20:49:09)</span><span style="padding-right:50px;">The 2026 Forbes 30 Under 30 Food & Drink list includes a viral pasta sauce brand, AI startups, Gen Z restaurateurs and more. <a href="https://bsky.app/profile/forbes.com/post/3m6yuqysr422e" target="_blank">forbes.com</a> (2025-12-02 20:48:50)</span><span style="padding-right:50px;">The honorees of the 2026 Forbes 30 Under 30 Education list are bucking traditional methods to achieve more and reach more learners, faster and more effectively. <a href="https://bsky.app/profile/forbes.com/post/3m6yuqh7hpk2e" target="_blank">forbes.com</a> (2025-12-02 20:48:32)</span><span style="padding-right:50px;">These young scientists, engineers and entrepreneurs are working to build a better world at every scale imaginable. <a href="https://bsky.app/profile/forbes.com/post/3m6yupt3l7s2e" target="_blank">forbes.com</a> (2025-12-02 20:48:11)</span><span style="padding-right:50px;">Genting—the energy-to-palm oil conglomerate controlled by Malaysian billionaire Lim Kok Thay—is doubling down on its investments in New York, earmarking $5.5 billion to expand its integrated casino resort after winning one of three gaming licenses. <a href="https://bsky.app/profile/forbes.com/post/3m6yup2emoc2e" target="_blank">forbes.com</a> (2025-12-02 20:47:45)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49303.45 (🔻191.13 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47289.33 (🔻291.52 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23275.92 (🔺103.58 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.92 (🔺5.16 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 155.96 (🔺0.54 : 2025-12-02)</span>
+<span style="padding-right:50px;">NIKKEI: 49303.45 (🔻191.13 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47289.33 (🔻291.52 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23275.92 (🔺103.58 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.92 (🔺5.16 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 155.97 (🔺0.55 : 2025-12-02)</span>
   </div>
 </div>
 
@@ -32,101 +32,99 @@
 
 ## News Headlines
 
-1.  欧米の結束に亀裂？ヨーロッパでアメリカへの不信感高まる
-2.  英中銀、主要銀行ストレステストをクリア
-3.  駆除クマの処理が課題に、半年で6000頭
-4.  SNS断ちで鬱・不安・不眠が改善、研究結果
-5.  新島・神津島近海でM4.3の地震、東京都などで最大震度2
-6.  OECD、世界経済成長予測を上方修正
+1. 次世代起業家、持続可能な世界へ革新的な技術開発
+2. フォーブス30 Under 30、食品・飲料業界の注目株を発表
+3. 教育を変革する若きリーダーたち、フォーブス30 Under 30に選出
+4. マレーシアの富豪、ニューヨークのカジノリゾートに55億ドル投資
+5. AI音声ElevenLabs、その技術力と倫理的課題
+6. 中国人客の日本渡航自粛で宿泊予約半減、長期化を懸念
 
 ----
 
-@wsj.com
+@forbes.com
 
-This week will bring a split screen that will reinforce growing doubts in Europe about the American commitment to the alliance that has served as the bedrock of Western unity since the end of World War II.
+From climate tech to robots helping humans, these young entrepreneurs are building new tools, materials and technologies for a sustainable and safe world.
 
-[2025-12-02 20:26:21](https://bsky.app/profile/wsj.com/post/3m6ytisejkj2t)
-
----
-
-@reuters.com
-
-Bank of England says UK lenders clear stress tests reut.rs/3MbEMQI
-
-[2025-12-02 20:25:06](https://bsky.app/profile/reuters.com/post/3m6ytgkq6uj2o)
+[2025-12-02 20:49:09](https://bsky.app/profile/forbes.com/post/3m6yurkmtc22e)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@forbes.com
 
-半年で約6000頭 駆除したクマの処理が課題に
-https://news.web.nhk/newsweb/na/na-k10014991831000
+The 2026 Forbes 30 Under 30 Food & Drink list includes a viral pasta sauce brand, AI startups, Gen Z restaurateurs and more.
 
-[2025-12-02 20:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ytepea4t2n)
-
----
-
-@nbcnews.com
-
-The bear that moved into a home’s crawlspace more than a week ago in Altadena is not budging: despite numerous attempts by the homeowners to keep him out, the animal is staying put.
-
-[2025-12-02 20:20:06](https://bsky.app/profile/nbcnews.com/post/3m6yt5lyv5c22)
+[2025-12-02 20:48:50](https://bsky.app/profile/forbes.com/post/3m6yuqysr422e)
 
 ---
 
-@en.afp.com
+@forbes.com
 
-🇵🇸 Children scarred by the war in Gaza are undergoing a therapy programme using virtual reality headsets that transport the youngsters to a world far away from the destruction around them. 
-➡️ u.afp.com/Shz5
+The honorees of the 2026 Forbes 30 Under 30 Education list are bucking traditional methods to achieve more and reach more learners, faster and more effectively.
 
-[2025-12-02 20:20:01](https://bsky.app/profile/en.afp.com/post/3m6yt5i2m272o)
+[2025-12-02 20:48:32](https://bsky.app/profile/forbes.com/post/3m6yuqh7hpk2e)
 
 ---
 
-@npr.org
+@forbes.com
 
-Young adults who took just a one-week break from social media showed improvement in depression, anxiety and insomnia symptoms, a new study says. Plus, tips for how to take a break from your feed. n.pr/4oN4dWp
+These young scientists, engineers and entrepreneurs are working to build a better world at every scale imaginable.
 
-[2025-12-02 20:18:12](https://bsky.app/profile/npr.org/post/3m6yt2aevil2g)
+[2025-12-02 20:48:11](https://bsky.app/profile/forbes.com/post/3m6yupt3l7s2e)
+
+---
+
+@forbes.com
+
+Genting—the energy-to-palm oil conglomerate controlled by Malaysian billionaire Lim Kok Thay—is doubling down on its investments in New York, earmarking $5.5 billion to expand its integrated casino resort after winning one of three gaming licenses.
+
+[2025-12-02 20:47:45](https://bsky.app/profile/forbes.com/post/3m6yup2emoc2e)
+
+---
+
+@forbes.com
+
+ElevenLabs’ computer voices are so convincing they could fool your mother. That’s both a blessing—its 30 Under 30 alumni founders are now both billionaires—and a curse for the four-year-old company.
+
+[2025-12-02 20:47:09](https://bsky.app/profile/forbes.com/post/3m6yuny75hk2e)
+
+---
+
+@forbes.com
+
+Surprise: Cleantech Spending May Hit Record Despite Trump’s Carbon Push
+
+[2025-12-02 20:46:51](https://bsky.app/profile/forbes.com/post/3m6yunglwys2e)
+
+---
+
+@forbes.com
+
+The Mets owner’s project with Hard Rock Casino is among the three proposals approved for gaming—with President Donald Trump’s company expected to receive a $115 million windfall from one of the casinos.
+
+[2025-12-02 20:46:29](https://bsky.app/profile/forbes.com/post/3m6yumrmfqk2e)
 
 ---
 
 @nikkei.com
 
-「好きな国のパン」ランキング、首位はフランス　パンフォーユーまとめ（無料記事）
+中国客、日本渡航自粛で宿泊予約半減　客室単価は微増も長期化懸念
 www.nikkei.com/article/DGXZQO...
 
-[2025-12-02 20:15:57](https://bsky.app/profile/nikkei.com/post/3m6ysw6nq6q2m)
+予約全体でならすと、インパクトは約9%の減少。
+
+国内や中国以外のインバウンド需要増が中国からの予約減少分を補っています。
+
+#ニュース
+
+[2025-12-02 20:45:57](https://bsky.app/profile/nikkei.com/post/3m6yult4ld226)
 
 ---
 
-@reuters.com
+@forbes.com
 
-US investor Saba Capital blocks merger of Baillie Gifford-managed trusts in London reut.rs/48MVY7K
+In a nod to the market’s chronic volatility, Goldman is betting that higher cost, downside protection buffer ETFs will be a growth engine for its $1.6 trillion asset management arm.
 
-[2025-12-02 20:15:13](https://bsky.app/profile/reuters.com/post/3m6ysuuten52w)
-
----
-
-@sokuho.news
-
-🔔防災科研より【強震モニタ】動画です。
-
-震源:新島・神津島近海, 深さ:20km
-マグニチュード:4.3, 最大震度:2
-📍https://www.google.com/maps?q=34.5,139.5&ll=34.5,139.5&z=7&t=h
-地震発生日時:2025-12-02 20:07頃
-(10倍速▶180s→18s) #地震
-
-[2025-12-02 20:10:45](https://bsky.app/profile/sokuho.news/post/3m6ysmvjpr72h)
-
----
-
-@reuters.com
-
-Exclusive: Exxon in talks with Iraq about buying Lukoil stake in giant West Qurna 2 oil field -  sources reut.rs/4iACmqM
-
-[2025-12-02 20:10:09](https://bsky.app/profile/reuters.com/post/3m6ysltm4fs2k)
+[2025-12-02 20:45:42](https://bsky.app/profile/forbes.com/post/3m6yulfkwa22e)
 
 ---
 
