@@ -1,9 +1,9 @@
-# [2025-12-02 13:10 updated](2025_12_02.md)
+# [2025-12-02 13:30 updated](2025_12_02.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The White House defended a US admiral's decision to conduct multiple strikes on an alleged Venezuelan drug-smuggling vessel in September, saying he had Defense Secretary Pete Hegseth's authorization, even as critics questioned the legality of a strike on survivors reut.rs/3KabDVo <a href="https://bsky.app/profile/reuters.com/post/3m6y335jv5c27" target="_blank">reuters.com</a> (2025-12-02 13:09:14)</span><span style="padding-right:50px;">スズキ子会社 「買いたたき」か 公正取引委員会が勧告へ https://news.web.nhk/newsweb/na/na-k10014991741000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6y2vjanki2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-02 13:06:02)</span><span style="padding-right:50px;">自民と立民 今年度の補正予算案 来週8日に審議入りで合意 https://news.web.nhk/newsweb/na/na-k10014991701000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6y2q5xwfh2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-02 13:03:02)</span><span style="padding-right:50px;">12歳以下のスマホ所有、うつや肥満など健康リスク高く　米研究 www.nikkei.com/article/DGXZQO...   米ペンシルベニア大学によると、スマホを持ちはじめる年齢が若いほど、肥満や睡眠不足が起こりやすくなる傾向があったといいます。   NTTドコモ・モバイル社会研究所の調査（2024年）では、日本では小学校高学年の半数以上、中学生は9割近くがスマホを所有。持ち始める年齢は全国平均10.3歳で、若年化しています。 <a href="https://bsky.app/profile/nikkei.com/post/3m6y2o5eumd2i" target="_blank">nikkei.com</a> (2025-12-02 13:01:57)</span><span style="padding-right:50px;">"Pete Hegseth’s hostility toward the press has been a defining characteristic of his time as defense secretary. The current controversy over US strikes against suspected drug boats helps demonstrate why," writes CNN's Brian Stelter. | Analysis https://cnn.it/48Kls5I <a href="https://bsky.app/profile/cnn.com/post/3m6y2miinqf2q" target="_blank">cnn.com</a> (2025-12-02 13:01:02)</span>
+<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】イケアの店舗 来年春に岡山県に初出店 (2025-12-02 13:26:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6y42yl2sv24" target="_blank">sokuho.news</a> (2025-12-02 13:27:02)</span><span style="padding-right:50px;">18歳人口に特別支援学校生含めず 松本文科相「適切でない」 https://news.web.nhk/newsweb/na/na-k10014991761000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6y432jdgp2r" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-02 13:27:02)</span><span style="padding-right:50px;">Kentucky has hired Oregon offensive coordinator Will Stein as their new coach, bringing home someone whose father played for the Wildcats and grew up in the state. <a href="https://bsky.app/profile/apnews.com/post/3m6y3wtg2j62t" target="_blank">apnews.com</a> (2025-12-02 13:24:42)</span><span style="padding-right:50px;">US Justice Dept weighs seeking new indictments of Trump foes Comey and James, sources say reut.rs/3K7oszP <a href="https://bsky.app/profile/reuters.com/post/3m6y3ostxtu27" target="_blank">reuters.com</a> (2025-12-02 13:20:13)</span><span style="padding-right:50px;">A clean comedian walks into a bar: Jim Gaffigan’s “whiskey journey.” 🔗 on.wsj.com/3M87tOm <a href="https://bsky.app/profile/wsj.com/post/3m6y3orbtkb22" target="_blank">wsj.com</a> (2025-12-02 13:20:12)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49469.72 (🔻24.86 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47289.33 (🔻291.52 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23275.92 (🔺103.58 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.92 (🔺5.16 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3056.00 (🔻29.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 155.57 (🔺0.14 : 2025-12-02)</span>
+<span style="padding-right:50px;">NIKKEI: 49418.54 (🔻76.04 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47289.33 (🔻291.52 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23275.92 (🔺103.58 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.92 (🔺5.16 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3052.00 (🔻33.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 155.63 (🔺0.21 : 2025-12-02)</span>
   </div>
 </div>
 
@@ -32,100 +32,104 @@
 
 ## News Headlines
 
-1. 米軍、ベネズエラ麻薬密輸船攻撃の妥当性めぐり波紋
-2. スズキ子会社に「買いたたき」か、公取委が勧告へ
-3. 12歳以下のスマホ所有、うつや肥満など健康リスク高く
-4. 国連、2026年予算を大幅削減へ 18%の人員削減も
-5. ドクターイエロー引退後も人気、廃材お守りが完売続出
-6. ロシア、ウクライナ東部の要衝ポクロフスクを掌握か
+1.  イケア、来春岡山県に初出店
+2.  特別支援学校生、18歳人口に含めず 文科相「適切でない」
+3.  安倍元首相銃撃事件、裁判始まる
+4.  富山市で住宅火災、住民2人は無事
+5.  12歳以下のスマホ所有、うつや肥満リスク 米研究
+6.  ドクターイエロー、引退後も人気 廃材お守り完売続出
 
 ----
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】イケアの店舗 来年春に岡山県に初出店
+(2025-12-02 13:26:00) #ニュース
+
+[2025-12-02 13:27:02](https://bsky.app/profile/sokuho.news/post/3m6y42yl2sv24)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+18歳人口に特別支援学校生含めず 松本文科相「適切でない」
+https://news.web.nhk/newsweb/na/na-k10014991761000
+
+[2025-12-02 13:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6y432jdgp2r)
+
+---
+
+@apnews.com
+
+Kentucky has hired Oregon offensive coordinator Will Stein as their new coach, bringing home someone whose father played for the Wildcats and grew up in the state.
+
+[2025-12-02 13:24:42](https://bsky.app/profile/apnews.com/post/3m6y3wtg2j62t)
+
+---
+
+@reuters.com
+
+US Justice Dept weighs seeking new indictments of Trump foes Comey and James, sources say reut.rs/3K7oszP
+
+[2025-12-02 13:20:13](https://bsky.app/profile/reuters.com/post/3m6y3ostxtu27)
+
+---
+
+@wsj.com
+
+A clean comedian walks into a bar: Jim Gaffigan’s “whiskey journey.” 🔗 on.wsj.com/3M87tOm
+
+[2025-12-02 13:20:12](https://bsky.app/profile/wsj.com/post/3m6y3orbtkb22)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+安倍元首相銃撃事件の12回目裁判始まる 山上被告への質問
+https://news.web.nhk/newsweb/na/na-k10014991601000
+
+[2025-12-02 13:18:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6y3kx3nmd2p)
+
+---
+
+@en.afp.com
+
+Pope brings message of hope to Lebanon.
+
+On Monday, the pontiff called on Christian and Muslim religious leaders gathered for an interreligious meeting to combat intolerance and violence 
+
+u.afp.com/ShRb
+
+[2025-12-02 13:15:14](https://bsky.app/profile/en.afp.com/post/3m6y3fuxx6k2e)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】富山市寺家で住宅火災 消防が消火活動中 住民2人は逃げ出して無事
+(2025-12-02 13:13) #ニュース
+
+[2025-12-02 13:13:22](https://bsky.app/profile/sokuho.news/post/3m6y3ck5gpp2h)
+
+---
+
+@reuters.com
+
+Amazon to deliver essentials, groceries in 30 minutes in parts of Seattle, Philadelphia reut.rs/3KlLkeY
+
+[2025-12-02 13:10:11](https://bsky.app/profile/reuters.com/post/3m6y34udvik22)
+
+---
 
 @reuters.com
 
 The White House defended a US admiral's decision to conduct multiple strikes on an alleged Venezuelan drug-smuggling vessel in September, saying he had Defense Secretary Pete Hegseth's authorization, even as critics questioned the legality of a strike on survivors reut.rs/3KabDVo
 
 [2025-12-02 13:09:14](https://bsky.app/profile/reuters.com/post/3m6y335jv5c27)
-
----
-
-@nhknewsunofficial.bsky.social
-
-スズキ子会社 「買いたたき」か 公正取引委員会が勧告へ
-https://news.web.nhk/newsweb/na/na-k10014991741000
-
-[2025-12-02 13:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6y2vjanki2b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-自民と立民 今年度の補正予算案 来週8日に審議入りで合意
-https://news.web.nhk/newsweb/na/na-k10014991701000
-
-[2025-12-02 13:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6y2q5xwfh2k)
-
----
-
-@nikkei.com
-
-12歳以下のスマホ所有、うつや肥満など健康リスク高く　米研究
-www.nikkei.com/article/DGXZQO...
- 
-米ペンシルベニア大学によると、スマホを持ちはじめる年齢が若いほど、肥満や睡眠不足が起こりやすくなる傾向があったといいます。
- 
-NTTドコモ・モバイル社会研究所の調査（2024年）では、日本では小学校高学年の半数以上、中学生は9割近くがスマホを所有。持ち始める年齢は全国平均10.3歳で、若年化しています。
-
-[2025-12-02 13:01:57](https://bsky.app/profile/nikkei.com/post/3m6y2o5eumd2i)
-
----
-
-@cnn.com
-
-"Pete Hegseth’s hostility toward the press has been a defining characteristic of his time as defense secretary. The current controversy over US strikes against suspected drug boats helps demonstrate why," writes CNN's Brian Stelter. | Analysis https://cnn.it/48Kls5I
-
-[2025-12-02 13:01:02](https://bsky.app/profile/cnn.com/post/3m6y2miinqf2q)
-
----
-
-@reuters.com
-
-Illegal migrants to face clothing and mouth searches for phones at UK ports reut.rs/3Kh8xyR
-
-[2025-12-02 13:00:42](https://bsky.app/profile/reuters.com/post/3m6y2lvkud52y)
-
----
-
-@bloomberg.com
-
-Michael Burry has bet against the shares of Tesla, saying they are “ridiculously overvalued”
-
-[2025-12-02 13:00:35](https://bsky.app/profile/bloomberg.com/post/3m6y2lpfvzc2s)
-
----
-
-@apnews.com
-
-Since it started as a hashtag in 2012, GivingTuesday, the Tuesday after Thanksgiving, has become one of the biggest fundraising days of the year for nonprofits in the U.S.
-
-[2025-12-02 13:00:11](https://bsky.app/profile/apnews.com/post/3m6y2kym3t52j)
-
----
-
-@nytimes.com
-
-In Venezuela, parents deported from the U.S. are clamoring for the return of the children they left behind.
-
-[2025-12-02 13:00:03](https://bsky.app/profile/nytimes.com/post/3m6y2kq6aly2x)
-
----
-
-@nhknewsunofficial.bsky.social
-
-「米軍が麻薬密輸船に追加攻撃」報道 妥当性めぐり波紋広がる
-https://news.web.nhk/newsweb/na/na-k10014991731000
-
-[2025-12-02 12:51:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6y22phn3k2t)
 
 ---
 
