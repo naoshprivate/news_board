@@ -1,9 +1,9 @@
-# [2025-12-02 10:50 updated](2025_12_02.md)
+# [2025-12-02 11:10 updated](2025_12_02.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Thousands rally in Bulgaria against 2026 budget, clash with police reut.rs/4orpqos <a href="https://bsky.app/profile/reuters.com/post/3m6xsqveqrd2n" target="_blank">reuters.com</a> (2025-12-02 10:40:19)</span><span style="padding-right:50px;">After 13 years of running South Korea’s largest cryptocurrency exchange, Song Chi-hyung and Kim Hyoung-nyon have cemented their spots among the world’s wealthiest. bloom.bg/48QJ0oz  📷: Dunamu Inc. <a href="https://bsky.app/profile/bloomberg.com/post/3m6xsor7r322d" target="_blank">bloomberg.com</a> (2025-12-02 10:39:08)</span><span style="padding-right:50px;">大阪ガス 東邦ガス 伊藤忠商事 米国でe-メタン事業に参画 https://news.web.nhk/newsweb/na/na-k10014991561000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6xsdwswqo24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-02 10:33:02)</span><span style="padding-right:50px;">On the eve of Netflix releasing a highly anticipated docuseries about Sean “Diddy” Combs — produced by his longtime foe Curtis “50 Cent” Jackson — the embattled mogul’s lawyers have sent a cease-and-desist letter, demanding that Netflix not release “Sean Combs: The Reckoning.” https://cnn.it/4iAIors <a href="https://bsky.app/profile/cnn.com/post/3m6xsabgwxs2q" target="_blank">cnn.com</a> (2025-12-02 10:31:02)</span><span style="padding-right:50px;">Costco sues US to preserve tariff refunds if Trump loses appeal reut.rs/48J2koC <a href="https://bsky.app/profile/reuters.com/post/3m6xs7awgb22y" target="_blank">reuters.com</a> (2025-12-02 10:30:28)</span>
+<span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】焼き鳥店で火事「建物から炎と煙」50代男性が病院搬送 北海道千歳市 (2025-12-02 11:08) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6xudval4n2q" target="_blank">sokuho.news</a> (2025-12-02 11:08:51)</span><span style="padding-right:50px;">US First Lady Melania Trump has unveiled this year's White House Christmas decorations -- in a reduced space after President Donald Trump demolished part of the historic building for a new ballroom  u.afp.com/ShRn <a href="https://bsky.app/profile/en.afp.com/post/3m6xubvdaz22x" target="_blank">en.afp.com</a> (2025-12-02 11:07:44)</span><span style="padding-right:50px;">Teenagers are increasingly engaging in stock trading, with some already saving for financial milestones such as buying a home. “I kind of just wanted to see if it would work and how much money I could get.” on.wsj.com/48aRbwK <a href="https://bsky.app/profile/wsj.com/post/3m6xuahjrl72p" target="_blank">wsj.com</a> (2025-12-02 11:06:55)</span><span style="padding-right:50px;">トランプ政権、報道機関「恥の殿堂」ページ開設　メディアと記者を名指し非難 www.nikkei.com/article/DGXZQO...   ページ上では「今週の反則メディア」として具体的な名前を挙げ、政権が偏向や虚偽と考える報道内容と政権側の主張を一方的に記載。   さらに「恥の殿堂」と題してこれまでの「反則者」を列挙し、それぞれに「噓」「左派の狂気」「偏向」といったラベルをつけています。政権に批判的なメディアへの圧力や規制を強めています。   #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m6xtxlguyn2t" target="_blank">nikkei.com</a> (2025-12-02 11:01:58)</span><span style="padding-right:50px;">The Justice Department could present a new indictment against James Comey to a grand jury as soon as this week. <a href="https://bsky.app/profile/cnn.com/post/3m6xtvvnw6a2q" target="_blank">cnn.com</a> (2025-12-02 11:01:01)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49594.88 (🔺100.30 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47289.33 (🔻291.52 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23275.92 (🔺103.58 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.92 (🔺5.16 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3055.00 (🔻30.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 155.60 (🔺0.18 : 2025-12-02)</span>
+<span style="padding-right:50px;">NIKKEI: 49570.00 (🔺75.42 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47289.33 (🔻291.52 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23275.92 (🔺103.58 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.92 (🔺5.16 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3052.00 (🔻33.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 155.62 (🔺0.20 : 2025-12-02)</span>
   </div>
 </div>
 
@@ -32,98 +32,106 @@
 
 ## News Headlines
 
-1. ブルガリアで2026年予算案に抗議する数千人がデモ、警察と衝突
-2. 韓国最大の暗号資産取引所経営者、世界有数の富豪に
-3. 大阪ガスら、米国でe-メタン事業に参画
-4. ショーン・コムズのドキュメンタリー公開直前に、弁護士がNetflixに公開停止を要求
-5. コストコ、トランプ政権の関税還付訴訟で米国を提訴
-6. ホンジュラス元大統領、米国刑務所からトランプ前大統領への手紙で恩赦獲得か
+1. 北海道千歳市 焼き鳥店で火事、50代男性搬送
+2. 若者の株式投資増加、住宅購入資金を貯蓄する事例も
+3. トランプ政権、報道機関「恥の殿堂」開設しメディアを非難
+4. キューバで蚊媒介感染症、33人死亡
+5. オックスフォード大、2025年の言葉は「rage bait」
+6. ロシア国境に壁を築け、ヨーロッパがハイブリッド攻撃に戦時モード
 
 ----
 
-@reuters.com
+@sokuho.news
 
-Thousands rally in Bulgaria against 2026 budget, clash with police reut.rs/4orpqos
+🛎️NNNより【速報】です。
 
-[2025-12-02 10:40:19](https://bsky.app/profile/reuters.com/post/3m6xsqveqrd2n)
+【速報】焼き鳥店で火事「建物から炎と煙」50代男性が病院搬送 北海道千歳市
+(2025-12-02 11:08) #ニュース
 
----
-
-@bloomberg.com
-
-After 13 years of running South Korea’s largest cryptocurrency exchange, Song Chi-hyung and Kim Hyoung-nyon have cemented their spots among the world’s wealthiest. bloom.bg/48QJ0oz
-
-📷: Dunamu Inc.
-
-[2025-12-02 10:39:08](https://bsky.app/profile/bloomberg.com/post/3m6xsor7r322d)
+[2025-12-02 11:08:51](https://bsky.app/profile/sokuho.news/post/3m6xudval4n2q)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@en.afp.com
 
-大阪ガス 東邦ガス 伊藤忠商事 米国でe-メタン事業に参画
-https://news.web.nhk/newsweb/na/na-k10014991561000
+US First Lady Melania Trump has unveiled this year's White House Christmas decorations -- in a reduced space after President Donald Trump demolished part of the historic building for a new ballroom
 
-[2025-12-02 10:33:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6xsdwswqo24)
+u.afp.com/ShRn
+
+[2025-12-02 11:07:44](https://bsky.app/profile/en.afp.com/post/3m6xubvdaz22x)
+
+---
+
+@wsj.com
+
+Teenagers are increasingly engaging in stock trading, with some already saving for financial milestones such as buying a home. “I kind of just wanted to see if it would work and how much money I could get.” on.wsj.com/48aRbwK
+
+[2025-12-02 11:06:55](https://bsky.app/profile/wsj.com/post/3m6xuahjrl72p)
+
+---
+
+@nikkei.com
+
+トランプ政権、報道機関「恥の殿堂」ページ開設　メディアと記者を名指し非難
+www.nikkei.com/article/DGXZQO...
+ 
+ページ上では「今週の反則メディア」として具体的な名前を挙げ、政権が偏向や虚偽と考える報道内容と政権側の主張を一方的に記載。
+ 
+さらに「恥の殿堂」と題してこれまでの「反則者」を列挙し、それぞれに「噓」「左派の狂気」「偏向」といったラベルをつけています。政権に批判的なメディアへの圧力や規制を強めています。
+ 
+#ニュース
+
+[2025-12-02 11:01:58](https://bsky.app/profile/nikkei.com/post/3m6xtxlguyn2t)
 
 ---
 
 @cnn.com
 
-On the eve of Netflix releasing a highly anticipated docuseries about Sean “Diddy” Combs — produced by his longtime foe Curtis “50 Cent” Jackson — the embattled mogul’s lawyers have sent a cease-and-desist letter, demanding that Netflix not release “Sean Combs: The Reckoning.” https://cnn.it/4iAIors
+The Justice Department could present a new indictment against James Comey to a grand jury as soon as this week.
 
-[2025-12-02 10:31:02](https://bsky.app/profile/cnn.com/post/3m6xsabgwxs2q)
+[2025-12-02 11:01:01](https://bsky.app/profile/cnn.com/post/3m6xtvvnw6a2q)
 
 ---
 
 @reuters.com
 
-Costco sues US to preserve tariff refunds if Trump loses appeal reut.rs/48J2koC
+Cuba says 33 have died of mosquito-borne illnesses as epidemic rages reut.rs/48ryMKT
 
-[2025-12-02 10:30:28](https://bsky.app/profile/reuters.com/post/3m6xs7awgb22y)
-
----
-
-@usatoday.com
-
-Millie Bobby Brown is adding yet another name to her moniker, revealing she changed her title following her wedding to Jake Bongiovi.
-
-[2025-12-02 10:30:26](https://bsky.app/profile/usatoday.com/post/3m6xs76zyrq2u)
+[2025-12-02 11:00:57](https://bsky.app/profile/reuters.com/post/3m6xtvrxuv527)
 
 ---
 
-@bloomberg.com
+@aljazeera.com
 
-The Trump administration urged the US Supreme Court to take up Bayer’s appeal targeting thousands of lawsuits blaming its top-selling Roundup weedkiller for causing cancer
+These are the key developments from day 1,377 of Russia’s war on Ukraine.
 
-[2025-12-02 10:30:13](https://bsky.app/profile/bloomberg.com/post/3m6xs6tgzvu2i)
-
----
-
-@axios.com
-
-SCOOP: From a U.S. prison cell, Honduras' ex-president secured a likely pardon for drug trafficking thanks to a letter he penned praising President Trump — whom he called "Your Excellency" — and a persistent lobbying campaign by longtime Trump pal Roger Stone.
-
-[2025-12-02 10:26:15](https://bsky.app/profile/axios.com/post/3m6xrxq4lkk2o)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】木原長官「中国側の主張は到底認められない」国連事務総長への高市首相批判書簡再送付に反論 「日本の立場は変更していない」と強調
-(2025-12-02 10:25) #ニュース
-
-[2025-12-02 10:25:40](https://bsky.app/profile/sokuho.news/post/3m6xrwoj4rd2y)
+[2025-12-02 11:00:24](https://bsky.app/profile/aljazeera.com/post/3m6xtus27qq2a)
 
 ---
 
 @cnbc.com
 
-CNBC Daily Open: Crypto on the market's 'naughty list'?
+Before your child even steps out the door every day, their emotional baseline for the day is already set — not by color-coded routines, but by how safe and connected they feel in your presence.
 
-[2025-12-02 10:22:31](https://bsky.app/profile/cnbc.com/post/3m6xrr2gs6i2i)
+Parents who raise happy kids practice these nine morning rituals to create emotional safety.
+
+[2025-12-02 11:00:23](https://bsky.app/profile/cnbc.com/post/3m6xturfugk2s)
+
+---
+
+@bloomberg.com
+
+Apple artificial intelligence head John Giannandrea plans to step down from the job, ending a challenging stint at the iPhone maker
+
+[2025-12-02 11:00:21](https://bsky.app/profile/bloomberg.com/post/3m6xtupcsos2o)
+
+---
+
+@usatoday.com
+
+In a new interview, Scarlett Johansson said it's "important to have integrity" when asked about her continued support for Woody Allen.
+
+[2025-12-02 11:00:19](https://bsky.app/profile/usatoday.com/post/3m6xtunptfd2m)
 
 ---
 
