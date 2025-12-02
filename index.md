@@ -1,9 +1,9 @@
-# [2025-12-02 09:50 updated](2025_12_02.md)
+# [2025-12-02 10:10 updated](2025_12_02.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">U.S. troops have become top gun traders, swapping investment tips from cockpits and the decks of aircraft carriers and making fortunes. 🔗 on.wsj.com/49QetJr <a href="https://bsky.app/profile/wsj.com/post/3m6xptzif6r2a" target="_blank">wsj.com</a> (2025-12-02 09:48:23)</span><span style="padding-right:50px;">Clio's Fastcase sues rival legal tech firm Alexi reut.rs/3M9QT0w <a href="https://bsky.app/profile/reuters.com/post/3m6xpofbahh27" target="_blank">reuters.com</a> (2025-12-02 09:45:14)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】「漁船が転覆した」と119番通報 1人行方分からず 漁船には2人乗っていたか (2025-12-02 09:20) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6xpgaw2my22" target="_blank">sokuho.news</a> (2025-12-02 09:40:41)</span><span style="padding-right:50px;">Economic jitters will not derail Americans'  generosity on Giving Tuesday, expert says reut.rs/4iAIBLg <a href="https://bsky.app/profile/reuters.com/post/3m6xpflenwi2d" target="_blank">reuters.com</a> (2025-12-02 09:40:19)</span><span style="padding-right:50px;">Rep. Shri Thanedar told Axios he's considering introducing articles of impeachment against Secretary of Defense Pete Hegseth over reports he authorized a 2nd strike on a purported drug boat in the Caribbean. <a href="https://bsky.app/profile/axios.com/post/3m6xp7unszs2o" target="_blank">axios.com</a> (2025-12-02 09:37:07)</span>
+<span style="padding-right:50px;">The United States is not commemorating World AIDS Day this year as it has done for decades in the past.  Observance of the day was started by the World Health Organization, from which the Trump administration withdrew this year. https://cnn.it/4pHLpZ9 <a href="https://bsky.app/profile/cnn.com/post/3m6xqvn4rfm2w" target="_blank">cnn.com</a> (2025-12-02 10:07:11)</span><span style="padding-right:50px;">Humans' love of alcohol can be traced back to our primate ancestors, research shows on.wsj.com/4oyqhnt <a href="https://bsky.app/profile/wsj.com/post/3m6xquygf6y2t" target="_blank">wsj.com</a> (2025-12-02 10:06:49)</span><span style="padding-right:50px;">「ロシア国境に壁を築け」　ヨーロッパ、ハイブリッド攻撃に戦時モード www.nikkei.com/article/DGXZQO...   国の記章を付けず、覆面の兵士がエストニアで目撃されたのは10月。ウクライナのクリミア半島に先陣を切って侵略したロシア軍特殊部隊を想起させ、緊張が高まりました。   インフラ破壊工作やサイバー攻撃、選挙介入、偽情報の流布――。ロシアはこれらを組み合わせた攻撃を展開しています。   米シンクタンクの戦争研究所はすでに「フェーズ0」＝戦争の初期段階にあると分析しています。 <a href="https://bsky.app/profile/nikkei.com/post/3m6xqmcsaob2t" target="_blank">nikkei.com</a> (2025-12-02 10:01:58)</span><span style="padding-right:50px;">There are many things you can do to keep your brain sharp, but there's one practice that longevity doctor Dr. Avinish Reddy says is overlooked. <a href="https://bsky.app/profile/cnbc.com/post/3m6xqkvgpzo2e" target="_blank">cnbc.com</a> (2025-12-02 10:01:11)</span><span style="padding-right:50px;">OpenAI takes stake in Thrive Holdings in latest enterprise AI push reut.rs/4ouTcsv <a href="https://bsky.app/profile/reuters.com/post/3m6xqkrtag222" target="_blank">reuters.com</a> (2025-12-02 10:01:07)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49592.96 (🔺98.38 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47289.33 (🔻291.52 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23275.92 (🔺103.58 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.92 (🔺5.22 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3055.00 (🔻30.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 155.63 (🔺0.21 : 2025-12-02)</span>
+<span style="padding-right:50px;">NIKKEI: 49471.19 (🔻23.39 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47289.33 (🔻291.52 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23275.92 (🔺103.58 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.92 (🔺5.22 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 155.71 (🔺0.29 : 2025-12-02)</span>
   </div>
 </div>
 
@@ -32,102 +32,102 @@
 
 ## News Headlines
 
-1. 米軍兵士、投資取引で巨額の富を築く
-2. 漁船が転覆、1人行方不明
-3. NY州、妊娠危機センターの「中絶薬リバーサル」に関する言論規制できず
-4. トランプ大統領、MRI検査で「完全に正常」
-5. リビア戦争犯罪容疑者、ドイツからハーグへ移送
-6. 「エル・チャポ」の息子、米国で罪を認める
+1. ロシア国境に壁建設を、欧州がハイブリッド攻撃に警戒
+2. 米、ワールドエイズデーの記念行事中止
+3. TSA、Real ID 未所持の航空旅客に手数料導入へ
+4. エル・チャポの息子、麻薬取引で有罪認める
+5. FRB、地銀の商業用不動産ローンを注視
+6. トランプ前大統領、MRI検査で「完全に正常」
 
 ----
 
-@wsj.com
-
-U.S. troops have become top gun traders, swapping investment tips from cockpits and the decks of aircraft carriers and making fortunes. 🔗 on.wsj.com/49QetJr
-
-[2025-12-02 09:48:23](https://bsky.app/profile/wsj.com/post/3m6xptzif6r2a)
-
----
-
-@reuters.com
-
-Clio's Fastcase sues rival legal tech firm Alexi reut.rs/3M9QT0w
-
-[2025-12-02 09:45:14](https://bsky.app/profile/reuters.com/post/3m6xpofbahh27)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】「漁船が転覆した」と119番通報 1人行方分からず 漁船には2人乗っていたか
-(2025-12-02 09:20) #ニュース
-
-[2025-12-02 09:40:41](https://bsky.app/profile/sokuho.news/post/3m6xpgaw2my22)
-
----
-
-@reuters.com
-
-Economic jitters will not derail Americans'  generosity on Giving Tuesday, expert says reut.rs/4iAIBLg
-
-[2025-12-02 09:40:19](https://bsky.app/profile/reuters.com/post/3m6xpflenwi2d)
-
----
-
-@axios.com
-
-Rep. Shri Thanedar told Axios he's considering introducing articles of impeachment against Secretary of Defense Pete Hegseth over reports he authorized a 2nd strike on a purported drug boat in the Caribbean.
-
-[2025-12-02 09:37:07](https://bsky.app/profile/axios.com/post/3m6xp7unszs2o)
-
----
-
-@reuters.com
-
-US court says NY can't stop crisis pregnancy centers' speech on 'abortion pill reversal' reut.rs/4pNzI3r
-
-[2025-12-02 09:35:12](https://bsky.app/profile/reuters.com/post/3m6xp4gt22y2k)
-
----
-
 @cnn.com
 
-50 Cent has long trolled Sean “Diddy” Combs on social media.
+The United States is not commemorating World AIDS Day this year as it has done for decades in the past.
 
-Now the rapper turned actor and producer has taken it up a notch with his latest project, a Netflix docuseries about Combs. https://cnn.it/3KA5VMv
+Observance of the day was started by the World Health Organization, from which the Trump administration withdrew this year. https://cnn.it/4pHLpZ9
 
-[2025-12-02 09:32:03](https://bsky.app/profile/cnn.com/post/3m6xowst3bk2j)
+[2025-12-02 10:07:11](https://bsky.app/profile/cnn.com/post/3m6xqvn4rfm2w)
+
+---
+
+@wsj.com
+
+Humans' love of alcohol can be traced back to our primate ancestors, research shows on.wsj.com/4oyqhnt
+
+[2025-12-02 10:06:49](https://bsky.app/profile/wsj.com/post/3m6xquygf6y2t)
 
 ---
 
 @nikkei.com
 
-トランプ大統領、MRI検査「完全に正常」　心血管系と腹部を撮影
+「ロシア国境に壁を築け」　ヨーロッパ、ハイブリッド攻撃に戦時モード
 www.nikkei.com/article/DGXZQO...
+ 
+国の記章を付けず、覆面の兵士がエストニアで目撃されたのは10月。ウクライナのクリミア半島に先陣を切って侵略したロシア軍特殊部隊を想起させ、緊張が高まりました。
+ 
+インフラ破壊工作やサイバー攻撃、選挙介入、偽情報の流布――。ロシアはこれらを組み合わせた攻撃を展開しています。
+ 
+米シンクタンクの戦争研究所はすでに「フェーズ0」＝戦争の初期段階にあると分析しています。
 
-現在79歳で、2期目の就任時の年齢は歴代大統領で最高。
+[2025-12-02 10:01:58](https://bsky.app/profile/nikkei.com/post/3m6xqmcsaob2t)
 
-主治医は声明で「全体的な健康状態は引き続き素晴らしいことが確認された」としています。
+---
 
-[2025-12-02 09:31:57](https://bsky.app/profile/nikkei.com/post/3m6xowmmybh2k)
+@cnbc.com
+
+There are many things you can do to keep your brain sharp, but there's one practice that longevity doctor Dr. Avinish Reddy says is overlooked.
+
+[2025-12-02 10:01:11](https://bsky.app/profile/cnbc.com/post/3m6xqkvgpzo2e)
 
 ---
 
 @reuters.com
 
-Libyan war crimes suspect transferred from Germany to The Hague, ICC says reut.rs/3XpGY9z
+OpenAI takes stake in Thrive Holdings in latest enterprise AI push reut.rs/4ouTcsv
 
-[2025-12-02 09:30:31](https://bsky.app/profile/reuters.com/post/3m6xou2oavr2o)
+[2025-12-02 10:01:07](https://bsky.app/profile/reuters.com/post/3m6xqkrtag222)
 
 ---
 
-@usatoday.com
+@apnews.com
 
-President Trump told Tennesseans "the whole world is watching" as Republicans work to avert a disaster in a closely watched special election.
+A charitable foundation is making 25 Christmas stockings from the drapes of King Charles III’s Sandringham estate.
 
-[2025-12-02 09:30:24](https://bsky.app/profile/usatoday.com/post/3m6xotuhvzp2j)
+[2025-12-02 10:00:50](https://bsky.app/profile/apnews.com/post/3m6xqkbhgnc2j)
+
+---
+
+@aljazeera.com
+
+Khaled Mohamed Ali El Hishri allegedly committed crimes at Libya's Mitiga Prison from 2015 to 2020, the ICC says.
+
+[2025-12-02 10:00:46](https://bsky.app/profile/aljazeera.com/post/3m6xqk6d6bf2z)
+
+---
+
+@nytimes.com
+
+Starting in February, the Transportation Security Administration will start charging fliers who travel without a Real ID-compliant form of identification a $45 fee in order to fly from U.S. airports. nyti.ms/3Kq5MLF
+
+[2025-12-02 10:00:45](https://bsky.app/profile/nytimes.com/post/3m6xqk5ceyw2e)
+
+---
+
+@bloomberg.com
+
+Climate Finance Partners hired Andurand Capital Management LLP’s former head of research and portfolio manager Mark Lewis as partner and managing director
+
+[2025-12-02 10:00:35](https://bsky.app/profile/bloomberg.com/post/3m6xqjswaze2d)
+
+---
+
+@en.afp.com
+
+The United States has meddled for decades in elections around the world. But no modern president has done so as brazenly as Donald Trump. 
+u.afp.com/ShRf
+
+[2025-12-02 10:00:12](https://bsky.app/profile/en.afp.com/post/3m6xqj5h3p42x)
 
 ---
 
