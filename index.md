@@ -1,9 +1,9 @@
-# [2025-12-03 00:30 updated](2025_12_03.md)
+# [2025-12-03 00:50 updated](2025_12_03.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">AI could increase divide between rich and poor states, UN report warns reut.rs/49Nrh3i <a href="https://bsky.app/profile/reuters.com/post/3m6zatqlnsn27" target="_blank">reuters.com</a> (2025-12-03 00:25:07)</span><span style="padding-right:50px;">French AI lab Mistral releases new AI models as it looks to keep pace with OpenAI and Google <a href="https://bsky.app/profile/cnbc.com/post/3m6zarycc3y2h" target="_blank">cnbc.com</a> (2025-12-03 00:24:08)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】木造住宅が全焼 住人の90代女性死亡 東京・青梅市 (23:59) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6zaop5bkb22" target="_blank">sokuho.news</a> (2025-12-03 00:22:18)</span><span style="padding-right:50px;">Costco has sued the Trump administration for a refund of the tariffs it has paid on imported goods, should the Supreme Court rule them illegal, becoming one of the largest companies to challenge President Trump’s sweeping levies in court. <a href="https://bsky.app/profile/nytimes.com/post/3m6zakqlsjs2d" target="_blank">nytimes.com</a> (2025-12-03 00:20:05)</span><span style="padding-right:50px;">🇷🇺 🇺🇸 🇺🇦 Donald Trump's son-in-law Jared Kushner and envoy Steve Witkoff will meet with Russian leader Vladimir Putin in Moscow on Tuesday for high-stakes talks on ending the war in Ukraine.  ➡️ u.afp.com/ShKt <a href="https://bsky.app/profile/en.afp.com/post/3m6zaknlbir22" target="_blank">en.afp.com</a> (2025-12-03 00:20:02)</span>
+<span style="padding-right:50px;">Kushner and Witkoff have arrived at the Kremlin. <a href="https://bsky.app/profile/axios.com/post/3m6zc6qj4ec2y" target="_blank">axios.com</a> (2025-12-03 00:49:10)</span><span style="padding-right:50px;">Michael and Susan Dell pledge $6.25bn to help fund ‘Trump Accounts’ for children on.ft.com/3M4TMjh <a href="https://bsky.app/profile/financialtimes.com/post/3m6zc4sw6s527" target="_blank">financialtimes.com</a> (2025-12-03 00:48:05)</span><span style="padding-right:50px;">Chinese autonomous driving firm Momenta files for Hong Kong IPO, sources say reut.rs/48u097g <a href="https://bsky.app/profile/reuters.com/post/3m6zbxr5tw22d" target="_blank">reuters.com</a> (2025-12-03 00:45:16)</span><span style="padding-right:50px;">Homeland Security Secretary Kristi Noem is recommending that the Trump administration's travel ban list include between 30 to 32 countries, marking an increase from the current list of 19 countries, according to a source familiar with the matter. https://cnn.it/4pLdnn3 <a href="https://bsky.app/profile/cnn.com/post/3m6zbxkdsi62q" target="_blank">cnn.com</a> (2025-12-03 00:45:09)</span><span style="padding-right:50px;">Strategy shares have been wrecked by bitcoin sell-off. How to bet on a bounce in the risky stock using options <a href="https://bsky.app/profile/cnbc.com/post/3m6zbw6rydn2j" target="_blank">cnbc.com</a> (2025-12-03 00:44:23)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49303.45 (🔻191.13 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47353.48 (🔻63.43 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23431.45 (🔺51.70 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 183.21 (🔺1.49 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 156.02 (🔺0.60 : 2025-12-02)</span>
+<span style="padding-right:50px;">NIKKEI: 49303.45 (🔻191.13 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47490.29 (🔺73.38 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23506.11 (🔺126.36 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 184.23 (🔺2.51 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 155.92 (🔺0.50 : 2025-12-02)</span>
   </div>
 </div>
 
@@ -32,98 +32,94 @@
 
 ## News Headlines
 
-1.  国連報告: AIが貧富の差を拡大する可能性
-2.  青梅市で木造住宅が全焼、90代女性死亡
-3.  コストコ、トランプ政権の関税に対し提訴
-4.  トランプ氏の義理の息子クシュナー氏、プーチン大統領と会談へ
-5.  FDA、医薬品試験での霊長類実験を制限へ
-6.  OpenAI、ChatGPT改善のため「コードレッド」宣言
+1. クシュナー氏とウィトコフ氏、クレムリン訪問
+2. デル夫妻、子供向け「トランプ口座」に62.5億ドル拠出
+3. 中国の自動運転企業Momenta、香港IPO申請
+4. トランプ政権の入国禁止リスト、30～32カ国に拡大か
+5. スキーの仲裁裁判所がロシアとベラルーシのスキーヤーが2026年の冬季オリンピックに出場できるように道を開いた
+6. 元ホンジュラス大統領、トランプ氏の恩赦で釈放、物議
 
 ----
 
+@axios.com
+
+Kushner and Witkoff have arrived at the Kremlin.
+
+[2025-12-03 00:49:10](https://bsky.app/profile/axios.com/post/3m6zc6qj4ec2y)
+
+---
+
+@financialtimes.com
+
+Michael and Susan Dell pledge $6.25bn to help fund ‘Trump Accounts’ for children on.ft.com/3M4TMjh
+
+[2025-12-03 00:48:05](https://bsky.app/profile/financialtimes.com/post/3m6zc4sw6s527)
+
+---
+
 @reuters.com
 
-AI could increase divide between rich and poor states, UN report warns reut.rs/49Nrh3i
+Chinese autonomous driving firm Momenta files for Hong Kong IPO, sources say reut.rs/48u097g
 
-[2025-12-03 00:25:07](https://bsky.app/profile/reuters.com/post/3m6zatqlnsn27)
+[2025-12-03 00:45:16](https://bsky.app/profile/reuters.com/post/3m6zbxr5tw22d)
+
+---
+
+@cnn.com
+
+Homeland Security Secretary Kristi Noem is recommending that the Trump administration's travel ban list include between 30 to 32 countries, marking an increase from the current list of 19 countries, according to a source familiar with the matter. https://cnn.it/4pLdnn3
+
+[2025-12-03 00:45:09](https://bsky.app/profile/cnn.com/post/3m6zbxkdsi62q)
 
 ---
 
 @cnbc.com
 
-French AI lab Mistral releases new AI models as it looks to keep pace with OpenAI and Google
+Strategy shares have been wrecked by bitcoin sell-off. How to bet on a bounce in the risky stock using options
 
-[2025-12-03 00:24:08](https://bsky.app/profile/cnbc.com/post/3m6zarycc3y2h)
-
----
-
-@sokuho.news
-
-🔔ANNより【速報】です。
-
-【速報】木造住宅が全焼 住人の90代女性死亡 東京・青梅市
-(23:59) #ニュース
-
-[2025-12-03 00:22:18](https://bsky.app/profile/sokuho.news/post/3m6zaop5bkb22)
+[2025-12-03 00:44:23](https://bsky.app/profile/cnbc.com/post/3m6zbw6rydn2j)
 
 ---
 
-@nytimes.com
+@reuters.com
 
-Costco has sued the Trump administration for a refund of the tariffs it has paid on imported goods, should the Supreme Court rule them illegal, becoming one of the largest companies to challenge President Trump’s sweeping levies in court.
+UK set for faster growth in 2026, slower inflation, OECD forecasts reut.rs/4pIRHIc
 
-[2025-12-03 00:20:05](https://bsky.app/profile/nytimes.com/post/3m6zakqlsjs2d)
+[2025-12-03 00:40:16](https://bsky.app/profile/reuters.com/post/3m6zbosvsnz2r)
 
 ---
 
 @en.afp.com
 
-🇷🇺 🇺🇸 🇺🇦 Donald Trump's son-in-law Jared Kushner and envoy Steve Witkoff will meet with Russian leader Vladimir Putin in Moscow on Tuesday for high-stakes talks on ending the war in Ukraine. 
-➡️ u.afp.com/ShKt
+⛷️ The Court of Arbitration for Sport has opened the way for Russian and Belarusian skiers to compete in the 2026 Winter Olympics by overturning a ban imposed by the top skiing body. 
+#AFPSports 
+➡️ u.afp.com/ShKB
 
-[2025-12-03 00:20:02](https://bsky.app/profile/en.afp.com/post/3m6zaknlbir22)
-
----
-
-@nytimes.com
-
-From @theathleticfc.bsky.social: Uzbekistan is the first double-landlocked nation to qualify for the World Cup 
-
-Here is an eclectic mix of facts, stats and pieces of trivia about each of the 64 teams in the draw. nyti.ms/3KBTgZs
-
-[2025-12-03 00:19:03](https://bsky.app/profile/nytimes.com/post/3m6zaiuxysw2y)
-
----
-
-@cnbc.com
-
-'Advice was so good,' says CEO who used ChatGPT to pitch new ideas to AI versions of business icons
-
-[2025-12-03 00:16:27](https://bsky.app/profile/cnbc.com/post/3m6zae7zary2e)
-
----
-
-@reuters.com
-
-US FDA to curtail use of primate testing in drug trials, FT reports reut.rs/44DM4Tt
-
-[2025-12-03 00:15:12](https://bsky.app/profile/reuters.com/post/3m6zabyl43v2k)
+[2025-12-03 00:40:02](https://bsky.app/profile/en.afp.com/post/3m6zbogadf722)
 
 ---
 
 @wsj.com
 
-A coalition that tried and failed to block OpenAI’s conversion earlier this year is back with a new tactic: a California ballot initiative aimed at reining in the startup’s power.
+Former Honduran President Juan Orlando Hernández walked out of prison Tuesday following a pardon by President Trump, fueling controversy in the U.S. and Honduras amid rising political uncertainty in the poor Central American nation.
 
-[2025-12-03 00:14:21](https://bsky.app/profile/wsj.com/post/3m6zaai6jua2p)
+[2025-12-03 00:36:51](https://bsky.app/profile/wsj.com/post/3m6zbiplsz22a)
 
 ---
 
-@cnbc.com
+@reuters.com
 
-Wall Street's top stock picks for 2026: Goldman's under-the-radar name with upside
+Trump promised a San Francisco crime crackdown. His administration did the opposite. reut.rs/4pPsZGh
 
-[2025-12-03 00:14:08](https://bsky.app/profile/cnbc.com/post/3m6zaa3xqos2g)
+[2025-12-03 00:35:07](https://bsky.app/profile/reuters.com/post/3m6zbfmu7r627)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Zambian-American influencer Ethel Chisono Edwards sentenced to 18 months for hate speech
+
+[2025-12-03 00:32:13](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6zbahqwer2y)
 
 ---
 
