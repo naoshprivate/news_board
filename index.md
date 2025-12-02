@@ -1,9 +1,9 @@
-# [2025-12-02 21:30 updated](2025_12_02.md)
+# [2025-12-02 21:50 updated](2025_12_02.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The White House published a website detailing what it calls “false and misleading” media coverage, the latest in a series of unorthodox steps by the Trump administration against media outlets. <a href="https://bsky.app/profile/wsj.com/post/3m6ywwrpbkc2p" target="_blank">wsj.com</a> (2025-12-02 21:27:52)</span><span style="padding-right:50px;">Pope Leo XIV offered a silent prayer on Tuesday at the site of the 2020 Beirut port explosion, a scene of devastation that has come to symbolize one of the darkest moments in Lebanon’s history. <a href="https://bsky.app/profile/nytimes.com/post/3m6ywtjpxnv2d" target="_blank">nytimes.com</a> (2025-12-02 21:26:03)</span><span style="padding-right:50px;">Louis Vuitton head Pietro Beccari to become CEO of LVMH's fashion division reut.rs/48gXwa4 <a href="https://bsky.app/profile/reuters.com/post/3m6ywruwaft2k" target="_blank">reuters.com</a> (2025-12-02 21:25:07)</span><span style="padding-right:50px;">東京ディズニーシーのホテルで“刃物”向け脅したか 男を逮捕 https://news.web.nhk/newsweb/na/na-k10014992031000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ywpywru32p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-02 21:24:02)</span><span style="padding-right:50px;">台湾検察が東京エレクトロンを起訴　TSMC機密取得事件、罰金6億円求める www.nikkei.com/article/DGXZQO...  検察当局によるとTSMCの元技術者が、東京エレクトロンの台湾子会社に移籍後、機密情報を使おうとしたとしています。  東京エレクトロンについて、機密漏洩を巡って「防止に全力を尽くしていなかったことに対して刑事責任を負うべきだ」と指摘しました。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m6ywnhzikr2m" target="_blank">nikkei.com</a> (2025-12-02 21:22:40)</span>
+<span style="padding-right:50px;">Death toll from Indonesia floods and landslides passes 700 reut.rs/44DqoXt <a href="https://bsky.app/profile/reuters.com/post/3m6yxvranah27" target="_blank">reuters.com</a> (2025-12-02 21:45:09)</span><span style="padding-right:50px;">公明“子育て支援に重点を置いた税制改正を” 自民に要望 https://news.web.nhk/newsweb/na/na-k10014992221000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6yxvpa2e62k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-02 21:45:07)</span><span style="padding-right:50px;">秋田県知事 クマに関する県への電話 通話内容の録音始める考え https://news.web.nhk/newsweb/na/na-k10014992231000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6yxvkmyn72n" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-02 21:45:02)</span><span style="padding-right:50px;">Why UK borrowing costs are so high on.ft.com/4aqG9EZ <a href="https://bsky.app/profile/financialtimes.com/post/3m6yxoo7kqr26" target="_blank">financialtimes.com</a> (2025-12-02 21:41:13)</span><span style="padding-right:50px;">Hedging against India rupee weakness turns costlier as 90/USD looms reut.rs/4iyN3u2 <a href="https://bsky.app/profile/reuters.com/post/3m6yxmwr2lj2i" target="_blank">reuters.com</a> (2025-12-02 21:40:15)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49303.45 (🔻191.13 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47289.33 (🔻291.52 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23275.92 (🔺103.58 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.92 (🔺5.16 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 155.98 (🔺0.55 : 2025-12-02)</span>
+<span style="padding-right:50px;">NIKKEI: 49303.45 (🔻191.13 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47289.33 (🔻291.52 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23275.92 (🔺103.58 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.92 (🔺5.16 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 155.95 (🔺0.53 : 2025-12-02)</span>
   </div>
 </div>
 
@@ -32,102 +32,95 @@
 
 ## News Headlines
 
-1. ホワイトハウス、メディア報道を「誤り」と批判するサイト公開
-2. ローマ教皇、ベイルート港爆発現場で沈黙の祈り
-3. ルイ・ヴィトンCEOにピエトロ・ベッカーリ氏
-4. 東京ディズニーシーのホテルで脅迫事件、男を逮捕
-5. 台湾検察、東京エレクトロンを起訴　TSMC機密取得事件
-6. トランプ特別代表、プーチン大統領と会談　ウクライナ戦争終結目指す
+1. インドネシア洪水・地滑り、死者700人超
+2. 公明党、子育て支援に重点税制改正を要望
+3. 秋田県知事、クマ関連電話の録音検討
+4. スリランカ、サイクロンで数百人死亡、トラウマと喪失に苦しむ
+5. 東京ディズニーシーのホテルで脅迫、男逮捕
+6. 東京エレクトロン、TSMC機密取得事件で起訴、罰金6億円請求
 
 ----
 
-@wsj.com
+@reuters.com
 
-The White House published a website detailing what it calls “false and misleading” media coverage, the latest in a series of unorthodox steps by the Trump administration against media outlets.
+Death toll from Indonesia floods and landslides passes 700 reut.rs/44DqoXt
 
-[2025-12-02 21:27:52](https://bsky.app/profile/wsj.com/post/3m6ywwrpbkc2p)
+[2025-12-02 21:45:09](https://bsky.app/profile/reuters.com/post/3m6yxvranah27)
 
 ---
 
-@nytimes.com
+@nhknewsunofficial.bsky.social
 
-Pope Leo XIV offered a silent prayer on Tuesday at the site of the 2020 Beirut port explosion, a scene of devastation that has come to symbolize one of the darkest moments in Lebanon’s history.
+公明“子育て支援に重点を置いた税制改正を” 自民に要望
+https://news.web.nhk/newsweb/na/na-k10014992221000
 
-[2025-12-02 21:26:03](https://bsky.app/profile/nytimes.com/post/3m6ywtjpxnv2d)
+[2025-12-02 21:45:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6yxvpa2e62k)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+秋田県知事 クマに関する県への電話 通話内容の録音始める考え
+https://news.web.nhk/newsweb/na/na-k10014992231000
+
+[2025-12-02 21:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6yxvkmyn72n)
+
+---
+
+@financialtimes.com
+
+Why UK borrowing costs are so high on.ft.com/4aqG9EZ
+
+[2025-12-02 21:41:13](https://bsky.app/profile/financialtimes.com/post/3m6yxoo7kqr26)
 
 ---
 
 @reuters.com
 
-Louis Vuitton head Pietro Beccari to become CEO of LVMH's fashion division reut.rs/48gXwa4
+Hedging against India rupee weakness turns costlier as 90/USD looms reut.rs/4iyN3u2
 
-[2025-12-02 21:25:07](https://bsky.app/profile/reuters.com/post/3m6ywruwaft2k)
-
----
-
-@nhknewsunofficial.bsky.social
-
-東京ディズニーシーのホテルで“刃物”向け脅したか 男を逮捕
-https://news.web.nhk/newsweb/na/na-k10014992031000
-
-[2025-12-02 21:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ywpywru32p)
-
----
-
-@nikkei.com
-
-台湾検察が東京エレクトロンを起訴　TSMC機密取得事件、罰金6億円求める
-www.nikkei.com/article/DGXZQO...
-
-検察当局によるとTSMCの元技術者が、東京エレクトロンの台湾子会社に移籍後、機密情報を使おうとしたとしています。
-
-東京エレクトロンについて、機密漏洩を巡って「防止に全力を尽くしていなかったことに対して刑事責任を負うべきだ」と指摘しました。
-
-#ニュース
-
-[2025-12-02 21:22:40](https://bsky.app/profile/nikkei.com/post/3m6ywnhzikr2m)
+[2025-12-02 21:40:15](https://bsky.app/profile/reuters.com/post/3m6yxmwr2lj2i)
 
 ---
 
 @nbcnews.com
 
-President Trump’s special envoy is meeting Russian President Vladimir Putin for highly anticipated talks that Washington hopes will convince the Kremlin to end its war in Ukraine.
+Rapper Curtis "50 Cent" Jackson opens up about his upcoming Netflix documentary about Sean "Diddy Combs, and the secret video he obtained of Combs recorded days before his arrest in 2024.
 
-[2025-12-02 21:20:07](https://bsky.app/profile/nbcnews.com/post/3m6ywiwa2tt2i)
+[2025-12-02 21:40:07](https://bsky.app/profile/nbcnews.com/post/3m6yxmonmjq2c)
+
+---
+
+@nytimes.com
+
+Snow was falling in parts of New York State and Pennsylvania on Tuesday morning, as forecasters warned that a large winter storm barreling into the Northeast could snarl commutes and dump several inches of accumulation in some areas. Here's what to know.
+
+[2025-12-02 21:40:06](https://bsky.app/profile/nytimes.com/post/3m6yxmnzzt322)
 
 ---
 
 @en.afp.com
 
-🇭🇰 Animal welfare groups taking care of rescued pets that firefighters saved from a raging fire at a Hong Kong housing estate. 
-➡️ u.afp.com/Shzu
+🏏 Former England batter Robin Smith has died at the age of 62, English county side Hampshire announced on Tuesday. 
+➡️ u.afp.com/Shzz
 
-[2025-12-02 21:20:02](https://bsky.app/profile/en.afp.com/post/3m6ywirdg5u23)
-
----
-
-@nhknewsunofficial.bsky.social
-
-インドネシアなど 大雨で死者1300人超 行方不明800人以上
-https://news.web.nhk/newsweb/na/na-k10014991401000
-
-[2025-12-02 21:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ywfbcmjb2j)
+[2025-12-02 21:40:01](https://bsky.app/profile/en.afp.com/post/3m6yxmjjabt2u)
 
 ---
 
 @cnbc.com
 
-YouTube's new AI deepfake tracking tool is alarming experts and creators
+Michael and Susan Dell to donate $6.25 billion to fund Trump Accounts for 25 million U.S. kids
 
-[2025-12-02 21:16:50](https://bsky.app/profile/cnbc.com/post/3m6ywd2w6sx2r)
+[2025-12-02 21:36:22](https://bsky.app/profile/cnbc.com/post/3m6yxfy7v6v2y)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@reuters.com
 
-Bulgaria ditches budget plan after tens of thousands join protests
+Sri Lanka grapples with trauma, loss after deadly cyclone that killed hundreds reut.rs/4pHNMey
 
-[2025-12-02 21:15:51](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6ywbd2ui22m)
+[2025-12-02 21:35:07](https://bsky.app/profile/reuters.com/post/3m6yxdrfujo26)
 
 ---
 
