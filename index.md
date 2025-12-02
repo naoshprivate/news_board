@@ -1,9 +1,9 @@
-# [2025-12-02 23:30 updated](2025_12_02.md)
+# [2025-12-02 23:50 updated](2025_12_02.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">OBR board member says Reeves did not mislead public on Budget on.ft.com/3Ka0h3H <a href="https://bsky.app/profile/financialtimes.com/post/3m6z5lz4usy2j" target="_blank">financialtimes.com</a> (2025-12-02 23:27:07)</span><span style="padding-right:50px;">European banks led by BNP, ING push ahead on euro stablecoin plan reut.rs/48LjjXn <a href="https://bsky.app/profile/reuters.com/post/3m6z5ihkyc62d" target="_blank">reuters.com</a> (2025-12-02 23:25:07)</span><span style="padding-right:50px;">Four people were arrested over the hacking of 120,000 home security cameras in South Korea, whose footage was used to make sexually exploitative material, the country's National Police Agency said Monday. <a href="https://bsky.app/profile/nytimes.com/post/3m6z5idh3ua2h" target="_blank">nytimes.com</a> (2025-12-02 23:25:03)</span><span style="padding-right:50px;">台湾 頼総統 予備役の無人機訓練を視察 防衛力強化の方針示す https://news.web.nhk/newsweb/na/na-k10014992341000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6z5gmor2f2r" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-02 23:24:03)</span><span style="padding-right:50px;">Billionaires Michael and Susan Dell pledged $6.25 billion to provide 25 million American children an incentive to claim the new investment accounts for children created as part of President Donald Trump’s tax and spending legislation. <a href="https://bsky.app/profile/apnews.com/post/3m6z5av62jn22" target="_blank">apnews.com</a> (2025-12-02 23:20:53)</span>
+<span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:静岡県東部, 深さ:10km マグニチュード:2.4, 最大震度:3 📍https://www.google.com/maps?q=35.3,138.7&ll=35.3,138.7&z=7&t=h 地震発生日時:2025-12-02 23:44頃 (10倍速▶150s→15s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m6z6t3foc62l" target="_blank">sokuho.news</a> (2025-12-02 23:48:57)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  23時44分頃、静岡県で最大震度3の地震を観測しました。 震源:静岡県東部, 深さ:10km, 規模:M2.4 この地震による津波の心配はありません。 (2025-12-02 23:48:27) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m6z6samysn2q" target="_blank">sokuho.news</a> (2025-12-02 23:48:29)</span><span style="padding-right:50px;">Crypto sell-off threatens to take out this year's biggest stock market supporter: the retail trader <a href="https://bsky.app/profile/cnbc.com/post/3m6z6rmya3t2j" target="_blank">cnbc.com</a> (2025-12-02 23:48:09)</span><span style="padding-right:50px;">🔔気象庁より【震源速報】です。  23時44分頃、静岡県東部(深さ:10km) を震源とする M2.4 の地震を観測しました。 この地震による津波の心配はありません。 (2025-12-02 23:47:52) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/02/2025-12-02-23-44-57.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3m6z6r67wtc2p" target="_blank">sokuho.news</a> (2025-12-02 23:47:53)</span><span style="padding-right:50px;">Breaking News: Juan Orlando Hernández, a Honduran ex-president convicted for drug trafficking, was freed from prison after a Trump pardon. <a href="https://bsky.app/profile/nytimes.com/post/3m6z6qiyidy2h" target="_blank">nytimes.com</a> (2025-12-02 23:47:31)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49303.45 (🔻191.13 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47456.85 (🔺39.94 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23275.92 (🔺103.58 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 181.71 (🔻0.01 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 156.00 (🔺0.58 : 2025-12-02)</span>
+<span style="padding-right:50px;">NIKKEI: 49303.45 (🔻191.13 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47303.09 (🔻113.82 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23456.82 (🔺77.07 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 184.88 (🔺3.15 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 156.00 (🔺0.58 : 2025-12-02)</span>
   </div>
 </div>
 
@@ -32,96 +32,117 @@
 
 ## News Headlines
 
-1. 欧州銀行、ユーロステーブルコイン計画を推進
-2. 韓国でホームセキュリティカメラ12万台ハッキング、4人逮捕
-3. 台湾 頼総統、予備役の無人機訓練を視察
-4. デジタル資産財務省、暗号資産の最新の誇大広告か？
-5. トランプ氏の特使と義理の息子、プーチン大統領と会談へ
-6. 東京エレクトロン子会社を起訴 国家安全法違反などで 台湾検察
+1. 静岡県東部で震度3の地震発生、津波の心配なし
+2. ホンジュラス元大統領、麻薬密売で有罪判決後トランプ大統領の恩赦で釈放
+3. MongoDB株、AIとクラウドデータベースプラットフォームの成長で25%急騰
+4. マイケル・デル、トランプ大統領の子供向け貯蓄口座に62.5億ドルを寄付
+5. ロシア、東部要衝掌握と発表、米ロ会談前に優位性誇示か
+6. 台湾 頼総統、予備役の無人機訓練を視察、防衛力強化の方針示す
 
 ----
 
-@financialtimes.com
+@sokuho.news
 
-OBR board member says Reeves did not mislead public on Budget on.ft.com/3Ka0h3H
+🔔防災科研より【強震モニタ】動画です。
 
-[2025-12-02 23:27:07](https://bsky.app/profile/financialtimes.com/post/3m6z5lz4usy2j)
+震源:静岡県東部, 深さ:10km
+マグニチュード:2.4, 最大震度:3
+📍https://www.google.com/maps?q=35.3,138.7&ll=35.3,138.7&z=7&t=h
+地震発生日時:2025-12-02 23:44頃
+(10倍速▶150s→15s) #地震
+
+[2025-12-02 23:48:57](https://bsky.app/profile/sokuho.news/post/3m6z6t3foc62l)
 
 ---
 
-@reuters.com
+@sokuho.news
 
-European banks led by BNP, ING push ahead on euro stablecoin plan reut.rs/48LjjXn
+🔔気象庁より【地震速報】です。
 
-[2025-12-02 23:25:07](https://bsky.app/profile/reuters.com/post/3m6z5ihkyc62d)
+23時44分頃、静岡県で最大震度3の地震を観測しました。
+震源:静岡県東部, 深さ:10km, 規模:M2.4
+この地震による津波の心配はありません。
+(2025-12-02 23:48:27) #地震
+
+[2025-12-02 23:48:29](https://bsky.app/profile/sokuho.news/post/3m6z6samysn2q)
+
+---
+
+@cnbc.com
+
+Crypto sell-off threatens to take out this year's biggest stock market supporter: the retail trader
+
+[2025-12-02 23:48:09](https://bsky.app/profile/cnbc.com/post/3m6z6rmya3t2j)
+
+---
+
+@sokuho.news
+
+🔔気象庁より【震源速報】です。
+
+23時44分頃、静岡県東部(深さ:10km) を震源とする M2.4 の地震を観測しました。
+この地震による津波の心配はありません。
+(2025-12-02 23:47:52) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/02/2025-12-02-23-44-57.html?xlarge_image=1
+
+[2025-12-02 23:47:53](https://bsky.app/profile/sokuho.news/post/3m6z6r67wtc2p)
 
 ---
 
 @nytimes.com
 
-Four people were arrested over the hacking of 120,000 home security cameras in South Korea, whose footage was used to make sexually exploitative material, the country's National Police Agency said Monday.
+<strong><span style="color: red;">Breaking News</span>: Juan Orlando Hernández, a Honduran ex-president convicted for drug trafficking, was freed from prison after a Trump pardon.</strong>
 
-[2025-12-02 23:25:03](https://bsky.app/profile/nytimes.com/post/3m6z5idh3ua2h)
-
----
-
-@nhknewsunofficial.bsky.social
-
-台湾 頼総統 予備役の無人機訓練を視察 防衛力強化の方針示す
-https://news.web.nhk/newsweb/na/na-k10014992341000
-
-[2025-12-02 23:24:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6z5gmor2f2r)
+[2025-12-02 23:47:31](https://bsky.app/profile/nytimes.com/post/3m6z6qiyidy2h)
 
 ---
 
-@apnews.com
+@sokuho.news
 
-Billionaires Michael and Susan Dell pledged $6.25 billion to provide 25 million American children an incentive to claim the new investment accounts for children created as part of President Donald Trump’s tax and spending legislation.
+🔔NHKより【地震速報】です。
 
-[2025-12-02 23:20:53](https://bsky.app/profile/apnews.com/post/3m6z5av62jn22)
+■震度3■
+静岡東部
+(2025-12-02 23:44) #地震
+
+[2025-12-02 23:47:27](https://bsky.app/profile/sokuho.news/post/3m6z6qfevmb2m)
 
 ---
 
-@en.afp.com
+@sokuho.news
 
-🌏 Some flood-hit regions of Southeast Asia experienced their heaviest November rains since 2012, according to an AFP analysis, as climate change intensifies seasonal weather patterns. 
-➡️ u.afp.com/ShKh
+🔔気象庁より【震度速報】です。
 
-[2025-12-02 23:20:08](https://bsky.app/profile/en.afp.com/post/3m6z57jjktg2k)
+23時44分頃、静岡県で最大震度3の地震を観測しました。
+今後の情報に注意してください。
+(2025-12-02 23:47:11) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/02/2025-12-02-23-44-57.html?xlarge_image=1
+
+[2025-12-02 23:47:14](https://bsky.app/profile/sokuho.news/post/3m6z6pyu5yw24)
+
+---
+
+@cnbc.com
+
+MongoDB stock skyrockets 25% on AI, cloud database platform growth
+
+[2025-12-02 23:47:04](https://bsky.app/profile/cnbc.com/post/3m6z6pp4w7d2j)
 
 ---
 
 @reuters.com
 
-Topps Tiles incoming CEO faces slowing sales, profit delay at key unit reut.rs/4otfNFE
+India's Fireside Ventures raises $253 million for fourth fund reut.rs/4ovHIVw
 
-[2025-12-02 23:15:10](https://bsky.app/profile/reuters.com/post/3m6z4wntdgv2o)
-
----
-
-@cnbc.com
-
-Former cyber spy raises $60 million to fight AI threats
-
-[2025-12-02 23:14:57](https://bsky.app/profile/cnbc.com/post/3m6z4wb5ujh2q)
-
----
-
-@wsj.com
-
-Defense Secretary Pete Hegseth is facing one of his toughest tests yet over boat strikes in the Caribbean and Pacific.
-
-Damian Paletta brings you the latest news, information and analysis on what’s driving D.C. in the WSJ Politics newsletter.
-
-[2025-12-02 23:13:26](https://bsky.app/profile/wsj.com/post/3m6z4tkib472w)
+[2025-12-02 23:45:12](https://bsky.app/profile/reuters.com/post/3m6z6medtrn2n)
 
 ---
 
 @cnbc.com
 
-Apartment rents drop further, with vacancies at record high
+Michael Burry calls Tesla 'ridiculously overvalued' and knocks tech industry for a widely used practice
 
-[2025-12-02 23:12:47](https://bsky.app/profile/cnbc.com/post/3m6z4sfgly52e)
+[2025-12-02 23:44:51](https://bsky.app/profile/cnbc.com/post/3m6z6lqi2iz2h)
 
 ---
 
