@@ -1,9 +1,9 @@
-# [2025-12-02 22:10 updated](2025_12_02.md)
+# [2025-12-02 22:30 updated](2025_12_02.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Officially, the search for a new Federal Reserve chair is still under way. Unofficially, the process seems to be all but over, with Presi dent Trump appearing to favor Kevin Hassett. <a href="https://bsky.app/profile/wsj.com/post/3m6yzaush5324" target="_blank">wsj.com</a> (2025-12-02 22:09:18)</span><span style="padding-right:50px;">Maxwell rules himself out of IPL 2026 auctions reut.rs/3Xuq4qc <a href="https://bsky.app/profile/reuters.com/post/3m6yyzj3ge22y" target="_blank">reuters.com</a> (2025-12-02 22:05:11)</span><span style="padding-right:50px;">A U.S. official disputes the White House account of the deadly Caribbean boat strike. And, a person familiar with the National Guard shooting suspect says he was suffering a personal crisis. n.pr/441uZTc <a href="https://bsky.app/profile/npr.org/post/3m6yyzeiohh2q" target="_blank">npr.org</a> (2025-12-02 22:05:06)</span><span style="padding-right:50px;">小泉防衛相“寄付 上限超えた額は返金した 再発防止に努める” https://news.web.nhk/newsweb/na/na-k10014992241000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6yyvqwhfj23" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-02 22:03:03)</span><span style="padding-right:50px;">LIVE: Luigi Mangione due in court ahead of trial youtube.com/live/xspL87f... <a href="https://bsky.app/profile/reuters.com/post/3m6yyuvp5lc22" target="_blank">reuters.com</a> (2025-12-02 22:02:36)</span>
+<span style="padding-right:50px;">Legado in Shoreditch takes Best New Opening for 2025 and St John wins the Judge's Choice. Find out who else triumphed at the inaugural FT Weekend Business Lunch Awards, hosted in London by our critic Jay Rayner on.ft.com/4ixBlzB <a href="https://bsky.app/profile/financialtimes.com/post/3m6z2e7vjna26" target="_blank">financialtimes.com</a> (2025-12-02 22:29:04)</span><span style="padding-right:50px;">Barclays chief says Revolut benefits from lack of UK banking licence on.ft.com/4ap7JlW <a href="https://bsky.app/profile/financialtimes.com/post/3m6z2dbneag2n" target="_blank">financialtimes.com</a> (2025-12-02 22:28:32)</span><span style="padding-right:50px;">The price of gold per troy ounce has reached an all-time high in recent weeks. WSJ spent a day in New York’s bustling Diamond District to see who’s cashing in on the gold rush. <a href="https://bsky.app/profile/wsj.com/post/3m6z26uminu2o" target="_blank">wsj.com</a> (2025-12-02 22:26:04)</span><span style="padding-right:50px;">Malaysia tightens nuclear controls under amended law reut.rs/4arAA9l <a href="https://bsky.app/profile/reuters.com/post/3m6z255w4ef27" target="_blank">reuters.com</a> (2025-12-02 22:25:07)</span><span style="padding-right:50px;">From @theathleticfc.bsky.social: Our writers compiled this guide to every country whose spot at the 2026 World Cup is secured, as well as some information on those who still hope to be at FIFA’s big dance. <a href="https://bsky.app/profile/nytimes.com/post/3m6yzzif2x72m" target="_blank">nytimes.com</a> (2025-12-02 22:23:04)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49303.45 (🔻191.13 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47289.33 (🔻291.52 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23275.92 (🔺103.58 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.92 (🔺5.16 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 156.08 (🔺0.66 : 2025-12-02)</span>
+<span style="padding-right:50px;">NIKKEI: 49303.45 (🔻191.13 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47289.33 (🔻291.52 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23275.92 (🔺103.58 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.92 (🔺5.16 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 156.04 (🔺0.62 : 2025-12-02)</span>
   </div>
 </div>
 
@@ -32,102 +32,93 @@
 
 ## News Headlines
 
-1. FRB議長候補、トランプ氏はハセット氏を支持か
-2. 米当局者、カリブ海のボート衝突事件でホワイトハウスの説明に異議
-3. OpenAI、「非常事態」宣言でGoogleとの立場逆転
-4. ナイジェリア国防相、辞任で政府は暴力の増加に直面
-5. デル夫妻、米国の子供2500万人に投資口座を開設へ
-6. インドネシアの洪水と地滑り、死者700人超
+1. レストラン「Legado」が2025年最優秀新規開店賞を受賞
+2. バークレイズCEO、Revolutの銀行免許なしを批判
+3. 金価格が過去最高値を更新
+4. 香港で数十年来最悪の火災、独立委員会が原因調査
+5. 欧州の航空宇宙・防衛産業、売上高が10.1%増加
+6. OpenAI、対Googleで「非常事態」宣言と報道
 
 ----
 
+@financialtimes.com
+
+Legado in Shoreditch takes Best New Opening for 2025 and St John wins the Judge's Choice. Find out who else triumphed at the inaugural FT Weekend Business Lunch Awards, hosted in London by our critic Jay Rayner on.ft.com/4ixBlzB
+
+[2025-12-02 22:29:04](https://bsky.app/profile/financialtimes.com/post/3m6z2e7vjna26)
+
+---
+
+@financialtimes.com
+
+Barclays chief says Revolut benefits from lack of UK banking licence on.ft.com/4ap7JlW
+
+[2025-12-02 22:28:32](https://bsky.app/profile/financialtimes.com/post/3m6z2dbneag2n)
+
+---
+
 @wsj.com
 
-Officially, the search for a new Federal Reserve chair is still under way. Unofficially, the process seems to be all but over, with Presi dent Trump appearing to favor Kevin Hassett.
+The price of gold per troy ounce has reached an all-time high in recent weeks. WSJ spent a day in New York’s bustling Diamond District to see who’s cashing in on the gold rush.
 
-[2025-12-02 22:09:18](https://bsky.app/profile/wsj.com/post/3m6yzaush5324)
-
----
-
-@reuters.com
-
-Maxwell rules himself out of IPL 2026 auctions reut.rs/3Xuq4qc
-
-[2025-12-02 22:05:11](https://bsky.app/profile/reuters.com/post/3m6yyzj3ge22y)
-
----
-
-@npr.org
-
-A U.S. official disputes the White House account of the deadly Caribbean boat strike. And, a person familiar with the National Guard shooting suspect says he was suffering a personal crisis. n.pr/441uZTc
-
-[2025-12-02 22:05:06](https://bsky.app/profile/npr.org/post/3m6yyzeiohh2q)
-
----
-
-@nhknewsunofficial.bsky.social
-
-小泉防衛相“寄付 上限超えた額は返金した 再発防止に努める”
-https://news.web.nhk/newsweb/na/na-k10014992241000
-
-[2025-12-02 22:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6yyvqwhfj23)
+[2025-12-02 22:26:04](https://bsky.app/profile/wsj.com/post/3m6z26uminu2o)
 
 ---
 
 @reuters.com
 
-LIVE: Luigi Mangione due in court ahead of trial youtube.com/live/xspL87f...
+Malaysia tightens nuclear controls under amended law reut.rs/4arAA9l
 
-[2025-12-02 22:02:36](https://bsky.app/profile/reuters.com/post/3m6yyuvp5lc22)
+[2025-12-02 22:25:07](https://bsky.app/profile/reuters.com/post/3m6z255w4ef27)
 
 ---
 
-@nikkei.com
+@nytimes.com
 
-OpenAI、対Google「非常事態」宣言と米報道　3年前と形勢逆転
-www.nikkei.com/article/DGXZQO...
+From @theathleticfc.bsky.social: Our writers compiled this guide to every country whose spot at the 2026 World Cup is secured, as well as some information on those who still hope to be at FIFA’s big dance.
 
-OpenAIのサム・アルトマンCEOがChatGPTの改善を社員に求める「コードレッド（非常事態）」を宣言したことが明らかに。
+[2025-12-02 22:23:04](https://bsky.app/profile/nytimes.com/post/3m6yzzif2x72m)
 
-ChatGPT公開直後の2022年12月には、対話型AIの普及で先を越されたGoogle経営陣が社内でコードレッドを発したと報じられていました。
+---
 
-両社の立場の逆転は、OpenAIの先行者優位が揺らぐ現状を象徴します。
+@nbcnews.com
 
-[2025-12-02 22:01:58](https://bsky.app/profile/nikkei.com/post/3m6yytqwzy32t)
+Tens of thousands of people gather in the Lebanese capital to witness Pope Leo’s message of unity to a shattered city and a fractured state.
+
+[2025-12-02 22:20:07](https://bsky.app/profile/nbcnews.com/post/3m6yzu7fx742j)
+
+---
+
+@en.afp.com
+
+🇭🇰 Hong Kong's leader said an independent committee will investigate the causes of the city's deadliest fire in decades, after authorities found substandard building materials had accelerated the blaze. 
+➡️ u.afp.com/Shzr
+
+[2025-12-02 22:20:02](https://bsky.app/profile/en.afp.com/post/3m6yzu2zijh2d)
+
+---
+
+@cbsnews.com
+
+A man pleaded guilty on Monday to second-degree murder and other charges in the killing of a University of Mississippi graduate who was prominent in the LGBTQ community.  
+
+[2025-12-02 22:19:45](https://bsky.app/profile/cbsnews.com/post/3m6yztkwtsq2z)
 
 ---
 
 @reuters.com
 
-Nigeria's defence minister quits as government faces rising violence reut.rs/4pdXfL3
+Europe's aerospace and defence turnover jumped 10.1% in 2024 to $378 billion, industry body ASD says reut.rs/4oFkXPi
 
-[2025-12-02 22:01:01](https://bsky.app/profile/reuters.com/post/3m6yys2rtsc2y)
-
----
-
-@usatoday.com
-
-Rahmanullah Lakanwal, the Afghan man accused of shooting two National Guardsmen in Washington, served for years in top-secret, CIA-led units.
-
-[2025-12-02 22:00:50](https://bsky.app/profile/usatoday.com/post/3m6yyrqs3yk2z)
+[2025-12-02 22:15:13](https://bsky.app/profile/reuters.com/post/3m6yzlhpnj42r)
 
 ---
 
-@bloomberg.com
+@cnbc.com
 
-🎧 Get ready: 2025 was a chaotic year for UK assets, but what's next? 
+Apple's AI leadership, Costco's tariff lawsuit, Cyber Monday Shopify outage and more in Morning Squawk
 
-The Markets Today team take your questions ⬇️
-
-[2025-12-02 22:00:39](https://bsky.app/profile/bloomberg.com/post/3m6yyrfxxnt2i)
-
----
-
-@cnn.com
-
-Tuesday's special election in Tennessee's 7th Congressional District, normally a conservative stronghold, is giving Democrats hope that their recently successful message of affordability can help them spring a major upset. https://cnn.it/48dz2OL
-
-[2025-12-02 22:00:33](https://bsky.app/profile/cnn.com/post/3m6yyraci3w2f)
+[2025-12-02 22:14:55](https://bsky.app/profile/cnbc.com/post/3m6yzkwb2aq2e)
 
 ---
 
