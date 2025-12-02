@@ -1,9 +1,9 @@
-# [2025-12-02 19:10 updated](2025_12_02.md)
+# [2025-12-02 19:30 updated](2025_12_02.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">【地震速報】北海道で震度4 https://news.web.nhk/newsweb/na/na-k10014992111000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6yp6mbuw324" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-02 19:09:02)</span><span style="padding-right:50px;">Palestinians in Gaza celebrated the moment Palestine scored a winning goal at the Arab Cup opening match against Qatar. <a href="https://bsky.app/profile/aljazeera.com/post/3m6yp5zwpss2s" target="_blank">aljazeera.com</a> (2025-12-02 19:08:45)</span><span style="padding-right:50px;">Eurozone inflation unexpectedly rises to 2.2% in November on.ft.com/4iwoCgF <a href="https://bsky.app/profile/financialtimes.com/post/3m6yp55npjw2v" target="_blank">financialtimes.com</a> (2025-12-02 19:08:16)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:根室半島南東沖, 深さ:40km マグニチュード:5.2, 最大震度:4 📍https://www.google.com/maps?q=43.0,145.5&ll=43.0,145.5&z=7&t=h 地震発生日時:2025-12-02 19:03頃 (10倍速▶240s→24s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m6yp55yo4s2e" target="_blank">sokuho.news</a> (2025-12-02 19:08:15)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  19時3分頃、北海道などで最大震度4の地震を観測しました。 震源:根室半島南東沖, 深さ:40km, 規模:M5.2 この地震による津波の心配はありません。 (2025-12-02 19:07:31) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m6yp3vdnhm2l" target="_blank">sokuho.news</a> (2025-12-02 19:07:33)</span>
+<span style="padding-right:50px;">日本ハム 西川遙輝と来季の契約に合意 5年ぶりに復帰へ https://news.web.nhk/newsweb/na/na-k10014992041000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6yq6wm64n2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-02 19:27:07)</span><span style="padding-right:50px;">北海道東部で震度4 津波の心配なし https://news.web.nhk/newsweb/na/na-k10014992111000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6yq6riz5l2t" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-02 19:27:02)</span><span style="padding-right:50px;">BREAKING: The Prada Group has officially purchased Milan fashion rival Versace for nearly $1.4 billion. <a href="https://bsky.app/profile/apnews.com/post/3m6yq56sd3f27" target="_blank">apnews.com</a> (2025-12-02 19:26:11)</span><span style="padding-right:50px;">Disney’s past attempts to pick a successor to CEO Bob Iger have been less than magical. Now the company is trying to write a happier ending. <a href="https://bsky.app/profile/wsj.com/post/3m6yq4q3emb2r" target="_blank">wsj.com</a> (2025-12-02 19:25:55)</span><span style="padding-right:50px;">President Vladimir Putin of Russia is set to host Steve Witkoff, President Trump’s special envoy, in Moscow on Tuesday, as the U.S. pushes for an end to the war in Ukraine. Here's what to know: nyti.ms/3KarqDE <a href="https://bsky.app/profile/nytimes.com/post/3m6yq4evng42m" target="_blank">nytimes.com</a> (2025-12-02 19:25:43)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49303.45 (🔻191.13 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47289.33 (🔻291.52 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23275.92 (🔺103.58 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.92 (🔺5.16 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 155.96 (🔺0.54 : 2025-12-02)</span>
+<span style="padding-right:50px;">NIKKEI: 49303.45 (🔻191.13 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47289.33 (🔻291.52 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23275.92 (🔺103.58 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.92 (🔺5.16 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 156.07 (🔺0.65 : 2025-12-02)</span>
   </div>
 </div>
 
@@ -32,122 +32,96 @@
 
 ## News Headlines
 
-1. 北海道で震度4の地震発生、津波の心配なし
-2. ユーロ圏のインフレ率、11月に予想外の2.2%に上昇
-3. AIによる雇用喪失を懸念、イギリスの若者が熟練工へ転身
-4. 中国から拳銃24丁を密輸か、中国籍の男を逮捕
-5. NASA探査機が持ち帰った小惑星の砂から6種類の糖を検出
-6. 片山さつき財務相が大規模政治資金パーティを開催、大臣規範に抵触か
+1. 西川遙輝、日本ハムに5年ぶり復帰へ
+2. 北海道東部で震度4、津波の心配なし
+3. プラダ、ヴェルサーチを1600億円で買収
+4. ロシア、トランプ特使を迎えウクライナ和平協議へ
+5. インドネシア大雨、死者1200人超・不明800人以上
+6. 住宅ローン減税、5年延長へ 政府調整
 
 ----
 
 @nhknewsunofficial.bsky.social
 
-【地震速報】北海道で震度4
+日本ハム 西川遙輝と来季の契約に合意 5年ぶりに復帰へ
+https://news.web.nhk/newsweb/na/na-k10014992041000
+
+[2025-12-02 19:27:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6yq6wm64n2j)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+北海道東部で震度4 津波の心配なし
 https://news.web.nhk/newsweb/na/na-k10014992111000
 
-[2025-12-02 19:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6yp6mbuw324)
+[2025-12-02 19:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6yq6riz5l2t)
 
 ---
 
-@aljazeera.com
+@apnews.com
 
-Palestinians in Gaza celebrated the moment Palestine scored a winning goal at the Arab Cup opening match against Qatar.
+<strong><span style="color: red;">BREAKING:</span> The Prada Group has officially purchased Milan fashion rival Versace for nearly $1.4 billion.</strong>
 
-[2025-12-02 19:08:45](https://bsky.app/profile/aljazeera.com/post/3m6yp5zwpss2s)
-
----
-
-@financialtimes.com
-
-Eurozone inflation unexpectedly rises to 2.2% in November on.ft.com/4iwoCgF
-
-[2025-12-02 19:08:16](https://bsky.app/profile/financialtimes.com/post/3m6yp55npjw2v)
+[2025-12-02 19:26:11](https://bsky.app/profile/apnews.com/post/3m6yq56sd3f27)
 
 ---
 
-@sokuho.news
+@wsj.com
 
-🔔防災科研より【強震モニタ】動画です。
+Disney’s past attempts to pick a successor to CEO Bob Iger have been less than magical. Now the company is trying to write a happier ending.
 
-震源:根室半島南東沖, 深さ:40km
-マグニチュード:5.2, 最大震度:4
-📍https://www.google.com/maps?q=43.0,145.5&ll=43.0,145.5&z=7&t=h
-地震発生日時:2025-12-02 19:03頃
-(10倍速▶240s→24s) #地震
-
-[2025-12-02 19:08:15](https://bsky.app/profile/sokuho.news/post/3m6yp55yo4s2e)
+[2025-12-02 19:25:55](https://bsky.app/profile/wsj.com/post/3m6yq4q3emb2r)
 
 ---
 
-@sokuho.news
+@nytimes.com
 
-🔔気象庁より【地震速報】です。
+President Vladimir Putin of Russia is set to host Steve Witkoff, President Trump’s special envoy, in Moscow on Tuesday, as the U.S. pushes for an end to the war in Ukraine. Here's what to know: nyti.ms/3KarqDE
 
-19時3分頃、北海道などで最大震度4の地震を観測しました。
-震源:根室半島南東沖, 深さ:40km, 規模:M5.2
-この地震による津波の心配はありません。
-(2025-12-02 19:07:31) #地震
-
-[2025-12-02 19:07:33](https://bsky.app/profile/sokuho.news/post/3m6yp3vdnhm2l)
-
----
-
-@sokuho.news
-
-🔔気象庁より【震源速報】です。
-
-19時3分頃、根室半島南東沖(深さ:40km) を震源とする M5.2 の地震を観測しました。
-この地震による津波の心配はありません。
-(2025-12-02 19:06:24) #地震
-
-[2025-12-02 19:06:25](https://bsky.app/profile/sokuho.news/post/3m6yozume7z2w)
-
----
-
-@sokuho.news
-
-🔔NHKより【地震速報】です。
-
-■震度4■
-釧路中南部 根室北部 根室中部 根室南部
-(2025-12-02 19:03) #地震
-
-[2025-12-02 19:05:10](https://bsky.app/profile/sokuho.news/post/3m6yoxmqwrf2g)
+[2025-12-02 19:25:43](https://bsky.app/profile/nytimes.com/post/3m6yq4evng42m)
 
 ---
 
 @reuters.com
 
-Fearing AI job losses, some young workers in Britain shift towards skilled trades reut.rs/49Ldjiq
+Bank of England eases bank capital requirements in bid to boost growth reut.rs/4ardBv5
 
-[2025-12-02 19:05:10](https://bsky.app/profile/reuters.com/post/3m6yoxmjqn42w)
-
----
-
-@sokuho.news
-
-🔔気象庁より【震度速報】です。
-
-19時3分頃、北海道で最大震度4の地震を観測しました。
-今後の情報に注意してください。
-(2025-12-02 19:04:56) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/02/2025-12-02-19-03-12.html?xlarge_image=1
-
-[2025-12-02 19:04:58](https://bsky.app/profile/sokuho.news/post/3m6yoxbo6yh2x)
+[2025-12-02 19:25:11](https://bsky.app/profile/reuters.com/post/3m6yq3g47wk27)
 
 ---
 
 @sokuho.news
 
-🚨地震発生中❗❗❗❗
+<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>北海道東部で震度4 津波の心配なし</strong><br><strong>(2025-12-02 19:24:16) #地震</strong>
 
-⚠️揺れに警戒してください
+[2025-12-02 19:24:40](https://bsky.app/profile/sokuho.news/post/3m6yq2i6oxu2g)
 
-🔶防災科研/強震モニタ/予測震度画像13🈡
-(2025-12-02 19:04:05) #緊急地震速報
+---
 
-[2025-12-02 19:04:31](https://bsky.app/profile/sokuho.news/post/3m6yowhkynq2q)
+@nhknewsunofficial.bsky.social
+
+大分 大規模火災2週間 今後の住まいなど住民説明会
+https://news.web.nhk/newsweb/na/na-k10014991421000
+
+[2025-12-02 19:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ypzgf2uu2j)
+
+---
+
+@npr.org
+
+A Florida-based company is charging military veterans as much as $20,000 for help with disability claims, even though the VA has said that may be illegal and the service should be free. But so far nobody's stopping the company and others like it. n.pr/4awb0jo
+
+[2025-12-02 19:21:42](https://bsky.app/profile/npr.org/post/3m6ypv6wss32j)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+インドネシアなど 大雨で死者1200人超 行方不明800人以上
+https://news.web.nhk/newsweb/na/na-k10014991401000
+
+[2025-12-02 19:21:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ypu6yo3l26)
 
 ---
 
