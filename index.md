@@ -1,9 +1,9 @@
-# [2025-12-02 13:30 updated](2025_12_02.md)
+# [2025-12-02 13:50 updated](2025_12_02.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】イケアの店舗 来年春に岡山県に初出店 (2025-12-02 13:26:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6y42yl2sv24" target="_blank">sokuho.news</a> (2025-12-02 13:27:02)</span><span style="padding-right:50px;">18歳人口に特別支援学校生含めず 松本文科相「適切でない」 https://news.web.nhk/newsweb/na/na-k10014991761000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6y432jdgp2r" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-02 13:27:02)</span><span style="padding-right:50px;">Kentucky has hired Oregon offensive coordinator Will Stein as their new coach, bringing home someone whose father played for the Wildcats and grew up in the state. <a href="https://bsky.app/profile/apnews.com/post/3m6y3wtg2j62t" target="_blank">apnews.com</a> (2025-12-02 13:24:42)</span><span style="padding-right:50px;">US Justice Dept weighs seeking new indictments of Trump foes Comey and James, sources say reut.rs/3K7oszP <a href="https://bsky.app/profile/reuters.com/post/3m6y3ostxtu27" target="_blank">reuters.com</a> (2025-12-02 13:20:13)</span><span style="padding-right:50px;">A clean comedian walks into a bar: Jim Gaffigan’s “whiskey journey.” 🔗 on.wsj.com/3M87tOm <a href="https://bsky.app/profile/wsj.com/post/3m6y3orbtkb22" target="_blank">wsj.com</a> (2025-12-02 13:20:12)</span>
+<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】イケア 来年春に岡山県に初出店 (2025-12-02 13:45:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6y577ul322y" target="_blank">sokuho.news</a> (2025-12-02 13:47:18)</span><span style="padding-right:50px;">🛎️JNNより【独自】です。  【独自】逃走していた男の身柄確保 東京ディズニーシーのホテルミラコスタ宴会場に刃物を持ち侵入 (2025-12-02 13:39:32) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6y4xeb2xe2m" target="_blank">sokuho.news</a> (2025-12-02 13:42:54)</span><span style="padding-right:50px;">Samsung unveils first multi-folding phone as competition set to heat up reut.rs/4pM4hqf <a href="https://bsky.app/profile/reuters.com/post/3m6y4sjyd4f2k" target="_blank">reuters.com</a> (2025-12-02 13:40:12)</span><span style="padding-right:50px;">「コーン茶」ペットボトル飲料で人気　サントリー参入、ポッカは販売3割増 www.nikkei.com/article/DGXZQO...   コーン茶は韓国発祥のカフェインゼロ茶飲料。とはいえ韓流ブーム頼りではなく、すっきりした甘みと「北海道素材×無糖」で、健康志向を捉えています。   特に20〜30代から支持を集めており、「居酒屋でコーン茶をお酒で割るメニューも出てきた」といいます。 <a href="https://bsky.app/profile/nikkei.com/post/3m6y4dtbqkm2l" target="_blank">nikkei.com</a> (2025-12-02 13:31:58)</span><span style="padding-right:50px;">US threatens to withhold $30.4 million from Minnesota over foreign truck-driver licenses reut.rs/3KswVgP <a href="https://bsky.app/profile/reuters.com/post/3m6y4b532kh22" target="_blank">reuters.com</a> (2025-12-02 13:30:28)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49418.54 (🔻76.04 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47289.33 (🔻291.52 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23275.92 (🔺103.58 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.92 (🔺5.16 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3052.00 (🔻33.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 155.63 (🔺0.21 : 2025-12-02)</span>
+<span style="padding-right:50px;">NIKKEI: 49428.49 (🔻66.09 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47289.33 (🔻291.52 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23275.92 (🔺103.58 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.92 (🔺5.16 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3052.00 (🔻33.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 155.64 (🔺0.22 : 2025-12-02)</span>
   </div>
 </div>
 
@@ -32,14 +32,81 @@
 
 ## News Headlines
 
-1.  イケア、来春岡山県に初出店
-2.  特別支援学校生、18歳人口に含めず 文科相「適切でない」
-3.  安倍元首相銃撃事件、裁判始まる
-4.  富山市で住宅火災、住民2人は無事
-5.  12歳以下のスマホ所有、うつや肥満リスク 米研究
-6.  ドクターイエロー、引退後も人気 廃材お守り完売続出
+1. イケア、来春岡山県に初出店決定
+2. ホテルミラコスタ宴会場に刃物男侵入、身柄確保
+3. サムスン、初のマルチ折りたたみスマホを発表
+4. 松本文科相、特別支援学校生を18歳人口に含めない方針「不適切」
+5. 安倍元首相銃撃事件、第12回公判開始
+6. 富山市寺家で住宅火災、住民2人は無事避難
 
 ----
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】イケア 来年春に岡山県に初出店
+(2025-12-02 13:45:00) #ニュース
+
+[2025-12-02 13:47:18](https://bsky.app/profile/sokuho.news/post/3m6y577ul322y)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【独自】です。
+
+【独自】逃走していた男の身柄確保 東京ディズニーシーのホテルミラコスタ宴会場に刃物を持ち侵入
+(2025-12-02 13:39:32) #ニュース
+
+[2025-12-02 13:42:54](https://bsky.app/profile/sokuho.news/post/3m6y4xeb2xe2m)
+
+---
+
+@reuters.com
+
+Samsung unveils first multi-folding phone as competition set to heat up reut.rs/4pM4hqf
+
+[2025-12-02 13:40:12](https://bsky.app/profile/reuters.com/post/3m6y4sjyd4f2k)
+
+---
+
+@nikkei.com
+
+「コーン茶」ペットボトル飲料で人気　サントリー参入、ポッカは販売3割増
+www.nikkei.com/article/DGXZQO...
+ 
+コーン茶は韓国発祥のカフェインゼロ茶飲料。とはいえ韓流ブーム頼りではなく、すっきりした甘みと「北海道素材×無糖」で、健康志向を捉えています。
+ 
+特に20〜30代から支持を集めており、「居酒屋でコーン茶をお酒で割るメニューも出てきた」といいます。
+
+[2025-12-02 13:31:58](https://bsky.app/profile/nikkei.com/post/3m6y4dtbqkm2l)
+
+---
+
+@reuters.com
+
+US threatens to withhold $30.4 million from Minnesota over foreign truck-driver licenses reut.rs/3KswVgP
+
+[2025-12-02 13:30:28](https://bsky.app/profile/reuters.com/post/3m6y4b532kh22)
+
+---
+
+@aljazeera.com
+
+Thousands rally in Caracas in support of President Nicolas Maduro as concerns grow over potential US military action.
+
+[2025-12-02 13:30:27](https://bsky.app/profile/aljazeera.com/post/3m6y4b3vg6l2h)
+
+---
+
+@nytimes.com
+
+China’s fast-food and beverage brands have an opportunity to expand in the U.S. and escape cutthroat competition at home.
+
+[2025-12-02 13:30:02](https://bsky.app/profile/nytimes.com/post/3m6y4adyd5524)
+
+---
 
 @sokuho.news
 
@@ -66,70 +133,6 @@ https://news.web.nhk/newsweb/na/na-k10014991761000
 Kentucky has hired Oregon offensive coordinator Will Stein as their new coach, bringing home someone whose father played for the Wildcats and grew up in the state.
 
 [2025-12-02 13:24:42](https://bsky.app/profile/apnews.com/post/3m6y3wtg2j62t)
-
----
-
-@reuters.com
-
-US Justice Dept weighs seeking new indictments of Trump foes Comey and James, sources say reut.rs/3K7oszP
-
-[2025-12-02 13:20:13](https://bsky.app/profile/reuters.com/post/3m6y3ostxtu27)
-
----
-
-@wsj.com
-
-A clean comedian walks into a bar: Jim Gaffigan’s “whiskey journey.” 🔗 on.wsj.com/3M87tOm
-
-[2025-12-02 13:20:12](https://bsky.app/profile/wsj.com/post/3m6y3orbtkb22)
-
----
-
-@nhknewsunofficial.bsky.social
-
-安倍元首相銃撃事件の12回目裁判始まる 山上被告への質問
-https://news.web.nhk/newsweb/na/na-k10014991601000
-
-[2025-12-02 13:18:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6y3kx3nmd2p)
-
----
-
-@en.afp.com
-
-Pope brings message of hope to Lebanon.
-
-On Monday, the pontiff called on Christian and Muslim religious leaders gathered for an interreligious meeting to combat intolerance and violence 
-
-u.afp.com/ShRb
-
-[2025-12-02 13:15:14](https://bsky.app/profile/en.afp.com/post/3m6y3fuxx6k2e)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】富山市寺家で住宅火災 消防が消火活動中 住民2人は逃げ出して無事
-(2025-12-02 13:13) #ニュース
-
-[2025-12-02 13:13:22](https://bsky.app/profile/sokuho.news/post/3m6y3ck5gpp2h)
-
----
-
-@reuters.com
-
-Amazon to deliver essentials, groceries in 30 minutes in parts of Seattle, Philadelphia reut.rs/3KlLkeY
-
-[2025-12-02 13:10:11](https://bsky.app/profile/reuters.com/post/3m6y34udvik22)
-
----
-
-@reuters.com
-
-The White House defended a US admiral's decision to conduct multiple strikes on an alleged Venezuelan drug-smuggling vessel in September, saying he had Defense Secretary Pete Hegseth's authorization, even as critics questioned the legality of a strike on survivors reut.rs/3KabDVo
-
-[2025-12-02 13:09:14](https://bsky.app/profile/reuters.com/post/3m6y335jv5c27)
 
 ---
 
