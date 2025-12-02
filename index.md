@@ -1,9 +1,9 @@
-# [2025-12-02 08:50 updated](2025_12_02.md)
+# [2025-12-02 09:10 updated](2025_12_02.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Exclusive: US Republican senator calls for DOJ and Homeland Security to investigate Shein, Temu for counterfeiting reut.rs/43YAqm2 <a href="https://bsky.app/profile/reuters.com/post/3m6xmd3m25g27" target="_blank">reuters.com</a> (2025-12-02 08:45:14)</span><span style="padding-right:50px;">A son of the infamous Mexican drug lord Joaquin "El Chapo" Guzman pleaded guilty Monday in Chicago to a narcotics trafficking charge and continuing criminal enterprise. ➡️ u.afp.com/ShRp <a href="https://bsky.app/profile/en.afp.com/post/3m6xmcq3iaa2k" target="_blank">en.afp.com</a> (2025-12-02 08:45:02)</span><span style="padding-right:50px;">Some of America’s best starting salaries are at sea, with graduates straight out of the country’s maritime academies able to earn more than $200,000. And they aren’t luring enough workers. on.wsj.com/48ussSQ <a href="https://bsky.app/profile/wsj.com/post/3m6xmcq5tbp2a" target="_blank">wsj.com</a> (2025-12-02 08:45:02)</span><span style="padding-right:50px;">Why Jim Cramer thinks the AI trade is breaking up <a href="https://bsky.app/profile/cnbc.com/post/3m6xmbe2ijz2r" target="_blank">cnbc.com</a> (2025-12-02 08:44:16)</span><span style="padding-right:50px;">White House says admiral approved second strike on boat from Venezuela, defends attack as lawful reut.rs/4rx2TsY <a href="https://bsky.app/profile/reuters.com/post/3m6xm2a2xgb2y" target="_blank">reuters.com</a> (2025-12-02 08:40:16)</span>
+<span style="padding-right:50px;">Apple replaces head of AI with executive poached from Microsoft on.ft.com/4rxs9Q0 <a href="https://bsky.app/profile/financialtimes.com/post/3m6xnofrop72n" target="_blank">financialtimes.com</a> (2025-12-02 09:09:27)</span><span style="padding-right:50px;">Guardsman who survived Washington shooting gives thumbs up, still in serious condition reut.rs/4pLKsiP <a href="https://bsky.app/profile/reuters.com/post/3m6xngsz5d226" target="_blank">reuters.com</a> (2025-12-02 09:05:13)</span><span style="padding-right:50px;">Cramer's Lightning Round: Affirm over Klarna <a href="https://bsky.app/profile/cnbc.com/post/3m6xnc4louq2y" target="_blank">cnbc.com</a> (2025-12-02 09:02:35)</span><span style="padding-right:50px;">Five years before retirement, Bob Schrader bought a Christmas tree farm in Hatfield, Massachusetts.   The farm hadn’t been operational for nearly a decade and was “fairly overgrown” when Bob Schrader bought it in 2010 for $215,000. <a href="https://bsky.app/profile/cnbc.com/post/3m6xn6e4kgs2r" target="_blank">cnbc.com</a> (2025-12-02 09:00:29)</span><span style="padding-right:50px;">Trump to host leaders of Rwanda, Congo on Thursday reut.rs/48uZMJA <a href="https://bsky.app/profile/reuters.com/post/3m6xn6b5w3l2i" target="_blank">reuters.com</a> (2025-12-02 09:00:26)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49303.28 (🔻1015.31 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47289.33 (🔻291.52 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23275.92 (🔺103.58 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.92 (🔺5.22 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3082.00 (🔻50.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.53 (🔺0.11 : 2025-12-01)</span>
+<span style="padding-right:50px;">NIKKEI: 49303.28 (🔻1015.31 : 2025-12-01)</span><span style="padding-right:50px;">DOW: 47289.33 (🔻291.52 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23275.92 (🔺103.58 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.92 (🔺5.22 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3082.00 (🔻50.00 : 2025-12-01)</span><span style="padding-right:50px;">USD/JPY: 155.51 (🔺0.09 : 2025-12-02)</span>
   </div>
 </div>
 
@@ -32,102 +32,94 @@
 
 ## News Headlines
 
-1. 米共和党議員、SheinとTemuの偽造品問題を調査するよう司法省と国土安全保障省に要請
-2. 麻薬王「エル・チャポ」の息子、麻薬密売で有罪認める
-3. 海事アカデミー卒業生の初任給は高水準、人材不足が深刻
-4. ホワイトハウス、ベネズエラ船への攻撃を擁護、合法と主張
-5. カリフォルニアの誕生日パーティーで銃撃事件、多数負傷
-6. 米運輸保安庁、身分証明書不備の旅行者に2月から45ドル徴収
+1.  Apple、AI部門のトップをマイクロソフトから引き抜き
+2.  銃撃事件生存の警備員、親指を立てるも重体
+3.  トランプ大統領、ルワンダとコンゴの首脳を木曜日に招待
+4.  「エル・チャポ」の息子、麻薬密売で罪を認める
+5.  米共和党上院議員、SheinとTemuの偽造品問題を捜査要請
+6.  身分証明書がない米国旅行者、2月から45ドルの手数料
 
 ----
 
+@financialtimes.com
+
+Apple replaces head of AI with executive poached from Microsoft on.ft.com/4rxs9Q0
+
+[2025-12-02 09:09:27](https://bsky.app/profile/financialtimes.com/post/3m6xnofrop72n)
+
+---
+
 @reuters.com
 
-Exclusive: US Republican senator calls for DOJ and Homeland Security to investigate Shein, Temu for counterfeiting reut.rs/43YAqm2
+Guardsman who survived Washington shooting gives thumbs up, still in serious condition reut.rs/4pLKsiP
 
-[2025-12-02 08:45:14](https://bsky.app/profile/reuters.com/post/3m6xmd3m25g27)
-
----
-
-@en.afp.com
-
-A son of the infamous Mexican drug lord Joaquin "El Chapo" Guzman pleaded guilty Monday in Chicago to a narcotics trafficking charge and continuing criminal enterprise.
-➡️ u.afp.com/ShRp
-
-[2025-12-02 08:45:02](https://bsky.app/profile/en.afp.com/post/3m6xmcq3iaa2k)
-
----
-
-@wsj.com
-
-Some of America’s best starting salaries are at sea, with graduates straight out of the country’s maritime academies able to earn more than $200,000. And they aren’t luring enough workers. on.wsj.com/48ussSQ
-
-[2025-12-02 08:45:02](https://bsky.app/profile/wsj.com/post/3m6xmcq5tbp2a)
+[2025-12-02 09:05:13](https://bsky.app/profile/reuters.com/post/3m6xngsz5d226)
 
 ---
 
 @cnbc.com
 
-Why Jim Cramer thinks the AI trade is breaking up
+Cramer's Lightning Round: Affirm over Klarna
 
-[2025-12-02 08:44:16](https://bsky.app/profile/cnbc.com/post/3m6xmbe2ijz2r)
+[2025-12-02 09:02:35](https://bsky.app/profile/cnbc.com/post/3m6xnc4louq2y)
+
+---
+
+@cnbc.com
+
+Five years before retirement, Bob Schrader bought a Christmas tree farm in Hatfield, Massachusetts. 
+
+The farm hadn’t been operational for nearly a decade and was “fairly overgrown” when Bob Schrader bought it in 2010 for $215,000.
+
+[2025-12-02 09:00:29](https://bsky.app/profile/cnbc.com/post/3m6xn6e4kgs2r)
 
 ---
 
 @reuters.com
 
-White House says admiral approved second strike on boat from Venezuela, defends attack as lawful reut.rs/4rx2TsY
+Trump to host leaders of Rwanda, Congo on Thursday reut.rs/48uZMJA
 
-[2025-12-02 08:40:16](https://bsky.app/profile/reuters.com/post/3m6xm2a2xgb2y)
+[2025-12-02 09:00:26](https://bsky.app/profile/reuters.com/post/3m6xn6b5w3l2i)
+
+---
+
+@usatoday.com
+
+Chicago and Styx will team for their first joint tour this summer. Here's where they'll play and how to get tickets.
+
+[2025-12-02 09:00:23](https://bsky.app/profile/usatoday.com/post/3m6xn66vtkv2d)
+
+---
+
+@washingtonpost.com
+
+Lawyers for the entertainment industry and internet service providers faced off at the Supreme Court in a case over pirated music that could have a major impact on how millions of Americans use the internet.
+
+[2025-12-02 09:00:15](https://bsky.app/profile/washingtonpost.com/post/3m6xn5wrpeh2q)
+
+---
+
+@bloomberg.com
+
+President Trump signed into law a measure authorizing billions of dollars in federal funding to help prevent drug overdoses and aid patients recovering from addiction, according to the White House
+
+[2025-12-02 09:00:14](https://bsky.app/profile/bloomberg.com/post/3m6xn5whcxb2v)
+
+---
+
+@apnews.com
+
+The Transportation Security Administration has announced that U.S. air travelers without a REAL ID will face a $45 fee starting in February.
+
+[2025-12-02 09:00:10](https://bsky.app/profile/apnews.com/post/3m6xn5s36332y)
 
 ---
 
 @nbcnews.com
 
-Luigi Mangione was on “constant watch” after his arrest in Pennsylvania last year in part because the state prison where he was held wanted to avoid an “Epstein-style situation,” a corrections officer testifies.
+A man who climbed over 18 feet to enter a lion's enclosure was fatally attacked in front of horrified zoo visitors.
 
-[2025-12-02 08:40:11](https://bsky.app/profile/nbcnews.com/post/3m6xm22t6fz22)
-
----
-
-@reuters.com
-
-Shopify resolves login issues that impacted thousands of users on Cyber Monday reut.rs/4oyqJCb
-
-[2025-12-02 08:35:11](https://bsky.app/profile/reuters.com/post/3m6xlr4ly7w2k)
-
----
-
-@usatoday.com
-
-Read more: bit.ly/3Y5J3aI
-
-[2025-12-02 08:35:07](https://bsky.app/profile/usatoday.com/post/3m6xlqyjo2x2m)
-
----
-
-@usatoday.com
-
-Are United States military airstrikes on Venezuela imminent?
-
-Over the weekend, President Donald Trump issued a warning to avoid airspace over the South American country. Trump has already signaled forthcoming land attacks in Venezuela, located along the continent's northern coast.
-
-[2025-12-02 08:35:03](https://bsky.app/profile/usatoday.com/post/3m6xlquoyw42u)
-
----
-
-@nikkei.com
-
-ニューヨーク、市内3カ所でカジノ計画　メッツ球場など2030年にも
-www.nikkei.com/article/DGXZQO...
-
-アメリカの他の東海岸の州で合法化が相次ぐなか、州外に流出していた観光需要や税収を取り戻す狙いです。
-
-ただギャンブル依存症や地元経済への影響を懸念し、反対する声も根強くあります。
-
-#ニュース
-
-[2025-12-02 08:31:57](https://bsky.app/profile/nikkei.com/post/3m6xlle5hze2l)
+[2025-12-02 09:00:09](https://bsky.app/profile/nbcnews.com/post/3m6xn5rkkvy2h)
 
 ---
 
