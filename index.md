@@ -1,9 +1,9 @@
-# [2025-12-02 10:10 updated](2025_12_02.md)
+# [2025-12-02 10:30 updated](2025_12_02.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The United States is not commemorating World AIDS Day this year as it has done for decades in the past.  Observance of the day was started by the World Health Organization, from which the Trump administration withdrew this year. https://cnn.it/4pHLpZ9 <a href="https://bsky.app/profile/cnn.com/post/3m6xqvn4rfm2w" target="_blank">cnn.com</a> (2025-12-02 10:07:11)</span><span style="padding-right:50px;">Humans' love of alcohol can be traced back to our primate ancestors, research shows on.wsj.com/4oyqhnt <a href="https://bsky.app/profile/wsj.com/post/3m6xquygf6y2t" target="_blank">wsj.com</a> (2025-12-02 10:06:49)</span><span style="padding-right:50px;">「ロシア国境に壁を築け」　ヨーロッパ、ハイブリッド攻撃に戦時モード www.nikkei.com/article/DGXZQO...   国の記章を付けず、覆面の兵士がエストニアで目撃されたのは10月。ウクライナのクリミア半島に先陣を切って侵略したロシア軍特殊部隊を想起させ、緊張が高まりました。   インフラ破壊工作やサイバー攻撃、選挙介入、偽情報の流布――。ロシアはこれらを組み合わせた攻撃を展開しています。   米シンクタンクの戦争研究所はすでに「フェーズ0」＝戦争の初期段階にあると分析しています。 <a href="https://bsky.app/profile/nikkei.com/post/3m6xqmcsaob2t" target="_blank">nikkei.com</a> (2025-12-02 10:01:58)</span><span style="padding-right:50px;">There are many things you can do to keep your brain sharp, but there's one practice that longevity doctor Dr. Avinish Reddy says is overlooked. <a href="https://bsky.app/profile/cnbc.com/post/3m6xqkvgpzo2e" target="_blank">cnbc.com</a> (2025-12-02 10:01:11)</span><span style="padding-right:50px;">OpenAI takes stake in Thrive Holdings in latest enterprise AI push reut.rs/4ouTcsv <a href="https://bsky.app/profile/reuters.com/post/3m6xqkrtag222" target="_blank">reuters.com</a> (2025-12-02 10:01:07)</span>
+<span style="padding-right:50px;">SCOOP: From a U.S. prison cell, Honduras' ex-president secured a likely pardon for drug trafficking thanks to a letter he penned praising President Trump — whom he called "Your Excellency" — and a persistent lobbying campaign by longtime Trump pal Roger Stone. <a href="https://bsky.app/profile/axios.com/post/3m6xrxq4lkk2o" target="_blank">axios.com</a> (2025-12-02 10:26:15)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】木原長官「中国側の主張は到底認められない」国連事務総長への高市首相批判書簡再送付に反論 「日本の立場は変更していない」と強調 (2025-12-02 10:25) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6xrwoj4rd2y" target="_blank">sokuho.news</a> (2025-12-02 10:25:40)</span><span style="padding-right:50px;">CNBC Daily Open: Crypto on the market's 'naughty list'? <a href="https://bsky.app/profile/cnbc.com/post/3m6xrr2gs6i2i" target="_blank">cnbc.com</a> (2025-12-02 10:22:31)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】ベガルタ仙台 森山佳郎監督が来季も続投へ チームは今季最終戦で敗れJ1プレーオフ進出逃す (2025-12-02 10:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6xro5xp6g2y" target="_blank">sokuho.news</a> (2025-12-02 10:20:54)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】横手市平鹿町で建物にクマがとどまっているとの情報 横手市などが対応中 秋田 (2025-12-02 10:20) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6xrn6veor22" target="_blank">sokuho.news</a> (2025-12-02 10:20:21)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49471.19 (🔻23.39 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47289.33 (🔻291.52 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23275.92 (🔺103.58 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.92 (🔺5.22 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 155.71 (🔺0.29 : 2025-12-02)</span>
+<span style="padding-right:50px;">NIKKEI: 49606.06 (🔺111.48 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47289.33 (🔻291.52 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23275.92 (🔺103.58 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.92 (🔺5.16 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 155.65 (🔺0.23 : 2025-12-02)</span>
   </div>
 </div>
 
@@ -32,102 +32,103 @@
 
 ## News Headlines
 
-1. ロシア国境に壁建設を、欧州がハイブリッド攻撃に警戒
-2. 米、ワールドエイズデーの記念行事中止
-3. TSA、Real ID 未所持の航空旅客に手数料導入へ
-4. エル・チャポの息子、麻薬取引で有罪認める
-5. FRB、地銀の商業用不動産ローンを注視
-6. トランプ前大統領、MRI検査で「完全に正常」
+1.  ホンジュラス元大統領、トランプ氏への書簡で恩赦獲得か
+2.  木原長官、国連事務総長への高市首相批判書簡再送付に反論
+3.  ベガルタ仙台、森山監督が来季も続投へ
+4.  横手市平鹿町で建物にクマがとどまる、対応中
+5.  FRB議長、スタンフォード大学で講演
+6.  ロシア、ハイブリッド攻撃でヨーロッパに戦時モード強いる
 
 ----
 
-@cnn.com
+@axios.com
 
-The United States is not commemorating World AIDS Day this year as it has done for decades in the past.
+SCOOP: From a U.S. prison cell, Honduras' ex-president secured a likely pardon for drug trafficking thanks to a letter he penned praising President Trump — whom he called "Your Excellency" — and a persistent lobbying campaign by longtime Trump pal Roger Stone.
 
-Observance of the day was started by the World Health Organization, from which the Trump administration withdrew this year. https://cnn.it/4pHLpZ9
-
-[2025-12-02 10:07:11](https://bsky.app/profile/cnn.com/post/3m6xqvn4rfm2w)
+[2025-12-02 10:26:15](https://bsky.app/profile/axios.com/post/3m6xrxq4lkk2o)
 
 ---
 
-@wsj.com
+@sokuho.news
 
-Humans' love of alcohol can be traced back to our primate ancestors, research shows on.wsj.com/4oyqhnt
+🛎️FNNより【速報】です。
 
-[2025-12-02 10:06:49](https://bsky.app/profile/wsj.com/post/3m6xquygf6y2t)
+【速報】木原長官「中国側の主張は到底認められない」国連事務総長への高市首相批判書簡再送付に反論 「日本の立場は変更していない」と強調
+(2025-12-02 10:25) #ニュース
 
----
-
-@nikkei.com
-
-「ロシア国境に壁を築け」　ヨーロッパ、ハイブリッド攻撃に戦時モード
-www.nikkei.com/article/DGXZQO...
- 
-国の記章を付けず、覆面の兵士がエストニアで目撃されたのは10月。ウクライナのクリミア半島に先陣を切って侵略したロシア軍特殊部隊を想起させ、緊張が高まりました。
- 
-インフラ破壊工作やサイバー攻撃、選挙介入、偽情報の流布――。ロシアはこれらを組み合わせた攻撃を展開しています。
- 
-米シンクタンクの戦争研究所はすでに「フェーズ0」＝戦争の初期段階にあると分析しています。
-
-[2025-12-02 10:01:58](https://bsky.app/profile/nikkei.com/post/3m6xqmcsaob2t)
+[2025-12-02 10:25:40](https://bsky.app/profile/sokuho.news/post/3m6xrwoj4rd2y)
 
 ---
 
 @cnbc.com
 
-There are many things you can do to keep your brain sharp, but there's one practice that longevity doctor Dr. Avinish Reddy says is overlooked.
+CNBC Daily Open: Crypto on the market's 'naughty list'?
 
-[2025-12-02 10:01:11](https://bsky.app/profile/cnbc.com/post/3m6xqkvgpzo2e)
+[2025-12-02 10:22:31](https://bsky.app/profile/cnbc.com/post/3m6xrr2gs6i2i)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】ベガルタ仙台 森山佳郎監督が来季も続投へ チームは今季最終戦で敗れJ1プレーオフ進出逃す
+(2025-12-02 10:00) #ニュース
+
+[2025-12-02 10:20:54](https://bsky.app/profile/sokuho.news/post/3m6xro5xp6g2y)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】横手市平鹿町で建物にクマがとどまっているとの情報 横手市などが対応中 秋田
+(2025-12-02 10:20) #ニュース
+
+[2025-12-02 10:20:21](https://bsky.app/profile/sokuho.news/post/3m6xrn6veor22)
 
 ---
 
 @reuters.com
 
-OpenAI takes stake in Thrive Holdings in latest enterprise AI push reut.rs/4ouTcsv
+Some US Republicans demand answers on Venezuela strikes reut.rs/4iy9G1I
 
-[2025-12-02 10:01:07](https://bsky.app/profile/reuters.com/post/3m6xqkrtag222)
-
----
-
-@apnews.com
-
-A charitable foundation is making 25 Christmas stockings from the drapes of King Charles III’s Sandringham estate.
-
-[2025-12-02 10:00:50](https://bsky.app/profile/apnews.com/post/3m6xqkbhgnc2j)
-
----
-
-@aljazeera.com
-
-Khaled Mohamed Ali El Hishri allegedly committed crimes at Libya's Mitiga Prison from 2015 to 2020, the ICC says.
-
-[2025-12-02 10:00:46](https://bsky.app/profile/aljazeera.com/post/3m6xqk6d6bf2z)
+[2025-12-02 10:20:20](https://bsky.app/profile/reuters.com/post/3m6xrn5zlkc2r)
 
 ---
 
 @nytimes.com
 
-Starting in February, the Transportation Security Administration will start charging fliers who travel without a Real ID-compliant form of identification a $45 fee in order to fly from U.S. airports. nyti.ms/3Kq5MLF
+In @nytopinion.nytimes.com 
 
-[2025-12-02 10:00:45](https://bsky.app/profile/nytimes.com/post/3m6xqk5ceyw2e)
+“Even I have trepidations about what kind of future my son will grow up in as A.I. progresses. And I am far from alone,” writes Soulaiman Itani, a developer of several A.I. projects.
 
----
-
-@bloomberg.com
-
-Climate Finance Partners hired Andurand Capital Management LLP’s former head of research and portfolio manager Mark Lewis as partner and managing director
-
-[2025-12-02 10:00:35](https://bsky.app/profile/bloomberg.com/post/3m6xqjswaze2d)
+[2025-12-02 10:20:06](https://bsky.app/profile/nytimes.com/post/3m6xrmpwni62y)
 
 ---
 
-@en.afp.com
+@reuters.com
 
-The United States has meddled for decades in elections around the world. But no modern president has done so as brazenly as Donald Trump. 
-u.afp.com/ShRf
+LIVE: Fed's Powell speaks at Stanford in California youtube.com/live/4EM2RBc...
 
-[2025-12-02 10:00:12](https://bsky.app/profile/en.afp.com/post/3m6xqj5h3p42x)
+[2025-12-02 10:17:10](https://bsky.app/profile/reuters.com/post/3m6xrhhzw4s2g)
+
+---
+
+@cnbc.com
+
+Strategist reveals an 'asymmetric AI' trade: 'A lot of upside without much downside'
+
+[2025-12-02 10:12:38](https://bsky.app/profile/cnbc.com/post/3m6xr7er2ix23)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Why more young US women seem to be ready to move abroad
+
+[2025-12-02 10:12:16](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6xr6pz4no27)
 
 ---
 
