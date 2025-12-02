@@ -1,9 +1,9 @@
-# [2025-12-02 11:30 updated](2025_12_02.md)
+# [2025-12-02 11:50 updated](2025_12_02.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Samsung has unveiled its first so-called trifold smartphone, flaunting its engineering prowess in foldable devices even as the broader category has yet to catch on with mainstream consumers bloom.bg/3M9ttZb  📷: SeongJoon Cho/Bloomberg <a href="https://bsky.app/profile/bloomberg.com/post/3m6xv2eetcr27" target="_blank">bloomberg.com</a> (2025-12-02 11:21:25)</span><span style="padding-right:50px;">UK's Starmer warns China poses security threats but urges deeper business ties reut.rs/48ecrBQ <a href="https://bsky.app/profile/reuters.com/post/3m6xuydeyr42e" target="_blank">reuters.com</a> (2025-12-02 11:20:16)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】長崎市で70代男性が軽乗用車にはねられ搬送 (2025-12-02 11:12:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6xuprkkv62w" target="_blank">sokuho.news</a> (2025-12-02 11:15:29)</span><span style="padding-right:50px;">国連 来年の予算案 ことしより15％余 規模縮小 修正案提出 https://news.web.nhk/newsweb/na/na-k10014991571000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6xujolqna24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-02 11:12:03)</span><span style="padding-right:50px;">Exclusive: Nestlé explores sale of Blue Bottle Coffee, sources say reut.rs/4p9lslr <a href="https://bsky.app/profile/reuters.com/post/3m6xugdy44h2d" target="_blank">reuters.com</a> (2025-12-02 11:10:13)</span>
+<span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】宮城・気仙沼市の岸壁で2人乗りの船が転覆 1人は自力で脱出1人不明 消防 (11:38) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6xw65ilcz2q" target="_blank">sokuho.news</a> (2025-12-02 11:41:25)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】J1・ファジアーノ岡山の新スタジアム整備 伊原木知事「幅広い関係者と協議始めたい」【岡山】 (2025-12-02 11:30) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6xw55y55726" target="_blank">sokuho.news</a> (2025-12-02 11:40:52)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】天皇杯初制覇のJ1町田が来年7月に青森市でのキャンプ開催で最終調整 黒田監督「キャンプを成功させて青森を活性化させたい」 (2025-12-02 11:37:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6xw4n4elh2d" target="_blank">sokuho.news</a> (2025-12-02 11:40:35)</span><span style="padding-right:50px;">Trump rejected Maduro requests on call, options narrow for Venezuela leader, sources say reut.rs/48dsWhn <a href="https://bsky.app/profile/reuters.com/post/3m6xw3zi7qx2d" target="_blank">reuters.com</a> (2025-12-02 11:40:14)</span><span style="padding-right:50px;">Singapore has executed 17 individuals this year on drug and murder offenses, marking the highest annual tally since 2003 amid renewed debate over the city-state’s use of the death penalty. bloom.bg/4ryajMD  📷: Hari Anggara/NurPhoto/Getty Images <a href="https://bsky.app/profile/bloomberg.com/post/3m6xvt2scwy2n" target="_blank">bloomberg.com</a> (2025-12-02 11:35:14)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49529.33 (🔺34.75 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47289.33 (🔻291.52 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23275.92 (🔺103.58 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.92 (🔺5.16 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3048.00 (🔻37.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 155.63 (🔺0.21 : 2025-12-02)</span>
+<span style="padding-right:50px;">NIKKEI: 49499.06 (🔺4.48 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47289.33 (🔻291.52 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23275.92 (🔺103.58 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.92 (🔺5.16 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3055.00 (🔻30.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 155.69 (🔺0.27 : 2025-12-02)</span>
   </div>
 </div>
 
@@ -32,30 +32,34 @@
 
 ## News Headlines
 
-1. サムスン、初のトリフォールドスマホ発表
-2. スターマー英首相、中国に安全保障上の脅威警告もビジネス関係強化を促す
-3. 国連来年度予算案、15％以上規模縮小へ
-4. ネスレ、ブルーボトルコーヒー売却検討か
-5. トランプ政権、報道機関「恥の殿堂」開設、メディアを名指し非難
-6. オックスフォード大、2025年のワードは「rage bait」
+1. 気仙沼市で船転覆、1人不明
+2. 岡山にJ1新スタジアム構想、知事が協議開始へ
+3. 天皇杯王者・町田、来夏に青森キャンプ開催
+4. スマホ新法18日施行、アプリの自由化と安全性の両立課題
+5. シンガポール、薬物・殺人罪で年間最多の死刑執行
+6. 新庄市の住宅火災で1人死亡
 
 ----
 
-@bloomberg.com
+@sokuho.news
 
-Samsung has unveiled its first so-called trifold smartphone, flaunting its engineering prowess in foldable devices even as the broader category has yet to catch on with mainstream consumers bloom.bg/3M9ttZb
+🔔ANNより【速報】です。
 
-📷: SeongJoon Cho/Bloomberg
+【速報】宮城・気仙沼市の岸壁で2人乗りの船が転覆 1人は自力で脱出1人不明 消防
+(11:38) #ニュース
 
-[2025-12-02 11:21:25](https://bsky.app/profile/bloomberg.com/post/3m6xv2eetcr27)
+[2025-12-02 11:41:25](https://bsky.app/profile/sokuho.news/post/3m6xw65ilcz2q)
 
 ---
 
-@reuters.com
+@sokuho.news
 
-UK's Starmer warns China poses security threats but urges deeper business ties reut.rs/48ecrBQ
+🛎️FNNより【速報】です。
 
-[2025-12-02 11:20:16](https://bsky.app/profile/reuters.com/post/3m6xuydeyr42e)
+【速報】J1・ファジアーノ岡山の新スタジアム整備 伊原木知事「幅広い関係者と協議始めたい」【岡山】
+(2025-12-02 11:30) #ニュース
+
+[2025-12-02 11:40:52](https://bsky.app/profile/sokuho.news/post/3m6xw55y55726)
 
 ---
 
@@ -63,27 +67,28 @@ UK's Starmer warns China poses security threats but urges deeper business ties r
 
 🛎️JNNより【速報】です。
 
-【速報】長崎市で70代男性が軽乗用車にはねられ搬送
-(2025-12-02 11:12:00) #ニュース
+【速報】天皇杯初制覇のJ1町田が来年7月に青森市でのキャンプ開催で最終調整 黒田監督「キャンプを成功させて青森を活性化させたい」
+(2025-12-02 11:37:00) #ニュース
 
-[2025-12-02 11:15:29](https://bsky.app/profile/sokuho.news/post/3m6xuprkkv62w)
-
----
-
-@nhknewsunofficial.bsky.social
-
-国連 来年の予算案 ことしより15％余 規模縮小 修正案提出
-https://news.web.nhk/newsweb/na/na-k10014991571000
-
-[2025-12-02 11:12:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6xujolqna24)
+[2025-12-02 11:40:35](https://bsky.app/profile/sokuho.news/post/3m6xw4n4elh2d)
 
 ---
 
 @reuters.com
 
-Exclusive: Nestlé explores sale of Blue Bottle Coffee, sources say reut.rs/4p9lslr
+Trump rejected Maduro requests on call, options narrow for Venezuela leader, sources say reut.rs/48dsWhn
 
-[2025-12-02 11:10:13](https://bsky.app/profile/reuters.com/post/3m6xugdy44h2d)
+[2025-12-02 11:40:14](https://bsky.app/profile/reuters.com/post/3m6xw3zi7qx2d)
+
+---
+
+@bloomberg.com
+
+Singapore has executed 17 individuals this year on drug and murder offenses, marking the highest annual tally since 2003 amid renewed debate over the city-state’s use of the death penalty. bloom.bg/4ryajMD
+
+📷: Hari Anggara/NurPhoto/Getty Images
+
+[2025-12-02 11:35:14](https://bsky.app/profile/bloomberg.com/post/3m6xvt2scwy2n)
 
 ---
 
@@ -91,51 +96,47 @@ Exclusive: Nestlé explores sale of Blue Bottle Coffee, sources say reut.rs/4p9l
 
 🛎️NNNより【速報】です。
 
-【速報】焼き鳥店で火事「建物から炎と煙」50代男性が病院搬送 北海道千歳市
-(2025-12-02 11:08) #ニュース
+【速報】J1町田が青森市で夏季キャンプへ！黒田監督は「青森の魅力を全国に知ってもらいたい」
+(2025-12-02 11:33) #ニュース
 
-[2025-12-02 11:08:51](https://bsky.app/profile/sokuho.news/post/3m6xudval4n2q)
-
----
-
-@en.afp.com
-
-US First Lady Melania Trump has unveiled this year's White House Christmas decorations -- in a reduced space after President Donald Trump demolished part of the historic building for a new ballroom
-
-u.afp.com/ShRn
-
-[2025-12-02 11:07:44](https://bsky.app/profile/en.afp.com/post/3m6xubvdaz22x)
-
----
-
-@wsj.com
-
-Teenagers are increasingly engaging in stock trading, with some already saving for financial milestones such as buying a home. “I kind of just wanted to see if it would work and how much money I could get.” on.wsj.com/48aRbwK
-
-[2025-12-02 11:06:55](https://bsky.app/profile/wsj.com/post/3m6xuahjrl72p)
+[2025-12-02 11:33:23](https://bsky.app/profile/sokuho.news/post/3m6xvproypd27)
 
 ---
 
 @nikkei.com
 
-トランプ政権、報道機関「恥の殿堂」ページ開設　メディアと記者を名指し非難
+「スマホ新法」12月18日全面施行、自由競争と安全どう両立
 www.nikkei.com/article/DGXZQO...
  
-ページ上では「今週の反則メディア」として具体的な名前を挙げ、政権が偏向や虚偽と考える報道内容と政権側の主張を一方的に記載。
+iPhoneで「アップストア」以外からのアプリ配信が可能となり、ユーザーはこれまで使えなかったアプリを自由に使えるように。
  
-さらに「恥の殿堂」と題してこれまでの「反則者」を列挙し、それぞれに「噓」「左派の狂気」「偏向」といったラベルをつけています。政権に批判的なメディアへの圧力や規制を強めています。
- 
-#ニュース
+ただ先行して自由化されたEUでは、iPhone上で複数のポルノアプリや規制対象の賭博アプリが配布される事態となっています。
 
-[2025-12-02 11:01:58](https://bsky.app/profile/nikkei.com/post/3m6xtxlguyn2t)
+[2025-12-02 11:31:57](https://bsky.app/profile/nikkei.com/post/3m6xvn7oesq2k)
 
 ---
 
 @cnn.com
 
-The Justice Department could present a new indictment against James Comey to a grand jury as soon as this week.
+"The administration initially lashed out at the reporting. But by Monday, White House press secretary Karoline Leavitt confirmed there was a second strike while claiming that it was lawful," writes CNN's Aaron Blake. | Analysis https://cnn.it/3MdpDy8
 
-[2025-12-02 11:01:01](https://bsky.app/profile/cnn.com/post/3m6xtvvnw6a2q)
+[2025-12-02 11:31:02](https://bsky.app/profile/cnn.com/post/3m6xvlkptib2f)
+
+---
+
+@reuters.com
+
+Bristol Myers must face $6.7 billion lawsuit over delayed cancer drug, US judge rules reut.rs/48vdxYK
+
+[2025-12-02 11:30:39](https://bsky.app/profile/reuters.com/post/3m6xvkurp6m2i)
+
+---
+
+@usatoday.com
+
+As Spotify encouraged users to update their app, the streaming service hinted 2025's Wrapped is not far. Here's what we know so far.
+
+[2025-12-02 11:30:24](https://bsky.app/profile/usatoday.com/post/3m6xvkgduxa2u)
 
 ---
 
