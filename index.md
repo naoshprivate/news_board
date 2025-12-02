@@ -1,9 +1,9 @@
-# [2025-12-03 06:30 updated](2025_12_03.md)
+# [2025-12-03 06:50 updated](2025_12_03.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">北海道 函館市中心部の火災が鎮圧 発生から約11時間半後に https://news.web.nhk/newsweb/na/na-k10014992411000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6zv2xcxz72g" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 06:27:02)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】プーチン大統領とアメリカの特使・トランプ大統領娘婿が会談…ウクライナ和平案進展は (2025-12-03 06:06) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6zuyonkqo2g" target="_blank">sokuho.news</a> (2025-12-03 06:25:48)</span><span style="padding-right:50px;">Hadjar to partner Verstappen in 2026 as Lindblad arrives in F1 reut.rs/4iSk0BX <a href="https://bsky.app/profile/reuters.com/post/3m6zuxkarwq2e" target="_blank">reuters.com</a> (2025-12-03 06:25:10)</span><span style="padding-right:50px;">American Eagle stock jumps 15% as it expects a big holiday, raises forecast after Sydney Sweeney ads <a href="https://bsky.app/profile/cnbc.com/post/3m6zuvzd4ld2q" target="_blank">cnbc.com</a> (2025-12-03 06:24:18)</span><span style="padding-right:50px;">Exclusive: An architecturally significant home on Georgia’s Sea Island has sold for $30 million, setting a record for the state. <a href="https://bsky.app/profile/wsj.com/post/3m6zuvxobdc2p" target="_blank">wsj.com</a> (2025-12-03 06:24:16)</span>
+<span style="padding-right:50px;">大腸がんを攻撃する「海洋細菌」発見　北陸先端科学技術大学院大学 www.nikkei.com/article/DGXZQO...  海洋細菌は海に生息する細菌の総称。フォトバクテリウム・アングスタムという細菌に高い抗腫瘍効果があることが分かりました。  遺伝子を改変していない天然の細菌です。 <a href="https://bsky.app/profile/nikkei.com/post/3m6zw5oenzg2k" target="_blank">nikkei.com</a> (2025-12-03 06:46:29)</span><span style="padding-right:50px;">Trump's NASA pick to tell Congress about moon race with China, deep-space ambition reut.rs/3MA6PJu <a href="https://bsky.app/profile/reuters.com/post/3m6zw3d3k3i2y" target="_blank">reuters.com</a> (2025-12-03 06:45:10)</span><span style="padding-right:50px;">【動画】Pickup NEWS（12月3日） https://news.web.nhk/newsweb/na/na-k10014992211000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6zw35naio2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 06:45:02)</span><span style="padding-right:50px;">Companies used to hate employees posting about their jobs. Now they want them to be in-house TikTok influencers. <a href="https://bsky.app/profile/wsj.com/post/3m6zvtmrmnb2r" target="_blank">wsj.com</a> (2025-12-03 06:40:52)</span><span style="padding-right:50px;">Trump administration fires numerous New York immigration judges reut.rs/4pJwr4Y <a href="https://bsky.app/profile/reuters.com/post/3m6zvsmeliq2k" target="_blank">reuters.com</a> (2025-12-03 06:40:18)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49303.45 (🔻191.13 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.30 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 155.85 (🔺0.42 : 2025-12-02)</span>
+<span style="padding-right:50px;">NIKKEI: 49303.45 (🔻191.13 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.30 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 155.86 (🔺0.44 : 2025-12-02)</span>
   </div>
 </div>
 
@@ -32,100 +32,100 @@
 
 ## News Headlines
 
-1. 函館中心部の火災、発生から11時間半後に鎮圧
-2. プーチン大統領、米特使と会談：ウクライナ和平案進展か
-3. 岩手・北上で殺人未遂事件発生、男子中学生を逮捕
-4. 日本海側で大雪の恐れ、交通影響に注意を
-5. 安倍元首相銃撃事件裁判、昭恵さん出席で調整
-6. モバイルバッテリー等、安全表示義務違反疑いの事業者公表へ
+1. 大腸がん攻撃する「海洋細菌」発見
+2. トランプ政権、ニューヨークの移民判事を多数解雇
+3. 英、米との医薬品追加関税3年間ゼロで合意
+4. プーチン大統領、米特使と会談 ウクライナ和平案進展か
+5. 北海道函館市中心部の火災、発生から11時間半後に鎮圧
+6. 日本海側中心に大雪見込み、交通影響に注意
 
 ----
 
-@nhknewsunofficial.bsky.social
+@nikkei.com
 
-北海道 函館市中心部の火災が鎮圧 発生から約11時間半後に
-https://news.web.nhk/newsweb/na/na-k10014992411000
+大腸がんを攻撃する「海洋細菌」発見　北陸先端科学技術大学院大学
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-03 06:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6zv2xcxz72g)
+海洋細菌は海に生息する細菌の総称。フォトバクテリウム・アングスタムという細菌に高い抗腫瘍効果があることが分かりました。
 
----
+遺伝子を改変していない天然の細菌です。
 
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】プーチン大統領とアメリカの特使・トランプ大統領娘婿が会談…ウクライナ和平案進展は
-(2025-12-03 06:06) #ニュース
-
-[2025-12-03 06:25:48](https://bsky.app/profile/sokuho.news/post/3m6zuyonkqo2g)
+[2025-12-03 06:46:29](https://bsky.app/profile/nikkei.com/post/3m6zw5oenzg2k)
 
 ---
 
 @reuters.com
 
-Hadjar to partner Verstappen in 2026 as Lindblad arrives in F1 reut.rs/4iSk0BX
+Trump's NASA pick to tell Congress about moon race with China, deep-space ambition reut.rs/3MA6PJu
 
-[2025-12-03 06:25:10](https://bsky.app/profile/reuters.com/post/3m6zuxkarwq2e)
-
----
-
-@cnbc.com
-
-American Eagle stock jumps 15% as it expects a big holiday, raises forecast after Sydney Sweeney ads
-
-[2025-12-03 06:24:18](https://bsky.app/profile/cnbc.com/post/3m6zuvzd4ld2q)
-
----
-
-@wsj.com
-
-Exclusive: An architecturally significant home on Georgia’s Sea Island has sold for $30 million, setting a record for the state.
-
-[2025-12-03 06:24:16](https://bsky.app/profile/wsj.com/post/3m6zuvxobdc2p)
+[2025-12-03 06:45:10](https://bsky.app/profile/reuters.com/post/3m6zw3d3k3i2y)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-岩手 北上 男子中学生を殺人未遂の疑いで逮捕 男性を刺したか
-https://news.web.nhk/newsweb/na/na-k10014992421000
+【動画】Pickup NEWS（12月3日）
+https://news.web.nhk/newsweb/na/na-k10014992211000
 
-[2025-12-03 06:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6zuvm3xs22n)
-
----
-
-@financialtimes.com
-
-FT Exclusive: The Reform UK leader told donors he expects a deal or merger between his party and the Conservatives ahead of the next general election, suggesting he does not believe he can sweep to power alone. on.ft.com/44xlHi0
-
-[2025-12-03 06:22:58](https://bsky.app/profile/financialtimes.com/post/3m6zutn66gx2q)
+[2025-12-03 06:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6zw35naio2k)
 
 ---
 
-@sokuho.news
+@wsj.com
 
-🛎️FNNより【速報】です。
+Companies used to hate employees posting about their jobs. Now they want them to be in-house TikTok influencers.
 
-【速報】函館・五稜郭近くの火災 11時間半後に鎮圧 深夜も消火活動
-(2025-12-03 06:16) #ニュース
-
-[2025-12-03 06:22:54](https://bsky.app/profile/sokuho.news/post/3m6zutj4u4p2w)
+[2025-12-03 06:40:52](https://bsky.app/profile/wsj.com/post/3m6zvtmrmnb2r)
 
 ---
 
-@nbcnews.com
+@reuters.com
 
-Illinois state officials have given rental car companies official notice that immigration enforcement agents using their vehicles are not allowed to swap the rental’s assigned license plates for other plates to disguise the vehicles, and if they do, the companies could be held liable.
+Trump administration fires numerous New York immigration judges reut.rs/4pJwr4Y
 
-[2025-12-03 06:20:17](https://bsky.app/profile/nbcnews.com/post/3m6zuosvspj2j)
+[2025-12-03 06:40:18](https://bsky.app/profile/reuters.com/post/3m6zvsmeliq2k)
 
 ---
 
 @nytimes.com
 
-The idea that the chances of getting pregnant plummet at 35 is widespread. But it’s not totally true. Here's what to know.
+Voters in Tennessee are set to provide this year’s final big sign of where the political environment stands in the state's special House election, as President Trump’s approval ratings slip and Democrats grow more hopeful heading into the 2026 midterm elections. Here are five things to know.
 
-[2025-12-03 06:20:07](https://bsky.app/profile/nytimes.com/post/3m6zuojpzcf22)
+[2025-12-03 06:40:08](https://bsky.app/profile/nytimes.com/post/3m6zvsd52rg22)
+
+---
+
+@nbcnews.com
+
+Camp Mystic has announced its plan to reopen next summer with new safety measures after over two dozen people were killed in floods at the all-girls Texas summer's camp earlier this year.
+
+[2025-12-03 06:40:08](https://bsky.app/profile/nbcnews.com/post/3m6zvsdbeld2j)
+
+---
+
+@cbsnews.com
+
+How the Trump administration's account of Sept. 2 boat strike has evolved
+
+
+[2025-12-03 06:40:01](https://bsky.app/profile/cbsnews.com/post/3m6zvs4fsnd2u)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+英が米側と合意と発表 “医薬品の追加関税3年間はゼロ”
+https://news.web.nhk/newsweb/na/na-k10014992361000
+
+[2025-12-03 06:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6zvqg7psi2g)
+
+---
+
+@npr.org
+
+Rahmanullah Lakanwal, 29, was formally charged in D.C. Superior Court with multiple crimes, including first-degree murder and assault with the intent to kill while armed.
+
+[2025-12-03 06:36:07](https://bsky.app/profile/npr.org/post/3m6zvl5aoh52h)
 
 ---
 
