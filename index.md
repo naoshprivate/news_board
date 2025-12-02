@@ -1,9 +1,9 @@
-# [2025-12-02 16:50 updated](2025_12_02.md)
+# [2025-12-02 17:10 updated](2025_12_02.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">【各地の紅葉 動画】福岡 うきは“柿紅葉” https://news.web.nhk/newsweb/na/na-k10014990441000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6yhchzjqz2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-02 16:48:02)</span><span style="padding-right:50px;">スピードスケートW杯第3戦を前に 高木美帆が会場で調整 https://news.web.nhk/newsweb/na/na-k10014991871000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6yh7botgg2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-02 16:46:15)</span><span style="padding-right:50px;">UK house prices rise 0.3% in November, affordability likely to improve, Nationwide says reut.rs/4rM23Jg <a href="https://bsky.app/profile/reuters.com/post/3m6yh5byn7r2k" target="_blank">reuters.com</a> (2025-12-02 16:45:10)</span><span style="padding-right:50px;">宮城 気仙沼 漁港近くで小型漁船転覆 乗っていた70代男性死亡 https://news.web.nhk/newsweb/na/na-k10014991591000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6yh54oxya23" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-02 16:45:02)</span><span style="padding-right:50px;">CNBC Daily Open: Crypto trips up markets' festive mood <a href="https://bsky.app/profile/cnbc.com/post/3m6ygy7xg722q" target="_blank">cnbc.com</a> (2025-12-02 16:42:20)</span>
+<span style="padding-right:50px;">🛎️ANNより【速報】です。  【速報】函館・五稜郭近くの繁華街で火事 (2025-12-02 17:03:25) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6yibbqy4w2m" target="_blank">sokuho.news</a> (2025-12-02 17:05:18)</span><span style="padding-right:50px;">Starbucks will pay $38.9 million to settle NYC probe over worker schedules reut.rs/48JX5F7 <a href="https://bsky.app/profile/reuters.com/post/3m6yib2b3vg2o" target="_blank">reuters.com</a> (2025-12-02 17:05:10)</span><span style="padding-right:50px;">在宅勤務、集中できる椅子の選び方　意識したい３つのポイント www.nikkei.com/article/DGXZQO...   家庭でのオフィスチェア需要が拡大。椅子に対する意識が「座れればいい」から「仕事の効率や快適さのために投資すべきもの」に変わっています。   大事なのは正しい姿勢で座れるかどうか。ただし、「ちゃんと座る=背筋をピンと伸ばす」という訳ではありません。 <a href="https://bsky.app/profile/nikkei.com/post/3m6yi3bqwvb2m" target="_blank">nikkei.com</a> (2025-12-02 17:01:57)</span><span style="padding-right:50px;">Belarusian incursions into Lithuania’s airspace constitute a “hybrid attack” by the Lukashenko regime, European Commission President Ursula von der Leyen said, as the Belarusian representative in Brussels was summoned. <a href="https://bsky.app/profile/cnn.com/post/3m6yhznbsnt2y" target="_blank">cnn.com</a> (2025-12-02 17:01:01)</span><span style="padding-right:50px;">Marvell in advanced talks to buy Celestial AI in multi-billion-dollar deal, The Information says reut.rs/444Bvst <a href="https://bsky.app/profile/reuters.com/post/3m6yhymhiek22" target="_blank">reuters.com</a> (2025-12-02 17:00:27)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49303.45 (🔻191.13 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47289.33 (🔻291.52 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23275.92 (🔺103.58 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.92 (🔺5.16 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 155.73 (🔺0.31 : 2025-12-02)</span>
+<span style="padding-right:50px;">NIKKEI: 49303.45 (🔻191.13 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47289.33 (🔻291.52 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23275.92 (🔺103.58 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.92 (🔺5.16 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 155.80 (🔺0.38 : 2025-12-02)</span>
   </div>
 </div>
 
@@ -32,102 +32,104 @@
 
 ## News Headlines
 
-1. 福岡うきは、色鮮やかな柿紅葉が見頃
-2. 高木美帆、スピードスケートW杯第3戦へ調整
-3. 宮城・気仙沼、漁船転覆で70代男性死亡
-4. 山上被告、安倍元首相を標的「統一教会との関わり中心」
-5. インドネシア豪雨、死者600人超 救助難航
-6. ふるさと納税、税控除に上限検討 高所得者優遇是正へ
+1. 函館・五稜郭近くの繁華街で火事
+2. ディズニーシー・ホテルミラコスタで刃物男逮捕
+3. 安倍元首相銃撃事件、被告「他の政治家では意味弱い」
+4. 長崎・南島原の住宅火災、不明だった50代住民の無事確認
+5. 宮城・気仙沼、漁港近くで小型漁船転覆、70代男性死亡
+6. インドネシア豪雨、死者600人超、救助活動難航
 
 ----
 
-@nhknewsunofficial.bsky.social
+@sokuho.news
 
-【各地の紅葉 動画】福岡 うきは“柿紅葉”
-https://news.web.nhk/newsweb/na/na-k10014990441000
+🛎️ANNより【速報】です。
 
-[2025-12-02 16:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6yhchzjqz2k)
+【速報】函館・五稜郭近くの繁華街で火事
+(2025-12-02 17:03:25) #ニュース
 
----
-
-@nhknewsunofficial.bsky.social
-
-スピードスケートW杯第3戦を前に 高木美帆が会場で調整
-https://news.web.nhk/newsweb/na/na-k10014991871000
-
-[2025-12-02 16:46:15](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6yh7botgg2p)
+[2025-12-02 17:05:18](https://bsky.app/profile/sokuho.news/post/3m6yibbqy4w2m)
 
 ---
 
 @reuters.com
 
-UK house prices rise 0.3% in November, affordability likely to improve, Nationwide says reut.rs/4rM23Jg
+Starbucks will pay $38.9 million to settle NYC probe over worker schedules reut.rs/48JX5F7
 
-[2025-12-02 16:45:10](https://bsky.app/profile/reuters.com/post/3m6yh5byn7r2k)
-
----
-
-@nhknewsunofficial.bsky.social
-
-宮城 気仙沼 漁港近くで小型漁船転覆 乗っていた70代男性死亡
-https://news.web.nhk/newsweb/na/na-k10014991591000
-
-[2025-12-02 16:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6yh54oxya23)
-
----
-
-@cnbc.com
-
-CNBC Daily Open: Crypto trips up markets' festive mood
-
-[2025-12-02 16:42:20](https://bsky.app/profile/cnbc.com/post/3m6ygy7xg722q)
+[2025-12-02 17:05:10](https://bsky.app/profile/reuters.com/post/3m6yib2b3vg2o)
 
 ---
 
 @nikkei.com
 
-台湾外交部長「日中対立、1年続く」　ブルームバーグ通信に
+在宅勤務、集中できる椅子の選び方　意識したい３つのポイント
 www.nikkei.com/article/DGXZQO...
+ 
+家庭でのオフィスチェア需要が拡大。椅子に対する意識が「座れればいい」から「仕事の効率や快適さのために投資すべきもの」に変わっています。
+ 
+大事なのは正しい姿勢で座れるかどうか。ただし、「ちゃんと座る=背筋をピンと伸ばす」という訳ではありません。
 
-#ニュース
+[2025-12-02 17:01:57](https://bsky.app/profile/nikkei.com/post/3m6yi3bqwvb2m)
 
-[2025-12-02 16:41:29](https://bsky.app/profile/nikkei.com/post/3m6ygwoujl62t)
+---
+
+@cnn.com
+
+Belarusian incursions into Lithuania’s airspace constitute a “hybrid attack” by the Lukashenko regime, European Commission President Ursula von der Leyen said, as the Belarusian representative in Brussels was summoned.
+
+[2025-12-02 17:01:01](https://bsky.app/profile/cnn.com/post/3m6yhznbsnt2y)
 
 ---
 
 @reuters.com
 
-OpenAI plans to improve ChatGPT and delay initiatives, such as advertising, The Information reports reut.rs/4opcyiB
+Marvell in advanced talks to buy Celestial AI in multi-billion-dollar deal, The Information says reut.rs/444Bvst
 
-[2025-12-02 16:40:13](https://bsky.app/profile/reuters.com/post/3m6ygugg2aa2n)
+[2025-12-02 17:00:27](https://bsky.app/profile/reuters.com/post/3m6yhymhiek22)
+
+---
+
+@aljazeera.com
+
+Hong Kong's Chief Executive John Lee says committee to be led by a judge and will identify the causes of deadly blaze.
+
+[2025-12-02 17:00:21](https://bsky.app/profile/aljazeera.com/post/3m6yhyg7f4y2f)
+
+---
+
+@washingtonpost.com
+
+Yoga with animals — goats, dogs and cats — has become popular in recent years.
+
+But chicken yoga is another version, offered in a neighborhood where dozens of wild chickens roam the streets, courtyards and sidewalks.
+
+[2025-12-02 17:00:15](https://bsky.app/profile/washingtonpost.com/post/3m6yhyalftn2r)
+
+---
+
+@bloomberg.com
+
+Property prices in Cape Town have climbed 160% since 2010. Now the city's property tariffs are being challenged in court.
+
+[2025-12-02 17:00:11](https://bsky.app/profile/bloomberg.com/post/3m6yhy5g6kp2m)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-NBA レイカーズ八村塁 2季ぶり無得点 チームの連勝7で止まる
-https://news.web.nhk/newsweb/na/na-k10014991891000
+安倍元首相銃撃事件の裁判 被告「ほかの政治家では意味弱い」
+https://news.web.nhk/newsweb/na/na-k10014991601000
 
-[2025-12-02 16:39:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ygsgfo4p23)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】山上被告「他の政治家では意味が弱いと思った」安倍元総理以外の政治家を対象としなかったか聞かれ「安倍元首相は私の認識では統一教会と政治家のかかわりの中心にいる方」と説明
-(2025-12-02 16:13) #ニュース
-
-[2025-12-02 16:36:04](https://bsky.app/profile/sokuho.news/post/3m6ygmza3wk2l)
+[2025-12-02 17:00:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6yhy2pwsu2p)
 
 ---
 
-@npr.org
+@nhknewsunofficial.bsky.social
 
-Joaquín Guzmán López, the 39-year-old son of former Sinaloa cartel kingpin Joaquín "El Chapo" Guzmán, pleaded guilty to two counts of drug trafficking and continuing criminal enterprise in federal court in Chicago. n.pr/4pMiWli
+【速報】北海道 函館市中心部で火災
+https://news.web.nhk/newsweb/na/na-k10014991941000
 
-[2025-12-02 16:35:29](https://bsky.app/profile/npr.org/post/3m6yglxdmtk2j)
+[2025-12-02 17:00:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6yhxwskpg2j)
 
 ---
 
