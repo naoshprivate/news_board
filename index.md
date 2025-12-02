@@ -1,9 +1,9 @@
-# [2025-12-03 03:50 updated](2025_12_03.md)
+# [2025-12-03 04:10 updated](2025_12_03.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">What is Honduras president accused of and why has Trump pardoned him? <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6zm7h2nmv2g" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-03 03:48:30)</span><span style="padding-right:50px;">Russians, Belarusians can participate in FIS qualification events - CAS reut.rs/3M5LGqC <a href="https://bsky.app/profile/reuters.com/post/3m6zlzjflwr2y" target="_blank">reuters.com</a> (2025-12-03 03:45:12)</span><span style="padding-right:50px;">Breaking news: The man suspected of shooting two National Guard members who were patrolling D.C. last week, killing one of them, has been charged with murder, assault and firearms offenses, according to court documents. <a href="https://bsky.app/profile/washingtonpost.com/post/3m6zlzavlpk2h" target="_blank">washingtonpost.com</a> (2025-12-03 03:45:03)</span><span style="padding-right:50px;">Holiday shopping turnout jumps to 202.9 million people during Thanksgiving weekend, NRF says <a href="https://bsky.app/profile/cnbc.com/post/3m6zlvbjsvj2a" target="_blank">cnbc.com</a> (2025-12-03 03:42:50)</span><span style="padding-right:50px;">Trump says he will nominate Fed chair in ‘early’ 2026 on.ft.com/4iyw377 <a href="https://bsky.app/profile/financialtimes.com/post/3m6zlsuobct2w" target="_blank">financialtimes.com</a> (2025-12-03 03:41:29)</span>
+<span style="padding-right:50px;">Jeff Bezos’ space company is finally getting momentum in orbit.  Blue Origin is planning more orbital missions, including an early 2026 cargo flight to the moon, following its recent New Glenn rocket launches and booster catch. <a href="https://bsky.app/profile/wsj.com/post/3m6znb5o4qo2p" target="_blank">wsj.com</a> (2025-12-03 04:07:22)</span><span style="padding-right:50px;">Newly appointed drugs chief set to leave FDA, STAT News reports reut.rs/4p8bCAk <a href="https://bsky.app/profile/reuters.com/post/3m6zn56dsyl2k" target="_blank">reuters.com</a> (2025-12-03 04:05:08)</span><span style="padding-right:50px;">Beef, onion, carrots, potatoes and red wine come together in cozy harmony. nyti.ms/444VVS9 <a href="https://bsky.app/profile/nytimes.com/post/3m6zmzipb672h" target="_blank">nytimes.com</a> (2025-12-03 04:03:05)</span><span style="padding-right:50px;">自動車各社など インドでの販売や生産強化の動き 相次ぐ https://news.web.nhk/newsweb/na/na-k10014992271000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6zmziwtqm26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 04:03:03)</span><span style="padding-right:50px;">Britain plans to curb jury trials to tackle court crisis reut.rs/3Y3Cky8 <a href="https://bsky.app/profile/reuters.com/post/3m6zmvywxat2n" target="_blank">reuters.com</a> (2025-12-03 04:01:08)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49303.45 (🔻191.13 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47362.57 (🔻54.34 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23400.21 (🔺20.46 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.35 (🔻0.37 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 155.99 (🔺0.57 : 2025-12-02)</span>
+<span style="padding-right:50px;">NIKKEI: 49303.45 (🔻191.13 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47460.26 (🔺43.35 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23428.54 (🔺48.79 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.18 (🔻0.54 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 155.96 (🔺0.54 : 2025-12-02)</span>
   </div>
 </div>
 
@@ -32,92 +32,95 @@
 
 ## News Headlines
 
-1. トランプ氏、恩赦で元ホンジュラス大統領が釈放
-2. D.C.警備兵銃撃事件、容疑者を殺人罪で起訴
-3. 感謝祭週末の買い物客、2億人超に増加
-4. エアバスCEO、最新の不具合による12月への影響を調査
-5. サウジ政府系ファンド、Electronic Artsのほぼ全株式取得へ
-6. タジキスタン、水力発電所への影響で電力配給を実施
+1. Blue Origin、2026年初頭に月へ貨物輸送ミッション計画
+2. インドで自動車各社の販売・生産強化が相次ぐ
+3. イギリス、裁判所危機対策で陪審裁判の制限を計画
+4. トランプ、次期FRB議長を「来年早々」に発表へ
+5. ホンジュラス元大統領、トランプ氏の恩赦で米刑務所から釈放
+6. Dell創業者夫妻、米国の子供たちへ62.5億ドル寄付計画
 
 ----
 
-@bbcnews-world-rss.bsky.social
+@wsj.com
 
-What is Honduras president accused of and why has Trump pardoned him?
+Jeff Bezos’ space company is finally getting momentum in orbit.
 
-[2025-12-03 03:48:30](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6zm7h2nmv2g)
+Blue Origin is planning more orbital missions, including an early 2026 cargo flight to the moon, following its recent New Glenn rocket launches and booster catch.
 
----
-
-@reuters.com
-
-Russians, Belarusians can participate in FIS qualification events - CAS reut.rs/3M5LGqC
-
-[2025-12-03 03:45:12](https://bsky.app/profile/reuters.com/post/3m6zlzjflwr2y)
-
----
-
-@washingtonpost.com
-
-Breaking news: The man suspected of shooting two National Guard members who were patrolling D.C. last week, killing one of them, has been charged with murder, assault and firearms offenses, according to court documents.
-
-[2025-12-03 03:45:03](https://bsky.app/profile/washingtonpost.com/post/3m6zlzavlpk2h)
-
----
-
-@cnbc.com
-
-Holiday shopping turnout jumps to 202.9 million people during Thanksgiving weekend, NRF says
-
-[2025-12-03 03:42:50](https://bsky.app/profile/cnbc.com/post/3m6zlvbjsvj2a)
-
----
-
-@financialtimes.com
-
-Trump says he will nominate Fed chair in ‘early’ 2026 on.ft.com/4iyw377
-
-[2025-12-03 03:41:29](https://bsky.app/profile/financialtimes.com/post/3m6zlsuobct2w)
+[2025-12-03 04:07:22](https://bsky.app/profile/wsj.com/post/3m6znb5o4qo2p)
 
 ---
 
 @reuters.com
 
-Exclusive: Airbus CEO studying December impact of latest glitch after 'weak' November reut.rs/4p8ME3T
+Newly appointed drugs chief set to leave FDA, STAT News reports reut.rs/4p8bCAk
 
-[2025-12-03 03:40:28](https://bsky.app/profile/reuters.com/post/3m6zlr2c53j2e)
+[2025-12-03 04:05:08](https://bsky.app/profile/reuters.com/post/3m6zn56dsyl2k)
 
 ---
 
 @nytimes.com
 
-The idea that the chances of getting pregnant plummet at 35 is widespread. But it’s not totally true. Here's what to know.
+Beef, onion, carrots, potatoes and red wine come together in cozy harmony. nyti.ms/444VVS9
 
-[2025-12-03 03:40:07](https://bsky.app/profile/nytimes.com/post/3m6zlqg5ipc2d)
+[2025-12-03 04:03:05](https://bsky.app/profile/nytimes.com/post/3m6zmzipb672h)
 
 ---
 
-@npr.org
+@nhknewsunofficial.bsky.social
 
-A woman with a terminal diagnosis asks her husband to leave the house in Ann Packer's new novel. Some Bright Nowhere is an absorbing book about end-of-life care and what the living owe the dying. n.pr/445RRB7
+自動車各社など インドでの販売や生産強化の動き 相次ぐ
+https://news.web.nhk/newsweb/na/na-k10014992271000
 
-[2025-12-03 03:39:32](https://bsky.app/profile/npr.org/post/3m6zlpfdg3z2a)
+[2025-12-03 04:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6zmziwtqm26)
 
 ---
 
 @reuters.com
 
-Former Honduran president released from US prison after Trump pardon reut.rs/3Y3ziKg
+Britain plans to curb jury trials to tackle court crisis reut.rs/3Y3Cky8
 
-[2025-12-03 03:35:07](https://bsky.app/profile/reuters.com/post/3m6zlhi7tne2i)
+[2025-12-03 04:01:08](https://bsky.app/profile/reuters.com/post/3m6zmvywxat2n)
 
 ---
 
-@forbes.com
+@nbcnews.com
 
-Most Shocking Moments From Netflix’s Diddy Docuseries
+The cake for a 2-year-old's birthday was about to be cut when gunfire rang out in a banquet hall in Stockton, California, Saturday night, claiming the lives of four people, including three children.
 
-[2025-12-03 03:35:03](https://bsky.app/profile/forbes.com/post/3m6zlhf5kvq2m)
+[2025-12-03 04:00:47](https://bsky.app/profile/nbcnews.com/post/3m6zmvekd3h2w)
+
+---
+
+@apnews.com
+
+Becoming the first AFC team officially eliminated from playoff contention was only a matter of time for the NFL's lone one-win team.
+
+[2025-12-03 04:00:33](https://bsky.app/profile/apnews.com/post/3m6zmuxpnhh2j)
+
+---
+
+@aljazeera.com
+
+Major-General Horta Inta-a was sworn in as the new transitional president on November 27.
+
+[2025-12-03 04:00:31](https://bsky.app/profile/aljazeera.com/post/3m6zmuvljvd2v)
+
+---
+
+@cnbc.com
+
+"I turned my back on corporate America after getting laid off in 2015," writes Jen Glantz. "I decided to become a full-time entrepreneur instead."
+
+[2025-12-03 04:00:26](https://bsky.app/profile/cnbc.com/post/3m6zmuqfo2x2a)
+
+---
+
+@washingtonpost.com
+
+Erno Spiegel’s fountain pen, used to falsify records to help dozens of children survive Auschwitz, is being donated to the U.S. Holocaust Memorial Museum in Washington, D.C.
+
+[2025-12-03 04:00:25](https://bsky.app/profile/washingtonpost.com/post/3m6zmupvpd72a)
 
 ---
 
