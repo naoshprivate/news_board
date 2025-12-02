@@ -1,9 +1,9 @@
-# [2025-12-03 04:30 updated](2025_12_03.md)
+# [2025-12-03 04:50 updated](2025_12_03.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Serena Williams, 44, takes step toward possible return reut.rs/4iC18a3 <a href="https://bsky.app/profile/reuters.com/post/3m6zoawwknt2k" target="_blank">reuters.com</a> (2025-12-03 04:25:09)</span><span style="padding-right:50px;">President Trump has officially pardoned former Honduran President who US officials said was at the center of one of the largest and most violent drug-trafficking conspiracies in the world. n.pr/4rzhG6q <a href="https://bsky.app/profile/npr.org/post/3m6zoa3vz5v2r" target="_blank">npr.org</a> (2025-12-03 04:24:40)</span><span style="padding-right:50px;">Broadcast station owners want to consolidate. They're struggling to get deals to the finish line <a href="https://bsky.app/profile/cnbc.com/post/3m6zo56ybqx2x" target="_blank">cnbc.com</a> (2025-12-03 04:23:03)</span><span style="padding-right:50px;">Recent estimates suggest that roughly 60% of the nation’s cats and dogs are obese, and hundreds of thousands have diabetes. GLP-1 drugs for pets could be the next frontier for the blockbuster weight loss and diabetes drugs. <a href="https://bsky.app/profile/nytimes.com/post/3m6zo4pdctz2x" target="_blank">nytimes.com</a> (2025-12-03 04:22:47)</span><span style="padding-right:50px;">Nearly four years after Russian President Vladimir Putin’s full-scale invasion of Ukraine, President Trump's envoy is grappling with an empowered Russia. <a href="https://bsky.app/profile/nbcnews.com/post/3m6znxyila22j" target="_blank">nbcnews.com</a> (2025-12-03 04:20:08)</span>
+<span style="padding-right:50px;">Asset-backed finance is growing fast and drawing new scrutiny <a href="https://bsky.app/profile/cnbc.com/post/3m6zpi6dhu22g" target="_blank">cnbc.com</a> (2025-12-03 04:47:05)</span><span style="padding-right:50px;">Nigeria's president names General Musa as defence minister reut.rs/4pPt8tf <a href="https://bsky.app/profile/reuters.com/post/3m6zpewbl4o2o" target="_blank">reuters.com</a> (2025-12-03 04:45:16)</span><span style="padding-right:50px;">The stock market believes Google is now winning the AI race over OpenAI, Nvidia <a href="https://bsky.app/profile/cnbc.com/post/3m6zpeal73x2s" target="_blank">cnbc.com</a> (2025-12-03 04:44:53)</span><span style="padding-right:50px;">トランプ氏、FRB次期議長指名「おそらく年明けに」 www.nikkei.com/article/DGXZQO... <a href="https://bsky.app/profile/nikkei.com/post/3m6zpbtwgpn2w" target="_blank">nikkei.com</a> (2025-12-03 04:43:33)</span><span style="padding-right:50px;">Russian officials warn of challenges posed by strong rouble reut.rs/4pdBiLU <a href="https://bsky.app/profile/reuters.com/post/3m6zp3yl35o2e" target="_blank">reuters.com</a> (2025-12-03 04:40:16)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49303.45 (🔻191.13 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47466.84 (🔺49.93 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23415.62 (🔺35.88 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 180.97 (🔻0.75 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 155.90 (🔺0.48 : 2025-12-02)</span>
+<span style="padding-right:50px;">NIKKEI: 49303.45 (🔻191.13 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47499.51 (🔺82.60 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23433.29 (🔺53.54 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.33 (🔻0.39 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 155.92 (🔺0.50 : 2025-12-02)</span>
   </div>
 </div>
 
@@ -32,92 +32,93 @@
 
 ## News Headlines
 
-1.  セリーナ・ウィリアムズ、復帰へ一歩
-2.  トランプ前大統領、ホンジュラス元大統領を恩赦
-3.  肥満のペット急増、GLP-1薬が新たな市場に
-4.  国境警備隊銃撃事件、容疑者を殺人罪で起訴
-5.  ベゾスの宇宙企業、月への貨物輸送計画を発表
-6.  コストコ、トランプ政権の関税で提訴
+1.  ナイジェリア大統領、ムサ将軍を国防相に任命
+2.  トランプ氏、FRB次期議長指名「おそらく年明けに」
+3.  ロシア当局、ルーブル高に警戒感
+4.  D.C.の国軍兵士射殺事件、容疑者が無罪主張
+5.  ベネズエラ、米国からの移民帰還便を承認
+6.  マスク氏の慈善団体、寄付義務を再び果たせず
 
 ----
 
-@reuters.com
+@cnbc.com
 
-Serena Williams, 44, takes step toward possible return reut.rs/4iC18a3
+Asset-backed finance is growing fast and drawing new scrutiny
 
-[2025-12-03 04:25:09](https://bsky.app/profile/reuters.com/post/3m6zoawwknt2k)
+[2025-12-03 04:47:05](https://bsky.app/profile/cnbc.com/post/3m6zpi6dhu22g)
 
 ---
 
-@npr.org
+@reuters.com
 
-President Trump has officially pardoned former Honduran President who US officials said was at the center of one of the largest and most violent drug-trafficking conspiracies in the world. n.pr/4rzhG6q
+Nigeria's president names General Musa as defence minister reut.rs/4pPt8tf
 
-[2025-12-03 04:24:40](https://bsky.app/profile/npr.org/post/3m6zoa3vz5v2r)
+[2025-12-03 04:45:16](https://bsky.app/profile/reuters.com/post/3m6zpewbl4o2o)
 
 ---
 
 @cnbc.com
 
-Broadcast station owners want to consolidate. They're struggling to get deals to the finish line
+The stock market believes Google is now winning the AI race over OpenAI, Nvidia
 
-[2025-12-03 04:23:03](https://bsky.app/profile/cnbc.com/post/3m6zo56ybqx2x)
-
----
-
-@nytimes.com
-
-Recent estimates suggest that roughly 60% of the nation’s cats and dogs are obese, and hundreds of thousands have diabetes. GLP-1 drugs for pets could be the next frontier for the blockbuster weight loss and diabetes drugs.
-
-[2025-12-03 04:22:47](https://bsky.app/profile/nytimes.com/post/3m6zo4pdctz2x)
+[2025-12-03 04:44:53](https://bsky.app/profile/cnbc.com/post/3m6zpeal73x2s)
 
 ---
 
-@nbcnews.com
+@nikkei.com
 
-Nearly four years after Russian President Vladimir Putin’s full-scale invasion of Ukraine, President Trump's envoy is grappling with an empowered Russia.
+トランプ氏、FRB次期議長指名「おそらく年明けに」
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-03 04:20:08](https://bsky.app/profile/nbcnews.com/post/3m6znxyila22j)
-
----
-
-@cbsnews.com
-
-<strong><span style="color: red;">BREAKING:</span> The National Guard shooting suspect is charged with murder and held without bond in a virtual court appearance.</strong><br><strong></strong>
-
-[2025-12-03 04:20:06](https://bsky.app/profile/cbsnews.com/post/3m6znxwpnds2b)
-
----
-
-@forbes.com
-
-Trump Agriculture Secretary Brooke Rollins said 21 states haven’t complied with the agency’s request for data intended to “root out this fraud and to protect the American taxpayer.”
-
-[2025-12-03 04:20:03](https://bsky.app/profile/forbes.com/post/3m6znxtpf3c2q)
-
----
-
-@apnews.com
-
-A man accused of shooting two National Guard troops near the White House has pleaded not guilty to first-degree murder and assault charges.
-
-[2025-12-03 04:15:58](https://bsky.app/profile/apnews.com/post/3m6znqjx63v2c)
+[2025-12-03 04:43:33](https://bsky.app/profile/nikkei.com/post/3m6zpbtwgpn2w)
 
 ---
 
 @reuters.com
 
-Janux dives as gaps in prostate cancer study data worry investors reut.rs/48vYQ7J
+Russian officials warn of challenges posed by strong rouble reut.rs/4pdBiLU
 
-[2025-12-03 04:15:12](https://bsky.app/profile/reuters.com/post/3m6znp5qcqn2r)
+[2025-12-03 04:40:16](https://bsky.app/profile/reuters.com/post/3m6zp3yl35o2e)
 
 ---
 
-@en.afp.com
+@nbcnews.com
 
-This picture taken from the Nuseirat camp for displaced Palestinians shows destroyed buildings and smoke billowing following Israeli strikes east of Gaza City on Tuesday. The ceasefire that came into effect on October 10 remains fragile, and the Gaza Strip remains in a deep humanitarian crisis.
+Rapper Toosii will step out of recording studio and on to the gridiron in hopes of suiting up for Syracuse University's football team, the artist announces.
 
-[2025-12-03 04:15:07](https://bsky.app/profile/en.afp.com/post/3m6znoyp4dz2u)
+[2025-12-03 04:40:07](https://bsky.app/profile/nbcnews.com/post/3m6zp3pgj5y2i)
+
+---
+
+@nytimes.com
+
+We asked readers for their questions for The New York Times’s executive editor Joe Kahn about how we cover the news and make judgment calls in our reporting and editing. Here's what he said.
+
+[2025-12-03 04:40:02](https://bsky.app/profile/nytimes.com/post/3m6zp3l7ea722)
+
+---
+
+@cbsnews.com
+
+GOP Rep. Elise Stefanik of New York lashed out at House Speaker Mike Johnson, accusing him of blocking a provision that would require the FBI to notify Congress when it opens counterintelligence investigations into candidates running for federal office. 
+
+[2025-12-03 04:40:01](https://bsky.app/profile/cbsnews.com/post/3m6zp3jseiw2g)
+
+---
+
+@axios.com
+
+<strong><span style="color: red;">JUST IN:</span> ICE coming for Minneapolis after Trump targets Somalis</strong>
+
+[2025-12-03 04:37:56](https://bsky.app/profile/axios.com/post/3m6zoxsddx223)
+
+---
+
+@wsj.com
+
+Pete Hegseth says he didn’t see the second strike on an alleged drug boat that killed two survivors because he had left the room after the first strike.
+
+[2025-12-03 04:36:31](https://bsky.app/profile/wsj.com/post/3m6zovbqhou22)
 
 ---
 
