@@ -1,9 +1,9 @@
-# [2025-12-03 08:10 updated](2025_12_03.md)
+# [2025-12-03 08:30 updated](2025_12_03.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Behind bitcoin's big fall: Investors aren't willing to buy into the wild ride <a href="https://bsky.app/profile/yahoofinance.com/post/3m722m2hqxd23" target="_blank">yahoofinance.com</a> (2025-12-03 08:06:06)</span><span style="padding-right:50px;">German conservatives back pension reform in trial vote ahead of parliamentary test reut.rs/4iCj8B6 <a href="https://bsky.app/profile/reuters.com/post/3m722kcxjvj2r" target="_blank">reuters.com</a> (2025-12-03 08:05:08)</span><span style="padding-right:50px;">More than 300 students went missing after an attack on a Catholic school in Nigeria, the latest mass abduction that has left parents desperate and looking for help—including from the U.S. <a href="https://bsky.app/profile/wsj.com/post/3m722hkiqdg2h" target="_blank">wsj.com</a> (2025-12-03 08:03:35)</span><span style="padding-right:50px;">Talks between Russia and US on Ukraine were useful but work remains, says Putin aide on.ft.com/49U3qPs <a href="https://bsky.app/profile/financialtimes.com/post/3m722fnchfx27" target="_blank">financialtimes.com</a> (2025-12-03 08:02:31)</span><span style="padding-right:50px;">It was a pain worse than childbirth, said a TikTok mom as she described bouts of uncontrollable vomiting after marijuana use.  <a href="https://bsky.app/profile/cnn.com/post/3m722eqqtee2j" target="_blank">cnn.com</a> (2025-12-03 08:02:01)</span>
+<span style="padding-right:50px;">Key figure in Comey case sues to block use of evidence as DOJ mulls second indictment reut.rs/4iJ3Tq3 <a href="https://bsky.app/profile/reuters.com/post/3m723o6v7ye27" target="_blank">reuters.com</a> (2025-12-03 08:25:12)</span><span style="padding-right:50px;">A system expected to drop 6 inches of snow or more from Pennsylvania to Maine could tie up the Tuesday evening commute, the National Weather Service says. n.pr/49TKsse <a href="https://bsky.app/profile/npr.org/post/3m723nl5tz62e" target="_blank">npr.org</a> (2025-12-03 08:24:51)</span><span style="padding-right:50px;">Surprise heirs are showing up because of DNA test kits and sowing disorder for people handling their loved ones’ estates.   🔗: on.wsj.com/49RUmuz <a href="https://bsky.app/profile/wsj.com/post/3m723jg6wev2i" target="_blank">wsj.com</a> (2025-12-03 08:22:32)</span><span style="padding-right:50px;">A masked bandit terrorized an Ashland ABC store over the weekend, smashing multiple bottles of bourbon before passing out drunk on the bathroom floor.  The intoxicated suspect was a raccoon. <a href="https://bsky.app/profile/axios.com/post/3m723gejez225" target="_blank">axios.com</a> (2025-12-03 08:20:49)</span><span style="padding-right:50px;">中国外相 ロシア高官と会談 連携して日本に圧力かけるねらいか https://news.web.nhk/newsweb/na/na-k10014992431000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m723bgse3c2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 08:18:02)</span>
   </div>
 </div>
 
@@ -32,96 +32,101 @@
 
 ## News Headlines
 
-1. ビットコイン急落、投資家のリスク回避姿勢が鮮明に
-2. ナイジェリアでカトリック学校襲撃、300人以上の生徒が行方不明
-3. 米露、ウクライナ和平交渉で進展も課題山積
-4. サマーズ元米財務長官、エプスタイン氏との関係で学会から追放
-5. トランプ氏、麻薬対策で地上攻撃拡大を示唆
-6. FDA、血糖値測定器の誤作動で死亡事故発生と警告
+1. コミー事件の重要人物、証拠使用阻止を提訴
+2. 米国北東部で大雪の恐れ、交通機関に影響か
+3. DNA検査で判明した予期せぬ相続人が遺産相続に混乱
+4. 中国外相、ロシア高官と会談、対日連携を模索か
+5. 小惑星ベンヌの砂から生命に必要な糖を発見、生命起源説に新たな証拠
+6. ナイジェリアでカトリック学校襲撃、300人以上の生徒が行方不明
 
 ----
 
-@yahoofinance.com
+@reuters.com
 
-Behind bitcoin's big fall: Investors aren't willing to buy into the wild ride
+Key figure in Comey case sues to block use of evidence as DOJ mulls second indictment reut.rs/4iJ3Tq3
 
-[2025-12-03 08:06:06](https://bsky.app/profile/yahoofinance.com/post/3m722m2hqxd23)
+[2025-12-03 08:25:12](https://bsky.app/profile/reuters.com/post/3m723o6v7ye27)
 
 ---
 
-@reuters.com
+@npr.org
 
-German conservatives back pension reform in trial vote ahead of parliamentary test reut.rs/4iCj8B6
+A system expected to drop 6 inches of snow or more from Pennsylvania to Maine could tie up the Tuesday evening commute, the National Weather Service says. n.pr/49TKsse
 
-[2025-12-03 08:05:08](https://bsky.app/profile/reuters.com/post/3m722kcxjvj2r)
+[2025-12-03 08:24:51](https://bsky.app/profile/npr.org/post/3m723nl5tz62e)
 
 ---
 
 @wsj.com
 
-More than 300 students went missing after an attack on a Catholic school in Nigeria, the latest mass abduction that has left parents desperate and looking for help—including from the U.S.
+Surprise heirs are showing up because of DNA test kits and sowing disorder for people handling their loved ones’ estates. 
 
-[2025-12-03 08:03:35](https://bsky.app/profile/wsj.com/post/3m722hkiqdg2h)
+🔗: on.wsj.com/49RUmuz
 
----
-
-@financialtimes.com
-
-Talks between Russia and US on Ukraine were useful but work remains, says Putin aide on.ft.com/49U3qPs
-
-[2025-12-03 08:02:31](https://bsky.app/profile/financialtimes.com/post/3m722fnchfx27)
+[2025-12-03 08:22:32](https://bsky.app/profile/wsj.com/post/3m723jg6wev2i)
 
 ---
 
-@cnn.com
+@axios.com
 
-It was a pain worse than childbirth, said a TikTok mom as she described bouts of uncontrollable vomiting after marijuana use. 
+A masked bandit terrorized an Ashland ABC store over the weekend, smashing multiple bottles of bourbon before passing out drunk on the bathroom floor. 
+The intoxicated suspect was a raccoon.
 
-[2025-12-03 08:02:01](https://bsky.app/profile/cnn.com/post/3m722eqqtee2j)
+[2025-12-03 08:20:49](https://bsky.app/profile/axios.com/post/3m723gejez225)
 
 ---
 
-@aljazeera.com
+@nhknewsunofficial.bsky.social
 
-Cossette Lopez-Osorio, a member of the right-wing National Party, denounced her left-wing colleague Marlon Ochoa.
+中国外相 ロシア高官と会談 連携して日本に圧力かけるねらいか
+https://news.web.nhk/newsweb/na/na-k10014992431000
 
-[2025-12-03 08:01:49](https://bsky.app/profile/aljazeera.com/post/3m722efde572c)
+[2025-12-03 08:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m723bgse3c2b)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Cyclone Ditwah: Flood catastrophe awakens volunteerism in Sri Lanka
+
+[2025-12-03 08:17:26](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m723adjypj24)
+
+---
+
+@nikkei.com
+
+小惑星ベンヌの砂から生命に必要な糖を発見　東北大学など
+www.nikkei.com/article/DGXZQO...
+
+ベンヌは地球と火星の間の軌道を公転する直径500mほどの小惑星。
+
+地球で誕生した生命の材料が、小惑星によって宇宙からもたらされたとする説の証拠の一つとなる発見です。
+
+[2025-12-03 08:16:27](https://bsky.app/profile/nikkei.com/post/3m7236kpfqo2e)
 
 ---
 
 @reuters.com
 
-American Economic Association bans Epstein correspondent Summers from involvement with group reut.rs/48wo3ie
+San Francisco sues Kraft, Mondelez over ultra-processed foods reut.rs/4rQAZsr
 
-[2025-12-03 08:01:38](https://bsky.app/profile/reuters.com/post/3m722e2teat26)
+[2025-12-03 08:15:15](https://bsky.app/profile/reuters.com/post/3m7234flk5r2a)
 
 ---
 
 @cnbc.com
 
-Morgan House is a best-selling author and an expert on the psychology of money. He argues that true happiness in life comes from wanting less, not accumulating more. "Once you see someone master that equation," he writes, "you'll never think about wealth the same." 
+Stock futures are little changed after major U.S. averages rebound on bitcoin bounce: Live updates
 
-[2025-12-03 08:00:46](https://bsky.app/profile/cnbc.com/post/3m722cigwdd2f)
-
----
-
-@apnews.com
-
-The U.S. stock market held steady on Tuesday as both bond yields and bitcoin stabilized.
-
-The S&P 500 rose 0.2% following its first loss in six days. The Dow Jones Industrial Average added 185 points, or 0.4%, and the Nasdaq composite gained 0.6%.
-
-[2025-12-03 08:00:36](https://bsky.app/profile/apnews.com/post/3m722c77xpt2f)
+[2025-12-03 08:14:25](https://bsky.app/profile/cnbc.com/post/3m7232w3quf2s)
 
 ---
 
-@bloomberg.com
+@reuters.com
 
-Laurentian Bank is selling itself, and the three-way deal shows the challenges small lenders have in competing with the Big Six banks.
+Instacart sues New York City over worker pay, tipping laws reut.rs/3KCLz5h
 
-Read more in today’s Canada Daily newsletter
-
-[2025-12-03 08:00:17](https://bsky.app/profile/bloomberg.com/post/3m722bn34w32v)
+[2025-12-03 08:10:13](https://bsky.app/profile/reuters.com/post/3m722tf7itt2d)
 
 ---
 
