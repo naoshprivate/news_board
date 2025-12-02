@@ -1,9 +1,9 @@
-# [2025-12-03 00:10 updated](2025_12_03.md)
+# [2025-12-03 00:30 updated](2025_12_03.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Soldiers from the British Army allegedly committed crimes including rape, sexual assault and murder while training in Kenya, according to a parliamentary probe in the East African nation. Read more: bloom.bg/48bLLl8  📷: Tony Karumba/AFP <a href="https://bsky.app/profile/bloomberg.com/post/3m6z7x2lsfe2g" target="_blank">bloomberg.com</a> (2025-12-03 00:09:05)</span><span style="padding-right:50px;">Breaking news: Former Honduras President Juan Orlando Hernández, sentenced last year to 45 years in prison for his role in helping drug traffickers move cocaine to the U.S., was released from prison following a pardon from President Trump. <a href="https://bsky.app/profile/washingtonpost.com/post/3m6z7urgoh323" target="_blank">washingtonpost.com</a> (2025-12-03 00:07:48)</span><span style="padding-right:50px;">SEC Chair Atkins calls for new rules for smaller companies to 'make IPOs great again' <a href="https://bsky.app/profile/yahoofinance.com/post/3m6z7rowm3d2x" target="_blank">yahoofinance.com</a> (2025-12-03 00:06:05)</span><span style="padding-right:50px;">最高裁判所 再審テーマの研究会で袴田巌さんの弁護士を講師に https://news.web.nhk/newsweb/na/na-k10014992141000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6z7roks7q2g" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 00:06:02)</span><span style="padding-right:50px;">OpenAI CEO Sam Altman told employees that the company was declaring a “code red” effort to improve the quality of ChatGPT and delaying other products as a result, according to an internal memo viewed by The Wall Street Journal. 🚨 <a href="https://bsky.app/profile/yahoofinance.com/post/3m6z7rcymrk27" target="_blank">yahoofinance.com</a> (2025-12-03 00:05:52)</span>
+<span style="padding-right:50px;">AI could increase divide between rich and poor states, UN report warns reut.rs/49Nrh3i <a href="https://bsky.app/profile/reuters.com/post/3m6zatqlnsn27" target="_blank">reuters.com</a> (2025-12-03 00:25:07)</span><span style="padding-right:50px;">French AI lab Mistral releases new AI models as it looks to keep pace with OpenAI and Google <a href="https://bsky.app/profile/cnbc.com/post/3m6zarycc3y2h" target="_blank">cnbc.com</a> (2025-12-03 00:24:08)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】木造住宅が全焼 住人の90代女性死亡 東京・青梅市 (23:59) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6zaop5bkb22" target="_blank">sokuho.news</a> (2025-12-03 00:22:18)</span><span style="padding-right:50px;">Costco has sued the Trump administration for a refund of the tariffs it has paid on imported goods, should the Supreme Court rule them illegal, becoming one of the largest companies to challenge President Trump’s sweeping levies in court. <a href="https://bsky.app/profile/nytimes.com/post/3m6zakqlsjs2d" target="_blank">nytimes.com</a> (2025-12-03 00:20:05)</span><span style="padding-right:50px;">🇷🇺 🇺🇸 🇺🇦 Donald Trump's son-in-law Jared Kushner and envoy Steve Witkoff will meet with Russian leader Vladimir Putin in Moscow on Tuesday for high-stakes talks on ending the war in Ukraine.  ➡️ u.afp.com/ShKt <a href="https://bsky.app/profile/en.afp.com/post/3m6zaknlbir22" target="_blank">en.afp.com</a> (2025-12-03 00:20:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49303.45 (🔻191.13 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47461.02 (🔺44.11 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23493.10 (🔺113.35 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 184.62 (🔺2.90 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 156.14 (🔺0.72 : 2025-12-02)</span>
+<span style="padding-right:50px;">NIKKEI: 49303.45 (🔻191.13 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47353.48 (🔻63.43 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23431.45 (🔺51.70 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 183.21 (🔺1.49 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 156.02 (🔺0.60 : 2025-12-02)</span>
   </div>
 </div>
 
@@ -32,97 +32,98 @@
 
 ## News Headlines
 
-1. 英国軍、ケニア訓練中に強姦・殺人等の罪か：議会調査
-2. トランプ前大統領、麻薬関与で禁錮45年のホンジュラス元大統領を恩赦
-3. SEC委員長、中小企業のIPO活性化に向け新規則を提唱
-4. 最高裁、再審テーマ研究会で袴田巌さん弁護士を講師に
-5. OpenAI、ChatGPT品質向上のため「コードレッド」宣言、製品遅延も
-6. AIブームと関税が世界経済の回復力を試すか：OECD
+1.  国連報告: AIが貧富の差を拡大する可能性
+2.  青梅市で木造住宅が全焼、90代女性死亡
+3.  コストコ、トランプ政権の関税に対し提訴
+4.  トランプ氏の義理の息子クシュナー氏、プーチン大統領と会談へ
+5.  FDA、医薬品試験での霊長類実験を制限へ
+6.  OpenAI、ChatGPT改善のため「コードレッド」宣言
 
 ----
 
-@bloomberg.com
-
-Soldiers from the British Army allegedly committed crimes including rape, sexual assault and murder while training in Kenya, according to a parliamentary probe in the East African nation. Read more: bloom.bg/48bLLl8
-
-📷: Tony Karumba/AFP
-
-[2025-12-03 00:09:05](https://bsky.app/profile/bloomberg.com/post/3m6z7x2lsfe2g)
-
----
-
-@washingtonpost.com
-
-Breaking news: Former Honduras President Juan Orlando Hernández, sentenced last year to 45 years in prison for his role in helping drug traffickers move cocaine to the U.S., was released from prison following a pardon from President Trump.
-
-[2025-12-03 00:07:48](https://bsky.app/profile/washingtonpost.com/post/3m6z7urgoh323)
-
----
-
-@yahoofinance.com
-
-SEC Chair Atkins calls for new rules for smaller companies to 'make IPOs great again'
-
-[2025-12-03 00:06:05](https://bsky.app/profile/yahoofinance.com/post/3m6z7rowm3d2x)
-
----
-
-@nhknewsunofficial.bsky.social
-
-最高裁判所 再審テーマの研究会で袴田巌さんの弁護士を講師に
-https://news.web.nhk/newsweb/na/na-k10014992141000
-
-[2025-12-03 00:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6z7roks7q2g)
-
----
-
-@yahoofinance.com
-
-OpenAI CEO Sam Altman told employees that the company was declaring a “code red” effort to improve the quality of ChatGPT and delaying other products as a result, according to an internal memo viewed by The Wall Street Journal. 🚨
-
-[2025-12-03 00:05:52](https://bsky.app/profile/yahoofinance.com/post/3m6z7rcymrk27)
-
----
-
 @reuters.com
 
-Tariffs, AI boom could test global growth's resilience, OECD says reut.rs/4iv4jjE
+AI could increase divide between rich and poor states, UN report warns reut.rs/49Nrh3i
 
-[2025-12-03 00:05:12](https://bsky.app/profile/reuters.com/post/3m6z7q4n2ks2i)
+[2025-12-03 00:25:07](https://bsky.app/profile/reuters.com/post/3m6zatqlnsn27)
 
 ---
 
 @cnbc.com
 
-Boeing stock jumps 7% as CFO says company expects higher 737, 787 deliveries next year
+French AI lab Mistral releases new AI models as it looks to keep pace with OpenAI and Google
 
-[2025-12-03 00:05:06](https://bsky.app/profile/cnbc.com/post/3m6z7pwnukx2r)
+[2025-12-03 00:24:08](https://bsky.app/profile/cnbc.com/post/3m6zarycc3y2h)
 
 ---
 
-@usatoday.com
+@sokuho.news
 
-<strong><span style="color: red;">Breaking:</span> President Trump pardons former Honduran President Juan Orlando Hernandez serving 45-year sentence on drug charges.</strong>
+🔔ANNより【速報】です。
 
-[2025-12-03 00:03:10](https://bsky.app/profile/usatoday.com/post/3m6z7misoqr2p)
+【速報】木造住宅が全焼 住人の90代女性死亡 東京・青梅市
+(23:59) #ニュース
+
+[2025-12-03 00:22:18](https://bsky.app/profile/sokuho.news/post/3m6zaop5bkb22)
+
+---
+
+@nytimes.com
+
+Costco has sued the Trump administration for a refund of the tariffs it has paid on imported goods, should the Supreme Court rule them illegal, becoming one of the largest companies to challenge President Trump’s sweeping levies in court.
+
+[2025-12-03 00:20:05](https://bsky.app/profile/nytimes.com/post/3m6zakqlsjs2d)
 
 ---
 
 @en.afp.com
 
-🎄 Norwegian Christmas tree arrives in London
+🇷🇺 🇺🇸 🇺🇦 Donald Trump's son-in-law Jared Kushner and envoy Steve Witkoff will meet with Russian leader Vladimir Putin in Moscow on Tuesday for high-stakes talks on ending the war in Ukraine. 
+➡️ u.afp.com/ShKt
 
-In a yearly tradition going back to 1947, a Norwegian spruce arrives in London, where it will "grace" Trafalgar Square during the Christmas period, with a lighting ceremony planned for December 4
+[2025-12-03 00:20:02](https://bsky.app/profile/en.afp.com/post/3m6zaknlbir22)
 
-[2025-12-03 00:02:21](https://bsky.app/profile/en.afp.com/post/3m6z7kzlwvc22)
+---
+
+@nytimes.com
+
+From @theathleticfc.bsky.social: Uzbekistan is the first double-landlocked nation to qualify for the World Cup 
+
+Here is an eclectic mix of facts, stats and pieces of trivia about each of the 64 teams in the draw. nyti.ms/3KBTgZs
+
+[2025-12-03 00:19:03](https://bsky.app/profile/nytimes.com/post/3m6zaiuxysw2y)
+
+---
+
+@cnbc.com
+
+'Advice was so good,' says CEO who used ChatGPT to pitch new ideas to AI versions of business icons
+
+[2025-12-03 00:16:27](https://bsky.app/profile/cnbc.com/post/3m6zae7zary2e)
 
 ---
 
 @reuters.com
 
-Prada completes Versace takeover after long courtship reut.rs/3XrErvB
+US FDA to curtail use of primate testing in drug trials, FT reports reut.rs/44DM4Tt
 
-[2025-12-03 00:01:10](https://bsky.app/profile/reuters.com/post/3m6z7ivqkco2d)
+[2025-12-03 00:15:12](https://bsky.app/profile/reuters.com/post/3m6zabyl43v2k)
+
+---
+
+@wsj.com
+
+A coalition that tried and failed to block OpenAI’s conversion earlier this year is back with a new tactic: a California ballot initiative aimed at reining in the startup’s power.
+
+[2025-12-03 00:14:21](https://bsky.app/profile/wsj.com/post/3m6zaai6jua2p)
+
+---
+
+@cnbc.com
+
+Wall Street's top stock picks for 2026: Goldman's under-the-radar name with upside
+
+[2025-12-03 00:14:08](https://bsky.app/profile/cnbc.com/post/3m6zaa3xqos2g)
 
 ---
 
