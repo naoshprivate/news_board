@@ -1,9 +1,9 @@
-# [2025-12-02 12:10 updated](2025_12_02.md)
+# [2025-12-02 12:30 updated](2025_12_02.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">中国 国連事務総長に再び書簡 高市首相の国会答弁 撤回求める https://news.web.nhk/newsweb/na/na-k10014991651000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6xxplazjw2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-02 12:09:02)</span><span style="padding-right:50px;">Staff Sgt. Andrew Wolfe was in "serious condition" and responding to requests and had wiggled his toes, Gov. Patrick Morrisey said <a href="https://bsky.app/profile/nbcnews.com/post/3m6xxmifv4c2i" target="_blank">nbcnews.com</a> (2025-12-02 12:07:20)</span><span style="padding-right:50px;">マイナ保険証 きょうから利用が基本に 医療機関で利用者も https://news.web.nhk/newsweb/na/na-k10014991201000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6xxeu3fgb2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-02 12:03:02)</span><span style="padding-right:50px;">ドクターイエロー、引退後も人気冷めず　車体の廃材入ったお守りは完売続出 www.nikkei.com/article/DGXZQO...   「新幹線のお医者さん」のキャッチーな特別感は引退後も顕在。オークション形式で備品が販売され、なかでも銘板には80万円もの値が付きました。   鉄道愛好家に限らず、子供を含めたファミリー層やお年寄りなどファン層が幅広い点も特徴です。 <a href="https://bsky.app/profile/nikkei.com/post/3m6xxctqrkj26" target="_blank">nikkei.com</a> (2025-12-02 12:01:57)</span><span style="padding-right:50px;">🛎️NNNより【独自】です。  【独自】“白タク”行為か 介護サービス会社代表ら逮捕 「福祉輸送事業限定」車両に観光客を乗せたか (2025-12-02 11:59) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6xxbrjrv324" target="_blank">sokuho.news</a> (2025-12-02 12:01:21)</span>
+<span style="padding-right:50px;">秋田 横手 小学校近くの空き家の敷地内にクマ1頭とどまる https://news.web.nhk/newsweb/na/na-k10014991721000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6xyprfeij2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-02 12:27:02)</span><span style="padding-right:50px;">【きょうのおはBiz 12月2日(火)】アスリート “知名度”で支援 https://news.web.nhk/newsweb/na/na-k10014991611000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6xykpf5fk2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-02 12:24:12)</span><span style="padding-right:50px;">株価 値上がり 大きく値下がりした銘柄中心に買い戻す動き https://news.web.nhk/newsweb/na/na-k10014991671000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6xykl3q2k26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-02 12:24:08)</span><span style="padding-right:50px;">鈴木農相 ASFでスペインから豚肉輸入停止“国内の供給に影響” https://news.web.nhk/newsweb/na/na-k10014991681000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6xykfwrao2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-02 12:24:02)</span><span style="padding-right:50px;">US Commerce chief confirms South Korea's 15% tariff rate retroactive to November 1 reut.rs/48or7gs <a href="https://bsky.app/profile/reuters.com/post/3m6xydn2ksj2r" target="_blank">reuters.com</a> (2025-12-02 12:20:17)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49499.06 (🔺4.48 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47289.33 (🔻291.52 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23275.92 (🔺103.58 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.92 (🔺5.16 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3055.00 (🔻30.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 155.67 (🔺0.25 : 2025-12-02)</span>
+<span style="padding-right:50px;">NIKKEI: 49499.06 (🔺4.48 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47289.33 (🔻291.52 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23275.92 (🔺103.58 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.92 (🔺5.16 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3055.00 (🔻30.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 155.60 (🔺0.18 : 2025-12-02)</span>
   </div>
 </div>
 
@@ -32,102 +32,98 @@
 
 ## News Headlines
 
-1. 中国、高市首相答弁撤回を国連事務総長に要求
-2. マイナ保険証、今日から利用が基本に
-3. 引退後も人気！ドクターイエロー廃材お守り完売続出
-4. 【独自】“白タク”行為か 介護サービス会社代表ら逮捕
-5. 新潟県内、警報級の大雪・暴風雪・高波に警戒
-6. 上野厚労相 “職員が求職者なりすまし” 全国調査へ
+1. 秋田横手、小学校近くの空き地にクマ出没
+2. アスリート支援、知名度を活かす新戦略
+3. 株価、大きく値下がり銘柄に買い戻し
+4. スペインASF発生、日本への豚肉輸入停止
+5. 香港高層住宅火災、政府が独立委員会設置へ
+6. 新潟県内、警報級の大雪・暴風雪に警戒
 
 ----
 
 @nhknewsunofficial.bsky.social
 
-中国 国連事務総長に再び書簡 高市首相の国会答弁 撤回求める
-https://news.web.nhk/newsweb/na/na-k10014991651000
+秋田 横手 小学校近くの空き家の敷地内にクマ1頭とどまる
+https://news.web.nhk/newsweb/na/na-k10014991721000
 
-[2025-12-02 12:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6xxplazjw2p)
-
----
-
-@nbcnews.com
-
-Staff Sgt. Andrew Wolfe was in "serious condition" and responding to requests and had wiggled his toes, Gov. Patrick Morrisey said
-
-[2025-12-02 12:07:20](https://bsky.app/profile/nbcnews.com/post/3m6xxmifv4c2i)
+[2025-12-02 12:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6xyprfeij2u)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-マイナ保険証 きょうから利用が基本に 医療機関で利用者も
-https://news.web.nhk/newsweb/na/na-k10014991201000
+【きょうのおはBiz 12月2日(火)】アスリート “知名度”で支援
+https://news.web.nhk/newsweb/na/na-k10014991611000
 
-[2025-12-02 12:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6xxeu3fgb2p)
-
----
-
-@nikkei.com
-
-ドクターイエロー、引退後も人気冷めず　車体の廃材入ったお守りは完売続出
-www.nikkei.com/article/DGXZQO...
- 
-「新幹線のお医者さん」のキャッチーな特別感は引退後も顕在。オークション形式で備品が販売され、なかでも銘板には80万円もの値が付きました。
- 
-鉄道愛好家に限らず、子供を含めたファミリー層やお年寄りなどファン層が幅広い点も特徴です。
-
-[2025-12-02 12:01:57](https://bsky.app/profile/nikkei.com/post/3m6xxctqrkj26)
+[2025-12-02 12:24:12](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6xykpf5fk2p)
 
 ---
 
-@sokuho.news
+@nhknewsunofficial.bsky.social
 
-🛎️NNNより【独自】です。
+株価 値上がり 大きく値下がりした銘柄中心に買い戻す動き
+https://news.web.nhk/newsweb/na/na-k10014991671000
 
-【独自】“白タク”行為か 介護サービス会社代表ら逮捕 「福祉輸送事業限定」車両に観光客を乗せたか
-(2025-12-02 11:59) #ニュース
-
-[2025-12-02 12:01:21](https://bsky.app/profile/sokuho.news/post/3m6xxbrjrv324)
+[2025-12-02 12:24:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6xykl3q2k26)
 
 ---
 
-@cnn.com
+@nhknewsunofficial.bsky.social
 
-Russia claimed on Monday to have captured the eastern Ukrainian city of Pokrovsk, after months of heavy fighting for control of the strategic hub, in what would be a major win for Moscow if true.
+鈴木農相 ASFでスペインから豚肉輸入停止“国内の供給に影響”
+https://news.web.nhk/newsweb/na/na-k10014991681000
 
-[2025-12-02 12:01:01](https://bsky.app/profile/cnn.com/post/3m6xxb6ybpu2q)
-
----
-
-@nbcnews.com
-
-Ocean Spray is investigating reports of its cranberry sauce cans being filled with water this Thanksgiving.
-
-[2025-12-02 12:00:59](https://bsky.app/profile/nbcnews.com/post/3m6xxb4scjm2j)
+[2025-12-02 12:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6xykfwrao2j)
 
 ---
 
 @reuters.com
 
-US to lower tariffs on South Korean autos to 15% effective Nov 1, Lutnick says reut.rs/4ospbcE
+US Commerce chief confirms South Korea's 15% tariff rate retroactive to November 1 reut.rs/48or7gs
 
-[2025-12-02 12:00:54](https://bsky.app/profile/reuters.com/post/3m6xxaxzhr722)
-
----
-
-@usatoday.com
-
-Lawmakers said in both parties said they were reviewing the Trump administration's attacks on alleged drug smuggling boats.
-
-[2025-12-02 12:00:25](https://bsky.app/profile/usatoday.com/post/3m6xxa4ipc42t)
+[2025-12-02 12:20:17](https://bsky.app/profile/reuters.com/post/3m6xydn2ksj2r)
 
 ---
 
-@aljazeera.com
+@axios.com
 
-Joaquin Guzman Lopez pleads guilty to drug trafficking and to kidnapping an individual believed to be 'El Mayo' Zambada.
+The publisher of the Franklin the Turtle children's books series said today it condemns the unauthorized use of the beloved character after Defense Secretary Pete Hegseth shared an image of him apparently firing at drug boats.
 
-[2025-12-02 12:00:21](https://bsky.app/profile/aljazeera.com/post/3m6xx7y6iyc2n)
+[2025-12-02 12:19:28](https://bsky.app/profile/axios.com/post/3m6xyc5vsgs2o)
+
+---
+
+@wsj.com
+
+Exclusive: Chinese rare-earth magnet companies are finding workarounds to their government’s onerous export restrictions, as they seek to keep sales flowing to Western buyers without falling afoul of Chinese authorities.
+
+[2025-12-02 12:19:03](https://bsky.app/profile/wsj.com/post/3m6xybge27m2p)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+香港 高層住宅火災の真相究明 香港政府が独立委員会立ち上げへ
+https://news.web.nhk/newsweb/na/na-k10014991411000
+
+[2025-12-02 12:18:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6xy7ph2ca2b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【動画】千葉 松戸 本土寺 ヤマモミジやオオサカズキ見頃
+https://news.web.nhk/newsweb/na/na-k10014990441000
+
+[2025-12-02 12:12:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6xxuxlf4m2j)
+
+---
+
+@reuters.com
+
+Treasury investigating tax fraud allegations in Minnesota, Bessent says reut.rs/3KyuV6U
+
+[2025-12-02 12:10:12](https://bsky.app/profile/reuters.com/post/3m6xxrmotlq2e)
 
 ---
 
