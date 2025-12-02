@@ -1,9 +1,9 @@
-# [2025-12-02 19:30 updated](2025_12_02.md)
+# [2025-12-02 19:50 updated](2025_12_02.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">日本ハム 西川遙輝と来季の契約に合意 5年ぶりに復帰へ https://news.web.nhk/newsweb/na/na-k10014992041000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6yq6wm64n2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-02 19:27:07)</span><span style="padding-right:50px;">北海道東部で震度4 津波の心配なし https://news.web.nhk/newsweb/na/na-k10014992111000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6yq6riz5l2t" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-02 19:27:02)</span><span style="padding-right:50px;">BREAKING: The Prada Group has officially purchased Milan fashion rival Versace for nearly $1.4 billion. <a href="https://bsky.app/profile/apnews.com/post/3m6yq56sd3f27" target="_blank">apnews.com</a> (2025-12-02 19:26:11)</span><span style="padding-right:50px;">Disney’s past attempts to pick a successor to CEO Bob Iger have been less than magical. Now the company is trying to write a happier ending. <a href="https://bsky.app/profile/wsj.com/post/3m6yq4q3emb2r" target="_blank">wsj.com</a> (2025-12-02 19:25:55)</span><span style="padding-right:50px;">President Vladimir Putin of Russia is set to host Steve Witkoff, President Trump’s special envoy, in Moscow on Tuesday, as the U.S. pushes for an end to the war in Ukraine. Here's what to know: nyti.ms/3KarqDE <a href="https://bsky.app/profile/nytimes.com/post/3m6yq4evng42m" target="_blank">nytimes.com</a> (2025-12-02 19:25:43)</span>
+<span style="padding-right:50px;">Vaughan urges England to blend Bazball with old-school discipline reut.rs/44Jdlnr <a href="https://bsky.app/profile/reuters.com/post/3m6yr75w5nf2w" target="_blank">reuters.com</a> (2025-12-02 19:45:10)</span><span style="padding-right:50px;">【日経特報】 2026年サッカーW杯、地上波放送へ　DAZNも配信で調整 www.nikkei.com/article/DGXZQO...  NHK、日本テレビ、フジテレビ、DAZNが電通から放映権を取得する方向です。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m6yqzfmldg2l" target="_blank">nikkei.com</a> (2025-12-02 19:41:57)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】「1階から火と煙が立ち上っている」鳥取市の住宅地で建物火災 午後6時半現在消火活動継続中 (2025-12-02 19:05) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6yqyaycd626" target="_blank">sokuho.news</a> (2025-12-02 19:41:19)</span><span style="padding-right:50px;">The White House has released a letter summarizing President Trump's MRI results, saying that the examination was done as a preventative measure, and that the president is in "excellent" health. <a href="https://bsky.app/profile/nbcnews.com/post/3m6yqwcjall2j" target="_blank">nbcnews.com</a> (2025-12-02 19:40:13)</span><span style="padding-right:50px;">Here's a look at some of the highlights worth watching from late-night TV. <a href="https://bsky.app/profile/nytimes.com/post/3m6yqvyab2i2h" target="_blank">nytimes.com</a> (2025-12-02 19:40:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49303.45 (🔻191.13 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47289.33 (🔻291.52 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23275.92 (🔺103.58 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.92 (🔺5.16 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 156.07 (🔺0.65 : 2025-12-02)</span>
+<span style="padding-right:50px;">NIKKEI: 49303.45 (🔻191.13 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47289.33 (🔻291.52 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23275.92 (🔺103.58 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.92 (🔺5.16 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 156.02 (🔺0.60 : 2025-12-02)</span>
   </div>
 </div>
 
@@ -32,96 +32,108 @@
 
 ## News Headlines
 
-1. 西川遙輝、日本ハムに5年ぶり復帰へ
-2. 北海道東部で震度4、津波の心配なし
-3. プラダ、ヴェルサーチを1600億円で買収
-4. ロシア、トランプ特使を迎えウクライナ和平協議へ
-5. インドネシア大雨、死者1200人超・不明800人以上
-6. 住宅ローン減税、5年延長へ 政府調整
+1.  鳥取市で住宅火災、消火活動続く
+2.  ソフトバンク有原航平、自由契約へ
+3.  香港高層住宅火災、原因究明へ独立委員会設置
+4.  佐賀有田町長、セクハラ行為で辞職へ
+5.  高市首相、福島訪問で廃炉への責任強調
+6.  日本ハム、西川遥輝と契約合意、5年ぶり復帰
 
 ----
 
-@nhknewsunofficial.bsky.social
-
-日本ハム 西川遙輝と来季の契約に合意 5年ぶりに復帰へ
-https://news.web.nhk/newsweb/na/na-k10014992041000
-
-[2025-12-02 19:27:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6yq6wm64n2j)
-
----
-
-@nhknewsunofficial.bsky.social
-
-北海道東部で震度4 津波の心配なし
-https://news.web.nhk/newsweb/na/na-k10014992111000
-
-[2025-12-02 19:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6yq6riz5l2t)
-
----
-
-@apnews.com
-
-<strong><span style="color: red;">BREAKING:</span> The Prada Group has officially purchased Milan fashion rival Versace for nearly $1.4 billion.</strong>
-
-[2025-12-02 19:26:11](https://bsky.app/profile/apnews.com/post/3m6yq56sd3f27)
-
----
-
-@wsj.com
-
-Disney’s past attempts to pick a successor to CEO Bob Iger have been less than magical. Now the company is trying to write a happier ending.
-
-[2025-12-02 19:25:55](https://bsky.app/profile/wsj.com/post/3m6yq4q3emb2r)
-
----
-
-@nytimes.com
-
-President Vladimir Putin of Russia is set to host Steve Witkoff, President Trump’s special envoy, in Moscow on Tuesday, as the U.S. pushes for an end to the war in Ukraine. Here's what to know: nyti.ms/3KarqDE
-
-[2025-12-02 19:25:43](https://bsky.app/profile/nytimes.com/post/3m6yq4evng42m)
-
----
-
 @reuters.com
 
-Bank of England eases bank capital requirements in bid to boost growth reut.rs/4ardBv5
+Vaughan urges England to blend Bazball with old-school discipline reut.rs/44Jdlnr
 
-[2025-12-02 19:25:11](https://bsky.app/profile/reuters.com/post/3m6yq3g47wk27)
+[2025-12-02 19:45:10](https://bsky.app/profile/reuters.com/post/3m6yr75w5nf2w)
+
+---
+
+@nikkei.com
+
+【日経特報】
+2026年サッカーW杯、地上波放送へ　DAZNも配信で調整
+www.nikkei.com/article/DGXZQO...
+
+NHK、日本テレビ、フジテレビ、DAZNが電通から放映権を取得する方向です。
+
+#ニュース
+
+[2025-12-02 19:41:57](https://bsky.app/profile/nikkei.com/post/3m6yqzfmldg2l)
 
 ---
 
 @sokuho.news
 
-<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>北海道東部で震度4 津波の心配なし</strong><br><strong>(2025-12-02 19:24:16) #地震</strong>
+🛎️FNNより【速報】です。
 
-[2025-12-02 19:24:40](https://bsky.app/profile/sokuho.news/post/3m6yq2i6oxu2g)
+【速報】「1階から火と煙が立ち上っている」鳥取市の住宅地で建物火災 午後6時半現在消火活動継続中
+(2025-12-02 19:05) #ニュース
+
+[2025-12-02 19:41:19](https://bsky.app/profile/sokuho.news/post/3m6yqyaycd626)
+
+---
+
+@nbcnews.com
+
+The White House has released a letter summarizing President Trump's MRI results, saying that the examination was done as a preventative measure, and that the president is in "excellent" health.
+
+[2025-12-02 19:40:13](https://bsky.app/profile/nbcnews.com/post/3m6yqwcjall2j)
+
+---
+
+@nytimes.com
+
+Here's a look at some of the highlights worth watching from late-night TV.
+
+[2025-12-02 19:40:02](https://bsky.app/profile/nytimes.com/post/3m6yqvyab2i2h)
+
+---
+
+@en.afp.com
+
+🇮🇩 🇱🇰 Governments and aid groups in Indonesia and Sri Lanka are working to rush aid to hundreds of thousands stranded by deadly flooding that has killed over 1,200 people in four countries. 
+➡️ u.afp.com/ShzU
+
+[2025-12-02 19:40:01](https://bsky.app/profile/en.afp.com/post/3m6yqvx6fwf2e)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-大分 大規模火災2週間 今後の住まいなど住民説明会
-https://news.web.nhk/newsweb/na/na-k10014991421000
+ソフトバンク 2年連続最多勝の有原航平が自由契約に
+https://news.web.nhk/newsweb/na/na-k10014992091000
 
-[2025-12-02 19:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ypzgf2uu2j)
-
----
-
-@npr.org
-
-A Florida-based company is charging military veterans as much as $20,000 for help with disability claims, even though the VA has said that may be illegal and the service should be free. But so far nobody's stopping the company and others like it. n.pr/4awb0jo
-
-[2025-12-02 19:21:42](https://bsky.app/profile/npr.org/post/3m6ypv6wss32j)
+[2025-12-02 19:39:11](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6yqujhprf23)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-インドネシアなど 大雨で死者1200人超 行方不明800人以上
-https://news.web.nhk/newsweb/na/na-k10014991401000
+香港 高層住宅火災 “原因究明を”香港政府が独立委員会設置へ
+https://news.web.nhk/newsweb/na/na-k10014991411000
 
-[2025-12-02 19:21:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6ypu6yo3l26)
+[2025-12-02 19:39:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6yqufke7t26)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+佐賀 有田町長 “宴席でセクハラ行為”辞職の考え明らかに
+https://news.web.nhk/newsweb/na/na-k10014992121000
+
+[2025-12-02 19:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6yquadcga2p)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】鳥取市若葉台南の住宅で火災 60代男性がヤケドで病院に搬送 鳥取県鳥取市
+(2025-12-02 19:38) #ニュース
+
+[2025-12-02 19:38:26](https://bsky.app/profile/sokuho.news/post/3m6yqt4p5si27)
 
 ---
 
