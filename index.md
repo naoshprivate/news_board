@@ -1,9 +1,9 @@
-# [2025-12-03 00:50 updated](2025_12_03.md)
+# [2025-12-03 01:10 updated](2025_12_03.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Kushner and Witkoff have arrived at the Kremlin. <a href="https://bsky.app/profile/axios.com/post/3m6zc6qj4ec2y" target="_blank">axios.com</a> (2025-12-03 00:49:10)</span><span style="padding-right:50px;">Michael and Susan Dell pledge $6.25bn to help fund ‘Trump Accounts’ for children on.ft.com/3M4TMjh <a href="https://bsky.app/profile/financialtimes.com/post/3m6zc4sw6s527" target="_blank">financialtimes.com</a> (2025-12-03 00:48:05)</span><span style="padding-right:50px;">Chinese autonomous driving firm Momenta files for Hong Kong IPO, sources say reut.rs/48u097g <a href="https://bsky.app/profile/reuters.com/post/3m6zbxr5tw22d" target="_blank">reuters.com</a> (2025-12-03 00:45:16)</span><span style="padding-right:50px;">Homeland Security Secretary Kristi Noem is recommending that the Trump administration's travel ban list include between 30 to 32 countries, marking an increase from the current list of 19 countries, according to a source familiar with the matter. https://cnn.it/4pLdnn3 <a href="https://bsky.app/profile/cnn.com/post/3m6zbxkdsi62q" target="_blank">cnn.com</a> (2025-12-03 00:45:09)</span><span style="padding-right:50px;">Strategy shares have been wrecked by bitcoin sell-off. How to bet on a bounce in the risky stock using options <a href="https://bsky.app/profile/cnbc.com/post/3m6zbw6rydn2j" target="_blank">cnbc.com</a> (2025-12-03 00:44:23)</span>
+<span style="padding-right:50px;">OpenAI CEO Sam Altman declares 'code red' as ChatGPT competition mounts <a href="https://bsky.app/profile/yahoofinance.com/post/3m6zd5btirn2c" target="_blank">yahoofinance.com</a> (2025-12-03 01:06:15)</span><span style="padding-right:50px;">Anti-abortion 'crisis pregnancy centers' case goes to US Supreme Court reut.rs/48vV7XV <a href="https://bsky.app/profile/reuters.com/post/3m6zd3erk6j2y" target="_blank">reuters.com</a> (2025-12-03 01:05:11)</span><span style="padding-right:50px;">OpenAI is under pressure as Google, Anthropic gain ground <a href="https://bsky.app/profile/cnbc.com/post/3m6zd34gjb42f" target="_blank">cnbc.com</a> (2025-12-03 01:05:02)</span><span style="padding-right:50px;">Elon Musk lists his three most important ingredients for AI <a href="https://bsky.app/profile/cnbc.com/post/3m6zcx5au4m2s" target="_blank">cnbc.com</a> (2025-12-03 01:02:49)</span><span style="padding-right:50px;">🇰🇷 How South Korea's brief martial law upended lives  When South Korea's leader declared martial law a year ago, a woman blocked a tank, a civil servant resigned in protest and a lawmaker switched sides. They are among the many South Koreans whose lives were transformed on December 3, 2024. <a href="https://bsky.app/profile/en.afp.com/post/3m6zcw57hin2c" target="_blank">en.afp.com</a> (2025-12-03 01:02:15)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49303.45 (🔻191.13 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47490.29 (🔺73.38 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23506.11 (🔺126.36 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 184.23 (🔺2.51 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 155.92 (🔺0.50 : 2025-12-02)</span>
+<span style="padding-right:50px;">NIKKEI: 49303.45 (🔻191.13 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47555.82 (🔺138.91 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23448.42 (🔺68.67 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 182.13 (🔺0.41 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 155.90 (🔺0.48 : 2025-12-02)</span>
   </div>
 </div>
 
@@ -32,94 +32,96 @@
 
 ## News Headlines
 
-1. クシュナー氏とウィトコフ氏、クレムリン訪問
-2. デル夫妻、子供向け「トランプ口座」に62.5億ドル拠出
-3. 中国の自動運転企業Momenta、香港IPO申請
-4. トランプ政権の入国禁止リスト、30～32カ国に拡大か
-5. スキーの仲裁裁判所がロシアとベラルーシのスキーヤーが2026年の冬季オリンピックに出場できるように道を開いた
-6. 元ホンジュラス大統領、トランプ氏の恩赦で釈放、物議
+1. ChatGPT競争激化でOpenAI CEOが「コードレッド」宣言
+2. 中絶反対「妊娠危機センター」訴訟、米最高裁へ
+3. 韓国で戒厳令から1年、人々の生活が一変
+4. 家畜に人食い寄生虫が再発、食肉価格高騰で国家安全保障上の優先事項に
+5. トランプ政権、半導体製造技術開発のスタートアップに最大1.5億ドル投資
+6. プーチン大統領、「欧州が戦争を望むなら、我々は準備できている」
 
 ----
 
-@axios.com
+@yahoofinance.com
 
-Kushner and Witkoff have arrived at the Kremlin.
+OpenAI CEO Sam Altman declares 'code red' as ChatGPT competition mounts
 
-[2025-12-03 00:49:10](https://bsky.app/profile/axios.com/post/3m6zc6qj4ec2y)
-
----
-
-@financialtimes.com
-
-Michael and Susan Dell pledge $6.25bn to help fund ‘Trump Accounts’ for children on.ft.com/3M4TMjh
-
-[2025-12-03 00:48:05](https://bsky.app/profile/financialtimes.com/post/3m6zc4sw6s527)
+[2025-12-03 01:06:15](https://bsky.app/profile/yahoofinance.com/post/3m6zd5btirn2c)
 
 ---
 
 @reuters.com
 
-Chinese autonomous driving firm Momenta files for Hong Kong IPO, sources say reut.rs/48u097g
+Anti-abortion 'crisis pregnancy centers' case goes to US Supreme Court reut.rs/48vV7XV
 
-[2025-12-03 00:45:16](https://bsky.app/profile/reuters.com/post/3m6zbxr5tw22d)
-
----
-
-@cnn.com
-
-Homeland Security Secretary Kristi Noem is recommending that the Trump administration's travel ban list include between 30 to 32 countries, marking an increase from the current list of 19 countries, according to a source familiar with the matter. https://cnn.it/4pLdnn3
-
-[2025-12-03 00:45:09](https://bsky.app/profile/cnn.com/post/3m6zbxkdsi62q)
+[2025-12-03 01:05:11](https://bsky.app/profile/reuters.com/post/3m6zd3erk6j2y)
 
 ---
 
 @cnbc.com
 
-Strategy shares have been wrecked by bitcoin sell-off. How to bet on a bounce in the risky stock using options
+OpenAI is under pressure as Google, Anthropic gain ground
 
-[2025-12-03 00:44:23](https://bsky.app/profile/cnbc.com/post/3m6zbw6rydn2j)
+[2025-12-03 01:05:02](https://bsky.app/profile/cnbc.com/post/3m6zd34gjb42f)
 
 ---
 
-@reuters.com
+@cnbc.com
 
-UK set for faster growth in 2026, slower inflation, OECD forecasts reut.rs/4pIRHIc
+Elon Musk lists his three most important ingredients for AI
 
-[2025-12-03 00:40:16](https://bsky.app/profile/reuters.com/post/3m6zbosvsnz2r)
+[2025-12-03 01:02:49](https://bsky.app/profile/cnbc.com/post/3m6zcx5au4m2s)
 
 ---
 
 @en.afp.com
 
-⛷️ The Court of Arbitration for Sport has opened the way for Russian and Belarusian skiers to compete in the 2026 Winter Olympics by overturning a ban imposed by the top skiing body. 
-#AFPSports 
-➡️ u.afp.com/ShKB
+🇰🇷 How South Korea's brief martial law upended lives
 
-[2025-12-03 00:40:02](https://bsky.app/profile/en.afp.com/post/3m6zbogadf722)
+When South Korea's leader declared martial law a year ago, a woman blocked a tank, a civil servant resigned in protest and a lawmaker switched sides. They are among the many South Koreans whose lives were transformed on December 3, 2024.
 
----
-
-@wsj.com
-
-Former Honduran President Juan Orlando Hernández walked out of prison Tuesday following a pardon by President Trump, fueling controversy in the U.S. and Honduras amid rising political uncertainty in the poor Central American nation.
-
-[2025-12-03 00:36:51](https://bsky.app/profile/wsj.com/post/3m6zbiplsz22a)
+[2025-12-03 01:02:15](https://bsky.app/profile/en.afp.com/post/3m6zcw57hin2c)
 
 ---
 
 @reuters.com
 
-Trump promised a San Francisco crime crackdown. His administration did the opposite. reut.rs/4pPsZGh
+Belgian police raid EU diplomatic service on fraud suspicion reut.rs/4oy56BH
 
-[2025-12-03 00:35:07](https://bsky.app/profile/reuters.com/post/3m6zbfmu7r627)
+[2025-12-03 01:01:12](https://bsky.app/profile/reuters.com/post/3m6zcuazsqi22)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@usatoday.com
 
-Zambian-American influencer Ethel Chisono Edwards sentenced to 18 months for hate speech
+Nearly 450 readers responded to a USA TODAY survey about caregiving. Here's what they said about The Cost of Care.
 
-[2025-12-03 00:32:13](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6zbahqwer2y)
+[2025-12-03 01:01:07](https://bsky.app/profile/usatoday.com/post/3m6zcu4pmvw2j)
+
+---
+
+@washingtonpost.com
+
+A flesh-eating parasite called the New World screwworm has resurged in livestock while beef prices are near record highs.
+
+Agriculture Secretary Brooke Rollins has called keeping the parasite out of the country “a national security priority.” 
+
+[2025-12-03 01:00:47](https://bsky.app/profile/washingtonpost.com/post/3m6zctjewvt2y)
+
+---
+
+@apnews.com
+
+Justin Herbert gave the Los Angeles Chargers another opportunity to rave about their star quarterback when he played through a broken bone in his non-throwing hand in a 31-14 win over the Las Vegas Raiders.
+
+[2025-12-03 01:00:27](https://bsky.app/profile/apnews.com/post/3m6zcswbfo42h)
+
+---
+
+@bloomberg.com
+
+Tom Steyer's investment firm Galvanize is looking to fill the gap in private credit left by the collapse of SVB and more on today's Green Daily
+
+[2025-12-03 01:00:13](https://bsky.app/profile/bloomberg.com/post/3m6zcsiiu7f2h)
 
 ---
 
