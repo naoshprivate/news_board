@@ -1,9 +1,9 @@
-# [2025-12-02 17:10 updated](2025_12_02.md)
+# [2025-12-02 17:30 updated](2025_12_02.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️ANNより【速報】です。  【速報】函館・五稜郭近くの繁華街で火事 (2025-12-02 17:03:25) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6yibbqy4w2m" target="_blank">sokuho.news</a> (2025-12-02 17:05:18)</span><span style="padding-right:50px;">Starbucks will pay $38.9 million to settle NYC probe over worker schedules reut.rs/48JX5F7 <a href="https://bsky.app/profile/reuters.com/post/3m6yib2b3vg2o" target="_blank">reuters.com</a> (2025-12-02 17:05:10)</span><span style="padding-right:50px;">在宅勤務、集中できる椅子の選び方　意識したい３つのポイント www.nikkei.com/article/DGXZQO...   家庭でのオフィスチェア需要が拡大。椅子に対する意識が「座れればいい」から「仕事の効率や快適さのために投資すべきもの」に変わっています。   大事なのは正しい姿勢で座れるかどうか。ただし、「ちゃんと座る=背筋をピンと伸ばす」という訳ではありません。 <a href="https://bsky.app/profile/nikkei.com/post/3m6yi3bqwvb2m" target="_blank">nikkei.com</a> (2025-12-02 17:01:57)</span><span style="padding-right:50px;">Belarusian incursions into Lithuania’s airspace constitute a “hybrid attack” by the Lukashenko regime, European Commission President Ursula von der Leyen said, as the Belarusian representative in Brussels was summoned. <a href="https://bsky.app/profile/cnn.com/post/3m6yhznbsnt2y" target="_blank">cnn.com</a> (2025-12-02 17:01:01)</span><span style="padding-right:50px;">Marvell in advanced talks to buy Celestial AI in multi-billion-dollar deal, The Information says reut.rs/444Bvst <a href="https://bsky.app/profile/reuters.com/post/3m6yhymhiek22" target="_blank">reuters.com</a> (2025-12-02 17:00:27)</span>
+<span style="padding-right:50px;">広がる「寄付文化」去年の取引額推計2兆260億円余 NPO法人調査 https://news.web.nhk/newsweb/na/na-k10014991911000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6yji7mwjo2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-02 17:27:02)</span><span style="padding-right:50px;">Rupee hits record low on feeble foreign flows, drawing RBI to defend 90 level reut.rs/4rrlnLv <a href="https://bsky.app/profile/reuters.com/post/3m6yjevpmnn2r" target="_blank">reuters.com</a> (2025-12-02 17:25:13)</span><span style="padding-right:50px;">Italian town freezes Pavarotti statue knee-deep in Christmas ice rink, angering widow <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6yjc2occw2y" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-02 17:23:37)</span><span style="padding-right:50px;">Sanchar Saathi: India mandates state-owned cyber safety app on all smartphones <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6yja4kgf527" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-02 17:22:32)</span><span style="padding-right:50px;">US authorised second Venezuela boat strike, White House says <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6yj66lxqq22" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-02 17:21:27)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49303.45 (🔻191.13 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47289.33 (🔻291.52 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23275.92 (🔺103.58 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.92 (🔺5.16 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 155.80 (🔺0.38 : 2025-12-02)</span>
+<span style="padding-right:50px;">NIKKEI: 49303.45 (🔻191.13 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47289.33 (🔻291.52 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23275.92 (🔺103.58 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.92 (🔺5.16 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 155.94 (🔺0.52 : 2025-12-02)</span>
   </div>
 </div>
 
@@ -32,104 +32,102 @@
 
 ## News Headlines
 
-1. 函館・五稜郭近くの繁華街で火事
-2. ディズニーシー・ホテルミラコスタで刃物男逮捕
-3. 安倍元首相銃撃事件、被告「他の政治家では意味弱い」
-4. 長崎・南島原の住宅火災、不明だった50代住民の無事確認
-5. 宮城・気仙沼、漁港近くで小型漁船転覆、70代男性死亡
-6. インドネシア豪雨、死者600人超、救助活動難航
+1. 寄付文化広がる、年間取引額2兆円超え
+2. ルピー、対ドルで過去最安値更新
+3. 非正規春闘、3年連続10%以上の賃上げ要求へ
+4. 佐賀県有田町長、出張中のセクハラで辞職意向
+5. 函館・五稜郭近くの繁華街で火事発生
+6. 安倍元首相銃撃事件、被告「他の政治家では意味弱い」
 
 ----
 
+@nhknewsunofficial.bsky.social
+
+広がる「寄付文化」去年の取引額推計2兆260億円余 NPO法人調査
+https://news.web.nhk/newsweb/na/na-k10014991911000
+
+[2025-12-02 17:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6yji7mwjo2p)
+
+---
+
+@reuters.com
+
+Rupee hits record low on feeble foreign flows, drawing RBI to defend 90 level reut.rs/4rrlnLv
+
+[2025-12-02 17:25:13](https://bsky.app/profile/reuters.com/post/3m6yjevpmnn2r)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Italian town freezes Pavarotti statue knee-deep in Christmas ice rink, angering widow
+
+[2025-12-02 17:23:37](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6yjc2occw2y)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Sanchar Saathi: India mandates state-owned cyber safety app on all smartphones
+
+[2025-12-02 17:22:32](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6yja4kgf527)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+US authorised second Venezuela boat strike, White House says
+
+[2025-12-02 17:21:27](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6yj66lxqq22)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+「非正規春闘」 3年連続で10％以上の賃上げ求める方針 実行委
+https://news.web.nhk/newsweb/na/na-k10014991901000
+
+[2025-12-02 17:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6yiy4lzu62p)
+
+---
+
+@reuters.com
+
+Morning Bid: Auction bid steadies Japan bond slide reut.rs/4oy3BUm
+
+[2025-12-02 17:15:10](https://bsky.app/profile/reuters.com/post/3m6yiswotia2n)
+
+---
+
+@en.afp.com
+
+'We chose it'
+
+For decades, the PKK has found sanctuary in mountains in northern Iraq and southeastern Turkey. 
+Even if fighting has stopped, the guerrilla lifestyle won't end. It will rather adapt to new "peaceful" ways, the commander says
+
+u.afp.com/ShDs
+
+[2025-12-02 17:13:46](https://bsky.app/profile/en.afp.com/post/3m6yiqghltz2u)
+
+---
+
+@wsj.com
+
+Former Honduran President Juan Orlando Hernández was convicted of running a narco state. Now he is on the cusp of freedom, with President Trump promising to end his prison sentence with a pardon.
+
+[2025-12-02 17:12:09](https://bsky.app/profile/wsj.com/post/3m6yinjmio22p)
+
+---
+
 @sokuho.news
 
-🛎️ANNより【速報】です。
+🛎️FNNより【速報】です。
 
-【速報】函館・五稜郭近くの繁華街で火事
-(2025-12-02 17:03:25) #ニュース
+【速報】出張中にセクハラ 佐賀県・有田町長が辞職の意向
+(2025-12-02 17:07) #ニュース
 
-[2025-12-02 17:05:18](https://bsky.app/profile/sokuho.news/post/3m6yibbqy4w2m)
-
----
-
-@reuters.com
-
-Starbucks will pay $38.9 million to settle NYC probe over worker schedules reut.rs/48JX5F7
-
-[2025-12-02 17:05:10](https://bsky.app/profile/reuters.com/post/3m6yib2b3vg2o)
-
----
-
-@nikkei.com
-
-在宅勤務、集中できる椅子の選び方　意識したい３つのポイント
-www.nikkei.com/article/DGXZQO...
- 
-家庭でのオフィスチェア需要が拡大。椅子に対する意識が「座れればいい」から「仕事の効率や快適さのために投資すべきもの」に変わっています。
- 
-大事なのは正しい姿勢で座れるかどうか。ただし、「ちゃんと座る=背筋をピンと伸ばす」という訳ではありません。
-
-[2025-12-02 17:01:57](https://bsky.app/profile/nikkei.com/post/3m6yi3bqwvb2m)
-
----
-
-@cnn.com
-
-Belarusian incursions into Lithuania’s airspace constitute a “hybrid attack” by the Lukashenko regime, European Commission President Ursula von der Leyen said, as the Belarusian representative in Brussels was summoned.
-
-[2025-12-02 17:01:01](https://bsky.app/profile/cnn.com/post/3m6yhznbsnt2y)
-
----
-
-@reuters.com
-
-Marvell in advanced talks to buy Celestial AI in multi-billion-dollar deal, The Information says reut.rs/444Bvst
-
-[2025-12-02 17:00:27](https://bsky.app/profile/reuters.com/post/3m6yhymhiek22)
-
----
-
-@aljazeera.com
-
-Hong Kong's Chief Executive John Lee says committee to be led by a judge and will identify the causes of deadly blaze.
-
-[2025-12-02 17:00:21](https://bsky.app/profile/aljazeera.com/post/3m6yhyg7f4y2f)
-
----
-
-@washingtonpost.com
-
-Yoga with animals — goats, dogs and cats — has become popular in recent years.
-
-But chicken yoga is another version, offered in a neighborhood where dozens of wild chickens roam the streets, courtyards and sidewalks.
-
-[2025-12-02 17:00:15](https://bsky.app/profile/washingtonpost.com/post/3m6yhyalftn2r)
-
----
-
-@bloomberg.com
-
-Property prices in Cape Town have climbed 160% since 2010. Now the city's property tariffs are being challenged in court.
-
-[2025-12-02 17:00:11](https://bsky.app/profile/bloomberg.com/post/3m6yhy5g6kp2m)
-
----
-
-@nhknewsunofficial.bsky.social
-
-安倍元首相銃撃事件の裁判 被告「ほかの政治家では意味弱い」
-https://news.web.nhk/newsweb/na/na-k10014991601000
-
-[2025-12-02 17:00:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6yhy2pwsu2p)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【速報】北海道 函館市中心部で火災
-https://news.web.nhk/newsweb/na/na-k10014991941000
-
-[2025-12-02 17:00:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6yhxwskpg2j)
+[2025-12-02 17:10:52](https://bsky.app/profile/sokuho.news/post/3m6yil7xqiz26)
 
 ---
 
