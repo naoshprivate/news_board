@@ -1,9 +1,9 @@
-# [2025-12-03 07:30 updated](2025_12_03.md)
+# [2025-12-03 07:50 updated](2025_12_03.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Dr. Barry Franklin, a former American Heart Association volunteer, advises adults over the age of 45 to avoid snow shoveling. <a href="https://bsky.app/profile/usatoday.com/post/3m6zygmieg52j" target="_blank">usatoday.com</a> (2025-12-03 07:27:17)</span><span style="padding-right:50px;">Trump Media settles legal dispute with firm's co-founders <a href="https://bsky.app/profile/cnbc.com/post/3m6zyfdtswn2r" target="_blank">cnbc.com</a> (2025-12-03 07:26:34)</span><span style="padding-right:50px;">Breaking news: President Trump ended a Cabinet meeting with a rant against Somali migrants, blasting Minnesota’s Somali community as “garbage” and using dehumanizing language to attack a group he has increasingly targeted in recent weeks. <a href="https://bsky.app/profile/washingtonpost.com/post/3m6zydzvgt22o" target="_blank">washingtonpost.com</a> (2025-12-03 07:25:50)</span><span style="padding-right:50px;">Kalshi's valuation doubles on strong interest in prediction markets platforms reut.rs/4ivhml4 <a href="https://bsky.app/profile/reuters.com/post/3m6zycw2kp32r" target="_blank">reuters.com</a> (2025-12-03 07:25:12)</span><span style="padding-right:50px;">Putin holds Ukraine peace talks with US negotiators in Moscow  <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6zycswhtg2g" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-03 07:25:08)</span>
+<span style="padding-right:50px;">ドイツ極右政党AfD、新青年組織で若者取り込み www.nikkei.com/article/DGXZQO...  「外国人ばかり入ってきてドイツはドイツでなくなる。日本だって同じ問題を抱えている」。新組織の賛同者は訴えます。  AfD本体よりさらに過激派とみられていた前身組織。右翼過激派との当局認定を受けて異例の自主解散に踏み切りました。  新たな看板のもとで組織を率いるのは、10代だった2014年からAfDの活動に参加した筋金入りの28歳です。 <a href="https://bsky.app/profile/nikkei.com/post/3m6zziwodsn2w" target="_blank">nikkei.com</a> (2025-12-03 07:46:28)</span><span style="padding-right:50px;">Trump says he plans to overhaul Dulles airport outside Washington reut.rs/48dgfDk <a href="https://bsky.app/profile/reuters.com/post/3m6zzgsknmm2y" target="_blank">reuters.com</a> (2025-12-03 07:45:16)</span><span style="padding-right:50px;">Food-company stocks sagged Tuesday as the San Francisco city attorney sued some of the nation’s biggest food manufacturers, accusing them of knowingly making and marketing harmful foods. <a href="https://bsky.app/profile/wsj.com/post/3m6zzff6hpw24" target="_blank">wsj.com</a> (2025-12-03 07:44:29)</span><span style="padding-right:50px;">A men’s boutique in New York was robbed up to $1 million worth of merchandise on Monday, according to authorities. <a href="https://bsky.app/profile/nbcnews.com/post/3m6zz6avbqe2h" target="_blank">nbcnews.com</a> (2025-12-03 07:40:30)</span><span style="padding-right:50px;">Strategy's leveraged ETFs hit hard by crypto slump reut.rs/49U0H8G <a href="https://bsky.app/profile/reuters.com/post/3m6zz5wgwgz2e" target="_blank">reuters.com</a> (2025-12-03 07:40:19)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49303.45 (🔻191.13 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.26 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 155.82 (🔺0.40 : 2025-12-02)</span>
+<span style="padding-right:50px;">NIKKEI: 49303.45 (🔻191.13 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.26 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 155.83 (🔺0.41 : 2025-12-02)</span>
   </div>
 </div>
 
@@ -32,94 +32,104 @@
 
 ## News Headlines
 
-1.  45歳以上、雪かきは危険 - 元米国心臓協会ボランティア医師が警告
-2.  トランプ・メディア、共同創業者との法的紛争を解決
-3.  トランプ大統領、ソマリア移民を激しく非難
-4.  製薬大手ノボ、次世代肥満治療薬を子供に試験投与へ
-5.  FDA、子供の近視進行を遅らせる新レンズを承認
-6.  大腸がんを攻撃する「海洋細菌」を発見
+1. ドイツ極右政党AfD、若者向け新組織で勢力拡大狙う
+2. フィリピン大統領、汚職疑惑で大規模抗議デモ発生
+3. 函館市繁華街で大規模火災、約11時間半後に鎮圧
+4. 京セラ、スマホ「5G」基地局の開発を断念
+5. FDA、アボット製血糖値モニターに警告、死亡事例も
+6. 国産ヒト型ロボット、2027年に量産開始へ
 
 ----
 
-@usatoday.com
+@nikkei.com
 
-Dr. Barry Franklin, a former American Heart Association volunteer, advises adults over the age of 45 to avoid snow shoveling.
+ドイツ極右政党AfD、新青年組織で若者取り込み
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-03 07:27:17](https://bsky.app/profile/usatoday.com/post/3m6zygmieg52j)
+「外国人ばかり入ってきてドイツはドイツでなくなる。日本だって同じ問題を抱えている」。新組織の賛同者は訴えます。
 
----
+AfD本体よりさらに過激派とみられていた前身組織。右翼過激派との当局認定を受けて異例の自主解散に踏み切りました。
 
-@cnbc.com
+新たな看板のもとで組織を率いるのは、10代だった2014年からAfDの活動に参加した筋金入りの28歳です。
 
-Trump Media settles legal dispute with firm's co-founders
-
-[2025-12-03 07:26:34](https://bsky.app/profile/cnbc.com/post/3m6zyfdtswn2r)
-
----
-
-@washingtonpost.com
-
-Breaking news: President Trump ended a Cabinet meeting with a rant against Somali migrants, blasting Minnesota’s Somali community as “garbage” and using dehumanizing language to attack a group he has increasingly targeted in recent weeks.
-
-[2025-12-03 07:25:50](https://bsky.app/profile/washingtonpost.com/post/3m6zydzvgt22o)
+[2025-12-03 07:46:28](https://bsky.app/profile/nikkei.com/post/3m6zziwodsn2w)
 
 ---
 
 @reuters.com
 
-Kalshi's valuation doubles on strong interest in prediction markets platforms reut.rs/4ivhml4
+Trump says he plans to overhaul Dulles airport outside Washington reut.rs/48dgfDk
 
-[2025-12-03 07:25:12](https://bsky.app/profile/reuters.com/post/3m6zycw2kp32r)
+[2025-12-03 07:45:16](https://bsky.app/profile/reuters.com/post/3m6zzgsknmm2y)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@wsj.com
 
-Putin holds Ukraine peace talks with US negotiators in Moscow 
+Food-company stocks sagged Tuesday as the San Francisco city attorney sued some of the nation’s biggest food manufacturers, accusing them of knowingly making and marketing harmful foods.
 
-[2025-12-03 07:25:08](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m6zycswhtg2g)
+[2025-12-03 07:44:29](https://bsky.app/profile/wsj.com/post/3m6zzff6hpw24)
+
+---
+
+@nbcnews.com
+
+A men’s boutique in New York was robbed up to $1 million worth of merchandise on Monday, according to authorities.
+
+[2025-12-03 07:40:30](https://bsky.app/profile/nbcnews.com/post/3m6zz6avbqe2h)
+
+---
+
+@reuters.com
+
+Strategy's leveraged ETFs hit hard by crypto slump reut.rs/49U0H8G
+
+[2025-12-03 07:40:19](https://bsky.app/profile/reuters.com/post/3m6zz5wgwgz2e)
 
 ---
 
 @nytimes.com
 
-Several new tech start-ups are building replicas of sites so A.I. can learn to use the internet and maybe replace white-collar workers.
+President Ferdinand Marcos Jr. of the Philippines is under fire for a corruption scandal, igniting large protests that have evoked the demonstrations that toppled his father, a dictator. One prominent voice is his sister Senator Imee Marcos.
 
-[2025-12-03 07:25:03](https://bsky.app/profile/nytimes.com/post/3m6zycn6sb527)
-
----
-
-@cnbc.com
-
-Marvell to acquire Celestial AI for as much as $5.5 billion
-
-[2025-12-03 07:24:17](https://bsky.app/profile/cnbc.com/post/3m6zybbfwgc2o)
-
----
-
-@npr.org
-
-Starting Jan. 1, traditional Medicare recipients in Washington state will face a new hurdle to get certain procedures covered — private AI companies that get paid based on how many claims they deny. (via @kuow.org)
-
-[2025-12-03 07:23:12](https://bsky.app/profile/npr.org/post/3m6zy7datpe23)
-
----
-
-@cnbc.com
-
-Stocks making the biggest moves after hours: CrowdStrike, American Eagle Outfitters, Marvell Technology, GitLab and more
-
-[2025-12-03 07:23:08](https://bsky.app/profile/cnbc.com/post/3m6zy77h3in2e)
+[2025-12-03 07:40:04](https://bsky.app/profile/nytimes.com/post/3m6zz5iqhkb2g)
 
 ---
 
 @cbsnews.com
 
-A geomagnetic storm watch has been issued after a powerful solar flare over the weekend. 
+Michael and Susan Dell on Tuesday said they will donate $250 in so-called "Trump accounts" to 25 million American children, a $6.25 billion investment that the Dells said is designed to jumpstart the kids' futures. 
 
 
 
-[2025-12-03 07:23:01](https://bsky.app/profile/cbsnews.com/post/3m6zy6ynr3v2n)
+[2025-12-03 07:40:01](https://bsky.app/profile/cbsnews.com/post/3m6zz5firt52m)
+
+---
+
+@apnews.com
+
+Talks between Russia and the U.S. on ending the nearly four-year war in Ukraine were productive, but much work remains, a senior adviser to President Vladimir Putin said.
+
+[2025-12-03 07:39:06](https://bsky.app/profile/apnews.com/post/3m6zz3rcxuz2f)
+
+---
+
+@usatoday.com
+
+Trump promoted lower inflation and tariffs at a Cabinet meeting where he called Democratic complaints about 'affordability' a 'scam.'
+
+[2025-12-03 07:37:30](https://bsky.app/profile/usatoday.com/post/3m6zyyvcjt22u)
+
+---
+
+@sokuho.news
+
+🔔ANNより【速報】です。
+
+【速報】函館市の繁華街火災 約11時間半後に鎮圧
+(07:36) #ニュース
+
+[2025-12-03 07:37:20](https://bsky.app/profile/sokuho.news/post/3m6zyylmyhc2x)
 
 ---
 
