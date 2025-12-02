@@ -1,9 +1,9 @@
-# [2025-12-02 22:50 updated](2025_12_02.md)
+# [2025-12-02 23:10 updated](2025_12_02.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">LIVE: Ukraine's Zelenskiy meets with Irish Prime Minister Micheál Martin youtube.com/live/iN6FCC-... <a href="https://bsky.app/profile/reuters.com/post/3m6z3csbxqc22" target="_blank">reuters.com</a> (2025-12-02 22:46:10)</span><span style="padding-right:50px;">'Mischievous hands': Indonesians blame deforestation for devastating floods reut.rs/4ivspLn <a href="https://bsky.app/profile/reuters.com/post/3m6z3b3cuas2k" target="_blank">reuters.com</a> (2025-12-02 22:45:12)</span><span style="padding-right:50px;">Michael and Susan Dell on Tuesday said they will donate $250 in so-called "Trump accounts" to 25 million American children, a $6.25 billion investment that the Dells said is designed to jumpstart the kids' futures.   <a href="https://bsky.app/profile/cbsnews.com/post/3m6z3aqfbqq2r" target="_blank">cbsnews.com</a> (2025-12-02 22:45:01)</span><span style="padding-right:50px;">How to maximize the bigger SALT deduction for 2025 under Trump’s ‘big beautiful bill’ <a href="https://bsky.app/profile/cnbc.com/post/3m6z34uxref2e" target="_blank">cnbc.com</a> (2025-12-02 22:42:51)</span><span style="padding-right:50px;">台湾の検察 東京エレクトロン子会社を起訴 国家安全法違反など https://news.web.nhk/newsweb/na/na-k10014992281000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6z33ikjym2r" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-02 22:42:02)</span>
+<span style="padding-right:50px;">From @theathleticfc.bsky.social: Despite being the U.S. capital, Washington, D.C., is breaking tradition and won’t host 2026 World Cup matches. Only two previous hosts in the tournament’s 96-year history didn’t stage games in their capitals. <a href="https://bsky.app/profile/nytimes.com/post/3m6z4i5ggwr2p" target="_blank">nytimes.com</a> (2025-12-02 23:07:03)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:能登半島沖, 深さ:10km マグニチュード:2.8, 最大震度:1 📍https://www.google.com/maps?q=37.5,137.1&ll=37.5,137.1&z=7&t=h 地震発生日時:2025-12-02 23:02頃 (10倍速▶120s→12s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m6z4ga3b7f2g" target="_blank">sokuho.news</a> (2025-12-02 23:05:59)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  23時2分頃、石川県で最大震度1の地震を観測しました。 震源:能登半島沖, 深さ:10km, 規模:M2.8 この地震による津波の心配はありません。 (2025-12-02 23:05:33) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/02/2025-12-02-23-02-58.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3m6z4fkdlwi2p" target="_blank">sokuho.news</a> (2025-12-02 23:05:36)</span><span style="padding-right:50px;">EU could delay auto package as pressure mounts on 2035 target, newspaper reports reut.rs/4itVqH8 <a href="https://bsky.app/profile/reuters.com/post/3m6z4etku632k" target="_blank">reuters.com</a> (2025-12-02 23:05:12)</span><span style="padding-right:50px;">Gulf markets subdued on weak oil prices reut.rs/3Xv38Y2 <a href="https://bsky.app/profile/reuters.com/post/3m6z4eqp6w52y" target="_blank">reuters.com</a> (2025-12-02 23:05:09)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49303.45 (🔻191.13 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47289.33 (🔻291.52 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23275.92 (🔺103.58 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.92 (🔺5.16 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 156.05 (🔺0.62 : 2025-12-02)</span>
+<span style="padding-right:50px;">NIKKEI: 49303.45 (🔻191.13 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47289.33 (🔻291.52 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23275.92 (🔺103.58 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.92 (🔺5.16 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 156.06 (🔺0.64 : 2025-12-02)</span>
   </div>
 </div>
 
@@ -32,98 +32,106 @@
 
 ## News Headlines
 
-1.  ゼレンスキー、アイルランド首相と会談
-2.  インドネシアの洪水、森林伐採が原因か
-3.  デル夫妻、米国の子供たちに62.5億ドルの投資
-4.  台湾の検察、東京エレクトロン子会社を起訴
-5.  米代表団、ロシアのプーチン大統領と会談へ
-6.  大阪大学、魚の卵でノロウイルス人工合成
+1. 2026年W杯、アメリカ首都ワシントンD.C.での開催見送り
+2. 能登半島沖でM2.8の地震発生、最大震度1
+3. EU、2035年の自動車規制目標延期の可能性
+4. 前ホンジュラス大統領、米国の刑務所から釈放
+5. インドネシアで洪水被害、死者多数
+6. トランプ大統領の特使、プーチン大統領と会談へ
 
 ----
 
-@reuters.com
-
-LIVE: Ukraine's Zelenskiy meets with Irish Prime Minister Micheál Martin youtube.com/live/iN6FCC-...
-
-[2025-12-02 22:46:10](https://bsky.app/profile/reuters.com/post/3m6z3csbxqc22)
-
----
-
-@reuters.com
-
-'Mischievous hands': Indonesians blame deforestation for devastating floods reut.rs/4ivspLn
-
-[2025-12-02 22:45:12](https://bsky.app/profile/reuters.com/post/3m6z3b3cuas2k)
-
----
-
-@cbsnews.com
-
-Michael and Susan Dell on Tuesday said they will donate $250 in so-called "Trump accounts" to 25 million American children, a $6.25 billion investment that the Dells said is designed to jumpstart the kids' futures.  
-
-[2025-12-02 22:45:01](https://bsky.app/profile/cbsnews.com/post/3m6z3aqfbqq2r)
-
----
-
-@cnbc.com
-
-How to maximize the bigger SALT deduction for 2025 under Trump’s ‘big beautiful bill’
-
-[2025-12-02 22:42:51](https://bsky.app/profile/cnbc.com/post/3m6z34uxref2e)
-
----
-
-@nhknewsunofficial.bsky.social
-
-台湾の検察 東京エレクトロン子会社を起訴 国家安全法違反など
-https://news.web.nhk/newsweb/na/na-k10014992281000
-
-[2025-12-02 22:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6z33ikjym2r)
-
----
-
 @nytimes.com
 
-Steve Witkoff, a special envoy for President Trump, and Jared Kushner, Trump’s son-in-law, are expected to meet with President Vladimir Putin of Russia in Moscow on Tuesday, as the White House pushes for an end to the war in Ukraine. Follow live.
+From @theathleticfc.bsky.social: Despite being the U.S. capital, Washington, D.C., is breaking tradition and won’t host 2026 World Cup matches. Only two previous hosts in the tournament’s 96-year history didn’t stage games in their capitals.
 
-[2025-12-02 22:40:18](https://bsky.app/profile/nytimes.com/post/3m6z2yckx4624)
+[2025-12-02 23:07:03](https://bsky.app/profile/nytimes.com/post/3m6z4i5ggwr2p)
+
+---
+
+@sokuho.news
+
+🔔防災科研より【強震モニタ】動画です。
+
+震源:能登半島沖, 深さ:10km
+マグニチュード:2.8, 最大震度:1
+📍https://www.google.com/maps?q=37.5,137.1&ll=37.5,137.1&z=7&t=h
+地震発生日時:2025-12-02 23:02頃
+(10倍速▶120s→12s) #地震
+
+[2025-12-02 23:05:59](https://bsky.app/profile/sokuho.news/post/3m6z4ga3b7f2g)
+
+---
+
+@sokuho.news
+
+🔔気象庁より【地震速報】です。
+
+23時2分頃、石川県で最大震度1の地震を観測しました。
+震源:能登半島沖, 深さ:10km, 規模:M2.8
+この地震による津波の心配はありません。
+(2025-12-02 23:05:33) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/02/2025-12-02-23-02-58.html?xlarge_image=1
+
+[2025-12-02 23:05:36](https://bsky.app/profile/sokuho.news/post/3m6z4fkdlwi2p)
 
 ---
 
 @reuters.com
 
-South Africa's economy slows in third quarter but investment a bright spot reut.rs/3K7Y1Kl
+EU could delay auto package as pressure mounts on 2035 target, newspaper reports reut.rs/4itVqH8
 
-[2025-12-02 22:40:14](https://bsky.app/profile/reuters.com/post/3m6z2y7bpen2e)
+[2025-12-02 23:05:12](https://bsky.app/profile/reuters.com/post/3m6z4etku632k)
 
 ---
 
 @reuters.com
 
-TotalEnergies, Tree Energy, Japanese firms to jointly develop synthetic LNG in US reut.rs/49S0G59
+Gulf markets subdued on weak oil prices reut.rs/3Xv38Y2
 
-[2025-12-02 22:35:08](https://bsky.app/profile/reuters.com/post/3m6z2p3e6iu2i)
+[2025-12-02 23:05:09](https://bsky.app/profile/reuters.com/post/3m6z4eqp6w52y)
 
 ---
 
 @cnbc.com
 
-Stocks making the biggest moves premarket: MongoDB, Strategy, Signet Jewelers, Credo and more
+Digital Asset Treasuries are crypto's latest hype — and maybe its next bubble
 
-[2025-12-02 22:32:58](https://bsky.app/profile/cnbc.com/post/3m6z2l7cqqf23)
+[2025-12-02 23:04:57](https://bsky.app/profile/cnbc.com/post/3m6z4eergv62g)
 
 ---
 
-@nikkei.com
+@apnews.com
 
-ノロウイルスを魚の卵で人工合成　ワクチン開発に期待
-www.nikkei.com/article/DGXZQO...
+<strong><span style="color: red;">BREAKING:</span> Former Honduran President Juan Orlando Hernández has been released from a U.S. federal prison, Bureau of Prisons tells AP.</strong>
 
-ノロウイルスは人工的に作製・培養することが難しく、ワクチンや治療薬は実用化されていません。
+[2025-12-02 23:03:50](https://bsky.app/profile/apnews.com/post/3m6z4cf42qa2f)
 
-そこで大阪大学の研究チームが着目したのはゼブラフィッシュでした。
+---
 
-[2025-12-02 22:31:58](https://bsky.app/profile/nikkei.com/post/3m6z2jfmddc2z)
+@reuters.com
+
+England bring in Jacks for Wood at second Ashes test reut.rs/4pKULDH
+
+[2025-12-02 23:01:12](https://bsky.app/profile/reuters.com/post/3m6z45ocorb2a)
+
+---
+
+@en.afp.com
+
+🇮🇩 Indonesia flood victim tells survival story
+
+Pernandi returns to where his house used to stand after surviving deadly flooding in Indonesia. Relentless rains have caused floods and landslides across parts of Asia, with Indonesia and Sri Lanka the hardest hit.
+
+[2025-12-02 23:01:10](https://bsky.app/profile/en.afp.com/post/3m6z45meuup22)
+
+---
+
+@aljazeera.com
+
+Every prime minister in Tel Aviv since 1996 has been investigated on charges of corruption.
+
+[2025-12-02 23:01:01](https://bsky.app/profile/aljazeera.com/post/3m6z45dvlsj2n)
 
 ---
 
