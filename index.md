@@ -1,9 +1,9 @@
-# [2025-12-03 01:10 updated](2025_12_03.md)
+# [2025-12-03 01:30 updated](2025_12_03.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">OpenAI CEO Sam Altman declares 'code red' as ChatGPT competition mounts <a href="https://bsky.app/profile/yahoofinance.com/post/3m6zd5btirn2c" target="_blank">yahoofinance.com</a> (2025-12-03 01:06:15)</span><span style="padding-right:50px;">Anti-abortion 'crisis pregnancy centers' case goes to US Supreme Court reut.rs/48vV7XV <a href="https://bsky.app/profile/reuters.com/post/3m6zd3erk6j2y" target="_blank">reuters.com</a> (2025-12-03 01:05:11)</span><span style="padding-right:50px;">OpenAI is under pressure as Google, Anthropic gain ground <a href="https://bsky.app/profile/cnbc.com/post/3m6zd34gjb42f" target="_blank">cnbc.com</a> (2025-12-03 01:05:02)</span><span style="padding-right:50px;">Elon Musk lists his three most important ingredients for AI <a href="https://bsky.app/profile/cnbc.com/post/3m6zcx5au4m2s" target="_blank">cnbc.com</a> (2025-12-03 01:02:49)</span><span style="padding-right:50px;">🇰🇷 How South Korea's brief martial law upended lives  When South Korea's leader declared martial law a year ago, a woman blocked a tank, a civil servant resigned in protest and a lawmaker switched sides. They are among the many South Koreans whose lives were transformed on December 3, 2024. <a href="https://bsky.app/profile/en.afp.com/post/3m6zcw57hin2c" target="_blank">en.afp.com</a> (2025-12-03 01:02:15)</span>
+<span style="padding-right:50px;">U.S. special envoy Steve Witkoff is meeting with Russian President Vladimir Putin at the Kremlin to lay out a plan for peace in Ukraine to which both sides in the conflict have raised objections. <a href="https://bsky.app/profile/wsj.com/post/3m6ze7zggu724" target="_blank">wsj.com</a> (2025-12-03 01:25:40)</span><span style="padding-right:50px;">Canada's Scotiabank beats profit on capital markets boost and reports cautious optimism for 2026 reut.rs/3MdZijx <a href="https://bsky.app/profile/reuters.com/post/3m6ze72ndx62n" target="_blank">reuters.com</a> (2025-12-03 01:25:08)</span><span style="padding-right:50px;">Opinion: 'If Trump goes for regime change in Venezuela, it will be on the basis of Hegseth’s planning,' writes Edward Luce. on.ft.com/4pHsbTB <a href="https://bsky.app/profile/financialtimes.com/post/3m6ze5cdtie2w" target="_blank">financialtimes.com</a> (2025-12-03 01:24:09)</span><span style="padding-right:50px;">Holiday shopping will be missing something this year – as much seasonal help in stores to help shoppers as normal. https://cnn.it/48bGH04 <a href="https://bsky.app/profile/cnn.com/post/3m6ze56jmjv2f" target="_blank">cnn.com</a> (2025-12-03 01:24:05)</span><span style="padding-right:50px;">How this beaten-up aerospace giant could double, according to one analyst <a href="https://bsky.app/profile/cnbc.com/post/3m6ze3j44zd2e" target="_blank">cnbc.com</a> (2025-12-03 01:23:09)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49303.45 (🔻191.13 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47555.82 (🔺138.91 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23448.42 (🔺68.67 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 182.13 (🔺0.41 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 155.90 (🔺0.48 : 2025-12-02)</span>
+<span style="padding-right:50px;">NIKKEI: 49303.45 (🔻191.13 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47374.60 (🔻42.31 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23338.92 (🔻40.83 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 180.82 (🔻0.90 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 155.77 (🔺0.35 : 2025-12-02)</span>
   </div>
 </div>
 
@@ -32,96 +32,97 @@
 
 ## News Headlines
 
-1. ChatGPT競争激化でOpenAI CEOが「コードレッド」宣言
-2. 中絶反対「妊娠危機センター」訴訟、米最高裁へ
-3. 韓国で戒厳令から1年、人々の生活が一変
-4. 家畜に人食い寄生虫が再発、食肉価格高騰で国家安全保障上の優先事項に
-5. トランプ政権、半導体製造技術開発のスタートアップに最大1.5億ドル投資
-6. プーチン大統領、「欧州が戦争を望むなら、我々は準備できている」
+1. 米特使、ウクライナ和平案を提示も双方から難色
+2. スコシアバンク、資本市場の好調で利益増、2026年に慎重な楽観
+3. アマゾン、Nvidiaに対抗するAIチップを発表
+4. マイケル・バーリー、テスラの評価額に疑問
+5. 電力設備メーカー、供給不足緩和のため米国に投資
+6. デル夫妻、米国の子ども向け貯蓄口座に62.5億ドル寄付
 
 ----
 
-@yahoofinance.com
+@wsj.com
 
-OpenAI CEO Sam Altman declares 'code red' as ChatGPT competition mounts
+U.S. special envoy Steve Witkoff is meeting with Russian President Vladimir Putin at the Kremlin to lay out a plan for peace in Ukraine to which both sides in the conflict have raised objections.
 
-[2025-12-03 01:06:15](https://bsky.app/profile/yahoofinance.com/post/3m6zd5btirn2c)
+[2025-12-03 01:25:40](https://bsky.app/profile/wsj.com/post/3m6ze7zggu724)
 
 ---
 
 @reuters.com
 
-Anti-abortion 'crisis pregnancy centers' case goes to US Supreme Court reut.rs/48vV7XV
+Canada's Scotiabank beats profit on capital markets boost and reports cautious optimism for 2026 reut.rs/3MdZijx
 
-[2025-12-03 01:05:11](https://bsky.app/profile/reuters.com/post/3m6zd3erk6j2y)
+[2025-12-03 01:25:08](https://bsky.app/profile/reuters.com/post/3m6ze72ndx62n)
+
+---
+
+@financialtimes.com
+
+Opinion: 'If Trump goes for regime change in Venezuela, it will be on the basis of Hegseth’s planning,' writes Edward Luce. on.ft.com/4pHsbTB
+
+[2025-12-03 01:24:09](https://bsky.app/profile/financialtimes.com/post/3m6ze5cdtie2w)
+
+---
+
+@cnn.com
+
+Holiday shopping will be missing something this year – as much seasonal help in stores to help shoppers as normal. https://cnn.it/48bGH04
+
+[2025-12-03 01:24:05](https://bsky.app/profile/cnn.com/post/3m6ze56jmjv2f)
 
 ---
 
 @cnbc.com
 
-OpenAI is under pressure as Google, Anthropic gain ground
+How this beaten-up aerospace giant could double, according to one analyst
 
-[2025-12-03 01:05:02](https://bsky.app/profile/cnbc.com/post/3m6zd34gjb42f)
+[2025-12-03 01:23:09](https://bsky.app/profile/cnbc.com/post/3m6ze3j44zd2e)
 
 ---
 
-@cnbc.com
+@yahoofinance.com
 
-Elon Musk lists his three most important ingredients for AI
+Amazon releases new AI chip amid industry push to challenge Nvidia's dominance
 
-[2025-12-03 01:02:49](https://bsky.app/profile/cnbc.com/post/3m6zcx5au4m2s)
+[2025-12-03 01:21:25](https://bsky.app/profile/yahoofinance.com/post/3m6zdyfk5pf2a)
+
+---
+
+@nytimes.com
+
+"I suppose it’s the devil in me but I would love to bring those cookies to a vegetarian potluck." 
+
+Don’t worry: These cookies only look like slices of mortadella. See how Claire Saffitz nailed the cold cut’s appearance with her twist on classic “sausage” cookies.
+
+[2025-12-03 01:20:04](https://bsky.app/profile/nytimes.com/post/3m6zdvylgyt22)
 
 ---
 
 @en.afp.com
 
-🇰🇷 How South Korea's brief martial law upended lives
+🇷🇺 🇺🇸 🇺🇦 Donald Trump's son-in-law and special envoy headed to the Kremlin Tuesday for high-stakes talks on Moscow's offensive in Ukraine, as Ukrainian President Volodymyr Zelensky called for an end to the fighting and a "dignified peace". 
+➡️ u.afp.com/ShrW
 
-When South Korea's leader declared martial law a year ago, a woman blocked a tank, a civil servant resigned in protest and a lawmaker switched sides. They are among the many South Koreans whose lives were transformed on December 3, 2024.
-
-[2025-12-03 01:02:15](https://bsky.app/profile/en.afp.com/post/3m6zcw57hin2c)
-
----
-
-@reuters.com
-
-Belgian police raid EU diplomatic service on fraud suspicion reut.rs/4oy56BH
-
-[2025-12-03 01:01:12](https://bsky.app/profile/reuters.com/post/3m6zcuazsqi22)
+[2025-12-03 01:20:03](https://bsky.app/profile/en.afp.com/post/3m6zdvxmvas2e)
 
 ---
 
-@usatoday.com
+@cnbc.com
 
-Nearly 450 readers responded to a USA TODAY survey about caregiving. Here's what they said about The Cost of Care.
+Michael Burry questioned Tesla’s valuation as the investor of “The Big Short” fame took aim at the practice of technology companies issuing tons of stock-based compensation and excluding it from earnings results.
 
-[2025-12-03 01:01:07](https://bsky.app/profile/usatoday.com/post/3m6zcu4pmvw2j)
+Read more comments from Burry: cnb.cx/4oFQ90Q
+
+[2025-12-03 01:19:32](https://bsky.app/profile/cnbc.com/post/3m6zdv2f4pe2q)
 
 ---
 
 @washingtonpost.com
 
-A flesh-eating parasite called the New World screwworm has resurged in livestock while beef prices are near record highs.
+Officials in Congress and the Pentagon are increasingly concerned that the Trump administration intends to scapegoat the military officer who directed U.S. forces to kill two survivors of a targeted strike on suspected drug smugglers in Latin America.
 
-Agriculture Secretary Brooke Rollins has called keeping the parasite out of the country “a national security priority.” 
-
-[2025-12-03 01:00:47](https://bsky.app/profile/washingtonpost.com/post/3m6zctjewvt2y)
-
----
-
-@apnews.com
-
-Justin Herbert gave the Los Angeles Chargers another opportunity to rave about their star quarterback when he played through a broken bone in his non-throwing hand in a 31-14 win over the Las Vegas Raiders.
-
-[2025-12-03 01:00:27](https://bsky.app/profile/apnews.com/post/3m6zcswbfo42h)
-
----
-
-@bloomberg.com
-
-Tom Steyer's investment firm Galvanize is looking to fill the gap in private credit left by the collapse of SVB and more on today's Green Daily
-
-[2025-12-03 01:00:13](https://bsky.app/profile/bloomberg.com/post/3m6zcsiiu7f2h)
+[2025-12-03 01:18:37](https://bsky.app/profile/washingtonpost.com/post/3m6zdtfofgy2h)
 
 ---
 
