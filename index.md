@@ -1,9 +1,9 @@
-# [2025-12-03 05:50 updated](2025_12_03.md)
+# [2025-12-03 06:10 updated](2025_12_03.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">During his visit to Lebanon, Pope Leo XIV held a silent prayer and met with families of the victims of the 2020 Beirut port explosion, which killed 218 people. <a href="https://bsky.app/profile/aljazeera.com/post/3m6zsvjm6vs2i" target="_blank">aljazeera.com</a> (2025-12-03 05:48:14)</span><span style="padding-right:50px;">Lawrence Summers has been banned for life by the American Economics Association, in a further blow to the former Treasury Secretary and Harvard University president stemming from recent revelations about his ties to the late Jeffrey Epstein. <a href="https://bsky.app/profile/wsj.com/post/3m6zsrz23572j" target="_blank">wsj.com</a> (2025-12-03 05:46:16)</span><span style="padding-right:50px;">Owner of oil tanker damaged near Senegal says it is ceasing all Russian operations reut.rs/3XsADKz <a href="https://bsky.app/profile/reuters.com/post/3m6zsq2nmph2i" target="_blank">reuters.com</a> (2025-12-03 05:45:11)</span><span style="padding-right:50px;">Spain defended their women's Nations League title with a 3-0 second leg win over Germany on Tuesday, following a goalless draw last week.  u.afp.com/ShHU <a href="https://bsky.app/profile/en.afp.com/post/3m6zspyvcjm23" target="_blank">en.afp.com</a> (2025-12-03 05:45:09)</span><span style="padding-right:50px;">りそなHD 南社長 “個人向け金融サービス充実させ預金獲得に” https://news.web.nhk/newsweb/na/na-k10014992191000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6zspvszby2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 05:45:03)</span>
+<span style="padding-right:50px;">日本海側中心に4日にかけ大雪見込み 交通影響などに十分注意を https://news.web.nhk/newsweb/na/na-k10014992301000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6zu2wh7js2r" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 06:09:07)</span><span style="padding-right:50px;">安倍元首相銃撃事件の裁判 安倍昭恵さん出席で調整 https://news.web.nhk/newsweb/na/na-k10014992381000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6zu2s3dx22r" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 06:09:02)</span><span style="padding-right:50px;">Farage tells donors he expects Reform UK to do an election deal with Tories on.ft.com/48qr43G <a href="https://bsky.app/profile/financialtimes.com/post/3m6ztxzrfdq2l" target="_blank">financialtimes.com</a> (2025-12-03 06:07:32)</span><span style="padding-right:50px;">Don’t let that gift card you got from your grandparents go to waste. Here are some tips for maximizing the value you get from your cards. <a href="https://bsky.app/profile/wsj.com/post/3m6zttsx7ci2l" target="_blank">wsj.com</a> (2025-12-03 06:05:11)</span><span style="padding-right:50px;">Citigroup faces $5 million bill to transport its lead from Singapore, sources say reut.rs/4iINbXR <a href="https://bsky.app/profile/reuters.com/post/3m6zttqn2aw2y" target="_blank">reuters.com</a> (2025-12-03 06:05:08)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49303.45 (🔻191.13 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47568.54 (🔺151.63 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23444.06 (🔺64.31 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.57 (🔻0.15 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 155.81 (🔺0.38 : 2025-12-02)</span>
+<span style="padding-right:50px;">NIKKEI: 49303.45 (🔻191.13 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.26 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 155.88 (🔺0.46 : 2025-12-02)</span>
   </div>
 </div>
 
@@ -32,96 +32,94 @@
 
 ## News Headlines
 
-1.  ローマ教皇、レバノン訪問で爆発事故犠牲者遺族と面会
-2.  ローレンス・サマーズ氏、エプスタインとの関係で米経済学会から永久追放
-3.  スペイン、女子ネーションズリーグでドイツに勝利しタイトル防衛
-4.  トランプ大統領、ソマリア移民を「ゴミ」と発言し物議
-5.  Zillow、不動産購入者向けのリスクデータ表示を削除
-6.  補助人工心臓不足、過去5年間に4人の子どもが死亡
+1. 日本海側、4日にかけ大雪警戒
+2. 安倍元首相銃撃事件裁判、昭恵さん出席で調整
+3. モバイルバッテリー、安全表示義務違反疑い公表へ
+4. 函館・繁華街で火災発生、一時騒然
+5. インドネシア大雨、死者1379人に
+6. トランプ大統領、ソマリア移民に排他的発言
 
 ----
 
-@aljazeera.com
+@nhknewsunofficial.bsky.social
 
-During his visit to Lebanon, Pope Leo XIV held a silent prayer and met with families of the victims of the 2020 Beirut port explosion, which killed 218 people.
+日本海側中心に4日にかけ大雪見込み 交通影響などに十分注意を
+https://news.web.nhk/newsweb/na/na-k10014992301000
 
-[2025-12-03 05:48:14](https://bsky.app/profile/aljazeera.com/post/3m6zsvjm6vs2i)
-
----
-
-@wsj.com
-
-Lawrence Summers has been banned for life by the American Economics Association, in a further blow to the former Treasury Secretary and Harvard University president stemming from recent revelations about his ties to the late Jeffrey Epstein.
-
-[2025-12-03 05:46:16](https://bsky.app/profile/wsj.com/post/3m6zsrz23572j)
-
----
-
-@reuters.com
-
-Owner of oil tanker damaged near Senegal says it is ceasing all Russian operations reut.rs/3XsADKz
-
-[2025-12-03 05:45:11](https://bsky.app/profile/reuters.com/post/3m6zsq2nmph2i)
-
----
-
-@en.afp.com
-
-Spain defended their women's Nations League title with a 3-0 second leg win over Germany on Tuesday, following a goalless draw last week. 
-u.afp.com/ShHU
-
-[2025-12-03 05:45:09](https://bsky.app/profile/en.afp.com/post/3m6zspyvcjm23)
+[2025-12-03 06:09:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6zu2wh7js2r)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-りそなHD 南社長 “個人向け金融サービス充実させ預金獲得に”
-https://news.web.nhk/newsweb/na/na-k10014992191000
+安倍元首相銃撃事件の裁判 安倍昭恵さん出席で調整
+https://news.web.nhk/newsweb/na/na-k10014992381000
 
-[2025-12-03 05:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6zspvszby2b)
+[2025-12-03 06:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6zu2s3dx22r)
+
+---
+
+@financialtimes.com
+
+Farage tells donors he expects Reform UK to do an election deal with Tories on.ft.com/48qr43G
+
+[2025-12-03 06:07:32](https://bsky.app/profile/financialtimes.com/post/3m6ztxzrfdq2l)
+
+---
+
+@wsj.com
+
+Don’t let that gift card you got from your grandparents go to waste. Here are some tips for maximizing the value you get from your cards.
+
+[2025-12-03 06:05:11](https://bsky.app/profile/wsj.com/post/3m6zttsx7ci2l)
 
 ---
 
 @reuters.com
 
-Exclusive: Hermes heir takes aim at LVMH's Arnault in missing shares civil lawsuit, court document shows reut.rs/48l49GQ
+Citigroup faces $5 million bill to transport its lead from Singapore, sources say reut.rs/4iINbXR
 
-[2025-12-03 05:40:16](https://bsky.app/profile/reuters.com/post/3m6zshb4lwj2r)
-
----
-
-@nbcnews.com
-
-Congress has less than a month before health insurance premiums are set to spike for millions of Americans. A
-
-nd hopes of a deal to mitigate the pain are fizzling among lawmakers in both parties.
-
-[2025-12-03 05:40:06](https://bsky.app/profile/nbcnews.com/post/3m6zsgxxvpv2h)
-
----
-
-@nytimes.com
-
-President Trump unleashed a xenophobic tirade against Somali immigrants on Tuesday during a publicly broadcast cabinet meeting, calling them “garbage” he does not want in the U.S. as he sought to refocus public attention on his anti-immigration rhetoric.
-
-[2025-12-03 05:40:02](https://bsky.app/profile/nytimes.com/post/3m6zsgtq5sw2l)
+[2025-12-03 06:05:08](https://bsky.app/profile/reuters.com/post/3m6zttqn2aw2y)
 
 ---
 
 @cbsnews.com
 
-Secretary Hegseth reveals new details about a September boat strike, saying he didn't personally see survivors.
+<strong><span style="color: red;">BREAKING:</span> ICE will target undocumented Somali immigrants in Minnesota after a Trump administration order, a source says.</strong>
 
-[2025-12-03 05:40:01](https://bsky.app/profile/cbsnews.com/post/3m6zsgsubme23)
+[2025-12-03 06:02:55](https://bsky.app/profile/cbsnews.com/post/3m6ztprqk6o2y)
 
 ---
 
-@nbcnews.com
+@usatoday.com
 
-Defense Secretary Pete Hegseth points to what he calls “the fog of war” to defend a follow-up military strike on an alleged drug boat in the Caribbean, which reportedly killed survivors of the initial attack.
+President Trump is making an announcement after holding a meeting with members of his Cabinet on Tuesday, Dec. 2. Watch it live here.
 
-[2025-12-03 05:38:09](https://bsky.app/profile/nbcnews.com/post/3m6zsdi6j5t2h)
+[2025-12-03 06:01:00](https://bsky.app/profile/usatoday.com/post/3m6ztmdequ22m)
+
+---
+
+@reuters.com
+
+CVS to pay $37.8 million to settle claims over insulin pens reut.rs/3MbsWG9
+
+[2025-12-03 06:00:42](https://bsky.app/profile/reuters.com/post/3m6ztlt5ofk2k)
+
+---
+
+@apnews.com
+
+Rap artist Toosii is taking time off from his multi-platinum music career by going forward with his dream to pursue football after saying he has committed to Syracuse University.
+
+[2025-12-03 06:00:36](https://bsky.app/profile/apnews.com/post/3m6ztlmivgg2t)
+
+---
+
+@bloomberg.com
+
+BMW AG is pressing the European Union to formally adopt a trade deal with the US that would give the German carmaker respite from ongoing tariff pressure.
+
+[2025-12-03 06:00:31](https://bsky.app/profile/bloomberg.com/post/3m6ztlicc7a2s)
 
 ---
 
