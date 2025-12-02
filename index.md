@@ -1,9 +1,9 @@
-# [2025-12-02 19:50 updated](2025_12_02.md)
+# [2025-12-02 20:10 updated](2025_12_02.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Vaughan urges England to blend Bazball with old-school discipline reut.rs/44Jdlnr <a href="https://bsky.app/profile/reuters.com/post/3m6yr75w5nf2w" target="_blank">reuters.com</a> (2025-12-02 19:45:10)</span><span style="padding-right:50px;">【日経特報】 2026年サッカーW杯、地上波放送へ　DAZNも配信で調整 www.nikkei.com/article/DGXZQO...  NHK、日本テレビ、フジテレビ、DAZNが電通から放映権を取得する方向です。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m6yqzfmldg2l" target="_blank">nikkei.com</a> (2025-12-02 19:41:57)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】「1階から火と煙が立ち上っている」鳥取市の住宅地で建物火災 午後6時半現在消火活動継続中 (2025-12-02 19:05) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6yqyaycd626" target="_blank">sokuho.news</a> (2025-12-02 19:41:19)</span><span style="padding-right:50px;">The White House has released a letter summarizing President Trump's MRI results, saying that the examination was done as a preventative measure, and that the president is in "excellent" health. <a href="https://bsky.app/profile/nbcnews.com/post/3m6yqwcjall2j" target="_blank">nbcnews.com</a> (2025-12-02 19:40:13)</span><span style="padding-right:50px;">Here's a look at some of the highlights worth watching from late-night TV. <a href="https://bsky.app/profile/nytimes.com/post/3m6yqvyab2i2h" target="_blank">nytimes.com</a> (2025-12-02 19:40:02)</span>
+<span style="padding-right:50px;">🚨地震発生中❗❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像7🈡 (2025-12-02 20:08:01) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m6ysj7bovg2h" target="_blank">sokuho.news</a> (2025-12-02 20:08:41)</span><span style="padding-right:50px;">🚨地震発生中❗❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像6 (2025-12-02 20:07:50) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m6ysiybccm2d" target="_blank">sokuho.news</a> (2025-12-02 20:08:34)</span><span style="padding-right:50px;">🚨地震発生中❗❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像5 (2025-12-02 20:07:30) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m6ysiwklbu22" target="_blank">sokuho.news</a> (2025-12-02 20:08:32)</span><span style="padding-right:50px;">🚨地震発生中❗❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像4 (2025-12-02 20:07:25) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m6ysicjoct2q" target="_blank">sokuho.news</a> (2025-12-02 20:08:11)</span><span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像3 (2025-12-02 20:07:24) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m6yshogeet2q" target="_blank">sokuho.news</a> (2025-12-02 20:07:50)</span>
   </div>
 </div>
 
@@ -32,34 +32,112 @@
 
 ## News Headlines
 
-1.  鳥取市で住宅火災、消火活動続く
-2.  ソフトバンク有原航平、自由契約へ
-3.  香港高層住宅火災、原因究明へ独立委員会設置
-4.  佐賀有田町長、セクハラ行為で辞職へ
-5.  高市首相、福島訪問で廃炉への責任強調
-6.  日本ハム、西川遥輝と契約合意、5年ぶり復帰
+1. 緊急地震速報：最大震度7、揺れに警戒
+2. 福島市でクマ被害、自転車の男性襲われる
+3. トルコ沖でロシア籍タンカーがドローン攻撃を受ける
+4. ソフトバンク有原航平が自由契約に
+5. 鳥取市で住宅火災、消火活動続く
+6. 高市首相、福島訪問で廃炉への責任を表明
 
 ----
 
-@reuters.com
+@sokuho.news
 
-Vaughan urges England to blend Bazball with old-school discipline reut.rs/44Jdlnr
+🚨地震発生中❗❗❗
 
-[2025-12-02 19:45:10](https://bsky.app/profile/reuters.com/post/3m6yr75w5nf2w)
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像7🈡
+(2025-12-02 20:08:01) #緊急地震速報
+
+[2025-12-02 20:08:41](https://bsky.app/profile/sokuho.news/post/3m6ysj7bovg2h)
 
 ---
 
-@nikkei.com
+@sokuho.news
 
-【日経特報】
-2026年サッカーW杯、地上波放送へ　DAZNも配信で調整
-www.nikkei.com/article/DGXZQO...
+🚨地震発生中❗❗❗
 
-NHK、日本テレビ、フジテレビ、DAZNが電通から放映権を取得する方向です。
+⚠️揺れに警戒してください
 
-#ニュース
+🔶防災科研/強震モニタ/予測震度画像6
+(2025-12-02 20:07:50) #緊急地震速報
 
-[2025-12-02 19:41:57](https://bsky.app/profile/nikkei.com/post/3m6yqzfmldg2l)
+[2025-12-02 20:08:34](https://bsky.app/profile/sokuho.news/post/3m6ysiybccm2d)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗❗
+
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像5
+(2025-12-02 20:07:30) #緊急地震速報
+
+[2025-12-02 20:08:32](https://bsky.app/profile/sokuho.news/post/3m6ysiwklbu22)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗❗
+
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像4
+(2025-12-02 20:07:25) #緊急地震速報
+
+[2025-12-02 20:08:11](https://bsky.app/profile/sokuho.news/post/3m6ysicjoct2q)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗
+
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像3
+(2025-12-02 20:07:24) #緊急地震速報
+
+[2025-12-02 20:07:50](https://bsky.app/profile/sokuho.news/post/3m6yshogeet2q)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗❗
+
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像2
+(2025-12-02 20:07:23) #緊急地震速報
+
+[2025-12-02 20:07:38](https://bsky.app/profile/sokuho.news/post/3m6yshcsajj26)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗
+
+⚠️揺れに警戒してください
+🔗http://www.kmoni.bosai.go.jp/
+
+🔶防災科研/強震モニタ/予測震度画像1
+(2025-12-02 20:07:23) #緊急地震速報
+
+[2025-12-02 20:07:30](https://bsky.app/profile/sokuho.news/post/3m6ysh3oyw32d)
+
+---
+
+@npr.org
+
+West Virginia Gov. Patrick Morrisey on Monday said he received word from Andrew Wolfe's family that the 24-year-old was responsive to a nurse and wiggled his toes. n.pr/48KM06N
+
+[2025-12-02 20:06:02](https://bsky.app/profile/npr.org/post/3m6ysehsshm2f)
 
 ---
 
@@ -67,73 +145,18 @@ NHK、日本テレビ、フジテレビ、DAZNが電通から放映権を取得�
 
 🛎️FNNより【速報】です。
 
-【速報】「1階から火と煙が立ち上っている」鳥取市の住宅地で建物火災 午後6時半現在消火活動継続中
-(2025-12-02 19:05) #ニュース
+【速報】福島市で自転車に乗っていた男性がクマのようなものに襲われる＜福島県＞
+(2025-12-02 20:00) #ニュース
 
-[2025-12-02 19:41:19](https://bsky.app/profile/sokuho.news/post/3m6yqyaycd626)
-
----
-
-@nbcnews.com
-
-The White House has released a letter summarizing President Trump's MRI results, saying that the examination was done as a preventative measure, and that the president is in "excellent" health.
-
-[2025-12-02 19:40:13](https://bsky.app/profile/nbcnews.com/post/3m6yqwcjall2j)
+[2025-12-02 20:05:58](https://bsky.app/profile/sokuho.news/post/3m6ysee6rae2y)
 
 ---
 
-@nytimes.com
+@reuters.com
 
-Here's a look at some of the highlights worth watching from late-night TV.
+Russian-flagged tanker reports drone attack off Turkey, authorities say reut.rs/4ixEf7t
 
-[2025-12-02 19:40:02](https://bsky.app/profile/nytimes.com/post/3m6yqvyab2i2h)
-
----
-
-@en.afp.com
-
-🇮🇩 🇱🇰 Governments and aid groups in Indonesia and Sri Lanka are working to rush aid to hundreds of thousands stranded by deadly flooding that has killed over 1,200 people in four countries. 
-➡️ u.afp.com/ShzU
-
-[2025-12-02 19:40:01](https://bsky.app/profile/en.afp.com/post/3m6yqvx6fwf2e)
-
----
-
-@nhknewsunofficial.bsky.social
-
-ソフトバンク 2年連続最多勝の有原航平が自由契約に
-https://news.web.nhk/newsweb/na/na-k10014992091000
-
-[2025-12-02 19:39:11](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6yqujhprf23)
-
----
-
-@nhknewsunofficial.bsky.social
-
-香港 高層住宅火災 “原因究明を”香港政府が独立委員会設置へ
-https://news.web.nhk/newsweb/na/na-k10014991411000
-
-[2025-12-02 19:39:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6yqufke7t26)
-
----
-
-@nhknewsunofficial.bsky.social
-
-佐賀 有田町長 “宴席でセクハラ行為”辞職の考え明らかに
-https://news.web.nhk/newsweb/na/na-k10014992121000
-
-[2025-12-02 19:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6yquadcga2p)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】鳥取市若葉台南の住宅で火災 60代男性がヤケドで病院に搬送 鳥取県鳥取市
-(2025-12-02 19:38) #ニュース
-
-[2025-12-02 19:38:26](https://bsky.app/profile/sokuho.news/post/3m6yqt4p5si27)
+[2025-12-02 20:05:07](https://bsky.app/profile/reuters.com/post/3m6ysctklux2a)
 
 ---
 
