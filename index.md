@@ -1,9 +1,9 @@
-# [2025-12-02 20:50 updated](2025_12_02.md)
+# [2025-12-02 21:10 updated](2025_12_02.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">From climate tech to robots helping humans, these young entrepreneurs are building new tools, materials and technologies for a sustainable and safe world. <a href="https://bsky.app/profile/forbes.com/post/3m6yurkmtc22e" target="_blank">forbes.com</a> (2025-12-02 20:49:09)</span><span style="padding-right:50px;">The 2026 Forbes 30 Under 30 Food & Drink list includes a viral pasta sauce brand, AI startups, Gen Z restaurateurs and more. <a href="https://bsky.app/profile/forbes.com/post/3m6yuqysr422e" target="_blank">forbes.com</a> (2025-12-02 20:48:50)</span><span style="padding-right:50px;">The honorees of the 2026 Forbes 30 Under 30 Education list are bucking traditional methods to achieve more and reach more learners, faster and more effectively. <a href="https://bsky.app/profile/forbes.com/post/3m6yuqh7hpk2e" target="_blank">forbes.com</a> (2025-12-02 20:48:32)</span><span style="padding-right:50px;">These young scientists, engineers and entrepreneurs are working to build a better world at every scale imaginable. <a href="https://bsky.app/profile/forbes.com/post/3m6yupt3l7s2e" target="_blank">forbes.com</a> (2025-12-02 20:48:11)</span><span style="padding-right:50px;">Genting—the energy-to-palm oil conglomerate controlled by Malaysian billionaire Lim Kok Thay—is doubling down on its investments in New York, earmarking $5.5 billion to expand its integrated casino resort after winning one of three gaming licenses. <a href="https://bsky.app/profile/forbes.com/post/3m6yup2emoc2e" target="_blank">forbes.com</a> (2025-12-02 20:47:45)</span>
+<span style="padding-right:50px;">Footage shows severe flooding in Indonesia’s Aceh province as the death toll continues to rise. <a href="https://bsky.app/profile/aljazeera.com/post/3m6yvt3xlxs2u" target="_blank">aljazeera.com</a> (2025-12-02 21:07:55)</span><span style="padding-right:50px;">More 'tug-of-war' between growth and value stocks expected next year <a href="https://bsky.app/profile/yahoofinance.com/post/3m6yvptucjx2d" target="_blank">yahoofinance.com</a> (2025-12-02 21:06:05)</span><span style="padding-right:50px;">Thailand plans $8.3 bln support for small business, minister says reut.rs/4iDiCD4 <a href="https://bsky.app/profile/reuters.com/post/3m6yvo4oetk2n" target="_blank">reuters.com</a> (2025-12-02 21:05:07)</span><span style="padding-right:50px;">万博2億円トイレ設計者、炎上から一転人気 www.nikkei.com/article/DGXZQO...  開幕前からネットで炎上しましたが、設計者は「SNSで自ら情報発信しようと決めた」。  数々の批判を冷静に分析し対処するなかで熱心なファンも生まれました。  炎上を受けてどう考え、どう動いたのか、設計者に聞きました。 <a href="https://bsky.app/profile/nikkei.com/post/3m6yvihdzxv2t" target="_blank">nikkei.com</a> (2025-12-02 21:01:57)</span><span style="padding-right:50px;">NBA roundup: Devin Booker gets hurt, but Suns end Lakers' win streak reut.rs/4ix2eUg <a href="https://bsky.app/profile/reuters.com/post/3m6yvgps2o326" target="_blank">reuters.com</a> (2025-12-02 21:00:59)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49303.45 (🔻191.13 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47289.33 (🔻291.52 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23275.92 (🔺103.58 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.92 (🔺5.16 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 155.97 (🔺0.55 : 2025-12-02)</span>
+<span style="padding-right:50px;">NIKKEI: 49303.45 (🔻191.13 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47289.33 (🔻291.52 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23275.92 (🔺103.58 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.92 (🔺5.16 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 155.93 (🔺0.51 : 2025-12-02)</span>
   </div>
 </div>
 
@@ -32,99 +32,101 @@
 
 ## News Headlines
 
-1. 次世代起業家、持続可能な世界へ革新的な技術開発
-2. フォーブス30 Under 30、食品・飲料業界の注目株を発表
-3. 教育を変革する若きリーダーたち、フォーブス30 Under 30に選出
-4. マレーシアの富豪、ニューヨークのカジノリゾートに55億ドル投資
-5. AI音声ElevenLabs、その技術力と倫理的課題
-6. 中国人客の日本渡航自粛で宿泊予約半減、長期化を懸念
+1. インドネシア、アチェ州で深刻な洪水発生、死者数増加
+2. タイ、中小企業向けに83億ドルの支援計画を発表
+3. 万博2億円トイレ設計者、炎上から一転人気に
+4. トランプ政権型のベネズエラ政権交代を画策か
+5. チャールズ皇太子とダイアナ妃の結婚式で提供されたシャンパンが出品
+6. ウクライナ、ロシアのスパイ容疑でイギリス軍退役軍人を拘束
 
 ----
 
-@forbes.com
+@aljazeera.com
 
-From climate tech to robots helping humans, these young entrepreneurs are building new tools, materials and technologies for a sustainable and safe world.
+Footage shows severe flooding in Indonesia’s Aceh province as the death toll continues to rise.
 
-[2025-12-02 20:49:09](https://bsky.app/profile/forbes.com/post/3m6yurkmtc22e)
-
----
-
-@forbes.com
-
-The 2026 Forbes 30 Under 30 Food & Drink list includes a viral pasta sauce brand, AI startups, Gen Z restaurateurs and more.
-
-[2025-12-02 20:48:50](https://bsky.app/profile/forbes.com/post/3m6yuqysr422e)
+[2025-12-02 21:07:55](https://bsky.app/profile/aljazeera.com/post/3m6yvt3xlxs2u)
 
 ---
 
-@forbes.com
+@yahoofinance.com
 
-The honorees of the 2026 Forbes 30 Under 30 Education list are bucking traditional methods to achieve more and reach more learners, faster and more effectively.
+More 'tug-of-war' between growth and value stocks expected next year
 
-[2025-12-02 20:48:32](https://bsky.app/profile/forbes.com/post/3m6yuqh7hpk2e)
-
----
-
-@forbes.com
-
-These young scientists, engineers and entrepreneurs are working to build a better world at every scale imaginable.
-
-[2025-12-02 20:48:11](https://bsky.app/profile/forbes.com/post/3m6yupt3l7s2e)
+[2025-12-02 21:06:05](https://bsky.app/profile/yahoofinance.com/post/3m6yvptucjx2d)
 
 ---
 
-@forbes.com
+@reuters.com
 
-Genting—the energy-to-palm oil conglomerate controlled by Malaysian billionaire Lim Kok Thay—is doubling down on its investments in New York, earmarking $5.5 billion to expand its integrated casino resort after winning one of three gaming licenses.
+Thailand plans $8.3 bln support for small business, minister says reut.rs/4iDiCD4
 
-[2025-12-02 20:47:45](https://bsky.app/profile/forbes.com/post/3m6yup2emoc2e)
-
----
-
-@forbes.com
-
-ElevenLabs’ computer voices are so convincing they could fool your mother. That’s both a blessing—its 30 Under 30 alumni founders are now both billionaires—and a curse for the four-year-old company.
-
-[2025-12-02 20:47:09](https://bsky.app/profile/forbes.com/post/3m6yuny75hk2e)
-
----
-
-@forbes.com
-
-Surprise: Cleantech Spending May Hit Record Despite Trump’s Carbon Push
-
-[2025-12-02 20:46:51](https://bsky.app/profile/forbes.com/post/3m6yunglwys2e)
-
----
-
-@forbes.com
-
-The Mets owner’s project with Hard Rock Casino is among the three proposals approved for gaming—with President Donald Trump’s company expected to receive a $115 million windfall from one of the casinos.
-
-[2025-12-02 20:46:29](https://bsky.app/profile/forbes.com/post/3m6yumrmfqk2e)
+[2025-12-02 21:05:07](https://bsky.app/profile/reuters.com/post/3m6yvo4oetk2n)
 
 ---
 
 @nikkei.com
 
-中国客、日本渡航自粛で宿泊予約半減　客室単価は微増も長期化懸念
+万博2億円トイレ設計者、炎上から一転人気
 www.nikkei.com/article/DGXZQO...
 
-予約全体でならすと、インパクトは約9%の減少。
+開幕前からネットで炎上しましたが、設計者は「SNSで自ら情報発信しようと決めた」。
 
-国内や中国以外のインバウンド需要増が中国からの予約減少分を補っています。
+数々の批判を冷静に分析し対処するなかで熱心なファンも生まれました。
 
-#ニュース
+炎上を受けてどう考え、どう動いたのか、設計者に聞きました。
 
-[2025-12-02 20:45:57](https://bsky.app/profile/nikkei.com/post/3m6yult4ld226)
+[2025-12-02 21:01:57](https://bsky.app/profile/nikkei.com/post/3m6yvihdzxv2t)
 
 ---
 
-@forbes.com
+@reuters.com
 
-In a nod to the market’s chronic volatility, Goldman is betting that higher cost, downside protection buffer ETFs will be a growth engine for its $1.6 trillion asset management arm.
+NBA roundup: Devin Booker gets hurt, but Suns end Lakers' win streak reut.rs/4ix2eUg
 
-[2025-12-02 20:45:42](https://bsky.app/profile/forbes.com/post/3m6yulfkwa22e)
+[2025-12-02 21:00:59](https://bsky.app/profile/reuters.com/post/3m6yvgps2o326)
+
+---
+
+@financialtimes.com
+
+Trump-style regime change in Venezuela on.ft.com/3K7LRRH
+
+[2025-12-02 21:00:52](https://bsky.app/profile/financialtimes.com/post/3m6yvgjfodf2n)
+
+---
+
+@en.afp.com
+
+🍾 Charles and Diana's wedding champagne to be auctioned
+
+A rare magnum of Dom Perignon vintage 1961 champagne, served at the wedding of King Charles III and Princess Diana in 1981, is set to go on auction in Denmark.
+
+[2025-12-02 21:00:50](https://bsky.app/profile/en.afp.com/post/3m6yvggqh6a23)
+
+---
+
+@bloomberg.com
+
+The global economy is weathering Donald Trump’s trade tariffs better than expected, the OECD says.
+
+[2025-12-02 21:00:26](https://bsky.app/profile/bloomberg.com/post/3m6yvfqblzp2n)
+
+---
+
+@aljazeera.com
+
+The reported attack on the Midvolga-2 comes days after Ukraine hit two other Russian-flagged ships in the Black Sea.
+
+[2025-12-02 21:00:25](https://bsky.app/profile/aljazeera.com/post/3m6yvfpdjdi23)
+
+---
+
+@cnn.com
+
+The Supreme Court will hear arguments about a subpoena served on a faith-based nonprofit in New Jersey that runs “crisis pregnancy centers,” an appeal that has put both civil rights advocates and some of the nation’s best-known conservative groups on the same side. https://cnn.it/4pGK3Op
+
+[2025-12-02 21:00:23](https://bsky.app/profile/cnn.com/post/3m6yvfnvrjl2n)
 
 ---
 
