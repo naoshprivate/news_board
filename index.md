@@ -1,9 +1,9 @@
-# [2025-12-02 09:30 updated](2025_12_02.md)
+# [2025-12-02 09:50 updated](2025_12_02.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">【随時更新】ロシア ウクライナに軍事侵攻（12月2日の動き） https://news.web.nhk/newsweb/na/na-k10014973031000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6xonxao3o2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-02 09:27:03)</span><span style="padding-right:50px;">US holiday shoppers shake off economic blues for online spending spree reut.rs/48cZjg7 <a href="https://bsky.app/profile/reuters.com/post/3m6xokj5qaj2k" target="_blank">reuters.com</a> (2025-12-02 09:25:10)</span><span style="padding-right:50px;">【詳細】ロシア ウクライナに軍事侵攻（12月1日の動き） https://news.web.nhk/newsweb/na/na-k10014973021000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6xoiloik62p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-02 09:24:03)</span><span style="padding-right:50px;">House Minority Leader Hakeem Jeffries signaled today that Democrats are unlikely to pursue impeachment against Secretary of Defense Pete Hegseth over alleged follow-up strikes against boats in the Caribbean. <a href="https://bsky.app/profile/axios.com/post/3m6xodjikj227" target="_blank">axios.com</a> (2025-12-02 09:21:16)</span><span style="padding-right:50px;">Costco Wholesale has filed a lawsuit against the Trump administration, asking the Court of International Trade to consider all tariffs collected under the International Emergency Economic Powers Act unlawful. <a href="https://bsky.app/profile/nbcnews.com/post/3m6xobwfmex2c" target="_blank">nbcnews.com</a> (2025-12-02 09:20:22)</span>
+<span style="padding-right:50px;">U.S. troops have become top gun traders, swapping investment tips from cockpits and the decks of aircraft carriers and making fortunes. 🔗 on.wsj.com/49QetJr <a href="https://bsky.app/profile/wsj.com/post/3m6xptzif6r2a" target="_blank">wsj.com</a> (2025-12-02 09:48:23)</span><span style="padding-right:50px;">Clio's Fastcase sues rival legal tech firm Alexi reut.rs/3M9QT0w <a href="https://bsky.app/profile/reuters.com/post/3m6xpofbahh27" target="_blank">reuters.com</a> (2025-12-02 09:45:14)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】「漁船が転覆した」と119番通報 1人行方分からず 漁船には2人乗っていたか (2025-12-02 09:20) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m6xpgaw2my22" target="_blank">sokuho.news</a> (2025-12-02 09:40:41)</span><span style="padding-right:50px;">Economic jitters will not derail Americans'  generosity on Giving Tuesday, expert says reut.rs/4iAIBLg <a href="https://bsky.app/profile/reuters.com/post/3m6xpflenwi2d" target="_blank">reuters.com</a> (2025-12-02 09:40:19)</span><span style="padding-right:50px;">Rep. Shri Thanedar told Axios he's considering introducing articles of impeachment against Secretary of Defense Pete Hegseth over reports he authorized a 2nd strike on a purported drug boat in the Caribbean. <a href="https://bsky.app/profile/axios.com/post/3m6xp7unszs2o" target="_blank">axios.com</a> (2025-12-02 09:37:07)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49558.92 (🔺64.34 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47289.33 (🔻291.52 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23275.92 (🔺103.58 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.92 (🔺5.22 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔻25.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 155.61 (🔺0.18 : 2025-12-02)</span>
+<span style="padding-right:50px;">NIKKEI: 49592.96 (🔺98.38 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47289.33 (🔻291.52 : 2025-12-01)</span><span style="padding-right:50px;">NASDAQ: 23275.92 (🔺103.58 : 2025-12-01)</span><span style="padding-right:50px;">NVIDIA: 179.92 (🔺5.22 : 2025-12-01)</span><span style="padding-right:50px;">トヨタ自動車: 3055.00 (🔻30.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 155.63 (🔺0.21 : 2025-12-02)</span>
   </div>
 </div>
 
@@ -32,94 +32,102 @@
 
 ## News Headlines
 
-1. ロシア、ウクライナへの軍事侵攻継続
-2. 米ホリデー商戦、オンライン消費が活況
-3. トランプ政権下の関税、コストコが提訴
-4. Shein、テキサス州司法長官が労働慣行と製品安全を調査
-5. Apple、AI部門責任者をMicrosoftから引き抜き
-6. 「エル・チャポ」の息子、麻薬密輸で罪を認める
+1. 米軍兵士、投資取引で巨額の富を築く
+2. 漁船が転覆、1人行方不明
+3. NY州、妊娠危機センターの「中絶薬リバーサル」に関する言論規制できず
+4. トランプ大統領、MRI検査で「完全に正常」
+5. リビア戦争犯罪容疑者、ドイツからハーグへ移送
+6. 「エル・チャポ」の息子、米国で罪を認める
 
 ----
 
-@nhknewsunofficial.bsky.social
+@wsj.com
 
-【随時更新】ロシア ウクライナに軍事侵攻（12月2日の動き）
-https://news.web.nhk/newsweb/na/na-k10014973031000
+U.S. troops have become top gun traders, swapping investment tips from cockpits and the decks of aircraft carriers and making fortunes. 🔗 on.wsj.com/49QetJr
 
-[2025-12-02 09:27:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6xonxao3o2p)
+[2025-12-02 09:48:23](https://bsky.app/profile/wsj.com/post/3m6xptzif6r2a)
 
 ---
 
 @reuters.com
 
-US holiday shoppers shake off economic blues for online spending spree reut.rs/48cZjg7
+Clio's Fastcase sues rival legal tech firm Alexi reut.rs/3M9QT0w
 
-[2025-12-02 09:25:10](https://bsky.app/profile/reuters.com/post/3m6xokj5qaj2k)
+[2025-12-02 09:45:14](https://bsky.app/profile/reuters.com/post/3m6xpofbahh27)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@sokuho.news
 
-【詳細】ロシア ウクライナに軍事侵攻（12月1日の動き）
-https://news.web.nhk/newsweb/na/na-k10014973021000
+🛎️FNNより【速報】です。
 
-[2025-12-02 09:24:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m6xoiloik62p)
+【速報】「漁船が転覆した」と119番通報 1人行方分からず 漁船には2人乗っていたか
+(2025-12-02 09:20) #ニュース
+
+[2025-12-02 09:40:41](https://bsky.app/profile/sokuho.news/post/3m6xpgaw2my22)
+
+---
+
+@reuters.com
+
+Economic jitters will not derail Americans'  generosity on Giving Tuesday, expert says reut.rs/4iAIBLg
+
+[2025-12-02 09:40:19](https://bsky.app/profile/reuters.com/post/3m6xpflenwi2d)
 
 ---
 
 @axios.com
 
-House Minority Leader Hakeem Jeffries signaled today that Democrats are unlikely to pursue impeachment against Secretary of Defense Pete Hegseth over alleged follow-up strikes against boats in the Caribbean.
+Rep. Shri Thanedar told Axios he's considering introducing articles of impeachment against Secretary of Defense Pete Hegseth over reports he authorized a 2nd strike on a purported drug boat in the Caribbean.
 
-[2025-12-02 09:21:16](https://bsky.app/profile/axios.com/post/3m6xodjikj227)
-
----
-
-@nbcnews.com
-
-Costco Wholesale has filed a lawsuit against the Trump administration, asking the Court of International Trade to consider all tariffs collected under the International Emergency Economic Powers Act unlawful.
-
-[2025-12-02 09:20:22](https://bsky.app/profile/nbcnews.com/post/3m6xobwfmex2c)
+[2025-12-02 09:37:07](https://bsky.app/profile/axios.com/post/3m6xp7unszs2o)
 
 ---
 
-@nytimes.com
+@reuters.com
 
-Pastina al pomodoro is a classic Italian dish of small pasta that is cooked in the style of risotto until creamy and comforting.
+US court says NY can't stop crisis pregnancy centers' speech on 'abortion pill reversal' reut.rs/4pNzI3r
 
-[2025-12-02 09:20:06](https://bsky.app/profile/nytimes.com/post/3m6xobh5v5m2h)
+[2025-12-02 09:35:12](https://bsky.app/profile/reuters.com/post/3m6xp4gt22y2k)
 
 ---
 
 @cnn.com
 
-A memo from President Trump's doctor says his October scans were of his cardiovascular and abdominal systems and the results were "perfectly normal."
+50 Cent has long trolled Sean “Diddy” Combs on social media.
 
-[2025-12-02 09:16:19](https://bsky.app/profile/cnn.com/post/3m6xo2osmzc2j)
+Now the rapper turned actor and producer has taken it up a notch with his latest project, a Netflix docuseries about Combs. https://cnn.it/3KA5VMv
+
+[2025-12-02 09:32:03](https://bsky.app/profile/cnn.com/post/3m6xowst3bk2j)
+
+---
+
+@nikkei.com
+
+トランプ大統領、MRI検査「完全に正常」　心血管系と腹部を撮影
+www.nikkei.com/article/DGXZQO...
+
+現在79歳で、2期目の就任時の年齢は歴代大統領で最高。
+
+主治医は声明で「全体的な健康状態は引き続き素晴らしいことが確認された」としています。
+
+[2025-12-02 09:31:57](https://bsky.app/profile/nikkei.com/post/3m6xowmmybh2k)
 
 ---
 
 @reuters.com
 
-Shein probed by Texas attorney general over labor practices, product safety reut.rs/48yee3y
+Libyan war crimes suspect transferred from Germany to The Hague, ICC says reut.rs/3XpGY9z
 
-[2025-12-02 09:15:18](https://bsky.app/profile/reuters.com/post/3m6xnyuhn3b2k)
-
----
-
-@reuters.com
-
-Canada agrees to join EU initiative to surge defense spending reut.rs/49RIRTM
-
-[2025-12-02 09:10:20](https://bsky.app/profile/reuters.com/post/3m6xnpxv7dq2e)
+[2025-12-02 09:30:31](https://bsky.app/profile/reuters.com/post/3m6xou2oavr2o)
 
 ---
 
-@financialtimes.com
+@usatoday.com
 
-Apple replaces head of AI with executive poached from Microsoft on.ft.com/4rxs9Q0
+President Trump told Tennesseans "the whole world is watching" as Republicans work to avert a disaster in a closely watched special election.
 
-[2025-12-02 09:09:27](https://bsky.app/profile/financialtimes.com/post/3m6xnofrop72n)
+[2025-12-02 09:30:24](https://bsky.app/profile/usatoday.com/post/3m6xotuhvzp2j)
 
 ---
 
