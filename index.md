@@ -1,9 +1,9 @@
-# [2025-12-03 17:10 updated](2025_12_03.md)
+# [2025-12-03 17:30 updated](2025_12_03.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">UPDATE European Union lawmakers and member states reached a deal Wednesday to ban all imports of Russian gas by autumn 2027, as the bloc seeks to choke off key funds feeding Moscow's war chest  u.afp.com/Shji <a href="https://bsky.app/profile/en.afp.com/post/3m72ystl2jx2k" target="_blank">en.afp.com</a> (2025-12-03 17:06:46)</span><span style="padding-right:50px;">Myanmar's opium poppy cultivation hits highest level in a decade, UN says reut.rs/3KzHmiO <a href="https://bsky.app/profile/reuters.com/post/3m72ypxo5r627" target="_blank">reuters.com</a> (2025-12-03 17:05:10)</span><span style="padding-right:50px;">国会をAIで見える化　サイト「みらい議会」、政治を分かりやすく www.nikkei.com/article/DGXZQO...  この法案がなぜ必要で、どんな狙いがあるか。  分かりやすく説明するのは、新党のチームみらいが運営するサイトです。  国民と政治をつなぐ新たなツールとなるでしょうか。 <a href="https://bsky.app/profile/nikkei.com/post/3m72yhkfx2f2k" target="_blank">nikkei.com</a> (2025-12-03 17:00:28)</span><span style="padding-right:50px;">Rupee cracks below 90 to the dollar, hit by tariffs, capital outflows reut.rs/4iCpQXZ <a href="https://bsky.app/profile/reuters.com/post/3m72yhjlxux2k" target="_blank">reuters.com</a> (2025-12-03 17:00:27)</span><span style="padding-right:50px;">New search to start on December 30 for Boeing 777 that went missing in 2014 with 227 passengers and 12 crew members. <a href="https://bsky.app/profile/aljazeera.com/post/3m72yhcqsvq2x" target="_blank">aljazeera.com</a> (2025-12-03 17:00:20)</span>
+<span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】4日夕方までに平地で最大20センチ、山沿いで70センチの降雪予想 暴風雪や警報級大雪の地域が拡大するおそれも《新潟》 (2025-12-03 17:25) #ニュース  🟨警報注意報 🔗https://www.jma.go.jp/bosai/warning/#lang=ja&area_type=offices&area_code=150000 <a href="https://bsky.app/profile/sokuho.news/post/3m72zvf3hc726" target="_blank">sokuho.news</a> (2025-12-03 17:26:06)</span><span style="padding-right:50px;">Gold holds steady ahead of US data, rate cut bets in focus reut.rs/3MdQcDy <a href="https://bsky.app/profile/reuters.com/post/3m72ztp5nhc2y" target="_blank">reuters.com</a> (2025-12-03 17:25:09)</span><span style="padding-right:50px;">The Malaysian government says it will pay the robotics firm Ocean Infinity $70 million if it can locate the wreckage from the missing flight within a 55-day period. n.pr/49NuqjE <a href="https://bsky.app/profile/npr.org/post/3m72ztgzv2623" target="_blank">npr.org</a> (2025-12-03 17:25:00)</span><span style="padding-right:50px;">South Korea's Lee vows 'strict accountability' for martial law perpetrators a year after Yoon’s ‘self-coup' attempt <a href="https://bsky.app/profile/cnbc.com/post/3m72zpvmkez2h" target="_blank">cnbc.com</a> (2025-12-03 17:23:02)</span><span style="padding-right:50px;">'HIV-free generations': prevention drug rollout brings hope to South Africa.  Taken twice a year, Lenacapavir has been shown to reduce the risk of HIV transmission by more than 99.9%  u.afp.com/ShHt <a href="https://bsky.app/profile/en.afp.com/post/3m72znhv7kr25" target="_blank">en.afp.com</a> (2025-12-03 17:21:40)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.30 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.72 (🔻0.10 : 2025-12-03)</span>
+<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.30 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.70 (🔻0.12 : 2025-12-03)</span>
   </div>
 </div>
 
@@ -32,108 +32,103 @@
 
 ## News Headlines
 
-1.  EU、2027年秋までにロシア産ガス輸入を全面禁止で合意
-2.  ミャンマー、ケシ栽培が過去10年で最高水準に
-3.  AIで国会を可視化「みらい議会」始動
-4.  山上被告、安倍元総理銃撃は「本筋ではない」と証言
-5.  アメリカ、アフガニスタンなど19か国からの移民申請を停止
-6.  プーチン氏、米特使と会談もウクライナ和平に進展なし
+1. 新潟、平地で最大20センチ降雪予想　暴風雪・警報級大雪のおそれ
+2. マレーシア、MH370捜索再開へ　発見で7000万ドル支払い
+3. 南アフリカ、HIV予防薬の導入で「HIVフリー世代」へ希望
+4. EU、2027年秋までにロシア産ガス輸入を全面禁止で合意
+5. 山上被告、安倍元総理狙いは「本筋ではない」　統一教会が対象
+6. レギュラーガソリン、4週連続値下げ　4.0円の大幅安
 
 ----
 
-@en.afp.com
-
-UPDATE European Union lawmakers and member states reached a deal Wednesday to ban all imports of Russian gas by autumn 2027, as the bloc seeks to choke off key funds feeding Moscow's war chest
-
-u.afp.com/Shji
-
-[2025-12-03 17:06:46](https://bsky.app/profile/en.afp.com/post/3m72ystl2jx2k)
-
----
-
-@reuters.com
-
-Myanmar's opium poppy cultivation hits highest level in a decade, UN says reut.rs/3KzHmiO
-
-[2025-12-03 17:05:10](https://bsky.app/profile/reuters.com/post/3m72ypxo5r627)
-
----
-
-@nikkei.com
-
-国会をAIで見える化　サイト「みらい議会」、政治を分かりやすく
-www.nikkei.com/article/DGXZQO...
-
-この法案がなぜ必要で、どんな狙いがあるか。
-
-分かりやすく説明するのは、新党のチームみらいが運営するサイトです。
-
-国民と政治をつなぐ新たなツールとなるでしょうか。
-
-[2025-12-03 17:00:28](https://bsky.app/profile/nikkei.com/post/3m72yhkfx2f2k)
-
----
-
-@reuters.com
-
-Rupee cracks below 90 to the dollar, hit by tariffs, capital outflows reut.rs/4iCpQXZ
-
-[2025-12-03 17:00:27](https://bsky.app/profile/reuters.com/post/3m72yhjlxux2k)
-
----
-
-@aljazeera.com
-
-New search to start on December 30 for Boeing 777 that went missing in 2014 with 227 passengers and 12 crew members.
-
-[2025-12-03 17:00:20](https://bsky.app/profile/aljazeera.com/post/3m72yhcqsvq2x)
-
----
-
-@cnn.com
-
-In the past, Pete Hegseth described the refusal of illegal commands as part of the military’s ethos — a message he now condemns Democrats for spreading. 
-
-[2025-12-03 17:00:13](https://bsky.app/profile/cnn.com/post/3m72yh4l5qt23)
-
----
-
-@bloomberg.com
-
-President Trump said he spoke with his Brazilian counterpart, Luiz Inacio Lula da Silva, about sanctions the US imposed on officials from Brazil, a sign relations between the nations continue to improve
-
-[2025-12-03 17:00:13](https://bsky.app/profile/bloomberg.com/post/3m72yh45h6a2n)
-
----
-
-@washingtonpost.com
-
-The last time anyone spotted a red-cockaded woodpecker in Tennessee, Bill Clinton was in his first term in the White House.
-
-Now, state and federal officials have an ambitious plan to bring back the imperiled bird to the Volunteer State. https://wapo.st/3XrVVbb
-
-[2025-12-03 17:00:12](https://bsky.app/profile/washingtonpost.com/post/3m72yh33yn42a)
-
----
-
-@wsj.com
-
-Jeff Bezos’ space company is finally getting momentum in orbit. 🔗 on.wsj.com/48qDvwj
-
-Blue Origin is planning more orbital missions, including an early 2026 cargo flight to the moon, following its recent New Glenn rocket launches and booster catch.
-
-[2025-12-03 16:58:23](https://bsky.app/profile/wsj.com/post/3m72ydu2aqr24)
-
----
-
 @sokuho.news
 
-🛎️JNNより【速報】です。
+🛎️NNNより【速報】です。
 
-【速報】総社市上林で解体中の建物から出火 けが人なし【岡山】
-(2025-12-03 16:52:00) #ニュース
+【速報】4日夕方までに平地で最大20センチ、山沿いで70センチの降雪予想 暴風雪や警報級大雪の地域が拡大するおそれも《新潟》
+(2025-12-03 17:25) #ニュース
 
-[2025-12-03 16:57:02](https://bsky.app/profile/sokuho.news/post/3m72ybgpvgr2p)
+🟨警報注意報
+🔗https://www.jma.go.jp/bosai/warning/#lang=ja&area_type=offices&area_code=150000
+
+[2025-12-03 17:26:06](https://bsky.app/profile/sokuho.news/post/3m72zvf3hc726)
+
+---
+
+@reuters.com
+
+Gold holds steady ahead of US data, rate cut bets in focus reut.rs/3MdQcDy
+
+[2025-12-03 17:25:09](https://bsky.app/profile/reuters.com/post/3m72ztp5nhc2y)
+
+---
+
+@npr.org
+
+The Malaysian government says it will pay the robotics firm Ocean Infinity $70 million if it can locate the wreckage from the missing flight within a 55-day period. n.pr/49NuqjE
+
+[2025-12-03 17:25:00](https://bsky.app/profile/npr.org/post/3m72ztgzv2623)
+
+---
+
+@cnbc.com
+
+South Korea's Lee vows 'strict accountability' for martial law perpetrators a year after Yoon’s ‘self-coup' attempt
+
+[2025-12-03 17:23:02](https://bsky.app/profile/cnbc.com/post/3m72zpvmkez2h)
+
+---
+
+@en.afp.com
+
+'HIV-free generations': prevention drug rollout brings hope to South Africa.
+
+Taken twice a year, Lenacapavir has been shown to reduce the risk of HIV transmission by more than 99.9%
+
+u.afp.com/ShHt
+
+[2025-12-03 17:21:40](https://bsky.app/profile/en.afp.com/post/3m72znhv7kr25)
+
+---
+
+@reuters.com
+
+South Africa's private sector activity contracts for second month in November, PMI shows reut.rs/4izPj3Z
+
+[2025-12-03 17:15:10](https://bsky.app/profile/reuters.com/post/3m72zbthw222y)
+
+---
+
+@reuters.com
+
+The son of a retiree named Wong, who was photographed by Reuters as flames engulfed the Wang Fuk Court complex in Tai Po, speaks about the tragedy. Hong Kong's deadliest fire in more than 75 years left at least 156 people dead, with scores more missing, including Wong's wife.
+
+[2025-12-03 17:12:35](https://bsky.app/profile/reuters.com/post/3m72z5afv622y)
+
+---
+
+@cnbc.com
+
+Malaysia to resume search for missing flight MH370, more than a decade after plane vanished
+
+[2025-12-03 17:12:27](https://bsky.app/profile/cnbc.com/post/3m72z4yloqw2f)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+家賃など値上げめぐり “貸主対応は違法” 賠償命令 東京地裁
+https://news.web.nhk/newsweb/na/na-k10014992951000
+
+[2025-12-03 17:12:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72z4c24jx2j)
+
+---
+
+@reuters.com
+
+Sentiment in German auto sector deteriorates in November, survey finds reut.rs/4ivL4GK
+
+[2025-12-03 17:10:10](https://bsky.app/profile/reuters.com/post/3m72yywc2fp2k)
 
 ---
 
