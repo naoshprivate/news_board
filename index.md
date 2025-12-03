@@ -1,9 +1,9 @@
-# [2025-12-04 04:10 updated](2025_12_04.md)
+# [2025-12-04 04:30 updated](2025_12_04.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The president said in a social media post that the Democratic lawmaker had been targeted by the Department of Justice for “bravely” speaking against former president Biden's border policies. (via @texaspublicradio.bsky.social) <a href="https://bsky.app/profile/npr.org/post/3m745q6nu3u2a" target="_blank">npr.org</a> (2025-12-04 04:07:26)</span><span style="padding-right:50px;">Larry Fink softens crypto stance as BlackRock boasts biggest US bitcoin ETF: 'My thought process has evolved' <a href="https://bsky.app/profile/yahoofinance.com/post/3m745nnkgc72u" target="_blank">yahoofinance.com</a> (2025-12-04 04:06:01)</span><span style="padding-right:50px;">Hungary to challenge EU decision to phase out Russian energy imports reut.rs/441fRp2 <a href="https://bsky.app/profile/reuters.com/post/3m745lzgkpm2k" target="_blank">reuters.com</a> (2025-12-04 04:05:06)</span><span style="padding-right:50px;">In a new interview, Joe Rogan asked Nvidia CEO Jensen Huang about whether winning the AI race is important to U.S. national security.   "The question is, 'what's there?' I don't think anybody really knows," Huang said.   "You're the head of Nvidia. If you don't know, who does?" Rogan asked. <a href="https://bsky.app/profile/axios.com/post/3m745jr3cnk2c" target="_blank">axios.com</a> (2025-12-04 04:03:50)</span><span style="padding-right:50px;">Jeffrey Epstein island photos and videos released as top banks share files with House Oversight Committee <a href="https://bsky.app/profile/cnbc.com/post/3m745hiak4j2g" target="_blank">cnbc.com</a> (2025-12-04 04:02:34)</span>
+<span style="padding-right:50px;">Excelsior Sciences raises $95 million to speed small molecule drug development using AI reut.rs/4pnLphw <a href="https://bsky.app/profile/reuters.com/post/3m746ps6bwk2n" target="_blank">reuters.com</a> (2025-12-04 04:25:06)</span><span style="padding-right:50px;">Former Intel CEO: Big AI firms are funding themselves — and that's not real demand <a href="https://bsky.app/profile/yahoofinance.com/post/3m746irfofs23" target="_blank">yahoofinance.com</a> (2025-12-04 04:21:11)</span><span style="padding-right:50px;">Cases of Ritz Peanut Butter Cracker Sandwiches sold in eight states are being recalled due to packs being incorrectly labeled and posing a risk to people with peanut allergies. <a href="https://bsky.app/profile/nbcnews.com/post/3m746gz6ydc2j" target="_blank">nbcnews.com</a> (2025-12-04 04:20:12)</span><span style="padding-right:50px;">The megacap denied the report, claiming the story shows a “lack of understanding of the way a sales organization works and is compensated.” <a href="https://bsky.app/profile/forbes.com/post/3m746grx6gr2q" target="_blank">forbes.com</a> (2025-12-04 04:20:04)</span><span style="padding-right:50px;">Police confirmed the death of one man and the injury of another at MGM National Harbor hotel and casino late Wednesday morning.  Officers responded to a shooting in the food court, where one man was found dead and another man had a graze wound. <a href="https://bsky.app/profile/washingtonpost.com/post/3m746fids462o" target="_blank">washingtonpost.com</a> (2025-12-04 04:19:21)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47920.45 (🔺548.83 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23473.09 (🔺157.51 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 181.04 (🔻0.03 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.12 (🔻0.70 : 2025-12-03)</span>
+<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47934.72 (🔺563.10 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23469.67 (🔺154.09 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 180.75 (🔻0.32 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.11 (🔻0.71 : 2025-12-03)</span>
   </div>
 </div>
 
@@ -32,96 +32,95 @@
 
 ## News Headlines
 
-1.  司法省、バイデン政権の国境政策批判議員を標的に？ 大統領がSNSで指摘
-2.  ブラックロックCEO、ビットコインETF好調で暗号資産への見解を軟化
-3.  ハンガリー、ロシア産エネルギー輸入段階的廃止に関するEU決定に異議
-4.  エプスタイン島の写真・ビデオ公開、大手銀行が下院監視委員会にファイル提出
-5.  ADP調べ：米民間部門の雇用、11月に大幅減少
-6.  豪州、未成年者のアカウント削除怠ればSNSに最大3300万ドルの罰金
+1. AI創薬加速へ、Excelsior Sciencesが9500万ドル調達
+2. リッツ ピーナッツバター クラッカー 回収、アレルギーリスク
+3. MGM National Harbor で銃撃事件、1人死亡、1人負傷
+4. ドルツリー、好調な需要で年間利益目標引き上げ
+5. マイクロン、AIチップ需要急増で一般消費者向けメモリ販売停止
+6. トランプ前大統領、閣議で居眠りか？健康状態に再び注目
 
 ----
 
-@npr.org
+@reuters.com
 
-The president said in a social media post that the Democratic lawmaker had been targeted by the Department of Justice for “bravely” speaking against former president Biden's border policies. (via @texaspublicradio.bsky.social)
+Excelsior Sciences raises $95 million to speed small molecule drug development using AI reut.rs/4pnLphw
 
-[2025-12-04 04:07:26](https://bsky.app/profile/npr.org/post/3m745q6nu3u2a)
+[2025-12-04 04:25:06](https://bsky.app/profile/reuters.com/post/3m746ps6bwk2n)
 
 ---
 
 @yahoofinance.com
 
-Larry Fink softens crypto stance as BlackRock boasts biggest US bitcoin ETF: 'My thought process has evolved'
+Former Intel CEO: Big AI firms are funding themselves — and that's not real demand
 
-[2025-12-04 04:06:01](https://bsky.app/profile/yahoofinance.com/post/3m745nnkgc72u)
+[2025-12-04 04:21:11](https://bsky.app/profile/yahoofinance.com/post/3m746irfofs23)
+
+---
+
+@nbcnews.com
+
+Cases of Ritz Peanut Butter Cracker Sandwiches sold in eight states are being recalled due to packs being incorrectly labeled and posing a risk to people with peanut allergies.
+
+[2025-12-04 04:20:12](https://bsky.app/profile/nbcnews.com/post/3m746gz6ydc2j)
+
+---
+
+@forbes.com
+
+The megacap denied the report, claiming the story shows a “lack of understanding of the way a sales organization works and is compensated.”
+
+[2025-12-04 04:20:04](https://bsky.app/profile/forbes.com/post/3m746grx6gr2q)
+
+---
+
+@washingtonpost.com
+
+Police confirmed the death of one man and the injury of another at MGM National Harbor hotel and casino late Wednesday morning.
+
+Officers responded to a shooting in the food court, where one man was found dead and another man had a graze wound.
+
+[2025-12-04 04:19:21](https://bsky.app/profile/washingtonpost.com/post/3m746fids462o)
+
+---
+
+@wsj.com
+
+Developer Stephen Ross will work with Archer Aviation to help build a network of launchpads for a fleet of flying vehicles in South Florida.
+
+[2025-12-04 04:18:51](https://bsky.app/profile/wsj.com/post/3m746elzlaz2h)
+
+---
+
+@en.afp.com
+
+He still mocks his predecessor as "Sleepy Joe" Biden. But it was Donald Trump who seemed to be fighting to stay awake at a cabinet meeting on Tuesday,  renewing scrutiny of the 79-year-old president's health. More: u.afp.com/Shyi 
+📸 Andrew Caballero-Reynolds
+
+[2025-12-04 04:16:02](https://bsky.app/profile/en.afp.com/post/3m7467laxyk2d)
 
 ---
 
 @reuters.com
 
-Hungary to challenge EU decision to phase out Russian energy imports reut.rs/441fRp2
+Dollar Tree lifts annual profit target on steady demand for affordable items reut.rs/4pM7JRC
 
-[2025-12-04 04:05:06](https://bsky.app/profile/reuters.com/post/3m745lzgkpm2k)
+[2025-12-04 04:15:08](https://bsky.app/profile/reuters.com/post/3m7465xoyhp2i)
 
 ---
 
-@axios.com
+@forbes.com
 
-In a new interview, Joe Rogan asked Nvidia CEO Jensen Huang about whether winning the AI race is important to U.S. national security. 
+Nicolas Puech is alleging his former wealth manager sold his shares in Hermès without his knowledge.
 
-"The question is, 'what's there?' I don't think anybody really knows," Huang said. 
-
-"You're the head of Nvidia. If you don't know, who does?" Rogan asked.
-
-[2025-12-04 04:03:50](https://bsky.app/profile/axios.com/post/3m745jr3cnk2c)
+[2025-12-04 04:15:02](https://bsky.app/profile/forbes.com/post/3m7465s7laq2x)
 
 ---
 
 @cnbc.com
 
-Jeffrey Epstein island photos and videos released as top banks share files with House Oversight Committee
+Micron stops selling memory to consumers as demand spikes from AI chips
 
-[2025-12-04 04:02:34](https://bsky.app/profile/cnbc.com/post/3m745hiak4j2g)
-
----
-
-@reuters.com
-
-Explainer: Hazards of ketamine in focus after actor Matthew Perry's 2023 overdose death reut.rs/4apcH2c
-
-[2025-12-04 04:01:05](https://bsky.app/profile/reuters.com/post/3m745etg6kr2a)
-
----
-
-@cnn.com
-
-Hiring dropped off significantly at US private-sector businesses in November, according to new data from payroll giant ADP.https://cnn.it/4rzvgXv
-
-[2025-12-04 04:01:04](https://bsky.app/profile/cnn.com/post/3m745esznox2q)
-
----
-
-@aljazeera.com
-
-Experts tell Al Jazeera what would happen if the world decided to downgrade its richest residents.
-
-[2025-12-04 04:00:55](https://bsky.app/profile/aljazeera.com/post/3m745ekkaju2d)
-
----
-
-@cnbc.com
-
-In 2019, Sophie Hilaire bought a Sprinter van from Craigslist for $29,900. She traveled the U.S., Mexico and Canada and lived in the van for two years.
-
-[2025-12-04 04:00:30](https://bsky.app/profile/cnbc.com/post/3m745dskpbr2g)
-
----
-
-@apnews.com
-
-The Associated Press has announced its top 10 albums of the year, showcasing a diverse range of artists.
-
-[2025-12-04 04:00:26](https://bsky.app/profile/apnews.com/post/3m745doeguw2h)
+[2025-12-04 04:14:54](https://bsky.app/profile/cnbc.com/post/3m7465jzpsb23)
 
 ---
 
