@@ -1,9 +1,9 @@
-# [2025-12-03 17:30 updated](2025_12_03.md)
+# [2025-12-03 17:50 updated](2025_12_03.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】4日夕方までに平地で最大20センチ、山沿いで70センチの降雪予想 暴風雪や警報級大雪の地域が拡大するおそれも《新潟》 (2025-12-03 17:25) #ニュース  🟨警報注意報 🔗https://www.jma.go.jp/bosai/warning/#lang=ja&area_type=offices&area_code=150000 <a href="https://bsky.app/profile/sokuho.news/post/3m72zvf3hc726" target="_blank">sokuho.news</a> (2025-12-03 17:26:06)</span><span style="padding-right:50px;">Gold holds steady ahead of US data, rate cut bets in focus reut.rs/3MdQcDy <a href="https://bsky.app/profile/reuters.com/post/3m72ztp5nhc2y" target="_blank">reuters.com</a> (2025-12-03 17:25:09)</span><span style="padding-right:50px;">The Malaysian government says it will pay the robotics firm Ocean Infinity $70 million if it can locate the wreckage from the missing flight within a 55-day period. n.pr/49NuqjE <a href="https://bsky.app/profile/npr.org/post/3m72ztgzv2623" target="_blank">npr.org</a> (2025-12-03 17:25:00)</span><span style="padding-right:50px;">South Korea's Lee vows 'strict accountability' for martial law perpetrators a year after Yoon’s ‘self-coup' attempt <a href="https://bsky.app/profile/cnbc.com/post/3m72zpvmkez2h" target="_blank">cnbc.com</a> (2025-12-03 17:23:02)</span><span style="padding-right:50px;">'HIV-free generations': prevention drug rollout brings hope to South Africa.  Taken twice a year, Lenacapavir has been shown to reduce the risk of HIV transmission by more than 99.9%  u.afp.com/ShHt <a href="https://bsky.app/profile/en.afp.com/post/3m72znhv7kr25" target="_blank">en.afp.com</a> (2025-12-03 17:21:40)</span>
+<span style="padding-right:50px;">Taiwan says China sometimes stages mock attacks on foreign navy ships in strait reut.rs/48fn1sb <a href="https://bsky.app/profile/reuters.com/post/3m732xgfb4c2i" target="_blank">reuters.com</a> (2025-12-03 17:45:08)</span><span style="padding-right:50px;">Once an expanse of empty lots, forest and farmland in Virginia, Ashburn is now known as Data Center Alley and hosts an estimated 70% of all global internet traffic.  AFP visits Ashburn as, in a major shift, local politicians begin running campaigns to slow expansion  u.afp.com/ShVc <a href="https://bsky.app/profile/en.afp.com/post/3m732voaeqv2m" target="_blank">en.afp.com</a> (2025-12-03 17:44:09)</span><span style="padding-right:50px;">ASX outage deepens investors' doubts over tech overhaul reut.rs/3Kv0RZJ <a href="https://bsky.app/profile/reuters.com/post/3m732ofkfva2i" target="_blank">reuters.com</a> (2025-12-03 17:40:05)</span><span style="padding-right:50px;">【解説動画】日本海側中心に4日にかけ大雪見込み (3日17時) https://news.web.nhk/newsweb/na/na-k10014992881000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m732mq2vaz2e" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 17:39:07)</span><span style="padding-right:50px;">暴力団員2人逮捕 特殊詐欺 受け子などのグループのトップか https://news.web.nhk/newsweb/na/na-k10014993021000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m732mlrl5r2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 17:39:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.30 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.70 (🔻0.12 : 2025-12-03)</span>
+<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.30 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.73 (🔻0.09 : 2025-12-03)</span>
   </div>
 </div>
 
@@ -32,103 +32,102 @@
 
 ## News Headlines
 
-1. 新潟、平地で最大20センチ降雪予想　暴風雪・警報級大雪のおそれ
-2. マレーシア、MH370捜索再開へ　発見で7000万ドル支払い
-3. 南アフリカ、HIV予防薬の導入で「HIVフリー世代」へ希望
-4. EU、2027年秋までにロシア産ガス輸入を全面禁止で合意
-5. 山上被告、安倍元総理狙いは「本筋ではない」　統一教会が対象
-6. レギュラーガソリン、4週連続値下げ　4.0円の大幅安
+1. 台湾、中国が台湾海峡で外国軍艦への模擬攻撃を実施と発表
+2. バージニア州アッシュバーン、データセンター集積地で拡張にブレーキ
+3. ASX取引停止、技術刷新への投資家の疑念を深める
+4. 日本海側中心に大雪の恐れ、暴風雪や警報級大雪に警戒
+5. ミャンマー、アフガニスタンに代わり世界最大の違法アヘン供給国に
+6. マレーシア航空MH370便、10年超ぶりに捜索再開へ
 
 ----
 
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】4日夕方までに平地で最大20センチ、山沿いで70センチの降雪予想 暴風雪や警報級大雪の地域が拡大するおそれも《新潟》
-(2025-12-03 17:25) #ニュース
-
-🟨警報注意報
-🔗https://www.jma.go.jp/bosai/warning/#lang=ja&area_type=offices&area_code=150000
-
-[2025-12-03 17:26:06](https://bsky.app/profile/sokuho.news/post/3m72zvf3hc726)
-
----
-
 @reuters.com
 
-Gold holds steady ahead of US data, rate cut bets in focus reut.rs/3MdQcDy
+Taiwan says China sometimes stages mock attacks on foreign navy ships in strait reut.rs/48fn1sb
 
-[2025-12-03 17:25:09](https://bsky.app/profile/reuters.com/post/3m72ztp5nhc2y)
-
----
-
-@npr.org
-
-The Malaysian government says it will pay the robotics firm Ocean Infinity $70 million if it can locate the wreckage from the missing flight within a 55-day period. n.pr/49NuqjE
-
-[2025-12-03 17:25:00](https://bsky.app/profile/npr.org/post/3m72ztgzv2623)
-
----
-
-@cnbc.com
-
-South Korea's Lee vows 'strict accountability' for martial law perpetrators a year after Yoon’s ‘self-coup' attempt
-
-[2025-12-03 17:23:02](https://bsky.app/profile/cnbc.com/post/3m72zpvmkez2h)
+[2025-12-03 17:45:08](https://bsky.app/profile/reuters.com/post/3m732xgfb4c2i)
 
 ---
 
 @en.afp.com
 
-'HIV-free generations': prevention drug rollout brings hope to South Africa.
+Once an expanse of empty lots, forest and farmland in Virginia, Ashburn is now known as Data Center Alley and hosts an estimated 70% of all global internet traffic.
 
-Taken twice a year, Lenacapavir has been shown to reduce the risk of HIV transmission by more than 99.9%
+AFP visits Ashburn as, in a major shift, local politicians begin running campaigns to slow expansion
 
-u.afp.com/ShHt
+u.afp.com/ShVc
 
-[2025-12-03 17:21:40](https://bsky.app/profile/en.afp.com/post/3m72znhv7kr25)
-
----
-
-@reuters.com
-
-South Africa's private sector activity contracts for second month in November, PMI shows reut.rs/4izPj3Z
-
-[2025-12-03 17:15:10](https://bsky.app/profile/reuters.com/post/3m72zbthw222y)
+[2025-12-03 17:44:09](https://bsky.app/profile/en.afp.com/post/3m732voaeqv2m)
 
 ---
 
 @reuters.com
 
-The son of a retiree named Wong, who was photographed by Reuters as flames engulfed the Wang Fuk Court complex in Tai Po, speaks about the tragedy. Hong Kong's deadliest fire in more than 75 years left at least 156 people dead, with scores more missing, including Wong's wife.
+ASX outage deepens investors' doubts over tech overhaul reut.rs/3Kv0RZJ
 
-[2025-12-03 17:12:35](https://bsky.app/profile/reuters.com/post/3m72z5afv622y)
-
----
-
-@cnbc.com
-
-Malaysia to resume search for missing flight MH370, more than a decade after plane vanished
-
-[2025-12-03 17:12:27](https://bsky.app/profile/cnbc.com/post/3m72z4yloqw2f)
+[2025-12-03 17:40:05](https://bsky.app/profile/reuters.com/post/3m732ofkfva2i)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-家賃など値上げめぐり “貸主対応は違法” 賠償命令 東京地裁
-https://news.web.nhk/newsweb/na/na-k10014992951000
+【解説動画】日本海側中心に4日にかけ大雪見込み (3日17時)
+https://news.web.nhk/newsweb/na/na-k10014992881000
 
-[2025-12-03 17:12:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72z4c24jx2j)
+[2025-12-03 17:39:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m732mq2vaz2e)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+暴力団員2人逮捕 特殊詐欺 受け子などのグループのトップか
+https://news.web.nhk/newsweb/na/na-k10014993021000
+
+[2025-12-03 17:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m732mlrl5r2p)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+安倍元首相銃撃事件の裁判 安倍昭恵さんが初めて出席
+https://news.web.nhk/newsweb/na/na-k10014992521000
+
+[2025-12-03 17:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m732h7amsj2e)
 
 ---
 
 @reuters.com
 
-Sentiment in German auto sector deteriorates in November, survey finds reut.rs/4ivL4GK
+Major Chinese banks cut high-yield deposit products to ease margin pressure reut.rs/4oxygRw
 
-[2025-12-03 17:10:10](https://bsky.app/profile/reuters.com/post/3m72yywc2fp2k)
+[2025-12-03 17:35:03](https://bsky.app/profile/reuters.com/post/3m732ffewap2n)
+
+---
+
+@cnbc.com
+
+iPhone 17 will drive record Apple shipments in 2025, IDC says
+
+[2025-12-03 17:34:09](https://bsky.app/profile/cnbc.com/post/3m732ds3paw2y)
+
+---
+
+@cnbc.com
+
+India is set to host Russia's Putin, deepening trade ties, unfazed by punitive U.S. tariffs
+
+[2025-12-03 17:33:05](https://bsky.app/profile/cnbc.com/post/3m732bvdnud2o)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】未成年誘拐と不同意性交の疑いで20歳の男を逮捕 被害者は女子中学生 大分
+(2025-12-03 17:20) #ニュース
+
+[2025-12-03 17:32:18](https://bsky.app/profile/sokuho.news/post/3m732ainyp72l)
 
 ---
 
