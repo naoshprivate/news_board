@@ -1,9 +1,9 @@
-# [2025-12-03 22:30 updated](2025_12_03.md)
+# [2025-12-03 22:50 updated](2025_12_03.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Three French teens drown in freak car crash in swimming pool <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m73ks4wev52h" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-03 22:28:29)</span><span style="padding-right:50px;">November private payrolls unexpectedly fell by 32,000, led by steep small business job cuts, ADP reports <a href="https://bsky.app/profile/cnbc.com/post/3m73kpv6wa423" target="_blank">cnbc.com</a> (2025-12-03 22:27:15)</span><span style="padding-right:50px;">Macy’s, the largest department store chain in the U.S., on Wednesday raised its sales forecast for the year after reporting a better-than-expected performance across its brands. <a href="https://bsky.app/profile/nytimes.com/post/3m73klzknnp2w" target="_blank">nytimes.com</a> (2025-12-03 22:25:05)</span><span style="padding-right:50px;">Oil majors unite to oppose Subsea7-Saipem merger in Brazil antitrust case reut.rs/48vjgNZ <a href="https://bsky.app/profile/reuters.com/post/3m73klybjqn2y" target="_blank">reuters.com</a> (2025-12-03 22:25:04)</span><span style="padding-right:50px;">Stocks making the biggest moves premarket: American Eagle Outfitters, Okta, Microchip Technology and more <a href="https://bsky.app/profile/cnbc.com/post/3m73klty4qw2f" target="_blank">cnbc.com</a> (2025-12-03 22:24:59)</span>
+<span style="padding-right:50px;">US private employers shed 32,000 jobs in November on.ft.com/4rxUFkj <a href="https://bsky.app/profile/financialtimes.com/post/3m73lvh4sfw27" target="_blank">financialtimes.com</a> (2025-12-03 22:48:15)</span><span style="padding-right:50px;">Private wealth has become an operational arm of the Trump presidency, bankrolling pet projects and policies on a scale unmatched by any previous administration. <a href="https://bsky.app/profile/axios.com/post/3m73lucjfkc2x" target="_blank">axios.com</a> (2025-12-03 22:47:37)</span><span style="padding-right:50px;">ECB urges Italy to reconsider proposal on central bank's $300 billion gold reut.rs/3McSEdo <a href="https://bsky.app/profile/reuters.com/post/3m73lptq5to2y" target="_blank">reuters.com</a> (2025-12-03 22:45:07)</span><span style="padding-right:50px;">The end of 2025 is almost upon us. And it’s time to unpack Spotify Wrapped. <a href="https://bsky.app/profile/apnews.com/post/3m73lpons5p2h" target="_blank">apnews.com</a> (2025-12-03 22:45:02)</span><span style="padding-right:50px;">From Breakingviews - Breakingviews - UK budget circus reveals technocracy’s limits reut.rs/3Y6jhTO <a href="https://bsky.app/profile/reuters.com/post/3m73lh6aftx2e" target="_blank">reuters.com</a> (2025-12-03 22:40:16)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.30 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.48 (🔻0.34 : 2025-12-03)</span>
+<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.30 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.40 (🔻0.42 : 2025-12-03)</span>
   </div>
 </div>
 
@@ -32,113 +32,94 @@
 
 ## News Headlines
 
-1. フランスで自動車事故、プールに転落し10代3人死亡
-2. 米11月民間雇用、予想外の減少：中小企業で大幅な人員削減
-3. メイシーズ、好調な業績で通期売上予測を上方修正
-4. 日産、追浜工場閉鎖に伴う転籍者に月給差額5年分を一括支給
-5. オーストラリア、16歳未満のSNS利用禁止でYouTubeが政府を批判
-6. 韓国、尹錫悦氏の「戒厳」真相が明らかに？北朝鮮ドローン挑発疑惑
+1. 米民間部門雇用者数、11月に32,000人減少
+2. ECB、イタリアに中央銀行の金準備見直しを要請
+3. EU、ロシア資産を活用しウクライナ支援へ最大2100億ユーロ融資案
+4. リビアン、シートベルト問題で米国内の配送バン約35,000台をリコール
+5. 大阪万博の経済効果3兆円、想定を3000億円上回る
+6. 日産、追浜工場閉鎖に伴う転籍者に月給差額5年分を一括支給へ
 
 ----
 
-@bbcnews-world-rss.bsky.social
+@financialtimes.com
 
-Three French teens drown in freak car crash in swimming pool
+US private employers shed 32,000 jobs in November on.ft.com/4rxUFkj
 
-[2025-12-03 22:28:29](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m73ks4wev52h)
-
----
-
-@cnbc.com
-
-November private payrolls unexpectedly fell by 32,000, led by steep small business job cuts, ADP reports
-
-[2025-12-03 22:27:15](https://bsky.app/profile/cnbc.com/post/3m73kpv6wa423)
+[2025-12-03 22:48:15](https://bsky.app/profile/financialtimes.com/post/3m73lvh4sfw27)
 
 ---
 
-@nytimes.com
+@axios.com
 
-Macy’s, the largest department store chain in the U.S., on Wednesday raised its sales forecast for the year after reporting a better-than-expected performance across its brands.
+Private wealth has become an operational arm of the Trump presidency, bankrolling pet projects and policies on a scale unmatched by any previous administration.
 
-[2025-12-03 22:25:05](https://bsky.app/profile/nytimes.com/post/3m73klzknnp2w)
+[2025-12-03 22:47:37](https://bsky.app/profile/axios.com/post/3m73lucjfkc2x)
 
 ---
 
 @reuters.com
 
-Oil majors unite to oppose Subsea7-Saipem merger in Brazil antitrust case reut.rs/48vjgNZ
+ECB urges Italy to reconsider proposal on central bank's $300 billion gold reut.rs/3McSEdo
 
-[2025-12-03 22:25:04](https://bsky.app/profile/reuters.com/post/3m73klybjqn2y)
-
----
-
-@cnbc.com
-
-Stocks making the biggest moves premarket: American Eagle Outfitters, Okta, Microchip Technology and more
-
-[2025-12-03 22:24:59](https://bsky.app/profile/cnbc.com/post/3m73klty4qw2f)
+[2025-12-03 22:45:07](https://bsky.app/profile/reuters.com/post/3m73lptq5to2y)
 
 ---
 
-@sokuho.news
+@apnews.com
 
-🛎️JNNより【独自】です。
+The end of 2025 is almost upon us. And it’s time to unpack Spotify Wrapped.
 
-【独自】日産 追浜工場の閉鎖に伴う九州への転籍者に月給の差額5年分を一括支給へ 月給の1割減を転籍加算金として補填 離職防ぐ狙い
-(2025-12-03 22:17:25) #ニュース
-
-[2025-12-03 22:22:09](https://bsky.app/profile/sokuho.news/post/3m73kgrlgf32h)
+[2025-12-03 22:45:02](https://bsky.app/profile/apnews.com/post/3m73lpons5p2h)
 
 ---
 
-@sokuho.news
+@reuters.com
 
-🔔防災科研より【強震モニタ】動画です。
+From Breakingviews - Breakingviews - UK budget circus reveals technocracy’s limits reut.rs/3Y6jhTO
 
-震源:石川県能登地方, 深さ:10km
-マグニチュード:3.2, 最大震度:1
-📍https://www.google.com/maps?q=37.5,137.2&ll=37.5,137.2&z=7&t=h
-地震発生日時:2025-12-03 22:19頃
-(10倍速▶120s→12s) #地震
-
-[2025-12-03 22:22:00](https://bsky.app/profile/sokuho.news/post/3m73kgjrqhb26)
-
----
-
-@sokuho.news
-
-🔔気象庁より【地震速報】です。
-
-22時19分頃、石川県で最大震度1の地震を観測しました。
-震源:石川県能登地方, 深さ:10km, 規模:M3.2
-この地震による津波の心配はありません。
-(2025-12-03 22:21:33) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/03/2025-12-03-22-19-12.html?xlarge_image=1
-
-[2025-12-03 22:21:34](https://bsky.app/profile/sokuho.news/post/3m73kfqlnc72d)
+[2025-12-03 22:40:16](https://bsky.app/profile/reuters.com/post/3m73lh6aftx2e)
 
 ---
 
 @nbcnews.com
 
-House Speaker Mike Johnson hosted the annual Christmas Tree lighting ceremony at the Capitol in Washington D.C. This year’s tree is from the Humboldt-Toiyabe National Forest in Nevada. 
+Los Angeles legend Chris Paul has been cut from the Clippers and sent home in a shock move confirmed by the franchise, less than two months into what was meant to be the player's last season.
 
-[2025-12-03 22:20:28](https://bsky.app/profile/nbcnews.com/post/3m73kdrpxqu2h)
+[2025-12-03 22:40:05](https://bsky.app/profile/nbcnews.com/post/3m73lgtvj7z2h)
 
 ---
 
-@sokuho.news
+@en.afp.com
 
-🔔防災科研より【強震モニタ】動画です。
+🏏 Josh Inglis is expected to come into Australia's batting line-up for the second Ashes Test on Thursday as speculation grows that captain Pat Cummins might make a shock comeback in Brisbane. 
+#AFPSports 
+➡️ u.afp.com/Sh9K
 
-震源:宮城県沖, 深さ:60km
-マグニチュード:3.3, 最大震度:1
-📍https://www.google.com/maps?q=38.4,141.7&ll=38.4,141.7&z=7&t=h
-地震発生日時:2025-12-03 22:17頃
-(10倍速▶120s→12s) #地震
+[2025-12-03 22:40:02](https://bsky.app/profile/en.afp.com/post/3m73lgqjxpe2k)
 
-[2025-12-03 22:20:16](https://bsky.app/profile/sokuho.news/post/3m73kdfghhw2d)
+---
+
+@npr.org
+
+As RFK Jr.'s new vaccine panel ponders changing the hepatitis B vaccination schedule, some doctors recall past patients, including children, who died painful deaths before there was a vaccine. n.pr/3McwKqG
+
+[2025-12-03 22:36:10](https://bsky.app/profile/npr.org/post/3m73l7u4w7n2h)
+
+---
+
+@reuters.com
+
+European shares gain on tech, industrials boost as investor appetite improves reut.rs/3Y6iulO
+
+[2025-12-03 22:35:05](https://bsky.app/profile/reuters.com/post/3m73l5vkhq52w)
+
+---
+
+@financialtimes.com
+
+Breaking news: The European Commission has proposed a loan that would leverage up to €210bn of Russian assets immobilised by EU sanctions to fund Kyiv, which would not have to repay the loan until Russia pays reparations on.ft.com/4iFKUNi
+
+[2025-12-03 22:34:47](https://bsky.app/profile/financialtimes.com/post/3m73l5el2fi25)
 
 ---
 
