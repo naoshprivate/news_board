@@ -1,9 +1,9 @@
-# [2025-12-03 19:10 updated](2025_12_03.md)
+# [2025-12-03 19:30 updated](2025_12_03.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Israel will complete the handover of the Arrow 3 anti-ballistic missile defense system to Germany today  It's the first time another country will have independent access to the high-end military asset <a href="https://bsky.app/profile/bloomberg.com/post/3m737l2uiyh27" target="_blank">bloomberg.com</a> (2025-12-03 19:07:42)</span><span style="padding-right:50px;">Lithuanian authorities accused Belarus of deliberate disruption after weather balloons directed at Vilnius Airport's runways forced an 11-hour shutdown on Saturday. n.pr/4pDAujo <a href="https://bsky.app/profile/npr.org/post/3m737ixihs52x" target="_blank">npr.org</a> (2025-12-03 19:06:31)</span><span style="padding-right:50px;">Alimkhanuly pulled from Lara fight after positive drug test reut.rs/4pKSdFA <a href="https://bsky.app/profile/reuters.com/post/3m737gg7ksw27" target="_blank">reuters.com</a> (2025-12-03 19:05:06)</span><span style="padding-right:50px;">LIVE: South Koreans protest on one-year anniversary of martial law youtube.com/live/ViNoy8M... <a href="https://bsky.app/profile/reuters.com/post/3m737d4nwqs23" target="_blank">reuters.com</a> (2025-12-03 19:03:15)</span><span style="padding-right:50px;">国民 「中選挙区連記制」導入と人口減少率に応じた削減を提案 https://news.web.nhk/newsweb/na/na-k10014993061000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m737crw3sr2t" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 19:03:02)</span>
+<span style="padding-right:50px;">Talk of a Reform-Conservative pact no longer far-fetched on.ft.com/4pg9qad <a href="https://bsky.app/profile/financialtimes.com/post/3m73andp6uc2j" target="_blank">financialtimes.com</a> (2025-12-03 19:26:52)</span><span style="padding-right:50px;">Australia is one of only a few countries to use shark nets, which critics say harm marine life and aren’t the best way to keep swimmers safe. But recent shark attacks have complicated a plan to remove some of them. <a href="https://bsky.app/profile/nytimes.com/post/3m73ak5gqyx2d" target="_blank">nytimes.com</a> (2025-12-03 19:25:05)</span><span style="padding-right:50px;">France's services sector returns to growth in November, PMI shows reut.rs/4q5jZgn <a href="https://bsky.app/profile/reuters.com/post/3m73ak3nyls27" target="_blank">reuters.com</a> (2025-12-03 19:25:03)</span><span style="padding-right:50px;">ノーベル化学賞授賞式へ 北川進さんがスウェーデンに向け出発 https://news.web.nhk/newsweb/na/na-k10014993151000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m73aidg5tn2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 19:24:02)</span><span style="padding-right:50px;">カップヌードルやチキンラーメン値上げ　日清食品、2026年4月から（無料記事） www.nikkei.com/article/DGXZQO...  カップヌードルのレギュラーは税別236円から248円に、チキンラーメンの5食パックは税別680円から730円になります。  日清カレーメシは価格据え置きで内容量が7〜17％減ります。 <a href="https://bsky.app/profile/nikkei.com/post/3m73acko4mg2g" target="_blank">nikkei.com</a> (2025-12-03 19:20:50)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.30 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.57 (🔻0.25 : 2025-12-03)</span>
+<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.30 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.52 (🔻0.30 : 2025-12-03)</span>
   </div>
 </div>
 
@@ -32,104 +32,102 @@
 
 ## News Headlines
 
-1. イスラエル、ドイツへ「アロー3」引き渡し完了　初の海外供与
-2. リトアニア、ベラルーシの妨害工作を非難　空港閉鎖の原因に
-3. 詐欺メール抑止へ官民連携　携帯4社が情報提供
-4. 香港高層住宅火災、死者159人に　真相解明が焦点
-5. 東芝子会社元部長、背任容疑で逮捕　PC不正発注か
-6. ストーカー規制法改正可決　紛失防止タグ悪用を規制
+1. カップヌードル・チキンラーメン値上げ、日清食品が2026年4月から
+2. 日本海側中心に大雪警戒、4日にかけ必要な備えを
+3. 渋谷の年末年始カウントダウン、今年も中止
+4. ノーベル化学賞授賞式へ、北川進さんがスウェーデンへ出発
+5. 香港高層住宅火災、死者159人　真相解明が焦点
+6. 携帯4社、詐欺メール抑止へ「通信の秘密」含む情報提供
 
 ----
 
-@bloomberg.com
+@financialtimes.com
 
-Israel will complete the handover of the Arrow 3 anti-ballistic missile defense system to Germany today
+Talk of a Reform-Conservative pact no longer far-fetched on.ft.com/4pg9qad
 
-It's the first time another country will have independent access to the high-end military asset
-
-[2025-12-03 19:07:42](https://bsky.app/profile/bloomberg.com/post/3m737l2uiyh27)
+[2025-12-03 19:26:52](https://bsky.app/profile/financialtimes.com/post/3m73andp6uc2j)
 
 ---
 
-@npr.org
+@nytimes.com
 
-Lithuanian authorities accused Belarus of deliberate disruption after weather balloons directed at Vilnius Airport's runways forced an 11-hour shutdown on Saturday. n.pr/4pDAujo
+Australia is one of only a few countries to use shark nets, which critics say harm marine life and aren’t the best way to keep swimmers safe. But recent shark attacks have complicated a plan to remove some of them.
 
-[2025-12-03 19:06:31](https://bsky.app/profile/npr.org/post/3m737ixihs52x)
-
----
-
-@reuters.com
-
-Alimkhanuly pulled from Lara fight after positive drug test reut.rs/4pKSdFA
-
-[2025-12-03 19:05:06](https://bsky.app/profile/reuters.com/post/3m737gg7ksw27)
+[2025-12-03 19:25:05](https://bsky.app/profile/nytimes.com/post/3m73ak5gqyx2d)
 
 ---
 
 @reuters.com
 
-LIVE: South Koreans protest on one-year anniversary of martial law youtube.com/live/ViNoy8M...
+France's services sector returns to growth in November, PMI shows reut.rs/4q5jZgn
 
-[2025-12-03 19:03:15](https://bsky.app/profile/reuters.com/post/3m737d4nwqs23)
+[2025-12-03 19:25:03](https://bsky.app/profile/reuters.com/post/3m73ak3nyls27)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-国民 「中選挙区連記制」導入と人口減少率に応じた削減を提案
-https://news.web.nhk/newsweb/na/na-k10014993061000
+ノーベル化学賞授賞式へ 北川進さんがスウェーデンに向け出発
+https://news.web.nhk/newsweb/na/na-k10014993151000
 
-[2025-12-03 19:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m737crw3sr2t)
+[2025-12-03 19:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m73aidg5tn2b)
 
 ---
 
 @nikkei.com
 
-詐欺メール、官民で抑止　携帯4社が「通信の秘密」含む情報提供
+カップヌードルやチキンラーメン値上げ　日清食品、2026年4月から（無料記事）
 www.nikkei.com/article/DGXZQO...
 
-総務省はメール本文など「通信の秘密」を含む情報を外部のセキュリティー企業に提供するよう携帯大手4社に促します。
+カップヌードルのレギュラーは税別236円から248円に、チキンラーメンの5食パックは税別680円から730円になります。
 
-利用者の同意などを前提にNTTドコモ、KDDI、ソフトバンク、楽天モバイルが自社で提供するキャリアメールについて対応します。
+日清カレーメシは価格据え置きで内容量が7〜17％減ります。
 
-不審メールを検知する精度を高め、証券口座の乗っ取りといった被害を防ぎます。
-
-#ニュース
-
-[2025-12-03 19:00:41](https://bsky.app/profile/nikkei.com/post/3m7376jicwx2t)
-
----
-
-@reuters.com
-
-India's January-October iron ore imports at six-year high, JSW Steel top buyer reut.rs/3KDkYoH
-
-[2025-12-03 19:00:34](https://bsky.app/profile/reuters.com/post/3m7376dcwbt2o)
-
----
-
-@aljazeera.com
-
-NGO documents accounts of atrocities during paramilitary force's April assault on the North Darfur facility.
-
-[2025-12-03 19:00:15](https://bsky.app/profile/aljazeera.com/post/3m7375r6o2z2d)
+[2025-12-03 19:20:50](https://bsky.app/profile/nikkei.com/post/3m73acko4mg2g)
 
 ---
 
 @nbcnews.com
 
-Rapper Curtis "50 Cent" Jackson's four-part documentary on Sean "Diddy" Combs chronicles his rise to become one of the most influential and powerful men in hip-hop, and his downfall to convicted offender.
+Republican Matt Van Epps wins a hotly contested special election for a deep-red congressional seat in Tennessee, NBC News projects, seeing off a Democratic challenge for the longtime GOP district.
 
-[2025-12-03 19:00:13](https://bsky.app/profile/nbcnews.com/post/3m7375p7cwl2w)
+[2025-12-03 19:20:13](https://bsky.app/profile/nbcnews.com/post/3m73abh6t2o2h)
 
 ---
 
-@washingtonpost.com
+@npr.org
 
-Costco filed a lawsuit at the U.S. Court of International Trade saying the Trump administration’s tariffs imposed under the International Emergency Economic Powers Act are unlawful. https://wapo.st/4oz2Bz3
+The Trump administration has fired, or tried to fire, many of the federal staff who manage and enforce federal disability law in schools. n.pr/48udkF5
 
-[2025-12-03 19:00:10](https://bsky.app/profile/washingtonpost.com/post/3m7375llbou2r)
+[2025-12-03 19:16:43](https://bsky.app/profile/npr.org/post/3m73a36xdji2f)
+
+---
+
+@nikkei.com
+
+渋谷の年末年始カウントダウン、今年も中止　雑踏警戒で6年連続（無料記事）
+www.nikkei.com/article/DGXZQO...
+
+#ニュース
+
+[2025-12-03 19:16:27](https://bsky.app/profile/nikkei.com/post/3m73a2q5kew2j)
+
+---
+
+@reuters.com
+
+German service sector growth slows in November, PMI shows reut.rs/48Mnbax
+
+[2025-12-03 19:15:07](https://bsky.app/profile/reuters.com/post/3m737ydm4tt2k)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+日本海側中心 4日にかけ大雪に警戒 必要な備えは【詳しく】
+https://news.web.nhk/newsweb/na/na-k10014992301000
+
+[2025-12-03 19:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m737yal6sr24)
 
 ---
 
