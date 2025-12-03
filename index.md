@@ -1,9 +1,9 @@
-# [2025-12-04 06:10 updated](2025_12_04.md)
+# [2025-12-04 06:30 updated](2025_12_04.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">BREAKING: A doctor who gave ketamine to Matthew Perry before he died is sentenced to 30 months in prison. <a href="https://bsky.app/profile/cbsnews.com/post/3m74ehzun3u2b" target="_blank">cbsnews.com</a> (2025-12-04 06:08:08)</span><span style="padding-right:50px;">🎤 Reuters Econ World LIVE from the Reuters NEXT conference in New York City. Listen here reut.rs/48kHMms <a href="https://bsky.app/profile/reuters.com/post/3m74egcdaps26" target="_blank">reuters.com</a> (2025-12-04 06:07:10)</span><span style="padding-right:50px;">New photos show President Donald Trump appearing to doze off at a Cabinet meeting this week. <a href="https://bsky.app/profile/usatoday.com/post/3m74eg3ehgb2p" target="_blank">usatoday.com</a> (2025-12-04 06:07:03)</span><span style="padding-right:50px;">NATO外相会合 ウクライナへの軍事支援強化の方針 改めて強調 https://news.web.nhk/newsweb/na/na-k10014993441000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74eedlbvc2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-04 06:06:03)</span><span style="padding-right:50px;">Traffic in Miami is a nightmare, but one real-estate tycoon has a plan: flying taxis that take commuters around South Florida for $200.  🔗: on.wsj.com/4appsd6 <a href="https://bsky.app/profile/wsj.com/post/3m74edqlatd2w" target="_blank">wsj.com</a> (2025-12-04 06:05:44)</span>
+<span style="padding-right:50px;">Tinned fish is having a moment, but we say seafood in a can never went out of style. There are almost as many options to choose from as there are fish in the sea, so we tasted over 100 tins to find the really special ones worthy of gifting or serving at a party (even if it’s just a party of one). <a href="https://bsky.app/profile/nytimes.com/post/3m74fnhtgf62l" target="_blank">nytimes.com</a> (2025-12-04 06:29:05)</span><span style="padding-right:50px;">Exclusive: Karen Winnick, the widow of telecommunications titan Gary Winnick, is fighting to keep control of the legendary Casa Encantada property. The residence is slated to be sold at a foreclosure auction in two weeks. <a href="https://bsky.app/profile/wsj.com/post/3m74fllewmg2p" target="_blank">wsj.com</a> (2025-12-04 06:28:01)</span><span style="padding-right:50px;">Design executive behind 'Liquid Glass' is leaving Apple <a href="https://bsky.app/profile/cnbc.com/post/3m74fk2aq5r2y" target="_blank">cnbc.com</a> (2025-12-04 06:27:10)</span><span style="padding-right:50px;">Bessent sees more private contributions flowing into 'Trump accounts' for children reut.rs/4phNrjb <a href="https://bsky.app/profile/reuters.com/post/3m74fgbsvc522" target="_blank">reuters.com</a> (2025-12-04 06:25:03)</span><span style="padding-right:50px;">Nvidia CEO Jensen Huang talks chip restrictions with Trump, blasts state-by-state AI regulations <a href="https://bsky.app/profile/cnbc.com/post/3m74fg4pu4i2y" target="_blank">cnbc.com</a> (2025-12-04 06:24:58)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47882.90 (🔺511.28 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23454.09 (🔺138.51 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 179.59 (🔻1.48 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.29 (🔻0.53 : 2025-12-03)</span>
+<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47882.90 (🔺511.28 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23454.09 (🔺138.51 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 179.59 (🔻1.48 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.28 (🔻0.54 : 2025-12-03)</span>
   </div>
 </div>
 
@@ -32,95 +32,97 @@
 
 ## News Headlines
 
-1. マシュー・ペリー氏へのケタミン投与医師、禁錮30ヶ月
-2. トランプ大統領、閣議中に居眠りか
-3. NATO、ウクライナへの軍事支援強化を改めて強調
-4. イスラエル、ガザ南部へ報復空爆
-5. 自民・維新、衆院定数削減法案を提出へ
-6. 香港高層住宅火災、31人と連絡取れず
+1.  缶詰魚ブーム再燃、高級品も登場
+2.  通信大手創業者の妻、伝説の邸宅差し押さえ危機
+3.  アップルの「リキッドガラス」担当幹部が退社
+4.  東京都心で今季初の5度を下回る
+5.  アメリカの民間雇用者、11月に3.2万人の雇用減少
+6.  マシュー・ペリーにケタミン供給した医師に禁錮30ヶ月
 
 ----
 
-@cbsnews.com
+@nytimes.com
 
-<strong><span style="color: red;">BREAKING:</span> A doctor who gave ketamine to Matthew Perry before he died is sentenced to 30 months in prison.</strong>
+Tinned fish is having a moment, but we say seafood in a can never went out of style. There are almost as many options to choose from as there are fish in the sea, so we tasted over 100 tins to find the really special ones worthy of gifting or serving at a party (even if it’s just a party of one).
 
-[2025-12-04 06:08:08](https://bsky.app/profile/cbsnews.com/post/3m74ehzun3u2b)
-
----
-
-@reuters.com
-
-🎤 Reuters Econ World LIVE from the Reuters NEXT conference in New York City. Listen here reut.rs/48kHMms
-
-[2025-12-04 06:07:10](https://bsky.app/profile/reuters.com/post/3m74egcdaps26)
-
----
-
-@usatoday.com
-
-New photos show President Donald Trump appearing to doze off at a Cabinet meeting this week.
-
-[2025-12-04 06:07:03](https://bsky.app/profile/usatoday.com/post/3m74eg3ehgb2p)
-
----
-
-@nhknewsunofficial.bsky.social
-
-NATO外相会合 ウクライナへの軍事支援強化の方針 改めて強調
-https://news.web.nhk/newsweb/na/na-k10014993441000
-
-[2025-12-04 06:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74eedlbvc2k)
+[2025-12-04 06:29:05](https://bsky.app/profile/nytimes.com/post/3m74fnhtgf62l)
 
 ---
 
 @wsj.com
 
-Traffic in Miami is a nightmare, but one real-estate tycoon has a plan: flying taxis that take commuters around South Florida for $200.
+Exclusive: Karen Winnick, the widow of telecommunications titan Gary Winnick, is fighting to keep control of the legendary Casa Encantada property. The residence is slated to be sold at a foreclosure auction in two weeks.
 
-🔗: on.wsj.com/4appsd6
-
-[2025-12-04 06:05:44](https://bsky.app/profile/wsj.com/post/3m74edqlatd2w)
-
----
-
-@apnews.com
-
-<strong><span style="color: red;">BREAKING:</span> Israel said it launched an airstrike in southern Gaza late Wednesday in retaliation for an attack by militants earlier in the day that wounded five Israeli soldiers.</strong>
-
-[2025-12-04 06:05:35](https://bsky.app/profile/apnews.com/post/3m74edhlc4a2y)
-
----
-
-@reuters.com
-
-US sanctions Venezuelan actress citing alleged Tren de Aragua ties reut.rs/48OPjtH
-
-[2025-12-04 06:05:05](https://bsky.app/profile/reuters.com/post/3m74eckzjw22y)
+[2025-12-04 06:28:01](https://bsky.app/profile/wsj.com/post/3m74fllewmg2p)
 
 ---
 
 @cnbc.com
 
-Hightower’s Stephanie Link says market is failing to appreciate Microsoft's AI value
+Design executive behind 'Liquid Glass' is leaving Apple
 
-[2025-12-04 06:05:00](https://bsky.app/profile/cnbc.com/post/3m74ecfti5h2f)
-
----
-
-@financialtimes.com
-
-UK Treasury launches inquiry into pre-Budget leaks on.ft.com/3XyUkAf
-
-[2025-12-04 06:04:50](https://bsky.app/profile/financialtimes.com/post/3m74ec4ni4p2l)
+[2025-12-04 06:27:10](https://bsky.app/profile/cnbc.com/post/3m74fk2aq5r2y)
 
 ---
 
-@nytimes.com
+@reuters.com
 
-Every month, The New York Times publishes a bonus crossword puzzle for subscribers. The theme of this month’s puzzle is folk tales and fairy tales. nyti.ms/48yWAMU
+Bessent sees more private contributions flowing into 'Trump accounts' for children reut.rs/4phNrjb
 
-[2025-12-04 06:03:04](https://bsky.app/profile/nytimes.com/post/3m74e6xm3n52g)
+[2025-12-04 06:25:03](https://bsky.app/profile/reuters.com/post/3m74fgbsvc522)
+
+---
+
+@cnbc.com
+
+Nvidia CEO Jensen Huang talks chip restrictions with Trump, blasts state-by-state AI regulations
+
+[2025-12-04 06:24:58](https://bsky.app/profile/cnbc.com/post/3m74fg4pu4i2y)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】東京都心で今季初めて気温が5度を下回り4.9度に
+(2025-12-04 06:21) #ニュース
+
+[2025-12-04 06:21:29](https://bsky.app/profile/sokuho.news/post/3m74f7uuyzk2m)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+イスラエル 政府高官をレバノンに派遣 緊張緩和につながるか
+https://news.web.nhk/newsweb/na/na-k10014993451000
+
+[2025-12-04 06:21:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74f7cjrxc2k)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+偽造書類で「信用情報」開示を請求した詐欺未遂の疑い 2人逮捕
+https://news.web.nhk/newsweb/na/na-k10014993421000
+
+[2025-12-04 06:21:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74f756os723)
+
+---
+
+@nbcnews.com
+
+Private employers in the U.S. shed 32,000 jobs in November, payroll processor ADP says.
+
+[2025-12-04 06:20:05](https://bsky.app/profile/nbcnews.com/post/3m74f5folho22)
+
+---
+
+@cnbc.com
+
+Dan Niles says his best idea right now is cash. Here's what else he likes
+
+[2025-12-04 06:17:09](https://bsky.app/profile/cnbc.com/post/3m74ey5nenj23)
 
 ---
 
