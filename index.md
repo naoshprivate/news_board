@@ -1,9 +1,9 @@
-# [2025-12-03 17:50 updated](2025_12_03.md)
+# [2025-12-03 18:10 updated](2025_12_03.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Taiwan says China sometimes stages mock attacks on foreign navy ships in strait reut.rs/48fn1sb <a href="https://bsky.app/profile/reuters.com/post/3m732xgfb4c2i" target="_blank">reuters.com</a> (2025-12-03 17:45:08)</span><span style="padding-right:50px;">Once an expanse of empty lots, forest and farmland in Virginia, Ashburn is now known as Data Center Alley and hosts an estimated 70% of all global internet traffic.  AFP visits Ashburn as, in a major shift, local politicians begin running campaigns to slow expansion  u.afp.com/ShVc <a href="https://bsky.app/profile/en.afp.com/post/3m732voaeqv2m" target="_blank">en.afp.com</a> (2025-12-03 17:44:09)</span><span style="padding-right:50px;">ASX outage deepens investors' doubts over tech overhaul reut.rs/3Kv0RZJ <a href="https://bsky.app/profile/reuters.com/post/3m732ofkfva2i" target="_blank">reuters.com</a> (2025-12-03 17:40:05)</span><span style="padding-right:50px;">【解説動画】日本海側中心に4日にかけ大雪見込み (3日17時) https://news.web.nhk/newsweb/na/na-k10014992881000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m732mq2vaz2e" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 17:39:07)</span><span style="padding-right:50px;">暴力団員2人逮捕 特殊詐欺 受け子などのグループのトップか https://news.web.nhk/newsweb/na/na-k10014993021000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m732mlrl5r2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 17:39:02)</span>
+<span style="padding-right:50px;">イクラ卸売価格 去年の2倍近くに高騰　どうなる「おせち」？ https://news.web.nhk/newsweb/na/na-k10014992811000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m734c7vte62r" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 18:09:02)</span><span style="padding-right:50px;">政府、旧姓使用の拡大法案　2026年通常国会提出を検討（無料記事） www.nikkei.com/article/DGXZQO...  戸籍制度の夫婦同姓の原則を維持しつつ、旧姓の通称使用の法的根拠を明確にします。  与党自民党内では通称使用の拡大でなく「選択的夫婦別姓」を推進する声もありますが、意見がまとまりませんでした。高市早苗首相はかねて夫婦別姓には慎重な立場です。  法案では、希望する人が旧姓を通称として使えるように省庁や地方自治体、企業に対応を求めます。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m7347cbpbk2w" target="_blank">nikkei.com</a> (2025-12-03 18:07:25)</span><span style="padding-right:50px;">再審制度見直し “法制審議会の議論は改悪” 元裁判官が声明 https://news.web.nhk/newsweb/na/na-k10014992991000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7344uzpy32p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 18:06:02)</span><span style="padding-right:50px;">India ready to change state-run security app order after outcry reut.rs/49URugw <a href="https://bsky.app/profile/reuters.com/post/3m73432utji2w" target="_blank">reuters.com</a> (2025-12-03 18:05:04)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】15歳の女子中学生を誘拐するなどした疑い 20歳の男を逮捕 被害者は男の自宅から逃げ出す (2025-12-03 17:20) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m733whoocq26" target="_blank">sokuho.news</a> (2025-12-03 18:02:29)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.30 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.73 (🔻0.09 : 2025-12-03)</span>
+<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.30 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.63 (🔻0.19 : 2025-12-03)</span>
   </div>
 </div>
 
@@ -32,91 +32,55 @@
 
 ## News Headlines
 
-1. 台湾、中国が台湾海峡で外国軍艦への模擬攻撃を実施と発表
-2. バージニア州アッシュバーン、データセンター集積地で拡張にブレーキ
-3. ASX取引停止、技術刷新への投資家の疑念を深める
-4. 日本海側中心に大雪の恐れ、暴風雪や警報級大雪に警戒
-5. ミャンマー、アフガニスタンに代わり世界最大の違法アヘン供給国に
-6. マレーシア航空MH370便、10年超ぶりに捜索再開へ
+1. イクラ卸売価格が去年の2倍近くに高騰
+2. 旧姓使用拡大法案、2026年通常国会提出を検討
+3. 再審制度見直し、元裁判官が「改悪」と声明
+4. 15歳女子中学生誘拐事件、20歳男を逮捕
+5. 中部電力 浜岡原発不適切契約、「非常に重大」と規制委員長
+6. 日本海側中心に大雪の恐れ、暴風雪警報級も
 
 ----
 
-@reuters.com
+@nhknewsunofficial.bsky.social
 
-Taiwan says China sometimes stages mock attacks on foreign navy ships in strait reut.rs/48fn1sb
+イクラ卸売価格 去年の2倍近くに高騰　どうなる「おせち」？
+https://news.web.nhk/newsweb/na/na-k10014992811000
 
-[2025-12-03 17:45:08](https://bsky.app/profile/reuters.com/post/3m732xgfb4c2i)
-
----
-
-@en.afp.com
-
-Once an expanse of empty lots, forest and farmland in Virginia, Ashburn is now known as Data Center Alley and hosts an estimated 70% of all global internet traffic.
-
-AFP visits Ashburn as, in a major shift, local politicians begin running campaigns to slow expansion
-
-u.afp.com/ShVc
-
-[2025-12-03 17:44:09](https://bsky.app/profile/en.afp.com/post/3m732voaeqv2m)
+[2025-12-03 18:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m734c7vte62r)
 
 ---
 
-@reuters.com
+@nikkei.com
 
-ASX outage deepens investors' doubts over tech overhaul reut.rs/3Kv0RZJ
+政府、旧姓使用の拡大法案　2026年通常国会提出を検討（無料記事）
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-03 17:40:05](https://bsky.app/profile/reuters.com/post/3m732ofkfva2i)
+戸籍制度の夫婦同姓の原則を維持しつつ、旧姓の通称使用の法的根拠を明確にします。
+
+与党自民党内では通称使用の拡大でなく「選択的夫婦別姓」を推進する声もありますが、意見がまとまりませんでした。高市早苗首相はかねて夫婦別姓には慎重な立場です。
+
+法案では、希望する人が旧姓を通称として使えるように省庁や地方自治体、企業に対応を求めます。
+
+#ニュース
+
+[2025-12-03 18:07:25](https://bsky.app/profile/nikkei.com/post/3m7347cbpbk2w)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-【解説動画】日本海側中心に4日にかけ大雪見込み (3日17時)
-https://news.web.nhk/newsweb/na/na-k10014992881000
+再審制度見直し “法制審議会の議論は改悪” 元裁判官が声明
+https://news.web.nhk/newsweb/na/na-k10014992991000
 
-[2025-12-03 17:39:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m732mq2vaz2e)
-
----
-
-@nhknewsunofficial.bsky.social
-
-暴力団員2人逮捕 特殊詐欺 受け子などのグループのトップか
-https://news.web.nhk/newsweb/na/na-k10014993021000
-
-[2025-12-03 17:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m732mlrl5r2p)
-
----
-
-@nhknewsunofficial.bsky.social
-
-安倍元首相銃撃事件の裁判 安倍昭恵さんが初めて出席
-https://news.web.nhk/newsweb/na/na-k10014992521000
-
-[2025-12-03 17:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m732h7amsj2e)
+[2025-12-03 18:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7344uzpy32p)
 
 ---
 
 @reuters.com
 
-Major Chinese banks cut high-yield deposit products to ease margin pressure reut.rs/4oxygRw
+India ready to change state-run security app order after outcry reut.rs/49URugw
 
-[2025-12-03 17:35:03](https://bsky.app/profile/reuters.com/post/3m732ffewap2n)
-
----
-
-@cnbc.com
-
-iPhone 17 will drive record Apple shipments in 2025, IDC says
-
-[2025-12-03 17:34:09](https://bsky.app/profile/cnbc.com/post/3m732ds3paw2y)
-
----
-
-@cnbc.com
-
-India is set to host Russia's Putin, deepening trade ties, unfazed by punitive U.S. tariffs
-
-[2025-12-03 17:33:05](https://bsky.app/profile/cnbc.com/post/3m732bvdnud2o)
+[2025-12-03 18:05:04](https://bsky.app/profile/reuters.com/post/3m73432utji2w)
 
 ---
 
@@ -124,10 +88,58 @@ India is set to host Russia's Putin, deepening trade ties, unfazed by punitive U
 
 🛎️FNNより【速報】です。
 
-【速報】未成年誘拐と不同意性交の疑いで20歳の男を逮捕 被害者は女子中学生 大分
+【速報】15歳の女子中学生を誘拐するなどした疑い 20歳の男を逮捕 被害者は男の自宅から逃げ出す
 (2025-12-03 17:20) #ニュース
 
-[2025-12-03 17:32:18](https://bsky.app/profile/sokuho.news/post/3m732ainyp72l)
+[2025-12-03 18:02:29](https://bsky.app/profile/sokuho.news/post/3m733whoocq26)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Italian fashion giant Prada buys Versace – at a discount
+
+[2025-12-03 18:02:27](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m733wgfsit24)
+
+---
+
+@nikkei.com
+
+山口百恵からモーニング娘。まで　テレビが発明した「金の卵の育て方」
+www.nikkei.com/article/DGXZQO...
+
+アイドルを発掘する日本のオーディション番組は1970年代に始まりました。
+
+得体のしれなかった芸能界をガラス張りにする手法は現代まで続いています。
+
+[2025-12-03 18:00:28](https://bsky.app/profile/nikkei.com/post/3m733stnzhh26)
+
+---
+
+@reuters.com
+
+Morning Bid: Risk-on, risk-off, risk-on reut.rs/44IH7Zu
+
+[2025-12-03 18:00:25](https://bsky.app/profile/reuters.com/post/3m733srmld22k)
+
+---
+
+@sokuho.news
+
+🛎️文春より【スクープ】です。
+
+【独占直撃】元TOKIO・松岡昌宏に聞いた「国分太一の会見をどう見た？」→「とりあえずは本人の口から発したことが…」 会見前にはメッセージ「自分の気持ちをしっかり伝えて」
+(2025-12-03 18:00) #ニュース
+
+[2025-12-03 18:00:14](https://bsky.app/profile/sokuho.news/post/3m733sgdixs2d)
+
+---
+
+@aljazeera.com
+
+Al Jazeera documented Palestinian families attempting to access their fields amid settler attacks.
+
+[2025-12-03 18:00:14](https://bsky.app/profile/aljazeera.com/post/3m733sgzrtu2a)
 
 ---
 
