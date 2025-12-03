@@ -1,9 +1,9 @@
-# [2025-12-03 15:30 updated](2025_12_03.md)
+# [2025-12-03 15:50 updated](2025_12_03.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">CFP rankings: Alabama, Notre Dame hold final at-large spots reut.rs/4rzsDoL <a href="https://bsky.app/profile/reuters.com/post/3m72t54k6bf27" target="_blank">reuters.com</a> (2025-12-03 15:25:09)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:十勝沖, 深さ:40km マグニチュード:4.0, 最大震度:1 📍https://www.google.com/maps?q=42.4,144.0&ll=42.4,144.0&z=7&t=h 地震発生日時:2025-12-03 15:20頃 (10倍速▶180s→18s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m72t3yc2kf2w" target="_blank">sokuho.news</a> (2025-12-03 15:24:30)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  15時20分頃、北海道で最大震度1の地震を観測しました。 震源:十勝沖, 深さ:40km, 規模:M4.0 この地震による津波の心配はありません。 (2025-12-03 15:23:55) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/03/2025-12-03-15-20-36.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3m72t2wpgi62h" target="_blank">sokuho.news</a> (2025-12-03 15:23:55)</span><span style="padding-right:50px;">🚨地震発生中❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像3🈡 (2025-12-03 15:21:19) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m72swhsxei2p" target="_blank">sokuho.news</a> (2025-12-03 15:21:26)</span><span style="padding-right:50px;">🚨地震発生中❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像2 (2025-12-03 15:21:06) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m72sw2y5pq2e" target="_blank">sokuho.news</a> (2025-12-03 15:21:12)</span>
+<span style="padding-right:50px;">Israel's Prime Minister's Office says "findings" returned Tuesday by Palestinian militants do not match either of the dead hostages held in Gaza. <a href="https://bsky.app/profile/apnews.com/post/3m72udks4ud2f" target="_blank">apnews.com</a> (2025-12-03 15:46:39)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】仙台市で高校生に暴行加え死亡させた男2人にそれぞれ懲役9年と7年の実刑判決 (2025-12-03 15:40) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m72ucayfxw2h" target="_blank">sokuho.news</a> (2025-12-03 15:45:55)</span><span style="padding-right:50px;">Hunt for missing flight MH370 to resume this month, Malaysia says reut.rs/4iD06dV <a href="https://bsky.app/profile/reuters.com/post/3m72uax37yg27" target="_blank">reuters.com</a> (2025-12-03 15:45:11)</span><span style="padding-right:50px;">CNBC's UK Exchange newsletter: What the Treasury gives with one hand, it takes with the other <a href="https://bsky.app/profile/cnbc.com/post/3m72u7jxsvz23" target="_blank">cnbc.com</a> (2025-12-03 15:44:24)</span><span style="padding-right:50px;">CNBC's The China Connection newsletter: Three economic flashpoints for 2026 <a href="https://bsky.app/profile/cnbc.com/post/3m72u3prvou2f" target="_blank">cnbc.com</a> (2025-12-03 15:42:16)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49931.14 (🔺390.50 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.30 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.51 (🔻0.31 : 2025-12-03)</span>
+<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.30 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.61 (🔻0.21 : 2025-12-03)</span>
   </div>
 </div>
 
@@ -32,127 +32,102 @@
 
 ## News Headlines
 
-1. 北海道で震度1の地震発生、津波の心配なし
-2. 山梨・南アルプス市で建物火災、延焼中
-3. 長期金利、一時1.89%まで上昇 - 17年半ぶりの水準
-4. 日本海側中心に4日にかけ大雪見込み、警戒を
-5. 香川県でインフルエンザ流行警報 - 過去10年で最も早いペース
-6. 福井県知事が辞職届、セクハラ問題で引責
+1.  パレスチナ武装勢力、ガザ人質死亡確認で食い違い
+2.  仙台、高校生暴行死事件で男2人に実刑判決
+3.  マレーシア、MH370便の捜索を今月再開
+4.  日経平均、5万円目前に取引終了 - AI・半導体株がけん引
+5.  福井県知事、辞職届を提出
+6.  EU、2027年までにロシア産ガス輸入を段階的に廃止で合意
 
 ----
 
-@reuters.com
+@apnews.com
 
-CFP rankings: Alabama, Notre Dame hold final at-large spots reut.rs/4rzsDoL
+Israel's Prime Minister's Office says "findings" returned Tuesday by Palestinian militants do not match either of the dead hostages held in Gaza.
 
-[2025-12-03 15:25:09](https://bsky.app/profile/reuters.com/post/3m72t54k6bf27)
-
----
-
-@sokuho.news
-
-🔔防災科研より【強震モニタ】動画です。
-
-震源:十勝沖, 深さ:40km
-マグニチュード:4.0, 最大震度:1
-📍https://www.google.com/maps?q=42.4,144.0&ll=42.4,144.0&z=7&t=h
-地震発生日時:2025-12-03 15:20頃
-(10倍速▶180s→18s) #地震
-
-[2025-12-03 15:24:30](https://bsky.app/profile/sokuho.news/post/3m72t3yc2kf2w)
+[2025-12-03 15:46:39](https://bsky.app/profile/apnews.com/post/3m72udks4ud2f)
 
 ---
 
 @sokuho.news
 
-🔔気象庁より【地震速報】です。
+🛎️FNNより【速報】です。
 
-15時20分頃、北海道で最大震度1の地震を観測しました。
-震源:十勝沖, 深さ:40km, 規模:M4.0
-この地震による津波の心配はありません。
-(2025-12-03 15:23:55) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/03/2025-12-03-15-20-36.html?xlarge_image=1
+【速報】仙台市で高校生に暴行加え死亡させた男2人にそれぞれ懲役9年と7年の実刑判決
+(2025-12-03 15:40) #ニュース
 
-[2025-12-03 15:23:55](https://bsky.app/profile/sokuho.news/post/3m72t2wpgi62h)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗
-
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像3🈡
-(2025-12-03 15:21:19) #緊急地震速報
-
-[2025-12-03 15:21:26](https://bsky.app/profile/sokuho.news/post/3m72swhsxei2p)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗
-
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像2
-(2025-12-03 15:21:06) #緊急地震速報
-
-[2025-12-03 15:21:12](https://bsky.app/profile/sokuho.news/post/3m72sw2y5pq2e)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗
-
-⚠️揺れに警戒してください
-🔗http://www.kmoni.bosai.go.jp/
-
-🔶防災科研/強震モニタ/予測震度画像1
-(2025-12-03 15:20:48) #緊急地震速報
-
-[2025-12-03 15:20:54](https://bsky.app/profile/sokuho.news/post/3m72svjuws62q)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】建物火災が発生 現在も延焼中 山梨・南アルプス市
-(2025-12-03 14:56:00) #ニュース
-
-[2025-12-03 15:20:39](https://bsky.app/profile/sokuho.news/post/3m72sv2yyds2g)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】長期金利 一時1.89%まで上昇 日銀の利上げ観測引き続き強く 17年半ぶりの水準更新
-(2025-12-03 15:14:20) #ニュース
-
-[2025-12-03 15:15:29](https://bsky.app/profile/sokuho.news/post/3m72sltsqfp26)
+[2025-12-03 15:45:55](https://bsky.app/profile/sokuho.news/post/3m72ucayfxw2h)
 
 ---
 
 @reuters.com
 
-Adani Group plans $15 billion India airports expansion by 2030, Bloomberg News reports reut.rs/4rEAly6
+Hunt for missing flight MH370 to resume this month, Malaysia says reut.rs/4iD06dV
 
-[2025-12-03 15:15:14](https://bsky.app/profile/reuters.com/post/3m72slfaait2a)
+[2025-12-03 15:45:11](https://bsky.app/profile/reuters.com/post/3m72uax37yg27)
+
+---
+
+@cnbc.com
+
+CNBC's UK Exchange newsletter: What the Treasury gives with one hand, it takes with the other
+
+[2025-12-03 15:44:24](https://bsky.app/profile/cnbc.com/post/3m72u7jxsvz23)
+
+---
+
+@cnbc.com
+
+CNBC's The China Connection newsletter: Three economic flashpoints for 2026
+
+[2025-12-03 15:42:16](https://bsky.app/profile/cnbc.com/post/3m72u3prvou2f)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-日本海側中心 4日にかけ大雪見込み 必要な備えは【詳しく】
-https://news.web.nhk/newsweb/na/na-k10014992301000
+福井県 杉本知事 きょう辞職届提出 4日に県議会本会議で採決へ
+https://news.web.nhk/newsweb/na/na-k10014992851000
 
-[2025-12-03 15:12:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72sfpso6n2e)
+[2025-12-03 15:42:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72u3fc3rs26)
+
+---
+
+@financialtimes.com
+
+Record pay for RSM partners reaches levels earned at Big Four on.ft.com/3MfiSvJ
+
+[2025-12-03 15:41:35](https://bsky.app/profile/financialtimes.com/post/3m72u2j23ei26)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】日経平均 5万円届かずも4万9864円で取引終了 561円高 再びAI・半導体関連株がけん引役に
+(2025-12-03 15:38:20) #ニュース
+
+📈世界の株価
+🔗https://sekai-kabuka.com/
+
+[2025-12-03 15:40:55](https://bsky.app/profile/sokuho.news/post/3m72tzdcrs62d)
+
+---
+
+@reuters.com
+
+JD.com's JDi launches Hong Kong IPO seeking up to $420 million reut.rs/4ovauFI
+
+[2025-12-03 15:40:11](https://bsky.app/profile/reuters.com/post/3m72txyywo42i)
+
+---
+
+@reuters.com
+
+Europe reaches deal on phasing out Russian gas imports by 2027 reut.rs/4owlFOC
+
+[2025-12-03 15:35:08](https://bsky.app/profile/reuters.com/post/3m72toxwwo42i)
 
 ---
 
