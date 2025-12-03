@@ -1,9 +1,9 @@
-# [2025-12-04 07:10 updated](2025_12_04.md)
+# [2025-12-04 07:30 updated](2025_12_04.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Israel received remains of what could be one of the last hostages in Gaza and said it will begin allowing Palestinians to leave the war-torn territory through a border crossing with Egypt. <a href="https://bsky.app/profile/nbcnews.com/post/3m74huv4nhd2c" target="_blank">nbcnews.com</a> (2025-12-04 07:09:01)</span><span style="padding-right:50px;">Breaking news: A dozen former leaders of the FDA warned that plans for a stricter approach to vaccine approvals risks undermining the nation’s ability to fight infectious diseases and could threaten the health of vulnerable Americans. <a href="https://bsky.app/profile/washingtonpost.com/post/3m74hqptfyx2e" target="_blank">washingtonpost.com</a> (2025-12-04 07:06:41)</span><span style="padding-right:50px;">A doctor who pleaded guilty to selling ketamine to Matthew Perry in the weeks before the “Friends” star’s overdose death has been sentenced to 2 1/2 years in prison. https://cnn.it/48G5yIy <a href="https://bsky.app/profile/cnn.com/post/3m74hqjrrg42q" target="_blank">cnn.com</a> (2025-12-04 07:06:35)</span><span style="padding-right:50px;">UK's FTSE 100 ends lower as financials stocks drag reut.rs/4rso8MC <a href="https://bsky.app/profile/reuters.com/post/3m74hnxtqzh2n" target="_blank">reuters.com</a> (2025-12-04 07:05:09)</span><span style="padding-right:50px;">Former FDA commissioners said new vaccine standards threaten to put Americans’ health at risk and upend the agency’s scientific integrity. <a href="https://bsky.app/profile/wsj.com/post/3m74hnt7bti2p" target="_blank">wsj.com</a> (2025-12-04 07:05:04)</span>
+<span style="padding-right:50px;">Trump proposes slashing fuel efficiency goals for US vehicles on.ft.com/3XApAip <a href="https://bsky.app/profile/financialtimes.com/post/3m74iwx5mo62n" target="_blank">financialtimes.com</a> (2025-12-04 07:28:04)</span><span style="padding-right:50px;">Trump proposes slashing fuel economy rules in boost for gas vehicles reut.rs/48QZjTi <a href="https://bsky.app/profile/reuters.com/post/3m74irkimse2k" target="_blank">reuters.com</a> (2025-12-04 07:25:03)</span><span style="padding-right:50px;">The EU has scaled back a plan to use Russia’s frozen assets to make a massive loan to Ukraine, seeking to address Belgian concerns and leaving room for the U.S. to use the funds as a lure for Moscow. <a href="https://bsky.app/profile/wsj.com/post/3m74ipnpzdi2p" target="_blank">wsj.com</a> (2025-12-04 07:23:59)</span><span style="padding-right:50px;">A federal judge blocks the Trump administration from making widespread immigration arrests in the nation's capital without warrants or probable cause that the person is an imminent flight risk. <a href="https://bsky.app/profile/nbcnews.com/post/3m74iimubg22w" target="_blank">nbcnews.com</a> (2025-12-04 07:20:03)</span><span style="padding-right:50px;">「踊らない」ヒト型ロボットで逆転狙う日本勢 www.nikkei.com/article/DGXZQO...  川崎重工が発表したKaleidoは背丈191cm、重さ99kgで遠隔操作が必要です。  他方の中国勢はAIフル活用で華麗なダンスを披露して話題に。  「見せ物」に終わらない技術競争は始まったばかりといいます。 <a href="https://bsky.app/profile/nikkei.com/post/3m74ic7e6fd2k" target="_blank">nikkei.com</a> (2025-12-04 07:16:28)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47882.90 (🔺511.28 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23454.09 (🔺138.51 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 179.59 (🔻1.48 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.23 (🔻0.59 : 2025-12-03)</span>
+<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47882.90 (🔺511.28 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23454.09 (🔺138.51 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 179.59 (🔻1.48 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.18 (🔻0.64 : 2025-12-03)</span>
   </div>
 </div>
 
@@ -32,94 +32,99 @@
 
 ## News Headlines
 
-1. イスラエル、人質遺体収容か　ガザからパレスチナ人の出国許可へ
-2. 元FDA長官ら、ワクチン承認厳格化に警鐘　国民の健康を脅かす恐れ
-3. マシュー・ペリー氏にケタミン販売の医師、禁錮2年半
-4. NYダウ大幅上昇　FRBの利下げ観測で
-5. ペンタゴン調査官、ヘグセス氏の安全保障上のリスクを指摘か
-6. トランプ氏、ガソリン車推進へ　燃費基準を緩和
+1. トランプ政権、燃費基準を大幅緩和へ
+2. EU、ウクライナへの融資計画を縮小
+3. 米連邦判事、令状なしの移民逮捕を阻止
+4. 「踊らない」人型ロボットで日本勢が逆転狙う
+5. ボーイング、スピリット・エアロシステムズとの合併を年内完了目指す
+6. 元FDA長官ら、ワクチン承認厳格化に警鐘
 
 ----
+
+@financialtimes.com
+
+Trump proposes slashing fuel efficiency goals for US vehicles on.ft.com/3XApAip
+
+[2025-12-04 07:28:04](https://bsky.app/profile/financialtimes.com/post/3m74iwx5mo62n)
+
+---
+
+@reuters.com
+
+Trump proposes slashing fuel economy rules in boost for gas vehicles reut.rs/48QZjTi
+
+[2025-12-04 07:25:03](https://bsky.app/profile/reuters.com/post/3m74irkimse2k)
+
+---
+
+@wsj.com
+
+The EU has scaled back a plan to use Russia’s frozen assets to make a massive loan to Ukraine, seeking to address Belgian concerns and leaving room for the U.S. to use the funds as a lure for Moscow.
+
+[2025-12-04 07:23:59](https://bsky.app/profile/wsj.com/post/3m74ipnpzdi2p)
+
+---
+
+@nbcnews.com
+
+A federal judge blocks the Trump administration from making widespread immigration arrests in the nation's capital without warrants or probable cause that the person is an imminent flight risk.
+
+[2025-12-04 07:20:03](https://bsky.app/profile/nbcnews.com/post/3m74iimubg22w)
+
+---
+
+@nikkei.com
+
+「踊らない」ヒト型ロボットで逆転狙う日本勢
+www.nikkei.com/article/DGXZQO...
+
+川崎重工が発表したKaleidoは背丈191cm、重さ99kgで遠隔操作が必要です。
+
+他方の中国勢はAIフル活用で華麗なダンスを披露して話題に。
+
+「見せ物」に終わらない技術競争は始まったばかりといいます。
+
+[2025-12-04 07:16:28](https://bsky.app/profile/nikkei.com/post/3m74ic7e6fd2k)
+
+---
+
+@reuters.com
+
+Boeing looks to close Spirit AeroSystems merger this year as FTC orders divestitures reut.rs/4rzAYJ9
+
+[2025-12-04 07:15:10](https://bsky.app/profile/reuters.com/post/3m74i7vdq6s2o)
+
+---
+
+@cnbc.com
+
+Stocks making the biggest moves after hours: Salesforce, Five Below, C3. ai and more
+
+[2025-12-04 07:14:07](https://bsky.app/profile/cnbc.com/post/3m74i5zdqbx2h)
+
+---
+
+@nbcnews.com
+
+The Trump administration said they would "reset" fuel efficiency standards for passenger cars in an effort to put a lid rising auto prices.
+
+[2025-12-04 07:14:01](https://bsky.app/profile/nbcnews.com/post/3m74i5t72ht2j)
+
+---
+
+@reuters.com
+
+Volvo Cars sales fall 10% in November, says US market subdued reut.rs/49UgTa7
+
+[2025-12-04 07:10:22](https://bsky.app/profile/reuters.com/post/3m74hxc6oih2i)
+
+---
 
 @nbcnews.com
 
 Israel received remains of what could be one of the last hostages in Gaza and said it will begin allowing Palestinians to leave the war-torn territory through a border crossing with Egypt.
 
 [2025-12-04 07:09:01](https://bsky.app/profile/nbcnews.com/post/3m74huv4nhd2c)
-
----
-
-@washingtonpost.com
-
-Breaking news: A dozen former leaders of the FDA warned that plans for a stricter approach to vaccine approvals risks undermining the nation’s ability to fight infectious diseases and could threaten the health of vulnerable Americans.
-
-[2025-12-04 07:06:41](https://bsky.app/profile/washingtonpost.com/post/3m74hqptfyx2e)
-
----
-
-@cnn.com
-
-A doctor who pleaded guilty to selling ketamine to Matthew Perry in the weeks before the “Friends” star’s overdose death has been sentenced to 2 1/2 years in prison. https://cnn.it/48G5yIy
-
-[2025-12-04 07:06:35](https://bsky.app/profile/cnn.com/post/3m74hqjrrg42q)
-
----
-
-@reuters.com
-
-UK's FTSE 100 ends lower as financials stocks drag reut.rs/4rso8MC
-
-[2025-12-04 07:05:09](https://bsky.app/profile/reuters.com/post/3m74hnxtqzh2n)
-
----
-
-@wsj.com
-
-Former FDA commissioners said new vaccine standards threaten to put Americans’ health at risk and upend the agency’s scientific integrity.
-
-[2025-12-04 07:05:04](https://bsky.app/profile/wsj.com/post/3m74hnt7bti2p)
-
----
-
-@nhknewsunofficial.bsky.social
-
-NYダウ 400ドル余値上がり FRBが利下げに踏み切るとの観測で
-https://news.web.nhk/newsweb/na/na-k10014993501000
-
-[2025-12-04 07:03:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74hkfjute2j)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【動画】Pickup NEWS（12月4日）
-https://news.web.nhk/newsweb/na/na-k10014993201000
-
-[2025-12-04 07:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74hkaznvt2b)
-
----
-
-@nytimes.com
-
-<strong><span style="color: red;">Breaking News</span>: A Pentagon investigator’s report is said to conclude that Pete Hegseth’s use of Signal to discuss Yemen strikes risked endangering U.S. troops.</strong>
-
-[2025-12-04 07:02:44](https://bsky.app/profile/nytimes.com/post/3m74hjnbqkg27)
-
----
-
-@npr.org
-
-"I will permanently pause migration from all Third World Countries to allow the U.S. system to fully recover," he wrote on Truth Social. That label raises the issue of how to classify certain nations. n.pr/4iCoHzA
-
-[2025-12-04 07:01:30](https://bsky.app/profile/npr.org/post/3m74hhhdjm72j)
-
----
-
-@apnews.com
-
-"Gilmore Girls" creator Amy Sherman-Palladino and star Lauren Graham have teamed up for a new book about the beloved series.
-
-[2025-12-04 07:01:22](https://bsky.app/profile/apnews.com/post/3m74hh7o2xc2j)
 
 ---
 
