@@ -1,9 +1,9 @@
-# [2025-12-03 19:50 updated](2025_12_03.md)
+# [2025-12-03 20:10 updated](2025_12_03.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Belgium on Wednesday rejected a plan to use frozen Russian assets to help prop up Ukraine's economy and war effort over the next two years, saying that the scheme poses financial and legal risks. n.pr/48frtqT <a href="https://bsky.app/profile/npr.org/post/3m73buw5qfx2g" target="_blank">npr.org</a> (2025-12-03 19:49:00)</span><span style="padding-right:50px;">ヤマハ、音響効果付きのトランスアコースティックギター「TAS3 C」（無料記事） www.nikkei.com/article/DGXZQO...  従来製品よりもコンパクトなつくりで、弦を指で弾きやすくしました。  専用アプリで細かな音響調整もできます。価格は23万9800円です。 <a href="https://bsky.app/profile/nikkei.com/post/3m73bqf34wl2k" target="_blank">nikkei.com</a> (2025-12-03 19:46:28)</span><span style="padding-right:50px;">Belgium criticises EU proposal to use Russian frozen assets for Ukraine before its unveiling reut.rs/49YPFPH <a href="https://bsky.app/profile/reuters.com/post/3m73bnzi4s52i" target="_blank">reuters.com</a> (2025-12-03 19:45:08)</span><span style="padding-right:50px;">Treasury yields inch lower as investors await further economic data <a href="https://bsky.app/profile/cnbc.com/post/3m73bju4nj52a" target="_blank">cnbc.com</a> (2025-12-03 19:42:49)</span><span style="padding-right:50px;">Sabrina Carpenter slammed the White House on Tuesday after it posted a video using her song “Juno.” The video on the official X account of the White House featured a montage of clips appearing to show ICE officers chasing down and handcuffing people. <a href="https://bsky.app/profile/nbcnews.com/post/3m73bfe2fad2t" target="_blank">nbcnews.com</a> (2025-12-03 19:40:18)</span>
+<span style="padding-right:50px;">Retailers moved into 5.5 million more square feet than they vacated in the third quarter, a notable turnaround from the year’s first half. <a href="https://bsky.app/profile/wsj.com/post/3m73cuvlx2o2j" target="_blank">wsj.com</a> (2025-12-03 20:06:53)</span><span style="padding-right:50px;">Foxconn, Luxshare plan to add millions to Vietnam's game console output, documents show reut.rs/48fC6tP <a href="https://bsky.app/profile/reuters.com/post/3m73cro7cm72n" target="_blank">reuters.com</a> (2025-12-03 20:05:04)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】金沢で初雪観測 平年より9日遅く去年より5日早い (2025-12-03 20:02:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m73crdnnmw24" target="_blank">sokuho.news</a> (2025-12-03 20:04:53)</span><span style="padding-right:50px;">🇱🇧 Pope urges end to hostilities at end of Lebanon trip   Pope Leo XIV said the Middle East needed new approaches for peace during a mass attended by 150,000 people at Beirut's waterfront.  #AFPVertical <a href="https://bsky.app/profile/en.afp.com/post/3m73cknmau322" target="_blank">en.afp.com</a> (2025-12-03 20:01:09)</span><span style="padding-right:50px;">The city of San Francisco filed a lawsuit against some of the nation's top food manufacturers, arguing that ultraprocessed food from the likes of Coca-Cola and Nestle are responsible for a public health crisis. https://cnn.it/44Fp5r9 <a href="https://bsky.app/profile/cnn.com/post/3m73ckgwzy22y" target="_blank">cnn.com</a> (2025-12-03 20:01:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.30 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.51 (🔻0.31 : 2025-12-03)</span>
+<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.30 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.46 (🔻0.36 : 2025-12-03)</span>
   </div>
 </div>
 
@@ -32,98 +32,103 @@
 
 ## News Headlines
 
-1. ベルギー、ロシア凍結資産のウクライナ支援利用案を拒否
-2. ヤマハ、音響効果付きトランスアコースティックギター「TAS3 C」発表
-3. 米財務省利回り、追加経済指標待ちで小幅下落
-4. インドのサービス部門成長加速、輸出は停滞
-5. 立憲・公明、補正予算案に修正要求で一致
-6. カップヌードル・チキンラーメン値上げ、日清食品が2026年4月から
+1. 小売業、第3四半期に空室面積を大幅に上回る増加
+2. 金沢で初雪観測、平年より遅く去年より早い
+3. サンフランシスコ市、大手食品メーカーを提訴：超加工食品が公衆衛生危機を招く
+4. 米運輸保安庁、連邦基準を満たさないIDに手数料徴収
+5. エアバス、ベストセラー機の問題で2025年の納入目標を下方修正
+6. 東京都調査：女性の家事・育児時間減も男女格差は依然として大きい
 
 ----
 
-@npr.org
+@wsj.com
 
-Belgium on Wednesday rejected a plan to use frozen Russian assets to help prop up Ukraine's economy and war effort over the next two years, saying that the scheme poses financial and legal risks. n.pr/48frtqT
+Retailers moved into 5.5 million more square feet than they vacated in the third quarter, a notable turnaround from the year’s first half.
 
-[2025-12-03 19:49:00](https://bsky.app/profile/npr.org/post/3m73buw5qfx2g)
+[2025-12-03 20:06:53](https://bsky.app/profile/wsj.com/post/3m73cuvlx2o2j)
+
+---
+
+@reuters.com
+
+Foxconn, Luxshare plan to add millions to Vietnam's game console output, documents show reut.rs/48fC6tP
+
+[2025-12-03 20:05:04](https://bsky.app/profile/reuters.com/post/3m73cro7cm72n)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】金沢で初雪観測 平年より9日遅く去年より5日早い
+(2025-12-03 20:02:00) #ニュース
+
+[2025-12-03 20:04:53](https://bsky.app/profile/sokuho.news/post/3m73crdnnmw24)
+
+---
+
+@en.afp.com
+
+🇱🇧 Pope urges end to hostilities at end of Lebanon trip
+ 
+Pope Leo XIV said the Middle East needed new approaches for peace during a mass attended by 150,000 people at Beirut's waterfront. 
+#AFPVertical
+
+[2025-12-03 20:01:09](https://bsky.app/profile/en.afp.com/post/3m73cknmau322)
+
+---
+
+@cnn.com
+
+The city of San Francisco filed a lawsuit against some of the nation's top food manufacturers, arguing that ultraprocessed food from the likes of Coca-Cola and Nestle are responsible for a public health crisis. https://cnn.it/44Fp5r9
+
+[2025-12-03 20:01:02](https://bsky.app/profile/cnn.com/post/3m73ckgwzy22y)
+
+---
+
+@reuters.com
+
+Binance co-founder Yi He joins Richard Teng in dual leadership structure reut.rs/4rzG1t1
+
+[2025-12-03 20:00:42](https://bsky.app/profile/reuters.com/post/3m73cjtrmma2w)
 
 ---
 
 @nikkei.com
 
-ヤマハ、音響効果付きのトランスアコースティックギター「TAS3 C」（無料記事）
+MAGA系シンクタンク幹部「トランプ氏タイプの指導者、任期終われば不要かもしれない」
 www.nikkei.com/article/DGXZQO...
 
-従来製品よりもコンパクトなつくりで、弦を指で弾きやすくしました。
+バンス副大統領の知恵袋であるシンクタンク・クレアモント。
 
-専用アプリで細かな音響調整もできます。価格は23万9800円です。
+「人々は王様は求めていない」と語るバイスプレジデントに保守運動の未来図を聞きました。
 
-[2025-12-03 19:46:28](https://bsky.app/profile/nikkei.com/post/3m73bqf34wl2k)
-
----
-
-@reuters.com
-
-Belgium criticises EU proposal to use Russian frozen assets for Ukraine before its unveiling reut.rs/49YPFPH
-
-[2025-12-03 19:45:08](https://bsky.app/profile/reuters.com/post/3m73bnzi4s52i)
+[2025-12-03 20:00:28](https://bsky.app/profile/nikkei.com/post/3m73cjgfmka2w)
 
 ---
 
 @cnbc.com
 
-Treasury yields inch lower as investors await further economic data
+The U.S. Transportation Security Administration said Monday it will charge travelers $45 starting February 1 if their IDs do not meet federal standards.
 
-[2025-12-03 19:42:49](https://bsky.app/profile/cnbc.com/post/3m73bju4nj52a)
+[2025-12-03 20:00:17](https://bsky.app/profile/cnbc.com/post/3m73cj3w22s2q)
 
 ---
 
-@nbcnews.com
+@bloomberg.com
 
-Sabrina Carpenter slammed the White House on Tuesday after it posted a video using her song “Juno.” The video on the official X account of the White House featured a montage of clips appearing to show ICE officers chasing down and handcuffing people.
+Chemicals banned in the EU are widely available in Nigeria and across Africa, threatening food and water supplies.
 
-[2025-12-03 19:40:18](https://bsky.app/profile/nbcnews.com/post/3m73bfe2fad2t)
+[2025-12-03 20:00:14](https://bsky.app/profile/bloomberg.com/post/3m73ciyxamu2n)
 
 ---
 
 @reuters.com
 
-India's services growth accelerates in November but export engine sputters, PMI shows reut.rs/4pgJOtR
+LIVE: Prince William and Kate welcome German president at London’s Heathrow youtube.com/live/v0G2ni0...
 
-[2025-12-03 19:40:17](https://bsky.app/profile/reuters.com/post/3m73bfdymht2e)
-
----
-
-@financialtimes.com
-
- Jancis Robinson’s festive wine recommendations on.ft.com/4pJfkAn  | opinion
-
-[2025-12-03 19:40:10](https://bsky.app/profile/financialtimes.com/post/3m73bf5anla26)
-
----
-
-@aljazeera.com
-
-Amid Israel's genocidal war on Gaza, a mass wedding for more than 50 Palestinian couples took place in Khan Younis as hundreds gathered to celebrate.
-
-[2025-12-03 19:39:44](https://bsky.app/profile/aljazeera.com/post/3m73bedlbok2b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-“補正予算案修正必要 緊急性低い事業含む” 立民と公明一致
-https://news.web.nhk/newsweb/na/na-k10014993041000
-
-[2025-12-03 19:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m73bd7vh432r)
-
----
-
-@npr.org
-
-Brandi Carlile has a way of making any performance feel like a tête-à-tête, a deep emotional exchange between friends that just happens to take place in a crowd. n.pr/3M78tCt
-
-[2025-12-03 19:38:53](https://bsky.app/profile/npr.org/post/3m73bctpjze2r)
+[2025-12-03 19:57:39](https://bsky.app/profile/reuters.com/post/3m73cefgxz223)
 
 ---
 
