@@ -1,9 +1,9 @@
-# [2025-12-03 12:30 updated](2025_12_03.md)
+# [2025-12-03 12:50 updated](2025_12_03.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】岡山市の岡山操山高校の敷地内に乗用車突入 高齢男性運転…けが人の情報なし 岡山県警【岡山】 (2025-12-03 12:15) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m72j6vgknb2y" target="_blank">sokuho.news</a> (2025-12-03 12:27:11)</span><span style="padding-right:50px;">An acute global shortage of memory chips is forcing AI and consumer-electronics companies to fight for dwindling supplies, as prices soar for the vital components that allow devices to store data reut.rs/48APSWU <a href="https://bsky.app/profile/reuters.com/post/3m72izsuhjc2y" target="_blank">reuters.com</a> (2025-12-03 12:24:21)</span><span style="padding-right:50px;">The US president said his search for a Fed chair was ‘down to one’ after about 10 candidates had been considered on.ft.com/4pOq7JG <a href="https://bsky.app/profile/financialtimes.com/post/3m72ixxhhfc2c" target="_blank">financialtimes.com</a> (2025-12-03 12:23:18)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】岡山市の岡山操山高校の敷地内に乗用車突入 高齢男性運転…けが人の情報なし【岡山】 (2025-12-03 12:15) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m72iwmklhj2m" target="_blank">sokuho.news</a> (2025-12-03 12:22:33)</span><span style="padding-right:50px;">株価 値上がり 半導体関連銘柄などに買い注文 https://news.web.nhk/newsweb/na/na-k10014992691000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72itxzyil26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 12:21:03)</span>
+<span style="padding-right:50px;">「だし」が出せない　コンブ・かつお節にもインフレの波 www.nikkei.com/article/DGXZQO...  おでんや鍋など和食に欠かせない「だし」。コンブや煮干し、かつお節は生産量が減少し、価格は最高値圏です。  麺料理にも影響が大きく、ラーメン消費が多い山形県ではあごだしに使うトビウオが不漁で入手困難になっています。 <a href="https://bsky.app/profile/nikkei.com/post/3m72kbeyogr2e" target="_blank">nikkei.com</a> (2025-12-03 12:46:28)</span><span style="padding-right:50px;">President Trump-backed Matt Van Epps toiled to victory over his Democrat challenger Aftyn Behn tonight, AP projects. <a href="https://bsky.app/profile/axios.com/post/3m72kaa3ddk2u" target="_blank">axios.com</a> (2025-12-03 12:45:50)</span><span style="padding-right:50px;">Tech boss Dell gives $6.25 billion to Trump’s trust funds for kids.  So-called "Trump accounts" for children born after January 1, 2025 were part of the "One Big Beautiful Bill", which included new funding for the migrant deportation drive, while gutting health and welfare support  u.afp.com/ShHy <a href="https://bsky.app/profile/en.afp.com/post/3m72k7zl46w2p" target="_blank">en.afp.com</a> (2025-12-03 12:45:43)</span><span style="padding-right:50px;">JUST IN: India’s rupee falls to a fresh record low of 90 per US dollar <a href="https://bsky.app/profile/bloomberg.com/post/3m72jxt76xq2m" target="_blank">bloomberg.com</a> (2025-12-03 12:41:08)</span><span style="padding-right:50px;">Exclusive: Unilever-backed audit finds deficiencies in financial controls, governance at Ben & Jerry's Foundation reut.rs/3MACdYk <a href="https://bsky.app/profile/reuters.com/post/3m72jwdqaca2e" target="_blank">reuters.com</a> (2025-12-03 12:40:18)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49862.94 (🔺322.30 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.30 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3017.00 (🔻13.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.68 (🔻0.14 : 2025-12-03)</span>
+<span style="padding-right:50px;">NIKKEI: 50007.42 (🔺466.78 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.30 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3016.00 (🔻14.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.68 (🔻0.15 : 2025-12-03)</span>
   </div>
 </div>
 
@@ -32,104 +32,106 @@
 
 ## News Headlines
 
-1. 岡山操山高校に車突入、高齢男性運転 - けが人情報なし
-2. メモリチップ不足深刻化、AI・家電業界で価格高騰
-3. 米大統領、FRB議長候補を「一人に絞った」
-4. 小水力発電、老いた集落に活力 - 佐賀・吉野ケ里で年間190万円の収益
-5. マレーシア政府、MH370便の捜索再開を発表
-6. トランプ氏、バイデン氏の恩赦を無効にすると発言
+1.  だし素材高騰、和食に打撃　コンブ・かつお節が最高値圏
+2.  トランプ氏支持の共和党候補、テネシー州特別選挙で勝利
+3.  インド・ルピー、対ドルで過去最安値90を更新
+4.  特殊詐欺に口座提供か、収納代行会社経営者ら逮捕
+5.  北海道函館市中心部の火災、鎮火まで17時間半
+6.  小水力発電、老いた集落に活力を　年間190万円の収益
 
 ----
 
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】岡山市の岡山操山高校の敷地内に乗用車突入 高齢男性運転…けが人の情報なし 岡山県警【岡山】
-(2025-12-03 12:15) #ニュース
-
-[2025-12-03 12:27:11](https://bsky.app/profile/sokuho.news/post/3m72j6vgknb2y)
-
----
-
-@reuters.com
-
-An acute global shortage of memory chips is forcing AI and consumer-electronics companies to fight for dwindling supplies, as prices soar for the vital components that allow devices to store data reut.rs/48APSWU
-
-[2025-12-03 12:24:21](https://bsky.app/profile/reuters.com/post/3m72izsuhjc2y)
-
----
-
-@financialtimes.com
-
-The US president said his search for a Fed chair was ‘down to one’ after about 10 candidates had been considered on.ft.com/4pOq7JG
-
-[2025-12-03 12:23:18](https://bsky.app/profile/financialtimes.com/post/3m72ixxhhfc2c)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】岡山市の岡山操山高校の敷地内に乗用車突入 高齢男性運転…けが人の情報なし【岡山】
-(2025-12-03 12:15) #ニュース
-
-[2025-12-03 12:22:33](https://bsky.app/profile/sokuho.news/post/3m72iwmklhj2m)
-
----
-
-@nhknewsunofficial.bsky.social
-
-株価 値上がり 半導体関連銘柄などに買い注文
-https://news.web.nhk/newsweb/na/na-k10014992691000
-
-[2025-12-03 12:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72itxzyil26)
-
----
-
-@reuters.com
-
-Trump says he's terminating any Biden pardons signed with autopen reut.rs/3MB5hPn
-
-[2025-12-03 12:20:26](https://bsky.app/profile/reuters.com/post/3m72istn6iv2i)
-
----
-
 @nikkei.com
 
-「小水力発電」が老いた集落に活力　5年で約1000万円の収益、住民が運営
+「だし」が出せない　コンブ・かつお節にもインフレの波
 www.nikkei.com/article/DGXZQO...
 
-佐賀・吉野ケ里の集落では超小型の水力発電で得た年間約190万円の利益を住民に還元。
+おでんや鍋など和食に欠かせない「だし」。コンブや煮干し、かつお節は生産量が減少し、価格は最高値圏です。
 
-タクシー料金の補助など生活改善につなげ、全国から注目を集めています。
+麺料理にも影響が大きく、ラーメン消費が多い山形県ではあごだしに使うトビウオが不漁で入手困難になっています。
 
-[2025-12-03 12:16:28](https://bsky.app/profile/nikkei.com/post/3m72ilppszb2k)
-
----
-
-@bloomberg.com
-
-Indian equities look set for a steady-to-soft open, with traders turning their attention to the RBI’s three-day policy meet kicking off later today. Read for free with your email on what could move markets today.
-
-[2025-12-03 12:16:23](https://bsky.app/profile/bloomberg.com/post/3m72ill4bxt2s)
+[2025-12-03 12:46:28](https://bsky.app/profile/nikkei.com/post/3m72kbeyogr2e)
 
 ---
 
-@reuters.com
+@axios.com
 
-Wong’s plight — arms raised in anguish and weeping as he stands against the backdrop of what became Hong Kong’s deadliest fire since 1948 — was captured in a Reuters photograph that went viral, becoming the emblematic frame of the disaster reut.rs/4rzTZek
+President Trump-backed Matt Van Epps toiled to victory over his Democrat challenger Aftyn Behn tonight, AP projects.
 
-[2025-12-03 12:13:45](https://bsky.app/profile/reuters.com/post/3m72igumbu22y)
+[2025-12-03 12:45:50](https://bsky.app/profile/axios.com/post/3m72kaa3ddk2u)
 
 ---
 
 @en.afp.com
 
-BREAKING  Search for long-missing flight MH370 to resume, says Malaysian government
+Tech boss Dell gives $6.25 billion to Trump’s trust funds for kids.
 
-[2025-12-03 12:12:50](https://bsky.app/profile/en.afp.com/post/3m72if7snua2u)
+So-called "Trump accounts" for children born after January 1, 2025 were part of the "One Big Beautiful Bill", which included new funding for the migrant deportation drive, while gutting health and welfare support
+
+u.afp.com/ShHy
+
+[2025-12-03 12:45:43](https://bsky.app/profile/en.afp.com/post/3m72k7zl46w2p)
+
+---
+
+@bloomberg.com
+
+<strong><span style="color: red;">JUST IN:</span> India’s rupee falls to a fresh record low of 90 per US dollar</strong>
+
+[2025-12-03 12:41:08](https://bsky.app/profile/bloomberg.com/post/3m72jxt76xq2m)
+
+---
+
+@reuters.com
+
+Exclusive: Unilever-backed audit finds deficiencies in financial controls, governance at Ben & Jerry's Foundation reut.rs/3MACdYk
+
+[2025-12-03 12:40:18](https://bsky.app/profile/reuters.com/post/3m72jwdqaca2e)
+
+---
+
+@nytimes.com
+
+A Los Angeles man was in federal custody on Tuesday after the authorities said he threatened security guards and lobbed two malfunctioning Molotov cocktails into a federal office building.
+
+[2025-12-03 12:40:04](https://bsky.app/profile/nytimes.com/post/3m72jvwh7g62e)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+特殊詐欺に口座提供か 収納代行会社の実質的経営者ら2人逮捕
+https://news.web.nhk/newsweb/na/na-k10014992621000
+
+[2025-12-03 12:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72jorsjwt2p)
+
+---
+
+@wsj.com
+
+The GOP won a special election in a deep-red Tennessee district, but the modest winning margin provided a warning  sign for Republicans.
+
+[2025-12-03 12:35:04](https://bsky.app/profile/wsj.com/post/3m72jmyi65i2i)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】JR湖西線、昼頃から強風予報のため新快速の運転を取り止め
+(2025-12-03 12:32:27) #ニュース
+
+[2025-12-03 12:33:34](https://bsky.app/profile/sokuho.news/post/3m72jkclpe42p)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【ドローン 紅葉】鹿児島 冠岳のふもと
+https://news.web.nhk/newsweb/na/na-k10014990441000
+
+[2025-12-03 12:33:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72jjkrqss26)
 
 ---
 
