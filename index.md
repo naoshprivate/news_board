@@ -1,9 +1,9 @@
-# [2025-12-04 01:10 updated](2025_12_04.md)
+# [2025-12-04 01:30 updated](2025_12_04.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Blue Owl executives and staff bought $200mn in shares after sell-off on.ft.com/3M7lbRF <a href="https://bsky.app/profile/financialtimes.com/post/3m73toscecw26" target="_blank">financialtimes.com</a> (2025-12-04 01:07:42)</span><span style="padding-right:50px;">Claude, a rare albino alligator and the unofficial mascot of the California Academy of Sciences in San Francisco, has died at age 30, the museum announced. bit.ly/3Y5x7WA  📸: Justin Sullivan, Getty Images <a href="https://bsky.app/profile/usatoday.com/post/3m73tnl37oo2u" target="_blank">usatoday.com</a> (2025-12-04 01:07:01)</span><span style="padding-right:50px;">Pemex debt is red flag for potential partners as Mexico seeks to boost oil output reut.rs/48ymT68 <a href="https://bsky.app/profile/reuters.com/post/3m73tk3tmbm22" target="_blank">reuters.com</a> (2025-12-04 01:05:04)</span><span style="padding-right:50px;">From @theathletic.com: Lane Kiffin left Ole Miss for LSU amid heavy criticism from the Rebels fan base and much of the college football world. Now, his former players are calling him out for allegedly lying in his farewell statement. <a href="https://bsky.app/profile/nytimes.com/post/3m73tidfwss2y" target="_blank">nytimes.com</a> (2025-12-04 01:04:05)</span><span style="padding-right:50px;">A British nursery worker has pleaded guilty to 26 offenses against children, including nine counts of sexual assault, in what the Metropolitan Police has described as “one of the most harrowing and complex child sexual abuse investigations” undertaken by the force. <a href="https://bsky.app/profile/cnn.com/post/3m73tgj6kys2q" target="_blank">cnn.com</a> (2025-12-04 01:03:04)</span>
+<span style="padding-right:50px;">Small and often invisible barriers to trade are affecting products from businesses across Europe. If there is one product that symbolises the absurdities of the EU’s single market in goods, it might be this cuddly elephant. on.ft.com/4rBErqC <a href="https://bsky.app/profile/financialtimes.com/post/3m73unwyz3u25" target="_blank">financialtimes.com</a> (2025-12-04 01:25:07)</span><span style="padding-right:50px;">Losing 20th toss in a row - India cannot make head or tail of ODI coin-curse reut.rs/3Ybony5 <a href="https://bsky.app/profile/reuters.com/post/3m73untoqbl2i" target="_blank">reuters.com</a> (2025-12-04 01:25:03)</span><span style="padding-right:50px;">President Donald Trump on Wednesday, Dec. 3, announced he had pardoned Texas embattled Congressman Henry Cuellar. bit.ly/49VQHMk <a href="https://bsky.app/profile/usatoday.com/post/3m73un23qhk2j" target="_blank">usatoday.com</a> (2025-12-04 01:24:37)</span><span style="padding-right:50px;">🇭🇰 Hongkongers hold memorial for victims of apartment complex fire  Hongkongers write handwritten notes and fold paper cranes during a memorial to mark the traditional seventh day ritual for the 159 people who died in the massive fire at Wang Fuk Court. <a href="https://bsky.app/profile/en.afp.com/post/3m73ug7obgr25" target="_blank">en.afp.com</a> (2025-12-04 01:20:48)</span><span style="padding-right:50px;">These holiday cookies take all the best parts of a towering coconut cake and shrink them down to the cutest tiny treat.  nyti.ms/3KsYXJ5 <a href="https://bsky.app/profile/nytimes.com/post/3m73uexirn52y" target="_blank">nytimes.com</a> (2025-12-04 01:20:05)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47678.65 (🔺307.03 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23402.20 (🔺86.62 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 180.70 (🔻0.37 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.13 (🔻0.69 : 2025-12-03)</span>
+<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47681.75 (🔺310.13 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23398.43 (🔺82.85 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 180.52 (🔻0.55 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.01 (🔻0.81 : 2025-12-03)</span>
   </div>
 </div>
 
@@ -32,94 +32,96 @@
 
 ## News Headlines
 
-1. Blue Owl幹部、株価急落後に2億ドルの自社株買い
-2. カリフォルニア科学アカデミーのクロード、30歳で死去
-3. Pemexの債務、提携候補にとって危険信号
-4. メトロポリタン警察、「最も悲惨な」児童性的虐待事件で保育士を逮捕
-5. トランプ大統領、収賄罪で告発された民主党議員とその妻を恩赦
-6. メキシコがカルテル幹部を秘密裏に移送、米国へ引き渡し
+1. EU単一市場の矛盾象徴？象のぬいぐるみが貿易障壁に
+2. インド、コイントス20連敗で「呪い」か
+3. トランプ大統領、テキサス州下院議員を恩赦
+4. 香港、集合住宅火災の犠牲者を追悼
+5. ローマのバス・地下鉄、サービス低下で払い戻しへ
+6. メキシコ、麻薬カルテル幹部を米国へ秘密裏に移送
 
 ----
 
 @financialtimes.com
 
-Blue Owl executives and staff bought $200mn in shares after sell-off on.ft.com/3M7lbRF
+Small and often invisible barriers to trade are affecting products from businesses across Europe. If there is one product that symbolises the absurdities of the EU’s single market in goods, it might be this cuddly elephant. on.ft.com/4rBErqC
 
-[2025-12-04 01:07:42](https://bsky.app/profile/financialtimes.com/post/3m73toscecw26)
-
----
-
-@usatoday.com
-
-Claude, a rare albino alligator and the unofficial mascot of the California Academy of Sciences in San Francisco, has died at age 30, the museum announced. bit.ly/3Y5x7WA
-
-📸: Justin Sullivan, Getty Images
-
-[2025-12-04 01:07:01](https://bsky.app/profile/usatoday.com/post/3m73tnl37oo2u)
+[2025-12-04 01:25:07](https://bsky.app/profile/financialtimes.com/post/3m73unwyz3u25)
 
 ---
 
 @reuters.com
 
-Pemex debt is red flag for potential partners as Mexico seeks to boost oil output reut.rs/48ymT68
+Losing 20th toss in a row - India cannot make head or tail of ODI coin-curse reut.rs/3Ybony5
 
-[2025-12-04 01:05:04](https://bsky.app/profile/reuters.com/post/3m73tk3tmbm22)
+[2025-12-04 01:25:03](https://bsky.app/profile/reuters.com/post/3m73untoqbl2i)
+
+---
+
+@usatoday.com
+
+President Donald Trump on Wednesday, Dec. 3, announced he had pardoned Texas embattled Congressman Henry Cuellar. bit.ly/49VQHMk
+
+[2025-12-04 01:24:37](https://bsky.app/profile/usatoday.com/post/3m73un23qhk2j)
+
+---
+
+@en.afp.com
+
+🇭🇰 Hongkongers hold memorial for victims of apartment complex fire
+
+Hongkongers write handwritten notes and fold paper cranes during a memorial to mark the traditional seventh day ritual for the 159 people who died in the massive fire at Wang Fuk Court.
+
+[2025-12-04 01:20:48](https://bsky.app/profile/en.afp.com/post/3m73ug7obgr25)
 
 ---
 
 @nytimes.com
 
-From @theathletic.com: Lane Kiffin left Ole Miss for LSU amid heavy criticism from the Rebels fan base and much of the college football world. Now, his former players are calling him out for allegedly lying in his farewell statement.
+These holiday cookies take all the best parts of a towering coconut cake and shrink them down to the cutest tiny treat.  nyti.ms/3KsYXJ5
 
-[2025-12-04 01:04:05](https://bsky.app/profile/nytimes.com/post/3m73tidfwss2y)
-
----
-
-@cnn.com
-
-A British nursery worker has pleaded guilty to 26 offenses against children, including nine counts of sexual assault, in what the Metropolitan Police has described as “one of the most harrowing and complex child sexual abuse investigations” undertaken by the force.
-
-[2025-12-04 01:03:04](https://bsky.app/profile/cnn.com/post/3m73tgj6kys2q)
-
----
-
-@cnbc.com
-
-Bessent says Trump admin will be able to replicate tariffs even if it loses Supreme Court decision
-
-[2025-12-04 01:02:42](https://bsky.app/profile/cnbc.com/post/3m73tfumzpf2h)
-
----
-
-@reuters.com
-
-American Eagle soars as Sweeney campaign draws in shoppers reut.rs/44Jxiuk
-
-[2025-12-04 01:00:57](https://bsky.app/profile/reuters.com/post/3m73tcqkaj32e)
-
----
-
-@usatoday.com
-
-Even millionaires don't feel wealthy these days
-
-[2025-12-04 01:00:32](https://bsky.app/profile/usatoday.com/post/3m73tbye5pq2m)
-
----
-
-@apnews.com
-
-San Francisco has filed a lawsuit against major food manufacturers like Coca-Cola and Nestle, claiming ultraprocessed foods are causing a public health crisis.
-
-[2025-12-04 01:00:27](https://bsky.app/profile/apnews.com/post/3m73tbtcari2c)
+[2025-12-04 01:20:05](https://bsky.app/profile/nytimes.com/post/3m73uexirn52y)
 
 ---
 
 @nbcnews.com
 
-Elden Campbell, the gentle giant who grew up in Inglewood dreaming of Lakers gold before carving out a 15-year career of quiet excellence, has died at the age of 57.
+Prosecutors trying a Massachusetts man in the murder and dismemberment of his wife traced his gruesome online tracks in court through dozens of internet searches conducted after Ana Walshe disappeared three years ago.
 
-[2025-12-04 01:00:24](https://bsky.app/profile/nbcnews.com/post/3m73tbr2l2g2h)
+[2025-12-04 01:20:05](https://bsky.app/profile/nbcnews.com/post/3m73uewoez72i)
+
+---
+
+@npr.org
+
+The legislation comes after the White House authorized up to 600 military lawyers to be temporary immigration judges and scrapped requirements for them to have immigration law experience.
+
+[2025-12-04 01:18:21](https://bsky.app/profile/npr.org/post/3m73ubua76n2q)
+
+---
+
+@jazmineulloa.bsky.social
+
+“It is just like a traffic jam, and it is just going to get worse and worse and worse.” Icymi, scoop from @haleaziz.bsky.social and I last night: Citizenship ceremonies and immigration interviews are being cancelled as the Trump admin pauses immigration applications. www.nytimes.com/2025/12/02/u...
+
+[2025-12-04 01:17:55](https://bsky.app/profile/jazmineulloa.bsky.social/post/3m73ub33qu22o)
+
+---
+
+@reuters.com
+
+Rome's bus and metro company to offer refunds for poor service reut.rs/3KvXQs7
+
+[2025-12-04 01:15:13](https://bsky.app/profile/reuters.com/post/3m73u4azjqw2e)
+
+---
+
+@washingtonpost.com
+
+In a musical era defined by streaming, artists have boosted album sales by leaning into variants — distinct physical editions of one album.
+
+Taylor Swift excels at this, but plenty of other artists do it, too: 
+
+[2025-12-04 01:15:08](https://bsky.app/profile/washingtonpost.com/post/3m73u43oi2u2h)
 
 ---
 
