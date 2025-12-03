@@ -1,9 +1,9 @@
-# [2025-12-03 14:10 updated](2025_12_03.md)
+# [2025-12-03 14:30 updated](2025_12_03.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;"> Governments cast a hungry eye over public piggy banks on.ft.com/48OYSZG  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m72orphzv32l" target="_blank">financialtimes.com</a> (2025-12-03 14:07:11)</span><span style="padding-right:50px;"> Bitcoin faithful prepare for a bitter winter on.ft.com/48i0Wcs  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m72ornqfi42n" target="_blank">financialtimes.com</a> (2025-12-03 14:07:09)</span><span style="padding-right:50px;">国家安全保障局長 仏首席外交補佐官と電話協議 安保協力強化へ https://news.web.nhk/newsweb/na/na-k10014992601000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72opu2btx2g" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 14:06:07)</span><span style="padding-right:50px;">アスクル 法人向けネット通販の注文受け付けをきょう再開 https://news.web.nhk/newsweb/na/na-k10014992631000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72oppvqvo23" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 14:06:02)</span><span style="padding-right:50px;">A classified final version of the Pentagon inspector general’s report into Secretary of Defense Pete Hegseth’s use of Signal to discuss sensitive military operations has been delivered to the House and Senate Armed Services committees for review, three people familiar with the matter told CNN.  <a href="https://bsky.app/profile/cnn.com/post/3m72okb5d2w2y" target="_blank">cnn.com</a> (2025-12-03 14:03:01)</span>
+<span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】安倍昭恵さん初めて裁判に姿を見せる 法廷に入ると全体に一礼 山上被告に直接質問か (2025-12-03 14:26) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m72pv3g4ur24" target="_blank">sokuho.news</a> (2025-12-03 14:26:58)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】福井県知事が県議会議長に辞職届を提出 複数職員に対するセクハラ問題で引責 (2025-12-03 14:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m72psshp242l" target="_blank">sokuho.news</a> (2025-12-03 14:25:41)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】国の史跡 高松市の高松城跡 天守台の石垣に落書き 市が警察に被害届【香川】 (2025-12-03 14:15) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m72pn4mh4f2y" target="_blank">sokuho.news</a> (2025-12-03 14:22:31)</span><span style="padding-right:50px;">City of London risks running out of top office space on.ft.com/4rEeYNm <a href="https://bsky.app/profile/financialtimes.com/post/3m72pjtafkm23" target="_blank">financialtimes.com</a> (2025-12-03 14:20:40)</span><span style="padding-right:50px;">YouTube says it will comply with Australia's teen social media ban reut.rs/3MffIIn <a href="https://bsky.app/profile/reuters.com/post/3m72pixxifg26" target="_blank">reuters.com</a> (2025-12-03 14:20:12)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50089.61 (🔺548.97 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.30 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3008.00 (🔻22.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.66 (🔻0.16 : 2025-12-03)</span>
+<span style="padding-right:50px;">NIKKEI: 50102.66 (🔺562.02 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.30 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3007.00 (🔻23.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.68 (🔻0.14 : 2025-12-03)</span>
   </div>
 </div>
 
@@ -32,96 +32,105 @@
 
 ## News Headlines
 
-1. 政府、財政再建へ歳出削減を検討
-2. ビットコイン、冬の時代到来か
-3. 日米安保協力、仏首席外交補佐官と協議
-4. 中国製ヒト型ロボット、日本市場に上陸
-5. Netflixとワーナー、統合でコスト削減へ
-6. 厚労省、来年度診療報酬で薬価引き下げへ
+1. 安倍昭恵さん、裁判に初出廷　山上被告に質問か
+2. 福井県知事、セクハラ問題で辞職届提出
+3. 高松城跡天守台石垣に落書き被害
+4. 日本郵便の不適切点呼問題、四国運輸局が車両使用停止処分
+5. 中国、ヒト型ロボット国内上陸　日本勢は存在感薄く
+6. 米発動の相互関税“違法なら返還を”日系企業が提訴
 
 ----
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】安倍昭恵さん初めて裁判に姿を見せる 法廷に入ると全体に一礼 山上被告に直接質問か
+(2025-12-03 14:26) #ニュース
+
+[2025-12-03 14:26:58](https://bsky.app/profile/sokuho.news/post/3m72pv3g4ur24)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】福井県知事が県議会議長に辞職届を提出 複数職員に対するセクハラ問題で引責
+(2025-12-03 14:00) #ニュース
+
+[2025-12-03 14:25:41](https://bsky.app/profile/sokuho.news/post/3m72psshp242l)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】国の史跡 高松市の高松城跡 天守台の石垣に落書き 市が警察に被害届【香川】
+(2025-12-03 14:15) #ニュース
+
+[2025-12-03 14:22:31](https://bsky.app/profile/sokuho.news/post/3m72pn4mh4f2y)
+
+---
+
+@financialtimes.com
+
+City of London risks running out of top office space on.ft.com/4rEeYNm
+
+[2025-12-03 14:20:40](https://bsky.app/profile/financialtimes.com/post/3m72pjtafkm23)
+
+---
+
+@reuters.com
+
+YouTube says it will comply with Australia's teen social media ban reut.rs/3MffIIn
+
+[2025-12-03 14:20:12](https://bsky.app/profile/reuters.com/post/3m72pixxifg26)
+
+---
+
+@nikkei.com
+
+元首相銃撃公判、安倍昭恵さんが出席　被害者参加制度で
+www.nikkei.com/article/DGXZQO...
+
+[2025-12-03 14:16:28](https://bsky.app/profile/nikkei.com/post/3m72pcc42562j)
+
+---
+
+@financialtimes.com
+
+The EU single market’s elephant in the room on.ft.com/49SlMjZ
+
+[2025-12-03 14:16:17](https://bsky.app/profile/financialtimes.com/post/3m72pbxx5cz2j)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】日本郵便の不適切点呼問題 四国運輸局（高松市）が愛媛県の4郵便局に一部車両使用停止処分
+(2025-12-03 14:00) #ニュース
+
+[2025-12-03 14:12:09](https://bsky.app/profile/sokuho.news/post/3m72p2lrpld2p)
+
+---
+
+@reuters.com
+
+Anthropic plans an IPO as early as 2026, FT reports reut.rs/4ouUDXK
+
+[2025-12-03 14:10:12](https://bsky.app/profile/reuters.com/post/3m72ox3pjpi2i)
+
+---
 
 @financialtimes.com
 
  Governments cast a hungry eye over public piggy banks on.ft.com/48OYSZG  | opinion
 
 [2025-12-03 14:07:11](https://bsky.app/profile/financialtimes.com/post/3m72orphzv32l)
-
----
-
-@financialtimes.com
-
- Bitcoin faithful prepare for a bitter winter on.ft.com/48i0Wcs  | opinion
-
-[2025-12-03 14:07:09](https://bsky.app/profile/financialtimes.com/post/3m72ornqfi42n)
-
----
-
-@nhknewsunofficial.bsky.social
-
-国家安全保障局長 仏首席外交補佐官と電話協議 安保協力強化へ
-https://news.web.nhk/newsweb/na/na-k10014992601000
-
-[2025-12-03 14:06:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72opu2btx2g)
-
----
-
-@nhknewsunofficial.bsky.social
-
-アスクル 法人向けネット通販の注文受け付けをきょう再開
-https://news.web.nhk/newsweb/na/na-k10014992631000
-
-[2025-12-03 14:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72oppvqvo23)
-
----
-
-@cnn.com
-
-A classified final version of the Pentagon inspector general’s report into Secretary of Defense Pete Hegseth’s use of Signal to discuss sensitive military operations has been delivered to the House and Senate Armed Services committees for review, three people familiar with the matter told CNN. 
-
-[2025-12-03 14:03:01](https://bsky.app/profile/cnn.com/post/3m72okb5d2w2y)
-
----
-
-@financialtimes.com
-
- Advice to Elon Musk from Britain’s aristocrats on.ft.com/3XwOjEm  | opinion
-
-[2025-12-03 14:02:34](https://bsky.app/profile/financialtimes.com/post/3m72ojhnye226)
-
----
-
-@financialtimes.com
-
- The super-rich who move for tax, and then move again on.ft.com/3XwOhwe  | opinion
-
-[2025-12-03 14:02:34](https://bsky.app/profile/financialtimes.com/post/3m72ojh6u3q2r)
-
----
-
-@cnbc.com
-
-Instagram will require U.S.-based employees to return-to-office five days a week, Meta confirmed on Monday.
-
-A Meta spokesperson told CNBC that the new RTO policy only applies to Instagram and not to the company’s other family of apps, like Facebook and WhatsApp.
-
-[2025-12-03 14:00:47](https://bsky.app/profile/cnbc.com/post/3m72ogb2tor2j)
-
----
-
-@bloomberg.com
-
-For as much as broader crypto markets have sunk these past two months — roughly 25% in the case of bellwether Bitcoin — projects that are tied to the Trump family are down far, far more
-
-[2025-12-03 14:00:39](https://bsky.app/profile/bloomberg.com/post/3m72ofzni4b2y)
-
----
-
-@reuters.com
-
-Exclusive: Netflix, Warner Bros Discovery combo seen lowering costs for consumers, sources say reut.rs/4pGfxEj
-
-[2025-12-03 14:00:31](https://bsky.app/profile/reuters.com/post/3m72ofscyaf2r)
 
 ---
 
