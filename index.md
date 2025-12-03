@@ -1,9 +1,9 @@
-# [2025-12-03 12:50 updated](2025_12_03.md)
+# [2025-12-03 13:10 updated](2025_12_03.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">「だし」が出せない　コンブ・かつお節にもインフレの波 www.nikkei.com/article/DGXZQO...  おでんや鍋など和食に欠かせない「だし」。コンブや煮干し、かつお節は生産量が減少し、価格は最高値圏です。  麺料理にも影響が大きく、ラーメン消費が多い山形県ではあごだしに使うトビウオが不漁で入手困難になっています。 <a href="https://bsky.app/profile/nikkei.com/post/3m72kbeyogr2e" target="_blank">nikkei.com</a> (2025-12-03 12:46:28)</span><span style="padding-right:50px;">President Trump-backed Matt Van Epps toiled to victory over his Democrat challenger Aftyn Behn tonight, AP projects. <a href="https://bsky.app/profile/axios.com/post/3m72kaa3ddk2u" target="_blank">axios.com</a> (2025-12-03 12:45:50)</span><span style="padding-right:50px;">Tech boss Dell gives $6.25 billion to Trump’s trust funds for kids.  So-called "Trump accounts" for children born after January 1, 2025 were part of the "One Big Beautiful Bill", which included new funding for the migrant deportation drive, while gutting health and welfare support  u.afp.com/ShHy <a href="https://bsky.app/profile/en.afp.com/post/3m72k7zl46w2p" target="_blank">en.afp.com</a> (2025-12-03 12:45:43)</span><span style="padding-right:50px;">JUST IN: India’s rupee falls to a fresh record low of 90 per US dollar <a href="https://bsky.app/profile/bloomberg.com/post/3m72jxt76xq2m" target="_blank">bloomberg.com</a> (2025-12-03 12:41:08)</span><span style="padding-right:50px;">Exclusive: Unilever-backed audit finds deficiencies in financial controls, governance at Ben & Jerry's Foundation reut.rs/3MACdYk <a href="https://bsky.app/profile/reuters.com/post/3m72jwdqaca2e" target="_blank">reuters.com</a> (2025-12-03 12:40:18)</span>
+<span style="padding-right:50px;">🛎️NNNより【独自】です。  【独自】帝京大学の助教の男を略式起訴 子どもの性的動画を所持していた罪 公園の盗撮事件で動画購入 (2025-12-03 12:20) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m72lkfczjy2e" target="_blank">sokuho.news</a> (2025-12-03 13:09:24)</span><span style="padding-right:50px;">韓国「非常戒厳」から1年 イ大統領“前大統領の責任追及”強調 https://news.web.nhk/newsweb/na/na-k10014992651000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72lelqgaw2g" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 13:06:07)</span><span style="padding-right:50px;">札幌 白石区で住宅火災 男性1人が意識不明で病院に搬送 https://news.web.nhk/newsweb/na/na-k10014992591000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72legjs5u2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 13:06:02)</span><span style="padding-right:50px;">高市首相 “政治資金のあり方と議員定数削減” 必要性強調 https://news.web.nhk/newsweb/na/na-k10014992671000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72l7adeym2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 13:03:08)</span><span style="padding-right:50px;">旧姓の通称使用拡大 法制化に向け検討へ 政府 https://news.web.nhk/newsweb/na/na-k10014992711000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72l73p2jv2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 13:03:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50007.42 (🔺466.78 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.30 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3016.00 (🔻14.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.68 (🔻0.15 : 2025-12-03)</span>
+<span style="padding-right:50px;">NIKKEI: 50065.17 (🔺524.53 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.30 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3011.00 (🔻19.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.73 (🔻0.09 : 2025-12-03)</span>
   </div>
 </div>
 
@@ -32,106 +32,110 @@
 
 ## News Headlines
 
-1.  だし素材高騰、和食に打撃　コンブ・かつお節が最高値圏
-2.  トランプ氏支持の共和党候補、テネシー州特別選挙で勝利
-3.  インド・ルピー、対ドルで過去最安値90を更新
-4.  特殊詐欺に口座提供か、収納代行会社経営者ら逮捕
-5.  北海道函館市中心部の火災、鎮火まで17時間半
-6.  小水力発電、老いた集落に活力を　年間190万円の収益
+1. 帝京大学助教、児童ポルノ所持で略式起訴
+2. 韓国大統領、前大統領の責任追及を強調
+3. 札幌で住宅火災、男性が意識不明
+4. 政府、旧姓の通称使用拡大を法制化検討へ
+5. セブンイレブン、「できたて」弁当を試験販売
+6. だし素材が高騰、コンブ・かつお節にインフレの波
 
 ----
 
-@nikkei.com
+@sokuho.news
 
-「だし」が出せない　コンブ・かつお節にもインフレの波
-www.nikkei.com/article/DGXZQO...
+🛎️NNNより【独自】です。
 
-おでんや鍋など和食に欠かせない「だし」。コンブや煮干し、かつお節は生産量が減少し、価格は最高値圏です。
+【独自】帝京大学の助教の男を略式起訴 子どもの性的動画を所持していた罪 公園の盗撮事件で動画購入
+(2025-12-03 12:20) #ニュース
 
-麺料理にも影響が大きく、ラーメン消費が多い山形県ではあごだしに使うトビウオが不漁で入手困難になっています。
-
-[2025-12-03 12:46:28](https://bsky.app/profile/nikkei.com/post/3m72kbeyogr2e)
+[2025-12-03 13:09:24](https://bsky.app/profile/sokuho.news/post/3m72lkfczjy2e)
 
 ---
 
-@axios.com
+@nhknewsunofficial.bsky.social
 
-President Trump-backed Matt Van Epps toiled to victory over his Democrat challenger Aftyn Behn tonight, AP projects.
+韓国「非常戒厳」から1年 イ大統領“前大統領の責任追及”強調
+https://news.web.nhk/newsweb/na/na-k10014992651000
 
-[2025-12-03 12:45:50](https://bsky.app/profile/axios.com/post/3m72kaa3ddk2u)
-
----
-
-@en.afp.com
-
-Tech boss Dell gives $6.25 billion to Trump’s trust funds for kids.
-
-So-called "Trump accounts" for children born after January 1, 2025 were part of the "One Big Beautiful Bill", which included new funding for the migrant deportation drive, while gutting health and welfare support
-
-u.afp.com/ShHy
-
-[2025-12-03 12:45:43](https://bsky.app/profile/en.afp.com/post/3m72k7zl46w2p)
+[2025-12-03 13:06:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72lelqgaw2g)
 
 ---
 
-@bloomberg.com
+@nhknewsunofficial.bsky.social
 
-<strong><span style="color: red;">JUST IN:</span> India’s rupee falls to a fresh record low of 90 per US dollar</strong>
+札幌 白石区で住宅火災 男性1人が意識不明で病院に搬送
+https://news.web.nhk/newsweb/na/na-k10014992591000
 
-[2025-12-03 12:41:08](https://bsky.app/profile/bloomberg.com/post/3m72jxt76xq2m)
+[2025-12-03 13:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72legjs5u2j)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+高市首相 “政治資金のあり方と議員定数削減” 必要性強調
+https://news.web.nhk/newsweb/na/na-k10014992671000
+
+[2025-12-03 13:03:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72l7adeym2b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+旧姓の通称使用拡大 法制化に向け検討へ 政府
+https://news.web.nhk/newsweb/na/na-k10014992711000
+
+[2025-12-03 13:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72l73p2jv2k)
 
 ---
 
 @reuters.com
 
-Exclusive: Unilever-backed audit finds deficiencies in financial controls, governance at Ben & Jerry's Foundation reut.rs/3MACdYk
+Minnesota officials defend Somali community against Trump's attacks reut.rs/44JVkp0
 
-[2025-12-03 12:40:18](https://bsky.app/profile/reuters.com/post/3m72jwdqaca2e)
-
----
-
-@nytimes.com
-
-A Los Angeles man was in federal custody on Tuesday after the authorities said he threatened security guards and lobbed two malfunctioning Molotov cocktails into a federal office building.
-
-[2025-12-03 12:40:04](https://bsky.app/profile/nytimes.com/post/3m72jvwh7g62e)
+[2025-12-03 13:00:41](https://bsky.app/profile/reuters.com/post/3m72l2sjxfj2o)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@aljazeera.com
 
-特殊詐欺に口座提供か 収納代行会社の実質的経営者ら2人逮捕
-https://news.web.nhk/newsweb/na/na-k10014992621000
+Colombian president chides Trump, saying 18,400 cocaine laboratories have been destroyed 'without missiles' fired.
 
-[2025-12-03 12:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72jorsjwt2p)
-
----
-
-@wsj.com
-
-The GOP won a special election in a deep-red Tennessee district, but the modest winning margin provided a warning  sign for Republicans.
-
-[2025-12-03 12:35:04](https://bsky.app/profile/wsj.com/post/3m72jmyi65i2i)
+[2025-12-03 13:00:37](https://bsky.app/profile/aljazeera.com/post/3m72l2oer772c)
 
 ---
 
-@sokuho.news
+@nikkei.com
 
-🛎️JNNより【速報】です。
+セブンイレブンが「できたて」弁当試行　埼玉で、小型スーパーに対抗
+www.nikkei.com/article/DGXZQO...
 
-【速報】JR湖西線、昼頃から強風予報のため新快速の運転を取り止め
-(2025-12-03 12:32:27) #ニュース
+ヒレカツ弁当や唐揚げ弁当など4品の発売を一部の店舗で始めました。
 
-[2025-12-03 12:33:34](https://bsky.app/profile/sokuho.news/post/3m72jkclpe42p)
+価格は約850～1980円まで。
+
+12月上旬からは導入店舗を広げる予定です。
+
+[2025-12-03 13:00:28](https://bsky.app/profile/nikkei.com/post/3m72l2ftrn526)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@apnews.com
 
-【ドローン 紅葉】鹿児島 冠岳のふもと
-https://news.web.nhk/newsweb/na/na-k10014990441000
+The masked burglar broke into the closed Virginia liquor store early on Saturday and hit the bottom shelf. The bandit was something of a nocturnal menace: bottles were smashed and alcohol pooled on the floor.
 
-[2025-12-03 12:33:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72jjkrqss26)
+The suspect acted like an animal because, in fact, he's a raccoon. 
+
+[2025-12-03 13:00:18](https://bsky.app/profile/apnews.com/post/3m72l23ygdn2p)
+
+---
+
+@cnbc.com
+
+“Deferred interest is a really nasty gotcha, because a lot of people don’t understand what it means,” says an industry analyst.
+
+"If you don’t know the rules, it can end up costing you far more than whatever you saved on that initial purchase," he says.
+
+[2025-12-03 13:00:16](https://bsky.app/profile/cnbc.com/post/3m72l22ejbt2q)
 
 ---
 
