@@ -1,9 +1,9 @@
-# [2025-12-04 04:30 updated](2025_12_04.md)
+# [2025-12-04 04:50 updated](2025_12_04.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Excelsior Sciences raises $95 million to speed small molecule drug development using AI reut.rs/4pnLphw <a href="https://bsky.app/profile/reuters.com/post/3m746ps6bwk2n" target="_blank">reuters.com</a> (2025-12-04 04:25:06)</span><span style="padding-right:50px;">Former Intel CEO: Big AI firms are funding themselves — and that's not real demand <a href="https://bsky.app/profile/yahoofinance.com/post/3m746irfofs23" target="_blank">yahoofinance.com</a> (2025-12-04 04:21:11)</span><span style="padding-right:50px;">Cases of Ritz Peanut Butter Cracker Sandwiches sold in eight states are being recalled due to packs being incorrectly labeled and posing a risk to people with peanut allergies. <a href="https://bsky.app/profile/nbcnews.com/post/3m746gz6ydc2j" target="_blank">nbcnews.com</a> (2025-12-04 04:20:12)</span><span style="padding-right:50px;">The megacap denied the report, claiming the story shows a “lack of understanding of the way a sales organization works and is compensated.” <a href="https://bsky.app/profile/forbes.com/post/3m746grx6gr2q" target="_blank">forbes.com</a> (2025-12-04 04:20:04)</span><span style="padding-right:50px;">Police confirmed the death of one man and the injury of another at MGM National Harbor hotel and casino late Wednesday morning.  Officers responded to a shooting in the food court, where one man was found dead and another man had a graze wound. <a href="https://bsky.app/profile/washingtonpost.com/post/3m746fids462o" target="_blank">washingtonpost.com</a> (2025-12-04 04:19:21)</span>
+<span style="padding-right:50px;">Pips is a logic puzzle where players must arrange a set of dominoes to meet the conditions of the board to win. There are three new puzzles each day — can you beat them all? nyti.ms/4oAjNnP <a href="https://bsky.app/profile/nytimes.com/post/3m747yudwtc27" target="_blank">nytimes.com</a> (2025-12-04 04:48:04)</span><span style="padding-right:50px;">BREAKING: Pentagon watchdog finds Hegseth's Signal chat violated regulations, could have endangered troops, sources say. <a href="https://bsky.app/profile/cbsnews.com/post/3m747uxdbxv2z" target="_blank">cbsnews.com</a> (2025-12-04 04:45:53)</span><span style="padding-right:50px;">Hedge funds double down using near-record leverage in quest to boost returns reut.rs/4pI1wWH <a href="https://bsky.app/profile/reuters.com/post/3m747toerh327" target="_blank">reuters.com</a> (2025-12-04 04:45:10)</span><span style="padding-right:50px;">House Republicans have escalated their push for Jack Smith to testify, subpoenaing the former special counsel to answer House Judiciary Committee questions about his federal prosecutions of President Trump behind closed doors. <a href="https://bsky.app/profile/washingtonpost.com/post/3m747tjjn2g23" target="_blank">washingtonpost.com</a> (2025-12-04 04:45:05)</span><span style="padding-right:50px;">Exclusive: European Rearmament Bank seeks merger with JPMorgan-backed rival multilateral lender reut.rs/4pgE4jF <a href="https://bsky.app/profile/reuters.com/post/3m747kuujfc2d" target="_blank">reuters.com</a> (2025-12-04 04:40:15)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47934.72 (🔺563.10 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23469.67 (🔺154.09 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 180.75 (🔻0.32 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.11 (🔻0.71 : 2025-12-03)</span>
+<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47936.33 (🔺564.71 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23480.64 (🔺165.06 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 180.80 (🔻0.26 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.15 (🔻0.67 : 2025-12-03)</span>
   </div>
 </div>
 
@@ -32,95 +32,92 @@
 
 ## News Headlines
 
-1. AI創薬加速へ、Excelsior Sciencesが9500万ドル調達
-2. リッツ ピーナッツバター クラッカー 回収、アレルギーリスク
-3. MGM National Harbor で銃撃事件、1人死亡、1人負傷
-4. ドルツリー、好調な需要で年間利益目標引き上げ
-5. マイクロン、AIチップ需要急増で一般消費者向けメモリ販売停止
-6. トランプ前大統領、閣議で居眠りか？健康状態に再び注目
+1.  ペンの監視機関、ヘグセス氏のシグナルチャットが規則違反と判断、部隊を危険にさらした可能性
+2.  トランプ大統領、米国在住のソマリア人に「元の場所に戻るべき」と発言
+3.  トランプ大統領の関税に対する最高裁判所の判決、政権に巨額の払い戻しを強いる可能性
+4.  共和党下院議員、ジャック・スミス氏に証言を要求、トランプ大統領の訴追について非公開で質問
+5.  イスラエル、爆撃容疑者の家族が所有するアパートを破壊
+6.  AIチップ需要急増でMicron、一般消費者向けメモリ販売を停止
 
 ----
 
+@nytimes.com
+
+Pips is a logic puzzle where players must arrange a set of dominoes to meet the conditions of the board to win. There are three new puzzles each day — can you beat them all? nyti.ms/4oAjNnP
+
+[2025-12-04 04:48:04](https://bsky.app/profile/nytimes.com/post/3m747yudwtc27)
+
+---
+
+@cbsnews.com
+
+<strong><span style="color: red;">BREAKING:</span> Pentagon watchdog finds Hegseth's Signal chat violated regulations, could have endangered troops, sources say.</strong>
+
+[2025-12-04 04:45:53](https://bsky.app/profile/cbsnews.com/post/3m747uxdbxv2z)
+
+---
+
 @reuters.com
 
-Excelsior Sciences raises $95 million to speed small molecule drug development using AI reut.rs/4pnLphw
+Hedge funds double down using near-record leverage in quest to boost returns reut.rs/4pI1wWH
 
-[2025-12-04 04:25:06](https://bsky.app/profile/reuters.com/post/3m746ps6bwk2n)
-
----
-
-@yahoofinance.com
-
-Former Intel CEO: Big AI firms are funding themselves — and that's not real demand
-
-[2025-12-04 04:21:11](https://bsky.app/profile/yahoofinance.com/post/3m746irfofs23)
-
----
-
-@nbcnews.com
-
-Cases of Ritz Peanut Butter Cracker Sandwiches sold in eight states are being recalled due to packs being incorrectly labeled and posing a risk to people with peanut allergies.
-
-[2025-12-04 04:20:12](https://bsky.app/profile/nbcnews.com/post/3m746gz6ydc2j)
-
----
-
-@forbes.com
-
-The megacap denied the report, claiming the story shows a “lack of understanding of the way a sales organization works and is compensated.”
-
-[2025-12-04 04:20:04](https://bsky.app/profile/forbes.com/post/3m746grx6gr2q)
+[2025-12-04 04:45:10](https://bsky.app/profile/reuters.com/post/3m747toerh327)
 
 ---
 
 @washingtonpost.com
 
-Police confirmed the death of one man and the injury of another at MGM National Harbor hotel and casino late Wednesday morning.
+House Republicans have escalated their push for Jack Smith to testify, subpoenaing the former special counsel to answer House Judiciary Committee questions about his federal prosecutions of President Trump behind closed doors.
 
-Officers responded to a shooting in the food court, where one man was found dead and another man had a graze wound.
-
-[2025-12-04 04:19:21](https://bsky.app/profile/washingtonpost.com/post/3m746fids462o)
-
----
-
-@wsj.com
-
-Developer Stephen Ross will work with Archer Aviation to help build a network of launchpads for a fleet of flying vehicles in South Florida.
-
-[2025-12-04 04:18:51](https://bsky.app/profile/wsj.com/post/3m746elzlaz2h)
-
----
-
-@en.afp.com
-
-He still mocks his predecessor as "Sleepy Joe" Biden. But it was Donald Trump who seemed to be fighting to stay awake at a cabinet meeting on Tuesday,  renewing scrutiny of the 79-year-old president's health. More: u.afp.com/Shyi 
-📸 Andrew Caballero-Reynolds
-
-[2025-12-04 04:16:02](https://bsky.app/profile/en.afp.com/post/3m7467laxyk2d)
+[2025-12-04 04:45:05](https://bsky.app/profile/washingtonpost.com/post/3m747tjjn2g23)
 
 ---
 
 @reuters.com
 
-Dollar Tree lifts annual profit target on steady demand for affordable items reut.rs/4pM7JRC
+Exclusive: European Rearmament Bank seeks merger with JPMorgan-backed rival multilateral lender reut.rs/4pgE4jF
 
-[2025-12-04 04:15:08](https://bsky.app/profile/reuters.com/post/3m7465xoyhp2i)
-
----
-
-@forbes.com
-
-Nicolas Puech is alleging his former wealth manager sold his shares in Hermès without his knowledge.
-
-[2025-12-04 04:15:02](https://bsky.app/profile/forbes.com/post/3m7465s7laq2x)
+[2025-12-04 04:40:15](https://bsky.app/profile/reuters.com/post/3m747kuujfc2d)
 
 ---
 
-@cnbc.com
+@nbcnews.com
 
-Micron stops selling memory to consumers as demand spikes from AI chips
+President Trump says Somalis in the U.S. should “go back to where they came from.”
 
-[2025-12-04 04:14:54](https://bsky.app/profile/cnbc.com/post/3m7465jzpsb23)
+[2025-12-04 04:40:06](https://bsky.app/profile/nbcnews.com/post/3m747kmds6a2c)
+
+---
+
+@nytimes.com
+
+A Supreme Court ruling against President Trump's tariffs could force his administration to pay back a substantial portion of the roughly $200 billion it has collected in duties since the start of the year. Some companies aren’t waiting to try to secure a speedy and substantial payout.
+
+[2025-12-04 04:40:02](https://bsky.app/profile/nytimes.com/post/3m747kibzf72l)
+
+---
+
+@wsj.com
+
+Why do new businesses fail? Here are the top 10 reasons, according to researchers.
+
+[2025-12-04 04:38:45](https://bsky.app/profile/wsj.com/post/3m747i6tktw2i)
+
+---
+
+@financialtimes.com
+
+ Zara-owner Inditex is the anti-fashion fashion house on.ft.com/48yQ88E  | opinion
+
+[2025-12-04 04:36:05](https://bsky.app/profile/financialtimes.com/post/3m747dgalte2w)
+
+---
+
+@reuters.com
+
+US import prices unexpectedly flat in September reut.rs/4pky21x
+
+[2025-12-04 04:35:08](https://bsky.app/profile/reuters.com/post/3m747bqbjss2n)
 
 ---
 
