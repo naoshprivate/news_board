@@ -1,9 +1,9 @@
-# [2025-12-04 02:30 updated](2025_12_04.md)
+# [2025-12-04 02:50 updated](2025_12_04.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Pennsylvania Gov. Josh Shapiro (D) said former vice president Kamala Harris told “blatant lies” about him in her new book.  “She’s trying to sell books and cover her a--,” Shapiro told the Atlantic. <a href="https://bsky.app/profile/washingtonpost.com/post/3m73y3mxyer23" target="_blank">washingtonpost.com</a> (2025-12-04 02:26:27)</span><span style="padding-right:50px;">The clock is ticking to buy Christmas gifts, but you still have time before Santa beats you to it—and we can help. We’ve put together a handy list of versatile gifts that can be delivered straight to your door. <a href="https://bsky.app/profile/nytimes.com/post/3m73y2w4ply2h" target="_blank">nytimes.com</a> (2025-12-04 02:26:03)</span><span style="padding-right:50px;">A bridge too far? Sicily project tests limits of Italy's ambitions reut.rs/49QwPKt <a href="https://bsky.app/profile/reuters.com/post/3m73xz6vrdh2w" target="_blank">reuters.com</a> (2025-12-04 02:25:05)</span><span style="padding-right:50px;">College grad unemployment could hit 25% in years ahead if we don't deal with AI job risk now: Senator Mark Warner <a href="https://bsky.app/profile/cnbc.com/post/3m73xuvu2w52g" target="_blank">cnbc.com</a> (2025-12-04 02:22:42)</span><span style="padding-right:50px;">Breaking News: President Trump said he would pardon Representative Henry Cuellar of Texas, a Democratic lawmaker who was awaiting trial on bribery charges. <a href="https://bsky.app/profile/nytimes.com/post/3m73xuavzn42p" target="_blank">nytimes.com</a> (2025-12-04 02:22:20)</span>
+<span style="padding-right:50px;">NEW: Democrats release never-before-seen images and videos of Epstein Island <a href="https://bsky.app/profile/axios.com/post/3m73z6pvgrs26" target="_blank">axios.com</a> (2025-12-04 02:46:05)</span><span style="padding-right:50px;">Hong Kong family returns to scene of deadly blaze to find 'everything vanished' reut.rs/3Y60MyU <a href="https://bsky.app/profile/reuters.com/post/3m73z4zimld2k" target="_blank">reuters.com</a> (2025-12-04 02:45:08)</span><span style="padding-right:50px;">These stocks could be added to the S&P 500 when benchmark reshuffles this month <a href="https://bsky.app/profile/cnbc.com/post/3m73yzeoqbb2o" target="_blank">cnbc.com</a> (2025-12-04 02:43:05)</span><span style="padding-right:50px;">Reflected light from the half a million satellites expected to launch into Earth's orbit in the coming years could contaminate not just ground-based imaging, but also almost all the readings taken by space telescopes, NASA astronomers warn. 🛰️ 🔭 💫  u.afp.com/ShyJ <a href="https://bsky.app/profile/en.afp.com/post/3m73yxifkib22" target="_blank">en.afp.com</a> (2025-12-04 02:42:02)</span><span style="padding-right:50px;">Trump launches immigration crackdown in New Orleans reut.rs/49Up4Db <a href="https://bsky.app/profile/reuters.com/post/3m73yu6accl2y" target="_blank">reuters.com</a> (2025-12-04 02:40:11)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47794.83 (🔺423.21 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23451.80 (🔺136.22 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 180.37 (🔻0.70 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.17 (🔻0.65 : 2025-12-03)</span>
+<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47847.28 (🔺475.66 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23455.88 (🔺140.30 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 180.38 (🔻0.68 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.13 (🔻0.69 : 2025-12-03)</span>
   </div>
 </div>
 
@@ -32,94 +32,93 @@
 
 ## News Headlines
 
-1.  ペンシルベニア州知事、ハリス前副大統領を批判：「明らかな嘘」
-2.  クリスマスプレゼントまだ間に合う！おすすめギフトリスト
-3.  トランプ大統領、収賄罪で起訴の民主党議員に恩赦
-4.  FDA、大規模なシュレッドチーズのリコール発表
-5.  AIリスクで大卒失業率25%の可能性も、上院議員が警鐘
-6.  ミャンマーのアヘン栽培、10年で最高水準に急増
+1.  エプスタイン島、未公開の画像と動画を民主党が公開
+2.  トランプ大統領、民主党議員の買収事件で恩赦
+3.  NASAの天文学者、衛星の増加による宇宙観測への影響を警告
+4.  トランプ大統領、ニューオーリンズで移民取り締まり強化
+5.  下院共和党議員、ジョンソン議長を「非効果的なリーダー」と批判
+6.  ミャンマーでのアヘン栽培、過去10年で最高水準に急増
 
 ----
 
-@washingtonpost.com
+@axios.com
 
-Pennsylvania Gov. Josh Shapiro (D) said former vice president Kamala Harris told “blatant lies” about him in her new book.
+NEW: Democrats release never-before-seen images and videos of Epstein Island
 
-“She’s trying to sell books and cover her a--,” Shapiro told the Atlantic.
-
-[2025-12-04 02:26:27](https://bsky.app/profile/washingtonpost.com/post/3m73y3mxyer23)
-
----
-
-@nytimes.com
-
-The clock is ticking to buy Christmas gifts, but you still have time before Santa beats you to it—and we can help. We’ve put together a handy list of versatile gifts that can be delivered straight to your door.
-
-[2025-12-04 02:26:03](https://bsky.app/profile/nytimes.com/post/3m73y2w4ply2h)
+[2025-12-04 02:46:05](https://bsky.app/profile/axios.com/post/3m73z6pvgrs26)
 
 ---
 
 @reuters.com
 
-A bridge too far? Sicily project tests limits of Italy's ambitions reut.rs/49QwPKt
+Hong Kong family returns to scene of deadly blaze to find 'everything vanished' reut.rs/3Y60MyU
 
-[2025-12-04 02:25:05](https://bsky.app/profile/reuters.com/post/3m73xz6vrdh2w)
+[2025-12-04 02:45:08](https://bsky.app/profile/reuters.com/post/3m73z4zimld2k)
 
 ---
 
 @cnbc.com
 
-College grad unemployment could hit 25% in years ahead if we don't deal with AI job risk now: Senator Mark Warner
+These stocks could be added to the S&P 500 when benchmark reshuffles this month
 
-[2025-12-04 02:22:42](https://bsky.app/profile/cnbc.com/post/3m73xuvu2w52g)
+[2025-12-04 02:43:05](https://bsky.app/profile/cnbc.com/post/3m73yzeoqbb2o)
 
 ---
 
-@nytimes.com
+@en.afp.com
 
-<strong><span style="color: red;">Breaking News</span>: President Trump said he would pardon Representative Henry Cuellar of Texas, a Democratic lawmaker who was awaiting trial on bribery charges.</strong>
+Reflected light from the half a million satellites expected to launch into Earth's orbit in the coming years could contaminate not just ground-based imaging, but also almost all the readings taken by space telescopes, NASA astronomers warn. 🛰️ 🔭 💫 
+u.afp.com/ShyJ
 
-[2025-12-04 02:22:20](https://bsky.app/profile/nytimes.com/post/3m73xuavzn42p)
+[2025-12-04 02:42:02](https://bsky.app/profile/en.afp.com/post/3m73yxifkib22)
+
+---
+
+@reuters.com
+
+Trump launches immigration crackdown in New Orleans reut.rs/49Up4Db
+
+[2025-12-04 02:40:11](https://bsky.app/profile/reuters.com/post/3m73yu6accl2y)
 
 ---
 
 @nbcnews.com
 
-A voluntary recall was issued for hundreds of thousands of cases of shredded cheese sold at major retailers, according to the FDA.
+Founded in 2002, ViaGen Pets and Equine is an Austin-based company able to preserve the genetics required to clone pets like dogs and cats. 
 
-[2025-12-04 02:20:18](https://bsky.app/profile/nbcnews.com/post/3m73xqmq4aw2t)
+[2025-12-04 02:40:04](https://bsky.app/profile/nbcnews.com/post/3m73ytxyx432h)
+
+---
+
+@npr.org
+
+The word "ideology" has become a fixture in American political rhetoric, invoked by leaders to cast opponents' beliefs as dangerous, stupid or unfounded. But it wasn't always this way. n.pr/4ovwmks
+
+[2025-12-04 02:38:28](https://bsky.app/profile/npr.org/post/3m73yr4bsvq23)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Henry Cuellar: Trump says he is pardoning Democratic congressman in bribery case 
+
+[2025-12-04 02:37:28](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m73ypds7e52l)
+
+---
+
+@cnn.com
+
+The report, based on a survey of foreign service members, found that a vast majority of respondents — 98% — said morale had declined since January, and a third were considering leaving the foreign service early.
+
+[2025-12-04 02:36:53](https://bsky.app/profile/cnn.com/post/3m73yobzxzw2q)
 
 ---
 
 @wsj.com
 
-President Trump said he is pardoning Texas Democrat Rep. Henry Cuellar and his wife, who were charged last year with allegedly taking nearly $600,000 in foreign bribes.
+Exclusive: GOP Rep. Elise Stefanik calls Speaker Mike Johnson an ineffective leader, saying in an interview he is losing control of House Republicans.
 
-[2025-12-04 02:19:32](https://bsky.app/profile/wsj.com/post/3m73xpar6d52x)
-
----
-
-@axios.com
-
-NEW: Trump's new lower fuel-economy rules will make cars cheaper, White House says
-
-[2025-12-04 02:15:44](https://bsky.app/profile/axios.com/post/3m73xihgp222v)
-
----
-
-@reuters.com
-
-Somalis condemn Trump's insults, though some say he spoke the 'truth' reut.rs/48MW4fA
-
-[2025-12-04 02:15:11](https://bsky.app/profile/reuters.com/post/3m73xhhhfhx2n)
-
----
-
-@cnbc.com
-
-Stocks making the biggest midday moves: Microsoft, Netflix, Marvell Technology, GitLab & more
-
-[2025-12-04 02:12:45](https://bsky.app/profile/cnbc.com/post/3m73xd4hob32h)
+[2025-12-04 02:36:44](https://bsky.app/profile/wsj.com/post/3m73ynyzro22h)
 
 ---
 
