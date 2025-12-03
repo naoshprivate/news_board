@@ -1,9 +1,9 @@
-# [2025-12-04 02:10 updated](2025_12_04.md)
+# [2025-12-04 02:30 updated](2025_12_04.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Treasury Secretary Bessent stops short of confirming Kevin Hassett as next Fed chair <a href="https://bsky.app/profile/yahoofinance.com/post/3m73wxemgqj23" target="_blank">yahoofinance.com</a> (2025-12-04 02:06:11)</span><span style="padding-right:50px;">Krista LeRay rediscovered her needlepoint hobby during the Covid-19 pandemic. Now she runs a crafts business that brings in more than $4.4 million per year. <a href="https://bsky.app/profile/cnbc.com/post/3m73wwun4op2i" target="_blank">cnbc.com</a> (2025-12-04 02:05:54)</span><span style="padding-right:50px;">Democrats on the House Oversight Committee have released new photos and videos from a private Caribbean island once owned by Jeffrey Epstein https://cnn.it/4iAUMYj <a href="https://bsky.app/profile/cnn.com/post/3m73wvkhsdr2q" target="_blank">cnn.com</a> (2025-12-04 02:05:10)</span><span style="padding-right:50px;">UK's Schroders examines options for Benchmark business, sources say reut.rs/4pLKpDy <a href="https://bsky.app/profile/reuters.com/post/3m73wvgpp6727" target="_blank">reuters.com</a> (2025-12-04 02:05:06)</span><span style="padding-right:50px;">Brief glitches in video calls may seem like no big deal, but new research shows they can have a negative effect on how a person is perceived by the viewer. n.pr/4pjHClg <a href="https://bsky.app/profile/npr.org/post/3m73wudxpn42j" target="_blank">npr.org</a> (2025-12-04 02:04:29)</span>
+<span style="padding-right:50px;">Pennsylvania Gov. Josh Shapiro (D) said former vice president Kamala Harris told “blatant lies” about him in her new book.  “She’s trying to sell books and cover her a--,” Shapiro told the Atlantic. <a href="https://bsky.app/profile/washingtonpost.com/post/3m73y3mxyer23" target="_blank">washingtonpost.com</a> (2025-12-04 02:26:27)</span><span style="padding-right:50px;">The clock is ticking to buy Christmas gifts, but you still have time before Santa beats you to it—and we can help. We’ve put together a handy list of versatile gifts that can be delivered straight to your door. <a href="https://bsky.app/profile/nytimes.com/post/3m73y2w4ply2h" target="_blank">nytimes.com</a> (2025-12-04 02:26:03)</span><span style="padding-right:50px;">A bridge too far? Sicily project tests limits of Italy's ambitions reut.rs/49QwPKt <a href="https://bsky.app/profile/reuters.com/post/3m73xz6vrdh2w" target="_blank">reuters.com</a> (2025-12-04 02:25:05)</span><span style="padding-right:50px;">College grad unemployment could hit 25% in years ahead if we don't deal with AI job risk now: Senator Mark Warner <a href="https://bsky.app/profile/cnbc.com/post/3m73xuvu2w52g" target="_blank">cnbc.com</a> (2025-12-04 02:22:42)</span><span style="padding-right:50px;">Breaking News: President Trump said he would pardon Representative Henry Cuellar of Texas, a Democratic lawmaker who was awaiting trial on bribery charges. <a href="https://bsky.app/profile/nytimes.com/post/3m73xuavzn42p" target="_blank">nytimes.com</a> (2025-12-04 02:22:20)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47703.01 (🔺331.39 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23400.41 (🔺84.83 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 180.08 (🔻0.98 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.18 (🔻0.64 : 2025-12-03)</span>
+<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47794.83 (🔺423.21 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23451.80 (🔺136.22 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 180.37 (🔻0.70 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.17 (🔻0.65 : 2025-12-03)</span>
   </div>
 </div>
 
@@ -32,97 +32,94 @@
 
 ## News Headlines
 
-1. エプスタイン島、新たな写真と映像が公開
-2. ミャンマー、アヘン栽培が過去10年で最高水準に
-3. トランプ大統領、民主党議員クエイヤー氏に恩赦
-4. ヨーロッパ、2027年までにロシア産ガス輸入を全面禁止で合意
-5. 米民間雇用者数、11月大幅減少
-6. フランスの猫、隣人からの苦情で外出禁止に
+1.  ペンシルベニア州知事、ハリス前副大統領を批判：「明らかな嘘」
+2.  クリスマスプレゼントまだ間に合う！おすすめギフトリスト
+3.  トランプ大統領、収賄罪で起訴の民主党議員に恩赦
+4.  FDA、大規模なシュレッドチーズのリコール発表
+5.  AIリスクで大卒失業率25%の可能性も、上院議員が警鐘
+6.  ミャンマーのアヘン栽培、10年で最高水準に急増
 
 ----
 
-@yahoofinance.com
+@washingtonpost.com
 
-Treasury Secretary Bessent stops short of confirming Kevin Hassett as next Fed chair
+Pennsylvania Gov. Josh Shapiro (D) said former vice president Kamala Harris told “blatant lies” about him in her new book.
 
-[2025-12-04 02:06:11](https://bsky.app/profile/yahoofinance.com/post/3m73wxemgqj23)
+“She’s trying to sell books and cover her a--,” Shapiro told the Atlantic.
+
+[2025-12-04 02:26:27](https://bsky.app/profile/washingtonpost.com/post/3m73y3mxyer23)
+
+---
+
+@nytimes.com
+
+The clock is ticking to buy Christmas gifts, but you still have time before Santa beats you to it—and we can help. We’ve put together a handy list of versatile gifts that can be delivered straight to your door.
+
+[2025-12-04 02:26:03](https://bsky.app/profile/nytimes.com/post/3m73y2w4ply2h)
+
+---
+
+@reuters.com
+
+A bridge too far? Sicily project tests limits of Italy's ambitions reut.rs/49QwPKt
+
+[2025-12-04 02:25:05](https://bsky.app/profile/reuters.com/post/3m73xz6vrdh2w)
 
 ---
 
 @cnbc.com
 
-Krista LeRay rediscovered her needlepoint hobby during the Covid-19 pandemic. Now she runs a crafts business that brings in more than $4.4 million per year.
+College grad unemployment could hit 25% in years ahead if we don't deal with AI job risk now: Senator Mark Warner
 
-[2025-12-04 02:05:54](https://bsky.app/profile/cnbc.com/post/3m73wwun4op2i)
+[2025-12-04 02:22:42](https://bsky.app/profile/cnbc.com/post/3m73xuvu2w52g)
 
 ---
 
-@cnn.com
+@nytimes.com
 
-Democrats on the House Oversight Committee have released new photos and videos from a private Caribbean island once owned by Jeffrey Epstein
-https://cnn.it/4iAUMYj
+<strong><span style="color: red;">Breaking News</span>: President Trump said he would pardon Representative Henry Cuellar of Texas, a Democratic lawmaker who was awaiting trial on bribery charges.</strong>
 
-[2025-12-04 02:05:10](https://bsky.app/profile/cnn.com/post/3m73wvkhsdr2q)
+[2025-12-04 02:22:20](https://bsky.app/profile/nytimes.com/post/3m73xuavzn42p)
+
+---
+
+@nbcnews.com
+
+A voluntary recall was issued for hundreds of thousands of cases of shredded cheese sold at major retailers, according to the FDA.
+
+[2025-12-04 02:20:18](https://bsky.app/profile/nbcnews.com/post/3m73xqmq4aw2t)
+
+---
+
+@wsj.com
+
+President Trump said he is pardoning Texas Democrat Rep. Henry Cuellar and his wife, who were charged last year with allegedly taking nearly $600,000 in foreign bribes.
+
+[2025-12-04 02:19:32](https://bsky.app/profile/wsj.com/post/3m73xpar6d52x)
+
+---
+
+@axios.com
+
+NEW: Trump's new lower fuel-economy rules will make cars cheaper, White House says
+
+[2025-12-04 02:15:44](https://bsky.app/profile/axios.com/post/3m73xihgp222v)
 
 ---
 
 @reuters.com
 
-UK's Schroders examines options for Benchmark business, sources say reut.rs/4pLKpDy
+Somalis condemn Trump's insults, though some say he spoke the 'truth' reut.rs/48MW4fA
 
-[2025-12-04 02:05:06](https://bsky.app/profile/reuters.com/post/3m73wvgpp6727)
-
----
-
-@npr.org
-
-Brief glitches in video calls may seem like no big deal, but new research shows they can have a negative effect on how a person is perceived by the viewer. n.pr/4pjHClg
-
-[2025-12-04 02:04:29](https://bsky.app/profile/npr.org/post/3m73wudxpn42j)
+[2025-12-04 02:15:11](https://bsky.app/profile/reuters.com/post/3m73xhhhfhx2n)
 
 ---
 
-@financialtimes.com
+@cnbc.com
 
- The challenge for HSBC’s new chair: make yourself utterly replaceable on.ft.com/4pE8KLi  | opinion
+Stocks making the biggest midday moves: Microsoft, Netflix, Marvell Technology, GitLab & more
 
-[2025-12-04 02:01:44](https://bsky.app/profile/financialtimes.com/post/3m73wpg47wq26)
-
----
-
-@reuters.com
-
-Reuters NEXT New York live: UN's Guterres says Russia-Ukraine war 'far from a solution' reut.rs/3Y41Bbp
-
-[2025-12-04 02:01:11](https://bsky.app/profile/reuters.com/post/3m73wogmctj2i)
-
----
-
-@en.afp.com
-
-🇮🇩 Indonesia bucks pressure to label floods national disaster
-
-Indonesia's government is resisting growing pressure to declare a national disaster over devastating floods that killed hundreds of people and laid waste to parts of Sumatra island.
-
-[2025-12-04 02:00:52](https://bsky.app/profile/en.afp.com/post/3m73wnuh3ci22)
-
----
-
-@washingtonpost.com
-
-A masked burglar broke into a closed liquor store and hit the bottom shelf, where the scotch and whisky were stored. Bottles were smashed, a ceiling tile collapsed and alcohol pooled on the floor.
-
-The suspect: a raccoon.
-
-[2025-12-04 02:00:40](https://bsky.app/profile/washingtonpost.com/post/3m73wnj65ue2x)
-
----
-
-@apnews.com
-
-Opium poppy cultivation in Myanmar has surged to its highest level in a decade as the nation enduring a long conflict remains one of the world's primary suppliers for the illicit drug economy.
-
-[2025-12-04 02:00:35](https://bsky.app/profile/apnews.com/post/3m73wnepzcs27)
+[2025-12-04 02:12:45](https://bsky.app/profile/cnbc.com/post/3m73xd4hob32h)
 
 ---
 
