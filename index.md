@@ -1,9 +1,9 @@
-# [2025-12-04 00:50 updated](2025_12_04.md)
+# [2025-12-04 01:10 updated](2025_12_04.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Hong Kong orders removal of scaffolding mesh after deadly blaze <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m73sih5a2p2l" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-04 00:46:14)</span><span style="padding-right:50px;">Salesforce stock is historically cheap, but investors still aren’t buying amid AI fears.  The stock has plunged 30% in 2025 to make the company the second-worst performer in the Dow Jones, its lowest market valuation since Salesforce went public in 2004. <a href="https://bsky.app/profile/yahoofinance.com/post/3m73sgjvboc2u" target="_blank">yahoofinance.com</a> (2025-12-04 00:45:11)</span><span style="padding-right:50px;">Vikram Sahu approved as Bank of America India CEO by central bank, memo shows reut.rs/4iDdaA7 <a href="https://bsky.app/profile/reuters.com/post/3m73sghl55f2n" target="_blank">reuters.com</a> (2025-12-04 00:45:08)</span><span style="padding-right:50px;">Five members of Congress from both parties and both chambers are asking AG Pam Bondi for a briefing and status update by the end of the week on the legally mandated release of the Jeffrey Epstein files. <a href="https://bsky.app/profile/nbcnews.com/post/3m73sfmk4hd2j" target="_blank">nbcnews.com</a> (2025-12-04 00:44:40)</span><span style="padding-right:50px;">From indies like Blue Prince to big console exclusives like Donkey Kong Bananza, NPR staff members and contributors round up their favorite games of 2025. n.pr/3K8WaF5 <a href="https://bsky.app/profile/npr.org/post/3m73sbwilrb2a" target="_blank">npr.org</a> (2025-12-04 00:42:36)</span>
+<span style="padding-right:50px;">Blue Owl executives and staff bought $200mn in shares after sell-off on.ft.com/3M7lbRF <a href="https://bsky.app/profile/financialtimes.com/post/3m73toscecw26" target="_blank">financialtimes.com</a> (2025-12-04 01:07:42)</span><span style="padding-right:50px;">Claude, a rare albino alligator and the unofficial mascot of the California Academy of Sciences in San Francisco, has died at age 30, the museum announced. bit.ly/3Y5x7WA  📸: Justin Sullivan, Getty Images <a href="https://bsky.app/profile/usatoday.com/post/3m73tnl37oo2u" target="_blank">usatoday.com</a> (2025-12-04 01:07:01)</span><span style="padding-right:50px;">Pemex debt is red flag for potential partners as Mexico seeks to boost oil output reut.rs/48ymT68 <a href="https://bsky.app/profile/reuters.com/post/3m73tk3tmbm22" target="_blank">reuters.com</a> (2025-12-04 01:05:04)</span><span style="padding-right:50px;">From @theathletic.com: Lane Kiffin left Ole Miss for LSU amid heavy criticism from the Rebels fan base and much of the college football world. Now, his former players are calling him out for allegedly lying in his farewell statement. <a href="https://bsky.app/profile/nytimes.com/post/3m73tidfwss2y" target="_blank">nytimes.com</a> (2025-12-04 01:04:05)</span><span style="padding-right:50px;">A British nursery worker has pleaded guilty to 26 offenses against children, including nine counts of sexual assault, in what the Metropolitan Police has described as “one of the most harrowing and complex child sexual abuse investigations” undertaken by the force. <a href="https://bsky.app/profile/cnn.com/post/3m73tgj6kys2q" target="_blank">cnn.com</a> (2025-12-04 01:03:04)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47633.79 (🔺262.17 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23427.08 (🔺111.50 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 181.25 (🔺0.18 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.32 (🔻0.50 : 2025-12-03)</span>
+<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47678.65 (🔺307.03 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23402.20 (🔺86.62 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 180.70 (🔻0.37 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.13 (🔻0.69 : 2025-12-03)</span>
   </div>
 </div>
 
@@ -32,96 +32,94 @@
 
 ## News Headlines
 
-1. 香港、死者が出た火災を受け足場のメッシュ撤去を命令
-2. Salesforce株が歴史的安値も、AIへの懸念で投資家は買い控え
-3. インド中銀、ヴィクラム・サフ氏をバンク・オブ・アメリカ・インディアCEOに承認
-4. トランプ政権、民主党主導州へのSNAP給付金支給を停止へ
-5. イスラエル、一部パレスチナ人のガザからエジプトへの出国許可を発表
-6. Microsoft株、AI製品の売上目標未達報道で急落
+1. Blue Owl幹部、株価急落後に2億ドルの自社株買い
+2. カリフォルニア科学アカデミーのクロード、30歳で死去
+3. Pemexの債務、提携候補にとって危険信号
+4. メトロポリタン警察、「最も悲惨な」児童性的虐待事件で保育士を逮捕
+5. トランプ大統領、収賄罪で告発された民主党議員とその妻を恩赦
+6. メキシコがカルテル幹部を秘密裏に移送、米国へ引き渡し
 
 ----
 
-@bbcnews-world-rss.bsky.social
+@financialtimes.com
 
-Hong Kong orders removal of scaffolding mesh after deadly blaze
+Blue Owl executives and staff bought $200mn in shares after sell-off on.ft.com/3M7lbRF
 
-[2025-12-04 00:46:14](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m73sih5a2p2l)
-
----
-
-@yahoofinance.com
-
-Salesforce stock is historically cheap, but investors still aren’t buying amid AI fears.
-
-The stock has plunged 30% in 2025 to make the company the second-worst performer in the Dow Jones, its lowest market valuation since Salesforce went public in 2004.
-
-[2025-12-04 00:45:11](https://bsky.app/profile/yahoofinance.com/post/3m73sgjvboc2u)
+[2025-12-04 01:07:42](https://bsky.app/profile/financialtimes.com/post/3m73toscecw26)
 
 ---
 
-@reuters.com
+@usatoday.com
 
-Vikram Sahu approved as Bank of America India CEO by central bank, memo shows reut.rs/4iDdaA7
+Claude, a rare albino alligator and the unofficial mascot of the California Academy of Sciences in San Francisco, has died at age 30, the museum announced. bit.ly/3Y5x7WA
 
-[2025-12-04 00:45:08](https://bsky.app/profile/reuters.com/post/3m73sghl55f2n)
+📸: Justin Sullivan, Getty Images
 
----
-
-@nbcnews.com
-
-Five members of Congress from both parties and both chambers are asking AG Pam Bondi for a briefing and status update by the end of the week on the legally mandated release of the Jeffrey Epstein files.
-
-[2025-12-04 00:44:40](https://bsky.app/profile/nbcnews.com/post/3m73sfmk4hd2j)
-
----
-
-@npr.org
-
-From indies like Blue Prince to big console exclusives like Donkey Kong Bananza, NPR staff members and contributors round up their favorite games of 2025. n.pr/3K8WaF5
-
-[2025-12-04 00:42:36](https://bsky.app/profile/npr.org/post/3m73sbwilrb2a)
+[2025-12-04 01:07:01](https://bsky.app/profile/usatoday.com/post/3m73tnl37oo2u)
 
 ---
 
 @reuters.com
 
-Global accounting body consults on new model for assessing bank risks reut.rs/3KcPc1P
+Pemex debt is red flag for potential partners as Mexico seeks to boost oil output reut.rs/48ymT68
 
-[2025-12-04 00:40:10](https://bsky.app/profile/reuters.com/post/3m73s5kqdzi27)
-
----
-
-@nbcnews.com
-
-The Trump administration indicates that it will begin withholding SNAP benefits from recipients in most Democratic-led states starting next week after those states refused to provide the Agriculture Department with data, including recipients’ names and immigration statuses.
-
-[2025-12-04 00:40:09](https://bsky.app/profile/nbcnews.com/post/3m73s5jqxld2t)
+[2025-12-04 01:05:04](https://bsky.app/profile/reuters.com/post/3m73tk3tmbm22)
 
 ---
 
 @nytimes.com
 
-Israel said on Wednesday that it would begin allowing some Palestinians to leave the Gaza Strip for Egypt “in the coming days” through the Rafah border crossing. But the Egyptian government on Wednesday denied that it would reopen soon.
+From @theathletic.com: Lane Kiffin left Ole Miss for LSU amid heavy criticism from the Rebels fan base and much of the college football world. Now, his former players are calling him out for allegedly lying in his farewell statement.
 
-[2025-12-04 00:40:05](https://bsky.app/profile/nytimes.com/post/3m73s5gbvhh2e)
-
----
-
-@en.afp.com
-
-🇮🇱 🇪🇬 🇵🇸 Israel said it would open the Rafah crossing from Gaza to Egypt to allow residents to exit the Palestinian territory "in the coming days," but Egypt denied such a deal with Israel. 
-➡️ u.afp.com/Sh9y
-
-[2025-12-04 00:40:01](https://bsky.app/profile/en.afp.com/post/3m73s5cqmae2e)
+[2025-12-04 01:04:05](https://bsky.app/profile/nytimes.com/post/3m73tidfwss2y)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@cnn.com
 
-フィリピン 250人以上死亡の台風から1か月 今も26万人超が避難
-https://news.web.nhk/newsweb/na/na-k10014993321000
+A British nursery worker has pleaded guilty to 26 offenses against children, including nine counts of sexual assault, in what the Metropolitan Police has described as “one of the most harrowing and complex child sexual abuse investigations” undertaken by the force.
 
-[2025-12-04 00:39:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m73s3mrshd2j)
+[2025-12-04 01:03:04](https://bsky.app/profile/cnn.com/post/3m73tgj6kys2q)
+
+---
+
+@cnbc.com
+
+Bessent says Trump admin will be able to replicate tariffs even if it loses Supreme Court decision
+
+[2025-12-04 01:02:42](https://bsky.app/profile/cnbc.com/post/3m73tfumzpf2h)
+
+---
+
+@reuters.com
+
+American Eagle soars as Sweeney campaign draws in shoppers reut.rs/44Jxiuk
+
+[2025-12-04 01:00:57](https://bsky.app/profile/reuters.com/post/3m73tcqkaj32e)
+
+---
+
+@usatoday.com
+
+Even millionaires don't feel wealthy these days
+
+[2025-12-04 01:00:32](https://bsky.app/profile/usatoday.com/post/3m73tbye5pq2m)
+
+---
+
+@apnews.com
+
+San Francisco has filed a lawsuit against major food manufacturers like Coca-Cola and Nestle, claiming ultraprocessed foods are causing a public health crisis.
+
+[2025-12-04 01:00:27](https://bsky.app/profile/apnews.com/post/3m73tbtcari2c)
+
+---
+
+@nbcnews.com
+
+Elden Campbell, the gentle giant who grew up in Inglewood dreaming of Lakers gold before carving out a 15-year career of quiet excellence, has died at the age of 57.
+
+[2025-12-04 01:00:24](https://bsky.app/profile/nbcnews.com/post/3m73tbr2l2g2h)
 
 ---
 
