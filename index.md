@@ -1,9 +1,9 @@
-# [2025-12-03 21:10 updated](2025_12_03.md)
+# [2025-12-03 21:30 updated](2025_12_03.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">2027年ラグビーワールドカップ 日本はフランスと同組に https://news.web.nhk/newsweb/na/na-k10014993161000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m73gefmeir2n" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 21:09:13)</span><span style="padding-right:50px;">自民 衆院の定数削減 自民と維新の実務者まとめた法案了承 https://news.web.nhk/newsweb/na/na-k10014993211000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m73geayuee2r" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 21:09:07)</span><span style="padding-right:50px;">日本とASEANの若手ビジネスリーダー 高市首相に提言 https://news.web.nhk/newsweb/na/na-k10014993261000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m73ge4lvdg2e" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 21:09:02)</span><span style="padding-right:50px;">🖊️ Mainstream media ends the year as dominant as ever in capturing Trump's attention and setting Washington's agenda. <a href="https://bsky.app/profile/axios.com/post/3m73gdvdxas2n" target="_blank">axios.com</a> (2025-12-03 21:08:57)</span><span style="padding-right:50px;">外国人留学生の学費値上げ 国内最多の早稲田大も検討 https://news.web.nhk/newsweb/na/na-k10014993231000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m73g6qmw3m2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 21:06:02)</span>
+<span style="padding-right:50px;">Founded just two years ago by second-time founders, Decagon’s AI agents are used by more than 100 companies to handle customer service tasks. But can the young, hungry team keep up with well-resourced incumbents? <a href="https://bsky.app/profile/forbes.com/post/3m73hfxe2dk2b" target="_blank">forbes.com</a> (2025-12-03 21:28:00)</span><span style="padding-right:50px;">This year’s honorees are reinventing nuclear reactors, pioneering solar panel recycling, and even fighting global warming by cutting cow burps. <a href="https://bsky.app/profile/forbes.com/post/3m73hewpgm22b" target="_blank">forbes.com</a> (2025-12-03 21:27:26)</span><span style="padding-right:50px;">30 Under 30 Retail And E-Commerce 2026: Meet The Founders Defying Tariffs And Leveraging AI <a href="https://bsky.app/profile/forbes.com/post/3m73hedlpfs2b" target="_blank">forbes.com</a> (2025-12-03 21:27:06)</span><span style="padding-right:50px;">Meet the innovators electrifying boats, securing skies, and reinventing logistics, aerospace, and infrastructure. <a href="https://bsky.app/profile/forbes.com/post/3m73hdueqfk2b" target="_blank">forbes.com</a> (2025-12-03 21:26:50)</span><span style="padding-right:50px;">A look behind the statistics of the 2026 Under 30 List—from $3.8 billion in funding to 200 million fans online. <a href="https://bsky.app/profile/forbes.com/post/3m73hdacjmk2b" target="_blank">forbes.com</a> (2025-12-03 21:26:29)</span>
   </div>
 </div>
 
@@ -32,96 +32,92 @@
 
 ## News Headlines
 
-1. ラグビーW杯2027、日本はフランスと同組に決定
-2. 自民・維新、衆院定数削減法案で合意
-3. 早稲田大、外国人留学生の学費値上げを検討
-4. 中国発「麻辣湯」ブーム、新規開店3年で8倍超
-5. トランプ氏、詐欺師の刑を減刑
-6. 富山市で初雪観測、長野県に大雪警報
+1. AI顧客サービス企業Decagon、急成長の裏で大手との競争激化
+2. 30 Under 30 リスト発表：核融合、太陽光リサイクル、牛のゲップ削減など革新的技術
+3. 2026年施行：新たな税制改正、寄付控除戦略が重要に
+4. マレーシア航空MH370便、10年超の時を経て捜索再開へ
+5. EU、ロシア産ガス輸入を永久停止で合意
+6. ソフトバンク柳町、推定年俸1億1000万円で契約更改
 
 ----
 
-@nhknewsunofficial.bsky.social
+@forbes.com
 
-2027年ラグビーワールドカップ 日本はフランスと同組に
-https://news.web.nhk/newsweb/na/na-k10014993161000
+Founded just two years ago by second-time founders, Decagon’s AI agents are used by more than 100 companies to handle customer service tasks. But can the young, hungry team keep up with well-resourced incumbents?
 
-[2025-12-03 21:09:13](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m73gefmeir2n)
-
----
-
-@nhknewsunofficial.bsky.social
-
-自民 衆院の定数削減 自民と維新の実務者まとめた法案了承
-https://news.web.nhk/newsweb/na/na-k10014993211000
-
-[2025-12-03 21:09:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m73geayuee2r)
-
----
-
-@nhknewsunofficial.bsky.social
-
-日本とASEANの若手ビジネスリーダー 高市首相に提言
-https://news.web.nhk/newsweb/na/na-k10014993261000
-
-[2025-12-03 21:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m73ge4lvdg2e)
-
----
-
-@axios.com
-
-🖊️ Mainstream media ends the year as dominant as ever in capturing Trump's attention and setting Washington's agenda.
-
-[2025-12-03 21:08:57](https://bsky.app/profile/axios.com/post/3m73gdvdxas2n)
-
----
-
-@nhknewsunofficial.bsky.social
-
-外国人留学生の学費値上げ 国内最多の早稲田大も検討
-https://news.web.nhk/newsweb/na/na-k10014993231000
-
-[2025-12-03 21:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m73g6qmw3m2p)
-
----
-
-@bloomberg.com
-
-In today's Green Daily: A new analysis of the rising tide of plastic, a widely-referenced climate study gets retracted, and how California is trying to bring down the cost of heat pumps and induction stoves.
-
-[2025-12-03 21:05:51](https://bsky.app/profile/bloomberg.com/post/3m73g6dnwgs2g)
+[2025-12-03 21:28:00](https://bsky.app/profile/forbes.com/post/3m73hfxe2dk2b)
 
 ---
 
 @forbes.com
 
-The ridehail giant’s partnership with the self-driving startup is part of its push to be a global leader in operating autonomous cars and delivery vehicles.
+This year’s honorees are reinventing nuclear reactors, pioneering solar panel recycling, and even fighting global warming by cutting cow burps.
 
-[2025-12-03 21:05:04](https://bsky.app/profile/forbes.com/post/3m73g4xgii22p)
+[2025-12-03 21:27:26](https://bsky.app/profile/forbes.com/post/3m73hewpgm22b)
+
+---
+
+@forbes.com
+
+30 Under 30 Retail And E-Commerce 2026: Meet The Founders Defying Tariffs And Leveraging AI
+
+[2025-12-03 21:27:06](https://bsky.app/profile/forbes.com/post/3m73hedlpfs2b)
+
+---
+
+@forbes.com
+
+Meet the innovators electrifying boats, securing skies, and reinventing logistics, aerospace, and infrastructure.
+
+[2025-12-03 21:26:50](https://bsky.app/profile/forbes.com/post/3m73hdueqfk2b)
+
+---
+
+@forbes.com
+
+A look behind the statistics of the 2026 Under 30 List—from $3.8 billion in funding to 200 million fans online.
+
+[2025-12-03 21:26:29](https://bsky.app/profile/forbes.com/post/3m73hdacjmk2b)
+
+---
+
+@forbes.com
+
+For this year’s Forbes 30 Under 30 U.S. list, all candidates had to be age 29 or under as of December 31, 2025 and never before named to a U.S., Europe or Asia Under 30 list.
+
+[2025-12-03 21:26:11](https://bsky.app/profile/forbes.com/post/3m73hconsdc2b)
+
+---
+
+@forbes.com
+
+Since the 2017 tax reform, fewer donors are able to claim deductions for their gifts. But with the right strategies, you may be able to turn your generosity into tax savings this year—before new changes hit in 2026.
+
+[2025-12-03 21:25:34](https://bsky.app/profile/forbes.com/post/3m73hblqamc2b)
+
+---
+
+@forbes.com
+
+This AI Startup Is Cutting Through Construction Red Tape
+
+[2025-12-03 21:25:18](https://bsky.app/profile/forbes.com/post/3m73hb4lhw22b)
 
 ---
 
 @reuters.com
 
-Indian plane parts supplier Aequs' $103 million IPO fully subscribed reut.rs/4iCBVwj
+Funds run low at UK's Thames Water as rescue talks drag on reut.rs/4pOQWxm
 
-[2025-12-03 21:05:03](https://bsky.app/profile/reuters.com/post/3m73g4wajyq2r)
-
----
-
-@cnbc.com
-
-Why aspirational luxury shopping is losing steam — and what’s ahead in 2026
-
-[2025-12-03 21:04:47](https://bsky.app/profile/cnbc.com/post/3m73g4gc3dg2r)
+[2025-12-03 21:25:05](https://bsky.app/profile/reuters.com/post/3m73hapzfhe22)
 
 ---
 
-@reuters.com
+@forbes.com
 
-How LandSpace became SpaceX's biggest Chinese challenger reut.rs/3KBlQKA
+Border Patrol’s Digital Playbook: Hack iPhones, Raid iCloud Accounts
 
-[2025-12-03 21:00:55](https://bsky.app/profile/reuters.com/post/3m73fvjtlcq2k)
+[2025-12-03 21:24:59](https://bsky.app/profile/forbes.com/post/3m73hakjwhs2b)
 
 ---
 
