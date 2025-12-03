@@ -1,9 +1,9 @@
-# [2025-12-03 20:30 updated](2025_12_03.md)
+# [2025-12-03 20:50 updated](2025_12_03.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Trump signals Kevin Hassett as his pick for Fed chair—markets now see around an 85% chance he gets the job. What does this mean for rates? reut.rs/48gupDJ <a href="https://bsky.app/profile/reuters.com/post/3m73dzs4tg22q" target="_blank">reuters.com</a> (2025-12-03 20:27:31)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】長野地域・中野飯山地域・大北地域に大雪警報 (2025-12-03 20:23:00) #ニュース  🟨警報注意報 🔗https://www.jma.go.jp/bosai/warning/#lang=ja&area_type=offices&area_code=200000 <a href="https://bsky.app/profile/sokuho.news/post/3m73dw3a7sc2y" target="_blank">sokuho.news</a> (2025-12-03 20:25:26)</span><span style="padding-right:50px;">A crystal Fabergé egg laced with platinum snowflakes and encrusted with thousands of tiny rose diamonds sold in London on Tuesday for more than $30 million, an auction record for a creation by the famed Russian jeweler. <a href="https://bsky.app/profile/nytimes.com/post/3m73dvfcctf26" target="_blank">nytimes.com</a> (2025-12-03 20:25:03)</span><span style="padding-right:50px;">Former EU foreign policy chief Mogherini accused of fraud and corruption reut.rs/48MrmmJ <a href="https://bsky.app/profile/reuters.com/post/3m73dvf44bw2k" target="_blank">reuters.com</a> (2025-12-03 20:25:03)</span><span style="padding-right:50px;">Kyiv is widening its campaign against Russia’s energy architecture, seeking to deprive it of vital revenue, but that strategy comes with risks. <a href="https://bsky.app/profile/wsj.com/post/3m73dqe2kyc2w" target="_blank">wsj.com</a> (2025-12-03 20:22:14)</span>
+<span style="padding-right:50px;">Smiths Group to sell baggage-screening unit to CVC for $2.65 billion reut.rs/4rygTmt <a href="https://bsky.app/profile/reuters.com/post/3m73ezhnwk222" target="_blank">reuters.com</a> (2025-12-03 20:45:14)</span><span style="padding-right:50px;">「お米券」などの食料品支援 自治体向け説明会を開催 農水省 https://news.web.nhk/newsweb/na/na-k10014992831000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m73ez6vch52b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 20:45:02)</span><span style="padding-right:50px;">Steve Rosenberg: Putin showing no signs of compromise <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m73eu4ssra2e" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-03 20:42:13)</span><span style="padding-right:50px;">LIVE: UK Prime Minister Keir Starmer takes questions in parliament youtube.com/live/ysltjmr... <a href="https://bsky.app/profile/reuters.com/post/3m73esjlfmc23" target="_blank">reuters.com</a> (2025-12-03 20:41:21)</span><span style="padding-right:50px;">Heard on the Street: The AI revolution has created a unique and high-quality problem for Nvidia: The chip maker makes too much money. <a href="https://bsky.app/profile/wsj.com/post/3m73eqpgug42i" target="_blank">wsj.com</a> (2025-12-03 20:40:20)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.30 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.43 (🔻0.39 : 2025-12-03)</span>
+<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.30 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.44 (🔻0.38 : 2025-12-03)</span>
   </div>
 </div>
 
@@ -32,100 +32,97 @@
 
 ## News Headlines
 
-1.  トランプ氏、次期FRB議長候補にハセット氏を示唆
-2.  長野県の一部地域に大雪警報発令
-3.  ファベルジェの卵、オークションで3000万ドル超え
-4.  マレーシア航空MH370便、12月末に捜索再開
-5.  三菱地所、マンション引き渡し前の転売禁止
-6.  EU、2027年までにロシア産ガス輸入を全面禁止へ
+1. スミスグループ、手荷物検査部門をCVCに26.5億ドルで売却
+2. 農水省、「お米券」など食料品支援で自治体向け説明会
+3. トランプ氏、次期FRB議長にハセット氏を検討か
+4. 富山市・金沢市で初雪観測、長野県に大雪警報
+5. アップル、AI戦略で「大規模なリセット」
+6. マレーシア航空MH370便、12月末に捜索再開
 
 ----
 
 @reuters.com
 
-Trump signals Kevin Hassett as his pick for Fed chair—markets now see around an 85% chance he gets the job. What does this mean for rates? reut.rs/48gupDJ
+Smiths Group to sell baggage-screening unit to CVC for $2.65 billion reut.rs/4rygTmt
 
-[2025-12-03 20:27:31](https://bsky.app/profile/reuters.com/post/3m73dzs4tg22q)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】長野地域・中野飯山地域・大北地域に大雪警報
-(2025-12-03 20:23:00) #ニュース
-
-🟨警報注意報
-🔗https://www.jma.go.jp/bosai/warning/#lang=ja&area_type=offices&area_code=200000
-
-[2025-12-03 20:25:26](https://bsky.app/profile/sokuho.news/post/3m73dw3a7sc2y)
-
----
-
-@nytimes.com
-
-A crystal Fabergé egg laced with platinum snowflakes and encrusted with thousands of tiny rose diamonds sold in London on Tuesday for more than $30 million, an auction record for a creation by the famed Russian jeweler.
-
-[2025-12-03 20:25:03](https://bsky.app/profile/nytimes.com/post/3m73dvfcctf26)
-
----
-
-@reuters.com
-
-Former EU foreign policy chief Mogherini accused of fraud and corruption reut.rs/48MrmmJ
-
-[2025-12-03 20:25:03](https://bsky.app/profile/reuters.com/post/3m73dvf44bw2k)
-
----
-
-@wsj.com
-
-Kyiv is widening its campaign against Russia’s energy architecture, seeking to deprive it of vital revenue, but that strategy comes with risks.
-
-[2025-12-03 20:22:14](https://bsky.app/profile/wsj.com/post/3m73dqe2kyc2w)
-
----
-
-@cbsnews.com
-
-Democratic Sen. Tammy Duckworth of Illinois, the ranking member on the Senate's aviation subcommittee, is demanding the Transportation Department expand its $10,000 bonus to all air traffic controllers and FAA technicians who worked without pay during the government shutdown. 
-
-[2025-12-03 20:22:11](https://bsky.app/profile/cbsnews.com/post/3m73dqb5pry2j)
+[2025-12-03 20:45:14](https://bsky.app/profile/reuters.com/post/3m73ezhnwk222)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-ヤクルト 新人入団発表 ドラフト1位の松下歩叶が抱負
-https://news.web.nhk/newsweb/na/na-k10014993141000
+「お米券」などの食料品支援 自治体向け説明会を開催 農水省
+https://news.web.nhk/newsweb/na/na-k10014992831000
 
-[2025-12-03 20:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m73dobuy2m26)
-
----
-
-@en.afp.com
-
-🇲🇾 ✈️ The search for missing Malaysia Airlines flight MH370 will resume at the end of December, Malaysia's transport ministry said, more than a decade after the plane disappeared. 
-➡️ u.afp.com/Sh95
-
-[2025-12-03 20:20:01](https://bsky.app/profile/en.afp.com/post/3m73dmfjwwb2u)
+[2025-12-03 20:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m73ez6vch52b)
 
 ---
 
-@npr.org
+@bbcnews-world-rss.bsky.social
 
-Bassem Khandaqji entered prison 21 years ago for plotting a deadly bombing in Israel. He left prison as an award-winning novelist. n.pr/4pdMfwW
+Steve Rosenberg: Putin showing no signs of compromise
 
-[2025-12-03 20:19:13](https://bsky.app/profile/npr.org/post/3m73dkxdrhz2e)
+[2025-12-03 20:42:13](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m73eu4ssra2e)
 
 ---
 
 @reuters.com
 
-LIVE: Ukraine's foreign minister arrives at NATO headquarters youtube.com/live/jDnlXQP...
+LIVE: UK Prime Minister Keir Starmer takes questions in parliament youtube.com/live/ysltjmr...
 
-[2025-12-03 20:18:02](https://bsky.app/profile/reuters.com/post/3m73ditvvwc23)
+[2025-12-03 20:41:21](https://bsky.app/profile/reuters.com/post/3m73esjlfmc23)
+
+---
+
+@wsj.com
+
+Heard on the Street: The AI revolution has created a unique and high-quality problem for Nvidia: The chip maker makes too much money.
+
+[2025-12-03 20:40:20](https://bsky.app/profile/wsj.com/post/3m73eqpgug42i)
+
+---
+
+@reuters.com
+
+South Korea's Lee praises Trump, hopes US can resume North Korea dialogue reut.rs/49YSLTP
+
+[2025-12-03 20:40:20](https://bsky.app/profile/reuters.com/post/3m73eqq27sd27)
+
+---
+
+@nbcnews.com
+
+A raccoon goes on a drunken rampage in a closed Virginia liquor store, hitting the bottom shelf where the scotch and whisky were stored before smashing bottles and spilling alcohol everywhere before passing out on the floor. 
+
+[2025-12-03 20:40:05](https://bsky.app/profile/nbcnews.com/post/3m73eqb2lej2j)
+
+---
+
+@nytimes.com
+
+European officials are accusing Russia of smaller-scale assaults. President Vladimir Putin sought to turn the tables, saying that if Europe were to start a war, Russia is ready.
+
+[2025-12-03 20:40:02](https://bsky.app/profile/nytimes.com/post/3m73eq6mfhj26)
+
+---
+
+@en.afp.com
+
+🇱🇧 🇮🇱 Lebanese and Israeli civilian representatives held their first direct talks in decades, part of a year-old ceasefire monitoring mechanism in the war with militant group Hezbollah, a source close to the talks told AFP. 
+➡️ u.afp.com/Sh9S
+
+[2025-12-03 20:40:02](https://bsky.app/profile/en.afp.com/post/3m73eq63cay2x)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】富山市で初雪を観測
+(2025-12-03 20:38) #ニュース
+
+[2025-12-03 20:38:23](https://bsky.app/profile/sokuho.news/post/3m73ena3zxy2e)
 
 ---
 
