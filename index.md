@@ -1,9 +1,9 @@
-# [2025-12-04 02:50 updated](2025_12_04.md)
+# [2025-12-04 03:10 updated](2025_12_04.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NEW: Democrats release never-before-seen images and videos of Epstein Island <a href="https://bsky.app/profile/axios.com/post/3m73z6pvgrs26" target="_blank">axios.com</a> (2025-12-04 02:46:05)</span><span style="padding-right:50px;">Hong Kong family returns to scene of deadly blaze to find 'everything vanished' reut.rs/3Y60MyU <a href="https://bsky.app/profile/reuters.com/post/3m73z4zimld2k" target="_blank">reuters.com</a> (2025-12-04 02:45:08)</span><span style="padding-right:50px;">These stocks could be added to the S&P 500 when benchmark reshuffles this month <a href="https://bsky.app/profile/cnbc.com/post/3m73yzeoqbb2o" target="_blank">cnbc.com</a> (2025-12-04 02:43:05)</span><span style="padding-right:50px;">Reflected light from the half a million satellites expected to launch into Earth's orbit in the coming years could contaminate not just ground-based imaging, but also almost all the readings taken by space telescopes, NASA astronomers warn. 🛰️ 🔭 💫  u.afp.com/ShyJ <a href="https://bsky.app/profile/en.afp.com/post/3m73yxifkib22" target="_blank">en.afp.com</a> (2025-12-04 02:42:02)</span><span style="padding-right:50px;">Trump launches immigration crackdown in New Orleans reut.rs/49Up4Db <a href="https://bsky.app/profile/reuters.com/post/3m73yu6accl2y" target="_blank">reuters.com</a> (2025-12-04 02:40:11)</span>
+<span style="padding-right:50px;">Capricor eyes US nod for Duchenne cell therapy after success in key study reut.rs/3MgOIbx <a href="https://bsky.app/profile/reuters.com/post/3m742aqlg2w2k" target="_blank">reuters.com</a> (2025-12-04 03:05:06)</span><span style="padding-right:50px;">Bernstein Litowitz lawyers leave to launch new shareholder firm reut.rs/4pgDwdv <a href="https://bsky.app/profile/reuters.com/post/3m73zzf4gb42k" target="_blank">reuters.com</a> (2025-12-04 03:00:59)</span><span style="padding-right:50px;">Many Americans are addicted to soda. And for those who wish to stop, cutting soda cold-turkey might not be a good idea <a href="https://bsky.app/profile/usatoday.com/post/3m73zyn2fwg2d" target="_blank">usatoday.com</a> (2025-12-04 03:00:34)</span><span style="padding-right:50px;">A new study found the loneliest Americans included adults 45 to 49 years old, as well as people who were unmarried, unemployed or whose income fell below $25,000 a year.  <a href="https://bsky.app/profile/washingtonpost.com/post/3m73zyihznw2x" target="_blank">washingtonpost.com</a> (2025-12-04 03:00:30)</span><span style="padding-right:50px;">Southeast Asia has been hit by unusually severe floods this year, with late storms killing more than 1,400 people and leaving hundreds missing across Indonesia, Sri Lanka, and Thailand. <a href="https://bsky.app/profile/apnews.com/post/3m73zyijjjn2t" target="_blank">apnews.com</a> (2025-12-04 03:00:30)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47847.28 (🔺475.66 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23455.88 (🔺140.30 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 180.38 (🔻0.68 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.13 (🔻0.69 : 2025-12-03)</span>
+<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47845.17 (🔺473.55 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23453.98 (🔺138.40 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 180.51 (🔻0.56 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.11 (🔻0.71 : 2025-12-03)</span>
   </div>
 </div>
 
@@ -32,93 +32,92 @@
 
 ## News Headlines
 
-1.  エプスタイン島、未公開の画像と動画を民主党が公開
-2.  トランプ大統領、民主党議員の買収事件で恩赦
-3.  NASAの天文学者、衛星の増加による宇宙観測への影響を警告
-4.  トランプ大統領、ニューオーリンズで移民取り締まり強化
-5.  下院共和党議員、ジョンソン議長を「非効果的なリーダー」と批判
-6.  ミャンマーでのアヘン栽培、過去10年で最高水準に急増
+1. デュシェンヌ型細胞治療、主要研究成功で米国承認視野
+2. バーンスタイン・リトウィッツの弁護士らが新株主訴訟会社を設立
+3. 東南アジアで記録的な洪水、1400人以上死亡
+4. バイナンス、共同創業者Yi Heを共同CEOに任命
+5. SEC、高レバレッジETF計画の審査を一時停止、リスクを指摘
+6. トランプ政権、ニューオーリンズで移民取り締まり強化
 
 ----
 
-@axios.com
+@reuters.com
 
-NEW: Democrats release never-before-seen images and videos of Epstein Island
+Capricor eyes US nod for Duchenne cell therapy after success in key study reut.rs/3MgOIbx
 
-[2025-12-04 02:46:05](https://bsky.app/profile/axios.com/post/3m73z6pvgrs26)
+[2025-12-04 03:05:06](https://bsky.app/profile/reuters.com/post/3m742aqlg2w2k)
 
 ---
 
 @reuters.com
 
-Hong Kong family returns to scene of deadly blaze to find 'everything vanished' reut.rs/3Y60MyU
+Bernstein Litowitz lawyers leave to launch new shareholder firm reut.rs/4pgDwdv
 
-[2025-12-04 02:45:08](https://bsky.app/profile/reuters.com/post/3m73z4zimld2k)
-
----
-
-@cnbc.com
-
-These stocks could be added to the S&P 500 when benchmark reshuffles this month
-
-[2025-12-04 02:43:05](https://bsky.app/profile/cnbc.com/post/3m73yzeoqbb2o)
+[2025-12-04 03:00:59](https://bsky.app/profile/reuters.com/post/3m73zzf4gb42k)
 
 ---
 
-@en.afp.com
+@usatoday.com
 
-Reflected light from the half a million satellites expected to launch into Earth's orbit in the coming years could contaminate not just ground-based imaging, but also almost all the readings taken by space telescopes, NASA astronomers warn. 🛰️ 🔭 💫 
-u.afp.com/ShyJ
+Many Americans are addicted to soda. And for those who wish to stop, cutting soda cold-turkey might not be a good idea
 
-[2025-12-04 02:42:02](https://bsky.app/profile/en.afp.com/post/3m73yxifkib22)
-
----
-
-@reuters.com
-
-Trump launches immigration crackdown in New Orleans reut.rs/49Up4Db
-
-[2025-12-04 02:40:11](https://bsky.app/profile/reuters.com/post/3m73yu6accl2y)
+[2025-12-04 03:00:34](https://bsky.app/profile/usatoday.com/post/3m73zyn2fwg2d)
 
 ---
 
-@nbcnews.com
+@washingtonpost.com
 
-Founded in 2002, ViaGen Pets and Equine is an Austin-based company able to preserve the genetics required to clone pets like dogs and cats. 
+A new study found the loneliest Americans included adults 45 to 49 years old, as well as people who were unmarried, unemployed or whose income fell below $25,000 a year. 
 
-[2025-12-04 02:40:04](https://bsky.app/profile/nbcnews.com/post/3m73ytxyx432h)
+[2025-12-04 03:00:30](https://bsky.app/profile/washingtonpost.com/post/3m73zyihznw2x)
+
+---
+
+@apnews.com
+
+Southeast Asia has been hit by unusually severe floods this year, with late storms killing more than 1,400 people and leaving hundreds missing across Indonesia, Sri Lanka, and Thailand.
+
+[2025-12-04 03:00:30](https://bsky.app/profile/apnews.com/post/3m73zyijjjn2t)
+
+---
+
+@aljazeera.com
+
+The Philippines says it expected nine Filipino mariners held by the Houthis since July attack to be released in Yemen.
+
+[2025-12-04 03:00:28](https://bsky.app/profile/aljazeera.com/post/3m73zyh53ej2k)
 
 ---
 
 @npr.org
 
-The word "ideology" has become a fixture in American political rhetoric, invoked by leaders to cast opponents' beliefs as dangerous, stupid or unfounded. But it wasn't always this way. n.pr/4ovwmks
+Bassem Khandaqji entered prison 21 years ago for plotting a deadly bombing in Israel. He left prison as an award-winning novelist.
 
-[2025-12-04 02:38:28](https://bsky.app/profile/npr.org/post/3m73yr4bsvq23)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Henry Cuellar: Trump says he is pardoning Democratic congressman in bribery case 
-
-[2025-12-04 02:37:28](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m73ypds7e52l)
+[2025-12-04 03:00:15](https://bsky.app/profile/npr.org/post/3m73zy3477l2f)
 
 ---
 
-@cnn.com
+@nbcnews.com
 
-The report, based on a survey of foreign service members, found that a vast majority of respondents — 98% — said morale had declined since January, and a third were considering leaving the foreign service early.
+Hundreds of studies, including gold-standard clinical trials, challenge HHS Sec. RFK Jr.’s claim that the HPV vaccine is harmful.
 
-[2025-12-04 02:36:53](https://bsky.app/profile/cnn.com/post/3m73yobzxzw2q)
+[2025-12-04 03:00:12](https://bsky.app/profile/nbcnews.com/post/3m73zxxzn5n2c)
 
 ---
 
-@wsj.com
+@bloomberg.com
 
-Exclusive: GOP Rep. Elise Stefanik calls Speaker Mike Johnson an ineffective leader, saying in an interview he is losing control of House Republicans.
+🧠 Alphadots challenges players to solve a new puzzle every day using speed and strategy. Try today’s puzzle:
 
-[2025-12-04 02:36:44](https://bsky.app/profile/wsj.com/post/3m73ynyzro22h)
+[2025-12-04 03:00:04](https://bsky.app/profile/bloomberg.com/post/3m73zxpw2ih2d)
+
+---
+
+@financialtimes.com
+
+Binance names co-founder Yi He as co-chief executive on.ft.com/3XxD1zC
+
+[2025-12-04 02:58:01](https://bsky.app/profile/financialtimes.com/post/3m73zu2mexo26)
 
 ---
 
