@@ -1,9 +1,9 @@
-# [2025-12-04 03:30 updated](2025_12_04.md)
+# [2025-12-04 04:10 updated](2025_12_04.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Honduran TV presenter Salvador Nasralla on Wednesday widened his narrow lead over Trump-backed rival Nasry Asfura, as the counting of votes cast in last weekend's presidential election dragged into a third day.  u.afp.com/ShyU <a href="https://bsky.app/profile/en.afp.com/post/3m743jps3bo25" target="_blank">en.afp.com</a> (2025-12-04 03:28:01)</span><span style="padding-right:50px;">Bond investors warned US Treasury over picking Hassett as Fed chair on.ft.com/4iCjmZ4 <a href="https://bsky.app/profile/financialtimes.com/post/3m743i5yie625" target="_blank">financialtimes.com</a> (2025-12-04 03:27:09)</span><span style="padding-right:50px;">When "Mad Men" hit HBO Max, viewers caught several basic production errors that somehow slipped into the final product. <a href="https://bsky.app/profile/nbcnews.com/post/3m743hxmrcp2c" target="_blank">nbcnews.com</a> (2025-12-04 03:27:02)</span><span style="padding-right:50px;">LSEG to integrate financial data into ChatGPT in AI push reut.rs/3Y3RRhk <a href="https://bsky.app/profile/reuters.com/post/3m743ejzjzf2k" target="_blank">reuters.com</a> (2025-12-04 03:25:08)</span><span style="padding-right:50px;"> Britain’s big experiment with taxing EVs on.ft.com/4ot6ZQd  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m743eb6xt42r" target="_blank">financialtimes.com</a> (2025-12-04 03:24:58)</span>
+<span style="padding-right:50px;">The president said in a social media post that the Democratic lawmaker had been targeted by the Department of Justice for “bravely” speaking against former president Biden's border policies. (via @texaspublicradio.bsky.social) <a href="https://bsky.app/profile/npr.org/post/3m745q6nu3u2a" target="_blank">npr.org</a> (2025-12-04 04:07:26)</span><span style="padding-right:50px;">Larry Fink softens crypto stance as BlackRock boasts biggest US bitcoin ETF: 'My thought process has evolved' <a href="https://bsky.app/profile/yahoofinance.com/post/3m745nnkgc72u" target="_blank">yahoofinance.com</a> (2025-12-04 04:06:01)</span><span style="padding-right:50px;">Hungary to challenge EU decision to phase out Russian energy imports reut.rs/441fRp2 <a href="https://bsky.app/profile/reuters.com/post/3m745lzgkpm2k" target="_blank">reuters.com</a> (2025-12-04 04:05:06)</span><span style="padding-right:50px;">In a new interview, Joe Rogan asked Nvidia CEO Jensen Huang about whether winning the AI race is important to U.S. national security.   "The question is, 'what's there?' I don't think anybody really knows," Huang said.   "You're the head of Nvidia. If you don't know, who does?" Rogan asked. <a href="https://bsky.app/profile/axios.com/post/3m745jr3cnk2c" target="_blank">axios.com</a> (2025-12-04 04:03:50)</span><span style="padding-right:50px;">Jeffrey Epstein island photos and videos released as top banks share files with House Oversight Committee <a href="https://bsky.app/profile/cnbc.com/post/3m745hiak4j2g" target="_blank">cnbc.com</a> (2025-12-04 04:02:34)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47857.84 (🔺486.22 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23461.13 (🔺145.55 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 180.67 (🔻0.39 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.13 (🔻0.69 : 2025-12-03)</span>
+<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47920.45 (🔺548.83 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23473.09 (🔺157.51 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 181.04 (🔻0.03 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.12 (🔻0.70 : 2025-12-03)</span>
   </div>
 </div>
 
@@ -32,94 +32,96 @@
 
 ## News Headlines
 
-1. ホンジュラス大統領選、ナスララ氏がリード拡大
-2. 債券投資家、米財務省にFRB議長人事で警告
-3. LSEG、金融データをChatGPTに統合
-4. 国防長官、機密戦争計画をSignalで共有か
-5. CDC、新生児へのB型肝炎ワクチン推奨見直しへ
-6. イエメンで拘束されていたフィリピン人船員解放へ
+1.  司法省、バイデン政権の国境政策批判議員を標的に？ 大統領がSNSで指摘
+2.  ブラックロックCEO、ビットコインETF好調で暗号資産への見解を軟化
+3.  ハンガリー、ロシア産エネルギー輸入段階的廃止に関するEU決定に異議
+4.  エプスタイン島の写真・ビデオ公開、大手銀行が下院監視委員会にファイル提出
+5.  ADP調べ：米民間部門の雇用、11月に大幅減少
+6.  豪州、未成年者のアカウント削除怠ればSNSに最大3300万ドルの罰金
 
 ----
 
-@en.afp.com
+@npr.org
 
-Honduran TV presenter Salvador Nasralla on Wednesday widened his narrow lead over Trump-backed rival Nasry Asfura, as the counting of votes cast in last weekend's presidential election dragged into a third day. 
-u.afp.com/ShyU
+The president said in a social media post that the Democratic lawmaker had been targeted by the Department of Justice for “bravely” speaking against former president Biden's border policies. (via @texaspublicradio.bsky.social)
 
-[2025-12-04 03:28:01](https://bsky.app/profile/en.afp.com/post/3m743jps3bo25)
-
----
-
-@financialtimes.com
-
-Bond investors warned US Treasury over picking Hassett as Fed chair on.ft.com/4iCjmZ4
-
-[2025-12-04 03:27:09](https://bsky.app/profile/financialtimes.com/post/3m743i5yie625)
+[2025-12-04 04:07:26](https://bsky.app/profile/npr.org/post/3m745q6nu3u2a)
 
 ---
 
-@nbcnews.com
+@yahoofinance.com
 
-When "Mad Men" hit HBO Max, viewers caught several basic production errors that somehow slipped into the final product.
+Larry Fink softens crypto stance as BlackRock boasts biggest US bitcoin ETF: 'My thought process has evolved'
 
-[2025-12-04 03:27:02](https://bsky.app/profile/nbcnews.com/post/3m743hxmrcp2c)
+[2025-12-04 04:06:01](https://bsky.app/profile/yahoofinance.com/post/3m745nnkgc72u)
 
 ---
 
 @reuters.com
 
-LSEG to integrate financial data into ChatGPT in AI push reut.rs/3Y3RRhk
+Hungary to challenge EU decision to phase out Russian energy imports reut.rs/441fRp2
 
-[2025-12-04 03:25:08](https://bsky.app/profile/reuters.com/post/3m743ejzjzf2k)
-
----
-
-@financialtimes.com
-
- Britain’s big experiment with taxing EVs on.ft.com/4ot6ZQd  | opinion
-
-[2025-12-04 03:24:58](https://bsky.app/profile/financialtimes.com/post/3m743eb6xt42r)
+[2025-12-04 04:05:06](https://bsky.app/profile/reuters.com/post/3m745lzgkpm2k)
 
 ---
 
-@npr.org
+@axios.com
 
-A neighborhood network in Chicago has been helping other cities that face immigration enforcement raids.
+In a new interview, Joe Rogan asked Nvidia CEO Jensen Huang about whether winning the AI race is important to U.S. national security. 
 
-[2025-12-04 03:22:59](https://bsky.app/profile/npr.org/post/3m743ap2r3e2i)
+"The question is, 'what's there?' I don't think anybody really knows," Huang said. 
+
+"You're the head of Nvidia. If you don't know, who does?" Rogan asked.
+
+[2025-12-04 04:03:50](https://bsky.app/profile/axios.com/post/3m745jr3cnk2c)
+
+---
+
+@cnbc.com
+
+Jeffrey Epstein island photos and videos released as top banks share files with House Oversight Committee
+
+[2025-12-04 04:02:34](https://bsky.app/profile/cnbc.com/post/3m745hiak4j2g)
+
+---
+
+@reuters.com
+
+Explainer: Hazards of ketamine in focus after actor Matthew Perry's 2023 overdose death reut.rs/4apcH2c
+
+[2025-12-04 04:01:05](https://bsky.app/profile/reuters.com/post/3m745etg6kr2a)
 
 ---
 
 @cnn.com
 
-Inspector General report finds Defense Secretary Hegseth risked endangering troops by sharing sensitive war plans on Signal, sources say
-https://cnn.it/44BSEd6
+Hiring dropped off significantly at US private-sector businesses in November, according to new data from payroll giant ADP.https://cnn.it/4rzvgXv
 
-[2025-12-04 03:21:03](https://bsky.app/profile/cnn.com/post/3m7435avjn32y)
-
----
-
-@nbcnews.com
-
-A group of advisers to the CDC is preparing to vote on whether the agency should scrap its long-standing recommendation that every baby get a hepatitis B vaccination within 24 hours of birth.
-
-[2025-12-04 03:20:06](https://bsky.app/profile/nbcnews.com/post/3m7433kksic2c)
+[2025-12-04 04:01:04](https://bsky.app/profile/cnn.com/post/3m745esznox2q)
 
 ---
 
-@wsj.com
+@aljazeera.com
 
-More than 57 million people watched the Dallas Cowboys upset the Kansas City Chiefs on CBS this Thanksgiving, setting a new viewing high.
+Experts tell Al Jazeera what would happen if the world decided to downgrade its richest residents.
 
-[2025-12-04 03:15:31](https://bsky.app/profile/wsj.com/post/3m742tehmvd2a)
+[2025-12-04 04:00:55](https://bsky.app/profile/aljazeera.com/post/3m745ekkaju2d)
 
 ---
 
-@reuters.com
+@cnbc.com
 
-Microsoft denies report of lowering targets for AI software sales growth reut.rs/48sy4gs
+In 2019, Sophie Hilaire bought a Sprinter van from Craigslist for $29,900. She traveled the U.S., Mexico and Canada and lived in the van for two years.
 
-[2025-12-04 03:15:11](https://bsky.app/profile/reuters.com/post/3m742sqv36527)
+[2025-12-04 04:00:30](https://bsky.app/profile/cnbc.com/post/3m745dskpbr2g)
+
+---
+
+@apnews.com
+
+The Associated Press has announced its top 10 albums of the year, showcasing a diverse range of artists.
+
+[2025-12-04 04:00:26](https://bsky.app/profile/apnews.com/post/3m745doeguw2h)
 
 ---
 
