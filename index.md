@@ -1,9 +1,9 @@
-# [2025-12-03 16:50 updated](2025_12_03.md)
+# [2025-12-03 17:10 updated](2025_12_03.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Denny Hamlin testifies: Signing NASCAR charter like 'death certificate' to teams reut.rs/4pgCC0P <a href="https://bsky.app/profile/reuters.com/post/3m72xm72buw27" target="_blank">reuters.com</a> (2025-12-03 16:45:10)</span><span style="padding-right:50px;">Russia 'ready' for war with Europe, Putin says, as Ukraine peace talks fail to deliver breakthrough <a href="https://bsky.app/profile/cnbc.com/post/3m72xhg4r7z23" target="_blank">cnbc.com</a> (2025-12-03 16:42:29)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】山上被告 安倍元総理を狙ったことは「本筋ではないと思っていた。あくまでも統一教会が対象」被告人質問で語る 安倍昭恵さんが見つめる中 (2025-12-03 16:24) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m72xg4hvgx2x" target="_blank">sokuho.news</a> (2025-12-03 16:41:46)</span><span style="padding-right:50px;">Avalanche G Scott Wedgewood exits vs. Canucks with upper-body injury reut.rs/49UxFFY <a href="https://bsky.app/profile/reuters.com/post/3m72xdcdwcs22" target="_blank">reuters.com</a> (2025-12-03 16:40:11)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】レギュラーガソリン164.8円 4週連続値下がりで4.0円の大幅安を記録 (2025-12-03 16:35:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m72x4xcyju2p" target="_blank">sokuho.news</a> (2025-12-03 16:36:38)</span>
+<span style="padding-right:50px;">UPDATE European Union lawmakers and member states reached a deal Wednesday to ban all imports of Russian gas by autumn 2027, as the bloc seeks to choke off key funds feeding Moscow's war chest  u.afp.com/Shji <a href="https://bsky.app/profile/en.afp.com/post/3m72ystl2jx2k" target="_blank">en.afp.com</a> (2025-12-03 17:06:46)</span><span style="padding-right:50px;">Myanmar's opium poppy cultivation hits highest level in a decade, UN says reut.rs/3KzHmiO <a href="https://bsky.app/profile/reuters.com/post/3m72ypxo5r627" target="_blank">reuters.com</a> (2025-12-03 17:05:10)</span><span style="padding-right:50px;">国会をAIで見える化　サイト「みらい議会」、政治を分かりやすく www.nikkei.com/article/DGXZQO...  この法案がなぜ必要で、どんな狙いがあるか。  分かりやすく説明するのは、新党のチームみらいが運営するサイトです。  国民と政治をつなぐ新たなツールとなるでしょうか。 <a href="https://bsky.app/profile/nikkei.com/post/3m72yhkfx2f2k" target="_blank">nikkei.com</a> (2025-12-03 17:00:28)</span><span style="padding-right:50px;">Rupee cracks below 90 to the dollar, hit by tariffs, capital outflows reut.rs/4iCpQXZ <a href="https://bsky.app/profile/reuters.com/post/3m72yhjlxux2k" target="_blank">reuters.com</a> (2025-12-03 17:00:27)</span><span style="padding-right:50px;">New search to start on December 30 for Boeing 777 that went missing in 2014 with 227 passengers and 12 crew members. <a href="https://bsky.app/profile/aljazeera.com/post/3m72yhcqsvq2x" target="_blank">aljazeera.com</a> (2025-12-03 17:00:20)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.30 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.66 (🔻0.16 : 2025-12-03)</span>
+<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.30 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.72 (🔻0.10 : 2025-12-03)</span>
   </div>
 </div>
 
@@ -32,47 +32,97 @@
 
 ## News Headlines
 
-1. 山上被告、安倍元総理銃撃は「統一教会が対象、本筋ではない」
-2. ロシア、ヨーロッパとの戦争「準備完了」プーチン大統領発言
-3. 米政府、アフガニスタンなど19か国の移民申請を停止
-4. 大規模火災の大分、規制区域住民に立ち入り許可証運用開始
-5. プラスチック生産、2040年までに52%増加予測
-6. 長期金利上昇、10年国債利回り1.89% - 2008年以来の高水準
+1.  EU、2027年秋までにロシア産ガス輸入を全面禁止で合意
+2.  ミャンマー、ケシ栽培が過去10年で最高水準に
+3.  AIで国会を可視化「みらい議会」始動
+4.  山上被告、安倍元総理銃撃は「本筋ではない」と証言
+5.  アメリカ、アフガニスタンなど19か国からの移民申請を停止
+6.  プーチン氏、米特使と会談もウクライナ和平に進展なし
 
 ----
 
-@reuters.com
+@en.afp.com
 
-Denny Hamlin testifies: Signing NASCAR charter like 'death certificate' to teams reut.rs/4pgCC0P
+UPDATE European Union lawmakers and member states reached a deal Wednesday to ban all imports of Russian gas by autumn 2027, as the bloc seeks to choke off key funds feeding Moscow's war chest
 
-[2025-12-03 16:45:10](https://bsky.app/profile/reuters.com/post/3m72xm72buw27)
+u.afp.com/Shji
 
----
-
-@cnbc.com
-
-Russia 'ready' for war with Europe, Putin says, as Ukraine peace talks fail to deliver breakthrough
-
-[2025-12-03 16:42:29](https://bsky.app/profile/cnbc.com/post/3m72xhg4r7z23)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】山上被告 安倍元総理を狙ったことは「本筋ではないと思っていた。あくまでも統一教会が対象」被告人質問で語る 安倍昭恵さんが見つめる中
-(2025-12-03 16:24) #ニュース
-
-[2025-12-03 16:41:46](https://bsky.app/profile/sokuho.news/post/3m72xg4hvgx2x)
+[2025-12-03 17:06:46](https://bsky.app/profile/en.afp.com/post/3m72ystl2jx2k)
 
 ---
 
 @reuters.com
 
-Avalanche G Scott Wedgewood exits vs. Canucks with upper-body injury reut.rs/49UxFFY
+Myanmar's opium poppy cultivation hits highest level in a decade, UN says reut.rs/3KzHmiO
 
-[2025-12-03 16:40:11](https://bsky.app/profile/reuters.com/post/3m72xdcdwcs22)
+[2025-12-03 17:05:10](https://bsky.app/profile/reuters.com/post/3m72ypxo5r627)
+
+---
+
+@nikkei.com
+
+国会をAIで見える化　サイト「みらい議会」、政治を分かりやすく
+www.nikkei.com/article/DGXZQO...
+
+この法案がなぜ必要で、どんな狙いがあるか。
+
+分かりやすく説明するのは、新党のチームみらいが運営するサイトです。
+
+国民と政治をつなぐ新たなツールとなるでしょうか。
+
+[2025-12-03 17:00:28](https://bsky.app/profile/nikkei.com/post/3m72yhkfx2f2k)
+
+---
+
+@reuters.com
+
+Rupee cracks below 90 to the dollar, hit by tariffs, capital outflows reut.rs/4iCpQXZ
+
+[2025-12-03 17:00:27](https://bsky.app/profile/reuters.com/post/3m72yhjlxux2k)
+
+---
+
+@aljazeera.com
+
+New search to start on December 30 for Boeing 777 that went missing in 2014 with 227 passengers and 12 crew members.
+
+[2025-12-03 17:00:20](https://bsky.app/profile/aljazeera.com/post/3m72yhcqsvq2x)
+
+---
+
+@cnn.com
+
+In the past, Pete Hegseth described the refusal of illegal commands as part of the military’s ethos — a message he now condemns Democrats for spreading. 
+
+[2025-12-03 17:00:13](https://bsky.app/profile/cnn.com/post/3m72yh4l5qt23)
+
+---
+
+@bloomberg.com
+
+President Trump said he spoke with his Brazilian counterpart, Luiz Inacio Lula da Silva, about sanctions the US imposed on officials from Brazil, a sign relations between the nations continue to improve
+
+[2025-12-03 17:00:13](https://bsky.app/profile/bloomberg.com/post/3m72yh45h6a2n)
+
+---
+
+@washingtonpost.com
+
+The last time anyone spotted a red-cockaded woodpecker in Tennessee, Bill Clinton was in his first term in the White House.
+
+Now, state and federal officials have an ambitious plan to bring back the imperiled bird to the Volunteer State. https://wapo.st/3XrVVbb
+
+[2025-12-03 17:00:12](https://bsky.app/profile/washingtonpost.com/post/3m72yh33yn42a)
+
+---
+
+@wsj.com
+
+Jeff Bezos’ space company is finally getting momentum in orbit. 🔗 on.wsj.com/48qDvwj
+
+Blue Origin is planning more orbital missions, including an early 2026 cargo flight to the moon, following its recent New Glenn rocket launches and booster catch.
+
+[2025-12-03 16:58:23](https://bsky.app/profile/wsj.com/post/3m72ydu2aqr24)
 
 ---
 
@@ -80,53 +130,10 @@ Avalanche G Scott Wedgewood exits vs. Canucks with upper-body injury reut.rs/49U
 
 🛎️JNNより【速報】です。
 
-【速報】レギュラーガソリン164.8円 4週連続値下がりで4.0円の大幅安を記録
-(2025-12-03 16:35:00) #ニュース
+【速報】総社市上林で解体中の建物から出火 けが人なし【岡山】
+(2025-12-03 16:52:00) #ニュース
 
-[2025-12-03 16:36:38](https://bsky.app/profile/sokuho.news/post/3m72x4xcyju2p)
-
----
-
-@reuters.com
-
-HSBC names Brendan Nelson chairman in surprise move reut.rs/3MliNGN
-
-[2025-12-03 16:35:09](https://bsky.app/profile/reuters.com/post/3m72x2c3ssb2y)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Driver rescued from truck dangling off a West Virginia bridge
-
-[2025-12-03 16:34:01](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m72wyc23vy2y)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-YouTube says it will be less safe for kids under Australia's social media ban
-
-[2025-12-03 16:32:56](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m72wwehu4a2h)
-
----
-
-@cnn.com
-
-Five hours of talks between Russian President Vladimir Putin and top United States negotiators did not yield a breakthrough on a possible Ukraine peace deal, a Kremlin aide said.
-
-[2025-12-03 16:32:01](https://bsky.app/profile/cnn.com/post/3m72wup4ugx2f)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】山上被告 安倍元総理を狙ったことは「あくまでも統一教会が対象。本筋ではないと思っていた」被告人質問で 安倍元総理銃撃・殺害事件裁判
-(2025-12-03 16:24) #ニュース
-
-[2025-12-03 16:31:58](https://bsky.app/profile/sokuho.news/post/3m72wum45go24)
+[2025-12-03 16:57:02](https://bsky.app/profile/sokuho.news/post/3m72ybgpvgr2p)
 
 ---
 
