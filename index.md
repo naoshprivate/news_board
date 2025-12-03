@@ -1,9 +1,9 @@
-# [2025-12-03 11:30 updated](2025_12_03.md)
+# [2025-12-03 11:50 updated](2025_12_03.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】日経平均 一時500円超上昇 半導体関連株を中心に買い注文 (2025-12-03 11:23:32) #ニュース  📈世界の株価 🔗https://sekai-kabuka.com/ <a href="https://bsky.app/profile/sokuho.news/post/3m72fuudhbp2p" target="_blank">sokuho.news</a> (2025-12-03 11:27:53)</span><span style="padding-right:50px;">BREAKING: Republican Matt Van Epps holds a deep-red House seat in a Tennessee special election, turning back a Democratic challenge, NBC News projects. nbcnews.app.link/jiMdIdNIMYb <a href="https://bsky.app/profile/nbcnews.com/post/3m72fnkq35k2w" target="_blank">nbcnews.com</a> (2025-12-03 11:23:48)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】線路の『ハクチョウ』が『はやぶさ』を停める 東北新幹線が一時運転見合わせで上下3本に遅れ (2025-12-03 11:20) #ニュース  🚄鉄道運行情報 🔗https://transit.yahoo.co.jp/diainfo <a href="https://bsky.app/profile/sokuho.news/post/3m72fmfael32d" target="_blank">sokuho.news</a> (2025-12-03 11:23:09)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】線路に『ハクチョウ』侵入で東北新幹線が一時運転見合わせ 上下3本に遅れ (2025-12-03 11:20) #ニュース  🚄鉄道運行情報 🔗https://transit.yahoo.co.jp/diainfo <a href="https://bsky.app/profile/sokuho.news/post/3m72fj37c2p2x" target="_blank">sokuho.news</a> (2025-12-03 11:21:18)</span><span style="padding-right:50px;">Man City's Haaland becomes fastest player to 100 Premier League goals reut.rs/48DYZGq <a href="https://bsky.app/profile/reuters.com/post/3m72fh6vzuf2k" target="_blank">reuters.com</a> (2025-12-03 11:20:14)</span>
+<span style="padding-right:50px;">Breaking news: Republicans held on to a red congressional district Tuesday, winning a special election in Tennessee that became more competitive than initially expected. <a href="https://bsky.app/profile/washingtonpost.com/post/3m72h2kr5q52i" target="_blank">washingtonpost.com</a> (2025-12-03 11:48:58)</span><span style="padding-right:50px;">A 1960s pop song, a must-have soft toy and a global anime hit are among the leaders on YouTube's year-end trends list. n.pr/4p8CFLS <a href="https://bsky.app/profile/npr.org/post/3m72gxuvoc22a" target="_blank">npr.org</a> (2025-12-03 11:47:28)</span><span style="padding-right:50px;">Sabrina Carpenter condemns 'evil' use of her music in ICE raid video released by White House  u.afp.com/ShH9 <a href="https://bsky.app/profile/en.afp.com/post/3m72gv6yzbp2u" target="_blank">en.afp.com</a> (2025-12-03 11:45:58)</span><span style="padding-right:50px;">James Solomon elected Jersey City mayor, defeating Jim McGreevey, AP projects. <a href="https://bsky.app/profile/cbsnews.com/post/3m72gtmfr2x2u" target="_blank">cbsnews.com</a> (2025-12-03 11:45:05)</span><span style="padding-right:50px;">BREAKING: Republican Matt Van Epps wins special election to U.S. House in Tennessee's 7th Congressional District. <a href="https://bsky.app/profile/apnews.com/post/3m72gt5ambt2j" target="_blank">apnews.com</a> (2025-12-03 11:44:49)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49788.32 (🔺247.68 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.30 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3009.00 (🔻21.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.77 (🔻0.05 : 2025-12-03)</span>
+<span style="padding-right:50px;">NIKKEI: 49862.94 (🔺322.30 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.30 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3017.00 (🔻13.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.74 (🔻0.08 : 2025-12-03)</span>
   </div>
 </div>
 
@@ -32,119 +32,95 @@
 
 ## News Headlines
 
-1. 日経平均一時500円超上昇、半導体関連株に買い注文
-2. 東北新幹線、線路にハクチョウ侵入で一時運転見合わせ
-3. 札幌市白石区で住宅火災、消火活動続く
-4. テネシー州特別選挙、共和党が勝利
-5. ハーランド、プレミアリーグ最速100ゴール達成
-6. ジャージーシティ市長選、ソロモン氏が元ニュージャージー州知事を破る
+1. 米共和党、テネシー州特別選挙で辛勝、民主党に勢い
+2. YouTube年間トレンド発表、60年代ポップ、人気玩具、アニメが上位
+3. サブリナ・カーペンター、ICEの動画での楽曲使用を非難
+4. ジャージーシティ市長選、ソロモン氏がマッグリービー氏を破り当選
+5. 東北新幹線、ハクチョウ侵入で一時運転見合わせ
+6. 日経平均一時500円超高、半導体関連株がけん引
 
 ----
 
-@sokuho.news
+@washingtonpost.com
 
-🛎️JNNより【速報】です。
+Breaking news: Republicans held on to a red congressional district Tuesday, winning a special election in Tennessee that became more competitive than initially expected.
 
-【速報】日経平均 一時500円超上昇 半導体関連株を中心に買い注文
-(2025-12-03 11:23:32) #ニュース
-
-📈世界の株価
-🔗https://sekai-kabuka.com/
-
-[2025-12-03 11:27:53](https://bsky.app/profile/sokuho.news/post/3m72fuudhbp2p)
+[2025-12-03 11:48:58](https://bsky.app/profile/washingtonpost.com/post/3m72h2kr5q52i)
 
 ---
 
-@nbcnews.com
+@npr.org
 
-<strong><span style="color: red;">BREAKING:</span> Republican Matt Van Epps holds a deep-red House seat in a Tennessee special election, turning back a Democratic challenge, NBC News projects. nbcnews.app.link/jiMdIdNIMYb</strong>
+A 1960s pop song, a must-have soft toy and a global anime hit are among the leaders on YouTube's year-end trends list. n.pr/4p8CFLS
 
-[2025-12-03 11:23:48](https://bsky.app/profile/nbcnews.com/post/3m72fnkq35k2w)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】線路の『ハクチョウ』が『はやぶさ』を停める 東北新幹線が一時運転見合わせで上下3本に遅れ
-(2025-12-03 11:20) #ニュース
-
-🚄鉄道運行情報
-🔗https://transit.yahoo.co.jp/diainfo
-
-[2025-12-03 11:23:09](https://bsky.app/profile/sokuho.news/post/3m72fmfael32d)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】線路に『ハクチョウ』侵入で東北新幹線が一時運転見合わせ 上下3本に遅れ
-(2025-12-03 11:20) #ニュース
-
-🚄鉄道運行情報
-🔗https://transit.yahoo.co.jp/diainfo
-
-[2025-12-03 11:21:18](https://bsky.app/profile/sokuho.news/post/3m72fj37c2p2x)
-
----
-
-@reuters.com
-
-Man City's Haaland becomes fastest player to 100 Premier League goals reut.rs/48DYZGq
-
-[2025-12-03 11:20:14](https://bsky.app/profile/reuters.com/post/3m72fh6vzuf2k)
-
----
-
-@cbsnews.com
-
-Raccoon passes out on Virginia liquor store bathroom floor after drunken rampage.
-
-[2025-12-03 11:20:00](https://bsky.app/profile/cbsnews.com/post/3m72fgrhiws26)
+[2025-12-03 11:47:28](https://bsky.app/profile/npr.org/post/3m72gxuvoc22a)
 
 ---
 
 @en.afp.com
 
-Pentagon chief Pete Hegseth tells a reporter during a cabinet meeting alongside President Donald Trump that he did not personally witness any survivors of an initial US strike on an alleged drug boat, after their reported killing in a follow-up attack sparked accusations of a possible war crime
+Sabrina Carpenter condemns 'evil' use of her music in ICE raid video released by White House
 
-[2025-12-03 11:11:58](https://bsky.app/profile/en.afp.com/post/3m72eyfdraj2z)
+u.afp.com/ShH9
+
+[2025-12-03 11:45:58](https://bsky.app/profile/en.afp.com/post/3m72gv6yzbp2u)
 
 ---
 
-@sokuho.news
+@cbsnews.com
 
-🛎️FNNより【速報】です。
+James Solomon elected Jersey City mayor, defeating Jim McGreevey, AP projects.
 
-【速報】東北新幹線が仙台駅・くりこま高原駅間で運転見合わせ 線路内にハクチョウが侵入
-(2025-12-03 10:50) #ニュース
+[2025-12-03 11:45:05](https://bsky.app/profile/cbsnews.com/post/3m72gtmfr2x2u)
 
-🚄鉄道運行情報
-🔗https://transit.yahoo.co.jp/diainfo
+---
 
-[2025-12-03 11:10:32](https://bsky.app/profile/sokuho.news/post/3m72evtdine2x)
+@apnews.com
+
+<strong><span style="color: red;">BREAKING:</span> Republican Matt Van Epps wins special election to U.S. House in Tennessee's 7th Congressional District.</strong>
+
+[2025-12-03 11:44:49](https://bsky.app/profile/apnews.com/post/3m72gt5ambt2j)
+
+---
+
+@cnn.com
+
+Republican Matt Van Epps will win the special US House election for Tennessee's 7th District, CNN's Decision Desk projects, preventing an upset but emboldening Democrats as they were on track to over-perform in a normally deep-red district. https://cnn.it/48JJJc5
+
+[2025-12-03 11:43:50](https://bsky.app/profile/cnn.com/post/3m72grenli22r)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+ウクライナ情勢めぐる和平案の協議 米ロの隔たり埋まらず
+https://news.web.nhk/newsweb/na/na-k10014992581000
+
+[2025-12-03 11:42:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72goak6yp2n)
 
 ---
 
 @reuters.com
 
-Qatar cuts Sainsbury's stake to end near two-decade reign as top shareholder reut.rs/3Y1LFGH
+Grealish winner earns Everton 1-0 victory at Bournemouth reut.rs/44qrtlJ
 
-[2025-12-03 11:10:13](https://bsky.app/profile/reuters.com/post/3m72evbeztd2d)
+[2025-12-03 11:40:34](https://bsky.app/profile/reuters.com/post/3m72gljuexh26)
 
 ---
 
-@sokuho.news
+@reuters.com
 
-🛎️NNNより【速報】です。
+AT&T commits to ending DEI programs reut.rs/4pOooUI
 
-【速報】現在も炎上中 住宅が燃える火事 消火活動続く 札幌市白石区川北
-(2025-12-03 11:08) #ニュース
+[2025-12-03 11:40:25](https://bsky.app/profile/reuters.com/post/3m72glbw5ei2d)
 
-[2025-12-03 11:09:05](https://bsky.app/profile/sokuho.news/post/3m72etawuxe2d)
+---
+
+@reuters.com
+
+Texas' Steve Sarkisian questions why team bothered to play Ohio State reut.rs/4phfkrz
+
+[2025-12-03 11:40:17](https://bsky.app/profile/reuters.com/post/3m72gkzmvgz2y)
 
 ---
 
