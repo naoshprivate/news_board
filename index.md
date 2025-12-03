@@ -1,9 +1,9 @@
-# [2025-12-04 05:30 updated](2025_12_04.md)
+# [2025-12-04 05:50 updated](2025_12_04.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">ロシア ウクライナの要衝掌握の発表 “交渉に臨む立場強めた” https://news.web.nhk/newsweb/na/na-k10014993461000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74c6m7zot2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-04 05:27:03)</span><span style="padding-right:50px;">A forthcoming inspector general report finds that had intel shared by Hegseth been intercepted by an adversary, it would have endangered servicemembers, according to a source who viewed the findings. n.pr/3KGzegt <a href="https://bsky.app/profile/npr.org/post/3m74c4ktdma2x" target="_blank">npr.org</a> (2025-12-04 05:25:56)</span><span style="padding-right:50px;">Mexican government hikes minimum wage, pushes shorter work week reut.rs/3XARYkr <a href="https://bsky.app/profile/reuters.com/post/3m74c2yuzsm26" target="_blank">reuters.com</a> (2025-12-04 05:25:04)</span><span style="padding-right:50px;">The members of Philadelphia's Senior Environment Corps wade into streams, peered through microscopes and teach kids how to identify aquatic critters. (via @whyy.org) <a href="https://bsky.app/profile/npr.org/post/3m74bzzpwvl2o" target="_blank">npr.org</a> (2025-12-04 05:24:31)</span><span style="padding-right:50px;">北～西日本の山沿い中心に降雪 風も強まる 交通影響など警戒を https://news.web.nhk/newsweb/na/na-k10014993471000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74bz7v7l22r" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-04 05:24:02)</span>
+<span style="padding-right:50px;">Trump proposes slashing fuel efficiency standards for passenger cars <a href="https://bsky.app/profile/cnbc.com/post/3m74dfzp2la2o" target="_blank">cnbc.com</a> (2025-12-04 05:49:07)</span><span style="padding-right:50px;">旧姓の通称使用拡大へ 来年の通常国会で法制化目指す方針 政府 https://news.web.nhk/newsweb/na/na-k10014993381000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74debvlpq26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-04 05:48:07)</span><span style="padding-right:50px;">地域未来戦略本部 地方経済活性化へ来年5月に政策まとめる方針 https://news.web.nhk/newsweb/na/na-k10014993361000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74de5mgfe2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-04 05:48:02)</span><span style="padding-right:50px;">Bessent says Fed rate cuts needed, China making good on soybean purchases reut.rs/4iH6ZuU <a href="https://bsky.app/profile/reuters.com/post/3m74d6ukibj27" target="_blank">reuters.com</a> (2025-12-04 05:45:07)</span><span style="padding-right:50px;">香港 高層住宅火災 建物内部の捜索終えるも31人と連絡取れず https://news.web.nhk/newsweb/na/na-k10014993331000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74d6sjhhz23" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-04 05:45:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47930.62 (🔺559.00 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23493.21 (🔺177.62 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 180.02 (🔻1.05 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.18 (🔻0.64 : 2025-12-03)</span>
+<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47928.49 (🔺556.87 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23476.68 (🔺161.10 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 179.69 (🔻1.38 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.24 (🔻0.58 : 2025-12-03)</span>
   </div>
 </div>
 
@@ -32,94 +32,95 @@
 
 ## News Headlines
 
-1. ロシア、ウクライナ要衝掌握を発表 - 交渉で優位か
-2. 米監察官報告、ヘグセス機密情報漏洩で米兵の危険指摘
-3. メキシコ政府、最低賃金引き上げと労働時間短縮を推進
-4. 北～西日本の山沿い中心に降雪、交通影響に警戒
-5. インドネシアなどの大雨で死者1400人超
-6. 佐川急便、荷物急増で全国的に受け付け制限
+1. トランプ、燃費基準の大幅削減を提案
+2. 旧姓使用拡大へ 政府が法制化目指す
+3. 香港高層住宅火災 31人と連絡取れず
+4. アフガン復興支援に292億ドルの無駄遣い
+5. EU元幹部らを入札不正で訴追
+6. 佐川急便、荷物急増で全国的に受付制限
 
 ----
 
-@nhknewsunofficial.bsky.social
+@cnbc.com
 
-ロシア ウクライナの要衝掌握の発表 “交渉に臨む立場強めた”
-https://news.web.nhk/newsweb/na/na-k10014993461000
+Trump proposes slashing fuel efficiency standards for passenger cars
 
-[2025-12-04 05:27:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74c6m7zot2j)
+[2025-12-04 05:49:07](https://bsky.app/profile/cnbc.com/post/3m74dfzp2la2o)
 
 ---
 
-@npr.org
+@nhknewsunofficial.bsky.social
 
-A forthcoming inspector general report finds that had intel shared by Hegseth been intercepted by an adversary, it would have endangered servicemembers, according to a source who viewed the findings. n.pr/3KGzegt
+旧姓の通称使用拡大へ 来年の通常国会で法制化目指す方針 政府
+https://news.web.nhk/newsweb/na/na-k10014993381000
 
-[2025-12-04 05:25:56](https://bsky.app/profile/npr.org/post/3m74c4ktdma2x)
+[2025-12-04 05:48:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74debvlpq26)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+地域未来戦略本部 地方経済活性化へ来年5月に政策まとめる方針
+https://news.web.nhk/newsweb/na/na-k10014993361000
+
+[2025-12-04 05:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74de5mgfe2j)
 
 ---
 
 @reuters.com
 
-Mexican government hikes minimum wage, pushes shorter work week reut.rs/3XARYkr
+Bessent says Fed rate cuts needed, China making good on soybean purchases reut.rs/4iH6ZuU
 
-[2025-12-04 05:25:04](https://bsky.app/profile/reuters.com/post/3m74c2yuzsm26)
-
----
-
-@npr.org
-
-The members of Philadelphia's Senior Environment Corps wade into streams, peered through microscopes and teach kids how to identify aquatic critters. (via @whyy.org)
-
-[2025-12-04 05:24:31](https://bsky.app/profile/npr.org/post/3m74bzzpwvl2o)
+[2025-12-04 05:45:07](https://bsky.app/profile/reuters.com/post/3m74d6ukibj27)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-北～西日本の山沿い中心に降雪 風も強まる 交通影響など警戒を
-https://news.web.nhk/newsweb/na/na-k10014993471000
+香港 高層住宅火災 建物内部の捜索終えるも31人と連絡取れず
+https://news.web.nhk/newsweb/na/na-k10014993331000
 
-[2025-12-04 05:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74bz7v7l22r)
-
----
-
-@wsj.com
-
-Amazon is facing a new labor challenge, this time from small-business owners who run the company’s package-delivery network
-
-[2025-12-04 05:20:51](https://bsky.app/profile/wsj.com/post/3m74btihaxw2p)
-
----
-
-@nbcnews.com
-
-Notre Dame coach Marcus Freeman was magnanimous toward the College Football Playoff’s selection committee, telling NBC News he will “agree to disagree” after the Fighting Irish dropped to 10th in the latest CFP rankings.
-
-[2025-12-04 05:20:06](https://bsky.app/profile/nbcnews.com/post/3m74bs4xsxj2h)
+[2025-12-04 05:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74d6sjhhz23)
 
 ---
 
 @nytimes.com
 
-House Democrats on Wednesday released photographs and videos of Jeffrey Epstein’s home on the private Caribbean island where his accusers have said that he trafficked underage girls for sex. trib.al/xUQzKmm
+Subway and bus fare evasion cost New York City’s transit system nearly $1 billion last year. Will an arsenal of new tricks turn things around? trib.al/BzbS2FD
 
-[2025-12-04 05:16:02](https://bsky.app/profile/nytimes.com/post/3m74bkud47c2z)
-
----
-
-@axios.com
-
-The North Carolina childhood home of the late musical legend Nina Simone has been restored after being saved from demolition.
-
-[2025-12-04 05:15:55](https://bsky.app/profile/axios.com/post/3m74bknccts2y)
+[2025-12-04 05:40:38](https://bsky.app/profile/nytimes.com/post/3m74cwtq7pc2z)
 
 ---
 
 @reuters.com
 
-Trump's NASA pick stresses moon race urgency, pressed on Musk ties in Senate hearing reut.rs/44NcO3T
+Spain plans wild boar cull amid swine fever outbreak that hit exports reut.rs/445a95r
 
-[2025-12-04 05:15:11](https://bsky.app/profile/reuters.com/post/3m74bjdzrzx2i)
+[2025-12-04 05:40:14](https://bsky.app/profile/reuters.com/post/3m74cw5ccen27)
+
+---
+
+@nbcnews.com
+
+President Trump announces that he would pardon Rep. Henry Cuellar, who was indicted last year on bribery and money laundering charges.
+
+[2025-12-04 05:40:09](https://bsky.app/profile/nbcnews.com/post/3m74cvydn7c2r)
+
+---
+
+@nytimes.com
+
+A raccoon entered a liquor store the other day and drank his fill: rum, moonshine, even peanut butter whiskey. Then he passed out on the floor of the bathroom. Don’t worry, he’s OK, and was safely released back into the wild.
+
+[2025-12-04 05:40:03](https://bsky.app/profile/nytimes.com/post/3m74cvs6hok2g)
+
+---
+
+@axios.com
+
+As AI technology transforms the economy, the government will need to step in and retrain the workforce, Anthropic CEO Dario Amodei said today.
+
+[2025-12-04 05:38:59](https://bsky.app/profile/axios.com/post/3m74ctv5gbs27)
 
 ---
 
