@@ -1,9 +1,9 @@
-# [2025-12-03 15:50 updated](2025_12_03.md)
+# [2025-12-03 16:10 updated](2025_12_03.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Israel's Prime Minister's Office says "findings" returned Tuesday by Palestinian militants do not match either of the dead hostages held in Gaza. <a href="https://bsky.app/profile/apnews.com/post/3m72udks4ud2f" target="_blank">apnews.com</a> (2025-12-03 15:46:39)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】仙台市で高校生に暴行加え死亡させた男2人にそれぞれ懲役9年と7年の実刑判決 (2025-12-03 15:40) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m72ucayfxw2h" target="_blank">sokuho.news</a> (2025-12-03 15:45:55)</span><span style="padding-right:50px;">Hunt for missing flight MH370 to resume this month, Malaysia says reut.rs/4iD06dV <a href="https://bsky.app/profile/reuters.com/post/3m72uax37yg27" target="_blank">reuters.com</a> (2025-12-03 15:45:11)</span><span style="padding-right:50px;">CNBC's UK Exchange newsletter: What the Treasury gives with one hand, it takes with the other <a href="https://bsky.app/profile/cnbc.com/post/3m72u7jxsvz23" target="_blank">cnbc.com</a> (2025-12-03 15:44:24)</span><span style="padding-right:50px;">CNBC's The China Connection newsletter: Three economic flashpoints for 2026 <a href="https://bsky.app/profile/cnbc.com/post/3m72u3prvou2f" target="_blank">cnbc.com</a> (2025-12-03 15:42:16)</span>
+<span style="padding-right:50px;">【各地の紅葉 動画】奈良 正暦寺「錦の里」 https://news.web.nhk/newsweb/na/na-k10014990441000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72vghbl4x23" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 16:06:07)</span><span style="padding-right:50px;">【解説動画】日本海側中心に4日にかけ大雪見込み(3日15時) https://news.web.nhk/newsweb/na/na-k10014992881000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72vgctzux24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 16:06:02)</span><span style="padding-right:50px;">India rupee falls past 90 as outflows batter Asian laggard, central bank staggers defence reut.rs/4rzTDEs <a href="https://bsky.app/profile/reuters.com/post/3m72venudvo27" target="_blank">reuters.com</a> (2025-12-03 16:05:09)</span><span style="padding-right:50px;">BREAKING US halts immigration applications for 19 nations: official memorandum <a href="https://bsky.app/profile/en.afp.com/post/3m72v7pp6gc2m" target="_blank">en.afp.com</a> (2025-12-03 16:02:24)</span><span style="padding-right:50px;">At the start of a Cabinet meeting just after noon ET on Tuesday, President Donald Trump made his seemingly obligatory reference to “Sleepy Joe” Biden. | Analysis  <a href="https://bsky.app/profile/cnn.com/post/3m72v72jcwf2n" target="_blank">cnn.com</a> (2025-12-03 16:02:01)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.30 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.61 (🔻0.21 : 2025-12-03)</span>
+<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.30 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.52 (🔻0.30 : 2025-12-03)</span>
   </div>
 </div>
 
@@ -32,72 +32,54 @@
 
 ## News Headlines
 
-1.  パレスチナ武装勢力、ガザ人質死亡確認で食い違い
-2.  仙台、高校生暴行死事件で男2人に実刑判決
-3.  マレーシア、MH370便の捜索を今月再開
-4.  日経平均、5万円目前に取引終了 - AI・半導体株がけん引
-5.  福井県知事、辞職届を提出
-6.  EU、2027年までにロシア産ガス輸入を段階的に廃止で合意
+1. 奈良・正暦寺の紅葉、「錦の里」が見頃
+2. 日本海側中心に大雪警戒、4日にかけ注意
+3. 札幌市で住宅火災、30代男性死亡、5棟延焼
+4. 芦田愛菜、『薬屋のひとりごと』実写主演か
+5. 片山さつき財務大臣、政治資金「不記載」発覚
+6. MH370便の捜索、今月再開へ
 
 ----
 
-@apnews.com
+@nhknewsunofficial.bsky.social
 
-Israel's Prime Minister's Office says "findings" returned Tuesday by Palestinian militants do not match either of the dead hostages held in Gaza.
+【各地の紅葉 動画】奈良 正暦寺「錦の里」
+https://news.web.nhk/newsweb/na/na-k10014990441000
 
-[2025-12-03 15:46:39](https://bsky.app/profile/apnews.com/post/3m72udks4ud2f)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】仙台市で高校生に暴行加え死亡させた男2人にそれぞれ懲役9年と7年の実刑判決
-(2025-12-03 15:40) #ニュース
-
-[2025-12-03 15:45:55](https://bsky.app/profile/sokuho.news/post/3m72ucayfxw2h)
-
----
-
-@reuters.com
-
-Hunt for missing flight MH370 to resume this month, Malaysia says reut.rs/4iD06dV
-
-[2025-12-03 15:45:11](https://bsky.app/profile/reuters.com/post/3m72uax37yg27)
-
----
-
-@cnbc.com
-
-CNBC's UK Exchange newsletter: What the Treasury gives with one hand, it takes with the other
-
-[2025-12-03 15:44:24](https://bsky.app/profile/cnbc.com/post/3m72u7jxsvz23)
-
----
-
-@cnbc.com
-
-CNBC's The China Connection newsletter: Three economic flashpoints for 2026
-
-[2025-12-03 15:42:16](https://bsky.app/profile/cnbc.com/post/3m72u3prvou2f)
+[2025-12-03 16:06:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72vghbl4x23)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-福井県 杉本知事 きょう辞職届提出 4日に県議会本会議で採決へ
-https://news.web.nhk/newsweb/na/na-k10014992851000
+【解説動画】日本海側中心に4日にかけ大雪見込み(3日15時)
+https://news.web.nhk/newsweb/na/na-k10014992881000
 
-[2025-12-03 15:42:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72u3fc3rs26)
+[2025-12-03 16:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72vgctzux24)
 
 ---
 
-@financialtimes.com
+@reuters.com
 
-Record pay for RSM partners reaches levels earned at Big Four on.ft.com/3MfiSvJ
+India rupee falls past 90 as outflows batter Asian laggard, central bank staggers defence reut.rs/4rzTDEs
 
-[2025-12-03 15:41:35](https://bsky.app/profile/financialtimes.com/post/3m72u2j23ei26)
+[2025-12-03 16:05:09](https://bsky.app/profile/reuters.com/post/3m72venudvo27)
+
+---
+
+@en.afp.com
+
+BREAKING US halts immigration applications for 19 nations: official memorandum
+
+[2025-12-03 16:02:24](https://bsky.app/profile/en.afp.com/post/3m72v7pp6gc2m)
+
+---
+
+@cnn.com
+
+At the start of a Cabinet meeting just after noon ET on Tuesday, President Donald Trump made his seemingly obligatory reference to “Sleepy Joe” Biden. | Analysis 
+
+[2025-12-03 16:02:01](https://bsky.app/profile/cnn.com/post/3m72v72jcwf2n)
 
 ---
 
@@ -105,29 +87,54 @@ Record pay for RSM partners reaches levels earned at Big Four on.ft.com/3MfiSvJ
 
 🛎️JNNより【速報】です。
 
-【速報】日経平均 5万円届かずも4万9864円で取引終了 561円高 再びAI・半導体関連株がけん引役に
-(2025-12-03 15:38:20) #ニュース
+【速報】住宅火災で住人とみられる30代男性が死亡 隣接する住宅5棟にも延焼 札幌市白石区
+(2025-12-03 15:59:00) #ニュース
 
-📈世界の株価
-🔗https://sekai-kabuka.com/
+[2025-12-03 16:01:14](https://bsky.app/profile/sokuho.news/post/3m72v5mymdc24)
 
-[2025-12-03 15:40:55](https://bsky.app/profile/sokuho.news/post/3m72tzdcrs62d)
+---
+
+@apnews.com
+
+Azteca Stadium is set to reopen in March when Mexico hosts Portugal and Cristiano Ronaldo in a friendly match ahead of the 2026 World Cup.
+
+[2025-12-03 16:00:44](https://bsky.app/profile/apnews.com/post/3m72v4r63fd2j)
+
+---
+
+@nikkei.com
+
+保護司の任期2→3年、安全対策は国の責務に　担い手確保へ改正法成立（無料記事）
+www.nikkei.com/article/DGXZQO...
+
+保護司は刑務所から仮釈放された人や保護観察中の少年らと定期的に面接し、住居の確保や就職などを手助けする非常勤の国家公務員。
+
+明治時代に始まった日本独自の制度で、交通費などの活動経費を除き原則無給で活動しています。
+
+2024年5月に大津市で男性保護司が自宅で殺害された事件を受け、改正法は安全環境の整備を国の責務として明記しました。
+
+#ニュース
+
+[2025-12-03 16:00:41](https://bsky.app/profile/nikkei.com/post/3m72v4o2pvc2j)
+
+---
+
+@sokuho.news
+
+🛎️文春より【スクープ】です。
+
+芦田愛菜（21）が大人気ラノベ『薬屋のひとりごと』実写化で主演に！《累計発行部数4500万部》
+(2025-12-03 16:00) #ニュース
+
+[2025-12-03 16:00:33](https://bsky.app/profile/sokuho.news/post/3m72v4fwrji2l)
 
 ---
 
 @reuters.com
 
-JD.com's JDi launches Hong Kong IPO seeking up to $420 million reut.rs/4ovauFI
+Aramco's Jafurah gas plant begins output, Saudi finance ministry says reut.rs/48xmjFJ
 
-[2025-12-03 15:40:11](https://bsky.app/profile/reuters.com/post/3m72txyywo42i)
-
----
-
-@reuters.com
-
-Europe reaches deal on phasing out Russian gas imports by 2027 reut.rs/4owlFOC
-
-[2025-12-03 15:35:08](https://bsky.app/profile/reuters.com/post/3m72toxwwo42i)
+[2025-12-03 16:00:30](https://bsky.app/profile/reuters.com/post/3m72v4dtxje2a)
 
 ---
 
