@@ -1,9 +1,9 @@
-# [2025-12-04 03:10 updated](2025_12_04.md)
+# [2025-12-04 03:30 updated](2025_12_04.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Capricor eyes US nod for Duchenne cell therapy after success in key study reut.rs/3MgOIbx <a href="https://bsky.app/profile/reuters.com/post/3m742aqlg2w2k" target="_blank">reuters.com</a> (2025-12-04 03:05:06)</span><span style="padding-right:50px;">Bernstein Litowitz lawyers leave to launch new shareholder firm reut.rs/4pgDwdv <a href="https://bsky.app/profile/reuters.com/post/3m73zzf4gb42k" target="_blank">reuters.com</a> (2025-12-04 03:00:59)</span><span style="padding-right:50px;">Many Americans are addicted to soda. And for those who wish to stop, cutting soda cold-turkey might not be a good idea <a href="https://bsky.app/profile/usatoday.com/post/3m73zyn2fwg2d" target="_blank">usatoday.com</a> (2025-12-04 03:00:34)</span><span style="padding-right:50px;">A new study found the loneliest Americans included adults 45 to 49 years old, as well as people who were unmarried, unemployed or whose income fell below $25,000 a year.  <a href="https://bsky.app/profile/washingtonpost.com/post/3m73zyihznw2x" target="_blank">washingtonpost.com</a> (2025-12-04 03:00:30)</span><span style="padding-right:50px;">Southeast Asia has been hit by unusually severe floods this year, with late storms killing more than 1,400 people and leaving hundreds missing across Indonesia, Sri Lanka, and Thailand. <a href="https://bsky.app/profile/apnews.com/post/3m73zyijjjn2t" target="_blank">apnews.com</a> (2025-12-04 03:00:30)</span>
+<span style="padding-right:50px;">Honduran TV presenter Salvador Nasralla on Wednesday widened his narrow lead over Trump-backed rival Nasry Asfura, as the counting of votes cast in last weekend's presidential election dragged into a third day.  u.afp.com/ShyU <a href="https://bsky.app/profile/en.afp.com/post/3m743jps3bo25" target="_blank">en.afp.com</a> (2025-12-04 03:28:01)</span><span style="padding-right:50px;">Bond investors warned US Treasury over picking Hassett as Fed chair on.ft.com/4iCjmZ4 <a href="https://bsky.app/profile/financialtimes.com/post/3m743i5yie625" target="_blank">financialtimes.com</a> (2025-12-04 03:27:09)</span><span style="padding-right:50px;">When "Mad Men" hit HBO Max, viewers caught several basic production errors that somehow slipped into the final product. <a href="https://bsky.app/profile/nbcnews.com/post/3m743hxmrcp2c" target="_blank">nbcnews.com</a> (2025-12-04 03:27:02)</span><span style="padding-right:50px;">LSEG to integrate financial data into ChatGPT in AI push reut.rs/3Y3RRhk <a href="https://bsky.app/profile/reuters.com/post/3m743ejzjzf2k" target="_blank">reuters.com</a> (2025-12-04 03:25:08)</span><span style="padding-right:50px;"> Britain’s big experiment with taxing EVs on.ft.com/4ot6ZQd  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m743eb6xt42r" target="_blank">financialtimes.com</a> (2025-12-04 03:24:58)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47845.17 (🔺473.55 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23453.98 (🔺138.40 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 180.51 (🔻0.56 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.11 (🔻0.71 : 2025-12-03)</span>
+<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47857.84 (🔺486.22 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23461.13 (🔺145.55 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 180.67 (🔻0.39 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.13 (🔻0.69 : 2025-12-03)</span>
   </div>
 </div>
 
@@ -32,92 +32,94 @@
 
 ## News Headlines
 
-1. デュシェンヌ型細胞治療、主要研究成功で米国承認視野
-2. バーンスタイン・リトウィッツの弁護士らが新株主訴訟会社を設立
-3. 東南アジアで記録的な洪水、1400人以上死亡
-4. バイナンス、共同創業者Yi Heを共同CEOに任命
-5. SEC、高レバレッジETF計画の審査を一時停止、リスクを指摘
-6. トランプ政権、ニューオーリンズで移民取り締まり強化
+1. ホンジュラス大統領選、ナスララ氏がリード拡大
+2. 債券投資家、米財務省にFRB議長人事で警告
+3. LSEG、金融データをChatGPTに統合
+4. 国防長官、機密戦争計画をSignalで共有か
+5. CDC、新生児へのB型肝炎ワクチン推奨見直しへ
+6. イエメンで拘束されていたフィリピン人船員解放へ
 
 ----
 
-@reuters.com
+@en.afp.com
 
-Capricor eyes US nod for Duchenne cell therapy after success in key study reut.rs/3MgOIbx
+Honduran TV presenter Salvador Nasralla on Wednesday widened his narrow lead over Trump-backed rival Nasry Asfura, as the counting of votes cast in last weekend's presidential election dragged into a third day. 
+u.afp.com/ShyU
 
-[2025-12-04 03:05:06](https://bsky.app/profile/reuters.com/post/3m742aqlg2w2k)
-
----
-
-@reuters.com
-
-Bernstein Litowitz lawyers leave to launch new shareholder firm reut.rs/4pgDwdv
-
-[2025-12-04 03:00:59](https://bsky.app/profile/reuters.com/post/3m73zzf4gb42k)
-
----
-
-@usatoday.com
-
-Many Americans are addicted to soda. And for those who wish to stop, cutting soda cold-turkey might not be a good idea
-
-[2025-12-04 03:00:34](https://bsky.app/profile/usatoday.com/post/3m73zyn2fwg2d)
-
----
-
-@washingtonpost.com
-
-A new study found the loneliest Americans included adults 45 to 49 years old, as well as people who were unmarried, unemployed or whose income fell below $25,000 a year. 
-
-[2025-12-04 03:00:30](https://bsky.app/profile/washingtonpost.com/post/3m73zyihznw2x)
-
----
-
-@apnews.com
-
-Southeast Asia has been hit by unusually severe floods this year, with late storms killing more than 1,400 people and leaving hundreds missing across Indonesia, Sri Lanka, and Thailand.
-
-[2025-12-04 03:00:30](https://bsky.app/profile/apnews.com/post/3m73zyijjjn2t)
-
----
-
-@aljazeera.com
-
-The Philippines says it expected nine Filipino mariners held by the Houthis since July attack to be released in Yemen.
-
-[2025-12-04 03:00:28](https://bsky.app/profile/aljazeera.com/post/3m73zyh53ej2k)
-
----
-
-@npr.org
-
-Bassem Khandaqji entered prison 21 years ago for plotting a deadly bombing in Israel. He left prison as an award-winning novelist.
-
-[2025-12-04 03:00:15](https://bsky.app/profile/npr.org/post/3m73zy3477l2f)
-
----
-
-@nbcnews.com
-
-Hundreds of studies, including gold-standard clinical trials, challenge HHS Sec. RFK Jr.’s claim that the HPV vaccine is harmful.
-
-[2025-12-04 03:00:12](https://bsky.app/profile/nbcnews.com/post/3m73zxxzn5n2c)
-
----
-
-@bloomberg.com
-
-🧠 Alphadots challenges players to solve a new puzzle every day using speed and strategy. Try today’s puzzle:
-
-[2025-12-04 03:00:04](https://bsky.app/profile/bloomberg.com/post/3m73zxpw2ih2d)
+[2025-12-04 03:28:01](https://bsky.app/profile/en.afp.com/post/3m743jps3bo25)
 
 ---
 
 @financialtimes.com
 
-Binance names co-founder Yi He as co-chief executive on.ft.com/3XxD1zC
+Bond investors warned US Treasury over picking Hassett as Fed chair on.ft.com/4iCjmZ4
 
-[2025-12-04 02:58:01](https://bsky.app/profile/financialtimes.com/post/3m73zu2mexo26)
+[2025-12-04 03:27:09](https://bsky.app/profile/financialtimes.com/post/3m743i5yie625)
+
+---
+
+@nbcnews.com
+
+When "Mad Men" hit HBO Max, viewers caught several basic production errors that somehow slipped into the final product.
+
+[2025-12-04 03:27:02](https://bsky.app/profile/nbcnews.com/post/3m743hxmrcp2c)
+
+---
+
+@reuters.com
+
+LSEG to integrate financial data into ChatGPT in AI push reut.rs/3Y3RRhk
+
+[2025-12-04 03:25:08](https://bsky.app/profile/reuters.com/post/3m743ejzjzf2k)
+
+---
+
+@financialtimes.com
+
+ Britain’s big experiment with taxing EVs on.ft.com/4ot6ZQd  | opinion
+
+[2025-12-04 03:24:58](https://bsky.app/profile/financialtimes.com/post/3m743eb6xt42r)
+
+---
+
+@npr.org
+
+A neighborhood network in Chicago has been helping other cities that face immigration enforcement raids.
+
+[2025-12-04 03:22:59](https://bsky.app/profile/npr.org/post/3m743ap2r3e2i)
+
+---
+
+@cnn.com
+
+Inspector General report finds Defense Secretary Hegseth risked endangering troops by sharing sensitive war plans on Signal, sources say
+https://cnn.it/44BSEd6
+
+[2025-12-04 03:21:03](https://bsky.app/profile/cnn.com/post/3m7435avjn32y)
+
+---
+
+@nbcnews.com
+
+A group of advisers to the CDC is preparing to vote on whether the agency should scrap its long-standing recommendation that every baby get a hepatitis B vaccination within 24 hours of birth.
+
+[2025-12-04 03:20:06](https://bsky.app/profile/nbcnews.com/post/3m7433kksic2c)
+
+---
+
+@wsj.com
+
+More than 57 million people watched the Dallas Cowboys upset the Kansas City Chiefs on CBS this Thanksgiving, setting a new viewing high.
+
+[2025-12-04 03:15:31](https://bsky.app/profile/wsj.com/post/3m742tehmvd2a)
+
+---
+
+@reuters.com
+
+Microsoft denies report of lowering targets for AI software sales growth reut.rs/48sy4gs
+
+[2025-12-04 03:15:11](https://bsky.app/profile/reuters.com/post/3m742sqv36527)
 
 ---
 
