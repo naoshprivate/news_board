@@ -1,9 +1,9 @@
-# [2025-12-04 04:50 updated](2025_12_04.md)
+# [2025-12-04 05:10 updated](2025_12_04.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Pips is a logic puzzle where players must arrange a set of dominoes to meet the conditions of the board to win. There are three new puzzles each day — can you beat them all? nyti.ms/4oAjNnP <a href="https://bsky.app/profile/nytimes.com/post/3m747yudwtc27" target="_blank">nytimes.com</a> (2025-12-04 04:48:04)</span><span style="padding-right:50px;">BREAKING: Pentagon watchdog finds Hegseth's Signal chat violated regulations, could have endangered troops, sources say. <a href="https://bsky.app/profile/cbsnews.com/post/3m747uxdbxv2z" target="_blank">cbsnews.com</a> (2025-12-04 04:45:53)</span><span style="padding-right:50px;">Hedge funds double down using near-record leverage in quest to boost returns reut.rs/4pI1wWH <a href="https://bsky.app/profile/reuters.com/post/3m747toerh327" target="_blank">reuters.com</a> (2025-12-04 04:45:10)</span><span style="padding-right:50px;">House Republicans have escalated their push for Jack Smith to testify, subpoenaing the former special counsel to answer House Judiciary Committee questions about his federal prosecutions of President Trump behind closed doors. <a href="https://bsky.app/profile/washingtonpost.com/post/3m747tjjn2g23" target="_blank">washingtonpost.com</a> (2025-12-04 04:45:05)</span><span style="padding-right:50px;">Exclusive: European Rearmament Bank seeks merger with JPMorgan-backed rival multilateral lender reut.rs/4pgE4jF <a href="https://bsky.app/profile/reuters.com/post/3m747kuujfc2d" target="_blank">reuters.com</a> (2025-12-04 04:40:15)</span>
+<span style="padding-right:50px;">While writing her cookbook, Khushbu Shah became convinced that a spinach lasagna could be greatly improved by swapping in the flavors of saag paneer for the filling. It’s a dish she jokingly refers to as “lasaagna.” nyti.ms/4ixPNHR <a href="https://bsky.app/profile/nytimes.com/post/3m74b2ved232e" target="_blank">nytimes.com</a> (2025-12-04 05:07:06)</span><span style="padding-right:50px;">Gasoline prices drop below $3 per gallon to hit lowest level since 2021 <a href="https://bsky.app/profile/yahoofinance.com/post/3m74azacjje2z" target="_blank">yahoofinance.com</a> (2025-12-04 05:06:11)</span><span style="padding-right:50px;">佐川急便 荷物急増できょう全国的に広く荷物の受け付けを制限 https://news.web.nhk/newsweb/na/na-k10014993401000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74az6hcfs2e" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-04 05:06:07)</span><span style="padding-right:50px;">「快活CLUB」運営会社にサイバー攻撃か 高校生を逮捕へ 警視庁 https://news.web.nhk/newsweb/na/na-k10014993351000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74ayzgb5a23" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-04 05:06:01)</span><span style="padding-right:50px;">Trump pardons US Congressman Cuellar of Texas and his wife reut.rs/4rA2iXB <a href="https://bsky.app/profile/reuters.com/post/3m74axavpt32y" target="_blank">reuters.com</a> (2025-12-04 05:05:04)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47936.33 (🔺564.71 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23480.64 (🔺165.06 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 180.80 (🔻0.26 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.15 (🔻0.67 : 2025-12-03)</span>
+<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47957.85 (🔺586.23 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23486.99 (🔺171.41 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 180.29 (🔻0.78 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.14 (🔻0.68 : 2025-12-03)</span>
   </div>
 </div>
 
@@ -32,92 +32,97 @@
 
 ## News Headlines
 
-1.  ペンの監視機関、ヘグセス氏のシグナルチャットが規則違反と判断、部隊を危険にさらした可能性
-2.  トランプ大統領、米国在住のソマリア人に「元の場所に戻るべき」と発言
-3.  トランプ大統領の関税に対する最高裁判所の判決、政権に巨額の払い戻しを強いる可能性
-4.  共和党下院議員、ジャック・スミス氏に証言を要求、トランプ大統領の訴追について非公開で質問
-5.  イスラエル、爆撃容疑者の家族が所有するアパートを破壊
-6.  AIチップ需要急増でMicron、一般消費者向けメモリ販売を停止
+1. ガソリン価格、2021年以来の1ガロン3ドル割れ
+2. 佐川急便、荷物急増で全国的に受付制限
+3. 「快活CLUB」サイバー攻撃、高校生逮捕へ、700万件超の情報流出か
+4. トランプ氏、クエイヤー米下院議員夫妻を恩赦
+5. 米民間部門雇用者数、11月に2年半超ぶりの大幅減少
+6. ペンタゴン監視機関、ヘグセス国防長官補佐官が機密情報を漏洩と報告
 
 ----
 
 @nytimes.com
 
-Pips is a logic puzzle where players must arrange a set of dominoes to meet the conditions of the board to win. There are three new puzzles each day — can you beat them all? nyti.ms/4oAjNnP
+While writing her cookbook, Khushbu Shah became convinced that a spinach lasagna could be greatly improved by swapping in the flavors of saag paneer for the filling. It’s a dish she jokingly refers to as “lasaagna.” nyti.ms/4ixPNHR
 
-[2025-12-04 04:48:04](https://bsky.app/profile/nytimes.com/post/3m747yudwtc27)
+[2025-12-04 05:07:06](https://bsky.app/profile/nytimes.com/post/3m74b2ved232e)
 
 ---
 
-@cbsnews.com
+@yahoofinance.com
 
-<strong><span style="color: red;">BREAKING:</span> Pentagon watchdog finds Hegseth's Signal chat violated regulations, could have endangered troops, sources say.</strong>
+Gasoline prices drop below $3 per gallon to hit lowest level since 2021
 
-[2025-12-04 04:45:53](https://bsky.app/profile/cbsnews.com/post/3m747uxdbxv2z)
+[2025-12-04 05:06:11](https://bsky.app/profile/yahoofinance.com/post/3m74azacjje2z)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+佐川急便 荷物急増できょう全国的に広く荷物の受け付けを制限
+https://news.web.nhk/newsweb/na/na-k10014993401000
+
+[2025-12-04 05:06:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74az6hcfs2e)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+「快活CLUB」運営会社にサイバー攻撃か 高校生を逮捕へ 警視庁
+https://news.web.nhk/newsweb/na/na-k10014993351000
+
+[2025-12-04 05:06:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74ayzgb5a23)
 
 ---
 
 @reuters.com
 
-Hedge funds double down using near-record leverage in quest to boost returns reut.rs/4pI1wWH
+Trump pardons US Congressman Cuellar of Texas and his wife reut.rs/4rA2iXB
 
-[2025-12-04 04:45:10](https://bsky.app/profile/reuters.com/post/3m747toerh327)
-
----
-
-@washingtonpost.com
-
-House Republicans have escalated their push for Jack Smith to testify, subpoenaing the former special counsel to answer House Judiciary Committee questions about his federal prosecutions of President Trump behind closed doors.
-
-[2025-12-04 04:45:05](https://bsky.app/profile/washingtonpost.com/post/3m747tjjn2g23)
-
----
-
-@reuters.com
-
-Exclusive: European Rearmament Bank seeks merger with JPMorgan-backed rival multilateral lender reut.rs/4pgE4jF
-
-[2025-12-04 04:40:15](https://bsky.app/profile/reuters.com/post/3m747kuujfc2d)
+[2025-12-04 05:05:04](https://bsky.app/profile/reuters.com/post/3m74axavpt32y)
 
 ---
 
 @nbcnews.com
 
-President Trump says Somalis in the U.S. should “go back to where they came from.”
+The report outlines the findings of a more than eight-month investigation into Hegseth’s use of Signal to share details of planned U.S. strikes in Yemen. nbcnews.to/4iDZuVx
 
-[2025-12-04 04:40:06](https://bsky.app/profile/nbcnews.com/post/3m747kmds6a2c)
-
----
-
-@nytimes.com
-
-A Supreme Court ruling against President Trump's tariffs could force his administration to pay back a substantial portion of the roughly $200 billion it has collected in duties since the start of the year. Some companies aren’t waiting to try to secure a speedy and substantial payout.
-
-[2025-12-04 04:40:02](https://bsky.app/profile/nytimes.com/post/3m747kibzf72l)
+[2025-12-04 05:05:01](https://bsky.app/profile/nbcnews.com/post/3m74ax63xje2h)
 
 ---
 
-@wsj.com
+@sokuho.news
 
-Why do new businesses fail? Here are the top 10 reasons, according to researchers.
+🛎️JNNより【速報】です。
 
-[2025-12-04 04:38:45](https://bsky.app/profile/wsj.com/post/3m747i6tktw2i)
+【速報】「快活CLUB」公式アプリにサイバー攻撃疑い 少年（17）を逮捕へ 生成AI「ChatGPT」使いプログラム作成 700万件超の会員情報が流出 警視庁
+(2025-12-04 05:00:47) #ニュース
+
+[2025-12-04 05:03:56](https://bsky.app/profile/sokuho.news/post/3m74av7mhme2h)
 
 ---
 
-@financialtimes.com
+@cnbc.com
 
- Zara-owner Inditex is the anti-fashion fashion house on.ft.com/48yQ88E  | opinion
+OpenAI to acquire Neptune, a startup that helps with AI model training
 
-[2025-12-04 04:36:05](https://bsky.app/profile/financialtimes.com/post/3m747dgalte2w)
+[2025-12-04 05:02:50](https://bsky.app/profile/cnbc.com/post/3m74atb7ufy2f)
+
+---
+
+@usatoday.com
+
+Spotify Wrapped has arrived with plenty of new bells and whistles. Here's how to find your stats and what's new this year.
+
+[2025-12-04 05:02:11](https://bsky.app/profile/usatoday.com/post/3m74as3e2ga2x)
 
 ---
 
 @reuters.com
 
-US import prices unexpectedly flat in September reut.rs/4pky21x
+US private payrolls post largest drop in more than 2-1/2 years in November reut.rs/4iBIOhi
 
-[2025-12-04 04:35:08](https://bsky.app/profile/reuters.com/post/3m747bqbjss2n)
+[2025-12-04 05:01:33](https://bsky.app/profile/reuters.com/post/3m74aqxppdl27)
 
 ---
 
