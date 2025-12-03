@@ -1,9 +1,9 @@
-# [2025-12-03 20:10 updated](2025_12_03.md)
+# [2025-12-03 20:30 updated](2025_12_03.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Retailers moved into 5.5 million more square feet than they vacated in the third quarter, a notable turnaround from the year’s first half. <a href="https://bsky.app/profile/wsj.com/post/3m73cuvlx2o2j" target="_blank">wsj.com</a> (2025-12-03 20:06:53)</span><span style="padding-right:50px;">Foxconn, Luxshare plan to add millions to Vietnam's game console output, documents show reut.rs/48fC6tP <a href="https://bsky.app/profile/reuters.com/post/3m73cro7cm72n" target="_blank">reuters.com</a> (2025-12-03 20:05:04)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】金沢で初雪観測 平年より9日遅く去年より5日早い (2025-12-03 20:02:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m73crdnnmw24" target="_blank">sokuho.news</a> (2025-12-03 20:04:53)</span><span style="padding-right:50px;">🇱🇧 Pope urges end to hostilities at end of Lebanon trip   Pope Leo XIV said the Middle East needed new approaches for peace during a mass attended by 150,000 people at Beirut's waterfront.  #AFPVertical <a href="https://bsky.app/profile/en.afp.com/post/3m73cknmau322" target="_blank">en.afp.com</a> (2025-12-03 20:01:09)</span><span style="padding-right:50px;">The city of San Francisco filed a lawsuit against some of the nation's top food manufacturers, arguing that ultraprocessed food from the likes of Coca-Cola and Nestle are responsible for a public health crisis. https://cnn.it/44Fp5r9 <a href="https://bsky.app/profile/cnn.com/post/3m73ckgwzy22y" target="_blank">cnn.com</a> (2025-12-03 20:01:02)</span>
+<span style="padding-right:50px;">Trump signals Kevin Hassett as his pick for Fed chair—markets now see around an 85% chance he gets the job. What does this mean for rates? reut.rs/48gupDJ <a href="https://bsky.app/profile/reuters.com/post/3m73dzs4tg22q" target="_blank">reuters.com</a> (2025-12-03 20:27:31)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】長野地域・中野飯山地域・大北地域に大雪警報 (2025-12-03 20:23:00) #ニュース  🟨警報注意報 🔗https://www.jma.go.jp/bosai/warning/#lang=ja&area_type=offices&area_code=200000 <a href="https://bsky.app/profile/sokuho.news/post/3m73dw3a7sc2y" target="_blank">sokuho.news</a> (2025-12-03 20:25:26)</span><span style="padding-right:50px;">A crystal Fabergé egg laced with platinum snowflakes and encrusted with thousands of tiny rose diamonds sold in London on Tuesday for more than $30 million, an auction record for a creation by the famed Russian jeweler. <a href="https://bsky.app/profile/nytimes.com/post/3m73dvfcctf26" target="_blank">nytimes.com</a> (2025-12-03 20:25:03)</span><span style="padding-right:50px;">Former EU foreign policy chief Mogherini accused of fraud and corruption reut.rs/48MrmmJ <a href="https://bsky.app/profile/reuters.com/post/3m73dvf44bw2k" target="_blank">reuters.com</a> (2025-12-03 20:25:03)</span><span style="padding-right:50px;">Kyiv is widening its campaign against Russia’s energy architecture, seeking to deprive it of vital revenue, but that strategy comes with risks. <a href="https://bsky.app/profile/wsj.com/post/3m73dqe2kyc2w" target="_blank">wsj.com</a> (2025-12-03 20:22:14)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.30 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.46 (🔻0.36 : 2025-12-03)</span>
+<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.30 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.43 (🔻0.39 : 2025-12-03)</span>
   </div>
 </div>
 
@@ -32,28 +32,20 @@
 
 ## News Headlines
 
-1. 小売業、第3四半期に空室面積を大幅に上回る増加
-2. 金沢で初雪観測、平年より遅く去年より早い
-3. サンフランシスコ市、大手食品メーカーを提訴：超加工食品が公衆衛生危機を招く
-4. 米運輸保安庁、連邦基準を満たさないIDに手数料徴収
-5. エアバス、ベストセラー機の問題で2025年の納入目標を下方修正
-6. 東京都調査：女性の家事・育児時間減も男女格差は依然として大きい
+1.  トランプ氏、次期FRB議長候補にハセット氏を示唆
+2.  長野県の一部地域に大雪警報発令
+3.  ファベルジェの卵、オークションで3000万ドル超え
+4.  マレーシア航空MH370便、12月末に捜索再開
+5.  三菱地所、マンション引き渡し前の転売禁止
+6.  EU、2027年までにロシア産ガス輸入を全面禁止へ
 
 ----
 
-@wsj.com
-
-Retailers moved into 5.5 million more square feet than they vacated in the third quarter, a notable turnaround from the year’s first half.
-
-[2025-12-03 20:06:53](https://bsky.app/profile/wsj.com/post/3m73cuvlx2o2j)
-
----
-
 @reuters.com
 
-Foxconn, Luxshare plan to add millions to Vietnam's game console output, documents show reut.rs/48fC6tP
+Trump signals Kevin Hassett as his pick for Fed chair—markets now see around an 85% chance he gets the job. What does this mean for rates? reut.rs/48gupDJ
 
-[2025-12-03 20:05:04](https://bsky.app/profile/reuters.com/post/3m73cro7cm72n)
+[2025-12-03 20:27:31](https://bsky.app/profile/reuters.com/post/3m73dzs4tg22q)
 
 ---
 
@@ -61,74 +53,79 @@ Foxconn, Luxshare plan to add millions to Vietnam's game console output, documen
 
 🛎️JNNより【速報】です。
 
-【速報】金沢で初雪観測 平年より9日遅く去年より5日早い
-(2025-12-03 20:02:00) #ニュース
+【速報】長野地域・中野飯山地域・大北地域に大雪警報
+(2025-12-03 20:23:00) #ニュース
 
-[2025-12-03 20:04:53](https://bsky.app/profile/sokuho.news/post/3m73crdnnmw24)
+🟨警報注意報
+🔗https://www.jma.go.jp/bosai/warning/#lang=ja&area_type=offices&area_code=200000
+
+[2025-12-03 20:25:26](https://bsky.app/profile/sokuho.news/post/3m73dw3a7sc2y)
+
+---
+
+@nytimes.com
+
+A crystal Fabergé egg laced with platinum snowflakes and encrusted with thousands of tiny rose diamonds sold in London on Tuesday for more than $30 million, an auction record for a creation by the famed Russian jeweler.
+
+[2025-12-03 20:25:03](https://bsky.app/profile/nytimes.com/post/3m73dvfcctf26)
+
+---
+
+@reuters.com
+
+Former EU foreign policy chief Mogherini accused of fraud and corruption reut.rs/48MrmmJ
+
+[2025-12-03 20:25:03](https://bsky.app/profile/reuters.com/post/3m73dvf44bw2k)
+
+---
+
+@wsj.com
+
+Kyiv is widening its campaign against Russia’s energy architecture, seeking to deprive it of vital revenue, but that strategy comes with risks.
+
+[2025-12-03 20:22:14](https://bsky.app/profile/wsj.com/post/3m73dqe2kyc2w)
+
+---
+
+@cbsnews.com
+
+Democratic Sen. Tammy Duckworth of Illinois, the ranking member on the Senate's aviation subcommittee, is demanding the Transportation Department expand its $10,000 bonus to all air traffic controllers and FAA technicians who worked without pay during the government shutdown. 
+
+[2025-12-03 20:22:11](https://bsky.app/profile/cbsnews.com/post/3m73dqb5pry2j)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+ヤクルト 新人入団発表 ドラフト1位の松下歩叶が抱負
+https://news.web.nhk/newsweb/na/na-k10014993141000
+
+[2025-12-03 20:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m73dobuy2m26)
 
 ---
 
 @en.afp.com
 
-🇱🇧 Pope urges end to hostilities at end of Lebanon trip
- 
-Pope Leo XIV said the Middle East needed new approaches for peace during a mass attended by 150,000 people at Beirut's waterfront. 
-#AFPVertical
+🇲🇾 ✈️ The search for missing Malaysia Airlines flight MH370 will resume at the end of December, Malaysia's transport ministry said, more than a decade after the plane disappeared. 
+➡️ u.afp.com/Sh95
 
-[2025-12-03 20:01:09](https://bsky.app/profile/en.afp.com/post/3m73cknmau322)
+[2025-12-03 20:20:01](https://bsky.app/profile/en.afp.com/post/3m73dmfjwwb2u)
 
 ---
 
-@cnn.com
+@npr.org
 
-The city of San Francisco filed a lawsuit against some of the nation's top food manufacturers, arguing that ultraprocessed food from the likes of Coca-Cola and Nestle are responsible for a public health crisis. https://cnn.it/44Fp5r9
+Bassem Khandaqji entered prison 21 years ago for plotting a deadly bombing in Israel. He left prison as an award-winning novelist. n.pr/4pdMfwW
 
-[2025-12-03 20:01:02](https://bsky.app/profile/cnn.com/post/3m73ckgwzy22y)
-
----
-
-@reuters.com
-
-Binance co-founder Yi He joins Richard Teng in dual leadership structure reut.rs/4rzG1t1
-
-[2025-12-03 20:00:42](https://bsky.app/profile/reuters.com/post/3m73cjtrmma2w)
-
----
-
-@nikkei.com
-
-MAGA系シンクタンク幹部「トランプ氏タイプの指導者、任期終われば不要かもしれない」
-www.nikkei.com/article/DGXZQO...
-
-バンス副大統領の知恵袋であるシンクタンク・クレアモント。
-
-「人々は王様は求めていない」と語るバイスプレジデントに保守運動の未来図を聞きました。
-
-[2025-12-03 20:00:28](https://bsky.app/profile/nikkei.com/post/3m73cjgfmka2w)
-
----
-
-@cnbc.com
-
-The U.S. Transportation Security Administration said Monday it will charge travelers $45 starting February 1 if their IDs do not meet federal standards.
-
-[2025-12-03 20:00:17](https://bsky.app/profile/cnbc.com/post/3m73cj3w22s2q)
-
----
-
-@bloomberg.com
-
-Chemicals banned in the EU are widely available in Nigeria and across Africa, threatening food and water supplies.
-
-[2025-12-03 20:00:14](https://bsky.app/profile/bloomberg.com/post/3m73ciyxamu2n)
+[2025-12-03 20:19:13](https://bsky.app/profile/npr.org/post/3m73dkxdrhz2e)
 
 ---
 
 @reuters.com
 
-LIVE: Prince William and Kate welcome German president at London’s Heathrow youtube.com/live/v0G2ni0...
+LIVE: Ukraine's foreign minister arrives at NATO headquarters youtube.com/live/jDnlXQP...
 
-[2025-12-03 19:57:39](https://bsky.app/profile/reuters.com/post/3m73cefgxz223)
+[2025-12-03 20:18:02](https://bsky.app/profile/reuters.com/post/3m73ditvvwc23)
 
 ---
 
