@@ -1,9 +1,9 @@
-# [2025-12-03 16:10 updated](2025_12_03.md)
+# [2025-12-03 16:30 updated](2025_12_03.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">【各地の紅葉 動画】奈良 正暦寺「錦の里」 https://news.web.nhk/newsweb/na/na-k10014990441000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72vghbl4x23" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 16:06:07)</span><span style="padding-right:50px;">【解説動画】日本海側中心に4日にかけ大雪見込み(3日15時) https://news.web.nhk/newsweb/na/na-k10014992881000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72vgctzux24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 16:06:02)</span><span style="padding-right:50px;">India rupee falls past 90 as outflows batter Asian laggard, central bank staggers defence reut.rs/4rzTDEs <a href="https://bsky.app/profile/reuters.com/post/3m72venudvo27" target="_blank">reuters.com</a> (2025-12-03 16:05:09)</span><span style="padding-right:50px;">BREAKING US halts immigration applications for 19 nations: official memorandum <a href="https://bsky.app/profile/en.afp.com/post/3m72v7pp6gc2m" target="_blank">en.afp.com</a> (2025-12-03 16:02:24)</span><span style="padding-right:50px;">At the start of a Cabinet meeting just after noon ET on Tuesday, President Donald Trump made his seemingly obligatory reference to “Sleepy Joe” Biden. | Analysis  <a href="https://bsky.app/profile/cnn.com/post/3m72v72jcwf2n" target="_blank">cnn.com</a> (2025-12-03 16:02:01)</span>
+<span style="padding-right:50px;">大分 大規模火災 規制区域の住民 立ち入り許可証の運用始まる https://news.web.nhk/newsweb/na/na-k10014992891000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72wluivrp2g" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 16:27:02)</span><span style="padding-right:50px;">Rupee set to hold near 90 with shaky sentiment, flows overshadowing dollar dip reut.rs/3Md4ynw <a href="https://bsky.app/profile/reuters.com/post/3m72wifie3i2i" target="_blank">reuters.com</a> (2025-12-03 16:25:08)</span><span style="padding-right:50px;">FIS“CAS 裁定受け入れ”ロシアとベラルーシ 中立選手で参加へ https://news.web.nhk/newsweb/na/na-k10014992771000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72wb5itue2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 16:21:03)</span><span style="padding-right:50px;">米オープンAI 社内に「非常事態」宣言 ChatGPT改良に集中 指示 https://news.web.nhk/newsweb/na/na-k10014992801000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72w3rhuao2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 16:18:03)</span><span style="padding-right:50px;">【随時更新】ロシア ウクライナに軍事侵攻（12月3日の動き） https://news.web.nhk/newsweb/na/na-k10014973041000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72vwnpb5a2e" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 16:15:12)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.30 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.52 (🔻0.30 : 2025-12-03)</span>
+<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.30 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.65 (🔻0.17 : 2025-12-03)</span>
   </div>
 </div>
 
@@ -32,14 +32,84 @@
 
 ## News Headlines
 
-1. 奈良・正暦寺の紅葉、「錦の里」が見頃
-2. 日本海側中心に大雪警戒、4日にかけ注意
-3. 札幌市で住宅火災、30代男性死亡、5棟延焼
-4. 芦田愛菜、『薬屋のひとりごと』実写主演か
-5. 片山さつき財務大臣、政治資金「不記載」発覚
-6. MH370便の捜索、今月再開へ
+1. 大分大規模火災、規制区域で立ち入り許可証運用開始
+2. ロシアとベラルーシ、中立選手としてFIS参加へ
+3. 米オープンAI、「非常事態」宣言でChatGPT改良に集中
+4. 改正保護司法成立、安全対策は国の責務に
+5. 札幌市で住宅火災、30代男性死亡・5棟延焼
+6. インド通貨ルピー、対ドルで最安値更新
 
 ----
+
+@nhknewsunofficial.bsky.social
+
+大分 大規模火災 規制区域の住民 立ち入り許可証の運用始まる
+https://news.web.nhk/newsweb/na/na-k10014992891000
+
+[2025-12-03 16:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72wluivrp2g)
+
+---
+
+@reuters.com
+
+Rupee set to hold near 90 with shaky sentiment, flows overshadowing dollar dip reut.rs/3Md4ynw
+
+[2025-12-03 16:25:08](https://bsky.app/profile/reuters.com/post/3m72wifie3i2i)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+FIS“CAS 裁定受け入れ”ロシアとベラルーシ 中立選手で参加へ
+https://news.web.nhk/newsweb/na/na-k10014992771000
+
+[2025-12-03 16:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72wb5itue2p)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+米オープンAI 社内に「非常事態」宣言 ChatGPT改良に集中 指示
+https://news.web.nhk/newsweb/na/na-k10014992801000
+
+[2025-12-03 16:18:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72w3rhuao2j)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【随時更新】ロシア ウクライナに軍事侵攻（12月3日の動き）
+https://news.web.nhk/newsweb/na/na-k10014973041000
+
+[2025-12-03 16:15:12](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72vwnpb5a2e)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+ホンジュラス大統領選 開票作業続く 野党の候補2人が接戦
+https://news.web.nhk/newsweb/na/na-k10014992791000
+
+[2025-12-03 16:15:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72vwjte662u)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+改正保護司法など 参院本会議 全会一致で可決・成立
+https://news.web.nhk/newsweb/na/na-k10014992781000
+
+[2025-12-03 16:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72vwfeqpg2j)
+
+---
+
+@reuters.com
+
+Airbus prepares A320 inspections as fuselage flaw hits deliveries reut.rs/3KbSMcx
+
+[2025-12-03 16:10:09](https://bsky.app/profile/reuters.com/post/3m72vnlzrhb26)
+
+---
 
 @nhknewsunofficial.bsky.social
 
@@ -56,85 +126,6 @@ https://news.web.nhk/newsweb/na/na-k10014990441000
 https://news.web.nhk/newsweb/na/na-k10014992881000
 
 [2025-12-03 16:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72vgctzux24)
-
----
-
-@reuters.com
-
-India rupee falls past 90 as outflows batter Asian laggard, central bank staggers defence reut.rs/4rzTDEs
-
-[2025-12-03 16:05:09](https://bsky.app/profile/reuters.com/post/3m72venudvo27)
-
----
-
-@en.afp.com
-
-BREAKING US halts immigration applications for 19 nations: official memorandum
-
-[2025-12-03 16:02:24](https://bsky.app/profile/en.afp.com/post/3m72v7pp6gc2m)
-
----
-
-@cnn.com
-
-At the start of a Cabinet meeting just after noon ET on Tuesday, President Donald Trump made his seemingly obligatory reference to “Sleepy Joe” Biden. | Analysis 
-
-[2025-12-03 16:02:01](https://bsky.app/profile/cnn.com/post/3m72v72jcwf2n)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】住宅火災で住人とみられる30代男性が死亡 隣接する住宅5棟にも延焼 札幌市白石区
-(2025-12-03 15:59:00) #ニュース
-
-[2025-12-03 16:01:14](https://bsky.app/profile/sokuho.news/post/3m72v5mymdc24)
-
----
-
-@apnews.com
-
-Azteca Stadium is set to reopen in March when Mexico hosts Portugal and Cristiano Ronaldo in a friendly match ahead of the 2026 World Cup.
-
-[2025-12-03 16:00:44](https://bsky.app/profile/apnews.com/post/3m72v4r63fd2j)
-
----
-
-@nikkei.com
-
-保護司の任期2→3年、安全対策は国の責務に　担い手確保へ改正法成立（無料記事）
-www.nikkei.com/article/DGXZQO...
-
-保護司は刑務所から仮釈放された人や保護観察中の少年らと定期的に面接し、住居の確保や就職などを手助けする非常勤の国家公務員。
-
-明治時代に始まった日本独自の制度で、交通費などの活動経費を除き原則無給で活動しています。
-
-2024年5月に大津市で男性保護司が自宅で殺害された事件を受け、改正法は安全環境の整備を国の責務として明記しました。
-
-#ニュース
-
-[2025-12-03 16:00:41](https://bsky.app/profile/nikkei.com/post/3m72v4o2pvc2j)
-
----
-
-@sokuho.news
-
-🛎️文春より【スクープ】です。
-
-芦田愛菜（21）が大人気ラノベ『薬屋のひとりごと』実写化で主演に！《累計発行部数4500万部》
-(2025-12-03 16:00) #ニュース
-
-[2025-12-03 16:00:33](https://bsky.app/profile/sokuho.news/post/3m72v4fwrji2l)
-
----
-
-@reuters.com
-
-Aramco's Jafurah gas plant begins output, Saudi finance ministry says reut.rs/48xmjFJ
-
-[2025-12-03 16:00:30](https://bsky.app/profile/reuters.com/post/3m72v4dtxje2a)
 
 ---
 
