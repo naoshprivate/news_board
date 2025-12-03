@@ -1,9 +1,9 @@
-# [2025-12-03 22:50 updated](2025_12_03.md)
+# [2025-12-03 23:10 updated](2025_12_03.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">US private employers shed 32,000 jobs in November on.ft.com/4rxUFkj <a href="https://bsky.app/profile/financialtimes.com/post/3m73lvh4sfw27" target="_blank">financialtimes.com</a> (2025-12-03 22:48:15)</span><span style="padding-right:50px;">Private wealth has become an operational arm of the Trump presidency, bankrolling pet projects and policies on a scale unmatched by any previous administration. <a href="https://bsky.app/profile/axios.com/post/3m73lucjfkc2x" target="_blank">axios.com</a> (2025-12-03 22:47:37)</span><span style="padding-right:50px;">ECB urges Italy to reconsider proposal on central bank's $300 billion gold reut.rs/3McSEdo <a href="https://bsky.app/profile/reuters.com/post/3m73lptq5to2y" target="_blank">reuters.com</a> (2025-12-03 22:45:07)</span><span style="padding-right:50px;">The end of 2025 is almost upon us. And it’s time to unpack Spotify Wrapped. <a href="https://bsky.app/profile/apnews.com/post/3m73lpons5p2h" target="_blank">apnews.com</a> (2025-12-03 22:45:02)</span><span style="padding-right:50px;">From Breakingviews - Breakingviews - UK budget circus reveals technocracy’s limits reut.rs/3Y6jhTO <a href="https://bsky.app/profile/reuters.com/post/3m73lh6aftx2e" target="_blank">reuters.com</a> (2025-12-03 22:40:16)</span>
+<span style="padding-right:50px;">The road to redistricting in Missouri has been wild and winding, but its tie to a 1997 kids' movie starring a basketball-playing golden retriever might be the most unexpected development of all. n.pr/44FvIK3 <a href="https://bsky.app/profile/npr.org/post/3m73mzrfjlc2x" target="_blank">npr.org</a> (2025-12-03 23:08:34)</span><span style="padding-right:50px;">Production halted at Chinese factory making 'childlike' sex dolls <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m73mzifgaq2q" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-03 23:08:24)</span><span style="padding-right:50px;">Israel says Rafah crossing to open soon to let Gazans leave via Egypt <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m73mxl25zc2g" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-03 23:07:19)</span><span style="padding-right:50px;">Kenyan lawmakers identify 'disturbing trend' of misconduct by British troops reut.rs/48MMs4p <a href="https://bsky.app/profile/reuters.com/post/3m73mtj6fjw2o" target="_blank">reuters.com</a> (2025-12-03 23:05:04)</span><span style="padding-right:50px;">ETFs make it easier to invest in gold — the tax treatment may be the tricky part. Here's what to know <a href="https://bsky.app/profile/cnbc.com/post/3m73mpib42s2g" target="_blank">cnbc.com</a> (2025-12-03 23:02:49)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.30 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.40 (🔻0.42 : 2025-12-03)</span>
+<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.30 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.31 (🔻0.51 : 2025-12-03)</span>
   </div>
 </div>
 
@@ -32,94 +32,92 @@
 
 ## News Headlines
 
-1. 米民間部門雇用者数、11月に32,000人減少
-2. ECB、イタリアに中央銀行の金準備見直しを要請
-3. EU、ロシア資産を活用しウクライナ支援へ最大2100億ユーロ融資案
-4. リビアン、シートベルト問題で米国内の配送バン約35,000台をリコール
-5. 大阪万博の経済効果3兆円、想定を3000億円上回る
-6. 日産、追浜工場閉鎖に伴う転籍者に月給差額5年分を一括支給へ
+1. 中国工場で「子供のような」性人形の製造停止
+2. イスラエル、ラファ検問所を近日中に開放、ガザ住民のエジプトへの出国を許可
+3. ケニア議員、英国軍による「憂慮すべき傾向」の不正行為を特定
+4. インド、セキュリティアプリのプリインストール義務化命令を撤回、プライバシー懸念
+5. サンフランシスコ市、大手食品会社を提訴、超加工食品の有害性と依存性を主張
+6. EU、ロシア資産を活用したウクライナ支援策を提案
 
 ----
 
-@financialtimes.com
-
-US private employers shed 32,000 jobs in November on.ft.com/4rxUFkj
-
-[2025-12-03 22:48:15](https://bsky.app/profile/financialtimes.com/post/3m73lvh4sfw27)
-
----
-
-@axios.com
-
-Private wealth has become an operational arm of the Trump presidency, bankrolling pet projects and policies on a scale unmatched by any previous administration.
-
-[2025-12-03 22:47:37](https://bsky.app/profile/axios.com/post/3m73lucjfkc2x)
-
----
-
-@reuters.com
-
-ECB urges Italy to reconsider proposal on central bank's $300 billion gold reut.rs/3McSEdo
-
-[2025-12-03 22:45:07](https://bsky.app/profile/reuters.com/post/3m73lptq5to2y)
-
----
-
-@apnews.com
-
-The end of 2025 is almost upon us. And it’s time to unpack Spotify Wrapped.
-
-[2025-12-03 22:45:02](https://bsky.app/profile/apnews.com/post/3m73lpons5p2h)
-
----
-
-@reuters.com
-
-From Breakingviews - Breakingviews - UK budget circus reveals technocracy’s limits reut.rs/3Y6jhTO
-
-[2025-12-03 22:40:16](https://bsky.app/profile/reuters.com/post/3m73lh6aftx2e)
-
----
-
-@nbcnews.com
-
-Los Angeles legend Chris Paul has been cut from the Clippers and sent home in a shock move confirmed by the franchise, less than two months into what was meant to be the player's last season.
-
-[2025-12-03 22:40:05](https://bsky.app/profile/nbcnews.com/post/3m73lgtvj7z2h)
-
----
-
-@en.afp.com
-
-🏏 Josh Inglis is expected to come into Australia's batting line-up for the second Ashes Test on Thursday as speculation grows that captain Pat Cummins might make a shock comeback in Brisbane. 
-#AFPSports 
-➡️ u.afp.com/Sh9K
-
-[2025-12-03 22:40:02](https://bsky.app/profile/en.afp.com/post/3m73lgqjxpe2k)
-
----
-
 @npr.org
 
-As RFK Jr.'s new vaccine panel ponders changing the hepatitis B vaccination schedule, some doctors recall past patients, including children, who died painful deaths before there was a vaccine. n.pr/3McwKqG
+The road to redistricting in Missouri has been wild and winding, but its tie to a 1997 kids' movie starring a basketball-playing golden retriever might be the most unexpected development of all. n.pr/44FvIK3
 
-[2025-12-03 22:36:10](https://bsky.app/profile/npr.org/post/3m73l7u4w7n2h)
+[2025-12-03 23:08:34](https://bsky.app/profile/npr.org/post/3m73mzrfjlc2x)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Production halted at Chinese factory making 'childlike' sex dolls
+
+[2025-12-03 23:08:24](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m73mzifgaq2q)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Israel says Rafah crossing to open soon to let Gazans leave via Egypt
+
+[2025-12-03 23:07:19](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m73mxl25zc2g)
 
 ---
 
 @reuters.com
 
-European shares gain on tech, industrials boost as investor appetite improves reut.rs/3Y6iulO
+Kenyan lawmakers identify 'disturbing trend' of misconduct by British troops reut.rs/48MMs4p
 
-[2025-12-03 22:35:05](https://bsky.app/profile/reuters.com/post/3m73l5vkhq52w)
+[2025-12-03 23:05:04](https://bsky.app/profile/reuters.com/post/3m73mtj6fjw2o)
+
+---
+
+@cnbc.com
+
+ETFs make it easier to invest in gold — the tax treatment may be the tricky part. Here's what to know
+
+[2025-12-03 23:02:49](https://bsky.app/profile/cnbc.com/post/3m73mpib42s2g)
+
+---
+
+@nytimes.com
+
+The annual DealBook Summit begins soon. Scott Bessent, Erika Kirk, Gavin Newsom, Dario Amodei and Alex Karp are among the big names speaking. Follow along and watch live here. nyti.ms/4q5Ksuf
+
+[2025-12-03 23:01:50](https://bsky.app/profile/nytimes.com/post/3m73mnq2gnu26)
 
 ---
 
 @financialtimes.com
 
-Breaking news: The European Commission has proposed a loan that would leverage up to €210bn of Russian assets immobilised by EU sanctions to fund Kyiv, which would not have to repay the loan until Russia pays reparations on.ft.com/4iFKUNi
+Elon Musk and Jeff Bezos will not live forever, so perhaps they are contemplating how to deploy their billions in the long term. What can the descendants of the aristocracy that dominated Britain from the Middle Ages to the first world war teach them? on.ft.com/447ztrr
 
-[2025-12-03 22:34:47](https://bsky.app/profile/financialtimes.com/post/3m73l5el2fi25)
+[2025-12-03 23:01:09](https://bsky.app/profile/financialtimes.com/post/3m73mmisvu526)
+
+---
+
+@cnn.com
+
+Here's what's fueling the operation. https://cnn.it/49USscE
+
+[2025-12-03 23:01:02](https://bsky.app/profile/cnn.com/post/3m73mmcwgz223)
+
+---
+
+@reuters.com
+
+Flood-hit Indonesian regions run low on fuel, funds for relief effort reut.rs/44ywys0
+
+[2025-12-03 23:00:56](https://bsky.app/profile/reuters.com/post/3m73mm4izh22n)
+
+---
+
+@washingtonpost.com
+
+Palantir’s software is helping ICE track undocumented immigrants and deport them faster, according to federal procurement filings and interviews with people who have knowledge of the project. 
+
+[2025-12-03 23:00:32](https://bsky.app/profile/washingtonpost.com/post/3m73mlg5s3u2e)
 
 ---
 
