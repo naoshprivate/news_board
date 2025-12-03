@@ -1,9 +1,9 @@
-# [2025-12-03 18:30 updated](2025_12_03.md)
+# [2025-12-03 18:50 updated](2025_12_03.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️ANNより【速報】です。  【速報】宇都宮駅前 車に女性挟まれる (2025-12-03 18:19:06) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m735erx3a326" target="_blank">sokuho.news</a> (2025-12-03 18:28:24)</span><span style="padding-right:50px;">India File: $100 billion data centre boom tests resource limits reut.rs/445Algf <a href="https://bsky.app/profile/reuters.com/post/3m7356upzc627" target="_blank">reuters.com</a> (2025-12-03 18:25:05)</span><span style="padding-right:50px;">「紛失防止タグ」悪用を規制 改正ストーカー規制法可決・成立 https://news.web.nhk/newsweb/na/na-k10014993121000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m735534hie2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 18:24:02)</span><span style="padding-right:50px;">Svedka’s Super Bowl ad will use AI to introduce its Fembot to a new generation. <a href="https://bsky.app/profile/wsj.com/post/3m7353m3mmm2i" target="_blank">wsj.com</a> (2025-12-03 18:23:15)</span><span style="padding-right:50px;">Commercial airline pilots often conceal mental health conditions for fear that disclosing therapy or medication, or even just seeking help, could mean having their license pulled, putting themselves and their passengers at risk reut.rs/3XA1btg <a href="https://bsky.app/profile/reuters.com/post/3m734yykojk2y" target="_blank">reuters.com</a> (2025-12-03 18:21:48)</span>
+<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】河北町吉田で複数台の車が絡む事故 2人が病院に搬送、1人を飲酒運転で現行犯逮捕（山形） (2025-12-03 18:43:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m736ivembp2h" target="_blank">sokuho.news</a> (2025-12-03 18:48:35)</span><span style="padding-right:50px;">President Trump appeared to be fighting sleep on Tuesday during a cabinet meeting at the White House, closing his eyes and at times seeming to nod off, after he criticized media coverage about him facing the realities of aging in office.   Read more: nyti.ms/4asjEzw <a href="https://bsky.app/profile/nytimes.com/post/3m736d6nsr322" target="_blank">nytimes.com</a> (2025-12-03 18:45:24)</span><span style="padding-right:50px;">JLR's chief creative officer departs, Autocar India reports reut.rs/3Mo0uAR <a href="https://bsky.app/profile/reuters.com/post/3m736cmpy7j2w" target="_blank">reuters.com</a> (2025-12-03 18:45:05)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】香港マンション火災 死者数159人に マンションの捜索は終了 (2025-12-03 18:38:20) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7367mamjc2e" target="_blank">sokuho.news</a> (2025-12-03 18:43:24)</span><span style="padding-right:50px;">The Trump administration canceled interviews with a group of finalists to be the next Federal Reserve chair as Trump again suggested he had made up his mind about who should lead the central bank. <a href="https://bsky.app/profile/wsj.com/post/3m7365zbc7224" target="_blank">wsj.com</a> (2025-12-03 18:42:30)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.30 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.65 (🔻0.17 : 2025-12-03)</span>
+<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.30 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.57 (🔻0.25 : 2025-12-03)</span>
   </div>
 </div>
 
@@ -32,65 +32,86 @@
 
 ## News Headlines
 
-1.  宇都宮駅前で事故、車に女性挟まれる
-2.  改正ストーカー規制法成立、紛失防止タグ悪用を規制
-3.  北海道警警察官、水泳施設でわいせつ行為　懲戒処分
-4.  15歳女子中学生誘拐事件、20歳男を逮捕
-5.  イクラ卸売価格が2倍に高騰、「おせち」への影響は？
-6.  浜岡原発不適切契約、「非常に重大」と規制委員長
+1. 河北町で複数台絡む事故、2人搬送、飲酒運転で1人逮捕
+2. 香港マンション火災、死者159人に
+3. 北海道警警部補、プールで女児にわいせつ行為で懲戒処分
+4. 宇都宮駅前で70代女性運転の車が20代女性をはねる
+5. 「紛失防止タグ」悪用規制、改正ストーカー規制法可決
+6. イクラ卸売価格、去年の2倍近くに高騰
 
 ----
 
 @sokuho.news
 
-🛎️ANNより【速報】です。
+🛎️JNNより【速報】です。
 
-【速報】宇都宮駅前 車に女性挟まれる
-(2025-12-03 18:19:06) #ニュース
+【速報】河北町吉田で複数台の車が絡む事故 2人が病院に搬送、1人を飲酒運転で現行犯逮捕（山形）
+(2025-12-03 18:43:00) #ニュース
 
-[2025-12-03 18:28:24](https://bsky.app/profile/sokuho.news/post/3m735erx3a326)
+[2025-12-03 18:48:35](https://bsky.app/profile/sokuho.news/post/3m736ivembp2h)
+
+---
+
+@nytimes.com
+
+President Trump appeared to be fighting sleep on Tuesday during a cabinet meeting at the White House, closing his eyes and at times seeming to nod off, after he criticized media coverage about him facing the realities of aging in office. 
+
+Read more: nyti.ms/4asjEzw
+
+[2025-12-03 18:45:24](https://bsky.app/profile/nytimes.com/post/3m736d6nsr322)
 
 ---
 
 @reuters.com
 
-India File: $100 billion data centre boom tests resource limits reut.rs/445Algf
+JLR's chief creative officer departs, Autocar India reports reut.rs/3Mo0uAR
 
-[2025-12-03 18:25:05](https://bsky.app/profile/reuters.com/post/3m7356upzc627)
+[2025-12-03 18:45:05](https://bsky.app/profile/reuters.com/post/3m736cmpy7j2w)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@sokuho.news
 
-「紛失防止タグ」悪用を規制 改正ストーカー規制法可決・成立
-https://news.web.nhk/newsweb/na/na-k10014993121000
+🛎️JNNより【速報】です。
 
-[2025-12-03 18:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m735534hie2p)
+【速報】香港マンション火災 死者数159人に マンションの捜索は終了
+(2025-12-03 18:38:20) #ニュース
+
+[2025-12-03 18:43:24](https://bsky.app/profile/sokuho.news/post/3m7367mamjc2e)
 
 ---
 
 @wsj.com
 
-Svedka’s Super Bowl ad will use AI to introduce its Fembot to a new generation.
+The Trump administration canceled interviews with a group of finalists to be the next Federal Reserve chair as Trump again suggested he had made up his mind about who should lead the central bank.
 
-[2025-12-03 18:23:15](https://bsky.app/profile/wsj.com/post/3m7353m3mmm2i)
-
----
-
-@reuters.com
-
-Commercial airline pilots often conceal mental health conditions for fear that disclosing therapy or medication, or even just seeking help, could mean having their license pulled, putting themselves and their passengers at risk reut.rs/3XA1btg
-
-[2025-12-03 18:21:48](https://bsky.app/profile/reuters.com/post/3m734yykojk2y)
+[2025-12-03 18:42:30](https://bsky.app/profile/wsj.com/post/3m7365zbc7224)
 
 ---
 
 @reuters.com
 
-LIVE: French President Macron lands in Beijing
-youtube.com/live/q7bvxDI...
+Hugo Boss shares slide as fashion brand presses reset reut.rs/4iBRzrx
 
-[2025-12-03 18:17:05](https://bsky.app/profile/reuters.com/post/3m734ql4wzc2k)
+[2025-12-03 18:40:05](https://bsky.app/profile/reuters.com/post/3m735zp2ikl2r)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+スピードスケート 森重航 W杯第3戦を前に会場で調整
+https://news.web.nhk/newsweb/na/na-k10014993011000
+
+[2025-12-03 18:39:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m735xvhece2k)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+阪神 中野拓夢 推定1億5500万円アップの年俸3億円で契約更改
+https://news.web.nhk/newsweb/na/na-k10014993031000
+
+[2025-12-03 18:36:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m735skajfr2b)
 
 ---
 
@@ -98,35 +119,21 @@ youtube.com/live/q7bvxDI...
 
 🛎️FNNより【速報】です。
 
-【速報】水泳施設で北海道警の警察官が13歳未満の子ども2人にわいせつ行為_40歳代警部補を停職6か月の懲戒処分〈札幌市〉
+【速報】「欲求を満たすため」北海道警の警部補がプールで遊泳中に女児2人にわいせつ行為_臀部付近を手で複数回触る…夏ごろから5、6回繰り返したか_停職6か月の懲戒処分〈札幌市〉
 (2025-12-03 18:05) #ニュース
 
-[2025-12-03 18:15:55](https://bsky.app/profile/sokuho.news/post/3m734oid7v52h)
+[2025-12-03 18:35:44](https://bsky.app/profile/sokuho.news/post/3m735rvsas72d)
 
 ---
 
-@reuters.com
+@sokuho.news
 
-Indian data center operator Sify Infinit Spaces bets on AI boom but wary of bubble reut.rs/48AOyU1
+🛎️NNNより【速報】です。
 
-[2025-12-03 18:15:09](https://bsky.app/profile/reuters.com/post/3m734n4c5zf27)
+【速報】「ブレーキとアクセルを間違えた」70代女性が運転の車に20代女性はねられる JR宇都宮駅前
+(2025-12-03 18:35) #ニュース
 
----
-
-@reuters.com
-
-Hundreds of Palestinians attend a mass wedding in Gaza’s Khan Younis on December 2.
-
-[2025-12-03 18:14:53](https://bsky.app/profile/reuters.com/post/3m734mmo3yk2y)
-
----
-
-@nhknewsunofficial.bsky.social
-
-“失業給付 申請サポート” トラブル相次ぐ 注意を
-https://news.web.nhk/newsweb/na/na-k10014993101000
-
-[2025-12-03 18:12:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m734hmepg42g)
+[2025-12-03 18:35:17](https://bsky.app/profile/sokuho.news/post/3m735r3xvrj2l)
 
 ---
 
