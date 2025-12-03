@@ -1,9 +1,9 @@
-# [2025-12-04 05:10 updated](2025_12_04.md)
+# [2025-12-04 05:30 updated](2025_12_04.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">While writing her cookbook, Khushbu Shah became convinced that a spinach lasagna could be greatly improved by swapping in the flavors of saag paneer for the filling. It’s a dish she jokingly refers to as “lasaagna.” nyti.ms/4ixPNHR <a href="https://bsky.app/profile/nytimes.com/post/3m74b2ved232e" target="_blank">nytimes.com</a> (2025-12-04 05:07:06)</span><span style="padding-right:50px;">Gasoline prices drop below $3 per gallon to hit lowest level since 2021 <a href="https://bsky.app/profile/yahoofinance.com/post/3m74azacjje2z" target="_blank">yahoofinance.com</a> (2025-12-04 05:06:11)</span><span style="padding-right:50px;">佐川急便 荷物急増できょう全国的に広く荷物の受け付けを制限 https://news.web.nhk/newsweb/na/na-k10014993401000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74az6hcfs2e" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-04 05:06:07)</span><span style="padding-right:50px;">「快活CLUB」運営会社にサイバー攻撃か 高校生を逮捕へ 警視庁 https://news.web.nhk/newsweb/na/na-k10014993351000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74ayzgb5a23" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-04 05:06:01)</span><span style="padding-right:50px;">Trump pardons US Congressman Cuellar of Texas and his wife reut.rs/4rA2iXB <a href="https://bsky.app/profile/reuters.com/post/3m74axavpt32y" target="_blank">reuters.com</a> (2025-12-04 05:05:04)</span>
+<span style="padding-right:50px;">ロシア ウクライナの要衝掌握の発表 “交渉に臨む立場強めた” https://news.web.nhk/newsweb/na/na-k10014993461000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74c6m7zot2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-04 05:27:03)</span><span style="padding-right:50px;">A forthcoming inspector general report finds that had intel shared by Hegseth been intercepted by an adversary, it would have endangered servicemembers, according to a source who viewed the findings. n.pr/3KGzegt <a href="https://bsky.app/profile/npr.org/post/3m74c4ktdma2x" target="_blank">npr.org</a> (2025-12-04 05:25:56)</span><span style="padding-right:50px;">Mexican government hikes minimum wage, pushes shorter work week reut.rs/3XARYkr <a href="https://bsky.app/profile/reuters.com/post/3m74c2yuzsm26" target="_blank">reuters.com</a> (2025-12-04 05:25:04)</span><span style="padding-right:50px;">The members of Philadelphia's Senior Environment Corps wade into streams, peered through microscopes and teach kids how to identify aquatic critters. (via @whyy.org) <a href="https://bsky.app/profile/npr.org/post/3m74bzzpwvl2o" target="_blank">npr.org</a> (2025-12-04 05:24:31)</span><span style="padding-right:50px;">北～西日本の山沿い中心に降雪 風も強まる 交通影響など警戒を https://news.web.nhk/newsweb/na/na-k10014993471000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74bz7v7l22r" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-04 05:24:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47957.85 (🔺586.23 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23486.99 (🔺171.41 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 180.29 (🔻0.78 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.14 (🔻0.68 : 2025-12-03)</span>
+<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47930.62 (🔺559.00 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23493.21 (🔺177.62 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 180.02 (🔻1.05 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.18 (🔻0.64 : 2025-12-03)</span>
   </div>
 </div>
 
@@ -32,97 +32,94 @@
 
 ## News Headlines
 
-1. ガソリン価格、2021年以来の1ガロン3ドル割れ
-2. 佐川急便、荷物急増で全国的に受付制限
-3. 「快活CLUB」サイバー攻撃、高校生逮捕へ、700万件超の情報流出か
-4. トランプ氏、クエイヤー米下院議員夫妻を恩赦
-5. 米民間部門雇用者数、11月に2年半超ぶりの大幅減少
-6. ペンタゴン監視機関、ヘグセス国防長官補佐官が機密情報を漏洩と報告
+1. ロシア、ウクライナ要衝掌握を発表 - 交渉で優位か
+2. 米監察官報告、ヘグセス機密情報漏洩で米兵の危険指摘
+3. メキシコ政府、最低賃金引き上げと労働時間短縮を推進
+4. 北～西日本の山沿い中心に降雪、交通影響に警戒
+5. インドネシアなどの大雨で死者1400人超
+6. 佐川急便、荷物急増で全国的に受け付け制限
 
 ----
 
-@nytimes.com
-
-While writing her cookbook, Khushbu Shah became convinced that a spinach lasagna could be greatly improved by swapping in the flavors of saag paneer for the filling. It’s a dish she jokingly refers to as “lasaagna.” nyti.ms/4ixPNHR
-
-[2025-12-04 05:07:06](https://bsky.app/profile/nytimes.com/post/3m74b2ved232e)
-
----
-
-@yahoofinance.com
-
-Gasoline prices drop below $3 per gallon to hit lowest level since 2021
-
-[2025-12-04 05:06:11](https://bsky.app/profile/yahoofinance.com/post/3m74azacjje2z)
-
----
-
 @nhknewsunofficial.bsky.social
 
-佐川急便 荷物急増できょう全国的に広く荷物の受け付けを制限
-https://news.web.nhk/newsweb/na/na-k10014993401000
+ロシア ウクライナの要衝掌握の発表 “交渉に臨む立場強めた”
+https://news.web.nhk/newsweb/na/na-k10014993461000
 
-[2025-12-04 05:06:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74az6hcfs2e)
+[2025-12-04 05:27:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74c6m7zot2j)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@npr.org
 
-「快活CLUB」運営会社にサイバー攻撃か 高校生を逮捕へ 警視庁
-https://news.web.nhk/newsweb/na/na-k10014993351000
+A forthcoming inspector general report finds that had intel shared by Hegseth been intercepted by an adversary, it would have endangered servicemembers, according to a source who viewed the findings. n.pr/3KGzegt
 
-[2025-12-04 05:06:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74ayzgb5a23)
+[2025-12-04 05:25:56](https://bsky.app/profile/npr.org/post/3m74c4ktdma2x)
 
 ---
 
 @reuters.com
 
-Trump pardons US Congressman Cuellar of Texas and his wife reut.rs/4rA2iXB
+Mexican government hikes minimum wage, pushes shorter work week reut.rs/3XARYkr
 
-[2025-12-04 05:05:04](https://bsky.app/profile/reuters.com/post/3m74axavpt32y)
+[2025-12-04 05:25:04](https://bsky.app/profile/reuters.com/post/3m74c2yuzsm26)
+
+---
+
+@npr.org
+
+The members of Philadelphia's Senior Environment Corps wade into streams, peered through microscopes and teach kids how to identify aquatic critters. (via @whyy.org)
+
+[2025-12-04 05:24:31](https://bsky.app/profile/npr.org/post/3m74bzzpwvl2o)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+北～西日本の山沿い中心に降雪 風も強まる 交通影響など警戒を
+https://news.web.nhk/newsweb/na/na-k10014993471000
+
+[2025-12-04 05:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74bz7v7l22r)
+
+---
+
+@wsj.com
+
+Amazon is facing a new labor challenge, this time from small-business owners who run the company’s package-delivery network
+
+[2025-12-04 05:20:51](https://bsky.app/profile/wsj.com/post/3m74btihaxw2p)
 
 ---
 
 @nbcnews.com
 
-The report outlines the findings of a more than eight-month investigation into Hegseth’s use of Signal to share details of planned U.S. strikes in Yemen. nbcnews.to/4iDZuVx
+Notre Dame coach Marcus Freeman was magnanimous toward the College Football Playoff’s selection committee, telling NBC News he will “agree to disagree” after the Fighting Irish dropped to 10th in the latest CFP rankings.
 
-[2025-12-04 05:05:01](https://bsky.app/profile/nbcnews.com/post/3m74ax63xje2h)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】「快活CLUB」公式アプリにサイバー攻撃疑い 少年（17）を逮捕へ 生成AI「ChatGPT」使いプログラム作成 700万件超の会員情報が流出 警視庁
-(2025-12-04 05:00:47) #ニュース
-
-[2025-12-04 05:03:56](https://bsky.app/profile/sokuho.news/post/3m74av7mhme2h)
+[2025-12-04 05:20:06](https://bsky.app/profile/nbcnews.com/post/3m74bs4xsxj2h)
 
 ---
 
-@cnbc.com
+@nytimes.com
 
-OpenAI to acquire Neptune, a startup that helps with AI model training
+House Democrats on Wednesday released photographs and videos of Jeffrey Epstein’s home on the private Caribbean island where his accusers have said that he trafficked underage girls for sex. trib.al/xUQzKmm
 
-[2025-12-04 05:02:50](https://bsky.app/profile/cnbc.com/post/3m74atb7ufy2f)
+[2025-12-04 05:16:02](https://bsky.app/profile/nytimes.com/post/3m74bkud47c2z)
 
 ---
 
-@usatoday.com
+@axios.com
 
-Spotify Wrapped has arrived with plenty of new bells and whistles. Here's how to find your stats and what's new this year.
+The North Carolina childhood home of the late musical legend Nina Simone has been restored after being saved from demolition.
 
-[2025-12-04 05:02:11](https://bsky.app/profile/usatoday.com/post/3m74as3e2ga2x)
+[2025-12-04 05:15:55](https://bsky.app/profile/axios.com/post/3m74bknccts2y)
 
 ---
 
 @reuters.com
 
-US private payrolls post largest drop in more than 2-1/2 years in November reut.rs/4iBIOhi
+Trump's NASA pick stresses moon race urgency, pressed on Musk ties in Senate hearing reut.rs/44NcO3T
 
-[2025-12-04 05:01:33](https://bsky.app/profile/reuters.com/post/3m74aqxppdl27)
+[2025-12-04 05:15:11](https://bsky.app/profile/reuters.com/post/3m74bjdzrzx2i)
 
 ---
 
