@@ -1,9 +1,9 @@
-# [2025-12-04 00:30 updated](2025_12_04.md)
+# [2025-12-04 00:50 updated](2025_12_04.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The Pentagon is deploying to the Middle East a new kamikaze drone copied from a widely used Iranian version that is crude but effective. <a href="https://bsky.app/profile/wsj.com/post/3m73rgqwfmz2a" target="_blank">wsj.com</a> (2025-12-04 00:27:24)</span><span style="padding-right:50px;">Energy firms Uniper, Sefe draw investor interest, German economy minister says reut.rs/4iJ3Fzm <a href="https://bsky.app/profile/reuters.com/post/3m73rcmfxj727" target="_blank">reuters.com</a> (2025-12-04 00:25:05)</span><span style="padding-right:50px;">The Department of Homeland Security announced the start of a new immigration enforcement operation in New Orleans.   Follow live updates: https://cnn.it/4owXIqw <a href="https://bsky.app/profile/cnn.com/post/3m73r26vlka2h" target="_blank">cnn.com</a> (2025-12-04 00:20:23)</span><span style="padding-right:50px;">Spotify Wrapped, the platform's annual summation of users' listening habits, was released on Wednesday. But Spotify is no longer the only company quantifying our social lives: From the books you read to to the takeout you ordered, the end-of-year review space is getting crowded. <a href="https://bsky.app/profile/nytimes.com/post/3m73qznmawa2y" target="_blank">nytimes.com</a> (2025-12-04 00:20:05)</span><span style="padding-right:50px;">More than a week after a federal judge tossed the Trump administration's cases against two of the president's top political foes, the DOJ is weighing whether to re-indict former FBI Director James Comey and New York Attorney General Letitia James. <a href="https://bsky.app/profile/nbcnews.com/post/3m73qznkvi42t" target="_blank">nbcnews.com</a> (2025-12-04 00:20:05)</span>
+<span style="padding-right:50px;">Hong Kong orders removal of scaffolding mesh after deadly blaze <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m73sih5a2p2l" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-04 00:46:14)</span><span style="padding-right:50px;">Salesforce stock is historically cheap, but investors still aren’t buying amid AI fears.  The stock has plunged 30% in 2025 to make the company the second-worst performer in the Dow Jones, its lowest market valuation since Salesforce went public in 2004. <a href="https://bsky.app/profile/yahoofinance.com/post/3m73sgjvboc2u" target="_blank">yahoofinance.com</a> (2025-12-04 00:45:11)</span><span style="padding-right:50px;">Vikram Sahu approved as Bank of America India CEO by central bank, memo shows reut.rs/4iDdaA7 <a href="https://bsky.app/profile/reuters.com/post/3m73sghl55f2n" target="_blank">reuters.com</a> (2025-12-04 00:45:08)</span><span style="padding-right:50px;">Five members of Congress from both parties and both chambers are asking AG Pam Bondi for a briefing and status update by the end of the week on the legally mandated release of the Jeffrey Epstein files. <a href="https://bsky.app/profile/nbcnews.com/post/3m73sfmk4hd2j" target="_blank">nbcnews.com</a> (2025-12-04 00:44:40)</span><span style="padding-right:50px;">From indies like Blue Prince to big console exclusives like Donkey Kong Bananza, NPR staff members and contributors round up their favorite games of 2025. n.pr/3K8WaF5 <a href="https://bsky.app/profile/npr.org/post/3m73sbwilrb2a" target="_blank">npr.org</a> (2025-12-04 00:42:36)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47630.62 (🔺259.00 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23359.58 (🔺44.00 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 180.32 (🔻0.74 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.25 (🔻0.57 : 2025-12-03)</span>
+<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47633.79 (🔺262.17 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23427.08 (🔺111.50 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 181.25 (🔺0.18 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.32 (🔻0.50 : 2025-12-03)</span>
   </div>
 </div>
 
@@ -32,95 +32,96 @@
 
 ## News Headlines
 
-1.  米国防総省、イラン製神風ドローン配備へ
-2.  ドイツ経済相、UniperとSefeに投資家の関心
-3.  トランプ政権時代の司法省、コミー氏とジェームズ氏を再起訴か
-4.  Microsoft、AI製品の売上目標未達で株価下落
-5.  AI企業の安全対策、国際基準を満たさず
-6.  暗号資産価格が急落、ビットコイン30%超下落
+1. 香港、死者が出た火災を受け足場のメッシュ撤去を命令
+2. Salesforce株が歴史的安値も、AIへの懸念で投資家は買い控え
+3. インド中銀、ヴィクラム・サフ氏をバンク・オブ・アメリカ・インディアCEOに承認
+4. トランプ政権、民主党主導州へのSNAP給付金支給を停止へ
+5. イスラエル、一部パレスチナ人のガザからエジプトへの出国許可を発表
+6. Microsoft株、AI製品の売上目標未達報道で急落
 
 ----
 
-@wsj.com
+@bbcnews-world-rss.bsky.social
 
-The Pentagon is deploying to the Middle East a new kamikaze drone copied from a widely used Iranian version that is crude but effective.
+Hong Kong orders removal of scaffolding mesh after deadly blaze
 
-[2025-12-04 00:27:24](https://bsky.app/profile/wsj.com/post/3m73rgqwfmz2a)
-
----
-
-@reuters.com
-
-Energy firms Uniper, Sefe draw investor interest, German economy minister says reut.rs/4iJ3Fzm
-
-[2025-12-04 00:25:05](https://bsky.app/profile/reuters.com/post/3m73rcmfxj727)
-
----
-
-@cnn.com
-
-The Department of Homeland Security announced the start of a new immigration enforcement operation in New Orleans. 
-
-Follow live updates: https://cnn.it/4owXIqw
-
-[2025-12-04 00:20:23](https://bsky.app/profile/cnn.com/post/3m73r26vlka2h)
-
----
-
-@nytimes.com
-
-Spotify Wrapped, the platform's annual summation of users' listening habits, was released on Wednesday. But Spotify is no longer the only company quantifying our social lives: From the books you read to to the takeout you ordered, the end-of-year review space is getting crowded.
-
-[2025-12-04 00:20:05](https://bsky.app/profile/nytimes.com/post/3m73qznmawa2y)
-
----
-
-@nbcnews.com
-
-More than a week after a federal judge tossed the Trump administration's cases against two of the president's top political foes, the DOJ is weighing whether to re-indict former FBI Director James Comey and New York Attorney General Letitia James.
-
-[2025-12-04 00:20:05](https://bsky.app/profile/nbcnews.com/post/3m73qznkvi42t)
-
----
-
-@en.afp.com
-
-🇵🇸 The couples walked hand in hand, the brides in traditional embroidered Palestinian white and red dresses adorned with red ribbons, the grooms walked beside them in black suits and ties.
-➡️ u.afp.com/Sh99
-
-[2025-12-04 00:20:03](https://bsky.app/profile/en.afp.com/post/3m73qzm363l2d)
-
----
-
-@reuters.com
-
-India's JSW Steel to move Bhushan Power's steel business to JV with JFE Steel reut.rs/44AQ8ns
-
-[2025-12-04 00:15:07](https://bsky.app/profile/reuters.com/post/3m73qqrhaca2y)
-
----
-
-@nytimes.com
-
-How did you do in Connections today? Players must select four groups of four words without making more than three mistakes. nyti.ms/3McTmY5
-
-[2025-12-04 00:13:07](https://bsky.app/profile/nytimes.com/post/3m73qn73lzf2h)
-
----
-
-@cnbc.com
-
-Microsoft stock sinks on report AI product sales are missing growth goals
-
-[2025-12-04 00:12:42](https://bsky.app/profile/cnbc.com/post/3m73qmhepcp2x)
+[2025-12-04 00:46:14](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m73sih5a2p2l)
 
 ---
 
 @yahoofinance.com
 
-Multiple divisions at Microsoft have lowered sales growth targets for certain AI products after many ​sales staff missed goals in the fiscal year that ‌ended in June, The Information reported.
+Salesforce stock is historically cheap, but investors still aren’t buying amid AI fears.
 
-[2025-12-04 00:10:26](https://bsky.app/profile/yahoofinance.com/post/3m73qifahqk2f)
+The stock has plunged 30% in 2025 to make the company the second-worst performer in the Dow Jones, its lowest market valuation since Salesforce went public in 2004.
+
+[2025-12-04 00:45:11](https://bsky.app/profile/yahoofinance.com/post/3m73sgjvboc2u)
+
+---
+
+@reuters.com
+
+Vikram Sahu approved as Bank of America India CEO by central bank, memo shows reut.rs/4iDdaA7
+
+[2025-12-04 00:45:08](https://bsky.app/profile/reuters.com/post/3m73sghl55f2n)
+
+---
+
+@nbcnews.com
+
+Five members of Congress from both parties and both chambers are asking AG Pam Bondi for a briefing and status update by the end of the week on the legally mandated release of the Jeffrey Epstein files.
+
+[2025-12-04 00:44:40](https://bsky.app/profile/nbcnews.com/post/3m73sfmk4hd2j)
+
+---
+
+@npr.org
+
+From indies like Blue Prince to big console exclusives like Donkey Kong Bananza, NPR staff members and contributors round up their favorite games of 2025. n.pr/3K8WaF5
+
+[2025-12-04 00:42:36](https://bsky.app/profile/npr.org/post/3m73sbwilrb2a)
+
+---
+
+@reuters.com
+
+Global accounting body consults on new model for assessing bank risks reut.rs/3KcPc1P
+
+[2025-12-04 00:40:10](https://bsky.app/profile/reuters.com/post/3m73s5kqdzi27)
+
+---
+
+@nbcnews.com
+
+The Trump administration indicates that it will begin withholding SNAP benefits from recipients in most Democratic-led states starting next week after those states refused to provide the Agriculture Department with data, including recipients’ names and immigration statuses.
+
+[2025-12-04 00:40:09](https://bsky.app/profile/nbcnews.com/post/3m73s5jqxld2t)
+
+---
+
+@nytimes.com
+
+Israel said on Wednesday that it would begin allowing some Palestinians to leave the Gaza Strip for Egypt “in the coming days” through the Rafah border crossing. But the Egyptian government on Wednesday denied that it would reopen soon.
+
+[2025-12-04 00:40:05](https://bsky.app/profile/nytimes.com/post/3m73s5gbvhh2e)
+
+---
+
+@en.afp.com
+
+🇮🇱 🇪🇬 🇵🇸 Israel said it would open the Rafah crossing from Gaza to Egypt to allow residents to exit the Palestinian territory "in the coming days," but Egypt denied such a deal with Israel. 
+➡️ u.afp.com/Sh9y
+
+[2025-12-04 00:40:01](https://bsky.app/profile/en.afp.com/post/3m73s5cqmae2e)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+フィリピン 250人以上死亡の台風から1か月 今も26万人超が避難
+https://news.web.nhk/newsweb/na/na-k10014993321000
+
+[2025-12-04 00:39:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m73s3mrshd2j)
 
 ---
 
