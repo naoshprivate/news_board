@@ -1,9 +1,9 @@
-# [2025-12-03 16:30 updated](2025_12_03.md)
+# [2025-12-03 16:50 updated](2025_12_03.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">大分 大規模火災 規制区域の住民 立ち入り許可証の運用始まる https://news.web.nhk/newsweb/na/na-k10014992891000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72wluivrp2g" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 16:27:02)</span><span style="padding-right:50px;">Rupee set to hold near 90 with shaky sentiment, flows overshadowing dollar dip reut.rs/3Md4ynw <a href="https://bsky.app/profile/reuters.com/post/3m72wifie3i2i" target="_blank">reuters.com</a> (2025-12-03 16:25:08)</span><span style="padding-right:50px;">FIS“CAS 裁定受け入れ”ロシアとベラルーシ 中立選手で参加へ https://news.web.nhk/newsweb/na/na-k10014992771000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72wb5itue2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 16:21:03)</span><span style="padding-right:50px;">米オープンAI 社内に「非常事態」宣言 ChatGPT改良に集中 指示 https://news.web.nhk/newsweb/na/na-k10014992801000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72w3rhuao2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 16:18:03)</span><span style="padding-right:50px;">【随時更新】ロシア ウクライナに軍事侵攻（12月3日の動き） https://news.web.nhk/newsweb/na/na-k10014973041000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72vwnpb5a2e" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 16:15:12)</span>
+<span style="padding-right:50px;">Denny Hamlin testifies: Signing NASCAR charter like 'death certificate' to teams reut.rs/4pgCC0P <a href="https://bsky.app/profile/reuters.com/post/3m72xm72buw27" target="_blank">reuters.com</a> (2025-12-03 16:45:10)</span><span style="padding-right:50px;">Russia 'ready' for war with Europe, Putin says, as Ukraine peace talks fail to deliver breakthrough <a href="https://bsky.app/profile/cnbc.com/post/3m72xhg4r7z23" target="_blank">cnbc.com</a> (2025-12-03 16:42:29)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】山上被告 安倍元総理を狙ったことは「本筋ではないと思っていた。あくまでも統一教会が対象」被告人質問で語る 安倍昭恵さんが見つめる中 (2025-12-03 16:24) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m72xg4hvgx2x" target="_blank">sokuho.news</a> (2025-12-03 16:41:46)</span><span style="padding-right:50px;">Avalanche G Scott Wedgewood exits vs. Canucks with upper-body injury reut.rs/49UxFFY <a href="https://bsky.app/profile/reuters.com/post/3m72xdcdwcs22" target="_blank">reuters.com</a> (2025-12-03 16:40:11)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】レギュラーガソリン164.8円 4週連続値下がりで4.0円の大幅安を記録 (2025-12-03 16:35:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m72x4xcyju2p" target="_blank">sokuho.news</a> (2025-12-03 16:36:38)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.30 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.65 (🔻0.17 : 2025-12-03)</span>
+<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.30 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.66 (🔻0.16 : 2025-12-03)</span>
   </div>
 </div>
 
@@ -32,100 +32,101 @@
 
 ## News Headlines
 
-1. 大分大規模火災、規制区域で立ち入り許可証運用開始
-2. ロシアとベラルーシ、中立選手としてFIS参加へ
-3. 米オープンAI、「非常事態」宣言でChatGPT改良に集中
-4. 改正保護司法成立、安全対策は国の責務に
-5. 札幌市で住宅火災、30代男性死亡・5棟延焼
-6. インド通貨ルピー、対ドルで最安値更新
+1. 山上被告、安倍元総理銃撃は「統一教会が対象、本筋ではない」
+2. ロシア、ヨーロッパとの戦争「準備完了」プーチン大統領発言
+3. 米政府、アフガニスタンなど19か国の移民申請を停止
+4. 大規模火災の大分、規制区域住民に立ち入り許可証運用開始
+5. プラスチック生産、2040年までに52%増加予測
+6. 長期金利上昇、10年国債利回り1.89% - 2008年以来の高水準
 
 ----
 
-@nhknewsunofficial.bsky.social
+@reuters.com
 
-大分 大規模火災 規制区域の住民 立ち入り許可証の運用始まる
-https://news.web.nhk/newsweb/na/na-k10014992891000
+Denny Hamlin testifies: Signing NASCAR charter like 'death certificate' to teams reut.rs/4pgCC0P
 
-[2025-12-03 16:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72wluivrp2g)
+[2025-12-03 16:45:10](https://bsky.app/profile/reuters.com/post/3m72xm72buw27)
+
+---
+
+@cnbc.com
+
+Russia 'ready' for war with Europe, Putin says, as Ukraine peace talks fail to deliver breakthrough
+
+[2025-12-03 16:42:29](https://bsky.app/profile/cnbc.com/post/3m72xhg4r7z23)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】山上被告 安倍元総理を狙ったことは「本筋ではないと思っていた。あくまでも統一教会が対象」被告人質問で語る 安倍昭恵さんが見つめる中
+(2025-12-03 16:24) #ニュース
+
+[2025-12-03 16:41:46](https://bsky.app/profile/sokuho.news/post/3m72xg4hvgx2x)
 
 ---
 
 @reuters.com
 
-Rupee set to hold near 90 with shaky sentiment, flows overshadowing dollar dip reut.rs/3Md4ynw
+Avalanche G Scott Wedgewood exits vs. Canucks with upper-body injury reut.rs/49UxFFY
 
-[2025-12-03 16:25:08](https://bsky.app/profile/reuters.com/post/3m72wifie3i2i)
-
----
-
-@nhknewsunofficial.bsky.social
-
-FIS“CAS 裁定受け入れ”ロシアとベラルーシ 中立選手で参加へ
-https://news.web.nhk/newsweb/na/na-k10014992771000
-
-[2025-12-03 16:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72wb5itue2p)
+[2025-12-03 16:40:11](https://bsky.app/profile/reuters.com/post/3m72xdcdwcs22)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@sokuho.news
 
-米オープンAI 社内に「非常事態」宣言 ChatGPT改良に集中 指示
-https://news.web.nhk/newsweb/na/na-k10014992801000
+🛎️JNNより【速報】です。
 
-[2025-12-03 16:18:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72w3rhuao2j)
+【速報】レギュラーガソリン164.8円 4週連続値下がりで4.0円の大幅安を記録
+(2025-12-03 16:35:00) #ニュース
 
----
-
-@nhknewsunofficial.bsky.social
-
-【随時更新】ロシア ウクライナに軍事侵攻（12月3日の動き）
-https://news.web.nhk/newsweb/na/na-k10014973041000
-
-[2025-12-03 16:15:12](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72vwnpb5a2e)
-
----
-
-@nhknewsunofficial.bsky.social
-
-ホンジュラス大統領選 開票作業続く 野党の候補2人が接戦
-https://news.web.nhk/newsweb/na/na-k10014992791000
-
-[2025-12-03 16:15:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72vwjte662u)
-
----
-
-@nhknewsunofficial.bsky.social
-
-改正保護司法など 参院本会議 全会一致で可決・成立
-https://news.web.nhk/newsweb/na/na-k10014992781000
-
-[2025-12-03 16:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72vwfeqpg2j)
+[2025-12-03 16:36:38](https://bsky.app/profile/sokuho.news/post/3m72x4xcyju2p)
 
 ---
 
 @reuters.com
 
-Airbus prepares A320 inspections as fuselage flaw hits deliveries reut.rs/3KbSMcx
+HSBC names Brendan Nelson chairman in surprise move reut.rs/3MliNGN
 
-[2025-12-03 16:10:09](https://bsky.app/profile/reuters.com/post/3m72vnlzrhb26)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【各地の紅葉 動画】奈良 正暦寺「錦の里」
-https://news.web.nhk/newsweb/na/na-k10014990441000
-
-[2025-12-03 16:06:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72vghbl4x23)
+[2025-12-03 16:35:09](https://bsky.app/profile/reuters.com/post/3m72x2c3ssb2y)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@bbcnews-world-rss.bsky.social
 
-【解説動画】日本海側中心に4日にかけ大雪見込み(3日15時)
-https://news.web.nhk/newsweb/na/na-k10014992881000
+Driver rescued from truck dangling off a West Virginia bridge
 
-[2025-12-03 16:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72vgctzux24)
+[2025-12-03 16:34:01](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m72wyc23vy2y)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+YouTube says it will be less safe for kids under Australia's social media ban
+
+[2025-12-03 16:32:56](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m72wwehu4a2h)
+
+---
+
+@cnn.com
+
+Five hours of talks between Russian President Vladimir Putin and top United States negotiators did not yield a breakthrough on a possible Ukraine peace deal, a Kremlin aide said.
+
+[2025-12-03 16:32:01](https://bsky.app/profile/cnn.com/post/3m72wup4ugx2f)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】山上被告 安倍元総理を狙ったことは「あくまでも統一教会が対象。本筋ではないと思っていた」被告人質問で 安倍元総理銃撃・殺害事件裁判
+(2025-12-03 16:24) #ニュース
+
+[2025-12-03 16:31:58](https://bsky.app/profile/sokuho.news/post/3m72wum45go24)
 
 ---
 
