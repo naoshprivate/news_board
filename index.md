@@ -1,9 +1,9 @@
-# [2025-12-03 10:50 updated](2025_12_03.md)
+# [2025-12-03 11:10 updated](2025_12_03.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">He’s no Kardashian, but San Francisco Mayor Daniel Lurie has amassed a following with his round-the-clock boosterism.   Not everyone is a fan.  🔗: on.wsj.com/49X5K8x <a href="https://bsky.app/profile/wsj.com/post/3m72dpi3nko2o" target="_blank">wsj.com</a> (2025-12-03 10:49:05)</span><span style="padding-right:50px;">In the face of charges that these strikes amount to execution without trial, the White House is sending a confusing message about who exactly gave each order to use deadly force. n.pr/3XwjcZy <a href="https://bsky.app/profile/npr.org/post/3m72dl6al3g2e" target="_blank">npr.org</a> (2025-12-03 10:46:41)</span><span style="padding-right:50px;">LIVE: Steve Kornacki breaks down TN-07 as the votes roll in: www.youtube.com/watch?v=ZnSS... <a href="https://bsky.app/profile/nbcnews.com/post/3m72dgwqse22k" target="_blank">nbcnews.com</a> (2025-12-03 10:44:19)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】札幌市白石区の住宅で火災 けが人確認できず 黒煙立ち上る (2025-12-03 10:39:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m72dd3x2hg24" target="_blank">sokuho.news</a> (2025-12-03 10:42:10)</span><span style="padding-right:50px;">Dutch politician in Nexperia dispute cancels December visit to China reut.rs/4pJW7yo <a href="https://bsky.app/profile/reuters.com/post/3m72d7qoekl2o" target="_blank">reuters.com</a> (2025-12-03 10:40:17)</span>
+<span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】現在も炎上中 住宅が燃える火事 消火活動続く 札幌市白石区川北 (2025-12-03 11:08) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m72etawuxe2d" target="_blank">sokuho.news</a> (2025-12-03 11:09:05)</span><span style="padding-right:50px;">札幌 白石区で住宅火災 消火活動続く https://news.web.nhk/newsweb/na/na-k10014992591000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72eta7xxk26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 11:09:02)</span><span style="padding-right:50px;">James Solomon was elected mayor of Jersey City, thwarting former New Jersey Gov. Jim McGreevey’s bid for a political comeback. <a href="https://bsky.app/profile/apnews.com/post/3m72epevi3622" target="_blank">apnews.com</a> (2025-12-03 11:06:55)</span><span style="padding-right:50px;">CNBC Daily Open: A year-end rally is still on every trader's wishlist <a href="https://bsky.app/profile/cnbc.com/post/3m72el6jtkk2g" target="_blank">cnbc.com</a> (2025-12-03 11:04:35)</span><span style="padding-right:50px;">Here are results from the 2025 Jersey City mayoral runoff election. <a href="https://bsky.app/profile/nytimes.com/post/3m72ekjm3vk2h" target="_blank">nytimes.com</a> (2025-12-03 11:04:13)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49738.33 (🔺197.69 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.30 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3009.00 (🔻21.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.63 (🔻0.19 : 2025-12-03)</span>
+<span style="padding-right:50px;">NIKKEI: 49675.05 (🔺134.41 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.30 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3012.00 (🔻18.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.70 (🔻0.12 : 2025-12-03)</span>
   </div>
 </div>
 
@@ -32,105 +32,96 @@
 
 ## News Headlines
 
-1. サンフランシスコ市長、熱狂的な支持を集めるも賛否両論
-2. ホワイトハウス、致命的武力行使命令の責任を巡り曖昧なメッセージ
-3. 札幌市白石区で住宅火災、黒煙立ち上る
-4. トランプ前大統領、麻薬密輸で有罪の元ホンジュラス大統領を恩赦
-5. マーベル、チップ新興企業 Celestial AI を32.5億ドルで買収
-6. 厚生労働省、標準的な出産費用を全額保険で賄う仕組み導入へ
+1. 札幌 白石区で住宅火災 消火活動続く
+2. ニュージャージー州ジャージーシティ市長選、ソロモン氏が勝利
+3. サマーズ氏、エプスタインとの関係で米経済学会から永久追放
+4. 欧州、ロシアの脅威に備え兵役準備進む
+5. 高松道でトラック火災、通行止め
+6. トランプ前大統領、麻薬密輸対策でカリブ海軍事作戦を正当化
 
 ----
 
-@wsj.com
-
-He’s no Kardashian, but San Francisco Mayor Daniel Lurie has amassed a following with his round-the-clock boosterism. 
-
-Not everyone is a fan.
-
-🔗: on.wsj.com/49X5K8x
-
-[2025-12-03 10:49:05](https://bsky.app/profile/wsj.com/post/3m72dpi3nko2o)
-
----
-
-@npr.org
-
-In the face of charges that these strikes amount to execution without trial, the White House is sending a confusing message about who exactly gave each order to use deadly force. n.pr/3XwjcZy
-
-[2025-12-03 10:46:41](https://bsky.app/profile/npr.org/post/3m72dl6al3g2e)
-
----
-
-@nbcnews.com
-
-LIVE: Steve Kornacki breaks down TN-07 as the votes roll in: www.youtube.com/watch?v=ZnSS...
-
-[2025-12-03 10:44:19](https://bsky.app/profile/nbcnews.com/post/3m72dgwqse22k)
-
----
-
 @sokuho.news
 
-🛎️JNNより【速報】です。
+🛎️NNNより【速報】です。
 
-【速報】札幌市白石区の住宅で火災 けが人確認できず 黒煙立ち上る
-(2025-12-03 10:39:00) #ニュース
+【速報】現在も炎上中 住宅が燃える火事 消火活動続く 札幌市白石区川北
+(2025-12-03 11:08) #ニュース
 
-[2025-12-03 10:42:10](https://bsky.app/profile/sokuho.news/post/3m72dd3x2hg24)
+[2025-12-03 11:09:05](https://bsky.app/profile/sokuho.news/post/3m72etawuxe2d)
 
 ---
 
-@reuters.com
+@nhknewsunofficial.bsky.social
 
-Dutch politician in Nexperia dispute cancels December visit to China reut.rs/4pJW7yo
+札幌 白石区で住宅火災 消火活動続く
+https://news.web.nhk/newsweb/na/na-k10014992591000
 
-[2025-12-03 10:40:17](https://bsky.app/profile/reuters.com/post/3m72d7qoekl2o)
+[2025-12-03 11:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72eta7xxk26)
+
+---
+
+@apnews.com
+
+James Solomon was elected mayor of Jersey City, thwarting former New Jersey Gov. Jim McGreevey’s bid for a political comeback.
+
+[2025-12-03 11:06:55](https://bsky.app/profile/apnews.com/post/3m72epevi3622)
+
+---
+
+@cnbc.com
+
+CNBC Daily Open: A year-end rally is still on every trader's wishlist
+
+[2025-12-03 11:04:35](https://bsky.app/profile/cnbc.com/post/3m72el6jtkk2g)
 
 ---
 
 @nytimes.com
 
-In Opinion
+Here are results from the 2025 Jersey City mayoral runoff election.
 
-“Calling for federal lawmakers to investigate something feels almost quaint in our time of extreme partisanship,” Michael Waldman says about Trump’s boat strikes. “But the past shows that Congress has ample powers to scrutinize, expose and end government abuse — if its members use them.”
-
-[2025-12-03 10:40:07](https://bsky.app/profile/nytimes.com/post/3m72d7h42xw2d)
-
----
-
-@en.afp.com
-
-Former Honduran president convicted of helping to smuggle 400 tons of cocaine into the United States leaves prison after being pardoned by Trump.
-
-Hernandez's pardon comes as a surprise, given Trump has made fighting Latin American drug trafficking a centerpiece in his second term 
-
-u.afp.com/ShVZ
-
-[2025-12-03 10:38:21](https://bsky.app/profile/en.afp.com/post/3m72d4c3dnz25)
-
----
-
-@cbsnews.com
-
-Trump administration fires 8 immigration judges in New York City, official says.
-
-[2025-12-03 10:35:00](https://bsky.app/profile/cbsnews.com/post/3m72cwcnfsu2h)
+[2025-12-03 11:04:13](https://bsky.app/profile/nytimes.com/post/3m72ekjm3vk2h)
 
 ---
 
 @nbcnews.com
 
-LATEST: TN-07 results page:  www.nbcnews.com/politics/202...
+A Kornacki stream if you need! www.youtube.com/watch?v=ZnSS...
 
-[2025-12-03 10:31:32](https://bsky.app/profile/nbcnews.com/post/3m72cq3enqc2h)
+[2025-12-03 11:03:42](https://bsky.app/profile/nbcnews.com/post/3m72ejmcwnc2b)
 
 ---
 
-@reuters.com
+@nbcnews.com
 
-Marvell to buy chip startup Celestial AI for $3.25 billion, bullish on growth next year reut.rs/4iwNl4p
+Here ya go! www.youtube.com/watch?v=ZnSS...
 
-[2025-12-03 10:30:35](https://bsky.app/profile/reuters.com/post/3m72cofd3m42r)
+[2025-12-03 11:02:57](https://bsky.app/profile/nbcnews.com/post/3m72eib4lc22b)
+
+---
+
+@nbcnews.com
+
+Gotcha covered: www.youtube.com/watch?v=ZnSS...
+
+[2025-12-03 11:02:12](https://bsky.app/profile/nbcnews.com/post/3m72egw3qp22b)
+
+---
+
+@usatoday.com
+
+Late night took to their respective shows after the Thanksgiving holiday, taking on Trump's controversial post calling Governor Tim Walz an ableist slur.
+
+[2025-12-03 11:01:14](https://bsky.app/profile/usatoday.com/post/3m72ef7iku72q)
+
+---
+
+@cnn.com
+
+Larry Summers has been banned for life from the American Economic Association, a professional organization for economists, with more than 17,000 members, over his ties to the late sex offender Jeffrey Epstein. 
+
+[2025-12-03 11:01:01](https://bsky.app/profile/cnn.com/post/3m72eetd6yz2f)
 
 ---
 
