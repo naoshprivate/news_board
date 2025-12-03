@@ -1,9 +1,9 @@
-# [2025-12-03 20:50 updated](2025_12_03.md)
+# [2025-12-03 21:10 updated](2025_12_03.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Smiths Group to sell baggage-screening unit to CVC for $2.65 billion reut.rs/4rygTmt <a href="https://bsky.app/profile/reuters.com/post/3m73ezhnwk222" target="_blank">reuters.com</a> (2025-12-03 20:45:14)</span><span style="padding-right:50px;">「お米券」などの食料品支援 自治体向け説明会を開催 農水省 https://news.web.nhk/newsweb/na/na-k10014992831000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m73ez6vch52b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 20:45:02)</span><span style="padding-right:50px;">Steve Rosenberg: Putin showing no signs of compromise <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m73eu4ssra2e" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-03 20:42:13)</span><span style="padding-right:50px;">LIVE: UK Prime Minister Keir Starmer takes questions in parliament youtube.com/live/ysltjmr... <a href="https://bsky.app/profile/reuters.com/post/3m73esjlfmc23" target="_blank">reuters.com</a> (2025-12-03 20:41:21)</span><span style="padding-right:50px;">Heard on the Street: The AI revolution has created a unique and high-quality problem for Nvidia: The chip maker makes too much money. <a href="https://bsky.app/profile/wsj.com/post/3m73eqpgug42i" target="_blank">wsj.com</a> (2025-12-03 20:40:20)</span>
+<span style="padding-right:50px;">2027年ラグビーワールドカップ 日本はフランスと同組に https://news.web.nhk/newsweb/na/na-k10014993161000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m73gefmeir2n" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 21:09:13)</span><span style="padding-right:50px;">自民 衆院の定数削減 自民と維新の実務者まとめた法案了承 https://news.web.nhk/newsweb/na/na-k10014993211000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m73geayuee2r" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 21:09:07)</span><span style="padding-right:50px;">日本とASEANの若手ビジネスリーダー 高市首相に提言 https://news.web.nhk/newsweb/na/na-k10014993261000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m73ge4lvdg2e" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 21:09:02)</span><span style="padding-right:50px;">🖊️ Mainstream media ends the year as dominant as ever in capturing Trump's attention and setting Washington's agenda. <a href="https://bsky.app/profile/axios.com/post/3m73gdvdxas2n" target="_blank">axios.com</a> (2025-12-03 21:08:57)</span><span style="padding-right:50px;">外国人留学生の学費値上げ 国内最多の早稲田大も検討 https://news.web.nhk/newsweb/na/na-k10014993231000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m73g6qmw3m2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 21:06:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.30 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.44 (🔻0.38 : 2025-12-03)</span>
+<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.30 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.39 (🔻0.43 : 2025-12-03)</span>
   </div>
 </div>
 
@@ -32,97 +32,96 @@
 
 ## News Headlines
 
-1. スミスグループ、手荷物検査部門をCVCに26.5億ドルで売却
-2. 農水省、「お米券」など食料品支援で自治体向け説明会
-3. トランプ氏、次期FRB議長にハセット氏を検討か
-4. 富山市・金沢市で初雪観測、長野県に大雪警報
-5. アップル、AI戦略で「大規模なリセット」
-6. マレーシア航空MH370便、12月末に捜索再開
+1. ラグビーW杯2027、日本はフランスと同組に決定
+2. 自民・維新、衆院定数削減法案で合意
+3. 早稲田大、外国人留学生の学費値上げを検討
+4. 中国発「麻辣湯」ブーム、新規開店3年で8倍超
+5. トランプ氏、詐欺師の刑を減刑
+6. 富山市で初雪観測、長野県に大雪警報
 
 ----
 
-@reuters.com
+@nhknewsunofficial.bsky.social
 
-Smiths Group to sell baggage-screening unit to CVC for $2.65 billion reut.rs/4rygTmt
+2027年ラグビーワールドカップ 日本はフランスと同組に
+https://news.web.nhk/newsweb/na/na-k10014993161000
 
-[2025-12-03 20:45:14](https://bsky.app/profile/reuters.com/post/3m73ezhnwk222)
+[2025-12-03 21:09:13](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m73gefmeir2n)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-「お米券」などの食料品支援 自治体向け説明会を開催 農水省
-https://news.web.nhk/newsweb/na/na-k10014992831000
+自民 衆院の定数削減 自民と維新の実務者まとめた法案了承
+https://news.web.nhk/newsweb/na/na-k10014993211000
 
-[2025-12-03 20:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m73ez6vch52b)
+[2025-12-03 21:09:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m73geayuee2r)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@nhknewsunofficial.bsky.social
 
-Steve Rosenberg: Putin showing no signs of compromise
+日本とASEANの若手ビジネスリーダー 高市首相に提言
+https://news.web.nhk/newsweb/na/na-k10014993261000
 
-[2025-12-03 20:42:13](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m73eu4ssra2e)
+[2025-12-03 21:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m73ge4lvdg2e)
+
+---
+
+@axios.com
+
+🖊️ Mainstream media ends the year as dominant as ever in capturing Trump's attention and setting Washington's agenda.
+
+[2025-12-03 21:08:57](https://bsky.app/profile/axios.com/post/3m73gdvdxas2n)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+外国人留学生の学費値上げ 国内最多の早稲田大も検討
+https://news.web.nhk/newsweb/na/na-k10014993231000
+
+[2025-12-03 21:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m73g6qmw3m2p)
+
+---
+
+@bloomberg.com
+
+In today's Green Daily: A new analysis of the rising tide of plastic, a widely-referenced climate study gets retracted, and how California is trying to bring down the cost of heat pumps and induction stoves.
+
+[2025-12-03 21:05:51](https://bsky.app/profile/bloomberg.com/post/3m73g6dnwgs2g)
+
+---
+
+@forbes.com
+
+The ridehail giant’s partnership with the self-driving startup is part of its push to be a global leader in operating autonomous cars and delivery vehicles.
+
+[2025-12-03 21:05:04](https://bsky.app/profile/forbes.com/post/3m73g4xgii22p)
 
 ---
 
 @reuters.com
 
-LIVE: UK Prime Minister Keir Starmer takes questions in parliament youtube.com/live/ysltjmr...
+Indian plane parts supplier Aequs' $103 million IPO fully subscribed reut.rs/4iCBVwj
 
-[2025-12-03 20:41:21](https://bsky.app/profile/reuters.com/post/3m73esjlfmc23)
+[2025-12-03 21:05:03](https://bsky.app/profile/reuters.com/post/3m73g4wajyq2r)
 
 ---
 
-@wsj.com
+@cnbc.com
 
-Heard on the Street: The AI revolution has created a unique and high-quality problem for Nvidia: The chip maker makes too much money.
+Why aspirational luxury shopping is losing steam — and what’s ahead in 2026
 
-[2025-12-03 20:40:20](https://bsky.app/profile/wsj.com/post/3m73eqpgug42i)
+[2025-12-03 21:04:47](https://bsky.app/profile/cnbc.com/post/3m73g4gc3dg2r)
 
 ---
 
 @reuters.com
 
-South Korea's Lee praises Trump, hopes US can resume North Korea dialogue reut.rs/49YSLTP
+How LandSpace became SpaceX's biggest Chinese challenger reut.rs/3KBlQKA
 
-[2025-12-03 20:40:20](https://bsky.app/profile/reuters.com/post/3m73eqq27sd27)
-
----
-
-@nbcnews.com
-
-A raccoon goes on a drunken rampage in a closed Virginia liquor store, hitting the bottom shelf where the scotch and whisky were stored before smashing bottles and spilling alcohol everywhere before passing out on the floor. 
-
-[2025-12-03 20:40:05](https://bsky.app/profile/nbcnews.com/post/3m73eqb2lej2j)
-
----
-
-@nytimes.com
-
-European officials are accusing Russia of smaller-scale assaults. President Vladimir Putin sought to turn the tables, saying that if Europe were to start a war, Russia is ready.
-
-[2025-12-03 20:40:02](https://bsky.app/profile/nytimes.com/post/3m73eq6mfhj26)
-
----
-
-@en.afp.com
-
-🇱🇧 🇮🇱 Lebanese and Israeli civilian representatives held their first direct talks in decades, part of a year-old ceasefire monitoring mechanism in the war with militant group Hezbollah, a source close to the talks told AFP. 
-➡️ u.afp.com/Sh9S
-
-[2025-12-03 20:40:02](https://bsky.app/profile/en.afp.com/post/3m73eq63cay2x)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】富山市で初雪を観測
-(2025-12-03 20:38) #ニュース
-
-[2025-12-03 20:38:23](https://bsky.app/profile/sokuho.news/post/3m73ena3zxy2e)
+[2025-12-03 21:00:55](https://bsky.app/profile/reuters.com/post/3m73fvjtlcq2k)
 
 ---
 
