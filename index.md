@@ -1,9 +1,9 @@
-# [2025-12-03 08:50 updated](2025_12_03.md)
+# [2025-12-03 09:10 updated](2025_12_03.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Mila Kunis says she has “mom guilt over everything.”  Watch more as she discusses reconnecting with Ashton Kutcher years after being co-stars, the new “Knives Out” film and the best note she received from “Family Guy” creator Seth MacFarlane: 🔗 on.wsj.com/4pKu7Ld <a href="https://bsky.app/profile/wsj.com/post/3m724v362hp24" target="_blank">wsj.com</a> (2025-12-03 08:46:56)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】「トラックが燃えている」高松道（下り）坂出JCT付近で火災 坂出IC→坂出JCT通行止め (2025-12-03 08:29:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m724te7gyo2y" target="_blank">sokuho.news</a> (2025-12-03 08:45:59)</span><span style="padding-right:50px;">Judge refers law firm Hagens Berman to DOJ over conduct in drug cases reut.rs/4iCzBoX <a href="https://bsky.app/profile/reuters.com/post/3m724s2sida2r" target="_blank">reuters.com</a> (2025-12-03 08:45:16)</span><span style="padding-right:50px;">In makeshift homes lacking even the most basic necessities surrounded by piles of rubbish and flanked by dirt roads, thousands of Somalis in Yemen live in soul-crushing poverty in Aden's "Little Mogadishu".  u.afp.com/ShHP <a href="https://bsky.app/profile/en.afp.com/post/3m724ro7rvo2p" target="_blank">en.afp.com</a> (2025-12-03 08:45:01)</span><span style="padding-right:50px;">Mother charged with murder, torture in death of pregnant daughter in rural Michigan woods. <a href="https://bsky.app/profile/cbsnews.com/post/3m724rn53yy2b" target="_blank">cbsnews.com</a> (2025-12-03 08:45:01)</span>
+<span style="padding-right:50px;">北海道 函館市中心部の火災 発生から約17時間半後に鎮火 https://news.web.nhk/newsweb/na/na-k10014992411000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7264mug5g2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 09:09:02)</span><span style="padding-right:50px;">Pete Hegseth invokes ‘fog of war’ as backlash grows over strikes on boats on.ft.com/48AnlAR <a href="https://bsky.app/profile/financialtimes.com/post/3m7262lg3my2l" target="_blank">financialtimes.com</a> (2025-12-03 09:07:55)</span><span style="padding-right:50px;">The White House social media team is in hot water with one of the world’s biggest pop stars after using Sabrina Carpenter’s song “Juno” in a video depicting law enforcement apprehending individuals in apparent immigration actions.  Read more: https://cnn.it/3MiPEMs <a href="https://bsky.app/profile/cnn.com/post/3m725yyswhe2h" target="_blank">cnn.com</a> (2025-12-03 09:07:02)</span><span style="padding-right:50px;">Michael Dell unveils $6 billion gift to 'Trump accounts' at White House <a href="https://bsky.app/profile/yahoofinance.com/post/3m725xdmeoe2c" target="_blank">yahoofinance.com</a> (2025-12-03 09:06:06)</span><span style="padding-right:50px;">Hegseth says he did not see survivors after first drug boat strike, backs decision to strike again reut.rs/3MAQUup <a href="https://bsky.app/profile/reuters.com/post/3m725vntsp52y" target="_blank">reuters.com</a> (2025-12-03 09:05:10)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49303.45 (🔻191.13 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.26 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 155.81 (🔻0.01 : 2025-12-02)</span>
+<span style="padding-right:50px;">NIKKEI: 49303.45 (🔻191.13 : 2025-12-02)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.26 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻40.00 : 2025-12-02)</span><span style="padding-right:50px;">USD/JPY: 155.72 (🔻0.10 : 2025-12-03)</span>
   </div>
 </div>
 
@@ -32,104 +32,104 @@
 
 ## News Headlines
 
-1. ミラ・クニス、「母親としての罪悪感でいっぱい」
-2. 高松道でトラック火災、通行止め
-3. 弁護士事務所、薬物事件での不正行為で司法省に告発
-4. 函館・五稜郭近くの繁華街で火災、17時間後に鎮火
-5. トランプ大統領、麻薬密輸国への攻撃を示唆
-6. 東北大学など、小惑星ベンヌの砂から生命に必要な糖を発見
+1. 函館市中心部の火災、発生から17時間半後に鎮火
+2. 元会計士、配管工に転職で給与3倍・幸福度アップ
+3. セリーナ・ウィリアムズ、復帰に向け検査プールに再登録
+4. トランプ氏、薬物取引国への攻撃を示唆
+5. インテル株、アップルへのチップ供給報道で急騰
+6. DNA検査キットで思わぬ相続人が出現、遺産相続に混乱
 
 ----
 
-@wsj.com
+@nhknewsunofficial.bsky.social
 
-Mila Kunis says she has “mom guilt over everything.”
+北海道 函館市中心部の火災 発生から約17時間半後に鎮火
+https://news.web.nhk/newsweb/na/na-k10014992411000
 
-Watch more as she discusses reconnecting with Ashton Kutcher years after being co-stars, the new “Knives Out” film and the best note she received from “Family Guy” creator Seth MacFarlane: 🔗 on.wsj.com/4pKu7Ld
-
-[2025-12-03 08:46:56](https://bsky.app/profile/wsj.com/post/3m724v362hp24)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】「トラックが燃えている」高松道（下り）坂出JCT付近で火災 坂出IC→坂出JCT通行止め
-(2025-12-03 08:29:00) #ニュース
-
-[2025-12-03 08:45:59](https://bsky.app/profile/sokuho.news/post/3m724te7gyo2y)
+[2025-12-03 09:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7264mug5g2p)
 
 ---
 
-@reuters.com
+@financialtimes.com
 
-Judge refers law firm Hagens Berman to DOJ over conduct in drug cases reut.rs/4iCzBoX
+Pete Hegseth invokes ‘fog of war’ as backlash grows over strikes on boats on.ft.com/48AnlAR
 
-[2025-12-03 08:45:16](https://bsky.app/profile/reuters.com/post/3m724s2sida2r)
-
----
-
-@en.afp.com
-
-In makeshift homes lacking even the most basic necessities surrounded by piles of rubbish and flanked by dirt roads, thousands of Somalis in Yemen live in soul-crushing poverty in Aden's "Little Mogadishu". 
-u.afp.com/ShHP
-
-[2025-12-03 08:45:01](https://bsky.app/profile/en.afp.com/post/3m724ro7rvo2p)
+[2025-12-03 09:07:55](https://bsky.app/profile/financialtimes.com/post/3m7262lg3my2l)
 
 ---
 
-@cbsnews.com
+@cnn.com
 
-Mother charged with murder, torture in death of pregnant daughter in rural Michigan woods.
+The White House social media team is in hot water with one of the world’s biggest pop stars after using Sabrina Carpenter’s song “Juno” in a video depicting law enforcement apprehending individuals in apparent immigration actions.
 
-[2025-12-03 08:45:01](https://bsky.app/profile/cbsnews.com/post/3m724rn53yy2b)
+Read more: https://cnn.it/3MiPEMs
 
----
-
-@axios.com
-
-SNAP's November chaos is over, but new work requirements and Trump admin threats make qualifying for benefits — and potentially receiving them — more fraught. Here's what to know.
-
-[2025-12-03 08:43:04](https://bsky.app/profile/axios.com/post/3m724o55roc25)
+[2025-12-03 09:07:02](https://bsky.app/profile/cnn.com/post/3m725yyswhe2h)
 
 ---
 
-@sokuho.news
+@yahoofinance.com
 
-🛎️JNNより【速報】です。
+Michael Dell unveils $6 billion gift to 'Trump accounts' at White House
 
-【速報】函館市・五稜郭近くの繁華街で火災 17時間後に鎮火…函館市電は始発から通常運行
-(2025-12-03 08:39:00) #ニュース
-
-[2025-12-03 08:40:36](https://bsky.app/profile/sokuho.news/post/3m724jqc7av2g)
-
----
-
-@sokuho.news
-
-🔔ANNより【速報】です。
-
-【速報】香港高層マンション火災から1週間 被害ない棟への一時帰宅許可
-(08:39) #ニュース
-
-[2025-12-03 08:40:21](https://bsky.app/profile/sokuho.news/post/3m724jbzq2y2e)
+[2025-12-03 09:06:06](https://bsky.app/profile/yahoofinance.com/post/3m725xdmeoe2c)
 
 ---
 
 @reuters.com
 
-Trump says any country trafficking drugs into US could be attacked reut.rs/3Mffscm
+Hegseth says he did not see survivors after first drug boat strike, backs decision to strike again reut.rs/3MAQUup
 
-[2025-12-03 08:40:18](https://bsky.app/profile/reuters.com/post/3m724j76pv72i)
+[2025-12-03 09:05:10](https://bsky.app/profile/reuters.com/post/3m725vntsp52y)
 
 ---
 
-@axios.com
+@cnbc.com
 
-Scoop: The Pentagon's internal "Signalgate" review sent to Congress, will be released Thursday
+The price you pay for rent is negotiable. You just may have to do some research first.
 
-[2025-12-03 08:36:07](https://bsky.app/profile/axios.com/post/3m724bpjgxk2n)
+Here are a few key points this property manager says you can bring up in your next negotiation with your landlord.
+
+[2025-12-03 09:01:10](https://bsky.app/profile/cnbc.com/post/3m725oip5fg2e)
+
+---
+
+@usatoday.com
+
+"Full House" star Dave Coulier has been diagnosed with cancer in his mouth after previously beating non-Hodgkin lymphoma, he tells USA TODAY.
+
+[2025-12-03 09:01:01](https://bsky.app/profile/usatoday.com/post/3m725oac4rt2d)
+
+---
+
+@reuters.com
+
+Brazil's Lula and Trump discuss trade, sanctions in phone call reut.rs/4izIL5C
+
+[2025-12-03 09:00:48](https://bsky.app/profile/reuters.com/post/3m725ntoumy2i)
+
+---
+
+@apnews.com
+
+Rose and Bruno Mars' "APT." has topped Apple Music's global song chart in 2025.
+
+[2025-12-03 09:00:31](https://bsky.app/profile/apnews.com/post/3m725ne2w2y2y)
+
+---
+
+@nikkei.com
+
+会計士から配管工で給与3倍の幸福度　アメリカで「AIに雇用奪われる」未来
+www.nikkei.com/article/DGXZQO...
+
+「会計業務はAIでもできるけど、配管工は人間にしかできない」。
+
+会計士から転職した男性は会計士時代の3倍、月190万円ほど稼ぎます。
+
+知的労働はAIに奪われ始めた世界で、働き方が大きく変わろうとしています。
+
+[2025-12-03 09:00:29](https://bsky.app/profile/nikkei.com/post/3m725ncbewe2z)
 
 ---
 
