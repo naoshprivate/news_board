@@ -1,9 +1,9 @@
-# [2025-12-03 12:10 updated](2025_12_03.md)
+# [2025-12-03 12:30 updated](2025_12_03.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Republican Matt Van Epps has won a hotly contested special election for a deep-red congressional seat in Tennessee, NBC News projects, turning back a Democratic challenge for the longtime GOP district. Steve Kornacki breaks down the results at the big board. nbcnews.app.link/jiMdIdNIMYb <a href="https://bsky.app/profile/nbcnews.com/post/3m72i6iwq7222" target="_blank">nbcnews.com</a> (2025-12-03 12:09:04)</span><span style="padding-right:50px;">麻薬密輸などで刑務所収容のホンジュラス前大統領 恩赦で釈放 https://news.web.nhk/newsweb/na/na-k10014992611000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72i6jlplx2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 12:09:03)</span><span style="padding-right:50px;">香港 高層住宅火災 発生から1週間 原因究明進むか焦点 https://news.web.nhk/newsweb/na/na-k10014992321000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72htwaxw424" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 12:03:07)</span><span style="padding-right:50px;">JICA医療チーム 大雨続くスリランカへ 出発に先立ち結団式 https://news.web.nhk/newsweb/na/na-k10014992571000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72htrx4me2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 12:03:02)</span><span style="padding-right:50px;">Here are results and maps from the 2025 Tennessee Seventh District special election. <a href="https://bsky.app/profile/nytimes.com/post/3m72hq5od222i" target="_blank">nytimes.com</a> (2025-12-03 12:01:03)</span>
+<span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】岡山市の岡山操山高校の敷地内に乗用車突入 高齢男性運転…けが人の情報なし 岡山県警【岡山】 (2025-12-03 12:15) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m72j6vgknb2y" target="_blank">sokuho.news</a> (2025-12-03 12:27:11)</span><span style="padding-right:50px;">An acute global shortage of memory chips is forcing AI and consumer-electronics companies to fight for dwindling supplies, as prices soar for the vital components that allow devices to store data reut.rs/48APSWU <a href="https://bsky.app/profile/reuters.com/post/3m72izsuhjc2y" target="_blank">reuters.com</a> (2025-12-03 12:24:21)</span><span style="padding-right:50px;">The US president said his search for a Fed chair was ‘down to one’ after about 10 candidates had been considered on.ft.com/4pOq7JG <a href="https://bsky.app/profile/financialtimes.com/post/3m72ixxhhfc2c" target="_blank">financialtimes.com</a> (2025-12-03 12:23:18)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】岡山市の岡山操山高校の敷地内に乗用車突入 高齢男性運転…けが人の情報なし【岡山】 (2025-12-03 12:15) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m72iwmklhj2m" target="_blank">sokuho.news</a> (2025-12-03 12:22:33)</span><span style="padding-right:50px;">株価 値上がり 半導体関連銘柄などに買い注文 https://news.web.nhk/newsweb/na/na-k10014992691000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72itxzyil26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 12:21:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49862.94 (🔺322.30 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.30 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3017.00 (🔻13.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.71 (🔻0.11 : 2025-12-03)</span>
+<span style="padding-right:50px;">NIKKEI: 49862.94 (🔺322.30 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.30 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3017.00 (🔻13.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.68 (🔻0.14 : 2025-12-03)</span>
   </div>
 </div>
 
@@ -32,102 +32,104 @@
 
 ## News Headlines
 
-1.  共和党、テネシー州下院補選で勝利、民主党の挑戦退ける
-2.  ホンジュラス前大統領、麻薬密輸で収監も恩赦で釈放
-3.  日本海側中心に大雪見込み、冬用タイヤ装着を徹底
-4.  「走るコンビニ」病院巡回、医薬品や衛生用品を販売
-5.  ジェームズ・ソロモン氏、ジャージーシティ市長に当選
-6.  アスクル、法人向けネット通販の注文受付を再開
+1. 岡山操山高校に車突入、高齢男性運転 - けが人情報なし
+2. メモリチップ不足深刻化、AI・家電業界で価格高騰
+3. 米大統領、FRB議長候補を「一人に絞った」
+4. 小水力発電、老いた集落に活力 - 佐賀・吉野ケ里で年間190万円の収益
+5. マレーシア政府、MH370便の捜索再開を発表
+6. トランプ氏、バイデン氏の恩赦を無効にすると発言
 
 ----
 
-@nbcnews.com
+@sokuho.news
 
-Republican Matt Van Epps has won a hotly contested special election for a deep-red congressional seat in Tennessee, NBC News projects, turning back a Democratic challenge for the longtime GOP district. Steve Kornacki breaks down the results at the big board. nbcnews.app.link/jiMdIdNIMYb
+🛎️FNNより【速報】です。
 
-[2025-12-03 12:09:04](https://bsky.app/profile/nbcnews.com/post/3m72i6iwq7222)
+【速報】岡山市の岡山操山高校の敷地内に乗用車突入 高齢男性運転…けが人の情報なし 岡山県警【岡山】
+(2025-12-03 12:15) #ニュース
 
----
-
-@nhknewsunofficial.bsky.social
-
-麻薬密輸などで刑務所収容のホンジュラス前大統領 恩赦で釈放
-https://news.web.nhk/newsweb/na/na-k10014992611000
-
-[2025-12-03 12:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72i6jlplx2p)
-
----
-
-@nhknewsunofficial.bsky.social
-
-香港 高層住宅火災 発生から1週間 原因究明進むか焦点
-https://news.web.nhk/newsweb/na/na-k10014992321000
-
-[2025-12-03 12:03:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72htwaxw424)
-
----
-
-@nhknewsunofficial.bsky.social
-
-JICA医療チーム 大雨続くスリランカへ 出発に先立ち結団式
-https://news.web.nhk/newsweb/na/na-k10014992571000
-
-[2025-12-03 12:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72htrx4me2b)
-
----
-
-@nytimes.com
-
-Here are results and maps from the 2025 Tennessee Seventh District special election.
-
-[2025-12-03 12:01:03](https://bsky.app/profile/nytimes.com/post/3m72hq5od222i)
+[2025-12-03 12:27:11](https://bsky.app/profile/sokuho.news/post/3m72j6vgknb2y)
 
 ---
 
 @reuters.com
 
-EMJ's Jackson aims to take volatility out of crypto reut.rs/3Ko2OY8
+An acute global shortage of memory chips is forcing AI and consumer-electronics companies to fight for dwindling supplies, as prices soar for the vital components that allow devices to store data reut.rs/48APSWU
 
-[2025-12-03 12:00:46](https://bsky.app/profile/reuters.com/post/3m72hpo4dph2i)
-
----
-
-@usatoday.com
-
-Tennessee's 7th Congressional District was supposed to be Democrat-proof, but a progressive state rep is looking for an upset over her GOP rival.
-
-[2025-12-03 12:00:32](https://bsky.app/profile/usatoday.com/post/3m72hp7ztom2t)
+[2025-12-03 12:24:21](https://bsky.app/profile/reuters.com/post/3m72izsuhjc2y)
 
 ---
 
-@aljazeera.com
+@financialtimes.com
 
-US Secretary of Defense Peter Hegseth defends controversial second strike on alleged drug boat in the Caribbean Sea.
+The US president said his search for a Fed chair was ‘down to one’ after about 10 candidates had been considered on.ft.com/4pOq7JG
 
-[2025-12-03 12:00:29](https://bsky.app/profile/aljazeera.com/post/3m72hp5dcox2x)
+[2025-12-03 12:23:18](https://bsky.app/profile/financialtimes.com/post/3m72ixxhhfc2c)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】岡山市の岡山操山高校の敷地内に乗用車突入 高齢男性運転…けが人の情報なし【岡山】
+(2025-12-03 12:15) #ニュース
+
+[2025-12-03 12:22:33](https://bsky.app/profile/sokuho.news/post/3m72iwmklhj2m)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+株価 値上がり 半導体関連銘柄などに買い注文
+https://news.web.nhk/newsweb/na/na-k10014992691000
+
+[2025-12-03 12:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72itxzyil26)
+
+---
+
+@reuters.com
+
+Trump says he's terminating any Biden pardons signed with autopen reut.rs/3MB5hPn
+
+[2025-12-03 12:20:26](https://bsky.app/profile/reuters.com/post/3m72istn6iv2i)
 
 ---
 
 @nikkei.com
 
-「走るコンビニ」病院を巡回　総合メディカル、おむつや包帯も販売
+「小水力発電」が老いた集落に活力　5年で約1000万円の収益、住民が運営
 www.nikkei.com/article/DGXZQO...
 
-規模の大きい売店を持つ病院を拠点として、売店がない病院を巡回して食品や衛生用品を移動販売します。
+佐賀・吉野ケ里の集落では超小型の水力発電で得た年間約190万円の利益を住民に還元。
 
-コロナ禍で売店やレストランが減少したこともあり「売店空白地」のニーズに応えます。
+タクシー料金の補助など生活改善につなげ、全国から注目を集めています。
 
-まず北九州市内で始め、東京や名古屋での展開も検討しています。
-
-[2025-12-03 12:00:28](https://bsky.app/profile/nikkei.com/post/3m72hp4dpfn2w)
+[2025-12-03 12:16:28](https://bsky.app/profile/nikkei.com/post/3m72ilppszb2k)
 
 ---
 
-@cnn.com
+@bloomberg.com
 
-City councilman James Solomon will become the next mayor of Jersey City after winning Tuesday’s runoff, according to a projection from CNN’s Decision Desk. 
+Indian equities look set for a steady-to-soft open, with traders turning their attention to the RBI’s three-day policy meet kicking off later today. Read for free with your email on what could move markets today.
 
-[2025-12-03 12:00:10](https://bsky.app/profile/cnn.com/post/3m72holwowe2r)
+[2025-12-03 12:16:23](https://bsky.app/profile/bloomberg.com/post/3m72ill4bxt2s)
+
+---
+
+@reuters.com
+
+Wong’s plight — arms raised in anguish and weeping as he stands against the backdrop of what became Hong Kong’s deadliest fire since 1948 — was captured in a Reuters photograph that went viral, becoming the emblematic frame of the disaster reut.rs/4rzTZek
+
+[2025-12-03 12:13:45](https://bsky.app/profile/reuters.com/post/3m72igumbu22y)
+
+---
+
+@en.afp.com
+
+BREAKING  Search for long-missing flight MH370 to resume, says Malaysian government
+
+[2025-12-03 12:12:50](https://bsky.app/profile/en.afp.com/post/3m72if7snua2u)
 
 ---
 
