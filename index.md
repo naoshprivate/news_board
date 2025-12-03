@@ -1,9 +1,9 @@
-# [2025-12-04 07:50 updated](2025_12_04.md)
+# [2025-12-04 08:10 updated](2025_12_04.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NISA、18歳未満も積み立て可能に　政府・与党が調整 www.nikkei.com/article/DGXZQO...  子どもが12歳になってから教育目的などに使途を絞って払い出しを可能にする案があります。  口座数が伸び悩み廃止となった「ジュニアNISA」では、18歳まで原則払い出しできませんでした。 <a href="https://bsky.app/profile/nikkei.com/post/3m74jxuygx42w" target="_blank">nikkei.com</a> (2025-12-04 07:46:29)</span><span style="padding-right:50px;">LVMH has never misappropriated Hermes heir's shares, company says reut.rs/4apzZ88 <a href="https://bsky.app/profile/reuters.com/post/3m74jvhdh5d2o" target="_blank">reuters.com</a> (2025-12-04 07:45:07)</span><span style="padding-right:50px;">Actor Dave Coulier has been diagnosed with cancer, again.  The "Full House" star, 66, tells USA TODAY that in his first routine checkup after beating non-Hodgkin lymphoma, doctors found tongue cancer in his mouth.  Read more: bit.ly/48nJrGk <a href="https://bsky.app/profile/usatoday.com/post/3m74jvbtvfc2j" target="_blank">usatoday.com</a> (2025-12-04 07:45:02)</span><span style="padding-right:50px;">BREAKING: The Pentagon knew a September boat attack in the Caribbean left survivors but still launched follow-on strike to sink the vessel, AP sources say. <a href="https://bsky.app/profile/apnews.com/post/3m74jtwmfln22" target="_blank">apnews.com</a> (2025-12-04 07:44:16)</span><span style="padding-right:50px;">The doctor who repeatedly supplied “Friends” star Matthew Perry with the drug ketamine in the weeks before his death was sentenced to 30 months in federal prison. <a href="https://bsky.app/profile/wsj.com/post/3m74jqpc5lc2p" target="_blank">wsj.com</a> (2025-12-04 07:42:28)</span>
+<span style="padding-right:50px;">ICC締約国会議 ロシアやアメリカ念頭に非難する宣言採択 https://news.web.nhk/newsweb/na/na-k10014993511000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74l2wlclh2t" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-04 08:06:03)</span><span style="padding-right:50px;">Lithuania airport shuts for a second time on Wednesday over balloons reut.rs/3Xyedre <a href="https://bsky.app/profile/reuters.com/post/3m74kz3zfs62y" target="_blank">reuters.com</a> (2025-12-04 08:05:03)</span><span style="padding-right:50px;">At a White House this afternoon, President Trump said he was terminating "ridiculously burdensome" fuel economy rules. It's part of a series of changes relaxing or eliminating rules promoting cleaner cars. n.pr/3KuPGQX <a href="https://bsky.app/profile/npr.org/post/3m74kyqzawu23" target="_blank">npr.org</a> (2025-12-04 08:04:52)</span><span style="padding-right:50px;">Various life circumstances mean young, educated women are uprooting and starting life anew. It's "a very lonely sort of experience," says researcher.  <a href="https://bsky.app/profile/cnbc.com/post/3m74kyhmix52f" target="_blank">cnbc.com</a> (2025-12-04 08:04:42)</span><span style="padding-right:50px;">Scoop: Kennedy gets personally involved in FDA personnel drama <a href="https://bsky.app/profile/axios.com/post/3m74kwa33c22i" target="_blank">axios.com</a> (2025-12-04 08:03:27)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47882.90 (🔺511.28 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23454.09 (🔺138.51 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 179.59 (🔻1.48 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.15 (🔻0.67 : 2025-12-03)</span>
+<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47882.90 (🔺511.28 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23454.09 (🔺138.51 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 179.59 (🔻1.48 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.19 (🔺0.01 : 2025-12-03)</span>
   </div>
 </div>
 
@@ -32,109 +32,93 @@
 
 ## News Headlines
 
-1. NISA、18歳未満の積み立て可能に 政府・与党が調整
-2. ペンタゴン、カリブ海での攻撃後、生存者を知りながら追撃命令か
-3. 中国AIモデル、Nvidiaサーバーで速度10倍に
-4. 栃木・日光市に大雪警報
-5. 快活クラブへのサイバー攻撃疑い、高校生を逮捕へ
-6. NYダウ400ドル超値上がり、FRB利下げ観測で
+1. ICC締約国会議、ロシアなどを非難する宣言採択
+2. リトアニアの空港、風船侵入で再び閉鎖
+3. トランプ大統領、燃費規制緩和を発表
+4. 米財務省顧問、金利低下で50年住宅ローンの必要性低下と発言
+5. カリフォルニア州保安官補、息子殺害容疑で逃走後死亡
+6. NISA、18歳未満の積み立て可能に 政府・与党が調整
 
 ----
 
-@nikkei.com
+@nhknewsunofficial.bsky.social
 
-NISA、18歳未満も積み立て可能に　政府・与党が調整
-www.nikkei.com/article/DGXZQO...
+ICC締約国会議 ロシアやアメリカ念頭に非難する宣言採択
+https://news.web.nhk/newsweb/na/na-k10014993511000
 
-子どもが12歳になってから教育目的などに使途を絞って払い出しを可能にする案があります。
-
-口座数が伸び悩み廃止となった「ジュニアNISA」では、18歳まで原則払い出しできませんでした。
-
-[2025-12-04 07:46:29](https://bsky.app/profile/nikkei.com/post/3m74jxuygx42w)
+[2025-12-04 08:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74l2wlclh2t)
 
 ---
 
 @reuters.com
 
-LVMH has never misappropriated Hermes heir's shares, company says reut.rs/4apzZ88
+Lithuania airport shuts for a second time on Wednesday over balloons reut.rs/3Xyedre
 
-[2025-12-04 07:45:07](https://bsky.app/profile/reuters.com/post/3m74jvhdh5d2o)
-
----
-
-@usatoday.com
-
-Actor Dave Coulier has been diagnosed with cancer, again.
-
-The "Full House" star, 66, tells USA TODAY that in his first routine checkup after beating non-Hodgkin lymphoma, doctors found tongue cancer in his mouth.
-
-Read more: bit.ly/48nJrGk
-
-[2025-12-04 07:45:02](https://bsky.app/profile/usatoday.com/post/3m74jvbtvfc2j)
+[2025-12-04 08:05:03](https://bsky.app/profile/reuters.com/post/3m74kz3zfs62y)
 
 ---
 
-@apnews.com
+@npr.org
 
-<strong><span style="color: red;">BREAKING:</span> The Pentagon knew a September boat attack in the Caribbean left survivors but still launched follow-on strike to sink the vessel, AP sources say.</strong>
+At a White House this afternoon, President Trump said he was terminating "ridiculously burdensome" fuel economy rules. It's part of a series of changes relaxing or eliminating rules promoting cleaner cars. n.pr/3KuPGQX
 
-[2025-12-04 07:44:16](https://bsky.app/profile/apnews.com/post/3m74jtwmfln22)
+[2025-12-04 08:04:52](https://bsky.app/profile/npr.org/post/3m74kyqzawu23)
+
+---
+
+@cnbc.com
+
+Various life circumstances mean young, educated women are uprooting and starting life anew. It's "a very lonely sort of experience," says researcher. 
+
+[2025-12-04 08:04:42](https://bsky.app/profile/cnbc.com/post/3m74kyhmix52f)
+
+---
+
+@axios.com
+
+Scoop: Kennedy gets personally involved in FDA personnel drama
+
+[2025-12-04 08:03:27](https://bsky.app/profile/axios.com/post/3m74kwa33c22i)
+
+---
+
+@bloomberg-jp.bsky.social
+
+【今朝の５本】仕事を始める前に読んでおきたい厳選ニュース
+
+[2025-12-04 08:02:24](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m74kudh5st26)
+
+---
+
+@bloomberg-jp.bsky.social
+
+ラトニック米商務長官、台湾からの大型投資に期待－頼総統は課題指摘
+
+[2025-12-04 08:02:18](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m74ku6koh22l)
 
 ---
 
 @wsj.com
 
-The doctor who repeatedly supplied “Friends” star Matthew Perry with the drug ketamine in the weeks before his death was sentenced to 30 months in federal prison.
+A widely cited study on economic damage from climate change was retracted following criticism from peers.
 
-[2025-12-04 07:42:28](https://bsky.app/profile/wsj.com/post/3m74jqpc5lc2p)
+[2025-12-04 08:01:07](https://bsky.app/profile/wsj.com/post/3m74ks2q3fa2w)
 
 ---
 
 @reuters.com
 
-Nvidia servers speed up AI models from China's Moonshoot AI and others tenfold reut.rs/3XyxbxS
+Lower interest rates would likely eliminate the need for 50-year mortgage, US Treasury adviser says reut.rs/3MgEDvh
 
-[2025-12-04 07:40:10](https://bsky.app/profile/reuters.com/post/3m74jmlfrwl2o)
-
----
-
-@nytimes.com
-
-In @nytopinion.nytimes.com 
-
-“For all the horrors of Trump 2.0, it offers an opportunity for progressives to start thinking boldly again about how to conceive of and use public authority for the American people,” Marc Dunkelman writes.
-
-[2025-12-04 07:40:06](https://bsky.app/profile/nytimes.com/post/3m74jmhznfu2e)
+[2025-12-04 08:00:59](https://bsky.app/profile/reuters.com/post/3m74krsgzal2a)
 
 ---
 
 @nbcnews.com
 
-A California radiologist and his wife were found fatally shot outside their home on Sunday, and police say his son, who later died by suicide, is the main suspect in the homicide.
+A California sheriff's deputy suspected of killing his 11-year-old son was fatally shot after he led authorities on a freeway pursuit, officials say. 
 
-[2025-12-04 07:40:05](https://bsky.app/profile/nbcnews.com/post/3m74jmgnd4l22)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】栃木・日光市に大雪警報
-(2025-12-04 07:37) #ニュース
-
-🟨警報注意報
-🔗https://www.jma.go.jp/bosai/warning/#lang=ja&area_type=offices&area_code=090000
-
-[2025-12-04 07:37:45](https://bsky.app/profile/sokuho.news/post/3m74jib4a4r2g)
-
----
-
-@reuters.com
-
-Venezuela's oil exports surpass 900,000 bpd despite US pressure, data shows reut.rs/48zfp2L
-
-[2025-12-04 07:35:05](https://bsky.app/profile/reuters.com/post/3m74jdigk4k2k)
+[2025-12-04 08:00:50](https://bsky.app/profile/nbcnews.com/post/3m74krk73t62y)
 
 ---
 
