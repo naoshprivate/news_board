@@ -1,9 +1,9 @@
-# [2025-12-04 06:50 updated](2025_12_04.md)
+# [2025-12-04 07:10 updated](2025_12_04.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Lawmakers say they have obtained Jeffrey Epstein's banking records and released photos of his private island. <a href="https://bsky.app/profile/cbsnews.com/post/3m74gq4p6pw2r" target="_blank">cbsnews.com</a> (2025-12-04 06:48:27)</span><span style="padding-right:50px;">定年後でも間に合う　老後資金は「取り崩し」つつ増やす www.nikkei.com/article/DGXZQO...  定期収入が生活費を下回り始めるシニア世代。  株や投信などの資産のうち、「年●%ずつ売る」分と「保有し続ける」分の2つに分けて考える必要があります。 <a href="https://bsky.app/profile/nikkei.com/post/3m74gmkfjlh2w" target="_blank">nikkei.com</a> (2025-12-04 06:46:28)</span><span style="padding-right:50px;">BREAKING: A doctor who sold ketamine to "Friends" star Matthew Perry before his  overdose death gets 2 1/2 years in prison. <a href="https://bsky.app/profile/apnews.com/post/3m74glrdm4q22" target="_blank">apnews.com</a> (2025-12-04 06:46:01)</span><span style="padding-right:50px;">Gazans race to preserve cultural heritage damaged in war reut.rs/3XuTxjV <a href="https://bsky.app/profile/reuters.com/post/3m74gkbex5l2e" target="_blank">reuters.com</a> (2025-12-04 06:45:11)</span><span style="padding-right:50px;">The recall impacts 70 cases of Ritz Peanut Butter Cracker Sandwiches mislabeled as the cheese variety. <a href="https://bsky.app/profile/forbes.com/post/3m74gk2twrv2t" target="_blank">forbes.com</a> (2025-12-04 06:45:04)</span>
+<span style="padding-right:50px;">Israel received remains of what could be one of the last hostages in Gaza and said it will begin allowing Palestinians to leave the war-torn territory through a border crossing with Egypt. <a href="https://bsky.app/profile/nbcnews.com/post/3m74huv4nhd2c" target="_blank">nbcnews.com</a> (2025-12-04 07:09:01)</span><span style="padding-right:50px;">Breaking news: A dozen former leaders of the FDA warned that plans for a stricter approach to vaccine approvals risks undermining the nation’s ability to fight infectious diseases and could threaten the health of vulnerable Americans. <a href="https://bsky.app/profile/washingtonpost.com/post/3m74hqptfyx2e" target="_blank">washingtonpost.com</a> (2025-12-04 07:06:41)</span><span style="padding-right:50px;">A doctor who pleaded guilty to selling ketamine to Matthew Perry in the weeks before the “Friends” star’s overdose death has been sentenced to 2 1/2 years in prison. https://cnn.it/48G5yIy <a href="https://bsky.app/profile/cnn.com/post/3m74hqjrrg42q" target="_blank">cnn.com</a> (2025-12-04 07:06:35)</span><span style="padding-right:50px;">UK's FTSE 100 ends lower as financials stocks drag reut.rs/4rso8MC <a href="https://bsky.app/profile/reuters.com/post/3m74hnxtqzh2n" target="_blank">reuters.com</a> (2025-12-04 07:05:09)</span><span style="padding-right:50px;">Former FDA commissioners said new vaccine standards threaten to put Americans’ health at risk and upend the agency’s scientific integrity. <a href="https://bsky.app/profile/wsj.com/post/3m74hnt7bti2p" target="_blank">wsj.com</a> (2025-12-04 07:05:04)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47882.90 (🔺511.28 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23454.09 (🔺138.51 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 179.59 (🔻1.48 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.22 (🔻0.60 : 2025-12-03)</span>
+<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47882.90 (🔺511.28 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23454.09 (🔺138.51 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 179.59 (🔻1.48 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.23 (🔻0.59 : 2025-12-03)</span>
   </div>
 </div>
 
@@ -32,99 +32,94 @@
 
 ## News Headlines
 
-1. エプスタインの銀行記録とプライベートアイランドの写真が公開
-2. マシュー・ペリーにケタミンを販売した医師に禁錮2年半
-3. EU、リサイクル可能な電池・レアアース廃棄物の輸出を規制へ、対中国依存度削減
-4. トランプ政権、バイデン時代の燃費基準を緩和、ガソリン車を推進
-5. マイクロン、消費者向けメモリ事業から撤退、世界的な供給不足の中
-6. 東京都心で今季初の5度を下回る気温を観測
+1. イスラエル、人質遺体収容か　ガザからパレスチナ人の出国許可へ
+2. 元FDA長官ら、ワクチン承認厳格化に警鐘　国民の健康を脅かす恐れ
+3. マシュー・ペリー氏にケタミン販売の医師、禁錮2年半
+4. NYダウ大幅上昇　FRBの利下げ観測で
+5. ペンタゴン調査官、ヘグセス氏の安全保障上のリスクを指摘か
+6. トランプ氏、ガソリン車推進へ　燃費基準を緩和
 
 ----
 
-@cbsnews.com
+@nbcnews.com
 
-Lawmakers say they have obtained Jeffrey Epstein's banking records and released photos of his private island.
+Israel received remains of what could be one of the last hostages in Gaza and said it will begin allowing Palestinians to leave the war-torn territory through a border crossing with Egypt.
 
-[2025-12-04 06:48:27](https://bsky.app/profile/cbsnews.com/post/3m74gq4p6pw2r)
-
----
-
-@nikkei.com
-
-定年後でも間に合う　老後資金は「取り崩し」つつ増やす
-www.nikkei.com/article/DGXZQO...
-
-定期収入が生活費を下回り始めるシニア世代。
-
-株や投信などの資産のうち、「年●%ずつ売る」分と「保有し続ける」分の2つに分けて考える必要があります。
-
-[2025-12-04 06:46:28](https://bsky.app/profile/nikkei.com/post/3m74gmkfjlh2w)
+[2025-12-04 07:09:01](https://bsky.app/profile/nbcnews.com/post/3m74huv4nhd2c)
 
 ---
 
-@apnews.com
+@washingtonpost.com
 
-<strong><span style="color: red;">BREAKING:</span> A doctor who sold ketamine to "Friends" star Matthew Perry before his  overdose death gets 2 1/2 years in prison.</strong>
+Breaking news: A dozen former leaders of the FDA warned that plans for a stricter approach to vaccine approvals risks undermining the nation’s ability to fight infectious diseases and could threaten the health of vulnerable Americans.
 
-[2025-12-04 06:46:01](https://bsky.app/profile/apnews.com/post/3m74glrdm4q22)
+[2025-12-04 07:06:41](https://bsky.app/profile/washingtonpost.com/post/3m74hqptfyx2e)
+
+---
+
+@cnn.com
+
+A doctor who pleaded guilty to selling ketamine to Matthew Perry in the weeks before the “Friends” star’s overdose death has been sentenced to 2 1/2 years in prison. https://cnn.it/48G5yIy
+
+[2025-12-04 07:06:35](https://bsky.app/profile/cnn.com/post/3m74hqjrrg42q)
 
 ---
 
 @reuters.com
 
-Gazans race to preserve cultural heritage damaged in war reut.rs/3XuTxjV
+UK's FTSE 100 ends lower as financials stocks drag reut.rs/4rso8MC
 
-[2025-12-04 06:45:11](https://bsky.app/profile/reuters.com/post/3m74gkbex5l2e)
-
----
-
-@forbes.com
-
-The recall impacts 70 cases of Ritz Peanut Butter Cracker Sandwiches mislabeled as the cheese variety.
-
-[2025-12-04 06:45:04](https://bsky.app/profile/forbes.com/post/3m74gk2twrv2t)
+[2025-12-04 07:05:09](https://bsky.app/profile/reuters.com/post/3m74hnxtqzh2n)
 
 ---
 
-@cnbc.com
+@wsj.com
 
-A little-known startup just used AI to make a moon dust battery for Blue Origin
+Former FDA commissioners said new vaccine standards threaten to put Americans’ health at risk and upend the agency’s scientific integrity.
 
-[2025-12-04 06:44:07](https://bsky.app/profile/cnbc.com/post/3m74giedwiu2e)
+[2025-12-04 07:05:04](https://bsky.app/profile/wsj.com/post/3m74hnt7bti2p)
 
 ---
 
-@axios.com
+@nhknewsunofficial.bsky.social
 
-The newly revealed Epstein photos show off his island. Here's what we know about Little St. James.
+NYダウ 400ドル余値上がり FRBが利下げに踏み切るとの観測で
+https://news.web.nhk/newsweb/na/na-k10014993501000
 
-[2025-12-04 06:43:44](https://bsky.app/profile/axios.com/post/3m74gho23r227)
+[2025-12-04 07:03:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74hkfjute2j)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【動画】Pickup NEWS（12月4日）
+https://news.web.nhk/newsweb/na/na-k10014993201000
+
+[2025-12-04 07:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74hkaznvt2b)
 
 ---
 
 @nytimes.com
 
-We published more than 1,000 recipes this year. These 25 were your favorites, the ones you took the time to rate, comment on, share with friends and come back to again and again. nyti.ms/4oxQ7be
+<strong><span style="color: red;">Breaking News</span>: A Pentagon investigator’s report is said to conclude that Pete Hegseth’s use of Signal to discuss Yemen strikes risked endangering U.S. troops.</strong>
 
-[2025-12-04 06:41:05](https://bsky.app/profile/nytimes.com/post/3m74gcwhoag2q)
-
----
-
-@reuters.com
-
-EU to curb exports of recyclable battery, rare earth waste to cut China reliance reut.rs/44Hm8WX
-
-[2025-12-04 06:40:24](https://bsky.app/profile/reuters.com/post/3m74gbq6ixc2w)
+[2025-12-04 07:02:44](https://bsky.app/profile/nytimes.com/post/3m74hjnbqkg27)
 
 ---
 
-@nbcnews.com
+@npr.org
 
-Fear, stress and worry have gripped the lives of thousands of Afghans living in the United States since the shooting of two National Guard members last week. 
+"I will permanently pause migration from all Third World Countries to allow the U.S. system to fully recover," he wrote on Truth Social. That label raises the issue of how to classify certain nations. n.pr/4iCoHzA
 
-The U.S. has stopped processing all immigration requests related to Afghan nationals and is re-examining legal residents’ cases.
+[2025-12-04 07:01:30](https://bsky.app/profile/npr.org/post/3m74hhhdjm72j)
 
-[2025-12-04 06:40:05](https://bsky.app/profile/nbcnews.com/post/3m74gb5voms2w)
+---
+
+@apnews.com
+
+"Gilmore Girls" creator Amy Sherman-Palladino and star Lauren Graham have teamed up for a new book about the beloved series.
+
+[2025-12-04 07:01:22](https://bsky.app/profile/apnews.com/post/3m74hh7o2xc2j)
 
 ---
 
