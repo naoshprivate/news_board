@@ -1,9 +1,9 @@
-# [2025-12-03 09:50 updated](2025_12_03.md)
+# [2025-12-03 10:10 updated](2025_12_03.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Starting Feb. 1, air travelers will need to pay a $45 fee if they arrive at an airport without a REAL ID on.wsj.com/4pexUR7 <a href="https://bsky.app/profile/wsj.com/post/3m72aajhmsr2a" target="_blank">wsj.com</a> (2025-12-03 09:47:02)</span><span style="padding-right:50px;">米関税、住友化学・コストコなど日米11社が返還求め提訴　違憲判決に備え www.nikkei.com/article/DGXZQO...  アメリカでは連邦最高裁が相互関税の合憲性を審理しています。  違憲判決に備え、企業は関税の払い戻しを受けようとトランプ政権を提訴する動きが出ています。 <a href="https://bsky.app/profile/nikkei.com/post/3m72a7i6jbg2e" target="_blank">nikkei.com</a> (2025-12-03 09:46:27)</span><span style="padding-right:50px;">White House to propose significant rollback in fuel economy standards, sources say reut.rs/3MfUl9S <a href="https://bsky.app/profile/reuters.com/post/3m72a5dazrb27" target="_blank">reuters.com</a> (2025-12-03 09:45:15)</span><span style="padding-right:50px;">Anthropic taps IPO lawyers as it races OpenAI to go public on.ft.com/4iCEUET <a href="https://bsky.app/profile/financialtimes.com/post/3m72a2w4zzq2c" target="_blank">financialtimes.com</a> (2025-12-03 09:43:54)</span><span style="padding-right:50px;">Wednesday's big stock stories: What’s likely to move the market in the next trading session <a href="https://bsky.app/profile/cnbc.com/post/3m727zidmga2i" target="_blank">cnbc.com</a> (2025-12-03 09:43:06)</span>
+<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】警視庁暴力団対策課の警部補の男（43）を再逮捕 スカウトG「ナチュラル」に約20か所のカメラの場所のリストを漏らしたか 警視庁 (2025-12-03 10:05:50) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m72bdtq3vu2w" target="_blank">sokuho.news</a> (2025-12-03 10:06:47)</span><span style="padding-right:50px;">Cami sold her home, bought a laundromat in Arizona and ultimately quit her nursing job to run the business full-time — changing her life for the better, she says.  <a href="https://bsky.app/profile/cnbc.com/post/3m72b7p2pee2x" target="_blank">cnbc.com</a> (2025-12-03 10:04:28)</span><span style="padding-right:50px;">No rebrand for now, says new Gunvor CEO, as he reckons with US pressure over Russia reut.rs/4iuCHuY <a href="https://bsky.app/profile/reuters.com/post/3m72azmez2t2d" target="_blank">reuters.com</a> (2025-12-03 10:01:04)</span><span style="padding-right:50px;">House Speaker Mike Johnson tells reporters Trump's R-word comment about Minnesota Gov. Tim Walz was 'probably a spontaneous one' he wouldn't use. <a href="https://bsky.app/profile/usatoday.com/post/3m72azalp322z" target="_blank">usatoday.com</a> (2025-12-03 10:00:52)</span><span style="padding-right:50px;">Comey alleges that the Trump administration fired her for political reasons, including her family ties to James Comey. <a href="https://bsky.app/profile/aljazeera.com/post/3m72aysxw7g2h" target="_blank">aljazeera.com</a> (2025-12-03 10:00:37)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49659.19 (🔺118.55 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.26 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3002.00 (🔻28.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.75 (🔻0.07 : 2025-12-03)</span>
+<span style="padding-right:50px;">NIKKEI: 49700.77 (🔺160.13 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.26 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3004.00 (🔻26.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.72 (🔻0.10 : 2025-12-03)</span>
   </div>
 </div>
 
@@ -32,109 +32,96 @@
 
 ## News Headlines
 
-1.  2月1日からREAL IDなしで空港到着時、45ドルの料金が発生
-2.  米関税、日米企業が返還求め提訴、違憲判決に備え
-3.  米政権、燃費基準の大幅緩和を提案へ
-4.  神奈川県西部でM3.4の地震、最大震度2
-5.  AT&T、多様性・公平性・包容性プログラムを終了へ
-6.  デル夫妻、2500万人の子供向け「トランプ口座」に62.5億ドル寄付
+1. 警視庁警部補を再逮捕、スカウトGにカメラ位置情報漏洩か
+2. マンCハーランド、プレミアリーグ100ゴール最速達成
+3. 米国、19カ国からの移民手続きを一時停止
+4. 神奈川県西部で地震発生、最大震度2
+5. アマゾン、AI向け最新チップ発表、エヌビディアに対抗
+6. 0歳乳児の首絞め殺人未遂か、36歳女を逮捕
 
 ----
 
-@wsj.com
+@sokuho.news
 
-Starting Feb. 1, air travelers will need to pay a $45 fee if they arrive at an airport without a REAL ID on.wsj.com/4pexUR7
+🛎️JNNより【速報】です。
 
-[2025-12-03 09:47:02](https://bsky.app/profile/wsj.com/post/3m72aajhmsr2a)
+【速報】警視庁暴力団対策課の警部補の男（43）を再逮捕 スカウトG「ナチュラル」に約20か所のカメラの場所のリストを漏らしたか 警視庁
+(2025-12-03 10:05:50) #ニュース
 
----
-
-@nikkei.com
-
-米関税、住友化学・コストコなど日米11社が返還求め提訴　違憲判決に備え
-www.nikkei.com/article/DGXZQO...
-
-アメリカでは連邦最高裁が相互関税の合憲性を審理しています。
-
-違憲判決に備え、企業は関税の払い戻しを受けようとトランプ政権を提訴する動きが出ています。
-
-[2025-12-03 09:46:27](https://bsky.app/profile/nikkei.com/post/3m72a7i6jbg2e)
-
----
-
-@reuters.com
-
-White House to propose significant rollback in fuel economy standards, sources say reut.rs/3MfUl9S
-
-[2025-12-03 09:45:15](https://bsky.app/profile/reuters.com/post/3m72a5dazrb27)
-
----
-
-@financialtimes.com
-
-Anthropic taps IPO lawyers as it races OpenAI to go public on.ft.com/4iCEUET
-
-[2025-12-03 09:43:54](https://bsky.app/profile/financialtimes.com/post/3m72a2w4zzq2c)
+[2025-12-03 10:06:47](https://bsky.app/profile/sokuho.news/post/3m72bdtq3vu2w)
 
 ---
 
 @cnbc.com
 
-Wednesday's big stock stories: What’s likely to move the market in the next trading session
+Cami sold her home, bought a laundromat in Arizona and ultimately quit her nursing job to run the business full-time — changing her life for the better, she says. 
 
-[2025-12-03 09:43:06](https://bsky.app/profile/cnbc.com/post/3m727zidmga2i)
-
----
-
-@sokuho.news
-
-🔔防災科研より【強震モニタ】動画です。
-
-震源:神奈川県西部, 深さ:110km
-マグニチュード:3.4, 最大震度:2
-📍https://www.google.com/maps?q=35.5,139.3&ll=35.5,139.3&z=7&t=h
-地震発生日時:2025-12-03 09:39頃
-(10倍速▶150s→15s) #地震
-
-[2025-12-03 09:42:53](https://bsky.app/profile/sokuho.news/post/3m727z4aydr2g)
-
----
-
-@sokuho.news
-
-🔔気象庁より【地震速報】です。
-
-9時39分頃、神奈川県・山梨県・栃木県などで最大震度2の地震を観測しました。
-震源:神奈川県西部, 深さ:110km, 規模:M3.4
-この地震による津波の心配はありません。
-(2025-12-03 09:42:23) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/03/2025-12-03-09-39-39.html?xlarge_image=1
-
-[2025-12-03 09:42:25](https://bsky.app/profile/sokuho.news/post/3m727ybffpv2d)
+[2025-12-03 10:04:28](https://bsky.app/profile/cnbc.com/post/3m72b7p2pee2x)
 
 ---
 
 @reuters.com
 
-Strong start to online holiday shopping masks signs of a fragile U.S. consumer reut.rs/4oOXqvn
+No rebrand for now, says new Gunvor CEO, as he reckons with US pressure over Russia reut.rs/4iuCHuY
 
-[2025-12-03 09:40:16](https://bsky.app/profile/reuters.com/post/3m727ugoss42n)
+[2025-12-03 10:01:04](https://bsky.app/profile/reuters.com/post/3m72azmez2t2d)
 
 ---
 
-@yahoofinance.com
+@usatoday.com
 
-Intel stock climbs more than 8% on report it will supply chips for Apple
+House Speaker Mike Johnson tells reporters Trump's R-word comment about Minnesota Gov. Tim Walz was 'probably a spontaneous one' he wouldn't use.
 
-[2025-12-03 09:36:06](https://bsky.app/profile/yahoofinance.com/post/3m727mxxuiw2d)
+[2025-12-03 10:00:52](https://bsky.app/profile/usatoday.com/post/3m72azalp322z)
+
+---
+
+@aljazeera.com
+
+Comey alleges that the Trump administration fired her for political reasons, including her family ties to James Comey.
+
+[2025-12-03 10:00:37](https://bsky.app/profile/aljazeera.com/post/3m72aysxw7g2h)
+
+---
+
+@en.afp.com
+
+Erling Haaland made history as the Manchester City striker became the fastest player to reach 100 Premier League goals in Tuesday's clash with Fulham. 
+u.afp.com/ShHx
+
+[2025-12-03 10:00:34](https://bsky.app/profile/en.afp.com/post/3m72ayrgmpy25)
+
+---
+
+@apnews.com
+
+As 2025 winds down, here are some moves to help you finish the year strong financially. Morningstar’s director of personal finance and retirement planning, Christine Benz, discusses strategies.
+
+[2025-12-03 10:00:17](https://bsky.app/profile/apnews.com/post/3m72ay7dywi2h)
+
+---
+
+@washingtonpost.com
+
+Pop singer Sabrina Carpenter responded to the Trump administration Tuesday after they used her song "Juno" in a montage depicting ICE raids. https://wapo.st/44xvlkI
+
+[2025-12-03 10:00:14](https://bsky.app/profile/washingtonpost.com/post/3m72ay4drya2g)
+
+---
+
+@bloomberg.com
+
+Critics of the boat strikes say that under US and international law, killing noncombatants, including suspected criminals, who pose no immediate threat is illegal. Here's what to know 
+
+[2025-12-03 10:00:14](https://bsky.app/profile/bloomberg.com/post/3m72ay4in762h)
 
 ---
 
 @cnn.com
 
-US wireless carrier AT&T said in a letter to the US telecoms regulator that it had committed to ending diversity, equity and inclusion programs, a move that comes as it seeks approval from the Trump administration to buy wireless spectrum assets. https://cnn.it/3Y3C7eh
+Dave Coulier, who announced last year that he has blood cancer, says he’s also being treated for a second type of cancer. 
 
-[2025-12-03 09:36:04](https://bsky.app/profile/cnn.com/post/3m727mvs7tn2j)
+[2025-12-03 10:00:13](https://bsky.app/profile/cnn.com/post/3m72ay44wkn2v)
 
 ---
 
