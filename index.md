@@ -1,9 +1,9 @@
-# [2025-12-04 08:30 updated](2025_12_04.md)
+# [2025-12-04 08:50 updated](2025_12_04.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The 2025 Atlantic hurricane season, which officially ended November 30, showcased the growing capabilities of artificial intelligence for storm forecasting. And experts say there is no turning back. https://cnn.it/4rxCprh <a href="https://bsky.app/profile/cnn.com/post/3m74maemrzj2w" target="_blank">cnn.com</a> (2025-12-04 08:27:01)</span><span style="padding-right:50px;">Aeva shares soar after deal with European automaker reut.rs/48f9BMQ <a href="https://bsky.app/profile/reuters.com/post/3m74m4t3dma2k" target="_blank">reuters.com</a> (2025-12-04 08:25:02)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】宇部市で広範囲にわたりガス漏れ発生 火災も 都市ガスの圧力異常か (2025-12-04 08:23) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m74m2obtvz2g" target="_blank">sokuho.news</a> (2025-12-04 08:23:50)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】山口県宇部市の広範囲でガス漏れか 離れた5地点で建物火災発生 (2025-12-04 08:16:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m74lzy6n2n2y" target="_blank">sokuho.news</a> (2025-12-04 08:23:27)</span><span style="padding-right:50px;">For your holiday gift giving, these elevated versions of practical items promise to add a little glamour to the everyday. <a href="https://bsky.app/profile/wsj.com/post/3m74lu3yyyc2r" target="_blank">wsj.com</a> (2025-12-04 08:20:09)</span>
+<span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】宇部市で広範囲にわたりガス漏れ発生 およそ10件火災発生も消火 都市ガスの圧力異常か (2025-12-04 08:23) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m74nh3ev432y" target="_blank">sokuho.news</a> (2025-12-04 08:48:40)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】富山市婦中町でクマ人身被害 未明に男女2人が襲われケガ (2025-12-04 08:44) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m74nf47si324" target="_blank">sokuho.news</a> (2025-12-04 08:47:34)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】宇部市で広範囲にわたりガス漏れ発生 少なくと10件火災発生も消火 都市ガスの圧力異常か (2025-12-04 08:23) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m74nezuk6n2d" target="_blank">sokuho.news</a> (2025-12-04 08:47:31)</span><span style="padding-right:50px;">With a U.S. Navy flotilla off the coast and President Trump pushing for strongman Nicolás Maduro’s ouster, Venezuelans are focused on a more urgent matter: the price of Christmas preparations. <a href="https://bsky.app/profile/wsj.com/post/3m74ndvdwi42x" target="_blank">wsj.com</a> (2025-12-04 08:46:53)</span><span style="padding-right:50px;">Push is on in US Congress to impose ban on lawmaker stock trades reut.rs/4auFJxn <a href="https://bsky.app/profile/reuters.com/post/3m74napkbv22k" target="_blank">reuters.com</a> (2025-12-04 08:45:06)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47882.90 (🔺511.28 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23454.09 (🔺138.51 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 179.59 (🔻1.48 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.20 (🔺0.02 : 2025-12-03)</span>
+<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47882.90 (🔺511.28 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23454.09 (🔺138.51 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 179.59 (🔻1.48 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.10 (🔻0.08 : 2025-12-03)</span>
   </div>
 </div>
 
@@ -32,28 +32,34 @@
 
 ## News Headlines
 
-1. AI、ハリケーン予測能力を飛躍的に向上 - 専門家は後戻りできないと
-2. 山口県宇部市で広範囲にガス漏れか、複数箇所で火災発生
-3. トランプ大統領、燃費基準を緩和 - 環境団体は批判
-4. NISA、18歳未満も積立可能に - 政府・与党が調整
-5. 「フルハウス」デイブ・クーリエ、再び癌と診断
-6. ペンタゴン、カリブ海での船舶攻撃で生存者を知りながら追撃
+1. 山口・宇部市で広範囲ガス漏れ、火災も発生
+2. 富山市婦中町でクマによる人身被害、男女2人が負傷
+3. 福島県浜通りで震度2の地震発生
+4. トランプ大統領、台湾との交流強化法案に署名、中国は反発
+5. アメリカ、燃費規制緩和へ、トランプ政権が計画発表
+6. リトアニアの空港、風船の影響で再び閉鎖
 
 ----
 
-@cnn.com
+@sokuho.news
 
-The 2025 Atlantic hurricane season, which officially ended November 30, showcased the growing capabilities of artificial intelligence for storm forecasting. And experts say there is no turning back. https://cnn.it/4rxCprh
+🛎️NNNより【速報】です。
 
-[2025-12-04 08:27:01](https://bsky.app/profile/cnn.com/post/3m74maemrzj2w)
+【速報】宇部市で広範囲にわたりガス漏れ発生 およそ10件火災発生も消火 都市ガスの圧力異常か
+(2025-12-04 08:23) #ニュース
+
+[2025-12-04 08:48:40](https://bsky.app/profile/sokuho.news/post/3m74nh3ev432y)
 
 ---
 
-@reuters.com
+@sokuho.news
 
-Aeva shares soar after deal with European automaker reut.rs/48f9BMQ
+🛎️FNNより【速報】です。
 
-[2025-12-04 08:25:02](https://bsky.app/profile/reuters.com/post/3m74m4t3dma2k)
+【速報】富山市婦中町でクマ人身被害 未明に男女2人が襲われケガ
+(2025-12-04 08:44) #ニュース
+
+[2025-12-04 08:47:34](https://bsky.app/profile/sokuho.news/post/3m74nf47si324)
 
 ---
 
@@ -61,69 +67,85 @@ Aeva shares soar after deal with European automaker reut.rs/48f9BMQ
 
 🛎️NNNより【速報】です。
 
-【速報】宇部市で広範囲にわたりガス漏れ発生 火災も 都市ガスの圧力異常か
+【速報】宇部市で広範囲にわたりガス漏れ発生 少なくと10件火災発生も消火 都市ガスの圧力異常か
 (2025-12-04 08:23) #ニュース
 
-[2025-12-04 08:23:50](https://bsky.app/profile/sokuho.news/post/3m74m2obtvz2g)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】山口県宇部市の広範囲でガス漏れか 離れた5地点で建物火災発生
-(2025-12-04 08:16:00) #ニュース
-
-[2025-12-04 08:23:27](https://bsky.app/profile/sokuho.news/post/3m74lzy6n2n2y)
+[2025-12-04 08:47:31](https://bsky.app/profile/sokuho.news/post/3m74nezuk6n2d)
 
 ---
 
 @wsj.com
 
-For your holiday gift giving, these elevated versions of practical items promise to add a little glamour to the everyday.
+With a U.S. Navy flotilla off the coast and President Trump pushing for strongman Nicolás Maduro’s ouster, Venezuelans are focused on a more urgent matter: the price of Christmas preparations.
 
-[2025-12-04 08:20:09](https://bsky.app/profile/wsj.com/post/3m74lu3yyyc2r)
-
----
-
-@nbcnews.com
-
-A Wilmington man has been arrested after police claim he was found with a firearm, over 100 rounds of ammunition, an armored ballistic plate and a notebook with outlines for a potential attack on law enforcement officers at the University of Delaware.
-
-[2025-12-04 08:20:05](https://bsky.app/profile/nbcnews.com/post/3m74ltxwioz2p)
+[2025-12-04 08:46:53](https://bsky.app/profile/wsj.com/post/3m74ndvdwi42x)
 
 ---
 
 @reuters.com
 
-Charles Schwab CEO open to more M&A deals after $660 million purchase reut.rs/3XyB4CY
+Push is on in US Congress to impose ban on lawmaker stock trades reut.rs/4auFJxn
 
-[2025-12-04 08:15:07](https://bsky.app/profile/reuters.com/post/3m74ll3tz5v27)
-
----
-
-@cnbc.com
-
-Stock futures are little changed after markets closer higher as rate cut bets strengthen: Live updates
-
-[2025-12-04 08:14:37](https://bsky.app/profile/cnbc.com/post/3m74lk6zive2i)
+[2025-12-04 08:45:06](https://bsky.app/profile/reuters.com/post/3m74napkbv22k)
 
 ---
 
-@reuters.com
+@en.afp.com
 
-Students in Senegal clash with security forces over financial aid reut.rs/4oCxRNU
+Billionaire Jared Isaacman, who has been re-nominated by US President Donald Trump to lead NASA, told senators on Wednesday he would ensure the United States beats "great rival" China in the race to return humans to the Moon.
+u.afp.com/Shys
 
-[2025-12-04 08:10:09](https://bsky.app/profile/reuters.com/post/3m74lc74gtw2y)
+[2025-12-04 08:45:02](https://bsky.app/profile/en.afp.com/post/3m74nallkco2m)
 
 ---
 
-@nytimes.com
+@sokuho.news
 
-In addition to rum, moonshine and peanut butter whiskey, this raccoon at a Virginia liquor store also got into some vodka and eggnog. If you have not tried it, peanut butter whiskey “is excellent,” a PR manager for the store said. The raccoon apparently agreed. trib.al/XurZIQv
+🛎️FNNより【速報】です。
 
-[2025-12-04 08:10:08](https://bsky.app/profile/nytimes.com/post/3m74lc6fut42l)
+【速報】山口・宇部市で広範囲にガス漏れか 火事の通報も複数寄せられる 都市ガスの圧力異常か ガスを使用しないように呼びかけ
+(2025-12-04 08:25) #ニュース
+
+[2025-12-04 08:44:49](https://bsky.app/profile/sokuho.news/post/3m74na7f55i2w)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】山口・宇部市で広範囲にガス漏れか 火事の通報も複数寄せられる ガスの圧力異常か ガスを使用しないように呼びかけ
+(2025-12-04 08:25) #ニュース
+
+[2025-12-04 08:41:42](https://bsky.app/profile/sokuho.news/post/3m74n2msnjt22)
+
+---
+
+@sokuho.news
+
+🔔防災科研より【強震モニタ】動画です。
+
+震源:福島県浜通り, 深さ:10km
+マグニチュード:3.8, 最大震度:2
+📍https://www.google.com/maps?q=37.1,140.8&ll=37.1,140.8&z=7&t=h
+地震発生日時:2025-12-04 08:37頃
+(10倍速▶120s→12s) #地震
+
+[2025-12-04 08:40:46](https://bsky.app/profile/sokuho.news/post/3m74myxirnd22)
+
+---
+
+@sokuho.news
+
+🔔気象庁より【地震速報】です。
+
+8時37分頃、福島県で最大震度2の地震を観測しました。
+震源:福島県浜通り, 深さ:10km, 規模:M3.8
+この地震による津波の心配はありません。
+(2025-12-04 08:40:17) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/04/2025-12-04-08-37-48.html?xlarge_image=1
+
+[2025-12-04 08:40:17](https://bsky.app/profile/sokuho.news/post/3m74my4hnt42q)
 
 ---
 
