@@ -1,9 +1,9 @@
-# [2025-12-04 01:30 updated](2025_12_04.md)
+# [2025-12-04 01:50 updated](2025_12_04.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Small and often invisible barriers to trade are affecting products from businesses across Europe. If there is one product that symbolises the absurdities of the EU’s single market in goods, it might be this cuddly elephant. on.ft.com/4rBErqC <a href="https://bsky.app/profile/financialtimes.com/post/3m73unwyz3u25" target="_blank">financialtimes.com</a> (2025-12-04 01:25:07)</span><span style="padding-right:50px;">Losing 20th toss in a row - India cannot make head or tail of ODI coin-curse reut.rs/3Ybony5 <a href="https://bsky.app/profile/reuters.com/post/3m73untoqbl2i" target="_blank">reuters.com</a> (2025-12-04 01:25:03)</span><span style="padding-right:50px;">President Donald Trump on Wednesday, Dec. 3, announced he had pardoned Texas embattled Congressman Henry Cuellar. bit.ly/49VQHMk <a href="https://bsky.app/profile/usatoday.com/post/3m73un23qhk2j" target="_blank">usatoday.com</a> (2025-12-04 01:24:37)</span><span style="padding-right:50px;">🇭🇰 Hongkongers hold memorial for victims of apartment complex fire  Hongkongers write handwritten notes and fold paper cranes during a memorial to mark the traditional seventh day ritual for the 159 people who died in the massive fire at Wang Fuk Court. <a href="https://bsky.app/profile/en.afp.com/post/3m73ug7obgr25" target="_blank">en.afp.com</a> (2025-12-04 01:20:48)</span><span style="padding-right:50px;">These holiday cookies take all the best parts of a towering coconut cake and shrink them down to the cutest tiny treat.  nyti.ms/3KsYXJ5 <a href="https://bsky.app/profile/nytimes.com/post/3m73uexirn52y" target="_blank">nytimes.com</a> (2025-12-04 01:20:05)</span>
+<span style="padding-right:50px;">Israel receives coffin that Hamas says contains Gaza hostage's body <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m73vyqekw42w" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-04 01:49:02)</span><span style="padding-right:50px;">Starmer rules out rejoining EU customs union but steps up ‘reset’ efforts on.ft.com/4oxgApm <a href="https://bsky.app/profile/financialtimes.com/post/3m73vxg3wy326" target="_blank">financialtimes.com</a> (2025-12-04 01:48:18)</span><span style="padding-right:50px;">Strands is a word search with a unique twist. Can you uncover the theme? Play here: nyti.ms/3MgThCE <a href="https://bsky.app/profile/nytimes.com/post/3m73vx2xesj2x" target="_blank">nytimes.com</a> (2025-12-04 01:48:07)</span><span style="padding-right:50px;">🚨 NEW 🚨 Brinc, founded by 25-year-old Blake Resnick, is trying to get DJIs out of American cops drone fleets.   Come December 23, the Chinese giant may not be able to put new devices in the hands of the police.  Some cops are really not happy about it.  www.forbes.com/sites/zoyaha... <a href="https://bsky.app/profile/thomasbrewster.bsky.social/post/3m73vuonyuc2j" target="_blank">thomasbrewster.bsky.social</a> (2025-12-04 01:46:47)</span><span style="padding-right:50px;">Most Gulf bourses in black on oil, US rate cut bets reut.rs/4owhK4o <a href="https://bsky.app/profile/reuters.com/post/3m73vrpui5p26" target="_blank">reuters.com</a> (2025-12-04 01:45:07)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47681.75 (🔺310.13 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23398.43 (🔺82.85 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 180.52 (🔻0.55 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.01 (🔻0.81 : 2025-12-03)</span>
+<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47746.43 (🔺374.81 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23423.00 (🔺107.42 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 180.79 (🔻0.28 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.08 (🔻0.74 : 2025-12-03)</span>
   </div>
 </div>
 
@@ -32,96 +32,103 @@
 
 ## News Headlines
 
-1. EU単一市場の矛盾象徴？象のぬいぐるみが貿易障壁に
-2. インド、コイントス20連敗で「呪い」か
-3. トランプ大統領、テキサス州下院議員を恩赦
-4. 香港、集合住宅火災の犠牲者を追悼
-5. ローマのバス・地下鉄、サービス低下で払い戻しへ
-6. メキシコ、麻薬カルテル幹部を米国へ秘密裏に移送
+1.  ハマス、人質の遺体が入った棺をイスラエルに引き渡し
+2.  トランプ大統領、贈収賄で起訴された民主党議員を恩赦
+3.  フランスの猫、隣人の庭への侵入で「自宅軟禁」
+4.  医療記録システムに不具合、退役軍人患者へのリスク懸念
+5.  香港アパート火災、死者数は159人に
+6.  カリフォルニア科学アカデミーのマスコット、珍しいアルビノのアリゲーター、クロードが30歳で死亡
 
 ----
 
+@bbcnews-world-rss.bsky.social
+
+Israel receives coffin that Hamas says contains Gaza hostage's body
+
+[2025-12-04 01:49:02](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m73vyqekw42w)
+
+---
+
 @financialtimes.com
 
-Small and often invisible barriers to trade are affecting products from businesses across Europe. If there is one product that symbolises the absurdities of the EU’s single market in goods, it might be this cuddly elephant. on.ft.com/4rBErqC
+Starmer rules out rejoining EU customs union but steps up ‘reset’ efforts on.ft.com/4oxgApm
 
-[2025-12-04 01:25:07](https://bsky.app/profile/financialtimes.com/post/3m73unwyz3u25)
-
----
-
-@reuters.com
-
-Losing 20th toss in a row - India cannot make head or tail of ODI coin-curse reut.rs/3Ybony5
-
-[2025-12-04 01:25:03](https://bsky.app/profile/reuters.com/post/3m73untoqbl2i)
-
----
-
-@usatoday.com
-
-President Donald Trump on Wednesday, Dec. 3, announced he had pardoned Texas embattled Congressman Henry Cuellar. bit.ly/49VQHMk
-
-[2025-12-04 01:24:37](https://bsky.app/profile/usatoday.com/post/3m73un23qhk2j)
-
----
-
-@en.afp.com
-
-🇭🇰 Hongkongers hold memorial for victims of apartment complex fire
-
-Hongkongers write handwritten notes and fold paper cranes during a memorial to mark the traditional seventh day ritual for the 159 people who died in the massive fire at Wang Fuk Court.
-
-[2025-12-04 01:20:48](https://bsky.app/profile/en.afp.com/post/3m73ug7obgr25)
+[2025-12-04 01:48:18](https://bsky.app/profile/financialtimes.com/post/3m73vxg3wy326)
 
 ---
 
 @nytimes.com
 
-These holiday cookies take all the best parts of a towering coconut cake and shrink them down to the cutest tiny treat.  nyti.ms/3KsYXJ5
+Strands is a word search with a unique twist. Can you uncover the theme? Play here: nyti.ms/3MgThCE
 
-[2025-12-04 01:20:05](https://bsky.app/profile/nytimes.com/post/3m73uexirn52y)
-
----
-
-@nbcnews.com
-
-Prosecutors trying a Massachusetts man in the murder and dismemberment of his wife traced his gruesome online tracks in court through dozens of internet searches conducted after Ana Walshe disappeared three years ago.
-
-[2025-12-04 01:20:05](https://bsky.app/profile/nbcnews.com/post/3m73uewoez72i)
+[2025-12-04 01:48:07](https://bsky.app/profile/nytimes.com/post/3m73vx2xesj2x)
 
 ---
 
-@npr.org
+@thomasbrewster.bsky.social
 
-The legislation comes after the White House authorized up to 600 military lawyers to be temporary immigration judges and scrapped requirements for them to have immigration law experience.
+🚨 NEW 🚨 Brinc, founded by 25-year-old Blake Resnick, is trying to get DJIs out of American cops drone fleets. 
 
-[2025-12-04 01:18:21](https://bsky.app/profile/npr.org/post/3m73ubua76n2q)
+Come December 23, the Chinese giant may not be able to put new devices in the hands of the police.
 
----
+Some cops are really not happy about it.
 
-@jazmineulloa.bsky.social
+www.forbes.com/sites/zoyaha...
 
-“It is just like a traffic jam, and it is just going to get worse and worse and worse.” Icymi, scoop from @haleaziz.bsky.social and I last night: Citizenship ceremonies and immigration interviews are being cancelled as the Trump admin pauses immigration applications. www.nytimes.com/2025/12/02/u...
-
-[2025-12-04 01:17:55](https://bsky.app/profile/jazmineulloa.bsky.social/post/3m73ub33qu22o)
+[2025-12-04 01:46:47](https://bsky.app/profile/thomasbrewster.bsky.social/post/3m73vuonyuc2j)
 
 ---
 
 @reuters.com
 
-Rome's bus and metro company to offer refunds for poor service reut.rs/3KvXQs7
+Most Gulf bourses in black on oil, US rate cut bets reut.rs/4owhK4o
 
-[2025-12-04 01:15:13](https://bsky.app/profile/reuters.com/post/3m73u4azjqw2e)
+[2025-12-04 01:45:07](https://bsky.app/profile/reuters.com/post/3m73vrpui5p26)
 
 ---
 
-@washingtonpost.com
+@usatoday.com
 
-In a musical era defined by streaming, artists have boosted album sales by leaning into variants — distinct physical editions of one album.
+Rising grocery prices have placed a growing strain on American households. 
 
-Taylor Swift excels at this, but plenty of other artists do it, too: 
+USA TODAY has launched an interactive tool, enabling readers to explore grocery prices over time and across cities. 
 
-[2025-12-04 01:15:08](https://bsky.app/profile/washingtonpost.com/post/3m73u43oi2u2h)
+[2025-12-04 01:41:13](https://bsky.app/profile/usatoday.com/post/3m73vkpwge42m)
+
+---
+
+@en.afp.com
+
+🇫🇷 French cat under “house arrest” after neighbour's complaint
+
+A French cat has been put under “house arrest” after a neighbour complained he kept jumping into his garden. 
+#AFPVertical
+
+[2025-12-04 01:40:47](https://bsky.app/profile/en.afp.com/post/3m73vjxnjo62z)
+
+---
+
+@reuters.com
+
+Namibia holds key rate, citing South Africa's new inflation target reut.rs/4rvGU5X
+
+[2025-12-04 01:40:26](https://bsky.app/profile/reuters.com/post/3m73vjdpj2d27)
+
+---
+
+@nbcnews.com
+
+A doctor who pleaded guilty to selling ketamine to Matthew Perry in the weeks before the “Friends” star’s overdose death is set to be the first of five people sentenced in the case.
+
+[2025-12-04 01:40:05](https://bsky.app/profile/nbcnews.com/post/3m73viozfae2c)
+
+---
+
+@nytimes.com
+
+“It was another great year for the movies and another horrible, hair-on-fire year for the industry, as each month brought more bummer box-office news.” See what our film critics ranked as their 10 favorite movies of the year. nyti.ms/4pPvcBu
+
+[2025-12-04 01:40:04](https://bsky.app/profile/nytimes.com/post/3m73vioile52q)
 
 ---
 
