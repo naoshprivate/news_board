@@ -1,9 +1,9 @@
-# [2025-12-03 23:10 updated](2025_12_03.md)
+# [2025-12-03 23:30 updated](2025_12_03.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The road to redistricting in Missouri has been wild and winding, but its tie to a 1997 kids' movie starring a basketball-playing golden retriever might be the most unexpected development of all. n.pr/44FvIK3 <a href="https://bsky.app/profile/npr.org/post/3m73mzrfjlc2x" target="_blank">npr.org</a> (2025-12-03 23:08:34)</span><span style="padding-right:50px;">Production halted at Chinese factory making 'childlike' sex dolls <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m73mzifgaq2q" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-03 23:08:24)</span><span style="padding-right:50px;">Israel says Rafah crossing to open soon to let Gazans leave via Egypt <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m73mxl25zc2g" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-03 23:07:19)</span><span style="padding-right:50px;">Kenyan lawmakers identify 'disturbing trend' of misconduct by British troops reut.rs/48MMs4p <a href="https://bsky.app/profile/reuters.com/post/3m73mtj6fjw2o" target="_blank">reuters.com</a> (2025-12-03 23:05:04)</span><span style="padding-right:50px;">ETFs make it easier to invest in gold — the tax treatment may be the tricky part. Here's what to know <a href="https://bsky.app/profile/cnbc.com/post/3m73mpib42s2g" target="_blank">cnbc.com</a> (2025-12-03 23:02:49)</span>
+<span style="padding-right:50px;">LIVE: Human rights groups protest FIFA awarding 'Peace Prize' to President Trump youtube.com/live/1Vs3q-2... <a href="https://bsky.app/profile/reuters.com/post/3m73o4ig2kk2p" target="_blank">reuters.com</a> (2025-12-03 23:27:59)</span><span style="padding-right:50px;">Macron's campaign to fight fake news meets resistance from right-wing media reut.rs/48TWMqv <a href="https://bsky.app/profile/reuters.com/post/3m73nxbobam22" target="_blank">reuters.com</a> (2025-12-03 23:25:04)</span><span style="padding-right:50px;">From @theathleticfc.bsky.social: FIFA announced that the Village People, the pop group that sings President Trump’s adopted anthem of “Y.M.C.A.,” will perform at the World Cup draw on Friday. <a href="https://bsky.app/profile/nytimes.com/post/3m73nrvfvcq22" target="_blank">nytimes.com</a> (2025-12-03 23:22:03)</span><span style="padding-right:50px;">Spotify Wrapped is here, and Puerto Rican superstar Bad Bunny has been named its most-played artist for 2025, dethroning Taylor Swift. <a href="https://bsky.app/profile/nbcnews.com/post/3m73noduyew2w" target="_blank">nbcnews.com</a> (2025-12-03 23:20:04)</span><span style="padding-right:50px;">🇵🇸 A Doctors Without Borders official has pleaded for countries to open their doors to tens of thousands of Gazans in dire need of medical evacuation, warning that hundreds have already died waiting.  ➡️ u.afp.com/Sh9j <a href="https://bsky.app/profile/en.afp.com/post/3m73nobndet2a" target="_blank">en.afp.com</a> (2025-12-03 23:20:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.30 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.31 (🔻0.51 : 2025-12-03)</span>
+<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47433.53 (🔺61.91 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.09 (🔺0.02 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.49 (🔻0.33 : 2025-12-03)</span>
   </div>
 </div>
 
@@ -32,92 +32,94 @@
 
 ## News Headlines
 
-1. 中国工場で「子供のような」性人形の製造停止
-2. イスラエル、ラファ検問所を近日中に開放、ガザ住民のエジプトへの出国を許可
-3. ケニア議員、英国軍による「憂慮すべき傾向」の不正行為を特定
-4. インド、セキュリティアプリのプリインストール義務化命令を撤回、プライバシー懸念
-5. サンフランシスコ市、大手食品会社を提訴、超加工食品の有害性と依存性を主張
-6. EU、ロシア資産を活用したウクライナ支援策を提案
+1. 人権団体、トランプ氏へのFIFA「平和賞」授与に抗議
+2. マクロン氏の偽ニュース対策に右派メディアが抵抗
+3. Spotify Wrapped発表、バッド・バニーが2025年最多再生アーティストに
+4. 国境なき医師団、ガザ地区からの医療避難を訴え
+5. ビットコインが反発、2週間ぶりの高値
+6. 香港の火災による死者数が159人に増加
 
 ----
 
-@npr.org
+@reuters.com
 
-The road to redistricting in Missouri has been wild and winding, but its tie to a 1997 kids' movie starring a basketball-playing golden retriever might be the most unexpected development of all. n.pr/44FvIK3
+LIVE: Human rights groups protest FIFA awarding 'Peace Prize' to President Trump youtube.com/live/1Vs3q-2...
 
-[2025-12-03 23:08:34](https://bsky.app/profile/npr.org/post/3m73mzrfjlc2x)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Production halted at Chinese factory making 'childlike' sex dolls
-
-[2025-12-03 23:08:24](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m73mzifgaq2q)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Israel says Rafah crossing to open soon to let Gazans leave via Egypt
-
-[2025-12-03 23:07:19](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m73mxl25zc2g)
+[2025-12-03 23:27:59](https://bsky.app/profile/reuters.com/post/3m73o4ig2kk2p)
 
 ---
 
 @reuters.com
 
-Kenyan lawmakers identify 'disturbing trend' of misconduct by British troops reut.rs/48MMs4p
+Macron's campaign to fight fake news meets resistance from right-wing media reut.rs/48TWMqv
 
-[2025-12-03 23:05:04](https://bsky.app/profile/reuters.com/post/3m73mtj6fjw2o)
-
----
-
-@cnbc.com
-
-ETFs make it easier to invest in gold — the tax treatment may be the tricky part. Here's what to know
-
-[2025-12-03 23:02:49](https://bsky.app/profile/cnbc.com/post/3m73mpib42s2g)
+[2025-12-03 23:25:04](https://bsky.app/profile/reuters.com/post/3m73nxbobam22)
 
 ---
 
 @nytimes.com
 
-The annual DealBook Summit begins soon. Scott Bessent, Erika Kirk, Gavin Newsom, Dario Amodei and Alex Karp are among the big names speaking. Follow along and watch live here. nyti.ms/4q5Ksuf
+From @theathleticfc.bsky.social: FIFA announced that the Village People, the pop group that sings President Trump’s adopted anthem of “Y.M.C.A.,” will perform at the World Cup draw on Friday.
 
-[2025-12-03 23:01:50](https://bsky.app/profile/nytimes.com/post/3m73mnq2gnu26)
-
----
-
-@financialtimes.com
-
-Elon Musk and Jeff Bezos will not live forever, so perhaps they are contemplating how to deploy their billions in the long term. What can the descendants of the aristocracy that dominated Britain from the Middle Ages to the first world war teach them? on.ft.com/447ztrr
-
-[2025-12-03 23:01:09](https://bsky.app/profile/financialtimes.com/post/3m73mmisvu526)
+[2025-12-03 23:22:03](https://bsky.app/profile/nytimes.com/post/3m73nrvfvcq22)
 
 ---
 
-@cnn.com
+@nbcnews.com
 
-Here's what's fueling the operation. https://cnn.it/49USscE
+Spotify Wrapped is here, and Puerto Rican superstar Bad Bunny has been named its most-played artist for 2025, dethroning Taylor Swift.
 
-[2025-12-03 23:01:02](https://bsky.app/profile/cnn.com/post/3m73mmcwgz223)
+[2025-12-03 23:20:04](https://bsky.app/profile/nbcnews.com/post/3m73noduyew2w)
+
+---
+
+@en.afp.com
+
+🇵🇸 A Doctors Without Borders official has pleaded for countries to open their doors to tens of thousands of Gazans in dire need of medical evacuation, warning that hundreds have already died waiting. 
+➡️ u.afp.com/Sh9j
+
+[2025-12-03 23:20:02](https://bsky.app/profile/en.afp.com/post/3m73nobndet2a)
+
+---
+
+@forbes.com
+
+Who is your top artist for 2025?
+
+[2025-12-03 23:18:16](https://bsky.app/profile/forbes.com/post/3m73nl4y3xc23)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+ロシア 和平案協議で立場の隔たり埋まらずも妥協点模索続ける
+https://news.web.nhk/newsweb/na/na-k10014993301000
+
+[2025-12-03 23:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m73nkrkt6v26)
+
+---
+
+@wsj.com
+
+Exclusive: Vanguard Group plans to start letting workers buy an annuity within a new 401(k) target-date fund.
+
+[2025-12-03 23:16:47](https://bsky.app/profile/wsj.com/post/3m73nihzxq42t)
 
 ---
 
 @reuters.com
 
-Flood-hit Indonesian regions run low on fuel, funds for relief effort reut.rs/44ywys0
+Pakistan, Afghanistan hold fresh peace talks in Saudi Arabia, say sources reut.rs/4iwFpjG
 
-[2025-12-03 23:00:56](https://bsky.app/profile/reuters.com/post/3m73mm4izh22n)
+[2025-12-03 23:15:09](https://bsky.app/profile/reuters.com/post/3m73nfkn4zo2k)
 
 ---
 
-@washingtonpost.com
+@yahoofinance.com
 
-Palantir’s software is helping ICE track undocumented immigrants and deport them faster, according to federal procurement filings and interviews with people who have knowledge of the project. 
+Bitcoin has rebounded, climbing to a two-week high of $93,965 as traders look for signs that the crypto market has recovered after a prolonged selloff.
 
-[2025-12-03 23:00:32](https://bsky.app/profile/washingtonpost.com/post/3m73mlg5s3u2e)
+[2025-12-03 23:14:54](https://bsky.app/profile/yahoofinance.com/post/3m73nf3yiss27)
 
 ---
 
