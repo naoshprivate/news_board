@@ -1,9 +1,9 @@
-# [2025-12-03 10:30 updated](2025_12_03.md)
+# [2025-12-03 10:50 updated](2025_12_03.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Send us a voice memo about a song that hit you hard in 2025 — one you listened to on repeat, made you cry, or just got you in your feels like no other. n.pr/3K95OaN <a href="https://bsky.app/profile/npr.org/post/3m72cfqcq5r2f" target="_blank">npr.org</a> (2025-12-03 10:25:44)</span><span style="padding-right:50px;">米 年末商戦ピーク ネット通販の売り上げ 去年同時期比7.7％増 https://news.web.nhk/newsweb/na/na-k10014992451000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72c5frrks26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 10:21:03)</span><span style="padding-right:50px;">NEW: Steve Kornacki breaks down some of the first votes coming in for the TN-07 race. nbcnews.app.link/jiMdIdNIMYb <a href="https://bsky.app/profile/nbcnews.com/post/3m72c4qsybk2h" target="_blank">nbcnews.com</a> (2025-12-03 10:20:43)</span><span style="padding-right:50px;">US to provide up to $800 million to support small reactors reut.rs/48xtsps <a href="https://bsky.app/profile/reuters.com/post/3m72c46raya2y" target="_blank">reuters.com</a> (2025-12-03 10:20:24)</span><span style="padding-right:50px;">高市首相動静 2025年12月2日 https://news.web.nhk/newsweb/na/na-k10014992501000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72bxzyd742e" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-03 10:18:03)</span>
+<span style="padding-right:50px;">He’s no Kardashian, but San Francisco Mayor Daniel Lurie has amassed a following with his round-the-clock boosterism.   Not everyone is a fan.  🔗: on.wsj.com/49X5K8x <a href="https://bsky.app/profile/wsj.com/post/3m72dpi3nko2o" target="_blank">wsj.com</a> (2025-12-03 10:49:05)</span><span style="padding-right:50px;">In the face of charges that these strikes amount to execution without trial, the White House is sending a confusing message about who exactly gave each order to use deadly force. n.pr/3XwjcZy <a href="https://bsky.app/profile/npr.org/post/3m72dl6al3g2e" target="_blank">npr.org</a> (2025-12-03 10:46:41)</span><span style="padding-right:50px;">LIVE: Steve Kornacki breaks down TN-07 as the votes roll in: www.youtube.com/watch?v=ZnSS... <a href="https://bsky.app/profile/nbcnews.com/post/3m72dgwqse22k" target="_blank">nbcnews.com</a> (2025-12-03 10:44:19)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】札幌市白石区の住宅で火災 けが人確認できず 黒煙立ち上る (2025-12-03 10:39:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m72dd3x2hg24" target="_blank">sokuho.news</a> (2025-12-03 10:42:10)</span><span style="padding-right:50px;">Dutch politician in Nexperia dispute cancels December visit to China reut.rs/4pJW7yo <a href="https://bsky.app/profile/reuters.com/post/3m72d7qoekl2o" target="_blank">reuters.com</a> (2025-12-03 10:40:17)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49690.31 (🔺149.67 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.26 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3006.00 (🔻24.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.63 (🔻0.19 : 2025-12-03)</span>
+<span style="padding-right:50px;">NIKKEI: 49738.33 (🔺197.69 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47474.46 (🔺57.55 : 2025-12-02)</span><span style="padding-right:50px;">NASDAQ: 23413.67 (🔺33.92 : 2025-12-02)</span><span style="padding-right:50px;">NVIDIA: 181.46 (🔻0.30 : 2025-12-02)</span><span style="padding-right:50px;">トヨタ自動車: 3009.00 (🔻21.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.63 (🔻0.19 : 2025-12-03)</span>
   </div>
 </div>
 
@@ -32,87 +32,40 @@
 
 ## News Headlines
 
-1. 米年末商戦、ネット通販売上7.7％増
-2. 厚労省、標準的な出産費用を全額保険で
-3. 警視庁警部補を再逮捕、暴力団関係者への情報漏洩か
-4. 米国、19か国の移民関連手続きを一時停止
-5. 北海道旭川市で36歳女を逮捕、0歳乳児殺害未遂か
-6. ビットコイン9万ドル台回復、市場は依然不安定
+1. サンフランシスコ市長、熱狂的な支持を集めるも賛否両論
+2. ホワイトハウス、致命的武力行使命令の責任を巡り曖昧なメッセージ
+3. 札幌市白石区で住宅火災、黒煙立ち上る
+4. トランプ前大統領、麻薬密輸で有罪の元ホンジュラス大統領を恩赦
+5. マーベル、チップ新興企業 Celestial AI を32.5億ドルで買収
+6. 厚生労働省、標準的な出産費用を全額保険で賄う仕組み導入へ
 
 ----
 
-@npr.org
+@wsj.com
 
-Send us a voice memo about a song that hit you hard in 2025 — one you listened to on repeat, made you cry, or just got you in your feels like no other. n.pr/3K95OaN
+He’s no Kardashian, but San Francisco Mayor Daniel Lurie has amassed a following with his round-the-clock boosterism. 
 
-[2025-12-03 10:25:44](https://bsky.app/profile/npr.org/post/3m72cfqcq5r2f)
+Not everyone is a fan.
+
+🔗: on.wsj.com/49X5K8x
+
+[2025-12-03 10:49:05](https://bsky.app/profile/wsj.com/post/3m72dpi3nko2o)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@npr.org
 
-米 年末商戦ピーク ネット通販の売り上げ 去年同時期比7.7％増
-https://news.web.nhk/newsweb/na/na-k10014992451000
+In the face of charges that these strikes amount to execution without trial, the White House is sending a confusing message about who exactly gave each order to use deadly force. n.pr/3XwjcZy
 
-[2025-12-03 10:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72c5frrks26)
+[2025-12-03 10:46:41](https://bsky.app/profile/npr.org/post/3m72dl6al3g2e)
 
 ---
 
 @nbcnews.com
 
-NEW: Steve Kornacki breaks down some of the first votes coming in for the TN-07 race. nbcnews.app.link/jiMdIdNIMYb
+LIVE: Steve Kornacki breaks down TN-07 as the votes roll in: www.youtube.com/watch?v=ZnSS...
 
-[2025-12-03 10:20:43](https://bsky.app/profile/nbcnews.com/post/3m72c4qsybk2h)
-
----
-
-@reuters.com
-
-US to provide up to $800 million to support small reactors reut.rs/48xtsps
-
-[2025-12-03 10:20:24](https://bsky.app/profile/reuters.com/post/3m72c46raya2y)
-
----
-
-@nhknewsunofficial.bsky.social
-
-高市首相動静 2025年12月2日
-https://news.web.nhk/newsweb/na/na-k10014992501000
-
-[2025-12-03 10:18:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72bxzyd742e)
-
----
-
-@nhknewsunofficial.bsky.social
-
-標準的な出産費用 全額保険で賄う仕組み導入へ 厚労省
-https://news.web.nhk/newsweb/na/na-k10014992491000
-
-[2025-12-03 10:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m72bsnmreb23)
-
----
-
-@reuters.com
-
-Novo Nordisk justifies reasoning behind failed GLP-1 Alzheimer's trials reut.rs/3Y4WIPo
-
-[2025-12-03 10:10:18](https://bsky.app/profile/reuters.com/post/3m72bk4oppb2o)
-
----
-
-@nytimes.com
-
-Follow live results from the Tennessee Seventh District special election.
-
-[2025-12-03 10:10:05](https://bsky.app/profile/nytimes.com/post/3m72bjpzf7x22)
-
----
-
-@cbsnews.com
-
-Putin aide says "much work to be done" on Ukraine peace plan after Moscow meeting with Kushner and Witkoff.
-
-[2025-12-03 10:10:01](https://bsky.app/profile/cbsnews.com/post/3m72bjmdqpb26)
+[2025-12-03 10:44:19](https://bsky.app/profile/nbcnews.com/post/3m72dgwqse22k)
 
 ---
 
@@ -120,10 +73,64 @@ Putin aide says "much work to be done" on Ukraine peace plan after Moscow meetin
 
 🛎️JNNより【速報】です。
 
-【速報】警視庁暴力団対策課の警部補の男（43）を再逮捕 スカウトG「ナチュラル」に約20か所のカメラの場所のリストを漏らしたか 警視庁
-(2025-12-03 10:05:50) #ニュース
+【速報】札幌市白石区の住宅で火災 けが人確認できず 黒煙立ち上る
+(2025-12-03 10:39:00) #ニュース
 
-[2025-12-03 10:06:47](https://bsky.app/profile/sokuho.news/post/3m72bdtq3vu2w)
+[2025-12-03 10:42:10](https://bsky.app/profile/sokuho.news/post/3m72dd3x2hg24)
+
+---
+
+@reuters.com
+
+Dutch politician in Nexperia dispute cancels December visit to China reut.rs/4pJW7yo
+
+[2025-12-03 10:40:17](https://bsky.app/profile/reuters.com/post/3m72d7qoekl2o)
+
+---
+
+@nytimes.com
+
+In Opinion
+
+“Calling for federal lawmakers to investigate something feels almost quaint in our time of extreme partisanship,” Michael Waldman says about Trump’s boat strikes. “But the past shows that Congress has ample powers to scrutinize, expose and end government abuse — if its members use them.”
+
+[2025-12-03 10:40:07](https://bsky.app/profile/nytimes.com/post/3m72d7h42xw2d)
+
+---
+
+@en.afp.com
+
+Former Honduran president convicted of helping to smuggle 400 tons of cocaine into the United States leaves prison after being pardoned by Trump.
+
+Hernandez's pardon comes as a surprise, given Trump has made fighting Latin American drug trafficking a centerpiece in his second term 
+
+u.afp.com/ShVZ
+
+[2025-12-03 10:38:21](https://bsky.app/profile/en.afp.com/post/3m72d4c3dnz25)
+
+---
+
+@cbsnews.com
+
+Trump administration fires 8 immigration judges in New York City, official says.
+
+[2025-12-03 10:35:00](https://bsky.app/profile/cbsnews.com/post/3m72cwcnfsu2h)
+
+---
+
+@nbcnews.com
+
+LATEST: TN-07 results page:  www.nbcnews.com/politics/202...
+
+[2025-12-03 10:31:32](https://bsky.app/profile/nbcnews.com/post/3m72cq3enqc2h)
+
+---
+
+@reuters.com
+
+Marvell to buy chip startup Celestial AI for $3.25 billion, bullish on growth next year reut.rs/4iwNl4p
+
+[2025-12-03 10:30:35](https://bsky.app/profile/reuters.com/post/3m72cofd3m42r)
 
 ---
 
