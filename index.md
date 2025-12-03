@@ -1,9 +1,9 @@
-# [2025-12-04 05:50 updated](2025_12_04.md)
+# [2025-12-04 06:10 updated](2025_12_04.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Trump proposes slashing fuel efficiency standards for passenger cars <a href="https://bsky.app/profile/cnbc.com/post/3m74dfzp2la2o" target="_blank">cnbc.com</a> (2025-12-04 05:49:07)</span><span style="padding-right:50px;">旧姓の通称使用拡大へ 来年の通常国会で法制化目指す方針 政府 https://news.web.nhk/newsweb/na/na-k10014993381000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74debvlpq26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-04 05:48:07)</span><span style="padding-right:50px;">地域未来戦略本部 地方経済活性化へ来年5月に政策まとめる方針 https://news.web.nhk/newsweb/na/na-k10014993361000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74de5mgfe2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-04 05:48:02)</span><span style="padding-right:50px;">Bessent says Fed rate cuts needed, China making good on soybean purchases reut.rs/4iH6ZuU <a href="https://bsky.app/profile/reuters.com/post/3m74d6ukibj27" target="_blank">reuters.com</a> (2025-12-04 05:45:07)</span><span style="padding-right:50px;">香港 高層住宅火災 建物内部の捜索終えるも31人と連絡取れず https://news.web.nhk/newsweb/na/na-k10014993331000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74d6sjhhz23" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-04 05:45:03)</span>
+<span style="padding-right:50px;">BREAKING: A doctor who gave ketamine to Matthew Perry before he died is sentenced to 30 months in prison. <a href="https://bsky.app/profile/cbsnews.com/post/3m74ehzun3u2b" target="_blank">cbsnews.com</a> (2025-12-04 06:08:08)</span><span style="padding-right:50px;">🎤 Reuters Econ World LIVE from the Reuters NEXT conference in New York City. Listen here reut.rs/48kHMms <a href="https://bsky.app/profile/reuters.com/post/3m74egcdaps26" target="_blank">reuters.com</a> (2025-12-04 06:07:10)</span><span style="padding-right:50px;">New photos show President Donald Trump appearing to doze off at a Cabinet meeting this week. <a href="https://bsky.app/profile/usatoday.com/post/3m74eg3ehgb2p" target="_blank">usatoday.com</a> (2025-12-04 06:07:03)</span><span style="padding-right:50px;">NATO外相会合 ウクライナへの軍事支援強化の方針 改めて強調 https://news.web.nhk/newsweb/na/na-k10014993441000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74eedlbvc2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-04 06:06:03)</span><span style="padding-right:50px;">Traffic in Miami is a nightmare, but one real-estate tycoon has a plan: flying taxis that take commuters around South Florida for $200.  🔗: on.wsj.com/4appsd6 <a href="https://bsky.app/profile/wsj.com/post/3m74edqlatd2w" target="_blank">wsj.com</a> (2025-12-04 06:05:44)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47928.49 (🔺556.87 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23476.68 (🔺161.10 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 179.69 (🔻1.38 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.24 (🔻0.58 : 2025-12-03)</span>
+<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47882.90 (🔺511.28 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23454.09 (🔺138.51 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 179.59 (🔻1.48 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.29 (🔻0.53 : 2025-12-03)</span>
   </div>
 </div>
 
@@ -32,95 +32,95 @@
 
 ## News Headlines
 
-1. トランプ、燃費基準の大幅削減を提案
-2. 旧姓使用拡大へ 政府が法制化目指す
-3. 香港高層住宅火災 31人と連絡取れず
-4. アフガン復興支援に292億ドルの無駄遣い
-5. EU元幹部らを入札不正で訴追
-6. 佐川急便、荷物急増で全国的に受付制限
+1. マシュー・ペリー氏へのケタミン投与医師、禁錮30ヶ月
+2. トランプ大統領、閣議中に居眠りか
+3. NATO、ウクライナへの軍事支援強化を改めて強調
+4. イスラエル、ガザ南部へ報復空爆
+5. 自民・維新、衆院定数削減法案を提出へ
+6. 香港高層住宅火災、31人と連絡取れず
 
 ----
 
+@cbsnews.com
+
+<strong><span style="color: red;">BREAKING:</span> A doctor who gave ketamine to Matthew Perry before he died is sentenced to 30 months in prison.</strong>
+
+[2025-12-04 06:08:08](https://bsky.app/profile/cbsnews.com/post/3m74ehzun3u2b)
+
+---
+
+@reuters.com
+
+🎤 Reuters Econ World LIVE from the Reuters NEXT conference in New York City. Listen here reut.rs/48kHMms
+
+[2025-12-04 06:07:10](https://bsky.app/profile/reuters.com/post/3m74egcdaps26)
+
+---
+
+@usatoday.com
+
+New photos show President Donald Trump appearing to doze off at a Cabinet meeting this week.
+
+[2025-12-04 06:07:03](https://bsky.app/profile/usatoday.com/post/3m74eg3ehgb2p)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+NATO外相会合 ウクライナへの軍事支援強化の方針 改めて強調
+https://news.web.nhk/newsweb/na/na-k10014993441000
+
+[2025-12-04 06:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74eedlbvc2k)
+
+---
+
+@wsj.com
+
+Traffic in Miami is a nightmare, but one real-estate tycoon has a plan: flying taxis that take commuters around South Florida for $200.
+
+🔗: on.wsj.com/4appsd6
+
+[2025-12-04 06:05:44](https://bsky.app/profile/wsj.com/post/3m74edqlatd2w)
+
+---
+
+@apnews.com
+
+<strong><span style="color: red;">BREAKING:</span> Israel said it launched an airstrike in southern Gaza late Wednesday in retaliation for an attack by militants earlier in the day that wounded five Israeli soldiers.</strong>
+
+[2025-12-04 06:05:35](https://bsky.app/profile/apnews.com/post/3m74edhlc4a2y)
+
+---
+
+@reuters.com
+
+US sanctions Venezuelan actress citing alleged Tren de Aragua ties reut.rs/48OPjtH
+
+[2025-12-04 06:05:05](https://bsky.app/profile/reuters.com/post/3m74eckzjw22y)
+
+---
+
 @cnbc.com
 
-Trump proposes slashing fuel efficiency standards for passenger cars
+Hightower’s Stephanie Link says market is failing to appreciate Microsoft's AI value
 
-[2025-12-04 05:49:07](https://bsky.app/profile/cnbc.com/post/3m74dfzp2la2o)
-
----
-
-@nhknewsunofficial.bsky.social
-
-旧姓の通称使用拡大へ 来年の通常国会で法制化目指す方針 政府
-https://news.web.nhk/newsweb/na/na-k10014993381000
-
-[2025-12-04 05:48:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74debvlpq26)
+[2025-12-04 06:05:00](https://bsky.app/profile/cnbc.com/post/3m74ecfti5h2f)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@financialtimes.com
 
-地域未来戦略本部 地方経済活性化へ来年5月に政策まとめる方針
-https://news.web.nhk/newsweb/na/na-k10014993361000
+UK Treasury launches inquiry into pre-Budget leaks on.ft.com/3XyUkAf
 
-[2025-12-04 05:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74de5mgfe2j)
-
----
-
-@reuters.com
-
-Bessent says Fed rate cuts needed, China making good on soybean purchases reut.rs/4iH6ZuU
-
-[2025-12-04 05:45:07](https://bsky.app/profile/reuters.com/post/3m74d6ukibj27)
-
----
-
-@nhknewsunofficial.bsky.social
-
-香港 高層住宅火災 建物内部の捜索終えるも31人と連絡取れず
-https://news.web.nhk/newsweb/na/na-k10014993331000
-
-[2025-12-04 05:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74d6sjhhz23)
+[2025-12-04 06:04:50](https://bsky.app/profile/financialtimes.com/post/3m74ec4ni4p2l)
 
 ---
 
 @nytimes.com
 
-Subway and bus fare evasion cost New York City’s transit system nearly $1 billion last year. Will an arsenal of new tricks turn things around? trib.al/BzbS2FD
+Every month, The New York Times publishes a bonus crossword puzzle for subscribers. The theme of this month’s puzzle is folk tales and fairy tales. nyti.ms/48yWAMU
 
-[2025-12-04 05:40:38](https://bsky.app/profile/nytimes.com/post/3m74cwtq7pc2z)
-
----
-
-@reuters.com
-
-Spain plans wild boar cull amid swine fever outbreak that hit exports reut.rs/445a95r
-
-[2025-12-04 05:40:14](https://bsky.app/profile/reuters.com/post/3m74cw5ccen27)
-
----
-
-@nbcnews.com
-
-President Trump announces that he would pardon Rep. Henry Cuellar, who was indicted last year on bribery and money laundering charges.
-
-[2025-12-04 05:40:09](https://bsky.app/profile/nbcnews.com/post/3m74cvydn7c2r)
-
----
-
-@nytimes.com
-
-A raccoon entered a liquor store the other day and drank his fill: rum, moonshine, even peanut butter whiskey. Then he passed out on the floor of the bathroom. Don’t worry, he’s OK, and was safely released back into the wild.
-
-[2025-12-04 05:40:03](https://bsky.app/profile/nytimes.com/post/3m74cvs6hok2g)
-
----
-
-@axios.com
-
-As AI technology transforms the economy, the government will need to step in and retrain the workforce, Anthropic CEO Dario Amodei said today.
-
-[2025-12-04 05:38:59](https://bsky.app/profile/axios.com/post/3m74ctv5gbs27)
+[2025-12-04 06:03:04](https://bsky.app/profile/nytimes.com/post/3m74e6xm3n52g)
 
 ---
 
