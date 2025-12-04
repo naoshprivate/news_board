@@ -1,9 +1,9 @@
-# [2025-12-04 13:50 updated](2025_12_04.md)
+# [2025-12-04 14:10 updated](2025_12_04.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】安倍元首相銃撃 精神鑑定医が出廷し山上被告は「何の精神障害も認められなかった」と証言 (2025-12-04 13:48) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m756addzg42d" target="_blank">sokuho.news</a> (2025-12-04 13:49:07)</span><span style="padding-right:50px;">French President Emmanuel Macron and Chinese leader Xi Jinping meet in Beijing.  Macron’s visit to China comes as Xi seeks France’s support in a rising dispute with Japan over Taiwan. bloom.bg/4pMW5G8 <a href="https://bsky.app/profile/bloomberg.com/post/3m755za5ek72g" target="_blank">bloomberg.com</a> (2025-12-04 13:45:09)</span><span style="padding-right:50px;">Two people who survived the U.S. military's early September strike on an alleged drug-carrying vessel were attempting to climb back onto the boat before it was hit a second time, a source familiar with the matter told CBS News on Tuesday. <a href="https://bsky.app/profile/cbsnews.com/post/3m755yy6kwc2p" target="_blank">cbsnews.com</a> (2025-12-04 13:45:01)</span><span style="padding-right:50px;">Software startup deploys Singapore’s first quantum computer for commercial use <a href="https://bsky.app/profile/cnbc.com/post/3m755ub7sg62j" target="_blank">cnbc.com</a> (2025-12-04 13:42:22)</span><span style="padding-right:50px;">“コメ価格 今後下落の見方強まる” 3か月の見通し指数低下で https://news.web.nhk/newsweb/na/na-k10014993721000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m755tq5e5k2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-04 13:42:02)</span>
+<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】大分市佐賀関の大規模火災は「完全鎮火」 飛び火の無人島も鎮火発表 発生から17日目 (2025-12-04 14:05:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m757arcmmc2d" target="_blank">sokuho.news</a> (2025-12-04 14:07:16)</span><span style="padding-right:50px;">President Trump said when asked if he'd release video footage of a second strike on a suspected drug boat that allegedly killed two survivors: "I don't know what they have, but whatever they have we'll certainly release, no problem." <a href="https://bsky.app/profile/axios.com/post/3m756xwp4d22g" target="_blank">axios.com</a> (2025-12-04 14:02:19)</span><span style="padding-right:50px;">The controversy over who gave the order for a second strike that apparently killed people clinging to an alleged drug trafficking boat in the Caribbean has raised important questions about how and where such life-and-death decisions are made. | Analysis https://cnn.it/3KFfdqz <a href="https://bsky.app/profile/cnn.com/post/3m756xfqvhm2b" target="_blank">cnn.com</a> (2025-12-04 14:02:02)</span><span style="padding-right:50px;">Trump's name added to US Institute of Peace ahead of peace deal signing reut.rs/48iGjNp <a href="https://bsky.app/profile/reuters.com/post/3m756uxaaqx2k" target="_blank">reuters.com</a> (2025-12-04 14:00:39)</span><span style="padding-right:50px;">Emerging markets left the Fed behind on the descent from high interest rates (via Bloomberg Opinion)  <a href="https://bsky.app/profile/bloomberg.com/post/3m756uruxel2d" target="_blank">bloomberg.com</a> (2025-12-04 14:00:34)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50720.33 (🔺777.39 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47882.90 (🔺511.28 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23454.09 (🔺138.51 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 179.59 (🔻1.49 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3095.00 (🔺67.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 155.46 (🔺0.28 : 2025-12-04)</span>
+<span style="padding-right:50px;">NIKKEI: 50762.45 (🔺819.51 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47882.90 (🔺511.28 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23454.09 (🔺138.51 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 179.59 (🔻1.49 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3099.00 (🔺71.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 155.45 (🔺0.27 : 2025-12-04)</span>
   </div>
 </div>
 
@@ -32,105 +32,101 @@
 
 ## News Headlines
 
-1. 安倍元首相銃撃事件、山上被告に精神障害なし 精神鑑定医が証言
-2. マクロン大統領、中国で習近平国家主席と会談 台湾問題でフランスの支持を模索か
-3. コメ価格、今後下落の見方強まる 3か月見通し指数低下
-4. 日銀、国債利回り上昇に政策対応苦慮
-5. 株価大幅上昇、FRB利下げ観測で景気下支え期待
-6. 岡山で14年前の傷害致死事件、男を逮捕
+1. 大分佐賀関大規模火災、発生から17日目で完全鎮火
+2. トランプ氏、疑惑の麻薬船攻撃映像公開に「問題ない」
+3. 米国平和研究所、和平合意署名前にトランプ氏の名前を追加
+4. ゲノム編集ベビー規制へ、受精卵の子宮移植に罰則検討
+5. 安倍元首相銃撃事件、精神鑑定医「山上被告に精神障害認められず」と証言
+6. 株価900円以上値上がり、FRB利下げ観測で景気下支え期待
 
 ----
 
 @sokuho.news
 
-🛎️NNNより【速報】です。
+🛎️JNNより【速報】です。
 
-【速報】安倍元首相銃撃 精神鑑定医が出廷し山上被告は「何の精神障害も認められなかった」と証言
-(2025-12-04 13:48) #ニュース
+【速報】大分市佐賀関の大規模火災は「完全鎮火」 飛び火の無人島も鎮火発表 発生から17日目
+(2025-12-04 14:05:00) #ニュース
 
-[2025-12-04 13:49:07](https://bsky.app/profile/sokuho.news/post/3m756addzg42d)
-
----
-
-@bloomberg.com
-
-French President Emmanuel Macron and Chinese leader Xi Jinping meet in Beijing.
-
-Macron’s visit to China comes as Xi seeks France’s support in a rising dispute with Japan over Taiwan. bloom.bg/4pMW5G8
-
-[2025-12-04 13:45:09](https://bsky.app/profile/bloomberg.com/post/3m755za5ek72g)
+[2025-12-04 14:07:16](https://bsky.app/profile/sokuho.news/post/3m757arcmmc2d)
 
 ---
 
-@cbsnews.com
+@axios.com
 
-Two people who survived the U.S. military's early September strike on an alleged drug-carrying vessel were attempting to climb back onto the boat before it was hit a second time, a source familiar with the matter told CBS News on Tuesday.
+President Trump said when asked if he'd release video footage of a second strike on a suspected drug boat that allegedly killed two survivors: "I don't know what they have, but whatever they have we'll certainly release, no problem."
 
-[2025-12-04 13:45:01](https://bsky.app/profile/cbsnews.com/post/3m755yy6kwc2p)
-
----
-
-@cnbc.com
-
-Software startup deploys Singapore’s first quantum computer for commercial use
-
-[2025-12-04 13:42:22](https://bsky.app/profile/cnbc.com/post/3m755ub7sg62j)
-
----
-
-@nhknewsunofficial.bsky.social
-
-“コメ価格 今後下落の見方強まる” 3か月の見通し指数低下で
-https://news.web.nhk/newsweb/na/na-k10014993721000
-
-[2025-12-04 13:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m755tq5e5k2k)
-
----
-
-@reuters.com
-
-Twelve former US FDA commissioners express deep concern about agency's vaccine change reut.rs/48wqb9N
-
-[2025-12-04 13:40:05](https://bsky.app/profile/reuters.com/post/3m755q65l3u2n)
+[2025-12-04 14:02:19](https://bsky.app/profile/axios.com/post/3m756xwp4d22g)
 
 ---
 
 @cnn.com
 
-When Putin’s plane touches down in New Delhi, he will be met with the pomp and ceremony reserved for one of India’s most steadfast partners. Yet his host, Prime Minister Narendra Modi, is simultaneously attempting to maintain a deep strategic relationship with a key global rival: the US. | Analysis
+The controversy over who gave the order for a second strike that apparently killed people clinging to an alleged drug trafficking boat in the Caribbean has raised important questions about how and where such life-and-death decisions are made. | Analysis https://cnn.it/3KFfdqz
 
-[2025-12-04 13:31:01](https://bsky.app/profile/cnn.com/post/3m7557xgy242h)
+[2025-12-04 14:02:02](https://bsky.app/profile/cnn.com/post/3m756xfqvhm2b)
 
 ---
 
 @reuters.com
 
-FDA appoints Tracy Hoeg as acting director of drug evaluation center reut.rs/3KGh0vw
+Trump's name added to US Institute of Peace ahead of peace deal signing reut.rs/48iGjNp
 
-[2025-12-04 13:30:34](https://bsky.app/profile/reuters.com/post/3m75575ud7s2y)
+[2025-12-04 14:00:39](https://bsky.app/profile/reuters.com/post/3m756uxaaqx2k)
+
+---
+
+@bloomberg.com
+
+Emerging markets left the Fed behind on the descent from high interest rates (via Bloomberg Opinion) 
+
+[2025-12-04 14:00:34](https://bsky.app/profile/bloomberg.com/post/3m756uruxel2d)
+
+---
+
+@cnbc.com
+
+Morgan House, expert on the psychology of money, he argues that true happiness in life comes from wanting less, not accumulating more.
+
+"Once you see someone master that equation," he writes, "you'll never think about wealth the same."
+
+[2025-12-04 14:00:31](https://bsky.app/profile/cnbc.com/post/3m756up4vc52i)
 
 ---
 
 @aljazeera.com
 
-President Putin visits India as Russia faces pressure to end war in Ukraine, looking to boost bilateral trade deals.
+With 80 percent of votes counted, centrist candidate widens lead over his Trump-backed conservative rival.
 
-[2025-12-04 13:30:30](https://bsky.app/profile/aljazeera.com/post/3m7556znzdo2a)
+[2025-12-04 14:00:16](https://bsky.app/profile/aljazeera.com/post/3m756ubiglc2f)
 
 ---
 
-@nikkei.com
+@washingtonpost.com
 
-コアラが食べ残したユーカリを使ったカップ（無料記事）
-www.nikkei.com/article/DGXZQO...
+The Supreme Court weighed arguments in a Mississippi preacher’s case which concerns the constitutional right to free speech and when defendants can challenge laws they were convicted of.
 
-名古屋市の東山動植物園とアサヒGHD子会社のアサヒユウアスが共同開発。
+[2025-12-04 14:00:10](https://bsky.app/profile/washingtonpost.com/post/3m756u3kilx23)
 
-これまで廃棄されていたユーカリの幹や剪定枝を活用しています。
+---
 
-ふるさと納税型のクラウドファンディング企画として採用され、寄付金はユーカリの持続的・安定的な供給などのために使用される予定です。
+@nytimes.com
 
-[2025-12-04 13:30:27](https://bsky.app/profile/nikkei.com/post/3m7556xeccc2e)
+In @nytopinion.nytimes.com
+
+Regardless of how often President Trump himself appears in the Epstein files, the editorial board writes, “Americans should not define deviancy down. They should expect more from their presidents, even this one.”
+
+[2025-12-04 14:00:03](https://bsky.app/profile/nytimes.com/post/3m756tuoni626)
+
+---
+
+@en.afp.com
+
+Forecasts of fresh rain raise fears of more damage in flood-hit Indonesia and Sri Lanka, after earlier deluges killed more than 1,500 people in four countries
+
+u.afp.com/ShFN
+
+[2025-12-04 13:57:55](https://bsky.app/profile/en.afp.com/post/3m756q2pnma2p)
 
 ---
 
