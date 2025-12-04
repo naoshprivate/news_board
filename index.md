@@ -1,9 +1,9 @@
-# [2025-12-04 16:30 updated](2025_12_04.md)
+# [2025-12-04 16:50 updated](2025_12_04.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Trump to host DR Congo's Félix Tshisekedi and Rwanda's Paul Kagame to sign peace deal <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m75h672oh522" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-04 16:28:58)</span><span style="padding-right:50px;">Pritam Singh: Singapore court upholds opposition leader's conviction <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m75h4aa7qh2y" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-04 16:27:53)</span><span style="padding-right:50px;">Hikvision challenges US decision to expand crackdown on Chinese telecom gear reut.rs/4pjUqrP <a href="https://bsky.app/profile/reuters.com/post/3m75gx72f772w" target="_blank">reuters.com</a> (2025-12-04 16:25:04)</span><span style="padding-right:50px;">European markets expected to open higher; Ukraine peace talks in focus <a href="https://bsky.app/profile/cnbc.com/post/3m75gw6zgbu2x" target="_blank">cnbc.com</a> (2025-12-04 16:24:31)</span><span style="padding-right:50px;">CNBC Daily Open: Sweet gains for markets amid sour job signals <a href="https://bsky.app/profile/cnbc.com/post/3m75gsh3szn2y" target="_blank">cnbc.com</a> (2025-12-04 16:22:25)</span>
+<span style="padding-right:50px;">US halted plans to sanction Chinese spy agency to maintain trade truce, FT says reut.rs/48vOwwu <a href="https://bsky.app/profile/reuters.com/post/3m75i2ybtsk2o" target="_blank">reuters.com</a> (2025-12-04 16:45:05)</span><span style="padding-right:50px;">New Delhi recorded more than 200,000 cases of acute respiratory illnesses at six state-run hospitals between 2022 and 2024, highlighting the adverse effects of toxic air on health.   Each winter, New Delhi is shrouded in toxic smog, as cooler air traps pollutants close to the ground <a href="https://bsky.app/profile/en.afp.com/post/3m75huf4t3n2k" target="_blank">en.afp.com</a> (2025-12-04 16:41:24)</span><span style="padding-right:50px;">Kenya to sell 15% Safaricom stake to Vodacom in $1.6 billion deal reut.rs/4pIUctV <a href="https://bsky.app/profile/reuters.com/post/3m75hs47wu22o" target="_blank">reuters.com</a> (2025-12-04 16:40:07)</span><span style="padding-right:50px;">Reform UK gets £9mn donation from Christopher Harborne on.ft.com/4rCFCWE <a href="https://bsky.app/profile/financialtimes.com/post/3m75hqxopwv2w" target="_blank">financialtimes.com</a> (2025-12-04 16:39:29)</span><span style="padding-right:50px;">公明 徳島県議を除名処分 勝手に女性の裸など撮影した疑い https://news.web.nhk/newsweb/na/na-k10014993891000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75hqscvs72k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-04 16:39:20)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47882.90 (🔺511.28 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23454.09 (🔺138.51 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 179.59 (🔻1.49 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 155.28 (🔺0.10 : 2025-12-04)</span>
+<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47882.90 (🔺511.28 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23454.09 (🔺138.51 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 179.59 (🔻1.49 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 155.27 (🔺0.10 : 2025-12-04)</span>
   </div>
 </div>
 
@@ -32,97 +32,101 @@
 
 ## News Headlines
 
-1. トランプ氏、コンゴ民主共和国とルワンダの首脳を招き和平合意署名へ
-2. 山上被告「本来の敵は統一教会」安倍元総理銃撃事件裁判で語る
-3. 株価大幅上昇、3週間ぶりに5万1000円台回復
-4. EU、MetaのWhatsAppにおけるAI利用で独禁法調査開始
-5. 都内インフルエンザ、今季初めて減少に転じるも依然警報レベル
-6. タイ、詐欺取り締まりで3.18億ドルの資産押収、42人に逮捕状
+1. 米国、貿易交渉維持のため中国スパイ機関への制裁計画を停止か
+2. ニューデリー、有毒大気の影響で呼吸器疾患が多発
+3. ケニア、通信大手サファリコム株15%をボーダコムに売却
+4. 改革党、クリストファー・ハーボーン氏から900万ポンドの寄付
+5. 山上被告、遺族に初めて謝罪 - 安倍元首相銃撃事件裁判
+6. 能登半島地震、災害関連死新たに4人認定 - 死者691人に
 
 ----
 
-@bbcnews-world-rss.bsky.social
+@reuters.com
 
-Trump to host DR Congo's Félix Tshisekedi and Rwanda's Paul Kagame to sign peace deal
+US halted plans to sanction Chinese spy agency to maintain trade truce, FT says reut.rs/48vOwwu
 
-[2025-12-04 16:28:58](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m75h672oh522)
+[2025-12-04 16:45:05](https://bsky.app/profile/reuters.com/post/3m75i2ybtsk2o)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@en.afp.com
 
-Pritam Singh: Singapore court upholds opposition leader's conviction
+New Delhi recorded more than 200,000 cases of acute respiratory illnesses at six state-run hospitals between 2022 and 2024, highlighting the adverse effects of toxic air on health. 
 
-[2025-12-04 16:27:53](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m75h4aa7qh2y)
+Each winter, New Delhi is shrouded in toxic smog, as cooler air traps pollutants close to the ground
+
+[2025-12-04 16:41:24](https://bsky.app/profile/en.afp.com/post/3m75huf4t3n2k)
 
 ---
 
 @reuters.com
 
-Hikvision challenges US decision to expand crackdown on Chinese telecom gear reut.rs/4pjUqrP
+Kenya to sell 15% Safaricom stake to Vodacom in $1.6 billion deal reut.rs/4pIUctV
 
-[2025-12-04 16:25:04](https://bsky.app/profile/reuters.com/post/3m75gx72f772w)
-
----
-
-@cnbc.com
-
-European markets expected to open higher; Ukraine peace talks in focus
-
-[2025-12-04 16:24:31](https://bsky.app/profile/cnbc.com/post/3m75gw6zgbu2x)
+[2025-12-04 16:40:07](https://bsky.app/profile/reuters.com/post/3m75hs47wu22o)
 
 ---
 
-@cnbc.com
+@financialtimes.com
 
-CNBC Daily Open: Sweet gains for markets amid sour job signals
+Reform UK gets £9mn donation from Christopher Harborne on.ft.com/4rCFCWE
 
-[2025-12-04 16:22:25](https://bsky.app/profile/cnbc.com/post/3m75gsh3szn2y)
+[2025-12-04 16:39:29](https://bsky.app/profile/financialtimes.com/post/3m75hqxopwv2w)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+公明 徳島県議を除名処分 勝手に女性の裸など撮影した疑い
+https://news.web.nhk/newsweb/na/na-k10014993891000
+
+[2025-12-04 16:39:20](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75hqscvs72k)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+沖縄 “米軍のパトロールで4月以降逮捕者101人”政府明らかに
+https://news.web.nhk/newsweb/na/na-k10014993931000
+
+[2025-12-04 16:39:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75hqeji552b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+安倍元首相銃撃事件の裁判 山上被告 遺族に初めて謝罪
+https://news.web.nhk/newsweb/na/na-k10014993311000
+
+[2025-12-04 16:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75hqa24n32r)
 
 ---
 
 @sokuho.news
 
-🛎️FNNより【速報】です。
+🛎️NNNより【速報】です。
 
-【速報】山上被告「本来の敵は統一教会。安倍元総理は統一教会に対する影響力はかなりあったと思う。それが標的に入った理由です」“最後”の被告人質問で語る 安倍元総理銃撃・殺害事件裁判
-(2025-12-04 16:06) #ニュース
+【速報】山上徹也被告が初めて謝罪「弁解の余地ない」 妻・昭恵さんは3日に出廷 被害者参加制度を利用
+(2025-12-04 16:37) #ニュース
 
-[2025-12-04 16:22:03](https://bsky.app/profile/sokuho.news/post/3m75grsbklv2g)
+[2025-12-04 16:37:43](https://bsky.app/profile/sokuho.news/post/3m75hnsfrec2e)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-【動画】京都 “皇室ゆかりの紅葉”
-https://news.web.nhk/newsweb/na/na-k10014990441000
+来年度の診療報酬改定 基本方針了承 改定率決定へ調整本格化
+https://news.web.nhk/newsweb/na/na-k10014993901000
 
-[2025-12-04 16:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75gkobheg2p)
+[2025-12-04 16:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75hkuc5sq2t)
 
 ---
 
 @reuters.com
 
-Australia's household spending surges, lifting rate hike bets reut.rs/443PUVU
+Rupee likely to extend slide as 90 breach cements weak bias, invites speculative bets reut.rs/4ozZDKK
 
-[2025-12-04 16:15:04](https://bsky.app/profile/reuters.com/post/3m75gfcepzn22)
-
----
-
-@bloomberg.com
-
-President Trump, apparently enamored by the pint-sized Kei cars he saw during his recent trip to Japan, has paved the way for them to be made and sold in the US despite concerns
-
-[2025-12-04 16:13:21](https://bsky.app/profile/bloomberg.com/post/3m75gca2bv72d)
-
----
-
-@nhknewsunofficial.bsky.social
-
-株価 大きく値上がり 3週間ぶりに5万1000円台を回復
-https://news.web.nhk/newsweb/na/na-k10014993711000
-
-[2025-12-04 16:12:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75g7ygodw2p)
+[2025-12-04 16:35:04](https://bsky.app/profile/reuters.com/post/3m75hj2rkag22)
 
 ---
 
