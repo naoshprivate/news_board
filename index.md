@@ -1,9 +1,9 @@
-# [2025-12-04 09:10 updated](2025_12_04.md)
+# [2025-12-04 09:30 updated](2025_12_04.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">長期金利 10年もの国債利回り1.9％に 2007年7月以来の高水準 https://news.web.nhk/newsweb/na/na-k10014993551000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74olpirdy2r" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-04 09:09:07)</span><span style="padding-right:50px;">富山 「クマに襲われた」と通報 70代夫婦がけが https://news.web.nhk/newsweb/na/na-k10014993541000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74olkhq7g26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-04 09:09:02)</span><span style="padding-right:50px;">Cramer's Lightning Round: Buy MSCI <a href="https://bsky.app/profile/cnbc.com/post/3m74ok6ce7z2i" target="_blank">cnbc.com</a> (2025-12-04 09:08:18)</span><span style="padding-right:50px;">Panahi's latest film, It Was Just an Accident, won three Gotham Awards on Monday. The filmmaker has been imprisoned in Iran before — but continues to make movies. n.pr/4oAZ5o5 <a href="https://bsky.app/profile/npr.org/post/3m74oft4xco2s" target="_blank">npr.org</a> (2025-12-04 09:05:52)</span><span style="padding-right:50px;">OpenAI loses fight to keep ChatGPT logs secret in copyright case reut.rs/4piz7Ha <a href="https://bsky.app/profile/reuters.com/post/3m74oegwflg27" target="_blank">reuters.com</a> (2025-12-04 09:05:05)</span>
+<span style="padding-right:50px;">Constellation Brands, the US owner of Modelo Especial and Corona, bet big on Latino customers for growth. But that strategy is unraveling under the Trump administration's mass deportation push. https://cnn.it/4opyNox <a href="https://bsky.app/profile/cnn.com/post/3m74plo4gdh2y" target="_blank">cnn.com</a> (2025-12-04 09:27:02)</span><span style="padding-right:50px;">Germany, France, Spain to tackle fighter dispute next week, says source reut.rs/48ws71X <a href="https://bsky.app/profile/reuters.com/post/3m74pieupi627" target="_blank">reuters.com</a> (2025-12-04 09:25:11)</span><span style="padding-right:50px;">CrowdStrike CEO talks relationship with AWS: 'We're now part of the ecosystem there' <a href="https://bsky.app/profile/cnbc.com/post/3m74pdxx6mn2e" target="_blank">cnbc.com</a> (2025-12-04 09:22:43)</span><span style="padding-right:50px;">Trump ally MyPillow CEO Mike Lindell officially registered to raise campaign funds for a potential Minnesota governor bid through the state's site today. <a href="https://bsky.app/profile/axios.com/post/3m74p7thass2g" target="_blank">axios.com</a> (2025-12-04 09:20:25)</span><span style="padding-right:50px;">For 70 years, neutrality has been the cornerstone of Austria's foreign policy. But debate has been mounting in the EU member state since Russia invaded Ukraine. 🇦🇹⤵️ u.afp.com/Shye <a href="https://bsky.app/profile/en.afp.com/post/3m74p5e2c5q2j" target="_blank">en.afp.com</a> (2025-12-04 09:19:01)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47882.90 (🔺511.28 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23454.09 (🔺138.51 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 179.59 (🔻1.48 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.09 (🔻0.09 : 2025-12-04)</span>
+<span style="padding-right:50px;">NIKKEI: 50213.84 (🔺270.90 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47882.90 (🔺511.28 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23454.09 (🔺138.51 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 179.59 (🔻1.48 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3020.00 (🔻8.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 155.23 (🔺0.05 : 2025-12-04)</span>
   </div>
 </div>
 
@@ -32,97 +32,96 @@
 
 ## News Headlines
 
-1. 長期金利上昇、10年国債利回り1.9％ - 2007年以来の高水準
-2. 富山でクマ被害相次ぐ、70代夫婦含む複数人が負傷
-3. 国連総会、ロシアへ連れ去られた子どもの即時帰還求める決議
-4. 山口県宇部市で広範囲なガス漏れ、複数箇所で火災発生
-5. 福島県浜通りで地震発生、最大震度2
-6. アップルのデザイン責任者、メタ（旧フェイスブック）へ移籍
+1.  長期金利、18年ぶり1.9%台に上昇
+2.  富山でクマ被害相次ぐ、70代夫婦ら負傷
+3.  山口県宇部市で広範囲ガス漏れ、複数火災発生
+4.  国連総会、ロシアへの子ども連れ去り即時帰還求める決議採択
+5.  トランプ氏、薬物ボート撃破映像公開を支持
+6.  AI投資拡大で企業資金需要増加へ
 
 ----
 
-@nhknewsunofficial.bsky.social
+@cnn.com
 
-長期金利 10年もの国債利回り1.9％に 2007年7月以来の高水準
-https://news.web.nhk/newsweb/na/na-k10014993551000
+Constellation Brands, the US owner of Modelo Especial and Corona, bet big on Latino customers for growth. But that strategy is unraveling under the Trump administration's mass deportation push. https://cnn.it/4opyNox
 
-[2025-12-04 09:09:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74olpirdy2r)
-
----
-
-@nhknewsunofficial.bsky.social
-
-富山 「クマに襲われた」と通報 70代夫婦がけが
-https://news.web.nhk/newsweb/na/na-k10014993541000
-
-[2025-12-04 09:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74olkhq7g26)
-
----
-
-@cnbc.com
-
-Cramer's Lightning Round: Buy MSCI
-
-[2025-12-04 09:08:18](https://bsky.app/profile/cnbc.com/post/3m74ok6ce7z2i)
-
----
-
-@npr.org
-
-Panahi's latest film, It Was Just an Accident, won three Gotham Awards on Monday. The filmmaker has been imprisoned in Iran before — but continues to make movies. n.pr/4oAZ5o5
-
-[2025-12-04 09:05:52](https://bsky.app/profile/npr.org/post/3m74oft4xco2s)
+[2025-12-04 09:27:02](https://bsky.app/profile/cnn.com/post/3m74plo4gdh2y)
 
 ---
 
 @reuters.com
 
-OpenAI loses fight to keep ChatGPT logs secret in copyright case reut.rs/4piz7Ha
+Germany, France, Spain to tackle fighter dispute next week, says source reut.rs/48ws71X
 
-[2025-12-04 09:05:05](https://bsky.app/profile/reuters.com/post/3m74oegwflg27)
+[2025-12-04 09:25:11](https://bsky.app/profile/reuters.com/post/3m74pieupi627)
 
 ---
 
 @cnbc.com
 
-Asia markets set to open mixed after Wall Street gains on cooler-than-expected jobs data and rate-cut hopes
+CrowdStrike CEO talks relationship with AWS: 'We're now part of the ecosystem there'
 
-[2025-12-04 09:04:59](https://bsky.app/profile/cnbc.com/post/3m74oeb3nqx2f)
+[2025-12-04 09:22:43](https://bsky.app/profile/cnbc.com/post/3m74pdxx6mn2e)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@axios.com
 
-ロシアへ連れ去られた子ども 即時帰還求める決議採択 国連総会
-https://news.web.nhk/newsweb/na/na-k10014993531000
+Trump ally MyPillow CEO Mike Lindell officially registered to raise campaign funds for a potential Minnesota governor bid through the state's site today.
 
-[2025-12-04 09:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74oatptop2k)
+[2025-12-04 09:20:25](https://bsky.app/profile/axios.com/post/3m74p7thass2g)
+
+---
+
+@en.afp.com
+
+For 70 years, neutrality has been the cornerstone of Austria's foreign policy. But debate has been mounting in the EU member state since Russia invaded Ukraine. 🇦🇹⤵️
+u.afp.com/Shye
+
+[2025-12-04 09:19:01](https://bsky.app/profile/en.afp.com/post/3m74p5e2c5q2j)
+
+---
+
+@reuters.com
+
+AT&T sues generic drugmakers over alleged price-fixing scheme reut.rs/4iyVaXk
+
+[2025-12-04 09:15:12](https://bsky.app/profile/reuters.com/post/3m74owj4xaw2k)
+
+---
+
+@nikkei.com
+
+長期金利上昇、18年ぶり1.9%台　12月利上げ観測強まる
+www.nikkei.com/article/DGXZQO...
+
+#ニュース
+
+[2025-12-04 09:13:58](https://bsky.app/profile/nikkei.com/post/3m74oucfqxt2w)
 
 ---
 
 @financialtimes.com
 
-Trump doubles down on claims of affordability ‘hoax’ on.ft.com/4iFg9Ib
+How Brendan Nelson became HSBC’s stop-gap chair on.ft.com/3Y8aiBy
 
-[2025-12-04 09:02:38](https://bsky.app/profile/financialtimes.com/post/3m74oa2plmr26)
+[2025-12-04 09:13:51](https://bsky.app/profile/financialtimes.com/post/3m74ou3tril23)
+
+---
+
+@wsj.com
+
+Exclusive: The four-star admiral in charge of Caribbean operations had concerns about the legality of the boat strikes. Defense Secretary Pete Hegseth asked him to retire shortly after they started.
+
+[2025-12-04 09:13:20](https://bsky.app/profile/wsj.com/post/3m74ot6w3vh2i)
 
 ---
 
 @cnbc.com
 
-Cami sold her home, bought a laundromat in Arizona and ultimately quit her nursing job to run the business full-time — changing her life for the better, she says.
+Jim Cramer unpacks the different aspects of Wednesday's market rally
 
-“Now, I’m only working maybe five or six hours a week [running the laundromat],” says Cami.
-
-[2025-12-04 09:01:14](https://bsky.app/profile/cnbc.com/post/3m74o5kjh2o2x)
-
----
-
-@cnn.com
-
-Costco on Friday filed a lawsuit that contends Pesident Trump overstepped his emergency powers by imposing sweeping tariffs – and claimed the company is due a refund. Read more analysis: https://cnn.it/48PRux6
-
-[2025-12-04 09:01:02](https://bsky.app/profile/cnn.com/post/3m74o56vfad2f)
+[2025-12-04 09:10:28](https://bsky.app/profile/cnbc.com/post/3m74oo2bw262r)
 
 ---
 
