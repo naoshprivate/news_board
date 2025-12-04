@@ -1,9 +1,9 @@
-# [2025-12-04 17:50 updated](2025_12_04.md)
+# [2025-12-04 18:10 updated](2025_12_04.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Morning Bid: Day off for dollar debasement trade reut.rs/4q7RmiD <a href="https://bsky.app/profile/reuters.com/post/3m75lgcovni2d" target="_blank">reuters.com</a> (2025-12-04 17:45:07)</span><span style="padding-right:50px;">年末年始の旅行 国内外とも前年比増の見通し 大手旅行会社調査 https://news.web.nhk/newsweb/na/na-k10014994031000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75launn5i2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-04 17:42:02)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】「安倍元総理が殺害されないといけなかったのは間違いだったなと」山上被告“最後”の被告人質問で答える (2025-12-04 17:33) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m75lag4jme2g" target="_blank">sokuho.news</a> (2025-12-04 17:41:49)</span><span style="padding-right:50px;">Most EU citizens see 'high risk' of war with Russia, says poll  u.afp.com/ShFD <a href="https://bsky.app/profile/en.afp.com/post/3m75l7ejlwp23" target="_blank">en.afp.com</a> (2025-12-04 17:41:14)</span><span style="padding-right:50px;">How an oil pipeline battle shows the US gaining sway in Iraq reut.rs/48GJYUi <a href="https://bsky.app/profile/reuters.com/post/3m75l5cwnbb2e" target="_blank">reuters.com</a> (2025-12-04 17:40:05)</span>
+<span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:十勝地方中部, 深さ:50km マグニチュード:3.6, 最大震度:2 📍https://www.google.com/maps?q=42.8,143.2&ll=42.8,143.2&z=7&t=h 地震発生日時:2025-12-04 18:04頃 (10倍速▶120s→12s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m75mo3gby726" target="_blank">sokuho.news</a> (2025-12-04 18:07:21)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  18時4分頃、北海道で最大震度2の地震を観測しました。 震源:十勝地方中部, 深さ:50km, 規模:M3.6 この地震による津波の心配はありません。 (2025-12-04 18:06:54) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/04/2025-12-04-18-04-00.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3m75mncw2ut2q" target="_blank">sokuho.news</a> (2025-12-04 18:06:55)</span><span style="padding-right:50px;">タイ国籍少女の母親 12月中にも日本かタイに移送の見通し https://news.web.nhk/newsweb/na/na-k10014994081000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75mlskwsm2g" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-04 18:06:02)</span><span style="padding-right:50px;">Child deaths will rise this year as aid cuts reverse progress, says Gates reut.rs/4oBC0Sd <a href="https://bsky.app/profile/reuters.com/post/3m75mjycc632n" target="_blank">reuters.com</a> (2025-12-04 18:05:03)</span><span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像4🈡 (2025-12-04 18:04:39) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m75mjtnwck24" target="_blank">sokuho.news</a> (2025-12-04 18:04:59)</span>
   </div>
 </div>
 
@@ -32,100 +32,126 @@
 
 ## News Headlines
 
-1. 山上被告、法廷で初謝罪：「弁解の余地ない」安倍元首相銃撃事件
-2. EU市民、ロシアとの戦争リスク「高い」と認識
-3. マレーシア航空370便、10年超ぶりに深海捜索再開へ
-4. 来年度診療報酬、大幅プラスを自民議連が首相に要請
-5. 山口・宇部で広範囲ガス漏れ、約1万2500世帯供給停止
-6. AIバブル過熱か、Googleトレンドで検索数急上昇
+1. 北海道で最大震度2の地震発生、津波の心配なし
+2. タイ国籍少女の母親、12月中にも日本かタイへ移送の見通し
+3. ゲイツ氏、援助削減で児童死亡増加を警告
+4. “トクリュウ”リーダー格の男2人逮捕、強盗未遂などの疑い
+5. 山上被告 “安倍元総理殺害は間違いだった” 最後”の被告人質問で答える
+6. 大手旅行会社調査、年末年始の旅行は国内外とも前年比増の見通し
 
 ----
 
-@reuters.com
+@sokuho.news
 
-Morning Bid: Day off for dollar debasement trade reut.rs/4q7RmiD
+🔔防災科研より【強震モニタ】動画です。
 
-[2025-12-04 17:45:07](https://bsky.app/profile/reuters.com/post/3m75lgcovni2d)
+震源:十勝地方中部, 深さ:50km
+マグニチュード:3.6, 最大震度:2
+📍https://www.google.com/maps?q=42.8,143.2&ll=42.8,143.2&z=7&t=h
+地震発生日時:2025-12-04 18:04頃
+(10倍速▶120s→12s) #地震
 
----
-
-@nhknewsunofficial.bsky.social
-
-年末年始の旅行 国内外とも前年比増の見通し 大手旅行会社調査
-https://news.web.nhk/newsweb/na/na-k10014994031000
-
-[2025-12-04 17:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75launn5i2u)
+[2025-12-04 18:07:21](https://bsky.app/profile/sokuho.news/post/3m75mo3gby726)
 
 ---
 
 @sokuho.news
 
-🛎️FNNより【速報】です。
+🔔気象庁より【地震速報】です。
 
-【速報】「安倍元総理が殺害されないといけなかったのは間違いだったなと」山上被告“最後”の被告人質問で答える
-(2025-12-04 17:33) #ニュース
+18時4分頃、北海道で最大震度2の地震を観測しました。
+震源:十勝地方中部, 深さ:50km, 規模:M3.6
+この地震による津波の心配はありません。
+(2025-12-04 18:06:54) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/04/2025-12-04-18-04-00.html?xlarge_image=1
 
-[2025-12-04 17:41:49](https://bsky.app/profile/sokuho.news/post/3m75lag4jme2g)
-
----
-
-@en.afp.com
-
-Most EU citizens see 'high risk' of war with Russia, says poll
-
-u.afp.com/ShFD
-
-[2025-12-04 17:41:14](https://bsky.app/profile/en.afp.com/post/3m75l7ejlwp23)
-
----
-
-@reuters.com
-
-How an oil pipeline battle shows the US gaining sway in Iraq reut.rs/48GJYUi
-
-[2025-12-04 17:40:05](https://bsky.app/profile/reuters.com/post/3m75l5cwnbb2e)
+[2025-12-04 18:06:55](https://bsky.app/profile/sokuho.news/post/3m75mncw2ut2q)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-【動画】雪の見通しは 田中美都気象予報士の解説 (4日17時)
-https://news.web.nhk/newsweb/na/na-k10014993631000
+タイ国籍少女の母親 12月中にも日本かタイに移送の見通し
+https://news.web.nhk/newsweb/na/na-k10014994081000
 
-[2025-12-04 17:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75l3jgxh226)
+[2025-12-04 18:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75mlskwsm2g)
 
 ---
 
 @reuters.com
 
-EU to launch antitrust probe into Meta over use of AI in WhatsApp, FT reports reut.rs/48RBYko
+Child deaths will rise this year as aid cuts reverse progress, says Gates reut.rs/4oBC0Sd
 
-[2025-12-04 17:35:03](https://bsky.app/profile/reuters.com/post/3m75kud2qpi2i)
+[2025-12-04 18:05:03](https://bsky.app/profile/reuters.com/post/3m75mjycc632n)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗
+
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像4🈡
+(2025-12-04 18:04:39) #緊急地震速報
+
+[2025-12-04 18:04:59](https://bsky.app/profile/sokuho.news/post/3m75mjtnwck24)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗
+
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像3
+(2025-12-04 18:04:30) #緊急地震速報
+
+[2025-12-04 18:04:37](https://bsky.app/profile/sokuho.news/post/3m75mj6n5r52y)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗
+
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像2
+(2025-12-04 18:04:12) #緊急地震速報
+
+[2025-12-04 18:04:25](https://bsky.app/profile/sokuho.news/post/3m75mit22yc24)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗
+
+⚠️揺れに警戒してください
+🔗http://www.kmoni.bosai.go.jp/
+
+🔶防災科研/強震モニタ/予測震度画像1
+(2025-12-04 18:04:10) #緊急地震速報
+
+[2025-12-04 18:04:17](https://bsky.app/profile/sokuho.news/post/3m75milkosp2d)
 
 ---
 
 @cnn.com
 
-Malaysia’s transport ministry said a private firm will resume a deep-sea hunt for Malaysia Airlines Flight 370 later this month, more than a decade after the jet vanished without a trace.
+"...There is one very specific species of Republican that is increasingly willing to squeak quite loudly: the libertarian-leaning Kentucky Republican." | Analysis
 
-[2025-12-04 17:31:01](https://bsky.app/profile/cnn.com/post/3m75kn4amo62q)
-
----
-
-@nhknewsunofficial.bsky.social
-
-定数削減法案 維新 藤田共同代表 参政 神谷代表に協力呼びかけ
-https://news.web.nhk/newsweb/na/na-k10014994041000
-
-[2025-12-04 17:30:13](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75klqhmyx2k)
+[2025-12-04 18:01:01](https://bsky.app/profile/cnn.com/post/3m75mcqzqp42y)
 
 ---
 
-@aljazeera.com
+@cnn.com
 
-Guterres said Israel's war has been waged with 'total neglect' with respect to civilian deaths and Gaza's destruction.
+President Donald Trump’s name has been installed on the building and signage around the US Institute of Peace – an independent agency that the administration gutted earlier this year.
 
-[2025-12-04 17:30:09](https://bsky.app/profile/aljazeera.com/post/3m75kllcp2t2c)
+[2025-12-04 18:01:01](https://bsky.app/profile/cnn.com/post/3m75mcqyvzy2s)
 
 ---
 
