@@ -1,9 +1,9 @@
-# [2025-12-05 03:10 updated](2025_12_05.md)
+# [2025-12-05 03:30 updated](2025_12_05.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Exclusive: In an expansion of President Trump's crackdown on legal immigration, work permits issued to certain migrants will now be valid for 18 months rather than 5 years. <a href="https://bsky.app/profile/wsj.com/post/3m76kv2pw6x22" target="_blank">wsj.com</a> (2025-12-05 03:08:07)</span><span style="padding-right:50px;">Meta stock climbs on report company will make major cuts to metaverse efforts <a href="https://bsky.app/profile/yahoofinance.com/post/3m76kshungx2x" target="_blank">yahoofinance.com</a> (2025-12-05 03:06:41)</span><span style="padding-right:50px;">Is the end of the billable hour near? It seems inevitable, thanks to advances in AI. <a href="https://bsky.app/profile/wsj.com/post/3m76krsvxwv2o" target="_blank">wsj.com</a> (2025-12-05 03:06:18)</span><span style="padding-right:50px;">Tunisian opposition leader Chebbi arrested as crackdown escalates reut.rs/4au0RUn <a href="https://bsky.app/profile/reuters.com/post/3m76kpmuccn2k" target="_blank">reuters.com</a> (2025-12-05 03:05:05)</span><span style="padding-right:50px;">Several countries boycott Eurovision after Israel allowed to compete <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m76kohk3rt2l" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-05 03:04:25)</span>
+<span style="padding-right:50px;">As we leave our jobs and as we get older, there’s so much loss. But there’s also a lot to celebrate. <a href="https://bsky.app/profile/wsj.com/post/3m76m35bt3v2i" target="_blank">wsj.com</a> (2025-12-05 03:29:25)</span><span style="padding-right:50px;">Brazil's GDP slows more than expected, fueling bets on January rate cut reut.rs/49SZ8rF <a href="https://bsky.app/profile/reuters.com/post/3m76ltfaheb2y" target="_blank">reuters.com</a> (2025-12-05 03:25:05)</span><span style="padding-right:50px;">President Vladimir Putin of Russia “must have” authorized the nerve agent poisoning attack that accidentally killed a British woman in 2018, and he bears “moral responsibility” for her death, the chair of a British inquiry said on Thursday. <a href="https://bsky.app/profile/nytimes.com/post/3m76lte4wdu24" target="_blank">nytimes.com</a> (2025-12-05 03:25:04)</span><span style="padding-right:50px;">BREAKING: Bill Pulte, who led mortgage fraud probes for Trump, target of watchdog inquiry <a href="https://bsky.app/profile/axios.com/post/3m76limnxek2p" target="_blank">axios.com</a> (2025-12-05 03:19:04)</span><span style="padding-right:50px;">BREAKING: A Navy admiral tells lawmakers there was no "kill them all" order from Hegseth in the Sept. 2 attack that killed two drug boat survivors. <a href="https://bsky.app/profile/apnews.com/post/3m76lbps2s72j" target="_blank">apnews.com</a> (2025-12-05 03:15:12)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47855.04 (🔻33.12 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23462.77 (🔻64.52 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.45 (🔺1.88 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 154.96 (🔻0.21 : 2025-12-04)</span>
+<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47930.93 (🔺42.77 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23490.29 (🔻37.00 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.60 (🔺2.03 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 154.92 (🔻0.26 : 2025-12-04)</span>
   </div>
 </div>
 
@@ -32,92 +32,92 @@
 
 ## News Headlines
 
-1. トランプ政権、合法移民への就労許可期間を短縮
-2. メタ社、メタバース事業の大幅削減報道で株価上昇
-3. AIの進化で弁護士のタイムチャージ制は終焉へ？
-4. チュニジア、反体制派指導者を逮捕、取り締まり強化
-5. イスラエルのユーロビジョン参加容認で複数国がボイコット
-6. 元シグネチャー銀行幹部、ブロックチェーン銀行を設立
+1.  ロシア、2018年英国ノビチョク事件でプーチン大統領に道義的責任
+2.  トランプ前大統領の住宅ローン詐欺調査責任者、監視機関の調査対象に
+3.  米議会、未成年者への性的虐待疑惑エプスタイン島の写真と映像を公開
+4.  コンゴ民主共和国とルワンダ、米国仲介で和平合意署名も現実は異なる
+5.  法的移民への締め付け強化、トランプ政権が就労許可期間を短縮
+6.  チュニジアの野党指導者、逮捕され取り締まりがエスカレート
 
 ----
 
 @wsj.com
 
-Exclusive: In an expansion of President Trump's crackdown on legal immigration, work permits issued to certain migrants will now be valid for 18 months rather than 5 years.
+As we leave our jobs and as we get older, there’s so much loss. But there’s also a lot to celebrate.
 
-[2025-12-05 03:08:07](https://bsky.app/profile/wsj.com/post/3m76kv2pw6x22)
-
----
-
-@yahoofinance.com
-
-Meta stock climbs on report company will make major cuts to metaverse efforts
-
-[2025-12-05 03:06:41](https://bsky.app/profile/yahoofinance.com/post/3m76kshungx2x)
-
----
-
-@wsj.com
-
-Is the end of the billable hour near? It seems inevitable, thanks to advances in AI.
-
-[2025-12-05 03:06:18](https://bsky.app/profile/wsj.com/post/3m76krsvxwv2o)
+[2025-12-05 03:29:25](https://bsky.app/profile/wsj.com/post/3m76m35bt3v2i)
 
 ---
 
 @reuters.com
 
-Tunisian opposition leader Chebbi arrested as crackdown escalates reut.rs/4au0RUn
+Brazil's GDP slows more than expected, fueling bets on January rate cut reut.rs/49SZ8rF
 
-[2025-12-05 03:05:05](https://bsky.app/profile/reuters.com/post/3m76kpmuccn2k)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Several countries boycott Eurovision after Israel allowed to compete
-
-[2025-12-05 03:04:25](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m76kohk3rt2l)
+[2025-12-05 03:25:05](https://bsky.app/profile/reuters.com/post/3m76ltfaheb2y)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@nytimes.com
 
-Putin says Russia disagrees with parts of US plan to end Ukraine war
+President Vladimir Putin of Russia “must have” authorized the nerve agent poisoning attack that accidentally killed a British woman in 2018, and he bears “moral responsibility” for her death, the chair of a British inquiry said on Thursday.
 
-[2025-12-05 03:03:20](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m76kmj34ch2m)
+[2025-12-05 03:25:04](https://bsky.app/profile/nytimes.com/post/3m76lte4wdu24)
 
 ---
 
-@cnn.com
+@axios.com
 
-Maurice DuBois, who has co-anchored the “CBS Evening News” alongside John Dickerson since January, is leaving the network later this month. https://cnn.it/48hNy8i
+<strong><span style="color: red;">BREAKING:</span> Bill Pulte, who led mortgage fraud probes for Trump, target of watchdog inquiry</strong>
 
-[2025-12-05 03:01:04](https://bsky.app/profile/cnn.com/post/3m76kiglxlb2j)
+[2025-12-05 03:19:04](https://bsky.app/profile/axios.com/post/3m76limnxek2p)
+
+---
+
+@apnews.com
+
+<strong><span style="color: red;">BREAKING:</span> A Navy admiral tells lawmakers there was no "kill them all" order from Hegseth in the Sept. 2 attack that killed two drug boat survivors.</strong>
+
+[2025-12-05 03:15:12](https://bsky.app/profile/apnews.com/post/3m76lbps2s72j)
 
 ---
 
 @reuters.com
 
-Former Signature Bank executives launch blockchain-based bank reut.rs/4pKs8Gz
+Main findings from UK Novichok report that blames Russia reut.rs/44EzMKw
 
-[2025-12-05 03:00:58](https://bsky.app/profile/reuters.com/post/3m76kibei632w)
-
----
-
-@usatoday.com
-
-A Republican’s single-digit win in Tennessee already has GOP lawmakers talking about shifting their political strategy in next year's midterms.
-
-[2025-12-05 03:00:55](https://bsky.app/profile/usatoday.com/post/3m76ki5su5f2j)
+[2025-12-05 03:15:09](https://bsky.app/profile/reuters.com/post/3m76lbmva5j2y)
 
 ---
 
-@washingtonpost.com
+@en.afp.com
 
-More than 80 percent of the immigrants arrested in D.C. during the surge in federal law enforcement had no prior criminal record, federal data shows, even though that crackdown was portrayed as targeting violent crime. 
+VIDEO: Democrats in the US Congress release photos and videos showing the luxury island home where convicted sex offender Jeffrey Epstein allegedly forced underage girls into sex with powerful men. According to US media, the images were taken in 2020, a year after Epstein's death in custody.
 
-[2025-12-05 03:00:30](https://bsky.app/profile/washingtonpost.com/post/3m76khgkzm323)
+[2025-12-05 03:12:06](https://bsky.app/profile/en.afp.com/post/3m76l465vrm25)
+
+---
+
+@npr.org
+
+A long-awaited U.S.-brokered peace deal between DR Congo and Rwanda will be signed in Washington on Thursday — but the reality on the ground tells a different story. n.pr/3Kwuh9S
+
+[2025-12-05 03:11:19](https://bsky.app/profile/npr.org/post/3m76l2rpjrf2a)
+
+---
+
+@reuters.com
+
+British American Tobacco plans to offload stake in India's ITC Hotels reut.rs/48hcf4I
+
+[2025-12-05 03:10:15](https://bsky.app/profile/reuters.com/post/3m76kyu2dqn2k)
+
+---
+
+@nytimes.com
+
+From @theathletic.com: Chaos has yet to rain down on the College Football Playoff race. Will we finally get some on the last weekend of the season?
+
+[2025-12-05 03:10:06](https://bsky.app/profile/nytimes.com/post/3m76kym53de2h)
 
 ---
 
