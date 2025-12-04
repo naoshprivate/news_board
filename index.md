@@ -1,9 +1,9 @@
-# [2025-12-05 05:10 updated](2025_12_05.md)
+# [2025-12-05 05:30 updated](2025_12_05.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Fanatics wades into prediction markets as users seek fresh trading options reut.rs/3XBFCZh <a href="https://bsky.app/profile/reuters.com/post/3m76rg5lzcp2r" target="_blank">reuters.com</a> (2025-12-05 05:05:03)</span><span style="padding-right:50px;">To get a White Elephant party going, you need the right gifts—the guffaw-inducing, the ridiculous and the purely delightful. Bonus: These gifts are all under $25. <a href="https://bsky.app/profile/nytimes.com/post/3m76rcjw56k2m" target="_blank">nytimes.com</a> (2025-12-05 05:03:02)</span><span style="padding-right:50px;">A bartenders’ guide to the best cocktails in Washington on.ft.com/49TOcdn <a href="https://bsky.app/profile/financialtimes.com/post/3m76rau6uj32l" target="_blank">financialtimes.com</a> (2025-12-05 05:02:06)</span><span style="padding-right:50px;">India’s telecoms ministry rolls back its order for smartphone manufacturers to preinstall a government-run cybersecurity app on new devices. <a href="https://bsky.app/profile/nbcnews.com/post/3m76r7xbtar2r" target="_blank">nbcnews.com</a> (2025-12-05 05:01:35)</span><span style="padding-right:50px;">Farage brands BBC ‘despicable’ after tense clash over antisemitism allegations on.ft.com/48mMEY4 <a href="https://bsky.app/profile/financialtimes.com/post/3m76r7vseuo2q" target="_blank">financialtimes.com</a> (2025-12-05 05:01:34)</span>
+<span style="padding-right:50px;">Read the charging document here: <a href="https://bsky.app/profile/washingtonpost.com/post/3m76sostefk23" target="_blank">washingtonpost.com</a> (2025-12-05 05:27:48)</span><span style="padding-right:50px;">Alert and story on Nevada earthquake withdrawn after USGS reports system error reut.rs/4oDAU8x <a href="https://bsky.app/profile/reuters.com/post/3m76sjvyrfb26" target="_blank">reuters.com</a> (2025-12-05 05:25:03)</span><span style="padding-right:50px;">From @theathleticfc.bsky.social: “Soccer” or “football”?  The origins of the various names for this sport, and the reason most of the world calls it “football,” are actually less clear than many fans assume. nyti.ms/4pTcBVe <a href="https://bsky.app/profile/nytimes.com/post/3m76seiqvd32y" target="_blank">nytimes.com</a> (2025-12-05 05:22:02)</span><span style="padding-right:50px;">A dozen prior leaders of the FDA, appointed by Republicans and Democrats alike, issued a scathing denunciation of new beliefs casting doubt on vaccine safety. <a href="https://bsky.app/profile/nbcnews.com/post/3m76saymqt62h" target="_blank">nbcnews.com</a> (2025-12-05 05:20:04)</span><span style="padding-right:50px;">海外の脱炭素取り組み後押し 日本の金融機関 融資など進める https://news.web.nhk/newsweb/na/na-k10014994311000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m76s5mfbzg2r" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-05 05:18:08)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47767.43 (🔻120.73 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23457.21 (🔻70.08 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 182.63 (🔺1.06 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 155.00 (🔻0.18 : 2025-12-04)</span>
+<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47759.25 (🔻128.91 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23448.92 (🔻78.38 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 182.37 (🔺0.80 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 155.03 (🔻0.15 : 2025-12-04)</span>
   </div>
 </div>
 
@@ -32,92 +32,99 @@
 
 ## News Headlines
 
-1.  Fanatics、予測市場に参入
-2.  インド、スマホへの政府サイバーセキュリティアプリのプリインストール義務を撤回
-3.  Trustpilot株、Grizzly Researchの空売りで急落
-4.  ケニア大統領、サウジアラビアでの女性労働者虐待問題で圧力
-5.  ナイジェリアでカトリック司祭が誘拐
-6.  Meta、メタバース予算を最大30%削減へ
+1. ネバダ地震速報、システムエラーで撤回
+2. ワクチン安全性に疑義、FDA元幹部らが批判
+3. トランプ大統領、ホワイトハウス舞踏室設計者交代
+4. 日本の金融機関、海外の脱炭素化支援を推進
+5. 知人宅を不正登記か、男性逮捕
+6. ペプシコ、アクティビスト投資家と和解へ
 
 ----
 
+@washingtonpost.com
+
+Read the charging document here:
+
+[2025-12-05 05:27:48](https://bsky.app/profile/washingtonpost.com/post/3m76sostefk23)
+
+---
+
 @reuters.com
 
-Fanatics wades into prediction markets as users seek fresh trading options reut.rs/3XBFCZh
+Alert and story on Nevada earthquake withdrawn after USGS reports system error reut.rs/4oDAU8x
 
-[2025-12-05 05:05:03](https://bsky.app/profile/reuters.com/post/3m76rg5lzcp2r)
+[2025-12-05 05:25:03](https://bsky.app/profile/reuters.com/post/3m76sjvyrfb26)
 
 ---
 
 @nytimes.com
 
-To get a White Elephant party going, you need the right gifts—the guffaw-inducing, the ridiculous and the purely delightful. Bonus: These gifts are all under $25.
+From @theathleticfc.bsky.social: “Soccer” or “football”?
 
-[2025-12-05 05:03:02](https://bsky.app/profile/nytimes.com/post/3m76rcjw56k2m)
+The origins of the various names for this sport, and the reason most of the world calls it “football,” are actually less clear than many fans assume. nyti.ms/4pTcBVe
 
----
-
-@financialtimes.com
-
-A bartenders’ guide to the best cocktails in Washington on.ft.com/49TOcdn
-
-[2025-12-05 05:02:06](https://bsky.app/profile/financialtimes.com/post/3m76rau6uj32l)
+[2025-12-05 05:22:02](https://bsky.app/profile/nytimes.com/post/3m76seiqvd32y)
 
 ---
 
 @nbcnews.com
 
-India’s telecoms ministry rolls back its order for smartphone manufacturers to preinstall a government-run cybersecurity app on new devices.
+A dozen prior leaders of the FDA, appointed by Republicans and Democrats alike, issued a scathing denunciation of new beliefs casting doubt on vaccine safety.
 
-[2025-12-05 05:01:35](https://bsky.app/profile/nbcnews.com/post/3m76r7xbtar2r)
-
----
-
-@financialtimes.com
-
-Farage brands BBC ‘despicable’ after tense clash over antisemitism allegations on.ft.com/48mMEY4
-
-[2025-12-05 05:01:34](https://bsky.app/profile/financialtimes.com/post/3m76r7vseuo2q)
+[2025-12-05 05:20:04](https://bsky.app/profile/nbcnews.com/post/3m76saymqt62h)
 
 ---
 
-@cnn.com
+@nhknewsunofficial.bsky.social
 
-As billions of fans around the world tune in to watch the World Cup draw, they’ll also have the opportunity to watch FIFA President Gianni Infantino present a new, somewhat puzzling, award. https://cnn.it/4pMU7p0
+海外の脱炭素取り組み後押し 日本の金融機関 融資など進める
+https://news.web.nhk/newsweb/na/na-k10014994311000
 
-[2025-12-05 05:01:05](https://bsky.app/profile/cnn.com/post/3m76r6zshnb2w)
+[2025-12-05 05:18:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m76s5mfbzg2r)
 
 ---
 
-@reuters.com
+@nhknewsunofficial.bsky.social
 
-Review platform Trustpilot's shares slump after Grizzly Research shorts stock reut.rs/4rEyDfS
+知人の自宅を5000万円で売却か うその登記に変更した男性逮捕
+https://news.web.nhk/newsweb/na/na-k10014994431000
 
-[2025-12-05 05:00:53](https://bsky.app/profile/reuters.com/post/3m76r6pdqkv26)
+[2025-12-05 05:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m76s5glx5a24)
 
 ---
 
 @washingtonpost.com
 
-Russian President Vladimir Putin said parts of the U.S. peace plan were unacceptable and Russia would take Ukrainian land through military or other means.
+Breaking news: President Trump replaced the architect he handpicked to design his $300 million White House ballroom.
 
-[2025-12-05 05:00:22](https://bsky.app/profile/washingtonpost.com/post/3m76r5qsuy32r)
+It is unclear whether he was fired or resigned.
 
----
-
-@aljazeera.com
-
-Minnesota legislator Omar Fateh says Trump's 'disgraceful' comments are meant as 'political theatre' to rally his base.
-
-[2025-12-05 05:00:18](https://bsky.app/profile/aljazeera.com/post/3m76r5ntt7s2c)
+[2025-12-05 05:17:52](https://bsky.app/profile/washingtonpost.com/post/3m76s52bsmo2e)
 
 ---
 
-@usatoday.com
+@reuters.com
 
-Pennsylvania Gov. Josh Shapiro told Atlantic magazine that former Vice President Kamala Harris told 'blatant lies' about him in campaign memoir.
+US says new fuel economy rule could lead to return of station wagons reut.rs/4iFmi7g
 
-[2025-12-05 05:00:16](https://bsky.app/profile/usatoday.com/post/3m76r5lj5fr2u)
+[2025-12-05 05:15:13](https://bsky.app/profile/reuters.com/post/3m76rycrkda2e)
+
+---
+
+@wsj.com
+
+Exclusive: Activist investor Elliott is close to striking a settlement agreement with PepsiCo, after taking a big stake in the company in September.
+
+[2025-12-05 05:12:36](https://bsky.app/profile/wsj.com/post/3m76rtnrcyu2x)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+国内の航空路線維持へ 会社間で便数など調整可能 方向性示す
+https://news.web.nhk/newsweb/na/na-k10014994321000
+
+[2025-12-05 05:12:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m76rspt7gy2p)
 
 ---
 
