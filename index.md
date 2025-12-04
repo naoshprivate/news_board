@@ -1,9 +1,9 @@
-# [2025-12-05 01:30 updated](2025_12_05.md)
+# [2025-12-05 01:50 updated](2025_12_05.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Even allies of Ursula von der Leyen said she was testing the limits of EU power by proposing to use emergency measures to ram through up to €210bn in loans to Ukraine. Critics said she was breaking the bloc’s laws. on.ft.com/3KGZiIj <a href="https://bsky.app/profile/financialtimes.com/post/3m76fe4ikkm23" target="_blank">financialtimes.com</a> (2025-12-05 01:29:10)</span><span style="padding-right:50px;">Brendan Nelson brings decades of experience to his new role as HSBC chairman, including as a top auditor to banks that later ran into trouble during the financial crisis. <a href="https://bsky.app/profile/wsj.com/post/3m76f67mnnm2l" target="_blank">wsj.com</a> (2025-12-05 01:25:52)</span><span style="padding-right:50px;">Meta's WhatsApp AI policy in EU antitrust crosshairs reut.rs/4pK4p9t <a href="https://bsky.app/profile/reuters.com/post/3m76f4rssrf2r" target="_blank">reuters.com</a> (2025-12-05 01:25:04)</span><span style="padding-right:50px;">The New York Times is interested in hearing how President Trump’s sweeping changes — for example, on immigration, education, health and the economy — are affecting communities all over the U.S.  Are these changes making your life in America better or worse? Tell us in the form below. <a href="https://bsky.app/profile/nytimes.com/post/3m76f4r5urr2e" target="_blank">nytimes.com</a> (2025-12-05 01:25:03)</span><span style="padding-right:50px;">New York Times sues Pentagon over new press restrictions on.ft.com/3XzPZNq <a href="https://bsky.app/profile/financialtimes.com/post/3m76ewf5bhl2r" target="_blank">financialtimes.com</a> (2025-12-05 01:21:30)</span>
+<span style="padding-right:50px;">Pantone has named a shade of white called Cloud Dancer as the defining color of the next year. Have they gotten it right? Reporters for our Styles desk sat down to debate. trib.al/Vf9rhmC <a href="https://bsky.app/profile/nytimes.com/post/3m76ghac4w22i" target="_blank">nytimes.com</a> (2025-12-05 01:48:49)</span><span style="padding-right:50px;">Now I have something better than a chauffeur. My self-driving car never tires, panics or wavers. <a href="https://bsky.app/profile/wsj.com/post/3m76gbqlkbl2p" target="_blank">wsj.com</a> (2025-12-05 01:45:44)</span><span style="padding-right:50px;">Eau de AI: Amazon gives techies a whiff of software-driven perfume reut.rs/4iztgum <a href="https://bsky.app/profile/reuters.com/post/3m76ganznpy27" target="_blank">reuters.com</a> (2025-12-05 01:45:08)</span><span style="padding-right:50px;">Wisdom of crowds: Josh Brown says the market is telling you this stock is special <a href="https://bsky.app/profile/cnbc.com/post/3m76g7hzzmk2s" target="_blank">cnbc.com</a> (2025-12-05 01:44:28)</span><span style="padding-right:50px;">Meta to slash spending on metaverse as it shifts focus to AI on.ft.com/3Mj7yPh <a href="https://bsky.app/profile/financialtimes.com/post/3m76fzycnli2c" target="_blank">financialtimes.com</a> (2025-12-05 01:41:24)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47855.94 (🔻32.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23447.07 (🔻80.23 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 182.58 (🔺1.01 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 154.76 (🔻0.42 : 2025-12-04)</span>
+<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47853.10 (🔻35.06 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23483.38 (🔻43.91 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.62 (🔺2.05 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 154.90 (🔻0.27 : 2025-12-04)</span>
   </div>
 </div>
 
@@ -32,102 +32,93 @@
 
 ## News Headlines
 
-1.  フォン・デア・ライエン氏のウクライナ支援策、EU権限の限界を試すと批判
-2.  メタのWhatsApp AI、EU反トラスト当局の監視対象に
-3.  ニューヨーク・タイムズ、ペンタゴンの新たな報道規制を提訴
-4.  トランプ氏、USMCA貿易協定からの離脱を示唆
-5.  カトリック教会の女性助祭、バチカン委員会が「ノー」
-6.  トランプ氏、コンゴ・ルワンダ両首脳を招き和平推進
+1.  パントン、来年の色を「クラウドダンサー」に決定
+2.  AI香水登場：アマゾンがソフトウェア駆動の香りを発表
+3.  メタ、AIに注力するためメタバースへの投資を削減
+4.  ブラックロック、AIが2026年も市場を支配すると予測
+5.  EU、フォルクスワーゲン製中国製SUVへの関税を見直しへ
+6.  NYタイムズ、国防総省を報道規制で提訴
 
 ----
 
-@financialtimes.com
+@nytimes.com
 
-Even allies of Ursula von der Leyen said she was testing the limits of EU power by proposing to use emergency measures to ram through up to €210bn in loans to Ukraine. Critics said she was breaking the bloc’s laws. on.ft.com/3KGZiIj
+Pantone has named a shade of white called Cloud Dancer as the defining color of the next year. Have they gotten it right? Reporters for our Styles desk sat down to debate. trib.al/Vf9rhmC
 
-[2025-12-05 01:29:10](https://bsky.app/profile/financialtimes.com/post/3m76fe4ikkm23)
+[2025-12-05 01:48:49](https://bsky.app/profile/nytimes.com/post/3m76ghac4w22i)
 
 ---
 
 @wsj.com
 
-Brendan Nelson brings decades of experience to his new role as HSBC chairman, including as a top auditor to banks that later ran into trouble during the financial crisis.
+Now I have something better than a chauffeur. My self-driving car never tires, panics or wavers.
 
-[2025-12-05 01:25:52](https://bsky.app/profile/wsj.com/post/3m76f67mnnm2l)
-
----
-
-@reuters.com
-
-Meta's WhatsApp AI policy in EU antitrust crosshairs reut.rs/4pK4p9t
-
-[2025-12-05 01:25:04](https://bsky.app/profile/reuters.com/post/3m76f4rssrf2r)
-
----
-
-@nytimes.com
-
-The New York Times is interested in hearing how President Trump’s sweeping changes — for example, on immigration, education, health and the economy — are affecting communities all over the U.S.
-
-Are these changes making your life in America better or worse? Tell us in the form below.
-
-[2025-12-05 01:25:03](https://bsky.app/profile/nytimes.com/post/3m76f4r5urr2e)
-
----
-
-@financialtimes.com
-
-New York Times sues Pentagon over new press restrictions on.ft.com/3XzPZNq
-
-[2025-12-05 01:21:30](https://bsky.app/profile/financialtimes.com/post/3m76ewf5bhl2r)
-
----
-
-@en.afp.com
-
-🎥 Kate Winslet makes directorial debut with film written by her son
-
-Kate Winslet attends the global premiere for 'Goodbye June', her directorial debut film written by her son, Joe Anders.
-
-[2025-12-05 01:20:46](https://bsky.app/profile/en.afp.com/post/3m76ev36xxu2d)
-
----
-
-@nbcnews.com
-
-A divided Wisconsin Supreme Court agrees to take a case brought by the ACLU on behalf of an immigrant rights group arguing that it is illegal for local jails to hold immigrant detainees at the request of federal authorities.
-
-[2025-12-05 01:20:16](https://bsky.app/profile/nbcnews.com/post/3m76eu6s4su2i)
+[2025-12-05 01:45:44](https://bsky.app/profile/wsj.com/post/3m76gbqlkbl2p)
 
 ---
 
 @reuters.com
 
-Trump could decide next year to withdraw from USMCA trade deal, USTR Greer tells Politico reut.rs/4pjAPYR
+Eau de AI: Amazon gives techies a whiff of software-driven perfume reut.rs/4iztgum
 
-[2025-12-05 01:15:10](https://bsky.app/profile/reuters.com/post/3m76el32jkp2k)
-
----
-
-@jonathanjlevin.bsky.social
-
-Are we in a stock market bubble? 
-
-There’s a raging debate in markets about the sustainability of today’s high stock valuations, and it starts with this chart👇
-
-Shiller P/E has a strong track record of flagging bubbles, and it's flashing red.
-
-(link below)
-
-[2025-12-05 01:14:54](https://bsky.app/profile/jonathanjlevin.bsky.social/post/3m76eklrws22p)
+[2025-12-05 01:45:08](https://bsky.app/profile/reuters.com/post/3m76ganznpy27)
 
 ---
 
 @cnbc.com
 
-Electric aircraft maker Beta Technologies posts strong revenue growth in first report since going public
+Wisdom of crowds: Josh Brown says the market is telling you this stock is special
 
-[2025-12-05 01:14:10](https://bsky.app/profile/cnbc.com/post/3m76ejbwbja2i)
+[2025-12-05 01:44:28](https://bsky.app/profile/cnbc.com/post/3m76g7hzzmk2s)
+
+---
+
+@financialtimes.com
+
+Meta to slash spending on metaverse as it shifts focus to AI on.ft.com/3Mj7yPh
+
+[2025-12-05 01:41:24](https://bsky.app/profile/financialtimes.com/post/3m76fzycnli2c)
+
+---
+
+@nytimes.com
+
+We published more than 1,000 recipes this year. These 25 were your favorites, the ones you took the time to rate, comment on, share with friends and come back to again and again. nyti.ms/3KwCQl1
+
+[2025-12-05 01:41:05](https://bsky.app/profile/nytimes.com/post/3m76fzg3loq26)
+
+---
+
+@reuters.com
+
+BlackRock expects AI to continue dominating markets in 2026 despite risks reut.rs/4rDe9En
+
+[2025-12-05 01:40:20](https://bsky.app/profile/reuters.com/post/3m76fy3app72y)
+
+---
+
+@en.afp.com
+
+🇪🇺 Microsoft is facing a complaint in the European Union filed by a non-profit organisation alleging it illegally stored data on Palestinians used for Israeli military surveillance. 
+➡️ u.afp.com/S7k5
+
+[2025-12-05 01:40:02](https://bsky.app/profile/en.afp.com/post/3m76fxjsvmy2a)
+
+---
+
+@nytimes.com
+
+Our editors’ long-standing drugstore picks deliver gorgeous results for the baddie on a budget. We're talking luxe makeup, shockingly good hair care, and dermatologist-recommended skin salves.
+
+[2025-12-05 01:37:03](https://bsky.app/profile/nytimes.com/post/3m76fs6vn7c2h)
+
+---
+
+@nytimes.com
+
+A California man found the underside of his house in disarray. It turned out that a 550-pound black bear had moved into the crawl space. trib.al/y7jyZmk
+
+[2025-12-05 01:36:45](https://bsky.app/profile/nytimes.com/post/3m76froehks2b)
 
 ---
 
