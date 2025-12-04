@@ -1,9 +1,9 @@
-# [2025-12-05 01:50 updated](2025_12_05.md)
+# [2025-12-05 02:10 updated](2025_12_05.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Pantone has named a shade of white called Cloud Dancer as the defining color of the next year. Have they gotten it right? Reporters for our Styles desk sat down to debate. trib.al/Vf9rhmC <a href="https://bsky.app/profile/nytimes.com/post/3m76ghac4w22i" target="_blank">nytimes.com</a> (2025-12-05 01:48:49)</span><span style="padding-right:50px;">Now I have something better than a chauffeur. My self-driving car never tires, panics or wavers. <a href="https://bsky.app/profile/wsj.com/post/3m76gbqlkbl2p" target="_blank">wsj.com</a> (2025-12-05 01:45:44)</span><span style="padding-right:50px;">Eau de AI: Amazon gives techies a whiff of software-driven perfume reut.rs/4iztgum <a href="https://bsky.app/profile/reuters.com/post/3m76ganznpy27" target="_blank">reuters.com</a> (2025-12-05 01:45:08)</span><span style="padding-right:50px;">Wisdom of crowds: Josh Brown says the market is telling you this stock is special <a href="https://bsky.app/profile/cnbc.com/post/3m76g7hzzmk2s" target="_blank">cnbc.com</a> (2025-12-05 01:44:28)</span><span style="padding-right:50px;">Meta to slash spending on metaverse as it shifts focus to AI on.ft.com/3Mj7yPh <a href="https://bsky.app/profile/financialtimes.com/post/3m76fzycnli2c" target="_blank">financialtimes.com</a> (2025-12-05 01:41:24)</span>
+<span style="padding-right:50px;">Subaru, BMW top Consumer Reports' top auto brands; Toyota named most reliable, with Tesla most improved <a href="https://bsky.app/profile/yahoofinance.com/post/3m76hg3iamz2y" target="_blank">yahoofinance.com</a> (2025-12-05 02:06:04)</span><span style="padding-right:50px;">The European Union expects to launch the formal bidding process for artificial-intelligence gigafactories early next year as the bloc seeks to catch up with the U.S. in the AI race. <a href="https://bsky.app/profile/wsj.com/post/3m76hevw4uv2r" target="_blank">wsj.com</a> (2025-12-05 02:05:24)</span><span style="padding-right:50px;">US weekly jobless claims tumble to lowest level in more than three years reut.rs/3XA7AVm <a href="https://bsky.app/profile/reuters.com/post/3m76heezk5o22" target="_blank">reuters.com</a> (2025-12-05 02:05:07)</span><span style="padding-right:50px;">There are kids who grow up to be successful, and there are kids who grow up to be "exceptional." Psychologist Kumar Mehta explains the difference, and how parents can raise exceptional kids. <a href="https://bsky.app/profile/cnbc.com/post/3m76hdpnzfy2e" target="_blank">cnbc.com</a> (2025-12-05 02:04:44)</span><span style="padding-right:50px;">'Like first aid for manuscripts': Recovery work begins at Gaza's war-damaged heritage sites <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m76h5so2p22q" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-05 02:01:25)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47853.10 (🔻35.06 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23483.38 (🔻43.91 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.62 (🔺2.05 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 154.90 (🔻0.27 : 2025-12-04)</span>
+<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47793.42 (🔻94.74 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23483.57 (🔻43.72 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.61 (🔺2.04 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 154.94 (🔻0.24 : 2025-12-04)</span>
   </div>
 </div>
 
@@ -32,93 +32,93 @@
 
 ## News Headlines
 
-1.  パントン、来年の色を「クラウドダンサー」に決定
-2.  AI香水登場：アマゾンがソフトウェア駆動の香りを発表
-3.  メタ、AIに注力するためメタバースへの投資を削減
-4.  ブラックロック、AIが2026年も市場を支配すると予測
-5.  EU、フォルクスワーゲン製中国製SUVへの関税を見直しへ
-6.  NYタイムズ、国防総省を報道規制で提訴
+1.  消費者レポート：スバル、BMWがトップブランド、トヨタは信頼性No.1、テスラが最も改善
+2.  EU、AIギガファクトリー入札を来年初旬に開始へ、米国追撃を目指す
+3.  米失業保険申請件数、3年超ぶりの低水準に急落
+4.  ガザの戦災遺産修復作業が開始
+5.  マーク・キューバン氏、ジェネリック医薬品製造促進のためトランプ氏に薬価引き下げ支持を求める
+6.  バージニア州でアライグマが酒屋を襲撃、トイレで泥酔して倒れる
 
 ----
 
-@nytimes.com
+@yahoofinance.com
 
-Pantone has named a shade of white called Cloud Dancer as the defining color of the next year. Have they gotten it right? Reporters for our Styles desk sat down to debate. trib.al/Vf9rhmC
+Subaru, BMW top Consumer Reports' top auto brands; Toyota named most reliable, with Tesla most improved
 
-[2025-12-05 01:48:49](https://bsky.app/profile/nytimes.com/post/3m76ghac4w22i)
+[2025-12-05 02:06:04](https://bsky.app/profile/yahoofinance.com/post/3m76hg3iamz2y)
 
 ---
 
 @wsj.com
 
-Now I have something better than a chauffeur. My self-driving car never tires, panics or wavers.
+The European Union expects to launch the formal bidding process for artificial-intelligence gigafactories early next year as the bloc seeks to catch up with the U.S. in the AI race.
 
-[2025-12-05 01:45:44](https://bsky.app/profile/wsj.com/post/3m76gbqlkbl2p)
+[2025-12-05 02:05:24](https://bsky.app/profile/wsj.com/post/3m76hevw4uv2r)
 
 ---
 
 @reuters.com
 
-Eau de AI: Amazon gives techies a whiff of software-driven perfume reut.rs/4iztgum
+US weekly jobless claims tumble to lowest level in more than three years reut.rs/3XA7AVm
 
-[2025-12-05 01:45:08](https://bsky.app/profile/reuters.com/post/3m76ganznpy27)
+[2025-12-05 02:05:07](https://bsky.app/profile/reuters.com/post/3m76heezk5o22)
 
 ---
 
 @cnbc.com
 
-Wisdom of crowds: Josh Brown says the market is telling you this stock is special
+There are kids who grow up to be successful, and there are kids who grow up to be "exceptional." Psychologist Kumar Mehta explains the difference, and how parents can raise exceptional kids.
 
-[2025-12-05 01:44:28](https://bsky.app/profile/cnbc.com/post/3m76g7hzzmk2s)
-
----
-
-@financialtimes.com
-
-Meta to slash spending on metaverse as it shifts focus to AI on.ft.com/3Mj7yPh
-
-[2025-12-05 01:41:24](https://bsky.app/profile/financialtimes.com/post/3m76fzycnli2c)
+[2025-12-05 02:04:44](https://bsky.app/profile/cnbc.com/post/3m76hdpnzfy2e)
 
 ---
 
-@nytimes.com
+@bbcnews-world-rss.bsky.social
 
-We published more than 1,000 recipes this year. These 25 were your favorites, the ones you took the time to rate, comment on, share with friends and come back to again and again. nyti.ms/3KwCQl1
+'Like first aid for manuscripts': Recovery work begins at Gaza's war-damaged heritage sites
 
-[2025-12-05 01:41:05](https://bsky.app/profile/nytimes.com/post/3m76fzg3loq26)
+[2025-12-05 02:01:25](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m76h5so2p22q)
 
 ---
 
 @reuters.com
 
-BlackRock expects AI to continue dominating markets in 2026 despite risks reut.rs/4rDe9En
+Mark Cuban seeks Trump’s backing for drug fee relief to spur generics manufacturing reut.rs/49Xst4i
 
-[2025-12-05 01:40:20](https://bsky.app/profile/reuters.com/post/3m76fy3app72y)
-
----
-
-@en.afp.com
-
-🇪🇺 Microsoft is facing a complaint in the European Union filed by a non-profit organisation alleging it illegally stored data on Palestinians used for Israeli military surveillance. 
-➡️ u.afp.com/S7k5
-
-[2025-12-05 01:40:02](https://bsky.app/profile/en.afp.com/post/3m76fxjsvmy2a)
+[2025-12-05 02:01:21](https://bsky.app/profile/reuters.com/post/3m76h5nqfhr2a)
 
 ---
 
-@nytimes.com
+@usatoday.com
 
-Our editors’ long-standing drugstore picks deliver gorgeous results for the baddie on a budget. We're talking luxe makeup, shockingly good hair care, and dermatologist-recommended skin salves.
+An investigation into 158 youth motocross deaths shows inconsistent safety measures cause preventable fatalities nationwide.
 
-[2025-12-05 01:37:03](https://bsky.app/profile/nytimes.com/post/3m76fs6vn7c2h)
+[2025-12-05 02:01:00](https://bsky.app/profile/usatoday.com/post/3m76h4ztpfy2d)
 
 ---
 
-@nytimes.com
+@cnn.com
 
-A California man found the underside of his house in disarray. It turned out that a 550-pound black bear had moved into the crawl space. trib.al/y7jyZmk
+Young adults say, 57% to 13%, that things in the country are generally on the wrong track, rather than headed in the right direction. Just 32% describe the US as a healthy democracy or one that's "somewhat functioning, according to a Harvard Institute of Politics survey.
+https://cnn.it/4ozYX8f
 
-[2025-12-05 01:36:45](https://bsky.app/profile/nytimes.com/post/3m76froehks2b)
+[2025-12-05 02:00:56](https://bsky.app/profile/cnn.com/post/3m76h4vqtbl2b)
+
+---
+
+@aljazeera.com
+
+US President Donald Trump will meet the leaders of Rwanda and the Democratic Republic of the Congo in Washington.
+
+[2025-12-05 02:00:56](https://bsky.app/profile/aljazeera.com/post/3m76h4vilh627)
+
+---
+
+@washingtonpost.com
+
+The Trump administration is coming under increased scrutiny over senior officials’ shifting explanations for the actions surrounding two September strikes by U.S. forces on a boat that was allegedly smuggling drugs in the Caribbean Sea. 
+
+[2025-12-05 02:00:54](https://bsky.app/profile/washingtonpost.com/post/3m76h4tuvbl2r)
 
 ---
 
