@@ -1,9 +1,9 @@
-# [2025-12-04 21:10 updated](2025_12_04.md)
+# [2025-12-04 21:30 updated](2025_12_04.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Exclusive: Billionaire investor Josh Harris’s firm, 26North Partners, struck a deal to take a controlling stake in Middleby’s kitchen-products division, executives of the companies told WSJ. <a href="https://bsky.app/profile/wsj.com/post/3m75wnooc6l2p" target="_blank">wsj.com</a> (2025-12-04 21:06:05)</span><span style="padding-right:50px;">A 'K-shaped' economy has investors on edge. BofA says it may hold up. <a href="https://bsky.app/profile/yahoofinance.com/post/3m75wnl7q7n2m" target="_blank">yahoofinance.com</a> (2025-12-04 21:06:02)</span><span style="padding-right:50px;">Britain fines porn website $1.3 mln over age checks failure reut.rs/4iCnbNP <a href="https://bsky.app/profile/reuters.com/post/3m75wm4hkwf2r" target="_blank">reuters.com</a> (2025-12-04 21:05:12)</span><span style="padding-right:50px;">Good morning, New York. While you were sleeping, this opinion piece was the most-read story on.ft.com/4pIhHU0 <a href="https://bsky.app/profile/financialtimes.com/post/3m75wkeutpo24" target="_blank">financialtimes.com</a> (2025-12-04 21:04:14)</span><span style="padding-right:50px;">For the second time, breaks in the half-century-old pipe providing fresh water to Grand Canyon South Rim hotels have forced a complete accommodation shutdown. <a href="https://bsky.app/profile/cbsnews.com/post/3m75wiqw2ol2y" target="_blank">cbsnews.com</a> (2025-12-04 21:03:20)</span>
+<span style="padding-right:50px;">だから、挑む ～ ヤクルト 村上宗隆 https://news.web.nhk/newsweb/na/na-k10014993281000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75xtfwgsn2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-04 21:27:03)</span><span style="padding-right:50px;">South Africa will take a 'break' from G20 under Trump, presidency says reut.rs/4rAlR1R <a href="https://bsky.app/profile/reuters.com/post/3m75xpmni7i2d" target="_blank">reuters.com</a> (2025-12-04 21:25:04)</span><span style="padding-right:50px;">In @nytopinion.nytimes.com  “Trump has weaponized the pardon as a tool of executive lawbreaking and misconduct,” our columnist Jamelle Bouie writes. <a href="https://bsky.app/profile/nytimes.com/post/3m75xpl4gqn24" target="_blank">nytimes.com</a> (2025-12-04 21:25:02)</span><span style="padding-right:50px;">🇯🇵 KFC prepares a finger-licking Christmas in Japan  Christmas kicks off in Japan as KFC opens its Tokyo Christmas pop-up restaurant. The fast-food chain offers customers dishes inspired by Japan's "Christmas chicken" tradition, dating back to 1974. <a href="https://bsky.app/profile/en.afp.com/post/3m75xgocb3f2e" target="_blank">en.afp.com</a> (2025-12-04 21:20:04)</span><span style="padding-right:50px;">Grab your coffee and pull out your knitted sweaters; creator of the “Gilmore Girls” Amy Sherman-Palladino and Lorelai Gilmore, aka Lauren Graham, are working on a new book inspired by the beloved series.  <a href="https://bsky.app/profile/nbcnews.com/post/3m75xgon7oy2c" target="_blank">nbcnews.com</a> (2025-12-04 21:20:04)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47882.90 (🔺511.28 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23454.09 (🔺138.51 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 179.59 (🔻1.49 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 154.54 (🔻0.63 : 2025-12-04)</span>
+<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47882.90 (🔺511.28 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23454.09 (🔺138.51 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 179.59 (🔻1.49 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 154.60 (🔻0.58 : 2025-12-04)</span>
   </div>
 </div>
 
@@ -32,101 +32,111 @@
 
 ## News Headlines
 
-1.  投資会社、ミドルビーの厨房機器部門の支配権を取得
-2.  英国、ポルノサイトに年齢確認不備で罰金
-3.  グランドキャニオンのホテル、水不足で閉鎖
-4.  出産費用を全国一律で無償化へ、厚労省が制度案
-5.  トランプ大統領、元アリーナ運営会社CEOを恩赦
-6.  細断チーズ26万件以上をリコール、金属片混入の可能性
+1. ヤクルト村上宗隆、新たな挑戦へ
+2. トランプ政権下、南アフリカがG20参加を一時中断
+3. KFC、日本でクリスマス限定ポップアップレストラン開店
+4. OTC類似薬、自民・維新が保険給付継続で負担増を調整
+5. 楽天、初のPB商品「水」と「マスク」を販売開始
+6. 分娩費用、全国一律で自己負担ゼロへ 厚労省が制度案
 
 ----
 
-@wsj.com
+@nhknewsunofficial.bsky.social
 
-Exclusive: Billionaire investor Josh Harris’s firm, 26North Partners, struck a deal to take a controlling stake in Middleby’s kitchen-products division, executives of the companies told WSJ.
+だから、挑む ～ ヤクルト 村上宗隆
+https://news.web.nhk/newsweb/na/na-k10014993281000
 
-[2025-12-04 21:06:05](https://bsky.app/profile/wsj.com/post/3m75wnooc6l2p)
-
----
-
-@yahoofinance.com
-
-A 'K-shaped' economy has investors on edge. BofA says it may hold up.
-
-[2025-12-04 21:06:02](https://bsky.app/profile/yahoofinance.com/post/3m75wnl7q7n2m)
+[2025-12-04 21:27:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75xtfwgsn2k)
 
 ---
 
 @reuters.com
 
-Britain fines porn website $1.3 mln over age checks failure reut.rs/4iCnbNP
+South Africa will take a 'break' from G20 under Trump, presidency says reut.rs/4rAlR1R
 
-[2025-12-04 21:05:12](https://bsky.app/profile/reuters.com/post/3m75wm4hkwf2r)
-
----
-
-@financialtimes.com
-
-Good morning, New York. While you were sleeping, this opinion piece was the most-read story on.ft.com/4pIhHU0
-
-[2025-12-04 21:04:14](https://bsky.app/profile/financialtimes.com/post/3m75wkeutpo24)
+[2025-12-04 21:25:04](https://bsky.app/profile/reuters.com/post/3m75xpmni7i2d)
 
 ---
 
-@cbsnews.com
+@nytimes.com
 
-For the second time, breaks in the half-century-old pipe providing fresh water to Grand Canyon South Rim hotels have forced a complete accommodation shutdown.
+In @nytopinion.nytimes.com
 
-[2025-12-04 21:03:20](https://bsky.app/profile/cbsnews.com/post/3m75wiqw2ol2y)
+“Trump has weaponized the pardon as a tool of executive lawbreaking and misconduct,” our columnist Jamelle Bouie writes.
 
----
-
-@reuters.com
-
-AJ Bell warns of moderating revenue margins, added costs from ISA reforms reut.rs/3KzF5nH
-
-[2025-12-04 21:00:54](https://bsky.app/profile/reuters.com/post/3m75weg34jp2o)
-
----
-
-@nikkei.com
-
-出産時の分娩費用を全国一律に、自己負担ゼロへ
-www.nikkei.com/article/DGXZQO...
-
-厚労省の制度案では、公的保険で賄い無償にする仕組みを検討します。
-
-「お祝い膳」やエステ、写真撮影は対象外に。
-
-地域間の不公平の解消だけでなく、不透明だった費用が分かりやすくなるとの声もあります。
-
-[2025-12-04 21:00:40](https://bsky.app/profile/nikkei.com/post/3m75wdypk4i2z)
-
----
-
-@usatoday.com
-
-What were the most trending people, movies and games of 2025? Google revealed its Year in Search.
-
-[2025-12-04 21:00:27](https://bsky.app/profile/usatoday.com/post/3m75wdm4rlw2u)
+[2025-12-04 21:25:02](https://bsky.app/profile/nytimes.com/post/3m75xpl4gqn24)
 
 ---
 
 @en.afp.com
 
-🏅 The flame for the 2026 Milan-Cortina Winter Olympics was handed to the host city organisers in an Athens ceremony for a two-month torch relay in Italy before the Games open on February 6. 
-#AFPSports 
-➡️ u.afp.com/ShvU
+🇯🇵 KFC prepares a finger-licking Christmas in Japan
 
-[2025-12-04 21:00:10](https://bsky.app/profile/en.afp.com/post/3m75wd4ejcv2d)
+Christmas kicks off in Japan as KFC opens its Tokyo Christmas pop-up restaurant. The fast-food chain offers customers dishes inspired by Japan's "Christmas chicken" tradition, dating back to 1974.
+
+[2025-12-04 21:20:04](https://bsky.app/profile/en.afp.com/post/3m75xgocb3f2e)
 
 ---
 
-@bloomberg.com
+@nbcnews.com
 
-US allies are looking to exploit the Trump-Xi  detente to improve relations with Beijing, with Britain, France and Germany among nations looking to seize the moment.
+Grab your coffee and pull out your knitted sweaters; creator of the “Gilmore Girls” Amy Sherman-Palladino and Lorelai Gilmore, aka Lauren Graham, are working on a new book inspired by the beloved series. 
 
-[2025-12-04 21:00:07](https://bsky.app/profile/bloomberg.com/post/3m75wcyrjvb22)
+[2025-12-04 21:20:04](https://bsky.app/profile/nbcnews.com/post/3m75xgon7oy2c)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+「OTC類似薬」自民と維新 保険給付継続なら負担額上乗せで調整
+https://news.web.nhk/newsweb/na/na-k10014994281000
+
+[2025-12-04 21:18:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75xdat4mf23)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+“OTC類似薬 保険適用継続を” 患者らが20万人分の署名提出
+https://news.web.nhk/newsweb/na/na-k10014994251000
+
+[2025-12-04 21:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75xd4n4c62j)
+
+---
+
+@cnbc.com
+
+GM’s new ‘Silicon Valley cowboy’ eyes technology renaissance for automaker
+
+[2025-12-04 21:16:30](https://bsky.app/profile/cnbc.com/post/3m75xacnfpm2f)
+
+---
+
+@nikkei.com
+
+楽天「水」や「マスク」、初のPB商品販売（無料記事）
+www.nikkei.com/article/DGXZQO...
+
+ブランド名は「Rakuten Original」で、アイリスオーヤマの協力を得て開発。
+
+商品ラインアップを今後拡充し、楽天市場としての利便性向上につなげます。
+
+[2025-12-04 21:16:29](https://bsky.app/profile/nikkei.com/post/3m75xabkzbo2l)
+
+---
+
+@nikkei.com
+
+航空会社間のダイヤ調整を容認　公取委、座席数維持が条件
+www.nikkei.com/article/DGXZQO...
+
+複数社が運航している路線で、朝や昼といった特定の時間帯に便が集中していることがあります。
+
+調整して運航時刻を分散すれば利便性が高まる可能性がありますが、独占禁止法に抵触するか明確ではありませんでした。
+
+#ニュース
+
+[2025-12-04 21:16:28](https://bsky.app/profile/nikkei.com/post/3m75xaagkbh2m)
 
 ---
 
