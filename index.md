@@ -1,9 +1,9 @@
-# [2025-12-04 14:10 updated](2025_12_04.md)
+# [2025-12-04 14:30 updated](2025_12_04.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】大分市佐賀関の大規模火災は「完全鎮火」 飛び火の無人島も鎮火発表 発生から17日目 (2025-12-04 14:05:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m757arcmmc2d" target="_blank">sokuho.news</a> (2025-12-04 14:07:16)</span><span style="padding-right:50px;">President Trump said when asked if he'd release video footage of a second strike on a suspected drug boat that allegedly killed two survivors: "I don't know what they have, but whatever they have we'll certainly release, no problem." <a href="https://bsky.app/profile/axios.com/post/3m756xwp4d22g" target="_blank">axios.com</a> (2025-12-04 14:02:19)</span><span style="padding-right:50px;">The controversy over who gave the order for a second strike that apparently killed people clinging to an alleged drug trafficking boat in the Caribbean has raised important questions about how and where such life-and-death decisions are made. | Analysis https://cnn.it/3KFfdqz <a href="https://bsky.app/profile/cnn.com/post/3m756xfqvhm2b" target="_blank">cnn.com</a> (2025-12-04 14:02:02)</span><span style="padding-right:50px;">Trump's name added to US Institute of Peace ahead of peace deal signing reut.rs/48iGjNp <a href="https://bsky.app/profile/reuters.com/post/3m756uxaaqx2k" target="_blank">reuters.com</a> (2025-12-04 14:00:39)</span><span style="padding-right:50px;">Emerging markets left the Fed behind on the descent from high interest rates (via Bloomberg Opinion)  <a href="https://bsky.app/profile/bloomberg.com/post/3m756uruxel2d" target="_blank">bloomberg.com</a> (2025-12-04 14:00:34)</span>
+<span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】大分・佐賀関の大規模火災無人島の鎮火確認 発生から17日目 大分市 (2025年12月4日 14:21) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m75a26nayq2q" target="_blank">sokuho.news</a> (2025-12-04 14:21:28)</span><span style="padding-right:50px;">OpenAI agrees to acquire AI startup Neptune to boost model training capabilities reut.rs/49WixIb <a href="https://bsky.app/profile/reuters.com/post/3m757xqcvyn2e" target="_blank">reuters.com</a> (2025-12-04 14:20:06)</span><span style="padding-right:50px;">Macron warns of ‘disintegration’ risk to world order in Xi meeting on.ft.com/3Y4OzdI <a href="https://bsky.app/profile/financialtimes.com/post/3m757xp2idc26" target="_blank">financialtimes.com</a> (2025-12-04 14:20:05)</span><span style="padding-right:50px;">Thailand's government says remains handed over to Israel by militants in Gaza belong to the last Thai hostage taken during the Oct. 7, 2023, attack that launched the war. <a href="https://bsky.app/profile/apnews.com/post/3m757rbbkt52h" target="_blank">apnews.com</a> (2025-12-04 14:16:29)</span><span style="padding-right:50px;">AI開発の米アンソロピック、2026年にも株式上場を計画　FT報道 www.nikkei.com/article/DGXZQO...  アンソロピックについては、アマゾンやグーグルからの出資に加え11月にはマイクロソフトが最大50億ドル、エヌビディアが最大100億ドルを投資すると発表しました。  評価額は3500億ドルに上昇したと報じられた一方、対抗馬であるOpenAIと同様に収益化には苦戦しています。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m757raj5ow2w" target="_blank">nikkei.com</a> (2025-12-04 14:16:28)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50762.45 (🔺819.51 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47882.90 (🔺511.28 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23454.09 (🔺138.51 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 179.59 (🔻1.49 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3099.00 (🔺71.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 155.45 (🔺0.27 : 2025-12-04)</span>
+<span style="padding-right:50px;">NIKKEI: 50877.91 (🔺934.97 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47882.90 (🔺511.28 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23454.09 (🔺138.51 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 179.59 (🔻1.49 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3104.00 (🔺76.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 155.48 (🔺0.30 : 2025-12-04)</span>
   </div>
 </div>
 
@@ -32,101 +32,107 @@
 
 ## News Headlines
 
-1. 大分佐賀関大規模火災、発生から17日目で完全鎮火
-2. トランプ氏、疑惑の麻薬船攻撃映像公開に「問題ない」
-3. 米国平和研究所、和平合意署名前にトランプ氏の名前を追加
-4. ゲノム編集ベビー規制へ、受精卵の子宮移植に罰則検討
-5. 安倍元首相銃撃事件、精神鑑定医「山上被告に精神障害認められず」と証言
-6. 株価900円以上値上がり、FRB利下げ観測で景気下支え期待
+1. 大分・佐賀関の大規模火災、発生から17日目に鎮火確認
+2. OpenAI、AIスタートアップNeptuneを買収でモデル訓練を強化
+3. マクロン大統領、習近平国家主席との会談で世界秩序の「崩壊」リスクを警告
+4. AI開発アンソロピック、2026年にも株式上場を計画
+5. 自民党、衆議院議員の定数削減法案を了承
+6. 日経平均株価、FRB利下げ観測で900円以上大幅上昇
 
 ----
 
 @sokuho.news
 
-🛎️JNNより【速報】です。
+🔔ANNより【速報】です。
 
-【速報】大分市佐賀関の大規模火災は「完全鎮火」 飛び火の無人島も鎮火発表 発生から17日目
-(2025-12-04 14:05:00) #ニュース
+【速報】大分・佐賀関の大規模火災無人島の鎮火確認 発生から17日目 大分市
+(2025年12月4日 14:21) #ニュース
 
-[2025-12-04 14:07:16](https://bsky.app/profile/sokuho.news/post/3m757arcmmc2d)
-
----
-
-@axios.com
-
-President Trump said when asked if he'd release video footage of a second strike on a suspected drug boat that allegedly killed two survivors: "I don't know what they have, but whatever they have we'll certainly release, no problem."
-
-[2025-12-04 14:02:19](https://bsky.app/profile/axios.com/post/3m756xwp4d22g)
-
----
-
-@cnn.com
-
-The controversy over who gave the order for a second strike that apparently killed people clinging to an alleged drug trafficking boat in the Caribbean has raised important questions about how and where such life-and-death decisions are made. | Analysis https://cnn.it/3KFfdqz
-
-[2025-12-04 14:02:02](https://bsky.app/profile/cnn.com/post/3m756xfqvhm2b)
+[2025-12-04 14:21:28](https://bsky.app/profile/sokuho.news/post/3m75a26nayq2q)
 
 ---
 
 @reuters.com
 
-Trump's name added to US Institute of Peace ahead of peace deal signing reut.rs/48iGjNp
+OpenAI agrees to acquire AI startup Neptune to boost model training capabilities reut.rs/49WixIb
 
-[2025-12-04 14:00:39](https://bsky.app/profile/reuters.com/post/3m756uxaaqx2k)
-
----
-
-@bloomberg.com
-
-Emerging markets left the Fed behind on the descent from high interest rates (via Bloomberg Opinion) 
-
-[2025-12-04 14:00:34](https://bsky.app/profile/bloomberg.com/post/3m756uruxel2d)
+[2025-12-04 14:20:06](https://bsky.app/profile/reuters.com/post/3m757xqcvyn2e)
 
 ---
 
-@cnbc.com
+@financialtimes.com
 
-Morgan House, expert on the psychology of money, he argues that true happiness in life comes from wanting less, not accumulating more.
+Macron warns of ‘disintegration’ risk to world order in Xi meeting on.ft.com/3Y4OzdI
 
-"Once you see someone master that equation," he writes, "you'll never think about wealth the same."
-
-[2025-12-04 14:00:31](https://bsky.app/profile/cnbc.com/post/3m756up4vc52i)
+[2025-12-04 14:20:05](https://bsky.app/profile/financialtimes.com/post/3m757xp2idc26)
 
 ---
 
-@aljazeera.com
+@apnews.com
 
-With 80 percent of votes counted, centrist candidate widens lead over his Trump-backed conservative rival.
+Thailand's government says remains handed over to Israel by militants in Gaza belong to the last Thai hostage taken during the Oct. 7, 2023, attack that launched the war.
 
-[2025-12-04 14:00:16](https://bsky.app/profile/aljazeera.com/post/3m756ubiglc2f)
-
----
-
-@washingtonpost.com
-
-The Supreme Court weighed arguments in a Mississippi preacher’s case which concerns the constitutional right to free speech and when defendants can challenge laws they were convicted of.
-
-[2025-12-04 14:00:10](https://bsky.app/profile/washingtonpost.com/post/3m756u3kilx23)
+[2025-12-04 14:16:29](https://bsky.app/profile/apnews.com/post/3m757rbbkt52h)
 
 ---
 
-@nytimes.com
+@nikkei.com
 
-In @nytopinion.nytimes.com
+AI開発の米アンソロピック、2026年にも株式上場を計画　FT報道
+www.nikkei.com/article/DGXZQO...
 
-Regardless of how often President Trump himself appears in the Epstein files, the editorial board writes, “Americans should not define deviancy down. They should expect more from their presidents, even this one.”
+アンソロピックについては、アマゾンやグーグルからの出資に加え11月にはマイクロソフトが最大50億ドル、エヌビディアが最大100億ドルを投資すると発表しました。
 
-[2025-12-04 14:00:03](https://bsky.app/profile/nytimes.com/post/3m756tuoni626)
+評価額は3500億ドルに上昇したと報じられた一方、対抗馬であるOpenAIと同様に収益化には苦戦しています。
+
+#ニュース
+
+[2025-12-04 14:16:28](https://bsky.app/profile/nikkei.com/post/3m757raj5ow2w)
 
 ---
 
-@en.afp.com
+@financialtimes.com
 
-Forecasts of fresh rain raise fears of more damage in flood-hit Indonesia and Sri Lanka, after earlier deluges killed more than 1,500 people in four countries
+ The rise of humanoid robots threatens political disruption on.ft.com/4oujlrv  | opinion
 
-u.afp.com/ShFN
+[2025-12-04 14:15:30](https://bsky.app/profile/financialtimes.com/post/3m757pj3elf27)
 
-[2025-12-04 13:57:55](https://bsky.app/profile/en.afp.com/post/3m756q2pnma2p)
+---
+
+@financialtimes.com
+
+ Bending Spoons raids the digital graveyard for paranormal returns on.ft.com/4iCbtCF  | opinion
+
+[2025-12-04 14:15:30](https://bsky.app/profile/financialtimes.com/post/3m757pj3f2e24)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+自民 衆議院議員の定数削減法案 党の政調審議会で了承
+https://news.web.nhk/newsweb/na/na-k10014993761000
+
+[2025-12-04 14:15:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m757ov7s2h2g)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+新潟 加茂 住宅火災 焼け跡から2人が遺体 住人の80代夫婦か
+https://news.web.nhk/newsweb/na/na-k10014993651000
+
+[2025-12-04 14:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m757oqppx523)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】大分市の大規模火災が17日目に鎮火…11月18日に発生し1人死亡182棟焼ける
+(2025-12-04 14:10) #ニュース
+
+[2025-12-04 14:11:31](https://bsky.app/profile/sokuho.news/post/3m757iex7o22g)
 
 ---
 
