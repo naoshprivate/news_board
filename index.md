@@ -1,9 +1,9 @@
-# [2025-12-04 20:30 updated](2025_12_04.md)
+# [2025-12-04 20:50 updated](2025_12_04.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】小城市牛津町で建物火災 (2025-12-04 20:15) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m75uh2ulhh2m" target="_blank">sokuho.news</a> (2025-12-04 20:26:36)</span><span style="padding-right:50px;">From Breakingviews - Breakingviews - Shell’s output hole is a reason to gulp down Galp reut.rs/4pbY8DG <a href="https://bsky.app/profile/reuters.com/post/3m75ueddctv2i" target="_blank">reuters.com</a> (2025-12-04 20:25:04)</span><span style="padding-right:50px;">ガザ地区 遺体1人返還もイスラエルが軍事作戦 合意履行が課題 https://news.web.nhk/newsweb/na/na-k10014994231000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75uclkiie2g" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-04 20:24:03)</span><span style="padding-right:50px;">Treasury yields inch higher as traders continue to bet on a December rate cut <a href="https://bsky.app/profile/cnbc.com/post/3m75u72yc5z2s" target="_blank">cnbc.com</a> (2025-12-04 20:22:07)</span><span style="padding-right:50px;">🇵🇸 UAE organises mass wedding for 54 couples amid ruins in Gaza  Waving UAE flags, cheerful crowds celebrate the mass wedding of 54 Palestinian couples, held amid the ruins of destroyed buildings in Gaza's Khan Yunis. The initiative, dubbed 'The Dress of Joy', is organised by the United Arab Emirates <a href="https://bsky.app/profile/en.afp.com/post/3m75u4wpeqn2k" target="_blank">en.afp.com</a> (2025-12-04 20:20:56)</span>
+<span style="padding-right:50px;">Can AI break a 150-year trend without overheating the economy? reut.rs/3XzpXK0 <a href="https://bsky.app/profile/reuters.com/post/3m75vif3eay27" target="_blank">reuters.com</a> (2025-12-04 20:45:13)</span><span style="padding-right:50px;">Exclusive: A legendary math professor is leaving academia—and joining an AI startup run by a 24-year-old. <a href="https://bsky.app/profile/wsj.com/post/3m75vc22n7d2r" target="_blank">wsj.com</a> (2025-12-04 20:41:40)</span><span style="padding-right:50px;">A 23-million-year-old rhinoceros fossil is reshaping scientists' understanding of mammal evolution. n.pr/4plIDcz <a href="https://bsky.app/profile/npr.org/post/3m75vbvq5222j" target="_blank">npr.org</a> (2025-12-04 20:41:36)</span><span style="padding-right:50px;">House Democrats on Wednesday released photographs and videos of the disgraced billionaire Jeffrey Epstein’s home on the private Caribbean island where his accusers have said that he trafficked underage girls for sex.   Read more: nyti.ms/3ME67Lf <a href="https://bsky.app/profile/nytimes.com/post/3m75vamavxd2p" target="_blank">nytimes.com</a> (2025-12-04 20:40:53)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】小城市牛津町で建物火災 午後7時半ごろ発生 (2025-12-04 20:15) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m75va2ccfj2y" target="_blank">sokuho.news</a> (2025-12-04 20:40:34)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47882.90 (🔺511.28 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23454.09 (🔺138.51 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 179.59 (🔻1.49 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 154.57 (🔻0.61 : 2025-12-04)</span>
+<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47882.90 (🔺511.28 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23454.09 (🔺138.51 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 179.59 (🔻1.49 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 154.62 (🔻0.55 : 2025-12-04)</span>
   </div>
 </div>
 
@@ -32,107 +32,99 @@
 
 ## News Headlines
 
-1. 小城市で建物火災発生
-2. シェルの減産、ガルプ買収の理由に
-3. ガザ地区遺体返還も軍事作戦、合意履行が課題
-4. UAE、ガザで合同結婚式を開催
-5. 就職面接、ビデオ通話不具合で評価低下
-6. ウナギ全種類規制案、否決確定
+1. AI、150年のトレンドを変えるか？経済過熱のリスク
+2. 数学界の伝説、24歳起業家のAIスタートアップへ
+3. 2300万年前の化石、哺乳類進化の常識を覆す
+4. エプスタイン島、未成年者売買の実態写真公開
+5. 小城市牛津町で建物火災発生
+6. 26万件以上のシュレッドチーズ、金属片混入の可能性でリコール
 
 ----
 
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】小城市牛津町で建物火災
-(2025-12-04 20:15) #ニュース
-
-[2025-12-04 20:26:36](https://bsky.app/profile/sokuho.news/post/3m75uh2ulhh2m)
-
----
-
 @reuters.com
 
-From Breakingviews - Breakingviews - Shell’s output hole is a reason to gulp down Galp reut.rs/4pbY8DG
+Can AI break a 150-year trend without overheating the economy? reut.rs/3XzpXK0
 
-[2025-12-04 20:25:04](https://bsky.app/profile/reuters.com/post/3m75ueddctv2i)
-
----
-
-@nhknewsunofficial.bsky.social
-
-ガザ地区 遺体1人返還もイスラエルが軍事作戦 合意履行が課題
-https://news.web.nhk/newsweb/na/na-k10014994231000
-
-[2025-12-04 20:24:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75uclkiie2g)
-
----
-
-@cnbc.com
-
-Treasury yields inch higher as traders continue to bet on a December rate cut
-
-[2025-12-04 20:22:07](https://bsky.app/profile/cnbc.com/post/3m75u72yc5z2s)
-
----
-
-@en.afp.com
-
-🇵🇸 UAE organises mass wedding for 54 couples amid ruins in Gaza
-
-Waving UAE flags, cheerful crowds celebrate the mass wedding of 54 Palestinian couples, held amid the ruins of destroyed buildings in Gaza's Khan Yunis. The initiative, dubbed 'The Dress of Joy', is organised by the United Arab Emirates
-
-[2025-12-04 20:20:56](https://bsky.app/profile/en.afp.com/post/3m75u4wpeqn2k)
+[2025-12-04 20:45:13](https://bsky.app/profile/reuters.com/post/3m75vif3eay27)
 
 ---
 
 @wsj.com
 
-Soaring tech valuations and stock-market gains have boosted the number of billionaires and the wealth they hold.
+Exclusive: A legendary math professor is leaving academia—and joining an AI startup run by a 24-year-old.
 
-[2025-12-04 20:20:34](https://bsky.app/profile/wsj.com/post/3m75u4cause2p)
+[2025-12-04 20:41:40](https://bsky.app/profile/wsj.com/post/3m75vc22n7d2r)
+
+---
+
+@npr.org
+
+A 23-million-year-old rhinoceros fossil is reshaping scientists' understanding of mammal evolution. n.pr/4plIDcz
+
+[2025-12-04 20:41:36](https://bsky.app/profile/npr.org/post/3m75vbvq5222j)
+
+---
+
+@nytimes.com
+
+House Democrats on Wednesday released photographs and videos of the disgraced billionaire Jeffrey Epstein’s home on the private Caribbean island where his accusers have said that he trafficked underage girls for sex. 
+
+Read more: nyti.ms/3ME67Lf
+
+[2025-12-04 20:40:53](https://bsky.app/profile/nytimes.com/post/3m75vamavxd2p)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】小城市牛津町で建物火災 午後7時半ごろ発生
+(2025-12-04 20:15) #ニュース
+
+[2025-12-04 20:40:34](https://bsky.app/profile/sokuho.news/post/3m75va2ccfj2y)
+
+---
+
+@reuters.com
+
+Aurubis reports 14% drop in pre-tax profit as copper output slows reut.rs/48tM4GQ
+
+[2025-12-04 20:40:08](https://bsky.app/profile/reuters.com/post/3m75v7bj2s32k)
 
 ---
 
 @nbcnews.com
 
-This is the first holiday shopping season since the Trump administration made a major change to customs rules, extending tariffs and customs fees to low-value packages that had long been exempt.
+A man accused of trespassing on to the Kansas property of football star Travis Kelce was trying to serve a subpoena on his fiancée, Taylor Swift, in the ongoing legal battle between Blake Lively and Justin Baldoni. 
 
-[2025-12-04 20:20:16](https://bsky.app/profile/nbcnews.com/post/3m75u3r6kux2j)
-
----
-
-@aljazeera.com
-
-What does Netanyahu want to be pardoned for and is it possible?
-
-The Israeli PM faces three corruption cases filed in 2019 that could see him sentenced to up to 10 years in prison.
-
-👉 aje.io/jbzjn8
-
-[2025-12-04 20:20:01](https://bsky.app/profile/aljazeera.com/post/3m75u3clvbs25)
+[2025-12-04 20:40:07](https://bsky.app/profile/nbcnews.com/post/3m75v7aq3ou2f)
 
 ---
 
-@aljazeera.com
+@en.afp.com
 
-More than 200 cultural and public figures are calling for the release of Marwan Barghouti, the jailed Palestinian leader held by Israel since the early 2000s, after he was not released in the October prisoner exchange under the Gaza ceasefire deal. #Infograph
+🇮🇩 Indonesia bucks pressure to label floods national disaster
 
-[2025-12-04 20:19:29](https://bsky.app/profile/aljazeera.com/post/3m75u2eazvk25)
+Indonesia's government is resisting growing pressure to declare a national disaster over devastating floods that killed hundreds of people and laid waste to parts of Sumatra island.
+
+[2025-12-04 20:40:03](https://bsky.app/profile/en.afp.com/post/3m75v74zcfx2e)
 
 ---
 
-@nikkei.com
+@yahoofinance.com
 
-就職面接、ビデオ通話で不具合なら評価低下
-www.nikkei.com/article/DGXZQO...
+Bitcoin heads into 2026 with renewed acceptance — and volatility
 
-映像のゆがみや音声とのズレがあると、採用する意欲が低下するとの調査結果。
+[2025-12-04 20:36:02](https://bsky.app/profile/yahoofinance.com/post/3m75uxwrcah2a)
 
-通信障害や機器の動作の悪さが、人生の重要な局面に影響を与えると米コロンビア大学は警鐘を鳴らします。
+---
 
-[2025-12-04 20:16:27](https://bsky.app/profile/nikkei.com/post/3m75tuwu2tw2t)
+@reuters.com
+
+Glencore to restart production at Alumbrera copper mine in Argentina reut.rs/4pgscxU
+
+[2025-12-04 20:35:04](https://bsky.app/profile/reuters.com/post/3m75uw7jjed2i)
 
 ---
 
