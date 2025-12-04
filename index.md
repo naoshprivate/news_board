@@ -1,9 +1,9 @@
-# [2025-12-05 06:50 updated](2025_12_05.md)
+# [2025-12-05 07:10 updated](2025_12_05.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Appeals court grants President Trump's request to allow National Guard troops to remain in DC for now. https://cnn.it/4iBmMuW <a href="https://bsky.app/profile/cnn.com/post/3m76x7d46io2s" target="_blank">cnn.com</a> (2025-12-05 06:48:37)</span><span style="padding-right:50px;">年末年始の旅は「高単価・遠方・長期間」、海外渡航3割増100万人 www.nikkei.com/article/DGXZQO...  けん引するのは株高で潤う富裕層で、欧米などへの旅行が増加。  平均費用は27万5千円と9%上昇し、「安・近・短」を選ぶ層との二極化が鮮明になりつつあります。 <a href="https://bsky.app/profile/nikkei.com/post/3m76x2jdukc2e" target="_blank">nikkei.com</a> (2025-12-05 06:45:56)</span><span style="padding-right:50px;">US minerals projects seek 'industrial vision' from Washington to compete with China reut.rs/4aCXxq2 <a href="https://bsky.app/profile/reuters.com/post/3m76wz5o3222a" target="_blank">reuters.com</a> (2025-12-05 06:45:10)</span><span style="padding-right:50px;">Defense Secretary Pete Hegseth “did not comply” with the Pentagon’s policies when he used a private messaging app to discuss airstrikes by U.S. forces in Yemen earlier this year, the department’s inspector general said in a report released on Thursday. Here’s what else we learned from the report. <a href="https://bsky.app/profile/nytimes.com/post/3m76wqkwgik25" target="_blank">nytimes.com</a> (2025-12-05 06:40:22)</span><span style="padding-right:50px;">Copper producer Freeport would pursue M&A only if 'stars and moon' align, CEO says reut.rs/48SqY6j <a href="https://bsky.app/profile/reuters.com/post/3m76wqhzdjc2a" target="_blank">reuters.com</a> (2025-12-05 06:40:18)</span>
+<span style="padding-right:50px;">In Rosemead, Lucy Liu plays the role of an ailing mother who takes drastic measures to try to protect her troubled teenage son from himself. Liu also produced the film, based on a true story. n.pr/3KgFn2V <a href="https://bsky.app/profile/npr.org/post/3m76y5gykf32e" target="_blank">npr.org</a> (2025-12-05 07:05:27)</span><span style="padding-right:50px;">Stellantis CEO says hybrids are a top priority for the US market reut.rs/4iAAj5U <a href="https://bsky.app/profile/reuters.com/post/3m76y4rrbic22" target="_blank">reuters.com</a> (2025-12-05 07:05:05)</span><span style="padding-right:50px;">Stocks making the biggest moves after hours: DocuSign, SoFi Technologies, Ulta, Hewlett Packard Enterprises and more <a href="https://bsky.app/profile/cnbc.com/post/3m76y4kn5ke2r" target="_blank">cnbc.com</a> (2025-12-05 07:04:58)</span><span style="padding-right:50px;">US senators want airlines to pay passengers cash for long delays reut.rs/4pPL3Qq <a href="https://bsky.app/profile/reuters.com/post/3m76xv3pbiq2e" target="_blank">reuters.com</a> (2025-12-05 07:00:47)</span><span style="padding-right:50px;">Kim Kardashian reveals in the Dec. 4 episode of "The Kardashians" that she was left "hysterically crying" after a thief's "very noble" gesture. <a href="https://bsky.app/profile/usatoday.com/post/3m76xuy5g7r2h" target="_blank">usatoday.com</a> (2025-12-05 07:00:43)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47850.94 (🔻37.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.38 (🔺1.76 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 155.12 (🔻0.06 : 2025-12-04)</span>
+<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47850.94 (🔻37.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.38 (🔺1.81 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 155.02 (🔻0.15 : 2025-12-04)</span>
   </div>
 </div>
 
@@ -32,98 +32,94 @@
 
 ## News Headlines
 
-1.  トランプ氏、首都警備の州兵駐留継続を要請、裁判所が許可
-2.  年末年始の海外旅行、富裕層がけん引、平均費用は27万5千円
-3.  米国の鉱物プロジェクト、中国に対抗するため政府に「産業ビジョン」を求める
-4.  民主党、ACA（医療保険制度改革）税額控除延長法案を来週強制採決へ
-5.  Netflix、ワーナー・ブラザース・ディスカバリーの買収に最高額入札か
-6.  ビル・ゲイツ氏、先進国の援助削減で児童死亡率が上昇すると警告
+1. ルーシー・リュー主演・製作、苦悩する息子を守る母の物語
+2. ステランティスCEO、米国市場でハイブリッド車を重視
+3. 米上院議員、航空会社に長遅延時の現金補償を義務化へ
+4. プーチン大統領、インド訪問で経済・外交関係を維持
+5. アップル、法務顧問・政策責任者の退任を発表
+6. 富裕層けん引、年末年始の海外旅行増加で二極化鮮明に
 
 ----
 
+@npr.org
+
+In Rosemead, Lucy Liu plays the role of an ailing mother who takes drastic measures to try to protect her troubled teenage son from himself. Liu also produced the film, based on a true story. n.pr/3KgFn2V
+
+[2025-12-05 07:05:27](https://bsky.app/profile/npr.org/post/3m76y5gykf32e)
+
+---
+
+@reuters.com
+
+Stellantis CEO says hybrids are a top priority for the US market reut.rs/4iAAj5U
+
+[2025-12-05 07:05:05](https://bsky.app/profile/reuters.com/post/3m76y4rrbic22)
+
+---
+
+@cnbc.com
+
+Stocks making the biggest moves after hours: DocuSign, SoFi Technologies, Ulta, Hewlett Packard Enterprises and more
+
+[2025-12-05 07:04:58](https://bsky.app/profile/cnbc.com/post/3m76y4kn5ke2r)
+
+---
+
+@reuters.com
+
+US senators want airlines to pay passengers cash for long delays reut.rs/4pPL3Qq
+
+[2025-12-05 07:00:47](https://bsky.app/profile/reuters.com/post/3m76xv3pbiq2e)
+
+---
+
+@usatoday.com
+
+Kim Kardashian reveals in the Dec. 4 episode of "The Kardashians" that she was left "hysterically crying" after a thief's "very noble" gesture.
+
+[2025-12-05 07:00:43](https://bsky.app/profile/usatoday.com/post/3m76xuy5g7r2h)
+
+---
+
+@nbcnews.com
+
+Palestinians extinguish a fire that engulfed tents after an Israeli missile strike at an encampment in western Khan Younis, Gaza.
+
+[2025-12-05 07:00:27](https://bsky.app/profile/nbcnews.com/post/3m76xui4tjo2y)
+
+---
+
 @cnn.com
 
-Appeals court grants President Trump's request to allow National Guard troops to remain in DC for now. https://cnn.it/4iBmMuW
+Analysis: The controversy over the Trump administration’s second strike on an alleged drug boat in the Caribbean has surfaced a long-overdue debate about its already legally dubious first strikes. 
 
-[2025-12-05 06:48:37](https://bsky.app/profile/cnn.com/post/3m76x7d46io2s)
-
----
-
-@nikkei.com
-
-年末年始の旅は「高単価・遠方・長期間」、海外渡航3割増100万人
-www.nikkei.com/article/DGXZQO...
-
-けん引するのは株高で潤う富裕層で、欧米などへの旅行が増加。
-
-平均費用は27万5千円と9%上昇し、「安・近・短」を選ぶ層との二極化が鮮明になりつつあります。
-
-[2025-12-05 06:45:56](https://bsky.app/profile/nikkei.com/post/3m76x2jdukc2e)
+[2025-12-05 07:00:23](https://bsky.app/profile/cnn.com/post/3m76xuebujp2m)
 
 ---
 
-@reuters.com
+@washingtonpost.com
 
-US minerals projects seek 'industrial vision' from Washington to compete with China reut.rs/4aCXxq2
+Cecilia Milbourne’s death on a dangerous Los Angeles road highlights the failure of Vision Zero, a U.S. initiative to reduce traffic deaths.
 
-[2025-12-05 06:45:10](https://bsky.app/profile/reuters.com/post/3m76wz5o3222a)
+A Post investigation found that cities often prioritize vehicle traffic over pedestrian safety.
 
----
-
-@nytimes.com
-
-Defense Secretary Pete Hegseth “did not comply” with the Pentagon’s policies when he used a private messaging app to discuss airstrikes by U.S. forces in Yemen earlier this year, the department’s inspector general said in a report released on Thursday. Here’s what else we learned from the report.
-
-[2025-12-05 06:40:22](https://bsky.app/profile/nytimes.com/post/3m76wqkwgik25)
+[2025-12-05 07:00:20](https://bsky.app/profile/washingtonpost.com/post/3m76xubwhtj2o)
 
 ---
 
-@reuters.com
+@aljazeera.com
 
-Copper producer Freeport would pursue M&A only if 'stars and moon' align, CEO says reut.rs/48SqY6j
+Putin questions US pressure on India's Russian oil purchases as Modi gives the Russian president a warm welcome.
 
-[2025-12-05 06:40:18](https://bsky.app/profile/reuters.com/post/3m76wqhzdjc2a)
-
----
-
-@nbcnews.com
-
-Senate Minority Leader Chuck Schumer says that Democrats will force a vote next week on a bill to extend expiring Affordable Care Act tax credits and prevent health insurance premiums from skyrocketing for millions of Americans.
-
-[2025-12-05 06:40:05](https://bsky.app/profile/nbcnews.com/post/3m76wq3dyqv2j)
+[2025-12-05 07:00:19](https://bsky.app/profile/aljazeera.com/post/3m76xuap4hc2c)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@apnews.com
 
-【動画】Pickup NEWS（12月5日）
-https://news.web.nhk/newsweb/na/na-k10014994201000
+“Five Nights at Freddy’s 2" builds on the first film's chaotic foundation with even more confusion, says Associated Press critic Mark Kennedy.
 
-[2025-12-05 06:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m76wobqvd42j)
-
----
-
-@nbcnews.com
-
-Who could the United States face in the 2026 World Cup? As the World Cup draw approaches, NBC News’ Steve Kornacki breaks down what we know about the tournament format, including a feature that could give the U.S. men’s national team an edge in the group stage.
-
-[2025-12-05 06:38:42](https://bsky.app/profile/nbcnews.com/post/3m76wnmfwip2w)
-
----
-
-@wsj.com
-
-Taking up motorcycle riding in his 70s filled one writer’s spirit with joy and made his anxieties about aging disappear.
-
-[2025-12-05 06:36:02](https://bsky.app/profile/wsj.com/post/3m76witm2eo2t)
-
----
-
-@reuters.com
-
-Netflix emerges as the highest bidder for Warner Bros Discovery, source says reut.rs/4pjmICC
-
-[2025-12-05 06:35:06](https://bsky.app/profile/reuters.com/post/3m76wh63v7l2i)
+[2025-12-05 07:00:01](https://bsky.app/profile/apnews.com/post/3m76xtpu3bx2p)
 
 ---
 
