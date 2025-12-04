@@ -1,9 +1,9 @@
-# [2025-12-04 22:10 updated](2025_12_04.md)
+# [2025-12-04 22:30 updated](2025_12_04.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">LIVE: Russian President Putin arrives in New Delhi for India-Russia Summit youtube.com/live/nEYe7-f... <a href="https://bsky.app/profile/reuters.com/post/3m7622asvk22z" target="_blank">reuters.com</a> (2025-12-04 22:06:48)</span><span style="padding-right:50px;">Exclusive: China state-owned banks soak up dollars to slow yuan gains, sources say reut.rs/49XMCY0 <a href="https://bsky.app/profile/reuters.com/post/3m75zxfj6uh2i" target="_blank">reuters.com</a> (2025-12-04 22:05:12)</span><span style="padding-right:50px;">The Times argued the rules that restricted news organizations’ communications with military sources were a violation of its First and Fifth Amendment rights. <a href="https://bsky.app/profile/forbes.com/post/3m75zx5jixi2p" target="_blank">forbes.com</a> (2025-12-04 22:05:04)</span><span style="padding-right:50px;">If you have losses in your crypto portfolio, you may be able to "harvest them" to offset tax you owe on gains.  <a href="https://bsky.app/profile/cnbc.com/post/3m75ztkdi2n2j" target="_blank">cnbc.com</a> (2025-12-04 22:03:03)</span><span style="padding-right:50px;">Attorneys for Ghislaine Maxwell say client will ask a judge to release her from federal prison, a new court filing shows. <a href="https://bsky.app/profile/usatoday.com/post/3m75zpxyjju2z" target="_blank">usatoday.com</a> (2025-12-04 22:01:03)</span>
+<span style="padding-right:50px;">BREAKING: Admiral Frank Bradley saw alleged drug boat strike survivors as legitimate targets, a defense official says. They were killed in a second strike. <a href="https://bsky.app/profile/nbcnews.com/post/3m7637bcnmm2j" target="_blank">nbcnews.com</a> (2025-12-04 22:27:30)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】南海高野線 北野田駅～河内長野駅間で運転見合わせ 人身事故の影響 (2025-12-04 22:18) #ニュース  🚃鉄道運行情報 🔗https://transit.yahoo.co.jp/diainfo <a href="https://bsky.app/profile/sokuho.news/post/3m7635r63oo26" target="_blank">sokuho.news</a> (2025-12-04 22:26:40)</span><span style="padding-right:50px;">A Somali Republican in Minnesota who backed Trump is disappointed by the president <a href="https://bsky.app/profile/axios.com/post/3m76332whyk2x" target="_blank">axios.com</a> (2025-12-04 22:25:09)</span><span style="padding-right:50px;">The FDA this week elevated a recall involving more than one million bags of shredded cheese. Here's what to know. <a href="https://bsky.app/profile/nytimes.com/post/3m7632yfivz2y" target="_blank">nytimes.com</a> (2025-12-04 22:25:07)</span><span style="padding-right:50px;">Stellantis to recall 72,509 US vehicles over software glitch, NHTSA says reut.rs/4pTtoYd <a href="https://bsky.app/profile/reuters.com/post/3m7632xifqg2o" target="_blank">reuters.com</a> (2025-12-04 22:25:05)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47882.90 (🔺511.28 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23454.09 (🔺138.51 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 179.59 (🔻1.49 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 154.75 (🔻0.43 : 2025-12-04)</span>
+<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47882.90 (🔺511.28 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23454.09 (🔺138.51 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 179.59 (🔻1.49 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 155.00 (🔻0.18 : 2025-12-04)</span>
   </div>
 </div>
 
@@ -32,104 +32,101 @@
 
 ## News Headlines
 
-1. プーチン大統領、インド・ロシア首脳会談のためニューデリーに到着
-2. 中国国有銀行、人民元高抑制のためドル買い介入か
-3. マイクロン、消費者向けメモリー事業から撤退、AI向けに集中
-4. 豪アッシュズテスト、ジョー・ルートが豪州初となるテストセンチュリー
-5. 米国で大規模なレイオフ、年間110万人超え
-6. トランプ前大統領、ルワンダとコンゴ民主共和国の首脳をホワイトハウスに招待
+1.  米海軍幹部、薬物運搬船の生存者を標的と認識し攻撃指示か
+2.  南海高野線で人身事故、一部区間で運転見合わせ
+3.  食品医薬品局、シュレッドチーズ100万袋以上をリコール
+4.  金融庁、地域金融機関の再編費用補助を拡充へ
+5.  ウナギ国際取引の規制案、ワシントン条約で否決
+6.  半導体マイクロン、消費者向けメモリーから撤退
 
 ----
 
-@reuters.com
+@nbcnews.com
 
-LIVE: Russian President Putin arrives in New Delhi for India-Russia Summit youtube.com/live/nEYe7-f...
+<strong><span style="color: red;">BREAKING:</span> Admiral Frank Bradley saw alleged drug boat strike survivors as legitimate targets, a defense official says. They were killed in a second strike.</strong>
 
-[2025-12-04 22:06:48](https://bsky.app/profile/reuters.com/post/3m7622asvk22z)
+[2025-12-04 22:27:30](https://bsky.app/profile/nbcnews.com/post/3m7637bcnmm2j)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】南海高野線 北野田駅～河内長野駅間で運転見合わせ 人身事故の影響
+(2025-12-04 22:18) #ニュース
+
+🚃鉄道運行情報
+🔗https://transit.yahoo.co.jp/diainfo
+
+[2025-12-04 22:26:40](https://bsky.app/profile/sokuho.news/post/3m7635r63oo26)
+
+---
+
+@axios.com
+
+A Somali Republican in Minnesota who backed Trump is disappointed by the president
+
+[2025-12-04 22:25:09](https://bsky.app/profile/axios.com/post/3m76332whyk2x)
+
+---
+
+@nytimes.com
+
+The FDA this week elevated a recall involving more than one million bags of shredded cheese. Here's what to know.
+
+[2025-12-04 22:25:07](https://bsky.app/profile/nytimes.com/post/3m7632yfivz2y)
 
 ---
 
 @reuters.com
 
-Exclusive: China state-owned banks soak up dollars to slow yuan gains, sources say reut.rs/49XMCY0
+Stellantis to recall 72,509 US vehicles over software glitch, NHTSA says reut.rs/4pTtoYd
 
-[2025-12-04 22:05:12](https://bsky.app/profile/reuters.com/post/3m75zxfj6uh2i)
-
----
-
-@forbes.com
-
-The Times argued the rules that restricted news organizations’ communications with military sources were a violation of its First and Fifth Amendment rights.
-
-[2025-12-04 22:05:04](https://bsky.app/profile/forbes.com/post/3m75zx5jixi2p)
+[2025-12-04 22:25:05](https://bsky.app/profile/reuters.com/post/3m7632xifqg2o)
 
 ---
 
 @cnbc.com
 
-If you have losses in your crypto portfolio, you may be able to "harvest them" to offset tax you owe on gains. 
+Salesforce earnings are doing little to break stock out of slump. Some major analysts think a big AI rally is ahead
 
-[2025-12-04 22:03:03](https://bsky.app/profile/cnbc.com/post/3m75ztkdi2n2j)
+[2025-12-04 22:25:01](https://bsky.app/profile/cnbc.com/post/3m7632svicn2g)
 
 ---
 
-@usatoday.com
+@nhknewsunofficial.bsky.social
 
-Attorneys for Ghislaine Maxwell say client will ask a judge to release her from federal prison, a new court filing shows.
+金融庁 地方銀行など地域金融機関 再編費用の補助拡充へ
+https://news.web.nhk/newsweb/na/na-k10014994211000
 
-[2025-12-04 22:01:03](https://bsky.app/profile/usatoday.com/post/3m75zpxyjju2z)
+[2025-12-04 22:24:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m762zdfrox2k)
+
+---
+
+@cnbc.com
+
+Here are Thursday's biggest analyst calls: Apple, Tesla, Toast, Toll Brothers, Delta, Oracle & more
+
+[2025-12-04 22:22:53](https://bsky.app/profile/cnbc.com/post/3m762wzglvt2j)
 
 ---
 
 @reuters.com
 
-China is issuing streamlined licenses for rare earth exports, state media says reut.rs/3YbMBbu
+LIVE: French President Emmanuel Macron arrives in Chengdu, China youtube.com/live/06s_GYH...
 
-[2025-12-04 22:00:58](https://bsky.app/profile/reuters.com/post/3m75zptahpn2o)
-
----
-
-@nikkei.com
-
-半導体マイクロン、消費者向けメモリー撤退（無料記事）
-www.nikkei.com/article/DGXZQO...
-
-「Crucial」ブランドでゲーム愛好家や映像制作者向けに提供してきましたが、2026年2月までに出荷を終了。
-
-AI需要の急拡大を受け、データセンター向け事業に経営資源を集中します。
-
-[2025-12-04 22:00:39](https://bsky.app/profile/nikkei.com/post/3m75zpaoowu2z)
-
----
-
-@nikkei.com
-
-「静かな退職」は職場全体に悪影響？　社員の小さな成功に目配り
-www.nikkei.com/article/DGXZQO...
-
-最低限の仕事しかしない「静かな退職」は日本でも次第に知られるようになってきました。
-
-調査した研究員は、日本は欧米諸国と比べ「周囲の従業員にしわ寄せがいきやすい構造」だと指摘します。
-
-[2025-12-04 22:00:32](https://bsky.app/profile/nikkei.com/post/3m75zozq3tf2k)
-
----
-
-@washingtonpost.com
-
-Column: Routines are linked to better health, academic success and even resilience. Here’s a science-backed daily schedule to try. Think of it as a template to help you plan a healthier day.
-
-[2025-12-04 22:00:22](https://bsky.app/profile/washingtonpost.com/post/3m75zoqr2u42g)
+[2025-12-04 22:22:30](https://bsky.app/profile/reuters.com/post/3m762wdj57k2e)
 
 ---
 
 @en.afp.com
 
-🏏 Joe Root finally scored his maiden Test century in Australia on his fourth Ashes tour to guide England from a precarious 5-2 to 325-9 at stumps after a pulsating first day of the second Ashes Test in Brisbane.
-#AFPSports
-➡️ u.afp.com/Shva
+🇱🇰 'Nothing remains': Sri Lanka cyclone survivors face colossal clean-up
 
-[2025-12-04 22:00:19](https://bsky.app/profile/en.afp.com/post/3m75zoo5rix2x)
+Survivors of Cyclone Ditwah, which has ravaged Sri Lanka in recent days, return to their devastated homes, faced with a massive clean-up as they start rebuilding their lives.
+
+[2025-12-04 22:20:11](https://bsky.app/profile/en.afp.com/post/3m762s6ctgu22)
 
 ---
 
