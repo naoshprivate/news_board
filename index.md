@@ -1,9 +1,9 @@
-# [2025-12-05 07:10 updated](2025_12_05.md)
+# [2025-12-05 07:30 updated](2025_12_05.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">In Rosemead, Lucy Liu plays the role of an ailing mother who takes drastic measures to try to protect her troubled teenage son from himself. Liu also produced the film, based on a true story. n.pr/3KgFn2V <a href="https://bsky.app/profile/npr.org/post/3m76y5gykf32e" target="_blank">npr.org</a> (2025-12-05 07:05:27)</span><span style="padding-right:50px;">Stellantis CEO says hybrids are a top priority for the US market reut.rs/4iAAj5U <a href="https://bsky.app/profile/reuters.com/post/3m76y4rrbic22" target="_blank">reuters.com</a> (2025-12-05 07:05:05)</span><span style="padding-right:50px;">Stocks making the biggest moves after hours: DocuSign, SoFi Technologies, Ulta, Hewlett Packard Enterprises and more <a href="https://bsky.app/profile/cnbc.com/post/3m76y4kn5ke2r" target="_blank">cnbc.com</a> (2025-12-05 07:04:58)</span><span style="padding-right:50px;">US senators want airlines to pay passengers cash for long delays reut.rs/4pPL3Qq <a href="https://bsky.app/profile/reuters.com/post/3m76xv3pbiq2e" target="_blank">reuters.com</a> (2025-12-05 07:00:47)</span><span style="padding-right:50px;">Kim Kardashian reveals in the Dec. 4 episode of "The Kardashians" that she was left "hysterically crying" after a thief's "very noble" gesture. <a href="https://bsky.app/profile/usatoday.com/post/3m76xuy5g7r2h" target="_blank">usatoday.com</a> (2025-12-05 07:00:43)</span>
+<span style="padding-right:50px;">Spotify’s “listening age” feature has sent the music streaming platform’s listeners into a tizzy over being declared decades older and, by some interpretations, perhaps not-so-cool. <a href="https://bsky.app/profile/wsj.com/post/3m76zguckad24" target="_blank">wsj.com</a> (2025-12-05 07:28:37)</span><span style="padding-right:50px;">Trump has directed his crackdown on immigrants toward the U.S. Somali community, with his administration accusing Somalis in the U.S. of widespread fraud. Here's what to know. <a href="https://bsky.app/profile/axios.com/post/3m76zdbjaws26" target="_blank">axios.com</a> (2025-12-05 07:26:37)</span><span style="padding-right:50px;">Syria's growth accelerates as sanctions ease, refugees return, central bank chief says reut.rs/3XBZiw7 <a href="https://bsky.app/profile/reuters.com/post/3m76zanpikx2k" target="_blank">reuters.com</a> (2025-12-05 07:25:09)</span><span style="padding-right:50px;">Apple、創業50年を前に人材流出ショック　CEO交代説も www.nikkei.com/article/DGXZQO...  アップルで20年近くデザイン部門を率いたアラン・ダイ氏がメタへ。  就任から14年を迎えたティム・クックCEOの去就も取り沙汰されています。 <a href="https://bsky.app/profile/nikkei.com/post/3m76z3dywqm2e" target="_blank">nikkei.com</a> (2025-12-05 07:22:11)</span><span style="padding-right:50px;">Justice Democrats, a national progressive group, endorses Melat Kiros, a lawyer and barista, in her campaign against Democratic Rep. Diana DeGette in Colorado's 1st District. <a href="https://bsky.app/profile/nbcnews.com/post/3m76yxtalth2j" target="_blank">nbcnews.com</a> (2025-12-05 07:20:13)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47850.94 (🔻37.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.38 (🔺1.81 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 155.02 (🔻0.15 : 2025-12-04)</span>
+<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47850.94 (🔻37.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.38 (🔺1.81 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 155.02 (🔻0.16 : 2025-12-04)</span>
   </div>
 </div>
 
@@ -32,94 +32,108 @@
 
 ## News Headlines
 
-1. ルーシー・リュー主演・製作、苦悩する息子を守る母の物語
-2. ステランティスCEO、米国市場でハイブリッド車を重視
-3. 米上院議員、航空会社に長遅延時の現金補償を義務化へ
-4. プーチン大統領、インド訪問で経済・外交関係を維持
-5. アップル、法務顧問・政策責任者の退任を発表
-6. 富裕層けん引、年末年始の海外旅行増加で二極化鮮明に
+1. Spotifyの「リスニング年齢」機能が物議、実年齢との乖離にユーザー困惑
+2. トランプ政権、移民取り締まりをソマリア系コミュニティへ拡大
+3. シリア経済成長加速、制裁緩和と難民帰還が追い風
+4. Apple、創業50年を前に人材流出、CEO交代説も浮上
+5. 出国税、2026年度から3000円へ引き上げ検討、ビジネスクラスは5000円案も
+6. 年末年始旅行は高額・遠方・長期化、富裕層が牽引
 
 ----
 
-@npr.org
+@wsj.com
 
-In Rosemead, Lucy Liu plays the role of an ailing mother who takes drastic measures to try to protect her troubled teenage son from himself. Liu also produced the film, based on a true story. n.pr/3KgFn2V
+Spotify’s “listening age” feature has sent the music streaming platform’s listeners into a tizzy over being declared decades older and, by some interpretations, perhaps not-so-cool.
 
-[2025-12-05 07:05:27](https://bsky.app/profile/npr.org/post/3m76y5gykf32e)
+[2025-12-05 07:28:37](https://bsky.app/profile/wsj.com/post/3m76zguckad24)
+
+---
+
+@axios.com
+
+Trump has directed his crackdown on immigrants toward the U.S. Somali community, with his administration accusing Somalis in the U.S. of widespread fraud. Here's what to know.
+
+[2025-12-05 07:26:37](https://bsky.app/profile/axios.com/post/3m76zdbjaws26)
 
 ---
 
 @reuters.com
 
-Stellantis CEO says hybrids are a top priority for the US market reut.rs/4iAAj5U
+Syria's growth accelerates as sanctions ease, refugees return, central bank chief says reut.rs/3XBZiw7
 
-[2025-12-05 07:05:05](https://bsky.app/profile/reuters.com/post/3m76y4rrbic22)
-
----
-
-@cnbc.com
-
-Stocks making the biggest moves after hours: DocuSign, SoFi Technologies, Ulta, Hewlett Packard Enterprises and more
-
-[2025-12-05 07:04:58](https://bsky.app/profile/cnbc.com/post/3m76y4kn5ke2r)
+[2025-12-05 07:25:09](https://bsky.app/profile/reuters.com/post/3m76zanpikx2k)
 
 ---
 
-@reuters.com
+@nikkei.com
 
-US senators want airlines to pay passengers cash for long delays reut.rs/4pPL3Qq
+Apple、創業50年を前に人材流出ショック　CEO交代説も
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-05 07:00:47](https://bsky.app/profile/reuters.com/post/3m76xv3pbiq2e)
+アップルで20年近くデザイン部門を率いたアラン・ダイ氏がメタへ。
 
----
+就任から14年を迎えたティム・クックCEOの去就も取り沙汰されています。
 
-@usatoday.com
-
-Kim Kardashian reveals in the Dec. 4 episode of "The Kardashians" that she was left "hysterically crying" after a thief's "very noble" gesture.
-
-[2025-12-05 07:00:43](https://bsky.app/profile/usatoday.com/post/3m76xuy5g7r2h)
+[2025-12-05 07:22:11](https://bsky.app/profile/nikkei.com/post/3m76z3dywqm2e)
 
 ---
 
 @nbcnews.com
 
-Palestinians extinguish a fire that engulfed tents after an Israeli missile strike at an encampment in western Khan Younis, Gaza.
+Justice Democrats, a national progressive group, endorses Melat Kiros, a lawyer and barista, in her campaign against Democratic Rep. Diana DeGette in Colorado's 1st District.
 
-[2025-12-05 07:00:27](https://bsky.app/profile/nbcnews.com/post/3m76xui4tjo2y)
-
----
-
-@cnn.com
-
-Analysis: The controversy over the Trump administration’s second strike on an alleged drug boat in the Caribbean has surfaced a long-overdue debate about its already legally dubious first strikes. 
-
-[2025-12-05 07:00:23](https://bsky.app/profile/cnn.com/post/3m76xuebujp2m)
+[2025-12-05 07:20:13](https://bsky.app/profile/nbcnews.com/post/3m76yxtalth2j)
 
 ---
 
-@washingtonpost.com
+@nytimes.com
 
-Cecilia Milbourne’s death on a dangerous Los Angeles road highlights the failure of Vision Zero, a U.S. initiative to reduce traffic deaths.
+Since D’Angelo’s death, our critic Wesley Morris keeps returning to “Black Messiah” — to him, a perfect final album. What makes an artist’s last record resonate with us long after they’re gone? He listens back to some last albums that have haunted him. nyti.ms/4rEAX6A
 
-A Post investigation found that cities often prioritize vehicle traffic over pedestrian safety.
-
-[2025-12-05 07:00:20](https://bsky.app/profile/washingtonpost.com/post/3m76xubwhtj2o)
+[2025-12-05 07:18:07](https://bsky.app/profile/nytimes.com/post/3m76yu3olpr2g)
 
 ---
 
-@aljazeera.com
+@nikkei.com
 
-Putin questions US pressure on India's Russian oil purchases as Modi gives the Russian president a warm welcome.
+出国税1000円→3000円を軸に検討　政府・与党、2026年度から
+www.nikkei.com/article/DGXZQO...
+ 
+出国税は日本人、外国人にかかわらず日本を出国する際にかかり、チケット代に上乗せされます。24年度は524億円の税収がありましたが、税額引き上げで年間1500億円規模となります。
+ 
+将来は、ビジネスクラス以上の座席の利用客は5000円に引き上げるよう検討します。
+ 
+#ニュース
 
-[2025-12-05 07:00:19](https://bsky.app/profile/aljazeera.com/post/3m76xuap4hc2c)
+[2025-12-05 07:15:57](https://bsky.app/profile/nikkei.com/post/3m76yq7cpq72l)
 
 ---
 
-@apnews.com
+@reuters.com
 
-“Five Nights at Freddy’s 2" builds on the first film's chaotic foundation with even more confusion, says Associated Press critic Mark Kennedy.
+Succession at LVMH? We don't talk about it, says Arnault's wife reut.rs/3XxUN5R
 
-[2025-12-05 07:00:01](https://bsky.app/profile/apnews.com/post/3m76xtpu3bx2p)
+[2025-12-05 07:15:09](https://bsky.app/profile/reuters.com/post/3m76yorg6ad22)
+
+---
+
+@usatoday.com
+
+The White House has hired a new lead architect for President Donald Trump's White House ballroom after he clashed with the project's original architect over the size of the massive addition.
+
+Read more: bit.ly/4oukHlP
+
+[2025-12-05 07:15:08](https://bsky.app/profile/usatoday.com/post/3m76yoqcvaz2u)
+
+---
+
+@en.afp.com
+
+Three countries on Thursday pulled out of the Eurovision Song Contest after organisers opted not to vote on Israel's future participation, allowing it to take part in next year's event.
+
+u.afp.com/S74i
+
+[2025-12-05 07:15:07](https://bsky.app/profile/en.afp.com/post/3m76yoptc772x)
 
 ---
 
