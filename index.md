@@ -1,9 +1,9 @@
-# [2025-12-04 20:10 updated](2025_12_04.md)
+# [2025-12-04 20:30 updated](2025_12_04.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">One thing has bucked the trend of rising prices: computing. Technological advances have underpinned a consistent drop in the cost of computers. But experts say that this may be reaching a limit. n.pr/44P9DZw <a href="https://bsky.app/profile/npr.org/post/3m75tged2qc2y" target="_blank">npr.org</a> (2025-12-04 20:08:18)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】ウナギ国際取引の規制案「否決」を正式決定 ワシントン条約締約国会議全体会合 (2025年12月4日 20:07) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m75tf7aufl2m" target="_blank">sokuho.news</a> (2025-12-04 20:07:39)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】ウナギ取引規制「否決」確定 国際会議で日本の主張認められる (2025-12-04 20:07) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m75tejivjv27" target="_blank">sokuho.news</a> (2025-12-04 20:07:16)</span><span style="padding-right:50px;">India's IndusInd Bank denies report of talks to bring in strategic partner reut.rs/48huy9U <a href="https://bsky.app/profile/reuters.com/post/3m75tanpj5h2w" target="_blank">reuters.com</a> (2025-12-04 20:05:07)</span><span style="padding-right:50px;">The New York Times and its intelligence reporter Julian E. Barnes have sued the Trump administration, saying the Defense Department’s new press rules violate their free speech and due-process rights. <a href="https://bsky.app/profile/wsj.com/post/3m75t5aonmj2j" target="_blank">wsj.com</a> (2025-12-04 20:03:12)</span>
+<span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】小城市牛津町で建物火災 (2025-12-04 20:15) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m75uh2ulhh2m" target="_blank">sokuho.news</a> (2025-12-04 20:26:36)</span><span style="padding-right:50px;">From Breakingviews - Breakingviews - Shell’s output hole is a reason to gulp down Galp reut.rs/4pbY8DG <a href="https://bsky.app/profile/reuters.com/post/3m75ueddctv2i" target="_blank">reuters.com</a> (2025-12-04 20:25:04)</span><span style="padding-right:50px;">ガザ地区 遺体1人返還もイスラエルが軍事作戦 合意履行が課題 https://news.web.nhk/newsweb/na/na-k10014994231000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75uclkiie2g" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-04 20:24:03)</span><span style="padding-right:50px;">Treasury yields inch higher as traders continue to bet on a December rate cut <a href="https://bsky.app/profile/cnbc.com/post/3m75u72yc5z2s" target="_blank">cnbc.com</a> (2025-12-04 20:22:07)</span><span style="padding-right:50px;">🇵🇸 UAE organises mass wedding for 54 couples amid ruins in Gaza  Waving UAE flags, cheerful crowds celebrate the mass wedding of 54 Palestinian couples, held amid the ruins of destroyed buildings in Gaza's Khan Yunis. The initiative, dubbed 'The Dress of Joy', is organised by the United Arab Emirates <a href="https://bsky.app/profile/en.afp.com/post/3m75u4wpeqn2k" target="_blank">en.afp.com</a> (2025-12-04 20:20:56)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47882.90 (🔺511.28 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23454.09 (🔺138.51 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 179.59 (🔻1.49 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 154.55 (🔻0.63 : 2025-12-04)</span>
+<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47882.90 (🔺511.28 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23454.09 (🔺138.51 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 179.59 (🔻1.49 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 154.57 (🔻0.61 : 2025-12-04)</span>
   </div>
 </div>
 
@@ -32,109 +32,107 @@
 
 ## News Headlines
 
-1. ウナギ国際取引規制案、否決が確定
-2. インド IndusInd銀行、戦略的パートナー導入報道を否定
-3. NYタイムズ、国防総省の報道規制を提訴
-4. NVIDIA幹部「日本はもうロボット大国ではない」AIで一変
-5. 芦田愛菜主演か？『薬屋のひとりごと』実写化報道に反響
-6. 北海道 鈴木知事、泊原発を視察
+1. 小城市で建物火災発生
+2. シェルの減産、ガルプ買収の理由に
+3. ガザ地区遺体返還も軍事作戦、合意履行が課題
+4. UAE、ガザで合同結婚式を開催
+5. 就職面接、ビデオ通話不具合で評価低下
+6. ウナギ全種類規制案、否決確定
 
 ----
-
-@npr.org
-
-One thing has bucked the trend of rising prices: computing. Technological advances have underpinned a consistent drop in the cost of computers. But experts say that this may be reaching a limit. n.pr/44P9DZw
-
-[2025-12-04 20:08:18](https://bsky.app/profile/npr.org/post/3m75tged2qc2y)
-
----
-
-@sokuho.news
-
-🔔ANNより【速報】です。
-
-【速報】ウナギ国際取引の規制案「否決」を正式決定 ワシントン条約締約国会議全体会合
-(2025年12月4日 20:07) #ニュース
-
-[2025-12-04 20:07:39](https://bsky.app/profile/sokuho.news/post/3m75tf7aufl2m)
-
----
 
 @sokuho.news
 
 🛎️FNNより【速報】です。
 
-【速報】ウナギ取引規制「否決」確定 国際会議で日本の主張認められる
-(2025-12-04 20:07) #ニュース
+【速報】小城市牛津町で建物火災
+(2025-12-04 20:15) #ニュース
 
-[2025-12-04 20:07:16](https://bsky.app/profile/sokuho.news/post/3m75tejivjv27)
-
----
-
-@reuters.com
-
-India's IndusInd Bank denies report of talks to bring in strategic partner reut.rs/48huy9U
-
-[2025-12-04 20:05:07](https://bsky.app/profile/reuters.com/post/3m75tanpj5h2w)
-
----
-
-@wsj.com
-
-The New York Times and its intelligence reporter Julian E. Barnes have sued the Trump administration, saying the Defense Department’s new press rules violate their free speech and due-process rights.
-
-[2025-12-04 20:03:12](https://bsky.app/profile/wsj.com/post/3m75t5aonmj2j)
-
----
-
-@bloomberg.com
-
-German Chancellor Friedrich Merz’s unwieldy ruling alliance with the Social Democrats is facing an existential crisis of its own making that could trigger its demise after only seven months in office
-
-[2025-12-04 20:03:07](https://bsky.app/profile/bloomberg.com/post/3m75t53uo3u2s)
-
----
-
-@cnn.com
-
-Menopause has a wide range of symptoms and brings several health risks. Yet people worldwide know little about it and awareness and care services remain inadequate, experts warn. 
-
-Here’s what everyone needs to know. https://cnn.it/48ge6qu
-
-[2025-12-04 20:01:03](https://bsky.app/profile/cnn.com/post/3m75szfohou2v)
+[2025-12-04 20:26:36](https://bsky.app/profile/sokuho.news/post/3m75uh2ulhh2m)
 
 ---
 
 @reuters.com
 
-NBA roundup: Jamal Murray nets 52 as Nuggets extend road win streak reut.rs/446pbIf
+From Breakingviews - Breakingviews - Shell’s output hole is a reason to gulp down Galp reut.rs/4pbY8DG
 
-[2025-12-04 20:00:56](https://bsky.app/profile/reuters.com/post/3m75sz6r6au22)
+[2025-12-04 20:25:04](https://bsky.app/profile/reuters.com/post/3m75ueddctv2i)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+ガザ地区 遺体1人返還もイスラエルが軍事作戦 合意履行が課題
+https://news.web.nhk/newsweb/na/na-k10014994231000
+
+[2025-12-04 20:24:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75uclkiie2g)
 
 ---
 
 @cnbc.com
 
-Amina AlTai doesn’t agree with the adage “Do what you love, and you’ll never work a day in your life.”
+Treasury yields inch higher as traders continue to bet on a December rate cut
 
-For one, “passion by nature is fickle,” AlTai tells CNBC Make It: “It’s meant to change a lot in our lifetimes.”
+[2025-12-04 20:22:07](https://bsky.app/profile/cnbc.com/post/3m75u72yc5z2s)
 
-[2025-12-04 20:00:36](https://bsky.app/profile/cnbc.com/post/3m75sylfynm2g)
+---
+
+@en.afp.com
+
+🇵🇸 UAE organises mass wedding for 54 couples amid ruins in Gaza
+
+Waving UAE flags, cheerful crowds celebrate the mass wedding of 54 Palestinian couples, held amid the ruins of destroyed buildings in Gaza's Khan Yunis. The initiative, dubbed 'The Dress of Joy', is organised by the United Arab Emirates
+
+[2025-12-04 20:20:56](https://bsky.app/profile/en.afp.com/post/3m75u4wpeqn2k)
+
+---
+
+@wsj.com
+
+Soaring tech valuations and stock-market gains have boosted the number of billionaires and the wealth they hold.
+
+[2025-12-04 20:20:34](https://bsky.app/profile/wsj.com/post/3m75u4cause2p)
+
+---
+
+@nbcnews.com
+
+This is the first holiday shopping season since the Trump administration made a major change to customs rules, extending tariffs and customs fees to low-value packages that had long been exempt.
+
+[2025-12-04 20:20:16](https://bsky.app/profile/nbcnews.com/post/3m75u3r6kux2j)
+
+---
+
+@aljazeera.com
+
+What does Netanyahu want to be pardoned for and is it possible?
+
+The Israeli PM faces three corruption cases filed in 2019 that could see him sentenced to up to 10 years in prison.
+
+👉 aje.io/jbzjn8
+
+[2025-12-04 20:20:01](https://bsky.app/profile/aljazeera.com/post/3m75u3clvbs25)
+
+---
+
+@aljazeera.com
+
+More than 200 cultural and public figures are calling for the release of Marwan Barghouti, the jailed Palestinian leader held by Israel since the early 2000s, after he was not released in the October prisoner exchange under the Gaza ceasefire deal. #Infograph
+
+[2025-12-04 20:19:29](https://bsky.app/profile/aljazeera.com/post/3m75u2eazvk25)
 
 ---
 
 @nikkei.com
 
-NVIDIA幹部「日本、もうロボット大国ではない」　AIで一変
+就職面接、ビデオ通話で不具合なら評価低下
 www.nikkei.com/article/DGXZQO...
 
-AIがロボットを自律制御する「フィジカルAI」時代の到来を強調。
+映像のゆがみや音声とのズレがあると、採用する意欲が低下するとの調査結果。
 
-厨房や介護現場といったこれまで導入が困難だった領域にもロボットが広がると指摘しました。
+通信障害や機器の動作の悪さが、人生の重要な局面に影響を与えると米コロンビア大学は警鐘を鳴らします。
 
-一方で、産業用ロボットに関しては日本の強みは揺らいでいないといいます。
-
-[2025-12-04 20:00:27](https://bsky.app/profile/nikkei.com/post/3m75sydetlq2k)
+[2025-12-04 20:16:27](https://bsky.app/profile/nikkei.com/post/3m75tuwu2tw2t)
 
 ---
 
