@@ -1,9 +1,9 @@
-# [2025-12-05 02:10 updated](2025_12_05.md)
+# [2025-12-05 02:30 updated](2025_12_05.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Subaru, BMW top Consumer Reports' top auto brands; Toyota named most reliable, with Tesla most improved <a href="https://bsky.app/profile/yahoofinance.com/post/3m76hg3iamz2y" target="_blank">yahoofinance.com</a> (2025-12-05 02:06:04)</span><span style="padding-right:50px;">The European Union expects to launch the formal bidding process for artificial-intelligence gigafactories early next year as the bloc seeks to catch up with the U.S. in the AI race. <a href="https://bsky.app/profile/wsj.com/post/3m76hevw4uv2r" target="_blank">wsj.com</a> (2025-12-05 02:05:24)</span><span style="padding-right:50px;">US weekly jobless claims tumble to lowest level in more than three years reut.rs/3XA7AVm <a href="https://bsky.app/profile/reuters.com/post/3m76heezk5o22" target="_blank">reuters.com</a> (2025-12-05 02:05:07)</span><span style="padding-right:50px;">There are kids who grow up to be successful, and there are kids who grow up to be "exceptional." Psychologist Kumar Mehta explains the difference, and how parents can raise exceptional kids. <a href="https://bsky.app/profile/cnbc.com/post/3m76hdpnzfy2e" target="_blank">cnbc.com</a> (2025-12-05 02:04:44)</span><span style="padding-right:50px;">'Like first aid for manuscripts': Recovery work begins at Gaza's war-damaged heritage sites <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m76h5so2p22q" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-05 02:01:25)</span>
+<span style="padding-right:50px;">No texting. No visitors. No escape. She was caught in India’s new digital nightmare. <a href="https://bsky.app/profile/bloomberg.com/post/3m76induih72m" target="_blank">bloomberg.com</a> (2025-12-05 02:28:01)</span><span style="padding-right:50px;">In Jay Kelly, Clooney plays an emotionally stunted movie star struggling with work and family life. He can relate: "We're all balancing it. We're never getting it perfect." n.pr/3KxixUK <a href="https://bsky.app/profile/npr.org/post/3m76ijsolti2f" target="_blank">npr.org</a> (2025-12-05 02:26:02)</span><span style="padding-right:50px;">Dollar General raises annual profit forecast as low prices pull in bargain hunters reut.rs/3MaAfxU <a href="https://bsky.app/profile/reuters.com/post/3m76ii3j76b2r" target="_blank">reuters.com</a> (2025-12-05 02:25:05)</span><span style="padding-right:50px;">BP in advanced talks to sell $8bn Castrol unit to US group Stonepeak on.ft.com/4oz6V1g <a href="https://bsky.app/profile/financialtimes.com/post/3m76id4fjpo26" target="_blank">financialtimes.com</a> (2025-12-05 02:22:18)</span><span style="padding-right:50px;">Why more retirees may be warming up to crypto <a href="https://bsky.app/profile/yahoofinance.com/post/3m76ib4g4cv2d" target="_blank">yahoofinance.com</a> (2025-12-05 02:21:11)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47793.42 (🔻94.74 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23483.57 (🔻43.72 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.61 (🔺2.04 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 154.94 (🔻0.24 : 2025-12-04)</span>
+<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47844.31 (🔻43.85 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23472.30 (🔻55.00 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.54 (🔺1.97 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 154.90 (🔻0.28 : 2025-12-04)</span>
   </div>
 </div>
 
@@ -32,93 +32,92 @@
 
 ## News Headlines
 
-1.  消費者レポート：スバル、BMWがトップブランド、トヨタは信頼性No.1、テスラが最も改善
-2.  EU、AIギガファクトリー入札を来年初旬に開始へ、米国追撃を目指す
-3.  米失業保険申請件数、3年超ぶりの低水準に急落
-4.  ガザの戦災遺産修復作業が開始
-5.  マーク・キューバン氏、ジェネリック医薬品製造促進のためトランプ氏に薬価引き下げ支持を求める
-6.  バージニア州でアライグマが酒屋を襲撃、トイレで泥酔して倒れる
+1. インド、デジタル監視の悪夢が現実化
+2. ダラー・ジェネラル、低価格戦略で利益予測を上方修正
+3. BP、カストロール事業を80億ドルで米ストーンピークに売却へ
+4. 5歳未満の子どもの死亡、年間20万人以上増加の可能性 - ゲイツ財団報告
+5. 米失業保険申請件数、3年超ぶりの低水準
+6. メタ、メタバースへの投資を削減しAIに注力
 
 ----
 
-@yahoofinance.com
+@bloomberg.com
 
-Subaru, BMW top Consumer Reports' top auto brands; Toyota named most reliable, with Tesla most improved
+No texting. No visitors. No escape. She was caught in India’s new digital nightmare.
 
-[2025-12-05 02:06:04](https://bsky.app/profile/yahoofinance.com/post/3m76hg3iamz2y)
+[2025-12-05 02:28:01](https://bsky.app/profile/bloomberg.com/post/3m76induih72m)
 
 ---
 
-@wsj.com
+@npr.org
 
-The European Union expects to launch the formal bidding process for artificial-intelligence gigafactories early next year as the bloc seeks to catch up with the U.S. in the AI race.
+In Jay Kelly, Clooney plays an emotionally stunted movie star struggling with work and family life. He can relate: "We're all balancing it. We're never getting it perfect." n.pr/3KxixUK
 
-[2025-12-05 02:05:24](https://bsky.app/profile/wsj.com/post/3m76hevw4uv2r)
+[2025-12-05 02:26:02](https://bsky.app/profile/npr.org/post/3m76ijsolti2f)
 
 ---
 
 @reuters.com
 
-US weekly jobless claims tumble to lowest level in more than three years reut.rs/3XA7AVm
+Dollar General raises annual profit forecast as low prices pull in bargain hunters reut.rs/3MaAfxU
 
-[2025-12-05 02:05:07](https://bsky.app/profile/reuters.com/post/3m76heezk5o22)
+[2025-12-05 02:25:05](https://bsky.app/profile/reuters.com/post/3m76ii3j76b2r)
+
+---
+
+@financialtimes.com
+
+BP in advanced talks to sell $8bn Castrol unit to US group Stonepeak on.ft.com/4oz6V1g
+
+[2025-12-05 02:22:18](https://bsky.app/profile/financialtimes.com/post/3m76id4fjpo26)
+
+---
+
+@yahoofinance.com
+
+Why more retirees may be warming up to crypto
+
+[2025-12-05 02:21:11](https://bsky.app/profile/yahoofinance.com/post/3m76ib4g4cv2d)
+
+---
+
+@nbcnews.com
+
+With the new year just weeks away, the color experts at Pantone have declared 2026’s official Color of the Year is “Cloud Dancer.”
+
+[2025-12-05 02:20:06](https://bsky.app/profile/nbcnews.com/post/3m76i76mbs327)
 
 ---
 
 @cnbc.com
 
-There are kids who grow up to be successful, and there are kids who grow up to be "exceptional." Psychologist Kumar Mehta explains the difference, and how parents can raise exceptional kids.
+The first step workers should take after a layoff, as job losses soar
 
-[2025-12-05 02:04:44](https://bsky.app/profile/cnbc.com/post/3m76hdpnzfy2e)
+[2025-12-05 02:16:16](https://bsky.app/profile/cnbc.com/post/3m76hyd7auy2s)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@cnbc.com
 
-'Like first aid for manuscripts': Recovery work begins at Gaza's war-damaged heritage sites
+Top analyst Mayo says deregulation to spark bank M&A boom. Here are his takeover candidates
 
-[2025-12-05 02:01:25](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m76h5so2p22q)
+[2025-12-05 02:15:19](https://bsky.app/profile/cnbc.com/post/3m76hwmjfih2f)
 
 ---
 
 @reuters.com
 
-Mark Cuban seeks Trump’s backing for drug fee relief to spur generics manufacturing reut.rs/49Xst4i
+Exclusive: Hungary's MOL interested in Lukoil assets, sources say reut.rs/3Mm1tS3
 
-[2025-12-05 02:01:21](https://bsky.app/profile/reuters.com/post/3m76h5nqfhr2a)
-
----
-
-@usatoday.com
-
-An investigation into 158 youth motocross deaths shows inconsistent safety measures cause preventable fatalities nationwide.
-
-[2025-12-05 02:01:00](https://bsky.app/profile/usatoday.com/post/3m76h4ztpfy2d)
+[2025-12-05 02:15:08](https://bsky.app/profile/reuters.com/post/3m76hwcsrex26)
 
 ---
 
-@cnn.com
+@forbes.com
 
-Young adults say, 57% to 13%, that things in the country are generally on the wrong track, rather than headed in the right direction. Just 32% describe the US as a healthy democracy or one that's "somewhat functioning, according to a Harvard Institute of Politics survey.
-https://cnn.it/4ozYX8f
+An annual report from the Gates Foundation found deaths in children under 5 could rise by more than 200,000 from last year.
 
-[2025-12-05 02:00:56](https://bsky.app/profile/cnn.com/post/3m76h4vqtbl2b)
-
----
-
-@aljazeera.com
-
-US President Donald Trump will meet the leaders of Rwanda and the Democratic Republic of the Congo in Washington.
-
-[2025-12-05 02:00:56](https://bsky.app/profile/aljazeera.com/post/3m76h4vilh627)
-
----
-
-@washingtonpost.com
-
-The Trump administration is coming under increased scrutiny over senior officials’ shifting explanations for the actions surrounding two September strikes by U.S. forces on a boat that was allegedly smuggling drugs in the Caribbean Sea. 
-
-[2025-12-05 02:00:54](https://bsky.app/profile/washingtonpost.com/post/3m76h4tuvbl2r)
+[2025-12-05 02:15:03](https://bsky.app/profile/forbes.com/post/3m76hw6ol2n26)
 
 ---
 
