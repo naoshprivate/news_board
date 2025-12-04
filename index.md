@@ -1,9 +1,9 @@
-# [2025-12-05 04:50 updated](2025_12_05.md)
+# [2025-12-05 05:10 updated](2025_12_05.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Thomas Mueller says his past results against Lionel Messi will count for little when he lines up for the Vancouver Whitecaps against Inter Miami in the MLS Cup final on Saturday. u.afp.com/S7ZF <a href="https://bsky.app/profile/en.afp.com/post/3m76qgj2g6e2k" target="_blank">en.afp.com</a> (2025-12-05 04:47:21)</span><span style="padding-right:50px;">South African rand firms as government offers eurobonds reut.rs/4rBmgRO <a href="https://bsky.app/profile/reuters.com/post/3m76qcjx7i42k" target="_blank">reuters.com</a> (2025-12-05 04:45:08)</span><span style="padding-right:50px;">Canada's Ivey PMI shows activity contracting in November as employment falls reut.rs/447Tw9c <a href="https://bsky.app/profile/reuters.com/post/3m76pzqjjuy22" target="_blank">reuters.com</a> (2025-12-05 04:40:13)</span><span style="padding-right:50px;">Several female lawmakers have been increasingly defying Speaker Mike Johnson on legislative matters and lobbing public broadsides at him — including a member of Johnson’s own leadership team. nbcnews.to/48QIAPX <a href="https://bsky.app/profile/nbcnews.com/post/3m76pzpo73d2j" target="_blank">nbcnews.com</a> (2025-12-05 04:40:12)</span><span style="padding-right:50px;">OPEC oil output slips in November despite agreed hike, survey finds reut.rs/48PWi5E <a href="https://bsky.app/profile/reuters.com/post/3m76pqj34cg2i" target="_blank">reuters.com</a> (2025-12-05 04:35:04)</span>
+<span style="padding-right:50px;">Fanatics wades into prediction markets as users seek fresh trading options reut.rs/3XBFCZh <a href="https://bsky.app/profile/reuters.com/post/3m76rg5lzcp2r" target="_blank">reuters.com</a> (2025-12-05 05:05:03)</span><span style="padding-right:50px;">To get a White Elephant party going, you need the right gifts—the guffaw-inducing, the ridiculous and the purely delightful. Bonus: These gifts are all under $25. <a href="https://bsky.app/profile/nytimes.com/post/3m76rcjw56k2m" target="_blank">nytimes.com</a> (2025-12-05 05:03:02)</span><span style="padding-right:50px;">A bartenders’ guide to the best cocktails in Washington on.ft.com/49TOcdn <a href="https://bsky.app/profile/financialtimes.com/post/3m76rau6uj32l" target="_blank">financialtimes.com</a> (2025-12-05 05:02:06)</span><span style="padding-right:50px;">India’s telecoms ministry rolls back its order for smartphone manufacturers to preinstall a government-run cybersecurity app on new devices. <a href="https://bsky.app/profile/nbcnews.com/post/3m76r7xbtar2r" target="_blank">nbcnews.com</a> (2025-12-05 05:01:35)</span><span style="padding-right:50px;">Farage brands BBC ‘despicable’ after tense clash over antisemitism allegations on.ft.com/48mMEY4 <a href="https://bsky.app/profile/financialtimes.com/post/3m76r7vseuo2q" target="_blank">financialtimes.com</a> (2025-12-05 05:01:34)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47821.64 (🔻66.52 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23479.04 (🔻48.26 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.20 (🔺1.63 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 154.99 (🔻0.19 : 2025-12-04)</span>
+<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47767.43 (🔻120.73 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23457.21 (🔻70.08 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 182.63 (🔺1.06 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 155.00 (🔻0.18 : 2025-12-04)</span>
   </div>
 </div>
 
@@ -32,92 +32,92 @@
 
 ## News Headlines
 
-1.  ミューラー、メッシとの過去の対戦結果は意味がないと語る
-2.  南アフリカランド、政府のユーロ債発行で上昇
-3.  カナダのIvey PMI、11月に活動が縮小、雇用も減少
-4.  OPECの石油生産量、合意された増産にもかかわらず11月に減少
-5.  メタ、メタバース部門の予算を最大30%削減へ
-6.  CDCパネル、B型肝炎ワクチン推奨変更の投票を再び延期
+1.  Fanatics、予測市場に参入
+2.  インド、スマホへの政府サイバーセキュリティアプリのプリインストール義務を撤回
+3.  Trustpilot株、Grizzly Researchの空売りで急落
+4.  ケニア大統領、サウジアラビアでの女性労働者虐待問題で圧力
+5.  ナイジェリアでカトリック司祭が誘拐
+6.  Meta、メタバース予算を最大30%削減へ
 
 ----
 
-@en.afp.com
-
-Thomas Mueller says his past results against Lionel Messi will count for little when he lines up for the Vancouver Whitecaps against Inter Miami in the MLS Cup final on Saturday. u.afp.com/S7ZF
-
-[2025-12-05 04:47:21](https://bsky.app/profile/en.afp.com/post/3m76qgj2g6e2k)
-
----
-
 @reuters.com
 
-South African rand firms as government offers eurobonds reut.rs/4rBmgRO
+Fanatics wades into prediction markets as users seek fresh trading options reut.rs/3XBFCZh
 
-[2025-12-05 04:45:08](https://bsky.app/profile/reuters.com/post/3m76qcjx7i42k)
-
----
-
-@reuters.com
-
-Canada's Ivey PMI shows activity contracting in November as employment falls reut.rs/447Tw9c
-
-[2025-12-05 04:40:13](https://bsky.app/profile/reuters.com/post/3m76pzqjjuy22)
-
----
-
-@nbcnews.com
-
-Several female lawmakers have been increasingly defying Speaker Mike Johnson on legislative matters and lobbing public broadsides at him — including a member of Johnson’s own leadership team. nbcnews.to/48QIAPX
-
-[2025-12-05 04:40:12](https://bsky.app/profile/nbcnews.com/post/3m76pzpo73d2j)
-
----
-
-@reuters.com
-
-OPEC oil output slips in November despite agreed hike, survey finds reut.rs/48PWi5E
-
-[2025-12-05 04:35:04](https://bsky.app/profile/reuters.com/post/3m76pqj34cg2i)
-
----
-
-@wsj.com
-
-A potential blockbuster stock offering of Fannie Mae and Freddie Mac could partially free the mortgage giants from government ownership and reap billions.
-
-[2025-12-05 04:34:30](https://bsky.app/profile/wsj.com/post/3m76ppix3t72j)
-
----
-
-@apnews.com
-
-The suspect accused of planting pipe bombs before Jan. 6 attack on the Capitol is charged with an explosives offense, Bondi says.
-
-[2025-12-05 04:34:01](https://bsky.app/profile/apnews.com/post/3m76ponspz727)
+[2025-12-05 05:05:03](https://bsky.app/profile/reuters.com/post/3m76rg5lzcp2r)
 
 ---
 
 @nytimes.com
 
-<strong><span style="color: red;">Breaking News</span>: A vaccine advisory panel again delayed voting on whether to change a decades-long recommendation that all newborns get hepatitis B vaccinations. The panel had postponed the vote twice before.</strong>
+To get a White Elephant party going, you need the right gifts—the guffaw-inducing, the ridiculous and the purely delightful. Bonus: These gifts are all under $25.
 
-[2025-12-05 04:32:01](https://bsky.app/profile/nytimes.com/post/3m76pl3ejzr27)
+[2025-12-05 05:03:02](https://bsky.app/profile/nytimes.com/post/3m76rcjw56k2m)
+
+---
+
+@financialtimes.com
+
+A bartenders’ guide to the best cocktails in Washington on.ft.com/49TOcdn
+
+[2025-12-05 05:02:06](https://bsky.app/profile/financialtimes.com/post/3m76rau6uj32l)
+
+---
+
+@nbcnews.com
+
+India’s telecoms ministry rolls back its order for smartphone manufacturers to preinstall a government-run cybersecurity app on new devices.
+
+[2025-12-05 05:01:35](https://bsky.app/profile/nbcnews.com/post/3m76r7xbtar2r)
+
+---
+
+@financialtimes.com
+
+Farage brands BBC ‘despicable’ after tense clash over antisemitism allegations on.ft.com/48mMEY4
+
+[2025-12-05 05:01:34](https://bsky.app/profile/financialtimes.com/post/3m76r7vseuo2q)
+
+---
+
+@cnn.com
+
+As billions of fans around the world tune in to watch the World Cup draw, they’ll also have the opportunity to watch FIFA President Gianni Infantino present a new, somewhat puzzling, award. https://cnn.it/4pMU7p0
+
+[2025-12-05 05:01:05](https://bsky.app/profile/cnn.com/post/3m76r6zshnb2w)
 
 ---
 
 @reuters.com
 
-Olympic downhill champion Suter sidelined for a month after fall at training reut.rs/4axHeLh
+Review platform Trustpilot's shares slump after Grizzly Research shorts stock reut.rs/4rEyDfS
 
-[2025-12-05 04:30:41](https://bsky.app/profile/reuters.com/post/3m76piopgik26)
+[2025-12-05 05:00:53](https://bsky.app/profile/reuters.com/post/3m76r6pdqkv26)
+
+---
+
+@washingtonpost.com
+
+Russian President Vladimir Putin said parts of the U.S. peace plan were unacceptable and Russia would take Ukrainian land through military or other means.
+
+[2025-12-05 05:00:22](https://bsky.app/profile/washingtonpost.com/post/3m76r5qsuy32r)
+
+---
+
+@aljazeera.com
+
+Minnesota legislator Omar Fateh says Trump's 'disgraceful' comments are meant as 'political theatre' to rally his base.
+
+[2025-12-05 05:00:18](https://bsky.app/profile/aljazeera.com/post/3m76r5ntt7s2c)
 
 ---
 
 @usatoday.com
 
-Famed color factory Pantone released its shade of the upcoming year, or perhaps more appropriately for 2026, its lack of shade.
+Pennsylvania Gov. Josh Shapiro told Atlantic magazine that former Vice President Kamala Harris told 'blatant lies' about him in campaign memoir.
 
-[2025-12-05 04:30:32](https://bsky.app/profile/usatoday.com/post/3m76pigawez2u)
+[2025-12-05 05:00:16](https://bsky.app/profile/usatoday.com/post/3m76r5lj5fr2u)
 
 ---
 
