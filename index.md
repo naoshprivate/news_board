@@ -1,9 +1,9 @@
-# [2025-12-04 16:50 updated](2025_12_04.md)
+# [2025-12-04 17:10 updated](2025_12_04.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">US halted plans to sanction Chinese spy agency to maintain trade truce, FT says reut.rs/48vOwwu <a href="https://bsky.app/profile/reuters.com/post/3m75i2ybtsk2o" target="_blank">reuters.com</a> (2025-12-04 16:45:05)</span><span style="padding-right:50px;">New Delhi recorded more than 200,000 cases of acute respiratory illnesses at six state-run hospitals between 2022 and 2024, highlighting the adverse effects of toxic air on health.   Each winter, New Delhi is shrouded in toxic smog, as cooler air traps pollutants close to the ground <a href="https://bsky.app/profile/en.afp.com/post/3m75huf4t3n2k" target="_blank">en.afp.com</a> (2025-12-04 16:41:24)</span><span style="padding-right:50px;">Kenya to sell 15% Safaricom stake to Vodacom in $1.6 billion deal reut.rs/4pIUctV <a href="https://bsky.app/profile/reuters.com/post/3m75hs47wu22o" target="_blank">reuters.com</a> (2025-12-04 16:40:07)</span><span style="padding-right:50px;">Reform UK gets £9mn donation from Christopher Harborne on.ft.com/4rCFCWE <a href="https://bsky.app/profile/financialtimes.com/post/3m75hqxopwv2w" target="_blank">financialtimes.com</a> (2025-12-04 16:39:29)</span><span style="padding-right:50px;">公明 徳島県議を除名処分 勝手に女性の裸など撮影した疑い https://news.web.nhk/newsweb/na/na-k10014993891000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75hqscvs72k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-04 16:39:20)</span>
+<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】「弁解の余地はない。非常に申し訳ないことをした」山上徹也被告が法廷で初めて謝罪 安倍元総理銃撃事件の裁判 (2025-12-04 17:07:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m75jglu5z726" target="_blank">sokuho.news</a> (2025-12-04 17:09:29)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】広範囲でガス漏れ 約1万2500世帯の供給停止 再開のめど立たず 山口・宇部市 (17:08) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m75jgjrrtj2d" target="_blank">sokuho.news</a> (2025-12-04 17:09:26)</span><span style="padding-right:50px;">Malaysia charges PM's former aide with receiving bribes reut.rs/4pjWAHX <a href="https://bsky.app/profile/reuters.com/post/3m75j6nwmn22o" target="_blank">reuters.com</a> (2025-12-04 17:05:02)</span><span style="padding-right:50px;">Hong Kong fire survivor: 'My heart breaks every time I'm called a hero' <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m75j6lkary2e" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-04 17:04:59)</span><span style="padding-right:50px;">Court sides with Adidas in appeal over Kanye West collaboration <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m75j4isvc62w" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-04 17:03:49)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47882.90 (🔺511.28 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23454.09 (🔺138.51 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 179.59 (🔻1.49 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 155.27 (🔺0.10 : 2025-12-04)</span>
+<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47882.90 (🔺511.28 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23454.09 (🔺138.51 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 179.59 (🔻1.49 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 154.99 (🔻0.19 : 2025-12-04)</span>
   </div>
 </div>
 
@@ -32,101 +32,101 @@
 
 ## News Headlines
 
-1. 米国、貿易交渉維持のため中国スパイ機関への制裁計画を停止か
-2. ニューデリー、有毒大気の影響で呼吸器疾患が多発
-3. ケニア、通信大手サファリコム株15%をボーダコムに売却
-4. 改革党、クリストファー・ハーボーン氏から900万ポンドの寄付
-5. 山上被告、遺族に初めて謝罪 - 安倍元首相銃撃事件裁判
-6. 能登半島地震、災害関連死新たに4人認定 - 死者691人に
+1.  山上被告、法廷で初謝罪「弁解の余地ない」
+2.  山口・宇部市で大規模ガス漏れ、1万2500世帯供給停止
+3.  AIバブル過熱、Googleトレンドで急上昇
+4.  能登半島地震、災害関連死で死者691人に
+5.  中日・岡林勇希、推定年俸1億5000万円で更改
+6.  公明党徳島県議を除名処分、女性の裸を無断撮影の疑い
 
 ----
 
-@reuters.com
+@sokuho.news
 
-US halted plans to sanction Chinese spy agency to maintain trade truce, FT says reut.rs/48vOwwu
+🛎️JNNより【速報】です。
 
-[2025-12-04 16:45:05](https://bsky.app/profile/reuters.com/post/3m75i2ybtsk2o)
+【速報】「弁解の余地はない。非常に申し訳ないことをした」山上徹也被告が法廷で初めて謝罪 安倍元総理銃撃事件の裁判
+(2025-12-04 17:07:00) #ニュース
 
----
-
-@en.afp.com
-
-New Delhi recorded more than 200,000 cases of acute respiratory illnesses at six state-run hospitals between 2022 and 2024, highlighting the adverse effects of toxic air on health. 
-
-Each winter, New Delhi is shrouded in toxic smog, as cooler air traps pollutants close to the ground
-
-[2025-12-04 16:41:24](https://bsky.app/profile/en.afp.com/post/3m75huf4t3n2k)
-
----
-
-@reuters.com
-
-Kenya to sell 15% Safaricom stake to Vodacom in $1.6 billion deal reut.rs/4pIUctV
-
-[2025-12-04 16:40:07](https://bsky.app/profile/reuters.com/post/3m75hs47wu22o)
-
----
-
-@financialtimes.com
-
-Reform UK gets £9mn donation from Christopher Harborne on.ft.com/4rCFCWE
-
-[2025-12-04 16:39:29](https://bsky.app/profile/financialtimes.com/post/3m75hqxopwv2w)
-
----
-
-@nhknewsunofficial.bsky.social
-
-公明 徳島県議を除名処分 勝手に女性の裸など撮影した疑い
-https://news.web.nhk/newsweb/na/na-k10014993891000
-
-[2025-12-04 16:39:20](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75hqscvs72k)
-
----
-
-@nhknewsunofficial.bsky.social
-
-沖縄 “米軍のパトロールで4月以降逮捕者101人”政府明らかに
-https://news.web.nhk/newsweb/na/na-k10014993931000
-
-[2025-12-04 16:39:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75hqeji552b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-安倍元首相銃撃事件の裁判 山上被告 遺族に初めて謝罪
-https://news.web.nhk/newsweb/na/na-k10014993311000
-
-[2025-12-04 16:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75hqa24n32r)
+[2025-12-04 17:09:29](https://bsky.app/profile/sokuho.news/post/3m75jglu5z726)
 
 ---
 
 @sokuho.news
 
-🛎️NNNより【速報】です。
+🔔ANNより【速報】です。
 
-【速報】山上徹也被告が初めて謝罪「弁解の余地ない」 妻・昭恵さんは3日に出廷 被害者参加制度を利用
-(2025-12-04 16:37) #ニュース
+【速報】広範囲でガス漏れ 約1万2500世帯の供給停止 再開のめど立たず 山口・宇部市
+(17:08) #ニュース
 
-[2025-12-04 16:37:43](https://bsky.app/profile/sokuho.news/post/3m75hnsfrec2e)
-
----
-
-@nhknewsunofficial.bsky.social
-
-来年度の診療報酬改定 基本方針了承 改定率決定へ調整本格化
-https://news.web.nhk/newsweb/na/na-k10014993901000
-
-[2025-12-04 16:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75hkuc5sq2t)
+[2025-12-04 17:09:26](https://bsky.app/profile/sokuho.news/post/3m75jgjrrtj2d)
 
 ---
 
 @reuters.com
 
-Rupee likely to extend slide as 90 breach cements weak bias, invites speculative bets reut.rs/4ozZDKK
+Malaysia charges PM's former aide with receiving bribes reut.rs/4pjWAHX
 
-[2025-12-04 16:35:04](https://bsky.app/profile/reuters.com/post/3m75hj2rkag22)
+[2025-12-04 17:05:02](https://bsky.app/profile/reuters.com/post/3m75j6nwmn22o)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Hong Kong fire survivor: 'My heart breaks every time I'm called a hero'
+
+[2025-12-04 17:04:59](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m75j6lkary2e)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Court sides with Adidas in appeal over Kanye West collaboration
+
+[2025-12-04 17:03:49](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m75j4isvc62w)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+衆院特別委 企業・団体献金の扱いなどめぐり意見交換
+https://news.web.nhk/newsweb/na/na-k10014993971000
+
+[2025-12-04 17:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75j35ksfe2g)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Previously unseen images of Jeffrey Epstein's island released 
+
+[2025-12-04 17:02:44](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m75j2kovgn2g)
+
+---
+
+@en.afp.com
+
+Visa chaos and host city threats: how Trump disrupted World Cup plans
+
+u.afp.com/ShFH
+
+[2025-12-04 17:02:18](https://bsky.app/profile/en.afp.com/post/3m75izrhthd2y)
+
+---
+
+@cnn.com
+
+With alcohol consumption declining globally, a growing number of events are looking to provide a "nightlife-style" experience for those who don't want to drink, but still want to party. https://cnn.it/4ovkgI8
+
+[2025-12-04 17:01:02](https://bsky.app/profile/cnn.com/post/3m75ixijhe72h)
+
+---
+
+@reuters.com
+
+BOJ likely to raise rates in December, government to tolerate move, sources say reut.rs/48kNxQU
+
+[2025-12-04 17:00:31](https://bsky.app/profile/reuters.com/post/3m75iwkxicp2y)
 
 ---
 
