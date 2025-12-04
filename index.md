@@ -1,9 +1,9 @@
-# [2025-12-05 01:10 updated](2025_12_05.md)
+# [2025-12-05 01:30 updated](2025_12_05.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Wall Street subdued as traders await Fed decision reut.rs/48B3l0Y <a href="https://bsky.app/profile/reuters.com/post/3m76dz3yrtk2e" target="_blank">reuters.com</a> (2025-12-05 01:05:07)</span><span style="padding-right:50px;">India backs states' clean energy projects as federal agencies struggle with unsold power reut.rs/4pmx5FZ <a href="https://bsky.app/profile/reuters.com/post/3m76drv5vb22d" target="_blank">reuters.com</a> (2025-12-05 01:01:05)</span><span style="padding-right:50px;">Dubai has a new record-breaker on its skyline — almost by accident.  https://cnn.it/48AdIlo <a href="https://bsky.app/profile/cnn.com/post/3m76drccqth2j" target="_blank">cnn.com</a> (2025-12-05 01:00:45)</span><span style="padding-right:50px;">Federal vaccine advisers selected by RFK Jr. will vote Thursday on lifting a recommendation for all newborns to get the hepatitis B vaccine.  The vaccine protects from a highly infectious virus that can cause serious lifelong liver disease, cancer and death.  <a href="https://bsky.app/profile/washingtonpost.com/post/3m76dqwgewq2a" target="_blank">washingtonpost.com</a> (2025-12-05 01:00:33)</span><span style="padding-right:50px;">Belly, Conrad and Jeremiah's big screen debut isn't happening quite yet. bit.ly/4rDpkwE <a href="https://bsky.app/profile/usatoday.com/post/3m76dqvjndj2u" target="_blank">usatoday.com</a> (2025-12-05 01:00:32)</span>
+<span style="padding-right:50px;">Even allies of Ursula von der Leyen said she was testing the limits of EU power by proposing to use emergency measures to ram through up to €210bn in loans to Ukraine. Critics said she was breaking the bloc’s laws. on.ft.com/3KGZiIj <a href="https://bsky.app/profile/financialtimes.com/post/3m76fe4ikkm23" target="_blank">financialtimes.com</a> (2025-12-05 01:29:10)</span><span style="padding-right:50px;">Brendan Nelson brings decades of experience to his new role as HSBC chairman, including as a top auditor to banks that later ran into trouble during the financial crisis. <a href="https://bsky.app/profile/wsj.com/post/3m76f67mnnm2l" target="_blank">wsj.com</a> (2025-12-05 01:25:52)</span><span style="padding-right:50px;">Meta's WhatsApp AI policy in EU antitrust crosshairs reut.rs/4pK4p9t <a href="https://bsky.app/profile/reuters.com/post/3m76f4rssrf2r" target="_blank">reuters.com</a> (2025-12-05 01:25:04)</span><span style="padding-right:50px;">The New York Times is interested in hearing how President Trump’s sweeping changes — for example, on immigration, education, health and the economy — are affecting communities all over the U.S.  Are these changes making your life in America better or worse? Tell us in the form below. <a href="https://bsky.app/profile/nytimes.com/post/3m76f4r5urr2e" target="_blank">nytimes.com</a> (2025-12-05 01:25:03)</span><span style="padding-right:50px;">New York Times sues Pentagon over new press restrictions on.ft.com/3XzPZNq <a href="https://bsky.app/profile/financialtimes.com/post/3m76ewf5bhl2r" target="_blank">financialtimes.com</a> (2025-12-05 01:21:30)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47896.92 (🔺8.76 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23418.14 (🔻109.15 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 181.93 (🔺0.36 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 154.73 (🔻0.45 : 2025-12-04)</span>
+<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47855.94 (🔻32.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23447.07 (🔻80.23 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 182.58 (🔺1.01 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 154.76 (🔻0.42 : 2025-12-04)</span>
   </div>
 </div>
 
@@ -32,95 +32,102 @@
 
 ## News Headlines
 
-1. 米国FRB政策決定を前にウォール街は様子見
-2. インド、州のクリーンエネルギー事業を支援
-3. ドバイに新たな記録破りの建築物、ほぼ偶然に誕生
-4. トランプ氏、コンゴ民主共和国、ルワンダ首脳と和平協議
-5. モロッコ、水需要の60%を海水淡水化で確保へ
-6. プーチン大統領、インド訪問で防衛関係強化
+1.  フォン・デア・ライエン氏のウクライナ支援策、EU権限の限界を試すと批判
+2.  メタのWhatsApp AI、EU反トラスト当局の監視対象に
+3.  ニューヨーク・タイムズ、ペンタゴンの新たな報道規制を提訴
+4.  トランプ氏、USMCA貿易協定からの離脱を示唆
+5.  カトリック教会の女性助祭、バチカン委員会が「ノー」
+6.  トランプ氏、コンゴ・ルワンダ両首脳を招き和平推進
 
 ----
 
-@reuters.com
+@financialtimes.com
 
-Wall Street subdued as traders await Fed decision reut.rs/48B3l0Y
+Even allies of Ursula von der Leyen said she was testing the limits of EU power by proposing to use emergency measures to ram through up to €210bn in loans to Ukraine. Critics said she was breaking the bloc’s laws. on.ft.com/3KGZiIj
 
-[2025-12-05 01:05:07](https://bsky.app/profile/reuters.com/post/3m76dz3yrtk2e)
+[2025-12-05 01:29:10](https://bsky.app/profile/financialtimes.com/post/3m76fe4ikkm23)
+
+---
+
+@wsj.com
+
+Brendan Nelson brings decades of experience to his new role as HSBC chairman, including as a top auditor to banks that later ran into trouble during the financial crisis.
+
+[2025-12-05 01:25:52](https://bsky.app/profile/wsj.com/post/3m76f67mnnm2l)
 
 ---
 
 @reuters.com
 
-India backs states' clean energy projects as federal agencies struggle with unsold power reut.rs/4pmx5FZ
+Meta's WhatsApp AI policy in EU antitrust crosshairs reut.rs/4pK4p9t
 
-[2025-12-05 01:01:05](https://bsky.app/profile/reuters.com/post/3m76drv5vb22d)
-
----
-
-@cnn.com
-
-Dubai has a new record-breaker on its skyline — almost by accident. 
-https://cnn.it/48AdIlo
-
-[2025-12-05 01:00:45](https://bsky.app/profile/cnn.com/post/3m76drccqth2j)
-
----
-
-@washingtonpost.com
-
-Federal vaccine advisers selected by RFK Jr. will vote Thursday on lifting a recommendation for all newborns to get the hepatitis B vaccine.
-
-The vaccine protects from a highly infectious virus that can cause serious lifelong liver disease, cancer and death. 
-
-[2025-12-05 01:00:33](https://bsky.app/profile/washingtonpost.com/post/3m76dqwgewq2a)
-
----
-
-@usatoday.com
-
-Belly, Conrad and Jeremiah's big screen debut isn't happening quite yet. bit.ly/4rDpkwE
-
-[2025-12-05 01:00:32](https://bsky.app/profile/usatoday.com/post/3m76dqvjndj2u)
-
----
-
-@bloomberg.com
-
-How should "Trump accounts" fit into the financial plan for your child?
-
-[2025-12-05 01:00:29](https://bsky.app/profile/bloomberg.com/post/3m76dqspijn2s)
-
----
-
-@aljazeera.com
-
-US defense secretary was accused of putting military personnel in danger when he used messaging app to discuss strikes.
-
-[2025-12-05 01:00:18](https://bsky.app/profile/aljazeera.com/post/3m76dqibkrr2h)
-
----
-
-@apnews.com
-
-Alperen Sengun had 28 points and 10 rebounds, Kevin Durant scored 24 points and the Houston Rockets beat the Sacramento Kings 121-95 on Wednesday night.
-
-[2025-12-05 01:00:15](https://bsky.app/profile/apnews.com/post/3m76dqfcyke2y)
+[2025-12-05 01:25:04](https://bsky.app/profile/reuters.com/post/3m76f4rssrf2r)
 
 ---
 
 @nytimes.com
 
-From @theathletic.com: Chris Paul was sent home in the middle of the night by the Los Angeles Clippers. Here's what went wrong.
+The New York Times is interested in hearing how President Trump’s sweeping changes — for example, on immigration, education, health and the economy — are affecting communities all over the U.S.
 
-[2025-12-05 00:59:07](https://bsky.app/profile/nytimes.com/post/3m76dof2yye2h)
+Are these changes making your life in America better or worse? Tell us in the form below.
+
+[2025-12-05 01:25:03](https://bsky.app/profile/nytimes.com/post/3m76f4r5urr2e)
+
+---
+
+@financialtimes.com
+
+New York Times sues Pentagon over new press restrictions on.ft.com/3XzPZNq
+
+[2025-12-05 01:21:30](https://bsky.app/profile/financialtimes.com/post/3m76ewf5bhl2r)
+
+---
+
+@en.afp.com
+
+🎥 Kate Winslet makes directorial debut with film written by her son
+
+Kate Winslet attends the global premiere for 'Goodbye June', her directorial debut film written by her son, Joe Anders.
+
+[2025-12-05 01:20:46](https://bsky.app/profile/en.afp.com/post/3m76ev36xxu2d)
+
+---
+
+@nbcnews.com
+
+A divided Wisconsin Supreme Court agrees to take a case brought by the ACLU on behalf of an immigrant rights group arguing that it is illegal for local jails to hold immigrant detainees at the request of federal authorities.
+
+[2025-12-05 01:20:16](https://bsky.app/profile/nbcnews.com/post/3m76eu6s4su2i)
 
 ---
 
 @reuters.com
 
-Exclusive: Congress' watchdog said it will investigate whether Federal Housing Finance Agency Director Bill Pulte abused his position and government resources to accuse President Donald Trump's perceived enemies of crimes, a letter from the agency shows reut.rs/4rS1Bcu
+Trump could decide next year to withdraw from USMCA trade deal, USTR Greer tells Politico reut.rs/4pjAPYR
 
-[2025-12-05 00:57:05](https://bsky.app/profile/reuters.com/post/3m76dkqou422e)
+[2025-12-05 01:15:10](https://bsky.app/profile/reuters.com/post/3m76el32jkp2k)
+
+---
+
+@jonathanjlevin.bsky.social
+
+Are we in a stock market bubble? 
+
+There’s a raging debate in markets about the sustainability of today’s high stock valuations, and it starts with this chart👇
+
+Shiller P/E has a strong track record of flagging bubbles, and it's flashing red.
+
+(link below)
+
+[2025-12-05 01:14:54](https://bsky.app/profile/jonathanjlevin.bsky.social/post/3m76eklrws22p)
+
+---
+
+@cnbc.com
+
+Electric aircraft maker Beta Technologies posts strong revenue growth in first report since going public
+
+[2025-12-05 01:14:10](https://bsky.app/profile/cnbc.com/post/3m76ejbwbja2i)
 
 ---
 
