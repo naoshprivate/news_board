@@ -1,9 +1,9 @@
-# [2025-12-04 11:30 updated](2025_12_04.md)
+# [2025-12-04 11:50 updated](2025_12_04.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】炎上した車両から男性遺体 放火容疑で逮捕の男を殺人容疑などで再逮捕 大阪府警 (2025-12-04 11:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m74vycg3jy2h" target="_blank">sokuho.news</a> (2025-12-04 11:21:28)</span><span style="padding-right:50px;">欧州サッカー リーズ 田中碧がプレミアリーグ初ゴール https://news.web.nhk/newsweb/na/na-k10014993601000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74vxmgo5p2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-04 11:21:03)</span><span style="padding-right:50px;">Snowflake's product revenue outlook falls short of investor ambition, shares fall reut.rs/44aQWiS <a href="https://bsky.app/profile/reuters.com/post/3m74vvycwhy2e" target="_blank">reuters.com</a> (2025-12-04 11:20:10)</span><span style="padding-right:50px;">佐川急便、本州・四国で荷物預かりを一時制限 www.nikkei.com/article/DGXZQO...  12月5日には再開する見通しで、配達業務は継続します。  大型セール「ブラックフライデー」によって配送量が増え、配達に遅延が生じていました。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m74vutih7r2w" target="_blank">nikkei.com</a> (2025-12-04 11:19:32)</span><span style="padding-right:50px;">This closer-to-home alternative offers some of St. Moritz’s shine, but with thinner, more down-to-earth crowds. <a href="https://bsky.app/profile/wsj.com/post/3m74vundibk2a" target="_blank">wsj.com</a> (2025-12-04 11:19:25)</span>
+<span style="padding-right:50px;">Meta starts to remove under-16s in Australia from Instagram, Threads and Facebook ahead of the country's world-first youth social media ban  u.afp.com/ShFo <a href="https://bsky.app/profile/en.afp.com/post/3m74x5swnij22" target="_blank">en.afp.com</a> (2025-12-04 11:42:27)</span><span style="padding-right:50px;">LIVE: Emmanuel Macron visits China  Xi Jinping welcomed Emmanuel Macron in Beijing during the French leader's fourth state visit to the Chinese capital as Europe seeks to rebalance economic and security threats from the world's second-largest economy.  www.youtube.com/watch?v=xPux... <a href="https://bsky.app/profile/reuters.com/post/3m74x4fotqs2v" target="_blank">reuters.com</a> (2025-12-04 11:41:39)</span><span style="padding-right:50px;">Plane from US carrying returned migrants lands in Venezuela, foreign minister says reut.rs/4iF5mxC <a href="https://bsky.app/profile/reuters.com/post/3m74wzviidr2n" target="_blank">reuters.com</a> (2025-12-04 11:40:15)</span><span style="padding-right:50px;">The police said on Wednesday that they were searching for an assailant who fatally shot a man in the food court at the MGM National Harbor Hotel and Casino in Oxon Hill, Maryland, near Washington, D.C. <a href="https://bsky.app/profile/nytimes.com/post/3m74wzmrdm62g" target="_blank">nytimes.com</a> (2025-12-04 11:40:06)</span><span style="padding-right:50px;">トランプ大統領 ベネズエラ麻薬製造拠点など軍事作戦の可能性 https://news.web.nhk/newsweb/na/na-k10014993661000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74wxsfhu22u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-04 11:39:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50530.07 (🔺587.13 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47882.90 (🔺511.28 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23454.09 (🔺138.51 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 179.59 (🔻1.48 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3059.00 (🔺31.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 155.38 (🔺0.20 : 2025-12-04)</span>
+<span style="padding-right:50px;">NIKKEI: 50596.24 (🔺653.30 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47882.90 (🔺511.28 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23454.09 (🔺138.51 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 179.59 (🔻1.49 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺32.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 155.37 (🔺0.19 : 2025-12-04)</span>
   </div>
 </div>
 
@@ -32,71 +32,59 @@
 
 ## News Headlines
 
-1. 大阪府警、放火容疑の男を殺人容疑で再逮捕
-2. 田中碧、プレミアリーグ初ゴール
-3. 佐川急便、本州・四国で荷物預かり一時制限
-4. 通学路で見守り活動中の男性切りつけられる、男を逮捕
-5. 益田市で70代男性がクマに襲われる
-6. 2025年出生数、過去最少66.5万人予測
+1. Meta、豪州で16歳未満の利用者をInstagramなどから削除
+2. マクロン大統領、中国を訪問
+3. ベネズエラ、米国からの帰還移民を乗せた航空機を受け入れ
+4. 沖縄・宮古島近くで船転覆、日本人男性ら3人行方不明
+5. 大阪で放火容疑の男を殺人容疑で再逮捕、炎上車両から男性遺体
+6. トランプ氏、ベネズエラ麻薬製造拠点への軍事作戦を示唆
 
 ----
 
-@sokuho.news
+@en.afp.com
 
-🛎️FNNより【速報】です。
+Meta starts to remove under-16s in Australia from Instagram, Threads and Facebook ahead of the country's world-first youth social media ban
 
-【速報】炎上した車両から男性遺体 放火容疑で逮捕の男を殺人容疑などで再逮捕 大阪府警
-(2025-12-04 11:00) #ニュース
+u.afp.com/ShFo
 
-[2025-12-04 11:21:28](https://bsky.app/profile/sokuho.news/post/3m74vycg3jy2h)
+[2025-12-04 11:42:27](https://bsky.app/profile/en.afp.com/post/3m74x5swnij22)
+
+---
+
+@reuters.com
+
+LIVE: Emmanuel Macron visits China
+
+Xi Jinping welcomed Emmanuel Macron in Beijing during the French leader's fourth state visit to the Chinese capital as Europe seeks to rebalance economic and security threats from the world's second-largest economy.
+
+www.youtube.com/watch?v=xPux...
+
+[2025-12-04 11:41:39](https://bsky.app/profile/reuters.com/post/3m74x4fotqs2v)
+
+---
+
+@reuters.com
+
+Plane from US carrying returned migrants lands in Venezuela, foreign minister says reut.rs/4iF5mxC
+
+[2025-12-04 11:40:15](https://bsky.app/profile/reuters.com/post/3m74wzviidr2n)
+
+---
+
+@nytimes.com
+
+The police said on Wednesday that they were searching for an assailant who fatally shot a man in the food court at the MGM National Harbor Hotel and Casino in Oxon Hill, Maryland, near Washington, D.C.
+
+[2025-12-04 11:40:06](https://bsky.app/profile/nytimes.com/post/3m74wzmrdm62g)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-欧州サッカー リーズ 田中碧がプレミアリーグ初ゴール
-https://news.web.nhk/newsweb/na/na-k10014993601000
+トランプ大統領 ベネズエラ麻薬製造拠点など軍事作戦の可能性
+https://news.web.nhk/newsweb/na/na-k10014993661000
 
-[2025-12-04 11:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74vxmgo5p2j)
-
----
-
-@reuters.com
-
-Snowflake's product revenue outlook falls short of investor ambition, shares fall reut.rs/44aQWiS
-
-[2025-12-04 11:20:10](https://bsky.app/profile/reuters.com/post/3m74vvycwhy2e)
-
----
-
-@nikkei.com
-
-佐川急便、本州・四国で荷物預かりを一時制限
-www.nikkei.com/article/DGXZQO...
-
-12月5日には再開する見通しで、配達業務は継続します。
-
-大型セール「ブラックフライデー」によって配送量が増え、配達に遅延が生じていました。
-
-#ニュース
-
-[2025-12-04 11:19:32](https://bsky.app/profile/nikkei.com/post/3m74vutih7r2w)
-
----
-
-@wsj.com
-
-This closer-to-home alternative offers some of St. Moritz’s shine, but with thinner, more down-to-earth crowds.
-
-[2025-12-04 11:19:25](https://bsky.app/profile/wsj.com/post/3m74vundibk2a)
-
----
-
-@financialtimes.com
-
-Pentagon watchdog finds Hegseth’s Signal use put troops at risk on.ft.com/3M92D3s
-
-[2025-12-04 11:17:44](https://bsky.app/profile/financialtimes.com/post/3m74vrmt6rd23)
+[2025-12-04 11:39:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74wxsfhu22u)
 
 ---
 
@@ -104,37 +92,49 @@ Pentagon watchdog finds Hegseth’s Signal use put troops at risk on.ft.com/3M92
 
 🛎️FNNより【速報】です。
 
-【速報】炎上した車両から男性遺体 放火容疑で逮捕の知人の男を殺人容疑などで再逮捕 大阪府警
-(2025-12-04 11:00) #ニュース
+【速報】「船が沈没しそうと無線受けたが応答なくなった」船発見も転覆…日本人男性とインドネシア人2人行方不明 沖縄・宮古島近くで
+(2025-12-04 11:37) #ニュース
 
-[2025-12-04 11:11:59](https://bsky.app/profile/sokuho.news/post/3m74vhdqhbw22)
-
----
-
-@npr.org
-
-Steve Cropper, who co-wrote classics including "(Sittin' on) the Dock of the Bay" and "In the Midnight Hour" during his years playing guitar at the legendary Stax Records in Memphis, has died. He was 84. n.pr/48zf0gD
-
-[2025-12-04 11:11:57](https://bsky.app/profile/npr.org/post/3m74vhbmbmn2g)
+[2025-12-04 11:38:02](https://bsky.app/profile/sokuho.news/post/3m74wvwacz226)
 
 ---
 
-@reuters.com
+@nhknewsunofficial.bsky.social
 
-Adidas defeats appeal of lawsuit over imploded Ye partnership reut.rs/3KvX2DC
+新潟 加茂 住宅1棟が焼ける火事 80代夫婦と連絡取れず
+https://news.web.nhk/newsweb/na/na-k10014993651000
 
-[2025-12-04 11:10:07](https://bsky.app/profile/reuters.com/post/3m74vdynnn52k)
+[2025-12-04 11:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74wsfv4qv2e)
 
 ---
 
-@en.afp.com
+@sokuho.news
 
-Netflix releases explosive docuseries about Sean "Diddy" Combs despite the disgraced music mogul's attempts to block its airing.
+🛎️NNNより【速報】です。
 
-"Sean Combs: The Reckoning" chronicles the career and dramatic fall of Combs, who was sentenced to 50 months in prison for prostitution-related crimes
-u.afp.com/ShyK
+【速報】休館ロマントピアの天文台『再開』へ 弘前市が発表
+(2025-12-04 11:32) #ニュース
 
-[2025-12-04 11:07:54](https://bsky.app/profile/en.afp.com/post/3m74va23cj52p)
+[2025-12-04 11:32:41](https://bsky.app/profile/sokuho.news/post/3m74wmesdf22p)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】”見守り活動”中の男性が切り付けられる 東大阪市の路上 警察が捜査
+(2025-12-04 11:22) #ニュース
+
+[2025-12-04 11:32:10](https://bsky.app/profile/sokuho.news/post/3m74wlgd6422d)
+
+---
+
+@cnn.com
+
+President Donald Trump has few plans to address the scary spikes in health care premiums and punishing cost of daily life for many Americans. | Analysis https://cnn.it/4iCfzeg
+
+[2025-12-04 11:31:02](https://bsky.app/profile/cnn.com/post/3m74wjfq5d72j)
 
 ---
 
