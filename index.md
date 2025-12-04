@@ -1,9 +1,9 @@
-# [2025-12-04 17:10 updated](2025_12_04.md)
+# [2025-12-04 17:50 updated](2025_12_04.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】「弁解の余地はない。非常に申し訳ないことをした」山上徹也被告が法廷で初めて謝罪 安倍元総理銃撃事件の裁判 (2025-12-04 17:07:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m75jglu5z726" target="_blank">sokuho.news</a> (2025-12-04 17:09:29)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】広範囲でガス漏れ 約1万2500世帯の供給停止 再開のめど立たず 山口・宇部市 (17:08) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m75jgjrrtj2d" target="_blank">sokuho.news</a> (2025-12-04 17:09:26)</span><span style="padding-right:50px;">Malaysia charges PM's former aide with receiving bribes reut.rs/4pjWAHX <a href="https://bsky.app/profile/reuters.com/post/3m75j6nwmn22o" target="_blank">reuters.com</a> (2025-12-04 17:05:02)</span><span style="padding-right:50px;">Hong Kong fire survivor: 'My heart breaks every time I'm called a hero' <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m75j6lkary2e" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-04 17:04:59)</span><span style="padding-right:50px;">Court sides with Adidas in appeal over Kanye West collaboration <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m75j4isvc62w" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-04 17:03:49)</span>
+<span style="padding-right:50px;">Morning Bid: Day off for dollar debasement trade reut.rs/4q7RmiD <a href="https://bsky.app/profile/reuters.com/post/3m75lgcovni2d" target="_blank">reuters.com</a> (2025-12-04 17:45:07)</span><span style="padding-right:50px;">年末年始の旅行 国内外とも前年比増の見通し 大手旅行会社調査 https://news.web.nhk/newsweb/na/na-k10014994031000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75launn5i2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-04 17:42:02)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】「安倍元総理が殺害されないといけなかったのは間違いだったなと」山上被告“最後”の被告人質問で答える (2025-12-04 17:33) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m75lag4jme2g" target="_blank">sokuho.news</a> (2025-12-04 17:41:49)</span><span style="padding-right:50px;">Most EU citizens see 'high risk' of war with Russia, says poll  u.afp.com/ShFD <a href="https://bsky.app/profile/en.afp.com/post/3m75l7ejlwp23" target="_blank">en.afp.com</a> (2025-12-04 17:41:14)</span><span style="padding-right:50px;">How an oil pipeline battle shows the US gaining sway in Iraq reut.rs/48GJYUi <a href="https://bsky.app/profile/reuters.com/post/3m75l5cwnbb2e" target="_blank">reuters.com</a> (2025-12-04 17:40:05)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47882.90 (🔺511.28 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23454.09 (🔺138.51 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 179.59 (🔻1.49 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 154.99 (🔻0.19 : 2025-12-04)</span>
+<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47882.90 (🔺511.28 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23454.09 (🔺138.51 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 179.59 (🔻1.49 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 154.93 (🔻0.25 : 2025-12-04)</span>
   </div>
 </div>
 
@@ -32,101 +32,100 @@
 
 ## News Headlines
 
-1.  山上被告、法廷で初謝罪「弁解の余地ない」
-2.  山口・宇部市で大規模ガス漏れ、1万2500世帯供給停止
-3.  AIバブル過熱、Googleトレンドで急上昇
-4.  能登半島地震、災害関連死で死者691人に
-5.  中日・岡林勇希、推定年俸1億5000万円で更改
-6.  公明党徳島県議を除名処分、女性の裸を無断撮影の疑い
+1. 山上被告、法廷で初謝罪：「弁解の余地ない」安倍元首相銃撃事件
+2. EU市民、ロシアとの戦争リスク「高い」と認識
+3. マレーシア航空370便、10年超ぶりに深海捜索再開へ
+4. 来年度診療報酬、大幅プラスを自民議連が首相に要請
+5. 山口・宇部で広範囲ガス漏れ、約1万2500世帯供給停止
+6. AIバブル過熱か、Googleトレンドで検索数急上昇
 
 ----
 
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】「弁解の余地はない。非常に申し訳ないことをした」山上徹也被告が法廷で初めて謝罪 安倍元総理銃撃事件の裁判
-(2025-12-04 17:07:00) #ニュース
-
-[2025-12-04 17:09:29](https://bsky.app/profile/sokuho.news/post/3m75jglu5z726)
-
----
-
-@sokuho.news
-
-🔔ANNより【速報】です。
-
-【速報】広範囲でガス漏れ 約1万2500世帯の供給停止 再開のめど立たず 山口・宇部市
-(17:08) #ニュース
-
-[2025-12-04 17:09:26](https://bsky.app/profile/sokuho.news/post/3m75jgjrrtj2d)
-
----
-
 @reuters.com
 
-Malaysia charges PM's former aide with receiving bribes reut.rs/4pjWAHX
+Morning Bid: Day off for dollar debasement trade reut.rs/4q7RmiD
 
-[2025-12-04 17:05:02](https://bsky.app/profile/reuters.com/post/3m75j6nwmn22o)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Hong Kong fire survivor: 'My heart breaks every time I'm called a hero'
-
-[2025-12-04 17:04:59](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m75j6lkary2e)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Court sides with Adidas in appeal over Kanye West collaboration
-
-[2025-12-04 17:03:49](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m75j4isvc62w)
+[2025-12-04 17:45:07](https://bsky.app/profile/reuters.com/post/3m75lgcovni2d)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-衆院特別委 企業・団体献金の扱いなどめぐり意見交換
-https://news.web.nhk/newsweb/na/na-k10014993971000
+年末年始の旅行 国内外とも前年比増の見通し 大手旅行会社調査
+https://news.web.nhk/newsweb/na/na-k10014994031000
 
-[2025-12-04 17:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75j35ksfe2g)
+[2025-12-04 17:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75launn5i2u)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@sokuho.news
 
-Previously unseen images of Jeffrey Epstein's island released 
+🛎️FNNより【速報】です。
 
-[2025-12-04 17:02:44](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m75j2kovgn2g)
+【速報】「安倍元総理が殺害されないといけなかったのは間違いだったなと」山上被告“最後”の被告人質問で答える
+(2025-12-04 17:33) #ニュース
+
+[2025-12-04 17:41:49](https://bsky.app/profile/sokuho.news/post/3m75lag4jme2g)
 
 ---
 
 @en.afp.com
 
-Visa chaos and host city threats: how Trump disrupted World Cup plans
+Most EU citizens see 'high risk' of war with Russia, says poll
 
-u.afp.com/ShFH
+u.afp.com/ShFD
 
-[2025-12-04 17:02:18](https://bsky.app/profile/en.afp.com/post/3m75izrhthd2y)
-
----
-
-@cnn.com
-
-With alcohol consumption declining globally, a growing number of events are looking to provide a "nightlife-style" experience for those who don't want to drink, but still want to party. https://cnn.it/4ovkgI8
-
-[2025-12-04 17:01:02](https://bsky.app/profile/cnn.com/post/3m75ixijhe72h)
+[2025-12-04 17:41:14](https://bsky.app/profile/en.afp.com/post/3m75l7ejlwp23)
 
 ---
 
 @reuters.com
 
-BOJ likely to raise rates in December, government to tolerate move, sources say reut.rs/48kNxQU
+How an oil pipeline battle shows the US gaining sway in Iraq reut.rs/48GJYUi
 
-[2025-12-04 17:00:31](https://bsky.app/profile/reuters.com/post/3m75iwkxicp2y)
+[2025-12-04 17:40:05](https://bsky.app/profile/reuters.com/post/3m75l5cwnbb2e)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【動画】雪の見通しは 田中美都気象予報士の解説 (4日17時)
+https://news.web.nhk/newsweb/na/na-k10014993631000
+
+[2025-12-04 17:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75l3jgxh226)
+
+---
+
+@reuters.com
+
+EU to launch antitrust probe into Meta over use of AI in WhatsApp, FT reports reut.rs/48RBYko
+
+[2025-12-04 17:35:03](https://bsky.app/profile/reuters.com/post/3m75kud2qpi2i)
+
+---
+
+@cnn.com
+
+Malaysia’s transport ministry said a private firm will resume a deep-sea hunt for Malaysia Airlines Flight 370 later this month, more than a decade after the jet vanished without a trace.
+
+[2025-12-04 17:31:01](https://bsky.app/profile/cnn.com/post/3m75kn4amo62q)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+定数削減法案 維新 藤田共同代表 参政 神谷代表に協力呼びかけ
+https://news.web.nhk/newsweb/na/na-k10014994041000
+
+[2025-12-04 17:30:13](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75klqhmyx2k)
+
+---
+
+@aljazeera.com
+
+Guterres said Israel's war has been waged with 'total neglect' with respect to civilian deaths and Gaza's destruction.
+
+[2025-12-04 17:30:09](https://bsky.app/profile/aljazeera.com/post/3m75kllcp2t2c)
 
 ---
 
