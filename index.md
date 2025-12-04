@@ -1,9 +1,9 @@
-# [2025-12-04 15:30 updated](2025_12_04.md)
+# [2025-12-04 15:50 updated](2025_12_04.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">“クマ被害を未然に防ぐ”東京 西多摩地域 猟友会がパトロール https://news.web.nhk/newsweb/na/na-k10014993831000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75dpinfwp2r" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-04 15:27:02)</span><span style="padding-right:50px;">Indian rupee to rise from record lows, but US trade deal key for recovery: Reuters poll reut.rs/4aq3hn6 <a href="https://bsky.app/profile/reuters.com/post/3m75dlvgjip2k" target="_blank">reuters.com</a> (2025-12-04 15:25:04)</span><span style="padding-right:50px;">株価 1100円以上値上がり FRB利下げし景気下支えの見方強まる https://news.web.nhk/newsweb/na/na-k10014993711000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75dk4yyjq2g" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-04 15:24:03)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】「経済的余裕がないことが犯行に及んだ理由として大きかったと思う」山上被告の精神鑑定した医師が説明「精神障害の影響は認められない」とも (2025-12-04 15:18) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m75dg2bflh2x" target="_blank">sokuho.news</a> (2025-12-04 15:21:48)</span><span style="padding-right:50px;">Illegal Bitcoin mining in Malaysia has become so prolific that authorities are deploying drones with thermal imaging to search for unusual power use. bloom.bg/4pi27yw  📷: Deputy Minister of PETRA’s Office <a href="https://bsky.app/profile/bloomberg.com/post/3m75dappwwe2m" target="_blank">bloomberg.com</a> (2025-12-04 15:18:49)</span>
+<span style="padding-right:50px;">柔道  阿部詩「優勝を目指す」6日からグランドスラム東京 https://news.web.nhk/newsweb/na/na-k10014993811000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75ev25ahn2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-04 15:48:03)</span><span style="padding-right:50px;">Second ANZ proxy advisor recommends vote against pay report reut.rs/4pLcQRQ <a href="https://bsky.app/profile/reuters.com/post/3m75epq6hhr2i" target="_blank">reuters.com</a> (2025-12-04 15:45:07)</span><span style="padding-right:50px;">Chris Paul's return to the Los Angeles Clippers has ended abruptly. The team parted ways with him in a late-night meeting in Atlanta. <a href="https://bsky.app/profile/apnews.com/post/3m75epohsfa2t" target="_blank">apnews.com</a> (2025-12-04 15:45:05)</span><span style="padding-right:50px;">自民 小林政調会長“旧姓の通称使用拡大 党でも法制化議論を” https://news.web.nhk/newsweb/na/na-k10014993861000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75epomnyo24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-04 15:45:02)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】インフルエンザ 今シーズン初めて流行警報レベルを超える (2025-12-04 15:35) #ニュース  ⬛感染症情報 🔗https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/infulenza/index.html <a href="https://bsky.app/profile/sokuho.news/post/3m75elay5tu2q" target="_blank">sokuho.news</a> (2025-12-04 15:42:36)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50948.31 (🔺1005.37 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47882.90 (🔺511.28 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23454.09 (🔺138.51 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 179.59 (🔻1.49 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3107.00 (🔺79.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 155.37 (🔺0.19 : 2025-12-04)</span>
+<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47882.90 (🔺511.28 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23454.09 (🔺138.51 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 179.59 (🔻1.49 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 155.36 (🔺0.18 : 2025-12-04)</span>
   </div>
 </div>
 
@@ -32,99 +32,102 @@
 
 ## News Headlines
 
-1. 東京・西多摩地域でクマ被害防止パトロール開始
-2. 株価大幅上昇、FRB利下げ観測で景気下支え期待
-3. 山上被告、精神鑑定で「精神障害の影響認められない」と医師説明
-4. マレーシアで違法Bitcoinマイニング横行、当局がドローンで取締り
-5. 大分・佐賀関の大規模火災、17日目で完全鎮火
-6. トランプ氏、起訴された関係者に恩赦
+1. 阿部詩、グランドスラム東京で「優勝目指す」
+2. インフルエンザ、今シーズン初の流行警報レベル超え
+3. 大分大規模火災、鎮火 - 無人島含む全現場の火消し完了
+4. 株価1100円以上値上がり、FRB利下げ観測で
+5. 山上被告、「安倍さんを撃つのはずれていた」精神鑑定で語る
+6. トランプ氏、台湾交流法改正案に署名 - 中国側は反発
 
 ----
 
 @nhknewsunofficial.bsky.social
 
-“クマ被害を未然に防ぐ”東京 西多摩地域 猟友会がパトロール
-https://news.web.nhk/newsweb/na/na-k10014993831000
+柔道  阿部詩「優勝を目指す」6日からグランドスラム東京
+https://news.web.nhk/newsweb/na/na-k10014993811000
 
-[2025-12-04 15:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75dpinfwp2r)
+[2025-12-04 15:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75ev25ahn2j)
 
 ---
 
 @reuters.com
 
-Indian rupee to rise from record lows, but US trade deal key for recovery: Reuters poll reut.rs/4aq3hn6
+Second ANZ proxy advisor recommends vote against pay report reut.rs/4pLcQRQ
 
-[2025-12-04 15:25:04](https://bsky.app/profile/reuters.com/post/3m75dlvgjip2k)
+[2025-12-04 15:45:07](https://bsky.app/profile/reuters.com/post/3m75epq6hhr2i)
+
+---
+
+@apnews.com
+
+Chris Paul's return to the Los Angeles Clippers has ended abruptly. The team parted ways with him in a late-night meeting in Atlanta.
+
+[2025-12-04 15:45:05](https://bsky.app/profile/apnews.com/post/3m75epohsfa2t)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-株価 1100円以上値上がり FRB利下げし景気下支えの見方強まる
-https://news.web.nhk/newsweb/na/na-k10014993711000
+自民 小林政調会長“旧姓の通称使用拡大 党でも法制化議論を”
+https://news.web.nhk/newsweb/na/na-k10014993861000
 
-[2025-12-04 15:24:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75dk4yyjq2g)
+[2025-12-04 15:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75epomnyo24)
 
 ---
 
 @sokuho.news
 
-🛎️FNNより【速報】です。
+🛎️NNNより【速報】です。
 
-【速報】「経済的余裕がないことが犯行に及んだ理由として大きかったと思う」山上被告の精神鑑定した医師が説明「精神障害の影響は認められない」とも
-(2025-12-04 15:18) #ニュース
+【速報】インフルエンザ 今シーズン初めて流行警報レベルを超える
+(2025-12-04 15:35) #ニュース
 
-[2025-12-04 15:21:48](https://bsky.app/profile/sokuho.news/post/3m75dg2bflh2x)
+⬛感染症情報
+🔗https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/infulenza/index.html
 
----
-
-@bloomberg.com
-
-Illegal Bitcoin mining in Malaysia has become so prolific that authorities are deploying drones with thermal imaging to search for unusual power use. bloom.bg/4pi27yw
-
-📷: Deputy Minister of PETRA’s Office
-
-[2025-12-04 15:18:49](https://bsky.app/profile/bloomberg.com/post/3m75dappwwe2m)
+[2025-12-04 15:42:36](https://bsky.app/profile/sokuho.news/post/3m75elay5tu2q)
 
 ---
 
-@cnbc.com
+@nhknewsunofficial.bsky.social
 
-Taking on China from Russia’s border: Inside Europe’s biggest rare earths factory
+トランプ氏 台湾交流に関する法律の改正案に署名 中国側は反発
+https://news.web.nhk/newsweb/na/na-k10014993911000
 
-[2025-12-04 15:16:49](https://bsky.app/profile/cnbc.com/post/3m75d55lwwu2i)
-
----
-
-@reuters.com
-
-Kate Winslet teams up with son for directorial debut 'Goodbye June' reut.rs/3M9aVIC
-
-[2025-12-04 15:15:10](https://bsky.app/profile/reuters.com/post/3m75d272vso2y)
+[2025-12-04 15:42:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75ekgyqq62p)
 
 ---
 
-@cnbc.com
+@nhknewsunofficial.bsky.social
 
-UK hedge fund Kernow says this cruise operator's share price could surge by over 400%
+大分 大規模火災 無人島も鎮火 現場すべての火消し止められる
+https://news.web.nhk/newsweb/na/na-k10014993921000
 
-[2025-12-04 15:14:39](https://bsky.app/profile/cnbc.com/post/3m75czbp6um2i)
-
----
-
-@bloomberg.com
-
-Australians are entering retirement wealthier than ever — and Wall Street giants like BlackRock and Goldman Sachs are taking notice
-
-[2025-12-04 15:10:41](https://bsky.app/profile/bloomberg.com/post/3m75cs6lntm27)
+[2025-12-04 15:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75ekbyopy26)
 
 ---
 
 @reuters.com
 
-Dollar soft as rate-cut bets intact, euro at 7-week high reut.rs/4pozOPg
+IT gains push Indian benchmark shares higher; rupee hits all-time low reut.rs/4ouezdl
 
-[2025-12-04 15:10:06](https://bsky.app/profile/reuters.com/post/3m75cr4xird26)
+[2025-12-04 15:40:07](https://bsky.app/profile/reuters.com/post/3m75egsf3ur2i)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Meta starts kicking Australian children off Instagram and Facebook 
+
+[2025-12-04 15:38:14](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m75edhcsuy24)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+South Korea: Government developing app showing real-time location of stalkers
+
+[2025-12-04 15:37:08](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m75ebiu23u26)
 
 ---
 
