@@ -1,9 +1,9 @@
-# [2025-12-04 16:10 updated](2025_12_04.md)
+# [2025-12-04 16:30 updated](2025_12_04.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Print of English poet William Blake's most famous poem "The Tyger" sells at auction for £228,600 ($304,519)   u.afp.com/Shyj <a href="https://bsky.app/profile/en.afp.com/post/3m75fqbjnzc2m" target="_blank">en.afp.com</a> (2025-12-04 16:03:18)</span><span style="padding-right:50px;">自民税制調査会「NISA」対象拡充へ 制度設計急ぐことを確認 https://news.web.nhk/newsweb/na/na-k10014993951000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75fpue2l62p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-04 16:03:02)</span><span style="padding-right:50px;">Europe exhausts legal tricks on frozen Russian assets on.ft.com/4rCnLPy <a href="https://bsky.app/profile/financialtimes.com/post/3m75fmv4qhq24" target="_blank">financialtimes.com</a> (2025-12-04 16:01:25)</span><span style="padding-right:50px;">The Massachusetts jury weighing the case of Brian Walshe saw a collection of evidence on Wednesday, including photos of items covered in what looked like blood, as prosecutors work to prove he murdered his wife around New Year’s 2023. <a href="https://bsky.app/profile/cnn.com/post/3m75fm6jy2b2i" target="_blank">cnn.com</a> (2025-12-04 16:01:01)</span><span style="padding-right:50px;">父親の育児「お迎え率」指標に（私見卓見） www.nikkei.com/article/DGXZQO...  東京都内のある区では、父親による保育園への「送り」は44%とパートナーとの分担が進む一方、「お迎え」は22.7%とほぼ半減するという結果が出ました。  調査を担った武本隆行・東京経営大学教授（経営学）が、家事・育児の女性偏重を断ち切るうえで着目すべき数値を提言します。 <a href="https://bsky.app/profile/nikkei.com/post/3m75fl6prfi2k" target="_blank">nikkei.com</a> (2025-12-04 16:00:28)</span>
+<span style="padding-right:50px;">Trump to host DR Congo's Félix Tshisekedi and Rwanda's Paul Kagame to sign peace deal <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m75h672oh522" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-04 16:28:58)</span><span style="padding-right:50px;">Pritam Singh: Singapore court upholds opposition leader's conviction <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m75h4aa7qh2y" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-04 16:27:53)</span><span style="padding-right:50px;">Hikvision challenges US decision to expand crackdown on Chinese telecom gear reut.rs/4pjUqrP <a href="https://bsky.app/profile/reuters.com/post/3m75gx72f772w" target="_blank">reuters.com</a> (2025-12-04 16:25:04)</span><span style="padding-right:50px;">European markets expected to open higher; Ukraine peace talks in focus <a href="https://bsky.app/profile/cnbc.com/post/3m75gw6zgbu2x" target="_blank">cnbc.com</a> (2025-12-04 16:24:31)</span><span style="padding-right:50px;">CNBC Daily Open: Sweet gains for markets amid sour job signals <a href="https://bsky.app/profile/cnbc.com/post/3m75gsh3szn2y" target="_blank">cnbc.com</a> (2025-12-04 16:22:25)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47882.90 (🔺511.28 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23454.09 (🔺138.51 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 179.59 (🔻1.49 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 155.33 (🔺0.15 : 2025-12-04)</span>
+<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47882.90 (🔺511.28 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23454.09 (🔺138.51 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 179.59 (🔻1.49 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 155.28 (🔺0.10 : 2025-12-04)</span>
   </div>
 </div>
 
@@ -32,105 +32,97 @@
 
 ## News Headlines
 
-1.  ウィリアム・ブレイクの詩「The Tyger」が高額落札
-2.  自民党、NISA対象拡充へ制度設計を急ぐ
-3.  凍結されたロシア資産、欧州の法的抜け穴が限界に
-4.  スティーブ・クロッパー氏死去、84歳　サザンソウルを定義
-5.  プロゴルファー横田真一氏と穴井夕子氏が離婚、「パパ活問題」報道
-6.  高市早苗氏のファッションが話題に、「サナ活」も出現
+1. トランプ氏、コンゴ民主共和国とルワンダの首脳を招き和平合意署名へ
+2. 山上被告「本来の敵は統一教会」安倍元総理銃撃事件裁判で語る
+3. 株価大幅上昇、3週間ぶりに5万1000円台回復
+4. EU、MetaのWhatsAppにおけるAI利用で独禁法調査開始
+5. 都内インフルエンザ、今季初めて減少に転じるも依然警報レベル
+6. タイ、詐欺取り締まりで3.18億ドルの資産押収、42人に逮捕状
 
 ----
 
-@en.afp.com
+@bbcnews-world-rss.bsky.social
 
-Print of English poet William Blake's most famous poem "The Tyger" sells at auction for £228,600 ($304,519) 
+Trump to host DR Congo's Félix Tshisekedi and Rwanda's Paul Kagame to sign peace deal
 
-u.afp.com/Shyj
-
-[2025-12-04 16:03:18](https://bsky.app/profile/en.afp.com/post/3m75fqbjnzc2m)
+[2025-12-04 16:28:58](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m75h672oh522)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@bbcnews-world-rss.bsky.social
 
-自民税制調査会「NISA」対象拡充へ 制度設計急ぐことを確認
-https://news.web.nhk/newsweb/na/na-k10014993951000
+Pritam Singh: Singapore court upholds opposition leader's conviction
 
-[2025-12-04 16:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75fpue2l62p)
-
----
-
-@financialtimes.com
-
-Europe exhausts legal tricks on frozen Russian assets on.ft.com/4rCnLPy
-
-[2025-12-04 16:01:25](https://bsky.app/profile/financialtimes.com/post/3m75fmv4qhq24)
-
----
-
-@cnn.com
-
-The Massachusetts jury weighing the case of Brian Walshe saw a collection of evidence on Wednesday, including photos of items covered in what looked like blood, as prosecutors work to prove he murdered his wife around New Year’s 2023.
-
-[2025-12-04 16:01:01](https://bsky.app/profile/cnn.com/post/3m75fm6jy2b2i)
-
----
-
-@nikkei.com
-
-父親の育児「お迎え率」指標に（私見卓見）
-www.nikkei.com/article/DGXZQO...
-
-東京都内のある区では、父親による保育園への「送り」は44%とパートナーとの分担が進む一方、「お迎え」は22.7%とほぼ半減するという結果が出ました。
-
-調査を担った武本隆行・東京経営大学教授（経営学）が、家事・育児の女性偏重を断ち切るうえで着目すべき数値を提言します。
-
-[2025-12-04 16:00:28](https://bsky.app/profile/nikkei.com/post/3m75fl6prfi2k)
+[2025-12-04 16:27:53](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m75h4aa7qh2y)
 
 ---
 
 @reuters.com
 
-Steve Cropper, whose guitar and producing helped define Southern soul, dies at 84 reut.rs/4pFrXfC
+Hikvision challenges US decision to expand crackdown on Chinese telecom gear reut.rs/4pjUqrP
 
-[2025-12-04 16:00:21](https://bsky.app/profile/reuters.com/post/3m75fkysdoy2o)
+[2025-12-04 16:25:04](https://bsky.app/profile/reuters.com/post/3m75gx72f772w)
 
 ---
 
 @cnbc.com
 
-Since the end of 2024, the number of early education properties available for sale has grown by 14%, according to B+E.
+European markets expected to open higher; Ukraine peace talks in focus
 
-Rising demand for early education is causing a boom in a small subsector of commercial real estate. It's so undersupplied that it’s attractive to both developers and investors. 
+[2025-12-04 16:24:31](https://bsky.app/profile/cnbc.com/post/3m75gw6zgbu2x)
 
-[2025-12-04 16:00:19](https://bsky.app/profile/cnbc.com/post/3m75fkwkltu2x)
+---
+
+@cnbc.com
+
+CNBC Daily Open: Sweet gains for markets amid sour job signals
+
+[2025-12-04 16:22:25](https://bsky.app/profile/cnbc.com/post/3m75gsh3szn2y)
 
 ---
 
 @sokuho.news
 
-🛎️文春より【スクープ】です。
+🛎️FNNより【速報】です。
 
-「大人で会えますか」とアプリで…プロゴルファー横田真一（53）と穴井夕子（51）“極秘離婚”の裏にあった「パパ活問題」
-(2025-12-04 16:00) #ニュース
+【速報】山上被告「本来の敵は統一教会。安倍元総理は統一教会に対する影響力はかなりあったと思う。それが標的に入った理由です」“最後”の被告人質問で語る 安倍元総理銃撃・殺害事件裁判
+(2025-12-04 16:06) #ニュース
 
-[2025-12-04 16:00:16](https://bsky.app/profile/sokuho.news/post/3m75fktj62a2y)
-
----
-
-@washingtonpost.com
-
-Column: The “buy now, pay later” pitch is appealing. Why wait to save for what you want? But that’s outdated thinking and old-fashioned financial advice and it’s designed to make you feel comfortable spending money you don’t have.
-
-[2025-12-04 16:00:10](https://bsky.app/profile/washingtonpost.com/post/3m75fko6jdy2g)
+[2025-12-04 16:22:03](https://bsky.app/profile/sokuho.news/post/3m75grsbklv2g)
 
 ---
 
-@apnews.com
+@nhknewsunofficial.bsky.social
 
-Japanese Prime Minister Sanae Takaichi has become Japan’s latest fashion icon, with her mantra winning catchphrase of the year and her workwear winning admiration from younger women behind a movement known as “Sana-katsu,” or rooting for Sanae.
+【動画】京都 “皇室ゆかりの紅葉”
+https://news.web.nhk/newsweb/na/na-k10014990441000
 
-[2025-12-04 16:00:07](https://bsky.app/profile/apnews.com/post/3m75fkl2tgv27)
+[2025-12-04 16:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75gkobheg2p)
+
+---
+
+@reuters.com
+
+Australia's household spending surges, lifting rate hike bets reut.rs/443PUVU
+
+[2025-12-04 16:15:04](https://bsky.app/profile/reuters.com/post/3m75gfcepzn22)
+
+---
+
+@bloomberg.com
+
+President Trump, apparently enamored by the pint-sized Kei cars he saw during his recent trip to Japan, has paved the way for them to be made and sold in the US despite concerns
+
+[2025-12-04 16:13:21](https://bsky.app/profile/bloomberg.com/post/3m75gca2bv72d)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+株価 大きく値上がり 3週間ぶりに5万1000円台を回復
+https://news.web.nhk/newsweb/na/na-k10014993711000
+
+[2025-12-04 16:12:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75g7ygodw2p)
 
 ---
 
