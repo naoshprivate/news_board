@@ -1,9 +1,9 @@
-# [2025-12-04 15:50 updated](2025_12_04.md)
+# [2025-12-04 16:10 updated](2025_12_04.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">柔道  阿部詩「優勝を目指す」6日からグランドスラム東京 https://news.web.nhk/newsweb/na/na-k10014993811000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75ev25ahn2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-04 15:48:03)</span><span style="padding-right:50px;">Second ANZ proxy advisor recommends vote against pay report reut.rs/4pLcQRQ <a href="https://bsky.app/profile/reuters.com/post/3m75epq6hhr2i" target="_blank">reuters.com</a> (2025-12-04 15:45:07)</span><span style="padding-right:50px;">Chris Paul's return to the Los Angeles Clippers has ended abruptly. The team parted ways with him in a late-night meeting in Atlanta. <a href="https://bsky.app/profile/apnews.com/post/3m75epohsfa2t" target="_blank">apnews.com</a> (2025-12-04 15:45:05)</span><span style="padding-right:50px;">自民 小林政調会長“旧姓の通称使用拡大 党でも法制化議論を” https://news.web.nhk/newsweb/na/na-k10014993861000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75epomnyo24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-04 15:45:02)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】インフルエンザ 今シーズン初めて流行警報レベルを超える (2025-12-04 15:35) #ニュース  ⬛感染症情報 🔗https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/infulenza/index.html <a href="https://bsky.app/profile/sokuho.news/post/3m75elay5tu2q" target="_blank">sokuho.news</a> (2025-12-04 15:42:36)</span>
+<span style="padding-right:50px;">Print of English poet William Blake's most famous poem "The Tyger" sells at auction for £228,600 ($304,519)   u.afp.com/Shyj <a href="https://bsky.app/profile/en.afp.com/post/3m75fqbjnzc2m" target="_blank">en.afp.com</a> (2025-12-04 16:03:18)</span><span style="padding-right:50px;">自民税制調査会「NISA」対象拡充へ 制度設計急ぐことを確認 https://news.web.nhk/newsweb/na/na-k10014993951000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75fpue2l62p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-04 16:03:02)</span><span style="padding-right:50px;">Europe exhausts legal tricks on frozen Russian assets on.ft.com/4rCnLPy <a href="https://bsky.app/profile/financialtimes.com/post/3m75fmv4qhq24" target="_blank">financialtimes.com</a> (2025-12-04 16:01:25)</span><span style="padding-right:50px;">The Massachusetts jury weighing the case of Brian Walshe saw a collection of evidence on Wednesday, including photos of items covered in what looked like blood, as prosecutors work to prove he murdered his wife around New Year’s 2023. <a href="https://bsky.app/profile/cnn.com/post/3m75fm6jy2b2i" target="_blank">cnn.com</a> (2025-12-04 16:01:01)</span><span style="padding-right:50px;">父親の育児「お迎え率」指標に（私見卓見） www.nikkei.com/article/DGXZQO...  東京都内のある区では、父親による保育園への「送り」は44%とパートナーとの分担が進む一方、「お迎え」は22.7%とほぼ半減するという結果が出ました。  調査を担った武本隆行・東京経営大学教授（経営学）が、家事・育児の女性偏重を断ち切るうえで着目すべき数値を提言します。 <a href="https://bsky.app/profile/nikkei.com/post/3m75fl6prfi2k" target="_blank">nikkei.com</a> (2025-12-04 16:00:28)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47882.90 (🔺511.28 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23454.09 (🔺138.51 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 179.59 (🔻1.49 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 155.36 (🔺0.18 : 2025-12-04)</span>
+<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47882.90 (🔺511.28 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23454.09 (🔺138.51 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 179.59 (🔻1.49 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 155.33 (🔺0.15 : 2025-12-04)</span>
   </div>
 </div>
 
@@ -32,102 +32,105 @@
 
 ## News Headlines
 
-1. 阿部詩、グランドスラム東京で「優勝目指す」
-2. インフルエンザ、今シーズン初の流行警報レベル超え
-3. 大分大規模火災、鎮火 - 無人島含む全現場の火消し完了
-4. 株価1100円以上値上がり、FRB利下げ観測で
-5. 山上被告、「安倍さんを撃つのはずれていた」精神鑑定で語る
-6. トランプ氏、台湾交流法改正案に署名 - 中国側は反発
+1.  ウィリアム・ブレイクの詩「The Tyger」が高額落札
+2.  自民党、NISA対象拡充へ制度設計を急ぐ
+3.  凍結されたロシア資産、欧州の法的抜け穴が限界に
+4.  スティーブ・クロッパー氏死去、84歳　サザンソウルを定義
+5.  プロゴルファー横田真一氏と穴井夕子氏が離婚、「パパ活問題」報道
+6.  高市早苗氏のファッションが話題に、「サナ活」も出現
 
 ----
 
+@en.afp.com
+
+Print of English poet William Blake's most famous poem "The Tyger" sells at auction for £228,600 ($304,519) 
+
+u.afp.com/Shyj
+
+[2025-12-04 16:03:18](https://bsky.app/profile/en.afp.com/post/3m75fqbjnzc2m)
+
+---
+
 @nhknewsunofficial.bsky.social
 
-柔道  阿部詩「優勝を目指す」6日からグランドスラム東京
-https://news.web.nhk/newsweb/na/na-k10014993811000
+自民税制調査会「NISA」対象拡充へ 制度設計急ぐことを確認
+https://news.web.nhk/newsweb/na/na-k10014993951000
 
-[2025-12-04 15:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75ev25ahn2j)
+[2025-12-04 16:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75fpue2l62p)
+
+---
+
+@financialtimes.com
+
+Europe exhausts legal tricks on frozen Russian assets on.ft.com/4rCnLPy
+
+[2025-12-04 16:01:25](https://bsky.app/profile/financialtimes.com/post/3m75fmv4qhq24)
+
+---
+
+@cnn.com
+
+The Massachusetts jury weighing the case of Brian Walshe saw a collection of evidence on Wednesday, including photos of items covered in what looked like blood, as prosecutors work to prove he murdered his wife around New Year’s 2023.
+
+[2025-12-04 16:01:01](https://bsky.app/profile/cnn.com/post/3m75fm6jy2b2i)
+
+---
+
+@nikkei.com
+
+父親の育児「お迎え率」指標に（私見卓見）
+www.nikkei.com/article/DGXZQO...
+
+東京都内のある区では、父親による保育園への「送り」は44%とパートナーとの分担が進む一方、「お迎え」は22.7%とほぼ半減するという結果が出ました。
+
+調査を担った武本隆行・東京経営大学教授（経営学）が、家事・育児の女性偏重を断ち切るうえで着目すべき数値を提言します。
+
+[2025-12-04 16:00:28](https://bsky.app/profile/nikkei.com/post/3m75fl6prfi2k)
 
 ---
 
 @reuters.com
 
-Second ANZ proxy advisor recommends vote against pay report reut.rs/4pLcQRQ
+Steve Cropper, whose guitar and producing helped define Southern soul, dies at 84 reut.rs/4pFrXfC
 
-[2025-12-04 15:45:07](https://bsky.app/profile/reuters.com/post/3m75epq6hhr2i)
-
----
-
-@apnews.com
-
-Chris Paul's return to the Los Angeles Clippers has ended abruptly. The team parted ways with him in a late-night meeting in Atlanta.
-
-[2025-12-04 15:45:05](https://bsky.app/profile/apnews.com/post/3m75epohsfa2t)
+[2025-12-04 16:00:21](https://bsky.app/profile/reuters.com/post/3m75fkysdoy2o)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@cnbc.com
 
-自民 小林政調会長“旧姓の通称使用拡大 党でも法制化議論を”
-https://news.web.nhk/newsweb/na/na-k10014993861000
+Since the end of 2024, the number of early education properties available for sale has grown by 14%, according to B+E.
 
-[2025-12-04 15:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75epomnyo24)
+Rising demand for early education is causing a boom in a small subsector of commercial real estate. It's so undersupplied that it’s attractive to both developers and investors. 
+
+[2025-12-04 16:00:19](https://bsky.app/profile/cnbc.com/post/3m75fkwkltu2x)
 
 ---
 
 @sokuho.news
 
-🛎️NNNより【速報】です。
+🛎️文春より【スクープ】です。
 
-【速報】インフルエンザ 今シーズン初めて流行警報レベルを超える
-(2025-12-04 15:35) #ニュース
+「大人で会えますか」とアプリで…プロゴルファー横田真一（53）と穴井夕子（51）“極秘離婚”の裏にあった「パパ活問題」
+(2025-12-04 16:00) #ニュース
 
-⬛感染症情報
-🔗https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/infulenza/index.html
-
-[2025-12-04 15:42:36](https://bsky.app/profile/sokuho.news/post/3m75elay5tu2q)
+[2025-12-04 16:00:16](https://bsky.app/profile/sokuho.news/post/3m75fktj62a2y)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@washingtonpost.com
 
-トランプ氏 台湾交流に関する法律の改正案に署名 中国側は反発
-https://news.web.nhk/newsweb/na/na-k10014993911000
+Column: The “buy now, pay later” pitch is appealing. Why wait to save for what you want? But that’s outdated thinking and old-fashioned financial advice and it’s designed to make you feel comfortable spending money you don’t have.
 
-[2025-12-04 15:42:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75ekgyqq62p)
-
----
-
-@nhknewsunofficial.bsky.social
-
-大分 大規模火災 無人島も鎮火 現場すべての火消し止められる
-https://news.web.nhk/newsweb/na/na-k10014993921000
-
-[2025-12-04 15:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75ekbyopy26)
+[2025-12-04 16:00:10](https://bsky.app/profile/washingtonpost.com/post/3m75fko6jdy2g)
 
 ---
 
-@reuters.com
+@apnews.com
 
-IT gains push Indian benchmark shares higher; rupee hits all-time low reut.rs/4ouezdl
+Japanese Prime Minister Sanae Takaichi has become Japan’s latest fashion icon, with her mantra winning catchphrase of the year and her workwear winning admiration from younger women behind a movement known as “Sana-katsu,” or rooting for Sanae.
 
-[2025-12-04 15:40:07](https://bsky.app/profile/reuters.com/post/3m75egsf3ur2i)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Meta starts kicking Australian children off Instagram and Facebook 
-
-[2025-12-04 15:38:14](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m75edhcsuy24)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-South Korea: Government developing app showing real-time location of stalkers
-
-[2025-12-04 15:37:08](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m75ebiu23u26)
+[2025-12-04 16:00:07](https://bsky.app/profile/apnews.com/post/3m75fkl2tgv27)
 
 ---
 
