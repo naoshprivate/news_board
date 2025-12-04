@@ -1,9 +1,9 @@
-# [2025-12-04 08:50 updated](2025_12_04.md)
+# [2025-12-04 09:10 updated](2025_12_04.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】宇部市で広範囲にわたりガス漏れ発生 およそ10件火災発生も消火 都市ガスの圧力異常か (2025-12-04 08:23) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m74nh3ev432y" target="_blank">sokuho.news</a> (2025-12-04 08:48:40)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】富山市婦中町でクマ人身被害 未明に男女2人が襲われケガ (2025-12-04 08:44) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m74nf47si324" target="_blank">sokuho.news</a> (2025-12-04 08:47:34)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】宇部市で広範囲にわたりガス漏れ発生 少なくと10件火災発生も消火 都市ガスの圧力異常か (2025-12-04 08:23) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m74nezuk6n2d" target="_blank">sokuho.news</a> (2025-12-04 08:47:31)</span><span style="padding-right:50px;">With a U.S. Navy flotilla off the coast and President Trump pushing for strongman Nicolás Maduro’s ouster, Venezuelans are focused on a more urgent matter: the price of Christmas preparations. <a href="https://bsky.app/profile/wsj.com/post/3m74ndvdwi42x" target="_blank">wsj.com</a> (2025-12-04 08:46:53)</span><span style="padding-right:50px;">Push is on in US Congress to impose ban on lawmaker stock trades reut.rs/4auFJxn <a href="https://bsky.app/profile/reuters.com/post/3m74napkbv22k" target="_blank">reuters.com</a> (2025-12-04 08:45:06)</span>
+<span style="padding-right:50px;">長期金利 10年もの国債利回り1.9％に 2007年7月以来の高水準 https://news.web.nhk/newsweb/na/na-k10014993551000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74olpirdy2r" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-04 09:09:07)</span><span style="padding-right:50px;">富山 「クマに襲われた」と通報 70代夫婦がけが https://news.web.nhk/newsweb/na/na-k10014993541000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74olkhq7g26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-04 09:09:02)</span><span style="padding-right:50px;">Cramer's Lightning Round: Buy MSCI <a href="https://bsky.app/profile/cnbc.com/post/3m74ok6ce7z2i" target="_blank">cnbc.com</a> (2025-12-04 09:08:18)</span><span style="padding-right:50px;">Panahi's latest film, It Was Just an Accident, won three Gotham Awards on Monday. The filmmaker has been imprisoned in Iran before — but continues to make movies. n.pr/4oAZ5o5 <a href="https://bsky.app/profile/npr.org/post/3m74oft4xco2s" target="_blank">npr.org</a> (2025-12-04 09:05:52)</span><span style="padding-right:50px;">OpenAI loses fight to keep ChatGPT logs secret in copyright case reut.rs/4piz7Ha <a href="https://bsky.app/profile/reuters.com/post/3m74oegwflg27" target="_blank">reuters.com</a> (2025-12-04 09:05:05)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47882.90 (🔺511.28 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23454.09 (🔺138.51 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 179.59 (🔻1.48 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.10 (🔻0.08 : 2025-12-03)</span>
+<span style="padding-right:50px;">NIKKEI: 49864.68 (🔺324.04 : 2025-12-03)</span><span style="padding-right:50px;">DOW: 47882.90 (🔺511.28 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23454.09 (🔺138.51 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 179.59 (🔻1.48 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3005.00 (🔻25.00 : 2025-12-03)</span><span style="padding-right:50px;">USD/JPY: 155.09 (🔻0.09 : 2025-12-04)</span>
   </div>
 </div>
 
@@ -32,120 +32,97 @@
 
 ## News Headlines
 
-1. 山口・宇部市で広範囲ガス漏れ、火災も発生
-2. 富山市婦中町でクマによる人身被害、男女2人が負傷
-3. 福島県浜通りで震度2の地震発生
-4. トランプ大統領、台湾との交流強化法案に署名、中国は反発
-5. アメリカ、燃費規制緩和へ、トランプ政権が計画発表
-6. リトアニアの空港、風船の影響で再び閉鎖
+1. 長期金利上昇、10年国債利回り1.9％ - 2007年以来の高水準
+2. 富山でクマ被害相次ぐ、70代夫婦含む複数人が負傷
+3. 国連総会、ロシアへ連れ去られた子どもの即時帰還求める決議
+4. 山口県宇部市で広範囲なガス漏れ、複数箇所で火災発生
+5. 福島県浜通りで地震発生、最大震度2
+6. アップルのデザイン責任者、メタ（旧フェイスブック）へ移籍
 
 ----
 
-@sokuho.news
+@nhknewsunofficial.bsky.social
 
-🛎️NNNより【速報】です。
+長期金利 10年もの国債利回り1.9％に 2007年7月以来の高水準
+https://news.web.nhk/newsweb/na/na-k10014993551000
 
-【速報】宇部市で広範囲にわたりガス漏れ発生 およそ10件火災発生も消火 都市ガスの圧力異常か
-(2025-12-04 08:23) #ニュース
-
-[2025-12-04 08:48:40](https://bsky.app/profile/sokuho.news/post/3m74nh3ev432y)
+[2025-12-04 09:09:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74olpirdy2r)
 
 ---
 
-@sokuho.news
+@nhknewsunofficial.bsky.social
 
-🛎️FNNより【速報】です。
+富山 「クマに襲われた」と通報 70代夫婦がけが
+https://news.web.nhk/newsweb/na/na-k10014993541000
 
-【速報】富山市婦中町でクマ人身被害 未明に男女2人が襲われケガ
-(2025-12-04 08:44) #ニュース
-
-[2025-12-04 08:47:34](https://bsky.app/profile/sokuho.news/post/3m74nf47si324)
+[2025-12-04 09:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74olkhq7g26)
 
 ---
 
-@sokuho.news
+@cnbc.com
 
-🛎️NNNより【速報】です。
+Cramer's Lightning Round: Buy MSCI
 
-【速報】宇部市で広範囲にわたりガス漏れ発生 少なくと10件火災発生も消火 都市ガスの圧力異常か
-(2025-12-04 08:23) #ニュース
-
-[2025-12-04 08:47:31](https://bsky.app/profile/sokuho.news/post/3m74nezuk6n2d)
+[2025-12-04 09:08:18](https://bsky.app/profile/cnbc.com/post/3m74ok6ce7z2i)
 
 ---
 
-@wsj.com
+@npr.org
 
-With a U.S. Navy flotilla off the coast and President Trump pushing for strongman Nicolás Maduro’s ouster, Venezuelans are focused on a more urgent matter: the price of Christmas preparations.
+Panahi's latest film, It Was Just an Accident, won three Gotham Awards on Monday. The filmmaker has been imprisoned in Iran before — but continues to make movies. n.pr/4oAZ5o5
 
-[2025-12-04 08:46:53](https://bsky.app/profile/wsj.com/post/3m74ndvdwi42x)
+[2025-12-04 09:05:52](https://bsky.app/profile/npr.org/post/3m74oft4xco2s)
 
 ---
 
 @reuters.com
 
-Push is on in US Congress to impose ban on lawmaker stock trades reut.rs/4auFJxn
+OpenAI loses fight to keep ChatGPT logs secret in copyright case reut.rs/4piz7Ha
 
-[2025-12-04 08:45:06](https://bsky.app/profile/reuters.com/post/3m74napkbv22k)
-
----
-
-@en.afp.com
-
-Billionaire Jared Isaacman, who has been re-nominated by US President Donald Trump to lead NASA, told senators on Wednesday he would ensure the United States beats "great rival" China in the race to return humans to the Moon.
-u.afp.com/Shys
-
-[2025-12-04 08:45:02](https://bsky.app/profile/en.afp.com/post/3m74nallkco2m)
+[2025-12-04 09:05:05](https://bsky.app/profile/reuters.com/post/3m74oegwflg27)
 
 ---
 
-@sokuho.news
+@cnbc.com
 
-🛎️FNNより【速報】です。
+Asia markets set to open mixed after Wall Street gains on cooler-than-expected jobs data and rate-cut hopes
 
-【速報】山口・宇部市で広範囲にガス漏れか 火事の通報も複数寄せられる 都市ガスの圧力異常か ガスを使用しないように呼びかけ
-(2025-12-04 08:25) #ニュース
-
-[2025-12-04 08:44:49](https://bsky.app/profile/sokuho.news/post/3m74na7f55i2w)
+[2025-12-04 09:04:59](https://bsky.app/profile/cnbc.com/post/3m74oeb3nqx2f)
 
 ---
 
-@sokuho.news
+@nhknewsunofficial.bsky.social
 
-🛎️FNNより【速報】です。
+ロシアへ連れ去られた子ども 即時帰還求める決議採択 国連総会
+https://news.web.nhk/newsweb/na/na-k10014993531000
 
-【速報】山口・宇部市で広範囲にガス漏れか 火事の通報も複数寄せられる ガスの圧力異常か ガスを使用しないように呼びかけ
-(2025-12-04 08:25) #ニュース
-
-[2025-12-04 08:41:42](https://bsky.app/profile/sokuho.news/post/3m74n2msnjt22)
+[2025-12-04 09:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74oatptop2k)
 
 ---
 
-@sokuho.news
+@financialtimes.com
 
-🔔防災科研より【強震モニタ】動画です。
+Trump doubles down on claims of affordability ‘hoax’ on.ft.com/4iFg9Ib
 
-震源:福島県浜通り, 深さ:10km
-マグニチュード:3.8, 最大震度:2
-📍https://www.google.com/maps?q=37.1,140.8&ll=37.1,140.8&z=7&t=h
-地震発生日時:2025-12-04 08:37頃
-(10倍速▶120s→12s) #地震
-
-[2025-12-04 08:40:46](https://bsky.app/profile/sokuho.news/post/3m74myxirnd22)
+[2025-12-04 09:02:38](https://bsky.app/profile/financialtimes.com/post/3m74oa2plmr26)
 
 ---
 
-@sokuho.news
+@cnbc.com
 
-🔔気象庁より【地震速報】です。
+Cami sold her home, bought a laundromat in Arizona and ultimately quit her nursing job to run the business full-time — changing her life for the better, she says.
 
-8時37分頃、福島県で最大震度2の地震を観測しました。
-震源:福島県浜通り, 深さ:10km, 規模:M3.8
-この地震による津波の心配はありません。
-(2025-12-04 08:40:17) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/04/2025-12-04-08-37-48.html?xlarge_image=1
+“Now, I’m only working maybe five or six hours a week [running the laundromat],” says Cami.
 
-[2025-12-04 08:40:17](https://bsky.app/profile/sokuho.news/post/3m74my4hnt42q)
+[2025-12-04 09:01:14](https://bsky.app/profile/cnbc.com/post/3m74o5kjh2o2x)
+
+---
+
+@cnn.com
+
+Costco on Friday filed a lawsuit that contends Pesident Trump overstepped his emergency powers by imposing sweeping tariffs – and claimed the company is due a refund. Read more analysis: https://cnn.it/48PRux6
+
+[2025-12-04 09:01:02](https://bsky.app/profile/cnn.com/post/3m74o56vfad2f)
 
 ---
 
