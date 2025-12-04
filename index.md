@@ -1,9 +1,9 @@
-# [2025-12-05 03:30 updated](2025_12_05.md)
+# [2025-12-05 03:50 updated](2025_12_05.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">As we leave our jobs and as we get older, there’s so much loss. But there’s also a lot to celebrate. <a href="https://bsky.app/profile/wsj.com/post/3m76m35bt3v2i" target="_blank">wsj.com</a> (2025-12-05 03:29:25)</span><span style="padding-right:50px;">Brazil's GDP slows more than expected, fueling bets on January rate cut reut.rs/49SZ8rF <a href="https://bsky.app/profile/reuters.com/post/3m76ltfaheb2y" target="_blank">reuters.com</a> (2025-12-05 03:25:05)</span><span style="padding-right:50px;">President Vladimir Putin of Russia “must have” authorized the nerve agent poisoning attack that accidentally killed a British woman in 2018, and he bears “moral responsibility” for her death, the chair of a British inquiry said on Thursday. <a href="https://bsky.app/profile/nytimes.com/post/3m76lte4wdu24" target="_blank">nytimes.com</a> (2025-12-05 03:25:04)</span><span style="padding-right:50px;">BREAKING: Bill Pulte, who led mortgage fraud probes for Trump, target of watchdog inquiry <a href="https://bsky.app/profile/axios.com/post/3m76limnxek2p" target="_blank">axios.com</a> (2025-12-05 03:19:04)</span><span style="padding-right:50px;">BREAKING: A Navy admiral tells lawmakers there was no "kill them all" order from Hegseth in the Sept. 2 attack that killed two drug boat survivors. <a href="https://bsky.app/profile/apnews.com/post/3m76lbps2s72j" target="_blank">apnews.com</a> (2025-12-05 03:15:12)</span>
+<span style="padding-right:50px;">Exclusive: Target is shifting some online-order fulfillment to less-busy stores, among other methods to speed up delivery and improve the in-store experience. <a href="https://bsky.app/profile/wsj.com/post/3m76n4auz6i2p" target="_blank">wsj.com</a> (2025-12-05 03:47:56)</span><span style="padding-right:50px;">Snowflake tumbles on slower quarterly product revenue growth forecast reut.rs/4oDRYLn <a href="https://bsky.app/profile/reuters.com/post/3m76mxkfck62n" target="_blank">reuters.com</a> (2025-12-05 03:45:18)</span><span style="padding-right:50px;">An under-the-radar medical device stock with 20% upside, according to the charts <a href="https://bsky.app/profile/cnbc.com/post/3m76mxeecmc2e" target="_blank">cnbc.com</a> (2025-12-05 03:45:12)</span><span style="padding-right:50px;">New York Times sues Pentagon over press access reut.rs/4pOIJJu <a href="https://bsky.app/profile/reuters.com/post/3m76monp5se27" target="_blank">reuters.com</a> (2025-12-05 03:40:20)</span><span style="padding-right:50px;">Layoff announcements this year have hit their highest level since 2020, when the Covid-19 pandemic shut down the U.S. economy, consulting firm Challenger, Gray & Christmas says. <a href="https://bsky.app/profile/nbcnews.com/post/3m76mokevfa2f" target="_blank">nbcnews.com</a> (2025-12-05 03:40:17)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47930.93 (🔺42.77 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23490.29 (🔻37.00 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.60 (🔺2.03 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 154.92 (🔻0.26 : 2025-12-04)</span>
+<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47874.84 (🔻13.32 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23472.28 (🔻55.02 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.40 (🔺1.82 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 154.94 (🔻0.24 : 2025-12-04)</span>
   </div>
 </div>
 
@@ -32,92 +32,92 @@
 
 ## News Headlines
 
-1.  ロシア、2018年英国ノビチョク事件でプーチン大統領に道義的責任
-2.  トランプ前大統領の住宅ローン詐欺調査責任者、監視機関の調査対象に
-3.  米議会、未成年者への性的虐待疑惑エプスタイン島の写真と映像を公開
-4.  コンゴ民主共和国とルワンダ、米国仲介で和平合意署名も現実は異なる
-5.  法的移民への締め付け強化、トランプ政権が就労許可期間を短縮
-6.  チュニジアの野党指導者、逮捕され取り締まりがエスカレート
+1. ターゲット、オンライン注文処理を一部店舗へ移行
+2. Snowflake、製品売上高予測減速で株価急落
+3. 米NYタイムズ、報道アクセス制限で国防総省を提訴
+4. 今年発表のレイオフ、2020年以来の高水準
+5. カンボジア国立銀行、巨額資金洗浄拠点閉鎖
+6. ロシアのプーチン大統領、ノビチョク事件に「道義的責任」と英国調査
 
 ----
 
 @wsj.com
 
-As we leave our jobs and as we get older, there’s so much loss. But there’s also a lot to celebrate.
+Exclusive: Target is shifting some online-order fulfillment to less-busy stores, among other methods to speed up delivery and improve the in-store experience.
 
-[2025-12-05 03:29:25](https://bsky.app/profile/wsj.com/post/3m76m35bt3v2i)
+[2025-12-05 03:47:56](https://bsky.app/profile/wsj.com/post/3m76n4auz6i2p)
 
 ---
 
 @reuters.com
 
-Brazil's GDP slows more than expected, fueling bets on January rate cut reut.rs/49SZ8rF
+Snowflake tumbles on slower quarterly product revenue growth forecast reut.rs/4oDRYLn
 
-[2025-12-05 03:25:05](https://bsky.app/profile/reuters.com/post/3m76ltfaheb2y)
+[2025-12-05 03:45:18](https://bsky.app/profile/reuters.com/post/3m76mxkfck62n)
+
+---
+
+@cnbc.com
+
+An under-the-radar medical device stock with 20% upside, according to the charts
+
+[2025-12-05 03:45:12](https://bsky.app/profile/cnbc.com/post/3m76mxeecmc2e)
+
+---
+
+@reuters.com
+
+New York Times sues Pentagon over press access reut.rs/4pOIJJu
+
+[2025-12-05 03:40:20](https://bsky.app/profile/reuters.com/post/3m76monp5se27)
+
+---
+
+@nbcnews.com
+
+Layoff announcements this year have hit their highest level since 2020, when the Covid-19 pandemic shut down the U.S. economy, consulting firm Challenger, Gray & Christmas says.
+
+[2025-12-05 03:40:17](https://bsky.app/profile/nbcnews.com/post/3m76mokevfa2f)
 
 ---
 
 @nytimes.com
 
-President Vladimir Putin of Russia “must have” authorized the nerve agent poisoning attack that accidentally killed a British woman in 2018, and he bears “moral responsibility” for her death, the chair of a British inquiry said on Thursday.
+The Cambodian National Bank announced on Wednesday that it had shut down a notorious hub that was used to launder billions of dollars from criminals, scammers and fraudsters, including hackers in South Korea and Southeast Asia.
 
-[2025-12-05 03:25:04](https://bsky.app/profile/nytimes.com/post/3m76lte4wdu24)
-
----
-
-@axios.com
-
-<strong><span style="color: red;">BREAKING:</span> Bill Pulte, who led mortgage fraud probes for Trump, target of watchdog inquiry</strong>
-
-[2025-12-05 03:19:04](https://bsky.app/profile/axios.com/post/3m76limnxek2p)
-
----
-
-@apnews.com
-
-<strong><span style="color: red;">BREAKING:</span> A Navy admiral tells lawmakers there was no "kill them all" order from Hegseth in the Sept. 2 attack that killed two drug boat survivors.</strong>
-
-[2025-12-05 03:15:12](https://bsky.app/profile/apnews.com/post/3m76lbps2s72j)
+[2025-12-05 03:40:05](https://bsky.app/profile/nytimes.com/post/3m76mo724vd26)
 
 ---
 
 @reuters.com
 
-Main findings from UK Novichok report that blames Russia reut.rs/44EzMKw
+Economists double down on December Fed cut despite policymaker divide: Reuters poll reut.rs/4pjHt0Y
 
-[2025-12-05 03:15:09](https://bsky.app/profile/reuters.com/post/3m76lbmva5j2y)
-
----
-
-@en.afp.com
-
-VIDEO: Democrats in the US Congress release photos and videos showing the luxury island home where convicted sex offender Jeffrey Epstein allegedly forced underage girls into sex with powerful men. According to US media, the images were taken in 2020, a year after Epstein's death in custody.
-
-[2025-12-05 03:12:06](https://bsky.app/profile/en.afp.com/post/3m76l465vrm25)
+[2025-12-05 03:35:03](https://bsky.app/profile/reuters.com/post/3m76mf7spgx2e)
 
 ---
 
-@npr.org
+@cnbc.com
 
-A long-awaited U.S.-brokered peace deal between DR Congo and Rwanda will be signed in Washington on Thursday — but the reality on the ground tells a different story. n.pr/3Kwuh9S
+Microsoft will raise prices of commercial Office subscriptions in July
 
-[2025-12-05 03:11:19](https://bsky.app/profile/npr.org/post/3m76l2rpjrf2a)
+[2025-12-05 03:34:14](https://bsky.app/profile/cnbc.com/post/3m76mdqusy42r)
 
 ---
 
-@reuters.com
+@cnn.com
 
-British American Tobacco plans to offload stake in India's ITC Hotels reut.rs/48hcf4I
+CDC advisers postpone vote on changing hepatitis B vaccine recommendation to Friday morning https://cnn.it/445pIdw
 
-[2025-12-05 03:10:15](https://bsky.app/profile/reuters.com/post/3m76kyu2dqn2k)
+[2025-12-05 03:32:13](https://bsky.app/profile/cnn.com/post/3m76ma5akdl2j)
 
 ---
 
 @nytimes.com
 
-From @theathletic.com: Chaos has yet to rain down on the College Football Playoff race. Will we finally get some on the last weekend of the season?
+The FDA said on Tuesday that people should stop using certain types of glucose monitor sensors after the maker, Abbott Diabetes Care, warned that the faulty products could be tied to at least seven deaths.
 
-[2025-12-05 03:10:06](https://bsky.app/profile/nytimes.com/post/3m76kym53de2h)
+[2025-12-05 03:32:06](https://bsky.app/profile/nytimes.com/post/3m76m7wllow27)
 
 ---
 
