@@ -1,9 +1,9 @@
-# [2025-12-05 04:30 updated](2025_12_05.md)
+# [2025-12-05 04:50 updated](2025_12_05.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Meta to cut up to 30% of metaverse budget, Bloomberg News reports reut.rs/48kJ1lB <a href="https://bsky.app/profile/reuters.com/post/3m76p6t7fvg2w" target="_blank">reuters.com</a> (2025-12-05 04:25:10)</span><span style="padding-right:50px;">The transformation of Phoenix, Arizona, into a semiconductor hub by a Taiwanese company illustrates the difficulties of large-scale projects in the U.S. <a href="https://bsky.app/profile/nytimes.com/post/3m76p6mipkr2h" target="_blank">nytimes.com</a> (2025-12-05 04:25:03)</span><span style="padding-right:50px;">Cornelia Foss, better known as a confidante to other artists than as an artist herself, has put aside landscape painting for something far more visceral. trib.al/ooAj7d8 <a href="https://bsky.app/profile/nytimes.com/post/3m76p5i7l6c2z" target="_blank">nytimes.com</a> (2025-12-05 04:24:25)</span><span style="padding-right:50px;">The Somali community in Minneapolis express fear as ICE begins enforcement operations. Administration officials say ICE in Minneapolis are not targeting the Somali community and is enforcing deportation orders already issued by judges. <a href="https://bsky.app/profile/nbcnews.com/post/3m76owcezk62i" target="_blank">nbcnews.com</a> (2025-12-05 04:20:24)</span><span style="padding-right:50px;">From @theathleticfc.bsky.social: Which nation is most likely to win the 2026 World Cup? We ranked all 64 teams. nyti.ms/3MjW5Po <a href="https://bsky.app/profile/nytimes.com/post/3m76otvxfmk2e" target="_blank">nytimes.com</a> (2025-12-05 04:19:04)</span>
+<span style="padding-right:50px;">Thomas Mueller says his past results against Lionel Messi will count for little when he lines up for the Vancouver Whitecaps against Inter Miami in the MLS Cup final on Saturday. u.afp.com/S7ZF <a href="https://bsky.app/profile/en.afp.com/post/3m76qgj2g6e2k" target="_blank">en.afp.com</a> (2025-12-05 04:47:21)</span><span style="padding-right:50px;">South African rand firms as government offers eurobonds reut.rs/4rBmgRO <a href="https://bsky.app/profile/reuters.com/post/3m76qcjx7i42k" target="_blank">reuters.com</a> (2025-12-05 04:45:08)</span><span style="padding-right:50px;">Canada's Ivey PMI shows activity contracting in November as employment falls reut.rs/447Tw9c <a href="https://bsky.app/profile/reuters.com/post/3m76pzqjjuy22" target="_blank">reuters.com</a> (2025-12-05 04:40:13)</span><span style="padding-right:50px;">Several female lawmakers have been increasingly defying Speaker Mike Johnson on legislative matters and lobbing public broadsides at him — including a member of Johnson’s own leadership team. nbcnews.to/48QIAPX <a href="https://bsky.app/profile/nbcnews.com/post/3m76pzpo73d2j" target="_blank">nbcnews.com</a> (2025-12-05 04:40:12)</span><span style="padding-right:50px;">OPEC oil output slips in November despite agreed hike, survey finds reut.rs/48PWi5E <a href="https://bsky.app/profile/reuters.com/post/3m76pqj34cg2i" target="_blank">reuters.com</a> (2025-12-05 04:35:04)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47735.36 (🔻152.80 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23405.73 (🔻121.57 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 182.30 (🔺0.73 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 154.98 (🔻0.20 : 2025-12-04)</span>
+<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47821.64 (🔻66.52 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23479.04 (🔻48.26 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.20 (🔺1.63 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 154.99 (🔻0.19 : 2025-12-04)</span>
   </div>
 </div>
 
@@ -32,92 +32,92 @@
 
 ## News Headlines
 
-1. Meta、メタバース予算を最大30%削減か
-2. フェニックスの半導体ハブ化、課題浮き彫りに
-3. ICE、ミネアポリスのソマリア人コミュニティで強制捜査開始、住民は不安
-4. TSX、銀行業績好調で過去最高値に迫る
-5. スペイン、アイルランドなどが来年のユーロビジョン・ソング・コンテストをボイコット
-6. 2020年以降で最多のレイオフ発表、米経済に影響
+1.  ミューラー、メッシとの過去の対戦結果は意味がないと語る
+2.  南アフリカランド、政府のユーロ債発行で上昇
+3.  カナダのIvey PMI、11月に活動が縮小、雇用も減少
+4.  OPECの石油生産量、合意された増産にもかかわらず11月に減少
+5.  メタ、メタバース部門の予算を最大30%削減へ
+6.  CDCパネル、B型肝炎ワクチン推奨変更の投票を再び延期
 
 ----
 
+@en.afp.com
+
+Thomas Mueller says his past results against Lionel Messi will count for little when he lines up for the Vancouver Whitecaps against Inter Miami in the MLS Cup final on Saturday. u.afp.com/S7ZF
+
+[2025-12-05 04:47:21](https://bsky.app/profile/en.afp.com/post/3m76qgj2g6e2k)
+
+---
+
 @reuters.com
 
-Meta to cut up to 30% of metaverse budget, Bloomberg News reports reut.rs/48kJ1lB
+South African rand firms as government offers eurobonds reut.rs/4rBmgRO
 
-[2025-12-05 04:25:10](https://bsky.app/profile/reuters.com/post/3m76p6t7fvg2w)
-
----
-
-@nytimes.com
-
-The transformation of Phoenix, Arizona, into a semiconductor hub by a Taiwanese company illustrates the difficulties of large-scale projects in the U.S.
-
-[2025-12-05 04:25:03](https://bsky.app/profile/nytimes.com/post/3m76p6mipkr2h)
+[2025-12-05 04:45:08](https://bsky.app/profile/reuters.com/post/3m76qcjx7i42k)
 
 ---
 
-@nytimes.com
+@reuters.com
 
-Cornelia Foss, better known as a confidante to other artists than as an artist herself, has put aside landscape painting for something far more visceral. trib.al/ooAj7d8
+Canada's Ivey PMI shows activity contracting in November as employment falls reut.rs/447Tw9c
 
-[2025-12-05 04:24:25](https://bsky.app/profile/nytimes.com/post/3m76p5i7l6c2z)
+[2025-12-05 04:40:13](https://bsky.app/profile/reuters.com/post/3m76pzqjjuy22)
 
 ---
 
 @nbcnews.com
 
-The Somali community in Minneapolis express fear as ICE begins enforcement operations. Administration officials say ICE in Minneapolis are not targeting the Somali community and is enforcing deportation orders already issued by judges.
+Several female lawmakers have been increasingly defying Speaker Mike Johnson on legislative matters and lobbing public broadsides at him — including a member of Johnson’s own leadership team. nbcnews.to/48QIAPX
 
-[2025-12-05 04:20:24](https://bsky.app/profile/nbcnews.com/post/3m76owcezk62i)
+[2025-12-05 04:40:12](https://bsky.app/profile/nbcnews.com/post/3m76pzpo73d2j)
 
 ---
 
-@nytimes.com
+@reuters.com
 
-From @theathleticfc.bsky.social: Which nation is most likely to win the 2026 World Cup? We ranked all 64 teams. nyti.ms/3MjW5Po
+OPEC oil output slips in November despite agreed hike, survey finds reut.rs/48PWi5E
 
-[2025-12-05 04:19:04](https://bsky.app/profile/nytimes.com/post/3m76otvxfmk2e)
+[2025-12-05 04:35:04](https://bsky.app/profile/reuters.com/post/3m76pqj34cg2i)
 
 ---
 
 @wsj.com
 
-Ukraine’s anticorruption bureau is turning theatrical as it competes for attention with news of the front line of Russia’s nearly four-year-old invasion.
+A potential blockbuster stock offering of Fannie Mae and Freddie Mac could partially free the mortgage giants from government ownership and reap billions.
 
-[2025-12-05 04:16:48](https://bsky.app/profile/wsj.com/post/3m76opui7b32l)
+[2025-12-05 04:34:30](https://bsky.app/profile/wsj.com/post/3m76ppix3t72j)
+
+---
+
+@apnews.com
+
+The suspect accused of planting pipe bombs before Jan. 6 attack on the Capitol is charged with an explosives offense, Bondi says.
+
+[2025-12-05 04:34:01](https://bsky.app/profile/apnews.com/post/3m76ponspz727)
+
+---
+
+@nytimes.com
+
+<strong><span style="color: red;">Breaking News</span>: A vaccine advisory panel again delayed voting on whether to change a decades-long recommendation that all newborns get hepatitis B vaccinations. The panel had postponed the vote twice before.</strong>
+
+[2025-12-05 04:32:01](https://bsky.app/profile/nytimes.com/post/3m76pl3ejzr27)
 
 ---
 
 @reuters.com
 
-TSX nears record high as bank earnings boost optimism reut.rs/4ag3h9p
+Olympic downhill champion Suter sidelined for a month after fall at training reut.rs/4axHeLh
 
-[2025-12-05 04:15:12](https://bsky.app/profile/reuters.com/post/3m76omzcedz2e)
-
----
-
-@cnbc.com
-
-Where to lock in 4% yields on CDs ahead of likely Fed rate cut
-
-[2025-12-05 04:14:46](https://bsky.app/profile/cnbc.com/post/3m76om7qhc32e)
+[2025-12-05 04:30:41](https://bsky.app/profile/reuters.com/post/3m76piopgik26)
 
 ---
 
-@npr.org
+@usatoday.com
 
-Spotify Wrapped is bluntly telling users their "listening age," which in many cases is several decades older or younger than their actual age. It's a calculated strategy. n.pr/48ScByQ
+Famed color factory Pantone released its shade of the upcoming year, or perhaps more appropriately for 2026, its lack of shade.
 
-[2025-12-05 04:13:00](https://bsky.app/profile/npr.org/post/3m76oj3a35f2g)
-
----
-
-@reuters.com
-
-Chicago Fed sees November unemployment rate steady at 4.4% as alternate data shows job losses reut.rs/4owbDgx
-
-[2025-12-05 04:10:11](https://bsky.app/profile/reuters.com/post/3m76odzonw52r)
+[2025-12-05 04:30:32](https://bsky.app/profile/usatoday.com/post/3m76pigawez2u)
 
 ---
 
