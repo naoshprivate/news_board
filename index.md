@@ -1,9 +1,9 @@
-# [2025-12-05 07:50 updated](2025_12_05.md)
+# [2025-12-05 08:10 updated](2025_12_05.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">BREAKING: Grand jury declines to indict New York AG Letitia James, less than two weeks after the first case was dismissed. <a href="https://bsky.app/profile/nbcnews.com/post/3m772lh55yb2j" target="_blank">nbcnews.com</a> (2025-12-05 07:49:05)</span><span style="padding-right:50px;">Exclusive: U.S. Steel plans to resume steelmaking at an Illinois plant where the Trump administration intervened last summer to keep production going. <a href="https://bsky.app/profile/wsj.com/post/3m772k6hkmr2j" target="_blank">wsj.com</a> (2025-12-05 07:48:22)</span><span style="padding-right:50px;">Breaking News: Two NYPD officers will not be charged for fatally shooting a 19-year-old after he called 911 for help during a mental health crisis. <a href="https://bsky.app/profile/nytimes.com/post/3m772jkfz5427" target="_blank">nytimes.com</a> (2025-12-05 07:48:01)</span><span style="padding-right:50px;">Bahamas plans tougher smuggling laws as US presses migration issue reut.rs/4ppD6la <a href="https://bsky.app/profile/reuters.com/post/3m772el3hkj2k" target="_blank">reuters.com</a> (2025-12-05 07:45:14)</span><span style="padding-right:50px;">Work permits for asylum seekers will now be valid for 18 months instead of five years, U.S. Citizenship and Immigration Services said.  The Department of Homeland Security agency said the policy change is due to the shooting of two National Guard members. <a href="https://bsky.app/profile/washingtonpost.com/post/3m772ecpynw2a" target="_blank">washingtonpost.com</a> (2025-12-05 07:45:05)</span>
+<span style="padding-right:50px;">The order is focused on applicants for H-1B visas, which are frequently used by tech companies and is part of a campaign by the Trump administration against online content moderation. n.pr/48vKXX3 <a href="https://bsky.app/profile/npr.org/post/3m773pvtct22r" target="_blank">npr.org</a> (2025-12-05 08:09:28)</span><span style="padding-right:50px;">Texas approved a new congressional map this summer after Trump urged state GOP lawmakers to craft new House district lines to help Republicans hold onto their majority in the 2026 midterms. <a href="https://bsky.app/profile/cbsnews.com/post/3m773n7kdku26" target="_blank">cbsnews.com</a> (2025-12-05 08:07:58)</span><span style="padding-right:50px;">Meta Platforms is planning cuts to the metaverse—an arena Mark Zuckerberg once called the future of the company—and will shift spending to AI wearables. <a href="https://bsky.app/profile/wsj.com/post/3m773mfkbxa2t" target="_blank">wsj.com</a> (2025-12-05 08:07:30)</span><span style="padding-right:50px;">US lawmakers reviewed a summary of a Pentagon document that lays out the scope of the Trump administration's campaign to strike vessels carrying narcotics in the Caribbean, according to four sources familiar with the matter reut.rs/3MhXuWK <a href="https://bsky.app/profile/reuters.com/post/3m773kyucjs2y" target="_blank">reuters.com</a> (2025-12-05 08:06:44)</span><span style="padding-right:50px;">Springbok lock Etzebeth gets 12-match ban for eye gouge reut.rs/4rVOwir <a href="https://bsky.app/profile/reuters.com/post/3m773i7xepb2o" target="_blank">reuters.com</a> (2025-12-05 08:05:10)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47850.94 (🔻37.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.38 (🔺1.81 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 155.04 (🔻0.14 : 2025-12-04)</span>
+<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47850.94 (🔻37.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.38 (🔺1.81 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 155.11 (🔺0.06 : 2025-12-04)</span>
   </div>
 </div>
 
@@ -32,101 +32,92 @@
 
 ## News Headlines
 
-1. NY州司法長官、不起訴に
-2. USスチール、イリノイ州工場で製鋼再開へ
-3. NYPD、精神疾患の19歳射殺で警官を不起訴
-4. ユニクロ塚越大介氏、ファーストリテイリング取締役に就任
-5. スキージャンプ女子 丸山希選手3位
-6. 出国税、3000円へ引き上げ検討
+1.  トランプ政権、オンラインコンテンツ規制強化に向けH-1Bビザ制限
+2.  メタ、メタバース投資削減しAIウェアラブルへ注力
+3.  南アのラグビー選手、目潰し行為で12試合出場停止
+4.  米当局、泥酔アライグマを保護　バージニア州の酒店で騒動
+5.  日本経済新聞: 中国不動産に暗雲、碧桂園が清算回避に正念場
+6.  スキージャンプ女子 丸山希選手3位 ワールドカップ
 
 ----
 
-@nbcnews.com
+@npr.org
 
-<strong><span style="color: red;">BREAKING:</span> Grand jury declines to indict New York AG Letitia James, less than two weeks after the first case was dismissed.</strong>
+The order is focused on applicants for H-1B visas, which are frequently used by tech companies and is part of a campaign by the Trump administration against online content moderation. n.pr/48vKXX3
 
-[2025-12-05 07:49:05](https://bsky.app/profile/nbcnews.com/post/3m772lh55yb2j)
+[2025-12-05 08:09:28](https://bsky.app/profile/npr.org/post/3m773pvtct22r)
+
+---
+
+@cbsnews.com
+
+Texas approved a new congressional map this summer after Trump urged state GOP lawmakers to craft new House district lines to help Republicans hold onto their majority in the 2026 midterms.
+
+[2025-12-05 08:07:58](https://bsky.app/profile/cbsnews.com/post/3m773n7kdku26)
 
 ---
 
 @wsj.com
 
-Exclusive: U.S. Steel plans to resume steelmaking at an Illinois plant where the Trump administration intervened last summer to keep production going.
+Meta Platforms is planning cuts to the metaverse—an arena Mark Zuckerberg once called the future of the company—and will shift spending to AI wearables.
 
-[2025-12-05 07:48:22](https://bsky.app/profile/wsj.com/post/3m772k6hkmr2j)
-
----
-
-@nytimes.com
-
-<strong><span style="color: red;">Breaking News</span>: Two NYPD officers will not be charged for fatally shooting a 19-year-old after he called 911 for help during a mental health crisis.</strong>
-
-[2025-12-05 07:48:01](https://bsky.app/profile/nytimes.com/post/3m772jkfz5427)
+[2025-12-05 08:07:30](https://bsky.app/profile/wsj.com/post/3m773mfkbxa2t)
 
 ---
 
 @reuters.com
 
-Bahamas plans tougher smuggling laws as US presses migration issue reut.rs/4ppD6la
+US lawmakers reviewed a summary of a Pentagon document that lays out the scope of the Trump administration's campaign to strike vessels carrying narcotics in the Caribbean, according to four sources familiar with the matter reut.rs/3MhXuWK
 
-[2025-12-05 07:45:14](https://bsky.app/profile/reuters.com/post/3m772el3hkj2k)
-
----
-
-@washingtonpost.com
-
-Work permits for asylum seekers will now be valid for 18 months instead of five years, U.S. Citizenship and Immigration Services said.
-
-The Department of Homeland Security agency said the policy change is due to the shooting of two National Guard members.
-
-[2025-12-05 07:45:05](https://bsky.app/profile/washingtonpost.com/post/3m772ecpynw2a)
+[2025-12-05 08:06:44](https://bsky.app/profile/reuters.com/post/3m773kyucjs2y)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@reuters.com
 
-Sorry, that page was not found
+Springbok lock Etzebeth gets 12-match ban for eye gouge reut.rs/4rVOwir
 
-[2025-12-05 07:43:16](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m772b2scem2p)
+[2025-12-05 08:05:10](https://bsky.app/profile/reuters.com/post/3m773i7xepb2o)
 
 ---
 
 @cnbc.com
 
-Costco adds Biden Commerce Sec. Gina Raimondo to board on heels of Trump tariff lawsuit
+Dell Industries CEO and chairman Michael Dell says he found success by following a series of personal rules, including: "Be pleased, but never satisfied." 
 
-[2025-12-05 07:42:37](https://bsky.app/profile/cnbc.com/post/3m7727uufca2r)
-
----
-
-@nikkei.com
-
-「ポスト柳井」選び前進　ユニクロ塚越大介社長がファーストリテイリング取締役就任
-www.nikkei.com/article/DGXZQO...
-
-ファストリは11月の株主総会で取締役の定員を10人から15人に拡大。
-
-わざわざ取締役の定数を増やしたのは、塚越氏を引き上げるためだったとの見方もあります。
-
-これまでも柳井正会長兼社長が後継者の「有資格者の一人」と評するなど有力候補とされていました。
-
-[2025-12-05 07:42:18](https://bsky.app/profile/nikkei.com/post/3m7727d2xc32g)
+[2025-12-05 08:02:49](https://bsky.app/profile/cnbc.com/post/3m773dyq3jr2a)
 
 ---
 
 @reuters.com
 
-NATO must be ready to respond to hybrid threats, top commander says reut.rs/448cfl3
+Britain unveils fast-track licensing to boost fintech growth reut.rs/4pDwD6t
 
-[2025-12-05 07:40:20](https://bsky.app/profile/reuters.com/post/3m7723sqprj2n)
+[2025-12-05 08:01:07](https://bsky.app/profile/reuters.com/post/3m773ay3ylx2d)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@cnn.com
 
-Admiral testified Pete Hegseth did not give 'kill them all' order, US lawmakers say
+Capturing the cultural zeitgeist and trends for the year ahead is a tricky business. But every year, the Pantone Color Institute chooses a color to do precisely that. And it has settled on a shade of white, “Cloud Dancer,” as its Color of the Year for 2026. https://cnn.it/3MipgCr
 
-[2025-12-05 07:40:16](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7723pmegc2p)
+[2025-12-05 08:01:02](https://bsky.app/profile/cnn.com/post/3m773atcygu2j)
+
+---
+
+@en.afp.com
+
+Photographs released by the Hanover Animal Protection and Shelter show a drunk raccoon passed out in the bathroom of a Virginia liquor store after ransacking the shop. The raccoon was safely returned to the wild after sobering up at the shelter.
+
+[2025-12-05 08:00:49](https://bsky.app/profile/en.afp.com/post/3m773agpicc2d)
+
+---
+
+@nbcnews.com
+
+Attorney General Pam Bondi credits investigators and prosecutors for "sifting through evidence that had been sitting at the FBI" when discussing the charges against the D.C. pipe bomb suspect.
+
+[2025-12-05 08:00:35](https://bsky.app/profile/nbcnews.com/post/3m7737zazik2c)
 
 ---
 
