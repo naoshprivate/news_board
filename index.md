@@ -1,9 +1,9 @@
-# [2025-12-05 06:30 updated](2025_12_05.md)
+# [2025-12-05 06:50 updated](2025_12_05.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NATO restructures command to boost security in north reut.rs/3KobBt3 <a href="https://bsky.app/profile/reuters.com/post/3m76vva3oyd2i" target="_blank">reuters.com</a> (2025-12-05 06:25:04)</span><span style="padding-right:50px;">In @nytopinion.nytimes.com  “The president knows he is failing, and so he is reverting to what he knows best: trying to divert attention by stoking bigotry,” Rep. Ilhan Omar writes about Trump’s recent remarks on Somali Americans. <a href="https://bsky.app/profile/nytimes.com/post/3m76vv6rfuv2x" target="_blank">nytimes.com</a> (2025-12-05 06:25:03)</span><span style="padding-right:50px;">Amazon's growing clout in US shipping market reut.rs/4ple7zB <a href="https://bsky.app/profile/reuters.com/post/3m76vv6eqpm2d" target="_blank">reuters.com</a> (2025-12-05 06:25:03)</span><span style="padding-right:50px;">Ulta shares pop as beauty retailer hikes sales and earnings outlook for second straight quarter <a href="https://bsky.app/profile/cnbc.com/post/3m76vux4zfe2s" target="_blank">cnbc.com</a> (2025-12-05 06:24:55)</span><span style="padding-right:50px;">Florida is entering the national redistricting arms race, with a legislative hearing set to kick off yet another contentious map-drawing fight. <a href="https://bsky.app/profile/nbcnews.com/post/3m76vmcf2et2j" target="_blank">nbcnews.com</a> (2025-12-05 06:20:05)</span>
+<span style="padding-right:50px;">Appeals court grants President Trump's request to allow National Guard troops to remain in DC for now. https://cnn.it/4iBmMuW <a href="https://bsky.app/profile/cnn.com/post/3m76x7d46io2s" target="_blank">cnn.com</a> (2025-12-05 06:48:37)</span><span style="padding-right:50px;">年末年始の旅は「高単価・遠方・長期間」、海外渡航3割増100万人 www.nikkei.com/article/DGXZQO...  けん引するのは株高で潤う富裕層で、欧米などへの旅行が増加。  平均費用は27万5千円と9%上昇し、「安・近・短」を選ぶ層との二極化が鮮明になりつつあります。 <a href="https://bsky.app/profile/nikkei.com/post/3m76x2jdukc2e" target="_blank">nikkei.com</a> (2025-12-05 06:45:56)</span><span style="padding-right:50px;">US minerals projects seek 'industrial vision' from Washington to compete with China reut.rs/4aCXxq2 <a href="https://bsky.app/profile/reuters.com/post/3m76wz5o3222a" target="_blank">reuters.com</a> (2025-12-05 06:45:10)</span><span style="padding-right:50px;">Defense Secretary Pete Hegseth “did not comply” with the Pentagon’s policies when he used a private messaging app to discuss airstrikes by U.S. forces in Yemen earlier this year, the department’s inspector general said in a report released on Thursday. Here’s what else we learned from the report. <a href="https://bsky.app/profile/nytimes.com/post/3m76wqkwgik25" target="_blank">nytimes.com</a> (2025-12-05 06:40:22)</span><span style="padding-right:50px;">Copper producer Freeport would pursue M&A only if 'stars and moon' align, CEO says reut.rs/48SqY6j <a href="https://bsky.app/profile/reuters.com/post/3m76wqhzdjc2a" target="_blank">reuters.com</a> (2025-12-05 06:40:18)</span>
   </div>
 </div>
 
@@ -32,100 +32,98 @@
 
 ## News Headlines
 
-1. NATO、北部安全保障強化へ指揮系統再編
-2. イルハン・オマル議員、トランプ氏の差別的発言を批判
-3. アマゾン、米国配送市場での影響力拡大
-4. ロシア軍ドローン侵入、ベルリンが戦闘機をポーランドへ派遣
-5. 米控訴裁、トランプ氏の首都警備隊配備を継続容認
-6. 看護師養成学校、約1割が募集停止
+1.  トランプ氏、首都警備の州兵駐留継続を要請、裁判所が許可
+2.  年末年始の海外旅行、富裕層がけん引、平均費用は27万5千円
+3.  米国の鉱物プロジェクト、中国に対抗するため政府に「産業ビジョン」を求める
+4.  民主党、ACA（医療保険制度改革）税額控除延長法案を来週強制採決へ
+5.  Netflix、ワーナー・ブラザース・ディスカバリーの買収に最高額入札か
+6.  ビル・ゲイツ氏、先進国の援助削減で児童死亡率が上昇すると警告
 
 ----
 
+@cnn.com
+
+Appeals court grants President Trump's request to allow National Guard troops to remain in DC for now. https://cnn.it/4iBmMuW
+
+[2025-12-05 06:48:37](https://bsky.app/profile/cnn.com/post/3m76x7d46io2s)
+
+---
+
+@nikkei.com
+
+年末年始の旅は「高単価・遠方・長期間」、海外渡航3割増100万人
+www.nikkei.com/article/DGXZQO...
+
+けん引するのは株高で潤う富裕層で、欧米などへの旅行が増加。
+
+平均費用は27万5千円と9%上昇し、「安・近・短」を選ぶ層との二極化が鮮明になりつつあります。
+
+[2025-12-05 06:45:56](https://bsky.app/profile/nikkei.com/post/3m76x2jdukc2e)
+
+---
+
 @reuters.com
 
-NATO restructures command to boost security in north reut.rs/3KobBt3
+US minerals projects seek 'industrial vision' from Washington to compete with China reut.rs/4aCXxq2
 
-[2025-12-05 06:25:04](https://bsky.app/profile/reuters.com/post/3m76vva3oyd2i)
+[2025-12-05 06:45:10](https://bsky.app/profile/reuters.com/post/3m76wz5o3222a)
 
 ---
 
 @nytimes.com
 
-In @nytopinion.nytimes.com
+Defense Secretary Pete Hegseth “did not comply” with the Pentagon’s policies when he used a private messaging app to discuss airstrikes by U.S. forces in Yemen earlier this year, the department’s inspector general said in a report released on Thursday. Here’s what else we learned from the report.
 
-“The president knows he is failing, and so he is reverting to what he knows best: trying to divert attention by stoking bigotry,” Rep. Ilhan Omar writes about Trump’s recent remarks on Somali Americans.
-
-[2025-12-05 06:25:03](https://bsky.app/profile/nytimes.com/post/3m76vv6rfuv2x)
+[2025-12-05 06:40:22](https://bsky.app/profile/nytimes.com/post/3m76wqkwgik25)
 
 ---
 
 @reuters.com
 
-Amazon's growing clout in US shipping market reut.rs/4ple7zB
+Copper producer Freeport would pursue M&A only if 'stars and moon' align, CEO says reut.rs/48SqY6j
 
-[2025-12-05 06:25:03](https://bsky.app/profile/reuters.com/post/3m76vv6eqpm2d)
-
----
-
-@cnbc.com
-
-Ulta shares pop as beauty retailer hikes sales and earnings outlook for second straight quarter
-
-[2025-12-05 06:24:55](https://bsky.app/profile/cnbc.com/post/3m76vux4zfe2s)
+[2025-12-05 06:40:18](https://bsky.app/profile/reuters.com/post/3m76wqhzdjc2a)
 
 ---
 
 @nbcnews.com
 
-Florida is entering the national redistricting arms race, with a legislative hearing set to kick off yet another contentious map-drawing fight.
+Senate Minority Leader Chuck Schumer says that Democrats will force a vote next week on a bill to extend expiring Affordable Care Act tax credits and prevent health insurance premiums from skyrocketing for millions of Americans.
 
-[2025-12-05 06:20:05](https://bsky.app/profile/nbcnews.com/post/3m76vmcf2et2j)
+[2025-12-05 06:40:05](https://bsky.app/profile/nbcnews.com/post/3m76wq3dyqv2j)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【動画】Pickup NEWS（12月5日）
+https://news.web.nhk/newsweb/na/na-k10014994201000
+
+[2025-12-05 06:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m76wobqvd42j)
+
+---
+
+@nbcnews.com
+
+Who could the United States face in the 2026 World Cup? As the World Cup draw approaches, NBC News’ Steve Kornacki breaks down what we know about the tournament format, including a feature that could give the U.S. men’s national team an edge in the group stage.
+
+[2025-12-05 06:38:42](https://bsky.app/profile/nbcnews.com/post/3m76wnmfwip2w)
 
 ---
 
 @wsj.com
 
-Sabrina Carpenter doesn’t want ICE to use her songs. Trump officials are clear about one thing: They don’t care. 
+Taking up motorcycle riding in his 70s filled one writer’s spirit with joy and made his anxieties about aging disappear.
 
-🔗: on.wsj.com/3MprbVL
-
-[2025-12-05 06:18:47](https://bsky.app/profile/wsj.com/post/3m76vjye3ox2p)
-
----
-
-@nhknewsunofficial.bsky.social
-
-ミラノ・コルティナ五輪 聖火がイタリアに到着
-https://news.web.nhk/newsweb/na/na-k10014994491000
-
-[2025-12-05 06:18:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m76vipznhn2p)
-
----
-
-@washingtonpost.com
-
-A young fur seal waddled into a New Zealand bar on a rainy Sunday, sparking excitement and disbelief.
-
-The pup was showing “normal exploratory behavior” by exploring the bar, which was about a mile from the coast, a ranger said. https://wapo.st/4rBDpL9
-
-[2025-12-05 06:15:47](https://bsky.app/profile/washingtonpost.com/post/3m76vem53q52r)
+[2025-12-05 06:36:02](https://bsky.app/profile/wsj.com/post/3m76witm2eo2t)
 
 ---
 
 @reuters.com
 
-Berlin deploys fighter jets to Poland after Russian drone incursions reut.rs/3Y7xLTp
+Netflix emerges as the highest bidder for Warner Bros Discovery, source says reut.rs/4pjmICC
 
-[2025-12-05 06:15:13](https://bsky.app/profile/reuters.com/post/3m76vdm2rre26)
-
----
-
-@nhknewsunofficial.bsky.social
-
-トランプ政権 和平案でウクライナ高官と協議へ 複数メディア
-https://news.web.nhk/newsweb/na/na-k10014994461000
-
-[2025-12-05 06:15:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m76vddzxzs23)
+[2025-12-05 06:35:06](https://bsky.app/profile/reuters.com/post/3m76wh63v7l2i)
 
 ---
 
