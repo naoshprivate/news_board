@@ -1,9 +1,9 @@
-# [2025-12-05 06:10 updated](2025_12_05.md)
+# [2025-12-05 06:30 updated](2025_12_05.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Over the next decade, advances in artificial intelligence will mean that humans will no longer be needed “for most things” in the world, says Bill Gates. <a href="https://bsky.app/profile/cnbc.com/post/3m76uzif3w22h" target="_blank">cnbc.com</a> (2025-12-05 06:09:34)</span><span style="padding-right:50px;">How did you do in Connections today? Players must select four groups of four words without making more than three mistakes. nyti.ms/3MscHVb <a href="https://bsky.app/profile/nytimes.com/post/3m76uv3ww7c2e" target="_blank">nytimes.com</a> (2025-12-05 06:07:06)</span><span style="padding-right:50px;">A largely Hispanic construction crew working on the roof of a New Orleans home became the latest target of the federal immigration crackdown that arrived in the city on Wednesday. Similar scenes are playing out all over the country. trib.al/dloNZzg <a href="https://bsky.app/profile/nytimes.com/post/3m76urmdj3k23" target="_blank">nytimes.com</a> (2025-12-05 06:05:09)</span><span style="padding-right:50px;">Hearings that began Wednesday in Washington reflected anxiety over the future of the U.S.-Mexico-Canada trade pact and whether President Trump could end up scrapping it. <a href="https://bsky.app/profile/nytimes.com/post/3m76urgeiql2y" target="_blank">nytimes.com</a> (2025-12-05 06:05:03)</span><span style="padding-right:50px;">An accessible alternative to the Pap smear has been endorsed by the American Cancer Society. On Thursday, it released new guidelines saying that self-collection is an acceptable way to test for the virus that causes cervical cancer. <a href="https://bsky.app/profile/nytimes.com/post/3m76urgee5e2h" target="_blank">nytimes.com</a> (2025-12-05 06:05:03)</span>
+<span style="padding-right:50px;">NATO restructures command to boost security in north reut.rs/3KobBt3 <a href="https://bsky.app/profile/reuters.com/post/3m76vva3oyd2i" target="_blank">reuters.com</a> (2025-12-05 06:25:04)</span><span style="padding-right:50px;">In @nytopinion.nytimes.com  “The president knows he is failing, and so he is reverting to what he knows best: trying to divert attention by stoking bigotry,” Rep. Ilhan Omar writes about Trump’s recent remarks on Somali Americans. <a href="https://bsky.app/profile/nytimes.com/post/3m76vv6rfuv2x" target="_blank">nytimes.com</a> (2025-12-05 06:25:03)</span><span style="padding-right:50px;">Amazon's growing clout in US shipping market reut.rs/4ple7zB <a href="https://bsky.app/profile/reuters.com/post/3m76vv6eqpm2d" target="_blank">reuters.com</a> (2025-12-05 06:25:03)</span><span style="padding-right:50px;">Ulta shares pop as beauty retailer hikes sales and earnings outlook for second straight quarter <a href="https://bsky.app/profile/cnbc.com/post/3m76vux4zfe2s" target="_blank">cnbc.com</a> (2025-12-05 06:24:55)</span><span style="padding-right:50px;">Florida is entering the national redistricting arms race, with a legislative hearing set to kick off yet another contentious map-drawing fight. <a href="https://bsky.app/profile/nbcnews.com/post/3m76vmcf2et2j" target="_blank">nbcnews.com</a> (2025-12-05 06:20:05)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47850.94 (🔻37.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.38 (🔺1.81 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 155.08 (🔻0.10 : 2025-12-04)</span>
+<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47850.94 (🔻37.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.38 (🔺1.76 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 155.12 (🔻0.06 : 2025-12-04)</span>
   </div>
 </div>
 
@@ -32,97 +32,100 @@
 
 ## News Headlines
 
-1.  ビル・ゲイツ氏：AIの進化で「ほとんどの仕事」から人間が不要に
-2.  移民取り締まり強化：ニューオーリンズでヒスパニック系建設作業員が標的に
-3.  米国癌協会：子宮頸がん検査で自己採取を推奨
-4.  城島茂、「国分太一と縁は切れない」と語る
-5.  日韓首脳会談、来年1月中旬に奈良で開催の方向で調整
-6.  税制改正：東京と地方の税収格差是正策を検討
+1. NATO、北部安全保障強化へ指揮系統再編
+2. イルハン・オマル議員、トランプ氏の差別的発言を批判
+3. アマゾン、米国配送市場での影響力拡大
+4. ロシア軍ドローン侵入、ベルリンが戦闘機をポーランドへ派遣
+5. 米控訴裁、トランプ氏の首都警備隊配備を継続容認
+6. 看護師養成学校、約1割が募集停止
 
 ----
 
-@cnbc.com
+@reuters.com
 
-Over the next decade, advances in artificial intelligence will mean that humans will no longer be needed “for most things” in the world, says Bill Gates.
+NATO restructures command to boost security in north reut.rs/3KobBt3
 
-[2025-12-05 06:09:34](https://bsky.app/profile/cnbc.com/post/3m76uzif3w22h)
-
----
-
-@nytimes.com
-
-How did you do in Connections today? Players must select four groups of four words without making more than three mistakes. nyti.ms/3MscHVb
-
-[2025-12-05 06:07:06](https://bsky.app/profile/nytimes.com/post/3m76uv3ww7c2e)
+[2025-12-05 06:25:04](https://bsky.app/profile/reuters.com/post/3m76vva3oyd2i)
 
 ---
 
 @nytimes.com
 
-A largely Hispanic construction crew working on the roof of a New Orleans home became the latest target of the federal immigration crackdown that arrived in the city on Wednesday. Similar scenes are playing out all over the country. trib.al/dloNZzg
+In @nytopinion.nytimes.com
 
-[2025-12-05 06:05:09](https://bsky.app/profile/nytimes.com/post/3m76urmdj3k23)
+“The president knows he is failing, and so he is reverting to what he knows best: trying to divert attention by stoking bigotry,” Rep. Ilhan Omar writes about Trump’s recent remarks on Somali Americans.
 
----
-
-@nytimes.com
-
-Hearings that began Wednesday in Washington reflected anxiety over the future of the U.S.-Mexico-Canada trade pact and whether President Trump could end up scrapping it.
-
-[2025-12-05 06:05:03](https://bsky.app/profile/nytimes.com/post/3m76urgeiql2y)
-
----
-
-@nytimes.com
-
-An accessible alternative to the Pap smear has been endorsed by the American Cancer Society. On Thursday, it released new guidelines saying that self-collection is an acceptable way to test for the virus that causes cervical cancer.
-
-[2025-12-05 06:05:03](https://bsky.app/profile/nytimes.com/post/3m76urgee5e2h)
+[2025-12-05 06:25:03](https://bsky.app/profile/nytimes.com/post/3m76vv6rfuv2x)
 
 ---
 
 @reuters.com
 
-Mexico's Sheinbaum to meet Trump, Canada's PM in Washington reut.rs/48kOkBt
+Amazon's growing clout in US shipping market reut.rs/4ple7zB
 
-[2025-12-05 06:05:03](https://bsky.app/profile/reuters.com/post/3m76urh25ix2y)
-
----
-
-@nhknewsunofficial.bsky.social
-
-プーチン大統領 インド訪問 きょうモディ首相と首脳会談へ
-https://news.web.nhk/newsweb/na/na-k10014994441000
-
-[2025-12-05 06:03:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m76uo2o26u2j)
+[2025-12-05 06:25:03](https://bsky.app/profile/reuters.com/post/3m76vv6eqpm2d)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@cnbc.com
 
-全国の看護師を養成する学校 1割近くの課程が募集停止
-https://news.web.nhk/newsweb/na/na-k10014994421000
+Ulta shares pop as beauty retailer hikes sales and earnings outlook for second straight quarter
 
-[2025-12-05 06:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m76unvuut32g)
+[2025-12-05 06:24:55](https://bsky.app/profile/cnbc.com/post/3m76vux4zfe2s)
 
 ---
 
-@sokuho.news
+@nbcnews.com
 
-🛎️週刊女性より【独占】です。
+Florida is entering the national redistricting arms race, with a legislative hearing set to kick off yet another contentious map-drawing fight.
 
-【独占直撃】「国分太一と縁は切れない」電動ママチャリで疾走する元TOKIOリーダー城島茂、ついに明かした3…
-(2025-12-5) #ニュース
-
-[2025-12-05 06:01:38](https://bsky.app/profile/sokuho.news/post/3m76uldgab32w)
+[2025-12-05 06:20:05](https://bsky.app/profile/nbcnews.com/post/3m76vmcf2et2j)
 
 ---
 
 @wsj.com
 
-A starry show, set in an empty subway station, signaled a fresh optimism at the French house, whose business is doing “better than ever.”
+Sabrina Carpenter doesn’t want ICE to use her songs. Trump officials are clear about one thing: They don’t care. 
 
-[2025-12-05 06:01:17](https://bsky.app/profile/wsj.com/post/3m76ukoozij2a)
+🔗: on.wsj.com/3MprbVL
+
+[2025-12-05 06:18:47](https://bsky.app/profile/wsj.com/post/3m76vjye3ox2p)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+ミラノ・コルティナ五輪 聖火がイタリアに到着
+https://news.web.nhk/newsweb/na/na-k10014994491000
+
+[2025-12-05 06:18:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m76vipznhn2p)
+
+---
+
+@washingtonpost.com
+
+A young fur seal waddled into a New Zealand bar on a rainy Sunday, sparking excitement and disbelief.
+
+The pup was showing “normal exploratory behavior” by exploring the bar, which was about a mile from the coast, a ranger said. https://wapo.st/4rBDpL9
+
+[2025-12-05 06:15:47](https://bsky.app/profile/washingtonpost.com/post/3m76vem53q52r)
+
+---
+
+@reuters.com
+
+Berlin deploys fighter jets to Poland after Russian drone incursions reut.rs/3Y7xLTp
+
+[2025-12-05 06:15:13](https://bsky.app/profile/reuters.com/post/3m76vdm2rre26)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+トランプ政権 和平案でウクライナ高官と協議へ 複数メディア
+https://news.web.nhk/newsweb/na/na-k10014994461000
+
+[2025-12-05 06:15:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m76vddzxzs23)
 
 ---
 
