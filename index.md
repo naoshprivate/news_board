@@ -1,9 +1,9 @@
-# [2025-12-05 08:30 updated](2025_12_05.md)
+# [2025-12-05 08:50 updated](2025_12_05.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">JUST IN: Supreme Court allows Republican-backed Texas congressional map in an order that is unlikely to change before midterm elections <a href="https://bsky.app/profile/axios.com/post/3m774o6qyis2s" target="_blank">axios.com</a> (2025-12-05 08:26:24)</span><span style="padding-right:50px;">AMD chief says company ready to pay 15% tax on AI chip shipments to China reut.rs/3Mh4vXT <a href="https://bsky.app/profile/reuters.com/post/3m774lwo42p2e" target="_blank">reuters.com</a> (2025-12-05 08:25:09)</span><span style="padding-right:50px;">The Supreme Court will allow Texas to use its new congressional map, a win for Republican efforts to protect their House majority in the 2026 midterms <a href="https://bsky.app/profile/wsj.com/post/3m774i2gztp22" target="_blank">wsj.com</a> (2025-12-05 08:22:58)</span><span style="padding-right:50px;">Breaking: The Supreme Court clears Texas to use a new Republican-drawn congressional map for next year’s midterm elections <a href="https://bsky.app/profile/bloomberg.com/post/3m774f2tjwr2h" target="_blank">bloomberg.com</a> (2025-12-05 08:21:18)</span><span style="padding-right:50px;">An 88-year-old Army veteran working full time at a Michigan grocery store to make ends meet is about to receive a life-changing amount of money after thousands of people donated over $1 million to help him retire. <a href="https://bsky.app/profile/nbcnews.com/post/3m774dgnfll2i" target="_blank">nbcnews.com</a> (2025-12-05 08:20:23)</span>
+<span style="padding-right:50px;">Breaking news: The Supreme Court handed President Donald Trump and Republicans a major political victory by clearing the way for a new Texas congressional map that was drawn in the hope of flipping up to five House seats to the GOP.   <a href="https://bsky.app/profile/washingtonpost.com/post/3m775sojogz2q" target="_blank">washingtonpost.com</a> (2025-12-05 08:46:49)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】強盗傷害事件で勾留中の54歳男、入院先の伊豆の国市の病院から逃走 警察が行方追う＝静岡県警 (2025-12-05 07:46:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m775qu7imx2q" target="_blank">sokuho.news</a> (2025-12-05 08:45:48)</span><span style="padding-right:50px;">US probes reports Waymo self-driving cars illegally passed school buses 19 times in Texas reut.rs/4pTZVNS <a href="https://bsky.app/profile/reuters.com/post/3m775pvurss2n" target="_blank">reuters.com</a> (2025-12-05 08:45:16)</span><span style="padding-right:50px;">Airlines have canceled flights to and from Venezuela's Maiquetia Simon Bolivar international airport amid warnings from the United States, which has deployed a mighty naval force off the Caribbean coast. u.afp.com/S74x <a href="https://bsky.app/profile/en.afp.com/post/3m775pjoryr2d" target="_blank">en.afp.com</a> (2025-12-05 08:45:02)</span><span style="padding-right:50px;">Salesforce CEO calls AI a 'commodity feature', says the technology bolsters enterprise software <a href="https://bsky.app/profile/cnbc.com/post/3m775ltt2ll2h" target="_blank">cnbc.com</a> (2025-12-05 08:42:59)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47850.94 (🔻37.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.38 (🔺1.81 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 155.13 (🔺0.08 : 2025-12-04)</span>
+<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47850.94 (🔻37.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.38 (🔺1.81 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 155.10 (🔺0.06 : 2025-12-04)</span>
   </div>
 </div>
 
@@ -32,104 +32,97 @@
 
 ## News Headlines
 
-1. 米最高裁、共和党が有利なテキサス州の選挙区地図を承認
-2. AMD、中国へのAIチップ出荷に15%の税金支払い準備
-3. 88歳の退役軍人に1億円超の寄付、引退へ
-4. Meta、メタバース投資削減、AIウェアラブルに注力
-5. パントン、2026年のカラーは「クラウドダンサー」
-6. 勾留中の男が病院から逃走、警察が行方を追う
+1.  最高裁、共和党が有利になるテキサス州の選挙区地図を承認
+2.  強盗傷害事件で勾留中の男、入院先の病院から逃走
+3.  Waymoの自動運転車、スクールバスを違法追い越し疑惑で米当局が調査
+4.  航空会社、ベネズエラ便を相次ぎキャンセル 米国の警告受け
+5.  AIチャットボット、不正確な情報で政治的意見を操作する可能性
+6.  88歳の退役軍人、生活のために働く姿に1億円以上の寄付が集まる
 
 ----
 
-@axios.com
+@washingtonpost.com
 
-<strong><span style="color: red;">JUST IN:</span> Supreme Court allows Republican-backed Texas congressional map in an order that is unlikely to change before midterm elections</strong>
+Breaking news: The Supreme Court handed President Donald Trump and Republicans a major political victory by clearing the way for a new Texas congressional map that was drawn in the hope of flipping up to five House seats to the GOP. 
 
-[2025-12-05 08:26:24](https://bsky.app/profile/axios.com/post/3m774o6qyis2s)
+
+[2025-12-05 08:46:49](https://bsky.app/profile/washingtonpost.com/post/3m775sojogz2q)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】強盗傷害事件で勾留中の54歳男、入院先の伊豆の国市の病院から逃走 警察が行方追う＝静岡県警
+(2025-12-05 07:46:00) #ニュース
+
+[2025-12-05 08:45:48](https://bsky.app/profile/sokuho.news/post/3m775qu7imx2q)
 
 ---
 
 @reuters.com
 
-AMD chief says company ready to pay 15% tax on AI chip shipments to China reut.rs/3Mh4vXT
+US probes reports Waymo self-driving cars illegally passed school buses 19 times in Texas reut.rs/4pTZVNS
 
-[2025-12-05 08:25:09](https://bsky.app/profile/reuters.com/post/3m774lwo42p2e)
-
----
-
-@wsj.com
-
-The Supreme Court will allow Texas to use its new congressional map, a win for Republican efforts to protect their House majority in the 2026 midterms
-
-[2025-12-05 08:22:58](https://bsky.app/profile/wsj.com/post/3m774i2gztp22)
+[2025-12-05 08:45:16](https://bsky.app/profile/reuters.com/post/3m775pvurss2n)
 
 ---
 
-@bloomberg.com
+@en.afp.com
 
-<strong><span style="color: red;">Breaking:</span> The Supreme Court clears Texas to use a new Republican-drawn congressional map for next year’s midterm elections</strong>
+Airlines have canceled flights to and from Venezuela's Maiquetia Simon Bolivar international airport amid warnings from the United States, which has deployed a mighty naval force off the Caribbean coast.
+u.afp.com/S74x
 
-[2025-12-05 08:21:18](https://bsky.app/profile/bloomberg.com/post/3m774f2tjwr2h)
-
----
-
-@nbcnews.com
-
-An 88-year-old Army veteran working full time at a Michigan grocery store to make ends meet is about to receive a life-changing amount of money after thousands of people donated over $1 million to help him retire.
-
-[2025-12-05 08:20:23](https://bsky.app/profile/nbcnews.com/post/3m774dgnfll2i)
-
----
-
-@sokuho.news
-
-🔔防災科研より【強震モニタ】動画です。
-
-震源:長野県北部, 深さ:ごく浅い
-マグニチュード:2.3, 最大震度:1
-📍https://www.google.com/maps?q=36.7,138.2&ll=36.7,138.2&z=7&t=h
-地震発生日時:2025-12-05 08:17頃
-(10倍速▶90s→9s) #地震
-
-[2025-12-05 08:20:15](https://bsky.app/profile/sokuho.news/post/3m774d6nfyt2g)
-
----
-
-@sokuho.news
-
-🔔気象庁より【地震速報】です。
-
-8時17分頃、長野県・新潟県で最大震度1の地震を観測しました。
-震源:長野県北部, 深さ:ごく浅い, 規模:M2.3
-この地震による津波の心配はありません。
-(2025-12-05 08:19:52) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/05/2025-12-05-08-17-07.html?xlarge_image=1
-
-[2025-12-05 08:19:55](https://bsky.app/profile/sokuho.news/post/3m774clbjmg2w)
-
----
-
-@npr.org
-
-The Supreme Court has cleared the way for a Texas congressional map that may help the GOP win five more U.S. House seats in the 2026 midterms. A lower court found the map is likely unconstitutional. n.pr/48vTzgl
-
-[2025-12-05 08:19:09](https://bsky.app/profile/npr.org/post/3m774b7sh7c23)
-
----
-
-@axios.com
-
-NEW: Grand Jury declines second attempt to indict Letitia James
-
-[2025-12-05 08:19:03](https://bsky.app/profile/axios.com/post/3m774b2asts2s)
+[2025-12-05 08:45:02](https://bsky.app/profile/en.afp.com/post/3m775pjoryr2d)
 
 ---
 
 @cnbc.com
 
-Stock futures are little changed ahead of key inflation data: Live updates
+Salesforce CEO calls AI a 'commodity feature', says the technology bolsters enterprise software
 
-[2025-12-05 08:17:07](https://bsky.app/profile/cnbc.com/post/3m7745lqwah2s)
+[2025-12-05 08:42:59](https://bsky.app/profile/cnbc.com/post/3m775ltt2ll2h)
+
+---
+
+@wsj.com
+
+Scientists found that physical intimacy can speed healing, when combined with the "love hormone" oxytocin.
+
+[2025-12-05 08:41:39](https://bsky.app/profile/wsj.com/post/3m775jhmhxp2p)
+
+---
+
+@reuters.com
+
+Senators unveil bill to keep Trump from easing curbs on AI chip sales to China reut.rs/4pNYD6N
+
+[2025-12-05 08:40:17](https://bsky.app/profile/reuters.com/post/3m775gyofh52i)
+
+---
+
+@nytimes.com
+
+<strong><span style="color: red;">Breaking News</span>: A grand jury is said to have declined to re-indict Letitia James, rejecting a Trump effort to revive a criminal case.</strong>
+
+[2025-12-05 08:40:14](https://bsky.app/profile/nytimes.com/post/3m775gw7txf26)
+
+---
+
+@nbcnews.com
+
+AI chatbots are very good at changing peoples’ political opinions, according to a study published, and are particularly persuasive when they use inaccurate information.
+
+[2025-12-05 08:40:12](https://bsky.app/profile/nbcnews.com/post/3m775gug2qo2c)
+
+---
+
+@forbes.com
+
+A panel of judges blocked the state’s new congressional map from being used, arguing Texas racially gerrymandered by redistricting.
+
+[2025-12-05 08:40:07](https://bsky.app/profile/forbes.com/post/3m775gq4gsc2j)
 
 ---
 
