@@ -1,9 +1,9 @@
-# [2025-12-05 05:50 updated](2025_12_05.md)
+# [2025-12-05 06:10 updated](2025_12_05.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Public broadcasters from Spain, the Netherlands, Ireland and Slovenia pulled out of next year’s Eurovision Song Contest after organizers decided to allow Israel to compete. <a href="https://bsky.app/profile/washingtonpost.com/post/3m76tuu2qhl23" target="_blank">washingtonpost.com</a> (2025-12-05 05:49:04)</span><span style="padding-right:50px;">Trustpilot shares plummet after short seller alleges ‘mafia-style’ practices on.ft.com/4owf6vn <a href="https://bsky.app/profile/financialtimes.com/post/3m76tuczwhz26" target="_blank">financialtimes.com</a> (2025-12-05 05:48:46)</span><span style="padding-right:50px;">Exclusive: The fight for the future of Warner Bros. Discovery is getting messy. <a href="https://bsky.app/profile/wsj.com/post/3m76tovm6kd2w" target="_blank">wsj.com</a> (2025-12-05 05:45:44)</span><span style="padding-right:50px;">After a contentious discussion, the vaccine advisory group pushed the vote to Friday to give members time to study the language of proposed changes longstanding policy on the shots. n.pr/48mr3z7 <a href="https://bsky.app/profile/npr.org/post/3m76totlvqp2i" target="_blank">npr.org</a> (2025-12-05 05:45:42)</span><span style="padding-right:50px;">Starbucks Workers United holds rally in NYC as strikes continue for a third week <a href="https://bsky.app/profile/cnbc.com/post/3m76tnx2o4o2q" target="_blank">cnbc.com</a> (2025-12-05 05:45:12)</span>
+<span style="padding-right:50px;">Over the next decade, advances in artificial intelligence will mean that humans will no longer be needed “for most things” in the world, says Bill Gates. <a href="https://bsky.app/profile/cnbc.com/post/3m76uzif3w22h" target="_blank">cnbc.com</a> (2025-12-05 06:09:34)</span><span style="padding-right:50px;">How did you do in Connections today? Players must select four groups of four words without making more than three mistakes. nyti.ms/3MscHVb <a href="https://bsky.app/profile/nytimes.com/post/3m76uv3ww7c2e" target="_blank">nytimes.com</a> (2025-12-05 06:07:06)</span><span style="padding-right:50px;">A largely Hispanic construction crew working on the roof of a New Orleans home became the latest target of the federal immigration crackdown that arrived in the city on Wednesday. Similar scenes are playing out all over the country. trib.al/dloNZzg <a href="https://bsky.app/profile/nytimes.com/post/3m76urmdj3k23" target="_blank">nytimes.com</a> (2025-12-05 06:05:09)</span><span style="padding-right:50px;">Hearings that began Wednesday in Washington reflected anxiety over the future of the U.S.-Mexico-Canada trade pact and whether President Trump could end up scrapping it. <a href="https://bsky.app/profile/nytimes.com/post/3m76urgeiql2y" target="_blank">nytimes.com</a> (2025-12-05 06:05:03)</span><span style="padding-right:50px;">An accessible alternative to the Pap smear has been endorsed by the American Cancer Society. On Thursday, it released new guidelines saying that self-collection is an acceptable way to test for the virus that causes cervical cancer. <a href="https://bsky.app/profile/nytimes.com/post/3m76urgee5e2h" target="_blank">nytimes.com</a> (2025-12-05 06:05:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47803.00 (🔻85.16 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23479.00 (🔻48.30 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.11 (🔺1.54 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 155.09 (🔻0.09 : 2025-12-04)</span>
+<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47850.94 (🔻37.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.38 (🔺1.81 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 155.08 (🔻0.10 : 2025-12-04)</span>
   </div>
 </div>
 
@@ -32,94 +32,97 @@
 
 ## News Headlines
 
-1. ユーロビジョン、イスラエル参加で複数国が辞退
-2. Trustpilot株価急落、不正疑惑で
-3. 米印貿易交渉、来週にも代表団が訪問か
-4. トランプ氏、コンゴ・ルワンダ首脳と和平合意
-5. 衆院定数削減法案、野党の反発激化
-6. CDC諮問委、B型肝炎ワクチン方針見直しで投票延期
+1.  ビル・ゲイツ氏：AIの進化で「ほとんどの仕事」から人間が不要に
+2.  移民取り締まり強化：ニューオーリンズでヒスパニック系建設作業員が標的に
+3.  米国癌協会：子宮頸がん検査で自己採取を推奨
+4.  城島茂、「国分太一と縁は切れない」と語る
+5.  日韓首脳会談、来年1月中旬に奈良で開催の方向で調整
+6.  税制改正：東京と地方の税収格差是正策を検討
 
 ----
 
-@washingtonpost.com
-
-Public broadcasters from Spain, the Netherlands, Ireland and Slovenia pulled out of next year’s Eurovision Song Contest after organizers decided to allow Israel to compete.
-
-[2025-12-05 05:49:04](https://bsky.app/profile/washingtonpost.com/post/3m76tuu2qhl23)
-
----
-
-@financialtimes.com
-
-Trustpilot shares plummet after short seller alleges ‘mafia-style’ practices on.ft.com/4owf6vn
-
-[2025-12-05 05:48:46](https://bsky.app/profile/financialtimes.com/post/3m76tuczwhz26)
-
----
-
-@wsj.com
-
-Exclusive: The fight for the future of Warner Bros. Discovery is getting messy.
-
-[2025-12-05 05:45:44](https://bsky.app/profile/wsj.com/post/3m76tovm6kd2w)
-
----
-
-@npr.org
-
-After a contentious discussion, the vaccine advisory group pushed the vote to Friday to give members time to study the language of proposed changes longstanding policy on the shots. n.pr/48mr3z7
-
-[2025-12-05 05:45:42](https://bsky.app/profile/npr.org/post/3m76totlvqp2i)
-
----
-
 @cnbc.com
 
-Starbucks Workers United holds rally in NYC as strikes continue for a third week
+Over the next decade, advances in artificial intelligence will mean that humans will no longer be needed “for most things” in the world, says Bill Gates.
 
-[2025-12-05 05:45:12](https://bsky.app/profile/cnbc.com/post/3m76tnx2o4o2q)
-
----
-
-@reuters.com
-
-U.S. trade delegation likely to visit India next week for talks, government source says reut.rs/3Kdj0vh
-
-[2025-12-05 05:45:11](https://bsky.app/profile/reuters.com/post/3m76tnvjime26)
+[2025-12-05 06:09:34](https://bsky.app/profile/cnbc.com/post/3m76uzif3w22h)
 
 ---
 
 @nytimes.com
 
-A 6-year-old boy in Queens is one of the youngest migrants to be taken from a parent by ICE and placed in federal custody in New York City as part of President Trump’s deportation crackdown. The child and his father fled China earlier this year.
+How did you do in Connections today? Players must select four groups of four words without making more than three mistakes. nyti.ms/3MscHVb
 
-[2025-12-05 05:45:04](https://bsky.app/profile/nytimes.com/post/3m76tnp7sn22g)
-
----
-
-@en.afp.com
-
-US President Donald Trump and the leaders of Rwanda and the Democratic Republic of Congo signed a peace deal Thursday, even as fresh violence raised questions about the accord to end one of Africa's longest wars. 
-u.afp.com/S74o
-
-[2025-12-05 05:43:42](https://bsky.app/profile/en.afp.com/post/3m76tlbwzd52j)
+[2025-12-05 06:07:06](https://bsky.app/profile/nytimes.com/post/3m76uv3ww7c2e)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@nytimes.com
 
-日韓首脳会談 来年1月中旬 奈良で開催の方向で調整
-https://news.web.nhk/newsweb/na/na-k10014994451000
+A largely Hispanic construction crew working on the roof of a New Orleans home became the latest target of the federal immigration crackdown that arrived in the city on Wednesday. Similar scenes are playing out all over the country. trib.al/dloNZzg
 
-[2025-12-05 05:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m76tidyr6s2g)
+[2025-12-05 06:05:09](https://bsky.app/profile/nytimes.com/post/3m76urmdj3k23)
+
+---
+
+@nytimes.com
+
+Hearings that began Wednesday in Washington reflected anxiety over the future of the U.S.-Mexico-Canada trade pact and whether President Trump could end up scrapping it.
+
+[2025-12-05 06:05:03](https://bsky.app/profile/nytimes.com/post/3m76urgeiql2y)
+
+---
+
+@nytimes.com
+
+An accessible alternative to the Pap smear has been endorsed by the American Cancer Society. On Thursday, it released new guidelines saying that self-collection is an acceptable way to test for the virus that causes cervical cancer.
+
+[2025-12-05 06:05:03](https://bsky.app/profile/nytimes.com/post/3m76urgee5e2h)
 
 ---
 
 @reuters.com
 
-Grand jury weighs second criminal case against Trump antagonist Letitia James, source says reut.rs/3Kxtvtp
+Mexico's Sheinbaum to meet Trump, Canada's PM in Washington reut.rs/48kOkBt
 
-[2025-12-05 05:40:14](https://bsky.app/profile/reuters.com/post/3m76tf2cjpc2i)
+[2025-12-05 06:05:03](https://bsky.app/profile/reuters.com/post/3m76urh25ix2y)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+プーチン大統領 インド訪問 きょうモディ首相と首脳会談へ
+https://news.web.nhk/newsweb/na/na-k10014994441000
+
+[2025-12-05 06:03:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m76uo2o26u2j)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+全国の看護師を養成する学校 1割近くの課程が募集停止
+https://news.web.nhk/newsweb/na/na-k10014994421000
+
+[2025-12-05 06:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m76unvuut32g)
+
+---
+
+@sokuho.news
+
+🛎️週刊女性より【独占】です。
+
+【独占直撃】「国分太一と縁は切れない」電動ママチャリで疾走する元TOKIOリーダー城島茂、ついに明かした3…
+(2025-12-5) #ニュース
+
+[2025-12-05 06:01:38](https://bsky.app/profile/sokuho.news/post/3m76uldgab32w)
+
+---
+
+@wsj.com
+
+A starry show, set in an empty subway station, signaled a fresh optimism at the French house, whose business is doing “better than ever.”
+
+[2025-12-05 06:01:17](https://bsky.app/profile/wsj.com/post/3m76ukoozij2a)
 
 ---
 
