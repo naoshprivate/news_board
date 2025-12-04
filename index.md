@@ -1,9 +1,9 @@
-# [2025-12-04 23:50 updated](2025_12_04.md)
+# [2025-12-05 00:10 updated](2025_12_05.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Trump 'garbage' rhetoric about Somalis draws cheers from administration, silence from Republicans and alarm from critics reut.rs/4iz2Wk2 <a href="https://bsky.app/profile/reuters.com/post/3m767k34iw62w" target="_blank">reuters.com</a> (2025-12-04 23:45:08)</span><span style="padding-right:50px;">The D.C. area may experience its first snow of the season Friday — at least technically.  A storm system sliding across the Southeast may throw enough moisture north into cold air entrenched over the area to produce a period of light snow.  <a href="https://bsky.app/profile/washingtonpost.com/post/3m767hjxcj62f" target="_blank">washingtonpost.com</a> (2025-12-04 23:43:43)</span><span style="padding-right:50px;">Breaking news: Federal officials have arrested a man believed to have planted pipe bombs near the Democratic and Republican national committee headquarters in downtown Washington the night before the Jan. 6, 2021, riots at the U.S. Capitol. <a href="https://bsky.app/profile/washingtonpost.com/post/3m767gxhz2r2r" target="_blank">washingtonpost.com</a> (2025-12-04 23:43:23)</span><span style="padding-right:50px;">フィギュアGPファイナル 男子シングル 鍵山優真 SPトップに https://news.web.nhk/newsweb/na/na-k10014994401000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m767endcys2g" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-04 23:42:03)</span><span style="padding-right:50px;">BT launches sovereign data platform for business and public sector reut.rs/4rCkobn <a href="https://bsky.app/profile/reuters.com/post/3m767b7e4272e" target="_blank">reuters.com</a> (2025-12-04 23:40:10)</span>
+<span style="padding-right:50px;">Bayern Munich held talks over selling stake to private equity firm EQT on.ft.com/3KrzBvq <a href="https://bsky.app/profile/financialtimes.com/post/3m76avnvhxk26" target="_blank">financialtimes.com</a> (2025-12-05 00:09:30)</span><span style="padding-right:50px;"> Whoever controls digital wallets will control the future on.ft.com/48ET6Zt  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m76ar4zlyy27" target="_blank">financialtimes.com</a> (2025-12-05 00:06:58)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】延岡市伊形町のガソリンスタンドで強盗致傷事件 犯人は逃走 (2025-12-05 00:03) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m76aofxnxn2m" target="_blank">sokuho.news</a> (2025-12-05 00:05:27)</span><span style="padding-right:50px;">Boosted by Dubai chocolate craze, Argentina bets on pistachios reut.rs/4ovyZmb <a href="https://bsky.app/profile/reuters.com/post/3m76ans7ll42e" target="_blank">reuters.com</a> (2025-12-05 00:05:06)</span><span style="padding-right:50px;">Why Michael Saylor's Strategy could hold the key for the whole bitcoin market <a href="https://bsky.app/profile/cnbc.com/post/3m76ancrkl62e" target="_blank">cnbc.com</a> (2025-12-05 00:04:50)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47843.17 (🔻44.99 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23433.63 (🔻93.66 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 182.40 (🔺0.82 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 154.81 (🔻0.37 : 2025-12-04)</span>
+<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47828.76 (🔻59.40 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23419.15 (🔻108.15 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 180.66 (🔻0.91 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 154.88 (🔻0.30 : 2025-12-04)</span>
   </div>
 </div>
 
@@ -32,96 +32,97 @@
 
 ## News Headlines
 
-1. 1月6日事件前夜のパイプ爆弾事件、FBIが容疑者を逮捕
-2. 鍵山優真、フィギュアGPファイナルSPで首位
-3. 米失業保険申請、3年ぶりの低水準
-4. メタ、メタバース投資を大幅削減へ
-5. ゲノム編集受精卵の移植研究、罰則付きで禁止へ
-6. NYT、国防総省の報道規制を提訴
+1. バイエルン、プライベートエクイティEQTへの株式売却交渉か
+2. デジタルウォレット掌握が未来を制す？
+3. 延岡市で強盗致傷事件、犯人逃走中
+4. ドバイのチョコレートブームでアルゼンチンのピスタチオに注目
+5. 英中銀、プライベートエクイティとクレジットのストレステスト開始
+6. アマゾン、USPSとの提携解消で郵政公社に大打撃の可能性
 
 ----
 
-@reuters.com
+@financialtimes.com
 
-Trump 'garbage' rhetoric about Somalis draws cheers from administration, silence from Republicans and alarm from critics reut.rs/4iz2Wk2
+Bayern Munich held talks over selling stake to private equity firm EQT on.ft.com/3KrzBvq
 
-[2025-12-04 23:45:08](https://bsky.app/profile/reuters.com/post/3m767k34iw62w)
-
----
-
-@washingtonpost.com
-
-The D.C. area may experience its first snow of the season Friday — at least technically.
-
-A storm system sliding across the Southeast may throw enough moisture north into cold air entrenched over the area to produce a period of light snow. 
-
-[2025-12-04 23:43:43](https://bsky.app/profile/washingtonpost.com/post/3m767hjxcj62f)
+[2025-12-05 00:09:30](https://bsky.app/profile/financialtimes.com/post/3m76avnvhxk26)
 
 ---
 
-@washingtonpost.com
+@financialtimes.com
 
-Breaking news: Federal officials have arrested a man believed to have planted pipe bombs near the Democratic and Republican national committee headquarters in downtown Washington the night before the Jan. 6, 2021, riots at the U.S. Capitol.
+ Whoever controls digital wallets will control the future on.ft.com/48ET6Zt  | opinion
 
-[2025-12-04 23:43:23](https://bsky.app/profile/washingtonpost.com/post/3m767gxhz2r2r)
+[2025-12-05 00:06:58](https://bsky.app/profile/financialtimes.com/post/3m76ar4zlyy27)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@sokuho.news
 
-フィギュアGPファイナル 男子シングル 鍵山優真 SPトップに
-https://news.web.nhk/newsweb/na/na-k10014994401000
+🛎️NNNより【速報】です。
 
-[2025-12-04 23:42:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m767endcys2g)
+【速報】延岡市伊形町のガソリンスタンドで強盗致傷事件 犯人は逃走
+(2025-12-05 00:03) #ニュース
+
+[2025-12-05 00:05:27](https://bsky.app/profile/sokuho.news/post/3m76aofxnxn2m)
 
 ---
 
 @reuters.com
 
-BT launches sovereign data platform for business and public sector reut.rs/4rCkobn
+Boosted by Dubai chocolate craze, Argentina bets on pistachios reut.rs/4ovyZmb
 
-[2025-12-04 23:40:10](https://bsky.app/profile/reuters.com/post/3m767b7e4272e)
-
----
-
-@en.afp.com
-
-🇺🇸 Steve Cropper, the Booker T. & the MG's guitarist and key songwriter and producer for the Memphis soul sound of Stax Records, has died aged 84, his family said. 
-➡️ u.afp.com/S7k3
-
-[2025-12-04 23:40:02](https://bsky.app/profile/en.afp.com/post/3m767axbkbf2z)
-
----
-
-@reuters.com
-
-Turkey building a sub as it ramps up homemade defence industry reut.rs/48OSiSW
-
-[2025-12-04 23:35:07](https://bsky.app/profile/reuters.com/post/3m766y6jkbr2n)
-
----
-
-@nytimes.com
-
-<strong><span style="color: red;">Breaking News</span>: A suspect was arrested after a yearslong inquiry into pipe bombs planted near the Capitol before Jan. 6, 2021, people familiar with the case said.</strong>
-
-[2025-12-04 23:34:50](https://bsky.app/profile/nytimes.com/post/3m766xnulvh2h)
-
----
-
-@wsj.com
-
-Newly filed unemployment claims last week dropped to the lowest level in three years, the Labor Department said Thursday, a reassuring signal that the economy avoided a big surge of layoffs through the first 11 months of the year.
-
-[2025-12-04 23:33:45](https://bsky.app/profile/wsj.com/post/3m766vqd4pz2h)
+[2025-12-05 00:05:06](https://bsky.app/profile/reuters.com/post/3m76ans7ll42e)
 
 ---
 
 @cnbc.com
 
-FBI arrests suspect in Jan. 6 pipe bomb case: MS NOW
+Why Michael Saylor's Strategy could hold the key for the whole bitcoin market
 
-[2025-12-04 23:33:42](https://bsky.app/profile/cnbc.com/post/3m766vn3nw32g)
+[2025-12-05 00:04:50](https://bsky.app/profile/cnbc.com/post/3m76ancrkl62e)
+
+---
+
+@financialtimes.com
+
+The US may be running the wrong AI race on.ft.com/49WNXhG
+
+[2025-12-05 00:02:26](https://bsky.app/profile/financialtimes.com/post/3m76aizqxha2c)
+
+---
+
+@reuters.com
+
+Bank of England launches stress test of private equity and credit reut.rs/49VKlwr
+
+[2025-12-05 00:00:58](https://bsky.app/profile/reuters.com/post/3m76agfkt722i)
+
+---
+
+@usatoday.com
+
+Choreographer to the stars, Criscilla Crossland Anderson, the ex-wife of country music singer Coffey Anderson, has died after battling colon cancer.
+
+[2025-12-05 00:00:50](https://bsky.app/profile/usatoday.com/post/3m76ag5sjcx2j)
+
+---
+
+@cnn.com
+
+Russian President Vladimir Putin must have ordered the Novichok nerve agent attack on Russian double agent Sergei Skripal in 2018, in an “astonishingly reckless” act that led to the death of an innocent woman, a UK public inquiry concluded.
+
+[2025-12-05 00:00:32](https://bsky.app/profile/cnn.com/post/3m76afmcl442n)
+
+---
+
+@washingtonpost.com
+
+Exclusive: Amazon has long been USPS’s top customer, providing over $6 billion in annual revenue in 2025.
+
+But Amazon may give up its long-standing partnership with USPS to deliver packages itself, which could spell disaster for the mail agency. 
+
+[2025-12-05 00:00:31](https://bsky.app/profile/washingtonpost.com/post/3m76aflnrsn2x)
 
 ---
 
@@ -129,7 +130,7 @@ FBI arrests suspect in Jan. 6 pipe bomb case: MS NOW
 
 ## 2025-12
 
-[12月04日](2025_12_04.md), [12月03日](2025_12_03.md), [12月02日](2025_12_02.md), [12月01日](2025_12_01.md), 
+[12月05日](2025_12_05.md), [12月04日](2025_12_04.md), [12月03日](2025_12_03.md), [12月02日](2025_12_02.md), [12月01日](2025_12_01.md), 
 
 ## 2025-11
 
