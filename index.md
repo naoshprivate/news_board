@@ -1,9 +1,9 @@
-# [2025-12-05 00:10 updated](2025_12_05.md)
+# [2025-12-05 00:30 updated](2025_12_05.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Bayern Munich held talks over selling stake to private equity firm EQT on.ft.com/3KrzBvq <a href="https://bsky.app/profile/financialtimes.com/post/3m76avnvhxk26" target="_blank">financialtimes.com</a> (2025-12-05 00:09:30)</span><span style="padding-right:50px;"> Whoever controls digital wallets will control the future on.ft.com/48ET6Zt  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m76ar4zlyy27" target="_blank">financialtimes.com</a> (2025-12-05 00:06:58)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】延岡市伊形町のガソリンスタンドで強盗致傷事件 犯人は逃走 (2025-12-05 00:03) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m76aofxnxn2m" target="_blank">sokuho.news</a> (2025-12-05 00:05:27)</span><span style="padding-right:50px;">Boosted by Dubai chocolate craze, Argentina bets on pistachios reut.rs/4ovyZmb <a href="https://bsky.app/profile/reuters.com/post/3m76ans7ll42e" target="_blank">reuters.com</a> (2025-12-05 00:05:06)</span><span style="padding-right:50px;">Why Michael Saylor's Strategy could hold the key for the whole bitcoin market <a href="https://bsky.app/profile/cnbc.com/post/3m76ancrkl62e" target="_blank">cnbc.com</a> (2025-12-05 00:04:50)</span>
+<span style="padding-right:50px;">Investors are scrambling for portfolio alternatives. A CIO urges caution — especially with private credit <a href="https://bsky.app/profile/cnbc.com/post/3m76btegss22i" target="_blank">cnbc.com</a> (2025-12-05 00:26:07)</span><span style="padding-right:50px;">YPF CEO sees green light for Argentina LNG project with Eni, XRG in mid-2026 reut.rs/4oyFLHQ <a href="https://bsky.app/profile/reuters.com/post/3m76brjufkc22" target="_blank">reuters.com</a> (2025-12-05 00:25:05)</span><span style="padding-right:50px;">CNBC Sport: U.S. men’s soccer is sick of losing the World Cup — and now it has a plan <a href="https://bsky.app/profile/cnbc.com/post/3m76brhifpf2q" target="_blank">cnbc.com</a> (2025-12-05 00:25:03)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】国道で血を流し倒れている男性見つかる 意識不明の重体 ひき逃げなどの可能性も視野に入れ捜査 滋賀・東近江市 (2025-12-05 00:04) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m76bnktdax2y" target="_blank">sokuho.news</a> (2025-12-05 00:22:52)</span><span style="padding-right:50px;">Vladimir Putin is embarking on a high-profile visit to India, aiming to protect a partnership that is a crucial economic and diplomatic lifeline for Moscow. <a href="https://bsky.app/profile/wsj.com/post/3m76blerrwb2r" target="_blank">wsj.com</a> (2025-12-05 00:21:39)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47828.76 (🔻59.40 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23419.15 (🔻108.15 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 180.66 (🔻0.91 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 154.88 (🔻0.30 : 2025-12-04)</span>
+<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47903.82 (🔺15.66 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23438.84 (🔻88.46 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 181.13 (🔻0.44 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 154.65 (🔻0.53 : 2025-12-04)</span>
   </div>
 </div>
 
@@ -32,97 +32,101 @@
 
 ## News Headlines
 
-1. バイエルン、プライベートエクイティEQTへの株式売却交渉か
-2. デジタルウォレット掌握が未来を制す？
-3. 延岡市で強盗致傷事件、犯人逃走中
-4. ドバイのチョコレートブームでアルゼンチンのピスタチオに注目
-5. 英中銀、プライベートエクイティとクレジットのストレステスト開始
-6. アマゾン、USPSとの提携解消で郵政公社に大打撃の可能性
+1. 投資家、ポートフォリオ代替に奔走：プライベートクレジットにCIOが警鐘
+2. アルゼンチンLNGプロジェクト、2026年半ばに承認見込み
+3. 国道で男性が血を流し倒れているところを発見される、ひき逃げの可能性も視野に捜査
+4. プーチン大統領、インド訪問：経済・外交の生命線を守る
+5. アメリカ人の最大の悩みは政治、ファイナンシャルプランナーが指摘
+6. アマゾン、USPSとの提携解消か：郵便公社に大打撃の可能性
 
 ----
 
-@financialtimes.com
+@cnbc.com
 
-Bayern Munich held talks over selling stake to private equity firm EQT on.ft.com/3KrzBvq
+Investors are scrambling for portfolio alternatives. A CIO urges caution — especially with private credit
 
-[2025-12-05 00:09:30](https://bsky.app/profile/financialtimes.com/post/3m76avnvhxk26)
-
----
-
-@financialtimes.com
-
- Whoever controls digital wallets will control the future on.ft.com/48ET6Zt  | opinion
-
-[2025-12-05 00:06:58](https://bsky.app/profile/financialtimes.com/post/3m76ar4zlyy27)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】延岡市伊形町のガソリンスタンドで強盗致傷事件 犯人は逃走
-(2025-12-05 00:03) #ニュース
-
-[2025-12-05 00:05:27](https://bsky.app/profile/sokuho.news/post/3m76aofxnxn2m)
+[2025-12-05 00:26:07](https://bsky.app/profile/cnbc.com/post/3m76btegss22i)
 
 ---
 
 @reuters.com
 
-Boosted by Dubai chocolate craze, Argentina bets on pistachios reut.rs/4ovyZmb
+YPF CEO sees green light for Argentina LNG project with Eni, XRG in mid-2026 reut.rs/4oyFLHQ
 
-[2025-12-05 00:05:06](https://bsky.app/profile/reuters.com/post/3m76ans7ll42e)
+[2025-12-05 00:25:05](https://bsky.app/profile/reuters.com/post/3m76brjufkc22)
 
 ---
 
 @cnbc.com
 
-Why Michael Saylor's Strategy could hold the key for the whole bitcoin market
+CNBC Sport: U.S. men’s soccer is sick of losing the World Cup — and now it has a plan
 
-[2025-12-05 00:04:50](https://bsky.app/profile/cnbc.com/post/3m76ancrkl62e)
+[2025-12-05 00:25:03](https://bsky.app/profile/cnbc.com/post/3m76brhifpf2q)
 
 ---
 
-@financialtimes.com
+@sokuho.news
 
-The US may be running the wrong AI race on.ft.com/49WNXhG
+🛎️FNNより【速報】です。
 
-[2025-12-05 00:02:26](https://bsky.app/profile/financialtimes.com/post/3m76aizqxha2c)
+【速報】国道で血を流し倒れている男性見つかる 意識不明の重体 ひき逃げなどの可能性も視野に入れ捜査 滋賀・東近江市
+(2025-12-05 00:04) #ニュース
+
+[2025-12-05 00:22:52](https://bsky.app/profile/sokuho.news/post/3m76bnktdax2y)
+
+---
+
+@wsj.com
+
+Vladimir Putin is embarking on a high-profile visit to India, aiming to protect a partnership that is a crucial economic and diplomatic lifeline for Moscow.
+
+[2025-12-05 00:21:39](https://bsky.app/profile/wsj.com/post/3m76blerrwb2r)
+
+---
+
+@en.afp.com
+
+🇬🇧 🇩🇪 German President gets royal treatment on UK state visit
+
+Britain's King Charles III welcomes German President Frank-Walter Steinmeier to Windsor, as the pair hail the countries' deep ties during the first UK state visit by a German head of state in decades.
+
+[2025-12-05 00:20:34](https://bsky.app/profile/en.afp.com/post/3m76bjh7s3r2u)
+
+---
+
+@cnbc.com
+
+Politics is now Americans' No. 1 money worry, financial planners say
+
+[2025-12-05 00:17:15](https://bsky.app/profile/cnbc.com/post/3m76bditwdb2q)
 
 ---
 
 @reuters.com
 
-Bank of England launches stress test of private equity and credit reut.rs/49VKlwr
+EU presents plans to overcome investment hurdles hampering competitiveness reut.rs/4rCWnB9
 
-[2025-12-05 00:00:58](https://bsky.app/profile/reuters.com/post/3m76agfkt722i)
-
----
-
-@usatoday.com
-
-Choreographer to the stars, Criscilla Crossland Anderson, the ex-wife of country music singer Coffey Anderson, has died after battling colon cancer.
-
-[2025-12-05 00:00:50](https://bsky.app/profile/usatoday.com/post/3m76ag5sjcx2j)
+[2025-12-05 00:15:09](https://bsky.app/profile/reuters.com/post/3m76b7qyzgb2e)
 
 ---
 
-@cnn.com
+@cnbc.com
 
-Russian President Vladimir Putin must have ordered the Novichok nerve agent attack on Russian double agent Sergei Skripal in 2018, in an “astonishingly reckless” act that led to the death of an innocent woman, a UK public inquiry concluded.
+Tesla gains in 2026 Consumer Reports' auto brand rankings
 
-[2025-12-05 00:00:32](https://bsky.app/profile/cnn.com/post/3m76afmcl442n)
+[2025-12-05 00:14:54](https://bsky.app/profile/cnbc.com/post/3m76b7cizze2h)
 
 ---
 
-@washingtonpost.com
+@npr.org
 
-Exclusive: Amazon has long been USPS’s top customer, providing over $6 billion in annual revenue in 2025.
+This holiday season, give a gift that keeps on giving: NPR+! 🎧 
 
-But Amazon may give up its long-standing partnership with USPS to deliver packages itself, which could spell disaster for the mail agency. 
+You'll support great journalism and get fan access to special perks from your favorite NPR podcasts.
 
-[2025-12-05 00:00:31](https://bsky.app/profile/washingtonpost.com/post/3m76aflnrsn2x)
+Cross the perfect present – for yourself or someone special – off your list! ➡️ Click here to give NPR+ now: n.pr/4otLiiZ
+
+[2025-12-05 00:14:03](https://bsky.app/profile/npr.org/post/3m76b5s2jt22a)
 
 ---
 
