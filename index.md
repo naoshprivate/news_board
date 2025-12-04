@@ -1,9 +1,9 @@
-# [2025-12-04 21:50 updated](2025_12_04.md)
+# [2025-12-04 22:10 updated](2025_12_04.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Magnitude 6.0 earthquake strikes China's Xinjiang region reut.rs/48iDSu7 <a href="https://bsky.app/profile/reuters.com/post/3m75ytmdheq22" target="_blank">reuters.com</a> (2025-12-04 21:45:11)</span><span style="padding-right:50px;">Where billionaires' investment firms placed their bets in November <a href="https://bsky.app/profile/cnbc.com/post/3m75ytdb53c2y" target="_blank">cnbc.com</a> (2025-12-04 21:45:02)</span><span style="padding-right:50px;">The dollar just had its worst day since October as weak US jobs data ramps up expectations for a Fed rate cut next week. Listen to the Morning Bid podcast to find out why markets are on edge reut.rs/3XvKjUy <a href="https://bsky.app/profile/reuters.com/post/3m75yq2b2tk2x" target="_blank">reuters.com</a> (2025-12-04 21:43:12)</span><span style="padding-right:50px;"> Etsy witches face a tough business spell on.ft.com/3KGeK7x  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m75ypkv4rn27" target="_blank">financialtimes.com</a> (2025-12-04 21:42:56)</span><span style="padding-right:50px;">Stocks making the biggest moves premarket: Snowflake, Salesforce, Hormel Foods, Five Below and more <a href="https://bsky.app/profile/cnbc.com/post/3m75ypd4y5n2g" target="_blank">cnbc.com</a> (2025-12-04 21:42:48)</span>
+<span style="padding-right:50px;">LIVE: Russian President Putin arrives in New Delhi for India-Russia Summit youtube.com/live/nEYe7-f... <a href="https://bsky.app/profile/reuters.com/post/3m7622asvk22z" target="_blank">reuters.com</a> (2025-12-04 22:06:48)</span><span style="padding-right:50px;">Exclusive: China state-owned banks soak up dollars to slow yuan gains, sources say reut.rs/49XMCY0 <a href="https://bsky.app/profile/reuters.com/post/3m75zxfj6uh2i" target="_blank">reuters.com</a> (2025-12-04 22:05:12)</span><span style="padding-right:50px;">The Times argued the rules that restricted news organizations’ communications with military sources were a violation of its First and Fifth Amendment rights. <a href="https://bsky.app/profile/forbes.com/post/3m75zx5jixi2p" target="_blank">forbes.com</a> (2025-12-04 22:05:04)</span><span style="padding-right:50px;">If you have losses in your crypto portfolio, you may be able to "harvest them" to offset tax you owe on gains.  <a href="https://bsky.app/profile/cnbc.com/post/3m75ztkdi2n2j" target="_blank">cnbc.com</a> (2025-12-04 22:03:03)</span><span style="padding-right:50px;">Attorneys for Ghislaine Maxwell say client will ask a judge to release her from federal prison, a new court filing shows. <a href="https://bsky.app/profile/usatoday.com/post/3m75zpxyjju2z" target="_blank">usatoday.com</a> (2025-12-04 22:01:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47882.90 (🔺511.28 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23454.09 (🔺138.51 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 179.59 (🔻1.49 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 154.72 (🔻0.46 : 2025-12-04)</span>
+<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47882.90 (🔺511.28 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23454.09 (🔺138.51 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 179.59 (🔻1.49 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 154.75 (🔻0.43 : 2025-12-04)</span>
   </div>
 </div>
 
@@ -32,92 +32,104 @@
 
 ## News Headlines
 
-1. 中国・新疆でM6.0の地震発生
-2. 米雇用統計悪化でFRB利下げ観測高まる
-3. イラク、誤って掲載したヒズボラとフーシの資産凍結リストを修正
-4. トランプ大統領、ルワンダとコンゴ民主共和国の首脳をホワイトハウスに招待
-5. UBS報告書：富豪の資産相続、記録的な水準に
-6. KFC、日本でクリスマス限定ポップアップレストランをオープン
+1. プーチン大統領、インド・ロシア首脳会談のためニューデリーに到着
+2. 中国国有銀行、人民元高抑制のためドル買い介入か
+3. マイクロン、消費者向けメモリー事業から撤退、AI向けに集中
+4. 豪アッシュズテスト、ジョー・ルートが豪州初となるテストセンチュリー
+5. 米国で大規模なレイオフ、年間110万人超え
+6. トランプ前大統領、ルワンダとコンゴ民主共和国の首脳をホワイトハウスに招待
 
 ----
 
 @reuters.com
 
-Magnitude 6.0 earthquake strikes China's Xinjiang region reut.rs/48iDSu7
+LIVE: Russian President Putin arrives in New Delhi for India-Russia Summit youtube.com/live/nEYe7-f...
 
-[2025-12-04 21:45:11](https://bsky.app/profile/reuters.com/post/3m75ytmdheq22)
-
----
-
-@cnbc.com
-
-Where billionaires' investment firms placed their bets in November
-
-[2025-12-04 21:45:02](https://bsky.app/profile/cnbc.com/post/3m75ytdb53c2y)
+[2025-12-04 22:06:48](https://bsky.app/profile/reuters.com/post/3m7622asvk22z)
 
 ---
 
 @reuters.com
 
-The dollar just had its worst day since October as weak US jobs data ramps up expectations for a Fed rate cut next week. Listen to the Morning Bid podcast to find out why markets are on edge reut.rs/3XvKjUy
+Exclusive: China state-owned banks soak up dollars to slow yuan gains, sources say reut.rs/49XMCY0
 
-[2025-12-04 21:43:12](https://bsky.app/profile/reuters.com/post/3m75yq2b2tk2x)
+[2025-12-04 22:05:12](https://bsky.app/profile/reuters.com/post/3m75zxfj6uh2i)
 
 ---
 
-@financialtimes.com
+@forbes.com
 
- Etsy witches face a tough business spell on.ft.com/3KGeK7x  | opinion
+The Times argued the rules that restricted news organizations’ communications with military sources were a violation of its First and Fifth Amendment rights.
 
-[2025-12-04 21:42:56](https://bsky.app/profile/financialtimes.com/post/3m75ypkv4rn27)
+[2025-12-04 22:05:04](https://bsky.app/profile/forbes.com/post/3m75zx5jixi2p)
 
 ---
 
 @cnbc.com
 
-Stocks making the biggest moves premarket: Snowflake, Salesforce, Hormel Foods, Five Below and more
+If you have losses in your crypto portfolio, you may be able to "harvest them" to offset tax you owe on gains. 
 
-[2025-12-04 21:42:48](https://bsky.app/profile/cnbc.com/post/3m75ypd4y5n2g)
+[2025-12-04 22:03:03](https://bsky.app/profile/cnbc.com/post/3m75ztkdi2n2j)
 
 ---
 
-@financialtimes.com
+@usatoday.com
 
-Labour is slow-marching working people to populism on.ft.com/4peZkpR
+Attorneys for Ghislaine Maxwell say client will ask a judge to release her from federal prison, a new court filing shows.
 
-[2025-12-04 21:40:46](https://bsky.app/profile/financialtimes.com/post/3m75ylpc2gs2n)
+[2025-12-04 22:01:03](https://bsky.app/profile/usatoday.com/post/3m75zpxyjju2z)
 
 ---
 
 @reuters.com
 
-Iraq to correct asset-freeze list that included Hezbollah and Houthis, citing publication error reut.rs/3MfmGx6
+China is issuing streamlined licenses for rare earth exports, state media says reut.rs/3YbMBbu
 
-[2025-12-04 21:40:12](https://bsky.app/profile/reuters.com/post/3m75ykomcpx2i)
-
----
-
-@nbcnews.com
-
-Steve Cropper, the soulful guitarist and songwriter who helped anchor the celebrated Memphis backing band Booker T. and the M.G.’s at Stax Records, has died. He was 84.
-
-[2025-12-04 21:40:08](https://bsky.app/profile/nbcnews.com/post/3m75ykl7tnc2f)
+[2025-12-04 22:00:58](https://bsky.app/profile/reuters.com/post/3m75zptahpn2o)
 
 ---
 
-@nytimes.com
+@nikkei.com
 
-President Trump will host the leaders of Rwanda and the Democratic Republic of Congo at the White House on Thursday to advance a deal meant to end a devastating war in eastern Congo.
+半導体マイクロン、消費者向けメモリー撤退（無料記事）
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-04 21:40:02](https://bsky.app/profile/nytimes.com/post/3m75ykf4rbd22)
+「Crucial」ブランドでゲーム愛好家や映像制作者向けに提供してきましたが、2026年2月までに出荷を終了。
+
+AI需要の急拡大を受け、データセンター向け事業に経営資源を集中します。
+
+[2025-12-04 22:00:39](https://bsky.app/profile/nikkei.com/post/3m75zpaoowu2z)
 
 ---
 
-@npr.org
+@nikkei.com
 
-Trump is targeting Somalis with racist remarks ahead of expected immigration enforcement activity in Minnesota. And, a CDC advisory panel will revisit long-standing vaccine recommendations. n.pr/4pkhoz3
+「静かな退職」は職場全体に悪影響？　社員の小さな成功に目配り
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-04 21:36:37](https://bsky.app/profile/npr.org/post/3m75yebr7ee2i)
+最低限の仕事しかしない「静かな退職」は日本でも次第に知られるようになってきました。
+
+調査した研究員は、日本は欧米諸国と比べ「周囲の従業員にしわ寄せがいきやすい構造」だと指摘します。
+
+[2025-12-04 22:00:32](https://bsky.app/profile/nikkei.com/post/3m75zozq3tf2k)
+
+---
+
+@washingtonpost.com
+
+Column: Routines are linked to better health, academic success and even resilience. Here’s a science-backed daily schedule to try. Think of it as a template to help you plan a healthier day.
+
+[2025-12-04 22:00:22](https://bsky.app/profile/washingtonpost.com/post/3m75zoqr2u42g)
+
+---
+
+@en.afp.com
+
+🏏 Joe Root finally scored his maiden Test century in Australia on his fourth Ashes tour to guide England from a precarious 5-2 to 325-9 at stumps after a pulsating first day of the second Ashes Test in Brisbane.
+#AFPSports
+➡️ u.afp.com/Shva
+
+[2025-12-04 22:00:19](https://bsky.app/profile/en.afp.com/post/3m75zoo5rix2x)
 
 ---
 
