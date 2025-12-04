@@ -1,9 +1,9 @@
-# [2025-12-05 02:50 updated](2025_12_05.md)
+# [2025-12-05 03:10 updated](2025_12_05.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The USGS sent an alert that Nevada had been rocked by a 5.9-magnitude earthquake early Thursday before quickly deleting the warning from its web page and saying it had been an error. <a href="https://bsky.app/profile/nytimes.com/post/3m76jr3ybsf2g" target="_blank">nytimes.com</a> (2025-12-05 02:48:01)</span><span style="padding-right:50px;">Adm. Frank M. Bradley, the U.S. Special Operations commander who oversaw an attack on a boat from Venezuela alleged to be smuggling drugs, is attending closed-door meetings on Capitol Hill today.  Here’s what we know: https://wapo.st/4iGC6Xi <a href="https://bsky.app/profile/washingtonpost.com/post/3m76jlw2aml2j" target="_blank">washingtonpost.com</a> (2025-12-05 02:45:07)</span><span style="padding-right:50px;">ProShares withdraws some highly leveraged ETF plans after SEC review halt reut.rs/3KDKg6a <a href="https://bsky.app/profile/reuters.com/post/3m76jlwd37c2r" target="_blank">reuters.com</a> (2025-12-05 02:45:07)</span><span style="padding-right:50px;">Trump's vow to strip citizens of their legal status is expected to face legal challenges. What to know <a href="https://bsky.app/profile/bloomberg.com/post/3m76jiishzg2o" target="_blank">bloomberg.com</a> (2025-12-05 02:43:12)</span><span style="padding-right:50px;">AI startup Flex raises $60 million to offer finance tools for mid-sized businesses reut.rs/4ptsv8P <a href="https://bsky.app/profile/reuters.com/post/3m76jd2qttc2a" target="_blank">reuters.com</a> (2025-12-05 02:40:10)</span>
+<span style="padding-right:50px;">Exclusive: In an expansion of President Trump's crackdown on legal immigration, work permits issued to certain migrants will now be valid for 18 months rather than 5 years. <a href="https://bsky.app/profile/wsj.com/post/3m76kv2pw6x22" target="_blank">wsj.com</a> (2025-12-05 03:08:07)</span><span style="padding-right:50px;">Meta stock climbs on report company will make major cuts to metaverse efforts <a href="https://bsky.app/profile/yahoofinance.com/post/3m76kshungx2x" target="_blank">yahoofinance.com</a> (2025-12-05 03:06:41)</span><span style="padding-right:50px;">Is the end of the billable hour near? It seems inevitable, thanks to advances in AI. <a href="https://bsky.app/profile/wsj.com/post/3m76krsvxwv2o" target="_blank">wsj.com</a> (2025-12-05 03:06:18)</span><span style="padding-right:50px;">Tunisian opposition leader Chebbi arrested as crackdown escalates reut.rs/4au0RUn <a href="https://bsky.app/profile/reuters.com/post/3m76kpmuccn2k" target="_blank">reuters.com</a> (2025-12-05 03:05:05)</span><span style="padding-right:50px;">Several countries boycott Eurovision after Israel allowed to compete <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m76kohk3rt2l" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-05 03:04:25)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47873.51 (🔻14.65 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23476.55 (🔻50.74 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.62 (🔺2.04 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 154.93 (🔻0.25 : 2025-12-04)</span>
+<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47855.04 (🔻33.12 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23462.77 (🔻64.52 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.45 (🔺1.88 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 154.96 (🔻0.21 : 2025-12-04)</span>
   </div>
 </div>
 
@@ -32,96 +32,92 @@
 
 ## News Headlines
 
-1. USGS、ネバダ地震警報を誤って送信後削除
-2. 薬物密輸疑惑ベネズエラ船攻撃を指揮した米特殊作戦司令官が議会で非公開会議
-3. ProShares、SECの審査停止後、高レバレッジETF計画の一部を撤回
-4. トランプ氏の市民権剥奪宣言に法的異議申し立てが予想
-5. AIスタートアップFlex、中小企業向け金融ツール提供で6000万ドル調達
-6. ドル・ジェネラル、低価格で顧客を引きつけ年間利益予想を上方修正
+1. トランプ政権、合法移民への就労許可期間を短縮
+2. メタ社、メタバース事業の大幅削減報道で株価上昇
+3. AIの進化で弁護士のタイムチャージ制は終焉へ？
+4. チュニジア、反体制派指導者を逮捕、取り締まり強化
+5. イスラエルのユーロビジョン参加容認で複数国がボイコット
+6. 元シグネチャー銀行幹部、ブロックチェーン銀行を設立
 
 ----
 
-@nytimes.com
+@wsj.com
 
-The USGS sent an alert that Nevada had been rocked by a 5.9-magnitude earthquake early Thursday before quickly deleting the warning from its web page and saying it had been an error.
+Exclusive: In an expansion of President Trump's crackdown on legal immigration, work permits issued to certain migrants will now be valid for 18 months rather than 5 years.
 
-[2025-12-05 02:48:01](https://bsky.app/profile/nytimes.com/post/3m76jr3ybsf2g)
-
----
-
-@washingtonpost.com
-
-Adm. Frank M. Bradley, the U.S. Special Operations commander who oversaw an attack on a boat from Venezuela alleged to be smuggling drugs, is attending closed-door meetings on Capitol Hill today.
-
-Here’s what we know: https://wapo.st/4iGC6Xi
-
-[2025-12-05 02:45:07](https://bsky.app/profile/washingtonpost.com/post/3m76jlw2aml2j)
-
----
-
-@reuters.com
-
-ProShares withdraws some highly leveraged ETF plans after SEC review halt reut.rs/3KDKg6a
-
-[2025-12-05 02:45:07](https://bsky.app/profile/reuters.com/post/3m76jlwd37c2r)
-
----
-
-@bloomberg.com
-
-Trump's vow to strip citizens of their legal status is expected to face legal challenges. What to know
-
-[2025-12-05 02:43:12](https://bsky.app/profile/bloomberg.com/post/3m76jiishzg2o)
-
----
-
-@reuters.com
-
-AI startup Flex raises $60 million to offer finance tools for mid-sized businesses reut.rs/4ptsv8P
-
-[2025-12-05 02:40:10](https://bsky.app/profile/reuters.com/post/3m76jd2qttc2a)
-
----
-
-@nytimes.com
-
-Some voters may punish congressional Republicans in next year’s midterm elections if expanded Affordable Care Act insurance subsidies are allowed to expire at the end of this month, a new poll suggests.
-
-[2025-12-05 02:40:04](https://bsky.app/profile/nytimes.com/post/3m76jcvhmle2l)
-
----
-
-@axios.com
-
-NEW: Signalgate report finds Hegseth potentially put U.S. forces at risk
-
-[2025-12-05 02:39:37](https://bsky.app/profile/axios.com/post/3m76jc356c22c)
-
----
-
-@opinion.bloomberg.com
-
-Trump used to know exactly what Americans wanted to hear.
-
-Nia-Malika Henderson explains why that’s no longer the case 🎥
-
-[2025-12-05 02:38:04](https://bsky.app/profile/opinion.bloomberg.com/post/3m76j7cnc6c2t)
-
----
-
-@nytimes.com
-
-A New York Times examination of Robert F. Kennedy Jr.’s tenure as health secretary shows how he has laid the groundwork to overhaul American vaccine policy, walled himself off from government scientists and elevated longtime allies to help carry out his agenda. trib.al/3MsBal8
-
-[2025-12-05 02:37:44](https://bsky.app/profile/nytimes.com/post/3m76j6pzuhk2b)
+[2025-12-05 03:08:07](https://bsky.app/profile/wsj.com/post/3m76kv2pw6x22)
 
 ---
 
 @yahoofinance.com
 
-Nvidia’s chips face new competition from Google, but it’s not about to lose its edge
+Meta stock climbs on report company will make major cuts to metaverse efforts
 
-[2025-12-05 02:36:21](https://bsky.app/profile/yahoofinance.com/post/3m76j4ac3vw2e)
+[2025-12-05 03:06:41](https://bsky.app/profile/yahoofinance.com/post/3m76kshungx2x)
+
+---
+
+@wsj.com
+
+Is the end of the billable hour near? It seems inevitable, thanks to advances in AI.
+
+[2025-12-05 03:06:18](https://bsky.app/profile/wsj.com/post/3m76krsvxwv2o)
+
+---
+
+@reuters.com
+
+Tunisian opposition leader Chebbi arrested as crackdown escalates reut.rs/4au0RUn
+
+[2025-12-05 03:05:05](https://bsky.app/profile/reuters.com/post/3m76kpmuccn2k)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Several countries boycott Eurovision after Israel allowed to compete
+
+[2025-12-05 03:04:25](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m76kohk3rt2l)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Putin says Russia disagrees with parts of US plan to end Ukraine war
+
+[2025-12-05 03:03:20](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m76kmj34ch2m)
+
+---
+
+@cnn.com
+
+Maurice DuBois, who has co-anchored the “CBS Evening News” alongside John Dickerson since January, is leaving the network later this month. https://cnn.it/48hNy8i
+
+[2025-12-05 03:01:04](https://bsky.app/profile/cnn.com/post/3m76kiglxlb2j)
+
+---
+
+@reuters.com
+
+Former Signature Bank executives launch blockchain-based bank reut.rs/4pKs8Gz
+
+[2025-12-05 03:00:58](https://bsky.app/profile/reuters.com/post/3m76kibei632w)
+
+---
+
+@usatoday.com
+
+A Republican’s single-digit win in Tennessee already has GOP lawmakers talking about shifting their political strategy in next year's midterms.
+
+[2025-12-05 03:00:55](https://bsky.app/profile/usatoday.com/post/3m76ki5su5f2j)
+
+---
+
+@washingtonpost.com
+
+More than 80 percent of the immigrants arrested in D.C. during the surge in federal law enforcement had no prior criminal record, federal data shows, even though that crackdown was portrayed as targeting violent crime. 
+
+[2025-12-05 03:00:30](https://bsky.app/profile/washingtonpost.com/post/3m76khgkzm323)
 
 ---
 
