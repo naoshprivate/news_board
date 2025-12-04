@@ -1,9 +1,9 @@
-# [2025-12-05 08:10 updated](2025_12_05.md)
+# [2025-12-05 08:30 updated](2025_12_05.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The order is focused on applicants for H-1B visas, which are frequently used by tech companies and is part of a campaign by the Trump administration against online content moderation. n.pr/48vKXX3 <a href="https://bsky.app/profile/npr.org/post/3m773pvtct22r" target="_blank">npr.org</a> (2025-12-05 08:09:28)</span><span style="padding-right:50px;">Texas approved a new congressional map this summer after Trump urged state GOP lawmakers to craft new House district lines to help Republicans hold onto their majority in the 2026 midterms. <a href="https://bsky.app/profile/cbsnews.com/post/3m773n7kdku26" target="_blank">cbsnews.com</a> (2025-12-05 08:07:58)</span><span style="padding-right:50px;">Meta Platforms is planning cuts to the metaverse—an arena Mark Zuckerberg once called the future of the company—and will shift spending to AI wearables. <a href="https://bsky.app/profile/wsj.com/post/3m773mfkbxa2t" target="_blank">wsj.com</a> (2025-12-05 08:07:30)</span><span style="padding-right:50px;">US lawmakers reviewed a summary of a Pentagon document that lays out the scope of the Trump administration's campaign to strike vessels carrying narcotics in the Caribbean, according to four sources familiar with the matter reut.rs/3MhXuWK <a href="https://bsky.app/profile/reuters.com/post/3m773kyucjs2y" target="_blank">reuters.com</a> (2025-12-05 08:06:44)</span><span style="padding-right:50px;">Springbok lock Etzebeth gets 12-match ban for eye gouge reut.rs/4rVOwir <a href="https://bsky.app/profile/reuters.com/post/3m773i7xepb2o" target="_blank">reuters.com</a> (2025-12-05 08:05:10)</span>
+<span style="padding-right:50px;">JUST IN: Supreme Court allows Republican-backed Texas congressional map in an order that is unlikely to change before midterm elections <a href="https://bsky.app/profile/axios.com/post/3m774o6qyis2s" target="_blank">axios.com</a> (2025-12-05 08:26:24)</span><span style="padding-right:50px;">AMD chief says company ready to pay 15% tax on AI chip shipments to China reut.rs/3Mh4vXT <a href="https://bsky.app/profile/reuters.com/post/3m774lwo42p2e" target="_blank">reuters.com</a> (2025-12-05 08:25:09)</span><span style="padding-right:50px;">The Supreme Court will allow Texas to use its new congressional map, a win for Republican efforts to protect their House majority in the 2026 midterms <a href="https://bsky.app/profile/wsj.com/post/3m774i2gztp22" target="_blank">wsj.com</a> (2025-12-05 08:22:58)</span><span style="padding-right:50px;">Breaking: The Supreme Court clears Texas to use a new Republican-drawn congressional map for next year’s midterm elections <a href="https://bsky.app/profile/bloomberg.com/post/3m774f2tjwr2h" target="_blank">bloomberg.com</a> (2025-12-05 08:21:18)</span><span style="padding-right:50px;">An 88-year-old Army veteran working full time at a Michigan grocery store to make ends meet is about to receive a life-changing amount of money after thousands of people donated over $1 million to help him retire. <a href="https://bsky.app/profile/nbcnews.com/post/3m774dgnfll2i" target="_blank">nbcnews.com</a> (2025-12-05 08:20:23)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47850.94 (🔻37.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.38 (🔺1.81 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 155.11 (🔺0.06 : 2025-12-04)</span>
+<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47850.94 (🔻37.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.38 (🔺1.81 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 155.13 (🔺0.08 : 2025-12-04)</span>
   </div>
 </div>
 
@@ -32,92 +32,104 @@
 
 ## News Headlines
 
-1.  トランプ政権、オンラインコンテンツ規制強化に向けH-1Bビザ制限
-2.  メタ、メタバース投資削減しAIウェアラブルへ注力
-3.  南アのラグビー選手、目潰し行為で12試合出場停止
-4.  米当局、泥酔アライグマを保護　バージニア州の酒店で騒動
-5.  日本経済新聞: 中国不動産に暗雲、碧桂園が清算回避に正念場
-6.  スキージャンプ女子 丸山希選手3位 ワールドカップ
+1. 米最高裁、共和党が有利なテキサス州の選挙区地図を承認
+2. AMD、中国へのAIチップ出荷に15%の税金支払い準備
+3. 88歳の退役軍人に1億円超の寄付、引退へ
+4. Meta、メタバース投資削減、AIウェアラブルに注力
+5. パントン、2026年のカラーは「クラウドダンサー」
+6. 勾留中の男が病院から逃走、警察が行方を追う
 
 ----
 
-@npr.org
+@axios.com
 
-The order is focused on applicants for H-1B visas, which are frequently used by tech companies and is part of a campaign by the Trump administration against online content moderation. n.pr/48vKXX3
+<strong><span style="color: red;">JUST IN:</span> Supreme Court allows Republican-backed Texas congressional map in an order that is unlikely to change before midterm elections</strong>
 
-[2025-12-05 08:09:28](https://bsky.app/profile/npr.org/post/3m773pvtct22r)
+[2025-12-05 08:26:24](https://bsky.app/profile/axios.com/post/3m774o6qyis2s)
 
 ---
 
-@cbsnews.com
+@reuters.com
 
-Texas approved a new congressional map this summer after Trump urged state GOP lawmakers to craft new House district lines to help Republicans hold onto their majority in the 2026 midterms.
+AMD chief says company ready to pay 15% tax on AI chip shipments to China reut.rs/3Mh4vXT
 
-[2025-12-05 08:07:58](https://bsky.app/profile/cbsnews.com/post/3m773n7kdku26)
+[2025-12-05 08:25:09](https://bsky.app/profile/reuters.com/post/3m774lwo42p2e)
 
 ---
 
 @wsj.com
 
-Meta Platforms is planning cuts to the metaverse—an arena Mark Zuckerberg once called the future of the company—and will shift spending to AI wearables.
+The Supreme Court will allow Texas to use its new congressional map, a win for Republican efforts to protect their House majority in the 2026 midterms
 
-[2025-12-05 08:07:30](https://bsky.app/profile/wsj.com/post/3m773mfkbxa2t)
-
----
-
-@reuters.com
-
-US lawmakers reviewed a summary of a Pentagon document that lays out the scope of the Trump administration's campaign to strike vessels carrying narcotics in the Caribbean, according to four sources familiar with the matter reut.rs/3MhXuWK
-
-[2025-12-05 08:06:44](https://bsky.app/profile/reuters.com/post/3m773kyucjs2y)
+[2025-12-05 08:22:58](https://bsky.app/profile/wsj.com/post/3m774i2gztp22)
 
 ---
 
-@reuters.com
+@bloomberg.com
 
-Springbok lock Etzebeth gets 12-match ban for eye gouge reut.rs/4rVOwir
+<strong><span style="color: red;">Breaking:</span> The Supreme Court clears Texas to use a new Republican-drawn congressional map for next year’s midterm elections</strong>
 
-[2025-12-05 08:05:10](https://bsky.app/profile/reuters.com/post/3m773i7xepb2o)
-
----
-
-@cnbc.com
-
-Dell Industries CEO and chairman Michael Dell says he found success by following a series of personal rules, including: "Be pleased, but never satisfied." 
-
-[2025-12-05 08:02:49](https://bsky.app/profile/cnbc.com/post/3m773dyq3jr2a)
-
----
-
-@reuters.com
-
-Britain unveils fast-track licensing to boost fintech growth reut.rs/4pDwD6t
-
-[2025-12-05 08:01:07](https://bsky.app/profile/reuters.com/post/3m773ay3ylx2d)
-
----
-
-@cnn.com
-
-Capturing the cultural zeitgeist and trends for the year ahead is a tricky business. But every year, the Pantone Color Institute chooses a color to do precisely that. And it has settled on a shade of white, “Cloud Dancer,” as its Color of the Year for 2026. https://cnn.it/3MipgCr
-
-[2025-12-05 08:01:02](https://bsky.app/profile/cnn.com/post/3m773atcygu2j)
-
----
-
-@en.afp.com
-
-Photographs released by the Hanover Animal Protection and Shelter show a drunk raccoon passed out in the bathroom of a Virginia liquor store after ransacking the shop. The raccoon was safely returned to the wild after sobering up at the shelter.
-
-[2025-12-05 08:00:49](https://bsky.app/profile/en.afp.com/post/3m773agpicc2d)
+[2025-12-05 08:21:18](https://bsky.app/profile/bloomberg.com/post/3m774f2tjwr2h)
 
 ---
 
 @nbcnews.com
 
-Attorney General Pam Bondi credits investigators and prosecutors for "sifting through evidence that had been sitting at the FBI" when discussing the charges against the D.C. pipe bomb suspect.
+An 88-year-old Army veteran working full time at a Michigan grocery store to make ends meet is about to receive a life-changing amount of money after thousands of people donated over $1 million to help him retire.
 
-[2025-12-05 08:00:35](https://bsky.app/profile/nbcnews.com/post/3m7737zazik2c)
+[2025-12-05 08:20:23](https://bsky.app/profile/nbcnews.com/post/3m774dgnfll2i)
+
+---
+
+@sokuho.news
+
+🔔防災科研より【強震モニタ】動画です。
+
+震源:長野県北部, 深さ:ごく浅い
+マグニチュード:2.3, 最大震度:1
+📍https://www.google.com/maps?q=36.7,138.2&ll=36.7,138.2&z=7&t=h
+地震発生日時:2025-12-05 08:17頃
+(10倍速▶90s→9s) #地震
+
+[2025-12-05 08:20:15](https://bsky.app/profile/sokuho.news/post/3m774d6nfyt2g)
+
+---
+
+@sokuho.news
+
+🔔気象庁より【地震速報】です。
+
+8時17分頃、長野県・新潟県で最大震度1の地震を観測しました。
+震源:長野県北部, 深さ:ごく浅い, 規模:M2.3
+この地震による津波の心配はありません。
+(2025-12-05 08:19:52) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/05/2025-12-05-08-17-07.html?xlarge_image=1
+
+[2025-12-05 08:19:55](https://bsky.app/profile/sokuho.news/post/3m774clbjmg2w)
+
+---
+
+@npr.org
+
+The Supreme Court has cleared the way for a Texas congressional map that may help the GOP win five more U.S. House seats in the 2026 midterms. A lower court found the map is likely unconstitutional. n.pr/48vTzgl
+
+[2025-12-05 08:19:09](https://bsky.app/profile/npr.org/post/3m774b7sh7c23)
+
+---
+
+@axios.com
+
+NEW: Grand Jury declines second attempt to indict Letitia James
+
+[2025-12-05 08:19:03](https://bsky.app/profile/axios.com/post/3m774b2asts2s)
+
+---
+
+@cnbc.com
+
+Stock futures are little changed ahead of key inflation data: Live updates
+
+[2025-12-05 08:17:07](https://bsky.app/profile/cnbc.com/post/3m7745lqwah2s)
 
 ---
 
