@@ -1,9 +1,9 @@
-# [2025-12-04 22:30 updated](2025_12_04.md)
+# [2025-12-04 22:50 updated](2025_12_04.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">BREAKING: Admiral Frank Bradley saw alleged drug boat strike survivors as legitimate targets, a defense official says. They were killed in a second strike. <a href="https://bsky.app/profile/nbcnews.com/post/3m7637bcnmm2j" target="_blank">nbcnews.com</a> (2025-12-04 22:27:30)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】南海高野線 北野田駅～河内長野駅間で運転見合わせ 人身事故の影響 (2025-12-04 22:18) #ニュース  🚃鉄道運行情報 🔗https://transit.yahoo.co.jp/diainfo <a href="https://bsky.app/profile/sokuho.news/post/3m7635r63oo26" target="_blank">sokuho.news</a> (2025-12-04 22:26:40)</span><span style="padding-right:50px;">A Somali Republican in Minnesota who backed Trump is disappointed by the president <a href="https://bsky.app/profile/axios.com/post/3m76332whyk2x" target="_blank">axios.com</a> (2025-12-04 22:25:09)</span><span style="padding-right:50px;">The FDA this week elevated a recall involving more than one million bags of shredded cheese. Here's what to know. <a href="https://bsky.app/profile/nytimes.com/post/3m7632yfivz2y" target="_blank">nytimes.com</a> (2025-12-04 22:25:07)</span><span style="padding-right:50px;">Stellantis to recall 72,509 US vehicles over software glitch, NHTSA says reut.rs/4pTtoYd <a href="https://bsky.app/profile/reuters.com/post/3m7632xifqg2o" target="_blank">reuters.com</a> (2025-12-04 22:25:05)</span>
+<span style="padding-right:50px;">Macron urges Xi to help correct 'unsustainable' global trade imbalances reut.rs/4pP7XYi <a href="https://bsky.app/profile/reuters.com/post/3m7646shgso2o" target="_blank">reuters.com</a> (2025-12-04 22:45:08)</span><span style="padding-right:50px;">BREAKING: FBI arrests a suspect in the investigation into pipe bombs planted near the RNC and DNC headquarters on Jan. 5, 2021. <a href="https://bsky.app/profile/nbcnews.com/post/3m7644kec3w2p" target="_blank">nbcnews.com</a> (2025-12-04 22:43:53)</span><span style="padding-right:50px;">FBI makes arrest in yearslong investigation of pipe bombs planted near the RNC and DNC headquarters the night before the Capitol riot, sources say https://cnn.it/3XAgthB <a href="https://bsky.app/profile/cnn.com/post/3m7644j3sg42q" target="_blank">cnn.com</a> (2025-12-04 22:43:51)</span><span style="padding-right:50px;">America's urban search and rescue teams are facing financial and political pressure. But their work has never been more in-demand, as weather disasters get more common. n.pr/4ploDqu <a href="https://bsky.app/profile/npr.org/post/3m7643i3ty22j" target="_blank">npr.org</a> (2025-12-04 22:43:17)</span><span style="padding-right:50px;">BREAKING: The FBI arrests a man suspected of placing pipe bombs outside the RNC, DNC offices before the Jan. 6 riots, sources say.  <a href="https://bsky.app/profile/cbsnews.com/post/3m7642ashr52y" target="_blank">cbsnews.com</a> (2025-12-04 22:42:35)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47882.90 (🔺511.28 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23454.09 (🔺138.51 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 179.59 (🔻1.49 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 155.00 (🔻0.18 : 2025-12-04)</span>
+<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47882.90 (🔺511.28 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23454.09 (🔺138.51 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 179.59 (🔻1.49 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 154.79 (🔻0.39 : 2025-12-04)</span>
   </div>
 </div>
 
@@ -32,101 +32,95 @@
 
 ## News Headlines
 
-1.  米海軍幹部、薬物運搬船の生存者を標的と認識し攻撃指示か
-2.  南海高野線で人身事故、一部区間で運転見合わせ
-3.  食品医薬品局、シュレッドチーズ100万袋以上をリコール
-4.  金融庁、地域金融機関の再編費用補助を拡充へ
-5.  ウナギ国際取引の規制案、ワシントン条約で否決
-6.  半導体マイクロン、消費者向けメモリーから撤退
+1. マクロン大統領、習近平氏に「持続不可能な」貿易不均衡の是正を要請
+2. FBI、2021年1月6日事件前夜のパイプ爆弾事件で容疑者逮捕
+3. アメリカの都市捜索救助チーム、財政・政治的圧力に直面
+4. トランプ大統領、露骨な外国人嫌悪発言で物議
+5. 世界気象機関、弱いラニーニャ現象を予測
+6. 金融庁、地方銀行の再編費用補助を拡充へ
 
 ----
 
+@reuters.com
+
+Macron urges Xi to help correct 'unsustainable' global trade imbalances reut.rs/4pP7XYi
+
+[2025-12-04 22:45:08](https://bsky.app/profile/reuters.com/post/3m7646shgso2o)
+
+---
+
 @nbcnews.com
 
-<strong><span style="color: red;">BREAKING:</span> Admiral Frank Bradley saw alleged drug boat strike survivors as legitimate targets, a defense official says. They were killed in a second strike.</strong>
+<strong><span style="color: red;">BREAKING:</span> FBI arrests a suspect in the investigation into pipe bombs planted near the RNC and DNC headquarters on Jan. 5, 2021.</strong>
 
-[2025-12-04 22:27:30](https://bsky.app/profile/nbcnews.com/post/3m7637bcnmm2j)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】南海高野線 北野田駅～河内長野駅間で運転見合わせ 人身事故の影響
-(2025-12-04 22:18) #ニュース
-
-🚃鉄道運行情報
-🔗https://transit.yahoo.co.jp/diainfo
-
-[2025-12-04 22:26:40](https://bsky.app/profile/sokuho.news/post/3m7635r63oo26)
+[2025-12-04 22:43:53](https://bsky.app/profile/nbcnews.com/post/3m7644kec3w2p)
 
 ---
 
-@axios.com
+@cnn.com
 
-A Somali Republican in Minnesota who backed Trump is disappointed by the president
+FBI makes arrest in yearslong investigation of pipe bombs planted near the RNC and DNC headquarters the night before the Capitol riot, sources say
+https://cnn.it/3XAgthB
 
-[2025-12-04 22:25:09](https://bsky.app/profile/axios.com/post/3m76332whyk2x)
+[2025-12-04 22:43:51](https://bsky.app/profile/cnn.com/post/3m7644j3sg42q)
+
+---
+
+@npr.org
+
+America's urban search and rescue teams are facing financial and political pressure. But their work has never been more in-demand, as weather disasters get more common. n.pr/4ploDqu
+
+[2025-12-04 22:43:17](https://bsky.app/profile/npr.org/post/3m7643i3ty22j)
+
+---
+
+@cbsnews.com
+
+<strong><span style="color: red;">BREAKING:</span> The FBI arrests a man suspected of placing pipe bombs outside the RNC, DNC offices before the Jan. 6 riots, sources say. </strong>
+
+[2025-12-04 22:42:35](https://bsky.app/profile/cbsnews.com/post/3m7642ashr52y)
+
+---
+
+@reuters.com
+
+LIVE: Luigi Mangione pre-trial conference arrivals youtube.com/live/JW6iftP...
+
+[2025-12-04 22:41:32](https://bsky.app/profile/reuters.com/post/3m763yeares25)
+
+---
+
+@reuters.com
+
+Turkey extends Russian gas imports for a year as it plans US investment reut.rs/4pRQcYk
+
+[2025-12-04 22:40:23](https://bsky.app/profile/reuters.com/post/3m763wcwbdl2i)
 
 ---
 
 @nytimes.com
 
-The FDA this week elevated a recall involving more than one million bags of shredded cheese. Here's what to know.
+President Trump on Tuesday delivered blatantly xenophobic public remarks, which included attacking Somali immigrants in Minnesota and calling them “garbage.”
 
-[2025-12-04 22:25:07](https://bsky.app/profile/nytimes.com/post/3m7632yfivz2y)
+Listen to "The Daily."
 
----
-
-@reuters.com
-
-Stellantis to recall 72,509 US vehicles over software glitch, NHTSA says reut.rs/4pTtoYd
-
-[2025-12-04 22:25:05](https://bsky.app/profile/reuters.com/post/3m7632xifqg2o)
+[2025-12-04 22:40:07](https://bsky.app/profile/nytimes.com/post/3m763vsodjc2w)
 
 ---
 
-@cnbc.com
+@axios.com
 
-Salesforce earnings are doing little to break stock out of slump. Some major analysts think a big AI rally is ahead
+SCOOP: President Trump, staring down criticism that he's prioritized global issues over pocketbook worries, next week will kick off a year of heavy stateside travel that's focused on selling his economic agenda ahead of the midterms.
 
-[2025-12-04 22:25:01](https://bsky.app/profile/cnbc.com/post/3m7632svicn2g)
-
----
-
-@nhknewsunofficial.bsky.social
-
-金融庁 地方銀行など地域金融機関 再編費用の補助拡充へ
-https://news.web.nhk/newsweb/na/na-k10014994211000
-
-[2025-12-04 22:24:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m762zdfrox2k)
+[2025-12-04 22:39:37](https://bsky.app/profile/axios.com/post/3m763uwhmi22q)
 
 ---
 
-@cnbc.com
+@yahoofinance.com
 
-Here are Thursday's biggest analyst calls: Apple, Tesla, Toast, Toll Brothers, Delta, Oracle & more
+Employers announced more than 71,000 layoffs last month in worst November since 2022: Challenger
 
-[2025-12-04 22:22:53](https://bsky.app/profile/cnbc.com/post/3m762wzglvt2j)
-
----
-
-@reuters.com
-
-LIVE: French President Emmanuel Macron arrives in Chengdu, China youtube.com/live/06s_GYH...
-
-[2025-12-04 22:22:30](https://bsky.app/profile/reuters.com/post/3m762wdj57k2e)
-
----
-
-@en.afp.com
-
-🇱🇰 'Nothing remains': Sri Lanka cyclone survivors face colossal clean-up
-
-Survivors of Cyclone Ditwah, which has ravaged Sri Lanka in recent days, return to their devastated homes, faced with a massive clean-up as they start rebuilding their lives.
-
-[2025-12-04 22:20:11](https://bsky.app/profile/en.afp.com/post/3m762s6ctgu22)
+[2025-12-04 22:36:01](https://bsky.app/profile/yahoofinance.com/post/3m763oi5vqb2k)
 
 ---
 
