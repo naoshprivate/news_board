@@ -1,9 +1,9 @@
-# [2025-12-04 21:30 updated](2025_12_04.md)
+# [2025-12-04 21:50 updated](2025_12_04.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">だから、挑む ～ ヤクルト 村上宗隆 https://news.web.nhk/newsweb/na/na-k10014993281000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75xtfwgsn2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-04 21:27:03)</span><span style="padding-right:50px;">South Africa will take a 'break' from G20 under Trump, presidency says reut.rs/4rAlR1R <a href="https://bsky.app/profile/reuters.com/post/3m75xpmni7i2d" target="_blank">reuters.com</a> (2025-12-04 21:25:04)</span><span style="padding-right:50px;">In @nytopinion.nytimes.com  “Trump has weaponized the pardon as a tool of executive lawbreaking and misconduct,” our columnist Jamelle Bouie writes. <a href="https://bsky.app/profile/nytimes.com/post/3m75xpl4gqn24" target="_blank">nytimes.com</a> (2025-12-04 21:25:02)</span><span style="padding-right:50px;">🇯🇵 KFC prepares a finger-licking Christmas in Japan  Christmas kicks off in Japan as KFC opens its Tokyo Christmas pop-up restaurant. The fast-food chain offers customers dishes inspired by Japan's "Christmas chicken" tradition, dating back to 1974. <a href="https://bsky.app/profile/en.afp.com/post/3m75xgocb3f2e" target="_blank">en.afp.com</a> (2025-12-04 21:20:04)</span><span style="padding-right:50px;">Grab your coffee and pull out your knitted sweaters; creator of the “Gilmore Girls” Amy Sherman-Palladino and Lorelai Gilmore, aka Lauren Graham, are working on a new book inspired by the beloved series.  <a href="https://bsky.app/profile/nbcnews.com/post/3m75xgon7oy2c" target="_blank">nbcnews.com</a> (2025-12-04 21:20:04)</span>
+<span style="padding-right:50px;">Magnitude 6.0 earthquake strikes China's Xinjiang region reut.rs/48iDSu7 <a href="https://bsky.app/profile/reuters.com/post/3m75ytmdheq22" target="_blank">reuters.com</a> (2025-12-04 21:45:11)</span><span style="padding-right:50px;">Where billionaires' investment firms placed their bets in November <a href="https://bsky.app/profile/cnbc.com/post/3m75ytdb53c2y" target="_blank">cnbc.com</a> (2025-12-04 21:45:02)</span><span style="padding-right:50px;">The dollar just had its worst day since October as weak US jobs data ramps up expectations for a Fed rate cut next week. Listen to the Morning Bid podcast to find out why markets are on edge reut.rs/3XvKjUy <a href="https://bsky.app/profile/reuters.com/post/3m75yq2b2tk2x" target="_blank">reuters.com</a> (2025-12-04 21:43:12)</span><span style="padding-right:50px;"> Etsy witches face a tough business spell on.ft.com/3KGeK7x  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m75ypkv4rn27" target="_blank">financialtimes.com</a> (2025-12-04 21:42:56)</span><span style="padding-right:50px;">Stocks making the biggest moves premarket: Snowflake, Salesforce, Hormel Foods, Five Below and more <a href="https://bsky.app/profile/cnbc.com/post/3m75ypd4y5n2g" target="_blank">cnbc.com</a> (2025-12-04 21:42:48)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47882.90 (🔺511.28 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23454.09 (🔺138.51 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 179.59 (🔻1.49 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 154.60 (🔻0.58 : 2025-12-04)</span>
+<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47882.90 (🔺511.28 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23454.09 (🔺138.51 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 179.59 (🔻1.49 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 154.72 (🔻0.46 : 2025-12-04)</span>
   </div>
 </div>
 
@@ -32,111 +32,92 @@
 
 ## News Headlines
 
-1. ヤクルト村上宗隆、新たな挑戦へ
-2. トランプ政権下、南アフリカがG20参加を一時中断
-3. KFC、日本でクリスマス限定ポップアップレストラン開店
-4. OTC類似薬、自民・維新が保険給付継続で負担増を調整
-5. 楽天、初のPB商品「水」と「マスク」を販売開始
-6. 分娩費用、全国一律で自己負担ゼロへ 厚労省が制度案
+1. 中国・新疆でM6.0の地震発生
+2. 米雇用統計悪化でFRB利下げ観測高まる
+3. イラク、誤って掲載したヒズボラとフーシの資産凍結リストを修正
+4. トランプ大統領、ルワンダとコンゴ民主共和国の首脳をホワイトハウスに招待
+5. UBS報告書：富豪の資産相続、記録的な水準に
+6. KFC、日本でクリスマス限定ポップアップレストランをオープン
 
 ----
 
-@nhknewsunofficial.bsky.social
-
-だから、挑む ～ ヤクルト 村上宗隆
-https://news.web.nhk/newsweb/na/na-k10014993281000
-
-[2025-12-04 21:27:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75xtfwgsn2k)
-
----
-
 @reuters.com
 
-South Africa will take a 'break' from G20 under Trump, presidency says reut.rs/4rAlR1R
+Magnitude 6.0 earthquake strikes China's Xinjiang region reut.rs/48iDSu7
 
-[2025-12-04 21:25:04](https://bsky.app/profile/reuters.com/post/3m75xpmni7i2d)
-
----
-
-@nytimes.com
-
-In @nytopinion.nytimes.com
-
-“Trump has weaponized the pardon as a tool of executive lawbreaking and misconduct,” our columnist Jamelle Bouie writes.
-
-[2025-12-04 21:25:02](https://bsky.app/profile/nytimes.com/post/3m75xpl4gqn24)
-
----
-
-@en.afp.com
-
-🇯🇵 KFC prepares a finger-licking Christmas in Japan
-
-Christmas kicks off in Japan as KFC opens its Tokyo Christmas pop-up restaurant. The fast-food chain offers customers dishes inspired by Japan's "Christmas chicken" tradition, dating back to 1974.
-
-[2025-12-04 21:20:04](https://bsky.app/profile/en.afp.com/post/3m75xgocb3f2e)
-
----
-
-@nbcnews.com
-
-Grab your coffee and pull out your knitted sweaters; creator of the “Gilmore Girls” Amy Sherman-Palladino and Lorelai Gilmore, aka Lauren Graham, are working on a new book inspired by the beloved series. 
-
-[2025-12-04 21:20:04](https://bsky.app/profile/nbcnews.com/post/3m75xgon7oy2c)
-
----
-
-@nhknewsunofficial.bsky.social
-
-「OTC類似薬」自民と維新 保険給付継続なら負担額上乗せで調整
-https://news.web.nhk/newsweb/na/na-k10014994281000
-
-[2025-12-04 21:18:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75xdat4mf23)
-
----
-
-@nhknewsunofficial.bsky.social
-
-“OTC類似薬 保険適用継続を” 患者らが20万人分の署名提出
-https://news.web.nhk/newsweb/na/na-k10014994251000
-
-[2025-12-04 21:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m75xd4n4c62j)
+[2025-12-04 21:45:11](https://bsky.app/profile/reuters.com/post/3m75ytmdheq22)
 
 ---
 
 @cnbc.com
 
-GM’s new ‘Silicon Valley cowboy’ eyes technology renaissance for automaker
+Where billionaires' investment firms placed their bets in November
 
-[2025-12-04 21:16:30](https://bsky.app/profile/cnbc.com/post/3m75xacnfpm2f)
-
----
-
-@nikkei.com
-
-楽天「水」や「マスク」、初のPB商品販売（無料記事）
-www.nikkei.com/article/DGXZQO...
-
-ブランド名は「Rakuten Original」で、アイリスオーヤマの協力を得て開発。
-
-商品ラインアップを今後拡充し、楽天市場としての利便性向上につなげます。
-
-[2025-12-04 21:16:29](https://bsky.app/profile/nikkei.com/post/3m75xabkzbo2l)
+[2025-12-04 21:45:02](https://bsky.app/profile/cnbc.com/post/3m75ytdb53c2y)
 
 ---
 
-@nikkei.com
+@reuters.com
 
-航空会社間のダイヤ調整を容認　公取委、座席数維持が条件
-www.nikkei.com/article/DGXZQO...
+The dollar just had its worst day since October as weak US jobs data ramps up expectations for a Fed rate cut next week. Listen to the Morning Bid podcast to find out why markets are on edge reut.rs/3XvKjUy
 
-複数社が運航している路線で、朝や昼といった特定の時間帯に便が集中していることがあります。
+[2025-12-04 21:43:12](https://bsky.app/profile/reuters.com/post/3m75yq2b2tk2x)
 
-調整して運航時刻を分散すれば利便性が高まる可能性がありますが、独占禁止法に抵触するか明確ではありませんでした。
+---
 
-#ニュース
+@financialtimes.com
 
-[2025-12-04 21:16:28](https://bsky.app/profile/nikkei.com/post/3m75xaagkbh2m)
+ Etsy witches face a tough business spell on.ft.com/3KGeK7x  | opinion
+
+[2025-12-04 21:42:56](https://bsky.app/profile/financialtimes.com/post/3m75ypkv4rn27)
+
+---
+
+@cnbc.com
+
+Stocks making the biggest moves premarket: Snowflake, Salesforce, Hormel Foods, Five Below and more
+
+[2025-12-04 21:42:48](https://bsky.app/profile/cnbc.com/post/3m75ypd4y5n2g)
+
+---
+
+@financialtimes.com
+
+Labour is slow-marching working people to populism on.ft.com/4peZkpR
+
+[2025-12-04 21:40:46](https://bsky.app/profile/financialtimes.com/post/3m75ylpc2gs2n)
+
+---
+
+@reuters.com
+
+Iraq to correct asset-freeze list that included Hezbollah and Houthis, citing publication error reut.rs/3MfmGx6
+
+[2025-12-04 21:40:12](https://bsky.app/profile/reuters.com/post/3m75ykomcpx2i)
+
+---
+
+@nbcnews.com
+
+Steve Cropper, the soulful guitarist and songwriter who helped anchor the celebrated Memphis backing band Booker T. and the M.G.’s at Stax Records, has died. He was 84.
+
+[2025-12-04 21:40:08](https://bsky.app/profile/nbcnews.com/post/3m75ykl7tnc2f)
+
+---
+
+@nytimes.com
+
+President Trump will host the leaders of Rwanda and the Democratic Republic of Congo at the White House on Thursday to advance a deal meant to end a devastating war in eastern Congo.
+
+[2025-12-04 21:40:02](https://bsky.app/profile/nytimes.com/post/3m75ykf4rbd22)
+
+---
+
+@npr.org
+
+Trump is targeting Somalis with racist remarks ahead of expected immigration enforcement activity in Minnesota. And, a CDC advisory panel will revisit long-standing vaccine recommendations. n.pr/4pkhoz3
+
+[2025-12-04 21:36:37](https://bsky.app/profile/npr.org/post/3m75yebr7ee2i)
 
 ---
 
