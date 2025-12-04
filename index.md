@@ -1,9 +1,9 @@
-# [2025-12-04 11:10 updated](2025_12_04.md)
+# [2025-12-04 11:30 updated](2025_12_04.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Netflix releases explosive docuseries about Sean "Diddy" Combs despite the disgraced music mogul's attempts to block its airing.  "Sean Combs: The Reckoning" chronicles the career and dramatic fall of Combs, who was sentenced to 50 months in prison for prostitution-related crimes u.afp.com/ShyK <a href="https://bsky.app/profile/en.afp.com/post/3m74va23cj52p" target="_blank">en.afp.com</a> (2025-12-04 11:07:54)</span><span style="padding-right:50px;">US-Venezuela relations have reached boiling point.   Here’s everything you need to know aje.io/znnqel <a href="https://bsky.app/profile/aljazeera.com/post/3m74v36k4rx2z" target="_blank">aljazeera.com</a> (2025-12-04 11:05:09)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】通学路で見守り活動中の男性を切りつけか 男を殺人未遂容疑で現行犯逮捕 男性は軽傷 (2025-12-04 11:03) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m74uyosns32h" target="_blank">sokuho.news</a> (2025-12-04 11:03:47)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】益田市波田町で70代男性がクマに襲われ目の下や手の甲にけが 島根県 (2025-12-04 11:02) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m74uwmkxgr2y" target="_blank">sokuho.news</a> (2025-12-04 11:02:38)</span><span style="padding-right:50px;">President Donald Trump said his administration would “certainly” release video of a follow-up strike on an alleged drug vessel in the Caribbean after the initial attack did not kill everyone on board. <a href="https://bsky.app/profile/cnn.com/post/3m74utqmfkx2q" target="_blank">cnn.com</a> (2025-12-04 11:01:01)</span>
+<span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】炎上した車両から男性遺体 放火容疑で逮捕の男を殺人容疑などで再逮捕 大阪府警 (2025-12-04 11:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m74vycg3jy2h" target="_blank">sokuho.news</a> (2025-12-04 11:21:28)</span><span style="padding-right:50px;">欧州サッカー リーズ 田中碧がプレミアリーグ初ゴール https://news.web.nhk/newsweb/na/na-k10014993601000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74vxmgo5p2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-04 11:21:03)</span><span style="padding-right:50px;">Snowflake's product revenue outlook falls short of investor ambition, shares fall reut.rs/44aQWiS <a href="https://bsky.app/profile/reuters.com/post/3m74vvycwhy2e" target="_blank">reuters.com</a> (2025-12-04 11:20:10)</span><span style="padding-right:50px;">佐川急便、本州・四国で荷物預かりを一時制限 www.nikkei.com/article/DGXZQO...  12月5日には再開する見通しで、配達業務は継続します。  大型セール「ブラックフライデー」によって配送量が増え、配達に遅延が生じていました。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m74vutih7r2w" target="_blank">nikkei.com</a> (2025-12-04 11:19:32)</span><span style="padding-right:50px;">This closer-to-home alternative offers some of St. Moritz’s shine, but with thinner, more down-to-earth crowds. <a href="https://bsky.app/profile/wsj.com/post/3m74vundibk2a" target="_blank">wsj.com</a> (2025-12-04 11:19:25)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50486.83 (🔺543.89 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47882.90 (🔺511.28 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23454.09 (🔺138.51 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 179.59 (🔻1.48 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3056.00 (🔺28.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 155.34 (🔺0.16 : 2025-12-04)</span>
+<span style="padding-right:50px;">NIKKEI: 50530.07 (🔺587.13 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47882.90 (🔺511.28 : 2025-12-03)</span><span style="padding-right:50px;">NASDAQ: 23454.09 (🔺138.51 : 2025-12-03)</span><span style="padding-right:50px;">NVIDIA: 179.59 (🔻1.48 : 2025-12-03)</span><span style="padding-right:50px;">トヨタ自動車: 3059.00 (🔺31.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 155.38 (🔺0.20 : 2025-12-04)</span>
   </div>
 </div>
 
@@ -32,14 +32,100 @@
 
 ## News Headlines
 
-1.  Netflix、ディディ氏のドキュメンタリーを公開
-2.  米ベネズエラ関係、緊張激化
-3.  通学路で見守り中の男性が切りつけられる、男を逮捕
-4.  島根県益田市で70代男性がクマに襲われる
-5.  トランプ氏、小型車を「本当にカワイイ」と高評価
-6.  福井県知事、セクハラ問題で辞職決定
+1. 大阪府警、放火容疑の男を殺人容疑で再逮捕
+2. 田中碧、プレミアリーグ初ゴール
+3. 佐川急便、本州・四国で荷物預かり一時制限
+4. 通学路で見守り活動中の男性切りつけられる、男を逮捕
+5. 益田市で70代男性がクマに襲われる
+6. 2025年出生数、過去最少66.5万人予測
 
 ----
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】炎上した車両から男性遺体 放火容疑で逮捕の男を殺人容疑などで再逮捕 大阪府警
+(2025-12-04 11:00) #ニュース
+
+[2025-12-04 11:21:28](https://bsky.app/profile/sokuho.news/post/3m74vycg3jy2h)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+欧州サッカー リーズ 田中碧がプレミアリーグ初ゴール
+https://news.web.nhk/newsweb/na/na-k10014993601000
+
+[2025-12-04 11:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m74vxmgo5p2j)
+
+---
+
+@reuters.com
+
+Snowflake's product revenue outlook falls short of investor ambition, shares fall reut.rs/44aQWiS
+
+[2025-12-04 11:20:10](https://bsky.app/profile/reuters.com/post/3m74vvycwhy2e)
+
+---
+
+@nikkei.com
+
+佐川急便、本州・四国で荷物預かりを一時制限
+www.nikkei.com/article/DGXZQO...
+
+12月5日には再開する見通しで、配達業務は継続します。
+
+大型セール「ブラックフライデー」によって配送量が増え、配達に遅延が生じていました。
+
+#ニュース
+
+[2025-12-04 11:19:32](https://bsky.app/profile/nikkei.com/post/3m74vutih7r2w)
+
+---
+
+@wsj.com
+
+This closer-to-home alternative offers some of St. Moritz’s shine, but with thinner, more down-to-earth crowds.
+
+[2025-12-04 11:19:25](https://bsky.app/profile/wsj.com/post/3m74vundibk2a)
+
+---
+
+@financialtimes.com
+
+Pentagon watchdog finds Hegseth’s Signal use put troops at risk on.ft.com/3M92D3s
+
+[2025-12-04 11:17:44](https://bsky.app/profile/financialtimes.com/post/3m74vrmt6rd23)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】炎上した車両から男性遺体 放火容疑で逮捕の知人の男を殺人容疑などで再逮捕 大阪府警
+(2025-12-04 11:00) #ニュース
+
+[2025-12-04 11:11:59](https://bsky.app/profile/sokuho.news/post/3m74vhdqhbw22)
+
+---
+
+@npr.org
+
+Steve Cropper, who co-wrote classics including "(Sittin' on) the Dock of the Bay" and "In the Midnight Hour" during his years playing guitar at the legendary Stax Records in Memphis, has died. He was 84. n.pr/48zf0gD
+
+[2025-12-04 11:11:57](https://bsky.app/profile/npr.org/post/3m74vhbmbmn2g)
+
+---
+
+@reuters.com
+
+Adidas defeats appeal of lawsuit over imploded Ye partnership reut.rs/3KvX2DC
+
+[2025-12-04 11:10:07](https://bsky.app/profile/reuters.com/post/3m74vdynnn52k)
+
+---
 
 @en.afp.com
 
@@ -49,97 +135,6 @@ Netflix releases explosive docuseries about Sean "Diddy" Combs despite the disgr
 u.afp.com/ShyK
 
 [2025-12-04 11:07:54](https://bsky.app/profile/en.afp.com/post/3m74va23cj52p)
-
----
-
-@aljazeera.com
-
-US-Venezuela relations have reached boiling point. 
-
-Here’s everything you need to know aje.io/znnqel
-
-[2025-12-04 11:05:09](https://bsky.app/profile/aljazeera.com/post/3m74v36k4rx2z)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】通学路で見守り活動中の男性を切りつけか 男を殺人未遂容疑で現行犯逮捕 男性は軽傷
-(2025-12-04 11:03) #ニュース
-
-[2025-12-04 11:03:47](https://bsky.app/profile/sokuho.news/post/3m74uyosns32h)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】益田市波田町で70代男性がクマに襲われ目の下や手の甲にけが 島根県
-(2025-12-04 11:02) #ニュース
-
-[2025-12-04 11:02:38](https://bsky.app/profile/sokuho.news/post/3m74uwmkxgr2y)
-
----
-
-@cnn.com
-
-President Donald Trump said his administration would “certainly” release video of a follow-up strike on an alleged drug vessel in the Caribbean after the initial attack did not kill everyone on board.
-
-[2025-12-04 11:01:01](https://bsky.app/profile/cnn.com/post/3m74utqmfkx2q)
-
----
-
-@cnbc.com
-
-Some 25 million American children born before Jan. 1, 2025, who are 10 or under could each receive a $250 grant in a "Trump account" according to a group partnered with the Dells.
-
-To qualify for the $250 contribution, children must live in a zip code where the median income is $150,000 or less.
-
-[2025-12-04 11:00:51](https://bsky.app/profile/cnbc.com/post/3m74utgki6z2x)
-
----
-
-@aljazeera.com
-
-The report, slated to be released on Thursday, is said to recommend further training in the handling of sensitive info.
-
-[2025-12-04 11:00:47](https://bsky.app/profile/aljazeera.com/post/3m74utcxxl42c)
-
----
-
-@reuters.com
-
-Doctor in Matthew Perry overdose case sentenced to 2-1/2 years in prison reut.rs/4iz2i62
-
-[2025-12-04 11:00:38](https://bsky.app/profile/reuters.com/post/3m74ut2j2gx2i)
-
----
-
-@nikkei.com
-
-トランプ氏、日本の小型車「本当にカワイイ」　意外な高評価
-www.nikkei.com/article/DGXZQO...
-
-「とても小さくて、本当にかわいらしい車だ」。
-
-12月3日に開いた新車の燃費規制に関する記者会見で、日本などで普及している小型の乗用車をほめる一幕がありました。
-
-トランプ氏はこのところ「アフォーダビリティ（価格の手ごろさ）」を重視する発言を繰り返しています。
-
-#ニュース
-
-[2025-12-04 11:00:28](https://bsky.app/profile/nikkei.com/post/3m74usqsygm2k)
-
----
-
-@bloomberg.com
-
-President Donald Trump has pardoned longtime sports and entertainment executive Tim Leiweke after he was criminally charged in July with bid-rigging related to the development of an arena at the University of Texas
-
-[2025-12-04 11:00:11](https://bsky.app/profile/bloomberg.com/post/3m74usaqgng2d)
 
 ---
 
