@@ -1,9 +1,9 @@
-# [2025-12-05 02:30 updated](2025_12_05.md)
+# [2025-12-05 02:50 updated](2025_12_05.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">No texting. No visitors. No escape. She was caught in India’s new digital nightmare. <a href="https://bsky.app/profile/bloomberg.com/post/3m76induih72m" target="_blank">bloomberg.com</a> (2025-12-05 02:28:01)</span><span style="padding-right:50px;">In Jay Kelly, Clooney plays an emotionally stunted movie star struggling with work and family life. He can relate: "We're all balancing it. We're never getting it perfect." n.pr/3KxixUK <a href="https://bsky.app/profile/npr.org/post/3m76ijsolti2f" target="_blank">npr.org</a> (2025-12-05 02:26:02)</span><span style="padding-right:50px;">Dollar General raises annual profit forecast as low prices pull in bargain hunters reut.rs/3MaAfxU <a href="https://bsky.app/profile/reuters.com/post/3m76ii3j76b2r" target="_blank">reuters.com</a> (2025-12-05 02:25:05)</span><span style="padding-right:50px;">BP in advanced talks to sell $8bn Castrol unit to US group Stonepeak on.ft.com/4oz6V1g <a href="https://bsky.app/profile/financialtimes.com/post/3m76id4fjpo26" target="_blank">financialtimes.com</a> (2025-12-05 02:22:18)</span><span style="padding-right:50px;">Why more retirees may be warming up to crypto <a href="https://bsky.app/profile/yahoofinance.com/post/3m76ib4g4cv2d" target="_blank">yahoofinance.com</a> (2025-12-05 02:21:11)</span>
+<span style="padding-right:50px;">The USGS sent an alert that Nevada had been rocked by a 5.9-magnitude earthquake early Thursday before quickly deleting the warning from its web page and saying it had been an error. <a href="https://bsky.app/profile/nytimes.com/post/3m76jr3ybsf2g" target="_blank">nytimes.com</a> (2025-12-05 02:48:01)</span><span style="padding-right:50px;">Adm. Frank M. Bradley, the U.S. Special Operations commander who oversaw an attack on a boat from Venezuela alleged to be smuggling drugs, is attending closed-door meetings on Capitol Hill today.  Here’s what we know: https://wapo.st/4iGC6Xi <a href="https://bsky.app/profile/washingtonpost.com/post/3m76jlw2aml2j" target="_blank">washingtonpost.com</a> (2025-12-05 02:45:07)</span><span style="padding-right:50px;">ProShares withdraws some highly leveraged ETF plans after SEC review halt reut.rs/3KDKg6a <a href="https://bsky.app/profile/reuters.com/post/3m76jlwd37c2r" target="_blank">reuters.com</a> (2025-12-05 02:45:07)</span><span style="padding-right:50px;">Trump's vow to strip citizens of their legal status is expected to face legal challenges. What to know <a href="https://bsky.app/profile/bloomberg.com/post/3m76jiishzg2o" target="_blank">bloomberg.com</a> (2025-12-05 02:43:12)</span><span style="padding-right:50px;">AI startup Flex raises $60 million to offer finance tools for mid-sized businesses reut.rs/4ptsv8P <a href="https://bsky.app/profile/reuters.com/post/3m76jd2qttc2a" target="_blank">reuters.com</a> (2025-12-05 02:40:10)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47844.31 (🔻43.85 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23472.30 (🔻55.00 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.54 (🔺1.97 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 154.90 (🔻0.28 : 2025-12-04)</span>
+<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47873.51 (🔻14.65 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23476.55 (🔻50.74 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.62 (🔺2.04 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 154.93 (🔻0.25 : 2025-12-04)</span>
   </div>
 </div>
 
@@ -32,92 +32,96 @@
 
 ## News Headlines
 
-1. インド、デジタル監視の悪夢が現実化
-2. ダラー・ジェネラル、低価格戦略で利益予測を上方修正
-3. BP、カストロール事業を80億ドルで米ストーンピークに売却へ
-4. 5歳未満の子どもの死亡、年間20万人以上増加の可能性 - ゲイツ財団報告
-5. 米失業保険申請件数、3年超ぶりの低水準
-6. メタ、メタバースへの投資を削減しAIに注力
+1. USGS、ネバダ地震警報を誤って送信後削除
+2. 薬物密輸疑惑ベネズエラ船攻撃を指揮した米特殊作戦司令官が議会で非公開会議
+3. ProShares、SECの審査停止後、高レバレッジETF計画の一部を撤回
+4. トランプ氏の市民権剥奪宣言に法的異議申し立てが予想
+5. AIスタートアップFlex、中小企業向け金融ツール提供で6000万ドル調達
+6. ドル・ジェネラル、低価格で顧客を引きつけ年間利益予想を上方修正
 
 ----
 
-@bloomberg.com
+@nytimes.com
 
-No texting. No visitors. No escape. She was caught in India’s new digital nightmare.
+The USGS sent an alert that Nevada had been rocked by a 5.9-magnitude earthquake early Thursday before quickly deleting the warning from its web page and saying it had been an error.
 
-[2025-12-05 02:28:01](https://bsky.app/profile/bloomberg.com/post/3m76induih72m)
+[2025-12-05 02:48:01](https://bsky.app/profile/nytimes.com/post/3m76jr3ybsf2g)
 
 ---
 
-@npr.org
+@washingtonpost.com
 
-In Jay Kelly, Clooney plays an emotionally stunted movie star struggling with work and family life. He can relate: "We're all balancing it. We're never getting it perfect." n.pr/3KxixUK
+Adm. Frank M. Bradley, the U.S. Special Operations commander who oversaw an attack on a boat from Venezuela alleged to be smuggling drugs, is attending closed-door meetings on Capitol Hill today.
 
-[2025-12-05 02:26:02](https://bsky.app/profile/npr.org/post/3m76ijsolti2f)
+Here’s what we know: https://wapo.st/4iGC6Xi
+
+[2025-12-05 02:45:07](https://bsky.app/profile/washingtonpost.com/post/3m76jlw2aml2j)
 
 ---
 
 @reuters.com
 
-Dollar General raises annual profit forecast as low prices pull in bargain hunters reut.rs/3MaAfxU
+ProShares withdraws some highly leveraged ETF plans after SEC review halt reut.rs/3KDKg6a
 
-[2025-12-05 02:25:05](https://bsky.app/profile/reuters.com/post/3m76ii3j76b2r)
+[2025-12-05 02:45:07](https://bsky.app/profile/reuters.com/post/3m76jlwd37c2r)
 
 ---
 
-@financialtimes.com
+@bloomberg.com
 
-BP in advanced talks to sell $8bn Castrol unit to US group Stonepeak on.ft.com/4oz6V1g
+Trump's vow to strip citizens of their legal status is expected to face legal challenges. What to know
 
-[2025-12-05 02:22:18](https://bsky.app/profile/financialtimes.com/post/3m76id4fjpo26)
+[2025-12-05 02:43:12](https://bsky.app/profile/bloomberg.com/post/3m76jiishzg2o)
+
+---
+
+@reuters.com
+
+AI startup Flex raises $60 million to offer finance tools for mid-sized businesses reut.rs/4ptsv8P
+
+[2025-12-05 02:40:10](https://bsky.app/profile/reuters.com/post/3m76jd2qttc2a)
+
+---
+
+@nytimes.com
+
+Some voters may punish congressional Republicans in next year’s midterm elections if expanded Affordable Care Act insurance subsidies are allowed to expire at the end of this month, a new poll suggests.
+
+[2025-12-05 02:40:04](https://bsky.app/profile/nytimes.com/post/3m76jcvhmle2l)
+
+---
+
+@axios.com
+
+NEW: Signalgate report finds Hegseth potentially put U.S. forces at risk
+
+[2025-12-05 02:39:37](https://bsky.app/profile/axios.com/post/3m76jc356c22c)
+
+---
+
+@opinion.bloomberg.com
+
+Trump used to know exactly what Americans wanted to hear.
+
+Nia-Malika Henderson explains why that’s no longer the case 🎥
+
+[2025-12-05 02:38:04](https://bsky.app/profile/opinion.bloomberg.com/post/3m76j7cnc6c2t)
+
+---
+
+@nytimes.com
+
+A New York Times examination of Robert F. Kennedy Jr.’s tenure as health secretary shows how he has laid the groundwork to overhaul American vaccine policy, walled himself off from government scientists and elevated longtime allies to help carry out his agenda. trib.al/3MsBal8
+
+[2025-12-05 02:37:44](https://bsky.app/profile/nytimes.com/post/3m76j6pzuhk2b)
 
 ---
 
 @yahoofinance.com
 
-Why more retirees may be warming up to crypto
+Nvidia’s chips face new competition from Google, but it’s not about to lose its edge
 
-[2025-12-05 02:21:11](https://bsky.app/profile/yahoofinance.com/post/3m76ib4g4cv2d)
-
----
-
-@nbcnews.com
-
-With the new year just weeks away, the color experts at Pantone have declared 2026’s official Color of the Year is “Cloud Dancer.”
-
-[2025-12-05 02:20:06](https://bsky.app/profile/nbcnews.com/post/3m76i76mbs327)
-
----
-
-@cnbc.com
-
-The first step workers should take after a layoff, as job losses soar
-
-[2025-12-05 02:16:16](https://bsky.app/profile/cnbc.com/post/3m76hyd7auy2s)
-
----
-
-@cnbc.com
-
-Top analyst Mayo says deregulation to spark bank M&A boom. Here are his takeover candidates
-
-[2025-12-05 02:15:19](https://bsky.app/profile/cnbc.com/post/3m76hwmjfih2f)
-
----
-
-@reuters.com
-
-Exclusive: Hungary's MOL interested in Lukoil assets, sources say reut.rs/3Mm1tS3
-
-[2025-12-05 02:15:08](https://bsky.app/profile/reuters.com/post/3m76hwcsrex26)
-
----
-
-@forbes.com
-
-An annual report from the Gates Foundation found deaths in children under 5 could rise by more than 200,000 from last year.
-
-[2025-12-05 02:15:03](https://bsky.app/profile/forbes.com/post/3m76hw6ol2n26)
+[2025-12-05 02:36:21](https://bsky.app/profile/yahoofinance.com/post/3m76j4ac3vw2e)
 
 ---
 
