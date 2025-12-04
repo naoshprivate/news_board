@@ -1,9 +1,9 @@
-# [2025-12-05 00:30 updated](2025_12_05.md)
+# [2025-12-05 00:50 updated](2025_12_05.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Investors are scrambling for portfolio alternatives. A CIO urges caution — especially with private credit <a href="https://bsky.app/profile/cnbc.com/post/3m76btegss22i" target="_blank">cnbc.com</a> (2025-12-05 00:26:07)</span><span style="padding-right:50px;">YPF CEO sees green light for Argentina LNG project with Eni, XRG in mid-2026 reut.rs/4oyFLHQ <a href="https://bsky.app/profile/reuters.com/post/3m76brjufkc22" target="_blank">reuters.com</a> (2025-12-05 00:25:05)</span><span style="padding-right:50px;">CNBC Sport: U.S. men’s soccer is sick of losing the World Cup — and now it has a plan <a href="https://bsky.app/profile/cnbc.com/post/3m76brhifpf2q" target="_blank">cnbc.com</a> (2025-12-05 00:25:03)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】国道で血を流し倒れている男性見つかる 意識不明の重体 ひき逃げなどの可能性も視野に入れ捜査 滋賀・東近江市 (2025-12-05 00:04) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m76bnktdax2y" target="_blank">sokuho.news</a> (2025-12-05 00:22:52)</span><span style="padding-right:50px;">Vladimir Putin is embarking on a high-profile visit to India, aiming to protect a partnership that is a crucial economic and diplomatic lifeline for Moscow. <a href="https://bsky.app/profile/wsj.com/post/3m76blerrwb2r" target="_blank">wsj.com</a> (2025-12-05 00:21:39)</span>
+<span style="padding-right:50px;">Trump hosts Congo, Rwanda leaders in latest push for peace reut.rs/4iARhBr <a href="https://bsky.app/profile/reuters.com/post/3m76cveptf522" target="_blank">reuters.com</a> (2025-12-05 00:45:08)</span><span style="padding-right:50px;">Exclusive: Billionaire investor Josh Harris’s firm, 26North Partners, struck a deal to take a controlling stake in Middleby’s kitchen-products division. <a href="https://bsky.app/profile/wsj.com/post/3m76cnjolfl2l" target="_blank">wsj.com</a> (2025-12-05 00:40:45)</span><span style="padding-right:50px;">Morocco to secure 60% of water needs from desalination, minister says reut.rs/48iJSDd <a href="https://bsky.app/profile/reuters.com/post/3m76cml7g542w" target="_blank">reuters.com</a> (2025-12-05 00:40:13)</span><span style="padding-right:50px;">🌏 Map summarising the deadly flooding in four Asian countries plus data showing which areas experienced record rainfalls during November. <a href="https://bsky.app/profile/en.afp.com/post/3m76cmea65l2y" target="_blank">en.afp.com</a> (2025-12-05 00:40:06)</span><span style="padding-right:50px;">🌏 Rain forecasts have raised fears of more damage in flood-hit Indonesia and Sri Lanka, after earlier deluges killed more than 1,500 people in four countries.  ➡️ u.afp.com/S7kq <a href="https://bsky.app/profile/en.afp.com/post/3m76cmbwatg2a" target="_blank">en.afp.com</a> (2025-12-05 00:40:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47903.82 (🔺15.66 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23438.84 (🔻88.46 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 181.13 (🔻0.44 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 154.65 (🔻0.53 : 2025-12-04)</span>
+<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47876.88 (🔻11.28 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23448.49 (🔻78.81 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 182.24 (🔺0.67 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 154.61 (🔻0.57 : 2025-12-04)</span>
   </div>
 </div>
 
@@ -32,101 +32,93 @@
 
 ## News Headlines
 
-1. 投資家、ポートフォリオ代替に奔走：プライベートクレジットにCIOが警鐘
-2. アルゼンチンLNGプロジェクト、2026年半ばに承認見込み
-3. 国道で男性が血を流し倒れているところを発見される、ひき逃げの可能性も視野に捜査
-4. プーチン大統領、インド訪問：経済・外交の生命線を守る
-5. アメリカ人の最大の悩みは政治、ファイナンシャルプランナーが指摘
-6. アマゾン、USPSとの提携解消か：郵便公社に大打撃の可能性
+1. トランプ、コンゴ・ルワンダ首脳と和平協議
+2. ビリオネア投資家ハリス氏、Middlebyの厨房機器部門で支配権獲得
+3. モロッコ、海水淡水化で水需要の60%を確保へ
+4. インドネシア・スリランカ洪水、死者1500人超　更なる被害の恐れ
+5. スペイン、バルセロナ郊外で豚熱対策　軍隊・警察犬・ドローン投入
+6. プーチン大統領、インド訪問　防衛関係強化へ
 
 ----
 
-@cnbc.com
-
-Investors are scrambling for portfolio alternatives. A CIO urges caution — especially with private credit
-
-[2025-12-05 00:26:07](https://bsky.app/profile/cnbc.com/post/3m76btegss22i)
-
----
-
 @reuters.com
 
-YPF CEO sees green light for Argentina LNG project with Eni, XRG in mid-2026 reut.rs/4oyFLHQ
+Trump hosts Congo, Rwanda leaders in latest push for peace reut.rs/4iARhBr
 
-[2025-12-05 00:25:05](https://bsky.app/profile/reuters.com/post/3m76brjufkc22)
-
----
-
-@cnbc.com
-
-CNBC Sport: U.S. men’s soccer is sick of losing the World Cup — and now it has a plan
-
-[2025-12-05 00:25:03](https://bsky.app/profile/cnbc.com/post/3m76brhifpf2q)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】国道で血を流し倒れている男性見つかる 意識不明の重体 ひき逃げなどの可能性も視野に入れ捜査 滋賀・東近江市
-(2025-12-05 00:04) #ニュース
-
-[2025-12-05 00:22:52](https://bsky.app/profile/sokuho.news/post/3m76bnktdax2y)
+[2025-12-05 00:45:08](https://bsky.app/profile/reuters.com/post/3m76cveptf522)
 
 ---
 
 @wsj.com
 
-Vladimir Putin is embarking on a high-profile visit to India, aiming to protect a partnership that is a crucial economic and diplomatic lifeline for Moscow.
+Exclusive: Billionaire investor Josh Harris’s firm, 26North Partners, struck a deal to take a controlling stake in Middleby’s kitchen-products division.
 
-[2025-12-05 00:21:39](https://bsky.app/profile/wsj.com/post/3m76blerrwb2r)
-
----
-
-@en.afp.com
-
-🇬🇧 🇩🇪 German President gets royal treatment on UK state visit
-
-Britain's King Charles III welcomes German President Frank-Walter Steinmeier to Windsor, as the pair hail the countries' deep ties during the first UK state visit by a German head of state in decades.
-
-[2025-12-05 00:20:34](https://bsky.app/profile/en.afp.com/post/3m76bjh7s3r2u)
-
----
-
-@cnbc.com
-
-Politics is now Americans' No. 1 money worry, financial planners say
-
-[2025-12-05 00:17:15](https://bsky.app/profile/cnbc.com/post/3m76bditwdb2q)
+[2025-12-05 00:40:45](https://bsky.app/profile/wsj.com/post/3m76cnjolfl2l)
 
 ---
 
 @reuters.com
 
-EU presents plans to overcome investment hurdles hampering competitiveness reut.rs/4rCWnB9
+Morocco to secure 60% of water needs from desalination, minister says reut.rs/48iJSDd
 
-[2025-12-05 00:15:09](https://bsky.app/profile/reuters.com/post/3m76b7qyzgb2e)
+[2025-12-05 00:40:13](https://bsky.app/profile/reuters.com/post/3m76cml7g542w)
+
+---
+
+@en.afp.com
+
+🌏 Map summarising the deadly flooding in four Asian countries plus data showing which areas experienced record rainfalls during November.
+
+[2025-12-05 00:40:06](https://bsky.app/profile/en.afp.com/post/3m76cmea65l2y)
+
+---
+
+@en.afp.com
+
+🌏 Rain forecasts have raised fears of more damage in flood-hit Indonesia and Sri Lanka, after earlier deluges killed more than 1,500 people in four countries. 
+➡️ u.afp.com/S7kq
+
+[2025-12-05 00:40:03](https://bsky.app/profile/en.afp.com/post/3m76cmbwatg2a)
 
 ---
 
 @cnbc.com
 
-Tesla gains in 2026 Consumer Reports' auto brand rankings
+Jim Cramer warns that OpenAI is the year 2000 in a nutshell
 
-[2025-12-05 00:14:54](https://bsky.app/profile/cnbc.com/post/3m76b7cizze2h)
+[2025-12-05 00:36:20](https://bsky.app/profile/cnbc.com/post/3m76cfmyx5n2o)
 
 ---
 
-@npr.org
+@cnbc.com
 
-This holiday season, give a gift that keeps on giving: NPR+! 🎧 
+Mike Khouw found a defense technology stock with strong momentum not named Palantir
 
-You'll support great journalism and get fan access to special perks from your favorite NPR podcasts.
+[2025-12-05 00:35:14](https://bsky.app/profile/cnbc.com/post/3m76cdoilez2j)
 
-Cross the perfect present – for yourself or someone special – off your list! ➡️ Click here to give NPR+ now: n.pr/4otLiiZ
+---
 
-[2025-12-05 00:14:03](https://bsky.app/profile/npr.org/post/3m76b5s2jt22a)
+@reuters.com
+
+Can 'Trump Accounts' boost savings for lower-income Americans? reut.rs/4iAP2hv
+
+[2025-12-05 00:35:03](https://bsky.app/profile/reuters.com/post/3m76cddslh22r)
+
+---
+
+@reuters.com
+
+HSBC's long-term vision questioned after Nelson appointment reut.rs/4pk6edJ
+
+[2025-12-05 00:30:46](https://bsky.app/profile/reuters.com/post/3m76c3ooqu22o)
+
+---
+
+@aljazeera.com
+
+Trump claims to be cracking down on drug gangs in Venezuela but pardoned a Honduran drug lord serving time in the US.
+
+[2025-12-05 00:30:18](https://bsky.app/profile/aljazeera.com/post/3m76c2tqpxc2v)
 
 ---
 
