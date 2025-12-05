@@ -1,9 +1,9 @@
-# [2025-12-06 08:10 updated](2025_12_06.md)
+# [2025-12-06 08:30 updated](2025_12_06.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">対人地雷禁止条約 運用停止通告のウクライナに関与継続求める https://news.web.nhk/newsweb/na/na-k10014995731000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bm65gzns2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-06 08:09:03)</span><span style="padding-right:50px;">The Supreme Court is set to decide on Trump's order to end birthright citizenship next year after a federal court blocked it. Here's what to know. <a href="https://bsky.app/profile/axios.com/post/3m7bly7wtz22o" target="_blank">axios.com</a> (2025-12-06 08:05:47)</span><span style="padding-right:50px;">Exclusive: Barclays explores bid for British wealth manager Evelyn, sources say reut.rs/48lEH5s <a href="https://bsky.app/profile/reuters.com/post/3m7blx3w37o27" target="_blank">reuters.com</a> (2025-12-06 08:05:09)</span><span style="padding-right:50px;">香港 学生会が活動停止に “火災 政府に説明責任”メッセージ https://news.web.nhk/newsweb/na/na-k10014995831000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bltfpd2s26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-06 08:03:03)</span><span style="padding-right:50px;">Purchases for $50 or less that CNBC staffers say were truly worth the money.  <a href="https://bsky.app/profile/cnbc.com/post/3m7blt7lgaq2x" target="_blank">cnbc.com</a> (2025-12-06 08:02:58)</span>
+<span style="padding-right:50px;">U.S. and Ukrainian officials say they’ll meet for a third day of talks after making progress on a security framework for postwar Ukraine, and they are urging Russia to commit to peace. <a href="https://bsky.app/profile/apnews.com/post/3m7bnb2x3mx2c" target="_blank">apnews.com</a> (2025-12-06 08:28:37)</span><span style="padding-right:50px;">France asks Brussels for state-aid approval for nuclear projects reut.rs/4oFxB0G <a href="https://bsky.app/profile/reuters.com/post/3m7bn2u4jx42o" target="_blank">reuters.com</a> (2025-12-06 08:25:08)</span><span style="padding-right:50px;">【随時更新】ロシア ウクライナに軍事侵攻（12月6日の動き） https://news.web.nhk/newsweb/na/na-k10014973081000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bmywypjr2e" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-06 08:24:02)</span><span style="padding-right:50px;">Beeple, the artist who launched the NFT art craze four years ago, is back with another viral hit. on.wsj.com/44HsuWo <a href="https://bsky.app/profile/wsj.com/post/3m7bmv4lk5l2r" target="_blank">wsj.com</a> (2025-12-06 08:21:56)</span><span style="padding-right:50px;">スピードスケートW杯第3戦 女子1000ｍ 高木美帆2位 https://news.web.nhk/newsweb/na/na-k10014995871000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bmtlsjdl26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-06 08:21:03)</span>
   </div>
 </div>
 
@@ -32,101 +32,95 @@
 
 ## News Headlines
 
-1. ウクライナ、対人地雷禁止条約運用停止通告 - 国際社会は関与継続を求める
-2. 米最高裁、出生地主義巡るトランプ大統領令の是非を審理へ
-3. 香港学生会、活動停止 - 政府への説明責任求めるメッセージ
-4. 銀座に高級温泉旅館「ふふ」開業 - 熱海直送温泉と夜景が魅力
-5. ドイツ、徴兵可能にする法案可決 - 各地で反対デモ発生
-6. 米中高官、貿易協力維持で協議 - 関係改善の兆し
+1. 米ウクライナ、戦後安全保障で進展、ロシアに和平を促す
+2. フランス、原子力プロジェクトでEUに国家補助を要請
+3. NFTアーティストBeeple、新たな話題作でカムバック
+4. スピードスケートW杯 高木美帆、女子1000mで2位
+5. NYタイムズ、生成AI検索サービスの記事無断利用で提訴
+6. 米最高裁、出生地主義を巡りトランプ氏の措置を審理へ
 
 ----
 
-@nhknewsunofficial.bsky.social
+@apnews.com
 
-対人地雷禁止条約 運用停止通告のウクライナに関与継続求める
-https://news.web.nhk/newsweb/na/na-k10014995731000
+U.S. and Ukrainian officials say they’ll meet for a third day of talks after making progress on a security framework for postwar Ukraine, and they are urging Russia to commit to peace.
 
-[2025-12-06 08:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bm65gzns2b)
-
----
-
-@axios.com
-
-The Supreme Court is set to decide on Trump's order to end birthright citizenship next year after a federal court blocked it. Here's what to know.
-
-[2025-12-06 08:05:47](https://bsky.app/profile/axios.com/post/3m7bly7wtz22o)
+[2025-12-06 08:28:37](https://bsky.app/profile/apnews.com/post/3m7bnb2x3mx2c)
 
 ---
 
 @reuters.com
 
-Exclusive: Barclays explores bid for British wealth manager Evelyn, sources say reut.rs/48lEH5s
+France asks Brussels for state-aid approval for nuclear projects reut.rs/4oFxB0G
 
-[2025-12-06 08:05:09](https://bsky.app/profile/reuters.com/post/3m7blx3w37o27)
+[2025-12-06 08:25:08](https://bsky.app/profile/reuters.com/post/3m7bn2u4jx42o)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-香港 学生会が活動停止に “火災 政府に説明責任”メッセージ
-https://news.web.nhk/newsweb/na/na-k10014995831000
+【随時更新】ロシア ウクライナに軍事侵攻（12月6日の動き）
+https://news.web.nhk/newsweb/na/na-k10014973081000
 
-[2025-12-06 08:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bltfpd2s26)
-
----
-
-@cnbc.com
-
-Purchases for $50 or less that CNBC staffers say were truly worth the money. 
-
-[2025-12-06 08:02:58](https://bsky.app/profile/cnbc.com/post/3m7blt7lgaq2x)
+[2025-12-06 08:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bmywypjr2e)
 
 ---
 
-@nikkei.com
+@wsj.com
 
-銀座に高級温泉旅館「ふふ」、目指すは世界ブランド
-www.nikkei.com/article/DGXZQO...
+Beeple, the artist who launched the NFT art craze four years ago, is back with another viral hit. on.wsj.com/44HsuWo
 
-客室は34室すべてスイートルームで、全室に温泉を備えます。温泉は毎日熱海から運ぶというこだわりぶり。
-
-屋上には宿泊者専用ラウンジを設置し、ワイングラス片手に足湯につかりながら夜景を楽しむ人々の姿も。
-
-ふふは熱海や日光など都市部から1時間半圏内に展開してきたものの、インバウンドの玄関口である東京には拠点がありませんでした。
-
-[2025-12-06 08:01:56](https://bsky.app/profile/nikkei.com/post/3m7blreddmt22)
+[2025-12-06 08:21:56](https://bsky.app/profile/wsj.com/post/3m7bmv4lk5l2r)
 
 ---
 
-@reuters.com
+@nhknewsunofficial.bsky.social
 
-Exclusive: Congo sets new export conditions to keep tight grip on cobalt reut.rs/48ngxYr
+スピードスケートW杯第3戦 女子1000ｍ 高木美帆2位
+https://news.web.nhk/newsweb/na/na-k10014995871000
 
-[2025-12-06 08:01:36](https://bsky.app/profile/reuters.com/post/3m7blqqwvsu2e)
-
----
-
-@usatoday.com
-
-Donald Trump says he has ended eight wars since he took office in January 2025. But the US has only been involved in 6 peace agreements or ceasefires.
-
-[2025-12-06 08:00:55](https://bsky.app/profile/usatoday.com/post/3m7blpjvsqf26)
-
----
-
-@aljazeera.com
-
-The Supreme Court is likely to hear oral arguments early next year, with a ruling in June.
-
-[2025-12-06 08:00:49](https://bsky.app/profile/aljazeera.com/post/3m7blpecotg2c)
+[2025-12-06 08:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bmtlsjdl26)
 
 ---
 
 @nbcnews.com
 
-President Trump has brought on a new architect to continue constructing the $300 million White House ballroom project. Comcast Corp., the parent company of NBCUniversal, was included in a list of top donors.
+@nbcselect.nbcnews.com editors tested teeth whitening strips for 3 months — these 4 types really work
 
-[2025-12-06 08:00:26](https://bsky.app/profile/nbcnews.com/post/3m7blopfucb2j)
+[2025-12-06 08:20:08](https://bsky.app/profile/nbcnews.com/post/3m7bmrvuiim2j)
+
+---
+
+@nytimes.com
+
+A man walked into a jewelry store in New Zealand last week, picked up an extravagant Fabergé egg locket and then swallowed it, the police said. When officers arrived, he was arrested and charged with theft. After the man underwent a medical assessment, the only thing the police had to do was wait.
+
+[2025-12-06 08:19:58](https://bsky.app/profile/nytimes.com/post/3m7bmrmddtw2l)
+
+---
+
+@financialtimes.com
+
+Crypto treasury underwriter Clear Street plans to list in new year on.ft.com/4oCezbc
+
+[2025-12-06 08:18:23](https://bsky.app/profile/financialtimes.com/post/3m7bmorbkjx27)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+NYタイムズが提訴 “生成AI検索サービスで記事を無断利用”
+https://news.web.nhk/newsweb/na/na-k10014995891000
+
+[2025-12-06 08:18:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bmoa4b5f2t)
+
+---
+
+@wsj.com
+
+Good news for procrastinators: Gift recipients don’t mind late presents as much as you think.
+
+[2025-12-06 08:17:59](https://bsky.app/profile/wsj.com/post/3m7bmo2kqmk2t)
 
 ---
 
