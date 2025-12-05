@@ -1,9 +1,9 @@
-# [2025-12-05 23:10 updated](2025_12_05.md)
+# [2025-12-05 23:30 updated](2025_12_05.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Eritreans, including Olympian Zeragaber Gebrehiwot, freed after 18 years in jail without trial <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7antkorc222" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-05 23:06:17)</span><span style="padding-right:50px;">BREAKING: Hezbollah chief Naim Qassem has denounced direct talks between Israel and Lebanon after the Lebanese gov't included a civilian representative in UN-backed military deconfliction meetings with its southern neighbour.  🔴 LIVE updates: aje.io/vvl7hm <a href="https://bsky.app/profile/aljazeera.com/post/3m7ansvrir22h" target="_blank">aljazeera.com</a> (2025-12-05 23:05:56)</span><span style="padding-right:50px;">New bottles this winter are inspired by crème brûlée and spice markets, while others enlist old-school French aging techniques. Each is perfect for sipping this holiday season. <a href="https://bsky.app/profile/forbes.com/post/3m7anryhk4c2n" target="_blank">forbes.com</a> (2025-12-05 23:05:25)</span><span style="padding-right:50px;">The LinkedIn Update That Will Crush Your Reach Unless You Adapt Fast <a href="https://bsky.app/profile/forbes.com/post/3m7anrkvpcc2n" target="_blank">forbes.com</a> (2025-12-05 23:05:11)</span><span style="padding-right:50px;">Chinese refiners buy oil from storage, raise output with fresh import quota reut.rs/49ZKe2P <a href="https://bsky.app/profile/reuters.com/post/3m7anrjnj2m2n" target="_blank">reuters.com</a> (2025-12-05 23:05:10)</span>
+<span style="padding-right:50px;">Elon Musk's social media company X has been fined 120 million euros ($140 million) by EU tech regulators for breaching EU online content rules, the first sanction under landmark legislation that will likely draw the ire of the US government. https://cnn.it/4rFLpea <a href="https://bsky.app/profile/cnn.com/post/3m7ap2nrzpz2i" target="_blank">cnn.com</a> (2025-12-05 23:28:10)</span><span style="padding-right:50px;">‘Systemic failure’: Fury as tap water in Tunbridge Wells runs dry after treatment issue on.ft.com/3MFDkWG <a href="https://bsky.app/profile/financialtimes.com/post/3m7aoz2ktd727" target="_blank">financialtimes.com</a> (2025-12-05 23:27:16)</span><span style="padding-right:50px;">高市首相 自民党役員らと就任後初の夜会食 “結束し政権運営” https://news.web.nhk/newsweb/na/na-k10014995501000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7aoypjydd2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-05 23:27:02)</span><span style="padding-right:50px;">Uzbek state oil and gas company signs deal with Cargill to attract $3 billion in investments reut.rs/48Z92WL <a href="https://bsky.app/profile/reuters.com/post/3m7aov7w5xo2d" target="_blank">reuters.com</a> (2025-12-05 23:25:07)</span><span style="padding-right:50px;">From @theathleticfc.bsky.social: “Soccer” or “football”?  The origins of the various names for this sport, and the reason most of the world calls it “football,” are actually less clear than many fans assume. nyti.ms/49XShxc <a href="https://bsky.app/profile/nytimes.com/post/3m7aopsjdnr2d" target="_blank">nytimes.com</a> (2025-12-05 23:22:05)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47850.94 (🔻37.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.38 (🔺1.76 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.15 (🔺0.10 : 2025-12-05)</span>
+<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47922.44 (🔺42.84 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.93 (🔺0.07 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.21 (🔺0.16 : 2025-12-05)</span>
   </div>
 </div>
 
@@ -32,92 +32,96 @@
 
 ## News Headlines
 
-1. エリトリア、オリンピック選手含む人々を裁判なしに18年拘束後解放
-2. レバノンとイスラエル、国連仲介の軍事協議で直接対話か
-3. 中国、貯蔵原油購入を増加、輸入割当増加で生産量も上昇
-4. 米政府、iPhoneとAndroidユーザーにApple、Google、Microsoftのパスワード変更を警告
-5. EU、X（旧Twitter）にデジタル規制違反で220億円の制裁金
-6. インドONGC、ロシア「サハリン1」プロジェクトの20％株式維持へ
+1. EU、X（旧Twitter）に制裁金220億円　コンテンツ規制違反
+2. トンブリッジ・ウェルズで水道水供給停止、システム障害で市民生活に影響
+3. 高市首相、自民党役員と夜会食　結束確認で政権運営を強化
+4. ウズベク、カーギルと30億ドルの投資契約　石油・ガス開発を促進
+5. 米国主要農業企業、ロシア事業売却せず
+6. NYタイムズ、AI企業Perplexityを著作権侵害で提訴
 
 ----
+
+@cnn.com
+
+Elon Musk's social media company X has been fined 120 million euros ($140 million) by EU tech regulators for breaching EU online content rules, the first sanction under landmark legislation that will likely draw the ire of the US government.
+https://cnn.it/4rFLpea
+
+[2025-12-05 23:28:10](https://bsky.app/profile/cnn.com/post/3m7ap2nrzpz2i)
+
+---
+
+@financialtimes.com
+
+‘Systemic failure’: Fury as tap water in Tunbridge Wells runs dry after treatment issue on.ft.com/3MFDkWG
+
+[2025-12-05 23:27:16](https://bsky.app/profile/financialtimes.com/post/3m7aoz2ktd727)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+高市首相 自民党役員らと就任後初の夜会食 “結束し政権運営”
+https://news.web.nhk/newsweb/na/na-k10014995501000
+
+[2025-12-05 23:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7aoypjydd2b)
+
+---
+
+@reuters.com
+
+Uzbek state oil and gas company signs deal with Cargill to attract $3 billion in investments reut.rs/48Z92WL
+
+[2025-12-05 23:25:07](https://bsky.app/profile/reuters.com/post/3m7aov7w5xo2d)
+
+---
+
+@nytimes.com
+
+From @theathleticfc.bsky.social: “Soccer” or “football”?
+
+The origins of the various names for this sport, and the reason most of the world calls it “football,” are actually less clear than many fans assume. nyti.ms/49XShxc
+
+[2025-12-05 23:22:05](https://bsky.app/profile/nytimes.com/post/3m7aopsjdnr2d)
+
+---
+
+@nbcnews.com
+
+President Trump and first lady Melania Trump light the National Christmas Tree in Washington, D.C.
+
+[2025-12-05 23:20:28](https://bsky.app/profile/nbcnews.com/post/3m7aomvl3r52p)
+
+---
+
+@reuters.com
+
+European shares on track for weekly gains; US inflation in focus reut.rs/3Mi4rqS
+
+[2025-12-05 23:15:15](https://bsky.app/profile/reuters.com/post/3m7aodliwji27)
+
+---
+
+@npr.org
+
+After losing founder member Dave "Trugoy the Dove" Jolicoeur, De La Soul returns with Cabin in the Sky, an album shaped by grief, joy, and the group's timeless creativity. n.pr/48nH8od
+
+[2025-12-05 23:13:01](https://bsky.app/profile/npr.org/post/3m7ao7kv6ic23)
+
+---
+
+@reuters.com
+
+US owner of major Russian agriculture firm says no plans to sell up reut.rs/4rUjqHU
+
+[2025-12-05 23:10:22](https://bsky.app/profile/reuters.com/post/3m7ao2tuyeg2w)
+
+---
 
 @bbcnews-world-rss.bsky.social
 
 Eritreans, including Olympian Zeragaber Gebrehiwot, freed after 18 years in jail without trial
 
 [2025-12-05 23:06:17](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7antkorc222)
-
----
-
-@aljazeera.com
-
-<strong><span style="color: red;">BREAKING:</span> Hezbollah chief Naim Qassem has denounced direct talks between Israel and Lebanon after the Lebanese gov't included a civilian representative in UN-backed military deconfliction meetings with its southern neighbour.</strong><br><strong></strong><br><strong>🔴 LIVE updates: aje.io/vvl7hm</strong>
-
-[2025-12-05 23:05:56](https://bsky.app/profile/aljazeera.com/post/3m7ansvrir22h)
-
----
-
-@forbes.com
-
-New bottles this winter are inspired by crème brûlée and spice markets, while others enlist old-school French aging techniques. Each is perfect for sipping this holiday season.
-
-[2025-12-05 23:05:25](https://bsky.app/profile/forbes.com/post/3m7anryhk4c2n)
-
----
-
-@forbes.com
-
-The LinkedIn Update That Will Crush Your Reach Unless You Adapt Fast
-
-[2025-12-05 23:05:11](https://bsky.app/profile/forbes.com/post/3m7anrkvpcc2n)
-
----
-
-@reuters.com
-
-Chinese refiners buy oil from storage, raise output with fresh import quota reut.rs/49ZKe2P
-
-[2025-12-05 23:05:10](https://bsky.app/profile/reuters.com/post/3m7anrjnj2m2n)
-
----
-
-@cnbc.com
-
-Wall Street traders see good chance for a 'FOMO-driven chase' that lifts stocks into year-end
-
-[2025-12-05 23:05:01](https://bsky.app/profile/cnbc.com/post/3m7anrbmdn32e)
-
----
-
-@forbes.com
-
-MacKenzie Scott’s Higher Ed Philanthropy Tops $1 Billion For The Year
-
-[2025-12-05 23:04:52](https://bsky.app/profile/forbes.com/post/3m7anqyqtfs2n)
-
----
-
-@forbes.com
-
-Feds Warn iPhone And Android Users—Change Apple, Google And Microsoft Passwords
-
-[2025-12-05 23:04:33](https://bsky.app/profile/forbes.com/post/3m7anqgtgrk2n)
-
----
-
-@forbes.com
-
-Three-year-old Castelion is worth $2.8 billion after raising $350 million to fund its ambition to supply thousands of weapons to the U.S. government.
-
-[2025-12-05 23:04:14](https://bsky.app/profile/forbes.com/post/3m7anpuiikc2n)
-
----
-
-@forbes.com
-
-Google ‘Looking Into’ Gmail Hack Locking Users Out With No Recovery
-
-[2025-12-05 23:02:19](https://bsky.app/profile/forbes.com/post/3m7anmh74js2n)
 
 ---
 
