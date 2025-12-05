@@ -1,9 +1,9 @@
-# [2025-12-05 08:50 updated](2025_12_05.md)
+# [2025-12-05 09:10 updated](2025_12_05.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Breaking news: The Supreme Court handed President Donald Trump and Republicans a major political victory by clearing the way for a new Texas congressional map that was drawn in the hope of flipping up to five House seats to the GOP.   <a href="https://bsky.app/profile/washingtonpost.com/post/3m775sojogz2q" target="_blank">washingtonpost.com</a> (2025-12-05 08:46:49)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】強盗傷害事件で勾留中の54歳男、入院先の伊豆の国市の病院から逃走 警察が行方追う＝静岡県警 (2025-12-05 07:46:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m775qu7imx2q" target="_blank">sokuho.news</a> (2025-12-05 08:45:48)</span><span style="padding-right:50px;">US probes reports Waymo self-driving cars illegally passed school buses 19 times in Texas reut.rs/4pTZVNS <a href="https://bsky.app/profile/reuters.com/post/3m775pvurss2n" target="_blank">reuters.com</a> (2025-12-05 08:45:16)</span><span style="padding-right:50px;">Airlines have canceled flights to and from Venezuela's Maiquetia Simon Bolivar international airport amid warnings from the United States, which has deployed a mighty naval force off the Caribbean coast. u.afp.com/S74x <a href="https://bsky.app/profile/en.afp.com/post/3m775pjoryr2d" target="_blank">en.afp.com</a> (2025-12-05 08:45:02)</span><span style="padding-right:50px;">Salesforce CEO calls AI a 'commodity feature', says the technology bolsters enterprise software <a href="https://bsky.app/profile/cnbc.com/post/3m775ltt2ll2h" target="_blank">cnbc.com</a> (2025-12-05 08:42:59)</span>
+<span style="padding-right:50px;">「台湾有事」めぐる首相答弁 中国 国連へ再び書簡 日本再反論 https://news.web.nhk/newsweb/na/na-k10014994511000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7772ig4t22j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-05 09:09:02)</span><span style="padding-right:50px;">Tom Goldstein fights to sell home as tax trial looms reut.rs/3XC03Wa <a href="https://bsky.app/profile/reuters.com/post/3m776tij7hc2i" target="_blank">reuters.com</a> (2025-12-05 09:05:10)</span><span style="padding-right:50px;">Asia-Pacific markets set to open lower after subdued Wall Street session <a href="https://bsky.app/profile/cnbc.com/post/3m776tb6e222a" target="_blank">cnbc.com</a> (2025-12-05 09:05:02)</span><span style="padding-right:50px;">Cramer's Lightning Round: Recursion Pharmaceuticals 'has been horrendous' <a href="https://bsky.app/profile/cnbc.com/post/3m776pb24xb2j" target="_blank">cnbc.com</a> (2025-12-05 09:02:48)</span><span style="padding-right:50px;">フランスのマクロン大統領「アメリカがウクライナ裏切る可能性」（無料記事） www.nikkei.com/article/DGXZQO...  ドイツのメルツ首相やウクライナのゼレンスキー大統領など欧州首脳との電話会議で発言したと、ドイツ誌シュピーゲルが報じました。  会議ではロシアとの和平案の協議を担当するアメリカのウィットコフ中東担当特使とトランプ大統領の娘婿クシュナー氏に対する警戒や不信感が示されたといいます。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m776nqnvo62t" target="_blank">nikkei.com</a> (2025-12-05 09:01:57)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47850.94 (🔻37.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.38 (🔺1.81 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 155.10 (🔺0.06 : 2025-12-04)</span>
+<span style="padding-right:50px;">NIKKEI: 51028.42 (🔺1085.48 : 2025-12-04)</span><span style="padding-right:50px;">DOW: 47850.94 (🔻37.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.38 (🔺1.81 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺75.00 : 2025-12-04)</span><span style="padding-right:50px;">USD/JPY: 155.17 (🔺0.12 : 2025-12-05)</span>
   </div>
 </div>
 
@@ -32,97 +32,102 @@
 
 ## News Headlines
 
-1.  最高裁、共和党が有利になるテキサス州の選挙区地図を承認
-2.  強盗傷害事件で勾留中の男、入院先の病院から逃走
-3.  Waymoの自動運転車、スクールバスを違法追い越し疑惑で米当局が調査
-4.  航空会社、ベネズエラ便を相次ぎキャンセル 米国の警告受け
-5.  AIチャットボット、不正確な情報で政治的意見を操作する可能性
-6.  88歳の退役軍人、生活のために働く姿に1億円以上の寄付が集まる
+1. 首相答弁「台湾有事」 中国が国連へ再び書簡、日本再反論
+2. マクロン大統領、アメリカがウクライナ裏切る可能性に言及
+3. 米議会、アラスカの石油・ガス規制を撤廃
+4. 最高裁、共和党有利なテキサス州の選挙区地図を承認
+5. 10月の消費支出、6カ月ぶりマイナス3.0%減
+6. NY州司法長官への住宅ローン詐欺起訴、大陪審が再び拒否
 
 ----
 
-@washingtonpost.com
+@nhknewsunofficial.bsky.social
 
-Breaking news: The Supreme Court handed President Donald Trump and Republicans a major political victory by clearing the way for a new Texas congressional map that was drawn in the hope of flipping up to five House seats to the GOP. 
+「台湾有事」めぐる首相答弁 中国 国連へ再び書簡 日本再反論
+https://news.web.nhk/newsweb/na/na-k10014994511000
 
-
-[2025-12-05 08:46:49](https://bsky.app/profile/washingtonpost.com/post/3m775sojogz2q)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】強盗傷害事件で勾留中の54歳男、入院先の伊豆の国市の病院から逃走 警察が行方追う＝静岡県警
-(2025-12-05 07:46:00) #ニュース
-
-[2025-12-05 08:45:48](https://bsky.app/profile/sokuho.news/post/3m775qu7imx2q)
+[2025-12-05 09:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7772ig4t22j)
 
 ---
 
 @reuters.com
 
-US probes reports Waymo self-driving cars illegally passed school buses 19 times in Texas reut.rs/4pTZVNS
+Tom Goldstein fights to sell home as tax trial looms reut.rs/3XC03Wa
 
-[2025-12-05 08:45:16](https://bsky.app/profile/reuters.com/post/3m775pvurss2n)
-
----
-
-@en.afp.com
-
-Airlines have canceled flights to and from Venezuela's Maiquetia Simon Bolivar international airport amid warnings from the United States, which has deployed a mighty naval force off the Caribbean coast.
-u.afp.com/S74x
-
-[2025-12-05 08:45:02](https://bsky.app/profile/en.afp.com/post/3m775pjoryr2d)
+[2025-12-05 09:05:10](https://bsky.app/profile/reuters.com/post/3m776tij7hc2i)
 
 ---
 
 @cnbc.com
 
-Salesforce CEO calls AI a 'commodity feature', says the technology bolsters enterprise software
+Asia-Pacific markets set to open lower after subdued Wall Street session
 
-[2025-12-05 08:42:59](https://bsky.app/profile/cnbc.com/post/3m775ltt2ll2h)
+[2025-12-05 09:05:02](https://bsky.app/profile/cnbc.com/post/3m776tb6e222a)
 
 ---
 
-@wsj.com
+@cnbc.com
 
-Scientists found that physical intimacy can speed healing, when combined with the "love hormone" oxytocin.
+Cramer's Lightning Round: Recursion Pharmaceuticals 'has been horrendous'
 
-[2025-12-05 08:41:39](https://bsky.app/profile/wsj.com/post/3m775jhmhxp2p)
+[2025-12-05 09:02:48](https://bsky.app/profile/cnbc.com/post/3m776pb24xb2j)
+
+---
+
+@nikkei.com
+
+フランスのマクロン大統領「アメリカがウクライナ裏切る可能性」（無料記事）
+www.nikkei.com/article/DGXZQO...
+
+ドイツのメルツ首相やウクライナのゼレンスキー大統領など欧州首脳との電話会議で発言したと、ドイツ誌シュピーゲルが報じました。
+
+会議ではロシアとの和平案の協議を担当するアメリカのウィットコフ中東担当特使とトランプ大統領の娘婿クシュナー氏に対する警戒や不信感が示されたといいます。
+
+#ニュース
+
+[2025-12-05 09:01:57](https://bsky.app/profile/nikkei.com/post/3m776nqnvo62t)
 
 ---
 
 @reuters.com
 
-Senators unveil bill to keep Trump from easing curbs on AI chip sales to China reut.rs/4pNYD6N
+US Congress repeals Biden-era limits on oil and gas in Alaska refuge reut.rs/3KJXjmB
 
-[2025-12-05 08:40:17](https://bsky.app/profile/reuters.com/post/3m775gyofh52i)
-
----
-
-@nytimes.com
-
-<strong><span style="color: red;">Breaking News</span>: A grand jury is said to have declined to re-indict Letitia James, rejecting a Trump effort to revive a criminal case.</strong>
-
-[2025-12-05 08:40:14](https://bsky.app/profile/nytimes.com/post/3m775gw7txf26)
+[2025-12-05 09:01:26](https://bsky.app/profile/reuters.com/post/3m776mt3drz2i)
 
 ---
 
-@nbcnews.com
+@handle.invalid
 
-AI chatbots are very good at changing peoples’ political opinions, according to a study published, and are particularly persuasive when they use inaccurate information.
+The suspect's arrest may bring closure to a mystery investigated by federal law enforcement for nearly five years.
 
-[2025-12-05 08:40:12](https://bsky.app/profile/nbcnews.com/post/3m775gug2qo2c)
+[2025-12-05 09:01:03](https://bsky.app/profile/handle.invalid/post/3m776m5c62d2m)
 
 ---
 
-@forbes.com
+@aljazeera.com
 
-A panel of judges blocked the state’s new congressional map from being used, arguing Texas racially gerrymandered by redistricting.
+Lawsuit challenges rules that give wide discretion to Pentagon chief Hegseth to oust journalists over coverage.
 
-[2025-12-05 08:40:07](https://bsky.app/profile/forbes.com/post/3m775gq4gsc2j)
+[2025-12-05 09:00:26](https://bsky.app/profile/aljazeera.com/post/3m776l2263m2z)
+
+---
+
+@apnews.com
+
+This week's special election in Tennessee demonstrated the power and consequences of partisan gerrymandering, with lessons for the rest of the country as redistricting efforts spread.
+
+[2025-12-05 09:00:21](https://bsky.app/profile/apnews.com/post/3m776kv5ofu2i)
+
+---
+
+@bloomberg.com
+
+In an unprecedented philanthropic gift, which billionaire couple will give 25 million American children $250 each?
+
+Place your bets in the latest edition of Pointed, Bloomberg’s weekly news quiz for risk-takers ⤵️
+
+[2025-12-05 09:00:18](https://bsky.app/profile/bloomberg.com/post/3m776ks435m2i)
 
 ---
 
