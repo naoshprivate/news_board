@@ -1,9 +1,9 @@
-# [2025-12-05 22:30 updated](2025_12_05.md)
+# [2025-12-05 22:50 updated](2025_12_05.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">AI bubble to be short-lived, rebound stronger, NTT DATA chief says reut.rs/4oVb9AR <a href="https://bsky.app/profile/reuters.com/post/3m7aljz2qmo2k" target="_blank">reuters.com</a> (2025-12-05 22:25:10)</span><span style="padding-right:50px;">Netflix to buy Warner Bros. Discovery, Ulta earnings, Meta's rebound and more in Morning Squawk <a href="https://bsky.app/profile/cnbc.com/post/3m7alidpvce2f" target="_blank">cnbc.com</a> (2025-12-05 22:24:14)</span><span style="padding-right:50px;">暗号資産の損失を少なく記載 東証上場の2社に課徴金勧告 https://news.web.nhk/newsweb/na/na-k10014995581000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ali72cgl2r" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-05 22:24:07)</span><span style="padding-right:50px;">市川国家安全保障局長 比安保担当高官と防衛協力推進で一致 https://news.web.nhk/newsweb/na/na-k10014995601000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ali2pkf52u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-05 22:24:02)</span><span style="padding-right:50px;">Nvidia’s chips face new competition from Google, but the company's not about to lose its edge <a href="https://bsky.app/profile/yahoofinance.com/post/3m7alcz4gzo2z" target="_blank">yahoofinance.com</a> (2025-12-05 22:21:15)</span>
+<span style="padding-right:50px;">フィギュアGPファイナル “りくりゅう”ペア優勝 3年ぶり2回目 https://news.web.nhk/newsweb/na/na-k10014995751000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7amsz2ofo2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-05 22:48:03)</span><span style="padding-right:50px;">Investors rushed to snap up shares of artificial-intelligence chip maker Moore Threads, betting that Beijing’s push to end reliance on foreign technology could help create a homegrown Nvidia. <a href="https://bsky.app/profile/wsj.com/post/3m7amqknuzs2p" target="_blank">wsj.com</a> (2025-12-05 22:46:43)</span><span style="padding-right:50px;">Indonesian military steps up relief for flood-hit Sumatra; death toll above 860 reut.rs/49Z7y0I <a href="https://bsky.app/profile/reuters.com/post/3m7amnts3y727" target="_blank">reuters.com</a> (2025-12-05 22:45:12)</span><span style="padding-right:50px;">'Trump accounts' could give your child up to $1,000 for free. Your top questions, answered <a href="https://bsky.app/profile/cnbc.com/post/3m7ammaczqx2r" target="_blank">cnbc.com</a> (2025-12-05 22:44:18)</span><span style="padding-right:50px;">FIFA will give out its first “peace prize” during Friday’s draw for the 2026 men's tournament, one of several features that appear designed for President Trump. <a href="https://bsky.app/profile/nbcnews.com/post/3m7amfcbcez2j" target="_blank">nbcnews.com</a> (2025-12-05 22:40:26)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47850.94 (🔻37.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.38 (🔺1.76 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.18 (🔺0.13 : 2025-12-05)</span>
+<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47850.94 (🔻37.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.38 (🔺1.76 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.13 (🔺0.08 : 2025-12-05)</span>
   </div>
 </div>
 
@@ -32,99 +32,93 @@
 
 ## News Headlines
 
-1. AIバブルは短命、その後力強く反発 - NTTデータ社長
-2. ネットフリックス、ワーナー・ブラザースを買収合意
-3. 暗号資産の損失を少なく記載、東証上場2社に課徴金勧告
-4. 市川国家安全保障局長、比安保担当高官と防衛協力推進で一致
-5. 米民主党、エプスタイン島の映像公開
-6. 高市首相、OTC類似薬含む薬剤自己負担など年末までに結論
+1.  フィギュアGPファイナル “りくりゅう”ペア優勝
+2.  AIチップ国産化へ投資家殺到、中国がNvidiaに対抗か
+3.  インド、モディ首相がプーチン大統領との「深いつながり」を強調
+4.  ネットフリックス、ワーナーの一部事業を約11兆円で買収合意
+5.  セブンイレブン、モノレールで商品配送　労働時間18%減
+6.  NYタイムズ、AI企業Perplexityを著作権侵害で提訴
 
 ----
 
-@reuters.com
-
-AI bubble to be short-lived, rebound stronger, NTT DATA chief says reut.rs/4oVb9AR
-
-[2025-12-05 22:25:10](https://bsky.app/profile/reuters.com/post/3m7aljz2qmo2k)
-
----
-
-@cnbc.com
-
-Netflix to buy Warner Bros. Discovery, Ulta earnings, Meta's rebound and more in Morning Squawk
-
-[2025-12-05 22:24:14](https://bsky.app/profile/cnbc.com/post/3m7alidpvce2f)
-
----
-
 @nhknewsunofficial.bsky.social
 
-暗号資産の損失を少なく記載 東証上場の2社に課徴金勧告
-https://news.web.nhk/newsweb/na/na-k10014995581000
+フィギュアGPファイナル “りくりゅう”ペア優勝 3年ぶり2回目
+https://news.web.nhk/newsweb/na/na-k10014995751000
 
-[2025-12-05 22:24:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ali72cgl2r)
-
----
-
-@nhknewsunofficial.bsky.social
-
-市川国家安全保障局長 比安保担当高官と防衛協力推進で一致
-https://news.web.nhk/newsweb/na/na-k10014995601000
-
-[2025-12-05 22:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ali2pkf52u)
-
----
-
-@yahoofinance.com
-
-Nvidia’s chips face new competition from Google, but the company's not about to lose its edge
-
-[2025-12-05 22:21:15](https://bsky.app/profile/yahoofinance.com/post/3m7alcz4gzo2z)
-
----
-
-@nhknewsunofficial.bsky.social
-
-ネットフリックス 米ワーナーのスタジオ事業など 買収合意
-https://news.web.nhk/newsweb/na/na-k10014995771000
-
-[2025-12-05 22:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7alcpdnln2r)
-
----
-
-@en.afp.com
-
-🇺🇸 Democrats release footage of Epstein's notorious private island
-
-Democrats in the US Congress release photos and videos showing the luxury island home where convicted sex offender Jeffrey Epstein allegedly forced underage girls into sex with powerful men.
-
-[2025-12-05 22:20:34](https://bsky.app/profile/en.afp.com/post/3m7albs7rwg2z)
-
----
-
-@nbcnews.com
-
-Costco Wholesale says that it has nominated Gina Raimondo, who served as commerce secretary under President Joe Biden, to its board of directors.
-
-[2025-12-05 22:20:12](https://bsky.app/profile/nbcnews.com/post/3m7alb4owur2j)
+[2025-12-05 22:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7amsz2ofo2k)
 
 ---
 
 @wsj.com
 
-Some of America’s best starting salaries are at sea, with graduates straight out of the country’s maritime academies able to earn more than $200,000. And they aren’t luring enough workers. 
+Investors rushed to snap up shares of artificial-intelligence chip maker Moore Threads, betting that Beijing’s push to end reliance on foreign technology could help create a homegrown Nvidia.
 
-🔗: on.wsj.com/4pAGmKe
+[2025-12-05 22:46:43](https://bsky.app/profile/wsj.com/post/3m7amqknuzs2p)
 
-[2025-12-05 22:17:37](https://bsky.app/profile/wsj.com/post/3m7al4j5akg2i)
+---
+
+@reuters.com
+
+Indonesian military steps up relief for flood-hit Sumatra; death toll above 860 reut.rs/49Z7y0I
+
+[2025-12-05 22:45:12](https://bsky.app/profile/reuters.com/post/3m7amnts3y727)
+
+---
+
+@cnbc.com
+
+'Trump accounts' could give your child up to $1,000 for free. Your top questions, answered
+
+[2025-12-05 22:44:18](https://bsky.app/profile/cnbc.com/post/3m7ammaczqx2r)
+
+---
+
+@nbcnews.com
+
+FIFA will give out its first “peace prize” during Friday’s draw for the 2026 men's tournament, one of several features that appear designed for President Trump.
+
+[2025-12-05 22:40:26](https://bsky.app/profile/nbcnews.com/post/3m7amfcbcez2j)
+
+---
+
+@reuters.com
+
+Norway to buy two more submarines, long-range missiles reut.rs/3MhHhks
+
+[2025-12-05 22:40:14](https://bsky.app/profile/reuters.com/post/3m7amewyris2r)
 
 ---
 
 @nytimes.com
 
-<strong><span style="color: red;">Breaking News</span>: The New York Times sued Perplexity, an A.I. start-up, claiming that its copyrights were repeatedly violated by the company.</strong>
+Prime Minister Narendra Modi of India praised his “deep and unbreakable relationship” with President Vladimir Putin of Russia after they held talks in India on Friday against the backdrop of strained ties between New Delhi and Washington.
 
-[2025-12-05 22:16:30](https://bsky.app/profile/nytimes.com/post/3m7al2iw33q2x)
+[2025-12-05 22:40:04](https://bsky.app/profile/nytimes.com/post/3m7amenva3y2y)
+
+---
+
+@nytimes.com
+
+The Trump administration said Friday that Europe is facing the “stark prospect of civilizational erasure” and pledged that the U.S. will support like-minded “patriotic” parties across the continent to prevent a future in which “certain NATO members will become majority non-European.”
+
+[2025-12-05 22:40:04](https://bsky.app/profile/nytimes.com/post/3m7amenufc52g)
+
+---
+
+@npr.org
+
+In 2023, we interviewed them to see how the Israel-Hamas war was affecting their ability to feel compassion and empathy. In the wake of the ceasefire this fall, we followed up. What's changed? n.pr/4492y5T
+
+[2025-12-05 22:39:20](https://bsky.app/profile/npr.org/post/3m7amddih6v23)
+
+---
+
+@yahoofinance.com
+
+Netflix to acquire Warner Bros.’ studios and HBO Max in landmark $72 billion deal
+
+[2025-12-05 22:36:25](https://bsky.app/profile/yahoofinance.com/post/3m7am64u3gw2u)
 
 ---
 
