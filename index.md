@@ -1,9 +1,9 @@
-# [2025-12-06 07:10 updated](2025_12_06.md)
+# [2025-12-06 07:30 updated](2025_12_06.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">AI credit concerns playing out differently in investment grade and high yield, Goldman says reut.rs/4ayXmMy <a href="https://bsky.app/profile/reuters.com/post/3m7bilulcel2i" target="_blank">reuters.com</a> (2025-12-06 07:05:11)</span><span style="padding-right:50px;">JR東海道線 運転見合わせ 東京～熱海の上下線 https://news.web.nhk/newsweb/na/na-k10014995881000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bii3uwws2g" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-06 07:03:02)</span><span style="padding-right:50px;">Winter Games medals get added lustre as metal prices soar reut.rs/48nrWYc <a href="https://bsky.app/profile/reuters.com/post/3m7biepvpie2k" target="_blank">reuters.com</a> (2025-12-06 07:01:11)</span><span style="padding-right:50px;">From a cookie press with a cult following to a slice-and-bake set with stunning precision, these key tools and foolproof recipes custom-designed for them will raise your baking game sky high on.wsj.com/4aApq21 <a href="https://bsky.app/profile/wsj.com/post/3m7bieati5u22" target="_blank">wsj.com</a> (2025-12-06 07:00:55)</span><span style="padding-right:50px;">International soccer's governing body will announce the recipient of its first ever FIFA Peace Prize at the World Cup draw in Washington, DC. <a href="https://bsky.app/profile/usatoday.com/post/3m7bidumcoa2d" target="_blank">usatoday.com</a> (2025-12-06 07:00:42)</span>
+<span style="padding-right:50px;">トランプ政権「国家安全保障戦略」公表 アメリカ第一主義強調 https://news.web.nhk/newsweb/na/na-k10014995691000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bjszmkk62r" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-06 07:27:02)</span><span style="padding-right:50px;">EIA to ditch some existing reports and launch new surveys on minerals, data centers reut.rs/3KLSjhj <a href="https://bsky.app/profile/reuters.com/post/3m7bjplrbjf27" target="_blank">reuters.com</a> (2025-12-06 07:25:09)</span><span style="padding-right:50px;">Dario Amodei, ‘safe AI’ evangelist eyes Anthropic IPO on.ft.com/4pRaLE4 <a href="https://bsky.app/profile/financialtimes.com/post/3m7bjoasfqs2v" target="_blank">financialtimes.com</a> (2025-12-06 07:24:24)</span><span style="padding-right:50px;">With George Gershwin’s melancholy melody and DuBose Heyward’s colloquial poetry, the opening aria from ‘Porgy and Bess’ remains, 90 years after its premiere, among the most beloved songs in American music. on.wsj.com/49VUGIE <a href="https://bsky.app/profile/wsj.com/post/3m7bjilbxwv22" target="_blank">wsj.com</a> (2025-12-06 07:21:14)</span><span style="padding-right:50px;">JR東海道線 運転再開 https://news.web.nhk/newsweb/na/na-k10014995881000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bjibcott2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-06 07:21:02)</span>
   </div>
 </div>
 
@@ -32,96 +32,94 @@
 
 ## News Headlines
 
-1. AIクレジット、投資適格級とハイイールドで異なる懸念
-2. JR東海道線、東京～熱海で運転見合わせ
-3. 冬季五輪メダル、金属価格高騰で価値増
-4. Netflix、ワーナーとの契約で独占調査の可能性
-5. スウェーデン政府、犯罪組織リーダーの市民権剥奪を提案
-6. 建築家フランク・ゲーリー氏死去、96歳
+1. トランプ政権、国家安全保障戦略発表：アメリカ第一主義を強調
+2. 燃料価格高騰で米消費者支出減速
+3. メタ、AIペンダント企業買収：ハードウェア強化へ
+4. JR東海道線、運転再開
+5. 欧州連合、X（旧Twitter）に140億円の罰金：透明性規則違反
+6. FIFA、新設の平和賞を発表
 
 ----
 
+@nhknewsunofficial.bsky.social
+
+トランプ政権「国家安全保障戦略」公表 アメリカ第一主義強調
+https://news.web.nhk/newsweb/na/na-k10014995691000
+
+[2025-12-06 07:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bjszmkk62r)
+
+---
+
 @reuters.com
 
-AI credit concerns playing out differently in investment grade and high yield, Goldman says reut.rs/4ayXmMy
+EIA to ditch some existing reports and launch new surveys on minerals, data centers reut.rs/3KLSjhj
 
-[2025-12-06 07:05:11](https://bsky.app/profile/reuters.com/post/3m7bilulcel2i)
+[2025-12-06 07:25:09](https://bsky.app/profile/reuters.com/post/3m7bjplrbjf27)
+
+---
+
+@financialtimes.com
+
+Dario Amodei, ‘safe AI’ evangelist eyes Anthropic IPO on.ft.com/4pRaLE4
+
+[2025-12-06 07:24:24](https://bsky.app/profile/financialtimes.com/post/3m7bjoasfqs2v)
+
+---
+
+@wsj.com
+
+With George Gershwin’s melancholy melody and DuBose Heyward’s colloquial poetry, the opening aria from ‘Porgy and Bess’ remains, 90 years after its premiere, among the most beloved songs in American music. on.wsj.com/49VUGIE
+
+[2025-12-06 07:21:14](https://bsky.app/profile/wsj.com/post/3m7bjilbxwv22)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-JR東海道線 運転見合わせ 東京～熱海の上下線
+JR東海道線 運転再開
 https://news.web.nhk/newsweb/na/na-k10014995881000
 
-[2025-12-06 07:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bii3uwws2g)
+[2025-12-06 07:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bjibcott2b)
+
+---
+
+@cbsnews.com
+
+U.S. expands investigation into Waymo over robotaxis driving around stopped school buses.
+
+[2025-12-06 07:20:01](https://bsky.app/profile/cbsnews.com/post/3m7bjgfod4u2j)
+
+---
+
+@financialtimes.com
+
+Meta buys AI pendant start-up Limitless to expand hardware push on.ft.com/4avk0p1
+
+[2025-12-06 07:17:39](https://bsky.app/profile/financialtimes.com/post/3m7bjc6hynx2j)
 
 ---
 
 @reuters.com
 
-Winter Games medals get added lustre as metal prices soar reut.rs/48nrWYc
+Gen Z puts crypto on holiday wish lists reut.rs/4pY0TZv
 
-[2025-12-06 07:01:11](https://bsky.app/profile/reuters.com/post/3m7biepvpie2k)
+[2025-12-06 07:15:16](https://bsky.app/profile/reuters.com/post/3m7bj5wd2ok2d)
+
+---
+
+@reuters.com
+
+US consumer spending slows in September as high prices curb demand reut.rs/48IkwO7
+
+[2025-12-06 07:10:17](https://bsky.app/profile/reuters.com/post/3m7biuyk55o27)
 
 ---
 
 @wsj.com
 
-From a cookie press with a cult following to a slice-and-bake set with stunning precision, these key tools and foolproof recipes custom-designed for them will raise your baking game sky high on.wsj.com/4aApq21
+Philip Venables and Ted Huffman adapt Larry Mitchell’s classic of 1970s gay literature in a joyous, boundary-blurring event at Park Avenue Armory; also in New York, singer Kate Lindsey performed a program that tracked the career of Kurt Weill. on.wsj.com/4iCXSes
 
-[2025-12-06 07:00:55](https://bsky.app/profile/wsj.com/post/3m7bieati5u22)
-
----
-
-@usatoday.com
-
-International soccer's governing body will announce the recipient of its first ever FIFA Peace Prize at the World Cup draw in Washington, DC.
-
-[2025-12-06 07:00:42](https://bsky.app/profile/usatoday.com/post/3m7bidumcoa2d)
-
----
-
-@aljazeera.com
-
-At least 86 people have been killed in strikes on alleged drug trafficking boats that experts call illegal killings.
-
-[2025-12-06 07:00:39](https://bsky.app/profile/aljazeera.com/post/3m7bidrcxa32c)
-
----
-
-@bloomberg.com
-
-The Trump administration has rolled back EV incentives, but charging companies see growth ahead. Here's why.
-
-[2025-12-06 07:00:26](https://bsky.app/profile/bloomberg.com/post/3m7bideq5ai2y)
-
----
-
-@wsj.com
-
-Netflix’s deal with Warner Bros. Discovery is expected to be investigated by the Justice Department, which has already begun considering how it would further cement the streaming company's dominance in the media industry.
-
-[2025-12-06 07:00:19](https://bsky.app/profile/wsj.com/post/3m7bid65azp2i)
-
----
-
-@cnn.com
-
-The Swedish government has proposed changes to the constitution that would allow revoking the citizenship of some criminal gang leaders, as part of its work to combat widespread organized crime.
-https://cnn.it/3KKug2j
-
-[2025-12-06 07:00:15](https://bsky.app/profile/cnn.com/post/3m7bid2nu3o2n)
-
----
-
-@washingtonpost.com
-
-New Mexico launched a state pilot program offering monthly $500 payments to teens experiencing housing insecurity and other issues.
-
-The initiative aims to help remove barriers that keep them from attending school.
-
-[2025-12-06 07:00:13](https://bsky.app/profile/washingtonpost.com/post/3m7bicymctn2g)
+[2025-12-06 07:10:03](https://bsky.app/profile/wsj.com/post/3m7biuldzkd2x)
 
 ---
 
