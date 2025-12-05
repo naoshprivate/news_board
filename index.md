@@ -1,9 +1,9 @@
-# [2025-12-06 06:10 updated](2025_12_06.md)
+# [2025-12-06 06:30 updated](2025_12_06.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Spain, Ireland, the Netherlands and Slovenia are boycotting next year’s Eurovision song contest over Israel. <a href="https://bsky.app/profile/wsj.com/post/3m7bfhj2qeo2i" target="_blank">wsj.com</a> (2025-12-06 06:09:03)</span><span style="padding-right:50px;">US follows up on Congo-Rwanda peace deal with plan to secure minerals reut.rs/4iGoOtH <a href="https://bsky.app/profile/reuters.com/post/3m7bfakuhbr2i" target="_blank">reuters.com</a> (2025-12-06 06:05:10)</span><span style="padding-right:50px;">Happy couples know that good communication can transform relationships. Marriage expert Brian Page shares the No. 1 question he wishes more people would ask their partners. It can prevent resentment and add longevity to any relationship. <a href="https://bsky.app/profile/cnbc.com/post/3m7bf7xetyk2x" target="_blank">cnbc.com</a> (2025-12-06 06:04:50)</span><span style="padding-right:50px;">衆院議員の定数削減法案 審議入りの見通し立たず https://news.web.nhk/newsweb/na/na-k10014995591000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bf4t2zoo2t" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-06 06:03:02)</span><span style="padding-right:50px;">Vanity Fair will part ways with Olivia Nuzzi, its West Coast editor, at the end of the year. Nuzzi and the magazine have faced a storm of controversy over her past romantic relationship with Robert F. Kennedy Jr., the health secretary. <a href="https://bsky.app/profile/nytimes.com/post/3m7bf2ydyar2w" target="_blank">nytimes.com</a> (2025-12-06 06:02:03)</span>
+<span style="padding-right:50px;">The Supreme Court will decide if President Trump can end the practice of granting citizenship to children born in the U.S. <a href="https://bsky.app/profile/wsj.com/post/3m7bglchejv2a" target="_blank">wsj.com</a> (2025-12-06 06:29:04)</span><span style="padding-right:50px;">Frank Gehry, a pioneer of contemporary architecture whose fantastical sculpturelike structures are destinations as much as the museums, libraries and concert halls they encompass, has died at age 96.  🔗: on.wsj.com/48m0ZnH <a href="https://bsky.app/profile/wsj.com/post/3m7bgfzwwda22" target="_blank">wsj.com</a> (2025-12-06 06:26:07)</span><span style="padding-right:50px;">Witkoff, Ukraine's Umerov meeting again in Miami on Friday reut.rs/48SiVq6 <a href="https://bsky.app/profile/reuters.com/post/3m7bgecu3sq2i" target="_blank">reuters.com</a> (2025-12-06 06:25:10)</span><span style="padding-right:50px;">France intercepted drones flying over nuclear submarine base, defence minister says on.ft.com/48QFefT <a href="https://bsky.app/profile/financialtimes.com/post/3m7bgbmgwqb26" target="_blank">financialtimes.com</a> (2025-12-06 06:23:39)</span><span style="padding-right:50px;">Netflix is facing fierce criticism over its blockbuster, nearly $83 billion deal to acquire Warner Bros., the storied Hollywood studio u.afp.com/S7Ur <a href="https://bsky.app/profile/en.afp.com/post/3m7bgb4ztma2k" target="_blank">en.afp.com</a> (2025-12-06 06:23:23)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.45 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.30 (🔺0.25 : 2025-12-05)</span>
+<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.45 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.32 (🔺0.27 : 2025-12-05)</span>
   </div>
 </div>
 
@@ -32,98 +32,99 @@
 
 ## News Headlines
 
-1. 欧州各国、イスラエル参加のユーロビジョン・ソング・コンテストをボイコット
-2. 米国、コンゴ・ルワンダ和平合意受け鉱物資源確保策
-3. 衆院議員定数削減法案、審議入り見通し立たず
-4. 大和ハウス、データセンター工期を5分の1に短縮する新工法
-5. オーストラリア、16歳未満の子供へのソーシャルメディア利用禁止
-6. 建築家フランク・ゲーリー氏死去、96歳
+1. 最高裁、米国生まれの子への市民権付与慣行の是非を判断へ
+2. 建築界の巨匠フランク・ゲーリー氏死去、96歳
+3. フランス、原子力潜水艦基地上空でドローンを傍受
+4. Netflix、ワーナー・ブラザース買収で批判に直面
+5. 2026年、米国各地で最低賃金引き上げへ
+6. オーストラリア、16歳未満へのソーシャルメディアアプリ禁止を開始
 
 ----
 
 @wsj.com
 
-Spain, Ireland, the Netherlands and Slovenia are boycotting next year’s Eurovision song contest over Israel.
+The Supreme Court will decide if President Trump can end the practice of granting citizenship to children born in the U.S.
 
-[2025-12-06 06:09:03](https://bsky.app/profile/wsj.com/post/3m7bfhj2qeo2i)
+[2025-12-06 06:29:04](https://bsky.app/profile/wsj.com/post/3m7bglchejv2a)
+
+---
+
+@wsj.com
+
+Frank Gehry, a pioneer of contemporary architecture whose fantastical sculpturelike structures are destinations as much as the museums, libraries and concert halls they encompass, has died at age 96.
+
+🔗: on.wsj.com/48m0ZnH
+
+[2025-12-06 06:26:07](https://bsky.app/profile/wsj.com/post/3m7bgfzwwda22)
 
 ---
 
 @reuters.com
 
-US follows up on Congo-Rwanda peace deal with plan to secure minerals reut.rs/4iGoOtH
+Witkoff, Ukraine's Umerov meeting again in Miami on Friday reut.rs/48SiVq6
 
-[2025-12-06 06:05:10](https://bsky.app/profile/reuters.com/post/3m7bfakuhbr2i)
-
----
-
-@cnbc.com
-
-Happy couples know that good communication can transform relationships. Marriage expert Brian Page shares the No. 1 question he wishes more people would ask their partners. It can prevent resentment and add longevity to any relationship.
-
-[2025-12-06 06:04:50](https://bsky.app/profile/cnbc.com/post/3m7bf7xetyk2x)
+[2025-12-06 06:25:10](https://bsky.app/profile/reuters.com/post/3m7bgecu3sq2i)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@financialtimes.com
 
-衆院議員の定数削減法案 審議入りの見通し立たず
-https://news.web.nhk/newsweb/na/na-k10014995591000
+France intercepted drones flying over nuclear submarine base, defence minister says on.ft.com/48QFefT
 
-[2025-12-06 06:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bf4t2zoo2t)
+[2025-12-06 06:23:39](https://bsky.app/profile/financialtimes.com/post/3m7bgbmgwqb26)
+
+---
+
+@en.afp.com
+
+Netflix is facing fierce criticism over its blockbuster, nearly $83 billion deal to acquire Warner Bros., the storied Hollywood studio u.afp.com/S7Ur
+
+[2025-12-06 06:23:23](https://bsky.app/profile/en.afp.com/post/3m7bgb4ztma2k)
 
 ---
 
 @nytimes.com
 
-Vanity Fair will part ways with Olivia Nuzzi, its West Coast editor, at the end of the year. Nuzzi and the magazine have faced a storm of controversy over her past romantic relationship with Robert F. Kennedy Jr., the health secretary.
+From @theathleticfc.bsky.social: The Group of Death is a tradition at the World Cup. Without fail, each tournament yields one. 
 
-[2025-12-06 06:02:03](https://bsky.app/profile/nytimes.com/post/3m7bf2ydyar2w)
+This time, our experts think it’s Group I. What do you think? nyti.ms/4oC0ue4
 
----
-
-@nikkei.com
-
-大和ハウス、データセンターの工期5分の1　組み立て型の新工法
-www.nikkei.com/article/DGXZQO...
-
-データセンターには建屋型・組み立て型・コンテナ型があります。
-
-建屋型は発注から竣工までに5年以上かかるケースもありますが、組み立て型であれば工期を約1年に短縮できます。
-
-[2025-12-06 06:01:56](https://bsky.app/profile/nikkei.com/post/3m7bf2rqtcl2t)
+[2025-12-06 06:23:04](https://bsky.app/profile/nytimes.com/post/3m7bgakung62q)
 
 ---
 
-@reuters.com
+@axios.com
 
-Exclusive: Swiss government set to water down part of UBS capital rules, sources say reut.rs/48m19vj
+NEW: Olivia Nuzzi to leave Vanity Fair at end of year after contract expires
 
-[2025-12-06 06:01:07](https://bsky.app/profile/reuters.com/post/3m7bezdai3t27)
-
----
-
-@usatoday.com
-
-"Rudolph" will air on NBC for the second time this year after five decades on CBS.
-
-[2025-12-06 06:01:01](https://bsky.app/profile/usatoday.com/post/3m7bez4px2o2h)
+[2025-12-06 06:22:44](https://bsky.app/profile/axios.com/post/3m7bg7xv3hk23)
 
 ---
 
-@aljazeera.com
+@cbsnews.com
 
-Landmark penalty triggers US fury as Brussels enforces first digital transparency sanction.
+Workers across the U.S. are set for minimum wage increases in 2026. Here's where.
 
-[2025-12-06 06:00:52](https://bsky.app/profile/aljazeera.com/post/3m7beyuu4md2k)
+[2025-12-06 06:20:01](https://bsky.app/profile/cbsnews.com/post/3m7bg34aiym2z)
 
 ---
 
-@nbcnews.com
+@nytimes.com
 
-President Trump touts Kennedy Center renovations at the World Cup draw in Washington D.C. 
+Chic packaging and promises aside, we wanted to find out if Merit is actually as good as celebrity and podcast ads insist.  Could one stick hide dark circles and breakouts?
 
-[2025-12-06 06:00:40](https://bsky.app/profile/nbcnews.com/post/3m7beyjahsw22)
+[2025-12-06 06:19:04](https://bsky.app/profile/nytimes.com/post/3m7bfzfws3w2y)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】かまぼこ工場で火災「ダクトの中が燃えている」けが人なし 諫早市鶴田町
+(2025-12-06 06:12:00) #ニュース
+
+[2025-12-06 06:16:47](https://bsky.app/profile/sokuho.news/post/3m7bfvd5m7v27)
 
 ---
 
