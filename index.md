@@ -1,9 +1,9 @@
-# [2025-12-05 19:30 updated](2025_12_05.md)
+# [2025-12-05 19:50 updated](2025_12_05.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Happening TODAY! Come and gather all the reading (and gifting) ideas you need at 1pm GMT www.ft.com/content/1d49... <a href="https://bsky.app/profile/ftweekend.com/post/3m7abmfyh4k2v" target="_blank">ftweekend.com</a> (2025-12-05 19:27:33)</span><span style="padding-right:50px;">婚活サービス会社 フリーランス保護の法律違反か 公取委が勧告 https://news.web.nhk/newsweb/na/na-k10014995331000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ablkkrpm2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-05 19:27:02)</span><span style="padding-right:50px;">China's HongShan eyes $2.9 billion Golden Goose deal by Christmas - paper reut.rs/4aDN7GG <a href="https://bsky.app/profile/reuters.com/post/3m7abi4ni6327" target="_blank">reuters.com</a> (2025-12-05 19:25:09)</span><span style="padding-right:50px;">Warner Bros. Discovery is said to have entered exclusive talks with Netflix for a deal to sell its studios and HBO Max streaming service. <a href="https://bsky.app/profile/nytimes.com/post/3m7abhxg7rx2w" target="_blank">nytimes.com</a> (2025-12-05 19:25:04)</span><span style="padding-right:50px;">Lammy talks up customs union amid efforts to rebuild UK-EU ties on.ft.com/3KqmDxZ <a href="https://bsky.app/profile/financialtimes.com/post/3m7abfjsra32l" target="_blank">financialtimes.com</a> (2025-12-05 19:23:42)</span>
+<span style="padding-right:50px;">高市首相 再来年の横浜「花博」成功に向け体制強化の方針示す https://news.web.nhk/newsweb/na/na-k10014995381000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7acr4v5gg2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-05 19:48:03)</span><span style="padding-right:50px;">India's Adani, Hindalco seek Peru copper assets as demand surges reut.rs/4piqwE5 <a href="https://bsky.app/profile/reuters.com/post/3m7aclyu6o32i" target="_blank">reuters.com</a> (2025-12-05 19:45:13)</span><span style="padding-right:50px;">🇵🇸 UAE organises mass wedding for 54 couples amid ruins in Gaza  Waving UAE flags, cheerful crowds celebrate the mass wedding of 54 Palestinian couples, held amid the ruins of destroyed buildings in Gaza's Khan Yunis. The initiative, dubbed 'The Dress of Joy', is organised by the United Arab Emirates <a href="https://bsky.app/profile/en.afp.com/post/3m7acec73eo2a" target="_blank">en.afp.com</a> (2025-12-05 19:40:55)</span><span style="padding-right:50px;">Kenya's William Ruto secures US health aid in first deal under Trump administration <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7ace7wyk72g" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-05 19:40:51)</span><span style="padding-right:50px;">Tesla launches low-cost Model 3 variant in Europe reut.rs/4rFwSyY <a href="https://bsky.app/profile/reuters.com/post/3m7accywyel2w" target="_blank">reuters.com</a> (2025-12-05 19:40:11)</span>
   </div>
 </div>
 
@@ -32,94 +32,95 @@
 
 ## News Headlines
 
-1. 婚活サービス会社、フリーランス保護法違反か
-2. 中国ホンシャン、29億ドルのゴールデン・グース買収狙う
-3. 米ワーナー、ネットフリックスと独占交渉入りか
-4. 足立区の死傷事故、車は衝突直前にアクセル踏み込みか
-5. Visa、欧州本社をロンドンのカナリー・ワーフに移転
-6. 首都圏連続強盗、「闇バイト」指示役を初逮捕
+1.  高市首相、横浜花博成功へ体制強化
+2.  ガザ地区で大規模結婚式、UAEが支援
+3.  アジア各地で洪水・地滑り、死者1500人超
+4.  婚活サービス会社、フリーランス保護法違反で公取委勧告
+5.  首都圏連続強盗事件、指示役を初逮捕
+6.  杉浦幸、40年ぶりに写真集で円熟ボディ披露
 
 ----
 
-@ftweekend.com
-
-Happening TODAY! Come and gather all the reading (and gifting) ideas you need at 1pm GMT www.ft.com/content/1d49...
-
-[2025-12-05 19:27:33](https://bsky.app/profile/ftweekend.com/post/3m7abmfyh4k2v)
-
----
-
 @nhknewsunofficial.bsky.social
 
-婚活サービス会社 フリーランス保護の法律違反か 公取委が勧告
-https://news.web.nhk/newsweb/na/na-k10014995331000
+高市首相 再来年の横浜「花博」成功に向け体制強化の方針示す
+https://news.web.nhk/newsweb/na/na-k10014995381000
 
-[2025-12-05 19:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ablkkrpm2j)
+[2025-12-05 19:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7acr4v5gg2u)
 
 ---
 
 @reuters.com
 
-China's HongShan eyes $2.9 billion Golden Goose deal by Christmas - paper reut.rs/4aDN7GG
+India's Adani, Hindalco seek Peru copper assets as demand surges reut.rs/4piqwE5
 
-[2025-12-05 19:25:09](https://bsky.app/profile/reuters.com/post/3m7abi4ni6327)
-
----
-
-@nytimes.com
-
-Warner Bros. Discovery is said to have entered exclusive talks with Netflix for a deal to sell its studios and HBO Max streaming service.
-
-[2025-12-05 19:25:04](https://bsky.app/profile/nytimes.com/post/3m7abhxg7rx2w)
+[2025-12-05 19:45:13](https://bsky.app/profile/reuters.com/post/3m7aclyu6o32i)
 
 ---
 
-@financialtimes.com
+@en.afp.com
 
-Lammy talks up customs union amid efforts to rebuild UK-EU ties on.ft.com/3KqmDxZ
+🇵🇸 UAE organises mass wedding for 54 couples amid ruins in Gaza
 
-[2025-12-05 19:23:42](https://bsky.app/profile/financialtimes.com/post/3m7abfjsra32l)
+Waving UAE flags, cheerful crowds celebrate the mass wedding of 54 Palestinian couples, held amid the ruins of destroyed buildings in Gaza's Khan Yunis. The initiative, dubbed 'The Dress of Joy', is organised by the United Arab Emirates
 
----
-
-@npr.org
-
-If it seems like traffic is getting worse where you live, that's because it probably is. After dropping during the COVID-19 pandemic, congestion climbed to record levels in 2024, researchers say. n.pr/4az6SPH
-
-[2025-12-05 19:21:22](https://bsky.app/profile/npr.org/post/3m7abbeknql2g)
+[2025-12-05 19:40:55](https://bsky.app/profile/en.afp.com/post/3m7acec73eo2a)
 
 ---
 
-@apnews.com
+@bbcnews-world-rss.bsky.social
 
-Edinburgh Airport says no flights are currently operating due to an IT issue.
+Kenya's William Ruto secures US health aid in first deal under Trump administration
 
-[2025-12-05 19:20:50](https://bsky.app/profile/apnews.com/post/3m7abafjgxk27)
+[2025-12-05 19:40:51](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7ace7wyk72g)
+
+---
+
+@reuters.com
+
+Tesla launches low-cost Model 3 variant in Europe reut.rs/4rFwSyY
+
+[2025-12-05 19:40:11](https://bsky.app/profile/reuters.com/post/3m7accywyel2w)
 
 ---
 
 @nbcnews.com
 
-The Supreme Court allowed Texas to use a new congressional district map in next year’s midterm elections that was drawn to add up to five additional Republican House seats.
+The death toll from last week’s catastrophic floods and landslides in parts of Asia surges past 1,500, with hundreds of people still unaccounted for across the region.
 
-[2025-12-05 19:20:09](https://bsky.app/profile/nbcnews.com/post/3m7ab76mba42t)
-
----
-
-@nhknewsunofficial.bsky.social
-
-東京 足立区の死傷事故 車は衝突する直前アクセル踏み込んだか
-https://news.web.nhk/newsweb/na/na-k10014995321000
-
-[2025-12-05 19:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ab3guaub2e)
+[2025-12-05 19:40:08](https://bsky.app/profile/nbcnews.com/post/3m7accvqrzt2j)
 
 ---
 
-@reuters.com
+@financialtimes.com
 
-Visa relocates European headquarters to London's Canary Wharf reut.rs/4iERG5P
+India’s airports in chaos as largest airline cancels hundreds of flights on.ft.com/4pQd7Di
 
-[2025-12-05 19:15:17](https://bsky.app/profile/reuters.com/post/3m7aawi4lyk27)
+[2025-12-05 19:38:07](https://bsky.app/profile/financialtimes.com/post/3m7ac7c2u7t2n)
+
+---
+
+@wsj.com
+
+Exclusive: Following a streak of disappointing performance, tension over profit-sharing and complaints about a negative culture, Sequoia’s $9 billion hedge fund is trying a new approach to leadership: “No kings.”
+
+[2025-12-05 19:37:33](https://bsky.app/profile/wsj.com/post/3m7ac6ckbt62p)
+
+---
+
+@financialtimes.com
+
+Just in: A new US national security strategy is calling for 'cultivating resistance' in Europe, warning that the continent is subverting democracy, blocking peace in Ukraine and facing 'civilisational erasure' from high migration and falling birth rates. on.ft.com/3Y7XP0G
+
+[2025-12-05 19:36:21](https://bsky.app/profile/financialtimes.com/post/3m7ac45es3r2c)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Germany votes on bringing back voluntary military service
+
+[2025-12-05 19:36:00](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7ac3knlcr2q)
 
 ---
 
