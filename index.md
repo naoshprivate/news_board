@@ -1,9 +1,9 @@
-# [2025-12-06 05:10 updated](2025_12_06.md)
+# [2025-12-06 05:30 updated](2025_12_06.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">起訴後入院の病院から逃走 逮捕の容疑者 非常階段近くに足跡か https://news.web.nhk/newsweb/na/na-k10014995861000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bc4frqxf2e" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-06 05:09:07)</span><span style="padding-right:50px;">首都直下地震 “最大2万人近く死亡” 新たな被害想定の素案 https://news.web.nhk/newsweb/na/na-k10014995661000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bc4bby2u2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-06 05:09:02)</span><span style="padding-right:50px;">The Supreme Court will ultimately decide whether to uphold the longstanding principle that grants citizenship to the children of non-citizens born in the U.S., following a legal challenge by the Trump administration. n.pr/48E1oko <a href="https://bsky.app/profile/npr.org/post/3m7bc2pvgn42s" target="_blank">npr.org</a> (2025-12-06 05:08:13)</span><span style="padding-right:50px;">Europe forges ahead with Big Tech crackdown with X fine, defying Trump reut.rs/4rGITnS <a href="https://bsky.app/profile/reuters.com/post/3m7bbvifo7g2i" target="_blank">reuters.com</a> (2025-12-06 05:05:17)</span><span style="padding-right:50px;">Musk’s SpaceX targets $800bn valuation in latest share sale on.ft.com/4pN3WmX <a href="https://bsky.app/profile/financialtimes.com/post/3m7bbqn5s7h2r" target="_blank">financialtimes.com</a> (2025-12-06 05:02:35)</span>
+<span style="padding-right:50px;">Built next to the Monticello Motor Club, the contemporary home has a replica Formula One car on display, a Ferrari-inspired office and a carport. on.wsj.com/3XAaUjp <a href="https://bsky.app/profile/wsj.com/post/3m7bd74xcyw2i" target="_blank">wsj.com</a> (2025-12-06 05:28:34)</span><span style="padding-right:50px;">Wall St Week Ahead Fed's internal split puts spotlight on Powell's rate guidance, dissents reut.rs/4oGLPhR <a href="https://bsky.app/profile/reuters.com/post/3m7bcz2thub2d" target="_blank">reuters.com</a> (2025-12-06 05:25:11)</span><span style="padding-right:50px;">From @theathleticfc.bsky.social: The 12 groups for the 2026 World Cup were unveiled. The U.S. men’s team will face Australia, Paraguay and the winner of a European playoff.   Which group are you most looking forward to? nyti.ms/3KGmk22 <a href="https://bsky.app/profile/nytimes.com/post/3m7bcrrecjb26" target="_blank">nytimes.com</a> (2025-12-06 05:21:06)</span><span style="padding-right:50px;">AI開発めぐり 政府 個人情報保護法の改正案の概要まとめる https://news.web.nhk/newsweb/na/na-k10014995611000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bcrqacuv2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-06 05:21:03)</span><span style="padding-right:50px;">Breaking news: The World Cup group stage is set. The U.S. men’s national team will face Australia, Paraguay and a European playoff winner in Group D.  See the full list of what teams are competing against each other. <a href="https://bsky.app/profile/washingtonpost.com/post/3m7bcqxzej32s" target="_blank">washingtonpost.com</a> (2025-12-06 05:20:40)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47982.30 (🔺102.70 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23561.59 (🔻6.18 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 181.80 (🔻2.06 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.29 (🔺0.25 : 2025-12-05)</span>
+<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47976.99 (🔺97.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23566.35 (🔻1.42 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 181.85 (🔻2.01 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.30 (🔺0.25 : 2025-12-05)</span>
   </div>
 </div>
 
@@ -32,98 +32,97 @@
 
 ## News Headlines
 
-1. 起訴後逃走の容疑者逮捕、病院の非常階段近くに足跡か
-2. 首都直下地震、最大2万人近く死亡の被害想定素案
-3. 米最高裁、出生地主義の是非を審理へ
-4. EU、ビッグテック締め付け強化、Xに制裁金
-5. SpaceX、株式売却で8000億ドル評価額目標
-6. サッカーW杯、日本はオランダ、チュニジアなどと同組
+1.  建築家フランク・ゲーリー氏死去、96歳
+2.  2026年サッカーW杯グループ分け決定、日本はオランダ、チュニジアなどと同組
+3.  AI開発で個人情報保護法改正案、政府が概要まとめる
+4.  EVに重量課税導入へ、来年度税制改正で検討
+5.  首都直下地震、最大2万人近く死亡の被害想定
+6.  エプスタイン事件、大陪審資料公開へ
 
 ----
 
-@nhknewsunofficial.bsky.social
+@wsj.com
 
-起訴後入院の病院から逃走 逮捕の容疑者 非常階段近くに足跡か
-https://news.web.nhk/newsweb/na/na-k10014995861000
+Built next to the Monticello Motor Club, the contemporary home has a replica Formula One car on display, a Ferrari-inspired office and a carport. on.wsj.com/3XAaUjp
 
-[2025-12-06 05:09:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bc4frqxf2e)
-
----
-
-@nhknewsunofficial.bsky.social
-
-首都直下地震 “最大2万人近く死亡” 新たな被害想定の素案
-https://news.web.nhk/newsweb/na/na-k10014995661000
-
-[2025-12-06 05:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bc4bby2u2j)
-
----
-
-@npr.org
-
-The Supreme Court will ultimately decide whether to uphold the longstanding principle that grants citizenship to the children of non-citizens born in the U.S., following a legal challenge by the Trump administration. n.pr/48E1oko
-
-[2025-12-06 05:08:13](https://bsky.app/profile/npr.org/post/3m7bc2pvgn42s)
+[2025-12-06 05:28:34](https://bsky.app/profile/wsj.com/post/3m7bd74xcyw2i)
 
 ---
 
 @reuters.com
 
-Europe forges ahead with Big Tech crackdown with X fine, defying Trump reut.rs/4rGITnS
+Wall St Week Ahead Fed's internal split puts spotlight on Powell's rate guidance, dissents reut.rs/4oGLPhR
 
-[2025-12-06 05:05:17](https://bsky.app/profile/reuters.com/post/3m7bbvifo7g2i)
-
----
-
-@financialtimes.com
-
-Musk’s SpaceX targets $800bn valuation in latest share sale on.ft.com/4pN3WmX
-
-[2025-12-06 05:02:35](https://bsky.app/profile/financialtimes.com/post/3m7bbqn5s7h2r)
+[2025-12-06 05:25:11](https://bsky.app/profile/reuters.com/post/3m7bcz2thub2d)
 
 ---
 
-@nikkei.com
+@nytimes.com
 
-トヨタが狙うは「超高級」　スポーツ車3車種披露、EV時代生き抜く戦略
-www.nikkei.com/article/DGXZQO...
+From @theathleticfc.bsky.social: The 12 groups for the 2026 World Cup were unveiled. The U.S. men’s team will face Australia, Paraguay and the winner of a European playoff. 
 
-豊田章男会長「（技術や知見など）秘伝のタレを未来へ残したい」。
+Which group are you most looking forward to? nyti.ms/3KGmk22
 
-[2025-12-06 05:01:56](https://bsky.app/profile/nikkei.com/post/3m7bbpibnpq2i)
-
----
-
-@reuters.com
-
-US vaccine committee scraps broad recommendation for hepatitis B shot in newborns reut.rs/3XzzfWu
-
-[2025-12-06 05:01:12](https://bsky.app/profile/reuters.com/post/3m7bbo6s6fx2y)
+[2025-12-06 05:21:06](https://bsky.app/profile/nytimes.com/post/3m7bcrrecjb26)
 
 ---
 
-@usatoday.com
+@nhknewsunofficial.bsky.social
 
-"Sex and the City" star Kim Cattrall tied the knot with audio engineer Russell Thomas in a chic and intimate London ceremony.
+AI開発めぐり 政府 個人情報保護法の改正案の概要まとめる
+https://news.web.nhk/newsweb/na/na-k10014995611000
 
-[2025-12-06 05:01:04](https://bsky.app/profile/usatoday.com/post/3m7bbnwhk7s2j)
+[2025-12-06 05:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bcrqacuv2b)
 
 ---
 
-@cnn.com
+@washingtonpost.com
 
-A federal judge in Florida ordered the unsealing of grand jury transcripts and other records in the investigation into Jeffrey Epstein, paving the way for the public release of those documents.
-https://cnn.it/44a2qTG
+<strong><span style="color: red;">Breaking news:</span> The World Cup group stage is set. The U.S. men’s national team will face Australia, Paraguay and a European playoff winner in Group D.</strong><br><strong></strong><br><strong>See the full list of what teams are competing against each other.</strong>
 
-[2025-12-06 05:00:31](https://bsky.app/profile/cnn.com/post/3m7bbmwutnp2q)
+[2025-12-06 05:20:40](https://bsky.app/profile/washingtonpost.com/post/3m7bcqxzej32s)
 
 ---
 
 @nbcnews.com
 
-A native of Minnesota who is of Somali descent said people in his community are afraid to leave their homes despite their citizenship status. nbcnews.to/3Xzd7vr
+Vice President JD Vance said antisemitism isn’t "exploding" on the right during an exclusive interview with NBC News, wading into an issue that has roiled his party in recent weeks amid a broader focus on antisemitism by the Trump administration.
+nbcnews.to/3MpXns8
 
-[2025-12-06 05:00:26](https://bsky.app/profile/nbcnews.com/post/3m7bbmstvri2j)
+[2025-12-06 05:20:33](https://bsky.app/profile/nbcnews.com/post/3m7bcqrmntp2p)
+
+---
+
+@nytimes.com
+
+<strong><span style="color: red;">Breaking News</span>: A federal judge in Florida approved the release of grand jury documents from a nearly 20-year-old investigation of Jeffrey Epstein, beginning the process of making another batch of material about Epstein public.</strong>
+
+[2025-12-06 05:20:09](https://bsky.app/profile/nytimes.com/post/3m7bcq2eeoz22)
+
+---
+
+@cbsnews.com
+
+Frank Gehry, renowned architect known for Guggenheim Museum Bilbao and Walt Disney Concert Hall, dies at age 96.
+
+[2025-12-06 05:20:01](https://bsky.app/profile/cbsnews.com/post/3m7bcpsqdx52m)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+来年度税制改正 EVに重量に応じた課税 導入の方向で検討
+https://news.web.nhk/newsweb/na/na-k10014995821000
+
+[2025-12-06 05:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bcmdv5yy2p)
+
+---
+
+@wsj.com
+
+<strong><span style="color: red;">Breaking:</span> Vanity Fair and Olivia Nuzzi agreed to part ways after new revelations and allegations about an affair with RFK Jr. and her behavior while reporting on him.</strong>
+
+[2025-12-06 05:15:44](https://bsky.app/profile/wsj.com/post/3m7bci6ksq52p)
 
 ---
 
