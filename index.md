@@ -1,9 +1,9 @@
-# [2025-12-06 02:50 updated](2025_12_06.md)
+# [2025-12-06 03:10 updated](2025_12_06.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Debit cards are getting the credit-card treatment. Their perks still pale in comparison to credit cards’, but the rewards are the most generous seen on debit cards in years. on.wsj.com/48GIrxv <a href="https://bsky.app/profile/wsj.com/post/3m7b2cbvvnp2a" target="_blank">wsj.com</a> (2025-12-06 02:49:17)</span><span style="padding-right:50px;">Heavy rains trigger fresh landslide warnings in Sri Lanka’s central hills, as death toll from last week’s Cyclone Ditwah jumps above 600 u.afp.com/S7Ux <a href="https://bsky.app/profile/en.afp.com/post/3m7b24nxaxg23" target="_blank">en.afp.com</a> (2025-12-06 02:46:08)</span><span style="padding-right:50px;">Trump was the winner of the inaugural "FIFA Peace Prize," which the soccer organization awarded during its World Cup draw in Washington.   Read more: bit.ly/48obyXr <a href="https://bsky.app/profile/usatoday.com/post/3m7b24d7z7l2p" target="_blank">usatoday.com</a> (2025-12-06 02:45:57)</span><span style="padding-right:50px;">Meta strikes multiple AI deals with news publishers reut.rs/3MiohCl <a href="https://bsky.app/profile/reuters.com/post/3m7b232u27e2w" target="_blank">reuters.com</a> (2025-12-06 02:45:14)</span><span style="padding-right:50px;">Aiming to give Republicans an extra House seat in 2028, a Trump-aligned nonprofit has put $4.35 million toward supporting a proposed ballot measure that would repeal Utah’s anti-gerrymandering law. <a href="https://bsky.app/profile/nytimes.com/post/3m7b22prukz2l" target="_blank">nytimes.com</a> (2025-12-06 02:45:03)</span>
+<span style="padding-right:50px;">World Cup draw begins with Trump, Canada's Carney, Mexico's Sheinbaum picking first balls. <a href="https://bsky.app/profile/apnews.com/post/3m7b3d7eiap2j" target="_blank">apnews.com</a> (2025-12-06 03:07:42)</span><span style="padding-right:50px;"> The revival of Goldman’s dealmaking instincts on.ft.com/44P0ct2  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m7b37gfute2v" target="_blank">financialtimes.com</a> (2025-12-06 03:05:35)</span><span style="padding-right:50px;">Which European countries have mandatory or voluntary military service <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7b36sp5tn2q" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-06 03:05:13)</span><span style="padding-right:50px;">Tunisia’s main union calls nationwide strike as president's crackdown escalates reut.rs/4piir2j <a href="https://bsky.app/profile/reuters.com/post/3m7b36ryfrj2n" target="_blank">reuters.com</a> (2025-12-06 03:05:13)</span><span style="padding-right:50px;">Inspired by the Payday bar, this simple cookie mimics the flavor of the candy’s caramel nougat center through a brown butter-infused dough. nyti.ms/48siNMD <a href="https://bsky.app/profile/nytimes.com/post/3m7b36hvtab22" target="_blank">nytimes.com</a> (2025-12-06 03:05:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47927.90 (🔺48.30 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23544.81 (🔻22.96 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.02 (🔻1.84 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.30 (🔺0.25 : 2025-12-05)</span>
+<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 48040.66 (🔺161.06 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23581.71 (🔺13.95 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.20 (🔻1.66 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.25 (🔺0.20 : 2025-12-05)</span>
   </div>
 </div>
 
@@ -32,96 +32,94 @@
 
 ## News Headlines
 
-1. デビットカード、特典付きクレジットカード化進む
-2. スリランカで地滑り警報、サイクロン死者600人超
-3. トランプ氏、FIFA平和賞を受賞
-4. Meta、複数の報道機関とAIで提携
-5. テスラ、欧州で廉価版EV発売
-6. AppleとGoogle、サイバー脅威通知をユーザーに送信
+1. トランプ氏、FIFA平和賞を受賞
+2. チュニジアで全国規模のストライキ
+3. カナダ失業率、16ヶ月ぶりの低水準
+4. ニューヨーク・タイムズ、Perplexity AIを著作権侵害で提訴
+5. スリランカで地滑り警報、死者600人超
+6. Netflix、ワーナー・ブラザース・ディスカバリーのスタジオ買収か
 
 ----
 
-@wsj.com
+@apnews.com
 
-Debit cards are getting the credit-card treatment. Their perks still pale in comparison to credit cards’, but the rewards are the most generous seen on debit cards in years. on.wsj.com/48GIrxv
+World Cup draw begins with Trump, Canada's Carney, Mexico's Sheinbaum picking first balls.
 
-[2025-12-06 02:49:17](https://bsky.app/profile/wsj.com/post/3m7b2cbvvnp2a)
+[2025-12-06 03:07:42](https://bsky.app/profile/apnews.com/post/3m7b3d7eiap2j)
 
 ---
 
-@en.afp.com
+@financialtimes.com
 
-Heavy rains trigger fresh landslide warnings in Sri Lanka’s central hills, as death toll from last week’s Cyclone Ditwah jumps above 600 u.afp.com/S7Ux
+ The revival of Goldman’s dealmaking instincts on.ft.com/44P0ct2  | opinion
 
-[2025-12-06 02:46:08](https://bsky.app/profile/en.afp.com/post/3m7b24nxaxg23)
+[2025-12-06 03:05:35](https://bsky.app/profile/financialtimes.com/post/3m7b37gfute2v)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Which European countries have mandatory or voluntary military service
+
+[2025-12-06 03:05:13](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7b36sp5tn2q)
+
+---
+
+@reuters.com
+
+Tunisia’s main union calls nationwide strike as president's crackdown escalates reut.rs/4piir2j
+
+[2025-12-06 03:05:13](https://bsky.app/profile/reuters.com/post/3m7b36ryfrj2n)
+
+---
+
+@nytimes.com
+
+Inspired by the Payday bar, this simple cookie mimics the flavor of the candy’s caramel nougat center through a brown butter-infused dough. nyti.ms/48siNMD
+
+[2025-12-06 03:05:03](https://bsky.app/profile/nytimes.com/post/3m7b36hvtab22)
+
+---
+
+@aljazeera.com
+
+The US military says it killed four people in an air strike on a suspected drug boat in in the Eastern Pacific. 
+
+The attack was ordered by US War Secretary Pete Hegseth, who is under scrutiny over a previous attack in which survivors were killed in a follow-up strike.
+
+[2025-12-06 03:04:42](https://bsky.app/profile/aljazeera.com/post/3m7b35tz6kc2e)
+
+---
+
+@nytimes.com
+
+Federal officials said they had arrested a visiting professor from Brazil at Harvard on Wednesday, weeks after he fired a pellet gun near a synagogue and officials accused him of antisemitism. The professor, who lived near the synagogue, said he was hunting rats nearby.
+
+[2025-12-06 03:04:40](https://bsky.app/profile/nytimes.com/post/3m7b35snaha2w)
+
+---
+
+@reuters.com
+
+Canada's unemployment rate shrinks to lowest in 16 months as part-time jobs increase reut.rs/48AfEdJ
+
+[2025-12-06 03:00:58](https://bsky.app/profile/reuters.com/post/3m7b2x6czay26)
 
 ---
 
 @usatoday.com
 
-Trump was the winner of the inaugural "FIFA Peace Prize," which the soccer organization awarded during its World Cup draw in Washington. 
+Thriftmas is trending, and it may cut your gift costs in half
 
-Read more: bit.ly/48obyXr
-
-[2025-12-06 02:45:57](https://bsky.app/profile/usatoday.com/post/3m7b24d7z7l2p)
+[2025-12-06 03:00:54](https://bsky.app/profile/usatoday.com/post/3m7b2x36rxd2m)
 
 ---
 
-@reuters.com
+@aljazeera.com
 
-Meta strikes multiple AI deals with news publishers reut.rs/3MiohCl
+The Rwandan-backed M23 rebel group and government forces have traded blame for the renewed fighting.
 
-[2025-12-06 02:45:14](https://bsky.app/profile/reuters.com/post/3m7b232u27e2w)
-
----
-
-@nytimes.com
-
-Aiming to give Republicans an extra House seat in 2028, a Trump-aligned nonprofit has put $4.35 million toward supporting a proposed ballot measure that would repeal Utah’s anti-gerrymandering law.
-
-[2025-12-06 02:45:03](https://bsky.app/profile/nytimes.com/post/3m7b22prukz2l)
-
----
-
-@cbsnews.com
-
-Authorities are releasing hundreds of 911 calls from the deadly flash floods that devastated parts of Texas Hill Country on July 4, killing more than 130 people, including dozens of young campers.
-
-Kerrville Police Chief Chris McCall warned that the calls received by dispatchers are distressing.
-
-[2025-12-06 02:45:00](https://bsky.app/profile/cbsnews.com/post/3m7b22nkc5y2b)
-
----
-
-@nytimes.com
-
-<strong><span style="color: red;">Breaking News</span>: Dario Vitale, the relatively unknown designer who took the reins of Versace after Donatella, is leaving after one collection.</strong>
-
-[2025-12-06 02:44:10](https://bsky.app/profile/nytimes.com/post/3m7azz5duz62y)
-
----
-
-@yahoofinance.com
-
-Tesla launches cheaper Standard EVs in Europe to blunt sales drop, Musk backlash
-
-[2025-12-06 02:41:25](https://bsky.app/profile/yahoofinance.com/post/3m7azu7wgdu2x)
-
----
-
-@nbcnews.com
-
-Many in Minnesota’s Somali community, most of them U.S. citizens, say they are fearful after ICE launched an operation in the region and following President Trump’s rants against Somalia and Somali immigrants living in the U.S.
-
-[2025-12-06 02:40:29](https://bsky.app/profile/nbcnews.com/post/3m7azskpf5l2y)
-
----
-
-@reuters.com
-
-Apple, Google send new round of cyber threat notifications to users around world reut.rs/4oBwwqm
-
-[2025-12-06 02:40:18](https://bsky.app/profile/reuters.com/post/3m7azs7od2b2e)
+[2025-12-06 03:00:37](https://bsky.app/profile/aljazeera.com/post/3m7b2wkm3fq2h)
 
 ---
 
