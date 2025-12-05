@@ -1,9 +1,9 @@
-# [2025-12-05 15:10 updated](2025_12_05.md)
+# [2025-12-05 15:30 updated](2025_12_05.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】伊豆の国市の病院から逃走した54歳男を三島市内で確保（静岡） (2025-12-05 14:50) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m77szakinb2x" target="_blank">sokuho.news</a> (2025-12-05 15:06:17)</span><span style="padding-right:50px;">楽天 新人選手入団会見 ドラフト1位の藤原聡大が意気込み https://news.web.nhk/newsweb/na/na-k10014994801000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77syuch562j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-05 15:06:03)</span><span style="padding-right:50px;">Somalis arrested in Minneapolis immigration operation, officials say reut.rs/4pq7Pi0 <a href="https://bsky.app/profile/reuters.com/post/3m77sx5cddh2r" target="_blank">reuters.com</a> (2025-12-05 15:05:07)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】木南晴夏（40）第2子の出産を報告 (15:01) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m77svq6x2i2y" target="_blank">sokuho.news</a> (2025-12-05 15:04:20)</span><span style="padding-right:50px;">佐川急便の荷物制限 国交相“必要に応じ関係業界に働きかけ” https://news.web.nhk/newsweb/na/na-k10014994851000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77stmpauh2n" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-05 15:03:06)</span>
+<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】4月～11月のクマの人身被害 全国で230人 過去最多に 出没件数も過去最多 環境省 (2025-12-05 15:26:29) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m77u7og5ho2e" target="_blank">sokuho.news</a> (2025-12-05 15:27:47)</span><span style="padding-right:50px;">Indian shares edge higher after RBI rate cut, led by financials reut.rs/4456ZyI <a href="https://bsky.app/profile/reuters.com/post/3m77u2w54qm2e" target="_blank">reuters.com</a> (2025-12-05 15:25:07)</span><span style="padding-right:50px;">柔道 阿部一二三 グランドスラム東京に向け意気込み https://news.web.nhk/newsweb/na/na-k10014994881000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77ttpbphi2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-05 15:21:03)</span><span style="padding-right:50px;">Chevron's Gorgon LNG project secures $2 billion investment nod reut.rs/448LGMy <a href="https://bsky.app/profile/reuters.com/post/3m77tj6fbcn2i" target="_blank">reuters.com</a> (2025-12-05 15:15:12)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:長野県北部, 深さ:ごく浅い マグニチュード:2.3, 最大震度:1 📍https://www.google.com/maps?q=36.7,138.2&ll=36.7,138.2&z=7&t=h 地震発生日時:2025-12-05 15:09頃 (10倍速▶90s→9s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m77tetszce2m" target="_blank">sokuho.news</a> (2025-12-05 15:12:47)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50416.28 (🔻114.06 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47850.94 (🔻37.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.38 (🔺1.76 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3019.00 (🔻34.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 154.62 (🔻0.42 : 2025-12-05)</span>
+<span style="padding-right:50px;">NIKKEI: 50448.78 (🔻81.56 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47850.94 (🔻37.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.38 (🔺1.76 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3019.00 (🔻34.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 154.58 (🔻0.47 : 2025-12-05)</span>
   </div>
 </div>
 
@@ -32,14 +32,97 @@
 
 ## News Headlines
 
-1. 静岡・伊豆の国市病院から逃走の男、三島市内で確保
-2. 楽天ドラフト1位・藤原聡大が入団会見、意気込み語る
-3. 木南晴夏、第2子出産を報告
-4. SNS炎上狙う「レイジベイト」急増、オックスフォード大出版局が2025年の言葉に
-5. 中国大使館、在日邦人に南京事件88年に向け安全確保呼びかけ
-6. トヨタ、レクサスの超高級スポーツ3車種披露
+1. クマ人身被害、全国で過去最多230人
+2. 静岡・伊豆の国市 病院から逃走の被告を確保
+3. 長野県北部で地震発生、最大震度1
+4. オックスフォード大学出版局「レイジベイト」を2025年の言葉に
+5. 阿部一二三、グランドスラム東京へ意気込み
+6. 中国大使館、南京事件88年に向け邦人に安全確保呼びかけ
 
 ----
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】4月～11月のクマの人身被害 全国で230人 過去最多に 出没件数も過去最多 環境省
+(2025-12-05 15:26:29) #ニュース
+
+[2025-12-05 15:27:47](https://bsky.app/profile/sokuho.news/post/3m77u7og5ho2e)
+
+---
+
+@reuters.com
+
+Indian shares edge higher after RBI rate cut, led by financials reut.rs/4456ZyI
+
+[2025-12-05 15:25:07](https://bsky.app/profile/reuters.com/post/3m77u2w54qm2e)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+柔道 阿部一二三 グランドスラム東京に向け意気込み
+https://news.web.nhk/newsweb/na/na-k10014994881000
+
+[2025-12-05 15:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77ttpbphi2p)
+
+---
+
+@reuters.com
+
+Chevron's Gorgon LNG project secures $2 billion investment nod reut.rs/448LGMy
+
+[2025-12-05 15:15:12](https://bsky.app/profile/reuters.com/post/3m77tj6fbcn2i)
+
+---
+
+@sokuho.news
+
+🔔防災科研より【強震モニタ】動画です。
+
+震源:長野県北部, 深さ:ごく浅い
+マグニチュード:2.3, 最大震度:1
+📍https://www.google.com/maps?q=36.7,138.2&ll=36.7,138.2&z=7&t=h
+地震発生日時:2025-12-05 15:09頃
+(10倍速▶90s→9s) #地震
+
+[2025-12-05 15:12:47](https://bsky.app/profile/sokuho.news/post/3m77tetszce2m)
+
+---
+
+@sokuho.news
+
+🔔気象庁より【地震速報】です。
+
+15時9分頃、長野県で最大震度1の地震を観測しました。
+震源:長野県北部, 深さ:ごく浅い, 規模:M2.3
+この地震による津波の心配はありません。
+(2025-12-05 15:12:24) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/05/2025-12-05-15-09-49.html?xlarge_image=1
+
+[2025-12-05 15:12:25](https://bsky.app/profile/sokuho.news/post/3m77te7y5ct2p)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】伊豆の国市の病院から逃走した54歳男を三島市内で確保「山か海に行って…」病院に置手紙（静岡）
+(2025-12-05 14:50) #ニュース
+
+[2025-12-05 15:11:30](https://bsky.app/profile/sokuho.news/post/3m77tckjpyo2y)
+
+---
+
+@reuters.com
+
+Dollar hovers near five-week low on Fed rate cut bets reut.rs/49XIYNN
+
+[2025-12-05 15:10:09](https://bsky.app/profile/reuters.com/post/3m77ta5qg6p2a)
+
+---
 
 @sokuho.news
 
@@ -58,83 +141,6 @@
 https://news.web.nhk/newsweb/na/na-k10014994801000
 
 [2025-12-05 15:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77syuch562j)
-
----
-
-@reuters.com
-
-Somalis arrested in Minneapolis immigration operation, officials say reut.rs/4pq7Pi0
-
-[2025-12-05 15:05:07](https://bsky.app/profile/reuters.com/post/3m77sx5cddh2r)
-
----
-
-@sokuho.news
-
-🔔ANNより【速報】です。
-
-【速報】木南晴夏（40）第2子の出産を報告
-(15:01) #ニュース
-
-[2025-12-05 15:04:20](https://bsky.app/profile/sokuho.news/post/3m77svq6x2i2y)
-
----
-
-@nhknewsunofficial.bsky.social
-
-佐川急便の荷物制限 国交相“必要に応じ関係業界に働きかけ”
-https://news.web.nhk/newsweb/na/na-k10014994851000
-
-[2025-12-05 15:03:06](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77stmpauh2n)
-
----
-
-@nhknewsunofficial.bsky.social
-
-静岡 伊豆の国 病院から逃走の被告 三島市内で身柄確保 県警
-https://news.web.nhk/newsweb/na/na-k10014994551000
-
-[2025-12-05 15:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77stidesr24)
-
----
-
-@nikkei.com
-
-SNS炎上狙う「レイジベイト(怒りの餌)」
-オックスフォード大学出版局、2025年の言葉に
-www.nikkei.com/article/DGXZQO...
-
-レイジベイトの使用頻度は過去12カ月で3倍に増加。
-
-特に「陰謀論に基づく意図的な誤情報」という形式で投稿されることが多いといいます。
-
-日本でも、奈良公園で外国人とされる人物がシカをたたいたとする動画が炎上し、拡散されました。
-
-[2025-12-05 15:01:58](https://bsky.app/profile/nikkei.com/post/3m77srj5utk22)
-
----
-
-@sokuho.news
-
-<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>静岡 伊豆の国 病院から逃走の被告 三島市内で身柄確保 県警</strong><br><strong>(2025-12-05 15:00:09) #ニュース</strong>
-
-[2025-12-05 15:00:38](https://bsky.app/profile/sokuho.news/post/3m77sp4x5if2g)
-
----
-
-@reuters.com
-
-Saluda Medical tanks on ASX debut as investors demand clearer path to profits reut.rs/3MGiNkQ
-
-[2025-12-05 15:00:33](https://bsky.app/profile/reuters.com/post/3m77soxw5m227)
-
----
-
-@aljazeera.com
-
-Meeting to boost ties comes as India seeks reprieve from US oil sanctions related to war in Ukraine.
-
-[2025-12-05 15:00:21](https://bsky.app/profile/aljazeera.com/post/3m77som2tpt2a)
 
 ---
 
