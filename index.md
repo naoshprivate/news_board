@@ -1,9 +1,9 @@
-# [2025-12-06 06:50 updated](2025_12_06.md)
+# [2025-12-06 07:10 updated](2025_12_06.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">In Somalia, people are pushing back and pointing to the positives after President Trump disparaged their country. n.pr/3XD2VCc <a href="https://bsky.app/profile/npr.org/post/3m7bhphcmvp2y" target="_blank">npr.org</a> (2025-12-06 06:49:17)</span><span style="padding-right:50px;">【動画】Pickup NEWS（12月6日） https://news.web.nhk/newsweb/na/na-k10014995631000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bhnbousl2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-06 06:48:02)</span><span style="padding-right:50px;">China's vice premier holds 'constructive' call with Bessent and Greer reut.rs/44cqPbd <a href="https://bsky.app/profile/reuters.com/post/3m7bhiakfrm27" target="_blank">reuters.com</a> (2025-12-06 06:45:15)</span><span style="padding-right:50px;">A federal judge in Florida ordered the unsealing of grand jury transcripts from the Jeffrey Epstein investigation, siding with the Justice Department after multiple judges previously rejected similar requests from the government. <a href="https://bsky.app/profile/washingtonpost.com/post/3m7bhhvmmaq2e" target="_blank">washingtonpost.com</a> (2025-12-06 06:45:04)</span><span style="padding-right:50px;">The US will reassert its dominance in the Western Hemisphere, build military strength in the Indo-Pacific, and possibly reassess its relationship with Europe, President Trump said in a sweeping strategy document that seeks to reframe the country's role in the world reut.rs/49Up4mJ <a href="https://bsky.app/profile/reuters.com/post/3m7bhcugszk2l" target="_blank">reuters.com</a> (2025-12-06 06:42:15)</span>
+<span style="padding-right:50px;">AI credit concerns playing out differently in investment grade and high yield, Goldman says reut.rs/4ayXmMy <a href="https://bsky.app/profile/reuters.com/post/3m7bilulcel2i" target="_blank">reuters.com</a> (2025-12-06 07:05:11)</span><span style="padding-right:50px;">JR東海道線 運転見合わせ 東京～熱海の上下線 https://news.web.nhk/newsweb/na/na-k10014995881000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bii3uwws2g" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-06 07:03:02)</span><span style="padding-right:50px;">Winter Games medals get added lustre as metal prices soar reut.rs/48nrWYc <a href="https://bsky.app/profile/reuters.com/post/3m7biepvpie2k" target="_blank">reuters.com</a> (2025-12-06 07:01:11)</span><span style="padding-right:50px;">From a cookie press with a cult following to a slice-and-bake set with stunning precision, these key tools and foolproof recipes custom-designed for them will raise your baking game sky high on.wsj.com/4aApq21 <a href="https://bsky.app/profile/wsj.com/post/3m7bieati5u22" target="_blank">wsj.com</a> (2025-12-06 07:00:55)</span><span style="padding-right:50px;">International soccer's governing body will announce the recipient of its first ever FIFA Peace Prize at the World Cup draw in Washington, DC. <a href="https://bsky.app/profile/usatoday.com/post/3m7bidumcoa2d" target="_blank">usatoday.com</a> (2025-12-06 07:00:42)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.45 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.34 (🔺0.29 : 2025-12-05)</span>
+<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.45 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.30 (🔺0.25 : 2025-12-05)</span>
   </div>
 </div>
 
@@ -32,94 +32,96 @@
 
 ## News Headlines
 
-1. トランプ大統領、ソマリア国民を侮辱発言もポジティブな反発
-2. 中国副首相、米財界要人と「建設的」な電話会談
-3. 米国、西半球での優位性再確立、インド太平洋で軍事力強化へ
-4. FIFA新設平和賞、ガザ和平への外交努力でトランプ大統領に
-5. スペイン、豚熱発生原因を調査、研究所からの漏洩か
-6. Netflix、ワーナー買収失敗で敵対的買収も
+1. AIクレジット、投資適格級とハイイールドで異なる懸念
+2. JR東海道線、東京～熱海で運転見合わせ
+3. 冬季五輪メダル、金属価格高騰で価値増
+4. Netflix、ワーナーとの契約で独占調査の可能性
+5. スウェーデン政府、犯罪組織リーダーの市民権剥奪を提案
+6. 建築家フランク・ゲーリー氏死去、96歳
 
 ----
 
-@npr.org
+@reuters.com
 
-In Somalia, people are pushing back and pointing to the positives after President Trump disparaged their country. n.pr/3XD2VCc
+AI credit concerns playing out differently in investment grade and high yield, Goldman says reut.rs/4ayXmMy
 
-[2025-12-06 06:49:17](https://bsky.app/profile/npr.org/post/3m7bhphcmvp2y)
+[2025-12-06 07:05:11](https://bsky.app/profile/reuters.com/post/3m7bilulcel2i)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-【動画】Pickup NEWS（12月6日）
-https://news.web.nhk/newsweb/na/na-k10014995631000
+JR東海道線 運転見合わせ 東京～熱海の上下線
+https://news.web.nhk/newsweb/na/na-k10014995881000
 
-[2025-12-06 06:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bhnbousl2j)
+[2025-12-06 07:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bii3uwws2g)
 
 ---
 
 @reuters.com
 
-China's vice premier holds 'constructive' call with Bessent and Greer reut.rs/44cqPbd
+Winter Games medals get added lustre as metal prices soar reut.rs/48nrWYc
 
-[2025-12-06 06:45:15](https://bsky.app/profile/reuters.com/post/3m7bhiakfrm27)
+[2025-12-06 07:01:11](https://bsky.app/profile/reuters.com/post/3m7biepvpie2k)
+
+---
+
+@wsj.com
+
+From a cookie press with a cult following to a slice-and-bake set with stunning precision, these key tools and foolproof recipes custom-designed for them will raise your baking game sky high on.wsj.com/4aApq21
+
+[2025-12-06 07:00:55](https://bsky.app/profile/wsj.com/post/3m7bieati5u22)
+
+---
+
+@usatoday.com
+
+International soccer's governing body will announce the recipient of its first ever FIFA Peace Prize at the World Cup draw in Washington, DC.
+
+[2025-12-06 07:00:42](https://bsky.app/profile/usatoday.com/post/3m7bidumcoa2d)
+
+---
+
+@aljazeera.com
+
+At least 86 people have been killed in strikes on alleged drug trafficking boats that experts call illegal killings.
+
+[2025-12-06 07:00:39](https://bsky.app/profile/aljazeera.com/post/3m7bidrcxa32c)
+
+---
+
+@bloomberg.com
+
+The Trump administration has rolled back EV incentives, but charging companies see growth ahead. Here's why.
+
+[2025-12-06 07:00:26](https://bsky.app/profile/bloomberg.com/post/3m7bideq5ai2y)
+
+---
+
+@wsj.com
+
+Netflix’s deal with Warner Bros. Discovery is expected to be investigated by the Justice Department, which has already begun considering how it would further cement the streaming company's dominance in the media industry.
+
+[2025-12-06 07:00:19](https://bsky.app/profile/wsj.com/post/3m7bid65azp2i)
+
+---
+
+@cnn.com
+
+The Swedish government has proposed changes to the constitution that would allow revoking the citizenship of some criminal gang leaders, as part of its work to combat widespread organized crime.
+https://cnn.it/3KKug2j
+
+[2025-12-06 07:00:15](https://bsky.app/profile/cnn.com/post/3m7bid2nu3o2n)
 
 ---
 
 @washingtonpost.com
 
-A federal judge in Florida ordered the unsealing of grand jury transcripts from the Jeffrey Epstein investigation, siding with the Justice Department after multiple judges previously rejected similar requests from the government.
+New Mexico launched a state pilot program offering monthly $500 payments to teens experiencing housing insecurity and other issues.
 
-[2025-12-06 06:45:04](https://bsky.app/profile/washingtonpost.com/post/3m7bhhvmmaq2e)
+The initiative aims to help remove barriers that keep them from attending school.
 
----
-
-@reuters.com
-
-The US will reassert its dominance in the Western Hemisphere, build military strength in the Indo-Pacific, and possibly reassess its relationship with Europe, President Trump said in a sweeping strategy document that seeks to reframe the country's role in the world reut.rs/49Up4mJ
-
-[2025-12-06 06:42:15](https://bsky.app/profile/reuters.com/post/3m7bhcugszk2l)
-
----
-
-@nhknewsunofficial.bsky.social
-
-FIFA 新設の平和賞 米トランプ大統領に“ガザ和平へ外交努力”
-https://news.web.nhk/newsweb/na/na-k10014995851000
-
-[2025-12-06 06:42:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bhcjjaun2p)
-
----
-
-@reuters.com
-
-From hunted to hunter, comeback king Verstappen chases fifth title reut.rs/48xSp40
-
-[2025-12-06 06:40:19](https://bsky.app/profile/reuters.com/post/3m7bh7foyoz26)
-
----
-
-@cbsnews.com
-
-Brian Cole Jr., suspect in D.C. pipe bomb case, ordered detained after first court appearance.
-
-[2025-12-06 06:40:02](https://bsky.app/profile/cbsnews.com/post/3m7bh6vc6742z)
-
----
-
-@financialtimes.com
-
-Reform UK strips council leader of membership over undisclosed X account on.ft.com/4oyJky1
-
-[2025-12-06 06:39:26](https://bsky.app/profile/financialtimes.com/post/3m7bh5t5qiz2q)
-
----
-
-@reuters.com
-
-Spain probes whether swine fever outbreak was caused by lab leak reut.rs/3MqD4La
-
-[2025-12-06 06:35:10](https://bsky.app/profile/reuters.com/post/3m7bgw7mjgq2o)
+[2025-12-06 07:00:13](https://bsky.app/profile/washingtonpost.com/post/3m7bicymctn2g)
 
 ---
 
