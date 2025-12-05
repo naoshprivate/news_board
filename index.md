@@ -1,9 +1,9 @@
-# [2025-12-05 18:50 updated](2025_12_05.md)
+# [2025-12-05 19:10 updated](2025_12_05.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Ireland, the Netherlands, Spain and Slovenia said they were pulling out of the contest after organizers decided to allow Israel to continue to compete, despite tensions over its conduct in Gaza. n.pr/3Mk77nV <a href="https://bsky.app/profile/npr.org/post/3m7a7hm3j7y2s" target="_blank">npr.org</a> (2025-12-05 18:49:04)</span><span style="padding-right:50px;">India's steel exports to Europe set to drop as EU carbon tax looms reut.rs/4pk2fNZ <a href="https://bsky.app/profile/reuters.com/post/3m7a7apjuy62i" target="_blank">reuters.com</a> (2025-12-05 18:45:13)</span><span style="padding-right:50px;">Meet Binance's new co-CEO Yi He: The mysterious and omnipresent 'life partner' of CZ <a href="https://bsky.app/profile/cnbc.com/post/3m7a74u4rtz2h" target="_blank">cnbc.com</a> (2025-12-05 18:43:04)</span><span style="padding-right:50px;">スルガ銀行 不正融資問題 被害解決に向けた具体案 年内提示へ https://news.web.nhk/newsweb/na/na-k10014995261000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7a733m4uk2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-05 18:42:02)</span><span style="padding-right:50px;">India's IOC, BPCL buy Jan-load sanctions-compliant Russian oil, sources say reut.rs/48B2xc6 <a href="https://bsky.app/profile/reuters.com/post/3m7a6xqh2q52n" target="_blank">reuters.com</a> (2025-12-05 18:40:12)</span>
+<span style="padding-right:50px;">Netflix reportedly closes in on Warner Bros deal <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7aak7dqzo2w" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-05 19:08:25)</span><span style="padding-right:50px;">Treasury yields inch lower as investors await delayed inflation data <a href="https://bsky.app/profile/cnbc.com/post/3m7aahg7pfj2e" target="_blank">cnbc.com</a> (2025-12-05 19:06:52)</span><span style="padding-right:50px;">In Nigeria, anguish turns to anger for parents of kidnapped children reut.rs/4oGWcSL <a href="https://bsky.app/profile/reuters.com/post/3m7aaei3y4b2w" target="_blank">reuters.com</a> (2025-12-05 19:05:13)</span><span style="padding-right:50px;">🛎️ポストセブンより【独占】です。  『ヤヌスの鏡』から40年、杉浦幸が写真集で円熟ボディを解禁！ 秘蔵アザーカットを独占公開 (2025-12-05 19:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7aadfzrma2l" target="_blank">sokuho.news</a> (2025-12-05 19:04:37)</span><span style="padding-right:50px;">5 stocks that Goldman gives over 70% upside in the coming year <a href="https://bsky.app/profile/cnbc.com/post/3m7aad5e7oe2g" target="_blank">cnbc.com</a> (2025-12-05 19:04:28)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47850.94 (🔻37.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.38 (🔺1.76 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 154.94 (🔻0.11 : 2025-12-05)</span>
+<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47850.94 (🔻37.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.38 (🔺1.76 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.00 (🔻0.05 : 2025-12-05)</span>
   </div>
 </div>
 
@@ -32,105 +32,105 @@
 
 ## News Headlines
 
-1. 欧州4カ国、イスラエルのユーロビジョン参加に抗議し撤退
-2. EU炭素税導入でインドの鉄鋼輸出が減少へ
-3. スルガ銀行、不正融資問題の解決案を年内提示へ
-4. コメ平均価格が最高値更新、5キロ当たり4335円
-5. 内田洋行、100万人規模のネット受験基盤を開発
-6. 円相場上昇、日銀の追加利上げ観測が続く
+1. Netflix、ワーナー作品の買収で合意間近か
+2. ナイジェリア誘拐事件、親たちの怒りと悲しみ
+3. ゴールドマン、来年70%以上の上昇見込む5銘柄
+4. 首都圏連続強盗、「闇バイト」指示役を初逮捕
+5. スルガ銀行、不正融資問題の解決案を年内提示へ
+6. コメ平均価格が最高値を更新、5キロ当たり4335円
 
 ----
 
-@npr.org
+@bbcnews-world-rss.bsky.social
 
-Ireland, the Netherlands, Spain and Slovenia said they were pulling out of the contest after organizers decided to allow Israel to continue to compete, despite tensions over its conduct in Gaza. n.pr/3Mk77nV
+Netflix reportedly closes in on Warner Bros deal
 
-[2025-12-05 18:49:04](https://bsky.app/profile/npr.org/post/3m7a7hm3j7y2s)
-
----
-
-@reuters.com
-
-India's steel exports to Europe set to drop as EU carbon tax looms reut.rs/4pk2fNZ
-
-[2025-12-05 18:45:13](https://bsky.app/profile/reuters.com/post/3m7a7apjuy62i)
+[2025-12-05 19:08:25](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7aak7dqzo2w)
 
 ---
 
 @cnbc.com
 
-Meet Binance's new co-CEO Yi He: The mysterious and omnipresent 'life partner' of CZ
+Treasury yields inch lower as investors await delayed inflation data
 
-[2025-12-05 18:43:04](https://bsky.app/profile/cnbc.com/post/3m7a74u4rtz2h)
-
----
-
-@nhknewsunofficial.bsky.social
-
-スルガ銀行 不正融資問題 被害解決に向けた具体案 年内提示へ
-https://news.web.nhk/newsweb/na/na-k10014995261000
-
-[2025-12-05 18:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7a733m4uk2k)
+[2025-12-05 19:06:52](https://bsky.app/profile/cnbc.com/post/3m7aahg7pfj2e)
 
 ---
 
 @reuters.com
 
-India's IOC, BPCL buy Jan-load sanctions-compliant Russian oil, sources say reut.rs/48B2xc6
+In Nigeria, anguish turns to anger for parents of kidnapped children reut.rs/4oGWcSL
 
-[2025-12-05 18:40:12](https://bsky.app/profile/reuters.com/post/3m7a6xqh2q52n)
-
----
-
-@reuters.com
-
-Turkey's Paribu buys majority stake in Bahrain's CoinMENA, valuing it at up to $240 mln reut.rs/3KJFnbN
-
-[2025-12-05 18:35:08](https://bsky.app/profile/reuters.com/post/3m7a6oonmyj2k)
+[2025-12-05 19:05:13](https://bsky.app/profile/reuters.com/post/3m7aaei3y4b2w)
 
 ---
 
-@bloomberg.com
+@sokuho.news
 
-Footballer Cristiano Ronaldo has taken a stake in Perplexity AI, marking the Portuguese star’s most high-profile investment to date.
+🛎️ポストセブンより【独占】です。
 
-Read more: bloom.bg/3KGGQj6
+『ヤヌスの鏡』から40年、杉浦幸が写真集で円熟ボディを解禁！ 秘蔵アザーカットを独占公開
+(2025-12-05 19:00) #ニュース
 
-📷️: Abdullah Ahmed/Getty Images
+[2025-12-05 19:04:37](https://bsky.app/profile/sokuho.news/post/3m7aadfzrma2l)
 
-[2025-12-05 18:35:06](https://bsky.app/profile/bloomberg.com/post/3m7a6omcosp2h)
+---
+
+@cnbc.com
+
+5 stocks that Goldman gives over 70% upside in the coming year
+
+[2025-12-05 19:04:28](https://bsky.app/profile/cnbc.com/post/3m7aad5e7oe2g)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-スーパーで販売 コメ平均価格 最高値更新 5キロ当たり4335円
-https://news.web.nhk/newsweb/na/na-k10014995241000
+プーチン大統領 インド訪問 モディ首相と首脳会談
+https://news.web.nhk/newsweb/na/na-k10014994711000
 
-[2025-12-05 18:33:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7a6kyzn5b2j)
+[2025-12-05 19:03:11](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7aaavsin72r)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+自民と維新 衆院議員の定数削減法案 共同で国会に提出
+https://news.web.nhk/newsweb/na/na-k10014995141000
+
+[2025-12-05 19:03:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7aaarao7x2e)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+マンション住民なりすまし相次ぐ 修繕工事の受注ねらいか
+https://news.web.nhk/newsweb/na/na-k10014995301000
+
+[2025-12-05 19:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7aaamo5vq24)
+
+---
+
+@en.afp.com
+
+🇭🇰 Hong Kong dog owner grateful after rescue from fire
+
+When Jacky Lee first heard about a raging fire at the Hong Kong housing estate where she lived, she feared that she would never see her 15-year-old grey poodle again. The 43-year-old recounts how the dog was finally rescued by firefighters.
+
+[2025-12-05 19:02:02](https://bsky.app/profile/en.afp.com/post/3m7aa6rggml2u)
 
 ---
 
 @nikkei.com
 
-100万人がネット受験できる基盤　内田洋行が開発
+首都圏連続強盗「闇バイト」指示役を初逮捕　スマホ750台解析で特定
 www.nikkei.com/article/DGXZQO...
 
-これまでは20万人ほどが限界で、全国学力調査の試験日を分散していた小学6年生が同日に受験できるようになります。
+電子鑑識により、秘匿性の高い通信アプリ「シグナル」で消去されたメッセージの一部を復元することに成功したといいます。
 
-オンライン試験（CBT）プラットフォームは手書きで回答や採点をする必要がなく、利便性の高さから普及し始めています。
+指示役らは「夏目漱石」や「JOJO」など50以上のアカウントを使っていたことが判明しました。
 
-司法試験などでもデジタル化が進むなか、国家試験での採用も目指します。
-
-[2025-12-05 18:31:56](https://bsky.app/profile/nikkei.com/post/3m7a6ixs4a32i)
-
----
-
-@aljazeera.com
-
-Residents of Caracas go about their routines amid growing anxiety over the deployment of US military assets offshore.
-
-[2025-12-05 18:30:21](https://bsky.app/profile/aljazeera.com/post/3m7a6g56qqt2c)
+[2025-12-05 19:01:56](https://bsky.app/profile/nikkei.com/post/3m7aa6ly76l2k)
 
 ---
 
