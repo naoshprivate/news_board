@@ -1,9 +1,9 @@
-# [2025-12-06 05:50 updated](2025_12_06.md)
+# [2025-12-06 06:10 updated](2025_12_06.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">France investigates reports of drones over nuclear sub base reut.rs/3McZakr <a href="https://bsky.app/profile/reuters.com/post/3m7be4xgli72n" target="_blank">reuters.com</a> (2025-12-06 05:45:15)</span><span style="padding-right:50px;">Breaking news: Architect Frank Gehry, whose provocatively adventurous buildings helped liberate modernist architecture from its conventions and won him wide admiration, has died at 96. <a href="https://bsky.app/profile/washingtonpost.com/post/3m7be4oaxaw2e" target="_blank">washingtonpost.com</a> (2025-12-06 05:45:06)</span><span style="padding-right:50px;">UK's Telecom Plus eyes acquisition of Ovo's retail energy unit, FT reports reut.rs/4iZDYe5 <a href="https://bsky.app/profile/reuters.com/post/3m7bdu3mn4w2i" target="_blank">reuters.com</a> (2025-12-06 05:40:18)</span><span style="padding-right:50px;">Former Ohio State University students trying to get billionaire Les Wexner to testify about Richard Strauss — a former campus doctor who allegedly abused dozens of men — staged a protest at a board of trustees meeting, where they brought up Wexner’s past friendship with Jeffrey Epstein. <a href="https://bsky.app/profile/nbcnews.com/post/3m7bdtuelob2f" target="_blank">nbcnews.com</a> (2025-12-06 05:40:10)</span><span style="padding-right:50px;">News Analysis: Almost every time Pope Leo XIV spoke publicly during his trip to Turkey and Lebanon, he appealed for unity and an end to violence. He also echoed one of the themes he set out in the first days of his papacy, calling out the risks of A.I. and other rapidly advancing technologies. <a href="https://bsky.app/profile/nytimes.com/post/3m7bdtq5tok2g" target="_blank">nytimes.com</a> (2025-12-06 05:40:06)</span>
+<span style="padding-right:50px;">Spain, Ireland, the Netherlands and Slovenia are boycotting next year’s Eurovision song contest over Israel. <a href="https://bsky.app/profile/wsj.com/post/3m7bfhj2qeo2i" target="_blank">wsj.com</a> (2025-12-06 06:09:03)</span><span style="padding-right:50px;">US follows up on Congo-Rwanda peace deal with plan to secure minerals reut.rs/4iGoOtH <a href="https://bsky.app/profile/reuters.com/post/3m7bfakuhbr2i" target="_blank">reuters.com</a> (2025-12-06 06:05:10)</span><span style="padding-right:50px;">Happy couples know that good communication can transform relationships. Marriage expert Brian Page shares the No. 1 question he wishes more people would ask their partners. It can prevent resentment and add longevity to any relationship. <a href="https://bsky.app/profile/cnbc.com/post/3m7bf7xetyk2x" target="_blank">cnbc.com</a> (2025-12-06 06:04:50)</span><span style="padding-right:50px;">衆院議員の定数削減法案 審議入りの見通し立たず https://news.web.nhk/newsweb/na/na-k10014995591000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bf4t2zoo2t" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-06 06:03:02)</span><span style="padding-right:50px;">Vanity Fair will part ways with Olivia Nuzzi, its West Coast editor, at the end of the year. Nuzzi and the magazine have faced a storm of controversy over her past romantic relationship with Robert F. Kennedy Jr., the health secretary. <a href="https://bsky.app/profile/nytimes.com/post/3m7bf2ydyar2w" target="_blank">nytimes.com</a> (2025-12-06 06:02:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47913.97 (🔺34.37 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23539.78 (🔻27.99 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 181.48 (🔻2.38 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.30 (🔺0.25 : 2025-12-05)</span>
+<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.45 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.30 (🔺0.25 : 2025-12-05)</span>
   </div>
 </div>
 
@@ -32,94 +32,98 @@
 
 ## News Headlines
 
-1.  建築家フランク・ゲーリー氏死去、96歳　グッゲンハイム美術館ビルバオなどを設計
-2.  トランプ氏、台湾を巡る中国との紛争防止戦略を発表
-3.  米消費者信頼感、12月上旬に改善
-4.  2026年W杯組み合わせ決定　アメリカはオーストラリア、パラグアイなどと対戦
-5.  エプスタイン事件、大陪審記録の公開を米裁判所が承認
-6.  AI開発めぐり 政府 個人情報保護法の改正案の概要まとめる
+1. 欧州各国、イスラエル参加のユーロビジョン・ソング・コンテストをボイコット
+2. 米国、コンゴ・ルワンダ和平合意受け鉱物資源確保策
+3. 衆院議員定数削減法案、審議入り見通し立たず
+4. 大和ハウス、データセンター工期を5分の1に短縮する新工法
+5. オーストラリア、16歳未満の子供へのソーシャルメディア利用禁止
+6. 建築家フランク・ゲーリー氏死去、96歳
 
 ----
 
-@reuters.com
+@wsj.com
 
-France investigates reports of drones over nuclear sub base reut.rs/3McZakr
+Spain, Ireland, the Netherlands and Slovenia are boycotting next year’s Eurovision song contest over Israel.
 
-[2025-12-06 05:45:15](https://bsky.app/profile/reuters.com/post/3m7be4xgli72n)
-
----
-
-@washingtonpost.com
-
-<strong><span style="color: red;">Breaking news:</span> Architect Frank Gehry, whose provocatively adventurous buildings helped liberate modernist architecture from its conventions and won him wide admiration, has died at 96.</strong>
-
-[2025-12-06 05:45:06](https://bsky.app/profile/washingtonpost.com/post/3m7be4oaxaw2e)
+[2025-12-06 06:09:03](https://bsky.app/profile/wsj.com/post/3m7bfhj2qeo2i)
 
 ---
 
 @reuters.com
 
-UK's Telecom Plus eyes acquisition of Ovo's retail energy unit, FT reports reut.rs/4iZDYe5
+US follows up on Congo-Rwanda peace deal with plan to secure minerals reut.rs/4iGoOtH
 
-[2025-12-06 05:40:18](https://bsky.app/profile/reuters.com/post/3m7bdu3mn4w2i)
+[2025-12-06 06:05:10](https://bsky.app/profile/reuters.com/post/3m7bfakuhbr2i)
 
 ---
 
-@nbcnews.com
+@cnbc.com
 
-Former Ohio State University students trying to get billionaire Les Wexner to testify about Richard Strauss — a former campus doctor who allegedly abused dozens of men — staged a protest at a board of trustees meeting, where they brought up Wexner’s past friendship with Jeffrey Epstein.
+Happy couples know that good communication can transform relationships. Marriage expert Brian Page shares the No. 1 question he wishes more people would ask their partners. It can prevent resentment and add longevity to any relationship.
 
-[2025-12-06 05:40:10](https://bsky.app/profile/nbcnews.com/post/3m7bdtuelob2f)
+[2025-12-06 06:04:50](https://bsky.app/profile/cnbc.com/post/3m7bf7xetyk2x)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+衆院議員の定数削減法案 審議入りの見通し立たず
+https://news.web.nhk/newsweb/na/na-k10014995591000
+
+[2025-12-06 06:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bf4t2zoo2t)
 
 ---
 
 @nytimes.com
 
-News Analysis: Almost every time Pope Leo XIV spoke publicly during his trip to Turkey and Lebanon, he appealed for unity and an end to violence. He also echoed one of the themes he set out in the first days of his papacy, calling out the risks of A.I. and other rapidly advancing technologies.
+Vanity Fair will part ways with Olivia Nuzzi, its West Coast editor, at the end of the year. Nuzzi and the magazine have faced a storm of controversy over her past romantic relationship with Robert F. Kennedy Jr., the health secretary.
 
-[2025-12-06 05:40:06](https://bsky.app/profile/nytimes.com/post/3m7bdtq5tok2g)
-
----
-
-@en.afp.com
-
-Next year's FIFA World Cup, to be hosted by the United States, Mexico and Canada, will be the first to feature 48 teams. Here's the results of the draw, which took place at a star-studded ceremony in Washington
-
-[2025-12-06 05:39:20](https://bsky.app/profile/en.afp.com/post/3m7bdseqfeb2k)
+[2025-12-06 06:02:03](https://bsky.app/profile/nytimes.com/post/3m7bf2ydyar2w)
 
 ---
 
-@zacheverson.com
+@nikkei.com
 
-"Trump Vodka Is Coming Back After It Was Discontinued 14 Years Ago: Forbes Reporter Explains Why"
+大和ハウス、データセンターの工期5分の1　組み立て型の新工法
+www.nikkei.com/article/DGXZQO...
 
-me (aka Forbes Reporter), with Brittany Lewis for @forbes.com
+データセンターには建屋型・組み立て型・コンテナ型があります。
 
-[2025-12-06 05:36:59](https://bsky.app/profile/zacheverson.com/post/3m7bdo5obdy2r)
+建屋型は発注から竣工までに5年以上かかるケースもありますが、組み立て型であれば工期を約1年に短縮できます。
 
----
-
-@usatoday.com
-
-USA TODAY & the USA TODAY Network have announced a partnership with Perplexity, What does that mean? It means Perplexity’s search results and AI-curated answers will be based on the credible journalism created by your local newsroom. 
-
-[2025-12-06 05:35:13](https://bsky.app/profile/usatoday.com/post/3m7bdkymuna2j)
+[2025-12-06 06:01:56](https://bsky.app/profile/nikkei.com/post/3m7bf2rqtcl2t)
 
 ---
 
 @reuters.com
 
-US consumer sentiment improves in early December reut.rs/4pwc3EP
+Exclusive: Swiss government set to water down part of UBS capital rules, sources say reut.rs/48m19vj
 
-[2025-12-06 05:35:11](https://bsky.app/profile/reuters.com/post/3m7bdkwwoak2k)
+[2025-12-06 06:01:07](https://bsky.app/profile/reuters.com/post/3m7bezdai3t27)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@usatoday.com
 
-Architect Frank Gehry dead at 96 
+"Rudolph" will air on NBC for the second time this year after five decades on CBS.
 
-[2025-12-06 05:34:34](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7bdjunblf2w)
+[2025-12-06 06:01:01](https://bsky.app/profile/usatoday.com/post/3m7bez4px2o2h)
+
+---
+
+@aljazeera.com
+
+Landmark penalty triggers US fury as Brussels enforces first digital transparency sanction.
+
+[2025-12-06 06:00:52](https://bsky.app/profile/aljazeera.com/post/3m7beyuu4md2k)
+
+---
+
+@nbcnews.com
+
+President Trump touts Kennedy Center renovations at the World Cup draw in Washington D.C. 
+
+[2025-12-06 06:00:40](https://bsky.app/profile/nbcnews.com/post/3m7beyjahsw22)
 
 ---
 
