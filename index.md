@@ -1,9 +1,9 @@
-# [2025-12-05 23:30 updated](2025_12_05.md)
+# [2025-12-05 23:50 updated](2025_12_05.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Elon Musk's social media company X has been fined 120 million euros ($140 million) by EU tech regulators for breaching EU online content rules, the first sanction under landmark legislation that will likely draw the ire of the US government. https://cnn.it/4rFLpea <a href="https://bsky.app/profile/cnn.com/post/3m7ap2nrzpz2i" target="_blank">cnn.com</a> (2025-12-05 23:28:10)</span><span style="padding-right:50px;">‘Systemic failure’: Fury as tap water in Tunbridge Wells runs dry after treatment issue on.ft.com/3MFDkWG <a href="https://bsky.app/profile/financialtimes.com/post/3m7aoz2ktd727" target="_blank">financialtimes.com</a> (2025-12-05 23:27:16)</span><span style="padding-right:50px;">高市首相 自民党役員らと就任後初の夜会食 “結束し政権運営” https://news.web.nhk/newsweb/na/na-k10014995501000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7aoypjydd2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-05 23:27:02)</span><span style="padding-right:50px;">Uzbek state oil and gas company signs deal with Cargill to attract $3 billion in investments reut.rs/48Z92WL <a href="https://bsky.app/profile/reuters.com/post/3m7aov7w5xo2d" target="_blank">reuters.com</a> (2025-12-05 23:25:07)</span><span style="padding-right:50px;">From @theathleticfc.bsky.social: “Soccer” or “football”?  The origins of the various names for this sport, and the reason most of the world calls it “football,” are actually less clear than many fans assume. nyti.ms/49XShxc <a href="https://bsky.app/profile/nytimes.com/post/3m7aopsjdnr2d" target="_blank">nytimes.com</a> (2025-12-05 23:22:05)</span>
+<span style="padding-right:50px;">Bank of England and FCA announce plans to support growth of mutuals sector reut.rs/44Lb8If <a href="https://bsky.app/profile/reuters.com/post/3m7apzb5ulh2n" target="_blank">reuters.com</a> (2025-12-05 23:45:17)</span><span style="padding-right:50px;">As Yieldstreet tries to distance itself from a rocky past with a new name and ad campaign, its customers are dealing with a present reality that is increasingly dire.  Read more: cnb.cx/4pknvDh <a href="https://bsky.app/profile/cnbc.com/post/3m7apyxwjlt2j" target="_blank">cnbc.com</a> (2025-12-05 23:45:07)</span><span style="padding-right:50px;">During interviews with the FBI, the suspect arrested in the pipe bomb probe told investigators that he believed the 2020 election was stolen, people briefed on the matter said. https://cnn.it/4a0FdXW <a href="https://bsky.app/profile/cnn.com/post/3m7apvuh3tl2j" target="_blank">cnn.com</a> (2025-12-05 23:43:23)</span><span style="padding-right:50px;">“[Eurovision] cannot be used to whitewash Israel’s ongoing genocide in Gaza.”  The Green Party in the UK has urged the British gov't to “follow in the footsteps of Ireland, Spain, Slovenia and the Netherlands” in boycotting Eurovision.  🔴 LIVE updates: aje.io/aatkt4 <a href="https://bsky.app/profile/aljazeera.com/post/3m7apseavnk2h" target="_blank">aljazeera.com</a> (2025-12-05 23:41:25)</span><span style="padding-right:50px;">🇷🇼 The Rwanda camp giving a second chance to genocidal enemies  Former fighters of the Democratic Forces for the Liberation of Rwanda (FDLR), among them recent recruits and those who participated in the 1994 genocide in Rwanda, take part in a rehabilitation camp. <a href="https://bsky.app/profile/en.afp.com/post/3m7aprsmjho2o" target="_blank">en.afp.com</a> (2025-12-05 23:41:07)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47922.44 (🔺42.84 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.93 (🔺0.07 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.21 (🔺0.16 : 2025-12-05)</span>
+<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 48024.74 (🔺145.14 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.94 (🔺11.17 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 181.62 (🔻2.24 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.15 (🔺0.11 : 2025-12-05)</span>
   </div>
 </div>
 
@@ -32,96 +32,104 @@
 
 ## News Headlines
 
-1. EU、X（旧Twitter）に制裁金220億円　コンテンツ規制違反
-2. トンブリッジ・ウェルズで水道水供給停止、システム障害で市民生活に影響
-3. 高市首相、自民党役員と夜会食　結束確認で政権運営を強化
-4. ウズベク、カーギルと30億ドルの投資契約　石油・ガス開発を促進
-5. 米国主要農業企業、ロシア事業売却せず
-6. NYタイムズ、AI企業Perplexityを著作権侵害で提訴
+1. イングランド銀行とFCA、ミューチュアル・セクターの成長支援計画を発表
+2. Yieldstreet、過去の苦境からの脱却試みるも顧客は厳しい現実
+3. パイプ爆弾事件容疑者、FBIに2020年選挙は盗まれたと証言
+4. ユーロビジョン、イスラエルのジェノサイドを美化するなと英国緑の党がボイコット要求
+5. Netflix、ワーナー・ブラザース・ディスカバリーのスタジオ事業を買収へ
+6. EU、Xに制裁金220億円 デジタル規制違反で初の認定
 
 ----
 
+@reuters.com
+
+Bank of England and FCA announce plans to support growth of mutuals sector reut.rs/44Lb8If
+
+[2025-12-05 23:45:17](https://bsky.app/profile/reuters.com/post/3m7apzb5ulh2n)
+
+---
+
+@cnbc.com
+
+As Yieldstreet tries to distance itself from a rocky past with a new name and ad campaign, its customers are dealing with a present reality that is increasingly dire.
+
+Read more: cnb.cx/4pknvDh
+
+[2025-12-05 23:45:07](https://bsky.app/profile/cnbc.com/post/3m7apyxwjlt2j)
+
+---
+
 @cnn.com
 
-Elon Musk's social media company X has been fined 120 million euros ($140 million) by EU tech regulators for breaching EU online content rules, the first sanction under landmark legislation that will likely draw the ire of the US government.
-https://cnn.it/4rFLpea
+During interviews with the FBI, the suspect arrested in the pipe bomb probe told investigators that he believed the 2020 election was stolen, people briefed on the matter said.
+https://cnn.it/4a0FdXW
 
-[2025-12-05 23:28:10](https://bsky.app/profile/cnn.com/post/3m7ap2nrzpz2i)
-
----
-
-@financialtimes.com
-
-‘Systemic failure’: Fury as tap water in Tunbridge Wells runs dry after treatment issue on.ft.com/3MFDkWG
-
-[2025-12-05 23:27:16](https://bsky.app/profile/financialtimes.com/post/3m7aoz2ktd727)
+[2025-12-05 23:43:23](https://bsky.app/profile/cnn.com/post/3m7apvuh3tl2j)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@aljazeera.com
 
-高市首相 自民党役員らと就任後初の夜会食 “結束し政権運営”
-https://news.web.nhk/newsweb/na/na-k10014995501000
+“[Eurovision] cannot be used to whitewash Israel’s ongoing genocide in Gaza.”
 
-[2025-12-05 23:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7aoypjydd2b)
+The Green Party in the UK has urged the British gov't to “follow in the footsteps of Ireland, Spain, Slovenia and the Netherlands” in boycotting Eurovision.
+
+🔴 LIVE updates: aje.io/aatkt4
+
+[2025-12-05 23:41:25](https://bsky.app/profile/aljazeera.com/post/3m7apseavnk2h)
+
+---
+
+@en.afp.com
+
+🇷🇼 The Rwanda camp giving a second chance to genocidal enemies
+
+Former fighters of the Democratic Forces for the Liberation of Rwanda (FDLR), among them recent recruits and those who participated in the 1994 genocide in Rwanda, take part in a rehabilitation camp.
+
+[2025-12-05 23:41:07](https://bsky.app/profile/en.afp.com/post/3m7aprsmjho2o)
 
 ---
 
 @reuters.com
 
-Uzbek state oil and gas company signs deal with Cargill to attract $3 billion in investments reut.rs/48Z92WL
+Winter Games flame lit at Italy's presidential palace reut.rs/3KFxXX0
 
-[2025-12-05 23:25:07](https://bsky.app/profile/reuters.com/post/3m7aov7w5xo2d)
+[2025-12-05 23:40:15](https://bsky.app/profile/reuters.com/post/3m7apqbiozj27)
 
 ---
 
 @nytimes.com
 
-From @theathleticfc.bsky.social: “Soccer” or “football”?
+Netflix announced plans on Friday to acquire Warner Bros. Discovery’s studio and streaming business, in a deal that will bulk up the world’s biggest paid streaming service.
 
-The origins of the various names for this sport, and the reason most of the world calls it “football,” are actually less clear than many fans assume. nyti.ms/49XShxc
+Here's what we know: nyti.ms/48Z5jbJ
 
-[2025-12-05 23:22:05](https://bsky.app/profile/nytimes.com/post/3m7aopsjdnr2d)
-
----
-
-@nbcnews.com
-
-President Trump and first lady Melania Trump light the National Christmas Tree in Washington, D.C.
-
-[2025-12-05 23:20:28](https://bsky.app/profile/nbcnews.com/post/3m7aomvl3r52p)
+[2025-12-05 23:40:07](https://bsky.app/profile/nytimes.com/post/3m7appzonpy2d)
 
 ---
 
-@reuters.com
+@nhknewsunofficial.bsky.social
 
-European shares on track for weekly gains; US inflation in focus reut.rs/3Mi4rqS
+ミャンマー 民主派勢力外相“総選挙結果 日本は承認しないで”
+https://news.web.nhk/newsweb/na/na-k10014995651000
 
-[2025-12-05 23:15:15](https://bsky.app/profile/reuters.com/post/3m7aodliwji27)
-
----
-
-@npr.org
-
-After losing founder member Dave "Trugoy the Dove" Jolicoeur, De La Soul returns with Cabin in the Sky, an album shaped by grief, joy, and the group's timeless creativity. n.pr/48nH8od
-
-[2025-12-05 23:13:01](https://bsky.app/profile/npr.org/post/3m7ao7kv6ic23)
+[2025-12-05 23:39:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7apo6jpvn2e)
 
 ---
 
 @reuters.com
 
-US owner of major Russian agriculture firm says no plans to sell up reut.rs/4rUjqHU
+Ex-Lehman Brothers executive-backed Mayflower raises $500 million in London SPAC IPO reut.rs/3KH3Iis
 
-[2025-12-05 23:10:22](https://bsky.app/profile/reuters.com/post/3m7ao2tuyeg2w)
+[2025-12-05 23:35:11](https://bsky.app/profile/reuters.com/post/3m7aph7sx2o2i)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@cnbc.com
 
-Eritreans, including Olympian Zeragaber Gebrehiwot, freed after 18 years in jail without trial
+HPE stock sinks 9% on revenue miss and weak server numbers
 
-[2025-12-05 23:06:17](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7antkorc222)
+[2025-12-05 23:35:06](https://bsky.app/profile/cnbc.com/post/3m7aph2wikt2x)
 
 ---
 
