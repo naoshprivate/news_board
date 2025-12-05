@@ -1,9 +1,9 @@
-# [2025-12-06 03:30 updated](2025_12_06.md)
+# [2025-12-06 03:50 updated](2025_12_06.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">IndiGo's flight chaos spoils India's wedding parties reut.rs/4pK5oXo <a href="https://bsky.app/profile/reuters.com/post/3m7b4cmyvf327" target="_blank">reuters.com</a> (2025-12-06 03:25:16)</span><span style="padding-right:50px;">Rubrik stock rips 25% higher after blowing out earnings and boosting guidance <a href="https://bsky.app/profile/cnbc.com/post/3m7b4ciivlj2f" target="_blank">cnbc.com</a> (2025-12-06 03:25:11)</span><span style="padding-right:50px;">Boris Pistorius, Germany’s defense minister, is pushing to expand its military in case tensions with Russia escalate. The move has set off a turbulent national debate in a country where the Nazi era casts a long shadow. <a href="https://bsky.app/profile/nytimes.com/post/3m7b4cc4oyr2h" target="_blank">nytimes.com</a> (2025-12-06 03:25:05)</span><span style="padding-right:50px;">A treasure trove of 225 funerary figurines has been discovered inside a tomb in the ancient Egyptian capital of Tanis in the Nile Delta, a rare find that experts say has also solved a "long-standing archaeological mystery." <a href="https://bsky.app/profile/cbsnews.com/post/3m7b4324gvj23" target="_blank">cbsnews.com</a> (2025-12-06 03:21:01)</span><span style="padding-right:50px;">A cutting-edge surgery could fix a 12-year-old's scoliosis. Her insurance says it's too new to cover. <a href="https://bsky.app/profile/nbcnews.com/post/3m7b3zirtrj2t" target="_blank">nbcnews.com</a> (2025-12-06 03:20:10)</span>
+<span style="padding-right:50px;">✈️ India's aviation ministry has suspended a new policy of weekly rest for pilots that had triggered hundreds of flight cancellations by the country's biggest airline, IndiGo u.afp.com/S7Um <a href="https://bsky.app/profile/en.afp.com/post/3m7b5nag2ll2z" target="_blank">en.afp.com</a> (2025-12-06 03:49:06)</span><span style="padding-right:50px;">SpaceX is kicking off a secondary share sale that would value it at $800 billion, surpassing OpenAI as the most valuable U.S. private company. <a href="https://bsky.app/profile/wsj.com/post/3m7b5lqz56y2o" target="_blank">wsj.com</a> (2025-12-06 03:48:16)</span><span style="padding-right:50px;">【速報中】サッカーW杯2026 組み合わせ 日本はオランダと同組 https://news.web.nhk/newsweb/na/na-k10014994061000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7b5lgpjai26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-06 03:48:03)</span><span style="padding-right:50px;">BREAKING: Judge will release Jeffrey Epstein grand jury documents <a href="https://bsky.app/profile/axios.com/post/3m7b5icvkps2c" target="_blank">axios.com</a> (2025-12-06 03:46:21)</span><span style="padding-right:50px;">BREAKING: The grand jury transcripts are connected to a 2005 to 2007 case that was abandoned. <a href="https://bsky.app/profile/usatoday.com/post/3m7b5icmshi2d" target="_blank">usatoday.com</a> (2025-12-06 03:46:20)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 48031.67 (🔺152.07 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23587.12 (🔺19.35 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.22 (🔻1.64 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.30 (🔺0.25 : 2025-12-05)</span>
+<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 48043.09 (🔺163.49 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23580.17 (🔺12.40 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 181.91 (🔻1.95 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.28 (🔺0.23 : 2025-12-05)</span>
   </div>
 </div>
 
@@ -32,92 +32,93 @@
 
 ## News Headlines
 
-1. IndiGo航空、結婚式シーズンに混乱
-2. Rubrik株、好決算で急騰
-3. ドイツ国防相、軍拡推進で国内論争
-4. エジプトで225体の葬儀用小像を発見
-5. 連邦判事、エプスタイン事件の陪審記録公開を命令
-6. トランプ大統領、FIFA平和賞を受賞
+1.  インディゴ、パイロット休息義務停止で運航混乱収束へ
+2.  SpaceX、評価額8000億ドルでOpenAI超えか
+3.  W杯2026組み合わせ決定、日本はオランダと同組
+4.  エプスタイン事件、大陪審記録公開へ
+5.  中国のライブコマース、アバターとインフルエンサーが成長牽引
+6.  ガザ、現代史上最大規模の子ども切断者発生か
 
 ----
 
-@reuters.com
+@en.afp.com
 
-IndiGo's flight chaos spoils India's wedding parties reut.rs/4pK5oXo
+✈️ India's aviation ministry has suspended a new policy of weekly rest for pilots that had triggered hundreds of flight cancellations by the country's biggest airline, IndiGo u.afp.com/S7Um
 
-[2025-12-06 03:25:16](https://bsky.app/profile/reuters.com/post/3m7b4cmyvf327)
-
----
-
-@cnbc.com
-
-Rubrik stock rips 25% higher after blowing out earnings and boosting guidance
-
-[2025-12-06 03:25:11](https://bsky.app/profile/cnbc.com/post/3m7b4ciivlj2f)
+[2025-12-06 03:49:06](https://bsky.app/profile/en.afp.com/post/3m7b5nag2ll2z)
 
 ---
 
-@nytimes.com
+@wsj.com
 
-Boris Pistorius, Germany’s defense minister, is pushing to expand its military in case tensions with Russia escalate. The move has set off a turbulent national debate in a country where the Nazi era casts a long shadow.
+SpaceX is kicking off a secondary share sale that would value it at $800 billion, surpassing OpenAI as the most valuable U.S. private company.
 
-[2025-12-06 03:25:05](https://bsky.app/profile/nytimes.com/post/3m7b4cc4oyr2h)
-
----
-
-@cbsnews.com
-
-A treasure trove of 225 funerary figurines has been discovered inside a tomb in the ancient Egyptian capital of Tanis in the Nile Delta, a rare find that experts say has also solved a "long-standing archaeological mystery."
-
-[2025-12-06 03:21:01](https://bsky.app/profile/cbsnews.com/post/3m7b4324gvj23)
+[2025-12-06 03:48:16](https://bsky.app/profile/wsj.com/post/3m7b5lqz56y2o)
 
 ---
 
-@nbcnews.com
+@nhknewsunofficial.bsky.social
 
-A cutting-edge surgery could fix a 12-year-old's scoliosis. Her insurance says it's too new to cover.
+【速報中】サッカーW杯2026 組み合わせ 日本はオランダと同組
+https://news.web.nhk/newsweb/na/na-k10014994061000
 
-[2025-12-06 03:20:10](https://bsky.app/profile/nbcnews.com/post/3m7b3zirtrj2t)
-
----
-
-@nbcnews.com
-
-<strong><span style="color: red;">BREAKING:</span> Federal judge in Florida orders the release of transcripts from grand jury investigations into Jeffrey Epstein from 2005 and 2007.</strong>
-
-[2025-12-06 03:18:42](https://bsky.app/profile/nbcnews.com/post/3m7b3wvdupj2r)
-
----
-
-@apnews.com
-
-<strong><span style="color: red;">BREAKING:</span> A federal judge orders the unsealing of grand jury transcripts from abandoned Jeffrey Epstein investigation in Florida.</strong>
-
-[2025-12-06 03:18:07](https://bsky.app/profile/apnews.com/post/3m7b3vtnumj2r)
-
----
-
-@npr.org
-
-The D.C. Circuit Court of Appeals ruled 2 to 1 that President Trump's firings of Democratic members of the Merit Systems Protection Board and the National Labor Relations Board were lawful. n.pr/3McCEbp
-
-[2025-12-06 03:17:46](https://bsky.app/profile/npr.org/post/3m7b3v7k5fh23)
+[2025-12-06 03:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7b5lgpjai26)
 
 ---
 
 @axios.com
 
-NEW: Trump wins FIFA Peace Prize after Nobel snub
+<strong><span style="color: red;">BREAKING:</span> Judge will release Jeffrey Epstein grand jury documents</strong>
 
-[2025-12-06 03:16:12](https://bsky.app/profile/axios.com/post/3m7b3sfxewc25)
+[2025-12-06 03:46:21](https://bsky.app/profile/axios.com/post/3m7b5icvkps2c)
+
+---
+
+@usatoday.com
+
+<strong><span style="color: red;">BREAKING:</span> The grand jury transcripts are connected to a 2005 to 2007 case that was abandoned.</strong>
+
+[2025-12-06 03:46:20](https://bsky.app/profile/usatoday.com/post/3m7b5icmshi2d)
+
+---
+
+@financialtimes.com
+
+Netflix’s WBD deal swaps history for fantasy, with a dose of high drama on.ft.com/4a0PTWm
+
+[2025-12-06 03:46:05](https://bsky.app/profile/financialtimes.com/post/3m7b5hty46225)
 
 ---
 
 @reuters.com
 
-Former UK doctor charged with multiple sexual offences against patients reut.rs/4plHLo9
+Avatars, influencers in China livestreams help drive Reckitt's emerging-market led growth reut.rs/3MHs8ZG
 
-[2025-12-06 03:15:14](https://bsky.app/profile/reuters.com/post/3m7b3qpg3fz2r)
+[2025-12-06 03:45:15](https://bsky.app/profile/reuters.com/post/3m7b5getkf72i)
+
+---
+
+@forbes.com
+
+Netflix co-CEO Ted Sarandos said Friday theatrical release windows will “evolve to be much more consumer friendly.”
+
+[2025-12-06 03:45:04](https://bsky.app/profile/forbes.com/post/3m7b5g2lgl52z)
+
+---
+
+@nytimes.com
+
+Early signs suggest that Hong Kong’s worst fire in decades was the result of negligence, poor decisions and circumstance. Here is how the design of the buildings and the construction materials used may have contributed to its spread. nyti.ms/4pkOQVV
+
+[2025-12-06 03:45:03](https://bsky.app/profile/nytimes.com/post/3m7b5fzdj522y)
+
+---
+
+@cnbc.com
+
+Salesforce shares pop 5% after earnings beat, aiming for best week since 2023
+
+[2025-12-06 03:45:01](https://bsky.app/profile/cnbc.com/post/3m7b5fx575g23)
 
 ---
 
