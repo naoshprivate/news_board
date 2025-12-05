@@ -1,9 +1,9 @@
-# [2025-12-05 17:10 updated](2025_12_05.md)
+# [2025-12-05 17:30 updated](2025_12_05.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">障害がある人や家族などの体験記 「NHK障害福祉賞」贈呈式 https://news.web.nhk/newsweb/na/na-k10014995021000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77zurooqo24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-05 17:09:02)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】川崎市のリサイクル工場で火事 現在も延焼中 (2025-12-05 17:07:46) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m77zuk56wa2y" target="_blank">sokuho.news</a> (2025-12-05 17:08:56)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】＜運転再開＞JR東北本線『白石～大河原』、レール破損で一時運転見合わせ（再開は5日午後4時40分頃） (2025-12-05 17:08) #ニュース  🚃鉄道運行情報 🔗https://transit.yahoo.co.jp/diainfo <a href="https://bsky.app/profile/sokuho.news/post/3m77zto32lp27" target="_blank">sokuho.news</a> (2025-12-05 17:08:27)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】コメ平均価格4335円/5kg（前週比+23円）過去最高値更新 全国スーパー1000店舗 (2025年12月5日 17:07) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m77zrwsphx2d" target="_blank">sokuho.news</a> (2025-12-05 17:07:29)</span><span style="padding-right:50px;">Brian Walshe came face-to-face for the first time with the man who had been having an affair with his wife before her death, as he took the stand to testify in Walshe’s murder trial.  <a href="https://bsky.app/profile/cnn.com/post/3m77zr4rhxr2q" target="_blank">cnn.com</a> (2025-12-05 17:07:01)</span>
+<span style="padding-right:50px;">Instant View: India central bank cuts key rate, boosts liquidity reut.rs/48zpuMX <a href="https://bsky.app/profile/reuters.com/post/3m7a2rjmzq527" target="_blank">reuters.com</a> (2025-12-05 17:25:08)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】コメ平均価格5キロ4335円 過去最高値を更新 (2025-12-05 17:21:47) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7a2pwrm6g2m" target="_blank">sokuho.news</a> (2025-12-05 17:24:15)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】高市内閣 閣僚の平均資産は約6641万円 トップは小泉防衛大臣で2億7248万円 (2025-12-05 17:19:27) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7a2kmrys62m" target="_blank">sokuho.news</a> (2025-12-05 17:21:17)</span><span style="padding-right:50px;">🛎️新潮より【独自】です。  【独自】「自分と城島に何か説明をしてもらえないだろうか」 松岡昌宏が日本テレビに求める「歩み寄り」 (2025-12-05) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7a2kjbuxn2q" target="_blank">sokuho.news</a> (2025-12-05 17:21:13)</span><span style="padding-right:50px;">Over a third of animals lost in test deep sea mining - scientists <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7a2ftivd42h" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-05 17:18:36)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47850.94 (🔻37.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.38 (🔺1.76 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 154.77 (🔻0.27 : 2025-12-05)</span>
+<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47850.94 (🔻37.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.38 (🔺1.76 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 154.77 (🔻0.28 : 2025-12-05)</span>
   </div>
 </div>
 
@@ -32,21 +32,20 @@
 
 ## News Headlines
 
-1. 川崎市リサイクル工場で火災、延焼中
-2. JR東北本線、レール破損で一時運転見合わせ
-3. コメ平均価格、過去最高値更新
-4. 千葉で女性が切りつけられ死亡、同僚の男を逮捕
-5. 大阪府、1万円分の「お米クーポン」配布へ
-6. ヤクルト、青木宣親氏がGM就任へ
+1. インド中銀、主要金利引き下げと流動性供給
+2. コメ平均価格、過去最高値を更新
+3. 高市內閣閣僚の平均資産は約6641万円、トップは小泉防衛大臣
+4. インドネシア・スリランカ洪水、死者1500人超
+5. 川崎市のリサイクル工場で火災、延焼中
+6. サッカーJ1最終節、鹿島か柏か優勝決定戦
 
 ----
 
-@nhknewsunofficial.bsky.social
+@reuters.com
 
-障害がある人や家族などの体験記 「NHK障害福祉賞」贈呈式
-https://news.web.nhk/newsweb/na/na-k10014995021000
+Instant View: India central bank cuts key rate, boosts liquidity reut.rs/48zpuMX
 
-[2025-12-05 17:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77zurooqo24)
+[2025-12-05 17:25:08](https://bsky.app/profile/reuters.com/post/3m7a2rjmzq527)
 
 ---
 
@@ -54,94 +53,83 @@ https://news.web.nhk/newsweb/na/na-k10014995021000
 
 🛎️JNNより【速報】です。
 
-【速報】川崎市のリサイクル工場で火事 現在も延焼中
-(2025-12-05 17:07:46) #ニュース
+【速報】コメ平均価格5キロ4335円 過去最高値を更新
+(2025-12-05 17:21:47) #ニュース
 
-[2025-12-05 17:08:56](https://bsky.app/profile/sokuho.news/post/3m77zuk56wa2y)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】＜運転再開＞JR東北本線『白石～大河原』、レール破損で一時運転見合わせ（再開は5日午後4時40分頃）
-(2025-12-05 17:08) #ニュース
-
-🚃鉄道運行情報
-🔗https://transit.yahoo.co.jp/diainfo
-
-[2025-12-05 17:08:27](https://bsky.app/profile/sokuho.news/post/3m77zto32lp27)
+[2025-12-05 17:24:15](https://bsky.app/profile/sokuho.news/post/3m7a2pwrm6g2m)
 
 ---
 
 @sokuho.news
 
-🔔ANNより【速報】です。
+🛎️JNNより【速報】です。
 
-【速報】コメ平均価格4335円/5kg（前週比+23円）過去最高値更新 全国スーパー1000店舗
-(2025年12月5日 17:07) #ニュース
+【速報】高市内閣 閣僚の平均資産は約6641万円 トップは小泉防衛大臣で2億7248万円
+(2025-12-05 17:19:27) #ニュース
 
-[2025-12-05 17:07:29](https://bsky.app/profile/sokuho.news/post/3m77zrwsphx2d)
+[2025-12-05 17:21:17](https://bsky.app/profile/sokuho.news/post/3m7a2kmrys62m)
 
 ---
 
-@cnn.com
+@sokuho.news
 
-Brian Walshe came face-to-face for the first time with the man who had been having an affair with his wife before her death, as he took the stand to testify in Walshe’s murder trial. 
+🛎️新潮より【独自】です。
 
-[2025-12-05 17:07:01](https://bsky.app/profile/cnn.com/post/3m77zr4rhxr2q)
+【独自】「自分と城島に何か説明をしてもらえないだろうか」 松岡昌宏が日本テレビに求める「歩み寄り」
+(2025-12-05) #ニュース
+
+[2025-12-05 17:21:13](https://bsky.app/profile/sokuho.news/post/3m7a2kjbuxn2q)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Over a third of animals lost in test deep sea mining - scientists
+
+[2025-12-05 17:18:36](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7a2ftivd42h)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-サッカーJ1最終節 優勝は首位 鹿島か 2位 柏か 6日午後2時開始
-https://news.web.nhk/newsweb/na/na-k10014995081000
+スーパーのコメ平均価格 最高値更新 5キロあたり4335円
+https://news.web.nhk/newsweb/na/na-k10014995241000
 
-[2025-12-05 17:06:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77zpkuvrm2k)
-
----
-
-@nhknewsunofficial.bsky.social
-
-千葉 女性が切りつけられ死亡 同僚の男を殺人未遂容疑で逮捕
-https://news.web.nhk/newsweb/na/na-k10014995171000
-
-[2025-12-05 17:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77zpg6d2m2r)
+[2025-12-05 17:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7a2euu46u2r)
 
 ---
 
 @reuters.com
 
-Putin and Modi discuss trade, peace in New Delhi summit reut.rs/48xbOSz
+Gold rises as dollar weakens ahead of US inflation test reut.rs/48TcdQH
 
-[2025-12-05 17:05:08](https://bsky.app/profile/reuters.com/post/3m77znqpyyh2y)
-
----
-
-@nhknewsunofficial.bsky.social
-
-インフルエンザ患者数 前週から減少も依然として多い状況
-https://news.web.nhk/newsweb/na/na-k10014995121000
-
-[2025-12-05 17:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77zk2s3p624)
+[2025-12-05 17:15:10](https://bsky.app/profile/reuters.com/post/3m7a27p45gg2e)
 
 ---
 
-@nikkei.com
+@cnbc.com
 
-腐敗横行のメキシコ、移民は「食い物」
-役所も警察も弁護士も寄生
-www.nikkei.com/article/DGXZQO...
+Taiwan bans Chinese social media app RedNote for one year on fraud risks
 
-「メキシコは本当に信用できない。来る途中で何もかも奪われたわ」
+[2025-12-05 17:14:43](https://bsky.app/profile/cnbc.com/post/3m7a26urgrp23)
 
-2024年3月、経済悪化が続くベネズエラに見切りをつけ、家族6人で危険なジャングル地帯を越えたある移民はこう振り返ります。
+---
 
-滞在資格のない移民が生きていくのに欠かせないスマートフォンを奪ったのは、メキシコ移民当局の事務官でした。
+@en.afp.com
 
-[2025-12-05 17:01:56](https://bsky.app/profile/nikkei.com/post/3m77zhzmhym2k)
+More rain looms as survivors in Indonesia and Sri Lanka begin piecing back shattered lives after devastating floods killed more than 1,500 people across four countries
+
+u.afp.com/S7oq
+
+[2025-12-05 17:10:23](https://bsky.app/profile/en.afp.com/post/3m77zx4ovie2e)
+
+---
+
+@reuters.com
+
+India's RBI to deliver up to $16 billion liquidity boost for bond markets reut.rs/48Sv1zv
+
+[2025-12-05 17:10:10](https://bsky.app/profile/reuters.com/post/3m77zwr4o7g2o)
 
 ---
 
