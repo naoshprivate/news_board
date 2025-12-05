@@ -1,9 +1,9 @@
-# [2025-12-05 20:50 updated](2025_12_05.md)
+# [2025-12-05 21:10 updated](2025_12_05.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">European Union regulators have fined Elon Musk's social media platform X 120 million euros for failing to comply with digital regulations. <a href="https://bsky.app/profile/apnews.com/post/3m7afystnyj2c" target="_blank">apnews.com</a> (2025-12-05 20:46:04)</span><span style="padding-right:50px;">横浜・2027年国際園芸博覧会の前売り券4900円　2026年3月発売 www.nikkei.com/article/DGXZQO...  「1日券」は2027年3月19日以降の会期中は5500円で販売。大阪・関西万博と比べ約2〜3割安くなります。  開幕後は「1日券」に加え、午後5時以降に1回入場できる「夜間券」を大人3500円で販売します。 <a href="https://bsky.app/profile/nikkei.com/post/3m7afylxajw2m" target="_blank">nikkei.com</a> (2025-12-05 20:45:57)</span><span style="padding-right:50px;">India aviation regulator allows partial relief on pilot duty rules reut.rs/3XCkhyV <a href="https://bsky.app/profile/reuters.com/post/3m7afx75bey2e" target="_blank">reuters.com</a> (2025-12-05 20:45:10)</span><span style="padding-right:50px;">A WSJ analysis of satellite images shows clear evidence of the Chinese military’s expanding footprint through a network of facilities that dot the Tibetan plateau. <a href="https://bsky.app/profile/wsj.com/post/3m7afvr7hws2j" target="_blank">wsj.com</a> (2025-12-05 20:44:22)</span><span style="padding-right:50px;">Putin says Russia is willing to supply 'uninterrupted' fuel to India, as U.S. pressures New Delhi to cut back <a href="https://bsky.app/profile/cnbc.com/post/3m7afvjmp3x2q" target="_blank">cnbc.com</a> (2025-12-05 20:44:14)</span>
+<span style="padding-right:50px;">Ocado to receive $350 million payout as Kroger shuts robotic warehouses reut.rs/3MplqHG <a href="https://bsky.app/profile/reuters.com/post/3m7ah2wjb732i" target="_blank">reuters.com</a> (2025-12-05 21:05:09)</span><span style="padding-right:50px;">This week, you'll need to be knowledgeable about holy media darlings, portrait-making techniques, and beloved Canadian icons — and that's just three questions. n.pr/4iKZ4wC <a href="https://bsky.app/profile/npr.org/post/3m7agyuyrsu2e" target="_blank">npr.org</a> (2025-12-05 21:04:00)</span><span style="padding-right:50px;">🇱🇰 'Nothing remains': Sri Lanka cyclone survivors face colossal clean-up  Survivors of Cyclone Ditwah, which has ravaged Sri Lanka in recent days, return to their devastated homes, faced with a massive clean-up as they start rebuilding their lives. <a href="https://bsky.app/profile/en.afp.com/post/3m7agxum7xz23" target="_blank">en.afp.com</a> (2025-12-05 21:03:26)</span><span style="padding-right:50px;">Morgan Stanley upgrades rare earth stock, says the U.S. has chosen it as solution to China's dominance <a href="https://bsky.app/profile/cnbc.com/post/3m7agw7qzli23" target="_blank">cnbc.com</a> (2025-12-05 21:02:31)</span><span style="padding-right:50px;">「ペンギンレッスン」中年教師、軍政の抑圧に対峙する 映画評9本 www.nikkei.com/article/DGXZQO...  飛べない鳥のおかげで殻を破って少しだけ飛び立てるようになった男を描く、心温まるコミカルな物語（英文学研究者の北村紗衣さん）  他にも「佐藤さんと佐藤さん」や「ズートピア2」など最新作の映画評をまとめました。  【今週のラインアップ】 ペンギン・レッスン 佐藤さんと佐藤さん ズートピア2 ペリリュー　―楽園のゲルニカ― 手に魂を込め、歩いてみれば 殺し屋のプロット ピアス 刺心 みらいのうた WIND BREAKER ウィンドブレイカー <a href="https://bsky.app/profile/nikkei.com/post/3m7agv7cymu2e" target="_blank">nikkei.com</a> (2025-12-05 21:01:57)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47850.94 (🔻37.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.38 (🔺1.76 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.16 (🔺0.11 : 2025-12-05)</span>
+<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47850.94 (🔻37.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.38 (🔺1.76 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.12 (🔺0.07 : 2025-12-05)</span>
   </div>
 </div>
 
@@ -32,97 +32,112 @@
 
 ## News Headlines
 
-1.  EU、X（旧Twitter）に1.2億ユーロの制裁金、デジタル規制違反で
-2.  横浜国際園芸博覧会、前売り券4900円で2026年3月発売
-3.  中国軍、チベット高原で施設拡大か、衛星画像で判明
-4.  ソフトバンク傘下アーム、韓国にチップトレーニング施設設立へ
-5.  脱パスワード技術「パスキー」、国内導入が倍増
-6.  那覇空港駅の動く歩道、故障で撤去、2026年春に再開へ
+1.  クローガー、ロボット倉庫閉鎖でオカドに3.5億ドル支払い
+2.  スリランカ、サイクロン被害からの復旧に直面
+3.  モルガン・スタンレー、レアアース株を格上げ、米国が中国の支配への解決策と評価
+4.  インディゴ、パイロットの夜間勤務規則で一時的な免除
+5.  ニュージーランド警察、飲み込まれたファベルジェの卵を回収
+6.  EU、イーロン・マスクのXに1.2億ユーロの罰金、透明性規則違反
 
 ----
 
-@apnews.com
-
-European Union regulators have fined Elon Musk's social media platform X 120 million euros for failing to comply with digital regulations.
-
-[2025-12-05 20:46:04](https://bsky.app/profile/apnews.com/post/3m7afystnyj2c)
-
----
-
-@nikkei.com
-
-横浜・2027年国際園芸博覧会の前売り券4900円　2026年3月発売
-www.nikkei.com/article/DGXZQO...
-
-「1日券」は2027年3月19日以降の会期中は5500円で販売。大阪・関西万博と比べ約2〜3割安くなります。
-
-開幕後は「1日券」に加え、午後5時以降に1回入場できる「夜間券」を大人3500円で販売します。
-
-[2025-12-05 20:45:57](https://bsky.app/profile/nikkei.com/post/3m7afylxajw2m)
-
----
-
 @reuters.com
 
-India aviation regulator allows partial relief on pilot duty rules reut.rs/3XCkhyV
+Ocado to receive $350 million payout as Kroger shuts robotic warehouses reut.rs/3MplqHG
 
-[2025-12-05 20:45:10](https://bsky.app/profile/reuters.com/post/3m7afx75bey2e)
+[2025-12-05 21:05:09](https://bsky.app/profile/reuters.com/post/3m7ah2wjb732i)
 
 ---
 
-@wsj.com
+@npr.org
 
-A WSJ analysis of satellite images shows clear evidence of the Chinese military’s expanding footprint through a network of facilities that dot the Tibetan plateau.
+This week, you'll need to be knowledgeable about holy media darlings, portrait-making techniques, and beloved Canadian icons — and that's just three questions. n.pr/4iKZ4wC
 
-[2025-12-05 20:44:22](https://bsky.app/profile/wsj.com/post/3m7afvr7hws2j)
+[2025-12-05 21:04:00](https://bsky.app/profile/npr.org/post/3m7agyuyrsu2e)
+
+---
+
+@en.afp.com
+
+🇱🇰 'Nothing remains': Sri Lanka cyclone survivors face colossal clean-up
+
+Survivors of Cyclone Ditwah, which has ravaged Sri Lanka in recent days, return to their devastated homes, faced with a massive clean-up as they start rebuilding their lives.
+
+[2025-12-05 21:03:26](https://bsky.app/profile/en.afp.com/post/3m7agxum7xz23)
 
 ---
 
 @cnbc.com
 
-Putin says Russia is willing to supply 'uninterrupted' fuel to India, as U.S. pressures New Delhi to cut back
+Morgan Stanley upgrades rare earth stock, says the U.S. has chosen it as solution to China's dominance
 
-[2025-12-05 20:44:14](https://bsky.app/profile/cnbc.com/post/3m7afvjmp3x2q)
-
----
-
-@financialtimes.com
-
-‘Why are we letting this guy go?’ Trump’s pardons upend US justice system on.ft.com/48lMuQP
-
-[2025-12-05 20:43:02](https://bsky.app/profile/financialtimes.com/post/3m7afteqadz26)
+[2025-12-05 21:02:31](https://bsky.app/profile/cnbc.com/post/3m7agw7qzli23)
 
 ---
 
-@bloomberg.com
+@nikkei.com
 
-India is considering an unprecedented increase in coal power capacity, potentially building new plants until at least 2047, according to people familiar with the development
+「ペンギンレッスン」中年教師、軍政の抑圧に対峙する 映画評9本
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-05 20:41:26](https://bsky.app/profile/bloomberg.com/post/3m7afqjjwzc2d)
+飛べない鳥のおかげで殻を破って少しだけ飛び立てるようになった男を描く、心温まるコミカルな物語（英文学研究者の北村紗衣さん）
+
+他にも「佐藤さんと佐藤さん」や「ズートピア2」など最新作の映画評をまとめました。
+
+【今週のラインアップ】
+ペンギン・レッスン
+佐藤さんと佐藤さん
+ズートピア2
+ペリリュー　―楽園のゲルニカ―
+手に魂を込め、歩いてみれば
+殺し屋のプロット
+ピアス 刺心
+みらいのうた
+WIND BREAKER ウィンドブレイカー
+
+[2025-12-05 21:01:57](https://bsky.app/profile/nikkei.com/post/3m7agv7cymu2e)
 
 ---
 
 @reuters.com
 
-BOJ expected to choose 'constructive ambiguity' on future rate hikes reut.rs/48Pv3YZ
+India grants one-time exemption to IndiGo from pilot night duty rules reut.rs/4pJgz2y
 
-[2025-12-05 20:40:13](https://bsky.app/profile/reuters.com/post/3m7afoeaz5g2i)
+[2025-12-05 21:01:00](https://bsky.app/profile/reuters.com/post/3m7agtivijg2e)
+
+---
+
+@usatoday.com
+
+Kim Kardashian reveals in the Dec. 4 episode of "The Kardashians" that she was left "hysterically crying" after a thief's "very noble" gesture.
+
+[2025-12-05 21:00:40](https://bsky.app/profile/usatoday.com/post/3m7agsw76by2u)
+
+---
+
+@aljazeera.com
+
+Lebanese leader urges UNSC to press Israel to respect the November 2024 ceasefire it has repeatedly violated.
+
+[2025-12-05 21:00:31](https://bsky.app/profile/aljazeera.com/post/3m7agsnmmgc2z)
 
 ---
 
 @nbcnews.com
 
-Actor Cary-Hiroyuki Tagawa, known for his roles in the film “Mortal Kombat” and TV series “The Man in the High Castle,” has died. He was 75.
+Police in New Zealand recover a Fabergé egg pendant worth $19,000, six days after a man was accused of swallowing it at a jewelry store in an effort to steal it.
 
-[2025-12-05 20:40:09](https://bsky.app/profile/nbcnews.com/post/3m7afo7km7g2c)
+[2025-12-05 21:00:21](https://bsky.app/profile/nbcnews.com/post/3m7agse5lpy2y)
 
 ---
 
-@nytimes.com
+@washingtonpost.com
 
-Here's a look at some of the highlights worth watching from late-night TV.
+President Donald Trump is eager to be recognized as a peacemaker.
 
-[2025-12-05 20:40:03](https://bsky.app/profile/nytimes.com/post/3m7afo2lldw2m)
+His administration obliged by renaming the building that houses the U.S. Institute of Peace in downtown D.C. https://wapo.st/48zkAzK
+
+[2025-12-05 21:00:16](https://bsky.app/profile/washingtonpost.com/post/3m7ags6zftj2s)
 
 ---
 
