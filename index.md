@@ -1,9 +1,9 @@
-# [2025-12-05 14:50 updated](2025_12_05.md)
+# [2025-12-05 15:10 updated](2025_12_05.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】静岡・伊豆の国市の病院から逃走した被告の男（54）三島市で確保 静岡県警 (2025年12月5日 14:47) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m77rxxs2st2l" target="_blank">sokuho.news</a> (2025-12-05 14:47:41)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】大北地域の大雪警報は注意報に切り替え 北部では引き続き5日夕方まで大雪や落雷に注意を 長野 (2025-12-05 14:38:00) #ニュース  🟨警報注意報 🔗https://www.jma.go.jp/bosai/warning/#lang=ja&area_type=offices&area_code=200000 <a href="https://bsky.app/profile/sokuho.news/post/3m77rxmceok2y" target="_blank">sokuho.news</a> (2025-12-05 14:47:29)</span><span style="padding-right:50px;">中国の日本大使館、邦人に安全確保呼びかけ　南京事件88年に向け www.nikkei.com/article/DGXZQO...  特に子連れの際の十分な対策を呼びかけました。  周囲へ聞こえるような大きな声で話したり、日本人と推測されやすい服装を身につけたりしないよう求めています。 <a href="https://bsky.app/profile/nikkei.com/post/3m77rutqqan2w" target="_blank">nikkei.com</a> (2025-12-05 14:45:56)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】大北地域の大雪警報は注意報に切り替え 長野 (2025-12-05 14:38:00) #ニュース  🟨警報注意報 🔗https://www.jma.go.jp/bosai/warning/#lang=ja&area_type=offices&area_code=200000 <a href="https://bsky.app/profile/sokuho.news/post/3m77rnykcu52m" target="_blank">sokuho.news</a> (2025-12-05 14:42:06)</span><span style="padding-right:50px;"> The hi-fi that costs as much as a house on.ft.com/3KEbDNk  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m77rndp62p26" target="_blank">financialtimes.com</a> (2025-12-05 14:41:44)</span>
+<span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】伊豆の国市の病院から逃走した54歳男を三島市内で確保（静岡） (2025-12-05 14:50) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m77szakinb2x" target="_blank">sokuho.news</a> (2025-12-05 15:06:17)</span><span style="padding-right:50px;">楽天 新人選手入団会見 ドラフト1位の藤原聡大が意気込み https://news.web.nhk/newsweb/na/na-k10014994801000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77syuch562j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-05 15:06:03)</span><span style="padding-right:50px;">Somalis arrested in Minneapolis immigration operation, officials say reut.rs/4pq7Pi0 <a href="https://bsky.app/profile/reuters.com/post/3m77sx5cddh2r" target="_blank">reuters.com</a> (2025-12-05 15:05:07)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】木南晴夏（40）第2子の出産を報告 (15:01) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m77svq6x2i2y" target="_blank">sokuho.news</a> (2025-12-05 15:04:20)</span><span style="padding-right:50px;">佐川急便の荷物制限 国交相“必要に応じ関係業界に働きかけ” https://news.web.nhk/newsweb/na/na-k10014994851000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77stmpauh2n" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-05 15:03:06)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50416.33 (🔻114.01 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47850.94 (🔻37.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.38 (🔺1.76 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3024.00 (🔻29.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 154.59 (🔻0.46 : 2025-12-05)</span>
+<span style="padding-right:50px;">NIKKEI: 50416.28 (🔻114.06 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47850.94 (🔻37.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.38 (🔺1.76 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3019.00 (🔻34.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 154.62 (🔻0.42 : 2025-12-05)</span>
   </div>
 </div>
 
@@ -32,113 +32,109 @@
 
 ## News Headlines
 
-1. 伊豆の国市病院から逃走の被告、三島市で確保
-2. 大北地域の大雪警報、注意報に切り替え
-3. 中国の日本大使館、邦人に安全確保呼びかけ
-4. インフルエンザ感染者数、警報レベル超えも微減
-5. 米大統領、コンゴ民主共和国とルワンダ首脳招き和平合意署名式
-6. トヨタ、レクサスの超高級スポーツ3車種を披露
+1. 静岡・伊豆の国市病院から逃走の男、三島市内で確保
+2. 楽天ドラフト1位・藤原聡大が入団会見、意気込み語る
+3. 木南晴夏、第2子出産を報告
+4. SNS炎上狙う「レイジベイト」急増、オックスフォード大出版局が2025年の言葉に
+5. 中国大使館、在日邦人に南京事件88年に向け安全確保呼びかけ
+6. トヨタ、レクサスの超高級スポーツ3車種披露
 
 ----
 
 @sokuho.news
 
-🔔ANNより【速報】です。
+🛎️NNNより【速報】です。
 
-【速報】静岡・伊豆の国市の病院から逃走した被告の男（54）三島市で確保 静岡県警
-(2025年12月5日 14:47) #ニュース
+【速報】伊豆の国市の病院から逃走した54歳男を三島市内で確保（静岡）
+(2025-12-05 14:50) #ニュース
 
-[2025-12-05 14:47:41](https://bsky.app/profile/sokuho.news/post/3m77rxxs2st2l)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】大北地域の大雪警報は注意報に切り替え 北部では引き続き5日夕方まで大雪や落雷に注意を 長野
-(2025-12-05 14:38:00) #ニュース
-
-🟨警報注意報
-🔗https://www.jma.go.jp/bosai/warning/#lang=ja&area_type=offices&area_code=200000
-
-[2025-12-05 14:47:29](https://bsky.app/profile/sokuho.news/post/3m77rxmceok2y)
-
----
-
-@nikkei.com
-
-中国の日本大使館、邦人に安全確保呼びかけ　南京事件88年に向け
-www.nikkei.com/article/DGXZQO...
-
-特に子連れの際の十分な対策を呼びかけました。
-
-周囲へ聞こえるような大きな声で話したり、日本人と推測されやすい服装を身につけたりしないよう求めています。
-
-[2025-12-05 14:45:56](https://bsky.app/profile/nikkei.com/post/3m77rutqqan2w)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】大北地域の大雪警報は注意報に切り替え 長野
-(2025-12-05 14:38:00) #ニュース
-
-🟨警報注意報
-🔗https://www.jma.go.jp/bosai/warning/#lang=ja&area_type=offices&area_code=200000
-
-[2025-12-05 14:42:06](https://bsky.app/profile/sokuho.news/post/3m77rnykcu52m)
-
----
-
-@financialtimes.com
-
- The hi-fi that costs as much as a house on.ft.com/3KEbDNk  | opinion
-
-[2025-12-05 14:41:44](https://bsky.app/profile/financialtimes.com/post/3m77rndp62p26)
-
----
-
-@financialtimes.com
-
- Why not even your cash fund is risk free on.ft.com/48yyths  | opinion
-
-[2025-12-05 14:41:44](https://bsky.app/profile/financialtimes.com/post/3m77rndb2pq2n)
-
----
-
-@financialtimes.com
-
- Why French leveraged buyouts are caving in like camembert on.ft.com/3Ktd01u  | opinion
-
-[2025-12-05 14:41:43](https://bsky.app/profile/financialtimes.com/post/3m77rncjel725)
-
----
-
-@wsj.com
-
-Rainmaker, a startup that got an early boost from billionaire Peter Thiel, updated cloud-seeding technology with drones and AI—but is targeted by people who believe the government is secretly manipulating the weather on.wsj.com/4iBSJ6l
-
-[2025-12-05 14:41:43](https://bsky.app/profile/wsj.com/post/3m77rncilnh2p)
-
----
-
-@reuters.com
-
-China's Nvidia-like Moore Threads soars in trading debut after $1.1 billion IPO reut.rs/3Xys0y3
-
-[2025-12-05 14:40:10](https://bsky.app/profile/reuters.com/post/3m77rkjvxek27)
+[2025-12-05 15:06:17](https://bsky.app/profile/sokuho.news/post/3m77szakinb2x)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-米大統領 コンゴ民主共和国とルワンダ首脳招き 和平合意署名式
-https://news.web.nhk/newsweb/na/na-k10014994901000
+楽天 新人選手入団会見 ドラフト1位の藤原聡大が意気込み
+https://news.web.nhk/newsweb/na/na-k10014994801000
 
-[2025-12-05 14:39:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77riln7kx2n)
+[2025-12-05 15:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77syuch562j)
+
+---
+
+@reuters.com
+
+Somalis arrested in Minneapolis immigration operation, officials say reut.rs/4pq7Pi0
+
+[2025-12-05 15:05:07](https://bsky.app/profile/reuters.com/post/3m77sx5cddh2r)
+
+---
+
+@sokuho.news
+
+🔔ANNより【速報】です。
+
+【速報】木南晴夏（40）第2子の出産を報告
+(15:01) #ニュース
+
+[2025-12-05 15:04:20](https://bsky.app/profile/sokuho.news/post/3m77svq6x2i2y)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+佐川急便の荷物制限 国交相“必要に応じ関係業界に働きかけ”
+https://news.web.nhk/newsweb/na/na-k10014994851000
+
+[2025-12-05 15:03:06](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77stmpauh2n)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+静岡 伊豆の国 病院から逃走の被告 三島市内で身柄確保 県警
+https://news.web.nhk/newsweb/na/na-k10014994551000
+
+[2025-12-05 15:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77stidesr24)
+
+---
+
+@nikkei.com
+
+SNS炎上狙う「レイジベイト(怒りの餌)」
+オックスフォード大学出版局、2025年の言葉に
+www.nikkei.com/article/DGXZQO...
+
+レイジベイトの使用頻度は過去12カ月で3倍に増加。
+
+特に「陰謀論に基づく意図的な誤情報」という形式で投稿されることが多いといいます。
+
+日本でも、奈良公園で外国人とされる人物がシカをたたいたとする動画が炎上し、拡散されました。
+
+[2025-12-05 15:01:58](https://bsky.app/profile/nikkei.com/post/3m77srj5utk22)
+
+---
+
+@sokuho.news
+
+<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>静岡 伊豆の国 病院から逃走の被告 三島市内で身柄確保 県警</strong><br><strong>(2025-12-05 15:00:09) #ニュース</strong>
+
+[2025-12-05 15:00:38](https://bsky.app/profile/sokuho.news/post/3m77sp4x5if2g)
+
+---
+
+@reuters.com
+
+Saluda Medical tanks on ASX debut as investors demand clearer path to profits reut.rs/3MGiNkQ
+
+[2025-12-05 15:00:33](https://bsky.app/profile/reuters.com/post/3m77soxw5m227)
+
+---
+
+@aljazeera.com
+
+Meeting to boost ties comes as India seeks reprieve from US oil sanctions related to war in Ukraine.
+
+[2025-12-05 15:00:21](https://bsky.app/profile/aljazeera.com/post/3m77som2tpt2a)
 
 ---
 
