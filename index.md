@@ -1,9 +1,9 @@
-# [2025-12-06 03:50 updated](2025_12_06.md)
+# [2025-12-06 04:10 updated](2025_12_06.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">✈️ India's aviation ministry has suspended a new policy of weekly rest for pilots that had triggered hundreds of flight cancellations by the country's biggest airline, IndiGo u.afp.com/S7Um <a href="https://bsky.app/profile/en.afp.com/post/3m7b5nag2ll2z" target="_blank">en.afp.com</a> (2025-12-06 03:49:06)</span><span style="padding-right:50px;">SpaceX is kicking off a secondary share sale that would value it at $800 billion, surpassing OpenAI as the most valuable U.S. private company. <a href="https://bsky.app/profile/wsj.com/post/3m7b5lqz56y2o" target="_blank">wsj.com</a> (2025-12-06 03:48:16)</span><span style="padding-right:50px;">【速報中】サッカーW杯2026 組み合わせ 日本はオランダと同組 https://news.web.nhk/newsweb/na/na-k10014994061000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7b5lgpjai26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-06 03:48:03)</span><span style="padding-right:50px;">BREAKING: Judge will release Jeffrey Epstein grand jury documents <a href="https://bsky.app/profile/axios.com/post/3m7b5icvkps2c" target="_blank">axios.com</a> (2025-12-06 03:46:21)</span><span style="padding-right:50px;">BREAKING: The grand jury transcripts are connected to a 2005 to 2007 case that was abandoned. <a href="https://bsky.app/profile/usatoday.com/post/3m7b5icmshi2d" target="_blank">usatoday.com</a> (2025-12-06 03:46:20)</span>
+<span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】2026年サッカーW杯 日本はオランダ、チュニジア、プレーオフ勝者と同組 (2025年12月6日 04:07) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7b6oujrrx27" target="_blank">sokuho.news</a> (2025-12-06 04:07:54)</span><span style="padding-right:50px;">Southwest Airlines lowers full-year EBIT forecast as government shutdown hits bookings reut.rs/4a0RWtw <a href="https://bsky.app/profile/reuters.com/post/3m7b6jvzt4b27" target="_blank">reuters.com</a> (2025-12-06 04:05:08)</span><span style="padding-right:50px;">The grand jury materials are not expected to be explosive, however. <a href="https://bsky.app/profile/forbes.com/post/3m7b6js6oc42u" target="_blank">forbes.com</a> (2025-12-06 04:05:03)</span><span style="padding-right:50px;">BREAKING: The Supreme Court agrees to decide the legality of President Trump's plan to end birthright citizenship.  <a href="https://bsky.app/profile/cbsnews.com/post/3m7b6jotgs32b" target="_blank">cbsnews.com</a> (2025-12-06 04:05:00)</span><span style="padding-right:50px;">David MacNeil purchased the fully furnished, ocean-to-Intracoastal mansion to be closer to family. on.wsj.com/4pQIs8K <a href="https://bsky.app/profile/wsj.com/post/3m7b6gcjhaw2r" target="_blank">wsj.com</a> (2025-12-06 04:03:06)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 48043.09 (🔺163.49 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23580.17 (🔺12.40 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 181.91 (🔻1.95 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.28 (🔺0.23 : 2025-12-05)</span>
+<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 48017.01 (🔺137.41 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23564.05 (🔻3.72 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 181.66 (🔻2.20 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.29 (🔺0.24 : 2025-12-05)</span>
   </div>
 </div>
 
@@ -32,93 +32,95 @@
 
 ## News Headlines
 
-1.  インディゴ、パイロット休息義務停止で運航混乱収束へ
-2.  SpaceX、評価額8000億ドルでOpenAI超えか
-3.  W杯2026組み合わせ決定、日本はオランダと同組
-4.  エプスタイン事件、大陪審記録公開へ
-5.  中国のライブコマース、アバターとインフルエンサーが成長牽引
-6.  ガザ、現代史上最大規模の子ども切断者発生か
+1. サッカーW杯2026 日本はオランダ、チュニジアと同組
+2. 最高裁、出生地主義の合法性判断へ トランプ氏計画巡り
+3. KKR、スポーツ専門プライベートエクイティのArctos Partners買収協議
+4. インドのEコマース企業Meesho、IPOで280億ドル調達
+5. FIFA会長、トランプ氏に平和賞？ 金のトロフィー授与
+6. SpaceX、8000億ドルの評価で株式売却へ OpenAI超えか
 
 ----
 
-@en.afp.com
+@sokuho.news
 
-✈️ India's aviation ministry has suspended a new policy of weekly rest for pilots that had triggered hundreds of flight cancellations by the country's biggest airline, IndiGo u.afp.com/S7Um
+🔔ANNより【速報】です。
 
-[2025-12-06 03:49:06](https://bsky.app/profile/en.afp.com/post/3m7b5nag2ll2z)
+【速報】2026年サッカーW杯 日本はオランダ、チュニジア、プレーオフ勝者と同組
+(2025年12月6日 04:07) #ニュース
 
----
-
-@wsj.com
-
-SpaceX is kicking off a secondary share sale that would value it at $800 billion, surpassing OpenAI as the most valuable U.S. private company.
-
-[2025-12-06 03:48:16](https://bsky.app/profile/wsj.com/post/3m7b5lqz56y2o)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【速報中】サッカーW杯2026 組み合わせ 日本はオランダと同組
-https://news.web.nhk/newsweb/na/na-k10014994061000
-
-[2025-12-06 03:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7b5lgpjai26)
-
----
-
-@axios.com
-
-<strong><span style="color: red;">BREAKING:</span> Judge will release Jeffrey Epstein grand jury documents</strong>
-
-[2025-12-06 03:46:21](https://bsky.app/profile/axios.com/post/3m7b5icvkps2c)
-
----
-
-@usatoday.com
-
-<strong><span style="color: red;">BREAKING:</span> The grand jury transcripts are connected to a 2005 to 2007 case that was abandoned.</strong>
-
-[2025-12-06 03:46:20](https://bsky.app/profile/usatoday.com/post/3m7b5icmshi2d)
-
----
-
-@financialtimes.com
-
-Netflix’s WBD deal swaps history for fantasy, with a dose of high drama on.ft.com/4a0PTWm
-
-[2025-12-06 03:46:05](https://bsky.app/profile/financialtimes.com/post/3m7b5hty46225)
+[2025-12-06 04:07:54](https://bsky.app/profile/sokuho.news/post/3m7b6oujrrx27)
 
 ---
 
 @reuters.com
 
-Avatars, influencers in China livestreams help drive Reckitt's emerging-market led growth reut.rs/3MHs8ZG
+Southwest Airlines lowers full-year EBIT forecast as government shutdown hits bookings reut.rs/4a0RWtw
 
-[2025-12-06 03:45:15](https://bsky.app/profile/reuters.com/post/3m7b5getkf72i)
+[2025-12-06 04:05:08](https://bsky.app/profile/reuters.com/post/3m7b6jvzt4b27)
 
 ---
 
 @forbes.com
 
-Netflix co-CEO Ted Sarandos said Friday theatrical release windows will “evolve to be much more consumer friendly.”
+The grand jury materials are not expected to be explosive, however.
 
-[2025-12-06 03:45:04](https://bsky.app/profile/forbes.com/post/3m7b5g2lgl52z)
+[2025-12-06 04:05:03](https://bsky.app/profile/forbes.com/post/3m7b6js6oc42u)
 
 ---
 
-@nytimes.com
+@cbsnews.com
 
-Early signs suggest that Hong Kong’s worst fire in decades was the result of negligence, poor decisions and circumstance. Here is how the design of the buildings and the construction materials used may have contributed to its spread. nyti.ms/4pkOQVV
+<strong><span style="color: red;">BREAKING:</span> The Supreme Court agrees to decide the legality of President Trump's plan to end birthright citizenship. </strong>
 
-[2025-12-06 03:45:03](https://bsky.app/profile/nytimes.com/post/3m7b5fzdj522y)
+[2025-12-06 04:05:00](https://bsky.app/profile/cbsnews.com/post/3m7b6jotgs32b)
+
+---
+
+@wsj.com
+
+David MacNeil purchased the fully furnished, ocean-to-Intracoastal mansion to be closer to family. on.wsj.com/4pQIs8K
+
+[2025-12-06 04:03:06](https://bsky.app/profile/wsj.com/post/3m7b6gcjhaw2r)
+
+---
+
+@financialtimes.com
+
+FT Exclusive: US private capital group KKR is in talks to acquire Arctos Partners, one of the pioneers of the private equity industry's push into professional sports. on.ft.com/3XzZegz
+
+[2025-12-06 04:02:23](https://bsky.app/profile/financialtimes.com/post/3m7b6fmu3hu23)
 
 ---
 
 @cnbc.com
 
-Salesforce shares pop 5% after earnings beat, aiming for best week since 2023
+With the cost of homeownership and mortgage rates continuing to rise, friends are co-buying homes together. 
 
-[2025-12-06 03:45:01](https://bsky.app/profile/cnbc.com/post/3m7b5fx575g23)
+[2025-12-06 04:01:31](https://bsky.app/profile/cnbc.com/post/3m7b6dhm7ff2g)
+
+---
+
+@reuters.com
+
+India's e-commerce firm Meesho draws $28 billion in IPO as institutional investors pile in reut.rs/4oF3XZs
+
+[2025-12-06 04:01:30](https://bsky.app/profile/reuters.com/post/3m7b6dgbgfp2k)
+
+---
+
+@cnn.com
+
+"And for Trump, calling affordability a scam is doubly strange because it's the very issue that helped propel him back to the White House," writes Matt Egan | Analysis https://cnn.it/4pJfEz8
+
+[2025-12-06 04:01:04](https://bsky.app/profile/cnn.com/post/3m7b6cnr2b42f)
+
+---
+
+@usatoday.com
+
+First Lady Melania Trump has reemerged, amid noisy White House construction, after a quiet first year during her husband Donald Trump's second term.
+
+[2025-12-06 04:00:42](https://bsky.app/profile/usatoday.com/post/3m7b6bylsjb2m)
 
 ---
 
