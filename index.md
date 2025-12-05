@@ -1,9 +1,9 @@
-# [2025-12-05 22:10 updated](2025_12_05.md)
+# [2025-12-05 22:30 updated](2025_12_05.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Tens of thousands of Syrians have gathered in Hama to celebrate the first anniversary of the fall of Bashar al-Assad. The Assad regime was toppled by a lightning offensive led by opposition forces in 2024. <a href="https://bsky.app/profile/aljazeera.com/post/3m7akneedcc2u" target="_blank">aljazeera.com</a> (2025-12-05 22:09:09)</span><span style="padding-right:50px;">"Whether you like them or not, we love them all, we want to take care of everybody," Trump said during the National Christmas Tree lighting event. <a href="https://bsky.app/profile/usatoday.com/post/3m7akiklfz22j" target="_blank">usatoday.com</a> (2025-12-05 22:06:27)</span><span style="padding-right:50px;">Netflix to acquire Warner Bros. in $72 billion deal <a href="https://bsky.app/profile/yahoofinance.com/post/3m7akhvcjks2e" target="_blank">yahoofinance.com</a> (2025-12-05 22:06:05)</span><span style="padding-right:50px;">South African rand strengthens on narrower current account deficit and eurobond issuance reut.rs/4pkmZVU <a href="https://bsky.app/profile/reuters.com/post/3m7akgexwvy2a" target="_blank">reuters.com</a> (2025-12-05 22:05:14)</span><span style="padding-right:50px;">FIFA is about to determine which teams all 48 participating countries in the FIFA World Cup 2026 will face in the group phase of the tournament, which the U.S., Canada and Mexico are co-hosting. n.pr/4phvl0v <a href="https://bsky.app/profile/npr.org/post/3m7akeqx52e23" target="_blank">npr.org</a> (2025-12-05 22:04:20)</span>
+<span style="padding-right:50px;">AI bubble to be short-lived, rebound stronger, NTT DATA chief says reut.rs/4oVb9AR <a href="https://bsky.app/profile/reuters.com/post/3m7aljz2qmo2k" target="_blank">reuters.com</a> (2025-12-05 22:25:10)</span><span style="padding-right:50px;">Netflix to buy Warner Bros. Discovery, Ulta earnings, Meta's rebound and more in Morning Squawk <a href="https://bsky.app/profile/cnbc.com/post/3m7alidpvce2f" target="_blank">cnbc.com</a> (2025-12-05 22:24:14)</span><span style="padding-right:50px;">暗号資産の損失を少なく記載 東証上場の2社に課徴金勧告 https://news.web.nhk/newsweb/na/na-k10014995581000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ali72cgl2r" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-05 22:24:07)</span><span style="padding-right:50px;">市川国家安全保障局長 比安保担当高官と防衛協力推進で一致 https://news.web.nhk/newsweb/na/na-k10014995601000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ali2pkf52u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-05 22:24:02)</span><span style="padding-right:50px;">Nvidia’s chips face new competition from Google, but the company's not about to lose its edge <a href="https://bsky.app/profile/yahoofinance.com/post/3m7alcz4gzo2z" target="_blank">yahoofinance.com</a> (2025-12-05 22:21:15)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47850.94 (🔻37.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.38 (🔺1.76 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.22 (🔺0.17 : 2025-12-05)</span>
+<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47850.94 (🔻37.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.38 (🔺1.76 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.18 (🔺0.13 : 2025-12-05)</span>
   </div>
 </div>
 
@@ -32,94 +32,99 @@
 
 ## News Headlines
 
-1. Netflix、ワーナー・ブラザースを巨額買収へ
-2. シリア、アサド政権崩壊から1周年を祝う大規模集会
-3. FIFAワールドカップ2026、組み合わせ抽選迫る
-4. 米国、太平洋上で「致死的攻撃」を実施
-5. インド、航空便が大規模欠航、多数の乗客が足止め
-6. 連邦捜査官、1月6日事件に関連するパイプ爆弾事件の容疑者を逮捕
+1. AIバブルは短命、その後力強く反発 - NTTデータ社長
+2. ネットフリックス、ワーナー・ブラザースを買収合意
+3. 暗号資産の損失を少なく記載、東証上場2社に課徴金勧告
+4. 市川国家安全保障局長、比安保担当高官と防衛協力推進で一致
+5. 米民主党、エプスタイン島の映像公開
+6. 高市首相、OTC類似薬含む薬剤自己負担など年末までに結論
 
 ----
 
-@aljazeera.com
+@reuters.com
 
-Tens of thousands of Syrians have gathered in Hama to celebrate the first anniversary of the fall of Bashar al-Assad. The Assad regime was toppled by a lightning offensive led by opposition forces in 2024.
+AI bubble to be short-lived, rebound stronger, NTT DATA chief says reut.rs/4oVb9AR
 
-[2025-12-05 22:09:09](https://bsky.app/profile/aljazeera.com/post/3m7akneedcc2u)
+[2025-12-05 22:25:10](https://bsky.app/profile/reuters.com/post/3m7aljz2qmo2k)
 
 ---
 
-@usatoday.com
+@cnbc.com
 
-"Whether you like them or not, we love them all, we want to take care of everybody," Trump said during the National Christmas Tree lighting event.
+Netflix to buy Warner Bros. Discovery, Ulta earnings, Meta's rebound and more in Morning Squawk
 
-[2025-12-05 22:06:27](https://bsky.app/profile/usatoday.com/post/3m7akiklfz22j)
+[2025-12-05 22:24:14](https://bsky.app/profile/cnbc.com/post/3m7alidpvce2f)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+暗号資産の損失を少なく記載 東証上場の2社に課徴金勧告
+https://news.web.nhk/newsweb/na/na-k10014995581000
+
+[2025-12-05 22:24:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ali72cgl2r)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+市川国家安全保障局長 比安保担当高官と防衛協力推進で一致
+https://news.web.nhk/newsweb/na/na-k10014995601000
+
+[2025-12-05 22:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ali2pkf52u)
 
 ---
 
 @yahoofinance.com
 
-Netflix to acquire Warner Bros. in $72 billion deal
+Nvidia’s chips face new competition from Google, but the company's not about to lose its edge
 
-[2025-12-05 22:06:05](https://bsky.app/profile/yahoofinance.com/post/3m7akhvcjks2e)
-
----
-
-@reuters.com
-
-South African rand strengthens on narrower current account deficit and eurobond issuance reut.rs/4pkmZVU
-
-[2025-12-05 22:05:14](https://bsky.app/profile/reuters.com/post/3m7akgexwvy2a)
+[2025-12-05 22:21:15](https://bsky.app/profile/yahoofinance.com/post/3m7alcz4gzo2z)
 
 ---
 
-@npr.org
+@nhknewsunofficial.bsky.social
 
-FIFA is about to determine which teams all 48 participating countries in the FIFA World Cup 2026 will face in the group phase of the tournament, which the U.S., Canada and Mexico are co-hosting. n.pr/4phvl0v
+ネットフリックス 米ワーナーのスタジオ事業など 買収合意
+https://news.web.nhk/newsweb/na/na-k10014995771000
 
-[2025-12-05 22:04:20](https://bsky.app/profile/npr.org/post/3m7akeqx52e23)
-
----
-
-@reuters.com
-
-Citigroup sets 2026-end STOXX 600 target at 640 on fiscal tailwinds reut.rs/4avzn0D
-
-[2025-12-05 22:00:57](https://bsky.app/profile/reuters.com/post/3m7ak6pnd622i)
+[2025-12-05 22:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7alcpdnln2r)
 
 ---
 
-@bloomberg.com
+@en.afp.com
 
-A gold ingot and Rolex clock presented to Trump have sparked a growing debate over how far Switzerland should go in appeasing a famously combative White House.
+🇺🇸 Democrats release footage of Epstein's notorious private island
 
-[2025-12-05 22:00:54](https://bsky.app/profile/bloomberg.com/post/3m7ak6mttf52s)
+Democrats in the US Congress release photos and videos showing the luxury island home where convicted sex offender Jeffrey Epstein allegedly forced underage girls into sex with powerful men.
 
----
-
-@washingtonpost.com
-
-The bad news: There’s no such thing as a dust-free existence.
-
-The good news, though, is that there are some simple ways to reduce the dust in your home. Your cleaning routine matters, but so does your skin care routine.
-
-[2025-12-05 22:00:38](https://bsky.app/profile/washingtonpost.com/post/3m7ak64xnr323)
-
----
-
-@aljazeera.com
-
-Pakistan says an emerging three-way cooperation with Bangladesh and China could be 'expanded and duplicated'.
-
-[2025-12-05 22:00:20](https://bsky.app/profile/aljazeera.com/post/3m7ak5mogne27)
+[2025-12-05 22:20:34](https://bsky.app/profile/en.afp.com/post/3m7albs7rwg2z)
 
 ---
 
 @nbcnews.com
 
-U.S. Southern Command says that the Defense Department carried out another “lethal kinetic strike” at Defense Secretary Pete Hegseth’s direction on a vessel in the eastern Pacific Ocean that killed four men.
+Costco Wholesale says that it has nominated Gina Raimondo, who served as commerce secretary under President Joe Biden, to its board of directors.
 
-[2025-12-05 22:00:10](https://bsky.app/profile/nbcnews.com/post/3m7ak5cpkju2j)
+[2025-12-05 22:20:12](https://bsky.app/profile/nbcnews.com/post/3m7alb4owur2j)
+
+---
+
+@wsj.com
+
+Some of America’s best starting salaries are at sea, with graduates straight out of the country’s maritime academies able to earn more than $200,000. And they aren’t luring enough workers. 
+
+🔗: on.wsj.com/4pAGmKe
+
+[2025-12-05 22:17:37](https://bsky.app/profile/wsj.com/post/3m7al4j5akg2i)
+
+---
+
+@nytimes.com
+
+<strong><span style="color: red;">Breaking News</span>: The New York Times sued Perplexity, an A.I. start-up, claiming that its copyrights were repeatedly violated by the company.</strong>
+
+[2025-12-05 22:16:30](https://bsky.app/profile/nytimes.com/post/3m7al2iw33q2x)
 
 ---
 
