@@ -1,9 +1,9 @@
-# [2025-12-06 04:10 updated](2025_12_06.md)
+# [2025-12-06 04:30 updated](2025_12_06.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】2026年サッカーW杯 日本はオランダ、チュニジア、プレーオフ勝者と同組 (2025年12月6日 04:07) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7b6oujrrx27" target="_blank">sokuho.news</a> (2025-12-06 04:07:54)</span><span style="padding-right:50px;">Southwest Airlines lowers full-year EBIT forecast as government shutdown hits bookings reut.rs/4a0RWtw <a href="https://bsky.app/profile/reuters.com/post/3m7b6jvzt4b27" target="_blank">reuters.com</a> (2025-12-06 04:05:08)</span><span style="padding-right:50px;">The grand jury materials are not expected to be explosive, however. <a href="https://bsky.app/profile/forbes.com/post/3m7b6js6oc42u" target="_blank">forbes.com</a> (2025-12-06 04:05:03)</span><span style="padding-right:50px;">BREAKING: The Supreme Court agrees to decide the legality of President Trump's plan to end birthright citizenship.  <a href="https://bsky.app/profile/cbsnews.com/post/3m7b6jotgs32b" target="_blank">cbsnews.com</a> (2025-12-06 04:05:00)</span><span style="padding-right:50px;">David MacNeil purchased the fully furnished, ocean-to-Intracoastal mansion to be closer to family. on.wsj.com/4pQIs8K <a href="https://bsky.app/profile/wsj.com/post/3m7b6gcjhaw2r" target="_blank">wsj.com</a> (2025-12-06 04:03:06)</span>
+<span style="padding-right:50px;">Woman wanted by Interpol for trafficking tiger parts arrested in India  <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7b7v6dujj26" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-06 04:29:19)</span><span style="padding-right:50px;">An advisory panel appointed by the Trump administration's vaccine-skeptic health secretary has voted to stop recommending that all newborns in the United States receive a hepatitis B vaccine u.afp.com/S7Un <a href="https://bsky.app/profile/en.afp.com/post/3m7b7uqir7d2p" target="_blank">en.afp.com</a> (2025-12-06 04:29:05)</span><span style="padding-right:50px;">US Supreme Court agrees to hear case challenging birthright citizenship <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7b7t7mpup2l" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-06 04:28:13)</span><span style="padding-right:50px;">BREAKING: The Supreme Court will review Trump's claim that not all children born in the United States are entitled to citizenship. <a href="https://bsky.app/profile/usatoday.com/post/3m7b7s4bdjr2m" target="_blank">usatoday.com</a> (2025-12-06 04:27:37)</span><span style="padding-right:50px;">Czech group CSG signs Slovak deal for EU ammunition supply worth up to 58 billion euros reut.rs/48w9OLT <a href="https://bsky.app/profile/reuters.com/post/3m7b7nsjgr72a" target="_blank">reuters.com</a> (2025-12-06 04:25:12)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 48017.01 (🔺137.41 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23564.05 (🔻3.72 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 181.66 (🔻2.20 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.29 (🔺0.24 : 2025-12-05)</span>
+<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47995.76 (🔺116.16 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23563.19 (🔻4.58 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 181.48 (🔻2.38 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.26 (🔺0.21 : 2025-12-05)</span>
   </div>
 </div>
 
@@ -32,95 +32,99 @@
 
 ## News Headlines
 
-1. サッカーW杯2026 日本はオランダ、チュニジアと同組
-2. 最高裁、出生地主義の合法性判断へ トランプ氏計画巡り
-3. KKR、スポーツ専門プライベートエクイティのArctos Partners買収協議
-4. インドのEコマース企業Meesho、IPOで280億ドル調達
-5. FIFA会長、トランプ氏に平和賞？ 金のトロフィー授与
-6. SpaceX、8000億ドルの評価で株式売却へ OpenAI超えか
+1.  インターポールがトラの部品取引で女性を逮捕
+2.  米最高裁、出生地主義の是非を審理へ
+3.  チェコのCSG、スロバキアとEU向け弾薬供給契約
+4.  ウクライナ、汚職対策失敗で顧問を非難
+5.  建築家フランク・ゲーリー氏死去、96歳
+6.  2026年サッカーW杯組み合わせ決定、日本はオランダ、チュニジアと同組
 
 ----
 
-@sokuho.news
+@bbcnews-world-rss.bsky.social
 
-🔔ANNより【速報】です。
+Woman wanted by Interpol for trafficking tiger parts arrested in India 
 
-【速報】2026年サッカーW杯 日本はオランダ、チュニジア、プレーオフ勝者と同組
-(2025年12月6日 04:07) #ニュース
-
-[2025-12-06 04:07:54](https://bsky.app/profile/sokuho.news/post/3m7b6oujrrx27)
+[2025-12-06 04:29:19](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7b7v6dujj26)
 
 ---
 
-@reuters.com
+@en.afp.com
 
-Southwest Airlines lowers full-year EBIT forecast as government shutdown hits bookings reut.rs/4a0RWtw
+An advisory panel appointed by the Trump administration's vaccine-skeptic health secretary has voted to stop recommending that all newborns in the United States receive a hepatitis B vaccine u.afp.com/S7Un
 
-[2025-12-06 04:05:08](https://bsky.app/profile/reuters.com/post/3m7b6jvzt4b27)
-
----
-
-@forbes.com
-
-The grand jury materials are not expected to be explosive, however.
-
-[2025-12-06 04:05:03](https://bsky.app/profile/forbes.com/post/3m7b6js6oc42u)
+[2025-12-06 04:29:05](https://bsky.app/profile/en.afp.com/post/3m7b7uqir7d2p)
 
 ---
 
-@cbsnews.com
+@bbcnews-world-rss.bsky.social
 
-<strong><span style="color: red;">BREAKING:</span> The Supreme Court agrees to decide the legality of President Trump's plan to end birthright citizenship. </strong>
+US Supreme Court agrees to hear case challenging birthright citizenship
 
-[2025-12-06 04:05:00](https://bsky.app/profile/cbsnews.com/post/3m7b6jotgs32b)
-
----
-
-@wsj.com
-
-David MacNeil purchased the fully furnished, ocean-to-Intracoastal mansion to be closer to family. on.wsj.com/4pQIs8K
-
-[2025-12-06 04:03:06](https://bsky.app/profile/wsj.com/post/3m7b6gcjhaw2r)
-
----
-
-@financialtimes.com
-
-FT Exclusive: US private capital group KKR is in talks to acquire Arctos Partners, one of the pioneers of the private equity industry's push into professional sports. on.ft.com/3XzZegz
-
-[2025-12-06 04:02:23](https://bsky.app/profile/financialtimes.com/post/3m7b6fmu3hu23)
-
----
-
-@cnbc.com
-
-With the cost of homeownership and mortgage rates continuing to rise, friends are co-buying homes together. 
-
-[2025-12-06 04:01:31](https://bsky.app/profile/cnbc.com/post/3m7b6dhm7ff2g)
-
----
-
-@reuters.com
-
-India's e-commerce firm Meesho draws $28 billion in IPO as institutional investors pile in reut.rs/4oF3XZs
-
-[2025-12-06 04:01:30](https://bsky.app/profile/reuters.com/post/3m7b6dgbgfp2k)
-
----
-
-@cnn.com
-
-"And for Trump, calling affordability a scam is doubly strange because it's the very issue that helped propel him back to the White House," writes Matt Egan | Analysis https://cnn.it/4pJfEz8
-
-[2025-12-06 04:01:04](https://bsky.app/profile/cnn.com/post/3m7b6cnr2b42f)
+[2025-12-06 04:28:13](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7b7t7mpup2l)
 
 ---
 
 @usatoday.com
 
-First Lady Melania Trump has reemerged, amid noisy White House construction, after a quiet first year during her husband Donald Trump's second term.
+<strong><span style="color: red;">BREAKING:</span> The Supreme Court will review Trump's claim that not all children born in the United States are entitled to citizenship.</strong>
 
-[2025-12-06 04:00:42](https://bsky.app/profile/usatoday.com/post/3m7b6bylsjb2m)
+[2025-12-06 04:27:37](https://bsky.app/profile/usatoday.com/post/3m7b7s4bdjr2m)
+
+---
+
+@reuters.com
+
+Czech group CSG signs Slovak deal for EU ammunition supply worth up to 58 billion euros reut.rs/48w9OLT
+
+[2025-12-06 04:25:12](https://bsky.app/profile/reuters.com/post/3m7b7nsjgr72a)
+
+---
+
+@nytimes.com
+
+Ukrainian leaders blame independent advisers for failing to prevent corruption. A New York Times investigation found President Volodymyr Zelensky’s own administration systematically sabotaged that oversight, allowing graft to flourish.
+
+[2025-12-06 04:25:02](https://bsky.app/profile/nytimes.com/post/3m7b7niyrz72l)
+
+---
+
+@axios.com
+
+<strong><span style="color: red;">BREAKING:</span> Supreme Court to decide if Trump's birthright citizenship order can stand</strong>
+
+[2025-12-06 04:24:28](https://bsky.app/profile/axios.com/post/3m7b7miljls2k)
+
+---
+
+@cnbc.com
+
+Shares of this old school manufacturer are turning around. Carter Worth says it's a buy
+
+[2025-12-06 04:24:25](https://bsky.app/profile/cnbc.com/post/3m7b7mfv72t2e)
+
+---
+
+@nytimes.com
+
+<strong><span style="color: red;">Breaking News</span>: Frank Gehry, a titan of architecture, has died at 96. He designed some of the world’s most recognizable buildings — many widely regarded as masterpieces. nyti.ms/4rGCYiE</strong>
+
+[2025-12-06 04:21:45](https://bsky.app/profile/nytimes.com/post/3m7b7hngkf422)
+
+---
+
+@theathleticfc.bsky.social
+
+𝗧𝗵𝗲 𝟮𝟬𝟮𝟲 𝗪𝗼𝗿𝗹𝗱 𝗖𝘂𝗽 𝗗𝗿𝗮𝘄
+
+It's done. Finally.
+
+▪️ Are any top seeds in trouble?
+▪️ Is there a Group of Death?
+▪️ Which minnow is best placed to spring a surprise?
+▪️ Which group are you most looking forward to?
+
+[2025-12-06 04:21:37](https://bsky.app/profile/theathleticfc.bsky.social/post/3m7b7hf74ys2n)
 
 ---
 
