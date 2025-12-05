@@ -1,9 +1,9 @@
-# [2025-12-05 11:30 updated](2025_12_05.md)
+# [2025-12-05 11:50 updated](2025_12_05.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The central African nations signed what the US president called the ‘Washington Accords’, which seek to end 30 years of conflict, as well as bilateral deals that will give Washington access to critical minerals on.ft.com/3XBVhI5 <a href="https://bsky.app/profile/financialtimes.com/post/3m77gvioqpd27" target="_blank">financialtimes.com</a> (2025-12-05 11:29:27)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】スクールバスが横転 学生20人けが 運転士の前方不注意か 埼玉・吉見町 (11:23) #ニュース https://news.tv-asahi.co.jp/news_society/articles/000470947.html?display=full <a href="https://bsky.app/profile/sokuho.news/post/3m77gmfr4ce22" target="_blank">sokuho.news</a> (2025-12-05 11:24:21)</span><span style="padding-right:50px;">10月の家計調査 6か月ぶり減少 1世帯の消費額 30万6872円 https://news.web.nhk/newsweb/na/na-k10014994541000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77gludjvt2e" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-05 11:24:02)</span><span style="padding-right:50px;">An anonymous social-media star has figured out how to make the news more palatable: Turn the newsmakers into babies.   🔗: on.wsj.com/4iGKN3S <a href="https://bsky.app/profile/wsj.com/post/3m77gky5cf52w" target="_blank">wsj.com</a> (2025-12-05 11:23:34)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】「10メートルくらい下の畑に転落した」コンクリートミキサー車が道路から転落 70代の運転手の男性が重体の模様 救助活動中 (2025-12-05 11:16:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m77gjmkgir2q" target="_blank">sokuho.news</a> (2025-12-05 11:22:48)</span>
+<span style="padding-right:50px;">New York City is emerging as the center of the nation’s office-to-residential conversion boom, proving these projects can go far beyond what many thought possible. 🔗 on.wsj.com/3KCCWaO <a href="https://bsky.app/profile/wsj.com/post/3m77hnijm732o" target="_blank">wsj.com</a> (2025-12-05 11:42:52)</span><span style="padding-right:50px;">Canada and Mexico should not be export hubs for China, says USTR reut.rs/48Ccru6 <a href="https://bsky.app/profile/reuters.com/post/3m77hit7mgw22" target="_blank">reuters.com</a> (2025-12-05 11:40:16)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】埼玉県吉見町で専門学校のスクールバスが横転 20人を病院へ搬送もいずれも軽傷か (2025-12-05 10:50:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m77hhpddky27" target="_blank">sokuho.news</a> (2025-12-05 11:39:38)</span><span style="padding-right:50px;">Supreme Court allows Texas electoral map that favours Republicans on.ft.com/3MhabBe <a href="https://bsky.app/profile/financialtimes.com/post/3m77hc36ttb23" target="_blank">financialtimes.com</a> (2025-12-05 11:36:29)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】ドラ1入団から8年目で覚醒 カープ中村奨成は年俸3.7倍に！「こんなに上がるとは思ってなかった」入籍発表翌日に契約を更改 (2025-12-05 11:34:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m77hapcvwa27" target="_blank">sokuho.news</a> (2025-12-05 11:35:43)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50371.01 (🔻159.33 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47850.94 (🔻37.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.38 (🔺1.81 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3030.00 (🔻23.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.08 (🔺0.03 : 2025-12-05)</span>
+<span style="padding-right:50px;">NIKKEI: 50465.14 (🔻65.20 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47850.94 (🔻37.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.38 (🔺1.76 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3033.00 (🔻20.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.06 (🔺0.02 : 2025-12-05)</span>
   </div>
 </div>
 
@@ -32,20 +32,58 @@
 
 ## News Headlines
 
-1. 米、中央アフリカ諸国と重要鉱物資源アクセスで合意
-2. 埼玉でスクールバス横転、学生20人負傷
-3. 10月の家計消費、6か月ぶり減少
-4. コンクリートミキサー車が転落、運転手重体
-5. ガソリン価格カルテル、長野県石油商業組合が陳謝
-6. 旧統一教会会長、田中富広氏が辞任へ
+1. ニューヨーク、オフィスから住宅への転換ブームの中心地に
+2. 米USTR、カナダとメキシコを中国の輸出拠点とすべきでないと警告
+3. 埼玉・吉見町でスクールバス横転、学生20人が軽傷
+4. 米最高裁、共和党有利なテキサス州の選挙区地図を容認
+5. カープ中村奨成、年俸3.7倍増！入籍発表翌日に契約更改
+6. 旧統一教会、田中富広会長が辞任へ　被害者に謝罪へ
 
 ----
 
+@wsj.com
+
+New York City is emerging as the center of the nation’s office-to-residential conversion boom, proving these projects can go far beyond what many thought possible. 🔗 on.wsj.com/3KCCWaO
+
+[2025-12-05 11:42:52](https://bsky.app/profile/wsj.com/post/3m77hnijm732o)
+
+---
+
+@reuters.com
+
+Canada and Mexico should not be export hubs for China, says USTR reut.rs/48Ccru6
+
+[2025-12-05 11:40:16](https://bsky.app/profile/reuters.com/post/3m77hit7mgw22)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】埼玉県吉見町で専門学校のスクールバスが横転 20人を病院へ搬送もいずれも軽傷か
+(2025-12-05 10:50:00) #ニュース
+
+[2025-12-05 11:39:38](https://bsky.app/profile/sokuho.news/post/3m77hhpddky27)
+
+---
+
 @financialtimes.com
 
-The central African nations signed what the US president called the ‘Washington Accords’, which seek to end 30 years of conflict, as well as bilateral deals that will give Washington access to critical minerals on.ft.com/3XBVhI5
+Supreme Court allows Texas electoral map that favours Republicans on.ft.com/3MhabBe
 
-[2025-12-05 11:29:27](https://bsky.app/profile/financialtimes.com/post/3m77gvioqpd27)
+[2025-12-05 11:36:29](https://bsky.app/profile/financialtimes.com/post/3m77hc36ttb23)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】ドラ1入団から8年目で覚醒 カープ中村奨成は年俸3.7倍に！「こんなに上がるとは思ってなかった」入籍発表翌日に契約を更改
+(2025-12-05 11:34:00) #ニュース
+
+[2025-12-05 11:35:43](https://bsky.app/profile/sokuho.news/post/3m77hapcvwa27)
 
 ---
 
@@ -53,85 +91,47 @@ The central African nations signed what the US president called the ‘Washingto
 
 🔔ANNより【速報】です。
 
-【速報】スクールバスが横転 学生20人けが 運転士の前方不注意か 埼玉・吉見町
+【速報】スクールバスが横転 学生20人けが 運転手の前方不注意か 埼玉・吉見町
 (11:23) #ニュース
-https://news.tv-asahi.co.jp/news_society/articles/000470947.html?display=full
 
-[2025-12-05 11:24:21](https://bsky.app/profile/sokuho.news/post/3m77gmfr4ce22)
-
----
-
-@nhknewsunofficial.bsky.social
-
-10月の家計調査 6か月ぶり減少 1世帯の消費額 30万6872円
-https://news.web.nhk/newsweb/na/na-k10014994541000
-
-[2025-12-05 11:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77gludjvt2e)
+[2025-12-05 11:35:16](https://bsky.app/profile/sokuho.news/post/3m77h7veenz22)
 
 ---
 
-@wsj.com
+@en.afp.com
 
-An anonymous social-media star has figured out how to make the news more palatable: Turn the newsmakers into babies. 
+US Supreme Court allows Texas to use Trump-backed voting map
 
-🔗: on.wsj.com/4iGKN3S
+u.afp.com/S74D
 
-[2025-12-05 11:23:34](https://bsky.app/profile/wsj.com/post/3m77gky5cf52w)
+[2025-12-05 11:34:20](https://bsky.app/profile/en.afp.com/post/3m77h67u2wq2d)
 
 ---
 
 @sokuho.news
 
-🛎️JNNより【速報】です。
+🛎️FNNより【速報】です。
 
-【速報】「10メートルくらい下の畑に転落した」コンクリートミキサー車が道路から転落 70代の運転手の男性が重体の模様 救助活動中
-(2025-12-05 11:16:00) #ニュース
+【速報】「刃物を高速に乗る前の奈良県内で捨てた」西名阪道で炎上した車から遺体で見つかった男性を殺害した疑いの男 殺害容疑認める「いろいろ積もり積もって殺すしかないと」
+(2025-12-05 11:21) #ニュース
 
-[2025-12-05 11:22:48](https://bsky.app/profile/sokuho.news/post/3m77gjmkgir2q)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】ガソリン価格のカルテルで長野県石油商業組合が陳謝 会見で理事長「大変責任を感じている、体制の刷新を図る」
-(2025-12-05 11:19:00) #ニュース
-
-[2025-12-05 11:22:40](https://bsky.app/profile/sokuho.news/post/3m77gjexk222x)
+[2025-12-05 11:31:04](https://bsky.app/profile/sokuho.news/post/3m77gyfbe7p22)
 
 ---
 
-@reuters.com
+@cnn.com
 
-Big Yellow Group terminates deal talks with Blackstone reut.rs/4oAsYF2
+The number of billionaires worldwide – and their combined wealth – reached record highs this year, buoyed in particular by gains in tech stocks, Swiss bank UBS has found. https://cnn.it/48y3AK2
 
-[2025-12-05 11:20:13](https://bsky.app/profile/reuters.com/post/3m77gey7g7z2d)
-
----
-
-@nytimes.com
-
-An exhibition opening Sunday in Lower Manhattan reckons with the revived legacy of Arthur Szyk, an immigrant artist who created ornate illuminations and scathing caricatures of Nazism and the horrors of the Holocaust.
-
-[2025-12-05 11:20:04](https://bsky.app/profile/nytimes.com/post/3m77geq6uoh26)
+[2025-12-05 11:31:02](https://bsky.app/profile/cnn.com/post/3m77gyda2pk2y)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@apnews.com
 
-株価 一時800円以上値下がり 半導体関連銘柄中心に売り注文
-https://news.web.nhk/newsweb/na/na-k10014994631000
+Trump administration officials overseeing the immigration crackdown launched in New Orleans are are aiming to make 5,000 arrests with a focus on violent offenders, a target that some city leaders say is not realistic.
 
-[2025-12-05 11:18:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77gb6ezqt2e)
-
----
-
-@reuters.com
-
-HPE sees weaker quarterly revenue on AI server sales delay reut.rs/4ppZ3AA
-
-[2025-12-05 11:10:09](https://bsky.app/profile/reuters.com/post/3m77fsysvhl2w)
+[2025-12-05 11:30:35](https://bsky.app/profile/apnews.com/post/3m77gxjkptx2c)
 
 ---
 
