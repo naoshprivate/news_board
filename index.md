@@ -1,9 +1,9 @@
-# [2025-12-05 10:30 updated](2025_12_05.md)
+# [2025-12-05 10:50 updated](2025_12_05.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The New York band performs tracks from their latest album, Dance Called Memory. n.pr/4rEGCtg <a href="https://bsky.app/profile/npr.org/post/3m77djc765s23" target="_blank">npr.org</a> (2025-12-05 10:28:56)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:熊本県阿蘇地方, 深さ:ごく浅い マグニチュード:2.5, 最大震度:1 📍https://www.google.com/maps?q=33.0,131.1&ll=33.0,131.1&z=7&t=h 地震発生日時:2025-12-05 10:22頃 (10倍速▶120s→12s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m77dcsjhbl2q" target="_blank">sokuho.news</a> (2025-12-05 10:25:18)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  10時22分頃、熊本県で最大震度1の地震を観測しました。 震源:熊本県阿蘇地方, 深さ:ごく浅い, 規模:M2.5 この地震による津波の心配はありません。 (2025-12-05 10:24:51) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/05/2025-12-05-10-22-22.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3m77dc2lq7i2m" target="_blank">sokuho.news</a> (2025-12-05 10:24:53)</span><span style="padding-right:50px;">CNBC Daily Open: Money, money, money, in Nvidia's world <a href="https://bsky.app/profile/cnbc.com/post/3m77d64sjcy2e" target="_blank">cnbc.com</a> (2025-12-05 10:22:42)</span><span style="padding-right:50px;">Estée Lauder driving growth with new brands, global focus reut.rs/44KHGlx <a href="https://bsky.app/profile/reuters.com/post/3m77cztlc562k" target="_blank">reuters.com</a> (2025-12-05 10:20:17)</span>
+<span style="padding-right:50px;">中国が東アジア海域に艦船100隻以上展開　ロイター報道 www.nikkei.com/article/DGXZQO...  高市早苗首相の台湾有事に関する国会答弁をきっかけとする日中対立を踏まえた、日本威圧の一環の可能性があります。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m77ehoy5ko26" target="_blank">nikkei.com</a> (2025-12-05 10:45:56)</span><span style="padding-right:50px;">ウクライナ欧州電話会談で「仏“米が裏切る可能性”」ドイツ誌 https://news.web.nhk/newsweb/na/na-k10014994561000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77eashwhh2r" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-05 10:42:03)</span><span style="padding-right:50px;">AFP’s Josh Edelson photographs vehicles navigating roadways flooded with ocean water during a “King Tide” event in Mill Valley, California.   "King Tides" occur when the Earth, moon, and sun align to produce unusually high water levels, cause tidal flooding <a href="https://bsky.app/profile/en.afp.com/post/3m77e6klaxw2m" target="_blank">en.afp.com</a> (2025-12-05 10:40:50)</span><span style="padding-right:50px;">Law firms seek AI edge with new executive hires reut.rs/48iRXI6 <a href="https://bsky.app/profile/reuters.com/post/3m77e5inicp2d" target="_blank">reuters.com</a> (2025-12-05 10:40:14)</span><span style="padding-right:50px;">In @nytopinion.nytimes.com  “Seeking accountability against the perpetrator of a crime is how the legal system is supposed to work,” the lawyer Elora Mukherjee says. “But punishing law-abiding immigrants, children and adults alike, for the violent acts of one man is anathema to our justice system.” <a href="https://bsky.app/profile/nytimes.com/post/3m77e57i3li2x" target="_blank">nytimes.com</a> (2025-12-05 10:40:04)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50358.34 (🔻172.00 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47850.94 (🔻37.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.38 (🔺1.81 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3034.00 (🔻19.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.07 (🔺0.02 : 2025-12-05)</span>
+<span style="padding-right:50px;">NIKKEI: 50275.97 (🔻254.37 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47850.94 (🔻37.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.38 (🔺1.81 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3030.00 (🔻23.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 154.98 (🔻0.06 : 2025-12-05)</span>
   </div>
 </div>
 
@@ -32,110 +32,115 @@
 
 ## News Headlines
 
-1. 首都圏連続強盗事件、指示役4人逮捕
-2. 埼玉で専門学校スクールバス横転、20人搬送
-3. 富山県入善町で建物火災、逃げ遅れ情報も
-4. 長野県大北地域に大雪警報、警戒続く
-5. アメリカ、カナダに26.8億ドルの空爆兵器を承認
-6. メタ、メタバース予算30％削減、超知能開発にシフト
+1. 中国、東アジア海域に艦船100隻以上を展開か
+2. ウクライナ欧州電話会談、米国の裏切り可能性を議論
+3. 改正気象業務法が成立、河川氾濫の特別警報を新設へ
+4. 首都圏連続強盗事件、指示役4人を逮捕
+5. 埼玉で専門学校スクールバス横転、20人搬送
+6. 熊本県阿蘇地方で地震発生、最大震度1
 
 ----
 
-@npr.org
+@nikkei.com
 
-The New York band performs tracks from their latest album, Dance Called Memory. n.pr/4rEGCtg
+中国が東アジア海域に艦船100隻以上展開　ロイター報道
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-05 10:28:56](https://bsky.app/profile/npr.org/post/3m77djc765s23)
+高市早苗首相の台湾有事に関する国会答弁をきっかけとする日中対立を踏まえた、日本威圧の一環の可能性があります。
 
----
+#ニュース
 
-@sokuho.news
-
-🔔防災科研より【強震モニタ】動画です。
-
-震源:熊本県阿蘇地方, 深さ:ごく浅い
-マグニチュード:2.5, 最大震度:1
-📍https://www.google.com/maps?q=33.0,131.1&ll=33.0,131.1&z=7&t=h
-地震発生日時:2025-12-05 10:22頃
-(10倍速▶120s→12s) #地震
-
-[2025-12-05 10:25:18](https://bsky.app/profile/sokuho.news/post/3m77dcsjhbl2q)
+[2025-12-05 10:45:56](https://bsky.app/profile/nikkei.com/post/3m77ehoy5ko26)
 
 ---
 
-@sokuho.news
+@nhknewsunofficial.bsky.social
 
-🔔気象庁より【地震速報】です。
+ウクライナ欧州電話会談で「仏“米が裏切る可能性”」ドイツ誌
+https://news.web.nhk/newsweb/na/na-k10014994561000
 
-10時22分頃、熊本県で最大震度1の地震を観測しました。
-震源:熊本県阿蘇地方, 深さ:ごく浅い, 規模:M2.5
-この地震による津波の心配はありません。
-(2025-12-05 10:24:51) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/05/2025-12-05-10-22-22.html?xlarge_image=1
-
-[2025-12-05 10:24:53](https://bsky.app/profile/sokuho.news/post/3m77dc2lq7i2m)
+[2025-12-05 10:42:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77eashwhh2r)
 
 ---
 
-@cnbc.com
+@en.afp.com
 
-CNBC Daily Open: Money, money, money, in Nvidia's world
+AFP’s Josh Edelson photographs vehicles navigating roadways flooded with ocean water during a “King Tide” event in Mill Valley, California. 
 
-[2025-12-05 10:22:42](https://bsky.app/profile/cnbc.com/post/3m77d64sjcy2e)
+"King Tides" occur when the Earth, moon, and sun align to produce unusually high water levels, cause tidal flooding
+
+[2025-12-05 10:40:50](https://bsky.app/profile/en.afp.com/post/3m77e6klaxw2m)
 
 ---
 
 @reuters.com
 
-Estée Lauder driving growth with new brands, global focus reut.rs/44KHGlx
+Law firms seek AI edge with new executive hires reut.rs/48iRXI6
 
-[2025-12-05 10:20:17](https://bsky.app/profile/reuters.com/post/3m77cztlc562k)
+[2025-12-05 10:40:14](https://bsky.app/profile/reuters.com/post/3m77e5inicp2d)
+
+---
+
+@nytimes.com
+
+In @nytopinion.nytimes.com
+
+“Seeking accountability against the perpetrator of a crime is how the legal system is supposed to work,” the lawyer Elora Mukherjee says. “But punishing law-abiding immigrants, children and adults alike, for the violent acts of one man is anathema to our justice system.”
+
+[2025-12-05 10:40:04](https://bsky.app/profile/nytimes.com/post/3m77e57i3li2x)
+
+---
+
+@wsj.com
+
+Work permits issued to immigrants who have applied for asylum or a range of other humanitarian programs will now be valid for 18 months rather than five years, under a new policy announced by the Trump administration on.wsj.com/4atdmzB
+
+[2025-12-05 10:36:53](https://bsky.app/profile/wsj.com/post/3m77dxixgjc2p)
 
 ---
 
 @sokuho.news
 
-🔔ANNより【速報】です。
+🛎️JNNより【速報】です。
 
-【速報】首都圏の一連の連続強盗 千葉・市川市の事件で指示役4人を逮捕 合同捜査本部
-(2025年12月5日 10:19) #ニュース
+【速報】改正気象業務法が成立 河川氾濫の特別警報など新設へ
+(2025-12-05 10:35:36) #ニュース
 
-[2025-12-05 10:19:09](https://bsky.app/profile/sokuho.news/post/3m77cxrz2zd2y)
+🟪警報注意報
+🔗https://www.jma.go.jp/bosai/warning/
 
----
-
-@nhknewsunofficial.bsky.social
-
-国連安保理の理事国大使らがシリア訪問 復興支援の姿勢を示す
-https://news.web.nhk/newsweb/na/na-k10014994531000
-
-[2025-12-05 10:18:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77cvz5xsq26)
+[2025-12-05 10:36:39](https://bsky.app/profile/sokuho.news/post/3m77dx3yo3b27)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@nikkei.com
 
-【速報】専門学校スクールバスが横転 20人が病院搬送 埼玉
-https://news.web.nhk/newsweb/na/na-k10014994581000
+ミラノ・コルティナ冬季五輪聖火、イタリアに到着（無料記事）
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-05 10:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77cvubq3n2j)
+イタリア国内の聖火リレーは12月6日にローマからスタート。
 
----
+2026年2月6日にミラノのジュゼッペ・メアッツァ競技場（通称サンシーロ）で行われる開会式まで約1万人が走り、約1万2千キロをつなぎます。
 
-@cbsnews.com
+#ニュース
 
-Federal immigration authorities this week began conducting enhanced operations in the Minneapolis-St. Paul area, a U.S. official told CBS News.
-
-[2025-12-05 10:15:01](https://bsky.app/profile/cbsnews.com/post/3m77cqfl6iq2z)
+[2025-12-05 10:31:57](https://bsky.app/profile/nikkei.com/post/3m77dood5ly2w)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@reuters.com
 
-【速報】専門学校スクールバスが横転 複数人が病院搬送か 埼玉
-https://news.web.nhk/newsweb/na/na-k10014994581000
+Italy launches 'in-depth' review of cryptocurrency risks reut.rs/4iNsCtu
 
-[2025-12-05 10:15:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77cqi2b7224)
+[2025-12-05 10:30:27](https://bsky.app/profile/reuters.com/post/3m77dlyvnz32w)
+
+---
+
+@aljazeera.com
+
+Court grants stay on previous order giving timeline for troop withdrawal as administration considers response.
+
+[2025-12-05 10:30:20](https://bsky.app/profile/aljazeera.com/post/3m77dlrxbxo2k)
 
 ---
 
