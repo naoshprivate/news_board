@@ -1,9 +1,9 @@
-# [2025-12-05 15:50 updated](2025_12_05.md)
+# [2025-12-05 16:10 updated](2025_12_05.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">This holiday season, here’s how you wow the discerning carnivores on your list. <a href="https://bsky.app/profile/wsj.com/post/3m77vcsd6bg2i" target="_blank">wsj.com</a> (2025-12-05 15:47:25)</span><span style="padding-right:50px;">米ワーナー、自社売却でNetflixと独占交渉入り　米報道 www.nikkei.com/article/DGXZQO...  ワーナー・ブラザース・ディスカバリーは「ハリー・ポッター」や「バットマン」などのコンテンツを持つハリウッドの名門スタジオの一つ。  早ければ数日でネットフリックスとの合意を発表する可能性があるといいます。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m77va5whqe22" target="_blank">nikkei.com</a> (2025-12-05 15:45:57)</span><span style="padding-right:50px;">Netflix enters exclusive talks to acquire Warner Bros Discovery studio and streaming service, Bloomberg News reporter says reut.rs/4oD49Z5 <a href="https://bsky.app/profile/reuters.com/post/3m77v6tahki2k" target="_blank">reuters.com</a> (2025-12-05 15:45:12)</span><span style="padding-right:50px;">LG Elec says Microsoft and LG affiliates pursuing cooperation on data centres reut.rs/4pq94xG <a href="https://bsky.app/profile/reuters.com/post/3m77uvu7asa2k" target="_blank">reuters.com</a> (2025-12-05 15:40:11)</span><span style="padding-right:50px;">🛎️NNNより【独自】です。  【独自】渡辺渚さんを脅迫の疑いで32歳女を書類送検 警視庁 渡辺さんの写真集に包丁置いた写真を投稿…「行きすぎた行為で申し訳ない」 (2025-12-05 15:37) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m77urcjxoa2e" target="_blank">sokuho.news</a> (2025-12-05 15:37:39)</span>
+<span style="padding-right:50px;">“所得税増税 2027年1月からに” 自民税調で意見相次ぐ https://news.web.nhk/newsweb/na/na-k10014994871000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77wjj7vfy2n" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-05 16:09:03)</span><span style="padding-right:50px;">🛎️ポストセブンより【スクープ】です。  《スクープ》“連立のキーマン”維新国対委員長の遠藤敬・首相補佐官が「秘書給与ピンハネ」で税金800万円還流疑惑、元秘書が証言 (2025-12-05 16:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m77wcqf7aj2d" target="_blank">sokuho.news</a> (2025-12-05 16:05:17)</span><span style="padding-right:50px;">Taiwan 'very moved' by Japanese prime minister's support, premier says reut.rs/3XDWBu5 <a href="https://bsky.app/profile/reuters.com/post/3m77wcidrnx2r" target="_blank">reuters.com</a> (2025-12-05 16:05:09)</span><span style="padding-right:50px;">The two men killed as they floated holding onto their capsized boat in a secondary strike against a suspected drug vessel in early September did not appear to have radio or other communications devices, the top military official overseeing the strike told lawmakers. Read more: https://cnn.it/4pnSxdI <a href="https://bsky.app/profile/cnn.com/post/3m77w4vt2zv2i" target="_blank">cnn.com</a> (2025-12-05 16:02:02)</span><span style="padding-right:50px;">ヒト型ロボット部品で勝ち抜け　日本精工は駆動装置開発、軽く肉薄に www.nikkei.com/article/DGXZQO...  日本の部品メーカーが従来の産業用ロボット向けなどで培った高い信頼性や精度は、そのままヒト型ロボット向けでも長所に。  米中のヒト型ロボット量産体制の供給網に入ることがチャンスになるとの指摘もあります。 <a href="https://bsky.app/profile/nikkei.com/post/3m77w4rkuyt2t" target="_blank">nikkei.com</a> (2025-12-05 16:01:57)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47850.94 (🔻37.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.38 (🔺1.76 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 154.59 (🔻0.46 : 2025-12-05)</span>
+<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47850.94 (🔻37.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.38 (🔺1.76 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 154.53 (🔻0.52 : 2025-12-05)</span>
   </div>
 </div>
 
@@ -32,104 +32,106 @@
 
 ## News Headlines
 
-1. Netflix、ワーナー買収へ独占交渉入りか
-2. 長期金利、18年ぶり高水準1.95％
-3. 静岡・病院から逃走の被告を確保、三島市内
-4. クマ人身被害、過去最多230人に
-5. オックスフォード大、2025年の言葉に「レイジベイト」
-6. ブルーシール本店、年間来客数50万人突破
+1. 所得税増税、2027年1月開始か 自民税調で議論
+2. 維新・遠藤敬氏に秘書給与ピンハネ疑惑 800万円還流か
+3. 自民・維新 議員定数削減法案を国会提出
+4. 八村塁、劇的スリーポイント！レイカーズ勝利に貢献
+5. 米ワーナー、Netflixと自社売却で独占交渉入り
+6. 勾留中の男、病院から逃走 静岡県内で身柄確保
 
 ----
 
-@wsj.com
+@nhknewsunofficial.bsky.social
 
-This holiday season, here’s how you wow the discerning carnivores on your list.
+“所得税増税 2027年1月からに” 自民税調で意見相次ぐ
+https://news.web.nhk/newsweb/na/na-k10014994871000
 
-[2025-12-05 15:47:25](https://bsky.app/profile/wsj.com/post/3m77vcsd6bg2i)
-
----
-
-@nikkei.com
-
-米ワーナー、自社売却でNetflixと独占交渉入り　米報道
-www.nikkei.com/article/DGXZQO...
-
-ワーナー・ブラザース・ディスカバリーは「ハリー・ポッター」や「バットマン」などのコンテンツを持つハリウッドの名門スタジオの一つ。
-
-早ければ数日でネットフリックスとの合意を発表する可能性があるといいます。
-
-#ニュース
-
-[2025-12-05 15:45:57](https://bsky.app/profile/nikkei.com/post/3m77va5whqe22)
-
----
-
-@reuters.com
-
-Netflix enters exclusive talks to acquire Warner Bros Discovery studio and streaming service, Bloomberg News reporter says reut.rs/4oD49Z5
-
-[2025-12-05 15:45:12](https://bsky.app/profile/reuters.com/post/3m77v6tahki2k)
-
----
-
-@reuters.com
-
-LG Elec says Microsoft and LG affiliates pursuing cooperation on data centres reut.rs/4pq94xG
-
-[2025-12-05 15:40:11](https://bsky.app/profile/reuters.com/post/3m77uvu7asa2k)
+[2025-12-05 16:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77wjj7vfy2n)
 
 ---
 
 @sokuho.news
 
-🛎️NNNより【独自】です。
+🛎️ポストセブンより【スクープ】です。
 
-【独自】渡辺渚さんを脅迫の疑いで32歳女を書類送検 警視庁 渡辺さんの写真集に包丁置いた写真を投稿…「行きすぎた行為で申し訳ない」
-(2025-12-05 15:37) #ニュース
+《スクープ》“連立のキーマン”維新国対委員長の遠藤敬・首相補佐官が「秘書給与ピンハネ」で税金800万円還流疑惑、元秘書が証言
+(2025-12-05 16:00) #ニュース
 
-[2025-12-05 15:37:39](https://bsky.app/profile/sokuho.news/post/3m77urcjxoa2e)
-
----
-
-@financialtimes.com
-
-Warner Bros in exclusive talks with Netflix about studio and streaming sale on.ft.com/4oAC3xC
-
-[2025-12-05 15:37:04](https://bsky.app/profile/financialtimes.com/post/3m77uqbkzqk24)
-
----
-
-@nhknewsunofficial.bsky.social
-
-ドジャース 来季で引退のロハスと1年契約 最後はドジャースで
-https://news.web.nhk/newsweb/na/na-k10014994921000
-
-[2025-12-05 15:36:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77uonm4dx2k)
-
----
-
-@nhknewsunofficial.bsky.social
-
-長期金利 10年もの国債の利回り1.95％に 18年ぶりの高水準
-https://news.web.nhk/newsweb/na/na-k10014994591000
-
-[2025-12-05 15:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77uoicoou2e)
+[2025-12-05 16:05:17](https://bsky.app/profile/sokuho.news/post/3m77wcqf7aj2d)
 
 ---
 
 @reuters.com
 
-Japan's Nikkei skids in upbeat Asia; investors eye US inflation data reut.rs/4piXWT4
+Taiwan 'very moved' by Japanese prime minister's support, premier says reut.rs/3XDWBu5
 
-[2025-12-05 15:35:07](https://bsky.app/profile/reuters.com/post/3m77ums3jkx2r)
+[2025-12-05 16:05:09](https://bsky.app/profile/reuters.com/post/3m77wcidrnx2r)
 
 ---
 
-@npr.org
+@cnn.com
 
-To close out the year, World Cafe shares some of their personal favorite music-related moments. n.pr/48xBrTr
+The two men killed as they floated holding onto their capsized boat in a secondary strike against a suspected drug vessel in early September did not appear to have radio or other communications devices, the top military official overseeing the strike told lawmakers. Read more: https://cnn.it/4pnSxdI
 
-[2025-12-05 15:35:03](https://bsky.app/profile/npr.org/post/3m77umnwfo42e)
+[2025-12-05 16:02:02](https://bsky.app/profile/cnn.com/post/3m77w4vt2zv2i)
+
+---
+
+@nikkei.com
+
+ヒト型ロボット部品で勝ち抜け　日本精工は駆動装置開発、軽く肉薄に
+www.nikkei.com/article/DGXZQO...
+
+日本の部品メーカーが従来の産業用ロボット向けなどで培った高い信頼性や精度は、そのままヒト型ロボット向けでも長所に。
+
+米中のヒト型ロボット量産体制の供給網に入ることがチャンスになるとの指摘もあります。
+
+[2025-12-05 16:01:57](https://bsky.app/profile/nikkei.com/post/3m77w4rkuyt2t)
+
+---
+
+@cnbc.com
+
+Saving doesn't always require more money, you might just have to reorganize what you already have, says CFP Kashif Ahmed.
+
+Here’s where he recommends starting.
+
+[2025-12-05 16:00:36](https://bsky.app/profile/cnbc.com/post/3m77w2drgjy23)
+
+---
+
+@reuters.com
+
+Japan finance minister says dialogue with BOJ governor has been positive reut.rs/48zkW9l
+
+[2025-12-05 16:00:32](https://bsky.app/profile/reuters.com/post/3m77w2ads7t2y)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】自民・維新が議員定数削減法案を国会に提出
+(2025-12-05 15:59:46) #ニュース
+
+[2025-12-05 16:00:22](https://bsky.app/profile/sokuho.news/post/3m77vzwo2oo2m)
+
+---
+
+@aljazeera.com
+
+President Dissanayake has called rescue and recovery efforts the most difficult in the nation's history.
+
+[2025-12-05 16:00:19](https://bsky.app/profile/aljazeera.com/post/3m77vztzq4o2f)
+
+---
+
+@bloomberg.com
+
+China’s leaders are widely expected to stick with its manufacturing-led growth strategy in key policy meetings this month, even as calls grow at home and abroad for a more urgent shift toward consumption.
+
+[2025-12-05 16:00:18](https://bsky.app/profile/bloomberg.com/post/3m77vzsolyk2d)
 
 ---
 
