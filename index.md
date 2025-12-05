@@ -1,9 +1,9 @@
-# [2025-12-05 23:50 updated](2025_12_05.md)
+# [2025-12-06 00:30 updated](2025_12_06.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Bank of England and FCA announce plans to support growth of mutuals sector reut.rs/44Lb8If <a href="https://bsky.app/profile/reuters.com/post/3m7apzb5ulh2n" target="_blank">reuters.com</a> (2025-12-05 23:45:17)</span><span style="padding-right:50px;">As Yieldstreet tries to distance itself from a rocky past with a new name and ad campaign, its customers are dealing with a present reality that is increasingly dire.  Read more: cnb.cx/4pknvDh <a href="https://bsky.app/profile/cnbc.com/post/3m7apyxwjlt2j" target="_blank">cnbc.com</a> (2025-12-05 23:45:07)</span><span style="padding-right:50px;">During interviews with the FBI, the suspect arrested in the pipe bomb probe told investigators that he believed the 2020 election was stolen, people briefed on the matter said. https://cnn.it/4a0FdXW <a href="https://bsky.app/profile/cnn.com/post/3m7apvuh3tl2j" target="_blank">cnn.com</a> (2025-12-05 23:43:23)</span><span style="padding-right:50px;">“[Eurovision] cannot be used to whitewash Israel’s ongoing genocide in Gaza.”  The Green Party in the UK has urged the British gov't to “follow in the footsteps of Ireland, Spain, Slovenia and the Netherlands” in boycotting Eurovision.  🔴 LIVE updates: aje.io/aatkt4 <a href="https://bsky.app/profile/aljazeera.com/post/3m7apseavnk2h" target="_blank">aljazeera.com</a> (2025-12-05 23:41:25)</span><span style="padding-right:50px;">🇷🇼 The Rwanda camp giving a second chance to genocidal enemies  Former fighters of the Democratic Forces for the Liberation of Rwanda (FDLR), among them recent recruits and those who participated in the 1994 genocide in Rwanda, take part in a rehabilitation camp. <a href="https://bsky.app/profile/en.afp.com/post/3m7aprsmjho2o" target="_blank">en.afp.com</a> (2025-12-05 23:41:07)</span>
+<span style="padding-right:50px;">Consumer Reports Reveals 2026 Automotive Rankings – And The Results Will Surprise You. <a href="https://bsky.app/profile/forbes.com/post/3m7ashs5iic23" target="_blank">forbes.com</a> (2025-12-06 00:29:12)</span><span style="padding-right:50px;">These TV Shows Are Leaving Netflix In December — Watch Them While You Can <a href="https://bsky.app/profile/forbes.com/post/3m7asdggvvc23" target="_blank">forbes.com</a> (2025-12-06 00:26:45)</span><span style="padding-right:50px;">Europe’s fateful moment on.ft.com/4oyauVt <a href="https://bsky.app/profile/financialtimes.com/post/3m7asbt6j2x26" target="_blank">financialtimes.com</a> (2025-12-06 00:25:51)</span><span style="padding-right:50px;">Wall St subdued at open as investors await key inflation report reut.rs/4pWnPZ3 <a href="https://bsky.app/profile/reuters.com/post/3m7asalewfc27" target="_blank">reuters.com</a> (2025-12-06 00:25:10)</span><span style="padding-right:50px;">The Trump administration made sweeping immigration changes in the wake of last week’s shooting of two National Guard members in Washington, D.C.  Here's how officials have temporarily frozen pathways for people to enter or live in the U.S. <a href="https://bsky.app/profile/nytimes.com/post/3m7asai7epq2l" target="_blank">nytimes.com</a> (2025-12-06 00:25:06)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 48024.74 (🔺145.14 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.94 (🔺11.17 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 181.62 (🔻2.24 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.15 (🔺0.11 : 2025-12-05)</span>
+<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 48073.54 (🔺193.94 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23654.89 (🔺87.12 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.89 (🔻0.97 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.14 (🔺0.09 : 2025-12-05)</span>
   </div>
 </div>
 
@@ -32,104 +32,96 @@
 
 ## News Headlines
 
-1. イングランド銀行とFCA、ミューチュアル・セクターの成長支援計画を発表
-2. Yieldstreet、過去の苦境からの脱却試みるも顧客は厳しい現実
-3. パイプ爆弾事件容疑者、FBIに2020年選挙は盗まれたと証言
-4. ユーロビジョン、イスラエルのジェノサイドを美化するなと英国緑の党がボイコット要求
-5. Netflix、ワーナー・ブラザース・ディスカバリーのスタジオ事業を買収へ
-6. EU、Xに制裁金220億円 デジタル規制違反で初の認定
+1.  消費者レポート、2026年自動車ランキングを発表 - 驚きの結果
+2.  Netflix、12月に配信終了となる番組を発表
+3.  米、移民政策を一時凍結 - 国境警備隊員銃撃事件を受け
+4.  2026年、アメリカ人のための最高の退職地
+5.  インフレ率、2024年4月以来の高水準 - 消費支出は鈍化
+6.  トランプ大統領、2026年ワールドカップ抽選会で主役 - FIFAとの関係深化
 
 ----
 
-@reuters.com
+@forbes.com
 
-Bank of England and FCA announce plans to support growth of mutuals sector reut.rs/44Lb8If
+Consumer Reports Reveals 2026 Automotive Rankings – And The Results Will Surprise You.
 
-[2025-12-05 23:45:17](https://bsky.app/profile/reuters.com/post/3m7apzb5ulh2n)
-
----
-
-@cnbc.com
-
-As Yieldstreet tries to distance itself from a rocky past with a new name and ad campaign, its customers are dealing with a present reality that is increasingly dire.
-
-Read more: cnb.cx/4pknvDh
-
-[2025-12-05 23:45:07](https://bsky.app/profile/cnbc.com/post/3m7apyxwjlt2j)
+[2025-12-06 00:29:12](https://bsky.app/profile/forbes.com/post/3m7ashs5iic23)
 
 ---
 
-@cnn.com
+@forbes.com
 
-During interviews with the FBI, the suspect arrested in the pipe bomb probe told investigators that he believed the 2020 election was stolen, people briefed on the matter said.
-https://cnn.it/4a0FdXW
+These TV Shows Are Leaving Netflix In December — Watch Them While You Can
 
-[2025-12-05 23:43:23](https://bsky.app/profile/cnn.com/post/3m7apvuh3tl2j)
-
----
-
-@aljazeera.com
-
-“[Eurovision] cannot be used to whitewash Israel’s ongoing genocide in Gaza.”
-
-The Green Party in the UK has urged the British gov't to “follow in the footsteps of Ireland, Spain, Slovenia and the Netherlands” in boycotting Eurovision.
-
-🔴 LIVE updates: aje.io/aatkt4
-
-[2025-12-05 23:41:25](https://bsky.app/profile/aljazeera.com/post/3m7apseavnk2h)
+[2025-12-06 00:26:45](https://bsky.app/profile/forbes.com/post/3m7asdggvvc23)
 
 ---
 
-@en.afp.com
+@financialtimes.com
 
-🇷🇼 The Rwanda camp giving a second chance to genocidal enemies
+Europe’s fateful moment on.ft.com/4oyauVt
 
-Former fighters of the Democratic Forces for the Liberation of Rwanda (FDLR), among them recent recruits and those who participated in the 1994 genocide in Rwanda, take part in a rehabilitation camp.
-
-[2025-12-05 23:41:07](https://bsky.app/profile/en.afp.com/post/3m7aprsmjho2o)
+[2025-12-06 00:25:51](https://bsky.app/profile/financialtimes.com/post/3m7asbt6j2x26)
 
 ---
 
 @reuters.com
 
-Winter Games flame lit at Italy's presidential palace reut.rs/3KFxXX0
+Wall St subdued at open as investors await key inflation report reut.rs/4pWnPZ3
 
-[2025-12-05 23:40:15](https://bsky.app/profile/reuters.com/post/3m7apqbiozj27)
+[2025-12-06 00:25:10](https://bsky.app/profile/reuters.com/post/3m7asalewfc27)
 
 ---
 
 @nytimes.com
 
-Netflix announced plans on Friday to acquire Warner Bros. Discovery’s studio and streaming business, in a deal that will bulk up the world’s biggest paid streaming service.
+The Trump administration made sweeping immigration changes in the wake of last week’s shooting of two National Guard members in Washington, D.C.
 
-Here's what we know: nyti.ms/48Z5jbJ
+Here's how officials have temporarily frozen pathways for people to enter or live in the U.S.
 
-[2025-12-05 23:40:07](https://bsky.app/profile/nytimes.com/post/3m7appzonpy2d)
-
----
-
-@nhknewsunofficial.bsky.social
-
-ミャンマー 民主派勢力外相“総選挙結果 日本は承認しないで”
-https://news.web.nhk/newsweb/na/na-k10014995651000
-
-[2025-12-05 23:39:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7apo6jpvn2e)
+[2025-12-06 00:25:06](https://bsky.app/profile/nytimes.com/post/3m7asai7epq2l)
 
 ---
 
-@reuters.com
+@forbes.com
 
-Ex-Lehman Brothers executive-backed Mayflower raises $500 million in London SPAC IPO reut.rs/3KH3Iis
+The Best Places To Retire For Americans In 2026, According To International Living
 
-[2025-12-05 23:35:11](https://bsky.app/profile/reuters.com/post/3m7aph7sx2o2i)
+[2025-12-06 00:25:06](https://bsky.app/profile/forbes.com/post/3m7asahhk4s23)
 
 ---
 
-@cnbc.com
+@forbes.com
 
-HPE stock sinks 9% on revenue miss and weak server numbers
+Microsoft Teams Starts Telling Your Boss Where You Are—Now Just 8 Weeks Away
 
-[2025-12-05 23:35:06](https://bsky.app/profile/cnbc.com/post/3m7aph2wikt2x)
+[2025-12-06 00:24:49](https://bsky.app/profile/forbes.com/post/3m7as7xaxfk23)
+
+---
+
+@cnn.com
+
+Inflation ticked up to its highest annual rate since April 2024 and consumer spending cooled in September, according to a shutdown-delayed report released by the Commerce Department.
+https://cnn.it/4iEZ8h2
+
+[2025-12-06 00:21:14](https://bsky.app/profile/cnn.com/post/3m7arzkhyxp2q)
+
+---
+
+@forbes.com
+
+An earlier delayed data release indicated consumer prices continued to rise in the month.
+
+[2025-12-06 00:20:04](https://bsky.app/profile/forbes.com/post/3m7arxhuzl22d)
+
+---
+
+@en.afp.com
+
+🇺🇸 Streaming giant Netflix said it will buy film and television studio Warner Bros. Discovery for nearly $83 billion, the entertainment industry's biggest consolidation deal this decade. 
+➡️ u.afp.com/S73a
+
+[2025-12-06 00:20:02](https://bsky.app/profile/en.afp.com/post/3m7arxfj2jj22)
 
 ---
 
@@ -137,7 +129,7 @@ HPE stock sinks 9% on revenue miss and weak server numbers
 
 ## 2025-12
 
-[12月05日](2025_12_05.md), [12月04日](2025_12_04.md), [12月03日](2025_12_03.md), [12月02日](2025_12_02.md), [12月01日](2025_12_01.md), 
+[12月06日](2025_12_06.md), [12月05日](2025_12_05.md), [12月04日](2025_12_04.md), [12月03日](2025_12_03.md), [12月02日](2025_12_02.md), [12月01日](2025_12_01.md), 
 
 ## 2025-11
 
