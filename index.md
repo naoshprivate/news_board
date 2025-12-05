@@ -1,9 +1,9 @@
-# [2025-12-05 16:50 updated](2025_12_05.md)
+# [2025-12-05 17:10 updated](2025_12_05.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Before being read his rights, the suspect in the UnitedHealthcare CEO killing talked. Now his lawyers say those words could reshape the case. n.pr/4awk9Zi <a href="https://bsky.app/profile/npr.org/post/3m77ylotq3f2g" target="_blank">npr.org</a> (2025-12-05 16:46:05)</span><span style="padding-right:50px;">Japan issues safety advisory in China ahead of Nanjing Massacre anniversary reut.rs/4pOelyG <a href="https://bsky.app/profile/reuters.com/post/3m77yk2wqmk2a" target="_blank">reuters.com</a> (2025-12-05 16:45:11)</span><span style="padding-right:50px;">トヨタ ハイブリッドの新型スポーツカーを発表 “重要な車種” https://news.web.nhk/newsweb/na/na-k10014995041000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77yjvelgk2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-05 16:45:03)</span><span style="padding-right:50px;">CNBC Daily Open: It's a rich Nvidia's world <a href="https://bsky.app/profile/cnbc.com/post/3m77yig4yno2e" target="_blank">cnbc.com</a> (2025-12-05 16:44:15)</span><span style="padding-right:50px;">スケート ショートトラック日本代表 宮田将吾ら6人が内定確実 https://news.web.nhk/newsweb/na/na-k10014995011000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77yekkifc2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-05 16:42:03)</span>
+<span style="padding-right:50px;">障害がある人や家族などの体験記 「NHK障害福祉賞」贈呈式 https://news.web.nhk/newsweb/na/na-k10014995021000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77zurooqo24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-05 17:09:02)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】川崎市のリサイクル工場で火事 現在も延焼中 (2025-12-05 17:07:46) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m77zuk56wa2y" target="_blank">sokuho.news</a> (2025-12-05 17:08:56)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】＜運転再開＞JR東北本線『白石～大河原』、レール破損で一時運転見合わせ（再開は5日午後4時40分頃） (2025-12-05 17:08) #ニュース  🚃鉄道運行情報 🔗https://transit.yahoo.co.jp/diainfo <a href="https://bsky.app/profile/sokuho.news/post/3m77zto32lp27" target="_blank">sokuho.news</a> (2025-12-05 17:08:27)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】コメ平均価格4335円/5kg（前週比+23円）過去最高値更新 全国スーパー1000店舗 (2025年12月5日 17:07) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m77zrwsphx2d" target="_blank">sokuho.news</a> (2025-12-05 17:07:29)</span><span style="padding-right:50px;">Brian Walshe came face-to-face for the first time with the man who had been having an affair with his wife before her death, as he took the stand to testify in Walshe’s murder trial.  <a href="https://bsky.app/profile/cnn.com/post/3m77zr4rhxr2q" target="_blank">cnn.com</a> (2025-12-05 17:07:01)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47850.94 (🔻37.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.38 (🔺1.76 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 154.56 (🔻0.49 : 2025-12-05)</span>
+<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47850.94 (🔻37.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.38 (🔺1.76 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 154.77 (🔻0.27 : 2025-12-05)</span>
   </div>
 </div>
 
@@ -32,87 +32,32 @@
 
 ## News Headlines
 
-1. ユナイテッドヘルスCEO殺害事件、容疑者の供述が波紋
-2. 日本、南京事件追悼日前に中国で安全注意喚起
-3. トヨタ、新型ハイブリッドスポーツカー発表
-4. バイドゥの昆侖芯、香港IPOを検討か
-5. 自民党、衆院議員定数削減法案を了承
-6. 吉村知事、大阪府民に1万円分の米クーポン配布へ
+1. 川崎市リサイクル工場で火災、延焼中
+2. JR東北本線、レール破損で一時運転見合わせ
+3. コメ平均価格、過去最高値更新
+4. 千葉で女性が切りつけられ死亡、同僚の男を逮捕
+5. 大阪府、1万円分の「お米クーポン」配布へ
+6. ヤクルト、青木宣親氏がGM就任へ
 
 ----
 
-@npr.org
-
-Before being read his rights, the suspect in the UnitedHealthcare CEO killing talked. Now his lawyers say those words could reshape the case. n.pr/4awk9Zi
-
-[2025-12-05 16:46:05](https://bsky.app/profile/npr.org/post/3m77ylotq3f2g)
-
----
-
-@reuters.com
-
-Japan issues safety advisory in China ahead of Nanjing Massacre anniversary reut.rs/4pOelyG
-
-[2025-12-05 16:45:11](https://bsky.app/profile/reuters.com/post/3m77yk2wqmk2a)
-
----
-
 @nhknewsunofficial.bsky.social
 
-トヨタ ハイブリッドの新型スポーツカーを発表 “重要な車種”
-https://news.web.nhk/newsweb/na/na-k10014995041000
+障害がある人や家族などの体験記 「NHK障害福祉賞」贈呈式
+https://news.web.nhk/newsweb/na/na-k10014995021000
 
-[2025-12-05 16:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77yjvelgk2u)
-
----
-
-@cnbc.com
-
-CNBC Daily Open: It's a rich Nvidia's world
-
-[2025-12-05 16:44:15](https://bsky.app/profile/cnbc.com/post/3m77yig4yno2e)
+[2025-12-05 17:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77zurooqo24)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@sokuho.news
 
-スケート ショートトラック日本代表 宮田将吾ら6人が内定確実
-https://news.web.nhk/newsweb/na/na-k10014995011000
+🛎️JNNより【速報】です。
 
-[2025-12-05 16:42:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77yekkifc2u)
+【速報】川崎市のリサイクル工場で火事 現在も延焼中
+(2025-12-05 17:07:46) #ニュース
 
----
-
-@reuters.com
-
-Exclusive: Baidu's Kunlunxin, valued at close to $3 billion, eyes Hong Kong IPO, sources say reut.rs/4rJYX8A
-
-[2025-12-05 16:40:09](https://bsky.app/profile/reuters.com/post/3m77yb37o3q2r)
-
----
-
-@nhknewsunofficial.bsky.social
-
-自民 衆院議員定数削減法案 総務会で最終的に了承
-https://news.web.nhk/newsweb/na/na-k10014994951000
-
-[2025-12-05 16:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77xzrwrmd2t)
-
----
-
-@reuters.com
-
-Harvard professor arrested by US immigration agents after firing pellet gun near synagogue reut.rs/4iBxnGg
-
-[2025-12-05 16:35:06](https://bsky.app/profile/reuters.com/post/3m77xy2lkxi2w)
-
----
-
-@cnbc.com
-
-European stocks poised for upbeat open as global investors look ahead to Fed meeting
-
-[2025-12-05 16:34:36](https://bsky.app/profile/cnbc.com/post/3m77xx5qae72e)
+[2025-12-05 17:08:56](https://bsky.app/profile/sokuho.news/post/3m77zuk56wa2y)
 
 ---
 
@@ -120,10 +65,83 @@ European stocks poised for upbeat open as global investors look ahead to Fed mee
 
 🛎️NNNより【速報】です。
 
-【速報】大阪府の吉村知事 増額して1万円分の「お米クーポン」新たに配布と発表
-(2025-12-05 16:33) #ニュース
+【速報】＜運転再開＞JR東北本線『白石～大河原』、レール破損で一時運転見合わせ（再開は5日午後4時40分頃）
+(2025-12-05 17:08) #ニュース
 
-[2025-12-05 16:34:01](https://bsky.app/profile/sokuho.news/post/3m77xw3snhd2x)
+🚃鉄道運行情報
+🔗https://transit.yahoo.co.jp/diainfo
+
+[2025-12-05 17:08:27](https://bsky.app/profile/sokuho.news/post/3m77zto32lp27)
+
+---
+
+@sokuho.news
+
+🔔ANNより【速報】です。
+
+【速報】コメ平均価格4335円/5kg（前週比+23円）過去最高値更新 全国スーパー1000店舗
+(2025年12月5日 17:07) #ニュース
+
+[2025-12-05 17:07:29](https://bsky.app/profile/sokuho.news/post/3m77zrwsphx2d)
+
+---
+
+@cnn.com
+
+Brian Walshe came face-to-face for the first time with the man who had been having an affair with his wife before her death, as he took the stand to testify in Walshe’s murder trial. 
+
+[2025-12-05 17:07:01](https://bsky.app/profile/cnn.com/post/3m77zr4rhxr2q)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+サッカーJ1最終節 優勝は首位 鹿島か 2位 柏か 6日午後2時開始
+https://news.web.nhk/newsweb/na/na-k10014995081000
+
+[2025-12-05 17:06:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77zpkuvrm2k)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+千葉 女性が切りつけられ死亡 同僚の男を殺人未遂容疑で逮捕
+https://news.web.nhk/newsweb/na/na-k10014995171000
+
+[2025-12-05 17:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77zpg6d2m2r)
+
+---
+
+@reuters.com
+
+Putin and Modi discuss trade, peace in New Delhi summit reut.rs/48xbOSz
+
+[2025-12-05 17:05:08](https://bsky.app/profile/reuters.com/post/3m77znqpyyh2y)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+インフルエンザ患者数 前週から減少も依然として多い状況
+https://news.web.nhk/newsweb/na/na-k10014995121000
+
+[2025-12-05 17:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77zk2s3p624)
+
+---
+
+@nikkei.com
+
+腐敗横行のメキシコ、移民は「食い物」
+役所も警察も弁護士も寄生
+www.nikkei.com/article/DGXZQO...
+
+「メキシコは本当に信用できない。来る途中で何もかも奪われたわ」
+
+2024年3月、経済悪化が続くベネズエラに見切りをつけ、家族6人で危険なジャングル地帯を越えたある移民はこう振り返ります。
+
+滞在資格のない移民が生きていくのに欠かせないスマートフォンを奪ったのは、メキシコ移民当局の事務官でした。
+
+[2025-12-05 17:01:56](https://bsky.app/profile/nikkei.com/post/3m77zhzmhym2k)
 
 ---
 
