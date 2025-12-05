@@ -1,9 +1,9 @@
-# [2025-12-06 07:30 updated](2025_12_06.md)
+# [2025-12-06 07:50 updated](2025_12_06.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">トランプ政権「国家安全保障戦略」公表 アメリカ第一主義強調 https://news.web.nhk/newsweb/na/na-k10014995691000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bjszmkk62r" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-06 07:27:02)</span><span style="padding-right:50px;">EIA to ditch some existing reports and launch new surveys on minerals, data centers reut.rs/3KLSjhj <a href="https://bsky.app/profile/reuters.com/post/3m7bjplrbjf27" target="_blank">reuters.com</a> (2025-12-06 07:25:09)</span><span style="padding-right:50px;">Dario Amodei, ‘safe AI’ evangelist eyes Anthropic IPO on.ft.com/4pRaLE4 <a href="https://bsky.app/profile/financialtimes.com/post/3m7bjoasfqs2v" target="_blank">financialtimes.com</a> (2025-12-06 07:24:24)</span><span style="padding-right:50px;">With George Gershwin’s melancholy melody and DuBose Heyward’s colloquial poetry, the opening aria from ‘Porgy and Bess’ remains, 90 years after its premiere, among the most beloved songs in American music. on.wsj.com/49VUGIE <a href="https://bsky.app/profile/wsj.com/post/3m7bjilbxwv22" target="_blank">wsj.com</a> (2025-12-06 07:21:14)</span><span style="padding-right:50px;">JR東海道線 運転再開 https://news.web.nhk/newsweb/na/na-k10014995881000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bjibcott2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-06 07:21:02)</span>
+<span style="padding-right:50px;">Trump says he'll discuss trade with Mexico, Canada after FIFA event reut.rs/4iPbQu0 <a href="https://bsky.app/profile/reuters.com/post/3m7bktmpaww27" target="_blank">reuters.com</a> (2025-12-06 07:45:18)</span><span style="padding-right:50px;">China Vanke seeks second onshore bond extension, skips call on separate 2028 note reut.rs/48nvGsI <a href="https://bsky.app/profile/reuters.com/post/3m7bkl5e5o42k" target="_blank">reuters.com</a> (2025-12-06 07:40:34)</span><span style="padding-right:50px;">Unidentified drones breached Ireland's airspace during visit by Ukraine's Zelenskyy. <a href="https://bsky.app/profile/cbsnews.com/post/3m7bkk6ajby2o" target="_blank">cbsnews.com</a> (2025-12-06 07:40:01)</span><span style="padding-right:50px;">Germany military service: 'Protesting before it's too late' <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7bkjrq57u2l" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-06 07:39:47)</span><span style="padding-right:50px;">The conference that is older than the NCAA itself once envisioned itself as a paragon of academic and athletic balance. The Big Ten is now known for unbridled expansion. <a href="https://bsky.app/profile/wsj.com/post/3m7bki4p5yh2p" target="_blank">wsj.com</a> (2025-12-06 07:38:52)</span>
   </div>
 </div>
 
@@ -32,94 +32,92 @@
 
 ## News Headlines
 
-1. トランプ政権、国家安全保障戦略発表：アメリカ第一主義を強調
-2. 燃料価格高騰で米消費者支出減速
-3. メタ、AIペンダント企業買収：ハードウェア強化へ
-4. JR東海道線、運転再開
-5. 欧州連合、X（旧Twitter）に140億円の罰金：透明性規則違反
-6. FIFA、新設の平和賞を発表
+1. トランプ、FIFAイベント後にメキシコ、カナダと貿易協議へ
+2. 中国不動産大手、社債延長を模索、一部債券のコールスキップ
+3. ウクライナ大統領訪問中、アイルランド領空に正体不明ドローン侵入
+4. ドイツで兵役義務化への抗議デモ
+5. コンゴ東部で戦闘再燃、ルワンダへ数百人が避難
+6. 米中高官が貿易協力について協議、関係改善の兆し
 
 ----
 
-@nhknewsunofficial.bsky.social
+@reuters.com
 
-トランプ政権「国家安全保障戦略」公表 アメリカ第一主義強調
-https://news.web.nhk/newsweb/na/na-k10014995691000
+Trump says he'll discuss trade with Mexico, Canada after FIFA event reut.rs/4iPbQu0
 
-[2025-12-06 07:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bjszmkk62r)
+[2025-12-06 07:45:18](https://bsky.app/profile/reuters.com/post/3m7bktmpaww27)
 
 ---
 
 @reuters.com
 
-EIA to ditch some existing reports and launch new surveys on minerals, data centers reut.rs/3KLSjhj
+China Vanke seeks second onshore bond extension, skips call on separate 2028 note reut.rs/48nvGsI
 
-[2025-12-06 07:25:09](https://bsky.app/profile/reuters.com/post/3m7bjplrbjf27)
-
----
-
-@financialtimes.com
-
-Dario Amodei, ‘safe AI’ evangelist eyes Anthropic IPO on.ft.com/4pRaLE4
-
-[2025-12-06 07:24:24](https://bsky.app/profile/financialtimes.com/post/3m7bjoasfqs2v)
-
----
-
-@wsj.com
-
-With George Gershwin’s melancholy melody and DuBose Heyward’s colloquial poetry, the opening aria from ‘Porgy and Bess’ remains, 90 years after its premiere, among the most beloved songs in American music. on.wsj.com/49VUGIE
-
-[2025-12-06 07:21:14](https://bsky.app/profile/wsj.com/post/3m7bjilbxwv22)
-
----
-
-@nhknewsunofficial.bsky.social
-
-JR東海道線 運転再開
-https://news.web.nhk/newsweb/na/na-k10014995881000
-
-[2025-12-06 07:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bjibcott2b)
+[2025-12-06 07:40:34](https://bsky.app/profile/reuters.com/post/3m7bkl5e5o42k)
 
 ---
 
 @cbsnews.com
 
-U.S. expands investigation into Waymo over robotaxis driving around stopped school buses.
+Unidentified drones breached Ireland's airspace during visit by Ukraine's Zelenskyy.
 
-[2025-12-06 07:20:01](https://bsky.app/profile/cbsnews.com/post/3m7bjgfod4u2j)
-
----
-
-@financialtimes.com
-
-Meta buys AI pendant start-up Limitless to expand hardware push on.ft.com/4avk0p1
-
-[2025-12-06 07:17:39](https://bsky.app/profile/financialtimes.com/post/3m7bjc6hynx2j)
+[2025-12-06 07:40:01](https://bsky.app/profile/cbsnews.com/post/3m7bkk6ajby2o)
 
 ---
 
-@reuters.com
+@bbcnews-world-rss.bsky.social
 
-Gen Z puts crypto on holiday wish lists reut.rs/4pY0TZv
+Germany military service: 'Protesting before it's too late'
 
-[2025-12-06 07:15:16](https://bsky.app/profile/reuters.com/post/3m7bj5wd2ok2d)
-
----
-
-@reuters.com
-
-US consumer spending slows in September as high prices curb demand reut.rs/48IkwO7
-
-[2025-12-06 07:10:17](https://bsky.app/profile/reuters.com/post/3m7biuyk55o27)
+[2025-12-06 07:39:47](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7bkjrq57u2l)
 
 ---
 
 @wsj.com
 
-Philip Venables and Ted Huffman adapt Larry Mitchell’s classic of 1970s gay literature in a joyous, boundary-blurring event at Park Avenue Armory; also in New York, singer Kate Lindsey performed a program that tracked the career of Kurt Weill. on.wsj.com/4iCXSes
+The conference that is older than the NCAA itself once envisioned itself as a paragon of academic and athletic balance. The Big Ten is now known for unbridled expansion.
 
-[2025-12-06 07:10:03](https://bsky.app/profile/wsj.com/post/3m7biuldzkd2x)
+[2025-12-06 07:38:52](https://bsky.app/profile/wsj.com/post/3m7bki4p5yh2p)
+
+---
+
+@reuters.com
+
+BHP, Rio Tinto start trial of electric haul trucks at Jimblebar reut.rs/48xYpty
+
+[2025-12-06 07:35:08](https://bsky.app/profile/reuters.com/post/3m7bkbgklti2y)
+
+---
+
+@en.afp.com
+
+Fresh fighting erupts in eastern DR Congo, forcing hundreds to flee across the border into Rwanda, a day after a peace deal was signed in Washington u.afp.com/S7wN
+
+[2025-12-06 07:31:31](https://bsky.app/profile/en.afp.com/post/3m7bk2xbe3c2o)
+
+---
+
+@usatoday.com
+
+Europe faces "civilizational erasure" and must change to remain a reliable US ally, National Security Strategy posted by White House website says.
+
+[2025-12-06 07:30:46](https://bsky.app/profile/usatoday.com/post/3m7bjzmgjy52h)
+
+---
+
+@bloomberg.com
+
+Senior US and Chinese officials spoke about maintaining cooperation on trade, the latest sign of warming relations between the world’s two largest economies
+
+[2025-12-06 07:30:28](https://bsky.app/profile/bloomberg.com/post/3m7bjz32kfm2g)
+
+---
+
+@aljazeera.com
+
+Gehry blended pop art with monumental architecture that reshaped skylines from Prague to Los Angeles and New York City.
+
+[2025-12-06 07:30:27](https://bsky.app/profile/aljazeera.com/post/3m7bjz2dltn2l)
 
 ---
 
