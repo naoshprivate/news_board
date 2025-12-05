@@ -1,9 +1,9 @@
-# [2025-12-05 20:10 updated](2025_12_05.md)
+# [2025-12-05 20:30 updated](2025_12_05.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">大雨被害 インドネシアなど3か国 死者1600人超 支援活動本格化 https://news.web.nhk/newsweb/na/na-k10014995411000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7adwsaepw2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-05 20:09:07)</span><span style="padding-right:50px;">沖縄 在日米軍のパトロールによる逮捕者 107人と訂正 外務省 https://news.web.nhk/newsweb/na/na-k10014995391000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7adwnvldy2g" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-05 20:09:03)</span><span style="padding-right:50px;"> How can I dodge the mansion tax? on.ft.com/4aDPVDI  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m7adt6aqup2c" target="_blank">financialtimes.com</a> (2025-12-05 20:07:07)</span><span style="padding-right:50px;">養殖かき被害 農相が広島県知事と会談 来週支援策など発表へ https://news.web.nhk/newsweb/na/na-k10014995401000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7adrcckfo2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-05 20:06:02)</span><span style="padding-right:50px;">Taiwan opposition says ban of China's Rednote app is censorship reut.rs/4oE7hEa <a href="https://bsky.app/profile/reuters.com/post/3m7adppaonf2e" target="_blank">reuters.com</a> (2025-12-05 20:05:11)</span>
+<span style="padding-right:50px;">EU fines Elon Musk’s X €120mn for transparency violations on.ft.com/49XYo4D <a href="https://bsky.app/profile/financialtimes.com/post/3m7aexcgtfi26" target="_blank">financialtimes.com</a> (2025-12-05 20:27:20)</span><span style="padding-right:50px;">Elon Musk’s X social network was slapped with a €120 million fine for violating the EU’s controversial content-moderation law, including misleading users with its paid-for blue tick symbol <a href="https://bsky.app/profile/bloomberg.com/post/3m7aevir7o52d" target="_blank">bloomberg.com</a> (2025-12-05 20:26:19)</span><span style="padding-right:50px;">Deadly cyclone dents Sri Lanka's peak tourism season reut.rs/4rAeAiR <a href="https://bsky.app/profile/reuters.com/post/3m7aethfked2i" target="_blank">reuters.com</a> (2025-12-05 20:25:11)</span><span style="padding-right:50px;">The authorities in Japan said Thursday that Jeremy O. Harris, the Tony-nominated playwright and actor, was arrested last month on suspicion of attempting to smuggle in illegal drugs. He has been in custody in Japan since Nov. 16, when airport customs officers found Ecstasy in his bag. <a href="https://bsky.app/profile/nytimes.com/post/3m7aetcrtnm2q" target="_blank">nytimes.com</a> (2025-12-05 20:25:06)</span><span style="padding-right:50px;">Cloudflare said the outage was caused by a change made to how the platform’s firewall worked. <a href="https://bsky.app/profile/forbes.com/post/3m7aetafjgs2h" target="_blank">forbes.com</a> (2025-12-05 20:25:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47850.94 (🔻37.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.38 (🔺1.76 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.13 (🔺0.08 : 2025-12-05)</span>
+<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47850.94 (🔻37.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.38 (🔺1.76 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.16 (🔺0.12 : 2025-12-05)</span>
   </div>
 </div>
 
@@ -32,102 +32,103 @@
 
 ## News Headlines
 
-1.  インドネシアなど大雨被害、死者1600人超え
-2.  米軍パトロール逮捕者数、沖縄で107人に訂正
-3.  養殖かき被害、来週支援策発表へ
-4.  対話型AI、アメリカ大統領選で投票意向に影響か
-5.  米国家安全保障戦略、「アメリカ第一主義」色濃く
-6.  婚活サービス会社、フリーランス保護法違反で公取委勧告
+1.  EU、X（旧Twitter）に120億円の制裁金、透明性違反で
+2.  スリランカ、サイクロンで観光シーズンに打撃
+3.  劇作家ジェレミー・O・ハリス氏、日本で麻薬密輸未遂容疑で逮捕
+4.  KFC、日本でクリスマス限定ポップアップレストラン開店
+5.  インドネシア、石炭火力発電所の早期閉鎖を撤回
+6.  インドネシアなど3か国、大雨被害で死者1600人超
 
 ----
 
-@nhknewsunofficial.bsky.social
-
-大雨被害 インドネシアなど3か国 死者1600人超 支援活動本格化
-https://news.web.nhk/newsweb/na/na-k10014995411000
-
-[2025-12-05 20:09:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7adwsaepw2u)
-
----
-
-@nhknewsunofficial.bsky.social
-
-沖縄 在日米軍のパトロールによる逮捕者 107人と訂正 外務省
-https://news.web.nhk/newsweb/na/na-k10014995391000
-
-[2025-12-05 20:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7adwnvldy2g)
-
----
-
 @financialtimes.com
 
- How can I dodge the mansion tax? on.ft.com/4aDPVDI  | opinion
+EU fines Elon Musk’s X €120mn for transparency violations on.ft.com/49XYo4D
 
-[2025-12-05 20:07:07](https://bsky.app/profile/financialtimes.com/post/3m7adt6aqup2c)
-
----
-
-@nhknewsunofficial.bsky.social
-
-養殖かき被害 農相が広島県知事と会談 来週支援策など発表へ
-https://news.web.nhk/newsweb/na/na-k10014995401000
-
-[2025-12-05 20:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7adrcckfo2j)
-
----
-
-@reuters.com
-
-Taiwan opposition says ban of China's Rednote app is censorship reut.rs/4oE7hEa
-
-[2025-12-05 20:05:11](https://bsky.app/profile/reuters.com/post/3m7adppaonf2e)
-
----
-
-@nikkei.com
-
-対話型AIが投票意向に影響力　アメリカ大統領選などで大学調査
-www.nikkei.com/article/DGXZQO...
-
-動画広告よりも支持を促す説得力が強いものの、やりとりに誤情報は多い傾向がある──。
-
-コーネル大学などがこうした研究成果を発表しました。
-
-2024年大統領選前の調査では、ハリス氏に対する支持を訴えたAIは9割の情報が正確だった一方で、トランプ氏支持を訴えたAIの正確さは8割程度でした。
-
-[2025-12-05 20:01:57](https://bsky.app/profile/nikkei.com/post/3m7adjwbquo2w)
-
----
-
-@reuters.com
-
-Vessel off Yemen reports exchange of fire with small crafts, British Maritime agency says reut.rs/3KChZwJ
-
-[2025-12-05 20:01:01](https://bsky.app/profile/reuters.com/post/3m7adiarxmy2y)
+[2025-12-05 20:27:20](https://bsky.app/profile/financialtimes.com/post/3m7aexcgtfi26)
 
 ---
 
 @bloomberg.com
 
-The backers of the Enhanced Games have snagged a $1.2 billion value after their SPAC deal. That seems pretty pumped up for such a risky concept (via Bloomberg Opinion) 
+Elon Musk’s X social network was slapped with a €120 million fine for violating the EU’s controversial content-moderation law, including misleading users with its paid-for blue tick symbol
 
-[2025-12-05 20:00:56](https://bsky.app/profile/bloomberg.com/post/3m7adi3t35u2d)
+[2025-12-05 20:26:19](https://bsky.app/profile/bloomberg.com/post/3m7aevir7o52d)
 
 ---
 
-@aljazeera.com
+@reuters.com
 
-Hong Kong Baptist University student union says suspension was 'unfounded' and may have 'ulterior motives'.
+Deadly cyclone dents Sri Lanka's peak tourism season reut.rs/4rAeAiR
 
-[2025-12-05 20:00:31](https://bsky.app/profile/aljazeera.com/post/3m7adhe53mr2a)
+[2025-12-05 20:25:11](https://bsky.app/profile/reuters.com/post/3m7aethfked2i)
+
+---
+
+@nytimes.com
+
+The authorities in Japan said Thursday that Jeremy O. Harris, the Tony-nominated playwright and actor, was arrested last month on suspicion of attempting to smuggle in illegal drugs. He has been in custody in Japan since Nov. 16, when airport customs officers found Ecstasy in his bag.
+
+[2025-12-05 20:25:06](https://bsky.app/profile/nytimes.com/post/3m7aetcrtnm2q)
+
+---
+
+@forbes.com
+
+Cloudflare said the outage was caused by a change made to how the platform’s firewall worked.
+
+[2025-12-05 20:25:03](https://bsky.app/profile/forbes.com/post/3m7aetafjgs2h)
 
 ---
 
 @nbcnews.com
 
-The Olympic flame has landed in Rome and is en route to its final destination.
+Prosecutors in Arizona say they plan to seek the death penalty if two men are convicted in the brutal murder of an exotic dancer in 2023.
 
-[2025-12-05 20:00:30](https://bsky.app/profile/nbcnews.com/post/3m7adhcwouh2c)
+[2025-12-05 20:20:27](https://bsky.app/profile/nbcnews.com/post/3m7aekyfmha2i)
+
+---
+
+@en.afp.com
+
+🇯🇵 KFC prepares a finger-licking Christmas in Japan
+
+Christmas kicks off in Japan as KFC opens its Tokyo Christmas pop-up restaurant. The fast-food chain offers customers dishes inspired by Japan's "Christmas chicken" tradition, dating back to 1974.
+
+[2025-12-05 20:20:05](https://bsky.app/profile/en.afp.com/post/3m7aekdolwh2k)
+
+---
+
+@nikkei.com
+
+【那覇空港駅の動かない“動く歩道”】
+沖縄県が撤去、1基は2026年春再開（無料記事）
+www.nikkei.com/article/DGXZQO...
+
+2基が故障で動かなくなったのは22年9月。
+
+歩けるスペースが狭くなり、混雑時には乗降客がぶつかり合うなど苦情が寄せられていました。
+
+県は「予算の確保に時間がかかってしまった」と説明しています。
+
+[2025-12-05 20:15:57](https://bsky.app/profile/nikkei.com/post/3m7aecx2t332e)
+
+---
+
+@reuters.com
+
+Indonesia backpedals on retiring Cirebon coal power plant early reut.rs/4pt2F52
+
+[2025-12-05 20:15:12](https://bsky.app/profile/reuters.com/post/3m7aebmxacu2r)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+盗撮画像共有事件 元教員 児童ポルノ禁止法違反の罪で追起訴
+https://news.web.nhk/newsweb/na/na-k10014995281000
+
+[2025-12-05 20:15:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7aebe367s2e)
 
 ---
 
