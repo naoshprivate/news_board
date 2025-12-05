@@ -1,9 +1,9 @@
-# [2025-12-06 03:10 updated](2025_12_06.md)
+# [2025-12-06 03:30 updated](2025_12_06.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">World Cup draw begins with Trump, Canada's Carney, Mexico's Sheinbaum picking first balls. <a href="https://bsky.app/profile/apnews.com/post/3m7b3d7eiap2j" target="_blank">apnews.com</a> (2025-12-06 03:07:42)</span><span style="padding-right:50px;"> The revival of Goldman’s dealmaking instincts on.ft.com/44P0ct2  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m7b37gfute2v" target="_blank">financialtimes.com</a> (2025-12-06 03:05:35)</span><span style="padding-right:50px;">Which European countries have mandatory or voluntary military service <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7b36sp5tn2q" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-06 03:05:13)</span><span style="padding-right:50px;">Tunisia’s main union calls nationwide strike as president's crackdown escalates reut.rs/4piir2j <a href="https://bsky.app/profile/reuters.com/post/3m7b36ryfrj2n" target="_blank">reuters.com</a> (2025-12-06 03:05:13)</span><span style="padding-right:50px;">Inspired by the Payday bar, this simple cookie mimics the flavor of the candy’s caramel nougat center through a brown butter-infused dough. nyti.ms/48siNMD <a href="https://bsky.app/profile/nytimes.com/post/3m7b36hvtab22" target="_blank">nytimes.com</a> (2025-12-06 03:05:03)</span>
+<span style="padding-right:50px;">IndiGo's flight chaos spoils India's wedding parties reut.rs/4pK5oXo <a href="https://bsky.app/profile/reuters.com/post/3m7b4cmyvf327" target="_blank">reuters.com</a> (2025-12-06 03:25:16)</span><span style="padding-right:50px;">Rubrik stock rips 25% higher after blowing out earnings and boosting guidance <a href="https://bsky.app/profile/cnbc.com/post/3m7b4ciivlj2f" target="_blank">cnbc.com</a> (2025-12-06 03:25:11)</span><span style="padding-right:50px;">Boris Pistorius, Germany’s defense minister, is pushing to expand its military in case tensions with Russia escalate. The move has set off a turbulent national debate in a country where the Nazi era casts a long shadow. <a href="https://bsky.app/profile/nytimes.com/post/3m7b4cc4oyr2h" target="_blank">nytimes.com</a> (2025-12-06 03:25:05)</span><span style="padding-right:50px;">A treasure trove of 225 funerary figurines has been discovered inside a tomb in the ancient Egyptian capital of Tanis in the Nile Delta, a rare find that experts say has also solved a "long-standing archaeological mystery." <a href="https://bsky.app/profile/cbsnews.com/post/3m7b4324gvj23" target="_blank">cbsnews.com</a> (2025-12-06 03:21:01)</span><span style="padding-right:50px;">A cutting-edge surgery could fix a 12-year-old's scoliosis. Her insurance says it's too new to cover. <a href="https://bsky.app/profile/nbcnews.com/post/3m7b3zirtrj2t" target="_blank">nbcnews.com</a> (2025-12-06 03:20:10)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 48040.66 (🔺161.06 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23581.71 (🔺13.95 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.20 (🔻1.66 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.25 (🔺0.20 : 2025-12-05)</span>
+<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 48031.67 (🔺152.07 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23587.12 (🔺19.35 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.22 (🔻1.64 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.30 (🔺0.25 : 2025-12-05)</span>
   </div>
 </div>
 
@@ -32,94 +32,92 @@
 
 ## News Headlines
 
-1. トランプ氏、FIFA平和賞を受賞
-2. チュニジアで全国規模のストライキ
-3. カナダ失業率、16ヶ月ぶりの低水準
-4. ニューヨーク・タイムズ、Perplexity AIを著作権侵害で提訴
-5. スリランカで地滑り警報、死者600人超
-6. Netflix、ワーナー・ブラザース・ディスカバリーのスタジオ買収か
+1. IndiGo航空、結婚式シーズンに混乱
+2. Rubrik株、好決算で急騰
+3. ドイツ国防相、軍拡推進で国内論争
+4. エジプトで225体の葬儀用小像を発見
+5. 連邦判事、エプスタイン事件の陪審記録公開を命令
+6. トランプ大統領、FIFA平和賞を受賞
 
 ----
 
+@reuters.com
+
+IndiGo's flight chaos spoils India's wedding parties reut.rs/4pK5oXo
+
+[2025-12-06 03:25:16](https://bsky.app/profile/reuters.com/post/3m7b4cmyvf327)
+
+---
+
+@cnbc.com
+
+Rubrik stock rips 25% higher after blowing out earnings and boosting guidance
+
+[2025-12-06 03:25:11](https://bsky.app/profile/cnbc.com/post/3m7b4ciivlj2f)
+
+---
+
+@nytimes.com
+
+Boris Pistorius, Germany’s defense minister, is pushing to expand its military in case tensions with Russia escalate. The move has set off a turbulent national debate in a country where the Nazi era casts a long shadow.
+
+[2025-12-06 03:25:05](https://bsky.app/profile/nytimes.com/post/3m7b4cc4oyr2h)
+
+---
+
+@cbsnews.com
+
+A treasure trove of 225 funerary figurines has been discovered inside a tomb in the ancient Egyptian capital of Tanis in the Nile Delta, a rare find that experts say has also solved a "long-standing archaeological mystery."
+
+[2025-12-06 03:21:01](https://bsky.app/profile/cbsnews.com/post/3m7b4324gvj23)
+
+---
+
+@nbcnews.com
+
+A cutting-edge surgery could fix a 12-year-old's scoliosis. Her insurance says it's too new to cover.
+
+[2025-12-06 03:20:10](https://bsky.app/profile/nbcnews.com/post/3m7b3zirtrj2t)
+
+---
+
+@nbcnews.com
+
+<strong><span style="color: red;">BREAKING:</span> Federal judge in Florida orders the release of transcripts from grand jury investigations into Jeffrey Epstein from 2005 and 2007.</strong>
+
+[2025-12-06 03:18:42](https://bsky.app/profile/nbcnews.com/post/3m7b3wvdupj2r)
+
+---
+
 @apnews.com
 
-World Cup draw begins with Trump, Canada's Carney, Mexico's Sheinbaum picking first balls.
+<strong><span style="color: red;">BREAKING:</span> A federal judge orders the unsealing of grand jury transcripts from abandoned Jeffrey Epstein investigation in Florida.</strong>
 
-[2025-12-06 03:07:42](https://bsky.app/profile/apnews.com/post/3m7b3d7eiap2j)
-
----
-
-@financialtimes.com
-
- The revival of Goldman’s dealmaking instincts on.ft.com/44P0ct2  | opinion
-
-[2025-12-06 03:05:35](https://bsky.app/profile/financialtimes.com/post/3m7b37gfute2v)
+[2025-12-06 03:18:07](https://bsky.app/profile/apnews.com/post/3m7b3vtnumj2r)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@npr.org
 
-Which European countries have mandatory or voluntary military service
+The D.C. Circuit Court of Appeals ruled 2 to 1 that President Trump's firings of Democratic members of the Merit Systems Protection Board and the National Labor Relations Board were lawful. n.pr/3McCEbp
 
-[2025-12-06 03:05:13](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7b36sp5tn2q)
-
----
-
-@reuters.com
-
-Tunisia’s main union calls nationwide strike as president's crackdown escalates reut.rs/4piir2j
-
-[2025-12-06 03:05:13](https://bsky.app/profile/reuters.com/post/3m7b36ryfrj2n)
+[2025-12-06 03:17:46](https://bsky.app/profile/npr.org/post/3m7b3v7k5fh23)
 
 ---
 
-@nytimes.com
+@axios.com
 
-Inspired by the Payday bar, this simple cookie mimics the flavor of the candy’s caramel nougat center through a brown butter-infused dough. nyti.ms/48siNMD
+NEW: Trump wins FIFA Peace Prize after Nobel snub
 
-[2025-12-06 03:05:03](https://bsky.app/profile/nytimes.com/post/3m7b36hvtab22)
-
----
-
-@aljazeera.com
-
-The US military says it killed four people in an air strike on a suspected drug boat in in the Eastern Pacific. 
-
-The attack was ordered by US War Secretary Pete Hegseth, who is under scrutiny over a previous attack in which survivors were killed in a follow-up strike.
-
-[2025-12-06 03:04:42](https://bsky.app/profile/aljazeera.com/post/3m7b35tz6kc2e)
-
----
-
-@nytimes.com
-
-Federal officials said they had arrested a visiting professor from Brazil at Harvard on Wednesday, weeks after he fired a pellet gun near a synagogue and officials accused him of antisemitism. The professor, who lived near the synagogue, said he was hunting rats nearby.
-
-[2025-12-06 03:04:40](https://bsky.app/profile/nytimes.com/post/3m7b35snaha2w)
+[2025-12-06 03:16:12](https://bsky.app/profile/axios.com/post/3m7b3sfxewc25)
 
 ---
 
 @reuters.com
 
-Canada's unemployment rate shrinks to lowest in 16 months as part-time jobs increase reut.rs/48AfEdJ
+Former UK doctor charged with multiple sexual offences against patients reut.rs/4plHLo9
 
-[2025-12-06 03:00:58](https://bsky.app/profile/reuters.com/post/3m7b2x6czay26)
-
----
-
-@usatoday.com
-
-Thriftmas is trending, and it may cut your gift costs in half
-
-[2025-12-06 03:00:54](https://bsky.app/profile/usatoday.com/post/3m7b2x36rxd2m)
-
----
-
-@aljazeera.com
-
-The Rwandan-backed M23 rebel group and government forces have traded blame for the renewed fighting.
-
-[2025-12-06 03:00:37](https://bsky.app/profile/aljazeera.com/post/3m7b2wkm3fq2h)
+[2025-12-06 03:15:14](https://bsky.app/profile/reuters.com/post/3m7b3qpg3fz2r)
 
 ---
 
