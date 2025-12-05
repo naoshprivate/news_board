@@ -1,9 +1,9 @@
-# [2025-12-05 09:50 updated](2025_12_05.md)
+# [2025-12-05 10:10 updated](2025_12_05.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Good manners never go out of style, but they do occasionally need to be refreshed.  Think your work manners are up to date? Test and compare your etiquette skills here. 👇 <a href="https://bsky.app/profile/wsj.com/post/3m77bcaqbsy2p" target="_blank">wsj.com</a> (2025-12-05 09:49:12)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】大北地域に大雪警報 5日昼過ぎにかけて大雪警戒 白馬は昨夜から20センチ以上の積雪 24時間予想降雪量は北部20センチ 【雪と雨のシミュレーション掲載】 (2025-12-05 09:44:00) #ニュース  🟨警報注意報 🔗https://www.jma.go.jp/bosai/warning/ <a href="https://bsky.app/profile/sokuho.news/post/3m77b5hyjti2y" target="_blank">sokuho.news</a> (2025-12-05 09:46:32)</span><span style="padding-right:50px;">US approves potential $2.68 billion sale of air strike weapons to Canada reut.rs/4pkZufD <a href="https://bsky.app/profile/reuters.com/post/3m77b3eyfqm2i" target="_blank">reuters.com</a> (2025-12-05 09:45:22)</span><span style="padding-right:50px;">Each nation's path to the men’s 2026 FIFA World Cup trophy will finally be known Friday. <a href="https://bsky.app/profile/nbcnews.com/post/3m77as6i2su2f" target="_blank">nbcnews.com</a> (2025-12-05 09:40:13)</span><span style="padding-right:50px;">Bank of America expands crypto access for wealth management clients reut.rs/4iOncOL <a href="https://bsky.app/profile/reuters.com/post/3m77as4xh4u27" target="_blank">reuters.com</a> (2025-12-05 09:40:11)</span>
+<span style="padding-right:50px;">Nobody needs another plastic fridge magnet. On your next trip, try collecting delicious, shareable treats and throwing a “souvenir dinner party” when you get home instead. <a href="https://bsky.app/profile/wsj.com/post/3m77cf54xru2o" target="_blank">wsj.com</a> (2025-12-05 10:08:43)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】富山県入善町で建物火災 「納屋の2階から黒煙が出ている」 逃げ遅れの情報も (2025-12-05 10:06) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m77cc46cdh2q" target="_blank">sokuho.news</a> (2025-12-05 10:07:01)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】10月の消費支出 6カ月ぶりマイナス 前年同月比3.0%減 値上げによる買い控えなど影響 (10:04) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m77cascghm2d" target="_blank">sokuho.news</a> (2025-12-05 10:06:17)</span><span style="padding-right:50px;">首都圏一連の強盗事件の指示役か 市川の強盗傷害疑い 4人逮捕 https://news.web.nhk/newsweb/na/na-k10014994571000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77c322pon2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-05 10:03:02)</span><span style="padding-right:50px;">「快活CLUB」サイバー攻撃、逮捕の高2がChatGPTの悪用防止策回避か www.nikkei.com/article/DGXZQO...  快活CLUBの運営会社によると約729万件の個人情報が漏洩した可能性があります。  「システムの脆弱性を見つけるのが楽しかった」  逮捕された男子生徒はSNSで犯行を予告したうえ、攻撃の様子を実況していたといいます。 <a href="https://bsky.app/profile/nikkei.com/post/3m77byzavbl22" target="_blank">nikkei.com</a> (2025-12-05 10:01:56)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50424.12 (🔻106.22 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47850.94 (🔻37.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.38 (🔺1.81 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3043.00 (🔻10.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.13 (🔺0.08 : 2025-12-05)</span>
+<span style="padding-right:50px;">NIKKEI: 50359.13 (🔻171.21 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47850.94 (🔻37.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.38 (🔺1.81 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3041.00 (🔻12.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 154.92 (🔻0.13 : 2025-12-05)</span>
   </div>
 </div>
 
@@ -32,22 +32,66 @@
 
 ## News Headlines
 
-1. 大北地域に大雪警報、5日昼過ぎまで警戒
-2. 米国、カナダへの26.8億ドルの空爆兵器売却を承認
-3. BofA、富裕層顧客向けに暗号資産へのアクセス拡大
-4. トランプ氏、ボールルームプロジェクトの新たな建築家を選定
-5. メタ、メタバース予算30%削減、超知能開発にシフト
-6. 静岡伊豆の国市の病院で強盗傷害事件、男が逃走
+1. 富山県入善町で建物火災、逃げ遅れ情報も
+2. 10月の消費支出、6カ月ぶりマイナス3.0%減
+3. 首都圏強盗事件、指示役の男4人逮捕
+4. 「快活CLUB」サイバー攻撃、高2がChatGPT悪用防止策回避か
+5. 長野県大北地域に大雪警報、5日昼過ぎにかけて警戒
+6. 日経平均株価 一時700円超下落
 
 ----
 
 @wsj.com
 
-Good manners never go out of style, but they do occasionally need to be refreshed.
+Nobody needs another plastic fridge magnet. On your next trip, try collecting delicious, shareable treats and throwing a “souvenir dinner party” when you get home instead.
 
-Think your work manners are up to date? Test and compare your etiquette skills here. 👇
+[2025-12-05 10:08:43](https://bsky.app/profile/wsj.com/post/3m77cf54xru2o)
 
-[2025-12-05 09:49:12](https://bsky.app/profile/wsj.com/post/3m77bcaqbsy2p)
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】富山県入善町で建物火災 「納屋の2階から黒煙が出ている」 逃げ遅れの情報も
+(2025-12-05 10:06) #ニュース
+
+[2025-12-05 10:07:01](https://bsky.app/profile/sokuho.news/post/3m77cc46cdh2q)
+
+---
+
+@sokuho.news
+
+🔔ANNより【速報】です。
+
+【速報】10月の消費支出 6カ月ぶりマイナス 前年同月比3.0%減 値上げによる買い控えなど影響
+(10:04) #ニュース
+
+[2025-12-05 10:06:17](https://bsky.app/profile/sokuho.news/post/3m77cascghm2d)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+首都圏一連の強盗事件の指示役か 市川の強盗傷害疑い 4人逮捕
+https://news.web.nhk/newsweb/na/na-k10014994571000
+
+[2025-12-05 10:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77c322pon2j)
+
+---
+
+@nikkei.com
+
+「快活CLUB」サイバー攻撃、逮捕の高2がChatGPTの悪用防止策回避か
+www.nikkei.com/article/DGXZQO...
+
+快活CLUBの運営会社によると約729万件の個人情報が漏洩した可能性があります。
+
+「システムの脆弱性を見つけるのが楽しかった」
+
+逮捕された男子生徒はSNSで犯行を予告したうえ、攻撃の様子を実況していたといいます。
+
+[2025-12-05 10:01:56](https://bsky.app/profile/nikkei.com/post/3m77byzavbl22)
 
 ---
 
@@ -55,84 +99,45 @@ Think your work manners are up to date? Test and compare your etiquette skills h
 
 🛎️JNNより【速報】です。
 
-【速報】大北地域に大雪警報 5日昼過ぎにかけて大雪警戒 白馬は昨夜から20センチ以上の積雪 24時間予想降雪量は北部20センチ 【雪と雨のシミュレーション掲載】
-(2025-12-05 09:44:00) #ニュース
+【速報】コンクリートミキサー車が道路から転落 運転手の男性が重体の模様
+(2025-12-05 09:54:00) #ニュース
 
-🟨警報注意報
-🔗https://www.jma.go.jp/bosai/warning/
+[2025-12-05 10:01:48](https://bsky.app/profile/sokuho.news/post/3m77byqx2gd2h)
 
-[2025-12-05 09:46:32](https://bsky.app/profile/sokuho.news/post/3m77b5hyjti2y)
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】首都圏を震撼させた「連続闇バイト強盗事件」 指示役の男4人をついに逮捕 1年以上の捜査から見えた“トクリュウ”の弱み
+(2025-12-05 10:00:56) #ニュース
+
+[2025-12-05 10:01:38](https://bsky.app/profile/sokuho.news/post/3m77byie5jc2p)
+
+---
+
+@usatoday.com
+
+Travelers can legally opt out of the Transportation Security Administration's scanning technology at airports.
+
+[2025-12-05 10:00:58](https://bsky.app/profile/usatoday.com/post/3m77bxbkwmo26)
 
 ---
 
 @reuters.com
 
-US approves potential $2.68 billion sale of air strike weapons to Canada reut.rs/4pkZufD
+Lakers' Luka Doncic (personal) out vs. Raptors reut.rs/4oximGL
 
-[2025-12-05 09:45:22](https://bsky.app/profile/reuters.com/post/3m77b3eyfqm2i)
+[2025-12-05 10:00:50](https://bsky.app/profile/reuters.com/post/3m77bwznbop27)
 
 ---
 
 @nbcnews.com
 
-Each nation's path to the men’s 2026 FIFA World Cup trophy will finally be known Friday.
+An art installation titled "Regular Animals," features the likenesses of Mark Zuckerberg, Elon Musk and other tech moguls on robot dogs.
 
-[2025-12-05 09:40:13](https://bsky.app/profile/nbcnews.com/post/3m77as6i2su2f)
-
----
-
-@reuters.com
-
-Bank of America expands crypto access for wealth management clients reut.rs/4iOncOL
-
-[2025-12-05 09:40:11](https://bsky.app/profile/reuters.com/post/3m77as4xh4u27)
-
----
-
-@nytimes.com
-
-Mortadella may just be the best sandwich meat there is. Here, it’s layered with milky sweet ricotta to balance its savoriness, while pistachios add crunch and basil freshness. nyti.ms/4pNzZU6
-
-[2025-12-05 09:40:03](https://bsky.app/profile/nytimes.com/post/3m77arullhp2q)
-
----
-
-@reuters.com
-
-Trump selects new architect to oversee ballroom project, White House says reut.rs/4rF1ctI
-
-[2025-12-05 09:35:10](https://bsky.app/profile/reuters.com/post/3m77aj5krs62d)
-
----
-
-@cnn.com
-
-Russian President Vladimir Putin said Moscow would seize Ukraine’s Donbas region “by military or other means,” digging in on one of his key demands as Ukrainian officials prepare for more peace talks that have yet to yield a deal. https://cnn.it/48qHTLK
-
-[2025-12-05 09:33:01](https://bsky.app/profile/cnn.com/post/3m77afcuuhn2n)
-
----
-
-@nikkei.com
-
-Meta、メタバースの予算30%削減　超知能開発にシフト
-www.nikkei.com/article/DGXZQO...
-
-ブルームバーグ通信によると、利用者が自ら仮想空間を作ったりゲームで交流できるサービス「ホライゾン・ワールド」や、VRのゴーグル型端末「メタクエスト」の開発を手掛けるメタバースグループが対象に。
-
-同社は2021年に社名をフェイスブックからメタに変更し、主力のSNSに次ぐ将来の成長事業として開発投資を続けてきました。
-
-#ニュース
-
-[2025-12-05 09:31:57](https://bsky.app/profile/nikkei.com/post/3m77adexxid26)
-
----
-
-@reuters.com
-
-Google executive sees AI search as expansion for web reut.rs/3Y7tsYe
-
-[2025-12-05 09:30:41](https://bsky.app/profile/reuters.com/post/3m77ab4mmum27)
+[2025-12-05 10:00:49](https://bsky.app/profile/nbcnews.com/post/3m77bwyv3va2p)
 
 ---
 
