@@ -1,9 +1,9 @@
-# [2025-12-05 17:30 updated](2025_12_05.md)
+# [2025-12-05 17:50 updated](2025_12_05.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Instant View: India central bank cuts key rate, boosts liquidity reut.rs/48zpuMX <a href="https://bsky.app/profile/reuters.com/post/3m7a2rjmzq527" target="_blank">reuters.com</a> (2025-12-05 17:25:08)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】コメ平均価格5キロ4335円 過去最高値を更新 (2025-12-05 17:21:47) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7a2pwrm6g2m" target="_blank">sokuho.news</a> (2025-12-05 17:24:15)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】高市内閣 閣僚の平均資産は約6641万円 トップは小泉防衛大臣で2億7248万円 (2025-12-05 17:19:27) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7a2kmrys62m" target="_blank">sokuho.news</a> (2025-12-05 17:21:17)</span><span style="padding-right:50px;">🛎️新潮より【独自】です。  【独自】「自分と城島に何か説明をしてもらえないだろうか」 松岡昌宏が日本テレビに求める「歩み寄り」 (2025-12-05) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7a2kjbuxn2q" target="_blank">sokuho.news</a> (2025-12-05 17:21:13)</span><span style="padding-right:50px;">Over a third of animals lost in test deep sea mining - scientists <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7a2ftivd42h" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-05 17:18:36)</span>
+<span style="padding-right:50px;">Man United looked frightened against West Ham, says Keane reut.rs/4rFpkMO <a href="https://bsky.app/profile/reuters.com/post/3m7a3verdsn2i" target="_blank">reuters.com</a> (2025-12-05 17:45:11)</span><span style="padding-right:50px;">国内航空路線 会社間で便数ダイヤ調整可能 方向性示す 国交省 https://news.web.nhk/newsweb/na/na-k10014995231000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7a3vcpyxz2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-05 17:45:07)</span><span style="padding-right:50px;">秋篠宮さま  横浜の動物園で絶滅危惧種のインドゾウを視察 https://news.web.nhk/newsweb/na/na-k10014994961000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7a3v6bwz62k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-05 17:45:02)</span><span style="padding-right:50px;">IndiGO: Travel chaos worsens in India with hundreds of flights cancelled <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7a3sa5k6n2e" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-05 17:43:25)</span><span style="padding-right:50px;">立民 野田代表 補正予算案対応通じ公明と関係強化を https://news.web.nhk/newsweb/na/na-k10014995001000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7a3psgsgn2g" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-05 17:42:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47850.94 (🔻37.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.38 (🔺1.76 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 154.77 (🔻0.28 : 2025-12-05)</span>
+<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47850.94 (🔻37.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.38 (🔺1.76 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 154.83 (🔻0.22 : 2025-12-05)</span>
   </div>
 </div>
 
@@ -32,104 +32,100 @@
 
 ## News Headlines
 
-1. インド中銀、主要金利引き下げと流動性供給
-2. コメ平均価格、過去最高値を更新
-3. 高市內閣閣僚の平均資産は約6641万円、トップは小泉防衛大臣
-4. インドネシア・スリランカ洪水、死者1500人超
-5. 川崎市のリサイクル工場で火災、延焼中
-6. サッカーJ1最終節、鹿島か柏か優勝決定戦
+1. マンU、ウェストハム戦で萎縮とキーン氏
+2. 国内航空路線、会社間で便数ダイヤ調整可能へ
+3. 秋篠宮さま、横浜で絶滅危惧種インドゾウを視察
+4. インドでフライト数百便がキャンセル、旅行混乱悪化
+5. 旧統一教会、田中会長が辞任へ
+6. 川崎市のリサイクル工場で火災、延焼中
 
 ----
 
 @reuters.com
 
-Instant View: India central bank cuts key rate, boosts liquidity reut.rs/48zpuMX
+Man United looked frightened against West Ham, says Keane reut.rs/4rFpkMO
 
-[2025-12-05 17:25:08](https://bsky.app/profile/reuters.com/post/3m7a2rjmzq527)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】コメ平均価格5キロ4335円 過去最高値を更新
-(2025-12-05 17:21:47) #ニュース
-
-[2025-12-05 17:24:15](https://bsky.app/profile/sokuho.news/post/3m7a2pwrm6g2m)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】高市内閣 閣僚の平均資産は約6641万円 トップは小泉防衛大臣で2億7248万円
-(2025-12-05 17:19:27) #ニュース
-
-[2025-12-05 17:21:17](https://bsky.app/profile/sokuho.news/post/3m7a2kmrys62m)
-
----
-
-@sokuho.news
-
-🛎️新潮より【独自】です。
-
-【独自】「自分と城島に何か説明をしてもらえないだろうか」 松岡昌宏が日本テレビに求める「歩み寄り」
-(2025-12-05) #ニュース
-
-[2025-12-05 17:21:13](https://bsky.app/profile/sokuho.news/post/3m7a2kjbuxn2q)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Over a third of animals lost in test deep sea mining - scientists
-
-[2025-12-05 17:18:36](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7a2ftivd42h)
+[2025-12-05 17:45:11](https://bsky.app/profile/reuters.com/post/3m7a3verdsn2i)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-スーパーのコメ平均価格 最高値更新 5キロあたり4335円
-https://news.web.nhk/newsweb/na/na-k10014995241000
+国内航空路線 会社間で便数ダイヤ調整可能 方向性示す 国交省
+https://news.web.nhk/newsweb/na/na-k10014995231000
 
-[2025-12-05 17:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7a2euu46u2r)
+[2025-12-05 17:45:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7a3vcpyxz2j)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+秋篠宮さま  横浜の動物園で絶滅危惧種のインドゾウを視察
+https://news.web.nhk/newsweb/na/na-k10014994961000
+
+[2025-12-05 17:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7a3v6bwz62k)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+IndiGO: Travel chaos worsens in India with hundreds of flights cancelled
+
+[2025-12-05 17:43:25](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7a3sa5k6n2e)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+立民 野田代表 補正予算案対応通じ公明と関係強化を
+https://news.web.nhk/newsweb/na/na-k10014995001000
+
+[2025-12-05 17:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7a3psgsgn2g)
 
 ---
 
 @reuters.com
 
-Gold rises as dollar weakens ahead of US inflation test reut.rs/48TcdQH
+Deadly Sumatra flooding triggers memories of Indian Ocean tsunami reut.rs/48TMDLl
 
-[2025-12-05 17:15:10](https://bsky.app/profile/reuters.com/post/3m7a27p45gg2e)
+[2025-12-05 17:40:09](https://bsky.app/profile/reuters.com/post/3m7a3melqqs2i)
 
 ---
 
-@cnbc.com
+@nytimes.com
 
-Taiwan bans Chinese social media app RedNote for one year on fraud risks
+Cary-Hiroyuki Tagawa, the actor known for his roles in “The Last Emperor,” “The Man in the High Castle” and the “Mortal Kombat” films, died Thursday at 75.
 
-[2025-12-05 17:14:43](https://bsky.app/profile/cnbc.com/post/3m7a26urgrp23)
+[2025-12-05 17:37:42](https://bsky.app/profile/nytimes.com/post/3m7a3hy6mcp2q)
 
 ---
 
 @en.afp.com
 
-More rain looms as survivors in Indonesia and Sri Lanka begin piecing back shattered lives after devastating floods killed more than 1,500 people across four countries
+Wild animals have killed around 300 people in Zimbabwe in the past five years, according to Zimparks.
 
-u.afp.com/S7oq
+A new initiative is using tech tracking and local monitors to help communities coexist and reduce conflict with the wildlife around them
+u.afp.com/S74V
 
-[2025-12-05 17:10:23](https://bsky.app/profile/en.afp.com/post/3m77zx4ovie2e)
+[2025-12-05 17:36:24](https://bsky.app/profile/en.afp.com/post/3m7a3fo2qin2j)
 
 ---
 
-@reuters.com
+@nhknewsunofficial.bsky.social
 
-India's RBI to deliver up to $16 billion liquidity boost for bond markets reut.rs/48Sv1zv
+秋篠宮さま 絶滅危惧種のインドゾウを視察 横浜の動物園
+https://news.web.nhk/newsweb/na/na-k10014994961000
 
-[2025-12-05 17:10:10](https://bsky.app/profile/reuters.com/post/3m77zwr4o7g2o)
+[2025-12-05 17:36:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7a3f7adxr23)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+旧統一教会の田中会長が辞任へ“解散命令めぐる審理に区切り”
+https://news.web.nhk/newsweb/na/na-k10014995101000
+
+[2025-12-05 17:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7a3f2tzfz2j)
 
 ---
 
