@@ -1,9 +1,9 @@
-# [2025-12-06 02:10 updated](2025_12_06.md)
+# [2025-12-06 02:30 updated](2025_12_06.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">LIVE: Trump attends 2026 FIFA World Cup final draw reut.rs/4oDTkGb <a href="https://bsky.app/profile/reuters.com/post/3m7axvmkuis2b" target="_blank">reuters.com</a> (2025-12-06 02:06:24)</span><span style="padding-right:50px;">Breaking News: An ex-DEA agent has been charged with agreeing to launder millions of dollars in narcotics proceeds for a Mexican drug cartel. <a href="https://bsky.app/profile/nytimes.com/post/3m7axunlif32d" target="_blank">nytimes.com</a> (2025-12-06 02:05:52)</span><span style="padding-right:50px;">UK stocks gain ahead of key US inflation data; AstraZeneca rises reut.rs/3KL9TC5 <a href="https://bsky.app/profile/reuters.com/post/3m7axtg5cto2k" target="_blank">reuters.com</a> (2025-12-06 02:05:10)</span><span style="padding-right:50px;"> How science can phase out animal testing on.ft.com/3Yf2jmc  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m7axsxydpx26" target="_blank">financialtimes.com</a> (2025-12-06 02:04:56)</span><span style="padding-right:50px;">Interest in the childhood investment vehicles spiked this week. This is what experts have to say about them. <a href="https://bsky.app/profile/bloomberg.com/post/3m7axs47kcg2v" target="_blank">bloomberg.com</a> (2025-12-06 02:04:27)</span>
+<span style="padding-right:50px;">The 2026 FIFA Men's World Cup draw is underway with 48 countries competing for a spot.   <a href="https://bsky.app/profile/cbsnews.com/post/3m7az3fvxzl2a" target="_blank">cbsnews.com</a> (2025-12-06 02:27:32)</span><span style="padding-right:50px;">LIVE: FIFA World Cup draw watch party in LA reut.rs/4rGVNCu <a href="https://bsky.app/profile/reuters.com/post/3m7ayzcysyk2k" target="_blank">reuters.com</a> (2025-12-06 02:26:22)</span><span style="padding-right:50px;">Paramount stock is sliding after Netflix agreed to buy Warner Bros. in a $72 billion deal. 📉 <a href="https://bsky.app/profile/yahoofinance.com/post/3m7ayyzg2jd2z" target="_blank">yahoofinance.com</a> (2025-12-06 02:26:12)</span><span style="padding-right:50px;">Exclusive: The United Arab Emirates paid more than $20 million to secure the freedom of an Emirati prince kidnapped by al Qaeda’s West African affiliate, according to Western officials. <a href="https://bsky.app/profile/wsj.com/post/3m7ayyxbwgy2p" target="_blank">wsj.com</a> (2025-12-06 02:26:10)</span><span style="padding-right:50px;">Locking down your data isn’t as simple as deleting a few accounts. Our tech writer tried to wipe himself from the internet. Here are the data-removal services he recommends if you want to try it yourself. <a href="https://bsky.app/profile/nytimes.com/post/3m7ayys3vcb2y" target="_blank">nytimes.com</a> (2025-12-06 02:26:05)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47911.87 (🔺32.27 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23557.56 (🔻10.21 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.12 (🔻1.74 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.28 (🔺0.24 : 2025-12-05)</span>
+<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47924.57 (🔺44.97 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23538.48 (🔻29.29 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 181.80 (🔻2.06 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.31 (🔺0.26 : 2025-12-05)</span>
   </div>
 </div>
 
@@ -32,92 +32,92 @@
 
 ## News Headlines
 
-1. トランプ氏、2026年FIFAワールドカップ抽選会に出席
-2. 元DEA捜査官、麻薬資金洗浄で起訴
-3. ネットフリックス、ワーナー・ブラザースを巨額買収合意
-4. 除草剤グリホサート、発がん性巡り論争再燃
-5. バチカン、女性助祭を認めず
-6. レブロン・ジェームズの連続二桁得点記録が途絶える
+1. 2026 FIFA ワールドカップ組み合わせ抽選会開催、48か国が出場権を争う
+2. Netflix、ワーナー・ブラザースを720億ドルで買収合意、Paramount株急落
+3. UAE、アルカイダに誘拐された王子解放のため2000万ドル以上を支払い
+4. 元DEA捜査官、メキシコ麻薬カルテルの資金洗浄で起訴
+5. EU、英国との若者交流スキームの上限撤廃を要求
+6. イエメンでUAE支援の武装勢力が攻勢、内戦再燃の可能性
 
 ----
 
+@cbsnews.com
+
+The 2026 FIFA Men's World Cup draw is underway with 48 countries competing for a spot.  
+
+[2025-12-06 02:27:32](https://bsky.app/profile/cbsnews.com/post/3m7az3fvxzl2a)
+
+---
+
 @reuters.com
 
-LIVE: Trump attends 2026 FIFA World Cup final draw reut.rs/4oDTkGb
+LIVE: FIFA World Cup draw watch party in LA reut.rs/4rGVNCu
 
-[2025-12-06 02:06:24](https://bsky.app/profile/reuters.com/post/3m7axvmkuis2b)
+[2025-12-06 02:26:22](https://bsky.app/profile/reuters.com/post/3m7ayzcysyk2k)
+
+---
+
+@yahoofinance.com
+
+Paramount stock is sliding after Netflix agreed to buy Warner Bros. in a $72 billion deal. 📉
+
+[2025-12-06 02:26:12](https://bsky.app/profile/yahoofinance.com/post/3m7ayyzg2jd2z)
+
+---
+
+@wsj.com
+
+Exclusive: The United Arab Emirates paid more than $20 million to secure the freedom of an Emirati prince kidnapped by al Qaeda’s West African affiliate, according to Western officials.
+
+[2025-12-06 02:26:10](https://bsky.app/profile/wsj.com/post/3m7ayyxbwgy2p)
 
 ---
 
 @nytimes.com
 
-<strong><span style="color: red;">Breaking News</span>: An ex-DEA agent has been charged with agreeing to launder millions of dollars in narcotics proceeds for a Mexican drug cartel.</strong>
+Locking down your data isn’t as simple as deleting a few accounts. Our tech writer tried to wipe himself from the internet. Here are the data-removal services he recommends if you want to try it yourself.
 
-[2025-12-06 02:05:52](https://bsky.app/profile/nytimes.com/post/3m7axunlif32d)
+[2025-12-06 02:26:05](https://bsky.app/profile/nytimes.com/post/3m7ayys3vcb2y)
 
 ---
 
 @reuters.com
 
-UK stocks gain ahead of key US inflation data; AstraZeneca rises reut.rs/3KL9TC5
+Cloudflare restores services after minor dashboard outage reut.rs/4pkLhiv
 
-[2025-12-06 02:05:10](https://bsky.app/profile/reuters.com/post/3m7axtg5cto2k)
+[2025-12-06 02:25:08](https://bsky.app/profile/reuters.com/post/3m7ayx4qvhh2e)
 
 ---
 
 @financialtimes.com
 
- How science can phase out animal testing on.ft.com/3Yf2jmc  | opinion
+Are Warner takeovers the harbingers of financial apocalypse? on.ft.com/3MHFbu5
 
-[2025-12-06 02:04:56](https://bsky.app/profile/financialtimes.com/post/3m7axsxydpx26)
-
----
-
-@bloomberg.com
-
-Interest in the childhood investment vehicles spiked this week. This is what experts have to say about them.
-
-[2025-12-06 02:04:27](https://bsky.app/profile/bloomberg.com/post/3m7axs47kcg2v)
+[2025-12-06 02:22:45](https://bsky.app/profile/financialtimes.com/post/3m7aystqjfr2v)
 
 ---
 
-@cnbc.com
+@financialtimes.com
 
-Buy the dip in this AI 'neocloud' and don't believe the bubble 'conspiracy theories,' says Freedom Capital's Meeks
+EU demands no cap on youth mobility scheme with UK on.ft.com/4rN4AD1
 
-[2025-12-06 02:03:09](https://bsky.app/profile/cnbc.com/post/3m7axpsh4ph2e)
-
----
-
-@reuters.com
-
-Hegseth, Texas, Eurovision and women deacons reut.rs/48xUwon
-
-[2025-12-06 02:01:13](https://bsky.app/profile/reuters.com/post/3m7axmdkyuk2i)
+[2025-12-06 02:20:32](https://bsky.app/profile/financialtimes.com/post/3m7ayovfh3g26)
 
 ---
 
-@usatoday.com
+@axios.com
 
-Netflix is set to purchase legendary Hollywood studio Warner Bros. in a deal worth billions. Here's what it means for your favorite shows and films.
+Job growth looks to have flatlined in the second half of the year, and unemployment has inched up. But there are few signs of the kind of job loss surge or employment collapse that accompany a recession.
 
-[2025-12-06 02:01:10](https://bsky.app/profile/usatoday.com/post/3m7axmazavc2j)
-
----
-
-@washingtonpost.com
-
-A scientific journal retracted a study which found that glyphosate — the active ingredient in one of the most widely used herbicides on the planet — does not pose a human health risk, igniting a debate over the chemical’s possible link to cancer.
-
-[2025-12-06 02:00:42](https://bsky.app/profile/washingtonpost.com/post/3m7axlg3svo2x)
+[2025-12-06 02:20:29](https://bsky.app/profile/axios.com/post/3m7ayorxxr225)
 
 ---
 
-@apnews.com
+@npr.org
 
-LeBron James' streak of 1,297 consecutive double-digit scoring games has ended.
+The Trump administration has set forth a national security strategy that paints European allies as weak and aims to reassert America's dominance in the Western Hemisphere. n.pr/3KiaCut
 
-[2025-12-06 02:00:32](https://bsky.app/profile/apnews.com/post/3m7axl4pfii2j)
+[2025-12-06 02:18:26](https://bsky.app/profile/npr.org/post/3m7ayl4osmj2a)
 
 ---
 
