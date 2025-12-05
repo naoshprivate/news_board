@@ -1,9 +1,9 @@
-# [2025-12-06 06:30 updated](2025_12_06.md)
+# [2025-12-06 06:50 updated](2025_12_06.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The Supreme Court will decide if President Trump can end the practice of granting citizenship to children born in the U.S. <a href="https://bsky.app/profile/wsj.com/post/3m7bglchejv2a" target="_blank">wsj.com</a> (2025-12-06 06:29:04)</span><span style="padding-right:50px;">Frank Gehry, a pioneer of contemporary architecture whose fantastical sculpturelike structures are destinations as much as the museums, libraries and concert halls they encompass, has died at age 96.  🔗: on.wsj.com/48m0ZnH <a href="https://bsky.app/profile/wsj.com/post/3m7bgfzwwda22" target="_blank">wsj.com</a> (2025-12-06 06:26:07)</span><span style="padding-right:50px;">Witkoff, Ukraine's Umerov meeting again in Miami on Friday reut.rs/48SiVq6 <a href="https://bsky.app/profile/reuters.com/post/3m7bgecu3sq2i" target="_blank">reuters.com</a> (2025-12-06 06:25:10)</span><span style="padding-right:50px;">France intercepted drones flying over nuclear submarine base, defence minister says on.ft.com/48QFefT <a href="https://bsky.app/profile/financialtimes.com/post/3m7bgbmgwqb26" target="_blank">financialtimes.com</a> (2025-12-06 06:23:39)</span><span style="padding-right:50px;">Netflix is facing fierce criticism over its blockbuster, nearly $83 billion deal to acquire Warner Bros., the storied Hollywood studio u.afp.com/S7Ur <a href="https://bsky.app/profile/en.afp.com/post/3m7bgb4ztma2k" target="_blank">en.afp.com</a> (2025-12-06 06:23:23)</span>
+<span style="padding-right:50px;">In Somalia, people are pushing back and pointing to the positives after President Trump disparaged their country. n.pr/3XD2VCc <a href="https://bsky.app/profile/npr.org/post/3m7bhphcmvp2y" target="_blank">npr.org</a> (2025-12-06 06:49:17)</span><span style="padding-right:50px;">【動画】Pickup NEWS（12月6日） https://news.web.nhk/newsweb/na/na-k10014995631000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bhnbousl2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-06 06:48:02)</span><span style="padding-right:50px;">China's vice premier holds 'constructive' call with Bessent and Greer reut.rs/44cqPbd <a href="https://bsky.app/profile/reuters.com/post/3m7bhiakfrm27" target="_blank">reuters.com</a> (2025-12-06 06:45:15)</span><span style="padding-right:50px;">A federal judge in Florida ordered the unsealing of grand jury transcripts from the Jeffrey Epstein investigation, siding with the Justice Department after multiple judges previously rejected similar requests from the government. <a href="https://bsky.app/profile/washingtonpost.com/post/3m7bhhvmmaq2e" target="_blank">washingtonpost.com</a> (2025-12-06 06:45:04)</span><span style="padding-right:50px;">The US will reassert its dominance in the Western Hemisphere, build military strength in the Indo-Pacific, and possibly reassess its relationship with Europe, President Trump said in a sweeping strategy document that seeks to reframe the country's role in the world reut.rs/49Up4mJ <a href="https://bsky.app/profile/reuters.com/post/3m7bhcugszk2l" target="_blank">reuters.com</a> (2025-12-06 06:42:15)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.45 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.32 (🔺0.27 : 2025-12-05)</span>
+<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.45 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.34 (🔺0.29 : 2025-12-05)</span>
   </div>
 </div>
 
@@ -32,99 +32,94 @@
 
 ## News Headlines
 
-1. 最高裁、米国生まれの子への市民権付与慣行の是非を判断へ
-2. 建築界の巨匠フランク・ゲーリー氏死去、96歳
-3. フランス、原子力潜水艦基地上空でドローンを傍受
-4. Netflix、ワーナー・ブラザース買収で批判に直面
-5. 2026年、米国各地で最低賃金引き上げへ
-6. オーストラリア、16歳未満へのソーシャルメディアアプリ禁止を開始
+1. トランプ大統領、ソマリア国民を侮辱発言もポジティブな反発
+2. 中国副首相、米財界要人と「建設的」な電話会談
+3. 米国、西半球での優位性再確立、インド太平洋で軍事力強化へ
+4. FIFA新設平和賞、ガザ和平への外交努力でトランプ大統領に
+5. スペイン、豚熱発生原因を調査、研究所からの漏洩か
+6. Netflix、ワーナー買収失敗で敵対的買収も
 
 ----
 
-@wsj.com
+@npr.org
 
-The Supreme Court will decide if President Trump can end the practice of granting citizenship to children born in the U.S.
+In Somalia, people are pushing back and pointing to the positives after President Trump disparaged their country. n.pr/3XD2VCc
 
-[2025-12-06 06:29:04](https://bsky.app/profile/wsj.com/post/3m7bglchejv2a)
+[2025-12-06 06:49:17](https://bsky.app/profile/npr.org/post/3m7bhphcmvp2y)
 
 ---
 
-@wsj.com
+@nhknewsunofficial.bsky.social
 
-Frank Gehry, a pioneer of contemporary architecture whose fantastical sculpturelike structures are destinations as much as the museums, libraries and concert halls they encompass, has died at age 96.
+【動画】Pickup NEWS（12月6日）
+https://news.web.nhk/newsweb/na/na-k10014995631000
 
-🔗: on.wsj.com/48m0ZnH
-
-[2025-12-06 06:26:07](https://bsky.app/profile/wsj.com/post/3m7bgfzwwda22)
+[2025-12-06 06:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bhnbousl2j)
 
 ---
 
 @reuters.com
 
-Witkoff, Ukraine's Umerov meeting again in Miami on Friday reut.rs/48SiVq6
+China's vice premier holds 'constructive' call with Bessent and Greer reut.rs/44cqPbd
 
-[2025-12-06 06:25:10](https://bsky.app/profile/reuters.com/post/3m7bgecu3sq2i)
-
----
-
-@financialtimes.com
-
-France intercepted drones flying over nuclear submarine base, defence minister says on.ft.com/48QFefT
-
-[2025-12-06 06:23:39](https://bsky.app/profile/financialtimes.com/post/3m7bgbmgwqb26)
+[2025-12-06 06:45:15](https://bsky.app/profile/reuters.com/post/3m7bhiakfrm27)
 
 ---
 
-@en.afp.com
+@washingtonpost.com
 
-Netflix is facing fierce criticism over its blockbuster, nearly $83 billion deal to acquire Warner Bros., the storied Hollywood studio u.afp.com/S7Ur
+A federal judge in Florida ordered the unsealing of grand jury transcripts from the Jeffrey Epstein investigation, siding with the Justice Department after multiple judges previously rejected similar requests from the government.
 
-[2025-12-06 06:23:23](https://bsky.app/profile/en.afp.com/post/3m7bgb4ztma2k)
-
----
-
-@nytimes.com
-
-From @theathleticfc.bsky.social: The Group of Death is a tradition at the World Cup. Without fail, each tournament yields one. 
-
-This time, our experts think it’s Group I. What do you think? nyti.ms/4oC0ue4
-
-[2025-12-06 06:23:04](https://bsky.app/profile/nytimes.com/post/3m7bgakung62q)
+[2025-12-06 06:45:04](https://bsky.app/profile/washingtonpost.com/post/3m7bhhvmmaq2e)
 
 ---
 
-@axios.com
+@reuters.com
 
-NEW: Olivia Nuzzi to leave Vanity Fair at end of year after contract expires
+The US will reassert its dominance in the Western Hemisphere, build military strength in the Indo-Pacific, and possibly reassess its relationship with Europe, President Trump said in a sweeping strategy document that seeks to reframe the country's role in the world reut.rs/49Up4mJ
 
-[2025-12-06 06:22:44](https://bsky.app/profile/axios.com/post/3m7bg7xv3hk23)
+[2025-12-06 06:42:15](https://bsky.app/profile/reuters.com/post/3m7bhcugszk2l)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+FIFA 新設の平和賞 米トランプ大統領に“ガザ和平へ外交努力”
+https://news.web.nhk/newsweb/na/na-k10014995851000
+
+[2025-12-06 06:42:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bhcjjaun2p)
+
+---
+
+@reuters.com
+
+From hunted to hunter, comeback king Verstappen chases fifth title reut.rs/48xSp40
+
+[2025-12-06 06:40:19](https://bsky.app/profile/reuters.com/post/3m7bh7foyoz26)
 
 ---
 
 @cbsnews.com
 
-Workers across the U.S. are set for minimum wage increases in 2026. Here's where.
+Brian Cole Jr., suspect in D.C. pipe bomb case, ordered detained after first court appearance.
 
-[2025-12-06 06:20:01](https://bsky.app/profile/cbsnews.com/post/3m7bg34aiym2z)
-
----
-
-@nytimes.com
-
-Chic packaging and promises aside, we wanted to find out if Merit is actually as good as celebrity and podcast ads insist.  Could one stick hide dark circles and breakouts?
-
-[2025-12-06 06:19:04](https://bsky.app/profile/nytimes.com/post/3m7bfzfws3w2y)
+[2025-12-06 06:40:02](https://bsky.app/profile/cbsnews.com/post/3m7bh6vc6742z)
 
 ---
 
-@sokuho.news
+@financialtimes.com
 
-🛎️JNNより【速報】です。
+Reform UK strips council leader of membership over undisclosed X account on.ft.com/4oyJky1
 
-【速報】かまぼこ工場で火災「ダクトの中が燃えている」けが人なし 諫早市鶴田町
-(2025-12-06 06:12:00) #ニュース
+[2025-12-06 06:39:26](https://bsky.app/profile/financialtimes.com/post/3m7bh5t5qiz2q)
 
-[2025-12-06 06:16:47](https://bsky.app/profile/sokuho.news/post/3m7bfvd5m7v27)
+---
+
+@reuters.com
+
+Spain probes whether swine fever outbreak was caused by lab leak reut.rs/3MqD4La
+
+[2025-12-06 06:35:10](https://bsky.app/profile/reuters.com/post/3m7bgw7mjgq2o)
 
 ---
 
