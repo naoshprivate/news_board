@@ -1,9 +1,9 @@
-# [2025-12-05 21:30 updated](2025_12_05.md)
+# [2025-12-05 21:50 updated](2025_12_05.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Netflix announces deal to buy Warner Bros. and HBO. https://cnn.it/48TBytK <a href="https://bsky.app/profile/cnn.com/post/3m7aialvwuw2b" target="_blank">cnn.com</a> (2025-12-05 21:26:13)</span><span style="padding-right:50px;">France seeks three-month suspension of Shein website in court hearing reut.rs/44KXgOb <a href="https://bsky.app/profile/reuters.com/post/3m7ai6renw222" target="_blank">reuters.com</a> (2025-12-05 21:25:11)</span><span style="padding-right:50px;">The Pentagon is getting serious about hypersonic weapons, a technology that has eluded the U.S. military for decades, and is looking to startups. <a href="https://bsky.app/profile/wsj.com/post/3m7ai5jt7ng22" target="_blank">wsj.com</a> (2025-12-05 21:24:30)</span><span style="padding-right:50px;">Deposed Syrian dictator Assad's exiled spy chief and billionaire cousin are plotting competing uprisings from Russia. To uncover the details, Reuters spoke to 48 people with knowledge of the plans and reviewed the money flows reut.rs/48TUVmr 1/3 <a href="https://bsky.app/profile/reuters.com/post/3m7ai2z7yfc2r" target="_blank">reuters.com</a> (2025-12-05 21:23:06)</span><span style="padding-right:50px;">But many Alawites also suffered under Assad and mistrust both men from the dictatorship’s inner circle. Five local military leaders in Syria said they’re willing to take money from both sides, but not ready to fight for them reut.rs/48TUVmr 3/3 <a href="https://bsky.app/profile/reuters.com/post/3m7ai3gv4oc2r" target="_blank">reuters.com</a> (2025-12-05 21:23:06)</span>
+<span style="padding-right:50px;">The US-Venezuela relationship as seen through the price of an oil-linked bond reut.rs/4iP2P3Z <a href="https://bsky.app/profile/reuters.com/post/3m7ajcpubox2o" target="_blank">reuters.com</a> (2025-12-05 21:45:18)</span><span style="padding-right:50px;">Stocks making the biggest moves premarket: Rubrik, Netflix, Victoria's Secret, Sofi, Ulta and more <a href="https://bsky.app/profile/cnbc.com/post/3m7ajaxfgvb2f" target="_blank">cnbc.com</a> (2025-12-05 21:44:19)</span><span style="padding-right:50px;">BREAKING: Netflix to buy Warner Bros. Discovery, home to Harry Potter and Superman franchises, for $72 billion. <a href="https://bsky.app/profile/apnews.com/post/3m7ajatm3ga2h" target="_blank">apnews.com</a> (2025-12-05 21:44:15)</span><span style="padding-right:50px;">Robert Jenrick: ‘I’m unashamedly provincial in my attitudes’ on.ft.com/44Sho0O <a href="https://bsky.app/profile/financialtimes.com/post/3m7aja243ig2v" target="_blank">financialtimes.com</a> (2025-12-05 21:43:48)</span><span style="padding-right:50px;">AI industry not in a bubble, but stocks could see correction, SK chief says reut.rs/4pPV5AY <a href="https://bsky.app/profile/reuters.com/post/3m7aizoq7b62i" target="_blank">reuters.com</a> (2025-12-05 21:40:15)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47850.94 (🔻37.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.38 (🔺1.76 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.19 (🔺0.14 : 2025-12-05)</span>
+<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47850.94 (🔻37.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.38 (🔺1.76 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.18 (🔺0.13 : 2025-12-05)</span>
   </div>
 </div>
 
@@ -32,94 +32,98 @@
 
 ## News Headlines
 
-1. Netflix、ワーナー・ブラザース買収で合意、メディア界激変か
-2. フランス、Sheinウェブサイトの停止を要請
-3. 米国防総省、極超音速兵器開発を本格化、スタートアップに注目
-4. シリア：アサド政権追放されたスパイ長官と億万長者のいとこが、ロシアから反乱を計画
-5. X（旧Twitter）、透明性欠如でEUから巨額の制裁金
-6. 山口宇部ガス、復旧作業本格化、週明けにも全域復旧へ
+1. Netflix、ワーナー・ブラザースを830億ドルで買収へ
+2. 1月6日事件、議会近くにパイプ爆弾を仕掛けた容疑者を逮捕
+3. 島田麻央、フィギュアGPFジュニア女子シングルで史上初の4連覇
+4. EU、森林破壊抑制法を1年延期
+5. プーチン大統領、ウクライナとの和平交渉に譲歩の意向なし
+6. X（旧Twitter）、透明性欠如でEUから1億4000万ドルの罰金
 
 ----
 
-@cnn.com
+@reuters.com
 
-Netflix announces deal to buy Warner Bros. and HBO.
-https://cnn.it/48TBytK
+The US-Venezuela relationship as seen through the price of an oil-linked bond reut.rs/4iP2P3Z
 
-[2025-12-05 21:26:13](https://bsky.app/profile/cnn.com/post/3m7aialvwuw2b)
+[2025-12-05 21:45:18](https://bsky.app/profile/reuters.com/post/3m7ajcpubox2o)
+
+---
+
+@cnbc.com
+
+Stocks making the biggest moves premarket: Rubrik, Netflix, Victoria's Secret, Sofi, Ulta and more
+
+[2025-12-05 21:44:19](https://bsky.app/profile/cnbc.com/post/3m7ajaxfgvb2f)
+
+---
+
+@apnews.com
+
+<strong><span style="color: red;">BREAKING:</span> Netflix to buy Warner Bros. Discovery, home to Harry Potter and Superman franchises, for $72 billion.</strong>
+
+[2025-12-05 21:44:15](https://bsky.app/profile/apnews.com/post/3m7ajatm3ga2h)
+
+---
+
+@financialtimes.com
+
+Robert Jenrick: ‘I’m unashamedly provincial in my attitudes’ on.ft.com/44Sho0O
+
+[2025-12-05 21:43:48](https://bsky.app/profile/financialtimes.com/post/3m7aja243ig2v)
 
 ---
 
 @reuters.com
 
-France seeks three-month suspension of Shein website in court hearing reut.rs/44KXgOb
+AI industry not in a bubble, but stocks could see correction, SK chief says reut.rs/4pPV5AY
 
-[2025-12-05 21:25:11](https://bsky.app/profile/reuters.com/post/3m7ai6renw222)
-
----
-
-@wsj.com
-
-The Pentagon is getting serious about hypersonic weapons, a technology that has eluded the U.S. military for decades, and is looking to startups.
-
-[2025-12-05 21:24:30](https://bsky.app/profile/wsj.com/post/3m7ai5jt7ng22)
-
----
-
-@reuters.com
-
-Deposed Syrian dictator Assad's exiled spy chief and billionaire cousin are plotting competing uprisings from Russia. To uncover the details, Reuters spoke to 48 people with knowledge of the plans and reviewed the money flows reut.rs/48TUVmr 1/3
-
-[2025-12-05 21:23:06](https://bsky.app/profile/reuters.com/post/3m7ai2z7yfc2r)
-
----
-
-@reuters.com
-
-But many Alawites also suffered under Assad and mistrust both men from the dictatorship’s inner circle. Five local military leaders in Syria said they’re willing to take money from both sides, but not ready to fight for them reut.rs/48TUVmr 3/3
-
-[2025-12-05 21:23:06](https://bsky.app/profile/reuters.com/post/3m7ai3gv4oc2r)
-
----
-
-@reuters.com
-
-The rivals are sending millions of dollars to try and establish militias, hoping to win loyalty along Syria’s coast, home to a majority of the country’s Alawites, a sect associated with the Assads 2/3
-
-[2025-12-05 21:23:06](https://bsky.app/profile/reuters.com/post/3m7ai3d6uik2r)
-
----
-
-@nytimes.com
-
-<strong><span style="color: red;">Breaking News</span>: Netflix struck an $83 billion deal for Warner Bros. Discovery’s studio and streaming business, a merger that could transform the media landscape.</strong>
-
-[2025-12-05 21:22:34](https://bsky.app/profile/nytimes.com/post/3m7ai23daue2y)
+[2025-12-05 21:40:15](https://bsky.app/profile/reuters.com/post/3m7aizoq7b62i)
 
 ---
 
 @nbcnews.com
 
-<strong><span style="color: red;">BREAKING:</span> Netflix wins the Warner Bros. Discovery bidding war with an $83 billion offer, setting up a merger between the streaming giant and the legacy Hollywood studio. </strong>
+The White House brings in a new architect to work on President Trump’s “vision” for his massive $300 million ballroom project, officials say. 
 
-[2025-12-05 21:21:12](https://bsky.app/profile/nbcnews.com/post/3m7ahxmjlzt2c)
+[2025-12-05 21:40:12](https://bsky.app/profile/nbcnews.com/post/3m7aizlpcqf2i)
 
 ---
 
 @en.afp.com
 
-🇳🇬 Nigeria might be going through its worst economic crisis in a generation, but in Lagos, the party hasn't stopped: Clubs are promising high-roller patrons dinner and a show as cabaret takes the mega-city by storm. 
-➡️ u.afp.com/S7Jj
+🇺🇸 Raccoon ransacks liquor store, passes out drunk in toilet
 
-[2025-12-05 21:20:02](https://bsky.app/profile/en.afp.com/post/3m7ahvjp4yw2c)
+A raccoon broke into a liquor store in the US state of Virginia, leaving a trail of broken glass and ending in a drunken heap on the floor.
+
+[2025-12-05 21:40:07](https://bsky.app/profile/en.afp.com/post/3m7aizhandb22)
 
 ---
 
-@reuters.com
+@nytimes.com
 
-LIVE: Family of last hostage in Gaza, Ran Gvili, gathers at Hostages Square youtube.com/live/FendEKR...
+Federal agents have arrested a man they suspect of placing two pipe bombs near the Capitol on the eve of the Jan. 6, 2021, attack, a break in a mystery that fueled conspiracy theories for years. 
 
-[2025-12-05 21:19:53](https://bsky.app/profile/reuters.com/post/3m7ahvbd4xk25)
+Here's what we know. nyti.ms/48GarkR
+
+[2025-12-05 21:40:05](https://bsky.app/profile/nytimes.com/post/3m7aizfgs4w2l)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+損害保険会社から調査委託の会社 不正アクセスで個人情報流出
+https://news.web.nhk/newsweb/na/na-k10014995531000
+
+[2025-12-05 21:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7aixl2bzu2b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+高校野球 7イニング制“2028年のセンバツをめどに導入”報告書
+https://news.web.nhk/newsweb/na/na-k10014995521000
+
+[2025-12-05 21:36:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7aiserim223)
 
 ---
 
