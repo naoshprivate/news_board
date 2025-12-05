@@ -1,9 +1,9 @@
-# [2025-12-05 12:30 updated](2025_12_05.md)
+# [2025-12-05 12:50 updated](2025_12_05.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">'China's Nvidia' Moore Threads surges over 400% on trading debut after $1.1 billion listing <a href="https://bsky.app/profile/cnbc.com/post/3m77jtpy6bw23" target="_blank">cnbc.com</a> (2025-12-05 12:22:09)</span><span style="padding-right:50px;">【地震速報】熊本県阿蘇で震度3 津波の心配なし https://news.web.nhk/newsweb/na/na-k10014994661000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77jrwtrg224" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-05 12:21:07)</span><span style="padding-right:50px;">気象災害の危険度わかりやすく再編 改正気象業務法など成立 https://news.web.nhk/newsweb/na/na-k10014994671000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77jrsjkr52p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-05 12:21:02)</span><span style="padding-right:50px;">US FAA picks Peraton to oversee air traffic control reform reut.rs/3KyROHe <a href="https://bsky.app/profile/reuters.com/post/3m77jqfi3oa2e" target="_blank">reuters.com</a> (2025-12-05 12:20:17)</span><span style="padding-right:50px;">From @theathletic.com: Laveranues Coles, who made $42 million during his NFL career, is paid $32.92 an hour working as a police officer. Even his closest friends didn't understand why he chose to become a cop at age 47. The reasons date back to his childhood. <a href="https://bsky.app/profile/nytimes.com/post/3m77jq3hr2q22" target="_blank">nytimes.com</a> (2025-12-05 12:20:06)</span>
+<span style="padding-right:50px;">フジテレビ、F1を地上波11年ぶり放送へ　放送・配信権を獲得（無料記事） www.nikkei.com/article/DGXZQO...  フジテレビは1987年にF1日本グランプリの中継を開始。  長年、視聴者やファンに親しまれてきましたが、2015年に地上波での放送を終了していました。  同社は人権問題が発覚してから経営の立て直しを進めており、コンテンツを拡充する方針を掲げています。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m77l6bvgdd22" target="_blank">nikkei.com</a> (2025-12-05 12:45:57)</span><span style="padding-right:50px;">US military says it killed four men in strike on suspected drug vessel reut.rs/48AMSKa <a href="https://bsky.app/profile/reuters.com/post/3m77kuf65mv2n" target="_blank">reuters.com</a> (2025-12-05 12:40:25)</span><span style="padding-right:50px;">静岡 伊豆の国市 強盗事件の被告が病院7階から逃走 https://news.web.nhk/newsweb/na/na-k10014994551000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77kryyqmk24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-05 12:39:03)</span><span style="padding-right:50px;">【きょうのおはBiz 12月5日(金)】小型スーパー出店加速 なぜ？ https://news.web.nhk/newsweb/na/na-k10014994611000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77kmryn3v2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-05 12:36:08)</span><span style="padding-right:50px;">Olivia Nuzzi and Ryan Lizza were star reporters in Washington. Now their conflicting accounts of what really happened in a political affair have become a media spectacle.  🔗 on.wsj.com/3KI4cVt <a href="https://bsky.app/profile/wsj.com/post/3m77kmneo3t2a" target="_blank">wsj.com</a> (2025-12-05 12:36:05)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50465.14 (🔻65.20 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47850.94 (🔻37.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.38 (🔺1.76 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3033.00 (🔻20.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.13 (🔺0.08 : 2025-12-05)</span>
+<span style="padding-right:50px;">NIKKEI: 50296.48 (🔻233.86 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47850.94 (🔻37.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.38 (🔺1.76 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3030.00 (🔻23.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.12 (🔺0.07 : 2025-12-05)</span>
   </div>
 </div>
 
@@ -32,113 +32,113 @@
 
 ## News Headlines
 
-1. 中国版Nvidia、上場初日に株価400%超急騰
-2. 熊本県阿蘇地方で震度3の地震、津波の心配なし
-3. 気象災害の危険度、わかりやすく再編へ
-4. 元NFL選手、警察官として時給32ドルで働く理由
-5. NZ警察、ダイヤ入りファベルジェの卵を回収
-6. 大津保護司殺害事件、初公判は2月17日に決定
+1. フジテレビ、F1地上波放送11年ぶり復活
+2. 静岡・伊豆の国市で強盗被告が病院から逃走
+3. 熊本県阿蘇地方で震度3の地震、津波の心配なし
+4. iDeCo活用、2026年ルール変更を前に全体像を理解
+5. 気象災害の危険度、わかりやすく再編へ
+6. 首都直下地震の経済損失83兆円に縮小、停電は1600万軒に増加
 
 ----
 
-@cnbc.com
+@nikkei.com
 
-'China's Nvidia' Moore Threads surges over 400% on trading debut after $1.1 billion listing
+フジテレビ、F1を地上波11年ぶり放送へ　放送・配信権を獲得（無料記事）
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-05 12:22:09](https://bsky.app/profile/cnbc.com/post/3m77jtpy6bw23)
+フジテレビは1987年にF1日本グランプリの中継を開始。
 
----
+長年、視聴者やファンに親しまれてきましたが、2015年に地上波での放送を終了していました。
 
-@nhknewsunofficial.bsky.social
+同社は人権問題が発覚してから経営の立て直しを進めており、コンテンツを拡充する方針を掲げています。
 
-【地震速報】熊本県阿蘇で震度3 津波の心配なし
-https://news.web.nhk/newsweb/na/na-k10014994661000
+#ニュース
 
-[2025-12-05 12:21:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77jrwtrg224)
-
----
-
-@nhknewsunofficial.bsky.social
-
-気象災害の危険度わかりやすく再編 改正気象業務法など成立
-https://news.web.nhk/newsweb/na/na-k10014994671000
-
-[2025-12-05 12:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77jrsjkr52p)
+[2025-12-05 12:45:57](https://bsky.app/profile/nikkei.com/post/3m77l6bvgdd22)
 
 ---
 
 @reuters.com
 
-US FAA picks Peraton to oversee air traffic control reform reut.rs/3KyROHe
+US military says it killed four men in strike on suspected drug vessel reut.rs/48AMSKa
 
-[2025-12-05 12:20:17](https://bsky.app/profile/reuters.com/post/3m77jqfi3oa2e)
-
----
-
-@nytimes.com
-
-From @theathletic.com: Laveranues Coles, who made $42 million during his NFL career, is paid $32.92 an hour working as a police officer. Even his closest friends didn't understand why he chose to become a cop at age 47. The reasons date back to his childhood.
-
-[2025-12-05 12:20:06](https://bsky.app/profile/nytimes.com/post/3m77jq3hr2q22)
+[2025-12-05 12:40:25](https://bsky.app/profile/reuters.com/post/3m77kuf65mv2n)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-【地震速報】熊本県阿蘇地方で震度3 津波の心配なし
-https://news.web.nhk/newsweb/na/na-k10014994661000
+静岡 伊豆の国市 強盗事件の被告が病院7階から逃走
+https://news.web.nhk/newsweb/na/na-k10014994551000
 
-[2025-12-05 12:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77jmgnmad2g)
+[2025-12-05 12:39:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77kryyqmk24)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【きょうのおはBiz 12月5日(金)】小型スーパー出店加速 なぜ？
+https://news.web.nhk/newsweb/na/na-k10014994611000
+
+[2025-12-05 12:36:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77kmryn3v2p)
 
 ---
 
 @wsj.com
 
-Want to diversify your holiday decor portfolio? Here, stockings to satisfy every aesthetic—and bevy of compatible stuffers to suit each style.
+Olivia Nuzzi and Ryan Lizza were star reporters in Washington. Now their conflicting accounts of what really happened in a political affair have become a media spectacle.
 
-[2025-12-05 12:16:50](https://bsky.app/profile/wsj.com/post/3m77jk7urc72w)
+🔗 on.wsj.com/3KI4cVt
+
+[2025-12-05 12:36:05](https://bsky.app/profile/wsj.com/post/3m77kmneo3t2a)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【地震速報】熊本 阿蘇で震度3 津波の心配なし
+https://news.web.nhk/newsweb/na/na-k10014994661000
+
+[2025-12-05 12:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77kmnch2h2e)
+
+---
+
+@cnn.com
+
+The Supreme Court on allowed Texas to use a congressional map that will boost President Donald Trump’s effort to keep Republicans in control of Congress. 
+
+[2025-12-05 12:32:02](https://bsky.app/profile/cnn.com/post/3m77kffpwzj2m)
 
 ---
 
 @nikkei.com
 
-眠気対策に「昼寝前のコーヒー」実際の効果は？ 専門家に聞いてみた（無料記事）
+小手先でないiDeCo活用を　DCの税優遇ルール変更
 www.nikkei.com/article/DGXZQO...
 
-昼寝もカフェインも眠気をリセットできます。
+「節税の王様」の別名を持つ個人型確定拠出年金（iDeCo、イデコ）。2026年1月にルールが一部変更されます。
 
-そうなると、コーヒーを飲んだ後に短い昼寝をとれば、覚醒への効果は増幅されるのでしょうか。
+一部で「改悪」の声も上がりますが、今後は改善も続きます。
 
-#ナショナルジオグラフィック
+全体像を正しく理解した上で活用を心がけたいところ。ポイントを解説します。
 
-[2025-12-05 12:15:56](https://bsky.app/profile/nikkei.com/post/3m77jimspq32j)
-
----
-
-@sokuho.news
-
-🔔防災科研より【強震モニタ】動画です。
-
-震源:熊本県阿蘇地方, 深さ:ごく浅い
-マグニチュード:3.2, 最大震度:3
-📍https://www.google.com/maps?q=33.0,131.1&ll=33.0,131.1&z=7&t=h
-地震発生日時:2025-12-05 12:11頃
-(10倍速▶150s→15s) #地震
-
-[2025-12-05 12:15:18](https://bsky.app/profile/sokuho.news/post/3m77jhik2jl2q)
+[2025-12-05 12:31:57](https://bsky.app/profile/nikkei.com/post/3m77kfaobar2w)
 
 ---
 
-@sokuho.news
+@reuters.com
 
-🔔気象庁より【地震速報】です。
+Trading Day: Claims muddy Fed outlook reut.rs/3YbgcBW
 
-12時11分頃、熊本県などで最大震度3の地震を観測しました。
-震源:熊本県阿蘇地方, 深さ:ごく浅い, 規模:M3.2
-この地震による津波の心配はありません。
-(2025-12-05 12:14:49) #地震
+[2025-12-05 12:30:51](https://bsky.app/profile/reuters.com/post/3m77kdcd6k427)
 
-[2025-12-05 12:14:51](https://bsky.app/profile/sokuho.news/post/3m77jgowf7722)
+---
+
+@cbsnews.com
+
+A federal appeals court on Thursday temporarily paused a lower court ruling that had called for an end to the deployment of National Guard troops to the streets of Washington, D.C.
+
+[2025-12-05 12:30:00](https://bsky.app/profile/cbsnews.com/post/3m77kbru6ts2h)
 
 ---
 
