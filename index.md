@@ -1,9 +1,9 @@
-# [2025-12-05 15:30 updated](2025_12_05.md)
+# [2025-12-05 15:50 updated](2025_12_05.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】4月～11月のクマの人身被害 全国で230人 過去最多に 出没件数も過去最多 環境省 (2025-12-05 15:26:29) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m77u7og5ho2e" target="_blank">sokuho.news</a> (2025-12-05 15:27:47)</span><span style="padding-right:50px;">Indian shares edge higher after RBI rate cut, led by financials reut.rs/4456ZyI <a href="https://bsky.app/profile/reuters.com/post/3m77u2w54qm2e" target="_blank">reuters.com</a> (2025-12-05 15:25:07)</span><span style="padding-right:50px;">柔道 阿部一二三 グランドスラム東京に向け意気込み https://news.web.nhk/newsweb/na/na-k10014994881000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77ttpbphi2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-05 15:21:03)</span><span style="padding-right:50px;">Chevron's Gorgon LNG project secures $2 billion investment nod reut.rs/448LGMy <a href="https://bsky.app/profile/reuters.com/post/3m77tj6fbcn2i" target="_blank">reuters.com</a> (2025-12-05 15:15:12)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:長野県北部, 深さ:ごく浅い マグニチュード:2.3, 最大震度:1 📍https://www.google.com/maps?q=36.7,138.2&ll=36.7,138.2&z=7&t=h 地震発生日時:2025-12-05 15:09頃 (10倍速▶90s→9s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m77tetszce2m" target="_blank">sokuho.news</a> (2025-12-05 15:12:47)</span>
+<span style="padding-right:50px;">This holiday season, here’s how you wow the discerning carnivores on your list. <a href="https://bsky.app/profile/wsj.com/post/3m77vcsd6bg2i" target="_blank">wsj.com</a> (2025-12-05 15:47:25)</span><span style="padding-right:50px;">米ワーナー、自社売却でNetflixと独占交渉入り　米報道 www.nikkei.com/article/DGXZQO...  ワーナー・ブラザース・ディスカバリーは「ハリー・ポッター」や「バットマン」などのコンテンツを持つハリウッドの名門スタジオの一つ。  早ければ数日でネットフリックスとの合意を発表する可能性があるといいます。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m77va5whqe22" target="_blank">nikkei.com</a> (2025-12-05 15:45:57)</span><span style="padding-right:50px;">Netflix enters exclusive talks to acquire Warner Bros Discovery studio and streaming service, Bloomberg News reporter says reut.rs/4oD49Z5 <a href="https://bsky.app/profile/reuters.com/post/3m77v6tahki2k" target="_blank">reuters.com</a> (2025-12-05 15:45:12)</span><span style="padding-right:50px;">LG Elec says Microsoft and LG affiliates pursuing cooperation on data centres reut.rs/4pq94xG <a href="https://bsky.app/profile/reuters.com/post/3m77uvu7asa2k" target="_blank">reuters.com</a> (2025-12-05 15:40:11)</span><span style="padding-right:50px;">🛎️NNNより【独自】です。  【独自】渡辺渚さんを脅迫の疑いで32歳女を書類送検 警視庁 渡辺さんの写真集に包丁置いた写真を投稿…「行きすぎた行為で申し訳ない」 (2025-12-05 15:37) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m77urcjxoa2e" target="_blank">sokuho.news</a> (2025-12-05 15:37:39)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50448.78 (🔻81.56 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47850.94 (🔻37.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.38 (🔺1.76 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3019.00 (🔻34.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 154.58 (🔻0.47 : 2025-12-05)</span>
+<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47850.94 (🔻37.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.38 (🔺1.76 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 154.59 (🔻0.46 : 2025-12-05)</span>
   </div>
 </div>
 
@@ -32,115 +32,104 @@
 
 ## News Headlines
 
-1. クマ人身被害、全国で過去最多230人
-2. 静岡・伊豆の国市 病院から逃走の被告を確保
-3. 長野県北部で地震発生、最大震度1
-4. オックスフォード大学出版局「レイジベイト」を2025年の言葉に
-5. 阿部一二三、グランドスラム東京へ意気込み
-6. 中国大使館、南京事件88年に向け邦人に安全確保呼びかけ
+1. Netflix、ワーナー買収へ独占交渉入りか
+2. 長期金利、18年ぶり高水準1.95％
+3. 静岡・病院から逃走の被告を確保、三島市内
+4. クマ人身被害、過去最多230人に
+5. オックスフォード大、2025年の言葉に「レイジベイト」
+6. ブルーシール本店、年間来客数50万人突破
 
 ----
 
-@sokuho.news
+@wsj.com
 
-🛎️JNNより【速報】です。
+This holiday season, here’s how you wow the discerning carnivores on your list.
 
-【速報】4月～11月のクマの人身被害 全国で230人 過去最多に 出没件数も過去最多 環境省
-(2025-12-05 15:26:29) #ニュース
+[2025-12-05 15:47:25](https://bsky.app/profile/wsj.com/post/3m77vcsd6bg2i)
 
-[2025-12-05 15:27:47](https://bsky.app/profile/sokuho.news/post/3m77u7og5ho2e)
+---
+
+@nikkei.com
+
+米ワーナー、自社売却でNetflixと独占交渉入り　米報道
+www.nikkei.com/article/DGXZQO...
+
+ワーナー・ブラザース・ディスカバリーは「ハリー・ポッター」や「バットマン」などのコンテンツを持つハリウッドの名門スタジオの一つ。
+
+早ければ数日でネットフリックスとの合意を発表する可能性があるといいます。
+
+#ニュース
+
+[2025-12-05 15:45:57](https://bsky.app/profile/nikkei.com/post/3m77va5whqe22)
 
 ---
 
 @reuters.com
 
-Indian shares edge higher after RBI rate cut, led by financials reut.rs/4456ZyI
+Netflix enters exclusive talks to acquire Warner Bros Discovery studio and streaming service, Bloomberg News reporter says reut.rs/4oD49Z5
 
-[2025-12-05 15:25:07](https://bsky.app/profile/reuters.com/post/3m77u2w54qm2e)
+[2025-12-05 15:45:12](https://bsky.app/profile/reuters.com/post/3m77v6tahki2k)
+
+---
+
+@reuters.com
+
+LG Elec says Microsoft and LG affiliates pursuing cooperation on data centres reut.rs/4pq94xG
+
+[2025-12-05 15:40:11](https://bsky.app/profile/reuters.com/post/3m77uvu7asa2k)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【独自】です。
+
+【独自】渡辺渚さんを脅迫の疑いで32歳女を書類送検 警視庁 渡辺さんの写真集に包丁置いた写真を投稿…「行きすぎた行為で申し訳ない」
+(2025-12-05 15:37) #ニュース
+
+[2025-12-05 15:37:39](https://bsky.app/profile/sokuho.news/post/3m77urcjxoa2e)
+
+---
+
+@financialtimes.com
+
+Warner Bros in exclusive talks with Netflix about studio and streaming sale on.ft.com/4oAC3xC
+
+[2025-12-05 15:37:04](https://bsky.app/profile/financialtimes.com/post/3m77uqbkzqk24)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-柔道 阿部一二三 グランドスラム東京に向け意気込み
-https://news.web.nhk/newsweb/na/na-k10014994881000
+ドジャース 来季で引退のロハスと1年契約 最後はドジャースで
+https://news.web.nhk/newsweb/na/na-k10014994921000
 
-[2025-12-05 15:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77ttpbphi2p)
-
----
-
-@reuters.com
-
-Chevron's Gorgon LNG project secures $2 billion investment nod reut.rs/448LGMy
-
-[2025-12-05 15:15:12](https://bsky.app/profile/reuters.com/post/3m77tj6fbcn2i)
-
----
-
-@sokuho.news
-
-🔔防災科研より【強震モニタ】動画です。
-
-震源:長野県北部, 深さ:ごく浅い
-マグニチュード:2.3, 最大震度:1
-📍https://www.google.com/maps?q=36.7,138.2&ll=36.7,138.2&z=7&t=h
-地震発生日時:2025-12-05 15:09頃
-(10倍速▶90s→9s) #地震
-
-[2025-12-05 15:12:47](https://bsky.app/profile/sokuho.news/post/3m77tetszce2m)
-
----
-
-@sokuho.news
-
-🔔気象庁より【地震速報】です。
-
-15時9分頃、長野県で最大震度1の地震を観測しました。
-震源:長野県北部, 深さ:ごく浅い, 規模:M2.3
-この地震による津波の心配はありません。
-(2025-12-05 15:12:24) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/05/2025-12-05-15-09-49.html?xlarge_image=1
-
-[2025-12-05 15:12:25](https://bsky.app/profile/sokuho.news/post/3m77te7y5ct2p)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】伊豆の国市の病院から逃走した54歳男を三島市内で確保「山か海に行って…」病院に置手紙（静岡）
-(2025-12-05 14:50) #ニュース
-
-[2025-12-05 15:11:30](https://bsky.app/profile/sokuho.news/post/3m77tckjpyo2y)
-
----
-
-@reuters.com
-
-Dollar hovers near five-week low on Fed rate cut bets reut.rs/49XIYNN
-
-[2025-12-05 15:10:09](https://bsky.app/profile/reuters.com/post/3m77ta5qg6p2a)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】伊豆の国市の病院から逃走した54歳男を三島市内で確保（静岡）
-(2025-12-05 14:50) #ニュース
-
-[2025-12-05 15:06:17](https://bsky.app/profile/sokuho.news/post/3m77szakinb2x)
+[2025-12-05 15:36:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77uonm4dx2k)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-楽天 新人選手入団会見 ドラフト1位の藤原聡大が意気込み
-https://news.web.nhk/newsweb/na/na-k10014994801000
+長期金利 10年もの国債の利回り1.95％に 18年ぶりの高水準
+https://news.web.nhk/newsweb/na/na-k10014994591000
 
-[2025-12-05 15:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77syuch562j)
+[2025-12-05 15:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77uoicoou2e)
+
+---
+
+@reuters.com
+
+Japan's Nikkei skids in upbeat Asia; investors eye US inflation data reut.rs/4piXWT4
+
+[2025-12-05 15:35:07](https://bsky.app/profile/reuters.com/post/3m77ums3jkx2r)
+
+---
+
+@npr.org
+
+To close out the year, World Cafe shares some of their personal favorite music-related moments. n.pr/48xBrTr
+
+[2025-12-05 15:35:03](https://bsky.app/profile/npr.org/post/3m77umnwfo42e)
 
 ---
 
