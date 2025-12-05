@@ -1,9 +1,9 @@
-# [2025-12-06 05:30 updated](2025_12_06.md)
+# [2025-12-06 05:50 updated](2025_12_06.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Built next to the Monticello Motor Club, the contemporary home has a replica Formula One car on display, a Ferrari-inspired office and a carport. on.wsj.com/3XAaUjp <a href="https://bsky.app/profile/wsj.com/post/3m7bd74xcyw2i" target="_blank">wsj.com</a> (2025-12-06 05:28:34)</span><span style="padding-right:50px;">Wall St Week Ahead Fed's internal split puts spotlight on Powell's rate guidance, dissents reut.rs/4oGLPhR <a href="https://bsky.app/profile/reuters.com/post/3m7bcz2thub2d" target="_blank">reuters.com</a> (2025-12-06 05:25:11)</span><span style="padding-right:50px;">From @theathleticfc.bsky.social: The 12 groups for the 2026 World Cup were unveiled. The U.S. men’s team will face Australia, Paraguay and the winner of a European playoff.   Which group are you most looking forward to? nyti.ms/3KGmk22 <a href="https://bsky.app/profile/nytimes.com/post/3m7bcrrecjb26" target="_blank">nytimes.com</a> (2025-12-06 05:21:06)</span><span style="padding-right:50px;">AI開発めぐり 政府 個人情報保護法の改正案の概要まとめる https://news.web.nhk/newsweb/na/na-k10014995611000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bcrqacuv2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-06 05:21:03)</span><span style="padding-right:50px;">Breaking news: The World Cup group stage is set. The U.S. men’s national team will face Australia, Paraguay and a European playoff winner in Group D.  See the full list of what teams are competing against each other. <a href="https://bsky.app/profile/washingtonpost.com/post/3m7bcqxzej32s" target="_blank">washingtonpost.com</a> (2025-12-06 05:20:40)</span>
+<span style="padding-right:50px;">France investigates reports of drones over nuclear sub base reut.rs/3McZakr <a href="https://bsky.app/profile/reuters.com/post/3m7be4xgli72n" target="_blank">reuters.com</a> (2025-12-06 05:45:15)</span><span style="padding-right:50px;">Breaking news: Architect Frank Gehry, whose provocatively adventurous buildings helped liberate modernist architecture from its conventions and won him wide admiration, has died at 96. <a href="https://bsky.app/profile/washingtonpost.com/post/3m7be4oaxaw2e" target="_blank">washingtonpost.com</a> (2025-12-06 05:45:06)</span><span style="padding-right:50px;">UK's Telecom Plus eyes acquisition of Ovo's retail energy unit, FT reports reut.rs/4iZDYe5 <a href="https://bsky.app/profile/reuters.com/post/3m7bdu3mn4w2i" target="_blank">reuters.com</a> (2025-12-06 05:40:18)</span><span style="padding-right:50px;">Former Ohio State University students trying to get billionaire Les Wexner to testify about Richard Strauss — a former campus doctor who allegedly abused dozens of men — staged a protest at a board of trustees meeting, where they brought up Wexner’s past friendship with Jeffrey Epstein. <a href="https://bsky.app/profile/nbcnews.com/post/3m7bdtuelob2f" target="_blank">nbcnews.com</a> (2025-12-06 05:40:10)</span><span style="padding-right:50px;">News Analysis: Almost every time Pope Leo XIV spoke publicly during his trip to Turkey and Lebanon, he appealed for unity and an end to violence. He also echoed one of the themes he set out in the first days of his papacy, calling out the risks of A.I. and other rapidly advancing technologies. <a href="https://bsky.app/profile/nytimes.com/post/3m7bdtq5tok2g" target="_blank">nytimes.com</a> (2025-12-06 05:40:06)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47976.99 (🔺97.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23566.35 (🔻1.42 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 181.85 (🔻2.01 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.30 (🔺0.25 : 2025-12-05)</span>
+<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47913.97 (🔺34.37 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23539.78 (🔻27.99 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 181.48 (🔻2.38 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.30 (🔺0.25 : 2025-12-05)</span>
   </div>
 </div>
 
@@ -32,97 +32,94 @@
 
 ## News Headlines
 
-1.  建築家フランク・ゲーリー氏死去、96歳
-2.  2026年サッカーW杯グループ分け決定、日本はオランダ、チュニジアなどと同組
-3.  AI開発で個人情報保護法改正案、政府が概要まとめる
-4.  EVに重量課税導入へ、来年度税制改正で検討
-5.  首都直下地震、最大2万人近く死亡の被害想定
-6.  エプスタイン事件、大陪審資料公開へ
+1.  建築家フランク・ゲーリー氏死去、96歳　グッゲンハイム美術館ビルバオなどを設計
+2.  トランプ氏、台湾を巡る中国との紛争防止戦略を発表
+3.  米消費者信頼感、12月上旬に改善
+4.  2026年W杯組み合わせ決定　アメリカはオーストラリア、パラグアイなどと対戦
+5.  エプスタイン事件、大陪審記録の公開を米裁判所が承認
+6.  AI開発めぐり 政府 個人情報保護法の改正案の概要まとめる
 
 ----
 
-@wsj.com
-
-Built next to the Monticello Motor Club, the contemporary home has a replica Formula One car on display, a Ferrari-inspired office and a carport. on.wsj.com/3XAaUjp
-
-[2025-12-06 05:28:34](https://bsky.app/profile/wsj.com/post/3m7bd74xcyw2i)
-
----
-
 @reuters.com
 
-Wall St Week Ahead Fed's internal split puts spotlight on Powell's rate guidance, dissents reut.rs/4oGLPhR
+France investigates reports of drones over nuclear sub base reut.rs/3McZakr
 
-[2025-12-06 05:25:11](https://bsky.app/profile/reuters.com/post/3m7bcz2thub2d)
-
----
-
-@nytimes.com
-
-From @theathleticfc.bsky.social: The 12 groups for the 2026 World Cup were unveiled. The U.S. men’s team will face Australia, Paraguay and the winner of a European playoff. 
-
-Which group are you most looking forward to? nyti.ms/3KGmk22
-
-[2025-12-06 05:21:06](https://bsky.app/profile/nytimes.com/post/3m7bcrrecjb26)
-
----
-
-@nhknewsunofficial.bsky.social
-
-AI開発めぐり 政府 個人情報保護法の改正案の概要まとめる
-https://news.web.nhk/newsweb/na/na-k10014995611000
-
-[2025-12-06 05:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bcrqacuv2b)
+[2025-12-06 05:45:15](https://bsky.app/profile/reuters.com/post/3m7be4xgli72n)
 
 ---
 
 @washingtonpost.com
 
-<strong><span style="color: red;">Breaking news:</span> The World Cup group stage is set. The U.S. men’s national team will face Australia, Paraguay and a European playoff winner in Group D.</strong><br><strong></strong><br><strong>See the full list of what teams are competing against each other.</strong>
+<strong><span style="color: red;">Breaking news:</span> Architect Frank Gehry, whose provocatively adventurous buildings helped liberate modernist architecture from its conventions and won him wide admiration, has died at 96.</strong>
 
-[2025-12-06 05:20:40](https://bsky.app/profile/washingtonpost.com/post/3m7bcqxzej32s)
+[2025-12-06 05:45:06](https://bsky.app/profile/washingtonpost.com/post/3m7be4oaxaw2e)
+
+---
+
+@reuters.com
+
+UK's Telecom Plus eyes acquisition of Ovo's retail energy unit, FT reports reut.rs/4iZDYe5
+
+[2025-12-06 05:40:18](https://bsky.app/profile/reuters.com/post/3m7bdu3mn4w2i)
 
 ---
 
 @nbcnews.com
 
-Vice President JD Vance said antisemitism isn’t "exploding" on the right during an exclusive interview with NBC News, wading into an issue that has roiled his party in recent weeks amid a broader focus on antisemitism by the Trump administration.
-nbcnews.to/3MpXns8
+Former Ohio State University students trying to get billionaire Les Wexner to testify about Richard Strauss — a former campus doctor who allegedly abused dozens of men — staged a protest at a board of trustees meeting, where they brought up Wexner’s past friendship with Jeffrey Epstein.
 
-[2025-12-06 05:20:33](https://bsky.app/profile/nbcnews.com/post/3m7bcqrmntp2p)
+[2025-12-06 05:40:10](https://bsky.app/profile/nbcnews.com/post/3m7bdtuelob2f)
 
 ---
 
 @nytimes.com
 
-<strong><span style="color: red;">Breaking News</span>: A federal judge in Florida approved the release of grand jury documents from a nearly 20-year-old investigation of Jeffrey Epstein, beginning the process of making another batch of material about Epstein public.</strong>
+News Analysis: Almost every time Pope Leo XIV spoke publicly during his trip to Turkey and Lebanon, he appealed for unity and an end to violence. He also echoed one of the themes he set out in the first days of his papacy, calling out the risks of A.I. and other rapidly advancing technologies.
 
-[2025-12-06 05:20:09](https://bsky.app/profile/nytimes.com/post/3m7bcq2eeoz22)
-
----
-
-@cbsnews.com
-
-Frank Gehry, renowned architect known for Guggenheim Museum Bilbao and Walt Disney Concert Hall, dies at age 96.
-
-[2025-12-06 05:20:01](https://bsky.app/profile/cbsnews.com/post/3m7bcpsqdx52m)
+[2025-12-06 05:40:06](https://bsky.app/profile/nytimes.com/post/3m7bdtq5tok2g)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@en.afp.com
 
-来年度税制改正 EVに重量に応じた課税 導入の方向で検討
-https://news.web.nhk/newsweb/na/na-k10014995821000
+Next year's FIFA World Cup, to be hosted by the United States, Mexico and Canada, will be the first to feature 48 teams. Here's the results of the draw, which took place at a star-studded ceremony in Washington
 
-[2025-12-06 05:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bcmdv5yy2p)
+[2025-12-06 05:39:20](https://bsky.app/profile/en.afp.com/post/3m7bdseqfeb2k)
 
 ---
 
-@wsj.com
+@zacheverson.com
 
-<strong><span style="color: red;">Breaking:</span> Vanity Fair and Olivia Nuzzi agreed to part ways after new revelations and allegations about an affair with RFK Jr. and her behavior while reporting on him.</strong>
+"Trump Vodka Is Coming Back After It Was Discontinued 14 Years Ago: Forbes Reporter Explains Why"
 
-[2025-12-06 05:15:44](https://bsky.app/profile/wsj.com/post/3m7bci6ksq52p)
+me (aka Forbes Reporter), with Brittany Lewis for @forbes.com
+
+[2025-12-06 05:36:59](https://bsky.app/profile/zacheverson.com/post/3m7bdo5obdy2r)
+
+---
+
+@usatoday.com
+
+USA TODAY & the USA TODAY Network have announced a partnership with Perplexity, What does that mean? It means Perplexity’s search results and AI-curated answers will be based on the credible journalism created by your local newsroom. 
+
+[2025-12-06 05:35:13](https://bsky.app/profile/usatoday.com/post/3m7bdkymuna2j)
+
+---
+
+@reuters.com
+
+US consumer sentiment improves in early December reut.rs/4pwc3EP
+
+[2025-12-06 05:35:11](https://bsky.app/profile/reuters.com/post/3m7bdkwwoak2k)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Architect Frank Gehry dead at 96 
+
+[2025-12-06 05:34:34](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7bdjunblf2w)
 
 ---
 
