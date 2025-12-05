@@ -1,9 +1,9 @@
-# [2025-12-06 07:50 updated](2025_12_06.md)
+# [2025-12-06 08:10 updated](2025_12_06.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Trump says he'll discuss trade with Mexico, Canada after FIFA event reut.rs/4iPbQu0 <a href="https://bsky.app/profile/reuters.com/post/3m7bktmpaww27" target="_blank">reuters.com</a> (2025-12-06 07:45:18)</span><span style="padding-right:50px;">China Vanke seeks second onshore bond extension, skips call on separate 2028 note reut.rs/48nvGsI <a href="https://bsky.app/profile/reuters.com/post/3m7bkl5e5o42k" target="_blank">reuters.com</a> (2025-12-06 07:40:34)</span><span style="padding-right:50px;">Unidentified drones breached Ireland's airspace during visit by Ukraine's Zelenskyy. <a href="https://bsky.app/profile/cbsnews.com/post/3m7bkk6ajby2o" target="_blank">cbsnews.com</a> (2025-12-06 07:40:01)</span><span style="padding-right:50px;">Germany military service: 'Protesting before it's too late' <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7bkjrq57u2l" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-06 07:39:47)</span><span style="padding-right:50px;">The conference that is older than the NCAA itself once envisioned itself as a paragon of academic and athletic balance. The Big Ten is now known for unbridled expansion. <a href="https://bsky.app/profile/wsj.com/post/3m7bki4p5yh2p" target="_blank">wsj.com</a> (2025-12-06 07:38:52)</span>
+<span style="padding-right:50px;">対人地雷禁止条約 運用停止通告のウクライナに関与継続求める https://news.web.nhk/newsweb/na/na-k10014995731000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bm65gzns2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-06 08:09:03)</span><span style="padding-right:50px;">The Supreme Court is set to decide on Trump's order to end birthright citizenship next year after a federal court blocked it. Here's what to know. <a href="https://bsky.app/profile/axios.com/post/3m7bly7wtz22o" target="_blank">axios.com</a> (2025-12-06 08:05:47)</span><span style="padding-right:50px;">Exclusive: Barclays explores bid for British wealth manager Evelyn, sources say reut.rs/48lEH5s <a href="https://bsky.app/profile/reuters.com/post/3m7blx3w37o27" target="_blank">reuters.com</a> (2025-12-06 08:05:09)</span><span style="padding-right:50px;">香港 学生会が活動停止に “火災 政府に説明責任”メッセージ https://news.web.nhk/newsweb/na/na-k10014995831000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bltfpd2s26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-06 08:03:03)</span><span style="padding-right:50px;">Purchases for $50 or less that CNBC staffers say were truly worth the money.  <a href="https://bsky.app/profile/cnbc.com/post/3m7blt7lgaq2x" target="_blank">cnbc.com</a> (2025-12-06 08:02:58)</span>
   </div>
 </div>
 
@@ -32,92 +32,101 @@
 
 ## News Headlines
 
-1. トランプ、FIFAイベント後にメキシコ、カナダと貿易協議へ
-2. 中国不動産大手、社債延長を模索、一部債券のコールスキップ
-3. ウクライナ大統領訪問中、アイルランド領空に正体不明ドローン侵入
-4. ドイツで兵役義務化への抗議デモ
-5. コンゴ東部で戦闘再燃、ルワンダへ数百人が避難
-6. 米中高官が貿易協力について協議、関係改善の兆し
+1. ウクライナ、対人地雷禁止条約運用停止通告 - 国際社会は関与継続を求める
+2. 米最高裁、出生地主義巡るトランプ大統領令の是非を審理へ
+3. 香港学生会、活動停止 - 政府への説明責任求めるメッセージ
+4. 銀座に高級温泉旅館「ふふ」開業 - 熱海直送温泉と夜景が魅力
+5. ドイツ、徴兵可能にする法案可決 - 各地で反対デモ発生
+6. 米中高官、貿易協力維持で協議 - 関係改善の兆し
 
 ----
 
-@reuters.com
+@nhknewsunofficial.bsky.social
 
-Trump says he'll discuss trade with Mexico, Canada after FIFA event reut.rs/4iPbQu0
+対人地雷禁止条約 運用停止通告のウクライナに関与継続求める
+https://news.web.nhk/newsweb/na/na-k10014995731000
 
-[2025-12-06 07:45:18](https://bsky.app/profile/reuters.com/post/3m7bktmpaww27)
+[2025-12-06 08:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bm65gzns2b)
+
+---
+
+@axios.com
+
+The Supreme Court is set to decide on Trump's order to end birthright citizenship next year after a federal court blocked it. Here's what to know.
+
+[2025-12-06 08:05:47](https://bsky.app/profile/axios.com/post/3m7bly7wtz22o)
 
 ---
 
 @reuters.com
 
-China Vanke seeks second onshore bond extension, skips call on separate 2028 note reut.rs/48nvGsI
+Exclusive: Barclays explores bid for British wealth manager Evelyn, sources say reut.rs/48lEH5s
 
-[2025-12-06 07:40:34](https://bsky.app/profile/reuters.com/post/3m7bkl5e5o42k)
-
----
-
-@cbsnews.com
-
-Unidentified drones breached Ireland's airspace during visit by Ukraine's Zelenskyy.
-
-[2025-12-06 07:40:01](https://bsky.app/profile/cbsnews.com/post/3m7bkk6ajby2o)
+[2025-12-06 08:05:09](https://bsky.app/profile/reuters.com/post/3m7blx3w37o27)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@nhknewsunofficial.bsky.social
 
-Germany military service: 'Protesting before it's too late'
+香港 学生会が活動停止に “火災 政府に説明責任”メッセージ
+https://news.web.nhk/newsweb/na/na-k10014995831000
 
-[2025-12-06 07:39:47](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7bkjrq57u2l)
+[2025-12-06 08:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bltfpd2s26)
 
 ---
 
-@wsj.com
+@cnbc.com
 
-The conference that is older than the NCAA itself once envisioned itself as a paragon of academic and athletic balance. The Big Ten is now known for unbridled expansion.
+Purchases for $50 or less that CNBC staffers say were truly worth the money. 
 
-[2025-12-06 07:38:52](https://bsky.app/profile/wsj.com/post/3m7bki4p5yh2p)
+[2025-12-06 08:02:58](https://bsky.app/profile/cnbc.com/post/3m7blt7lgaq2x)
+
+---
+
+@nikkei.com
+
+銀座に高級温泉旅館「ふふ」、目指すは世界ブランド
+www.nikkei.com/article/DGXZQO...
+
+客室は34室すべてスイートルームで、全室に温泉を備えます。温泉は毎日熱海から運ぶというこだわりぶり。
+
+屋上には宿泊者専用ラウンジを設置し、ワイングラス片手に足湯につかりながら夜景を楽しむ人々の姿も。
+
+ふふは熱海や日光など都市部から1時間半圏内に展開してきたものの、インバウンドの玄関口である東京には拠点がありませんでした。
+
+[2025-12-06 08:01:56](https://bsky.app/profile/nikkei.com/post/3m7blreddmt22)
 
 ---
 
 @reuters.com
 
-BHP, Rio Tinto start trial of electric haul trucks at Jimblebar reut.rs/48xYpty
+Exclusive: Congo sets new export conditions to keep tight grip on cobalt reut.rs/48ngxYr
 
-[2025-12-06 07:35:08](https://bsky.app/profile/reuters.com/post/3m7bkbgklti2y)
-
----
-
-@en.afp.com
-
-Fresh fighting erupts in eastern DR Congo, forcing hundreds to flee across the border into Rwanda, a day after a peace deal was signed in Washington u.afp.com/S7wN
-
-[2025-12-06 07:31:31](https://bsky.app/profile/en.afp.com/post/3m7bk2xbe3c2o)
+[2025-12-06 08:01:36](https://bsky.app/profile/reuters.com/post/3m7blqqwvsu2e)
 
 ---
 
 @usatoday.com
 
-Europe faces "civilizational erasure" and must change to remain a reliable US ally, National Security Strategy posted by White House website says.
+Donald Trump says he has ended eight wars since he took office in January 2025. But the US has only been involved in 6 peace agreements or ceasefires.
 
-[2025-12-06 07:30:46](https://bsky.app/profile/usatoday.com/post/3m7bjzmgjy52h)
-
----
-
-@bloomberg.com
-
-Senior US and Chinese officials spoke about maintaining cooperation on trade, the latest sign of warming relations between the world’s two largest economies
-
-[2025-12-06 07:30:28](https://bsky.app/profile/bloomberg.com/post/3m7bjz32kfm2g)
+[2025-12-06 08:00:55](https://bsky.app/profile/usatoday.com/post/3m7blpjvsqf26)
 
 ---
 
 @aljazeera.com
 
-Gehry blended pop art with monumental architecture that reshaped skylines from Prague to Los Angeles and New York City.
+The Supreme Court is likely to hear oral arguments early next year, with a ruling in June.
 
-[2025-12-06 07:30:27](https://bsky.app/profile/aljazeera.com/post/3m7bjz2dltn2l)
+[2025-12-06 08:00:49](https://bsky.app/profile/aljazeera.com/post/3m7blpecotg2c)
+
+---
+
+@nbcnews.com
+
+President Trump has brought on a new architect to continue constructing the $300 million White House ballroom project. Comcast Corp., the parent company of NBCUniversal, was included in a list of top donors.
+
+[2025-12-06 08:00:26](https://bsky.app/profile/nbcnews.com/post/3m7blopfucb2j)
 
 ---
 
