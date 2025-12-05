@@ -1,9 +1,9 @@
-# [2025-12-05 11:50 updated](2025_12_05.md)
+# [2025-12-05 12:10 updated](2025_12_05.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">New York City is emerging as the center of the nation’s office-to-residential conversion boom, proving these projects can go far beyond what many thought possible. 🔗 on.wsj.com/3KCCWaO <a href="https://bsky.app/profile/wsj.com/post/3m77hnijm732o" target="_blank">wsj.com</a> (2025-12-05 11:42:52)</span><span style="padding-right:50px;">Canada and Mexico should not be export hubs for China, says USTR reut.rs/48Ccru6 <a href="https://bsky.app/profile/reuters.com/post/3m77hit7mgw22" target="_blank">reuters.com</a> (2025-12-05 11:40:16)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】埼玉県吉見町で専門学校のスクールバスが横転 20人を病院へ搬送もいずれも軽傷か (2025-12-05 10:50:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m77hhpddky27" target="_blank">sokuho.news</a> (2025-12-05 11:39:38)</span><span style="padding-right:50px;">Supreme Court allows Texas electoral map that favours Republicans on.ft.com/3MhabBe <a href="https://bsky.app/profile/financialtimes.com/post/3m77hc36ttb23" target="_blank">financialtimes.com</a> (2025-12-05 11:36:29)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】ドラ1入団から8年目で覚醒 カープ中村奨成は年俸3.7倍に！「こんなに上がるとは思ってなかった」入籍発表翌日に契約を更改 (2025-12-05 11:34:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m77hapcvwa27" target="_blank">sokuho.news</a> (2025-12-05 11:35:43)</span>
+<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】大津・保護司殺害事件の裁判日程決まる 大津地裁 初公判は2月17日 判決宣告は3月2日 (2025-12-05 12:06:40) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m77iywx56k2h" target="_blank">sokuho.news</a> (2025-12-05 12:07:10)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】京阪本線・中之島線などで全線運転見合わせ 牧野駅付近で人身事故 (2025-12-05 12:04) #ニュース  🚃鉄道運行情報 🔗https://transit.yahoo.co.jp/diainfo <a href="https://bsky.app/profile/sokuho.news/post/3m77iuki7kt2w" target="_blank">sokuho.news</a> (2025-12-05 12:04:43)</span><span style="padding-right:50px;">The Department of Justice on Dec. 4 identified a suspect in the DC pipe bomb case after a nearly five-year investigation. <a href="https://bsky.app/profile/usatoday.com/post/3m77inuvn2r2z" target="_blank">usatoday.com</a> (2025-12-05 12:00:59)</span><span style="padding-right:50px;">While some of India’s largest companies gear up to raise capital, new investors like Russia’s biggest lender Sberbank, are eyeing the local stock market. Read for free with your email on what could move markets today <a href="https://bsky.app/profile/bloomberg.com/post/3m77innlxzv22" target="_blank">bloomberg.com</a> (2025-12-05 12:00:51)</span><span style="padding-right:50px;">Chinese-linked hackers use back door for potential 'sabotage,' US and Canada say reut.rs/4pIRFjA <a href="https://bsky.app/profile/reuters.com/post/3m77inced2l2i" target="_blank">reuters.com</a> (2025-12-05 12:00:39)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50465.14 (🔻65.20 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47850.94 (🔻37.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.38 (🔺1.76 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3033.00 (🔻20.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.06 (🔺0.02 : 2025-12-05)</span>
+<span style="padding-right:50px;">NIKKEI: 50465.14 (🔻65.20 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47850.94 (🔻37.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.38 (🔺1.76 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3033.00 (🔻20.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.05 (🔺0.01 : 2025-12-05)</span>
   </div>
 </div>
 
@@ -32,106 +32,104 @@
 
 ## News Headlines
 
-1. ニューヨーク、オフィスから住宅への転換ブームの中心地に
-2. 米USTR、カナダとメキシコを中国の輸出拠点とすべきでないと警告
-3. 埼玉・吉見町でスクールバス横転、学生20人が軽傷
-4. 米最高裁、共和党有利なテキサス州の選挙区地図を容認
-5. カープ中村奨成、年俸3.7倍増！入籍発表翌日に契約更改
-6. 旧統一教会、田中富広会長が辞任へ　被害者に謝罪へ
+1. 大津保護司殺害事件、初公判は2月17日
+2. 京阪本線で人身事故、全線運転見合わせ
+3. 埼玉・吉見町でスクールバス横転、学生20人けが
+4. 西名阪道炎上事件、殺人容疑で男逮捕
+5. 首都直下地震の経済損失83兆円に縮小、停電は1600万軒に増加
+6. カープ中村奨成、年俸3.7倍増で更改
 
 ----
 
-@wsj.com
+@sokuho.news
 
-New York City is emerging as the center of the nation’s office-to-residential conversion boom, proving these projects can go far beyond what many thought possible. 🔗 on.wsj.com/3KCCWaO
+🛎️JNNより【速報】です。
 
-[2025-12-05 11:42:52](https://bsky.app/profile/wsj.com/post/3m77hnijm732o)
+【速報】大津・保護司殺害事件の裁判日程決まる 大津地裁 初公判は2月17日 判決宣告は3月2日
+(2025-12-05 12:06:40) #ニュース
+
+[2025-12-05 12:07:10](https://bsky.app/profile/sokuho.news/post/3m77iywx56k2h)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】京阪本線・中之島線などで全線運転見合わせ 牧野駅付近で人身事故
+(2025-12-05 12:04) #ニュース
+
+🚃鉄道運行情報
+🔗https://transit.yahoo.co.jp/diainfo
+
+[2025-12-05 12:04:43](https://bsky.app/profile/sokuho.news/post/3m77iuki7kt2w)
+
+---
+
+@usatoday.com
+
+The Department of Justice on Dec. 4 identified a suspect in the DC pipe bomb case after a nearly five-year investigation.
+
+[2025-12-05 12:00:59](https://bsky.app/profile/usatoday.com/post/3m77inuvn2r2z)
+
+---
+
+@bloomberg.com
+
+While some of India’s largest companies gear up to raise capital, new investors like Russia’s biggest lender Sberbank, are eyeing the local stock market. Read for free with your email on what could move markets today
+
+[2025-12-05 12:00:51](https://bsky.app/profile/bloomberg.com/post/3m77innlxzv22)
 
 ---
 
 @reuters.com
 
-Canada and Mexico should not be export hubs for China, says USTR reut.rs/48Ccru6
+Chinese-linked hackers use back door for potential 'sabotage,' US and Canada say reut.rs/4pIRFjA
 
-[2025-12-05 11:40:16](https://bsky.app/profile/reuters.com/post/3m77hit7mgw22)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】埼玉県吉見町で専門学校のスクールバスが横転 20人を病院へ搬送もいずれも軽傷か
-(2025-12-05 10:50:00) #ニュース
-
-[2025-12-05 11:39:38](https://bsky.app/profile/sokuho.news/post/3m77hhpddky27)
+[2025-12-05 12:00:39](https://bsky.app/profile/reuters.com/post/3m77inced2l2i)
 
 ---
 
-@financialtimes.com
+@wsj.com
 
-Supreme Court allows Texas electoral map that favours Republicans on.ft.com/3MhabBe
+The billionaire tech investor Masayoshi Son has big dreams of working closely with the Trump administration to revitalize U.S. manufacturing—and the promise of billions in Japanese cash.
 
-[2025-12-05 11:36:29](https://bsky.app/profile/financialtimes.com/post/3m77hc36ttb23)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】ドラ1入団から8年目で覚醒 カープ中村奨成は年俸3.7倍に！「こんなに上がるとは思ってなかった」入籍発表翌日に契約を更改
-(2025-12-05 11:34:00) #ニュース
-
-[2025-12-05 11:35:43](https://bsky.app/profile/sokuho.news/post/3m77hapcvwa27)
+[2025-12-05 12:00:25](https://bsky.app/profile/wsj.com/post/3m77imuppsw2r)
 
 ---
 
-@sokuho.news
+@washingtonpost.com
 
-🔔ANNより【速報】です。
+New research suggests AI chatbots can shift people’s political views more effectively than campaign ads on TV.
 
-【速報】スクールバスが横転 学生20人けが 運転手の前方不注意か 埼玉・吉見町
-(11:23) #ニュース
+However, researchers are concerned AI companies could “set the models up to push for one side or another.”
 
-[2025-12-05 11:35:16](https://bsky.app/profile/sokuho.news/post/3m77h7veenz22)
-
----
-
-@en.afp.com
-
-US Supreme Court allows Texas to use Trump-backed voting map
-
-u.afp.com/S74D
-
-[2025-12-05 11:34:20](https://bsky.app/profile/en.afp.com/post/3m77h67u2wq2d)
+[2025-12-05 12:00:08](https://bsky.app/profile/washingtonpost.com/post/3m77imel4il2s)
 
 ---
 
-@sokuho.news
+@nytimes.com
 
-🛎️FNNより【速報】です。
+Jacob Pritchett, 11, has been missing for months. A judge has said his mother must remain at Rikers Island until she reveals his whereabouts.
 
-【速報】「刃物を高速に乗る前の奈良県内で捨てた」西名阪道で炎上した車から遺体で見つかった男性を殺害した疑いの男 殺害容疑認める「いろいろ積もり積もって殺すしかないと」
-(2025-12-05 11:21) #ニュース
-
-[2025-12-05 11:31:04](https://bsky.app/profile/sokuho.news/post/3m77gyfbe7p22)
+[2025-12-05 12:00:06](https://bsky.app/profile/nytimes.com/post/3m77imcsq2w2d)
 
 ---
 
-@cnn.com
+@cbsnews.com
 
-The number of billionaires worldwide – and their combined wealth – reached record highs this year, buoyed in particular by gains in tech stocks, Swiss bank UBS has found. https://cnn.it/48y3AK2
+When the USS Harry S. Truman aircraft carrier lost an F-18 fighter jet in May because of an arresting wire failure, the crew was in the midst of a "significantly stressful deployment"  because of operations against the Houthis in Yemen, according to a Navy investigation report released Thursday.  
 
-[2025-12-05 11:31:02](https://bsky.app/profile/cnn.com/post/3m77gyda2pk2y)
+[2025-12-05 12:00:00](https://bsky.app/profile/cbsnews.com/post/3m77im5acft2b)
 
 ---
 
-@apnews.com
+@nhknewsunofficial.bsky.social
 
-Trump administration officials overseeing the immigration crackdown launched in New Orleans are are aiming to make 5,000 arrests with a focus on violent offenders, a target that some city leaders say is not realistic.
+政府「お米券」使用期限を設ける方針 農相“早期利用が重要”
+https://news.web.nhk/newsweb/na/na-k10014994721000
 
-[2025-12-05 11:30:35](https://bsky.app/profile/apnews.com/post/3m77gxjkptx2c)
+[2025-12-05 11:57:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m77igvnxmc2k)
 
 ---
 
