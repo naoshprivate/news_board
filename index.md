@@ -1,9 +1,9 @@
-# [2025-12-05 19:10 updated](2025_12_05.md)
+# [2025-12-05 19:30 updated](2025_12_05.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Netflix reportedly closes in on Warner Bros deal <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7aak7dqzo2w" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-05 19:08:25)</span><span style="padding-right:50px;">Treasury yields inch lower as investors await delayed inflation data <a href="https://bsky.app/profile/cnbc.com/post/3m7aahg7pfj2e" target="_blank">cnbc.com</a> (2025-12-05 19:06:52)</span><span style="padding-right:50px;">In Nigeria, anguish turns to anger for parents of kidnapped children reut.rs/4oGWcSL <a href="https://bsky.app/profile/reuters.com/post/3m7aaei3y4b2w" target="_blank">reuters.com</a> (2025-12-05 19:05:13)</span><span style="padding-right:50px;">🛎️ポストセブンより【独占】です。  『ヤヌスの鏡』から40年、杉浦幸が写真集で円熟ボディを解禁！ 秘蔵アザーカットを独占公開 (2025-12-05 19:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7aadfzrma2l" target="_blank">sokuho.news</a> (2025-12-05 19:04:37)</span><span style="padding-right:50px;">5 stocks that Goldman gives over 70% upside in the coming year <a href="https://bsky.app/profile/cnbc.com/post/3m7aad5e7oe2g" target="_blank">cnbc.com</a> (2025-12-05 19:04:28)</span>
+<span style="padding-right:50px;">Happening TODAY! Come and gather all the reading (and gifting) ideas you need at 1pm GMT www.ft.com/content/1d49... <a href="https://bsky.app/profile/ftweekend.com/post/3m7abmfyh4k2v" target="_blank">ftweekend.com</a> (2025-12-05 19:27:33)</span><span style="padding-right:50px;">婚活サービス会社 フリーランス保護の法律違反か 公取委が勧告 https://news.web.nhk/newsweb/na/na-k10014995331000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ablkkrpm2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-05 19:27:02)</span><span style="padding-right:50px;">China's HongShan eyes $2.9 billion Golden Goose deal by Christmas - paper reut.rs/4aDN7GG <a href="https://bsky.app/profile/reuters.com/post/3m7abi4ni6327" target="_blank">reuters.com</a> (2025-12-05 19:25:09)</span><span style="padding-right:50px;">Warner Bros. Discovery is said to have entered exclusive talks with Netflix for a deal to sell its studios and HBO Max streaming service. <a href="https://bsky.app/profile/nytimes.com/post/3m7abhxg7rx2w" target="_blank">nytimes.com</a> (2025-12-05 19:25:04)</span><span style="padding-right:50px;">Lammy talks up customs union amid efforts to rebuild UK-EU ties on.ft.com/3KqmDxZ <a href="https://bsky.app/profile/financialtimes.com/post/3m7abfjsra32l" target="_blank">financialtimes.com</a> (2025-12-05 19:23:42)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47850.94 (🔻37.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.38 (🔺1.76 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.00 (🔻0.05 : 2025-12-05)</span>
+<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47850.94 (🔻37.22 : 2025-12-04)</span><span style="padding-right:50px;">NASDAQ: 23505.14 (🔻22.16 : 2025-12-04)</span><span style="padding-right:50px;">NVIDIA: 183.38 (🔺1.76 : 2025-12-04)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.10 (🔺0.05 : 2025-12-05)</span>
   </div>
 </div>
 
@@ -32,105 +32,94 @@
 
 ## News Headlines
 
-1. Netflix、ワーナー作品の買収で合意間近か
-2. ナイジェリア誘拐事件、親たちの怒りと悲しみ
-3. ゴールドマン、来年70%以上の上昇見込む5銘柄
-4. 首都圏連続強盗、「闇バイト」指示役を初逮捕
-5. スルガ銀行、不正融資問題の解決案を年内提示へ
-6. コメ平均価格が最高値を更新、5キロ当たり4335円
+1. 婚活サービス会社、フリーランス保護法違反か
+2. 中国ホンシャン、29億ドルのゴールデン・グース買収狙う
+3. 米ワーナー、ネットフリックスと独占交渉入りか
+4. 足立区の死傷事故、車は衝突直前にアクセル踏み込みか
+5. Visa、欧州本社をロンドンのカナリー・ワーフに移転
+6. 首都圏連続強盗、「闇バイト」指示役を初逮捕
 
 ----
 
-@bbcnews-world-rss.bsky.social
+@ftweekend.com
 
-Netflix reportedly closes in on Warner Bros deal
+Happening TODAY! Come and gather all the reading (and gifting) ideas you need at 1pm GMT www.ft.com/content/1d49...
 
-[2025-12-05 19:08:25](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7aak7dqzo2w)
+[2025-12-05 19:27:33](https://bsky.app/profile/ftweekend.com/post/3m7abmfyh4k2v)
 
 ---
 
-@cnbc.com
+@nhknewsunofficial.bsky.social
 
-Treasury yields inch lower as investors await delayed inflation data
+婚活サービス会社 フリーランス保護の法律違反か 公取委が勧告
+https://news.web.nhk/newsweb/na/na-k10014995331000
 
-[2025-12-05 19:06:52](https://bsky.app/profile/cnbc.com/post/3m7aahg7pfj2e)
+[2025-12-05 19:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ablkkrpm2j)
 
 ---
 
 @reuters.com
 
-In Nigeria, anguish turns to anger for parents of kidnapped children reut.rs/4oGWcSL
+China's HongShan eyes $2.9 billion Golden Goose deal by Christmas - paper reut.rs/4aDN7GG
 
-[2025-12-05 19:05:13](https://bsky.app/profile/reuters.com/post/3m7aaei3y4b2w)
-
----
-
-@sokuho.news
-
-🛎️ポストセブンより【独占】です。
-
-『ヤヌスの鏡』から40年、杉浦幸が写真集で円熟ボディを解禁！ 秘蔵アザーカットを独占公開
-(2025-12-05 19:00) #ニュース
-
-[2025-12-05 19:04:37](https://bsky.app/profile/sokuho.news/post/3m7aadfzrma2l)
+[2025-12-05 19:25:09](https://bsky.app/profile/reuters.com/post/3m7abi4ni6327)
 
 ---
 
-@cnbc.com
+@nytimes.com
 
-5 stocks that Goldman gives over 70% upside in the coming year
+Warner Bros. Discovery is said to have entered exclusive talks with Netflix for a deal to sell its studios and HBO Max streaming service.
 
-[2025-12-05 19:04:28](https://bsky.app/profile/cnbc.com/post/3m7aad5e7oe2g)
+[2025-12-05 19:25:04](https://bsky.app/profile/nytimes.com/post/3m7abhxg7rx2w)
+
+---
+
+@financialtimes.com
+
+Lammy talks up customs union amid efforts to rebuild UK-EU ties on.ft.com/3KqmDxZ
+
+[2025-12-05 19:23:42](https://bsky.app/profile/financialtimes.com/post/3m7abfjsra32l)
+
+---
+
+@npr.org
+
+If it seems like traffic is getting worse where you live, that's because it probably is. After dropping during the COVID-19 pandemic, congestion climbed to record levels in 2024, researchers say. n.pr/4az6SPH
+
+[2025-12-05 19:21:22](https://bsky.app/profile/npr.org/post/3m7abbeknql2g)
+
+---
+
+@apnews.com
+
+Edinburgh Airport says no flights are currently operating due to an IT issue.
+
+[2025-12-05 19:20:50](https://bsky.app/profile/apnews.com/post/3m7abafjgxk27)
+
+---
+
+@nbcnews.com
+
+The Supreme Court allowed Texas to use a new congressional district map in next year’s midterm elections that was drawn to add up to five additional Republican House seats.
+
+[2025-12-05 19:20:09](https://bsky.app/profile/nbcnews.com/post/3m7ab76mba42t)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-プーチン大統領 インド訪問 モディ首相と首脳会談
-https://news.web.nhk/newsweb/na/na-k10014994711000
+東京 足立区の死傷事故 車は衝突する直前アクセル踏み込んだか
+https://news.web.nhk/newsweb/na/na-k10014995321000
 
-[2025-12-05 19:03:11](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7aaavsin72r)
-
----
-
-@nhknewsunofficial.bsky.social
-
-自民と維新 衆院議員の定数削減法案 共同で国会に提出
-https://news.web.nhk/newsweb/na/na-k10014995141000
-
-[2025-12-05 19:03:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7aaarao7x2e)
+[2025-12-05 19:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ab3guaub2e)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@reuters.com
 
-マンション住民なりすまし相次ぐ 修繕工事の受注ねらいか
-https://news.web.nhk/newsweb/na/na-k10014995301000
+Visa relocates European headquarters to London's Canary Wharf reut.rs/4iERG5P
 
-[2025-12-05 19:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7aaamo5vq24)
-
----
-
-@en.afp.com
-
-🇭🇰 Hong Kong dog owner grateful after rescue from fire
-
-When Jacky Lee first heard about a raging fire at the Hong Kong housing estate where she lived, she feared that she would never see her 15-year-old grey poodle again. The 43-year-old recounts how the dog was finally rescued by firefighters.
-
-[2025-12-05 19:02:02](https://bsky.app/profile/en.afp.com/post/3m7aa6rggml2u)
-
----
-
-@nikkei.com
-
-首都圏連続強盗「闇バイト」指示役を初逮捕　スマホ750台解析で特定
-www.nikkei.com/article/DGXZQO...
-
-電子鑑識により、秘匿性の高い通信アプリ「シグナル」で消去されたメッセージの一部を復元することに成功したといいます。
-
-指示役らは「夏目漱石」や「JOJO」など50以上のアカウントを使っていたことが判明しました。
-
-[2025-12-05 19:01:56](https://bsky.app/profile/nikkei.com/post/3m7aa6ly76l2k)
+[2025-12-05 19:15:17](https://bsky.app/profile/reuters.com/post/3m7aawi4lyk27)
 
 ---
 
