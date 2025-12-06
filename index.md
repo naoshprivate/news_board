@@ -1,9 +1,9 @@
-# [2025-12-06 11:10 updated](2025_12_06.md)
+# [2025-12-06 11:30 updated](2025_12_06.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">House of the Week: Built next to the Monticello Motor Club, this contemporary home has a replica Formula One car on display, a Ferrari-inspired office and a carport. <a href="https://bsky.app/profile/wsj.com/post/3m7bw7gehhu2a" target="_blank">wsj.com</a> (2025-12-06 11:08:45)</span><span style="padding-right:50px;">Rep. Adelita Grijalva said she was pepper-sprayed and pushed around during an ICE raid in Tucson, Arizona, a claim that the Department of Homeland Security swiftly disputed.  <a href="https://bsky.app/profile/cnn.com/post/3m7bvv5tnqs2i" target="_blank">cnn.com</a> (2025-12-06 11:03:01)</span><span style="padding-right:50px;">｢Suicaのペンギン｣2026年度末に終了　JR東日本、新たなキャラに刷新（無料記事） www.nikkei.com/article/DGXZQO...   2001年度のサービス開始から親しまれてきました。サービス開始から25周年を迎えるのを機に切り替えます。   喜勢陽一社長は定例会見で「スイカは移動と少額決済のプラットホームから生活のデバイスへと進化し、スイカそのものが変わる。（ペンギンも）ここで卒業し、新たなキャラクターにバトンタッチしてもらう」と述べました。  2025年11月 #注目された記事 <a href="https://bsky.app/profile/nikkei.com/post/3m7bvtbvjwo2t" target="_blank">nikkei.com</a> (2025-12-06 11:01:58)</span><span style="padding-right:50px;">Dr. Mona Amin has been a pediatrician for 10 years.  She shares nine hard truths about kids and parenting that most don't know.  "They're meant to help us reflect, because the most powerful growth often starts with the uncomfortable stuff." <a href="https://bsky.app/profile/cnbc.com/post/3m7bvs2vcrt2x" target="_blank">cnbc.com</a> (2025-12-06 11:01:17)</span><span style="padding-right:50px;">Thriftmas is growing with the rise in popularity of thrifting and secondhand shopping. <a href="https://bsky.app/profile/usatoday.com/post/3m7bvrin5uq2j" target="_blank">usatoday.com</a> (2025-12-06 11:00:58)</span>
+<span style="padding-right:50px;">トランプ大統領にFIFAが「平和賞」　露骨対応と批判も（無料記事） www.nikkei.com/article/DGXZQO...  「FIFA平和賞」は、平和や団結に向けて行動した個人の功績を表彰するために2025年に創設されたものです。  スポーツ国際団体がこうした賞を設けるのは珍しく、アメリカのメディアによるとFIFAの会長がほぼ独断で決めました。  ノーベル平和賞を渇望するトランプ氏への露骨なすり寄りだとして批判も出そうです。 <a href="https://bsky.app/profile/nikkei.com/post/3m7bwunpmom2z" target="_blank">nikkei.com</a> (2025-12-06 11:20:38)</span><span style="padding-right:50px;">Waymo to issue recall over self-driving vehicles driving past stopped school buses reut.rs/4pNBXUb <a href="https://bsky.app/profile/reuters.com/post/3m7bwu3e35m2w" target="_blank">reuters.com</a> (2025-12-06 11:20:19)</span><span style="padding-right:50px;">Frank Gehry, who died Friday at 96, redefined architecture with buildings like the Walt Disney Concert Hall in Los Angeles and the Guggenheim Museum Bilbao.  Here are 12 of his essential, stunning projects. <a href="https://bsky.app/profile/nytimes.com/post/3m7bwtocjio26" target="_blank">nytimes.com</a> (2025-12-06 11:20:05)</span><span style="padding-right:50px;">Mortgage, buy-now, pay-later firms to address US consumer watchdog panel reut.rs/448pWAC <a href="https://bsky.app/profile/reuters.com/post/3m7bwbxjghb26" target="_blank">reuters.com</a> (2025-12-06 11:10:11)</span><span style="padding-right:50px;">House of the Week: Built next to the Monticello Motor Club, this contemporary home has a replica Formula One car on display, a Ferrari-inspired office and a carport. <a href="https://bsky.app/profile/wsj.com/post/3m7bw7gehhu2a" target="_blank">wsj.com</a> (2025-12-06 11:08:45)</span>
   </div>
 </div>
 
@@ -32,14 +32,55 @@
 
 ## News Headlines
 
-1.  Suicaのペンギン、2026年度末に終了へ　新キャラに刷新
-2.  高市首相、日朝首脳会談に強い意欲　実現は見通せず
-3.  NYタイムズ、AI新興パープレキシティを提訴　著作権侵害で
-4.  ドイツ、兵力増強へ徴兵制へ移行も　若者の抗議デモ発生
-5.  レバノンへの9050万ドルの戦術車両売却を米国が承認
-6.  メキシコ、ミス・ユニバース共同オーナーの口座を凍結　資金洗浄捜査で
+1. トランプ氏にFIFA平和賞、露骨なすり寄りと批判
+2. Waymo、停止したスクールバスを通過する自動運転車をリコール
+3. 建築家フランク・ゲーリー氏死去、96歳
+4. Suicaのペンギン、2026年度末で終了、新キャラに刷新
+5. 米最高裁、トランプ政権の移民政策を審理へ
+6. NYタイムズ、AI新興パープレキシティを著作権侵害で提訴
 
 ----
+
+@nikkei.com
+
+トランプ大統領にFIFAが「平和賞」　露骨対応と批判も（無料記事）
+www.nikkei.com/article/DGXZQO...
+
+「FIFA平和賞」は、平和や団結に向けて行動した個人の功績を表彰するために2025年に創設されたものです。
+
+スポーツ国際団体がこうした賞を設けるのは珍しく、アメリカのメディアによるとFIFAの会長がほぼ独断で決めました。
+
+ノーベル平和賞を渇望するトランプ氏への露骨なすり寄りだとして批判も出そうです。
+
+[2025-12-06 11:20:38](https://bsky.app/profile/nikkei.com/post/3m7bwunpmom2z)
+
+---
+
+@reuters.com
+
+Waymo to issue recall over self-driving vehicles driving past stopped school buses reut.rs/4pNBXUb
+
+[2025-12-06 11:20:19](https://bsky.app/profile/reuters.com/post/3m7bwu3e35m2w)
+
+---
+
+@nytimes.com
+
+Frank Gehry, who died Friday at 96, redefined architecture with buildings like the Walt Disney Concert Hall in Los Angeles and the Guggenheim Museum Bilbao.
+
+Here are 12 of his essential, stunning projects.
+
+[2025-12-06 11:20:05](https://bsky.app/profile/nytimes.com/post/3m7bwtocjio26)
+
+---
+
+@reuters.com
+
+Mortgage, buy-now, pay-later firms to address US consumer watchdog panel reut.rs/448pWAC
+
+[2025-12-06 11:10:11](https://bsky.app/profile/reuters.com/post/3m7bwbxjghb26)
+
+---
 
 @wsj.com
 
@@ -97,44 +138,6 @@ Thriftmas is growing with the rise in popularity of thrifting and secondhand sho
 Lower courts have uniformly said the executive order runs afoul of the Constitution, federal immigration law and Supreme Court precedent. But on Dec. 5, the Supreme Court said it will hear an appeal from the Trump administration. Here’s what to know.
 
 [2025-12-06 11:00:28](https://bsky.app/profile/bloomberg.com/post/3m7bvqlk54h2q)
-
----
-
-@reuters.com
-
-UK's Princess Kate celebrates community work at annual Christmas service reut.rs/4pRocUu
-
-[2025-12-06 11:00:21](https://bsky.app/profile/reuters.com/post/3m7bvqezaxs2d)
-
----
-
-@washingtonpost.com
-
-A gay slur is having something of a cultural renaissance. 
-
-For more nuanced insight into why a potentially hurtful word is having a moment, we asked people to tell us what the word means to them and their work.
-
-Here’s what they said: 
-
-[2025-12-06 11:00:05](https://bsky.app/profile/washingtonpost.com/post/3m7bvpw7y3f2h)
-
----
-
-@npr.org
-
-The merger, announced Friday, would bring two of the industry's biggest players in film and TV under one roof. Beyond its television and motion picture division, Warner owns HBO Max and DC Studios. n.pr/4oHoOLF
-
-[2025-12-06 10:53:52](https://bsky.app/profile/npr.org/post/3m7bverrzip2a)
-
----
-
-@wsj.com
-
-America’s most dedicated Christmas decorators are losing it. The reason: a mysterious shortage of giant lawn ornaments from Home Depot. 
-
-🔗: on.wsj.com/3MjIIyK
-
-[2025-12-06 10:51:29](https://bsky.app/profile/wsj.com/post/3m7bvajbcto2j)
 
 ---
 
