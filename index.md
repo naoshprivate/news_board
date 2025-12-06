@@ -1,9 +1,9 @@
-# [2025-12-06 20:50 updated](2025_12_06.md)
+# [2025-12-06 21:10 updated](2025_12_06.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Bare Metal: Hungarian workers go shirtless for a good cause reut.rs/3YbqT7D <a href="https://bsky.app/profile/reuters.com/post/3m7cwg4cof52w" target="_blank">reuters.com</a> (2025-12-06 20:45:10)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】松浦鉄道の列車と車の衝突事故 3人病院搬送 (2025-12-06 20:43:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7cwdtitgy2w" target="_blank">sokuho.news</a> (2025-12-06 20:43:53)</span><span style="padding-right:50px;">広島 かき被害 「かき小屋」 今季は東北産を初めて提供へ https://news.web.nhk/newsweb/na/na-k10014996201000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7cwajq6zj2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-06 20:42:02)</span><span style="padding-right:50px;">From @theathleticfc.bsky.social: Noni Madueke is part of a sizeable group of Christian players at Arsenal. Some have become renowned for loudly and proudly speaking about their faith. The "Bible Brothers" are not hiding their belief and love of God. nyti.ms/4rAk5xP <a href="https://bsky.app/profile/nytimes.com/post/3m7cw4xrm3t24" target="_blank">nytimes.com</a> (2025-12-06 20:40:03)</span><span style="padding-right:50px;">🎞️ The third film in the Avatar series, which will hit cinemas this month, is hoping to extend the success of one of the highest-grossing franchises in history with another environment-themed visual thriller.  ➡️ u.afp.com/S7iq <a href="https://bsky.app/profile/en.afp.com/post/3m7cw4vvgr523" target="_blank">en.afp.com</a> (2025-12-06 20:40:01)</span>
+<span style="padding-right:50px;">Days after Max Medroso’s $4 million shipment went missing, he says goods branded with his company’s name popped up for sale on Amazon at deeply discounted prices. <a href="https://bsky.app/profile/wsj.com/post/3m7cxq244ra22" target="_blank">wsj.com</a> (2025-12-06 21:08:36)</span><span style="padding-right:50px;">5 questions on what's next for Netflix after the Warner Bros. deal <a href="https://bsky.app/profile/yahoofinance.com/post/3m7cxlk2h5u2d" target="_blank">yahoofinance.com</a> (2025-12-06 21:06:06)</span><span style="padding-right:50px;">パスワード設定、記号･数字の混合を「推奨せず」　米機関が指針表明 www.nikkei.com/article/DGXZQO...  2025年11月 #注目された記事 <a href="https://bsky.app/profile/nikkei.com/post/3m7cxe4r4g52e" target="_blank">nikkei.com</a> (2025-12-06 21:01:57)</span><span style="padding-right:50px;">Family caregivers are in crisis. USA TODAY launched The Cost of Care survey in May, asking readers about their caregiving experience and what solutions would make caregiving easier. bit.ly/48yQ8pc <a href="https://bsky.app/profile/usatoday.com/post/3m7cxboqupi2h" target="_blank">usatoday.com</a> (2025-12-06 21:00:35)</span><span style="padding-right:50px;">A letter writer doesn’t need more “stuff,” but how do they tell that to gift-giving relatives?  “Perhaps I should suggest we only exchange consumables, but that seems rather controlling.”  Advice columnist R. Eric Thomas responds: <a href="https://bsky.app/profile/washingtonpost.com/post/3m7cxayrgvu23" target="_blank">washingtonpost.com</a> (2025-12-06 21:00:12)</span>
   </div>
 </div>
 
@@ -32,106 +32,112 @@
 
 ## News Headlines
 
-1. 松浦鉄道で列車と車の衝突事故、3人搬送
-2. 広島 かき小屋、今季は東北産を初提供
-3. コンゴ東部での戦闘で少なくとも23人死亡、子供も犠牲に
-4. マレーシアの科学者、ナンキンムシを犯罪捜査の助っ人に
-5. Netflix、ワーナー・ブラザース・ディスカバリーを約830億ドルで買収へ
-6. インドネシア・スマトラ島で洪水、死者883人超の恐れ
+1.  マックス・メドロソ氏の貨物、Amazonで大幅割引販売
+2.  Netflix、ワーナー・ブラザース買収後の課題
+3.  米機関、パスワード設定で記号・数字の混合を「推奨せず」
+4.  松浦鉄道の列車と車の衝突事故、3人病院搬送
+5.  ドイツ首相、ガザ戦争後のイスラエルとの関係修復へ
+6.  和歌山県北部で震度1の地震
 
 ----
 
-@reuters.com
-
-Bare Metal: Hungarian workers go shirtless for a good cause reut.rs/3YbqT7D
-
-[2025-12-06 20:45:10](https://bsky.app/profile/reuters.com/post/3m7cwg4cof52w)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】松浦鉄道の列車と車の衝突事故 3人病院搬送
-(2025-12-06 20:43:00) #ニュース
-
-[2025-12-06 20:43:53](https://bsky.app/profile/sokuho.news/post/3m7cwdtitgy2w)
-
----
-
-@nhknewsunofficial.bsky.social
-
-広島 かき被害 「かき小屋」 今季は東北産を初めて提供へ
-https://news.web.nhk/newsweb/na/na-k10014996201000
-
-[2025-12-06 20:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7cwajq6zj2j)
-
----
-
-@nytimes.com
-
-From @theathleticfc.bsky.social: Noni Madueke is part of a sizeable group of Christian players at Arsenal. Some have become renowned for loudly and proudly speaking about their faith. The "Bible Brothers" are not hiding their belief and love of God. nyti.ms/4rAk5xP
-
-[2025-12-06 20:40:03](https://bsky.app/profile/nytimes.com/post/3m7cw4xrm3t24)
-
----
-
-@en.afp.com
-
-🎞️ The third film in the Avatar series, which will hit cinemas this month, is hoping to extend the success of one of the highest-grossing franchises in history with another environment-themed visual thriller. 
-➡️ u.afp.com/S7iq
-
-[2025-12-06 20:40:01](https://bsky.app/profile/en.afp.com/post/3m7cw4vvgr523)
-
----
-
-@aljazeera.com
-
-Children were among at least 23 people reported killed in fighting in eastern DR Congo, just a day after the signing of a US-backed peace agreement between the leaders of the DRC and neighbouring Rwanda.
-
-[2025-12-06 20:39:54](https://bsky.app/profile/aljazeera.com/post/3m7cw4pcpw22g)
-
----
-
-@reuters.com
-
-Deepa Paul on opening up about her open marriage reut.rs/48C3qS1
-
-[2025-12-06 20:35:08](https://bsky.app/profile/reuters.com/post/3m7cvu6tj522a)
-
----
-
 @wsj.com
 
-The conference that is older than the NCAA itself once envisioned itself as a paragon of academic and athletic balance. 
+Days after Max Medroso’s $4 million shipment went missing, he says goods branded with his company’s name popped up for sale on Amazon at deeply discounted prices.
 
-The Big Ten is now known for unbridled expansion. on.wsj.com/4oEoCN0
+[2025-12-06 21:08:36](https://bsky.app/profile/wsj.com/post/3m7cxq244ra22)
 
-[2025-12-06 20:34:40](https://bsky.app/profile/wsj.com/post/3m7cvteaaqh2p)
+---
+
+@yahoofinance.com
+
+5 questions on what's next for Netflix after the Warner Bros. deal
+
+[2025-12-06 21:06:06](https://bsky.app/profile/yahoofinance.com/post/3m7cxlk2h5u2d)
 
 ---
 
 @nikkei.com
 
-かわいらしいアニメで描く戦争の現実　映画「ペリリュー　楽園のゲルニカ」
+パスワード設定、記号･数字の混合を「推奨せず」　米機関が指針表明
 www.nikkei.com/article/DGXZQO...
- 
-多くの犠牲者を出した日米のパラオ・ペリリュー島での戦いを題材にした、話題の漫画が原作です。
- 
-作者の武田一義さんは「子供たちにも見てほしい」と願い、3頭身のかわいらしいキャラに。
- 
-「つらい描写もあるが、勇気をもって見てほしい。その勇気に応えるだけの濃い内容を用意したつもりです」。12月5日から公開中。
 
-[2025-12-06 20:31:57](https://bsky.app/profile/nikkei.com/post/3m7cvoi655u2w)
+2025年11月 #注目された記事
+
+[2025-12-06 21:01:57](https://bsky.app/profile/nikkei.com/post/3m7cxe4r4g52e)
 
 ---
 
-@aljazeera.com
+@usatoday.com
 
-The RSF accused Sudan's army of the attack on a vital corridor for aid and Sudanese fleeing the war.
+Family caregivers are in crisis. USA TODAY launched The Cost of Care survey in May, asking readers about their caregiving experience and what solutions would make caregiving easier. bit.ly/48yQ8pc
 
-[2025-12-06 20:30:28](https://bsky.app/profile/aljazeera.com/post/3m7cvltx3mb2x)
+[2025-12-06 21:00:35](https://bsky.app/profile/usatoday.com/post/3m7cxboqupi2h)
+
+---
+
+@washingtonpost.com
+
+A letter writer doesn’t need more “stuff,” but how do they tell that to gift-giving relatives?
+
+“Perhaps I should suggest we only exchange consumables, but that seems rather controlling.”
+
+Advice columnist R. Eric Thomas responds:
+
+[2025-12-06 21:00:12](https://bsky.app/profile/washingtonpost.com/post/3m7cxayrgvu23)
+
+---
+
+@en.afp.com
+
+🇩🇪 🇮🇱 German Chancellor Friedrich Merz heads to Israel on Saturday for his first visit since taking office, aiming to reaffirm traditionally solid ties that were shaken during the Gaza war. 
+➡️ u.afp.com/S7ic
+
+[2025-12-06 21:00:10](https://bsky.app/profile/en.afp.com/post/3m7cxawt56n2j)
+
+---
+
+@nbcnews.com
+
+Many Black people are finding joy, community, thrills and a bigger sense of the world through activities that were once inaccessible.
+
+[2025-12-06 21:00:09](https://bsky.app/profile/nbcnews.com/post/3m7cxavpb5i2t)
+
+---
+
+@financialtimes.com
+
+Opinion: Buying spells online for £10 or so used to be so easy. Yet the Etsy witches are ending the year diminished, their numbers shrinking after an attempt at political satire recast their reputation from goofy to sinister. on.ft.com/4pu5VwP
+
+[2025-12-06 21:00:05](https://bsky.app/profile/financialtimes.com/post/3m7cxas6fmh2l)
+
+---
+
+@sokuho.news
+
+🔔防災科研より【強震モニタ】動画です。
+
+震源:和歌山県北部, 深さ:10km
+マグニチュード:3.1, 最大震度:1
+📍https://www.google.com/maps?q=33.9,135.1&ll=33.9,135.1&z=7&t=h
+地震発生日時:2025-12-06 20:52頃
+(10倍速▶120s→12s) #地震
+
+[2025-12-06 20:55:09](https://bsky.app/profile/sokuho.news/post/3m7cwxxyqls2y)
+
+---
+
+@sokuho.news
+
+🔔気象庁より【地震速報】です。
+
+20時52分頃、和歌山県で最大震度1の地震を観測しました。
+震源:和歌山県北部, 深さ:10km, 規模:M3.1
+この地震による津波の心配はありません。
+(2025-12-06 20:54:41) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/06/2025-12-06-20-52-07.html?xlarge_image=1
+
+[2025-12-06 20:54:43](https://bsky.app/profile/sokuho.news/post/3m7cwx7eouu2d)
 
 ---
 
