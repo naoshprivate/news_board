@@ -1,9 +1,9 @@
-# [2025-12-07 00:50 updated](2025_12_07.md)
+# [2025-12-07 01:10 updated](2025_12_07.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">One of the two inmates accused of violent crimes who remained on the run after escaping from a southwestern Louisiana jail earlier this week has been taken into custody, according to CBS affiliate KLFY.  <a href="https://bsky.app/profile/cbsnews.com/post/3m7ddsyoh4q2a" target="_blank">cbsnews.com</a> (2025-12-07 00:45:01)</span><span style="padding-right:50px;">Pips is a logic puzzle where players must arrange a set of dominoes to meet the conditions of the board to win. There are three new puzzles each day — Easy, Medium and Hard — so you can solve at your own speed, in any order you want. trib.al/qZyVR1D <a href="https://bsky.app/profile/nytimes.com/post/3m7ddr632sk23" target="_blank">nytimes.com</a> (2025-12-07 00:43:59)</span><span style="padding-right:50px;">🇺🇦 Russian drone and missile strikes on Ukraine have targeted critical infrastructure, including energy sites and railways, triggering heating and water outages for thousands of households, Kyiv said on Saturday.  ➡️ u.afp.com/S7iL <a href="https://bsky.app/profile/en.afp.com/post/3m7ddk3hkwr2p" target="_blank">en.afp.com</a> (2025-12-07 00:40:02)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】風俗店で赤ちゃんの遺体見つかる 頭部のみ 東京・墨田区 警視庁 (2025-12-07 00:09:29) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7ddf73fm32l" target="_blank">sokuho.news</a> (2025-12-07 00:37:18)</span><span style="padding-right:50px;">Jaiswal's maiden ODI hundred secures India's series win against South Africa reut.rs/48zskS3 <a href="https://bsky.app/profile/reuters.com/post/3m7ddbcqckm2k" target="_blank">reuters.com</a> (2025-12-07 00:35:07)</span>
+<span style="padding-right:50px;">These ultra-fudgy brownies take the elements of Vietnamese coffee — espresso and sweetened condensed milk — and turn them into dessert. nyti.ms/4rMxenM <a href="https://bsky.app/profile/nytimes.com/post/3m7deyplk6j26" target="_blank">nytimes.com</a> (2025-12-07 01:06:06)</span><span style="padding-right:50px;">Working while collecting Social Security: The 'slow fade' to retirement more people are choosing <a href="https://bsky.app/profile/yahoofinance.com/post/3m7deyplowy2m" target="_blank">yahoofinance.com</a> (2025-12-07 01:06:06)</span><span style="padding-right:50px;">NPR wants to speak with swing voters across the political spectrum. <a href="https://bsky.app/profile/npr.org/post/3m7devw5lbg2f" target="_blank">npr.org</a> (2025-12-07 01:04:33)</span><span style="padding-right:50px;">How did you do in Connections today? Players must select four groups of four words without making more than three mistakes. trib.al/lAWJFMp <a href="https://bsky.app/profile/nytimes.com/post/3m7deqan2h22b" target="_blank">nytimes.com</a> (2025-12-07 01:01:22)</span><span style="padding-right:50px;">Lessons on leadership have long been a staple of publishing. Test your knowledge below. on.wsj.com/3KjIOWB <a href="https://bsky.app/profile/wsj.com/post/3m7deq2rtxh2p" target="_blank">wsj.com</a> (2025-12-07 01:01:16)</span>
   </div>
 </div>
 
@@ -32,100 +32,95 @@
 
 ## News Headlines
 
-1. ルイジアナ脱獄囚、一人が身柄確保
-2. ウクライナ、ロシアの攻撃でエネルギー施設被害、暖房・水道停止
-3. 東京・墨田区の風俗店で赤ちゃんの頭部発見、警視庁が捜査
-4. インド、南アフリカに勝利、シリーズ制覇
-5. トランプ政権、市民権取得の宣誓式を中止、移民政策を強化
-6. F1アブダビGP、フェルスタッペンがポールポジション獲得
+1. ベトナムコーヒー風ブラウニーが話題
+2. 社会保障受給しながら働く人が増加
+3. トランプ政権、「麻薬テロリスト」との戦いを激化
+4. 東京・墨田区の風俗店で赤ちゃんの頭部発見、死体遺棄事件として捜査
+5. F1アブダビGP、フェルスタッペンがポールポジション獲得
+6. カタールとエジプト、イスラエル軍の即時撤退と国際安定化部隊の派遣を要求
 
 ----
 
-@cbsnews.com
+@nytimes.com
 
-One of the two inmates accused of violent crimes who remained on the run after escaping from a southwestern Louisiana jail earlier this week has been taken into custody, according to CBS affiliate KLFY. 
+These ultra-fudgy brownies take the elements of Vietnamese coffee — espresso and sweetened condensed milk — and turn them into dessert. nyti.ms/4rMxenM
 
-[2025-12-07 00:45:01](https://bsky.app/profile/cbsnews.com/post/3m7ddsyoh4q2a)
+[2025-12-07 01:06:06](https://bsky.app/profile/nytimes.com/post/3m7deyplk6j26)
+
+---
+
+@yahoofinance.com
+
+Working while collecting Social Security: The 'slow fade' to retirement more people are choosing
+
+[2025-12-07 01:06:06](https://bsky.app/profile/yahoofinance.com/post/3m7deyplowy2m)
+
+---
+
+@npr.org
+
+NPR wants to speak with swing voters across the political spectrum.
+
+[2025-12-07 01:04:33](https://bsky.app/profile/npr.org/post/3m7devw5lbg2f)
 
 ---
 
 @nytimes.com
 
-Pips is a logic puzzle where players must arrange a set of dominoes to meet the conditions of the board to win. There are three new puzzles each day — Easy, Medium and Hard — so you can solve at your own speed, in any order you want. trib.al/qZyVR1D
+How did you do in Connections today? Players must select four groups of four words without making more than three mistakes. trib.al/lAWJFMp
 
-[2025-12-07 00:43:59](https://bsky.app/profile/nytimes.com/post/3m7ddr632sk23)
-
----
-
-@en.afp.com
-
-🇺🇦 Russian drone and missile strikes on Ukraine have targeted critical infrastructure, including energy sites and railways, triggering heating and water outages for thousands of households, Kyiv said on Saturday. 
-➡️ u.afp.com/S7iL
-
-[2025-12-07 00:40:02](https://bsky.app/profile/en.afp.com/post/3m7ddk3hkwr2p)
+[2025-12-07 01:01:22](https://bsky.app/profile/nytimes.com/post/3m7deqan2h22b)
 
 ---
 
-@sokuho.news
+@wsj.com
 
-🛎️JNNより【速報】です。
+Lessons on leadership have long been a staple of publishing. Test your knowledge below. on.wsj.com/3KjIOWB
 
-【速報】風俗店で赤ちゃんの遺体見つかる 頭部のみ 東京・墨田区 警視庁
-(2025-12-07 00:09:29) #ニュース
-
-[2025-12-07 00:37:18](https://bsky.app/profile/sokuho.news/post/3m7ddf73fm32l)
+[2025-12-07 01:01:16](https://bsky.app/profile/wsj.com/post/3m7deq2rtxh2p)
 
 ---
 
-@reuters.com
+@apnews.com
 
-Jaiswal's maiden ODI hundred secures India's series win against South Africa reut.rs/48zskS3
+Jake Retzlaff rushed for two short touchdowns, Jamauri McClure rushed for 121 yards and a score, and Tulane defeated North Texas 34-21 in the American Conference championship game — a victory that likely secured a College Football Playoff bid.
 
-[2025-12-07 00:35:07](https://bsky.app/profile/reuters.com/post/3m7ddbcqckm2k)
-
----
-
-@sokuho.news
-
-🔔ANNより【速報】です。
-
-【速報】東京・墨田区の風俗店の冷蔵庫に赤ちゃんの頭部 警視庁が死体遺棄事件で捜査
-(00:33) #ニュース
-
-[2025-12-07 00:34:19](https://bsky.app/profile/sokuho.news/post/3m7dd7uwk4q27)
+[2025-12-07 01:00:38](https://bsky.app/profile/apnews.com/post/3m7deowufic2j)
 
 ---
 
-@cnbc.com
+@nbcnews.com
 
-'Terrifying': Why U.S. senator in top intel post wants more spying on Chinese companies
+The Abu Dhabi Grand Prix is this weekend and will be F1's first title decider in years. Lando Norris, Max Verstappen and Oscar Piastri can all win the ultimate trophy in the 2025 finale.
 
-[2025-12-07 00:33:08](https://bsky.app/profile/cnbc.com/post/3m7dd5rcxlc2r)
+[2025-12-07 01:00:32](https://bsky.app/profile/nbcnews.com/post/3m7deoqqs6i2c)
 
 ---
 
 @usatoday.com
 
-On Dec. 5, the Supreme Court said that it would hear an appeal that could allow Trump to end birthright citizenship for some children born in the U.S.
+The nearly year-long contentious court battle between "It Ends With Us" costars Blake Lively and Justin Baldoni shows no signs of a settlement.
 
-[2025-12-07 00:30:31](https://bsky.app/profile/usatoday.com/post/3m7dcz3lflc2u)
-
----
-
-@aljazeera.com
-
-Qatar and Egypt call for the immediate withdrawal of Israeli troops and deployment of an international military force.
-
-[2025-12-07 00:30:22](https://bsky.app/profile/aljazeera.com/post/3m7dcysegks2n)
+[2025-12-07 01:00:26](https://bsky.app/profile/usatoday.com/post/3m7deokqa5s2j)
 
 ---
 
 @cnn.com
 
-A high school senior was charged with federal arson after allegedly setting fire to a sleeping subway passenger in New York early Monday morning.
-https://cnn.it/3XDLFg8
+"The Trump administration's undeclared war on what it calls "narco-terrorists" in Latin America opens an aggressive new chapter in US history and reignites the war on drugs," writes Zachary B. Wolf | Analysis
+https://cnn.it/4iImeDM
 
-[2025-12-07 00:30:09](https://bsky.app/profile/cnn.com/post/3m7dcyg5uit2v)
+[2025-12-07 01:00:25](https://bsky.app/profile/cnn.com/post/3m7deok2tnt23)
+
+---
+
+@washingtonpost.com
+
+When Netflix announced a blockbuster $83 billion deal to buy Warner Bros. Discovery on Friday, among the elements not included in the purchase was a conspicuous one: CNN.
+
+Here’s what the deal means for the cable news giant: 
+
+[2025-12-07 01:00:24](https://bsky.app/profile/washingtonpost.com/post/3m7deoiv4dp2s)
 
 ---
 
