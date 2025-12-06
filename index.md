@@ -1,9 +1,9 @@
-# [2025-12-06 10:30 updated](2025_12_06.md)
+# [2025-12-06 10:50 updated](2025_12_06.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Bulgaria rescuing sanctioned tanker that was hit by Ukrainian drone reut.rs/48k9Nug <a href="https://bsky.app/profile/reuters.com/post/3m7btiuo7my2y" target="_blank">reuters.com</a> (2025-12-06 10:20:21)</span><span style="padding-right:50px;">NYタイムズ、AI新興パープレキシティを提訴　著作権侵害で（無料記事） www.nikkei.com/article/DGXZQO...  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m7btfufhf42w" target="_blank">nikkei.com</a> (2025-12-06 10:18:40)</span><span style="padding-right:50px;">American households felt a bit better about the economy in December compared with the previous month, according to a monthly index of consumer sentiment from the University of Michigan.  on.wsj.com/48mVSDQ <a href="https://bsky.app/profile/wsj.com/post/3m7btb36caq2i" target="_blank">wsj.com</a> (2025-12-06 10:16:00)</span><span style="padding-right:50px;">ノーベル賞 授賞式会場のコンサートホールを公開 https://news.web.nhk/newsweb/na/na-k10014995921000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bt22ywi72j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-06 10:12:03)</span><span style="padding-right:50px;">From 'Icarus bug' to flawed panels: Airbus counts cost of relying on single model reut.rs/4pVVDWc <a href="https://bsky.app/profile/reuters.com/post/3m7bswtuv2f2n" target="_blank">reuters.com</a> (2025-12-06 10:10:16)</span>
+<span style="padding-right:50px;">高市首相 日朝首脳会談に強い意欲も実現は見通せず https://news.web.nhk/newsweb/na/na-k10014995961000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bv2he3cq2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-06 10:48:03)</span><span style="padding-right:50px;">HoldCo takes aim at KeyCorp in latest activist campaign at US regional banks reut.rs/48TOaRA <a href="https://bsky.app/profile/reuters.com/post/3m7bumguqav27" target="_blank">reuters.com</a> (2025-12-06 10:40:15)</span><span style="padding-right:50px;">Many of the best TV shows this year seemed to be in conversation with one another, including “Severance,” “The Pitt,” “Andor,” “Pluribus,” “The Lowdown” and others. <a href="https://bsky.app/profile/nytimes.com/post/3m7bum3vzu22h" target="_blank">nytimes.com</a> (2025-12-06 10:40:03)</span><span style="padding-right:50px;">German lawmakers approved a plan to attract more military recruits that allows the country to move toward conscription as Europe seeks to counter Russia. The moves have sparked youth protests across the country, where CNN's Fred Pleitgen reports.  Read more: https://cnn.it/3Mjp5a6 <a href="https://bsky.app/profile/cnn.com/post/3m7bujigedq2n" target="_blank">cnn.com</a> (2025-12-06 10:38:36)</span><span style="padding-right:50px;">A secret economy in athletically gifted teens is heating up—and it can tear families apart.  🔗: on.wsj.com/3KqaN6Z <a href="https://bsky.app/profile/wsj.com/post/3m7bubaqlmd2x" target="_blank">wsj.com</a> (2025-12-06 10:33:59)</span>
   </div>
 </div>
 
@@ -32,109 +32,97 @@
 
 ## News Headlines
 
-1. 制裁対象タンカー、ウクライナのドローン攻撃を受けブルガリアが救助
-2. NYタイムズ、AI新興企業パープレキシティを著作権侵害で提訴
-3. 米消費者センチメント、12月に改善
-4. 深夜のトンネルで男性死亡、ひき逃げか 茨城・守谷市
-5. AIデータセンター、健康不安で米住民が反対 3.8兆円投資計画中止
-6. メキシコ、ミス・ユニバース共同所有者の銀行口座を凍結 麻薬等の捜査で
+1. 高市首相、日朝首脳会談に強い意欲も実現不透明
+2. ドイツ、徴兵制へ移行か？若者の抗議デモ発生
+3. 米政府、EUにロシア資産凍結計画阻止を働きかけ
+4. NYタイムズ、AI新興パープレキシティを著作権侵害で提訴
+5. 米国消費者心理、12月は改善
+6. サンディエゴ市、警官射殺事件で遺族に3000万ドル支払い合意
 
 ----
 
-@reuters.com
+@nhknewsunofficial.bsky.social
 
-Bulgaria rescuing sanctioned tanker that was hit by Ukrainian drone reut.rs/48k9Nug
+高市首相 日朝首脳会談に強い意欲も実現は見通せず
+https://news.web.nhk/newsweb/na/na-k10014995961000
 
-[2025-12-06 10:20:21](https://bsky.app/profile/reuters.com/post/3m7btiuo7my2y)
+[2025-12-06 10:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bv2he3cq2k)
 
 ---
 
-@nikkei.com
+@reuters.com
 
-NYタイムズ、AI新興パープレキシティを提訴　著作権侵害で（無料記事）
-www.nikkei.com/article/DGXZQO...
+HoldCo takes aim at KeyCorp in latest activist campaign at US regional banks reut.rs/48TOaRA
 
-#ニュース
+[2025-12-06 10:40:15](https://bsky.app/profile/reuters.com/post/3m7bumguqav27)
 
-[2025-12-06 10:18:40](https://bsky.app/profile/nikkei.com/post/3m7btfufhf42w)
+---
+
+@nytimes.com
+
+Many of the best TV shows this year seemed to be in conversation with one another, including “Severance,” “The Pitt,” “Andor,” “Pluribus,” “The Lowdown” and others.
+
+[2025-12-06 10:40:03](https://bsky.app/profile/nytimes.com/post/3m7bum3vzu22h)
+
+---
+
+@cnn.com
+
+German lawmakers approved a plan to attract more military recruits that allows the country to move toward conscription as Europe seeks to counter Russia. The moves have sparked youth protests across the country, where CNN's Fred Pleitgen reports.
+
+Read more: https://cnn.it/3Mjp5a6
+
+[2025-12-06 10:38:36](https://bsky.app/profile/cnn.com/post/3m7bujigedq2n)
 
 ---
 
 @wsj.com
 
-American households felt a bit better about the economy in December compared with the previous month, according to a monthly index of consumer sentiment from the University of Michigan.
+A secret economy in athletically gifted teens is heating up—and it can tear families apart.
 
-on.wsj.com/48mVSDQ
+🔗: on.wsj.com/3KqaN6Z
 
-[2025-12-06 10:16:00](https://bsky.app/profile/wsj.com/post/3m7btb36caq2i)
-
----
-
-@nhknewsunofficial.bsky.social
-
-ノーベル賞 授賞式会場のコンサートホールを公開
-https://news.web.nhk/newsweb/na/na-k10014995921000
-
-[2025-12-06 10:12:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bt22ywi72j)
+[2025-12-06 10:33:59](https://bsky.app/profile/wsj.com/post/3m7bubaqlmd2x)
 
 ---
 
-@reuters.com
+@cnn.com
 
-From 'Icarus bug' to flawed panels: Airbus counts cost of relying on single model reut.rs/4pVVDWc
+Standing in Arizona’s largest dry lakebed, Wilcox Playa, astrophotographer Andrew McCarthy steadied himself as freight trains thundered by, threatening to blur the shot that took months to prepare. https://cnn.it/4oFyhmK
 
-[2025-12-06 10:10:16](https://bsky.app/profile/reuters.com/post/3m7bswtuv2f2n)
-
----
-
-@sokuho.news
-
-🔔ANNより【速報】です。
-
-【速報】深夜のトンネル内に頭から流血の男性 搬送も死亡…ひき逃げか 茨城・守谷市
-(10:07) #ニュース
-
-[2025-12-06 10:08:19](https://bsky.app/profile/sokuho.news/post/3m7bstdkipl2h)
+[2025-12-06 10:32:03](https://bsky.app/profile/cnn.com/post/3m7bu5rdraq2f)
 
 ---
 
-@nikkei.com
+@usatoday.com
 
-【AIデータセンターは迷惑施設】
-健康不安で怒るアメリカ住民
-www.nikkei.com/article/DGXZQO...
+How long will Burger King's SpongeBob meal stick around? What to know
 
-反対する理由は大気汚染による健康被害への懸念です。
-
-停電時に補助電源でデータセンターを動かすと、数日で一年分の窒素酸化物を出す恐れがあるという指摘も。
-
-住民らの反対によって3カ月で3.8兆円分の投資計画が中止に追い込まれたとの試算もあります。
-
-[2025-12-06 10:02:01](https://bsky.app/profile/nikkei.com/post/3m7bsi3eyrg2k)
+[2025-12-06 10:30:44](https://bsky.app/profile/usatoday.com/post/3m7bu3g7smj2z)
 
 ---
 
 @reuters.com
 
-US lawmakers press Google, Apple to remove apps tracking immigration agents reut.rs/4rXZ0Oj
+US regulators relax leveraged-lending guidance for banks reut.rs/4pVUhuD
 
-[2025-12-06 10:01:26](https://bsky.app/profile/reuters.com/post/3m7bsgzzvy62r)
-
----
-
-@nbcnews.com
-
-Hundreds of 911 calls from the deadly Texas floods in July have been released by authorities.
-
-[2025-12-06 10:01:20](https://bsky.app/profile/nbcnews.com/post/3m7bsgtyefs2j)
+[2025-12-06 10:30:39](https://bsky.app/profile/reuters.com/post/3m7bu3bqjjt27)
 
 ---
 
-@cnbc.com
+@bloomberg.com
 
-After selling his first startup, entrepreneur Mark Cuban celebrated his newfound millionaire status by buying an American Airlines lifetime flight pass.
+The US is dialing up pressure on the EU, with the White House lobbying members to block plans to to use frozen Russian central bank assets to help Ukraine: Here's your European Evening Briefing
 
-[2025-12-06 10:01:17](https://bsky.app/profile/cnbc.com/post/3m7bsgqxvwt2e)
+[2025-12-06 10:30:37](https://bsky.app/profile/bloomberg.com/post/3m7bu37d6ch2d)
+
+---
+
+@aljazeera.com
+
+Imprisoned ex-President Jair Bolsonaro has endorsed his eldest son's presidential bid, teeing up a race against Lula.
+
+[2025-12-06 10:30:21](https://bsky.app/profile/aljazeera.com/post/3m7bu2qxyw523)
 
 ---
 
