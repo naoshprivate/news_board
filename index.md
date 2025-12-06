@@ -1,9 +1,9 @@
-# [2025-12-06 13:30 updated](2025_12_06.md)
+# [2025-12-06 13:50 updated](2025_12_06.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The US Army officially stood up a new command on Friday to oversee the Army’s activities in the Western Hemisphere in the latest signal of increasing focus on homeland defense.  <a href="https://bsky.app/profile/cnn.com/post/3m7c627u6sh2s" target="_blank">cnn.com</a> (2025-12-06 13:29:01)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】「島原学生駅伝」男子は第一工科大が3大会ぶり栄冠 鹿児島大も2位と健闘《長崎》 (2025-12-06 13:11) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7c5y7syx62x" target="_blank">sokuho.news</a> (2025-12-06 13:27:54)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】国民・玉木代表「自維は年内に選挙制度改革案提示を」 定数削減法案めぐり異論「今やるのは企業団体献金の規制」 (2025-12-06 13:20) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7c5lpmayv2l" target="_blank">sokuho.news</a> (2025-12-06 13:20:54)</span><span style="padding-right:50px;">Former England midfielder Lingard to leave FC Seoul after two-year stint reut.rs/4j0b25H <a href="https://bsky.app/profile/reuters.com/post/3m7c5kjf7q527" target="_blank">reuters.com</a> (2025-12-06 13:20:14)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】「島原学生駅伝」男子は第一工科大に3大会ぶり栄冠 2位鹿児島大も健闘《長崎》 (2025-12-06 13:11) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7c52tqoli2h" target="_blank">sokuho.news</a> (2025-12-06 13:11:28)</span>
+<span style="padding-right:50px;">Michael Jordan tells court he 'wasn't afraid' of NASCAR reut.rs/3MIh0vC <a href="https://bsky.app/profile/reuters.com/post/3m7c6o6etws2y" target="_blank">reuters.com</a> (2025-12-06 13:40:10)</span><span style="padding-right:50px;">宇宙に多く存在する正体不明のダークマターとは（無料記事） www.nikkei.com/article/DGXZQO...  ダークマター（暗黒物質）が放出した可能性があるガンマ線を、東京大学が発見しました。  暗黒物質は重力による光の曲がり方や天体の運動スピードの観測結果から存在が予想されています。  実体として様々な素粒子が提案されてきましたが、実験的に見つけた例はありません。 <a href="https://bsky.app/profile/nikkei.com/post/3m7c67gjfv32k" target="_blank">nikkei.com</a> (2025-12-06 13:31:56)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】V長崎が高木監督と名倉選手の契約更新 療養中の名倉選手「必ずピッチに戻り恩返し」《長崎》 (2025-12-06 13:30) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7c65oydp726" target="_blank">sokuho.news</a> (2025-12-06 13:30:57)</span><span style="padding-right:50px;">Trump signs memo to align US child vaccines with certain other countries reut.rs/4rVMBua <a href="https://bsky.app/profile/reuters.com/post/3m7c64ojmov27" target="_blank">reuters.com</a> (2025-12-06 13:30:23)</span><span style="padding-right:50px;">Canberra said the Taliban officials are guilty of oppressing women and girls, as well as 'undermining good governance'. <a href="https://bsky.app/profile/aljazeera.com/post/3m7c64n3qrw2n" target="_blank">aljazeera.com</a> (2025-12-06 13:30:22)</span>
   </div>
 </div>
 
@@ -32,14 +32,80 @@
 
 ## News Headlines
 
-1. 米軍、西半球担当の新司令部を設立、国土防衛を強化
-2. 島原学生駅伝、男子は第一工科大、女子は福岡大が優勝
-3. 玉木代表、選挙制度改革案の年内提示を自維に要求
-4. Netflix、ワーナー・ブラザース買収でハリウッドに衝撃
-5. 神戸市で住宅火災、60代男性が意識不明
-6. ケビン・デュラント、NBA史上8人目の31,000得点達成
+1.  ジョーダン、NASCAR訴訟で証言「恐れてはいなかった」
+2.  東大、宇宙の謎「暗黒物質」由来のガンマ線を発見か
+3.  V長崎、高木監督と名倉選手の契約更新を発表
+4.  米陸軍、国土防衛強化へ新司令部発足
+5.  神戸市で住宅火災、60代男性が意識不明で搬送
+6.  NBAデュラント、通算3万1千得点達成
 
 ----
+
+@reuters.com
+
+Michael Jordan tells court he 'wasn't afraid' of NASCAR reut.rs/3MIh0vC
+
+[2025-12-06 13:40:10](https://bsky.app/profile/reuters.com/post/3m7c6o6etws2y)
+
+---
+
+@nikkei.com
+
+宇宙に多く存在する正体不明のダークマターとは（無料記事）
+www.nikkei.com/article/DGXZQO...
+
+ダークマター（暗黒物質）が放出した可能性があるガンマ線を、東京大学が発見しました。
+
+暗黒物質は重力による光の曲がり方や天体の運動スピードの観測結果から存在が予想されています。
+
+実体として様々な素粒子が提案されてきましたが、実験的に見つけた例はありません。
+
+[2025-12-06 13:31:56](https://bsky.app/profile/nikkei.com/post/3m7c67gjfv32k)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】V長崎が高木監督と名倉選手の契約更新 療養中の名倉選手「必ずピッチに戻り恩返し」《長崎》
+(2025-12-06 13:30) #ニュース
+
+[2025-12-06 13:30:57](https://bsky.app/profile/sokuho.news/post/3m7c65oydp726)
+
+---
+
+@reuters.com
+
+Trump signs memo to align US child vaccines with certain other countries reut.rs/4rVMBua
+
+[2025-12-06 13:30:23](https://bsky.app/profile/reuters.com/post/3m7c64ojmov27)
+
+---
+
+@aljazeera.com
+
+Canberra said the Taliban officials are guilty of oppressing women and girls, as well as 'undermining good governance'.
+
+[2025-12-06 13:30:22](https://bsky.app/profile/aljazeera.com/post/3m7c64n3qrw2n)
+
+---
+
+@bloomberg.com
+
+Netflix now owns the DC Studios superheroes. There’s a treasure trove of characters to monetize.
+
+[2025-12-06 13:30:12](https://bsky.app/profile/bloomberg.com/post/3m7c64d5z2b2n)
+
+---
+
+@nytimes.com
+
+Criminal investigators equipped with shovels and a specially trained dog descended on a home in San Diego this week and started to dig. They found human remains on the property, and now authorities are trying to figure out what happened.
+
+[2025-12-06 13:30:04](https://bsky.app/profile/nytimes.com/post/3m7c643lmjt27)
+
+---
 
 @cnn.com
 
@@ -68,67 +134,6 @@ The US Army officially stood up a new command on Friday to oversee the Army’s 
 (2025-12-06 13:20) #ニュース
 
 [2025-12-06 13:20:54](https://bsky.app/profile/sokuho.news/post/3m7c5lpmayv2l)
-
----
-
-@reuters.com
-
-Former England midfielder Lingard to leave FC Seoul after two-year stint reut.rs/4j0b25H
-
-[2025-12-06 13:20:14](https://bsky.app/profile/reuters.com/post/3m7c5kjf7q527)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】「島原学生駅伝」男子は第一工科大に3大会ぶり栄冠 2位鹿児島大も健闘《長崎》
-(2025-12-06 13:11) #ニュース
-
-[2025-12-06 13:11:28](https://bsky.app/profile/sokuho.news/post/3m7c52tqoli2h)
-
----
-
-@reuters.com
-
-Warner Bros, Netflix's $72 billion deal turns spotlight on performance of media titans reut.rs/3KC67uD
-
-[2025-12-06 13:10:11](https://bsky.app/profile/reuters.com/post/3m7c4ykh6sy26)
-
----
-
-@reuters.com
-
-Hollywood unions alarmed by Netflix's $72 billion Warner Bros deal reut.rs/3Ks2VSv
-
-[2025-12-06 13:01:02](https://bsky.app/profile/reuters.com/post/3m7c4i73v2d2k)
-
----
-
-@wsj.com
-
-A very public battle between two media stars has become the irresistible spectacle of the moment, maybe because so little is at stake. on.wsj.com/4rFthkF
-
-[2025-12-06 13:00:59](https://bsky.app/profile/wsj.com/post/3m7c4i4eamn2p)
-
----
-
-@bloomberg.com
-
-The Trump administration has ordered more than 260 federal workers it has been trying to fire since March to return to work on Dec. 15 while a court case over their final status drags on
-
-[2025-12-06 13:00:53](https://bsky.app/profile/bloomberg.com/post/3m7c4hwcjcc2y)
-
----
-
-@cnbc.com
-
-Boll & Branch CEO Scott Tannen says parents are interfering with their kids' internship search, and it's a sign they're not ready for a workplace.
-
-“I found it so shocking that a parent would think that was a good look for the kids,” Tannen, 48, tells CNBC Make It.
-
-[2025-12-06 13:00:20](https://bsky.app/profile/cnbc.com/post/3m7c4gwbo7223)
 
 ---
 
