@@ -1,9 +1,9 @@
-# [2025-12-06 11:50 updated](2025_12_06.md)
+# [2025-12-06 12:10 updated](2025_12_06.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Duchess Meghan tries to contact estranged father after amputation reports reut.rs/3Me5gkB <a href="https://bsky.app/profile/reuters.com/post/3m7bxy3e6al2d" target="_blank">reuters.com</a> (2025-12-06 11:40:27)</span><span style="padding-right:50px;">ちくわ型から板付きに至るカマボコの歴史　阿辻哲次 www.nikkei.com/article/DGXZQO...  カマボコは元々、竹に魚のすり身を巻き付けて焼いた「ちくわ状」のものでした。  この形が水辺に生えるガマの穂に似ており、「蒲穂子」と呼ばれたのがなまって「蒲鉾」と書くようになったといいます。  平安時代は関白が宴席の料理に使うほどの高級品でした。  江戸時代には板付きカマボコが生まれ、「幕の内弁当」の食材や酒のつまみとして提供されました。 <a href="https://bsky.app/profile/nikkei.com/post/3m7bxiuu5jb2w" target="_blank">nikkei.com</a> (2025-12-06 11:31:57)</span><span style="padding-right:50px;">New records show toxic 'forever chemicals' have recently tested above EPA limits in hundreds of cities and towns. Check your local water on our map. <a href="https://bsky.app/profile/usatoday.com/post/3m7bxgmplsl2j" target="_blank">usatoday.com</a> (2025-12-06 11:30:41)</span><span style="padding-right:50px;">The world lost influential people in 2025, and some of their deaths had significant impacts. <a href="https://bsky.app/profile/apnews.com/post/3m7bxgjdryc2j" target="_blank">apnews.com</a> (2025-12-06 11:30:37)</span><span style="padding-right:50px;">'Elements' within Cuba have contacted US officials about Maduro, sources say reut.rs/48ygPKI <a href="https://bsky.app/profile/reuters.com/post/3m7bxghnlxq2o" target="_blank">reuters.com</a> (2025-12-06 11:30:36)</span>
+<span style="padding-right:50px;">米・ウクライナ ロシアとの和平案めぐり高官レベルの協議続く https://news.web.nhk/newsweb/na/na-k10014995911000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bzg27slz2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-06 12:06:07)</span><span style="padding-right:50px;">高市首相“「UHC」実現へ世界銀行などと途上国人材育成支援” https://news.web.nhk/newsweb/na/na-k10014995991000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bzfvmfsj2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-06 12:06:02)</span><span style="padding-right:50px;">The actor, who plays an oil-company fixer, has become a mouthpiece for writer Taylor Sheridan on.wsj.com/4pYmUY9 <a href="https://bsky.app/profile/wsj.com/post/3m7bzdicvfx2o" target="_blank">wsj.com</a> (2025-12-06 12:04:43)</span><span style="padding-right:50px;">山口 宇部市のガス漏れ 供給停止続く 6日も復旧作業 https://news.web.nhk/newsweb/na/na-k10014995951000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bzajukmj2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-06 12:03:02)</span><span style="padding-right:50px;">The business of Hollywood was in trouble long before the earth-rattling news that Netflix had inked a $72 billion takeover of Warner Bros. | Analysis  <a href="https://bsky.app/profile/cnn.com/post/3m7bz6nuoa22b" target="_blank">cnn.com</a> (2025-12-06 12:02:01)</span>
   </div>
 </div>
 
@@ -32,108 +32,102 @@
 
 ## News Headlines
 
-1. メーガン妃、疎遠の父に接触試みる - 四肢切断報道後
-2. カマボコの歴史：ちくわ型から板付きへ、平安時代は高級品
-3. 深刻化するPFAS汚染、数百都市で基準値超え
-4. トランプ大統領にFIFA平和賞、露骨な対応と批判
-5. Suicaのペンギン、2026年度末で終了 - 新キャラに刷新
-6. NYタイムズ、AI新興パープレキシティを提訴 - 著作権侵害で
+1. 米・ウクライナ、ロシアとの和平案で高官協議継続
+2. 高市首相、途上国人材育成支援で世界銀行と連携
+3. 山口 宇部市でガス漏れ、供給停止続く
+4. 首都圏強盗事件、市川・横浜の被害金が指示役に渡ったか
+5. JR東日本、「Suicaのペンギン」2026年度末に終了、新キャラへ刷新
+6. トランプ大統領にFIFA「平和賞」、批判も
 
 ----
 
-@reuters.com
+@nhknewsunofficial.bsky.social
 
-Duchess Meghan tries to contact estranged father after amputation reports reut.rs/3Me5gkB
+米・ウクライナ ロシアとの和平案めぐり高官レベルの協議続く
+https://news.web.nhk/newsweb/na/na-k10014995911000
 
-[2025-12-06 11:40:27](https://bsky.app/profile/reuters.com/post/3m7bxy3e6al2d)
-
----
-
-@nikkei.com
-
-ちくわ型から板付きに至るカマボコの歴史　阿辻哲次
-www.nikkei.com/article/DGXZQO...
-
-カマボコは元々、竹に魚のすり身を巻き付けて焼いた「ちくわ状」のものでした。
-
-この形が水辺に生えるガマの穂に似ており、「蒲穂子」と呼ばれたのがなまって「蒲鉾」と書くようになったといいます。
-
-平安時代は関白が宴席の料理に使うほどの高級品でした。
-
-江戸時代には板付きカマボコが生まれ、「幕の内弁当」の食材や酒のつまみとして提供されました。
-
-[2025-12-06 11:31:57](https://bsky.app/profile/nikkei.com/post/3m7bxiuu5jb2w)
+[2025-12-06 12:06:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bzg27slz2k)
 
 ---
 
-@usatoday.com
+@nhknewsunofficial.bsky.social
 
-New records show toxic 'forever chemicals' have recently tested above EPA limits in hundreds of cities and towns. Check your local water on our map.
+高市首相“「UHC」実現へ世界銀行などと途上国人材育成支援”
+https://news.web.nhk/newsweb/na/na-k10014995991000
 
-[2025-12-06 11:30:41](https://bsky.app/profile/usatoday.com/post/3m7bxgmplsl2j)
-
----
-
-@apnews.com
-
-The world lost influential people in 2025, and some of their deaths had significant impacts.
-
-[2025-12-06 11:30:37](https://bsky.app/profile/apnews.com/post/3m7bxgjdryc2j)
+[2025-12-06 12:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bzfvmfsj2k)
 
 ---
 
-@reuters.com
+@wsj.com
 
-'Elements' within Cuba have contacted US officials about Maduro, sources say reut.rs/48ygPKI
+The actor, who plays an oil-company fixer, has become a mouthpiece for writer Taylor Sheridan on.wsj.com/4pYmUY9
 
-[2025-12-06 11:30:36](https://bsky.app/profile/reuters.com/post/3m7bxghnlxq2o)
-
----
-
-@aljazeera.com
-
-These are the key developments from day 1,381 of Russia’s war on Ukraine.
-
-[2025-12-06 11:30:27](https://bsky.app/profile/aljazeera.com/post/3m7bxg7dudx2f)
+[2025-12-06 12:04:43](https://bsky.app/profile/wsj.com/post/3m7bzdicvfx2o)
 
 ---
 
-@bloomberg.com
+@nhknewsunofficial.bsky.social
 
-President Donald Trump  is hitting the road next week as he tries to break through Americans’ gloom about the economy.
+山口 宇部市のガス漏れ 供給停止続く 6日も復旧作業
+https://news.web.nhk/newsweb/na/na-k10014995951000
 
-[2025-12-06 11:30:14](https://bsky.app/profile/bloomberg.com/post/3m7bxfsm2j52v)
+[2025-12-06 12:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bzajukmj2k)
 
 ---
 
 @cnn.com
 
-Pakistani troops and Afghan forces exchanged fire late on Friday along the two countries’ tense border but no casualties or damage were reported. Each side blamed the other for triggering the clash in violation of a fragile ceasefire in place for the past two months.
+The business of Hollywood was in trouble long before the earth-rattling news that Netflix had inked a $72 billion takeover of Warner Bros. | Analysis 
 
-[2025-12-06 11:30:05](https://bsky.app/profile/cnn.com/post/3m7bxfkaeoo2s)
-
----
-
-@washingtonpost.com
-
-Democrats have stepped up their demands to expand the inquiries underway in Congress into a U.S. military attack that killed two alleged drug smugglers who survived an initial strike on their boat.
-
-[2025-12-06 11:30:04](https://bsky.app/profile/washingtonpost.com/post/3m7bxfjvq6m2a)
+[2025-12-06 12:02:01](https://bsky.app/profile/cnn.com/post/3m7bz6nuoa22b)
 
 ---
 
 @nikkei.com
 
-トランプ大統領にFIFAが「平和賞」　露骨対応と批判も（無料記事）
+iPhone保護フィルム、2分で自動貼り付け　「フィルラボ」全国展開
 www.nikkei.com/article/DGXZQO...
 
-「FIFA平和賞」は、平和や団結に向けて行動した個人の功績を表彰するために2025年に創設されたものです。
+フィルムは反射防止／のぞき見防止／高透明の3種類があり、1回あたり2980円。
 
-スポーツ国際団体がこうした賞を設けるのは珍しく、アメリカのメディアによるとFIFAの会長がほぼ独断で決めました。
+「携帯ショップより安いし、出来がいい。
 
-ノーベル平和賞を渇望するトランプ氏への露骨なすり寄りだとして批判も出そうです。
+店員との会話が不要なのも楽だ」と好評です。
 
-[2025-12-06 11:20:38](https://bsky.app/profile/nikkei.com/post/3m7bwunpmom2z)
+[2025-12-06 12:01:58](https://bsky.app/profile/nikkei.com/post/3m7bz6l5hqt26)
+
+---
+
+@reuters.com
+
+Lakers without LeBron James, Luka Doncic vs. Celtics reut.rs/4pk4lxj
+
+[2025-12-06 12:00:47](https://bsky.app/profile/reuters.com/post/3m7bz4hct7b2y)
+
+---
+
+@aljazeera.com
+
+The US leader, who has campaigned for the Nobel Peace Prize, gets FIFA's award at the 2026 World Cup draw in Washington.
+
+[2025-12-06 12:00:35](https://bsky.app/profile/aljazeera.com/post/3m7bz43bfch27)
+
+---
+
+@usatoday.com
+
+Actress Brooke Mueller is taking her ex-husband Charlie Sheen to court over claims of unpaid child support.
+
+[2025-12-06 12:00:27](https://bsky.app/profile/usatoday.com/post/3m7bz3u2vdw2u)
+
+---
+
+@nytimes.com
+
+The prospect of Paramount’s buying Warner Bros. Discovery had led CNN journalists to wonder if the channel may be combined with CBS News. Instead, CNN will remain in a separate corporate entity.
+
+[2025-12-06 12:00:14](https://bsky.app/profile/nytimes.com/post/3m7bz3hrikg24)
 
 ---
 
