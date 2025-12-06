@@ -1,9 +1,9 @@
-# [2025-12-06 19:10 updated](2025_12_06.md)
+# [2025-12-06 19:30 updated](2025_12_06.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">There was yet another sign this week of a potential 2026 wave that could hand control of the House of Representatives to Democrats. n.pr/4aFInQS <a href="https://bsky.app/profile/npr.org/post/3m7cr2cauck23" target="_blank">npr.org</a> (2025-12-06 19:09:05)</span><span style="padding-right:50px;">スノーボード パラレル大回転W杯 三木つばき 準々決勝で敗退 https://news.web.nhk/newsweb/na/na-k10014996141000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7cqv3j2jg2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-06 19:06:08)</span><span style="padding-right:50px;">DeNA入団発表 ドラフト1位 小田康一郎“息の長い選手に” https://news.web.nhk/newsweb/na/na-k10014996151000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7cqux5tbr26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-06 19:06:03)</span><span style="padding-right:50px;">Exclusive: Advent's $1 billion deal talks for Whirlpool India stake collapse, sources say reut.rs/44fVrbY <a href="https://bsky.app/profile/reuters.com/post/3m7cqteug5m2d" target="_blank">reuters.com</a> (2025-12-06 19:05:12)</span><span style="padding-right:50px;">水金地火木土天海…9番目の惑星は復活するか www.nikkei.com/article/DGXZQO...  2006年に惑星の分類から外れた冥王星に代わる第9惑星の候補を台湾の国立清華大学が発見。  軌道を調べて惑星だと突き止めるために26年春にもチリの望遠鏡で観測する計画です。 <a href="https://bsky.app/profile/nikkei.com/post/3m7cqnocftk26" target="_blank">nikkei.com</a> (2025-12-06 19:02:01)</span>
+<span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】B1長崎ヴェルカ 越谷アルファーズに91-58で勝利《長崎》 (2025-12-06 19:27) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7cs3csyf72g" target="_blank">sokuho.news</a> (2025-12-06 19:27:32)</span><span style="padding-right:50px;">Army Specialist Sarah Beckstrom was fatally shot in Washington, D.C., while Air Force Staff Sergeant Andrew Wolfe was seriously wounded. Trump says the deployments are necessary to fight crime, but others disagree. n.pr/44aRgxY <a href="https://bsky.app/profile/npr.org/post/3m7crzaocrq2x" target="_blank">npr.org</a> (2025-12-06 19:26:23)</span><span style="padding-right:50px;">Flame begins Italian tour ahead of Milano Cortina Games reut.rs/48VI7fi <a href="https://bsky.app/profile/reuters.com/post/3m7crwyjp5e2y" target="_blank">reuters.com</a> (2025-12-06 19:25:07)</span><span style="padding-right:50px;">🇭🇰 Hong Kong dog owner grateful after rescue from fire  When Jacky Lee first heard about a raging fire at the Hong Kong housing estate where she lived, she feared that she would never see her 15-year-old grey poodle again. The 43-year-old recounts how the dog was finally rescued by firefighters. <a href="https://bsky.app/profile/en.afp.com/post/3m7crnxjmac2j" target="_blank">en.afp.com</a> (2025-12-06 19:20:04)</span><span style="padding-right:50px;">Could $1,000 “Trump Accounts” for newborns, plus an additional $250 for some children 10 and under, convince Americans to have more kids?  They may not, but supporters say the accounts show the government is dedicating attention to children.  Read more: on.wsj.com/3MeSfHk <a href="https://bsky.app/profile/wsj.com/post/3m7criogei42i" target="_blank">wsj.com</a> (2025-12-06 19:17:07)</span>
   </div>
 </div>
 
@@ -32,14 +32,89 @@
 
 ## News Headlines
 
-1. 米下院、2026年に民主党が過半数奪還の可能性
-2. DeNAドラ1小田康一郎、「息の長い選手に」
-3. 幻の9番目の惑星か？台湾の研究チームが候補を発見
-4. インド、世界のリスクにも関わらず7%成長を維持
-5. 無人SUPボード発見、海保が周辺を捜索
-6. 鹿島アントラーズ、9年ぶりJ1優勝
+1.  B1長崎ヴェルカ、越谷に圧勝
+2.  米首都で銃撃事件、兵士死傷
+3.  香港、火災で飼い犬奇跡の救出
+4.  インドネシア洪水、死者900人超
+5.  鹿島アントラーズ、J1で9年ぶり優勝
+6.  首都圏強盗、指示役と実行役が別スマホで連絡か
 
 ----
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】B1長崎ヴェルカ 越谷アルファーズに91-58で勝利《長崎》
+(2025-12-06 19:27) #ニュース
+
+[2025-12-06 19:27:32](https://bsky.app/profile/sokuho.news/post/3m7cs3csyf72g)
+
+---
+
+@npr.org
+
+Army Specialist Sarah Beckstrom was fatally shot in Washington, D.C., while Air Force Staff Sergeant Andrew Wolfe was seriously wounded. Trump says the deployments are necessary to fight crime, but others disagree. n.pr/44aRgxY
+
+[2025-12-06 19:26:23](https://bsky.app/profile/npr.org/post/3m7crzaocrq2x)
+
+---
+
+@reuters.com
+
+Flame begins Italian tour ahead of Milano Cortina Games reut.rs/48VI7fi
+
+[2025-12-06 19:25:07](https://bsky.app/profile/reuters.com/post/3m7crwyjp5e2y)
+
+---
+
+@en.afp.com
+
+🇭🇰 Hong Kong dog owner grateful after rescue from fire
+
+When Jacky Lee first heard about a raging fire at the Hong Kong housing estate where she lived, she feared that she would never see her 15-year-old grey poodle again. The 43-year-old recounts how the dog was finally rescued by firefighters.
+
+[2025-12-06 19:20:04](https://bsky.app/profile/en.afp.com/post/3m7crnxjmac2j)
+
+---
+
+@wsj.com
+
+Could $1,000 “Trump Accounts” for newborns, plus an additional $250 for some children 10 and under, convince Americans to have more kids?
+
+They may not, but supporters say the accounts show the government is dedicating attention to children.
+
+Read more: on.wsj.com/3MeSfHk
+
+[2025-12-06 19:17:07](https://bsky.app/profile/wsj.com/post/3m7criogei42i)
+
+---
+
+@aljazeera.com
+
+At the Doha Forum, Qatar’s PM said Gaza talks remain at a “critical moment,” stressing the current arrangement is only a pause, not a full ceasefire. 
+
+He said key conditions including Israeli withdrawal, are still unmet, leaving the deal incomplete despite recent progress.
+
+[2025-12-06 19:15:38](https://bsky.app/profile/aljazeera.com/post/3m7crfz357k2g)
+
+---
+
+@reuters.com
+
+England openers survive to dinner, trim Australia's lead to 132 runs reut.rs/4rHW08e
+
+[2025-12-06 19:15:12](https://bsky.app/profile/reuters.com/post/3m7crfan2og2i)
+
+---
+
+@reuters.com
+
+Indonesians climb over logs in walk to aid centre as flood deaths rise over 900 reut.rs/49WrVvq
+
+[2025-12-06 19:10:10](https://bsky.app/profile/reuters.com/post/3m7cr4axpd727)
+
+---
 
 @npr.org
 
@@ -55,79 +130,6 @@ There was yet another sign this week of a potential 2026 wave that could hand co
 https://news.web.nhk/newsweb/na/na-k10014996141000
 
 [2025-12-06 19:06:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7cqv3j2jg2k)
-
----
-
-@nhknewsunofficial.bsky.social
-
-DeNA入団発表 ドラフト1位 小田康一郎“息の長い選手に”
-https://news.web.nhk/newsweb/na/na-k10014996151000
-
-[2025-12-06 19:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7cqux5tbr26)
-
----
-
-@reuters.com
-
-Exclusive: Advent's $1 billion deal talks for Whirlpool India stake collapse, sources say reut.rs/44fVrbY
-
-[2025-12-06 19:05:12](https://bsky.app/profile/reuters.com/post/3m7cqteug5m2d)
-
----
-
-@nikkei.com
-
-水金地火木土天海…9番目の惑星は復活するか
-www.nikkei.com/article/DGXZQO...
-
-2006年に惑星の分類から外れた冥王星に代わる第9惑星の候補を台湾の国立清華大学が発見。
-
-軌道を調べて惑星だと突き止めるために26年春にもチリの望遠鏡で観測する計画です。
-
-[2025-12-06 19:02:01](https://bsky.app/profile/nikkei.com/post/3m7cqnocftk26)
-
----
-
-@financialtimes.com
-
-Which schools are in the Financial Times' top 100 European Business School rankings of 2025? on.ft.com/48FcgQ1
-
-[2025-12-06 19:01:03](https://bsky.app/profile/financialtimes.com/post/3m7cqlxabo226)
-
----
-
-@reuters.com
-
-India’s strong fundamentals to support 7% growth despite global risks, finance minister says reut.rs/4rFKBpB
-
-[2025-12-06 19:00:33](https://bsky.app/profile/reuters.com/post/3m7cql2npni2o)
-
----
-
-@washingtonpost.com
-
-Rep. Adelita Grijalva (D-Arizona) said she was pepper sprayed by ICE agents in Tucson as she tried to find out more information about a raid taking place at a restaurant in her district.
-
-[2025-12-06 19:00:12](https://bsky.app/profile/washingtonpost.com/post/3m7cqkgjbly2j)
-
----
-
-@apnews.com
-
-Daily cannabis use has surged in the U.S., fueled by ultra-potent vapes and concentrates. Doctors warn that while cannabis can help some people, the strongest products can blur the line between therapy and dependence in ways earlier generations never saw. 
-
-[2025-12-06 19:00:09](https://bsky.app/profile/apnews.com/post/3m7cqkd2rux2i)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】無人のSUP（サップ）ボードが見つかる 宜野湾マリーナの沖合 ボード上には道具が残る 周辺に人がいないか海保が捜索
-(2025-12-06 18:32:00) #ニュース
-
-[2025-12-06 18:45:26](https://bsky.app/profile/sokuho.news/post/3m7cppznkci2x)
 
 ---
 
