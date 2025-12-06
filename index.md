@@ -1,9 +1,9 @@
-# [2025-12-06 08:50 updated](2025_12_06.md)
+# [2025-12-06 09:10 updated](2025_12_06.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">SoftBank in talks to buy digital infra firm DigitalBridge, source says reut.rs/44H40N0 <a href="https://bsky.app/profile/reuters.com/post/3m7bo6nrjiy2k" target="_blank">reuters.com</a> (2025-12-06 08:45:10)</span><span style="padding-right:50px;">News now: A Marine lawyer who saw combat in Iraq has been selected to oversee the Pentagon paid legal teams who defend the prisoners who are charged in death-penalty cases at Guantanamo Bay.   www.nytimes.com/2025/12/05/u... <a href="https://bsky.app/profile/carolrosenbergnyt.bsky.social/post/3m7bo5wxv5s22" target="_blank">carolrosenbergnyt.bsky.social</a> (2025-12-06 08:44:46)</span><span style="padding-right:50px;">Meta acquires AI-wearables startup Limitless reut.rs/44ame9v <a href="https://bsky.app/profile/reuters.com/post/3m7bnw2jm2q2a" target="_blank">reuters.com</a> (2025-12-06 08:40:21)</span><span style="padding-right:50px;">This month in England, Jane Austen-themed parades, parties and exhibits marking the authors’s semiquincentennial will culminate in the Yuletide Jane Austen Birthday Ball in Bath. Here's how her most ardent fans, known as Janeites, plan to celebrate her birthday: nyti.ms/4ppNg5p <a href="https://bsky.app/profile/nytimes.com/post/3m7bnvix2hz2l" target="_blank">nytimes.com</a> (2025-12-06 08:40:03)</span><span style="padding-right:50px;">トランプ大統領「とても小さな車のアメリカでの生産を承認」 https://news.web.nhk/newsweb/na/na-k10014995901000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bnofcev32b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-06 08:36:02)</span>
+<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】「西海パールライン」通行止め情報 (2025-12-06 09:05:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7bpgq7zkw26" target="_blank">sokuho.news</a> (2025-12-06 09:07:35)</span><span style="padding-right:50px;">Constellation reaches agreement with US Department of Justice for acquisition of Calpine reut.rs/4rLeBRa <a href="https://bsky.app/profile/reuters.com/post/3m7bpcf3pun2r" target="_blank">reuters.com</a> (2025-12-06 09:05:09)</span><span style="padding-right:50px;">360度評価低い部長に異動予告、納得いかず質問繰り返し解雇 www.nikkei.com/article/DGXZTS...  評価シートの回収を担う社長が結果を改ざんしたのではないか。  部長が抱いた疑念を伝えると、社長は「あなたのような社員が1人いると困る」  翌日、社長に「確認事項」と題したメールを送り、返信があるとさらに別の文書を送信して質問を重ねました。  双方の訴えに裁判所が下した結論とは。 <a href="https://bsky.app/profile/nikkei.com/post/3m7bp4nicdg2k" target="_blank">nikkei.com</a> (2025-12-06 09:01:56)</span><span style="padding-right:50px;">Holders Argentina and leading contenders Spain were handed kind draws for the 2026 World Cup at a star-studded ceremony where US President Donald Trump took center stage u.afp.com/S7wf <a href="https://bsky.app/profile/en.afp.com/post/3m7bp3fakky2y" target="_blank">en.afp.com</a> (2025-12-06 09:01:14)</span><span style="padding-right:50px;">Six member states push EU to water down 2035 ban on internal combustion engine cars reut.rs/4oExbHE <a href="https://bsky.app/profile/reuters.com/post/3m7bp35xl232e" target="_blank">reuters.com</a> (2025-12-06 09:01:06)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.45 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.30 (🔺0.25 : 2025-12-05)</span>
+<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.45 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.14 (🔺0.04 : 2025-12-05)</span>
   </div>
 </div>
 
@@ -32,109 +32,108 @@
 
 ## News Headlines
 
-1. ソフトバンク、デジタルインフラ企業 DigitalBridge 買収交渉か
-2. 元イラク派兵海兵隊弁護士、グアンタナモ死刑囚弁護団を監督
-3. Meta、AIウェアラブル企業 Limitless を買収
-4. 最高裁、出生地主義制限を巡るトランプ政権の措置の合法性を判断へ
-5. テスラ、日本全国にEV充電網拡大　2027年に1000口へ
-6. NYタイムズ、生成AI検索サービスの記事無断利用で提訴
+1.  西海パールライン、通行止め
+2.  Netflix、ワーナー買収で業界再編か
+3.  W杯2026、組み合わせ決定 - トランプ大統領も登壇
+4.  EU、内燃機関車禁止緩和を検討
+5.  テスラ、日本でEV充電網を拡大
+6.  建築家フランク・ゲーリー氏死去、96歳
 
 ----
 
-@reuters.com
+@sokuho.news
 
-SoftBank in talks to buy digital infra firm DigitalBridge, source says reut.rs/44H40N0
+🛎️JNNより【速報】です。
 
-[2025-12-06 08:45:10](https://bsky.app/profile/reuters.com/post/3m7bo6nrjiy2k)
+【速報】「西海パールライン」通行止め情報
+(2025-12-06 09:05:00) #ニュース
 
----
-
-@carolrosenbergnyt.bsky.social
-
-News now: A Marine lawyer who saw combat in Iraq has been selected to oversee the Pentagon paid legal teams who defend the prisoners who are charged in death-penalty cases at Guantanamo Bay. 
-
-www.nytimes.com/2025/12/05/u...
-
-[2025-12-06 08:44:46](https://bsky.app/profile/carolrosenbergnyt.bsky.social/post/3m7bo5wxv5s22)
+[2025-12-06 09:07:35](https://bsky.app/profile/sokuho.news/post/3m7bpgq7zkw26)
 
 ---
 
 @reuters.com
 
-Meta acquires AI-wearables startup Limitless reut.rs/44ame9v
+Constellation reaches agreement with US Department of Justice for acquisition of Calpine reut.rs/4rLeBRa
 
-[2025-12-06 08:40:21](https://bsky.app/profile/reuters.com/post/3m7bnw2jm2q2a)
-
----
-
-@nytimes.com
-
-This month in England, Jane Austen-themed parades, parties and exhibits marking the authors’s semiquincentennial will culminate in the Yuletide Jane Austen Birthday Ball in Bath. Here's how her most ardent fans, known as Janeites, plan to celebrate her birthday: nyti.ms/4ppNg5p
-
-[2025-12-06 08:40:03](https://bsky.app/profile/nytimes.com/post/3m7bnvix2hz2l)
-
----
-
-@nhknewsunofficial.bsky.social
-
-トランプ大統領「とても小さな車のアメリカでの生産を承認」
-https://news.web.nhk/newsweb/na/na-k10014995901000
-
-[2025-12-06 08:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bnofcev32b)
-
----
-
-@reuters.com
-
-Supreme Court to decide legality of Trump move to limit birthright citizenship reut.rs/4aiLRZN
-
-[2025-12-06 08:35:08](https://bsky.app/profile/reuters.com/post/3m7bnmpj44o2r)
+[2025-12-06 09:05:09](https://bsky.app/profile/reuters.com/post/3m7bpcf3pun2r)
 
 ---
 
 @nikkei.com
 
-テスラ、日本全国にEV充電網　27年に4割増の1000口
-www.nikkei.com/article/DGXZQO...
+360度評価低い部長に異動予告、納得いかず質問繰り返し解雇
+www.nikkei.com/article/DGXZTS...
 
-現在は約700口で首都圏中心ですが、地方都市でも充電できるようにします。
+評価シートの回収を担う社長が結果を改ざんしたのではないか。
 
-テスラは独自規格で、日本独自の急速充電器は使えません。
+部長が抱いた疑念を伝えると、社長は「あなたのような社員が1人いると困る」
 
-世界でもテスラ車の販売が好調な日本で充電網を整備し、シェア拡大につなげる狙いです。
+翌日、社長に「確認事項」と題したメールを送り、返信があるとさらに別の文書を送信して質問を重ねました。
 
-#ニュース
+双方の訴えに裁判所が下した結論とは。
 
-[2025-12-06 08:31:57](https://bsky.app/profile/nikkei.com/post/3m7bngz5uto2i)
+[2025-12-06 09:01:56](https://bsky.app/profile/nikkei.com/post/3m7bp4nicdg2k)
 
 ---
 
-@nikkei.com
+@en.afp.com
 
-中国航空大手、日本行きチケットの無料キャンセル延期　26年3月まで
-www.nikkei.com/article/DGXZQO...
+Holders Argentina and leading contenders Spain were handed kind draws for the 2026 World Cup at a star-studded ceremony where US President Donald Trump took center stage u.afp.com/S7wf
 
-中国国有大手の中国東方航空、中国国際航空、中国南方航空が通知を出しました。
+[2025-12-06 09:01:14](https://bsky.app/profile/en.afp.com/post/3m7bp3fakky2y)
 
-期限延長は2月に控える春節（旧正月）の連休を含むことになり、中国人の旅行計画に影響を与える可能性があります。
+---
 
-[2025-12-06 08:31:56](https://bsky.app/profile/nikkei.com/post/3m7bngyns6q2w)
+@reuters.com
+
+Six member states push EU to water down 2035 ban on internal combustion engine cars reut.rs/4oExbHE
+
+[2025-12-06 09:01:06](https://bsky.app/profile/reuters.com/post/3m7bp35xl232e)
+
+---
+
+@apnews.com
+
+Netflix's $72 billion deal to acquire Warner Bros. studio and its film and television operations drew quick reactions.
+
+Film and television industry entities including guilds and the lobbying group for movie theater owners criticized the deal, warning it would harm consumers and cinema owners.
+
+[2025-12-06 09:00:55](https://bsky.app/profile/apnews.com/post/3m7bp2stxk42p)
 
 ---
 
 @usatoday.com
 
-Author Andrew Lownie says the palace knew about former Prince Andrew's associations with Jeffrey Epstein and put their 'heads in the sand'
+Who rules the streaming world after the Netflix-Warner deal?
 
-[2025-12-06 08:30:54](https://bsky.app/profile/usatoday.com/post/3m7bnf5i4mj2u)
+[2025-12-06 09:00:46](https://bsky.app/profile/usatoday.com/post/3m7bp2ke7hn2j)
 
 ---
 
-@reuters.com
+@cnbc.com
 
-SpaceX tells investors it is targeting late 2026 IPO, the Information reports reut.rs/48BAiu9
+There’s a lot of advice out there about how to increase the amount of joy in your life.
 
-[2025-12-06 08:30:38](https://bsky.app/profile/reuters.com/post/3m7bneohnkv2i)
+For example, leading happiness researcher and expert Arthur Brooks has 10 tried-and-true ways to be happier, he wrote in his book “The Happiness Files: Insights on Work and Life.”
+
+[2025-12-06 09:00:24](https://bsky.app/profile/cnbc.com/post/3m7bozv3hka2h)
+
+---
+
+@nbcnews.com
+
+The man charged with planting two pipe bombs near the Democratic and Republican party headquarters on the eve of the Jan. 6 attack on the U.S. Capitol told the FBI he believed conspiracy theories about the 2020 election, according to two people familiar with the matter.
+
+[2025-12-06 09:00:22](https://bsky.app/profile/nbcnews.com/post/3m7boztbhkp2c)
+
+---
+
+@washingtonpost.com
+
+Vanity Fair is cutting ties with journalist Olivia Nuzzi amid the fallout from new allegations from her former fiancé about the extent of her inappropriate relationships with her high-profile sources, including Robert F. Kennedy Jr.
+
+[2025-12-06 09:00:15](https://bsky.app/profile/washingtonpost.com/post/3m7boznbqxq23)
 
 ---
 
