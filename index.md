@@ -1,9 +1,9 @@
-# [2025-12-06 21:10 updated](2025_12_06.md)
+# [2025-12-06 21:30 updated](2025_12_06.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Days after Max Medroso’s $4 million shipment went missing, he says goods branded with his company’s name popped up for sale on Amazon at deeply discounted prices. <a href="https://bsky.app/profile/wsj.com/post/3m7cxq244ra22" target="_blank">wsj.com</a> (2025-12-06 21:08:36)</span><span style="padding-right:50px;">5 questions on what's next for Netflix after the Warner Bros. deal <a href="https://bsky.app/profile/yahoofinance.com/post/3m7cxlk2h5u2d" target="_blank">yahoofinance.com</a> (2025-12-06 21:06:06)</span><span style="padding-right:50px;">パスワード設定、記号･数字の混合を「推奨せず」　米機関が指針表明 www.nikkei.com/article/DGXZQO...  2025年11月 #注目された記事 <a href="https://bsky.app/profile/nikkei.com/post/3m7cxe4r4g52e" target="_blank">nikkei.com</a> (2025-12-06 21:01:57)</span><span style="padding-right:50px;">Family caregivers are in crisis. USA TODAY launched The Cost of Care survey in May, asking readers about their caregiving experience and what solutions would make caregiving easier. bit.ly/48yQ8pc <a href="https://bsky.app/profile/usatoday.com/post/3m7cxboqupi2h" target="_blank">usatoday.com</a> (2025-12-06 21:00:35)</span><span style="padding-right:50px;">A letter writer doesn’t need more “stuff,” but how do they tell that to gift-giving relatives?  “Perhaps I should suggest we only exchange consumables, but that seems rather controlling.”  Advice columnist R. Eric Thomas responds: <a href="https://bsky.app/profile/washingtonpost.com/post/3m7cxayrgvu23" target="_blank">washingtonpost.com</a> (2025-12-06 21:00:12)</span>
+<span style="padding-right:50px;">UK bankers hail coming ‘off the naughty step’ on.ft.com/44g0ARk <a href="https://bsky.app/profile/financialtimes.com/post/3m7cysolv2q2j" target="_blank">financialtimes.com</a> (2025-12-06 21:27:59)</span><span style="padding-right:50px;">Heard on the Street: Taking over Warner, Hollywood’s biggest studio, would transform Netflix’s business model, at a steep price. <a href="https://bsky.app/profile/wsj.com/post/3m7cyr4ooa222" target="_blank">wsj.com</a> (2025-12-06 21:27:06)</span><span style="padding-right:50px;">Thursday's attack is the latest in the fighting between the paramilitary group, the Rapid Support Forces, also known as the RSF, and the Sudanese military, who have been at war for over two years. n.pr/3Mlijkg <a href="https://bsky.app/profile/npr.org/post/3m7cyr2mgvu2r" target="_blank">npr.org</a> (2025-12-06 21:27:05)</span><span style="padding-right:50px;">Turkey, US will find way of removing CAATSA sanctions 'very soon', Turkish FM says reut.rs/4pkmbjL <a href="https://bsky.app/profile/reuters.com/post/3m7cynlmz3p27" target="_blank">reuters.com</a> (2025-12-06 21:25:08)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】中国空母が沖縄周辺で戦闘機発着艦訓練 沖縄本島と宮古島間を通過 領海侵入や危険行為はなし (2025-12-06 21:24) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7cymtwev42d" target="_blank">sokuho.news</a> (2025-12-06 21:24:43)</span>
   </div>
 </div>
 
@@ -32,112 +32,103 @@
 
 ## News Headlines
 
-1.  マックス・メドロソ氏の貨物、Amazonで大幅割引販売
-2.  Netflix、ワーナー・ブラザース買収後の課題
-3.  米機関、パスワード設定で記号・数字の混合を「推奨せず」
-4.  松浦鉄道の列車と車の衝突事故、3人病院搬送
-5.  ドイツ首相、ガザ戦争後のイスラエルとの関係修復へ
-6.  和歌山県北部で震度1の地震
+1. 中国空母、沖縄周辺で戦闘機発着艦訓練を実施
+2. スーダン軍とRSF、戦闘激化で多数の死者
+3. 南アフリカで銃乱射事件、少なくとも11人死亡
+4. 米機関、パスワード設定で記号・数字の混合を「推奨せず」
+5. 和歌山県北部で地震発生、最大震度1
+6. 松浦鉄道の列車と車の衝突事故、3人病院搬送
 
 ----
 
+@financialtimes.com
+
+UK bankers hail coming ‘off the naughty step’ on.ft.com/44g0ARk
+
+[2025-12-06 21:27:59](https://bsky.app/profile/financialtimes.com/post/3m7cysolv2q2j)
+
+---
+
 @wsj.com
 
-Days after Max Medroso’s $4 million shipment went missing, he says goods branded with his company’s name popped up for sale on Amazon at deeply discounted prices.
+Heard on the Street: Taking over Warner, Hollywood’s biggest studio, would transform Netflix’s business model, at a steep price.
 
-[2025-12-06 21:08:36](https://bsky.app/profile/wsj.com/post/3m7cxq244ra22)
-
----
-
-@yahoofinance.com
-
-5 questions on what's next for Netflix after the Warner Bros. deal
-
-[2025-12-06 21:06:06](https://bsky.app/profile/yahoofinance.com/post/3m7cxlk2h5u2d)
+[2025-12-06 21:27:06](https://bsky.app/profile/wsj.com/post/3m7cyr4ooa222)
 
 ---
 
-@nikkei.com
+@npr.org
 
-パスワード設定、記号･数字の混合を「推奨せず」　米機関が指針表明
-www.nikkei.com/article/DGXZQO...
+Thursday's attack is the latest in the fighting between the paramilitary group, the Rapid Support Forces, also known as the RSF, and the Sudanese military, who have been at war for over two years. n.pr/3Mlijkg
 
-2025年11月 #注目された記事
-
-[2025-12-06 21:01:57](https://bsky.app/profile/nikkei.com/post/3m7cxe4r4g52e)
+[2025-12-06 21:27:05](https://bsky.app/profile/npr.org/post/3m7cyr2mgvu2r)
 
 ---
 
-@usatoday.com
+@reuters.com
 
-Family caregivers are in crisis. USA TODAY launched The Cost of Care survey in May, asking readers about their caregiving experience and what solutions would make caregiving easier. bit.ly/48yQ8pc
+Turkey, US will find way of removing CAATSA sanctions 'very soon', Turkish FM says reut.rs/4pkmbjL
 
-[2025-12-06 21:00:35](https://bsky.app/profile/usatoday.com/post/3m7cxboqupi2h)
+[2025-12-06 21:25:08](https://bsky.app/profile/reuters.com/post/3m7cynlmz3p27)
 
 ---
 
-@washingtonpost.com
+@sokuho.news
 
-A letter writer doesn’t need more “stuff,” but how do they tell that to gift-giving relatives?
+🛎️FNNより【速報】です。
 
-“Perhaps I should suggest we only exchange consumables, but that seems rather controlling.”
+【速報】中国空母が沖縄周辺で戦闘機発着艦訓練 沖縄本島と宮古島間を通過 領海侵入や危険行為はなし
+(2025-12-06 21:24) #ニュース
 
-Advice columnist R. Eric Thomas responds:
+[2025-12-06 21:24:43](https://bsky.app/profile/sokuho.news/post/3m7cymtwev42d)
 
-[2025-12-06 21:00:12](https://bsky.app/profile/washingtonpost.com/post/3m7cxayrgvu23)
+---
+
+@apnews.com
+
+At least 11 people, including three children, were killed in a mass shooting at a bar in a township near the South African administrative capital of Pretoria. Police said they were searching for three suspects.
+
+[2025-12-06 21:22:03](https://bsky.app/profile/apnews.com/post/3m7cyi2nr7w2f)
 
 ---
 
 @en.afp.com
 
-🇩🇪 🇮🇱 German Chancellor Friedrich Merz heads to Israel on Saturday for his first visit since taking office, aiming to reaffirm traditionally solid ties that were shaken during the Gaza war. 
-➡️ u.afp.com/S7ic
+🇺🇸 The US town powering the digital world
 
-[2025-12-06 21:00:10](https://bsky.app/profile/en.afp.com/post/3m7cxawt56n2j)
+The once-quiet town of Ashburn in Northern Virginia, near Washington, has transformed into the heart of the world's digital infrastructure, handling an estimated 70% of global internet traffic and earning the moniker Data Center Alley.
 
----
-
-@nbcnews.com
-
-Many Black people are finding joy, community, thrills and a bigger sense of the world through activities that were once inaccessible.
-
-[2025-12-06 21:00:09](https://bsky.app/profile/nbcnews.com/post/3m7cxavpb5i2t)
+[2025-12-06 21:20:03](https://bsky.app/profile/en.afp.com/post/3m7cyeimkxo23)
 
 ---
 
-@financialtimes.com
+@reuters.com
 
-Opinion: Buying spells online for £10 or so used to be so easy. Yet the Etsy witches are ending the year diminished, their numbers shrinking after an attempt at political satire recast their reputation from goofy to sinister. on.ft.com/4pu5VwP
+Vertex's gene therapy shows promise in younger children with blood disorders reut.rs/48C6RIl
 
-[2025-12-06 21:00:05](https://bsky.app/profile/financialtimes.com/post/3m7cxas6fmh2l)
+[2025-12-06 21:15:11](https://bsky.app/profile/reuters.com/post/3m7cy3rtcsv2n)
 
 ---
 
-@sokuho.news
+@apnews.com
 
-🔔防災科研より【強震モニタ】動画です。
+Architect Frank Gehry, celebrated for his imaginative, genre-shifting designs, has died at 96.
 
-震源:和歌山県北部, 深さ:10km
-マグニチュード:3.1, 最大震度:1
-📍https://www.google.com/maps?q=33.9,135.1&ll=33.9,135.1&z=7&t=h
-地震発生日時:2025-12-06 20:52頃
-(10倍速▶120s→12s) #地震
-
-[2025-12-06 20:55:09](https://bsky.app/profile/sokuho.news/post/3m7cwxxyqls2y)
+[2025-12-06 21:15:07](https://bsky.app/profile/apnews.com/post/3m7cy3omku42r)
 
 ---
 
 @sokuho.news
 
-🔔気象庁より【地震速報】です。
+🛎️FNNより【速報】です。
 
-20時52分頃、和歌山県で最大震度1の地震を観測しました。
-震源:和歌山県北部, 深さ:10km, 規模:M3.1
-この地震による津波の心配はありません。
-(2025-12-06 20:54:41) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/06/2025-12-06-20-52-07.html?xlarge_image=1
+【速報】踏切付近で車と列車が接触 車に乗っていた3人が病院へ搬送 事故の影響で一部区間で運転見合わせ
+(2025-12-06 21:07) #ニュース
 
-[2025-12-06 20:54:43](https://bsky.app/profile/sokuho.news/post/3m7cwx7eouu2d)
+🚃鉄道運行情報
+🔗https://transit.yahoo.co.jp/diainfo
+
+[2025-12-06 21:10:46](https://bsky.app/profile/sokuho.news/post/3m7cxtv5l2t2l)
 
 ---
 
