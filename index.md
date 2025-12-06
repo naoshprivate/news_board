@@ -1,9 +1,9 @@
-# [2025-12-07 00:10 updated](2025_12_07.md)
+# [2025-12-07 00:30 updated](2025_12_07.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Why driverless tractor trailers are coming sooner than you think <a href="https://bsky.app/profile/yahoofinance.com/post/3m7dbngbuug2m" target="_blank">yahoofinance.com</a> (2025-12-07 00:06:06)</span><span style="padding-right:50px;">The architect Frank Gehry, who died on Friday, made an invaluable contribution to classical music. In designing halls and amphitheaters, Joshua Barone writes, “he had a maverick’s aesthetic and the ear of a passionate fan, making sure his buildings consistently sounded as marvelous as they looked.” <a href="https://bsky.app/profile/nytimes.com/post/3m7dbliejf32p" target="_blank">nytimes.com</a> (2025-12-07 00:05:01)</span><span style="padding-right:50px;">Artist Chase Hall and designer Lauren Rodriguez Hall find creativity and comfort in their antique-filled home in the Hudson Valley. on.wsj.com/4oPe91C <a href="https://bsky.app/profile/wsj.com/post/3m7dbhimjj42i" target="_blank">wsj.com</a> (2025-12-07 00:02:47)</span><span style="padding-right:50px;">Zafran Security, a cybersecurity startup created by an Iranian-born spy whose story helped inspire the hit Apple TV series “Tehran,” has raised $60 million, the company said Tuesday.  Companies are looking for ways to reinvigorate their cybersecurity capabilities. <a href="https://bsky.app/profile/cnbc.com/post/3m7dbdtdhkt23" target="_blank">cnbc.com</a> (2025-12-07 00:00:44)</span><span style="padding-right:50px;">Not since the 1800s have so many states tried to redraw U.S. House district boundaries without a new Census. <a href="https://bsky.app/profile/usatoday.com/post/3m7dbdncpkr2d" target="_blank">usatoday.com</a> (2025-12-07 00:00:38)</span>
+<span style="padding-right:50px;">🇬🇳 Guinea's youth risk everything to migrate to Europe  Safiatou Bah, 33, has made her decision. She will leave behind her young children to try to secure their future by migrating to Europe from the Guinean coast - a new, perilous migration route emerging in West Africa. <a href="https://bsky.app/profile/en.afp.com/post/3m7dchvdpmp2c" target="_blank">en.afp.com</a> (2025-12-07 00:20:54)</span><span style="padding-right:50px;">Bad Bunny, the rising K-pop star Effie and the Brooklyn indie-rock band Geese top our pop critics’ picks for best albums of 2025. See their full lists. nyti.ms/3YgJ7EF <a href="https://bsky.app/profile/nytimes.com/post/3m7dcghomyr2q" target="_blank">nytimes.com</a> (2025-12-07 00:20:07)</span><span style="padding-right:50px;">Max Verstappen took pole position for the title-deciding Abu Dhabi Grand Prix ahead of Formula 1 title rivals Lando Norris and Oscar Piastri. <a href="https://bsky.app/profile/apnews.com/post/3m7dcfjrcqx2w" target="_blank">apnews.com</a> (2025-12-07 00:19:35)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】東京・墨田区の風俗店の冷蔵庫に赤ちゃんの頭部 死体遺棄事件で捜査 警視庁 (2025年12月7日 00:17) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7dcbfoljs2x" target="_blank">sokuho.news</a> (2025-12-07 00:17:17)</span><span style="padding-right:50px;">Verstappen on pole for F1's Abu Dhabi title-decider reut.rs/48ER3o6 <a href="https://bsky.app/profile/reuters.com/post/3m7dc5pnjlj2e" target="_blank">reuters.com</a> (2025-12-07 00:15:13)</span>
   </div>
 </div>
 
@@ -32,98 +32,102 @@
 
 ## News Headlines
 
-1.  運転手不要のトラクタートレーラー、予想より早く実現か
-2.  建築家フランク・ゲーリー氏死去、音楽への貢献を称賛
-3.  「テヘラン」のモデルとなった元スパイのサイバーセキュリティ企業が6000万ドルを調達
-4.  1800年代以来、国勢調査なしで多数の州が下院選挙区の区割りを変更
-5.  アメリカ人の半数以上が快適な老後への自信喪失
-6.  ロンドン塔で王冠にアップルクランブルが投げつけられ4人逮捕
+1.  ギニア、若者が危険を冒してヨーロッパへ移住
+2.  2025年ベストアルバム、批評家が選ぶBad Bunny、Effie、Geese
+3.  F1アブダビGP、フェルスタッペンがポールポジション獲得
+4.  速報：東京・墨田区の風俗店の冷蔵庫に赤ちゃんの頭部、死体遺棄事件で捜査
+5.  南アフリカの酒場で銃乱射事件、12人死亡
+6.  ベツレヘム、ガザ戦争開始後初のクリスマスツリー点灯
 
 ----
 
-@yahoofinance.com
+@en.afp.com
 
-Why driverless tractor trailers are coming sooner than you think
+🇬🇳 Guinea's youth risk everything to migrate to Europe
 
-[2025-12-07 00:06:06](https://bsky.app/profile/yahoofinance.com/post/3m7dbngbuug2m)
+Safiatou Bah, 33, has made her decision. She will leave behind her young children to try to secure their future by migrating to Europe from the Guinean coast - a new, perilous migration route emerging in West Africa.
+
+[2025-12-07 00:20:54](https://bsky.app/profile/en.afp.com/post/3m7dchvdpmp2c)
 
 ---
 
 @nytimes.com
 
-The architect Frank Gehry, who died on Friday, made an invaluable contribution to classical music. In designing halls and amphitheaters, Joshua Barone writes, “he had a maverick’s aesthetic and the ear of a passionate fan, making sure his buildings consistently sounded as marvelous as they looked.”
+Bad Bunny, the rising K-pop star Effie and the Brooklyn indie-rock band Geese top our pop critics’ picks for best albums of 2025. See their full lists. nyti.ms/3YgJ7EF
 
-[2025-12-07 00:05:01](https://bsky.app/profile/nytimes.com/post/3m7dbliejf32p)
-
----
-
-@wsj.com
-
-Artist Chase Hall and designer Lauren Rodriguez Hall find creativity and comfort in their antique-filled home in the Hudson Valley. on.wsj.com/4oPe91C
-
-[2025-12-07 00:02:47](https://bsky.app/profile/wsj.com/post/3m7dbhimjj42i)
-
----
-
-@cnbc.com
-
-Zafran Security, a cybersecurity startup created by an Iranian-born spy whose story helped inspire the hit Apple TV series “Tehran,” has raised $60 million, the company said Tuesday.
-
-Companies are looking for ways to reinvigorate their cybersecurity capabilities.
-
-[2025-12-07 00:00:44](https://bsky.app/profile/cnbc.com/post/3m7dbdtdhkt23)
-
----
-
-@usatoday.com
-
-Not since the 1800s have so many states tried to redraw U.S. House district boundaries without a new Census.
-
-[2025-12-07 00:00:38](https://bsky.app/profile/usatoday.com/post/3m7dbdncpkr2d)
-
----
-
-@cnn.com
-
-Ed Bambas will soon ring up his last can of corn.
-https://cnn.it/4pRGV2e
-
-[2025-12-07 00:00:33](https://bsky.app/profile/cnn.com/post/3m7dbdi5wme2w)
-
----
-
-@washingtonpost.com
-
-You did it! Now, tell us about it. We want to celebrate the wins — big and small — that our readers from around the world accomplished this year.
-
-Whether you got a promotion, aced a test, found love or finally stood up for yourself, share with us here: https://wapo.st/4oEoux0
-
-[2025-12-07 00:00:30](https://bsky.app/profile/washingtonpost.com/post/3m7dbdft2u22e)
-
----
-
-@nbcnews.com
-
-More than half of Americans lack confidence in their ability to retire when they want and to sustain a comfortable life, according to a 2024 poll by the Bipartisan Policy Center.
-
-[2025-12-07 00:00:13](https://bsky.app/profile/nbcnews.com/post/3m7dbcuyqi322)
+[2025-12-07 00:20:07](https://bsky.app/profile/nytimes.com/post/3m7dcghomyr2q)
 
 ---
 
 @apnews.com
 
-Cold, wintry weather brings risk for pets as well as people. Experts say pet owners need to prepare. Sweaters, coats and booties can be helpful accessories to reduce the risks of frostbite and hypothermia.
+Max Verstappen took pole position for the title-deciding Abu Dhabi Grand Prix ahead of Formula 1 title rivals Lando Norris and Oscar Piastri.
 
-[2025-12-07 00:00:11](https://bsky.app/profile/apnews.com/post/3m7dbctkxnk2h)
+[2025-12-07 00:19:35](https://bsky.app/profile/apnews.com/post/3m7dcfjrcqx2w)
 
 ---
 
-@en.afp.com
+@sokuho.news
 
-🇬🇧 London police said four people were arrested after food -- purportedly apple crumble and custard -- was thrown at a display case containing Britain's priceless Crown Jewels in the Tower of London. 
-➡️ u.afp.com/S7i6
+🔔ANNより【速報】です。
 
-[2025-12-07 00:00:05](https://bsky.app/profile/en.afp.com/post/3m7dbcnvmtf2x)
+【速報】東京・墨田区の風俗店の冷蔵庫に赤ちゃんの頭部 死体遺棄事件で捜査 警視庁
+(2025年12月7日 00:17) #ニュース
+
+[2025-12-07 00:17:17](https://bsky.app/profile/sokuho.news/post/3m7dcbfoljs2x)
+
+---
+
+@reuters.com
+
+Verstappen on pole for F1's Abu Dhabi title-decider reut.rs/48ER3o6
+
+[2025-12-07 00:15:13](https://bsky.app/profile/reuters.com/post/3m7dc5pnjlj2e)
+
+---
+
+@apnews.com
+
+If you listen to the words spoken after the World Cup draw by the various coaches who were at the Kennedy Center, it would seem impossible for any of them to win next year's tournament.
+
+[2025-12-07 00:15:07](https://bsky.app/profile/apnews.com/post/3m7dc5kf64f2j)
+
+---
+
+@nytimes.com
+
+Twelve people were killed and more were shot after gunmen burst into an unlicensed tavern near South Africa’s capital, Pretoria, early Saturday morning and began shooting patrons, the police said.
+
+[2025-12-07 00:15:05](https://bsky.app/profile/nytimes.com/post/3m7dc5hq6jl26)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】墨田区の風俗店から生まれてまもない赤ちゃん遺体が見つかる 遺体は頭部のみ 警視庁
+(2025-12-07 00:09:29) #ニュース
+
+[2025-12-07 00:12:26](https://bsky.app/profile/sokuho.news/post/3m7dbyqchos27)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Bethlehem Christmas tree lights up for first time since start of Gaza war
+
+[2025-12-07 00:11:39](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7dbxefced2g)
+
+---
+
+@nytimes.com
+
+In @nytopinion.nytimes.com
+
+“Given the largely supine nature of Congress under Republican control, the stability of American democracy depends more than it should on the Supreme Court,” the editorial board writes. “So far, it is failing to live up to its constitutional role.”
+
+[2025-12-07 00:10:03](https://bsky.app/profile/nytimes.com/post/3m7dbuidltb2d)
 
 ---
 
