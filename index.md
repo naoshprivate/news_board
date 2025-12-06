@@ -1,9 +1,9 @@
-# [2025-12-06 10:50 updated](2025_12_06.md)
+# [2025-12-06 11:10 updated](2025_12_06.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">高市首相 日朝首脳会談に強い意欲も実現は見通せず https://news.web.nhk/newsweb/na/na-k10014995961000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bv2he3cq2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-06 10:48:03)</span><span style="padding-right:50px;">HoldCo takes aim at KeyCorp in latest activist campaign at US regional banks reut.rs/48TOaRA <a href="https://bsky.app/profile/reuters.com/post/3m7bumguqav27" target="_blank">reuters.com</a> (2025-12-06 10:40:15)</span><span style="padding-right:50px;">Many of the best TV shows this year seemed to be in conversation with one another, including “Severance,” “The Pitt,” “Andor,” “Pluribus,” “The Lowdown” and others. <a href="https://bsky.app/profile/nytimes.com/post/3m7bum3vzu22h" target="_blank">nytimes.com</a> (2025-12-06 10:40:03)</span><span style="padding-right:50px;">German lawmakers approved a plan to attract more military recruits that allows the country to move toward conscription as Europe seeks to counter Russia. The moves have sparked youth protests across the country, where CNN's Fred Pleitgen reports.  Read more: https://cnn.it/3Mjp5a6 <a href="https://bsky.app/profile/cnn.com/post/3m7bujigedq2n" target="_blank">cnn.com</a> (2025-12-06 10:38:36)</span><span style="padding-right:50px;">A secret economy in athletically gifted teens is heating up—and it can tear families apart.  🔗: on.wsj.com/3KqaN6Z <a href="https://bsky.app/profile/wsj.com/post/3m7bubaqlmd2x" target="_blank">wsj.com</a> (2025-12-06 10:33:59)</span>
+<span style="padding-right:50px;">House of the Week: Built next to the Monticello Motor Club, this contemporary home has a replica Formula One car on display, a Ferrari-inspired office and a carport. <a href="https://bsky.app/profile/wsj.com/post/3m7bw7gehhu2a" target="_blank">wsj.com</a> (2025-12-06 11:08:45)</span><span style="padding-right:50px;">Rep. Adelita Grijalva said she was pepper-sprayed and pushed around during an ICE raid in Tucson, Arizona, a claim that the Department of Homeland Security swiftly disputed.  <a href="https://bsky.app/profile/cnn.com/post/3m7bvv5tnqs2i" target="_blank">cnn.com</a> (2025-12-06 11:03:01)</span><span style="padding-right:50px;">｢Suicaのペンギン｣2026年度末に終了　JR東日本、新たなキャラに刷新（無料記事） www.nikkei.com/article/DGXZQO...   2001年度のサービス開始から親しまれてきました。サービス開始から25周年を迎えるのを機に切り替えます。   喜勢陽一社長は定例会見で「スイカは移動と少額決済のプラットホームから生活のデバイスへと進化し、スイカそのものが変わる。（ペンギンも）ここで卒業し、新たなキャラクターにバトンタッチしてもらう」と述べました。  2025年11月 #注目された記事 <a href="https://bsky.app/profile/nikkei.com/post/3m7bvtbvjwo2t" target="_blank">nikkei.com</a> (2025-12-06 11:01:58)</span><span style="padding-right:50px;">Dr. Mona Amin has been a pediatrician for 10 years.  She shares nine hard truths about kids and parenting that most don't know.  "They're meant to help us reflect, because the most powerful growth often starts with the uncomfortable stuff." <a href="https://bsky.app/profile/cnbc.com/post/3m7bvs2vcrt2x" target="_blank">cnbc.com</a> (2025-12-06 11:01:17)</span><span style="padding-right:50px;">Thriftmas is growing with the rise in popularity of thrifting and secondhand shopping. <a href="https://bsky.app/profile/usatoday.com/post/3m7bvrin5uq2j" target="_blank">usatoday.com</a> (2025-12-06 11:00:58)</span>
   </div>
 </div>
 
@@ -32,97 +32,109 @@
 
 ## News Headlines
 
-1. 高市首相、日朝首脳会談に強い意欲も実現不透明
-2. ドイツ、徴兵制へ移行か？若者の抗議デモ発生
-3. 米政府、EUにロシア資産凍結計画阻止を働きかけ
-4. NYタイムズ、AI新興パープレキシティを著作権侵害で提訴
-5. 米国消費者心理、12月は改善
-6. サンディエゴ市、警官射殺事件で遺族に3000万ドル支払い合意
+1.  Suicaのペンギン、2026年度末に終了へ　新キャラに刷新
+2.  高市首相、日朝首脳会談に強い意欲　実現は見通せず
+3.  NYタイムズ、AI新興パープレキシティを提訴　著作権侵害で
+4.  ドイツ、兵力増強へ徴兵制へ移行も　若者の抗議デモ発生
+5.  レバノンへの9050万ドルの戦術車両売却を米国が承認
+6.  メキシコ、ミス・ユニバース共同オーナーの口座を凍結　資金洗浄捜査で
 
 ----
 
-@nhknewsunofficial.bsky.social
-
-高市首相 日朝首脳会談に強い意欲も実現は見通せず
-https://news.web.nhk/newsweb/na/na-k10014995961000
-
-[2025-12-06 10:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bv2he3cq2k)
-
----
-
-@reuters.com
-
-HoldCo takes aim at KeyCorp in latest activist campaign at US regional banks reut.rs/48TOaRA
-
-[2025-12-06 10:40:15](https://bsky.app/profile/reuters.com/post/3m7bumguqav27)
-
----
-
-@nytimes.com
-
-Many of the best TV shows this year seemed to be in conversation with one another, including “Severance,” “The Pitt,” “Andor,” “Pluribus,” “The Lowdown” and others.
-
-[2025-12-06 10:40:03](https://bsky.app/profile/nytimes.com/post/3m7bum3vzu22h)
-
----
-
-@cnn.com
-
-German lawmakers approved a plan to attract more military recruits that allows the country to move toward conscription as Europe seeks to counter Russia. The moves have sparked youth protests across the country, where CNN's Fred Pleitgen reports.
-
-Read more: https://cnn.it/3Mjp5a6
-
-[2025-12-06 10:38:36](https://bsky.app/profile/cnn.com/post/3m7bujigedq2n)
-
----
-
 @wsj.com
 
-A secret economy in athletically gifted teens is heating up—and it can tear families apart.
+House of the Week: Built next to the Monticello Motor Club, this contemporary home has a replica Formula One car on display, a Ferrari-inspired office and a carport.
 
-🔗: on.wsj.com/3KqaN6Z
-
-[2025-12-06 10:33:59](https://bsky.app/profile/wsj.com/post/3m7bubaqlmd2x)
+[2025-12-06 11:08:45](https://bsky.app/profile/wsj.com/post/3m7bw7gehhu2a)
 
 ---
 
 @cnn.com
 
-Standing in Arizona’s largest dry lakebed, Wilcox Playa, astrophotographer Andrew McCarthy steadied himself as freight trains thundered by, threatening to blur the shot that took months to prepare. https://cnn.it/4oFyhmK
+Rep. Adelita Grijalva said she was pepper-sprayed and pushed around during an ICE raid in Tucson, Arizona, a claim that the Department of Homeland Security swiftly disputed. 
 
-[2025-12-06 10:32:03](https://bsky.app/profile/cnn.com/post/3m7bu5rdraq2f)
+[2025-12-06 11:03:01](https://bsky.app/profile/cnn.com/post/3m7bvv5tnqs2i)
+
+---
+
+@nikkei.com
+
+｢Suicaのペンギン｣2026年度末に終了　JR東日本、新たなキャラに刷新（無料記事）
+www.nikkei.com/article/DGXZQO...
+ 
+2001年度のサービス開始から親しまれてきました。サービス開始から25周年を迎えるのを機に切り替えます。
+ 
+喜勢陽一社長は定例会見で「スイカは移動と少額決済のプラットホームから生活のデバイスへと進化し、スイカそのものが変わる。（ペンギンも）ここで卒業し、新たなキャラクターにバトンタッチしてもらう」と述べました。
+
+2025年11月 #注目された記事
+
+[2025-12-06 11:01:58](https://bsky.app/profile/nikkei.com/post/3m7bvtbvjwo2t)
+
+---
+
+@cnbc.com
+
+Dr. Mona Amin has been a pediatrician for 10 years.
+
+She shares nine hard truths about kids and parenting that most don't know.
+
+"They're meant to help us reflect, because the most powerful growth often starts with the uncomfortable stuff."
+
+[2025-12-06 11:01:17](https://bsky.app/profile/cnbc.com/post/3m7bvs2vcrt2x)
 
 ---
 
 @usatoday.com
 
-How long will Burger King's SpongeBob meal stick around? What to know
+Thriftmas is growing with the rise in popularity of thrifting and secondhand shopping.
 
-[2025-12-06 10:30:44](https://bsky.app/profile/usatoday.com/post/3m7bu3g7smj2z)
-
----
-
-@reuters.com
-
-US regulators relax leveraged-lending guidance for banks reut.rs/4pVUhuD
-
-[2025-12-06 10:30:39](https://bsky.app/profile/reuters.com/post/3m7bu3bqjjt27)
+[2025-12-06 11:00:58](https://bsky.app/profile/usatoday.com/post/3m7bvrin5uq2j)
 
 ---
 
 @bloomberg.com
 
-The US is dialing up pressure on the EU, with the White House lobbying members to block plans to to use frozen Russian central bank assets to help Ukraine: Here's your European Evening Briefing
+Lower courts have uniformly said the executive order runs afoul of the Constitution, federal immigration law and Supreme Court precedent. But on Dec. 5, the Supreme Court said it will hear an appeal from the Trump administration. Here’s what to know.
 
-[2025-12-06 10:30:37](https://bsky.app/profile/bloomberg.com/post/3m7bu37d6ch2d)
+[2025-12-06 11:00:28](https://bsky.app/profile/bloomberg.com/post/3m7bvqlk54h2q)
 
 ---
 
-@aljazeera.com
+@reuters.com
 
-Imprisoned ex-President Jair Bolsonaro has endorsed his eldest son's presidential bid, teeing up a race against Lula.
+UK's Princess Kate celebrates community work at annual Christmas service reut.rs/4pRocUu
 
-[2025-12-06 10:30:21](https://bsky.app/profile/aljazeera.com/post/3m7bu2qxyw523)
+[2025-12-06 11:00:21](https://bsky.app/profile/reuters.com/post/3m7bvqezaxs2d)
+
+---
+
+@washingtonpost.com
+
+A gay slur is having something of a cultural renaissance. 
+
+For more nuanced insight into why a potentially hurtful word is having a moment, we asked people to tell us what the word means to them and their work.
+
+Here’s what they said: 
+
+[2025-12-06 11:00:05](https://bsky.app/profile/washingtonpost.com/post/3m7bvpw7y3f2h)
+
+---
+
+@npr.org
+
+The merger, announced Friday, would bring two of the industry's biggest players in film and TV under one roof. Beyond its television and motion picture division, Warner owns HBO Max and DC Studios. n.pr/4oHoOLF
+
+[2025-12-06 10:53:52](https://bsky.app/profile/npr.org/post/3m7bverrzip2a)
+
+---
+
+@wsj.com
+
+America’s most dedicated Christmas decorators are losing it. The reason: a mysterious shortage of giant lawn ornaments from Home Depot. 
+
+🔗: on.wsj.com/3MjIIyK
+
+[2025-12-06 10:51:29](https://bsky.app/profile/wsj.com/post/3m7bvajbcto2j)
 
 ---
 
