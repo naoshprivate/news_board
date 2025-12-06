@@ -1,9 +1,9 @@
-# [2025-12-07 02:10 updated](2025_12_07.md)
+# [2025-12-07 02:30 updated](2025_12_07.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Scottish Tory peer defects to Reform at Falkirk rally on.ft.com/4rOJGn1 <a href="https://bsky.app/profile/financialtimes.com/post/3m7difmn3ci2v" target="_blank">financialtimes.com</a> (2025-12-07 02:07:01)</span><span style="padding-right:50px;">Dollar stores continue to see higher-income shoppers, even as consumer sentiment improves <a href="https://bsky.app/profile/yahoofinance.com/post/3m7didyjery2p" target="_blank">yahoofinance.com</a> (2025-12-07 02:06:06)</span><span style="padding-right:50px;">Report: Memphis closes in on Southern Miss' Charles Huff reut.rs/3Mexbkm <a href="https://bsky.app/profile/reuters.com/post/3m7dicbppmd2n" target="_blank">reuters.com</a> (2025-12-07 02:05:09)</span><span style="padding-right:50px;">Kristen Stewart shot to stardom with “Twilight,” but has since largely rejected big-budget movies for independent work. On “The Interview,” she discussed frustrations with the entertainment industry, navigating vulnerability in acting and more. trib.al/Nr8CCg9 <a href="https://bsky.app/profile/nytimes.com/post/3m7diabre6k2d" target="_blank">nytimes.com</a> (2025-12-07 02:04:02)</span><span style="padding-right:50px;">Syrian president accuses Israel of fabricating threats to justify militarism and divert attention from Gaza massacres. <a href="https://bsky.app/profile/aljazeera.com/post/3m7di2thsei2v" target="_blank">aljazeera.com</a> (2025-12-07 02:00:59)</span>
+<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】中国海軍の空母艦載機が空自戦闘機に断続的にレーダー照射 小泉防衛大臣「中国側に強く抗議」 (2025-12-07 02:26:25) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7djmxkl3p27" target="_blank">sokuho.news</a> (2025-12-07 02:29:01)</span><span style="padding-right:50px;">🔔NHKより【速報 JUST IN】です。  中国軍戦闘機が自衛隊機にレーダー照射 強く抗議 小泉防衛相 (2025-12-07 02:22:10) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7djim3grd2y" target="_blank">sokuho.news</a> (2025-12-07 02:26:34)</span><span style="padding-right:50px;">Blunt Bournemouth and Chelsea play to 0-0 draw reut.rs/3Mk8PFQ <a href="https://bsky.app/profile/reuters.com/post/3m7djg33o672e" target="_blank">reuters.com</a> (2025-12-07 02:25:10)</span><span style="padding-right:50px;">🔔NHKより【速報】です。  中国軍戦闘機が自衛隊戦闘機に レーダー照射 強く抗議 小泉防衛相 (2025-12-07 02:24) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7djeoqyih2x" target="_blank">sokuho.news</a> (2025-12-07 02:24:23)</span><span style="padding-right:50px;">How the human behind Tilly Norwood brought her to digital life. on.wsj.com/4a1O7UX <a href="https://bsky.app/profile/wsj.com/post/3m7dj52xi6w22" target="_blank">wsj.com</a> (2025-12-07 02:20:07)</span>
   </div>
 </div>
 
@@ -32,93 +32,103 @@
 
 ## News Headlines
 
-1. スコットランド保守党議員、改革党へ鞍替え
-2. ドルストア、高所得層の顧客増加続く
-3. 報道：メンフィス大、サザンミシシッピ大のチャールズ・ハフ氏に接近
-4. シリア大統領、イスラエルを非難：ガザ虐殺から目をそらすため脅威を捏造
-5. アップル、テック業界の岐路で幹部交代
-6. 岐阜県で震度1の地震発生
+1.  中国軍機、自衛隊機にレーダー照射　防衛相が強く抗議
+2.  錦糸町の風俗店冷蔵庫から赤ちゃんの遺体　警視庁が捜査
+3.  トランプ大統領の支持率が低下　経済政策への不満が原因
+4.  サウジアラビア、アルコールなしのバーが人気　社会の変化を象徴
+5.  フランス大統領、ウクライナ大統領らと会談へ　米国主導の交渉を協議
+6.  FBI最重要指名手配犯に元五輪スノーボーダー
 
 ----
 
-@financialtimes.com
+@sokuho.news
 
-Scottish Tory peer defects to Reform at Falkirk rally on.ft.com/4rOJGn1
+🛎️JNNより【速報】です。
 
-[2025-12-07 02:07:01](https://bsky.app/profile/financialtimes.com/post/3m7difmn3ci2v)
+【速報】中国海軍の空母艦載機が空自戦闘機に断続的にレーダー照射 小泉防衛大臣「中国側に強く抗議」
+(2025-12-07 02:26:25) #ニュース
+
+[2025-12-07 02:29:01](https://bsky.app/profile/sokuho.news/post/3m7djmxkl3p27)
 
 ---
 
-@yahoofinance.com
+@sokuho.news
 
-Dollar stores continue to see higher-income shoppers, even as consumer sentiment improves
+<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>中国軍戦闘機が自衛隊機にレーダー照射 強く抗議 小泉防衛相</strong><br><strong>(2025-12-07 02:22:10) #ニュース</strong>
 
-[2025-12-07 02:06:06](https://bsky.app/profile/yahoofinance.com/post/3m7didyjery2p)
+[2025-12-07 02:26:34](https://bsky.app/profile/sokuho.news/post/3m7djim3grd2y)
 
 ---
 
 @reuters.com
 
-Report: Memphis closes in on Southern Miss' Charles Huff reut.rs/3Mexbkm
+Blunt Bournemouth and Chelsea play to 0-0 draw reut.rs/3Mk8PFQ
 
-[2025-12-07 02:05:09](https://bsky.app/profile/reuters.com/post/3m7dicbppmd2n)
-
----
-
-@nytimes.com
-
-Kristen Stewart shot to stardom with “Twilight,” but has since largely rejected big-budget movies for independent work. On “The Interview,” she discussed frustrations with the entertainment industry, navigating vulnerability in acting and more. trib.al/Nr8CCg9
-
-[2025-12-07 02:04:02](https://bsky.app/profile/nytimes.com/post/3m7diabre6k2d)
+[2025-12-07 02:25:10](https://bsky.app/profile/reuters.com/post/3m7djg33o672e)
 
 ---
 
-@aljazeera.com
+@sokuho.news
 
-Syrian president accuses Israel of fabricating threats to justify militarism and divert attention from Gaza massacres.
+🔔NHKより【速報】です。
 
-[2025-12-07 02:00:59](https://bsky.app/profile/aljazeera.com/post/3m7di2thsei2v)
+中国軍戦闘機が自衛隊戦闘機に レーダー照射 強く抗議 小泉防衛相
+(2025-12-07 02:24) #ニュース
+
+[2025-12-07 02:24:23](https://bsky.app/profile/sokuho.news/post/3m7djeoqyih2x)
 
 ---
 
-@apnews.com
+@wsj.com
 
-Eileen Gu returned to the mountain where she closed out her victorious stay at the Beijing Olympics to capture the first Snow League title for freeskiing.
+How the human behind Tilly Norwood brought her to digital life. on.wsj.com/4a1O7UX
 
-[2025-12-07 02:00:52](https://bsky.app/profile/apnews.com/post/3m7di2mnodi22)
+[2025-12-07 02:20:07](https://bsky.app/profile/wsj.com/post/3m7dj52xi6w22)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+中国軍戦闘機が自衛隊戦闘機に2度にわたりレーダー照射 防衛省
+https://news.web.nhk/newsweb/na/na-k10014996291000
+
+[2025-12-07 02:18:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7dizg3kvo2p)
+
+---
+
+@sokuho.news
+
+<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>中国軍戦闘機が自衛隊戦闘機に2度にわたりレーダー照射 防衛省</strong><br><strong>(2025-12-07 02:16:07) #ニュース</strong><br><strong>https://news.web.nhk/newsweb/na/na-k10014996291000</strong>
+
+[2025-12-07 02:16:35](https://bsky.app/profile/sokuho.news/post/3m7diwqvecw24)
 
 ---
 
 @usatoday.com
 
-A fraud investigation and criticism from President Donald Trump have put the national spotlight on a community that fled a civil war.
+American approval ratings of President Donald Trump have fallen slightly, according to a new analysis of public polling compiled by The New York Times.
 
-[2025-12-07 02:00:47](https://bsky.app/profile/usatoday.com/post/3m7di2iqmkq2u)
+The reason? A greater share of poll respondents blamed the president’s handling of the economy.
 
----
+Read more: bit.ly/3XB9lBN
 
-@cnn.com
-
-The company known for its steadiness is going through a shakeup at the top, as both Apple and the tech industry at large are at a crossroads.
-https://cnn.it/4qcRrBF
-
-[2025-12-07 02:00:27](https://bsky.app/profile/cnn.com/post/3m7dhzvb2r42s)
-
----
-
-@washingtonpost.com
-
-Common anti-vaccine talking points were on display as the CDC’s immunization advisers repealed a hepatitis B birth vaccine recommendation and scrutinized the childhood schedule.
-
-[2025-12-07 02:00:26](https://bsky.app/profile/washingtonpost.com/post/3m7dhzu7yru2r)
+[2025-12-07 02:15:15](https://bsky.app/profile/usatoday.com/post/3m7diudqigh2t)
 
 ---
 
 @reuters.com
 
-Charlton v Portsmouth match abandoned, fan dies in hospital reut.rs/48VBR7p
+Substitute Kane scores hat-trick in Bayern's 5-0 demolition of hosts  Stuttgart reut.rs/48mZYM7
 
-[2025-12-07 02:00:26](https://bsky.app/profile/reuters.com/post/3m7dhzu4mo22r)
+[2025-12-07 02:15:13](https://bsky.app/profile/reuters.com/post/3m7diucdmfo2i)
+
+---
+
+@nytimes.com
+
+Wool coats are a stylish way to keep warm. We tested more than 20 coats to find quality pieces that are comfortable, stylish, and built to last.
+
+[2025-12-07 02:14:03](https://bsky.app/profile/nytimes.com/post/3m7dis7l2uh2l)
 
 ---
 
