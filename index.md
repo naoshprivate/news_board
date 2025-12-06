@@ -1,9 +1,9 @@
-# [2025-12-07 00:30 updated](2025_12_07.md)
+# [2025-12-07 00:50 updated](2025_12_07.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🇬🇳 Guinea's youth risk everything to migrate to Europe  Safiatou Bah, 33, has made her decision. She will leave behind her young children to try to secure their future by migrating to Europe from the Guinean coast - a new, perilous migration route emerging in West Africa. <a href="https://bsky.app/profile/en.afp.com/post/3m7dchvdpmp2c" target="_blank">en.afp.com</a> (2025-12-07 00:20:54)</span><span style="padding-right:50px;">Bad Bunny, the rising K-pop star Effie and the Brooklyn indie-rock band Geese top our pop critics’ picks for best albums of 2025. See their full lists. nyti.ms/3YgJ7EF <a href="https://bsky.app/profile/nytimes.com/post/3m7dcghomyr2q" target="_blank">nytimes.com</a> (2025-12-07 00:20:07)</span><span style="padding-right:50px;">Max Verstappen took pole position for the title-deciding Abu Dhabi Grand Prix ahead of Formula 1 title rivals Lando Norris and Oscar Piastri. <a href="https://bsky.app/profile/apnews.com/post/3m7dcfjrcqx2w" target="_blank">apnews.com</a> (2025-12-07 00:19:35)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】東京・墨田区の風俗店の冷蔵庫に赤ちゃんの頭部 死体遺棄事件で捜査 警視庁 (2025年12月7日 00:17) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7dcbfoljs2x" target="_blank">sokuho.news</a> (2025-12-07 00:17:17)</span><span style="padding-right:50px;">Verstappen on pole for F1's Abu Dhabi title-decider reut.rs/48ER3o6 <a href="https://bsky.app/profile/reuters.com/post/3m7dc5pnjlj2e" target="_blank">reuters.com</a> (2025-12-07 00:15:13)</span>
+<span style="padding-right:50px;">One of the two inmates accused of violent crimes who remained on the run after escaping from a southwestern Louisiana jail earlier this week has been taken into custody, according to CBS affiliate KLFY.  <a href="https://bsky.app/profile/cbsnews.com/post/3m7ddsyoh4q2a" target="_blank">cbsnews.com</a> (2025-12-07 00:45:01)</span><span style="padding-right:50px;">Pips is a logic puzzle where players must arrange a set of dominoes to meet the conditions of the board to win. There are three new puzzles each day — Easy, Medium and Hard — so you can solve at your own speed, in any order you want. trib.al/qZyVR1D <a href="https://bsky.app/profile/nytimes.com/post/3m7ddr632sk23" target="_blank">nytimes.com</a> (2025-12-07 00:43:59)</span><span style="padding-right:50px;">🇺🇦 Russian drone and missile strikes on Ukraine have targeted critical infrastructure, including energy sites and railways, triggering heating and water outages for thousands of households, Kyiv said on Saturday.  ➡️ u.afp.com/S7iL <a href="https://bsky.app/profile/en.afp.com/post/3m7ddk3hkwr2p" target="_blank">en.afp.com</a> (2025-12-07 00:40:02)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】風俗店で赤ちゃんの遺体見つかる 頭部のみ 東京・墨田区 警視庁 (2025-12-07 00:09:29) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7ddf73fm32l" target="_blank">sokuho.news</a> (2025-12-07 00:37:18)</span><span style="padding-right:50px;">Jaiswal's maiden ODI hundred secures India's series win against South Africa reut.rs/48zskS3 <a href="https://bsky.app/profile/reuters.com/post/3m7ddbcqckm2k" target="_blank">reuters.com</a> (2025-12-07 00:35:07)</span>
   </div>
 </div>
 
@@ -32,73 +32,37 @@
 
 ## News Headlines
 
-1.  ギニア、若者が危険を冒してヨーロッパへ移住
-2.  2025年ベストアルバム、批評家が選ぶBad Bunny、Effie、Geese
-3.  F1アブダビGP、フェルスタッペンがポールポジション獲得
-4.  速報：東京・墨田区の風俗店の冷蔵庫に赤ちゃんの頭部、死体遺棄事件で捜査
-5.  南アフリカの酒場で銃乱射事件、12人死亡
-6.  ベツレヘム、ガザ戦争開始後初のクリスマスツリー点灯
+1. ルイジアナ脱獄囚、一人が身柄確保
+2. ウクライナ、ロシアの攻撃でエネルギー施設被害、暖房・水道停止
+3. 東京・墨田区の風俗店で赤ちゃんの頭部発見、警視庁が捜査
+4. インド、南アフリカに勝利、シリーズ制覇
+5. トランプ政権、市民権取得の宣誓式を中止、移民政策を強化
+6. F1アブダビGP、フェルスタッペンがポールポジション獲得
 
 ----
 
+@cbsnews.com
+
+One of the two inmates accused of violent crimes who remained on the run after escaping from a southwestern Louisiana jail earlier this week has been taken into custody, according to CBS affiliate KLFY. 
+
+[2025-12-07 00:45:01](https://bsky.app/profile/cbsnews.com/post/3m7ddsyoh4q2a)
+
+---
+
+@nytimes.com
+
+Pips is a logic puzzle where players must arrange a set of dominoes to meet the conditions of the board to win. There are three new puzzles each day — Easy, Medium and Hard — so you can solve at your own speed, in any order you want. trib.al/qZyVR1D
+
+[2025-12-07 00:43:59](https://bsky.app/profile/nytimes.com/post/3m7ddr632sk23)
+
+---
+
 @en.afp.com
 
-🇬🇳 Guinea's youth risk everything to migrate to Europe
+🇺🇦 Russian drone and missile strikes on Ukraine have targeted critical infrastructure, including energy sites and railways, triggering heating and water outages for thousands of households, Kyiv said on Saturday. 
+➡️ u.afp.com/S7iL
 
-Safiatou Bah, 33, has made her decision. She will leave behind her young children to try to secure their future by migrating to Europe from the Guinean coast - a new, perilous migration route emerging in West Africa.
-
-[2025-12-07 00:20:54](https://bsky.app/profile/en.afp.com/post/3m7dchvdpmp2c)
-
----
-
-@nytimes.com
-
-Bad Bunny, the rising K-pop star Effie and the Brooklyn indie-rock band Geese top our pop critics’ picks for best albums of 2025. See their full lists. nyti.ms/3YgJ7EF
-
-[2025-12-07 00:20:07](https://bsky.app/profile/nytimes.com/post/3m7dcghomyr2q)
-
----
-
-@apnews.com
-
-Max Verstappen took pole position for the title-deciding Abu Dhabi Grand Prix ahead of Formula 1 title rivals Lando Norris and Oscar Piastri.
-
-[2025-12-07 00:19:35](https://bsky.app/profile/apnews.com/post/3m7dcfjrcqx2w)
-
----
-
-@sokuho.news
-
-🔔ANNより【速報】です。
-
-【速報】東京・墨田区の風俗店の冷蔵庫に赤ちゃんの頭部 死体遺棄事件で捜査 警視庁
-(2025年12月7日 00:17) #ニュース
-
-[2025-12-07 00:17:17](https://bsky.app/profile/sokuho.news/post/3m7dcbfoljs2x)
-
----
-
-@reuters.com
-
-Verstappen on pole for F1's Abu Dhabi title-decider reut.rs/48ER3o6
-
-[2025-12-07 00:15:13](https://bsky.app/profile/reuters.com/post/3m7dc5pnjlj2e)
-
----
-
-@apnews.com
-
-If you listen to the words spoken after the World Cup draw by the various coaches who were at the Kennedy Center, it would seem impossible for any of them to win next year's tournament.
-
-[2025-12-07 00:15:07](https://bsky.app/profile/apnews.com/post/3m7dc5kf64f2j)
-
----
-
-@nytimes.com
-
-Twelve people were killed and more were shot after gunmen burst into an unlicensed tavern near South Africa’s capital, Pretoria, early Saturday morning and began shooting patrons, the police said.
-
-[2025-12-07 00:15:05](https://bsky.app/profile/nytimes.com/post/3m7dc5hq6jl26)
+[2025-12-07 00:40:02](https://bsky.app/profile/en.afp.com/post/3m7ddk3hkwr2p)
 
 ---
 
@@ -106,28 +70,62 @@ Twelve people were killed and more were shot after gunmen burst into an unlicens
 
 🛎️JNNより【速報】です。
 
-【速報】墨田区の風俗店から生まれてまもない赤ちゃん遺体が見つかる 遺体は頭部のみ 警視庁
+【速報】風俗店で赤ちゃんの遺体見つかる 頭部のみ 東京・墨田区 警視庁
 (2025-12-07 00:09:29) #ニュース
 
-[2025-12-07 00:12:26](https://bsky.app/profile/sokuho.news/post/3m7dbyqchos27)
+[2025-12-07 00:37:18](https://bsky.app/profile/sokuho.news/post/3m7ddf73fm32l)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@reuters.com
 
-Bethlehem Christmas tree lights up for first time since start of Gaza war
+Jaiswal's maiden ODI hundred secures India's series win against South Africa reut.rs/48zskS3
 
-[2025-12-07 00:11:39](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7dbxefced2g)
+[2025-12-07 00:35:07](https://bsky.app/profile/reuters.com/post/3m7ddbcqckm2k)
 
 ---
 
-@nytimes.com
+@sokuho.news
 
-In @nytopinion.nytimes.com
+🔔ANNより【速報】です。
 
-“Given the largely supine nature of Congress under Republican control, the stability of American democracy depends more than it should on the Supreme Court,” the editorial board writes. “So far, it is failing to live up to its constitutional role.”
+【速報】東京・墨田区の風俗店の冷蔵庫に赤ちゃんの頭部 警視庁が死体遺棄事件で捜査
+(00:33) #ニュース
 
-[2025-12-07 00:10:03](https://bsky.app/profile/nytimes.com/post/3m7dbuidltb2d)
+[2025-12-07 00:34:19](https://bsky.app/profile/sokuho.news/post/3m7dd7uwk4q27)
+
+---
+
+@cnbc.com
+
+'Terrifying': Why U.S. senator in top intel post wants more spying on Chinese companies
+
+[2025-12-07 00:33:08](https://bsky.app/profile/cnbc.com/post/3m7dd5rcxlc2r)
+
+---
+
+@usatoday.com
+
+On Dec. 5, the Supreme Court said that it would hear an appeal that could allow Trump to end birthright citizenship for some children born in the U.S.
+
+[2025-12-07 00:30:31](https://bsky.app/profile/usatoday.com/post/3m7dcz3lflc2u)
+
+---
+
+@aljazeera.com
+
+Qatar and Egypt call for the immediate withdrawal of Israeli troops and deployment of an international military force.
+
+[2025-12-07 00:30:22](https://bsky.app/profile/aljazeera.com/post/3m7dcysegks2n)
+
+---
+
+@cnn.com
+
+A high school senior was charged with federal arson after allegedly setting fire to a sleeping subway passenger in New York early Monday morning.
+https://cnn.it/3XDLFg8
+
+[2025-12-07 00:30:09](https://bsky.app/profile/cnn.com/post/3m7dcyg5uit2v)
 
 ---
 
