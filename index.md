@@ -1,9 +1,9 @@
-# [2025-12-06 12:30 updated](2025_12_06.md)
+# [2025-12-06 12:50 updated](2025_12_06.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Looking at the weather map on his computer and seeing three tropical storms forming simultaneously across Asia in late November, climatologist Fredolin Tangang’s first thoughts drifted to the 2004 disaster movie “The Day After Tomorrow.” <a href="https://bsky.app/profile/cnn.com/post/3m7c2jlarrk2v" target="_blank">cnn.com</a> (2025-12-06 12:26:01)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】木造住宅で火災 60代男性が病院に搬送 「家の3階が火事になっている」と通報 神戸市 (2025-12-06 12:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7c2jgufng2g" target="_blank">sokuho.news</a> (2025-12-06 12:25:57)</span><span style="padding-right:50px;">Chechen leader Kadyrov vows response after Ukrainian drone hits Grozny, no casualties reut.rs/48BQqM9 <a href="https://bsky.app/profile/reuters.com/post/3m7c27a7ijm2k" target="_blank">reuters.com</a> (2025-12-06 12:20:14)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】「島原学生駅伝」女子は福岡大が先頭でフィニッシュ 13チームがエントリー《長崎》 (2025-12-06 12:14) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7bzviep6v2g" target="_blank">sokuho.news</a> (2025-12-06 12:14:47)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】立憲・野田代表 維新・参政の連携を「論外」とけん制 定数削減とスパイ防止法リンク論に「党利党略すぎる」 (2025-12-06 12:10) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7bznnkq5b2q" target="_blank">sokuho.news</a> (2025-12-06 12:10:24)</span>
+<span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】木造住宅で火災 60代男性が病院搬送も意識不明 「家の3階が火事になっている」と通報 神戸市 (2025-12-06 12:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7c3n3odaq2d" target="_blank">sokuho.news</a> (2025-12-06 12:45:53)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】女子の栄冠は福岡大学に「島原学生駅伝」福岡大が11大会連続14回目の優勝《長崎》 (2025-12-06 12:37) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7c3gvs3yl2w" target="_blank">sokuho.news</a> (2025-12-06 12:42:25)</span><span style="padding-right:50px;">Spirit Airlines scraps plan to furlough up to 365 pilots reut.rs/4pRrIya <a href="https://bsky.app/profile/reuters.com/post/3m7c3d27cdm2d" target="_blank">reuters.com</a> (2025-12-06 12:40:16)</span><span style="padding-right:50px;">立民 野田代表 大分市の火災現場視察“再建へ財政支援求める” https://news.web.nhk/newsweb/na/na-k10014996001000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7c3aw76ks2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-06 12:39:02)</span><span style="padding-right:50px;">【人余り職種に偏る年1200億円】 国主導のリスキリング、3割就職できず www.nikkei.com/article/DGXZQO...  「企業が求めるのはAI関連スキル。職業訓練で学んだのはプログラミングの基礎などでずれが大きかった」  30歳男性は「未経験OK」の募集も不採用が相次ぎました。 <a href="https://bsky.app/profile/nikkei.com/post/3m7c2u5zoui22" target="_blank">nikkei.com</a> (2025-12-06 12:31:57)</span>
   </div>
 </div>
 
@@ -32,39 +32,23 @@
 
 ## News Headlines
 
-1. 神戸市で木造住宅火災、60代男性搬送
-2. チェチェン、ウクライナのドローン攻撃に報復誓う
-3. 立憲・野田代表、維新・参政連携を「論外」と牽制
-4. 米・ウクライナ、ロシアとの和平案で高官協議継続
-5. 山口・宇部市のガス漏れ、供給停止続く
-6. Suicaペンギン、2026年度末に終了　JR東日本が刷新
+1. 神戸市で木造住宅火災、60代男性が意識不明
+2. 島原学生駅伝、女子は福岡大学が11連覇達成
+3. 人余り職種偏り、リスキリング3割が就職できず
+4. 立憲・野田代表、維新・参政連携を「論外」と牽制
+5. 山口・宇部市でガス漏れ、供給停止が継続
+6. カマボコの歴史：ちくわ型から板付きへ
 
 ----
-
-@cnn.com
-
-Looking at the weather map on his computer and seeing three tropical storms forming simultaneously across Asia in late November, climatologist Fredolin Tangang’s first thoughts drifted to the 2004 disaster movie “The Day After Tomorrow.”
-
-[2025-12-06 12:26:01](https://bsky.app/profile/cnn.com/post/3m7c2jlarrk2v)
-
----
 
 @sokuho.news
 
 🛎️FNNより【速報】です。
 
-【速報】木造住宅で火災 60代男性が病院に搬送 「家の3階が火事になっている」と通報 神戸市
+【速報】木造住宅で火災 60代男性が病院搬送も意識不明 「家の3階が火事になっている」と通報 神戸市
 (2025-12-06 12:00) #ニュース
 
-[2025-12-06 12:25:57](https://bsky.app/profile/sokuho.news/post/3m7c2jgufng2g)
-
----
-
-@reuters.com
-
-Chechen leader Kadyrov vows response after Ukrainian drone hits Grozny, no casualties reut.rs/48BQqM9
-
-[2025-12-06 12:20:14](https://bsky.app/profile/reuters.com/post/3m7c27a7ijm2k)
+[2025-12-06 12:45:53](https://bsky.app/profile/sokuho.news/post/3m7c3n3odaq2d)
 
 ---
 
@@ -72,64 +56,83 @@ Chechen leader Kadyrov vows response after Ukrainian drone hits Grozny, no casua
 
 🛎️NNNより【速報】です。
 
-【速報】「島原学生駅伝」女子は福岡大が先頭でフィニッシュ 13チームがエントリー《長崎》
-(2025-12-06 12:14) #ニュース
+【速報】女子の栄冠は福岡大学に「島原学生駅伝」福岡大が11大会連続14回目の優勝《長崎》
+(2025-12-06 12:37) #ニュース
 
-[2025-12-06 12:14:47](https://bsky.app/profile/sokuho.news/post/3m7bzviep6v2g)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】立憲・野田代表 維新・参政の連携を「論外」とけん制 定数削減とスパイ防止法リンク論に「党利党略すぎる」
-(2025-12-06 12:10) #ニュース
-
-[2025-12-06 12:10:24](https://bsky.app/profile/sokuho.news/post/3m7bznnkq5b2q)
+[2025-12-06 12:42:25](https://bsky.app/profile/sokuho.news/post/3m7c3gvs3yl2w)
 
 ---
 
 @reuters.com
 
-Canada removes Syria from its list of foreign state supporters of terrorism reut.rs/4aznJ50
+Spirit Airlines scraps plan to furlough up to 365 pilots reut.rs/4pRrIya
 
-[2025-12-06 12:10:12](https://bsky.app/profile/reuters.com/post/3m7bznc24s32e)
-
----
-
-@nhknewsunofficial.bsky.social
-
-米・ウクライナ ロシアとの和平案めぐり高官レベルの協議続く
-https://news.web.nhk/newsweb/na/na-k10014995911000
-
-[2025-12-06 12:06:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bzg27slz2k)
+[2025-12-06 12:40:16](https://bsky.app/profile/reuters.com/post/3m7c3d27cdm2d)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-高市首相“「UHC」実現へ世界銀行などと途上国人材育成支援”
-https://news.web.nhk/newsweb/na/na-k10014995991000
+立民 野田代表 大分市の火災現場視察“再建へ財政支援求める”
+https://news.web.nhk/newsweb/na/na-k10014996001000
 
-[2025-12-06 12:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bzfvmfsj2k)
-
----
-
-@wsj.com
-
-The actor, who plays an oil-company fixer, has become a mouthpiece for writer Taylor Sheridan on.wsj.com/4pYmUY9
-
-[2025-12-06 12:04:43](https://bsky.app/profile/wsj.com/post/3m7bzdicvfx2o)
+[2025-12-06 12:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7c3aw76ks2p)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@nikkei.com
 
-山口 宇部市のガス漏れ 供給停止続く 6日も復旧作業
-https://news.web.nhk/newsweb/na/na-k10014995951000
+【人余り職種に偏る年1200億円】
+国主導のリスキリング、3割就職できず
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-06 12:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bzajukmj2k)
+「企業が求めるのはAI関連スキル。職業訓練で学んだのはプログラミングの基礎などでずれが大きかった」
+
+30歳男性は「未経験OK」の募集も不採用が相次ぎました。
+
+[2025-12-06 12:31:57](https://bsky.app/profile/nikkei.com/post/3m7c2u5zoui22)
+
+---
+
+@reuters.com
+
+Arctic blast grips central, northeastern US in sub-freezing cold reut.rs/48VvwJ2
+
+[2025-12-06 12:30:29](https://bsky.app/profile/reuters.com/post/3m7c2rkodnf2i)
+
+---
+
+@aljazeera.com
+
+Relations have soured between former allies Afghanistan and Pakistan since the Taliban returned to power in 2021.
+
+[2025-12-06 12:30:21](https://bsky.app/profile/aljazeera.com/post/3m7c2rcrfwp2c)
+
+---
+
+@nytimes.com
+
+An 18-year-old Harlem man accused of setting a 56-year-old man on fire as he slept on the subway was charged with arson resulting in injury in Federal District Court on Friday.
+
+[2025-12-06 12:30:03](https://bsky.app/profile/nytimes.com/post/3m7c2qri5s52x)
+
+---
+
+@cbsnews.com
+
+Air Force Staff Sgt. Andrew Wolfe is "slowly healing" after last week's shooting in Washington, D.C., West Virginia Gov. Patrick Morrisey said Friday.
+
+"His parents report that his head wound is slowly healing and that he's beginning to 'look more like himself,'" Morrisey said in a statement.
+
+[2025-12-06 12:30:01](https://bsky.app/profile/cbsnews.com/post/3m7c2qpmat52p)
+
+---
+
+@cnn.com
+
+Looking at the weather map on his computer and seeing three tropical storms forming simultaneously across Asia in late November, climatologist Fredolin Tangang’s first thoughts drifted to the 2004 disaster movie “The Day After Tomorrow.”
+
+[2025-12-06 12:26:01](https://bsky.app/profile/cnn.com/post/3m7c2jlarrk2v)
 
 ---
 
