@@ -1,9 +1,9 @@
-# [2025-12-06 15:30 updated](2025_12_06.md)
+# [2025-12-06 15:50 updated](2025_12_06.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Deutsche Bank to move into Revolut’s Canary Wharf headquarters on.ft.com/4pQuRyn <a href="https://bsky.app/profile/financialtimes.com/post/3m7ceoymfcz26" target="_blank">financialtimes.com</a> (2025-12-06 15:28:00)</span><span style="padding-right:50px;">San Diego to pay $30 million to family of teenager shot dead by police reut.rs/48nBZwr <a href="https://bsky.app/profile/reuters.com/post/3m7cejtbb6o2e" target="_blank">reuters.com</a> (2025-12-06 15:25:07)</span><span style="padding-right:50px;">India's Biocon to make Biocon Biologics a wholly owned subsidiary reut.rs/3MIj2fe <a href="https://bsky.app/profile/reuters.com/post/3m7cdy2omcv2y" target="_blank">reuters.com</a> (2025-12-06 15:15:11)</span><span style="padding-right:50px;">Penn State set to hire Iowa State's Matt Campbell as head coach reut.rs/4476Evq <a href="https://bsky.app/profile/reuters.com/post/3m7cdp2nk2627" target="_blank">reuters.com</a> (2025-12-06 15:10:09)</span><span style="padding-right:50px;">Ravens QB Lamar Jackson returns to practice, set to face Steelers reut.rs/3Mn0jWu <a href="https://bsky.app/profile/reuters.com/post/3m7cdg5jq2q2i" target="_blank">reuters.com</a> (2025-12-06 15:05:10)</span>
+<span style="padding-right:50px;">Deutsche Bank to move into Revolut's Canary Wharf headquarters, FT reports reut.rs/4oH3k1k <a href="https://bsky.app/profile/reuters.com/post/3m7cfnqanii27" target="_blank">reuters.com</a> (2025-12-06 15:45:12)</span><span style="padding-right:50px;">China, Macao upgrade currency swap to long-term standing swap deal reut.rs/48ExyMo <a href="https://bsky.app/profile/reuters.com/post/3m7cfepd4pk2i" target="_blank">reuters.com</a> (2025-12-06 15:40:09)</span><span style="padding-right:50px;">NBA roundup: Kevin Durant hits 31K career points in Rockets' win reut.rs/48nkufz <a href="https://bsky.app/profile/reuters.com/post/3m7cf3romup2a" target="_blank">reuters.com</a> (2025-12-06 15:35:09)</span><span style="padding-right:50px;">US signs $228 mln deal with Rwanda for health under new aid model reut.rs/4pWpwFW <a href="https://bsky.app/profile/reuters.com/post/3m7cetaxk7v27" target="_blank">reuters.com</a> (2025-12-06 15:30:23)</span><span style="padding-right:50px;">World leaders, high-level diplomats and business executives take part in annual platform held in Qatar's capital. <a href="https://bsky.app/profile/aljazeera.com/post/3m7ceszwbc72c" target="_blank">aljazeera.com</a> (2025-12-06 15:30:16)</span>
   </div>
 </div>
 
@@ -32,14 +32,54 @@
 
 ## News Headlines
 
-1. ドイツ銀行、Revolutのカナリーワーフ本社に移転
-2. サンディエゴ、警察に射殺された10代の遺族に3000万ドル支払い
-3. ニトリ、北斎「雪中美人図」を6億2100万円で落札、史上最高額
-4. 山形新幹線、停電で米沢～山形間で運転見合わせ
-5. ヴァンラーレ八戸 石﨑信弘監督が退任、J2昇格に導いた名将
-6. 元DEA高官、麻薬密売と資金洗浄の罪で起訴
+1. ドイツ銀行、Revolutのカナリーワーフ本社に移転へ
+2. 中国・マカオ、通貨スワップ協定を長期化
+3. 米国、ルワンダと2億2800万ドルの医療支援契約を締結
+4. ニトリ、北斎「雪中美人図」を史上最高額6.2億円で落札
+5. 山形新幹線、米沢～山形間で停電のため運転見合わせ
+6. 八戸石﨑監督が退任、J2昇格導いた名将
 
 ----
+
+@reuters.com
+
+Deutsche Bank to move into Revolut's Canary Wharf headquarters, FT reports reut.rs/4oH3k1k
+
+[2025-12-06 15:45:12](https://bsky.app/profile/reuters.com/post/3m7cfnqanii27)
+
+---
+
+@reuters.com
+
+China, Macao upgrade currency swap to long-term standing swap deal reut.rs/48ExyMo
+
+[2025-12-06 15:40:09](https://bsky.app/profile/reuters.com/post/3m7cfepd4pk2i)
+
+---
+
+@reuters.com
+
+NBA roundup: Kevin Durant hits 31K career points in Rockets' win reut.rs/48nkufz
+
+[2025-12-06 15:35:09](https://bsky.app/profile/reuters.com/post/3m7cf3romup2a)
+
+---
+
+@reuters.com
+
+US signs $228 mln deal with Rwanda for health under new aid model reut.rs/4pWpwFW
+
+[2025-12-06 15:30:23](https://bsky.app/profile/reuters.com/post/3m7cetaxk7v27)
+
+---
+
+@aljazeera.com
+
+World leaders, high-level diplomats and business executives take part in annual platform held in Qatar's capital.
+
+[2025-12-06 15:30:16](https://bsky.app/profile/aljazeera.com/post/3m7ceszwbc72c)
+
+---
 
 @financialtimes.com
 
@@ -78,53 +118,6 @@ Penn State set to hire Iowa State's Matt Campbell as head coach reut.rs/4476Evq
 Ravens QB Lamar Jackson returns to practice, set to face Steelers reut.rs/3Mn0jWu
 
 [2025-12-06 15:05:10](https://bsky.app/profile/reuters.com/post/3m7cdg5jq2q2i)
-
----
-
-@wsj.com
-
-Warner CEO David Zaslav has often been a punching bag for Hollywood. Now he is shaking up the industry with a blockbuster deal.
-
-[2025-12-06 15:03:10](https://bsky.app/profile/wsj.com/post/3m7cdckz2kf2i)
-
----
-
-@nikkei.com
-
-ニトリ、葛飾北斎の肉筆画「雪中美人図」を6億2100万円で落札（無料記事）
-www.nikkei.com/article/DGXZQO...
-
-北斎作品の落札額としては史上最高額といいます。
-
-似鳥文化財団が運営する小樽芸術村・浮世絵美術館で今後展示される予定です。
-
-2025年11月 #注目された記事
-
-[2025-12-06 15:01:57](https://bsky.app/profile/nikkei.com/post/3m7cdafk4ff2m)
-
----
-
-@wsj.com
-
-Takeaways from Robert F. Kennedy Jr.’s vaccine panel: Over a two-day meeting in Atlanta, the panel aired its rethinking of the full slate of childhood vaccines.
-
-[2025-12-06 15:01:37](https://bsky.app/profile/wsj.com/post/3m7cd7sgch724)
-
----
-
-@cnn.com
-
-New Zealand Police said they have recovered a James Bond-inspired Fabergé pendant after six days of closely watching the man accused of swallowing the jewelry in an Auckland store. 
-
-[2025-12-06 15:01:01](https://bsky.app/profile/cnn.com/post/3m7cd6qck372n)
-
----
-
-@wsj.com
-
-Piece by piece, Netflix has disrupted a more-than-century-old industry. Now it’s buying some of Hollywood’s most iconic properties.
-
-[2025-12-06 15:00:48](https://bsky.app/profile/wsj.com/post/3m7cd6efbw52i)
 
 ---
 
