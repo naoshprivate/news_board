@@ -1,9 +1,9 @@
-# [2025-12-07 02:50 updated](2025_12_07.md)
+# [2025-12-07 03:10 updated](2025_12_07.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Michael Annett, retired Xfinity racer, dies at 39 reut.rs/3MJqczP <a href="https://bsky.app/profile/reuters.com/post/3m7dkjwbtd62w" target="_blank">reuters.com</a> (2025-12-07 02:45:12)</span><span style="padding-right:50px;">Instagram’s new repost feature has led to frustration and accidental reposts by some users. It’s easy to undo a share — just tap the repost button a second time. <a href="https://bsky.app/profile/nytimes.com/post/3m7dkjoa67m2g" target="_blank">nytimes.com</a> (2025-12-07 02:45:04)</span><span style="padding-right:50px;">Manchester City narrow gap in table with dominant win over Sunderland reut.rs/4a0f4IL <a href="https://bsky.app/profile/reuters.com/post/3m7dkb66l2r2k" target="_blank">reuters.com</a> (2025-12-07 02:40:19)</span><span style="padding-right:50px;">Report: Travis Kelce, Taylor Swift to wed on June 13 reut.rs/48ogI5N <a href="https://bsky.app/profile/reuters.com/post/3m7djxvoeyt27" target="_blank">reuters.com</a> (2025-12-07 02:35:08)</span><span style="padding-right:50px;">About 3 million glucose monitoring sensors were potentially affected by a production error that caused incorrect low glucose readings. n.pr/4pQYNub <a href="https://bsky.app/profile/npr.org/post/3m7djt4ajxa2o" target="_blank">npr.org</a> (2025-12-07 02:32:27)</span>
+<span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】中国軍の戦闘機が自衛隊機にレーダー照射 政府は中国側に強く抗議 (2025年12月7日 03:08) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7dltcvpjc2m" target="_blank">sokuho.news</a> (2025-12-07 03:08:21)</span><span style="padding-right:50px;">Motor racing–McLaren's Piastri not giving up on taking title from third on grid reut.rs/4pgFQRM <a href="https://bsky.app/profile/reuters.com/post/3m7dlnjfow622" target="_blank">reuters.com</a> (2025-12-07 03:05:07)</span><span style="padding-right:50px;">National Guardsman 'slowly healing' after being shot in Washington DC <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7dln2pta62m" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-07 03:04:51)</span><span style="padding-right:50px;">Deadly attack on kindergarten reported in Sudan  <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7dlip3yoa2x" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-07 03:02:24)</span><span style="padding-right:50px;">For years he lived a double life, secretly making anti-Communist paintings. He found fame in the late 1980s, once his work was shown outside the Soviet Union. www.nytimes.com/2025/12/05/a... <a href="https://bsky.app/profile/mikerosenwald.bsky.social/post/3m7dlh54src2j" target="_blank">mikerosenwald.bsky.social</a> (2025-12-07 03:01:33)</span>
   </div>
 </div>
 
@@ -32,97 +32,99 @@
 
 ## News Headlines
 
-1. 元Xfinityレーサー、マイケル・アネット氏が39歳で死去
-2. 中国軍戦闘機が自衛隊機にレーダー照射、日本政府が強く抗議
-3. グルコースモニタリングセンサー約300万個に不具合、低血糖値を誤表示の可能性
-4. アップルで大規模な人事異動、幹部や主要エンジニアが相次ぎ退社
-5. ネフリックスとワーナー・ブラザース・ディスカバリーの契約に関する業界専門家の見解
-6. 東京・錦糸町の風俗店冷蔵庫から乳児遺体、警視庁が捜査
+1.  中国軍戦闘機、自衛隊機にレーダー照射　政府が強く抗議
+2.  スーダンで幼稚園が襲撃、多数死傷
+3.  トランプ氏、ソマリア移民を「ゴミ」呼ばわり　批判噴出
+4.  アストン・ビラがアーセナル撃破　プレミアリーグ優勝争い激化
+5.  米沿岸警備隊、20年ぶり大規模なコカイン押収
+6.  アップル、幹部・エンジニアが相次ぎ退社　大規模な人事異動
 
 ----
 
-@reuters.com
+@sokuho.news
 
-Michael Annett, retired Xfinity racer, dies at 39 reut.rs/3MJqczP
+🔔ANNより【速報】です。
 
-[2025-12-07 02:45:12](https://bsky.app/profile/reuters.com/post/3m7dkjwbtd62w)
+【速報】中国軍の戦闘機が自衛隊機にレーダー照射 政府は中国側に強く抗議
+(2025年12月7日 03:08) #ニュース
 
----
-
-@nytimes.com
-
-Instagram’s new repost feature has led to frustration and accidental reposts by some users. It’s easy to undo a share — just tap the repost button a second time.
-
-[2025-12-07 02:45:04](https://bsky.app/profile/nytimes.com/post/3m7dkjoa67m2g)
+[2025-12-07 03:08:21](https://bsky.app/profile/sokuho.news/post/3m7dltcvpjc2m)
 
 ---
 
 @reuters.com
 
-Manchester City narrow gap in table with dominant win over Sunderland reut.rs/4a0f4IL
+Motor racing–McLaren's Piastri not giving up on taking title from third on grid reut.rs/4pgFQRM
 
-[2025-12-07 02:40:19](https://bsky.app/profile/reuters.com/post/3m7dkb66l2r2k)
-
----
-
-@reuters.com
-
-Report: Travis Kelce, Taylor Swift to wed on June 13 reut.rs/48ogI5N
-
-[2025-12-07 02:35:08](https://bsky.app/profile/reuters.com/post/3m7djxvoeyt27)
+[2025-12-07 03:05:07](https://bsky.app/profile/reuters.com/post/3m7dlnjfow622)
 
 ---
 
-@npr.org
+@bbcnews-world-rss.bsky.social
 
-About 3 million glucose monitoring sensors were potentially affected by a production error that caused incorrect low glucose readings. n.pr/4pQYNub
+National Guardsman 'slowly healing' after being shot in Washington DC
 
-[2025-12-07 02:32:27](https://bsky.app/profile/npr.org/post/3m7djt4ajxa2o)
+[2025-12-07 03:04:51](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7dln2pta62m)
 
 ---
 
-@bloomberg.com
+@bbcnews-world-rss.bsky.social
 
-Cowboy culture is the aesthetic of the moment. We rounded up a dozen gift ideas that will help you channel that Western flair.
+Deadly attack on kindergarten reported in Sudan 
 
-[2025-12-07 02:31:06](https://bsky.app/profile/bloomberg.com/post/3m7djqov3wg2y)
+[2025-12-07 03:02:24](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7dlip3yoa2x)
+
+---
+
+@mikerosenwald.bsky.social
+
+For years he lived a double life, secretly making anti-Communist paintings. He found fame in the late 1980s, once his work was shown outside the Soviet Union. www.nytimes.com/2025/12/05/a...
+
+[2025-12-07 03:01:33](https://bsky.app/profile/mikerosenwald.bsky.social/post/3m7dlh54src2j)
 
 ---
 
 @usatoday.com
 
-Could a Buc-ee's be coming near you in 2026? See new locations.
+Trump blasted Somali immigrants as 'garbage' he doesn't want in the country. But Minnesota officials called the criticism 'racism' and 'un-American.'
 
-[2025-12-07 02:30:34](https://bsky.app/profile/usatoday.com/post/3m7djpqjtez2p)
+[2025-12-07 03:01:08](https://bsky.app/profile/usatoday.com/post/3m7dlgf65z22m)
 
 ---
 
 @reuters.com
 
-Aston Villa on a roll but Emery plays down title talk reut.rs/48CJIoX
+Reitan holds five-shot lead ahead of final round at Sun City reut.rs/3MeOXUF
 
-[2025-12-07 02:30:25](https://bsky.app/profile/reuters.com/post/3m7djpiaueg2w)
-
----
-
-@bloomberg.com
-
-Apple, long the model of stability in Silicon Valley, is suddenly undergoing its biggest personnel shake-up in decades, with senior executives and key engineers both hitting the exits.
-
-Read more: bloom.bg/4rG7md7
-
-📷️: Brooks Kraft/Apple
-
-[2025-12-07 02:30:14](https://bsky.app/profile/bloomberg.com/post/3m7djp57wuv2d)
+[2025-12-07 03:00:53](https://bsky.app/profile/reuters.com/post/3m7dlfxtqxf27)
 
 ---
 
-@cnn.com
+@washingtonpost.com
 
-"No politician in modern history has held as much sway over his base as President Donald Trump and perhaps nothing has mattered more to his political career than that," writes Aaron Blake | Analysis
-https://cnn.it/4pNBGAB
+An Apache girl comes of age in a traditional ceremony.
 
-[2025-12-07 02:30:07](https://bsky.app/profile/cnn.com/post/3m7djowgdry2q)
+The Post followed 11-year-old Lozen through her Sunrise Dance ceremony, possibly the last at Oak Flat in Arizona before the area is reopened to copper mining. 
+
+[2025-12-07 03:00:18](https://bsky.app/profile/washingtonpost.com/post/3m7dlew5s7p23)
+
+---
+
+@apnews.com
+
+Russia unleashed a major missile and drone barrage on Ukraine overnight into Saturday, after U.S. and Ukrainian officials said they’ll meet on Saturday for a third day of talks aimed at ending the nearly 4-year-old war.
+
+[2025-12-07 03:00:18](https://bsky.app/profile/apnews.com/post/3m7dlevtr4x2j)
+
+---
+
+@en.afp.com
+
+Aston Villa ended Arsenal's 18-match unbeaten run to blow the Premier League title race wide open on Saturday as Manchester City beat Sunderland 3-0 to close within two points of the leaders.
+
+u.afp.com/S7it
+
+[2025-12-07 03:00:13](https://bsky.app/profile/en.afp.com/post/3m7dler2zii2z)
 
 ---
 
