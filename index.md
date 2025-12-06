@@ -1,9 +1,9 @@
-# [2025-12-07 01:30 updated](2025_12_07.md)
+# [2025-12-07 01:50 updated](2025_12_07.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">In @nytopinion.nytimes.com  The recent shooting in Washington, D.C., “was horrific, and the perpetrator should be punished to the full extent of the law,” Amanda Frost writes in a guest essay. “But collective punishment is just the sort of bigotry that the nation rejected decades ago.” <a href="https://bsky.app/profile/nytimes.com/post/3m7dg2m72372y" target="_blank">nytimes.com</a> (2025-12-07 01:25:03)</span><span style="padding-right:50px;">Indiana, the school and state synonymous with basketball, is now a pigskin powerhouse on the precipice of its second straight College Football Playoff.  Did Hoosiers fans ever expect this?  "Hell no," Mark Cuban, a 1981 alum, told NBC News. <a href="https://bsky.app/profile/nbcnews.com/post/3m7dg2fay6s2j" target="_blank">nbcnews.com</a> (2025-12-07 01:24:56)</span><span style="padding-right:50px;">政府・与党 「研究開発税制」 減税の対象を見直しへ https://news.web.nhk/newsweb/na/na-k10014996191000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7dftiu23l2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-07 01:21:03)</span><span style="padding-right:50px;">🇵🇰 Winter smog blankets Pakistan's capital  Pakistan regularly ranks among the world's most polluted countries. Experts say the pollution is primarily caused by factory and traffic emissions, worsening in winter as cooler temperatures and slow-moving winds trap the deadly pollutants. <a href="https://bsky.app/profile/en.afp.com/post/3m7dfsmre4s2c" target="_blank">en.afp.com</a> (2025-12-07 01:20:36)</span><span style="padding-right:50px;">Booker Prize-winner Salman Rushdie discusses surviving a knife attack, returning to fiction and the challenge of defending freedom of expression, in this week's interview with Mishal Husain.  Read more: bloom.bg/4ovohMx  📷️: Jose Sarmento Matos/Bloomberg <a href="https://bsky.app/profile/bloomberg.com/post/3m7dfitusy42y" target="_blank">bloomberg.com</a> (2025-12-07 01:15:08)</span>
+<span style="padding-right:50px;">Kohli credits 'most satisfying' series as he rediscovers his best form in years reut.rs/4pjP8wj <a href="https://bsky.app/profile/reuters.com/post/3m7dh6nwzfi2k" target="_blank">reuters.com</a> (2025-12-07 01:45:13)</span><span style="padding-right:50px;">🇸🇦 Nuts and beer: booze-free bar offers Saudis a pub vibe  In Riyadh, women in niqabs and men in traditional white robes sip alcohol-free pints, with no expectation of a hangover. The incongruous scene signals the changes under way in the conservative kingdom which banned alcohol in 1952. <a href="https://bsky.app/profile/en.afp.com/post/3m7dgwd3iib2z" target="_blank">en.afp.com</a> (2025-12-07 01:40:34)</span><span style="padding-right:50px;">Tunisians step up protests against Saied's crackdown on opposition reut.rs/48TXl4t <a href="https://bsky.app/profile/reuters.com/post/3m7dgvp4cji2i" target="_blank">reuters.com</a> (2025-12-07 01:40:12)</span><span style="padding-right:50px;">Report: Mississippi State bringing back Zach Arnett as DC reut.rs/4psCzPq <a href="https://bsky.app/profile/reuters.com/post/3m7dgmliwt322" target="_blank">reuters.com</a> (2025-12-07 01:35:07)</span><span style="padding-right:50px;">🇹🇷 Efforts to broker peace between Turkey and the Kurdish militant group PKK have had a "positive impact" on Syria's Kurds who also want dialogue with Ankara, one of its top officials said Saturday.  ➡️ u.afp.com/S7ir <a href="https://bsky.app/profile/en.afp.com/post/3m7dgfbkrbf2j" target="_blank">en.afp.com</a> (2025-12-07 01:31:02)</span>
   </div>
 </div>
 
@@ -32,107 +32,104 @@
 
 ## News Headlines
 
-1. D.C.銃撃事件、集団的処罰は拒否されるべき
-2. インディアナ大学、バスケ強豪からアメフト強豪へ
-3. 政府・与党、研究開発税制を見直しへ
-4. パキスタン首都、深刻なスモッグに覆われる
-5. ガザ地区でイスラエル軍の攻撃、少なくとも7人のパレスチナ人が死亡
-6. F1アブダビGP、フェルスタッペンがポールポジション獲得
+1. コーリ、最高のフォームを再発見し「最も満足のいく」シリーズと評価
+2. サウジ、アルコールフリーバーで伝統的な雰囲気を
+3. チュニジア、サイード大統領の反対派弾圧に抗議激化
+4. 南アフリカ、プレトリアの違法バーで銃撃事件、子供含む25人死傷
+5. Netflix、590億ドルのブリッジローンで大型買収へ
+6. 東京・墨田区の風俗店で赤ちゃんの遺体発見、警視庁が捜査
 
 ----
 
-@nytimes.com
+@reuters.com
 
-In @nytopinion.nytimes.com
+Kohli credits 'most satisfying' series as he rediscovers his best form in years reut.rs/4pjP8wj
 
-The recent shooting in Washington, D.C., “was horrific, and the perpetrator should be punished to the full extent of the law,” Amanda Frost writes in a guest essay. “But collective punishment is just the sort of bigotry that the nation rejected decades ago.”
-
-[2025-12-07 01:25:03](https://bsky.app/profile/nytimes.com/post/3m7dg2m72372y)
-
----
-
-@nbcnews.com
-
-Indiana, the school and state synonymous with basketball, is now a pigskin powerhouse on the precipice of its second straight College Football Playoff.
-
-Did Hoosiers fans ever expect this?
-
-"Hell no," Mark Cuban, a 1981 alum, told NBC News.
-
-[2025-12-07 01:24:56](https://bsky.app/profile/nbcnews.com/post/3m7dg2fay6s2j)
-
----
-
-@nhknewsunofficial.bsky.social
-
-政府・与党 「研究開発税制」 減税の対象を見直しへ
-https://news.web.nhk/newsweb/na/na-k10014996191000
-
-[2025-12-07 01:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7dftiu23l2j)
+[2025-12-07 01:45:13](https://bsky.app/profile/reuters.com/post/3m7dh6nwzfi2k)
 
 ---
 
 @en.afp.com
 
-🇵🇰 Winter smog blankets Pakistan's capital
+🇸🇦 Nuts and beer: booze-free bar offers Saudis a pub vibe
 
-Pakistan regularly ranks among the world's most polluted countries. Experts say the pollution is primarily caused by factory and traffic emissions, worsening in winter as cooler temperatures and slow-moving winds trap the deadly pollutants.
+In Riyadh, women in niqabs and men in traditional white robes sip alcohol-free pints, with no expectation of a hangover. The incongruous scene signals the changes under way in the conservative kingdom which banned alcohol in 1952.
 
-[2025-12-07 01:20:36](https://bsky.app/profile/en.afp.com/post/3m7dfsmre4s2c)
+[2025-12-07 01:40:34](https://bsky.app/profile/en.afp.com/post/3m7dgwd3iib2z)
 
 ---
 
-@bloomberg.com
+@reuters.com
 
-Booker Prize-winner Salman Rushdie discusses surviving a knife attack, returning to fiction and the challenge of defending freedom of expression, in this week's interview with Mishal Husain.
+Tunisians step up protests against Saied's crackdown on opposition reut.rs/48TXl4t
 
-Read more: bloom.bg/4ovohMx
+[2025-12-07 01:40:12](https://bsky.app/profile/reuters.com/post/3m7dgvp4cji2i)
 
-📷️: Jose Sarmento Matos/Bloomberg
+---
 
-[2025-12-07 01:15:08](https://bsky.app/profile/bloomberg.com/post/3m7dfitusy42y)
+@reuters.com
+
+Report: Mississippi State bringing back Zach Arnett as DC reut.rs/4psCzPq
+
+[2025-12-07 01:35:07](https://bsky.app/profile/reuters.com/post/3m7dgmliwt322)
+
+---
+
+@en.afp.com
+
+🇹🇷 Efforts to broker peace between Turkey and the Kurdish militant group PKK have had a "positive impact" on Syria's Kurds who also want dialogue with Ankara, one of its top officials said Saturday. 
+➡️ u.afp.com/S7ir
+
+[2025-12-07 01:31:02](https://bsky.app/profile/en.afp.com/post/3m7dgfbkrbf2j)
 
 ---
 
 @usatoday.com
 
-Visit  for a one-stop hub for daily puzzles, crosswords, and brain teasers designed to keep your mind active and your mood lifted.
+"Real Housewives of Beverly Hills" star Kyle Richards tells USA TODAY about her separation, dating rumors and questions about her love life.
 
-[2025-12-07 01:15:07](https://bsky.app/profile/usatoday.com/post/3m7dfitliog2t)
+[2025-12-07 01:30:19](https://bsky.app/profile/usatoday.com/post/3m7dgdyljpy2u)
 
 ---
 
 @aljazeera.com
 
-<strong><span style="color: red;">BREAKING:</span> At least seven Palestinians have been killed by Israeli fire in Gaza City and northern areas as Israel continues attacks across the so-called yellow line truce demarcation.</strong><br><strong></strong><br><strong>🔴 LIVE updates: aje.io/p5c13r</strong>
+Police say 25 people were shot at 'illegal' bar in hostel in Pretoria, with three children among the dead.
 
-[2025-12-07 01:15:01](https://bsky.app/profile/aljazeera.com/post/3m7dfinp5xs2g)
-
----
-
-@en.afp.com
-
-🏎️ Red Bull's Max Verstappen outgunned his two title rivals from McLaren to take pole position for the season-ending Abu Dhabi Grand Prix and strengthen his bid for a fifth successive title. 
-#AFPSports 
-u.afp.com/S7iR
-
-[2025-12-07 01:10:02](https://bsky.app/profile/en.afp.com/post/3m7df7q5li725)
+[2025-12-07 01:30:13](https://bsky.app/profile/aljazeera.com/post/3m7dgdtpqd22k)
 
 ---
 
-@nytimes.com
+@cnn.com
 
-These ultra-fudgy brownies take the elements of Vietnamese coffee — espresso and sweetened condensed milk — and turn them into dessert. nyti.ms/4rMxenM
+Competing for Team Canada, Ryan Wedding finished as the 24th-best parallel giant slalom snowboarder in the world at the 2002 Winter Olympics.
 
-[2025-12-07 01:06:06](https://bsky.app/profile/nytimes.com/post/3m7deyplk6j26)
+Over two decades later, he's now part of another distinctive group: The FBI's Ten Most Wanted Fugitives.
+https://cnn.it/48tnoy0
+
+[2025-12-07 01:30:08](https://bsky.app/profile/cnn.com/post/3m7dgdoszws2i)
 
 ---
 
-@yahoofinance.com
+@bloomberg.com
 
-Working while collecting Social Security: The 'slow fade' to retirement more people are choosing
+While most Americans were watching football and feasting on turkey, Netflix executives and advisers hunkered down to finalize a binding offer and a $59 billion bridge loan from banks. Read more: bloom.bg/3KAELoT
 
-[2025-12-07 01:06:06](https://bsky.app/profile/yahoofinance.com/post/3m7deyplowy2m)
+📷️: Ethan Swope/Bloomberg
+
+[2025-12-07 01:30:08](https://bsky.app/profile/bloomberg.com/post/3m7dgdoklkx2h)
+
+---
+
+@washingtonpost.com
+
+Rosie O'Donnell moved to Ireland to escape the emotional toll of Donald Trump’s presidency.
+
+In Ireland, she found solace and a renewed connection to her craft, despite her ongoing fixation with Trump.
+
+Here’s what she’s been up to: 
+
+[2025-12-07 01:30:07](https://bsky.app/profile/washingtonpost.com/post/3m7dgdnq6qj23)
 
 ---
 
