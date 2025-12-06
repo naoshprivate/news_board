@@ -1,9 +1,9 @@
-# [2025-12-07 02:30 updated](2025_12_07.md)
+# [2025-12-07 02:50 updated](2025_12_07.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】中国海軍の空母艦載機が空自戦闘機に断続的にレーダー照射 小泉防衛大臣「中国側に強く抗議」 (2025-12-07 02:26:25) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7djmxkl3p27" target="_blank">sokuho.news</a> (2025-12-07 02:29:01)</span><span style="padding-right:50px;">🔔NHKより【速報 JUST IN】です。  中国軍戦闘機が自衛隊機にレーダー照射 強く抗議 小泉防衛相 (2025-12-07 02:22:10) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7djim3grd2y" target="_blank">sokuho.news</a> (2025-12-07 02:26:34)</span><span style="padding-right:50px;">Blunt Bournemouth and Chelsea play to 0-0 draw reut.rs/3Mk8PFQ <a href="https://bsky.app/profile/reuters.com/post/3m7djg33o672e" target="_blank">reuters.com</a> (2025-12-07 02:25:10)</span><span style="padding-right:50px;">🔔NHKより【速報】です。  中国軍戦闘機が自衛隊戦闘機に レーダー照射 強く抗議 小泉防衛相 (2025-12-07 02:24) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7djeoqyih2x" target="_blank">sokuho.news</a> (2025-12-07 02:24:23)</span><span style="padding-right:50px;">How the human behind Tilly Norwood brought her to digital life. on.wsj.com/4a1O7UX <a href="https://bsky.app/profile/wsj.com/post/3m7dj52xi6w22" target="_blank">wsj.com</a> (2025-12-07 02:20:07)</span>
+<span style="padding-right:50px;">Michael Annett, retired Xfinity racer, dies at 39 reut.rs/3MJqczP <a href="https://bsky.app/profile/reuters.com/post/3m7dkjwbtd62w" target="_blank">reuters.com</a> (2025-12-07 02:45:12)</span><span style="padding-right:50px;">Instagram’s new repost feature has led to frustration and accidental reposts by some users. It’s easy to undo a share — just tap the repost button a second time. <a href="https://bsky.app/profile/nytimes.com/post/3m7dkjoa67m2g" target="_blank">nytimes.com</a> (2025-12-07 02:45:04)</span><span style="padding-right:50px;">Manchester City narrow gap in table with dominant win over Sunderland reut.rs/4a0f4IL <a href="https://bsky.app/profile/reuters.com/post/3m7dkb66l2r2k" target="_blank">reuters.com</a> (2025-12-07 02:40:19)</span><span style="padding-right:50px;">Report: Travis Kelce, Taylor Swift to wed on June 13 reut.rs/48ogI5N <a href="https://bsky.app/profile/reuters.com/post/3m7djxvoeyt27" target="_blank">reuters.com</a> (2025-12-07 02:35:08)</span><span style="padding-right:50px;">About 3 million glucose monitoring sensors were potentially affected by a production error that caused incorrect low glucose readings. n.pr/4pQYNub <a href="https://bsky.app/profile/npr.org/post/3m7djt4ajxa2o" target="_blank">npr.org</a> (2025-12-07 02:32:27)</span>
   </div>
 </div>
 
@@ -32,103 +32,97 @@
 
 ## News Headlines
 
-1.  中国軍機、自衛隊機にレーダー照射　防衛相が強く抗議
-2.  錦糸町の風俗店冷蔵庫から赤ちゃんの遺体　警視庁が捜査
-3.  トランプ大統領の支持率が低下　経済政策への不満が原因
-4.  サウジアラビア、アルコールなしのバーが人気　社会の変化を象徴
-5.  フランス大統領、ウクライナ大統領らと会談へ　米国主導の交渉を協議
-6.  FBI最重要指名手配犯に元五輪スノーボーダー
+1. 元Xfinityレーサー、マイケル・アネット氏が39歳で死去
+2. 中国軍戦闘機が自衛隊機にレーダー照射、日本政府が強く抗議
+3. グルコースモニタリングセンサー約300万個に不具合、低血糖値を誤表示の可能性
+4. アップルで大規模な人事異動、幹部や主要エンジニアが相次ぎ退社
+5. ネフリックスとワーナー・ブラザース・ディスカバリーの契約に関する業界専門家の見解
+6. 東京・錦糸町の風俗店冷蔵庫から乳児遺体、警視庁が捜査
 
 ----
 
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】中国海軍の空母艦載機が空自戦闘機に断続的にレーダー照射 小泉防衛大臣「中国側に強く抗議」
-(2025-12-07 02:26:25) #ニュース
-
-[2025-12-07 02:29:01](https://bsky.app/profile/sokuho.news/post/3m7djmxkl3p27)
-
----
-
-@sokuho.news
-
-<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>中国軍戦闘機が自衛隊機にレーダー照射 強く抗議 小泉防衛相</strong><br><strong>(2025-12-07 02:22:10) #ニュース</strong>
-
-[2025-12-07 02:26:34](https://bsky.app/profile/sokuho.news/post/3m7djim3grd2y)
-
----
-
 @reuters.com
 
-Blunt Bournemouth and Chelsea play to 0-0 draw reut.rs/3Mk8PFQ
+Michael Annett, retired Xfinity racer, dies at 39 reut.rs/3MJqczP
 
-[2025-12-07 02:25:10](https://bsky.app/profile/reuters.com/post/3m7djg33o672e)
-
----
-
-@sokuho.news
-
-🔔NHKより【速報】です。
-
-中国軍戦闘機が自衛隊戦闘機に レーダー照射 強く抗議 小泉防衛相
-(2025-12-07 02:24) #ニュース
-
-[2025-12-07 02:24:23](https://bsky.app/profile/sokuho.news/post/3m7djeoqyih2x)
-
----
-
-@wsj.com
-
-How the human behind Tilly Norwood brought her to digital life. on.wsj.com/4a1O7UX
-
-[2025-12-07 02:20:07](https://bsky.app/profile/wsj.com/post/3m7dj52xi6w22)
-
----
-
-@nhknewsunofficial.bsky.social
-
-中国軍戦闘機が自衛隊戦闘機に2度にわたりレーダー照射 防衛省
-https://news.web.nhk/newsweb/na/na-k10014996291000
-
-[2025-12-07 02:18:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7dizg3kvo2p)
-
----
-
-@sokuho.news
-
-<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>中国軍戦闘機が自衛隊戦闘機に2度にわたりレーダー照射 防衛省</strong><br><strong>(2025-12-07 02:16:07) #ニュース</strong><br><strong>https://news.web.nhk/newsweb/na/na-k10014996291000</strong>
-
-[2025-12-07 02:16:35](https://bsky.app/profile/sokuho.news/post/3m7diwqvecw24)
-
----
-
-@usatoday.com
-
-American approval ratings of President Donald Trump have fallen slightly, according to a new analysis of public polling compiled by The New York Times.
-
-The reason? A greater share of poll respondents blamed the president’s handling of the economy.
-
-Read more: bit.ly/3XB9lBN
-
-[2025-12-07 02:15:15](https://bsky.app/profile/usatoday.com/post/3m7diudqigh2t)
-
----
-
-@reuters.com
-
-Substitute Kane scores hat-trick in Bayern's 5-0 demolition of hosts  Stuttgart reut.rs/48mZYM7
-
-[2025-12-07 02:15:13](https://bsky.app/profile/reuters.com/post/3m7diucdmfo2i)
+[2025-12-07 02:45:12](https://bsky.app/profile/reuters.com/post/3m7dkjwbtd62w)
 
 ---
 
 @nytimes.com
 
-Wool coats are a stylish way to keep warm. We tested more than 20 coats to find quality pieces that are comfortable, stylish, and built to last.
+Instagram’s new repost feature has led to frustration and accidental reposts by some users. It’s easy to undo a share — just tap the repost button a second time.
 
-[2025-12-07 02:14:03](https://bsky.app/profile/nytimes.com/post/3m7dis7l2uh2l)
+[2025-12-07 02:45:04](https://bsky.app/profile/nytimes.com/post/3m7dkjoa67m2g)
+
+---
+
+@reuters.com
+
+Manchester City narrow gap in table with dominant win over Sunderland reut.rs/4a0f4IL
+
+[2025-12-07 02:40:19](https://bsky.app/profile/reuters.com/post/3m7dkb66l2r2k)
+
+---
+
+@reuters.com
+
+Report: Travis Kelce, Taylor Swift to wed on June 13 reut.rs/48ogI5N
+
+[2025-12-07 02:35:08](https://bsky.app/profile/reuters.com/post/3m7djxvoeyt27)
+
+---
+
+@npr.org
+
+About 3 million glucose monitoring sensors were potentially affected by a production error that caused incorrect low glucose readings. n.pr/4pQYNub
+
+[2025-12-07 02:32:27](https://bsky.app/profile/npr.org/post/3m7djt4ajxa2o)
+
+---
+
+@bloomberg.com
+
+Cowboy culture is the aesthetic of the moment. We rounded up a dozen gift ideas that will help you channel that Western flair.
+
+[2025-12-07 02:31:06](https://bsky.app/profile/bloomberg.com/post/3m7djqov3wg2y)
+
+---
+
+@usatoday.com
+
+Could a Buc-ee's be coming near you in 2026? See new locations.
+
+[2025-12-07 02:30:34](https://bsky.app/profile/usatoday.com/post/3m7djpqjtez2p)
+
+---
+
+@reuters.com
+
+Aston Villa on a roll but Emery plays down title talk reut.rs/48CJIoX
+
+[2025-12-07 02:30:25](https://bsky.app/profile/reuters.com/post/3m7djpiaueg2w)
+
+---
+
+@bloomberg.com
+
+Apple, long the model of stability in Silicon Valley, is suddenly undergoing its biggest personnel shake-up in decades, with senior executives and key engineers both hitting the exits.
+
+Read more: bloom.bg/4rG7md7
+
+📷️: Brooks Kraft/Apple
+
+[2025-12-07 02:30:14](https://bsky.app/profile/bloomberg.com/post/3m7djp57wuv2d)
+
+---
+
+@cnn.com
+
+"No politician in modern history has held as much sway over his base as President Donald Trump and perhaps nothing has mattered more to his political career than that," writes Aaron Blake | Analysis
+https://cnn.it/4pNBGAB
+
+[2025-12-07 02:30:07](https://bsky.app/profile/cnn.com/post/3m7djowgdry2q)
 
 ---
 
