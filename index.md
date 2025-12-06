@@ -1,9 +1,9 @@
-# [2025-12-06 12:10 updated](2025_12_06.md)
+# [2025-12-06 12:30 updated](2025_12_06.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">米・ウクライナ ロシアとの和平案めぐり高官レベルの協議続く https://news.web.nhk/newsweb/na/na-k10014995911000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bzg27slz2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-06 12:06:07)</span><span style="padding-right:50px;">高市首相“「UHC」実現へ世界銀行などと途上国人材育成支援” https://news.web.nhk/newsweb/na/na-k10014995991000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bzfvmfsj2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-06 12:06:02)</span><span style="padding-right:50px;">The actor, who plays an oil-company fixer, has become a mouthpiece for writer Taylor Sheridan on.wsj.com/4pYmUY9 <a href="https://bsky.app/profile/wsj.com/post/3m7bzdicvfx2o" target="_blank">wsj.com</a> (2025-12-06 12:04:43)</span><span style="padding-right:50px;">山口 宇部市のガス漏れ 供給停止続く 6日も復旧作業 https://news.web.nhk/newsweb/na/na-k10014995951000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bzajukmj2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-06 12:03:02)</span><span style="padding-right:50px;">The business of Hollywood was in trouble long before the earth-rattling news that Netflix had inked a $72 billion takeover of Warner Bros. | Analysis  <a href="https://bsky.app/profile/cnn.com/post/3m7bz6nuoa22b" target="_blank">cnn.com</a> (2025-12-06 12:02:01)</span>
+<span style="padding-right:50px;">Looking at the weather map on his computer and seeing three tropical storms forming simultaneously across Asia in late November, climatologist Fredolin Tangang’s first thoughts drifted to the 2004 disaster movie “The Day After Tomorrow.” <a href="https://bsky.app/profile/cnn.com/post/3m7c2jlarrk2v" target="_blank">cnn.com</a> (2025-12-06 12:26:01)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】木造住宅で火災 60代男性が病院に搬送 「家の3階が火事になっている」と通報 神戸市 (2025-12-06 12:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7c2jgufng2g" target="_blank">sokuho.news</a> (2025-12-06 12:25:57)</span><span style="padding-right:50px;">Chechen leader Kadyrov vows response after Ukrainian drone hits Grozny, no casualties reut.rs/48BQqM9 <a href="https://bsky.app/profile/reuters.com/post/3m7c27a7ijm2k" target="_blank">reuters.com</a> (2025-12-06 12:20:14)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】「島原学生駅伝」女子は福岡大が先頭でフィニッシュ 13チームがエントリー《長崎》 (2025-12-06 12:14) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7bzviep6v2g" target="_blank">sokuho.news</a> (2025-12-06 12:14:47)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】立憲・野田代表 維新・参政の連携を「論外」とけん制 定数削減とスパイ防止法リンク論に「党利党略すぎる」 (2025-12-06 12:10) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7bznnkq5b2q" target="_blank">sokuho.news</a> (2025-12-06 12:10:24)</span>
   </div>
 </div>
 
@@ -32,14 +32,71 @@
 
 ## News Headlines
 
-1. 米・ウクライナ、ロシアとの和平案で高官協議継続
-2. 高市首相、途上国人材育成支援で世界銀行と連携
-3. 山口 宇部市でガス漏れ、供給停止続く
-4. 首都圏強盗事件、市川・横浜の被害金が指示役に渡ったか
-5. JR東日本、「Suicaのペンギン」2026年度末に終了、新キャラへ刷新
-6. トランプ大統領にFIFA「平和賞」、批判も
+1. 神戸市で木造住宅火災、60代男性搬送
+2. チェチェン、ウクライナのドローン攻撃に報復誓う
+3. 立憲・野田代表、維新・参政連携を「論外」と牽制
+4. 米・ウクライナ、ロシアとの和平案で高官協議継続
+5. 山口・宇部市のガス漏れ、供給停止続く
+6. Suicaペンギン、2026年度末に終了　JR東日本が刷新
 
 ----
+
+@cnn.com
+
+Looking at the weather map on his computer and seeing three tropical storms forming simultaneously across Asia in late November, climatologist Fredolin Tangang’s first thoughts drifted to the 2004 disaster movie “The Day After Tomorrow.”
+
+[2025-12-06 12:26:01](https://bsky.app/profile/cnn.com/post/3m7c2jlarrk2v)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】木造住宅で火災 60代男性が病院に搬送 「家の3階が火事になっている」と通報 神戸市
+(2025-12-06 12:00) #ニュース
+
+[2025-12-06 12:25:57](https://bsky.app/profile/sokuho.news/post/3m7c2jgufng2g)
+
+---
+
+@reuters.com
+
+Chechen leader Kadyrov vows response after Ukrainian drone hits Grozny, no casualties reut.rs/48BQqM9
+
+[2025-12-06 12:20:14](https://bsky.app/profile/reuters.com/post/3m7c27a7ijm2k)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】「島原学生駅伝」女子は福岡大が先頭でフィニッシュ 13チームがエントリー《長崎》
+(2025-12-06 12:14) #ニュース
+
+[2025-12-06 12:14:47](https://bsky.app/profile/sokuho.news/post/3m7bzviep6v2g)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】立憲・野田代表 維新・参政の連携を「論外」とけん制 定数削減とスパイ防止法リンク論に「党利党略すぎる」
+(2025-12-06 12:10) #ニュース
+
+[2025-12-06 12:10:24](https://bsky.app/profile/sokuho.news/post/3m7bznnkq5b2q)
+
+---
+
+@reuters.com
+
+Canada removes Syria from its list of foreign state supporters of terrorism reut.rs/4aznJ50
+
+[2025-12-06 12:10:12](https://bsky.app/profile/reuters.com/post/3m7bznc24s32e)
+
+---
 
 @nhknewsunofficial.bsky.social
 
@@ -73,61 +130,6 @@ The actor, who plays an oil-company fixer, has become a mouthpiece for writer Ta
 https://news.web.nhk/newsweb/na/na-k10014995951000
 
 [2025-12-06 12:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7bzajukmj2k)
-
----
-
-@cnn.com
-
-The business of Hollywood was in trouble long before the earth-rattling news that Netflix had inked a $72 billion takeover of Warner Bros. | Analysis 
-
-[2025-12-06 12:02:01](https://bsky.app/profile/cnn.com/post/3m7bz6nuoa22b)
-
----
-
-@nikkei.com
-
-iPhone保護フィルム、2分で自動貼り付け　「フィルラボ」全国展開
-www.nikkei.com/article/DGXZQO...
-
-フィルムは反射防止／のぞき見防止／高透明の3種類があり、1回あたり2980円。
-
-「携帯ショップより安いし、出来がいい。
-
-店員との会話が不要なのも楽だ」と好評です。
-
-[2025-12-06 12:01:58](https://bsky.app/profile/nikkei.com/post/3m7bz6l5hqt26)
-
----
-
-@reuters.com
-
-Lakers without LeBron James, Luka Doncic vs. Celtics reut.rs/4pk4lxj
-
-[2025-12-06 12:00:47](https://bsky.app/profile/reuters.com/post/3m7bz4hct7b2y)
-
----
-
-@aljazeera.com
-
-The US leader, who has campaigned for the Nobel Peace Prize, gets FIFA's award at the 2026 World Cup draw in Washington.
-
-[2025-12-06 12:00:35](https://bsky.app/profile/aljazeera.com/post/3m7bz43bfch27)
-
----
-
-@usatoday.com
-
-Actress Brooke Mueller is taking her ex-husband Charlie Sheen to court over claims of unpaid child support.
-
-[2025-12-06 12:00:27](https://bsky.app/profile/usatoday.com/post/3m7bz3u2vdw2u)
-
----
-
-@nytimes.com
-
-The prospect of Paramount’s buying Warner Bros. Discovery had led CNN journalists to wonder if the channel may be combined with CBS News. Instead, CNN will remain in a separate corporate entity.
-
-[2025-12-06 12:00:14](https://bsky.app/profile/nytimes.com/post/3m7bz3hrikg24)
 
 ---
 
