@@ -1,9 +1,9 @@
-# [2025-12-06 23:10 updated](2025_12_06.md)
+# [2025-12-06 23:30 updated](2025_12_06.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">More housing markets are shifting toward buyers. It’s not enough to make them want to buy. <a href="https://bsky.app/profile/yahoofinance.com/post/3m7d6c4xfq72p" target="_blank">yahoofinance.com</a> (2025-12-06 23:06:06)</span><span style="padding-right:50px;">柔道 グランドスラム東京 阿部詩が優勝 世界選手権代表確実に https://news.web.nhk/newsweb/na/na-k10014996251000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7d6c3uz5x2t" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-06 23:06:03)</span><span style="padding-right:50px;">［日経社説］今こそ同性婚巡る国会議論を www.nikkei.com/article/DGXZQO...   同性婚を巡る一連の訴訟の控訴審判決が出そろいました。今後は最高裁が統一判断を示すとみられます。   自治体のパートナーシップ制度にはおのずと限界があります。いずれの判決も国会での議論を求めており、同性カップルが尊厳を持って暮らせる法制度に向け議論を始める必要があります。 <a href="https://bsky.app/profile/nikkei.com/post/3m7d62p63bw26" target="_blank">nikkei.com</a> (2025-12-06 23:01:57)</span><span style="padding-right:50px;">Turkey says Gaza administration, police force should come before Hamas disarmament in ceasefire deal reut.rs/4a1aXw2 <a href="https://bsky.app/profile/reuters.com/post/3m7d5yxto6a2k" target="_blank">reuters.com</a> (2025-12-06 23:00:59)</span><span style="padding-right:50px;">Forget meme stocks: Why 'boring' investing may build the most wealth <a href="https://bsky.app/profile/usatoday.com/post/3m7d5ybt4yf2q" target="_blank">usatoday.com</a> (2025-12-06 23:00:36)</span>
+<span style="padding-right:50px;">Far-Flung Postcards is a weekly series in which NPR's international team shares moments from their lives and work around the world. <a href="https://bsky.app/profile/npr.org/post/3m7d7i3jnbt2j" target="_blank">npr.org</a> (2025-12-06 23:27:20)</span><span style="padding-right:50px;">Remember when laughter was supposed to be the best medicine? Now a team of scientists has found that physical intimacy may speed up healing.   🔗 Read more: on.wsj.com/4oCiepw <a href="https://bsky.app/profile/wsj.com/post/3m7d6vjatgy2j" target="_blank">wsj.com</a> (2025-12-06 23:16:56)</span><span style="padding-right:50px;">Biggest mistakes crypto investors make with estate planning <a href="https://bsky.app/profile/cnbc.com/post/3m7d6p6enw72q" target="_blank">cnbc.com</a> (2025-12-06 23:13:24)</span><span style="padding-right:50px;">Indian, US investigators to meet next week on Air India crash, Bloomberg News reports reut.rs/4axrhVh <a href="https://bsky.app/profile/reuters.com/post/3m7d6jgvqwc2i" target="_blank">reuters.com</a> (2025-12-06 23:10:11)</span><span style="padding-right:50px;">More housing markets are shifting toward buyers. It’s not enough to make them want to buy. <a href="https://bsky.app/profile/yahoofinance.com/post/3m7d6c4xfq72p" target="_blank">yahoofinance.com</a> (2025-12-06 23:06:06)</span>
   </div>
 </div>
 
@@ -32,14 +32,48 @@
 
 ## News Headlines
 
-1. 阿部詩、柔道GS東京で優勝、世界選手権代表確実に
-2. 同性婚巡る国会議論を、日経社説が訴え
-3. イリア・マリニン、世界最高得点でGPファイナル制覇
-4. 中国空母、沖縄周辺で戦闘機発着 防衛省
-5. AI生成女児ポルノ所持疑い、元教諭を追送検
-6. 米国、サッカーW杯組み合わせに恵まれる
+1. 柔道GS東京 阿部詩が優勝、世界選手権代表確実に
+2. 日経社説: 今こそ同性婚巡る国会議論を
+3. フィギュアGPファイナル 鍵山優真 逆転され2位
+4. AI生成女児ポルノ所持疑い、元教諭を追送検
+5. 中国海軍空母、沖縄周辺で戦闘機発着 防衛省
+6. インドネシアで900人以上死亡、410人不明
 
 ----
+
+@npr.org
+
+Far-Flung Postcards is a weekly series in which NPR's international team shares moments from their lives and work around the world.
+
+[2025-12-06 23:27:20](https://bsky.app/profile/npr.org/post/3m7d7i3jnbt2j)
+
+---
+
+@wsj.com
+
+Remember when laughter was supposed to be the best medicine? Now a team of scientists has found that physical intimacy may speed up healing. 
+
+🔗 Read more: on.wsj.com/4oCiepw
+
+[2025-12-06 23:16:56](https://bsky.app/profile/wsj.com/post/3m7d6vjatgy2j)
+
+---
+
+@cnbc.com
+
+Biggest mistakes crypto investors make with estate planning
+
+[2025-12-06 23:13:24](https://bsky.app/profile/cnbc.com/post/3m7d6p6enw72q)
+
+---
+
+@reuters.com
+
+Indian, US investigators to meet next week on Air India crash, Bloomberg News reports reut.rs/4axrhVh
+
+[2025-12-06 23:10:11](https://bsky.app/profile/reuters.com/post/3m7d6jgvqwc2i)
+
+---
 
 @yahoofinance.com
 
@@ -92,40 +126,6 @@ Forget meme stocks: Why 'boring' investing may build the most wealth
 Three hundred and thirty New Mexico high-schoolers are set to join a newly launched state pilot program offering monthly $500 payments to teens experiencing housing insecurity and other issues, conditioned on meeting certain goals. https://wapo.st/3YaHqss
 
 [2025-12-06 23:00:25](https://bsky.app/profile/washingtonpost.com/post/3m7d5xxn3ir2x)
-
----
-
-@en.afp.com
-
-⛸️🏅 Ilia Malinin showed why he is red-hot favourite for Olympic gold by winning the Grand Prix Final with a world-record free skate score after landing an incredible seven quads. 
-#AFPSports 
-➡️ u.afp.com/S7iA
-
-[2025-12-06 23:00:20](https://bsky.app/profile/en.afp.com/post/3m7d5xsh5pq2u)
-
----
-
-@apnews.com
-
-Groundbreaking architect Frank Gehry died Friday at age 96. He was behind the acclaimed Guggenheim Museum in Bilbao, Spain, and the Walt Disney Concert Hall in Los Angeles.
-
-[2025-12-06 23:00:06](https://bsky.app/profile/apnews.com/post/3m7d5xf7i6r2j)
-
----
-
-@cnbc.com
-
-Goldman Sachs says these five stocks, including Nvidia and Wynn Resorts, have room to run
-
-[2025-12-06 22:56:44](https://bsky.app/profile/cnbc.com/post/3m7d5rf4sjk2i)
-
----
-
-@cnbc.com
-
-Dollar General tops list of most overbought stocks this week that are due for a pullback
-
-[2025-12-06 22:54:32](https://bsky.app/profile/cnbc.com/post/3m7d5nh2hic2f)
 
 ---
 
