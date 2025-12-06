@@ -1,9 +1,9 @@
-# [2025-12-07 04:10 updated](2025_12_07.md)
+# [2025-12-07 04:30 updated](2025_12_07.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">More than 9,000 units of Crayola toy blocks called pip-Cubes were recalled after it was discovered that magnets inside the blocks can slip out, be swallowed by children, and potentially cause injury or death, safety regulators said on Thursday. <a href="https://bsky.app/profile/nytimes.com/post/3m7doyqj3xq27" target="_blank">nytimes.com</a> (2025-12-07 04:05:05)</span><span style="padding-right:50px;">One cannot go to Hannah Arendt’s work for comfort, Jennifer Szalai writes of the German-born political thinker. What she offers instead is “the company of someone who had direct experience of the horrors of the 20th century yet never relinquished what she called amor mundi, or ‘love of the world.’” <a href="https://bsky.app/profile/nytimes.com/post/3m7dovufu2k2k" target="_blank">nytimes.com</a> (2025-12-07 04:03:28)</span><span style="padding-right:50px;">Hallmark's holiday season movies are a staple for many. Here's a guide on where to start based on your interests. <a href="https://bsky.app/profile/usatoday.com/post/3m7doryaiby2q" target="_blank">usatoday.com</a> (2025-12-07 04:01:18)</span><span style="padding-right:50px;">In 2015, Chris Broomfield purchased property in New York for $27,000.  Now he has three short-term rentals with a lifetime revenue of over $2 million. <a href="https://bsky.app/profile/cnbc.com/post/3m7doq5h3hx2s" target="_blank">cnbc.com</a> (2025-12-07 04:00:16)</span><span style="padding-right:50px;">Turn on any pop station and soon enough you’ll hear Olivia Dean’s megahit “Man I Need.”  Dean’s 2023 debut album “Messy” already helped build a fan base in her native Britain, but she hadn’t yet found a larger audience stateside — until now. <a href="https://bsky.app/profile/washingtonpost.com/post/3m7doq4os4x2s" target="_blank">washingtonpost.com</a> (2025-12-07 04:00:15)</span>
+<span style="padding-right:50px;">Inter go top with 4-0 thumping of in-form Como reut.rs/4rHXBeq <a href="https://bsky.app/profile/reuters.com/post/3m7dq4l4vrj2k" target="_blank">reuters.com</a> (2025-12-07 04:25:07)</span><span style="padding-right:50px;">In @nytopinion.nytimes.com  The danger of Netflix buying Warner Bros. “is not annihilation but centralization,” Roy Price writes in a guest essay. “When two of the most important sources of premium programming are combined, the marketplace loses an entire programming philosophy.” <a href="https://bsky.app/profile/nytimes.com/post/3m7dq4k7hqp2g" target="_blank">nytimes.com</a> (2025-12-07 04:25:06)</span><span style="padding-right:50px;">Milan Momcilovic scored 20 points and Iowa State sank 11 3-pointers to propel No. 10 Iowa State to a dominant 81-58 win over No. 1 Purdue. <a href="https://bsky.app/profile/apnews.com/post/3m7dplzyc452j" target="_blank">apnews.com</a> (2025-12-07 04:15:52)</span><span style="padding-right:50px;">Can you ban kids from social media? Australia is about to try to <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7dpl66mjy26" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-07 04:15:22)</span><span style="padding-right:50px;">Simons gives Tottenham home cheer as Frank says players finally on same page reut.rs/48n923B <a href="https://bsky.app/profile/reuters.com/post/3m7dpkrcazd2r" target="_blank">reuters.com</a> (2025-12-07 04:15:09)</span>
   </div>
 </div>
 
@@ -32,14 +32,64 @@
 
 ## News Headlines
 
-1. クレヨラ玩具ブロック9,000個以上をリコール、磁石が外れ誤飲の危険
-2. NYの男性、27,000ドルの不動産投資で200万ドル超の収益
-3. 人気牧師のアトランタ教会、急成長で信者数6,000人に
-4. イラン、女性のヒジャブ未着用を理由にマラソン主催者を逮捕
-5. 中国軍戦闘機が自衛隊機にレーダー照射、政府が抗議
-6. 米沿岸警備隊、過去20年で最大規模の海上コカイン押収
+1. インテル、好調コモを4-0で圧倒し首位に
+2. Netflixのワーナー買収、プログラミングの多様性を損なう恐れ
+3. 米国、子供のソーシャルメディア利用禁止を検討
+4. クレヨラの玩具ブロック、磁石誤飲の危険性でリコール
+5. 元NASCARドライバー、マイケル・アネット氏が死去
+6. 中国軍機が自衛隊機にレーダー照射、日本政府が抗議
 
 ----
+
+@reuters.com
+
+Inter go top with 4-0 thumping of in-form Como reut.rs/4rHXBeq
+
+[2025-12-07 04:25:07](https://bsky.app/profile/reuters.com/post/3m7dq4l4vrj2k)
+
+---
+
+@nytimes.com
+
+In @nytopinion.nytimes.com
+
+The danger of Netflix buying Warner Bros. “is not annihilation but centralization,” Roy Price writes in a guest essay. “When two of the most important sources of premium programming are combined, the marketplace loses an entire programming philosophy.”
+
+[2025-12-07 04:25:06](https://bsky.app/profile/nytimes.com/post/3m7dq4k7hqp2g)
+
+---
+
+@apnews.com
+
+Milan Momcilovic scored 20 points and Iowa State sank 11 3-pointers to propel No. 10 Iowa State to a dominant 81-58 win over No. 1 Purdue.
+
+[2025-12-07 04:15:52](https://bsky.app/profile/apnews.com/post/3m7dplzyc452j)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Can you ban kids from social media? Australia is about to try to
+
+[2025-12-07 04:15:22](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7dpl66mjy26)
+
+---
+
+@reuters.com
+
+Simons gives Tottenham home cheer as Frank says players finally on same page reut.rs/48n923B
+
+[2025-12-07 04:15:09](https://bsky.app/profile/reuters.com/post/3m7dpkrcazd2r)
+
+---
+
+@reuters.com
+
+Guardiola praises Cherki after win, but stresses he values simplicity over flair reut.rs/4oKtErr
+
+[2025-12-07 04:10:12](https://bsky.app/profile/reuters.com/post/3m7dpbvip272y)
+
+---
 
 @nytimes.com
 
@@ -72,58 +122,6 @@ In 2015, Chris Broomfield purchased property in New York for $27,000.
 Now he has three short-term rentals with a lifetime revenue of over $2 million.
 
 [2025-12-07 04:00:16](https://bsky.app/profile/cnbc.com/post/3m7doq5h3hx2s)
-
----
-
-@washingtonpost.com
-
-Turn on any pop station and soon enough you’ll hear Olivia Dean’s megahit “Man I Need.”
-
-Dean’s 2023 debut album “Messy” already helped build a fan base in her native Britain, but she hadn’t yet found a larger audience stateside — until now.
-
-[2025-12-07 04:00:15](https://bsky.app/profile/washingtonpost.com/post/3m7doq4os4x2s)
-
----
-
-@apnews.com
-
-An Atlanta church with a viral pastor has grown from less than 200 weekly churchgoers in 2023 to about 6,000 today.
-
-[2025-12-07 04:00:15](https://bsky.app/profile/apnews.com/post/3m7doq4fr3x2y)
-
----
-
-@nbcnews.com
-
-The Oura Ring 4 is the best smart ring you can buy, but here’s the one thing you need to know before making the investment. - @nbcselect.nbcnews.com
-
-[2025-12-07 04:00:10](https://bsky.app/profile/nbcnews.com/post/3m7dopxdpn32h)
-
----
-
-@cbsnews.com
-
-Michael Annett, a former racecar driver who made 436 combined starts in NASCAR's three national touring series, has died. 
-
-He was 39.
-
-[2025-12-07 04:00:01](https://bsky.app/profile/cbsnews.com/post/3m7doponebr2u)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Iran arrests marathon organisers over women not wearing hijab
-
-[2025-12-07 03:49:52](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7do5kwzwu2m)
-
----
-
-@nytimes.com
-
-Dan Perlman, a writer and comedian, looks and sounds nothing like Michael Bublé. And yet, for some reason, he was hired to impersonate the crooner at a birthday party.
-
-[2025-12-07 03:45:04](https://bsky.app/profile/nytimes.com/post/3m7dnuxmzhx24)
 
 ---
 
