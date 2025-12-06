@@ -1,9 +1,9 @@
-# [2025-12-06 18:30 updated](2025_12_06.md)
+# [2025-12-06 18:50 updated](2025_12_06.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Meghan reaches out to estranged father Thomas after amputation reports, spokesman says <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7cosmrr3i2x" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-06 18:28:59)</span><span style="padding-right:50px;">首都圏強盗事件 実行役への指示とは別のスマホで互いに連絡か https://news.web.nhk/newsweb/na/na-k10014996131000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7cop7g5yv24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-06 18:27:02)</span><span style="padding-right:50px;">Kenyans fighting for Russia: Lured by lucrative job offers but sent to the front line <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7consauaf2l" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-06 18:26:17)</span><span style="padding-right:50px;">Cracks appear in entrenched weak dollar outlook: Reuters poll reut.rs/4ajbzgL <a href="https://bsky.app/profile/reuters.com/post/3m7colq4cff2n" target="_blank">reuters.com</a> (2025-12-06 18:25:08)</span><span style="padding-right:50px;">【詳しく】長期金利が急上昇 2％超えるかが焦点に なぜ 影響は https://news.web.nhk/newsweb/na/na-k10014996011000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7cojtfzhd2r" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-06 18:24:02)</span>
+<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】無人のSUP（サップ）ボードが見つかる 宜野湾マリーナの沖合 ボード上には道具が残る 周辺に人がいないか海保が捜索 (2025-12-06 18:32:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7cppznkci2x" target="_blank">sokuho.news</a> (2025-12-06 18:45:26)</span><span style="padding-right:50px;">'We'll bring him home': Thai family's long wait for Gaza hostage to end reut.rs/3Ybn5TT <a href="https://bsky.app/profile/reuters.com/post/3m7cppl5lkg2i" target="_blank">reuters.com</a> (2025-12-06 18:45:11)</span><span style="padding-right:50px;">Bastia to sanction fans after flare hits Red Star player reut.rs/4pRDuIS <a href="https://bsky.app/profile/reuters.com/post/3m7cpgko4iv2n" target="_blank">reuters.com</a> (2025-12-06 18:40:08)</span><span style="padding-right:50px;">The New York mayor-elect's victory has motivated the European left, with politicians casting themselves as their country's version of Mamdani, and strategists eager to study how he won. <a href="https://bsky.app/profile/npr.org/post/3m7cpefnuiq2y" target="_blank">npr.org</a> (2025-12-06 18:38:56)</span><span style="padding-right:50px;">ECB's Rehn sees downside risks to inflation, urges action on Ukraine funding reut.rs/48mwRZl <a href="https://bsky.app/profile/reuters.com/post/3m7cp5lvb5g2i" target="_blank">reuters.com</a> (2025-12-06 18:35:08)</span>
   </div>
 </div>
 
@@ -32,98 +32,97 @@
 
 ## News Headlines
 
-1. メーガン妃、疎遠の父に連絡か 報道
-2. 首都圏強盗事件、実行犯は別スマホで連絡か
-3. 長期金利が急上昇、2％超えが焦点
-4. KFC、日本でクリスマスチキン提供開始
-5. マラリア死者数増加、資金削減で急増の恐れ
-6. 鹿島アントラーズ、J1で9年ぶり最多9回目の優勝
+1. 宜野湾沖で無人SUPボード発見、海保が捜索
+2. 鹿島アントラーズ、J1で9年ぶり優勝
+3. 首都圏強盗事件、実行役は別スマホで連絡か
+4. 長期金利が急上昇、2％超えが焦点
+5. WHO、次のパンデミックへの国際連携を呼びかけ
+6. KFC、日本でクリスマスチキンポップアップレストラン開店
 
 ----
 
-@bbcnews-world-rss.bsky.social
+@sokuho.news
 
-Meghan reaches out to estranged father Thomas after amputation reports, spokesman says
+🛎️JNNより【速報】です。
 
-[2025-12-06 18:28:59](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7cosmrr3i2x)
+【速報】無人のSUP（サップ）ボードが見つかる 宜野湾マリーナの沖合 ボード上には道具が残る 周辺に人がいないか海保が捜索
+(2025-12-06 18:32:00) #ニュース
 
----
-
-@nhknewsunofficial.bsky.social
-
-首都圏強盗事件 実行役への指示とは別のスマホで互いに連絡か
-https://news.web.nhk/newsweb/na/na-k10014996131000
-
-[2025-12-06 18:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7cop7g5yv24)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Kenyans fighting for Russia: Lured by lucrative job offers but sent to the front line
-
-[2025-12-06 18:26:17](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7consauaf2l)
+[2025-12-06 18:45:26](https://bsky.app/profile/sokuho.news/post/3m7cppznkci2x)
 
 ---
 
 @reuters.com
 
-Cracks appear in entrenched weak dollar outlook: Reuters poll reut.rs/4ajbzgL
+'We'll bring him home': Thai family's long wait for Gaza hostage to end reut.rs/3Ybn5TT
 
-[2025-12-06 18:25:08](https://bsky.app/profile/reuters.com/post/3m7colq4cff2n)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【詳しく】長期金利が急上昇 2％超えるかが焦点に なぜ 影響は
-https://news.web.nhk/newsweb/na/na-k10014996011000
-
-[2025-12-06 18:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7cojtfzhd2r)
+[2025-12-06 18:45:11](https://bsky.app/profile/reuters.com/post/3m7cppl5lkg2i)
 
 ---
 
-@en.afp.com
+@reuters.com
 
-🇯🇵 KFC prepares a finger-licking Christmas in Japan
+Bastia to sanction fans after flare hits Red Star player reut.rs/4pRDuIS
 
-Christmas kicks off in Japan as KFC opens its Tokyo Christmas pop-up restaurant. The fast-food chain offers customers dishes inspired by Japan's "Christmas chicken" tradition, dating back to 1974.
+[2025-12-06 18:40:08](https://bsky.app/profile/reuters.com/post/3m7cpgko4iv2n)
 
-[2025-12-06 18:20:04](https://bsky.app/profile/en.afp.com/post/3m7coco7rpb22)
+---
+
+@npr.org
+
+The New York mayor-elect's victory has motivated the European left, with politicians casting themselves as their country's version of Mamdani, and strategists eager to study how he won.
+
+[2025-12-06 18:38:56](https://bsky.app/profile/npr.org/post/3m7cpefnuiq2y)
+
+---
+
+@reuters.com
+
+ECB's Rehn sees downside risks to inflation, urges action on Ukraine funding reut.rs/48mwRZl
+
+[2025-12-06 18:35:08](https://bsky.app/profile/reuters.com/post/3m7cp5lvb5g2i)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Nerida Hansen: Shoppers loved Australia's 'fabric queen'. Then, order by order, her story fell apart
+
+[2025-12-06 18:34:29](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7cp4hllqb2p)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Migration to Europe: Single women face sexual violence
+
+[2025-12-06 18:31:07](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7cowgveez2y)
+
+---
+
+@reuters.com
+
+Central Europe's currencies to back off highs in 2026: Reuters poll reut.rs/4oBGvMw
+
+[2025-12-06 18:30:17](https://bsky.app/profile/reuters.com/post/3m7couwsev62w)
 
 ---
 
 @cnn.com
 
-CNN political commentator Ana Navarro called FIFA President Gianni Infantino giving President Donald Trump a "peace prize" an attempt at "sucking up" to Trump and compared it to a parent giving a child a toy phone.
+Cyclonic storms unleashed torrential rains and catastrophic flooding – including, in one area, the second-wettest day recorded anywhere in history – across swathes of South and Southeast Asia. 
 
-Read more about the Fifa Peace Prize here: https://cnn.it/4rGBgOd
+They killed more than 1,700 people, according to a CNN tally from disaster agencies’ figures.
 
-[2025-12-06 18:18:24](https://bsky.app/profile/cnn.com/post/3m7co7p7tbb2r)
-
----
-
-@reuters.com
-
-Malaria deaths rose in 2024, funding cuts risk surge, WHO says reut.rs/4oOVqTS
-
-[2025-12-06 18:15:11](https://bsky.app/profile/reuters.com/post/3m7cnzwvkvi2i)
+[2025-12-06 18:30:05](https://bsky.app/profile/cnn.com/post/3m7couknvbj2r)
 
 ---
 
-@wsj.com
+@bbcnews-world-rss.bsky.social
 
-Your gingerbread lacks panache and your shortbread is falling short. These crucial cookie tools are here to take your holiday baking to the next level.
+Frank Gehry's most iconic work - in pictures
 
-[2025-12-06 18:13:04](https://bsky.app/profile/wsj.com/post/3m7cnw5gmoc2t)
-
----
-
-@reuters.com
-
-RBI rate cut, FX swap knock forwards lower; weak rupee outlook caps fall reut.rs/49WcLX5
-
-[2025-12-06 18:10:09](https://bsky.app/profile/reuters.com/post/3m7cnqwog4j2k)
+[2025-12-06 18:30:04](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7coukazds22)
 
 ---
 
