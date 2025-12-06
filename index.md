@@ -1,9 +1,9 @@
-# [2025-12-06 16:10 updated](2025_12_06.md)
+# [2025-12-06 16:30 updated](2025_12_06.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The total number of billionaires across the globe reached new heights in 2025.  Some 2,900 billionaires now control $15.8 trillion, up from about 2,700 billionaires with a cumulative wealth of nearly $14 trillion a year earlier.   🔗 Read more: on.wsj.com/4owvufj <a href="https://bsky.app/profile/wsj.com/post/3m7cgwuq2mi2l" target="_blank">wsj.com</a> (2025-12-06 16:08:12)</span><span style="padding-right:50px;">サッカーJ1 鹿島アントラーズ 9年ぶり9回目の優勝 https://news.web.nhk/newsweb/na/na-k10014996051000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7cgtanv2u2g" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-06 16:06:08)</span><span style="padding-right:50px;">米メタ メディアと提携 生成AIの回答に最新ニュース記事を活用 https://news.web.nhk/newsweb/na/na-k10014996041000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7cgt3wjf62t" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-06 16:06:03)</span><span style="padding-right:50px;">NHL roundup: Stars stomp Sharks, extend point streak to 9 games reut.rs/4pUo9rb <a href="https://bsky.app/profile/reuters.com/post/3m7cgrgizjx26" target="_blank">reuters.com</a> (2025-12-06 16:05:10)</span><span style="padding-right:50px;">Get ready to wait for that new Kendrick Lamar project.  No, not music. We’re talking about his planned movie with Trey Parker and Matt Stone, the creators of “South Park.”  <a href="https://bsky.app/profile/cnn.com/post/3m7cgpfaq5k2b" target="_blank">cnn.com</a> (2025-12-06 16:04:01)</span>
+<span style="padding-right:50px;">Ukraine drones hit Russia's Ryazan, Voronezh regions, governors say reut.rs/3KKIYpZ <a href="https://bsky.app/profile/reuters.com/post/3m7chv3qyhu2k" target="_blank">reuters.com</a> (2025-12-06 16:25:06)</span><span style="padding-right:50px;">Watch: Flames and thick smoke engulf plane in Brazil after fire breaks out <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7chljapro22" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-06 16:19:44)</span><span style="padding-right:50px;">Hong Kong fire came after contractor safety breaches and a residents' revolt reut.rs/48CQHhY <a href="https://bsky.app/profile/reuters.com/post/3m7chde7txh26" target="_blank">reuters.com</a> (2025-12-06 16:15:11)</span><span style="padding-right:50px;">Moment officers wrangle 600lb alligator from Florida road <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7chac2ytd2d" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-06 16:13:27)</span><span style="padding-right:50px;">US-Ukraine talks: Witkoff says progress made on plan to end war with Russia <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7ch6dtxrt2g" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-06 16:12:22)</span>
   </div>
 </div>
 
@@ -32,14 +32,79 @@
 
 ## News Headlines
 
-1. 世界の富豪、総資産15.8兆ドルに増加
-2. 鹿島アントラーズ、J1で9年ぶり9回目の優勝
-3. メタ、生成AIの回答に最新ニュース記事を活用
-4. 青山商事、超軽量スーツ発売 – 猛暑対策で需要狙う
-5. ニトリ、北斎「雪中美人図」を史上最高額で落札
-6. 山形新幹線、停電で一部区間運転見合わせ
+1. ウクライナ、ロシアの領土にドローン攻撃
+2. 香港火災、安全違反と住民の反乱が原因か
+3. 2025年、世界の富豪数と資産が過去最高に
+4. サッカーJ1 鹿島アントラーズ 9年ぶり優勝
+5. 米メタ、生成AIの回答に最新ニュース記事を活用
+6. ニトリ、北斎「雪中美人図」を史上最高額で落札
 
 ----
+
+@reuters.com
+
+Ukraine drones hit Russia's Ryazan, Voronezh regions, governors say reut.rs/3KKIYpZ
+
+[2025-12-06 16:25:06](https://bsky.app/profile/reuters.com/post/3m7chv3qyhu2k)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Watch: Flames and thick smoke engulf plane in Brazil after fire breaks out
+
+[2025-12-06 16:19:44](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7chljapro22)
+
+---
+
+@reuters.com
+
+Hong Kong fire came after contractor safety breaches and a residents' revolt reut.rs/48CQHhY
+
+[2025-12-06 16:15:11](https://bsky.app/profile/reuters.com/post/3m7chde7txh26)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Moment officers wrangle 600lb alligator from Florida road
+
+[2025-12-06 16:13:27](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7chac2ytd2d)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+US-Ukraine talks: Witkoff says progress made on plan to end war with Russia
+
+[2025-12-06 16:12:22](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7ch6dtxrt2g)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+インフル ワクチンのフェイク拡散 不安あおりサプリに誘導か
+https://news.web.nhk/newsweb/na/na-k10014994621000
+
+[2025-12-06 16:12:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ch5sasox24)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+New clashes break out between Pakistan and Afghanistan
+
+[2025-12-06 16:11:18](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7ch4ggtmq2l)
+
+---
+
+@reuters.com
+
+EU plans strategic overhaul to fix energy grid bottlenecks, FT reports reut.rs/3KE0jRn
+
+[2025-12-06 16:10:09](https://bsky.app/profile/reuters.com/post/3m7ch2dnymx2e)
+
+---
 
 @wsj.com
 
@@ -59,82 +124,6 @@ Some 2,900 billionaires now control $15.8 trillion, up from about 2,700 billiona
 https://news.web.nhk/newsweb/na/na-k10014996051000
 
 [2025-12-06 16:06:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7cgtanv2u2g)
-
----
-
-@nhknewsunofficial.bsky.social
-
-米メタ メディアと提携 生成AIの回答に最新ニュース記事を活用
-https://news.web.nhk/newsweb/na/na-k10014996041000
-
-[2025-12-06 16:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7cgt3wjf62t)
-
----
-
-@reuters.com
-
-NHL roundup: Stars stomp Sharks, extend point streak to 9 games reut.rs/4pUo9rb
-
-[2025-12-06 16:05:10](https://bsky.app/profile/reuters.com/post/3m7cgrgizjx26)
-
----
-
-@cnn.com
-
-Get ready to wait for that new Kendrick Lamar project.
-
-No, not music. We’re talking about his planned movie with Trey Parker and Matt Stone, the creators of “South Park.” 
-
-[2025-12-06 16:04:01](https://bsky.app/profile/cnn.com/post/3m7cgpfaq5k2b)
-
----
-
-@sokuho.news
-
-<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>サッカーJ1 鹿島アントラーズ 9年ぶり9回目の優勝</strong><br><strong>(2025-12-06 16:02:55) #ニュース</strong><br><strong>https://news.web.nhk/newsweb/na/na-k10014996051000</strong>
-
-[2025-12-06 16:03:21](https://bsky.app/profile/sokuho.news/post/3m7cgo7eycu26)
-
----
-
-@nikkei.com
-
-【上下あわせて500gの超軽量スーツ】
-青山商事、男性向け春夏物で猛暑想定（無料記事）
-www.nikkei.com/article/DGXZQO...
-
-通常はシャツなどに使われる薄い生地を使い、通常のスーツの半分以下の重さのセットアップに。
-
-夏の長期化に加え、動きやすい仕事着が売れることから開発しました。
-
-[2025-12-06 16:01:57](https://bsky.app/profile/nikkei.com/post/3m7cglowxab2i)
-
----
-
-@reuters.com
-
-U.S. narrows Europe’s lead at World Champions Cup reut.rs/49UWSA9
-
-[2025-12-06 16:00:46](https://bsky.app/profile/reuters.com/post/3m7cgjkyx672y)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】ファジアーノ岡山 J1リーグ最終戦で清水エスパルスに勝利 有終の美飾る【岡山】
-(2025-12-06 15:45) #ニュース
-
-[2025-12-06 16:00:43](https://bsky.app/profile/sokuho.news/post/3m7cgjhuhdl2d)
-
----
-
-@aljazeera.com
-
-Ministers slam Israeli breach of truce plan, which ultimately aims to  'displace Palestinian people from their land'.
-
-[2025-12-06 16:00:21](https://bsky.app/profile/aljazeera.com/post/3m7cgittfrz2l)
 
 ---
 
