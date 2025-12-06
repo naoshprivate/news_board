@@ -1,9 +1,9 @@
-# [2025-12-07 04:30 updated](2025_12_07.md)
+# [2025-12-07 05:10 updated](2025_12_07.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Inter go top with 4-0 thumping of in-form Como reut.rs/4rHXBeq <a href="https://bsky.app/profile/reuters.com/post/3m7dq4l4vrj2k" target="_blank">reuters.com</a> (2025-12-07 04:25:07)</span><span style="padding-right:50px;">In @nytopinion.nytimes.com  The danger of Netflix buying Warner Bros. “is not annihilation but centralization,” Roy Price writes in a guest essay. “When two of the most important sources of premium programming are combined, the marketplace loses an entire programming philosophy.” <a href="https://bsky.app/profile/nytimes.com/post/3m7dq4k7hqp2g" target="_blank">nytimes.com</a> (2025-12-07 04:25:06)</span><span style="padding-right:50px;">Milan Momcilovic scored 20 points and Iowa State sank 11 3-pointers to propel No. 10 Iowa State to a dominant 81-58 win over No. 1 Purdue. <a href="https://bsky.app/profile/apnews.com/post/3m7dplzyc452j" target="_blank">apnews.com</a> (2025-12-07 04:15:52)</span><span style="padding-right:50px;">Can you ban kids from social media? Australia is about to try to <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7dpl66mjy26" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-07 04:15:22)</span><span style="padding-right:50px;">Simons gives Tottenham home cheer as Frank says players finally on same page reut.rs/48n923B <a href="https://bsky.app/profile/reuters.com/post/3m7dpkrcazd2r" target="_blank">reuters.com</a> (2025-12-07 04:15:09)</span>
+<span style="padding-right:50px;">Colts activate LB Jaylon Carlies from IR, make other moves reut.rs/4pOd76B <a href="https://bsky.app/profile/reuters.com/post/3m7dse6ghud2r" target="_blank">reuters.com</a> (2025-12-07 05:05:10)</span><span style="padding-right:50px;">People living in rural parts of the country live shorter lives, on average, than their urban counterparts, largely due to heart disease. That disparity grew during the pandemic. <a href="https://bsky.app/profile/nbcnews.com/post/3m7ds4kgd2k2h" target="_blank">nbcnews.com</a> (2025-12-07 05:00:54)</span><span style="padding-right:50px;">Torres bags hat-trick as Barcelona batter Betis 5-3 reut.rs/4oXxZrz <a href="https://bsky.app/profile/reuters.com/post/3m7ds43oxt62k" target="_blank">reuters.com</a> (2025-12-07 05:00:38)</span><span style="padding-right:50px;">The Supreme Court is deciding if President Trump can fire Democratic members of the Federal Trade Commission and of other independent agencies. <a href="https://bsky.app/profile/usatoday.com/post/3m7ds3oyvb42u" target="_blank">usatoday.com</a> (2025-12-07 05:00:25)</span><span style="padding-right:50px;">National parks visitors will receive free admission on President Donald Trump’s birthday next year, but will have to pay a regular fee on Martin Luther King Jr. Day and Juneteenth, after the National Parks Service overhauled its free admission calendar. https://cnn.it/48Fb664 <a href="https://bsky.app/profile/cnn.com/post/3m7ds3hrj6v2v" target="_blank">cnn.com</a> (2025-12-07 05:00:17)</span>
   </div>
 </div>
 
@@ -32,96 +32,95 @@
 
 ## News Headlines
 
-1. インテル、好調コモを4-0で圧倒し首位に
-2. Netflixのワーナー買収、プログラミングの多様性を損なう恐れ
-3. 米国、子供のソーシャルメディア利用禁止を検討
-4. クレヨラの玩具ブロック、磁石誤飲の危険性でリコール
-5. 元NASCARドライバー、マイケル・アネット氏が死去
-6. 中国軍機が自衛隊機にレーダー照射、日本政府が抗議
+1. 田舎の住民、都市部より短命：心臓病が主な原因
+2. トランプ氏、独立機関の民主党員解任可能か？最高裁が判断
+3. 国立公園、トランプ氏の誕生日は無料、キング牧師記念日などは有料に
+4. ロンドン塔で抗議活動、宝石の王冠に食品が投げつけられる
+5. ベネズエラの野党指導者、ノーベル平和賞授賞式に出席へ
+6. ギリシャ沖で移民船沈没、18人死亡
 
 ----
 
 @reuters.com
 
-Inter go top with 4-0 thumping of in-form Como reut.rs/4rHXBeq
+Colts activate LB Jaylon Carlies from IR, make other moves reut.rs/4pOd76B
 
-[2025-12-07 04:25:07](https://bsky.app/profile/reuters.com/post/3m7dq4l4vrj2k)
-
----
-
-@nytimes.com
-
-In @nytopinion.nytimes.com
-
-The danger of Netflix buying Warner Bros. “is not annihilation but centralization,” Roy Price writes in a guest essay. “When two of the most important sources of premium programming are combined, the marketplace loses an entire programming philosophy.”
-
-[2025-12-07 04:25:06](https://bsky.app/profile/nytimes.com/post/3m7dq4k7hqp2g)
+[2025-12-07 05:05:10](https://bsky.app/profile/reuters.com/post/3m7dse6ghud2r)
 
 ---
 
-@apnews.com
+@nbcnews.com
 
-Milan Momcilovic scored 20 points and Iowa State sank 11 3-pointers to propel No. 10 Iowa State to a dominant 81-58 win over No. 1 Purdue.
+People living in rural parts of the country live shorter lives, on average, than their urban counterparts, largely due to heart disease. That disparity grew during the pandemic.
 
-[2025-12-07 04:15:52](https://bsky.app/profile/apnews.com/post/3m7dplzyc452j)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Can you ban kids from social media? Australia is about to try to
-
-[2025-12-07 04:15:22](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7dpl66mjy26)
+[2025-12-07 05:00:54](https://bsky.app/profile/nbcnews.com/post/3m7ds4kgd2k2h)
 
 ---
 
 @reuters.com
 
-Simons gives Tottenham home cheer as Frank says players finally on same page reut.rs/48n923B
+Torres bags hat-trick as Barcelona batter Betis 5-3 reut.rs/4oXxZrz
 
-[2025-12-07 04:15:09](https://bsky.app/profile/reuters.com/post/3m7dpkrcazd2r)
-
----
-
-@reuters.com
-
-Guardiola praises Cherki after win, but stresses he values simplicity over flair reut.rs/4oKtErr
-
-[2025-12-07 04:10:12](https://bsky.app/profile/reuters.com/post/3m7dpbvip272y)
-
----
-
-@nytimes.com
-
-More than 9,000 units of Crayola toy blocks called pip-Cubes were recalled after it was discovered that magnets inside the blocks can slip out, be swallowed by children, and potentially cause injury or death, safety regulators said on Thursday.
-
-[2025-12-07 04:05:05](https://bsky.app/profile/nytimes.com/post/3m7doyqj3xq27)
-
----
-
-@nytimes.com
-
-One cannot go to Hannah Arendt’s work for comfort, Jennifer Szalai writes of the German-born political thinker. What she offers instead is “the company of someone who had direct experience of the horrors of the 20th century yet never relinquished what she called amor mundi, or ‘love of the world.’”
-
-[2025-12-07 04:03:28](https://bsky.app/profile/nytimes.com/post/3m7dovufu2k2k)
+[2025-12-07 05:00:38](https://bsky.app/profile/reuters.com/post/3m7ds43oxt62k)
 
 ---
 
 @usatoday.com
 
-Hallmark's holiday season movies are a staple for many. Here's a guide on where to start based on your interests.
+The Supreme Court is deciding if President Trump can fire Democratic members of the Federal Trade Commission and of other independent agencies.
 
-[2025-12-07 04:01:18](https://bsky.app/profile/usatoday.com/post/3m7doryaiby2q)
+[2025-12-07 05:00:25](https://bsky.app/profile/usatoday.com/post/3m7ds3oyvb42u)
 
 ---
 
-@cnbc.com
+@cnn.com
 
-In 2015, Chris Broomfield purchased property in New York for $27,000.
+National parks visitors will receive free admission on President Donald Trump’s birthday next year, but will have to pay a regular fee on Martin Luther King Jr. Day and Juneteenth, after the National Parks Service overhauled its free admission calendar.
+https://cnn.it/48Fb664
 
-Now he has three short-term rentals with a lifetime revenue of over $2 million.
+[2025-12-07 05:00:17](https://bsky.app/profile/cnn.com/post/3m7ds3hrj6v2v)
 
-[2025-12-07 04:00:16](https://bsky.app/profile/cnbc.com/post/3m7doq5h3hx2s)
+---
+
+@washingtonpost.com
+
+Bryan Reisberg spends one day a week taking shelter dogs out of their kennels, slipping them in a “adopt me” backpack and carrying them around New York.
+
+His goal is to help people see shelter dogs the way he does: curious, sweet and full of potential.
+
+[2025-12-07 05:00:15](https://bsky.app/profile/washingtonpost.com/post/3m7ds3fstef2q)
+
+---
+
+@apnews.com
+
+Four protesters have been arrested after splattering food on the case of a diamond-encrusted crown at the Tower of London.
+
+[2025-12-07 05:00:14](https://bsky.app/profile/apnews.com/post/3m7ds3eocet2j)
+
+---
+
+@reuters.com
+
+Tanaka on target as Leeds snatch 3-3 draw with Liverpool reut.rs/48TAG8u
+
+[2025-12-07 04:50:18](https://bsky.app/profile/reuters.com/post/3m7drjlzlqs2y)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+National Park Service removes free entry on Martin Luther King Jr Day and Juneteenth
+
+[2025-12-07 04:49:44](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7drimjnnw2w)
+
+---
+
+@nytimes.com
+
+The Venezuelan opposition leader María Corina Machado, who is thought to have been living in hiding in her country, will travel to Norway next week to receive the Nobel Peace Prize, according to a Norwegian official.
+
+[2025-12-07 04:47:48](https://bsky.app/profile/nytimes.com/post/3m7drf5exgk2r)
 
 ---
 
