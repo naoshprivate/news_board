@@ -1,9 +1,9 @@
-# [2025-12-06 21:50 updated](2025_12_06.md)
+# [2025-12-06 22:10 updated](2025_12_06.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">As other luxury brands struggle in China, Arc’teryx has succeeded there in part by turning its $1,000 jackets into a status symbol. <a href="https://bsky.app/profile/wsj.com/post/3m7czstxxz72p" target="_blank">wsj.com</a> (2025-12-06 21:45:58)</span><span style="padding-right:50px;">'Quad God' Malinin crushes his own world free programme record to win Grand Prix Final reut.rs/4pmMy8R <a href="https://bsky.app/profile/reuters.com/post/3m7czriqfmu2k" target="_blank">reuters.com</a> (2025-12-06 21:45:13)</span><span style="padding-right:50px;">Hamilton crashes as Russell keeps title favourite Norris off the top in final practice reut.rs/49ZQ6t1 <a href="https://bsky.app/profile/reuters.com/post/3m7czijzy532e" target="_blank">reuters.com</a> (2025-12-06 21:40:12)</span><span style="padding-right:50px;">🏏 Australia are on the brink of grabbing a 2-0 lead in the Ashes series after dominating a demoralised England on the third day of the day-night second Test in Brisbane  #AFPSports  ➡️ u.afp.com/S7if <a href="https://bsky.app/profile/en.afp.com/post/3m7czi7gfy72u" target="_blank">en.afp.com</a> (2025-12-06 21:40:01)</span><span style="padding-right:50px;">Four arrested at Tower of London after food thrown at State Crown display case reut.rs/3YbJLmV <a href="https://bsky.app/profile/reuters.com/post/3m7cz7hcono2a" target="_blank">reuters.com</a> (2025-12-06 21:35:07)</span>
+<span style="padding-right:50px;">【ポルノ禁止法を初適用】 AI生成の女児の性的画像所持疑い、元教諭を追送検 www.nikkei.com/article/DGXZQO...   5都道県の教員や元教員7人が女児らを盗撮し、SNSのグループチャットで画像を共有したとされる事件。   元の画像は盗撮されたものではないとみられ、被告は「学校のネットワーク内に保存されている撮影データを、SDカードを使って持ち出した」と説明しています。   #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m7d2pgaprx2k" target="_blank">nikkei.com</a> (2025-12-06 22:01:57)</span><span style="padding-right:50px;">The draw for next summer’s tournament went about as well as U.S. Soccer could hope, with no powerhouse from European or South American on deck in the opening round. on.wsj.com/4ajiq9Z <a href="https://bsky.app/profile/wsj.com/post/3m7d2o6sabi2h" target="_blank">wsj.com</a> (2025-12-06 22:01:16)</span><span style="padding-right:50px;">As political leaders question vaccine safety, scientists point to studies that show the shots might have unrelated benefits. on.wsj.com/48nGN4T <a href="https://bsky.app/profile/wsj.com/post/3m7d2o5yoyt24" target="_blank">wsj.com</a> (2025-12-06 22:01:15)</span><span style="padding-right:50px;">Data center demand forecasts have led to skyrocketing prices to secure future power supplies on the largest electric grid in the U.S.  If the demand forecasts are wrong, consumers could get stuck paying for expensive infrastructure for data centers that don’t get built or need less power. <a href="https://bsky.app/profile/cnbc.com/post/3m7d2mxswg62e" target="_blank">cnbc.com</a> (2025-12-06 22:00:35)</span><span style="padding-right:50px;">Many older women are unaware they have the serious bone disease because there are few obvious symptoms. <a href="https://bsky.app/profile/nbcnews.com/post/3m7d2mrgrbd27" target="_blank">nbcnews.com</a> (2025-12-06 22:00:28)</span>
   </div>
 </div>
 
@@ -32,101 +32,104 @@
 
 ## News Headlines
 
-1. Arc'teryx、中国でステータスシンボル化に成功
-2. マリニン、圧巻のフリーで世界最高記録を更新
-3. ハミルトンがクラッシュ、ラッセルがトップ
-4. ロンドン塔で王冠に食物投げつけ逮捕者
-5. EUがXに制裁金220億円、マスク氏が反発
-6. 中国空母が沖縄周辺で戦闘機発着艦訓練
+1. AI生成女児ポルノ所持疑い、元教諭を追送検
+2. 米サッカー、W杯組み合わせで幸運
+3. ワクチンに思わぬ効果？科学者が研究
+4. 中国空母、沖縄周辺で戦闘機発着訓練
+5. EU、Xに制裁金220億円、マスク氏反発
+6. 建築家フランク・ゲーリー氏死去、96歳
 
 ----
 
+@nikkei.com
+
+【ポルノ禁止法を初適用】
+AI生成の女児の性的画像所持疑い、元教諭を追送検
+www.nikkei.com/article/DGXZQO...
+ 
+5都道県の教員や元教員7人が女児らを盗撮し、SNSのグループチャットで画像を共有したとされる事件。
+ 
+元の画像は盗撮されたものではないとみられ、被告は「学校のネットワーク内に保存されている撮影データを、SDカードを使って持ち出した」と説明しています。
+ 
+#ニュース
+
+[2025-12-06 22:01:57](https://bsky.app/profile/nikkei.com/post/3m7d2pgaprx2k)
+
+---
+
 @wsj.com
 
-As other luxury brands struggle in China, Arc’teryx has succeeded there in part by turning its $1,000 jackets into a status symbol.
+The draw for next summer’s tournament went about as well as U.S. Soccer could hope, with no powerhouse from European or South American on deck in the opening round. on.wsj.com/4ajiq9Z
 
-[2025-12-06 21:45:58](https://bsky.app/profile/wsj.com/post/3m7czstxxz72p)
-
----
-
-@reuters.com
-
-'Quad God' Malinin crushes his own world free programme record to win Grand Prix Final reut.rs/4pmMy8R
-
-[2025-12-06 21:45:13](https://bsky.app/profile/reuters.com/post/3m7czriqfmu2k)
+[2025-12-06 22:01:16](https://bsky.app/profile/wsj.com/post/3m7d2o6sabi2h)
 
 ---
 
-@reuters.com
+@wsj.com
 
-Hamilton crashes as Russell keeps title favourite Norris off the top in final practice reut.rs/49ZQ6t1
+As political leaders question vaccine safety, scientists point to studies that show the shots might have unrelated benefits. on.wsj.com/48nGN4T
 
-[2025-12-06 21:40:12](https://bsky.app/profile/reuters.com/post/3m7czijzy532e)
+[2025-12-06 22:01:15](https://bsky.app/profile/wsj.com/post/3m7d2o5yoyt24)
+
+---
+
+@cnbc.com
+
+Data center demand forecasts have led to skyrocketing prices to secure future power supplies on the largest electric grid in the U.S.
+
+If the demand forecasts are wrong, consumers could get stuck paying for expensive infrastructure for data centers that don’t get built or need less power.
+
+[2025-12-06 22:00:35](https://bsky.app/profile/cnbc.com/post/3m7d2mxswg62e)
+
+---
+
+@nbcnews.com
+
+Many older women are unaware they have the serious bone disease because there are few obvious symptoms.
+
+[2025-12-06 22:00:28](https://bsky.app/profile/nbcnews.com/post/3m7d2mrgrbd27)
+
+---
+
+@washingtonpost.com
+
+Column by Monica Hesse: I would wager that “With Love, Meghan” is not exactly the future that Meghan Markle imagined. And mostly, I would speculate that this is because her repatriated future would have been unimaginable to anyone. https://wapo.st/48w3DpK
+
+[2025-12-06 22:00:16](https://bsky.app/profile/washingtonpost.com/post/3m7d2mfvxmr2a)
 
 ---
 
 @en.afp.com
 
-🏏 Australia are on the brink of grabbing a 2-0 lead in the Ashes series after dominating a demoralised England on the third day of the day-night second Test in Brisbane 
-#AFPSports 
-➡️ u.afp.com/S7if
+🇻🇪 Venezuelan opposition leader Maria Corina Machado, who lives in hiding in her country, has confirmed she will travel to Oslo to receive her Nobel Peace Prize, the head of the Nobel Institute told AFP.
+➡️ u.afp.com/S7ig
 
-[2025-12-06 21:40:01](https://bsky.app/profile/en.afp.com/post/3m7czi7gfy72u)
-
----
-
-@reuters.com
-
-Four arrested at Tower of London after food thrown at State Crown display case reut.rs/3YbJLmV
-
-[2025-12-06 21:35:07](https://bsky.app/profile/reuters.com/post/3m7cz7hcono2a)
+[2025-12-06 22:00:10](https://bsky.app/profile/en.afp.com/post/3m7d2macamu2x)
 
 ---
 
-@nikkei.com
+@apnews.com
 
-EUがXに制裁金220億円、イーロン・マスク氏が反発
-www.nikkei.com/article/DGXZQO...
- 
-EUが「Xだけでなく私個人にもばかげた罰金を科したことはさらに狂っている」とXに投稿。EUの措置への対応は「この行動をとった個人にも向けるのが適切」と主張し、EU幹部への報復を示唆しました。
- 
-今回の制裁金は比較的少額でしたが、Xが是正措置をとらない場合は追加制裁を科します。欧州委は制裁金算定にあたり、マスク氏個人の収益も対象になり得るとの考えを示しています。
- 
-#ニュース
+For the first time in a decade, hunters are fanning out across Florida to legally hunt the Florida black bear.
 
-[2025-12-06 21:31:56](https://bsky.app/profile/nikkei.com/post/3m7cyzqxrne2k)
+[2025-12-06 22:00:10](https://bsky.app/profile/apnews.com/post/3m7d2m7rz5f22)
 
 ---
 
-@usatoday.com
+@nhknewsunofficial.bsky.social
 
-The president’s approval rating fell to 42% while his disapproval rating rose. A greater share of respondents disapproved of Trump’s handling of the economy.
+中国海軍の空母 沖縄県周辺の太平洋で戦闘機の発着行う 防衛省
+https://news.web.nhk/newsweb/na/na-k10014996231000
 
-[2025-12-06 21:30:21](https://bsky.app/profile/usatoday.com/post/3m7cywvxhil2u)
-
----
-
-@financialtimes.com
-
-UK bankers hail coming ‘off the naughty step’ on.ft.com/44g0ARk
-
-[2025-12-06 21:27:59](https://bsky.app/profile/financialtimes.com/post/3m7cysolv2q2j)
+[2025-12-06 22:00:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7d2m2qjmf2r)
 
 ---
 
-@wsj.com
+@cbsnews.com
 
-Heard on the Street: Taking over Warner, Hollywood’s biggest studio, would transform Netflix’s business model, at a steep price.
+More than 900 people have died in Indonesia, the country's disaster management agency said Saturday, according to the AFP. The death toll stood at 908, with 410 people still reported missing.
 
-[2025-12-06 21:27:06](https://bsky.app/profile/wsj.com/post/3m7cyr4ooa222)
-
----
-
-@npr.org
-
-Thursday's attack is the latest in the fighting between the paramilitary group, the Rapid Support Forces, also known as the RSF, and the Sudanese military, who have been at war for over two years. n.pr/3Mlijkg
-
-[2025-12-06 21:27:05](https://bsky.app/profile/npr.org/post/3m7cyr2mgvu2r)
+[2025-12-06 22:00:01](https://bsky.app/profile/cbsnews.com/post/3m7d2lxkqmz2n)
 
 ---
 
