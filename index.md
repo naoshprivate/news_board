@@ -1,9 +1,9 @@
-# [2025-12-07 01:50 updated](2025_12_07.md)
+# [2025-12-07 02:10 updated](2025_12_07.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Kohli credits 'most satisfying' series as he rediscovers his best form in years reut.rs/4pjP8wj <a href="https://bsky.app/profile/reuters.com/post/3m7dh6nwzfi2k" target="_blank">reuters.com</a> (2025-12-07 01:45:13)</span><span style="padding-right:50px;">🇸🇦 Nuts and beer: booze-free bar offers Saudis a pub vibe  In Riyadh, women in niqabs and men in traditional white robes sip alcohol-free pints, with no expectation of a hangover. The incongruous scene signals the changes under way in the conservative kingdom which banned alcohol in 1952. <a href="https://bsky.app/profile/en.afp.com/post/3m7dgwd3iib2z" target="_blank">en.afp.com</a> (2025-12-07 01:40:34)</span><span style="padding-right:50px;">Tunisians step up protests against Saied's crackdown on opposition reut.rs/48TXl4t <a href="https://bsky.app/profile/reuters.com/post/3m7dgvp4cji2i" target="_blank">reuters.com</a> (2025-12-07 01:40:12)</span><span style="padding-right:50px;">Report: Mississippi State bringing back Zach Arnett as DC reut.rs/4psCzPq <a href="https://bsky.app/profile/reuters.com/post/3m7dgmliwt322" target="_blank">reuters.com</a> (2025-12-07 01:35:07)</span><span style="padding-right:50px;">🇹🇷 Efforts to broker peace between Turkey and the Kurdish militant group PKK have had a "positive impact" on Syria's Kurds who also want dialogue with Ankara, one of its top officials said Saturday.  ➡️ u.afp.com/S7ir <a href="https://bsky.app/profile/en.afp.com/post/3m7dgfbkrbf2j" target="_blank">en.afp.com</a> (2025-12-07 01:31:02)</span>
+<span style="padding-right:50px;">Scottish Tory peer defects to Reform at Falkirk rally on.ft.com/4rOJGn1 <a href="https://bsky.app/profile/financialtimes.com/post/3m7difmn3ci2v" target="_blank">financialtimes.com</a> (2025-12-07 02:07:01)</span><span style="padding-right:50px;">Dollar stores continue to see higher-income shoppers, even as consumer sentiment improves <a href="https://bsky.app/profile/yahoofinance.com/post/3m7didyjery2p" target="_blank">yahoofinance.com</a> (2025-12-07 02:06:06)</span><span style="padding-right:50px;">Report: Memphis closes in on Southern Miss' Charles Huff reut.rs/3Mexbkm <a href="https://bsky.app/profile/reuters.com/post/3m7dicbppmd2n" target="_blank">reuters.com</a> (2025-12-07 02:05:09)</span><span style="padding-right:50px;">Kristen Stewart shot to stardom with “Twilight,” but has since largely rejected big-budget movies for independent work. On “The Interview,” she discussed frustrations with the entertainment industry, navigating vulnerability in acting and more. trib.al/Nr8CCg9 <a href="https://bsky.app/profile/nytimes.com/post/3m7diabre6k2d" target="_blank">nytimes.com</a> (2025-12-07 02:04:02)</span><span style="padding-right:50px;">Syrian president accuses Israel of fabricating threats to justify militarism and divert attention from Gaza massacres. <a href="https://bsky.app/profile/aljazeera.com/post/3m7di2thsei2v" target="_blank">aljazeera.com</a> (2025-12-07 02:00:59)</span>
   </div>
 </div>
 
@@ -32,104 +32,93 @@
 
 ## News Headlines
 
-1. コーリ、最高のフォームを再発見し「最も満足のいく」シリーズと評価
-2. サウジ、アルコールフリーバーで伝統的な雰囲気を
-3. チュニジア、サイード大統領の反対派弾圧に抗議激化
-4. 南アフリカ、プレトリアの違法バーで銃撃事件、子供含む25人死傷
-5. Netflix、590億ドルのブリッジローンで大型買収へ
-6. 東京・墨田区の風俗店で赤ちゃんの遺体発見、警視庁が捜査
+1. スコットランド保守党議員、改革党へ鞍替え
+2. ドルストア、高所得層の顧客増加続く
+3. 報道：メンフィス大、サザンミシシッピ大のチャールズ・ハフ氏に接近
+4. シリア大統領、イスラエルを非難：ガザ虐殺から目をそらすため脅威を捏造
+5. アップル、テック業界の岐路で幹部交代
+6. 岐阜県で震度1の地震発生
 
 ----
 
-@reuters.com
+@financialtimes.com
 
-Kohli credits 'most satisfying' series as he rediscovers his best form in years reut.rs/4pjP8wj
+Scottish Tory peer defects to Reform at Falkirk rally on.ft.com/4rOJGn1
 
-[2025-12-07 01:45:13](https://bsky.app/profile/reuters.com/post/3m7dh6nwzfi2k)
-
----
-
-@en.afp.com
-
-🇸🇦 Nuts and beer: booze-free bar offers Saudis a pub vibe
-
-In Riyadh, women in niqabs and men in traditional white robes sip alcohol-free pints, with no expectation of a hangover. The incongruous scene signals the changes under way in the conservative kingdom which banned alcohol in 1952.
-
-[2025-12-07 01:40:34](https://bsky.app/profile/en.afp.com/post/3m7dgwd3iib2z)
+[2025-12-07 02:07:01](https://bsky.app/profile/financialtimes.com/post/3m7difmn3ci2v)
 
 ---
 
-@reuters.com
+@yahoofinance.com
 
-Tunisians step up protests against Saied's crackdown on opposition reut.rs/48TXl4t
+Dollar stores continue to see higher-income shoppers, even as consumer sentiment improves
 
-[2025-12-07 01:40:12](https://bsky.app/profile/reuters.com/post/3m7dgvp4cji2i)
+[2025-12-07 02:06:06](https://bsky.app/profile/yahoofinance.com/post/3m7didyjery2p)
 
 ---
 
 @reuters.com
 
-Report: Mississippi State bringing back Zach Arnett as DC reut.rs/4psCzPq
+Report: Memphis closes in on Southern Miss' Charles Huff reut.rs/3Mexbkm
 
-[2025-12-07 01:35:07](https://bsky.app/profile/reuters.com/post/3m7dgmliwt322)
-
----
-
-@en.afp.com
-
-🇹🇷 Efforts to broker peace between Turkey and the Kurdish militant group PKK have had a "positive impact" on Syria's Kurds who also want dialogue with Ankara, one of its top officials said Saturday. 
-➡️ u.afp.com/S7ir
-
-[2025-12-07 01:31:02](https://bsky.app/profile/en.afp.com/post/3m7dgfbkrbf2j)
+[2025-12-07 02:05:09](https://bsky.app/profile/reuters.com/post/3m7dicbppmd2n)
 
 ---
 
-@usatoday.com
+@nytimes.com
 
-"Real Housewives of Beverly Hills" star Kyle Richards tells USA TODAY about her separation, dating rumors and questions about her love life.
+Kristen Stewart shot to stardom with “Twilight,” but has since largely rejected big-budget movies for independent work. On “The Interview,” she discussed frustrations with the entertainment industry, navigating vulnerability in acting and more. trib.al/Nr8CCg9
 
-[2025-12-07 01:30:19](https://bsky.app/profile/usatoday.com/post/3m7dgdyljpy2u)
+[2025-12-07 02:04:02](https://bsky.app/profile/nytimes.com/post/3m7diabre6k2d)
 
 ---
 
 @aljazeera.com
 
-Police say 25 people were shot at 'illegal' bar in hostel in Pretoria, with three children among the dead.
+Syrian president accuses Israel of fabricating threats to justify militarism and divert attention from Gaza massacres.
 
-[2025-12-07 01:30:13](https://bsky.app/profile/aljazeera.com/post/3m7dgdtpqd22k)
+[2025-12-07 02:00:59](https://bsky.app/profile/aljazeera.com/post/3m7di2thsei2v)
+
+---
+
+@apnews.com
+
+Eileen Gu returned to the mountain where she closed out her victorious stay at the Beijing Olympics to capture the first Snow League title for freeskiing.
+
+[2025-12-07 02:00:52](https://bsky.app/profile/apnews.com/post/3m7di2mnodi22)
+
+---
+
+@usatoday.com
+
+A fraud investigation and criticism from President Donald Trump have put the national spotlight on a community that fled a civil war.
+
+[2025-12-07 02:00:47](https://bsky.app/profile/usatoday.com/post/3m7di2iqmkq2u)
 
 ---
 
 @cnn.com
 
-Competing for Team Canada, Ryan Wedding finished as the 24th-best parallel giant slalom snowboarder in the world at the 2002 Winter Olympics.
+The company known for its steadiness is going through a shakeup at the top, as both Apple and the tech industry at large are at a crossroads.
+https://cnn.it/4qcRrBF
 
-Over two decades later, he's now part of another distinctive group: The FBI's Ten Most Wanted Fugitives.
-https://cnn.it/48tnoy0
-
-[2025-12-07 01:30:08](https://bsky.app/profile/cnn.com/post/3m7dgdoszws2i)
-
----
-
-@bloomberg.com
-
-While most Americans were watching football and feasting on turkey, Netflix executives and advisers hunkered down to finalize a binding offer and a $59 billion bridge loan from banks. Read more: bloom.bg/3KAELoT
-
-📷️: Ethan Swope/Bloomberg
-
-[2025-12-07 01:30:08](https://bsky.app/profile/bloomberg.com/post/3m7dgdoklkx2h)
+[2025-12-07 02:00:27](https://bsky.app/profile/cnn.com/post/3m7dhzvb2r42s)
 
 ---
 
 @washingtonpost.com
 
-Rosie O'Donnell moved to Ireland to escape the emotional toll of Donald Trump’s presidency.
+Common anti-vaccine talking points were on display as the CDC’s immunization advisers repealed a hepatitis B birth vaccine recommendation and scrutinized the childhood schedule.
 
-In Ireland, she found solace and a renewed connection to her craft, despite her ongoing fixation with Trump.
+[2025-12-07 02:00:26](https://bsky.app/profile/washingtonpost.com/post/3m7dhzu7yru2r)
 
-Here’s what she’s been up to: 
+---
 
-[2025-12-07 01:30:07](https://bsky.app/profile/washingtonpost.com/post/3m7dgdnq6qj23)
+@reuters.com
+
+Charlton v Portsmouth match abandoned, fan dies in hospital reut.rs/48VBR7p
+
+[2025-12-07 02:00:26](https://bsky.app/profile/reuters.com/post/3m7dhzu4mo22r)
 
 ---
 
