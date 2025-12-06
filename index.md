@@ -1,9 +1,9 @@
-# [2025-12-06 09:10 updated](2025_12_06.md)
+# [2025-12-06 09:30 updated](2025_12_06.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】「西海パールライン」通行止め情報 (2025-12-06 09:05:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7bpgq7zkw26" target="_blank">sokuho.news</a> (2025-12-06 09:07:35)</span><span style="padding-right:50px;">Constellation reaches agreement with US Department of Justice for acquisition of Calpine reut.rs/4rLeBRa <a href="https://bsky.app/profile/reuters.com/post/3m7bpcf3pun2r" target="_blank">reuters.com</a> (2025-12-06 09:05:09)</span><span style="padding-right:50px;">360度評価低い部長に異動予告、納得いかず質問繰り返し解雇 www.nikkei.com/article/DGXZTS...  評価シートの回収を担う社長が結果を改ざんしたのではないか。  部長が抱いた疑念を伝えると、社長は「あなたのような社員が1人いると困る」  翌日、社長に「確認事項」と題したメールを送り、返信があるとさらに別の文書を送信して質問を重ねました。  双方の訴えに裁判所が下した結論とは。 <a href="https://bsky.app/profile/nikkei.com/post/3m7bp4nicdg2k" target="_blank">nikkei.com</a> (2025-12-06 09:01:56)</span><span style="padding-right:50px;">Holders Argentina and leading contenders Spain were handed kind draws for the 2026 World Cup at a star-studded ceremony where US President Donald Trump took center stage u.afp.com/S7wf <a href="https://bsky.app/profile/en.afp.com/post/3m7bp3fakky2y" target="_blank">en.afp.com</a> (2025-12-06 09:01:14)</span><span style="padding-right:50px;">Six member states push EU to water down 2035 ban on internal combustion engine cars reut.rs/4oExbHE <a href="https://bsky.app/profile/reuters.com/post/3m7bp35xl232e" target="_blank">reuters.com</a> (2025-12-06 09:01:06)</span>
+<span style="padding-right:50px;">Netflix leans on $59bn bank loan to fund Warner Bros takeover on.ft.com/4plDe51 <a href="https://bsky.app/profile/financialtimes.com/post/3m7bqhkxoqt26" target="_blank">financialtimes.com</a> (2025-12-06 09:25:56)</span><span style="padding-right:50px;">Ukraine's GDP-linked debt holder group pushes back decision on support for restructuring plan reut.rs/48U7HkV <a href="https://bsky.app/profile/reuters.com/post/3m7bqg6jj6j2i" target="_blank">reuters.com</a> (2025-12-06 09:25:10)</span><span style="padding-right:50px;">Chi Ossé, a New York City councilman, confirmed on Friday that he was officially ending a primary challenge against Representative Hakeem Jeffries, the House Democratic leader. <a href="https://bsky.app/profile/nytimes.com/post/3m7bqfzxytf2m" target="_blank">nytimes.com</a> (2025-12-06 09:25:05)</span><span style="padding-right:50px;">Simone Cromer, a 59-year-old who works in healthcare, started the fan account Club Chalamet to support her favorite actor. Instead, she became the story. <a href="https://bsky.app/profile/wsj.com/post/3m7bq4vu4av2x" target="_blank">wsj.com</a> (2025-12-06 09:19:59)</span><span style="padding-right:50px;">Vaccine makers raise concerns over US panel's shift away from hepatitis B shots for newborns reut.rs/3XH3quS <a href="https://bsky.app/profile/reuters.com/post/3m7bpulk4er26" target="_blank">reuters.com</a> (2025-12-06 09:15:19)</span>
   </div>
 </div>
 
@@ -32,14 +32,78 @@
 
 ## News Headlines
 
-1.  西海パールライン、通行止め
-2.  Netflix、ワーナー買収で業界再編か
-3.  W杯2026、組み合わせ決定 - トランプ大統領も登壇
-4.  EU、内燃機関車禁止緩和を検討
-5.  テスラ、日本でEV充電網を拡大
-6.  建築家フランク・ゲーリー氏死去、96歳
+1. Netflix、ワーナー買収に7兆円超の銀行融資を活用
+2. ウクライナGDP連動債権者グループ、債務再編計画への支持決定を先送り
+3. スペースX、二次株式販売で120兆円評価額目指す
+4. 米判事、エプスタイン事件大陪審記録の公開を許可
+5. テスラ、日本全国にEV充電網を拡大、2027年に1000口へ
+6. 建築家フランク・ゲーリー氏死去、96歳
 
 ----
+
+@financialtimes.com
+
+Netflix leans on $59bn bank loan to fund Warner Bros takeover on.ft.com/4plDe51
+
+[2025-12-06 09:25:56](https://bsky.app/profile/financialtimes.com/post/3m7bqhkxoqt26)
+
+---
+
+@reuters.com
+
+Ukraine's GDP-linked debt holder group pushes back decision on support for restructuring plan reut.rs/48U7HkV
+
+[2025-12-06 09:25:10](https://bsky.app/profile/reuters.com/post/3m7bqg6jj6j2i)
+
+---
+
+@nytimes.com
+
+Chi Ossé, a New York City councilman, confirmed on Friday that he was officially ending a primary challenge against Representative Hakeem Jeffries, the House Democratic leader.
+
+[2025-12-06 09:25:05](https://bsky.app/profile/nytimes.com/post/3m7bqfzxytf2m)
+
+---
+
+@wsj.com
+
+Simone Cromer, a 59-year-old who works in healthcare, started the fan account Club Chalamet to support her favorite actor. Instead, she became the story.
+
+[2025-12-06 09:19:59](https://bsky.app/profile/wsj.com/post/3m7bq4vu4av2x)
+
+---
+
+@reuters.com
+
+Vaccine makers raise concerns over US panel's shift away from hepatitis B shots for newborns reut.rs/3XH3quS
+
+[2025-12-06 09:15:19](https://bsky.app/profile/reuters.com/post/3m7bpulk4er26)
+
+---
+
+@cnbc.com
+
+SpaceX aims for $800 billion valuation in secondary share sale, WSJ reports
+
+[2025-12-06 09:14:42](https://bsky.app/profile/cnbc.com/post/3m7bpthcfav2g)
+
+---
+
+@reuters.com
+
+US judge clears Justice Department to release Epstein grand jury transcripts reut.rs/4pS2kbI
+
+[2025-12-06 09:10:19](https://bsky.app/profile/reuters.com/post/3m7bpln5dnd2a)
+
+---
+
+@nytimes.com
+
+The rapper Tekashi69, described by a Manhattan judge as having repeatedly violated the terms of his probation, was sentenced on Friday to three months in prison.
+
+[2025-12-06 09:10:02](https://bsky.app/profile/nytimes.com/post/3m7bpl4x7sz27)
+
+---
 
 @sokuho.news
 
@@ -57,83 +121,6 @@
 Constellation reaches agreement with US Department of Justice for acquisition of Calpine reut.rs/4rLeBRa
 
 [2025-12-06 09:05:09](https://bsky.app/profile/reuters.com/post/3m7bpcf3pun2r)
-
----
-
-@nikkei.com
-
-360度評価低い部長に異動予告、納得いかず質問繰り返し解雇
-www.nikkei.com/article/DGXZTS...
-
-評価シートの回収を担う社長が結果を改ざんしたのではないか。
-
-部長が抱いた疑念を伝えると、社長は「あなたのような社員が1人いると困る」
-
-翌日、社長に「確認事項」と題したメールを送り、返信があるとさらに別の文書を送信して質問を重ねました。
-
-双方の訴えに裁判所が下した結論とは。
-
-[2025-12-06 09:01:56](https://bsky.app/profile/nikkei.com/post/3m7bp4nicdg2k)
-
----
-
-@en.afp.com
-
-Holders Argentina and leading contenders Spain were handed kind draws for the 2026 World Cup at a star-studded ceremony where US President Donald Trump took center stage u.afp.com/S7wf
-
-[2025-12-06 09:01:14](https://bsky.app/profile/en.afp.com/post/3m7bp3fakky2y)
-
----
-
-@reuters.com
-
-Six member states push EU to water down 2035 ban on internal combustion engine cars reut.rs/4oExbHE
-
-[2025-12-06 09:01:06](https://bsky.app/profile/reuters.com/post/3m7bp35xl232e)
-
----
-
-@apnews.com
-
-Netflix's $72 billion deal to acquire Warner Bros. studio and its film and television operations drew quick reactions.
-
-Film and television industry entities including guilds and the lobbying group for movie theater owners criticized the deal, warning it would harm consumers and cinema owners.
-
-[2025-12-06 09:00:55](https://bsky.app/profile/apnews.com/post/3m7bp2stxk42p)
-
----
-
-@usatoday.com
-
-Who rules the streaming world after the Netflix-Warner deal?
-
-[2025-12-06 09:00:46](https://bsky.app/profile/usatoday.com/post/3m7bp2ke7hn2j)
-
----
-
-@cnbc.com
-
-There’s a lot of advice out there about how to increase the amount of joy in your life.
-
-For example, leading happiness researcher and expert Arthur Brooks has 10 tried-and-true ways to be happier, he wrote in his book “The Happiness Files: Insights on Work and Life.”
-
-[2025-12-06 09:00:24](https://bsky.app/profile/cnbc.com/post/3m7bozv3hka2h)
-
----
-
-@nbcnews.com
-
-The man charged with planting two pipe bombs near the Democratic and Republican party headquarters on the eve of the Jan. 6 attack on the U.S. Capitol told the FBI he believed conspiracy theories about the 2020 election, according to two people familiar with the matter.
-
-[2025-12-06 09:00:22](https://bsky.app/profile/nbcnews.com/post/3m7boztbhkp2c)
-
----
-
-@washingtonpost.com
-
-Vanity Fair is cutting ties with journalist Olivia Nuzzi amid the fallout from new allegations from her former fiancé about the extent of her inappropriate relationships with her high-profile sources, including Robert F. Kennedy Jr.
-
-[2025-12-06 09:00:15](https://bsky.app/profile/washingtonpost.com/post/3m7boznbqxq23)
 
 ---
 
