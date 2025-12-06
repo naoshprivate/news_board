@@ -1,9 +1,9 @@
-# [2025-12-06 14:30 updated](2025_12_06.md)
+# [2025-12-06 14:50 updated](2025_12_06.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;"> Goodbye to all flat — how to create a garden where plants and wildlife thrive on.ft.com/4avHWZp  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m7cbfzwvpx2j" target="_blank">financialtimes.com</a> (2025-12-06 14:29:19)</span><span style="padding-right:50px;">World Bank to partner with global vaccine group Gavi on $2 billion in funding reut.rs/4rAQ017 <a href="https://bsky.app/profile/reuters.com/post/3m7cavox2n22k" target="_blank">reuters.com</a> (2025-12-06 14:20:10)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】ヴァンラーレ八戸の石﨑信弘監督が退任 クラブ史上初のJ2昇格に導いた名将「自分がチームを離れるのは大変心苦しい思い。家庭の事情により生活環境を変える必要があり、熟考の末、… (2025-12-06 14:14:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7casb4lxx2e" target="_blank">sokuho.news</a> (2025-12-06 14:18:15)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】ヴァンラーレ八戸の石﨑信弘監督が退任 クラブ史上初のJ2昇格に導いた名将 (2025-12-06 14:14:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7canjbrds2w" target="_blank">sokuho.news</a> (2025-12-06 14:15:36)</span><span style="padding-right:50px;">Reports: Georgia seeking $390K from DE Damon Wilson in transfer damages reut.rs/49ZBR7x <a href="https://bsky.app/profile/reuters.com/post/3m7cadx7sn62n" target="_blank">reuters.com</a> (2025-12-06 14:10:15)</span>
+<span style="padding-right:50px;">Bayern's Diaz gets Champions League ban reduced to two games reut.rs/48q5NbO <a href="https://bsky.app/profile/reuters.com/post/3m7cbzh7v3k2o" target="_blank">reuters.com</a> (2025-12-06 14:40:10)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】山形新幹線は停電のため米沢～山形間で運転見合わせ 原因調査中 (2025-12-06 14:25:00) #ニュース  🚄鉄道運行情報 🔗https://transit.yahoo.co.jp/diainfo <a href="https://bsky.app/profile/sokuho.news/post/3m7cbwjtizc2w" target="_blank">sokuho.news</a> (2025-12-06 14:38:32)</span><span style="padding-right:50px;"> Investment trusts need to prove their relevance again on.ft.com/3KLkexQ  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m7cbql5i3m27" target="_blank">financialtimes.com</a> (2025-12-06 14:35:12)</span><span style="padding-right:50px;"> Don’t get hung up on investment trust discounts on.ft.com/48nAtKL  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m7cbqknr3a2v" target="_blank">financialtimes.com</a> (2025-12-06 14:35:12)</span><span style="padding-right:50px;"> Birds of a feather: how I became friends with a robin on.ft.com/4oIHJ8T  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m7cbqjwxru2n" target="_blank">financialtimes.com</a> (2025-12-06 14:35:11)</span>
   </div>
 </div>
 
@@ -32,28 +32,20 @@
 
 ## News Headlines
 
-1.  ヴァンラーレ八戸 石﨑信弘監督が退任、J2昇格に導いた名将
-2.  ワールドバンク、Gaviとワクチン資金で20億ドルの提携
-3.  レイカーズ八村塁、セルティックス戦で13得点もチーム敗北
-4.  メキシコ麻薬カルテル関与、元DEA高官が起訴
-5.  ボーイングとスピリット・エアロ、早ければ月曜日に契約完了か
-6.  第一工科大、「島原学生駅伝」男子で3大会ぶり栄冠
+1. バイエルン、ディアスのCL出場停止処分が2試合に軽減
+2. 山形新幹線、停電で米沢～山形間運転見合わせ
+3. ベトナムの対米貿易黒字が過去最高を記録
+4. ワールドバンク、ワクチン団体Gaviと20億ドルの資金援助で提携
+5. ヴァンラーレ八戸、石﨑信弘監督が退任
+6. ダークマター由来か？東京大学がガンマ線を発見
 
 ----
 
-@financialtimes.com
-
- Goodbye to all flat — how to create a garden where plants and wildlife thrive on.ft.com/4avHWZp  | opinion
-
-[2025-12-06 14:29:19](https://bsky.app/profile/financialtimes.com/post/3m7cbfzwvpx2j)
-
----
-
 @reuters.com
 
-World Bank to partner with global vaccine group Gavi on $2 billion in funding reut.rs/4rAQ017
+Bayern's Diaz gets Champions League ban reduced to two games reut.rs/48q5NbO
 
-[2025-12-06 14:20:10](https://bsky.app/profile/reuters.com/post/3m7cavox2n22k)
+[2025-12-06 14:40:10](https://bsky.app/profile/reuters.com/post/3m7cbzh7v3k2o)
 
 ---
 
@@ -61,74 +53,77 @@ World Bank to partner with global vaccine group Gavi on $2 billion in funding re
 
 🛎️JNNより【速報】です。
 
-【速報】ヴァンラーレ八戸の石﨑信弘監督が退任 クラブ史上初のJ2昇格に導いた名将「自分がチームを離れるのは大変心苦しい思い。家庭の事情により生活環境を変える必要があり、熟考の末、…
-(2025-12-06 14:14:00) #ニュース
+【速報】山形新幹線は停電のため米沢～山形間で運転見合わせ 原因調査中
+(2025-12-06 14:25:00) #ニュース
 
-[2025-12-06 14:18:15](https://bsky.app/profile/sokuho.news/post/3m7casb4lxx2e)
+🚄鉄道運行情報
+🔗https://transit.yahoo.co.jp/diainfo
 
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】ヴァンラーレ八戸の石﨑信弘監督が退任 クラブ史上初のJ2昇格に導いた名将
-(2025-12-06 14:14:00) #ニュース
-
-[2025-12-06 14:15:36](https://bsky.app/profile/sokuho.news/post/3m7canjbrds2w)
-
----
-
-@reuters.com
-
-Reports: Georgia seeking $390K from DE Damon Wilson in transfer damages reut.rs/49ZBR7x
-
-[2025-12-06 14:10:15](https://bsky.app/profile/reuters.com/post/3m7cadx7sn62n)
-
----
-
-@nhknewsunofficial.bsky.social
-
-NBA レイカーズ 八村塁 セルティックス戦13得点もチーム敗れる
-https://news.web.nhk/newsweb/na/na-k10014996021000
-
-[2025-12-06 14:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7cabudw6t24)
+[2025-12-06 14:38:32](https://bsky.app/profile/sokuho.news/post/3m7cbwjtizc2w)
 
 ---
 
 @financialtimes.com
 
- Why Americans are feeling poorer even though they’re not on.ft.com/4rDM5k6  | opinion
+ Investment trusts need to prove their relevance again on.ft.com/3KLkexQ  | opinion
 
-[2025-12-06 14:05:01](https://bsky.app/profile/financialtimes.com/post/3m7ca2lqi762r)
+[2025-12-06 14:35:12](https://bsky.app/profile/financialtimes.com/post/3m7cbql5i3m27)
 
 ---
 
 @financialtimes.com
 
- Glencore’s copper pitch: buy in or buy me on.ft.com/49WixYI  | opinion
+ Don’t get hung up on investment trust discounts on.ft.com/48nAtKL  | opinion
 
-[2025-12-06 14:05:01](https://bsky.app/profile/financialtimes.com/post/3m7ca2lpdgn2q)
-
----
-
-@wsj.com
-
-Everyone knows walking is good for you, and many of us count our daily steps. But is it better to take a longer walk than a comparable number of steps spread across the day?
-
-A multinational team of researchers set out to find the answer.
-
-Read more: on.wsj.com/3XVkAoR
-
-[2025-12-06 14:01:20](https://bsky.app/profile/wsj.com/post/3m7c7tzm72t2p)
+[2025-12-06 14:35:12](https://bsky.app/profile/financialtimes.com/post/3m7cbqknr3a2v)
 
 ---
 
-@cnn.com
+@financialtimes.com
 
-A former high-level Drug Enforcement agent was indicted on charges of conspiring to traffic drugs and launder millions of dollars for a Mexican cartel. 
+ Birds of a feather: how I became friends with a robin on.ft.com/4oIHJ8T  | opinion
 
-[2025-12-06 14:01:01](https://bsky.app/profile/cnn.com/post/3m7c7tgyq4u2b)
+[2025-12-06 14:35:11](https://bsky.app/profile/financialtimes.com/post/3m7cbqjwxru2n)
+
+---
+
+@financialtimes.com
+
+ The best red wines for Christmas 2025, from £10.95 to £230 on.ft.com/4iMII6G  | opinion
+
+[2025-12-06 14:35:11](https://bsky.app/profile/financialtimes.com/post/3m7cbqjirwh2l)
+
+---
+
+@financialtimes.com
+
+ Maga’s strange rage against Europe on.ft.com/4iI8gSm  | opinion
+
+[2025-12-06 14:35:09](https://bsky.app/profile/financialtimes.com/post/3m7cbqiedke27)
+
+---
+
+@financialtimes.com
+
+ I’ve been caught out by a Ring doorbell — have you? on.ft.com/448v33M  | opinion
+
+[2025-12-06 14:35:06](https://bsky.app/profile/financialtimes.com/post/3m7cbqfaryc23)
+
+---
+
+@financialtimes.com
+
+ It’s work party season — here’s a survival guide on.ft.com/3KvpFB6  | opinion
+
+[2025-12-06 14:35:04](https://bsky.app/profile/financialtimes.com/post/3m7cbqdeuz427)
+
+---
+
+@financialtimes.com
+
+ Mega is trumping Maga in stocks on.ft.com/4aFyyT0  | opinion
+
+[2025-12-06 14:35:04](https://bsky.app/profile/financialtimes.com/post/3m7cbqdevvq2v)
 
 ---
 
