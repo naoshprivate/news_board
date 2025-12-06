@@ -1,9 +1,9 @@
-# [2025-12-06 17:50 updated](2025_12_06.md)
+# [2025-12-06 18:10 updated](2025_12_06.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】山形新幹線 午後5時9分ごろ運転を再開 (2025-12-06 17:29:00) #ニュース  🚄鉄道運行情報 🔗https://transit.yahoo.co.jp/diainfo <a href="https://bsky.app/profile/sokuho.news/post/3m7cmez3zw22y" target="_blank">sokuho.news</a> (2025-12-06 17:45:35)</span><span style="padding-right:50px;">US dietary guidelines delayed until early 2026 reut.rs/44U5N1h <a href="https://bsky.app/profile/reuters.com/post/3m7cmec4npi2a" target="_blank">reuters.com</a> (2025-12-06 17:45:11)</span><span style="padding-right:50px;">サッカーJ1 鹿島アントラーズ 9年ぶり9回目優勝 歴代最多更新 https://news.web.nhk/newsweb/na/na-k10014996051000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7cme4u6ja23" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-06 17:45:03)</span><span style="padding-right:50px;">Canadian dollar rises to 10-week high as jobs data beats estimates for third month reut.rs/3MhToxX <a href="https://bsky.app/profile/reuters.com/post/3m7cm3ey6zq2i" target="_blank">reuters.com</a> (2025-12-06 17:40:12)</span><span style="padding-right:50px;">大規模火災の香港 7日に立法会議員選挙 市民の関心は低調 https://news.web.nhk/newsweb/na/na-k10014996091000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7clzeig7k2n" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-06 17:39:03)</span>
+<span style="padding-right:50px;">山口 宇部市のガス漏れ 多くの地域で供給停止 6日も復旧作業 https://news.web.nhk/newsweb/na/na-k10014995951000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7cnoyhomb2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-06 18:09:02)</span><span style="padding-right:50px;">Air travel across India was in turmoil for a fourth day on Friday after IndiGo canceled more than 1,000 flights, including all departures from New Delhi, prompting the government to announce special relief measures for the country’s largest airline.  <a href="https://bsky.app/profile/cnn.com/post/3m7cnovyeyn2s" target="_blank">cnn.com</a> (2025-12-06 18:09:01)</span><span style="padding-right:50px;">Women can self-test at home for cervical cancer virus, new guidelines say reut.rs/3KjTx3k <a href="https://bsky.app/profile/reuters.com/post/3m7cnhwhgsk2y" target="_blank">reuters.com</a> (2025-12-06 18:05:07)</span><span style="padding-right:50px;">千葉京成ホテル、客室の運転シミュレーターをバージョンアップ（無料記事） www.nikkei.com/article/DGXZQO...  ホテルの14階にあるトレインルームは京成電鉄3400形の実物の運転台を使ったシミュレーター。  京成津田沼―京成高砂間を追加し、成田空港駅から京成上野駅まで京成本線全線の運転を体験できるように。  リピーター向けには、最高時速160kmのスカイライナーで京成上野―成田空港を走る特別モードも追加しました。 <a href="https://bsky.app/profile/nikkei.com/post/3m7cncbdtsu2j" target="_blank">nikkei.com</a> (2025-12-06 18:01:57)</span><span style="padding-right:50px;">Mexico's peso to trade within decade-old range in 2026: Reuters poll reut.rs/4porQpe <a href="https://bsky.app/profile/reuters.com/post/3m7cn7wpmbk26" target="_blank">reuters.com</a> (2025-12-06 18:00:39)</span>
   </div>
 </div>
 
@@ -32,107 +32,104 @@
 
 ## News Headlines
 
-1. 山形新幹線、午後5時9分運転再開
-2. 鹿島アントラーズ、J1で9年ぶり最多9回目の優勝
-3. 米国の食事ガイドライン、2026年初頭まで延期
-4. 香港立法会議員選挙、大規模火災で市民の関心低調
-5. 大隅半島東方沖で地震発生、最大震度1
-6. カーリング女子日本代表、世界最終予選でアメリカに勝利
+1. 山口 宇部市でガス漏れ、広範囲で供給停止続く
+2. 子宮頸がんウイルス、自宅で自己検査可能に
+3. 千葉京成ホテル、運転シミュレーターをバージョンアップ
+4. WHO事務局長、次のパンデミックへの国際連携を呼びかけ
+5. 鹿島アントラーズ、J1で9年ぶり9回目の優勝
+6. 年末年始、帰省時に親の健康状態を確認
 
 ----
 
-@sokuho.news
+@nhknewsunofficial.bsky.social
 
-🛎️JNNより【速報】です。
+山口 宇部市のガス漏れ 多くの地域で供給停止 6日も復旧作業
+https://news.web.nhk/newsweb/na/na-k10014995951000
 
-【速報】山形新幹線 午後5時9分ごろ運転を再開
-(2025-12-06 17:29:00) #ニュース
+[2025-12-06 18:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7cnoyhomb2b)
 
-🚄鉄道運行情報
-🔗https://transit.yahoo.co.jp/diainfo
+---
 
-[2025-12-06 17:45:35](https://bsky.app/profile/sokuho.news/post/3m7cmez3zw22y)
+@cnn.com
+
+Air travel across India was in turmoil for a fourth day on Friday after IndiGo canceled more than 1,000 flights, including all departures from New Delhi, prompting the government to announce special relief measures for the country’s largest airline. 
+
+[2025-12-06 18:09:01](https://bsky.app/profile/cnn.com/post/3m7cnovyeyn2s)
 
 ---
 
 @reuters.com
 
-US dietary guidelines delayed until early 2026 reut.rs/44U5N1h
+Women can self-test at home for cervical cancer virus, new guidelines say reut.rs/3KjTx3k
 
-[2025-12-06 17:45:11](https://bsky.app/profile/reuters.com/post/3m7cmec4npi2a)
+[2025-12-06 18:05:07](https://bsky.app/profile/reuters.com/post/3m7cnhwhgsk2y)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@nikkei.com
 
-サッカーJ1 鹿島アントラーズ 9年ぶり9回目優勝 歴代最多更新
-https://news.web.nhk/newsweb/na/na-k10014996051000
+千葉京成ホテル、客室の運転シミュレーターをバージョンアップ（無料記事）
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-06 17:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7cme4u6ja23)
+ホテルの14階にあるトレインルームは京成電鉄3400形の実物の運転台を使ったシミュレーター。
+
+京成津田沼―京成高砂間を追加し、成田空港駅から京成上野駅まで京成本線全線の運転を体験できるように。
+
+リピーター向けには、最高時速160kmのスカイライナーで京成上野―成田空港を走る特別モードも追加しました。
+
+[2025-12-06 18:01:57](https://bsky.app/profile/nikkei.com/post/3m7cncbdtsu2j)
 
 ---
 
 @reuters.com
 
-Canadian dollar rises to 10-week high as jobs data beats estimates for third month reut.rs/3MhToxX
+Mexico's peso to trade within decade-old range in 2026: Reuters poll reut.rs/4porQpe
 
-[2025-12-06 17:40:12](https://bsky.app/profile/reuters.com/post/3m7cm3ey6zq2i)
+[2025-12-06 18:00:39](https://bsky.app/profile/reuters.com/post/3m7cn7wpmbk26)
+
+---
+
+@nbcnews.com
+
+Some experts claim that reducing fluctuations throughout the day can help protect against heart disease, even for people who don't have diabetes.
+
+[2025-12-06 18:00:32](https://bsky.app/profile/nbcnews.com/post/3m7cn7qmrk72p)
+
+---
+
+@cnbc.com
+
+After thrifting in her free time to make some extra money for her kids, Jocelyn Elizabeth turned her side hustle into a lucrative full-time gig.
+
+NikNax has brought in more than $5.2 million in 2025 revenue, as of Oct. 31, according to documents reviewed by CNBC Make It.
+
+[2025-12-06 18:00:20](https://bsky.app/profile/cnbc.com/post/3m7cn7ervyt2q)
+
+---
+
+@financialtimes.com
+
+The FT’s David Sheppard sits down with the Newark MP to discuss his embrace of populism, his ambitions and the possibility of a future alliance with Reform on.ft.com/3Mi30bX
+
+[2025-12-06 18:00:03](https://bsky.app/profile/financialtimes.com/post/3m7cn6uotu72l)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-大規模火災の香港 7日に立法会議員選挙 市民の関心は低調
-https://news.web.nhk/newsweb/na/na-k10014996091000
+WHO事務局長 “次のパンデミックに備え国際社会連携し対策を”
+https://news.web.nhk/newsweb/na/na-k10014996111000
 
-[2025-12-06 17:39:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7clzeig7k2n)
-
----
-
-@npr.org
-
-Bassem Khandaqji entered prison 21 years ago for plotting a deadly bombing in Israel. He left prison as an award-winning novelist.
-
-[2025-12-06 17:35:15](https://bsky.app/profile/npr.org/post/3m7clsjohqd2o)
+[2025-12-06 18:00:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7cn6vuj5m2k)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-香港 7日に立法会議員選挙 大規模火災で市民の関心は低調
-https://news.web.nhk/newsweb/na/na-k10014996091000
+神戸 六甲山の人工雪スキー場が今季営業開始 初滑り楽しむ
+https://news.web.nhk/newsweb/na/na-k10014996101000
 
-[2025-12-06 17:33:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7clonunhl2u)
-
----
-
-@aljazeera.com
-
-Politicians approve the controversial law after months of heated debate, amid fears over a potential war with Russia.
-
-[2025-12-06 17:30:18](https://bsky.app/profile/aljazeera.com/post/3m7cljnytei2c)
-
----
-
-@apnews.com
-
-Georgia's largest utility wants to spend more than $15 billion to increase its electricity capacity by 50% over the next six years to serve data centers.
-
-[2025-12-06 17:30:12](https://bsky.app/profile/apnews.com/post/3m7clji356h2i)
-
----
-
-@sokuho.news
-
-🔔防災科研より【強震モニタ】動画です。
-
-震源:大隅半島東方沖, 深さ:40km
-マグニチュード:3.2, 最大震度:1
-📍https://www.google.com/maps?q=31.2,131.5&ll=31.2,131.5&z=7&t=h
-地震発生日時:2025-12-06 17:15頃
-(10倍速▶120s→12s) #地震
-
-[2025-12-06 17:18:04](https://bsky.app/profile/sokuho.news/post/3m7cktrtixm24)
+[2025-12-06 17:57:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7cmzk6duu2b)
 
 ---
 
