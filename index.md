@@ -1,9 +1,9 @@
-# [2025-12-06 22:50 updated](2025_12_06.md)
+# [2025-12-06 23:10 updated](2025_12_06.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Berkshire Hathaway is on track to lag behind the S&P 500 in Buffett's last year as CEO <a href="https://bsky.app/profile/cnbc.com/post/3m7d546efbe2g" target="_blank">cnbc.com</a> (2025-12-06 22:44:53)</span><span style="padding-right:50px;">S&P 500 quietly rebounds to near a new record. Where to next after a quick round trip? <a href="https://bsky.app/profile/cnbc.com/post/3m7d4yergna2f" target="_blank">cnbc.com</a> (2025-12-06 22:42:45)</span><span style="padding-right:50px;">🏎️ George Russell threw a spanner into the best-laid plans of the three protagonists for the drivers' title with a scorching lap to top the times in final practice for this weekend's decisive season-ending Abu Dhabi Grand Prix.  #AFPSports  ➡️ u.afp.com/S7iM <a href="https://bsky.app/profile/en.afp.com/post/3m7d4tijk6n2u" target="_blank">en.afp.com</a> (2025-12-06 22:40:01)</span><span style="padding-right:50px;">Netflix buys Warner Bros, Epstein records and World Cup groups reut.rs/4pmBx7B <a href="https://bsky.app/profile/reuters.com/post/3m7d4kppbvh2o" target="_blank">reuters.com</a> (2025-12-06 22:35:07)</span><span style="padding-right:50px;">香港 高層住宅火災報道めぐり 外国メディアの記者を呼び出し https://news.web.nhk/newsweb/na/na-k10014996261000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7d4h45dv72p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-06 22:33:03)</span>
+<span style="padding-right:50px;">More housing markets are shifting toward buyers. It’s not enough to make them want to buy. <a href="https://bsky.app/profile/yahoofinance.com/post/3m7d6c4xfq72p" target="_blank">yahoofinance.com</a> (2025-12-06 23:06:06)</span><span style="padding-right:50px;">柔道 グランドスラム東京 阿部詩が優勝 世界選手権代表確実に https://news.web.nhk/newsweb/na/na-k10014996251000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7d6c3uz5x2t" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-06 23:06:03)</span><span style="padding-right:50px;">［日経社説］今こそ同性婚巡る国会議論を www.nikkei.com/article/DGXZQO...   同性婚を巡る一連の訴訟の控訴審判決が出そろいました。今後は最高裁が統一判断を示すとみられます。   自治体のパートナーシップ制度にはおのずと限界があります。いずれの判決も国会での議論を求めており、同性カップルが尊厳を持って暮らせる法制度に向け議論を始める必要があります。 <a href="https://bsky.app/profile/nikkei.com/post/3m7d62p63bw26" target="_blank">nikkei.com</a> (2025-12-06 23:01:57)</span><span style="padding-right:50px;">Turkey says Gaza administration, police force should come before Hamas disarmament in ceasefire deal reut.rs/4a1aXw2 <a href="https://bsky.app/profile/reuters.com/post/3m7d5yxto6a2k" target="_blank">reuters.com</a> (2025-12-06 23:00:59)</span><span style="padding-right:50px;">Forget meme stocks: Why 'boring' investing may build the most wealth <a href="https://bsky.app/profile/usatoday.com/post/3m7d5ybt4yf2q" target="_blank">usatoday.com</a> (2025-12-06 23:00:36)</span>
   </div>
 </div>
 
@@ -32,98 +32,100 @@
 
 ## News Headlines
 
-1.  バフェット氏CEO最終年、バークシャー・ハサウェイS&P500に劣後か
-2.  S&P500、静かに反発し最高値に迫る
-3.  Netflix、ワーナー・ブラザース買収か
-4.  AI生成女児ポルノ所持疑い、元教諭を追送検
-5.  インドネシア、災害死者900人超、400人以上が行方不明
-6.  中国空母、沖縄周辺で戦闘機発着訓練
+1. 阿部詩、柔道GS東京で優勝、世界選手権代表確実に
+2. 同性婚巡る国会議論を、日経社説が訴え
+3. イリア・マリニン、世界最高得点でGPファイナル制覇
+4. 中国空母、沖縄周辺で戦闘機発着 防衛省
+5. AI生成女児ポルノ所持疑い、元教諭を追送検
+6. 米国、サッカーW杯組み合わせに恵まれる
 
 ----
 
-@cnbc.com
+@yahoofinance.com
 
-Berkshire Hathaway is on track to lag behind the S&P 500 in Buffett's last year as CEO
+More housing markets are shifting toward buyers. It’s not enough to make them want to buy.
 
-[2025-12-06 22:44:53](https://bsky.app/profile/cnbc.com/post/3m7d546efbe2g)
-
----
-
-@cnbc.com
-
-S&P 500 quietly rebounds to near a new record. Where to next after a quick round trip?
-
-[2025-12-06 22:42:45](https://bsky.app/profile/cnbc.com/post/3m7d4yergna2f)
-
----
-
-@en.afp.com
-
-🏎️ George Russell threw a spanner into the best-laid plans of the three protagonists for the drivers' title with a scorching lap to top the times in final practice for this weekend's decisive season-ending Abu Dhabi Grand Prix. 
-#AFPSports 
-➡️ u.afp.com/S7iM
-
-[2025-12-06 22:40:01](https://bsky.app/profile/en.afp.com/post/3m7d4tijk6n2u)
-
----
-
-@reuters.com
-
-Netflix buys Warner Bros, Epstein records and World Cup groups reut.rs/4pmBx7B
-
-[2025-12-06 22:35:07](https://bsky.app/profile/reuters.com/post/3m7d4kppbvh2o)
+[2025-12-06 23:06:06](https://bsky.app/profile/yahoofinance.com/post/3m7d6c4xfq72p)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-香港 高層住宅火災報道めぐり 外国メディアの記者を呼び出し
-https://news.web.nhk/newsweb/na/na-k10014996261000
+柔道 グランドスラム東京 阿部詩が優勝 世界選手権代表確実に
+https://news.web.nhk/newsweb/na/na-k10014996251000
 
-[2025-12-06 22:33:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7d4h45dv72p)
+[2025-12-06 23:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7d6c3uz5x2t)
+
+---
+
+@nikkei.com
+
+［日経社説］今こそ同性婚巡る国会議論を
+www.nikkei.com/article/DGXZQO...
+ 
+同性婚を巡る一連の訴訟の控訴審判決が出そろいました。今後は最高裁が統一判断を示すとみられます。
+ 
+自治体のパートナーシップ制度にはおのずと限界があります。いずれの判決も国会での議論を求めており、同性カップルが尊厳を持って暮らせる法制度に向け議論を始める必要があります。
+
+[2025-12-06 23:01:57](https://bsky.app/profile/nikkei.com/post/3m7d62p63bw26)
+
+---
+
+@reuters.com
+
+Turkey says Gaza administration, police force should come before Hamas disarmament in ceasefire deal reut.rs/4a1aXw2
+
+[2025-12-06 23:00:59](https://bsky.app/profile/reuters.com/post/3m7d5yxto6a2k)
 
 ---
 
 @usatoday.com
 
-The professor's visa was revoked after what the Trump administration said was an antisemitic incident. Local police paint a different picture.
+Forget meme stocks: Why 'boring' investing may build the most wealth
 
-[2025-12-06 22:30:27](https://bsky.app/profile/usatoday.com/post/3m7d4ceig542u)
-
----
-
-@aljazeera.com
-
-Arrests made after President Aoun met UNSC delegation, which will visit south to get 'real picture' of what is going on.
-
-[2025-12-06 22:30:21](https://bsky.app/profile/aljazeera.com/post/3m7d4c7svqe2d)
+[2025-12-06 23:00:36](https://bsky.app/profile/usatoday.com/post/3m7d5ybt4yf2q)
 
 ---
 
-@bloomberg.com
+@washingtonpost.com
 
-Trump's "really cute" pint-sized kei cars are great for Japan. Good luck trying to get Americans to give up their Ford F-150s for a tiny car (via Bloomberg Opinion) 
+Three hundred and thirty New Mexico high-schoolers are set to join a newly launched state pilot program offering monthly $500 payments to teens experiencing housing insecurity and other issues, conditioned on meeting certain goals. https://wapo.st/3YaHqss
 
-[2025-12-06 22:30:11](https://bsky.app/profile/bloomberg.com/post/3m7d4bvzmyq2q)
-
----
-
-@cnn.com
-
-FDA Commissioner Makary is under renewed scrutiny by Trump officials amid continued turmoil at the agency, including a series of high-profile departures that have raised questions about Makary's ability to lead, according to people familiar with conversations.
-https://cnn.it/44N3Rrh
-
-[2025-12-06 22:30:07](https://bsky.app/profile/cnn.com/post/3m7d4bs77m42y)
+[2025-12-06 23:00:25](https://bsky.app/profile/washingtonpost.com/post/3m7d5xxn3ir2x)
 
 ---
 
-@financialtimes.com
+@en.afp.com
 
-Who has shaped 2025?
+⛸️🏅 Ilia Malinin showed why he is red-hot favourite for Olympic gold by winning the Grand Prix Final with a world-record free skate score after landing an incredible seven quads. 
+#AFPSports 
+➡️ u.afp.com/S7iA
 
-FT Weekend Magazine's inaugural Influence List is here, introducing 25 trailblazers transforming the world we live in – profiled by the most high-profile people in their sectors: on.ft.com/3McTzdX
+[2025-12-06 23:00:20](https://bsky.app/profile/en.afp.com/post/3m7d5xsh5pq2u)
 
-[2025-12-06 22:30:04](https://bsky.app/profile/financialtimes.com/post/3m7d4bomlzw2v)
+---
+
+@apnews.com
+
+Groundbreaking architect Frank Gehry died Friday at age 96. He was behind the acclaimed Guggenheim Museum in Bilbao, Spain, and the Walt Disney Concert Hall in Los Angeles.
+
+[2025-12-06 23:00:06](https://bsky.app/profile/apnews.com/post/3m7d5xf7i6r2j)
+
+---
+
+@cnbc.com
+
+Goldman Sachs says these five stocks, including Nvidia and Wynn Resorts, have room to run
+
+[2025-12-06 22:56:44](https://bsky.app/profile/cnbc.com/post/3m7d5rf4sjk2i)
+
+---
+
+@cnbc.com
+
+Dollar General tops list of most overbought stocks this week that are due for a pullback
+
+[2025-12-06 22:54:32](https://bsky.app/profile/cnbc.com/post/3m7d5nh2hic2f)
 
 ---
 
