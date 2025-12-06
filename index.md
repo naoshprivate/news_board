@@ -1,9 +1,9 @@
-# [2025-12-07 05:10 updated](2025_12_07.md)
+# [2025-12-07 05:30 updated](2025_12_07.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Colts activate LB Jaylon Carlies from IR, make other moves reut.rs/4pOd76B <a href="https://bsky.app/profile/reuters.com/post/3m7dse6ghud2r" target="_blank">reuters.com</a> (2025-12-07 05:05:10)</span><span style="padding-right:50px;">People living in rural parts of the country live shorter lives, on average, than their urban counterparts, largely due to heart disease. That disparity grew during the pandemic. <a href="https://bsky.app/profile/nbcnews.com/post/3m7ds4kgd2k2h" target="_blank">nbcnews.com</a> (2025-12-07 05:00:54)</span><span style="padding-right:50px;">Torres bags hat-trick as Barcelona batter Betis 5-3 reut.rs/4oXxZrz <a href="https://bsky.app/profile/reuters.com/post/3m7ds43oxt62k" target="_blank">reuters.com</a> (2025-12-07 05:00:38)</span><span style="padding-right:50px;">The Supreme Court is deciding if President Trump can fire Democratic members of the Federal Trade Commission and of other independent agencies. <a href="https://bsky.app/profile/usatoday.com/post/3m7ds3oyvb42u" target="_blank">usatoday.com</a> (2025-12-07 05:00:25)</span><span style="padding-right:50px;">National parks visitors will receive free admission on President Donald Trump’s birthday next year, but will have to pay a regular fee on Martin Luther King Jr. Day and Juneteenth, after the National Parks Service overhauled its free admission calendar. https://cnn.it/48Fb664 <a href="https://bsky.app/profile/cnn.com/post/3m7ds3hrj6v2v" target="_blank">cnn.com</a> (2025-12-07 05:00:17)</span>
+<span style="padding-right:50px;">パレスチナ ベツレヘムで3年ぶりのクリスマスツリー点灯式 https://news.web.nhk/newsweb/na/na-k10014996381000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7dtleqc7e26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-07 05:27:03)</span><span style="padding-right:50px;">Winning the right to host the world’s most popular sporting event took years of planning, Zoom calls and a bit of luck with a broken-down bus. Here’s how two government employees worked to bring the World Cup to New Jersey. <a href="https://bsky.app/profile/nytimes.com/post/3m7dththvzk2q" target="_blank">nytimes.com</a> (2025-12-07 05:25:06)</span><span style="padding-right:50px;">Zelensky signals progress in talks with US to secure peace plan  <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7dtb7r5gb27" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-07 05:21:23)</span><span style="padding-right:50px;">As Christmas lights return to Bethlehem, Palestinians look for hope reut.rs/4rIkkad <a href="https://bsky.app/profile/reuters.com/post/3m7dsw3iwai2k" target="_blank">reuters.com</a> (2025-12-07 05:15:10)</span><span style="padding-right:50px;">A USA TODAY investigation found that at least 158 children and teens have died on dirt bikes and at motocross tracks since 2000, more than six per year. That makes it the deadliest sport for young people, roughly seven times more lethal than tackle football.    Read more: bit.ly/48CkaIR <a href="https://bsky.app/profile/usatoday.com/post/3m7dsvyromi26" target="_blank">usatoday.com</a> (2025-12-07 05:15:08)</span>
   </div>
 </div>
 
@@ -32,14 +32,83 @@
 
 ## News Headlines
 
-1. 田舎の住民、都市部より短命：心臓病が主な原因
-2. トランプ氏、独立機関の民主党員解任可能か？最高裁が判断
-3. 国立公園、トランプ氏の誕生日は無料、キング牧師記念日などは有料に
-4. ロンドン塔で抗議活動、宝石の王冠に食品が投げつけられる
-5. ベネズエラの野党指導者、ノーベル平和賞授賞式に出席へ
-6. ギリシャ沖で移民船沈没、18人死亡
+1. ベツレヘム、3年ぶりクリスマスツリー点灯式
+2.  dirtバイク事故多発、若者の死亡率がフットボールの7倍
+3. トランプ大統領、ヨーロッパ同盟国を「ただ乗り」と批判
+4. 米国公園、キング牧師記念日とジューンティーンスの無料入園廃止
+5. ロンドン塔で抗議行動、ダイヤモンド王冠に食品を投げつける
+6. 米スケーター、イリア・マリニンが7本の4回転ジャンプを成功
 
 ----
+
+@nhknewsunofficial.bsky.social
+
+パレスチナ ベツレヘムで3年ぶりのクリスマスツリー点灯式
+https://news.web.nhk/newsweb/na/na-k10014996381000
+
+[2025-12-07 05:27:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7dtleqc7e26)
+
+---
+
+@nytimes.com
+
+Winning the right to host the world’s most popular sporting event took years of planning, Zoom calls and a bit of luck with a broken-down bus. Here’s how two government employees worked to bring the World Cup to New Jersey.
+
+[2025-12-07 05:25:06](https://bsky.app/profile/nytimes.com/post/3m7dththvzk2q)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Zelensky signals progress in talks with US to secure peace plan 
+
+[2025-12-07 05:21:23](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7dtb7r5gb27)
+
+---
+
+@reuters.com
+
+As Christmas lights return to Bethlehem, Palestinians look for hope reut.rs/4rIkkad
+
+[2025-12-07 05:15:10](https://bsky.app/profile/reuters.com/post/3m7dsw3iwai2k)
+
+---
+
+@usatoday.com
+
+A USA TODAY investigation found that at least 158 children and teens have died on dirt bikes and at motocross tracks since 2000, more than six per year. That makes it the deadliest sport for young people, roughly seven times more lethal than tackle football.
+  
+Read more: bit.ly/48CkaIR
+
+[2025-12-07 05:15:08](https://bsky.app/profile/usatoday.com/post/3m7dsvyromi26)
+
+---
+
+@nytimes.com
+
+News Analysis: President Trump has long portrayed European allies as freeloaders that fail to pay enough for their own security. That contempt is now official White House policy.
+
+[2025-12-07 05:15:03](https://bsky.app/profile/nytimes.com/post/3m7dsvumaus2y)
+
+---
+
+@en.afp.com
+
+Three days of talks between Ukrainian and US officials produced no major breakthrough Saturday, with President Volodymyr Zelensky committing to further negotiations toward "real peace," even as Russia launched another series of strikes on its neighbor.
+
+u.afp.com/S754
+
+[2025-12-07 05:15:02](https://bsky.app/profile/en.afp.com/post/3m7dsvth7w42m)
+
+---
+
+@reuters.com
+
+Leipzig dismantle Frankfurt 6-0 with Diomande hat-trick reut.rs/4a1euu9
+
+[2025-12-07 05:10:21](https://bsky.app/profile/reuters.com/post/3m7dsngzorh2o)
+
+---
 
 @reuters.com
 
@@ -54,73 +123,6 @@ Colts activate LB Jaylon Carlies from IR, make other moves reut.rs/4pOd76B
 People living in rural parts of the country live shorter lives, on average, than their urban counterparts, largely due to heart disease. That disparity grew during the pandemic.
 
 [2025-12-07 05:00:54](https://bsky.app/profile/nbcnews.com/post/3m7ds4kgd2k2h)
-
----
-
-@reuters.com
-
-Torres bags hat-trick as Barcelona batter Betis 5-3 reut.rs/4oXxZrz
-
-[2025-12-07 05:00:38](https://bsky.app/profile/reuters.com/post/3m7ds43oxt62k)
-
----
-
-@usatoday.com
-
-The Supreme Court is deciding if President Trump can fire Democratic members of the Federal Trade Commission and of other independent agencies.
-
-[2025-12-07 05:00:25](https://bsky.app/profile/usatoday.com/post/3m7ds3oyvb42u)
-
----
-
-@cnn.com
-
-National parks visitors will receive free admission on President Donald Trump’s birthday next year, but will have to pay a regular fee on Martin Luther King Jr. Day and Juneteenth, after the National Parks Service overhauled its free admission calendar.
-https://cnn.it/48Fb664
-
-[2025-12-07 05:00:17](https://bsky.app/profile/cnn.com/post/3m7ds3hrj6v2v)
-
----
-
-@washingtonpost.com
-
-Bryan Reisberg spends one day a week taking shelter dogs out of their kennels, slipping them in a “adopt me” backpack and carrying them around New York.
-
-His goal is to help people see shelter dogs the way he does: curious, sweet and full of potential.
-
-[2025-12-07 05:00:15](https://bsky.app/profile/washingtonpost.com/post/3m7ds3fstef2q)
-
----
-
-@apnews.com
-
-Four protesters have been arrested after splattering food on the case of a diamond-encrusted crown at the Tower of London.
-
-[2025-12-07 05:00:14](https://bsky.app/profile/apnews.com/post/3m7ds3eocet2j)
-
----
-
-@reuters.com
-
-Tanaka on target as Leeds snatch 3-3 draw with Liverpool reut.rs/48TAG8u
-
-[2025-12-07 04:50:18](https://bsky.app/profile/reuters.com/post/3m7drjlzlqs2y)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-National Park Service removes free entry on Martin Luther King Jr Day and Juneteenth
-
-[2025-12-07 04:49:44](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7drimjnnw2w)
-
----
-
-@nytimes.com
-
-The Venezuelan opposition leader María Corina Machado, who is thought to have been living in hiding in her country, will travel to Norway next week to receive the Nobel Peace Prize, according to a Norwegian official.
-
-[2025-12-07 04:47:48](https://bsky.app/profile/nytimes.com/post/3m7drf5exgk2r)
 
 ---
 
