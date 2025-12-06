@@ -1,9 +1,9 @@
-# [2025-12-06 13:50 updated](2025_12_06.md)
+# [2025-12-06 14:10 updated](2025_12_06.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Michael Jordan tells court he 'wasn't afraid' of NASCAR reut.rs/3MIh0vC <a href="https://bsky.app/profile/reuters.com/post/3m7c6o6etws2y" target="_blank">reuters.com</a> (2025-12-06 13:40:10)</span><span style="padding-right:50px;">宇宙に多く存在する正体不明のダークマターとは（無料記事） www.nikkei.com/article/DGXZQO...  ダークマター（暗黒物質）が放出した可能性があるガンマ線を、東京大学が発見しました。  暗黒物質は重力による光の曲がり方や天体の運動スピードの観測結果から存在が予想されています。  実体として様々な素粒子が提案されてきましたが、実験的に見つけた例はありません。 <a href="https://bsky.app/profile/nikkei.com/post/3m7c67gjfv32k" target="_blank">nikkei.com</a> (2025-12-06 13:31:56)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】V長崎が高木監督と名倉選手の契約更新 療養中の名倉選手「必ずピッチに戻り恩返し」《長崎》 (2025-12-06 13:30) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7c65oydp726" target="_blank">sokuho.news</a> (2025-12-06 13:30:57)</span><span style="padding-right:50px;">Trump signs memo to align US child vaccines with certain other countries reut.rs/4rVMBua <a href="https://bsky.app/profile/reuters.com/post/3m7c64ojmov27" target="_blank">reuters.com</a> (2025-12-06 13:30:23)</span><span style="padding-right:50px;">Canberra said the Taliban officials are guilty of oppressing women and girls, as well as 'undermining good governance'. <a href="https://bsky.app/profile/aljazeera.com/post/3m7c64n3qrw2n" target="_blank">aljazeera.com</a> (2025-12-06 13:30:22)</span>
+<span style="padding-right:50px;">NBA レイカーズ 八村塁 セルティックス戦13得点もチーム敗れる https://news.web.nhk/newsweb/na/na-k10014996021000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7cabudw6t24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-06 14:09:03)</span><span style="padding-right:50px;"> Why Americans are feeling poorer even though they’re not on.ft.com/4rDM5k6  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m7ca2lqi762r" target="_blank">financialtimes.com</a> (2025-12-06 14:05:01)</span><span style="padding-right:50px;"> Glencore’s copper pitch: buy in or buy me on.ft.com/49WixYI  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m7ca2lpdgn2q" target="_blank">financialtimes.com</a> (2025-12-06 14:05:01)</span><span style="padding-right:50px;">Everyone knows walking is good for you, and many of us count our daily steps. But is it better to take a longer walk than a comparable number of steps spread across the day?  A multinational team of researchers set out to find the answer.  Read more: on.wsj.com/3XVkAoR <a href="https://bsky.app/profile/wsj.com/post/3m7c7tzm72t2p" target="_blank">wsj.com</a> (2025-12-06 14:01:20)</span><span style="padding-right:50px;">A former high-level Drug Enforcement agent was indicted on charges of conspiring to traffic drugs and launder millions of dollars for a Mexican cartel.  <a href="https://bsky.app/profile/cnn.com/post/3m7c7tgyq4u2b" target="_blank">cnn.com</a> (2025-12-06 14:01:01)</span>
   </div>
 </div>
 
@@ -32,108 +32,101 @@
 
 ## News Headlines
 
-1.  ジョーダン、NASCAR訴訟で証言「恐れてはいなかった」
-2.  東大、宇宙の謎「暗黒物質」由来のガンマ線を発見か
-3.  V長崎、高木監督と名倉選手の契約更新を発表
-4.  米陸軍、国土防衛強化へ新司令部発足
-5.  神戸市で住宅火災、60代男性が意識不明で搬送
-6.  NBAデュラント、通算3万1千得点達成
+1. 八村塁13得点もレイカーズ敗れる
+2. 米国民の体感景気、実際の経済状況と乖離
+3. ウォーキング、歩数よりも長時間歩行が効果的？研究結果
+4. 元麻薬取締局高官、麻薬取引と資金洗浄で起訴
+5. トランプ氏、カナダ・メキシコと2026年W杯共催へ
+6. ダークマター由来か、東大がガンマ線を発見
 
 ----
 
-@reuters.com
+@nhknewsunofficial.bsky.social
 
-Michael Jordan tells court he 'wasn't afraid' of NASCAR reut.rs/3MIh0vC
+NBA レイカーズ 八村塁 セルティックス戦13得点もチーム敗れる
+https://news.web.nhk/newsweb/na/na-k10014996021000
 
-[2025-12-06 13:40:10](https://bsky.app/profile/reuters.com/post/3m7c6o6etws2y)
-
----
-
-@nikkei.com
-
-宇宙に多く存在する正体不明のダークマターとは（無料記事）
-www.nikkei.com/article/DGXZQO...
-
-ダークマター（暗黒物質）が放出した可能性があるガンマ線を、東京大学が発見しました。
-
-暗黒物質は重力による光の曲がり方や天体の運動スピードの観測結果から存在が予想されています。
-
-実体として様々な素粒子が提案されてきましたが、実験的に見つけた例はありません。
-
-[2025-12-06 13:31:56](https://bsky.app/profile/nikkei.com/post/3m7c67gjfv32k)
+[2025-12-06 14:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7cabudw6t24)
 
 ---
 
-@sokuho.news
+@financialtimes.com
 
-🛎️NNNより【速報】です。
+ Why Americans are feeling poorer even though they’re not on.ft.com/4rDM5k6  | opinion
 
-【速報】V長崎が高木監督と名倉選手の契約更新 療養中の名倉選手「必ずピッチに戻り恩返し」《長崎》
-(2025-12-06 13:30) #ニュース
-
-[2025-12-06 13:30:57](https://bsky.app/profile/sokuho.news/post/3m7c65oydp726)
+[2025-12-06 14:05:01](https://bsky.app/profile/financialtimes.com/post/3m7ca2lqi762r)
 
 ---
 
-@reuters.com
+@financialtimes.com
 
-Trump signs memo to align US child vaccines with certain other countries reut.rs/4rVMBua
+ Glencore’s copper pitch: buy in or buy me on.ft.com/49WixYI  | opinion
 
-[2025-12-06 13:30:23](https://bsky.app/profile/reuters.com/post/3m7c64ojmov27)
-
----
-
-@aljazeera.com
-
-Canberra said the Taliban officials are guilty of oppressing women and girls, as well as 'undermining good governance'.
-
-[2025-12-06 13:30:22](https://bsky.app/profile/aljazeera.com/post/3m7c64n3qrw2n)
+[2025-12-06 14:05:01](https://bsky.app/profile/financialtimes.com/post/3m7ca2lpdgn2q)
 
 ---
 
-@bloomberg.com
+@wsj.com
 
-Netflix now owns the DC Studios superheroes. There’s a treasure trove of characters to monetize.
+Everyone knows walking is good for you, and many of us count our daily steps. But is it better to take a longer walk than a comparable number of steps spread across the day?
 
-[2025-12-06 13:30:12](https://bsky.app/profile/bloomberg.com/post/3m7c64d5z2b2n)
+A multinational team of researchers set out to find the answer.
 
----
+Read more: on.wsj.com/3XVkAoR
 
-@nytimes.com
-
-Criminal investigators equipped with shovels and a specially trained dog descended on a home in San Diego this week and started to dig. They found human remains on the property, and now authorities are trying to figure out what happened.
-
-[2025-12-06 13:30:04](https://bsky.app/profile/nytimes.com/post/3m7c643lmjt27)
+[2025-12-06 14:01:20](https://bsky.app/profile/wsj.com/post/3m7c7tzm72t2p)
 
 ---
 
 @cnn.com
 
-The US Army officially stood up a new command on Friday to oversee the Army’s activities in the Western Hemisphere in the latest signal of increasing focus on homeland defense. 
+A former high-level Drug Enforcement agent was indicted on charges of conspiring to traffic drugs and launder millions of dollars for a Mexican cartel. 
 
-[2025-12-06 13:29:01](https://bsky.app/profile/cnn.com/post/3m7c627u6sh2s)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】「島原学生駅伝」男子は第一工科大が3大会ぶり栄冠 鹿児島大も2位と健闘《長崎》
-(2025-12-06 13:11) #ニュース
-
-[2025-12-06 13:27:54](https://bsky.app/profile/sokuho.news/post/3m7c5y7syx62x)
+[2025-12-06 14:01:01](https://bsky.app/profile/cnn.com/post/3m7c7tgyq4u2b)
 
 ---
 
-@sokuho.news
+@cnbc.com
 
-🛎️FNNより【速報】です。
+I recently made my first full-time hire to support my business and received more than 1,000 applications in just a few days.
 
-【速報】国民・玉木代表「自維は年内に選挙制度改革案提示を」 定数削減法案めぐり異論「今やるのは企業団体献金の規制」
-(2025-12-06 13:20) #ニュース
+Here’s how the person she hired stood out among 1,000+ applicants, despite not having experience and how you can do the same.
 
-[2025-12-06 13:20:54](https://bsky.app/profile/sokuho.news/post/3m7c5lpmayv2l)
+[2025-12-06 14:00:59](https://bsky.app/profile/cnbc.com/post/3m7c7tetjwi2j)
+
+---
+
+@bloomberg.com
+
+Trump prepares to co-host the 2026 FIFA World Cup with Canada and Mexico, despite their trade differences
+
+[2025-12-06 14:00:54](https://bsky.app/profile/bloomberg.com/post/3m7c7tadqvg2h)
+
+---
+
+@reuters.com
+
+5-star DL Lamar Brown signs with Lane Kiffin, LSU reut.rs/3Y9j6Hp
+
+[2025-12-06 14:00:47](https://bsky.app/profile/reuters.com/post/3m7c7szapcs26)
+
+---
+
+@washingtonpost.com
+
+Winter can send chilly winds, slick sidewalks and freezing rain or snow our way.
+
+Here’s what to know before the next Arctic blast hits. https://wapo.st/3XDWkHv
+
+[2025-12-06 14:00:08](https://bsky.app/profile/washingtonpost.com/post/3m7c7ruhryq2y)
+
+---
+
+@nytimes.com
+
+After putting in 65 hours of condom research — considering more than 100 options and interviewing 10 experts — we’ve identified the six best ones so you can find what works for you. nyti.ms/4rCcU8e
+
+[2025-12-06 14:00:03](https://bsky.app/profile/nytimes.com/post/3m7c7rpnxtw2q)
 
 ---
 
