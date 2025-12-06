@@ -1,9 +1,9 @@
-# [2025-12-06 15:10 updated](2025_12_06.md)
+# [2025-12-06 15:30 updated](2025_12_06.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Ravens QB Lamar Jackson returns to practice, set to face Steelers reut.rs/3Mn0jWu <a href="https://bsky.app/profile/reuters.com/post/3m7cdg5jq2q2i" target="_blank">reuters.com</a> (2025-12-06 15:05:10)</span><span style="padding-right:50px;">Warner CEO David Zaslav has often been a punching bag for Hollywood. Now he is shaking up the industry with a blockbuster deal. <a href="https://bsky.app/profile/wsj.com/post/3m7cdckz2kf2i" target="_blank">wsj.com</a> (2025-12-06 15:03:10)</span><span style="padding-right:50px;">ニトリ、葛飾北斎の肉筆画「雪中美人図」を6億2100万円で落札（無料記事） www.nikkei.com/article/DGXZQO...  北斎作品の落札額としては史上最高額といいます。  似鳥文化財団が運営する小樽芸術村・浮世絵美術館で今後展示される予定です。  2025年11月 #注目された記事 <a href="https://bsky.app/profile/nikkei.com/post/3m7cdafk4ff2m" target="_blank">nikkei.com</a> (2025-12-06 15:01:57)</span><span style="padding-right:50px;">Takeaways from Robert F. Kennedy Jr.’s vaccine panel: Over a two-day meeting in Atlanta, the panel aired its rethinking of the full slate of childhood vaccines. <a href="https://bsky.app/profile/wsj.com/post/3m7cd7sgch724" target="_blank">wsj.com</a> (2025-12-06 15:01:37)</span><span style="padding-right:50px;">New Zealand Police said they have recovered a James Bond-inspired Fabergé pendant after six days of closely watching the man accused of swallowing the jewelry in an Auckland store.  <a href="https://bsky.app/profile/cnn.com/post/3m7cd6qck372n" target="_blank">cnn.com</a> (2025-12-06 15:01:01)</span>
+<span style="padding-right:50px;">Deutsche Bank to move into Revolut’s Canary Wharf headquarters on.ft.com/4pQuRyn <a href="https://bsky.app/profile/financialtimes.com/post/3m7ceoymfcz26" target="_blank">financialtimes.com</a> (2025-12-06 15:28:00)</span><span style="padding-right:50px;">San Diego to pay $30 million to family of teenager shot dead by police reut.rs/48nBZwr <a href="https://bsky.app/profile/reuters.com/post/3m7cejtbb6o2e" target="_blank">reuters.com</a> (2025-12-06 15:25:07)</span><span style="padding-right:50px;">India's Biocon to make Biocon Biologics a wholly owned subsidiary reut.rs/3MIj2fe <a href="https://bsky.app/profile/reuters.com/post/3m7cdy2omcv2y" target="_blank">reuters.com</a> (2025-12-06 15:15:11)</span><span style="padding-right:50px;">Penn State set to hire Iowa State's Matt Campbell as head coach reut.rs/4476Evq <a href="https://bsky.app/profile/reuters.com/post/3m7cdp2nk2627" target="_blank">reuters.com</a> (2025-12-06 15:10:09)</span><span style="padding-right:50px;">Ravens QB Lamar Jackson returns to practice, set to face Steelers reut.rs/3Mn0jWu <a href="https://bsky.app/profile/reuters.com/post/3m7cdg5jq2q2i" target="_blank">reuters.com</a> (2025-12-06 15:05:10)</span>
   </div>
 </div>
 
@@ -32,14 +32,46 @@
 
 ## News Headlines
 
-1. レイブンズQBラマー・ジャクソン、練習復帰！スティーラーズ戦出場へ
-2. ニトリ、北斎「雪中美人図」を6億2100万円で落札！史上最高額
-3. 山形新幹線、米沢～山形間で運転見合わせ！停電が原因か
-4. 八戸の石﨑監督が退任！J2昇格導いた名将、家庭の事情で
-5. 米国の対ベトナム貿易黒字が過去最高に！関税の影響は？
-6. 元麻薬取締局高官、麻薬密売と資金洗浄で起訴！メキシコ・カルテル関与か
+1. ドイツ銀行、Revolutのカナリーワーフ本社に移転
+2. サンディエゴ、警察に射殺された10代の遺族に3000万ドル支払い
+3. ニトリ、北斎「雪中美人図」を6億2100万円で落札、史上最高額
+4. 山形新幹線、停電で米沢～山形間で運転見合わせ
+5. ヴァンラーレ八戸 石﨑信弘監督が退任、J2昇格に導いた名将
+6. 元DEA高官、麻薬密売と資金洗浄の罪で起訴
 
 ----
+
+@financialtimes.com
+
+Deutsche Bank to move into Revolut’s Canary Wharf headquarters on.ft.com/4pQuRyn
+
+[2025-12-06 15:28:00](https://bsky.app/profile/financialtimes.com/post/3m7ceoymfcz26)
+
+---
+
+@reuters.com
+
+San Diego to pay $30 million to family of teenager shot dead by police reut.rs/48nBZwr
+
+[2025-12-06 15:25:07](https://bsky.app/profile/reuters.com/post/3m7cejtbb6o2e)
+
+---
+
+@reuters.com
+
+India's Biocon to make Biocon Biologics a wholly owned subsidiary reut.rs/3MIj2fe
+
+[2025-12-06 15:15:11](https://bsky.app/profile/reuters.com/post/3m7cdy2omcv2y)
+
+---
+
+@reuters.com
+
+Penn State set to hire Iowa State's Matt Campbell as head coach reut.rs/4476Evq
+
+[2025-12-06 15:10:09](https://bsky.app/profile/reuters.com/post/3m7cdp2nk2627)
+
+---
 
 @reuters.com
 
@@ -93,38 +125,6 @@ New Zealand Police said they have recovered a James Bond-inspired Fabergé penda
 Piece by piece, Netflix has disrupted a more-than-century-old industry. Now it’s buying some of Hollywood’s most iconic properties.
 
 [2025-12-06 15:00:48](https://bsky.app/profile/wsj.com/post/3m7cd6efbw52i)
-
----
-
-@reuters.com
-
-Iowa State tabs Washington State's Jimmy Rogers as next head coach reut.rs/44SSeiB
-
-[2025-12-06 15:00:31](https://bsky.app/profile/reuters.com/post/3m7cd5u53lb2n)
-
----
-
-@aljazeera.com
-
-Palestinians express alarm following 'intimidating' call to family of imprisoned leader alleging new abuse.
-
-[2025-12-06 15:00:22](https://bsky.app/profile/aljazeera.com/post/3m7cd5kvl3n2d)
-
----
-
-@reuters.com
-
-Meta delays release of Phoenix mixed-reality glasses to 2027, Business Insider reports reut.rs/4oBn8TC
-
-[2025-12-06 14:50:13](https://bsky.app/profile/reuters.com/post/3m7cclgcac72i)
-
----
-
-@reuters.com
-
-Bayern's Diaz gets Champions League ban reduced to two games reut.rs/48q5NbO
-
-[2025-12-06 14:40:10](https://bsky.app/profile/reuters.com/post/3m7cbzh7v3k2o)
 
 ---
 
