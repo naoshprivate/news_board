@@ -1,9 +1,9 @@
-# [2025-12-06 13:10 updated](2025_12_06.md)
+# [2025-12-06 13:30 updated](2025_12_06.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Hollywood unions alarmed by Netflix's $72 billion Warner Bros deal reut.rs/3Ks2VSv <a href="https://bsky.app/profile/reuters.com/post/3m7c4i73v2d2k" target="_blank">reuters.com</a> (2025-12-06 13:01:02)</span><span style="padding-right:50px;">A very public battle between two media stars has become the irresistible spectacle of the moment, maybe because so little is at stake. on.wsj.com/4rFthkF <a href="https://bsky.app/profile/wsj.com/post/3m7c4i4eamn2p" target="_blank">wsj.com</a> (2025-12-06 13:00:59)</span><span style="padding-right:50px;">The Trump administration has ordered more than 260 federal workers it has been trying to fire since March to return to work on Dec. 15 while a court case over their final status drags on <a href="https://bsky.app/profile/bloomberg.com/post/3m7c4hwcjcc2y" target="_blank">bloomberg.com</a> (2025-12-06 13:00:53)</span><span style="padding-right:50px;">Boll & Branch CEO Scott Tannen says parents are interfering with their kids' internship search, and it's a sign they're not ready for a workplace.  “I found it so shocking that a parent would think that was a good look for the kids,” Tannen, 48, tells CNBC Make It. <a href="https://bsky.app/profile/cnbc.com/post/3m7c4gwbo7223" target="_blank">cnbc.com</a> (2025-12-06 13:00:20)</span><span style="padding-right:50px;">Michael Jordan took the stand at the NASCAR antitrust case and testified that he has been a fan of the stock car series since childhood, but felt he had little choice but to sue to force changes in a business model he sees shortchanging teams and risking drivers' lives. https://cnn.it/48p6PEM <a href="https://bsky.app/profile/cnn.com/post/3m7c4glb5yi2m" target="_blank">cnn.com</a> (2025-12-06 13:00:08)</span>
+<span style="padding-right:50px;">The US Army officially stood up a new command on Friday to oversee the Army’s activities in the Western Hemisphere in the latest signal of increasing focus on homeland defense.  <a href="https://bsky.app/profile/cnn.com/post/3m7c627u6sh2s" target="_blank">cnn.com</a> (2025-12-06 13:29:01)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】「島原学生駅伝」男子は第一工科大が3大会ぶり栄冠 鹿児島大も2位と健闘《長崎》 (2025-12-06 13:11) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7c5y7syx62x" target="_blank">sokuho.news</a> (2025-12-06 13:27:54)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】国民・玉木代表「自維は年内に選挙制度改革案提示を」 定数削減法案めぐり異論「今やるのは企業団体献金の規制」 (2025-12-06 13:20) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7c5lpmayv2l" target="_blank">sokuho.news</a> (2025-12-06 13:20:54)</span><span style="padding-right:50px;">Former England midfielder Lingard to leave FC Seoul after two-year stint reut.rs/4j0b25H <a href="https://bsky.app/profile/reuters.com/post/3m7c5kjf7q527" target="_blank">reuters.com</a> (2025-12-06 13:20:14)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】「島原学生駅伝」男子は第一工科大に3大会ぶり栄冠 2位鹿児島大も健闘《長崎》 (2025-12-06 13:11) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7c52tqoli2h" target="_blank">sokuho.news</a> (2025-12-06 13:11:28)</span>
   </div>
 </div>
 
@@ -32,14 +32,71 @@
 
 ## News Headlines
 
-1. Netflix、720億ドルでワーナー・ブラザース買収か、ハリウッド組合が懸念
-2. トランプ政権、解雇予定の連邦職員を一時復帰させる
-3. ジョーダン、NASCARの反トラスト訴訟で証言
-4. 神戸市で住宅火災、60代男性が意識不明
-5. 福岡大学、島原学生駅伝で11連覇
-6. 米国中・北東部で記録的な寒波襲来
+1. 米軍、西半球担当の新司令部を設立、国土防衛を強化
+2. 島原学生駅伝、男子は第一工科大、女子は福岡大が優勝
+3. 玉木代表、選挙制度改革案の年内提示を自維に要求
+4. Netflix、ワーナー・ブラザース買収でハリウッドに衝撃
+5. 神戸市で住宅火災、60代男性が意識不明
+6. ケビン・デュラント、NBA史上8人目の31,000得点達成
 
 ----
+
+@cnn.com
+
+The US Army officially stood up a new command on Friday to oversee the Army’s activities in the Western Hemisphere in the latest signal of increasing focus on homeland defense. 
+
+[2025-12-06 13:29:01](https://bsky.app/profile/cnn.com/post/3m7c627u6sh2s)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】「島原学生駅伝」男子は第一工科大が3大会ぶり栄冠 鹿児島大も2位と健闘《長崎》
+(2025-12-06 13:11) #ニュース
+
+[2025-12-06 13:27:54](https://bsky.app/profile/sokuho.news/post/3m7c5y7syx62x)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】国民・玉木代表「自維は年内に選挙制度改革案提示を」 定数削減法案めぐり異論「今やるのは企業団体献金の規制」
+(2025-12-06 13:20) #ニュース
+
+[2025-12-06 13:20:54](https://bsky.app/profile/sokuho.news/post/3m7c5lpmayv2l)
+
+---
+
+@reuters.com
+
+Former England midfielder Lingard to leave FC Seoul after two-year stint reut.rs/4j0b25H
+
+[2025-12-06 13:20:14](https://bsky.app/profile/reuters.com/post/3m7c5kjf7q527)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】「島原学生駅伝」男子は第一工科大に3大会ぶり栄冠 2位鹿児島大も健闘《長崎》
+(2025-12-06 13:11) #ニュース
+
+[2025-12-06 13:11:28](https://bsky.app/profile/sokuho.news/post/3m7c52tqoli2h)
+
+---
+
+@reuters.com
+
+Warner Bros, Netflix's $72 billion deal turns spotlight on performance of media titans reut.rs/3KC67uD
+
+[2025-12-06 13:10:11](https://bsky.app/profile/reuters.com/post/3m7c4ykh6sy26)
+
+---
 
 @reuters.com
 
@@ -72,59 +129,6 @@ Boll & Branch CEO Scott Tannen says parents are interfering with their kids' int
 “I found it so shocking that a parent would think that was a good look for the kids,” Tannen, 48, tells CNBC Make It.
 
 [2025-12-06 13:00:20](https://bsky.app/profile/cnbc.com/post/3m7c4gwbo7223)
-
----
-
-@cnn.com
-
-Michael Jordan took the stand at the NASCAR antitrust case and testified that he has been a fan of the stock car series since childhood, but felt he had little choice but to sue to force changes in a business model he sees shortchanging teams and risking drivers' lives. https://cnn.it/48p6PEM
-
-[2025-12-06 13:00:08](https://bsky.app/profile/cnn.com/post/3m7c4glb5yi2m)
-
----
-
-@washingtonpost.com
-
-President Trump has threatened rivals and even allies with attacks and invasions, and also commissioned a series of lethal boat strikes in the Caribbean. But he also deeply desires to be known as a peacemaker, even seeking the Nobel Peace Prize. 
-
-[2025-12-06 13:00:07](https://bsky.app/profile/washingtonpost.com/post/3m7c4gjwb2x2s)
-
----
-
-@apnews.com
-
-The Montgomery Bus Boycott is marking its 70th anniversary. For 381 days, an estimated 40,000 Black Alabama residents stayed off city buses. Today, young people use social media and their spending power to make their voices heard.
-
-[2025-12-06 13:00:06](https://bsky.app/profile/apnews.com/post/3m7c4gjiuis2t)
-
----
-
-@nytimes.com
-
-In @nytopinion.nytimes.com
-
-“When there’s no incentive for energy-efficient innovation, technology risks settling on the wrong track,” Carl Benedikt Frey writes in a guest essay.
-
-[2025-12-06 13:00:02](https://bsky.app/profile/nytimes.com/post/3m7c4gfmgij2y)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】住宅で火災 68歳男性が病院搬送も意識不明 「家の3階が火事になっている」と通報 神戸市
-(2025-12-06 12:00) #ニュース
-
-[2025-12-06 12:50:32](https://bsky.app/profile/sokuho.news/post/3m7c3vfjqx32h)
-
----
-
-@apnews.com
-
-Kevin Durant scored 28 points and become the eighth player in NBA history to reach 31,000 career points as the Houston Rockets rolled to a 117-98 win over the Phoenix Suns.
-
-[2025-12-06 12:50:31](https://bsky.app/profile/apnews.com/post/3m7c3veg72f2r)
 
 ---
 
