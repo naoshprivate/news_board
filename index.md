@@ -1,9 +1,9 @@
-# [2025-12-06 22:30 updated](2025_12_06.md)
+# [2025-12-06 22:50 updated](2025_12_06.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Instagram Teen Accounts put minors in the most restrictive settings to keep kids safe, but a loophole can allow adults to find underage users. Julie Jargon explains. <a href="https://bsky.app/profile/wsj.com/post/3m7d3j4hc662h" target="_blank">wsj.com</a> (2025-12-06 22:16:19)</span><span style="padding-right:50px;">Hundreds gathered Friday night in Oakland for a tribute to coach John Beam and to celebrate his life. It was the first organized memorial for the coach since he was fatally shot on Nov. 13.  <a href="https://bsky.app/profile/cbsnews.com/post/3m7d3grnknl2b" target="_blank">cbsnews.com</a> (2025-12-06 22:15:01)</span><span style="padding-right:50px;">From the California gold rush to Sydney Sweeney: How denim became the most enduring garment in American fashion <a href="https://bsky.app/profile/cnbc.com/post/3m7d3cegesr23" target="_blank">cnbc.com</a> (2025-12-06 22:12:33)</span><span style="padding-right:50px;">【ポルノ禁止法を初適用】 AI生成の女児の性的画像所持疑い、元教諭を追送検 www.nikkei.com/article/DGXZQO...   5都道県の教員や元教員7人が女児らを盗撮し、SNSのグループチャットで画像を共有したとされる事件。   元の画像は盗撮されたものではないとみられ、被告は「学校のネットワーク内に保存されている撮影データを、SDカードを使って持ち出した」と説明しています。   #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m7d2pgaprx2k" target="_blank">nikkei.com</a> (2025-12-06 22:01:57)</span><span style="padding-right:50px;">The draw for next summer’s tournament went about as well as U.S. Soccer could hope, with no powerhouse from European or South American on deck in the opening round. on.wsj.com/4ajiq9Z <a href="https://bsky.app/profile/wsj.com/post/3m7d2o6sabi2h" target="_blank">wsj.com</a> (2025-12-06 22:01:16)</span>
+<span style="padding-right:50px;">Berkshire Hathaway is on track to lag behind the S&P 500 in Buffett's last year as CEO <a href="https://bsky.app/profile/cnbc.com/post/3m7d546efbe2g" target="_blank">cnbc.com</a> (2025-12-06 22:44:53)</span><span style="padding-right:50px;">S&P 500 quietly rebounds to near a new record. Where to next after a quick round trip? <a href="https://bsky.app/profile/cnbc.com/post/3m7d4yergna2f" target="_blank">cnbc.com</a> (2025-12-06 22:42:45)</span><span style="padding-right:50px;">🏎️ George Russell threw a spanner into the best-laid plans of the three protagonists for the drivers' title with a scorching lap to top the times in final practice for this weekend's decisive season-ending Abu Dhabi Grand Prix.  #AFPSports  ➡️ u.afp.com/S7iM <a href="https://bsky.app/profile/en.afp.com/post/3m7d4tijk6n2u" target="_blank">en.afp.com</a> (2025-12-06 22:40:01)</span><span style="padding-right:50px;">Netflix buys Warner Bros, Epstein records and World Cup groups reut.rs/4pmBx7B <a href="https://bsky.app/profile/reuters.com/post/3m7d4kppbvh2o" target="_blank">reuters.com</a> (2025-12-06 22:35:07)</span><span style="padding-right:50px;">香港 高層住宅火災報道めぐり 外国メディアの記者を呼び出し https://news.web.nhk/newsweb/na/na-k10014996261000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7d4h45dv72p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-06 22:33:03)</span>
   </div>
 </div>
 
@@ -32,103 +32,98 @@
 
 ## News Headlines
 
-1. インスタ、未成年者保護に抜け穴か
-2. コーチ銃撃事件、追悼式典開催
-3. デニム、アメリカファッション史を飾る
-4. AI生成女児ポルノ所持疑い、元教諭を追送検
-5. 米サッカー、W杯組み合わせに恵まれる
-6. 中国空母、沖縄周辺で戦闘機発着訓練
+1.  バフェット氏CEO最終年、バークシャー・ハサウェイS&P500に劣後か
+2.  S&P500、静かに反発し最高値に迫る
+3.  Netflix、ワーナー・ブラザース買収か
+4.  AI生成女児ポルノ所持疑い、元教諭を追送検
+5.  インドネシア、災害死者900人超、400人以上が行方不明
+6.  中国空母、沖縄周辺で戦闘機発着訓練
 
 ----
 
-@wsj.com
+@cnbc.com
 
-Instagram Teen Accounts put minors in the most restrictive settings to keep kids safe, but a loophole can allow adults to find underage users. Julie Jargon explains.
+Berkshire Hathaway is on track to lag behind the S&P 500 in Buffett's last year as CEO
 
-[2025-12-06 22:16:19](https://bsky.app/profile/wsj.com/post/3m7d3j4hc662h)
-
----
-
-@cbsnews.com
-
-Hundreds gathered Friday night in Oakland for a tribute to coach John Beam and to celebrate his life. It was the first organized memorial for the coach since he was fatally shot on Nov. 13. 
-
-[2025-12-06 22:15:01](https://bsky.app/profile/cbsnews.com/post/3m7d3grnknl2b)
+[2025-12-06 22:44:53](https://bsky.app/profile/cnbc.com/post/3m7d546efbe2g)
 
 ---
 
 @cnbc.com
 
-From the California gold rush to Sydney Sweeney: How denim became the most enduring garment in American fashion
+S&P 500 quietly rebounds to near a new record. Where to next after a quick round trip?
 
-[2025-12-06 22:12:33](https://bsky.app/profile/cnbc.com/post/3m7d3cegesr23)
-
----
-
-@nikkei.com
-
-【ポルノ禁止法を初適用】
-AI生成の女児の性的画像所持疑い、元教諭を追送検
-www.nikkei.com/article/DGXZQO...
- 
-5都道県の教員や元教員7人が女児らを盗撮し、SNSのグループチャットで画像を共有したとされる事件。
- 
-元の画像は盗撮されたものではないとみられ、被告は「学校のネットワーク内に保存されている撮影データを、SDカードを使って持ち出した」と説明しています。
- 
-#ニュース
-
-[2025-12-06 22:01:57](https://bsky.app/profile/nikkei.com/post/3m7d2pgaprx2k)
-
----
-
-@wsj.com
-
-The draw for next summer’s tournament went about as well as U.S. Soccer could hope, with no powerhouse from European or South American on deck in the opening round. on.wsj.com/4ajiq9Z
-
-[2025-12-06 22:01:16](https://bsky.app/profile/wsj.com/post/3m7d2o6sabi2h)
-
----
-
-@wsj.com
-
-As political leaders question vaccine safety, scientists point to studies that show the shots might have unrelated benefits. on.wsj.com/48nGN4T
-
-[2025-12-06 22:01:15](https://bsky.app/profile/wsj.com/post/3m7d2o5yoyt24)
-
----
-
-@cnbc.com
-
-Data center demand forecasts have led to skyrocketing prices to secure future power supplies on the largest electric grid in the U.S.
-
-If the demand forecasts are wrong, consumers could get stuck paying for expensive infrastructure for data centers that don’t get built or need less power.
-
-[2025-12-06 22:00:35](https://bsky.app/profile/cnbc.com/post/3m7d2mxswg62e)
-
----
-
-@nbcnews.com
-
-Many older women are unaware they have the serious bone disease because there are few obvious symptoms.
-
-[2025-12-06 22:00:28](https://bsky.app/profile/nbcnews.com/post/3m7d2mrgrbd27)
-
----
-
-@washingtonpost.com
-
-Column by Monica Hesse: I would wager that “With Love, Meghan” is not exactly the future that Meghan Markle imagined. And mostly, I would speculate that this is because her repatriated future would have been unimaginable to anyone. https://wapo.st/48w3DpK
-
-[2025-12-06 22:00:16](https://bsky.app/profile/washingtonpost.com/post/3m7d2mfvxmr2a)
+[2025-12-06 22:42:45](https://bsky.app/profile/cnbc.com/post/3m7d4yergna2f)
 
 ---
 
 @en.afp.com
 
-🇻🇪 Venezuelan opposition leader Maria Corina Machado, who lives in hiding in her country, has confirmed she will travel to Oslo to receive her Nobel Peace Prize, the head of the Nobel Institute told AFP.
-➡️ u.afp.com/S7ig
+🏎️ George Russell threw a spanner into the best-laid plans of the three protagonists for the drivers' title with a scorching lap to top the times in final practice for this weekend's decisive season-ending Abu Dhabi Grand Prix. 
+#AFPSports 
+➡️ u.afp.com/S7iM
 
-[2025-12-06 22:00:10](https://bsky.app/profile/en.afp.com/post/3m7d2macamu2x)
+[2025-12-06 22:40:01](https://bsky.app/profile/en.afp.com/post/3m7d4tijk6n2u)
+
+---
+
+@reuters.com
+
+Netflix buys Warner Bros, Epstein records and World Cup groups reut.rs/4pmBx7B
+
+[2025-12-06 22:35:07](https://bsky.app/profile/reuters.com/post/3m7d4kppbvh2o)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+香港 高層住宅火災報道めぐり 外国メディアの記者を呼び出し
+https://news.web.nhk/newsweb/na/na-k10014996261000
+
+[2025-12-06 22:33:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7d4h45dv72p)
+
+---
+
+@usatoday.com
+
+The professor's visa was revoked after what the Trump administration said was an antisemitic incident. Local police paint a different picture.
+
+[2025-12-06 22:30:27](https://bsky.app/profile/usatoday.com/post/3m7d4ceig542u)
+
+---
+
+@aljazeera.com
+
+Arrests made after President Aoun met UNSC delegation, which will visit south to get 'real picture' of what is going on.
+
+[2025-12-06 22:30:21](https://bsky.app/profile/aljazeera.com/post/3m7d4c7svqe2d)
+
+---
+
+@bloomberg.com
+
+Trump's "really cute" pint-sized kei cars are great for Japan. Good luck trying to get Americans to give up their Ford F-150s for a tiny car (via Bloomberg Opinion) 
+
+[2025-12-06 22:30:11](https://bsky.app/profile/bloomberg.com/post/3m7d4bvzmyq2q)
+
+---
+
+@cnn.com
+
+FDA Commissioner Makary is under renewed scrutiny by Trump officials amid continued turmoil at the agency, including a series of high-profile departures that have raised questions about Makary's ability to lead, according to people familiar with conversations.
+https://cnn.it/44N3Rrh
+
+[2025-12-06 22:30:07](https://bsky.app/profile/cnn.com/post/3m7d4bs77m42y)
+
+---
+
+@financialtimes.com
+
+Who has shaped 2025?
+
+FT Weekend Magazine's inaugural Influence List is here, introducing 25 trailblazers transforming the world we live in – profiled by the most high-profile people in their sectors: on.ft.com/3McTzdX
+
+[2025-12-06 22:30:04](https://bsky.app/profile/financialtimes.com/post/3m7d4bomlzw2v)
 
 ---
 
