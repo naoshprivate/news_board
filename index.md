@@ -1,9 +1,9 @@
-# [2025-12-06 14:50 updated](2025_12_06.md)
+# [2025-12-06 15:10 updated](2025_12_06.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Bayern's Diaz gets Champions League ban reduced to two games reut.rs/48q5NbO <a href="https://bsky.app/profile/reuters.com/post/3m7cbzh7v3k2o" target="_blank">reuters.com</a> (2025-12-06 14:40:10)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】山形新幹線は停電のため米沢～山形間で運転見合わせ 原因調査中 (2025-12-06 14:25:00) #ニュース  🚄鉄道運行情報 🔗https://transit.yahoo.co.jp/diainfo <a href="https://bsky.app/profile/sokuho.news/post/3m7cbwjtizc2w" target="_blank">sokuho.news</a> (2025-12-06 14:38:32)</span><span style="padding-right:50px;"> Investment trusts need to prove their relevance again on.ft.com/3KLkexQ  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m7cbql5i3m27" target="_blank">financialtimes.com</a> (2025-12-06 14:35:12)</span><span style="padding-right:50px;"> Don’t get hung up on investment trust discounts on.ft.com/48nAtKL  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m7cbqknr3a2v" target="_blank">financialtimes.com</a> (2025-12-06 14:35:12)</span><span style="padding-right:50px;"> Birds of a feather: how I became friends with a robin on.ft.com/4oIHJ8T  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m7cbqjwxru2n" target="_blank">financialtimes.com</a> (2025-12-06 14:35:11)</span>
+<span style="padding-right:50px;">Ravens QB Lamar Jackson returns to practice, set to face Steelers reut.rs/3Mn0jWu <a href="https://bsky.app/profile/reuters.com/post/3m7cdg5jq2q2i" target="_blank">reuters.com</a> (2025-12-06 15:05:10)</span><span style="padding-right:50px;">Warner CEO David Zaslav has often been a punching bag for Hollywood. Now he is shaking up the industry with a blockbuster deal. <a href="https://bsky.app/profile/wsj.com/post/3m7cdckz2kf2i" target="_blank">wsj.com</a> (2025-12-06 15:03:10)</span><span style="padding-right:50px;">ニトリ、葛飾北斎の肉筆画「雪中美人図」を6億2100万円で落札（無料記事） www.nikkei.com/article/DGXZQO...  北斎作品の落札額としては史上最高額といいます。  似鳥文化財団が運営する小樽芸術村・浮世絵美術館で今後展示される予定です。  2025年11月 #注目された記事 <a href="https://bsky.app/profile/nikkei.com/post/3m7cdafk4ff2m" target="_blank">nikkei.com</a> (2025-12-06 15:01:57)</span><span style="padding-right:50px;">Takeaways from Robert F. Kennedy Jr.’s vaccine panel: Over a two-day meeting in Atlanta, the panel aired its rethinking of the full slate of childhood vaccines. <a href="https://bsky.app/profile/wsj.com/post/3m7cd7sgch724" target="_blank">wsj.com</a> (2025-12-06 15:01:37)</span><span style="padding-right:50px;">New Zealand Police said they have recovered a James Bond-inspired Fabergé pendant after six days of closely watching the man accused of swallowing the jewelry in an Auckland store.  <a href="https://bsky.app/profile/cnn.com/post/3m7cd6qck372n" target="_blank">cnn.com</a> (2025-12-06 15:01:01)</span>
   </div>
 </div>
 
@@ -32,98 +32,99 @@
 
 ## News Headlines
 
-1. バイエルン、ディアスのCL出場停止処分が2試合に軽減
-2. 山形新幹線、停電で米沢～山形間運転見合わせ
-3. ベトナムの対米貿易黒字が過去最高を記録
-4. ワールドバンク、ワクチン団体Gaviと20億ドルの資金援助で提携
-5. ヴァンラーレ八戸、石﨑信弘監督が退任
-6. ダークマター由来か？東京大学がガンマ線を発見
+1. レイブンズQBラマー・ジャクソン、練習復帰！スティーラーズ戦出場へ
+2. ニトリ、北斎「雪中美人図」を6億2100万円で落札！史上最高額
+3. 山形新幹線、米沢～山形間で運転見合わせ！停電が原因か
+4. 八戸の石﨑監督が退任！J2昇格導いた名将、家庭の事情で
+5. 米国の対ベトナム貿易黒字が過去最高に！関税の影響は？
+6. 元麻薬取締局高官、麻薬密売と資金洗浄で起訴！メキシコ・カルテル関与か
 
 ----
+
+@reuters.com
+
+Ravens QB Lamar Jackson returns to practice, set to face Steelers reut.rs/3Mn0jWu
+
+[2025-12-06 15:05:10](https://bsky.app/profile/reuters.com/post/3m7cdg5jq2q2i)
+
+---
+
+@wsj.com
+
+Warner CEO David Zaslav has often been a punching bag for Hollywood. Now he is shaking up the industry with a blockbuster deal.
+
+[2025-12-06 15:03:10](https://bsky.app/profile/wsj.com/post/3m7cdckz2kf2i)
+
+---
+
+@nikkei.com
+
+ニトリ、葛飾北斎の肉筆画「雪中美人図」を6億2100万円で落札（無料記事）
+www.nikkei.com/article/DGXZQO...
+
+北斎作品の落札額としては史上最高額といいます。
+
+似鳥文化財団が運営する小樽芸術村・浮世絵美術館で今後展示される予定です。
+
+2025年11月 #注目された記事
+
+[2025-12-06 15:01:57](https://bsky.app/profile/nikkei.com/post/3m7cdafk4ff2m)
+
+---
+
+@wsj.com
+
+Takeaways from Robert F. Kennedy Jr.’s vaccine panel: Over a two-day meeting in Atlanta, the panel aired its rethinking of the full slate of childhood vaccines.
+
+[2025-12-06 15:01:37](https://bsky.app/profile/wsj.com/post/3m7cd7sgch724)
+
+---
+
+@cnn.com
+
+New Zealand Police said they have recovered a James Bond-inspired Fabergé pendant after six days of closely watching the man accused of swallowing the jewelry in an Auckland store. 
+
+[2025-12-06 15:01:01](https://bsky.app/profile/cnn.com/post/3m7cd6qck372n)
+
+---
+
+@wsj.com
+
+Piece by piece, Netflix has disrupted a more-than-century-old industry. Now it’s buying some of Hollywood’s most iconic properties.
+
+[2025-12-06 15:00:48](https://bsky.app/profile/wsj.com/post/3m7cd6efbw52i)
+
+---
+
+@reuters.com
+
+Iowa State tabs Washington State's Jimmy Rogers as next head coach reut.rs/44SSeiB
+
+[2025-12-06 15:00:31](https://bsky.app/profile/reuters.com/post/3m7cd5u53lb2n)
+
+---
+
+@aljazeera.com
+
+Palestinians express alarm following 'intimidating' call to family of imprisoned leader alleging new abuse.
+
+[2025-12-06 15:00:22](https://bsky.app/profile/aljazeera.com/post/3m7cd5kvl3n2d)
+
+---
+
+@reuters.com
+
+Meta delays release of Phoenix mixed-reality glasses to 2027, Business Insider reports reut.rs/4oBn8TC
+
+[2025-12-06 14:50:13](https://bsky.app/profile/reuters.com/post/3m7cclgcac72i)
+
+---
 
 @reuters.com
 
 Bayern's Diaz gets Champions League ban reduced to two games reut.rs/48q5NbO
 
 [2025-12-06 14:40:10](https://bsky.app/profile/reuters.com/post/3m7cbzh7v3k2o)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】山形新幹線は停電のため米沢～山形間で運転見合わせ 原因調査中
-(2025-12-06 14:25:00) #ニュース
-
-🚄鉄道運行情報
-🔗https://transit.yahoo.co.jp/diainfo
-
-[2025-12-06 14:38:32](https://bsky.app/profile/sokuho.news/post/3m7cbwjtizc2w)
-
----
-
-@financialtimes.com
-
- Investment trusts need to prove their relevance again on.ft.com/3KLkexQ  | opinion
-
-[2025-12-06 14:35:12](https://bsky.app/profile/financialtimes.com/post/3m7cbql5i3m27)
-
----
-
-@financialtimes.com
-
- Don’t get hung up on investment trust discounts on.ft.com/48nAtKL  | opinion
-
-[2025-12-06 14:35:12](https://bsky.app/profile/financialtimes.com/post/3m7cbqknr3a2v)
-
----
-
-@financialtimes.com
-
- Birds of a feather: how I became friends with a robin on.ft.com/4oIHJ8T  | opinion
-
-[2025-12-06 14:35:11](https://bsky.app/profile/financialtimes.com/post/3m7cbqjwxru2n)
-
----
-
-@financialtimes.com
-
- The best red wines for Christmas 2025, from £10.95 to £230 on.ft.com/4iMII6G  | opinion
-
-[2025-12-06 14:35:11](https://bsky.app/profile/financialtimes.com/post/3m7cbqjirwh2l)
-
----
-
-@financialtimes.com
-
- Maga’s strange rage against Europe on.ft.com/4iI8gSm  | opinion
-
-[2025-12-06 14:35:09](https://bsky.app/profile/financialtimes.com/post/3m7cbqiedke27)
-
----
-
-@financialtimes.com
-
- I’ve been caught out by a Ring doorbell — have you? on.ft.com/448v33M  | opinion
-
-[2025-12-06 14:35:06](https://bsky.app/profile/financialtimes.com/post/3m7cbqfaryc23)
-
----
-
-@financialtimes.com
-
- It’s work party season — here’s a survival guide on.ft.com/3KvpFB6  | opinion
-
-[2025-12-06 14:35:04](https://bsky.app/profile/financialtimes.com/post/3m7cbqdeuz427)
-
----
-
-@financialtimes.com
-
- Mega is trumping Maga in stocks on.ft.com/4aFyyT0  | opinion
-
-[2025-12-06 14:35:04](https://bsky.app/profile/financialtimes.com/post/3m7cbqdevvq2v)
 
 ---
 
