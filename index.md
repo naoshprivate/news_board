@@ -1,9 +1,9 @@
-# [2025-12-06 14:10 updated](2025_12_06.md)
+# [2025-12-06 14:30 updated](2025_12_06.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NBA レイカーズ 八村塁 セルティックス戦13得点もチーム敗れる https://news.web.nhk/newsweb/na/na-k10014996021000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7cabudw6t24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-06 14:09:03)</span><span style="padding-right:50px;"> Why Americans are feeling poorer even though they’re not on.ft.com/4rDM5k6  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m7ca2lqi762r" target="_blank">financialtimes.com</a> (2025-12-06 14:05:01)</span><span style="padding-right:50px;"> Glencore’s copper pitch: buy in or buy me on.ft.com/49WixYI  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m7ca2lpdgn2q" target="_blank">financialtimes.com</a> (2025-12-06 14:05:01)</span><span style="padding-right:50px;">Everyone knows walking is good for you, and many of us count our daily steps. But is it better to take a longer walk than a comparable number of steps spread across the day?  A multinational team of researchers set out to find the answer.  Read more: on.wsj.com/3XVkAoR <a href="https://bsky.app/profile/wsj.com/post/3m7c7tzm72t2p" target="_blank">wsj.com</a> (2025-12-06 14:01:20)</span><span style="padding-right:50px;">A former high-level Drug Enforcement agent was indicted on charges of conspiring to traffic drugs and launder millions of dollars for a Mexican cartel.  <a href="https://bsky.app/profile/cnn.com/post/3m7c7tgyq4u2b" target="_blank">cnn.com</a> (2025-12-06 14:01:01)</span>
+<span style="padding-right:50px;"> Goodbye to all flat — how to create a garden where plants and wildlife thrive on.ft.com/4avHWZp  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m7cbfzwvpx2j" target="_blank">financialtimes.com</a> (2025-12-06 14:29:19)</span><span style="padding-right:50px;">World Bank to partner with global vaccine group Gavi on $2 billion in funding reut.rs/4rAQ017 <a href="https://bsky.app/profile/reuters.com/post/3m7cavox2n22k" target="_blank">reuters.com</a> (2025-12-06 14:20:10)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】ヴァンラーレ八戸の石﨑信弘監督が退任 クラブ史上初のJ2昇格に導いた名将「自分がチームを離れるのは大変心苦しい思い。家庭の事情により生活環境を変える必要があり、熟考の末、… (2025-12-06 14:14:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7casb4lxx2e" target="_blank">sokuho.news</a> (2025-12-06 14:18:15)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】ヴァンラーレ八戸の石﨑信弘監督が退任 クラブ史上初のJ2昇格に導いた名将 (2025-12-06 14:14:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7canjbrds2w" target="_blank">sokuho.news</a> (2025-12-06 14:15:36)</span><span style="padding-right:50px;">Reports: Georgia seeking $390K from DE Damon Wilson in transfer damages reut.rs/49ZBR7x <a href="https://bsky.app/profile/reuters.com/post/3m7cadx7sn62n" target="_blank">reuters.com</a> (2025-12-06 14:10:15)</span>
   </div>
 </div>
 
@@ -32,14 +32,60 @@
 
 ## News Headlines
 
-1. 八村塁13得点もレイカーズ敗れる
-2. 米国民の体感景気、実際の経済状況と乖離
-3. ウォーキング、歩数よりも長時間歩行が効果的？研究結果
-4. 元麻薬取締局高官、麻薬取引と資金洗浄で起訴
-5. トランプ氏、カナダ・メキシコと2026年W杯共催へ
-6. ダークマター由来か、東大がガンマ線を発見
+1.  ヴァンラーレ八戸 石﨑信弘監督が退任、J2昇格に導いた名将
+2.  ワールドバンク、Gaviとワクチン資金で20億ドルの提携
+3.  レイカーズ八村塁、セルティックス戦で13得点もチーム敗北
+4.  メキシコ麻薬カルテル関与、元DEA高官が起訴
+5.  ボーイングとスピリット・エアロ、早ければ月曜日に契約完了か
+6.  第一工科大、「島原学生駅伝」男子で3大会ぶり栄冠
 
 ----
+
+@financialtimes.com
+
+ Goodbye to all flat — how to create a garden where plants and wildlife thrive on.ft.com/4avHWZp  | opinion
+
+[2025-12-06 14:29:19](https://bsky.app/profile/financialtimes.com/post/3m7cbfzwvpx2j)
+
+---
+
+@reuters.com
+
+World Bank to partner with global vaccine group Gavi on $2 billion in funding reut.rs/4rAQ017
+
+[2025-12-06 14:20:10](https://bsky.app/profile/reuters.com/post/3m7cavox2n22k)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】ヴァンラーレ八戸の石﨑信弘監督が退任 クラブ史上初のJ2昇格に導いた名将「自分がチームを離れるのは大変心苦しい思い。家庭の事情により生活環境を変える必要があり、熟考の末、…
+(2025-12-06 14:14:00) #ニュース
+
+[2025-12-06 14:18:15](https://bsky.app/profile/sokuho.news/post/3m7casb4lxx2e)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】ヴァンラーレ八戸の石﨑信弘監督が退任 クラブ史上初のJ2昇格に導いた名将
+(2025-12-06 14:14:00) #ニュース
+
+[2025-12-06 14:15:36](https://bsky.app/profile/sokuho.news/post/3m7canjbrds2w)
+
+---
+
+@reuters.com
+
+Reports: Georgia seeking $390K from DE Damon Wilson in transfer damages reut.rs/49ZBR7x
+
+[2025-12-06 14:10:15](https://bsky.app/profile/reuters.com/post/3m7cadx7sn62n)
+
+---
 
 @nhknewsunofficial.bsky.social
 
@@ -83,50 +129,6 @@ Read more: on.wsj.com/3XVkAoR
 A former high-level Drug Enforcement agent was indicted on charges of conspiring to traffic drugs and launder millions of dollars for a Mexican cartel. 
 
 [2025-12-06 14:01:01](https://bsky.app/profile/cnn.com/post/3m7c7tgyq4u2b)
-
----
-
-@cnbc.com
-
-I recently made my first full-time hire to support my business and received more than 1,000 applications in just a few days.
-
-Here’s how the person she hired stood out among 1,000+ applicants, despite not having experience and how you can do the same.
-
-[2025-12-06 14:00:59](https://bsky.app/profile/cnbc.com/post/3m7c7tetjwi2j)
-
----
-
-@bloomberg.com
-
-Trump prepares to co-host the 2026 FIFA World Cup with Canada and Mexico, despite their trade differences
-
-[2025-12-06 14:00:54](https://bsky.app/profile/bloomberg.com/post/3m7c7tadqvg2h)
-
----
-
-@reuters.com
-
-5-star DL Lamar Brown signs with Lane Kiffin, LSU reut.rs/3Y9j6Hp
-
-[2025-12-06 14:00:47](https://bsky.app/profile/reuters.com/post/3m7c7szapcs26)
-
----
-
-@washingtonpost.com
-
-Winter can send chilly winds, slick sidewalks and freezing rain or snow our way.
-
-Here’s what to know before the next Arctic blast hits. https://wapo.st/3XDWkHv
-
-[2025-12-06 14:00:08](https://bsky.app/profile/washingtonpost.com/post/3m7c7ruhryq2y)
-
----
-
-@nytimes.com
-
-After putting in 65 hours of condom research — considering more than 100 options and interviewing 10 experts — we’ve identified the six best ones so you can find what works for you. nyti.ms/4rCcU8e
-
-[2025-12-06 14:00:03](https://bsky.app/profile/nytimes.com/post/3m7c7rpnxtw2q)
 
 ---
 
