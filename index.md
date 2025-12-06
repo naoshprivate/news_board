@@ -1,9 +1,9 @@
-# [2025-12-07 01:10 updated](2025_12_07.md)
+# [2025-12-07 01:30 updated](2025_12_07.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">These ultra-fudgy brownies take the elements of Vietnamese coffee — espresso and sweetened condensed milk — and turn them into dessert. nyti.ms/4rMxenM <a href="https://bsky.app/profile/nytimes.com/post/3m7deyplk6j26" target="_blank">nytimes.com</a> (2025-12-07 01:06:06)</span><span style="padding-right:50px;">Working while collecting Social Security: The 'slow fade' to retirement more people are choosing <a href="https://bsky.app/profile/yahoofinance.com/post/3m7deyplowy2m" target="_blank">yahoofinance.com</a> (2025-12-07 01:06:06)</span><span style="padding-right:50px;">NPR wants to speak with swing voters across the political spectrum. <a href="https://bsky.app/profile/npr.org/post/3m7devw5lbg2f" target="_blank">npr.org</a> (2025-12-07 01:04:33)</span><span style="padding-right:50px;">How did you do in Connections today? Players must select four groups of four words without making more than three mistakes. trib.al/lAWJFMp <a href="https://bsky.app/profile/nytimes.com/post/3m7deqan2h22b" target="_blank">nytimes.com</a> (2025-12-07 01:01:22)</span><span style="padding-right:50px;">Lessons on leadership have long been a staple of publishing. Test your knowledge below. on.wsj.com/3KjIOWB <a href="https://bsky.app/profile/wsj.com/post/3m7deq2rtxh2p" target="_blank">wsj.com</a> (2025-12-07 01:01:16)</span>
+<span style="padding-right:50px;">In @nytopinion.nytimes.com  The recent shooting in Washington, D.C., “was horrific, and the perpetrator should be punished to the full extent of the law,” Amanda Frost writes in a guest essay. “But collective punishment is just the sort of bigotry that the nation rejected decades ago.” <a href="https://bsky.app/profile/nytimes.com/post/3m7dg2m72372y" target="_blank">nytimes.com</a> (2025-12-07 01:25:03)</span><span style="padding-right:50px;">Indiana, the school and state synonymous with basketball, is now a pigskin powerhouse on the precipice of its second straight College Football Playoff.  Did Hoosiers fans ever expect this?  "Hell no," Mark Cuban, a 1981 alum, told NBC News. <a href="https://bsky.app/profile/nbcnews.com/post/3m7dg2fay6s2j" target="_blank">nbcnews.com</a> (2025-12-07 01:24:56)</span><span style="padding-right:50px;">政府・与党 「研究開発税制」 減税の対象を見直しへ https://news.web.nhk/newsweb/na/na-k10014996191000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7dftiu23l2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-07 01:21:03)</span><span style="padding-right:50px;">🇵🇰 Winter smog blankets Pakistan's capital  Pakistan regularly ranks among the world's most polluted countries. Experts say the pollution is primarily caused by factory and traffic emissions, worsening in winter as cooler temperatures and slow-moving winds trap the deadly pollutants. <a href="https://bsky.app/profile/en.afp.com/post/3m7dfsmre4s2c" target="_blank">en.afp.com</a> (2025-12-07 01:20:36)</span><span style="padding-right:50px;">Booker Prize-winner Salman Rushdie discusses surviving a knife attack, returning to fiction and the challenge of defending freedom of expression, in this week's interview with Mishal Husain.  Read more: bloom.bg/4ovohMx  📷️: Jose Sarmento Matos/Bloomberg <a href="https://bsky.app/profile/bloomberg.com/post/3m7dfitusy42y" target="_blank">bloomberg.com</a> (2025-12-07 01:15:08)</span>
   </div>
 </div>
 
@@ -32,14 +32,93 @@
 
 ## News Headlines
 
-1. ベトナムコーヒー風ブラウニーが話題
-2. 社会保障受給しながら働く人が増加
-3. トランプ政権、「麻薬テロリスト」との戦いを激化
-4. 東京・墨田区の風俗店で赤ちゃんの頭部発見、死体遺棄事件として捜査
-5. F1アブダビGP、フェルスタッペンがポールポジション獲得
-6. カタールとエジプト、イスラエル軍の即時撤退と国際安定化部隊の派遣を要求
+1. D.C.銃撃事件、集団的処罰は拒否されるべき
+2. インディアナ大学、バスケ強豪からアメフト強豪へ
+3. 政府・与党、研究開発税制を見直しへ
+4. パキスタン首都、深刻なスモッグに覆われる
+5. ガザ地区でイスラエル軍の攻撃、少なくとも7人のパレスチナ人が死亡
+6. F1アブダビGP、フェルスタッペンがポールポジション獲得
 
 ----
+
+@nytimes.com
+
+In @nytopinion.nytimes.com
+
+The recent shooting in Washington, D.C., “was horrific, and the perpetrator should be punished to the full extent of the law,” Amanda Frost writes in a guest essay. “But collective punishment is just the sort of bigotry that the nation rejected decades ago.”
+
+[2025-12-07 01:25:03](https://bsky.app/profile/nytimes.com/post/3m7dg2m72372y)
+
+---
+
+@nbcnews.com
+
+Indiana, the school and state synonymous with basketball, is now a pigskin powerhouse on the precipice of its second straight College Football Playoff.
+
+Did Hoosiers fans ever expect this?
+
+"Hell no," Mark Cuban, a 1981 alum, told NBC News.
+
+[2025-12-07 01:24:56](https://bsky.app/profile/nbcnews.com/post/3m7dg2fay6s2j)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+政府・与党 「研究開発税制」 減税の対象を見直しへ
+https://news.web.nhk/newsweb/na/na-k10014996191000
+
+[2025-12-07 01:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7dftiu23l2j)
+
+---
+
+@en.afp.com
+
+🇵🇰 Winter smog blankets Pakistan's capital
+
+Pakistan regularly ranks among the world's most polluted countries. Experts say the pollution is primarily caused by factory and traffic emissions, worsening in winter as cooler temperatures and slow-moving winds trap the deadly pollutants.
+
+[2025-12-07 01:20:36](https://bsky.app/profile/en.afp.com/post/3m7dfsmre4s2c)
+
+---
+
+@bloomberg.com
+
+Booker Prize-winner Salman Rushdie discusses surviving a knife attack, returning to fiction and the challenge of defending freedom of expression, in this week's interview with Mishal Husain.
+
+Read more: bloom.bg/4ovohMx
+
+📷️: Jose Sarmento Matos/Bloomberg
+
+[2025-12-07 01:15:08](https://bsky.app/profile/bloomberg.com/post/3m7dfitusy42y)
+
+---
+
+@usatoday.com
+
+Visit  for a one-stop hub for daily puzzles, crosswords, and brain teasers designed to keep your mind active and your mood lifted.
+
+[2025-12-07 01:15:07](https://bsky.app/profile/usatoday.com/post/3m7dfitliog2t)
+
+---
+
+@aljazeera.com
+
+<strong><span style="color: red;">BREAKING:</span> At least seven Palestinians have been killed by Israeli fire in Gaza City and northern areas as Israel continues attacks across the so-called yellow line truce demarcation.</strong><br><strong></strong><br><strong>🔴 LIVE updates: aje.io/p5c13r</strong>
+
+[2025-12-07 01:15:01](https://bsky.app/profile/aljazeera.com/post/3m7dfinp5xs2g)
+
+---
+
+@en.afp.com
+
+🏎️ Red Bull's Max Verstappen outgunned his two title rivals from McLaren to take pole position for the season-ending Abu Dhabi Grand Prix and strengthen his bid for a fifth successive title. 
+#AFPSports 
+u.afp.com/S7iR
+
+[2025-12-07 01:10:02](https://bsky.app/profile/en.afp.com/post/3m7df7q5li725)
+
+---
 
 @nytimes.com
 
@@ -54,73 +133,6 @@ These ultra-fudgy brownies take the elements of Vietnamese coffee — espresso a
 Working while collecting Social Security: The 'slow fade' to retirement more people are choosing
 
 [2025-12-07 01:06:06](https://bsky.app/profile/yahoofinance.com/post/3m7deyplowy2m)
-
----
-
-@npr.org
-
-NPR wants to speak with swing voters across the political spectrum.
-
-[2025-12-07 01:04:33](https://bsky.app/profile/npr.org/post/3m7devw5lbg2f)
-
----
-
-@nytimes.com
-
-How did you do in Connections today? Players must select four groups of four words without making more than three mistakes. trib.al/lAWJFMp
-
-[2025-12-07 01:01:22](https://bsky.app/profile/nytimes.com/post/3m7deqan2h22b)
-
----
-
-@wsj.com
-
-Lessons on leadership have long been a staple of publishing. Test your knowledge below. on.wsj.com/3KjIOWB
-
-[2025-12-07 01:01:16](https://bsky.app/profile/wsj.com/post/3m7deq2rtxh2p)
-
----
-
-@apnews.com
-
-Jake Retzlaff rushed for two short touchdowns, Jamauri McClure rushed for 121 yards and a score, and Tulane defeated North Texas 34-21 in the American Conference championship game — a victory that likely secured a College Football Playoff bid.
-
-[2025-12-07 01:00:38](https://bsky.app/profile/apnews.com/post/3m7deowufic2j)
-
----
-
-@nbcnews.com
-
-The Abu Dhabi Grand Prix is this weekend and will be F1's first title decider in years. Lando Norris, Max Verstappen and Oscar Piastri can all win the ultimate trophy in the 2025 finale.
-
-[2025-12-07 01:00:32](https://bsky.app/profile/nbcnews.com/post/3m7deoqqs6i2c)
-
----
-
-@usatoday.com
-
-The nearly year-long contentious court battle between "It Ends With Us" costars Blake Lively and Justin Baldoni shows no signs of a settlement.
-
-[2025-12-07 01:00:26](https://bsky.app/profile/usatoday.com/post/3m7deokqa5s2j)
-
----
-
-@cnn.com
-
-"The Trump administration's undeclared war on what it calls "narco-terrorists" in Latin America opens an aggressive new chapter in US history and reignites the war on drugs," writes Zachary B. Wolf | Analysis
-https://cnn.it/4iImeDM
-
-[2025-12-07 01:00:25](https://bsky.app/profile/cnn.com/post/3m7deok2tnt23)
-
----
-
-@washingtonpost.com
-
-When Netflix announced a blockbuster $83 billion deal to buy Warner Bros. Discovery on Friday, among the elements not included in the purchase was a conspicuous one: CNN.
-
-Here’s what the deal means for the cable news giant: 
-
-[2025-12-07 01:00:24](https://bsky.app/profile/washingtonpost.com/post/3m7deoiv4dp2s)
 
 ---
 
