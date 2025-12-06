@@ -1,9 +1,9 @@
-# [2025-12-07 03:50 updated](2025_12_07.md)
+# [2025-12-07 04:10 updated](2025_12_07.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Dan Perlman, a writer and comedian, looks and sounds nothing like Michael Bublé. And yet, for some reason, he was hired to impersonate the crooner at a birthday party. <a href="https://bsky.app/profile/nytimes.com/post/3m7dnuxmzhx24" target="_blank">nytimes.com</a> (2025-12-07 03:45:04)</span><span style="padding-right:50px;">Venezuelan opposition leader Maria Corina Machado, who lives in hiding in her country, has confirmed she will travel to Oslo to receive her Nobel Peace Prize, the head of the Nobel Institute told AFP.  u.afp.com/S75k <a href="https://bsky.app/profile/en.afp.com/post/3m7dnuvokaa2a" target="_blank">en.afp.com</a> (2025-12-07 03:45:02)</span><span style="padding-right:50px;">We published more than 1,000 recipes this year. These 25 were your favorites, the ones you took the time to rate, comment on, share with friends and come back to again and again. nyti.ms/4pKnlF0 <a href="https://bsky.app/profile/nytimes.com/post/3m7dnnruz622w" target="_blank">nytimes.com</a> (2025-12-07 03:41:03)</span><span style="padding-right:50px;">UCLA announces Bob Chesney as football coach, cites 'vision of success' reut.rs/3XEK89r <a href="https://bsky.app/profile/reuters.com/post/3m7dnmbszxk2e" target="_blank">reuters.com</a> (2025-12-07 03:40:13)</span><span style="padding-right:50px;">Verstappen vows to go all out for win, McLaren expect a clean fight reut.rs/48zHgQ7 <a href="https://bsky.app/profile/reuters.com/post/3m7dnd6kcev2k" target="_blank">reuters.com</a> (2025-12-07 03:35:07)</span>
+<span style="padding-right:50px;">More than 9,000 units of Crayola toy blocks called pip-Cubes were recalled after it was discovered that magnets inside the blocks can slip out, be swallowed by children, and potentially cause injury or death, safety regulators said on Thursday. <a href="https://bsky.app/profile/nytimes.com/post/3m7doyqj3xq27" target="_blank">nytimes.com</a> (2025-12-07 04:05:05)</span><span style="padding-right:50px;">One cannot go to Hannah Arendt’s work for comfort, Jennifer Szalai writes of the German-born political thinker. What she offers instead is “the company of someone who had direct experience of the horrors of the 20th century yet never relinquished what she called amor mundi, or ‘love of the world.’” <a href="https://bsky.app/profile/nytimes.com/post/3m7dovufu2k2k" target="_blank">nytimes.com</a> (2025-12-07 04:03:28)</span><span style="padding-right:50px;">Hallmark's holiday season movies are a staple for many. Here's a guide on where to start based on your interests. <a href="https://bsky.app/profile/usatoday.com/post/3m7doryaiby2q" target="_blank">usatoday.com</a> (2025-12-07 04:01:18)</span><span style="padding-right:50px;">In 2015, Chris Broomfield purchased property in New York for $27,000.  Now he has three short-term rentals with a lifetime revenue of over $2 million. <a href="https://bsky.app/profile/cnbc.com/post/3m7doq5h3hx2s" target="_blank">cnbc.com</a> (2025-12-07 04:00:16)</span><span style="padding-right:50px;">Turn on any pop station and soon enough you’ll hear Olivia Dean’s megahit “Man I Need.”  Dean’s 2023 debut album “Messy” already helped build a fan base in her native Britain, but she hadn’t yet found a larger audience stateside — until now. <a href="https://bsky.app/profile/washingtonpost.com/post/3m7doq4os4x2s" target="_blank">washingtonpost.com</a> (2025-12-07 04:00:15)</span>
   </div>
 </div>
 
@@ -32,94 +32,98 @@
 
 ## News Headlines
 
-1. コメディアン、マイケル・ブーブレのそっくりさんとして誕生日パーティーに
-2. ベネズエラ野党指導者、ノーベル平和賞授賞式に出席へ
-3. UCLA、ボブ・チェスニーをフットボールコーチに任命
-4. ミシガン州、臓器移植で狂犬病感染死亡事例発生
-5. 中国軍戦闘機が自衛隊機にレーダー照射、日本政府が抗議
-6. アストン・ヴィラ、アーセナルの無敗記録を阻止
+1. クレヨラ玩具ブロック9,000個以上をリコール、磁石が外れ誤飲の危険
+2. NYの男性、27,000ドルの不動産投資で200万ドル超の収益
+3. 人気牧師のアトランタ教会、急成長で信者数6,000人に
+4. イラン、女性のヒジャブ未着用を理由にマラソン主催者を逮捕
+5. 中国軍戦闘機が自衛隊機にレーダー照射、政府が抗議
+6. 米沿岸警備隊、過去20年で最大規模の海上コカイン押収
 
 ----
+
+@nytimes.com
+
+More than 9,000 units of Crayola toy blocks called pip-Cubes were recalled after it was discovered that magnets inside the blocks can slip out, be swallowed by children, and potentially cause injury or death, safety regulators said on Thursday.
+
+[2025-12-07 04:05:05](https://bsky.app/profile/nytimes.com/post/3m7doyqj3xq27)
+
+---
+
+@nytimes.com
+
+One cannot go to Hannah Arendt’s work for comfort, Jennifer Szalai writes of the German-born political thinker. What she offers instead is “the company of someone who had direct experience of the horrors of the 20th century yet never relinquished what she called amor mundi, or ‘love of the world.’”
+
+[2025-12-07 04:03:28](https://bsky.app/profile/nytimes.com/post/3m7dovufu2k2k)
+
+---
+
+@usatoday.com
+
+Hallmark's holiday season movies are a staple for many. Here's a guide on where to start based on your interests.
+
+[2025-12-07 04:01:18](https://bsky.app/profile/usatoday.com/post/3m7doryaiby2q)
+
+---
+
+@cnbc.com
+
+In 2015, Chris Broomfield purchased property in New York for $27,000.
+
+Now he has three short-term rentals with a lifetime revenue of over $2 million.
+
+[2025-12-07 04:00:16](https://bsky.app/profile/cnbc.com/post/3m7doq5h3hx2s)
+
+---
+
+@washingtonpost.com
+
+Turn on any pop station and soon enough you’ll hear Olivia Dean’s megahit “Man I Need.”
+
+Dean’s 2023 debut album “Messy” already helped build a fan base in her native Britain, but she hadn’t yet found a larger audience stateside — until now.
+
+[2025-12-07 04:00:15](https://bsky.app/profile/washingtonpost.com/post/3m7doq4os4x2s)
+
+---
+
+@apnews.com
+
+An Atlanta church with a viral pastor has grown from less than 200 weekly churchgoers in 2023 to about 6,000 today.
+
+[2025-12-07 04:00:15](https://bsky.app/profile/apnews.com/post/3m7doq4fr3x2y)
+
+---
+
+@nbcnews.com
+
+The Oura Ring 4 is the best smart ring you can buy, but here’s the one thing you need to know before making the investment. - @nbcselect.nbcnews.com
+
+[2025-12-07 04:00:10](https://bsky.app/profile/nbcnews.com/post/3m7dopxdpn32h)
+
+---
+
+@cbsnews.com
+
+Michael Annett, a former racecar driver who made 436 combined starts in NASCAR's three national touring series, has died. 
+
+He was 39.
+
+[2025-12-07 04:00:01](https://bsky.app/profile/cbsnews.com/post/3m7doponebr2u)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Iran arrests marathon organisers over women not wearing hijab
+
+[2025-12-07 03:49:52](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7do5kwzwu2m)
+
+---
 
 @nytimes.com
 
 Dan Perlman, a writer and comedian, looks and sounds nothing like Michael Bublé. And yet, for some reason, he was hired to impersonate the crooner at a birthday party.
 
 [2025-12-07 03:45:04](https://bsky.app/profile/nytimes.com/post/3m7dnuxmzhx24)
-
----
-
-@en.afp.com
-
-Venezuelan opposition leader Maria Corina Machado, who lives in hiding in her country, has confirmed she will travel to Oslo to receive her Nobel Peace Prize, the head of the Nobel Institute told AFP.
-
-u.afp.com/S75k
-
-[2025-12-07 03:45:02](https://bsky.app/profile/en.afp.com/post/3m7dnuvokaa2a)
-
----
-
-@nytimes.com
-
-We published more than 1,000 recipes this year. These 25 were your favorites, the ones you took the time to rate, comment on, share with friends and come back to again and again. nyti.ms/4pKnlF0
-
-[2025-12-07 03:41:03](https://bsky.app/profile/nytimes.com/post/3m7dnnruz622w)
-
----
-
-@reuters.com
-
-UCLA announces Bob Chesney as football coach, cites 'vision of success' reut.rs/3XEK89r
-
-[2025-12-07 03:40:13](https://bsky.app/profile/reuters.com/post/3m7dnmbszxk2e)
-
----
-
-@reuters.com
-
-Verstappen vows to go all out for win, McLaren expect a clean fight reut.rs/48zHgQ7
-
-[2025-12-07 03:35:07](https://bsky.app/profile/reuters.com/post/3m7dnd6kcev2k)
-
----
-
-@nytimes.com
-
-A Michigan man died of rabies after getting a kidney transplant from another man who died of the virus, only the fourth instance in nearly 50 years in which an organ donor passed the virus to a recipient, federal officials said.
-
-[2025-12-07 03:35:03](https://bsky.app/profile/nytimes.com/post/3m7dnd2ddij2q)
-
----
-
-@bloomberg.com
-
-🧠 Can you crack today’s Alphadots faster than yesterday? Try now:
-
-[2025-12-07 03:30:28](https://bsky.app/profile/bloomberg.com/post/3m7dn2uemfh2d)
-
----
-
-@usatoday.com
-
-Kelly, D-Arizona, continues to ridicule Trump and his administration as he remains unapologetic about a video message to troops.
-
-[2025-12-07 03:30:17](https://bsky.app/profile/usatoday.com/post/3m7dn2jwlfv2p)
-
----
-
-@reuters.com
-
-Merz, Macron to discuss fate of fighter jet FCAS in week of December 15, industry source says reut.rs/4qdmcq7
-
-[2025-12-07 03:25:10](https://bsky.app/profile/reuters.com/post/3m7dmrfbiq626)
-
----
-
-@reuters.com
-
-Reports: Cubs finalizing deal with RHP Zac Gallen reut.rs/3Mmyr4X
-
-[2025-12-07 03:15:11](https://bsky.app/profile/reuters.com/post/3m7dm7jc3eo2y)
 
 ---
 
