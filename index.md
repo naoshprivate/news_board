@@ -1,9 +1,9 @@
-# [2025-12-06 23:30 updated](2025_12_06.md)
+# [2025-12-06 23:50 updated](2025_12_06.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Far-Flung Postcards is a weekly series in which NPR's international team shares moments from their lives and work around the world. <a href="https://bsky.app/profile/npr.org/post/3m7d7i3jnbt2j" target="_blank">npr.org</a> (2025-12-06 23:27:20)</span><span style="padding-right:50px;">Remember when laughter was supposed to be the best medicine? Now a team of scientists has found that physical intimacy may speed up healing.   🔗 Read more: on.wsj.com/4oCiepw <a href="https://bsky.app/profile/wsj.com/post/3m7d6vjatgy2j" target="_blank">wsj.com</a> (2025-12-06 23:16:56)</span><span style="padding-right:50px;">Biggest mistakes crypto investors make with estate planning <a href="https://bsky.app/profile/cnbc.com/post/3m7d6p6enw72q" target="_blank">cnbc.com</a> (2025-12-06 23:13:24)</span><span style="padding-right:50px;">Indian, US investigators to meet next week on Air India crash, Bloomberg News reports reut.rs/4axrhVh <a href="https://bsky.app/profile/reuters.com/post/3m7d6jgvqwc2i" target="_blank">reuters.com</a> (2025-12-06 23:10:11)</span><span style="padding-right:50px;">More housing markets are shifting toward buyers. It’s not enough to make them want to buy. <a href="https://bsky.app/profile/yahoofinance.com/post/3m7d6c4xfq72p" target="_blank">yahoofinance.com</a> (2025-12-06 23:06:06)</span>
+<span style="padding-right:50px;">Amid trade tensions, US, North American leaders take to the stage <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7dakdu6xj2m" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-06 23:46:28)</span><span style="padding-right:50px;">Netflix announced on Friday that it planned to buy Warner Bros. Discovery in an $82.7 billion deal that could redefine Hollywood and the broader media landscape. Here’s what to know. <a href="https://bsky.app/profile/nytimes.com/post/3m7dahrptze2y" target="_blank">nytimes.com</a> (2025-12-06 23:45:03)</span><span style="padding-right:50px;">フィギュアGPファイナル 女子シングル 17歳の中井が2位 https://news.web.nhk/newsweb/na/na-k10014996301000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7dahtmteu2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-06 23:45:03)</span><span style="padding-right:50px;">Prominent American playwright and actor, Jeremy O. Harris, known for his Tony-nominated "Slave Play," was arrested in Japan on suspicion of smuggling the psychedelic drug ecstasy, officials said Saturday.  <a href="https://bsky.app/profile/cbsnews.com/post/3m7dahplc7d2y" target="_blank">cbsnews.com</a> (2025-12-06 23:45:01)</span><span style="padding-right:50px;">Guardrails against racist, xenophobic or dehumanizing rhetoric have all but vanished on the American right.   What was once disqualifying — or the exclusive domain of online trolls — is now a fixture of national political discourse. <a href="https://bsky.app/profile/axios.com/post/3m7daemf7zk24" target="_blank">axios.com</a> (2025-12-06 23:43:17)</span>
   </div>
 </div>
 
@@ -32,100 +32,97 @@
 
 ## News Headlines
 
-1. 柔道GS東京 阿部詩が優勝、世界選手権代表確実に
-2. 日経社説: 今こそ同性婚巡る国会議論を
-3. フィギュアGPファイナル 鍵山優真 逆転され2位
-4. AI生成女児ポルノ所持疑い、元教諭を追送検
-5. 中国海軍空母、沖縄周辺で戦闘機発着 防衛省
-6. インドネシアで900人以上死亡、410人不明
+1. 米国と北米の首脳、貿易摩擦の中で舞台へ
+2. Netflix、ワーナーを買収か？827億ドルの大型取引
+3. フィギュアGPファイナル中井亜美が2位
+4. 劇作家ジェレミー・O・ハリス、日本で麻薬密輸容疑で逮捕
+5. 再生医療、未治療のがん患者に有効な実験的コンボ療法
+6. 阿部詩がグランドスラム東京で優勝、世界選手権代表確実に
 
 ----
+
+@bbcnews-world-rss.bsky.social
+
+Amid trade tensions, US, North American leaders take to the stage
+
+[2025-12-06 23:46:28](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7dakdu6xj2m)
+
+---
+
+@nytimes.com
+
+Netflix announced on Friday that it planned to buy Warner Bros. Discovery in an $82.7 billion deal that could redefine Hollywood and the broader media landscape. Here’s what to know.
+
+[2025-12-06 23:45:03](https://bsky.app/profile/nytimes.com/post/3m7dahrptze2y)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+フィギュアGPファイナル 女子シングル 17歳の中井が2位
+https://news.web.nhk/newsweb/na/na-k10014996301000
+
+[2025-12-06 23:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7dahtmteu2p)
+
+---
+
+@cbsnews.com
+
+Prominent American playwright and actor, Jeremy O. Harris, known for his Tony-nominated "Slave Play," was arrested in Japan on suspicion of smuggling the psychedelic drug ecstasy, officials said Saturday. 
+
+[2025-12-06 23:45:01](https://bsky.app/profile/cbsnews.com/post/3m7dahplc7d2y)
+
+---
+
+@axios.com
+
+Guardrails against racist, xenophobic or dehumanizing rhetoric have all but vanished on the American right. 
+
+What was once disqualifying — or the exclusive domain of online trolls — is now a fixture of national political discourse.
+
+[2025-12-06 23:43:17](https://bsky.app/profile/axios.com/post/3m7daemf7zk24)
+
+---
+
+@reuters.com
+
+Regeneron's experimental therapy combo effective in untreated cancer patients reut.rs/48Ih4D3
+
+[2025-12-06 23:40:12](https://bsky.app/profile/reuters.com/post/3m7da73pumf27)
+
+---
+
+@en.afp.com
+
+🇪🇬 It took Egyptian actor Mona Zaki more than a year's preparation to take on the hardest role of her career -- the iconic singer Umm Kulthum, a legend in the Arab world. 
+➡️ u.afp.com/S7id
+
+[2025-12-06 23:40:01](https://bsky.app/profile/en.afp.com/post/3m7da6rw2ha2e)
+
+---
+
+@usatoday.com
+
+More and more lawmakers are opting to retire or even resign early from their jobs amid death threats, gridlock and myriad other reasons.
+
+[2025-12-06 23:30:16](https://bsky.app/profile/usatoday.com/post/3m7d7ndbu2a2m)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+スノーボードW杯ビッグエア第2戦 木村葵来が2位 鈴木萌々が3位
+https://news.web.nhk/newsweb/na/na-k10014996281000
+
+[2025-12-06 23:30:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7d7mzvajx2u)
+
+---
 
 @npr.org
 
 Far-Flung Postcards is a weekly series in which NPR's international team shares moments from their lives and work around the world.
 
 [2025-12-06 23:27:20](https://bsky.app/profile/npr.org/post/3m7d7i3jnbt2j)
-
----
-
-@wsj.com
-
-Remember when laughter was supposed to be the best medicine? Now a team of scientists has found that physical intimacy may speed up healing. 
-
-🔗 Read more: on.wsj.com/4oCiepw
-
-[2025-12-06 23:16:56](https://bsky.app/profile/wsj.com/post/3m7d6vjatgy2j)
-
----
-
-@cnbc.com
-
-Biggest mistakes crypto investors make with estate planning
-
-[2025-12-06 23:13:24](https://bsky.app/profile/cnbc.com/post/3m7d6p6enw72q)
-
----
-
-@reuters.com
-
-Indian, US investigators to meet next week on Air India crash, Bloomberg News reports reut.rs/4axrhVh
-
-[2025-12-06 23:10:11](https://bsky.app/profile/reuters.com/post/3m7d6jgvqwc2i)
-
----
-
-@yahoofinance.com
-
-More housing markets are shifting toward buyers. It’s not enough to make them want to buy.
-
-[2025-12-06 23:06:06](https://bsky.app/profile/yahoofinance.com/post/3m7d6c4xfq72p)
-
----
-
-@nhknewsunofficial.bsky.social
-
-柔道 グランドスラム東京 阿部詩が優勝 世界選手権代表確実に
-https://news.web.nhk/newsweb/na/na-k10014996251000
-
-[2025-12-06 23:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7d6c3uz5x2t)
-
----
-
-@nikkei.com
-
-［日経社説］今こそ同性婚巡る国会議論を
-www.nikkei.com/article/DGXZQO...
- 
-同性婚を巡る一連の訴訟の控訴審判決が出そろいました。今後は最高裁が統一判断を示すとみられます。
- 
-自治体のパートナーシップ制度にはおのずと限界があります。いずれの判決も国会での議論を求めており、同性カップルが尊厳を持って暮らせる法制度に向け議論を始める必要があります。
-
-[2025-12-06 23:01:57](https://bsky.app/profile/nikkei.com/post/3m7d62p63bw26)
-
----
-
-@reuters.com
-
-Turkey says Gaza administration, police force should come before Hamas disarmament in ceasefire deal reut.rs/4a1aXw2
-
-[2025-12-06 23:00:59](https://bsky.app/profile/reuters.com/post/3m7d5yxto6a2k)
-
----
-
-@usatoday.com
-
-Forget meme stocks: Why 'boring' investing may build the most wealth
-
-[2025-12-06 23:00:36](https://bsky.app/profile/usatoday.com/post/3m7d5ybt4yf2q)
-
----
-
-@washingtonpost.com
-
-Three hundred and thirty New Mexico high-schoolers are set to join a newly launched state pilot program offering monthly $500 payments to teens experiencing housing insecurity and other issues, conditioned on meeting certain goals. https://wapo.st/3YaHqss
-
-[2025-12-06 23:00:25](https://bsky.app/profile/washingtonpost.com/post/3m7d5xxn3ir2x)
 
 ---
 
