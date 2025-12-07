@@ -1,9 +1,9 @@
-# [2025-12-07 20:50 updated](2025_12_07.md)
+# [2025-12-07 21:10 updated](2025_12_07.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">野球日本代表 井端監督 子どもたち対象の野球教室で指導 https://news.web.nhk/newsweb/na/na-k10014996791000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7fh2ar3v62b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-07 20:48:03)</span><span style="padding-right:50px;">The globetrotting ‘starchitect’ created some of the world’s best-known buildings, from the Bilbao Guggenheim to LA’s Walt Disney Concert Hall: on.ft.com/48oRCDN <a href="https://bsky.app/profile/financialtimes.com/post/3m7fguvtc3d26" target="_blank">financialtimes.com</a> (2025-12-07 20:45:06)</span><span style="padding-right:50px;">香港 立法会の議員選挙 市民の関心は低調 投票率が最大の焦点 https://news.web.nhk/newsweb/na/na-k10014996741000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7fguvisz324" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-07 20:45:03)</span><span style="padding-right:50px;">Young people risk losing benefits under UK welfare reforms on.ft.com/3YcIvA1 <a href="https://bsky.app/profile/financialtimes.com/post/3m7fgsdjtng25" target="_blank">financialtimes.com</a> (2025-12-07 20:43:39)</span><span style="padding-right:50px;">ウクライナ ロシア軍がエネルギー施設攻撃 一部電力供給停止に https://news.web.nhk/newsweb/na/na-k10014996801000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7fgpizl4q2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-07 20:42:02)</span>
+<span style="padding-right:50px;">America’s economy is at the mercy of crony capitalism on.ft.com/4puQYe6 <a href="https://bsky.app/profile/financialtimes.com/post/3m7fi2tgbjk2c" target="_blank">financialtimes.com</a> (2025-12-07 21:06:18)</span><span style="padding-right:50px;">F1 title contenders shake hands before the gloves go on reut.rs/4iOa0JW <a href="https://bsky.app/profile/reuters.com/post/3m7fhyps2jp2n" target="_blank">reuters.com</a> (2025-12-07 21:05:07)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:青森県下北地方, 深さ:10km マグニチュード:2.8, 最大震度:1 📍https://www.google.com/maps?q=41.2,141.3&ll=41.2,141.3&z=7&t=h 地震発生日時:2025-12-07 21:01頃 (10倍速▶120s→12s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m7fhxxtfzc2h" target="_blank">sokuho.news</a> (2025-12-07 21:04:42)</span><span style="padding-right:50px;">Katy Perry posts photo with Justin Trudeau in Japan <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7fhxiavqn2l" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-07 21:04:25)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  21時1分頃、青森県で最大震度1の地震を観測しました。 震源:青森県下北地方, 深さ:10km, 規模:M2.8 この地震による津波の心配はありません。 (2025-12-07 21:04:15) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/07/2025-12-07-21-01-40.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3m7fhxa6hq32e" target="_blank">sokuho.news</a> (2025-12-07 21:04:17)</span>
   </div>
 </div>
 
@@ -30,95 +30,100 @@
 
 ---
 
-@nhknewsunofficial.bsky.social
-
-野球日本代表 井端監督 子どもたち対象の野球教室で指導
-https://news.web.nhk/newsweb/na/na-k10014996791000
-
-[2025-12-07 20:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7fh2ar3v62b)
-
----
-
 @financialtimes.com
 
-The globetrotting ‘starchitect’ created some of the world’s best-known buildings, from the Bilbao Guggenheim to LA’s Walt Disney Concert Hall: on.ft.com/48oRCDN
+America’s economy is at the mercy of crony capitalism on.ft.com/4puQYe6
 
-[2025-12-07 20:45:06](https://bsky.app/profile/financialtimes.com/post/3m7fguvtc3d26)
-
----
-
-@nhknewsunofficial.bsky.social
-
-香港 立法会の議員選挙 市民の関心は低調 投票率が最大の焦点
-https://news.web.nhk/newsweb/na/na-k10014996741000
-
-[2025-12-07 20:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7fguvisz324)
-
----
-
-@financialtimes.com
-
-Young people risk losing benefits under UK welfare reforms on.ft.com/3YcIvA1
-
-[2025-12-07 20:43:39](https://bsky.app/profile/financialtimes.com/post/3m7fgsdjtng25)
-
----
-
-@nhknewsunofficial.bsky.social
-
-ウクライナ ロシア軍がエネルギー施設攻撃 一部電力供給停止に
-https://news.web.nhk/newsweb/na/na-k10014996801000
-
-[2025-12-07 20:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7fgpizl4q2p)
+[2025-12-07 21:06:18](https://bsky.app/profile/financialtimes.com/post/3m7fi2tgbjk2c)
 
 ---
 
 @reuters.com
 
-England not standing up under pressure in Ashes, says Stokes reut.rs/4iL263Z
+F1 title contenders shake hands before the gloves go on reut.rs/4iOa0JW
 
-[2025-12-07 20:35:09](https://bsky.app/profile/reuters.com/post/3m7fgd4ftvj26)
+[2025-12-07 21:05:07](https://bsky.app/profile/reuters.com/post/3m7fhyps2jp2n)
+
+---
+
+@sokuho.news
+
+🔔防災科研より【強震モニタ】動画です。
+
+震源:青森県下北地方, 深さ:10km
+マグニチュード:2.8, 最大震度:1
+📍https://www.google.com/maps?q=41.2,141.3&ll=41.2,141.3&z=7&t=h
+地震発生日時:2025-12-07 21:01頃
+(10倍速▶120s→12s) #地震
+
+[2025-12-07 21:04:42](https://bsky.app/profile/sokuho.news/post/3m7fhxxtfzc2h)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Katy Perry posts photo with Justin Trudeau in Japan
+
+[2025-12-07 21:04:25](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7fhxiavqn2l)
+
+---
+
+@sokuho.news
+
+🔔気象庁より【地震速報】です。
+
+21時1分頃、青森県で最大震度1の地震を観測しました。
+震源:青森県下北地方, 深さ:10km, 規模:M2.8
+この地震による津波の心配はありません。
+(2025-12-07 21:04:15) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/07/2025-12-07-21-01-40.html?xlarge_image=1
+
+[2025-12-07 21:04:17](https://bsky.app/profile/sokuho.news/post/3m7fhxa6hq32e)
+
+---
+
+@wsj.com
+
+During closed-door meetings in recent weeks, the president’s aides have pressed him to calibrate his message on affordability.
+
+[2025-12-07 21:02:14](https://bsky.app/profile/wsj.com/post/3m7fhtkzeda2i)
 
 ---
 
 @nikkei.com
 
-訪日自粛「肯定論」の間隙　中国・韓国が狙う観光競争の勝ち筋
+陰るスナックの灯、25年後に6割減も
 www.nikkei.com/article/DGXZQO...
 
-中国政府が訪日自粛を呼びかけ、団体客などにキャンセルが出始めました。
+2025年は4万5000店と13年比5割減り、このままなら50年に2万店を下回ります。
 
-これに対し「街が静かになった」「もう来なくていい」といった「肯定論」もSNSなどでは一定程度存在しています。
+店を仕切るママの高齢化に後継者不足、酒離れ…冷え込む夜にリアルの接点を求める人は今後どこに集うのでしょうか。
 
-経済効果に加え、外国人に慣れ日本の国際化に資するはずだったインバウンドの受け入れ推進が、逆にゼノフォビア（嫌外国人感情）を生む皮肉。
-
-逆回転した原因は何でしょうか。
-
-[2025-12-07 20:31:57](https://bsky.app/profile/nikkei.com/post/3m7fg5fs6232t)
+[2025-12-07 21:01:56](https://bsky.app/profile/nikkei.com/post/3m7fhszdjxk2w)
 
 ---
 
-@apnews.com
+@aljazeera.com
 
-Mohamed Salah has cast his Liverpool future in doubt, saying he feels like he has been "thrown under the bus" by the Premier League champion.
+Prime minister highlights Qatar as a safe space for mediating peace and fostering regional stability.
 
-[2025-12-07 20:30:07](https://bsky.app/profile/apnews.com/post/3m7fg257llm2j)
-
----
-
-@npr.org
-
-From 400-year-old globes to cosmic funeral shrouds, how the Osher Map Library in Maine shows people that maps aren't just for navigation — but windows into history, culture, and how we see the world. n.pr/44Ognqv
-
-[2025-12-07 20:29:44](https://bsky.app/profile/npr.org/post/3m7ffzgvmz723)
+[2025-12-07 21:00:26](https://bsky.app/profile/aljazeera.com/post/3m7fhqdufoa2z)
 
 ---
 
-@apnews.com
+@nbcnews.com
 
-<strong><span style="color: red;">BREAKING:</span> The coup in Benin on Sunday has been 'foiled,' the Minister of Interior says in a video on Facebook.</strong>
+In a complaint filed with Mexican prosecutors, Jennifer Nosek alleges that her midwife, Heather Baker, caused her baby’s death.
 
-[2025-12-07 20:27:41](https://bsky.app/profile/apnews.com/post/3m7ffvr6ycg2t)
+[2025-12-07 21:00:25](https://bsky.app/profile/nbcnews.com/post/3m7fhqcprxs2j)
+
+---
+
+@cnn.com
+
+A federal judge temporarily locked down the Justice Department's access to some evidence used in its criminal case against former FBI Director James Comey, just as the Trump administration prepares to seek a new indictment after the dismissal of previous charges https://cnn.it/3MmsVPS
+
+[2025-12-07 21:00:16](https://bsky.app/profile/cnn.com/post/3m7fhq26lxa2q)
 
 ---
 
