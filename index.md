@@ -1,9 +1,9 @@
-# [2025-12-07 21:50 updated](2025_12_07.md)
+# [2025-12-07 22:10 updated](2025_12_07.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">日豪防衛相、台湾海峡の平和へ抑止緩めず　「準同盟」調整枠組み設置 www.nikkei.com/article/DGXZQO...  日豪の防衛相は共同声明に「台湾海峡の平和と安定の重要性を再確認した」と明記。中国を念頭に「一方的な現状変更の試みに対する強い反対」を打ち出しました。 <a href="https://bsky.app/profile/nikkei.com/post/3m7fjinvqsp2j" target="_blank">nikkei.com</a> (2025-12-07 21:31:56)</span><span style="padding-right:50px;">See a collection of historic images from the attack that propelled the U.S. into World War II <a href="https://bsky.app/profile/usatoday.com/post/3m7fjfnjcbe2j" target="_blank">usatoday.com</a> (2025-12-07 21:30:15)</span><span style="padding-right:50px;">In Opinion  The Trump administration “has offered a lot of general rhetoric about the value of Christianity to American civilization,” Ross Douthat says. “But in the absence of religious-informed policymaking, this sometimes feels more like a performance of a Christian politics than a full reality.” <a href="https://bsky.app/profile/nytimes.com/post/3m7fithouts26" target="_blank">nytimes.com</a> (2025-12-07 21:20:05)</span><span style="padding-right:50px;">大迫傑が日本新記録を1秒更新、2時間4分55秒　バレンシア・マラソン（無料記事） www.nikkei.com/article/DGXZQO...  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m7fim3crk526" target="_blank">nikkei.com</a> (2025-12-07 21:15:57)</span><span style="padding-right:50px;"> The EU stumbles to an imperfect solution for funding Ukraine on.ft.com/4axbQMT  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m7fikre4g226" target="_blank">financialtimes.com</a> (2025-12-07 21:15:13)</span>
+<span style="padding-right:50px;">Crucial Fed decision looms as stocks fly high near records: What to watch this week <a href="https://bsky.app/profile/yahoofinance.com/post/3m7flfrfx572d" target="_blank">yahoofinance.com</a> (2025-12-07 22:06:06)</span><span style="padding-right:50px;">柔道 グランドスラム東京 男子66キロ級で阿部一二三が優勝 https://news.web.nhk/newsweb/na/na-k10014996881000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7flfqfk7k2n" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-07 22:06:03)</span><span style="padding-right:50px;">France's Macron threatens China with tariffs over trade surplus - Les Echos reut.rs/48GczZS <a href="https://bsky.app/profile/reuters.com/post/3m7fle3o6jj26" target="_blank">reuters.com</a> (2025-12-07 22:05:10)</span><span style="padding-right:50px;">Gemini success to drive Alphabet shares to $400, cause OpenAI to cut capex, says Pivotal <a href="https://bsky.app/profile/cnbc.com/post/3m7flcrvjiz2y" target="_blank">cnbc.com</a> (2025-12-07 22:04:26)</span><span style="padding-right:50px;">男子マラソン 大迫傑 速報値で2時間4分55秒 日本新記録マーク https://news.web.nhk/newsweb/na/na-k10014996891000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7flaeafra2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-07 22:03:03)</span>
   </div>
 </div>
 
@@ -30,99 +30,95 @@
 
 ---
 
+@yahoofinance.com
+
+Crucial Fed decision looms as stocks fly high near records: What to watch this week
+
+[2025-12-07 22:06:06](https://bsky.app/profile/yahoofinance.com/post/3m7flfrfx572d)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+柔道 グランドスラム東京 男子66キロ級で阿部一二三が優勝
+https://news.web.nhk/newsweb/na/na-k10014996881000
+
+[2025-12-07 22:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7flfqfk7k2n)
+
+---
+
+@reuters.com
+
+France's Macron threatens China with tariffs over trade surplus - Les Echos reut.rs/48GczZS
+
+[2025-12-07 22:05:10](https://bsky.app/profile/reuters.com/post/3m7fle3o6jj26)
+
+---
+
+@cnbc.com
+
+Gemini success to drive Alphabet shares to $400, cause OpenAI to cut capex, says Pivotal
+
+[2025-12-07 22:04:26](https://bsky.app/profile/cnbc.com/post/3m7flcrvjiz2y)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+男子マラソン 大迫傑 速報値で2時間4分55秒 日本新記録マーク
+https://news.web.nhk/newsweb/na/na-k10014996891000
+
+[2025-12-07 22:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7flaeafra2b)
+
+---
+
+@cnbc.com
+
+Warren Buffett's Berkshire Hathaway nailed the timing on Alphabet — whether by design or not
+
+[2025-12-07 22:02:12](https://bsky.app/profile/cnbc.com/post/3m7fl6rjkqo2e)
+
+---
+
 @nikkei.com
 
-日豪防衛相、台湾海峡の平和へ抑止緩めず　「準同盟」調整枠組み設置
+トランプ氏が突き進む紛争仲介ビジネス　揺らぐ超大国の外交力
 www.nikkei.com/article/DGXZQO...
 
-日豪の防衛相は共同声明に「台湾海峡の平和と安定の重要性を再確認した」と明記。中国を念頭に「一方的な現状変更の試みに対する強い反対」を打ち出しました。
+Q　トランプ大統領は、なぜウクライナや中東などの紛争解決に力を入れているのですか。
+A　自らの権益拡大や名声につながるとみているためです。
 
-[2025-12-07 21:31:56](https://bsky.app/profile/nikkei.com/post/3m7fjinvqsp2j)
+トランプ政権は世界各地で仲介外交を展開してきました。ただ外交官の大規模リストラに乗り出していて、同盟国からは「米外交には和平を維持する意思も能力も乏しくなっている」との懸念も聞かれます。
+
+地政学の視点から国際情勢を読み解きます。
+
+[2025-12-07 22:01:57](https://bsky.app/profile/nikkei.com/post/3m7fl6dq5ax22)
 
 ---
 
 @usatoday.com
 
-See a collection of historic images from the attack that propelled the U.S. into World War II
+Who will make the College Football Playoff? USA TODAY Sports offers its final predictions on the final bracket after Championship Week.
 
-[2025-12-07 21:30:15](https://bsky.app/profile/usatoday.com/post/3m7fjfnjcbe2j)
-
----
-
-@nytimes.com
-
-In Opinion
-
-The Trump administration “has offered a lot of general rhetoric about the value of Christianity to American civilization,” Ross Douthat says. “But in the absence of religious-informed policymaking, this sometimes feels more like a performance of a Christian politics than a full reality.”
-
-[2025-12-07 21:20:05](https://bsky.app/profile/nytimes.com/post/3m7fithouts26)
+[2025-12-07 22:00:49](https://bsky.app/profile/usatoday.com/post/3m7fl4cw6bb2z)
 
 ---
 
-@nikkei.com
+@cnbc.com
 
-大迫傑が日本新記録を1秒更新、2時間4分55秒　バレンシア・マラソン（無料記事）
-www.nikkei.com/article/DGXZQO...
+Morgan House, expert on the psychology of money, he argues that true happiness in life comes from wanting less, not accumulating more.
 
-#ニュース
+"Once you see someone master that equation," he writes, "you'll never think about wealth the same."
 
-[2025-12-07 21:15:57](https://bsky.app/profile/nikkei.com/post/3m7fim3crk526)
-
----
-
-@financialtimes.com
-
- The EU stumbles to an imperfect solution for funding Ukraine on.ft.com/4axbQMT  | opinion
-
-[2025-12-07 21:15:13](https://bsky.app/profile/financialtimes.com/post/3m7fikre4g226)
+[2025-12-07 22:00:22](https://bsky.app/profile/cnbc.com/post/3m7fl3j74nu2x)
 
 ---
 
-@aljazeera.com
+@bloomberg.com
 
-Israel’s PM Netanyahu once again opposed to a two-state solution that would lead to the creation of a Palestinian state.
+Macron has just returned from a three-day state visit in China, where he pressed for more investment.
 
-🔴 LIVE updates: aje.io/ro90fr
-
-[2025-12-07 21:12:37](https://bsky.app/profile/aljazeera.com/post/3m7fig4xnvc2y)
-
----
-
-@reuters.com
-
-'We trained too much': McCullum blames England's training overdose for Ashes loss reut.rs/3KMXE87
-
-[2025-12-07 21:10:11](https://bsky.app/profile/reuters.com/post/3m7fibrv6k42d)
-
----
-
-@financialtimes.com
-
-America’s economy is at the mercy of crony capitalism on.ft.com/4puQYe6
-
-[2025-12-07 21:06:18](https://bsky.app/profile/financialtimes.com/post/3m7fi2tgbjk2c)
-
----
-
-@reuters.com
-
-F1 title contenders shake hands before the gloves go on reut.rs/4iOa0JW
-
-[2025-12-07 21:05:07](https://bsky.app/profile/reuters.com/post/3m7fhyps2jp2n)
-
----
-
-@sokuho.news
-
-🔔防災科研より【強震モニタ】動画です。
-
-震源:青森県下北地方, 深さ:10km
-マグニチュード:2.8, 最大震度:1
-📍https://www.google.com/maps?q=41.2,141.3&ll=41.2,141.3&z=7&t=h
-地震発生日時:2025-12-07 21:01頃
-(10倍速▶120s→12s) #地震
-
-[2025-12-07 21:04:42](https://bsky.app/profile/sokuho.news/post/3m7fhxxtfzc2h)
+[2025-12-07 22:00:18](https://bsky.app/profile/bloomberg.com/post/3m7fl3f5lcd2y)
 
 ---
 
