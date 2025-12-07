@@ -1,9 +1,9 @@
-# [2025-12-07 20:30 updated](2025_12_07.md)
+# [2025-12-07 20:50 updated](2025_12_07.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">BREAKING: The coup in Benin on Sunday has been 'foiled,' the Minister of Interior says in a video on Facebook. <a href="https://bsky.app/profile/apnews.com/post/3m7ffvr6ycg2t" target="_blank">apnews.com</a> (2025-12-07 20:27:41)</span><span style="padding-right:50px;">Benin’s Interior Minister Alassane Seidou has said in a statement that Benin’s armed forces have thwarted an attempted coup.  🟠 LIVE updates: aje.io/4d61md <a href="https://bsky.app/profile/aljazeera.com/post/3m7ffdogmf22y" target="_blank">aljazeera.com</a> (2025-12-07 20:17:34)</span><span style="padding-right:50px;">Kennedy vaccine advisers 'turned back the clock' on disease prevention, experts say reut.rs/44Uju09 <a href="https://bsky.app/profile/reuters.com/post/3m7ff7idd4z2i" target="_blank">reuters.com</a> (2025-12-07 20:15:13)</span><span style="padding-right:50px;">愛媛 松山道のトンネルで車6台が関係する事故 2人軽傷 https://news.web.nhk/newsweb/na/na-k10014996761000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ff7aazzt2e" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-07 20:15:03)</span><span style="padding-right:50px;">ノーベル賞 坂口志文さん ノーベル博物館に人気漫画の色紙寄贈 https://news.web.nhk/newsweb/na/na-k10014996781000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7fezufsjs23" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-07 20:12:02)</span>
+<span style="padding-right:50px;">野球日本代表 井端監督 子どもたち対象の野球教室で指導 https://news.web.nhk/newsweb/na/na-k10014996791000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7fh2ar3v62b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-07 20:48:03)</span><span style="padding-right:50px;">The globetrotting ‘starchitect’ created some of the world’s best-known buildings, from the Bilbao Guggenheim to LA’s Walt Disney Concert Hall: on.ft.com/48oRCDN <a href="https://bsky.app/profile/financialtimes.com/post/3m7fguvtc3d26" target="_blank">financialtimes.com</a> (2025-12-07 20:45:06)</span><span style="padding-right:50px;">香港 立法会の議員選挙 市民の関心は低調 投票率が最大の焦点 https://news.web.nhk/newsweb/na/na-k10014996741000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7fguvisz324" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-07 20:45:03)</span><span style="padding-right:50px;">Young people risk losing benefits under UK welfare reforms on.ft.com/3YcIvA1 <a href="https://bsky.app/profile/financialtimes.com/post/3m7fgsdjtng25" target="_blank">financialtimes.com</a> (2025-12-07 20:43:39)</span><span style="padding-right:50px;">ウクライナ ロシア軍がエネルギー施設攻撃 一部電力供給停止に https://news.web.nhk/newsweb/na/na-k10014996801000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7fgpizl4q2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-07 20:42:02)</span>
   </div>
 </div>
 
@@ -30,89 +30,95 @@
 
 ---
 
-@apnews.com
-
-<strong><span style="color: red;">BREAKING:</span> The coup in Benin on Sunday has been 'foiled,' the Minister of Interior says in a video on Facebook.</strong>
-
-[2025-12-07 20:27:41](https://bsky.app/profile/apnews.com/post/3m7ffvr6ycg2t)
-
----
-
-@aljazeera.com
-
-Benin’s Interior Minister Alassane Seidou has said in a statement that Benin’s armed forces have thwarted an attempted coup.
-
-🟠 LIVE updates: aje.io/4d61md
-
-[2025-12-07 20:17:34](https://bsky.app/profile/aljazeera.com/post/3m7ffdogmf22y)
-
----
-
-@reuters.com
-
-Kennedy vaccine advisers 'turned back the clock' on disease prevention, experts say reut.rs/44Uju09
-
-[2025-12-07 20:15:13](https://bsky.app/profile/reuters.com/post/3m7ff7idd4z2i)
-
----
-
 @nhknewsunofficial.bsky.social
 
-愛媛 松山道のトンネルで車6台が関係する事故 2人軽傷
-https://news.web.nhk/newsweb/na/na-k10014996761000
+野球日本代表 井端監督 子どもたち対象の野球教室で指導
+https://news.web.nhk/newsweb/na/na-k10014996791000
 
-[2025-12-07 20:15:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ff7aazzt2e)
-
----
-
-@nhknewsunofficial.bsky.social
-
-ノーベル賞 坂口志文さん ノーベル博物館に人気漫画の色紙寄贈
-https://news.web.nhk/newsweb/na/na-k10014996781000
-
-[2025-12-07 20:12:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7fezufsjs23)
+[2025-12-07 20:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7fh2ar3v62b)
 
 ---
 
 @financialtimes.com
 
- America’s affordability crunch is real — and worse under Trump on.ft.com/4pngIJ1  | opinion
+The globetrotting ‘starchitect’ created some of the world’s best-known buildings, from the Bilbao Guggenheim to LA’s Walt Disney Concert Hall: on.ft.com/48oRCDN
 
-[2025-12-07 20:10:00](https://bsky.app/profile/financialtimes.com/post/3m7few5nzkx26)
+[2025-12-07 20:45:06](https://bsky.app/profile/financialtimes.com/post/3m7fguvtc3d26)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-香港 高層住宅火災 追悼メッセージの掲示板が撤去へ
-https://news.web.nhk/newsweb/na/na-k10014996751000
+香港 立法会の議員選挙 市民の関心は低調 投票率が最大の焦点
+https://news.web.nhk/newsweb/na/na-k10014996741000
 
-[2025-12-07 20:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7fep6b5ol2b)
+[2025-12-07 20:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7fguvisz324)
+
+---
+
+@financialtimes.com
+
+Young people risk losing benefits under UK welfare reforms on.ft.com/3YcIvA1
+
+[2025-12-07 20:43:39](https://bsky.app/profile/financialtimes.com/post/3m7fgsdjtng25)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+ウクライナ ロシア軍がエネルギー施設攻撃 一部電力供給停止に
+https://news.web.nhk/newsweb/na/na-k10014996801000
+
+[2025-12-07 20:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7fgpizl4q2p)
+
+---
+
+@reuters.com
+
+England not standing up under pressure in Ashes, says Stokes reut.rs/4iL263Z
+
+[2025-12-07 20:35:09](https://bsky.app/profile/reuters.com/post/3m7fgd4ftvj26)
 
 ---
 
 @nikkei.com
 
-インフルエンザの急性脳炎、患者数とともに急増　50〜70代の報告も
+訪日自粛「肯定論」の間隙　中国・韓国が狙う観光競争の勝ち筋
 www.nikkei.com/article/DGXZQO...
 
-[2025-12-07 20:01:57](https://bsky.app/profile/nikkei.com/post/3m7fehrf7iy2w)
+中国政府が訪日自粛を呼びかけ、団体客などにキャンセルが出始めました。
 
----
+これに対し「街が静かになった」「もう来なくていい」といった「肯定論」もSNSなどでは一定程度存在しています。
 
-@aljazeera.com
+経済効果に加え、外国人に慣れ日本の国際化に資するはずだったインバウンドの受け入れ推進が、逆にゼノフォビア（嫌外国人感情）を生む皮肉。
 
-At least six people also injured in explosion at a central avenue in Coahuayana.
+逆回転した原因は何でしょうか。
 
-[2025-12-07 20:00:34](https://bsky.app/profile/aljazeera.com/post/3m7fefccowq2v)
+[2025-12-07 20:31:57](https://bsky.app/profile/nikkei.com/post/3m7fg5fs6232t)
 
 ---
 
 @apnews.com
 
-New AP reporting from the Mali–Mauritania border reveals widespread allegations of killings and sexual violence by Africa Corps fighters.
+Mohamed Salah has cast his Liverpool future in doubt, saying he feels like he has been "thrown under the bus" by the Premier League champion.
 
-[2025-12-07 20:00:32](https://bsky.app/profile/apnews.com/post/3m7fef7rk3e2c)
+[2025-12-07 20:30:07](https://bsky.app/profile/apnews.com/post/3m7fg257llm2j)
+
+---
+
+@npr.org
+
+From 400-year-old globes to cosmic funeral shrouds, how the Osher Map Library in Maine shows people that maps aren't just for navigation — but windows into history, culture, and how we see the world. n.pr/44Ognqv
+
+[2025-12-07 20:29:44](https://bsky.app/profile/npr.org/post/3m7ffzgvmz723)
+
+---
+
+@apnews.com
+
+<strong><span style="color: red;">BREAKING:</span> The coup in Benin on Sunday has been 'foiled,' the Minister of Interior says in a video on Facebook.</strong>
+
+[2025-12-07 20:27:41](https://bsky.app/profile/apnews.com/post/3m7ffvr6ycg2t)
 
 ---
 
