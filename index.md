@@ -1,9 +1,9 @@
-# [2025-12-08 08:10 updated](2025_12_08.md)
+# [2025-12-08 08:30 updated](2025_12_08.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Justin Crowe started a company that turns a loved one’s ashes into something meaningful. <a href="https://bsky.app/profile/wsj.com/post/3m7gmxltvz32h" target="_blank">wsj.com</a> (2025-12-08 08:06:38)</span><span style="padding-right:50px;">These tracks broke new artists, blew apart genres and revived beloved sounds. Here is our list of the best songs of the year. nyti.ms/48mX75U <a href="https://bsky.app/profile/nytimes.com/post/3m7gmuehiy22a" target="_blank">nytimes.com</a> (2025-12-08 08:04:50)</span><span style="padding-right:50px;">AI時代の雇用、哲学専攻ひっぱりだこ？ www.nikkei.com/article/DGXZQO...  ビジネスSNS「LinkedIn」を分析したところ、倫理に関連する肩書が増加していました。アメリカではIT大手、欧州ではコンサル企業で目立ちます。なぜ今、哲学なのでしょうか。  #超知能 #日経_連載 <a href="https://bsky.app/profile/nikkei.com/post/3m7gmp7w7p32i" target="_blank">nikkei.com</a> (2025-12-08 08:01:57)</span><span style="padding-right:50px;">Exclusive: Ben & Jerry's board chair does not plan to resign as pressure mounts from Unilever unit reut.rs/4pURAtd <a href="https://bsky.app/profile/reuters.com/post/3m7gmnj7sww2r" target="_blank">reuters.com</a> (2025-12-08 08:01:00)</span><span style="padding-right:50px;">A top Ukrainian sea-drone commander says more complex attacks on Russian forces are expected next year as Kyiv's uncrewed fleet continues to restrict the once-dominant Black Sea navy. <a href="https://bsky.app/profile/apnews.com/post/3m7gmmplotw2t" target="_blank">apnews.com</a> (2025-12-08 08:00:33)</span>
+<span style="padding-right:50px;">Americans overlook billions of dollars in federal tax credits annually, including those for education, childcare and retirement. <a href="https://bsky.app/profile/wsj.com/post/3m7go356zu32o" target="_blank">wsj.com</a> (2025-12-08 08:26:30)</span><span style="padding-right:50px;">How Leaders Can Use December To Reset And Enter 2026 With Momentum <a href="https://bsky.app/profile/forbes.com/post/3m7gnzi4tus2k" target="_blank">forbes.com</a> (2025-12-08 08:25:35)</span><span style="padding-right:50px;">European CEOs downbeat on Europe, favour US investment, survey shows reut.rs/3KNvz0m <a href="https://bsky.app/profile/reuters.com/post/3m7gnyncsni2d" target="_blank">reuters.com</a> (2025-12-08 08:25:07)</span><span style="padding-right:50px;">German foreign minister heads to Beijing as Berlin toughens China stance reut.rs/48z2P4R <a href="https://bsky.app/profile/reuters.com/post/3m7gngwocro2o" target="_blank">reuters.com</a> (2025-12-08 08:15:12)</span><span style="padding-right:50px;">Nigerian authorities have secured the release of 100 kidnapped schoolchildren taken by gunmen from a Catholic school last month, a UN source and local media said, though the fate of 165 students and staff thought to remain in captivity remains unclear.  u.afp.com/S7TR <a href="https://bsky.app/profile/en.afp.com/post/3m7gngmr2jm2j" target="_blank">en.afp.com</a> (2025-12-08 08:15:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.22 (🔺0.07 : 2025-12-07)</span>
+<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.27 (🔺0.13 : 2025-12-07)</span>
   </div>
 </div>
 
@@ -32,16 +32,75 @@
 
 ## News Headlines
 
-Here are six important stories from the news with headlines in English:
+Here are six important stories with English headlines:
 
-1. **"AI-powered company turns loved ones' ashes into meaningful keepsakes"**
-2. **"The best songs of the year: A list of tracks that broke new artists and revived beloved sounds"**
-3. **"Philosophy graduates in high demand in AI era: Why are ethics-related titles increasing?"**
-4. **"Ben & Jerry's board chair refuses to resign amid pressure from Unilever unit"**
-5. **"Ukrainian sea-drone commander warns of complex attacks on Russian forces next year"**
-6. **"Florence Poirel's spending habits that helped her build wealth before her 'mini retirement'"**
+1. **"US Taxpayers Miss Out on Billions in Federal Credits Annually"**
+2. **"European CEOs Downbeat on Europe, Favor US Investment"**
+3. **"German Foreign Minister Heads to Beijing as Berlin Toughens China Stance"**
+4. **"Nigerian Authorities Secure Release of 100 Kidnapped Schoolchildren"**
+5. **"AI Actress Tilly Norwood Causes Frenzy in Hollywood"**
+6. **"America's Widening Economic Divide Endangers Trump's Midterm Hopes"**
 
 ----
+
+@wsj.com
+
+Americans overlook billions of dollars in federal tax credits annually, including those for education, childcare and retirement.
+
+[2025-12-08 08:26:30](https://bsky.app/profile/wsj.com/post/3m7go356zu32o)
+
+---
+
+@forbes.com
+
+How Leaders Can Use December To Reset And Enter 2026 With Momentum
+
+[2025-12-08 08:25:35](https://bsky.app/profile/forbes.com/post/3m7gnzi4tus2k)
+
+---
+
+@reuters.com
+
+European CEOs downbeat on Europe, favour US investment, survey shows reut.rs/3KNvz0m
+
+[2025-12-08 08:25:07](https://bsky.app/profile/reuters.com/post/3m7gnyncsni2d)
+
+---
+
+@reuters.com
+
+German foreign minister heads to Beijing as Berlin toughens China stance reut.rs/48z2P4R
+
+[2025-12-08 08:15:12](https://bsky.app/profile/reuters.com/post/3m7gngwocro2o)
+
+---
+
+@en.afp.com
+
+Nigerian authorities have secured the release of 100 kidnapped schoolchildren taken by gunmen from a Catholic school last month, a UN source and local media said, though the fate of 165 students and staff thought to remain in captivity remains unclear.
+
+u.afp.com/S7TR
+
+[2025-12-08 08:15:02](https://bsky.app/profile/en.afp.com/post/3m7gngmr2jm2j)
+
+---
+
+@cnbc.com
+
+Stock futures are little changed after Wall Street notches back-to-back winning weeks: Live updates
+
+[2025-12-08 08:12:14](https://bsky.app/profile/cnbc.com/post/3m7gnbm34fz2i)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+ノーベル博物館 坂口志文さんと北川進さんの記念品を一般公開
+https://news.web.nhk/newsweb/na/na-k10014996921000
+
+[2025-12-08 08:12:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7gnbcmezr2r)
+
+---
 
 @wsj.com
 
@@ -69,64 +128,6 @@ www.nikkei.com/article/DGXZQO...
 #超知能 #日経_連載
 
 [2025-12-08 08:01:57](https://bsky.app/profile/nikkei.com/post/3m7gmp7w7p32i)
-
----
-
-@reuters.com
-
-Exclusive: Ben & Jerry's board chair does not plan to resign as pressure mounts from Unilever unit reut.rs/4pURAtd
-
-[2025-12-08 08:01:00](https://bsky.app/profile/reuters.com/post/3m7gmnj7sww2r)
-
----
-
-@apnews.com
-
-A top Ukrainian sea-drone commander says more complex attacks on Russian forces are expected next year as Kyiv's uncrewed fleet continues to restrict the once-dominant Black Sea navy.
-
-[2025-12-08 08:00:33](https://bsky.app/profile/apnews.com/post/3m7gmmplotw2t)
-
----
-
-@cnbc.com
-
-With $1.5 million saved at 37, Florence Poirel shares the spending habits that helped her build wealth before her "mini retirement."
-
-[2025-12-08 08:00:32](https://bsky.app/profile/cnbc.com/post/3m7gmmonhyb2a)
-
----
-
-@usatoday.com
-
-The College Football Playoff committee has revealed the 12-team field that will decide this year's national champion with some debate about its picks.
-
-[2025-12-08 08:00:30](https://bsky.app/profile/usatoday.com/post/3m7gmmmltma2p)
-
----
-
-@washingtonpost.com
-
-The invasion of the spotted lanternfly was impossible to miss this past summer in the Washington region.
-
-This fall, the insect’s impact on the area has shown up in a less obvious way: It’s changing the honey.
-
-[2025-12-08 08:00:12](https://bsky.app/profile/washingtonpost.com/post/3m7gmm3tg7t2e)
-
----
-
-@cbsnews.com
-
-Another stabbing on a commuter train in Charlotte, North Carolina, has drawn the attention of President Trump amid his administration's crackdown on immigration.
-
-[2025-12-08 08:00:01](https://bsky.app/profile/cbsnews.com/post/3m7gmlrlr2p23)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Death of Venezuelan opposition figure in custody 'vile', US says
-
-[2025-12-08 07:58:53](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7gmjr74ao2q)
 
 ---
 
