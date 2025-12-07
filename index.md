@@ -1,9 +1,9 @@
-# [2025-12-08 04:30 updated](2025_12_08.md)
+# [2025-12-08 04:50 updated](2025_12_08.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Colts QB Daniel Jones (Achilles) ruled out vs. Jaguars reut.rs/4iKOzJt <a href="https://bsky.app/profile/reuters.com/post/3m7galkdsap2o" target="_blank">reuters.com</a> (2025-12-08 04:25:09)</span><span style="padding-right:50px;">Pasta alla vodka is a classic because each ingredient works together beautifully: the heat of the red-pepper flakes and vodka, the sweetness of the tomato and the richness of the cream. And that combination works equally well with beans and greens. nyti.ms/4rERYNU <a href="https://bsky.app/profile/nytimes.com/post/3m7gajkzybz26" target="_blank">nytimes.com</a> (2025-12-08 04:24:02)</span><span style="padding-right:50px;">Emerging evidence finds that some vaccines have broader or even unrelated health benefits in addition to the sicknesses they target. <a href="https://bsky.app/profile/wsj.com/post/3m7gadqieu42l" target="_blank">wsj.com</a> (2025-12-08 04:20:47)</span><span style="padding-right:50px;">Martin Parr, a photographer known for his humor who captured the quirkiness of English life in a wide-ranging career that spanned decades, died on Saturday. He was 73. <a href="https://bsky.app/profile/nytimes.com/post/3m7g7zj4tjn2x" target="_blank">nytimes.com</a> (2025-12-08 04:15:04)</span><span style="padding-right:50px;">Defense Secretary Pete Hegseth on Saturday was noncommittal about releasing the full video of the U.S. military’s Sept. 2 attack on a boat in the Caribbean, after President Trump said he would release whatever footage his administration had. <a href="https://bsky.app/profile/nytimes.com/post/3m7g7qlbkte2y" target="_blank">nytimes.com</a> (2025-12-08 04:10:04)</span>
+<span style="padding-right:50px;">スキー モーグルW杯開幕戦 堀島行真が優勝 好スタート切る https://news.web.nhk/newsweb/na/na-k10014997031000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7gbuk6v6s2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-08 04:48:02)</span><span style="padding-right:50px;">News Analysis: A decades-long conservative project is coming to a head at the Supreme Court as President Trump pushes to oust leaders of independent agencies. <a href="https://bsky.app/profile/nytimes.com/post/3m7gbr2c35x2y" target="_blank">nytimes.com</a> (2025-12-08 04:46:07)</span><span style="padding-right:50px;">I did it my way, says emotional champion Norris reut.rs/48VhbfH <a href="https://bsky.app/profile/reuters.com/post/3m7gbpe2x4q27" target="_blank">reuters.com</a> (2025-12-08 04:45:10)</span><span style="padding-right:50px;">In a speech on Saturday, Defense Secretary Pete Hegseth defended the strikes, saying: "President Trump can and will take decisive military action as he sees fit to defend our nation's interests." n.pr/48opqRr <a href="https://bsky.app/profile/npr.org/post/3m7gbih4vcy2e" target="_blank">npr.org</a> (2025-12-08 04:41:19)</span><span style="padding-right:50px;">Rams' Sean McVay to coach Sunday despite illness reut.rs/3MoEVAf <a href="https://bsky.app/profile/reuters.com/post/3m7gbggb5le2k" target="_blank">reuters.com</a> (2025-12-08 04:40:10)</span>
   </div>
 </div>
 
@@ -32,94 +32,95 @@
 
 ## News Headlines
 
-Here are the six important stories with headlines in English:
+Here are six important stories from the news with English headlines:
 
-1. "Colts QB Daniel Jones Ruled Out Against Jaguars"
-2. "Vaccines Found to Have Broader Health Benefits"
-3. "Martin Parr, Humorous Photographer, Dies at 73"
-4. "Singapore Tops Global Talent Competitiveness Index"
-5. "New York City Subway Pilot Program Cracks Down on Fare Evasion"
-6. "Atmospheric River to Bring Heavy Rain and Floods to Pacific Northwest"
+1. "Trump's Border Crisis: Biden Administration Rejected Recommendations to Ease Crisis"
+2. "Rosa Parks' New Photos Revealed: Iconic Civil Rights Figure in Her 60s"
+3. "Singapore Tops Global Talent Competitiveness Index, Bolstered by Education and Governance"
+4. "Australia to Ban Children Under 16 from Social Media Starting Wednesday"
+5. "Hong Kong's Legislative Election Sees Record Low Turnout as Beijing Imposes 'Patriots Only' Rule"
+6. "President Trump's Controversial Border Wall: A Blueprint for Replacing Civil Servants with Political Loyalists"
 
 ----
 
-@reuters.com
+@nhknewsunofficial.bsky.social
 
-Colts QB Daniel Jones (Achilles) ruled out vs. Jaguars reut.rs/4iKOzJt
+スキー モーグルW杯開幕戦 堀島行真が優勝 好スタート切る
+https://news.web.nhk/newsweb/na/na-k10014997031000
 
-[2025-12-08 04:25:09](https://bsky.app/profile/reuters.com/post/3m7galkdsap2o)
-
----
-
-@nytimes.com
-
-Pasta alla vodka is a classic because each ingredient works together beautifully: the heat of the red-pepper flakes and vodka, the sweetness of the tomato and the richness of the cream. And that combination works equally well with beans and greens. nyti.ms/4rERYNU
-
-[2025-12-08 04:24:02](https://bsky.app/profile/nytimes.com/post/3m7gajkzybz26)
-
----
-
-@wsj.com
-
-Emerging evidence finds that some vaccines have broader or even unrelated health benefits in addition to the sicknesses they target.
-
-[2025-12-08 04:20:47](https://bsky.app/profile/wsj.com/post/3m7gadqieu42l)
+[2025-12-08 04:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7gbuk6v6s2p)
 
 ---
 
 @nytimes.com
 
-Martin Parr, a photographer known for his humor who captured the quirkiness of English life in a wide-ranging career that spanned decades, died on Saturday. He was 73.
+News Analysis: A decades-long conservative project is coming to a head at the Supreme Court as President Trump pushes to oust leaders of independent agencies.
 
-[2025-12-08 04:15:04](https://bsky.app/profile/nytimes.com/post/3m7g7zj4tjn2x)
-
----
-
-@nytimes.com
-
-Defense Secretary Pete Hegseth on Saturday was noncommittal about releasing the full video of the U.S. military’s Sept. 2 attack on a boat in the Caribbean, after President Trump said he would release whatever footage his administration had.
-
-[2025-12-08 04:10:04](https://bsky.app/profile/nytimes.com/post/3m7g7qlbkte2y)
-
----
-
-@wsj.com
-
-A blowout loss in the SEC championship game didn’t count against the Crimson Tide, while the Fighting Irish were hurt by a head-to-head loss to the Hurricanes. on.wsj.com/3YdlLzP
-
-[2025-12-08 04:02:51](https://bsky.app/profile/wsj.com/post/3m7g7dp26mp2p)
+[2025-12-08 04:46:07](https://bsky.app/profile/nytimes.com/post/3m7gbr2c35x2y)
 
 ---
 
 @reuters.com
 
-Report: Alexandre Pantoja has elbow injury, not shoulder reut.rs/4oYz3eN
+I did it my way, says emotional champion Norris reut.rs/48VhbfH
 
-[2025-12-08 04:01:20](https://bsky.app/profile/reuters.com/post/3m7g7axsd6r2i)
-
----
-
-@cnbc.com
-
-Singapore tops the 2025 Global Talent Competitiveness Index, bolstered by its robust education systems, sound governance and innovation-ready workforce.
-
-[2025-12-08 04:00:58](https://bsky.app/profile/cnbc.com/post/3m7g7acqqjd2y)
+[2025-12-08 04:45:10](https://bsky.app/profile/reuters.com/post/3m7gbpe2x4q27)
 
 ---
 
-@usatoday.com
+@npr.org
 
-A controversial New York City subway pilot program seeks to crack down on fare evasion by putting a delay on some subway emergency exits.
+In a speech on Saturday, Defense Secretary Pete Hegseth defended the strikes, saying: "President Trump can and will take decisive military action as he sees fit to defend our nation's interests." n.pr/48opqRr
 
-[2025-12-08 04:00:38](https://bsky.app/profile/usatoday.com/post/3m7g77pyizu2u)
+[2025-12-08 04:41:19](https://bsky.app/profile/npr.org/post/3m7gbih4vcy2e)
 
 ---
 
-@aljazeera.com
+@reuters.com
 
-Gaza dominates the Doha Forum as experts warn political pressure from nation states undermines international law.
+Rams' Sean McVay to coach Sunday despite illness reut.rs/3MoEVAf
 
-[2025-12-08 04:00:31](https://bsky.app/profile/aljazeera.com/post/3m7g77iziop2f)
+[2025-12-08 04:40:10](https://bsky.app/profile/reuters.com/post/3m7gbggb5le2k)
+
+---
+
+@nytimes.com
+
+Smugglers, money launderers and people facing sanctions once relied on diamonds, gold and artwork to store illicit fortunes. Now, criminals are turning to stablecoins, a cryptocurrency tied to the U.S. dollar that exists largely beyond traditional financial oversight.
+
+[2025-12-08 04:39:05](https://bsky.app/profile/nytimes.com/post/3m7gbehw2lk2y)
+
+---
+
+@wsj.com
+
+The draw for next summer’s tournament went about as well as U.S. Soccer could hope, with no powerhouse from Europe or South America on deck in the opening round.
+
+[2025-12-08 04:36:45](https://bsky.app/profile/wsj.com/post/3m7gback6ls2w)
+
+---
+
+@nytimes.com
+
+The Biden administration repeatedly rejected recommendations that could have eased the border crisis that helped return President Trump to the White House, a New York Times examination found. Former officials in his administration said that Biden and his confidants made two crucial errors.
+
+[2025-12-08 04:35:02](https://bsky.app/profile/nytimes.com/post/3m7gb5a5ura24)
+
+---
+
+@en.afp.com
+
+The traditional runway at Dakar fashion week is replaced by pirogues ferrying models between Senegal's capital and the island of Ngor, just off the coast.
+
+[2025-12-08 04:30:47](https://bsky.app/profile/en.afp.com/post/3m7gavmipuv2d)
+
+---
+
+@reuters.com
+
+Magic F Franz Wagner (leg) injured vs. Knicks reut.rs/48JDqEp
+
+[2025-12-08 04:30:33](https://bsky.app/profile/reuters.com/post/3m7gav7cbmc2n)
 
 ---
 
