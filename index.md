@@ -1,9 +1,9 @@
-# [2025-12-07 16:10 updated](2025_12_07.md)
+# [2025-12-07 16:30 updated](2025_12_07.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Yan beats Dvalishvili on points to claim UFC bantamweight title reut.rs/3Mn9Pcj <a href="https://bsky.app/profile/reuters.com/post/3m7exacn4722k" target="_blank">reuters.com</a> (2025-12-07 16:05:08)</span><span style="padding-right:50px;">トリュフを探すゴリラ　アフリカで受け継がれていたグルメな食行動 www.nikkei.com/article/DGXZQO...  地面を掘ってアリを探していると思われていた行動は、実はトリュフを探して食べるためだと判明しました。  ゴリラの食習慣はチンパンジーやオランウータンに比べてつまらないと、霊長類学者は伝統的に見なしてきました。  実はゴリラの食事は多様で、社会集団によって食べ物の好みが異なる可能性があります。  2025年11月　#注目された記事 <a href="https://bsky.app/profile/nikkei.com/post/3m7ex2mv5mu2g" target="_blank">nikkei.com</a> (2025-12-07 16:01:58)</span><span style="padding-right:50px;">NBA roundup: Timberwolves surge past James Harden, Clippers reut.rs/3Mo0v7Z <a href="https://bsky.app/profile/reuters.com/post/3m7ewy7nvsb2a" target="_blank">reuters.com</a> (2025-12-07 16:00:37)</span><span style="padding-right:50px;">California officials are warning foragers after an outbreak of poisoning linked to wild mushrooms that has killed one adult and caused severe liver damage in several patients, including children. <a href="https://bsky.app/profile/apnews.com/post/3m7ewxteqwm2c" target="_blank">apnews.com</a> (2025-12-07 16:00:24)</span><span style="padding-right:50px;">Students pursuing professional degrees will be able to borrow up to $200,000 in federal student loans beginning in 2026.  The Department of Education has named these 11 degree fields that meet the requirements to be considered professional. <a href="https://bsky.app/profile/cnbc.com/post/3m7ewxi3bl22f" target="_blank">cnbc.com</a> (2025-12-07 16:00:12)</span>
+<span style="padding-right:50px;">ノーベル賞・坂口志文さん発見「制御性T細胞」応用研究最前線 https://news.web.nhk/newsweb/na/na-k10014996481000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ey4swmoi2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-07 16:21:02)</span><span style="padding-right:50px;">Watch: Bethlehem Christmas tree lights up for first time since Gaza war <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7exuyz6az2p" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-07 16:16:42)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】大分空港でぼや騒ぎ モバイルバッテリーが燃えたか ANAカウンター前で 大分 (2025-12-07 16:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7exkmwda32m" target="_blank">sokuho.news</a> (2025-12-07 16:10:54)</span><span style="padding-right:50px;">India says no advisory to stop clean energy funding reut.rs/48p9YEI <a href="https://bsky.app/profile/reuters.com/post/3m7exjcwf7j2a" target="_blank">reuters.com</a> (2025-12-07 16:10:10)</span><span style="padding-right:50px;">California health officials on Friday warned against foraging for wild mushrooms after a poison found in certain varieties killed one person and caused liver damage to others. <a href="https://bsky.app/profile/nytimes.com/post/3m7exj2lmah2e" target="_blank">nytimes.com</a> (2025-12-07 16:10:02)</span>
   </div>
 </div>
 
@@ -27,6 +27,50 @@
   100% { transform: translateX(-100%); }
 }
 </style>
+
+---
+
+@nhknewsunofficial.bsky.social
+
+ノーベル賞・坂口志文さん発見「制御性T細胞」応用研究最前線
+https://news.web.nhk/newsweb/na/na-k10014996481000
+
+[2025-12-07 16:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ey4swmoi2j)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Watch: Bethlehem Christmas tree lights up for first time since Gaza war
+
+[2025-12-07 16:16:42](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7exuyz6az2p)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】大分空港でぼや騒ぎ モバイルバッテリーが燃えたか ANAカウンター前で 大分
+(2025-12-07 16:00) #ニュース
+
+[2025-12-07 16:10:54](https://bsky.app/profile/sokuho.news/post/3m7exkmwda32m)
+
+---
+
+@reuters.com
+
+India says no advisory to stop clean energy funding reut.rs/48p9YEI
+
+[2025-12-07 16:10:10](https://bsky.app/profile/reuters.com/post/3m7exjcwf7j2a)
+
+---
+
+@nytimes.com
+
+California health officials on Friday warned against foraging for wild mushrooms after a poison found in certain varieties killed one person and caused liver damage to others.
+
+[2025-12-07 16:10:02](https://bsky.app/profile/nytimes.com/post/3m7exj2lmah2e)
 
 ---
 
@@ -78,51 +122,6 @@ Students pursuing professional degrees will be able to borrow up to $200,000 in 
 The Department of Education has named these 11 degree fields that meet the requirements to be considered professional.
 
 [2025-12-07 16:00:12](https://bsky.app/profile/cnbc.com/post/3m7ewxi3bl22f)
-
----
-
-@cnn.com
-
-A nightclub fire in the popular Indian resort region of Goa has killed at least 23 people including several tourists, officials said.
-
-[2025-12-07 16:00:06](https://bsky.app/profile/cnn.com/post/3m7ewxcs6zg2n)
-
----
-
-@nhknewsunofficial.bsky.social
-
-サッカーW杯 日本の試合は米ダラスとメキシコのモンテレイで
-https://news.web.nhk/newsweb/na/na-k10014996601000
-
-[2025-12-07 15:57:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ewrvuqtr26)
-
----
-
-@nhknewsunofficial.bsky.social
-
-長崎 中学生が乗るマイクロバスが車と衝突 運転手ら3人けが
-https://news.web.nhk/newsweb/na/na-k10014996591000
-
-[2025-12-07 15:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7evx3ba6a2k)
-
----
-
-@reuters.com
-
-Old is gold: Kohli and Rohit shine bright reut.rs/48XCsFG
-
-[2025-12-07 15:35:09](https://bsky.app/profile/reuters.com/post/3m7evkojbpk2n)
-
----
-
-@nikkei.com
-
-中国軍「空母訓練を自衛隊機が妨害」と主張　レーダー照射正当化か
-www.nikkei.com/article/DGXZQO...
-
-#ニュース
-
-[2025-12-07 15:31:56](https://bsky.app/profile/nikkei.com/post/3m7evewqref2i)
 
 ---
 
