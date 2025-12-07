@@ -1,9 +1,9 @@
-# [2025-12-08 01:30 updated](2025_12_08.md)
+# [2025-12-08 01:50 updated](2025_12_08.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Colin Jost appeared as Defense Secretary Pete Hegseth in the opening sketch of “Saturday Night Live,” hosted this week by Melissa McCarthy and featuring the musical guest Dijon. Here’s an episode recap. <a href="https://bsky.app/profile/nytimes.com/post/3m7fwjiqct42h" target="_blank">nytimes.com</a> (2025-12-08 01:25:03)</span><span style="padding-right:50px;">In Morocco, chorba refers to a soup that hasn’t been thickened with flour or cream, giving it a light and wholesome consistency. This hearty dish features lamb, chickpeas, potatoes and noodles seasoned with turmeric and saffron for a cozy one-pot meal. nyti.ms/48Of90Z <a href="https://bsky.app/profile/nytimes.com/post/3m7fwebwuef2q" target="_blank">nytimes.com</a> (2025-12-08 01:22:08)</span><span style="padding-right:50px;">Streetwise: A popular ETF dropped Big Tech stocks, which gets at an important issue: Is the bet on artificial intelligence a vast potential profit pool, or a money pit? <a href="https://bsky.app/profile/wsj.com/post/3m7fw6wlbhk2p" target="_blank">wsj.com</a> (2025-12-08 01:19:08)</span><span style="padding-right:50px;">Rutter rescues point for Brighton with late equaliser against West Ham reut.rs/3KCuecE <a href="https://bsky.app/profile/reuters.com/post/3m7fvxxykyx26" target="_blank">reuters.com</a> (2025-12-08 01:15:14)</span><span style="padding-right:50px;">Games can be tools for understanding what action to take amid complexity and uncertainty. While finance is not actually a game, but investing means taking chances, so a good gamer is likely to have an edge.  Read more: bloom.bg/44aEf7G  📷️: Justin Fantl <a href="https://bsky.app/profile/bloomberg.com/post/3m7fvxsxgzq2v" target="_blank">bloomberg.com</a> (2025-12-08 01:15:09)</span>
+<span style="padding-right:50px;">Pips is a logic puzzle where players must arrange a set of dominoes to meet the conditions of the board to win. Even though the game is timed, there’s no way to lose. trib.al/7Dr4vR7 <a href="https://bsky.app/profile/nytimes.com/post/3m7fxusn7tc2n" target="_blank">nytimes.com</a> (2025-12-08 01:49:16)</span><span style="padding-right:50px;">Piastri an F1 champion of the future, says Brown reut.rs/44cxJ0f <a href="https://bsky.app/profile/reuters.com/post/3m7fxekqwku2i" target="_blank">reuters.com</a> (2025-12-08 01:40:11)</span><span style="padding-right:50px;">Ejections from the Sun could cause the northern lights to be visible further south this week. <a href="https://bsky.app/profile/forbes.com/post/3m7fxeegv2m2q" target="_blank">forbes.com</a> (2025-12-08 01:40:04)</span><span style="padding-right:50px;">Connections is a daily game about finding common threads between words. Players must select four groups of four words without making more than three mistakes. Play now. trib.al/GfNoxLa <a href="https://bsky.app/profile/nytimes.com/post/3m7fxe56zqc2z" target="_blank">nytimes.com</a> (2025-12-08 01:39:57)</span><span style="padding-right:50px;">Sen. Tom Cotton defends second strike on alleged drug boat, saying on "Meet the Press" that the initial survivors "were not incapacitated." <a href="https://bsky.app/profile/nbcnews.com/post/3m7fxaghfsl2i" target="_blank">nbcnews.com</a> (2025-12-08 01:37:52)</span>
   </div>
 </div>
 
@@ -32,98 +32,94 @@
 
 ## News Headlines
 
-Here are the six important stories with headlines in English:
+Here are the six important stories with their headlines in English:
 
-1. "Colin Jost Stars as Defense Secretary Pete Hegseth in 'Saturday Night Live' Sketch"
-2. "Is the Bet on Artificial Intelligence a Vast Potential Profit Pool or a Money Pit?"
-3. "Boxing Champion Canelo Álvarez Earns $100 Million in the Ring"
-4. "McLaren's Lando Norris Wins Formula One Drivers' Championship"
-5. "Gary Walters Shares Behind-the-Scenes Looks at His Time Serving Presidents"
-6. "Apple's Executive Exodus Sends a Signal About Its AI Strategy"
+1. "Dominoes Puzzle: A Logic Game to Win"
+2. "Piastri: F1 Champion of the Future"
+3. "Northern Lights Visible Further South Amid Ejections from the Sun"
+4. "College Football Postseason Lineup Revealed"
+5. "UK Abolitionists Outraged by Heinous Insurance Trial"
+6. "Zootopia 2: A Slightly Watered-Down Sequel"
 
 ----
 
 @nytimes.com
 
-Colin Jost appeared as Defense Secretary Pete Hegseth in the opening sketch of “Saturday Night Live,” hosted this week by Melissa McCarthy and featuring the musical guest Dijon. Here’s an episode recap.
+Pips is a logic puzzle where players must arrange a set of dominoes to meet the conditions of the board to win. Even though the game is timed, there’s no way to lose. trib.al/7Dr4vR7
 
-[2025-12-08 01:25:03](https://bsky.app/profile/nytimes.com/post/3m7fwjiqct42h)
+[2025-12-08 01:49:16](https://bsky.app/profile/nytimes.com/post/3m7fxusn7tc2n)
+
+---
+
+@reuters.com
+
+Piastri an F1 champion of the future, says Brown reut.rs/44cxJ0f
+
+[2025-12-08 01:40:11](https://bsky.app/profile/reuters.com/post/3m7fxekqwku2i)
+
+---
+
+@forbes.com
+
+Ejections from the Sun could cause the northern lights to be visible further south this week.
+
+[2025-12-08 01:40:04](https://bsky.app/profile/forbes.com/post/3m7fxeegv2m2q)
 
 ---
 
 @nytimes.com
 
-In Morocco, chorba refers to a soup that hasn’t been thickened with flour or cream, giving it a light and wholesome consistency. This hearty dish features lamb, chickpeas, potatoes and noodles seasoned with turmeric and saffron for a cozy one-pot meal. nyti.ms/48Of90Z
+Connections is a daily game about finding common threads between words. Players must select four groups of four words without making more than three mistakes. Play now. trib.al/GfNoxLa
 
-[2025-12-08 01:22:08](https://bsky.app/profile/nytimes.com/post/3m7fwebwuef2q)
+[2025-12-08 01:39:57](https://bsky.app/profile/nytimes.com/post/3m7fxe56zqc2z)
+
+---
+
+@nbcnews.com
+
+Sen. Tom Cotton defends second strike on alleged drug boat, saying on "Meet the Press" that the initial survivors "were not incapacitated."
+
+[2025-12-08 01:37:52](https://bsky.app/profile/nbcnews.com/post/3m7fxaghfsl2i)
+
+---
+
+@reuters.com
+
+Celik sees red as Roma lose at Cagliari reut.rs/44cxrXd
+
+[2025-12-08 01:35:09](https://bsky.app/profile/reuters.com/post/3m7fx3ldikh26)
+
+---
+
+@nytimes.com
+
+Strands is a word search with a unique twist. Can you uncover the theme? Play here: trib.al/rSDAs9W
+
+[2025-12-08 01:32:47](https://bsky.app/profile/nytimes.com/post/3m7fwxd2oak2n)
 
 ---
 
 @wsj.com
 
-Streetwise: A popular ETF dropped Big Tech stocks, which gets at an important issue: Is the bet on artificial intelligence a vast potential profit pool, or a money pit?
+An insurance trial about a heinous episode at sea outraged British abolitionists. The case led Parliament to prohibit the Atlantic slave trade. on.wsj.com/48lYZvG
 
-[2025-12-08 01:19:08](https://bsky.app/profile/wsj.com/post/3m7fw6wlbhk2p)
+[2025-12-08 01:32:12](https://bsky.app/profile/wsj.com/post/3m7fwwcgl7s2p)
 
 ---
 
-@reuters.com
+@usatoday.com
 
-Rutter rescues point for Brighton with late equaliser against West Ham reut.rs/3KCuecE
+The college football regular season is over, and the postseason lineup will be revealed. Here's our bowl projections, including the playoff pairings.
 
-[2025-12-08 01:15:14](https://bsky.app/profile/reuters.com/post/3m7fvxxykyx26)
+[2025-12-08 01:30:27](https://bsky.app/profile/usatoday.com/post/3m7fwt5yzst26)
 
 ---
 
 @bloomberg.com
 
-Games can be tools for understanding what action to take amid complexity and uncertainty. While finance is not actually a game, but investing means taking chances, so a good gamer is likely to have an edge.
+A plan by Switzerland’s right-wing People’s Party to cap the population at 10 million has the backing of almost half the country, according to a poll before an expected vote next year
 
-Read more: bloom.bg/44aEf7G
-
-📷️: Justin Fantl
-
-[2025-12-08 01:15:09](https://bsky.app/profile/bloomberg.com/post/3m7fvxsxgzq2v)
-
----
-
-@financialtimes.com
-
- There is already an answer to securing Sudan’s future on.ft.com/3Yda8ZH  | opinion
-
-[2025-12-08 01:13:43](https://bsky.app/profile/financialtimes.com/post/3m7fvvamlqe25)
-
----
-
-@reuters.com
-
-Key moments of the 2025 Formula One season reut.rs/4pTeilg
-
-[2025-12-08 01:10:12](https://bsky.app/profile/reuters.com/post/3m7fvox7tpg27)
-
----
-
-@nytimes.com
-
-Our final new recipe for Cookie Week: Like a Dark ’n’ Stormy cocktail, this festive and fiery cookie is a welcome wake-up call for your taste buds. But perhaps the best part is that, unlike the cocktail, there is no limit to how many you should consume. nyti.ms/43XREjq
-
-[2025-12-08 01:10:03](https://bsky.app/profile/nytimes.com/post/3m7fvooqqp22h)
-
----
-
-@yahoofinance.com
-
-Apple's executive exodus sends a signal about its AI strategy
-
-[2025-12-08 01:06:06](https://bsky.app/profile/yahoofinance.com/post/3m7fvhmtwxo22)
-
----
-
-@reuters.com
-
-Water leak at Paris Louvre Museum damages books at Egyptian antiquities department reut.rs/4pU3jIf
-
-[2025-12-08 01:05:11](https://bsky.app/profile/reuters.com/post/3m7fvfyn7kl2i)
+[2025-12-08 01:30:21](https://bsky.app/profile/bloomberg.com/post/3m7fwsy7yle2y)
 
 ---
 
