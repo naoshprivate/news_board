@@ -1,9 +1,9 @@
-# [2025-12-08 00:50 updated](2025_12_08.md)
+# [2025-12-08 01:10 updated](2025_12_08.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Your wife deserves something thoughtful — a gift that shows you’ve been paying attention to the exact ways in which she’s delightfully unique. Of course, one needn't be a wife to appreciate these unique and varied gifts. nyti.ms/48PIic4 <a href="https://bsky.app/profile/nytimes.com/post/3m7ftxcbs4s2g" target="_blank">nytimes.com</a> (2025-12-08 00:39:04)</span><span style="padding-right:50px;">Defense Secretary Pete Hegseth defended the U.S. military’s decision to kill two survivors of a lethal strike in the Caribbean in a follow-up attack on the capsized boat. <a href="https://bsky.app/profile/wsj.com/post/3m7ftsmlgu52o" target="_blank">wsj.com</a> (2025-12-08 00:36:27)</span><span style="padding-right:50px;">Trump trade war shift away from Chinese manufacturing has reached tipping point <a href="https://bsky.app/profile/cnbc.com/post/3m7ftkwwg242h" target="_blank">cnbc.com</a> (2025-12-08 00:32:10)</span><span style="padding-right:50px;">Politicians joined in the fervor over apparent drone sightings. While the wave of fear has passed, details about what happened remain elusive. <a href="https://bsky.app/profile/usatoday.com/post/3m7fti4vr2y2j" target="_blank">usatoday.com</a> (2025-12-08 00:30:35)</span><span style="padding-right:50px;">A CDC advisory panel's hepatitis B vote shows how deeply RFK Jr.'s influence now shapes national vaccine policy, and how much damage it can still do (via Bloomberg Opinion)  <a href="https://bsky.app/profile/bloomberg.com/post/3m7fthdhyqj2s" target="_blank">bloomberg.com</a> (2025-12-08 00:30:09)</span>
+<span style="padding-right:50px;">Apple's executive exodus sends a signal about its AI strategy <a href="https://bsky.app/profile/yahoofinance.com/post/3m7fvhmtwxo22" target="_blank">yahoofinance.com</a> (2025-12-08 01:06:06)</span><span style="padding-right:50px;">Water leak at Paris Louvre Museum damages books at Egyptian antiquities department reut.rs/4pU3jIf <a href="https://bsky.app/profile/reuters.com/post/3m7fvfyn7kl2i" target="_blank">reuters.com</a> (2025-12-08 01:05:11)</span><span style="padding-right:50px;">This Startup Makes Ammonia By Turning The Planet Into A Chemical Reactor <a href="https://bsky.app/profile/forbes.com/post/3m7fvb6y4tc2l" target="_blank">forbes.com</a> (2025-12-08 01:02:30)</span><span style="padding-right:50px;">The 29-year-old ‘Riverdale’ star couldn’t find a solution to her acne, so she launched her own skincare line, Personal Day. Thanks to her viral TikTok following, the Under 30 alum is now cleaning up with $10 million in sales. <a href="https://bsky.app/profile/forbes.com/post/3m7fv7zkyac2l" target="_blank">forbes.com</a> (2025-12-08 01:01:51)</span><span style="padding-right:50px;">Tax Breaks: The How To Give Like A Billionaire Edition <a href="https://bsky.app/profile/forbes.com/post/3m7fv7gfjes2l" target="_blank">forbes.com</a> (2025-12-08 01:01:31)</span>
   </div>
 </div>
 
@@ -34,99 +34,92 @@
 
 Here are the six important stories with headlines in English:
 
-1. "US Military Kills Survivors of Lethal Strike in Caribbean"
-2. "Trump's Trade War Shift Reaches Tipping Point"
-3. "RFK Jr.'s Influence Shapes National Vaccine Policy"
-4. "Last Survivors of Pearl Harbor Remembered Amid Pandemic"
-5. "Afghan Immigrants Grapple with Fear and Sorrow After Shooting"
-6. "Supreme Court May Strike Down Campaign Finance Rules"
+1. Apple's Executive Exodus Sends a Signal About its AI Strategy
+2. Water Leak at Paris Louvre Museum Damages Books at Egyptian Antiquities Department
+3. Netflix Wins Bidding War for Hollywood's Oldest Studio, But Fight for Control Has Just Begun
+4. 29-Year-Old 'Riverdale' Star Makes $10 Million in Sales with Her Own Skincare Line
+5. Brookfield and GIC Near Binding Offer for National Storage
+6. Canelo Álvarez Defeats Toppled in the Fight of the Year, Earns Over $100 Million
 
 ----
 
-@nytimes.com
+@yahoofinance.com
 
-Your wife deserves something thoughtful — a gift that shows you’ve been paying attention to the exact ways in which she’s delightfully unique. Of course, one needn't be a wife to appreciate these unique and varied gifts. nyti.ms/48PIic4
+Apple's executive exodus sends a signal about its AI strategy
 
-[2025-12-08 00:39:04](https://bsky.app/profile/nytimes.com/post/3m7ftxcbs4s2g)
+[2025-12-08 01:06:06](https://bsky.app/profile/yahoofinance.com/post/3m7fvhmtwxo22)
+
+---
+
+@reuters.com
+
+Water leak at Paris Louvre Museum damages books at Egyptian antiquities department reut.rs/4pU3jIf
+
+[2025-12-08 01:05:11](https://bsky.app/profile/reuters.com/post/3m7fvfyn7kl2i)
+
+---
+
+@forbes.com
+
+This Startup Makes Ammonia By Turning The Planet Into A Chemical Reactor
+
+[2025-12-08 01:02:30](https://bsky.app/profile/forbes.com/post/3m7fvb6y4tc2l)
+
+---
+
+@forbes.com
+
+The 29-year-old ‘Riverdale’ star couldn’t find a solution to her acne, so she launched her own skincare line, Personal Day. Thanks to her viral TikTok following, the Under 30 alum is now cleaning up with $10 million in sales.
+
+[2025-12-08 01:01:51](https://bsky.app/profile/forbes.com/post/3m7fv7zkyac2l)
+
+---
+
+@forbes.com
+
+Tax Breaks: The How To Give Like A Billionaire Edition
+
+[2025-12-08 01:01:31](https://bsky.app/profile/forbes.com/post/3m7fv7gfjes2l)
+
+---
+
+@forbes.com
+
+Netflix may have won the bidding war for one of Hollywood’s oldest studios, but the fight for control has only just begun.
+
+[2025-12-08 01:01:14](https://bsky.app/profile/forbes.com/post/3m7fv6wmk722l)
+
+---
+
+@reuters.com
+
+Brookfield, GIC near binding offer for National Storage, Bloomberg News reports reut.rs/4iHTXNm
+
+[2025-12-08 01:01:01](https://bsky.app/profile/reuters.com/post/3m7fv6jtfz22e)
+
+---
+
+@forbes.com
+
+After toppling Canelo Álvarez in the fight of the year, the undefeated boxing champion has earned more than $100 million in the ring. Now 38, and with Warren Buffett in his corner, he is staring down the ultimate opponent—Father Time.
+
+[2025-12-08 01:00:57](https://bsky.app/profile/forbes.com/post/3m7fv6fwv2c2l)
 
 ---
 
 @wsj.com
 
-Defense Secretary Pete Hegseth defended the U.S. military’s decision to kill two survivors of a lethal strike in the Caribbean in a follow-up attack on the capsized boat.
+The 26-year-old Englishman held off a late charge from Max Verstappen to secure McLaren’s first drivers’ championship in 17 years. on.wsj.com/4oKlWO7
 
-[2025-12-08 00:36:27](https://bsky.app/profile/wsj.com/post/3m7ftsmlgu52o)
-
----
-
-@cnbc.com
-
-Trump trade war shift away from Chinese manufacturing has reached tipping point
-
-[2025-12-08 00:32:10](https://bsky.app/profile/cnbc.com/post/3m7ftkwwg242h)
+[2025-12-08 01:00:47](https://bsky.app/profile/wsj.com/post/3m7fv64rt742a)
 
 ---
 
 @usatoday.com
 
-Politicians joined in the fervor over apparent drone sightings. While the wave of fear has passed, details about what happened remain elusive.
+Gary Walters, 79, is sharing behind-the-scenes looks at his time serving presidents including Jimmy Carter, Ronald Reagan and Bill Clinton.
 
-[2025-12-08 00:30:35](https://bsky.app/profile/usatoday.com/post/3m7fti4vr2y2j)
-
----
-
-@bloomberg.com
-
-A CDC advisory panel's hepatitis B vote shows how deeply RFK Jr.'s influence now shapes national vaccine policy, and how much damage it can still do (via Bloomberg Opinion) 
-
-[2025-12-08 00:30:09](https://bsky.app/profile/bloomberg.com/post/3m7fthdhyqj2s)
-
----
-
-@financialtimes.com
-
-Japan has urged the US to give Prime Minister Sanae Takaichi more public support after expressing frustration at the level of backing she received following comments about Taiwan that enraged China: on.ft.com/4ppLWPW
-
-[2025-12-08 00:30:07](https://bsky.app/profile/financialtimes.com/post/3m7fthbl2v626)
-
----
-
-@cnn.com
-
-Survivors of the 1941 Japanese bombing of Pearl Harbor have long been the center of a remembrance ceremony held each year on the military base’s waterfront.
-
-But today only 12 are still alive — all centenarians — and this year none are able to mark the event.
-https://cnn.it/4axcaLB
-
-[2025-12-08 00:30:06](https://bsky.app/profile/cnn.com/post/3m7fthazq3y2j)
-
----
-
-@washingtonpost.com
-
-Exclusive: Bruna Ferreira, who shares a child with the White House press secretary's brother, contested the portrayal of her as a criminal, absentee mom as she faces deportation.
-
-“I asked Karoline to be godmother over my only sister,” she said. 
-
-[2025-12-08 00:30:06](https://bsky.app/profile/washingtonpost.com/post/3m7fthahknt2x)
-
----
-
-@npr.org
-
-A small community of Afghan immigrants have made Bellingham, Wash., their home. After one of their own allegedly shot two National Guard soldiers, the community grapples with fear and sorrow. n.pr/3Kfwrec
-
-[2025-12-08 00:24:50](https://bsky.app/profile/npr.org/post/3m7ft5td7gf2g)
-
----
-
-@travismandrews.bsky.social
-
-A portrait of the Kennedy Center, ten months after Trump's takeover. The latest from @janaykingsberry.bsky.social and me. 
-
-www.washingtonpost.com/entertainmen...
-
-[2025-12-08 00:21:24](https://bsky.app/profile/travismandrews.bsky.social/post/3m7fsxok2fc22)
+[2025-12-08 01:00:35](https://bsky.app/profile/usatoday.com/post/3m7fv5rk5bf2z)
 
 ---
 
