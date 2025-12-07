@@ -1,9 +1,9 @@
-# [2025-12-08 00:30 updated](2025_12_08.md)
+# [2025-12-08 00:50 updated](2025_12_08.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">A small community of Afghan immigrants have made Bellingham, Wash., their home. After one of their own allegedly shot two National Guard soldiers, the community grapples with fear and sorrow. n.pr/3Kfwrec <a href="https://bsky.app/profile/npr.org/post/3m7ft5td7gf2g" target="_blank">npr.org</a> (2025-12-08 00:24:50)</span><span style="padding-right:50px;">Billy Bob Thornton on his "Landman" soliloquies, the viral wind-turbine speech and why his character’s jeans are so baggy. <a href="https://bsky.app/profile/wsj.com/post/3m7fsvpl7262i" target="_blank">wsj.com</a> (2025-12-08 00:20:17)</span><span style="padding-right:50px;">New US Security Strategy aligns with Russia's vision, Moscow says <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7fsg3kvgg2q" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-08 00:11:32)</span><span style="padding-right:50px;">Canada's Air Transat to suspend flights following strike notice from pilots union reut.rs/4oFFEdJ <a href="https://bsky.app/profile/reuters.com/post/3m7fsdkxfb72y" target="_blank">reuters.com</a> (2025-12-08 00:10:09)</span><span style="padding-right:50px;">On Sunday, Lando Norris became a Formula 1 world champion for the first time.   This is how a dramatic last weekend of the 2025 season panned out. <a href="https://bsky.app/profile/theathletic-f1.bsky.social/post/3m7fs4imdqs24" target="_blank">theathletic-f1.bsky.social</a> (2025-12-08 00:06:11)</span>
+<span style="padding-right:50px;">Your wife deserves something thoughtful — a gift that shows you’ve been paying attention to the exact ways in which she’s delightfully unique. Of course, one needn't be a wife to appreciate these unique and varied gifts. nyti.ms/48PIic4 <a href="https://bsky.app/profile/nytimes.com/post/3m7ftxcbs4s2g" target="_blank">nytimes.com</a> (2025-12-08 00:39:04)</span><span style="padding-right:50px;">Defense Secretary Pete Hegseth defended the U.S. military’s decision to kill two survivors of a lethal strike in the Caribbean in a follow-up attack on the capsized boat. <a href="https://bsky.app/profile/wsj.com/post/3m7ftsmlgu52o" target="_blank">wsj.com</a> (2025-12-08 00:36:27)</span><span style="padding-right:50px;">Trump trade war shift away from Chinese manufacturing has reached tipping point <a href="https://bsky.app/profile/cnbc.com/post/3m7ftkwwg242h" target="_blank">cnbc.com</a> (2025-12-08 00:32:10)</span><span style="padding-right:50px;">Politicians joined in the fervor over apparent drone sightings. While the wave of fear has passed, details about what happened remain elusive. <a href="https://bsky.app/profile/usatoday.com/post/3m7fti4vr2y2j" target="_blank">usatoday.com</a> (2025-12-08 00:30:35)</span><span style="padding-right:50px;">A CDC advisory panel's hepatitis B vote shows how deeply RFK Jr.'s influence now shapes national vaccine policy, and how much damage it can still do (via Bloomberg Opinion)  <a href="https://bsky.app/profile/bloomberg.com/post/3m7fthdhyqj2s" target="_blank">bloomberg.com</a> (2025-12-08 00:30:09)</span>
   </div>
 </div>
 
@@ -32,16 +32,85 @@
 
 ## News Headlines
 
-Here are the six selected headlines in English:
+Here are the six important stories with headlines in English:
 
-1. "Afghan Immigrants in US Grapple with Fear and Sorrow After Attack"
-2. "New US Security Strategy Aligned with Russia's Vision, Moscow Says"
-3. "Formula 1 World Champion Lando Norris Answers Critics with Title Win"
-4. "High Jewelry and Wigs: More Than Just Accessories, They're Tools for Crafting Personas"
-5. "Supreme Court May Strike Down Campaign Finance Rules, Experts Say"
-6. "Guyana Launches Online School to Boost Education in Amazonian Regions"
+1. "US Military Kills Survivors of Lethal Strike in Caribbean"
+2. "Trump's Trade War Shift Reaches Tipping Point"
+3. "RFK Jr.'s Influence Shapes National Vaccine Policy"
+4. "Last Survivors of Pearl Harbor Remembered Amid Pandemic"
+5. "Afghan Immigrants Grapple with Fear and Sorrow After Shooting"
+6. "Supreme Court May Strike Down Campaign Finance Rules"
 
 ----
+
+@nytimes.com
+
+Your wife deserves something thoughtful — a gift that shows you’ve been paying attention to the exact ways in which she’s delightfully unique. Of course, one needn't be a wife to appreciate these unique and varied gifts. nyti.ms/48PIic4
+
+[2025-12-08 00:39:04](https://bsky.app/profile/nytimes.com/post/3m7ftxcbs4s2g)
+
+---
+
+@wsj.com
+
+Defense Secretary Pete Hegseth defended the U.S. military’s decision to kill two survivors of a lethal strike in the Caribbean in a follow-up attack on the capsized boat.
+
+[2025-12-08 00:36:27](https://bsky.app/profile/wsj.com/post/3m7ftsmlgu52o)
+
+---
+
+@cnbc.com
+
+Trump trade war shift away from Chinese manufacturing has reached tipping point
+
+[2025-12-08 00:32:10](https://bsky.app/profile/cnbc.com/post/3m7ftkwwg242h)
+
+---
+
+@usatoday.com
+
+Politicians joined in the fervor over apparent drone sightings. While the wave of fear has passed, details about what happened remain elusive.
+
+[2025-12-08 00:30:35](https://bsky.app/profile/usatoday.com/post/3m7fti4vr2y2j)
+
+---
+
+@bloomberg.com
+
+A CDC advisory panel's hepatitis B vote shows how deeply RFK Jr.'s influence now shapes national vaccine policy, and how much damage it can still do (via Bloomberg Opinion) 
+
+[2025-12-08 00:30:09](https://bsky.app/profile/bloomberg.com/post/3m7fthdhyqj2s)
+
+---
+
+@financialtimes.com
+
+Japan has urged the US to give Prime Minister Sanae Takaichi more public support after expressing frustration at the level of backing she received following comments about Taiwan that enraged China: on.ft.com/4ppLWPW
+
+[2025-12-08 00:30:07](https://bsky.app/profile/financialtimes.com/post/3m7fthbl2v626)
+
+---
+
+@cnn.com
+
+Survivors of the 1941 Japanese bombing of Pearl Harbor have long been the center of a remembrance ceremony held each year on the military base’s waterfront.
+
+But today only 12 are still alive — all centenarians — and this year none are able to mark the event.
+https://cnn.it/4axcaLB
+
+[2025-12-08 00:30:06](https://bsky.app/profile/cnn.com/post/3m7fthazq3y2j)
+
+---
+
+@washingtonpost.com
+
+Exclusive: Bruna Ferreira, who shares a child with the White House press secretary's brother, contested the portrayal of her as a criminal, absentee mom as she faces deportation.
+
+“I asked Karoline to be godmother over my only sister,” she said. 
+
+[2025-12-08 00:30:06](https://bsky.app/profile/washingtonpost.com/post/3m7fthahknt2x)
+
+---
 
 @npr.org
 
@@ -51,77 +120,13 @@ A small community of Afghan immigrants have made Bellingham, Wash., their home. 
 
 ---
 
-@wsj.com
+@travismandrews.bsky.social
 
-Billy Bob Thornton on his "Landman" soliloquies, the viral wind-turbine speech and why his character’s jeans are so baggy.
+A portrait of the Kennedy Center, ten months after Trump's takeover. The latest from @janaykingsberry.bsky.social and me. 
 
-[2025-12-08 00:20:17](https://bsky.app/profile/wsj.com/post/3m7fsvpl7262i)
+www.washingtonpost.com/entertainmen...
 
----
-
-@bbcnews-world-rss.bsky.social
-
-New US Security Strategy aligns with Russia's vision, Moscow says
-
-[2025-12-08 00:11:32](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7fsg3kvgg2q)
-
----
-
-@reuters.com
-
-Canada's Air Transat to suspend flights following strike notice from pilots union reut.rs/4oFFEdJ
-
-[2025-12-08 00:10:09](https://bsky.app/profile/reuters.com/post/3m7fsdkxfb72y)
-
----
-
-@theathletic-f1.bsky.social
-
-On Sunday, Lando Norris became a Formula 1 world champion for the first time. 
-
-This is how a dramatic last weekend of the 2025 season panned out.
-
-[2025-12-08 00:06:11](https://bsky.app/profile/theathletic-f1.bsky.social/post/3m7fs4imdqs24)
-
----
-
-@yahoofinance.com
-
-Companies prepare — as best they can — for possible tariff refunds
-
-[2025-12-08 00:06:06](https://bsky.app/profile/yahoofinance.com/post/3m7fs4drcsh2m)
-
----
-
-@reuters.com
-
-Israel's Netanyahu to discuss second phase of Gaza plan with Trump later this month reut.rs/3XCmHOb
-
-[2025-12-08 00:05:08](https://bsky.app/profile/reuters.com/post/3m7fs2lvrfd22)
-
----
-
-@wsj.com
-
-High jewelry and wigs are more than accessories, they’re tools that can craft entire personas. on.wsj.com/4pTb69i
-
-[2025-12-08 00:04:31](https://bsky.app/profile/wsj.com/post/3m7frzjaujo2i)
-
----
-
-@usatoday.com
-
-The Supreme Court could continue its trend of striking down campaign finance rules as improper restrictions on speech. How far will they go?
-
-[2025-12-08 00:01:06](https://bsky.app/profile/usatoday.com/post/3m7frtfdxon2t)
-
----
-
-@nbcnews.com
-
-Three elderly Austrian nuns who recently managed to return to their convent outside Salzburg after being evicted against their will said they would not be "shut up" after Reichersberg Abbey asked them not to post on Instagram.
-
-[2025-12-08 00:00:54](https://bsky.app/profile/nbcnews.com/post/3m7frszrhf52j)
+[2025-12-08 00:21:24](https://bsky.app/profile/travismandrews.bsky.social/post/3m7fsxok2fc22)
 
 ---
 
