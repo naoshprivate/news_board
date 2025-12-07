@@ -1,9 +1,9 @@
-# [2025-12-07 21:10 updated](2025_12_07.md)
+# [2025-12-07 21:30 updated](2025_12_07.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">America’s economy is at the mercy of crony capitalism on.ft.com/4puQYe6 <a href="https://bsky.app/profile/financialtimes.com/post/3m7fi2tgbjk2c" target="_blank">financialtimes.com</a> (2025-12-07 21:06:18)</span><span style="padding-right:50px;">F1 title contenders shake hands before the gloves go on reut.rs/4iOa0JW <a href="https://bsky.app/profile/reuters.com/post/3m7fhyps2jp2n" target="_blank">reuters.com</a> (2025-12-07 21:05:07)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:青森県下北地方, 深さ:10km マグニチュード:2.8, 最大震度:1 📍https://www.google.com/maps?q=41.2,141.3&ll=41.2,141.3&z=7&t=h 地震発生日時:2025-12-07 21:01頃 (10倍速▶120s→12s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m7fhxxtfzc2h" target="_blank">sokuho.news</a> (2025-12-07 21:04:42)</span><span style="padding-right:50px;">Katy Perry posts photo with Justin Trudeau in Japan <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7fhxiavqn2l" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-07 21:04:25)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  21時1分頃、青森県で最大震度1の地震を観測しました。 震源:青森県下北地方, 深さ:10km, 規模:M2.8 この地震による津波の心配はありません。 (2025-12-07 21:04:15) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/07/2025-12-07-21-01-40.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3m7fhxa6hq32e" target="_blank">sokuho.news</a> (2025-12-07 21:04:17)</span>
+<span style="padding-right:50px;">In Opinion  The Trump administration “has offered a lot of general rhetoric about the value of Christianity to American civilization,” Ross Douthat says. “But in the absence of religious-informed policymaking, this sometimes feels more like a performance of a Christian politics than a full reality.” <a href="https://bsky.app/profile/nytimes.com/post/3m7fithouts26" target="_blank">nytimes.com</a> (2025-12-07 21:20:05)</span><span style="padding-right:50px;">大迫傑が日本新記録を1秒更新、2時間4分55秒　バレンシア・マラソン（無料記事） www.nikkei.com/article/DGXZQO...  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m7fim3crk526" target="_blank">nikkei.com</a> (2025-12-07 21:15:57)</span><span style="padding-right:50px;"> The EU stumbles to an imperfect solution for funding Ukraine on.ft.com/4axbQMT  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m7fikre4g226" target="_blank">financialtimes.com</a> (2025-12-07 21:15:13)</span><span style="padding-right:50px;">Israel’s PM Netanyahu once again opposed to a two-state solution that would lead to the creation of a Palestinian state.  🔴 LIVE updates: aje.io/ro90fr <a href="https://bsky.app/profile/aljazeera.com/post/3m7fig4xnvc2y" target="_blank">aljazeera.com</a> (2025-12-07 21:12:37)</span><span style="padding-right:50px;">'We trained too much': McCullum blames England's training overdose for Ashes loss reut.rs/3KMXE87 <a href="https://bsky.app/profile/reuters.com/post/3m7fibrv6k42d" target="_blank">reuters.com</a> (2025-12-07 21:10:11)</span>
   </div>
 </div>
 
@@ -27,6 +27,53 @@
   100% { transform: translateX(-100%); }
 }
 </style>
+
+---
+
+@nytimes.com
+
+In Opinion
+
+The Trump administration “has offered a lot of general rhetoric about the value of Christianity to American civilization,” Ross Douthat says. “But in the absence of religious-informed policymaking, this sometimes feels more like a performance of a Christian politics than a full reality.”
+
+[2025-12-07 21:20:05](https://bsky.app/profile/nytimes.com/post/3m7fithouts26)
+
+---
+
+@nikkei.com
+
+大迫傑が日本新記録を1秒更新、2時間4分55秒　バレンシア・マラソン（無料記事）
+www.nikkei.com/article/DGXZQO...
+
+#ニュース
+
+[2025-12-07 21:15:57](https://bsky.app/profile/nikkei.com/post/3m7fim3crk526)
+
+---
+
+@financialtimes.com
+
+ The EU stumbles to an imperfect solution for funding Ukraine on.ft.com/4axbQMT  | opinion
+
+[2025-12-07 21:15:13](https://bsky.app/profile/financialtimes.com/post/3m7fikre4g226)
+
+---
+
+@aljazeera.com
+
+Israel’s PM Netanyahu once again opposed to a two-state solution that would lead to the creation of a Palestinian state.
+
+🔴 LIVE updates: aje.io/ro90fr
+
+[2025-12-07 21:12:37](https://bsky.app/profile/aljazeera.com/post/3m7fig4xnvc2y)
+
+---
+
+@reuters.com
+
+'We trained too much': McCullum blames England's training overdose for Ashes loss reut.rs/3KMXE87
+
+[2025-12-07 21:10:11](https://bsky.app/profile/reuters.com/post/3m7fibrv6k42d)
 
 ---
 
@@ -79,51 +126,6 @@ Katy Perry posts photo with Justin Trudeau in Japan
 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/07/2025-12-07-21-01-40.html?xlarge_image=1
 
 [2025-12-07 21:04:17](https://bsky.app/profile/sokuho.news/post/3m7fhxa6hq32e)
-
----
-
-@wsj.com
-
-During closed-door meetings in recent weeks, the president’s aides have pressed him to calibrate his message on affordability.
-
-[2025-12-07 21:02:14](https://bsky.app/profile/wsj.com/post/3m7fhtkzeda2i)
-
----
-
-@nikkei.com
-
-陰るスナックの灯、25年後に6割減も
-www.nikkei.com/article/DGXZQO...
-
-2025年は4万5000店と13年比5割減り、このままなら50年に2万店を下回ります。
-
-店を仕切るママの高齢化に後継者不足、酒離れ…冷え込む夜にリアルの接点を求める人は今後どこに集うのでしょうか。
-
-[2025-12-07 21:01:56](https://bsky.app/profile/nikkei.com/post/3m7fhszdjxk2w)
-
----
-
-@aljazeera.com
-
-Prime minister highlights Qatar as a safe space for mediating peace and fostering regional stability.
-
-[2025-12-07 21:00:26](https://bsky.app/profile/aljazeera.com/post/3m7fhqdufoa2z)
-
----
-
-@nbcnews.com
-
-In a complaint filed with Mexican prosecutors, Jennifer Nosek alleges that her midwife, Heather Baker, caused her baby’s death.
-
-[2025-12-07 21:00:25](https://bsky.app/profile/nbcnews.com/post/3m7fhqcprxs2j)
-
----
-
-@cnn.com
-
-A federal judge temporarily locked down the Justice Department's access to some evidence used in its criminal case against former FBI Director James Comey, just as the Trump administration prepares to seek a new indictment after the dismissal of previous charges https://cnn.it/3MmsVPS
-
-[2025-12-07 21:00:16](https://bsky.app/profile/cnn.com/post/3m7fhq26lxa2q)
 
 ---
 
