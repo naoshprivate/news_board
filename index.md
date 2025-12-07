@@ -1,9 +1,9 @@
-# [2025-12-08 01:10 updated](2025_12_08.md)
+# [2025-12-08 01:30 updated](2025_12_08.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Apple's executive exodus sends a signal about its AI strategy <a href="https://bsky.app/profile/yahoofinance.com/post/3m7fvhmtwxo22" target="_blank">yahoofinance.com</a> (2025-12-08 01:06:06)</span><span style="padding-right:50px;">Water leak at Paris Louvre Museum damages books at Egyptian antiquities department reut.rs/4pU3jIf <a href="https://bsky.app/profile/reuters.com/post/3m7fvfyn7kl2i" target="_blank">reuters.com</a> (2025-12-08 01:05:11)</span><span style="padding-right:50px;">This Startup Makes Ammonia By Turning The Planet Into A Chemical Reactor <a href="https://bsky.app/profile/forbes.com/post/3m7fvb6y4tc2l" target="_blank">forbes.com</a> (2025-12-08 01:02:30)</span><span style="padding-right:50px;">The 29-year-old ‘Riverdale’ star couldn’t find a solution to her acne, so she launched her own skincare line, Personal Day. Thanks to her viral TikTok following, the Under 30 alum is now cleaning up with $10 million in sales. <a href="https://bsky.app/profile/forbes.com/post/3m7fv7zkyac2l" target="_blank">forbes.com</a> (2025-12-08 01:01:51)</span><span style="padding-right:50px;">Tax Breaks: The How To Give Like A Billionaire Edition <a href="https://bsky.app/profile/forbes.com/post/3m7fv7gfjes2l" target="_blank">forbes.com</a> (2025-12-08 01:01:31)</span>
+<span style="padding-right:50px;">Colin Jost appeared as Defense Secretary Pete Hegseth in the opening sketch of “Saturday Night Live,” hosted this week by Melissa McCarthy and featuring the musical guest Dijon. Here’s an episode recap. <a href="https://bsky.app/profile/nytimes.com/post/3m7fwjiqct42h" target="_blank">nytimes.com</a> (2025-12-08 01:25:03)</span><span style="padding-right:50px;">In Morocco, chorba refers to a soup that hasn’t been thickened with flour or cream, giving it a light and wholesome consistency. This hearty dish features lamb, chickpeas, potatoes and noodles seasoned with turmeric and saffron for a cozy one-pot meal. nyti.ms/48Of90Z <a href="https://bsky.app/profile/nytimes.com/post/3m7fwebwuef2q" target="_blank">nytimes.com</a> (2025-12-08 01:22:08)</span><span style="padding-right:50px;">Streetwise: A popular ETF dropped Big Tech stocks, which gets at an important issue: Is the bet on artificial intelligence a vast potential profit pool, or a money pit? <a href="https://bsky.app/profile/wsj.com/post/3m7fw6wlbhk2p" target="_blank">wsj.com</a> (2025-12-08 01:19:08)</span><span style="padding-right:50px;">Rutter rescues point for Brighton with late equaliser against West Ham reut.rs/3KCuecE <a href="https://bsky.app/profile/reuters.com/post/3m7fvxxykyx26" target="_blank">reuters.com</a> (2025-12-08 01:15:14)</span><span style="padding-right:50px;">Games can be tools for understanding what action to take amid complexity and uncertainty. While finance is not actually a game, but investing means taking chances, so a good gamer is likely to have an edge.  Read more: bloom.bg/44aEf7G  📷️: Justin Fantl <a href="https://bsky.app/profile/bloomberg.com/post/3m7fvxsxgzq2v" target="_blank">bloomberg.com</a> (2025-12-08 01:15:09)</span>
   </div>
 </div>
 
@@ -34,14 +34,82 @@
 
 Here are the six important stories with headlines in English:
 
-1. Apple's Executive Exodus Sends a Signal About its AI Strategy
-2. Water Leak at Paris Louvre Museum Damages Books at Egyptian Antiquities Department
-3. Netflix Wins Bidding War for Hollywood's Oldest Studio, But Fight for Control Has Just Begun
-4. 29-Year-Old 'Riverdale' Star Makes $10 Million in Sales with Her Own Skincare Line
-5. Brookfield and GIC Near Binding Offer for National Storage
-6. Canelo Álvarez Defeats Toppled in the Fight of the Year, Earns Over $100 Million
+1. "Colin Jost Stars as Defense Secretary Pete Hegseth in 'Saturday Night Live' Sketch"
+2. "Is the Bet on Artificial Intelligence a Vast Potential Profit Pool or a Money Pit?"
+3. "Boxing Champion Canelo Álvarez Earns $100 Million in the Ring"
+4. "McLaren's Lando Norris Wins Formula One Drivers' Championship"
+5. "Gary Walters Shares Behind-the-Scenes Looks at His Time Serving Presidents"
+6. "Apple's Executive Exodus Sends a Signal About Its AI Strategy"
 
 ----
+
+@nytimes.com
+
+Colin Jost appeared as Defense Secretary Pete Hegseth in the opening sketch of “Saturday Night Live,” hosted this week by Melissa McCarthy and featuring the musical guest Dijon. Here’s an episode recap.
+
+[2025-12-08 01:25:03](https://bsky.app/profile/nytimes.com/post/3m7fwjiqct42h)
+
+---
+
+@nytimes.com
+
+In Morocco, chorba refers to a soup that hasn’t been thickened with flour or cream, giving it a light and wholesome consistency. This hearty dish features lamb, chickpeas, potatoes and noodles seasoned with turmeric and saffron for a cozy one-pot meal. nyti.ms/48Of90Z
+
+[2025-12-08 01:22:08](https://bsky.app/profile/nytimes.com/post/3m7fwebwuef2q)
+
+---
+
+@wsj.com
+
+Streetwise: A popular ETF dropped Big Tech stocks, which gets at an important issue: Is the bet on artificial intelligence a vast potential profit pool, or a money pit?
+
+[2025-12-08 01:19:08](https://bsky.app/profile/wsj.com/post/3m7fw6wlbhk2p)
+
+---
+
+@reuters.com
+
+Rutter rescues point for Brighton with late equaliser against West Ham reut.rs/3KCuecE
+
+[2025-12-08 01:15:14](https://bsky.app/profile/reuters.com/post/3m7fvxxykyx26)
+
+---
+
+@bloomberg.com
+
+Games can be tools for understanding what action to take amid complexity and uncertainty. While finance is not actually a game, but investing means taking chances, so a good gamer is likely to have an edge.
+
+Read more: bloom.bg/44aEf7G
+
+📷️: Justin Fantl
+
+[2025-12-08 01:15:09](https://bsky.app/profile/bloomberg.com/post/3m7fvxsxgzq2v)
+
+---
+
+@financialtimes.com
+
+ There is already an answer to securing Sudan’s future on.ft.com/3Yda8ZH  | opinion
+
+[2025-12-08 01:13:43](https://bsky.app/profile/financialtimes.com/post/3m7fvvamlqe25)
+
+---
+
+@reuters.com
+
+Key moments of the 2025 Formula One season reut.rs/4pTeilg
+
+[2025-12-08 01:10:12](https://bsky.app/profile/reuters.com/post/3m7fvox7tpg27)
+
+---
+
+@nytimes.com
+
+Our final new recipe for Cookie Week: Like a Dark ’n’ Stormy cocktail, this festive and fiery cookie is a welcome wake-up call for your taste buds. But perhaps the best part is that, unlike the cocktail, there is no limit to how many you should consume. nyti.ms/43XREjq
+
+[2025-12-08 01:10:03](https://bsky.app/profile/nytimes.com/post/3m7fvooqqp22h)
+
+---
 
 @yahoofinance.com
 
@@ -56,70 +124,6 @@ Apple's executive exodus sends a signal about its AI strategy
 Water leak at Paris Louvre Museum damages books at Egyptian antiquities department reut.rs/4pU3jIf
 
 [2025-12-08 01:05:11](https://bsky.app/profile/reuters.com/post/3m7fvfyn7kl2i)
-
----
-
-@forbes.com
-
-This Startup Makes Ammonia By Turning The Planet Into A Chemical Reactor
-
-[2025-12-08 01:02:30](https://bsky.app/profile/forbes.com/post/3m7fvb6y4tc2l)
-
----
-
-@forbes.com
-
-The 29-year-old ‘Riverdale’ star couldn’t find a solution to her acne, so she launched her own skincare line, Personal Day. Thanks to her viral TikTok following, the Under 30 alum is now cleaning up with $10 million in sales.
-
-[2025-12-08 01:01:51](https://bsky.app/profile/forbes.com/post/3m7fv7zkyac2l)
-
----
-
-@forbes.com
-
-Tax Breaks: The How To Give Like A Billionaire Edition
-
-[2025-12-08 01:01:31](https://bsky.app/profile/forbes.com/post/3m7fv7gfjes2l)
-
----
-
-@forbes.com
-
-Netflix may have won the bidding war for one of Hollywood’s oldest studios, but the fight for control has only just begun.
-
-[2025-12-08 01:01:14](https://bsky.app/profile/forbes.com/post/3m7fv6wmk722l)
-
----
-
-@reuters.com
-
-Brookfield, GIC near binding offer for National Storage, Bloomberg News reports reut.rs/4iHTXNm
-
-[2025-12-08 01:01:01](https://bsky.app/profile/reuters.com/post/3m7fv6jtfz22e)
-
----
-
-@forbes.com
-
-After toppling Canelo Álvarez in the fight of the year, the undefeated boxing champion has earned more than $100 million in the ring. Now 38, and with Warren Buffett in his corner, he is staring down the ultimate opponent—Father Time.
-
-[2025-12-08 01:00:57](https://bsky.app/profile/forbes.com/post/3m7fv6fwv2c2l)
-
----
-
-@wsj.com
-
-The 26-year-old Englishman held off a late charge from Max Verstappen to secure McLaren’s first drivers’ championship in 17 years. on.wsj.com/4oKlWO7
-
-[2025-12-08 01:00:47](https://bsky.app/profile/wsj.com/post/3m7fv64rt742a)
-
----
-
-@usatoday.com
-
-Gary Walters, 79, is sharing behind-the-scenes looks at his time serving presidents including Jimmy Carter, Ronald Reagan and Bill Clinton.
-
-[2025-12-08 01:00:35](https://bsky.app/profile/usatoday.com/post/3m7fv5rk5bf2z)
 
 ---
 
