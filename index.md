@@ -1,9 +1,9 @@
-# [2025-12-07 19:10 updated](2025_12_07.md)
+# [2025-12-07 19:30 updated](2025_12_07.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">India has no immediate plans to add coal power capacity beyond 2035, official says reut.rs/4rJj2vI <a href="https://bsky.app/profile/reuters.com/post/3m7fbcaqcwy2n" target="_blank">reuters.com</a> (2025-12-07 19:05:11)</span><span style="padding-right:50px;">Santa brings pain instead of presents in ‘Silent Night, Deadly Night,’ documentaries look at the lives of Stuart Scott and Dick Van Dyke, Eugene O’Neill’s ‘Anna Christie’ gets a New York staging starring Michelle Williams, and more. on.wsj.com/48Vivzc <a href="https://bsky.app/profile/wsj.com/post/3m7fbc5sesr24" target="_blank">wsj.com</a> (2025-12-07 19:05:08)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】郡山市巳六段で建物火災 発生から30分経過も激しく炎上中 (2025-12-07 19:04) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7fbaw3crp2p" target="_blank">sokuho.news</a> (2025-12-07 19:04:26)</span><span style="padding-right:50px;">One person was seriously injured after being stabbed Friday on Charlotte’s LYNX Blue Line, the same route where the fatal stabbing of a Ukrainian refugee took place months earlier.  <a href="https://bsky.app/profile/cnn.com/post/3m7fb6fcp2k2r" target="_blank">cnn.com</a> (2025-12-07 19:03:01)</span><span style="padding-right:50px;">マネーフォワード経営陣の読書術とは www.nikkei.com/article/DGXZQO...  何かモヤモヤすることがあって、向き合うヒントを探すために本を読む――。  「問いの解像度」を上げてくれる――。  辻庸介CEOは読書の役割を「知る」から「わかる」への橋渡しにあるといいます。 <a href="https://bsky.app/profile/nikkei.com/post/3m7fb4inmdg2k" target="_blank">nikkei.com</a> (2025-12-07 19:01:58)</span>
+<span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】B1長崎ヴェルカ 越谷に99-76で勝利 リーグ戦6連勝《長崎》 (2025-12-07 19:21) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7fca6gp2727" target="_blank">sokuho.news</a> (2025-12-07 19:21:55)</span><span style="padding-right:50px;">維新 吉村代表 “副首都構想 来年の通常国会に法案提出を” https://news.web.nhk/newsweb/na/na-k10014996671000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7fc6ojoka2r" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-07 19:21:02)</span><span style="padding-right:50px;">スノーボードW杯パラレル大回転第2戦 三木つばきが今季初優勝 https://news.web.nhk/newsweb/na/na-k10014996651000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7fbzdjkhi2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-07 19:18:03)</span><span style="padding-right:50px;">The group, which called itself the Military Committee for Refoundation, on Sunday announced the removal of the president and all state institutions. n.pr/4oCWhXu <a href="https://bsky.app/profile/npr.org/post/3m7fbm5aare2s" target="_blank">npr.org</a> (2025-12-07 19:10:43)</span><span style="padding-right:50px;">India has no immediate plans to add coal power capacity beyond 2035, official says reut.rs/4rJj2vI <a href="https://bsky.app/profile/reuters.com/post/3m7fbcaqcwy2n" target="_blank">reuters.com</a> (2025-12-07 19:05:11)</span>
   </div>
 </div>
 
@@ -27,6 +27,43 @@
   100% { transform: translateX(-100%); }
 }
 </style>
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】B1長崎ヴェルカ 越谷に99-76で勝利 リーグ戦6連勝《長崎》
+(2025-12-07 19:21) #ニュース
+
+[2025-12-07 19:21:55](https://bsky.app/profile/sokuho.news/post/3m7fca6gp2727)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+維新 吉村代表 “副首都構想 来年の通常国会に法案提出を”
+https://news.web.nhk/newsweb/na/na-k10014996671000
+
+[2025-12-07 19:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7fc6ojoka2r)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+スノーボードW杯パラレル大回転第2戦 三木つばきが今季初優勝
+https://news.web.nhk/newsweb/na/na-k10014996651000
+
+[2025-12-07 19:18:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7fbzdjkhi2j)
+
+---
+
+@npr.org
+
+The group, which called itself the Military Committee for Refoundation, on Sunday announced the removal of the president and all state institutions. n.pr/4oCWhXu
+
+[2025-12-07 19:10:43](https://bsky.app/profile/npr.org/post/3m7fbm5aare2s)
 
 ---
 
@@ -85,40 +122,6 @@ www.nikkei.com/article/DGXZQO...
 Russian troops capture two villages in Ukraine, defence ministry says reut.rs/48rsmwM
 
 [2025-12-07 19:00:44](https://bsky.app/profile/reuters.com/post/3m7fb2c2oua2n)
-
----
-
-@apnews.com
-
-Baking is more than just creating delicious treats. For many people, it's winter therapy.
-
-[2025-12-07 19:00:20](https://bsky.app/profile/apnews.com/post/3m7fazlnwlh2c)
-
----
-
-@aljazeera.com
-
-Israel is not allowing antibiotics, IV solutions or surgical material to enter besieged Gaza despite 2-month ceasefire.
-
-[2025-12-07 19:00:14](https://bsky.app/profile/aljazeera.com/post/3m7fazfmom427)
-
----
-
-@nhknewsunofficial.bsky.social
-
-高市首相 能登半島地震 豪雨災害の現場視察“復興全力で支援”
-https://news.web.nhk/newsweb/na/na-k10014996521000
-
-[2025-12-07 18:57:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7fatqwkrb2e)
-
----
-
-@nhknewsunofficial.bsky.social
-
-男子ゴルフ 国内ツアー最終R 金子駆大が7位 初の賞金王に
-https://news.web.nhk/newsweb/na/na-k10014996731000
-
-[2025-12-07 18:54:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7faoey6lr2e)
 
 ---
 
