@@ -1,9 +1,9 @@
-# [2025-12-08 03:50 updated](2025_12_08.md)
+# [2025-12-08 04:10 updated](2025_12_08.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Hong Kong's legislative election on Sunday drew the second-lowest turnout rate on record, with voters choosing candidates under Beijing's "patriots only" rules in the aftermath of the city's deadliest fire in decades.  u.afp.com/S7T4 <a href="https://bsky.app/profile/en.afp.com/post/3m7g6ktn46t2c" target="_blank">en.afp.com</a> (2025-12-08 03:48:58)</span><span style="padding-right:50px;">President Trump criticized Rep. Henry Cuellar for filing for re-election as a Democrat after he received a pardon from the president. <a href="https://bsky.app/profile/wsj.com/post/3m7g6ilxwae2p" target="_blank">wsj.com</a> (2025-12-08 03:47:42)</span><span style="padding-right:50px;">Third-placed Dortmund beat Hoffenheim 2-0 to stretch unbeaten run reut.rs/4poWu1P <a href="https://bsky.app/profile/reuters.com/post/3m7g6e4jrfr2i" target="_blank">reuters.com</a> (2025-12-08 03:45:12)</span><span style="padding-right:50px;">Hongkongers sit out first election since deadly fire on.ft.com/3XJbP0S <a href="https://bsky.app/profile/financialtimes.com/post/3m7g66vlfqh2r" target="_blank">financialtimes.com</a> (2025-12-08 03:42:17)</span><span style="padding-right:50px;">The Trump administration said on Friday that it would waive an $11 million fine levied against Southwest Airlines over the company’s 2022 holiday travel meltdown, when the airline canceled nearly 17,000 flights. The penalty had been part of a fine imposed by the Biden administration. <a href="https://bsky.app/profile/nytimes.com/post/3m7g62w4ega2y" target="_blank">nytimes.com</a> (2025-12-08 03:40:03)</span>
+<span style="padding-right:50px;">A blowout loss in the SEC championship game didn’t count against the Crimson Tide, while the Fighting Irish were hurt by a head-to-head loss to the Hurricanes. on.wsj.com/3YdlLzP <a href="https://bsky.app/profile/wsj.com/post/3m7g7dp26mp2p" target="_blank">wsj.com</a> (2025-12-08 04:02:51)</span><span style="padding-right:50px;">Report: Alexandre Pantoja has elbow injury, not shoulder reut.rs/4oYz3eN <a href="https://bsky.app/profile/reuters.com/post/3m7g7axsd6r2i" target="_blank">reuters.com</a> (2025-12-08 04:01:20)</span><span style="padding-right:50px;">Singapore tops the 2025 Global Talent Competitiveness Index, bolstered by its robust education systems, sound governance and innovation-ready workforce. <a href="https://bsky.app/profile/cnbc.com/post/3m7g7acqqjd2y" target="_blank">cnbc.com</a> (2025-12-08 04:00:58)</span><span style="padding-right:50px;">A controversial New York City subway pilot program seeks to crack down on fare evasion by putting a delay on some subway emergency exits. <a href="https://bsky.app/profile/usatoday.com/post/3m7g77pyizu2u" target="_blank">usatoday.com</a> (2025-12-08 04:00:38)</span><span style="padding-right:50px;">Gaza dominates the Doha Forum as experts warn political pressure from nation states undermines international law. <a href="https://bsky.app/profile/aljazeera.com/post/3m7g77iziop2f" target="_blank">aljazeera.com</a> (2025-12-08 04:00:31)</span>
   </div>
 </div>
 
@@ -32,97 +32,96 @@
 
 ## News Headlines
 
-Here are the six important stories with headlines in English:
+Here are the six selected news stories with headlines in English:
 
-1. "Hong Kong's Legislative Election Draws Second-Lowest Turnout Rate"
-2. "Trump Administration Waives $11 Million Fine Against Southwest Airlines"
-3. "College Football Playoff Field Announced: Alabama and Miami Earn At-Large Bids"
-4. "Australian Law Bars Children Under 16 from Having Social Media Accounts"
-5. "FBI Warns iPhone and Android Users: Stop Making These Calls"
-6. "Apple Warns All iPhone Users: Do Not Use Chrome or Google App"
+1. "Alabama and Miami Earn At-Large Bids in College Football Playoff"
+2. "Australia to Bar Children Under 16 from Social Media Starting Wednesday"
+3. "Hong Kong's Legislative Election Draws Second-Lowest Turnout Rate on Record"
+4. "Netflix's $83 Billion Deal to Acquire Warner Bros. Sparks Concerns Over Job Losses"
+5. "FBI Issues Warning of Critical Facebook, LinkedIn, and X Photo Attack"
+6. "Wall Street's 2026 Outlook for Stocks: A Mixed Bag"
 
 ----
 
-@en.afp.com
-
-Hong Kong's legislative election on Sunday drew the second-lowest turnout rate on record, with voters choosing candidates under Beijing's "patriots only" rules in the aftermath of the city's deadliest fire in decades.
-
-u.afp.com/S7T4
-
-[2025-12-08 03:48:58](https://bsky.app/profile/en.afp.com/post/3m7g6ktn46t2c)
-
----
-
 @wsj.com
 
-President Trump criticized Rep. Henry Cuellar for filing for re-election as a Democrat after he received a pardon from the president.
+A blowout loss in the SEC championship game didn’t count against the Crimson Tide, while the Fighting Irish were hurt by a head-to-head loss to the Hurricanes. on.wsj.com/3YdlLzP
 
-[2025-12-08 03:47:42](https://bsky.app/profile/wsj.com/post/3m7g6ilxwae2p)
+[2025-12-08 04:02:51](https://bsky.app/profile/wsj.com/post/3m7g7dp26mp2p)
 
 ---
 
 @reuters.com
 
-Third-placed Dortmund beat Hoffenheim 2-0 to stretch unbeaten run reut.rs/4poWu1P
+Report: Alexandre Pantoja has elbow injury, not shoulder reut.rs/4oYz3eN
 
-[2025-12-08 03:45:12](https://bsky.app/profile/reuters.com/post/3m7g6e4jrfr2i)
-
----
-
-@financialtimes.com
-
-Hongkongers sit out first election since deadly fire on.ft.com/3XJbP0S
-
-[2025-12-08 03:42:17](https://bsky.app/profile/financialtimes.com/post/3m7g66vlfqh2r)
+[2025-12-08 04:01:20](https://bsky.app/profile/reuters.com/post/3m7g7axsd6r2i)
 
 ---
 
-@nytimes.com
+@cnbc.com
 
-The Trump administration said on Friday that it would waive an $11 million fine levied against Southwest Airlines over the company’s 2022 holiday travel meltdown, when the airline canceled nearly 17,000 flights. The penalty had been part of a fine imposed by the Biden administration.
+Singapore tops the 2025 Global Talent Competitiveness Index, bolstered by its robust education systems, sound governance and innovation-ready workforce.
 
-[2025-12-08 03:40:03](https://bsky.app/profile/nytimes.com/post/3m7g62w4ega2y)
-
----
-
-@financialtimes.com
-
-Hollywood is bracing itself for more belt-tightening and job losses if Netflix’s $83bn deal to acquire Warner Bros goes through: on.ft.com/4iESo2Q
-
-[2025-12-08 03:31:02](https://bsky.app/profile/financialtimes.com/post/3m7g5krl6eu2n)
+[2025-12-08 04:00:58](https://bsky.app/profile/cnbc.com/post/3m7g7acqqjd2y)
 
 ---
 
 @usatoday.com
 
-Matthew Lillard has shared he was hurt after director Quentin Tarantino cited him as one of his least favorite actors.
+A controversial New York City subway pilot program seeks to crack down on fare evasion by putting a delay on some subway emergency exits.
 
-[2025-12-08 03:30:23](https://bsky.app/profile/usatoday.com/post/3m7g5jmlk3x2x)
+[2025-12-08 04:00:38](https://bsky.app/profile/usatoday.com/post/3m7g77pyizu2u)
+
+---
+
+@aljazeera.com
+
+Gaza dominates the Doha Forum as experts warn political pressure from nation states undermines international law.
+
+[2025-12-08 04:00:31](https://bsky.app/profile/aljazeera.com/post/3m7g77iziop2f)
+
+---
+
+@apnews.com
+
+Newly released photos of Rosa Parks emphasize lesser-known aspects of her legacy. These images, made public for the first time, show Parks a decade after her involvement in the Montgomery Bus Boycott, 70 years ago this month.
+
+[2025-12-08 04:00:26](https://bsky.app/profile/apnews.com/post/3m7g77ek3xs2j)
+
+---
+
+@washingtonpost.com
+
+The Post identified cases of U.S. citizens being targeted by immigration enforcement agents that are documented in video and witness accounts. Lawyers and community leaders said there are many others involving people too frightened to come forward.
+
+[2025-12-08 04:00:12](https://bsky.app/profile/washingtonpost.com/post/3m7g76wvpcb2e)
 
 ---
 
 @bloomberg.com
 
-The mass firing of immigration judges by the Justice Department isn’t just about immigration — it’s a blueprint for replacing civil servants with political loyalists (via Bloomberg Opinion) 
+A massive Pacific storm called an atmospheric river will sweep off the ocean into the Pacific Northwest starting Monday, bringing heavy rain and a week of floods, swollen rivers and even heavy snow across the region
 
-[2025-12-08 03:30:08](https://bsky.app/profile/bloomberg.com/post/3m7g5j6r7kr2d)
-
----
-
-@cnn.com
-
-Parents will still be able to get the hepatitis B vaccine for their children at no cost even though the CDC's vaccine advisers recommended a major change to the immunization practice.
-https://cnn.it/3Ml3kqo
-
-[2025-12-08 03:30:07](https://bsky.app/profile/cnn.com/post/3m7g5j5aaui2q)
+[2025-12-08 04:00:10](https://bsky.app/profile/bloomberg.com/post/3m7g76upmak2d)
 
 ---
 
 @wsj.com
 
-Roadside concerts and dates at Olive Garden with a cardboard cutout: In these fantasy football leagues, the cost of finishing last is steep.
+Dog-like robots whose heads look like tech billionaires—and whose backsides poop out prints—were the must-see artworks at Art Basel Miami Beach this week.
 
-[2025-12-08 03:29:14](https://bsky.app/profile/wsj.com/post/3m7g5hlfokp2x)
+The artist who created them, Mike Winkelmann—better known as Beeple, spoke with WSJ about his latest lampoon: on.wsj.com/44LWOzb
+
+[2025-12-08 04:00:06](https://bsky.app/profile/wsj.com/post/3m7g76ro4d22i)
+
+---
+
+@nytimes.com
+
+Australia will bar children under 16 from social media starting Wednesday, with a sweeping federal law that is one of the first attempts at a nationwide regulation. Here is what to know.
+
+[2025-12-08 03:55:06](https://bsky.app/profile/nytimes.com/post/3m7g6vsqhsq2x)
 
 ---
 
