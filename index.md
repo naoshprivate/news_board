@@ -1,9 +1,9 @@
-# [2025-12-08 07:30 updated](2025_12_08.md)
+# [2025-12-08 07:50 updated](2025_12_08.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Real Madrid handed shock home loss as Celta Vigo spring surprise reut.rs/4rJfZnc <a href="https://bsky.app/profile/reuters.com/post/3m7gknebjev27" target="_blank">reuters.com</a> (2025-12-08 07:25:07)</span><span style="padding-right:50px;">This creamy, cozy chicken stew is fast enough for a weeknight meal yet satisfying enough for a long Sunday dinner. <a href="https://bsky.app/profile/nytimes.com/post/3m7gkg65dvy2y" target="_blank">nytimes.com</a> (2025-12-08 07:21:06)</span><span style="padding-right:50px;">香港 立法会の議員選挙 投票率は低い水準 市民の関心高まらず https://news.web.nhk/newsweb/na/na-k10014996871000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7gkg53txk2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-08 07:21:02)</span><span style="padding-right:50px;">Astronomers have long been concerned about reflections from satellites showing up in images taken by telescopes and other scientific instruments. n.pr/3XCQwhB <a href="https://bsky.app/profile/npr.org/post/3m7gkcby34u2f" target="_blank">npr.org</a> (2025-12-08 07:18:55)</span><span style="padding-right:50px;">10万円クラスの炊飯器の個性、食べ比べてみた www.nikkei.com/article/DGXZQO...  高級炊飯器の進化が止まらないものの、味は実際どう異なるのでしょうか。  9000円の炊飯器を使っている記者が、象印・タイガー・パナソニックの高級炊飯器で実際に炊いて試食してみました。 <a href="https://bsky.app/profile/nikkei.com/post/3m7gk4wwlxt2g" target="_blank">nikkei.com</a> (2025-12-08 07:15:56)</span>
+<span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:埼玉県北部, 深さ:60km マグニチュード:3.1, 最大震度:1 📍https://www.google.com/maps?q=36.1,139.7&ll=36.1,139.7&z=7&t=h 地震発生日時:2025-12-08 07:45頃 (10倍速▶120s→12s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m7glxfr33t2e" target="_blank">sokuho.news</a> (2025-12-08 07:48:38)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  7時45分頃、群馬県・埼玉県で最大震度1の地震を観測しました。 震源:埼玉県北部, 深さ:60km, 規模:M3.1 この地震による津波の心配はありません。 (2025-12-08 07:48:11) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/08/2025-12-08-07-45-10.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3m7glwnn4j72l" target="_blank">sokuho.news</a> (2025-12-08 07:48:13)</span><span style="padding-right:50px;">ノーベル化学賞選考委員「無限とも言える応用の可能性」 https://news.web.nhk/newsweb/na/na-k10014996991000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7glwfb3g62r" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-08 07:48:02)</span><span style="padding-right:50px;">三井物産、5年ぶり新規LNGをオーストラリアで生産　世界権益1割増 www.nikkei.com/article/DGXZQO...  オーストラリア西部のガス田由来のLNGで、権益ベースで年70万トン程度の生産を見込みます。  輸送しやすいオーストラリアでの生産を増やし、国内への安定調達につなげます。 <a href="https://bsky.app/profile/nikkei.com/post/3m7glsl3w7y2m" target="_blank">nikkei.com</a> (2025-12-08 07:45:56)</span><span style="padding-right:50px;">Australia's Anson inks lithium supply MoU with US's Nusano for nuclear use reut.rs/4iIFFwd <a href="https://bsky.app/profile/reuters.com/post/3m7glr6m76k2a" target="_blank">reuters.com</a> (2025-12-08 07:45:09)</span>
   </div>
 </div>
 
@@ -32,102 +32,123 @@
 
 ## News Headlines
 
-Here are six important stories with English headlines:
+Here are six important stories with headlines in English:
 
-1. **Real Madrid Suffers Shock Home Loss to Celta Vigo**
-2. **Notre Dame Declines Postseason Invitation, Joins Iowa State and Kansas State**
-3. **Nobel Peace Prize Winner María Corina Machado Faces Dilemma Over Accepting Award**
-4. **U.S. Top Democrats Call for Release of Classified Video of Military Operation in Caribbean**
-5. **Katy Perry and Justin Trudeau's Rumored Romance Spotted on Social Media**
-6. **At Least 25 Killed in Fire at Popular Nightclub in India's Goa State**
+1. **3.1 Magnitude Earthquake Strikes Northern Saitama Prefecture, Japan**
+2. **X Stops Account on EU Platform Amid Sanctions Dispute**
+3. **Nobel Peace Prize Winner to Decide Whether to Attend Ceremony Amid Political Turmoil**
+4. **Real Madrid Suffers Shock Home Loss to Celta Vigo**
+5. **IKEA Opens First Store in New Zealand, Sparking Debate Over Globalization**
+6. **Notre Dame Declines Bowl Game Invitation, Joins Iowa State and Kansas State**
 
 ----
 
-@reuters.com
+@sokuho.news
 
-Real Madrid handed shock home loss as Celta Vigo spring surprise reut.rs/4rJfZnc
+🔔防災科研より【強震モニタ】動画です。
 
-[2025-12-08 07:25:07](https://bsky.app/profile/reuters.com/post/3m7gknebjev27)
+震源:埼玉県北部, 深さ:60km
+マグニチュード:3.1, 最大震度:1
+📍https://www.google.com/maps?q=36.1,139.7&ll=36.1,139.7&z=7&t=h
+地震発生日時:2025-12-08 07:45頃
+(10倍速▶120s→12s) #地震
+
+[2025-12-08 07:48:38](https://bsky.app/profile/sokuho.news/post/3m7glxfr33t2e)
 
 ---
 
-@nytimes.com
+@sokuho.news
 
-This creamy, cozy chicken stew is fast enough for a weeknight meal yet satisfying enough for a long Sunday dinner.
+🔔気象庁より【地震速報】です。
 
-[2025-12-08 07:21:06](https://bsky.app/profile/nytimes.com/post/3m7gkg65dvy2y)
+7時45分頃、群馬県・埼玉県で最大震度1の地震を観測しました。
+震源:埼玉県北部, 深さ:60km, 規模:M3.1
+この地震による津波の心配はありません。
+(2025-12-08 07:48:11) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/08/2025-12-08-07-45-10.html?xlarge_image=1
+
+[2025-12-08 07:48:13](https://bsky.app/profile/sokuho.news/post/3m7glwnn4j72l)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-香港 立法会の議員選挙 投票率は低い水準 市民の関心高まらず
-https://news.web.nhk/newsweb/na/na-k10014996871000
+ノーベル化学賞選考委員「無限とも言える応用の可能性」
+https://news.web.nhk/newsweb/na/na-k10014996991000
 
-[2025-12-08 07:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7gkg53txk2j)
-
----
-
-@npr.org
-
-Astronomers have long been concerned about reflections from satellites showing up in images taken by telescopes and other scientific instruments. n.pr/3XCQwhB
-
-[2025-12-08 07:18:55](https://bsky.app/profile/npr.org/post/3m7gkcby34u2f)
+[2025-12-08 07:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7glwfb3g62r)
 
 ---
 
 @nikkei.com
 
-10万円クラスの炊飯器の個性、食べ比べてみた
+三井物産、5年ぶり新規LNGをオーストラリアで生産　世界権益1割増
 www.nikkei.com/article/DGXZQO...
 
-高級炊飯器の進化が止まらないものの、味は実際どう異なるのでしょうか。
+オーストラリア西部のガス田由来のLNGで、権益ベースで年70万トン程度の生産を見込みます。
 
-9000円の炊飯器を使っている記者が、象印・タイガー・パナソニックの高級炊飯器で実際に炊いて試食してみました。
+輸送しやすいオーストラリアでの生産を増やし、国内への安定調達につなげます。
 
-[2025-12-08 07:15:56](https://bsky.app/profile/nikkei.com/post/3m7gk4wwlxt2g)
-
----
-
-@bloomberg.com
-
-IKEA has finally landed in New Zealand, sparking flat-pack fever, soul-searching about national identity and a debate over global sameness. Read more: bloom.bg/49Tr7aF
-
-📷️: Phil Walter/Getty Images
-
-[2025-12-08 07:15:06](https://bsky.app/profile/bloomberg.com/post/3m7gk3hknuo2d)
-
----
-
-@wsj.com
-
-This year’s Nobel Peace Prize winner, Venezuelan opposition leader María Corina Machado, must decide whether to go to the Oslo ceremony. She may not be allowed to come home.
-
-[2025-12-08 07:14:27](https://bsky.app/profile/wsj.com/post/3m7gk2c62cu24)
+[2025-12-08 07:45:56](https://bsky.app/profile/nikkei.com/post/3m7glsl3w7y2m)
 
 ---
 
 @reuters.com
 
-Exclusive: Activist Barington launches new proxy fight at Matthews, sources say reut.rs/3Kg9kQI
+Australia's Anson inks lithium supply MoU with US's Nusano for nuclear use reut.rs/4iIFFwd
 
-[2025-12-08 07:10:13](https://bsky.app/profile/reuters.com/post/3m7gjspvtqe2k)
-
----
-
-@nytimes.com
-
-Top Democrats called on Sunday for the release of classified video of the U.S. military’s first operation targeting a boat in the Caribbean in early September, an attack that has faced heavy scrutiny in part for its follow-up strike that killed two survivors.
-
-[2025-12-08 07:10:02](https://bsky.app/profile/nytimes.com/post/3m7gjsfci5x2m)
+[2025-12-08 07:45:09](https://bsky.app/profile/reuters.com/post/3m7glr6m76k2a)
 
 ---
 
-@nbcnews.com
+@nhknewsunofficial.bsky.social
 
-After being snubbed by the College Football Playoff, Notre Dame has pulled itself out of the postseason entirely. The Fighting Irish's athletic director called the playoff rankings earlier this season a "farce."
+シリア暫定政府閣僚 再建に向け日本との関係強化に期待示す
+https://news.web.nhk/newsweb/na/na-k10014997051000
 
-[2025-12-08 07:05:29](https://bsky.app/profile/nbcnews.com/post/3m7gjkal5xn2h)
+[2025-12-08 07:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7glr2ozff2j)
+
+---
+
+@reuters.com
+
+National Storage REIT agrees to $2.65 billion buyout by Brookfield–GIC consortium reut.rs/4a7VdaF
+
+[2025-12-08 07:40:09](https://bsky.app/profile/reuters.com/post/3m7glib2yim2o)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+ベナンでクーデター未遂か 西アフリカで政情不安が深刻化
+https://news.web.nhk/newsweb/na/na-k10014997001000
+
+[2025-12-08 07:36:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7glaycaok24)
+
+---
+
+@reuters.com
+
+Notre Dame, Iowa State, Kansas State decline bowl bids reut.rs/4poTiTC
+
+[2025-12-08 07:35:08](https://bsky.app/profile/reuters.com/post/3m7gl7bfzvk2i)
+
+---
+
+@nikkei.com
+
+X、EUのアカウントを停止　制裁金に反発か
+www.nikkei.com/article/DGXZQO...
+
+XはEUの執行機関である欧州委員会のアカウントを停止したと発表しました。
+
+投稿の閲覧数を伸ばすため、不適切な行為があったとしています。
+
+欧州委は5日、違法コンテンツへの対応を義務付けるデジタルサービス法に基づき、約220億円の制裁金をXに科すと発表したばかりでした。
+
+#ニュース
+
+[2025-12-08 07:32:37](https://bsky.app/profile/nikkei.com/post/3m7gl2rnbrz22)
 
 ---
 
