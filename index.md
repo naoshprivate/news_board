@@ -1,9 +1,9 @@
-# [2025-12-08 00:10 updated](2025_12_08.md)
+# [2025-12-08 00:30 updated](2025_12_08.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Companies prepare — as best they can — for possible tariff refunds <a href="https://bsky.app/profile/yahoofinance.com/post/3m7fs4drcsh2m" target="_blank">yahoofinance.com</a> (2025-12-08 00:06:06)</span><span style="padding-right:50px;">Israel's Netanyahu to discuss second phase of Gaza plan with Trump later this month reut.rs/3XCmHOb <a href="https://bsky.app/profile/reuters.com/post/3m7fs2lvrfd22" target="_blank">reuters.com</a> (2025-12-08 00:05:08)</span><span style="padding-right:50px;">High jewelry and wigs are more than accessories, they’re tools that can craft entire personas. on.wsj.com/4pTb69i <a href="https://bsky.app/profile/wsj.com/post/3m7frzjaujo2i" target="_blank">wsj.com</a> (2025-12-08 00:04:31)</span><span style="padding-right:50px;">The Supreme Court could continue its trend of striking down campaign finance rules as improper restrictions on speech. How far will they go? <a href="https://bsky.app/profile/usatoday.com/post/3m7frtfdxon2t" target="_blank">usatoday.com</a> (2025-12-08 00:01:06)</span><span style="padding-right:50px;">Three elderly Austrian nuns who recently managed to return to their convent outside Salzburg after being evicted against their will said they would not be "shut up" after Reichersberg Abbey asked them not to post on Instagram. <a href="https://bsky.app/profile/nbcnews.com/post/3m7frszrhf52j" target="_blank">nbcnews.com</a> (2025-12-08 00:00:54)</span>
+<span style="padding-right:50px;">A small community of Afghan immigrants have made Bellingham, Wash., their home. After one of their own allegedly shot two National Guard soldiers, the community grapples with fear and sorrow. n.pr/3Kfwrec <a href="https://bsky.app/profile/npr.org/post/3m7ft5td7gf2g" target="_blank">npr.org</a> (2025-12-08 00:24:50)</span><span style="padding-right:50px;">Billy Bob Thornton on his "Landman" soliloquies, the viral wind-turbine speech and why his character’s jeans are so baggy. <a href="https://bsky.app/profile/wsj.com/post/3m7fsvpl7262i" target="_blank">wsj.com</a> (2025-12-08 00:20:17)</span><span style="padding-right:50px;">New US Security Strategy aligns with Russia's vision, Moscow says <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7fsg3kvgg2q" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-08 00:11:32)</span><span style="padding-right:50px;">Canada's Air Transat to suspend flights following strike notice from pilots union reut.rs/4oFFEdJ <a href="https://bsky.app/profile/reuters.com/post/3m7fsdkxfb72y" target="_blank">reuters.com</a> (2025-12-08 00:10:09)</span><span style="padding-right:50px;">On Sunday, Lando Norris became a Formula 1 world champion for the first time.   This is how a dramatic last weekend of the 2025 season panned out. <a href="https://bsky.app/profile/theathletic-f1.bsky.social/post/3m7fs4imdqs24" target="_blank">theathletic-f1.bsky.social</a> (2025-12-08 00:06:11)</span>
   </div>
 </div>
 
@@ -32,16 +32,58 @@
 
 ## News Headlines
 
-Here are the six important stories with headlines in English:
+Here are the six selected headlines in English:
 
-1. "Companies Prepare for Possible Tariff Refunds"
-2. "Netanyahu to Discuss Gaza Plan with Trump"
-3. "Supreme Court to Rule on Campaign Finance Restrictions"
-4. "Elderly Nuns Defy Orders to Stay Off Instagram"
-5. "Trump's DEI Ban to Affect Male College Applicants"
-6. "Syria's New Leadership Faces Justice Delay or Denial"
+1. "Afghan Immigrants in US Grapple with Fear and Sorrow After Attack"
+2. "New US Security Strategy Aligned with Russia's Vision, Moscow Says"
+3. "Formula 1 World Champion Lando Norris Answers Critics with Title Win"
+4. "High Jewelry and Wigs: More Than Just Accessories, They're Tools for Crafting Personas"
+5. "Supreme Court May Strike Down Campaign Finance Rules, Experts Say"
+6. "Guyana Launches Online School to Boost Education in Amazonian Regions"
 
 ----
+
+@npr.org
+
+A small community of Afghan immigrants have made Bellingham, Wash., their home. After one of their own allegedly shot two National Guard soldiers, the community grapples with fear and sorrow. n.pr/3Kfwrec
+
+[2025-12-08 00:24:50](https://bsky.app/profile/npr.org/post/3m7ft5td7gf2g)
+
+---
+
+@wsj.com
+
+Billy Bob Thornton on his "Landman" soliloquies, the viral wind-turbine speech and why his character’s jeans are so baggy.
+
+[2025-12-08 00:20:17](https://bsky.app/profile/wsj.com/post/3m7fsvpl7262i)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+New US Security Strategy aligns with Russia's vision, Moscow says
+
+[2025-12-08 00:11:32](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7fsg3kvgg2q)
+
+---
+
+@reuters.com
+
+Canada's Air Transat to suspend flights following strike notice from pilots union reut.rs/4oFFEdJ
+
+[2025-12-08 00:10:09](https://bsky.app/profile/reuters.com/post/3m7fsdkxfb72y)
+
+---
+
+@theathletic-f1.bsky.social
+
+On Sunday, Lando Norris became a Formula 1 world champion for the first time. 
+
+This is how a dramatic last weekend of the 2025 season panned out.
+
+[2025-12-08 00:06:11](https://bsky.app/profile/theathletic-f1.bsky.social/post/3m7fs4imdqs24)
+
+---
 
 @yahoofinance.com
 
@@ -80,48 +122,6 @@ The Supreme Court could continue its trend of striking down campaign finance rul
 Three elderly Austrian nuns who recently managed to return to their convent outside Salzburg after being evicted against their will said they would not be "shut up" after Reichersberg Abbey asked them not to post on Instagram.
 
 [2025-12-08 00:00:54](https://bsky.app/profile/nbcnews.com/post/3m7frszrhf52j)
-
----
-
-@reuters.com
-
-Norris answers his critics with first F1 title reut.rs/4iItUFP
-
-[2025-12-08 00:00:51](https://bsky.app/profile/reuters.com/post/3m7frsxbfa426)
-
----
-
-@bloomberg.com
-
-🧩 Alphadots, Bloomberg’s daily word game with a plot twist, is live. Test your skills with a new puzzle every day. Play now: 
-
-[2025-12-08 00:00:35](https://bsky.app/profile/bloomberg.com/post/3m7frshqbp62g)
-
----
-
-@cnn.com
-
-When President Donald Trump has been asked about the reason he’s pressuring Venezuelan President Nicolás Maduro to step down and threatening military action against the country, he consistently blames the South American leader for two things: drugs and migrants.
-
-[2025-12-08 00:00:25](https://bsky.app/profile/cnn.com/post/3m7frs6h6fh2j)
-
----
-
-@washingtonpost.com
-
-Admissions and higher-education experts say President Trump’s ban on DEI is likely to hit an underrepresented group of applicants: men, and particularly White men.
-
-Nationwide, the number of women on campuses has surpassed the number of men for more than four decades. https://wapo.st/3MdZKyn
-
-[2025-12-08 00:00:24](https://bsky.app/profile/washingtonpost.com/post/3m7frs4x3vu2x)
-
----
-
-@aljazeera.com
-
-A year after al-Assad fell, Syria’s new leadership faces the danger of Syrians frustrated by justice delayed or denied.
-
-[2025-12-08 00:00:15](https://bsky.app/profile/aljazeera.com/post/3m7frrv44ax2v)
 
 ---
 
