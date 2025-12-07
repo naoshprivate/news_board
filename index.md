@@ -1,9 +1,9 @@
-# [2025-12-08 03:30 updated](2025_12_08.md)
+# [2025-12-08 03:50 updated](2025_12_08.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Roadside concerts and dates at Olive Garden with a cardboard cutout: In these fantasy football leagues, the cost of finishing last is steep. <a href="https://bsky.app/profile/wsj.com/post/3m7g5hlfokp2x" target="_blank">wsj.com</a> (2025-12-08 03:29:14)</span><span style="padding-right:50px;">A federal judge on Saturday night threw up a roadblock to the Justice Department’s plans to seek another indictment against James Comey, the former FBI director, as early as next week. <a href="https://bsky.app/profile/nytimes.com/post/3m7g5a4qkaz22" target="_blank">nytimes.com</a> (2025-12-08 03:25:04)</span><span style="padding-right:50px;">An Australian law that bars children under 16 from having social media accounts takes effect on Wednesday. The teenagers whose lives it will change are skeptical. “They’re ripping away something that has grown on us and become more part of our lives every day.” <a href="https://bsky.app/profile/nytimes.com/post/3m7g57zl4fw2p" target="_blank">nytimes.com</a> (2025-12-08 03:25:01)</span><span style="padding-right:50px;">The 12-team College Football Playoff field has been announced, with Alabama and Miami among those earning at-large bids, while Notre Dame is left out. https://cnn.it/44VOblF <a href="https://bsky.app/profile/cnn.com/post/3m7g4zcqak52r" target="_blank">cnn.com</a> (2025-12-08 03:21:16)</span><span style="padding-right:50px;">FBI Issues Critical Facebook, LinkedIn And X Photo Attack Warning <a href="https://bsky.app/profile/forbes.com/post/3m7g4xj4y3223" target="_blank">forbes.com</a> (2025-12-08 03:20:15)</span>
+<span style="padding-right:50px;">Hong Kong's legislative election on Sunday drew the second-lowest turnout rate on record, with voters choosing candidates under Beijing's "patriots only" rules in the aftermath of the city's deadliest fire in decades.  u.afp.com/S7T4 <a href="https://bsky.app/profile/en.afp.com/post/3m7g6ktn46t2c" target="_blank">en.afp.com</a> (2025-12-08 03:48:58)</span><span style="padding-right:50px;">President Trump criticized Rep. Henry Cuellar for filing for re-election as a Democrat after he received a pardon from the president. <a href="https://bsky.app/profile/wsj.com/post/3m7g6ilxwae2p" target="_blank">wsj.com</a> (2025-12-08 03:47:42)</span><span style="padding-right:50px;">Third-placed Dortmund beat Hoffenheim 2-0 to stretch unbeaten run reut.rs/4poWu1P <a href="https://bsky.app/profile/reuters.com/post/3m7g6e4jrfr2i" target="_blank">reuters.com</a> (2025-12-08 03:45:12)</span><span style="padding-right:50px;">Hongkongers sit out first election since deadly fire on.ft.com/3XJbP0S <a href="https://bsky.app/profile/financialtimes.com/post/3m7g66vlfqh2r" target="_blank">financialtimes.com</a> (2025-12-08 03:42:17)</span><span style="padding-right:50px;">The Trump administration said on Friday that it would waive an $11 million fine levied against Southwest Airlines over the company’s 2022 holiday travel meltdown, when the airline canceled nearly 17,000 flights. The penalty had been part of a fine imposed by the Biden administration. <a href="https://bsky.app/profile/nytimes.com/post/3m7g62w4ega2y" target="_blank">nytimes.com</a> (2025-12-08 03:40:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.18 (🔺0.03 : 2025-12-07)</span>
+<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.26 (🔺0.11 : 2025-12-07)</span>
   </div>
 </div>
 
@@ -32,97 +32,97 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are the six important stories with headlines in English:
 
-1. "FBI Issues Critical Facebook, LinkedIn And X Photo Attack Warning"
-2. "Indiana Takes No. 1 Spot in AP Top 25 for First Time in History"
-3. "Nobel Week Underway in Stockholm and Oslo"
-4. "College Football Playoff Field Announced, With Alabama and Miami Among Those Earning At-Large Bids"
-5. "FBI Warns iPhone And Android Users—Stop Making These Calls"
-6. "Stocks Are Back Near Records, Recovering from Slump Spurred by Doubts About the AI Boom"
+1. "Hong Kong's Legislative Election Draws Second-Lowest Turnout Rate"
+2. "Trump Administration Waives $11 Million Fine Against Southwest Airlines"
+3. "College Football Playoff Field Announced: Alabama and Miami Earn At-Large Bids"
+4. "Australian Law Bars Children Under 16 from Having Social Media Accounts"
+5. "FBI Warns iPhone and Android Users: Stop Making These Calls"
+6. "Apple Warns All iPhone Users: Do Not Use Chrome or Google App"
 
 ----
+
+@en.afp.com
+
+Hong Kong's legislative election on Sunday drew the second-lowest turnout rate on record, with voters choosing candidates under Beijing's "patriots only" rules in the aftermath of the city's deadliest fire in decades.
+
+u.afp.com/S7T4
+
+[2025-12-08 03:48:58](https://bsky.app/profile/en.afp.com/post/3m7g6ktn46t2c)
+
+---
+
+@wsj.com
+
+President Trump criticized Rep. Henry Cuellar for filing for re-election as a Democrat after he received a pardon from the president.
+
+[2025-12-08 03:47:42](https://bsky.app/profile/wsj.com/post/3m7g6ilxwae2p)
+
+---
+
+@reuters.com
+
+Third-placed Dortmund beat Hoffenheim 2-0 to stretch unbeaten run reut.rs/4poWu1P
+
+[2025-12-08 03:45:12](https://bsky.app/profile/reuters.com/post/3m7g6e4jrfr2i)
+
+---
+
+@financialtimes.com
+
+Hongkongers sit out first election since deadly fire on.ft.com/3XJbP0S
+
+[2025-12-08 03:42:17](https://bsky.app/profile/financialtimes.com/post/3m7g66vlfqh2r)
+
+---
+
+@nytimes.com
+
+The Trump administration said on Friday that it would waive an $11 million fine levied against Southwest Airlines over the company’s 2022 holiday travel meltdown, when the airline canceled nearly 17,000 flights. The penalty had been part of a fine imposed by the Biden administration.
+
+[2025-12-08 03:40:03](https://bsky.app/profile/nytimes.com/post/3m7g62w4ega2y)
+
+---
+
+@financialtimes.com
+
+Hollywood is bracing itself for more belt-tightening and job losses if Netflix’s $83bn deal to acquire Warner Bros goes through: on.ft.com/4iESo2Q
+
+[2025-12-08 03:31:02](https://bsky.app/profile/financialtimes.com/post/3m7g5krl6eu2n)
+
+---
+
+@usatoday.com
+
+Matthew Lillard has shared he was hurt after director Quentin Tarantino cited him as one of his least favorite actors.
+
+[2025-12-08 03:30:23](https://bsky.app/profile/usatoday.com/post/3m7g5jmlk3x2x)
+
+---
+
+@bloomberg.com
+
+The mass firing of immigration judges by the Justice Department isn’t just about immigration — it’s a blueprint for replacing civil servants with political loyalists (via Bloomberg Opinion) 
+
+[2025-12-08 03:30:08](https://bsky.app/profile/bloomberg.com/post/3m7g5j6r7kr2d)
+
+---
+
+@cnn.com
+
+Parents will still be able to get the hepatitis B vaccine for their children at no cost even though the CDC's vaccine advisers recommended a major change to the immunization practice.
+https://cnn.it/3Ml3kqo
+
+[2025-12-08 03:30:07](https://bsky.app/profile/cnn.com/post/3m7g5j5aaui2q)
+
+---
 
 @wsj.com
 
 Roadside concerts and dates at Olive Garden with a cardboard cutout: In these fantasy football leagues, the cost of finishing last is steep.
 
 [2025-12-08 03:29:14](https://bsky.app/profile/wsj.com/post/3m7g5hlfokp2x)
-
----
-
-@nytimes.com
-
-A federal judge on Saturday night threw up a roadblock to the Justice Department’s plans to seek another indictment against James Comey, the former FBI director, as early as next week.
-
-[2025-12-08 03:25:04](https://bsky.app/profile/nytimes.com/post/3m7g5a4qkaz22)
-
----
-
-@nytimes.com
-
-An Australian law that bars children under 16 from having social media accounts takes effect on Wednesday. The teenagers whose lives it will change are skeptical. “They’re ripping away something that has grown on us and become more part of our lives every day.”
-
-[2025-12-08 03:25:01](https://bsky.app/profile/nytimes.com/post/3m7g57zl4fw2p)
-
----
-
-@cnn.com
-
-The 12-team College Football Playoff field has been announced, with Alabama and Miami among those earning at-large bids, while Notre Dame is left out.
-https://cnn.it/44VOblF
-
-[2025-12-08 03:21:16](https://bsky.app/profile/cnn.com/post/3m7g4zcqak52r)
-
----
-
-@forbes.com
-
-FBI Issues Critical Facebook, LinkedIn And X Photo Attack Warning
-
-[2025-12-08 03:20:15](https://bsky.app/profile/forbes.com/post/3m7g4xj4y3223)
-
----
-
-@npr.org
-
-Nobody paying attention for the past 24 months would be surprised to see Indiana – yes, Indiana – leading the way into this year's College Football Playoff. n.pr/4oEeTGs
-
-[2025-12-08 03:19:47](https://bsky.app/profile/npr.org/post/3m7g4wodspj23)
-
----
-
-@forbes.com
-
-Is Your Boss Using New Microsoft And Google Updates To Spy On You?
-
-[2025-12-08 03:18:00](https://bsky.app/profile/forbes.com/post/3m7g4tiftl223)
-
----
-
-@washingtonpost.com
-
-The Washington Commanders (3-9) have lost seven straight games but have a real shot to end their skid against the Minnesota Vikings (4-8), who also have endured a rough season.
-
-Follow live updates from the game here:
-
-[2025-12-08 03:15:03](https://bsky.app/profile/washingtonpost.com/post/3m7g4o75ovx2a)
-
----
-
-@wsj.com
-
-A sweeping fraud scandal has put the spotlight on places like Willmar, Minn., where Somalis run businesses and work at the Jennie-O turkey plant.
-
-[2025-12-08 03:12:50](https://bsky.app/profile/wsj.com/post/3m7g4kb6amf2j)
-
----
-
-@forbes.com
-
-The first film in the franchise opened with $80 million, breaking Halloween weekend records at the box office.
-
-[2025-12-08 03:10:11](https://bsky.app/profile/forbes.com/post/3m7g4fj4qt226)
 
 ---
 
