@@ -1,9 +1,9 @@
-# [2025-12-08 04:50 updated](2025_12_08.md)
+# [2025-12-08 05:10 updated](2025_12_08.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">スキー モーグルW杯開幕戦 堀島行真が優勝 好スタート切る https://news.web.nhk/newsweb/na/na-k10014997031000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7gbuk6v6s2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-08 04:48:02)</span><span style="padding-right:50px;">News Analysis: A decades-long conservative project is coming to a head at the Supreme Court as President Trump pushes to oust leaders of independent agencies. <a href="https://bsky.app/profile/nytimes.com/post/3m7gbr2c35x2y" target="_blank">nytimes.com</a> (2025-12-08 04:46:07)</span><span style="padding-right:50px;">I did it my way, says emotional champion Norris reut.rs/48VhbfH <a href="https://bsky.app/profile/reuters.com/post/3m7gbpe2x4q27" target="_blank">reuters.com</a> (2025-12-08 04:45:10)</span><span style="padding-right:50px;">In a speech on Saturday, Defense Secretary Pete Hegseth defended the strikes, saying: "President Trump can and will take decisive military action as he sees fit to defend our nation's interests." n.pr/48opqRr <a href="https://bsky.app/profile/npr.org/post/3m7gbih4vcy2e" target="_blank">npr.org</a> (2025-12-08 04:41:19)</span><span style="padding-right:50px;">Rams' Sean McVay to coach Sunday despite illness reut.rs/3MoEVAf <a href="https://bsky.app/profile/reuters.com/post/3m7gbggb5le2k" target="_blank">reuters.com</a> (2025-12-08 04:40:10)</span>
+<span style="padding-right:50px;">Alexandre Pantoja suffered a dislocated shoulder just as he began his fifth defense of the UFC flyweight title against Joshua Van. <a href="https://bsky.app/profile/usatoday.com/post/3m7gclgv2k22t" target="_blank">usatoday.com</a> (2025-12-08 05:00:53)</span><span style="padding-right:50px;">A Kremlin spokesperson said that the changes 'correspond in many ways to our vision'. <a href="https://bsky.app/profile/aljazeera.com/post/3m7gcl2tqnp2k" target="_blank">aljazeera.com</a> (2025-12-08 05:00:40)</span><span style="padding-right:50px;">Police in Edmonton, Canada, have started a pilot project using AI-equipped body cameras to detect faces on a "high risk" watch list. <a href="https://bsky.app/profile/apnews.com/post/3m7gcknrfcq2c" target="_blank">apnews.com</a> (2025-12-08 05:00:26)</span><span style="padding-right:50px;">Mutlaq Mutlaq’s family spent nearly a decade searching for him after his arrest in 2015 but found nothing. Finally, a photograph appeared.  A newly revealed trove of photos depicts 10,000 people who had died in Bashar al-Assad’s brutal prison system. <a href="https://bsky.app/profile/washingtonpost.com/post/3m7gckayghj2s" target="_blank">washingtonpost.com</a> (2025-12-08 05:00:13)</span><span style="padding-right:50px;">Lawmakers fear the US Department of Justice could seek to withhold sections of documents as the deadline approaches for their release: on.ft.com/4rPCQO7 <a href="https://bsky.app/profile/financialtimes.com/post/3m7gck4gj6r27" target="_blank">financialtimes.com</a> (2025-12-08 05:00:08)</span>
   </div>
 </div>
 
@@ -32,16 +32,74 @@
 
 ## News Headlines
 
-Here are six important stories from the news with English headlines:
+Here are six important stories with headlines in English:
 
-1. "Trump's Border Crisis: Biden Administration Rejected Recommendations to Ease Crisis"
-2. "Rosa Parks' New Photos Revealed: Iconic Civil Rights Figure in Her 60s"
-3. "Singapore Tops Global Talent Competitiveness Index, Bolstered by Education and Governance"
-4. "Australia to Ban Children Under 16 from Social Media Starting Wednesday"
-5. "Hong Kong's Legislative Election Sees Record Low Turnout as Beijing Imposes 'Patriots Only' Rule"
-6. "President Trump's Controversial Border Wall: A Blueprint for Replacing Civil Servants with Political Loyalists"
+1. "UFC Flyweight Champion Alexandre Pantoja Suffers Shoulder Injury in Title Defense"
+2. "Kremlin Spokesperson Defends Changes in Russian Government"
+3. "Canadian Police Pilot Project Uses AI-Enabled Body Cameras to Detect Faces on Watch List"
+4. "New Photos Depict 10,000 People Who Died in Syrian Prison System"
+5. "US Department of Justice May Withhold Documents as Deadline Approaches"
+6. "California School District Offers Company Housing to Middle-Income Families"
 
 ----
+
+@usatoday.com
+
+Alexandre Pantoja suffered a dislocated shoulder just as he began his fifth defense of the UFC flyweight title against Joshua Van.
+
+[2025-12-08 05:00:53](https://bsky.app/profile/usatoday.com/post/3m7gclgv2k22t)
+
+---
+
+@aljazeera.com
+
+A Kremlin spokesperson said that the changes 'correspond in many ways to our vision'.
+
+[2025-12-08 05:00:40](https://bsky.app/profile/aljazeera.com/post/3m7gcl2tqnp2k)
+
+---
+
+@apnews.com
+
+Police in Edmonton, Canada, have started a pilot project using AI-equipped body cameras to detect faces on a "high risk" watch list.
+
+[2025-12-08 05:00:26](https://bsky.app/profile/apnews.com/post/3m7gcknrfcq2c)
+
+---
+
+@washingtonpost.com
+
+Mutlaq Mutlaq’s family spent nearly a decade searching for him after his arrest in 2015 but found nothing. Finally, a photograph appeared.
+
+A newly revealed trove of photos depicts 10,000 people who had died in Bashar al-Assad’s brutal prison system.
+
+[2025-12-08 05:00:13](https://bsky.app/profile/washingtonpost.com/post/3m7gckayghj2s)
+
+---
+
+@financialtimes.com
+
+Lawmakers fear the US Department of Justice could seek to withhold sections of documents as the deadline approaches for their release: on.ft.com/4rPCQO7
+
+[2025-12-08 05:00:08](https://bsky.app/profile/financialtimes.com/post/3m7gck4gj6r27)
+
+---
+
+@nytimes.com
+
+Anger over illegal migration helped return Donald Trump to the presidency. A New York Times review of former President Joe Biden’s actions on immigration found that Biden and his advisers repeatedly rebuffed recommendations to stem that migration. Here are key takeaways.
+
+[2025-12-08 04:55:02](https://bsky.app/profile/nytimes.com/post/3m7gcayqwgp26)
+
+---
+
+@wsj.com
+
+A California school district is part of a growing push by school systems nationwide to offer company housing as many middle-income Americans are priced out of towns they serve.
+
+[2025-12-08 04:54:36](https://bsky.app/profile/wsj.com/post/3m7gca7ixgs2w)
+
+---
 
 @nhknewsunofficial.bsky.social
 
@@ -65,62 +123,6 @@ News Analysis: A decades-long conservative project is coming to a head at the Su
 I did it my way, says emotional champion Norris reut.rs/48VhbfH
 
 [2025-12-08 04:45:10](https://bsky.app/profile/reuters.com/post/3m7gbpe2x4q27)
-
----
-
-@npr.org
-
-In a speech on Saturday, Defense Secretary Pete Hegseth defended the strikes, saying: "President Trump can and will take decisive military action as he sees fit to defend our nation's interests." n.pr/48opqRr
-
-[2025-12-08 04:41:19](https://bsky.app/profile/npr.org/post/3m7gbih4vcy2e)
-
----
-
-@reuters.com
-
-Rams' Sean McVay to coach Sunday despite illness reut.rs/3MoEVAf
-
-[2025-12-08 04:40:10](https://bsky.app/profile/reuters.com/post/3m7gbggb5le2k)
-
----
-
-@nytimes.com
-
-Smugglers, money launderers and people facing sanctions once relied on diamonds, gold and artwork to store illicit fortunes. Now, criminals are turning to stablecoins, a cryptocurrency tied to the U.S. dollar that exists largely beyond traditional financial oversight.
-
-[2025-12-08 04:39:05](https://bsky.app/profile/nytimes.com/post/3m7gbehw2lk2y)
-
----
-
-@wsj.com
-
-The draw for next summer’s tournament went about as well as U.S. Soccer could hope, with no powerhouse from Europe or South America on deck in the opening round.
-
-[2025-12-08 04:36:45](https://bsky.app/profile/wsj.com/post/3m7gback6ls2w)
-
----
-
-@nytimes.com
-
-The Biden administration repeatedly rejected recommendations that could have eased the border crisis that helped return President Trump to the White House, a New York Times examination found. Former officials in his administration said that Biden and his confidants made two crucial errors.
-
-[2025-12-08 04:35:02](https://bsky.app/profile/nytimes.com/post/3m7gb5a5ura24)
-
----
-
-@en.afp.com
-
-The traditional runway at Dakar fashion week is replaced by pirogues ferrying models between Senegal's capital and the island of Ngor, just off the coast.
-
-[2025-12-08 04:30:47](https://bsky.app/profile/en.afp.com/post/3m7gavmipuv2d)
-
----
-
-@reuters.com
-
-Magic F Franz Wagner (leg) injured vs. Knicks reut.rs/48JDqEp
-
-[2025-12-08 04:30:33](https://bsky.app/profile/reuters.com/post/3m7gav7cbmc2n)
 
 ---
 
