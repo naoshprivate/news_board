@@ -1,9 +1,9 @@
-# [2025-12-08 01:50 updated](2025_12_08.md)
+# [2025-12-08 02:10 updated](2025_12_08.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Pips is a logic puzzle where players must arrange a set of dominoes to meet the conditions of the board to win. Even though the game is timed, there’s no way to lose. trib.al/7Dr4vR7 <a href="https://bsky.app/profile/nytimes.com/post/3m7fxusn7tc2n" target="_blank">nytimes.com</a> (2025-12-08 01:49:16)</span><span style="padding-right:50px;">Piastri an F1 champion of the future, says Brown reut.rs/44cxJ0f <a href="https://bsky.app/profile/reuters.com/post/3m7fxekqwku2i" target="_blank">reuters.com</a> (2025-12-08 01:40:11)</span><span style="padding-right:50px;">Ejections from the Sun could cause the northern lights to be visible further south this week. <a href="https://bsky.app/profile/forbes.com/post/3m7fxeegv2m2q" target="_blank">forbes.com</a> (2025-12-08 01:40:04)</span><span style="padding-right:50px;">Connections is a daily game about finding common threads between words. Players must select four groups of four words without making more than three mistakes. Play now. trib.al/GfNoxLa <a href="https://bsky.app/profile/nytimes.com/post/3m7fxe56zqc2z" target="_blank">nytimes.com</a> (2025-12-08 01:39:57)</span><span style="padding-right:50px;">Sen. Tom Cotton defends second strike on alleged drug boat, saying on "Meet the Press" that the initial survivors "were not incapacitated." <a href="https://bsky.app/profile/nbcnews.com/post/3m7fxaghfsl2i" target="_blank">nbcnews.com</a> (2025-12-08 01:37:52)</span>
+<span style="padding-right:50px;">'Lowest-probability outcome': Netflix's $72 billion deal for Warner Bros. Discovery stuns Wall Street <a href="https://bsky.app/profile/yahoofinance.com/post/3m7fysw4nkg2c" target="_blank">yahoofinance.com</a> (2025-12-08 02:06:06)</span><span style="padding-right:50px;">There will be a new No. 1 in the US LBM Coaches Poll with a loss by Ohio State. Will it be Indiana? And how will the top 10 of the rankings look? <a href="https://bsky.app/profile/usatoday.com/post/3m7fyjkclgq2h" target="_blank">usatoday.com</a> (2025-12-08 02:00:52)</span><span style="padding-right:50px;">Most people assume all fruit is healthy. Not quite.  Here are nine low-sugar fruits that this heart surgeon considers some of the healthiest choices you can make. <a href="https://bsky.app/profile/cnbc.com/post/3m7fyivkb2723" target="_blank">cnbc.com</a> (2025-12-08 02:00:30)</span><span style="padding-right:50px;">"There is one person who can never face any accountability for the killing of people clinging to an alleged drug boat in the Caribbean in September," writes Zachary B. Wolf | Analysis https://cnn.it/3XF5weM <a href="https://bsky.app/profile/cnn.com/post/3m7fyiukmxf2y" target="_blank">cnn.com</a> (2025-12-08 02:00:29)</span><span style="padding-right:50px;">Home health workers and caregivers fill a critical role in the health care ecosystem as America ages and demand for caregivers soars.   But government funding cuts, a caregiver shortage and immigration limits are layering new strains on the industry. <a href="https://bsky.app/profile/washingtonpost.com/post/3m7fyisjpts23" target="_blank">washingtonpost.com</a> (2025-12-08 02:00:27)</span>
   </div>
 </div>
 
@@ -32,16 +32,85 @@
 
 ## News Headlines
 
-Here are the six important stories with their headlines in English:
+Here are six important stories with headlines in English:
 
-1. "Dominoes Puzzle: A Logic Game to Win"
-2. "Piastri: F1 Champion of the Future"
-3. "Northern Lights Visible Further South Amid Ejections from the Sun"
-4. "College Football Postseason Lineup Revealed"
-5. "UK Abolitionists Outraged by Heinous Insurance Trial"
-6. "Zootopia 2: A Slightly Watered-Down Sequel"
+1. "Netflix's $72 Billion Deal for Warner Bros. Discovery Stuns Wall Street"
+2. "Indiana Set to Take Over as No. 1 in US LBM Coaches Poll After Ohio State Loss"
+3. "Heart Surgeon Reveals 9 Low-Sugar Fruits That Are Healthier Than You Think"
+4. "US Supreme Court Argument to Provide Clues on Fate of Federal Reserve Governor Lisa Cook"
+5. "Zoo Releases Photos of Indonesia's First Locally-Born Giant Panda Cub Showing Signs of Good Health"
+6. "US National Security Strategy Signals Softer Approach to Competition with Beijing, Downplays Ideological Differences"
 
 ----
+
+@yahoofinance.com
+
+'Lowest-probability outcome': Netflix's $72 billion deal for Warner Bros. Discovery stuns Wall Street
+
+[2025-12-08 02:06:06](https://bsky.app/profile/yahoofinance.com/post/3m7fysw4nkg2c)
+
+---
+
+@usatoday.com
+
+There will be a new No. 1 in the US LBM Coaches Poll with a loss by Ohio State. Will it be Indiana? And how will the top 10 of the rankings look?
+
+[2025-12-08 02:00:52](https://bsky.app/profile/usatoday.com/post/3m7fyjkclgq2h)
+
+---
+
+@cnbc.com
+
+Most people assume all fruit is healthy. Not quite.
+
+Here are nine low-sugar fruits that this heart surgeon considers some of the healthiest choices you can make.
+
+[2025-12-08 02:00:30](https://bsky.app/profile/cnbc.com/post/3m7fyivkb2723)
+
+---
+
+@cnn.com
+
+"There is one person who can never face any accountability for the killing of people clinging to an alleged drug boat in the Caribbean in September," writes Zachary B. Wolf | Analysis
+https://cnn.it/3XF5weM
+
+[2025-12-08 02:00:29](https://bsky.app/profile/cnn.com/post/3m7fyiukmxf2y)
+
+---
+
+@washingtonpost.com
+
+Home health workers and caregivers fill a critical role in the health care ecosystem as America ages and demand for caregivers soars. 
+
+But government funding cuts, a caregiver shortage and immigration limits are layering new strains on the industry.
+
+[2025-12-08 02:00:27](https://bsky.app/profile/washingtonpost.com/post/3m7fyisjpts23)
+
+---
+
+@bloomberg.com
+
+A US Supreme Court argument Monday is likely to provide clues about the fate of Federal Reserve Governor Lisa Cook, whom President Donald Trump has tried to fire.
+
+[2025-12-08 02:00:17](https://bsky.app/profile/bloomberg.com/post/3m7fyij4lts2n)
+
+---
+
+@apnews.com
+
+A zoo on Java island released photos of Indonesia’s first locally-born giant panda cub, and said the male cub was showing signs of being in good health.
+
+[2025-12-08 02:00:09](https://bsky.app/profile/apnews.com/post/3m7fyibrl7r2c)
+
+---
+
+@wsj.com
+
+The White House’s new National Security Strategy signals a softer approach to competition with Beijing, playing down ideological differences between the two superpowers.
+
+[2025-12-08 01:50:57](https://bsky.app/profile/wsj.com/post/3m7fxxtdp3e2w)
+
+---
 
 @nytimes.com
 
@@ -56,70 +125,6 @@ Pips is a logic puzzle where players must arrange a set of dominoes to meet the 
 Piastri an F1 champion of the future, says Brown reut.rs/44cxJ0f
 
 [2025-12-08 01:40:11](https://bsky.app/profile/reuters.com/post/3m7fxekqwku2i)
-
----
-
-@forbes.com
-
-Ejections from the Sun could cause the northern lights to be visible further south this week.
-
-[2025-12-08 01:40:04](https://bsky.app/profile/forbes.com/post/3m7fxeegv2m2q)
-
----
-
-@nytimes.com
-
-Connections is a daily game about finding common threads between words. Players must select four groups of four words without making more than three mistakes. Play now. trib.al/GfNoxLa
-
-[2025-12-08 01:39:57](https://bsky.app/profile/nytimes.com/post/3m7fxe56zqc2z)
-
----
-
-@nbcnews.com
-
-Sen. Tom Cotton defends second strike on alleged drug boat, saying on "Meet the Press" that the initial survivors "were not incapacitated."
-
-[2025-12-08 01:37:52](https://bsky.app/profile/nbcnews.com/post/3m7fxaghfsl2i)
-
----
-
-@reuters.com
-
-Celik sees red as Roma lose at Cagliari reut.rs/44cxrXd
-
-[2025-12-08 01:35:09](https://bsky.app/profile/reuters.com/post/3m7fx3ldikh26)
-
----
-
-@nytimes.com
-
-Strands is a word search with a unique twist. Can you uncover the theme? Play here: trib.al/rSDAs9W
-
-[2025-12-08 01:32:47](https://bsky.app/profile/nytimes.com/post/3m7fwxd2oak2n)
-
----
-
-@wsj.com
-
-An insurance trial about a heinous episode at sea outraged British abolitionists. The case led Parliament to prohibit the Atlantic slave trade. on.wsj.com/48lYZvG
-
-[2025-12-08 01:32:12](https://bsky.app/profile/wsj.com/post/3m7fwwcgl7s2p)
-
----
-
-@usatoday.com
-
-The college football regular season is over, and the postseason lineup will be revealed. Here's our bowl projections, including the playoff pairings.
-
-[2025-12-08 01:30:27](https://bsky.app/profile/usatoday.com/post/3m7fwt5yzst26)
-
----
-
-@bloomberg.com
-
-A plan by Switzerland’s right-wing People’s Party to cap the population at 10 million has the backing of almost half the country, according to a poll before an expected vote next year
-
-[2025-12-08 01:30:21](https://bsky.app/profile/bloomberg.com/post/3m7fwsy7yle2y)
 
 ---
 
