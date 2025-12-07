@@ -1,9 +1,9 @@
-# [2025-12-07 18:50 updated](2025_12_07.md)
+# [2025-12-07 19:10 updated](2025_12_07.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Iran awaits second plane of nationals deported from US reut.rs/3Y9QJJc <a href="https://bsky.app/profile/reuters.com/post/3m7fa6hsty22d" target="_blank">reuters.com</a> (2025-12-07 18:45:10)</span><span style="padding-right:50px;">和歌山 太地町 漁船と貨物船が衝突 漁船の2人が軽いけが https://news.web.nhk/newsweb/na/na-k10014996721000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7fa6csnaw2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-07 18:45:02)</span><span style="padding-right:50px;">🚨地震発生中❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像6🈡 (2025-12-07 18:39:51) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m7f7v5e45c24" target="_blank">sokuho.news</a> (2025-12-07 18:39:57)</span><span style="padding-right:50px;">🚨地震発生中❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像4 (2025-12-07 18:39:21) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m7f7ub2rr22g" target="_blank">sokuho.news</a> (2025-12-07 18:39:28)</span><span style="padding-right:50px;">🚨地震発生中❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像3 (2025-12-07 18:39:01) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m7f7tpdrgl2x" target="_blank">sokuho.news</a> (2025-12-07 18:39:09)</span>
+<span style="padding-right:50px;">India has no immediate plans to add coal power capacity beyond 2035, official says reut.rs/4rJj2vI <a href="https://bsky.app/profile/reuters.com/post/3m7fbcaqcwy2n" target="_blank">reuters.com</a> (2025-12-07 19:05:11)</span><span style="padding-right:50px;">Santa brings pain instead of presents in ‘Silent Night, Deadly Night,’ documentaries look at the lives of Stuart Scott and Dick Van Dyke, Eugene O’Neill’s ‘Anna Christie’ gets a New York staging starring Michelle Williams, and more. on.wsj.com/48Vivzc <a href="https://bsky.app/profile/wsj.com/post/3m7fbc5sesr24" target="_blank">wsj.com</a> (2025-12-07 19:05:08)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】郡山市巳六段で建物火災 発生から30分経過も激しく炎上中 (2025-12-07 19:04) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7fbaw3crp2p" target="_blank">sokuho.news</a> (2025-12-07 19:04:26)</span><span style="padding-right:50px;">One person was seriously injured after being stabbed Friday on Charlotte’s LYNX Blue Line, the same route where the fatal stabbing of a Ukrainian refugee took place months earlier.  <a href="https://bsky.app/profile/cnn.com/post/3m7fb6fcp2k2r" target="_blank">cnn.com</a> (2025-12-07 19:03:01)</span><span style="padding-right:50px;">マネーフォワード経営陣の読書術とは www.nikkei.com/article/DGXZQO...  何かモヤモヤすることがあって、向き合うヒントを探すために本を読む――。  「問いの解像度」を上げてくれる――。  辻庸介CEOは読書の役割を「知る」から「わかる」への橋渡しにあるといいます。 <a href="https://bsky.app/profile/nikkei.com/post/3m7fb4inmdg2k" target="_blank">nikkei.com</a> (2025-12-07 19:01:58)</span>
   </div>
 </div>
 
@@ -32,117 +32,93 @@
 
 @reuters.com
 
-Iran awaits second plane of nationals deported from US reut.rs/3Y9QJJc
+India has no immediate plans to add coal power capacity beyond 2035, official says reut.rs/4rJj2vI
 
-[2025-12-07 18:45:10](https://bsky.app/profile/reuters.com/post/3m7fa6hsty22d)
+[2025-12-07 19:05:11](https://bsky.app/profile/reuters.com/post/3m7fbcaqcwy2n)
+
+---
+
+@wsj.com
+
+Santa brings pain instead of presents in ‘Silent Night, Deadly Night,’ documentaries look at the lives of Stuart Scott and Dick Van Dyke, Eugene O’Neill’s ‘Anna Christie’ gets a New York staging starring Michelle Williams, and more. on.wsj.com/48Vivzc
+
+[2025-12-07 19:05:08](https://bsky.app/profile/wsj.com/post/3m7fbc5sesr24)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】郡山市巳六段で建物火災 発生から30分経過も激しく炎上中
+(2025-12-07 19:04) #ニュース
+
+[2025-12-07 19:04:26](https://bsky.app/profile/sokuho.news/post/3m7fbaw3crp2p)
+
+---
+
+@cnn.com
+
+One person was seriously injured after being stabbed Friday on Charlotte’s LYNX Blue Line, the same route where the fatal stabbing of a Ukrainian refugee took place months earlier. 
+
+[2025-12-07 19:03:01](https://bsky.app/profile/cnn.com/post/3m7fb6fcp2k2r)
+
+---
+
+@nikkei.com
+
+マネーフォワード経営陣の読書術とは
+www.nikkei.com/article/DGXZQO...
+
+何かモヤモヤすることがあって、向き合うヒントを探すために本を読む――。
+
+「問いの解像度」を上げてくれる――。
+
+辻庸介CEOは読書の役割を「知る」から「わかる」への橋渡しにあるといいます。
+
+[2025-12-07 19:01:58](https://bsky.app/profile/nikkei.com/post/3m7fb4inmdg2k)
+
+---
+
+@reuters.com
+
+Russian troops capture two villages in Ukraine, defence ministry says reut.rs/48rsmwM
+
+[2025-12-07 19:00:44](https://bsky.app/profile/reuters.com/post/3m7fb2c2oua2n)
+
+---
+
+@apnews.com
+
+Baking is more than just creating delicious treats. For many people, it's winter therapy.
+
+[2025-12-07 19:00:20](https://bsky.app/profile/apnews.com/post/3m7fazlnwlh2c)
+
+---
+
+@aljazeera.com
+
+Israel is not allowing antibiotics, IV solutions or surgical material to enter besieged Gaza despite 2-month ceasefire.
+
+[2025-12-07 19:00:14](https://bsky.app/profile/aljazeera.com/post/3m7fazfmom427)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-和歌山 太地町 漁船と貨物船が衝突 漁船の2人が軽いけが
-https://news.web.nhk/newsweb/na/na-k10014996721000
+高市首相 能登半島地震 豪雨災害の現場視察“復興全力で支援”
+https://news.web.nhk/newsweb/na/na-k10014996521000
 
-[2025-12-07 18:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7fa6csnaw2p)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗
-
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像6🈡
-(2025-12-07 18:39:51) #緊急地震速報
-
-[2025-12-07 18:39:57](https://bsky.app/profile/sokuho.news/post/3m7f7v5e45c24)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗
-
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像4
-(2025-12-07 18:39:21) #緊急地震速報
-
-[2025-12-07 18:39:28](https://bsky.app/profile/sokuho.news/post/3m7f7ub2rr22g)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗
-
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像3
-(2025-12-07 18:39:01) #緊急地震速報
-
-[2025-12-07 18:39:09](https://bsky.app/profile/sokuho.news/post/3m7f7tpdrgl2x)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗
-
-⚠️揺れに警戒してください
-🔗http://www.kmoni.bosai.go.jp/
-
-🔶防災科研/強震モニタ/予測震度画像1
-(2025-12-07 18:38:55) #緊急地震速報
-
-[2025-12-07 18:39:02](https://bsky.app/profile/sokuho.news/post/3m7f7tirobf2h)
-
----
-
-@sokuho.news
-
-🔔防災科研より【強震モニタ】動画です。
-
-震源:浦河沖, 深さ:50km
-マグニチュード:3.3, 最大震度:1
-📍https://www.google.com/maps?q=41.6,142.1&ll=41.6,142.1&z=7&t=h
-地震発生日時:2025-12-07 18:33頃
-(10倍速▶120s→12s) #地震
-
-[2025-12-07 18:36:33](https://bsky.app/profile/sokuho.news/post/3m7f7p2ftxz2p)
-
----
-
-@sokuho.news
-
-🔔気象庁より【地震速報】です。
-
-18時33分頃、青森県で最大震度1の地震を観測しました。
-震源:浦河沖, 深さ:50km, 規模:M3.3
-この地震による津波の心配はありません。
-(2025-12-07 18:36:07) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/07/2025-12-07-18-33-10.html?xlarge_image=1
-
-[2025-12-07 18:36:07](https://bsky.app/profile/sokuho.news/post/3m7f7ocquux2m)
+[2025-12-07 18:57:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7fatqwkrb2e)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-茨城 日立の住宅火災 死亡の2人は住人の70代と80代の夫婦
-https://news.web.nhk/newsweb/na/na-k10014996711000
+男子ゴルフ 国内ツアー最終R 金子駆大が7位 初の賞金王に
+https://news.web.nhk/newsweb/na/na-k10014996731000
 
-[2025-12-07 18:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7f7o774yy26)
-
----
-
-@nhknewsunofficial.bsky.social
-
-首都圏強盗事件 実行役報酬支払われたのは数人 “使い捨て”か
-https://news.web.nhk/newsweb/na/na-k10014996701000
-
-[2025-12-07 18:33:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7f7itq42a26)
+[2025-12-07 18:54:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7faoey6lr2e)
 
 ---
 
