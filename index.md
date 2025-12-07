@@ -1,9 +1,9 @@
-# [2025-12-07 17:50 updated](2025_12_07.md)
+# [2025-12-07 18:10 updated](2025_12_07.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">An amphibious assault by China to conquer Taiwan would be one of the toughest military operations to pull off. Here’s how it might look. <a href="https://bsky.app/profile/wsj.com/post/3m7f4uonhd32x" target="_blank">wsj.com</a> (2025-12-07 17:46:00)</span><span style="padding-right:50px;">静岡 伊東市長選挙が告示 過去最多の9人が立候補 https://news.web.nhk/newsweb/na/na-k10014996661000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7f4szjct42p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-07 17:45:03)</span><span style="padding-right:50px;">イラン テヘランの日本人学校 対面での授業を本格的に再開 https://news.web.nhk/newsweb/na/na-k10014996621000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7f4nnlfbg2r" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-07 17:42:02)</span><span style="padding-right:50px;">【パリッふわっなASMR動画でブームに】 ドイツ発「チョコマシュマロ」定番商品へ www.nikkei.com/article/DGXZQO...  ハリボーとディックマンズのチョコマシュマロが「ドンキ」の海外菓子売り上げをけん引し、5倍になるほど人気となっています。  SNSで流行した商品は、いっときの消費で終わるものも。しかしチョコマシュマロは衰えを見せていません。  なぜ、定番商品となったのでしょうか。 <a href="https://bsky.app/profile/nikkei.com/post/3m7f43kink32m" target="_blank">nikkei.com</a> (2025-12-07 17:31:57)</span><span style="padding-right:50px;">Michael Annett, a former racecar driver who made 436 combined starts in NASCAR’s three national touring series, has died. He was 39. <a href="https://bsky.app/profile/apnews.com/post/3m7f3yjkzsq2i" target="_blank">apnews.com</a> (2025-12-07 17:30:16)</span>
+<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】長崎自動車道で横転事故 長崎方面に向かう下り線古賀市布IC付近 (2025-12-07 17:59:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7f666jt4y26" target="_blank">sokuho.news</a> (2025-12-07 18:09:13)</span><span style="padding-right:50px;">ジェフ千葉と徳島ヴォルティスがJ1昇格かけプレーオフ決勝へ https://news.web.nhk/newsweb/na/na-k10014996681000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7f65wuegc2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-07 18:09:03)</span><span style="padding-right:50px;">Messi and Inter Miami have completed their ascent, beating the Vancouver Whitecaps 3-1 on Saturday in the MLS Cup final for the franchise’s first championship.  <a href="https://bsky.app/profile/cnn.com/post/3m7f5t4dgvb2r" target="_blank">cnn.com</a> (2025-12-07 18:03:02)</span><span style="padding-right:50px;">きびだんごもCO2表示、岡山県が磨くSDGs www.nikkei.com/article/DGXZQO...  菓子製造販売の広栄堂は主力の「元祖きびだんご」と「むかし吉備団子」で、原材料調達から生産や販売で生じるCO2総排出量を算出。  岡山県備前市のthe continue.は陶芸家や一般家庭から使い古した備前焼や破片を回収し、カップなどに再生して新たな価値を生み出します。 <a href="https://bsky.app/profile/nikkei.com/post/3m7f5r7shgg2e" target="_blank">nikkei.com</a> (2025-12-07 18:01:58)</span><span style="padding-right:50px;">🛎️文春より【スクープ】です。  【高市早苗首相に4000万円寄附】謎の神殿、さなえまんじゅう、右翼の影…この宗教団体は何者なのか (2025-12-07 18:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7f5p3u6qw22" target="_blank">sokuho.news</a> (2025-12-07 18:00:47)</span>
   </div>
 </div>
 
@@ -30,100 +30,100 @@
 
 ---
 
-@wsj.com
+@sokuho.news
 
-An amphibious assault by China to conquer Taiwan would be one of the toughest military operations to pull off. Here’s how it might look.
+🛎️JNNより【速報】です。
 
-[2025-12-07 17:46:00](https://bsky.app/profile/wsj.com/post/3m7f4uonhd32x)
+【速報】長崎自動車道で横転事故 長崎方面に向かう下り線古賀市布IC付近
+(2025-12-07 17:59:00) #ニュース
 
----
-
-@nhknewsunofficial.bsky.social
-
-静岡 伊東市長選挙が告示 過去最多の9人が立候補
-https://news.web.nhk/newsweb/na/na-k10014996661000
-
-[2025-12-07 17:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7f4szjct42p)
+[2025-12-07 18:09:13](https://bsky.app/profile/sokuho.news/post/3m7f666jt4y26)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-イラン テヘランの日本人学校 対面での授業を本格的に再開
-https://news.web.nhk/newsweb/na/na-k10014996621000
+ジェフ千葉と徳島ヴォルティスがJ1昇格かけプレーオフ決勝へ
+https://news.web.nhk/newsweb/na/na-k10014996681000
 
-[2025-12-07 17:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7f4nnlfbg2r)
+[2025-12-07 18:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7f65wuegc2p)
+
+---
+
+@cnn.com
+
+Messi and Inter Miami have completed their ascent, beating the Vancouver Whitecaps 3-1 on Saturday in the MLS Cup final for the franchise’s first championship. 
+
+[2025-12-07 18:03:02](https://bsky.app/profile/cnn.com/post/3m7f5t4dgvb2r)
 
 ---
 
 @nikkei.com
 
-【パリッふわっなASMR動画でブームに】
-ドイツ発「チョコマシュマロ」定番商品へ
+きびだんごもCO2表示、岡山県が磨くSDGs
 www.nikkei.com/article/DGXZQO...
 
-ハリボーとディックマンズのチョコマシュマロが「ドンキ」の海外菓子売り上げをけん引し、5倍になるほど人気となっています。
+菓子製造販売の広栄堂は主力の「元祖きびだんご」と「むかし吉備団子」で、原材料調達から生産や販売で生じるCO2総排出量を算出。
 
-SNSで流行した商品は、いっときの消費で終わるものも。しかしチョコマシュマロは衰えを見せていません。
+岡山県備前市のthe continue.は陶芸家や一般家庭から使い古した備前焼や破片を回収し、カップなどに再生して新たな価値を生み出します。
 
-なぜ、定番商品となったのでしょうか。
-
-[2025-12-07 17:31:57](https://bsky.app/profile/nikkei.com/post/3m7f43kink32m)
+[2025-12-07 18:01:58](https://bsky.app/profile/nikkei.com/post/3m7f5r7shgg2e)
 
 ---
 
-@apnews.com
+@sokuho.news
 
-Michael Annett, a former racecar driver who made 436 combined starts in NASCAR’s three national touring series, has died. He was 39.
+🛎️文春より【スクープ】です。
 
-[2025-12-07 17:30:16](https://bsky.app/profile/apnews.com/post/3m7f3yjkzsq2i)
+【高市早苗首相に4000万円寄附】謎の神殿、さなえまんじゅう、右翼の影…この宗教団体は何者なのか
+(2025-12-07 18:00) #ニュース
+
+[2025-12-07 18:00:47](https://bsky.app/profile/sokuho.news/post/3m7f5p3u6qw22)
 
 ---
 
 @aljazeera.com
 
-Germany is Israel’s second-largest arms supplier, fifth-largest export partner, and one of its staunchest supporters.
+This is a breaking news story.
 
-[2025-12-07 17:30:12](https://bsky.app/profile/aljazeera.com/post/3m7f3yg2zsi2n)
-
----
-
-@nhknewsunofficial.bsky.social
-
-福岡国際マラソン 西山雄介ら3人が五輪代表選考への出場権獲得
-https://news.web.nhk/newsweb/na/na-k10014996641000
-
-[2025-12-07 17:30:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7f3yago3k24)
+[2025-12-07 18:00:32](https://bsky.app/profile/aljazeera.com/post/3m7f5onwvwz2d)
 
 ---
 
 @sokuho.news
 
-🛎️NNNより【速報】です。
+🛎️文春より【スクープ】です。
 
-【速報】J2昇格プレーオフ準決勝 鹿児島は宮崎に0対2で敗退
-(2025-12-07 16:58) #ニュース
+「5カ月以上、何も説明はなく、全くゼロ」元TOKIO・松岡昌宏が語った“日本テレビへの困惑”…ネットでは日テレ側の対応を疑問視する声相次ぐ
+(2025-12-07 18:00) #ニュース
 
-[2025-12-07 17:21:54](https://bsky.app/profile/sokuho.news/post/3m7f3jl52sr27)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】国道250号で車6台が絡む事故 玉突きか 現場付近は片側交互通行で約3.6㎞の渋滞が発生【7日午後5時現在】
-(2025-12-07 17:14:00) #ニュース
-
-[2025-12-07 17:15:30](https://bsky.app/profile/sokuho.news/post/3m7f364wlbp2x)
+[2025-12-07 18:00:29](https://bsky.app/profile/sokuho.news/post/3m7f5okgkgj24)
 
 ---
 
 @reuters.com
 
-India's ICICI Prudential Asset Management sets IPO price band of 2,061-2,165 rupees reut.rs/44dDw5G
+Soldiers on Benin's national television claim to have seized power reut.rs/3MkIHut
 
-[2025-12-07 17:15:08](https://bsky.app/profile/reuters.com/post/3m7f35hprgp2n)
+[2025-12-07 18:00:20](https://bsky.app/profile/reuters.com/post/3m7f5obzo6a2a)
+
+---
+
+@cnbc.com
+
+Cornell University organizational psychologist Sunita Sah says that kids who don't learn how to be defiant can struggle to become confidently assertive adults.
+
+[2025-12-07 18:00:19](https://bsky.app/profile/cnbc.com/post/3m7f5obcjux2q)
+
+---
+
+@financialtimes.com
+
+The new show at London’s Savoy Theatre emphasises empathy and acceptance — and features a bonkers song-and-dance tribute to marmalade.
+
+Tap here to read the FT's ★★★★☆ review on.ft.com/4pRrebx
+
+[2025-12-07 18:00:06](https://bsky.app/profile/financialtimes.com/post/3m7f5nuy4jt2v)
 
 ---
 
