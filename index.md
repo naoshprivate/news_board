@@ -1,9 +1,9 @@
-# [2025-12-08 02:50 updated](2025_12_08.md)
+# [2025-12-08 03:10 updated](2025_12_08.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The 12-team field and bracket for this season’s College Football Playoff were released by the CFP Sunday.  The playoff begins with four first-round games at campus sites Dec. 19 and 20, and it concludes with the national championship game Jan. 19. <a href="https://bsky.app/profile/washingtonpost.com/post/3m7g32iyk4e2x" target="_blank">washingtonpost.com</a> (2025-12-08 02:46:08)</span><span style="padding-right:50px;">Reports: Bengals WR Jermaine Burton suspended for game vs. Bills reut.rs/4iJ8Uis <a href="https://bsky.app/profile/reuters.com/post/3m7g2guukop2i" target="_blank">reuters.com</a> (2025-12-08 02:35:10)</span><span style="padding-right:50px;">The 26-year-old Englishman held off a late charge from Max Verstappen to secure McLaren’s first drivers’ championship in 17 years. <a href="https://bsky.app/profile/wsj.com/post/3m7g2gtqr6y2a" target="_blank">wsj.com</a> (2025-12-08 02:35:08)</span><span style="padding-right:50px;">Undefeated Indiana is the top seed in the College Football Playoff bracket revealed Sunday, moving to No. 1 after winning its first Big Ten title since 1967. <a href="https://bsky.app/profile/apnews.com/post/3m7g2gnowm52c" target="_blank">apnews.com</a> (2025-12-08 02:35:02)</span><span style="padding-right:50px;">Indiana takes No. 1 spot in AP Top 25 for first time in history reut.rs/44el0Kx <a href="https://bsky.app/profile/reuters.com/post/3m7g26i75gg2w" target="_blank">reuters.com</a> (2025-12-08 02:30:28)</span>
+<span style="padding-right:50px;">11 Star Parties For Next Weekend’s Geminid Meteor Shower Peak <a href="https://bsky.app/profile/forbes.com/post/3m7g4a2hbqc2l" target="_blank">forbes.com</a> (2025-12-08 03:07:08)</span><span style="padding-right:50px;">Wall Street's 2026 outlook for stocks <a href="https://bsky.app/profile/yahoofinance.com/post/3m7g46a2mtc2u" target="_blank">yahoofinance.com</a> (2025-12-08 03:06:07)</span><span style="padding-right:50px;">Netflix co-CEO Ted Sarandos sought Donald Trump's blessing for the Warner Bros. takeover in a November meeting. <a href="https://bsky.app/profile/bloomberg.com/post/3m7g3tvutux2i" target="_blank">bloomberg.com</a> (2025-12-08 03:00:21)</span><span style="padding-right:50px;">The Democratic governor of Minnesota once again knocked the president over his comments on Somali immigrants, calling the insults 'vile' and 'racist lies.' <a href="https://bsky.app/profile/usatoday.com/post/3m7g3tsdvkv2d" target="_blank">usatoday.com</a> (2025-12-08 03:00:17)</span><span style="padding-right:50px;">The Kennedy Center is currently guided by a board of Trump loyalists and a new staff including the center’s president.  In 10 months, the president has transformed Washington’s cultural hub. Now comes his biggest night yet: the Kennedy Center Honors. <a href="https://bsky.app/profile/washingtonpost.com/post/3m7g3trccno2a" target="_blank">washingtonpost.com</a> (2025-12-08 03:00:16)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.14 (🔺0.04 : 2025-12-05)</span>
+<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.15 (➖0.00 : 2025-12-07)</span>
   </div>
 </div>
 
@@ -32,100 +32,99 @@
 
 ## News Headlines
 
-Here are six news headlines in English:
+Here are six important stories with headlines in English:
 
-1. **College Football Playoff Bracket Released: Undefeated Indiana Takes Top Seed**
-2. **McLaren Wins F1 Driver's Championship After 17-Year Drought**
-3. **Netflix's $72 Billion Deal for Warner Bros. Discovery Stuns Wall Street**
-4. **Everton Hands Chelsea First Women's Super League Defeat in 585 Days**
-5. **Streetwise: Is the Bet on Artificial Intelligence a Vast Potential Profit Pool or a Money Pit?**
-6. **College Football Regular Season Over, Postseason Lineup to be Revealed**
+1. "Geminid Meteor Shower Peak: 11 Star Parties This Weekend"
+2. "Stocks Rebound: Wall Street's 2026 Outlook for Stocks"
+3. "Netflix's $72 Billion Deal for Warner Bros. Discovery Stuns Wall Street"
+4. "College Football Playoff: 12-Team Field and Bracket Revealed"
+5. "Red Bull's Max Verstappen Wins Formula 1 Championship"
+6. "Ejections from the Sun: Northern Lights Visible Further South This Week"
 
 ----
 
-@washingtonpost.com
+@forbes.com
 
-The 12-team field and bracket for this season’s College Football Playoff were released by the CFP Sunday.
+11 Star Parties For Next Weekend’s Geminid Meteor Shower Peak
 
-The playoff begins with four first-round games at campus sites Dec. 19 and 20, and it concludes with the national championship game Jan. 19.
-
-[2025-12-08 02:46:08](https://bsky.app/profile/washingtonpost.com/post/3m7g32iyk4e2x)
+[2025-12-08 03:07:08](https://bsky.app/profile/forbes.com/post/3m7g4a2hbqc2l)
 
 ---
 
-@reuters.com
+@yahoofinance.com
 
-Reports: Bengals WR Jermaine Burton suspended for game vs. Bills reut.rs/4iJ8Uis
+Wall Street's 2026 outlook for stocks
 
-[2025-12-08 02:35:10](https://bsky.app/profile/reuters.com/post/3m7g2guukop2i)
-
----
-
-@wsj.com
-
-The 26-year-old Englishman held off a late charge from Max Verstappen to secure McLaren’s first drivers’ championship in 17 years.
-
-[2025-12-08 02:35:08](https://bsky.app/profile/wsj.com/post/3m7g2gtqr6y2a)
-
----
-
-@apnews.com
-
-Undefeated Indiana is the top seed in the College Football Playoff bracket revealed Sunday, moving to No. 1 after winning its first Big Ten title since 1967.
-
-[2025-12-08 02:35:02](https://bsky.app/profile/apnews.com/post/3m7g2gnowm52c)
-
----
-
-@reuters.com
-
-Indiana takes No. 1 spot in AP Top 25 for first time in history reut.rs/44el0Kx
-
-[2025-12-08 02:30:28](https://bsky.app/profile/reuters.com/post/3m7g26i75gg2w)
-
----
-
-@usatoday.com
-
-Here’s what vitamin A is, why it’s good for you and which foods offer it most abundantly.
-
-[2025-12-08 02:30:26](https://bsky.app/profile/usatoday.com/post/3m7g26gcveo2j)
+[2025-12-08 03:06:07](https://bsky.app/profile/yahoofinance.com/post/3m7g46a2mtc2u)
 
 ---
 
 @bloomberg.com
 
-Play Pointed, Bloomberg’s weekly news quiz for risk-takers.
+Netflix co-CEO Ted Sarandos sought Donald Trump's blessing for the Warner Bros. takeover in a November meeting.
 
-Bet big on the topics you know, and maximize your score by leveraging your wagers. Choose wisely—wrong answers will cost you:
+[2025-12-08 03:00:21](https://bsky.app/profile/bloomberg.com/post/3m7g3tvutux2i)
 
-[2025-12-08 02:30:17](https://bsky.app/profile/bloomberg.com/post/3m7g2664dil27)
+---
+
+@usatoday.com
+
+The Democratic governor of Minnesota once again knocked the president over his comments on Somali immigrants, calling the insults 'vile' and 'racist lies.'
+
+[2025-12-08 03:00:17](https://bsky.app/profile/usatoday.com/post/3m7g3tsdvkv2d)
 
 ---
 
 @washingtonpost.com
 
-In a broadly holiday-themed episode, SNL kicked off in a familiar place: a news conference with a member of the Trump administration. 
+The Kennedy Center is currently guided by a board of Trump loyalists and a new staff including the center’s president.
 
-“Weekend Update” host Colin Jost played Defense Secretary Pete Hegseth as if he was headlining a heavy metal show.
+In 10 months, the president has transformed Washington’s cultural hub. Now comes his biggest night yet: the Kennedy Center Honors.
 
-[2025-12-08 02:30:07](https://bsky.app/profile/washingtonpost.com/post/3m7g25tzjas23)
+[2025-12-08 03:00:16](https://bsky.app/profile/washingtonpost.com/post/3m7g3trccno2a)
 
 ---
 
-@npr.org
+@en.afp.com
 
-Red Bull driver and defending champion Max Verstappen won the race with Norris placing third, which allowed Norris to finish two points ahead of Verstappen in the season-long standings. n.pr/4rEaBBX
+French animated film "Arco" -- an optimistic adventure financed by Oscar winner Natalie Portman and adored by critics -- seems to have what it takes to make a run to the Academy Awards thanks to director Ugo Bienvenu.
 
-[2025-12-08 02:25:24](https://bsky.app/profile/npr.org/post/3m7fzvfxmac23)
+u.afp.com/S7S9
+
+[2025-12-08 03:00:13](https://bsky.app/profile/en.afp.com/post/3m7g3toqb7j2c)
 
 ---
 
 @apnews.com
 
-In case you missed it: Indiana dethrones Ohio State at the top of the AP Top 25 college football poll. See where other top teams landed. bit.ly/3KCtfcC
+Nobel week is underway in Stockholm and Oslo, with laureates holding news conferences and lectures before receiving their prestigious prizes.
 
-[2025-12-08 02:23:55](https://bsky.app/profile/apnews.com/post/3m7fzsqyo4622)
+[2025-12-08 03:00:12](https://bsky.app/profile/apnews.com/post/3m7g3tnrkau2h)
+
+---
+
+@financialtimes.com
+
+Clever layers of colour, pattern, scent and texture are the recipe for a tablescape that goes to town without becoming a hot mess
+: on.ft.com/4oDvNoG
+
+[2025-12-08 03:00:07](https://bsky.app/profile/financialtimes.com/post/3m7g3tj4sxn27)
+
+---
+
+@nytimes.com
+
+After months of holding steady, President Trump’s approval rating has dipped over the past several weeks, according to a New York Times analysis of public polling. Here’s what to know. www.nytimes.com/2025/12/05/u...
+
+[2025-12-08 03:00:02](https://bsky.app/profile/nytimes.com/post/3m7g3tehv4s2y)
+
+---
+
+@forbes.com
+
+FBI Warns iPhone And Android Users—Stop Making These Calls
+
+[2025-12-08 02:58:24](https://bsky.app/profile/forbes.com/post/3m7g3qgijrk2l)
 
 ---
 
