@@ -1,9 +1,9 @@
-# [2025-12-07 22:30 updated](2025_12_07.md)
+# [2025-12-07 22:50 updated](2025_12_07.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Most Gulf markets gain on US rate cut hopes reut.rs/3YaPbP5 <a href="https://bsky.app/profile/reuters.com/post/3m7fmhs277q2k" target="_blank">reuters.com</a> (2025-12-07 22:25:08)</span><span style="padding-right:50px;">Lawmakers warn Trump administration against heavily redacting ‘Epstein files’ on.ft.com/4iHLzxm <a href="https://bsky.app/profile/financialtimes.com/post/3m7fmhhrhwq26" target="_blank">financialtimes.com</a> (2025-12-07 22:24:57)</span><span style="padding-right:50px;">Chernobyl radiation shield 'lost safety function' after drone strike, UN watchdog says <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7fmfysdij2x" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-07 22:24:07)</span><span style="padding-right:50px;">BREAKING:  At least 373 Palestinians have been killed and 970 wounded since the start of the ceasefire in October, according to Gaza’s Health Ministry.   🔴 LIVE updates: aje.io/ro90fr <a href="https://bsky.app/profile/aljazeera.com/post/3m7fmecv2l32c" target="_blank">aljazeera.com</a> (2025-12-07 22:23:11)</span><span style="padding-right:50px;">The pigeon population has exploded — a result of people feeding the birds. For some it's a holy duty and a way to connect to nature. Critics point to health risks tied to exposure to pigeon droppings. n.pr/4a260TG <a href="https://bsky.app/profile/npr.org/post/3m7fmdhdm422e" target="_blank">npr.org</a> (2025-12-07 22:22:42)</span>
+<span style="padding-right:50px;">The Big Ten champion Hoosiers are 13-0, the top team in the country and the top seed in the upcoming playoff. This is real life, we promise. on.wsj.com/48GhYjw <a href="https://bsky.app/profile/wsj.com/post/3m7fniiocfi2j" target="_blank">wsj.com</a> (2025-12-07 22:43:25)</span><span style="padding-right:50px;">男子マラソン 大迫傑 2時間4分55秒の日本新記録をマーク https://news.web.nhk/newsweb/na/na-k10014996891000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7fng3zkjb2e" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-07 22:42:03)</span><span style="padding-right:50px;">EU could announce package to support auto industry on December 16, industry source says reut.rs/48Wz4eb <a href="https://bsky.app/profile/reuters.com/post/3m7fncr7pzf27" target="_blank">reuters.com</a> (2025-12-07 22:40:13)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】高市内閣の支持率75.8% 先月から6.2ポイント下落 JNN世論調査 (2025-12-07 22:35:35) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7fnbvmmjk22" target="_blank">sokuho.news</a> (2025-12-07 22:39:44)</span><span style="padding-right:50px;">【ガガ様御用達がウエディングドレスに】 八芳園、小泉智貴氏デザイン貸し出し www.nikkei.com/article/DGXZQO...  レディー・ガガさんや宇多田ヒカルさんといったアーティストに作品を提供してきたデザイナーの小泉智貴氏。初となるウエディングドレスのコレクションを発表しました。  老舗結婚式場の八芳園の衣装室でレンタルの予約を受け付け、2026年4月に同式場で行われる結婚式から着用できます。 <a href="https://bsky.app/profile/nikkei.com/post/3m7fmtxemqa2w" target="_blank">nikkei.com</a> (2025-12-07 22:31:56)</span>
   </div>
 </div>
 
@@ -30,84 +30,94 @@
 
 ---
 
-@reuters.com
+@wsj.com
 
-Most Gulf markets gain on US rate cut hopes reut.rs/3YaPbP5
+The Big Ten champion Hoosiers are 13-0, the top team in the country and the top seed in the upcoming playoff. This is real life, we promise. on.wsj.com/48GhYjw
 
-[2025-12-07 22:25:08](https://bsky.app/profile/reuters.com/post/3m7fmhs277q2k)
-
----
-
-@financialtimes.com
-
-Lawmakers warn Trump administration against heavily redacting ‘Epstein files’ on.ft.com/4iHLzxm
-
-[2025-12-07 22:24:57](https://bsky.app/profile/financialtimes.com/post/3m7fmhhrhwq26)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Chernobyl radiation shield 'lost safety function' after drone strike, UN watchdog says
-
-[2025-12-07 22:24:07](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7fmfysdij2x)
-
----
-
-@aljazeera.com
-
-<strong><span style="color: red;">BREAKING:</span>  At least 373 Palestinians have been killed and 970 wounded since the start of the ceasefire in October, according to Gaza’s Health Ministry. </strong><br><strong></strong><br><strong>🔴 LIVE updates: aje.io/ro90fr</strong>
-
-[2025-12-07 22:23:11](https://bsky.app/profile/aljazeera.com/post/3m7fmecv2l32c)
-
----
-
-@npr.org
-
-The pigeon population has exploded — a result of people feeding the birds. For some it's a holy duty and a way to connect to nature. Critics point to health risks tied to exposure to pigeon droppings. n.pr/4a260TG
-
-[2025-12-07 22:22:42](https://bsky.app/profile/npr.org/post/3m7fmdhdm422e)
-
----
-
-@cnbc.com
-
-Beef prices are soaring. Here's why America is facing record-low cattle numbers
-
-[2025-12-07 22:16:28](https://bsky.app/profile/cnbc.com/post/3m7flycesii2y)
-
----
-
-@reuters.com
-
-Trump vs the EU, China-Japan tensions, and ‘AI-proof’ jobs reut.rs/4iITf2E
-
-[2025-12-07 22:15:11](https://bsky.app/profile/reuters.com/post/3m7flvyskrc2i)
-
----
-
-@cnbc.com
-
-Chinese internet companies are ramping AI spending. These local players may benefit
-
-[2025-12-07 22:14:19](https://bsky.app/profile/cnbc.com/post/3m7fluhfwan2a)
-
----
-
-@yahoofinance.com
-
-Crucial Fed decision looms as stocks fly high near records: What to watch this week
-
-[2025-12-07 22:06:06](https://bsky.app/profile/yahoofinance.com/post/3m7flfrfx572d)
+[2025-12-07 22:43:25](https://bsky.app/profile/wsj.com/post/3m7fniiocfi2j)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-柔道 グランドスラム東京 男子66キロ級で阿部一二三が優勝
-https://news.web.nhk/newsweb/na/na-k10014996881000
+男子マラソン 大迫傑 2時間4分55秒の日本新記録をマーク
+https://news.web.nhk/newsweb/na/na-k10014996891000
 
-[2025-12-07 22:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7flfqfk7k2n)
+[2025-12-07 22:42:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7fng3zkjb2e)
+
+---
+
+@reuters.com
+
+EU could announce package to support auto industry on December 16, industry source says reut.rs/48Wz4eb
+
+[2025-12-07 22:40:13](https://bsky.app/profile/reuters.com/post/3m7fncr7pzf27)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】高市内閣の支持率75.8% 先月から6.2ポイント下落 JNN世論調査
+(2025-12-07 22:35:35) #ニュース
+
+[2025-12-07 22:39:44](https://bsky.app/profile/sokuho.news/post/3m7fnbvmmjk22)
+
+---
+
+@nikkei.com
+
+【ガガ様御用達がウエディングドレスに】
+八芳園、小泉智貴氏デザイン貸し出し
+www.nikkei.com/article/DGXZQO...
+
+レディー・ガガさんや宇多田ヒカルさんといったアーティストに作品を提供してきたデザイナーの小泉智貴氏。初となるウエディングドレスのコレクションを発表しました。
+
+老舗結婚式場の八芳園の衣装室でレンタルの予約を受け付け、2026年4月に同式場で行われる結婚式から着用できます。
+
+[2025-12-07 22:31:56](https://bsky.app/profile/nikkei.com/post/3m7fmtxemqa2w)
+
+---
+
+@reuters.com
+
+Marathon-Kenyans Korir and Jepkosgei win Valencia Marathon, triathlete Yee impresses reut.rs/4oDjI2Q
+
+[2025-12-07 22:30:37](https://bsky.app/profile/reuters.com/post/3m7fmrmaox62d)
+
+---
+
+@usatoday.com
+
+Step inside the Watch Hill resort sparking speculation that Taylor Swift and Travis Kelce may tie the knot summer 2026.
+
+[2025-12-07 22:30:19](https://bsky.app/profile/usatoday.com/post/3m7fmr2gccf2m)
+
+---
+
+@aljazeera.com
+
+More than 2,000 flights cancelled, stranding thousands of passengers, as government intervenes to address the crisis.
+
+[2025-12-07 22:30:10](https://bsky.app/profile/aljazeera.com/post/3m7fmqsb3xk2f)
+
+---
+
+@cnn.com
+
+Nearly 2,000 years after a devastating volcanic eruption destroyed and entombed a thriving Roman city, researchers are turning to the novel technique of digital archaeology to reveal the "lost Pompeii."
+https://cnn.it/4ptuGJy
+
+[2025-12-07 22:30:05](https://bsky.app/profile/cnn.com/post/3m7fmqnpeyy2q)
+
+---
+
+@financialtimes.com
+
+By maintaining stability and innovating to hold out against Russia, Kyiv has shown that size matters less in conflict than it used to: on.ft.com/48nPvjx
+
+[2025-12-07 22:30:04](https://bsky.app/profile/financialtimes.com/post/3m7fmqmv4o326)
 
 ---
 
