@@ -1,9 +1,9 @@
-# [2025-12-08 06:50 updated](2025_12_08.md)
+# [2025-12-08 07:10 updated](2025_12_08.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">高輪ゲートウェイの評価「山手線で8位」 www.nikkei.com/article/DGXZQO...  JR東日本が「高輪ゲートウェイシティ」の街びらきをしてから8カ月。街ゆく人の顔は朗らかですが、心の内では高輪の街をどう評価しているのでしょうか。18〜75歳の男女100人にアンケートしました。 <a href="https://bsky.app/profile/nikkei.com/post/3m7gihc2tlo2z" target="_blank">nikkei.com</a> (2025-12-08 06:45:56)</span><span style="padding-right:50px;">A town in Illinois that is within driving distance of 10 states with abortion bans has become a hub for the procedure in the three years since the Supreme Court overturned Roe v. Wade. trib.al/QYzy72l <a href="https://bsky.app/profile/nytimes.com/post/3m7gigxncw22s" target="_blank">nytimes.com</a> (2025-12-08 06:45:45)</span><span style="padding-right:50px;">Horror video-game movie "Five Nights at Freddy's 2" proved jump scares can still rake in the cash with a debut that ruled North American theaters, industry estimates showed Sunday.  u.afp.com/S7TG <a href="https://bsky.app/profile/en.afp.com/post/3m7gifohaqv2p" target="_blank">en.afp.com</a> (2025-12-08 06:45:02)</span><span style="padding-right:50px;">At least 25 people, including tourists, were killed in a fire at a popular nightclub in India's Goa state, the state's chief minister said Sunday. n.pr/4pTPFov <a href="https://bsky.app/profile/npr.org/post/3m7giavdagj2r" target="_blank">npr.org</a> (2025-12-08 06:42:21)</span><span style="padding-right:50px;">The epic, dumpster-fire breakup of Olivia Nuzzi and Ryan Lizza and their third wheel, Robert F. Kennedy Jr., is impossible to look away from. Maybe because so little is at stake.  🔗: on.wsj.com/48GdI3B <a href="https://bsky.app/profile/wsj.com/post/3m7gi4x4d4a2w" target="_blank">wsj.com</a> (2025-12-08 06:40:09)</span>
+<span style="padding-right:50px;">After being snubbed by the College Football Playoff, Notre Dame has pulled itself out of the postseason entirely. The Fighting Irish's athletic director called the playoff rankings earlier this season a "farce." <a href="https://bsky.app/profile/nbcnews.com/post/3m7gjkal5xn2h" target="_blank">nbcnews.com</a> (2025-12-08 07:05:29)</span><span style="padding-right:50px;">Napoli go top as Hojlund's double downs Juventus reut.rs/48mmrZK <a href="https://bsky.app/profile/reuters.com/post/3m7gjjnutse2i" target="_blank">reuters.com</a> (2025-12-08 07:05:09)</span><span style="padding-right:50px;">ベナンでクーデターか、西アフリカで相次ぐ　政府は阻止と主張 www.nikkei.com/article/DGXZQO...  2020年以降、マリやブルキナファソ、ニジェールなどでクーデターが発生しています。  ギニアビサウでは11月末にクーデターが起きたばかりです。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m7gjdwmcnd2g" target="_blank">nikkei.com</a> (2025-12-08 07:01:57)</span><span style="padding-right:50px;">Notre Dame has announced it will not participate in a bowl game this year, joining Iowa State and Kansas State in declining postseason invitations. <a href="https://bsky.app/profile/apnews.com/post/3m7gjbdrz3w2p" target="_blank">apnews.com</a> (2025-12-08 07:00:30)</span><span style="padding-right:50px;">There's a Christmas song for all tastes – jolly to melancholy – so corralling them into one list is not only futile, but impossible. Still, we try. <a href="https://bsky.app/profile/usatoday.com/post/3m7gjb7wccs2z" target="_blank">usatoday.com</a> (2025-12-08 07:00:26)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.22 (🔺0.07 : 2025-12-07)</span>
+<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.18 (🔺0.03 : 2025-12-07)</span>
   </div>
 </div>
 
@@ -32,101 +32,105 @@
 
 ## News Headlines
 
-Here are six important stories from the news, with headlines in English:
+Here are six important stories with news headlines in English:
 
-1. "25 Killed in Fire at Indian Nightclub"
-2. "Katy Perry and Justin Trudeau Fuel Romance Rumors"
-3. "Piastri Looks Forward to Sun and Cricket After Tough F1 Season"
-4. "College Football: Indiana Becomes No. 1 Team in AP Poll"
-5. "Benin Foils Coup Attempt by Soldiers Who Claimed to Have Ousted President"
-6. "Doorstep Surveillance Devices Become Part of Modern Life"
+1. "Notre Dame Withdraws from Postseason, Citing 'Farce' of College Football Playoff Rankings"
+2. "Napoli Top the Table as Hojlund's Double Downs Juventus"
+3. "Benin Government Claims to Have Foiled Coup Attempt, Hours After President Ousted"
+4. "Kennedy Center Honors: President Trump to Host Awards Show, Despite Traditions"
+5. "Indiana Claims No. 1 Spot in AP College Football Poll for First Time"
+6. "Americans Holding Onto Devices Longer, Impacting Work Productivity and Economy"
 
 ----
 
-@nikkei.com
+@nbcnews.com
 
-高輪ゲートウェイの評価「山手線で8位」
-www.nikkei.com/article/DGXZQO...
+After being snubbed by the College Football Playoff, Notre Dame has pulled itself out of the postseason entirely. The Fighting Irish's athletic director called the playoff rankings earlier this season a "farce."
 
-JR東日本が「高輪ゲートウェイシティ」の街びらきをしてから8カ月。街ゆく人の顔は朗らかですが、心の内では高輪の街をどう評価しているのでしょうか。18〜75歳の男女100人にアンケートしました。
-
-[2025-12-08 06:45:56](https://bsky.app/profile/nikkei.com/post/3m7gihc2tlo2z)
-
----
-
-@nytimes.com
-
-A town in Illinois that is within driving distance of 10 states with abortion bans has become a hub for the procedure in the three years since the Supreme Court overturned Roe v. Wade. trib.al/QYzy72l
-
-[2025-12-08 06:45:45](https://bsky.app/profile/nytimes.com/post/3m7gigxncw22s)
-
----
-
-@en.afp.com
-
-Horror video-game movie "Five Nights at Freddy's 2" proved jump scares can still rake in the cash with a debut that ruled North American theaters, industry estimates showed Sunday.
-
-u.afp.com/S7TG
-
-[2025-12-08 06:45:02](https://bsky.app/profile/en.afp.com/post/3m7gifohaqv2p)
-
----
-
-@npr.org
-
-At least 25 people, including tourists, were killed in a fire at a popular nightclub in India's Goa state, the state's chief minister said Sunday. n.pr/4pTPFov
-
-[2025-12-08 06:42:21](https://bsky.app/profile/npr.org/post/3m7giavdagj2r)
-
----
-
-@wsj.com
-
-The epic, dumpster-fire breakup of Olivia Nuzzi and Ryan Lizza and their third wheel, Robert F. Kennedy Jr., is impossible to look away from. Maybe because so little is at stake.
-
-🔗: on.wsj.com/48GdI3B
-
-[2025-12-08 06:40:09](https://bsky.app/profile/wsj.com/post/3m7gi4x4d4a2w)
-
----
-
-@nytimes.com
-
-The pop star Katy Perry and Justin Trudeau, the former prime minister of Canada, have not publicly commented on the monthslong rumors of their romance, but Perry shared photos of the pair to Instagram on Saturday.
-
-[2025-12-08 06:35:06](https://bsky.app/profile/nytimes.com/post/3m7ghtvzgwm2y)
+[2025-12-08 07:05:29](https://bsky.app/profile/nbcnews.com/post/3m7gjkal5xn2h)
 
 ---
 
 @reuters.com
 
-Piastri looking forward to sun and cricket after tough F1 season reut.rs/44cKpEe
+Napoli go top as Hojlund's double downs Juventus reut.rs/48mmrZK
 
-[2025-12-08 06:30:22](https://bsky.app/profile/reuters.com/post/3m7ghlhaevz2a)
+[2025-12-08 07:05:09](https://bsky.app/profile/reuters.com/post/3m7gjjnutse2i)
+
+---
+
+@nikkei.com
+
+ベナンでクーデターか、西アフリカで相次ぐ　政府は阻止と主張
+www.nikkei.com/article/DGXZQO...
+
+2020年以降、マリやブルキナファソ、ニジェールなどでクーデターが発生しています。
+
+ギニアビサウでは11月末にクーデターが起きたばかりです。
+
+#ニュース
+
+[2025-12-08 07:01:57](https://bsky.app/profile/nikkei.com/post/3m7gjdwmcnd2g)
+
+---
+
+@apnews.com
+
+Notre Dame has announced it will not participate in a bowl game this year, joining Iowa State and Kansas State in declining postseason invitations.
+
+[2025-12-08 07:00:30](https://bsky.app/profile/apnews.com/post/3m7gjbdrz3w2p)
 
 ---
 
 @usatoday.com
 
-Watch Pennywise terrorize the residents of Derry, Maine, every Sunday on HBO and HBO Max.
+There's a Christmas song for all tastes – jolly to melancholy – so corralling them into one list is not only futile, but impossible. Still, we try.
 
-[2025-12-08 06:30:11](https://bsky.app/profile/usatoday.com/post/3m7ghl4t4oq26)
-
----
-
-@cbsnews.com
-
-A zoo on Java island released photos of Indonesia's first locally born giant panda cub, and said the male cub was showing signs of being in good health.
-
-[2025-12-08 06:30:01](https://bsky.app/profile/cbsnews.com/post/3m7ghkthgum2r)
+[2025-12-08 07:00:26](https://bsky.app/profile/usatoday.com/post/3m7gjb7wccs2z)
 
 ---
 
-@reuters.com
+@cnn.com
 
-Hamilton plans to bin his phone following nightmare season reut.rs/4iFqsMg
+Household names from the music and film industry will be recognized at the 48th annual Kennedy Center Honors, but it will be President Donald Trump who is center stage as he hosts the institution's awards show.
+https://cnn.it/48p7hmD
 
-[2025-12-08 06:25:13](https://bsky.app/profile/reuters.com/post/3m7ghcaotpd2k)
+[2025-12-08 07:00:09](https://bsky.app/profile/cnn.com/post/3m7gjapzlhy2m)
+
+---
+
+@washingtonpost.com
+
+Column: Hoosiers quarterback Fernando Mendoza needed one more convincing game to distance himself from the pack of elite college football players. It came Saturday night.
+
+“Fernando, he’s a dog,” Indiana linebacker Rolijah Hardy said. “He’s a warrior.”
+
+[2025-12-08 07:00:08](https://bsky.app/profile/washingtonpost.com/post/3m7gjaov6aq2x)
+
+---
+
+@nbcnews.com
+
+The share of the Hispanic population who use “Latinx” to describe themselves remained statistically unchanged from 2019 to 2023.
+
+[2025-12-08 07:00:08](https://bsky.app/profile/nbcnews.com/post/3m7gjaolhmn2j)
+
+---
+
+@wsj.com
+
+Our cheat sheet to the major companies jostling for position in the fast-growing market for AI chips.
+
+[2025-12-08 06:56:11](https://bsky.app/profile/wsj.com/post/3m7gizmrwq62l)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+ゼレンスキー大統領 米特使と電話会談 “協議は難航” 米報道
+https://news.web.nhk/newsweb/na/na-k10014997041000
+
+[2025-12-08 06:51:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7giqmuhei2p)
 
 ---
 
