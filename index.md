@@ -1,9 +1,9 @@
-# [2025-12-07 22:10 updated](2025_12_07.md)
+# [2025-12-07 22:30 updated](2025_12_07.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Crucial Fed decision looms as stocks fly high near records: What to watch this week <a href="https://bsky.app/profile/yahoofinance.com/post/3m7flfrfx572d" target="_blank">yahoofinance.com</a> (2025-12-07 22:06:06)</span><span style="padding-right:50px;">柔道 グランドスラム東京 男子66キロ級で阿部一二三が優勝 https://news.web.nhk/newsweb/na/na-k10014996881000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7flfqfk7k2n" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-07 22:06:03)</span><span style="padding-right:50px;">France's Macron threatens China with tariffs over trade surplus - Les Echos reut.rs/48GczZS <a href="https://bsky.app/profile/reuters.com/post/3m7fle3o6jj26" target="_blank">reuters.com</a> (2025-12-07 22:05:10)</span><span style="padding-right:50px;">Gemini success to drive Alphabet shares to $400, cause OpenAI to cut capex, says Pivotal <a href="https://bsky.app/profile/cnbc.com/post/3m7flcrvjiz2y" target="_blank">cnbc.com</a> (2025-12-07 22:04:26)</span><span style="padding-right:50px;">男子マラソン 大迫傑 速報値で2時間4分55秒 日本新記録マーク https://news.web.nhk/newsweb/na/na-k10014996891000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7flaeafra2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-07 22:03:03)</span>
+<span style="padding-right:50px;">Most Gulf markets gain on US rate cut hopes reut.rs/3YaPbP5 <a href="https://bsky.app/profile/reuters.com/post/3m7fmhs277q2k" target="_blank">reuters.com</a> (2025-12-07 22:25:08)</span><span style="padding-right:50px;">Lawmakers warn Trump administration against heavily redacting ‘Epstein files’ on.ft.com/4iHLzxm <a href="https://bsky.app/profile/financialtimes.com/post/3m7fmhhrhwq26" target="_blank">financialtimes.com</a> (2025-12-07 22:24:57)</span><span style="padding-right:50px;">Chernobyl radiation shield 'lost safety function' after drone strike, UN watchdog says <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7fmfysdij2x" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-07 22:24:07)</span><span style="padding-right:50px;">BREAKING:  At least 373 Palestinians have been killed and 970 wounded since the start of the ceasefire in October, according to Gaza’s Health Ministry.   🔴 LIVE updates: aje.io/ro90fr <a href="https://bsky.app/profile/aljazeera.com/post/3m7fmecv2l32c" target="_blank">aljazeera.com</a> (2025-12-07 22:23:11)</span><span style="padding-right:50px;">The pigeon population has exploded — a result of people feeding the birds. For some it's a holy duty and a way to connect to nature. Critics point to health risks tied to exposure to pigeon droppings. n.pr/4a260TG <a href="https://bsky.app/profile/npr.org/post/3m7fmdhdm422e" target="_blank">npr.org</a> (2025-12-07 22:22:42)</span>
   </div>
 </div>
 
@@ -30,6 +30,70 @@
 
 ---
 
+@reuters.com
+
+Most Gulf markets gain on US rate cut hopes reut.rs/3YaPbP5
+
+[2025-12-07 22:25:08](https://bsky.app/profile/reuters.com/post/3m7fmhs277q2k)
+
+---
+
+@financialtimes.com
+
+Lawmakers warn Trump administration against heavily redacting ‘Epstein files’ on.ft.com/4iHLzxm
+
+[2025-12-07 22:24:57](https://bsky.app/profile/financialtimes.com/post/3m7fmhhrhwq26)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Chernobyl radiation shield 'lost safety function' after drone strike, UN watchdog says
+
+[2025-12-07 22:24:07](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7fmfysdij2x)
+
+---
+
+@aljazeera.com
+
+<strong><span style="color: red;">BREAKING:</span>  At least 373 Palestinians have been killed and 970 wounded since the start of the ceasefire in October, according to Gaza’s Health Ministry. </strong><br><strong></strong><br><strong>🔴 LIVE updates: aje.io/ro90fr</strong>
+
+[2025-12-07 22:23:11](https://bsky.app/profile/aljazeera.com/post/3m7fmecv2l32c)
+
+---
+
+@npr.org
+
+The pigeon population has exploded — a result of people feeding the birds. For some it's a holy duty and a way to connect to nature. Critics point to health risks tied to exposure to pigeon droppings. n.pr/4a260TG
+
+[2025-12-07 22:22:42](https://bsky.app/profile/npr.org/post/3m7fmdhdm422e)
+
+---
+
+@cnbc.com
+
+Beef prices are soaring. Here's why America is facing record-low cattle numbers
+
+[2025-12-07 22:16:28](https://bsky.app/profile/cnbc.com/post/3m7flycesii2y)
+
+---
+
+@reuters.com
+
+Trump vs the EU, China-Japan tensions, and ‘AI-proof’ jobs reut.rs/4iITf2E
+
+[2025-12-07 22:15:11](https://bsky.app/profile/reuters.com/post/3m7flvyskrc2i)
+
+---
+
+@cnbc.com
+
+Chinese internet companies are ramping AI spending. These local players may benefit
+
+[2025-12-07 22:14:19](https://bsky.app/profile/cnbc.com/post/3m7fluhfwan2a)
+
+---
+
 @yahoofinance.com
 
 Crucial Fed decision looms as stocks fly high near records: What to watch this week
@@ -44,81 +108,6 @@ Crucial Fed decision looms as stocks fly high near records: What to watch this w
 https://news.web.nhk/newsweb/na/na-k10014996881000
 
 [2025-12-07 22:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7flfqfk7k2n)
-
----
-
-@reuters.com
-
-France's Macron threatens China with tariffs over trade surplus - Les Echos reut.rs/48GczZS
-
-[2025-12-07 22:05:10](https://bsky.app/profile/reuters.com/post/3m7fle3o6jj26)
-
----
-
-@cnbc.com
-
-Gemini success to drive Alphabet shares to $400, cause OpenAI to cut capex, says Pivotal
-
-[2025-12-07 22:04:26](https://bsky.app/profile/cnbc.com/post/3m7flcrvjiz2y)
-
----
-
-@nhknewsunofficial.bsky.social
-
-男子マラソン 大迫傑 速報値で2時間4分55秒 日本新記録マーク
-https://news.web.nhk/newsweb/na/na-k10014996891000
-
-[2025-12-07 22:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7flaeafra2b)
-
----
-
-@cnbc.com
-
-Warren Buffett's Berkshire Hathaway nailed the timing on Alphabet — whether by design or not
-
-[2025-12-07 22:02:12](https://bsky.app/profile/cnbc.com/post/3m7fl6rjkqo2e)
-
----
-
-@nikkei.com
-
-トランプ氏が突き進む紛争仲介ビジネス　揺らぐ超大国の外交力
-www.nikkei.com/article/DGXZQO...
-
-Q　トランプ大統領は、なぜウクライナや中東などの紛争解決に力を入れているのですか。
-A　自らの権益拡大や名声につながるとみているためです。
-
-トランプ政権は世界各地で仲介外交を展開してきました。ただ外交官の大規模リストラに乗り出していて、同盟国からは「米外交には和平を維持する意思も能力も乏しくなっている」との懸念も聞かれます。
-
-地政学の視点から国際情勢を読み解きます。
-
-[2025-12-07 22:01:57](https://bsky.app/profile/nikkei.com/post/3m7fl6dq5ax22)
-
----
-
-@usatoday.com
-
-Who will make the College Football Playoff? USA TODAY Sports offers its final predictions on the final bracket after Championship Week.
-
-[2025-12-07 22:00:49](https://bsky.app/profile/usatoday.com/post/3m7fl4cw6bb2z)
-
----
-
-@cnbc.com
-
-Morgan House, expert on the psychology of money, he argues that true happiness in life comes from wanting less, not accumulating more.
-
-"Once you see someone master that equation," he writes, "you'll never think about wealth the same."
-
-[2025-12-07 22:00:22](https://bsky.app/profile/cnbc.com/post/3m7fl3j74nu2x)
-
----
-
-@bloomberg.com
-
-Macron has just returned from a three-day state visit in China, where he pressed for more investment.
-
-[2025-12-07 22:00:18](https://bsky.app/profile/bloomberg.com/post/3m7fl3f5lcd2y)
 
 ---
 
