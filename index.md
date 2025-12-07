@@ -1,9 +1,9 @@
-# [2025-12-07 19:50 updated](2025_12_07.md)
+# [2025-12-07 20:10 updated](2025_12_07.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">French economy lkely to grow at least 0.8% in 2025, Finance Minister says reut.rs/3MLFnbK <a href="https://bsky.app/profile/reuters.com/post/3m7fdav54mr2i" target="_blank">reuters.com</a> (2025-12-07 19:40:12)</span><span style="padding-right:50px;">Australia's Neser hails special Ashes spell at Gabba after long absence reut.rs/3Mp0W1O <a href="https://bsky.app/profile/reuters.com/post/3m7fcxscwcn2e" target="_blank">reuters.com</a> (2025-12-07 19:35:08)</span><span style="padding-right:50px;"> on.wsj.com/4puNHLQ <a href="https://bsky.app/profile/wsj.com/post/3m7fcwnt3bk2p" target="_blank">wsj.com</a> (2025-12-07 19:34:29)</span><span style="padding-right:50px;">【世界初のSNS禁止法、豪で施行へ】 「悲しみ救う」「つながり消える」 www.nikkei.com/article/DGXZQO...  オーストラリアは12月10日、国レベルで世界で初めて16歳未満の子どものSNS利用を禁止します。  ウェルズ通信相によると、12万人以上の親が政府にSNS規制を求めてきたといいます。世論調査では過半数の親が禁止を支持しました。  一方で、社会的に孤立しやすい少数派の子どもたちは、仲間との「つながり」を失いかねないと危惧しています。 <a href="https://bsky.app/profile/nikkei.com/post/3m7fcs55etu2m" target="_blank">nikkei.com</a> (2025-12-07 19:31:58)</span><span style="padding-right:50px;">Bethlehem lights tree after two years, mixing hope with sorrow amid Gaza war and economic hardship from Israeli siege. <a href="https://bsky.app/profile/aljazeera.com/post/3m7fcpcoziv2x" target="_blank">aljazeera.com</a> (2025-12-07 19:30:23)</span>
+<span style="padding-right:50px;">香港 高層住宅火災 追悼メッセージの掲示板が撤去へ https://news.web.nhk/newsweb/na/na-k10014996751000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7fep6b5ol2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-07 20:06:03)</span><span style="padding-right:50px;">インフルエンザの急性脳炎、患者数とともに急増　50〜70代の報告も www.nikkei.com/article/DGXZQO... <a href="https://bsky.app/profile/nikkei.com/post/3m7fehrf7iy2w" target="_blank">nikkei.com</a> (2025-12-07 20:01:57)</span><span style="padding-right:50px;">At least six people also injured in explosion at a central avenue in Coahuayana. <a href="https://bsky.app/profile/aljazeera.com/post/3m7fefccowq2v" target="_blank">aljazeera.com</a> (2025-12-07 20:00:34)</span><span style="padding-right:50px;">New AP reporting from the Mali–Mauritania border reveals widespread allegations of killings and sexual violence by Africa Corps fighters. <a href="https://bsky.app/profile/apnews.com/post/3m7fef7rk3e2c" target="_blank">apnews.com</a> (2025-12-07 20:00:32)</span><span style="padding-right:50px;">Gen Z brothers Zames and Amos Chew started handyman service  in 2016. Now, their business is on track to bring in about $2.3 million in 2025.  “When I was younger, my dream was always to work in big tech,” said a founder. But one day in early 2016, he discovered a gap in the market. <a href="https://bsky.app/profile/cnbc.com/post/3m7feevubns2e" target="_blank">cnbc.com</a> (2025-12-07 20:00:21)</span>
   </div>
 </div>
 
@@ -27,6 +27,60 @@
   100% { transform: translateX(-100%); }
 }
 </style>
+
+---
+
+@nhknewsunofficial.bsky.social
+
+香港 高層住宅火災 追悼メッセージの掲示板が撤去へ
+https://news.web.nhk/newsweb/na/na-k10014996751000
+
+[2025-12-07 20:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7fep6b5ol2b)
+
+---
+
+@nikkei.com
+
+インフルエンザの急性脳炎、患者数とともに急増　50〜70代の報告も
+www.nikkei.com/article/DGXZQO...
+
+[2025-12-07 20:01:57](https://bsky.app/profile/nikkei.com/post/3m7fehrf7iy2w)
+
+---
+
+@aljazeera.com
+
+At least six people also injured in explosion at a central avenue in Coahuayana.
+
+[2025-12-07 20:00:34](https://bsky.app/profile/aljazeera.com/post/3m7fefccowq2v)
+
+---
+
+@apnews.com
+
+New AP reporting from the Mali–Mauritania border reveals widespread allegations of killings and sexual violence by Africa Corps fighters.
+
+[2025-12-07 20:00:32](https://bsky.app/profile/apnews.com/post/3m7fef7rk3e2c)
+
+---
+
+@cnbc.com
+
+Gen Z brothers Zames and Amos Chew started handyman service  in 2016. Now, their business is on track to bring in about $2.3 million in 2025.
+
+“When I was younger, my dream was always to work in big tech,” said a founder. But one day in early 2016, he discovered a gap in the market.
+
+[2025-12-07 20:00:21](https://bsky.app/profile/cnbc.com/post/3m7feevubns2e)
+
+---
+
+@washingtonpost.com
+
+After years of misdiagnoses and unexplained symptoms, Annie Sedoric finally discovered the rare condition that was reshaping her body.
+
+“I lived in pain and was gaslit for years,” Sedoric said.
+
+[2025-12-07 20:00:12](https://bsky.app/profile/washingtonpost.com/post/3m7feemtypc23)
 
 ---
 
@@ -67,60 +121,6 @@ www.nikkei.com/article/DGXZQO...
 一方で、社会的に孤立しやすい少数派の子どもたちは、仲間との「つながり」を失いかねないと危惧しています。
 
 [2025-12-07 19:31:58](https://bsky.app/profile/nikkei.com/post/3m7fcs55etu2m)
-
----
-
-@aljazeera.com
-
-Bethlehem lights tree after two years, mixing hope with sorrow amid Gaza war and economic hardship from Israeli siege.
-
-[2025-12-07 19:30:23](https://bsky.app/profile/aljazeera.com/post/3m7fcpcoziv2x)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【随時更新】ロシア ウクライナに軍事侵攻（12月7日の動き）
-https://news.web.nhk/newsweb/na/na-k10014973101000
-
-[2025-12-07 19:30:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7fcorbcxj24)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】B1長崎ヴェルカ 越谷に99-76で勝利 リーグ戦6連勝《長崎》
-(2025-12-07 19:21) #ニュース
-
-[2025-12-07 19:21:55](https://bsky.app/profile/sokuho.news/post/3m7fca6gp2727)
-
----
-
-@nhknewsunofficial.bsky.social
-
-維新 吉村代表 “副首都構想 来年の通常国会に法案提出を”
-https://news.web.nhk/newsweb/na/na-k10014996671000
-
-[2025-12-07 19:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7fc6ojoka2r)
-
----
-
-@nhknewsunofficial.bsky.social
-
-スノーボードW杯パラレル大回転第2戦 三木つばきが今季初優勝
-https://news.web.nhk/newsweb/na/na-k10014996651000
-
-[2025-12-07 19:18:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7fbzdjkhi2j)
-
----
-
-@npr.org
-
-The group, which called itself the Military Committee for Refoundation, on Sunday announced the removal of the president and all state institutions. n.pr/4oCWhXu
-
-[2025-12-07 19:10:43](https://bsky.app/profile/npr.org/post/3m7fbm5aare2s)
 
 ---
 
