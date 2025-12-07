@@ -1,9 +1,9 @@
-# [2025-12-07 05:50 updated](2025_12_07.md)
+# [2025-12-07 15:53 updated](2025_12_07.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">作文コンクールで入賞した日中の若者などがオンラインで交流 https://news.web.nhk/newsweb/na/na-k10014996211000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7dur35rno24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-07 05:48:08)</span><span style="padding-right:50px;">ノーベル平和賞授賞式 マチャド氏が出席する意向 https://news.web.nhk/newsweb/na/na-k10014996351000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7duqwoxba2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-07 05:48:03)</span><span style="padding-right:50px;">Tanaka the talisman as Leeds roar back to draw with Liverpool reut.rs/44SiV70 <a href="https://bsky.app/profile/reuters.com/post/3m7dulrk6s62y" target="_blank">reuters.com</a> (2025-12-07 05:45:12)</span><span style="padding-right:50px;">ゼレンスキー大統領「米との協議 次の段階 形式について合意」 https://news.web.nhk/newsweb/na/na-k10014996371000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7dullfeke2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-07 05:45:02)</span><span style="padding-right:50px;">US waives $11 million Southwest Airlines fine imposed over 2022 holiday meltdown reut.rs/4pr4kbd <a href="https://bsky.app/profile/reuters.com/post/3m7ducrpv2y2o" target="_blank">reuters.com</a> (2025-12-07 05:40:10)</span>
+<span style="padding-right:50px;">長崎 中学生が乗るマイクロバスが車と衝突 運転手ら3人けが https://news.web.nhk/newsweb/na/na-k10014996591000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7evx3ba6a2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-07 15:42:02)</span><span style="padding-right:50px;">Old is gold: Kohli and Rohit shine bright reut.rs/48XCsFG <a href="https://bsky.app/profile/reuters.com/post/3m7evkojbpk2n" target="_blank">reuters.com</a> (2025-12-07 15:35:09)</span><span style="padding-right:50px;">中国軍「空母訓練を自衛隊機が妨害」と主張　レーダー照射正当化か www.nikkei.com/article/DGXZQO...  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m7evewqref2i" target="_blank">nikkei.com</a> (2025-12-07 15:31:56)</span><span style="padding-right:50px;">Israeli air raids hit Maghazi camp in central Gaza as mediators warn the ceasefire is at a 'critical moment'. <a href="https://bsky.app/profile/aljazeera.com/post/3m7evbt3gus2n" target="_blank">aljazeera.com</a> (2025-12-07 15:30:12)</span><span style="padding-right:50px;">A potent storm is set to soak the Pacific Northwest this week, bringing heavy rain that is likely to cause some flooding on rivers and in urban areas. <a href="https://bsky.app/profile/nytimes.com/post/3m7eu5u4hkb2e" target="_blank">nytimes.com</a> (2025-12-07 15:10:05)</span>
   </div>
 </div>
 
@@ -30,110 +30,97 @@
 
 ---
 
-## News Headlines
-
-1. 日中若者、作文コンクール入賞者らがオンライン交流
-2. ノーベル平和賞授賞式、マチャド氏が出席へ
-3. ゼレンスキー大統領、米国との協議で形式について合意
-4. 高知県で震度1の地震発生、津波の心配なし
-5. ベツレヘムで3年ぶりクリスマスツリー点灯
-6. 国立公園、キング牧師記念日とジューンティーンスは有料化
-
-----
-
 @nhknewsunofficial.bsky.social
 
-作文コンクールで入賞した日中の若者などがオンラインで交流
-https://news.web.nhk/newsweb/na/na-k10014996211000
+長崎 中学生が乗るマイクロバスが車と衝突 運転手ら3人けが
+https://news.web.nhk/newsweb/na/na-k10014996591000
 
-[2025-12-07 05:48:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7dur35rno24)
-
----
-
-@nhknewsunofficial.bsky.social
-
-ノーベル平和賞授賞式 マチャド氏が出席する意向
-https://news.web.nhk/newsweb/na/na-k10014996351000
-
-[2025-12-07 05:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7duqwoxba2b)
+[2025-12-07 15:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7evx3ba6a2k)
 
 ---
 
 @reuters.com
 
-Tanaka the talisman as Leeds roar back to draw with Liverpool reut.rs/44SiV70
+Old is gold: Kohli and Rohit shine bright reut.rs/48XCsFG
 
-[2025-12-07 05:45:12](https://bsky.app/profile/reuters.com/post/3m7dulrk6s62y)
+[2025-12-07 15:35:09](https://bsky.app/profile/reuters.com/post/3m7evkojbpk2n)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@nikkei.com
 
-ゼレンスキー大統領「米との協議 次の段階 形式について合意」
-https://news.web.nhk/newsweb/na/na-k10014996371000
+中国軍「空母訓練を自衛隊機が妨害」と主張　レーダー照射正当化か
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-07 05:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7dullfeke2p)
+#ニュース
+
+[2025-12-07 15:31:56](https://bsky.app/profile/nikkei.com/post/3m7evewqref2i)
+
+---
+
+@aljazeera.com
+
+Israeli air raids hit Maghazi camp in central Gaza as mediators warn the ceasefire is at a 'critical moment'.
+
+[2025-12-07 15:30:12](https://bsky.app/profile/aljazeera.com/post/3m7evbt3gus2n)
+
+---
+
+@nytimes.com
+
+A potent storm is set to soak the Pacific Northwest this week, bringing heavy rain that is likely to cause some flooding on rivers and in urban areas.
+
+[2025-12-07 15:10:05](https://bsky.app/profile/nytimes.com/post/3m7eu5u4hkb2e)
 
 ---
 
 @reuters.com
 
-US waives $11 million Southwest Airlines fine imposed over 2022 holiday meltdown reut.rs/4pr4kbd
+Wissa delighted with long-awaited Newcastle debut reut.rs/4oDH8VK
 
-[2025-12-07 05:40:10](https://bsky.app/profile/reuters.com/post/3m7ducrpv2y2o)
-
----
-
-@reuters.com
-
-Boeing says Trump's equity stake plan doesn't apply to big US defense firms reut.rs/4rIHcWW
-
-[2025-12-07 05:35:07](https://bsky.app/profile/reuters.com/post/3m7dtzqjuew2a)
-
----
-
-@sokuho.news
-
-🔔防災科研より【強震モニタ】動画です。
-
-震源:高知県中部, 深さ:10km
-マグニチュード:2.7, 最大震度:1
-📍https://www.google.com/maps?q=33.6,133.6&ll=33.6,133.6&z=7&t=h
-地震発生日時:2025-12-07 05:30頃
-(10倍速▶120s→12s) #地震
-
-[2025-12-07 05:33:05](https://bsky.app/profile/sokuho.news/post/3m7dtw4aium2y)
-
----
-
-@sokuho.news
-
-🔔気象庁より【地震速報】です。
-
-5時30分頃、高知県で最大震度1の地震を観測しました。
-震源:高知県中部, 深さ:10km, 規模:M2.7
-この地震による津波の心配はありません。
-(2025-12-07 05:32:37) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/07/2025-12-07-05-30-00.html?xlarge_image=1
-
-[2025-12-07 05:32:40](https://bsky.app/profile/sokuho.news/post/3m7dtve2b452q)
-
----
-
-@usatoday.com
-
-George Clooney wasn't told he'd be watching a sizzle reel of his long career filming "Jay Kelly." The tears he sheds on screen? Totally real.
-
-[2025-12-07 05:30:25](https://bsky.app/profile/usatoday.com/post/3m7dtrdg72d2q)
+[2025-12-07 15:05:08](https://bsky.app/profile/reuters.com/post/3m7etuz4cia2i)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-パレスチナ ベツレヘムで3年ぶりのクリスマスツリー点灯式
-https://news.web.nhk/newsweb/na/na-k10014996381000
+【元首相銃撃事件】被告人質問まとめ 本人が語った事件の詳細
+https://news.web.nhk/newsweb/na/na-k10014995971000
 
-[2025-12-07 05:27:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7dtleqc7e26)
+[2025-12-07 15:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7etrdosrf2e)
+
+---
+
+@cnn.com
+
+Buckingham Palace released King Charles III and Queen Camilla’s official 2025 Christmas card on Saturday, featuring a photo taken to mark the couple’s 20th wedding anniversary earlier this year. https://cnn.it/4a70gYV
+
+[2025-12-07 15:02:02](https://bsky.app/profile/cnn.com/post/3m7etphjejs2s)
+
+---
+
+@nikkei.com
+
+アメリカで「ブルーカラービリオネア」現象　AI発展で潤う肉体労働者
+www.nikkei.com/article/DGXZQO...
+
+「配管工は今や医者よりも収入が高い」「音響装置の修理技師がポルシェに乗ってやって来たよ」
+
+高額の授業料を支払ってやっと卒業した大学生が職にあぶれ、ブルーカラーは引っ張りだこです。
+
+アメリカで大金持ちになるのは知識階級の人間というこれまでの常識が崩れつつあるのかもしれません。
+
+2025年11月　#注目された記事
+
+[2025-12-07 15:01:57](https://bsky.app/profile/nikkei.com/post/3m7etpcksdi26)
+
+---
+
+@reuters.com
+
+Russia says it downed 77 Ukrainian drones overnight reut.rs/4oCEMq4
+
+[2025-12-07 15:00:32](https://bsky.app/profile/reuters.com/post/3m7etmsggfa27)
 
 ---
 
