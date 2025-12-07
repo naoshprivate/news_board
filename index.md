@@ -1,9 +1,9 @@
-# [2025-12-07 17:30 updated](2025_12_07.md)
+# [2025-12-07 17:50 updated](2025_12_07.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】J2昇格プレーオフ準決勝 鹿児島は宮崎に0対2で敗退 (2025-12-07 16:58) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7f3jl52sr27" target="_blank">sokuho.news</a> (2025-12-07 17:21:54)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】国道250号で車6台が絡む事故 玉突きか 現場付近は片側交互通行で約3.6㎞の渋滞が発生【7日午後5時現在】 (2025-12-07 17:14:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7f364wlbp2x" target="_blank">sokuho.news</a> (2025-12-07 17:15:30)</span><span style="padding-right:50px;">India's ICICI Prudential Asset Management sets IPO price band of 2,061-2,165 rupees reut.rs/44dDw5G <a href="https://bsky.app/profile/reuters.com/post/3m7f35hprgp2n" target="_blank">reuters.com</a> (2025-12-07 17:15:08)</span><span style="padding-right:50px;">高市首相 “レーダー照射 極めて残念 冷静かつきぜんと対応” https://news.web.nhk/newsweb/na/na-k10014996611000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7f35eh7gm2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-07 17:15:02)</span><span style="padding-right:50px;">Mohamed Salah cast doubt on his Liverpool future on Saturday, saying he felt like he’s been “thrown under the bus” by the Premier League champion.  <a href="https://bsky.app/profile/cnn.com/post/3m7f2xvqpbf2i" target="_blank">cnn.com</a> (2025-12-07 17:12:01)</span>
+<span style="padding-right:50px;">An amphibious assault by China to conquer Taiwan would be one of the toughest military operations to pull off. Here’s how it might look. <a href="https://bsky.app/profile/wsj.com/post/3m7f4uonhd32x" target="_blank">wsj.com</a> (2025-12-07 17:46:00)</span><span style="padding-right:50px;">静岡 伊東市長選挙が告示 過去最多の9人が立候補 https://news.web.nhk/newsweb/na/na-k10014996661000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7f4szjct42p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-07 17:45:03)</span><span style="padding-right:50px;">イラン テヘランの日本人学校 対面での授業を本格的に再開 https://news.web.nhk/newsweb/na/na-k10014996621000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7f4nnlfbg2r" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-07 17:42:02)</span><span style="padding-right:50px;">【パリッふわっなASMR動画でブームに】 ドイツ発「チョコマシュマロ」定番商品へ www.nikkei.com/article/DGXZQO...  ハリボーとディックマンズのチョコマシュマロが「ドンキ」の海外菓子売り上げをけん引し、5倍になるほど人気となっています。  SNSで流行した商品は、いっときの消費で終わるものも。しかしチョコマシュマロは衰えを見せていません。  なぜ、定番商品となったのでしょうか。 <a href="https://bsky.app/profile/nikkei.com/post/3m7f43kink32m" target="_blank">nikkei.com</a> (2025-12-07 17:31:57)</span><span style="padding-right:50px;">Michael Annett, a former racecar driver who made 436 combined starts in NASCAR’s three national touring series, has died. He was 39. <a href="https://bsky.app/profile/apnews.com/post/3m7f3yjkzsq2i" target="_blank">apnews.com</a> (2025-12-07 17:30:16)</span>
   </div>
 </div>
 
@@ -27,6 +27,73 @@
   100% { transform: translateX(-100%); }
 }
 </style>
+
+---
+
+@wsj.com
+
+An amphibious assault by China to conquer Taiwan would be one of the toughest military operations to pull off. Here’s how it might look.
+
+[2025-12-07 17:46:00](https://bsky.app/profile/wsj.com/post/3m7f4uonhd32x)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+静岡 伊東市長選挙が告示 過去最多の9人が立候補
+https://news.web.nhk/newsweb/na/na-k10014996661000
+
+[2025-12-07 17:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7f4szjct42p)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+イラン テヘランの日本人学校 対面での授業を本格的に再開
+https://news.web.nhk/newsweb/na/na-k10014996621000
+
+[2025-12-07 17:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7f4nnlfbg2r)
+
+---
+
+@nikkei.com
+
+【パリッふわっなASMR動画でブームに】
+ドイツ発「チョコマシュマロ」定番商品へ
+www.nikkei.com/article/DGXZQO...
+
+ハリボーとディックマンズのチョコマシュマロが「ドンキ」の海外菓子売り上げをけん引し、5倍になるほど人気となっています。
+
+SNSで流行した商品は、いっときの消費で終わるものも。しかしチョコマシュマロは衰えを見せていません。
+
+なぜ、定番商品となったのでしょうか。
+
+[2025-12-07 17:31:57](https://bsky.app/profile/nikkei.com/post/3m7f43kink32m)
+
+---
+
+@apnews.com
+
+Michael Annett, a former racecar driver who made 436 combined starts in NASCAR’s three national touring series, has died. He was 39.
+
+[2025-12-07 17:30:16](https://bsky.app/profile/apnews.com/post/3m7f3yjkzsq2i)
+
+---
+
+@aljazeera.com
+
+Germany is Israel’s second-largest arms supplier, fifth-largest export partner, and one of its staunchest supporters.
+
+[2025-12-07 17:30:12](https://bsky.app/profile/aljazeera.com/post/3m7f3yg2zsi2n)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+福岡国際マラソン 西山雄介ら3人が五輪代表選考への出場権獲得
+https://news.web.nhk/newsweb/na/na-k10014996641000
+
+[2025-12-07 17:30:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7f3yago3k24)
 
 ---
 
@@ -57,63 +124,6 @@
 India's ICICI Prudential Asset Management sets IPO price band of 2,061-2,165 rupees reut.rs/44dDw5G
 
 [2025-12-07 17:15:08](https://bsky.app/profile/reuters.com/post/3m7f35hprgp2n)
-
----
-
-@nhknewsunofficial.bsky.social
-
-高市首相 “レーダー照射 極めて残念 冷静かつきぜんと対応”
-https://news.web.nhk/newsweb/na/na-k10014996611000
-
-[2025-12-07 17:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7f35eh7gm2p)
-
----
-
-@cnn.com
-
-Mohamed Salah cast doubt on his Liverpool future on Saturday, saying he felt like he’s been “thrown under the bus” by the Premier League champion. 
-
-[2025-12-07 17:12:01](https://bsky.app/profile/cnn.com/post/3m7f2xvqpbf2i)
-
----
-
-@bloomberg.com
-
-India’s push for digital IDs has sparked a bonanza for criminals
-
-[2025-12-07 17:10:41](https://bsky.app/profile/bloomberg.com/post/3m7f2vivuwi2n)
-
----
-
-@npr.org
-
-At least 25 people, including tourists, were killed in a fire at a popular nightclub in India's Goa state, the state's chief minister said Sunday. n.pr/49Xoftp
-
-[2025-12-07 17:10:08](https://bsky.app/profile/npr.org/post/3m7f2uk66qa2h)
-
----
-
-@reuters.com
-
-Asset manager Guggenheim plans Saudi presence as part of Gulf investment push reut.rs/4prk1iC
-
-[2025-12-07 17:10:08](https://bsky.app/profile/reuters.com/post/3m7f2ujl3mz2a)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Watch: BBC reports from scene of deadly Goa nightclub fire
-
-[2025-12-07 17:07:35](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7f2pyap7w2g)
-
----
-
-@reuters.com
-
-NHL roundup: Nathan MacKinnon stars as Avs top Rangers in OT reut.rs/3XBdVQt
-
-[2025-12-07 17:05:07](https://bsky.app/profile/reuters.com/post/3m7f2lkm2sw2k)
 
 ---
 
