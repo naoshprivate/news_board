@@ -1,9 +1,9 @@
-# [2025-12-07 23:10 updated](2025_12_07.md)
+# [2025-12-07 23:30 updated](2025_12_07.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Why these 2 stocks have shockingly blown away Nvidia <a href="https://bsky.app/profile/yahoofinance.com/post/3m7for27s4s2y" target="_blank">yahoofinance.com</a> (2025-12-07 23:06:06)</span><span style="padding-right:50px;">Former England captains unleash scathing verdict as Ashes dream crumbles reut.rs/4iJE0qe <a href="https://bsky.app/profile/reuters.com/post/3m7fopck35z2k" target="_blank">reuters.com</a> (2025-12-07 23:05:07)</span><span style="padding-right:50px;">Sandy Avila took five years to completely rebuild the 1966 Chevrolet Impala convertible. on.wsj.com/4rJrA5M <a href="https://bsky.app/profile/wsj.com/post/3m7fomutvzx2p" target="_blank">wsj.com</a> (2025-12-07 23:03:46)</span><span style="padding-right:50px;">Fed expected to cut rates despite deep divisions over US economic outlook on.ft.com/49WaAmm <a href="https://bsky.app/profile/financialtimes.com/post/3m7fokufzze23" target="_blank">financialtimes.com</a> (2025-12-07 23:02:38)</span><span style="padding-right:50px;">Survivors of the 1941 Japanese bombing of Pearl Harbor have long been the center of a remembrance ceremony held each year on the military base's waterfront. <a href="https://bsky.app/profile/apnews.com/post/3m7fohhr4ae2j" target="_blank">apnews.com</a> (2025-12-07 23:00:45)</span>
+<span style="padding-right:50px;">India's regulator issued a show-cause notice to IndiGo CEO Pieter Elbers seeking an explanation for the airline’s flight cancellations <a href="https://bsky.app/profile/bloomberg.com/post/3m7fpyetuzm2d" target="_blank">bloomberg.com</a> (2025-12-07 23:28:06)</span><span style="padding-right:50px;">Calling themselves the Comité Militaire pour la Refondation, the soldiers said they named Lieutenant-Colonel Pascal Tigri as Benin’s new leader. <a href="https://bsky.app/profile/bloomberg.com/post/3m7fpwlqd4g2h" target="_blank">bloomberg.com</a> (2025-12-07 23:27:06)</span><span style="padding-right:50px;">卓球 混合団体のワールドカップ 日本は中国に敗れ準優勝 https://news.web.nhk/newsweb/na/na-k10014996961000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7fpwkcxqb23" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-07 23:27:03)</span><span style="padding-right:50px;">Bolsonaro tapped his eldest son as the right’s bet to defeat Lula next year. Investors aren’t thrilled. <a href="https://bsky.app/profile/bloomberg.com/post/3m7fpusju7h22" target="_blank">bloomberg.com</a> (2025-12-07 23:26:06)</span><span style="padding-right:50px;">Kremlin says new US security strategy accords largely with Russia's view reut.rs/4qefvUL <a href="https://bsky.app/profile/reuters.com/post/3m7fpt3kvys2k" target="_blank">reuters.com</a> (2025-12-07 23:25:08)</span>
   </div>
 </div>
 
@@ -30,85 +30,84 @@
 
 ---
 
-@yahoofinance.com
+@bloomberg.com
 
-Why these 2 stocks have shockingly blown away Nvidia
+India's regulator issued a show-cause notice to IndiGo CEO Pieter Elbers seeking an explanation for the airline’s flight cancellations
 
-[2025-12-07 23:06:06](https://bsky.app/profile/yahoofinance.com/post/3m7for27s4s2y)
+[2025-12-07 23:28:06](https://bsky.app/profile/bloomberg.com/post/3m7fpyetuzm2d)
+
+---
+
+@bloomberg.com
+
+Calling themselves the Comité Militaire pour la Refondation, the soldiers said they named Lieutenant-Colonel Pascal Tigri as Benin’s new leader.
+
+[2025-12-07 23:27:06](https://bsky.app/profile/bloomberg.com/post/3m7fpwlqd4g2h)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+卓球 混合団体のワールドカップ 日本は中国に敗れ準優勝
+https://news.web.nhk/newsweb/na/na-k10014996961000
+
+[2025-12-07 23:27:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7fpwkcxqb23)
+
+---
+
+@bloomberg.com
+
+Bolsonaro tapped his eldest son as the right’s bet to defeat Lula next year. Investors aren’t thrilled.
+
+[2025-12-07 23:26:06](https://bsky.app/profile/bloomberg.com/post/3m7fpusju7h22)
 
 ---
 
 @reuters.com
 
-Former England captains unleash scathing verdict as Ashes dream crumbles reut.rs/4iJE0qe
+Kremlin says new US security strategy accords largely with Russia's view reut.rs/4qefvUL
 
-[2025-12-07 23:05:07](https://bsky.app/profile/reuters.com/post/3m7fopck35z2k)
-
----
-
-@wsj.com
-
-Sandy Avila took five years to completely rebuild the 1966 Chevrolet Impala convertible. on.wsj.com/4rJrA5M
-
-[2025-12-07 23:03:46](https://bsky.app/profile/wsj.com/post/3m7fomutvzx2p)
+[2025-12-07 23:25:08](https://bsky.app/profile/reuters.com/post/3m7fpt3kvys2k)
 
 ---
 
 @financialtimes.com
 
-Fed expected to cut rates despite deep divisions over US economic outlook on.ft.com/49WaAmm
+Ben & Jerry’s founders told to ‘hand over to a new generation’ by Magnum boss on.ft.com/48lQ3q8
 
-[2025-12-07 23:02:38](https://bsky.app/profile/financialtimes.com/post/3m7fokufzze23)
-
----
-
-@apnews.com
-
-Survivors of the 1941 Japanese bombing of Pearl Harbor have long been the center of a remembrance ceremony held each year on the military base's waterfront.
-
-[2025-12-07 23:00:45](https://bsky.app/profile/apnews.com/post/3m7fohhr4ae2j)
+[2025-12-07 23:18:25](https://bsky.app/profile/financialtimes.com/post/3m7fph2os6p26)
 
 ---
 
-@usatoday.com
+@bloomberg.com
 
-Duke won the ACC championship game, but winning a Power Four conference title likely won't get the five-loss Blue Devils in the playoff.
+A Chinese J-15 fighter jet directed its radar at Japanese military aircraft twice on Saturday, Japan’s defense ministry said in a statement on Sunday.
 
-[2025-12-07 23:00:39](https://bsky.app/profile/usatoday.com/post/3m7fohcurtf2j)
-
----
-
-@reuters.com
-
-Nigeria seeks French help to combat insecurity, Macron says reut.rs/4pPdRbF
-
-[2025-12-07 23:00:24](https://bsky.app/profile/reuters.com/post/3m7fogukvvf2w)
+[2025-12-07 23:13:56](https://bsky.app/profile/bloomberg.com/post/3m7fp727xkp2g)
 
 ---
 
-@cnn.com
+@bloomberg.com
 
-Jasmine Crockett has two cashier's checks made out to use on Monday: one to submit if she files for reelection for her US House seat, the other to jump into the already competitive Texas Democratic primary for US Senate. https://cnn.it/3KwOyfK
+Eli Lilly, Pfizer. and Johnson & Johnson drugs are included on China’s first list of treatments recommended for private insurance
 
-[2025-12-07 23:00:23](https://bsky.app/profile/cnn.com/post/3m7fogtha6i2f)
-
----
-
-@washingtonpost.com
-
-Analysis: The playoffs have been dominated in large part by dynasties or mini-dynasties in both conferences over the past few years.
-
-However, it’s possible those teams could be watching this entire postseason play out without them.
-
-[2025-12-07 23:00:21](https://bsky.app/profile/washingtonpost.com/post/3m7fogrioiu2x)
+[2025-12-07 23:13:19](https://bsky.app/profile/bloomberg.com/post/3m7fp5x7we22n)
 
 ---
 
-@aljazeera.com
+@nytimes.com
 
-German chancellor reaffirms his country's support for Israel on inaugural visit, despite recent turbulence over Gaza.
+Parts of Heathrow Airport were briefly locked down on Sunday morning after what appeared to be pepper spray was used during a fight in one of the airport’s parking garages, the police said.
 
-[2025-12-07 23:00:19](https://bsky.app/profile/aljazeera.com/post/3m7fogpimqa27)
+[2025-12-07 23:10:06](https://bsky.app/profile/nytimes.com/post/3m7foy6xa5n2y)
+
+---
+
+@yahoofinance.com
+
+Why these 2 stocks have shockingly blown away Nvidia
+
+[2025-12-07 23:06:06](https://bsky.app/profile/yahoofinance.com/post/3m7for27s4s2y)
 
 ---
 
