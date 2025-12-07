@@ -1,9 +1,9 @@
-# [2025-12-07 21:30 updated](2025_12_07.md)
+# [2025-12-07 21:50 updated](2025_12_07.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">In Opinion  The Trump administration “has offered a lot of general rhetoric about the value of Christianity to American civilization,” Ross Douthat says. “But in the absence of religious-informed policymaking, this sometimes feels more like a performance of a Christian politics than a full reality.” <a href="https://bsky.app/profile/nytimes.com/post/3m7fithouts26" target="_blank">nytimes.com</a> (2025-12-07 21:20:05)</span><span style="padding-right:50px;">大迫傑が日本新記録を1秒更新、2時間4分55秒　バレンシア・マラソン（無料記事） www.nikkei.com/article/DGXZQO...  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m7fim3crk526" target="_blank">nikkei.com</a> (2025-12-07 21:15:57)</span><span style="padding-right:50px;"> The EU stumbles to an imperfect solution for funding Ukraine on.ft.com/4axbQMT  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m7fikre4g226" target="_blank">financialtimes.com</a> (2025-12-07 21:15:13)</span><span style="padding-right:50px;">Israel’s PM Netanyahu once again opposed to a two-state solution that would lead to the creation of a Palestinian state.  🔴 LIVE updates: aje.io/ro90fr <a href="https://bsky.app/profile/aljazeera.com/post/3m7fig4xnvc2y" target="_blank">aljazeera.com</a> (2025-12-07 21:12:37)</span><span style="padding-right:50px;">'We trained too much': McCullum blames England's training overdose for Ashes loss reut.rs/3KMXE87 <a href="https://bsky.app/profile/reuters.com/post/3m7fibrv6k42d" target="_blank">reuters.com</a> (2025-12-07 21:10:11)</span>
+<span style="padding-right:50px;">日豪防衛相、台湾海峡の平和へ抑止緩めず　「準同盟」調整枠組み設置 www.nikkei.com/article/DGXZQO...  日豪の防衛相は共同声明に「台湾海峡の平和と安定の重要性を再確認した」と明記。中国を念頭に「一方的な現状変更の試みに対する強い反対」を打ち出しました。 <a href="https://bsky.app/profile/nikkei.com/post/3m7fjinvqsp2j" target="_blank">nikkei.com</a> (2025-12-07 21:31:56)</span><span style="padding-right:50px;">See a collection of historic images from the attack that propelled the U.S. into World War II <a href="https://bsky.app/profile/usatoday.com/post/3m7fjfnjcbe2j" target="_blank">usatoday.com</a> (2025-12-07 21:30:15)</span><span style="padding-right:50px;">In Opinion  The Trump administration “has offered a lot of general rhetoric about the value of Christianity to American civilization,” Ross Douthat says. “But in the absence of religious-informed policymaking, this sometimes feels more like a performance of a Christian politics than a full reality.” <a href="https://bsky.app/profile/nytimes.com/post/3m7fithouts26" target="_blank">nytimes.com</a> (2025-12-07 21:20:05)</span><span style="padding-right:50px;">大迫傑が日本新記録を1秒更新、2時間4分55秒　バレンシア・マラソン（無料記事） www.nikkei.com/article/DGXZQO...  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m7fim3crk526" target="_blank">nikkei.com</a> (2025-12-07 21:15:57)</span><span style="padding-right:50px;"> The EU stumbles to an imperfect solution for funding Ukraine on.ft.com/4axbQMT  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m7fikre4g226" target="_blank">financialtimes.com</a> (2025-12-07 21:15:13)</span>
   </div>
 </div>
 
@@ -27,6 +27,25 @@
   100% { transform: translateX(-100%); }
 }
 </style>
+
+---
+
+@nikkei.com
+
+日豪防衛相、台湾海峡の平和へ抑止緩めず　「準同盟」調整枠組み設置
+www.nikkei.com/article/DGXZQO...
+
+日豪の防衛相は共同声明に「台湾海峡の平和と安定の重要性を再確認した」と明記。中国を念頭に「一方的な現状変更の試みに対する強い反対」を打ち出しました。
+
+[2025-12-07 21:31:56](https://bsky.app/profile/nikkei.com/post/3m7fjinvqsp2j)
+
+---
+
+@usatoday.com
+
+See a collection of historic images from the attack that propelled the U.S. into World War II
+
+[2025-12-07 21:30:15](https://bsky.app/profile/usatoday.com/post/3m7fjfnjcbe2j)
 
 ---
 
@@ -104,28 +123,6 @@ F1 title contenders shake hands before the gloves go on reut.rs/4iOa0JW
 (10倍速▶120s→12s) #地震
 
 [2025-12-07 21:04:42](https://bsky.app/profile/sokuho.news/post/3m7fhxxtfzc2h)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Katy Perry posts photo with Justin Trudeau in Japan
-
-[2025-12-07 21:04:25](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7fhxiavqn2l)
-
----
-
-@sokuho.news
-
-🔔気象庁より【地震速報】です。
-
-21時1分頃、青森県で最大震度1の地震を観測しました。
-震源:青森県下北地方, 深さ:10km, 規模:M2.8
-この地震による津波の心配はありません。
-(2025-12-07 21:04:15) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/07/2025-12-07-21-01-40.html?xlarge_image=1
-
-[2025-12-07 21:04:17](https://bsky.app/profile/sokuho.news/post/3m7fhxa6hq32e)
 
 ---
 
