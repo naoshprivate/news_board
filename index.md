@@ -1,9 +1,9 @@
-# [2025-12-08 02:30 updated](2025_12_08.md)
+# [2025-12-08 02:50 updated](2025_12_08.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Red Bull driver and defending champion Max Verstappen won the race with Norris placing third, which allowed Norris to finish two points ahead of Verstappen in the season-long standings. n.pr/4rEaBBX <a href="https://bsky.app/profile/npr.org/post/3m7fzvfxmac23" target="_blank">npr.org</a> (2025-12-08 02:25:24)</span><span style="padding-right:50px;">In case you missed it: Indiana dethrones Ohio State at the top of the AP Top 25 college football poll. See where other top teams landed. bit.ly/3KCtfcC <a href="https://bsky.app/profile/apnews.com/post/3m7fzsqyo4622" target="_blank">apnews.com</a> (2025-12-08 02:23:55)</span><span style="padding-right:50px;">Everton hand Chelsea first Women's Super League defeat in 585 days reut.rs/48VEUMO <a href="https://bsky.app/profile/reuters.com/post/3m7fzdacwl322" target="_blank">reuters.com</a> (2025-12-08 02:15:14)</span><span style="padding-right:50px;">Stocks are back near records, recovering from a slump spurred by doubts about the AI boom. <a href="https://bsky.app/profile/wsj.com/post/3m7fzaulh4i2o" target="_blank">wsj.com</a> (2025-12-08 02:13:54)</span><span style="padding-right:50px;">スキージャンプ男子 W杯第7戦 小林陵侑が2位 2戦連続で表彰台 https://news.web.nhk/newsweb/na/na-k10014997021000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7fz5lsbvi2e" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-08 02:12:02)</span>
+<span style="padding-right:50px;">The 12-team field and bracket for this season’s College Football Playoff were released by the CFP Sunday.  The playoff begins with four first-round games at campus sites Dec. 19 and 20, and it concludes with the national championship game Jan. 19. <a href="https://bsky.app/profile/washingtonpost.com/post/3m7g32iyk4e2x" target="_blank">washingtonpost.com</a> (2025-12-08 02:46:08)</span><span style="padding-right:50px;">Reports: Bengals WR Jermaine Burton suspended for game vs. Bills reut.rs/4iJ8Uis <a href="https://bsky.app/profile/reuters.com/post/3m7g2guukop2i" target="_blank">reuters.com</a> (2025-12-08 02:35:10)</span><span style="padding-right:50px;">The 26-year-old Englishman held off a late charge from Max Verstappen to secure McLaren’s first drivers’ championship in 17 years. <a href="https://bsky.app/profile/wsj.com/post/3m7g2gtqr6y2a" target="_blank">wsj.com</a> (2025-12-08 02:35:08)</span><span style="padding-right:50px;">Undefeated Indiana is the top seed in the College Football Playoff bracket revealed Sunday, moving to No. 1 after winning its first Big Ten title since 1967. <a href="https://bsky.app/profile/apnews.com/post/3m7g2gnowm52c" target="_blank">apnews.com</a> (2025-12-08 02:35:02)</span><span style="padding-right:50px;">Indiana takes No. 1 spot in AP Top 25 for first time in history reut.rs/44el0Kx <a href="https://bsky.app/profile/reuters.com/post/3m7g26i75gg2w" target="_blank">reuters.com</a> (2025-12-08 02:30:28)</span>
   </div>
 </div>
 
@@ -32,16 +32,86 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are six news headlines in English:
 
-1. **Norris wins F1 championship with stunning comeback**
-2. **Indiana dethrones Ohio State in AP Top 25 college football poll**
-3. **Everton hands Chelsea first Women's Super League defeat in 585 days**
-4. **Stocks recover from slump, fueled by AI boom doubts**
-5. **Netflix's $72 billion deal for Warner Bros. Discovery stuns Wall Street**
-6. **US Supreme Court to provide clues on Federal Reserve Governor Lisa Cook's fate**
+1. **College Football Playoff Bracket Released: Undefeated Indiana Takes Top Seed**
+2. **McLaren Wins F1 Driver's Championship After 17-Year Drought**
+3. **Netflix's $72 Billion Deal for Warner Bros. Discovery Stuns Wall Street**
+4. **Everton Hands Chelsea First Women's Super League Defeat in 585 Days**
+5. **Streetwise: Is the Bet on Artificial Intelligence a Vast Potential Profit Pool or a Money Pit?**
+6. **College Football Regular Season Over, Postseason Lineup to be Revealed**
 
 ----
+
+@washingtonpost.com
+
+The 12-team field and bracket for this season’s College Football Playoff were released by the CFP Sunday.
+
+The playoff begins with four first-round games at campus sites Dec. 19 and 20, and it concludes with the national championship game Jan. 19.
+
+[2025-12-08 02:46:08](https://bsky.app/profile/washingtonpost.com/post/3m7g32iyk4e2x)
+
+---
+
+@reuters.com
+
+Reports: Bengals WR Jermaine Burton suspended for game vs. Bills reut.rs/4iJ8Uis
+
+[2025-12-08 02:35:10](https://bsky.app/profile/reuters.com/post/3m7g2guukop2i)
+
+---
+
+@wsj.com
+
+The 26-year-old Englishman held off a late charge from Max Verstappen to secure McLaren’s first drivers’ championship in 17 years.
+
+[2025-12-08 02:35:08](https://bsky.app/profile/wsj.com/post/3m7g2gtqr6y2a)
+
+---
+
+@apnews.com
+
+Undefeated Indiana is the top seed in the College Football Playoff bracket revealed Sunday, moving to No. 1 after winning its first Big Ten title since 1967.
+
+[2025-12-08 02:35:02](https://bsky.app/profile/apnews.com/post/3m7g2gnowm52c)
+
+---
+
+@reuters.com
+
+Indiana takes No. 1 spot in AP Top 25 for first time in history reut.rs/44el0Kx
+
+[2025-12-08 02:30:28](https://bsky.app/profile/reuters.com/post/3m7g26i75gg2w)
+
+---
+
+@usatoday.com
+
+Here’s what vitamin A is, why it’s good for you and which foods offer it most abundantly.
+
+[2025-12-08 02:30:26](https://bsky.app/profile/usatoday.com/post/3m7g26gcveo2j)
+
+---
+
+@bloomberg.com
+
+Play Pointed, Bloomberg’s weekly news quiz for risk-takers.
+
+Bet big on the topics you know, and maximize your score by leveraging your wagers. Choose wisely—wrong answers will cost you:
+
+[2025-12-08 02:30:17](https://bsky.app/profile/bloomberg.com/post/3m7g2664dil27)
+
+---
+
+@washingtonpost.com
+
+In a broadly holiday-themed episode, SNL kicked off in a familiar place: a news conference with a member of the Trump administration. 
+
+“Weekend Update” host Colin Jost played Defense Secretary Pete Hegseth as if he was headlining a heavy metal show.
+
+[2025-12-08 02:30:07](https://bsky.app/profile/washingtonpost.com/post/3m7g25tzjas23)
+
+---
 
 @npr.org
 
@@ -56,76 +126,6 @@ Red Bull driver and defending champion Max Verstappen won the race with Norris p
 In case you missed it: Indiana dethrones Ohio State at the top of the AP Top 25 college football poll. See where other top teams landed. bit.ly/3KCtfcC
 
 [2025-12-08 02:23:55](https://bsky.app/profile/apnews.com/post/3m7fzsqyo4622)
-
----
-
-@reuters.com
-
-Everton hand Chelsea first Women's Super League defeat in 585 days reut.rs/48VEUMO
-
-[2025-12-08 02:15:14](https://bsky.app/profile/reuters.com/post/3m7fzdacwl322)
-
----
-
-@wsj.com
-
-Stocks are back near records, recovering from a slump spurred by doubts about the AI boom.
-
-[2025-12-08 02:13:54](https://bsky.app/profile/wsj.com/post/3m7fzaulh4i2o)
-
----
-
-@nhknewsunofficial.bsky.social
-
-スキージャンプ男子 W杯第7戦 小林陵侑が2位 2戦連続で表彰台
-https://news.web.nhk/newsweb/na/na-k10014997021000
-
-[2025-12-08 02:12:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7fz5lsbvi2e)
-
----
-
-@yahoofinance.com
-
-'Lowest-probability outcome': Netflix's $72 billion deal for Warner Bros. Discovery stuns Wall Street
-
-[2025-12-08 02:06:06](https://bsky.app/profile/yahoofinance.com/post/3m7fysw4nkg2c)
-
----
-
-@usatoday.com
-
-There will be a new No. 1 in the US LBM Coaches Poll with a loss by Ohio State. Will it be Indiana? And how will the top 10 of the rankings look?
-
-[2025-12-08 02:00:52](https://bsky.app/profile/usatoday.com/post/3m7fyjkclgq2h)
-
----
-
-@cnbc.com
-
-Most people assume all fruit is healthy. Not quite.
-
-Here are nine low-sugar fruits that this heart surgeon considers some of the healthiest choices you can make.
-
-[2025-12-08 02:00:30](https://bsky.app/profile/cnbc.com/post/3m7fyivkb2723)
-
----
-
-@cnn.com
-
-"There is one person who can never face any accountability for the killing of people clinging to an alleged drug boat in the Caribbean in September," writes Zachary B. Wolf | Analysis
-https://cnn.it/3XF5weM
-
-[2025-12-08 02:00:29](https://bsky.app/profile/cnn.com/post/3m7fyiukmxf2y)
-
----
-
-@washingtonpost.com
-
-Home health workers and caregivers fill a critical role in the health care ecosystem as America ages and demand for caregivers soars. 
-
-But government funding cuts, a caregiver shortage and immigration limits are layering new strains on the industry.
-
-[2025-12-08 02:00:27](https://bsky.app/profile/washingtonpost.com/post/3m7fyisjpts23)
 
 ---
 
