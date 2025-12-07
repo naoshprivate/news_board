@@ -1,9 +1,9 @@
-# [2025-12-07 16:50 updated](2025_12_07.md)
+# [2025-12-07 17:10 updated](2025_12_07.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Top 25 roundup: Indiana downs top-ranked Ohio State for Big Ten crown reut.rs/4awc4ny <a href="https://bsky.app/profile/reuters.com/post/3m7ezhuxryb2a" target="_blank">reuters.com</a> (2025-12-07 16:45:10)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】高市総理「極めて残念」中国側に強く抗議 中国軍の戦闘機が自衛隊の戦闘機にレーダー照射 (2025-12-07 16:42:32) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7ezekwuvr2m" target="_blank">sokuho.news</a> (2025-12-07 16:43:19)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】高市首相「極めて残念だ」中国機によるレーダー照射「冷静かつ毅然と対応する」 (2025-12-07 16:40) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7ezatxqlh26" target="_blank">sokuho.news</a> (2025-12-07 16:41:14)</span><span style="padding-right:50px;">ふるさと納税やNISA、どう変わる？（無料記事） www.nikkei.com/article/DGXZQO...  2026年度の税制改正に関する協議が大詰め。物価高を背景に家計支援につながる減税策の検討が目立っています。  NISAつみたて枠の18歳未満への解禁など、最新記事をまとめました。 <a href="https://bsky.app/profile/nikkei.com/post/3m7eyxes7ag2j" target="_blank">nikkei.com</a> (2025-12-07 16:35:56)</span><span style="padding-right:50px;">At least 25 people, including tourists, were killed in a fire at a popular nightclub in India’s Goa state, the state’s chief minister said. <a href="https://bsky.app/profile/apnews.com/post/3m7eynq7dhi27" target="_blank">apnews.com</a> (2025-12-07 16:30:32)</span>
+<span style="padding-right:50px;">Watch: BBC reports from scene of deadly Goa nightclub fire <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7f2pyap7w2g" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-07 17:07:35)</span><span style="padding-right:50px;">NHL roundup: Nathan MacKinnon stars as Avs top Rangers in OT reut.rs/3XBdVQt <a href="https://bsky.app/profile/reuters.com/post/3m7f2lkm2sw2k" target="_blank">reuters.com</a> (2025-12-07 17:05:07)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】静岡県伊東市の市長選に過去最多9人が立候補 顔ぶれ出揃い7日間の選挙戦スタート＝静岡・伊東市 (2025-12-07 17:01:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7f2ilzt542h" target="_blank">sokuho.news</a> (2025-12-07 17:03:28)</span><span style="padding-right:50px;">千葉・館山の「ハンター養成塾」活況　イノシシ捕獲数増加に貢献 www.nikkei.com/article/DGXZQO...  狩猟免許を持ちながら活動していないペーパーハンターが対象です。  獣道を見つけ痕跡を頼りに罠を設置。イノシシの命を絶つ止め刺しから解体まで伴走して支援します。  1期6カ月で費用は1人15万円。イノシシが自分の罠にかかれば1頭につき報奨金1万6000円をもらえます。 <a href="https://bsky.app/profile/nikkei.com/post/3m7f2fvmrik2w" target="_blank">nikkei.com</a> (2025-12-07 17:01:57)</span><span style="padding-right:50px;">UBS may cut further 10,000 jobs by 2027, SonntagsBlick reports reut.rs/4pnRZV3 <a href="https://bsky.app/profile/reuters.com/post/3m7f2dbjosf27" target="_blank">reuters.com</a> (2025-12-07 17:00:29)</span>
   </div>
 </div>
 
@@ -30,11 +30,19 @@
 
 ---
 
+@bbcnews-world-rss.bsky.social
+
+Watch: BBC reports from scene of deadly Goa nightclub fire
+
+[2025-12-07 17:07:35](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7f2pyap7w2g)
+
+---
+
 @reuters.com
 
-Top 25 roundup: Indiana downs top-ranked Ohio State for Big Ten crown reut.rs/4awc4ny
+NHL roundup: Nathan MacKinnon stars as Avs top Rangers in OT reut.rs/3XBdVQt
 
-[2025-12-07 16:45:10](https://bsky.app/profile/reuters.com/post/3m7ezhuxryb2a)
+[2025-12-07 17:05:07](https://bsky.app/profile/reuters.com/post/3m7f2lkm2sw2k)
 
 ---
 
@@ -42,86 +50,83 @@ Top 25 roundup: Indiana downs top-ranked Ohio State for Big Ten crown reut.rs/4a
 
 🛎️JNNより【速報】です。
 
-【速報】高市総理「極めて残念」中国側に強く抗議 中国軍の戦闘機が自衛隊の戦闘機にレーダー照射
-(2025-12-07 16:42:32) #ニュース
+【速報】静岡県伊東市の市長選に過去最多9人が立候補 顔ぶれ出揃い7日間の選挙戦スタート＝静岡・伊東市
+(2025-12-07 17:01:00) #ニュース
 
-[2025-12-07 16:43:19](https://bsky.app/profile/sokuho.news/post/3m7ezekwuvr2m)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】高市首相「極めて残念だ」中国機によるレーダー照射「冷静かつ毅然と対応する」
-(2025-12-07 16:40) #ニュース
-
-[2025-12-07 16:41:14](https://bsky.app/profile/sokuho.news/post/3m7ezatxqlh26)
+[2025-12-07 17:03:28](https://bsky.app/profile/sokuho.news/post/3m7f2ilzt542h)
 
 ---
 
 @nikkei.com
 
-ふるさと納税やNISA、どう変わる？（無料記事）
+千葉・館山の「ハンター養成塾」活況　イノシシ捕獲数増加に貢献
 www.nikkei.com/article/DGXZQO...
 
-2026年度の税制改正に関する協議が大詰め。物価高を背景に家計支援につながる減税策の検討が目立っています。
+狩猟免許を持ちながら活動していないペーパーハンターが対象です。
 
-NISAつみたて枠の18歳未満への解禁など、最新記事をまとめました。
+獣道を見つけ痕跡を頼りに罠を設置。イノシシの命を絶つ止め刺しから解体まで伴走して支援します。
 
-[2025-12-07 16:35:56](https://bsky.app/profile/nikkei.com/post/3m7eyxes7ag2j)
+1期6カ月で費用は1人15万円。イノシシが自分の罠にかかれば1頭につき報奨金1万6000円をもらえます。
 
----
-
-@apnews.com
-
-At least 25 people, including tourists, were killed in a fire at a popular nightclub in India’s Goa state, the state’s chief minister said.
-
-[2025-12-07 16:30:32](https://bsky.app/profile/apnews.com/post/3m7eynq7dhi27)
+[2025-12-07 17:01:57](https://bsky.app/profile/nikkei.com/post/3m7f2fvmrik2w)
 
 ---
 
 @reuters.com
 
-Qatar airways names Hamad al-Khater group CEO reut.rs/44Rja2c
+UBS may cut further 10,000 jobs by 2027, SonntagsBlick reports reut.rs/4pnRZV3
 
-[2025-12-07 16:30:12](https://bsky.app/profile/reuters.com/post/3m7eyn5cprm2n)
+[2025-12-07 17:00:29](https://bsky.app/profile/reuters.com/post/3m7f2dbjosf27)
+
+---
+
+@bloomberg.com
+
+More women are reaching the top of politics and business, but trust in their leadership is stagnating. Here’s how bias, backlash and AI are holding women in power back. Read more: bloom.bg/4pQP9rl
+
+📷️: Kiyoshi Ota/Bloomberg
+
+[2025-12-07 17:00:27](https://bsky.app/profile/bloomberg.com/post/3m7f2d7w2qe2o)
 
 ---
 
 @aljazeera.com
 
-Disaster agency warns that monsoon storms are adding more rain and making hillsides unstable.
+The World Food Programme's Carl Skau says the fighting is stopping aid from reaching millions in desperate need.
 
-[2025-12-07 16:30:11](https://bsky.app/profile/aljazeera.com/post/3m7eyn3xe7p2z)
-
----
-
-@nhknewsunofficial.bsky.social
-
-ノーベル賞・坂口志文さん発見「制御性T細胞」応用研究最前線
-https://news.web.nhk/newsweb/na/na-k10014996481000
-
-[2025-12-07 16:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ey4swmoi2j)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Watch: Bethlehem Christmas tree lights up for first time since Gaza war
-
-[2025-12-07 16:16:42](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7exuyz6az2p)
+[2025-12-07 17:00:20](https://bsky.app/profile/aljazeera.com/post/3m7f2cz4sjw2c)
 
 ---
 
 @sokuho.news
 
-🛎️FNNより【速報】です。
+🛎️JNNより【速報】です。
 
-【速報】大分空港でぼや騒ぎ モバイルバッテリーが燃えたか ANAカウンター前で 大分
-(2025-12-07 16:00) #ニュース
+【速報】国道250号で車6台が絡む事故 玉突きか 現場付近は片側交互通行に【7日午後4時45分現在】
+(2025-12-07 16:49:00) #ニュース
 
-[2025-12-07 16:10:54](https://bsky.app/profile/sokuho.news/post/3m7exkmwda32m)
+[2025-12-07 17:00:14](https://bsky.app/profile/sokuho.news/post/3m7f2ctjxou2q)
+
+---
+
+@washingtonpost.com
+
+Some people in Germany want to ban the Alternative for Germany, a far-right party, to prevent a repeat of Nazism.
+
+“We cannot be unserious about preventing this kind of thing,” Ralf Stegner, a social democrat, said. 
+
+[2025-12-07 17:00:11](https://bsky.app/profile/washingtonpost.com/post/3m7f2cpz2642q)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】J3プレーオフ準決勝 鹿児島は宮崎に0対2で敗退 J2昇格ならず
+(2025-12-07 16:58) #ニュース
+
+[2025-12-07 16:59:06](https://bsky.app/profile/sokuho.news/post/3m7f2asjstd24)
 
 ---
 
