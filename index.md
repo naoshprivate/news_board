@@ -1,9 +1,9 @@
-# [2025-12-08 07:50 updated](2025_12_08.md)
+# [2025-12-08 08:10 updated](2025_12_08.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:埼玉県北部, 深さ:60km マグニチュード:3.1, 最大震度:1 📍https://www.google.com/maps?q=36.1,139.7&ll=36.1,139.7&z=7&t=h 地震発生日時:2025-12-08 07:45頃 (10倍速▶120s→12s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m7glxfr33t2e" target="_blank">sokuho.news</a> (2025-12-08 07:48:38)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  7時45分頃、群馬県・埼玉県で最大震度1の地震を観測しました。 震源:埼玉県北部, 深さ:60km, 規模:M3.1 この地震による津波の心配はありません。 (2025-12-08 07:48:11) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/08/2025-12-08-07-45-10.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3m7glwnn4j72l" target="_blank">sokuho.news</a> (2025-12-08 07:48:13)</span><span style="padding-right:50px;">ノーベル化学賞選考委員「無限とも言える応用の可能性」 https://news.web.nhk/newsweb/na/na-k10014996991000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7glwfb3g62r" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-08 07:48:02)</span><span style="padding-right:50px;">三井物産、5年ぶり新規LNGをオーストラリアで生産　世界権益1割増 www.nikkei.com/article/DGXZQO...  オーストラリア西部のガス田由来のLNGで、権益ベースで年70万トン程度の生産を見込みます。  輸送しやすいオーストラリアでの生産を増やし、国内への安定調達につなげます。 <a href="https://bsky.app/profile/nikkei.com/post/3m7glsl3w7y2m" target="_blank">nikkei.com</a> (2025-12-08 07:45:56)</span><span style="padding-right:50px;">Australia's Anson inks lithium supply MoU with US's Nusano for nuclear use reut.rs/4iIFFwd <a href="https://bsky.app/profile/reuters.com/post/3m7glr6m76k2a" target="_blank">reuters.com</a> (2025-12-08 07:45:09)</span>
+<span style="padding-right:50px;">Justin Crowe started a company that turns a loved one’s ashes into something meaningful. <a href="https://bsky.app/profile/wsj.com/post/3m7gmxltvz32h" target="_blank">wsj.com</a> (2025-12-08 08:06:38)</span><span style="padding-right:50px;">These tracks broke new artists, blew apart genres and revived beloved sounds. Here is our list of the best songs of the year. nyti.ms/48mX75U <a href="https://bsky.app/profile/nytimes.com/post/3m7gmuehiy22a" target="_blank">nytimes.com</a> (2025-12-08 08:04:50)</span><span style="padding-right:50px;">AI時代の雇用、哲学専攻ひっぱりだこ？ www.nikkei.com/article/DGXZQO...  ビジネスSNS「LinkedIn」を分析したところ、倫理に関連する肩書が増加していました。アメリカではIT大手、欧州ではコンサル企業で目立ちます。なぜ今、哲学なのでしょうか。  #超知能 #日経_連載 <a href="https://bsky.app/profile/nikkei.com/post/3m7gmp7w7p32i" target="_blank">nikkei.com</a> (2025-12-08 08:01:57)</span><span style="padding-right:50px;">Exclusive: Ben & Jerry's board chair does not plan to resign as pressure mounts from Unilever unit reut.rs/4pURAtd <a href="https://bsky.app/profile/reuters.com/post/3m7gmnj7sww2r" target="_blank">reuters.com</a> (2025-12-08 08:01:00)</span><span style="padding-right:50px;">A top Ukrainian sea-drone commander says more complex attacks on Russian forces are expected next year as Kyiv's uncrewed fleet continues to restrict the once-dominant Black Sea navy. <a href="https://bsky.app/profile/apnews.com/post/3m7gmmplotw2t" target="_blank">apnews.com</a> (2025-12-08 08:00:33)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.21 (🔺0.07 : 2025-12-07)</span>
+<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.22 (🔺0.07 : 2025-12-07)</span>
   </div>
 </div>
 
@@ -32,123 +32,101 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are six important stories from the news with headlines in English:
 
-1. **3.1 Magnitude Earthquake Strikes Northern Saitama Prefecture, Japan**
-2. **X Stops Account on EU Platform Amid Sanctions Dispute**
-3. **Nobel Peace Prize Winner to Decide Whether to Attend Ceremony Amid Political Turmoil**
-4. **Real Madrid Suffers Shock Home Loss to Celta Vigo**
-5. **IKEA Opens First Store in New Zealand, Sparking Debate Over Globalization**
-6. **Notre Dame Declines Bowl Game Invitation, Joins Iowa State and Kansas State**
+1. **"AI-powered company turns loved ones' ashes into meaningful keepsakes"**
+2. **"The best songs of the year: A list of tracks that broke new artists and revived beloved sounds"**
+3. **"Philosophy graduates in high demand in AI era: Why are ethics-related titles increasing?"**
+4. **"Ben & Jerry's board chair refuses to resign amid pressure from Unilever unit"**
+5. **"Ukrainian sea-drone commander warns of complex attacks on Russian forces next year"**
+6. **"Florence Poirel's spending habits that helped her build wealth before her 'mini retirement'"**
 
 ----
 
-@sokuho.news
+@wsj.com
 
-🔔防災科研より【強震モニタ】動画です。
+Justin Crowe started a company that turns a loved one’s ashes into something meaningful.
 
-震源:埼玉県北部, 深さ:60km
-マグニチュード:3.1, 最大震度:1
-📍https://www.google.com/maps?q=36.1,139.7&ll=36.1,139.7&z=7&t=h
-地震発生日時:2025-12-08 07:45頃
-(10倍速▶120s→12s) #地震
-
-[2025-12-08 07:48:38](https://bsky.app/profile/sokuho.news/post/3m7glxfr33t2e)
+[2025-12-08 08:06:38](https://bsky.app/profile/wsj.com/post/3m7gmxltvz32h)
 
 ---
 
-@sokuho.news
+@nytimes.com
 
-🔔気象庁より【地震速報】です。
+These tracks broke new artists, blew apart genres and revived beloved sounds. Here is our list of the best songs of the year. nyti.ms/48mX75U
 
-7時45分頃、群馬県・埼玉県で最大震度1の地震を観測しました。
-震源:埼玉県北部, 深さ:60km, 規模:M3.1
-この地震による津波の心配はありません。
-(2025-12-08 07:48:11) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/08/2025-12-08-07-45-10.html?xlarge_image=1
-
-[2025-12-08 07:48:13](https://bsky.app/profile/sokuho.news/post/3m7glwnn4j72l)
-
----
-
-@nhknewsunofficial.bsky.social
-
-ノーベル化学賞選考委員「無限とも言える応用の可能性」
-https://news.web.nhk/newsweb/na/na-k10014996991000
-
-[2025-12-08 07:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7glwfb3g62r)
+[2025-12-08 08:04:50](https://bsky.app/profile/nytimes.com/post/3m7gmuehiy22a)
 
 ---
 
 @nikkei.com
 
-三井物産、5年ぶり新規LNGをオーストラリアで生産　世界権益1割増
+AI時代の雇用、哲学専攻ひっぱりだこ？
 www.nikkei.com/article/DGXZQO...
 
-オーストラリア西部のガス田由来のLNGで、権益ベースで年70万トン程度の生産を見込みます。
+ビジネスSNS「LinkedIn」を分析したところ、倫理に関連する肩書が増加していました。アメリカではIT大手、欧州ではコンサル企業で目立ちます。なぜ今、哲学なのでしょうか。
 
-輸送しやすいオーストラリアでの生産を増やし、国内への安定調達につなげます。
+#超知能 #日経_連載
 
-[2025-12-08 07:45:56](https://bsky.app/profile/nikkei.com/post/3m7glsl3w7y2m)
-
----
-
-@reuters.com
-
-Australia's Anson inks lithium supply MoU with US's Nusano for nuclear use reut.rs/4iIFFwd
-
-[2025-12-08 07:45:09](https://bsky.app/profile/reuters.com/post/3m7glr6m76k2a)
-
----
-
-@nhknewsunofficial.bsky.social
-
-シリア暫定政府閣僚 再建に向け日本との関係強化に期待示す
-https://news.web.nhk/newsweb/na/na-k10014997051000
-
-[2025-12-08 07:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7glr2ozff2j)
+[2025-12-08 08:01:57](https://bsky.app/profile/nikkei.com/post/3m7gmp7w7p32i)
 
 ---
 
 @reuters.com
 
-National Storage REIT agrees to $2.65 billion buyout by Brookfield–GIC consortium reut.rs/4a7VdaF
+Exclusive: Ben & Jerry's board chair does not plan to resign as pressure mounts from Unilever unit reut.rs/4pURAtd
 
-[2025-12-08 07:40:09](https://bsky.app/profile/reuters.com/post/3m7glib2yim2o)
-
----
-
-@nhknewsunofficial.bsky.social
-
-ベナンでクーデター未遂か 西アフリカで政情不安が深刻化
-https://news.web.nhk/newsweb/na/na-k10014997001000
-
-[2025-12-08 07:36:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7glaycaok24)
+[2025-12-08 08:01:00](https://bsky.app/profile/reuters.com/post/3m7gmnj7sww2r)
 
 ---
 
-@reuters.com
+@apnews.com
 
-Notre Dame, Iowa State, Kansas State decline bowl bids reut.rs/4poTiTC
+A top Ukrainian sea-drone commander says more complex attacks on Russian forces are expected next year as Kyiv's uncrewed fleet continues to restrict the once-dominant Black Sea navy.
 
-[2025-12-08 07:35:08](https://bsky.app/profile/reuters.com/post/3m7gl7bfzvk2i)
+[2025-12-08 08:00:33](https://bsky.app/profile/apnews.com/post/3m7gmmplotw2t)
 
 ---
 
-@nikkei.com
+@cnbc.com
 
-X、EUのアカウントを停止　制裁金に反発か
-www.nikkei.com/article/DGXZQO...
+With $1.5 million saved at 37, Florence Poirel shares the spending habits that helped her build wealth before her "mini retirement."
 
-XはEUの執行機関である欧州委員会のアカウントを停止したと発表しました。
+[2025-12-08 08:00:32](https://bsky.app/profile/cnbc.com/post/3m7gmmonhyb2a)
 
-投稿の閲覧数を伸ばすため、不適切な行為があったとしています。
+---
 
-欧州委は5日、違法コンテンツへの対応を義務付けるデジタルサービス法に基づき、約220億円の制裁金をXに科すと発表したばかりでした。
+@usatoday.com
 
-#ニュース
+The College Football Playoff committee has revealed the 12-team field that will decide this year's national champion with some debate about its picks.
 
-[2025-12-08 07:32:37](https://bsky.app/profile/nikkei.com/post/3m7gl2rnbrz22)
+[2025-12-08 08:00:30](https://bsky.app/profile/usatoday.com/post/3m7gmmmltma2p)
+
+---
+
+@washingtonpost.com
+
+The invasion of the spotted lanternfly was impossible to miss this past summer in the Washington region.
+
+This fall, the insect’s impact on the area has shown up in a less obvious way: It’s changing the honey.
+
+[2025-12-08 08:00:12](https://bsky.app/profile/washingtonpost.com/post/3m7gmm3tg7t2e)
+
+---
+
+@cbsnews.com
+
+Another stabbing on a commuter train in Charlotte, North Carolina, has drawn the attention of President Trump amid his administration's crackdown on immigration.
+
+[2025-12-08 08:00:01](https://bsky.app/profile/cbsnews.com/post/3m7gmlrlr2p23)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Death of Venezuelan opposition figure in custody 'vile', US says
+
+[2025-12-08 07:58:53](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7gmjr74ao2q)
 
 ---
 
