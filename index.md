@@ -1,9 +1,9 @@
-# [2025-12-08 05:10 updated](2025_12_08.md)
+# [2025-12-08 05:30 updated](2025_12_08.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Alexandre Pantoja suffered a dislocated shoulder just as he began his fifth defense of the UFC flyweight title against Joshua Van. <a href="https://bsky.app/profile/usatoday.com/post/3m7gclgv2k22t" target="_blank">usatoday.com</a> (2025-12-08 05:00:53)</span><span style="padding-right:50px;">A Kremlin spokesperson said that the changes 'correspond in many ways to our vision'. <a href="https://bsky.app/profile/aljazeera.com/post/3m7gcl2tqnp2k" target="_blank">aljazeera.com</a> (2025-12-08 05:00:40)</span><span style="padding-right:50px;">Police in Edmonton, Canada, have started a pilot project using AI-equipped body cameras to detect faces on a "high risk" watch list. <a href="https://bsky.app/profile/apnews.com/post/3m7gcknrfcq2c" target="_blank">apnews.com</a> (2025-12-08 05:00:26)</span><span style="padding-right:50px;">Mutlaq Mutlaq’s family spent nearly a decade searching for him after his arrest in 2015 but found nothing. Finally, a photograph appeared.  A newly revealed trove of photos depicts 10,000 people who had died in Bashar al-Assad’s brutal prison system. <a href="https://bsky.app/profile/washingtonpost.com/post/3m7gckayghj2s" target="_blank">washingtonpost.com</a> (2025-12-08 05:00:13)</span><span style="padding-right:50px;">Lawmakers fear the US Department of Justice could seek to withhold sections of documents as the deadline approaches for their release: on.ft.com/4rPCQO7 <a href="https://bsky.app/profile/financialtimes.com/post/3m7gck4gj6r27" target="_blank">financialtimes.com</a> (2025-12-08 05:00:08)</span>
+<span style="padding-right:50px;">There’s a new type of money spreading rapidly across the internet, propelled by the crypto boom. Called a stablecoin, it is a digital currency that is subject to very little legal oversight — and its growing popularity has recently transformed it into a $300 billion market. <a href="https://bsky.app/profile/nytimes.com/post/3m7ge27xei22l" target="_blank">nytimes.com</a> (2025-12-08 05:27:02)</span><span style="padding-right:50px;">No regrets for Verstappen despite title defeat reut.rs/44UQghH <a href="https://bsky.app/profile/reuters.com/post/3m7gdwtefkm2n" target="_blank">reuters.com</a> (2025-12-08 05:25:08)</span><span style="padding-right:50px;">Bessent says U.S. will finish the year with 3% GDP growth, sees 'very strong' holiday season <a href="https://bsky.app/profile/cnbc.com/post/3m7gdrrpkkk2j" target="_blank">cnbc.com</a> (2025-12-08 05:22:19)</span><span style="padding-right:50px;">防衛省“沖縄本島～大東諸島 中国軍空母の戦闘機発着 初確認” https://news.web.nhk/newsweb/na/na-k10014996971000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7gdk6r2542g" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-08 05:18:02)</span><span style="padding-right:50px;">Hundreds of people dressed as Santa Claus and Father Christmas hit the slopes in the Swiss ski resort of Verbier, celebrating the start of the season. <a href="https://bsky.app/profile/en.afp.com/post/3m7gdgyjlgw2u" target="_blank">en.afp.com</a> (2025-12-08 05:16:17)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.32 (🔺0.17 : 2025-12-07)</span>
+<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.24 (🔺0.10 : 2025-12-07)</span>
   </div>
 </div>
 
@@ -32,97 +32,96 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are the six news headlines in English:
 
-1. "UFC Flyweight Champion Alexandre Pantoja Suffers Shoulder Injury in Title Defense"
-2. "Kremlin Spokesperson Defends Changes in Russian Government"
-3. "Canadian Police Pilot Project Uses AI-Enabled Body Cameras to Detect Faces on Watch List"
-4. "New Photos Depict 10,000 People Who Died in Syrian Prison System"
-5. "US Department of Justice May Withhold Documents as Deadline Approaches"
-6. "California School District Offers Company Housing to Middle-Income Families"
+1. "Stablecoin: A $300 Billion Market Born from Crypto Boom"
+2. "Biden's Immigration Policy Criticized for Contributing to Border Crisis"
+3. "New Photos Revealed of 10,000 People Who Died in Syrian Prison System"
+4. "Santa's Kindness to Stock-Fund Investors Ahead of Holidays"
+5. "US Border Czar Defends Immigration Crackdown on Somalis in Minnesota"
+6. "Singapore Tops Global Talent Competitiveness Index for 2025"
 
 ----
+
+@nytimes.com
+
+There’s a new type of money spreading rapidly across the internet, propelled by the crypto boom. Called a stablecoin, it is a digital currency that is subject to very little legal oversight — and its growing popularity has recently transformed it into a $300 billion market.
+
+[2025-12-08 05:27:02](https://bsky.app/profile/nytimes.com/post/3m7ge27xei22l)
+
+---
+
+@reuters.com
+
+No regrets for Verstappen despite title defeat reut.rs/44UQghH
+
+[2025-12-08 05:25:08](https://bsky.app/profile/reuters.com/post/3m7gdwtefkm2n)
+
+---
+
+@cnbc.com
+
+Bessent says U.S. will finish the year with 3% GDP growth, sees 'very strong' holiday season
+
+[2025-12-08 05:22:19](https://bsky.app/profile/cnbc.com/post/3m7gdrrpkkk2j)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+防衛省“沖縄本島～大東諸島 中国軍空母の戦闘機発着 初確認”
+https://news.web.nhk/newsweb/na/na-k10014996971000
+
+[2025-12-08 05:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7gdk6r2542g)
+
+---
+
+@en.afp.com
+
+Hundreds of people dressed as Santa Claus and Father Christmas hit the slopes in the Swiss ski resort of Verbier, celebrating the start of the season.
+
+[2025-12-08 05:16:17](https://bsky.app/profile/en.afp.com/post/3m7gdgyjlgw2u)
+
+---
+
+@reuters.com
+
+US border czar Homan defends immigration crackdown on Somalis in Minnesota reut.rs/4pYWfKO
+
+[2025-12-08 05:15:12](https://bsky.app/profile/reuters.com/post/3m7gdf2fjbo2i)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+政府 中国軍戦闘機のレーダー照射問題 冷静に対応していく方針
+https://news.web.nhk/newsweb/na/na-k10014996821000
+
+[2025-12-08 05:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7gdeu4a7h2t)
+
+---
+
+@wsj.com
+
+Santa has been relatively kind to stock-fund investors ahead of the holidays.
+
+[2025-12-08 05:12:19](https://bsky.app/profile/wsj.com/post/3m7gd7vbhil2o)
+
+---
+
+@reuters.com
+
+Nigerian government secures release of 100 abducted schoolchildren - Channels Television reut.rs/4a3w290
+
+[2025-12-08 05:10:13](https://bsky.app/profile/reuters.com/post/3m7gd454eaw2r)
+
+---
 
 @usatoday.com
 
 Alexandre Pantoja suffered a dislocated shoulder just as he began his fifth defense of the UFC flyweight title against Joshua Van.
 
 [2025-12-08 05:00:53](https://bsky.app/profile/usatoday.com/post/3m7gclgv2k22t)
-
----
-
-@aljazeera.com
-
-A Kremlin spokesperson said that the changes 'correspond in many ways to our vision'.
-
-[2025-12-08 05:00:40](https://bsky.app/profile/aljazeera.com/post/3m7gcl2tqnp2k)
-
----
-
-@apnews.com
-
-Police in Edmonton, Canada, have started a pilot project using AI-equipped body cameras to detect faces on a "high risk" watch list.
-
-[2025-12-08 05:00:26](https://bsky.app/profile/apnews.com/post/3m7gcknrfcq2c)
-
----
-
-@washingtonpost.com
-
-Mutlaq Mutlaq’s family spent nearly a decade searching for him after his arrest in 2015 but found nothing. Finally, a photograph appeared.
-
-A newly revealed trove of photos depicts 10,000 people who had died in Bashar al-Assad’s brutal prison system.
-
-[2025-12-08 05:00:13](https://bsky.app/profile/washingtonpost.com/post/3m7gckayghj2s)
-
----
-
-@financialtimes.com
-
-Lawmakers fear the US Department of Justice could seek to withhold sections of documents as the deadline approaches for their release: on.ft.com/4rPCQO7
-
-[2025-12-08 05:00:08](https://bsky.app/profile/financialtimes.com/post/3m7gck4gj6r27)
-
----
-
-@nytimes.com
-
-Anger over illegal migration helped return Donald Trump to the presidency. A New York Times review of former President Joe Biden’s actions on immigration found that Biden and his advisers repeatedly rebuffed recommendations to stem that migration. Here are key takeaways.
-
-[2025-12-08 04:55:02](https://bsky.app/profile/nytimes.com/post/3m7gcayqwgp26)
-
----
-
-@wsj.com
-
-A California school district is part of a growing push by school systems nationwide to offer company housing as many middle-income Americans are priced out of towns they serve.
-
-[2025-12-08 04:54:36](https://bsky.app/profile/wsj.com/post/3m7gca7ixgs2w)
-
----
-
-@nhknewsunofficial.bsky.social
-
-スキー モーグルW杯開幕戦 堀島行真が優勝 好スタート切る
-https://news.web.nhk/newsweb/na/na-k10014997031000
-
-[2025-12-08 04:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7gbuk6v6s2p)
-
----
-
-@nytimes.com
-
-News Analysis: A decades-long conservative project is coming to a head at the Supreme Court as President Trump pushes to oust leaders of independent agencies.
-
-[2025-12-08 04:46:07](https://bsky.app/profile/nytimes.com/post/3m7gbr2c35x2y)
-
----
-
-@reuters.com
-
-I did it my way, says emotional champion Norris reut.rs/48VhbfH
-
-[2025-12-08 04:45:10](https://bsky.app/profile/reuters.com/post/3m7gbpe2x4q27)
 
 ---
 
