@@ -1,9 +1,9 @@
-# [2025-12-08 11:10 updated](2025_12_08.md)
+# [2025-12-08 11:30 updated](2025_12_08.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Artist Chase Hall and designer Lauren Rodriguez Hall find creativity and comfort in their antique-filled home in the Hudson Valley. <a href="https://bsky.app/profile/wsj.com/post/3m7gx2xlnnn22" target="_blank">wsj.com</a> (2025-12-08 11:07:28)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】アクアラインで追突事故相次ぎ2人けが 車線規制実施中 (11:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7gwrnfgbt22" target="_blank">sokuho.news</a> (2025-12-08 11:02:16)</span><span style="padding-right:50px;">Here’s where to invest $1 million, according to the pros <a href="https://bsky.app/profile/cnbc.com/post/3m7gwrnexnb2e" target="_blank">cnbc.com</a> (2025-12-08 11:02:16)</span><span style="padding-right:50px;">北海道、中国線減便も冬ダイヤ活況　新千歳空港は東南アジア路線2倍に www.nikkei.com/article/DGXZQO...   新千歳では、国際線の就航便数が前年比1〜2割増える見通し。函館や帯広などほかの道内空港でも韓国や台湾を結ぶ路線が増え、好調が続きます。 <a href="https://bsky.app/profile/nikkei.com/post/3m7gwr2t7ma2l" target="_blank">nikkei.com</a> (2025-12-08 11:01:56)</span><span style="padding-right:50px;">Will De'Von Achane return after injuring his ribs vs. the Jets? Miami has listed him as questionable to return. <a href="https://bsky.app/profile/usatoday.com/post/3m7gwp4ekqm2u" target="_blank">usatoday.com</a> (2025-12-08 11:00:51)</span>
+<span style="padding-right:50px;">Millions of recalled cars remain unfixed—even with dangerous problems such as air bag defects. Automakers say they issue multiple notices but that owners don’t follow up. <a href="https://bsky.app/profile/wsj.com/post/3m7gybpvxbe2l" target="_blank">wsj.com</a> (2025-12-08 11:29:09)</span><span style="padding-right:50px;">🛎️ANNより【速報】です。  【速報】俳優・清水尋也被告に拘禁刑1年を求刑 検察側 大麻所持の罪 (2025-12-08 11:23:51) #ニュース https://news.tv-asahi.co.jp/news_society/articles/000471452.html?display=full <a href="https://bsky.app/profile/sokuho.news/post/3m7gy2pcmmv2d" target="_blank">sokuho.news</a> (2025-12-08 11:25:13)</span><span style="padding-right:50px;">A slew of economists are using fresh calculations to assert the damage done to the UK by Brexit has been far worse than previously believed, just as the governing Labour Party is approaching a new strategy of addressing its impact <a href="https://bsky.app/profile/bloomberg.com/post/3m7gy2i2b6r2q" target="_blank">bloomberg.com</a> (2025-12-08 11:25:06)</span><span style="padding-right:50px;">Six months after downloading Sole Retriever, which alerts buyers to sneaker news and “drops,” our writer has never felt so with it.   🔗: on.wsj.com/4pyx8hV <a href="https://bsky.app/profile/wsj.com/post/3m7gxw7vfbr2h" target="_blank">wsj.com</a> (2025-12-08 11:22:43)</span><span style="padding-right:50px;">Too big to fail? IndiGo crisis exposes risks in Indian aviation reut.rs/48GoYwL <a href="https://bsky.app/profile/reuters.com/post/3m7gxrodloy2w" target="_blank">reuters.com</a> (2025-12-08 11:20:10)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50403.63 (🔻239.46 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻5.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 154.92 (🔻0.22 : 2025-12-08)</span>
+<span style="padding-right:50px;">NIKKEI: 50445.46 (🔻197.63 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3044.00 (🔻6.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.05 (🔻0.10 : 2025-12-08)</span>
   </div>
 </div>
 
@@ -32,28 +32,78 @@
 
 ## News Headlines
 
-Here are the six important stories with headlines in English:
+Here are the six important stories in English:
 
-1. **Netflix Merger with Warner Bros. Discovery Raises Concerns**
-Trump says the combined company would have too much market share.
-2. **Nigeria Secures Release of 100 Abducted Schoolchildren**
-After a month-long kidnapping, the Nigerian government secured the release of 100 schoolchildren from their captors.
-3. **Eight Matisse Engravings Stolen from Brazilian Library**
-The French artist's works were stolen from a library in Sao Paulo, Brazil.
-4. **Russia-Ukraine War Enters 1,383th Day**
-The ongoing conflict between Russia and Ukraine has reached its 1,383th day, with key developments and updates emerging daily.
-5. **Robinhood to Enter Indonesia with Brokerage and Crypto Services**
-The American financial services company is expanding into Indonesia, offering brokerage and crypto services to the local market.
-6. **Thai Army Launches Air Strikes Along Disputed Border with Cambodia**
-The Thai army has launched air strikes along the disputed border with Cambodia, amid tensions between the two nations.
+1. "Millions of recalled cars remain unfixed, posing safety risks"
+2. "Brexit damage to UK 'far worse than previously believed', economists claim"
+3. "Indian carrier conducting intense air operations near Japan, Tokyo says"
+4. "US immigration agents 'provoke fear' in immigration court"
+5. "Chinese carrier conducting intense air operations near Japan, Tokyo says"
+6. "Nigeria's government secures release of 100 schoolchildren abducted in Niger state"
 
 ----
 
 @wsj.com
 
-Artist Chase Hall and designer Lauren Rodriguez Hall find creativity and comfort in their antique-filled home in the Hudson Valley.
+Millions of recalled cars remain unfixed—even with dangerous problems such as air bag defects. Automakers say they issue multiple notices but that owners don’t follow up.
 
-[2025-12-08 11:07:28](https://bsky.app/profile/wsj.com/post/3m7gx2xlnnn22)
+[2025-12-08 11:29:09](https://bsky.app/profile/wsj.com/post/3m7gybpvxbe2l)
+
+---
+
+@sokuho.news
+
+🛎️ANNより【速報】です。
+
+【速報】俳優・清水尋也被告に拘禁刑1年を求刑 検察側 大麻所持の罪
+(2025-12-08 11:23:51) #ニュース
+https://news.tv-asahi.co.jp/news_society/articles/000471452.html?display=full
+
+[2025-12-08 11:25:13](https://bsky.app/profile/sokuho.news/post/3m7gy2pcmmv2d)
+
+---
+
+@bloomberg.com
+
+A slew of economists are using fresh calculations to assert the damage done to the UK by Brexit has been far worse than previously believed, just as the governing Labour Party is approaching a new strategy of addressing its impact
+
+[2025-12-08 11:25:06](https://bsky.app/profile/bloomberg.com/post/3m7gy2i2b6r2q)
+
+---
+
+@wsj.com
+
+Six months after downloading Sole Retriever, which alerts buyers to sneaker news and “drops,” our writer has never felt so with it. 
+
+🔗: on.wsj.com/4pyx8hV
+
+[2025-12-08 11:22:43](https://bsky.app/profile/wsj.com/post/3m7gxw7vfbr2h)
+
+---
+
+@reuters.com
+
+Too big to fail? IndiGo crisis exposes risks in Indian aviation reut.rs/48GoYwL
+
+[2025-12-08 11:20:10](https://bsky.app/profile/reuters.com/post/3m7gxrodloy2w)
+
+---
+
+@npr.org
+
+The pianist, composer and arranger spent more than six decades turning El Gran Combo into one of the premier salsa institutions of Latin America and beyond. n.pr/4qeZn5p
+
+[2025-12-08 11:19:40](https://bsky.app/profile/npr.org/post/3m7gxqrjxtn2q)
+
+---
+
+@en.afp.com
+
+ICE agents 'provoke fear' in immigration court.
+
+In the corridors of New York's 26 Federal Plaza, US immigration police agents arrest asylum seekers as they leave the courtroom. Since returning to the White House in January, US President Donald Trump has made tackling illegal immigration a priority
+
+[2025-12-08 11:18:31](https://bsky.app/profile/en.afp.com/post/3m7gxopwwyx2e)
 
 ---
 
@@ -61,78 +111,26 @@ Artist Chase Hall and designer Lauren Rodriguez Hall find creativity and comfort
 
 🔔ANNより【速報】です。
 
-【速報】アクアラインで追突事故相次ぎ2人けが 車線規制実施中
-(11:00) #ニュース
+【速報】俳優・清水尋也被告に拘禁刑1年を求刑 検察側 麻薬取締法違反の罪
+(2025年12月8日 11:10) #ニュース
 
-[2025-12-08 11:02:16](https://bsky.app/profile/sokuho.news/post/3m7gwrnfgbt22)
-
----
-
-@cnbc.com
-
-Here’s where to invest $1 million, according to the pros
-
-[2025-12-08 11:02:16](https://bsky.app/profile/cnbc.com/post/3m7gwrnexnb2e)
-
----
-
-@nikkei.com
-
-北海道、中国線減便も冬ダイヤ活況　新千歳空港は東南アジア路線2倍に
-www.nikkei.com/article/DGXZQO...
- 
-新千歳では、国際線の就航便数が前年比1〜2割増える見通し。函館や帯広などほかの道内空港でも韓国や台湾を結ぶ路線が増え、好調が続きます。
-
-[2025-12-08 11:01:56](https://bsky.app/profile/nikkei.com/post/3m7gwr2t7ma2l)
-
----
-
-@usatoday.com
-
-Will De'Von Achane return after injuring his ribs vs. the Jets? Miami has listed him as questionable to return.
-
-[2025-12-08 11:00:51](https://bsky.app/profile/usatoday.com/post/3m7gwp4ekqm2u)
+[2025-12-08 11:10:19](https://bsky.app/profile/sokuho.news/post/3m7gxa352u52y)
 
 ---
 
 @reuters.com
 
-Contemporary Era committee elects Jeff Kent to Baseball Hall of Fame reut.rs/44d0MAG
+Chinese carrier conducting intense air operations near Japan, Tokyo says reut.rs/4oH7qXc
 
-[2025-12-08 11:00:42](https://bsky.app/profile/reuters.com/post/3m7gwouklnj22)
-
----
-
-@nbcnews.com
-
-Trump said that the proposed merger between Netflix and Warner Bros. Discovery "could be a problem" because of the amount of market share the resulting company would have.
-
-[2025-12-08 11:00:27](https://bsky.app/profile/nbcnews.com/post/3m7gwofaxaq2j)
+[2025-12-08 11:10:10](https://bsky.app/profile/reuters.com/post/3m7gx7rj5yw2e)
 
 ---
 
-@cnn.com
+@wsj.com
 
-Nigeria’s government has secured the release of 100 schoolchildren who were abducted last month in Niger state in one of the country’s worst mass kidnappings to date, local broadcaster Channels Television reported. 
+Artist Chase Hall and designer Lauren Rodriguez Hall find creativity and comfort in their antique-filled home in the Hudson Valley.
 
-[2025-12-08 11:00:08](https://bsky.app/profile/cnn.com/post/3m7gwnu4gaq2q)
-
----
-
-@washingtonpost.com
-
-Experts say safe storage of cannabis products and limits on packaging that uses bright colors and cartoon characters are critical to making them less enticing to young children.
-
-[2025-12-08 11:00:07](https://bsky.app/profile/washingtonpost.com/post/3m7gwnsmjmm2j)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【動画】各地の紅葉 京都御所 名古屋 徳川園
-https://news.web.nhk/newsweb/na/na-k10014990441000
-
-[2025-12-08 10:54:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7gwcz4fjo2b)
+[2025-12-08 11:07:28](https://bsky.app/profile/wsj.com/post/3m7gx2xlnnn22)
 
 ---
 
