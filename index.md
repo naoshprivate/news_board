@@ -1,9 +1,9 @@
-# [2025-12-09 05:10 updated](2025_12_09.md)
+# [2025-12-09 05:30 updated](2025_12_09.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NBA star Terry Rozier of the Miami Heat pleaded not guilty to federal charges Monday, the last of the basketball players tied to alleged illegal-mafia linked gambling rings to appear before a judge in a Brooklyn federal courtroom. <a href="https://bsky.app/profile/cbsnews.com/post/3m7ith4v7pt26" target="_blank">cbsnews.com</a> (2025-12-09 05:08:01)</span><span style="padding-right:50px;">With job prospects grim and AI spreading, internships and co-ops have become even more important for college students preparing for the labor market. For my latest @forbes.com, we narrowed down the 15 Top Colleges helping students launch their careers. www.forbes.com/sites/mariag... <a href="https://bsky.app/profile/mgsantillanal.bsky.social/post/3m7itdfpttk2n" target="_blank">mgsantillanal.bsky.social</a> (2025-12-09 05:05:56)</span><span style="padding-right:50px;">Will Trump's Fed pick slash rates? The market doesn't think so reut.rs/48r4WYj <a href="https://bsky.app/profile/reuters.com/post/3m7itbwgz2t2w" target="_blank">reuters.com</a> (2025-12-09 05:05:06)</span><span style="padding-right:50px;">Zohran Mamdani’s field operation embraced outreach and de-emphasized scripts in its strategy to reach voters directly, said eight campaign officials, volunteers and political observers, offering a potential road map for Democratic canvassing efforts in the midterm elections and beyond. <a href="https://bsky.app/profile/nbcnews.com/post/3m7itbsxf2r2r" target="_blank">nbcnews.com</a> (2025-12-09 05:05:03)</span><span style="padding-right:50px;">The owner says he’s met stars such as Tom Cruise and Margot Robbie while the 5,600-acre property was being used as a filming location. on.wsj.com/4pypMLy <a href="https://bsky.app/profile/wsj.com/post/3m7it4kg2wd2p" target="_blank">wsj.com</a> (2025-12-09 05:02:06)</span>
+<span style="padding-right:50px;">A study published in the Journal of the American Medical Association finds more parents are refusing vitamin K shots for their newborns. The study included more than 5 million babies born in 403 hospitals in all 50 states, from 2017 through 2024. <a href="https://bsky.app/profile/nbcnews.com/post/3m7iuhef4l422" target="_blank">nbcnews.com</a> (2025-12-09 05:26:03)</span><span style="padding-right:50px;">UK stocks dip ahead of Fed, BoE rate decisions reut.rs/3KuCRWR <a href="https://bsky.app/profile/reuters.com/post/3m7iufn5wev2d" target="_blank">reuters.com</a> (2025-12-09 05:25:05)</span><span style="padding-right:50px;">Breaking news: Ukraine will not surrender territory, President Zelensky declared, rejecting a central Russian demand that President Trump had incorporated into his latest proposal to end the Kremlin’s war. <a href="https://bsky.app/profile/washingtonpost.com/post/3m7iufateka2j" target="_blank">washingtonpost.com</a> (2025-12-09 05:24:52)</span><span style="padding-right:50px;">Google to launch first of its AI glasses in 2026 <a href="https://bsky.app/profile/cnbc.com/post/3m7iuf3j5bq2j" target="_blank">cnbc.com</a> (2025-12-09 05:24:46)</span><span style="padding-right:50px;">From @theathletic.com: Ilia Malinin, the 21-year-old American figure skater who hasn’t lost in more than two years, set a world record at the last major international event before the Winter Olympics. nyti.ms/4pTRjqa <a href="https://bsky.app/profile/nytimes.com/post/3m7iudsqv6y2y" target="_blank">nytimes.com</a> (2025-12-09 05:24:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47682.91 (🔻288.60 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23486.51 (🔻151.70 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 184.48 (🔺1.85 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.91 (🔺0.76 : 2025-12-08)</span>
+<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47698.54 (🔻272.97 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23506.12 (🔻132.09 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 184.89 (🔺2.26 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.88 (🔺0.74 : 2025-12-08)</span>
   </div>
 </div>
 
@@ -32,94 +32,96 @@
 
 ## News Headlines
 
-1. 連邦裁判所で嘘の麻雀の賭博に関連するバスケットボール選手が有罪を否認
-2. 15の大学が最もキャリアを創出する学生に適しています
-3. 連邦準備理事会の新しい会長は金利を下げるかもしれないが、市場はそれが期待されている
-4. イランの女性がヘッダーを脱いだ写真がSNSで拡散したため、イランのマラソン大会の責任者2人が逮捕された
-5. ソフトバンクとNVIDIAはAIの会社Skildに投資する計画
-6. インドネシアは初めての国産のジャイアントパンダの仔を誕生させた
+1. バイタミンK注射を受ける親は増えている
+2. 英国株が下がり、FedとBoEの利子決定を前に
+3. ウクライナ、ロシアの要求を拒否するゼレンスキー大統領
+4. GoogleがAI眼鏡を2026年に発表
+5. アメリカのフィギュアスケート選手、世界記録を樹立
+6. インド、初めてローカルに生まれた大熊猫が誕生
 
 ----
 
-@cbsnews.com
+@nbcnews.com
 
-NBA star Terry Rozier of the Miami Heat pleaded not guilty to federal charges Monday, the last of the basketball players tied to alleged illegal-mafia linked gambling rings to appear before a judge in a Brooklyn federal courtroom.
+A study published in the Journal of the American Medical Association finds more parents are refusing vitamin K shots for their newborns. The study included more than 5 million babies born in 403 hospitals in all 50 states, from 2017 through 2024.
 
-[2025-12-09 05:08:01](https://bsky.app/profile/cbsnews.com/post/3m7ith4v7pt26)
-
----
-
-@mgsantillanal.bsky.social
-
-With job prospects grim and AI spreading, internships and co-ops have become even more important for college students preparing for the labor market. For my latest @forbes.com, we narrowed down the 15 Top Colleges helping students launch their careers. www.forbes.com/sites/mariag...
-
-[2025-12-09 05:05:56](https://bsky.app/profile/mgsantillanal.bsky.social/post/3m7itdfpttk2n)
+[2025-12-09 05:26:03](https://bsky.app/profile/nbcnews.com/post/3m7iuhef4l422)
 
 ---
 
 @reuters.com
 
-Will Trump's Fed pick slash rates? The market doesn't think so reut.rs/48r4WYj
+UK stocks dip ahead of Fed, BoE rate decisions reut.rs/3KuCRWR
 
-[2025-12-09 05:05:06](https://bsky.app/profile/reuters.com/post/3m7itbwgz2t2w)
-
----
-
-@nbcnews.com
-
-Zohran Mamdani’s field operation embraced outreach and de-emphasized scripts in its strategy to reach voters directly, said eight campaign officials, volunteers and political observers, offering a potential road map for Democratic canvassing efforts in the midterm elections and beyond.
-
-[2025-12-09 05:05:03](https://bsky.app/profile/nbcnews.com/post/3m7itbsxf2r2r)
-
----
-
-@wsj.com
-
-The owner says he’s met stars such as Tom Cruise and Margot Robbie while the 5,600-acre property was being used as a filming location. on.wsj.com/4pypMLy
-
-[2025-12-09 05:02:06](https://bsky.app/profile/wsj.com/post/3m7it4kg2wd2p)
-
----
-
-@nbcnews.com
-
-Two of the main organizers of a marathon in Iran have been arrested after pictures circulated on social media showing women competing without the mandatory headscarf.
-
-[2025-12-09 05:01:17](https://bsky.app/profile/nbcnews.com/post/3m7it33pm4d2j)
-
----
-
-@reuters.com
-
-Exclusive: SoftBank, Nvidia looking to invest in Skild AI at $14 billion valuation, sources say reut.rs/3YjTW8Y
-
-[2025-12-09 05:01:13](https://bsky.app/profile/reuters.com/post/3m7it2yb4kx2n)
-
----
-
-@aljazeera.com
-
-The project, set to be completed in six years, is the first of its kind between the two Gulf nations.
-
-[2025-12-09 05:01:02](https://bsky.app/profile/aljazeera.com/post/3m7it2nrkmm2c)
+[2025-12-09 05:25:05](https://bsky.app/profile/reuters.com/post/3m7iufn5wev2d)
 
 ---
 
 @washingtonpost.com
 
-Indonesia welcomed its first locally born giant panda cub.
+<strong><span style="color: red;">Breaking news:</span> Ukraine will not surrender territory, President Zelensky declared, rejecting a central Russian demand that President Trump had incorporated into his latest proposal to end the Kremlin’s war.</strong>
 
-The park where he was born described his birth as a “historic milestone.” https://wapo.st/4pNk4os
-
-[2025-12-09 05:00:57](https://bsky.app/profile/washingtonpost.com/post/3m7it2iqyow23)
+[2025-12-09 05:24:52](https://bsky.app/profile/washingtonpost.com/post/3m7iufateka2j)
 
 ---
 
-@usatoday.com
+@cnbc.com
 
-While a rate cut is expected, it's not guaranteed as division grows among Fed officials and they remain without recent key economic data.
+Google to launch first of its AI glasses in 2026
 
-[2025-12-09 05:00:44](https://bsky.app/profile/usatoday.com/post/3m7it23vha42p)
+[2025-12-09 05:24:46](https://bsky.app/profile/cnbc.com/post/3m7iuf3j5bq2j)
+
+---
+
+@nytimes.com
+
+From @theathletic.com: Ilia Malinin, the 21-year-old American figure skater who hasn’t lost in more than two years, set a world record at the last major international event before the Winter Olympics. nyti.ms/4pTRjqa
+
+[2025-12-09 05:24:03](https://bsky.app/profile/nytimes.com/post/3m7iudsqv6y2y)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+皇后さま 62歳の誕生日
+https://news.web.nhk/newsweb/na/na-k10014997751000
+
+[2025-12-09 05:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7iudtirnq2p)
+
+---
+
+@nytimes.com
+
+“Easiest and best mac and cheese I’ve ever made!” Julia Moskin’s brilliant hack for a rouxless macaroni and cheese? Cottage cheese.
+
+[2025-12-09 05:23:00](https://bsky.app/profile/nytimes.com/post/3m7iubwigww2x)
+
+---
+
+@wsj.com
+
+The Supreme Court seemed poised to expand the president’s power to fire the heads of many regulatory agencies, even as one pivotal justice expressed a desire to preserve the Fed from politics.
+
+[2025-12-09 05:22:21](https://bsky.app/profile/wsj.com/post/3m7iuaqu2v42r)
+
+---
+
+@cbsnews.com
+
+A court in Russian-controlled Ukraine sentenced four Russian soldiers to jail on Monday for the killing of an American communist who had fought with pro-Moscow forces since 2014.
+
+
+
+[2025-12-09 05:20:01](https://bsky.app/profile/cbsnews.com/post/3m7iu4lakh52y)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【震度5強】北海道の被害の状況 日高町と苫小牧市で3人けが
+https://news.web.nhk/newsweb/na/na-k10014998321000
+
+[2025-12-09 05:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7itz43nqb2g)
 
 ---
 
