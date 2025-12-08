@@ -1,9 +1,9 @@
-# [2025-12-09 02:50 updated](2025_12_09.md)
+# [2025-12-09 03:10 updated](2025_12_09.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🔔FNNより【速報】です。  北海道太平洋沿岸中部､青森県太平洋沿岸､岩手県に出ていた 津波警報をすべて注意報に切り替え 気象庁 (2025-12-09) #ニュース  ⬛津波情報 🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami <a href="https://bsky.app/profile/sokuho.news/post/3m7ilnhawwh27" target="_blank">sokuho.news</a> (2025-12-09 02:48:23)</span><span style="padding-right:50px;">🔔NHKより【速報】です。  北海道・東北の津波警報は注意報に 津波注意報は継続 気象庁 (2025-12-09 02:45) #ニュース  ⬛津波情報 🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami <a href="https://bsky.app/profile/sokuho.news/post/3m7ilijs45u2q" target="_blank">sokuho.news</a> (2025-12-09 02:45:38)</span><span style="padding-right:50px;">Trump to unveil $12 billion aid package for farmers hit by trade war reut.rs/4rL5Y8S <a href="https://bsky.app/profile/reuters.com/post/3m7ilhrhyeq27" target="_blank">reuters.com</a> (2025-12-09 02:45:13)</span><span style="padding-right:50px;">🔔NHKより【津波速報】です。  ■津波注意報■北海道太平洋沿岸東部 北海道太平洋沿岸中部 ■津波注意報■北海道太平洋沿岸西部 青森県太平洋沿岸 岩手県 ■津波注意報■宮城県 福島県 青森県日本海沿岸 (2025-12-09 02:45) #ニュース  ⬛津波情報 🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami <a href="https://bsky.app/profile/sokuho.news/post/3m7ilhrbfql2e" target="_blank">sokuho.news</a> (2025-12-09 02:45:12)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】北日本太平洋沿岸などに津波注意報 (2025-12-09) #ニュース  ⬛津波情報 🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami <a href="https://bsky.app/profile/sokuho.news/post/3m7ilhq6zeg26" target="_blank">sokuho.news</a> (2025-12-09 02:45:11)</span>
+<span style="padding-right:50px;">いじめによる重大事態が過去最多 3割余は学校側いじめ認識せず https://news.web.nhk/newsweb/na/na-k10014997811000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7imsh2r4s2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 03:09:02)</span><span style="padding-right:50px;">BREAKING: The Supreme Court seems likely to expand the president's power and back President Trump's firing of independent-agency board members.  <a href="https://bsky.app/profile/apnews.com/post/3m7imns3g2w2r" target="_blank">apnews.com</a> (2025-12-09 03:06:28)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】岩手・普代村に「避難指示」 9日2:45時点 (2025-12-09 03:03:00) #ニュース  🟪避難情報 🔗https://crisis.yahoo.co.jp/evacuation/03/ <a href="https://bsky.app/profile/sokuho.news/post/3m7immzotfz2l" target="_blank">sokuho.news</a> (2025-12-09 03:06:03)</span><span style="padding-right:50px;">【震度6強】八戸など青森県の被害の状況 6人けが(9日1:00) https://news.web.nhk/newsweb/na/na-k10014998111000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7imn2lrfy2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 03:06:02)</span><span style="padding-right:50px;">IBM accelerates cloud drive with $11 billion Confluent deal as AI demand booms reut.rs/4aEeQXP <a href="https://bsky.app/profile/reuters.com/post/3m7imlfne4i22" target="_blank">reuters.com</a> (2025-12-09 03:05:08)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47748.34 (🔻223.17 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23519.80 (🔻118.42 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 183.17 (🔺0.54 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.75 (🔺0.60 : 2025-12-08)</span>
+<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47720.08 (🔻251.43 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23575.29 (🔻62.93 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 187.60 (🔺4.97 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.74 (🔺0.59 : 2025-12-08)</span>
   </div>
 </div>
 
@@ -32,126 +32,113 @@
 
 ## News Headlines
 
-1.  北海道・三陸沖後発地震注意情報を発表
-2.  津波警報、注意報が発令
-3.  ドナルド・トランプ米大統領「12億ドルを農家に支払う計画」
-4.  アメリカの国立公園への入場料が無料
-5.  英国、フランス、ドイツがウクライナのゼレンスキー大統領と協力継続を表明
-6.  米国で新型AIルールを導入
+1. 岩手県に避難指示が出る
+2. 青森県で最大震度6強の地震が発生
+3. 11億ドルにわたるクラウドコンピューティングの買収でIBMがAIの需要を加速させる
+4. 高市首相「現時点で負傷者7人と報告受けている」
+5. 11億ドルの農家救済金を発表する予定のトランプ大統領
+6. 国会議員が防衛費を増やすことを強く求める
 
 ----
 
-@sokuho.news
+@nhknewsunofficial.bsky.social
 
-🔔FNNより【速報】です。
+いじめによる重大事態が過去最多 3割余は学校側いじめ認識せず
+https://news.web.nhk/newsweb/na/na-k10014997811000
 
-北海道太平洋沿岸中部､青森県太平洋沿岸､岩手県に出ていた 津波警報をすべて注意報に切り替え 気象庁
-(2025-12-09) #ニュース
+[2025-12-09 03:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7imsh2r4s2b)
 
-⬛津波情報
-🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami
+---
 
-[2025-12-09 02:48:23](https://bsky.app/profile/sokuho.news/post/3m7ilnhawwh27)
+@apnews.com
+
+<strong><span style="color: red;">BREAKING:</span> The Supreme Court seems likely to expand the president's power and back President Trump's firing of independent-agency board members. </strong>
+
+[2025-12-09 03:06:28](https://bsky.app/profile/apnews.com/post/3m7imns3g2w2r)
 
 ---
 
 @sokuho.news
 
-🔔NHKより【速報】です。
+🛎️JNNより【速報】です。
 
-北海道・東北の津波警報は注意報に 津波注意報は継続 気象庁
-(2025-12-09 02:45) #ニュース
+【速報】岩手・普代村に「避難指示」 9日2:45時点
+(2025-12-09 03:03:00) #ニュース
 
-⬛津波情報
-🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami
+🟪避難情報
+🔗https://crisis.yahoo.co.jp/evacuation/03/
 
-[2025-12-09 02:45:38](https://bsky.app/profile/sokuho.news/post/3m7ilijs45u2q)
+[2025-12-09 03:06:03](https://bsky.app/profile/sokuho.news/post/3m7immzotfz2l)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【震度6強】八戸など青森県の被害の状況 6人けが(9日1:00)
+https://news.web.nhk/newsweb/na/na-k10014998111000
+
+[2025-12-09 03:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7imn2lrfy2j)
 
 ---
 
 @reuters.com
 
-Trump to unveil $12 billion aid package for farmers hit by trade war reut.rs/4rL5Y8S
+IBM accelerates cloud drive with $11 billion Confluent deal as AI demand booms reut.rs/4aEeQXP
 
-[2025-12-09 02:45:13](https://bsky.app/profile/reuters.com/post/3m7ilhrhyeq27)
+[2025-12-09 03:05:08](https://bsky.app/profile/reuters.com/post/3m7imlfne4i22)
+
+---
+
+@forbes.com
+
+Up to $11 billion of the funds will be reserved for farmers of row crops, including soybeans, who were hit hard during a tariff dispute earlier this year.
+
+[2025-12-09 03:05:02](https://bsky.app/profile/forbes.com/post/3m7imlabrph2m)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+高市首相「現時点で負傷者7人と報告受けている」
+https://news.web.nhk/newsweb/na/na-k10014998361000
+
+[2025-12-09 03:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7imhovsnn2k)
 
 ---
 
 @sokuho.news
 
-🔔NHKより【津波速報】です。
+🔔防災科研より【強震モニタ】動画です。
 
-■津波注意報■北海道太平洋沿岸東部 北海道太平洋沿岸中部
-■津波注意報■北海道太平洋沿岸西部 青森県太平洋沿岸 岩手県
-■津波注意報■宮城県 福島県 青森県日本海沿岸
-(2025-12-09 02:45) #ニュース
+震源:青森県東方沖, 深さ:20km
+マグニチュード:4.3, 最大震度:1
+📍https://www.google.com/maps?q=41.0,143.2&ll=41.0,143.2&z=7&t=h
+地震発生日時:2025-12-09 02:58頃
+(10倍速▶180s→18s) #地震
 
-⬛津波情報
-🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami
-
-[2025-12-09 02:45:12](https://bsky.app/profile/sokuho.news/post/3m7ilhrbfql2e)
-
----
-
-@sokuho.news
-
-🔔ANNより【速報】です。
-
-【速報】北日本太平洋沿岸などに津波注意報
-(2025-12-09) #ニュース
-
-⬛津波情報
-🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami
-
-[2025-12-09 02:45:11](https://bsky.app/profile/sokuho.news/post/3m7ilhq6zeg26)
-
----
-
-@en.afp.com
-
-US residents will be able to enter America's national parks like the Grand Canyon and Yosemite for free on President Donald Trump's birthday, in the latest move by his administration to elevate his profile
-🇺🇸 🏞️ 
-
-u.afp.com/S7GC
-
-[2025-12-09 02:45:04](https://bsky.app/profile/en.afp.com/post/3m7ilhirnh72c)
-
----
-
-@cbsnews.com
-
-Ukraine's Zelenskyy seeks European solidarity as Trump accuses him of not reading peace proposal
-
-
-[2025-12-09 02:45:01](https://bsky.app/profile/cbsnews.com/post/3m7ilhg2kvq2n)
-
----
-
-@sokuho.news
-
-🔔原子力規制委員会より【Nアラート】です。
-
-【緊急情報】異常なし(第3報)青森県東方沖で発生した地震の影響
-(2025/12/09 02:42)
-🔗https://kinkyu.nra.go.jp/m/sp/kinkyu/2025/12/post-122.html
-
-[2025-12-09 02:44:29](https://bsky.app/profile/sokuho.news/post/3m7ilgidk7d2p)
+[2025-12-09 03:02:52](https://bsky.app/profile/sokuho.news/post/3m7imhdzcru2y)
 
 ---
 
 @cnbc.com
 
-Stocks making the biggest moves midday: Paramount Skydance, Wave Lifesciences, Confluent & more
+Can AI make you the next Warren Buffett? One bank is working to find out
 
-[2025-12-09 02:44:20](https://bsky.app/profile/cnbc.com/post/3m7ilg7d64p2x)
+[2025-12-09 03:02:41](https://bsky.app/profile/cnbc.com/post/3m7imgz7xa42f)
 
 ---
 
-@cnbc.com
+@sokuho.news
 
-NextEra working with Exxon to develop gigawatt data center for hyperscaler
+🔔気象庁より【地震速報】です。
 
-[2025-12-09 02:43:11](https://bsky.app/profile/cnbc.com/post/3m7ile5sbjx2x)
+2時58分頃、青森県・北海道・岩手県で最大震度1の地震を観測しました。
+震源:青森県東方沖, 深さ:20km, 規模:M4.3
+津波警報等（大津波警報・津波警報あるいは津波注意報）を発表中で…
+(2025-12-09 03:02:15) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/09/2025-12-09-02-58-31.html?xlarge_image=1
+
+[2025-12-09 03:02:16](https://bsky.app/profile/sokuho.news/post/3m7imgbwofd2y)
 
 ---
 
