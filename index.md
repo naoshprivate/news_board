@@ -1,9 +1,9 @@
-# [2025-12-08 14:10 updated](2025_12_08.md)
+# [2025-12-08 14:30 updated](2025_12_08.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">In a high-profile interview, Rep. Marjorie Taylor Greene bashed Trump, accusing him of inciting death threats against her and her son and failing to live up to his campaign pledge to focus on improving the lives of Americans. <a href="https://bsky.app/profile/nbcnews.com/post/3m7hb7ghv4327" target="_blank">nbcnews.com</a> (2025-12-08 14:08:56)</span><span style="padding-right:50px;">ちよだ鮨が冷凍すしを輸出へ　アメリカは職人不足、「解凍するだけ」で握る商機 www.nikkei.com/article/DGXZQO...   現地ですし食は日常食。一方で、JETROロサンゼルス事務所の和波拓郎氏は「アメリカのすし職人には修行という発想がない」といい人材定着が難しいといいます。   現地で作られたロールずしは平均的に16〜18ドル（約2500〜2800円）。ちよだ鮨は日本で、にぎりずしを8貫1000円弱で販売しており、関税などのコストがかかっても引き合いはあるとみています。 <a href="https://bsky.app/profile/nikkei.com/post/3m7haswgz7i2z" target="_blank">nikkei.com</a> (2025-12-08 14:01:56)</span><span style="padding-right:50px;">GOP Rep. Marjorie Taylor Greene stood defiant in her first interview since announcing her resignation from Congress, making clear she’s not afraid to speak out on the issues that made President Trump “furious” with her, including her support for releasing all files related to Jeffrey Epstein. <a href="https://bsky.app/profile/cnn.com/post/3m7harbv6bx2h" target="_blank">cnn.com</a> (2025-12-08 14:01:01)</span><span style="padding-right:50px;">Indonesia says more than $3 billion in recovery funds required after Sumatra floods reut.rs/48WiYRI <a href="https://bsky.app/profile/reuters.com/post/3m7haqscgh62y" target="_blank">reuters.com</a> (2025-12-08 14:00:45)</span><span style="padding-right:50px;">When your kid is in the middle of a tantrum, logic and lectures don’t work.  Research shows that during emotional overwhelm, a child’s prefrontal cortex essentially goes offline.  These seven magic phrases work with your child’s nervous system, says Reem Raouda, a child psychologist. <a href="https://bsky.app/profile/cnbc.com/post/3m7haqqavpu2h" target="_blank">cnbc.com</a> (2025-12-08 14:00:43)</span>
+<span style="padding-right:50px;">タイ軍“カンボジア軍施設など空爆” カンボジア“反撃せず” https://news.web.nhk/newsweb/na/na-k10014997211000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7hc7unmma2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-08 14:27:02)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】京都府警本部長かたり「身分証明の件で電話」 特殊詐欺に悪用か 本物の本部長「決してだまされないように」 (2025-12-08 14:22:42) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7hc56is2g26" target="_blank">sokuho.news</a> (2025-12-08 14:25:34)</span><span style="padding-right:50px;">Deutsche Bank seeks 40% pay bump for highest-paid chair in Dax on.ft.com/4pSLUjh <a href="https://bsky.app/profile/financialtimes.com/post/3m7hbzdwbpx2q" target="_blank">financialtimes.com</a> (2025-12-08 14:23:25)</span><span style="padding-right:50px;">Both sides accused the other of breaking a ceasefire that halted fighting earlier this year. Longstanding border disputes erupted into five days of combat in July that killed dozens. n.pr/4q073Z3 <a href="https://bsky.app/profile/npr.org/post/3m7hby444lx2i" target="_blank">npr.org</a> (2025-12-08 14:22:44)</span><span style="padding-right:50px;">韓国の国会議長“長生炭鉱で見つかった人骨 DNA鑑定の実施を” https://news.web.nhk/newsweb/na/na-k10014997331000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7hbv67m2x2n" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-08 14:21:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50534.75 (🔻108.34 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3046.00 (🔻4.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.11 (🔻0.03 : 2025-12-08)</span>
+<span style="padding-right:50px;">NIKKEI: 50506.66 (🔻136.43 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3047.00 (🔻3.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.21 (🔺0.06 : 2025-12-08)</span>
   </div>
 </div>
 
@@ -32,96 +32,23 @@
 
 ## News Headlines
 
-Here are six important stories from the news with their headlines in English:
+Here are six important stories with headlines in English:
 
-1. Trump Accused of Inciting Death Threats Against Marjorie Taylor Greene
-2. Indonesia Seeks $3 Billion in Recovery Funds After Sumatra Floods
+1. Thailand and Cambodia Military Clash Over Border Dispute
+2. Deutsche Bank Seeks 40% Pay Bump for Highest-Paid Chair
 3. China's Yuan Climbs on Better Export Data, Eyes on Key Meetings
-4. Demonstrators March in Brazil, Calling for an End to Femicide, Rape, and Misogyny
-5. World Bank Says Myanmar Economy Set for Growth Rebound
-6. China's Trade Surplus Tops $1 Trillion for First Time
+4. Indonesia Says More Than $3 Billion in Recovery Funds Required After Sumatra Floods
+5. GOP Rep. Marjorie Taylor Greene Defiant in First Interview Since Announcing Resignation
+6. China's Rare Earth Exports Jump in November After Xi-Trump Meeting
 
 ----
 
-@nbcnews.com
-
-In a high-profile interview, Rep. Marjorie Taylor Greene bashed Trump, accusing him of inciting death threats against her and her son and failing to live up to his campaign pledge to focus on improving the lives of Americans.
-
-[2025-12-08 14:08:56](https://bsky.app/profile/nbcnews.com/post/3m7hb7ghv4327)
-
----
-
-@nikkei.com
-
-ちよだ鮨が冷凍すしを輸出へ　アメリカは職人不足、「解凍するだけ」で握る商機
-www.nikkei.com/article/DGXZQO...
- 
-現地ですし食は日常食。一方で、JETROロサンゼルス事務所の和波拓郎氏は「アメリカのすし職人には修行という発想がない」といい人材定着が難しいといいます。
- 
-現地で作られたロールずしは平均的に16〜18ドル（約2500〜2800円）。ちよだ鮨は日本で、にぎりずしを8貫1000円弱で販売しており、関税などのコストがかかっても引き合いはあるとみています。
-
-[2025-12-08 14:01:56](https://bsky.app/profile/nikkei.com/post/3m7haswgz7i2z)
-
----
-
-@cnn.com
-
-GOP Rep. Marjorie Taylor Greene stood defiant in her first interview since announcing her resignation from Congress, making clear she’s not afraid to speak out on the issues that made President Trump “furious” with her, including her support for releasing all files related to Jeffrey Epstein.
-
-[2025-12-08 14:01:01](https://bsky.app/profile/cnn.com/post/3m7harbv6bx2h)
-
----
-
-@reuters.com
-
-Indonesia says more than $3 billion in recovery funds required after Sumatra floods reut.rs/48WiYRI
-
-[2025-12-08 14:00:45](https://bsky.app/profile/reuters.com/post/3m7haqscgh62y)
-
----
-
-@cnbc.com
-
-When your kid is in the middle of a tantrum, logic and lectures don’t work.
-
-Research shows that during emotional overwhelm, a child’s prefrontal cortex essentially goes offline.
-
-These seven magic phrases work with your child’s nervous system, says Reem Raouda, a child psychologist.
-
-[2025-12-08 14:00:43](https://bsky.app/profile/cnbc.com/post/3m7haqqavpu2h)
-
----
-
-@aljazeera.com
-
-Demonstrators march in Rio de Janeiro, Sao Paulo and other cities, calling for an end to femicide, rape and misogyny.
-
-[2025-12-08 14:00:25](https://bsky.app/profile/aljazeera.com/post/3m7haq7il272d)
-
----
-
-@washingtonpost.com
-
-Tech founders have traditionally eschewed business norms. But the expectations of how a tech founder looks and acts, and the role models of Silicon Valley success are shifting as the industry gains power and influence.
-
-[2025-12-08 14:00:09](https://bsky.app/profile/washingtonpost.com/post/3m7hapqbbho2s)
-
----
-
 @nhknewsunofficial.bsky.social
 
-立民 「人身取引」の罰則強化 刑法など改正案を衆院に提出
-https://news.web.nhk/newsweb/na/na-k10014997341000
+タイ軍“カンボジア軍施設など空爆” カンボジア“反撃せず”
+https://news.web.nhk/newsweb/na/na-k10014997211000
 
-[2025-12-08 13:54:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7haeugv2i2r)
-
----
-
-@reuters.com
-
-China's yuan climbs on better export data; eyes on key meetings reut.rs/3KIw4J0
-
-[2025-12-08 13:50:21](https://bsky.app/profile/reuters.com/post/3m7ha67rgdo2i)
+[2025-12-08 14:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7hc7unmma2j)
 
 ---
 
@@ -129,13 +56,79 @@ China's yuan climbs on better export data; eyes on key meetings reut.rs/3KIw4J0
 
 🛎️JNNより【速報】です。
 
-【速報】中央本線・上り 甲府～大月 運転を見合わせ 架線に支障物 午後1時16分発表
-(2025-12-08 13:45:00) #ニュース
+【速報】京都府警本部長かたり「身分証明の件で電話」 特殊詐欺に悪用か 本物の本部長「決してだまされないように」
+(2025-12-08 14:22:42) #ニュース
 
-🚃鉄道運行情報
-🔗https://transit.yahoo.co.jp/diainfo
+[2025-12-08 14:25:34](https://bsky.app/profile/sokuho.news/post/3m7hc56is2g26)
 
-[2025-12-08 13:49:15](https://bsky.app/profile/sokuho.news/post/3m7ha4ailos27)
+---
+
+@financialtimes.com
+
+Deutsche Bank seeks 40% pay bump for highest-paid chair in Dax on.ft.com/4pSLUjh
+
+[2025-12-08 14:23:25](https://bsky.app/profile/financialtimes.com/post/3m7hbzdwbpx2q)
+
+---
+
+@npr.org
+
+Both sides accused the other of breaking a ceasefire that halted fighting earlier this year. Longstanding border disputes erupted into five days of combat in July that killed dozens. n.pr/4q073Z3
+
+[2025-12-08 14:22:44](https://bsky.app/profile/npr.org/post/3m7hby444lx2i)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+韓国の国会議長“長生炭鉱で見つかった人骨 DNA鑑定の実施を”
+https://news.web.nhk/newsweb/na/na-k10014997331000
+
+[2025-12-08 14:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7hbv67m2x2n)
+
+---
+
+@reuters.com
+
+From Breakingviews - Breakingviews - India flies into airline turbulence of own making reut.rs/4rDlsMd
+
+[2025-12-08 14:20:11](https://bsky.app/profile/reuters.com/post/3m7hbtkhmn72i)
+
+---
+
+@financialtimes.com
+
+France shielding €18bn Russian asset pot from EU ‘reparations loan’ push on.ft.com/3YaSFkG
+
+[2025-12-08 14:19:37](https://bsky.app/profile/financialtimes.com/post/3m7hbsjpb3p2w)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+高校生など扶養する人の扶養控除 維新“吉村代表が縮小反対”
+https://news.web.nhk/newsweb/na/na-k10014997361000
+
+[2025-12-08 14:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7hbkg6naq2j)
+
+---
+
+@en.afp.com
+
+Singer Katy Perry and Canada's Justin Trudeau make romance official
+
+u.afp.com/S7q3
+
+[2025-12-08 14:12:24](https://bsky.app/profile/en.afp.com/post/3m7hbfnk4tj2y)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+1週間ニュース 「今年の漢字」を予想 どう決まる? 傾向は
+https://news.web.nhk/newsweb/na/na-k10014996031000
+
+[2025-12-08 14:12:04](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7hbf3w6uy2t)
 
 ---
 
