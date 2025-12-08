@@ -1,9 +1,9 @@
-# [2025-12-08 23:50 updated](2025_12_08.md)
+# [2025-12-09 00:10 updated](2025_12_09.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】青森県東方沖30キロ沖合で津波を観測 (2025-12-08 23:46) #ニュース  ⬛津波情報 🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami <a href="https://bsky.app/profile/sokuho.news/post/3m7ibjn2okl2w" target="_blank">sokuho.news</a> (2025-12-08 23:47:18)</span><span style="padding-right:50px;">SNB to hold policy rate at zero through 2026; negative rates unlikely, say economists: Reuters poll reut.rs/48ErXWl <a href="https://bsky.app/profile/reuters.com/post/3m7ibfqwq5l2d" target="_blank">reuters.com</a> (2025-12-08 23:45:08)</span><span style="padding-right:50px;">青森県で震度6強 各地の原発など 異常ないか確認中 https://news.web.nhk/newsweb/na/na-k10014997871000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ibfndsdc2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-08 23:45:02)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:青森県東方沖, 深さ:50km マグニチュード:3.6, 最大震度:1 📍https://www.google.com/maps?q=41.0,142.1&ll=41.0,142.1&z=7&t=h 地震発生日時:2025-12-08 23:40頃 (10倍速▶120s→12s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m7ibfa2ndn2l" target="_blank">sokuho.news</a> (2025-12-08 23:44:49)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  23時40分頃、青森県で最大震度1の地震を観測しました。 震源:青森県東方沖, 深さ:50km, 規模:M3.6 津波警報等（大津波警報・津波警報あるいは津波注意報）を発表中で… (2025-12-08 23:44:20) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/08/2025-12-08-23-41-09.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3m7ibeg2bq524" target="_blank">sokuho.news</a> (2025-12-08 23:44:22)</span>
+<span style="padding-right:50px;">Here's who gets Social Security payments this week on Dec. 10 <a href="https://bsky.app/profile/usatoday.com/post/3m7icqtapit2u" target="_blank">usatoday.com</a> (2025-12-09 00:09:13)</span><span style="padding-right:50px;">【避難情報】北海道 新冠町 沿岸部の2024世帯3650人に避難指示 https://news.web.nhk/newsweb/na/na-k10014997971000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7icqld33x2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 00:09:02)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】岩手・普代村に「避難指示」 7日23:23時点 (2025-12-09 00:05:00) #ニュース  🟪避難情報 🔗https://crisis.yahoo.co.jp/evacuation/03/ <a href="https://bsky.app/profile/sokuho.news/post/3m7icpqoxf62l" target="_blank">sokuho.news</a> (2025-12-09 00:08:37)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】岩手・田野畑村に「避難指示」 7日23:23時点 (2025-12-09 00:05:00) #ニュース  🟪避難情報 🔗https://crisis.yahoo.co.jp/evacuation/03/ <a href="https://bsky.app/profile/sokuho.news/post/3m7icpitod22y" target="_blank">sokuho.news</a> (2025-12-09 00:08:28)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】北海道・浦河で0.4mの津波を観測 北海道・東北地方に津波警報発表 (2025-12-09 00:02) #ニュース  ⬛津波情報 🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami <a href="https://bsky.app/profile/sokuho.news/post/3m7icpcr5vk24" target="_blank">sokuho.news</a> (2025-12-09 00:08:22)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47877.50 (🔻94.01 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23606.88 (🔻31.33 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 184.43 (🔺1.80 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.74 (🔺0.59 : 2025-12-08)</span>
+<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47842.97 (🔻128.54 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23601.35 (🔻36.87 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 183.08 (🔺0.45 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.87 (🔺0.72 : 2025-12-08)</span>
   </div>
 </div>
 
@@ -32,112 +32,132 @@
 
 ## News Headlines
 
-1.  🛎️青森県東方沖30キロ沖合で津波を観測
-2.  SNBが2026年までゼロ政策率を維持　負の金利は起こりそうにない
-3.  震度6強　青森県で発生　原発など異常確認中
-4.  Netflixがウォーナー・ブラザーズを買収　83億ドル
-5.  パラマウントがウォーナー・ブラザーズに買収 bid
-6.  パラマウントがウォーナー・ブラザーズに買収 bid、ネットフリックスに挑戦
+1. 【津波警報発令　北海道・東北で大津波の危険あり】
+2. 【岩手県で6強の地震　八戸市内で複数のけが人か】
+3. 【避難指示　岩手県の3つの村】
+4. 【中国製ロケットが原因　タイがカンボジアに空爆】
+5. 【津波観測　北海道・東北で40cm以上の津波観測あり】
+6. 【震度6強　青森県で大きな被害　避難指示が出るか】
 
 ----
+
+@usatoday.com
+
+Here's who gets Social Security payments this week on Dec. 10
+
+[2025-12-09 00:09:13](https://bsky.app/profile/usatoday.com/post/3m7icqtapit2u)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【避難情報】北海道 新冠町 沿岸部の2024世帯3650人に避難指示
+https://news.web.nhk/newsweb/na/na-k10014997971000
+
+[2025-12-09 00:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7icqld33x2k)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】岩手・普代村に「避難指示」 7日23:23時点
+(2025-12-09 00:05:00) #ニュース
+
+🟪避難情報
+🔗https://crisis.yahoo.co.jp/evacuation/03/
+
+[2025-12-09 00:08:37](https://bsky.app/profile/sokuho.news/post/3m7icpqoxf62l)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】岩手・田野畑村に「避難指示」 7日23:23時点
+(2025-12-09 00:05:00) #ニュース
+
+🟪避難情報
+🔗https://crisis.yahoo.co.jp/evacuation/03/
+
+[2025-12-09 00:08:28](https://bsky.app/profile/sokuho.news/post/3m7icpitod22y)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】北海道・浦河で0.4mの津波を観測 北海道・東北地方に津波警報発表
+(2025-12-09 00:02) #ニュース
+
+⬛津波情報
+🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami
+
+[2025-12-09 00:08:22](https://bsky.app/profile/sokuho.news/post/3m7icpcr5vk24)
+
+---
+
+@nytimes.com
+
+From @theathletic.com: A 3-year-old Indian toddler has become the youngest player in chess history to earn an official FIDE rating after beating opponents in their 20s.
+
+[2025-12-09 00:08:07](https://bsky.app/profile/nytimes.com/post/3m7icouc24w2d)
+
+---
+
+@sokuho.news
+
+🔔NHKより【津波速報】です。
+
+■津波警報■北海道太平洋沿岸中部 青森県太平洋沿岸 岩手県
+■津波注意報■宮城県 北海道太平洋沿岸東部
+■津波注意報■北海道太平洋沿岸西部 青森県日本海沿岸 福島県
+(2025-12-09 00:07) #ニュース
+
+⬛津波情報
+🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami
+
+[2025-12-09 00:08:00](https://bsky.app/profile/sokuho.news/post/3m7icoo57qc24)
+
+---
 
 @sokuho.news
 
 🛎️FNNより【速報】です。
 
-【速報】青森県東方沖30キロ沖合で津波を観測
-(2025-12-08 23:46) #ニュース
+【速報】岩手沖で70センチ、宮城沖で50センチの津波を観測 間もなく到着の見込み 今すぐ逃げてください
+(2025-12-09 00:07) #ニュース
 
 ⬛津波情報
 🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami
 
-[2025-12-08 23:47:18](https://bsky.app/profile/sokuho.news/post/3m7ibjn2okl2w)
-
----
-
-@reuters.com
-
-SNB to hold policy rate at zero through 2026; negative rates unlikely, say economists: Reuters poll reut.rs/48ErXWl
-
-[2025-12-08 23:45:08](https://bsky.app/profile/reuters.com/post/3m7ibfqwq5l2d)
-
----
-
-@nhknewsunofficial.bsky.social
-
-青森県で震度6強 各地の原発など 異常ないか確認中
-https://news.web.nhk/newsweb/na/na-k10014997871000
-
-[2025-12-08 23:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ibfndsdc2b)
+[2025-12-09 00:07:29](https://bsky.app/profile/sokuho.news/post/3m7icnq5wsi2q)
 
 ---
 
 @sokuho.news
 
-🔔防災科研より【強震モニタ】動画です。
+🛎️JNNより【速報】です。
 
-震源:青森県東方沖, 深さ:50km
-マグニチュード:3.6, 最大震度:1
-📍https://www.google.com/maps?q=41.0,142.1&ll=41.0,142.1&z=7&t=h
-地震発生日時:2025-12-08 23:40頃
-(10倍速▶120s→12s) #地震
+【速報】岩手・釜石市に「避難指示」 8日23:31時点
+(2025-12-09 00:03:00) #ニュース
 
-[2025-12-08 23:44:49](https://bsky.app/profile/sokuho.news/post/3m7ibfa2ndn2l)
+🟪避難情報
+🔗https://crisis.yahoo.co.jp/evacuation/03/
 
----
-
-@sokuho.news
-
-🔔気象庁より【地震速報】です。
-
-23時40分頃、青森県で最大震度1の地震を観測しました。
-震源:青森県東方沖, 深さ:50km, 規模:M3.6
-津波警報等（大津波警報・津波警報あるいは津波注意報）を発表中で…
-(2025-12-08 23:44:20) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/08/2025-12-08-23-41-09.html?xlarge_image=1
-
-[2025-12-08 23:44:22](https://bsky.app/profile/sokuho.news/post/3m7ibeg2bq524)
-
----
-
-@wsj.com
-
-In television, “The White Lotus” and “Adolescence” earned nods. on.wsj.com/48BOpPV
-
-[2025-12-08 23:42:43](https://bsky.app/profile/wsj.com/post/3m7ibbhdhfu2j)
+[2025-12-09 00:06:06](https://bsky.app/profile/sokuho.news/post/3m7iclb7arc2y)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-震度6強 気象庁会見へ 午前1時15分から【ライブ予定】
-https://news.web.nhk/newsweb/na/na-k10014997861000
+【交通影響】震度６強 新千歳空港は影響を確認中
+https://news.web.nhk/newsweb/na/na-k10014997931000
 
-[2025-12-08 23:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ibabwfo42n)
-
----
-
-@reuters.com
-
-Mirum Pharma to buy Bluejay Therapeutics for up to $820 million reut.rs/44KeKu2
-
-[2025-12-08 23:40:22](https://bsky.app/profile/reuters.com/post/3m7ib5almt52n)
-
----
-
-@nbcnews.com
-
-Democratic Rep. Jim Clyburn says on Meet The Press that Michelle Obama is "correct" that the U.S, was "not ready" for a female president in 2024, but that "doesn't mean we should stop the pursuit."
-
-[2025-12-08 23:40:14](https://bsky.app/profile/nbcnews.com/post/3m7ib4z7r7r2j)
-
----
-
-@forbes.com
-
-Netflix last week announced it would acquire Warner Bros. in a $83 billion deal. 
-
-[2025-12-08 23:40:03](https://bsky.app/profile/forbes.com/post/3m7ib4ok2hb2h)
+[2025-12-09 00:06:06](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7icldchax2r)
 
 ---
 
@@ -145,7 +165,7 @@ Netflix last week announced it would acquire Warner Bros. in a $83 billion deal.
 
 ## 2025-12
 
-[12月08日](2025_12_08.md), [12月07日](2025_12_07.md), [12月06日](2025_12_06.md), [12月05日](2025_12_05.md), [12月04日](2025_12_04.md), [12月03日](2025_12_03.md), [12月02日](2025_12_02.md), [12月01日](2025_12_01.md), 
+[12月09日](2025_12_09.md), [12月08日](2025_12_08.md), [12月07日](2025_12_07.md), [12月06日](2025_12_06.md), [12月05日](2025_12_05.md), [12月04日](2025_12_04.md), [12月03日](2025_12_03.md), [12月02日](2025_12_02.md), [12月01日](2025_12_01.md), 
 
 ## 2025-11
 
