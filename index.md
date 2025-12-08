@@ -1,9 +1,9 @@
-# [2025-12-09 00:50 updated](2025_12_09.md)
+# [2025-12-09 01:10 updated](2025_12_09.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】岩手・大槌町に「避難指示」 8日23:19時点 (2025-12-09 00:47:00) #ニュース  🟪避難情報 🔗https://crisis.yahoo.co.jp/evacuation/03/ <a href="https://bsky.app/profile/sokuho.news/post/3m7iexzhgeo2g" target="_blank">sokuho.news</a> (2025-12-09 00:49:02)</span><span style="padding-right:50px;">【停電情報】青森で約3900軒 岩手で約300軒 東北電力(0:05) https://news.web.nhk/newsweb/na/na-k10014998081000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7iewgfsqa2g" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 00:48:06)</span><span style="padding-right:50px;">携帯電話各社 災害用伝言板の運用開始 https://news.web.nhk/newsweb/na/na-k10014998061000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7iewcgug52u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 00:48:02)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】青森・むつ市に「避難指示」 00:00時点 青森県 (2025-12-09 00:44:00) #ニュース  🟪避難情報 🔗https://crisis.yahoo.co.jp/evacuation/02/ <a href="https://bsky.app/profile/sokuho.news/post/3m7ieu4arft2e" target="_blank">sokuho.news</a> (2025-12-09 00:46:50)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】岩手・洋野町に「避難指示」 8日23:23時点 (2025-12-09 00:45:00) #ニュース  🟪避難情報 🔗https://crisis.yahoo.co.jp/evacuation/03/ <a href="https://bsky.app/profile/sokuho.news/post/3m7ietu5ya62g" target="_blank">sokuho.news</a> (2025-12-09 00:46:42)</span>
+<span style="padding-right:50px;">🔔NHKより【速報】です。  北海道・三陸沖後発地震注意情報発表へ 内閣府・気象庁が記者会見の予定 (2025-12-09 01:09) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m7ig3xwkjj26" target="_blank">sokuho.news</a> (2025-12-09 01:09:08)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】青森・八戸港で40センチの津波観測 (2025-12-09 01:08) #ニュース  ⬛津波情報 🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami <a href="https://bsky.app/profile/sokuho.news/post/3m7ig3wpkkh22" target="_blank">sokuho.news</a> (2025-12-09 01:09:07)</span><span style="padding-right:50px;">青森 むつ市と七戸町で断水か https://news.web.nhk/newsweb/na/na-k10014998241000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ifwmselo26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 01:06:07)</span><span style="padding-right:50px;">【交通影響】各地の交通機関・高速道路に影響 https://news.web.nhk/newsweb/na/na-k10014998141000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ifwiv2iy23" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 01:06:02)</span><span style="padding-right:50px;">🔔NHKより【津波速報】です。  ■津波警報■北海道太平洋沿岸中部 青森県太平洋沿岸 岩手県 ■津波注意報■北海道太平洋沿岸西部 宮城県 ■津波注意報■北海道太平洋沿岸東部 青森県日本海沿岸 福島県 (2025-12-09 01:05) #ニュース  ⬛津波情報 🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami <a href="https://bsky.app/profile/sokuho.news/post/3m7ifvaxaur2x" target="_blank">sokuho.news</a> (2025-12-09 01:05:23)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47821.62 (🔻149.89 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23560.74 (🔻77.48 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 184.15 (🔺1.52 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.92 (🔺0.78 : 2025-12-08)</span>
+<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47806.21 (🔻165.30 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23532.81 (🔻105.41 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 183.52 (🔺0.89 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.87 (🔺0.73 : 2025-12-08)</span>
   </div>
 </div>
 
@@ -32,121 +32,116 @@
 
 ## News Headlines
 
-1. 岩手県大槌町に避難指示
-2. 青森県むつ市に避難指示
-3. 岩手県洋野町に避難指示
-4. 岩手県久慈市に避難指示
-5. 青森県五所川原市に避難指示
-6. 青森市内で火災発生
+1.  NHK: 【地震速報】青森県で震度6強 沿岸部に津波警報
+2.  NHK: 【津波速報】津波警報を発表　北海道・青森県
+3.  NHK: 【地震速報】青森県東方沖でM7.6の地震　震度6強
+4.  NHK: NHKの木原官房長官「後発地震との関連は気象庁が調査中」
+5.  NHK: 高市首相「津波警報解除まで安全な場所に」
+6.  NHK: 防災科研「青森県東方沖でM4.7の地震　最大震度2」
 
 ----
 
 @sokuho.news
 
-🛎️JNNより【速報】です。
+🔔NHKより【速報】です。
 
-【速報】岩手・大槌町に「避難指示」 8日23:19時点
-(2025-12-09 00:47:00) #ニュース
+北海道・三陸沖後発地震注意情報発表へ 内閣府・気象庁が記者会見の予定
+(2025-12-09 01:09) #地震
 
-🟪避難情報
-🔗https://crisis.yahoo.co.jp/evacuation/03/
-
-[2025-12-09 00:49:02](https://bsky.app/profile/sokuho.news/post/3m7iexzhgeo2g)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【停電情報】青森で約3900軒 岩手で約300軒 東北電力(0:05)
-https://news.web.nhk/newsweb/na/na-k10014998081000
-
-[2025-12-09 00:48:06](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7iewgfsqa2g)
-
----
-
-@nhknewsunofficial.bsky.social
-
-携帯電話各社 災害用伝言板の運用開始
-https://news.web.nhk/newsweb/na/na-k10014998061000
-
-[2025-12-09 00:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7iewcgug52u)
+[2025-12-09 01:09:08](https://bsky.app/profile/sokuho.news/post/3m7ig3xwkjj26)
 
 ---
 
 @sokuho.news
 
-🛎️JNNより【速報】です。
+🛎️FNNより【速報】です。
 
-【速報】青森・むつ市に「避難指示」 00:00時点 青森県
-(2025-12-09 00:44:00) #ニュース
+【速報】青森・八戸港で40センチの津波観測
+(2025-12-09 01:08) #ニュース
 
-🟪避難情報
-🔗https://crisis.yahoo.co.jp/evacuation/02/
+⬛津波情報
+🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami
 
-[2025-12-09 00:46:50](https://bsky.app/profile/sokuho.news/post/3m7ieu4arft2e)
+[2025-12-09 01:09:07](https://bsky.app/profile/sokuho.news/post/3m7ig3wpkkh22)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+青森 むつ市と七戸町で断水か
+https://news.web.nhk/newsweb/na/na-k10014998241000
+
+[2025-12-09 01:06:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ifwmselo26)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【交通影響】各地の交通機関・高速道路に影響
+https://news.web.nhk/newsweb/na/na-k10014998141000
+
+[2025-12-09 01:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ifwiv2iy23)
 
 ---
 
 @sokuho.news
 
-🛎️JNNより【速報】です。
+🔔NHKより【津波速報】です。
 
-【速報】岩手・洋野町に「避難指示」 8日23:23時点
-(2025-12-09 00:45:00) #ニュース
+■津波警報■北海道太平洋沿岸中部 青森県太平洋沿岸 岩手県
+■津波注意報■北海道太平洋沿岸西部 宮城県
+■津波注意報■北海道太平洋沿岸東部 青森県日本海沿岸 福島県
+(2025-12-09 01:05) #ニュース
 
-🟪避難情報
-🔗https://crisis.yahoo.co.jp/evacuation/03/
+⬛津波情報
+🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami
 
-[2025-12-09 00:46:42](https://bsky.app/profile/sokuho.news/post/3m7ietu5ya62g)
+[2025-12-09 01:05:23](https://bsky.app/profile/sokuho.news/post/3m7ifvaxaur2x)
+
+---
+
+@sokuho.news
+
+🔔原子力規制委員会より【Nアラート】です。
+
+【緊急情報】(第2報)青森県東方沖で発生した地震の影響
+(2025/12/09 01:03)
+🔗https://kinkyu.nra.go.jp/m/sp/kinkyu/2025/12/2-2.html
+
+[2025-12-09 01:05:18](https://bsky.app/profile/sokuho.news/post/3m7ifv5bdor2y)
 
 ---
 
 @reuters.com
 
-Meta to offer choices on personal Facebook and Instagram ads, EU says reut.rs/3KDLSNk
+Argentina's railway privatization dreams face long haul ahead reut.rs/4rKT6zA
 
-[2025-12-09 00:45:08](https://bsky.app/profile/reuters.com/post/3m7ier22ux52k)
-
----
-
-@washingtonpost.com
-
-Former Democratic congressman Colin Allred is dropping out of the Senate race in Texas and will instead run for a new congressional district, which covers part of the Dallas area and was formed by Republican-led redistricting. 
-
-[2025-12-09 00:45:07](https://bsky.app/profile/washingtonpost.com/post/3m7ieqzdqwg2r)
+[2025-12-09 01:05:06](https://bsky.app/profile/reuters.com/post/3m7ifurjp5k2a)
 
 ---
 
-@cnbc.com
+@en.afp.com
 
-Next year could set a record for M&A. One Wall Street stock stands to benefit most in 2026
+#UPDATE A major earthquake rocked Japan's northern coast on Monday, with the country's meteorological agency recording two 40-centimetre tsunami waves and local media reporting injuries ➡️ u.afp.com/S7GW
 
-[2025-12-09 00:44:18](https://bsky.app/profile/cnbc.com/post/3m7iepkwus52e)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】岩手・久慈市に「避難指示」 8日23:24時点
-(2025-12-09 00:42:00) #ニュース
-
-🟪避難情報
-🔗https://crisis.yahoo.co.jp/evacuation/03/
-
-[2025-12-09 00:44:01](https://bsky.app/profile/sokuho.news/post/3m7iep2bsw32e)
+[2025-12-09 01:03:31](https://bsky.app/profile/en.afp.com/post/3m7ifrvzzcc2s)
 
 ---
 
-@sokuho.news
+@nytimes.com
 
-🛎️JNNより【速報】です。
+<strong><span style="color: red;">Breaking News</span>: Colin Allred dropped out of the Democratic Senate primary in Texas, as Representative Jasmine Crockett appeared ready to run.</strong>
 
-【速報】「北海道・三陸沖後発地震注意情報」発表基準を満たすか気象庁が評価開始 午後11時15分ごろ青森県東方沖でM7.6の地震
-(2025-12-09 00:16:06) #地震
+[2025-12-09 01:03:30](https://bsky.app/profile/nytimes.com/post/3m7ifrvkqy52y)
 
-[2025-12-09 00:43:06](https://bsky.app/profile/sokuho.news/post/3m7ienfxpen24)
+---
+
+@nhknewsunofficial.bsky.social
+
+青森県東方沖 M7.6の地震 青森県で震度6強 専門家の見解は
+https://news.web.nhk/newsweb/na/na-k10014998091000
+
+[2025-12-09 01:03:16](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ifrjlay72n)
 
 ---
 
