@@ -1,9 +1,9 @@
-# [2025-12-09 03:50 updated](2025_12_09.md)
+# [2025-12-09 04:10 updated](2025_12_09.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🔔原子力規制委員会より【Nアラート】です。  【緊急情報】異常なし(第4報)青森県東方沖で発生した地震の影響 (2025/12/09 03:44) 🔗https://kinkyu.nra.go.jp/m/sp/kinkyu/2025/12/post-123.html <a href="https://bsky.app/profile/sokuho.news/post/3m7iove5d3b26" target="_blank">sokuho.news</a> (2025-12-09 03:46:29)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】岩手・宮古市に「避難指示」 9日3:40時点 (2025-12-09 03:40:00) #ニュース  🟪避難情報 🔗https://crisis.yahoo.co.jp/evacuation/03/ <a href="https://bsky.app/profile/sokuho.news/post/3m7ioudkhsy2w" target="_blank">sokuho.news</a> (2025-12-09 03:45:56)</span><span style="padding-right:50px;">Tesla stock drops as new Morgan Stanley analyst downgrades shares, citing valuation <a href="https://bsky.app/profile/yahoofinance.com/post/3m7iotdnp2o2y" target="_blank">yahoofinance.com</a> (2025-12-09 03:45:22)</span><span style="padding-right:50px;">Exclusive: Iraq restores West Qurna 2 output after brief outage, sources say reut.rs/48HWJhl <a href="https://bsky.app/profile/reuters.com/post/3m7ioswzhqm2y" target="_blank">reuters.com</a> (2025-12-09 03:45:09)</span><span style="padding-right:50px;">Fresh Air's book critic says her picks tilt a bit to nonfiction, but the novels that made the cut redress the imbalance by their sweep and intensity. Karen Russell's The Antidote was her favorite. n.pr/4pJcjRb <a href="https://bsky.app/profile/npr.org/post/3m7ioo3lxij23" target="_blank">npr.org</a> (2025-12-09 03:42:26)</span>
+<span style="padding-right:50px;">Trump New Jersey U.S. Attorney Alina Habba steps down <a href="https://bsky.app/profile/cnbc.com/post/3m7iq4a5sxk2q" target="_blank">cnbc.com</a> (2025-12-09 04:08:14)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:青森県東方沖, 深さ:10km マグニチュード:5.2, 最大震度:2 📍https://www.google.com/maps?q=40.8,143.2&ll=40.8,143.2&z=7&t=h 地震発生日時:2025-12-09 04:01頃 (10倍速▶210s→21s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m7ipzk27xc24" target="_blank">sokuho.news</a> (2025-12-09 04:06:43)</span><span style="padding-right:50px;">青森で震度6強の地震、津波70センチ　初の北海道・三陸沖｢注意情報｣ www.nikkei.com/article/DGXZQO... <a href="https://bsky.app/profile/nikkei.com/post/3m7ipyi4lur2k" target="_blank">nikkei.com</a> (2025-12-09 04:06:08)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  4時1分頃、青森県・北海道・岩手県で最大震度2の地震を観測しました。 震源:青森県東方沖, 深さ:10km, 規模:M5.2 津波警報等（大津波警報・津波警報あるいは津波注意報）を発表中で… (2025-12-09 04:06:02) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/09/2025-12-09-04-01-15.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3m7ipyd6t7y2g" target="_blank">sokuho.news</a> (2025-12-09 04:06:03)</span><span style="padding-right:50px;">【地震速報】青森・岩手・宮城で震度３ https://news.web.nhk/newsweb/na/na-k10014998381000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ipydbvlj2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 04:06:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47662.81 (🔻308.70 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23508.79 (🔻129.43 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.24 (🔺2.61 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.72 (🔺0.57 : 2025-12-08)</span>
+<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47657.12 (🔻314.39 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23474.94 (🔻163.28 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 184.06 (🔺1.43 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.74 (🔺0.60 : 2025-12-08)</span>
   </div>
 </div>
 
@@ -32,111 +32,106 @@
 
 ## News Headlines
 
-1. 速報：岩手県に避難指示　宮古市に避難情報
-2. 速報：岩手県に避難指示　普代村に避難情報
-3. 速報：岩手県に避難指示　洋野町避難所閉鎖
-4. 速報：青森県に「災害救助法」適用　12市町村
-5. 速報：北海道と青森県で負傷者23人　避難指示発令
-6. 原子力規制委員会「Nアラート」　異常なし　青森県東方沖地震
+1.  「ニュージャージー州の米国検事、ハバが辞任　裁判所が任命が無効だと判定」
+2.  「青森県で震度6強の地震　津波70センチ　初の北海道・三陸沖「注意情報」」
+3.  「米国最高裁が、テキサス州の図書館本の厳格な規制を却下」
+4.  「米国最高裁が、連邦準備制度の独立性を守りたいと示す」
+5.  「ルーブル美術館の水漏れ　文書数百点損傷　２か月前にも宝石強盗事件で脆弱性が露呈」
+6.  「北海道・青森県で連続地震　最大震度3の揺れ　津波注意報発令」
 
 ----
 
-@sokuho.news
+@cnbc.com
 
-🔔原子力規制委員会より【Nアラート】です。
+Trump New Jersey U.S. Attorney Alina Habba steps down
 
-【緊急情報】異常なし(第4報)青森県東方沖で発生した地震の影響
-(2025/12/09 03:44)
-🔗https://kinkyu.nra.go.jp/m/sp/kinkyu/2025/12/post-123.html
-
-[2025-12-09 03:46:29](https://bsky.app/profile/sokuho.news/post/3m7iove5d3b26)
+[2025-12-09 04:08:14](https://bsky.app/profile/cnbc.com/post/3m7iq4a5sxk2q)
 
 ---
 
 @sokuho.news
 
-🛎️JNNより【速報】です。
+🔔防災科研より【強震モニタ】動画です。
 
-【速報】岩手・宮古市に「避難指示」 9日3:40時点
-(2025-12-09 03:40:00) #ニュース
+震源:青森県東方沖, 深さ:10km
+マグニチュード:5.2, 最大震度:2
+📍https://www.google.com/maps?q=40.8,143.2&ll=40.8,143.2&z=7&t=h
+地震発生日時:2025-12-09 04:01頃
+(10倍速▶210s→21s) #地震
 
-🟪避難情報
-🔗https://crisis.yahoo.co.jp/evacuation/03/
-
-[2025-12-09 03:45:56](https://bsky.app/profile/sokuho.news/post/3m7ioudkhsy2w)
-
----
-
-@yahoofinance.com
-
-Tesla stock drops as new Morgan Stanley analyst downgrades shares, citing valuation
-
-[2025-12-09 03:45:22](https://bsky.app/profile/yahoofinance.com/post/3m7iotdnp2o2y)
+[2025-12-09 04:06:43](https://bsky.app/profile/sokuho.news/post/3m7ipzk27xc24)
 
 ---
 
-@reuters.com
+@nikkei.com
 
-Exclusive: Iraq restores West Qurna 2 output after brief outage, sources say reut.rs/48HWJhl
+青森で震度6強の地震、津波70センチ　初の北海道・三陸沖｢注意情報｣
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-09 03:45:09](https://bsky.app/profile/reuters.com/post/3m7ioswzhqm2y)
-
----
-
-@npr.org
-
-Fresh Air's book critic says her picks tilt a bit to nonfiction, but the novels that made the cut redress the imbalance by their sweep and intensity. Karen Russell's The Antidote was her favorite. n.pr/4pJcjRb
-
-[2025-12-09 03:42:26](https://bsky.app/profile/npr.org/post/3m7ioo3lxij23)
+[2025-12-09 04:06:08](https://bsky.app/profile/nikkei.com/post/3m7ipyi4lur2k)
 
 ---
 
-@nbcnews.com
+@sokuho.news
 
-LATEST: The Supreme Court appears poised to side with President Trump and allow him to fire a member of the Federal Trade Commission without cause.
+🔔気象庁より【地震速報】です。
 
-[2025-12-09 03:41:01](https://bsky.app/profile/nbcnews.com/post/3m7iolkzqcc2h)
+4時1分頃、青森県・北海道・岩手県で最大震度2の地震を観測しました。
+震源:青森県東方沖, 深さ:10km, 規模:M5.2
+津波警報等（大津波警報・津波警報あるいは津波注意報）を発表中で…
+(2025-12-09 04:06:02) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/09/2025-12-09-04-01-15.html?xlarge_image=1
+
+[2025-12-09 04:06:03](https://bsky.app/profile/sokuho.news/post/3m7ipyd6t7y2g)
 
 ---
 
-@reuters.com
+@nhknewsunofficial.bsky.social
 
-Boeing closes Spirit AeroSystems purchase in major supply chain realignment reut.rs/4aAypQL
+【地震速報】青森・岩手・宮城で震度３
+https://news.web.nhk/newsweb/na/na-k10014998381000
 
-[2025-12-09 03:40:12](https://bsky.app/profile/reuters.com/post/3m7iok3omyt2k)
+[2025-12-09 04:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ipydbvlj2j)
 
 ---
 
 @cbsnews.com
 
-A powerful wave dragged a group of swimmers at a popular seawater pool along the coast of the Spanish island of Tenerife. At least four people have died and one is missing.
+<strong><span style="color: red;">BREAKING:</span> Alina Habba resigns as acting U.S. attorney for New Jersey after an appeals court found her appointment unlawful.</strong>
 
-[2025-12-09 03:40:00](https://bsky.app/profile/cbsnews.com/post/3m7iojqzvcw2g)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】青森県が「災害救助法」適用へ 12市町村
-(2025-12-09 03:35:00) #ニュース
-
-[2025-12-09 03:37:43](https://bsky.app/profile/sokuho.news/post/3m7iofnxvp22y)
+[2025-12-09 04:05:35](https://bsky.app/profile/cbsnews.com/post/3m7ipxhzizx2y)
 
 ---
 
-@sokuho.news
+@reuters.com
 
-🛎️JNNより【速報】です。
+Nine EU nations urge extreme caution on 'Buy European' policies reut.rs/4rL3RlG
 
-【速報】北海道と青森県で負傷者23人 計11万4092人に避難指示（午前3時時点）
-(2025-12-09 03:35:51) #ニュース
+[2025-12-09 04:05:09](https://bsky.app/profile/reuters.com/post/3m7ipwpbzxk2r)
 
-🟪避難情報
-🔗https://crisis.yahoo.co.jp/evacuation/01/
+---
 
-[2025-12-09 03:37:36](https://bsky.app/profile/sokuho.news/post/3m7iofgxpuj2y)
+@cnbc.com
+
+Three more Wall Street firms came out with bullish 2026 outlooks. Here's why they see another upbeat year ahead
+
+[2025-12-09 04:04:48](https://bsky.app/profile/cnbc.com/post/3m7ipw3one42r)
+
+---
+
+@financialtimes.com
+
+ The White House’s rupture with the western alliance on.ft.com/3XE3Imj  | opinion
+
+[2025-12-09 04:03:35](https://bsky.app/profile/financialtimes.com/post/3m7iptvoniq2v)
+
+---
+
+@financialtimes.com
+
+Paramount’s WBD bid relegates Netflix to a supporting role on.ft.com/4oHyOEC
+
+[2025-12-09 04:03:28](https://bsky.app/profile/financialtimes.com/post/3m7iptpi6ld26)
 
 ---
 
