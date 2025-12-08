@@ -1,9 +1,9 @@
-# [2025-12-09 03:30 updated](2025_12_09.md)
+# [2025-12-09 03:50 updated](2025_12_09.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">International leaders and philanthropists, including Bill Gates, announced $1.9 billion in funding to advance polio eradication, but a large funding gap remains after high-income countries’ reductions in foreign aid. https://cnn.it/48BfHpK <a href="https://bsky.app/profile/cnn.com/post/3m7inudjtzs2v" target="_blank">cnn.com</a> (2025-12-09 03:28:02)</span><span style="padding-right:50px;">れいわ新選組 代表選挙で山本太郎代表が再選 https://news.web.nhk/newsweb/na/na-k10014997821000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7insmyjor23" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 03:27:02)</span><span style="padding-right:50px;">The UN plans to reduce by half the amount of money it requests from donor countries in 2026 to help people affected by war and natural disasters, a consequence of the drastic cuts by the U.S. and European governments to their foreign aid budgets. <a href="https://bsky.app/profile/nytimes.com/post/3m7inp2lrgq2p" target="_blank">nytimes.com</a> (2025-12-09 03:25:05)</span><span style="padding-right:50px;">Powerful 7.5-magnitude earthquake strikes Japan's northeast reut.rs/3XHxSVH <a href="https://bsky.app/profile/reuters.com/post/3m7inp3bopa2i" target="_blank">reuters.com</a> (2025-12-09 03:25:05)</span><span style="padding-right:50px;">Breaking News: A dozen FBI agents sued the bureau’s director, Kash Patel, and the Trump administration after they were fired for having knelt during a racial justice protest in 2020. <a href="https://bsky.app/profile/nytimes.com/post/3m7inobdcvb2g" target="_blank">nytimes.com</a> (2025-12-09 03:24:38)</span>
+<span style="padding-right:50px;">🔔原子力規制委員会より【Nアラート】です。  【緊急情報】異常なし(第4報)青森県東方沖で発生した地震の影響 (2025/12/09 03:44) 🔗https://kinkyu.nra.go.jp/m/sp/kinkyu/2025/12/post-123.html <a href="https://bsky.app/profile/sokuho.news/post/3m7iove5d3b26" target="_blank">sokuho.news</a> (2025-12-09 03:46:29)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】岩手・宮古市に「避難指示」 9日3:40時点 (2025-12-09 03:40:00) #ニュース  🟪避難情報 🔗https://crisis.yahoo.co.jp/evacuation/03/ <a href="https://bsky.app/profile/sokuho.news/post/3m7ioudkhsy2w" target="_blank">sokuho.news</a> (2025-12-09 03:45:56)</span><span style="padding-right:50px;">Tesla stock drops as new Morgan Stanley analyst downgrades shares, citing valuation <a href="https://bsky.app/profile/yahoofinance.com/post/3m7iotdnp2o2y" target="_blank">yahoofinance.com</a> (2025-12-09 03:45:22)</span><span style="padding-right:50px;">Exclusive: Iraq restores West Qurna 2 output after brief outage, sources say reut.rs/48HWJhl <a href="https://bsky.app/profile/reuters.com/post/3m7ioswzhqm2y" target="_blank">reuters.com</a> (2025-12-09 03:45:09)</span><span style="padding-right:50px;">Fresh Air's book critic says her picks tilt a bit to nonfiction, but the novels that made the cut redress the imbalance by their sweep and intensity. Karen Russell's The Antidote was her favorite. n.pr/4pJcjRb <a href="https://bsky.app/profile/npr.org/post/3m7ioo3lxij23" target="_blank">npr.org</a> (2025-12-09 03:42:26)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47652.86 (🔻318.65 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23512.28 (🔻125.94 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.87 (🔺3.24 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.77 (🔺0.63 : 2025-12-08)</span>
+<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47662.81 (🔻308.70 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23508.79 (🔻129.43 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.24 (🔺2.61 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.72 (🔺0.57 : 2025-12-08)</span>
   </div>
 </div>
 
@@ -32,87 +32,24 @@
 
 ## News Headlines
 
-1.  美大統領が農家救済金を発表
-2.  岩手県に地震　大津波被害も　避難者460人
-3.  米国は2026年から外国援助の半額に
-4.  米国最高裁はトランプ大統領の権限を拡大する可能性
-5.  トランプ大統領が農家救済金を発表　12億ドル
-6.  青森県で地震　最大震度6強　津波注意報
+1. 速報：岩手県に避難指示　宮古市に避難情報
+2. 速報：岩手県に避難指示　普代村に避難情報
+3. 速報：岩手県に避難指示　洋野町避難所閉鎖
+4. 速報：青森県に「災害救助法」適用　12市町村
+5. 速報：北海道と青森県で負傷者23人　避難指示発令
+6. 原子力規制委員会「Nアラート」　異常なし　青森県東方沖地震
 
 ----
 
-@cnn.com
+@sokuho.news
 
-International leaders and philanthropists, including Bill Gates, announced $1.9 billion in funding to advance polio eradication, but a large funding gap remains after high-income countries’ reductions in foreign aid. https://cnn.it/48BfHpK
+🔔原子力規制委員会より【Nアラート】です。
 
-[2025-12-09 03:28:02](https://bsky.app/profile/cnn.com/post/3m7inudjtzs2v)
+【緊急情報】異常なし(第4報)青森県東方沖で発生した地震の影響
+(2025/12/09 03:44)
+🔗https://kinkyu.nra.go.jp/m/sp/kinkyu/2025/12/post-123.html
 
----
-
-@nhknewsunofficial.bsky.social
-
-れいわ新選組 代表選挙で山本太郎代表が再選
-https://news.web.nhk/newsweb/na/na-k10014997821000
-
-[2025-12-09 03:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7insmyjor23)
-
----
-
-@nytimes.com
-
-The UN plans to reduce by half the amount of money it requests from donor countries in 2026 to help people affected by war and natural disasters, a consequence of the drastic cuts by the U.S. and European governments to their foreign aid budgets.
-
-[2025-12-09 03:25:05](https://bsky.app/profile/nytimes.com/post/3m7inp2lrgq2p)
-
----
-
-@reuters.com
-
-Powerful 7.5-magnitude earthquake strikes Japan's northeast reut.rs/3XHxSVH
-
-[2025-12-09 03:25:05](https://bsky.app/profile/reuters.com/post/3m7inp3bopa2i)
-
----
-
-@nytimes.com
-
-<strong><span style="color: red;">Breaking News</span>: A dozen FBI agents sued the bureau’s director, Kash Patel, and the Trump administration after they were fired for having knelt during a racial justice protest in 2020.</strong>
-
-[2025-12-09 03:24:38](https://bsky.app/profile/nytimes.com/post/3m7inobdcvb2g)
-
----
-
-@bloomberg.com
-
-What's the obsession with high-end timepieces? From gold Rolexes to used Pateks, demand remains high for luxury watches. 
-
-🎧 Tune in to our Live Q&A on December 10 at 11am ET: bloom.bg/4rZ899g
-
-[2025-12-09 03:24:02](https://bsky.app/profile/bloomberg.com/post/3m7inn72qcu2d)
-
----
-
-@cnbc.com
-
-Pressure builds on Apple and CEO Tim Cook with holiday executive shakeup
-
-[2025-12-09 03:22:52](https://bsky.app/profile/cnbc.com/post/3m7inl3yrtf2h)
-
----
-
-@washingtonpost.com
-
-<strong><span style="color: red;">Breaking news:</span> The Supreme Court appeared poised to allow President Trump to fire a leader of the FTC, a ruling that could limit or overturn a 90-year-old precedent that curbs executive power to dismiss the heads of agencies set up to be independent.</strong>
-
-[2025-12-09 03:22:31](https://bsky.app/profile/washingtonpost.com/post/3m7inkhrqoi23)
-
----
-
-@axios.com
-
-NEW: Supreme Court appears ready to allow President Trump to fire members of the FTC
-
-[2025-12-09 03:21:50](https://bsky.app/profile/axios.com/post/3m7injafnvc25)
+[2025-12-09 03:46:29](https://bsky.app/profile/sokuho.news/post/3m7iove5d3b26)
 
 ---
 
@@ -120,13 +57,86 @@ NEW: Supreme Court appears ready to allow President Trump to fire members of the
 
 🛎️JNNより【速報】です。
 
-【速報】岩手・普代村に「避難指示」 9日3:17時点
-(2025-12-09 03:17:00) #ニュース
+【速報】岩手・宮古市に「避難指示」 9日3:40時点
+(2025-12-09 03:40:00) #ニュース
 
 🟪避難情報
 🔗https://crisis.yahoo.co.jp/evacuation/03/
 
-[2025-12-09 03:20:40](https://bsky.app/profile/sokuho.news/post/3m7inh5tjgw2h)
+[2025-12-09 03:45:56](https://bsky.app/profile/sokuho.news/post/3m7ioudkhsy2w)
+
+---
+
+@yahoofinance.com
+
+Tesla stock drops as new Morgan Stanley analyst downgrades shares, citing valuation
+
+[2025-12-09 03:45:22](https://bsky.app/profile/yahoofinance.com/post/3m7iotdnp2o2y)
+
+---
+
+@reuters.com
+
+Exclusive: Iraq restores West Qurna 2 output after brief outage, sources say reut.rs/48HWJhl
+
+[2025-12-09 03:45:09](https://bsky.app/profile/reuters.com/post/3m7ioswzhqm2y)
+
+---
+
+@npr.org
+
+Fresh Air's book critic says her picks tilt a bit to nonfiction, but the novels that made the cut redress the imbalance by their sweep and intensity. Karen Russell's The Antidote was her favorite. n.pr/4pJcjRb
+
+[2025-12-09 03:42:26](https://bsky.app/profile/npr.org/post/3m7ioo3lxij23)
+
+---
+
+@nbcnews.com
+
+LATEST: The Supreme Court appears poised to side with President Trump and allow him to fire a member of the Federal Trade Commission without cause.
+
+[2025-12-09 03:41:01](https://bsky.app/profile/nbcnews.com/post/3m7iolkzqcc2h)
+
+---
+
+@reuters.com
+
+Boeing closes Spirit AeroSystems purchase in major supply chain realignment reut.rs/4aAypQL
+
+[2025-12-09 03:40:12](https://bsky.app/profile/reuters.com/post/3m7iok3omyt2k)
+
+---
+
+@cbsnews.com
+
+A powerful wave dragged a group of swimmers at a popular seawater pool along the coast of the Spanish island of Tenerife. At least four people have died and one is missing.
+
+[2025-12-09 03:40:00](https://bsky.app/profile/cbsnews.com/post/3m7iojqzvcw2g)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】青森県が「災害救助法」適用へ 12市町村
+(2025-12-09 03:35:00) #ニュース
+
+[2025-12-09 03:37:43](https://bsky.app/profile/sokuho.news/post/3m7iofnxvp22y)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】北海道と青森県で負傷者23人 計11万4092人に避難指示（午前3時時点）
+(2025-12-09 03:35:51) #ニュース
+
+🟪避難情報
+🔗https://crisis.yahoo.co.jp/evacuation/01/
+
+[2025-12-09 03:37:36](https://bsky.app/profile/sokuho.news/post/3m7iofgxpuj2y)
 
 ---
 
