@@ -1,9 +1,9 @@
-# [2025-12-09 05:50 updated](2025_12_09.md)
+# [2025-12-09 06:10 updated](2025_12_09.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">外国人政策 政府の方針に「賛成」7割 NHK世論調査 https://news.web.nhk/newsweb/na/na-k10014997231000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ivoqfpex2n" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 05:48:02)</span><span style="padding-right:50px;">Lando Norris's success with McLaren in ending Max Verstappen's four-year reign as world champion on Sunday ushered in a winter of radical change for Formula One.  Here are three things to watch for going into next season:  u.afp.com/S7N3 <a href="https://bsky.app/profile/en.afp.com/post/3m7ivjyzp2m2p" target="_blank">en.afp.com</a> (2025-12-09 05:45:25)</span><span style="padding-right:50px;">UN body urges Britain and Mauritius not to ratify Chagos deal reut.rs/4pn1qEb <a href="https://bsky.app/profile/reuters.com/post/3m7ivjkhii52o" target="_blank">reuters.com</a> (2025-12-09 05:45:10)</span><span style="padding-right:50px;">Federal Reserve to announce next interest rate move on Wednesday. Here's what to expect.  <a href="https://bsky.app/profile/cbsnews.com/post/3m7ivjbjnxq2d" target="_blank">cbsnews.com</a> (2025-12-09 05:45:00)</span><span style="padding-right:50px;">Exclusive: A roughly 5,600-acre ranch that was used as a filming location for Hollywood productions like “War of the Worlds” starring Tom Cruise and “Babylon” with Brad Pitt and Margot Robbie is listing for $44 million. <a href="https://bsky.app/profile/wsj.com/post/3m7ive24yyg2o" target="_blank">wsj.com</a> (2025-12-09 05:42:05)</span>
+<span style="padding-right:50px;">群馬 妙義山の山林火災 延焼続く 午前7時ごろから消火再開へ https://news.web.nhk/newsweb/na/na-k10014998431000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7iwuc7sst2g" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 06:09:02)</span><span style="padding-right:50px;">Nvidia stock rises on report Trump administration will greenlight sale of H200 chips to China <a href="https://bsky.app/profile/yahoofinance.com/post/3m7iwpimxrx2e" target="_blank">yahoofinance.com</a> (2025-12-09 06:06:23)</span><span style="padding-right:50px;">ノーベル化学賞 北川進さん ストックホルムで記念講演 https://news.web.nhk/newsweb/na/na-k10014997741000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7iwox3nax2n" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 06:06:02)</span><span style="padding-right:50px;">From Breakingviews - Breakingviews - Paramount makes a WBD offer that’s hard to refuse reut.rs/3KuI4xT <a href="https://bsky.app/profile/reuters.com/post/3m7iwnca57z2k" target="_blank">reuters.com</a> (2025-12-09 06:05:09)</span><span style="padding-right:50px;">Alina Habba, a former personal lawyer for President Trump, abruptly resigned as the top federal prosecutor in New Jersey, a week after a court ruled she was unlawfully serving in the role. <a href="https://bsky.app/profile/wsj.com/post/3m7iwnbm5mr2o" target="_blank">wsj.com</a> (2025-12-09 06:05:08)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47701.64 (🔻269.87 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23504.20 (🔻134.02 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 184.79 (🔺2.16 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.89 (🔺0.74 : 2025-12-08)</span>
+<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.31 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.57 (🔺2.94 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.93 (🔺0.79 : 2025-12-08)</span>
   </div>
 </div>
 
@@ -32,99 +32,94 @@
 
 ## News Headlines
 
-1. 外国人政策、政府の方針に「賛成」7割（NHK）
-2. F1世界選手権　レギュラーチェンジに乗り出したマクラーレン（AFP）
-3. 英国とモーリシャスに、チャゴス諸島交渉に反対するUNの呼びかけ（AFP）
-4. アメリカ連邦準備委員会、利子調整を発表　今週水曜日（AP）
-5. 「ワールド・オブ・ウォーズ」や「バビロン」に使用された大牧場、44億ドルで売却（WSJ）
-6. Google、AIガラス 2026年発売（AFP）
+1. 妙義山の山林火災、消火活動再開へ
+2. パラマウントがワーナー買収に向けTOBを発表
+3. 政府の方針に賛成の世論が強まる 外国人政策
+4. F1が次期シーズンに大きな変化を迎える
+5. 米連邦議会で国防予算決算めぐる議論
+6. フェデラル・リザーブが利上げ方針を発表
 
 ----
 
 @nhknewsunofficial.bsky.social
 
-外国人政策 政府の方針に「賛成」7割 NHK世論調査
-https://news.web.nhk/newsweb/na/na-k10014997231000
+群馬 妙義山の山林火災 延焼続く 午前7時ごろから消火再開へ
+https://news.web.nhk/newsweb/na/na-k10014998431000
 
-[2025-12-09 05:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ivoqfpex2n)
-
----
-
-@en.afp.com
-
-Lando Norris's success with McLaren in ending Max Verstappen's four-year reign as world champion on Sunday ushered in a winter of radical change for Formula One.
-
-Here are three things to watch for going into next season:
-
-u.afp.com/S7N3
-
-[2025-12-09 05:45:25](https://bsky.app/profile/en.afp.com/post/3m7ivjyzp2m2p)
-
----
-
-@reuters.com
-
-UN body urges Britain and Mauritius not to ratify Chagos deal reut.rs/4pn1qEb
-
-[2025-12-09 05:45:10](https://bsky.app/profile/reuters.com/post/3m7ivjkhii52o)
-
----
-
-@cbsnews.com
-
-Federal Reserve to announce next interest rate move on Wednesday. Here's what to expect.
-
-
-[2025-12-09 05:45:00](https://bsky.app/profile/cbsnews.com/post/3m7ivjbjnxq2d)
-
----
-
-@wsj.com
-
-Exclusive: A roughly 5,600-acre ranch that was used as a filming location for Hollywood productions like “War of the Worlds” starring Tom Cruise and “Babylon” with Brad Pitt and Margot Robbie is listing for $44 million.
-
-[2025-12-09 05:42:05](https://bsky.app/profile/wsj.com/post/3m7ive24yyg2o)
-
----
-
-@nbcnews.com
-
-While exports from China to the U.S. have fallen for most of the year, shipments have surged to other places, including Southeast Asia, Latin America, Africa and the European Union.
-
-
-[2025-12-09 05:41:03](https://bsky.app/profile/nbcnews.com/post/3m7ivc6jk6g2t)
-
----
-
-@nbcnews.com
-
-The National Parks remove their free-entry days for Martin Luther King Day and Juneteenth and add President Trump's birthday, which is also Flag Day. This was part of a July executive order from President Trump. 
-
-[2025-12-09 05:40:27](https://bsky.app/profile/nbcnews.com/post/3m7ivb4x4ge2i)
-
----
-
-@reuters.com
-
-Canada's Transcontinental to sell its packaging unit in $1.61 billion deal reut.rs/3KvOzR5
-
-[2025-12-09 05:40:13](https://bsky.app/profile/reuters.com/post/3m7ivaoylnm22)
-
----
-
-@apnews.com
-
-Democratic Rep. Jasmine Crockett launches bid for U.S. Senate in Texas, looking to flip a Republican-held seat.
-
-[2025-12-09 05:38:15](https://bsky.app/profile/apnews.com/post/3m7iv572ctk2j)
+[2025-12-09 06:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7iwuc7sst2g)
 
 ---
 
 @yahoofinance.com
 
-Ex-Cisco CEO says 2026 will be a 'great year for AI'
+Nvidia stock rises on report Trump administration will greenlight sale of H200 chips to China
 
-[2025-12-09 05:36:02](https://bsky.app/profile/yahoofinance.com/post/3m7iuz7zarn23)
+[2025-12-09 06:06:23](https://bsky.app/profile/yahoofinance.com/post/3m7iwpimxrx2e)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+ノーベル化学賞 北川進さん ストックホルムで記念講演
+https://news.web.nhk/newsweb/na/na-k10014997741000
+
+[2025-12-09 06:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7iwox3nax2n)
+
+---
+
+@reuters.com
+
+From Breakingviews - Breakingviews - Paramount makes a WBD offer that’s hard to refuse reut.rs/3KuI4xT
+
+[2025-12-09 06:05:09](https://bsky.app/profile/reuters.com/post/3m7iwnca57z2k)
+
+---
+
+@wsj.com
+
+Alina Habba, a former personal lawyer for President Trump, abruptly resigned as the top federal prosecutor in New Jersey, a week after a court ruled she was unlawfully serving in the role.
+
+[2025-12-09 06:05:08](https://bsky.app/profile/wsj.com/post/3m7iwnbm5mr2o)
+
+---
+
+@cnbc.com
+
+Here's what to expect in Paramount's quest to elbow out Netflix and buy Warner Bros. Discovery
+
+[2025-12-09 06:04:44](https://bsky.app/profile/cnbc.com/post/3m7iwmkfaxw2j)
+
+---
+
+@reuters.com
+
+No need to 'break' with US over security policy, German spy chief says reut.rs/4po0cIJ
+
+[2025-12-09 06:01:12](https://bsky.app/profile/reuters.com/post/3m7iwg7wu6k2e)
+
+---
+
+@aljazeera.com
+
+The former South American leader is accused of receiving bribes connected to the construction of a power plant.
+
+[2025-12-09 06:00:58](https://bsky.app/profile/aljazeera.com/post/3m7iwfsdf4b2z)
+
+---
+
+@usatoday.com
+
+The incoming New York City mayor is not only switching boroughs, from Queens to Manhattan, but is also upgrading from one bedroom to five.
+
+[2025-12-09 06:00:56](https://bsky.app/profile/usatoday.com/post/3m7iwfqwe6c2m)
+
+---
+
+@cnbc.com
+
+This is the No. 1 trait that says it’s time to end things with a partner, says Amy Morin, psychotherapist and author of “13 Things Mentally Strong Couples Don’t Do."
+
+[2025-12-09 06:00:37](https://bsky.app/profile/cnbc.com/post/3m7iwf663x22y)
 
 ---
 
