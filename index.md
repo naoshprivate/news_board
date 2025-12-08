@@ -1,9 +1,9 @@
-# [2025-12-09 08:30 updated](2025_12_09.md)
+# [2025-12-09 08:50 updated](2025_12_09.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】1日近く経った今も延焼中…群馬・妙義山の山火事 消火活動が再開 (08:28) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7j6p4mphq2x" target="_blank">sokuho.news</a> (2025-12-09 08:29:20)</span><span style="padding-right:50px;">President Donald Trump is taking an increasingly personal role in the government’s clemency process, wielding pardons with historic frequency to aid allies and advance his own political grievances.  <a href="https://bsky.app/profile/cnn.com/post/3m7j6okkwa52b" target="_blank">cnn.com</a> (2025-12-09 08:29:01)</span><span style="padding-right:50px;">トランプ大統領 “エヌビディア製半導体 中国向け輸出を許可” https://news.web.nhk/newsweb/na/na-k10014998511000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7j6l33ul724" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 08:27:02)</span><span style="padding-right:50px;">NBA's Terry Rozier pleads not guilty in bet rigging case reut.rs/3XI3avC <a href="https://bsky.app/profile/reuters.com/post/3m7j6hlm3v62w" target="_blank">reuters.com</a> (2025-12-09 08:25:08)</span><span style="padding-right:50px;">チョルノービリ原発 シェルター安全機能失われる 無人機攻撃で https://news.web.nhk/newsweb/na/na-k10014998471000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7j6aicpav2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 08:21:07)</span>
+<span style="padding-right:50px;">Medical supply firm Medline targets $55 billion valuation in blockbuster IPO reut.rs/44eN8wW <a href="https://bsky.app/profile/reuters.com/post/3m7j7lfjyfc2k" target="_blank">reuters.com</a> (2025-12-09 08:45:09)</span><span style="padding-right:50px;">UNRWAの施設にイスラエル警察が強制立ち入り 国連は強く非難 https://news.web.nhk/newsweb/na/na-k10014998481000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7j7las5lg2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 08:45:02)</span><span style="padding-right:50px;">Tuesday's big stock stories: What’s likely to move the market in the next trading session <a href="https://bsky.app/profile/cnbc.com/post/3m7j7hce7lf2a" target="_blank">cnbc.com</a> (2025-12-09 08:42:52)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】国道2号（下り）で自損事故 現場は3kmの渋滞【岡山】 (2025-12-09 08:41:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7j7gydo5g2q" target="_blank">sokuho.news</a> (2025-12-09 08:42:41)</span><span style="padding-right:50px;">Australia social media ban sets up fight with big tech over children's safety <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7j7fks2s52x" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-09 08:41:53)</span>
   </div>
 </div>
 
@@ -32,99 +32,98 @@
 
 ## News Headlines
 
-1. トランプ大統領「エヌビディア製半導体　中国向け輸出を許可」
-2. チョルノービリ原発　シェルター安全機能失われる　無人機攻撃で
-3. 【震度6強】北海道と東北の避難指示　すべて解除
-4. エアバス・ボーイング納入遅れ　受注残10年分に膨張　航空遅延リスク
-5. 13人の死者　エクアドル南部の刑務所で暴力発生
-6. ゼレンスキー氏、ロシアとの修正和平案を9日にもアメリカに提示へ
+1.  メディケア用品会社メディライン、5兆5千億円規模のIPOで市場に登場
+2.  イスラエル警察、UNRWAの施設に強制立ち入り　国連が強く非難
+3.  国道2号線で自家車が追突事故　岡山県で渋滞
+4.  ジェイアール東海など、JRグループの新型コロナ対策を強化
+5.  米政府、カナダG7財務相会議で輸出制限や鉱山資源について協議
+6.  トランプ大統領、NVIDIA製半導体の中国への輸出を許可
 
 ----
 
-@sokuho.news
+@reuters.com
 
-🔔ANNより【速報】です。
+Medical supply firm Medline targets $55 billion valuation in blockbuster IPO reut.rs/44eN8wW
 
-【速報】1日近く経った今も延焼中…群馬・妙義山の山火事 消火活動が再開
-(08:28) #ニュース
-
-[2025-12-09 08:29:20](https://bsky.app/profile/sokuho.news/post/3m7j6p4mphq2x)
-
----
-
-@cnn.com
-
-President Donald Trump is taking an increasingly personal role in the government’s clemency process, wielding pardons with historic frequency to aid allies and advance his own political grievances. 
-
-[2025-12-09 08:29:01](https://bsky.app/profile/cnn.com/post/3m7j6okkwa52b)
+[2025-12-09 08:45:09](https://bsky.app/profile/reuters.com/post/3m7j7lfjyfc2k)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-トランプ大統領 “エヌビディア製半導体 中国向け輸出を許可”
-https://news.web.nhk/newsweb/na/na-k10014998511000
+UNRWAの施設にイスラエル警察が強制立ち入り 国連は強く非難
+https://news.web.nhk/newsweb/na/na-k10014998481000
 
-[2025-12-09 08:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7j6l33ul724)
+[2025-12-09 08:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7j7las5lg2b)
+
+---
+
+@cnbc.com
+
+Tuesday's big stock stories: What’s likely to move the market in the next trading session
+
+[2025-12-09 08:42:52](https://bsky.app/profile/cnbc.com/post/3m7j7hce7lf2a)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】国道2号（下り）で自損事故 現場は3kmの渋滞【岡山】
+(2025-12-09 08:41:00) #ニュース
+
+[2025-12-09 08:42:41](https://bsky.app/profile/sokuho.news/post/3m7j7gydo5g2q)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Australia social media ban sets up fight with big tech over children's safety
+
+[2025-12-09 08:41:53](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7j7fks2s52x)
 
 ---
 
 @reuters.com
 
-NBA's Terry Rozier pleads not guilty in bet rigging case reut.rs/3XI3avC
+G7 finance ministers discussed export controls and critical minerals in call, Canada says reut.rs/3Kw6eIn
 
-[2025-12-09 08:25:08](https://bsky.app/profile/reuters.com/post/3m7j6hlm3v62w)
-
----
-
-@nhknewsunofficial.bsky.social
-
-チョルノービリ原発 シェルター安全機能失われる 無人機攻撃で
-https://news.web.nhk/newsweb/na/na-k10014998471000
-
-[2025-12-09 08:21:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7j6aicpav2j)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【震度6強】北海道と東北の避難指示 すべて解除
-https://news.web.nhk/newsweb/na/na-k10014998491000
-
-[2025-12-09 08:21:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7j6acm7zo26)
+[2025-12-09 08:40:20](https://bsky.app/profile/reuters.com/post/3m7j7cro74z2k)
 
 ---
 
 @nbcnews.com
 
-The creator behind ICEBlock, an app that tracked immigration enforcement officials’ activities, is suing the Trump administration two months after his app was removed from the Apple app store following criticism from officials.
+The promotion has emerged as a surprise hit for the fast-food giant, with social media peppered by videos of stressed employees and hungry, frustrated consumers trying to get their hands on the bright green box.
 
-[2025-12-09 08:20:07](https://bsky.app/profile/nbcnews.com/post/3m7j66mfu6b2y)
-
----
-
-@cbsnews.com
-
-Lawmaker asks what happened to federal investigation into "predatory" for-profit dialysis industry.
-
-[2025-12-09 08:20:01](https://bsky.app/profile/cbsnews.com/post/3m7j66hbtub2d)
+[2025-12-09 08:40:08](https://bsky.app/profile/nbcnews.com/post/3m7j7cg4alo2r)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-「北海道・三陸沖後発地震注意情報」を発表 内閣府・気象庁
-https://news.web.nhk/newsweb/na/na-k10014998281000
+高市首相動静 2025年12月8日
+https://news.web.nhk/newsweb/na/na-k10014998521000
 
-[2025-12-09 08:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7j62xmtpm23)
+[2025-12-09 08:39:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7j7akej7x24)
 
 ---
 
-@reuters.com
+@nytimes.com
 
-Bank of England's Taylor expects inflation to fall to target 'in the near term' reut.rs/44eUnVN
+Our New York critics' favorite new restaurants are wholly true to New York. Their chefs, like the New Yorkers they serve, have roots around the country and the world. "They came here to cook for us. How lucky we are."
 
-[2025-12-09 08:15:10](https://bsky.app/profile/reuters.com/post/3m7j5vrekxq2k)
+[2025-12-09 08:38:02](https://bsky.app/profile/nytimes.com/post/3m7j76nuco62y)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+カーリング五輪最終予選 男子日本代表 韓国に勝って3勝1敗に
+https://news.web.nhk/newsweb/na/na-k10014998451000
+
+[2025-12-09 08:36:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7j736fs452u)
 
 ---
 
