@@ -1,9 +1,9 @@
-# [2025-12-08 12:50 updated](2025_12_08.md)
+# [2025-12-08 13:10 updated](2025_12_08.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】倉敷市で停電 中国電力ネットワーク【岡山】 (2025-12-08 12:40) #ニュース  🕯停電情報 🔗https://www.fepc.or.jp/sp/bousai/link.html <a href="https://bsky.app/profile/sokuho.news/post/3m7h4ldgnky2q" target="_blank">sokuho.news</a> (2025-12-08 12:46:06)</span><span style="padding-right:50px;">Opinions are split as Australia prepares to ban social media for under-16s  Parents and children express mixed views on Australia's imminent ban for under-16s to join social media, which will come into effect on December 10. The world-first ban applies to the most popular social media platforms <a href="https://bsky.app/profile/en.afp.com/post/3m7h4cshtxd2k" target="_blank">en.afp.com</a> (2025-12-08 12:41:20)</span><span style="padding-right:50px;">Oil hovers near two-week highs on expected US interest rate cut, geopolitical risk reut.rs/48TufSV <a href="https://bsky.app/profile/reuters.com/post/3m7h4apco762n" target="_blank">reuters.com</a> (2025-12-08 12:40:10)</span><span style="padding-right:50px;">China's exports rebound in November, massively beating expectations after U.S. trade truce <a href="https://bsky.app/profile/cnbc.com/post/3m7h46vo4gx2a" target="_blank">cnbc.com</a> (2025-12-08 12:39:09)</span><span style="padding-right:50px;">タイの激辛トウガラシ、日本で生産　ラーメン店の魅力アップ www.nikkei.com/article/DGXZQO...   ハバネロと同様、強い辛さが特徴のプリッキーヌ。JR新宿駅近くのラーメン店「AFURI 辛紅」では、看板メニュー「柚子辛紅らーめん」の味の決め手です。   メニュー開発に当たり、もともと本場タイから冷凍状態で輸入されたプリッキーヌを使用。ただ、品質が均一でないという課題がありました。   事態を打開するカギは、意外にも国内にありました。 <a href="https://bsky.app/profile/nikkei.com/post/3m7h3rzilvd2k" target="_blank">nikkei.com</a> (2025-12-08 12:31:57)</span>
+<span style="padding-right:50px;">定数削減法案めぐり自民 立民の国対委員長会談 引き続き協議へ https://news.web.nhk/newsweb/na/na-k10014997311000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7h5ufgw262p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-08 13:09:02)</span><span style="padding-right:50px;">China’s trade surplus tops $1tn for first time on.ft.com/48KlpWs <a href="https://bsky.app/profile/financialtimes.com/post/3m7h5il3avr2w" target="_blank">financialtimes.com</a> (2025-12-08 13:02:27)</span><span style="padding-right:50px;">アニメの国際映画祭が名古屋で12日開幕　企画売買の市場も併設 www.nikkei.com/article/DGXZQO...  「あいち・なごやインターナショナル・アニメーション・フィルム・フェスティバル」  世界29カ国・地域から45作品の応募があり、そこから選出された11作品で最高賞の金鯱賞を競います。  日本からは「ひゃくえむ。」（岩井澤健治監督）など3作品が選ばれています。 <a href="https://bsky.app/profile/nikkei.com/post/3m7h5hnzgm32g" target="_blank">nikkei.com</a> (2025-12-08 13:01:57)</span><span style="padding-right:50px;">China's November exports top expectations, imports underperform reut.rs/4pWHxUt <a href="https://bsky.app/profile/reuters.com/post/3m7h5fqsmbu2w" target="_blank">reuters.com</a> (2025-12-08 13:00:53)</span><span style="padding-right:50px;">China’s exports rebounded in November after an unexpected drop the previous month, pushing the trade surplus past $1 trillion for the first time in any year <a href="https://bsky.app/profile/bloomberg.com/post/3m7h5finplq2h" target="_blank">bloomberg.com</a> (2025-12-08 13:00:44)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50501.75 (🔻141.34 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻5.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.08 (🔻0.07 : 2025-12-08)</span>
+<span style="padding-right:50px;">NIKKEI: 50409.03 (🔻234.06 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3042.00 (🔻8.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.08 (🔻0.07 : 2025-12-08)</span>
   </div>
 </div>
 
@@ -32,114 +32,102 @@
 
 ## News Headlines
 
-Here are the six important stories with headlines in English:
+Here are six important stories with headlines in English:
 
-1. **Australia to Ban Social Media for Under-16s Amid Mixed Reactions**
-2. **China's Exports Rebound in November, Beating Expectations**
-3. **Thailand Launches Airstrikes Against Cambodia, Marking Collapse of Peace Plan**
-4. **Oil Prices Hover Near Two-Week Highs Amid Expected US Interest Rate Cut**
-5. **NFL Roundup: Bills Stay in Playoff Picture with Comeback vs. Bengals**
-6. **Thailand's Military Says It Has Launched Airstrikes Against Cambodia Amid Border Conflict**
+1. China's Trade Surplus Tops $1 Trillion for First Time
+2. Thailand Strikers Down in Cambodia, Trump-Backed Truce Collapses
+3. China's Exports Rebound in November, Massive Trade Surplus
+4. NFL Roundup: Bills Stay in Playoff Picture with Comeback
+5. Thailand Launches Airstrikes on Cambodia, Border Fighting Erupts
+6. US Households Near End of Year Feeling Dour About Economy
 
 ----
 
-@sokuho.news
+@nhknewsunofficial.bsky.social
 
-🛎️FNNより【速報】です。
+定数削減法案めぐり自民 立民の国対委員長会談 引き続き協議へ
+https://news.web.nhk/newsweb/na/na-k10014997311000
 
-【速報】倉敷市で停電 中国電力ネットワーク【岡山】
-(2025-12-08 12:40) #ニュース
-
-🕯停電情報
-🔗https://www.fepc.or.jp/sp/bousai/link.html
-
-[2025-12-08 12:46:06](https://bsky.app/profile/sokuho.news/post/3m7h4ldgnky2q)
+[2025-12-08 13:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7h5ufgw262p)
 
 ---
 
-@en.afp.com
+@financialtimes.com
 
-Opinions are split as Australia prepares to ban social media for under-16s
+China’s trade surplus tops $1tn for first time on.ft.com/48KlpWs
 
-Parents and children express mixed views on Australia's imminent ban for under-16s to join social media, which will come into effect on December 10. The world-first ban applies to the most popular social media platforms
-
-[2025-12-08 12:41:20](https://bsky.app/profile/en.afp.com/post/3m7h4cshtxd2k)
-
----
-
-@reuters.com
-
-Oil hovers near two-week highs on expected US interest rate cut, geopolitical risk reut.rs/48TufSV
-
-[2025-12-08 12:40:10](https://bsky.app/profile/reuters.com/post/3m7h4apco762n)
-
----
-
-@cnbc.com
-
-China's exports rebound in November, massively beating expectations after U.S. trade truce
-
-[2025-12-08 12:39:09](https://bsky.app/profile/cnbc.com/post/3m7h46vo4gx2a)
+[2025-12-08 13:02:27](https://bsky.app/profile/financialtimes.com/post/3m7h5il3avr2w)
 
 ---
 
 @nikkei.com
 
-タイの激辛トウガラシ、日本で生産　ラーメン店の魅力アップ
+アニメの国際映画祭が名古屋で12日開幕　企画売買の市場も併設
 www.nikkei.com/article/DGXZQO...
- 
-ハバネロと同様、強い辛さが特徴のプリッキーヌ。JR新宿駅近くのラーメン店「AFURI 辛紅」では、看板メニュー「柚子辛紅らーめん」の味の決め手です。
- 
-メニュー開発に当たり、もともと本場タイから冷凍状態で輸入されたプリッキーヌを使用。ただ、品質が均一でないという課題がありました。
- 
-事態を打開するカギは、意外にも国内にありました。
 
-[2025-12-08 12:31:57](https://bsky.app/profile/nikkei.com/post/3m7h3rzilvd2k)
+「あいち・なごやインターナショナル・アニメーション・フィルム・フェスティバル」
+
+世界29カ国・地域から45作品の応募があり、そこから選出された11作品で最高賞の金鯱賞を競います。
+
+日本からは「ひゃくえむ。」（岩井澤健治監督）など3作品が選ばれています。
+
+[2025-12-08 13:01:57](https://bsky.app/profile/nikkei.com/post/3m7h5hnzgm32g)
 
 ---
 
 @reuters.com
 
-NFL roundup: Bills stay in playoff picture with comeback vs. Bengals reut.rs/4pVPAku
+China's November exports top expectations, imports underperform reut.rs/4pWHxUt
 
-[2025-12-08 12:30:22](https://bsky.app/profile/reuters.com/post/3m7h3p6vbvj2i)
+[2025-12-08 13:00:53](https://bsky.app/profile/reuters.com/post/3m7h5fqsmbu2w)
+
+---
+
+@bloomberg.com
+
+China’s exports rebounded in November after an unexpected drop the previous month, pushing the trade surplus past $1 trillion for the first time in any year
+
+[2025-12-08 13:00:44](https://bsky.app/profile/bloomberg.com/post/3m7h5finplq2h)
 
 ---
 
 @aljazeera.com
 
-At least 87 people have been killed in Trump administration's strikes on alleged drug-smuggling vessels.
+Nigeria's president says he sent fighter jets, troops to Benin to help quell a coup attempt by mutinous soldiers.
 
-[2025-12-08 12:30:15](https://bsky.app/profile/aljazeera.com/post/3m7h3oykq2x2v)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】神戸女性刺殺事件 容疑の男 鑑定留置8日に終了 2人に面識は無かったとみられる 刑事責任能力の有無を判断へ
-(2025-12-08 12:02) #ニュース
-
-[2025-12-08 12:26:26](https://bsky.app/profile/sokuho.news/post/3m7h3i5oeac2e)
+[2025-12-08 13:00:20](https://bsky.app/profile/aljazeera.com/post/3m7h5errzkq27)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@nbcnews.com
 
-宮城 スクラップ工場の廃材置き場から出火 消火活動続く
-https://news.web.nhk/newsweb/na/na-k10014997271000
+Hundreds of works were damaged at the Louvre in Paris when a pipe burst because of flooding, the museum’s deputy general administrator said.
 
-[2025-12-08 12:24:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7h3dwtir72r)
+[2025-12-08 13:00:11](https://bsky.app/profile/nbcnews.com/post/3m7h5eivprn2p)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@washingtonpost.com
 
-株価 小幅に値下がり
-https://news.web.nhk/newsweb/na/na-k10014997291000
+No one ever wants to get a root canal. But if you do need one, a new study suggests the dental procedures may have a bonus: They seem to offer both short- and long-term benefits that extend beyond the mouth.
 
-[2025-12-08 12:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7h36kwssz2e)
+[2025-12-08 13:00:08](https://bsky.app/profile/washingtonpost.com/post/3m7h5efowun23)
+
+---
+
+@cbsnews.com
+
+The watch industry is ticking away in Switzerland, where masters work with pieces the size of poppyseeds to hand make timepieces that retail for hundreds of thousands of dollars.
+
+[2025-12-08 13:00:01](https://bsky.app/profile/cbsnews.com/post/3m7h5e724su2m)
+
+---
+
+@cnn.com
+
+People of Somali descent in Minnesota have endured a dizzying week. 
+
+[2025-12-08 12:59:02](https://bsky.app/profile/cnn.com/post/3m7h5cgqzft2r)
 
 ---
 
