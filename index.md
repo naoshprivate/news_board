@@ -1,9 +1,9 @@
-# [2025-12-09 07:10 updated](2025_12_09.md)
+# [2025-12-09 07:30 updated](2025_12_09.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像5🈡 (2025-12-09 07:08:48) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m7j27oqmq224" target="_blank">sokuho.news</a> (2025-12-09 07:09:08)</span><span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像4 (2025-12-09 07:08:40) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m7j272zbvh2w" target="_blank">sokuho.news</a> (2025-12-09 07:08:47)</span><span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像2 (2025-12-09 07:08:14) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m7j26c67xf2p" target="_blank">sokuho.news</a> (2025-12-09 07:08:21)</span><span style="padding-right:50px;">Thieves armed with handguns made off with prints from the French painter’s colorful “Jazz” series on.wsj.com/44gaTEY <a href="https://bsky.app/profile/wsj.com/post/3m7j25toete2i" target="_blank">wsj.com</a> (2025-12-09 07:08:05)</span><span style="padding-right:50px;">IBM extends AI push with $11bn takeover of Confluent on.ft.com/4pkj3o8 <a href="https://bsky.app/profile/financialtimes.com/post/3m7j25swnca26" target="_blank">financialtimes.com</a> (2025-12-09 07:08:05)</span>
+<span style="padding-right:50px;">The Trump administration plans to let Nvidia export its H200 chip to China, the latest twist in the AI chip designer’s efforts to maintain access to the world’s second-largest economy. <a href="https://bsky.app/profile/wsj.com/post/3m7j3dzxjix2t" target="_blank">wsj.com</a> (2025-12-09 07:29:27)</span><span style="padding-right:50px;">パラマウントがワーナーに買収提案　Netflixに対抗、16兆円規模 www.nikkei.com/article/DGXZQO...  パラマウントはワーナー入札に参加していましたが、Netflixに競り負けました。  パラマウントは8日、現金でワーナーの普通株式を1株あたり30ドルで買い取ると発表。  Netflixは現金と株式で27.75ドルで買い取ると提案しており、これを上回ります。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m7j3bpmbbn2e" target="_blank">nikkei.com</a> (2025-12-09 07:28:09)</span><span style="padding-right:50px;">﻿ICEBlock app creator Joshua Aaron is suing the Trump administration, accusing it of abusing government power and infringing on his free speech by pushing Apple to remove ICEBlock from its app store. https://cnn.it/3MnqjkB <a href="https://bsky.app/profile/cnn.com/post/3m7j3biijbs2q" target="_blank">cnn.com</a> (2025-12-09 07:28:02)</span><span style="padding-right:50px;">Trump ally Habba resigns after court disqualified her as US Attorney reut.rs/3Mtv9wD <a href="https://bsky.app/profile/reuters.com/post/3m7j34btqyd2w" target="_blank">reuters.com</a> (2025-12-09 07:25:07)</span><span style="padding-right:50px;">青森県で震度6強 “後発地震注意情報”発表 日頃の備え確認を https://news.web.nhk/newsweb/na/na-k10014997831000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7j32g2ibs2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 07:24:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.31 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.92 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.82 (🔺0.67 : 2025-12-08)</span>
+<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.31 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.92 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.86 (🔺0.71 : 2025-12-08)</span>
   </div>
 </div>
 
@@ -32,122 +32,107 @@
 
 ## News Headlines
 
-1.  🚨地震発生中❗❗❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像22🈡 (2025-12-09 06:54:46) #緊急地震速報
-2.  気象庁より【震度速報】です。  6時52分頃、青森県・岩手県・北海道などで最大震度4の地震を観測しました。 今後の情報に注意してください。 (2025-12-09 06:54:34) #地震
-3.  IBMがConfluentを11億ドルで買収、AIの拡大を加速 - on.ft.com/4pkj3o8
-4.  Lance Stephensonはカレブウィルソンと比較し「カレブは15年ぶりのようなプレイヤーです」と述べました。 - theathletic.com
-5.  トランプ氏は中国へのNvidiaチップの販売を許可、25%のU.S.カット - on.ft.com/4q0osRq
-6.  トランプ氏は中国へのNvidia H200 AIチップの販売を許可、「Xi氏は賛意を示した」 - on.ft.com/4q0osRq
+1.  ペプシコが供給チェーンの調査と価格引き下げを検討
+2.  トランプ政権がNvidiaのH200チップの中国への輸出を許可
+3.  パラマウントがワーナーの買収を検討
+4.  アイスクレアの創造者がトランプ政権に訴訟を起こす
+5.  ハマスがイスラエルとの停戦に武器の凍結や保管を検討
+6.  IBMがConfluentを11億ドルで買収
 
 ----
 
-@sokuho.news
-
-🚨地震発生中❗❗
-
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像5🈡
-(2025-12-09 07:08:48) #緊急地震速報
-
-[2025-12-09 07:09:08](https://bsky.app/profile/sokuho.news/post/3m7j27oqmq224)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗
-
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像4
-(2025-12-09 07:08:40) #緊急地震速報
-
-[2025-12-09 07:08:47](https://bsky.app/profile/sokuho.news/post/3m7j272zbvh2w)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗
-
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像2
-(2025-12-09 07:08:14) #緊急地震速報
-
-[2025-12-09 07:08:21](https://bsky.app/profile/sokuho.news/post/3m7j26c67xf2p)
-
----
-
 @wsj.com
 
-Thieves armed with handguns made off with prints from the French painter’s colorful “Jazz” series on.wsj.com/44gaTEY
+The Trump administration plans to let Nvidia export its H200 chip to China, the latest twist in the AI chip designer’s efforts to maintain access to the world’s second-largest economy.
 
-[2025-12-09 07:08:05](https://bsky.app/profile/wsj.com/post/3m7j25toete2i)
-
----
-
-@financialtimes.com
-
-IBM extends AI push with $11bn takeover of Confluent on.ft.com/4pkj3o8
-
-[2025-12-09 07:08:05](https://bsky.app/profile/financialtimes.com/post/3m7j25swnca26)
+[2025-12-09 07:29:27](https://bsky.app/profile/wsj.com/post/3m7j3dzxjix2t)
 
 ---
 
-@nytimes.com
+@nikkei.com
 
-From @theathletic.com: "I haven’t seen many players like him in college basketball in probably 15 years."
+パラマウントがワーナーに買収提案　Netflixに対抗、16兆円規模
+www.nikkei.com/article/DGXZQO...
 
-Welcome to the Caleb Wilson Experience, where seemingly every time the 6-foot-10 freshman sensation steps on the court, something stupendous happens.
+パラマウントはワーナー入札に参加していましたが、Netflixに競り負けました。
 
-[2025-12-09 07:08:02](https://bsky.app/profile/nytimes.com/post/3m7j25qgow32l)
+パラマウントは8日、現金でワーナーの普通株式を1株あたり30ドルで買い取ると発表。
 
----
+Netflixは現金と株式で27.75ドルで買い取ると提案しており、これを上回ります。
 
-@sokuho.news
+#ニュース
 
-🚨地震発生中❗❗❗
-
-⚠️揺れに警戒してください
-🔗http://www.kmoni.bosai.go.jp/
-
-🔶防災科研/強震モニタ/予測震度画像1
-(2025-12-09 07:07:54) #緊急地震速報
-
-[2025-12-09 07:08:01](https://bsky.app/profile/sokuho.news/post/3m7j25pfst42x)
+[2025-12-09 07:28:09](https://bsky.app/profile/nikkei.com/post/3m7j3bpmbbn2e)
 
 ---
 
-@sokuho.news
+@cnn.com
 
-🔔ANNより【速報】です。
+﻿ICEBlock app creator Joshua Aaron is suing the Trump administration, accusing it of abusing government power and infringing on his free speech by pushing Apple to remove ICEBlock from its app store. https://cnn.it/3MnqjkB
 
-【速報】北海道や東北地方に出ていた津波注意報はすべて解除 気象庁
-(2025年12月9日 06:55) #ニュース
+[2025-12-09 07:28:02](https://bsky.app/profile/cnn.com/post/3m7j3biijbs2q)
 
-⬛津波情報
-🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami
+---
 
-[2025-12-09 07:06:14](https://bsky.app/profile/sokuho.news/post/3m7j22jhdfg26)
+@reuters.com
+
+Trump ally Habba resigns after court disqualified her as US Attorney reut.rs/3Mtv9wD
+
+[2025-12-09 07:25:07](https://bsky.app/profile/reuters.com/post/3m7j34btqyd2w)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-【地震速報】青森 岩手 震度4 若干の海面変動も被害の心配なし
-https://news.web.nhk/newsweb/na/na-k10014998441000
+青森県で震度6強 “後発地震注意情報”発表 日頃の備え確認を
+https://news.web.nhk/newsweb/na/na-k10014997831000
 
-[2025-12-09 07:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7j227rlsu2j)
+[2025-12-09 07:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7j32g2ibs2p)
 
 ---
 
-@axios.com
+@financialtimes.com
 
-<strong><span style="color: red;">JUST IN:</span> Trump to allow certain Nvidia chip sales to China for 25% U.S. cut</strong>
+Academics from across the UK higher education sector have warned that financial ties to Beijing have led to self-censorship. on.ft.com/4oDkblP
 
-[2025-12-09 07:05:11](https://bsky.app/profile/axios.com/post/3m7izymnhmk24)
+[2025-12-09 07:21:02](https://bsky.app/profile/financialtimes.com/post/3m7j2uyjupc2q)
+
+---
+
+@nbcnews.com
+
+Hamas is ready to discuss “freezing or storing” its arsenal of weapons as part of its ceasefire with Israel, a senior official says. 
+
+[2025-12-09 07:20:06](https://bsky.app/profile/nbcnews.com/post/3m7j2tcyj3l2j)
+
+---
+
+@cbsnews.com
+
+Eight Matisse artworks stolen from library in São Paulo, Brazilian officials say.
+
+[2025-12-09 07:20:01](https://bsky.app/profile/cbsnews.com/post/3m7j2t5zo2e2m)
+
+---
+
+@financialtimes.com
+
+Just in: Donald Trump has decided to let Nvidia export its advanced H200 chip to China. The US president also said other chipmakers would be allowed to export advanced semiconductors. on.ft.com/3YeeD6f
+
+[2025-12-09 07:19:28](https://bsky.app/profile/financialtimes.com/post/3m7j2s6leht2l)
+
+---
+
+@nikkei.com
+
+レーダー照射、日本側からの「ホットライン」に中国応じず
+www.nikkei.com/article/DGXZQO...
+
+日中防衛当局が緊急時に使う専用回線「ホットライン」。
+
+日本側が使おうとしたものの中国側は応じず、軍事対立を回避するための対話枠組みが機能しませんでした。
+
+[2025-12-09 07:15:56](https://bsky.app/profile/nikkei.com/post/3m7j2lu72ql2z)
 
 ---
 
