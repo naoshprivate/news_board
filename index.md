@@ -1,9 +1,9 @@
-# [2025-12-08 10:30 updated](2025_12_08.md)
+# [2025-12-08 10:50 updated](2025_12_08.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Exclusive: The Trump administration is prodding ranchers and meatpackers to do something about soaring beef prices, while looking at increasing imports from Mexico and South America. <a href="https://bsky.app/profile/wsj.com/post/3m7guwg45y52w" target="_blank">wsj.com</a> (2025-12-08 10:29:08)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】「廃棄物の中から見つかった」現金1800万円の“落とし物”届け出 2年前に800万円の落とし物も 新潟 (2025-12-08 10:22:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7gut26g7k2y" target="_blank">sokuho.news</a> (2025-12-08 10:27:15)</span><span style="padding-right:50px;">Employees at the Consumer Financial Protection Bureau have been in a state of limbo for months, with much of its prior work having fallen by the wayside. <a href="https://bsky.app/profile/wsj.com/post/3m7gugwekov2i" target="_blank">wsj.com</a> (2025-12-08 10:20:28)</span><span style="padding-right:50px;">From Breakingviews - Breakingviews - The Week in Breakingviews: HSBC’s heavy crown reut.rs/3MpRgEg <a href="https://bsky.app/profile/reuters.com/post/3m7guglo65w2d" target="_blank">reuters.com</a> (2025-12-08 10:20:17)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】俳優・清水尋也被告が初公判で起訴内容認める 麻薬取締法違反の罪 裁判官から「言いたいことはありますか？」と問われ「いえ、大丈夫です」東京地裁 (2025-12-08 10:03:28) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7guaqf4z42y" target="_blank">sokuho.news</a> (2025-12-08 10:17:01)</span>
+<span style="padding-right:50px;">High jewelry and wigs are more than accessories; they’re tools that can craft entire personas. <a href="https://bsky.app/profile/wsj.com/post/3m7gvzswdbg2p" target="_blank">wsj.com</a> (2025-12-08 10:48:56)</span><span style="padding-right:50px;">In @nytopinion.nytimes.com   “Producers hate Netflix because they can’t get back-end profits. A-list actors and their agents hate that they’ve put a lid on salaries and residuals. Studios hate Netflix when it poached their talent and jacked up executive salaries,” Sharon Waxman writes. <a href="https://bsky.app/profile/nytimes.com/post/3m7gvsvpi7d2m" target="_blank">nytimes.com</a> (2025-12-08 10:45:04)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】木原官房長官「中国側の指摘は当たらない」と反論 中国軍機が自衛隊機にレーダー照射 (2025-12-08 10:40:38) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7gvnnk42b2e" target="_blank">sokuho.news</a> (2025-12-08 10:42:08)</span><span style="padding-right:50px;">10月の経常収支 2兆8335億円の黒字 9か月連続で黒字に https://news.web.nhk/newsweb/na/na-k10014997111000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7gvnkeccj2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-08 10:42:02)</span><span style="padding-right:50px;">Trump says Netflix market share ‘could be a problem’ for $83bn Warner deal on.ft.com/4aD6a3X <a href="https://bsky.app/profile/financialtimes.com/post/3m7gvkofnsk26" target="_blank">financialtimes.com</a> (2025-12-08 10:40:28)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50397.76 (🔻245.33 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3048.00 (🔻2.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.03 (🔻0.12 : 2025-12-08)</span>
+<span style="padding-right:50px;">NIKKEI: 50371.83 (🔻271.26 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3047.00 (🔻3.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 154.95 (🔻0.20 : 2025-12-08)</span>
   </div>
 </div>
 
@@ -32,22 +32,32 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are the six important stories with headlines in English:
 
-1. **US Urges Ranchers and Meatpackers to Address Soaring Beef Prices**
-2. **Employees at Consumer Financial Protection Bureau Remain in Limbo**
-3. **HSBC's Heavy Crown: A Weighty Responsibility**
-4. **Everyone's Watching the Netflix Deal: A Review is Needed**
-5. **Thai Army Launches Air Strikes Along Disputed Border with Cambodia**
-6. **Trump Says He'll Be Involved in Review of Netflix-Warner Brothers Deal**
+1. "Producers Hate Netflix Because They Can't Get Back-End Profits"
+2. "China Says Air Strikes Launched Along Disputed Border Area with Cambodia"
+3. "High Jewelry and Wigs are More Than Accessories; They're Tools that Can Craft Entire Personas"
+4. "Eight Engravings by French Artist Henri Matisse Stolen from Library in Sao Paulo, Brazil"
+5. "CNBC Daily Open: Everyone's Watching the Netflix Deal"
+6. "Trump Says Netflix's Planned Acquisition of Warner Bros. Will Require a Review"
 
 ----
 
 @wsj.com
 
-Exclusive: The Trump administration is prodding ranchers and meatpackers to do something about soaring beef prices, while looking at increasing imports from Mexico and South America.
+High jewelry and wigs are more than accessories; they’re tools that can craft entire personas.
 
-[2025-12-08 10:29:08](https://bsky.app/profile/wsj.com/post/3m7guwg45y52w)
+[2025-12-08 10:48:56](https://bsky.app/profile/wsj.com/post/3m7gvzswdbg2p)
+
+---
+
+@nytimes.com
+
+In @nytopinion.nytimes.com 
+
+“Producers hate Netflix because they can’t get back-end profits. A-list actors and their agents hate that they’ve put a lid on salaries and residuals. Studios hate Netflix when it poached their talent and jacked up executive salaries,” Sharon Waxman writes.
+
+[2025-12-08 10:45:04](https://bsky.app/profile/nytimes.com/post/3m7gvsvpi7d2m)
 
 ---
 
@@ -55,84 +65,76 @@ Exclusive: The Trump administration is prodding ranchers and meatpackers to do s
 
 🛎️JNNより【速報】です。
 
-【速報】「廃棄物の中から見つかった」現金1800万円の“落とし物”届け出 2年前に800万円の落とし物も 新潟
-(2025-12-08 10:22:00) #ニュース
+【速報】木原官房長官「中国側の指摘は当たらない」と反論 中国軍機が自衛隊機にレーダー照射
+(2025-12-08 10:40:38) #ニュース
 
-[2025-12-08 10:27:15](https://bsky.app/profile/sokuho.news/post/3m7gut26g7k2y)
-
----
-
-@wsj.com
-
-Employees at the Consumer Financial Protection Bureau have been in a state of limbo for months, with much of its prior work having fallen by the wayside.
-
-[2025-12-08 10:20:28](https://bsky.app/profile/wsj.com/post/3m7gugwekov2i)
-
----
-
-@reuters.com
-
-From Breakingviews - Breakingviews - The Week in Breakingviews: HSBC’s heavy crown reut.rs/3MpRgEg
-
-[2025-12-08 10:20:17](https://bsky.app/profile/reuters.com/post/3m7guglo65w2d)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】俳優・清水尋也被告が初公判で起訴内容認める 麻薬取締法違反の罪 裁判官から「言いたいことはありますか？」と問われ「いえ、大丈夫です」東京地裁
-(2025-12-08 10:03:28) #ニュース
-
-[2025-12-08 10:17:01](https://bsky.app/profile/sokuho.news/post/3m7guaqf4z42y)
-
----
-
-@cnbc.com
-
-CNBC Daily Open: Everyone's watching the Netflix deal
-
-[2025-12-08 10:14:24](https://bsky.app/profile/cnbc.com/post/3m7gu42j4r22x)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】長野駅前近くの路上で倒れた人見つかる その場で死亡確認 警察はごみ収集車が関係する死亡ひき逃げ事件として捜査【長野】
-(2025-12-08 10:04) #ニュース
-
-[2025-12-08 10:14:22](https://bsky.app/profile/sokuho.news/post/3m7gu3zcber24)
+[2025-12-08 10:42:08](https://bsky.app/profile/sokuho.news/post/3m7gvnnk42b2e)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-真珠湾攻撃から84年 ハワイの記念公園で追悼式典
-https://news.web.nhk/newsweb/na/na-k10014997071000
+10月の経常収支 2兆8335億円の黒字 9か月連続で黒字に
+https://news.web.nhk/newsweb/na/na-k10014997111000
 
-[2025-12-08 10:12:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7gtxvib4o2b)
+[2025-12-08 10:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7gvnkeccj2b)
 
 ---
 
-@sokuho.news
+@financialtimes.com
 
-🔔ANNより【速報】です。
+Trump says Netflix market share ‘could be a problem’ for $83bn Warner deal on.ft.com/4aD6a3X
 
-【速報】俳優・清水尋也被告が初公判で起訴内容認める 麻薬取締法違反の罪
-(2025年12月8日 10:08) #ニュース
-
-[2025-12-08 10:10:17](https://bsky.app/profile/sokuho.news/post/3m7gtuoyix62w)
+[2025-12-08 10:40:28](https://bsky.app/profile/financialtimes.com/post/3m7gvkofnsk26)
 
 ---
 
 @reuters.com
 
-Thai army says air strikes launched along disputed border area with Cambodia reut.rs/48narHs
+Rupee to stay under pressure, eyes Fed decision alongside bonds reut.rs/4iMIwnQ
 
-[2025-12-08 10:10:10](https://bsky.app/profile/reuters.com/post/3m7gtuifuey2i)
+[2025-12-08 10:40:12](https://bsky.app/profile/reuters.com/post/3m7gvk754mi2d)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+高市首相動静 2025年12月5日～7日
+https://news.web.nhk/newsweb/na/na-k10014997091000
+
+[2025-12-08 10:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7gvi6j35m2p)
+
+---
+
+@en.afp.com
+
+Eight engravings by the French artist Henri Matisse stolen from a library in Sao Paulo, Brazil
+
+u.afp.com/S7qo
+
+[2025-12-08 10:37:46](https://bsky.app/profile/en.afp.com/post/3m7gvftp7wh2z)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】JR日豊本線の東別府～西大分駅間で人身事故 一部区間で運転見合わせ、遅延発生
+(2025-12-08 10:34:00) #ニュース
+
+🚃鉄道運行情報
+🔗https://transit.yahoo.co.jp/diainfo
+
+[2025-12-08 10:36:59](https://bsky.app/profile/sokuho.news/post/3m7gvehh2ql2y)
+
+---
+
+@reuters.com
+
+Robinhood to enter Indonesia with brokerage, crypto trader acquisition reut.rs/44aVPZd
+
+[2025-12-08 10:30:31](https://bsky.app/profile/reuters.com/post/3m7guyvjut52e)
 
 ---
 
