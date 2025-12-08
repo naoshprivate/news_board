@@ -1,9 +1,9 @@
-# [2025-12-09 00:30 updated](2025_12_09.md)
+# [2025-12-09 00:50 updated](2025_12_09.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Jewelry owners may want to check their homeowners insurance coverage as gold and other precious metal prices soar <a href="https://bsky.app/profile/cnbc.com/post/3m7idt3gpy72s" target="_blank">cnbc.com</a> (2025-12-09 00:28:22)</span><span style="padding-right:50px;">🔔NHKより【津波速報】です。  ■津波警報■北海道太平洋沿岸中部 青森県太平洋沿岸 岩手県 ■津波注意報■北海道太平洋沿岸西部 宮城県 ■津波注意報■北海道太平洋沿岸東部 青森県日本海沿岸 福島県 (2025-12-09 00:27) #ニュース  ⬛津波情報 🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami <a href="https://bsky.app/profile/sokuho.news/post/3m7ids3vaoh24" target="_blank">sokuho.news</a> (2025-12-09 00:27:49)</span><span style="padding-right:50px;">【北海道 東北で津波警報】各地の潮位の状況は https://news.web.nhk/newsweb/na/na-k10014998011000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7idr4cqbe23" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 00:27:15)</span><span style="padding-right:50px;">【避難情報】北海道 岩手の各地に避難指示 https://news.web.nhk/newsweb/na/na-k10014998001000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7idqyqdst2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 00:27:10)</span><span style="padding-right:50px;">【震度6強】八戸自動車道 八戸IC～浄法寺IC 上下線 通行止め https://news.web.nhk/newsweb/na/na-k10014997951000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7idqv4qhz2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 00:27:07)</span>
+<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】岩手・大槌町に「避難指示」 8日23:19時点 (2025-12-09 00:47:00) #ニュース  🟪避難情報 🔗https://crisis.yahoo.co.jp/evacuation/03/ <a href="https://bsky.app/profile/sokuho.news/post/3m7iexzhgeo2g" target="_blank">sokuho.news</a> (2025-12-09 00:49:02)</span><span style="padding-right:50px;">【停電情報】青森で約3900軒 岩手で約300軒 東北電力(0:05) https://news.web.nhk/newsweb/na/na-k10014998081000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7iewgfsqa2g" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 00:48:06)</span><span style="padding-right:50px;">携帯電話各社 災害用伝言板の運用開始 https://news.web.nhk/newsweb/na/na-k10014998061000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7iewcgug52u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 00:48:02)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】青森・むつ市に「避難指示」 00:00時点 青森県 (2025-12-09 00:44:00) #ニュース  🟪避難情報 🔗https://crisis.yahoo.co.jp/evacuation/02/ <a href="https://bsky.app/profile/sokuho.news/post/3m7ieu4arft2e" target="_blank">sokuho.news</a> (2025-12-09 00:46:50)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】岩手・洋野町に「避難指示」 8日23:23時点 (2025-12-09 00:45:00) #ニュース  🟪避難情報 🔗https://crisis.yahoo.co.jp/evacuation/03/ <a href="https://bsky.app/profile/sokuho.news/post/3m7ietu5ya62g" target="_blank">sokuho.news</a> (2025-12-09 00:46:42)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47830.72 (🔻140.79 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23556.18 (🔻82.04 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 182.90 (🔺0.26 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.82 (🔺0.67 : 2025-12-08)</span>
+<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47821.62 (🔻149.89 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23560.74 (🔻77.48 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 184.15 (🔺1.52 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.92 (🔺0.78 : 2025-12-08)</span>
   </div>
 </div>
 
@@ -32,104 +32,121 @@
 
 ## News Headlines
 
-1. 「北海道 東北で津波警報　各地の潮位の状況は」
-2. 「津波観測　青森小川原港40cm・北海道浦河40cm・岩手県久慈港30cm・北海道えりも庶野30cm・岩手県宮古も観測中」 
-3. 「北海道・三陸沖後発地震注意情報　発表基準か精査中」
-4. 「津波警報　北海道太平洋沿岸中部・青森県太平洋沿岸・岩手県」
-5. 「地震による異常は確認されていない　泊原発」
-6. 「津波警報　北海道太平洋沿岸中部・北海道太平洋沿岸東部」
+1. 岩手県大槌町に避難指示
+2. 青森県むつ市に避難指示
+3. 岩手県洋野町に避難指示
+4. 岩手県久慈市に避難指示
+5. 青森県五所川原市に避難指示
+6. 青森市内で火災発生
 
 ----
 
-@cnbc.com
+@sokuho.news
 
-Jewelry owners may want to check their homeowners insurance coverage as gold and other precious metal prices soar
+🛎️JNNより【速報】です。
 
-[2025-12-09 00:28:22](https://bsky.app/profile/cnbc.com/post/3m7idt3gpy72s)
+【速報】岩手・大槌町に「避難指示」 8日23:19時点
+(2025-12-09 00:47:00) #ニュース
+
+🟪避難情報
+🔗https://crisis.yahoo.co.jp/evacuation/03/
+
+[2025-12-09 00:49:02](https://bsky.app/profile/sokuho.news/post/3m7iexzhgeo2g)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【停電情報】青森で約3900軒 岩手で約300軒 東北電力(0:05)
+https://news.web.nhk/newsweb/na/na-k10014998081000
+
+[2025-12-09 00:48:06](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7iewgfsqa2g)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+携帯電話各社 災害用伝言板の運用開始
+https://news.web.nhk/newsweb/na/na-k10014998061000
+
+[2025-12-09 00:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7iewcgug52u)
 
 ---
 
 @sokuho.news
 
-🔔NHKより【津波速報】です。
+🛎️JNNより【速報】です。
 
-■津波警報■北海道太平洋沿岸中部 青森県太平洋沿岸 岩手県
-■津波注意報■北海道太平洋沿岸西部 宮城県
-■津波注意報■北海道太平洋沿岸東部 青森県日本海沿岸 福島県
-(2025-12-09 00:27) #ニュース
+【速報】青森・むつ市に「避難指示」 00:00時点 青森県
+(2025-12-09 00:44:00) #ニュース
 
-⬛津波情報
-🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami
+🟪避難情報
+🔗https://crisis.yahoo.co.jp/evacuation/02/
 
-[2025-12-09 00:27:49](https://bsky.app/profile/sokuho.news/post/3m7ids3vaoh24)
+[2025-12-09 00:46:50](https://bsky.app/profile/sokuho.news/post/3m7ieu4arft2e)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@sokuho.news
 
-【北海道 東北で津波警報】各地の潮位の状況は
-https://news.web.nhk/newsweb/na/na-k10014998011000
+🛎️JNNより【速報】です。
 
-[2025-12-09 00:27:15](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7idr4cqbe23)
+【速報】岩手・洋野町に「避難指示」 8日23:23時点
+(2025-12-09 00:45:00) #ニュース
 
----
+🟪避難情報
+🔗https://crisis.yahoo.co.jp/evacuation/03/
 
-@nhknewsunofficial.bsky.social
-
-【避難情報】北海道 岩手の各地に避難指示
-https://news.web.nhk/newsweb/na/na-k10014998001000
-
-[2025-12-09 00:27:10](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7idqyqdst2b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【震度6強】八戸自動車道 八戸IC～浄法寺IC 上下線 通行止め
-https://news.web.nhk/newsweb/na/na-k10014997951000
-
-[2025-12-09 00:27:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7idqv4qhz2j)
-
----
-
-@nhknewsunofficial.bsky.social
-
-防衛省 戦闘機などで情報収集 “0時現在 大規模火災確認なし”
-https://news.web.nhk/newsweb/na/na-k10014998051000
-
-[2025-12-09 00:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7idqrguvh2k)
-
----
-
-@en.afp.com
-
-#UPDATE Japan records 40-centimetre (16-inch) tsunami after major quake
-
-[2025-12-09 00:26:43](https://bsky.app/profile/en.afp.com/post/3m7idq4fhks2s)
-
----
-
-@cnbc.com
-
-NextEra to build 15 gigawatts of power for data centers by 2035
-
-[2025-12-09 00:26:12](https://bsky.app/profile/cnbc.com/post/3m7idp7kgza2y)
+[2025-12-09 00:46:42](https://bsky.app/profile/sokuho.news/post/3m7ietu5ya62g)
 
 ---
 
 @reuters.com
 
-Morning Bid: The final Fed countdown reut.rs/4pWxbnE
+Meta to offer choices on personal Facebook and Instagram ads, EU says reut.rs/3KDLSNk
 
-[2025-12-09 00:25:04](https://bsky.app/profile/reuters.com/post/3m7idn6qdsp2i)
+[2025-12-09 00:45:08](https://bsky.app/profile/reuters.com/post/3m7ier22ux52k)
+
+---
+
+@washingtonpost.com
+
+Former Democratic congressman Colin Allred is dropping out of the Senate race in Texas and will instead run for a new congressional district, which covers part of the Dallas area and was formed by Republican-led redistricting. 
+
+[2025-12-09 00:45:07](https://bsky.app/profile/washingtonpost.com/post/3m7ieqzdqwg2r)
 
 ---
 
 @cnbc.com
 
-How to play further gains in copper using options on this mining stock
+Next year could set a record for M&A. One Wall Street stock stands to benefit most in 2026
 
-[2025-12-09 00:25:02](https://bsky.app/profile/cnbc.com/post/3m7idn4s47x2j)
+[2025-12-09 00:44:18](https://bsky.app/profile/cnbc.com/post/3m7iepkwus52e)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】岩手・久慈市に「避難指示」 8日23:24時点
+(2025-12-09 00:42:00) #ニュース
+
+🟪避難情報
+🔗https://crisis.yahoo.co.jp/evacuation/03/
+
+[2025-12-09 00:44:01](https://bsky.app/profile/sokuho.news/post/3m7iep2bsw32e)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】「北海道・三陸沖後発地震注意情報」発表基準を満たすか気象庁が評価開始 午後11時15分ごろ青森県東方沖でM7.6の地震
+(2025-12-09 00:16:06) #地震
+
+[2025-12-09 00:43:06](https://bsky.app/profile/sokuho.news/post/3m7ienfxpen24)
 
 ---
 
