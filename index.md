@@ -1,9 +1,9 @@
-# [2025-12-08 19:50 updated](2025_12_08.md)
+# [2025-12-08 20:10 updated](2025_12_08.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">EU will step in to unblock power grid bottlenecks, draft shows reut.rs/3XDn37d <a href="https://bsky.app/profile/reuters.com/post/3m7htymhdq42i" target="_blank">reuters.com</a> (2025-12-08 19:45:08)</span><span style="padding-right:50px;">サツマイモ、実は60種も存在　北海道でも試作始まる www.nikkei.com/article/DGXZQO...   2024年の輸出額は33億円で14年から9倍と、サツマイモ人気は海外にも波及。アジア圏だけでなく、北米や欧州向けも輸出が始まり、世界が認める日本の味の一つになりつつあります。   もともと寒さには弱い野菜ですが、需要拡大と温暖化が後押しとなり、産地は北上しています。 <a href="https://bsky.app/profile/nikkei.com/post/3m7htsushry26" target="_blank">nikkei.com</a> (2025-12-08 19:41:56)</span><span style="padding-right:50px;">Gazprom delivers first post-sanctions LNG cargo from Portovaya to China, data shows reut.rs/3MxVw4B <a href="https://bsky.app/profile/reuters.com/post/3m7htpndgvg2d" target="_blank">reuters.com</a> (2025-12-08 19:40:07)</span><span style="padding-right:50px;">Thailand said it used F-16 fighter jets to bomb Cambodian military targets on Monday to retaliate against cross-border firing that killed at least one Thai soldier, in a sharp escalation of a dispute between the two nations that President Trump claimed to have ended. <a href="https://bsky.app/profile/nytimes.com/post/3m7htpmrlnr2d" target="_blank">nytimes.com</a> (2025-12-08 19:40:06)</span><span style="padding-right:50px;">Israeli Prime Minister Benjamin Netanyahu says he will meet President Trump later this month, saying a second phase of the U.S. president's Gaza plan is close. <a href="https://bsky.app/profile/nbcnews.com/post/3m7htpkl34v2t" target="_blank">nbcnews.com</a> (2025-12-08 19:40:04)</span>
+<span style="padding-right:50px;">スルメイカ漁 長崎など5県 資源調べる「試験操業」可能に https://news.web.nhk/newsweb/na/na-k10014997671000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7hv624xzp2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-08 20:06:02)</span><span style="padding-right:50px;">Japan's JERA signs first long-term LNG export deal with India's Torrent Power reut.rs/3MtL2TO <a href="https://bsky.app/profile/reuters.com/post/3m7hv4cv6ga2k" target="_blank">reuters.com</a> (2025-12-08 20:05:06)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】妙義山で山火事 8万平方メートルが焼ける 人に被害なし あすの朝から消防作業再開 群馬県消防 (2025-12-08 19:31:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7huygcoks2w" target="_blank">sokuho.news</a> (2025-12-08 20:02:55)</span><span style="padding-right:50px;">トロッコ問題をAIに判断させるとしたら www.nikkei.com/article/DGXZQO...  AI開発者に求められるのは、判断に透明性を与え説明責任を果たすこと。しかし、倫理観を足手まといと見なす人々も存在します。  #超知能 #日経_連載 <a href="https://bsky.app/profile/nikkei.com/post/3m7huwnivo32w" target="_blank">nikkei.com</a> (2025-12-08 20:01:56)</span><span style="padding-right:50px;">Here’s what Netflix gains from acquiring Warner Bros., in charts. <a href="https://bsky.app/profile/wsj.com/post/3m7huvxe7kl2x" target="_blank">wsj.com</a> (2025-12-08 20:01:32)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.48 (🔺0.33 : 2025-12-08)</span>
+<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.53 (🔺0.38 : 2025-12-08)</span>
   </div>
 </div>
 
@@ -34,97 +34,104 @@
 
 Here are six important stories with headlines in English:
 
-1. EU to Unblock Power Grid Bottlenecks
-2. Japan to Start Commercial Production of Satsuma Mandarin Oranges
-3. Gazprom Delivers First Post-Sanctions LNG Cargo to China
-4. Thailand Used F-16 Fighter Jets to Bomb Cambodian Military Targets
-5. US Supreme Court Hears Arguments on President Trump's Firing of Federal Trade Commissioner
+1. LNG Export Deal Signed Between JERA and India's Torrent Power
+2. India's Fuel Demand Hits Six-Month Peak in November
+3. Real Coach Alonso Seeks Team to Bounce Back Against Man City
+4. EU to Unblock Power Grid Bottlenecks, Draft Shows
+5. Thailand and Cambodia Engage in Deadly Border Clash
 6. China's Trade Surplus Surpasses $1 Trillion for the First Time
 
 ----
 
+@nhknewsunofficial.bsky.social
+
+スルメイカ漁 長崎など5県 資源調べる「試験操業」可能に
+https://news.web.nhk/newsweb/na/na-k10014997671000
+
+[2025-12-08 20:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7hv624xzp2j)
+
+---
+
 @reuters.com
 
-EU will step in to unblock power grid bottlenecks, draft shows reut.rs/3XDn37d
+Japan's JERA signs first long-term LNG export deal with India's Torrent Power reut.rs/3MtL2TO
 
-[2025-12-08 19:45:08](https://bsky.app/profile/reuters.com/post/3m7htymhdq42i)
+[2025-12-08 20:05:06](https://bsky.app/profile/reuters.com/post/3m7hv4cv6ga2k)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】妙義山で山火事 8万平方メートルが焼ける 人に被害なし あすの朝から消防作業再開 群馬県消防
+(2025-12-08 19:31:00) #ニュース
+
+[2025-12-08 20:02:55](https://bsky.app/profile/sokuho.news/post/3m7huygcoks2w)
 
 ---
 
 @nikkei.com
 
-サツマイモ、実は60種も存在　北海道でも試作始まる
+トロッコ問題をAIに判断させるとしたら
 www.nikkei.com/article/DGXZQO...
- 
-2024年の輸出額は33億円で14年から9倍と、サツマイモ人気は海外にも波及。アジア圏だけでなく、北米や欧州向けも輸出が始まり、世界が認める日本の味の一つになりつつあります。
- 
-もともと寒さには弱い野菜ですが、需要拡大と温暖化が後押しとなり、産地は北上しています。
 
-[2025-12-08 19:41:56](https://bsky.app/profile/nikkei.com/post/3m7htsushry26)
+AI開発者に求められるのは、判断に透明性を与え説明責任を果たすこと。しかし、倫理観を足手まといと見なす人々も存在します。
 
----
+#超知能 #日経_連載
 
-@reuters.com
-
-Gazprom delivers first post-sanctions LNG cargo from Portovaya to China, data shows reut.rs/3MxVw4B
-
-[2025-12-08 19:40:07](https://bsky.app/profile/reuters.com/post/3m7htpndgvg2d)
-
----
-
-@nytimes.com
-
-Thailand said it used F-16 fighter jets to bomb Cambodian military targets on Monday to retaliate against cross-border firing that killed at least one Thai soldier, in a sharp escalation of a dispute between the two nations that President Trump claimed to have ended.
-
-[2025-12-08 19:40:06](https://bsky.app/profile/nytimes.com/post/3m7htpmrlnr2d)
-
----
-
-@nbcnews.com
-
-Israeli Prime Minister Benjamin Netanyahu says he will meet President Trump later this month, saying a second phase of the U.S. president's Gaza plan is close.
-
-[2025-12-08 19:40:04](https://bsky.app/profile/nbcnews.com/post/3m7htpkl34v2t)
+[2025-12-08 20:01:56](https://bsky.app/profile/nikkei.com/post/3m7huwnivo32w)
 
 ---
 
 @wsj.com
 
-President Trump said Netflix’s $72 billion deal to acquire Warner Bros. “could be a problem” because it would result in a large market share for the streaming giant.
+Here’s what Netflix gains from acquiring Warner Bros., in charts.
 
-[2025-12-08 19:40:02](https://bsky.app/profile/wsj.com/post/3m7htpj64lo2o)
-
----
-
-@npr.org
-
-The Supreme Court hears arguments in a case about President Trump's firing of a Federal Trade Commissioner. At stake is a 90-year precedent limiting the president's power over independent agencies. n.pr/49X9yGK
-
-[2025-12-08 19:39:46](https://bsky.app/profile/npr.org/post/3m7htozqghx2s)
-
----
-
-@en.afp.com
-
-Benin's president said the "situation is completely under control" in his country after the government thwarted an attempted coup on Sunday thanks to loyalist soldiers with support from Nigerian forces ➡️ u.afp.com/S7cL
-
-[2025-12-08 19:39:29](https://bsky.app/profile/en.afp.com/post/3m7htojb3yt2j)
+[2025-12-08 20:01:32](https://bsky.app/profile/wsj.com/post/3m7huvxe7kl2x)
 
 ---
 
 @reuters.com
 
-LIVE: UN Environment Assembly convenes in Nairobi youtube.com/live/7lMHwOk...
+India's fuel demand hits six-month peak in November reut.rs/48EpdIN
 
-[2025-12-08 19:39:01](https://bsky.app/profile/reuters.com/post/3m7htnnu6ws24)
+[2025-12-08 20:00:47](https://bsky.app/profile/reuters.com/post/3m7huum76nx2e)
 
 ---
 
-@reuters.com
+@cnbc.com
 
-Magnum Ice Cream shares debut in Amsterdam at 12.20 euros reut.rs/3Mqc12E
+Students pursuing professional degrees will be able to borrow up to $200,000 in federal student loans beginning in 2026.
 
-[2025-12-08 19:35:04](https://bsky.app/profile/reuters.com/post/3m7htgmj4z222)
+The Department of Education has named these 11 degree fields that meet the requirements to be considered professional.
+
+[2025-12-08 20:00:18](https://bsky.app/profile/cnbc.com/post/3m7hutprfhr2j)
+
+---
+
+@washingtonpost.com
+
+More than 40 percent of 18- to 29-year-olds surveyed last month said they are struggling or just getting by, and one-quarter believe they’ll be worse off financially than their parents, according to a new poll from Harvard.
+
+[2025-12-08 20:00:13](https://bsky.app/profile/washingtonpost.com/post/3m7hutlsb3r2o)
+
+---
+
+@nbcnews.com
+
+A woman who was recorded shouting racist slurs at a couple in Wisconsin has been fired from the Cinnabon franchise where the outburst occurred.
+
+[2025-12-08 20:00:06](https://bsky.app/profile/nbcnews.com/post/3m7hutemuih22)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+真珠湾攻撃から84年 “国中心で戦争関連の資料収集し活用を”
+https://news.web.nhk/newsweb/na/na-k10014997691000
+
+[2025-12-08 20:00:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7hutdnjrd2p)
 
 ---
 
