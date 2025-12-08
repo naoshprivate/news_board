@@ -1,9 +1,9 @@
-# [2025-12-09 06:50 updated](2025_12_09.md)
+# [2025-12-09 07:10 updated](2025_12_09.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Items found in Luigi Mangione's backpack when he was arrested in Pennsylvania last year include a handgun, a silencer, a magazine with bullets wrapped in underwear and a red notebook that an officer called a "manifesto." <a href="https://bsky.app/profile/nbcnews.com/post/3m7iz3rrqsx2j" target="_blank">nbcnews.com</a> (2025-12-09 06:49:03)</span><span style="padding-right:50px;">“Five Nights at Freddy’s” opened in 3,412 theaters in the U.S. and Canada and far surpassed expectations with $63 million in ticket sales, according to studio estimates. <a href="https://bsky.app/profile/nbcnews.com/post/3m7iyy7254y2h" target="_blank">nbcnews.com</a> (2025-12-09 06:47:03)</span><span style="padding-right:50px;">EUが小型EV規格、中国勢念頭に域内生産を保護　日本の「軽」参考に www.nikkei.com/article/DGXZQO...  新分類の名称は「E Car」。通常のEVより技術要件を緩和することで欧州車大手の車両コストを下げて普及を促進。中国勢の低価格EVに対抗する狙いです。 <a href="https://bsky.app/profile/nikkei.com/post/3m7iyw7txtz2i" target="_blank">nikkei.com</a> (2025-12-09 06:45:56)</span><span style="padding-right:50px;">Planned December 15 strike at France's Louvre Museum adds to catalogue of woes reut.rs/4q2mvUB <a href="https://bsky.app/profile/reuters.com/post/3m7iyuu4csh22" target="_blank">reuters.com</a> (2025-12-09 06:45:10)</span><span style="padding-right:50px;">米 ゴールデングローブ賞 アニメ映画賞の候補に「鬼滅の刃」 https://news.web.nhk/newsweb/na/na-k10014998291000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7iyuobnn52k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 06:45:02)</span>
+<span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像5🈡 (2025-12-09 07:08:48) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m7j27oqmq224" target="_blank">sokuho.news</a> (2025-12-09 07:09:08)</span><span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像4 (2025-12-09 07:08:40) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m7j272zbvh2w" target="_blank">sokuho.news</a> (2025-12-09 07:08:47)</span><span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像2 (2025-12-09 07:08:14) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m7j26c67xf2p" target="_blank">sokuho.news</a> (2025-12-09 07:08:21)</span><span style="padding-right:50px;">Thieves armed with handguns made off with prints from the French painter’s colorful “Jazz” series on.wsj.com/44gaTEY <a href="https://bsky.app/profile/wsj.com/post/3m7j25toete2i" target="_blank">wsj.com</a> (2025-12-09 07:08:05)</span><span style="padding-right:50px;">IBM extends AI push with $11bn takeover of Confluent on.ft.com/4pkj3o8 <a href="https://bsky.app/profile/financialtimes.com/post/3m7j25swnca26" target="_blank">financialtimes.com</a> (2025-12-09 07:08:05)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.31 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.92 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.93 (🔺0.79 : 2025-12-08)</span>
+<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.31 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.92 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.82 (🔺0.67 : 2025-12-08)</span>
   </div>
 </div>
 
@@ -32,98 +32,122 @@
 
 ## News Headlines
 
-1. 「米 ゴールデングローブ賞 アニメ映画賞の候補に「鬼滅の刃」」
-2. 「スキー モーグルW杯第2戦 堀島行真が2位 2戦連続の表彰台に」
-3. 「北海道～福島県沿岸の津波注意報 すべて解除」
-4. 「米 ゴールドグローブ賞で「スパイダーマン」が3冠達成」
-5. 「EUが小型EV規格、中国勢念頭に域内生産を保護　日本の「軽」参考に」
-6. 「北海道や東北地方の津波注意報を全て解除」
+1.  🚨地震発生中❗❗❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像22🈡 (2025-12-09 06:54:46) #緊急地震速報
+2.  気象庁より【震度速報】です。  6時52分頃、青森県・岩手県・北海道などで最大震度4の地震を観測しました。 今後の情報に注意してください。 (2025-12-09 06:54:34) #地震
+3.  IBMがConfluentを11億ドルで買収、AIの拡大を加速 - on.ft.com/4pkj3o8
+4.  Lance Stephensonはカレブウィルソンと比較し「カレブは15年ぶりのようなプレイヤーです」と述べました。 - theathletic.com
+5.  トランプ氏は中国へのNvidiaチップの販売を許可、25%のU.S.カット - on.ft.com/4q0osRq
+6.  トランプ氏は中国へのNvidia H200 AIチップの販売を許可、「Xi氏は賛意を示した」 - on.ft.com/4q0osRq
 
 ----
 
-@nbcnews.com
+@sokuho.news
 
-Items found in Luigi Mangione's backpack when he was arrested in Pennsylvania last year include a handgun, a silencer, a magazine with bullets wrapped in underwear and a red notebook that an officer called a "manifesto."
+🚨地震発生中❗❗
 
-[2025-12-09 06:49:03](https://bsky.app/profile/nbcnews.com/post/3m7iz3rrqsx2j)
+⚠️揺れに警戒してください
 
----
+🔶防災科研/強震モニタ/予測震度画像5🈡
+(2025-12-09 07:08:48) #緊急地震速報
 
-@nbcnews.com
-
-“Five Nights at Freddy’s” opened in 3,412 theaters in the U.S. and Canada and far surpassed expectations with $63 million in ticket sales, according to studio estimates.
-
-[2025-12-09 06:47:03](https://bsky.app/profile/nbcnews.com/post/3m7iyy7254y2h)
+[2025-12-09 07:09:08](https://bsky.app/profile/sokuho.news/post/3m7j27oqmq224)
 
 ---
 
-@nikkei.com
+@sokuho.news
 
-EUが小型EV規格、中国勢念頭に域内生産を保護　日本の「軽」参考に
-www.nikkei.com/article/DGXZQO...
+🚨地震発生中❗❗
 
-新分類の名称は「E Car」。通常のEVより技術要件を緩和することで欧州車大手の車両コストを下げて普及を促進。中国勢の低価格EVに対抗する狙いです。
+⚠️揺れに警戒してください
 
-[2025-12-09 06:45:56](https://bsky.app/profile/nikkei.com/post/3m7iyw7txtz2i)
+🔶防災科研/強震モニタ/予測震度画像4
+(2025-12-09 07:08:40) #緊急地震速報
 
----
-
-@reuters.com
-
-Planned December 15 strike at France's Louvre Museum adds to catalogue of woes reut.rs/4q2mvUB
-
-[2025-12-09 06:45:10](https://bsky.app/profile/reuters.com/post/3m7iyuu4csh22)
+[2025-12-09 07:08:47](https://bsky.app/profile/sokuho.news/post/3m7j272zbvh2w)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@sokuho.news
 
-米 ゴールデングローブ賞 アニメ映画賞の候補に「鬼滅の刃」
-https://news.web.nhk/newsweb/na/na-k10014998291000
+🚨地震発生中❗❗
 
-[2025-12-09 06:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7iyuobnn52k)
+⚠️揺れに警戒してください
 
----
+🔶防災科研/強震モニタ/予測震度画像2
+(2025-12-09 07:08:14) #緊急地震速報
 
-@cbsnews.com
-
-Congress is aiming to withhold part of Defense Secretary Pete Hegseth's travel budget until the Pentagon hands over footage of the strikes on alleged drug-smuggling boats near Venezuela. 
-
-
-
-[2025-12-09 06:45:00](https://bsky.app/profile/cbsnews.com/post/3m7iyuko4lm2a)
+[2025-12-09 07:08:21](https://bsky.app/profile/sokuho.news/post/3m7j26c67xf2p)
 
 ---
 
 @wsj.com
 
-A famed investor’s decision to dump a half-dozen San Diego office buildings is turning the city’s image upside down.
+Thieves armed with handguns made off with prints from the French painter’s colorful “Jazz” series on.wsj.com/44gaTEY
 
-[2025-12-09 06:42:00](https://bsky.app/profile/wsj.com/post/3m7iyp6ewm72l)
-
----
-
-@reuters.com
-
-Turkey to guarantee flow of Russian gas to Hungary, Orban says reut.rs/4oHE2QQ
-
-[2025-12-09 06:40:15](https://bsky.app/profile/reuters.com/post/3m7iym23qo722)
+[2025-12-09 07:08:05](https://bsky.app/profile/wsj.com/post/3m7j25toete2i)
 
 ---
 
-@nbcnews.com
+@financialtimes.com
 
-As packages left outside home for delivery are targeted for theft this holiday season, police warn more thieves are using jammers to scramble the video on wifi connected home security cameras.
+IBM extends AI push with $11bn takeover of Confluent on.ft.com/4pkj3o8
 
-[2025-12-09 06:40:07](https://bsky.app/profile/nbcnews.com/post/3m7iylssitm2j)
+[2025-12-09 07:08:05](https://bsky.app/profile/financialtimes.com/post/3m7j25swnca26)
 
 ---
 
 @nytimes.com
 
-President Trump accused a group of Democratic lawmakers of sedition when they told members of the military that they must refuse unlawful orders. But Pam Bondi, the attorney general, said the same thing last year.
+From @theathletic.com: "I haven’t seen many players like him in college basketball in probably 15 years."
 
-[2025-12-09 06:40:04](https://bsky.app/profile/nytimes.com/post/3m7iylprme52x)
+Welcome to the Caleb Wilson Experience, where seemingly every time the 6-foot-10 freshman sensation steps on the court, something stupendous happens.
+
+[2025-12-09 07:08:02](https://bsky.app/profile/nytimes.com/post/3m7j25qgow32l)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗❗
+
+⚠️揺れに警戒してください
+🔗http://www.kmoni.bosai.go.jp/
+
+🔶防災科研/強震モニタ/予測震度画像1
+(2025-12-09 07:07:54) #緊急地震速報
+
+[2025-12-09 07:08:01](https://bsky.app/profile/sokuho.news/post/3m7j25pfst42x)
+
+---
+
+@sokuho.news
+
+🔔ANNより【速報】です。
+
+【速報】北海道や東北地方に出ていた津波注意報はすべて解除 気象庁
+(2025年12月9日 06:55) #ニュース
+
+⬛津波情報
+🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami
+
+[2025-12-09 07:06:14](https://bsky.app/profile/sokuho.news/post/3m7j22jhdfg26)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【地震速報】青森 岩手 震度4 若干の海面変動も被害の心配なし
+https://news.web.nhk/newsweb/na/na-k10014998441000
+
+[2025-12-09 07:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7j227rlsu2j)
+
+---
+
+@axios.com
+
+<strong><span style="color: red;">JUST IN:</span> Trump to allow certain Nvidia chip sales to China for 25% U.S. cut</strong>
+
+[2025-12-09 07:05:11](https://bsky.app/profile/axios.com/post/3m7izymnhmk24)
 
 ---
 
