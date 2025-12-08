@@ -1,9 +1,9 @@
-# [2025-12-08 12:30 updated](2025_12_08.md)
+# [2025-12-08 12:50 updated](2025_12_08.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】神戸女性刺殺事件 容疑の男 鑑定留置8日に終了 2人に面識は無かったとみられる 刑事責任能力の有無を判断へ (2025-12-08 12:02) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7h3i5oeac2e" target="_blank">sokuho.news</a> (2025-12-08 12:26:26)</span><span style="padding-right:50px;">宮城 スクラップ工場の廃材置き場から出火 消火活動続く https://news.web.nhk/newsweb/na/na-k10014997271000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7h3dwtir72r" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-08 12:24:03)</span><span style="padding-right:50px;">株価 小幅に値下がり https://news.web.nhk/newsweb/na/na-k10014997291000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7h36kwssz2e" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-08 12:21:02)</span><span style="padding-right:50px;">IBM nears roughly $11 billion deal for Confluent, WSJ reports reut.rs/3XGpdD2 <a href="https://bsky.app/profile/reuters.com/post/3m7h34xhyf226" target="_blank">reuters.com</a> (2025-12-08 12:20:10)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】バイクの危険運転一斉取り締まり バイク事故による死亡者数増加 大阪府警 (2025-12-08 11:50) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7h2xbqasx2g" target="_blank">sokuho.news</a> (2025-12-08 12:17:00)</span>
+<span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】倉敷市で停電 中国電力ネットワーク【岡山】 (2025-12-08 12:40) #ニュース  🕯停電情報 🔗https://www.fepc.or.jp/sp/bousai/link.html <a href="https://bsky.app/profile/sokuho.news/post/3m7h4ldgnky2q" target="_blank">sokuho.news</a> (2025-12-08 12:46:06)</span><span style="padding-right:50px;">Opinions are split as Australia prepares to ban social media for under-16s  Parents and children express mixed views on Australia's imminent ban for under-16s to join social media, which will come into effect on December 10. The world-first ban applies to the most popular social media platforms <a href="https://bsky.app/profile/en.afp.com/post/3m7h4cshtxd2k" target="_blank">en.afp.com</a> (2025-12-08 12:41:20)</span><span style="padding-right:50px;">Oil hovers near two-week highs on expected US interest rate cut, geopolitical risk reut.rs/48TufSV <a href="https://bsky.app/profile/reuters.com/post/3m7h4apco762n" target="_blank">reuters.com</a> (2025-12-08 12:40:10)</span><span style="padding-right:50px;">China's exports rebound in November, massively beating expectations after U.S. trade truce <a href="https://bsky.app/profile/cnbc.com/post/3m7h46vo4gx2a" target="_blank">cnbc.com</a> (2025-12-08 12:39:09)</span><span style="padding-right:50px;">タイの激辛トウガラシ、日本で生産　ラーメン店の魅力アップ www.nikkei.com/article/DGXZQO...   ハバネロと同様、強い辛さが特徴のプリッキーヌ。JR新宿駅近くのラーメン店「AFURI 辛紅」では、看板メニュー「柚子辛紅らーめん」の味の決め手です。   メニュー開発に当たり、もともと本場タイから冷凍状態で輸入されたプリッキーヌを使用。ただ、品質が均一でないという課題がありました。   事態を打開するカギは、意外にも国内にありました。 <a href="https://bsky.app/profile/nikkei.com/post/3m7h3rzilvd2k" target="_blank">nikkei.com</a> (2025-12-08 12:31:57)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50473.84 (🔻169.25 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3048.00 (🔻2.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.02 (🔻0.12 : 2025-12-08)</span>
+<span style="padding-right:50px;">NIKKEI: 50501.75 (🔻141.34 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻5.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.08 (🔻0.07 : 2025-12-08)</span>
   </div>
 </div>
 
@@ -32,16 +32,87 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are the six important stories with headlines in English:
 
-1. **Thai Soldier Killed in Airstrikes Along Cambodia Border**
-2. **Fire Hits Scrap Factory in Miyagi, Japan**
-3. **IBM Near $11 Billion Deal for Confluent, WSJ Reports**
-4. **Thailand Launches Airstrikes on Cambodia Amid Border Tensions**
-5. **Global Economy Worsens, US Households Feel the Pinch**
-6. **Thailand's Military Launches Airstrikes on Cambodia, Killing Soldier**
+1. **Australia to Ban Social Media for Under-16s Amid Mixed Reactions**
+2. **China's Exports Rebound in November, Beating Expectations**
+3. **Thailand Launches Airstrikes Against Cambodia, Marking Collapse of Peace Plan**
+4. **Oil Prices Hover Near Two-Week Highs Amid Expected US Interest Rate Cut**
+5. **NFL Roundup: Bills Stay in Playoff Picture with Comeback vs. Bengals**
+6. **Thailand's Military Says It Has Launched Airstrikes Against Cambodia Amid Border Conflict**
 
 ----
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】倉敷市で停電 中国電力ネットワーク【岡山】
+(2025-12-08 12:40) #ニュース
+
+🕯停電情報
+🔗https://www.fepc.or.jp/sp/bousai/link.html
+
+[2025-12-08 12:46:06](https://bsky.app/profile/sokuho.news/post/3m7h4ldgnky2q)
+
+---
+
+@en.afp.com
+
+Opinions are split as Australia prepares to ban social media for under-16s
+
+Parents and children express mixed views on Australia's imminent ban for under-16s to join social media, which will come into effect on December 10. The world-first ban applies to the most popular social media platforms
+
+[2025-12-08 12:41:20](https://bsky.app/profile/en.afp.com/post/3m7h4cshtxd2k)
+
+---
+
+@reuters.com
+
+Oil hovers near two-week highs on expected US interest rate cut, geopolitical risk reut.rs/48TufSV
+
+[2025-12-08 12:40:10](https://bsky.app/profile/reuters.com/post/3m7h4apco762n)
+
+---
+
+@cnbc.com
+
+China's exports rebound in November, massively beating expectations after U.S. trade truce
+
+[2025-12-08 12:39:09](https://bsky.app/profile/cnbc.com/post/3m7h46vo4gx2a)
+
+---
+
+@nikkei.com
+
+タイの激辛トウガラシ、日本で生産　ラーメン店の魅力アップ
+www.nikkei.com/article/DGXZQO...
+ 
+ハバネロと同様、強い辛さが特徴のプリッキーヌ。JR新宿駅近くのラーメン店「AFURI 辛紅」では、看板メニュー「柚子辛紅らーめん」の味の決め手です。
+ 
+メニュー開発に当たり、もともと本場タイから冷凍状態で輸入されたプリッキーヌを使用。ただ、品質が均一でないという課題がありました。
+ 
+事態を打開するカギは、意外にも国内にありました。
+
+[2025-12-08 12:31:57](https://bsky.app/profile/nikkei.com/post/3m7h3rzilvd2k)
+
+---
+
+@reuters.com
+
+NFL roundup: Bills stay in playoff picture with comeback vs. Bengals reut.rs/4pVPAku
+
+[2025-12-08 12:30:22](https://bsky.app/profile/reuters.com/post/3m7h3p6vbvj2i)
+
+---
+
+@aljazeera.com
+
+At least 87 people have been killed in Trump administration's strikes on alleged drug-smuggling vessels.
+
+[2025-12-08 12:30:15](https://bsky.app/profile/aljazeera.com/post/3m7h3oykq2x2v)
+
+---
 
 @sokuho.news
 
@@ -69,69 +140,6 @@ https://news.web.nhk/newsweb/na/na-k10014997271000
 https://news.web.nhk/newsweb/na/na-k10014997291000
 
 [2025-12-08 12:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7h36kwssz2e)
-
----
-
-@reuters.com
-
-IBM nears roughly $11 billion deal for Confluent, WSJ reports reut.rs/3XGpdD2
-
-[2025-12-08 12:20:10](https://bsky.app/profile/reuters.com/post/3m7h34xhyf226)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】バイクの危険運転一斉取り締まり バイク事故による死亡者数増加 大阪府警
-(2025-12-08 11:50) #ニュース
-
-[2025-12-08 12:17:00](https://bsky.app/profile/sokuho.news/post/3m7h2xbqasx2g)
-
----
-
-@nytimes.com
-
-In @nytopinion.nytimes.com 
-
-There’s a new buzzword in fashion — but it’s not clear if it actually means anything, Isabel Cristo writes. “For the conscious shopper, ‘quality’ becomes a new permission structure to soothe our shopaholic souls.”
-
-[2025-12-08 12:15:06](https://bsky.app/profile/nytimes.com/post/3m7h2tva2yj2l)
-
----
-
-@nhknewsunofficial.bsky.social
-
-牛舎にクマ1頭が6時間以上とどまる 被害確認されず 岩手 二戸
-https://news.web.nhk/newsweb/na/na-k10014997281000
-
-[2025-12-08 12:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7h2tt2ltn2t)
-
----
-
-@apnews.com
-
-Thailand launched airstrikes along the disputed border with Cambodia as both sides accused the other of attacking first.
-
-[2025-12-08 12:10:11](https://bsky.app/profile/apnews.com/post/3m7h2l3jwcn2f)
-
----
-
-@reuters.com
-
-Europe runs away with World Champions Cup triumph reut.rs/44Mw6Xb
-
-[2025-12-08 12:10:08](https://bsky.app/profile/reuters.com/post/3m7h2kzdikp2k)
-
----
-
-@nhknewsunofficial.bsky.social
-
-中国軍戦闘機のレーダー照射 官房長官 中国側主張に反論
-https://news.web.nhk/newsweb/na/na-k10014997161000
-
-[2025-12-08 12:09:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7h2jbdbef2p)
 
 ---
 
