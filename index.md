@@ -1,9 +1,9 @@
-# [2025-12-09 08:10 updated](2025_12_09.md)
+# [2025-12-09 08:30 updated](2025_12_09.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Food industry groups sue Texas over ingredient warning labels reut.rs/3Mi4e7b <a href="https://bsky.app/profile/reuters.com/post/3m7j5ds34h52w" target="_blank">reuters.com</a> (2025-12-09 08:05:07)</span><span style="padding-right:50px;">Jamie Dimon is assembling a who’s who of business leaders, politicians and generals to advise JPMorgan on how to invest to protect the U.S. from foreign adversaries. <a href="https://bsky.app/profile/wsj.com/post/3m7j5cwphvc2a" target="_blank">wsj.com</a> (2025-12-09 08:04:38)</span><span style="padding-right:50px;">AIと壁打ち、SF小説家・葦沢かもめ氏の執筆風景 www.nikkei.com/article/DGXZQO...  「冒頭は心象風景の繊細な描写から」。執筆に行き詰まらない代わりに頭を悩ませるのはAIを操るプロンプトづくり。  全ての指示を読み込ませると、数分で原稿用紙数百枚分の文章が画面に流れ始めました。  #超知能 #日経_連載 <a href="https://bsky.app/profile/nikkei.com/post/3m7j565xjjj2g" target="_blank">nikkei.com</a> (2025-12-09 08:01:58)</span><span style="padding-right:50px;">Mexican lawmakers to debate China tariffs proposal, may soften blow on steel and auto parts reut.rs/3YdLmsm <a href="https://bsky.app/profile/reuters.com/post/3m7j54wdro527" target="_blank">reuters.com</a> (2025-12-09 08:01:16)</span><span style="padding-right:50px;">Lan Ho was working as a retail pharmacist at Walgreens earning about $120,000 a year, before she decided to quit her job to start a coffee company. <a href="https://bsky.app/profile/cnbc.com/post/3m7j54s7p7j23" target="_blank">cnbc.com</a> (2025-12-09 08:01:12)</span>
+<span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】1日近く経った今も延焼中…群馬・妙義山の山火事 消火活動が再開 (08:28) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7j6p4mphq2x" target="_blank">sokuho.news</a> (2025-12-09 08:29:20)</span><span style="padding-right:50px;">President Donald Trump is taking an increasingly personal role in the government’s clemency process, wielding pardons with historic frequency to aid allies and advance his own political grievances.  <a href="https://bsky.app/profile/cnn.com/post/3m7j6okkwa52b" target="_blank">cnn.com</a> (2025-12-09 08:29:01)</span><span style="padding-right:50px;">トランプ大統領 “エヌビディア製半導体 中国向け輸出を許可” https://news.web.nhk/newsweb/na/na-k10014998511000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7j6l33ul724" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 08:27:02)</span><span style="padding-right:50px;">NBA's Terry Rozier pleads not guilty in bet rigging case reut.rs/3XI3avC <a href="https://bsky.app/profile/reuters.com/post/3m7j6hlm3v62w" target="_blank">reuters.com</a> (2025-12-09 08:25:08)</span><span style="padding-right:50px;">チョルノービリ原発 シェルター安全機能失われる 無人機攻撃で https://news.web.nhk/newsweb/na/na-k10014998471000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7j6aicpav2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 08:21:07)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.31 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.92 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.93 (🔺0.01 : 2025-12-08)</span>
+<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.31 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.92 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.90 (🔻0.02 : 2025-12-08)</span>
   </div>
 </div>
 
@@ -32,99 +32,99 @@
 
 ## News Headlines
 
-1. 連邦上訴裁判所は、ハバの不適格宣告を支持
-2. 連邦上訴裁判所は、ハバの不適格宣告を支持
-3. エアバスとボーイング、納入遅れで航空機の不足に
-4. エアバスとボーイング、納入遅れで航空機の不足に
-5. モロッコ、深海港2つを2026年と2028年に開港
-6. パラマウントがワーナーを買収することを発表
+1. トランプ大統領「エヌビディア製半導体　中国向け輸出を許可」
+2. チョルノービリ原発　シェルター安全機能失われる　無人機攻撃で
+3. 【震度6強】北海道と東北の避難指示　すべて解除
+4. エアバス・ボーイング納入遅れ　受注残10年分に膨張　航空遅延リスク
+5. 13人の死者　エクアドル南部の刑務所で暴力発生
+6. ゼレンスキー氏、ロシアとの修正和平案を9日にもアメリカに提示へ
 
 ----
 
-@reuters.com
+@sokuho.news
 
-Food industry groups sue Texas over ingredient warning labels reut.rs/3Mi4e7b
+🔔ANNより【速報】です。
 
-[2025-12-09 08:05:07](https://bsky.app/profile/reuters.com/post/3m7j5ds34h52w)
+【速報】1日近く経った今も延焼中…群馬・妙義山の山火事 消火活動が再開
+(08:28) #ニュース
 
----
-
-@wsj.com
-
-Jamie Dimon is assembling a who’s who of business leaders, politicians and generals to advise JPMorgan on how to invest to protect the U.S. from foreign adversaries.
-
-[2025-12-09 08:04:38](https://bsky.app/profile/wsj.com/post/3m7j5cwphvc2a)
-
----
-
-@nikkei.com
-
-AIと壁打ち、SF小説家・葦沢かもめ氏の執筆風景
-www.nikkei.com/article/DGXZQO...
-
-「冒頭は心象風景の繊細な描写から」。執筆に行き詰まらない代わりに頭を悩ませるのはAIを操るプロンプトづくり。
-
-全ての指示を読み込ませると、数分で原稿用紙数百枚分の文章が画面に流れ始めました。
-
-#超知能 #日経_連載
-
-[2025-12-09 08:01:58](https://bsky.app/profile/nikkei.com/post/3m7j565xjjj2g)
-
----
-
-@reuters.com
-
-Mexican lawmakers to debate China tariffs proposal, may soften blow on steel and auto parts reut.rs/3YdLmsm
-
-[2025-12-09 08:01:16](https://bsky.app/profile/reuters.com/post/3m7j54wdro527)
-
----
-
-@cnbc.com
-
-Lan Ho was working as a retail pharmacist at Walgreens earning about $120,000 a year, before she decided to quit her job to start a coffee company.
-
-[2025-12-09 08:01:12](https://bsky.app/profile/cnbc.com/post/3m7j54s7p7j23)
-
----
-
-@apnews.com
-
-Jani Silva is a renowned environmental activist in Colombia’s Amazon, but she has been unable to live in her house for nearly a decade.
-
-[2025-12-09 08:01:07](https://bsky.app/profile/apnews.com/post/3m7j54ntyhh2p)
+[2025-12-09 08:29:20](https://bsky.app/profile/sokuho.news/post/3m7j6p4mphq2x)
 
 ---
 
 @cnn.com
 
-At least 13 inmates were found dead at a southern Ecuadorian prison ravaged by violence in recent months, the country’s prison service SNAI announced. 
+President Donald Trump is taking an increasingly personal role in the government’s clemency process, wielding pardons with historic frequency to aid allies and advance his own political grievances. 
 
-[2025-12-09 08:01:02](https://bsky.app/profile/cnn.com/post/3m7j54ikxph2n)
-
----
-
-@aljazeera.com
-
-A federal appeals court this month upheld Habba's 'disqualification' as US attorney, despite Trump's attacks on judges.
-
-[2025-12-09 08:00:29](https://bsky.app/profile/aljazeera.com/post/3m7j53jwvsb2l)
+[2025-12-09 08:29:01](https://bsky.app/profile/cnn.com/post/3m7j6okkwa52b)
 
 ---
 
-@washingtonpost.com
+@nhknewsunofficial.bsky.social
 
-The National Park Service will offer free admission to U.S. residents on President Trump’s birthday next year but is eliminating the benefit for Martin Luther King Jr. Day and Juneteenth.
+トランプ大統領 “エヌビディア製半導体 中国向け輸出を許可”
+https://news.web.nhk/newsweb/na/na-k10014998511000
 
-[2025-12-09 08:00:16](https://bsky.app/profile/washingtonpost.com/post/3m7j534v33o2r)
+[2025-12-09 08:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7j6l33ul724)
 
 ---
 
-@usatoday.com
+@reuters.com
 
-The incoming New York City mayor is not only switching boroughs, from Queens to Manhattan, but is also upgrading from one bedroom to five.
+NBA's Terry Rozier pleads not guilty in bet rigging case reut.rs/3XI3avC
 
-[2025-12-09 08:00:09](https://bsky.app/profile/usatoday.com/post/3m7j52w6fm52d)
+[2025-12-09 08:25:08](https://bsky.app/profile/reuters.com/post/3m7j6hlm3v62w)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+チョルノービリ原発 シェルター安全機能失われる 無人機攻撃で
+https://news.web.nhk/newsweb/na/na-k10014998471000
+
+[2025-12-09 08:21:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7j6aicpav2j)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【震度6強】北海道と東北の避難指示 すべて解除
+https://news.web.nhk/newsweb/na/na-k10014998491000
+
+[2025-12-09 08:21:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7j6acm7zo26)
+
+---
+
+@nbcnews.com
+
+The creator behind ICEBlock, an app that tracked immigration enforcement officials’ activities, is suing the Trump administration two months after his app was removed from the Apple app store following criticism from officials.
+
+[2025-12-09 08:20:07](https://bsky.app/profile/nbcnews.com/post/3m7j66mfu6b2y)
+
+---
+
+@cbsnews.com
+
+Lawmaker asks what happened to federal investigation into "predatory" for-profit dialysis industry.
+
+[2025-12-09 08:20:01](https://bsky.app/profile/cbsnews.com/post/3m7j66hbtub2d)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+「北海道・三陸沖後発地震注意情報」を発表 内閣府・気象庁
+https://news.web.nhk/newsweb/na/na-k10014998281000
+
+[2025-12-09 08:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7j62xmtpm23)
+
+---
+
+@reuters.com
+
+Bank of England's Taylor expects inflation to fall to target 'in the near term' reut.rs/44eUnVN
+
+[2025-12-09 08:15:10](https://bsky.app/profile/reuters.com/post/3m7j5vrekxq2k)
 
 ---
 
