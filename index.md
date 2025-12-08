@@ -1,9 +1,9 @@
-# [2025-12-08 15:10 updated](2025_12_08.md)
+# [2025-12-08 15:30 updated](2025_12_08.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Indonesia to revise retention rules for export earnings in new year, CNBC Indonesia reported reut.rs/4iItyiL <a href="https://bsky.app/profile/reuters.com/post/3m7hdjflus42d" target="_blank">reuters.com</a> (2025-12-08 14:50:18)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】中央本線・上り 甲府～大月 運転を再開 午後2時35分 (2025-12-08 14:47:00) #ニュース  🚃鉄道運行情報 🔗https://transit.yahoo.co.jp/diainfo <a href="https://bsky.app/profile/sokuho.news/post/3m7hdioa5hh24" target="_blank">sokuho.news</a> (2025-12-08 14:49:53)</span><span style="padding-right:50px;"> The UK must do more than go on muddling through on.ft.com/3KNTSLJ  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m7hcxzfpt72l" target="_blank">financialtimes.com</a> (2025-12-08 14:40:34)</span><span style="padding-right:50px;">Fiorentina takes security measures after players receive threats reut.rs/44HGeR2 <a href="https://bsky.app/profile/reuters.com/post/3m7hcxbn6es27" target="_blank">reuters.com</a> (2025-12-08 14:40:09)</span><span style="padding-right:50px;">政府 補正予算案提出 片山財務相 “物価高対策を早急に” https://news.web.nhk/newsweb/na/na-k10014997151000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7hcvdw34a2n" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-08 14:39:03)</span>
+<span style="padding-right:50px;">How Thailand-Cambodia conflict went from Trump-backed ceasefire to airstrikes reut.rs/3XIlLI1 <a href="https://bsky.app/profile/reuters.com/post/3m7hfhn756n2d" target="_blank">reuters.com</a> (2025-12-08 15:25:06)</span><span style="padding-right:50px;">長期金利 上昇続く 10年もの国債利回り1.96％に https://news.web.nhk/newsweb/na/na-k10014997431000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7hffwdgao2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-08 15:24:07)</span><span style="padding-right:50px;">企業・団体献金3法案 あす実質審議入りで合意 https://news.web.nhk/newsweb/na/na-k10014997401000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7hffsajoq2g" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-08 15:24:02)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】JR奥羽線で人身事故 秋田新幹線も秋田－大曲間で運転見合わせ 午後4時ごろ運転再開見込み (2025-12-08 15:20) #ニュース  🚄鉄道運行情報 🔗https://transit.yahoo.co.jp/diainfo <a href="https://bsky.app/profile/sokuho.news/post/3m7hfatjinz26" target="_blank">sokuho.news</a> (2025-12-08 15:21:18)</span><span style="padding-right:50px;">NBA レイカーズ 八村塁 17得点でチームの勝利に貢献 https://news.web.nhk/newsweb/na/na-k10014997371000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7hf33ofuu2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-08 15:18:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50519.44 (🔻123.65 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3049.00 (🔻1.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.17 (🔺0.02 : 2025-12-08)</span>
+<span style="padding-right:50px;">NIKKEI: 50507.34 (🔻135.75 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3049.00 (🔻1.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.26 (🔺0.12 : 2025-12-08)</span>
   </div>
 </div>
 
@@ -34,109 +34,105 @@
 
 Here are six important stories with headlines in English:
 
-1. Indonesia to Revise Retention Rules for Export Earnings
-2. Syria Marks One Year Since Fall of Longtime Ruler Bashar al-Assad
-3. US Unveils $12 Billion Farm Aid Package Amid Trade Disputes
-4. Deutsche Bank Seeks 40% Pay Bump for Highest-Paid Chair
-5. Cambodia and Thailand's Militaries Engage in Border Disputes
-6. Record Surplus in China's Trade Balance Amid De-Escalation of Trade Tensions
+1. Thailand-Cambodia Conflict Escalates: Airstrikes Follow Trump-Backed Ceasefire
+2. Moore Threads' IPO Gives It $40 Billion Valuation, Founder Becomes China's Latest AI Billionaire
+3. NATO Allies Commit to Spent 5% of GDP on Defense, Trump Hails 'Monumental Win'
+4. Syria Marks One Year Since Fall of President Assad, But New Problems Emerge
+5. Deutsche Bank Seeks 40% Pay Bump for Highest-Paid Chair in Dax
+6. India's Airline Turbulence: A Result of Its Own Making
 
 ----
 
 @reuters.com
 
-Indonesia to revise retention rules for export earnings in new year, CNBC Indonesia reported reut.rs/4iItyiL
+How Thailand-Cambodia conflict went from Trump-backed ceasefire to airstrikes reut.rs/3XIlLI1
 
-[2025-12-08 14:50:18](https://bsky.app/profile/reuters.com/post/3m7hdjflus42d)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】中央本線・上り 甲府～大月 運転を再開 午後2時35分
-(2025-12-08 14:47:00) #ニュース
-
-🚃鉄道運行情報
-🔗https://transit.yahoo.co.jp/diainfo
-
-[2025-12-08 14:49:53](https://bsky.app/profile/sokuho.news/post/3m7hdioa5hh24)
-
----
-
-@financialtimes.com
-
- The UK must do more than go on muddling through on.ft.com/3KNTSLJ  | opinion
-
-[2025-12-08 14:40:34](https://bsky.app/profile/financialtimes.com/post/3m7hcxzfpt72l)
-
----
-
-@reuters.com
-
-Fiorentina takes security measures after players receive threats reut.rs/44HGeR2
-
-[2025-12-08 14:40:09](https://bsky.app/profile/reuters.com/post/3m7hcxbn6es27)
+[2025-12-08 15:25:06](https://bsky.app/profile/reuters.com/post/3m7hfhn756n2d)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-政府 補正予算案提出 片山財務相 “物価高対策を早急に”
-https://news.web.nhk/newsweb/na/na-k10014997151000
+長期金利 上昇続く 10年もの国債利回り1.96％に
+https://news.web.nhk/newsweb/na/na-k10014997431000
 
-[2025-12-08 14:39:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7hcvdw34a2n)
+[2025-12-08 15:24:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7hffwdgao2j)
 
 ---
 
-@nikkei.com
+@nhknewsunofficial.bsky.social
 
-自民・維新、「議員定数削減」の週内審議入り探る
-www.nikkei.com/article/DGXZQO...
- 
-1年以内に結論を得られなければ小選挙区25、比例代表20を自動的に削減する条項が対立の火種です。
- 
-立憲民主党の野田佳彦代表は「民主主義の根幹に関わる話をこんな乱暴にやることではない」と批判。公明党の斉藤鉄夫代表も「民主主義の手続きを否定するやり方だと言わざるを得ない」と言及しました。
- 
-#ニュース
+企業・団体献金3法案 あす実質審議入りで合意
+https://news.web.nhk/newsweb/na/na-k10014997401000
 
-[2025-12-08 14:31:57](https://bsky.app/profile/nikkei.com/post/3m7hcim3yxh22)
+[2025-12-08 15:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7hffsajoq2g)
 
 ---
 
 @sokuho.news
 
-🛎️FNNより【速報】です。
+🛎️NNNより【速報】です。
 
-【速報】吉村代表「そんなもの自分のお金で行くべき。『そこまで言わなきゃいけないんですか』ということ」維新・奥下衆院議員“後援会がキャバクラ・ラウンジへ政治資金から支出”受けて
-(2025-12-08 13:40) #ニュース
+【速報】JR奥羽線で人身事故 秋田新幹線も秋田－大曲間で運転見合わせ 午後4時ごろ運転再開見込み
+(2025-12-08 15:20) #ニュース
 
-[2025-12-08 14:31:11](https://bsky.app/profile/sokuho.news/post/3m7hcha6wzj2e)
+🚄鉄道運行情報
+🔗https://transit.yahoo.co.jp/diainfo
+
+[2025-12-08 15:21:18](https://bsky.app/profile/sokuho.news/post/3m7hfatjinz26)
 
 ---
 
-@apnews.com
+@nhknewsunofficial.bsky.social
 
-Jeff Kent has been elected to baseball's Hall of Fame by the contemporary era committee, while steroids-tainted stars Barry Bonds and Roger Clemens were among seven players who fell short once again.
+NBA レイカーズ 八村塁 17得点でチームの勝利に貢献
+https://news.web.nhk/newsweb/na/na-k10014997371000
 
-[2025-12-08 14:30:38](https://bsky.app/profile/apnews.com/post/3m7hcgawhqo22)
+[2025-12-08 15:18:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7hf33ofuu2b)
 
 ---
 
 @reuters.com
 
-Syria to mark one year since Assad toppled reut.rs/4pYDVkU
+China's November imports of soybeans and crude oil rise reut.rs/48onCb4
 
-[2025-12-08 14:30:18](https://bsky.app/profile/reuters.com/post/3m7hcfnkorp2i)
+[2025-12-08 15:15:08](https://bsky.app/profile/reuters.com/post/3m7hevsxdtc27)
 
 ---
 
-@aljazeera.com
+@financialtimes.com
 
-Syria is marking one year since the fall of longtime ruler Bashar al-Assad after nearly 14 years of war.
+To the irritation of some other European capitals, Paris has withheld any details on the institutions holding the world's second biggest accumulation of immobilised Russian state funds on.ft.com/4pUtSxa
 
-[2025-12-08 14:30:13](https://bsky.app/profile/aljazeera.com/post/3m7hcfijel42h)
+[2025-12-08 15:14:07](https://bsky.app/profile/financialtimes.com/post/3m7hetyiylm24)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】“紀州のドン・ファン”資産家殺害事件の控訴審始まる 一審「無罪」須藤被告はスーツ姿で出廷
+(2025-12-08 15:12) #ニュース
+
+[2025-12-08 15:12:58](https://bsky.app/profile/sokuho.news/post/3m7herwvrw42m)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+The South African Afrikaners hoping to go to the US as refugees: 'We are an endangered species'
+
+[2025-12-08 15:12:18](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7heqrwyiu2x)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+中国 11月の対米輸出額 去年同月比マイナス28％余 低迷続く
+https://news.web.nhk/newsweb/na/na-k10014997421000
+
+[2025-12-08 15:12:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7heqed4d62e)
 
 ---
 
