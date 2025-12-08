@@ -1,9 +1,9 @@
-# [2025-12-09 00:10 updated](2025_12_09.md)
+# [2025-12-09 00:30 updated](2025_12_09.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Here's who gets Social Security payments this week on Dec. 10 <a href="https://bsky.app/profile/usatoday.com/post/3m7icqtapit2u" target="_blank">usatoday.com</a> (2025-12-09 00:09:13)</span><span style="padding-right:50px;">【避難情報】北海道 新冠町 沿岸部の2024世帯3650人に避難指示 https://news.web.nhk/newsweb/na/na-k10014997971000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7icqld33x2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 00:09:02)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】岩手・普代村に「避難指示」 7日23:23時点 (2025-12-09 00:05:00) #ニュース  🟪避難情報 🔗https://crisis.yahoo.co.jp/evacuation/03/ <a href="https://bsky.app/profile/sokuho.news/post/3m7icpqoxf62l" target="_blank">sokuho.news</a> (2025-12-09 00:08:37)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】岩手・田野畑村に「避難指示」 7日23:23時点 (2025-12-09 00:05:00) #ニュース  🟪避難情報 🔗https://crisis.yahoo.co.jp/evacuation/03/ <a href="https://bsky.app/profile/sokuho.news/post/3m7icpitod22y" target="_blank">sokuho.news</a> (2025-12-09 00:08:28)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】北海道・浦河で0.4mの津波を観測 北海道・東北地方に津波警報発表 (2025-12-09 00:02) #ニュース  ⬛津波情報 🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami <a href="https://bsky.app/profile/sokuho.news/post/3m7icpcr5vk24" target="_blank">sokuho.news</a> (2025-12-09 00:08:22)</span>
+<span style="padding-right:50px;">Jewelry owners may want to check their homeowners insurance coverage as gold and other precious metal prices soar <a href="https://bsky.app/profile/cnbc.com/post/3m7idt3gpy72s" target="_blank">cnbc.com</a> (2025-12-09 00:28:22)</span><span style="padding-right:50px;">🔔NHKより【津波速報】です。  ■津波警報■北海道太平洋沿岸中部 青森県太平洋沿岸 岩手県 ■津波注意報■北海道太平洋沿岸西部 宮城県 ■津波注意報■北海道太平洋沿岸東部 青森県日本海沿岸 福島県 (2025-12-09 00:27) #ニュース  ⬛津波情報 🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami <a href="https://bsky.app/profile/sokuho.news/post/3m7ids3vaoh24" target="_blank">sokuho.news</a> (2025-12-09 00:27:49)</span><span style="padding-right:50px;">【北海道 東北で津波警報】各地の潮位の状況は https://news.web.nhk/newsweb/na/na-k10014998011000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7idr4cqbe23" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 00:27:15)</span><span style="padding-right:50px;">【避難情報】北海道 岩手の各地に避難指示 https://news.web.nhk/newsweb/na/na-k10014998001000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7idqyqdst2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 00:27:10)</span><span style="padding-right:50px;">【震度6強】八戸自動車道 八戸IC～浄法寺IC 上下線 通行止め https://news.web.nhk/newsweb/na/na-k10014997951000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7idqv4qhz2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 00:27:07)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47842.97 (🔻128.54 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23601.35 (🔻36.87 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 183.08 (🔺0.45 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.87 (🔺0.72 : 2025-12-08)</span>
+<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47830.72 (🔻140.79 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23556.18 (🔻82.04 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 182.90 (🔺0.26 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.82 (🔺0.67 : 2025-12-08)</span>
   </div>
 </div>
 
@@ -32,79 +32,20 @@
 
 ## News Headlines
 
-1. 【津波警報発令　北海道・東北で大津波の危険あり】
-2. 【岩手県で6強の地震　八戸市内で複数のけが人か】
-3. 【避難指示　岩手県の3つの村】
-4. 【中国製ロケットが原因　タイがカンボジアに空爆】
-5. 【津波観測　北海道・東北で40cm以上の津波観測あり】
-6. 【震度6強　青森県で大きな被害　避難指示が出るか】
+1. 「北海道 東北で津波警報　各地の潮位の状況は」
+2. 「津波観測　青森小川原港40cm・北海道浦河40cm・岩手県久慈港30cm・北海道えりも庶野30cm・岩手県宮古も観測中」 
+3. 「北海道・三陸沖後発地震注意情報　発表基準か精査中」
+4. 「津波警報　北海道太平洋沿岸中部・青森県太平洋沿岸・岩手県」
+5. 「地震による異常は確認されていない　泊原発」
+6. 「津波警報　北海道太平洋沿岸中部・北海道太平洋沿岸東部」
 
 ----
 
-@usatoday.com
+@cnbc.com
 
-Here's who gets Social Security payments this week on Dec. 10
+Jewelry owners may want to check their homeowners insurance coverage as gold and other precious metal prices soar
 
-[2025-12-09 00:09:13](https://bsky.app/profile/usatoday.com/post/3m7icqtapit2u)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【避難情報】北海道 新冠町 沿岸部の2024世帯3650人に避難指示
-https://news.web.nhk/newsweb/na/na-k10014997971000
-
-[2025-12-09 00:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7icqld33x2k)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】岩手・普代村に「避難指示」 7日23:23時点
-(2025-12-09 00:05:00) #ニュース
-
-🟪避難情報
-🔗https://crisis.yahoo.co.jp/evacuation/03/
-
-[2025-12-09 00:08:37](https://bsky.app/profile/sokuho.news/post/3m7icpqoxf62l)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】岩手・田野畑村に「避難指示」 7日23:23時点
-(2025-12-09 00:05:00) #ニュース
-
-🟪避難情報
-🔗https://crisis.yahoo.co.jp/evacuation/03/
-
-[2025-12-09 00:08:28](https://bsky.app/profile/sokuho.news/post/3m7icpitod22y)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】北海道・浦河で0.4mの津波を観測 北海道・東北地方に津波警報発表
-(2025-12-09 00:02) #ニュース
-
-⬛津波情報
-🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami
-
-[2025-12-09 00:08:22](https://bsky.app/profile/sokuho.news/post/3m7icpcr5vk24)
-
----
-
-@nytimes.com
-
-From @theathletic.com: A 3-year-old Indian toddler has become the youngest player in chess history to earn an official FIDE rating after beating opponents in their 20s.
-
-[2025-12-09 00:08:07](https://bsky.app/profile/nytimes.com/post/3m7icouc24w2d)
+[2025-12-09 00:28:22](https://bsky.app/profile/cnbc.com/post/3m7idt3gpy72s)
 
 ---
 
@@ -113,51 +54,82 @@ From @theathletic.com: A 3-year-old Indian toddler has become the youngest playe
 🔔NHKより【津波速報】です。
 
 ■津波警報■北海道太平洋沿岸中部 青森県太平洋沿岸 岩手県
-■津波注意報■宮城県 北海道太平洋沿岸東部
-■津波注意報■北海道太平洋沿岸西部 青森県日本海沿岸 福島県
-(2025-12-09 00:07) #ニュース
+■津波注意報■北海道太平洋沿岸西部 宮城県
+■津波注意報■北海道太平洋沿岸東部 青森県日本海沿岸 福島県
+(2025-12-09 00:27) #ニュース
 
 ⬛津波情報
 🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami
 
-[2025-12-09 00:08:00](https://bsky.app/profile/sokuho.news/post/3m7icoo57qc24)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】岩手沖で70センチ、宮城沖で50センチの津波を観測 間もなく到着の見込み 今すぐ逃げてください
-(2025-12-09 00:07) #ニュース
-
-⬛津波情報
-🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami
-
-[2025-12-09 00:07:29](https://bsky.app/profile/sokuho.news/post/3m7icnq5wsi2q)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】岩手・釜石市に「避難指示」 8日23:31時点
-(2025-12-09 00:03:00) #ニュース
-
-🟪避難情報
-🔗https://crisis.yahoo.co.jp/evacuation/03/
-
-[2025-12-09 00:06:06](https://bsky.app/profile/sokuho.news/post/3m7iclb7arc2y)
+[2025-12-09 00:27:49](https://bsky.app/profile/sokuho.news/post/3m7ids3vaoh24)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-【交通影響】震度６強 新千歳空港は影響を確認中
-https://news.web.nhk/newsweb/na/na-k10014997931000
+【北海道 東北で津波警報】各地の潮位の状況は
+https://news.web.nhk/newsweb/na/na-k10014998011000
 
-[2025-12-09 00:06:06](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7icldchax2r)
+[2025-12-09 00:27:15](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7idr4cqbe23)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【避難情報】北海道 岩手の各地に避難指示
+https://news.web.nhk/newsweb/na/na-k10014998001000
+
+[2025-12-09 00:27:10](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7idqyqdst2b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【震度6強】八戸自動車道 八戸IC～浄法寺IC 上下線 通行止め
+https://news.web.nhk/newsweb/na/na-k10014997951000
+
+[2025-12-09 00:27:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7idqv4qhz2j)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+防衛省 戦闘機などで情報収集 “0時現在 大規模火災確認なし”
+https://news.web.nhk/newsweb/na/na-k10014998051000
+
+[2025-12-09 00:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7idqrguvh2k)
+
+---
+
+@en.afp.com
+
+#UPDATE Japan records 40-centimetre (16-inch) tsunami after major quake
+
+[2025-12-09 00:26:43](https://bsky.app/profile/en.afp.com/post/3m7idq4fhks2s)
+
+---
+
+@cnbc.com
+
+NextEra to build 15 gigawatts of power for data centers by 2035
+
+[2025-12-09 00:26:12](https://bsky.app/profile/cnbc.com/post/3m7idp7kgza2y)
+
+---
+
+@reuters.com
+
+Morning Bid: The final Fed countdown reut.rs/4pWxbnE
+
+[2025-12-09 00:25:04](https://bsky.app/profile/reuters.com/post/3m7idn6qdsp2i)
+
+---
+
+@cnbc.com
+
+How to play further gains in copper using options on this mining stock
+
+[2025-12-09 00:25:02](https://bsky.app/profile/cnbc.com/post/3m7idn4s47x2j)
 
 ---
 
