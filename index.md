@@ -1,9 +1,9 @@
-# [2025-12-08 20:10 updated](2025_12_08.md)
+# [2025-12-08 20:30 updated](2025_12_08.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">スルメイカ漁 長崎など5県 資源調べる「試験操業」可能に https://news.web.nhk/newsweb/na/na-k10014997671000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7hv624xzp2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-08 20:06:02)</span><span style="padding-right:50px;">Japan's JERA signs first long-term LNG export deal with India's Torrent Power reut.rs/3MtL2TO <a href="https://bsky.app/profile/reuters.com/post/3m7hv4cv6ga2k" target="_blank">reuters.com</a> (2025-12-08 20:05:06)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】妙義山で山火事 8万平方メートルが焼ける 人に被害なし あすの朝から消防作業再開 群馬県消防 (2025-12-08 19:31:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7huygcoks2w" target="_blank">sokuho.news</a> (2025-12-08 20:02:55)</span><span style="padding-right:50px;">トロッコ問題をAIに判断させるとしたら www.nikkei.com/article/DGXZQO...  AI開発者に求められるのは、判断に透明性を与え説明責任を果たすこと。しかし、倫理観を足手まといと見なす人々も存在します。  #超知能 #日経_連載 <a href="https://bsky.app/profile/nikkei.com/post/3m7huwnivo32w" target="_blank">nikkei.com</a> (2025-12-08 20:01:56)</span><span style="padding-right:50px;">Here’s what Netflix gains from acquiring Warner Bros., in charts. <a href="https://bsky.app/profile/wsj.com/post/3m7huvxe7kl2x" target="_blank">wsj.com</a> (2025-12-08 20:01:32)</span>
+<span style="padding-right:50px;">For most of the year, a couple hundred Hamas militants have manned fighting positions in the tunnels under southern Gaza. But the walls are closing in. <a href="https://bsky.app/profile/wsj.com/post/3m7hweyut252j" target="_blank">wsj.com</a> (2025-12-08 20:27:51)</span><span style="padding-right:50px;">Thailand launched air strikes on Monday on its neighbour Cambodia, with both sides trading blame for renewed fighting on their disputed border that has killed four Cambodian civilians and a Thai soldier ➡️ u.afp.com/S7pN <a href="https://bsky.app/profile/en.afp.com/post/3m7hwed7tog25" target="_blank">en.afp.com</a> (2025-12-08 20:27:29)</span><span style="padding-right:50px;">🚨地震発生中❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像7🈡 (2025-12-08 20:26:42) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m7hwd53q7z24" target="_blank">sokuho.news</a> (2025-12-08 20:26:49)</span><span style="padding-right:50px;">🚨地震発生中❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像6 (2025-12-08 20:26:24) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m7hwczsum42l" target="_blank">sokuho.news</a> (2025-12-08 20:26:45)</span><span style="padding-right:50px;">🚨地震発生中❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像5 (2025-12-08 20:26:04) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m7hwcoia2x2p" target="_blank">sokuho.news</a> (2025-12-08 20:26:33)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.53 (🔺0.38 : 2025-12-08)</span>
+<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.52 (🔺0.37 : 2025-12-08)</span>
   </div>
 </div>
 
@@ -32,106 +32,130 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are the six important stories with headlines in English:
 
-1. LNG Export Deal Signed Between JERA and India's Torrent Power
-2. India's Fuel Demand Hits Six-Month Peak in November
-3. Real Coach Alonso Seeks Team to Bounce Back Against Man City
-4. EU to Unblock Power Grid Bottlenecks, Draft Shows
-5. Thailand and Cambodia Engage in Deadly Border Clash
-6. China's Trade Surplus Surpasses $1 Trillion for the First Time
+1. Thailand and Cambodia Escalate Border Dispute
+2. Water Leak Damages Louvre's Egyptian Antiquities Collection
+3. M23 Rebels Tighten Grip on Power in Eastern Congo
+4. Todd Combs Leaves Berkshire Hathaway to Join JPMorgan
+5. Saudi Arabia Relaxes Rules on Sale of Alcohol
+6. Nigeria Police Probe Suspected Organ-Harvesting Ring
 
 ----
 
-@nhknewsunofficial.bsky.social
+@wsj.com
 
-スルメイカ漁 長崎など5県 資源調べる「試験操業」可能に
-https://news.web.nhk/newsweb/na/na-k10014997671000
+For most of the year, a couple hundred Hamas militants have manned fighting positions in the tunnels under southern Gaza. But the walls are closing in.
 
-[2025-12-08 20:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7hv624xzp2j)
+[2025-12-08 20:27:51](https://bsky.app/profile/wsj.com/post/3m7hweyut252j)
 
 ---
 
-@reuters.com
+@en.afp.com
 
-Japan's JERA signs first long-term LNG export deal with India's Torrent Power reut.rs/3MtL2TO
+Thailand launched air strikes on Monday on its neighbour Cambodia, with both sides trading blame for renewed fighting on their disputed border that has killed four Cambodian civilians and a Thai soldier ➡️ u.afp.com/S7pN
 
-[2025-12-08 20:05:06](https://bsky.app/profile/reuters.com/post/3m7hv4cv6ga2k)
+[2025-12-08 20:27:29](https://bsky.app/profile/en.afp.com/post/3m7hwed7tog25)
 
 ---
 
 @sokuho.news
 
-🛎️JNNより【速報】です。
+🚨地震発生中❗
 
-【速報】妙義山で山火事 8万平方メートルが焼ける 人に被害なし あすの朝から消防作業再開 群馬県消防
-(2025-12-08 19:31:00) #ニュース
+⚠️揺れに警戒してください
 
-[2025-12-08 20:02:55](https://bsky.app/profile/sokuho.news/post/3m7huygcoks2w)
+🔶防災科研/強震モニタ/予測震度画像7🈡
+(2025-12-08 20:26:42) #緊急地震速報
 
----
-
-@nikkei.com
-
-トロッコ問題をAIに判断させるとしたら
-www.nikkei.com/article/DGXZQO...
-
-AI開発者に求められるのは、判断に透明性を与え説明責任を果たすこと。しかし、倫理観を足手まといと見なす人々も存在します。
-
-#超知能 #日経_連載
-
-[2025-12-08 20:01:56](https://bsky.app/profile/nikkei.com/post/3m7huwnivo32w)
+[2025-12-08 20:26:49](https://bsky.app/profile/sokuho.news/post/3m7hwd53q7z24)
 
 ---
 
-@wsj.com
+@sokuho.news
 
-Here’s what Netflix gains from acquiring Warner Bros., in charts.
+🚨地震発生中❗
 
-[2025-12-08 20:01:32](https://bsky.app/profile/wsj.com/post/3m7huvxe7kl2x)
+⚠️揺れに警戒してください
 
----
+🔶防災科研/強震モニタ/予測震度画像6
+(2025-12-08 20:26:24) #緊急地震速報
 
-@reuters.com
-
-India's fuel demand hits six-month peak in November reut.rs/48EpdIN
-
-[2025-12-08 20:00:47](https://bsky.app/profile/reuters.com/post/3m7huum76nx2e)
+[2025-12-08 20:26:45](https://bsky.app/profile/sokuho.news/post/3m7hwczsum42l)
 
 ---
 
-@cnbc.com
+@sokuho.news
 
-Students pursuing professional degrees will be able to borrow up to $200,000 in federal student loans beginning in 2026.
+🚨地震発生中❗
 
-The Department of Education has named these 11 degree fields that meet the requirements to be considered professional.
+⚠️揺れに警戒してください
 
-[2025-12-08 20:00:18](https://bsky.app/profile/cnbc.com/post/3m7hutprfhr2j)
+🔶防災科研/強震モニタ/予測震度画像5
+(2025-12-08 20:26:04) #緊急地震速報
 
----
-
-@washingtonpost.com
-
-More than 40 percent of 18- to 29-year-olds surveyed last month said they are struggling or just getting by, and one-quarter believe they’ll be worse off financially than their parents, according to a new poll from Harvard.
-
-[2025-12-08 20:00:13](https://bsky.app/profile/washingtonpost.com/post/3m7hutlsb3r2o)
+[2025-12-08 20:26:33](https://bsky.app/profile/sokuho.news/post/3m7hwcoia2x2p)
 
 ---
 
-@nbcnews.com
+@sokuho.news
 
-A woman who was recorded shouting racist slurs at a couple in Wisconsin has been fired from the Cinnabon franchise where the outburst occurred.
+🚨地震発生中❗❗
 
-[2025-12-08 20:00:06](https://bsky.app/profile/nbcnews.com/post/3m7hutemuih22)
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像4
+(2025-12-08 20:25:50) #緊急地震速報
+
+[2025-12-08 20:26:23](https://bsky.app/profile/sokuho.news/post/3m7hwces2ra2w)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@sokuho.news
 
-真珠湾攻撃から84年 “国中心で戦争関連の資料収集し活用を”
-https://news.web.nhk/newsweb/na/na-k10014997691000
+🚨地震発生中❗
 
-[2025-12-08 20:00:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7hutdnjrd2p)
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像3
+(2025-12-08 20:25:36) #緊急地震速報
+
+[2025-12-08 20:26:00](https://bsky.app/profile/sokuho.news/post/3m7hwboftds2y)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗
+
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像2
+(2025-12-08 20:25:35) #緊急地震速報
+
+[2025-12-08 20:25:49](https://bsky.app/profile/sokuho.news/post/3m7hwbebiyg2m)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗
+
+⚠️揺れに警戒してください
+🔗http://www.kmoni.bosai.go.jp/
+
+🔶防災科研/強震モニタ/予測震度画像1
+(2025-12-08 20:25:34) #緊急地震速報
+
+[2025-12-08 20:25:41](https://bsky.app/profile/sokuho.news/post/3m7hwb4ljxz26)
+
+---
+
+@nytimes.com
+
+Up to 400 documents in the Louvre have been damaged by a water leak in the Egyptian antiquities department, the the deputy administrator of the museum said on Sunday.
+
+[2025-12-08 20:25:04](https://bsky.app/profile/nytimes.com/post/3m7hw7ziw2c2q)
 
 ---
 
