@@ -1,9 +1,9 @@
-# [2025-12-09 01:50 updated](2025_12_09.md)
+# [2025-12-09 02:10 updated](2025_12_09.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">New York’s subway system — one of the biggest and busiest in the world — is the setting for more train strikes per year than any other system in U.S. But the train operators involved in these fatal strikes are often left to fend for themselves. trib.al/UwkCWoB <a href="https://bsky.app/profile/nytimes.com/post/3m7iidok5422z" target="_blank">nytimes.com</a> (2025-12-09 01:49:14)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】海上自衛隊八戸航空基地で避難者の受け入れ開始…近隣住民の車約150台が基地に 計5万2000世帯に避難指示 (2025-12-09 01:48) #ニュース  🟪避難情報 🔗https://crisis.yahoo.co.jp/evacuation/ <a href="https://bsky.app/profile/sokuho.news/post/3m7iidi32pa2h" target="_blank">sokuho.news</a> (2025-12-09 01:49:07)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】「北海道・三陸沖後発地震注意情報」を発表へ 午前2時から会見 気象庁・内閣府 (2025-12-09 01:12:32) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m7iid2umhm2g" target="_blank">sokuho.news</a> (2025-12-09 01:48:54)</span><span style="padding-right:50px;">🔔NHKより【速報 JUST IN】です。  【津波情報】北海道 東北で津波警報 観測された津波は (2025-12-09 01:48:09) #ニュース  ⬛津波情報 🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami <a href="https://bsky.app/profile/sokuho.news/post/3m7iicn3ztu2q" target="_blank">sokuho.news</a> (2025-12-09 01:48:39)</span><span style="padding-right:50px;">Paramount Skydance launches rival bid for Warner Bros Discovery <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7iiceffgq27" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-09 01:48:29)</span>
+<span style="padding-right:50px;">The delight of a stocking stuffed with tiny gifts isn’t just for kids. From the whimsical to the practical, here are the best pint-sized treats to charm any adult on your list. <a href="https://bsky.app/profile/nytimes.com/post/3m7ijh76ntw2e" target="_blank">nytimes.com</a> (2025-12-09 02:09:06)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】「北海道・三陸沖後発地震注意情報」を発表 7道県182市町村が対象 (2025-12-09 02:01) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m7ijeiocma27" target="_blank">sokuho.news</a> (2025-12-09 02:07:35)</span><span style="padding-right:50px;">【地震】北海道の状況は 新千歳空港の天井にひび https://news.web.nhk/newsweb/na/na-k10014998321000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ijbvwlmp23" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 02:06:07)</span><span style="padding-right:50px;">北海道 苫東厚真火力発電所 2号機が地震直後に停止 原因調査中 https://news.web.nhk/newsweb/na/na-k10014998331000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ijbrkw3f2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 02:06:02)</span><span style="padding-right:50px;">Antero to buy HG Energy's gas producing assets in $2.8 billion deal reut.rs/44B1oAv <a href="https://bsky.app/profile/reuters.com/post/3m7ij7yvbqc22" target="_blank">reuters.com</a> (2025-12-09 02:05:04)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47775.97 (🔻195.54 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23531.69 (🔻106.53 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 183.45 (🔺0.82 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.86 (🔺0.72 : 2025-12-08)</span>
+<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47727.87 (🔻243.64 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23522.89 (🔻115.32 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 183.49 (🔺0.86 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.89 (🔺0.74 : 2025-12-08)</span>
   </div>
 </div>
 
@@ -32,102 +32,97 @@
 
 ## News Headlines
 
-1.  北海道と東北4県に避難指示　合計4万5604世帯
-2.  ついに「ワーナー・ブラザーズ・ディスカバリー」買収の新たな挑戦者が現れる
-3.  米中で激しく対立している、ワーナー・ブラザーズ・ディスカバリーの買収合戦が激化
-4.  取引先の同社のCEOが、中国の買収のため、会社を売却することを決定
-5.  「チーフス」はプレーオフへの出場を逃す
-6.  米中で激しく対立している「ワーナー・ブラザーズ・ディスカバリー」買収をめぐる争いが激化
+1.  北海道・三陸沖で巨大地震の可能性が高まったため、気象庁が初めて「後発地震注意情報」を発表。
+2.  NHKが発表した「津波速報」によると、北海道と東北地方で津波警報が発令されました。
+3.  アメリカのエネルギー企業、Anteroが、HGエナジーの天然ガス生産資産を2.8億ドルで買収することを発表しました。
+4.  北海道の電力会社、東北電力と北海道電力は、地震の影響で電力の供給に影響が出たことを発表しました。
+5.  ザック・ベルクシーの会社、バークシャー・ハサウェイは、ビル・ゲイツとマーク・ザッカーバーグが去ることを発表しました。
+6.  アブダビの投資家が、グローバルファイナンス、アートとAIの分野で投資を拡大しています。
 
 ----
 
 @nytimes.com
 
-New York’s subway system — one of the biggest and busiest in the world — is the setting for more train strikes per year than any other system in U.S. But the train operators involved in these fatal strikes are often left to fend for themselves. trib.al/UwkCWoB
+The delight of a stocking stuffed with tiny gifts isn’t just for kids. From the whimsical to the practical, here are the best pint-sized treats to charm any adult on your list.
 
-[2025-12-09 01:49:14](https://bsky.app/profile/nytimes.com/post/3m7iidok5422z)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】海上自衛隊八戸航空基地で避難者の受け入れ開始…近隣住民の車約150台が基地に 計5万2000世帯に避難指示
-(2025-12-09 01:48) #ニュース
-
-🟪避難情報
-🔗https://crisis.yahoo.co.jp/evacuation/
-
-[2025-12-09 01:49:07](https://bsky.app/profile/sokuho.news/post/3m7iidi32pa2h)
+[2025-12-09 02:09:06](https://bsky.app/profile/nytimes.com/post/3m7ijh76ntw2e)
 
 ---
 
 @sokuho.news
 
-🛎️JNNより【速報】です。
+🛎️NNNより【速報】です。
 
-【速報】「北海道・三陸沖後発地震注意情報」を発表へ 午前2時から会見 気象庁・内閣府
-(2025-12-09 01:12:32) #地震
+【速報】「北海道・三陸沖後発地震注意情報」を発表 7道県182市町村が対象
+(2025-12-09 02:01) #地震
 
-[2025-12-09 01:48:54](https://bsky.app/profile/sokuho.news/post/3m7iid2umhm2g)
-
----
-
-@sokuho.news
-
-<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>【津波情報】北海道 東北で津波警報 観測された津波は</strong><br><strong>(2025-12-09 01:48:09) #ニュース</strong><br><strong></strong><br><strong>⬛津波情報</strong><br><strong>🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami</strong>
-
-[2025-12-09 01:48:39](https://bsky.app/profile/sokuho.news/post/3m7iicn3ztu2q)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Paramount Skydance launches rival bid for Warner Bros Discovery
-
-[2025-12-09 01:48:29](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7iiceffgq27)
-
----
-
-@financialtimes.com
-
-Strategy’s stock slide leaves bitcoin’s biggest booster with dwindling options on.ft.com/4pVkfOM
-
-[2025-12-09 01:48:28](https://bsky.app/profile/financialtimes.com/post/3m7iiccmsyx25)
+[2025-12-09 02:07:35](https://bsky.app/profile/sokuho.news/post/3m7ijeiocma27)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-【震度6強】青森 八戸市の状況 ホテル従業員“けが人複数か”
-https://news.web.nhk/newsweb/na/na-k10014998111000
+【地震】北海道の状況は 新千歳空港の天井にひび
+https://news.web.nhk/newsweb/na/na-k10014998321000
 
-[2025-12-09 01:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7iiblphzp2r)
-
----
-
-@nytimes.com
-
-From @theathletic.com: Kansas City’s stunning collapse is nearly complete. The Chiefs, winners of three straight AFC titles, will almost assuredly be watching the postseason from home for the first time in the Patrick Mahomes era.
-
-[2025-12-09 01:46:07](https://bsky.app/profile/nytimes.com/post/3m7ii63ogyt2x)
+[2025-12-09 02:06:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ijbvwlmp23)
 
 ---
 
-@en.afp.com
+@nhknewsunofficial.bsky.social
 
-Paramount launched an all-cash tender offer on Monday to acquire Warner Bros. Discovery for $30 per share, challenging a previously announced deal between WBD and Netflix ➡️ u.afp.com/S7G8
+北海道 苫東厚真火力発電所 2号機が地震直後に停止 原因調査中
+https://news.web.nhk/newsweb/na/na-k10014998331000
 
-[2025-12-09 01:46:01](https://bsky.app/profile/en.afp.com/post/3m7ii5webhu2p)
+[2025-12-09 02:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ijbrkw3f2p)
 
 ---
 
 @reuters.com
 
-Central bank body BIS raises concerns of gold and stocks double bubble reut.rs/4aBXcnC
+Antero to buy HG Energy's gas producing assets in $2.8 billion deal reut.rs/44B1oAv
 
-[2025-12-09 01:45:07](https://bsky.app/profile/reuters.com/post/3m7ii4dba5k2k)
+[2025-12-09 02:05:04](https://bsky.app/profile/reuters.com/post/3m7ij7yvbqc22)
+
+---
+
+@reuters.com
+
+No irregularities were reported at nuclear power plants in the region run by Tohoku Electric Power and Hokkaido Electric Power, the utilities said. Tohoku Electric did say, however, that thousands were without power reut.rs/4aAc1qH
+
+[2025-12-09 02:04:58](https://bsky.app/profile/reuters.com/post/3m7ija7ez5k2y)
+
+---
+
+@reuters.com
+
+On Japan's 1-7 scale of seismic intensity, the tremor registered as an 'upper 6' in Aomori prefecture — a quake strong enough to make it impossible to keep standing or move without crawling. In such tremors, heavy furniture can collapse and wall tiles and windowpanes are damaged
+
+[2025-12-09 02:04:58](https://bsky.app/profile/reuters.com/post/3m7ija3fh4k2y)
+
+---
+
+@reuters.com
+
+Tsunami warnings were issued for the prefectures of Hokkaido, Aomori and Iwate, and tsunamis from 7 to 18 inches high were observed at several ports, JMA said. The epicenter of the quake was 80 kms off the coast of Aomori prefecture, at a depth of 50 kms
+
+[2025-12-09 02:04:58](https://bsky.app/profile/reuters.com/post/3m7ij7syufc2y)
+
+---
+
+@wsj.com
+
+Companies are rolling out direct-to-patient services, which are selling drugs for weight loss and other uses. on.wsj.com/48G0QdM
+
+[2025-12-09 02:04:31](https://bsky.app/profile/wsj.com/post/3m7ij6yv7s72l)
+
+---
+
+@wsj.com
+
+Donald Bren, whose firm is the city’s largest landlord, concluded that the downtown market’s growth prospects were dim amid near-record-high office vacancies.  on.wsj.com/44POnD1
+
+[2025-12-09 02:04:30](https://bsky.app/profile/wsj.com/post/3m7ij6ybsfk2o)
 
 ---
 
