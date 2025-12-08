@@ -1,9 +1,9 @@
-# [2025-12-08 12:10 updated](2025_12_08.md)
+# [2025-12-08 12:30 updated](2025_12_08.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">中国軍戦闘機のレーダー照射 官房長官 中国側主張に反論 https://news.web.nhk/newsweb/na/na-k10014997161000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7h2jbdbef2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-08 12:09:07)</span><span style="padding-right:50px;">タイ国籍少女に自身にも性的行為させた疑い 経営者を追送検 https://news.web.nhk/newsweb/na/na-k10014997241000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7h2j476np2g" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-08 12:09:02)</span><span style="padding-right:50px;">U.S. households are nearing the end of the year feeling more dour about the economy than they did at the beginning, even as they keep spending. <a href="https://bsky.app/profile/wsj.com/post/3m7h2gun2hx2i" target="_blank">wsj.com</a> (2025-12-08 12:07:49)</span><span style="padding-right:50px;">官房長官 “防衛力整備は日本が主体的判断 金額ありきでない” https://news.web.nhk/newsweb/na/na-k10014997261000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7h2drdkib2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-08 12:06:03)</span><span style="padding-right:50px;">Thailand launched air strikes on its neighbour Cambodia on Monday, the Thai army said, with both sides trading blame for the latest eruption of fighting on their disputed border which killed a Thai soldier  u.afp.com/S7qc <a href="https://bsky.app/profile/en.afp.com/post/3m7h26sz2xa2c" target="_blank">en.afp.com</a> (2025-12-08 12:03:19)</span>
+<span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】神戸女性刺殺事件 容疑の男 鑑定留置8日に終了 2人に面識は無かったとみられる 刑事責任能力の有無を判断へ (2025-12-08 12:02) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7h3i5oeac2e" target="_blank">sokuho.news</a> (2025-12-08 12:26:26)</span><span style="padding-right:50px;">宮城 スクラップ工場の廃材置き場から出火 消火活動続く https://news.web.nhk/newsweb/na/na-k10014997271000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7h3dwtir72r" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-08 12:24:03)</span><span style="padding-right:50px;">株価 小幅に値下がり https://news.web.nhk/newsweb/na/na-k10014997291000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7h36kwssz2e" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-08 12:21:02)</span><span style="padding-right:50px;">IBM nears roughly $11 billion deal for Confluent, WSJ reports reut.rs/3XGpdD2 <a href="https://bsky.app/profile/reuters.com/post/3m7h34xhyf226" target="_blank">reuters.com</a> (2025-12-08 12:20:10)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】バイクの危険運転一斉取り締まり バイク事故による死亡者数増加 大阪府警 (2025-12-08 11:50) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7h2xbqasx2g" target="_blank">sokuho.news</a> (2025-12-08 12:17:00)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50473.84 (🔻169.25 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3048.00 (🔻2.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 154.98 (🔻0.17 : 2025-12-08)</span>
+<span style="padding-right:50px;">NIKKEI: 50473.84 (🔻169.25 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3048.00 (🔻2.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.02 (🔻0.12 : 2025-12-08)</span>
   </div>
 </div>
 
@@ -32,16 +32,99 @@
 
 ## News Headlines
 
-Here are the six important stories with headlines in English:
+Here are six important stories with headlines in English:
 
-1. **"Thailand-Laos Border Erupts in Violence, Leaving 5 Dead"**
-2. **"Eli Lilly's Mounjaro Added to China's State Insurance List for Diabetes Treatment"**
-3. **"Home Sellers Take Their Homes Off the Market at a Fast Clip Amid Weakening Prices"**
-4. **"Thailand Launches Airstrikes on Cambodia, Marking Potential Collapse of Peace Plan"**
-5. **"U.S. Households Feel More Dour About the Economy Amid Weakening Prices"**
-6. **"India Shares Likely to Open Higher Amid Caution Over Fed Rate Decision"**
+1. **Thai Soldier Killed in Airstrikes Along Cambodia Border**
+2. **Fire Hits Scrap Factory in Miyagi, Japan**
+3. **IBM Near $11 Billion Deal for Confluent, WSJ Reports**
+4. **Thailand Launches Airstrikes on Cambodia Amid Border Tensions**
+5. **Global Economy Worsens, US Households Feel the Pinch**
+6. **Thailand's Military Launches Airstrikes on Cambodia, Killing Soldier**
 
 ----
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】神戸女性刺殺事件 容疑の男 鑑定留置8日に終了 2人に面識は無かったとみられる 刑事責任能力の有無を判断へ
+(2025-12-08 12:02) #ニュース
+
+[2025-12-08 12:26:26](https://bsky.app/profile/sokuho.news/post/3m7h3i5oeac2e)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+宮城 スクラップ工場の廃材置き場から出火 消火活動続く
+https://news.web.nhk/newsweb/na/na-k10014997271000
+
+[2025-12-08 12:24:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7h3dwtir72r)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+株価 小幅に値下がり
+https://news.web.nhk/newsweb/na/na-k10014997291000
+
+[2025-12-08 12:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7h36kwssz2e)
+
+---
+
+@reuters.com
+
+IBM nears roughly $11 billion deal for Confluent, WSJ reports reut.rs/3XGpdD2
+
+[2025-12-08 12:20:10](https://bsky.app/profile/reuters.com/post/3m7h34xhyf226)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】バイクの危険運転一斉取り締まり バイク事故による死亡者数増加 大阪府警
+(2025-12-08 11:50) #ニュース
+
+[2025-12-08 12:17:00](https://bsky.app/profile/sokuho.news/post/3m7h2xbqasx2g)
+
+---
+
+@nytimes.com
+
+In @nytopinion.nytimes.com 
+
+There’s a new buzzword in fashion — but it’s not clear if it actually means anything, Isabel Cristo writes. “For the conscious shopper, ‘quality’ becomes a new permission structure to soothe our shopaholic souls.”
+
+[2025-12-08 12:15:06](https://bsky.app/profile/nytimes.com/post/3m7h2tva2yj2l)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+牛舎にクマ1頭が6時間以上とどまる 被害確認されず 岩手 二戸
+https://news.web.nhk/newsweb/na/na-k10014997281000
+
+[2025-12-08 12:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7h2tt2ltn2t)
+
+---
+
+@apnews.com
+
+Thailand launched airstrikes along the disputed border with Cambodia as both sides accused the other of attacking first.
+
+[2025-12-08 12:10:11](https://bsky.app/profile/apnews.com/post/3m7h2l3jwcn2f)
+
+---
+
+@reuters.com
+
+Europe runs away with World Champions Cup triumph reut.rs/44Mw6Xb
+
+[2025-12-08 12:10:08](https://bsky.app/profile/reuters.com/post/3m7h2kzdikp2k)
+
+---
 
 @nhknewsunofficial.bsky.social
 
@@ -49,91 +132,6 @@ Here are the six important stories with headlines in English:
 https://news.web.nhk/newsweb/na/na-k10014997161000
 
 [2025-12-08 12:09:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7h2jbdbef2p)
-
----
-
-@nhknewsunofficial.bsky.social
-
-タイ国籍少女に自身にも性的行為させた疑い 経営者を追送検
-https://news.web.nhk/newsweb/na/na-k10014997241000
-
-[2025-12-08 12:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7h2j476np2g)
-
----
-
-@wsj.com
-
-U.S. households are nearing the end of the year feeling more dour about the economy than they did at the beginning, even as they keep spending.
-
-[2025-12-08 12:07:49](https://bsky.app/profile/wsj.com/post/3m7h2gun2hx2i)
-
----
-
-@nhknewsunofficial.bsky.social
-
-官房長官 “防衛力整備は日本が主体的判断 金額ありきでない”
-https://news.web.nhk/newsweb/na/na-k10014997261000
-
-[2025-12-08 12:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7h2drdkib2p)
-
----
-
-@en.afp.com
-
-Thailand launched air strikes on its neighbour Cambodia on Monday, the Thai army said, with both sides trading blame for the latest eruption of fighting on their disputed border which killed a Thai soldier
-
-u.afp.com/S7qc
-
-[2025-12-08 12:03:19](https://bsky.app/profile/en.afp.com/post/3m7h26sz2xa2c)
-
----
-
-@cnn.com
-
-TikTok came through to save Christmas for 400 elementary school students in Fort Worth, Texas, after an employee at their school realized they didn't have the funds to provide a gift for each student as they've done for decades.
-
-[2025-12-08 12:03:09](https://bsky.app/profile/cnn.com/post/3m7h26jk43k2n)
-
----
-
-@nikkei.com
-
-駅のホームドア設置率、全国では1割強どまり　転落は年間2000件超
-www.nikkei.com/article/DGXZQO...
-
-駅のホームと列車の間を仕切るホームドア。
-
-ホーム改良に莫大な費用がかかることに加えて、工事の難しさや人手不足などが重なり、普及に時間がかかっています。
-
-#3Graphics
-
-[2025-12-08 12:01:56](https://bsky.app/profile/nikkei.com/post/3m7h24dntwj2t)
-
----
-
-@cnbc.com
-
-Home sellers are taking their homes off the market at a fast clip, because they are sitting for more than 60 days and prices are weakening.
-
-Roughly 15% of the homes that were delisted in September were at risk of selling at a loss, according to Redfin.
-
-[2025-12-08 12:00:34](https://bsky.app/profile/cnbc.com/post/3m7gzzvt43y2e)
-
----
-
-@reuters.com
-
-Eli Lilly's Mounjaro added to China's state insurance list for diabetes treatment reut.rs/48pJyTh
-
-[2025-12-08 12:00:33](https://bsky.app/profile/reuters.com/post/3m7gzzv6y622y)
-
----
-
-@handle.invalid
-
-Here's the updated first-round order for the 2026 NFL Draft as Week 14 results come in.
-
-[2025-12-08 12:00:31](https://bsky.app/profile/handle.invalid/post/3m7gzzswz4y2u)
 
 ---
 
