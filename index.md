@@ -1,9 +1,9 @@
-# [2025-12-08 09:30 updated](2025_12_08.md)
+# [2025-12-08 09:50 updated](2025_12_08.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">After January’s devastating fire, a rebuilt house in Los Angeles’ Pacific Palisades becomes the first to receive a certificate of occupancy. <a href="https://bsky.app/profile/wsj.com/post/3m7gr7crg6p2p" target="_blank">wsj.com</a> (2025-12-08 09:22:32)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】長野駅前近くで「人が倒れている」…死亡ひき逃げか 通勤通学時間の駅前は騒然 道路の痕跡などを捜査 (2025-12-08 09:10:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7gr4f3b7s27" target="_blank">sokuho.news</a> (2025-12-08 09:20:54)</span><span style="padding-right:50px;">The UN's top humanitarian and emergency relief official has told NPR that the lack of attention from world leaders to the war in Sudan is the "billion dollar question". n.pr/44cy5nv <a href="https://bsky.app/profile/npr.org/post/3m7gqzftp4723" target="_blank">npr.org</a> (2025-12-08 09:19:14)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】長野駅前近くで「人が倒れている」…ひき逃げか 通勤通学時間の駅前は騒然 道路の痕跡などを捜査 (2025-12-08 09:10:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7gqu367r422" target="_blank">sokuho.news</a> (2025-12-08 09:16:15)</span><span style="padding-right:50px;">A glitch in the airline's check-in system, combined with winter flight schedule changes, air congestion and adverse weather, led to a severe disruption of IndiGo's operations. bloom.bg/44Mnf7T  📷: Anindito Mukherjee/Bloomberg <a href="https://bsky.app/profile/bloomberg.com/post/3m7gqsihw4r2d" target="_blank">bloomberg.com</a> (2025-12-08 09:15:22)</span>
+<span style="padding-right:50px;">Good morning, Asia. While you were sleeping, one of our most-read articles was this exclusive story about the escalating feud that threatens to overshadow the ice cream company’s demerger on.ft.com/4a31bcO <a href="https://bsky.app/profile/financialtimes.com/post/3m7gsokrp7c2l" target="_blank">financialtimes.com</a> (2025-12-08 09:48:57)</span><span style="padding-right:50px;">Trump says he'll be involved in review of Netflix-Warner Brothers deal reut.rs/3Mo2ZmT <a href="https://bsky.app/profile/reuters.com/post/3m7gshtuedy2y" target="_blank">reuters.com</a> (2025-12-08 09:45:12)</span><span style="padding-right:50px;">A water leak in late November damaged several hundred works in the Louvre's Egyptian department, the Paris museum told AFP on Sunday, weeks after a brazen jewel theft raised concerns over its infrastructure.  u.afp.com/S7Td <a href="https://bsky.app/profile/en.afp.com/post/3m7gshjyeyy2m" target="_blank">en.afp.com</a> (2025-12-08 09:45:02)</span><span style="padding-right:50px;">Your digital rent is skyrocketing. To cut back, turn off auto-renew and hunt down forgotten subscriptions in your credit-card statements and smartphone settings. <a href="https://bsky.app/profile/wsj.com/post/3m7gsbwknnp24" target="_blank">wsj.com</a> (2025-12-08 09:41:53)</span><span style="padding-right:50px;">UK jobs market slowed again in November before budget, survey shows reut.rs/3MKYlPL <a href="https://bsky.app/profile/reuters.com/post/3m7gs6v4zlx2d" target="_blank">reuters.com</a> (2025-12-08 09:40:11)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50343.83 (🔻299.26 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3034.00 (🔻16.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.16 (🔺0.02 : 2025-12-08)</span>
+<span style="padding-right:50px;">NIKKEI: 50407.64 (🔻235.45 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3043.00 (🔻7.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.15 (🔺0.00 : 2025-12-08)</span>
   </div>
 </div>
 
@@ -34,14 +34,83 @@
 
 Here are six important stories with headlines in English:
 
-1. "Los Angeles' Pacific Palisades Gets First Certificate of Occupancy After Devastating Fire"
-2. "UN's Top Humanitarian Official Says Lack of Attention to Sudan War is the 'Billion Dollar Question'"
-3. "IndiGo Airlines Faces Disruption Due to Check-in System Glitch and Winter Flight Schedule Changes"
-4. "Japan's GDP Contracts 2.3% in Q3, Widening Contraction"
-5. "Hamas Official Says Group Ready to Discuss 'Freezing or Storing' Its Arsenal of Weapons"
-6. "US Defense Secretary Pete Hegseth Under Pressure Over Scandals and Use of Signal to Discuss Sensitive Military Information"
+1. "US Defense Secretary Under Fire Over Military Information Leaks"
+2. "Japan's Real Wages Fall for 10th Month Despite Nominal Pay Growth"
+3. "Netflix's Acquisition of Warner Bros. Requires Trump's Review"
+4. "UN's Top Humanitarian Official Criticizes World Leaders' Lack of Attention to Sudan War"
+5. "IndiGo Airlines Hit by Severe Disruption Due to Technical Glitch and Weather Conditions"
+6. "UK Jobs Market Slows Down Ahead of Budget, Survey Shows"
 
 ----
+
+@financialtimes.com
+
+Good morning, Asia. While you were sleeping, one of our most-read articles was this exclusive story about the escalating feud that threatens to overshadow the ice cream company’s demerger on.ft.com/4a31bcO
+
+[2025-12-08 09:48:57](https://bsky.app/profile/financialtimes.com/post/3m7gsokrp7c2l)
+
+---
+
+@reuters.com
+
+Trump says he'll be involved in review of Netflix-Warner Brothers deal reut.rs/3Mo2ZmT
+
+[2025-12-08 09:45:12](https://bsky.app/profile/reuters.com/post/3m7gshtuedy2y)
+
+---
+
+@en.afp.com
+
+A water leak in late November damaged several hundred works in the Louvre's Egyptian department, the Paris museum told AFP on Sunday, weeks after a brazen jewel theft raised concerns over its infrastructure.
+
+u.afp.com/S7Td
+
+[2025-12-08 09:45:02](https://bsky.app/profile/en.afp.com/post/3m7gshjyeyy2m)
+
+---
+
+@wsj.com
+
+Your digital rent is skyrocketing. To cut back, turn off auto-renew and hunt down forgotten subscriptions in your credit-card statements and smartphone settings.
+
+[2025-12-08 09:41:53](https://bsky.app/profile/wsj.com/post/3m7gsbwknnp24)
+
+---
+
+@reuters.com
+
+UK jobs market slowed again in November before budget, survey shows reut.rs/3MKYlPL
+
+[2025-12-08 09:40:11](https://bsky.app/profile/reuters.com/post/3m7gs6v4zlx2d)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】JR長野駅近くで性別不明の1人の遺体 死亡ひき逃げ事件か 頭部の損傷激しく
+(2025-12-08 09:32) #ニュース
+
+[2025-12-08 09:35:31](https://bsky.app/profile/sokuho.news/post/3m7grwkcpr22w)
+
+---
+
+@bloomberg.com
+
+President Donald Trump said he’s disappointed in Ukrainian President Volodymyr Zelenskiy’s handling of a US proposal to end the war that began with Russia’s full-scale invasion.
+
+[2025-12-08 09:30:28](https://bsky.app/profile/bloomberg.com/post/3m7grnihmny2h)
+
+---
+
+@usatoday.com
+
+"Frasier" star Kelsey Grammer told Fox News he believes Donald Trump is "maybe the greatest" president in U.S. history.
+
+[2025-12-08 09:30:15](https://bsky.app/profile/usatoday.com/post/3m7grn4p4rq2u)
+
+---
 
 @wsj.com
 
@@ -59,84 +128,6 @@ After January’s devastating fire, a rebuilt house in Los Angeles’ Pacific Pa
 (2025-12-08 09:10:00) #ニュース
 
 [2025-12-08 09:20:54](https://bsky.app/profile/sokuho.news/post/3m7gr4f3b7s27)
-
----
-
-@npr.org
-
-The UN's top humanitarian and emergency relief official has told NPR that the lack of attention from world leaders to the war in Sudan is the "billion dollar question". n.pr/44cy5nv
-
-[2025-12-08 09:19:14](https://bsky.app/profile/npr.org/post/3m7gqzftp4723)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】長野駅前近くで「人が倒れている」…ひき逃げか 通勤通学時間の駅前は騒然 道路の痕跡などを捜査
-(2025-12-08 09:10:00) #ニュース
-
-[2025-12-08 09:16:15](https://bsky.app/profile/sokuho.news/post/3m7gqu367r422)
-
----
-
-@bloomberg.com
-
-A glitch in the airline's check-in system, combined with winter flight schedule changes, air congestion and adverse weather, led to a severe disruption of IndiGo's operations. bloom.bg/44Mnf7T
-
-📷: Anindito Mukherjee/Bloomberg
-
-[2025-12-08 09:15:22](https://bsky.app/profile/bloomberg.com/post/3m7gqsihw4r2d)
-
----
-
-@financialtimes.com
-
-Atlantic Bastion: the UK’s response to Russia’s submarine threat on.ft.com/48oG6bv
-
-[2025-12-08 09:12:48](https://bsky.app/profile/financialtimes.com/post/3m7gqnvufu22l)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】駅改札付近に不審物 ガムテープで包んでいる箱のようなもの 日豊本線一部区間で運転見合わせ
-(2025-12-08 08:50) #ニュース
-
-🚃鉄道運行情報
-🔗https://transit.yahoo.co.jp/diainfo
-
-[2025-12-08 09:06:02](https://bsky.app/profile/sokuho.news/post/3m7gqbspo3o2w)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】ダンプカーと乗用車が衝突 50代～60代くらいの男性1人が意識不明の重体 札幌市東区
-(2025-12-08 09:00:00) #ニュース
-
-[2025-12-08 09:05:40](https://bsky.app/profile/sokuho.news/post/3m7gqb5k74t2h)
-
----
-
-@reuters.com
-
-Japan's Q3 revised GDP widens contraction to annualised 2.3% reut.rs/4pid2s6
-
-[2025-12-08 09:05:09](https://bsky.app/profile/reuters.com/post/3m7gqa7zugr27)
-
----
-
-@cnbc.com
-
-Asia-Pacific markets set to open mostly higher as investors look toward China trade data
-
-[2025-12-08 09:04:44](https://bsky.app/profile/cnbc.com/post/3m7gq7in5bv2i)
 
 ---
 
