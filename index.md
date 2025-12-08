@@ -1,9 +1,9 @@
-# [2025-12-08 16:30 updated](2025_12_08.md)
+# [2025-12-08 16:50 updated](2025_12_08.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">China fighter jets lock radar on Japan planes as tensions rise <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7hixfdq4c2y" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-08 16:27:35)</span><span style="padding-right:50px;">Texans' Nick Chubb, Chiefs' Trent McDuffie, Wanya Morris exit with injuries reut.rs/4oGyIgr <a href="https://bsky.app/profile/reuters.com/post/3m7hisvdu3a27" target="_blank">reuters.com</a> (2025-12-08 16:25:05)</span><span style="padding-right:50px;">India's Indigo slides as flight disruptions roil travel, stoke cost concerns reut.rs/4iJahh3 <a href="https://bsky.app/profile/reuters.com/post/3m7hib2pfbf27" target="_blank">reuters.com</a> (2025-12-08 16:15:06)</span><span style="padding-right:50px;">Gold rises on dollar weakness; traders eye Fed rate cut reut.rs/3XGx6s8 <a href="https://bsky.app/profile/reuters.com/post/3m7hhy3wixg2i" target="_blank">reuters.com</a> (2025-12-08 16:10:06)</span><span style="padding-right:50px;">Moves to curb proxy advisers and passive investment groups are leading some to predict that the White House is fostering the end of the era of shareholder capitalism in the US on.ft.com/3KiEdnB <a href="https://bsky.app/profile/financialtimes.com/post/3m7hhrqtrjd2j" target="_blank">financialtimes.com</a> (2025-12-08 16:06:33)</span>
+<span style="padding-right:50px;">South Africa's SPAR annual profit falls on higher financing costs, tax rate reut.rs/48oYGAh <a href="https://bsky.app/profile/reuters.com/post/3m7hjwnpwqw2k" target="_blank">reuters.com</a> (2025-12-08 16:45:05)</span><span style="padding-right:50px;">グリコ ポッキーなどチョコ菓子 約600万個 自主回収と発表 https://news.web.nhk/newsweb/na/na-k10014997461000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7hjwngyhe2e" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-08 16:45:02)</span><span style="padding-right:50px;">🔔NHKより【速報 JUST IN】です。  グリコ ポッキーなどチョコ菓子 約600万個 自主回収と発表 (2025-12-08 16:41:59) #ニュース https://news.web.nhk/newsweb/na/na-k10014997461000 <a href="https://bsky.app/profile/sokuho.news/post/3m7hjrscnac2y" target="_blank">sokuho.news</a> (2025-12-08 16:42:21)</span><span style="padding-right:50px;">グリコが「ポッキー」など600万個自主回収　チョコに香辛料の香り移る（無料記事） www.nikkei.com/article/DGXZQO...  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m7hjqzpt3p2w" target="_blank">nikkei.com</a> (2025-12-08 16:41:56)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】江崎グリコ「ポッキー」など20品目 約600万個を自主回収 (2025-12-08 16:40) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7hjp2qtml2y" target="_blank">sokuho.news</a> (2025-12-08 16:40:50)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.29 (🔺0.15 : 2025-12-08)</span>
+<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.33 (🔺0.18 : 2025-12-08)</span>
   </div>
 </div>
 
@@ -32,100 +32,106 @@
 
 ## News Headlines
 
-Here are the six important stories with headlines in English:
+Here are six important stories with headlines in English:
 
-1. China Fighter Jets Lock Radar on Japan Planes as Tensions Rise
-2. Gold Rises on Dollar Weakness; Traders Eye Fed Rate Cut
-3. UN Hits Out at Global Apathy over Widespread Suffering as it Launches 2026 Appeal for Humanitarian Aid
-4. China Pledges to Expand Demand with More Proactive Policies in 2026
-5. ECB's Next Move May be a Hike, but Not Anytime Soon, Schnabel Tells Bloomberg News
-6. European Markets Set for Lackluster Start to the New Trading Week as Markets Await Fed Decision
+1. South Africa's SPAR annual profit falls on higher financing costs, tax rate
+2. Japan Pulls Out of Vietnam Nuclear Project, Complicating Hanoi's Power Plans
+3. Chinese Crude Oil Imports Reach Highest Daily Level in 27 Months
+4. One Year After al-Assad's Fall, Nearly 1.8 Million Displaced Syrians Return Home
+5. Russia's Drone Strike on Ukraine's Sumy Injures at Least 7, Governor Says
+6. China's Exports Return to Growth in November After Unexpected Contraction in October
 
 ----
 
-@bbcnews-world-rss.bsky.social
-
-China fighter jets lock radar on Japan planes as tensions rise
-
-[2025-12-08 16:27:35](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7hixfdq4c2y)
-
----
-
 @reuters.com
 
-Texans' Nick Chubb, Chiefs' Trent McDuffie, Wanya Morris exit with injuries reut.rs/4oGyIgr
+South Africa's SPAR annual profit falls on higher financing costs, tax rate reut.rs/48oYGAh
 
-[2025-12-08 16:25:05](https://bsky.app/profile/reuters.com/post/3m7hisvdu3a27)
-
----
-
-@reuters.com
-
-India's Indigo slides as flight disruptions roil travel, stoke cost concerns reut.rs/4iJahh3
-
-[2025-12-08 16:15:06](https://bsky.app/profile/reuters.com/post/3m7hib2pfbf27)
-
----
-
-@reuters.com
-
-Gold rises on dollar weakness; traders eye Fed rate cut reut.rs/3XGx6s8
-
-[2025-12-08 16:10:06](https://bsky.app/profile/reuters.com/post/3m7hhy3wixg2i)
-
----
-
-@financialtimes.com
-
-Moves to curb proxy advisers and passive investment groups are leading some to predict that the White House is fostering the end of the era of shareholder capitalism in the US on.ft.com/3KiEdnB
-
-[2025-12-08 16:06:33](https://bsky.app/profile/financialtimes.com/post/3m7hhrqtrjd2j)
-
----
-
-@reuters.com
-
-LIVE: UN Environment Assembly convenes in Nairobi
-
-The United Nations Environment Assembly holds its seventh session in Nairobi from December 8-12, bringing together representatives from all 193 UN member states.
-
-www.youtube.com/watch?v=Evj3...
-
-[2025-12-08 16:06:13](https://bsky.app/profile/reuters.com/post/3m7hhr5m4jc2f)
+[2025-12-08 16:45:05](https://bsky.app/profile/reuters.com/post/3m7hjwnpwqw2k)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-あすから大リーグ移籍交渉の山場 村上宗隆や今井達也の動向は
-https://news.web.nhk/newsweb/na/na-k10014997141000
+グリコ ポッキーなどチョコ菓子 約600万個 自主回収と発表
+https://news.web.nhk/newsweb/na/na-k10014997461000
 
-[2025-12-08 16:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7hhqvmaqd2b)
+[2025-12-08 16:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7hjwngyhe2e)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@sokuho.news
 
-Water leak in Louvre damages hundreds of books
+<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>グリコ ポッキーなどチョコ菓子 約600万個 自主回収と発表</strong><br><strong>(2025-12-08 16:41:59) #ニュース</strong><br><strong>https://news.web.nhk/newsweb/na/na-k10014997461000</strong>
 
-[2025-12-08 16:05:52](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7hhqkpded27)
+[2025-12-08 16:42:21](https://bsky.app/profile/sokuho.news/post/3m7hjrscnac2y)
+
+---
+
+@nikkei.com
+
+グリコが「ポッキー」など600万個自主回収　チョコに香辛料の香り移る（無料記事）
+www.nikkei.com/article/DGXZQO...
+
+#ニュース
+
+[2025-12-08 16:41:56](https://bsky.app/profile/nikkei.com/post/3m7hjqzpt3p2w)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】江崎グリコ「ポッキー」など20品目 約600万個を自主回収
+(2025-12-08 16:40) #ニュース
+
+[2025-12-08 16:40:50](https://bsky.app/profile/sokuho.news/post/3m7hjp2qtml2y)
 
 ---
 
 @reuters.com
 
-Japan's SBI Shinsei Bank prices IPO at top of range reut.rs/48XIGFu
+Japan pulls out of Vietnam nuclear project, complicating Hanoi's power plans reut.rs/48pQbF3
 
-[2025-12-08 16:05:04](https://bsky.app/profile/reuters.com/post/3m7hhp4m3ex2n)
+[2025-12-08 16:40:05](https://bsky.app/profile/reuters.com/post/3m7hjnpw6rw2i)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Toyah Cordingley: Nurse found guilty of Australian beach murder
+
+[2025-12-08 16:39:25](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7hjmkmtpy2q)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-株価 小幅な値上がり
-https://news.web.nhk/newsweb/na/na-k10014997291000
+パナソニックHD 野球部の活動 来季で休止発表 構造改革の一環
+https://news.web.nhk/newsweb/na/na-k10014997391000
 
-[2025-12-08 16:03:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7hhlop5sg2b)
+[2025-12-08 16:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7hjlvyapk2r)
+
+---
+
+@en.afp.com
+
+'True emotion': Olympic skaters create magic step by step.
+
+Olympic figure skaters will perform for a matter of mere minutes at February's Milan-Cortina Games but the process of creating and honing their routines takes months of consideration and effort
+
+u.afp.com/S7qG
+
+[2025-12-08 16:36:49](https://bsky.app/profile/en.afp.com/post/3m7hjhuibnz2k)
+
+---
+
+@reuters.com
+
+Russian drone strike on Ukraine's Sumy injures at least seven, governor says reut.rs/4pPRseh
+
+[2025-12-08 16:35:05](https://bsky.app/profile/reuters.com/post/3m7hjeruo4w26)
 
 ---
 
