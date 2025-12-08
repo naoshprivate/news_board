@@ -1,9 +1,9 @@
-# [2025-12-08 23:10 updated](2025_12_08.md)
+# [2025-12-08 23:30 updated](2025_12_08.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Paramount launched a hostile bid for Warner Bros. Discovery, days after the company announced a $72 billion deal with Netflix. <a href="https://bsky.app/profile/wsj.com/post/3m7i7fwed4m2l" target="_blank">wsj.com</a> (2025-12-08 23:09:26)</span><span style="padding-right:50px;">A Republican call to give Americans cash instead of health insurance subsidies revives an old idea that has left millions with medical debt. n.pr/44dfWWE <a href="https://bsky.app/profile/npr.org/post/3m7i7cvvhzt2e" target="_blank">npr.org</a> (2025-12-08 23:07:45)</span><span style="padding-right:50px;">The nominees for the 2026 Golden Globe Awards have been revealed. See the full list.  <a href="https://bsky.app/profile/cbsnews.com/post/3m7i76t6y5n2o" target="_blank">cbsnews.com</a> (2025-12-08 23:05:28)</span><span style="padding-right:50px;">Ukraine's AgroGeneration suspends results release after Russian drone strike destroys documents reut.rs/49Z3ehW <a href="https://bsky.app/profile/reuters.com/post/3m7i765inps2i" target="_blank">reuters.com</a> (2025-12-08 23:05:05)</span><span style="padding-right:50px;">IBM said it will buy data infrastructure company Confluent in a deal valued at $11 billion, ramping ​up its cloud-computing offerings to capitalize on an AI-driven demand boom. <a href="https://bsky.app/profile/yahoofinance.com/post/3m7i6y2tqg22i" target="_blank">yahoofinance.com</a> (2025-12-08 23:01:41)</span>
+<span style="padding-right:50px;">🔔NHKより【速報 JUST IN】です。  【津波情報】北海道～岩手県沿岸に津波警報 (2025-12-08 23:28:35) #ニュース  ⬛津波情報 🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami <a href="https://bsky.app/profile/sokuho.news/post/3m7iaiwwjap2g" target="_blank">sokuho.news</a> (2025-12-08 23:29:01)</span><span style="padding-right:50px;">Google’s ‘TPU’ chip puts OpenAI on alert and shakes Nvidia investors on.ft.com/3MvCHPr <a href="https://bsky.app/profile/financialtimes.com/post/3m7iaisqfyc26" target="_blank">financialtimes.com</a> (2025-12-08 23:28:56)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】北海道太平洋沿岸中部、青森県太平洋沿岸、岩手県に津波警報 今すぐ逃げてください (2025-12-08 23:27) #ニュース  ⬛津波情報 🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami <a href="https://bsky.app/profile/sokuho.news/post/3m7iah647642p" target="_blank">sokuho.news</a> (2025-12-08 23:28:01)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:青森県東方沖, 深さ:50km マグニチュード:7.6, 最大震度:6強 📍https://www.google.com/maps?q=41.0,142.3&ll=41.0,142.3&z=7&t=h 地震発生日時:2025-12-08 23:15頃 (10倍速▶600s→60s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m7iah3guax2g" target="_blank">sokuho.news</a> (2025-12-08 23:27:58)</span><span style="padding-right:50px;">【地震速報】青森県で震度６強 https://news.web.nhk/newsweb/na/na-k10014997831000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7iafl5wd526" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-08 23:27:06)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.60 (🔺0.45 : 2025-12-08)</span>
+<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47943.65 (🔻27.86 : 2025-12-08)</span><span style="padding-right:50px;">^IXIC: Error</span><span style="padding-right:50px;">NVIDIA: 182.60 (🔻0.03 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.48 (🔺0.33 : 2025-12-08)</span>
   </div>
 </div>
 
@@ -32,94 +32,125 @@
 
 ## News Headlines
 
-1.  パラマウントがワーナー・ブラザーズ・ディスカバリーに敵対的買収を発表
-2.  共和党が健康保険サブシディーの代わりに金銭給付を提案
-3.  ゴールデングローブ賞2026のノミネートが発表
-4.  ウクライナの農業会社がドローン攻撃で文書を破棄
-5.  IBMがデータインフラストラクチャ会社Confluentを買収
-6.  ドナルド・トランプがNetflixのウォーナー・ブラザーズ・ディスカバリー買収に影響を与える
+1. 東北・北海道に津波警報を発表
+2. パラマウントがワーナー・ブラザーズ・ディスカバリーに$108億の買収提案
+3. 青森県東方沖で7.6の地震が発生
+4. Netflixがワーナー・ブラザーズ・ディスカバリーを買収するにあたってパラマウントが反発
+5. 東北・北海道に緊急地震速報を発表
+6. 大統領トランプが農業救済金を12億ドルで発表
 
 ----
 
-@wsj.com
+@sokuho.news
 
-Paramount launched a hostile bid for Warner Bros. Discovery, days after the company announced a $72 billion deal with Netflix.
+<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>【津波情報】北海道～岩手県沿岸に津波警報</strong><br><strong>(2025-12-08 23:28:35) #ニュース</strong><br><strong></strong><br><strong>⬛津波情報</strong><br><strong>🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami</strong>
 
-[2025-12-08 23:09:26](https://bsky.app/profile/wsj.com/post/3m7i7fwed4m2l)
-
----
-
-@npr.org
-
-A Republican call to give Americans cash instead of health insurance subsidies revives an old idea that has left millions with medical debt. n.pr/44dfWWE
-
-[2025-12-08 23:07:45](https://bsky.app/profile/npr.org/post/3m7i7cvvhzt2e)
+[2025-12-08 23:29:01](https://bsky.app/profile/sokuho.news/post/3m7iaiwwjap2g)
 
 ---
 
-@cbsnews.com
+@financialtimes.com
 
-The nominees for the 2026 Golden Globe Awards have been revealed. See the full list. 
+Google’s ‘TPU’ chip puts OpenAI on alert and shakes Nvidia investors on.ft.com/3MvCHPr
 
-[2025-12-08 23:05:28](https://bsky.app/profile/cbsnews.com/post/3m7i76t6y5n2o)
-
----
-
-@reuters.com
-
-Ukraine's AgroGeneration suspends results release after Russian drone strike destroys documents reut.rs/49Z3ehW
-
-[2025-12-08 23:05:05](https://bsky.app/profile/reuters.com/post/3m7i765inps2i)
+[2025-12-08 23:28:56](https://bsky.app/profile/financialtimes.com/post/3m7iaisqfyc26)
 
 ---
 
-@yahoofinance.com
+@sokuho.news
 
-IBM said it will buy data infrastructure company Confluent in a deal valued at $11 billion, ramping ​up its cloud-computing offerings to capitalize on an AI-driven demand boom.
+🛎️FNNより【速報】です。
 
-[2025-12-08 23:01:41](https://bsky.app/profile/yahoofinance.com/post/3m7i6y2tqg22i)
+【速報】北海道太平洋沿岸中部、青森県太平洋沿岸、岩手県に津波警報 今すぐ逃げてください
+(2025-12-08 23:27) #ニュース
 
----
+⬛津波情報
+🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami
 
-@cnn.com
-
-Sometimes, what goes up doesn’t come back down — instead, it becomes a problem. https://cnn.it/3KP4UjP
-
-[2025-12-08 23:01:05](https://bsky.app/profile/cnn.com/post/3m7i6wypem42q)
+[2025-12-08 23:28:01](https://bsky.app/profile/sokuho.news/post/3m7iah647642p)
 
 ---
 
-@reuters.com
+@sokuho.news
 
-IndiGo meltdown puts India's competitive airline industry in focus reut.rs/4iMMWeo
+🔔防災科研より【強震モニタ】動画です。
 
-[2025-12-08 23:00:58](https://bsky.app/profile/reuters.com/post/3m7i6wsk56b2w)
+震源:青森県東方沖, 深さ:50km
+マグニチュード:7.6, 最大震度:6強
+📍https://www.google.com/maps?q=41.0,142.3&ll=41.0,142.3&z=7&t=h
+地震発生日時:2025-12-08 23:15頃
+(10倍速▶600s→60s) #地震
 
----
-
-@washingtonpost.com
-
-President Donald Trump said he will be involved in his administration’s approval process for Netflix’s proposed $83 billion purchase of Warner Bros. Discovery, adding that the streaming giant’s strong market position “could be a problem.”
-
-[2025-12-08 23:00:47](https://bsky.app/profile/washingtonpost.com/post/3m7i6whmcdl2g)
+[2025-12-08 23:27:58](https://bsky.app/profile/sokuho.news/post/3m7iah3guax2g)
 
 ---
 
-@apnews.com
+@nhknewsunofficial.bsky.social
 
-bit.ly/4iJvBTD 
+【地震速報】青森県で震度６強
+https://news.web.nhk/newsweb/na/na-k10014997831000
 
-[2025-12-08 23:00:44](https://bsky.app/profile/apnews.com/post/3m7i6wejjnk2p)
+[2025-12-08 23:27:06](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7iafl5wd526)
 
 ---
 
-@apnews.com
+@nhknewsunofficial.bsky.social
 
-As President Donald Trump met Russian leader Vladimir Putin in Alaska earlier this year to discuss the Ukraine war, AP reporter Hanna Arhirova and her colleagues in Ukraine continued to deliver coverage from the front lines of the war.  
+【津波情報】北海道～岩手県沿岸に津波注意報
+https://news.web.nhk/newsweb/na/na-k10014997841000
 
-Support AP journalists like Hanna by donating today. 
+[2025-12-08 23:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7iafhfihj24)
 
-[2025-12-08 23:00:41](https://bsky.app/profile/apnews.com/post/3m7i6wc5rbm2j)
+---
+
+@sokuho.news
+
+🔔防災科研より【強震モニタ】動画です。
+
+震源:青森県東方沖, 深さ:50km
+マグニチュード:7.6, 最大震度:6強
+📍https://www.google.com/maps?q=41.0,142.3&ll=41.0,142.3&z=7&t=h
+地震発生日時:2025-12-08 23:15頃
+(10倍速▶300s→30s) #地震
+
+[2025-12-08 23:26:56](https://bsky.app/profile/sokuho.news/post/3m7iafaajea22)
+
+---
+
+@financialtimes.com
+
+<strong><span style="color: red;">Breaking news:</span> Paramount has launched a $108bn hostile bid to buy Warner Bros Discovery, in an attempt to outmanoeuvre Netflix after the streaming giant won an auction for the media company last week. on.ft.com/3MmkV1c</strong>
+
+[2025-12-08 23:26:25](https://bsky.app/profile/financialtimes.com/post/3m7iaechfca2j)
+
+---
+
+@sokuho.news
+
+🔔NHKより【津波速報】です。
+
+■津波警報■青森県太平洋沿岸 岩手県 北海道太平洋沿岸中部
+■津波注意報■北海道太平洋沿岸西部 北海道太平洋沿岸東部
+■津波注意報■宮城県 青森県日本海沿岸 福島県
+(2025-12-08 23:26) #ニュース
+
+⬛津波情報
+🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami
+
+[2025-12-08 23:26:10](https://bsky.app/profile/sokuho.news/post/3m7iadu5d5q22)
+
+---
+
+@sokuho.news
+
+🔔気象庁より【地震速報】です。
+
+23時15分頃、福島県・茨城県・山形県などで最大震度6強の地震を観測しました。
+震源:青森県東方沖, 深さ:50km, 規模:M7.6
+津波警報等（大津波警報・津波警報あるいは津波注意報）を発表中で…
+(2025-12-08 23:26:00) #地震
+
+[2025-12-08 23:26:02](https://bsky.app/profile/sokuho.news/post/3m7iadmjmda22)
 
 ---
 
