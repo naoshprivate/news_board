@@ -1,9 +1,9 @@
-# [2025-12-08 10:50 updated](2025_12_08.md)
+# [2025-12-08 11:10 updated](2025_12_08.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">High jewelry and wigs are more than accessories; they’re tools that can craft entire personas. <a href="https://bsky.app/profile/wsj.com/post/3m7gvzswdbg2p" target="_blank">wsj.com</a> (2025-12-08 10:48:56)</span><span style="padding-right:50px;">In @nytopinion.nytimes.com   “Producers hate Netflix because they can’t get back-end profits. A-list actors and their agents hate that they’ve put a lid on salaries and residuals. Studios hate Netflix when it poached their talent and jacked up executive salaries,” Sharon Waxman writes. <a href="https://bsky.app/profile/nytimes.com/post/3m7gvsvpi7d2m" target="_blank">nytimes.com</a> (2025-12-08 10:45:04)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】木原官房長官「中国側の指摘は当たらない」と反論 中国軍機が自衛隊機にレーダー照射 (2025-12-08 10:40:38) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7gvnnk42b2e" target="_blank">sokuho.news</a> (2025-12-08 10:42:08)</span><span style="padding-right:50px;">10月の経常収支 2兆8335億円の黒字 9か月連続で黒字に https://news.web.nhk/newsweb/na/na-k10014997111000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7gvnkeccj2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-08 10:42:02)</span><span style="padding-right:50px;">Trump says Netflix market share ‘could be a problem’ for $83bn Warner deal on.ft.com/4aD6a3X <a href="https://bsky.app/profile/financialtimes.com/post/3m7gvkofnsk26" target="_blank">financialtimes.com</a> (2025-12-08 10:40:28)</span>
+<span style="padding-right:50px;">Artist Chase Hall and designer Lauren Rodriguez Hall find creativity and comfort in their antique-filled home in the Hudson Valley. <a href="https://bsky.app/profile/wsj.com/post/3m7gx2xlnnn22" target="_blank">wsj.com</a> (2025-12-08 11:07:28)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】アクアラインで追突事故相次ぎ2人けが 車線規制実施中 (11:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7gwrnfgbt22" target="_blank">sokuho.news</a> (2025-12-08 11:02:16)</span><span style="padding-right:50px;">Here’s where to invest $1 million, according to the pros <a href="https://bsky.app/profile/cnbc.com/post/3m7gwrnexnb2e" target="_blank">cnbc.com</a> (2025-12-08 11:02:16)</span><span style="padding-right:50px;">北海道、中国線減便も冬ダイヤ活況　新千歳空港は東南アジア路線2倍に www.nikkei.com/article/DGXZQO...   新千歳では、国際線の就航便数が前年比1〜2割増える見通し。函館や帯広などほかの道内空港でも韓国や台湾を結ぶ路線が増え、好調が続きます。 <a href="https://bsky.app/profile/nikkei.com/post/3m7gwr2t7ma2l" target="_blank">nikkei.com</a> (2025-12-08 11:01:56)</span><span style="padding-right:50px;">Will De'Von Achane return after injuring his ribs vs. the Jets? Miami has listed him as questionable to return. <a href="https://bsky.app/profile/usatoday.com/post/3m7gwp4ekqm2u" target="_blank">usatoday.com</a> (2025-12-08 11:00:51)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50371.83 (🔻271.26 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3047.00 (🔻3.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 154.95 (🔻0.20 : 2025-12-08)</span>
+<span style="padding-right:50px;">NIKKEI: 50403.63 (🔻239.46 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3045.00 (🔻5.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 154.92 (🔻0.22 : 2025-12-08)</span>
   </div>
 </div>
 
@@ -34,107 +34,105 @@
 
 Here are the six important stories with headlines in English:
 
-1. "Producers Hate Netflix Because They Can't Get Back-End Profits"
-2. "China Says Air Strikes Launched Along Disputed Border Area with Cambodia"
-3. "High Jewelry and Wigs are More Than Accessories; They're Tools that Can Craft Entire Personas"
-4. "Eight Engravings by French Artist Henri Matisse Stolen from Library in Sao Paulo, Brazil"
-5. "CNBC Daily Open: Everyone's Watching the Netflix Deal"
-6. "Trump Says Netflix's Planned Acquisition of Warner Bros. Will Require a Review"
+1. **Netflix Merger with Warner Bros. Discovery Raises Concerns**
+Trump says the combined company would have too much market share.
+2. **Nigeria Secures Release of 100 Abducted Schoolchildren**
+After a month-long kidnapping, the Nigerian government secured the release of 100 schoolchildren from their captors.
+3. **Eight Matisse Engravings Stolen from Brazilian Library**
+The French artist's works were stolen from a library in Sao Paulo, Brazil.
+4. **Russia-Ukraine War Enters 1,383th Day**
+The ongoing conflict between Russia and Ukraine has reached its 1,383th day, with key developments and updates emerging daily.
+5. **Robinhood to Enter Indonesia with Brokerage and Crypto Services**
+The American financial services company is expanding into Indonesia, offering brokerage and crypto services to the local market.
+6. **Thai Army Launches Air Strikes Along Disputed Border with Cambodia**
+The Thai army has launched air strikes along the disputed border with Cambodia, amid tensions between the two nations.
 
 ----
 
 @wsj.com
 
-High jewelry and wigs are more than accessories; they’re tools that can craft entire personas.
+Artist Chase Hall and designer Lauren Rodriguez Hall find creativity and comfort in their antique-filled home in the Hudson Valley.
 
-[2025-12-08 10:48:56](https://bsky.app/profile/wsj.com/post/3m7gvzswdbg2p)
-
----
-
-@nytimes.com
-
-In @nytopinion.nytimes.com 
-
-“Producers hate Netflix because they can’t get back-end profits. A-list actors and their agents hate that they’ve put a lid on salaries and residuals. Studios hate Netflix when it poached their talent and jacked up executive salaries,” Sharon Waxman writes.
-
-[2025-12-08 10:45:04](https://bsky.app/profile/nytimes.com/post/3m7gvsvpi7d2m)
+[2025-12-08 11:07:28](https://bsky.app/profile/wsj.com/post/3m7gx2xlnnn22)
 
 ---
 
 @sokuho.news
 
-🛎️JNNより【速報】です。
+🔔ANNより【速報】です。
 
-【速報】木原官房長官「中国側の指摘は当たらない」と反論 中国軍機が自衛隊機にレーダー照射
-(2025-12-08 10:40:38) #ニュース
+【速報】アクアラインで追突事故相次ぎ2人けが 車線規制実施中
+(11:00) #ニュース
 
-[2025-12-08 10:42:08](https://bsky.app/profile/sokuho.news/post/3m7gvnnk42b2e)
-
----
-
-@nhknewsunofficial.bsky.social
-
-10月の経常収支 2兆8335億円の黒字 9か月連続で黒字に
-https://news.web.nhk/newsweb/na/na-k10014997111000
-
-[2025-12-08 10:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7gvnkeccj2b)
+[2025-12-08 11:02:16](https://bsky.app/profile/sokuho.news/post/3m7gwrnfgbt22)
 
 ---
 
-@financialtimes.com
+@cnbc.com
 
-Trump says Netflix market share ‘could be a problem’ for $83bn Warner deal on.ft.com/4aD6a3X
+Here’s where to invest $1 million, according to the pros
 
-[2025-12-08 10:40:28](https://bsky.app/profile/financialtimes.com/post/3m7gvkofnsk26)
-
----
-
-@reuters.com
-
-Rupee to stay under pressure, eyes Fed decision alongside bonds reut.rs/4iMIwnQ
-
-[2025-12-08 10:40:12](https://bsky.app/profile/reuters.com/post/3m7gvk754mi2d)
+[2025-12-08 11:02:16](https://bsky.app/profile/cnbc.com/post/3m7gwrnexnb2e)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@nikkei.com
 
-高市首相動静 2025年12月5日～7日
-https://news.web.nhk/newsweb/na/na-k10014997091000
+北海道、中国線減便も冬ダイヤ活況　新千歳空港は東南アジア路線2倍に
+www.nikkei.com/article/DGXZQO...
+ 
+新千歳では、国際線の就航便数が前年比1〜2割増える見通し。函館や帯広などほかの道内空港でも韓国や台湾を結ぶ路線が増え、好調が続きます。
 
-[2025-12-08 10:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7gvi6j35m2p)
-
----
-
-@en.afp.com
-
-Eight engravings by the French artist Henri Matisse stolen from a library in Sao Paulo, Brazil
-
-u.afp.com/S7qo
-
-[2025-12-08 10:37:46](https://bsky.app/profile/en.afp.com/post/3m7gvftp7wh2z)
+[2025-12-08 11:01:56](https://bsky.app/profile/nikkei.com/post/3m7gwr2t7ma2l)
 
 ---
 
-@sokuho.news
+@usatoday.com
 
-🛎️JNNより【速報】です。
+Will De'Von Achane return after injuring his ribs vs. the Jets? Miami has listed him as questionable to return.
 
-【速報】JR日豊本線の東別府～西大分駅間で人身事故 一部区間で運転見合わせ、遅延発生
-(2025-12-08 10:34:00) #ニュース
-
-🚃鉄道運行情報
-🔗https://transit.yahoo.co.jp/diainfo
-
-[2025-12-08 10:36:59](https://bsky.app/profile/sokuho.news/post/3m7gvehh2ql2y)
+[2025-12-08 11:00:51](https://bsky.app/profile/usatoday.com/post/3m7gwp4ekqm2u)
 
 ---
 
 @reuters.com
 
-Robinhood to enter Indonesia with brokerage, crypto trader acquisition reut.rs/44aVPZd
+Contemporary Era committee elects Jeff Kent to Baseball Hall of Fame reut.rs/44d0MAG
 
-[2025-12-08 10:30:31](https://bsky.app/profile/reuters.com/post/3m7guyvjut52e)
+[2025-12-08 11:00:42](https://bsky.app/profile/reuters.com/post/3m7gwouklnj22)
+
+---
+
+@nbcnews.com
+
+Trump said that the proposed merger between Netflix and Warner Bros. Discovery "could be a problem" because of the amount of market share the resulting company would have.
+
+[2025-12-08 11:00:27](https://bsky.app/profile/nbcnews.com/post/3m7gwofaxaq2j)
+
+---
+
+@cnn.com
+
+Nigeria’s government has secured the release of 100 schoolchildren who were abducted last month in Niger state in one of the country’s worst mass kidnappings to date, local broadcaster Channels Television reported. 
+
+[2025-12-08 11:00:08](https://bsky.app/profile/cnn.com/post/3m7gwnu4gaq2q)
+
+---
+
+@washingtonpost.com
+
+Experts say safe storage of cannabis products and limits on packaging that uses bright colors and cartoon characters are critical to making them less enticing to young children.
+
+[2025-12-08 11:00:07](https://bsky.app/profile/washingtonpost.com/post/3m7gwnsmjmm2j)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【動画】各地の紅葉 京都御所 名古屋 徳川園
+https://news.web.nhk/newsweb/na/na-k10014990441000
+
+[2025-12-08 10:54:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7gwcz4fjo2b)
 
 ---
 
