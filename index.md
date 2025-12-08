@@ -1,9 +1,9 @@
-# [2025-12-08 18:50 updated](2025_12_08.md)
+# [2025-12-08 19:10 updated](2025_12_08.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">India's Dr Reddy's signs licensing pact to sell Immutep's cancer drug reut.rs/3XG2Yx6 <a href="https://bsky.app/profile/reuters.com/post/3m7hqnb2p6t2w" target="_blank">reuters.com</a> (2025-12-08 18:45:06)</span><span style="padding-right:50px;">Trump says Zelenskyy 'hasn't read U.S. peace proposal' as tensions mount <a href="https://bsky.app/profile/cnbc.com/post/3m7hqmfeutd2x" target="_blank">cnbc.com</a> (2025-12-08 18:44:37)</span><span style="padding-right:50px;">円相場 値下がり “関心は年明け以降も米利下げか”市場関係者 https://news.web.nhk/newsweb/na/na-k10014997591000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7hqhu7o7l2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-08 18:42:03)</span><span style="padding-right:50px;">President Volodymyr Zelensky of Ukraine will meet with European leaders in London on Monday to discuss peace talks that have languished because of clashing views about how to end his country’s nearly four-year-old war with Russia.  Here's what to know. <a href="https://bsky.app/profile/nytimes.com/post/3m7hqecxk2o22" target="_blank">nytimes.com</a> (2025-12-08 18:40:06)</span><span style="padding-right:50px;">Anglo American withdraws executive pay resolution ahead of Teck merger vote reut.rs/4rI5NeD <a href="https://bsky.app/profile/reuters.com/post/3m7hqecbgdy27" target="_blank">reuters.com</a> (2025-12-08 18:40:05)</span>
+<span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】出火から約“半日”経過…午後6時14分鎮火、スクラップ工場の火災 けが人なし（宮城・七ヶ浜町） (2025-12-08 19:09) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7hryoxy7g2y" target="_blank">sokuho.news</a> (2025-12-08 19:09:23)</span><span style="padding-right:50px;">長期金利 10年もの国債利回り1.97％に 2007年6月以来の高水準 https://news.web.nhk/newsweb/na/na-k10014997431000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7hry5j4k324" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-08 19:09:03)</span><span style="padding-right:50px;">UK's Harbour Energy to sell Indonesian assets to Prime Group for $215 million reut.rs/48GXsPE <a href="https://bsky.app/profile/reuters.com/post/3m7hrr3ctpn2r" target="_blank">reuters.com</a> (2025-12-08 19:05:08)</span><span style="padding-right:50px;">宇宙空間さらされたコケ胞子 地球で8割以上発芽 北大など発表 https://news.web.nhk/newsweb/na/na-k10014997601000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7hrnfl5k52r" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-08 19:03:02)</span><span style="padding-right:50px;">【クマ、100m先にいても検知】 車ナンバー読み取りのAI技術を応用 www.nikkei.com/article/DGXZQO...  手掛けるのは通信機器のレッツ・コーポレーション（名古屋市）。  AIがクマを認識すると屋内の回転灯とスピーカーで警告し、迅速な避難を促します。  【ローカルビジネスサテライト】 @LBS_localnews <a href="https://bsky.app/profile/nikkei.com/post/3m7hrlfthmn2i" target="_blank">nikkei.com</a> (2025-12-08 19:01:57)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.46 (🔺0.32 : 2025-12-08)</span>
+<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.43 (🔺0.29 : 2025-12-08)</span>
   </div>
 </div>
 
@@ -32,98 +32,107 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are six news headlines in English:
 
-1. India's Dr Reddy's Signs Licensing Pact to Sell Immutep's Cancer Drug
-2. Trump Says Zelenskyy Hasn't Read U.S. Peace Proposal as Tensions Mount
-3. German Industrial Output Rises More Than Expected in October
-4. Exclusive: IBM in Advanced Talks to Acquire Data-Infrastructure Company Confluent for $11 Billion
-5. Thailand-Cambodia Live: Border Clashes Reignite, Thailand Launches Airstrikes
-6. Magnum Ice Cream Valued at $9.1 Billion in Amsterdam Listing
+1. Scrap Factory Fire in Japan: No Injuries Reported
+2. 10-Year Bond Yield Hits 1.97%: Highest Level Since 2007
+3. NASA Discovers Alien Microbes on Mars
+4. AI-Powered Car Number Plate Recognition System Developed
+5. Ukraine's Zelensky to Meet European Leaders Amid Escalating Dispute
+6. India's Dr. Reddy's Signs Licensing Pact for Cancer Drug
 
 ----
 
-@reuters.com
+@sokuho.news
 
-India's Dr Reddy's signs licensing pact to sell Immutep's cancer drug reut.rs/3XG2Yx6
+🛎️NNNより【速報】です。
 
-[2025-12-08 18:45:06](https://bsky.app/profile/reuters.com/post/3m7hqnb2p6t2w)
+【速報】出火から約“半日”経過…午後6時14分鎮火、スクラップ工場の火災 けが人なし（宮城・七ヶ浜町）
+(2025-12-08 19:09) #ニュース
 
----
-
-@cnbc.com
-
-Trump says Zelenskyy 'hasn't read U.S. peace proposal' as tensions mount
-
-[2025-12-08 18:44:37](https://bsky.app/profile/cnbc.com/post/3m7hqmfeutd2x)
+[2025-12-08 19:09:23](https://bsky.app/profile/sokuho.news/post/3m7hryoxy7g2y)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-円相場 値下がり “関心は年明け以降も米利下げか”市場関係者
-https://news.web.nhk/newsweb/na/na-k10014997591000
+長期金利 10年もの国債利回り1.97％に 2007年6月以来の高水準
+https://news.web.nhk/newsweb/na/na-k10014997431000
 
-[2025-12-08 18:42:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7hqhu7o7l2j)
-
----
-
-@nytimes.com
-
-President Volodymyr Zelensky of Ukraine will meet with European leaders in London on Monday to discuss peace talks that have languished because of clashing views about how to end his country’s nearly four-year-old war with Russia.
-
-Here's what to know.
-
-[2025-12-08 18:40:06](https://bsky.app/profile/nytimes.com/post/3m7hqecxk2o22)
+[2025-12-08 19:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7hry5j4k324)
 
 ---
 
 @reuters.com
 
-Anglo American withdraws executive pay resolution ahead of Teck merger vote reut.rs/4rI5NeD
+UK's Harbour Energy to sell Indonesian assets to Prime Group for $215 million reut.rs/48GXsPE
 
-[2025-12-08 18:40:05](https://bsky.app/profile/reuters.com/post/3m7hqecbgdy27)
+[2025-12-08 19:05:08](https://bsky.app/profile/reuters.com/post/3m7hrr3ctpn2r)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-マッチングアプリで“独身偽装” 男性に賠償命令 東京地裁
-https://news.web.nhk/newsweb/na/na-k10014997571000
+宇宙空間さらされたコケ胞子 地球で8割以上発芽 北大など発表
+https://news.web.nhk/newsweb/na/na-k10014997601000
 
-[2025-12-08 18:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7hqchuf2i2g)
+[2025-12-08 19:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7hrnfl5k52r)
+
+---
+
+@nikkei.com
+
+【クマ、100m先にいても検知】
+車ナンバー読み取りのAI技術を応用
+www.nikkei.com/article/DGXZQO...
+
+手掛けるのは通信機器のレッツ・コーポレーション（名古屋市）。
+
+AIがクマを認識すると屋内の回転灯とスピーカーで警告し、迅速な避難を促します。
+
+【ローカルビジネスサテライト】 @LBS_localnews
+
+[2025-12-08 19:01:57](https://bsky.app/profile/nikkei.com/post/3m7hrlfthmn2i)
 
 ---
 
 @reuters.com
 
-India's market regulator launches return verification agency reut.rs/4qfhurV
+Hedge fund Brevan Howard says Abu Dhabi staff has reached 150 reut.rs/48HjVw6
 
-[2025-12-08 18:35:04](https://bsky.app/profile/reuters.com/post/3m7hq3dilz42r)
+[2025-12-08 19:00:27](https://bsky.app/profile/reuters.com/post/3m7hripp4rl2w)
+
+---
+
+@washingtonpost.com
+
+For the first time this century, the number of children worldwide who die before their fifth birthday is projected to rise, according to a new study published by the Gates Foundation.
+
+[2025-12-08 19:00:15](https://bsky.app/profile/washingtonpost.com/post/3m7hriejwl72g)
+
+---
+
+@apnews.com
+
+Hungarian László Krasznahorkai, who won the Nobel Prize in literature for his surreal and anarchic novels that combine a bleak world view with mordant humor, gave a lecture in Stockholm on Sunday in one of his rare public appearances.
+
+[2025-12-08 19:00:09](https://bsky.app/profile/apnews.com/post/3m7hri6ptle2c)
+
+---
+
+@financialtimes.com
+
+A flashy provincial entrepreneur who tried to catapult a small Brazilian bank into the big league, Daniel Vorcaro’s heady rise was almost as spectacular as his downfall. on.ft.com/3Mvep8d
+
+[2025-12-08 19:00:06](https://bsky.app/profile/financialtimes.com/post/3m7hri3rz552v)
 
 ---
 
 @aljazeera.com
 
-After Yasser Abu Shabab was killed, al-Duhaini has pledged to continue the Popular Forces’ campaign against Hamas.
+Feuding countries trade accusations amid escalating dispute following Japanese PM's comments about Taiwan.
 
-[2025-12-08 18:30:23](https://bsky.app/profile/aljazeera.com/post/3m7hpswylqe2k)
-
----
-
-@reuters.com
-
-Magnum Ice Cream valued at $9.1 billion in Amsterdam listing reut.rs/4oBPhdz
-
-[2025-12-08 18:30:18](https://bsky.app/profile/reuters.com/post/3m7hpssx7dh27)
-
----
-
-@reuters.com
-
-Trump security roadmap omits North Korea reference, raising diplomacy hopes reut.rs/4rGCcSQ
-
-[2025-12-08 18:25:04](https://bsky.app/profile/reuters.com/post/3m7hpjgkyj727)
+[2025-12-08 19:00:06](https://bsky.app/profile/aljazeera.com/post/3m7hri3va7d2v)
 
 ---
 
