@@ -1,9 +1,9 @@
-# [2025-12-08 09:10 updated](2025_12_08.md)
+# [2025-12-08 09:30 updated](2025_12_08.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】駅改札付近に不審物 ガムテープで包んでいる箱のようなもの 日豊本線一部区間で運転見合わせ (2025-12-08 08:50) #ニュース  🚃鉄道運行情報 🔗https://transit.yahoo.co.jp/diainfo <a href="https://bsky.app/profile/sokuho.news/post/3m7gqbspo3o2w" target="_blank">sokuho.news</a> (2025-12-08 09:06:02)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】ダンプカーと乗用車が衝突 50代～60代くらいの男性1人が意識不明の重体 札幌市東区 (2025-12-08 09:00:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7gqb5k74t2h" target="_blank">sokuho.news</a> (2025-12-08 09:05:40)</span><span style="padding-right:50px;">Japan's Q3 revised GDP widens contraction to annualised 2.3% reut.rs/4pid2s6 <a href="https://bsky.app/profile/reuters.com/post/3m7gqa7zugr27" target="_blank">reuters.com</a> (2025-12-08 09:05:09)</span><span style="padding-right:50px;">Asia-Pacific markets set to open mostly higher as investors look toward China trade data <a href="https://bsky.app/profile/cnbc.com/post/3m7gq7in5bv2i" target="_blank">cnbc.com</a> (2025-12-08 09:04:44)</span><span style="padding-right:50px;">From the Romans to today’s artificial intelligence, it’s all about management. How much do you know about management books? <a href="https://bsky.app/profile/wsj.com/post/3m7gq5jffom2l" target="_blank">wsj.com</a> (2025-12-08 09:03:38)</span>
+<span style="padding-right:50px;">After January’s devastating fire, a rebuilt house in Los Angeles’ Pacific Palisades becomes the first to receive a certificate of occupancy. <a href="https://bsky.app/profile/wsj.com/post/3m7gr7crg6p2p" target="_blank">wsj.com</a> (2025-12-08 09:22:32)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】長野駅前近くで「人が倒れている」…死亡ひき逃げか 通勤通学時間の駅前は騒然 道路の痕跡などを捜査 (2025-12-08 09:10:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7gr4f3b7s27" target="_blank">sokuho.news</a> (2025-12-08 09:20:54)</span><span style="padding-right:50px;">The UN's top humanitarian and emergency relief official has told NPR that the lack of attention from world leaders to the war in Sudan is the "billion dollar question". n.pr/44cy5nv <a href="https://bsky.app/profile/npr.org/post/3m7gqzftp4723" target="_blank">npr.org</a> (2025-12-08 09:19:14)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】長野駅前近くで「人が倒れている」…ひき逃げか 通勤通学時間の駅前は騒然 道路の痕跡などを捜査 (2025-12-08 09:10:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7gqu367r422" target="_blank">sokuho.news</a> (2025-12-08 09:16:15)</span><span style="padding-right:50px;">A glitch in the airline's check-in system, combined with winter flight schedule changes, air congestion and adverse weather, led to a severe disruption of IndiGo's operations. bloom.bg/44Mnf7T  📷: Anindito Mukherjee/Bloomberg <a href="https://bsky.app/profile/bloomberg.com/post/3m7gqsihw4r2d" target="_blank">bloomberg.com</a> (2025-12-08 09:15:22)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">^N225: Error</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">7203.T: Error</span><span style="padding-right:50px;">USD/JPY: 155.20 (🔺0.05 : 2025-12-08)</span>
+<span style="padding-right:50px;">NIKKEI: 50343.83 (🔻299.26 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3034.00 (🔻16.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.16 (🔺0.02 : 2025-12-08)</span>
   </div>
 </div>
 
@@ -32,16 +32,72 @@
 
 ## News Headlines
 
-Here are the six headlines in English:
+Here are six important stories with headlines in English:
 
-1. Japan's Q3 GDP widens contraction to annualized 2.3%
-2. Sequels are the gift that keeps on giving for Hollywood this holiday season
-3. Huge Wall Street call: Morgan Stanley's new Tesla analyst downgrades stock over valuation concerns
-4. Japanese real wages fall for 10th month despite upbeat nominal pay
-5. How Leaders Can Use December To Reset And Enter 2026 With Momentum
-6. Exclusive: Ben & Jerry's board chair does not plan to resign as pressure mounts from Unilever unit
+1. "Los Angeles' Pacific Palisades Gets First Certificate of Occupancy After Devastating Fire"
+2. "UN's Top Humanitarian Official Says Lack of Attention to Sudan War is the 'Billion Dollar Question'"
+3. "IndiGo Airlines Faces Disruption Due to Check-in System Glitch and Winter Flight Schedule Changes"
+4. "Japan's GDP Contracts 2.3% in Q3, Widening Contraction"
+5. "Hamas Official Says Group Ready to Discuss 'Freezing or Storing' Its Arsenal of Weapons"
+6. "US Defense Secretary Pete Hegseth Under Pressure Over Scandals and Use of Signal to Discuss Sensitive Military Information"
 
 ----
+
+@wsj.com
+
+After January’s devastating fire, a rebuilt house in Los Angeles’ Pacific Palisades becomes the first to receive a certificate of occupancy.
+
+[2025-12-08 09:22:32](https://bsky.app/profile/wsj.com/post/3m7gr7crg6p2p)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】長野駅前近くで「人が倒れている」…死亡ひき逃げか 通勤通学時間の駅前は騒然 道路の痕跡などを捜査
+(2025-12-08 09:10:00) #ニュース
+
+[2025-12-08 09:20:54](https://bsky.app/profile/sokuho.news/post/3m7gr4f3b7s27)
+
+---
+
+@npr.org
+
+The UN's top humanitarian and emergency relief official has told NPR that the lack of attention from world leaders to the war in Sudan is the "billion dollar question". n.pr/44cy5nv
+
+[2025-12-08 09:19:14](https://bsky.app/profile/npr.org/post/3m7gqzftp4723)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】長野駅前近くで「人が倒れている」…ひき逃げか 通勤通学時間の駅前は騒然 道路の痕跡などを捜査
+(2025-12-08 09:10:00) #ニュース
+
+[2025-12-08 09:16:15](https://bsky.app/profile/sokuho.news/post/3m7gqu367r422)
+
+---
+
+@bloomberg.com
+
+A glitch in the airline's check-in system, combined with winter flight schedule changes, air congestion and adverse weather, led to a severe disruption of IndiGo's operations. bloom.bg/44Mnf7T
+
+📷: Anindito Mukherjee/Bloomberg
+
+[2025-12-08 09:15:22](https://bsky.app/profile/bloomberg.com/post/3m7gqsihw4r2d)
+
+---
+
+@financialtimes.com
+
+Atlantic Bastion: the UK’s response to Russia’s submarine threat on.ft.com/48oG6bv
+
+[2025-12-08 09:12:48](https://bsky.app/profile/financialtimes.com/post/3m7gqnvufu22l)
+
+---
 
 @sokuho.news
 
@@ -81,62 +137,6 @@ Japan's Q3 revised GDP widens contraction to annualised 2.3% reut.rs/4pid2s6
 Asia-Pacific markets set to open mostly higher as investors look toward China trade data
 
 [2025-12-08 09:04:44](https://bsky.app/profile/cnbc.com/post/3m7gq7in5bv2i)
-
----
-
-@wsj.com
-
-From the Romans to today’s artificial intelligence, it’s all about management. How much do you know about management books?
-
-[2025-12-08 09:03:38](https://bsky.app/profile/wsj.com/post/3m7gq5jffom2l)
-
----
-
-@nhknewsunofficial.bsky.social
-
-GDP改定値7月～9月 年率換算マイナス2.3％ 速報値から下方修正
-https://news.web.nhk/newsweb/na/na-k10014997081000
-
-[2025-12-08 09:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7gq4jwdx426)
-
----
-
-@cnn.com
-
-Sequels are the gift that keeps on giving for Hollywood this holiday season. 
-
-[2025-12-08 09:03:02](https://bsky.app/profile/cnn.com/post/3m7gq4gtxwq2m)
-
----
-
-@nikkei.com
-
-花粉症、長期間の予防促す物質発見　東京大学がマウスで確認
-www.nikkei.com/article/DGXZQO...
- 
-予防する手段は現時点で確立されておらず、物質の働きを抑える医薬品を使った対症療法が中心です。
- 
-研究チームが発見したのは「ブリオスタチン1」で、粘膜の防御効果を高め、スギ花粉の体内侵入を防ぐ効果を確認。投与したマウスは、鼻をかく行動やくしゃみの回数が著しく減少しました。
-
-#ニュース
-
-[2025-12-08 09:01:57](https://bsky.app/profile/nikkei.com/post/3m7gq2iu4us2g)
-
----
-
-@usatoday.com
-
-The Pacific Northwest is expected to see up to seven inches of rain this week, as the eastern United States braces for arctic cold.
-
-[2025-12-08 09:01:19](https://bsky.app/profile/usatoday.com/post/3m7gpzf7yup2p)
-
----
-
-@reuters.com
-
-LG Energy Solution wins $1.4 bln order to supply Mercedes-Benz EV batteries reut.rs/3MlDPoW
-
-[2025-12-08 09:00:53](https://bsky.app/profile/reuters.com/post/3m7gpylp5t72r)
 
 ---
 
