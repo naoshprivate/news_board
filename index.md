@@ -1,9 +1,9 @@
-# [2025-12-08 20:50 updated](2025_12_08.md)
+# [2025-12-08 21:10 updated](2025_12_08.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">They are the “moderate millionaires”: 401(k) investors with assets ranging from $1 million to $5 million. Some members of the growing club still clip coupons. <a href="https://bsky.app/profile/wsj.com/post/3m7hxjn3jpt2x" target="_blank">wsj.com</a> (2025-12-08 20:48:20)</span><span style="padding-right:50px;">Trump has prompted a redistricting race as he tries to maintain Republican control of the House in the 2026 elections. Democrats have fewer options to counter, as the battle heads into next year. n.pr/4oMnWW1 <a href="https://bsky.app/profile/npr.org/post/3m7hxegzfdo2q" target="_blank">npr.org</a> (2025-12-08 20:45:26)</span><span style="padding-right:50px;">EU to weaken more environment reporting rules, draft document shows reut.rs/48qfVBl <a href="https://bsky.app/profile/reuters.com/post/3m7hxdwuw2i2k" target="_blank">reuters.com</a> (2025-12-08 20:45:09)</span><span style="padding-right:50px;">🔊 Thailand has launched airstrikes into Cambodia, flaring tensions along their disputed border and throwing a Trump-brokered ceasefire into question. Listen to the Reuters World News podcast for more reut.rs/4iN677U <a href="https://bsky.app/profile/reuters.com/post/3m7hx7rd4is2c" target="_blank">reuters.com</a> (2025-12-08 20:42:49)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】群馬・妙義山で山火事 自衛隊に派遣要請 8ヘクタール焼け今も延焼中 (2025年12月8日 19:39) #ニュース https://news.tv-asahi.co.jp/news_society/articles/000471553.html?display=full <a href="https://bsky.app/profile/sokuho.news/post/3m7hx6sho3z2p" target="_blank">sokuho.news</a> (2025-12-08 20:42:16)</span>
+<span style="padding-right:50px;">維新 吉村代表が批判 “政治資金でキャバクラ おかしい” https://news.web.nhk/newsweb/na/na-k10014997651000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7hyjdtwka2e" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-08 21:06:03)</span><span style="padding-right:50px;">India consumer inflation likely picked up in November on fading base effects: Reuters poll reut.rs/4rHIeTl <a href="https://bsky.app/profile/reuters.com/post/3m7hyhlfg762w" target="_blank">reuters.com</a> (2025-12-08 21:05:05)</span><span style="padding-right:50px;">The World Health Organisation said on Monday that 114 people, including 63 children, were killed in "senseless" strikes on a hospital and kindergarten in Sudan's South Kordofan state last week ➡️ u.afp.com/S7pd <a href="https://bsky.app/profile/en.afp.com/post/3m7hyhigu7p2c" target="_blank">en.afp.com</a> (2025-12-08 21:05:02)</span><span style="padding-right:50px;">Retail investors help drive gold and US stocks to bubble territory, BIS warns on.ft.com/3KCNwPh <a href="https://bsky.app/profile/financialtimes.com/post/3m7hyhdnew32w" target="_blank">financialtimes.com</a> (2025-12-08 21:04:57)</span><span style="padding-right:50px;">Retail investors help drive gold and US stocks to bubble territory, BIS warns on.ft.com/3KlRXxT <a href="https://bsky.app/profile/financialtimes.com/post/3m7hyhdmrdw25" target="_blank">financialtimes.com</a> (2025-12-08 21:04:57)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.54 (🔺0.39 : 2025-12-08)</span>
+<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.62 (🔺0.47 : 2025-12-08)</span>
   </div>
 </div>
 
@@ -32,98 +32,103 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are six important stories with English headlines:
 
-1. Trump's Redistricting Plan Sparks Political Battle
-2. EU to Weaken Environment Reporting Rules
-3. Thailand Launches Airstrikes on Cambodia, Raising Tensions
-4. China's Former Sports Administration Chief Gets Suspended Death Sentence
-5. Ukrainian Leader Faces Pressure from US to Accept Deal with Russia
-6. US to Waive Fine for Southwest Airlines Over Flight Cancellations
+1. 114 Killed in Sudan Hospital Strike, World Health Organisation Condemns Attack
+2. Gold and US Stocks Reach Bubble Territory, BIS Warns
+3. India's Consumer Inflation Likely Picked Up in November, Reuters Poll Shows
+4. Israel's 'New Border Line' in Gaza Raises Doubts Over Trump Peace Plan
+5. EU to Weaken Environment Reporting Rules, Draft Document Shows
+6. Taylor Swift Cheers on Travis Kelce at NFL Game, Selena Gomez in Attendance
 
 ----
 
+@nhknewsunofficial.bsky.social
+
+維新 吉村代表が批判 “政治資金でキャバクラ おかしい”
+https://news.web.nhk/newsweb/na/na-k10014997651000
+
+[2025-12-08 21:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7hyjdtwka2e)
+
+---
+
+@reuters.com
+
+India consumer inflation likely picked up in November on fading base effects: Reuters poll reut.rs/4rHIeTl
+
+[2025-12-08 21:05:05](https://bsky.app/profile/reuters.com/post/3m7hyhlfg762w)
+
+---
+
+@en.afp.com
+
+The World Health Organisation said on Monday that 114 people, including 63 children, were killed in "senseless" strikes on a hospital and kindergarten in Sudan's South Kordofan state last week ➡️ u.afp.com/S7pd
+
+[2025-12-08 21:05:02](https://bsky.app/profile/en.afp.com/post/3m7hyhigu7p2c)
+
+---
+
+@financialtimes.com
+
+Retail investors help drive gold and US stocks to bubble territory, BIS warns on.ft.com/3KCNwPh
+
+[2025-12-08 21:04:57](https://bsky.app/profile/financialtimes.com/post/3m7hyhdnew32w)
+
+---
+
+@financialtimes.com
+
+Retail investors help drive gold and US stocks to bubble territory, BIS warns on.ft.com/3KlRXxT
+
+[2025-12-08 21:04:57](https://bsky.app/profile/financialtimes.com/post/3m7hyhdmrdw25)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+ソフトバンク 新人入団会見 佐々木麟太郎を除く12人が意気込み
+https://news.web.nhk/newsweb/na/na-k10014997771000
+
+[2025-12-08 21:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7hydzbma42b)
+
+---
+
+@nikkei.com
+
+ハワイ真珠湾攻撃から84年で追悼式典
+www.nikkei.com/article/DGXZQO...
+
+アメリカ海軍などが主催し、約3千人が出席。攻撃開始時刻に黙とうをささげ、約2400人の死者を悼みました。
+
+終戦80年に合わせ訪米している、長崎の被爆者団体代表団も参列しました。
+
+スザンヌ・バレスラム元陸軍少将は「（当時の体験は）過去の遺物ではなく、未来への教訓だ」と述べました。
+
+[2025-12-08 21:01:58](https://bsky.app/profile/nikkei.com/post/3m7hybyr5wo2k)
+
+---
+
 @wsj.com
 
-They are the “moderate millionaires”: 401(k) investors with assets ranging from $1 million to $5 million. Some members of the growing club still clip coupons.
+Couples in India are offering total strangers access to their multiday ceremonies. For tourists, it’s “like being Beyoncé for a day.” on.wsj.com/4iGUpvn
 
-[2025-12-08 20:48:20](https://bsky.app/profile/wsj.com/post/3m7hxjn3jpt2x)
-
----
-
-@npr.org
-
-Trump has prompted a redistricting race as he tries to maintain Republican control of the House in the 2026 elections. Democrats have fewer options to counter, as the battle heads into next year. n.pr/4oMnWW1
-
-[2025-12-08 20:45:26](https://bsky.app/profile/npr.org/post/3m7hxegzfdo2q)
+[2025-12-08 21:00:48](https://bsky.app/profile/wsj.com/post/3m7hy7vz6if2h)
 
 ---
 
-@reuters.com
+@wsj.com
 
-EU to weaken more environment reporting rules, draft document shows reut.rs/48qfVBl
+The Indianapolis Colts emerged as the surprise of the season and swung a blockbuster trade to boost their chances. Then the quarterback who breathed life into the team went down. on.wsj.com/4pNcdqY
 
-[2025-12-08 20:45:09](https://bsky.app/profile/reuters.com/post/3m7hxdwuw2i2k)
-
----
-
-@reuters.com
-
-🔊 Thailand has launched airstrikes into Cambodia, flaring tensions along their disputed border and throwing a Trump-brokered ceasefire into question. Listen to the Reuters World News podcast for more reut.rs/4iN677U
-
-[2025-12-08 20:42:49](https://bsky.app/profile/reuters.com/post/3m7hx7rd4is2c)
+[2025-12-08 21:00:47](https://bsky.app/profile/wsj.com/post/3m7hy7v2s6h24)
 
 ---
 
-@sokuho.news
+@usatoday.com
 
-🔔ANNより【速報】です。
+Taylor Swift had a little help from her friend, Selena Gomez, who helped cheer on Travis Kelce at the Dec. 7 Chiefs vs. Texans football game.
 
-【速報】群馬・妙義山で山火事 自衛隊に派遣要請 8ヘクタール焼け今も延焼中
-(2025年12月8日 19:39) #ニュース
-https://news.tv-asahi.co.jp/news_society/articles/000471553.html?display=full
-
-[2025-12-08 20:42:16](https://bsky.app/profile/sokuho.news/post/3m7hx6sho3z2p)
-
----
-
-@reuters.com
-
-China's former sports administration chief handed suspended death sentence reut.rs/3KObeYT
-
-[2025-12-08 20:40:17](https://bsky.app/profile/reuters.com/post/3m7hx3aij622o)
-
----
-
-@nbcnews.com
-
-President Trump says he is "disappointed" with Ukraine's Volodymyr Zelenskyy, who he says has not read the latest plan to end Russia's war. 
-
-[2025-12-08 20:40:05](https://bsky.app/profile/nbcnews.com/post/3m7hx2uiqte2h)
-
----
-
-@nytimes.com
-
-Listen to “The Headlines,” which brings you the biggest stories of the day from the New York Times reporters who are covering them, all in about 10 minutes.
-
-[2025-12-08 20:40:02](https://bsky.app/profile/nytimes.com/post/3m7hx2rxmpc2g)
-
----
-
-@yahoofinance.com
-
-The Fed is likely to cut rates for a third time this year. What happens next year is less certain.
-
-[2025-12-08 20:36:03](https://bsky.app/profile/yahoofinance.com/post/3m7hwtnity32m)
-
----
-
-@bloomberg.com
-
-Those mysterious extra charges on your holiday purchases aren't a scam; they're tariffs. (via Bloomberg Opinion) 
-
-[2025-12-08 20:35:43](https://bsky.app/profile/bloomberg.com/post/3m7hwt2bz5o2h)
+[2025-12-08 21:00:31](https://bsky.app/profile/usatoday.com/post/3m7hy7fha532m)
 
 ---
 
