@@ -1,9 +1,9 @@
-# [2025-12-09 05:30 updated](2025_12_09.md)
+# [2025-12-09 05:50 updated](2025_12_09.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">A study published in the Journal of the American Medical Association finds more parents are refusing vitamin K shots for their newborns. The study included more than 5 million babies born in 403 hospitals in all 50 states, from 2017 through 2024. <a href="https://bsky.app/profile/nbcnews.com/post/3m7iuhef4l422" target="_blank">nbcnews.com</a> (2025-12-09 05:26:03)</span><span style="padding-right:50px;">UK stocks dip ahead of Fed, BoE rate decisions reut.rs/3KuCRWR <a href="https://bsky.app/profile/reuters.com/post/3m7iufn5wev2d" target="_blank">reuters.com</a> (2025-12-09 05:25:05)</span><span style="padding-right:50px;">Breaking news: Ukraine will not surrender territory, President Zelensky declared, rejecting a central Russian demand that President Trump had incorporated into his latest proposal to end the Kremlin’s war. <a href="https://bsky.app/profile/washingtonpost.com/post/3m7iufateka2j" target="_blank">washingtonpost.com</a> (2025-12-09 05:24:52)</span><span style="padding-right:50px;">Google to launch first of its AI glasses in 2026 <a href="https://bsky.app/profile/cnbc.com/post/3m7iuf3j5bq2j" target="_blank">cnbc.com</a> (2025-12-09 05:24:46)</span><span style="padding-right:50px;">From @theathletic.com: Ilia Malinin, the 21-year-old American figure skater who hasn’t lost in more than two years, set a world record at the last major international event before the Winter Olympics. nyti.ms/4pTRjqa <a href="https://bsky.app/profile/nytimes.com/post/3m7iudsqv6y2y" target="_blank">nytimes.com</a> (2025-12-09 05:24:03)</span>
+<span style="padding-right:50px;">外国人政策 政府の方針に「賛成」7割 NHK世論調査 https://news.web.nhk/newsweb/na/na-k10014997231000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ivoqfpex2n" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 05:48:02)</span><span style="padding-right:50px;">Lando Norris's success with McLaren in ending Max Verstappen's four-year reign as world champion on Sunday ushered in a winter of radical change for Formula One.  Here are three things to watch for going into next season:  u.afp.com/S7N3 <a href="https://bsky.app/profile/en.afp.com/post/3m7ivjyzp2m2p" target="_blank">en.afp.com</a> (2025-12-09 05:45:25)</span><span style="padding-right:50px;">UN body urges Britain and Mauritius not to ratify Chagos deal reut.rs/4pn1qEb <a href="https://bsky.app/profile/reuters.com/post/3m7ivjkhii52o" target="_blank">reuters.com</a> (2025-12-09 05:45:10)</span><span style="padding-right:50px;">Federal Reserve to announce next interest rate move on Wednesday. Here's what to expect.  <a href="https://bsky.app/profile/cbsnews.com/post/3m7ivjbjnxq2d" target="_blank">cbsnews.com</a> (2025-12-09 05:45:00)</span><span style="padding-right:50px;">Exclusive: A roughly 5,600-acre ranch that was used as a filming location for Hollywood productions like “War of the Worlds” starring Tom Cruise and “Babylon” with Brad Pitt and Margot Robbie is listing for $44 million. <a href="https://bsky.app/profile/wsj.com/post/3m7ive24yyg2o" target="_blank">wsj.com</a> (2025-12-09 05:42:05)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47698.54 (🔻272.97 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23506.12 (🔻132.09 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 184.89 (🔺2.26 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.88 (🔺0.74 : 2025-12-08)</span>
+<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47701.64 (🔻269.87 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23504.20 (🔻134.02 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 184.79 (🔺2.16 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.89 (🔺0.74 : 2025-12-08)</span>
   </div>
 </div>
 
@@ -32,96 +32,99 @@
 
 ## News Headlines
 
-1. バイタミンK注射を受ける親は増えている
-2. 英国株が下がり、FedとBoEの利子決定を前に
-3. ウクライナ、ロシアの要求を拒否するゼレンスキー大統領
-4. GoogleがAI眼鏡を2026年に発表
-5. アメリカのフィギュアスケート選手、世界記録を樹立
-6. インド、初めてローカルに生まれた大熊猫が誕生
+1. 外国人政策、政府の方針に「賛成」7割（NHK）
+2. F1世界選手権　レギュラーチェンジに乗り出したマクラーレン（AFP）
+3. 英国とモーリシャスに、チャゴス諸島交渉に反対するUNの呼びかけ（AFP）
+4. アメリカ連邦準備委員会、利子調整を発表　今週水曜日（AP）
+5. 「ワールド・オブ・ウォーズ」や「バビロン」に使用された大牧場、44億ドルで売却（WSJ）
+6. Google、AIガラス 2026年発売（AFP）
 
 ----
 
-@nbcnews.com
+@nhknewsunofficial.bsky.social
 
-A study published in the Journal of the American Medical Association finds more parents are refusing vitamin K shots for their newborns. The study included more than 5 million babies born in 403 hospitals in all 50 states, from 2017 through 2024.
+外国人政策 政府の方針に「賛成」7割 NHK世論調査
+https://news.web.nhk/newsweb/na/na-k10014997231000
 
-[2025-12-09 05:26:03](https://bsky.app/profile/nbcnews.com/post/3m7iuhef4l422)
+[2025-12-09 05:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ivoqfpex2n)
+
+---
+
+@en.afp.com
+
+Lando Norris's success with McLaren in ending Max Verstappen's four-year reign as world champion on Sunday ushered in a winter of radical change for Formula One.
+
+Here are three things to watch for going into next season:
+
+u.afp.com/S7N3
+
+[2025-12-09 05:45:25](https://bsky.app/profile/en.afp.com/post/3m7ivjyzp2m2p)
 
 ---
 
 @reuters.com
 
-UK stocks dip ahead of Fed, BoE rate decisions reut.rs/3KuCRWR
+UN body urges Britain and Mauritius not to ratify Chagos deal reut.rs/4pn1qEb
 
-[2025-12-09 05:25:05](https://bsky.app/profile/reuters.com/post/3m7iufn5wev2d)
-
----
-
-@washingtonpost.com
-
-<strong><span style="color: red;">Breaking news:</span> Ukraine will not surrender territory, President Zelensky declared, rejecting a central Russian demand that President Trump had incorporated into his latest proposal to end the Kremlin’s war.</strong>
-
-[2025-12-09 05:24:52](https://bsky.app/profile/washingtonpost.com/post/3m7iufateka2j)
-
----
-
-@cnbc.com
-
-Google to launch first of its AI glasses in 2026
-
-[2025-12-09 05:24:46](https://bsky.app/profile/cnbc.com/post/3m7iuf3j5bq2j)
-
----
-
-@nytimes.com
-
-From @theathletic.com: Ilia Malinin, the 21-year-old American figure skater who hasn’t lost in more than two years, set a world record at the last major international event before the Winter Olympics. nyti.ms/4pTRjqa
-
-[2025-12-09 05:24:03](https://bsky.app/profile/nytimes.com/post/3m7iudsqv6y2y)
-
----
-
-@nhknewsunofficial.bsky.social
-
-皇后さま 62歳の誕生日
-https://news.web.nhk/newsweb/na/na-k10014997751000
-
-[2025-12-09 05:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7iudtirnq2p)
-
----
-
-@nytimes.com
-
-“Easiest and best mac and cheese I’ve ever made!” Julia Moskin’s brilliant hack for a rouxless macaroni and cheese? Cottage cheese.
-
-[2025-12-09 05:23:00](https://bsky.app/profile/nytimes.com/post/3m7iubwigww2x)
-
----
-
-@wsj.com
-
-The Supreme Court seemed poised to expand the president’s power to fire the heads of many regulatory agencies, even as one pivotal justice expressed a desire to preserve the Fed from politics.
-
-[2025-12-09 05:22:21](https://bsky.app/profile/wsj.com/post/3m7iuaqu2v42r)
+[2025-12-09 05:45:10](https://bsky.app/profile/reuters.com/post/3m7ivjkhii52o)
 
 ---
 
 @cbsnews.com
 
-A court in Russian-controlled Ukraine sentenced four Russian soldiers to jail on Monday for the killing of an American communist who had fought with pro-Moscow forces since 2014.
+Federal Reserve to announce next interest rate move on Wednesday. Here's what to expect.
 
 
-
-[2025-12-09 05:20:01](https://bsky.app/profile/cbsnews.com/post/3m7iu4lakh52y)
+[2025-12-09 05:45:00](https://bsky.app/profile/cbsnews.com/post/3m7ivjbjnxq2d)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@wsj.com
 
-【震度5強】北海道の被害の状況 日高町と苫小牧市で3人けが
-https://news.web.nhk/newsweb/na/na-k10014998321000
+Exclusive: A roughly 5,600-acre ranch that was used as a filming location for Hollywood productions like “War of the Worlds” starring Tom Cruise and “Babylon” with Brad Pitt and Margot Robbie is listing for $44 million.
 
-[2025-12-09 05:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7itz43nqb2g)
+[2025-12-09 05:42:05](https://bsky.app/profile/wsj.com/post/3m7ive24yyg2o)
+
+---
+
+@nbcnews.com
+
+While exports from China to the U.S. have fallen for most of the year, shipments have surged to other places, including Southeast Asia, Latin America, Africa and the European Union.
+
+
+[2025-12-09 05:41:03](https://bsky.app/profile/nbcnews.com/post/3m7ivc6jk6g2t)
+
+---
+
+@nbcnews.com
+
+The National Parks remove their free-entry days for Martin Luther King Day and Juneteenth and add President Trump's birthday, which is also Flag Day. This was part of a July executive order from President Trump. 
+
+[2025-12-09 05:40:27](https://bsky.app/profile/nbcnews.com/post/3m7ivb4x4ge2i)
+
+---
+
+@reuters.com
+
+Canada's Transcontinental to sell its packaging unit in $1.61 billion deal reut.rs/3KvOzR5
+
+[2025-12-09 05:40:13](https://bsky.app/profile/reuters.com/post/3m7ivaoylnm22)
+
+---
+
+@apnews.com
+
+Democratic Rep. Jasmine Crockett launches bid for U.S. Senate in Texas, looking to flip a Republican-held seat.
+
+[2025-12-09 05:38:15](https://bsky.app/profile/apnews.com/post/3m7iv572ctk2j)
+
+---
+
+@yahoofinance.com
+
+Ex-Cisco CEO says 2026 will be a 'great year for AI'
+
+[2025-12-09 05:36:02](https://bsky.app/profile/yahoofinance.com/post/3m7iuz7zarn23)
 
 ---
 
