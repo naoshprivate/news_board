@@ -1,9 +1,9 @@
-# [2025-12-08 22:10 updated](2025_12_08.md)
+# [2025-12-08 22:30 updated](2025_12_08.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">How Ray Dalio would play the markets if he was still running Bridgewater <a href="https://bsky.app/profile/cnbc.com/post/3m7i3vzwdsv2r" target="_blank">cnbc.com</a> (2025-12-08 22:06:52)</span><span style="padding-right:50px;">US envoy Howery meets Greenland officials amid Trump's interest in the island reut.rs/4rGPNJS <a href="https://bsky.app/profile/reuters.com/post/3m7i3svlw242i" target="_blank">reuters.com</a> (2025-12-08 22:05:06)</span><span style="padding-right:50px;">Dan Ives raises Apple price target, says iPhone maker will enter 'AI revolution' in 2026 <a href="https://bsky.app/profile/cnbc.com/post/3m7i3s3hqwj2g" target="_blank">cnbc.com</a> (2025-12-08 22:04:39)</span><span style="padding-right:50px;">For many people, the holidays mean more parties and more occasions to drink. But if you've noticed that one cocktail hits you harder than it used to, there's a scientific reason to explain it. n.pr/4iJLDg7 <a href="https://bsky.app/profile/npr.org/post/3m7i3rifm7h2y" target="_blank">npr.org</a> (2025-12-08 22:04:19)</span><span style="padding-right:50px;">AIに「思考」を任せないのがコツ　アウトプット想定し「作業」に使用を www.nikkei.com/article/DGXZQO...  AIを使うのがうまい人は、どのようにAIを使用しているのでしょうか。  文章執筆を例に、具体的な思考の流れと手順を3つのステップで解説します。 <a href="https://bsky.app/profile/nikkei.com/post/3m7i3ncnxcy2l" target="_blank">nikkei.com</a> (2025-12-08 22:01:59)</span>
+<span style="padding-right:50px;">Southeast Asian countries have rarely engaged in military clashes among themselves in recent decades, with the use of cross-border air strikes even rarer. Follow our live coverage as the Thailand-Cambodia border tension unfolds reut.rs/4a2ne3l <a href="https://bsky.app/profile/reuters.com/post/3m7i55fzeas2y" target="_blank">reuters.com</a> (2025-12-08 22:28:04)</span><span style="padding-right:50px;">How do Cambodia and Thailand's militaries compare? reut.rs/3Ky5jao <a href="https://bsky.app/profile/reuters.com/post/3m7i54ucnic2y" target="_blank">reuters.com</a> (2025-12-08 22:28:04)</span><span style="padding-right:50px;">A border dispute between the countries erupted into a five-day conflict in July, before a ceasefire deal brokered by Malaysian Prime Minister Anwar Ibrahim and Trump, who also witnessed the signing of an expanded peace agreement between the two countries reut.rs/4rKCRCS <a href="https://bsky.app/profile/reuters.com/post/3m7i54n4ja22y" target="_blank">reuters.com</a> (2025-12-08 22:28:04)</span><span style="padding-right:50px;">Tensions have simmered since Thailand last month suspended de-escalation measures after a Thai soldier was maimed in the latest in a succession of incidents involving landmines that Bangkok says were newly laid by Cambodia. Cambodia rejects the allegations reut.rs/3MgCFeq <a href="https://bsky.app/profile/reuters.com/post/3m7i54fyp6s2y" target="_blank">reuters.com</a> (2025-12-08 22:28:04)</span><span style="padding-right:50px;">Conflict erupted before dawn on December 8, with clashes in five border locations, according to Thailand's army. Cambodia's defense ministry said its forces came under attack but had not retaliated and were respecting the ceasefire reut.rs/4pztYuj <a href="https://bsky.app/profile/reuters.com/post/3m7i547gdqk2y" target="_blank">reuters.com</a> (2025-12-08 22:28:04)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.54 (🔺0.40 : 2025-12-08)</span>
+<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.51 (🔺0.37 : 2025-12-08)</span>
   </div>
 </div>
 
@@ -34,98 +34,92 @@
 
 Here are six important stories with headlines in English:
 
-1. Ray Dalio's Market Strategy: How He'd Play the Markets If He Were Still Running Bridgewater
-2. Trump's AI Bet: President Betting His Presidency on Unregulated Expansion of Artificial Intelligence
-3. Dan Ives Raises Apple Price Target, Says iPhone Maker Will Enter 'AI Revolution' in 2026
-4. Why You Feel Like One Cocktail Hits You Harder Than It Used To: A Scientific Explanation
-5. The 12-Team Selection Arrives, and a 10-2 Fighting Irish Team Gets Left Behind: Was It Justified?
-6. Thailand Launches Airstrikes Along Disputed Border with Cambodia, Accusing the Other Side of Attacking First
+1. Thailand and Cambodia Engage in Airstrikes Along Disputed Border Amid Tensions
+2. US Envoy Meets Greenland Officials Amid Trump's Interest in the Island
+3. IBM Acquires Confluent in $11 Billion All-Cash Deal
+4. China Orders Malaysia Airlines to Pay $3.3 Million in Compensation Over Missing MH370 Plane
+5. Ray Dalio Would Play the Markets if He Was Still Running Bridgewater
+6. Amnesty Says India's Review of Location-Tracking Plan 'Deeply Concerning'
 
 ----
 
-@cnbc.com
+@reuters.com
 
-How Ray Dalio would play the markets if he was still running Bridgewater
+Southeast Asian countries have rarely engaged in military clashes among themselves in recent decades, with the use of cross-border air strikes even rarer. Follow our live coverage as the Thailand-Cambodia border tension unfolds reut.rs/4a2ne3l
 
-[2025-12-08 22:06:52](https://bsky.app/profile/cnbc.com/post/3m7i3vzwdsv2r)
+[2025-12-08 22:28:04](https://bsky.app/profile/reuters.com/post/3m7i55fzeas2y)
 
 ---
 
 @reuters.com
 
-US envoy Howery meets Greenland officials amid Trump's interest in the island reut.rs/4rGPNJS
+How do Cambodia and Thailand's militaries compare? reut.rs/3Ky5jao
 
-[2025-12-08 22:05:06](https://bsky.app/profile/reuters.com/post/3m7i3svlw242i)
-
----
-
-@cnbc.com
-
-Dan Ives raises Apple price target, says iPhone maker will enter 'AI revolution' in 2026
-
-[2025-12-08 22:04:39](https://bsky.app/profile/cnbc.com/post/3m7i3s3hqwj2g)
-
----
-
-@npr.org
-
-For many people, the holidays mean more parties and more occasions to drink. But if you've noticed that one cocktail hits you harder than it used to, there's a scientific reason to explain it. n.pr/4iJLDg7
-
-[2025-12-08 22:04:19](https://bsky.app/profile/npr.org/post/3m7i3rifm7h2y)
-
----
-
-@nikkei.com
-
-AIに「思考」を任せないのがコツ　アウトプット想定し「作業」に使用を
-www.nikkei.com/article/DGXZQO...
-
-AIを使うのがうまい人は、どのようにAIを使用しているのでしょうか。
-
-文章執筆を例に、具体的な思考の流れと手順を3つのステップで解説します。
-
-[2025-12-08 22:01:59](https://bsky.app/profile/nikkei.com/post/3m7i3ncnxcy2l)
-
----
-
-@wsj.com
-
-Berk is the host of a new HGTV show that helps homeowners sell their unusual collections to pay for home renovations. on.wsj.com/4rGzMDE
-
-[2025-12-08 22:01:33](https://bsky.app/profile/wsj.com/post/3m7i3mk6tl722)
-
----
-
-@wsj.com
-
-The 12-team selection arrives and a 10-2 Fighting Irish team gets left behind. Was it justified? on.wsj.com/44fCypt
-
-[2025-12-08 22:01:32](https://bsky.app/profile/wsj.com/post/3m7i3mjmjf52x)
+[2025-12-08 22:28:04](https://bsky.app/profile/reuters.com/post/3m7i54ucnic2y)
 
 ---
 
 @reuters.com
 
-Norway police detain suspected shooter in Oslo shopping centre reut.rs/4oZtZa1
+A border dispute between the countries erupted into a five-day conflict in July, before a ceasefire deal brokered by Malaysian Prime Minister Anwar Ibrahim and Trump, who also witnessed the signing of an expanded peace agreement between the two countries reut.rs/4rKCRCS
 
-[2025-12-08 22:00:58](https://bsky.app/profile/reuters.com/post/3m7i3lja7tf22)
+[2025-12-08 22:28:04](https://bsky.app/profile/reuters.com/post/3m7i54n4ja22y)
+
+---
+
+@reuters.com
+
+Tensions have simmered since Thailand last month suspended de-escalation measures after a Thai soldier was maimed in the latest in a succession of incidents involving landmines that Bangkok says were newly laid by Cambodia. Cambodia rejects the allegations reut.rs/3MgCFeq
+
+[2025-12-08 22:28:04](https://bsky.app/profile/reuters.com/post/3m7i54fyp6s2y)
+
+---
+
+@reuters.com
+
+Conflict erupted before dawn on December 8, with clashes in five border locations, according to Thailand's army. Cambodia's defense ministry said its forces came under attack but had not retaliated and were respecting the ceasefire reut.rs/4pztYuj
+
+[2025-12-08 22:28:04](https://bsky.app/profile/reuters.com/post/3m7i547gdqk2y)
+
+---
+
+@reuters.com
+
+The airstrikes were aimed at Cambodian military facilities where long-range artillery was positioned, a Thai military official told Reuters. Follow our live coverage here: reut.rs/4a2ne3l
+
+[2025-12-08 22:28:04](https://bsky.app/profile/reuters.com/post/3m7i543ildc2y)
+
+---
+
+@reuters.com
+
+Thailand said it launched airstrikes into Cambodia as fighting broke out in multiple areas along their disputed border, after both countries accused the other of breaching a ceasefire brokered by President Donald Trump reut.rs/493eFmP
+
+[2025-12-08 22:28:04](https://bsky.app/profile/reuters.com/post/3m7i53xrmos2y)
+
+---
+
+@cnbc.com
+
+Rising stocks and IPOs helped create 287 new billionaires this year
+
+[2025-12-08 22:26:32](https://bsky.app/profile/cnbc.com/post/3m7i4za2uq42h)
 
 ---
 
 @cnn.com
 
-"After months of speculation over the names of the dozen or so candidates, Trump finally said last week he knows who he will nominate to be the most powerful figure in the US economy," writes Bryan Mena. | Analysis
-https://cnn.it/48Z0QGY
+Zelensky arrives at Downing Street in London for key meeting with European leaders on Russia's war in Ukraine. Follow live updates. https://cnn.it/48q8Pg1
 
-[2025-12-08 22:00:29](https://bsky.app/profile/cnn.com/post/3m7i3kni5c32w)
+[2025-12-08 22:26:20](https://bsky.app/profile/cnn.com/post/3m7i4yui5a72q)
 
 ---
 
-@washingtonpost.com
+@reuters.com
 
-The 48th iteration of the Kennedy Center Honors kicked off with President Donald Trump taking the stage as the first head of state to act as the show’s host.
+Where's my bag? India's IndiGo battles passenger fury over luggage lost in chaos reut.rs/48EDViV
 
-[2025-12-08 22:00:29](https://bsky.app/profile/washingtonpost.com/post/3m7i3kmu2t42y)
+[2025-12-08 22:25:05](https://bsky.app/profile/reuters.com/post/3m7i4wmjjel2d)
 
 ---
 
