@@ -1,9 +1,9 @@
-# [2025-12-09 06:30 updated](2025_12_09.md)
+# [2025-12-09 06:50 updated](2025_12_09.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】すべての「津波注意報」を解除 気象庁 (2025-12-09 06:23:24) #ニュース  ⬛津波情報 🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami <a href="https://bsky.app/profile/sokuho.news/post/3m7ixyjna4d2e" target="_blank">sokuho.news</a> (2025-12-09 06:29:20)</span><span style="padding-right:50px;">🛎️産経より【独自】です。  ＜独自＞インテリジェンス担当相創設へ 情報組織の縦割り弊害打破、責任明確化も (2025/12/9 05:00) #ニュース https://www.sankei.com/article/20251209-PKK56GODV5KB7NFH64XQ46G4ZU/ <a href="https://bsky.app/profile/sokuho.news/post/3m7ixxdqend2w" target="_blank">sokuho.news</a> (2025-12-09 06:28:40)</span><span style="padding-right:50px;">🛎️産経より【独自】です。  ＜独自＞SBI新生銀、普通預金で最大4・2%の優遇金利 総残高に応じて金利引き上げ (2025/12/9 06:00) #ニュース https://www.sankei.com/article/20251209-CU5PVH5MKBNH7DBY7PMJZTGHXU/ <a href="https://bsky.app/profile/sokuho.news/post/3m7ixwtslhv22" target="_blank">sokuho.news</a> (2025-12-09 06:28:23)</span><span style="padding-right:50px;">【震度6強】北海道～福島県沿岸の津波注意報 すべて解除 https://news.web.nhk/newsweb/na/na-k10014997841000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ixui5xbd2t" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 06:27:02)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】北海道や東北地方の沿岸に発表していた津波注意報を全て解除 気象庁 (2025-12-09 06:20) #ニュース  ⬛津波情報 🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami <a href="https://bsky.app/profile/sokuho.news/post/3m7ixtb7e3p2y" target="_blank">sokuho.news</a> (2025-12-09 06:26:23)</span>
+<span style="padding-right:50px;">Items found in Luigi Mangione's backpack when he was arrested in Pennsylvania last year include a handgun, a silencer, a magazine with bullets wrapped in underwear and a red notebook that an officer called a "manifesto." <a href="https://bsky.app/profile/nbcnews.com/post/3m7iz3rrqsx2j" target="_blank">nbcnews.com</a> (2025-12-09 06:49:03)</span><span style="padding-right:50px;">“Five Nights at Freddy’s” opened in 3,412 theaters in the U.S. and Canada and far surpassed expectations with $63 million in ticket sales, according to studio estimates. <a href="https://bsky.app/profile/nbcnews.com/post/3m7iyy7254y2h" target="_blank">nbcnews.com</a> (2025-12-09 06:47:03)</span><span style="padding-right:50px;">EUが小型EV規格、中国勢念頭に域内生産を保護　日本の「軽」参考に www.nikkei.com/article/DGXZQO...  新分類の名称は「E Car」。通常のEVより技術要件を緩和することで欧州車大手の車両コストを下げて普及を促進。中国勢の低価格EVに対抗する狙いです。 <a href="https://bsky.app/profile/nikkei.com/post/3m7iyw7txtz2i" target="_blank">nikkei.com</a> (2025-12-09 06:45:56)</span><span style="padding-right:50px;">Planned December 15 strike at France's Louvre Museum adds to catalogue of woes reut.rs/4q2mvUB <a href="https://bsky.app/profile/reuters.com/post/3m7iyuu4csh22" target="_blank">reuters.com</a> (2025-12-09 06:45:10)</span><span style="padding-right:50px;">米 ゴールデングローブ賞 アニメ映画賞の候補に「鬼滅の刃」 https://news.web.nhk/newsweb/na/na-k10014998291000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7iyuobnn52k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 06:45:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.31 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.92 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.95 (🔺0.81 : 2025-12-08)</span>
+<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.31 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.92 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.93 (🔺0.79 : 2025-12-08)</span>
   </div>
 </div>
 
@@ -32,136 +32,98 @@
 
 ## News Headlines
 
-1. 気象庁が発表した津波注意報をすべて解除
-2. 情報組織の縦割り弊害を打破するため、インテリジェンス担当相を設置
-3. SBI新生銀が普通預金で最大4・2%の優遇金利を設定
-4. 青森県で震度6強の地震が発生、津波注意報がすべて解除
-5. ドナルド・トランプ氏がCBSの新しい所有者に批判の言葉を向ける
-6. FIFAがワールドカップで三分間の水分補給時間を導入
+1. 「米 ゴールデングローブ賞 アニメ映画賞の候補に「鬼滅の刃」」
+2. 「スキー モーグルW杯第2戦 堀島行真が2位 2戦連続の表彰台に」
+3. 「北海道～福島県沿岸の津波注意報 すべて解除」
+4. 「米 ゴールドグローブ賞で「スパイダーマン」が3冠達成」
+5. 「EUが小型EV規格、中国勢念頭に域内生産を保護　日本の「軽」参考に」
+6. 「北海道や東北地方の津波注意報を全て解除」
 
 ----
 
-@sokuho.news
+@nbcnews.com
 
-🛎️JNNより【速報】です。
+Items found in Luigi Mangione's backpack when he was arrested in Pennsylvania last year include a handgun, a silencer, a magazine with bullets wrapped in underwear and a red notebook that an officer called a "manifesto."
 
-【速報】すべての「津波注意報」を解除 気象庁
-(2025-12-09 06:23:24) #ニュース
-
-⬛津波情報
-🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami
-
-[2025-12-09 06:29:20](https://bsky.app/profile/sokuho.news/post/3m7ixyjna4d2e)
+[2025-12-09 06:49:03](https://bsky.app/profile/nbcnews.com/post/3m7iz3rrqsx2j)
 
 ---
 
-@sokuho.news
+@nbcnews.com
 
-🛎️産経より【独自】です。
+“Five Nights at Freddy’s” opened in 3,412 theaters in the U.S. and Canada and far surpassed expectations with $63 million in ticket sales, according to studio estimates.
 
-＜独自＞インテリジェンス担当相創設へ 情報組織の縦割り弊害打破、責任明確化も
-(2025/12/9 05:00) #ニュース
-https://www.sankei.com/article/20251209-PKK56GODV5KB7NFH64XQ46G4ZU/
-
-[2025-12-09 06:28:40](https://bsky.app/profile/sokuho.news/post/3m7ixxdqend2w)
+[2025-12-09 06:47:03](https://bsky.app/profile/nbcnews.com/post/3m7iyy7254y2h)
 
 ---
 
-@sokuho.news
+@nikkei.com
 
-🛎️産経より【独自】です。
+EUが小型EV規格、中国勢念頭に域内生産を保護　日本の「軽」参考に
+www.nikkei.com/article/DGXZQO...
 
-＜独自＞SBI新生銀、普通預金で最大4・2%の優遇金利 総残高に応じて金利引き上げ
-(2025/12/9 06:00) #ニュース
-https://www.sankei.com/article/20251209-CU5PVH5MKBNH7DBY7PMJZTGHXU/
+新分類の名称は「E Car」。通常のEVより技術要件を緩和することで欧州車大手の車両コストを下げて普及を促進。中国勢の低価格EVに対抗する狙いです。
 
-[2025-12-09 06:28:23](https://bsky.app/profile/sokuho.news/post/3m7ixwtslhv22)
+[2025-12-09 06:45:56](https://bsky.app/profile/nikkei.com/post/3m7iyw7txtz2i)
+
+---
+
+@reuters.com
+
+Planned December 15 strike at France's Louvre Museum adds to catalogue of woes reut.rs/4q2mvUB
+
+[2025-12-09 06:45:10](https://bsky.app/profile/reuters.com/post/3m7iyuu4csh22)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-【震度6強】北海道～福島県沿岸の津波注意報 すべて解除
-https://news.web.nhk/newsweb/na/na-k10014997841000
+米 ゴールデングローブ賞 アニメ映画賞の候補に「鬼滅の刃」
+https://news.web.nhk/newsweb/na/na-k10014998291000
 
-[2025-12-09 06:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ixui5xbd2t)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】北海道や東北地方の沿岸に発表していた津波注意報を全て解除 気象庁
-(2025-12-09 06:20) #ニュース
-
-⬛津波情報
-🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami
-
-[2025-12-09 06:26:23](https://bsky.app/profile/sokuho.news/post/3m7ixtb7e3p2y)
+[2025-12-09 06:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7iyuobnn52k)
 
 ---
 
-@sokuho.news
+@cbsnews.com
 
-🚨地震発生中❗❗
+Congress is aiming to withhold part of Defense Secretary Pete Hegseth's travel budget until the Pentagon hands over footage of the strikes on alleged drug-smuggling boats near Venezuela. 
 
-⚠️揺れに警戒してください
 
-🔶防災科研/強震モニタ/予測震度画像6🈡
-(2025-12-09 06:25:57) #緊急地震速報
 
-[2025-12-09 06:26:04](https://bsky.app/profile/sokuho.news/post/3m7ixsojrhw2e)
+[2025-12-09 06:45:00](https://bsky.app/profile/cbsnews.com/post/3m7iyuko4lm2a)
 
 ---
 
-@sokuho.news
+@wsj.com
 
-🚨地震発生中❗❗
+A famed investor’s decision to dump a half-dozen San Diego office buildings is turning the city’s image upside down.
 
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像4
-(2025-12-09 06:25:34) #緊急地震速報
-
-[2025-12-09 06:25:44](https://bsky.app/profile/sokuho.news/post/3m7ixs3gh7x26)
+[2025-12-09 06:42:00](https://bsky.app/profile/wsj.com/post/3m7iyp6ewm72l)
 
 ---
 
-@sokuho.news
+@reuters.com
 
-🛎️JNNより【速報】です。
+Turkey to guarantee flow of Russian gas to Hungary, Orban says reut.rs/4oHE2QQ
 
-【速報】コンビニ店員の男性（46）を果物ナイフで刺したか 中国籍の少年（17）を殺人未遂容疑で現行犯逮捕 広島
-(2025-12-09 06:20:00) #ニュース
-
-[2025-12-09 06:25:42](https://bsky.app/profile/sokuho.news/post/3m7ixrzxch42x)
+[2025-12-09 06:40:15](https://bsky.app/profile/reuters.com/post/3m7iym23qo722)
 
 ---
 
-@sokuho.news
+@nbcnews.com
 
-🚨地震発生中❗
+As packages left outside home for delivery are targeted for theft this holiday season, police warn more thieves are using jammers to scramble the video on wifi connected home security cameras.
 
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像3
-(2025-12-09 06:25:14) #緊急地震速報
-
-[2025-12-09 06:25:32](https://bsky.app/profile/sokuho.news/post/3m7ixrqjfcu2x)
+[2025-12-09 06:40:07](https://bsky.app/profile/nbcnews.com/post/3m7iylssitm2j)
 
 ---
 
-@sokuho.news
+@nytimes.com
 
-🚨地震発生中❗❗
+President Trump accused a group of Democratic lawmakers of sedition when they told members of the military that they must refuse unlawful orders. But Pam Bondi, the attorney general, said the same thing last year.
 
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像2
-(2025-12-09 06:25:02) #緊急地震速報
-
-[2025-12-09 06:25:11](https://bsky.app/profile/sokuho.news/post/3m7ixr4mgag2e)
+[2025-12-09 06:40:04](https://bsky.app/profile/nytimes.com/post/3m7iylprme52x)
 
 ---
 
