@@ -1,9 +1,9 @@
-# [2025-12-08 20:30 updated](2025_12_08.md)
+# [2025-12-08 20:50 updated](2025_12_08.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">For most of the year, a couple hundred Hamas militants have manned fighting positions in the tunnels under southern Gaza. But the walls are closing in. <a href="https://bsky.app/profile/wsj.com/post/3m7hweyut252j" target="_blank">wsj.com</a> (2025-12-08 20:27:51)</span><span style="padding-right:50px;">Thailand launched air strikes on Monday on its neighbour Cambodia, with both sides trading blame for renewed fighting on their disputed border that has killed four Cambodian civilians and a Thai soldier ➡️ u.afp.com/S7pN <a href="https://bsky.app/profile/en.afp.com/post/3m7hwed7tog25" target="_blank">en.afp.com</a> (2025-12-08 20:27:29)</span><span style="padding-right:50px;">🚨地震発生中❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像7🈡 (2025-12-08 20:26:42) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m7hwd53q7z24" target="_blank">sokuho.news</a> (2025-12-08 20:26:49)</span><span style="padding-right:50px;">🚨地震発生中❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像6 (2025-12-08 20:26:24) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m7hwczsum42l" target="_blank">sokuho.news</a> (2025-12-08 20:26:45)</span><span style="padding-right:50px;">🚨地震発生中❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像5 (2025-12-08 20:26:04) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m7hwcoia2x2p" target="_blank">sokuho.news</a> (2025-12-08 20:26:33)</span>
+<span style="padding-right:50px;">They are the “moderate millionaires”: 401(k) investors with assets ranging from $1 million to $5 million. Some members of the growing club still clip coupons. <a href="https://bsky.app/profile/wsj.com/post/3m7hxjn3jpt2x" target="_blank">wsj.com</a> (2025-12-08 20:48:20)</span><span style="padding-right:50px;">Trump has prompted a redistricting race as he tries to maintain Republican control of the House in the 2026 elections. Democrats have fewer options to counter, as the battle heads into next year. n.pr/4oMnWW1 <a href="https://bsky.app/profile/npr.org/post/3m7hxegzfdo2q" target="_blank">npr.org</a> (2025-12-08 20:45:26)</span><span style="padding-right:50px;">EU to weaken more environment reporting rules, draft document shows reut.rs/48qfVBl <a href="https://bsky.app/profile/reuters.com/post/3m7hxdwuw2i2k" target="_blank">reuters.com</a> (2025-12-08 20:45:09)</span><span style="padding-right:50px;">🔊 Thailand has launched airstrikes into Cambodia, flaring tensions along their disputed border and throwing a Trump-brokered ceasefire into question. Listen to the Reuters World News podcast for more reut.rs/4iN677U <a href="https://bsky.app/profile/reuters.com/post/3m7hx7rd4is2c" target="_blank">reuters.com</a> (2025-12-08 20:42:49)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】群馬・妙義山で山火事 自衛隊に派遣要請 8ヘクタール焼け今も延焼中 (2025年12月8日 19:39) #ニュース https://news.tv-asahi.co.jp/news_society/articles/000471553.html?display=full <a href="https://bsky.app/profile/sokuho.news/post/3m7hx6sho3z2p" target="_blank">sokuho.news</a> (2025-12-08 20:42:16)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.52 (🔺0.37 : 2025-12-08)</span>
+<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.54 (🔺0.39 : 2025-12-08)</span>
   </div>
 </div>
 
@@ -32,130 +32,98 @@
 
 ## News Headlines
 
-Here are the six important stories with headlines in English:
+Here are six important stories with headlines in English:
 
-1. Thailand and Cambodia Escalate Border Dispute
-2. Water Leak Damages Louvre's Egyptian Antiquities Collection
-3. M23 Rebels Tighten Grip on Power in Eastern Congo
-4. Todd Combs Leaves Berkshire Hathaway to Join JPMorgan
-5. Saudi Arabia Relaxes Rules on Sale of Alcohol
-6. Nigeria Police Probe Suspected Organ-Harvesting Ring
+1. Trump's Redistricting Plan Sparks Political Battle
+2. EU to Weaken Environment Reporting Rules
+3. Thailand Launches Airstrikes on Cambodia, Raising Tensions
+4. China's Former Sports Administration Chief Gets Suspended Death Sentence
+5. Ukrainian Leader Faces Pressure from US to Accept Deal with Russia
+6. US to Waive Fine for Southwest Airlines Over Flight Cancellations
 
 ----
 
 @wsj.com
 
-For most of the year, a couple hundred Hamas militants have manned fighting positions in the tunnels under southern Gaza. But the walls are closing in.
+They are the “moderate millionaires”: 401(k) investors with assets ranging from $1 million to $5 million. Some members of the growing club still clip coupons.
 
-[2025-12-08 20:27:51](https://bsky.app/profile/wsj.com/post/3m7hweyut252j)
-
----
-
-@en.afp.com
-
-Thailand launched air strikes on Monday on its neighbour Cambodia, with both sides trading blame for renewed fighting on their disputed border that has killed four Cambodian civilians and a Thai soldier ➡️ u.afp.com/S7pN
-
-[2025-12-08 20:27:29](https://bsky.app/profile/en.afp.com/post/3m7hwed7tog25)
+[2025-12-08 20:48:20](https://bsky.app/profile/wsj.com/post/3m7hxjn3jpt2x)
 
 ---
 
-@sokuho.news
+@npr.org
 
-🚨地震発生中❗
+Trump has prompted a redistricting race as he tries to maintain Republican control of the House in the 2026 elections. Democrats have fewer options to counter, as the battle heads into next year. n.pr/4oMnWW1
 
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像7🈡
-(2025-12-08 20:26:42) #緊急地震速報
-
-[2025-12-08 20:26:49](https://bsky.app/profile/sokuho.news/post/3m7hwd53q7z24)
+[2025-12-08 20:45:26](https://bsky.app/profile/npr.org/post/3m7hxegzfdo2q)
 
 ---
 
-@sokuho.news
+@reuters.com
 
-🚨地震発生中❗
+EU to weaken more environment reporting rules, draft document shows reut.rs/48qfVBl
 
-⚠️揺れに警戒してください
+[2025-12-08 20:45:09](https://bsky.app/profile/reuters.com/post/3m7hxdwuw2i2k)
 
-🔶防災科研/強震モニタ/予測震度画像6
-(2025-12-08 20:26:24) #緊急地震速報
+---
 
-[2025-12-08 20:26:45](https://bsky.app/profile/sokuho.news/post/3m7hwczsum42l)
+@reuters.com
+
+🔊 Thailand has launched airstrikes into Cambodia, flaring tensions along their disputed border and throwing a Trump-brokered ceasefire into question. Listen to the Reuters World News podcast for more reut.rs/4iN677U
+
+[2025-12-08 20:42:49](https://bsky.app/profile/reuters.com/post/3m7hx7rd4is2c)
 
 ---
 
 @sokuho.news
 
-🚨地震発生中❗
+🔔ANNより【速報】です。
 
-⚠️揺れに警戒してください
+【速報】群馬・妙義山で山火事 自衛隊に派遣要請 8ヘクタール焼け今も延焼中
+(2025年12月8日 19:39) #ニュース
+https://news.tv-asahi.co.jp/news_society/articles/000471553.html?display=full
 
-🔶防災科研/強震モニタ/予測震度画像5
-(2025-12-08 20:26:04) #緊急地震速報
-
-[2025-12-08 20:26:33](https://bsky.app/profile/sokuho.news/post/3m7hwcoia2x2p)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗
-
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像4
-(2025-12-08 20:25:50) #緊急地震速報
-
-[2025-12-08 20:26:23](https://bsky.app/profile/sokuho.news/post/3m7hwces2ra2w)
+[2025-12-08 20:42:16](https://bsky.app/profile/sokuho.news/post/3m7hx6sho3z2p)
 
 ---
 
-@sokuho.news
+@reuters.com
 
-🚨地震発生中❗
+China's former sports administration chief handed suspended death sentence reut.rs/3KObeYT
 
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像3
-(2025-12-08 20:25:36) #緊急地震速報
-
-[2025-12-08 20:26:00](https://bsky.app/profile/sokuho.news/post/3m7hwboftds2y)
+[2025-12-08 20:40:17](https://bsky.app/profile/reuters.com/post/3m7hx3aij622o)
 
 ---
 
-@sokuho.news
+@nbcnews.com
 
-🚨地震発生中❗
+President Trump says he is "disappointed" with Ukraine's Volodymyr Zelenskyy, who he says has not read the latest plan to end Russia's war. 
 
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像2
-(2025-12-08 20:25:35) #緊急地震速報
-
-[2025-12-08 20:25:49](https://bsky.app/profile/sokuho.news/post/3m7hwbebiyg2m)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗
-
-⚠️揺れに警戒してください
-🔗http://www.kmoni.bosai.go.jp/
-
-🔶防災科研/強震モニタ/予測震度画像1
-(2025-12-08 20:25:34) #緊急地震速報
-
-[2025-12-08 20:25:41](https://bsky.app/profile/sokuho.news/post/3m7hwb4ljxz26)
+[2025-12-08 20:40:05](https://bsky.app/profile/nbcnews.com/post/3m7hx2uiqte2h)
 
 ---
 
 @nytimes.com
 
-Up to 400 documents in the Louvre have been damaged by a water leak in the Egyptian antiquities department, the the deputy administrator of the museum said on Sunday.
+Listen to “The Headlines,” which brings you the biggest stories of the day from the New York Times reporters who are covering them, all in about 10 minutes.
 
-[2025-12-08 20:25:04](https://bsky.app/profile/nytimes.com/post/3m7hw7ziw2c2q)
+[2025-12-08 20:40:02](https://bsky.app/profile/nytimes.com/post/3m7hx2rxmpc2g)
+
+---
+
+@yahoofinance.com
+
+The Fed is likely to cut rates for a third time this year. What happens next year is less certain.
+
+[2025-12-08 20:36:03](https://bsky.app/profile/yahoofinance.com/post/3m7hwtnity32m)
+
+---
+
+@bloomberg.com
+
+Those mysterious extra charges on your holiday purchases aren't a scam; they're tariffs. (via Bloomberg Opinion) 
+
+[2025-12-08 20:35:43](https://bsky.app/profile/bloomberg.com/post/3m7hwt2bz5o2h)
 
 ---
 
