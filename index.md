@@ -1,9 +1,9 @@
-# [2025-12-08 08:50 updated](2025_12_08.md)
+# [2025-12-08 09:10 updated](2025_12_08.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Japan's October real wages fall for 10th month despite upbeat nominal pay reut.rs/4oIC16V <a href="https://bsky.app/profile/reuters.com/post/3m7gp4hfgww2y" target="_blank">reuters.com</a> (2025-12-08 08:45:08)</span><span style="padding-right:50px;">Why big-tech bosses say artificial intelligence is coming for them, too. <a href="https://bsky.app/profile/wsj.com/post/3m7gp4e574z2i" target="_blank">wsj.com</a> (2025-12-08 08:45:05)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】JR日豊本線の駅で不審物発見 運転見合わせ機動隊が処理へ 大分 (2025-12-08 08:34:00) #ニュース  🚃鉄道運行情報 🔗https://transit.yahoo.co.jp/diainfo <a href="https://bsky.app/profile/sokuho.news/post/3m7gotozihg2h" target="_blank">sokuho.news</a> (2025-12-08 08:40:15)</span><span style="padding-right:50px;">Rays, OF Cedric Mullins agree to one-year deal reut.rs/49Yb3o7 <a href="https://bsky.app/profile/reuters.com/post/3m7gotohuwf2i" target="_blank">reuters.com</a> (2025-12-08 08:40:14)</span><span style="padding-right:50px;">The father of Any Lucía Belloza López, the 19-year-old who was deported to Honduras during a surprise trip home for Thanksgiving, said immigration agents appeared at his home in Austin, Texas, on Sunday. <a href="https://bsky.app/profile/nytimes.com/post/3m7gokjeilw2w" target="_blank">nytimes.com</a> (2025-12-08 08:35:07)</span>
+<span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】駅改札付近に不審物 ガムテープで包んでいる箱のようなもの 日豊本線一部区間で運転見合わせ (2025-12-08 08:50) #ニュース  🚃鉄道運行情報 🔗https://transit.yahoo.co.jp/diainfo <a href="https://bsky.app/profile/sokuho.news/post/3m7gqbspo3o2w" target="_blank">sokuho.news</a> (2025-12-08 09:06:02)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】ダンプカーと乗用車が衝突 50代～60代くらいの男性1人が意識不明の重体 札幌市東区 (2025-12-08 09:00:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7gqb5k74t2h" target="_blank">sokuho.news</a> (2025-12-08 09:05:40)</span><span style="padding-right:50px;">Japan's Q3 revised GDP widens contraction to annualised 2.3% reut.rs/4pid2s6 <a href="https://bsky.app/profile/reuters.com/post/3m7gqa7zugr27" target="_blank">reuters.com</a> (2025-12-08 09:05:09)</span><span style="padding-right:50px;">Asia-Pacific markets set to open mostly higher as investors look toward China trade data <a href="https://bsky.app/profile/cnbc.com/post/3m7gq7in5bv2i" target="_blank">cnbc.com</a> (2025-12-08 09:04:44)</span><span style="padding-right:50px;">From the Romans to today’s artificial intelligence, it’s all about management. How much do you know about management books? <a href="https://bsky.app/profile/wsj.com/post/3m7gq5jffom2l" target="_blank">wsj.com</a> (2025-12-08 09:03:38)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50491.87 (🔻38.47 : 2025-12-05)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3032.00 (🔻21.00 : 2025-12-05)</span><span style="padding-right:50px;">USD/JPY: 155.31 (🔺0.16 : 2025-12-07)</span>
+<span style="padding-right:50px;">^N225: Error</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">7203.T: Error</span><span style="padding-right:50px;">USD/JPY: 155.20 (🔺0.05 : 2025-12-08)</span>
   </div>
 </div>
 
@@ -32,104 +32,111 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are the six headlines in English:
 
-1. **Japan's October Real Wages Fall for 10th Month**
-2. **Big-tech Bosses Say Artificial Intelligence is Coming for Them, Too**
-3. **Ukraine's Sea-Drone Commander Warns of Complex Attacks on Russian Forces**
-4. **Syrian Refugee Returns to Slow as Donor Support Fades**
-5. **Stock Futures Little Changed After Wall Street Notches Back-to-Back Winning Weeks**
-6. **Germany's Foreign Minister Heads to Beijing as Berlin Toughens China Stance**
+1. Japan's Q3 GDP widens contraction to annualized 2.3%
+2. Sequels are the gift that keeps on giving for Hollywood this holiday season
+3. Huge Wall Street call: Morgan Stanley's new Tesla analyst downgrades stock over valuation concerns
+4. Japanese real wages fall for 10th month despite upbeat nominal pay
+5. How Leaders Can Use December To Reset And Enter 2026 With Momentum
+6. Exclusive: Ben & Jerry's board chair does not plan to resign as pressure mounts from Unilever unit
 
 ----
 
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】駅改札付近に不審物 ガムテープで包んでいる箱のようなもの 日豊本線一部区間で運転見合わせ
+(2025-12-08 08:50) #ニュース
+
+🚃鉄道運行情報
+🔗https://transit.yahoo.co.jp/diainfo
+
+[2025-12-08 09:06:02](https://bsky.app/profile/sokuho.news/post/3m7gqbspo3o2w)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】ダンプカーと乗用車が衝突 50代～60代くらいの男性1人が意識不明の重体 札幌市東区
+(2025-12-08 09:00:00) #ニュース
+
+[2025-12-08 09:05:40](https://bsky.app/profile/sokuho.news/post/3m7gqb5k74t2h)
+
+---
+
 @reuters.com
 
-Japan's October real wages fall for 10th month despite upbeat nominal pay reut.rs/4oIC16V
+Japan's Q3 revised GDP widens contraction to annualised 2.3% reut.rs/4pid2s6
 
-[2025-12-08 08:45:08](https://bsky.app/profile/reuters.com/post/3m7gp4hfgww2y)
+[2025-12-08 09:05:09](https://bsky.app/profile/reuters.com/post/3m7gqa7zugr27)
+
+---
+
+@cnbc.com
+
+Asia-Pacific markets set to open mostly higher as investors look toward China trade data
+
+[2025-12-08 09:04:44](https://bsky.app/profile/cnbc.com/post/3m7gq7in5bv2i)
 
 ---
 
 @wsj.com
 
-Why big-tech bosses say artificial intelligence is coming for them, too.
+From the Romans to today’s artificial intelligence, it’s all about management. How much do you know about management books?
 
-[2025-12-08 08:45:05](https://bsky.app/profile/wsj.com/post/3m7gp4e574z2i)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】JR日豊本線の駅で不審物発見 運転見合わせ機動隊が処理へ 大分
-(2025-12-08 08:34:00) #ニュース
-
-🚃鉄道運行情報
-🔗https://transit.yahoo.co.jp/diainfo
-
-[2025-12-08 08:40:15](https://bsky.app/profile/sokuho.news/post/3m7gotozihg2h)
-
----
-
-@reuters.com
-
-Rays, OF Cedric Mullins agree to one-year deal reut.rs/49Yb3o7
-
-[2025-12-08 08:40:14](https://bsky.app/profile/reuters.com/post/3m7gotohuwf2i)
-
----
-
-@nytimes.com
-
-The father of Any Lucía Belloza López, the 19-year-old who was deported to Honduras during a surprise trip home for Thanksgiving, said immigration agents appeared at his home in Austin, Texas, on Sunday.
-
-[2025-12-08 08:35:07](https://bsky.app/profile/nytimes.com/post/3m7gokjeilw2w)
+[2025-12-08 09:03:38](https://bsky.app/profile/wsj.com/post/3m7gq5jffom2l)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-カーリング 五輪世界最終予選 女子日本代表 豪州に勝利し3連勝
-https://news.web.nhk/newsweb/na/na-k10014997061000
+GDP改定値7月～9月 年率換算マイナス2.3％ 速報値から下方修正
+https://news.web.nhk/newsweb/na/na-k10014997081000
 
-[2025-12-08 08:33:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7gogv5zd32j)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】10月の「実質賃金」10か月連続マイナス 前年同月比0.7%減 厚生労働省
-(2025-12-08 08:30:44) #ニュース
-
-[2025-12-08 08:31:02](https://bsky.app/profile/sokuho.news/post/3m7godaijrq2m)
+[2025-12-08 09:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7gq4jwdx426)
 
 ---
 
-@reuters.com
+@cnn.com
 
-Syrian refugee returns set to slow as donor support fades reut.rs/48XHjqg
+Sequels are the gift that keeps on giving for Hollywood this holiday season. 
 
-[2025-12-08 08:30:30](https://bsky.app/profile/reuters.com/post/3m7gocbxk2z26)
+[2025-12-08 09:03:02](https://bsky.app/profile/cnn.com/post/3m7gq4gtxwq2m)
+
+---
+
+@nikkei.com
+
+花粉症、長期間の予防促す物質発見　東京大学がマウスで確認
+www.nikkei.com/article/DGXZQO...
+ 
+予防する手段は現時点で確立されておらず、物質の働きを抑える医薬品を使った対症療法が中心です。
+ 
+研究チームが発見したのは「ブリオスタチン1」で、粘膜の防御効果を高め、スギ花粉の体内侵入を防ぐ効果を確認。投与したマウスは、鼻をかく行動やくしゃみの回数が著しく減少しました。
+
+#ニュース
+
+[2025-12-08 09:01:57](https://bsky.app/profile/nikkei.com/post/3m7gq2iu4us2g)
 
 ---
 
 @usatoday.com
 
-The Democrat is running for reelection after the president pardoned him on bribery charges. Trump called the move a "lack of loyalty."
+The Pacific Northwest is expected to see up to seven inches of rain this week, as the eastern United States braces for arctic cold.
 
-[2025-12-08 08:30:22](https://bsky.app/profile/usatoday.com/post/3m7gobzojqe2d)
+[2025-12-08 09:01:19](https://bsky.app/profile/usatoday.com/post/3m7gpzf7yup2p)
 
 ---
 
-@bloomberg.com
+@reuters.com
 
-Bloomberg News Now is a comprehensive audio report of today's top stories. Hear the latest news, updated throughout the day, covering global business stories in just a few minutes.
+LG Energy Solution wins $1.4 bln order to supply Mercedes-Benz EV batteries reut.rs/3MlDPoW
 
-[2025-12-08 08:30:19](https://bsky.app/profile/bloomberg.com/post/3m7gobxaly52h)
+[2025-12-08 09:00:53](https://bsky.app/profile/reuters.com/post/3m7gpylp5t72r)
 
 ---
 
