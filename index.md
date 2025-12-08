@@ -1,9 +1,9 @@
-# [2025-12-08 19:30 updated](2025_12_08.md)
+# [2025-12-08 19:50 updated](2025_12_08.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The Supreme Court hears arguments in a case about President Trump's firing of a Federal Trade Commissioner. At stake is a 90-year precedent limiting the president's power over independent agencies. n.pr/44VrHkJ <a href="https://bsky.app/profile/npr.org/post/3m7ht4lrp4p2g" target="_blank">npr.org</a> (2025-12-08 19:29:28)</span><span style="padding-right:50px;">Turkey's Pegasus signs 154 million euro deal to buy Czech Airlines, Smartwings reut.rs/4pp6S9D <a href="https://bsky.app/profile/reuters.com/post/3m7hsuq3tsm2i" target="_blank">reuters.com</a> (2025-12-08 19:25:04)</span><span style="padding-right:50px;">A firefighter was killed in Australia on Sunday while battling one of several blazes burning in different parts of the country that have destroyed homes and prompted evacuations, in what officials warned could be a challenging bush fire season. <a href="https://bsky.app/profile/nytimes.com/post/3m7hsupahxh2p" target="_blank">nytimes.com</a> (2025-12-08 19:25:03)</span><span style="padding-right:50px;">【速報】群馬 妙義山で山林火災 自衛隊に災害派遣要請 https://news.web.nhk/newsweb/na/na-k10014997661000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7hsswzaz52j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-08 19:24:02)</span><span style="padding-right:50px;">中国、自衛隊機へのレーダー照射は捜索用と主張 www.nikkei.com/article/DGXZQO...  郭嘉昆副報道局長が記者会見で「（空母）艦載機が飛行訓練中に捜索レーダーを起動するのは、各国の通常の手法だ」と強調。  日本政府は中国軍機が照射したのが捜索用レーダーだったのか、攻撃する際に使う火器管制レーダーだったのかは明言していません。 <a href="https://bsky.app/profile/nikkei.com/post/3m7hsp5lvga2k" target="_blank">nikkei.com</a> (2025-12-08 19:21:57)</span>
+<span style="padding-right:50px;">EU will step in to unblock power grid bottlenecks, draft shows reut.rs/3XDn37d <a href="https://bsky.app/profile/reuters.com/post/3m7htymhdq42i" target="_blank">reuters.com</a> (2025-12-08 19:45:08)</span><span style="padding-right:50px;">サツマイモ、実は60種も存在　北海道でも試作始まる www.nikkei.com/article/DGXZQO...   2024年の輸出額は33億円で14年から9倍と、サツマイモ人気は海外にも波及。アジア圏だけでなく、北米や欧州向けも輸出が始まり、世界が認める日本の味の一つになりつつあります。   もともと寒さには弱い野菜ですが、需要拡大と温暖化が後押しとなり、産地は北上しています。 <a href="https://bsky.app/profile/nikkei.com/post/3m7htsushry26" target="_blank">nikkei.com</a> (2025-12-08 19:41:56)</span><span style="padding-right:50px;">Gazprom delivers first post-sanctions LNG cargo from Portovaya to China, data shows reut.rs/3MxVw4B <a href="https://bsky.app/profile/reuters.com/post/3m7htpndgvg2d" target="_blank">reuters.com</a> (2025-12-08 19:40:07)</span><span style="padding-right:50px;">Thailand said it used F-16 fighter jets to bomb Cambodian military targets on Monday to retaliate against cross-border firing that killed at least one Thai soldier, in a sharp escalation of a dispute between the two nations that President Trump claimed to have ended. <a href="https://bsky.app/profile/nytimes.com/post/3m7htpmrlnr2d" target="_blank">nytimes.com</a> (2025-12-08 19:40:06)</span><span style="padding-right:50px;">Israeli Prime Minister Benjamin Netanyahu says he will meet President Trump later this month, saying a second phase of the U.S. president's Gaza plan is close. <a href="https://bsky.app/profile/nbcnews.com/post/3m7htpkl34v2t" target="_blank">nbcnews.com</a> (2025-12-08 19:40:04)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.44 (🔺0.29 : 2025-12-08)</span>
+<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.48 (🔺0.33 : 2025-12-08)</span>
   </div>
 </div>
 
@@ -34,102 +34,97 @@
 
 Here are six important stories with headlines in English:
 
-1. Trump's Firing of Federal Trade Commissioner Raises Precedent Concerns
-2. Turkey's Pegasus Agrees to Buy Czech Airlines for 154 Million Euros
-3. Australian Firefighter Killed Battling Blazes Amid Challenging Bush Fire Season
-4. Sudan Faces Humanitarian Crisis of Our Time as Tens of Millions Struggle with Famine
-5. Hungary's Nobel Prize-Winning Author Gives Rare Public Lecture in Stockholm
-6. For First Time This Century, Number of Children Worldwide Expected to Rise Before Age Five
+1. EU to Unblock Power Grid Bottlenecks
+2. Japan to Start Commercial Production of Satsuma Mandarin Oranges
+3. Gazprom Delivers First Post-Sanctions LNG Cargo to China
+4. Thailand Used F-16 Fighter Jets to Bomb Cambodian Military Targets
+5. US Supreme Court Hears Arguments on President Trump's Firing of Federal Trade Commissioner
+6. China's Trade Surplus Surpasses $1 Trillion for the First Time
 
 ----
 
-@npr.org
-
-The Supreme Court hears arguments in a case about President Trump's firing of a Federal Trade Commissioner. At stake is a 90-year precedent limiting the president's power over independent agencies. n.pr/44VrHkJ
-
-[2025-12-08 19:29:28](https://bsky.app/profile/npr.org/post/3m7ht4lrp4p2g)
-
----
-
 @reuters.com
 
-Turkey's Pegasus signs 154 million euro deal to buy Czech Airlines, Smartwings reut.rs/4pp6S9D
+EU will step in to unblock power grid bottlenecks, draft shows reut.rs/3XDn37d
 
-[2025-12-08 19:25:04](https://bsky.app/profile/reuters.com/post/3m7hsuq3tsm2i)
-
----
-
-@nytimes.com
-
-A firefighter was killed in Australia on Sunday while battling one of several blazes burning in different parts of the country that have destroyed homes and prompted evacuations, in what officials warned could be a challenging bush fire season.
-
-[2025-12-08 19:25:03](https://bsky.app/profile/nytimes.com/post/3m7hsupahxh2p)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【速報】群馬 妙義山で山林火災 自衛隊に災害派遣要請
-https://news.web.nhk/newsweb/na/na-k10014997661000
-
-[2025-12-08 19:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7hsswzaz52j)
+[2025-12-08 19:45:08](https://bsky.app/profile/reuters.com/post/3m7htymhdq42i)
 
 ---
 
 @nikkei.com
 
-中国、自衛隊機へのレーダー照射は捜索用と主張
+サツマイモ、実は60種も存在　北海道でも試作始まる
 www.nikkei.com/article/DGXZQO...
+ 
+2024年の輸出額は33億円で14年から9倍と、サツマイモ人気は海外にも波及。アジア圏だけでなく、北米や欧州向けも輸出が始まり、世界が認める日本の味の一つになりつつあります。
+ 
+もともと寒さには弱い野菜ですが、需要拡大と温暖化が後押しとなり、産地は北上しています。
 
-郭嘉昆副報道局長が記者会見で「（空母）艦載機が飛行訓練中に捜索レーダーを起動するのは、各国の通常の手法だ」と強調。
-
-日本政府は中国軍機が照射したのが捜索用レーダーだったのか、攻撃する際に使う火器管制レーダーだったのかは明言していません。
-
-[2025-12-08 19:21:57](https://bsky.app/profile/nikkei.com/post/3m7hsp5lvga2k)
+[2025-12-08 19:41:56](https://bsky.app/profile/nikkei.com/post/3m7htsushry26)
 
 ---
 
-@sokuho.news
+@reuters.com
 
-🛎️FNNより【速報】です。
+Gazprom delivers first post-sanctions LNG cargo from Portovaya to China, data shows reut.rs/3MxVw4B
 
-【速報】雪の影響などで新千歳空港で計52便が欠航＿運航に遅れなど発生＿空港のカウンターは混雑続く＜北海道＞<br />
-(2025-12-08 19:14) #ニュース
+[2025-12-08 19:40:07](https://bsky.app/profile/reuters.com/post/3m7htpndgvg2d)
 
-[2025-12-08 19:20:46](https://bsky.app/profile/sokuho.news/post/3m7hsmzzrrq2m)
+---
+
+@nytimes.com
+
+Thailand said it used F-16 fighter jets to bomb Cambodian military targets on Monday to retaliate against cross-border firing that killed at least one Thai soldier, in a sharp escalation of a dispute between the two nations that President Trump claimed to have ended.
+
+[2025-12-08 19:40:06](https://bsky.app/profile/nytimes.com/post/3m7htpmrlnr2d)
 
 ---
 
 @nbcnews.com
 
-Sudan is facing what the World Food Program has called “the humanitarian crisis of our time,” as tens of millions struggle through sieges, blockades and aid shortages that have pushed entire cities into famine.
+Israeli Prime Minister Benjamin Netanyahu says he will meet President Trump later this month, saying a second phase of the U.S. president's Gaza plan is close.
 
-[2025-12-08 19:20:04](https://bsky.app/profile/nbcnews.com/post/3m7hsls7ahf2j)
+[2025-12-08 19:40:04](https://bsky.app/profile/nbcnews.com/post/3m7htpkl34v2t)
+
+---
+
+@wsj.com
+
+President Trump said Netflix’s $72 billion deal to acquire Warner Bros. “could be a problem” because it would result in a large market share for the streaming giant.
+
+[2025-12-08 19:40:02](https://bsky.app/profile/wsj.com/post/3m7htpj64lo2o)
+
+---
+
+@npr.org
+
+The Supreme Court hears arguments in a case about President Trump's firing of a Federal Trade Commissioner. At stake is a 90-year precedent limiting the president's power over independent agencies. n.pr/49X9yGK
+
+[2025-12-08 19:39:46](https://bsky.app/profile/npr.org/post/3m7htozqghx2s)
+
+---
+
+@en.afp.com
+
+Benin's president said the "situation is completely under control" in his country after the government thwarted an attempted coup on Sunday thanks to loyalist soldiers with support from Nigerian forces ➡️ u.afp.com/S7cL
+
+[2025-12-08 19:39:29](https://bsky.app/profile/en.afp.com/post/3m7htojb3yt2j)
 
 ---
 
 @reuters.com
 
-Soccer South Korean jailed 4 yrs for extorting MLS star Son claiming pregnancy, Yonhap says reut.rs/3YknWS9
+LIVE: UN Environment Assembly convenes in Nairobi youtube.com/live/7lMHwOk...
 
-[2025-12-08 19:15:11](https://bsky.app/profile/reuters.com/post/3m7hsd2gpi42i)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【速報】群馬 妙義山で山林火災
-https://news.web.nhk/newsweb/na/na-k10014997661000
-
-[2025-12-08 19:12:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7hs5iqdye2j)
+[2025-12-08 19:39:01](https://bsky.app/profile/reuters.com/post/3m7htnnu6ws24)
 
 ---
 
 @reuters.com
 
-Salah is destroying his Liverpool legacy, says Rooney reut.rs/3MMOQ2w
+Magnum Ice Cream shares debut in Amsterdam at 12.20 euros reut.rs/3Mqc12E
 
-[2025-12-08 19:10:06](https://bsky.app/profile/reuters.com/post/3m7hrzxrpc626)
+[2025-12-08 19:35:04](https://bsky.app/profile/reuters.com/post/3m7htgmj4z222)
 
 ---
 
