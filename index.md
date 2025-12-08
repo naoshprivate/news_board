@@ -1,9 +1,9 @@
-# [2025-12-09 07:50 updated](2025_12_09.md)
+# [2025-12-09 08:10 updated](2025_12_09.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">【震度5強】岩手県の被害の状況 少なくとも2人けが 休校も https://news.web.nhk/newsweb/na/na-k10014998461000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7j4fc7zua2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 07:48:01)</span><span style="padding-right:50px;">Two armed men stormed into São Paulo’s marble-floored Mário de Andrade public library on Sunday and carried off eight rare prints by the French modernist master Henri Matisse. <a href="https://bsky.app/profile/wsj.com/post/3m7j4eweeis2x" target="_blank">wsj.com</a> (2025-12-09 07:47:51)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】空の便は朝から通常通りの運航 青森空港など滑走路に異常なし (07:45) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7j4dzgo3h2y" target="_blank">sokuho.news</a> (2025-12-09 07:47:20)</span><span style="padding-right:50px;">Unilever to consolidate shares on 8-for-9 ratio after Magnum demerger reut.rs/4anbvfZ <a href="https://bsky.app/profile/reuters.com/post/3m7j4a422zh2k" target="_blank">reuters.com</a> (2025-12-09 07:45:09)</span><span style="padding-right:50px;">Breaking News: The Archdiocese of New York said it was raising $300 million as it has agreed to negotiate a sex-abuse settlement for 1,300 people. <a href="https://bsky.app/profile/nytimes.com/post/3m7j44rdnvy2w" target="_blank">nytimes.com</a> (2025-12-09 07:43:17)</span>
+<span style="padding-right:50px;">Food industry groups sue Texas over ingredient warning labels reut.rs/3Mi4e7b <a href="https://bsky.app/profile/reuters.com/post/3m7j5ds34h52w" target="_blank">reuters.com</a> (2025-12-09 08:05:07)</span><span style="padding-right:50px;">Jamie Dimon is assembling a who’s who of business leaders, politicians and generals to advise JPMorgan on how to invest to protect the U.S. from foreign adversaries. <a href="https://bsky.app/profile/wsj.com/post/3m7j5cwphvc2a" target="_blank">wsj.com</a> (2025-12-09 08:04:38)</span><span style="padding-right:50px;">AIと壁打ち、SF小説家・葦沢かもめ氏の執筆風景 www.nikkei.com/article/DGXZQO...  「冒頭は心象風景の繊細な描写から」。執筆に行き詰まらない代わりに頭を悩ませるのはAIを操るプロンプトづくり。  全ての指示を読み込ませると、数分で原稿用紙数百枚分の文章が画面に流れ始めました。  #超知能 #日経_連載 <a href="https://bsky.app/profile/nikkei.com/post/3m7j565xjjj2g" target="_blank">nikkei.com</a> (2025-12-09 08:01:58)</span><span style="padding-right:50px;">Mexican lawmakers to debate China tariffs proposal, may soften blow on steel and auto parts reut.rs/3YdLmsm <a href="https://bsky.app/profile/reuters.com/post/3m7j54wdro527" target="_blank">reuters.com</a> (2025-12-09 08:01:16)</span><span style="padding-right:50px;">Lan Ho was working as a retail pharmacist at Walgreens earning about $120,000 a year, before she decided to quit her job to start a coffee company. <a href="https://bsky.app/profile/cnbc.com/post/3m7j54s7p7j23" target="_blank">cnbc.com</a> (2025-12-09 08:01:12)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.31 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.92 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.90 (🔺0.75 : 2025-12-08)</span>
+<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.31 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.92 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.93 (🔺0.01 : 2025-12-08)</span>
   </div>
 </div>
 
@@ -32,105 +32,99 @@
 
 ## News Headlines
 
-1. 震度5強　岩手県の被害状況　少なくとも２人けが　休校も
-2. 8つのマティス作品　サンパウロの図書館から盗難
-3. 経産省　中国の通信会社から米国への接続を禁止へ
-4. ウクライナ大統領　修正和平案を９日米国に提示へ
-5. Netflixに競合したパラマウントがワーナーに買収提案
-6. 北海道～福島県沿岸　津波注意報　すべて解除
+1. 連邦上訴裁判所は、ハバの不適格宣告を支持
+2. 連邦上訴裁判所は、ハバの不適格宣告を支持
+3. エアバスとボーイング、納入遅れで航空機の不足に
+4. エアバスとボーイング、納入遅れで航空機の不足に
+5. モロッコ、深海港2つを2026年と2028年に開港
+6. パラマウントがワーナーを買収することを発表
 
 ----
 
-@nhknewsunofficial.bsky.social
+@reuters.com
 
-【震度5強】岩手県の被害の状況 少なくとも2人けが 休校も
-https://news.web.nhk/newsweb/na/na-k10014998461000
+Food industry groups sue Texas over ingredient warning labels reut.rs/3Mi4e7b
 
-[2025-12-09 07:48:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7j4fc7zua2p)
+[2025-12-09 08:05:07](https://bsky.app/profile/reuters.com/post/3m7j5ds34h52w)
 
 ---
 
 @wsj.com
 
-Two armed men stormed into São Paulo’s marble-floored Mário de Andrade public library on Sunday and carried off eight rare prints by the French modernist master Henri Matisse.
+Jamie Dimon is assembling a who’s who of business leaders, politicians and generals to advise JPMorgan on how to invest to protect the U.S. from foreign adversaries.
 
-[2025-12-09 07:47:51](https://bsky.app/profile/wsj.com/post/3m7j4eweeis2x)
-
----
-
-@sokuho.news
-
-🔔ANNより【速報】です。
-
-【速報】空の便は朝から通常通りの運航 青森空港など滑走路に異常なし
-(07:45) #ニュース
-
-[2025-12-09 07:47:20](https://bsky.app/profile/sokuho.news/post/3m7j4dzgo3h2y)
-
----
-
-@reuters.com
-
-Unilever to consolidate shares on 8-for-9 ratio after Magnum demerger reut.rs/4anbvfZ
-
-[2025-12-09 07:45:09](https://bsky.app/profile/reuters.com/post/3m7j4a422zh2k)
-
----
-
-@nytimes.com
-
-<strong><span style="color: red;">Breaking News</span>: The Archdiocese of New York said it was raising $300 million as it has agreed to negotiate a sex-abuse settlement for 1,300 people.</strong>
-
-[2025-12-09 07:43:17](https://bsky.app/profile/nytimes.com/post/3m7j44rdnvy2w)
+[2025-12-09 08:04:38](https://bsky.app/profile/wsj.com/post/3m7j5cwphvc2a)
 
 ---
 
 @nikkei.com
 
-ゼレンスキー氏、ロシアとの修正和平案を9日にもアメリカに提示へ　英独仏首脳と協議
+AIと壁打ち、SF小説家・葦沢かもめ氏の執筆風景
 www.nikkei.com/article/DGXZQO...
 
-ゼレンスキー氏は記者団に、修正案は米国の当初案からウクライナに不利な項目を削除し、28項目から20項目に減ると語りました。
+「冒頭は心象風景の繊細な描写から」。執筆に行き詰まらない代わりに頭を悩ませるのはAIを操るプロンプトづくり。
 
-領土や安全の保証といった主権をめぐる問題は決着していないと説明しています。
+全ての指示を読み込ませると、数分で原稿用紙数百枚分の文章が画面に流れ始めました。
 
-イギリス・ドイツ・フランスの首脳は、ゼレンスキー氏をそろって擁護しました。
+#超知能 #日経_連載
 
-#ニュース
-
-[2025-12-09 07:40:22](https://bsky.app/profile/nikkei.com/post/3m7j3xkck2c2e)
+[2025-12-09 08:01:58](https://bsky.app/profile/nikkei.com/post/3m7j565xjjj2g)
 
 ---
 
 @reuters.com
 
-FCC may bar Chinese telecom companies from connecting to US networks reut.rs/44irGqR
+Mexican lawmakers to debate China tariffs proposal, may soften blow on steel and auto parts reut.rs/3YdLmsm
 
-[2025-12-09 07:40:13](https://bsky.app/profile/reuters.com/post/3m7j3xbwrwp2o)
-
----
-
-@nytimes.com
-
-The actress Christine Baranski is reading and recording "A Christmas Carol" with the Skylark Voice Ensemble. They will perform a live version at the Morgan Library and Museum.
-
-[2025-12-09 07:40:07](https://bsky.app/profile/nytimes.com/post/3m7j3x4esdj2q)
+[2025-12-09 08:01:16](https://bsky.app/profile/reuters.com/post/3m7j54wdro527)
 
 ---
 
-@nbcnews.com
+@cnbc.com
 
- Miami Heat player Terry Rozier is set to appear in a New York court on charges that he allegedly helped gamblers place bets on his performance in NBA games.
+Lan Ho was working as a retail pharmacist at Walgreens earning about $120,000 a year, before she decided to quit her job to start a coffee company.
 
-[2025-12-09 07:40:07](https://bsky.app/profile/nbcnews.com/post/3m7j3x3lwds2w)
+[2025-12-09 08:01:12](https://bsky.app/profile/cnbc.com/post/3m7j54s7p7j23)
 
 ---
 
-@reuters.com
+@apnews.com
 
-Decked in Santa hats and ribbons, Argentine golden retrievers chase world record reut.rs/4iNxWx1
+Jani Silva is a renowned environmental activist in Colombia’s Amazon, but she has been unable to live in her house for nearly a decade.
 
-[2025-12-09 07:35:08](https://bsky.app/profile/reuters.com/post/3m7j3o76qit2w)
+[2025-12-09 08:01:07](https://bsky.app/profile/apnews.com/post/3m7j54ntyhh2p)
+
+---
+
+@cnn.com
+
+At least 13 inmates were found dead at a southern Ecuadorian prison ravaged by violence in recent months, the country’s prison service SNAI announced. 
+
+[2025-12-09 08:01:02](https://bsky.app/profile/cnn.com/post/3m7j54ikxph2n)
+
+---
+
+@aljazeera.com
+
+A federal appeals court this month upheld Habba's 'disqualification' as US attorney, despite Trump's attacks on judges.
+
+[2025-12-09 08:00:29](https://bsky.app/profile/aljazeera.com/post/3m7j53jwvsb2l)
+
+---
+
+@washingtonpost.com
+
+The National Park Service will offer free admission to U.S. residents on President Trump’s birthday next year but is eliminating the benefit for Martin Luther King Jr. Day and Juneteenth.
+
+[2025-12-09 08:00:16](https://bsky.app/profile/washingtonpost.com/post/3m7j534v33o2r)
+
+---
+
+@usatoday.com
+
+The incoming New York City mayor is not only switching boroughs, from Queens to Manhattan, but is also upgrading from one bedroom to five.
+
+[2025-12-09 08:00:09](https://bsky.app/profile/usatoday.com/post/3m7j52w6fm52d)
 
 ---
 
