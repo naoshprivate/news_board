@@ -1,9 +1,9 @@
-# [2025-12-08 22:50 updated](2025_12_08.md)
+# [2025-12-08 23:10 updated](2025_12_08.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Video footage shows Israeli bulldozers forcibly uprooting hundreds of Palestinian olive trees in Qaryut, a village south of Nablus in the occupied West Bank. <a href="https://bsky.app/profile/aljazeera.com/post/3m7i6bnsoa227" target="_blank">aljazeera.com</a> (2025-12-08 22:49:09)</span><span style="padding-right:50px;">Sudan's paramilitary RSF says it took control of strategic Heglig oilfield reut.rs/4iJGK6J <a href="https://bsky.app/profile/reuters.com/post/3m7i62go6zo2o" target="_blank">reuters.com</a> (2025-12-08 22:45:06)</span><span style="padding-right:50px;">Thailand aims to cripple Cambodia's military capability to neutralise threat, general says reut.rs/3YfuzoS <a href="https://bsky.app/profile/reuters.com/post/3m7i5rwqrb42k" target="_blank">reuters.com</a> (2025-12-08 22:40:21)</span><span style="padding-right:50px;">The Supreme Court agrees to decide the lawfulness of President Trump’s plan to roll back automatic birthright citizenship for nearly anyone born in the U.S., teeing up a ruling expected by the end of June. <a href="https://bsky.app/profile/nbcnews.com/post/3m7i5roeipt2h" target="_blank">nbcnews.com</a> (2025-12-08 22:40:13)</span><span style="padding-right:50px;">In March, the U.S. government sent more than 200 Venezuelan men to a maximum-security prison in El Salvador. Over four months, the men said they endured physical, mental and sexual abuse.  Listen to "The Daily." <a href="https://bsky.app/profile/nytimes.com/post/3m7i5rf4gqy26" target="_blank">nytimes.com</a> (2025-12-08 22:40:03)</span>
+<span style="padding-right:50px;">Paramount launched a hostile bid for Warner Bros. Discovery, days after the company announced a $72 billion deal with Netflix. <a href="https://bsky.app/profile/wsj.com/post/3m7i7fwed4m2l" target="_blank">wsj.com</a> (2025-12-08 23:09:26)</span><span style="padding-right:50px;">A Republican call to give Americans cash instead of health insurance subsidies revives an old idea that has left millions with medical debt. n.pr/44dfWWE <a href="https://bsky.app/profile/npr.org/post/3m7i7cvvhzt2e" target="_blank">npr.org</a> (2025-12-08 23:07:45)</span><span style="padding-right:50px;">The nominees for the 2026 Golden Globe Awards have been revealed. See the full list.  <a href="https://bsky.app/profile/cbsnews.com/post/3m7i76t6y5n2o" target="_blank">cbsnews.com</a> (2025-12-08 23:05:28)</span><span style="padding-right:50px;">Ukraine's AgroGeneration suspends results release after Russian drone strike destroys documents reut.rs/49Z3ehW <a href="https://bsky.app/profile/reuters.com/post/3m7i765inps2i" target="_blank">reuters.com</a> (2025-12-08 23:05:05)</span><span style="padding-right:50px;">IBM said it will buy data infrastructure company Confluent in a deal valued at $11 billion, ramping ​up its cloud-computing offerings to capitalize on an AI-driven demand boom. <a href="https://bsky.app/profile/yahoofinance.com/post/3m7i6y2tqg22i" target="_blank">yahoofinance.com</a> (2025-12-08 23:01:41)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.59 (🔺0.45 : 2025-12-08)</span>
+<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.60 (🔺0.45 : 2025-12-08)</span>
   </div>
 </div>
 
@@ -32,94 +32,94 @@
 
 ## News Headlines
 
-1. イスラエルがパレスチナの村で数百本のオリーブの木を強制的に伐採
-2. スーダンのRSFが重要な油田を制圧
-3. 米国最高裁がトランプ大統領の出生地による自動的な国籍取得を取り消す計画の法fulnessについて決定
-4. パリのルーヴル美術館で水漏れによる損傷が多数発生
-5. フランスが70年前の化石人骨をモンゴルに返還
-6. 東南アジアで緊張高まる : 　タイとカンボジアの軍事力の比較
+1.  パラマウントがワーナー・ブラザーズ・ディスカバリーに敵対的買収を発表
+2.  共和党が健康保険サブシディーの代わりに金銭給付を提案
+3.  ゴールデングローブ賞2026のノミネートが発表
+4.  ウクライナの農業会社がドローン攻撃で文書を破棄
+5.  IBMがデータインフラストラクチャ会社Confluentを買収
+6.  ドナルド・トランプがNetflixのウォーナー・ブラザーズ・ディスカバリー買収に影響を与える
 
 ----
 
-@aljazeera.com
+@wsj.com
 
-Video footage shows Israeli bulldozers forcibly uprooting hundreds of Palestinian olive trees in Qaryut, a village south of Nablus in the occupied West Bank.
+Paramount launched a hostile bid for Warner Bros. Discovery, days after the company announced a $72 billion deal with Netflix.
 
-[2025-12-08 22:49:09](https://bsky.app/profile/aljazeera.com/post/3m7i6bnsoa227)
-
----
-
-@reuters.com
-
-Sudan's paramilitary RSF says it took control of strategic Heglig oilfield reut.rs/4iJGK6J
-
-[2025-12-08 22:45:06](https://bsky.app/profile/reuters.com/post/3m7i62go6zo2o)
-
----
-
-@reuters.com
-
-Thailand aims to cripple Cambodia's military capability to neutralise threat, general says reut.rs/3YfuzoS
-
-[2025-12-08 22:40:21](https://bsky.app/profile/reuters.com/post/3m7i5rwqrb42k)
-
----
-
-@nbcnews.com
-
-The Supreme Court agrees to decide the lawfulness of President Trump’s plan to roll back automatic birthright citizenship for nearly anyone born in the U.S., teeing up a ruling expected by the end of June.
-
-[2025-12-08 22:40:13](https://bsky.app/profile/nbcnews.com/post/3m7i5roeipt2h)
-
----
-
-@nytimes.com
-
-In March, the U.S. government sent more than 200 Venezuelan men to a maximum-security prison in El Salvador. Over four months, the men said they endured physical, mental and sexual abuse.
-
-Listen to "The Daily."
-
-[2025-12-08 22:40:03](https://bsky.app/profile/nytimes.com/post/3m7i5rf4gqy26)
-
----
-
-@cbsnews.com
-
-Weeks after the brazen robbery of crown jewels, Paris' Louvre saw hundreds of works in its Egypt section damaged by water from a leaky old heating system.
-
-[2025-12-08 22:40:00](https://bsky.app/profile/cbsnews.com/post/3m7i5rci4ng2y)
+[2025-12-08 23:09:26](https://bsky.app/profile/wsj.com/post/3m7i7fwed4m2l)
 
 ---
 
 @npr.org
 
-Marlon Wayans and Skye P. Marshall are presenting the nominees for the 83rd Golden Globes this morning. The awards ceremony will be held on Jan. 11, hosted by Nikki Glaser. n.pr/3YgaLle
+A Republican call to give Americans cash instead of health insurance subsidies revives an old idea that has left millions with medical debt. n.pr/44dfWWE
 
-[2025-12-08 22:37:10](https://bsky.app/profile/npr.org/post/3m7i5mai3vw2e)
-
----
-
-@en.afp.com
-
-France is set to hand over a 70-million-year-old dinosaur skeleton to Mongolia on Monday, which was looted from the Gobi desert and seized by French customs ➡️ u.afp.com/S7pb
-
-[2025-12-08 22:36:38](https://bsky.app/profile/en.afp.com/post/3m7i5lbsdvx2o)
+[2025-12-08 23:07:45](https://bsky.app/profile/npr.org/post/3m7i7cvvhzt2e)
 
 ---
 
-@apnews.com
+@cbsnews.com
 
-The Christian Association of Nigeria says 100 schoolchildren abducted from a Catholic school last month have been released, adding that more than 100 students remain in captivity.
+The nominees for the 2026 Golden Globe Awards have been revealed. See the full list. 
 
-[2025-12-08 22:36:22](https://bsky.app/profile/apnews.com/post/3m7i5ks3hfg2p)
+[2025-12-08 23:05:28](https://bsky.app/profile/cbsnews.com/post/3m7i76t6y5n2o)
 
 ---
 
 @reuters.com
 
-EU to delay proposals on auto industry, carbon border tariff, draft shows reut.rs/4pP1z34
+Ukraine's AgroGeneration suspends results release after Russian drone strike destroys documents reut.rs/49Z3ehW
 
-[2025-12-08 22:35:05](https://bsky.app/profile/reuters.com/post/3m7i5iiovar2y)
+[2025-12-08 23:05:05](https://bsky.app/profile/reuters.com/post/3m7i765inps2i)
+
+---
+
+@yahoofinance.com
+
+IBM said it will buy data infrastructure company Confluent in a deal valued at $11 billion, ramping ​up its cloud-computing offerings to capitalize on an AI-driven demand boom.
+
+[2025-12-08 23:01:41](https://bsky.app/profile/yahoofinance.com/post/3m7i6y2tqg22i)
+
+---
+
+@cnn.com
+
+Sometimes, what goes up doesn’t come back down — instead, it becomes a problem. https://cnn.it/3KP4UjP
+
+[2025-12-08 23:01:05](https://bsky.app/profile/cnn.com/post/3m7i6wypem42q)
+
+---
+
+@reuters.com
+
+IndiGo meltdown puts India's competitive airline industry in focus reut.rs/4iMMWeo
+
+[2025-12-08 23:00:58](https://bsky.app/profile/reuters.com/post/3m7i6wsk56b2w)
+
+---
+
+@washingtonpost.com
+
+President Donald Trump said he will be involved in his administration’s approval process for Netflix’s proposed $83 billion purchase of Warner Bros. Discovery, adding that the streaming giant’s strong market position “could be a problem.”
+
+[2025-12-08 23:00:47](https://bsky.app/profile/washingtonpost.com/post/3m7i6whmcdl2g)
+
+---
+
+@apnews.com
+
+bit.ly/4iJvBTD 
+
+[2025-12-08 23:00:44](https://bsky.app/profile/apnews.com/post/3m7i6wejjnk2p)
+
+---
+
+@apnews.com
+
+As President Donald Trump met Russian leader Vladimir Putin in Alaska earlier this year to discuss the Ukraine war, AP reporter Hanna Arhirova and her colleagues in Ukraine continued to deliver coverage from the front lines of the war.  
+
+Support AP journalists like Hanna by donating today. 
+
+[2025-12-08 23:00:41](https://bsky.app/profile/apnews.com/post/3m7i6wc5rbm2j)
 
 ---
 
