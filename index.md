@@ -1,9 +1,9 @@
-# [2025-12-08 17:50 updated](2025_12_08.md)
+# [2025-12-08 18:10 updated](2025_12_08.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️FRIDAYより【スクープ】です。  【スクープ】堂々と“恋人繋ぎ”でデート…山本舞香♡伊藤健太郎「離れられない二人」が笑顔で半同棲！ (2024年01月18日) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7hnffea6w22" target="_blank">sokuho.news</a> (2025-12-08 17:47:01)</span><span style="padding-right:50px;">Only a few automakers to keep up AI push, Gartner says reut.rs/3XGydbb <a href="https://bsky.app/profile/reuters.com/post/3m7hnbzghnn2d" target="_blank">reuters.com</a> (2025-12-08 17:45:08)</span><span style="padding-right:50px;">グリコ ポッキーなど600万個 自主回収【一覧】安全性問題なし https://news.web.nhk/newsweb/na/na-k10014997461000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7hnbwf62a2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-08 17:45:02)</span><span style="padding-right:50px;">🔔NHKより【速報 JUST IN】です。  グリコ ポッキーなど600万個 自主回収【一覧】安全性問題なし (2025-12-08 17:43:22) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7hn7niugo2y" target="_blank">sokuho.news</a> (2025-12-08 17:43:48)</span><span style="padding-right:50px;">Cambodian villagers flee border region as Thailand launches strikes.  Fighting has once again erupted in the Thai-Cambodia the border region. The Thai army said on Monday it had launched air strikes, accusing Cambodian troops of firing on Thai soldiers and resulting in one Thai soldier being killed <a href="https://bsky.app/profile/en.afp.com/post/3m7hn4qwdek2j" target="_blank">en.afp.com</a> (2025-12-08 17:42:11)</span>
+<span style="padding-right:50px;">香港 高層住宅火災 市民が寄せた追悼メッセージ すべて撤去 https://news.web.nhk/newsweb/na/na-k10014997551000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7homz2xol2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-08 18:09:07)</span><span style="padding-right:50px;">徹底分析 伊東市長選挙 候補者は演説で何を訴えた？ https://news.web.nhk/newsweb/na/na-k10014995211000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7homtzy232k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-08 18:09:02)</span><span style="padding-right:50px;">プロ野球 新選手会長にソフトバンクの近藤健介が就任 https://news.web.nhk/newsweb/na/na-k10014997561000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7hohnmox72g" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-08 18:06:08)</span><span style="padding-right:50px;">“紀州のドン・ファン”殺人などの罪 元妻の裁判2審始まる https://news.web.nhk/newsweb/na/na-k10014997581000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7hohidpn32k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-08 18:06:02)</span><span style="padding-right:50px;">Thailand-Cambodia live: Border clashes reignite, Thailand launches airstrikes reut.rs/49YKgbe <a href="https://bsky.app/profile/reuters.com/post/3m7hofop5kb26" target="_blank">reuters.com</a> (2025-12-08 18:05:04)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.39 (🔺0.24 : 2025-12-08)</span>
+<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.46 (🔺0.32 : 2025-12-08)</span>
   </div>
 </div>
 
@@ -34,101 +34,103 @@
 
 Here are six important stories with headlines in English:
 
-1. Japanese Snack Giant Recalls 6 Million Packs of Popular Cookies Over Quality Issues
-2. Nigeria Secures Release of 100 Children Kidnapped by State Actors
-3. Thai-Cambodian Border Conflict Erupts, With One Thai Soldier Killed
-4. Unilever's Magnum Ice Cream Spinoff Debuts on Amsterdam Stock Market
-5. US President's Firing Spree Sparks Supreme Court Showdown Over Government Power
-6. Elon Musk Calls for Abolition of European Union After $140 Million Fine
+1. Hong Kong High-Rise Fire: Residents Pay Tribute to Victims
+2. Thailand-Cambodia Border Clashes Reignite, Thailand Launches Airstrikes
+3. BlackRock Bets on 'Pick and Shovel' Trade, Singling Out Clear Winners in AI Spending Spree
+4. French Socialist Party to Vote on Social Security Budget's Bill
+5. Unilever Spinoff Magnum Ice Cream Debuts on Amsterdam Stock Market
+6. Sudan Doctors Network Calls for Immediate Action to Protect Sudanese Women
 
 ----
 
-@sokuho.news
+@nhknewsunofficial.bsky.social
 
-🛎️FRIDAYより【スクープ】です。
+香港 高層住宅火災 市民が寄せた追悼メッセージ すべて撤去
+https://news.web.nhk/newsweb/na/na-k10014997551000
 
-【スクープ】堂々と“恋人繋ぎ”でデート…山本舞香♡伊藤健太郎「離れられない二人」が笑顔で半同棲！
-(2024年01月18日) #ニュース
-
-[2025-12-08 17:47:01](https://bsky.app/profile/sokuho.news/post/3m7hnffea6w22)
-
----
-
-@reuters.com
-
-Only a few automakers to keep up AI push, Gartner says reut.rs/3XGydbb
-
-[2025-12-08 17:45:08](https://bsky.app/profile/reuters.com/post/3m7hnbzghnn2d)
+[2025-12-08 18:09:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7homz2xol2u)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-グリコ ポッキーなど600万個 自主回収【一覧】安全性問題なし
-https://news.web.nhk/newsweb/na/na-k10014997461000
+徹底分析 伊東市長選挙 候補者は演説で何を訴えた？
+https://news.web.nhk/newsweb/na/na-k10014995211000
 
-[2025-12-08 17:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7hnbwf62a2j)
+[2025-12-08 18:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7homtzy232k)
 
 ---
 
-@sokuho.news
+@nhknewsunofficial.bsky.social
 
-<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>グリコ ポッキーなど600万個 自主回収【一覧】安全性問題なし</strong><br><strong>(2025-12-08 17:43:22) #ニュース</strong>
+プロ野球 新選手会長にソフトバンクの近藤健介が就任
+https://news.web.nhk/newsweb/na/na-k10014997561000
 
-[2025-12-08 17:43:48](https://bsky.app/profile/sokuho.news/post/3m7hn7niugo2y)
+[2025-12-08 18:06:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7hohnmox72g)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+“紀州のドン・ファン”殺人などの罪 元妻の裁判2審始まる
+https://news.web.nhk/newsweb/na/na-k10014997581000
+
+[2025-12-08 18:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7hohidpn32k)
+
+---
+
+@reuters.com
+
+Thailand-Cambodia live: Border clashes reignite, Thailand launches airstrikes reut.rs/49YKgbe
+
+[2025-12-08 18:05:04](https://bsky.app/profile/reuters.com/post/3m7hofop5kb26)
+
+---
+
+@cnbc.com
+
+BlackRock bets on ‘pick and shovel’ trade, singling out clear winners in AI spending spree
+
+[2025-12-08 18:02:47](https://bsky.app/profile/cnbc.com/post/3m7hoblvt4y2f)
+
+---
+
+@nikkei.com
+
+ニューヨーク発「直して着る文化」が脚光
+www.nikkei.com/article/DGXZQO...
+ 
+「Better than new」。質のいい服を直して長く着る暮らしが、環境保護の意識が高い若い世代を中心にブームになりつつあります。
+ 
+ジャケットやジーンズの縫い目をわざと目立たせるのが最先端の着こなし。少し使ったら捨てて別の商品を買う「消費社会へのアンチテーゼ」のようです。
+
+[2025-12-08 18:01:56](https://bsky.app/profile/nikkei.com/post/3m7hoa3e4fd2i)
 
 ---
 
 @en.afp.com
 
-Cambodian villagers flee border region as Thailand launches strikes.
+Santas ski, race and ride camels as Christmas nears.
 
-Fighting has once again erupted in the Thai-Cambodia the border region. The Thai army said on Monday it had launched air strikes, accusing Cambodian troops of firing on Thai soldiers and resulting in one Thai soldier being killed
+Although Christmas is still a few weeks away, Santa is already being kept busy at festive events across the world: from skiing in Switzerland to camel riding in Pakistan
 
-[2025-12-08 17:42:11](https://bsky.app/profile/en.afp.com/post/3m7hn4qwdek2j)
-
----
-
-@nhknewsunofficial.bsky.social
-
-ノーベル化学賞 北川進さん 「新しい応用挑戦していきたい」
-https://news.web.nhk/newsweb/na/na-k10014997541000
-
-[2025-12-08 17:42:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7hn4q5q6r2j)
-
----
-
-@nhknewsunofficial.bsky.social
-
-スズキ子会社 部品製造委託の事業者に買いたたきで勧告 公取委
-https://news.web.nhk/newsweb/na/na-k10014997531000
-
-[2025-12-08 17:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7hn4lantb2k)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Niger state kidnap: Nigeria says it has secured release of 100 children
-
-[2025-12-08 17:41:57](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7hn4esnso2p)
+[2025-12-08 18:01:43](https://bsky.app/profile/en.afp.com/post/3m7ho7olnxb25)
 
 ---
 
 @reuters.com
 
-European shares slip as consumer stocks weigh; Unilever falls after Magnum demerger reut.rs/3YfbZx8
+French socialist party to vote social security budget's bill reut.rs/4rQCjLR
 
-[2025-12-08 17:40:06](https://bsky.app/profile/reuters.com/post/3m7hmyzyfr52d)
+[2025-12-08 18:00:17](https://bsky.app/profile/reuters.com/post/3m7ho54yu552d)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@washingtonpost.com
 
-ケアマネジメント 有料老人ホーム入居者対象 有料化方向で検討
-https://news.web.nhk/newsweb/na/na-k10014997491000
+With ACA marketplace premiums for next year increasing and many of the subsidies to help people pay for them poised to expire at year’s end, more people face tough choices as they weigh monthly premium costs against deductibles. 
 
-[2025-12-08 17:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7hmx6lbg72g)
+[2025-12-08 18:00:15](https://bsky.app/profile/washingtonpost.com/post/3m7ho536wdu23)
 
 ---
 
