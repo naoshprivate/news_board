@@ -1,9 +1,9 @@
-# [2025-12-08 21:30 updated](2025_12_08.md)
+# [2025-12-08 21:50 updated](2025_12_08.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NHK新会長に井上樹彦副会長を任命 NHK経営委員会 https://news.web.nhk/newsweb/na/na-k10014997781000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7hzov3z5q2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-08 21:27:02)</span><span style="padding-right:50px;">Radiation levels have not increased outside the Chernobyl power plant, the Ukrainian site of the world’s worst-ever nuclear disaster, even though the authorities have been unable to fix the damage from a Russian drone that punctured the complex's protective shield in February, officials said. <a href="https://bsky.app/profile/nytimes.com/post/3m7hzleea2h2e" target="_blank">nytimes.com</a> (2025-12-08 21:25:06)</span><span style="padding-right:50px;">Egypt's Palm Hills eyes $7 bln in sales at Abu Dhabi mega project, wider Gulf expansion reut.rs/3KNs4qL <a href="https://bsky.app/profile/reuters.com/post/3m7hzldi7vy2i" target="_blank">reuters.com</a> (2025-12-08 21:25:05)</span><span style="padding-right:50px;">Netflix gets a downgrade after announcing Warner Bros. film and streaming acquisition <a href="https://bsky.app/profile/cnbc.com/post/3m7hzhjnsa22h" target="_blank">cnbc.com</a> (2025-12-08 21:22:57)</span><span style="padding-right:50px;">Breaking: Berkshire Hathaway’s top ranks are changing hands as it prepares for the imminent retirement of Warren Buffett. <a href="https://bsky.app/profile/wsj.com/post/3m7hzgwrgep24" target="_blank">wsj.com</a> (2025-12-08 21:22:37)</span>
+<span style="padding-right:50px;">Benin coup attempt: Hunt for plotters and their hostages after Nigerian intervention <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7i2upc2e427" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-08 21:48:12)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】上越・北陸新幹線が運転見合わせ 人立ち入りの影響 再開の見込み立たず (21:45) #ニュース  🚄鉄道運行情報 🔗https://transit.yahoo.co.jp/diainfo <a href="https://bsky.app/profile/sokuho.news/post/3m7i2rbe7ke26" target="_blank">sokuho.news</a> (2025-12-08 21:46:18)</span><span style="padding-right:50px;">Carvana's S&P 500 entry caps stunning rebound, shares jump reut.rs/3Yf0gyE <a href="https://bsky.app/profile/reuters.com/post/3m7i2pbjktm27" target="_blank">reuters.com</a> (2025-12-08 21:45:11)</span><span style="padding-right:50px;">Almost all companies with a 401(k) now allow Roth savings — here's who benefits <a href="https://bsky.app/profile/cnbc.com/post/3m7i2orz4om2f" target="_blank">cnbc.com</a> (2025-12-08 21:44:54)</span><span style="padding-right:50px;">Heard on the Street: A debate is raging over the accounting treatment of Nvidia chips and other AI equipment. This time, some of the AI companies’ critics may be overreaching. <a href="https://bsky.app/profile/wsj.com/post/3m7i2lzh2ho2a" target="_blank">wsj.com</a> (2025-12-08 21:43:21)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.61 (🔺0.47 : 2025-12-08)</span>
+<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47954.99 (🔺75.39 : 2025-12-05)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺10.36 : 2025-12-05)</span><span style="padding-right:50px;">NVIDIA: 182.41 (🔻1.48 : 2025-12-05)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.61 (🔺0.46 : 2025-12-08)</span>
   </div>
 </div>
 
@@ -32,95 +32,101 @@
 
 ## News Headlines
 
-Here are six important stories from the news with headlines in English:
+Here are six important stories with headlines in English:
 
-1. New NHK President Appointed
-2. No Increase in Radiation Levels at Chernobyl After Drone Damage
-3. Netflix Downgraded After Warner Bros. Acquisition
-4. Rosa Parks' Uncovered Photos Released
-5. Thieves Steal Eight Matisse Art Works from Brazilian Library
-6. India's ICICI Prudential AMC Plans Private Equity Acquisition
+1. Benin Coup Attempt: Hunt for Plotters and Their Hostages After Nigerian Intervention
+2. Thailand Launches Airstrikes Along Disputed Border with Cambodia
+3. Company Valuations Drop, AI Expansion Creates New Investment Opportunities
+4. Trump's America and a Clash of Civilizations with Europe
+5. President Trump Weighs In on Netflix's Acquisition of Warner Bros. Discovery
+6. China's Exports Rebound 6% in November, Pushing Trade Surplus Past $1 Trillion
 
 ----
 
-@nhknewsunofficial.bsky.social
+@bbcnews-world-rss.bsky.social
 
-NHK新会長に井上樹彦副会長を任命 NHK経営委員会
-https://news.web.nhk/newsweb/na/na-k10014997781000
+Benin coup attempt: Hunt for plotters and their hostages after Nigerian intervention
 
-[2025-12-08 21:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7hzov3z5q2j)
+[2025-12-08 21:48:12](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7i2upc2e427)
 
 ---
 
-@nytimes.com
+@sokuho.news
 
-Radiation levels have not increased outside the Chernobyl power plant, the Ukrainian site of the world’s worst-ever nuclear disaster, even though the authorities have been unable to fix the damage from a Russian drone that punctured the complex's protective shield in February, officials said.
+🔔ANNより【速報】です。
 
-[2025-12-08 21:25:06](https://bsky.app/profile/nytimes.com/post/3m7hzleea2h2e)
+【速報】上越・北陸新幹線が運転見合わせ 人立ち入りの影響 再開の見込み立たず
+(21:45) #ニュース
+
+🚄鉄道運行情報
+🔗https://transit.yahoo.co.jp/diainfo
+
+[2025-12-08 21:46:18](https://bsky.app/profile/sokuho.news/post/3m7i2rbe7ke26)
 
 ---
 
 @reuters.com
 
-Egypt's Palm Hills eyes $7 bln in sales at Abu Dhabi mega project, wider Gulf expansion reut.rs/3KNs4qL
+Carvana's S&P 500 entry caps stunning rebound, shares jump reut.rs/3Yf0gyE
 
-[2025-12-08 21:25:05](https://bsky.app/profile/reuters.com/post/3m7hzldi7vy2i)
+[2025-12-08 21:45:11](https://bsky.app/profile/reuters.com/post/3m7i2pbjktm27)
 
 ---
 
 @cnbc.com
 
-Netflix gets a downgrade after announcing Warner Bros. film and streaming acquisition
+Almost all companies with a 401(k) now allow Roth savings — here's who benefits
 
-[2025-12-08 21:22:57](https://bsky.app/profile/cnbc.com/post/3m7hzhjnsa22h)
+[2025-12-08 21:44:54](https://bsky.app/profile/cnbc.com/post/3m7i2orz4om2f)
 
 ---
 
 @wsj.com
 
-<strong><span style="color: red;">Breaking:</span> Berkshire Hathaway’s top ranks are changing hands as it prepares for the imminent retirement of Warren Buffett.</strong>
+Heard on the Street: A debate is raging over the accounting treatment of Nvidia chips and other AI equipment. This time, some of the AI companies’ critics may be overreaching.
 
-[2025-12-08 21:22:37](https://bsky.app/profile/wsj.com/post/3m7hzgwrgep24)
+[2025-12-08 21:43:21](https://bsky.app/profile/wsj.com/post/3m7i2lzh2ho2a)
 
 ---
 
-@financialtimes.com
+@cnbc.com
 
-Martin Parr, who has died aged 73, was the most celebrated photographer of British life in the past half century, and the most controversial: on.ft.com/4rJVruO
+Truist upgrades this discount retailer with ‘unicorn-like growth’
 
-[2025-12-08 21:21:37](https://bsky.app/profile/financialtimes.com/post/3m7hzf4sh3x2w)
+[2025-12-08 21:42:46](https://bsky.app/profile/cnbc.com/post/3m7i2kxrtva2i)
+
+---
+
+@reuters.com
+
+TKMS CEO expects decision over possible GNYK purchase in next few weeks reut.rs/4rYvRm2
+
+[2025-12-08 21:40:14](https://bsky.app/profile/reuters.com/post/3m7i2ggortm27)
 
 ---
 
 @nbcnews.com
 
-Newly uncovered photos of the Civil Rights icon Rosa Parks taken during the 1965 Selma-to-Montgomery march have been release to the Rosa Park Museum.
+Thailand launches airstrikes along the disputed border with Cambodia, as both sides accuse the other of attacking first.
 
-[2025-12-08 21:20:04](https://bsky.app/profile/nbcnews.com/post/3m7hzcerob72r)
-
----
-
-@financialtimes.com
-
-Trump’s America and a clash of civilisations with Europe on.ft.com/44KskO0
-
-[2025-12-08 21:18:28](https://bsky.app/profile/financialtimes.com/post/3m7hz7irugp23)
+[2025-12-08 21:40:13](https://bsky.app/profile/nbcnews.com/post/3m7i2gf3b4k2y)
 
 ---
 
-@wsj.com
+@nytimes.com
 
-Republicans have yet to coalesce around a healthcare strategy just days before an expected vote on extending enhanced Obamacare subsidies.
+The Supreme Court on Monday will consider whether President Trump can fire independent government officials despite laws meant to protect them from politics, a major test for the justices to determine how far to expand presidential power.
 
-[2025-12-08 21:17:12](https://bsky.app/profile/wsj.com/post/3m7hz5aagb722)
+[2025-12-08 21:40:06](https://bsky.app/profile/nytimes.com/post/3m7i2g77d6e2y)
 
 ---
 
-@npr.org
+@nhknewsunofficial.bsky.social
 
-It's always summer somewhere. Annie DiRusso and her band offer a five-song pageant full of clever costuming, synchronized dance moves and even a few behind-the-back guitar riffs. n.pr/4oLkSJR
+上越・北陸新幹線の上下線で運転見合わせ 再開の見込み立たず
+https://news.web.nhk/newsweb/na/na-k10014997801000
 
-[2025-12-08 21:17:07](https://bsky.app/profile/npr.org/post/3m7hz53wge22e)
+[2025-12-08 21:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7i2edk5vi2p)
 
 ---
 
