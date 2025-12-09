@@ -1,9 +1,9 @@
-# [2025-12-09 17:10 updated](2025_12_09.md)
+# [2025-12-09 17:30 updated](2025_12_09.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】現役ドラフトでカープ大道がヤクルトへ移籍『 5 年間で得た経験は今後の人生に大きく役立つものばかり』 (2025-12-09 17:05:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7k3r3ubkz2y" target="_blank">sokuho.news</a> (2025-12-09 17:09:25)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】複数の小学生が車にはねられる 下校中か けが人の情報も 山口市の国道9号線 (2025-12-09 17:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7k3kuclzy2p" target="_blank">sokuho.news</a> (2025-12-09 17:05:56)</span><span style="padding-right:50px;">India's record-low battery storage bids raise concerns over project viability reut.rs/4pPrSX0 <a href="https://bsky.app/profile/reuters.com/post/3m7k3jcypn32o" target="_blank">reuters.com</a> (2025-12-09 17:05:04)</span><span style="padding-right:50px;">巨人 坂本勇人 推定年俸3億円で契約更改 制限いっぱい40％減額 https://news.web.nhk/newsweb/na/na-k10014998931000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7k3fqudgt2e" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 17:03:02)</span><span style="padding-right:50px;">【3分でわかる就活・業界研究】人材業界　人手不足と働き方の多様化が追い風 www.nikkei.com/article/DGXZQO... <a href="https://bsky.app/profile/nikkei.com/post/3m7k3dp6l662k" target="_blank">nikkei.com</a> (2025-12-09 17:01:56)</span>
+<span style="padding-right:50px;">AFP Infographic chart showing foreign nationals on death row in Indonesia and time served behind bars <a href="https://bsky.app/profile/en.afp.com/post/3m7k4qyinet25" target="_blank">en.afp.com</a> (2025-12-09 17:27:15)</span><span style="padding-right:50px;">BREAKING: Lithuania’s government has declared a national emergency over security risks posed by balloons from Belarus. The balloons have repeatedly forced the closure of the Vilnius airport and are seen as a form of hybrid warfare. <a href="https://bsky.app/profile/apnews.com/post/3m7k4ninjkc2h" target="_blank">apnews.com</a> (2025-12-09 17:25:18)</span><span style="padding-right:50px;">Australia's central bank flags rate hike risk as it ends brief easing cycle reut.rs/44CjMJh <a href="https://bsky.app/profile/reuters.com/post/3m7k4n6vcyl2o" target="_blank">reuters.com</a> (2025-12-09 17:25:08)</span><span style="padding-right:50px;">福島第一原発 津波注意報で停止した処理水放出を再開 https://news.web.nhk/newsweb/na/na-k10014998921000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7k4lc62kt2r" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 17:24:02)</span><span style="padding-right:50px;">Treasury yields little changed as markets await jobs report <a href="https://bsky.app/profile/cnbc.com/post/3m7k4ipslww23" target="_blank">cnbc.com</a> (2025-12-09 17:22:38)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.32 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.91 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.26 (🔺0.34 : 2025-12-09)</span>
+<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.32 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.91 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.35 (🔺0.43 : 2025-12-09)</span>
   </div>
 </div>
 
@@ -32,23 +32,95 @@
 
 ## News Headlines
 
-1.  軽乗用車と接触　山口市の国道9号線で小学生がけが人
-2.  巨人・坂本勇人　推定年俸3億円で契約更改　制限いっぱい40％減額
-3.  印度の電池貯蔵力　世界新記録の価格で契約
-4.  中国の外国人投資　緑のエネルギーで80億ドルに
-5.  バングラデシュの政情不安　BNPとジャマイミー派の対立が深まる
-6.  東北新幹線　全線で運転再開　地震の影響で設備点検も異常なし
+1.  リトアニア政府がベラルーシからの安全上の脅威を理由に国家緊急事態宣言を発令
+2.  オーストラリア中央銀行が金利引き上げの可能性を示唆
+3.  福島第一原子力発電所　津波警戒レベルで出水停止した処理水の放出を再開
+4.  中国軍機が自衛隊機にレーダー照射　中国外務省「訓練中の捜索レーダー作動は正常な動き」
+5.  北海道北見市で店舗火災　大勢の消防車が消火活動中
+6.  経済産業省が危険運転の適用要件を見直し　遺族「抑止力になると信じている」
 
 ----
+
+@en.afp.com
+
+AFP Infographic chart showing foreign nationals on death row in Indonesia and time served behind bars
+
+[2025-12-09 17:27:15](https://bsky.app/profile/en.afp.com/post/3m7k4qyinet25)
+
+---
+
+@apnews.com
+
+<strong><span style="color: red;">BREAKING:</span> Lithuania’s government has declared a national emergency over security risks posed by balloons from Belarus. The balloons have repeatedly forced the closure of the Vilnius airport and are seen as a form of hybrid warfare.</strong>
+
+[2025-12-09 17:25:18](https://bsky.app/profile/apnews.com/post/3m7k4ninjkc2h)
+
+---
+
+@reuters.com
+
+Australia's central bank flags rate hike risk as it ends brief easing cycle reut.rs/44CjMJh
+
+[2025-12-09 17:25:08](https://bsky.app/profile/reuters.com/post/3m7k4n6vcyl2o)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+福島第一原発 津波注意報で停止した処理水放出を再開
+https://news.web.nhk/newsweb/na/na-k10014998921000
+
+[2025-12-09 17:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7k4lc62kt2r)
+
+---
+
+@cnbc.com
+
+Treasury yields little changed as markets await jobs report
+
+[2025-12-09 17:22:38](https://bsky.app/profile/cnbc.com/post/3m7k4ipslww23)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】「店舗のダクトから出火している」北見市の店舗で火事 消防車8台出動し消火活動中
+(2025-12-09 17:20) #ニュース
+
+[2025-12-09 17:20:30](https://bsky.app/profile/sokuho.news/post/3m7k4evt4kf2p)
+
+---
 
 @sokuho.news
 
 🛎️JNNより【速報】です。
 
-【速報】現役ドラフトでカープ大道がヤクルトへ移籍『 5 年間で得た経験は今後の人生に大きく役立つものばかり』
-(2025-12-09 17:05:00) #ニュース
+【速報】中国軍機が自衛隊機にレーダー照射 「訓練中の捜索レーダー作動は正常な動き」中国外務省報道官
+(2025-12-09 17:17:04) #ニュース
 
-[2025-12-09 17:09:25](https://bsky.app/profile/sokuho.news/post/3m7k3r3ubkz2y)
+[2025-12-09 17:19:06](https://bsky.app/profile/sokuho.news/post/3m7k4cfv36r2l)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+危険運転の適用要件見直し 遺族「抑止力になると信じている」
+https://news.web.nhk/newsweb/na/na-k10014998851000
+
+[2025-12-09 17:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7k4anh6lf24)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】神奈川・日向山で山火事 「中腹から煙」など複数の通報
+(2025-12-09 17:16) #ニュース
+
+[2025-12-09 17:16:22](https://bsky.app/profile/sokuho.news/post/3m7k45j3xhg2y)
 
 ---
 
@@ -56,79 +128,10 @@
 
 🛎️FNNより【速報】です。
 
-【速報】複数の小学生が車にはねられる 下校中か けが人の情報も 山口市の国道9号線
+【速報】小学生3人が車にはねられ負傷 横断歩道を横断中 車の運転手「止まろうとしたが止まれなかった」 山口市の国道9号線
 (2025-12-09 17:00) #ニュース
 
-[2025-12-09 17:05:56](https://bsky.app/profile/sokuho.news/post/3m7k3kuclzy2p)
-
----
-
-@reuters.com
-
-India's record-low battery storage bids raise concerns over project viability reut.rs/4pPrSX0
-
-[2025-12-09 17:05:04](https://bsky.app/profile/reuters.com/post/3m7k3jcypn32o)
-
----
-
-@nhknewsunofficial.bsky.social
-
-巨人 坂本勇人 推定年俸3億円で契約更改 制限いっぱい40％減額
-https://news.web.nhk/newsweb/na/na-k10014998931000
-
-[2025-12-09 17:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7k3fqudgt2e)
-
----
-
-@nikkei.com
-
-【3分でわかる就活・業界研究】人材業界　人手不足と働き方の多様化が追い風
-www.nikkei.com/article/DGXZQO...
-
-[2025-12-09 17:01:56](https://bsky.app/profile/nikkei.com/post/3m7k3dp6l662k)
-
----
-
-@reuters.com
-
-Gold prices dip as markets brace for 'hawkish' Fed tone reut.rs/3MqlpDx
-
-[2025-12-09 17:00:27](https://bsky.app/profile/reuters.com/post/3m7k3b23sxv2n)
-
----
-
-@aljazeera.com
-
-It comes as tension simmers along the border, threatening shaky truce between Islamabad and Kabul.
-
-[2025-12-09 17:00:26](https://bsky.app/profile/aljazeera.com/post/3m7k3azqq3y2z)
-
----
-
-@bloomberg.com
-
-Chinese foreign investment in green power jumped to $80 billion in the past year as Beijing leveraged its dominance in energy transition technologies, according to a think tank.
-
-[2025-12-09 17:00:14](https://bsky.app/profile/bloomberg.com/post/3m7k3anzh3f2h)
-
----
-
-@washingtonpost.com
-
-Column: Children understand that part of the season is about brightly wrapped packages. But sometimes adults worry over the complexities of who gets what (and who gives what).
-
-[2025-12-09 17:00:12](https://bsky.app/profile/washingtonpost.com/post/3m7k3amhdck2s)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】横断歩道を横断中の小学生3人が軽乗用車と接触か 小学生負傷 現場は県警本部につながる国道交差点 山口市
-(2025-12-09 16:44:00) #ニュース
-
-[2025-12-09 16:58:56](https://bsky.app/profile/sokuho.news/post/3m7k36ebiur2e)
+[2025-12-09 17:16:09](https://bsky.app/profile/sokuho.news/post/3m7k455abim2g)
 
 ---
 
