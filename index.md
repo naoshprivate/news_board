@@ -1,9 +1,9 @@
-# [2025-12-09 09:10 updated](2025_12_09.md)
+# [2025-12-09 09:30 updated](2025_12_09.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Club Brugge sack coach Hayen on eve of Arsenal Champions League visit reut.rs/3YgOwM2 <a href="https://bsky.app/profile/reuters.com/post/3m7jap4urp22o" target="_blank">reuters.com</a> (2025-12-09 09:05:08)</span><span style="padding-right:50px;">What do you get the bride who has everything? Tourists. on.wsj.com/48Xq8VQ <a href="https://bsky.app/profile/wsj.com/post/3m7jaozz7in22" target="_blank">wsj.com</a> (2025-12-09 09:05:05)</span><span style="padding-right:50px;">Millions of Americans have reported being victims of domestic violence. Experts say we need to talk about it more. <a href="https://bsky.app/profile/cbsnews.com/post/3m7jaowgms22y" target="_blank">cbsnews.com</a> (2025-12-09 09:05:01)</span><span style="padding-right:50px;">Asia-Pacific markets set to slip, tracking Wall Street losses ahead of Fed rate decision <a href="https://bsky.app/profile/cnbc.com/post/3m7jaocinst2g" target="_blank">cnbc.com</a> (2025-12-09 09:04:41)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:青森県東方沖, 深さ:30km マグニチュード:5.1, 最大震度:2 📍https://www.google.com/maps?q=40.8,143.0&ll=40.8,143.0&z=7&t=h 地震発生日時:2025-12-09 08:59頃 (10倍速▶210s→21s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m7jao26wsc2m" target="_blank">sokuho.news</a> (2025-12-09 09:04:31)</span>
+<span style="padding-right:50px;">Jimmy Kimmel has renewed his contract with Disney-owned ABC to continue hosting “Jimmy Kimmel Live!” for another year. https://cnn.it/4poHgJU <a href="https://bsky.app/profile/cnn.com/post/3m7jbzu5ykx2m" target="_blank">cnn.com</a> (2025-12-09 09:29:02)</span><span style="padding-right:50px;">【随時更新】ロシア ウクライナに軍事侵攻（12月9日の動き） https://news.web.nhk/newsweb/na/na-k10014973121000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jbwitp7v2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 09:27:07)</span><span style="padding-right:50px;">青森県の医療機関 4施設で停電や断水確認 上野厚労相 https://news.web.nhk/newsweb/na/na-k10014998531000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jbwdpn7t2g" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 09:27:02)</span><span style="padding-right:50px;">Sudan war: Air force's bombing of towns, markets and schools has killed hundreds, report says <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7jbvdjau22m" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-09 09:26:30)</span><span style="padding-right:50px;">Holders Palace at sixth-tier Macclesfield, Spurs host Villa in FA Cup reut.rs/4rJEyAn <a href="https://bsky.app/profile/reuters.com/post/3m7jbstmwhw2y" target="_blank">reuters.com</a> (2025-12-09 09:25:06)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50581.94 (🔻61.15 : 2025-12-08)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.31 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.92 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔺10.00 : 2025-12-08)</span><span style="padding-right:50px;">USD/JPY: 155.83 (🔻0.09 : 2025-12-09)</span>
+<span style="padding-right:50px;">NIKKEI: 50551.87 (🔻125.49 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.31 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.92 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3051.00 (🔻25.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 155.87 (🔻0.05 : 2025-12-09)</span>
   </div>
 </div>
 
@@ -32,44 +32,76 @@
 
 ## News Headlines
 
-1. 🚨青森県でM5.1地震　最大震度2を観測しました
-2. ワールドラーキング・デーとジュネーブを除外　国立公園の無料入場日
-3. ターナー・ロジエール氏が賭博に関与した疑いで有罪
-4. マイアミ・ヒートの選手が賭博関与疑いで起訴
-5. アメリカでDV被害者が多数　「話し合うべきだと考える」
-6. アメリカのトランプ前大統領の風力発電に関する決定を、連邦裁判所が無効と判決
+1. ロシア、ウクライナに軍事侵攻　軍事行動の進展は続く
+2. 青森県の医療機関４施設で停電や断水が確認される
+3. マッカーサー監督がパリセイバーとリバプールとの試合で負傷
+4. ロシア、ウクライナへの空爆　市街地や学校が被害
+5. ミャンマー、国軍がクーデターを継続
+6. 青森県沖で地震　最大震度2を観測
 
 ----
 
-@reuters.com
+@cnn.com
 
-Club Brugge sack coach Hayen on eve of Arsenal Champions League visit reut.rs/3YgOwM2
+Jimmy Kimmel has renewed his contract with Disney-owned ABC to continue hosting “Jimmy Kimmel Live!” for another year. https://cnn.it/4poHgJU
 
-[2025-12-09 09:05:08](https://bsky.app/profile/reuters.com/post/3m7jap4urp22o)
+[2025-12-09 09:29:02](https://bsky.app/profile/cnn.com/post/3m7jbzu5ykx2m)
 
 ---
 
-@wsj.com
+@nhknewsunofficial.bsky.social
 
-What do you get the bride who has everything? Tourists. on.wsj.com/48Xq8VQ
+【随時更新】ロシア ウクライナに軍事侵攻（12月9日の動き）
+https://news.web.nhk/newsweb/na/na-k10014973121000
 
-[2025-12-09 09:05:05](https://bsky.app/profile/wsj.com/post/3m7jaozz7in22)
+[2025-12-09 09:27:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jbwitp7v2j)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+青森県の医療機関 4施設で停電や断水確認 上野厚労相
+https://news.web.nhk/newsweb/na/na-k10014998531000
+
+[2025-12-09 09:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jbwdpn7t2g)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Sudan war: Air force's bombing of towns, markets and schools has killed hundreds, report says
+
+[2025-12-09 09:26:30](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7jbvdjau22m)
+
+---
+
+@reuters.com
+
+Holders Palace at sixth-tier Macclesfield, Spurs host Villa in FA Cup reut.rs/4rJEyAn
+
+[2025-12-09 09:25:06](https://bsky.app/profile/reuters.com/post/3m7jbstmwhw2y)
 
 ---
 
 @cbsnews.com
 
-Millions of Americans have reported being victims of domestic violence. Experts say we need to talk about it more.
+Royal Caribbean passenger who died on board cruise ship was served 33 drinks, lawsuit claims.
 
-[2025-12-09 09:05:01](https://bsky.app/profile/cbsnews.com/post/3m7jaowgms22y)
+[2025-12-09 09:25:00](https://bsky.app/profile/cbsnews.com/post/3m7jbsnu24k2y)
 
 ---
 
-@cnbc.com
+@sokuho.news
 
-Asia-Pacific markets set to slip, tracking Wall Street losses ahead of Fed rate decision
+🛎️JNNより【速報】です。
 
-[2025-12-09 09:04:41](https://bsky.app/profile/cnbc.com/post/3m7jaocinst2g)
+【速報】「列車と人が接触」JR山陽線の海田市駅付近の踏切で 西条-広島駅間で順次運転見合わせ
+(2025-12-09 09:19:00) #ニュース
+
+🚃鉄道運行情報
+🔗https://transit.yahoo.co.jp/diainfo
+
+[2025-12-09 09:23:37](https://bsky.app/profile/sokuho.news/post/3m7jbq62ztq2g)
 
 ---
 
@@ -77,13 +109,28 @@ Asia-Pacific markets set to slip, tracking Wall Street losses ahead of Fed rate 
 
 🔔防災科研より【強震モニタ】動画です。
 
-震源:青森県東方沖, 深さ:30km
-マグニチュード:5.1, 最大震度:2
-📍https://www.google.com/maps?q=40.8,143.0&ll=40.8,143.0&z=7&t=h
-地震発生日時:2025-12-09 08:59頃
-(10倍速▶210s→21s) #地震
+震源:青森県東方沖, 深さ:50km
+マグニチュード:4.4, 最大震度:2
+📍https://www.google.com/maps?q=41.2,142.3&ll=41.2,142.3&z=7&t=h
+地震発生日時:2025-12-09 09:18頃
+(10倍速▶180s→18s) #地震
 
-[2025-12-09 09:04:31](https://bsky.app/profile/sokuho.news/post/3m7jao26wsc2m)
+[2025-12-09 09:22:06](https://bsky.app/profile/sokuho.news/post/3m7jbnhgasl2l)
+
+---
+
+@nikkei.com
+
+習近平氏は何に怒ったのか　日清戦争に敗れた屈辱の記憶
+www.nikkei.com/article/DGXZQO...
+ 
+「劉公島」は中国にとって、格下と侮っていた日本に惨敗した屈辱の場所。清朝が誇った北洋艦隊の司令部がありましたが、日本軍の猛攻を受け全滅しました。
+ 
+習氏は2018年6月、そこにあえて足を運びました。
+ 
+中国は大国の地位をやっと取り戻したが、隙をみせればすぐどこかの国につけこまれる──。
+
+[2025-12-09 09:21:56](https://bsky.app/profile/nikkei.com/post/3m7jbn6dpib2j)
 
 ---
 
@@ -91,45 +138,13 @@ Asia-Pacific markets set to slip, tracking Wall Street losses ahead of Fed rate 
 
 🔔気象庁より【地震速報】です。
 
-8時59分頃、青森県・北海道・岩手県などで最大震度2の地震を観測しました。
-震源:青森県東方沖, 深さ:30km, 規模:M5.1
+9時18分頃、青森県・岩手県・北海道で最大震度2の地震を観測しました。
+震源:青森県東方沖, 深さ:50km, 規模:M4.4
 この地震による津波の心配はありません。
-(2025-12-09 09:03:52) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/09/2025-12-09-08-59-12.html?xlarge_image=1
+(2025-12-09 09:21:32) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/09/2025-12-09-09-18-36.html?xlarge_image=1
 
-[2025-12-09 09:03:52](https://bsky.app/profile/sokuho.news/post/3m7jamvb4en2e)
-
----
-
-@cnn.com
-
-Miami Heat player Terry Rozier pleaded not guilty to charges he helped gamblers placing bets on his performance in NBA games. 
-
-[2025-12-09 09:03:01](https://bsky.app/profile/cnn.com/post/3m7jaldssyu2i)
-
----
-
-@reuters.com
-
-Warby Parker, Google to launch AI-powered smart glasses in 2026 reut.rs/48Ish6y
-
-[2025-12-09 09:01:02](https://bsky.app/profile/reuters.com/post/3m7jahsciks2k)
-
----
-
-@apnews.com
-
-A federal magistrate judge on Monday rejected a bid by a former Colorado county clerk to be released from prison while she appeals her state conviction for orchestrating a data breach scheme driven by false claims about voting machine fraud in the 2020 presidential race.
-
-[2025-12-09 09:00:56](https://bsky.app/profile/apnews.com/post/3m7jahmi7sv2h)
-
----
-
-@cnbc.com
-
-Thanks to the rise of digital nomad visas, these four European countries let you move first and handle visa paperwork later, says She Hit Refresh founder Cepee Tabibian. 
-
-[2025-12-09 09:00:47](https://bsky.app/profile/cnbc.com/post/3m7jahe42el2g)
+[2025-12-09 09:21:33](https://bsky.app/profile/sokuho.news/post/3m7jbmilbb62w)
 
 ---
 
