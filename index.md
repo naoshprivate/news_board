@@ -1,9 +1,9 @@
-# [2025-12-09 20:30 updated](2025_12_09.md)
+# [2025-12-09 20:50 updated](2025_12_09.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Reporters Without Borders said on Tuesday that Israel was responsible for nearly half of all journalists killed this year worldwide, with 29 Palestinian reporters slain by its forces in Gaza ➡️ u.afp.com/S7fB <a href="https://bsky.app/profile/en.afp.com/post/3m7kgu7qzch2j" target="_blank">en.afp.com</a> (2025-12-09 20:28:01)</span><span style="padding-right:50px;">Hundreds of thousands of people fled a deadly border conflict between Thailand and Cambodia, the authorities said. The new wave of fighting has killed at least 10 people and injured nearly two dozen.  Here's what to know: nyti.ms/3MhYfzd <a href="https://bsky.app/profile/nytimes.com/post/3m7kgql7cvc2w" target="_blank">nytimes.com</a> (2025-12-09 20:25:59)</span><span style="padding-right:50px;">2025 will be world's second or third-hottest year on record, EU scientists say reut.rs/4iKIooX <a href="https://bsky.app/profile/reuters.com/post/3m7kgozo7iv27" target="_blank">reuters.com</a> (2025-12-09 20:25:07)</span><span style="padding-right:50px;">LIVE: UK finance minister Reeves questioned on budget youtube.com/live/L4wirMY... <a href="https://bsky.app/profile/reuters.com/post/3m7kgo5ru4s24" target="_blank">reuters.com</a> (2025-12-09 20:24:38)</span><span style="padding-right:50px;">ウクライナ和平案“米 ロシアの要求受け入れ迫る”米メディア https://news.web.nhk/newsweb/na/na-k10014999271000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7kgncw5xg2n" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 20:24:07)</span>
+<span style="padding-right:50px;">高市首相が深夜の地震対応、独り言「なんでこんなに遅いのか」 www.nikkei.com/article/DGXZQO...  高市早苗首相は12月8日深夜、青森県沖を震源とする地震の発生を受けて宿舎から首相官邸に駆けつけました。  官邸に向けて乗り込む車の手はずに時間がかかり、到着は地震発生からおよそ35分後。  事務方の対応に不満をぼやき、焦りをみせる場面もありました。 <a href="https://bsky.app/profile/nikkei.com/post/3m7khuaktdh2z" target="_blank">nikkei.com</a> (2025-12-09 20:45:56)</span><span style="padding-right:50px;">Bezos Earth Fund boosts marine conservation with $24.5 million reut.rs/3KLEIGO <a href="https://bsky.app/profile/reuters.com/post/3m7khss74in27" target="_blank">reuters.com</a> (2025-12-09 20:45:07)</span><span style="padding-right:50px;">One year ago today, the manager of a McDonald's restaurant in Altoona, Pennsylvania, reluctantly called 911 at the urging of perceptive and perturbed customers. https://cnn.it/3MscbGM <a href="https://bsky.app/profile/cnn.com/post/3m7khsoxbsn2n" target="_blank">cnn.com</a> (2025-12-09 20:45:04)</span><span style="padding-right:50px;">高市首相 “観光客と住民生活の両立へ 新サービス創出後押し” https://news.web.nhk/newsweb/na/na-k10014999311000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7khsq7zvh2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 20:45:03)</span><span style="padding-right:50px;">Nobels are a family affair as chefs cook up lavish banquet reut.rs/48CFUEo <a href="https://bsky.app/profile/reuters.com/post/3m7khk3mhqu2o" target="_blank">reuters.com</a> (2025-12-09 20:40:15)</span>
   </div>
 </div>
 
@@ -32,97 +32,108 @@
 
 ## News Headlines
 
-1. 29人のパレスチナ人記者がイスラエル軍に殺され、世界全体の記者殺害のほぼ半分を占める 
-2. 10人以上が死亡、20人以上が負傷、トンザンとカンボジアの国境で新たな暴力が発生
-3. 2025年は世界で2番目か3番目に暑い年になる
-4. ウクライナの和平案は米国がロシアの要求を受け入れる可能性が高まる
-5. 「年収の壁」引き上げを目指す自民党の税調
-6. チップメーカーのNvidiaが中国との合弁を進める
+1. 高市首相、深夜の地震対応で独り言「なんでこんなに遅いのか」
+2. ベゾス地球基金、海洋保護に24.5億ドルを投資
+3. 高市首相「観光客と住民生活の両立へ　新サービス創出
+4. 常陸宮妃の華子さま、10日から白内障手術を受ける
+5. キヤノンが開発中の「ナノインプリント」で半導体の製造コストを大幅に下げる
+6. ウクライナ和平案「米、ロシアの要求を受け入れ迫る」
 
 ----
 
-@en.afp.com
+@nikkei.com
 
-Reporters Without Borders said on Tuesday that Israel was responsible for nearly half of all journalists killed this year worldwide, with 29 Palestinian reporters slain by its forces in Gaza ➡️ u.afp.com/S7fB
+高市首相が深夜の地震対応、独り言「なんでこんなに遅いのか」
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-09 20:28:01](https://bsky.app/profile/en.afp.com/post/3m7kgu7qzch2j)
+高市早苗首相は12月8日深夜、青森県沖を震源とする地震の発生を受けて宿舎から首相官邸に駆けつけました。
+
+官邸に向けて乗り込む車の手はずに時間がかかり、到着は地震発生からおよそ35分後。
+
+事務方の対応に不満をぼやき、焦りをみせる場面もありました。
+
+[2025-12-09 20:45:56](https://bsky.app/profile/nikkei.com/post/3m7khuaktdh2z)
+
+---
+
+@reuters.com
+
+Bezos Earth Fund boosts marine conservation with $24.5 million reut.rs/3KLEIGO
+
+[2025-12-09 20:45:07](https://bsky.app/profile/reuters.com/post/3m7khss74in27)
+
+---
+
+@cnn.com
+
+One year ago today, the manager of a McDonald's restaurant in Altoona, Pennsylvania, reluctantly called 911 at the urging of perceptive and perturbed customers. https://cnn.it/3MscbGM
+
+[2025-12-09 20:45:04](https://bsky.app/profile/cnn.com/post/3m7khsoxbsn2n)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+高市首相 “観光客と住民生活の両立へ 新サービス創出後押し”
+https://news.web.nhk/newsweb/na/na-k10014999311000
+
+[2025-12-09 20:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7khsq7zvh2k)
+
+---
+
+@reuters.com
+
+Nobels are a family affair as chefs cook up lavish banquet reut.rs/48CFUEo
+
+[2025-12-09 20:40:15](https://bsky.app/profile/reuters.com/post/3m7khk3mhqu2o)
 
 ---
 
 @nytimes.com
 
-Hundreds of thousands of people fled a deadly border conflict between Thailand and Cambodia, the authorities said. The new wave of fighting has killed at least 10 people and injured nearly two dozen.
+Listen to “The Headlines,” which brings you the biggest stories of the day from the New York Times reporters who are covering them, all in about 10 minutes.
 
-Here's what to know: nyti.ms/3MhYfzd
-
-[2025-12-09 20:25:59](https://bsky.app/profile/nytimes.com/post/3m7kgql7cvc2w)
+[2025-12-09 20:40:03](https://bsky.app/profile/nytimes.com/post/3m7khjppjmx2l)
 
 ---
 
-@reuters.com
+@wsj.com
 
-2025 will be world's second or third-hottest year on record, EU scientists say reut.rs/4iKIooX
+Fed Chair Jerome Powell is expected to push for an interest-rate cut this week and signal a higher bar for further easing.
 
-[2025-12-09 20:25:07](https://bsky.app/profile/reuters.com/post/3m7kgozo7iv27)
-
----
-
-@reuters.com
-
-LIVE: UK finance minister Reeves questioned on budget youtube.com/live/L4wirMY...
-
-[2025-12-09 20:24:38](https://bsky.app/profile/reuters.com/post/3m7kgo5ru4s24)
+[2025-12-09 20:39:23](https://bsky.app/profile/wsj.com/post/3m7khikofpy2j)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-ウクライナ和平案“米 ロシアの要求受け入れ迫る”米メディア
-https://news.web.nhk/newsweb/na/na-k10014999271000
+常陸宮妃の華子さま 後発白内障の手術で10日から入院 宮内庁
+https://news.web.nhk/newsweb/na/na-k10014999221000
 
-[2025-12-09 20:24:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7kgncw5xg2n)
-
----
-
-@nhknewsunofficial.bsky.social
-
-参政 “新型コロナ対策の検証を” 有識者委設置の法案提出
-https://news.web.nhk/newsweb/na/na-k10014999261000
-
-[2025-12-09 20:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7kgn5yvfv2e)
-
----
-
-@nhknewsunofficial.bsky.social
-
-自民 税調「年収の壁」引き上げ 国民と合意目指す方針確認
-https://news.web.nhk/newsweb/na/na-k10014999251000
-
-[2025-12-09 20:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7kght54va2p)
-
----
-
-@npr.org
-
-Historically, Black bears were the biggest predator to travel the Big Bend area of Texas. But overhunting and habitat loss led to their decline. n.pr/48YV73Y
-
-[2025-12-09 20:18:28](https://bsky.app/profile/npr.org/post/3m7kgd5k34j2q)
+[2025-12-09 20:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7khhxuwaw2e)
 
 ---
 
 @reuters.com
 
-📈 Nvidia chips in on China deal, oil prices tumble, and Hollywood turns into a takeover drama. Get the latest market insights on Morning Bid reut.rs/48rVgg5
+Cyclone Ditwah to delay Sri Lanka's fragile recovery, worsen poverty reut.rs/4pV3Eul
 
-[2025-12-09 20:17:10](https://bsky.app/profile/reuters.com/post/3m7kgask3zs2p)
+[2025-12-09 20:35:06](https://bsky.app/profile/reuters.com/post/3m7khavduv527)
 
 ---
 
-@reuters.com
+@nikkei.com
 
-Haven cafe shuts as Russian attacks turn Ukraine's Kherson into ghost town reut.rs/3XIHXSh
+1.4ナノ半導体、電力10分の1で製造　DNPとキヤノンが2027年実用化
+www.nikkei.com/article/DGXZQO...
+ 
+最先端の半導体の量産には、強い光源を使ってウエハー（基板）上に回路図を転写するEUV露光装置が必要です。
+ 
+露光工程は半導体製造コストの3〜5割。回路が微細になるほど光を照射する回数が増え電力を使います。
+ 
+これに対して、キヤノンの「ナノインプリント」製造装置はウエハーにハンコを押すように回路をつくる技術。電力消費や導入費を抑え、AI半導体の製造コストを大幅に下げる可能性があります。
 
-[2025-12-09 20:15:22](https://bsky.app/profile/reuters.com/post/3m7kg5m4uk42a)
+[2025-12-09 20:31:57](https://bsky.app/profile/nikkei.com/post/3m7kh3acapx2z)
 
 ---
 
