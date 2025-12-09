@@ -1,9 +1,9 @@
-# [2025-12-09 22:50 updated](2025_12_09.md)
+# [2025-12-09 23:10 updated](2025_12_09.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">ICC sentences Darfur Janjaweed militia leader to 20 years reut.rs/4pkOMpg <a href="https://bsky.app/profile/reuters.com/post/3m7kojmlled2k" target="_blank">reuters.com</a> (2025-12-09 22:45:15)</span><span style="padding-right:50px;">Greek farmers continue nationwide blockades to protest delayed funding reut.rs/44hI2A3 <a href="https://bsky.app/profile/reuters.com/post/3m7koatqxt62d" target="_blank">reuters.com</a> (2025-12-09 22:40:21)</span><span style="padding-right:50px;">If you awake confused and panicked at the sound of your alarm clock beeping in the dark, you may find mornings more pleasant with a sunrise alarm clock. <a href="https://bsky.app/profile/nytimes.com/post/3m7koafhwkp2y" target="_blank">nytimes.com</a> (2025-12-09 22:40:06)</span><span style="padding-right:50px;">The Assemblies of God’s Royal Rangers program has drawn millions of boys with a promise of Christian discipline — but left some in the care of sexual predators, an NBC News investigation found.  <a href="https://bsky.app/profile/nbcnews.com/post/3m7koae6oqb2j" target="_blank">nbcnews.com</a> (2025-12-09 22:40:05)</span><span style="padding-right:50px;">Russia is pushing to take over all of eastern Ukraine's Donbas region, where one resident tells NPR that she feels her "life depends on how our guys at the front hold on." n.pr/4oIxmSw <a href="https://bsky.app/profile/npr.org/post/3m7ko26dfpu23" target="_blank">npr.org</a> (2025-12-09 22:36:37)</span>
+<span style="padding-right:50px;">Beyond pizza and pasta: Italy's culinary heritage awaits UNESCO nod reut.rs/4a109Oo <a href="https://bsky.app/profile/reuters.com/post/3m7kpn45x3z2e" target="_blank">reuters.com</a> (2025-12-09 23:05:06)</span><span style="padding-right:50px;">Corporate America is upbeat on economy, but less so on President Trump's handling of it: CNBC CFO survey <a href="https://bsky.app/profile/cnbc.com/post/3m7kpjc3nrg2f" target="_blank">cnbc.com</a> (2025-12-09 23:02:58)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:茨城県南部, 深さ:50km マグニチュード:3.0, 最大震度:1 📍https://www.google.com/maps?q=36.2,140.0&ll=36.2,140.0&z=7&t=h 地震発生日時:2025-12-09 22:58頃 (10倍速▶120s→12s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m7kpgdqp6c2d" target="_blank">sokuho.news</a> (2025-12-09 23:01:19)</span><span style="padding-right:50px;">The Dallas-area lawmaker announced her U.S. Senate run Dec. 8. She's expected to face off in a competitive Democratic primary with James Talarico. <a href="https://bsky.app/profile/usatoday.com/post/3m7kpftva2c2q" target="_blank">usatoday.com</a> (2025-12-09 23:01:03)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  22時58分頃、茨城県で最大震度1の地震を観測しました。 震源:茨城県南部, 深さ:50km, 規模:M3.0 この地震による津波の心配はありません。 (2025-12-09 23:00:53) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/09/2025-12-09-22-58-07.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3m7kpfmfxub2l" target="_blank">sokuho.news</a> (2025-12-09 23:00:55)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.32 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.92 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.38 (🔺0.46 : 2025-12-09)</span>
+<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.32 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.92 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.34 (🔺0.42 : 2025-12-09)</span>
   </div>
 </div>
 
@@ -32,101 +32,105 @@
 
 ## News Headlines
 
-以下の6つのニュースから重要なストーリーを選択し、ヘッダラインを日本語で作成します。
-
-1.  ICCはダルフールのジャンワイド派の指導者に20年間の刑期を言い渡す。
-2.  ギリシャの農家は、遅れてきた補助金に対する抗議活動を続けている。
-3.  「朝が嫌な気分で起きたら、日の出時計を使ってみてください。」
-4.  アメリカのNBCニュースの調査は、クリスチャンの厳格な教えを約束して、数百万の少年を引き付けたが、性的虐待の被害を受けた少年たちのいるような状況になった。
-5.  ロシアはウクライナのドネツィク地方のすべてを支配することを目指しており、ウクライナの女性は「前線で戦っている男性が死んだ場合、私の命は危険になる」と語っている。
-6.  バルチモアで突然のタッチダウンが取り消され、NFLの受信ルールの混乱が次々と起こり、Ravensコーチは「分かりません」と激怒している。
+1.  日本のプチ料理がUNESCOの文化遺産に登録されるか
+2.  米国企業は経済情勢は良好だがトランプ大統領の対応に不満
+3.  茨城県でM3.0の地震　最大震度1
+4.  2026年は株価の暴落に投資家が賭ける
+5.  ガザのジャーナリストの殺害を巡りイスラエル軍の責任が浮上
+6.  カナダの経済の強化と自主性を求める投資家が政府に要求
 
 ----
 
 @reuters.com
 
-ICC sentences Darfur Janjaweed militia leader to 20 years reut.rs/4pkOMpg
+Beyond pizza and pasta: Italy's culinary heritage awaits UNESCO nod reut.rs/4a109Oo
 
-[2025-12-09 22:45:15](https://bsky.app/profile/reuters.com/post/3m7kojmlled2k)
-
----
-
-@reuters.com
-
-Greek farmers continue nationwide blockades to protest delayed funding reut.rs/44hI2A3
-
-[2025-12-09 22:40:21](https://bsky.app/profile/reuters.com/post/3m7koatqxt62d)
-
----
-
-@nytimes.com
-
-If you awake confused and panicked at the sound of your alarm clock beeping in the dark, you may find mornings more pleasant with a sunrise alarm clock.
-
-[2025-12-09 22:40:06](https://bsky.app/profile/nytimes.com/post/3m7koafhwkp2y)
-
----
-
-@nbcnews.com
-
-The Assemblies of God’s Royal Rangers program has drawn millions of boys with a promise of Christian discipline — but left some in the care of sexual predators, an NBC News investigation found. 
-
-[2025-12-09 22:40:05](https://bsky.app/profile/nbcnews.com/post/3m7koae6oqb2j)
-
----
-
-@npr.org
-
-Russia is pushing to take over all of eastern Ukraine's Donbas region, where one resident tells NPR that she feels her "life depends on how our guys at the front hold on." n.pr/4oIxmSw
-
-[2025-12-09 22:36:37](https://bsky.app/profile/npr.org/post/3m7ko26dfpu23)
-
----
-
-@reuters.com
-
-TotalEnergies cements Namibia position with Galp asset swap reut.rs/3MiFtaW
-
-[2025-12-09 22:35:10](https://bsky.app/profile/reuters.com/post/3m7knxloarm2y)
+[2025-12-09 23:05:06](https://bsky.app/profile/reuters.com/post/3m7kpn45x3z2e)
 
 ---
 
 @cnbc.com
 
-Here are Tuesday's biggest analyst calls: Nvidia, Apple, Tesla, Micron, Viking, Netflix, Apple, Viking, Delta & more
+Corporate America is upbeat on economy, but less so on President Trump's handling of it: CNBC CFO survey
 
-[2025-12-09 22:34:33](https://bsky.app/profile/cnbc.com/post/3m7knwies6e2e)
+[2025-12-09 23:02:58](https://bsky.app/profile/cnbc.com/post/3m7kpjc3nrg2f)
+
+---
+
+@sokuho.news
+
+🔔防災科研より【強震モニタ】動画です。
+
+震源:茨城県南部, 深さ:50km
+マグニチュード:3.0, 最大震度:1
+📍https://www.google.com/maps?q=36.2,140.0&ll=36.2,140.0&z=7&t=h
+地震発生日時:2025-12-09 22:58頃
+(10倍速▶120s→12s) #地震
+
+[2025-12-09 23:01:19](https://bsky.app/profile/sokuho.news/post/3m7kpgdqp6c2d)
+
+---
+
+@usatoday.com
+
+The Dallas-area lawmaker announced her U.S. Senate run Dec. 8. She's expected to face off in a competitive Democratic primary with James Talarico.
+
+[2025-12-09 23:01:03](https://bsky.app/profile/usatoday.com/post/3m7kpftva2c2q)
+
+---
+
+@sokuho.news
+
+🔔気象庁より【地震速報】です。
+
+22時58分頃、茨城県で最大震度1の地震を観測しました。
+震源:茨城県南部, 深さ:50km, 規模:M3.0
+この地震による津波の心配はありません。
+(2025-12-09 23:00:53) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/09/2025-12-09-22-58-07.html?xlarge_image=1
+
+[2025-12-09 23:00:55](https://bsky.app/profile/sokuho.news/post/3m7kpfmfxub2l)
 
 ---
 
 @reuters.com
 
-🔊 'What's at stake in this case is how much control a president has over executive agencies that were set up by Congress to be somewhat insulated from White House control.' On the Reuters World News podcast today we discuss the FTC firing case at the Supreme Court reut.rs/48CGlyw
+Hedge funds and state-backed investors bet on volatility in 2026 reut.rs/4psuc6A
 
-[2025-12-09 22:34:21](https://bsky.app/profile/reuters.com/post/3m7knw4bwpc2f)
-
----
-
-@wsj.com
-
-A revoked touchdown in Baltimore fuels new ire about football’s reception rules. “Clear as mud,” howls the Ravens coach. on.wsj.com/44fyh5o
-
-[2025-12-09 22:33:35](https://bsky.app/profile/wsj.com/post/3m7knur56z72t)
+[2025-12-09 23:00:42](https://bsky.app/profile/reuters.com/post/3m7kpfaiheq22)
 
 ---
 
-@nikkei.com
+@washingtonpost.com
 
-病院が外国人受け入れに力　訪日客増加で、未払い対応など課題も
-www.nikkei.com/article/DGXZQO...
+Guest Column: The season of gifting is in full swing, but gifts can be tricky and rife with hidden hazards. In our research with 50 millennial women with cancer, we found a major mismatch between what people wanted and what they received — often driven by marketed care packages. 
 
-スキー場のふもとにある白馬インターナショナルクリニックはスタッフ全員が日本語と英語を話せます。
 
-12月下旬になると毎日40〜50人が駆け込み、およそ8割が外国人に。今季からはけがをした患者をゲレンデから運ぶ専用の搬送車も導入します。
+[2025-12-09 23:00:37](https://bsky.app/profile/washingtonpost.com/post/3m7kpf3mrlz2i)
 
-国がまとめる外国人患者の受け入れに協力的な医療機関は2025年9月時点で2548カ所と、2019年から1.6倍に増えました。
+---
 
-[2025-12-09 22:31:56](https://bsky.app/profile/nikkei.com/post/3m7knrs66uv2t)
+@apnews.com
+
+Jimmy Rogers admired Iowa State football from afar as Matt Campbell was leading the Cyclones through the best 10 years in program history, and he had designs on the coaching job long before it was open.
+
+[2025-12-09 23:00:36](https://bsky.app/profile/apnews.com/post/3m7kpf2j2vj2c)
+
+---
+
+@aljazeera.com
+
+Israeli forces in Gaza were responsible for 40 percent of journalist deaths, and jailed huge numbers also.
+
+[2025-12-09 23:00:26](https://bsky.app/profile/aljazeera.com/post/3m7kpeqsdta2h)
+
+---
+
+@bloomberg.com
+
+Technology investor Jim Balsillie is calling on Mark Carney’s government to do more to build economic resilience and exert sovereignty over Canadian data
+
+[2025-12-09 23:00:11](https://bsky.app/profile/bloomberg.com/post/3m7kpec6z7m2v)
 
 ---
 
