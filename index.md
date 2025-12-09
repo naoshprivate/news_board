@@ -1,9 +1,9 @@
-# [2025-12-09 13:50 updated](2025_12_09.md)
+# [2025-12-09 14:10 updated](2025_12_09.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The music streaming platform’s annual recap is such a success that other companies have followed suit, including language learning app Duolingo, exercise-tracking app Strava and YouTube, writes Emma Jacobs on.ft.com/4oLpkbo <a href="https://bsky.app/profile/financialtimes.com/post/3m7jqkr66qy23" target="_blank">financialtimes.com</a> (2025-12-09 13:49:02)</span><span style="padding-right:50px;">LIVE: Space crew returns from ISS  A Russian Soyuz MS-27 capsule carrying NASA astronaut Jonny Kim, Roscosmos cosmonauts Sergey Ryzhikov and Alexey Zubritskiy expected to land outside Zhezkazgan, Kazakhstan.  www.youtube.com/watch?v=OXY3... <a href="https://bsky.app/profile/reuters.com/post/3m7jqdehsos2y" target="_blank">reuters.com</a> (2025-12-09 13:44:53)</span><span style="padding-right:50px;">'Big Short' investor Burry says he owns Fannie, Freddie and sees upside from potential IPOs reut.rs/4rGTkrP <a href="https://bsky.app/profile/reuters.com/post/3m7jq2zyfaw2a" target="_blank">reuters.com</a> (2025-12-09 13:40:14)</span><span style="padding-right:50px;">In @nytopinion.nytimes.com   “Peering into a large index fund is like taking a tour of a hot-dog factory,” Jonathan Hillman writes. “Once you see everything that goes into the product — the good, the bad, the bizarre — it’s hard to unsee.” <a href="https://bsky.app/profile/nytimes.com/post/3m7jq2rct642g" target="_blank">nytimes.com</a> (2025-12-09 13:40:05)</span><span style="padding-right:50px;">定数削減法案 自民 鈴木幹事長“早期に審議入り会期内成立を” https://news.web.nhk/newsweb/na/na-k10014998791000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jptm7ezw2r" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 13:36:02)</span>
+<span style="padding-right:50px;">カーリング五輪世界最終予選 女子日本代表 5連勝で決定戦進出 https://news.web.nhk/newsweb/na/na-k10014998771000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jronai3z26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 14:09:03)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】家族1人死亡の民家火災は祖母の放火か 「自殺するため火をつけた」68歳の女を逮捕 殺人・殺人未遂の疑いも (2025-12-09 13:48:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7jrlcc7o22y" target="_blank">sokuho.news</a> (2025-12-09 14:07:13)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】旧統一教会が田中富弘会長の辞任発表 9日午後4時からの会見で経緯説明へ (2025-12-09 14:02:33) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7jrlabtqn2x" target="_blank">sokuho.news</a> (2025-12-09 14:07:11)</span><span style="padding-right:50px;">ドジャース監督 “投げないで” WBC 大谷翔平の打者専念を希望 https://news.web.nhk/newsweb/na/na-k10014998781000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jrjanftw2r" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 14:06:02)</span><span style="padding-right:50px;">大学のAI活用、二極化　入試で活用例も「不正」警戒で二の足なお www.nikkei.com/article/DGXZQO...   全体の4割を占める209校はまだ活用していないと回答。活用している大学についても「ほぼ大学全体で活用」としたのは全体の17%にとどまっています。   消極姿勢の背景とみられるのが、生成AI浸透によるマイナスの影響。   活用の懸念点を聞いたところ、約6割の大学が「リポートや論文などに不正利用される」。半数近くは「学生の思考力や創造性が損なわれる」と回答しました。 <a href="https://bsky.app/profile/nikkei.com/post/3m7jrbtqb372t" target="_blank">nikkei.com</a> (2025-12-09 14:01:56)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50642.07 (🔻35.29 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.32 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.91 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 155.98 (🔺0.06 : 2025-12-09)</span>
+<span style="padding-right:50px;">NIKKEI: 50629.40 (🔻47.96 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.32 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.91 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3067.00 (🔻9.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.05 (🔺0.13 : 2025-12-09)</span>
   </div>
 </div>
 
@@ -32,106 +32,111 @@
 
 ## News Headlines
 
-1.  デュアルスコープが年間まとめを成功させたため、他の企業もフォローしている
-2.  ロシア宇宙船がISSに戻りました
-3.  「ビッグショート」投資家は、ファニーフレディーマイクロインベストメントを所有し、IPOによる利益を期待しています
-4.  青森県で6強の地震、SNSで誤報に注意
-5.  メキシコの元大統領に逮捕状が発行されました
-6.  G7財務相会議で共同声明を発表、中国を念頭に置きます
+1. カーリング五輪世界最終予選　女子日本代表　5連勝で決定戦進出
+2. 旧統一教会　田中富広会長が辞任　9日午後4時からの会見で経緯説明へ
+3. 大谷翔平　WBCで打者専念を希望　ドジャース監督が意見表明
+4. 選択的夫婦別姓　国民投票の実施を決定　内閣総理大臣がprime ministerが発表
+5. 震度6強　青森県で地震　SNSに誤情報を注意
+6. 旧統一教会　田中富広会長の辞任　高裁の審理終結が区切りに
 
 ----
 
-@financialtimes.com
+@nhknewsunofficial.bsky.social
 
-The music streaming platform’s annual recap is such a success that other companies have followed suit, including language learning app Duolingo, exercise-tracking app Strava and YouTube, writes Emma Jacobs on.ft.com/4oLpkbo
+カーリング五輪世界最終予選 女子日本代表 5連勝で決定戦進出
+https://news.web.nhk/newsweb/na/na-k10014998771000
 
-[2025-12-09 13:49:02](https://bsky.app/profile/financialtimes.com/post/3m7jqkr66qy23)
-
----
-
-@reuters.com
-
-LIVE: Space crew returns from ISS
-
-A Russian Soyuz MS-27 capsule carrying NASA astronaut Jonny Kim, Roscosmos cosmonauts Sergey Ryzhikov and Alexey Zubritskiy expected to land outside Zhezkazgan, Kazakhstan.
-
-www.youtube.com/watch?v=OXY3...
-
-[2025-12-09 13:44:53](https://bsky.app/profile/reuters.com/post/3m7jqdehsos2y)
+[2025-12-09 14:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jronai3z26)
 
 ---
 
-@reuters.com
+@sokuho.news
 
-'Big Short' investor Burry says he owns Fannie, Freddie and sees upside from potential IPOs reut.rs/4rGTkrP
+🛎️JNNより【速報】です。
 
-[2025-12-09 13:40:14](https://bsky.app/profile/reuters.com/post/3m7jq2zyfaw2a)
+【速報】家族1人死亡の民家火災は祖母の放火か 「自殺するため火をつけた」68歳の女を逮捕 殺人・殺人未遂の疑いも
+(2025-12-09 13:48:00) #ニュース
+
+[2025-12-09 14:07:13](https://bsky.app/profile/sokuho.news/post/3m7jrlcc7o22y)
 
 ---
 
-@nytimes.com
+@sokuho.news
 
-In @nytopinion.nytimes.com 
+🛎️JNNより【速報】です。
 
-“Peering into a large index fund is like taking a tour of a hot-dog factory,” Jonathan Hillman writes. “Once you see everything that goes into the product — the good, the bad, the bizarre — it’s hard to unsee.”
+【速報】旧統一教会が田中富弘会長の辞任発表 9日午後4時からの会見で経緯説明へ
+(2025-12-09 14:02:33) #ニュース
 
-[2025-12-09 13:40:05](https://bsky.app/profile/nytimes.com/post/3m7jq2rct642g)
+[2025-12-09 14:07:11](https://bsky.app/profile/sokuho.news/post/3m7jrlabtqn2x)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-定数削減法案 自民 鈴木幹事長“早期に審議入り会期内成立を”
-https://news.web.nhk/newsweb/na/na-k10014998791000
+ドジャース監督 “投げないで” WBC 大谷翔平の打者専念を希望
+https://news.web.nhk/newsweb/na/na-k10014998781000
 
-[2025-12-09 13:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jptm7ezw2r)
+[2025-12-09 14:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jrjanftw2r)
 
 ---
 
 @nikkei.com
 
-青森で震度6強、SNS誤情報に注意　能登半島地震では虚偽の救助要請も
+大学のAI活用、二極化　入試で活用例も「不正」警戒で二の足なお
 www.nikkei.com/article/DGXZQO...
  
-「周辺の方は絶対に近づかないでください」。12月9日未明、Xに火災の画像が投稿されました。
+全体の4割を占める209校はまだ活用していないと回答。活用している大学についても「ほぼ大学全体で活用」としたのは全体の17%にとどまっています。
  
-青森市内で発生したとする説明と、「地震速報」「津波警報」のハッシュタグ。投稿にあった地名は実在せず、画像は転用とみられます。
+消極姿勢の背景とみられるのが、生成AI浸透によるマイナスの影響。
  
-過去の大災害ではデマで混乱も生じました。気象庁は今回、平常時より大きな地震の可能性が高まっているとしており、SNSの投稿内容に誤りがないか継続的な注意が必要です。
+活用の懸念点を聞いたところ、約6割の大学が「リポートや論文などに不正利用される」。半数近くは「学生の思考力や創造性が損なわれる」と回答しました。
 
-[2025-12-09 13:31:56](https://bsky.app/profile/nikkei.com/post/3m7jpm7hkr32g)
+[2025-12-09 14:01:56](https://bsky.app/profile/nikkei.com/post/3m7jrbtqb372t)
 
 ---
 
 @reuters.com
 
-Japan lifts tsunami warning after 7.5-magnitude earthquake reut.rs/4aJO3cC
+Defense bill would require US military to end reliance on Chinese display tech by 2030 reut.rs/48X3KvQ
 
-[2025-12-09 13:30:22](https://bsky.app/profile/reuters.com/post/3m7jpjfczjo2a)
+[2025-12-09 14:00:38](https://bsky.app/profile/reuters.com/post/3m7jr7j73vw2n)
 
 ---
 
 @aljazeera.com
 
-The arrest warrant for the country's former president comes amid a closely-fought election.
+More than 1,800 people have died as floods have ravaged Sri Lanka, Indonesia, Thailand and Malaysia.
 
-[2025-12-09 13:30:15](https://bsky.app/profile/aljazeera.com/post/3m7jpj6whjq2k)
-
----
-
-@bloomberg.com
-
-Mexico’s Congress is set to vote this week on President Claudia Sheinbaum’s proposed tariffs on China, part of a broader plan to shield local producers and ease trade tensions with the US
-
-[2025-12-09 13:30:11](https://bsky.app/profile/bloomberg.com/post/3m7jpj2n3ug2s)
+[2025-12-09 14:00:37](https://bsky.app/profile/aljazeera.com/post/3m7jr7ir7gd2f)
 
 ---
 
-@cnn.com
+@cnbc.com
 
-President Donald Trump said Mexico was treating America’s farmers unfairly, and he threatened the country with his favorite economic weapon: Higher tariffs. 
+The things people keep around are generally the ones they reach for when they need them.
 
-[2025-12-09 13:30:02](https://bsky.app/profile/cnn.com/post/3m7jpiskv2i2y)
+CNBC Make It staffers shared the six items that genuinely proved their worth in 2025.
+
+[2025-12-09 14:00:18](https://bsky.app/profile/cnbc.com/post/3m7jr6w73ls2e)
+
+---
+
+@washingtonpost.com
+
+Column: Even if you don’t think the position of the stars influences our lives, you’re probably still curious about whether birthdays of a feather flock together.
+
+Are some Zodiac signs, and birthdays, more widespread?
+
+[2025-12-09 14:00:09](https://bsky.app/profile/washingtonpost.com/post/3m7jr6nn3uk2x)
+
+---
+
+@nytimes.com
+
+Britain and Ireland have issued some of their strongest weather warnings as forecasters urged residents to brace for powerful winds and heavy rain from a storm that is expected to lash both countries from Tuesday through Wednesday.
+
+[2025-12-09 14:00:04](https://bsky.app/profile/nytimes.com/post/3m7jr6iiwsb24)
 
 ---
 
