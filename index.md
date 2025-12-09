@@ -1,9 +1,9 @@
-# [2025-12-09 09:30 updated](2025_12_09.md)
+# [2025-12-09 09:50 updated](2025_12_09.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Jimmy Kimmel has renewed his contract with Disney-owned ABC to continue hosting “Jimmy Kimmel Live!” for another year. https://cnn.it/4poHgJU <a href="https://bsky.app/profile/cnn.com/post/3m7jbzu5ykx2m" target="_blank">cnn.com</a> (2025-12-09 09:29:02)</span><span style="padding-right:50px;">【随時更新】ロシア ウクライナに軍事侵攻（12月9日の動き） https://news.web.nhk/newsweb/na/na-k10014973121000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jbwitp7v2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 09:27:07)</span><span style="padding-right:50px;">青森県の医療機関 4施設で停電や断水確認 上野厚労相 https://news.web.nhk/newsweb/na/na-k10014998531000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jbwdpn7t2g" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 09:27:02)</span><span style="padding-right:50px;">Sudan war: Air force's bombing of towns, markets and schools has killed hundreds, report says <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7jbvdjau22m" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-09 09:26:30)</span><span style="padding-right:50px;">Holders Palace at sixth-tier Macclesfield, Spurs host Villa in FA Cup reut.rs/4rJEyAn <a href="https://bsky.app/profile/reuters.com/post/3m7jbstmwhw2y" target="_blank">reuters.com</a> (2025-12-09 09:25:06)</span>
+<span style="padding-right:50px;">Size of new Milan ice hockey arena defended by organisers reut.rs/48CZEHR <a href="https://bsky.app/profile/reuters.com/post/3m7jcwocu5g22" target="_blank">reuters.com</a> (2025-12-09 09:45:09)</span><span style="padding-right:50px;">Arizona edges out Michigan as new No. 1 team in AP Top 25 reut.rs/3Mzu8Dj <a href="https://bsky.app/profile/reuters.com/post/3m7jcnujoe32d" target="_blank">reuters.com</a> (2025-12-09 09:40:13)</span><span style="padding-right:50px;">For the dreamiest roasted potatoes — with creamy insides and very crispy outsides — follow this classic Greek method. <a href="https://bsky.app/profile/nytimes.com/post/3m7jcnmdwhh2y" target="_blank">nytimes.com</a> (2025-12-09 09:40:05)</span><span style="padding-right:50px;">First Brands rescue loan tumbles in value as bankruptcy drags on on.ft.com/4a0kXpe <a href="https://bsky.app/profile/financialtimes.com/post/3m7jclk3p2x2q" target="_blank">financialtimes.com</a> (2025-12-09 09:38:55)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】小泉防衛大臣「航空情報や航行警報の事前通報の認識無し」 中国軍機による自衛隊機へのレーダー照射問題で反論 (2025-12-09 09:37:24) #ニュース  🟨警報注意報 🔗https://www.jma.go.jp/bosai/warning/ <a href="https://bsky.app/profile/sokuho.news/post/3m7jckwcw6z2y" target="_blank">sokuho.news</a> (2025-12-09 09:38:34)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50551.87 (🔻125.49 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.31 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.92 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3051.00 (🔻25.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 155.87 (🔻0.05 : 2025-12-09)</span>
+<span style="padding-right:50px;">NIKKEI: 50477.91 (🔻199.45 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.31 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.92 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3048.00 (🔻28.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 155.88 (🔻0.04 : 2025-12-09)</span>
   </div>
 </div>
 
@@ -32,62 +32,50 @@
 
 ## News Headlines
 
-1. ロシア、ウクライナに軍事侵攻　軍事行動の進展は続く
-2. 青森県の医療機関４施設で停電や断水が確認される
-3. マッカーサー監督がパリセイバーとリバプールとの試合で負傷
-4. ロシア、ウクライナへの空爆　市街地や学校が被害
-5. ミャンマー、国軍がクーデターを継続
-6. 青森県沖で地震　最大震度2を観測
+1. 
+小泉防衛大臣「航空情報や航行警報の事前通報の認識無し」と反論
+２.
+JR阪和線の一部区間で運転見合わせ
+３.
+習近平氏は「屈辱の記憶」に怒り　日清戦争の「劉公島」に思いを胸に
+４.
+北海道と青森県で110番通報　合わせて68件
+５.
+新千歳空港で天井の一部が落下
+６. 
+国道2号（下り）で自損事故　現場は3kmの渋滞
 
 ----
 
-@cnn.com
+@reuters.com
 
-Jimmy Kimmel has renewed his contract with Disney-owned ABC to continue hosting “Jimmy Kimmel Live!” for another year. https://cnn.it/4poHgJU
+Size of new Milan ice hockey arena defended by organisers reut.rs/48CZEHR
 
-[2025-12-09 09:29:02](https://bsky.app/profile/cnn.com/post/3m7jbzu5ykx2m)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【随時更新】ロシア ウクライナに軍事侵攻（12月9日の動き）
-https://news.web.nhk/newsweb/na/na-k10014973121000
-
-[2025-12-09 09:27:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jbwitp7v2j)
-
----
-
-@nhknewsunofficial.bsky.social
-
-青森県の医療機関 4施設で停電や断水確認 上野厚労相
-https://news.web.nhk/newsweb/na/na-k10014998531000
-
-[2025-12-09 09:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jbwdpn7t2g)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Sudan war: Air force's bombing of towns, markets and schools has killed hundreds, report says
-
-[2025-12-09 09:26:30](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7jbvdjau22m)
+[2025-12-09 09:45:09](https://bsky.app/profile/reuters.com/post/3m7jcwocu5g22)
 
 ---
 
 @reuters.com
 
-Holders Palace at sixth-tier Macclesfield, Spurs host Villa in FA Cup reut.rs/4rJEyAn
+Arizona edges out Michigan as new No. 1 team in AP Top 25 reut.rs/3Mzu8Dj
 
-[2025-12-09 09:25:06](https://bsky.app/profile/reuters.com/post/3m7jbstmwhw2y)
+[2025-12-09 09:40:13](https://bsky.app/profile/reuters.com/post/3m7jcnujoe32d)
 
 ---
 
-@cbsnews.com
+@nytimes.com
 
-Royal Caribbean passenger who died on board cruise ship was served 33 drinks, lawsuit claims.
+For the dreamiest roasted potatoes — with creamy insides and very crispy outsides — follow this classic Greek method.
 
-[2025-12-09 09:25:00](https://bsky.app/profile/cbsnews.com/post/3m7jbsnu24k2y)
+[2025-12-09 09:40:05](https://bsky.app/profile/nytimes.com/post/3m7jcnmdwhh2y)
+
+---
+
+@financialtimes.com
+
+First Brands rescue loan tumbles in value as bankruptcy drags on on.ft.com/4a0kXpe
+
+[2025-12-09 09:38:55](https://bsky.app/profile/financialtimes.com/post/3m7jclk3p2x2q)
 
 ---
 
@@ -95,56 +83,65 @@ Royal Caribbean passenger who died on board cruise ship was served 33 drinks, la
 
 🛎️JNNより【速報】です。
 
-【速報】「列車と人が接触」JR山陽線の海田市駅付近の踏切で 西条-広島駅間で順次運転見合わせ
+【速報】小泉防衛大臣「航空情報や航行警報の事前通報の認識無し」 中国軍機による自衛隊機へのレーダー照射問題で反論
+(2025-12-09 09:37:24) #ニュース
+
+🟨警報注意報
+🔗https://www.jma.go.jp/bosai/warning/
+
+[2025-12-09 09:38:34](https://bsky.app/profile/sokuho.news/post/3m7jckwcw6z2y)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】JR阪和線 一部区間で運転見合わせ 信号の確認で
+(2025-12-09 09:20) #ニュース
+
+🚃鉄道運行情報
+🔗https://transit.yahoo.co.jp/diainfo
+
+[2025-12-09 09:36:04](https://bsky.app/profile/sokuho.news/post/3m7jcggskba2h)
+
+---
+
+@reuters.com
+
+Trump calls EU fine on X 'nasty one', says Europe going in 'bad directions' reut.rs/4psqQ3q
+
+[2025-12-09 09:35:08](https://bsky.app/profile/reuters.com/post/3m7jcerfpel27)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+India cash transfers for women: Paying for unpaid household work
+
+[2025-12-09 09:33:46](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7jccdcny724)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】「列車と人が接触」JR山陽線の海田市駅構内で 西条-広島駅間で順次運転見合わせ
 (2025-12-09 09:19:00) #ニュース
 
 🚃鉄道運行情報
 🔗https://transit.yahoo.co.jp/diainfo
 
-[2025-12-09 09:23:37](https://bsky.app/profile/sokuho.news/post/3m7jbq62ztq2g)
+[2025-12-09 09:33:33](https://bsky.app/profile/sokuho.news/post/3m7jcbwfdg724)
 
 ---
 
-@sokuho.news
+@bloomberg.com
 
-🔔防災科研より【強震モニタ】動画です。
+Airline disruption is nothing unusual. But an operational meltdown at IndiGo these past few days has affected half a million people and triggered a government investigation. What went so badly wrong?
 
-震源:青森県東方沖, 深さ:50km
-マグニチュード:4.4, 最大震度:2
-📍https://www.google.com/maps?q=41.2,142.3&ll=41.2,142.3&z=7&t=h
-地震発生日時:2025-12-09 09:18頃
-(10倍速▶180s→18s) #地震
-
-[2025-12-09 09:22:06](https://bsky.app/profile/sokuho.news/post/3m7jbnhgasl2l)
-
----
-
-@nikkei.com
-
-習近平氏は何に怒ったのか　日清戦争に敗れた屈辱の記憶
-www.nikkei.com/article/DGXZQO...
- 
-「劉公島」は中国にとって、格下と侮っていた日本に惨敗した屈辱の場所。清朝が誇った北洋艦隊の司令部がありましたが、日本軍の猛攻を受け全滅しました。
- 
-習氏は2018年6月、そこにあえて足を運びました。
- 
-中国は大国の地位をやっと取り戻したが、隙をみせればすぐどこかの国につけこまれる──。
-
-[2025-12-09 09:21:56](https://bsky.app/profile/nikkei.com/post/3m7jbn6dpib2j)
-
----
-
-@sokuho.news
-
-🔔気象庁より【地震速報】です。
-
-9時18分頃、青森県・岩手県・北海道で最大震度2の地震を観測しました。
-震源:青森県東方沖, 深さ:50km, 規模:M4.4
-この地震による津波の心配はありません。
-(2025-12-09 09:21:32) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/09/2025-12-09-09-18-36.html?xlarge_image=1
-
-[2025-12-09 09:21:33](https://bsky.app/profile/sokuho.news/post/3m7jbmilbb62w)
+[2025-12-09 09:31:33](https://bsky.app/profile/bloomberg.com/post/3m7jc6ehfkl2d)
 
 ---
 
