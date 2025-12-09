@@ -1,9 +1,9 @@
-# [2025-12-10 00:10 updated](2025_12_10.md)
+# [2025-12-10 00:30 updated](2025_12_10.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Raul Malo, the soulful tenor and frontman of the genre-defying, Grammy-winning band The Mavericks, has died. He was 60. <a href="https://bsky.app/profile/apnews.com/post/3m7kta3eayq22" target="_blank">apnews.com</a> (2025-12-10 00:09:24)</span><span style="padding-right:50px;">Federal judge grants DOJ's request to unseal records from the investigation and criminal prosecution of Epstein associate Ghislaine Maxwell. https://cnn.it/3Yiqss8 <a href="https://bsky.app/profile/cnn.com/post/3m7kt7g2mvq2q" target="_blank">cnn.com</a> (2025-12-10 00:09:02)</span><span style="padding-right:50px;">Disney's chart is pointing to a rebound. How to capture a trading profit using options <a href="https://bsky.app/profile/cnbc.com/post/3m7kt3g7acr2j" target="_blank">cnbc.com</a> (2025-12-10 00:06:48)</span><span style="padding-right:50px;">Indian AI royalty proposal targets data practices of OpenAI, Google reut.rs/44j63Xz <a href="https://bsky.app/profile/reuters.com/post/3m7ksykkuht2a" target="_blank">reuters.com</a> (2025-12-10 00:05:11)</span><span style="padding-right:50px;">Judge unseals Ghislaine Maxwell grand jury materials, citing Epstein files act <a href="https://bsky.app/profile/cnbc.com/post/3m7ksx4mcrv2e" target="_blank">cnbc.com</a> (2025-12-10 00:04:23)</span>
+<span style="padding-right:50px;">The one thing Kamala Harris absolutely does not want to talk about is whether she is thinking about running for president again. “It’s three years from nooooow,” she told us. She is busy selling books — a lot of them. She is not yet selling herself. Read our full interview on what she plans next. <a href="https://bsky.app/profile/nytimes.com/post/3m7kud765t42q" target="_blank">nytimes.com</a> (2025-12-10 00:29:02)</span><span style="padding-right:50px;">The White House is taking some of the biggest steps yet to address the economic pain caused by its own tariff regime. <a href="https://bsky.app/profile/axios.com/post/3m7kua44udk2h" target="_blank">axios.com</a> (2025-12-10 00:27:19)</span><span style="padding-right:50px;">Trump criticises 'weak' European leaders over Ukraine and immigration <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7ku4khobd2y" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-10 00:25:19)</span><span style="padding-right:50px;">Rashan Brown's New York-based side hustle Poetry me, please — a series of poetry showcase events — brings in six figures per year. Here's how he built it.  <a href="https://bsky.app/profile/cnbc.com/post/3m7ku4ho5zi2j" target="_blank">cnbc.com</a> (2025-12-10 00:25:17)</span><span style="padding-right:50px;">Exclusive: Thailand says tariffs must not be used to force peace with Cambodia reut.rs/44Wuv0W <a href="https://bsky.app/profile/reuters.com/post/3m7ku46a7xg2n" target="_blank">reuters.com</a> (2025-12-10 00:25:06)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47836.52 (🔺112.00 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23511.39 (🔺6.78 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.60 (🔻0.96 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.85 (🔺0.93 : 2025-12-09)</span>
+<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47834.45 (🔺109.93 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23534.87 (🔺30.25 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.55 (🔻1.01 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.62 (🔺0.70 : 2025-12-09)</span>
   </div>
 </div>
 
@@ -32,94 +32,95 @@
 
 ## News Headlines
 
-1. ラウル・マロ氏、60歳で死去　マベリックスのボーカリスト
-2. エプスタイン関係者のマックスウェル氏の捜査文書が公開される
-3. ディズニー株が回復したか　オプションで利益を狩る方法
-4. 米国AIの規制強化　オープンAIとGoogleのデータ取り扱いが問題とされる
-5. 中国、ロシアと東シナ海での共同パトロールを実施
-6. ヨーロッパの企業が多様性への取り組みを縮小した理由
+1. 「ハリス氏は2025年大統領選挙に立候補するかどうか、明言しない」
+2. 「ウクライナと移民に関する欧州のリーダーを非難するトランプ氏」
+3. 「デジタルパフォーマンスで年商6桁を稼ぐラッシャン・ブラウン氏は何ができるのか」
+4. 「米国裁判所がエプスタイン事件の調査記録を公開するよう命じる」
+5. 「トランプ政権が空港改善計画に1億ドルを投入する」
+6. 「マイクロソフトがインドのAI基盤開発に17.5億ドルを投資する」
 
 ----
 
-@apnews.com
+@nytimes.com
 
-Raul Malo, the soulful tenor and frontman of the genre-defying, Grammy-winning band The Mavericks, has died. He was 60.
+The one thing Kamala Harris absolutely does not want to talk about is whether she is thinking about running for president again. “It’s three years from nooooow,” she told us. She is busy selling books — a lot of them. She is not yet selling herself.
+Read our full interview on what she plans next.
 
-[2025-12-10 00:09:24](https://bsky.app/profile/apnews.com/post/3m7kta3eayq22)
-
----
-
-@cnn.com
-
-Federal judge grants DOJ's request to unseal records from the investigation and criminal prosecution of Epstein associate Ghislaine Maxwell.
-https://cnn.it/3Yiqss8
-
-[2025-12-10 00:09:02](https://bsky.app/profile/cnn.com/post/3m7kt7g2mvq2q)
+[2025-12-10 00:29:02](https://bsky.app/profile/nytimes.com/post/3m7kud765t42q)
 
 ---
 
-@cnbc.com
+@axios.com
 
-Disney's chart is pointing to a rebound. How to capture a trading profit using options
+The White House is taking some of the biggest steps yet to address the economic pain caused by its own tariff regime.
 
-[2025-12-10 00:06:48](https://bsky.app/profile/cnbc.com/post/3m7kt3g7acr2j)
+[2025-12-10 00:27:19](https://bsky.app/profile/axios.com/post/3m7kua44udk2h)
 
 ---
 
-@reuters.com
+@bbcnews-world-rss.bsky.social
 
-Indian AI royalty proposal targets data practices of OpenAI, Google reut.rs/44j63Xz
+Trump criticises 'weak' European leaders over Ukraine and immigration
 
-[2025-12-10 00:05:11](https://bsky.app/profile/reuters.com/post/3m7ksykkuht2a)
+[2025-12-10 00:25:19](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7ku4khobd2y)
 
 ---
 
 @cnbc.com
 
-Judge unseals Ghislaine Maxwell grand jury materials, citing Epstein files act
+Rashan Brown's New York-based side hustle Poetry me, please — a series of poetry showcase events — brings in six figures per year. Here's how he built it. 
 
-[2025-12-10 00:04:23](https://bsky.app/profile/cnbc.com/post/3m7ksx4mcrv2e)
-
----
-
-@nhknewsunofficial.bsky.social
-
-中国 “東シナ海などの空域でロシア軍と合同パトロール実施”
-https://news.web.nhk/newsweb/na/na-k10014999531000
-
-[2025-12-10 00:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ksurglek2p)
-
----
-
-@usatoday.com
-
-These are the companies that rolled back DEI amid Trump backlash
-
-[2025-12-10 00:01:25](https://bsky.app/profile/usatoday.com/post/3m7ksrsvbin2u)
-
----
-
-@apnews.com
-
-Unable to wrap your hands around the season's hottest gift?
-
-[2025-12-10 00:01:23](https://bsky.app/profile/apnews.com/post/3m7ksrqyrw22j)
+[2025-12-10 00:25:17](https://bsky.app/profile/cnbc.com/post/3m7ku4ho5zi2j)
 
 ---
 
 @reuters.com
 
-IATA chief Walsh says Boeing delivery performance improving, confidence in Airbus lags reut.rs/44fKUgO
+Exclusive: Thailand says tariffs must not be used to force peace with Cambodia reut.rs/44Wuv0W
 
-[2025-12-10 00:01:13](https://bsky.app/profile/reuters.com/post/3m7ksrh2rxh2k)
+[2025-12-10 00:25:06](https://bsky.app/profile/reuters.com/post/3m7ku46a7xg2n)
 
 ---
 
-@aljazeera.com
+@washingtonpost.com
 
-The Southern Transitional Council says it now controls eight governorates in southern Yemen.
+<strong><span style="color: red;">Breaking news:</span> A federal judge ordered the release of grand jury materials in the case against Ghislaine Maxwell, saying that public access to the records is required by the Epstein Files Transparency Act that Congress previously approved. </strong><br><strong></strong>
 
-[2025-12-10 00:00:47](https://bsky.app/profile/aljazeera.com/post/3m7ksqom5hq27)
+[2025-12-10 00:22:35](https://bsky.app/profile/washingtonpost.com/post/3m7ktxnthgo2q)
+
+---
+
+@nytimes.com
+
+<strong><span style="color: red;">Breaking News</span>: A federal judge granted the government’s motion to unseal the records of the grand jury investigation of Ghislaine Maxwell, the longtime companion of Jeffrey Epstein who is serving a 20-year prison sentence after being convicted of sex-trafficking a minor and other counts.</strong>
+
+[2025-12-10 00:16:09](https://bsky.app/profile/nytimes.com/post/3m7ktm5weg52x)
+
+---
+
+@washingtonpost.com
+
+Trump Cabinet officials Sean P. Duffy and Robert F. Kennedy Jr. did pull-ups and introduced the $1 billion “Make Travel Family Friendly Again” initiative.
+
+The federal funding will be used to improve the passenger experience at airports. https://wapo.st/48WPKSO
+
+[2025-12-10 00:15:55](https://bsky.app/profile/washingtonpost.com/post/3m7ktlpyl622i)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+French feminists outraged by Brigitte Macron's comment about activists
+
+[2025-12-10 00:15:25](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7ktkubwpt2w)
+
+---
+
+@reuters.com
+
+200,000 flee new advance of Rwanda-backed rebels in Congo despite Trump peace deal reut.rs/4iImYso
+
+[2025-12-10 00:15:15](https://bsky.app/profile/reuters.com/post/3m7ktkjmf242y)
 
 ---
 
