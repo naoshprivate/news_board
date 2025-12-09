@@ -1,9 +1,9 @@
-# [2025-12-09 09:50 updated](2025_12_09.md)
+# [2025-12-09 10:10 updated](2025_12_09.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Size of new Milan ice hockey arena defended by organisers reut.rs/48CZEHR <a href="https://bsky.app/profile/reuters.com/post/3m7jcwocu5g22" target="_blank">reuters.com</a> (2025-12-09 09:45:09)</span><span style="padding-right:50px;">Arizona edges out Michigan as new No. 1 team in AP Top 25 reut.rs/3Mzu8Dj <a href="https://bsky.app/profile/reuters.com/post/3m7jcnujoe32d" target="_blank">reuters.com</a> (2025-12-09 09:40:13)</span><span style="padding-right:50px;">For the dreamiest roasted potatoes — with creamy insides and very crispy outsides — follow this classic Greek method. <a href="https://bsky.app/profile/nytimes.com/post/3m7jcnmdwhh2y" target="_blank">nytimes.com</a> (2025-12-09 09:40:05)</span><span style="padding-right:50px;">First Brands rescue loan tumbles in value as bankruptcy drags on on.ft.com/4a0kXpe <a href="https://bsky.app/profile/financialtimes.com/post/3m7jclk3p2x2q" target="_blank">financialtimes.com</a> (2025-12-09 09:38:55)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】小泉防衛大臣「航空情報や航行警報の事前通報の認識無し」 中国軍機による自衛隊機へのレーダー照射問題で反論 (2025-12-09 09:37:24) #ニュース  🟨警報注意報 🔗https://www.jma.go.jp/bosai/warning/ <a href="https://bsky.app/profile/sokuho.news/post/3m7jckwcw6z2y" target="_blank">sokuho.news</a> (2025-12-09 09:38:34)</span>
+<span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】小泉大臣が中国に反論「安全な距離を保っていた」中国軍機のレーダー照射問題 (10:07) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7jea24xpp27" target="_blank">sokuho.news</a> (2025-12-09 10:08:17)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】北海道宛ての荷物など配達に遅れ発生 青森県沖の地震の影響で (10:02) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m7jdx6ophh2p" target="_blank">sokuho.news</a> (2025-12-09 10:03:20)</span><span style="padding-right:50px;">Netflix、パラマウントとワーナー争奪戦　トランプ氏介入が波乱要因 www.nikkei.com/article/DGXZQO...   Netflixが11兆円で買収することで合意したワーナーに対し、パラマウントが16兆円で対抗買収提案を発表。   パラマウントが強気に出ているのは太いパイプを持つトランプ政権が後ろ盾となっているためです。   パラマウントを率いるデービッド・エリソン氏の父は米オラクル共同創業者、ラリー・エリソン氏。ラリー氏は共和党寄付者でトランプ氏と近く、トランプ氏はエリソン一家を「私の友人だ」と信頼しています。 <a href="https://bsky.app/profile/nikkei.com/post/3m7jduoswwn2e" target="_blank">nikkei.com</a> (2025-12-09 10:01:56)</span><span style="padding-right:50px;">Properties move fast in the city’s 48009 ZIP Code, which has a median list price of $1.43 million. on.wsj.com/48p2fGG <a href="https://bsky.app/profile/wsj.com/post/3m7jdtudsvk24" target="_blank">wsj.com</a> (2025-12-09 10:01:28)</span><span style="padding-right:50px;">A forgotten Art Nouveau masterpiece above Istanbul’s bustling street has been restored, offering locals and visitors a rare glimpse into the city’s cosmopolitan past. https://cnn.it/4pXafoi <a href="https://bsky.app/profile/cnn.com/post/3m7jdt3ecgt2n" target="_blank">cnn.com</a> (2025-12-09 10:01:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50477.91 (🔻199.45 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.31 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.92 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3048.00 (🔻28.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 155.88 (🔻0.04 : 2025-12-09)</span>
+<span style="padding-right:50px;">NIKKEI: 50521.40 (🔻155.96 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.31 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.92 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3054.00 (🔻22.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 155.94 (🔺0.02 : 2025-12-09)</span>
   </div>
 </div>
 
@@ -32,116 +32,105 @@
 
 ## News Headlines
 
-1. 
-小泉防衛大臣「航空情報や航行警報の事前通報の認識無し」と反論
-２.
-JR阪和線の一部区間で運転見合わせ
-３.
-習近平氏は「屈辱の記憶」に怒り　日清戦争の「劉公島」に思いを胸に
-４.
-北海道と青森県で110番通報　合わせて68件
-５.
-新千歳空港で天井の一部が落下
-６. 
-国道2号（下り）で自損事故　現場は3kmの渋滞
+1. 小泉防衛大臣が中国に反論「安全な距離を保っていた」
+2. 青森県で震度6強、住宅火災1件　負傷者30人
+3. Netflixがワーナーに対し16兆円で対抗買収提案を受けた
+4. 小泉防衛大臣「航空情報や航行警報の事前通報の認識無し」
+5. JR阪和線の一部区間で運転見合わせ
+6. インドで女性に給付金　家事代行料の支払いを開始
 
 ----
 
-@reuters.com
+@sokuho.news
 
-Size of new Milan ice hockey arena defended by organisers reut.rs/48CZEHR
+🔔ANNより【速報】です。
 
-[2025-12-09 09:45:09](https://bsky.app/profile/reuters.com/post/3m7jcwocu5g22)
+【速報】小泉大臣が中国に反論「安全な距離を保っていた」中国軍機のレーダー照射問題
+(10:07) #ニュース
 
----
-
-@reuters.com
-
-Arizona edges out Michigan as new No. 1 team in AP Top 25 reut.rs/3Mzu8Dj
-
-[2025-12-09 09:40:13](https://bsky.app/profile/reuters.com/post/3m7jcnujoe32d)
-
----
-
-@nytimes.com
-
-For the dreamiest roasted potatoes — with creamy insides and very crispy outsides — follow this classic Greek method.
-
-[2025-12-09 09:40:05](https://bsky.app/profile/nytimes.com/post/3m7jcnmdwhh2y)
-
----
-
-@financialtimes.com
-
-First Brands rescue loan tumbles in value as bankruptcy drags on on.ft.com/4a0kXpe
-
-[2025-12-09 09:38:55](https://bsky.app/profile/financialtimes.com/post/3m7jclk3p2x2q)
+[2025-12-09 10:08:17](https://bsky.app/profile/sokuho.news/post/3m7jea24xpp27)
 
 ---
 
 @sokuho.news
 
-🛎️JNNより【速報】です。
+🔔ANNより【速報】です。
 
-【速報】小泉防衛大臣「航空情報や航行警報の事前通報の認識無し」 中国軍機による自衛隊機へのレーダー照射問題で反論
-(2025-12-09 09:37:24) #ニュース
+【速報】北海道宛ての荷物など配達に遅れ発生 青森県沖の地震の影響で
+(10:02) #地震
 
-🟨警報注意報
-🔗https://www.jma.go.jp/bosai/warning/
-
-[2025-12-09 09:38:34](https://bsky.app/profile/sokuho.news/post/3m7jckwcw6z2y)
+[2025-12-09 10:03:20](https://bsky.app/profile/sokuho.news/post/3m7jdx6ophh2p)
 
 ---
 
-@sokuho.news
+@nikkei.com
 
-🛎️FNNより【速報】です。
+Netflix、パラマウントとワーナー争奪戦　トランプ氏介入が波乱要因
+www.nikkei.com/article/DGXZQO...
+ 
+Netflixが11兆円で買収することで合意したワーナーに対し、パラマウントが16兆円で対抗買収提案を発表。
+ 
+パラマウントが強気に出ているのは太いパイプを持つトランプ政権が後ろ盾となっているためです。
+ 
+パラマウントを率いるデービッド・エリソン氏の父は米オラクル共同創業者、ラリー・エリソン氏。ラリー氏は共和党寄付者でトランプ氏と近く、トランプ氏はエリソン一家を「私の友人だ」と信頼しています。
 
-【速報】JR阪和線 一部区間で運転見合わせ 信号の確認で
-(2025-12-09 09:20) #ニュース
+[2025-12-09 10:01:56](https://bsky.app/profile/nikkei.com/post/3m7jduoswwn2e)
 
-🚃鉄道運行情報
-🔗https://transit.yahoo.co.jp/diainfo
+---
 
-[2025-12-09 09:36:04](https://bsky.app/profile/sokuho.news/post/3m7jcggskba2h)
+@wsj.com
+
+Properties move fast in the city’s 48009 ZIP Code, which has a median list price of $1.43 million. on.wsj.com/48p2fGG
+
+[2025-12-09 10:01:28](https://bsky.app/profile/wsj.com/post/3m7jdtudsvk24)
+
+---
+
+@cnn.com
+
+A forgotten Art Nouveau masterpiece above Istanbul’s bustling street has been restored, offering locals and visitors a rare glimpse into the city’s cosmopolitan past. https://cnn.it/4pXafoi
+
+[2025-12-09 10:01:02](https://bsky.app/profile/cnn.com/post/3m7jdt3ecgt2n)
 
 ---
 
 @reuters.com
 
-Trump calls EU fine on X 'nasty one', says Europe going in 'bad directions' reut.rs/4psqQ3q
+Gavin McKenna, Zayne Parekh headline Canada's world junior camp roster reut.rs/4iH9E7E
 
-[2025-12-09 09:35:08](https://bsky.app/profile/reuters.com/post/3m7jcerfpel27)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-India cash transfers for women: Paying for unpaid household work
-
-[2025-12-09 09:33:46](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7jccdcny724)
+[2025-12-09 10:00:58](https://bsky.app/profile/reuters.com/post/3m7jdsxhucd2o)
 
 ---
 
-@sokuho.news
+@apnews.com
 
-🛎️JNNより【速報】です。
+A California man says he has marked his 15,000th spin on an auto-racing Disneyland attraction inspired by the animated film “Cars.”
 
-【速報】「列車と人が接触」JR山陽線の海田市駅構内で 西条-広島駅間で順次運転見合わせ
-(2025-12-09 09:19:00) #ニュース
+[2025-12-09 10:00:42](https://bsky.app/profile/apnews.com/post/3m7jdsij2ue2c)
 
-🚃鉄道運行情報
-🔗https://transit.yahoo.co.jp/diainfo
+---
 
-[2025-12-09 09:33:33](https://bsky.app/profile/sokuho.news/post/3m7jcbwfdg724)
+@usatoday.com
+
+President Trump wants the Supreme Court to overturn a 90-year-old precedent limiting his ability to remove leaders of independent agencies.
+
+[2025-12-09 10:00:38](https://bsky.app/profile/usatoday.com/post/3m7jdsesjnw2u)
+
+---
+
+@cnbc.com
+
+"Don't shut them down," says Brad Klontz, a financial psychologist, professor, and certified financial planner. Turn it into an opportunity to teach them about money. 
+
+[2025-12-09 10:00:37](https://bsky.app/profile/cnbc.com/post/3m7jdsdga5c2o)
 
 ---
 
 @bloomberg.com
 
-Airline disruption is nothing unusual. But an operational meltdown at IndiGo these past few days has affected half a million people and triggered a government investigation. What went so badly wrong?
+Texas Congresswoman Jasmine Crockett is launching a bid for the US Senate, aiming to parlay her social media following and fundraising prowess into a seat representing the Republican-dominated state
 
-[2025-12-09 09:31:33](https://bsky.app/profile/bloomberg.com/post/3m7jc6ehfkl2d)
+[2025-12-09 10:00:24](https://bsky.app/profile/bloomberg.com/post/3m7jdrxelsf2g)
 
 ---
 
