@@ -1,9 +1,9 @@
-# [2025-12-09 15:50 updated](2025_12_09.md)
+# [2025-12-09 16:10 updated](2025_12_09.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】東北新幹線 盛岡～新青森の上下が運転再開＜午後3時41分＞ (2025-12-09 15:45:00) #ニュース  🚄鉄道運行情報 🔗https://transit.yahoo.co.jp/diainfo <a href="https://bsky.app/profile/sokuho.news/post/3m7jx7kcfat27" target="_blank">sokuho.news</a> (2025-12-09 15:48:01)</span><span style="padding-right:50px;">New Zealand navy encountered Taiwan warship during strait transit last month reut.rs/44fcbjs <a href="https://bsky.app/profile/reuters.com/post/3m7jx2iedm32o" target="_blank">reuters.com</a> (2025-12-09 15:45:12)</span><span style="padding-right:50px;">Japan was assessing damage Tuesday and cautioning people of potential aftershocks after a late-night 7.5 magnitude earthquake caused injuries, light damage and a tsunami in Pacific coastal communities. <a href="https://bsky.app/profile/apnews.com/post/3m7jx2em3b52h" target="_blank">apnews.com</a> (2025-12-09 15:45:08)</span><span style="padding-right:50px;">Honduras' attorney general said Monday that he had ordered Honduran authorities and asked Interpol to execute a 2023 arrest order for Juan Orlando Hernández, pardoned by U.S. President Donald Trump. n.pr/4prsNx7 <a href="https://bsky.app/profile/npr.org/post/3m7jwxtedon2o" target="_blank">npr.org</a> (2025-12-09 15:43:42)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】小学校高学年の児童2人が50代とみられる男に殴られる 児童らは軽傷 住宅にボールが入りトラブルか 東京・大田区 警視庁 (2025-12-09 15:41:26) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7jwwfqtft2w" target="_blank">sokuho.news</a> (2025-12-09 15:42:55)</span>
+<span style="padding-right:50px;">Watching Netflix makes stocks go down: study on.ft.com/44LL27Y <a href="https://bsky.app/profile/financialtimes.com/post/3m7jycq5pmk2c" target="_blank">financialtimes.com</a> (2025-12-09 16:07:42)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】4月に五島市で発生の山火事「会社員の男性(67)を書類送検」廃棄物処理法と森林法違反の疑い《長崎》 (2025-12-09 16:02) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7jybm2kr62e" target="_blank">sokuho.news</a> (2025-12-09 16:07:04)</span><span style="padding-right:50px;">政治改革に関する衆院特別委 企業・団体献金3法案で質疑 https://news.web.nhk/newsweb/na/na-k10014998881000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jy7tnvmg2t" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 16:06:03)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】4月に五島市で発生の山火事「会社員の67歳男性を書類送検」廃棄物処理法と森林法違反の疑い《長崎》 (2025-12-09 16:02) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7jy7iukcz22" target="_blank">sokuho.news</a> (2025-12-09 16:05:54)</span><span style="padding-right:50px;">China's Li says tariff consequences increasingly evident reut.rs/48MdAzr <a href="https://bsky.app/profile/reuters.com/post/3m7jy5zp5np27" target="_blank">reuters.com</a> (2025-12-09 16:05:04)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.32 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.91 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 155.99 (🔺0.07 : 2025-12-09)</span>
+<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.32 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.91 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.10 (🔺0.18 : 2025-12-09)</span>
   </div>
 </div>
 
@@ -32,104 +32,116 @@
 
 ## News Headlines
 
-1.  速報：東北新幹線　盛岡～新青森の上下が運転再開＜午後3時41分＞
-2.  Honduras AG issues international arrest warrant for pardoned ex-president Hernandez
-3.  速報：長野道下り線　安曇野～麻績ICが通行止め　車両火災のため
-4.  US judge orders lifting of Trump-backed limits on pro-Palestinian Tufts student
-5.  速報：小学校高学年の児童2人が50代とみられる男に殴られる　児童らは軽傷
-6.  中国王毅外相「日本は戦後80年も歴史を徹底的には反省せず」
+1. Netflix視聴が株価に悪影響を及ぼす：研究
+2. 長崎県五島市で山火事の男性会社員を書類送検
+3. 政治改革に関する衆院特別委員会　企業・団体献金3法案で質疑
+4. 中国の李克強首相　関税への影響が顕著に
+5. 東北新幹線運転再開　約9時間ぶり
+6. ベネチアのクーデター阻止　政府は軍の反乱に対して大統領の不信任を発表
 
 ----
+
+@financialtimes.com
+
+Watching Netflix makes stocks go down: study on.ft.com/44LL27Y
+
+[2025-12-09 16:07:42](https://bsky.app/profile/financialtimes.com/post/3m7jycq5pmk2c)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】4月に五島市で発生の山火事「会社員の男性(67)を書類送検」廃棄物処理法と森林法違反の疑い《長崎》
+(2025-12-09 16:02) #ニュース
+
+[2025-12-09 16:07:04](https://bsky.app/profile/sokuho.news/post/3m7jybm2kr62e)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+政治改革に関する衆院特別委 企業・団体献金3法案で質疑
+https://news.web.nhk/newsweb/na/na-k10014998881000
+
+[2025-12-09 16:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jy7tnvmg2t)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】4月に五島市で発生の山火事「会社員の67歳男性を書類送検」廃棄物処理法と森林法違反の疑い《長崎》
+(2025-12-09 16:02) #ニュース
+
+[2025-12-09 16:05:54](https://bsky.app/profile/sokuho.news/post/3m7jy7iukcz22)
+
+---
+
+@reuters.com
+
+China's Li says tariff consequences increasingly evident reut.rs/48MdAzr
+
+[2025-12-09 16:05:04](https://bsky.app/profile/reuters.com/post/3m7jy5zp5np27)
+
+---
 
 @sokuho.news
 
 🛎️JNNより【速報】です。
 
-【速報】東北新幹線 盛岡～新青森の上下が運転再開＜午後3時41分＞
-(2025-12-09 15:45:00) #ニュース
+【速報】旧統一教会の田中富弘会長が辞任発表「解散命令」めぐる高裁審理終結や高額献金「補償委員会」設置など区切りに
+(2025-12-09 16:03:39) #ニュース
+
+[2025-12-09 16:04:25](https://bsky.app/profile/sokuho.news/post/3m7jy4ugkla2l)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】東北新幹線 9日午後3時41分に運転再開
+(2025-12-09 15:58:00) #ニュース
 
 🚄鉄道運行情報
 🔗https://transit.yahoo.co.jp/diainfo
 
-[2025-12-09 15:48:01](https://bsky.app/profile/sokuho.news/post/3m7jx7kcfat27)
-
----
-
-@reuters.com
-
-New Zealand navy encountered Taiwan warship during strait transit last month reut.rs/44fcbjs
-
-[2025-12-09 15:45:12](https://bsky.app/profile/reuters.com/post/3m7jx2iedm32o)
-
----
-
-@apnews.com
-
-Japan was assessing damage Tuesday and cautioning people of potential aftershocks after a late-night 7.5 magnitude earthquake caused injuries, light damage and a tsunami in Pacific coastal communities.
-
-[2025-12-09 15:45:08](https://bsky.app/profile/apnews.com/post/3m7jx2em3b52h)
-
----
-
-@npr.org
-
-Honduras' attorney general said Monday that he had ordered Honduran authorities and asked Interpol to execute a 2023 arrest order for Juan Orlando Hernández, pardoned by U.S. President Donald Trump. n.pr/4prsNx7
-
-[2025-12-09 15:43:42](https://bsky.app/profile/npr.org/post/3m7jwxtedon2o)
+[2025-12-09 16:03:18](https://bsky.app/profile/sokuho.news/post/3m7jy2u2njk2p)
 
 ---
 
 @sokuho.news
 
-🛎️JNNより【速報】です。
+🛎️NNNより【速報】です。
 
-【速報】小学校高学年の児童2人が50代とみられる男に殴られる 児童らは軽傷 住宅にボールが入りトラブルか 東京・大田区 警視庁
-(2025-12-09 15:41:26) #ニュース
+【速報】4月発生の五島市での山火事「67歳の会社員男性を書類送検」廃棄物処理法と森林法違反の疑い《長崎》
+(2025-12-09 16:02) #ニュース
 
-[2025-12-09 15:42:55](https://bsky.app/profile/sokuho.news/post/3m7jwwfqtft2w)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Goa nightclub owners fled to Thailand hours after deadly fire - police
-
-[2025-12-09 15:41:43](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7jwuce4qn2m)
+[2025-12-09 16:02:52](https://bsky.app/profile/sokuho.news/post/3m7jy23mzis2y)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@nikkei.com
 
-Ukraine prepares new peace plan as Zelensky rules out giving up land
+男女雇用機会均等法の策定に携わった岩田喜美枝さんは、今の日本をどう見ているのか？
+www.nikkei.com/article/DGXZQO...
+ 
+「変化が遅いと思う一方、40年前と比べれば全く違う世界になった。ただ女性の管理職や役員の登用には思った以上に時間がかかっている」
+ 
+「男性の育児参加が進んだ今では、産後6カ月を母親が、次の6カ月を父親が育休をとるのがいい。夫婦ともキャリアに響かず2人で子育てできる。そういう社会を目指してほしい」
 
-[2025-12-09 15:40:38](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7jwseagb52q)
-
----
-
-@reuters.com
-
-Honduras AG issues international arrest warrant for pardoned ex-president Hernandez reut.rs/4q0FoqU
-
-[2025-12-09 15:40:11](https://bsky.app/profile/reuters.com/post/3m7jwrk3ob727)
+[2025-12-09 16:01:57](https://bsky.app/profile/nikkei.com/post/3m7jxyhlaop2e)
 
 ---
 
-@sokuho.news
+@cnn.com
 
-🛎️JNNより【速報】です。
+Immigrant families held at a detention facility in Texas describe prolonged stays, despondent children, limited access to potable water and agents offering money for families to voluntarily leave the country, according to new court declarations. https://cnn.it/4pr3VW5
 
-【速報】「車同士の事故があった」岡山ブルーライン上で乗用車同士が正面衝突 君津JCT～西大寺ICで通行止め【9日午後3時半現在】
-(2025-12-09 15:26:00) #ニュース
-
-[2025-12-09 15:38:27](https://bsky.app/profile/sokuho.news/post/3m7jwog5j6u2d)
-
----
-
-@reuters.com
-
-Warner Bros' lack of response fueled Paramount's hostile bid, filing says reut.rs/3MqhExV
-
-[2025-12-09 15:35:08](https://bsky.app/profile/reuters.com/post/3m7jwiiwrex2a)
+[2025-12-09 16:01:02](https://bsky.app/profile/cnn.com/post/3m7jxwsw7gi2s)
 
 ---
 
