@@ -1,9 +1,9 @@
-# [2025-12-10 03:50 updated](2025_12_10.md)
+# [2025-12-10 04:10 updated](2025_12_10.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Spot silver climbs to $60 per ounce for first time reut.rs/4p2zQLL <a href="https://bsky.app/profile/reuters.com/post/3m7l7bzalrg2i" target="_blank">reuters.com</a> (2025-12-10 03:45:14)</span><span style="padding-right:50px;">Justice Department lawyers said that a recent ruling barring their access to key evidence has effectively crippled their efforts to reindict former FBI director James Comey, two weeks after their original case against him was dismissed. <a href="https://bsky.app/profile/washingtonpost.com/post/3m7l7bqlulh2o" target="_blank">washingtonpost.com</a> (2025-12-10 03:45:05)</span><span style="padding-right:50px;">Walmart's move to Nasdaq is part of a wider plan to build an AI and e-commerce powerhouse, investors say <a href="https://bsky.app/profile/cnbc.com/post/3m7l7bqqjzg2s" target="_blank">cnbc.com</a> (2025-12-10 03:45:05)</span><span style="padding-right:50px;">The 33-year-old singer collaborated with Nobel Prize winner María Corina Machado during last year's highly-contested elections in Venezuela. n.pr/4iWoxTJ <a href="https://bsky.app/profile/npr.org/post/3m7l77ah63h23" target="_blank">npr.org</a> (2025-12-10 03:43:41)</span><span style="padding-right:50px;">Standard Chartered cuts bitcoin forecast in half <a href="https://bsky.app/profile/cnbc.com/post/3m7l75qmzu22h" target="_blank">cnbc.com</a> (2025-12-10 03:42:51)</span>
+<span style="padding-right:50px;">You might think people would be more likely to fall for phishing scams on mobile phones because they are often on the go or multitasking when using them.  A recent study, however, suggests the opposite is true. <a href="https://bsky.app/profile/wsj.com/post/3m7lalueguk2l" target="_blank">wsj.com</a> (2025-12-10 04:08:38)</span><span style="padding-right:50px;">These young Australians grew up with social media - what do they think of the ban? <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7lakbhss32p" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-10 04:07:44)</span><span style="padding-right:50px;">The Indianapolis Colts have signed 44-year-old Philip Rivers out of retirement to the practice squad. The QB last played in the NFL in 2020. https://cnn.it/3Mp8dPf <a href="https://bsky.app/profile/cnn.com/post/3m7lajtddqg2q" target="_blank">cnn.com</a> (2025-12-10 04:07:30)</span><span style="padding-right:50px;">Trump told Politico today that if he could grade his own economy, he'd give himself an "A-plus" — an "A-plus-plus-plus-plus-plus-plus."  Polls, however, indicate that many Americans disagree with that sentiment. <a href="https://bsky.app/profile/axios.com/post/3m7laicaiqk22" target="_blank">axios.com</a> (2025-12-10 04:06:38)</span><span style="padding-right:50px;">Two cases of the MERS coronavirus were identified in France this month. Here's why that's surprising. <a href="https://bsky.app/profile/axios.com/post/3m7lahyvzxk2t" target="_blank">axios.com</a> (2025-12-10 04:06:29)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47609.92 (🔻114.60 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23597.80 (🔺93.19 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.75 (🔻0.81 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.91 (🔺0.99 : 2025-12-09)</span>
+<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47619.13 (🔻105.39 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23598.29 (🔺93.68 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.76 (🔻0.80 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.94 (🔺1.02 : 2025-12-09)</span>
   </div>
 </div>
 
@@ -32,92 +32,96 @@
 
 ## News Headlines
 
-1. シルバの値上がり　1オンスあたり60ドル初めて
-2. ドナルド・トランプ前FBI長官コミー再起訴をめぐり、司法省は有罪判決を受けた
-3. ワルマートがナスダックに上場　投資家は「AIとECマーケティングの強化を目指す」
-4. EUがポーランドの原子力発電所の補助金を承認
-5. ロシアがウクライナ戦争で軍事力の優位にあるとトランプ前大統領
-6. 米国の地震で日本の原子力発電所が被害を受けた
+1. NFL：コルツがリバースを復帰させた
+2. フランスで新型コロナのMERSが2例確認
+3. 米国で電力消費が2025・26年に記録高に
+4. ロシアの石油精製所が停電
+5. スキーの新人を救助するVermontの救助隊「SNSで情報が流れて、危険な場所に動く人が増えています」
+6. NASAの探査機「ボイジャー１号」が歴史的な里帰りを目指す
 
 ----
 
-@reuters.com
+@wsj.com
 
-Spot silver climbs to $60 per ounce for first time reut.rs/4p2zQLL
+You might think people would be more likely to fall for phishing scams on mobile phones because they are often on the go or multitasking when using them.
 
-[2025-12-10 03:45:14](https://bsky.app/profile/reuters.com/post/3m7l7bzalrg2i)
+A recent study, however, suggests the opposite is true.
 
----
-
-@washingtonpost.com
-
-Justice Department lawyers said that a recent ruling barring their access to key evidence has effectively crippled their efforts to reindict former FBI director James Comey, two weeks after their original case against him was dismissed.
-
-[2025-12-10 03:45:05](https://bsky.app/profile/washingtonpost.com/post/3m7l7bqlulh2o)
+[2025-12-10 04:08:38](https://bsky.app/profile/wsj.com/post/3m7lalueguk2l)
 
 ---
 
-@cnbc.com
+@bbcnews-world-rss.bsky.social
 
-Walmart's move to Nasdaq is part of a wider plan to build an AI and e-commerce powerhouse, investors say
+These young Australians grew up with social media - what do they think of the ban?
 
-[2025-12-10 03:45:05](https://bsky.app/profile/cnbc.com/post/3m7l7bqqjzg2s)
-
----
-
-@npr.org
-
-The 33-year-old singer collaborated with Nobel Prize winner María Corina Machado during last year's highly-contested elections in Venezuela. n.pr/4iWoxTJ
-
-[2025-12-10 03:43:41](https://bsky.app/profile/npr.org/post/3m7l77ah63h23)
-
----
-
-@cnbc.com
-
-Standard Chartered cuts bitcoin forecast in half
-
-[2025-12-10 03:42:51](https://bsky.app/profile/cnbc.com/post/3m7l75qmzu22h)
-
----
-
-@reuters.com
-
-Home Depot sees fiscal 2026 sales, profit below estimates amid sluggish spending reut.rs/4iMyBOV
-
-[2025-12-10 03:40:19](https://bsky.app/profile/reuters.com/post/3m7l6za2yxd2o)
-
----
-
-@reuters.com
-
-EU clears state aid for Poland’s first nuclear plant, PM Tusk says reut.rs/3MOyHJX
-
-[2025-12-10 03:35:10](https://bsky.app/profile/reuters.com/post/3m7l6pyyums2n)
-
----
-
-@financialtimes.com
-
- The meaning of China’s $1tn trade surplus on.ft.com/48Z425j  | opinion
-
-[2025-12-10 03:32:15](https://bsky.app/profile/financialtimes.com/post/3m7l6ks6b7s2n)
+[2025-12-10 04:07:44](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7lakbhss32p)
 
 ---
 
 @cnn.com
 
-Opponents of Missouri’s new congressional map submitted thousands of petition signatures on Tuesday calling for a statewide referendum on a redistricting plan backed by President Trump as part of his quest to hold on to a slim Republican majority in next year’s elections. https://cnn.it/4oMNemS
+The Indianapolis Colts have signed 44-year-old Philip Rivers out of retirement to the practice squad. The QB last played in the NFL in 2020. https://cnn.it/3Mp8dPf
 
-[2025-12-10 03:31:04](https://bsky.app/profile/cnn.com/post/3m7l6ioykiw2h)
+[2025-12-10 04:07:30](https://bsky.app/profile/cnn.com/post/3m7lajtddqg2q)
 
 ---
 
-@bloomberg.com
+@axios.com
 
-President Donald Trump said that Russia is a stronger military position in its war with Ukraine and chided European leaders for what he characterized as excessive dialog with scant results.
+Trump told Politico today that if he could grade his own economy, he'd give himself an "A-plus" — an "A-plus-plus-plus-plus-plus-plus."
 
-[2025-12-10 03:30:36](https://bsky.app/profile/bloomberg.com/post/3m7l6htvjov2o)
+Polls, however, indicate that many Americans disagree with that sentiment.
+
+[2025-12-10 04:06:38](https://bsky.app/profile/axios.com/post/3m7laicaiqk22)
+
+---
+
+@axios.com
+
+Two cases of the MERS coronavirus were identified in France this month. Here's why that's surprising.
+
+[2025-12-10 04:06:29](https://bsky.app/profile/axios.com/post/3m7lahyvzxk2t)
+
+---
+
+@yahoofinance.com
+
+Tesla unsupervised FSD milestone 'very close,' Piper Sandler says
+
+[2025-12-10 04:06:03](https://bsky.app/profile/yahoofinance.com/post/3m7lahaiftn2j)
+
+---
+
+@reuters.com
+
+US power use to reach record highs in 2025 and 2026, EIA says reut.rs/4psKhJe
+
+[2025-12-10 04:05:12](https://bsky.app/profile/reuters.com/post/3m7lafpuokh2i)
+
+---
+
+@reuters.com
+
+Russia's Syzran oil refinery halted by December 5 drone attack, sources say reut.rs/48vMldK
+
+[2025-12-10 04:01:02](https://bsky.app/profile/reuters.com/post/3m7la6c2bdx2i)
+
+---
+
+@apnews.com
+
+Stowe Mountain Rescue in Vermont has noticed a troubling trend among skiers. Influenced by social media, inexperienced skiers are venturing out of bounds, getting lost and needing rescue. 
+
+[2025-12-10 04:00:54](https://bsky.app/profile/apnews.com/post/3m7la5ztlxu2j)
+
+---
+
+@cnbc.com
+
+Precious Price was operating several short-term rentals in Atlanta, until Covid-19 made renting safely a challenge. She figured the best way to keep passive income flowing was to move into a smaller structure and list her main home on Airbnb.
+
+[2025-12-10 04:00:47](https://bsky.app/profile/cnbc.com/post/3m7la5ta5l423)
 
 ---
 
