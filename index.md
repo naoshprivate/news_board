@@ -1,9 +1,9 @@
-# [2025-12-09 23:10 updated](2025_12_09.md)
+# [2025-12-09 23:30 updated](2025_12_09.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Beyond pizza and pasta: Italy's culinary heritage awaits UNESCO nod reut.rs/4a109Oo <a href="https://bsky.app/profile/reuters.com/post/3m7kpn45x3z2e" target="_blank">reuters.com</a> (2025-12-09 23:05:06)</span><span style="padding-right:50px;">Corporate America is upbeat on economy, but less so on President Trump's handling of it: CNBC CFO survey <a href="https://bsky.app/profile/cnbc.com/post/3m7kpjc3nrg2f" target="_blank">cnbc.com</a> (2025-12-09 23:02:58)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:茨城県南部, 深さ:50km マグニチュード:3.0, 最大震度:1 📍https://www.google.com/maps?q=36.2,140.0&ll=36.2,140.0&z=7&t=h 地震発生日時:2025-12-09 22:58頃 (10倍速▶120s→12s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m7kpgdqp6c2d" target="_blank">sokuho.news</a> (2025-12-09 23:01:19)</span><span style="padding-right:50px;">The Dallas-area lawmaker announced her U.S. Senate run Dec. 8. She's expected to face off in a competitive Democratic primary with James Talarico. <a href="https://bsky.app/profile/usatoday.com/post/3m7kpftva2c2q" target="_blank">usatoday.com</a> (2025-12-09 23:01:03)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  22時58分頃、茨城県で最大震度1の地震を観測しました。 震源:茨城県南部, 深さ:50km, 規模:M3.0 この地震による津波の心配はありません。 (2025-12-09 23:00:53) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/09/2025-12-09-22-58-07.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3m7kpfmfxub2l" target="_blank">sokuho.news</a> (2025-12-09 23:00:55)</span>
+<span style="padding-right:50px;">Australia has banned young teenagers from social media, launching a world-first crackdown designed to unglue children from addictive scrolling on the likes of Facebook, Instagram and TikTok. The laws came into effect after midnight local time on Wednesday across Australia. 📷 AFP <a href="https://bsky.app/profile/en.afp.com/post/3m7kqxokw642x" target="_blank">en.afp.com</a> (2025-12-09 23:28:55)</span><span style="padding-right:50px;">As Australia’s social media ban takes effect, here’s a summary of what other countries and tech companies are doing to regulate access to social media reut.rs/4a6Sj60 <a href="https://bsky.app/profile/reuters.com/post/3m7kqwuuyrc2f" target="_blank">reuters.com</a> (2025-12-09 23:28:28)</span><span style="padding-right:50px;">From Breakingviews - Breakingviews - Gulf Paramount bet’s logic is mostly non-financial reut.rs/4puRGYK <a href="https://bsky.app/profile/reuters.com/post/3m7kqqyn7kp2w" target="_blank">reuters.com</a> (2025-12-09 23:25:10)</span><span style="padding-right:50px;">President Trump has called European allies of the U.S. “weak” and criticized their handling of issues such as migration and the war in Ukraine. “I think they don’t know what to do,” Trump said in an interview with Politico published Tuesday. “They’re decaying.”   Follow live. <a href="https://bsky.app/profile/nytimes.com/post/3m7kqqs64fm2e" target="_blank">nytimes.com</a> (2025-12-09 23:25:04)</span><span style="padding-right:50px;"> In a tough year, private credit bosses are pointing fingers on.ft.com/4pX1Wc0  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m7kqjburj726" target="_blank">financialtimes.com</a> (2025-12-09 23:20:52)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.32 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.92 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.34 (🔺0.42 : 2025-12-09)</span>
+<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47744.89 (🔺20.37 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.31 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.45 (🔻0.11 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.44 (🔺0.52 : 2025-12-09)</span>
   </div>
 </div>
 
@@ -32,105 +32,95 @@
 
 ## News Headlines
 
-1.  日本のプチ料理がUNESCOの文化遺産に登録されるか
-2.  米国企業は経済情勢は良好だがトランプ大統領の対応に不満
-3.  茨城県でM3.0の地震　最大震度1
-4.  2026年は株価の暴落に投資家が賭ける
-5.  ガザのジャーナリストの殺害を巡りイスラエル軍の責任が浮上
-6.  カナダの経済の強化と自主性を求める投資家が政府に要求
+1. オーストラリア、16歳未満の子供用のソーシャルメディアを全面規制
+2. トランプ大統領、EU諸国を「弱い」と批判
+3. オーストラリアのソーシャルメディア規制、世界で初の試み
+4. ウクライナ大統領、ローマでパプア教皇と会見
+5. 恐竜の足跡16,600個発見、科学者が驚く
+6. FIFA会長、トランプ大統領に贈られた平和賞の選考過程で規定違反疑惑
 
 ----
 
-@reuters.com
+@en.afp.com
 
-Beyond pizza and pasta: Italy's culinary heritage awaits UNESCO nod reut.rs/4a109Oo
+Australia has banned young teenagers from social media, launching a world-first crackdown designed to unglue children from addictive scrolling on the likes of Facebook, Instagram and TikTok. The laws came into effect after midnight local time on Wednesday across Australia.
+📷 AFP
 
-[2025-12-09 23:05:06](https://bsky.app/profile/reuters.com/post/3m7kpn45x3z2e)
-
----
-
-@cnbc.com
-
-Corporate America is upbeat on economy, but less so on President Trump's handling of it: CNBC CFO survey
-
-[2025-12-09 23:02:58](https://bsky.app/profile/cnbc.com/post/3m7kpjc3nrg2f)
-
----
-
-@sokuho.news
-
-🔔防災科研より【強震モニタ】動画です。
-
-震源:茨城県南部, 深さ:50km
-マグニチュード:3.0, 最大震度:1
-📍https://www.google.com/maps?q=36.2,140.0&ll=36.2,140.0&z=7&t=h
-地震発生日時:2025-12-09 22:58頃
-(10倍速▶120s→12s) #地震
-
-[2025-12-09 23:01:19](https://bsky.app/profile/sokuho.news/post/3m7kpgdqp6c2d)
-
----
-
-@usatoday.com
-
-The Dallas-area lawmaker announced her U.S. Senate run Dec. 8. She's expected to face off in a competitive Democratic primary with James Talarico.
-
-[2025-12-09 23:01:03](https://bsky.app/profile/usatoday.com/post/3m7kpftva2c2q)
-
----
-
-@sokuho.news
-
-🔔気象庁より【地震速報】です。
-
-22時58分頃、茨城県で最大震度1の地震を観測しました。
-震源:茨城県南部, 深さ:50km, 規模:M3.0
-この地震による津波の心配はありません。
-(2025-12-09 23:00:53) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/09/2025-12-09-22-58-07.html?xlarge_image=1
-
-[2025-12-09 23:00:55](https://bsky.app/profile/sokuho.news/post/3m7kpfmfxub2l)
+[2025-12-09 23:28:55](https://bsky.app/profile/en.afp.com/post/3m7kqxokw642x)
 
 ---
 
 @reuters.com
 
-Hedge funds and state-backed investors bet on volatility in 2026 reut.rs/4psuc6A
+As Australia’s social media ban takes effect, here’s a summary of what other countries and tech companies are doing to regulate access to social media reut.rs/4a6Sj60
 
-[2025-12-09 23:00:42](https://bsky.app/profile/reuters.com/post/3m7kpfaiheq22)
+[2025-12-09 23:28:28](https://bsky.app/profile/reuters.com/post/3m7kqwuuyrc2f)
 
 ---
 
-@washingtonpost.com
+@reuters.com
 
-Guest Column: The season of gifting is in full swing, but gifts can be tricky and rife with hidden hazards. In our research with 50 millennial women with cancer, we found a major mismatch between what people wanted and what they received — often driven by marketed care packages. 
+From Breakingviews - Breakingviews - Gulf Paramount bet’s logic is mostly non-financial reut.rs/4puRGYK
 
+[2025-12-09 23:25:10](https://bsky.app/profile/reuters.com/post/3m7kqqyn7kp2w)
 
-[2025-12-09 23:00:37](https://bsky.app/profile/washingtonpost.com/post/3m7kpf3mrlz2i)
+---
+
+@nytimes.com
+
+President Trump has called European allies of the U.S. “weak” and criticized their handling of issues such as migration and the war in Ukraine. “I think they don’t know what to do,” Trump said in an interview with Politico published Tuesday. “They’re decaying.” 
+
+Follow live.
+
+[2025-12-09 23:25:04](https://bsky.app/profile/nytimes.com/post/3m7kqqs64fm2e)
+
+---
+
+@financialtimes.com
+
+ In a tough year, private credit bosses are pointing fingers on.ft.com/4pX1Wc0  | opinion
+
+[2025-12-09 23:20:52](https://bsky.app/profile/financialtimes.com/post/3m7kqjburj726)
+
+---
+
+@wsj.com
+
+Indiana went from one of college football’s losingest schools to the top team in the country. And it didn’t take endless hours on the practice field to get there.
+
+[2025-12-09 23:20:39](https://bsky.app/profile/wsj.com/post/3m7kqivzpkk22)
+
+---
+
+@nbcnews.com
+
+President Volodymyr Zelenskyy meets with Pope Leo XIV in Rome, as Ukraine prepares to send updated proposals to the U.S. for ending the war with Russia.
+
+[2025-12-09 23:20:05](https://bsky.app/profile/nbcnews.com/post/3m7kqhvaiff2y)
+
+---
+
+@cbsnews.com
+
+Paleontologists have discovered and documented 16,600 footprints left by theropods, the dinosaur group that includes the Tyrannosaurus rex. 
+
+[2025-12-09 23:20:01](https://bsky.app/profile/cbsnews.com/post/3m7kqhrqvxn2o)
+
+---
+
+@nytimes.com
+
+From @theathleticfc.bsky.social: FIFA president Gianni Infantino has been accused of breaching FIFA’s ethics codes in relation to the process that saw President Trump receive an inaugural peace prize.
+
+[2025-12-09 23:19:05](https://bsky.app/profile/nytimes.com/post/3m7kqg46rks27)
 
 ---
 
 @apnews.com
 
-Jimmy Rogers admired Iowa State football from afar as Matt Campbell was leading the Cyclones through the best 10 years in program history, and he had designs on the coaching job long before it was open.
+A Dominican court ordered a new trial for Tampa Bay Rays shortstop Wander Franco, who was convicted earlier this year of sexually abusing a minor.
 
-[2025-12-09 23:00:36](https://bsky.app/profile/apnews.com/post/3m7kpf2j2vj2c)
-
----
-
-@aljazeera.com
-
-Israeli forces in Gaza were responsible for 40 percent of journalist deaths, and jailed huge numbers also.
-
-[2025-12-09 23:00:26](https://bsky.app/profile/aljazeera.com/post/3m7kpeqsdta2h)
-
----
-
-@bloomberg.com
-
-Technology investor Jim Balsillie is calling on Mark Carney’s government to do more to build economic resilience and exert sovereignty over Canadian data
-
-[2025-12-09 23:00:11](https://bsky.app/profile/bloomberg.com/post/3m7kpec6z7m2v)
+[2025-12-09 23:15:58](https://bsky.app/profile/apnews.com/post/3m7kqajfaxz2i)
 
 ---
 
