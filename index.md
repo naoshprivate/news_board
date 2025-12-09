@@ -1,9 +1,9 @@
-# [2025-12-09 20:10 updated](2025_12_09.md)
+# [2025-12-09 20:30 updated](2025_12_09.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Republicans in Congress have shown some willingness to push back on President Trump, but it is not clear how far they are willing to push back against the leader of their own party. n.pr/4pWGDHy <a href="https://bsky.app/profile/npr.org/post/3m7kfojvsnv2f" target="_blank">npr.org</a> (2025-12-09 20:06:57)</span><span style="padding-right:50px;">Netflix and Paramount are competing for WBD in 2 very different ways <a href="https://bsky.app/profile/yahoofinance.com/post/3m7kfmxd2be2z" target="_blank">yahoofinance.com</a> (2025-12-09 20:06:04)</span><span style="padding-right:50px;">South Korea scrambles fighter jets as Chinese, Russian warplanes enter air defence zone reut.rs/4iOciZx <a href="https://bsky.app/profile/reuters.com/post/3m7kfliumsw2k" target="_blank">reuters.com</a> (2025-12-09 20:05:15)</span><span style="padding-right:50px;">Ukraine at 'critical moment' in war as European allies ramp up pressure on Russia <a href="https://bsky.app/profile/cnbc.com/post/3m7kfghig5n2q" target="_blank">cnbc.com</a> (2025-12-09 20:02:26)</span><span style="padding-right:50px;">Online discussion site Reddit on Tuesday condemned Australia's imminent social media ban for under-16s as "legally erroneous" but said it would comply with the landmark crackdown ➡️ u.afp.com/S7fA <a href="https://bsky.app/profile/en.afp.com/post/3m7kffxe7fk2z" target="_blank">en.afp.com</a> (2025-12-09 20:02:09)</span>
+<span style="padding-right:50px;">Reporters Without Borders said on Tuesday that Israel was responsible for nearly half of all journalists killed this year worldwide, with 29 Palestinian reporters slain by its forces in Gaza ➡️ u.afp.com/S7fB <a href="https://bsky.app/profile/en.afp.com/post/3m7kgu7qzch2j" target="_blank">en.afp.com</a> (2025-12-09 20:28:01)</span><span style="padding-right:50px;">Hundreds of thousands of people fled a deadly border conflict between Thailand and Cambodia, the authorities said. The new wave of fighting has killed at least 10 people and injured nearly two dozen.  Here's what to know: nyti.ms/3MhYfzd <a href="https://bsky.app/profile/nytimes.com/post/3m7kgql7cvc2w" target="_blank">nytimes.com</a> (2025-12-09 20:25:59)</span><span style="padding-right:50px;">2025 will be world's second or third-hottest year on record, EU scientists say reut.rs/4iKIooX <a href="https://bsky.app/profile/reuters.com/post/3m7kgozo7iv27" target="_blank">reuters.com</a> (2025-12-09 20:25:07)</span><span style="padding-right:50px;">LIVE: UK finance minister Reeves questioned on budget youtube.com/live/L4wirMY... <a href="https://bsky.app/profile/reuters.com/post/3m7kgo5ru4s24" target="_blank">reuters.com</a> (2025-12-09 20:24:38)</span><span style="padding-right:50px;">ウクライナ和平案“米 ロシアの要求受け入れ迫る”米メディア https://news.web.nhk/newsweb/na/na-k10014999271000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7kgncw5xg2n" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 20:24:07)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.32 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.92 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.12 (🔺0.20 : 2025-12-09)</span>
+<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.32 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.92 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.13 (🔺0.21 : 2025-12-09)</span>
   </div>
 </div>
 
@@ -32,97 +32,97 @@
 
 ## News Headlines
 
-1.  「米共和党議員、トランプ大統領に反発　しかし実力は限られている」
-2.  「中国製造業は、関税の混乱にもかかわらず伸び続ける」
-3.  「世界の地震発生　広島県を含む多くの地域で揺れが伝わる」
-4.  「日本の投資信託「つみたて枠」18歳未満にも解禁　年間60万円まで投資できる」
-5.  「EUは米国のIT巨大企業への取り組みに動じない　競争委員長の警告」
-6.  「インドは危機のインド・ゴーに5％の減便を命じる」
+1. 29人のパレスチナ人記者がイスラエル軍に殺され、世界全体の記者殺害のほぼ半分を占める 
+2. 10人以上が死亡、20人以上が負傷、トンザンとカンボジアの国境で新たな暴力が発生
+3. 2025年は世界で2番目か3番目に暑い年になる
+4. ウクライナの和平案は米国がロシアの要求を受け入れる可能性が高まる
+5. 「年収の壁」引き上げを目指す自民党の税調
+6. チップメーカーのNvidiaが中国との合弁を進める
 
 ----
 
-@npr.org
-
-Republicans in Congress have shown some willingness to push back on President Trump, but it is not clear how far they are willing to push back against the leader of their own party. n.pr/4pWGDHy
-
-[2025-12-09 20:06:57](https://bsky.app/profile/npr.org/post/3m7kfojvsnv2f)
-
----
-
-@yahoofinance.com
-
-Netflix and Paramount are competing for WBD in 2 very different ways
-
-[2025-12-09 20:06:04](https://bsky.app/profile/yahoofinance.com/post/3m7kfmxd2be2z)
-
----
-
-@reuters.com
-
-South Korea scrambles fighter jets as Chinese, Russian warplanes enter air defence zone reut.rs/4iOciZx
-
-[2025-12-09 20:05:15](https://bsky.app/profile/reuters.com/post/3m7kfliumsw2k)
-
----
-
-@cnbc.com
-
-Ukraine at 'critical moment' in war as European allies ramp up pressure on Russia
-
-[2025-12-09 20:02:26](https://bsky.app/profile/cnbc.com/post/3m7kfghig5n2q)
-
----
-
 @en.afp.com
 
-Online discussion site Reddit on Tuesday condemned Australia's imminent social media ban for under-16s as "legally erroneous" but said it would comply with the landmark crackdown ➡️ u.afp.com/S7fA
+Reporters Without Borders said on Tuesday that Israel was responsible for nearly half of all journalists killed this year worldwide, with 29 Palestinian reporters slain by its forces in Gaza ➡️ u.afp.com/S7fB
 
-[2025-12-09 20:02:09](https://bsky.app/profile/en.afp.com/post/3m7kffxe7fk2z)
-
----
-
-@wsj.com
-
-The Chinese manufacturing juggernaut shows little sign of slowing, despite the disruptions of tariffs.
-
-[2025-12-09 20:01:57](https://bsky.app/profile/wsj.com/post/3m7kffmhfv72j)
+[2025-12-09 20:28:01](https://bsky.app/profile/en.afp.com/post/3m7kgu7qzch2j)
 
 ---
 
-@nikkei.com
+@nytimes.com
 
-超知能使えば誰もがクリエイター　創意はプロンプトに宿る
-www.nikkei.com/article/DGXZQO...
+Hundreds of thousands of people fled a deadly border conflict between Thailand and Cambodia, the authorities said. The new wave of fighting has killed at least 10 people and injured nearly two dozen.
 
-#超知能 #日経_連載
+Here's what to know: nyti.ms/3MhYfzd
 
-[2025-12-09 20:01:56](https://bsky.app/profile/nikkei.com/post/3m7kffksb7j2j)
+[2025-12-09 20:25:59](https://bsky.app/profile/nytimes.com/post/3m7kgql7cvc2w)
 
 ---
 
 @reuters.com
 
-Thyssenkrupp warns of deep net loss in 2026 on steel restructuring costs reut.rs/3MiE8AZ
+2025 will be world's second or third-hottest year on record, EU scientists say reut.rs/4iKIooX
 
-[2025-12-09 20:00:49](https://bsky.app/profile/reuters.com/post/3m7kfdlqp2b2w)
-
----
-
-@cnbc.com
-
-Morningstar's Christine Benz encourages the “good enough” approach to managing finances.
-
-Though they may not be moves to “maximize” your finances, consider these four strategies, which she says will achieve similar results “with much less time and hassle.”
-
-[2025-12-09 20:00:22](https://bsky.app/profile/cnbc.com/post/3m7kfcroi322i)
+[2025-12-09 20:25:07](https://bsky.app/profile/reuters.com/post/3m7kgozo7iv27)
 
 ---
 
-@nbcnews.com
+@reuters.com
 
-The New Orleans Archdiocese will pay at least $230 million to hundreds of victims of clergy sexual abuse under a settlement approved by a federal judge that follows years of negotiations.
+LIVE: UK finance minister Reeves questioned on budget youtube.com/live/L4wirMY...
 
-[2025-12-09 20:00:19](https://bsky.app/profile/nbcnews.com/post/3m7kfcogndo2c)
+[2025-12-09 20:24:38](https://bsky.app/profile/reuters.com/post/3m7kgo5ru4s24)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+ウクライナ和平案“米 ロシアの要求受け入れ迫る”米メディア
+https://news.web.nhk/newsweb/na/na-k10014999271000
+
+[2025-12-09 20:24:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7kgncw5xg2n)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+参政 “新型コロナ対策の検証を” 有識者委設置の法案提出
+https://news.web.nhk/newsweb/na/na-k10014999261000
+
+[2025-12-09 20:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7kgn5yvfv2e)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+自民 税調「年収の壁」引き上げ 国民と合意目指す方針確認
+https://news.web.nhk/newsweb/na/na-k10014999251000
+
+[2025-12-09 20:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7kght54va2p)
+
+---
+
+@npr.org
+
+Historically, Black bears were the biggest predator to travel the Big Bend area of Texas. But overhunting and habitat loss led to their decline. n.pr/48YV73Y
+
+[2025-12-09 20:18:28](https://bsky.app/profile/npr.org/post/3m7kgd5k34j2q)
+
+---
+
+@reuters.com
+
+📈 Nvidia chips in on China deal, oil prices tumble, and Hollywood turns into a takeover drama. Get the latest market insights on Morning Bid reut.rs/48rVgg5
+
+[2025-12-09 20:17:10](https://bsky.app/profile/reuters.com/post/3m7kgask3zs2p)
+
+---
+
+@reuters.com
+
+Haven cafe shuts as Russian attacks turn Ukraine's Kherson into ghost town reut.rs/3XIHXSh
+
+[2025-12-09 20:15:22](https://bsky.app/profile/reuters.com/post/3m7kg5m4uk42a)
 
 ---
 
