@@ -1,9 +1,9 @@
-# [2025-12-10 01:10 updated](2025_12_10.md)
+# [2025-12-10 01:30 updated](2025_12_10.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Exclusive: US FDA launches fresh safety scrutiny of approved RSV therapies for infants reut.rs/48JXrL2 <a href="https://bsky.app/profile/reuters.com/post/3m7kwdwtfwm27" target="_blank">reuters.com</a> (2025-12-10 01:05:15)</span><span style="padding-right:50px;">Trump officials move to end student loan payment pause for millions of borrowers <a href="https://bsky.app/profile/cnbc.com/post/3m7kwa5r5x62e" target="_blank">cnbc.com</a> (2025-12-10 01:03:08)</span><span style="padding-right:50px;">Lithuania has declared a state of emergency after hundreds of smuggler balloons from neighbouring Belarus forced the repeated closure of its airports in recent weeks and threatened national security. on.ft.com/4pPKmXa <a href="https://bsky.app/profile/financialtimes.com/post/3m7kw75vtgc26" target="_blank">financialtimes.com</a> (2025-12-10 01:02:34)</span><span style="padding-right:50px;">The ‘Nash Falls’ novelist on his mother’s fearlessness, being a high school loner and his secret garden. on.wsj.com/4rN978q <a href="https://bsky.app/profile/wsj.com/post/3m7kw5mnw4c2r" target="_blank">wsj.com</a> (2025-12-10 01:01:43)</span><span style="padding-right:50px;">US container imports drop 7.8% in November amid China demand slump, Descartes Systems says reut.rs/4psTp0I <a href="https://bsky.app/profile/reuters.com/post/3m7kw4lxqgj22" target="_blank">reuters.com</a> (2025-12-10 01:01:08)</span>
+<span style="padding-right:50px;">China to limit access to Nvidia's H200 chips despite Trump export approval, FT reports reut.rs/48K1HKw <a href="https://bsky.app/profile/reuters.com/post/3m7kxhphjao2w" target="_blank">reuters.com</a> (2025-12-10 01:25:15)</span><span style="padding-right:50px;">Pfizer adds to obesity bet with up to $2.1 billion deal to develop Chinese company's pill <a href="https://bsky.app/profile/cnbc.com/post/3m7kxdg2rkf2a" target="_blank">cnbc.com</a> (2025-12-10 01:22:51)</span><span style="padding-right:50px;">VIDEO: 📱 Age verification tech grows as governments push for online controls  In most cases, all the technology requires is a head-on selfie taken with a phone or computer camera, and an automated decision is made within a minute <a href="https://bsky.app/profile/en.afp.com/post/3m7kxaprmpx2y" target="_blank">en.afp.com</a> (2025-12-10 01:21:20)</span><span style="padding-right:50px;">The "TODAY" show announces that Sheinelle Jones will co-host the fourth hour of the network’s flagship morning show alongside Jenna Bush Hager. <a href="https://bsky.app/profile/nbcnews.com/post/3m7kx6if6ge22" target="_blank">nbcnews.com</a> (2025-12-10 01:20:06)</span><span style="padding-right:50px;">Bari Weiss has hired Matt Gutman, a longtime ABC News journalist, as its chief correspondent, as she seeks to remake the storied news organization. <a href="https://bsky.app/profile/wsj.com/post/3m7kx3uqetq2o" target="_blank">wsj.com</a> (2025-12-10 01:18:38)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47878.86 (🔺154.34 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23568.42 (🔺63.80 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 185.07 (🔻0.49 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.86 (🔺0.94 : 2025-12-09)</span>
+<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47878.81 (🔺154.29 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23573.91 (🔺69.29 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 185.14 (🔻0.42 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.91 (🔺0.99 : 2025-12-09)</span>
   </div>
 </div>
 
@@ -32,92 +32,96 @@
 
 ## News Headlines
 
-1. 米国FDAがRSV治療薬の安全性を厳しく検討
-2. 米国政府が学生ローンの支払い停止を終了
-3. ベラルーシの密入国が原因でリトアニアが緊急事態宣言
-4. Netflixがワーナー・ブラザーズ・ディスカバリー買収を誤ったと分析家が言い
-5. ドナルド・トランプがEUの指導者を批判
-6. 政治化が国民生活を苦しめるとの意見が増えている
+1.  中国、NvidiaのH200チップへのアクセスを制限することを検討
+2.  Pfizer、中国企業との2.1億ドルの連携で肥満治療薬を開発
+3.  イギリス、ビザ制限強化　10.8億ポンドの経済損失を予測
+4.  リトアニア、ベラルーシからの密航者を阻止するために緊急事態宣言
+5.  ルイビルトン、メッシが2年連続MVPを受賞
+6.  米国、RSV治療薬に対する新たな安全性調査を開始
 
 ----
 
 @reuters.com
 
-Exclusive: US FDA launches fresh safety scrutiny of approved RSV therapies for infants reut.rs/48JXrL2
+China to limit access to Nvidia's H200 chips despite Trump export approval, FT reports reut.rs/48K1HKw
 
-[2025-12-10 01:05:15](https://bsky.app/profile/reuters.com/post/3m7kwdwtfwm27)
+[2025-12-10 01:25:15](https://bsky.app/profile/reuters.com/post/3m7kxhphjao2w)
 
 ---
 
 @cnbc.com
 
-Trump officials move to end student loan payment pause for millions of borrowers
+Pfizer adds to obesity bet with up to $2.1 billion deal to develop Chinese company's pill
 
-[2025-12-10 01:03:08](https://bsky.app/profile/cnbc.com/post/3m7kwa5r5x62e)
-
----
-
-@financialtimes.com
-
-Lithuania has declared a state of emergency after hundreds of smuggler balloons from neighbouring Belarus forced the repeated closure of its airports in recent weeks and threatened national security. on.ft.com/4pPKmXa
-
-[2025-12-10 01:02:34](https://bsky.app/profile/financialtimes.com/post/3m7kw75vtgc26)
+[2025-12-10 01:22:51](https://bsky.app/profile/cnbc.com/post/3m7kxdg2rkf2a)
 
 ---
 
-@wsj.com
+@en.afp.com
 
-The ‘Nash Falls’ novelist on his mother’s fearlessness, being a high school loner and his secret garden. on.wsj.com/4rN978q
+VIDEO: 📱 Age verification tech grows as governments push for online controls
 
-[2025-12-10 01:01:43](https://bsky.app/profile/wsj.com/post/3m7kw5mnw4c2r)
+In most cases, all the technology requires is a head-on selfie taken with a phone or computer camera, and an automated decision is made within a minute
 
----
-
-@reuters.com
-
-US container imports drop 7.8% in November amid China demand slump, Descartes Systems says reut.rs/4psTp0I
-
-[2025-12-10 01:01:08](https://bsky.app/profile/reuters.com/post/3m7kw4lxqgj22)
+[2025-12-10 01:21:20](https://bsky.app/profile/en.afp.com/post/3m7kxaprmpx2y)
 
 ---
 
 @nbcnews.com
 
-Despite soaring progress, scientists at AI’s largest gathering say key questions about how models work and how to measure them remain unsolved.
+The "TODAY" show announces that Sheinelle Jones will co-host the fourth hour of the network’s flagship morning show alongside Jenna Bush Hager.
 
-[2025-12-10 01:00:59](https://bsky.app/profile/nbcnews.com/post/3m7kw4cna4l27)
-
----
-
-@washingtonpost.com
-
-The percentage of medication abortions arranged via telehealth grew again in the first half of 2025, according to a report, despite Republican efforts to keep doctors in blue states from prescribing pills to women in states where abortion is illegal.
-
-[2025-12-10 01:00:44](https://bsky.app/profile/washingtonpost.com/post/3m7kw3uhn7c23)
+[2025-12-10 01:20:06](https://bsky.app/profile/nbcnews.com/post/3m7kx6if6ge22)
 
 ---
 
-@usatoday.com
+@wsj.com
 
-Marciano Brunette said in his defamation suit against Demi Engemann that she's repeated "false" claims that he'd assaulted her on "Vanderpump Villa."
+Bari Weiss has hired Matt Gutman, a longtime ABC News journalist, as its chief correspondent, as she seeks to remake the storied news organization.
 
-[2025-12-10 01:00:39](https://bsky.app/profile/usatoday.com/post/3m7kw3qaw3d2j)
+[2025-12-10 01:18:38](https://bsky.app/profile/wsj.com/post/3m7kx3uqetq2o)
 
 ---
 
-@aljazeera.com
+@reuters.com
 
-Donald Trump’s trade tariffs have failed to hold back China's export dominance, which scaled new heights in November.
+Brookfield and Qatar launch $20 billion AI infrastructure joint venture reut.rs/48NTTHB
 
-[2025-12-10 01:00:29](https://bsky.app/profile/aljazeera.com/post/3m7kw3glpn32c)
+[2025-12-10 01:15:16](https://bsky.app/profile/reuters.com/post/3m7kwvtuvjk2y)
+
+---
+
+@yahoonews.com
+
+Who else prefers self-checkout? 👀
+
+The number of shoppers guilty of not scanning items has increased by 12% since 2023, according to a LendingTree survey. Millennials (41%) and Gen Z adults (37%) were the most likely to admit to stealing at self-checkout. yhoo.it/3XFbJHH  
+
+[2025-12-10 01:12:38](https://bsky.app/profile/yahoonews.com/post/3m7kwr5j2oz2a)
+
+---
+
+@nytimes.com
+
+Zaynab Issa's quick skillet dinner of spiced ground beef over cooling cucumber yogurt is our most popular recipe of the year. Get the recipe: nyti.ms/48ldz6I
+
+[2025-12-10 01:12:03](https://bsky.app/profile/nytimes.com/post/3m7kwq4m34b2h)
+
+---
+
+@financialtimes.com
+
+Tighter visa rules will cost UK up to £10.8bn on.ft.com/4a1qjR6
+
+[2025-12-10 01:11:01](https://bsky.app/profile/financialtimes.com/post/3m7kwobhpu723)
 
 ---
 
 @apnews.com
 
-Cuba’s top court says a former economy minister was sentenced to life in prison for espionage, in the highest-profile case against an ex-official in recent years on the island. 
+Lionel Messi wins the MLS MVP award, becoming the first player to win the honor in back-to-back years.
 
-[2025-12-10 01:00:23](https://bsky.app/profile/apnews.com/post/3m7kw3ai5uy2y)
+[2025-12-10 01:10:35](https://bsky.app/profile/apnews.com/post/3m7kwni4pk32j)
 
 ---
 
