@@ -1,9 +1,9 @@
-# [2025-12-09 16:50 updated](2025_12_09.md)
+# [2025-12-09 17:10 updated](2025_12_09.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】小学生数人が軽乗用車と接触か 小学生負傷 山口市 (2025-12-09 16:44:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7k2mibpdf2w" target="_blank">sokuho.news</a> (2025-12-09 16:48:57)</span><span style="padding-right:50px;">Indian pride as Asiatic lions roar back  Nearly wiped out by hunting and habitat loss, by the early 20th century only about 20 Asiatic lions remained.  Now, in their last refuge, Gir National Park, lion numbers have risen by a third in five years, from 627 to 891 u.afp.com/S7Nj <a href="https://bsky.app/profile/en.afp.com/post/3m7k2ijcnqa2k" target="_blank">en.afp.com</a> (2025-12-09 16:46:44)</span><span style="padding-right:50px;">Australia's CBA pays over $524,000 penalty for consumer data rule breach reut.rs/48sj9nS <a href="https://bsky.app/profile/reuters.com/post/3m7k2friylc2r" target="_blank">reuters.com</a> (2025-12-09 16:45:11)</span><span style="padding-right:50px;">While tech giants like Google, Microsoft and OpenAI obsessively discuss monetizing AI, in India their approach is radical: give it away free <a href="https://bsky.app/profile/bloomberg.com/post/3m7k2fiv2q22q" target="_blank">bloomberg.com</a> (2025-12-09 16:45:03)</span><span style="padding-right:50px;">CNBC Daily Open: The Warner Bros. Discovery deal — a cliffhanger in the making? <a href="https://bsky.app/profile/cnbc.com/post/3m7k2bhbhpo2e" target="_blank">cnbc.com</a> (2025-12-09 16:42:47)</span>
+<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】現役ドラフトでカープ大道がヤクルトへ移籍『 5 年間で得た経験は今後の人生に大きく役立つものばかり』 (2025-12-09 17:05:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7k3r3ubkz2y" target="_blank">sokuho.news</a> (2025-12-09 17:09:25)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】複数の小学生が車にはねられる 下校中か けが人の情報も 山口市の国道9号線 (2025-12-09 17:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7k3kuclzy2p" target="_blank">sokuho.news</a> (2025-12-09 17:05:56)</span><span style="padding-right:50px;">India's record-low battery storage bids raise concerns over project viability reut.rs/4pPrSX0 <a href="https://bsky.app/profile/reuters.com/post/3m7k3jcypn32o" target="_blank">reuters.com</a> (2025-12-09 17:05:04)</span><span style="padding-right:50px;">巨人 坂本勇人 推定年俸3億円で契約更改 制限いっぱい40％減額 https://news.web.nhk/newsweb/na/na-k10014998931000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7k3fqudgt2e" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 17:03:02)</span><span style="padding-right:50px;">【3分でわかる就活・業界研究】人材業界　人手不足と働き方の多様化が追い風 www.nikkei.com/article/DGXZQO... <a href="https://bsky.app/profile/nikkei.com/post/3m7k3dp6l662k" target="_blank">nikkei.com</a> (2025-12-09 17:01:56)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.32 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.91 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.14 (🔺0.22 : 2025-12-09)</span>
+<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.32 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.91 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.26 (🔺0.34 : 2025-12-09)</span>
   </div>
 </div>
 
@@ -32,12 +32,12 @@
 
 ## News Headlines
 
-1.  8人死亡　タイ・カンボジアの武力衝突
-2.  東北新幹線　全線運転再開
-3.  旧統一教会の田中富広会長が辞任を発表
-4.  4月の山火事　長崎県で会社員男性を書類送検
-5.  インドのライオン　3年で数が倍増
-6.  アメリカのトランプ氏のNVIDIAチップへの派遣が中国に先んじた
+1.  軽乗用車と接触　山口市の国道9号線で小学生がけが人
+2.  巨人・坂本勇人　推定年俸3億円で契約更改　制限いっぱい40％減額
+3.  印度の電池貯蔵力　世界新記録の価格で契約
+4.  中国の外国人投資　緑のエネルギーで80億ドルに
+5.  バングラデシュの政情不安　BNPとジャマイミー派の対立が深まる
+6.  東北新幹線　全線で運転再開　地震の影響で設備点検も異常なし
 
 ----
 
@@ -45,95 +45,90 @@
 
 🛎️JNNより【速報】です。
 
-【速報】小学生数人が軽乗用車と接触か 小学生負傷 山口市
-(2025-12-09 16:44:00) #ニュース
+【速報】現役ドラフトでカープ大道がヤクルトへ移籍『 5 年間で得た経験は今後の人生に大きく役立つものばかり』
+(2025-12-09 17:05:00) #ニュース
 
-[2025-12-09 16:48:57](https://bsky.app/profile/sokuho.news/post/3m7k2mibpdf2w)
-
----
-
-@en.afp.com
-
-Indian pride as Asiatic lions roar back
-
-Nearly wiped out by hunting and habitat loss, by the early 20th century only about 20 Asiatic lions remained.  Now, in their last refuge, Gir National Park, lion numbers have risen by a third in five years, from 627 to 891
-u.afp.com/S7Nj
-
-[2025-12-09 16:46:44](https://bsky.app/profile/en.afp.com/post/3m7k2ijcnqa2k)
-
----
-
-@reuters.com
-
-Australia's CBA pays over $524,000 penalty for consumer data rule breach reut.rs/48sj9nS
-
-[2025-12-09 16:45:11](https://bsky.app/profile/reuters.com/post/3m7k2friylc2r)
-
----
-
-@bloomberg.com
-
-While tech giants like Google, Microsoft and OpenAI obsessively discuss monetizing AI, in India their approach is radical: give it away free
-
-[2025-12-09 16:45:03](https://bsky.app/profile/bloomberg.com/post/3m7k2fiv2q22q)
-
----
-
-@cnbc.com
-
-CNBC Daily Open: The Warner Bros. Discovery deal — a cliffhanger in the making?
-
-[2025-12-09 16:42:47](https://bsky.app/profile/cnbc.com/post/3m7k2bhbhpo2e)
-
----
-
-@reuters.com
-
-Six Pakistani soldiers killed in militant attack, sources say reut.rs/3KlpiZT
-
-[2025-12-09 16:40:07](https://bsky.app/profile/reuters.com/post/3m7k24p3pla2d)
+[2025-12-09 17:09:25](https://bsky.app/profile/sokuho.news/post/3m7k3r3ubkz2y)
 
 ---
 
 @sokuho.news
 
-🛎️JNNより【独自】です。
+🛎️FNNより【速報】です。
 
-【独自映像】「死ぬかと…」市街地に“逆走車”あわや正面衝突 ドライブレコーダーが間一髪の瞬間捉える 仙台・長町南三丁目
-(2025-12-09 15:56:00) #ニュース
+【速報】複数の小学生が車にはねられる 下校中か けが人の情報も 山口市の国道9号線
+(2025-12-09 17:00) #ニュース
 
-[2025-12-09 16:39:16](https://bsky.app/profile/sokuho.news/post/3m7k236sx2e2e)
-
----
-
-@nhknewsunofficial.bsky.social
-
-補正予算案 衆院から送付後 参院予算委2日間の総括質疑で合意
-https://news.web.nhk/newsweb/na/na-k10014998911000
-
-[2025-12-09 16:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7k22u56fi2u)
+[2025-12-09 17:05:56](https://bsky.app/profile/sokuho.news/post/3m7k3kuclzy2p)
 
 ---
 
 @reuters.com
 
-Rupee nudges higher, traders opt for nimble two-sided plays reut.rs/4a4IJ3n
+India's record-low battery storage bids raise concerns over project viability reut.rs/4pPrSX0
 
-[2025-12-09 16:35:05](https://bsky.app/profile/reuters.com/post/3m7jztpngci2a)
+[2025-12-09 17:05:04](https://bsky.app/profile/reuters.com/post/3m7k3jcypn32o)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+巨人 坂本勇人 推定年俸3億円で契約更改 制限いっぱい40％減額
+https://news.web.nhk/newsweb/na/na-k10014998931000
+
+[2025-12-09 17:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7k3fqudgt2e)
 
 ---
 
 @nikkei.com
 
-【介護倒産が最多ペース】
-自宅ケアかなわぬ未来、「訪問型ゼロ」の町村2割増
+【3分でわかる就活・業界研究】人材業界　人手不足と働き方の多様化が追い風
 www.nikkei.com/article/DGXZQO...
- 
-政府は高齢者が住み慣れた地域で、医療や介護、生活支援を垣根低く利用できる「地域包括ケアシステム」の構想を掲げてきました。
- 
-自宅で介護を受けられる訪問介護はその要の一つですが、倒産が増えて「空白地」が広がれば仕組みの根幹が揺らぎます。
 
-[2025-12-09 16:31:56](https://bsky.app/profile/nikkei.com/post/3m7jzo2zsjb2k)
+[2025-12-09 17:01:56](https://bsky.app/profile/nikkei.com/post/3m7k3dp6l662k)
+
+---
+
+@reuters.com
+
+Gold prices dip as markets brace for 'hawkish' Fed tone reut.rs/3MqlpDx
+
+[2025-12-09 17:00:27](https://bsky.app/profile/reuters.com/post/3m7k3b23sxv2n)
+
+---
+
+@aljazeera.com
+
+It comes as tension simmers along the border, threatening shaky truce between Islamabad and Kabul.
+
+[2025-12-09 17:00:26](https://bsky.app/profile/aljazeera.com/post/3m7k3azqq3y2z)
+
+---
+
+@bloomberg.com
+
+Chinese foreign investment in green power jumped to $80 billion in the past year as Beijing leveraged its dominance in energy transition technologies, according to a think tank.
+
+[2025-12-09 17:00:14](https://bsky.app/profile/bloomberg.com/post/3m7k3anzh3f2h)
+
+---
+
+@washingtonpost.com
+
+Column: Children understand that part of the season is about brightly wrapped packages. But sometimes adults worry over the complexities of who gets what (and who gives what).
+
+[2025-12-09 17:00:12](https://bsky.app/profile/washingtonpost.com/post/3m7k3amhdck2s)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】横断歩道を横断中の小学生3人が軽乗用車と接触か 小学生負傷 現場は県警本部につながる国道交差点 山口市
+(2025-12-09 16:44:00) #ニュース
+
+[2025-12-09 16:58:56](https://bsky.app/profile/sokuho.news/post/3m7k36ebiur2e)
 
 ---
 
