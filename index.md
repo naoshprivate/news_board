@@ -1,4 +1,4 @@
-# [2025-12-09 21:50 updated](2025_12_09.md)
+# [2025-12-09 22:10 updated](2025_12_09.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.32 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.92 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.28 (🔺0.36 : 2025-12-09)</span>
+<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.32 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.92 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.37 (🔺0.45 : 2025-12-09)</span>
   </div>
 </div>
 
@@ -32,12 +32,12 @@
 
 ## News Headlines
 
-1. インドネシアのジャカルタで7階建てビル火災、20人死亡
-2. ジェレミー・O・ハリス氏　日本からの逮捕解放　麻薬密売疑惑
-3. 米国中間層の住宅価格は415,000ドル　その実態を知る
-4. インドネシアのスーダン人民兵指導者、20年間の刑を言い渡される
-5. ソニー、沖縄のゆいレールにデジタル映像を設置
-6. 米国のAIエージェントの労働力管理に必要なスキル6つ
+1. 20人死亡　インドネシアジャカルタで7階建てビル火災
+2. 連邦議会議員選挙に影響を与える可能性のあるペンシルベニア州選挙でトランプ氏が演説
+3. 欧州経済委員会、ESG要件緩和の妥結
+4. インドネシアで火災　20人死亡、死亡者数は160人に
+5. オーストラリアで初のソーシャルメディア利用年齢制限に準備
+6. 米中間層の住宅価格は415万ドル　各地の購入価値は？
 
 ----
 
