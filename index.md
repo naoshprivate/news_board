@@ -1,9 +1,9 @@
-# [2025-12-09 15:30 updated](2025_12_09.md)
+# [2025-12-09 15:50 updated](2025_12_09.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">US Justice Department accuses two Chinese men of trying to smuggle Nvidia chips reut.rs/4poDO1T <a href="https://bsky.app/profile/reuters.com/post/3m7jvwkz4lx2k" target="_blank">reuters.com</a> (2025-12-09 15:25:06)</span><span style="padding-right:50px;">🔊 As Congress cedes power to the White House, US courts step in. In this episode of The Big View, Jeffrey Goldfarb talks to Reynolds Holding, author of 'Better Judgment', on the sense of purpose among jurists ruling on corporate and human-rights reut.rs/4rKQxxv <a href="https://bsky.app/profile/reuters.com/post/3m7jvnr4pc22y" target="_blank">reuters.com</a> (2025-12-09 15:20:11)</span><span style="padding-right:50px;">Trump's top national security officials to brief 'Gang of Eight' US lawmakers, sources say reut.rs/4oDV6H9 <a href="https://bsky.app/profile/reuters.com/post/3m7jveqdwqn2a" target="_blank">reuters.com</a> (2025-12-09 15:15:08)</span><span style="padding-right:50px;">Private credit is beginning to look like the bond market — and that comes with red flags <a href="https://bsky.app/profile/cnbc.com/post/3m7jvagivuf2y" target="_blank">cnbc.com</a> (2025-12-09 15:12:44)</span><span style="padding-right:50px;">Japan threatening us militarily, China tells German foreign minister reut.rs/4rGgqid <a href="https://bsky.app/profile/reuters.com/post/3m7jv3qmj2f2i" target="_blank">reuters.com</a> (2025-12-09 15:10:06)</span>
+<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】東北新幹線 盛岡～新青森の上下が運転再開＜午後3時41分＞ (2025-12-09 15:45:00) #ニュース  🚄鉄道運行情報 🔗https://transit.yahoo.co.jp/diainfo <a href="https://bsky.app/profile/sokuho.news/post/3m7jx7kcfat27" target="_blank">sokuho.news</a> (2025-12-09 15:48:01)</span><span style="padding-right:50px;">New Zealand navy encountered Taiwan warship during strait transit last month reut.rs/44fcbjs <a href="https://bsky.app/profile/reuters.com/post/3m7jx2iedm32o" target="_blank">reuters.com</a> (2025-12-09 15:45:12)</span><span style="padding-right:50px;">Japan was assessing damage Tuesday and cautioning people of potential aftershocks after a late-night 7.5 magnitude earthquake caused injuries, light damage and a tsunami in Pacific coastal communities. <a href="https://bsky.app/profile/apnews.com/post/3m7jx2em3b52h" target="_blank">apnews.com</a> (2025-12-09 15:45:08)</span><span style="padding-right:50px;">Honduras' attorney general said Monday that he had ordered Honduran authorities and asked Interpol to execute a 2023 arrest order for Juan Orlando Hernández, pardoned by U.S. President Donald Trump. n.pr/4prsNx7 <a href="https://bsky.app/profile/npr.org/post/3m7jwxtedon2o" target="_blank">npr.org</a> (2025-12-09 15:43:42)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】小学校高学年の児童2人が50代とみられる男に殴られる 児童らは軽傷 住宅にボールが入りトラブルか 東京・大田区 警視庁 (2025-12-09 15:41:26) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7jwwfqtft2w" target="_blank">sokuho.news</a> (2025-12-09 15:42:55)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50685.38 (🔺8.02 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.32 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.91 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3062.00 (🔻14.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.10 (🔺0.18 : 2025-12-09)</span>
+<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.32 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.91 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 155.99 (🔺0.07 : 2025-12-09)</span>
   </div>
 </div>
 
@@ -32,104 +32,104 @@
 
 ## News Headlines
 
-1.  米国は、中国の2人の男性がNvidiaチップを密輸しようとしたとして告発
-2.  国会が政権に権限を譲る中、米国裁判所が活発に動き出す
-3.  ドナルド・トランプ前大統領のトップの国防上級官僚が、米国議会の8人のメンバーに説明する
-4.  日本が軍事的に脅し始めたと中国がドイツの外相に伝える
-5.  カンボジアは、タイ軍が再び攻撃を始めたと述べ、少なくとも2人死亡
-6.  シリアの暫定大統領が復興を呼びかける
+1.  速報：東北新幹線　盛岡～新青森の上下が運転再開＜午後3時41分＞
+2.  Honduras AG issues international arrest warrant for pardoned ex-president Hernandez
+3.  速報：長野道下り線　安曇野～麻績ICが通行止め　車両火災のため
+4.  US judge orders lifting of Trump-backed limits on pro-Palestinian Tufts student
+5.  速報：小学校高学年の児童2人が50代とみられる男に殴られる　児童らは軽傷
+6.  中国王毅外相「日本は戦後80年も歴史を徹底的には反省せず」
 
 ----
 
-@reuters.com
+@sokuho.news
 
-US Justice Department accuses two Chinese men of trying to smuggle Nvidia chips reut.rs/4poDO1T
+🛎️JNNより【速報】です。
 
-[2025-12-09 15:25:06](https://bsky.app/profile/reuters.com/post/3m7jvwkz4lx2k)
+【速報】東北新幹線 盛岡～新青森の上下が運転再開＜午後3時41分＞
+(2025-12-09 15:45:00) #ニュース
 
----
+🚄鉄道運行情報
+🔗https://transit.yahoo.co.jp/diainfo
 
-@reuters.com
-
-🔊 As Congress cedes power to the White House, US courts step in. In this episode of The Big View, Jeffrey Goldfarb talks to Reynolds Holding, author of 'Better Judgment', on the sense of purpose among jurists ruling on corporate and human-rights reut.rs/4rKQxxv
-
-[2025-12-09 15:20:11](https://bsky.app/profile/reuters.com/post/3m7jvnr4pc22y)
+[2025-12-09 15:48:01](https://bsky.app/profile/sokuho.news/post/3m7jx7kcfat27)
 
 ---
 
 @reuters.com
 
-Trump's top national security officials to brief 'Gang of Eight' US lawmakers, sources say reut.rs/4oDV6H9
+New Zealand navy encountered Taiwan warship during strait transit last month reut.rs/44fcbjs
 
-[2025-12-09 15:15:08](https://bsky.app/profile/reuters.com/post/3m7jveqdwqn2a)
-
----
-
-@cnbc.com
-
-Private credit is beginning to look like the bond market — and that comes with red flags
-
-[2025-12-09 15:12:44](https://bsky.app/profile/cnbc.com/post/3m7jvagivuf2y)
+[2025-12-09 15:45:12](https://bsky.app/profile/reuters.com/post/3m7jx2iedm32o)
 
 ---
 
-@reuters.com
+@apnews.com
 
-Japan threatening us militarily, China tells German foreign minister reut.rs/4rGgqid
+Japan was assessing damage Tuesday and cautioning people of potential aftershocks after a late-night 7.5 magnitude earthquake caused injuries, light damage and a tsunami in Pacific coastal communities.
 
-[2025-12-09 15:10:06](https://bsky.app/profile/reuters.com/post/3m7jv3qmj2f2i)
+[2025-12-09 15:45:08](https://bsky.app/profile/apnews.com/post/3m7jx2em3b52h)
+
+---
+
+@npr.org
+
+Honduras' attorney general said Monday that he had ordered Honduran authorities and asked Interpol to execute a 2023 arrest order for Juan Orlando Hernández, pardoned by U.S. President Donald Trump. n.pr/4prsNx7
+
+[2025-12-09 15:43:42](https://bsky.app/profile/npr.org/post/3m7jwxtedon2o)
 
 ---
 
 @sokuho.news
 
-🛎️FNNより【速報】です。
+🛎️JNNより【速報】です。
 
-【速報】商業施設刺殺事件 被告の男に懲役22年の実刑判決 被告は起訴内容を全面否認 大分地裁
-(2025-12-09 15:02) #ニュース
+【速報】小学校高学年の児童2人が50代とみられる男に殴られる 児童らは軽傷 住宅にボールが入りトラブルか 東京・大田区 警視庁
+(2025-12-09 15:41:26) #ニュース
 
-[2025-12-09 15:05:59](https://bsky.app/profile/sokuho.news/post/3m7juuf7w6e2p)
+[2025-12-09 15:42:55](https://bsky.app/profile/sokuho.news/post/3m7jwwfqtft2w)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Goa nightclub owners fled to Thailand hours after deadly fire - police
+
+[2025-12-09 15:41:43](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7jwuce4qn2m)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Ukraine prepares new peace plan as Zelensky rules out giving up land
+
+[2025-12-09 15:40:38](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7jwseagb52q)
 
 ---
 
 @reuters.com
 
-Cuba sentences former economy minister to life in prison for corruption, espionage reut.rs/3KPQsIi
+Honduras AG issues international arrest warrant for pardoned ex-president Hernandez reut.rs/4q0FoqU
 
-[2025-12-09 15:05:04](https://bsky.app/profile/reuters.com/post/3m7jusqumkg2r)
-
----
-
-@nikkei.com
-
-携帯トイレの備蓄、1人最低35回分が必要
-www.nikkei.com/article/DGXZQO...
- 
-トイレが大事な理由としては、①不衛生による集団感染②不便さによる災害関連死③ストレスによる治安の悪化が挙げられます。
- 
-マンションでは、排水管や下水道管が破損すると、汚水が逃げ場を失います。
- 
-もしバケツなどで水を流すと、逆流して他人のトイレに汚水があふれ出ることも。災害発生時は絶対にトイレに水を流さないのが大原則です。
-
-#防災
-
-[2025-12-09 15:01:56](https://bsky.app/profile/nikkei.com/post/3m7jun5cdb22z)
+[2025-12-09 15:40:11](https://bsky.app/profile/reuters.com/post/3m7jwrk3ob727)
 
 ---
 
-@cnn.com
+@sokuho.news
 
-The Trump administration has revoked 85,000 visas of all categories since January, more than double the number pulled last year, according to a State Department official. https://cnn.it/4iHfPbI
+🛎️JNNより【速報】です。
 
-[2025-12-09 15:01:02](https://bsky.app/profile/cnn.com/post/3m7juljimr72b)
+【速報】「車同士の事故があった」岡山ブルーライン上で乗用車同士が正面衝突 君津JCT～西大寺ICで通行止め【9日午後3時半現在】
+(2025-12-09 15:26:00) #ニュース
+
+[2025-12-09 15:38:27](https://bsky.app/profile/sokuho.news/post/3m7jwog5j6u2d)
 
 ---
 
 @reuters.com
 
-US judge orders lifting of Trump-backed limits on pro-Palestinian Tufts student reut.rs/4s2slqT
+Warner Bros' lack of response fueled Paramount's hostile bid, filing says reut.rs/3MqhExV
 
-[2025-12-09 15:00:31](https://bsky.app/profile/reuters.com/post/3m7juklutby26)
+[2025-12-09 15:35:08](https://bsky.app/profile/reuters.com/post/3m7jwiiwrex2a)
 
 ---
 
