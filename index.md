@@ -1,9 +1,9 @@
-# [2025-12-09 19:50 updated](2025_12_09.md)
+# [2025-12-09 20:10 updated](2025_12_09.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Warner Bros Discovery's decision in the early hours of Friday morning sent shockwaves through the entertainment industry on.ft.com/3KPpVuH <a href="https://bsky.app/profile/financialtimes.com/post/3m7kemzkvrm26" target="_blank">financialtimes.com</a> (2025-12-09 19:48:12)</span><span style="padding-right:50px;">NISAつみたて枠、18歳未満は600万円上限　12歳で引き出し可能 www.nikkei.com/article/DGXZQO...  投資信託を定期的に積み立てる「つみたて投資枠」を18歳未満にも解禁し、年間60万円まで投資できるように。  運用によって増えた資金を学費などに使えるようにし、子育て費用を手当てしやすくします。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m7keixm6tb2g" target="_blank">nikkei.com</a> (2025-12-09 19:45:56)</span><span style="padding-right:50px;">Judges under siege administer poetic justice: podcast reut.rs/4a5IpkX <a href="https://bsky.app/profile/reuters.com/post/3m7kehnv6ka2w" target="_blank">reuters.com</a> (2025-12-09 19:45:12)</span><span style="padding-right:50px;">China set to limit access to Nvidia’s H200 chips despite Trump export approval on.ft.com/3YfUvAN <a href="https://bsky.app/profile/financialtimes.com/post/3m7kee3qahv2w" target="_blank">financialtimes.com</a> (2025-12-09 19:43:13)</span><span style="padding-right:50px;">衆院予算委 補正予算案の審議 首相“財政の持続可能性に配慮” https://news.web.nhk/newsweb/na/na-k10014998951000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7kec2lgsm24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 19:42:02)</span>
+<span style="padding-right:50px;">Republicans in Congress have shown some willingness to push back on President Trump, but it is not clear how far they are willing to push back against the leader of their own party. n.pr/4pWGDHy <a href="https://bsky.app/profile/npr.org/post/3m7kfojvsnv2f" target="_blank">npr.org</a> (2025-12-09 20:06:57)</span><span style="padding-right:50px;">Netflix and Paramount are competing for WBD in 2 very different ways <a href="https://bsky.app/profile/yahoofinance.com/post/3m7kfmxd2be2z" target="_blank">yahoofinance.com</a> (2025-12-09 20:06:04)</span><span style="padding-right:50px;">South Korea scrambles fighter jets as Chinese, Russian warplanes enter air defence zone reut.rs/4iOciZx <a href="https://bsky.app/profile/reuters.com/post/3m7kfliumsw2k" target="_blank">reuters.com</a> (2025-12-09 20:05:15)</span><span style="padding-right:50px;">Ukraine at 'critical moment' in war as European allies ramp up pressure on Russia <a href="https://bsky.app/profile/cnbc.com/post/3m7kfghig5n2q" target="_blank">cnbc.com</a> (2025-12-09 20:02:26)</span><span style="padding-right:50px;">Online discussion site Reddit on Tuesday condemned Australia's imminent social media ban for under-16s as "legally erroneous" but said it would comply with the landmark crackdown ➡️ u.afp.com/S7fA <a href="https://bsky.app/profile/en.afp.com/post/3m7kffxe7fk2z" target="_blank">en.afp.com</a> (2025-12-09 20:02:09)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.32 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.92 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.09 (🔺0.17 : 2025-12-09)</span>
+<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.32 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.92 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.12 (🔺0.20 : 2025-12-09)</span>
   </div>
 </div>
 
@@ -32,101 +32,97 @@
 
 ## News Headlines
 
-1. ウォシュレットの世界的ブーム　国内7000万台以上出荷
-2. インド政府、インドイーグル航空に5％の減便を命令
-3. 「クマ目撃4倍」　白川郷でクマの現れが増え
-4. スペイン産豚肉輸入を停止　アフリカ豚熱のため
-5. インドネシアのジャカルタでビル火災　20人死亡
-6. NHKの次期会長に井上樹彦副会長が選出
+1.  「米共和党議員、トランプ大統領に反発　しかし実力は限られている」
+2.  「中国製造業は、関税の混乱にもかかわらず伸び続ける」
+3.  「世界の地震発生　広島県を含む多くの地域で揺れが伝わる」
+4.  「日本の投資信託「つみたて枠」18歳未満にも解禁　年間60万円まで投資できる」
+5.  「EUは米国のIT巨大企業への取り組みに動じない　競争委員長の警告」
+6.  「インドは危機のインド・ゴーに5％の減便を命じる」
 
 ----
 
-@financialtimes.com
-
-Warner Bros Discovery's decision in the early hours of Friday morning sent shockwaves through the entertainment industry on.ft.com/3KPpVuH
-
-[2025-12-09 19:48:12](https://bsky.app/profile/financialtimes.com/post/3m7kemzkvrm26)
-
----
-
-@nikkei.com
-
-NISAつみたて枠、18歳未満は600万円上限　12歳で引き出し可能
-www.nikkei.com/article/DGXZQO...
-
-投資信託を定期的に積み立てる「つみたて投資枠」を18歳未満にも解禁し、年間60万円まで投資できるように。
-
-運用によって増えた資金を学費などに使えるようにし、子育て費用を手当てしやすくします。
-
-#ニュース
-
-[2025-12-09 19:45:56](https://bsky.app/profile/nikkei.com/post/3m7keixm6tb2g)
-
----
-
-@reuters.com
-
-Judges under siege administer poetic justice: podcast reut.rs/4a5IpkX
-
-[2025-12-09 19:45:12](https://bsky.app/profile/reuters.com/post/3m7kehnv6ka2w)
-
----
-
-@financialtimes.com
-
-China set to limit access to Nvidia’s H200 chips despite Trump export approval on.ft.com/3YfUvAN
-
-[2025-12-09 19:43:13](https://bsky.app/profile/financialtimes.com/post/3m7kee3qahv2w)
-
----
-
-@nhknewsunofficial.bsky.social
-
-衆院予算委 補正予算案の審議 首相“財政の持続可能性に配慮”
-https://news.web.nhk/newsweb/na/na-k10014998951000
-
-[2025-12-09 19:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7kec2lgsm24)
-
----
-
-@reuters.com
-
-BOJ Governor Ueda says rises in long-term interest rates 'somewhat rapid' reut.rs/4iKUQoo
-
-[2025-12-09 19:40:10](https://bsky.app/profile/reuters.com/post/3m7ke6nnwyh2w)
-
----
-
-@nhknewsunofficial.bsky.social
-
-神奈川 伊勢原で山林火災 消防 10日朝から消火へ
-https://news.web.nhk/newsweb/na/na-k10014999031000
-
-[2025-12-09 19:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7kdxdb3ox26)
-
----
-
 @npr.org
 
-Arlene Wagner has been collecting nutcrackers for nearly 50 years. Now, she's got one of the largest collections in the world, housed at the Leavenworth Nutcracker Museum in Washington. n.pr/3MxdoMW
+Republicans in Congress have shown some willingness to push back on President Trump, but it is not clear how far they are willing to push back against the leader of their own party. n.pr/4pWGDHy
 
-[2025-12-09 19:35:54](https://bsky.app/profile/npr.org/post/3m7kdwzobmn2i)
+[2025-12-09 20:06:57](https://bsky.app/profile/npr.org/post/3m7kfojvsnv2f)
+
+---
+
+@yahoofinance.com
+
+Netflix and Paramount are competing for WBD in 2 very different ways
+
+[2025-12-09 20:06:04](https://bsky.app/profile/yahoofinance.com/post/3m7kfmxd2be2z)
+
+---
+
+@reuters.com
+
+South Korea scrambles fighter jets as Chinese, Russian warplanes enter air defence zone reut.rs/4iOciZx
+
+[2025-12-09 20:05:15](https://bsky.app/profile/reuters.com/post/3m7kfliumsw2k)
+
+---
+
+@cnbc.com
+
+Ukraine at 'critical moment' in war as European allies ramp up pressure on Russia
+
+[2025-12-09 20:02:26](https://bsky.app/profile/cnbc.com/post/3m7kfghig5n2q)
 
 ---
 
 @en.afp.com
 
-Ukrainian President Volodymyr Zelensky met with Pope Leo XIV in Italy on Tuesday as he prepared to send the United States revised proposals to end Russia's invasion ➡️ u.afp.com/S7fG
+Online discussion site Reddit on Tuesday condemned Australia's imminent social media ban for under-16s as "legally erroneous" but said it would comply with the landmark crackdown ➡️ u.afp.com/S7fA
 
-[2025-12-09 19:35:37](https://bsky.app/profile/en.afp.com/post/3m7kdwiz62y2d)
+[2025-12-09 20:02:09](https://bsky.app/profile/en.afp.com/post/3m7kffxe7fk2z)
+
+---
+
+@wsj.com
+
+The Chinese manufacturing juggernaut shows little sign of slowing, despite the disruptions of tariffs.
+
+[2025-12-09 20:01:57](https://bsky.app/profile/wsj.com/post/3m7kffmhfv72j)
+
+---
+
+@nikkei.com
+
+超知能使えば誰もがクリエイター　創意はプロンプトに宿る
+www.nikkei.com/article/DGXZQO...
+
+#超知能 #日経_連載
+
+[2025-12-09 20:01:56](https://bsky.app/profile/nikkei.com/post/3m7kffksb7j2j)
 
 ---
 
 @reuters.com
 
-India orders crisis-hit IndiGo to cut flights by 5% reut.rs/4rMqYMz
+Thyssenkrupp warns of deep net loss in 2026 on steel restructuring costs reut.rs/3MiE8AZ
 
-[2025-12-09 19:35:06](https://bsky.app/profile/reuters.com/post/3m7kdvlupz427)
+[2025-12-09 20:00:49](https://bsky.app/profile/reuters.com/post/3m7kfdlqp2b2w)
+
+---
+
+@cnbc.com
+
+Morningstar's Christine Benz encourages the “good enough” approach to managing finances.
+
+Though they may not be moves to “maximize” your finances, consider these four strategies, which she says will achieve similar results “with much less time and hassle.”
+
+[2025-12-09 20:00:22](https://bsky.app/profile/cnbc.com/post/3m7kfcroi322i)
+
+---
+
+@nbcnews.com
+
+The New Orleans Archdiocese will pay at least $230 million to hundreds of victims of clergy sexual abuse under a settlement approved by a federal judge that follows years of negotiations.
+
+[2025-12-09 20:00:19](https://bsky.app/profile/nbcnews.com/post/3m7kfcogndo2c)
 
 ---
 
