@@ -1,9 +1,9 @@
-# [2025-12-09 21:30 updated](2025_12_09.md)
+# [2025-12-09 21:50 updated](2025_12_09.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Russian attacks in Europe are, by nature, scattergun and hard to track. But the scale is now such that analysts believe the escalation is strategic rather than opportunistic, designed to trigger public fear and policy paralysis. The attacks are a test of Europe’s mettle – and Russia is taking notes. <a href="https://bsky.app/profile/ftedit.ft.com/post/3m7kk2rpui22e" target="_blank">ftedit.ft.com</a> (2025-12-09 21:25:20)</span><span style="padding-right:50px;">Bombs on train tracks. Arson attacks on malls. Poisoned water supplies. These are just some of the recently foiled plots in Russia’s growing campaign of aggression across Europe. What was once a mere nuisance has escalated into a serious threat.   An #FTEdit 🧵 on the new era of Russian sabotage 👇 <a href="https://bsky.app/profile/ftedit.ft.com/post/3m7kk2pnanc2e" target="_blank">ftedit.ft.com</a> (2025-12-09 21:25:20)</span><span style="padding-right:50px;">Deterring Russian sabotage is fraught with difficulty. “Containment is not enough,” Italy’s minister of defence argued. But what does being proactive look like when it comes to an adversary as unpredictable as Putin?  Today's Big Read by @samgadjones.bsky.social is on #FTEdit 👉 on.ft.com/44ffqrh <a href="https://bsky.app/profile/ftedit.ft.com/post/3m7kk35iytk2e" target="_blank">ftedit.ft.com</a> (2025-12-09 21:25:20)</span><span style="padding-right:50px;">A key Russian tactic is “razvedka boyem” – reconnaissance through battle – in which an enemy’s weaknesses are discoverd by constant probing. In September, Russian drones over Poland shut airports, inadvertantly revealing an easy way of wreaking chaos. Dozens of sightings have been reported since. <a href="https://bsky.app/profile/ftedit.ft.com/post/3m7kk33tto22e" target="_blank">ftedit.ft.com</a> (2025-12-09 21:25:20)</span><span style="padding-right:50px;">This is Dylan Earl, the ringleader of a Russian-ordered arson attack on an east London warehouse storing aid for Ukraine in March 2024. He was instructed by his handler to learn about spying by watching “The Americans”, a hit TV series about undercover KGB agents. <a href="https://bsky.app/profile/ftedit.ft.com/post/3m7kk2ughxk2e" target="_blank">ftedit.ft.com</a> (2025-12-09 21:25:20)</span>
+<span style="padding-right:50px;">Fire breaks out at seven-storey building in Indonesia's Jakarta, 20 dead reut.rs/4pUP6L8 <a href="https://bsky.app/profile/reuters.com/post/3m7kkvenvdj2w" target="_blank">reuters.com</a> (2025-12-09 21:40:15)</span><span style="padding-right:50px;">The Japanese authorities said Tuesday that Jeremy O. Harris, the Tony-nominated playwright and actor, had been released after spending three weeks in custody on suspicion of attempting to smuggle illegal drugs into Japan. <a href="https://bsky.app/profile/nytimes.com/post/3m7kkv3hna62m" target="_blank">nytimes.com</a> (2025-12-09 21:40:05)</span><span style="padding-right:50px;">The median home in the US costs $415,000. Here’s what that will buy around the country. <a href="https://bsky.app/profile/yahoofinance.com/post/3m7kknvm2bp2p" target="_blank">yahoofinance.com</a> (2025-12-09 21:36:04)</span><span style="padding-right:50px;">Eiffel Investment Group raises 1.2 bln euros for new energy-focused fund reut.rs/4rSIRJV <a href="https://bsky.app/profile/reuters.com/post/3m7kkm7vmzz2r" target="_blank">reuters.com</a> (2025-12-09 21:35:08)</span><span style="padding-right:50px;">Nvidia can sell the more advanced H200 AI chip to China — but will Beijing want them? <a href="https://bsky.app/profile/cnbc.com/post/3m7kkkw7qgy23" target="_blank">cnbc.com</a> (2025-12-09 21:34:24)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.32 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.92 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.29 (🔺0.37 : 2025-12-09)</span>
+<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.32 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.92 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.28 (🔺0.36 : 2025-12-09)</span>
   </div>
 </div>
 
@@ -32,96 +32,97 @@
 
 ## News Headlines
 
-1. 連続するロシアの攻撃　ヨーロッパの脅威は拡大中
-2. 連続するロシアの攻撃　ヨーロッパの脅威は拡大中
-3. 連続するロシアの攻撃　ヨーロッパの脅威は拡大中
-4. オーストラリアは16歳未満のユーザーをブロック　世界で初の規制
-5. オーストラリアは16歳未満のユーザーをブロック　世界で初の規制
-6. オーストラリアは16歳未満のユーザーをブロック　世界で初の規制
+1. インドネシアのジャカルタで7階建てビル火災、20人死亡
+2. ジェレミー・O・ハリス氏　日本からの逮捕解放　麻薬密売疑惑
+3. 米国中間層の住宅価格は415,000ドル　その実態を知る
+4. インドネシアのスーダン人民兵指導者、20年間の刑を言い渡される
+5. ソニー、沖縄のゆいレールにデジタル映像を設置
+6. 米国のAIエージェントの労働力管理に必要なスキル6つ
 
 ----
 
-@ftedit.ft.com
-
-Russian attacks in Europe are, by nature, scattergun and hard to track. But the scale is now such that analysts believe the escalation is strategic rather than opportunistic, designed to trigger public fear and policy paralysis. The attacks are a test of Europe’s mettle – and Russia is taking notes.
-
-[2025-12-09 21:25:20](https://bsky.app/profile/ftedit.ft.com/post/3m7kk2rpui22e)
-
----
-
-@ftedit.ft.com
-
-Bombs on train tracks. Arson attacks on malls. Poisoned water supplies. These are just some of the recently foiled plots in Russia’s growing campaign of aggression across Europe. What was once a mere nuisance has escalated into a serious threat. 
-
-An #FTEdit 🧵 on the new era of Russian sabotage 👇
-
-[2025-12-09 21:25:20](https://bsky.app/profile/ftedit.ft.com/post/3m7kk2pnanc2e)
-
----
-
-@ftedit.ft.com
-
-Deterring Russian sabotage is fraught with difficulty. “Containment is not enough,” Italy’s minister of defence argued. But what does being proactive look like when it comes to an adversary as unpredictable as Putin?
-
-Today's Big Read by @samgadjones.bsky.social is on #FTEdit 👉 on.ft.com/44ffqrh
-
-[2025-12-09 21:25:20](https://bsky.app/profile/ftedit.ft.com/post/3m7kk35iytk2e)
-
----
-
-@ftedit.ft.com
-
-A key Russian tactic is “razvedka boyem” – reconnaissance through battle – in which an enemy’s weaknesses are discoverd by constant probing. In September, Russian drones over Poland shut airports, inadvertantly revealing an easy way of wreaking chaos. Dozens of sightings have been reported since.
-
-[2025-12-09 21:25:20](https://bsky.app/profile/ftedit.ft.com/post/3m7kk33tto22e)
-
----
-
-@ftedit.ft.com
-
-This is Dylan Earl, the ringleader of a Russian-ordered arson attack on an east London warehouse storing aid for Ukraine in March 2024. He was instructed by his handler to learn about spying by watching “The Americans”, a hit TV series about undercover KGB agents.
-
-[2025-12-09 21:25:20](https://bsky.app/profile/ftedit.ft.com/post/3m7kk2ughxk2e)
-
----
-
-@ftedit.ft.com
-
-Russia’s tactics make its campaign challenging to combat. Agents are typically recruited online, have no links to Russia and are run by intermediaries. They are mobile, motivated by money and entirely dispensable. Analysts have dubbed this set-up the “gig economy” of Russian spycraft.
-
-[2025-12-09 21:25:20](https://bsky.app/profile/ftedit.ft.com/post/3m7kk2szmg22e)
-
----
-
 @reuters.com
 
-Will ECB's 'good place' turn into passive easing? reut.rs/4pZ4er7
+Fire breaks out at seven-storey building in Indonesia's Jakarta, 20 dead reut.rs/4pUP6L8
 
-[2025-12-09 21:25:12](https://bsky.app/profile/reuters.com/post/3m7kk2hv3tv27)
+[2025-12-09 21:40:15](https://bsky.app/profile/reuters.com/post/3m7kkvenvdj2w)
 
 ---
 
 @nytimes.com
 
-Terry Rozier, an NBA player with the Miami Heat, pleaded not guilty in Brooklyn federal court on Monday to charges that he manipulated his performance to wager hundreds of thousands of dollars in an illegal sports-betting scheme.
+The Japanese authorities said Tuesday that Jeremy O. Harris, the Tony-nominated playwright and actor, had been released after spending three weeks in custody on suspicion of attempting to smuggle illegal drugs into Japan.
 
-[2025-12-09 21:25:02](https://bsky.app/profile/nytimes.com/post/3m7kk25vkpl24)
+[2025-12-09 21:40:05](https://bsky.app/profile/nytimes.com/post/3m7kkv3hna62m)
 
 ---
 
-@npr.org
+@yahoofinance.com
 
-Trump travels to Pennsylvania to discuss America's affordability. And, Indiana lawmakers to vote on a congressional map that may eliminate the state's last two Democratic seats. n.pr/49ZudKh
+The median home in the US costs $415,000. Here’s what that will buy around the country.
 
-[2025-12-09 21:24:06](https://bsky.app/profile/npr.org/post/3m7kjyixb4z2q)
+[2025-12-09 21:36:04](https://bsky.app/profile/yahoofinance.com/post/3m7kknvm2bp2p)
 
 ---
 
 @reuters.com
 
-Governments from Denmark to Malaysia — and even some states in the US — say they plan similar steps, four years after a leak of internal Meta documents showed the company knew its products contributed to body image problems and suicidal thoughts among teenagers 4/7
+Eiffel Investment Group raises 1.2 bln euros for new energy-focused fund reut.rs/4rSIRJV
 
-[2025-12-09 21:23:51](https://bsky.app/profile/reuters.com/post/3m7kjzy23m22f)
+[2025-12-09 21:35:08](https://bsky.app/profile/reuters.com/post/3m7kkm7vmzz2r)
+
+---
+
+@cnbc.com
+
+Nvidia can sell the more advanced H200 AI chip to China — but will Beijing want them?
+
+[2025-12-09 21:34:24](https://bsky.app/profile/cnbc.com/post/3m7kkkw7qgy23)
+
+---
+
+@en.afp.com
+
+The International Criminal Court on Tuesday handed down a sentence of 20 years to a Sudanese militia leader for war crimes and crimes against humanity committed during the country's civil war two decades ago ➡️ u.afp.com/S7fj
+
+[2025-12-09 21:33:01](https://bsky.app/profile/en.afp.com/post/3m7kkigwn2j2k)
+
+---
+
+@nikkei.com
+
+ソニー、沖縄ゆいレール車窓にデジタル映像　景色に合わせ観光地紹介（無料記事）
+www.nikkei.com/article/DGXZQO...
+
+2両編成の車両の窓に計4枚の大型パネルを設置。高画質カメラで撮影し、景色がよりきれいに見えます。
+
+国際通りに近づくと戦後復興期の白黒写真を流し、伝統工芸の「やちむん」で有名な那覇市壺屋付近を通る際は焼き物の歴史を紹介します。
+
+[2025-12-09 21:31:57](https://bsky.app/profile/nikkei.com/post/3m7kkgk2bxp2k)
+
+---
+
+@forbes.com
+
+Steven Bartlett Just Backed This Breakout Female Founder
+
+[2025-12-09 21:31:34](https://bsky.app/profile/forbes.com/post/3m7kkfu6zwc2k)
+
+---
+
+@forbes.com
+
+8 Skills You Need To Manage The New AI Agent Workforce
+
+[2025-12-09 21:31:15](https://bsky.app/profile/forbes.com/post/3m7kkfc6avc2k)
+
+---
+
+@forbes.com
+
+CISA Warns Microsoft Windows Users—Log Out And Shut Down
+
+[2025-12-09 21:30:58](https://bsky.app/profile/forbes.com/post/3m7kkerqqic2k)
 
 ---
 
