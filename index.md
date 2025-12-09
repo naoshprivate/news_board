@@ -1,9 +1,9 @@
-# [2025-12-10 05:50 updated](2025_12_10.md)
+# [2025-12-10 06:10 updated](2025_12_10.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Scott Galloway offers an “aspirational vision of masculinity,” challenging men to get offline and develop their physical and emotional strength. on.wsj.com/4psamrU <a href="https://bsky.app/profile/wsj.com/post/3m7lg3paflo2a" target="_blank">wsj.com</a> (2025-12-10 05:46:58)</span><span style="padding-right:50px;">Eli Lilly to build $6 billion manufacturing plant in Alabama to help make upcoming obesity pill, other drugs <a href="https://bsky.app/profile/cnbc.com/post/3m7lg3nijaw23" target="_blank">cnbc.com</a> (2025-12-10 05:46:56)</span><span style="padding-right:50px;">Wells Fargo expects more job cuts, will roll out AI gradually in 2026 reut.rs/4j6tJER <a href="https://bsky.app/profile/reuters.com/post/3m7lfyljs2r27" target="_blank">reuters.com</a> (2025-12-10 05:45:14)</span><span style="padding-right:50px;">自動車大手 ルノーとフォード EV共同開発など戦略的提携を発表 https://news.web.nhk/newsweb/na/na-k10014999471000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7lfydzkv72j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-10 05:45:03)</span><span style="padding-right:50px;">Oracle's AI-fueled debt load has investors on edge ahead of quarterly earnings <a href="https://bsky.app/profile/cnbc.com/post/3m7lfxfyy4g2x" target="_blank">cnbc.com</a> (2025-12-10 05:44:34)</span>
+<span style="padding-right:50px;">Lagfin SCA, the Luxembourg-based holding company that controls Italian drinks group Campari, is in advanced talks with the Italian Revenue Agency to settle a tax dispute by paying around $464.88 million, three sources with direct knowledge of the matter told Reuters reut.rs/4iNxQFy <a href="https://bsky.app/profile/reuters.com/post/3m7lhdu25nc23" target="_blank">reuters.com</a> (2025-12-10 06:09:26)</span><span style="padding-right:50px;">「チェコのトランプ氏」バビシュ氏が新首相に 実業家から転身 https://news.web.nhk/newsweb/na/na-k10014999491000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7lhda4am32g" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-10 06:09:02)</span><span style="padding-right:50px;">Campbell's keeps annual forecasts intact as shoppers rein in spending reut.rs/44gSSq0 <a href="https://bsky.app/profile/reuters.com/post/3m7lh4cez6v2r" target="_blank">reuters.com</a> (2025-12-10 06:05:12)</span><span style="padding-right:50px;">The Democratic candidate for Miami mayor was the clear frontrunner in the first round of voting, but Republicans are hoping to retain the seat in a city closely associated with President Donald Trump. <a href="https://bsky.app/profile/forbes.com/post/3m7lh46trde2u" target="_blank">forbes.com</a> (2025-12-10 06:05:08)</span><span style="padding-right:50px;">Legal challenges put SAVE borrowers in limbo for months, a time during which they were not required to make payments on their loans. That would change if the proposed settlement is approved. n.pr/4a2diXu <a href="https://bsky.app/profile/npr.org/post/3m7lh3ocbif2i" target="_blank">npr.org</a> (2025-12-10 06:04:51)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47596.43 (🔻128.09 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23593.37 (🔺88.76 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.79 (🔻0.77 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.90 (🔺0.98 : 2025-12-09)</span>
+<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47560.29 (🔻164.23 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23576.49 (🔺71.87 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.97 (🔻0.59 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.91 (🔺0.99 : 2025-12-09)</span>
   </div>
 </div>
 
@@ -32,94 +32,95 @@
 
 ## News Headlines
 
-1. スコット・ギャロウェイ氏が男性の新しいイメージを提唱する
-2. エリ・リリーがアラバマ州で6億ドルの製薬工場を建設
-3. ルノーとフォードがEVの共同開発を発表
-4. オラクルがAIを利用した負債が投資家の不安を招く
-5. 年収の壁を越える国民のための税制改革案が提案される
-6. オーストラリアが16歳未満の子供たちのSNS利用を禁止
+1. 「ラグフィン、イタリアの税務機関と約500億円の税関連紛争を解決するための交渉を進めている」
+2. 「チェコのトランプ氏」バビシュ氏が新首相に就任」
+3. 「カンプBELLS、12月の予想を維持　消費者の支出が控える」
+4. 「コロナの救済金の支払いが再び始まる　法的対立で延期されていた」
+5. 「国連のスピーカーがイスラエル軍の主張を否定　ガザ沖の「黄色い線」は「新しい国境ではない」」
+6. 「マッカーシー氏の「男の美」　男性に「肉体や心の力」で充実した人生を」
 
 ----
 
+@reuters.com
+
+Lagfin SCA, the Luxembourg-based holding company that controls Italian drinks group Campari, is in advanced talks with the Italian Revenue Agency to settle a tax dispute by paying around $464.88 million, three sources with direct knowledge of the matter told Reuters reut.rs/4iNxQFy
+
+[2025-12-10 06:09:26](https://bsky.app/profile/reuters.com/post/3m7lhdu25nc23)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+「チェコのトランプ氏」バビシュ氏が新首相に 実業家から転身
+https://news.web.nhk/newsweb/na/na-k10014999491000
+
+[2025-12-10 06:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7lhda4am32g)
+
+---
+
+@reuters.com
+
+Campbell's keeps annual forecasts intact as shoppers rein in spending reut.rs/44gSSq0
+
+[2025-12-10 06:05:12](https://bsky.app/profile/reuters.com/post/3m7lh4cez6v2r)
+
+---
+
+@forbes.com
+
+The Democratic candidate for Miami mayor was the clear frontrunner in the first round of voting, but Republicans are hoping to retain the seat in a city closely associated with President Donald Trump.
+
+[2025-12-10 06:05:08](https://bsky.app/profile/forbes.com/post/3m7lh46trde2u)
+
+---
+
+@npr.org
+
+Legal challenges put SAVE borrowers in limbo for months, a time during which they were not required to make payments on their loans. That would change if the proposed settlement is approved. n.pr/4a2diXu
+
+[2025-12-10 06:04:51](https://bsky.app/profile/npr.org/post/3m7lh3ocbif2i)
+
+---
+
+@aljazeera.com
+
+<strong><span style="color: red;">BREAKING:</span> UN spokesman Stephane Dujarric has pushed back against Israeli Lieutenant General Eyal Zamir’s claim that the “yellow line” marking Israeli-occupied areas in Gaza is now a “new border” with Israel.</strong><br><strong></strong><br><strong>🔴 LIVE updates: aje.io/fobs45</strong>
+
+[2025-12-10 06:04:07](https://bsky.app/profile/aljazeera.com/post/3m7lh2dxvgv2c)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+直木賞作家 城山三郎 学生時代の未公開の日記 “城山の原点”
+https://news.web.nhk/newsweb/na/na-k10014999291000
+
+[2025-12-10 06:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7lgyizyx72b)
+
+---
+
 @wsj.com
 
-Scott Galloway offers an “aspirational vision of masculinity,” challenging men to get offline and develop their physical and emotional strength. on.wsj.com/4psamrU
+The site is the third of four new facilities in the U.S. that the pharmaceutical company plans to announce, Eli Lilly said. on.wsj.com/4pTFFvv
 
-[2025-12-10 05:46:58](https://bsky.app/profile/wsj.com/post/3m7lg3paflo2a)
-
----
-
-@cnbc.com
-
-Eli Lilly to build $6 billion manufacturing plant in Alabama to help make upcoming obesity pill, other drugs
-
-[2025-12-10 05:46:56](https://bsky.app/profile/cnbc.com/post/3m7lg3nijaw23)
+[2025-12-10 06:02:52](https://bsky.app/profile/wsj.com/post/3m7lgy52esb2w)
 
 ---
 
-@reuters.com
+@nikkei.com
 
-Wells Fargo expects more job cuts, will roll out AI gradually in 2026 reut.rs/4j6tJER
+週末は静岡・東伊豆、二拠点居住増へ　JR東海・東急不動産・県が連携
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-10 05:45:14](https://bsky.app/profile/reuters.com/post/3m7lfyljs2r27)
-
----
-
-@nhknewsunofficial.bsky.social
-
-自動車大手 ルノーとフォード EV共同開発など戦略的提携を発表
-https://news.web.nhk/newsweb/na/na-k10014999471000
-
-[2025-12-10 05:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7lfydzkv72j)
-
----
-
-@cnbc.com
-
-Oracle's AI-fueled debt load has investors on edge ahead of quarterly earnings
-
-[2025-12-10 05:44:34](https://bsky.app/profile/cnbc.com/post/3m7lfxfyy4g2x)
-
----
-
-@nhknewsunofficial.bsky.social
-
-衆院定数削減法案 会期末迫り “今国会での成立難しい”見方も
-https://news.web.nhk/newsweb/na/na-k10014999361000
-
-[2025-12-10 05:42:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7lfsyax2b2k)
+[2025-12-10 06:01:51](https://bsky.app/profile/nikkei.com/post/3m7lgwcfj3r2e)
 
 ---
 
 @reuters.com
 
-Nobel Institute calls off Machado press conference ahead of Peace Prize ceremony reut.rs/4oFDYRD
+Tether-backed Twenty One Capital slides in trading debut reut.rs/3MqDP74
 
-[2025-12-10 05:40:19](https://bsky.app/profile/reuters.com/post/3m7lfpsciew2k)
-
----
-
-@nbcnews.com
-
-Eight artworks by world renowned French artist Henri Matisse were stolen from a library in São Paulo, Brazil on Sunday, according to the museum that commissioned the exhibition.
-
-[2025-12-10 05:40:05](https://bsky.app/profile/nbcnews.com/post/3m7lfpf2lnw2h)
-
----
-
-@cbsnews.com
-
-Senate Majority Leader John Thune announced Tuesday that Republicans intend to put up a GOP-led health care bill for a vote alongside Democrats' proposal to extend enhanced Affordable Care Act tax credits later this week. 
-
-[2025-12-10 05:40:00](https://bsky.app/profile/cbsnews.com/post/3m7lfpauvdo2u)
-
----
-
-@cnbc.com
-
-The five biggest stock moves Todd Gordon has made to prepare his portfolio for 2026
-
-[2025-12-10 05:36:41](https://bsky.app/profile/cnbc.com/post/3m7lfjcglt22h)
+[2025-12-10 06:01:16](https://bsky.app/profile/reuters.com/post/3m7lgvbdnkp2k)
 
 ---
 
