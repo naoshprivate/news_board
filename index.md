@@ -1,9 +1,9 @@
-# [2025-12-10 02:10 updated](2025_12_10.md)
+# [2025-12-10 02:30 updated](2025_12_10.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The city’s Goldilocks status as an employer magnet with still-reasonable housing is now on shaky ground. on.wsj.com/4aF6RtD <a href="https://bsky.app/profile/wsj.com/post/3m7kzsmixl724" target="_blank">wsj.com</a> (2025-12-10 02:07:08)</span><span style="padding-right:50px;">Mozambique’s Kisawa Sanctuary is a 750-acre coastal resort that boasts the ultimate luxury: feeling very, very far away. on.wsj.com/48uuNi5 <a href="https://bsky.app/profile/wsj.com/post/3m7kzslxjo32i" target="_blank">wsj.com</a> (2025-12-10 02:07:08)</span><span style="padding-right:50px;">Exclusive: ECB backs simpler, not looser, bank rules, sources say reut.rs/4oM0KHv <a href="https://bsky.app/profile/reuters.com/post/3m7kzp2cda22o" target="_blank">reuters.com</a> (2025-12-10 02:05:09)</span><span style="padding-right:50px;">FDA approves Merck drug for decimated U.S. cattle herds to stop screwworm <a href="https://bsky.app/profile/cnbc.com/post/3m7kznqgw4t2s" target="_blank">cnbc.com</a> (2025-12-10 02:04:25)</span><span style="padding-right:50px;">There's no Dow or S&P 500 for cryptocurrencies yet. Bitwise is getting a step closer with new ETF <a href="https://bsky.app/profile/cnbc.com/post/3m7kzllsvo32s" target="_blank">cnbc.com</a> (2025-12-10 02:03:13)</span>
+<span style="padding-right:50px;">Badenoch cites Brexit as ‘shock’ to UK on.ft.com/4rI5e4J <a href="https://bsky.app/profile/financialtimes.com/post/3m7l2wxkhnu2q" target="_blank">financialtimes.com</a> (2025-12-10 02:27:28)</span><span style="padding-right:50px;">Exclusive: Chilean regulator, workers flagged risk at Teck's Quebrada Blanca dam reut.rs/4oUwVVm <a href="https://bsky.app/profile/reuters.com/post/3m7l2sz5gxy2k" target="_blank">reuters.com</a> (2025-12-10 02:25:15)</span><span style="padding-right:50px;">Vietnam stock market is booming in 2025. Why this may just be the beginning <a href="https://bsky.app/profile/cnbc.com/post/3m7l2rxzsm62x" target="_blank">cnbc.com</a> (2025-12-10 02:24:41)</span><span style="padding-right:50px;">Private companies grew their payrolls slightly on net through much of November, human-resources firm ADP said Tuesday. <a href="https://bsky.app/profile/wsj.com/post/3m7l2qtznpj2x" target="_blank">wsj.com</a> (2025-12-10 02:24:03)</span><span style="padding-right:50px;">The son of Cuban immigrants, Malo and his band blended country, rock and roll, folk, jump blues, Latin music and Cajun rhythms into a distinct sound anchored by his unmistakable voice. n.pr/44NlYxm <a href="https://bsky.app/profile/npr.org/post/3m7l2qsbljg2x" target="_blank">npr.org</a> (2025-12-10 02:24:01)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47840.50 (🔺115.98 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23601.64 (🔺97.03 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.92 (🔻0.64 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.90 (🔺0.98 : 2025-12-09)</span>
+<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47774.11 (🔺49.59 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23594.98 (🔺90.36 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.94 (🔻0.62 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.88 (🔺0.96 : 2025-12-09)</span>
   </div>
 </div>
 
@@ -32,94 +32,92 @@
 
 ## News Headlines
 
-Here are six headlines in Japanese:
-
-1.  米国では、金の三つ巴の地位を失いつつある都市
-2.  モザンビークの Luxury リゾート、キサワサンクトゥアリは、最高のラグジュアリーを誇ります
-3.  ECBは銀行規制を簡素化することを検討している
-4.  米国で牛の蠅の防止のために新薬が承認される
-5.  子どもが犬に襲われて死亡した父親は、子どもの保護を怠ったと県警察が判断
-6.  中南米のリーダーは、若い世代の若者の宗教的信念が異常に熱心になっていることを指摘
+1. Brexitが英国に衝撃を与えた
+2. チリの水力発電所のリスクを指摘
+3. ベトナムの株式市場が2025年に大きなブームを起こし始めた
+4. フェデラル貿易委員会のメンバーを解任できる可能性のある最高裁判所の決定
+5. 中性脂肪が健康に有益であることを示唆する研究
+6. ストックマーケットの動き：エクソノール、SLM、CVS、AutoZone、Ares、スタア・サージカルなど
 
 ----
 
-@wsj.com
+@financialtimes.com
 
-The city’s Goldilocks status as an employer magnet with still-reasonable housing is now on shaky ground. on.wsj.com/4aF6RtD
+Badenoch cites Brexit as ‘shock’ to UK on.ft.com/4rI5e4J
 
-[2025-12-10 02:07:08](https://bsky.app/profile/wsj.com/post/3m7kzsmixl724)
-
----
-
-@wsj.com
-
-Mozambique’s Kisawa Sanctuary is a 750-acre coastal resort that boasts the ultimate luxury: feeling very, very far away. on.wsj.com/48uuNi5
-
-[2025-12-10 02:07:08](https://bsky.app/profile/wsj.com/post/3m7kzslxjo32i)
+[2025-12-10 02:27:28](https://bsky.app/profile/financialtimes.com/post/3m7l2wxkhnu2q)
 
 ---
 
 @reuters.com
 
-Exclusive: ECB backs simpler, not looser, bank rules, sources say reut.rs/4oM0KHv
+Exclusive: Chilean regulator, workers flagged risk at Teck's Quebrada Blanca dam reut.rs/4oUwVVm
 
-[2025-12-10 02:05:09](https://bsky.app/profile/reuters.com/post/3m7kzp2cda22o)
-
----
-
-@cnbc.com
-
-FDA approves Merck drug for decimated U.S. cattle herds to stop screwworm
-
-[2025-12-10 02:04:25](https://bsky.app/profile/cnbc.com/post/3m7kznqgw4t2s)
+[2025-12-10 02:25:15](https://bsky.app/profile/reuters.com/post/3m7l2sz5gxy2k)
 
 ---
 
 @cnbc.com
 
-There's no Dow or S&P 500 for cryptocurrencies yet. Bitwise is getting a step closer with new ETF
+Vietnam stock market is booming in 2025. Why this may just be the beginning
 
-[2025-12-10 02:03:13](https://bsky.app/profile/cnbc.com/post/3m7kzllsvo32s)
+[2025-12-10 02:24:41](https://bsky.app/profile/cnbc.com/post/3m7l2rxzsm62x)
+
+---
+
+@wsj.com
+
+Private companies grew their payrolls slightly on net through much of November, human-resources firm ADP said Tuesday.
+
+[2025-12-10 02:24:03](https://bsky.app/profile/wsj.com/post/3m7l2qtznpj2x)
+
+---
+
+@npr.org
+
+The son of Cuban immigrants, Malo and his band blended country, rock and roll, folk, jump blues, Latin music and Cajun rhythms into a distinct sound anchored by his unmistakable voice. n.pr/44NlYxm
+
+[2025-12-10 02:24:01](https://bsky.app/profile/npr.org/post/3m7l2qsbljg2x)
+
+---
+
+@nytimes.com
+
+Lola boasts that its 100% synthetic throws are “the #1 softest blanket on the market.” We put the $300 fuzzy throw to the test.
+
+[2025-12-10 02:23:04](https://bsky.app/profile/nytimes.com/post/3m7l2p3watl2p)
+
+---
+
+@nbcnews.com
+
+The Supreme Court appears poised to side with President Donald Trump and allow him to fire a member of the Federal Trade Commission without cause, a provocative move aimed at upending the long-standing concept of independent federal agencies.
+
+[2025-12-10 02:20:10](https://bsky.app/profile/nbcnews.com/post/3m7l2jvrhn42i)
+
+---
+
+@nytimes.com
+
+Is saturated fat good for you? Health experts have long recommended limiting it, but Robert F. Kennedy Jr. has signaled a shift in that advice. Here's what to know.
+
+[2025-12-10 02:20:06](https://bsky.app/profile/nytimes.com/post/3m7l2jrs5qu2d)
+
+---
+
+@cnbc.com
+
+Stocks making the biggest moves midday: Exxon, SLM, CVS, AutoZone, Ares, Staar Surgical and more
+
+[2025-12-10 02:16:30](https://bsky.app/profile/cnbc.com/post/3m7l2ddvhj32x)
 
 ---
 
 @reuters.com
 
-Women with PCOS seek relief in weight-loss drugs reut.rs/3XJuSIp
+Fed faces turbulent 2026 as Powell's term ends, independence tested reut.rs/4pLiIeF
 
-[2025-12-10 02:01:08](https://bsky.app/profile/reuters.com/post/3m7kzhunhr52e)
-
----
-
-@washingtonpost.com
-
-There's a hidden trend religious and spiritual leaders say they are observing among younger Americans: Even as fewer and fewer young people consider themselves religious, a small percentage of young adults are practicing their faiths with unusual avidity.
-
-[2025-12-10 02:00:42](https://bsky.app/profile/washingtonpost.com/post/3m7kzh3z7nr2e)
-
----
-
-@usatoday.com
-
-The Oklahoma County District Attorney says the parents maliciously failed to protect their child, which led to her death by dog mauling.
-
-[2025-12-10 02:00:28](https://bsky.app/profile/usatoday.com/post/3m7kzgohuqo2p)
-
----
-
-@apnews.com
-
-Republican Nassau County Executive Bruce Blakeman is running for governor of New York. His entrance into the race kicks off what is expected to be a heated Republican primary contest against Rep. Elise Stefanik. 
-
-[2025-12-10 02:00:27](https://bsky.app/profile/apnews.com/post/3m7kzgndcgs2j)
-
----
-
-@aljazeera.com
-
-The US president claimed credit for ending eight wars but not all peace deals have survived.
-
-[2025-12-10 02:00:24](https://bsky.app/profile/aljazeera.com/post/3m7kzgkug2m23)
+[2025-12-10 02:15:18](https://bsky.app/profile/reuters.com/post/3m7l2b7kq3c2i)
 
 ---
 
