@@ -1,9 +1,9 @@
-# [2025-12-10 00:30 updated](2025_12_10.md)
+# [2025-12-10 00:50 updated](2025_12_10.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The one thing Kamala Harris absolutely does not want to talk about is whether she is thinking about running for president again. “It’s three years from nooooow,” she told us. She is busy selling books — a lot of them. She is not yet selling herself. Read our full interview on what she plans next. <a href="https://bsky.app/profile/nytimes.com/post/3m7kud765t42q" target="_blank">nytimes.com</a> (2025-12-10 00:29:02)</span><span style="padding-right:50px;">The White House is taking some of the biggest steps yet to address the economic pain caused by its own tariff regime. <a href="https://bsky.app/profile/axios.com/post/3m7kua44udk2h" target="_blank">axios.com</a> (2025-12-10 00:27:19)</span><span style="padding-right:50px;">Trump criticises 'weak' European leaders over Ukraine and immigration <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7ku4khobd2y" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-10 00:25:19)</span><span style="padding-right:50px;">Rashan Brown's New York-based side hustle Poetry me, please — a series of poetry showcase events — brings in six figures per year. Here's how he built it.  <a href="https://bsky.app/profile/cnbc.com/post/3m7ku4ho5zi2j" target="_blank">cnbc.com</a> (2025-12-10 00:25:17)</span><span style="padding-right:50px;">Exclusive: Thailand says tariffs must not be used to force peace with Cambodia reut.rs/44Wuv0W <a href="https://bsky.app/profile/reuters.com/post/3m7ku46a7xg2n" target="_blank">reuters.com</a> (2025-12-10 00:25:06)</span>
+<span style="padding-right:50px;">Microsoft to invest $17.5 billion in India, CEO Nadella says reut.rs/48DYSKH <a href="https://bsky.app/profile/reuters.com/post/3m7kva3qtzq22" target="_blank">reuters.com</a> (2025-12-10 00:45:12)</span><span style="padding-right:50px;"> Weight-loss drugs are bringing a new commercial reality on.ft.com/3MouzQV  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m7kv5vx5ec25" target="_blank">financialtimes.com</a> (2025-12-10 00:43:59)</span><span style="padding-right:50px;"> Investors should look to the data, rather than the Fed, for guidance on.ft.com/490bwVN  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m7kv5vgbbp2w" target="_blank">financialtimes.com</a> (2025-12-10 00:43:58)</span><span style="padding-right:50px;">Why Netflix is making a big mistake trying to buy Warner Bros. Discovery, according to a top analyst <a href="https://bsky.app/profile/cnbc.com/post/3m7kv4azbjb2q" target="_blank">cnbc.com</a> (2025-12-10 00:43:03)</span><span style="padding-right:50px;">Italy to reassure ECB's Lagarde over ownership of central bank gold reut.rs/3Ylwvfu <a href="https://bsky.app/profile/reuters.com/post/3m7kuxjakrk2a" target="_blank">reuters.com</a> (2025-12-10 00:40:24)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47834.45 (🔺109.93 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23534.87 (🔺30.25 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.55 (🔻1.01 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.62 (🔺0.70 : 2025-12-09)</span>
+<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47826.29 (🔺101.77 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23537.54 (🔺32.93 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.66 (🔻0.90 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.81 (🔺0.89 : 2025-12-09)</span>
   </div>
 </div>
 
@@ -32,95 +32,92 @@
 
 ## News Headlines
 
-1. 「ハリス氏は2025年大統領選挙に立候補するかどうか、明言しない」
-2. 「ウクライナと移民に関する欧州のリーダーを非難するトランプ氏」
-3. 「デジタルパフォーマンスで年商6桁を稼ぐラッシャン・ブラウン氏は何ができるのか」
-4. 「米国裁判所がエプスタイン事件の調査記録を公開するよう命じる」
-5. 「トランプ政権が空港改善計画に1億ドルを投入する」
-6. 「マイクロソフトがインドのAI基盤開発に17.5億ドルを投資する」
+1. マイクロソフト、インドで17.5億ドルを投資
+2. マイクロソフト、インドで17.5億ドルを投資
+3. ウォーナー・ブラザーズ・ディスカバリー買収に失敗したNetflix
+4. イタリア、ECBのラガルドさんに中央銀行の金の所有について説明
+5. 連邦裁判所がマックスウェル氏のグランド・ジュリーの記録を開示命令
+6. インドネシアのエニがボルネオで大ガス田を発見
 
 ----
 
-@nytimes.com
+@reuters.com
 
-The one thing Kamala Harris absolutely does not want to talk about is whether she is thinking about running for president again. “It’s three years from nooooow,” she told us. She is busy selling books — a lot of them. She is not yet selling herself.
-Read our full interview on what she plans next.
+Microsoft to invest $17.5 billion in India, CEO Nadella says reut.rs/48DYSKH
 
-[2025-12-10 00:29:02](https://bsky.app/profile/nytimes.com/post/3m7kud765t42q)
-
----
-
-@axios.com
-
-The White House is taking some of the biggest steps yet to address the economic pain caused by its own tariff regime.
-
-[2025-12-10 00:27:19](https://bsky.app/profile/axios.com/post/3m7kua44udk2h)
+[2025-12-10 00:45:12](https://bsky.app/profile/reuters.com/post/3m7kva3qtzq22)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@financialtimes.com
 
-Trump criticises 'weak' European leaders over Ukraine and immigration
+ Weight-loss drugs are bringing a new commercial reality on.ft.com/3MouzQV  | opinion
 
-[2025-12-10 00:25:19](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7ku4khobd2y)
+[2025-12-10 00:43:59](https://bsky.app/profile/financialtimes.com/post/3m7kv5vx5ec25)
+
+---
+
+@financialtimes.com
+
+ Investors should look to the data, rather than the Fed, for guidance on.ft.com/490bwVN  | opinion
+
+[2025-12-10 00:43:58](https://bsky.app/profile/financialtimes.com/post/3m7kv5vgbbp2w)
 
 ---
 
 @cnbc.com
 
-Rashan Brown's New York-based side hustle Poetry me, please — a series of poetry showcase events — brings in six figures per year. Here's how he built it. 
+Why Netflix is making a big mistake trying to buy Warner Bros. Discovery, according to a top analyst
 
-[2025-12-10 00:25:17](https://bsky.app/profile/cnbc.com/post/3m7ku4ho5zi2j)
-
----
-
-@reuters.com
-
-Exclusive: Thailand says tariffs must not be used to force peace with Cambodia reut.rs/44Wuv0W
-
-[2025-12-10 00:25:06](https://bsky.app/profile/reuters.com/post/3m7ku46a7xg2n)
-
----
-
-@washingtonpost.com
-
-<strong><span style="color: red;">Breaking news:</span> A federal judge ordered the release of grand jury materials in the case against Ghislaine Maxwell, saying that public access to the records is required by the Epstein Files Transparency Act that Congress previously approved. </strong><br><strong></strong>
-
-[2025-12-10 00:22:35](https://bsky.app/profile/washingtonpost.com/post/3m7ktxnthgo2q)
-
----
-
-@nytimes.com
-
-<strong><span style="color: red;">Breaking News</span>: A federal judge granted the government’s motion to unseal the records of the grand jury investigation of Ghislaine Maxwell, the longtime companion of Jeffrey Epstein who is serving a 20-year prison sentence after being convicted of sex-trafficking a minor and other counts.</strong>
-
-[2025-12-10 00:16:09](https://bsky.app/profile/nytimes.com/post/3m7ktm5weg52x)
-
----
-
-@washingtonpost.com
-
-Trump Cabinet officials Sean P. Duffy and Robert F. Kennedy Jr. did pull-ups and introduced the $1 billion “Make Travel Family Friendly Again” initiative.
-
-The federal funding will be used to improve the passenger experience at airports. https://wapo.st/48WPKSO
-
-[2025-12-10 00:15:55](https://bsky.app/profile/washingtonpost.com/post/3m7ktlpyl622i)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-French feminists outraged by Brigitte Macron's comment about activists
-
-[2025-12-10 00:15:25](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7ktkubwpt2w)
+[2025-12-10 00:43:03](https://bsky.app/profile/cnbc.com/post/3m7kv4azbjb2q)
 
 ---
 
 @reuters.com
 
-200,000 flee new advance of Rwanda-backed rebels in Congo despite Trump peace deal reut.rs/4iImYso
+Italy to reassure ECB's Lagarde over ownership of central bank gold reut.rs/3Ylwvfu
 
-[2025-12-10 00:15:15](https://bsky.app/profile/reuters.com/post/3m7ktkjmf242y)
+[2025-12-10 00:40:24](https://bsky.app/profile/reuters.com/post/3m7kuxjakrk2a)
+
+---
+
+@yahoofinance.com
+
+Job openings rose a bit in October amid broader concerns about labor market
+
+[2025-12-10 00:36:03](https://bsky.app/profile/yahoofinance.com/post/3m7kupq5wze2c)
+
+---
+
+@reuters.com
+
+Switzerland says US tariff reduction statement published in error reut.rs/4oHAX2Y
+
+[2025-12-10 00:35:15](https://bsky.app/profile/reuters.com/post/3m7kuocot5a2e)
+
+---
+
+@forbes.com
+
+Recent data has pointed to a cooling labor market, with an expected uptick in layoffs.
+
+[2025-12-10 00:35:08](https://bsky.app/profile/forbes.com/post/3m7kuo3r5qb2m)
+
+---
+
+@wsj.com
+
+Bruce Blakeman, a Long Island Republican who touts his support of ICE, will run for governor of New York, setting up a primary battle with Rep. Elise Stefanik.
+
+[2025-12-10 00:34:41](https://bsky.app/profile/wsj.com/post/3m7kunciczb2x)
+
+---
+
+@axios.com
+
+NEW: Judge orders release of Ghislaine Maxwell grand jury records
+
+[2025-12-10 00:34:17](https://bsky.app/profile/axios.com/post/3m7kumku57k2c)
 
 ---
 
