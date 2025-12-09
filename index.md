@@ -1,9 +1,9 @@
-# [2025-12-09 14:10 updated](2025_12_09.md)
+# [2025-12-09 14:30 updated](2025_12_09.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">カーリング五輪世界最終予選 女子日本代表 5連勝で決定戦進出 https://news.web.nhk/newsweb/na/na-k10014998771000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jronai3z26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 14:09:03)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】家族1人死亡の民家火災は祖母の放火か 「自殺するため火をつけた」68歳の女を逮捕 殺人・殺人未遂の疑いも (2025-12-09 13:48:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7jrlcc7o22y" target="_blank">sokuho.news</a> (2025-12-09 14:07:13)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】旧統一教会が田中富弘会長の辞任発表 9日午後4時からの会見で経緯説明へ (2025-12-09 14:02:33) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7jrlabtqn2x" target="_blank">sokuho.news</a> (2025-12-09 14:07:11)</span><span style="padding-right:50px;">ドジャース監督 “投げないで” WBC 大谷翔平の打者専念を希望 https://news.web.nhk/newsweb/na/na-k10014998781000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jrjanftw2r" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 14:06:02)</span><span style="padding-right:50px;">大学のAI活用、二極化　入試で活用例も「不正」警戒で二の足なお www.nikkei.com/article/DGXZQO...   全体の4割を占める209校はまだ活用していないと回答。活用している大学についても「ほぼ大学全体で活用」としたのは全体の17%にとどまっています。   消極姿勢の背景とみられるのが、生成AI浸透によるマイナスの影響。   活用の懸念点を聞いたところ、約6割の大学が「リポートや論文などに不正利用される」。半数近くは「学生の思考力や創造性が損なわれる」と回答しました。 <a href="https://bsky.app/profile/nikkei.com/post/3m7jrbtqb372t" target="_blank">nikkei.com</a> (2025-12-09 14:01:56)</span>
+<span style="padding-right:50px;">City of London explores outside investment for housing projects on.ft.com/4iKHGru <a href="https://bsky.app/profile/financialtimes.com/post/3m7jsfvj46z26" target="_blank">financialtimes.com</a> (2025-12-09 14:22:06)</span><span style="padding-right:50px;">中国 王毅外相 “日本は戦後80年も歴史を徹底的には反省せず” https://news.web.nhk/newsweb/na/na-k10014998801000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jsea2sf72p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 14:21:07)</span><span style="padding-right:50px;">青森 使用済み核燃料の再処理工場 燃料プールから約650L溢水 https://news.web.nhk/newsweb/na/na-k10014998821000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jse2lj3d26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 14:21:02)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】「家の1階から煙のようなものが見える」住宅火災で高齢男性が死亡…住人の70代男性か…警察と消防が出火原因調べる〈北海道札幌市西区西野〉 (2025-12-09 14:15) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7jsdffxta24" target="_blank">sokuho.news</a> (2025-12-09 14:20:42)</span><span style="padding-right:50px;">From Breakingviews - Breakingviews - The dark side of strong private finances reut.rs/4rGexSF <a href="https://bsky.app/profile/reuters.com/post/3m7jsckrvxe27" target="_blank">reuters.com</a> (2025-12-09 14:20:14)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50629.40 (🔻47.96 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.32 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.91 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3067.00 (🔻9.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.05 (🔺0.13 : 2025-12-09)</span>
+<span style="padding-right:50px;">NIKKEI: 50565.32 (🔻112.04 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.32 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.91 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3065.00 (🔻11.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 155.87 (🔻0.05 : 2025-12-09)</span>
   </div>
 </div>
 
@@ -32,111 +32,120 @@
 
 ## News Headlines
 
-1. カーリング五輪世界最終予選　女子日本代表　5連勝で決定戦進出
-2. 旧統一教会　田中富広会長が辞任　9日午後4時からの会見で経緯説明へ
-3. 大谷翔平　WBCで打者専念を希望　ドジャース監督が意見表明
-4. 選択的夫婦別姓　国民投票の実施を決定　内閣総理大臣がprime ministerが発表
-5. 震度6強　青森県で地震　SNSに誤情報を注意
-6. 旧統一教会　田中富広会長の辞任　高裁の審理終結が区切りに
+1. 青森県で最大震度1の地震が発生　津波の心配なし
+2. 中国外相が日本を批判　戦後80年も歴史を徹底的に反省しなかったと
+3. 青森県で使用済み核燃料の再処理工場から約650Lの水が溢出した
+4. 「AUKUS」引き続き推進を確認　米豪の外務・防衛閣僚協議
+5. カーリング五輪世界最終予選 女子日本代表 5連勝で決定戦進出
+6. ドジャース監督が大谷翔平の打者専念を希望　WBCでの活躍を期待
 
 ----
 
-@nhknewsunofficial.bsky.social
+@financialtimes.com
 
-カーリング五輪世界最終予選 女子日本代表 5連勝で決定戦進出
-https://news.web.nhk/newsweb/na/na-k10014998771000
+City of London explores outside investment for housing projects on.ft.com/4iKHGru
 
-[2025-12-09 14:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jronai3z26)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】家族1人死亡の民家火災は祖母の放火か 「自殺するため火をつけた」68歳の女を逮捕 殺人・殺人未遂の疑いも
-(2025-12-09 13:48:00) #ニュース
-
-[2025-12-09 14:07:13](https://bsky.app/profile/sokuho.news/post/3m7jrlcc7o22y)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】旧統一教会が田中富弘会長の辞任発表 9日午後4時からの会見で経緯説明へ
-(2025-12-09 14:02:33) #ニュース
-
-[2025-12-09 14:07:11](https://bsky.app/profile/sokuho.news/post/3m7jrlabtqn2x)
+[2025-12-09 14:22:06](https://bsky.app/profile/financialtimes.com/post/3m7jsfvj46z26)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-ドジャース監督 “投げないで” WBC 大谷翔平の打者専念を希望
-https://news.web.nhk/newsweb/na/na-k10014998781000
+中国 王毅外相 “日本は戦後80年も歴史を徹底的には反省せず”
+https://news.web.nhk/newsweb/na/na-k10014998801000
 
-[2025-12-09 14:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jrjanftw2r)
+[2025-12-09 14:21:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jsea2sf72p)
 
 ---
 
-@nikkei.com
+@nhknewsunofficial.bsky.social
 
-大学のAI活用、二極化　入試で活用例も「不正」警戒で二の足なお
-www.nikkei.com/article/DGXZQO...
- 
-全体の4割を占める209校はまだ活用していないと回答。活用している大学についても「ほぼ大学全体で活用」としたのは全体の17%にとどまっています。
- 
-消極姿勢の背景とみられるのが、生成AI浸透によるマイナスの影響。
- 
-活用の懸念点を聞いたところ、約6割の大学が「リポートや論文などに不正利用される」。半数近くは「学生の思考力や創造性が損なわれる」と回答しました。
+青森 使用済み核燃料の再処理工場 燃料プールから約650L溢水
+https://news.web.nhk/newsweb/na/na-k10014998821000
 
-[2025-12-09 14:01:56](https://bsky.app/profile/nikkei.com/post/3m7jrbtqb372t)
+[2025-12-09 14:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jse2lj3d26)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】「家の1階から煙のようなものが見える」住宅火災で高齢男性が死亡…住人の70代男性か…警察と消防が出火原因調べる〈北海道札幌市西区西野〉
+(2025-12-09 14:15) #ニュース
+
+[2025-12-09 14:20:42](https://bsky.app/profile/sokuho.news/post/3m7jsdffxta24)
 
 ---
 
 @reuters.com
 
-Defense bill would require US military to end reliance on Chinese display tech by 2030 reut.rs/48X3KvQ
+From Breakingviews - Breakingviews - The dark side of strong private finances reut.rs/4rGexSF
 
-[2025-12-09 14:00:38](https://bsky.app/profile/reuters.com/post/3m7jr7j73vw2n)
-
----
-
-@aljazeera.com
-
-More than 1,800 people have died as floods have ravaged Sri Lanka, Indonesia, Thailand and Malaysia.
-
-[2025-12-09 14:00:37](https://bsky.app/profile/aljazeera.com/post/3m7jr7ir7gd2f)
+[2025-12-09 14:20:14](https://bsky.app/profile/reuters.com/post/3m7jsckrvxe27)
 
 ---
 
-@cnbc.com
+@sokuho.news
 
-The things people keep around are generally the ones they reach for when they need them.
+🔔防災科研より【強震モニタ】動画です。
 
-CNBC Make It staffers shared the six items that genuinely proved their worth in 2025.
+震源:青森県東方沖, 深さ:30km
+マグニチュード:4.3, 最大震度:1
+📍https://www.google.com/maps?q=41.2,143.0&ll=41.2,143.0&z=7&t=h
+地震発生日時:2025-12-09 14:15頃
+(10倍速▶180s→18s) #地震
 
-[2025-12-09 14:00:18](https://bsky.app/profile/cnbc.com/post/3m7jr6w73ls2e)
-
----
-
-@washingtonpost.com
-
-Column: Even if you don’t think the position of the stars influences our lives, you’re probably still curious about whether birthdays of a feather flock together.
-
-Are some Zodiac signs, and birthdays, more widespread?
-
-[2025-12-09 14:00:09](https://bsky.app/profile/washingtonpost.com/post/3m7jr6nn3uk2x)
+[2025-12-09 14:19:37](https://bsky.app/profile/sokuho.news/post/3m7jsbhuq5627)
 
 ---
 
-@nytimes.com
+@sokuho.news
 
-Britain and Ireland have issued some of their strongest weather warnings as forecasters urged residents to brace for powerful winds and heavy rain from a storm that is expected to lash both countries from Tuesday through Wednesday.
+🔔気象庁より【地震速報】です。
 
-[2025-12-09 14:00:04](https://bsky.app/profile/nytimes.com/post/3m7jr6iiwsb24)
+14時15分頃、青森県・北海道・岩手県で最大震度1の地震を観測しました。
+震源:青森県東方沖, 深さ:30km, 規模:M4.3
+この地震による津波の心配はありません。
+(2025-12-09 14:19:03) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/09/2025-12-09-14-15-53.html?xlarge_image=1
+
+[2025-12-09 14:19:04](https://bsky.app/profile/sokuho.news/post/3m7jsaidcs32q)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗
+
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像4🈡
+(2025-12-09 14:16:58) #緊急地震速報
+
+[2025-12-09 14:17:05](https://bsky.app/profile/sokuho.news/post/3m7js4whtwf2g)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗
+
+⚠️揺れに警戒してください
+🔗http://www.kmoni.bosai.go.jp/
+
+🔶防災科研/強震モニタ/予測震度画像1
+(2025-12-09 14:16:11) #緊急地震速報
+
+[2025-12-09 14:16:18](https://bsky.app/profile/sokuho.news/post/3m7js3jzsm32y)
+
+---
+
+@financialtimes.com
+
+Russia’s hybrid warfare puts Europe to the test on.ft.com/4iOL7xA
+
+[2025-12-09 14:15:31](https://bsky.app/profile/financialtimes.com/post/3m7js24smi727)
 
 ---
 
