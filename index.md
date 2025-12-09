@@ -1,9 +1,9 @@
-# [2025-12-09 18:10 updated](2025_12_09.md)
+# [2025-12-09 18:30 updated](2025_12_09.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">円相場 値下がり 米の長期金利上昇に伴い円売りドル買いの動き https://news.web.nhk/newsweb/na/na-k10014999081000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7k73vmv3z2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 18:09:07)</span><span style="padding-right:50px;">皇后さま 62歳の誕生日 皇居で祝賀行事行われる https://news.web.nhk/newsweb/na/na-k10014998971000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7k73qrho72e" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 18:09:02)</span><span style="padding-right:50px;">🛎️ANNより【速報】です。  【速報】また山火事発生 今度は神奈川・伊勢原市の「日向山」 (2025-12-09 18:03:45) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7k6ynofkt2l" target="_blank">sokuho.news</a> (2025-12-09 18:07:20)</span><span style="padding-right:50px;">LIVE: UN Environment Program’s global environmental assessment youtube.com/live/LqYiW3l... <a href="https://bsky.app/profile/reuters.com/post/3m7k6xetkik24" target="_blank">reuters.com</a> (2025-12-09 18:06:37)</span><span style="padding-right:50px;">「現役ドラフト」ソフトバンク 佐藤直樹が楽天など12人が移籍 https://news.web.nhk/newsweb/na/na-k10014998751000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7k6wlhl3z2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 18:06:08)</span>
+<span style="padding-right:50px;">Ford is turning to French peer Renault to help reboot its European business in a fresh sign of the upheaval being caused by Chinese automakers outside the U.S. <a href="https://bsky.app/profile/wsj.com/post/3m7ka2xr5jd2w" target="_blank">wsj.com</a> (2025-12-09 18:26:31)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】JR芸備線で人身事故 三次ー広島駅間で順次運転見合わせ 広島 (2025-12-09 18:18) #ニュース  🚃鉄道運行情報 🔗https://transit.yahoo.co.jp/diainfo <a href="https://bsky.app/profile/sokuho.news/post/3m7ka2pgy6d2d" target="_blank">sokuho.news</a> (2025-12-09 18:26:23)</span><span style="padding-right:50px;">Spacecraft brings Russians, American back to earth, Russia's space agency says reut.rs/4901eVB <a href="https://bsky.app/profile/reuters.com/post/3m7k7ykcrbf2y" target="_blank">reuters.com</a> (2025-12-09 18:25:10)</span><span style="padding-right:50px;">【地震速報】北海道 青森県で震度３ 津波の心配なし https://news.web.nhk/newsweb/na/na-k10014999121000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7k7wl7csl24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 18:24:02)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:青森県東方沖, 深さ:30km マグニチュード:4.3, 最大震度:1 📍https://www.google.com/maps?q=41.2,143.1&ll=41.2,143.1&z=7&t=h 地震発生日時:2025-12-09 18:20頃 (10倍速▶180s→18s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m7k7wabkqj26" target="_blank">sokuho.news</a> (2025-12-09 18:23:52)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.32 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.91 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.25 (🔺0.33 : 2025-12-09)</span>
+<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.32 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.91 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.05 (🔺0.13 : 2025-12-09)</span>
   </div>
 </div>
 
@@ -32,107 +32,125 @@
 
 ## News Headlines
 
-1. 皇后さま、62歳の誕生日を祝賀行事で迎える
-2. 神奈川県伊勢原市で山火事　消防が現場にたどり着けず
-3. 「現役ドラフト」ソフトバンクの佐藤直樹が楽天など12選手と移籍
-4. NISAの投資枠「つみたて投資」年齢制限撤廃などで最終調整
-5. 円相場、値下がり　米の長期金利上昇に伴い円売りドル買いの動き
-6. 中国の官僚が不正事件で処刑　外国人受刑者も多数
+1.  JR芸備線で人身事故　三次ー広島駅間で順次運転見合わせ
+2.  皇后さま　62歳の誕生日　皇居で祝賀行事行われる
+3.  「現役ドラフト」ソフトバンク　佐藤が楽天へ移籍
+4.  気象庁　初の「後発地震注意情報」発表　備えの確認を
+5.  円相場 値下がり　米の長期金利上昇に伴い円売りドル買いの動き
+6.  ノーベルウイーク　日本被団協などテーマにしたアート作品展
 
 ----
 
-@nhknewsunofficial.bsky.social
+@wsj.com
 
-円相場 値下がり 米の長期金利上昇に伴い円売りドル買いの動き
-https://news.web.nhk/newsweb/na/na-k10014999081000
+Ford is turning to French peer Renault to help reboot its European business in a fresh sign of the upheaval being caused by Chinese automakers outside the U.S.
 
-[2025-12-09 18:09:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7k73vmv3z2b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-皇后さま 62歳の誕生日 皇居で祝賀行事行われる
-https://news.web.nhk/newsweb/na/na-k10014998971000
-
-[2025-12-09 18:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7k73qrho72e)
+[2025-12-09 18:26:31](https://bsky.app/profile/wsj.com/post/3m7ka2xr5jd2w)
 
 ---
 
 @sokuho.news
 
-🛎️ANNより【速報】です。
+🛎️FNNより【速報】です。
 
-【速報】また山火事発生 今度は神奈川・伊勢原市の「日向山」
-(2025-12-09 18:03:45) #ニュース
+【速報】JR芸備線で人身事故 三次ー広島駅間で順次運転見合わせ 広島
+(2025-12-09 18:18) #ニュース
 
-[2025-12-09 18:07:20](https://bsky.app/profile/sokuho.news/post/3m7k6ynofkt2l)
+🚃鉄道運行情報
+🔗https://transit.yahoo.co.jp/diainfo
+
+[2025-12-09 18:26:23](https://bsky.app/profile/sokuho.news/post/3m7ka2pgy6d2d)
 
 ---
 
 @reuters.com
 
-LIVE: UN Environment Program’s global environmental assessment youtube.com/live/LqYiW3l...
+Spacecraft brings Russians, American back to earth, Russia's space agency says reut.rs/4901eVB
 
-[2025-12-09 18:06:37](https://bsky.app/profile/reuters.com/post/3m7k6xetkik24)
+[2025-12-09 18:25:10](https://bsky.app/profile/reuters.com/post/3m7k7ykcrbf2y)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-「現役ドラフト」ソフトバンク 佐藤直樹が楽天など12人が移籍
+【地震速報】北海道 青森県で震度３ 津波の心配なし
+https://news.web.nhk/newsweb/na/na-k10014999121000
+
+[2025-12-09 18:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7k7wl7csl24)
+
+---
+
+@sokuho.news
+
+🔔防災科研より【強震モニタ】動画です。
+
+震源:青森県東方沖, 深さ:30km
+マグニチュード:4.3, 最大震度:1
+📍https://www.google.com/maps?q=41.2,143.1&ll=41.2,143.1&z=7&t=h
+地震発生日時:2025-12-09 18:20頃
+(10倍速▶180s→18s) #地震
+
+[2025-12-09 18:23:52](https://bsky.app/profile/sokuho.news/post/3m7k7wabkqj26)
+
+---
+
+@sokuho.news
+
+🔔気象庁より【地震速報】です。
+
+18時20分頃、青森県・北海道・岩手県で最大震度1の地震を観測しました。
+震源:青森県東方沖, 深さ:30km, 規模:M4.3
+この地震による津波の心配はありません。
+(2025-12-09 18:23:16) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/09/2025-12-09-18-20-08.html?xlarge_image=1
+
+[2025-12-09 18:23:17](https://bsky.app/profile/sokuho.news/post/3m7k7v75yuh2h)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】JR芸備線 戸坂ー矢賀駅間で人身事故 三次ー広島駅間で運転見合わせ 広島
+(2025-12-09 18:18) #ニュース
+
+🚃鉄道運行情報
+🔗https://transit.yahoo.co.jp/diainfo
+
+[2025-12-09 18:21:29](https://bsky.app/profile/sokuho.news/post/3m7k7rxjkw227)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+「現役ドラフト」ソフトバンク 佐藤が楽天へ移籍【全名簿】
 https://news.web.nhk/newsweb/na/na-k10014998751000
 
-[2025-12-09 18:06:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7k6wlhl3z2b)
+[2025-12-09 18:21:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7k7rfbcbe26)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-ノーベルウイーク 日本被団協などテーマにしたアート作品展
-https://news.web.nhk/newsweb/na/na-k10014998981000
+楽天グループとウーバー日本法人 ポイントサービスで本格連携
+https://news.web.nhk/newsweb/na/na-k10014999071000
 
-[2025-12-09 18:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7k6wfwd2i2g)
-
----
-
-@reuters.com
-
-Chinese officials call for more REITs to steady property sector reut.rs/48IRais
-
-[2025-12-09 18:05:06](https://bsky.app/profile/reuters.com/post/3m7k6uodcwl2o)
+[2025-12-09 18:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7k7rahqf52j)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@sokuho.news
 
-NISA つみたて投資枠 年齢制限撤廃などで最終調整 政府・与党
-https://news.web.nhk/newsweb/na/na-k10014999011000
+🛎️JNNより【速報】です。
 
-[2025-12-09 18:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7k6qzqqrc24)
+【速報】「列車と人が接触」 JR芸備線 広島ー三次で順次運転を見合わせ
+(2025-12-09 18:17:00) #ニュース
 
----
+🚃鉄道運行情報
+🔗https://transit.yahoo.co.jp/diainfo
 
-@nikkei.com
-
-おこめ券配布、自治体の反発広がる
-www.nikkei.com/article/DGXZQO...
- 
-大阪府交野市や箕面市、東京都江戸川区はコストなどの負担増を懸念し、配布見送りを表明。
- 
-交野市の山本景市長は、おこめ券は特定団体の利益誘導につながることを懸念。経費率が20%以上と高く、物価対策には不適切と主張しています。
- 
-おこめ券はコメ卸の業界団体、全国米穀販売事業共済協同組合（全米販）やJA全農が発行。現状1枚500円で販売され、440円分のコメと引き換えできます。差額の60円分は印刷経費や発行元の利益となります。
-
-[2025-12-09 18:01:56](https://bsky.app/profile/nikkei.com/post/3m7k6oysfvo2e)
-
----
-
-@reuters.com
-
-Eagles QB Jalen Hurts first player to commit 2 turnovers on same play reut.rs/44foVqr
-
-[2025-12-09 18:00:33](https://bsky.app/profile/reuters.com/post/3m7k6mjmicm2w)
+[2025-12-09 18:20:35](https://bsky.app/profile/sokuho.news/post/3m7k7qe5c6k2y)
 
 ---
 
