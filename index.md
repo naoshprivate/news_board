@@ -1,9 +1,9 @@
-# [2025-12-09 10:50 updated](2025_12_09.md)
+# [2025-12-09 11:10 updated](2025_12_09.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">政府 来年度予算編成基本方針を閣議決定「責任ある積極財政」 https://news.web.nhk/newsweb/na/na-k10014998591000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jgh74rli2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 10:48:03)</span><span style="padding-right:50px;">衆院予算委 11日に集中審議と締めくくり質疑で大筋合意 https://news.web.nhk/newsweb/na/na-k10014998571000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jgbtyyre2g" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 10:45:03)</span><span style="padding-right:50px;">【地震】東北新幹線 盛岡～新青森 午後3時に運転再開の見込み https://news.web.nhk/newsweb/na/na-k10014998641000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jg4hgdvr2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 10:42:02)</span><span style="padding-right:50px;">Jimmy Kimmel extends late night contract for a year  u.afp.com/S7Na <a href="https://bsky.app/profile/en.afp.com/post/3m7jfzaflnt2e" target="_blank">en.afp.com</a> (2025-12-09 10:40:16)</span><span style="padding-right:50px;">Democratic lawmakers warn of 'cascading consequences' of underfunding defense lawyers reut.rs/48osKMo <a href="https://bsky.app/profile/reuters.com/post/3m7jfz7c6vg27" target="_blank">reuters.com</a> (2025-12-09 10:40:15)</span>
+<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】95歳の女性の左肩付近を平手で殴打するなど暴行した疑いで看護師を逮捕 (2025-12-09 10:55:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7jhfcgzf32x" target="_blank">sokuho.news</a> (2025-12-09 11:04:55)</span><span style="padding-right:50px;">Scientists are warning that the ongoing measles outbreak might force the U.S. to lose its elimination status for the first time in decades. <a href="https://bsky.app/profile/axios.com/post/3m7jhe3wlj22l" target="_blank">axios.com</a> (2025-12-09 11:04:14)</span><span style="padding-right:50px;">70歳以上医療費窓口負担見直し 来年度中の制度設計検討 厚労相 https://news.web.nhk/newsweb/na/na-k10014998631000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jhbypqjk24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 11:03:02)</span><span style="padding-right:50px;">Republican Rep. Nancy Mace criticized House GOP leaders, arguing they have marginalized rank-and file members, including women, in a New York Times op-ed published Monday.  <a href="https://bsky.app/profile/cnn.com/post/3m7jha55dtc23" target="_blank">cnn.com</a> (2025-12-09 11:02:01)</span><span style="padding-right:50px;">青森で震度6強、初の後発地震注意情報　今後1週間は警戒必要 www.nikkei.com/article/DGXZQO...  気象庁によると、今回の地震は日本海溝・千島海溝沿いの巨大地震の想定震源域内で発生。  より大きな地震の可能性が平常時より高まったとして「北海道・三陸沖後発地震注意情報」を発表しました。  同情報が出るのは2022年12月の運用開始以降、初めてです。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m7jh7xufou2t" target="_blank">nikkei.com</a> (2025-12-09 11:01:56)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50520.16 (🔻157.20 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.31 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.92 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔻16.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 155.84 (🔻0.08 : 2025-12-09)</span>
+<span style="padding-right:50px;">NIKKEI: 50510.66 (🔻166.70 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.31 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.92 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3061.00 (🔻15.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 155.78 (🔻0.14 : 2025-12-09)</span>
   </div>
 </div>
 
@@ -32,84 +32,65 @@
 
 ## News Headlines
 
-1. 政府　来年度予算編成基本方針を閣議決定　「責任ある積極財政」
-2. 衆院予算委　11日に集中審議と締めくくり質疑で大筋合意
-3. 東北新幹線　盛岡～新青森　午後3時に運転再開の見込み
-4. ワーナー・パラマウント買収　Netflixが11兆円で買収する計画
-5. 「出国税」　来年度の税制改正で一律3000円に引き上げ検討
-6. 小泉大臣　中国に反論　中国軍機のレーダー照射問題
+1. 95歳の女性に暴行した疑いの看護師逮捕
+2. アメリカ、麻疹の流行によりエリミネーション認定が失う可能性
+3. 青森県で震度6強の地震　北海道・三陸沖で後発地震注意情報
+4. 青森県で約480軒が断水　国交省が状況を調査
+5. プロ野球選手を逮捕　わいせつ未遂容疑で8回目の逮捕
+6. 東北新幹線が午後3時以降に運転再開の見込み
 
 ----
-
-@nhknewsunofficial.bsky.social
-
-政府 来年度予算編成基本方針を閣議決定「責任ある積極財政」
-https://news.web.nhk/newsweb/na/na-k10014998591000
-
-[2025-12-09 10:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jgh74rli2u)
-
----
-
-@nhknewsunofficial.bsky.social
-
-衆院予算委 11日に集中審議と締めくくり質疑で大筋合意
-https://news.web.nhk/newsweb/na/na-k10014998571000
-
-[2025-12-09 10:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jgbtyyre2g)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【地震】東北新幹線 盛岡～新青森 午後3時に運転再開の見込み
-https://news.web.nhk/newsweb/na/na-k10014998641000
-
-[2025-12-09 10:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jg4hgdvr2k)
-
----
-
-@en.afp.com
-
-Jimmy Kimmel extends late night contract for a year
-
-u.afp.com/S7Na
-
-[2025-12-09 10:40:16](https://bsky.app/profile/en.afp.com/post/3m7jfzaflnt2e)
-
----
-
-@reuters.com
-
-Democratic lawmakers warn of 'cascading consequences' of underfunding defense lawyers reut.rs/48osKMo
-
-[2025-12-09 10:40:15](https://bsky.app/profile/reuters.com/post/3m7jfz7c6vg27)
-
----
-
-@nytimes.com
-
-"Wicked: For Good" picked up Golden Globe nominations for its original songs and the stars Cynthia Erivo and Ariana Grande, but failed to secure a spot for best comedy or musical. "The Globes just didn't seem to be in the musical spirit the year," Kyle Buchanan writes in "The Projectionist."
-
-[2025-12-09 10:40:02](https://bsky.app/profile/nytimes.com/post/3m7jfysj6nc2e)
-
----
 
 @sokuho.news
 
 🛎️JNNより【速報】です。
 
-【速報】歩行中の女性が車にはねられる 車は現場から立ち去る 警察がひき逃げ事件として捜査 大分・別府市
-(2025-12-09 10:26:00) #ニュース
+【速報】95歳の女性の左肩付近を平手で殴打するなど暴行した疑いで看護師を逮捕
+(2025-12-09 10:55:00) #ニュース
 
-[2025-12-09 10:39:27](https://bsky.app/profile/sokuho.news/post/3m7jfxr5vgh2w)
+[2025-12-09 11:04:55](https://bsky.app/profile/sokuho.news/post/3m7jhfcgzf32x)
 
 ---
 
-@cbsnews.com
+@axios.com
 
-Their retirement community offered lifelong care and entrance-fee refunds down the line. Then it went bankrupt.
+Scientists are warning that the ongoing measles outbreak might force the U.S. to lose its elimination status for the first time in decades.
 
-[2025-12-09 10:35:00](https://bsky.app/profile/cbsnews.com/post/3m7jfptagps2y)
+[2025-12-09 11:04:14](https://bsky.app/profile/axios.com/post/3m7jhe3wlj22l)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+70歳以上医療費窓口負担見直し 来年度中の制度設計検討 厚労相
+https://news.web.nhk/newsweb/na/na-k10014998631000
+
+[2025-12-09 11:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jhbypqjk24)
+
+---
+
+@cnn.com
+
+Republican Rep. Nancy Mace criticized House GOP leaders, arguing they have marginalized rank-and file members, including women, in a New York Times op-ed published Monday. 
+
+[2025-12-09 11:02:01](https://bsky.app/profile/cnn.com/post/3m7jha55dtc23)
+
+---
+
+@nikkei.com
+
+青森で震度6強、初の後発地震注意情報　今後1週間は警戒必要
+www.nikkei.com/article/DGXZQO...
+
+気象庁によると、今回の地震は日本海溝・千島海溝沿いの巨大地震の想定震源域内で発生。
+
+より大きな地震の可能性が平常時より高まったとして「北海道・三陸沖後発地震注意情報」を発表しました。
+
+同情報が出るのは2022年12月の運用開始以降、初めてです。
+
+#ニュース
+
+[2025-12-09 11:01:56](https://bsky.app/profile/nikkei.com/post/3m7jh7xufou2t)
 
 ---
 
@@ -117,18 +98,49 @@ Their retirement community offered lifelong care and entrance-fee refunds down t
 
 🔔ANNより【速報】です。
 
-【速報】青森東方沖地震で一時休業の店舗も 安全点検や商品落下などで
-(10:32) #地震
+【速報】青森県七戸町、階上町と岩手県軽米町で合計約480軒が断水 国交省
+(10:58) #ニュース
+https://news.tv-asahi.co.jp/news_society/articles/000471741.html?display=full
 
-[2025-12-09 10:33:18](https://bsky.app/profile/sokuho.news/post/3m7jfmrchce24)
+[2025-12-09 11:01:19](https://bsky.app/profile/sokuho.news/post/3m7jh6vcmtu26)
 
 ---
 
-@cnbc.com
+@sokuho.news
 
-CNBC Daily Open: Investors are loving the Paramount-Warner Bros-Netflix drama
+🛎️文春より【スクープ】です。
 
-[2025-12-09 10:32:54](https://bsky.app/profile/cnbc.com/post/3m7jfm2hawv2y)
+《湘南ベルマーレvs.親会社ライザップ 異例対立の全真相》電撃解任の眞壁潔前会長が激白「チームの資金6億円がライザップに…」
+(2025-12-09 11:00) #ニュース
+
+[2025-12-09 11:00:40](https://bsky.app/profile/sokuho.news/post/3m7jh5pjszk2y)
+
+---
+
+@reuters.com
+
+US lawmakers may withold Hegseth travel funds to force boat video release reut.rs/48ZJBFp
+
+[2025-12-09 11:00:39](https://bsky.app/profile/reuters.com/post/3m7jh5okvu32r)
+
+---
+
+@aljazeera.com
+
+Leaders on both sides of the border have faced pressure from farmers and ranchers to secure more water for their farms.
+
+[2025-12-09 11:00:37](https://bsky.app/profile/aljazeera.com/post/3m7jh5mdd642x)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】元プロ野球選手（43）を20代女性2人へのわいせつ未遂容疑で8回目の逮捕…これまでの被害者は10代・20代の女性11人に 福岡ソフトバンクホークスで「堂上隼人」の名前でプ…
+(2025-12-09 11:00) #ニュース
+
+[2025-12-09 11:00:17](https://bsky.app/profile/sokuho.news/post/3m7jh4zuenv2m)
 
 ---
 
