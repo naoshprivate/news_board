@@ -1,9 +1,9 @@
-# [2025-12-09 11:50 updated](2025_12_09.md)
+# [2025-12-09 12:10 updated](2025_12_09.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">PHOTOS: A magnitude 7.5 earthquake hit northeastern Japan tonight, injuring multiple people and triggering tsunami alerts and evacuation orders for thousands of residents. <a href="https://bsky.app/profile/axios.com/post/3m7jjo2g6pk2l" target="_blank">axios.com</a> (2025-12-09 11:45:36)</span><span style="padding-right:50px;">【地震】 住民生活に影響広がる 断水 学校休校 一部配達に遅れ https://news.web.nhk/newsweb/na/na-k10014998601000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jjn46mwx2e" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 11:45:02)</span><span style="padding-right:50px;">【地震】青森県 岩手県 北海道 33人けが 各地の被害状況は https://news.web.nhk/newsweb/na/na-k10014998551000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jjhr7pz22k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 11:42:02)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】集合住宅で火事 消防車など20台が出動 けが人なし 名古屋市中村区 (2025-12-09 11:41) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7jjg3x7632l" target="_blank">sokuho.news</a> (2025-12-09 11:41:09)</span><span style="padding-right:50px;">Netflix, Paramount fight for Warner Bros Discovery in Hollywood power tussle reut.rs/44f36am <a href="https://bsky.app/profile/reuters.com/post/3m7jjefitaw2y" target="_blank">reuters.com</a> (2025-12-09 11:40:12)</span>
+<span style="padding-right:50px;">“捜索でもレーダー断続照射はない” 中国に反論 木原官房長官 https://news.web.nhk/newsweb/na/na-k10014998711000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jky2dfty2e" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 12:09:03)</span><span style="padding-right:50px;">Trump unveils $12bn farm aid package amid global trade disputes <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7jkxt4tyz2y" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-09 12:08:56)</span><span style="padding-right:50px;">The Trump administration said it wants airlines and airports to offer travelers healthier food options, exercise equipment and family-friendly features like playspaces and nursing facilities. <a href="https://bsky.app/profile/reuters.com/post/3m7jkvi6th22y" target="_blank">reuters.com</a> (2025-12-09 12:07:39)</span><span style="padding-right:50px;">As the BSE SmallCap Index is decisively below its 100-day moving average for the first time since May, investors are now taking refuge in the largest and most liquid stocks. Read for free with your email on what could move markets today. <a href="https://bsky.app/profile/bloomberg.com/post/3m7jktqf4fv2o" target="_blank">bloomberg.com</a> (2025-12-09 12:06:40)</span><span style="padding-right:50px;">震度6強で初の「後発地震注意情報」 備えの確認を https://news.web.nhk/newsweb/na/na-k10014998611000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jksnyzbw26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 12:06:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50688.20 (🔺10.84 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.32 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.91 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3068.00 (🔻8.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 155.89 (🔻0.03 : 2025-12-09)</span>
+<span style="padding-right:50px;">NIKKEI: 50688.20 (🔺10.84 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.32 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.91 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3068.00 (🔻8.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 155.88 (🔻0.04 : 2025-12-09)</span>
   </div>
 </div>
 
@@ -32,106 +32,103 @@
 
 ## News Headlines
 
-1. 地震により青森県・岩手県・北海道で多数のけが人　断水や学校休校に
-2. Netflixとパラマウントがウォーナー・ブラザーズ・ディスカバリーをめぐる争い　トランプ氏も関与
-3. ゴールデングローブ賞ノミネート発表　第79回の授賞式は1月11日
-4. オーストラリアなどでSNSでの子どもへのいじめ対策　日本も強制規制検討
-5. トランプ政権がNvidiaのチップを中国に輸出を許可　トランプ氏が発表
-6. 大地震の可能性が高まったため、北海道・三陸沖で後発地震注意情報が出る
+1.  捜索でもレーダー断続照射はない　中国に反論 木原官房長官
+2.  震度6強で初の「後発地震注意情報」　備えの確認を
+3.  110番通報　北海道と青森県で計78件
+4.  原因は不明　震度6強の地震で33人けが　各地の被害状況は
+5.  集合住宅で火事　消防車20台が出動　けが人なし
+6.  95歳の女性を暴行した疑い　看護師の女を逮捕
 
 ----
 
-@axios.com
-
-PHOTOS: A magnitude 7.5 earthquake hit northeastern Japan tonight, injuring multiple people and triggering tsunami alerts and evacuation orders for thousands of residents.
-
-[2025-12-09 11:45:36](https://bsky.app/profile/axios.com/post/3m7jjo2g6pk2l)
-
----
-
 @nhknewsunofficial.bsky.social
 
-【地震】 住民生活に影響広がる 断水 学校休校 一部配達に遅れ
-https://news.web.nhk/newsweb/na/na-k10014998601000
+“捜索でもレーダー断続照射はない” 中国に反論 木原官房長官
+https://news.web.nhk/newsweb/na/na-k10014998711000
 
-[2025-12-09 11:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jjn46mwx2e)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【地震】青森県 岩手県 北海道 33人けが 各地の被害状況は
-https://news.web.nhk/newsweb/na/na-k10014998551000
-
-[2025-12-09 11:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jjhr7pz22k)
+[2025-12-09 12:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jky2dfty2e)
 
 ---
 
-@sokuho.news
+@bbcnews-world-rss.bsky.social
 
-🛎️NNNより【速報】です。
+Trump unveils $12bn farm aid package amid global trade disputes
 
-【速報】集合住宅で火事 消防車など20台が出動 けが人なし 名古屋市中村区
-(2025-12-09 11:41) #ニュース
-
-[2025-12-09 11:41:09](https://bsky.app/profile/sokuho.news/post/3m7jjg3x7632l)
+[2025-12-09 12:08:56](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7jkxt4tyz2y)
 
 ---
 
 @reuters.com
 
-Netflix, Paramount fight for Warner Bros Discovery in Hollywood power tussle reut.rs/44f36am
+The Trump administration said it wants airlines and airports to offer travelers healthier food options, exercise equipment and family-friendly features like playspaces and nursing facilities.
 
-[2025-12-09 11:40:12](https://bsky.app/profile/reuters.com/post/3m7jjefitaw2y)
+[2025-12-09 12:07:39](https://bsky.app/profile/reuters.com/post/3m7jkvi6th22y)
 
 ---
 
-@nytimes.com
+@bloomberg.com
 
-Here's the full list of Golden Globe nominees. The ceremony will air on Jan. 11.
-nyti.ms/48VeaMx
+As the BSE SmallCap Index is decisively below its 100-day moving average for the first time since May, investors are now taking refuge in the largest and most liquid stocks. Read for free with your email on what could move markets today.
 
-[2025-12-09 11:40:01](https://bsky.app/profile/nytimes.com/post/3m7jje3dql62q)
+[2025-12-09 12:06:40](https://bsky.app/profile/bloomberg.com/post/3m7jktqf4fv2o)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-震度6強 住民生活に影響広がる 断水や学校休校 一部配達に遅れ
-https://news.web.nhk/newsweb/na/na-k10014998601000
+震度6強で初の「後発地震注意情報」 備えの確認を
+https://news.web.nhk/newsweb/na/na-k10014998611000
 
-[2025-12-09 11:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jj4zl4ac2p)
+[2025-12-09 12:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jksnyzbw26)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+北海道と青森県で110番通報 計78件 警察庁（9日11:00）
+https://news.web.nhk/newsweb/na/na-k10014998101000
+
+[2025-12-09 12:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jkncd27x2t)
+
+---
+
+@cnn.com
+
+President Donald Trump announced in a Truth Social post that he’s removing export controls on Nvidia’s H200 chips to China, a key reversal in what’s become part of a broader trade war between the world’s two biggest economies. https://cnn.it/48PiVpU
+
+[2025-12-09 12:02:01](https://bsky.app/profile/cnn.com/post/3m7jklgiaxq2q)
 
 ---
 
 @nikkei.com
 
-子どものSNS禁止、オーストラリアにEUなど追随検討
+2025年ヒット商品番付、横綱は「大阪・関西万博」「国宝」
 www.nikkei.com/article/DGXZQO...
  
-オーストラリアではいじめを苦にした子どもの自殺を機に、規制強化の声が強まりました。
+消費動向や売れ行き、開発の着眼点などを基にランク付け。
  
-豪ニューサウスウェールズ大学のミミ・ゾウ教授は「SNSは有害でも注目される投稿をもとに広告収入を得るビジネス。企業が自発的に対応策をとることは期待できない」。同様の問題意識は各国に広がっています。
- 
-日本は強制力を伴う規制はしていません。フィルタリング機能の提供を義務付けていますが、使用率は4割強にとどまっています。
+前頭にはほかに、脳が腐ると言われる謎キャラ「イタリアンブレインロット」や、串カツ田中の「無限ニンニクホルモン串」、資生堂の「肌グミ」などが入りました。残念賞はマクドナルドのハッピーセットでした。
 
-[2025-12-09 11:31:56](https://bsky.app/profile/nikkei.com/post/3m7jivmglya2j)
+[2025-12-09 12:01:56](https://bsky.app/profile/nikkei.com/post/3m7jklb5dz42i)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】「妊娠したらタイトル手放すしか」将棋・福間香奈女流六冠が「出産前後の一定期間はタイトル防衛でも対局できない」”産休規定”改正求め日本将棋連盟に意見書提出・会見へ「誰かが言…
+(2025-12-09 12:00) #ニュース
+
+[2025-12-09 12:01:48](https://bsky.app/profile/sokuho.news/post/3m7jkkzp2dn2d)
 
 ---
 
 @reuters.com
 
-Kushner role in bid for Warner Bros raises ethical questions, experts say reut.rs/48XBKYV
+Trading Day: Fed uncertainty hits stocks and bonds reut.rs/4iOG406
 
-[2025-12-09 11:30:27](https://bsky.app/profile/reuters.com/post/3m7jisxmy7r2i)
-
----
-
-@aljazeera.com
-
-The Trump administration has accused ICEBlock of making federal agents vulnerable to attack and called for its removal.
-
-[2025-12-09 11:30:19](https://bsky.app/profile/aljazeera.com/post/3m7jispuyfu2h)
+[2025-12-09 12:00:56](https://bsky.app/profile/reuters.com/post/3m7jkji33wc2o)
 
 ---
 
