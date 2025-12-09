@@ -1,9 +1,9 @@
-# [2025-12-10 03:10 updated](2025_12_10.md)
+# [2025-12-10 03:30 updated](2025_12_10.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Honduras’ attorney general urged international authorities to arrest a former president on corruption charges days after he walked out of a U.S. prison following a pardon by President Trump. <a href="https://bsky.app/profile/wsj.com/post/3m7l53axcgs22" target="_blank">wsj.com</a> (2025-12-10 03:05:40)</span><span style="padding-right:50px;">Exxon boosts forecast, aims for $25 billion earnings growth by 2030 reut.rs/4oHcVFe <a href="https://bsky.app/profile/reuters.com/post/3m7l52h2brz2y" target="_blank">reuters.com</a> (2025-12-10 03:05:12)</span><span style="padding-right:50px;">Bank of England rate-setters divided ahead of decision next week on.ft.com/48JOMIe <a href="https://bsky.app/profile/financialtimes.com/post/3m7l4ww5dl32j" target="_blank">financialtimes.com</a> (2025-12-10 03:03:14)</span><span style="padding-right:50px;">Trump gives Zelenskyy ‘days’ to respond to peace proposal on.ft.com/44YBtm9 <a href="https://bsky.app/profile/financialtimes.com/post/3m7l4tpriag23" target="_blank">financialtimes.com</a> (2025-12-10 03:01:27)</span><span style="padding-right:50px;">Wall Street edges higher as Fed rate cut decision nears reut.rs/3MPpZev <a href="https://bsky.app/profile/reuters.com/post/3m7l4sz3swd27" target="_blank">reuters.com</a> (2025-12-10 03:01:03)</span>
+<span style="padding-right:50px;">Exclusive: Shell in advanced talks to buy LLOG Exploration for more than $3 billion, sources say reut.rs/3MtiLgc <a href="https://bsky.app/profile/reuters.com/post/3m7l667fm622n" target="_blank">reuters.com</a> (2025-12-10 03:25:12)</span><span style="padding-right:50px;">Trump says his farm bailout 'would not be possible without tariffs.' His critics agree. <a href="https://bsky.app/profile/yahoofinance.com/post/3m7l5wrmov62x" target="_blank">yahoofinance.com</a> (2025-12-10 03:21:03)</span><span style="padding-right:50px;">Ukraine strikes deal to restructure $2.6bn of growth-linked debt on.ft.com/4p2u2lr <a href="https://bsky.app/profile/financialtimes.com/post/3m7l5wqsqxf2r" target="_blank">financialtimes.com</a> (2025-12-10 03:21:02)</span><span style="padding-right:50px;">Transportation Secretary Sean Duffy and Health and Human Services Secretary Robert F. Kennedy Jr. perform pull-ups as part of a push from the Trump administration to make the airport experience healthier. <a href="https://bsky.app/profile/nbcnews.com/post/3m7l5vahsvd2h" target="_blank">nbcnews.com</a> (2025-12-10 03:20:12)</span><span style="padding-right:50px;">Three men went on trial in Germany on Tuesday, accused of tailing a former soldier for Ukraine on behalf of a Russian intelligence service for a possible assassination plot. u.afp.com/S7MZ <a href="https://bsky.app/profile/en.afp.com/post/3m7l5mndjkb2x" target="_blank">en.afp.com</a> (2025-12-10 03:15:22)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47630.10 (🔻94.42 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23599.33 (🔺94.72 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.99 (🔻0.57 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.89 (🔺0.97 : 2025-12-09)</span>
+<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47626.34 (🔻98.18 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23612.58 (🔺107.96 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.87 (🔻0.69 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.89 (🔺0.97 : 2025-12-09)</span>
   </div>
 </div>
 
@@ -32,96 +32,94 @@
 
 ## News Headlines
 
-1. former米国大統領が腐敗関与で逮捕を求める米国の検察総長が国際機関に要請
-2. 2030年までに25億ドル収益を目指すエクソンモービルが予想を上回る収益を記録
-3. 日米でペースプロセスが進む中、ゼレンスキー大統領に「日数」で回答を求めるトランプ大統領
-4. 連邦準備制度議会の決定が近づくにつれてウォール街が上昇
-5. インドのロシア石油輸入がウクライナ戦争開始後急増
-6. アメリカの労働市場が安定に向かっていると、就活市場の調査会社が示した
+1. シェルがLLOGエクスプロレーションを3億ドル超えで買収するとの話合い進めている
+2. トランプ氏は「保護貿易により農業支援が可能になった」と述べる
+3. ウクライナが2億6千万ドルの借金を再構築する合意に達成
+4. トランプ政権の健康と安全の推進により、乗り物の利用者は健康的な空港体験を求める
+5. ドイツでロシア諜報機関の工作員が元ウクライナ兵を尾行した疑いで3人を起訴
+6. シティグループとアーカンソー州の標準リチウムが共同開発プロジェクトに1億1千万ドルの資金調達を実施
 
 ----
 
-@wsj.com
+@reuters.com
 
-Honduras’ attorney general urged international authorities to arrest a former president on corruption charges days after he walked out of a U.S. prison following a pardon by President Trump.
+Exclusive: Shell in advanced talks to buy LLOG Exploration for more than $3 billion, sources say reut.rs/3MtiLgc
 
-[2025-12-10 03:05:40](https://bsky.app/profile/wsj.com/post/3m7l53axcgs22)
+[2025-12-10 03:25:12](https://bsky.app/profile/reuters.com/post/3m7l667fm622n)
 
 ---
 
-@reuters.com
+@yahoofinance.com
 
-Exxon boosts forecast, aims for $25 billion earnings growth by 2030 reut.rs/4oHcVFe
+Trump says his farm bailout 'would not be possible without tariffs.' His critics agree.
 
-[2025-12-10 03:05:12](https://bsky.app/profile/reuters.com/post/3m7l52h2brz2y)
+[2025-12-10 03:21:03](https://bsky.app/profile/yahoofinance.com/post/3m7l5wrmov62x)
 
 ---
 
 @financialtimes.com
 
-Bank of England rate-setters divided ahead of decision next week on.ft.com/48JOMIe
+Ukraine strikes deal to restructure $2.6bn of growth-linked debt on.ft.com/4p2u2lr
 
-[2025-12-10 03:03:14](https://bsky.app/profile/financialtimes.com/post/3m7l4ww5dl32j)
+[2025-12-10 03:21:02](https://bsky.app/profile/financialtimes.com/post/3m7l5wqsqxf2r)
 
 ---
 
-@financialtimes.com
+@nbcnews.com
 
-Trump gives Zelenskyy ‘days’ to respond to peace proposal on.ft.com/44YBtm9
+Transportation Secretary Sean Duffy and Health and Human Services Secretary Robert F. Kennedy Jr. perform pull-ups as part of a push from the Trump administration to make the airport experience healthier.
 
-[2025-12-10 03:01:27](https://bsky.app/profile/financialtimes.com/post/3m7l4tpriag23)
+[2025-12-10 03:20:12](https://bsky.app/profile/nbcnews.com/post/3m7l5vahsvd2h)
+
+---
+
+@en.afp.com
+
+Three men went on trial in Germany on Tuesday, accused of tailing a former soldier for Ukraine on behalf of a Russian intelligence service for a possible assassination plot.
+u.afp.com/S7MZ
+
+[2025-12-10 03:15:22](https://bsky.app/profile/en.afp.com/post/3m7l5mndjkb2x)
 
 ---
 
 @reuters.com
 
-Wall Street edges higher as Fed rate cut decision nears reut.rs/3MPpZev
+Standard Lithium JV gets $1.1 billion in funding interest for Arkansas project reut.rs/4poXqD7
 
-[2025-12-10 03:01:03](https://bsky.app/profile/reuters.com/post/3m7l4sz3swd27)
-
----
-
-@usatoday.com
-
-The video, taken at a Wisconsin mall, shows the employee using the N-word and flipping the middle finger to two Somali customers.
-
-[2025-12-10 03:00:48](https://bsky.app/profile/usatoday.com/post/3m7l4skfevu2t)
+[2025-12-10 03:15:14](https://bsky.app/profile/reuters.com/post/3m7l5mfawla2e)
 
 ---
 
-@cnn.com
+@nhknewsunofficial.bsky.social
 
-A recent Gallup poll found that 40% of Americans rated economic conditions as poor in November, up from 37% in October.
+青森県東方沖の地震 専門家 “再びM7クラス起きる可能性も”
+https://news.web.nhk/newsweb/na/na-k10014999441000
 
-[2025-12-10 03:00:26](https://bsky.app/profile/cnn.com/post/3m7l4rvpwug2w)
-
----
-
-@washingtonpost.com
-
-Donald Trump’s first administration took an emotional toll on Rosie O’Donnell. She didn’t think she could endure a second term.
-
-This time, O’Donnell had a plan: she moved to Ireland.
-
-Her brother Eddie says it’s “the best decision she’s made, I think, in her life, honestly.” https://wapo.st/4oK2S2p
-
-[2025-12-10 03:00:21](https://bsky.app/profile/washingtonpost.com/post/3m7l4rrggym2i)
+[2025-12-10 03:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7l5m3p7gp2u)
 
 ---
 
-@aljazeera.com
+@cnbc.com
 
-Indian imports of Russian oil have soared since the start of the war in Ukraine.
+China is buying U.S. soybeans again — but falling short of goal set by Trump trade agreement
 
-[2025-12-10 03:00:19](https://bsky.app/profile/aljazeera.com/post/3m7l4rpneq22d)
+[2025-12-10 03:14:35](https://bsky.app/profile/cnbc.com/post/3m7l5l7ixgb23)
 
 ---
 
-@nytimes.com
+@npr.org
 
-The writer Hannah Kingsley-Ma and her 4-year-old nephew don't agree on many books. "Believe it or not, that age gap really makes a difference," she writes. But James Marshall's "George and Martha" books is a series that has lessons for them both. nyti.ms/4pmmLO9
+The Price of Democracy tells the history of taxation from colonization to the present day. It's essential reading for anyone who cares about preserving democracy. n.pr/48Io9DM
 
-[2025-12-10 03:00:13](https://bsky.app/profile/nytimes.com/post/3m7l4rj5bbf2w)
+[2025-12-10 03:12:40](https://bsky.app/profile/npr.org/post/3m7l5hrnv7k2e)
+
+---
+
+@reuters.com
+
+Trinidad awaits field plan to green-light Shell's Aphrodite gas project reut.rs/44gjNCk
+
+[2025-12-10 03:10:15](https://bsky.app/profile/reuters.com/post/3m7l5di3hcn2k)
 
 ---
 
