@@ -1,9 +1,9 @@
-# [2025-12-09 22:10 updated](2025_12_09.md)
+# [2025-12-09 22:30 updated](2025_12_09.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Fire breaks out at seven-storey building in Indonesia's Jakarta, 20 dead reut.rs/4pUP6L8 <a href="https://bsky.app/profile/reuters.com/post/3m7kkvenvdj2w" target="_blank">reuters.com</a> (2025-12-09 21:40:15)</span><span style="padding-right:50px;">The Japanese authorities said Tuesday that Jeremy O. Harris, the Tony-nominated playwright and actor, had been released after spending three weeks in custody on suspicion of attempting to smuggle illegal drugs into Japan. <a href="https://bsky.app/profile/nytimes.com/post/3m7kkv3hna62m" target="_blank">nytimes.com</a> (2025-12-09 21:40:05)</span><span style="padding-right:50px;">The median home in the US costs $415,000. Here’s what that will buy around the country. <a href="https://bsky.app/profile/yahoofinance.com/post/3m7kknvm2bp2p" target="_blank">yahoofinance.com</a> (2025-12-09 21:36:04)</span><span style="padding-right:50px;">Eiffel Investment Group raises 1.2 bln euros for new energy-focused fund reut.rs/4rSIRJV <a href="https://bsky.app/profile/reuters.com/post/3m7kkm7vmzz2r" target="_blank">reuters.com</a> (2025-12-09 21:35:08)</span><span style="padding-right:50px;">Nvidia can sell the more advanced H200 AI chip to China — but will Beijing want them? <a href="https://bsky.app/profile/cnbc.com/post/3m7kkkw7qgy23" target="_blank">cnbc.com</a> (2025-12-09 21:34:24)</span>
+<span style="padding-right:50px;">Abu Dhabi’s Adnoc in deal talks over oil refinery at centre of US sanctions on.ft.com/4ptlJA1 <a href="https://bsky.app/profile/financialtimes.com/post/3m7knitdpi523" target="_blank">financialtimes.com</a> (2025-12-09 22:26:55)</span><span style="padding-right:50px;">Blackstone's Schwarzman plays down private credit concerns over bankruptcies reut.rs/3XJgnnV <a href="https://bsky.app/profile/reuters.com/post/3m7knfmgrnn2n" target="_blank">reuters.com</a> (2025-12-09 22:25:07)</span><span style="padding-right:50px;">A digital atlas of ancient Rome’s highways and byways reveals a road network that was more extensive than thought, according to a study published last month. <a href="https://bsky.app/profile/nytimes.com/post/3m7knfktj7x2p" target="_blank">nytimes.com</a> (2025-12-09 22:25:06)</span><span style="padding-right:50px;">Paramount's hostile Warner Bros. bid, Meta's AI course correction, McDonald's value crackdown and more in Morning Squawk <a href="https://bsky.app/profile/cnbc.com/post/3m7knbokjql2i" target="_blank">cnbc.com</a> (2025-12-09 22:22:55)</span><span style="padding-right:50px;">VIDEO: 🇮🇩 Elephants help clear debris in flood-hit western Indonesia  Rescue workers in Pidie Jaya, Sumatra, drafted in elephants from a local training centre to help clear debris in the wake of severe flooding. More than 950 people have been killed in Sumatra after tropical storms and monsoon rains <a href="https://bsky.app/profile/en.afp.com/post/3m7knaja6xr2d" target="_blank">en.afp.com</a> (2025-12-09 22:22:16)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.32 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.92 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.37 (🔺0.45 : 2025-12-09)</span>
+<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.32 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.92 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.46 (🔺0.54 : 2025-12-09)</span>
   </div>
 </div>
 
@@ -32,97 +32,95 @@
 
 ## News Headlines
 
-1. 20人死亡　インドネシアジャカルタで7階建てビル火災
-2. 連邦議会議員選挙に影響を与える可能性のあるペンシルベニア州選挙でトランプ氏が演説
-3. 欧州経済委員会、ESG要件緩和の妥結
-4. インドネシアで火災　20人死亡、死亡者数は160人に
-5. オーストラリアで初のソーシャルメディア利用年齢制限に準備
-6. 米中間層の住宅価格は415万ドル　各地の購入価値は？
+1. アブダビのエネルギー会社アドニクが米国による石油精製所への制裁に関連する取引を検討
+2. ブラックストーンのシュワルツマン氏が私的クレジットの破綻に関する懸念を軽減
+3. 古代ローマの道路網がより広範囲であったと報告される
+4. マクドナルドが価値を削減、パラマウント、メタ、ウォーナー・ブラザーズの買収を含む
+5. インドネシアの水害で象を動物救済活動に従事
+6. 米国政府がNVIDIAの高性能AIチップの中国への輸出を承認
 
 ----
 
+@financialtimes.com
+
+Abu Dhabi’s Adnoc in deal talks over oil refinery at centre of US sanctions on.ft.com/4ptlJA1
+
+[2025-12-09 22:26:55](https://bsky.app/profile/financialtimes.com/post/3m7knitdpi523)
+
+---
+
 @reuters.com
 
-Fire breaks out at seven-storey building in Indonesia's Jakarta, 20 dead reut.rs/4pUP6L8
+Blackstone's Schwarzman plays down private credit concerns over bankruptcies reut.rs/3XJgnnV
 
-[2025-12-09 21:40:15](https://bsky.app/profile/reuters.com/post/3m7kkvenvdj2w)
+[2025-12-09 22:25:07](https://bsky.app/profile/reuters.com/post/3m7knfmgrnn2n)
 
 ---
 
 @nytimes.com
 
-The Japanese authorities said Tuesday that Jeremy O. Harris, the Tony-nominated playwright and actor, had been released after spending three weeks in custody on suspicion of attempting to smuggle illegal drugs into Japan.
+A digital atlas of ancient Rome’s highways and byways reveals a road network that was more extensive than thought, according to a study published last month.
 
-[2025-12-09 21:40:05](https://bsky.app/profile/nytimes.com/post/3m7kkv3hna62m)
-
----
-
-@yahoofinance.com
-
-The median home in the US costs $415,000. Here’s what that will buy around the country.
-
-[2025-12-09 21:36:04](https://bsky.app/profile/yahoofinance.com/post/3m7kknvm2bp2p)
-
----
-
-@reuters.com
-
-Eiffel Investment Group raises 1.2 bln euros for new energy-focused fund reut.rs/4rSIRJV
-
-[2025-12-09 21:35:08](https://bsky.app/profile/reuters.com/post/3m7kkm7vmzz2r)
+[2025-12-09 22:25:06](https://bsky.app/profile/nytimes.com/post/3m7knfktj7x2p)
 
 ---
 
 @cnbc.com
 
-Nvidia can sell the more advanced H200 AI chip to China — but will Beijing want them?
+Paramount's hostile Warner Bros. bid, Meta's AI course correction, McDonald's value crackdown and more in Morning Squawk
 
-[2025-12-09 21:34:24](https://bsky.app/profile/cnbc.com/post/3m7kkkw7qgy23)
+[2025-12-09 22:22:55](https://bsky.app/profile/cnbc.com/post/3m7knbokjql2i)
 
 ---
 
 @en.afp.com
 
-The International Criminal Court on Tuesday handed down a sentence of 20 years to a Sudanese militia leader for war crimes and crimes against humanity committed during the country's civil war two decades ago ➡️ u.afp.com/S7fj
+VIDEO: 🇮🇩 Elephants help clear debris in flood-hit western Indonesia
 
-[2025-12-09 21:33:01](https://bsky.app/profile/en.afp.com/post/3m7kkigwn2j2k)
+Rescue workers in Pidie Jaya, Sumatra, drafted in elephants from a local training centre to help clear debris in the wake of severe flooding. More than 950 people have been killed in Sumatra after tropical storms and monsoon rains
 
----
-
-@nikkei.com
-
-ソニー、沖縄ゆいレール車窓にデジタル映像　景色に合わせ観光地紹介（無料記事）
-www.nikkei.com/article/DGXZQO...
-
-2両編成の車両の窓に計4枚の大型パネルを設置。高画質カメラで撮影し、景色がよりきれいに見えます。
-
-国際通りに近づくと戦後復興期の白黒写真を流し、伝統工芸の「やちむん」で有名な那覇市壺屋付近を通る際は焼き物の歴史を紹介します。
-
-[2025-12-09 21:31:57](https://bsky.app/profile/nikkei.com/post/3m7kkgk2bxp2k)
+[2025-12-09 22:22:16](https://bsky.app/profile/en.afp.com/post/3m7knaja6xr2d)
 
 ---
 
-@forbes.com
+@nbcnews.com
 
-Steven Bartlett Just Backed This Breakout Female Founder
+More than 1 million social media accounts held by users under 16 are set to be deactivated in Australia in a divisive world-first ban that is being closely watched elsewhere.
 
-[2025-12-09 21:31:34](https://bsky.app/profile/forbes.com/post/3m7kkfu6zwc2k)
-
----
-
-@forbes.com
-
-8 Skills You Need To Manage The New AI Agent Workforce
-
-[2025-12-09 21:31:15](https://bsky.app/profile/forbes.com/post/3m7kkfc6avc2k)
+[2025-12-09 22:20:16](https://bsky.app/profile/nbcnews.com/post/3m7kn4wbe2v27)
 
 ---
 
-@forbes.com
+@cnbc.com
 
-CISA Warns Microsoft Windows Users—Log Out And Shut Down
+Nvidia has approval from the U.S. government to sell its more advanced H200 AI chips to China. But the question is whether Beijing wants it or will let companies buy it. cnb.cx/3MOwPRt
 
-[2025-12-09 21:30:58](https://bsky.app/profile/forbes.com/post/3m7kkerqqic2k)
+[2025-12-09 22:18:47](https://bsky.app/profile/cnbc.com/post/3m7kn2byi652e)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Japan's Nankai Trough megaquake - can you predict it?
+
+[2025-12-09 22:15:43](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7kmusudke2h)
+
+---
+
+@reuters.com
+
+BMW names veteran Nedeljkovic as CEO to tackle China, Tesla reut.rs/48HtBGG
+
+[2025-12-09 22:15:16](https://bsky.app/profile/reuters.com/post/3m7kmtz3sgj2a)
+
+---
+
+@cnn.com
+
+After working as an interpreter for the American coalition in Afghanistan, Jafar Wahidi resettled in California with his wife and seven children in 2017. Now, he says the life he built may not be available to many he is trying to help.
+https://cnn.it/48r3yVx
+
+[2025-12-09 22:15:05](https://bsky.app/profile/cnn.com/post/3m7kmtoj3wp2f)
 
 ---
 
