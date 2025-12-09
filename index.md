@@ -1,9 +1,9 @@
-# [2025-12-10 02:50 updated](2025_12_10.md)
+# [2025-12-10 03:10 updated](2025_12_10.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">CVS forecasts 2026 profit above estimates as turnaround plan takes effect reut.rs/48s0vfP <a href="https://bsky.app/profile/reuters.com/post/3m7l3wphgmz2y" target="_blank">reuters.com</a> (2025-12-10 02:45:13)</span><span style="padding-right:50px;">Lithuania declares emergency situation over risks from balloons from Belarus <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7l3sg267227" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-10 02:42:48)</span><span style="padding-right:50px;">危険運転致死傷罪 適用要件見直し 法改正への作業加速 法務省 https://news.web.nhk/newsweb/na/na-k10014999331000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7l3r3elqa2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-10 02:42:02)</span><span style="padding-right:50px;">Rise in US job openings offers hope of labour market stabilisation on.ft.com/44g97nf <a href="https://bsky.app/profile/financialtimes.com/post/3m7l3pylqp42n" target="_blank">financialtimes.com</a> (2025-12-10 02:41:28)</span><span style="padding-right:50px;">Kevin Hassett said during a Wall Street Journal CEO Council event that he would rely on his own judgment and not bow to political pressure to decide whether to cut interest rates if he becomes the next chairman of the Federal Reserve. <a href="https://bsky.app/profile/wsj.com/post/3m7l3pmyiw62w" target="_blank">wsj.com</a> (2025-12-10 02:41:16)</span>
+<span style="padding-right:50px;">Honduras’ attorney general urged international authorities to arrest a former president on corruption charges days after he walked out of a U.S. prison following a pardon by President Trump. <a href="https://bsky.app/profile/wsj.com/post/3m7l53axcgs22" target="_blank">wsj.com</a> (2025-12-10 03:05:40)</span><span style="padding-right:50px;">Exxon boosts forecast, aims for $25 billion earnings growth by 2030 reut.rs/4oHcVFe <a href="https://bsky.app/profile/reuters.com/post/3m7l52h2brz2y" target="_blank">reuters.com</a> (2025-12-10 03:05:12)</span><span style="padding-right:50px;">Bank of England rate-setters divided ahead of decision next week on.ft.com/48JOMIe <a href="https://bsky.app/profile/financialtimes.com/post/3m7l4ww5dl32j" target="_blank">financialtimes.com</a> (2025-12-10 03:03:14)</span><span style="padding-right:50px;">Trump gives Zelenskyy ‘days’ to respond to peace proposal on.ft.com/44YBtm9 <a href="https://bsky.app/profile/financialtimes.com/post/3m7l4tpriag23" target="_blank">financialtimes.com</a> (2025-12-10 03:01:27)</span><span style="padding-right:50px;">Wall Street edges higher as Fed rate cut decision nears reut.rs/3MPpZev <a href="https://bsky.app/profile/reuters.com/post/3m7l4sz3swd27" target="_blank">reuters.com</a> (2025-12-10 03:01:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47636.04 (🔻88.48 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23578.85 (🔺74.24 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.87 (🔻0.69 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.87 (🔺0.95 : 2025-12-09)</span>
+<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47630.10 (🔻94.42 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23599.33 (🔺94.72 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.99 (🔻0.57 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.89 (🔺0.97 : 2025-12-09)</span>
   </div>
 </div>
 
@@ -32,93 +32,96 @@
 
 ## News Headlines
 
-1. CVSが2026年の利益予想を上回る
-2. リトアニアがベラルーシからの風船リスクに対して緊急事態宣言
-3. 連邦準備制度委員会のハセット氏は、利下げを決定する際は政治圧力に左右されないことを明言
-4. グリーンランドがEUに支援されるグラファイト鉱山に30年間の許可を付与
-5. インディアナ州議会の委員会が共和党が策定した選挙区割りを通過、議会下院での結果は不明
-6. マサチューセッツ州がスポーツ予測市場を運営するKalshiを禁止しようとする
+1. former米国大統領が腐敗関与で逮捕を求める米国の検察総長が国際機関に要請
+2. 2030年までに25億ドル収益を目指すエクソンモービルが予想を上回る収益を記録
+3. 日米でペースプロセスが進む中、ゼレンスキー大統領に「日数」で回答を求めるトランプ大統領
+4. 連邦準備制度議会の決定が近づくにつれてウォール街が上昇
+5. インドのロシア石油輸入がウクライナ戦争開始後急増
+6. アメリカの労働市場が安定に向かっていると、就活市場の調査会社が示した
 
 ----
 
+@wsj.com
+
+Honduras’ attorney general urged international authorities to arrest a former president on corruption charges days after he walked out of a U.S. prison following a pardon by President Trump.
+
+[2025-12-10 03:05:40](https://bsky.app/profile/wsj.com/post/3m7l53axcgs22)
+
+---
+
 @reuters.com
 
-CVS forecasts 2026 profit above estimates as turnaround plan takes effect reut.rs/48s0vfP
+Exxon boosts forecast, aims for $25 billion earnings growth by 2030 reut.rs/4oHcVFe
 
-[2025-12-10 02:45:13](https://bsky.app/profile/reuters.com/post/3m7l3wphgmz2y)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Lithuania declares emergency situation over risks from balloons from Belarus
-
-[2025-12-10 02:42:48](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7l3sg267227)
-
----
-
-@nhknewsunofficial.bsky.social
-
-危険運転致死傷罪 適用要件見直し 法改正への作業加速 法務省
-https://news.web.nhk/newsweb/na/na-k10014999331000
-
-[2025-12-10 02:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7l3r3elqa2j)
+[2025-12-10 03:05:12](https://bsky.app/profile/reuters.com/post/3m7l52h2brz2y)
 
 ---
 
 @financialtimes.com
 
-Rise in US job openings offers hope of labour market stabilisation on.ft.com/44g97nf
+Bank of England rate-setters divided ahead of decision next week on.ft.com/48JOMIe
 
-[2025-12-10 02:41:28](https://bsky.app/profile/financialtimes.com/post/3m7l3pylqp42n)
+[2025-12-10 03:03:14](https://bsky.app/profile/financialtimes.com/post/3m7l4ww5dl32j)
 
 ---
 
-@wsj.com
+@financialtimes.com
 
-Kevin Hassett said during a Wall Street Journal CEO Council event that he would rely on his own judgment and not bow to political pressure to decide whether to cut interest rates if he becomes the next chairman of the Federal Reserve.
+Trump gives Zelenskyy ‘days’ to respond to peace proposal on.ft.com/44YBtm9
 
-[2025-12-10 02:41:16](https://bsky.app/profile/wsj.com/post/3m7l3pmyiw62w)
+[2025-12-10 03:01:27](https://bsky.app/profile/financialtimes.com/post/3m7l4tpriag23)
 
 ---
 
 @reuters.com
 
-Greenland approves 30-year mining permit for EU-backed graphite project reut.rs/4q01klX
+Wall Street edges higher as Fed rate cut decision nears reut.rs/3MPpZev
 
-[2025-12-10 02:40:17](https://bsky.app/profile/reuters.com/post/3m7l3nurrkd2r)
+[2025-12-10 03:01:03](https://bsky.app/profile/reuters.com/post/3m7l4sz3swd27)
 
 ---
 
-@nbcnews.com
+@usatoday.com
 
-A committee of Indiana state lawmakers advance a Republican-drawn congressional map, sending it to the floor of the state Senate, where its outcome remains uncertain.
+The video, taken at a Wisconsin mall, shows the employee using the N-word and flipping the middle finger to two Somali customers.
 
-[2025-12-10 02:40:08](https://bsky.app/profile/nbcnews.com/post/3m7l3nmpele2y)
+[2025-12-10 03:00:48](https://bsky.app/profile/usatoday.com/post/3m7l4skfevu2t)
+
+---
+
+@cnn.com
+
+A recent Gallup poll found that 40% of Americans rated economic conditions as poor in November, up from 37% in October.
+
+[2025-12-10 03:00:26](https://bsky.app/profile/cnn.com/post/3m7l4rvpwug2w)
+
+---
+
+@washingtonpost.com
+
+Donald Trump’s first administration took an emotional toll on Rosie O’Donnell. She didn’t think she could endure a second term.
+
+This time, O’Donnell had a plan: she moved to Ireland.
+
+Her brother Eddie says it’s “the best decision she’s made, I think, in her life, honestly.” https://wapo.st/4oK2S2p
+
+[2025-12-10 03:00:21](https://bsky.app/profile/washingtonpost.com/post/3m7l4rrggym2i)
+
+---
+
+@aljazeera.com
+
+Indian imports of Russian oil have soared since the start of the war in Ukraine.
+
+[2025-12-10 03:00:19](https://bsky.app/profile/aljazeera.com/post/3m7l4rpneq22d)
 
 ---
 
 @nytimes.com
 
-Behind a house in California, where the average price for a one-bedroom rental is about $2,100 a month, about a dozen people are living in a cluster of sheds and storage units with no running water or power. Rent is about about $600 to $800 a month.
+The writer Hannah Kingsley-Ma and her 4-year-old nephew don't agree on many books. "Believe it or not, that age gap really makes a difference," she writes. But James Marshall's "George and Martha" books is a series that has lessons for them both. nyti.ms/4pmmLO9
 
-[2025-12-10 02:40:03](https://bsky.app/profile/nytimes.com/post/3m7l3nhzh562g)
-
----
-
-@financialtimes.com
-
-Silver surges above $60 for first time on global supply squeeze on.ft.com/48Ndl7r
-
-[2025-12-10 02:38:40](https://bsky.app/profile/financialtimes.com/post/3m7l3kyj2gc2j)
-
----
-
-@reuters.com
-
-Massachusetts seeks to block Kalshi from operating sports-prediction market reut.rs/48JVn5J
-
-[2025-12-10 02:35:07](https://bsky.app/profile/reuters.com/post/3m7l3enqlyd2k)
+[2025-12-10 03:00:13](https://bsky.app/profile/nytimes.com/post/3m7l4rj5bbf2w)
 
 ---
 
