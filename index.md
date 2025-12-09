@@ -1,9 +1,9 @@
-# [2025-12-09 17:30 updated](2025_12_09.md)
+# [2025-12-09 17:50 updated](2025_12_09.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">AFP Infographic chart showing foreign nationals on death row in Indonesia and time served behind bars <a href="https://bsky.app/profile/en.afp.com/post/3m7k4qyinet25" target="_blank">en.afp.com</a> (2025-12-09 17:27:15)</span><span style="padding-right:50px;">BREAKING: Lithuania’s government has declared a national emergency over security risks posed by balloons from Belarus. The balloons have repeatedly forced the closure of the Vilnius airport and are seen as a form of hybrid warfare. <a href="https://bsky.app/profile/apnews.com/post/3m7k4ninjkc2h" target="_blank">apnews.com</a> (2025-12-09 17:25:18)</span><span style="padding-right:50px;">Australia's central bank flags rate hike risk as it ends brief easing cycle reut.rs/44CjMJh <a href="https://bsky.app/profile/reuters.com/post/3m7k4n6vcyl2o" target="_blank">reuters.com</a> (2025-12-09 17:25:08)</span><span style="padding-right:50px;">福島第一原発 津波注意報で停止した処理水放出を再開 https://news.web.nhk/newsweb/na/na-k10014998921000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7k4lc62kt2r" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 17:24:02)</span><span style="padding-right:50px;">Treasury yields little changed as markets await jobs report <a href="https://bsky.app/profile/cnbc.com/post/3m7k4ipslww23" target="_blank">cnbc.com</a> (2025-12-09 17:22:38)</span>
+<span style="padding-right:50px;">一般道を時速110km超で事故なら危険運転　法制審部会で数値基準案 www.nikkei.com/article/DGXZQO...  速度は法定速度からの超過幅が「一般道で時速50キロ、高速道で時速60キロ」。  アルコール量は「血液1ミリリットルにつき1.0ミリグラム以上または呼気1リットルにつき0.5ミリグラム以上」としました。  採用された案は体重60キロの人がビール大瓶を2本摂取した状態に相当するとのデータがあるといいます。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m7k5sfqtsx2w" target="_blank">nikkei.com</a> (2025-12-09 17:45:57)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】「ダクトから出火している」白い煙が噴出…北海道北見市のアーケード街で店舗火災…ケガ人の有無は調査中 (2025-12-09 17:40) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7k5sfebuu2e" target="_blank">sokuho.news</a> (2025-12-09 17:45:56)</span><span style="padding-right:50px;">Owners of Goa nightclub fled the country hours after a deadly fire killed 25 people, police in India say  u.afp.com/S7xP <a href="https://bsky.app/profile/en.afp.com/post/3m7k5rests423" target="_blank">en.afp.com</a> (2025-12-09 17:45:22)</span><span style="padding-right:50px;">Morning Bid: Markets riddled with anxiety on almost-Fed day reut.rs/3KKCWWt <a href="https://bsky.app/profile/reuters.com/post/3m7k5qysaty2k" target="_blank">reuters.com</a> (2025-12-09 17:45:09)</span><span style="padding-right:50px;">Choose your streaming service and start listening. n.pr/44YwoKD <a href="https://bsky.app/profile/npr.org/post/3m7k5owclem2e" target="_blank">npr.org</a> (2025-12-09 17:44:00)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.32 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.91 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.35 (🔺0.43 : 2025-12-09)</span>
+<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.32 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.91 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.37 (🔺0.45 : 2025-12-09)</span>
   </div>
 </div>
 
@@ -32,95 +32,29 @@
 
 ## News Headlines
 
-1.  リトアニア政府がベラルーシからの安全上の脅威を理由に国家緊急事態宣言を発令
-2.  オーストラリア中央銀行が金利引き上げの可能性を示唆
-3.  福島第一原子力発電所　津波警戒レベルで出水停止した処理水の放出を再開
-4.  中国軍機が自衛隊機にレーダー照射　中国外務省「訓練中の捜索レーダー作動は正常な動き」
-5.  北海道北見市で店舗火災　大勢の消防車が消火活動中
-6.  経済産業省が危険運転の適用要件を見直し　遺族「抑止力になると信じている」
+1. 一般道を時速110km超で事故なら危険運転　法制審部会で数値基準案
+2. 北海道北見市の店舗で火災　店舗のダクトから出火している
+3. 中国軍機が自衛隊機にレーダー照射　訓練中の捜索レーダー作動は正常な動き
+4. 神奈川・伊勢原市の日向山で山林火災　中腹から煙が出ている
+5. 福島第一原発　津波注意報で停止した処理水放出を再開
+6. 藪原健太朗　巨人と契約更改　推定年俸3億円で40％減額
 
 ----
 
-@en.afp.com
+@nikkei.com
 
-AFP Infographic chart showing foreign nationals on death row in Indonesia and time served behind bars
+一般道を時速110km超で事故なら危険運転　法制審部会で数値基準案
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-09 17:27:15](https://bsky.app/profile/en.afp.com/post/3m7k4qyinet25)
+速度は法定速度からの超過幅が「一般道で時速50キロ、高速道で時速60キロ」。
 
----
+アルコール量は「血液1ミリリットルにつき1.0ミリグラム以上または呼気1リットルにつき0.5ミリグラム以上」としました。
 
-@apnews.com
+採用された案は体重60キロの人がビール大瓶を2本摂取した状態に相当するとのデータがあるといいます。
 
-<strong><span style="color: red;">BREAKING:</span> Lithuania’s government has declared a national emergency over security risks posed by balloons from Belarus. The balloons have repeatedly forced the closure of the Vilnius airport and are seen as a form of hybrid warfare.</strong>
+#ニュース
 
-[2025-12-09 17:25:18](https://bsky.app/profile/apnews.com/post/3m7k4ninjkc2h)
-
----
-
-@reuters.com
-
-Australia's central bank flags rate hike risk as it ends brief easing cycle reut.rs/44CjMJh
-
-[2025-12-09 17:25:08](https://bsky.app/profile/reuters.com/post/3m7k4n6vcyl2o)
-
----
-
-@nhknewsunofficial.bsky.social
-
-福島第一原発 津波注意報で停止した処理水放出を再開
-https://news.web.nhk/newsweb/na/na-k10014998921000
-
-[2025-12-09 17:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7k4lc62kt2r)
-
----
-
-@cnbc.com
-
-Treasury yields little changed as markets await jobs report
-
-[2025-12-09 17:22:38](https://bsky.app/profile/cnbc.com/post/3m7k4ipslww23)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】「店舗のダクトから出火している」北見市の店舗で火事 消防車8台出動し消火活動中
-(2025-12-09 17:20) #ニュース
-
-[2025-12-09 17:20:30](https://bsky.app/profile/sokuho.news/post/3m7k4evt4kf2p)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】中国軍機が自衛隊機にレーダー照射 「訓練中の捜索レーダー作動は正常な動き」中国外務省報道官
-(2025-12-09 17:17:04) #ニュース
-
-[2025-12-09 17:19:06](https://bsky.app/profile/sokuho.news/post/3m7k4cfv36r2l)
-
----
-
-@nhknewsunofficial.bsky.social
-
-危険運転の適用要件見直し 遺族「抑止力になると信じている」
-https://news.web.nhk/newsweb/na/na-k10014998851000
-
-[2025-12-09 17:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7k4anh6lf24)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】神奈川・日向山で山火事 「中腹から煙」など複数の通報
-(2025-12-09 17:16) #ニュース
-
-[2025-12-09 17:16:22](https://bsky.app/profile/sokuho.news/post/3m7k45j3xhg2y)
+[2025-12-09 17:45:57](https://bsky.app/profile/nikkei.com/post/3m7k5sfqtsx2w)
 
 ---
 
@@ -128,10 +62,79 @@ https://news.web.nhk/newsweb/na/na-k10014998851000
 
 🛎️FNNより【速報】です。
 
-【速報】小学生3人が車にはねられ負傷 横断歩道を横断中 車の運転手「止まろうとしたが止まれなかった」 山口市の国道9号線
-(2025-12-09 17:00) #ニュース
+【速報】「ダクトから出火している」白い煙が噴出…北海道北見市のアーケード街で店舗火災…ケガ人の有無は調査中
+(2025-12-09 17:40) #ニュース
 
-[2025-12-09 17:16:09](https://bsky.app/profile/sokuho.news/post/3m7k455abim2g)
+[2025-12-09 17:45:56](https://bsky.app/profile/sokuho.news/post/3m7k5sfebuu2e)
+
+---
+
+@en.afp.com
+
+Owners of Goa nightclub fled the country hours after a deadly fire killed 25 people, police in India say
+
+u.afp.com/S7xP
+
+[2025-12-09 17:45:22](https://bsky.app/profile/en.afp.com/post/3m7k5rests423)
+
+---
+
+@reuters.com
+
+Morning Bid: Markets riddled with anxiety on almost-Fed day reut.rs/3KKCWWt
+
+[2025-12-09 17:45:09](https://bsky.app/profile/reuters.com/post/3m7k5qysaty2k)
+
+---
+
+@npr.org
+
+Choose your streaming service and start listening. n.pr/44YwoKD
+
+[2025-12-09 17:44:00](https://bsky.app/profile/npr.org/post/3m7k5owclem2e)
+
+---
+
+@reuters.com
+
+Global pilots warn India's rest rule exemption for IndiGo raises safety concerns reut.rs/4oE1VbJ
+
+[2025-12-09 17:40:07](https://bsky.app/profile/reuters.com/post/3m7k5hyt3ld2w)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+神奈川 伊勢原で山林火災【上空からの映像】
+https://news.web.nhk/newsweb/na/na-k10014999031000
+
+[2025-12-09 17:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7k5g3xgh42r)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+日銀 植田総裁 長期金利「やや速いスピードで上昇している」
+https://news.web.nhk/newsweb/na/na-k10014998961000
+
+[2025-12-09 17:36:06](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7k5aviflq2n)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【地震】JR八戸線 高架橋の橋脚損傷で運転再開見通し立たず
+https://news.web.nhk/newsweb/na/na-k10014999021000
+
+[2025-12-09 17:36:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7k5apvoso2p)
+
+---
+
+@reuters.com
+
+China executes former official of Huarong offshore finance unit for graft reut.rs/4pkSFdO
+
+[2025-12-09 17:35:06](https://bsky.app/profile/reuters.com/post/3m7k56zrpzb2a)
 
 ---
 
