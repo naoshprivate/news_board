@@ -1,9 +1,9 @@
-# [2025-12-09 13:10 updated](2025_12_09.md)
+# [2025-12-09 13:30 updated](2025_12_09.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">G7財務相会議 重要鉱物で共同声明 中国念頭に懸念示す https://news.web.nhk/newsweb/na/na-k10014998741000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jnymiqim2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 13:03:03)</span><span style="padding-right:50px;">【冬でも快適な目覚め】 朝まで暖房22度、起きたら即照明 www.nikkei.com/article/DGXZQO...   寒い朝は布団から出るのがつらく、なかなか起きられないですよね。   睡眠研究の第一人者、筑波大学の柳沢正史教授は「エアコンで寝室を朝まで暖かく保てば解決」。喉や肌が乾燥しそうですが、掛け寝具で防寒するより入眠がスムーズになり、安眠できるといいます。   靴下は履かない方がよさそう。「手のひらと足の裏は体の放熱器。温度調節できないと途中覚醒しやすい」（柳沢教授） <a href="https://bsky.app/profile/nikkei.com/post/3m7jnwkel2q2i" target="_blank">nikkei.com</a> (2025-12-09 13:01:56)</span><span style="padding-right:50px;">"Professionally I’m married to cinema, and this movie felt like I was renewing my vows, if that makes sense," said Ryan Coogler, the director of "Sinners," upon learning of the film's Golden Globe nominations. Follow for more reactions from nominees.  <a href="https://bsky.app/profile/apnews.com/post/3m7jnuq57vr2t" target="_blank">apnews.com</a> (2025-12-09 13:00:55)</span><span style="padding-right:50px;">Former Mexico governor arrested for alleged money laundering reut.rs/4iKpgHF <a href="https://bsky.app/profile/reuters.com/post/3m7jnuhtjje2o" target="_blank">reuters.com</a> (2025-12-09 13:00:46)</span><span style="padding-right:50px;">Israel says it struck Hezbollah sites in southern Lebanon, adding pressure to a US-brokered ceasefire. <a href="https://bsky.app/profile/aljazeera.com/post/3m7jntyu6so2f" target="_blank">aljazeera.com</a> (2025-12-09 13:00:30)</span>
+<span style="padding-right:50px;">【専門家は】後発地震 “適切に避難できるよう備えを” https://news.web.nhk/newsweb/na/na-k10014998091000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7joyrqwcr26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 13:21:02)</span><span style="padding-right:50px;">US startup seeks to reclaim Twitter trademarks 'abandoned' by Musk’s X reut.rs/4azcNo0 <a href="https://bsky.app/profile/reuters.com/post/3m7jox5dof42w" target="_blank">reuters.com</a> (2025-12-09 13:20:09)</span><span style="padding-right:50px;">Instagram and Facebook users in the European Union will soon be able to share less personal data with Meta, the social media giant that owns both services, in exchange for receiving ads that are less personalized. <a href="https://bsky.app/profile/nytimes.com/post/3m7jowzxigs26" target="_blank">nytimes.com</a> (2025-12-09 13:20:06)</span><span style="padding-right:50px;">千葉の建設業者を告発 架空の外注費計上など 約9800万円脱税か https://news.web.nhk/newsweb/na/na-k10014998761000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jotflvu72e" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 13:18:02)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】ファジアーノ岡山の佐藤龍之介選手がJリーグ「ベストヤングプレーヤー賞」「優秀選手賞」受賞 (2025-12-09 12:50) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7joqcqsfa2d" target="_blank">sokuho.news</a> (2025-12-09 13:16:20)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50739.19 (🔺61.83 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.32 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.91 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3071.00 (🔻5.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 155.85 (🔻0.07 : 2025-12-09)</span>
+<span style="padding-right:50px;">NIKKEI: 50686.57 (🔺9.21 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.32 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.91 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3067.00 (🔻9.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 155.90 (🔻0.02 : 2025-12-09)</span>
   </div>
 </div>
 
@@ -32,14 +32,101 @@
 
 ## News Headlines
 
-1. G7財務相会議 重要鉱物で共同声明 中国念頭に懸念示す
-2. 震度6強 気象庁が初の「後発地震注意情報」 備えの確認を
-3. 群馬 妙義山の山林火災 延焼続く 自衛隊ヘリが消火活動
-4. 衆院予算委 補正予算案を審議 高市首相“日中関係適切に対応”
-5. 「捜索でもレーダー断続照射はない」 中国に反論 木原官房長官
-6. 震度6強で初の「後発地震注意情報」 備えの確認を
+１. イスラエル警察、国連のUNRWA本部に強制立ち入り
+２. 千葉の建設業者を告発　架空の外注費計上など　約9800万円脱税か
+３. G7財務相会議　重要鉱物で共同声明　中国念頭に懸念示す
+４. 北海道と東北4県の避難指示は解除　3道県で35人けが
+５. PepsiCoがN.アメリカのサプライチェーンを再評価　エリオット・マネジメントとの交渉
+６. 前大統領のトランプ氏がメキシコに5％の関税を増税すると言っている
 
 ----
+
+@nhknewsunofficial.bsky.social
+
+【専門家は】後発地震 “適切に避難できるよう備えを”
+https://news.web.nhk/newsweb/na/na-k10014998091000
+
+[2025-12-09 13:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7joyrqwcr26)
+
+---
+
+@reuters.com
+
+US startup seeks to reclaim Twitter trademarks 'abandoned' by Musk’s X reut.rs/4azcNo0
+
+[2025-12-09 13:20:09](https://bsky.app/profile/reuters.com/post/3m7jox5dof42w)
+
+---
+
+@nytimes.com
+
+Instagram and Facebook users in the European Union will soon be able to share less personal data with Meta, the social media giant that owns both services, in exchange for receiving ads that are less personalized.
+
+[2025-12-09 13:20:06](https://bsky.app/profile/nytimes.com/post/3m7jowzxigs26)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+千葉の建設業者を告発 架空の外注費計上など 約9800万円脱税か
+https://news.web.nhk/newsweb/na/na-k10014998761000
+
+[2025-12-09 13:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jotflvu72e)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】ファジアーノ岡山の佐藤龍之介選手がJリーグ「ベストヤングプレーヤー賞」「優秀選手賞」受賞
+(2025-12-09 12:50) #ニュース
+
+[2025-12-09 13:16:20](https://bsky.app/profile/sokuho.news/post/3m7joqcqsfa2d)
+
+---
+
+@nikkei.com
+
+イスラエル警察、国連のUNRWA本部に強制立ち入り
+www.nikkei.com/article/DGXZQO...
+ 
+イスラエル占領下の東エルサレムにある国連パレスチナ難民救済事業機関。ラザリニ事務局長は「イスラエルは、国連施設が不可侵だとする義務をあからさまに無視している」と非難しました。「国連の旗が降ろされ、イスラエル国旗が掲げられた」とも述べました。
+ 
+#ニュース
+
+[2025-12-09 13:15:57](https://bsky.app/profile/nikkei.com/post/3m7jopm4m2e2z)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】旧統一教会・田中富広会長が辞任 解散命令めぐる高裁の審理終結など区切りに
+(2025-12-09 13:15) #ニュース
+
+[2025-12-09 13:15:37](https://bsky.app/profile/sokuho.news/post/3m7joozuaf526)
+
+---
+
+@en.afp.com
+
+Kenya deploys hundreds of additional police to Haiti, aiming to maintain pressure on the island's gangs
+
+u.afp.com/S7NC
+
+[2025-12-09 13:11:35](https://bsky.app/profile/en.afp.com/post/3m7johsrjuk2m)
+
+---
+
+@reuters.com
+
+From Breakingviews - Breakingviews - Storage buyouts save Aussie M&A blushes reut.rs/3YfS3dv
+
+[2025-12-09 13:10:09](https://bsky.app/profile/reuters.com/post/3m7jofaalua2i)
+
+---
 
 @nhknewsunofficial.bsky.social
 
@@ -47,90 +134,6 @@ G7財務相会議 重要鉱物で共同声明 中国念頭に懸念示す
 https://news.web.nhk/newsweb/na/na-k10014998741000
 
 [2025-12-09 13:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jnymiqim2j)
-
----
-
-@nikkei.com
-
-【冬でも快適な目覚め】
-朝まで暖房22度、起きたら即照明
-www.nikkei.com/article/DGXZQO...
- 
-寒い朝は布団から出るのがつらく、なかなか起きられないですよね。
- 
-睡眠研究の第一人者、筑波大学の柳沢正史教授は「エアコンで寝室を朝まで暖かく保てば解決」。喉や肌が乾燥しそうですが、掛け寝具で防寒するより入眠がスムーズになり、安眠できるといいます。
- 
-靴下は履かない方がよさそう。「手のひらと足の裏は体の放熱器。温度調節できないと途中覚醒しやすい」（柳沢教授）
-
-[2025-12-09 13:01:56](https://bsky.app/profile/nikkei.com/post/3m7jnwkel2q2i)
-
----
-
-@apnews.com
-
-"Professionally I’m married to cinema, and this movie felt like I was renewing my vows, if that makes sense," said Ryan Coogler, the director of "Sinners," upon learning of the film's Golden Globe nominations. Follow for more reactions from nominees. 
-
-[2025-12-09 13:00:55](https://bsky.app/profile/apnews.com/post/3m7jnuq57vr2t)
-
----
-
-@reuters.com
-
-Former Mexico governor arrested for alleged money laundering reut.rs/4iKpgHF
-
-[2025-12-09 13:00:46](https://bsky.app/profile/reuters.com/post/3m7jnuhtjje2o)
-
----
-
-@aljazeera.com
-
-Israel says it struck Hezbollah sites in southern Lebanon, adding pressure to a US-brokered ceasefire.
-
-[2025-12-09 13:00:30](https://bsky.app/profile/aljazeera.com/post/3m7jntyu6so2f)
-
----
-
-@cnbc.com
-
-After thrifting in her free time to make some extra money for her kids, Jocelyn Elizabeth turned her side hustle into a lucrative full-time gig.
-
-NikNax has brought in more than $5.2 million in 2025 revenue, as of Oct. 31, according to documents reviewed by CNBC Make It.
-
-[2025-12-09 13:00:26](https://bsky.app/profile/cnbc.com/post/3m7jntuit7s2y)
-
----
-
-@bloomberg.com
-
-US growers say the Trump administration’s $12 billion aid package brings temporary relief, but is unlikely to kickstart a lasting recovery for the American farm economy
-
-[2025-12-09 13:00:09](https://bsky.app/profile/bloomberg.com/post/3m7jntel7lm2d)
-
----
-
-@washingtonpost.com
-
-If you had the opportunity to take a full-body MRI, would you?
-
-A self-proclaimed hypochondriac explores the pros and cons of full-body MRI scans, weighing the potential for lifesaving discoveries against the risk of false positives and anxiety.
-
-[2025-12-09 13:00:07](https://bsky.app/profile/washingtonpost.com/post/3m7jntcfd4s23)
-
----
-
-@nytimes.com
-
-These are some of the most common reasons your home may be smelly, and how to fix them.
-
-[2025-12-09 13:00:06](https://bsky.app/profile/nytimes.com/post/3m7jntbaxo32x)
-
----
-
-@cbsnews.com
-
-3-man crew undocks from International Space Station, wrapping up 8-month stay.
-
-[2025-12-09 13:00:00](https://bsky.app/profile/cbsnews.com/post/3m7jnt4beu723)
 
 ---
 
