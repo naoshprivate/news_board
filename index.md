@@ -1,9 +1,9 @@
-# [2025-12-09 11:30 updated](2025_12_09.md)
+# [2025-12-09 11:50 updated](2025_12_09.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The mounting battle to purchase one of Hollywood’s biggest prizes — Warner Bros. Discovery — has captured President Donald Trump’s attention as he sees his own interests entwined in the transaction and appears poised to try to influence its outcome.  <a href="https://bsky.app/profile/cnn.com/post/3m7jiqg23752n" target="_blank">cnn.com</a> (2025-12-09 11:29:01)</span><span style="padding-right:50px;">Watch: Nasa astronaut and cosmonauts begin voyage back to Earth <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7jiolpx4j24" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-09 11:27:59)</span><span style="padding-right:50px;">高市首相 “地震の被害状況把握に努める” 衆院予算委で https://news.web.nhk/newsweb/na/na-k10014998681000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jimx5to22k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 11:27:02)</span><span style="padding-right:50px;">France has returned to Mongolia a 70-million-year-old dinosaur skeleton that was looted from the Gobi Desert and seized by French customs  u.afp.com/S7Nz <a href="https://bsky.app/profile/en.afp.com/post/3m7jikg6z4425" target="_blank">en.afp.com</a> (2025-12-09 11:25:40)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】95歳の女性の左肩付近を平手で殴打するなど暴行した疑い 看護師の女（55）を逮捕 (2025-12-09 10:55:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7jibi5qpp2e" target="_blank">sokuho.news</a> (2025-12-09 11:20:40)</span>
+<span style="padding-right:50px;">PHOTOS: A magnitude 7.5 earthquake hit northeastern Japan tonight, injuring multiple people and triggering tsunami alerts and evacuation orders for thousands of residents. <a href="https://bsky.app/profile/axios.com/post/3m7jjo2g6pk2l" target="_blank">axios.com</a> (2025-12-09 11:45:36)</span><span style="padding-right:50px;">【地震】 住民生活に影響広がる 断水 学校休校 一部配達に遅れ https://news.web.nhk/newsweb/na/na-k10014998601000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jjn46mwx2e" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 11:45:02)</span><span style="padding-right:50px;">【地震】青森県 岩手県 北海道 33人けが 各地の被害状況は https://news.web.nhk/newsweb/na/na-k10014998551000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jjhr7pz22k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 11:42:02)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】集合住宅で火事 消防車など20台が出動 けが人なし 名古屋市中村区 (2025-12-09 11:41) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7jjg3x7632l" target="_blank">sokuho.news</a> (2025-12-09 11:41:09)</span><span style="padding-right:50px;">Netflix, Paramount fight for Warner Bros Discovery in Hollywood power tussle reut.rs/44f36am <a href="https://bsky.app/profile/reuters.com/post/3m7jjefitaw2y" target="_blank">reuters.com</a> (2025-12-09 11:40:12)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50603.31 (🔻74.05 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.31 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.92 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3068.00 (🔻8.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 155.82 (🔻0.10 : 2025-12-09)</span>
+<span style="padding-right:50px;">NIKKEI: 50688.20 (🔺10.84 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.32 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.91 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3068.00 (🔻8.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 155.89 (🔻0.03 : 2025-12-09)</span>
   </div>
 </div>
 
@@ -32,100 +32,106 @@
 
 ## News Headlines
 
-1.  ドナルド・トランプ氏がウォーナー・ブラザーズ・ディスカバリー買収をめぐる争奪戦に関心を寄せる
-2.  フランスが70年前のモンゴルから盗まれた化石を返還
-3.  95歳女性を殴打した疑いで看護師逮捕
-4.  NVIDIAのH200チップを中国に輸出を許可
-5.  パラマウントがウォーナー・ブラザーズ買収を意欲
-6.  地震で断水で国交省
+1. 地震により青森県・岩手県・北海道で多数のけが人　断水や学校休校に
+2. Netflixとパラマウントがウォーナー・ブラザーズ・ディスカバリーをめぐる争い　トランプ氏も関与
+3. ゴールデングローブ賞ノミネート発表　第79回の授賞式は1月11日
+4. オーストラリアなどでSNSでの子どもへのいじめ対策　日本も強制規制検討
+5. トランプ政権がNvidiaのチップを中国に輸出を許可　トランプ氏が発表
+6. 大地震の可能性が高まったため、北海道・三陸沖で後発地震注意情報が出る
 
 ----
 
-@cnn.com
+@axios.com
 
-The mounting battle to purchase one of Hollywood’s biggest prizes — Warner Bros. Discovery — has captured President Donald Trump’s attention as he sees his own interests entwined in the transaction and appears poised to try to influence its outcome. 
+PHOTOS: A magnitude 7.5 earthquake hit northeastern Japan tonight, injuring multiple people and triggering tsunami alerts and evacuation orders for thousands of residents.
 
-[2025-12-09 11:29:01](https://bsky.app/profile/cnn.com/post/3m7jiqg23752n)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Watch: Nasa astronaut and cosmonauts begin voyage back to Earth
-
-[2025-12-09 11:27:59](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7jiolpx4j24)
+[2025-12-09 11:45:36](https://bsky.app/profile/axios.com/post/3m7jjo2g6pk2l)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-高市首相 “地震の被害状況把握に努める” 衆院予算委で
-https://news.web.nhk/newsweb/na/na-k10014998681000
+【地震】 住民生活に影響広がる 断水 学校休校 一部配達に遅れ
+https://news.web.nhk/newsweb/na/na-k10014998601000
 
-[2025-12-09 11:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jimx5to22k)
+[2025-12-09 11:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jjn46mwx2e)
 
 ---
 
-@en.afp.com
+@nhknewsunofficial.bsky.social
 
-France has returned to Mongolia a 70-million-year-old dinosaur skeleton that was looted from the Gobi Desert and seized by French customs
+【地震】青森県 岩手県 北海道 33人けが 各地の被害状況は
+https://news.web.nhk/newsweb/na/na-k10014998551000
 
-u.afp.com/S7Nz
-
-[2025-12-09 11:25:40](https://bsky.app/profile/en.afp.com/post/3m7jikg6z4425)
+[2025-12-09 11:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jjhr7pz22k)
 
 ---
 
 @sokuho.news
 
-🛎️JNNより【速報】です。
+🛎️NNNより【速報】です。
 
-【速報】95歳の女性の左肩付近を平手で殴打するなど暴行した疑い 看護師の女（55）を逮捕
-(2025-12-09 10:55:00) #ニュース
+【速報】集合住宅で火事 消防車など20台が出動 けが人なし 名古屋市中村区
+(2025-12-09 11:41) #ニュース
 
-[2025-12-09 11:20:40](https://bsky.app/profile/sokuho.news/post/3m7jibi5qpp2e)
+[2025-12-09 11:41:09](https://bsky.app/profile/sokuho.news/post/3m7jjg3x7632l)
 
 ---
 
 @reuters.com
 
-US to allow Nvidia to ship H200 chips to China, Trump says reut.rs/3KnTTGa
+Netflix, Paramount fight for Warner Bros Discovery in Hollywood power tussle reut.rs/44f36am
 
-[2025-12-09 11:20:12](https://bsky.app/profile/reuters.com/post/3m7jian3q7d2i)
-
----
-
-@wsj.com
-
-David Ellison was getting ghosted—and that's when he knew his offer was in trouble. Inside Paramount’s hostile bid for Warner.
-
-[2025-12-09 11:20:03](https://bsky.app/profile/wsj.com/post/3m7jiaf2keb2w)
+[2025-12-09 11:40:12](https://bsky.app/profile/reuters.com/post/3m7jjefitaw2y)
 
 ---
 
 @nytimes.com
 
-Jimmy Kimmel informed employees on Monday that “Jimmy Kimmel Live!” had been renewed for another year, extending the show through May 2027, according to two people familiar with his remarks.
+Here's the full list of Golden Globe nominees. The ceremony will air on Jan. 11.
+nyti.ms/48VeaMx
 
-[2025-12-09 11:20:02](https://bsky.app/profile/nytimes.com/post/3m7jiae5nmi2q)
-
----
-
-@nhknewsunofficial.bsky.social
-
-震度6強 鉄道 空の便 各地の交通機関への影響は【随時更新】
-https://news.web.nhk/newsweb/na/na-k10014998141000
-
-[2025-12-09 11:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ji4tnaji2u)
+[2025-12-09 11:40:01](https://bsky.app/profile/nytimes.com/post/3m7jje3dql62q)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-【きょうのおはBiz 12月9日(火)】出国税 3000円に引き上げ検討
-https://news.web.nhk/newsweb/na/na-k10014998581000
+震度6強 住民生活に影響広がる 断水や学校休校 一部配達に遅れ
+https://news.web.nhk/newsweb/na/na-k10014998601000
 
-[2025-12-09 11:15:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jhxns3uo26)
+[2025-12-09 11:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jj4zl4ac2p)
+
+---
+
+@nikkei.com
+
+子どものSNS禁止、オーストラリアにEUなど追随検討
+www.nikkei.com/article/DGXZQO...
+ 
+オーストラリアではいじめを苦にした子どもの自殺を機に、規制強化の声が強まりました。
+ 
+豪ニューサウスウェールズ大学のミミ・ゾウ教授は「SNSは有害でも注目される投稿をもとに広告収入を得るビジネス。企業が自発的に対応策をとることは期待できない」。同様の問題意識は各国に広がっています。
+ 
+日本は強制力を伴う規制はしていません。フィルタリング機能の提供を義務付けていますが、使用率は4割強にとどまっています。
+
+[2025-12-09 11:31:56](https://bsky.app/profile/nikkei.com/post/3m7jivmglya2j)
+
+---
+
+@reuters.com
+
+Kushner role in bid for Warner Bros raises ethical questions, experts say reut.rs/48XBKYV
+
+[2025-12-09 11:30:27](https://bsky.app/profile/reuters.com/post/3m7jisxmy7r2i)
+
+---
+
+@aljazeera.com
+
+The Trump administration has accused ICEBlock of making federal agents vulnerable to attack and called for its removal.
+
+[2025-12-09 11:30:19](https://bsky.app/profile/aljazeera.com/post/3m7jispuyfu2h)
 
 ---
 
