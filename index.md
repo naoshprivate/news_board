@@ -1,9 +1,9 @@
-# [2025-12-10 08:10 updated](2025_12_10.md)
+# [2025-12-10 08:30 updated](2025_12_10.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:青森県東方沖, 深さ:50km マグニチュード:4.3, 最大震度:2 📍https://www.google.com/maps?q=41.3,142.4&ll=41.3,142.4&z=7&t=h 地震発生日時:2025-12-10 08:04頃 (10倍速▶180s→18s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m7lnyhrgb42z" target="_blank">sokuho.news</a> (2025-12-10 08:08:19)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  8時4分頃、青森県・岩手県・北海道で最大震度2の地震を観測しました。 震源:青森県東方沖, 深さ:50km, 規模:M4.3 この地震による津波の心配はありません。 (2025-12-10 08:07:43) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/10/2025-12-10-08-04-45.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3m7lnxfhlgn2b" target="_blank">sokuho.news</a> (2025-12-10 08:07:43)</span><span style="padding-right:50px;">JPMorgan stock tumbles after company warns on higher spending in 2026 <a href="https://bsky.app/profile/yahoofinance.com/post/3m7lnuin7n22u" target="_blank">yahoofinance.com</a> (2025-12-10 08:06:06)</span><span style="padding-right:50px;">🚨地震発生中❗❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像4🈡 (2025-12-10 08:05:38) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m7lnu3e55a25" target="_blank">sokuho.news</a> (2025-12-10 08:05:52)</span><span style="padding-right:50px;">🚨地震発生中❗❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像3 (2025-12-10 08:05:35) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m7lntrhu2a25" target="_blank">sokuho.news</a> (2025-12-10 08:05:42)</span>
+<span style="padding-right:50px;">The U.S. Navy has awarded tech firm Palantir a contract worth hundreds of millions of dollars to manage the supply chain of its nuclear submarine fleet. <a href="https://bsky.app/profile/wsj.com/post/3m7lp23wz7t2s" target="_blank">wsj.com</a> (2025-12-10 08:27:08)</span><span style="padding-right:50px;">France provided logistical support to Benin to thwart coup, Elysee says reut.rs/4a32LLL <a href="https://bsky.app/profile/reuters.com/post/3m7lown2igu2c" target="_blank">reuters.com</a> (2025-12-10 08:25:12)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】80代男性にクロスレンチ投げつけ首を絞めた殺人未遂容疑 49歳会社員の男を逮捕 新潟・加茂市 (2025-12-10 08:18:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7loulcfgu26" target="_blank">sokuho.news</a> (2025-12-10 08:24:03)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】横浜中心部でトレーラーと乗用車2台の事故、2人が重傷 (2025-12-10 08:22:25) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7loudfxcw2y" target="_blank">sokuho.news</a> (2025-12-10 08:23:55)</span><span style="padding-right:50px;">Elon Musk told Katie Miller in an interview for her podcast on today that DOGE, the Trump administration cost-cutting department he spearheaded, was "somewhat successful." <a href="https://bsky.app/profile/axios.com/post/3m7loofwzlk2b" target="_blank">axios.com</a> (2025-12-10 08:20:36)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47560.29 (🔻164.23 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23576.49 (🔺71.87 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.97 (🔻0.59 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.80 (🔻0.02 : 2025-12-09)</span>
+<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47560.29 (🔻164.23 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23576.49 (🔺71.87 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.97 (🔻0.59 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.85 (🔺0.03 : 2025-12-09)</span>
   </div>
 </div>
 
@@ -32,127 +32,99 @@
 
 ## News Headlines
 
-1. 4.3のマグニチュードの地震が青森県東方沖に発生
-2. 防災科研より強震モニタが発表された
-3. JPMorganの株価が下落
-4. スイスの眼科巨人アルコンがスタアへの買収を発表
-5. 米国大学生の77％が「カリフォルニア州の大学への入学の可能性を考慮している」
-6. 東京都内の高級ホテルの平均料金が世界最高に
+1. 日本の新潟県で80歳代の男性が殺人未遂で逮捕される
+2. フランスがベニンのクーデターを阻止するために物資を提供したとエリゼェ宮殿が発表
+3. 米国海軍がパラティルと契約を締結、核潜水艦の物流を管理する
+4. ドイツの眼科大手アルコンがスタアの買収を決める
+5. 米国とインドネシアの貿易交渉が崩壊の危機に
+6. 米国連邦予算局長候補のハセットがトランプ大統領から指名される可能性が高まる
 
 ----
 
-@sokuho.news
+@wsj.com
 
-🔔防災科研より【強震モニタ】動画です。
+The U.S. Navy has awarded tech firm Palantir a contract worth hundreds of millions of dollars to manage the supply chain of its nuclear submarine fleet.
 
-震源:青森県東方沖, 深さ:50km
-マグニチュード:4.3, 最大震度:2
-📍https://www.google.com/maps?q=41.3,142.4&ll=41.3,142.4&z=7&t=h
-地震発生日時:2025-12-10 08:04頃
-(10倍速▶180s→18s) #地震
-
-[2025-12-10 08:08:19](https://bsky.app/profile/sokuho.news/post/3m7lnyhrgb42z)
-
----
-
-@sokuho.news
-
-🔔気象庁より【地震速報】です。
-
-8時4分頃、青森県・岩手県・北海道で最大震度2の地震を観測しました。
-震源:青森県東方沖, 深さ:50km, 規模:M4.3
-この地震による津波の心配はありません。
-(2025-12-10 08:07:43) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/10/2025-12-10-08-04-45.html?xlarge_image=1
-
-[2025-12-10 08:07:43](https://bsky.app/profile/sokuho.news/post/3m7lnxfhlgn2b)
-
----
-
-@yahoofinance.com
-
-JPMorgan stock tumbles after company warns on higher spending in 2026
-
-[2025-12-10 08:06:06](https://bsky.app/profile/yahoofinance.com/post/3m7lnuin7n22u)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗❗
-
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像4🈡
-(2025-12-10 08:05:38) #緊急地震速報
-
-[2025-12-10 08:05:52](https://bsky.app/profile/sokuho.news/post/3m7lnu3e55a25)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗❗
-
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像3
-(2025-12-10 08:05:35) #緊急地震速報
-
-[2025-12-10 08:05:42](https://bsky.app/profile/sokuho.news/post/3m7lntrhu2a25)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗❗
-
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像2
-(2025-12-10 08:05:15) #緊急地震速報
-
-[2025-12-10 08:05:22](https://bsky.app/profile/sokuho.news/post/3m7lnt5uhuv2a)
+[2025-12-10 08:27:08](https://bsky.app/profile/wsj.com/post/3m7lp23wz7t2s)
 
 ---
 
 @reuters.com
 
-Swiss eyecare giant Alcon lifts bid for rival Staar reut.rs/3YouUWh
+France provided logistical support to Benin to thwart coup, Elysee says reut.rs/4a32LLL
 
-[2025-12-10 08:05:15](https://bsky.app/profile/reuters.com/post/3m7lnsxltvk2r)
-
----
-
-@usatoday.com
-
-A new survey conducted in the wake of Charlie Kirk's assassination in September is providing new insight into how college students – and those at Utah Valley University, where the conservative activist was killed – view free speech on campus.
-
-Read more: bit.ly/3KMAsXs
-
-[2025-12-10 08:05:07](https://bsky.app/profile/usatoday.com/post/3m7lnsqepgf2l)
+[2025-12-10 08:25:12](https://bsky.app/profile/reuters.com/post/3m7lown2igu2c)
 
 ---
 
 @sokuho.news
 
-🚨地震発生中❗❗❗
+🛎️JNNより【速報】です。
 
-⚠️揺れに警戒してください
-🔗http://www.kmoni.bosai.go.jp/
+【速報】80代男性にクロスレンチ投げつけ首を絞めた殺人未遂容疑 49歳会社員の男を逮捕 新潟・加茂市
+(2025-12-10 08:18:00) #ニュース
 
-🔶防災科研/強震モニタ/予測震度画像1
-(2025-12-10 08:04:55) #緊急地震速報
+[2025-12-10 08:24:03](https://bsky.app/profile/sokuho.news/post/3m7loulcfgu26)
 
-[2025-12-10 08:05:02](https://bsky.app/profile/sokuho.news/post/3m7lnskzb3z2r)
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】横浜中心部でトレーラーと乗用車2台の事故、2人が重傷
+(2025-12-10 08:22:25) #ニュース
+
+[2025-12-10 08:23:55](https://bsky.app/profile/sokuho.news/post/3m7loudfxcw2y)
+
+---
+
+@axios.com
+
+Elon Musk told Katie Miller in an interview for her podcast on today that DOGE, the Trump administration cost-cutting department he spearheaded, was "somewhat successful."
+
+[2025-12-10 08:20:36](https://bsky.app/profile/axios.com/post/3m7loofwzlk2b)
+
+---
+
+@nbcnews.com
+
+One person is dead and another is in critical condition after reports of a shooting at Kentucky State University, officials say.
+
+[2025-12-10 08:20:10](https://bsky.app/profile/nbcnews.com/post/3m7lonn2hep2d)
 
 ---
 
 @cnbc.com
 
-Nationally, a household earning about $210,000 or holding $1.8 million in net worth ranks among the wealthiest 10%. 
+Watch: Trump delivers speech on the economy in Pennsylvania as cost concerns grow
 
-[2025-12-10 08:04:50](https://bsky.app/profile/cnbc.com/post/3m7lns7hmxx2p)
+[2025-12-10 08:16:50](https://bsky.app/profile/cnbc.com/post/3m7lohoeufe2y)
+
+---
+
+@reuters.com
+
+Argentine FA and soccer clubs raided in money laundering probe, La Nacion reports reut.rs/4prtWo6
+
+[2025-12-10 08:15:18](https://bsky.app/profile/reuters.com/post/3m7loewrt4c2i)
+
+---
+
+@en.afp.com
+
+Liverpool bounced back from a damaging row with Mohamed Salah by beating Inter Milan 1-0 on Tuesday and kicking their Champions League campaign back into life.
+u.afp.com/S7Mm
+
+[2025-12-10 08:15:01](https://bsky.app/profile/en.afp.com/post/3m7loehp6rt2f)
+
+---
+
+@cnbc.com
+
+Stock futures are little changed as investors await Fed decision: Live updates
+
+[2025-12-10 08:14:34](https://bsky.app/profile/cnbc.com/post/3m7lodmds3s2p)
 
 ---
 
