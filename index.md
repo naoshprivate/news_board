@@ -1,9 +1,9 @@
-# [2025-12-10 07:10 updated](2025_12_10.md)
+# [2025-12-10 07:30 updated](2025_12_10.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Channel 4 raids Sky for new chief executive on.ft.com/3XHlYv9 <a href="https://bsky.app/profile/financialtimes.com/post/3m7lknbc6wt2n" target="_blank">financialtimes.com</a> (2025-12-10 07:08:23)</span><span style="padding-right:50px;">The northern lights could be visible in more than a dozen states thanks to a burst of plasma and energy from the sun. <a href="https://bsky.app/profile/usatoday.com/post/3m7lklmtbws2d" target="_blank">usatoday.com</a> (2025-12-10 07:07:28)</span><span style="padding-right:50px;">Spotify expands music videos access to premium users in US, Canada to take on YouTube reut.rs/3XKxXId <a href="https://bsky.app/profile/reuters.com/post/3m7lkhq6my527" target="_blank">reuters.com</a> (2025-12-10 07:05:17)</span><span style="padding-right:50px;">Stocks making the biggest moves after hours: AeroVironment, GE Vernova, Cracker Barrel and more <a href="https://bsky.app/profile/cnbc.com/post/3m7lkg6vzxj2e" target="_blank">cnbc.com</a> (2025-12-10 07:04:25)</span><span style="padding-right:50px;">This ‘30 for 30’ installment revisits the career of the sportscaster, who brought a fresh perspective to the network before his death in 2015. on.wsj.com/3XMu4Tb <a href="https://bsky.app/profile/wsj.com/post/3m7lketytwe2t" target="_blank">wsj.com</a> (2025-12-10 07:03:40)</span>
+<span style="padding-right:50px;">Trump to name DHS official Troy Edgar to be ambassador to El Salvador, sources say. <a href="https://bsky.app/profile/cbsnews.com/post/3m7llqfdbh52r" target="_blank">cbsnews.com</a> (2025-12-10 07:28:01)</span><span style="padding-right:50px;">UN chief condemns Houthi referral of some detained UN staff to court reut.rs/4iMxEGD <a href="https://bsky.app/profile/reuters.com/post/3m7lllescsu2k" target="_blank">reuters.com</a> (2025-12-10 07:25:13)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:青森県東方沖, 深さ:20km マグニチュード:4.4, 最大震度:1 📍https://www.google.com/maps?q=40.9,143.1&ll=40.9,143.1&z=7&t=h 地震発生日時:2025-12-10 07:20頃 (10倍速▶180s→18s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m7lljgsp6427" target="_blank">sokuho.news</a> (2025-12-10 07:24:07)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  7時20分頃、青森県・岩手県・北海道で最大震度1の地震を観測しました。 震源:青森県東方沖, 深さ:20km, 規模:M4.4 この地震による津波の心配はありません。 (2025-12-10 07:23:29) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/10/2025-12-10-07-20-09.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3m7llidaleo2y" target="_blank">sokuho.news</a> (2025-12-10 07:23:30)</span><span style="padding-right:50px;">FT Exclusive: Donald Trump will soon launch a final round of interviews for Federal Reserve chair, pitting White House economic adviser Kevin Hassett against a trio of other candidates to replace Jay Powell. on.ft.com/48IjbH7 <a href="https://bsky.app/profile/financialtimes.com/post/3m7llgbb7yw25" target="_blank">financialtimes.com</a> (2025-12-10 07:22:21)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47560.29 (🔻164.23 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23576.49 (🔺71.87 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.97 (🔻0.59 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.83 (🔺0.91 : 2025-12-09)</span>
+<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47560.29 (🔻164.23 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23576.49 (🔺71.87 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.97 (🔻0.59 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.86 (🔺0.94 : 2025-12-09)</span>
   </div>
 </div>
 
@@ -32,101 +32,121 @@
 
 ## News Headlines
 
-1. カインズが24時間営業無人店を埼玉県にオープン
-2. 連邦準備制度協会がチェックサービスを廃止?
-3. フランス国会が福祉予算を通過
-4. ドナルド・トランプ米大統領が連邦準備制度協会長人選最終面接
-5. スパイク・リー氏がESPNのドキュメンタリー番組に出演
-6. ノーベル平和賞受賞者のマチャド氏が授賞式出席を取りやめ
+1. トランプ氏、ウクライナ戦争の和平案に同意するようゼレンスキー大統領に圧力をかける
+2. トランプ氏、DHS官僚のトロイ・エドガー氏をエルサルバドル大使に任命する
+3. ウクライナのゼレンスキー大統領が和平案への回答を迫る
+4. アメリカ大統領府のハセット氏がFederal Reserve-chairの最終候補者として選考を行う
+5. ケンタッキー州立大学で発砲事件が発生、1人死亡1人重傷
+6. 地震が日本の青森県東方沖で発生、最大震度1
 
 ----
 
-@financialtimes.com
+@cbsnews.com
 
-Channel 4 raids Sky for new chief executive on.ft.com/3XHlYv9
+Trump to name DHS official Troy Edgar to be ambassador to El Salvador, sources say.
 
-[2025-12-10 07:08:23](https://bsky.app/profile/financialtimes.com/post/3m7lknbc6wt2n)
-
----
-
-@usatoday.com
-
-The northern lights could be visible in more than a dozen states thanks to a burst of plasma and energy from the sun.
-
-[2025-12-10 07:07:28](https://bsky.app/profile/usatoday.com/post/3m7lklmtbws2d)
+[2025-12-10 07:28:01](https://bsky.app/profile/cbsnews.com/post/3m7llqfdbh52r)
 
 ---
 
 @reuters.com
 
-Spotify expands music videos access to premium users in US, Canada to take on YouTube reut.rs/3XKxXId
+UN chief condemns Houthi referral of some detained UN staff to court reut.rs/4iMxEGD
 
-[2025-12-10 07:05:17](https://bsky.app/profile/reuters.com/post/3m7lkhq6my527)
-
----
-
-@cnbc.com
-
-Stocks making the biggest moves after hours: AeroVironment, GE Vernova, Cracker Barrel and more
-
-[2025-12-10 07:04:25](https://bsky.app/profile/cnbc.com/post/3m7lkg6vzxj2e)
+[2025-12-10 07:25:13](https://bsky.app/profile/reuters.com/post/3m7lllescsu2k)
 
 ---
 
-@wsj.com
+@sokuho.news
 
-This ‘30 for 30’ installment revisits the career of the sportscaster, who brought a fresh perspective to the network before his death in 2015. on.wsj.com/3XMu4Tb
+🔔防災科研より【強震モニタ】動画です。
 
-[2025-12-10 07:03:40](https://bsky.app/profile/wsj.com/post/3m7lketytwe2t)
+震源:青森県東方沖, 深さ:20km
+マグニチュード:4.4, 最大震度:1
+📍https://www.google.com/maps?q=40.9,143.1&ll=40.9,143.1&z=7&t=h
+地震発生日時:2025-12-10 07:20頃
+(10倍速▶180s→18s) #地震
 
----
-
-@wsj.com
-
-Nate Amos’s solo project has been putting out music online for more than a decade, and his new studio album is an ideal introduction to his deep catalog. on.wsj.com/44WHwrm
-
-[2025-12-10 07:03:39](https://bsky.app/profile/wsj.com/post/3m7lketc4hs2p)
+[2025-12-10 07:24:07](https://bsky.app/profile/sokuho.news/post/3m7lljgsp6427)
 
 ---
 
-@nikkei.com
+@sokuho.news
 
-カインズが24時間営業無人店、日用品ついで買い促す
-www.nikkei.com/article/DGXZQO...
+🔔気象庁より【地震速報】です。
 
-12月11日に開業する埼玉県吉川市の店舗に併設します。
+7時20分頃、青森県・岩手県・北海道で最大震度1の地震を観測しました。
+震源:青森県東方沖, 深さ:20km, 規模:M4.4
+この地震による津波の心配はありません。
+(2025-12-10 07:23:29) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/10/2025-12-10-07-20-09.html?xlarge_image=1
 
-商品棚は陳列している商品の重さと値段を読み込んでおり、顧客が商品を手に取ると検知。28台のカメラを設置し、AIでも商品数と金額を分析します。
-
-退店すると購入金額をアプリやカードから引き落とす仕組みです。
-
-[2025-12-10 07:01:52](https://bsky.app/profile/nikkei.com/post/3m7lkbmrd3v2e)
+[2025-12-10 07:23:30](https://bsky.app/profile/sokuho.news/post/3m7llidaleo2y)
 
 ---
 
 @financialtimes.com
 
-Trump to kick off final round of Fed chair interviews this week on.ft.com/4rLpd2n
+FT Exclusive: Donald Trump will soon launch a final round of interviews for Federal Reserve chair, pitting White House economic adviser Kevin Hassett against a trio of other candidates to replace Jay Powell. on.ft.com/48IjbH7
 
-[2025-12-10 07:01:46](https://bsky.app/profile/financialtimes.com/post/3m7lkbhkn6j2n)
-
----
-
-@reuters.com
-
-Hendrix classic albums under spotlight in UK rights battle with Sony reut.rs/3MoeAlX
-
-[2025-12-10 07:01:35](https://bsky.app/profile/reuters.com/post/3m7lkb4ye6u2k)
+[2025-12-10 07:22:21](https://bsky.app/profile/financialtimes.com/post/3m7llgbb7yw25)
 
 ---
 
 @cnn.com
 
-The “Shaking Palsy.”
+One person is dead and another injured after a shooting at Kentucky State University in Frankfort, police say.
 
-Those are the words Dr. James Parkinson used in an essay more than 200 years ago to group together symptoms and describe a mysterious infirmity afflicting six individuals in London. https://cnn.it/44SHIYD
+[2025-12-10 07:22:12](https://bsky.app/profile/cnn.com/post/3m7llfxw5np2q)
 
-[2025-12-10 07:01:04](https://bsky.app/profile/cnn.com/post/3m7lka6qnst2v)
+---
+
+@nikkei.com
+
+トランプ氏、ウクライナに和平案への回答「数日以内に」要求　クリスマス合意へ圧力か
+www.nikkei.com/article/DGXZQO...
+
+英紙FTによると、ウクライナが領土割譲を受け入れる代わりに、アメリカが「安全の保証」を担保する和平案を受諾するか決断するよう促したといいます。
+
+ゼレンスキー氏は6日、ウィットコフ氏とトランプ氏の娘婿クシュナー氏から早期に決断するよう迫られたと欧州首脳に伝えていました。
+
+#ニュース
+
+[2025-12-10 07:21:51](https://bsky.app/profile/nikkei.com/post/3m7llfe2vdy2g)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗
+
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像3🈡
+(2025-12-10 07:21:13) #緊急地震速報
+
+[2025-12-10 07:21:20](https://bsky.app/profile/sokuho.news/post/3m7llegpvra24)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗
+
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像2
+(2025-12-10 07:21:03) #緊急地震速報
+
+[2025-12-10 07:21:10](https://bsky.app/profile/sokuho.news/post/3m7lle5brj427)
+
+---
+
+@cbsnews.com
+
+<strong><span style="color: red;">BREAKING:</span> One person was killed and another was wounded in a shooting at Kentucky State University, officials say.</strong>
+
+[2025-12-10 07:21:03](https://bsky.app/profile/cbsnews.com/post/3m7lldwrwjv2n)
 
 ---
 
