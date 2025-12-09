@@ -1,9 +1,9 @@
-# [2025-12-09 23:30 updated](2025_12_09.md)
+# [2025-12-09 23:50 updated](2025_12_09.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Australia has banned young teenagers from social media, launching a world-first crackdown designed to unglue children from addictive scrolling on the likes of Facebook, Instagram and TikTok. The laws came into effect after midnight local time on Wednesday across Australia. 📷 AFP <a href="https://bsky.app/profile/en.afp.com/post/3m7kqxokw642x" target="_blank">en.afp.com</a> (2025-12-09 23:28:55)</span><span style="padding-right:50px;">As Australia’s social media ban takes effect, here’s a summary of what other countries and tech companies are doing to regulate access to social media reut.rs/4a6Sj60 <a href="https://bsky.app/profile/reuters.com/post/3m7kqwuuyrc2f" target="_blank">reuters.com</a> (2025-12-09 23:28:28)</span><span style="padding-right:50px;">From Breakingviews - Breakingviews - Gulf Paramount bet’s logic is mostly non-financial reut.rs/4puRGYK <a href="https://bsky.app/profile/reuters.com/post/3m7kqqyn7kp2w" target="_blank">reuters.com</a> (2025-12-09 23:25:10)</span><span style="padding-right:50px;">President Trump has called European allies of the U.S. “weak” and criticized their handling of issues such as migration and the war in Ukraine. “I think they don’t know what to do,” Trump said in an interview with Politico published Tuesday. “They’re decaying.”   Follow live. <a href="https://bsky.app/profile/nytimes.com/post/3m7kqqs64fm2e" target="_blank">nytimes.com</a> (2025-12-09 23:25:04)</span><span style="padding-right:50px;"> In a tough year, private credit bosses are pointing fingers on.ft.com/4pX1Wc0  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m7kqjburj726" target="_blank">financialtimes.com</a> (2025-12-09 23:20:52)</span>
+<span style="padding-right:50px;">Second lady Usha Vance gives USA TODAY an exclusive look at the Christmas decor at the vice president’s residence and talks holiday traditions. <a href="https://bsky.app/profile/usatoday.com/post/3m7krwi6opv2d" target="_blank">usatoday.com</a> (2025-12-09 23:46:08)</span><span style="padding-right:50px;">European shares buoyed by financials, defence stocks; Fed meeting watched reut.rs/4s0H2uu <a href="https://bsky.app/profile/reuters.com/post/3m7kruswm752i" target="_blank">reuters.com</a> (2025-12-09 23:45:12)</span><span style="padding-right:50px;">A coronal mass ejection from the Sun is expected to arrive by midday, potentially causing “strong” geomagnetic storms and impacting the aurora. <a href="https://bsky.app/profile/forbes.com/post/3m7kruj3yfl2x" target="_blank">forbes.com</a> (2025-12-09 23:45:02)</span><span style="padding-right:50px;">53% of investors with a required withdrawal for 2025 still haven't taken it: Fidelity <a href="https://bsky.app/profile/cnbc.com/post/3m7krtqkctu2a" target="_blank">cnbc.com</a> (2025-12-09 23:44:36)</span><span style="padding-right:50px;">Honduras Attorney General Johel Zelaya says he's issued an international arrest warrant for former president Juan Orlando Hernández, the convicted narcotrafficker who was pardoned last week by President Trump and released from federal prison, on charges of money laundering and fraud  wapo.st/3KP9jTS <a href="https://bsky.app/profile/matthewhaybrown.bsky.social/post/3m7krohvw6k2s" target="_blank">matthewhaybrown.bsky.social</a> (2025-12-09 23:41:40)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47744.89 (🔺20.37 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.31 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.45 (🔻0.11 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.44 (🔺0.52 : 2025-12-09)</span>
+<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47875.02 (🔺150.50 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23499.46 (🔻5.15 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.52 (🔻1.04 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.46 (🔺0.54 : 2025-12-09)</span>
   </div>
 </div>
 
@@ -32,95 +32,96 @@
 
 ## News Headlines
 
-1. オーストラリア、16歳未満の子供用のソーシャルメディアを全面規制
-2. トランプ大統領、EU諸国を「弱い」と批判
-3. オーストラリアのソーシャルメディア規制、世界で初の試み
-4. ウクライナ大統領、ローマでパプア教皇と会見
-5. 恐竜の足跡16,600個発見、科学者が驚く
-6. FIFA会長、トランプ大統領に贈られた平和賞の選考過程で規定違反疑惑
+1.  米国副大統領の家でプレゼントを配る女性がChristmasデコを披露
+2.  EU市場は金融や防衛株が好調、Fedの決議は注目
+3.  太陽からのコロナル質量放出が来週の半ば頃に到着予想
+4.  ハンドゥラス：元大統領に国際逮捕状発行
+5.  米国企業がAIを最大のリスクと判断
+6.  NetflixがWarner Bros.のスタジオとストリーミングサービスを買収
 
 ----
 
-@en.afp.com
+@usatoday.com
 
-Australia has banned young teenagers from social media, launching a world-first crackdown designed to unglue children from addictive scrolling on the likes of Facebook, Instagram and TikTok. The laws came into effect after midnight local time on Wednesday across Australia.
-📷 AFP
+Second lady Usha Vance gives USA TODAY an exclusive look at the Christmas decor at the vice president’s residence and talks holiday traditions.
 
-[2025-12-09 23:28:55](https://bsky.app/profile/en.afp.com/post/3m7kqxokw642x)
-
----
-
-@reuters.com
-
-As Australia’s social media ban takes effect, here’s a summary of what other countries and tech companies are doing to regulate access to social media reut.rs/4a6Sj60
-
-[2025-12-09 23:28:28](https://bsky.app/profile/reuters.com/post/3m7kqwuuyrc2f)
+[2025-12-09 23:46:08](https://bsky.app/profile/usatoday.com/post/3m7krwi6opv2d)
 
 ---
 
 @reuters.com
 
-From Breakingviews - Breakingviews - Gulf Paramount bet’s logic is mostly non-financial reut.rs/4puRGYK
+European shares buoyed by financials, defence stocks; Fed meeting watched reut.rs/4s0H2uu
 
-[2025-12-09 23:25:10](https://bsky.app/profile/reuters.com/post/3m7kqqyn7kp2w)
-
----
-
-@nytimes.com
-
-President Trump has called European allies of the U.S. “weak” and criticized their handling of issues such as migration and the war in Ukraine. “I think they don’t know what to do,” Trump said in an interview with Politico published Tuesday. “They’re decaying.” 
-
-Follow live.
-
-[2025-12-09 23:25:04](https://bsky.app/profile/nytimes.com/post/3m7kqqs64fm2e)
+[2025-12-09 23:45:12](https://bsky.app/profile/reuters.com/post/3m7kruswm752i)
 
 ---
 
-@financialtimes.com
+@forbes.com
 
- In a tough year, private credit bosses are pointing fingers on.ft.com/4pX1Wc0  | opinion
+A coronal mass ejection from the Sun is expected to arrive by midday, potentially causing “strong” geomagnetic storms and impacting the aurora.
 
-[2025-12-09 23:20:52](https://bsky.app/profile/financialtimes.com/post/3m7kqjburj726)
+[2025-12-09 23:45:02](https://bsky.app/profile/forbes.com/post/3m7kruj3yfl2x)
 
 ---
 
-@wsj.com
+@cnbc.com
 
-Indiana went from one of college football’s losingest schools to the top team in the country. And it didn’t take endless hours on the practice field to get there.
+53% of investors with a required withdrawal for 2025 still haven't taken it: Fidelity
 
-[2025-12-09 23:20:39](https://bsky.app/profile/wsj.com/post/3m7kqivzpkk22)
+[2025-12-09 23:44:36](https://bsky.app/profile/cnbc.com/post/3m7krtqkctu2a)
+
+---
+
+@matthewhaybrown.bsky.social
+
+Honduras Attorney General Johel Zelaya says he's issued an international arrest warrant for former president Juan Orlando Hernández, the convicted narcotrafficker who was pardoned last week by President Trump and released from federal prison, on charges of money laundering and fraud
+
+wapo.st/3KP9jTS
+
+[2025-12-09 23:41:40](https://bsky.app/profile/matthewhaybrown.bsky.social/post/3m7krohvw6k2s)
+
+---
+
+@reuters.com
+
+Hedge fund managing partner Dmitry Balyasny taps AI as largest tail risk for 2026 reut.rs/4pX5dbi
+
+[2025-12-09 23:40:15](https://bsky.app/profile/reuters.com/post/3m7krlx5xbk2y)
 
 ---
 
 @nbcnews.com
 
-President Volodymyr Zelenskyy meets with Pope Leo XIV in Rome, as Ukraine prepares to send updated proposals to the U.S. for ending the war with Russia.
+Security camera footage shows ICE raiding a home in Minnesota, where they detained four people, according to family members at the house.
 
-[2025-12-09 23:20:05](https://bsky.app/profile/nbcnews.com/post/3m7kqhvaiff2y)
-
----
-
-@cbsnews.com
-
-Paleontologists have discovered and documented 16,600 footprints left by theropods, the dinosaur group that includes the Tyrannosaurus rex. 
-
-[2025-12-09 23:20:01](https://bsky.app/profile/cbsnews.com/post/3m7kqhrqvxn2o)
+[2025-12-09 23:40:10](https://bsky.app/profile/nbcnews.com/post/3m7krlsgkvr2y)
 
 ---
 
 @nytimes.com
 
-From @theathleticfc.bsky.social: FIFA president Gianni Infantino has been accused of breaching FIFA’s ethics codes in relation to the process that saw President Trump receive an inaugural peace prize.
+Netflix announced plans on Friday to acquire Warner Bros. Discovery’s studio and streaming business. On Monday, Paramount made a hostile bid for the studio.
 
-[2025-12-09 23:19:05](https://bsky.app/profile/nytimes.com/post/3m7kqg46rks27)
+On "The Daily," our journalists what it all means for the future of TV and film.
+
+[2025-12-09 23:40:04](https://bsky.app/profile/nytimes.com/post/3m7krlmwl3m2h)
+
+---
+
+@nytimes.com
+
+How did you do in Connections today? Players must select four groups of four words without making more than three mistakes. nyti.ms/4pPQD5o
+
+[2025-12-09 23:37:04](https://bsky.app/profile/nytimes.com/post/3m7krgbh33o2x)
 
 ---
 
 @apnews.com
 
-A Dominican court ordered a new trial for Tampa Bay Rays shortstop Wander Franco, who was convicted earlier this year of sexually abusing a minor.
+<strong><span style="color: red;">BREAKING:</span> A federal judge said the Justice Department can publicly release investigative materials from a sex trafficking case against Ghislaine Maxwell, the longtime confidant of Jeffrey Epstein. </strong>
 
-[2025-12-09 23:15:58](https://bsky.app/profile/apnews.com/post/3m7kqajfaxz2i)
+[2025-12-09 23:36:23](https://bsky.app/profile/apnews.com/post/3m7krezmasr2w)
 
 ---
 
