@@ -1,9 +1,9 @@
-# [2025-12-09 12:50 updated](2025_12_09.md)
+# [2025-12-09 13:10 updated](2025_12_09.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">MarcyPen Capital Partners is working with Hanwha Asset Management, the financial arm of one of South Korea’s biggest conglomerates, to launch a series of Asian investment funds on.ft.com/4psUeqh <a href="https://bsky.app/profile/financialtimes.com/post/3m7jmyn6hb32j" target="_blank">financialtimes.com</a> (2025-12-09 12:45:12)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】北海道と東北4県の避難指示は解除 3道県で35人けが（9日正午時点）総務省 (12:39) #ニュース  🟪避難情報 🔗https://crisis.yahoo.co.jp/evacuation/01/ <a href="https://bsky.app/profile/sokuho.news/post/3m7jmrlwfcn2p" target="_blank">sokuho.news</a> (2025-12-09 12:41:16)</span><span style="padding-right:50px;">PepsiCo announces review of N. America supply chain amid talks with Elliott Management reut.rs/4s04cBc <a href="https://bsky.app/profile/reuters.com/post/3m7jmprrksi2k" target="_blank">reuters.com</a> (2025-12-09 12:40:15)</span><span style="padding-right:50px;">Breaking News: Honduras has issued an international arrest warrant for its former president who was recently pardoned by President Trump. <a href="https://bsky.app/profile/nytimes.com/post/3m7jmphwydm24" target="_blank">nytimes.com</a> (2025-12-09 12:40:05)</span><span style="padding-right:50px;">国支援のリスキリング、就職率どう上げる？　「全員内定」民間校にヒント www.nikkei.com/article/DGXZQO...  就職先はAWSジャパンにアクセンチュア、日本IBM。  入学試験の合格率は6%と狭き門、課題ができないと退学──。  そんな都内のITエンジニア養成校を訪ねました。 <a href="https://bsky.app/profile/nikkei.com/post/3m7jmawkvcj2m" target="_blank">nikkei.com</a> (2025-12-09 12:31:57)</span>
+<span style="padding-right:50px;">G7財務相会議 重要鉱物で共同声明 中国念頭に懸念示す https://news.web.nhk/newsweb/na/na-k10014998741000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jnymiqim2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 13:03:03)</span><span style="padding-right:50px;">【冬でも快適な目覚め】 朝まで暖房22度、起きたら即照明 www.nikkei.com/article/DGXZQO...   寒い朝は布団から出るのがつらく、なかなか起きられないですよね。   睡眠研究の第一人者、筑波大学の柳沢正史教授は「エアコンで寝室を朝まで暖かく保てば解決」。喉や肌が乾燥しそうですが、掛け寝具で防寒するより入眠がスムーズになり、安眠できるといいます。   靴下は履かない方がよさそう。「手のひらと足の裏は体の放熱器。温度調節できないと途中覚醒しやすい」（柳沢教授） <a href="https://bsky.app/profile/nikkei.com/post/3m7jnwkel2q2i" target="_blank">nikkei.com</a> (2025-12-09 13:01:56)</span><span style="padding-right:50px;">"Professionally I’m married to cinema, and this movie felt like I was renewing my vows, if that makes sense," said Ryan Coogler, the director of "Sinners," upon learning of the film's Golden Globe nominations. Follow for more reactions from nominees.  <a href="https://bsky.app/profile/apnews.com/post/3m7jnuq57vr2t" target="_blank">apnews.com</a> (2025-12-09 13:00:55)</span><span style="padding-right:50px;">Former Mexico governor arrested for alleged money laundering reut.rs/4iKpgHF <a href="https://bsky.app/profile/reuters.com/post/3m7jnuhtjje2o" target="_blank">reuters.com</a> (2025-12-09 13:00:46)</span><span style="padding-right:50px;">Israel says it struck Hezbollah sites in southern Lebanon, adding pressure to a US-brokered ceasefire. <a href="https://bsky.app/profile/aljazeera.com/post/3m7jntyu6so2f" target="_blank">aljazeera.com</a> (2025-12-09 13:00:30)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50748.80 (🔺71.44 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.32 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.91 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3068.00 (🔻8.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 155.84 (🔻0.08 : 2025-12-09)</span>
+<span style="padding-right:50px;">NIKKEI: 50739.19 (🔺61.83 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.32 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.91 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3071.00 (🔻5.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 155.85 (🔻0.07 : 2025-12-09)</span>
   </div>
 </div>
 
@@ -32,107 +32,105 @@
 
 ## News Headlines
 
-1. 韓国最大企業グループのハンブラーグループがアジア投資ファンドを立ち上げ
-2. 北海道と東北4県の避難指示解除、35人けが
-3. アメリカのペプシコが北米の物流を再検討
-4. ホンジュラスが前大統領に国際逮捕状発行
-5. 米国で「国会予算委員会」が補正予算案を審議
-6. 米大統領トランプが中国への農業支援を発表
+1. G7財務相会議 重要鉱物で共同声明 中国念頭に懸念示す
+2. 震度6強 気象庁が初の「後発地震注意情報」 備えの確認を
+3. 群馬 妙義山の山林火災 延焼続く 自衛隊ヘリが消火活動
+4. 衆院予算委 補正予算案を審議 高市首相“日中関係適切に対応”
+5. 「捜索でもレーダー断続照射はない」 中国に反論 木原官房長官
+6. 震度6強で初の「後発地震注意情報」 備えの確認を
 
 ----
 
-@financialtimes.com
+@nhknewsunofficial.bsky.social
 
-MarcyPen Capital Partners is working with Hanwha Asset Management, the financial arm of one of South Korea’s biggest conglomerates, to launch a series of Asian investment funds on.ft.com/4psUeqh
+G7財務相会議 重要鉱物で共同声明 中国念頭に懸念示す
+https://news.web.nhk/newsweb/na/na-k10014998741000
 
-[2025-12-09 12:45:12](https://bsky.app/profile/financialtimes.com/post/3m7jmyn6hb32j)
-
----
-
-@sokuho.news
-
-🔔ANNより【速報】です。
-
-【速報】北海道と東北4県の避難指示は解除 3道県で35人けが（9日正午時点）総務省
-(12:39) #ニュース
-
-🟪避難情報
-🔗https://crisis.yahoo.co.jp/evacuation/01/
-
-[2025-12-09 12:41:16](https://bsky.app/profile/sokuho.news/post/3m7jmrlwfcn2p)
-
----
-
-@reuters.com
-
-PepsiCo announces review of N. America supply chain amid talks with Elliott Management reut.rs/4s04cBc
-
-[2025-12-09 12:40:15](https://bsky.app/profile/reuters.com/post/3m7jmprrksi2k)
-
----
-
-@nytimes.com
-
-<strong><span style="color: red;">Breaking News</span>: Honduras has issued an international arrest warrant for its former president who was recently pardoned by President Trump.</strong>
-
-[2025-12-09 12:40:05](https://bsky.app/profile/nytimes.com/post/3m7jmphwydm24)
+[2025-12-09 13:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jnymiqim2j)
 
 ---
 
 @nikkei.com
 
-国支援のリスキリング、就職率どう上げる？　「全員内定」民間校にヒント
+【冬でも快適な目覚め】
+朝まで暖房22度、起きたら即照明
 www.nikkei.com/article/DGXZQO...
+ 
+寒い朝は布団から出るのがつらく、なかなか起きられないですよね。
+ 
+睡眠研究の第一人者、筑波大学の柳沢正史教授は「エアコンで寝室を朝まで暖かく保てば解決」。喉や肌が乾燥しそうですが、掛け寝具で防寒するより入眠がスムーズになり、安眠できるといいます。
+ 
+靴下は履かない方がよさそう。「手のひらと足の裏は体の放熱器。温度調節できないと途中覚醒しやすい」（柳沢教授）
 
-就職先はAWSジャパンにアクセンチュア、日本IBM。
+[2025-12-09 13:01:56](https://bsky.app/profile/nikkei.com/post/3m7jnwkel2q2i)
 
-入学試験の合格率は6%と狭き門、課題ができないと退学──。
+---
 
-そんな都内のITエンジニア養成校を訪ねました。
+@apnews.com
 
-[2025-12-09 12:31:57](https://bsky.app/profile/nikkei.com/post/3m7jmawkvcj2m)
+"Professionally I’m married to cinema, and this movie felt like I was renewing my vows, if that makes sense," said Ryan Coogler, the director of "Sinners," upon learning of the film's Golden Globe nominations. Follow for more reactions from nominees. 
+
+[2025-12-09 13:00:55](https://bsky.app/profile/apnews.com/post/3m7jnuq57vr2t)
 
 ---
 
 @reuters.com
 
-Trump says money should go to people, not health insurers reut.rs/3KF4V9S
+Former Mexico governor arrested for alleged money laundering reut.rs/4iKpgHF
 
-[2025-12-09 12:30:20](https://bsky.app/profile/reuters.com/post/3m7jm624ub226)
+[2025-12-09 13:00:46](https://bsky.app/profile/reuters.com/post/3m7jnuhtjje2o)
 
 ---
 
 @aljazeera.com
 
-Zelenskyy says European allies ready to share their response to Trump's peace plan with US on Tuesday.
+Israel says it struck Hezbollah sites in southern Lebanon, adding pressure to a US-brokered ceasefire.
 
-[2025-12-09 12:30:19](https://bsky.app/profile/aljazeera.com/post/3m7jm5zr4652a)
-
----
-
-@cnn.com
-
-The New Orleans Archdiocese will pay at least $230 million to hundreds of victims of clergy sexual abuse under a settlement approved by a federal judge that follows years of negotiations. 
-
-[2025-12-09 12:30:04](https://bsky.app/profile/cnn.com/post/3m7jm5l3wv72r)
+[2025-12-09 13:00:30](https://bsky.app/profile/aljazeera.com/post/3m7jntyu6so2f)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@cnbc.com
 
-震度6強 気象庁が初の「後発地震注意情報」 備えの確認を
-https://news.web.nhk/newsweb/na/na-k10014998611000
+After thrifting in her free time to make some extra money for her kids, Jocelyn Elizabeth turned her side hustle into a lucrative full-time gig.
 
-[2025-12-09 12:30:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jm5krafy26)
+NikNax has brought in more than $5.2 million in 2025 revenue, as of Oct. 31, according to documents reviewed by CNBC Make It.
+
+[2025-12-09 13:00:26](https://bsky.app/profile/cnbc.com/post/3m7jntuit7s2y)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@bloomberg.com
 
-【専門家見解】青森県東方沖の地震 青森で震度6強
-https://news.web.nhk/newsweb/na/na-k10014998091000
+US growers say the Trump administration’s $12 billion aid package brings temporary relief, but is unlikely to kickstart a lasting recovery for the American farm economy
 
-[2025-12-09 12:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jlstmhis2p)
+[2025-12-09 13:00:09](https://bsky.app/profile/bloomberg.com/post/3m7jntel7lm2d)
+
+---
+
+@washingtonpost.com
+
+If you had the opportunity to take a full-body MRI, would you?
+
+A self-proclaimed hypochondriac explores the pros and cons of full-body MRI scans, weighing the potential for lifesaving discoveries against the risk of false positives and anxiety.
+
+[2025-12-09 13:00:07](https://bsky.app/profile/washingtonpost.com/post/3m7jntcfd4s23)
+
+---
+
+@nytimes.com
+
+These are some of the most common reasons your home may be smelly, and how to fix them.
+
+[2025-12-09 13:00:06](https://bsky.app/profile/nytimes.com/post/3m7jntbaxo32x)
+
+---
+
+@cbsnews.com
+
+3-man crew undocks from International Space Station, wrapping up 8-month stay.
+
+[2025-12-09 13:00:00](https://bsky.app/profile/cbsnews.com/post/3m7jnt4beu723)
 
 ---
 
