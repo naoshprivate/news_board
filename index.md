@@ -1,9 +1,9 @@
-# [2025-12-10 01:50 updated](2025_12_10.md)
+# [2025-12-10 02:10 updated](2025_12_10.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Canada's newest oil tycoon shakes up sector with bold expansion plan reut.rs/4pXxjDi <a href="https://bsky.app/profile/reuters.com/post/3m7kyldogfh2n" target="_blank">reuters.com</a> (2025-12-10 01:45:10)</span><span style="padding-right:50px;">🇺🇸 ⚽ Lionel Messi won his second consecutive Major League Soccer Most Valuable Player award on Tuesday after sparking Inter Miami to the MLS title and leading the league in goals ➡️ u.afp.com/S7gb <a href="https://bsky.app/profile/en.afp.com/post/3m7kyhbmnra2y" target="_blank">en.afp.com</a> (2025-12-10 01:42:54)</span><span style="padding-right:50px;">Microsoft unveils $23 billion in new AI investments with big focus on India reut.rs/4rKkGgD <a href="https://bsky.app/profile/reuters.com/post/3m7kyd7i2b627" target="_blank">reuters.com</a> (2025-12-10 01:40:38)</span><span style="padding-right:50px;">Ryanair to cut Brussels winter schedule over Belgium ticket tax hike reut.rs/48sDWrj <a href="https://bsky.app/profile/reuters.com/post/3m7kyd32a2d2a" target="_blank">reuters.com</a> (2025-12-10 01:40:33)</span><span style="padding-right:50px;">A high-stakes challenge to campaign finance restrictions being heard by the Supreme Court has the potential to fizzle because of Vice President JD Vance's reluctance to reveal whether he will run for office in 2028. <a href="https://bsky.app/profile/nbcnews.com/post/3m7kycaonim2j" target="_blank">nbcnews.com</a> (2025-12-10 01:40:06)</span>
+<span style="padding-right:50px;">The city’s Goldilocks status as an employer magnet with still-reasonable housing is now on shaky ground. on.wsj.com/4aF6RtD <a href="https://bsky.app/profile/wsj.com/post/3m7kzsmixl724" target="_blank">wsj.com</a> (2025-12-10 02:07:08)</span><span style="padding-right:50px;">Mozambique’s Kisawa Sanctuary is a 750-acre coastal resort that boasts the ultimate luxury: feeling very, very far away. on.wsj.com/48uuNi5 <a href="https://bsky.app/profile/wsj.com/post/3m7kzslxjo32i" target="_blank">wsj.com</a> (2025-12-10 02:07:08)</span><span style="padding-right:50px;">Exclusive: ECB backs simpler, not looser, bank rules, sources say reut.rs/4oM0KHv <a href="https://bsky.app/profile/reuters.com/post/3m7kzp2cda22o" target="_blank">reuters.com</a> (2025-12-10 02:05:09)</span><span style="padding-right:50px;">FDA approves Merck drug for decimated U.S. cattle herds to stop screwworm <a href="https://bsky.app/profile/cnbc.com/post/3m7kznqgw4t2s" target="_blank">cnbc.com</a> (2025-12-10 02:04:25)</span><span style="padding-right:50px;">There's no Dow or S&P 500 for cryptocurrencies yet. Bitwise is getting a step closer with new ETF <a href="https://bsky.app/profile/cnbc.com/post/3m7kzllsvo32s" target="_blank">cnbc.com</a> (2025-12-10 02:03:13)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47880.90 (🔺156.38 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺73.52 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.65 (🔻0.91 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.87 (🔺0.95 : 2025-12-09)</span>
+<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47840.50 (🔺115.98 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23601.64 (🔺97.03 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.92 (🔻0.64 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.90 (🔺0.98 : 2025-12-09)</span>
   </div>
 </div>
 
@@ -32,92 +32,94 @@
 
 ## News Headlines
 
-1. 2023年11月、ボーイングの新車納品が17％減
-2. インドに1万億ドルを投資するマイクロソフト
-3. 米国で、移民政策改革を求める最高裁の裁判
-4. 米国で、ガイドライン外のジェネリック薬剤の販売が増加
-5. アメリカのフロリダ州で、ライアン・エアが冬の運航スケジュールを縮小する
-6. 米国で、医療用RSV治療薬の安全性を調査
+Here are six headlines in Japanese:
+
+1.  米国では、金の三つ巴の地位を失いつつある都市
+2.  モザンビークの Luxury リゾート、キサワサンクトゥアリは、最高のラグジュアリーを誇ります
+3.  ECBは銀行規制を簡素化することを検討している
+4.  米国で牛の蠅の防止のために新薬が承認される
+5.  子どもが犬に襲われて死亡した父親は、子どもの保護を怠ったと県警察が判断
+6.  中南米のリーダーは、若い世代の若者の宗教的信念が異常に熱心になっていることを指摘
 
 ----
 
-@reuters.com
+@wsj.com
 
-Canada's newest oil tycoon shakes up sector with bold expansion plan reut.rs/4pXxjDi
+The city’s Goldilocks status as an employer magnet with still-reasonable housing is now on shaky ground. on.wsj.com/4aF6RtD
 
-[2025-12-10 01:45:10](https://bsky.app/profile/reuters.com/post/3m7kyldogfh2n)
-
----
-
-@en.afp.com
-
-🇺🇸 ⚽ Lionel Messi won his second consecutive Major League Soccer Most Valuable Player award on Tuesday after sparking Inter Miami to the MLS title and leading the league in goals ➡️ u.afp.com/S7gb
-
-[2025-12-10 01:42:54](https://bsky.app/profile/en.afp.com/post/3m7kyhbmnra2y)
-
----
-
-@reuters.com
-
-Microsoft unveils $23 billion in new AI investments with big focus on India reut.rs/4rKkGgD
-
-[2025-12-10 01:40:38](https://bsky.app/profile/reuters.com/post/3m7kyd7i2b627)
-
----
-
-@reuters.com
-
-Ryanair to cut Brussels winter schedule over Belgium ticket tax hike reut.rs/48sDWrj
-
-[2025-12-10 01:40:33](https://bsky.app/profile/reuters.com/post/3m7kyd32a2d2a)
-
----
-
-@nbcnews.com
-
-A high-stakes challenge to campaign finance restrictions being heard by the Supreme Court has the potential to fizzle because of Vice President JD Vance's reluctance to reveal whether he will run for office in 2028.
-
-[2025-12-10 01:40:06](https://bsky.app/profile/nbcnews.com/post/3m7kycaonim2j)
-
----
-
-@nytimes.com
-
-A reader asked: "When I exercise in frigid temperatures, my muscles and joints feel stiff and slower to react. Does this increase my risk of injury?"
-
-[2025-12-10 01:40:03](https://bsky.app/profile/nytimes.com/post/3m7kyc6rsya2y)
-
----
-
-@nytimes.com
-
-<strong><span style="color: red;">Breaking News</span>: Gov. JB Pritzker of Illinois signed a bill that restricts immigration enforcement near state courthouses and makes it easier to sue ICE agents.</strong>
-
-[2025-12-10 01:36:48](https://bsky.app/profile/nytimes.com/post/3m7ky4dxmss2w)
-
----
-
-@yahoofinance.com
-
-Job openings inched up in October, but labor market worries persist
-
-[2025-12-10 01:36:03](https://bsky.app/profile/yahoofinance.com/post/3m7ky2zn4y323)
+[2025-12-10 02:07:08](https://bsky.app/profile/wsj.com/post/3m7kzsmixl724)
 
 ---
 
 @wsj.com
 
-David Baldacci worked as a lawyer by day, and wrote stories by night. “I’d arrive home around 8 p.m., we’d have dinner, I played with my daughter and then wrote from 10 p.m. to 2 a.m.”
+Mozambique’s Kisawa Sanctuary is a 750-acre coastal resort that boasts the ultimate luxury: feeling very, very far away. on.wsj.com/48uuNi5
 
-[2025-12-10 01:35:42](https://bsky.app/profile/wsj.com/post/3m7ky2ffw3j2x)
+[2025-12-10 02:07:08](https://bsky.app/profile/wsj.com/post/3m7kzslxjo32i)
 
 ---
 
 @reuters.com
 
-Boeing deliveries fall 17% in November, trail Airbus reut.rs/44Vtg24
+Exclusive: ECB backs simpler, not looser, bank rules, sources say reut.rs/4oM0KHv
 
-[2025-12-10 01:35:09](https://bsky.app/profile/reuters.com/post/3m7kxzg3ozw27)
+[2025-12-10 02:05:09](https://bsky.app/profile/reuters.com/post/3m7kzp2cda22o)
+
+---
+
+@cnbc.com
+
+FDA approves Merck drug for decimated U.S. cattle herds to stop screwworm
+
+[2025-12-10 02:04:25](https://bsky.app/profile/cnbc.com/post/3m7kznqgw4t2s)
+
+---
+
+@cnbc.com
+
+There's no Dow or S&P 500 for cryptocurrencies yet. Bitwise is getting a step closer with new ETF
+
+[2025-12-10 02:03:13](https://bsky.app/profile/cnbc.com/post/3m7kzllsvo32s)
+
+---
+
+@reuters.com
+
+Women with PCOS seek relief in weight-loss drugs reut.rs/3XJuSIp
+
+[2025-12-10 02:01:08](https://bsky.app/profile/reuters.com/post/3m7kzhunhr52e)
+
+---
+
+@washingtonpost.com
+
+There's a hidden trend religious and spiritual leaders say they are observing among younger Americans: Even as fewer and fewer young people consider themselves religious, a small percentage of young adults are practicing their faiths with unusual avidity.
+
+[2025-12-10 02:00:42](https://bsky.app/profile/washingtonpost.com/post/3m7kzh3z7nr2e)
+
+---
+
+@usatoday.com
+
+The Oklahoma County District Attorney says the parents maliciously failed to protect their child, which led to her death by dog mauling.
+
+[2025-12-10 02:00:28](https://bsky.app/profile/usatoday.com/post/3m7kzgohuqo2p)
+
+---
+
+@apnews.com
+
+Republican Nassau County Executive Bruce Blakeman is running for governor of New York. His entrance into the race kicks off what is expected to be a heated Republican primary contest against Rep. Elise Stefanik. 
+
+[2025-12-10 02:00:27](https://bsky.app/profile/apnews.com/post/3m7kzgndcgs2j)
+
+---
+
+@aljazeera.com
+
+The US president claimed credit for ending eight wars but not all peace deals have survived.
+
+[2025-12-10 02:00:24](https://bsky.app/profile/aljazeera.com/post/3m7kzgkug2m23)
 
 ---
 
