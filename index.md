@@ -1,9 +1,9 @@
-# [2025-12-10 00:50 updated](2025_12_10.md)
+# [2025-12-10 01:10 updated](2025_12_10.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Microsoft to invest $17.5 billion in India, CEO Nadella says reut.rs/48DYSKH <a href="https://bsky.app/profile/reuters.com/post/3m7kva3qtzq22" target="_blank">reuters.com</a> (2025-12-10 00:45:12)</span><span style="padding-right:50px;"> Weight-loss drugs are bringing a new commercial reality on.ft.com/3MouzQV  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m7kv5vx5ec25" target="_blank">financialtimes.com</a> (2025-12-10 00:43:59)</span><span style="padding-right:50px;"> Investors should look to the data, rather than the Fed, for guidance on.ft.com/490bwVN  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m7kv5vgbbp2w" target="_blank">financialtimes.com</a> (2025-12-10 00:43:58)</span><span style="padding-right:50px;">Why Netflix is making a big mistake trying to buy Warner Bros. Discovery, according to a top analyst <a href="https://bsky.app/profile/cnbc.com/post/3m7kv4azbjb2q" target="_blank">cnbc.com</a> (2025-12-10 00:43:03)</span><span style="padding-right:50px;">Italy to reassure ECB's Lagarde over ownership of central bank gold reut.rs/3Ylwvfu <a href="https://bsky.app/profile/reuters.com/post/3m7kuxjakrk2a" target="_blank">reuters.com</a> (2025-12-10 00:40:24)</span>
+<span style="padding-right:50px;">Exclusive: US FDA launches fresh safety scrutiny of approved RSV therapies for infants reut.rs/48JXrL2 <a href="https://bsky.app/profile/reuters.com/post/3m7kwdwtfwm27" target="_blank">reuters.com</a> (2025-12-10 01:05:15)</span><span style="padding-right:50px;">Trump officials move to end student loan payment pause for millions of borrowers <a href="https://bsky.app/profile/cnbc.com/post/3m7kwa5r5x62e" target="_blank">cnbc.com</a> (2025-12-10 01:03:08)</span><span style="padding-right:50px;">Lithuania has declared a state of emergency after hundreds of smuggler balloons from neighbouring Belarus forced the repeated closure of its airports in recent weeks and threatened national security. on.ft.com/4pPKmXa <a href="https://bsky.app/profile/financialtimes.com/post/3m7kw75vtgc26" target="_blank">financialtimes.com</a> (2025-12-10 01:02:34)</span><span style="padding-right:50px;">The ‘Nash Falls’ novelist on his mother’s fearlessness, being a high school loner and his secret garden. on.wsj.com/4rN978q <a href="https://bsky.app/profile/wsj.com/post/3m7kw5mnw4c2r" target="_blank">wsj.com</a> (2025-12-10 01:01:43)</span><span style="padding-right:50px;">US container imports drop 7.8% in November amid China demand slump, Descartes Systems says reut.rs/4psTp0I <a href="https://bsky.app/profile/reuters.com/post/3m7kw4lxqgj22" target="_blank">reuters.com</a> (2025-12-10 01:01:08)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47826.29 (🔺101.77 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23537.54 (🔺32.93 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.66 (🔻0.90 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.81 (🔺0.89 : 2025-12-09)</span>
+<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47878.86 (🔺154.34 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23568.42 (🔺63.80 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 185.07 (🔻0.49 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.86 (🔺0.94 : 2025-12-09)</span>
   </div>
 </div>
 
@@ -32,92 +32,92 @@
 
 ## News Headlines
 
-1. マイクロソフト、インドで17.5億ドルを投資
-2. マイクロソフト、インドで17.5億ドルを投資
-3. ウォーナー・ブラザーズ・ディスカバリー買収に失敗したNetflix
-4. イタリア、ECBのラガルドさんに中央銀行の金の所有について説明
-5. 連邦裁判所がマックスウェル氏のグランド・ジュリーの記録を開示命令
-6. インドネシアのエニがボルネオで大ガス田を発見
+1. 米国FDAがRSV治療薬の安全性を厳しく検討
+2. 米国政府が学生ローンの支払い停止を終了
+3. ベラルーシの密入国が原因でリトアニアが緊急事態宣言
+4. Netflixがワーナー・ブラザーズ・ディスカバリー買収を誤ったと分析家が言い
+5. ドナルド・トランプがEUの指導者を批判
+6. 政治化が国民生活を苦しめるとの意見が増えている
 
 ----
 
 @reuters.com
 
-Microsoft to invest $17.5 billion in India, CEO Nadella says reut.rs/48DYSKH
+Exclusive: US FDA launches fresh safety scrutiny of approved RSV therapies for infants reut.rs/48JXrL2
 
-[2025-12-10 00:45:12](https://bsky.app/profile/reuters.com/post/3m7kva3qtzq22)
-
----
-
-@financialtimes.com
-
- Weight-loss drugs are bringing a new commercial reality on.ft.com/3MouzQV  | opinion
-
-[2025-12-10 00:43:59](https://bsky.app/profile/financialtimes.com/post/3m7kv5vx5ec25)
-
----
-
-@financialtimes.com
-
- Investors should look to the data, rather than the Fed, for guidance on.ft.com/490bwVN  | opinion
-
-[2025-12-10 00:43:58](https://bsky.app/profile/financialtimes.com/post/3m7kv5vgbbp2w)
+[2025-12-10 01:05:15](https://bsky.app/profile/reuters.com/post/3m7kwdwtfwm27)
 
 ---
 
 @cnbc.com
 
-Why Netflix is making a big mistake trying to buy Warner Bros. Discovery, according to a top analyst
+Trump officials move to end student loan payment pause for millions of borrowers
 
-[2025-12-10 00:43:03](https://bsky.app/profile/cnbc.com/post/3m7kv4azbjb2q)
-
----
-
-@reuters.com
-
-Italy to reassure ECB's Lagarde over ownership of central bank gold reut.rs/3Ylwvfu
-
-[2025-12-10 00:40:24](https://bsky.app/profile/reuters.com/post/3m7kuxjakrk2a)
+[2025-12-10 01:03:08](https://bsky.app/profile/cnbc.com/post/3m7kwa5r5x62e)
 
 ---
 
-@yahoofinance.com
+@financialtimes.com
 
-Job openings rose a bit in October amid broader concerns about labor market
+Lithuania has declared a state of emergency after hundreds of smuggler balloons from neighbouring Belarus forced the repeated closure of its airports in recent weeks and threatened national security. on.ft.com/4pPKmXa
 
-[2025-12-10 00:36:03](https://bsky.app/profile/yahoofinance.com/post/3m7kupq5wze2c)
-
----
-
-@reuters.com
-
-Switzerland says US tariff reduction statement published in error reut.rs/4oHAX2Y
-
-[2025-12-10 00:35:15](https://bsky.app/profile/reuters.com/post/3m7kuocot5a2e)
-
----
-
-@forbes.com
-
-Recent data has pointed to a cooling labor market, with an expected uptick in layoffs.
-
-[2025-12-10 00:35:08](https://bsky.app/profile/forbes.com/post/3m7kuo3r5qb2m)
+[2025-12-10 01:02:34](https://bsky.app/profile/financialtimes.com/post/3m7kw75vtgc26)
 
 ---
 
 @wsj.com
 
-Bruce Blakeman, a Long Island Republican who touts his support of ICE, will run for governor of New York, setting up a primary battle with Rep. Elise Stefanik.
+The ‘Nash Falls’ novelist on his mother’s fearlessness, being a high school loner and his secret garden. on.wsj.com/4rN978q
 
-[2025-12-10 00:34:41](https://bsky.app/profile/wsj.com/post/3m7kunciczb2x)
+[2025-12-10 01:01:43](https://bsky.app/profile/wsj.com/post/3m7kw5mnw4c2r)
 
 ---
 
-@axios.com
+@reuters.com
 
-NEW: Judge orders release of Ghislaine Maxwell grand jury records
+US container imports drop 7.8% in November amid China demand slump, Descartes Systems says reut.rs/4psTp0I
 
-[2025-12-10 00:34:17](https://bsky.app/profile/axios.com/post/3m7kumku57k2c)
+[2025-12-10 01:01:08](https://bsky.app/profile/reuters.com/post/3m7kw4lxqgj22)
+
+---
+
+@nbcnews.com
+
+Despite soaring progress, scientists at AI’s largest gathering say key questions about how models work and how to measure them remain unsolved.
+
+[2025-12-10 01:00:59](https://bsky.app/profile/nbcnews.com/post/3m7kw4cna4l27)
+
+---
+
+@washingtonpost.com
+
+The percentage of medication abortions arranged via telehealth grew again in the first half of 2025, according to a report, despite Republican efforts to keep doctors in blue states from prescribing pills to women in states where abortion is illegal.
+
+[2025-12-10 01:00:44](https://bsky.app/profile/washingtonpost.com/post/3m7kw3uhn7c23)
+
+---
+
+@usatoday.com
+
+Marciano Brunette said in his defamation suit against Demi Engemann that she's repeated "false" claims that he'd assaulted her on "Vanderpump Villa."
+
+[2025-12-10 01:00:39](https://bsky.app/profile/usatoday.com/post/3m7kw3qaw3d2j)
+
+---
+
+@aljazeera.com
+
+Donald Trump’s trade tariffs have failed to hold back China's export dominance, which scaled new heights in November.
+
+[2025-12-10 01:00:29](https://bsky.app/profile/aljazeera.com/post/3m7kw3glpn32c)
+
+---
+
+@apnews.com
+
+Cuba’s top court says a former economy minister was sentenced to life in prison for espionage, in the highest-profile case against an ex-official in recent years on the island. 
+
+[2025-12-10 01:00:23](https://bsky.app/profile/apnews.com/post/3m7kw3ai5uy2y)
 
 ---
 
