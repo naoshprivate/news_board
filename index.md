@@ -1,9 +1,9 @@
-# [2025-12-10 02:30 updated](2025_12_10.md)
+# [2025-12-10 02:50 updated](2025_12_10.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Badenoch cites Brexit as ‘shock’ to UK on.ft.com/4rI5e4J <a href="https://bsky.app/profile/financialtimes.com/post/3m7l2wxkhnu2q" target="_blank">financialtimes.com</a> (2025-12-10 02:27:28)</span><span style="padding-right:50px;">Exclusive: Chilean regulator, workers flagged risk at Teck's Quebrada Blanca dam reut.rs/4oUwVVm <a href="https://bsky.app/profile/reuters.com/post/3m7l2sz5gxy2k" target="_blank">reuters.com</a> (2025-12-10 02:25:15)</span><span style="padding-right:50px;">Vietnam stock market is booming in 2025. Why this may just be the beginning <a href="https://bsky.app/profile/cnbc.com/post/3m7l2rxzsm62x" target="_blank">cnbc.com</a> (2025-12-10 02:24:41)</span><span style="padding-right:50px;">Private companies grew their payrolls slightly on net through much of November, human-resources firm ADP said Tuesday. <a href="https://bsky.app/profile/wsj.com/post/3m7l2qtznpj2x" target="_blank">wsj.com</a> (2025-12-10 02:24:03)</span><span style="padding-right:50px;">The son of Cuban immigrants, Malo and his band blended country, rock and roll, folk, jump blues, Latin music and Cajun rhythms into a distinct sound anchored by his unmistakable voice. n.pr/44NlYxm <a href="https://bsky.app/profile/npr.org/post/3m7l2qsbljg2x" target="_blank">npr.org</a> (2025-12-10 02:24:01)</span>
+<span style="padding-right:50px;">CVS forecasts 2026 profit above estimates as turnaround plan takes effect reut.rs/48s0vfP <a href="https://bsky.app/profile/reuters.com/post/3m7l3wphgmz2y" target="_blank">reuters.com</a> (2025-12-10 02:45:13)</span><span style="padding-right:50px;">Lithuania declares emergency situation over risks from balloons from Belarus <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7l3sg267227" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-10 02:42:48)</span><span style="padding-right:50px;">危険運転致死傷罪 適用要件見直し 法改正への作業加速 法務省 https://news.web.nhk/newsweb/na/na-k10014999331000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7l3r3elqa2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-10 02:42:02)</span><span style="padding-right:50px;">Rise in US job openings offers hope of labour market stabilisation on.ft.com/44g97nf <a href="https://bsky.app/profile/financialtimes.com/post/3m7l3pylqp42n" target="_blank">financialtimes.com</a> (2025-12-10 02:41:28)</span><span style="padding-right:50px;">Kevin Hassett said during a Wall Street Journal CEO Council event that he would rely on his own judgment and not bow to political pressure to decide whether to cut interest rates if he becomes the next chairman of the Federal Reserve. <a href="https://bsky.app/profile/wsj.com/post/3m7l3pmyiw62w" target="_blank">wsj.com</a> (2025-12-10 02:41:16)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47774.11 (🔺49.59 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23594.98 (🔺90.36 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.94 (🔻0.62 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.88 (🔺0.96 : 2025-12-09)</span>
+<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47636.04 (🔻88.48 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23578.85 (🔺74.24 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.87 (🔻0.69 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.87 (🔺0.95 : 2025-12-09)</span>
   </div>
 </div>
 
@@ -32,92 +32,93 @@
 
 ## News Headlines
 
-1. Brexitが英国に衝撃を与えた
-2. チリの水力発電所のリスクを指摘
-3. ベトナムの株式市場が2025年に大きなブームを起こし始めた
-4. フェデラル貿易委員会のメンバーを解任できる可能性のある最高裁判所の決定
-5. 中性脂肪が健康に有益であることを示唆する研究
-6. ストックマーケットの動き：エクソノール、SLM、CVS、AutoZone、Ares、スタア・サージカルなど
+1. CVSが2026年の利益予想を上回る
+2. リトアニアがベラルーシからの風船リスクに対して緊急事態宣言
+3. 連邦準備制度委員会のハセット氏は、利下げを決定する際は政治圧力に左右されないことを明言
+4. グリーンランドがEUに支援されるグラファイト鉱山に30年間の許可を付与
+5. インディアナ州議会の委員会が共和党が策定した選挙区割りを通過、議会下院での結果は不明
+6. マサチューセッツ州がスポーツ予測市場を運営するKalshiを禁止しようとする
 
 ----
 
-@financialtimes.com
-
-Badenoch cites Brexit as ‘shock’ to UK on.ft.com/4rI5e4J
-
-[2025-12-10 02:27:28](https://bsky.app/profile/financialtimes.com/post/3m7l2wxkhnu2q)
-
----
-
 @reuters.com
 
-Exclusive: Chilean regulator, workers flagged risk at Teck's Quebrada Blanca dam reut.rs/4oUwVVm
+CVS forecasts 2026 profit above estimates as turnaround plan takes effect reut.rs/48s0vfP
 
-[2025-12-10 02:25:15](https://bsky.app/profile/reuters.com/post/3m7l2sz5gxy2k)
+[2025-12-10 02:45:13](https://bsky.app/profile/reuters.com/post/3m7l3wphgmz2y)
 
 ---
 
-@cnbc.com
+@bbcnews-world-rss.bsky.social
 
-Vietnam stock market is booming in 2025. Why this may just be the beginning
+Lithuania declares emergency situation over risks from balloons from Belarus
 
-[2025-12-10 02:24:41](https://bsky.app/profile/cnbc.com/post/3m7l2rxzsm62x)
+[2025-12-10 02:42:48](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7l3sg267227)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+危険運転致死傷罪 適用要件見直し 法改正への作業加速 法務省
+https://news.web.nhk/newsweb/na/na-k10014999331000
+
+[2025-12-10 02:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7l3r3elqa2j)
+
+---
+
+@financialtimes.com
+
+Rise in US job openings offers hope of labour market stabilisation on.ft.com/44g97nf
+
+[2025-12-10 02:41:28](https://bsky.app/profile/financialtimes.com/post/3m7l3pylqp42n)
 
 ---
 
 @wsj.com
 
-Private companies grew their payrolls slightly on net through much of November, human-resources firm ADP said Tuesday.
+Kevin Hassett said during a Wall Street Journal CEO Council event that he would rely on his own judgment and not bow to political pressure to decide whether to cut interest rates if he becomes the next chairman of the Federal Reserve.
 
-[2025-12-10 02:24:03](https://bsky.app/profile/wsj.com/post/3m7l2qtznpj2x)
-
----
-
-@npr.org
-
-The son of Cuban immigrants, Malo and his band blended country, rock and roll, folk, jump blues, Latin music and Cajun rhythms into a distinct sound anchored by his unmistakable voice. n.pr/44NlYxm
-
-[2025-12-10 02:24:01](https://bsky.app/profile/npr.org/post/3m7l2qsbljg2x)
-
----
-
-@nytimes.com
-
-Lola boasts that its 100% synthetic throws are “the #1 softest blanket on the market.” We put the $300 fuzzy throw to the test.
-
-[2025-12-10 02:23:04](https://bsky.app/profile/nytimes.com/post/3m7l2p3watl2p)
-
----
-
-@nbcnews.com
-
-The Supreme Court appears poised to side with President Donald Trump and allow him to fire a member of the Federal Trade Commission without cause, a provocative move aimed at upending the long-standing concept of independent federal agencies.
-
-[2025-12-10 02:20:10](https://bsky.app/profile/nbcnews.com/post/3m7l2jvrhn42i)
-
----
-
-@nytimes.com
-
-Is saturated fat good for you? Health experts have long recommended limiting it, but Robert F. Kennedy Jr. has signaled a shift in that advice. Here's what to know.
-
-[2025-12-10 02:20:06](https://bsky.app/profile/nytimes.com/post/3m7l2jrs5qu2d)
-
----
-
-@cnbc.com
-
-Stocks making the biggest moves midday: Exxon, SLM, CVS, AutoZone, Ares, Staar Surgical and more
-
-[2025-12-10 02:16:30](https://bsky.app/profile/cnbc.com/post/3m7l2ddvhj32x)
+[2025-12-10 02:41:16](https://bsky.app/profile/wsj.com/post/3m7l3pmyiw62w)
 
 ---
 
 @reuters.com
 
-Fed faces turbulent 2026 as Powell's term ends, independence tested reut.rs/4pLiIeF
+Greenland approves 30-year mining permit for EU-backed graphite project reut.rs/4q01klX
 
-[2025-12-10 02:15:18](https://bsky.app/profile/reuters.com/post/3m7l2b7kq3c2i)
+[2025-12-10 02:40:17](https://bsky.app/profile/reuters.com/post/3m7l3nurrkd2r)
+
+---
+
+@nbcnews.com
+
+A committee of Indiana state lawmakers advance a Republican-drawn congressional map, sending it to the floor of the state Senate, where its outcome remains uncertain.
+
+[2025-12-10 02:40:08](https://bsky.app/profile/nbcnews.com/post/3m7l3nmpele2y)
+
+---
+
+@nytimes.com
+
+Behind a house in California, where the average price for a one-bedroom rental is about $2,100 a month, about a dozen people are living in a cluster of sheds and storage units with no running water or power. Rent is about about $600 to $800 a month.
+
+[2025-12-10 02:40:03](https://bsky.app/profile/nytimes.com/post/3m7l3nhzh562g)
+
+---
+
+@financialtimes.com
+
+Silver surges above $60 for first time on global supply squeeze on.ft.com/48Ndl7r
+
+[2025-12-10 02:38:40](https://bsky.app/profile/financialtimes.com/post/3m7l3kyj2gc2j)
+
+---
+
+@reuters.com
+
+Massachusetts seeks to block Kalshi from operating sports-prediction market reut.rs/48JVn5J
+
+[2025-12-10 02:35:07](https://bsky.app/profile/reuters.com/post/3m7l3enqlyd2k)
 
 ---
 
