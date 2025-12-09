@@ -1,9 +1,9 @@
-# [2025-12-10 01:30 updated](2025_12_10.md)
+# [2025-12-10 01:50 updated](2025_12_10.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">China to limit access to Nvidia's H200 chips despite Trump export approval, FT reports reut.rs/48K1HKw <a href="https://bsky.app/profile/reuters.com/post/3m7kxhphjao2w" target="_blank">reuters.com</a> (2025-12-10 01:25:15)</span><span style="padding-right:50px;">Pfizer adds to obesity bet with up to $2.1 billion deal to develop Chinese company's pill <a href="https://bsky.app/profile/cnbc.com/post/3m7kxdg2rkf2a" target="_blank">cnbc.com</a> (2025-12-10 01:22:51)</span><span style="padding-right:50px;">VIDEO: 📱 Age verification tech grows as governments push for online controls  In most cases, all the technology requires is a head-on selfie taken with a phone or computer camera, and an automated decision is made within a minute <a href="https://bsky.app/profile/en.afp.com/post/3m7kxaprmpx2y" target="_blank">en.afp.com</a> (2025-12-10 01:21:20)</span><span style="padding-right:50px;">The "TODAY" show announces that Sheinelle Jones will co-host the fourth hour of the network’s flagship morning show alongside Jenna Bush Hager. <a href="https://bsky.app/profile/nbcnews.com/post/3m7kx6if6ge22" target="_blank">nbcnews.com</a> (2025-12-10 01:20:06)</span><span style="padding-right:50px;">Bari Weiss has hired Matt Gutman, a longtime ABC News journalist, as its chief correspondent, as she seeks to remake the storied news organization. <a href="https://bsky.app/profile/wsj.com/post/3m7kx3uqetq2o" target="_blank">wsj.com</a> (2025-12-10 01:18:38)</span>
+<span style="padding-right:50px;">Canada's newest oil tycoon shakes up sector with bold expansion plan reut.rs/4pXxjDi <a href="https://bsky.app/profile/reuters.com/post/3m7kyldogfh2n" target="_blank">reuters.com</a> (2025-12-10 01:45:10)</span><span style="padding-right:50px;">🇺🇸 ⚽ Lionel Messi won his second consecutive Major League Soccer Most Valuable Player award on Tuesday after sparking Inter Miami to the MLS title and leading the league in goals ➡️ u.afp.com/S7gb <a href="https://bsky.app/profile/en.afp.com/post/3m7kyhbmnra2y" target="_blank">en.afp.com</a> (2025-12-10 01:42:54)</span><span style="padding-right:50px;">Microsoft unveils $23 billion in new AI investments with big focus on India reut.rs/4rKkGgD <a href="https://bsky.app/profile/reuters.com/post/3m7kyd7i2b627" target="_blank">reuters.com</a> (2025-12-10 01:40:38)</span><span style="padding-right:50px;">Ryanair to cut Brussels winter schedule over Belgium ticket tax hike reut.rs/48sDWrj <a href="https://bsky.app/profile/reuters.com/post/3m7kyd32a2d2a" target="_blank">reuters.com</a> (2025-12-10 01:40:33)</span><span style="padding-right:50px;">A high-stakes challenge to campaign finance restrictions being heard by the Supreme Court has the potential to fizzle because of Vice President JD Vance's reluctance to reveal whether he will run for office in 2028. <a href="https://bsky.app/profile/nbcnews.com/post/3m7kycaonim2j" target="_blank">nbcnews.com</a> (2025-12-10 01:40:06)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47878.81 (🔺154.29 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23573.91 (🔺69.29 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 185.14 (🔻0.42 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.91 (🔺0.99 : 2025-12-09)</span>
+<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47880.90 (🔺156.38 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23578.13 (🔺73.52 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.65 (🔻0.91 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.87 (🔺0.95 : 2025-12-09)</span>
   </div>
 </div>
 
@@ -32,96 +32,92 @@
 
 ## News Headlines
 
-1.  中国、NvidiaのH200チップへのアクセスを制限することを検討
-2.  Pfizer、中国企業との2.1億ドルの連携で肥満治療薬を開発
-3.  イギリス、ビザ制限強化　10.8億ポンドの経済損失を予測
-4.  リトアニア、ベラルーシからの密航者を阻止するために緊急事態宣言
-5.  ルイビルトン、メッシが2年連続MVPを受賞
-6.  米国、RSV治療薬に対する新たな安全性調査を開始
+1. 2023年11月、ボーイングの新車納品が17％減
+2. インドに1万億ドルを投資するマイクロソフト
+3. 米国で、移民政策改革を求める最高裁の裁判
+4. 米国で、ガイドライン外のジェネリック薬剤の販売が増加
+5. アメリカのフロリダ州で、ライアン・エアが冬の運航スケジュールを縮小する
+6. 米国で、医療用RSV治療薬の安全性を調査
 
 ----
 
 @reuters.com
 
-China to limit access to Nvidia's H200 chips despite Trump export approval, FT reports reut.rs/48K1HKw
+Canada's newest oil tycoon shakes up sector with bold expansion plan reut.rs/4pXxjDi
 
-[2025-12-10 01:25:15](https://bsky.app/profile/reuters.com/post/3m7kxhphjao2w)
-
----
-
-@cnbc.com
-
-Pfizer adds to obesity bet with up to $2.1 billion deal to develop Chinese company's pill
-
-[2025-12-10 01:22:51](https://bsky.app/profile/cnbc.com/post/3m7kxdg2rkf2a)
+[2025-12-10 01:45:10](https://bsky.app/profile/reuters.com/post/3m7kyldogfh2n)
 
 ---
 
 @en.afp.com
 
-VIDEO: 📱 Age verification tech grows as governments push for online controls
+🇺🇸 ⚽ Lionel Messi won his second consecutive Major League Soccer Most Valuable Player award on Tuesday after sparking Inter Miami to the MLS title and leading the league in goals ➡️ u.afp.com/S7gb
 
-In most cases, all the technology requires is a head-on selfie taken with a phone or computer camera, and an automated decision is made within a minute
-
-[2025-12-10 01:21:20](https://bsky.app/profile/en.afp.com/post/3m7kxaprmpx2y)
-
----
-
-@nbcnews.com
-
-The "TODAY" show announces that Sheinelle Jones will co-host the fourth hour of the network’s flagship morning show alongside Jenna Bush Hager.
-
-[2025-12-10 01:20:06](https://bsky.app/profile/nbcnews.com/post/3m7kx6if6ge22)
-
----
-
-@wsj.com
-
-Bari Weiss has hired Matt Gutman, a longtime ABC News journalist, as its chief correspondent, as she seeks to remake the storied news organization.
-
-[2025-12-10 01:18:38](https://bsky.app/profile/wsj.com/post/3m7kx3uqetq2o)
+[2025-12-10 01:42:54](https://bsky.app/profile/en.afp.com/post/3m7kyhbmnra2y)
 
 ---
 
 @reuters.com
 
-Brookfield and Qatar launch $20 billion AI infrastructure joint venture reut.rs/48NTTHB
+Microsoft unveils $23 billion in new AI investments with big focus on India reut.rs/4rKkGgD
 
-[2025-12-10 01:15:16](https://bsky.app/profile/reuters.com/post/3m7kwvtuvjk2y)
+[2025-12-10 01:40:38](https://bsky.app/profile/reuters.com/post/3m7kyd7i2b627)
 
 ---
 
-@yahoonews.com
+@reuters.com
 
-Who else prefers self-checkout? 👀
+Ryanair to cut Brussels winter schedule over Belgium ticket tax hike reut.rs/48sDWrj
 
-The number of shoppers guilty of not scanning items has increased by 12% since 2023, according to a LendingTree survey. Millennials (41%) and Gen Z adults (37%) were the most likely to admit to stealing at self-checkout. yhoo.it/3XFbJHH  
+[2025-12-10 01:40:33](https://bsky.app/profile/reuters.com/post/3m7kyd32a2d2a)
 
-[2025-12-10 01:12:38](https://bsky.app/profile/yahoonews.com/post/3m7kwr5j2oz2a)
+---
+
+@nbcnews.com
+
+A high-stakes challenge to campaign finance restrictions being heard by the Supreme Court has the potential to fizzle because of Vice President JD Vance's reluctance to reveal whether he will run for office in 2028.
+
+[2025-12-10 01:40:06](https://bsky.app/profile/nbcnews.com/post/3m7kycaonim2j)
 
 ---
 
 @nytimes.com
 
-Zaynab Issa's quick skillet dinner of spiced ground beef over cooling cucumber yogurt is our most popular recipe of the year. Get the recipe: nyti.ms/48ldz6I
+A reader asked: "When I exercise in frigid temperatures, my muscles and joints feel stiff and slower to react. Does this increase my risk of injury?"
 
-[2025-12-10 01:12:03](https://bsky.app/profile/nytimes.com/post/3m7kwq4m34b2h)
-
----
-
-@financialtimes.com
-
-Tighter visa rules will cost UK up to £10.8bn on.ft.com/4a1qjR6
-
-[2025-12-10 01:11:01](https://bsky.app/profile/financialtimes.com/post/3m7kwobhpu723)
+[2025-12-10 01:40:03](https://bsky.app/profile/nytimes.com/post/3m7kyc6rsya2y)
 
 ---
 
-@apnews.com
+@nytimes.com
 
-Lionel Messi wins the MLS MVP award, becoming the first player to win the honor in back-to-back years.
+<strong><span style="color: red;">Breaking News</span>: Gov. JB Pritzker of Illinois signed a bill that restricts immigration enforcement near state courthouses and makes it easier to sue ICE agents.</strong>
 
-[2025-12-10 01:10:35](https://bsky.app/profile/apnews.com/post/3m7kwni4pk32j)
+[2025-12-10 01:36:48](https://bsky.app/profile/nytimes.com/post/3m7ky4dxmss2w)
+
+---
+
+@yahoofinance.com
+
+Job openings inched up in October, but labor market worries persist
+
+[2025-12-10 01:36:03](https://bsky.app/profile/yahoofinance.com/post/3m7ky2zn4y323)
+
+---
+
+@wsj.com
+
+David Baldacci worked as a lawyer by day, and wrote stories by night. “I’d arrive home around 8 p.m., we’d have dinner, I played with my daughter and then wrote from 10 p.m. to 2 a.m.”
+
+[2025-12-10 01:35:42](https://bsky.app/profile/wsj.com/post/3m7ky2ffw3j2x)
+
+---
+
+@reuters.com
+
+Boeing deliveries fall 17% in November, trail Airbus reut.rs/44Vtg24
+
+[2025-12-10 01:35:09](https://bsky.app/profile/reuters.com/post/3m7kxzg3ozw27)
 
 ---
 
