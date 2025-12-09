@@ -1,9 +1,9 @@
-# [2025-12-09 19:10 updated](2025_12_09.md)
+# [2025-12-09 19:30 updated](2025_12_09.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">ASML customers include at least one with Chinese military links, Nieuwsuur reports reut.rs/4iHxyjg <a href="https://bsky.app/profile/reuters.com/post/3m7kc7zvkkn27" target="_blank">reuters.com</a> (2025-12-09 19:05:09)</span><span style="padding-right:50px;">Amid NIH funding delays, reversals and uncertainty, a scientist at Harvard who studies breast cancer has lost one-third of her lab employees and wonders if she can continue her research experiments. n.pr/4a4N3zD <a href="https://bsky.app/profile/npr.org/post/3m7kc6m54hy2i" target="_blank">npr.org</a> (2025-12-09 19:04:21)</span><span style="padding-right:50px;">【地震】青森 岩手 北海道 50人けが 各地の被害状況は https://news.web.nhk/newsweb/na/na-k10014998551000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7kc4dlqcq2g" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 19:03:02)</span><span style="padding-right:50px;">Ukrainians raise flag in Pokrovsk to show BBC the fight goes on in city claimed by Russia <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7kc3opbkn2l" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-09 19:02:42)</span><span style="padding-right:50px;">U.S. uncovers scheme to reroute Nvidia GPUs worth $160 million to China despite export bans <a href="https://bsky.app/profile/cnbc.com/post/3m7kc32wgoy2i" target="_blank">cnbc.com</a> (2025-12-09 19:02:22)</span>
+<span style="padding-right:50px;">【地震】SNSで生成AIを使った偽動画や根拠ない情報 投稿相次ぐ https://news.web.nhk/newsweb/na/na-k10014999191000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7kdhezff52n" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 19:27:07)</span><span style="padding-right:50px;">NHK次期会長に井上樹彦副会長 “使命変わらない” https://news.web.nhk/newsweb/na/na-k10014999171000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7kdhamvtx2t" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 19:27:02)</span><span style="padding-right:50px;">India home prices to rise at steady 6% pace but luxury sector may lose steam - Reuters poll reut.rs/44OH8v3 <a href="https://bsky.app/profile/reuters.com/post/3m7kddpypsb2e" target="_blank">reuters.com</a> (2025-12-09 19:25:06)</span><span style="padding-right:50px;">A controversy is swirling at a Texas university. The trigger? A flowchart, part of a national effort by conservatives, that sets out a chain of approvals for course material. <a href="https://bsky.app/profile/wsj.com/post/3m7kddhlow22i" target="_blank">wsj.com</a> (2025-12-09 19:24:57)</span><span style="padding-right:50px;">インドネシア “ジャカルタでビル火災20人死亡” 地元メディア https://news.web.nhk/newsweb/na/na-k10014999181000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7kdbznkis2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 19:24:08)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.32 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.92 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.13 (🔺0.21 : 2025-12-09)</span>
+<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.32 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.92 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.17 (🔺0.25 : 2025-12-09)</span>
   </div>
 </div>
 
@@ -32,106 +32,108 @@
 
 ## News Headlines
 
-1. ASMLの顧客に中国軍との関連が見つかる
-2. NIHの資金が遅れたため、ハーバードの研究者が実験を続けられるかどうか不明
-3. 青森・岩手・北海道で地震が発生　50人以上けが
-4. ウクライナでロシア占領されたポクロフスクでウクライナの旗を掲げる
-5. 米国でNvidiaのGPUを中国に輸出する計画が見つかる
-6. スペイン産豚肉の輸入を農水省が停止
+１.　インドネシアでビル火災　20人死亡
+２.　地震　青森・岩手・北海道　50人けが　各地の被害状況は
+３.　農水省、スペイン産豚肉輸入を停止　外食や加工品に影響必至
+４.　ライザップがお詫び　湘南ベルマーレと“異例対立”…チームの資金6億円がライザップに…？
+５.　群馬の妙義山の山林火災　鎮圧に至らず　ヘリでの消火活動は中断
+６.　初の「後発地震注意情報」発表　避難経路や備蓄品の確認などを
 
 ----
 
-@reuters.com
+@nhknewsunofficial.bsky.social
 
-ASML customers include at least one with Chinese military links, Nieuwsuur reports reut.rs/4iHxyjg
+【地震】SNSで生成AIを使った偽動画や根拠ない情報 投稿相次ぐ
+https://news.web.nhk/newsweb/na/na-k10014999191000
 
-[2025-12-09 19:05:09](https://bsky.app/profile/reuters.com/post/3m7kc7zvkkn27)
-
----
-
-@npr.org
-
-Amid NIH funding delays, reversals and uncertainty, a scientist at Harvard who studies breast cancer has lost one-third of her lab employees and wonders if she can continue her research experiments. n.pr/4a4N3zD
-
-[2025-12-09 19:04:21](https://bsky.app/profile/npr.org/post/3m7kc6m54hy2i)
+[2025-12-09 19:27:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7kdhezff52n)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-【地震】青森 岩手 北海道 50人けが 各地の被害状況は
-https://news.web.nhk/newsweb/na/na-k10014998551000
+NHK次期会長に井上樹彦副会長 “使命変わらない”
+https://news.web.nhk/newsweb/na/na-k10014999171000
 
-[2025-12-09 19:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7kc4dlqcq2g)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Ukrainians raise flag in Pokrovsk to show BBC the fight goes on in city claimed by Russia
-
-[2025-12-09 19:02:42](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7kc3opbkn2l)
+[2025-12-09 19:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7kdhamvtx2t)
 
 ---
 
-@cnbc.com
+@reuters.com
 
-U.S. uncovers scheme to reroute Nvidia GPUs worth $160 million to China despite export bans
+India home prices to rise at steady 6% pace but luxury sector may lose steam - Reuters poll reut.rs/44OH8v3
 
-[2025-12-09 19:02:22](https://bsky.app/profile/cnbc.com/post/3m7kc32wgoy2i)
-
----
-
-@nikkei.com
-
-農水省、スペイン産豚肉輸入を停止　外食や加工品に影響必至
-www.nikkei.com/article/DGXZQO...
- 
-アフリカ豚熱（ASF）の発生を受けた措置で、生ハムなどの加工品も対象です。
- 
-スペイン産は豚肉輸入量全体の18%を占め、バラ肉を中心に業務用での需要が大。ベーコンなどの原料や外食・中食など幅広く使われます。
- 
-国内商社は代替輸入先の確保に奔走中。北米のほか、肉質が近いフランスやデンマークも候補ですが「全量はとてもカバーしきれない」との声が多く上がります。
-
-[2025-12-09 19:01:58](https://bsky.app/profile/nikkei.com/post/3m7kc2dfyw62e)
-
----
-
-@sokuho.news
-
-🛎️文春より【スクープ】です。
-
-《ライザップがお詫び＆釈明》湘南ベルマーレと“異例対立”…電撃解任の眞壁潔前会長が激白した「チームの資金6億円がライザップに…」
-(2025-12-09 19:00) #ニュース
-
-[2025-12-09 19:01:21](https://bsky.app/profile/sokuho.news/post/3m7kbza64d62m)
-
----
-
-@sokuho.news
-
-🛎️文春より【スクープ】です。
-
-《湘南ベルマーレ社長がお詫び》「チームの資金6億円がライザップに…」電撃解任の眞壁潔前会長が激白 親会社ライザップと“異例対立”の全真相
-(2025-12-09 19:00) #ニュース
-
-[2025-12-09 19:01:05](https://bsky.app/profile/sokuho.news/post/3m7kbyrf3vc2p)
-
----
-
-@cnn.com
-
-"President Donald Trump’s lawyer argued on Monday for far-reaching power that would go well beyond his ability to fire officials at the Federal Trade Commission and other independent agencies," Joan Biskupic writes.
-
-[2025-12-09 19:01:01](https://bsky.app/profile/cnn.com/post/3m7kbynw73i2j)
+[2025-12-09 19:25:06](https://bsky.app/profile/reuters.com/post/3m7kddpypsb2e)
 
 ---
 
 @wsj.com
 
-Paramount made a hostile bid for Warner after a Netflix deal. What happens next?
+A controversy is swirling at a Texas university. The trigger? A flowchart, part of a national effort by conservatives, that sets out a chain of approvals for course material.
 
-[2025-12-09 19:00:42](https://bsky.app/profile/wsj.com/post/3m7kby3wgag2j)
+[2025-12-09 19:24:57](https://bsky.app/profile/wsj.com/post/3m7kddhlow22i)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+インドネシア “ジャカルタでビル火災20人死亡” 地元メディア
+https://news.web.nhk/newsweb/na/na-k10014999181000
+
+[2025-12-09 19:24:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7kdbznkis2u)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+「昨夜の地震で被害は？」地震に便乗した詐欺電話か 注意を
+https://news.web.nhk/newsweb/na/na-k10014999151000
+
+[2025-12-09 19:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7kdbuztws2u)
+
+---
+
+@sokuho.news
+
+🔔防災科研より【強震モニタ】動画です。
+
+震源:千葉県東方沖, 深さ:10km
+マグニチュード:3.0, 最大震度:1
+📍https://www.google.com/maps?q=35.8,140.9&ll=35.8,140.9&z=7&t=h
+地震発生日時:2025-12-09 19:18頃
+(10倍速▶120s→12s) #地震
+
+[2025-12-09 19:21:23](https://bsky.app/profile/sokuho.news/post/3m7kd533wuj27)
+
+---
+
+@sokuho.news
+
+<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>インドネシア “ジャカルタでビル火災20人死亡” 地元メディア</strong><br><strong>(2025-12-09 19:20:27) #ニュース</strong><br><strong>https://news.web.nhk/newsweb/na/na-k10014999181000</strong>
+
+[2025-12-09 19:20:58](https://bsky.app/profile/sokuho.news/post/3m7kd4diadv24)
+
+---
+
+@sokuho.news
+
+🔔気象庁より【地震速報】です。
+
+19時18分頃、茨城県・千葉県で最大震度1の地震を観測しました。
+震源:千葉県東方沖, 深さ:10km, 規模:M3.0
+この地震による津波の心配はありません。
+(2025-12-09 19:20:56) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/09/2025-12-09-19-18-19.html?xlarge_image=1
+
+[2025-12-09 19:20:57](https://bsky.app/profile/sokuho.news/post/3m7kd4d3z4u2w)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+CCTV shows Matisse heist suspects with stolen artworks in Brazil
+
+[2025-12-09 19:20:38](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7kd3q43yu2w)
 
 ---
 
