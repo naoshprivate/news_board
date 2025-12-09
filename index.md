@@ -1,9 +1,9 @@
-# [2025-12-09 10:30 updated](2025_12_09.md)
+# [2025-12-09 10:50 updated](2025_12_09.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】歩行中の女性が車にはねられる 車は現場から立ち去る 警察がひき逃げ事件として捜査 (2025-12-09 10:26:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7jfftb4r222" target="_blank">sokuho.news</a> (2025-12-09 10:29:25)</span><span style="padding-right:50px;">ICEBlock developer sues U.S. government after DOJ demanded Apple remove app from store <a href="https://bsky.app/profile/cnbc.com/post/3m7jf5b5ro22y" target="_blank">cnbc.com</a> (2025-12-09 10:24:37)</span><span style="padding-right:50px;">Trump ban on wind power projects overturned by federal judge <a href="https://bsky.app/profile/cnbc.com/post/3m7jezfrhgi2j" target="_blank">cnbc.com</a> (2025-12-09 10:22:28)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】高市首相「旧姓の使用法制化は効果大きい」政府与党で検討加速へ 社会生活での不便を減らせると強調 (2025-12-09 10:21) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7jey4x7t62p" target="_blank">sokuho.news</a> (2025-12-09 10:21:45)</span><span style="padding-right:50px;">ゼレンスキー大統領 “修正和平案は20項目 領土割譲合意せず” https://news.web.nhk/newsweb/na/na-k10014998541000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jewwf6vf2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 10:21:02)</span>
+<span style="padding-right:50px;">政府 来年度予算編成基本方針を閣議決定「責任ある積極財政」 https://news.web.nhk/newsweb/na/na-k10014998591000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jgh74rli2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 10:48:03)</span><span style="padding-right:50px;">衆院予算委 11日に集中審議と締めくくり質疑で大筋合意 https://news.web.nhk/newsweb/na/na-k10014998571000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jgbtyyre2g" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 10:45:03)</span><span style="padding-right:50px;">【地震】東北新幹線 盛岡～新青森 午後3時に運転再開の見込み https://news.web.nhk/newsweb/na/na-k10014998641000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jg4hgdvr2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 10:42:02)</span><span style="padding-right:50px;">Jimmy Kimmel extends late night contract for a year  u.afp.com/S7Na <a href="https://bsky.app/profile/en.afp.com/post/3m7jfzaflnt2e" target="_blank">en.afp.com</a> (2025-12-09 10:40:16)</span><span style="padding-right:50px;">Democratic lawmakers warn of 'cascading consequences' of underfunding defense lawyers reut.rs/48osKMo <a href="https://bsky.app/profile/reuters.com/post/3m7jfz7c6vg27" target="_blank">reuters.com</a> (2025-12-09 10:40:15)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50524.71 (🔻152.65 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.31 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.92 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3059.00 (🔻17.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 155.87 (🔻0.05 : 2025-12-09)</span>
+<span style="padding-right:50px;">NIKKEI: 50520.16 (🔻157.20 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.31 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.92 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3060.00 (🔻16.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 155.84 (🔻0.08 : 2025-12-09)</span>
   </div>
 </div>
 
@@ -32,100 +32,103 @@
 
 ## News Headlines
 
-1.  中国軍機による自衛隊機へのレーダー照射問題で反論
-2.  青森県沖で地震　30人けが　住宅火災も
-3.  高市首相「旧姓の使用法制化は効果大きい」
-4.  ブルース・ブレイクマン共和党議員がニューヨーク州知事選に出馬へ
-5.  Netflix、パラマウントと争奪戦　トランプ氏介入が波乱要因
-6.  青森県沖の地震でJR北海道の列車運休が拡大
+1. 政府　来年度予算編成基本方針を閣議決定　「責任ある積極財政」
+2. 衆院予算委　11日に集中審議と締めくくり質疑で大筋合意
+3. 東北新幹線　盛岡～新青森　午後3時に運転再開の見込み
+4. ワーナー・パラマウント買収　Netflixが11兆円で買収する計画
+5. 「出国税」　来年度の税制改正で一律3000円に引き上げ検討
+6. 小泉大臣　中国に反論　中国軍機のレーダー照射問題
 
 ----
 
-@sokuho.news
+@nhknewsunofficial.bsky.social
 
-🛎️JNNより【速報】です。
+政府 来年度予算編成基本方針を閣議決定「責任ある積極財政」
+https://news.web.nhk/newsweb/na/na-k10014998591000
 
-【速報】歩行中の女性が車にはねられる 車は現場から立ち去る 警察がひき逃げ事件として捜査
-(2025-12-09 10:26:00) #ニュース
-
-[2025-12-09 10:29:25](https://bsky.app/profile/sokuho.news/post/3m7jfftb4r222)
-
----
-
-@cnbc.com
-
-ICEBlock developer sues U.S. government after DOJ demanded Apple remove app from store
-
-[2025-12-09 10:24:37](https://bsky.app/profile/cnbc.com/post/3m7jf5b5ro22y)
-
----
-
-@cnbc.com
-
-Trump ban on wind power projects overturned by federal judge
-
-[2025-12-09 10:22:28](https://bsky.app/profile/cnbc.com/post/3m7jezfrhgi2j)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】高市首相「旧姓の使用法制化は効果大きい」政府与党で検討加速へ 社会生活での不便を減らせると強調
-(2025-12-09 10:21) #ニュース
-
-[2025-12-09 10:21:45](https://bsky.app/profile/sokuho.news/post/3m7jey4x7t62p)
+[2025-12-09 10:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jgh74rli2u)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-ゼレンスキー大統領 “修正和平案は20項目 領土割譲合意せず”
-https://news.web.nhk/newsweb/na/na-k10014998541000
+衆院予算委 11日に集中審議と締めくくり質疑で大筋合意
+https://news.web.nhk/newsweb/na/na-k10014998571000
 
-[2025-12-09 10:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jewwf6vf2j)
+[2025-12-09 10:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jgbtyyre2g)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【地震】東北新幹線 盛岡～新青森 午後3時に運転再開の見込み
+https://news.web.nhk/newsweb/na/na-k10014998641000
+
+[2025-12-09 10:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jg4hgdvr2k)
+
+---
+
+@en.afp.com
+
+Jimmy Kimmel extends late night contract for a year
+
+u.afp.com/S7Na
+
+[2025-12-09 10:40:16](https://bsky.app/profile/en.afp.com/post/3m7jfzaflnt2e)
 
 ---
 
 @reuters.com
 
-ECB criticises Italy's revised proposal on gold reserves, worries about central bank independence reut.rs/4rJF9Cd
+Democratic lawmakers warn of 'cascading consequences' of underfunding defense lawyers reut.rs/48osKMo
 
-[2025-12-09 10:20:14](https://bsky.app/profile/reuters.com/post/3m7jevfz7cv27)
+[2025-12-09 10:40:15](https://bsky.app/profile/reuters.com/post/3m7jfz7c6vg27)
 
 ---
 
 @nytimes.com
 
-Bruce Blakeman, the Republican Nassau County executive and an ally of President Trump, is taking steps to kick off a run for governor of New York in the coming days, according to three people familiar with his plans.
+"Wicked: For Good" picked up Golden Globe nominations for its original songs and the stars Cynthia Erivo and Ariana Grande, but failed to secure a spot for best comedy or musical. "The Globes just didn't seem to be in the musical spirit the year," Kyle Buchanan writes in "The Projectionist."
 
-[2025-12-09 10:20:02](https://bsky.app/profile/nytimes.com/post/3m7jev2lub224)
-
----
-
-@financialtimes.com
-
-US judge strikes down Trump’s ban on new wind permits on.ft.com/4pnpxCH
-
-[2025-12-09 10:19:21](https://bsky.app/profile/financialtimes.com/post/3m7jetszuhg26)
+[2025-12-09 10:40:02](https://bsky.app/profile/nytimes.com/post/3m7jfysj6nc2e)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@sokuho.news
 
-“出国税” 来年度の税制改正で一律3000円に引き上げ検討
-https://news.web.nhk/newsweb/na/na-k10014998561000
+🛎️JNNより【速報】です。
 
-[2025-12-09 10:12:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jegso5su2p)
+【速報】歩行中の女性が車にはねられる 車は現場から立ち去る 警察がひき逃げ事件として捜査 大分・別府市
+(2025-12-09 10:26:00) #ニュース
+
+[2025-12-09 10:39:27](https://bsky.app/profile/sokuho.news/post/3m7jfxr5vgh2w)
 
 ---
 
-@reuters.com
+@cbsnews.com
 
-Browns tout 'development,' will stick with QB Shedeur Sanders reut.rs/4a4IWUk
+Their retirement community offered lifelong care and entrance-fee refunds down the line. Then it went bankrupt.
 
-[2025-12-09 10:10:11](https://bsky.app/profile/reuters.com/post/3m7jedgomlx2k)
+[2025-12-09 10:35:00](https://bsky.app/profile/cbsnews.com/post/3m7jfptagps2y)
+
+---
+
+@sokuho.news
+
+🔔ANNより【速報】です。
+
+【速報】青森東方沖地震で一時休業の店舗も 安全点検や商品落下などで
+(10:32) #地震
+
+[2025-12-09 10:33:18](https://bsky.app/profile/sokuho.news/post/3m7jfmrchce24)
+
+---
+
+@cnbc.com
+
+CNBC Daily Open: Investors are loving the Paramount-Warner Bros-Netflix drama
+
+[2025-12-09 10:32:54](https://bsky.app/profile/cnbc.com/post/3m7jfm2hawv2y)
 
 ---
 
