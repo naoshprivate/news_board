@@ -1,9 +1,9 @@
-# [2025-12-09 12:30 updated](2025_12_09.md)
+# [2025-12-09 12:50 updated](2025_12_09.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">【専門家見解】青森県東方沖の地震 青森で震度6強 https://news.web.nhk/newsweb/na/na-k10014998091000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jlstmhis2p" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 12:24:02)</span><span style="padding-right:50px;">群馬 妙義山の山林火災 延焼続く 自衛隊ヘリが消火活動 https://news.web.nhk/newsweb/na/na-k10014998431000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jlni4b5q2t" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 12:21:02)</span><span style="padding-right:50px;">US bond investors bet on mild easing cycle, stick to middle of curve reut.rs/44fbOpd <a href="https://bsky.app/profile/reuters.com/post/3m7jlluqvnt2n" target="_blank">reuters.com</a> (2025-12-09 12:20:10)</span><span style="padding-right:50px;">Apps like OpenAI’s Sora are fooling millions of users into thinking A.I. videos are real, even when they include warning labels. <a href="https://bsky.app/profile/nytimes.com/post/3m7jllrbny42d" target="_blank">nytimes.com</a> (2025-12-09 12:20:06)</span><span style="padding-right:50px;">衆院予算委 補正予算案を審議 高市首相“日中関係適切に対応” https://news.web.nhk/newsweb/na/na-k10014998661000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jli4o5kl24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 12:18:02)</span>
+<span style="padding-right:50px;">MarcyPen Capital Partners is working with Hanwha Asset Management, the financial arm of one of South Korea’s biggest conglomerates, to launch a series of Asian investment funds on.ft.com/4psUeqh <a href="https://bsky.app/profile/financialtimes.com/post/3m7jmyn6hb32j" target="_blank">financialtimes.com</a> (2025-12-09 12:45:12)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】北海道と東北4県の避難指示は解除 3道県で35人けが（9日正午時点）総務省 (12:39) #ニュース  🟪避難情報 🔗https://crisis.yahoo.co.jp/evacuation/01/ <a href="https://bsky.app/profile/sokuho.news/post/3m7jmrlwfcn2p" target="_blank">sokuho.news</a> (2025-12-09 12:41:16)</span><span style="padding-right:50px;">PepsiCo announces review of N. America supply chain amid talks with Elliott Management reut.rs/4s04cBc <a href="https://bsky.app/profile/reuters.com/post/3m7jmprrksi2k" target="_blank">reuters.com</a> (2025-12-09 12:40:15)</span><span style="padding-right:50px;">Breaking News: Honduras has issued an international arrest warrant for its former president who was recently pardoned by President Trump. <a href="https://bsky.app/profile/nytimes.com/post/3m7jmphwydm24" target="_blank">nytimes.com</a> (2025-12-09 12:40:05)</span><span style="padding-right:50px;">国支援のリスキリング、就職率どう上げる？　「全員内定」民間校にヒント www.nikkei.com/article/DGXZQO...  就職先はAWSジャパンにアクセンチュア、日本IBM。  入学試験の合格率は6%と狭き門、課題ができないと退学──。  そんな都内のITエンジニア養成校を訪ねました。 <a href="https://bsky.app/profile/nikkei.com/post/3m7jmawkvcj2m" target="_blank">nikkei.com</a> (2025-12-09 12:31:57)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50688.20 (🔺10.84 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.32 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.91 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3068.00 (🔻8.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 155.86 (🔻0.06 : 2025-12-09)</span>
+<span style="padding-right:50px;">NIKKEI: 50748.80 (🔺71.44 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.32 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.91 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3068.00 (🔻8.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 155.84 (🔻0.08 : 2025-12-09)</span>
   </div>
 </div>
 
@@ -32,14 +32,100 @@
 
 ## News Headlines
 
-1. 青森県東方沖の地震　青森で震度6強
-2. 妙義山の山林火災　延焼続く　自衛隊ヘリが消火活動
-3. USが中国にH200チップの輸出制限を解けると発表
-4. 軽乗用車がカーブミラーに衝突　運転手が意識不明の重体
-5. 「妊娠・出産」に関するタイトル戦規定　福間香奈女流六冠が将棋連盟に要望書
-6. 市内電車　南富山駅近くで線路トラブルか　本数を減らして運行
+1. 韓国最大企業グループのハンブラーグループがアジア投資ファンドを立ち上げ
+2. 北海道と東北4県の避難指示解除、35人けが
+3. アメリカのペプシコが北米の物流を再検討
+4. ホンジュラスが前大統領に国際逮捕状発行
+5. 米国で「国会予算委員会」が補正予算案を審議
+6. 米大統領トランプが中国への農業支援を発表
 
 ----
+
+@financialtimes.com
+
+MarcyPen Capital Partners is working with Hanwha Asset Management, the financial arm of one of South Korea’s biggest conglomerates, to launch a series of Asian investment funds on.ft.com/4psUeqh
+
+[2025-12-09 12:45:12](https://bsky.app/profile/financialtimes.com/post/3m7jmyn6hb32j)
+
+---
+
+@sokuho.news
+
+🔔ANNより【速報】です。
+
+【速報】北海道と東北4県の避難指示は解除 3道県で35人けが（9日正午時点）総務省
+(12:39) #ニュース
+
+🟪避難情報
+🔗https://crisis.yahoo.co.jp/evacuation/01/
+
+[2025-12-09 12:41:16](https://bsky.app/profile/sokuho.news/post/3m7jmrlwfcn2p)
+
+---
+
+@reuters.com
+
+PepsiCo announces review of N. America supply chain amid talks with Elliott Management reut.rs/4s04cBc
+
+[2025-12-09 12:40:15](https://bsky.app/profile/reuters.com/post/3m7jmprrksi2k)
+
+---
+
+@nytimes.com
+
+<strong><span style="color: red;">Breaking News</span>: Honduras has issued an international arrest warrant for its former president who was recently pardoned by President Trump.</strong>
+
+[2025-12-09 12:40:05](https://bsky.app/profile/nytimes.com/post/3m7jmphwydm24)
+
+---
+
+@nikkei.com
+
+国支援のリスキリング、就職率どう上げる？　「全員内定」民間校にヒント
+www.nikkei.com/article/DGXZQO...
+
+就職先はAWSジャパンにアクセンチュア、日本IBM。
+
+入学試験の合格率は6%と狭き門、課題ができないと退学──。
+
+そんな都内のITエンジニア養成校を訪ねました。
+
+[2025-12-09 12:31:57](https://bsky.app/profile/nikkei.com/post/3m7jmawkvcj2m)
+
+---
+
+@reuters.com
+
+Trump says money should go to people, not health insurers reut.rs/3KF4V9S
+
+[2025-12-09 12:30:20](https://bsky.app/profile/reuters.com/post/3m7jm624ub226)
+
+---
+
+@aljazeera.com
+
+Zelenskyy says European allies ready to share their response to Trump's peace plan with US on Tuesday.
+
+[2025-12-09 12:30:19](https://bsky.app/profile/aljazeera.com/post/3m7jm5zr4652a)
+
+---
+
+@cnn.com
+
+The New Orleans Archdiocese will pay at least $230 million to hundreds of victims of clergy sexual abuse under a settlement approved by a federal judge that follows years of negotiations. 
+
+[2025-12-09 12:30:04](https://bsky.app/profile/cnn.com/post/3m7jm5l3wv72r)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+震度6強 気象庁が初の「後発地震注意情報」 備えの確認を
+https://news.web.nhk/newsweb/na/na-k10014998611000
+
+[2025-12-09 12:30:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jm5krafy26)
+
+---
 
 @nhknewsunofficial.bsky.social
 
@@ -47,89 +133,6 @@
 https://news.web.nhk/newsweb/na/na-k10014998091000
 
 [2025-12-09 12:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jlstmhis2p)
-
----
-
-@nhknewsunofficial.bsky.social
-
-群馬 妙義山の山林火災 延焼続く 自衛隊ヘリが消火活動
-https://news.web.nhk/newsweb/na/na-k10014998431000
-
-[2025-12-09 12:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jlni4b5q2t)
-
----
-
-@reuters.com
-
-US bond investors bet on mild easing cycle, stick to middle of curve reut.rs/44fbOpd
-
-[2025-12-09 12:20:10](https://bsky.app/profile/reuters.com/post/3m7jlluqvnt2n)
-
----
-
-@nytimes.com
-
-Apps like OpenAI’s Sora are fooling millions of users into thinking A.I. videos are real, even when they include warning labels.
-
-[2025-12-09 12:20:06](https://bsky.app/profile/nytimes.com/post/3m7jllrbny42d)
-
----
-
-@nhknewsunofficial.bsky.social
-
-衆院予算委 補正予算案を審議 高市首相“日中関係適切に対応”
-https://news.web.nhk/newsweb/na/na-k10014998661000
-
-[2025-12-09 12:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jli4o5kl24)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】軽乗用車がカーブミラーに衝突 運転手が意識不明の重体 【岡山】
-(2025-12-09 12:12:00) #ニュース
-
-[2025-12-09 12:15:55](https://bsky.app/profile/sokuho.news/post/3m7jleba2vg27)
-
----
-
-@sokuho.news
-
-🛎️JNNより【独自】です。
-
-【独自】「妊娠・出産」に関するタイトル戦規定めぐり 福間香奈女流六冠が将棋連盟に要望書 あす（10日）会見へ
-(2025-12-09 12:07:25) #ニュース
-
-[2025-12-09 12:15:32](https://bsky.app/profile/sokuho.news/post/3m7jldl5arq24)
-
----
-
-@cnbc.com
-
-Tata, Intel deepen India semiconductor push with pact on chip supply chain and AI PCs
-
-[2025-12-09 12:12:16](https://bsky.app/profile/cnbc.com/post/3m7jl5qdkrw2r)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】市内電車 南富山駅近くで線路トラブルか 本数を減らして運行
-(2025-12-09 12:11) #ニュース
-
-[2025-12-09 12:11:17](https://bsky.app/profile/sokuho.news/post/3m7jl3yb2lg2l)
-
----
-
-@reuters.com
-
-Jimmy Kimmel extends ABC contract through May 2027, source says reut.rs/4pS120f
-
-[2025-12-09 12:10:07](https://bsky.app/profile/reuters.com/post/3m7jkzw2dzg26)
 
 ---
 
