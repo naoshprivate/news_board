@@ -1,9 +1,9 @@
-# [2025-12-09 13:30 updated](2025_12_09.md)
+# [2025-12-09 13:50 updated](2025_12_09.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">【専門家は】後発地震 “適切に避難できるよう備えを” https://news.web.nhk/newsweb/na/na-k10014998091000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7joyrqwcr26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 13:21:02)</span><span style="padding-right:50px;">US startup seeks to reclaim Twitter trademarks 'abandoned' by Musk’s X reut.rs/4azcNo0 <a href="https://bsky.app/profile/reuters.com/post/3m7jox5dof42w" target="_blank">reuters.com</a> (2025-12-09 13:20:09)</span><span style="padding-right:50px;">Instagram and Facebook users in the European Union will soon be able to share less personal data with Meta, the social media giant that owns both services, in exchange for receiving ads that are less personalized. <a href="https://bsky.app/profile/nytimes.com/post/3m7jowzxigs26" target="_blank">nytimes.com</a> (2025-12-09 13:20:06)</span><span style="padding-right:50px;">千葉の建設業者を告発 架空の外注費計上など 約9800万円脱税か https://news.web.nhk/newsweb/na/na-k10014998761000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jotflvu72e" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 13:18:02)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】ファジアーノ岡山の佐藤龍之介選手がJリーグ「ベストヤングプレーヤー賞」「優秀選手賞」受賞 (2025-12-09 12:50) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7joqcqsfa2d" target="_blank">sokuho.news</a> (2025-12-09 13:16:20)</span>
+<span style="padding-right:50px;">The music streaming platform’s annual recap is such a success that other companies have followed suit, including language learning app Duolingo, exercise-tracking app Strava and YouTube, writes Emma Jacobs on.ft.com/4oLpkbo <a href="https://bsky.app/profile/financialtimes.com/post/3m7jqkr66qy23" target="_blank">financialtimes.com</a> (2025-12-09 13:49:02)</span><span style="padding-right:50px;">LIVE: Space crew returns from ISS  A Russian Soyuz MS-27 capsule carrying NASA astronaut Jonny Kim, Roscosmos cosmonauts Sergey Ryzhikov and Alexey Zubritskiy expected to land outside Zhezkazgan, Kazakhstan.  www.youtube.com/watch?v=OXY3... <a href="https://bsky.app/profile/reuters.com/post/3m7jqdehsos2y" target="_blank">reuters.com</a> (2025-12-09 13:44:53)</span><span style="padding-right:50px;">'Big Short' investor Burry says he owns Fannie, Freddie and sees upside from potential IPOs reut.rs/4rGTkrP <a href="https://bsky.app/profile/reuters.com/post/3m7jq2zyfaw2a" target="_blank">reuters.com</a> (2025-12-09 13:40:14)</span><span style="padding-right:50px;">In @nytopinion.nytimes.com   “Peering into a large index fund is like taking a tour of a hot-dog factory,” Jonathan Hillman writes. “Once you see everything that goes into the product — the good, the bad, the bizarre — it’s hard to unsee.” <a href="https://bsky.app/profile/nytimes.com/post/3m7jq2rct642g" target="_blank">nytimes.com</a> (2025-12-09 13:40:05)</span><span style="padding-right:50px;">定数削減法案 自民 鈴木幹事長“早期に審議入り会期内成立を” https://news.web.nhk/newsweb/na/na-k10014998791000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jptm7ezw2r" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 13:36:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50686.57 (🔺9.21 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.32 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.91 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3067.00 (🔻9.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 155.90 (🔻0.02 : 2025-12-09)</span>
+<span style="padding-right:50px;">NIKKEI: 50642.07 (🔻35.29 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.32 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.91 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 155.98 (🔺0.06 : 2025-12-09)</span>
   </div>
 </div>
 
@@ -32,108 +32,106 @@
 
 ## News Headlines
 
-１. イスラエル警察、国連のUNRWA本部に強制立ち入り
-２. 千葉の建設業者を告発　架空の外注費計上など　約9800万円脱税か
-３. G7財務相会議　重要鉱物で共同声明　中国念頭に懸念示す
-４. 北海道と東北4県の避難指示は解除　3道県で35人けが
-５. PepsiCoがN.アメリカのサプライチェーンを再評価　エリオット・マネジメントとの交渉
-６. 前大統領のトランプ氏がメキシコに5％の関税を増税すると言っている
+1.  デュアルスコープが年間まとめを成功させたため、他の企業もフォローしている
+2.  ロシア宇宙船がISSに戻りました
+3.  「ビッグショート」投資家は、ファニーフレディーマイクロインベストメントを所有し、IPOによる利益を期待しています
+4.  青森県で6強の地震、SNSで誤報に注意
+5.  メキシコの元大統領に逮捕状が発行されました
+6.  G7財務相会議で共同声明を発表、中国を念頭に置きます
 
 ----
 
-@nhknewsunofficial.bsky.social
+@financialtimes.com
 
-【専門家は】後発地震 “適切に避難できるよう備えを”
-https://news.web.nhk/newsweb/na/na-k10014998091000
+The music streaming platform’s annual recap is such a success that other companies have followed suit, including language learning app Duolingo, exercise-tracking app Strava and YouTube, writes Emma Jacobs on.ft.com/4oLpkbo
 
-[2025-12-09 13:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7joyrqwcr26)
+[2025-12-09 13:49:02](https://bsky.app/profile/financialtimes.com/post/3m7jqkr66qy23)
 
 ---
 
 @reuters.com
 
-US startup seeks to reclaim Twitter trademarks 'abandoned' by Musk’s X reut.rs/4azcNo0
+LIVE: Space crew returns from ISS
 
-[2025-12-09 13:20:09](https://bsky.app/profile/reuters.com/post/3m7jox5dof42w)
+A Russian Soyuz MS-27 capsule carrying NASA astronaut Jonny Kim, Roscosmos cosmonauts Sergey Ryzhikov and Alexey Zubritskiy expected to land outside Zhezkazgan, Kazakhstan.
+
+www.youtube.com/watch?v=OXY3...
+
+[2025-12-09 13:44:53](https://bsky.app/profile/reuters.com/post/3m7jqdehsos2y)
+
+---
+
+@reuters.com
+
+'Big Short' investor Burry says he owns Fannie, Freddie and sees upside from potential IPOs reut.rs/4rGTkrP
+
+[2025-12-09 13:40:14](https://bsky.app/profile/reuters.com/post/3m7jq2zyfaw2a)
 
 ---
 
 @nytimes.com
 
-Instagram and Facebook users in the European Union will soon be able to share less personal data with Meta, the social media giant that owns both services, in exchange for receiving ads that are less personalized.
+In @nytopinion.nytimes.com 
 
-[2025-12-09 13:20:06](https://bsky.app/profile/nytimes.com/post/3m7jowzxigs26)
+“Peering into a large index fund is like taking a tour of a hot-dog factory,” Jonathan Hillman writes. “Once you see everything that goes into the product — the good, the bad, the bizarre — it’s hard to unsee.”
+
+[2025-12-09 13:40:05](https://bsky.app/profile/nytimes.com/post/3m7jq2rct642g)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-千葉の建設業者を告発 架空の外注費計上など 約9800万円脱税か
-https://news.web.nhk/newsweb/na/na-k10014998761000
+定数削減法案 自民 鈴木幹事長“早期に審議入り会期内成立を”
+https://news.web.nhk/newsweb/na/na-k10014998791000
 
-[2025-12-09 13:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jotflvu72e)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】ファジアーノ岡山の佐藤龍之介選手がJリーグ「ベストヤングプレーヤー賞」「優秀選手賞」受賞
-(2025-12-09 12:50) #ニュース
-
-[2025-12-09 13:16:20](https://bsky.app/profile/sokuho.news/post/3m7joqcqsfa2d)
+[2025-12-09 13:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jptm7ezw2r)
 
 ---
 
 @nikkei.com
 
-イスラエル警察、国連のUNRWA本部に強制立ち入り
+青森で震度6強、SNS誤情報に注意　能登半島地震では虚偽の救助要請も
 www.nikkei.com/article/DGXZQO...
  
-イスラエル占領下の東エルサレムにある国連パレスチナ難民救済事業機関。ラザリニ事務局長は「イスラエルは、国連施設が不可侵だとする義務をあからさまに無視している」と非難しました。「国連の旗が降ろされ、イスラエル国旗が掲げられた」とも述べました。
+「周辺の方は絶対に近づかないでください」。12月9日未明、Xに火災の画像が投稿されました。
  
-#ニュース
+青森市内で発生したとする説明と、「地震速報」「津波警報」のハッシュタグ。投稿にあった地名は実在せず、画像は転用とみられます。
+ 
+過去の大災害ではデマで混乱も生じました。気象庁は今回、平常時より大きな地震の可能性が高まっているとしており、SNSの投稿内容に誤りがないか継続的な注意が必要です。
 
-[2025-12-09 13:15:57](https://bsky.app/profile/nikkei.com/post/3m7jopm4m2e2z)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】旧統一教会・田中富広会長が辞任 解散命令めぐる高裁の審理終結など区切りに
-(2025-12-09 13:15) #ニュース
-
-[2025-12-09 13:15:37](https://bsky.app/profile/sokuho.news/post/3m7joozuaf526)
-
----
-
-@en.afp.com
-
-Kenya deploys hundreds of additional police to Haiti, aiming to maintain pressure on the island's gangs
-
-u.afp.com/S7NC
-
-[2025-12-09 13:11:35](https://bsky.app/profile/en.afp.com/post/3m7johsrjuk2m)
+[2025-12-09 13:31:56](https://bsky.app/profile/nikkei.com/post/3m7jpm7hkr32g)
 
 ---
 
 @reuters.com
 
-From Breakingviews - Breakingviews - Storage buyouts save Aussie M&A blushes reut.rs/3YfS3dv
+Japan lifts tsunami warning after 7.5-magnitude earthquake reut.rs/4aJO3cC
 
-[2025-12-09 13:10:09](https://bsky.app/profile/reuters.com/post/3m7jofaalua2i)
+[2025-12-09 13:30:22](https://bsky.app/profile/reuters.com/post/3m7jpjfczjo2a)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@aljazeera.com
 
-G7財務相会議 重要鉱物で共同声明 中国念頭に懸念示す
-https://news.web.nhk/newsweb/na/na-k10014998741000
+The arrest warrant for the country's former president comes amid a closely-fought election.
 
-[2025-12-09 13:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jnymiqim2j)
+[2025-12-09 13:30:15](https://bsky.app/profile/aljazeera.com/post/3m7jpj6whjq2k)
+
+---
+
+@bloomberg.com
+
+Mexico’s Congress is set to vote this week on President Claudia Sheinbaum’s proposed tariffs on China, part of a broader plan to shield local producers and ease trade tensions with the US
+
+[2025-12-09 13:30:11](https://bsky.app/profile/bloomberg.com/post/3m7jpj2n3ug2s)
+
+---
+
+@cnn.com
+
+President Donald Trump said Mexico was treating America’s farmers unfairly, and he threatened the country with his favorite economic weapon: Higher tariffs. 
+
+[2025-12-09 13:30:02](https://bsky.app/profile/cnn.com/post/3m7jpiskv2i2y)
 
 ---
 
