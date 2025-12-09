@@ -1,9 +1,9 @@
-# [2025-12-10 07:50 updated](2025_12_10.md)
+# [2025-12-10 08:10 updated](2025_12_10.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">One person was killed and another was injured in a shooting at Kentucky State University, local officials said. <a href="https://bsky.app/profile/wsj.com/post/3m7lmrwdads2i" target="_blank">wsj.com</a> (2025-12-10 07:46:46)</span><span style="padding-right:50px;">高騰するスマホ端末代金、旧モデルや中古も選択肢 www.nikkei.com/article/DGXZQO...  「iPhone17シリーズ」は最も安いモデルでもApple直販価格で12万9800円、最高級モデルでは32万9800円もします。  1年後や2年後に端末を通信会社へ「返却」する前提の「残価設定型プラン」など、節約の選択肢を解説します。 <a href="https://bsky.app/profile/nikkei.com/post/3m7lmqanbqc2g" target="_blank">nikkei.com</a> (2025-12-10 07:45:50)</span><span style="padding-right:50px;">Ajax’s hopes of first Champions League points hampered by injury reut.rs/4oKmdAE <a href="https://bsky.app/profile/reuters.com/post/3m7lmpbbho22i" target="_blank">reuters.com</a> (2025-12-10 07:45:17)</span><span style="padding-right:50px;">Hinge founder leaves CEO role to launch AI-powered dating startup <a href="https://bsky.app/profile/cnbc.com/post/3m7lmngotf52b" target="_blank">cnbc.com</a> (2025-12-10 07:44:16)</span><span style="padding-right:50px;">Clemson DT Peter Woods declares for draft reut.rs/4iMeuR3 <a href="https://bsky.app/profile/reuters.com/post/3m7lmgfur5n27" target="_blank">reuters.com</a> (2025-12-10 07:40:20)</span>
+<span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:青森県東方沖, 深さ:50km マグニチュード:4.3, 最大震度:2 📍https://www.google.com/maps?q=41.3,142.4&ll=41.3,142.4&z=7&t=h 地震発生日時:2025-12-10 08:04頃 (10倍速▶180s→18s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m7lnyhrgb42z" target="_blank">sokuho.news</a> (2025-12-10 08:08:19)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  8時4分頃、青森県・岩手県・北海道で最大震度2の地震を観測しました。 震源:青森県東方沖, 深さ:50km, 規模:M4.3 この地震による津波の心配はありません。 (2025-12-10 08:07:43) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/10/2025-12-10-08-04-45.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3m7lnxfhlgn2b" target="_blank">sokuho.news</a> (2025-12-10 08:07:43)</span><span style="padding-right:50px;">JPMorgan stock tumbles after company warns on higher spending in 2026 <a href="https://bsky.app/profile/yahoofinance.com/post/3m7lnuin7n22u" target="_blank">yahoofinance.com</a> (2025-12-10 08:06:06)</span><span style="padding-right:50px;">🚨地震発生中❗❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像4🈡 (2025-12-10 08:05:38) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m7lnu3e55a25" target="_blank">sokuho.news</a> (2025-12-10 08:05:52)</span><span style="padding-right:50px;">🚨地震発生中❗❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像3 (2025-12-10 08:05:35) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m7lntrhu2a25" target="_blank">sokuho.news</a> (2025-12-10 08:05:42)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47560.29 (🔻164.23 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23576.49 (🔺71.87 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.97 (🔻0.59 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.86 (🔺0.94 : 2025-12-09)</span>
+<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47560.29 (🔻164.23 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23576.49 (🔺71.87 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.97 (🔻0.59 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.80 (🔻0.02 : 2025-12-09)</span>
   </div>
 </div>
 
@@ -32,107 +32,127 @@
 
 ## News Headlines
 
-1. ケンタッキー州立大学で銃撃事件　１人死亡、１人重傷
-2. Appleの新モデル「iPhone 17シリーズ」は最安値でも12万円9800円
-3. セネタール・ペーター・ウッズがNFLへのドラフト参加を表明
-4. ドナルド・トランプ氏がウクライナに和平案への回答を要求
-5. 地震:青森県東方沖で最大震度1の地震を観測
-6. 新型コロナワクチンと死亡事例の調査を開始したFDA
+1. 4.3のマグニチュードの地震が青森県東方沖に発生
+2. 防災科研より強震モニタが発表された
+3. JPMorganの株価が下落
+4. スイスの眼科巨人アルコンがスタアへの買収を発表
+5. 米国大学生の77％が「カリフォルニア州の大学への入学の可能性を考慮している」
+6. 東京都内の高級ホテルの平均料金が世界最高に
 
 ----
 
-@wsj.com
+@sokuho.news
 
-One person was killed and another was injured in a shooting at Kentucky State University, local officials said.
+🔔防災科研より【強震モニタ】動画です。
 
-[2025-12-10 07:46:46](https://bsky.app/profile/wsj.com/post/3m7lmrwdads2i)
+震源:青森県東方沖, 深さ:50km
+マグニチュード:4.3, 最大震度:2
+📍https://www.google.com/maps?q=41.3,142.4&ll=41.3,142.4&z=7&t=h
+地震発生日時:2025-12-10 08:04頃
+(10倍速▶180s→18s) #地震
+
+[2025-12-10 08:08:19](https://bsky.app/profile/sokuho.news/post/3m7lnyhrgb42z)
 
 ---
 
-@nikkei.com
+@sokuho.news
 
-高騰するスマホ端末代金、旧モデルや中古も選択肢
-www.nikkei.com/article/DGXZQO...
+🔔気象庁より【地震速報】です。
 
-「iPhone17シリーズ」は最も安いモデルでもApple直販価格で12万9800円、最高級モデルでは32万9800円もします。
+8時4分頃、青森県・岩手県・北海道で最大震度2の地震を観測しました。
+震源:青森県東方沖, 深さ:50km, 規模:M4.3
+この地震による津波の心配はありません。
+(2025-12-10 08:07:43) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/10/2025-12-10-08-04-45.html?xlarge_image=1
 
-1年後や2年後に端末を通信会社へ「返却」する前提の「残価設定型プラン」など、節約の選択肢を解説します。
+[2025-12-10 08:07:43](https://bsky.app/profile/sokuho.news/post/3m7lnxfhlgn2b)
 
-[2025-12-10 07:45:50](https://bsky.app/profile/nikkei.com/post/3m7lmqanbqc2g)
+---
+
+@yahoofinance.com
+
+JPMorgan stock tumbles after company warns on higher spending in 2026
+
+[2025-12-10 08:06:06](https://bsky.app/profile/yahoofinance.com/post/3m7lnuin7n22u)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗❗
+
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像4🈡
+(2025-12-10 08:05:38) #緊急地震速報
+
+[2025-12-10 08:05:52](https://bsky.app/profile/sokuho.news/post/3m7lnu3e55a25)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗❗
+
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像3
+(2025-12-10 08:05:35) #緊急地震速報
+
+[2025-12-10 08:05:42](https://bsky.app/profile/sokuho.news/post/3m7lntrhu2a25)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗❗
+
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像2
+(2025-12-10 08:05:15) #緊急地震速報
+
+[2025-12-10 08:05:22](https://bsky.app/profile/sokuho.news/post/3m7lnt5uhuv2a)
 
 ---
 
 @reuters.com
 
-Ajax’s hopes of first Champions League points hampered by injury reut.rs/4oKmdAE
+Swiss eyecare giant Alcon lifts bid for rival Staar reut.rs/3YouUWh
 
-[2025-12-10 07:45:17](https://bsky.app/profile/reuters.com/post/3m7lmpbbho22i)
+[2025-12-10 08:05:15](https://bsky.app/profile/reuters.com/post/3m7lnsxltvk2r)
+
+---
+
+@usatoday.com
+
+A new survey conducted in the wake of Charlie Kirk's assassination in September is providing new insight into how college students – and those at Utah Valley University, where the conservative activist was killed – view free speech on campus.
+
+Read more: bit.ly/3KMAsXs
+
+[2025-12-10 08:05:07](https://bsky.app/profile/usatoday.com/post/3m7lnsqepgf2l)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗❗
+
+⚠️揺れに警戒してください
+🔗http://www.kmoni.bosai.go.jp/
+
+🔶防災科研/強震モニタ/予測震度画像1
+(2025-12-10 08:04:55) #緊急地震速報
+
+[2025-12-10 08:05:02](https://bsky.app/profile/sokuho.news/post/3m7lnskzb3z2r)
 
 ---
 
 @cnbc.com
 
-Hinge founder leaves CEO role to launch AI-powered dating startup
+Nationally, a household earning about $210,000 or holding $1.8 million in net worth ranks among the wealthiest 10%. 
 
-[2025-12-10 07:44:16](https://bsky.app/profile/cnbc.com/post/3m7lmngotf52b)
-
----
-
-@reuters.com
-
-Clemson DT Peter Woods declares for draft reut.rs/4iMeuR3
-
-[2025-12-10 07:40:20](https://bsky.app/profile/reuters.com/post/3m7lmgfur5n27)
-
----
-
-@nbcnews.com
-
-The Senate will vote this week on a GOP bill to put money in health savings accounts, as well as a Democratic bill to extend the expiring ACA subsidies. Both are expected to fail.
-
-[2025-12-10 07:40:11](https://bsky.app/profile/nbcnews.com/post/3m7lmg5epek2x)
-
----
-
-@nhknewsunofficial.bsky.social
-
-中国軍とロシア軍の爆撃機共同飛行 四国沖の太平洋上空は初
-https://news.web.nhk/newsweb/na/na-k10014999561000
-
-[2025-12-10 07:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7lme5y5dw2j)
-
----
-
-@en.afp.com
-
-The Azzedine Alaïa Foundation and La Galerie Dior in Paris are presenting an exploration of couture heritage through the exhibition “Azzedine Alaïa and Christian Dior: Two Masters of Haute Couture.” It will run until May 3, 2026.
-
-[2025-12-10 07:35:48](https://bsky.app/profile/en.afp.com/post/3m7lm6c7iwt2u)
-
----
-
-@nikkei.com
-
-東京都内の高級ホテル料金、世界最高626ドル　客室の少なさ浮き彫り
-www.nikkei.com/article/DGXZQO...
-
-円安を追い風としたインバウンド需要で、ロンドンやニューヨークを上回りました。
-
-不動産データ分析大手のSTRの分類で最上位にあたる「ラグジュアリー」の平均客室単価です。
-
-中国政府の渡航自粛呼びかけによる影響は、現時点では限定的との声があります。
-
-#ニュース
-
-[2025-12-10 07:35:44](https://bsky.app/profile/nikkei.com/post/3m7lm66mp7z2k)
-
----
-
-@reuters.com
-
-South Korea signs deal to supply tanks, armored vehicles to Peru reut.rs/4a6OFJb
-
-[2025-12-10 07:35:11](https://bsky.app/profile/reuters.com/post/3m7lm574e352o)
+[2025-12-10 08:04:50](https://bsky.app/profile/cnbc.com/post/3m7lns7hmxx2p)
 
 ---
 
