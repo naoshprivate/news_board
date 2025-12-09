@@ -1,9 +1,9 @@
-# [2025-12-09 10:10 updated](2025_12_09.md)
+# [2025-12-09 10:30 updated](2025_12_09.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】小泉大臣が中国に反論「安全な距離を保っていた」中国軍機のレーダー照射問題 (10:07) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7jea24xpp27" target="_blank">sokuho.news</a> (2025-12-09 10:08:17)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】北海道宛ての荷物など配達に遅れ発生 青森県沖の地震の影響で (10:02) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m7jdx6ophh2p" target="_blank">sokuho.news</a> (2025-12-09 10:03:20)</span><span style="padding-right:50px;">Netflix、パラマウントとワーナー争奪戦　トランプ氏介入が波乱要因 www.nikkei.com/article/DGXZQO...   Netflixが11兆円で買収することで合意したワーナーに対し、パラマウントが16兆円で対抗買収提案を発表。   パラマウントが強気に出ているのは太いパイプを持つトランプ政権が後ろ盾となっているためです。   パラマウントを率いるデービッド・エリソン氏の父は米オラクル共同創業者、ラリー・エリソン氏。ラリー氏は共和党寄付者でトランプ氏と近く、トランプ氏はエリソン一家を「私の友人だ」と信頼しています。 <a href="https://bsky.app/profile/nikkei.com/post/3m7jduoswwn2e" target="_blank">nikkei.com</a> (2025-12-09 10:01:56)</span><span style="padding-right:50px;">Properties move fast in the city’s 48009 ZIP Code, which has a median list price of $1.43 million. on.wsj.com/48p2fGG <a href="https://bsky.app/profile/wsj.com/post/3m7jdtudsvk24" target="_blank">wsj.com</a> (2025-12-09 10:01:28)</span><span style="padding-right:50px;">A forgotten Art Nouveau masterpiece above Istanbul’s bustling street has been restored, offering locals and visitors a rare glimpse into the city’s cosmopolitan past. https://cnn.it/4pXafoi <a href="https://bsky.app/profile/cnn.com/post/3m7jdt3ecgt2n" target="_blank">cnn.com</a> (2025-12-09 10:01:02)</span>
+<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】歩行中の女性が車にはねられる 車は現場から立ち去る 警察がひき逃げ事件として捜査 (2025-12-09 10:26:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7jfftb4r222" target="_blank">sokuho.news</a> (2025-12-09 10:29:25)</span><span style="padding-right:50px;">ICEBlock developer sues U.S. government after DOJ demanded Apple remove app from store <a href="https://bsky.app/profile/cnbc.com/post/3m7jf5b5ro22y" target="_blank">cnbc.com</a> (2025-12-09 10:24:37)</span><span style="padding-right:50px;">Trump ban on wind power projects overturned by federal judge <a href="https://bsky.app/profile/cnbc.com/post/3m7jezfrhgi2j" target="_blank">cnbc.com</a> (2025-12-09 10:22:28)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】高市首相「旧姓の使用法制化は効果大きい」政府与党で検討加速へ 社会生活での不便を減らせると強調 (2025-12-09 10:21) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7jey4x7t62p" target="_blank">sokuho.news</a> (2025-12-09 10:21:45)</span><span style="padding-right:50px;">ゼレンスキー大統領 “修正和平案は20項目 領土割譲合意せず” https://news.web.nhk/newsweb/na/na-k10014998541000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jewwf6vf2j" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 10:21:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50521.40 (🔻155.96 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.31 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.92 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3054.00 (🔻22.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 155.94 (🔺0.02 : 2025-12-09)</span>
+<span style="padding-right:50px;">NIKKEI: 50524.71 (🔻152.65 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.31 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.92 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3059.00 (🔻17.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 155.87 (🔻0.05 : 2025-12-09)</span>
   </div>
 </div>
 
@@ -32,105 +32,100 @@
 
 ## News Headlines
 
-1. 小泉防衛大臣が中国に反論「安全な距離を保っていた」
-2. 青森県で震度6強、住宅火災1件　負傷者30人
-3. Netflixがワーナーに対し16兆円で対抗買収提案を受けた
-4. 小泉防衛大臣「航空情報や航行警報の事前通報の認識無し」
-5. JR阪和線の一部区間で運転見合わせ
-6. インドで女性に給付金　家事代行料の支払いを開始
+1.  中国軍機による自衛隊機へのレーダー照射問題で反論
+2.  青森県沖で地震　30人けが　住宅火災も
+3.  高市首相「旧姓の使用法制化は効果大きい」
+4.  ブルース・ブレイクマン共和党議員がニューヨーク州知事選に出馬へ
+5.  Netflix、パラマウントと争奪戦　トランプ氏介入が波乱要因
+6.  青森県沖の地震でJR北海道の列車運休が拡大
 
 ----
 
 @sokuho.news
 
-🔔ANNより【速報】です。
+🛎️JNNより【速報】です。
 
-【速報】小泉大臣が中国に反論「安全な距離を保っていた」中国軍機のレーダー照射問題
-(10:07) #ニュース
+【速報】歩行中の女性が車にはねられる 車は現場から立ち去る 警察がひき逃げ事件として捜査
+(2025-12-09 10:26:00) #ニュース
 
-[2025-12-09 10:08:17](https://bsky.app/profile/sokuho.news/post/3m7jea24xpp27)
-
----
-
-@sokuho.news
-
-🔔ANNより【速報】です。
-
-【速報】北海道宛ての荷物など配達に遅れ発生 青森県沖の地震の影響で
-(10:02) #地震
-
-[2025-12-09 10:03:20](https://bsky.app/profile/sokuho.news/post/3m7jdx6ophh2p)
-
----
-
-@nikkei.com
-
-Netflix、パラマウントとワーナー争奪戦　トランプ氏介入が波乱要因
-www.nikkei.com/article/DGXZQO...
- 
-Netflixが11兆円で買収することで合意したワーナーに対し、パラマウントが16兆円で対抗買収提案を発表。
- 
-パラマウントが強気に出ているのは太いパイプを持つトランプ政権が後ろ盾となっているためです。
- 
-パラマウントを率いるデービッド・エリソン氏の父は米オラクル共同創業者、ラリー・エリソン氏。ラリー氏は共和党寄付者でトランプ氏と近く、トランプ氏はエリソン一家を「私の友人だ」と信頼しています。
-
-[2025-12-09 10:01:56](https://bsky.app/profile/nikkei.com/post/3m7jduoswwn2e)
-
----
-
-@wsj.com
-
-Properties move fast in the city’s 48009 ZIP Code, which has a median list price of $1.43 million. on.wsj.com/48p2fGG
-
-[2025-12-09 10:01:28](https://bsky.app/profile/wsj.com/post/3m7jdtudsvk24)
-
----
-
-@cnn.com
-
-A forgotten Art Nouveau masterpiece above Istanbul’s bustling street has been restored, offering locals and visitors a rare glimpse into the city’s cosmopolitan past. https://cnn.it/4pXafoi
-
-[2025-12-09 10:01:02](https://bsky.app/profile/cnn.com/post/3m7jdt3ecgt2n)
-
----
-
-@reuters.com
-
-Gavin McKenna, Zayne Parekh headline Canada's world junior camp roster reut.rs/4iH9E7E
-
-[2025-12-09 10:00:58](https://bsky.app/profile/reuters.com/post/3m7jdsxhucd2o)
-
----
-
-@apnews.com
-
-A California man says he has marked his 15,000th spin on an auto-racing Disneyland attraction inspired by the animated film “Cars.”
-
-[2025-12-09 10:00:42](https://bsky.app/profile/apnews.com/post/3m7jdsij2ue2c)
-
----
-
-@usatoday.com
-
-President Trump wants the Supreme Court to overturn a 90-year-old precedent limiting his ability to remove leaders of independent agencies.
-
-[2025-12-09 10:00:38](https://bsky.app/profile/usatoday.com/post/3m7jdsesjnw2u)
+[2025-12-09 10:29:25](https://bsky.app/profile/sokuho.news/post/3m7jfftb4r222)
 
 ---
 
 @cnbc.com
 
-"Don't shut them down," says Brad Klontz, a financial psychologist, professor, and certified financial planner. Turn it into an opportunity to teach them about money. 
+ICEBlock developer sues U.S. government after DOJ demanded Apple remove app from store
 
-[2025-12-09 10:00:37](https://bsky.app/profile/cnbc.com/post/3m7jdsdga5c2o)
+[2025-12-09 10:24:37](https://bsky.app/profile/cnbc.com/post/3m7jf5b5ro22y)
 
 ---
 
-@bloomberg.com
+@cnbc.com
 
-Texas Congresswoman Jasmine Crockett is launching a bid for the US Senate, aiming to parlay her social media following and fundraising prowess into a seat representing the Republican-dominated state
+Trump ban on wind power projects overturned by federal judge
 
-[2025-12-09 10:00:24](https://bsky.app/profile/bloomberg.com/post/3m7jdrxelsf2g)
+[2025-12-09 10:22:28](https://bsky.app/profile/cnbc.com/post/3m7jezfrhgi2j)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】高市首相「旧姓の使用法制化は効果大きい」政府与党で検討加速へ 社会生活での不便を減らせると強調
+(2025-12-09 10:21) #ニュース
+
+[2025-12-09 10:21:45](https://bsky.app/profile/sokuho.news/post/3m7jey4x7t62p)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+ゼレンスキー大統領 “修正和平案は20項目 領土割譲合意せず”
+https://news.web.nhk/newsweb/na/na-k10014998541000
+
+[2025-12-09 10:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jewwf6vf2j)
+
+---
+
+@reuters.com
+
+ECB criticises Italy's revised proposal on gold reserves, worries about central bank independence reut.rs/4rJF9Cd
+
+[2025-12-09 10:20:14](https://bsky.app/profile/reuters.com/post/3m7jevfz7cv27)
+
+---
+
+@nytimes.com
+
+Bruce Blakeman, the Republican Nassau County executive and an ally of President Trump, is taking steps to kick off a run for governor of New York in the coming days, according to three people familiar with his plans.
+
+[2025-12-09 10:20:02](https://bsky.app/profile/nytimes.com/post/3m7jev2lub224)
+
+---
+
+@financialtimes.com
+
+US judge strikes down Trump’s ban on new wind permits on.ft.com/4pnpxCH
+
+[2025-12-09 10:19:21](https://bsky.app/profile/financialtimes.com/post/3m7jetszuhg26)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+“出国税” 来年度の税制改正で一律3000円に引き上げ検討
+https://news.web.nhk/newsweb/na/na-k10014998561000
+
+[2025-12-09 10:12:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7jegso5su2p)
+
+---
+
+@reuters.com
+
+Browns tout 'development,' will stick with QB Shedeur Sanders reut.rs/4a4IWUk
+
+[2025-12-09 10:10:11](https://bsky.app/profile/reuters.com/post/3m7jedgomlx2k)
 
 ---
 
