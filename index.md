@@ -1,9 +1,9 @@
-# [2025-12-09 22:30 updated](2025_12_09.md)
+# [2025-12-09 22:50 updated](2025_12_09.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Abu Dhabi’s Adnoc in deal talks over oil refinery at centre of US sanctions on.ft.com/4ptlJA1 <a href="https://bsky.app/profile/financialtimes.com/post/3m7knitdpi523" target="_blank">financialtimes.com</a> (2025-12-09 22:26:55)</span><span style="padding-right:50px;">Blackstone's Schwarzman plays down private credit concerns over bankruptcies reut.rs/3XJgnnV <a href="https://bsky.app/profile/reuters.com/post/3m7knfmgrnn2n" target="_blank">reuters.com</a> (2025-12-09 22:25:07)</span><span style="padding-right:50px;">A digital atlas of ancient Rome’s highways and byways reveals a road network that was more extensive than thought, according to a study published last month. <a href="https://bsky.app/profile/nytimes.com/post/3m7knfktj7x2p" target="_blank">nytimes.com</a> (2025-12-09 22:25:06)</span><span style="padding-right:50px;">Paramount's hostile Warner Bros. bid, Meta's AI course correction, McDonald's value crackdown and more in Morning Squawk <a href="https://bsky.app/profile/cnbc.com/post/3m7knbokjql2i" target="_blank">cnbc.com</a> (2025-12-09 22:22:55)</span><span style="padding-right:50px;">VIDEO: 🇮🇩 Elephants help clear debris in flood-hit western Indonesia  Rescue workers in Pidie Jaya, Sumatra, drafted in elephants from a local training centre to help clear debris in the wake of severe flooding. More than 950 people have been killed in Sumatra after tropical storms and monsoon rains <a href="https://bsky.app/profile/en.afp.com/post/3m7knaja6xr2d" target="_blank">en.afp.com</a> (2025-12-09 22:22:16)</span>
+<span style="padding-right:50px;">ICC sentences Darfur Janjaweed militia leader to 20 years reut.rs/4pkOMpg <a href="https://bsky.app/profile/reuters.com/post/3m7kojmlled2k" target="_blank">reuters.com</a> (2025-12-09 22:45:15)</span><span style="padding-right:50px;">Greek farmers continue nationwide blockades to protest delayed funding reut.rs/44hI2A3 <a href="https://bsky.app/profile/reuters.com/post/3m7koatqxt62d" target="_blank">reuters.com</a> (2025-12-09 22:40:21)</span><span style="padding-right:50px;">If you awake confused and panicked at the sound of your alarm clock beeping in the dark, you may find mornings more pleasant with a sunrise alarm clock. <a href="https://bsky.app/profile/nytimes.com/post/3m7koafhwkp2y" target="_blank">nytimes.com</a> (2025-12-09 22:40:06)</span><span style="padding-right:50px;">The Assemblies of God’s Royal Rangers program has drawn millions of boys with a promise of Christian discipline — but left some in the care of sexual predators, an NBC News investigation found.  <a href="https://bsky.app/profile/nbcnews.com/post/3m7koae6oqb2j" target="_blank">nbcnews.com</a> (2025-12-09 22:40:05)</span><span style="padding-right:50px;">Russia is pushing to take over all of eastern Ukraine's Donbas region, where one resident tells NPR that she feels her "life depends on how our guys at the front hold on." n.pr/4oIxmSw <a href="https://bsky.app/profile/npr.org/post/3m7ko26dfpu23" target="_blank">npr.org</a> (2025-12-09 22:36:37)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.32 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.92 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.46 (🔺0.54 : 2025-12-09)</span>
+<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.32 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.92 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.38 (🔺0.46 : 2025-12-09)</span>
   </div>
 </div>
 
@@ -32,95 +32,101 @@
 
 ## News Headlines
 
-1. アブダビのエネルギー会社アドニクが米国による石油精製所への制裁に関連する取引を検討
-2. ブラックストーンのシュワルツマン氏が私的クレジットの破綻に関する懸念を軽減
-3. 古代ローマの道路網がより広範囲であったと報告される
-4. マクドナルドが価値を削減、パラマウント、メタ、ウォーナー・ブラザーズの買収を含む
-5. インドネシアの水害で象を動物救済活動に従事
-6. 米国政府がNVIDIAの高性能AIチップの中国への輸出を承認
+以下の6つのニュースから重要なストーリーを選択し、ヘッダラインを日本語で作成します。
+
+1.  ICCはダルフールのジャンワイド派の指導者に20年間の刑期を言い渡す。
+2.  ギリシャの農家は、遅れてきた補助金に対する抗議活動を続けている。
+3.  「朝が嫌な気分で起きたら、日の出時計を使ってみてください。」
+4.  アメリカのNBCニュースの調査は、クリスチャンの厳格な教えを約束して、数百万の少年を引き付けたが、性的虐待の被害を受けた少年たちのいるような状況になった。
+5.  ロシアはウクライナのドネツィク地方のすべてを支配することを目指しており、ウクライナの女性は「前線で戦っている男性が死んだ場合、私の命は危険になる」と語っている。
+6.  バルチモアで突然のタッチダウンが取り消され、NFLの受信ルールの混乱が次々と起こり、Ravensコーチは「分かりません」と激怒している。
 
 ----
 
-@financialtimes.com
+@reuters.com
 
-Abu Dhabi’s Adnoc in deal talks over oil refinery at centre of US sanctions on.ft.com/4ptlJA1
+ICC sentences Darfur Janjaweed militia leader to 20 years reut.rs/4pkOMpg
 
-[2025-12-09 22:26:55](https://bsky.app/profile/financialtimes.com/post/3m7knitdpi523)
+[2025-12-09 22:45:15](https://bsky.app/profile/reuters.com/post/3m7kojmlled2k)
 
 ---
 
 @reuters.com
 
-Blackstone's Schwarzman plays down private credit concerns over bankruptcies reut.rs/3XJgnnV
+Greek farmers continue nationwide blockades to protest delayed funding reut.rs/44hI2A3
 
-[2025-12-09 22:25:07](https://bsky.app/profile/reuters.com/post/3m7knfmgrnn2n)
+[2025-12-09 22:40:21](https://bsky.app/profile/reuters.com/post/3m7koatqxt62d)
 
 ---
 
 @nytimes.com
 
-A digital atlas of ancient Rome’s highways and byways reveals a road network that was more extensive than thought, according to a study published last month.
+If you awake confused and panicked at the sound of your alarm clock beeping in the dark, you may find mornings more pleasant with a sunrise alarm clock.
 
-[2025-12-09 22:25:06](https://bsky.app/profile/nytimes.com/post/3m7knfktj7x2p)
-
----
-
-@cnbc.com
-
-Paramount's hostile Warner Bros. bid, Meta's AI course correction, McDonald's value crackdown and more in Morning Squawk
-
-[2025-12-09 22:22:55](https://bsky.app/profile/cnbc.com/post/3m7knbokjql2i)
-
----
-
-@en.afp.com
-
-VIDEO: 🇮🇩 Elephants help clear debris in flood-hit western Indonesia
-
-Rescue workers in Pidie Jaya, Sumatra, drafted in elephants from a local training centre to help clear debris in the wake of severe flooding. More than 950 people have been killed in Sumatra after tropical storms and monsoon rains
-
-[2025-12-09 22:22:16](https://bsky.app/profile/en.afp.com/post/3m7knaja6xr2d)
+[2025-12-09 22:40:06](https://bsky.app/profile/nytimes.com/post/3m7koafhwkp2y)
 
 ---
 
 @nbcnews.com
 
-More than 1 million social media accounts held by users under 16 are set to be deactivated in Australia in a divisive world-first ban that is being closely watched elsewhere.
+The Assemblies of God’s Royal Rangers program has drawn millions of boys with a promise of Christian discipline — but left some in the care of sexual predators, an NBC News investigation found. 
 
-[2025-12-09 22:20:16](https://bsky.app/profile/nbcnews.com/post/3m7kn4wbe2v27)
-
----
-
-@cnbc.com
-
-Nvidia has approval from the U.S. government to sell its more advanced H200 AI chips to China. But the question is whether Beijing wants it or will let companies buy it. cnb.cx/3MOwPRt
-
-[2025-12-09 22:18:47](https://bsky.app/profile/cnbc.com/post/3m7kn2byi652e)
+[2025-12-09 22:40:05](https://bsky.app/profile/nbcnews.com/post/3m7koae6oqb2j)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@npr.org
 
-Japan's Nankai Trough megaquake - can you predict it?
+Russia is pushing to take over all of eastern Ukraine's Donbas region, where one resident tells NPR that she feels her "life depends on how our guys at the front hold on." n.pr/4oIxmSw
 
-[2025-12-09 22:15:43](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7kmusudke2h)
+[2025-12-09 22:36:37](https://bsky.app/profile/npr.org/post/3m7ko26dfpu23)
 
 ---
 
 @reuters.com
 
-BMW names veteran Nedeljkovic as CEO to tackle China, Tesla reut.rs/48HtBGG
+TotalEnergies cements Namibia position with Galp asset swap reut.rs/3MiFtaW
 
-[2025-12-09 22:15:16](https://bsky.app/profile/reuters.com/post/3m7kmtz3sgj2a)
+[2025-12-09 22:35:10](https://bsky.app/profile/reuters.com/post/3m7knxloarm2y)
 
 ---
 
-@cnn.com
+@cnbc.com
 
-After working as an interpreter for the American coalition in Afghanistan, Jafar Wahidi resettled in California with his wife and seven children in 2017. Now, he says the life he built may not be available to many he is trying to help.
-https://cnn.it/48r3yVx
+Here are Tuesday's biggest analyst calls: Nvidia, Apple, Tesla, Micron, Viking, Netflix, Apple, Viking, Delta & more
 
-[2025-12-09 22:15:05](https://bsky.app/profile/cnn.com/post/3m7kmtoj3wp2f)
+[2025-12-09 22:34:33](https://bsky.app/profile/cnbc.com/post/3m7knwies6e2e)
+
+---
+
+@reuters.com
+
+🔊 'What's at stake in this case is how much control a president has over executive agencies that were set up by Congress to be somewhat insulated from White House control.' On the Reuters World News podcast today we discuss the FTC firing case at the Supreme Court reut.rs/48CGlyw
+
+[2025-12-09 22:34:21](https://bsky.app/profile/reuters.com/post/3m7knw4bwpc2f)
+
+---
+
+@wsj.com
+
+A revoked touchdown in Baltimore fuels new ire about football’s reception rules. “Clear as mud,” howls the Ravens coach. on.wsj.com/44fyh5o
+
+[2025-12-09 22:33:35](https://bsky.app/profile/wsj.com/post/3m7knur56z72t)
+
+---
+
+@nikkei.com
+
+病院が外国人受け入れに力　訪日客増加で、未払い対応など課題も
+www.nikkei.com/article/DGXZQO...
+
+スキー場のふもとにある白馬インターナショナルクリニックはスタッフ全員が日本語と英語を話せます。
+
+12月下旬になると毎日40〜50人が駆け込み、およそ8割が外国人に。今季からはけがをした患者をゲレンデから運ぶ専用の搬送車も導入します。
+
+国がまとめる外国人患者の受け入れに協力的な医療機関は2025年9月時点で2548カ所と、2019年から1.6倍に増えました。
+
+[2025-12-09 22:31:56](https://bsky.app/profile/nikkei.com/post/3m7knrs66uv2t)
 
 ---
 
