@@ -1,9 +1,9 @@
-# [2025-12-09 17:50 updated](2025_12_09.md)
+# [2025-12-09 18:10 updated](2025_12_09.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">一般道を時速110km超で事故なら危険運転　法制審部会で数値基準案 www.nikkei.com/article/DGXZQO...  速度は法定速度からの超過幅が「一般道で時速50キロ、高速道で時速60キロ」。  アルコール量は「血液1ミリリットルにつき1.0ミリグラム以上または呼気1リットルにつき0.5ミリグラム以上」としました。  採用された案は体重60キロの人がビール大瓶を2本摂取した状態に相当するとのデータがあるといいます。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m7k5sfqtsx2w" target="_blank">nikkei.com</a> (2025-12-09 17:45:57)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】「ダクトから出火している」白い煙が噴出…北海道北見市のアーケード街で店舗火災…ケガ人の有無は調査中 (2025-12-09 17:40) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7k5sfebuu2e" target="_blank">sokuho.news</a> (2025-12-09 17:45:56)</span><span style="padding-right:50px;">Owners of Goa nightclub fled the country hours after a deadly fire killed 25 people, police in India say  u.afp.com/S7xP <a href="https://bsky.app/profile/en.afp.com/post/3m7k5rests423" target="_blank">en.afp.com</a> (2025-12-09 17:45:22)</span><span style="padding-right:50px;">Morning Bid: Markets riddled with anxiety on almost-Fed day reut.rs/3KKCWWt <a href="https://bsky.app/profile/reuters.com/post/3m7k5qysaty2k" target="_blank">reuters.com</a> (2025-12-09 17:45:09)</span><span style="padding-right:50px;">Choose your streaming service and start listening. n.pr/44YwoKD <a href="https://bsky.app/profile/npr.org/post/3m7k5owclem2e" target="_blank">npr.org</a> (2025-12-09 17:44:00)</span>
+<span style="padding-right:50px;">円相場 値下がり 米の長期金利上昇に伴い円売りドル買いの動き https://news.web.nhk/newsweb/na/na-k10014999081000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7k73vmv3z2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 18:09:07)</span><span style="padding-right:50px;">皇后さま 62歳の誕生日 皇居で祝賀行事行われる https://news.web.nhk/newsweb/na/na-k10014998971000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7k73qrho72e" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 18:09:02)</span><span style="padding-right:50px;">🛎️ANNより【速報】です。  【速報】また山火事発生 今度は神奈川・伊勢原市の「日向山」 (2025-12-09 18:03:45) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7k6ynofkt2l" target="_blank">sokuho.news</a> (2025-12-09 18:07:20)</span><span style="padding-right:50px;">LIVE: UN Environment Program’s global environmental assessment youtube.com/live/LqYiW3l... <a href="https://bsky.app/profile/reuters.com/post/3m7k6xetkik24" target="_blank">reuters.com</a> (2025-12-09 18:06:37)</span><span style="padding-right:50px;">「現役ドラフト」ソフトバンク 佐藤直樹が楽天など12人が移籍 https://news.web.nhk/newsweb/na/na-k10014998751000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7k6wlhl3z2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 18:06:08)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.32 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.91 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.37 (🔺0.45 : 2025-12-09)</span>
+<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.32 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.91 : 2025-12-08)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.25 (🔺0.33 : 2025-12-09)</span>
   </div>
 </div>
 
@@ -32,109 +32,107 @@
 
 ## News Headlines
 
-1. 一般道を時速110km超で事故なら危険運転　法制審部会で数値基準案
-2. 北海道北見市の店舗で火災　店舗のダクトから出火している
-3. 中国軍機が自衛隊機にレーダー照射　訓練中の捜索レーダー作動は正常な動き
-4. 神奈川・伊勢原市の日向山で山林火災　中腹から煙が出ている
-5. 福島第一原発　津波注意報で停止した処理水放出を再開
-6. 藪原健太朗　巨人と契約更改　推定年俸3億円で40％減額
+1. 皇后さま、62歳の誕生日を祝賀行事で迎える
+2. 神奈川県伊勢原市で山火事　消防が現場にたどり着けず
+3. 「現役ドラフト」ソフトバンクの佐藤直樹が楽天など12選手と移籍
+4. NISAの投資枠「つみたて投資」年齢制限撤廃などで最終調整
+5. 円相場、値下がり　米の長期金利上昇に伴い円売りドル買いの動き
+6. 中国の官僚が不正事件で処刑　外国人受刑者も多数
 
 ----
 
-@nikkei.com
+@nhknewsunofficial.bsky.social
 
-一般道を時速110km超で事故なら危険運転　法制審部会で数値基準案
-www.nikkei.com/article/DGXZQO...
+円相場 値下がり 米の長期金利上昇に伴い円売りドル買いの動き
+https://news.web.nhk/newsweb/na/na-k10014999081000
 
-速度は法定速度からの超過幅が「一般道で時速50キロ、高速道で時速60キロ」。
+[2025-12-09 18:09:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7k73vmv3z2b)
 
-アルコール量は「血液1ミリリットルにつき1.0ミリグラム以上または呼気1リットルにつき0.5ミリグラム以上」としました。
+---
 
-採用された案は体重60キロの人がビール大瓶を2本摂取した状態に相当するとのデータがあるといいます。
+@nhknewsunofficial.bsky.social
 
-#ニュース
+皇后さま 62歳の誕生日 皇居で祝賀行事行われる
+https://news.web.nhk/newsweb/na/na-k10014998971000
 
-[2025-12-09 17:45:57](https://bsky.app/profile/nikkei.com/post/3m7k5sfqtsx2w)
+[2025-12-09 18:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7k73qrho72e)
 
 ---
 
 @sokuho.news
 
-🛎️FNNより【速報】です。
+🛎️ANNより【速報】です。
 
-【速報】「ダクトから出火している」白い煙が噴出…北海道北見市のアーケード街で店舗火災…ケガ人の有無は調査中
-(2025-12-09 17:40) #ニュース
+【速報】また山火事発生 今度は神奈川・伊勢原市の「日向山」
+(2025-12-09 18:03:45) #ニュース
 
-[2025-12-09 17:45:56](https://bsky.app/profile/sokuho.news/post/3m7k5sfebuu2e)
-
----
-
-@en.afp.com
-
-Owners of Goa nightclub fled the country hours after a deadly fire killed 25 people, police in India say
-
-u.afp.com/S7xP
-
-[2025-12-09 17:45:22](https://bsky.app/profile/en.afp.com/post/3m7k5rests423)
+[2025-12-09 18:07:20](https://bsky.app/profile/sokuho.news/post/3m7k6ynofkt2l)
 
 ---
 
 @reuters.com
 
-Morning Bid: Markets riddled with anxiety on almost-Fed day reut.rs/3KKCWWt
+LIVE: UN Environment Program’s global environmental assessment youtube.com/live/LqYiW3l...
 
-[2025-12-09 17:45:09](https://bsky.app/profile/reuters.com/post/3m7k5qysaty2k)
+[2025-12-09 18:06:37](https://bsky.app/profile/reuters.com/post/3m7k6xetkik24)
 
 ---
 
-@npr.org
+@nhknewsunofficial.bsky.social
 
-Choose your streaming service and start listening. n.pr/44YwoKD
+「現役ドラフト」ソフトバンク 佐藤直樹が楽天など12人が移籍
+https://news.web.nhk/newsweb/na/na-k10014998751000
 
-[2025-12-09 17:44:00](https://bsky.app/profile/npr.org/post/3m7k5owclem2e)
+[2025-12-09 18:06:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7k6wlhl3z2b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+ノーベルウイーク 日本被団協などテーマにしたアート作品展
+https://news.web.nhk/newsweb/na/na-k10014998981000
+
+[2025-12-09 18:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7k6wfwd2i2g)
 
 ---
 
 @reuters.com
 
-Global pilots warn India's rest rule exemption for IndiGo raises safety concerns reut.rs/4oE1VbJ
+Chinese officials call for more REITs to steady property sector reut.rs/48IRais
 
-[2025-12-09 17:40:07](https://bsky.app/profile/reuters.com/post/3m7k5hyt3ld2w)
-
----
-
-@nhknewsunofficial.bsky.social
-
-神奈川 伊勢原で山林火災【上空からの映像】
-https://news.web.nhk/newsweb/na/na-k10014999031000
-
-[2025-12-09 17:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7k5g3xgh42r)
+[2025-12-09 18:05:06](https://bsky.app/profile/reuters.com/post/3m7k6uodcwl2o)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-日銀 植田総裁 長期金利「やや速いスピードで上昇している」
-https://news.web.nhk/newsweb/na/na-k10014998961000
+NISA つみたて投資枠 年齢制限撤廃などで最終調整 政府・与党
+https://news.web.nhk/newsweb/na/na-k10014999011000
 
-[2025-12-09 17:36:06](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7k5aviflq2n)
+[2025-12-09 18:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7k6qzqqrc24)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@nikkei.com
 
-【地震】JR八戸線 高架橋の橋脚損傷で運転再開見通し立たず
-https://news.web.nhk/newsweb/na/na-k10014999021000
+おこめ券配布、自治体の反発広がる
+www.nikkei.com/article/DGXZQO...
+ 
+大阪府交野市や箕面市、東京都江戸川区はコストなどの負担増を懸念し、配布見送りを表明。
+ 
+交野市の山本景市長は、おこめ券は特定団体の利益誘導につながることを懸念。経費率が20%以上と高く、物価対策には不適切と主張しています。
+ 
+おこめ券はコメ卸の業界団体、全国米穀販売事業共済協同組合（全米販）やJA全農が発行。現状1枚500円で販売され、440円分のコメと引き換えできます。差額の60円分は印刷経費や発行元の利益となります。
 
-[2025-12-09 17:36:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7k5apvoso2p)
+[2025-12-09 18:01:56](https://bsky.app/profile/nikkei.com/post/3m7k6oysfvo2e)
 
 ---
 
 @reuters.com
 
-China executes former official of Huarong offshore finance unit for graft reut.rs/4pkSFdO
+Eagles QB Jalen Hurts first player to commit 2 turnovers on same play reut.rs/44foVqr
 
-[2025-12-09 17:35:06](https://bsky.app/profile/reuters.com/post/3m7k56zrpzb2a)
+[2025-12-09 18:00:33](https://bsky.app/profile/reuters.com/post/3m7k6mjmicm2w)
 
 ---
 
