@@ -1,9 +1,9 @@
-# [2025-12-09 19:30 updated](2025_12_09.md)
+# [2025-12-09 19:50 updated](2025_12_09.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">【地震】SNSで生成AIを使った偽動画や根拠ない情報 投稿相次ぐ https://news.web.nhk/newsweb/na/na-k10014999191000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7kdhezff52n" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 19:27:07)</span><span style="padding-right:50px;">NHK次期会長に井上樹彦副会長 “使命変わらない” https://news.web.nhk/newsweb/na/na-k10014999171000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7kdhamvtx2t" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 19:27:02)</span><span style="padding-right:50px;">India home prices to rise at steady 6% pace but luxury sector may lose steam - Reuters poll reut.rs/44OH8v3 <a href="https://bsky.app/profile/reuters.com/post/3m7kddpypsb2e" target="_blank">reuters.com</a> (2025-12-09 19:25:06)</span><span style="padding-right:50px;">A controversy is swirling at a Texas university. The trigger? A flowchart, part of a national effort by conservatives, that sets out a chain of approvals for course material. <a href="https://bsky.app/profile/wsj.com/post/3m7kddhlow22i" target="_blank">wsj.com</a> (2025-12-09 19:24:57)</span><span style="padding-right:50px;">インドネシア “ジャカルタでビル火災20人死亡” 地元メディア https://news.web.nhk/newsweb/na/na-k10014999181000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7kdbznkis2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 19:24:08)</span>
+<span style="padding-right:50px;">Warner Bros Discovery's decision in the early hours of Friday morning sent shockwaves through the entertainment industry on.ft.com/3KPpVuH <a href="https://bsky.app/profile/financialtimes.com/post/3m7kemzkvrm26" target="_blank">financialtimes.com</a> (2025-12-09 19:48:12)</span><span style="padding-right:50px;">NISAつみたて枠、18歳未満は600万円上限　12歳で引き出し可能 www.nikkei.com/article/DGXZQO...  投資信託を定期的に積み立てる「つみたて投資枠」を18歳未満にも解禁し、年間60万円まで投資できるように。  運用によって増えた資金を学費などに使えるようにし、子育て費用を手当てしやすくします。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m7keixm6tb2g" target="_blank">nikkei.com</a> (2025-12-09 19:45:56)</span><span style="padding-right:50px;">Judges under siege administer poetic justice: podcast reut.rs/4a5IpkX <a href="https://bsky.app/profile/reuters.com/post/3m7kehnv6ka2w" target="_blank">reuters.com</a> (2025-12-09 19:45:12)</span><span style="padding-right:50px;">China set to limit access to Nvidia’s H200 chips despite Trump export approval on.ft.com/3YfUvAN <a href="https://bsky.app/profile/financialtimes.com/post/3m7kee3qahv2w" target="_blank">financialtimes.com</a> (2025-12-09 19:43:13)</span><span style="padding-right:50px;">衆院予算委 補正予算案の審議 首相“財政の持続可能性に配慮” https://news.web.nhk/newsweb/na/na-k10014998951000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7kec2lgsm24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-09 19:42:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.32 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.92 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.17 (🔺0.25 : 2025-12-09)</span>
+<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47739.32 (🔻232.19 : 2025-12-08)</span><span style="padding-right:50px;">NASDAQ: 23545.90 (🔻92.32 : 2025-12-08)</span><span style="padding-right:50px;">NVIDIA: 185.55 (🔺2.92 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.09 (🔺0.17 : 2025-12-09)</span>
   </div>
 </div>
 
@@ -32,108 +32,101 @@
 
 ## News Headlines
 
-１.　インドネシアでビル火災　20人死亡
-２.　地震　青森・岩手・北海道　50人けが　各地の被害状況は
-３.　農水省、スペイン産豚肉輸入を停止　外食や加工品に影響必至
-４.　ライザップがお詫び　湘南ベルマーレと“異例対立”…チームの資金6億円がライザップに…？
-５.　群馬の妙義山の山林火災　鎮圧に至らず　ヘリでの消火活動は中断
-６.　初の「後発地震注意情報」発表　避難経路や備蓄品の確認などを
+1. ウォシュレットの世界的ブーム　国内7000万台以上出荷
+2. インド政府、インドイーグル航空に5％の減便を命令
+3. 「クマ目撃4倍」　白川郷でクマの現れが増え
+4. スペイン産豚肉輸入を停止　アフリカ豚熱のため
+5. インドネシアのジャカルタでビル火災　20人死亡
+6. NHKの次期会長に井上樹彦副会長が選出
 
 ----
 
-@nhknewsunofficial.bsky.social
+@financialtimes.com
 
-【地震】SNSで生成AIを使った偽動画や根拠ない情報 投稿相次ぐ
-https://news.web.nhk/newsweb/na/na-k10014999191000
+Warner Bros Discovery's decision in the early hours of Friday morning sent shockwaves through the entertainment industry on.ft.com/3KPpVuH
 
-[2025-12-09 19:27:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7kdhezff52n)
+[2025-12-09 19:48:12](https://bsky.app/profile/financialtimes.com/post/3m7kemzkvrm26)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@nikkei.com
 
-NHK次期会長に井上樹彦副会長 “使命変わらない”
-https://news.web.nhk/newsweb/na/na-k10014999171000
+NISAつみたて枠、18歳未満は600万円上限　12歳で引き出し可能
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-09 19:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7kdhamvtx2t)
+投資信託を定期的に積み立てる「つみたて投資枠」を18歳未満にも解禁し、年間60万円まで投資できるように。
+
+運用によって増えた資金を学費などに使えるようにし、子育て費用を手当てしやすくします。
+
+#ニュース
+
+[2025-12-09 19:45:56](https://bsky.app/profile/nikkei.com/post/3m7keixm6tb2g)
 
 ---
 
 @reuters.com
 
-India home prices to rise at steady 6% pace but luxury sector may lose steam - Reuters poll reut.rs/44OH8v3
+Judges under siege administer poetic justice: podcast reut.rs/4a5IpkX
 
-[2025-12-09 19:25:06](https://bsky.app/profile/reuters.com/post/3m7kddpypsb2e)
-
----
-
-@wsj.com
-
-A controversy is swirling at a Texas university. The trigger? A flowchart, part of a national effort by conservatives, that sets out a chain of approvals for course material.
-
-[2025-12-09 19:24:57](https://bsky.app/profile/wsj.com/post/3m7kddhlow22i)
+[2025-12-09 19:45:12](https://bsky.app/profile/reuters.com/post/3m7kehnv6ka2w)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@financialtimes.com
 
-インドネシア “ジャカルタでビル火災20人死亡” 地元メディア
-https://news.web.nhk/newsweb/na/na-k10014999181000
+China set to limit access to Nvidia’s H200 chips despite Trump export approval on.ft.com/3YfUvAN
 
-[2025-12-09 19:24:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7kdbznkis2u)
+[2025-12-09 19:43:13](https://bsky.app/profile/financialtimes.com/post/3m7kee3qahv2w)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-「昨夜の地震で被害は？」地震に便乗した詐欺電話か 注意を
-https://news.web.nhk/newsweb/na/na-k10014999151000
+衆院予算委 補正予算案の審議 首相“財政の持続可能性に配慮”
+https://news.web.nhk/newsweb/na/na-k10014998951000
 
-[2025-12-09 19:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7kdbuztws2u)
-
----
-
-@sokuho.news
-
-🔔防災科研より【強震モニタ】動画です。
-
-震源:千葉県東方沖, 深さ:10km
-マグニチュード:3.0, 最大震度:1
-📍https://www.google.com/maps?q=35.8,140.9&ll=35.8,140.9&z=7&t=h
-地震発生日時:2025-12-09 19:18頃
-(10倍速▶120s→12s) #地震
-
-[2025-12-09 19:21:23](https://bsky.app/profile/sokuho.news/post/3m7kd533wuj27)
+[2025-12-09 19:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7kec2lgsm24)
 
 ---
 
-@sokuho.news
+@reuters.com
 
-<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>インドネシア “ジャカルタでビル火災20人死亡” 地元メディア</strong><br><strong>(2025-12-09 19:20:27) #ニュース</strong><br><strong>https://news.web.nhk/newsweb/na/na-k10014999181000</strong>
+BOJ Governor Ueda says rises in long-term interest rates 'somewhat rapid' reut.rs/4iKUQoo
 
-[2025-12-09 19:20:58](https://bsky.app/profile/sokuho.news/post/3m7kd4diadv24)
-
----
-
-@sokuho.news
-
-🔔気象庁より【地震速報】です。
-
-19時18分頃、茨城県・千葉県で最大震度1の地震を観測しました。
-震源:千葉県東方沖, 深さ:10km, 規模:M3.0
-この地震による津波の心配はありません。
-(2025-12-09 19:20:56) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/09/2025-12-09-19-18-19.html?xlarge_image=1
-
-[2025-12-09 19:20:57](https://bsky.app/profile/sokuho.news/post/3m7kd4d3z4u2w)
+[2025-12-09 19:40:10](https://bsky.app/profile/reuters.com/post/3m7ke6nnwyh2w)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@nhknewsunofficial.bsky.social
 
-CCTV shows Matisse heist suspects with stolen artworks in Brazil
+神奈川 伊勢原で山林火災 消防 10日朝から消火へ
+https://news.web.nhk/newsweb/na/na-k10014999031000
 
-[2025-12-09 19:20:38](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7kd3q43yu2w)
+[2025-12-09 19:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7kdxdb3ox26)
+
+---
+
+@npr.org
+
+Arlene Wagner has been collecting nutcrackers for nearly 50 years. Now, she's got one of the largest collections in the world, housed at the Leavenworth Nutcracker Museum in Washington. n.pr/3MxdoMW
+
+[2025-12-09 19:35:54](https://bsky.app/profile/npr.org/post/3m7kdwzobmn2i)
+
+---
+
+@en.afp.com
+
+Ukrainian President Volodymyr Zelensky met with Pope Leo XIV in Italy on Tuesday as he prepared to send the United States revised proposals to end Russia's invasion ➡️ u.afp.com/S7fG
+
+[2025-12-09 19:35:37](https://bsky.app/profile/en.afp.com/post/3m7kdwiz62y2d)
+
+---
+
+@reuters.com
+
+India orders crisis-hit IndiGo to cut flights by 5% reut.rs/4rMqYMz
+
+[2025-12-09 19:35:06](https://bsky.app/profile/reuters.com/post/3m7kdvlupz427)
 
 ---
 
