@@ -1,9 +1,9 @@
-# [2025-12-10 06:50 updated](2025_12_10.md)
+# [2025-12-10 07:10 updated](2025_12_10.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">米 ルビオ国務長官 タイとカンボジア双方に攻撃停止求める https://news.web.nhk/newsweb/na/na-k10014999591000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ljiy3vvo2r" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-10 06:48:03)</span><span style="padding-right:50px;">日銀12月会合、市場は利上げ確実視　植田総裁「適切に判断」 www.nikkei.com/article/DGXZQO...  日銀内では「まだ12月利上げが確定したわけではなく、多くのイベントが残っている」との声も。  12月短観やFOMCといった国内外のイベントで波乱がないか見届けて最終判断する構えです。 <a href="https://bsky.app/profile/nikkei.com/post/3m7ljexto3z2t" target="_blank">nikkei.com</a> (2025-12-10 06:45:51)</span><span style="padding-right:50px;">KeyCorp CEO rules out acquisitions, emphasizes focus on buybacks reut.rs/3KHa55e <a href="https://bsky.app/profile/reuters.com/post/3m7ljdtvuml2d" target="_blank">reuters.com</a> (2025-12-10 06:45:13)</span><span style="padding-right:50px;">円相場 NY市場一時1ドル156円台後半に 利下げペース緩和の観測 https://news.web.nhk/newsweb/na/na-k10014999611000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ljdlxmnq2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-10 06:45:02)</span><span style="padding-right:50px;">Czech billionaire Babis becomes PM with promise to cut ties to business empire <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7ljbfov2l24" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-10 06:43:50)</span>
+<span style="padding-right:50px;">Channel 4 raids Sky for new chief executive on.ft.com/3XHlYv9 <a href="https://bsky.app/profile/financialtimes.com/post/3m7lknbc6wt2n" target="_blank">financialtimes.com</a> (2025-12-10 07:08:23)</span><span style="padding-right:50px;">The northern lights could be visible in more than a dozen states thanks to a burst of plasma and energy from the sun. <a href="https://bsky.app/profile/usatoday.com/post/3m7lklmtbws2d" target="_blank">usatoday.com</a> (2025-12-10 07:07:28)</span><span style="padding-right:50px;">Spotify expands music videos access to premium users in US, Canada to take on YouTube reut.rs/3XKxXId <a href="https://bsky.app/profile/reuters.com/post/3m7lkhq6my527" target="_blank">reuters.com</a> (2025-12-10 07:05:17)</span><span style="padding-right:50px;">Stocks making the biggest moves after hours: AeroVironment, GE Vernova, Cracker Barrel and more <a href="https://bsky.app/profile/cnbc.com/post/3m7lkg6vzxj2e" target="_blank">cnbc.com</a> (2025-12-10 07:04:25)</span><span style="padding-right:50px;">This ‘30 for 30’ installment revisits the career of the sportscaster, who brought a fresh perspective to the network before his death in 2015. on.wsj.com/3XMu4Tb <a href="https://bsky.app/profile/wsj.com/post/3m7lketytwe2t" target="_blank">wsj.com</a> (2025-12-10 07:03:40)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47560.29 (🔻164.23 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23576.49 (🔺71.87 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.97 (🔻0.59 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.91 (🔺0.99 : 2025-12-09)</span>
+<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47560.29 (🔻164.23 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23576.49 (🔺71.87 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.97 (🔻0.59 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.83 (🔺0.91 : 2025-12-09)</span>
   </div>
 </div>
 
@@ -32,100 +32,101 @@
 
 ## News Headlines
 
-1. 米ルビオ国務長官　タイとカンボジア双方に攻撃停止求める
-2. 日銀12月会議、利上げ確実視　但し「多くのイベントが残っている」
-3. 円相場　NY市場一時1ドル156円台後半に　利下げペース緩和の観測
-4. チェコの実業家・バビシュ氏が新首相に　実業家から転身
-5. 米アリゾナ州で大規模サイバー攻撃　容疑者逮捕
-6. ノーベル賞　坂口さんと北川さんが日本大使館の祝賀会に出席
+1. カインズが24時間営業無人店を埼玉県にオープン
+2. 連邦準備制度協会がチェックサービスを廃止?
+3. フランス国会が福祉予算を通過
+4. ドナルド・トランプ米大統領が連邦準備制度協会長人選最終面接
+5. スパイク・リー氏がESPNのドキュメンタリー番組に出演
+6. ノーベル平和賞受賞者のマチャド氏が授賞式出席を取りやめ
 
 ----
 
-@nhknewsunofficial.bsky.social
+@financialtimes.com
 
-米 ルビオ国務長官 タイとカンボジア双方に攻撃停止求める
-https://news.web.nhk/newsweb/na/na-k10014999591000
+Channel 4 raids Sky for new chief executive on.ft.com/3XHlYv9
 
-[2025-12-10 06:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ljiy3vvo2r)
+[2025-12-10 07:08:23](https://bsky.app/profile/financialtimes.com/post/3m7lknbc6wt2n)
+
+---
+
+@usatoday.com
+
+The northern lights could be visible in more than a dozen states thanks to a burst of plasma and energy from the sun.
+
+[2025-12-10 07:07:28](https://bsky.app/profile/usatoday.com/post/3m7lklmtbws2d)
+
+---
+
+@reuters.com
+
+Spotify expands music videos access to premium users in US, Canada to take on YouTube reut.rs/3XKxXId
+
+[2025-12-10 07:05:17](https://bsky.app/profile/reuters.com/post/3m7lkhq6my527)
+
+---
+
+@cnbc.com
+
+Stocks making the biggest moves after hours: AeroVironment, GE Vernova, Cracker Barrel and more
+
+[2025-12-10 07:04:25](https://bsky.app/profile/cnbc.com/post/3m7lkg6vzxj2e)
+
+---
+
+@wsj.com
+
+This ‘30 for 30’ installment revisits the career of the sportscaster, who brought a fresh perspective to the network before his death in 2015. on.wsj.com/3XMu4Tb
+
+[2025-12-10 07:03:40](https://bsky.app/profile/wsj.com/post/3m7lketytwe2t)
+
+---
+
+@wsj.com
+
+Nate Amos’s solo project has been putting out music online for more than a decade, and his new studio album is an ideal introduction to his deep catalog. on.wsj.com/44WHwrm
+
+[2025-12-10 07:03:39](https://bsky.app/profile/wsj.com/post/3m7lketc4hs2p)
 
 ---
 
 @nikkei.com
 
-日銀12月会合、市場は利上げ確実視　植田総裁「適切に判断」
+カインズが24時間営業無人店、日用品ついで買い促す
 www.nikkei.com/article/DGXZQO...
 
-日銀内では「まだ12月利上げが確定したわけではなく、多くのイベントが残っている」との声も。
+12月11日に開業する埼玉県吉川市の店舗に併設します。
 
-12月短観やFOMCといった国内外のイベントで波乱がないか見届けて最終判断する構えです。
+商品棚は陳列している商品の重さと値段を読み込んでおり、顧客が商品を手に取ると検知。28台のカメラを設置し、AIでも商品数と金額を分析します。
 
-[2025-12-10 06:45:51](https://bsky.app/profile/nikkei.com/post/3m7ljexto3z2t)
+退店すると購入金額をアプリやカードから引き落とす仕組みです。
+
+[2025-12-10 07:01:52](https://bsky.app/profile/nikkei.com/post/3m7lkbmrd3v2e)
+
+---
+
+@financialtimes.com
+
+Trump to kick off final round of Fed chair interviews this week on.ft.com/4rLpd2n
+
+[2025-12-10 07:01:46](https://bsky.app/profile/financialtimes.com/post/3m7lkbhkn6j2n)
 
 ---
 
 @reuters.com
 
-KeyCorp CEO rules out acquisitions, emphasizes focus on buybacks reut.rs/3KHa55e
+Hendrix classic albums under spotlight in UK rights battle with Sony reut.rs/3MoeAlX
 
-[2025-12-10 06:45:13](https://bsky.app/profile/reuters.com/post/3m7ljdtvuml2d)
-
----
-
-@nhknewsunofficial.bsky.social
-
-円相場 NY市場一時1ドル156円台後半に 利下げペース緩和の観測
-https://news.web.nhk/newsweb/na/na-k10014999611000
-
-[2025-12-10 06:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ljdlxmnq2b)
+[2025-12-10 07:01:35](https://bsky.app/profile/reuters.com/post/3m7lkb4ye6u2k)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@cnn.com
 
-Czech billionaire Babis becomes PM with promise to cut ties to business empire
+The “Shaking Palsy.”
 
-[2025-12-10 06:43:50](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7ljbfov2l24)
+Those are the words Dr. James Parkinson used in an essay more than 200 years ago to group together symptoms and describe a mysterious infirmity afflicting six individuals in London. https://cnn.it/44SHIYD
 
----
-
-@en.afp.com
-
-VIDEO: Japanese aid workers help those impacted by Sri Lanka's worst cyclone this century, which killed at least 638 people in late November. The emergency medical camp was set up in the coastal town of Chilaw, where the main hospital was flooded.
-
-[2025-12-10 06:43:31](https://bsky.app/profile/en.afp.com/post/3m7ljastqib25)
-
----
-
-@cbsnews.com
-
-<strong><span style="color: red;">BREAKING:</span> Injuries were reported in a shooting at Kentucky State University, Gov. Beshear says. A suspect was arrested.</strong>
-
-[2025-12-10 06:41:10](https://bsky.app/profile/cbsnews.com/post/3m7lj4mgyr72m)
-
----
-
-@reuters.com
-
-Hollywood-hungry Gulf states bankroll Paramount's Warner Bros bid reut.rs/4pWxcHU
-
-[2025-12-10 06:40:24](https://bsky.app/profile/reuters.com/post/3m7lj3abzgh2r)
-
----
-
-@nbcnews.com
-
-A 73-year-old Michigan woman is on the run after allegedly posing as a heiress and scamming nearly $30 million from banks and other financial institutions in a yearlong scheme, the FBI says.
-
-[2025-12-10 06:40:16](https://bsky.app/profile/nbcnews.com/post/3m7lj2yzh352j)
-
----
-
-@cbsnews.com
-
-At least three oil tankers have been hit by explosions in what appears to be a stepped up unilateral effort by Ukraine to sink Russia's sanctions-dodging oil sales.
-
-
-[2025-12-10 06:40:01](https://bsky.app/profile/cbsnews.com/post/3m7lj2kbhut2b)
+[2025-12-10 07:01:04](https://bsky.app/profile/cnn.com/post/3m7lka6qnst2v)
 
 ---
 
