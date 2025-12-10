@@ -1,9 +1,9 @@
-# [2025-12-11 04:50 updated](2025_12_11.md)
+# [2025-12-11 05:10 updated](2025_12_11.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">From @theathletic.com: YouTube TV will launch 10 genre-specific packages, including a YouTube TV Sports Plan in early 2026. <a href="https://bsky.app/profile/nytimes.com/post/3m7ntd5npug2b" target="_blank">nytimes.com</a> (2025-12-11 04:49:06)</span><span style="padding-right:50px;">後発地震注意情報 日頃の備えを 青森や北海道南部など雨や雪に https://news.web.nhk/newsweb/na/na-k10015000471000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ntbcrpgw2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-11 04:48:01)</span><span style="padding-right:50px;">Trump admin touts pulling nearly 10,000 truckers off road for failing English tests <a href="https://bsky.app/profile/cnbc.com/post/3m7nt6qau2k2b" target="_blank">cnbc.com</a> (2025-12-11 04:46:38)</span><span style="padding-right:50px;">US labor cost growth moderates in third quarter amid easing labor market conditions reut.rs/44VPYXZ <a href="https://bsky.app/profile/reuters.com/post/3m7nt4g35li24" target="_blank">reuters.com</a> (2025-12-11 04:45:20)</span><span style="padding-right:50px;">What Wall Street analysts expect from Oracle earnings due after Wednesday's close <a href="https://bsky.app/profile/cnbc.com/post/3m7nt2g2kex2b" target="_blank">cnbc.com</a> (2025-12-11 04:44:13)</span>
+<span style="padding-right:50px;">For his first original feature in some 15 years, James L. Brooks has assembled an impressive supporting cast and an appealing lead in Emma Mackey. <a href="https://bsky.app/profile/apnews.com/post/3m7nugyt2yz25" target="_blank">apnews.com</a> (2025-12-11 05:09:09)</span><span style="padding-right:50px;">GoFundMe saw a sharp uptick this year in the number of people using the platform for help covering the cost of housing, food and other day-to-day necessities, according to the company’s annual analysis of campaigns. <a href="https://bsky.app/profile/nbcnews.com/post/3m7nugudhdo2r" target="_blank">nbcnews.com</a> (2025-12-11 05:09:05)</span><span style="padding-right:50px;">第174回芥川賞・直木賞の候補作 発表 https://news.web.nhk/newsweb/na/na-k10015000421000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7nubiqvro2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-11 05:06:02)</span><span style="padding-right:50px;">Before its fall from grace, chop suey was a holiday tradition for families who don't celebrate Christmas, even being immortalized in songs and film. n.pr/4oKLAC4 <a href="https://bsky.app/profile/npr.org/post/3m7nuafoe4r23" target="_blank">npr.org</a> (2025-12-11 05:05:28)</span><span style="padding-right:50px;">Global central bank easing cycle is over reut.rs/4a8ZiLJ <a href="https://bsky.app/profile/reuters.com/post/3m7nua27dkl2s" target="_blank">reuters.com</a> (2025-12-11 05:05:16)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47926.79 (🔺352.83 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23563.67 (🔺27.67 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.29 (🔻1.70 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.65 (🔻0.17 : 2025-12-10)</span>
+<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 48152.38 (🔺578.42 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23683.24 (🔺147.24 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 184.09 (🔻0.90 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 155.88 (🔻0.94 : 2025-12-10)</span>
   </div>
 </div>
 
@@ -32,95 +32,97 @@
 
 ## News Headlines
 
-以下の6つのタイトルです。
-
-1. YouTube TVが2026年初頭にスポーツ専門パッケージを10種類リリース
-2. ノーベル平和賞 マチャド氏の娘が「民主主義を守るために闘う」
-3. FRBが3回目の利下げ決定　反対3票、2026年の利下げは1回にとどまる
-4. イスラエルとの対立でイギリスが参加を見合わせる
-5. FRBが3会合連続で利下げ決定　反対3票
-6. 連邦準備委員会が金利を下げる　2026年の下げ幅は1％点と予想
+1.  芥川賞・直木賞の候補作が発表されました。
+2.  ウォールストリートの分析家は、オラクルが本日の午後発表する財務成績について何を期待しているかを説明します。
+3.  米国連邦準備銀行は、経済情勢が予想よりも良好であると判断し、利率を維持しました。
+4.  メタ・ガラのホスティングを担当する高名な女性4人組が発表されました。
+5.  米国連邦準備銀行の分裂が深刻な状態に
+6.  ノーベル平和賞を受賞したベネズエラの反政府派指導者マリア・コリーナ・マチャドの娘がオスロで演説を行いました。
 
 ----
 
-@nytimes.com
+@apnews.com
 
-From @theathletic.com: YouTube TV will launch 10 genre-specific packages, including a YouTube TV Sports Plan in early 2026.
+For his first original feature in some 15 years, James L. Brooks has assembled an impressive supporting cast and an appealing lead in Emma Mackey.
 
-[2025-12-11 04:49:06](https://bsky.app/profile/nytimes.com/post/3m7ntd5npug2b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-後発地震注意情報 日頃の備えを 青森や北海道南部など雨や雪に
-https://news.web.nhk/newsweb/na/na-k10015000471000
-
-[2025-12-11 04:48:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ntbcrpgw2b)
-
----
-
-@cnbc.com
-
-Trump admin touts pulling nearly 10,000 truckers off road for failing English tests
-
-[2025-12-11 04:46:38](https://bsky.app/profile/cnbc.com/post/3m7nt6qau2k2b)
-
----
-
-@reuters.com
-
-US labor cost growth moderates in third quarter amid easing labor market conditions reut.rs/44VPYXZ
-
-[2025-12-11 04:45:20](https://bsky.app/profile/reuters.com/post/3m7nt4g35li24)
-
----
-
-@cnbc.com
-
-What Wall Street analysts expect from Oracle earnings due after Wednesday's close
-
-[2025-12-11 04:44:13](https://bsky.app/profile/cnbc.com/post/3m7nt2g2kex2b)
-
----
-
-@yahoofinance.com
-
-Trump set to hold final interviews with Fed chair finalists
-
-[2025-12-11 04:43:35](https://bsky.app/profile/yahoofinance.com/post/3m7nszb4rqc2f)
-
----
-
-@reuters.com
-
-Israeli Druze leader seeks US security guarantees for Syrian minority reut.rs/4iSYyg7
-
-[2025-12-11 04:40:22](https://bsky.app/profile/reuters.com/post/3m7nstk5yt22k)
+[2025-12-11 05:09:09](https://bsky.app/profile/apnews.com/post/3m7nugyt2yz25)
 
 ---
 
 @nbcnews.com
 
-At least two of several agreements aimed at ending global conflicts that President Trump has hailed as evidence of his negotiating prowess are in trouble and at risk of collapsing.
+GoFundMe saw a sharp uptick this year in the number of people using the platform for help covering the cost of housing, food and other day-to-day necessities, according to the company’s annual analysis of campaigns.
 
-[2025-12-11 04:40:19](https://bsky.app/profile/nbcnews.com/post/3m7nstgnqle22)
+[2025-12-11 05:09:05](https://bsky.app/profile/nbcnews.com/post/3m7nugudhdo2r)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+第174回芥川賞・直木賞の候補作 発表
+https://news.web.nhk/newsweb/na/na-k10015000421000
+
+[2025-12-11 05:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7nubiqvro2b)
+
+---
+
+@npr.org
+
+Before its fall from grace, chop suey was a holiday tradition for families who don't celebrate Christmas, even being immortalized in songs and film. n.pr/4oKLAC4
+
+[2025-12-11 05:05:28](https://bsky.app/profile/npr.org/post/3m7nuafoe4r23)
 
 ---
 
 @reuters.com
 
-Sabalenka says Kyrgios match will not harm women's tennis reputation reut.rs/4pxYFA9
+Global central bank easing cycle is over reut.rs/4a8ZiLJ
 
-[2025-12-11 04:35:13](https://bsky.app/profile/reuters.com/post/3m7nskdebxu2p)
+[2025-12-11 05:05:16](https://bsky.app/profile/reuters.com/post/3m7nua27dkl2s)
 
 ---
 
-@wsj.com
+@nytimes.com
 
-Watch Federal Reserve Chair Jerome Powell’s speech live.
+Cafes across the U.S. are embracing the low- and no-caffeine lifestyle, with options that are a far cry from dusty tea bags and rewarmed decaf. nyti.ms/3XKlqoj
 
-[2025-12-11 04:34:57](https://bsky.app/profile/wsj.com/post/3m7nsju3em62h)
+[2025-12-11 05:05:06](https://bsky.app/profile/nytimes.com/post/3m7nu7r5oja2y)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】第174回芥川賞・直木賞の候補作決定 日本文学振興会が発表
+(2025-12-11 05:00:58) #ニュース
+
+[2025-12-11 05:03:23](https://bsky.app/profile/sokuho.news/post/3m7nu4ojx6p2b)
+
+---
+
+@usatoday.com
+
+Once the White House submits its plans this month, the National Capital Planning Commission is expected to consider the proposal early next year.
+
+[2025-12-11 05:03:04](https://bsky.app/profile/usatoday.com/post/3m7nu44u3po2w)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+電動工具国内トップ「マキタ」 下請け法違反か 公取委が勧告へ
+https://news.web.nhk/newsweb/na/na-k10015000411000
+
+[2025-12-11 05:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7nu44i5gw2d)
+
+---
+
+@axios.com
+
+EXCLUSIVE: OpenAI says its upcoming models will likely pose "high" cybersecurity risk
+
+[2025-12-11 05:02:57](https://bsky.app/profile/axios.com/post/3m7nu3w5nsk2g)
 
 ---
 
