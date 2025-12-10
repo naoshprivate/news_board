@@ -1,9 +1,9 @@
-# [2025-12-10 08:50 updated](2025_12_10.md)
+# [2025-12-10 09:10 updated](2025_12_10.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">French PM wins crucial budget vote  <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7lq7nv4cf2e" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-10 08:48:08)</span><span style="padding-right:50px;">Judge rules Ghislaine Maxwell grand jury records can be unsealed  <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7lq5oas7b2y" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-10 08:47:01)</span><span style="padding-right:50px;">'What's your name?' - Moment police confront Luigi Mangione at McDonald's <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7lq3qxfk52e" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-10 08:45:57)</span><span style="padding-right:50px;">France calls new U.S. security doctrine 'brutal clarification' reut.rs/4aFWiGK <a href="https://bsky.app/profile/reuters.com/post/3m7lq2l26bw2i" target="_blank">reuters.com</a> (2025-12-10 08:45:18)</span><span style="padding-right:50px;">After years of conservative complaints, the Justice Department moved to kill a decades-old provision of civil rights law that allows statistical disparities to be used as proof of racial discrimination. <a href="https://bsky.app/profile/washingtonpost.com/post/3m7lq27ulwd2e" target="_blank">washingtonpost.com</a> (2025-12-10 08:45:06)</span>
+<span style="padding-right:50px;">Home Office lacks clear data on a third of UK asylum claimants from 2023 on.ft.com/48qZiFy <a href="https://bsky.app/profile/financialtimes.com/post/3m7lrch7n5i24" target="_blank">financialtimes.com</a> (2025-12-10 09:07:36)</span><span style="padding-right:50px;">“ライバー”の事務所4社に注意 独禁法違反のおそれ 公取委 https://news.web.nhk/newsweb/na/na-k10014999091000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7lr7pkz462w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-10 09:06:02)</span><span style="padding-right:50px;">Swatch and Citizen face Italian scrutiny over pricing practices reut.rs/4a8HaBG <a href="https://bsky.app/profile/reuters.com/post/3m7lr6b3cmm2i" target="_blank">reuters.com</a> (2025-12-10 09:05:15)</span><span style="padding-right:50px;">ゼレンスキー氏 “安全確保への協力あれば大統領選挙できる” https://news.web.nhk/newsweb/na/na-k10014999641000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7lr2eiw6d22" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-10 09:03:03)</span><span style="padding-right:50px;">Cramer's Lightning Round: 'I'm going to have to stay away from' Dorman Products <a href="https://bsky.app/profile/cnbc.com/post/3m7lqzzpu7g2b" target="_blank">cnbc.com</a> (2025-12-10 09:02:53)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47560.29 (🔻164.23 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23576.49 (🔺71.87 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.97 (🔻0.59 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.83 (🔺0.00 : 2025-12-09)</span>
+<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47560.29 (🔻164.23 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23576.49 (🔺71.87 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.97 (🔻0.59 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.84 (🔺0.02 : 2025-12-10)</span>
   </div>
 </div>
 
@@ -32,99 +32,101 @@
 
 ## News Headlines
 
-1. 英仏首相、予算案が賛成多数で通過
-2. マイケル・コリンズ氏の弁護士が音源を公開
-3. 岐阜県・瑞浪市で地下水位が60m低下　JR東海に打つ手なし
-4. フランスがベニンのクーデター阻止に協力　エリゼ宮が発表
-5. 米Fedが水準を下げる見通し　株価が安定
-6. ドナルド・トランプ氏が「ゴールデン・フリート」について語る
+1.  ライバー事務所4社に注意　独禁法違反のおそれ
+2.  ゼレンスキー氏「安全確保への協力あれば大統領選挙できる」
+3.  トランプ政権のAI半導体輸出緩和　「敵塩行為」と批判
+4.  イルミナント子供の保護をめぐり、米国政府が不正確な情報を発表
+5.  フランス首相が緊急の予算案に勝ち、政権を確実に立て直す
+6.  岐阜・リニア中央新幹線工事で地下水位低下　JR東海に打つ手なし
 
 ----
 
-@bbcnews-world-rss.bsky.social
+@financialtimes.com
 
-French PM wins crucial budget vote 
+Home Office lacks clear data on a third of UK asylum claimants from 2023 on.ft.com/48qZiFy
 
-[2025-12-10 08:48:08](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7lq7nv4cf2e)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Judge rules Ghislaine Maxwell grand jury records can be unsealed 
-
-[2025-12-10 08:47:01](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7lq5oas7b2y)
+[2025-12-10 09:07:36](https://bsky.app/profile/financialtimes.com/post/3m7lrch7n5i24)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@nhknewsunofficial.bsky.social
 
-'What's your name?' - Moment police confront Luigi Mangione at McDonald's
+“ライバー”の事務所4社に注意 独禁法違反のおそれ 公取委
+https://news.web.nhk/newsweb/na/na-k10014999091000
 
-[2025-12-10 08:45:57](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7lq3qxfk52e)
+[2025-12-10 09:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7lr7pkz462w)
 
 ---
 
 @reuters.com
 
-France calls new U.S. security doctrine 'brutal clarification' reut.rs/4aFWiGK
+Swatch and Citizen face Italian scrutiny over pricing practices reut.rs/4a8HaBG
 
-[2025-12-10 08:45:18](https://bsky.app/profile/reuters.com/post/3m7lq2l26bw2i)
-
----
-
-@washingtonpost.com
-
-After years of conservative complaints, the Justice Department moved to kill a decades-old provision of civil rights law that allows statistical disparities to be used as proof of racial discrimination.
-
-[2025-12-10 08:45:06](https://bsky.app/profile/washingtonpost.com/post/3m7lq27ulwd2e)
+[2025-12-10 09:05:15](https://bsky.app/profile/reuters.com/post/3m7lr6b3cmm2i)
 
 ---
 
-@sokuho.news
+@nhknewsunofficial.bsky.social
 
-🔔ANNより【速報】です。
+ゼレンスキー氏 “安全確保への協力あれば大統領選挙できる”
+https://news.web.nhk/newsweb/na/na-k10014999641000
 
-【速報】横浜・馬車道近くの交差点 大型トレーラーなど3台絡む事故 1人重傷
-(2025年12月10日 08:43) #ニュース
-https://news.tv-asahi.co.jp/news_society/articles/000471952.html?display=full
-
-[2025-12-10 08:44:15](https://bsky.app/profile/sokuho.news/post/3m7lpypynhh2v)
+[2025-12-10 09:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7lr2eiw6d22)
 
 ---
 
 @cnbc.com
 
-Jim Cramer rejects Wall Street doubts about Nvidia, Apple and Warner Bros. Discovery
+Cramer's Lightning Round: 'I'm going to have to stay away from' Dorman Products
 
-[2025-12-10 08:42:45](https://bsky.app/profile/cnbc.com/post/3m7lpvz564324)
+[2025-12-10 09:02:53](https://bsky.app/profile/cnbc.com/post/3m7lqzzpu7g2b)
+
+---
+
+@nikkei.com
+
+NVIDIA半導体の対中国輸出、緩和は｢敵塩｣行為　米国内で反発
+www.nikkei.com/article/DGXZQO...
+ 
+トランプ政権の緩和によって、バイデン前政権が導入したAI半導体の輸出規制は事実上の骨抜きに。
+ 
+「H200」は現行の最先端品「ブラックウェル」に比べると計算処理能力や電力効率が劣りますが、それでもAIの先端モデルを動かすには十分な性能があります。
+ 
+複数の民主党議員が反対の書簡を公表。共和党やテック企業はかねて規制強化を訴えています。
+
+[2025-12-10 09:01:51](https://bsky.app/profile/nikkei.com/post/3m7lqy5v3pq2x)
 
 ---
 
 @reuters.com
 
-JPMorgan expects higher than expected 2026 expenses reut.rs/4a7calu
+Oracle's OpenAI reliance faces scrutiny as debt-fueled AI buildout raises worries reut.rs/4a6iHgj
 
-[2025-12-10 08:40:22](https://bsky.app/profile/reuters.com/post/3m7lprqouft2b)
-
----
-
-@nbcnews.com
-
-President Volodymyr Zelenskyy says he was ready for elections, after President Trump been upping the pressure on Ukraine to hold a national vote during the war with Russia.
-
-[2025-12-10 08:40:21](https://bsky.app/profile/nbcnews.com/post/3m7lprpqawp22)
+[2025-12-10 09:01:17](https://bsky.app/profile/reuters.com/post/3m7lqx6fcox23)
 
 ---
 
-@sokuho.news
+@apnews.com
 
-🛎️JNNより【速報】です。
+Hundreds of immigrant children across the nation were detained for longer than the legal limit this summer, U.S. Immigration and Customs Enforcement has admitted in a court filing, alarming legal advocates who say the government is failing to safeguard children.
 
-【速報】「民家の二階から火が出ている」岡山市南区植松で民家火災 消火活動中【10日午前8時半現在】
-(2025-12-10 08:28:00) #ニュース
+[2025-12-10 09:01:08](https://bsky.app/profile/apnews.com/post/3m7lqwvi3sb2x)
 
-[2025-12-10 08:39:11](https://bsky.app/profile/sokuho.news/post/3m7lppmxymi26)
+---
+
+@cnn.com
+
+Illinois Gov. JB Pritzker signed a law prohibiting federal officials from taking enforcement actions against immigrants near courthouses, in hospitals, on college campuses or in day care facilities.
+
+[2025-12-10 09:01:01](https://bsky.app/profile/cnn.com/post/3m7lqwp5biu2v)
+
+---
+
+@usatoday.com
+
+GLP-1 side effects like constipation and muscle mass loss can lead to uncomfortable pelvic floor symptoms like bladder leakage and painful sex.
+
+[2025-12-10 09:00:51](https://bsky.app/profile/usatoday.com/post/3m7lqwf4a3o2t)
 
 ---
 
