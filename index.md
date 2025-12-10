@@ -1,9 +1,9 @@
-# [2025-12-10 17:10 updated](2025_12_10.md)
+# [2025-12-10 17:30 updated](2025_12_10.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">CNBC Daily Open: A Fed rate cut might not be festive enough <a href="https://bsky.app/profile/cnbc.com/post/3m7mkqcyx6t25" target="_blank">cnbc.com</a> (2025-12-10 16:42:45)</span><span style="padding-right:50px;">Nobel Peace Prize winner María Corina Machado will not attend the awards ceremony in Oslo on Wednesday, Nobel Institute Director Kristian Berg Harpviken said. Machado's daughter will accept the prize on her behalf. <a href="https://bsky.app/profile/apnews.com/post/3m7mknf4ap322" target="_blank">apnews.com</a> (2025-12-10 16:41:06)</span><span style="padding-right:50px;">Indian stocks edge up ahead of Fed rate decision reut.rs/4pzGOZy <a href="https://bsky.app/profile/reuters.com/post/3m7mklru6cd2b" target="_blank">reuters.com</a> (2025-12-10 16:40:13)</span><span style="padding-right:50px;">Volunteers help clean-up large quantities of bananas that washed up on the south coast of England after an incident in which a container ship capsized near the Isle of Wight.   The Baltic Kipper cargo ship lost 16 containers on Saturday, including eight containing bananas <a href="https://bsky.app/profile/en.afp.com/post/3m7mkdlm6dm2q" target="_blank">en.afp.com</a> (2025-12-10 16:35:38)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】国民・玉木代表が2025年度補正予算案に賛成の方針表明 成立公算大 (16:30) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7mkd2laz72r" target="_blank">sokuho.news</a> (2025-12-10 16:35:20)</span>
+<span style="padding-right:50px;">Exclusive: Nvidia builds location verification tech that could help fight chip smuggling reut.rs/3MppasV <a href="https://bsky.app/profile/reuters.com/post/3m7mn45gxte2r" target="_blank">reuters.com</a> (2025-12-10 17:25:09)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】竹原市で倉庫が燃える火事 廃材を焼却中に燃え移ったか 現在も消火活動中 周辺への延焼は無い見込み 広島 (2025-12-10 17:04:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7mmspbcdj2b" target="_blank">sokuho.news</a> (2025-12-10 17:19:52)</span><span style="padding-right:50px;">Brazil's lower house of Congress approves a bill that could slash former president Jair Bolsonaro's prison sentence for plotting a coup, after efforts by a lawmaker to disrupt the proceedings sparked chaos in parliament  u.afp.com/S7AL <a href="https://bsky.app/profile/en.afp.com/post/3m7mmmfqa5k2d" target="_blank">en.afp.com</a> (2025-12-10 17:16:21)</span><span style="padding-right:50px;">Asian investors flock to Gulf debt in hunt for yield and growth reut.rs/4rPvUjN <a href="https://bsky.app/profile/reuters.com/post/3m7mmkhajru2i" target="_blank">reuters.com</a> (2025-12-10 17:15:15)</span><span style="padding-right:50px;">Thailand-Cambodia border conflict: US calls for end to hostilities as clashes enter third day <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7mmepwl6g2x" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-10 17:12:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47560.29 (🔻164.23 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23576.49 (🔺71.88 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.97 (🔻0.59 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.67 (🔻0.15 : 2025-12-10)</span>
+<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47560.29 (🔻164.23 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23576.49 (🔺71.88 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.97 (🔻0.59 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.61 (🔻0.22 : 2025-12-10)</span>
   </div>
 </div>
 
@@ -32,104 +32,104 @@
 
 ## News Headlines
 
-1. 速報：国民・玉木代表が2025年度補正予算案に賛成の方針表明
-2. 速報：住宅にも火が燃え移ったか 敷地内の物置きからの出火で 宮城・栗原市
-3. 速報：国民民主 補正予算案賛成へ 賛成多数で成立の見通しに
-4. 日本が中国機にレーダーを向けなかった
-5. ノーベル平和賞受賞者のマチャド氏が授賞式に出席せず
-6. 2025年度冬のボーナスの平均は74万円　高市首相は341万円
+1.  <ruby> <rt>ニーベン</rt> </ruby>が<ruby> <rt>チップ</rt> </ruby><ruby> <rt>_smuggling</rt> </ruby><ruby> <rt>を</rt> </ruby>防ぐ<ruby> <rt>ための</rt> </ruby><ruby> <rt>技術</rt> </ruby><ruby> <rt>を</rt> </ruby>開発
+2.  <ruby> <rt>広島</rt> </ruby>の<ruby> <rt>竹原市</rt> </ruby>で<ruby> <rt>倉庫</rt> </ruby><ruby> <rt>が</rt> </ruby><ruby> <rt>燃える</rt> </ruby><ruby> <rt>火事</rt> </ruby>で<ruby> <rt>けが</rt> </ruby><ruby> <rt>人</rt> </ruby><ruby> <rt>も</rt> </ruby><ruby> <rt>無し</rt> </ruby>
+3.  <ruby> <rt>ブラジル</rt> </ruby>の<ruby> <rt>議会</rt> </ruby><ruby> <rt>が</rt> </ruby><ruby> <rt>元</rt> </ruby><ruby> <rt>大統領</rt> </ruby><ruby> <rt>ボリスナロ</rt> </ruby><ruby> <rt>の</rt> </ruby><ruby> <rt>刑</rt> </ruby><ruby> <rt>が</rt> </ruby><ruby> <rt>短縮</rt> </ruby><ruby> <rt>される</rt> </ruby><ruby> <rt>可能性</rt> </ruby><ruby> <rt>あり</rt> </ruby>
+4.  <ruby> <rt>アジア</rt> </ruby><ruby> <rt>の</rt> </ruby><ruby> <rt>投資家</rt> </ruby><ruby> <rt>が</rt> </ruby><ruby> <rt>湾岸</rt> </ruby><ruby> <rt>の</rt> </ruby><ruby> <rt>国債</rt> </ruby><ruby> <rt>に</rt> </ruby><ruby> <rt>集まる</rt> </ruby>
+5.  <ruby> <rt>ウクライナ</rt> </ruby><ruby> <rt>の</rt> </ruby><ruby> <rt>紛争</rt> </ruby><ruby> <rt>が</rt> </ruby><ruby> <rt>終わる</rt> </ruby><ruby> <rt>ように</rt> </ruby><ruby> <rt>米国</rt> </ruby><ruby> <rt>が</rt> </ruby><ruby> <rt>求める</rt> </ruby>
+6.  <ruby> <rt>インド</rt> </ruby><ruby> <rt>の</rt> </ruby><ruby> <rt>株</rt> </ruby><ruby> <rt>が</rt> </ruby><ruby> <rt>上げ</rt> </ruby><ruby> <rt>る</rt> </ruby>
 
 ----
 
-@cnbc.com
-
-CNBC Daily Open: A Fed rate cut might not be festive enough
-
-[2025-12-10 16:42:45](https://bsky.app/profile/cnbc.com/post/3m7mkqcyx6t25)
-
----
-
-@apnews.com
-
-Nobel Peace Prize winner María Corina Machado will not attend the awards ceremony in Oslo on Wednesday, Nobel Institute Director Kristian Berg Harpviken said. Machado's daughter will accept the prize on her behalf.
-
-[2025-12-10 16:41:06](https://bsky.app/profile/apnews.com/post/3m7mknf4ap322)
-
----
-
 @reuters.com
 
-Indian stocks edge up ahead of Fed rate decision reut.rs/4pzGOZy
+Exclusive: Nvidia builds location verification tech that could help fight chip smuggling reut.rs/3MppasV
 
-[2025-12-10 16:40:13](https://bsky.app/profile/reuters.com/post/3m7mklru6cd2b)
-
----
-
-@en.afp.com
-
-Volunteers help clean-up large quantities of bananas that washed up on the south coast of England after an incident in which a container ship capsized near the Isle of Wight. 
-
-The Baltic Kipper cargo ship lost 16 containers on Saturday, including eight containing bananas
-
-[2025-12-10 16:35:38](https://bsky.app/profile/en.afp.com/post/3m7mkdlm6dm2q)
+[2025-12-10 17:25:09](https://bsky.app/profile/reuters.com/post/3m7mn45gxte2r)
 
 ---
 
 @sokuho.news
 
-🔔ANNより【速報】です。
+🛎️JNNより【速報】です。
 
-【速報】国民・玉木代表が2025年度補正予算案に賛成の方針表明 成立公算大
-(16:30) #ニュース
+【速報】竹原市で倉庫が燃える火事 廃材を焼却中に燃え移ったか 現在も消火活動中 周辺への延焼は無い見込み 広島
+(2025-12-10 17:04:00) #ニュース
 
-[2025-12-10 16:35:20](https://bsky.app/profile/sokuho.news/post/3m7mkd2laz72r)
+[2025-12-10 17:19:52](https://bsky.app/profile/sokuho.news/post/3m7mmspbcdj2b)
+
+---
+
+@en.afp.com
+
+Brazil's lower house of Congress approves a bill that could slash former president Jair Bolsonaro's prison sentence for plotting a coup, after efforts by a lawmaker to disrupt the proceedings sparked chaos in parliament
+
+u.afp.com/S7AL
+
+[2025-12-10 17:16:21](https://bsky.app/profile/en.afp.com/post/3m7mmmfqa5k2d)
 
 ---
 
 @reuters.com
 
-USTR Greer says he's open to 'different treatment' of South Africa under trade initiative reut.rs/4986IwH
+Asian investors flock to Gulf debt in hunt for yield and growth reut.rs/4rPvUjN
 
-[2025-12-10 16:35:11](https://bsky.app/profile/reuters.com/post/3m7mkcsd4p62b)
-
----
-
-@nikkei.com
-
-国家公務員、冬のボーナス平均74万円　高市早苗首相は341万円（無料記事）
-www.nikkei.com/article/DGXZQO...
-
-#ニュース
-
-[2025-12-10 16:31:51](https://bsky.app/profile/nikkei.com/post/3m7mk4t5opg24)
+[2025-12-10 17:15:15](https://bsky.app/profile/reuters.com/post/3m7mmkhajru2i)
 
 ---
 
-@reuters.com
+@bbcnews-world-rss.bsky.social
 
-LIVE: IMF's Kristalina Georgieva holds a press conference in Beijing
+Thailand-Cambodia border conflict: US calls for end to hostilities as clashes enter third day
 
-International Monetary Fund’s Managing Director Kristalina Georgieva holds a press conference after holding talks with Chinese officials in Beijing.
+[2025-12-10 17:12:02](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7mmepwl6g2x)
 
-www.youtube.com/watch?v=BnR5...
+---
 
-[2025-12-10 16:31:24](https://bsky.app/profile/reuters.com/post/3m7mk3zwxb22f)
+@bbcnews-world-rss.bsky.social
+
+Ukraine 'ready for elections' if partners guarantee security, Zelensky says
+
+[2025-12-10 17:10:57](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7mmcrgi4e2b)
 
 ---
 
 @reuters.com
 
-How China Inc is marching into Vietnam amid US tariffs reut.rs/4pvQyEc
+Rupee tiptoes higher, near-tenor volatility touches six-month peak reut.rs/450Efr3
 
-[2025-12-10 16:30:30](https://bsky.app/profile/reuters.com/post/3m7mk2gnmue2i)
+[2025-12-10 17:10:16](https://bsky.app/profile/reuters.com/post/3m7mmbjgwm42i)
 
 ---
 
-@aljazeera.com
+@sokuho.news
 
-Kentucky Governor Andy Beshear said the shooting appeared to be an isolated incident rather than a mass shooting event.
+🛎️JNNより【速報】です。
 
-[2025-12-10 16:30:28](https://bsky.app/profile/aljazeera.com/post/3m7mk2effce27)
+【速報】竹原市で倉庫が燃える火事 現在も消火活動中 周辺への延焼は無い見込み けが人も無し 広島
+(2025-12-10 17:04:00) #ニュース
+
+[2025-12-10 17:05:50](https://bsky.app/profile/sokuho.news/post/3m7mlzltw6d25)
+
+---
+
+@reuters.com
+
+Venezuela's Machado will not receive Nobel Peace Prize in person, Nobel institute says reut.rs/44jVhjO
+
+[2025-12-10 17:05:11](https://bsky.app/profile/reuters.com/post/3m7mlygpcv723)
+
+---
+
+@reuters.com
+
+LIVE: Greek farmers attempt to block port
+
+Farmers from around Greece converge in Volos in attempt to block port.
+
+www.youtube.com/watch?v=ggA8...
+
+[2025-12-10 17:04:02](https://bsky.app/profile/reuters.com/post/3m7mlwewtx22f)
 
 ---
 
