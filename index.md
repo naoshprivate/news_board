@@ -1,9 +1,9 @@
-# [2025-12-10 09:30 updated](2025_12_10.md)
+# [2025-12-10 09:50 updated](2025_12_10.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Sierra Leone mining: Two young lives that ended in the search for gold <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7lsf7xakc2y" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-10 09:27:02)</span><span style="padding-right:50px;">Club Brugge players caught off guard by coach’s dismissal reut.rs/4iXqdfJ <a href="https://bsky.app/profile/reuters.com/post/3m7lsbzdt5a2i" target="_blank">reuters.com</a> (2025-12-10 09:25:15)</span><span style="padding-right:50px;">A mysterious interstellar comet has been taking a tour of our solar system in recent months, garnering intense interest from astronomers and space enthusiasts alike. <a href="https://bsky.app/profile/nbcnews.com/post/3m7lrzacca42x" target="_blank">nbcnews.com</a> (2025-12-10 09:20:20)</span><span style="padding-right:50px;">How long Britain could really fight for if war broke out tomorrow <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7lryykdn42y" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-10 09:20:12)</span><span style="padding-right:50px;">These dan dan noodles are a bowl of contentment. "You're not going to eat a dish like this every day. It's a pleasant indulgence." nyti.ms/4piyjBT <a href="https://bsky.app/profile/nytimes.com/post/3m7lrytos3z27" target="_blank">nytimes.com</a> (2025-12-10 09:20:07)</span>
+<span style="padding-right:50px;">JUST IN: Democrat Eileen Higgins has clinched victory in Miami’s mayoral runoff election, according to CNN and the Associated Press.   Higgins is the first Democrat to win the office in almost 30 years and the first woman ever elected mayor in the city.  Read more: bit.ly/48uJSAe <a href="https://bsky.app/profile/usatoday.com/post/3m7ltkrdci22f" target="_blank">usatoday.com</a> (2025-12-10 09:48:02)</span><span style="padding-right:50px;">Good morning, Asia. While you were sleeping, one of our most-read articles is Martin Wolf’s piece on why Britain and the EU are better off resisting dollar-based digital currencies on.ft.com/4qjD5iX <a href="https://bsky.app/profile/financialtimes.com/post/3m7ltkirevv25" target="_blank">financialtimes.com</a> (2025-12-10 09:47:53)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】岡山市のJR瀬戸大橋線・植松駅近くで建物火災「2階から火が出ている」と消防に通報【岡山】 (2025-12-10 09:39) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7ltivu74l2x" target="_blank">sokuho.news</a> (2025-12-10 09:47:00)</span><span style="padding-right:50px;">OpenAI taps Slack CEO Denise Dresser as chief revenue officer reut.rs/3MkJnA6 <a href="https://bsky.app/profile/reuters.com/post/3m7ltfqnfg62y" target="_blank">reuters.com</a> (2025-12-10 09:45:14)</span><span style="padding-right:50px;">Ukrainian President Volodymyr Zelensky has asked members of his political party to prepare legislation to hold elections despite the country’s war with Russia, he said.  It will be contingent on the United States and Europe providing security guarantees. <a href="https://bsky.app/profile/washingtonpost.com/post/3m7ltffzw6o2e" target="_blank">washingtonpost.com</a> (2025-12-10 09:45:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 51066.62 (🔺187.96 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47560.29 (🔻164.23 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23576.49 (🔺71.87 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.97 (🔻0.59 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3109.00 (🔺20.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.92 (🔺0.10 : 2025-12-10)</span>
+<span style="padding-right:50px;">NIKKEI: 50998.39 (🔺119.73 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47560.29 (🔻164.23 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23576.49 (🔺71.87 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.97 (🔻0.59 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3123.00 (🔺34.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.82 (🔺0.00 : 2025-12-10)</span>
   </div>
 </div>
 
@@ -32,97 +32,102 @@
 
 ## News Headlines
 
-1.  「ミステリアスな銀河系外彗星が太陽系を巡る」
-2.  「イギリスが戦争になったら、どれくらい戦うことができるのか」
-3.  「ダン・ダン麺は満足の味がする」
-4.  「アサヒGHDの社内情報がハッカー集団によって公開された」
-5.  「元選手のノア・コブがリヴァプールに完全移籍」
-6.  「アメリカの死刑囚18人目が処刑された」
+1. デモクラートがマイアミ市長に勝利　初の民主党員として
+2. 英・EUがドルベースデジタル通貨に反対するのは正解
+3. 岡山市で火事　2階から煙が出ている
+4. ウクライナ大統領が選挙を要求　米・EUの安全保障保証を条件
+5. オーストラリアが子どもにソーシャルメディアを禁止　世界で初
+6. 米国務省が中国を批判　レーダー照射は平和と安定に資さず
 
 ----
 
-@bbcnews-world-rss.bsky.social
+@usatoday.com
 
-Sierra Leone mining: Two young lives that ended in the search for gold
+<strong><span style="color: red;">JUST IN:</span> Democrat Eileen Higgins has clinched victory in Miami’s mayoral runoff election, according to CNN and the Associated Press. </strong><br><strong></strong><br><strong>Higgins is the first Democrat to win the office in almost 30 years and the first woman ever elected mayor in the city.</strong><br><strong></strong><br><strong>Read more: bit.ly/48uJSAe</strong>
 
-[2025-12-10 09:27:02](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7lsf7xakc2y)
+[2025-12-10 09:48:02](https://bsky.app/profile/usatoday.com/post/3m7ltkrdci22f)
+
+---
+
+@financialtimes.com
+
+Good morning, Asia. While you were sleeping, one of our most-read articles is Martin Wolf’s piece on why Britain and the EU are better off resisting dollar-based digital currencies on.ft.com/4qjD5iX
+
+[2025-12-10 09:47:53](https://bsky.app/profile/financialtimes.com/post/3m7ltkirevv25)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】岡山市のJR瀬戸大橋線・植松駅近くで建物火災「2階から火が出ている」と消防に通報【岡山】
+(2025-12-10 09:39) #ニュース
+
+[2025-12-10 09:47:00](https://bsky.app/profile/sokuho.news/post/3m7ltivu74l2x)
 
 ---
 
 @reuters.com
 
-Club Brugge players caught off guard by coach’s dismissal reut.rs/4iXqdfJ
+OpenAI taps Slack CEO Denise Dresser as chief revenue officer reut.rs/3MkJnA6
 
-[2025-12-10 09:25:15](https://bsky.app/profile/reuters.com/post/3m7lsbzdt5a2i)
-
----
-
-@nbcnews.com
-
-A mysterious interstellar comet has been taking a tour of our solar system in recent months, garnering intense interest from astronomers and space enthusiasts alike.
-
-[2025-12-10 09:20:20](https://bsky.app/profile/nbcnews.com/post/3m7lrzacca42x)
+[2025-12-10 09:45:14](https://bsky.app/profile/reuters.com/post/3m7ltfqnfg62y)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@washingtonpost.com
 
-How long Britain could really fight for if war broke out tomorrow
+Ukrainian President Volodymyr Zelensky has asked members of his political party to prepare legislation to hold elections despite the country’s war with Russia, he said.
 
-[2025-12-10 09:20:12](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7lryykdn42y)
+It will be contingent on the United States and Europe providing security guarantees.
 
----
-
-@nytimes.com
-
-These dan dan noodles are a bowl of contentment. "You're not going to eat a dish like this every day. It's a pleasant indulgence." nyti.ms/4piyjBT
-
-[2025-12-10 09:20:07](https://bsky.app/profile/nytimes.com/post/3m7lrytos3z27)
+[2025-12-10 09:45:03](https://bsky.app/profile/washingtonpost.com/post/3m7ltffzw6o2e)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@en.afp.com
 
-Ozzy the dog sets Guinness World record for longest canine tongue
+Australia banned young teenagers from social media on Wednesday, launching a world-first crackdown designed to unglue children from addictive scrolling on the likes of Facebook, Instagram and TikTok.
+u.afp.com/S7Mn
 
-[2025-12-10 09:17:00](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7lrtbmfh42s)
-
----
-
-@cnbc.com
-
-Wednesday's big stock stories: What’s likely to move the market in the next trading session
-
-[2025-12-10 09:17:00](https://bsky.app/profile/cnbc.com/post/3m7lrtbflol2x)
+[2025-12-10 09:45:01](https://bsky.app/profile/en.afp.com/post/3m7ltffhlbb2j)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@sokuho.news
 
-Jabalpur: Indian couple trolled over skin colour after wedding video goes viral
+🔔ANNより【速報】です。
 
-[2025-12-10 09:15:54](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7lrrcihsg25)
+【速報】中国のレーダー照射めぐり「平和と安定に資さず」 米国務省が中国を批判
+(09:39) #ニュース
+https://news.tv-asahi.co.jp/news_international/articles/000471950.html?display=full
 
----
-
-@nikkei.com
-
-アサヒGHDの社内情報、ハッカー集団「Qilin」が新たに公開か
-www.nikkei.com/article/DGXZQO...
- 
-ダークウェブ上に新たに公開された文書には社内会議用の事業説明資料や取引先との商談資料などがあります。個人情報の漏洩に関わる内容は確認できていません。
- 
-#ニュース
-
-[2025-12-10 09:15:50](https://bsky.app/profile/nikkei.com/post/3m7lrr6rzou2i)
+[2025-12-10 09:40:19](https://bsky.app/profile/sokuho.news/post/3m7lt4xde332b)
 
 ---
 
 @reuters.com
 
-Rapids fully acquire D Noah Cobb from Atlanta United reut.rs/4a1ABAJ
+Top Ukrainian commander: Troops hold part of Pokrovsk but have withdrawn from some positions reut.rs/4pyXtfO
 
-[2025-12-10 09:15:22](https://bsky.app/profile/reuters.com/post/3m7lrqdikjk24)
+[2025-12-10 09:40:18](https://bsky.app/profile/reuters.com/post/3m7lt4wl5l62y)
+
+---
+
+@cbsnews.com
+
+Florida carries out its 18th execution of the year, executing man convicted in 1989 murder.
+
+[2025-12-10 09:36:00](https://bsky.app/profile/cbsnews.com/post/3m7lsvapkus2j)
+
+---
+
+@reuters.com
+
+SpaceX to pursue 2026 IPO raising above $25 billion, source says reut.rs/48IC50x
+
+[2025-12-10 09:35:11](https://bsky.app/profile/reuters.com/post/3m7lstrifhg2o)
 
 ---
 
