@@ -1,9 +1,9 @@
-# [2025-12-10 22:50 updated](2025_12_10.md)
+# [2025-12-10 23:10 updated](2025_12_10.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Sophie Kinsella, the author behind the popular “Confessions of a Shopaholic,” the million-selling novel about a financial journalist who writes about money matters but fails miserably at managing her own, has died. She was 55. <a href="https://bsky.app/profile/apnews.com/post/3m7n72ewvwb2k" target="_blank">apnews.com</a> (2025-12-10 22:46:17)</span><span style="padding-right:50px;">Intel loses challenge against EU antitrust ruling but wins reduced fine reut.rs/3YqkxkN <a href="https://bsky.app/profile/reuters.com/post/3m7n6ylyefl2i" target="_blank">reuters.com</a> (2025-12-10 22:45:17)</span><span style="padding-right:50px;">The campaign to prevent and treat these diseases has seen great success thanks to a USAID program. Now that program is gone. n.pr/3KJ3iIq <a href="https://bsky.app/profile/npr.org/post/3m7n6xz4s3c2m" target="_blank">npr.org</a> (2025-12-10 22:44:58)</span><span style="padding-right:50px;">Daughter of Venezuela's opposition leader receives the Nobel Peace Prize on her behalf, as Machado, who lives in hiding, says she's on her way to Oslo https://cnn.it/4oNF6Td <a href="https://bsky.app/profile/cnn.com/post/3m7n6xftqp72x" target="_blank">cnn.com</a> (2025-12-10 22:44:37)</span><span style="padding-right:50px;">Here are Wednesday's biggest analyst calls: Nvidia, Amazon, PepsiCo, Roblox, SharkNinja, GE Vernova, Micron Technology & more <a href="https://bsky.app/profile/cnbc.com/post/3m7n6wkak7a2x" target="_blank">cnbc.com</a> (2025-12-10 22:44:09)</span>
+<span style="padding-right:50px;">Exclusive: Mark Zuckerberg, months into building one of the priciest teams in technology history, is getting personally involved in day-to-day work and pivoting Meta’s focus to an artificial intelligence model it can make money off of <a href="https://bsky.app/profile/bloomberg.com/post/3m7na6tlnea2d" target="_blank">bloomberg.com</a> (2025-12-10 23:06:41)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:青森県東方沖, 深さ:50km マグニチュード:4.3, 最大震度:1 📍https://www.google.com/maps?q=41.3,142.4&ll=41.3,142.4&z=7&t=h 地震発生日時:2025-12-10 23:01頃 (10倍速▶180s→18s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m7na4bl4242b" target="_blank">sokuho.news</a> (2025-12-10 23:05:14)</span><span style="padding-right:50px;">Thailand–Cambodia border clash tests Trump's tariff diplomacy reut.rs/3My9rYn <a href="https://bsky.app/profile/reuters.com/post/3m7na4bddrp2b" target="_blank">reuters.com</a> (2025-12-10 23:05:14)</span><span style="padding-right:50px;">Breaking News: Brad Lander, the New York City comptroller backed by Zohran Mamdani, is expected to announce a run for a House seat held by a Democrat. <a href="https://bsky.app/profile/nytimes.com/post/3m7na3canxi2r" target="_blank">nytimes.com</a> (2025-12-10 23:04:42)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  23時1分頃、青森県・北海道で最大震度1の地震を観測しました。 震源:青森県東方沖, 深さ:50km, 規模:M4.3 この地震による津波の心配はありません。 (2025-12-10 23:04:37) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/10/2025-12-10-23-01-38.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3m7na36zfcd2b" target="_blank">sokuho.news</a> (2025-12-10 23:04:38)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47560.29 (🔻164.23 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23576.49 (🔺71.88 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.97 (🔻0.59 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.60 (🔻0.22 : 2025-12-10)</span>
+<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47560.29 (🔻164.23 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23576.49 (🔺71.88 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.97 (🔻0.59 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.54 (🔻0.28 : 2025-12-10)</span>
   </div>
 </div>
 
@@ -32,103 +32,120 @@
 
 ## News Headlines
 
-1. 
-ソフィー・キンスラが死去　55歳で
-
-2. 
-新しい税制で企業に設備投資を促す
-
-3. 
-ベネズエラのマチャド氏、ノーベル平和賞を受賞
-
-4. 企業に大胆な設備投資を促す新税制創設へ
-
-5. 
-マリア・コリン・マチャド氏、ノーベル平和賞授賞式に出席できず
-
-6. 
-大川小学校の遺族が講演　災害への備えを進めてほしい
+1.  マーク・ザッカーバーグ氏がメタのAI開発に本格的に関わる
+2.  トランプ政権がボスニア・ヘルツェゴビナに介入
+3.  ペイパルチェックが衰退　紙幣送付をやめる政府
+4.  メロニ政権がイタリアで現金決済を2倍にする
+5.  イタリアの料理がUNESCOの文化遺産に登録
+6.  ベルリンのノーベル賞をマリア・コリーナ・マチャドの娘が受賞
 
 ----
 
-@apnews.com
+@bloomberg.com
 
-Sophie Kinsella, the author behind the popular “Confessions of a Shopaholic,” the million-selling novel about a financial journalist who writes about money matters but fails miserably at managing her own, has died. She was 55.
+Exclusive: Mark Zuckerberg, months into building one of the priciest teams in technology history, is getting personally involved in day-to-day work and pivoting Meta’s focus to an artificial intelligence model it can make money off of
 
-[2025-12-10 22:46:17](https://bsky.app/profile/apnews.com/post/3m7n72ewvwb2k)
+[2025-12-10 23:06:41](https://bsky.app/profile/bloomberg.com/post/3m7na6tlnea2d)
+
+---
+
+@sokuho.news
+
+🔔防災科研より【強震モニタ】動画です。
+
+震源:青森県東方沖, 深さ:50km
+マグニチュード:4.3, 最大震度:1
+📍https://www.google.com/maps?q=41.3,142.4&ll=41.3,142.4&z=7&t=h
+地震発生日時:2025-12-10 23:01頃
+(10倍速▶180s→18s) #地震
+
+[2025-12-10 23:05:14](https://bsky.app/profile/sokuho.news/post/3m7na4bl4242b)
 
 ---
 
 @reuters.com
 
-Intel loses challenge against EU antitrust ruling but wins reduced fine reut.rs/3YqkxkN
+Thailand–Cambodia border clash tests Trump's tariff diplomacy reut.rs/3My9rYn
 
-[2025-12-10 22:45:17](https://bsky.app/profile/reuters.com/post/3m7n6ylyefl2i)
-
----
-
-@npr.org
-
-The campaign to prevent and treat these diseases has seen great success thanks to a USAID program. Now that program is gone. n.pr/3KJ3iIq
-
-[2025-12-10 22:44:58](https://bsky.app/profile/npr.org/post/3m7n6xz4s3c2m)
+[2025-12-10 23:05:14](https://bsky.app/profile/reuters.com/post/3m7na4bddrp2b)
 
 ---
 
-@cnn.com
+@nytimes.com
 
-Daughter of Venezuela's opposition leader receives the Nobel Peace Prize on her behalf, as Machado, who lives in hiding, says she's on her way to Oslo https://cnn.it/4oNF6Td
+<strong><span style="color: red;">Breaking News</span>: Brad Lander, the New York City comptroller backed by Zohran Mamdani, is expected to announce a run for a House seat held by a Democrat.</strong>
 
-[2025-12-10 22:44:37](https://bsky.app/profile/cnn.com/post/3m7n6xftqp72x)
-
----
-
-@cnbc.com
-
-Here are Wednesday's biggest analyst calls: Nvidia, Amazon, PepsiCo, Roblox, SharkNinja, GE Vernova, Micron Technology & more
-
-[2025-12-10 22:44:09](https://bsky.app/profile/cnbc.com/post/3m7n6wkak7a2x)
+[2025-12-10 23:04:42](https://bsky.app/profile/nytimes.com/post/3m7na3canxi2r)
 
 ---
 
-@en.afp.com
+@sokuho.news
 
-#UPDATE Venezuela's opposition leader Maria Corina Machado, who won this year's Nobel Peace Prize, on Wednesday condemned the "state terrorism" of Venezuela's government, in a speech delivered by Machado's daughter who accepted the prize in her absence in Oslo
+🔔気象庁より【地震速報】です。
 
-[2025-12-10 22:43:12](https://bsky.app/profile/en.afp.com/post/3m7n6uuk6o22n)
+23時1分頃、青森県・北海道で最大震度1の地震を観測しました。
+震源:青森県東方沖, 深さ:50km, 規模:M4.3
+この地震による津波の心配はありません。
+(2025-12-10 23:04:37) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/10/2025-12-10-23-01-38.html?xlarge_image=1
 
----
-
-@cnbc.com
-
-Social Security beneficiaries' tax bills may change due to recent legislation. What to know
-
-[2025-12-10 22:43:03](https://bsky.app/profile/cnbc.com/post/3m7n6ulk56k2p)
+[2025-12-10 23:04:38](https://bsky.app/profile/sokuho.news/post/3m7na36zfcd2b)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-ふるさと納税 控除額に上限設ける方向で最終調整 政府・与党
-https://news.web.nhk/newsweb/na/na-k10015000391000
+箱根駅伝トークイベント 青山学院 原監督「輝け大作戦」掲げる
+https://news.web.nhk/newsweb/na/na-k10015000461000
 
-[2025-12-10 22:42:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7n6suj7fz2b)
-
----
-
-@reuters.com
-
-Hims and Hers to offer weight-loss treatments in UK reut.rs/4iXWfbC
-
-[2025-12-10 22:40:32](https://bsky.app/profile/reuters.com/post/3m7n6q3nihk2o)
+[2025-12-10 23:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7n7ygi3wr2v)
 
 ---
 
-@nbcnews.com
+@sokuho.news
 
-Govs. Josh Shapiro of Pennsylvania and Spencer Cox of Utah discuss high-profile cases of political violence in the U.S. in a wide-ranging interview with "Today" co-anchor Savannah Guthrie. 
+🚨地震発生中❗❗
 
-[2025-12-10 22:40:09](https://bsky.app/profile/nbcnews.com/post/3m7n6pftwd723)
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像4🈡
+(2025-12-10 23:02:32) #緊急地震速報
+
+[2025-12-10 23:02:59](https://bsky.app/profile/sokuho.news/post/3m7n7ya5ym22s)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗
+
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像3
+(2025-12-10 23:02:28) #緊急地震速報
+
+[2025-12-10 23:02:37](https://bsky.app/profile/sokuho.news/post/3m7n7xllk6u2v)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗
+
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像2
+(2025-12-10 23:02:08) #緊急地震速報
+
+[2025-12-10 23:02:15](https://bsky.app/profile/sokuho.news/post/3m7n7wvx2xq2r)
+
+---
+
+@financialtimes.com
+
+A group of US Maga lobbyists has helped trigger a dramatic intervention by the Trump administration in the Balkan state of Bosnia and Herzegovina, upending years of US-led diplomacy in the volatile region in south-eastern Europe on.ft.com/4iSHIOj
+
+[2025-12-10 23:02:06](https://bsky.app/profile/financialtimes.com/post/3m7n7wnibtg25)
 
 ---
 
