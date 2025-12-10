@@ -1,9 +1,9 @@
-# [2025-12-11 06:30 updated](2025_12_11.md)
+# [2025-12-11 06:50 updated](2025_12_11.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">US allows negotiations on Lukoil's foreign assets until January 17 reut.rs/4a9PEbz <a href="https://bsky.app/profile/reuters.com/post/3m7nyowkaqj2k" target="_blank">reuters.com</a> (2025-12-11 06:25:10)</span><span style="padding-right:50px;">Jessie Buckley says she wasn’t surprised that she got pregnant right after she finished shooting “Hamnet.” The film — starring Paul Mescal as William Shakespeare and Buckley as his wife, Agnes — tells the story of a couple grieving the loss of their only son.  nyti.ms/44lMopW <a href="https://bsky.app/profile/nytimes.com/post/3m7nyoqvl372e" target="_blank">nytimes.com</a> (2025-12-11 06:25:04)</span><span style="padding-right:50px;">Under a new Trump administration plan, tourists from Britain, France, Japan and dozens of other countries eligible for visa-free travel to the United States will be required to disclose their social media histories from the last five years. u.afp.com/S7mM <a href="https://bsky.app/profile/en.afp.com/post/3m7nyonueko26" target="_blank">en.afp.com</a> (2025-12-11 06:25:01)</span><span style="padding-right:50px;">House Republicans are vowing to vote on a health care plan next week before leaving for the holidays.   They just can’t agree on what should be in it. <a href="https://bsky.app/profile/nbcnews.com/post/3m7nyfvn4hn23" target="_blank">nbcnews.com</a> (2025-12-11 06:20:07)</span><span style="padding-right:50px;">Miami mayor-elect Eileen Higgins believes the key to her election victory Tuesday — the first for a Democrat in almost 30 years — was her outreach to people of all political persuasions.   <a href="https://bsky.app/profile/cbsnews.com/post/3m7nyfp6ln52a" target="_blank">cbsnews.com</a> (2025-12-11 06:20:00)</span>
+<span style="padding-right:50px;">The Trump administration's changes to U.S. Citizenship and Immigration Services are taking an axe to the agency's traditional mission of ensuring people lawfully immigrate and stay in the U.S. n.pr/3MqSPC0 <a href="https://bsky.app/profile/npr.org/post/3m7nzzwobli2e" target="_blank">npr.org</a> (2025-12-11 06:49:13)</span><span style="padding-right:50px;">中国「自衛隊が挑発」は本当か　日本は反論、訓練の危険性こそ本質 www.nikkei.com/article/DGXZQO...  中国人民解放軍は、自衛隊機へのレーダー照射を巡りSNSで正当化。  しかし、なぜ日本の離島に近い場所で訓練する必要があったのかという点に触れていません。 <a href="https://bsky.app/profile/nikkei.com/post/3m7nztwbbnf24" target="_blank">nikkei.com</a> (2025-12-11 06:45:52)</span><span style="padding-right:50px;">US bank regulator says large banks engaged in 'debanking' of disfavored industries reut.rs/44Hp9XF <a href="https://bsky.app/profile/reuters.com/post/3m7nzt4fybg23" target="_blank">reuters.com</a> (2025-12-11 06:45:24)</span><span style="padding-right:50px;">Oracle shares slide as data centre spending mounts on.ft.com/3KECeKo <a href="https://bsky.app/profile/financialtimes.com/post/3m7nzrf2g3h2q" target="_blank">financialtimes.com</a> (2025-12-11 06:44:26)</span><span style="padding-right:50px;">President Donald Trump would add to his already considerable imprint on the Supreme Court if he gets to pick another justice, but he's not trying to push either of the court's two oldest members out the door.  Read more: bit.ly/48z8S9m <a href="https://bsky.app/profile/usatoday.com/post/3m7nzohougk2h" target="_blank">usatoday.com</a> (2025-12-11 06:42:48)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 48057.75 (🔺483.79 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23654.16 (🔺118.16 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.78 (🔻1.21 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.05 (🔻0.78 : 2025-12-10)</span>
+<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 48057.75 (🔺483.79 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23654.16 (🔺118.16 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.78 (🔻1.21 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.04 (🔻0.78 : 2025-12-10)</span>
   </div>
 </div>
 
@@ -32,102 +32,99 @@
 
 ## News Headlines
 
-以下の6つのニュースの見出しを日本語に翻訳します。
-
-1. 米国はロシアの外国資産に対する交渉を1月17日まで許可
-2. 映画「ハムレット」出演のジェシー・バッキーが妊娠したのは意外ではなく
-3. 米国が外国人旅行者に5年間のSNS履歴を提示させる計画を発表
-4. 米国議会共和党員が健康保険の計画を提出することを表明
-5. エリオット・ムースの企業スペースXが歴史的大規模公募を計画
-6. 米国がベネズエラのタンカーを拿捕
+* 「米国国籍取得の法的障壁を高める」
+* 「中国人民解放軍の訓練が日本に及ぼす危険性」
+* 「米大手銀行が不利な業界に資金供給を制限」
+* 「オラクル社の株価が低下」
+* 「スーパーコートの判決が米国政治に大きな影響を与える」
+* 「バイオレンスの問題をめぐる最高裁の裁判」
 
 ----
 
+@npr.org
+
+The Trump administration's changes to U.S. Citizenship and Immigration Services are taking an axe to the agency's traditional mission of ensuring people lawfully immigrate and stay in the U.S. n.pr/3MqSPC0
+
+[2025-12-11 06:49:13](https://bsky.app/profile/npr.org/post/3m7nzzwobli2e)
+
+---
+
+@nikkei.com
+
+中国「自衛隊が挑発」は本当か　日本は反論、訓練の危険性こそ本質
+www.nikkei.com/article/DGXZQO...
+
+中国人民解放軍は、自衛隊機へのレーダー照射を巡りSNSで正当化。
+
+しかし、なぜ日本の離島に近い場所で訓練する必要があったのかという点に触れていません。
+
+[2025-12-11 06:45:52](https://bsky.app/profile/nikkei.com/post/3m7nztwbbnf24)
+
+---
+
 @reuters.com
 
-US allows negotiations on Lukoil's foreign assets until January 17 reut.rs/4a9PEbz
+US bank regulator says large banks engaged in 'debanking' of disfavored industries reut.rs/44Hp9XF
 
-[2025-12-11 06:25:10](https://bsky.app/profile/reuters.com/post/3m7nyowkaqj2k)
-
----
-
-@nytimes.com
-
-Jessie Buckley says she wasn’t surprised that she got pregnant right after she finished shooting “Hamnet.” The film — starring Paul Mescal as William Shakespeare and Buckley as his wife, Agnes — tells the story of a couple grieving the loss of their only son.  nyti.ms/44lMopW
-
-[2025-12-11 06:25:04](https://bsky.app/profile/nytimes.com/post/3m7nyoqvl372e)
+[2025-12-11 06:45:24](https://bsky.app/profile/reuters.com/post/3m7nzt4fybg23)
 
 ---
 
-@en.afp.com
+@financialtimes.com
 
-Under a new Trump administration plan, tourists from Britain, France, Japan and dozens of other countries eligible for visa-free travel to the United States will be required to disclose their social media histories from the last five years.
-u.afp.com/S7mM
+Oracle shares slide as data centre spending mounts on.ft.com/3KECeKo
 
-[2025-12-11 06:25:01](https://bsky.app/profile/en.afp.com/post/3m7nyonueko26)
+[2025-12-11 06:44:26](https://bsky.app/profile/financialtimes.com/post/3m7nzrf2g3h2q)
+
+---
+
+@usatoday.com
+
+President Donald Trump would add to his already considerable imprint on the Supreme Court if he gets to pick another justice, but he's not trying to push either of the court's two oldest members out the door.
+
+Read more: bit.ly/48z8S9m
+
+[2025-12-11 06:42:48](https://bsky.app/profile/usatoday.com/post/3m7nzohougk2h)
+
+---
+
+@financialtimes.com
+
+Iceland boss included in 25 new Labour peers on.ft.com/3MnynSy
+
+[2025-12-11 06:42:09](https://bsky.app/profile/financialtimes.com/post/3m7nznbm6hq2o)
+
+---
+
+@reuters.com
+
+Dropbox CFO Timothy Regan to step down reut.rs/44k5hJP
+
+[2025-12-11 06:40:34](https://bsky.app/profile/reuters.com/post/3m7nzkhesj62p)
 
 ---
 
 @nbcnews.com
 
-House Republicans are vowing to vote on a health care plan next week before leaving for the holidays. 
+Researchers from the National Institute of Environmental Health Sciences identified a compound that affects an area of the brain that triggers hormone production.
 
-They just can’t agree on what should be in it.
+[2025-12-11 06:40:09](https://bsky.app/profile/nbcnews.com/post/3m7nzjpdvgd2k)
 
-[2025-12-11 06:20:07](https://bsky.app/profile/nbcnews.com/post/3m7nyfvn4hn23)
+---
+
+@nytimes.com
+
+The Supreme Court on Wednesday struggled with the question of how states should assess intellectual disabilities to decide which capital defendants are spared the death penalty.
+
+[2025-12-11 06:40:07](https://bsky.app/profile/nytimes.com/post/3m7nzjnp5732s)
 
 ---
 
 @cbsnews.com
 
-Miami mayor-elect Eileen Higgins believes the key to her election victory Tuesday — the first for a Democrat in almost 30 years — was her outreach to people of all political persuasions.
+Republican moderates in the House revolted against leadership on Wednesday as they seek to force a vote on expiring health insurance premium tax credits — an issue that could have major political ramifications for the party in next year's elections. 
 
-
-
-[2025-12-11 06:20:00](https://bsky.app/profile/cbsnews.com/post/3m7nyfp6ln52a)
-
----
-
-@wsj.com
-
-Many travelers crave outdoorsy adventure but not the headache of planning a complex hiking or fishing trip. Solution: These hotels, where activities are folded into the price. on.wsj.com/495Jvw4
-
-[2025-12-11 06:19:29](https://bsky.app/profile/wsj.com/post/3m7nyercjw62c)
-
----
-
-@postopinions.bsky.social
-
-Science fiction writer @nealstephenson.bsky.social predicted the metaverse, wearable tech and artificial intelligence long before those technologies arrived. What does he think of it all now?
-
-Listen to the latest episode of Reasonably Optimistic from @mcmegan.bsky.social:
-https://wapo.st/4iNqcLc
-
-[2025-12-11 06:18:07](https://bsky.app/profile/postopinions.bsky.social/post/3m7nyccx64i2y)
-
----
-
-@yahoofinance.com
-
-Fed Chair Jerome Powell says that spending on data centers and AI "has been holding up business investment."
-
-[2025-12-11 06:16:22](https://bsky.app/profile/yahoofinance.com/post/3m7ny76ryy22r)
-
----
-
-@reuters.com
-
-Homeland Security to buy Boeing 737s for deportations, Washington Post reports reut.rs/4iQ1j1D
-
-[2025-12-11 06:15:21](https://bsky.app/profile/reuters.com/post/3m7ny5eusjd2x)
-
----
-
-@washingtonpost.com
-
-After years of denials, President Trump confirmed that he used the phrase “shithole countries” in 2018 to insult several countries with majority non-White populations, including Haiti, El Salvador and Somalia. 
-
-[2025-12-11 06:15:07](https://bsky.app/profile/washingtonpost.com/post/3m7ny4x7cqt2g)
+[2025-12-11 06:40:01](https://bsky.app/profile/cbsnews.com/post/3m7nzjhqd332t)
 
 ---
 
