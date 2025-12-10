@@ -1,9 +1,9 @@
-# [2025-12-10 10:10 updated](2025_12_10.md)
+# [2025-12-10 10:30 updated](2025_12_10.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Australia’s social media ban for youths took effect, a landmark move that’s drawn global attention at a time governments are increasingly enacting rules to shield minors from toxic content and cyberbullying. <a href="https://bsky.app/profile/bloomberg.com/post/3m7lulhazrk2f" target="_blank">bloomberg.com</a> (2025-12-10 10:06:19)</span><span style="padding-right:50px;">Coal’s future in Asia is looking brighter, as the top-consuming region’s efforts to shift to cleaner energy suffer a series of setbacks <a href="https://bsky.app/profile/bloomberg.com/post/3m7lui4rln42d" target="_blank">bloomberg.com</a> (2025-12-10 10:04:28)</span><span style="padding-right:50px;">NEW: Eileen Higgins was elected Miami's next mayor on Tuesday, per AP, making her the first Democrat to win the post in nearly 30 years and defeating President Trump's endorsed pick. <a href="https://bsky.app/profile/axios.com/post/3m7ludz5z3k2c" target="_blank">axios.com</a> (2025-12-10 10:02:10)</span><span style="padding-right:50px;">In a K-shaped economy where the “have-nots” are increasingly falling behind the “haves﻿,” the labor market is trending toward a similar fate.  <a href="https://bsky.app/profile/cnn.com/post/3m7ludru5ou2v" target="_blank">cnn.com</a> (2025-12-10 10:02:02)</span><span style="padding-right:50px;">ゼレンスキー氏、大統領選挙の実施方針を表明　トランプ氏の圧力受け www.nikkei.com/article/DGXZQO...   ウクライナは現在、ロシアの侵略に伴って戒厳令を敷いており、選挙を延期しています。   プーチン大統領は「ゼレンスキー氏は国家元首としての正統性を失っている」と主張してきました。反ロシア色の薄い候補を当選させるシナリオ。ロシアに融和姿勢をとるトランプ大統領からも早期実施を求められていました。   #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m7ludhi7mr2m" target="_blank">nikkei.com</a> (2025-12-10 10:01:51)</span>
+<span style="padding-right:50px;">Eileen Higgins will be the next mayor of the city of Miami, according to a projection from CNN’s Decision Desk, breaking a nearly 30-year Republican streak in holding the nonpartisan seat. https://cnn.it/3KKGzLX <a href="https://bsky.app/profile/cnn.com/post/3m7lvnti3nv2b" target="_blank">cnn.com</a> (2025-12-10 10:25:33)</span><span style="padding-right:50px;">中国軍戦闘機のレーダー照射 米国務省“地域の平和に資さず” https://news.web.nhk/newsweb/na/na-k10014999661000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7lvl7p6na2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-10 10:24:03)</span><span style="padding-right:50px;">China adds domestic AI chips to official procurement list for first time on.ft.com/3Mqw9Sh <a href="https://bsky.app/profile/financialtimes.com/post/3m7lvh76n3r2w" target="_blank">financialtimes.com</a> (2025-12-10 10:21:50)</span><span style="padding-right:50px;">FDA probes deaths likely related to COVID vaccines across age groups reut.rs/4oOorz1 <a href="https://bsky.app/profile/reuters.com/post/3m7lveh3l4f24" target="_blank">reuters.com</a> (2025-12-10 10:20:18)</span><span style="padding-right:50px;">Dozens of vulture carcasses, left decomposing for days outside a Catholic school in Ohio while agencies pointed fingers over who was responsible for cleaning them up, were believed to have been infected with bird flu, health officials said on Monday. <a href="https://bsky.app/profile/nytimes.com/post/3m7lvdywccb2b" target="_blank">nytimes.com</a> (2025-12-10 10:20:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50810.38 (🔻68.28 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47560.29 (🔻164.23 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23576.49 (🔺71.87 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.97 (🔻0.59 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3122.00 (🔺33.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.70 (🔻0.12 : 2025-12-10)</span>
+<span style="padding-right:50px;">NIKKEI: 50673.09 (🔻205.57 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47560.29 (🔻164.23 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23576.49 (🔺71.87 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.97 (🔻0.59 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3105.00 (🔺16.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.73 (🔻0.09 : 2025-12-10)</span>
   </div>
 </div>
 
@@ -32,99 +32,96 @@
 
 ## News Headlines
 
-1.  アストラリアの若者に禁止令　ソーシャルメディアの利用を制限
-2.  アジアにおける石炭の需給状況が改善
-3.  ウクライナの大統領　選挙実施を目指す
-4.  ドナルド・トランプ氏　ロンドン市長を批判
-5.  スペースX、IPOを2026年に実施予定
-6.  米国務省　中国を平和と安定を守るのではなく、レーダー照射を批判
+1. 米州で初めての女性市長に選出されるエイリーン・ヒギンズ氏
+2. 中国軍が米国に向けたレーダー照射　「地域の平和に資さず」
+3. 30年ぶりの民主党の候補者が米マイアミ市長に選出
+4. ウクライナ大統領が選挙実施を発表　ロシアの圧力に反対
+5. アメリカのFDAがCOVID-19ワクチンに関連した死亡事件を調査
+6. SpaceXがIPOを計画　30億ドル超の資金調達を目指す
 
 ----
 
-@bloomberg.com
-
-Australia’s social media ban for youths took effect, a landmark move that’s drawn global attention at a time governments are increasingly enacting rules to shield minors from toxic content and cyberbullying.
-
-[2025-12-10 10:06:19](https://bsky.app/profile/bloomberg.com/post/3m7lulhazrk2f)
-
----
-
-@bloomberg.com
-
-Coal’s future in Asia is looking brighter, as the top-consuming region’s efforts to shift to cleaner energy suffer a series of setbacks
-
-[2025-12-10 10:04:28](https://bsky.app/profile/bloomberg.com/post/3m7lui4rln42d)
-
----
-
-@axios.com
-
-NEW: Eileen Higgins was elected Miami's next mayor on Tuesday, per AP, making her the first Democrat to win the post in nearly 30 years and defeating President Trump's endorsed pick.
-
-[2025-12-10 10:02:10](https://bsky.app/profile/axios.com/post/3m7ludz5z3k2c)
-
----
-
 @cnn.com
 
-In a K-shaped economy where the “have-nots” are increasingly falling behind the “haves﻿,” the labor market is trending toward a similar fate. 
+Eileen Higgins will be the next mayor of the city of Miami, according to a projection from CNN’s Decision Desk, breaking a nearly 30-year Republican streak in holding the nonpartisan seat. https://cnn.it/3KKGzLX
 
-[2025-12-10 10:02:02](https://bsky.app/profile/cnn.com/post/3m7ludru5ou2v)
+[2025-12-10 10:25:33](https://bsky.app/profile/cnn.com/post/3m7lvnti3nv2b)
 
 ---
 
-@nikkei.com
+@nhknewsunofficial.bsky.social
 
-ゼレンスキー氏、大統領選挙の実施方針を表明　トランプ氏の圧力受け
-www.nikkei.com/article/DGXZQO...
- 
-ウクライナは現在、ロシアの侵略に伴って戒厳令を敷いており、選挙を延期しています。
- 
-プーチン大統領は「ゼレンスキー氏は国家元首としての正統性を失っている」と主張してきました。反ロシア色の薄い候補を当選させるシナリオ。ロシアに融和姿勢をとるトランプ大統領からも早期実施を求められていました。
- 
-#ニュース
+中国軍戦闘機のレーダー照射 米国務省“地域の平和に資さず”
+https://news.web.nhk/newsweb/na/na-k10014999661000
 
-[2025-12-10 10:01:51](https://bsky.app/profile/nikkei.com/post/3m7ludhi7mr2m)
+[2025-12-10 10:24:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7lvl7p6na2w)
+
+---
+
+@financialtimes.com
+
+China adds domestic AI chips to official procurement list for first time on.ft.com/3Mqw9Sh
+
+[2025-12-10 10:21:50](https://bsky.app/profile/financialtimes.com/post/3m7lvh76n3r2w)
 
 ---
 
 @reuters.com
 
-Anglo American, Teck Resources shareholders approve mining merger reut.rs/3MsN7Q3
+FDA probes deaths likely related to COVID vaccines across age groups reut.rs/4oOorz1
 
-[2025-12-10 10:01:13](https://bsky.app/profile/reuters.com/post/3m7lucdtxdv24)
-
----
-
-@aljazeera.com
-
-Donald Trump renews criticism of London's Mayor Khan, citing immigration and governance issues.
-
-[2025-12-10 10:01:04](https://bsky.app/profile/aljazeera.com/post/3m7luc35fbt27)
+[2025-12-10 10:20:18](https://bsky.app/profile/reuters.com/post/3m7lveh3l4f24)
 
 ---
 
-@apnews.com
+@nytimes.com
 
-Stowe Mountain Rescue in Vermont has noticed a troubling trend among skiers. Influenced by social media, inexperienced skiers are venturing out of bounds, getting lost and needing rescue. 
+Dozens of vulture carcasses, left decomposing for days outside a Catholic school in Ohio while agencies pointed fingers over who was responsible for cleaning them up, were believed to have been infected with bird flu, health officials said on Monday.
 
-[2025-12-10 10:00:45](https://bsky.app/profile/apnews.com/post/3m7lubiwzli23)
-
----
-
-@usatoday.com
-
-Pamela Anderson is finally revealing details about her relationship with Liam Neeson and addressing where she and her "Naked Gun" costar stand.
-
-[2025-12-10 10:00:43](https://bsky.app/profile/usatoday.com/post/3m7lubgo6jj2h)
+[2025-12-10 10:20:03](https://bsky.app/profile/nytimes.com/post/3m7lvdywccb2b)
 
 ---
 
-@cnbc.com
+@cbsnews.com
 
-Vanguard is the latest mutual fund firm to offer a target-date fund with an annuity option built in. 
+Eileen Higgins wins Miami mayoral runoff, breaking 30-year Democratic drought.
 
-[2025-12-10 10:00:35](https://bsky.app/profile/cnbc.com/post/3m7lub7cfn42n)
+[2025-12-10 10:18:01](https://bsky.app/profile/cbsnews.com/post/3m7lvaehjfc2t)
+
+---
+
+@cnn.com
+
+An Army gynecologist accused of sexual misconduct by dozens of his former patients is officially charged with allegedly recording his patients, along with several other related charges, the Army’s Office of Special Trial Counsel said. 
+
+[2025-12-10 10:15:04](https://bsky.app/profile/cnn.com/post/3m7lv345zg626)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+高市首相動静 2025年12月9日
+https://news.web.nhk/newsweb/na/na-k10014999651000
+
+[2025-12-10 10:12:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7luvr2jlt2y)
+
+---
+
+@bloomberg.com
+
+Trump decided to let Nvidia sell its H200 AI chips to China after concluding the move carried a lower security risk because the company’s Chinese archrival, Huawei, already offers AI systems with comparable performance, sources say. bloom.bg/4rUViVB
+
+📷: Graeme Sloan/Bloomberg
+
+[2025-12-10 10:11:30](https://bsky.app/profile/bloomberg.com/post/3m7luupuajt2p)
+
+---
+
+@reuters.com
+
+Shells of unknown origin land near military airport in Damascus, Syrian media says reut.rs/492lDJF
+
+[2025-12-10 10:10:20](https://bsky.app/profile/reuters.com/post/3m7lusncj3c2x)
 
 ---
 
