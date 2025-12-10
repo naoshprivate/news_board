@@ -1,9 +1,9 @@
-# [2025-12-11 00:30 updated](2025_12_11.md)
+# [2025-12-11 00:50 updated](2025_12_11.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">A federal judge on Wednesday approved the unsealing of documents from the investigation and criminal prosecution of accused sex trafficker Jeffrey Epstein. https://cnn.it/3YhiYWq <a href="https://bsky.app/profile/cnn.com/post/3m7neptmisj2t" target="_blank">cnn.com</a> (2025-12-11 00:27:46)</span><span style="padding-right:50px;">Venezuelan opposition leader Maria Corina Machado is confirmed as safe and heading to Oslo, as her daughter accepts the Nobel Peace Prize on her behalf. #AJStartHere's @sandragathmann.bsky.social explains ⤵️ <a href="https://bsky.app/profile/aljazeera.com/post/3m7nepoehq22o" target="_blank">aljazeera.com</a> (2025-12-11 00:27:40)</span><span style="padding-right:50px;">“I eat this ALL THE TIME. Never get sick of it.” This delicious meal comes together in under 30 minutes and requires ingredients you probably already have in your pantry. nyti.ms/48syCEk <a href="https://bsky.app/profile/nytimes.com/post/3m7neom4znw2s" target="_blank">nytimes.com</a> (2025-12-11 00:27:05)</span><span style="padding-right:50px;">Judge rules Epstein grand jury records from 2019 can be released <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7nelsegx627" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-11 00:25:30)</span><span style="padding-right:50px;">EU sustainability cutbacks make low-carbon leaders harder to spot reut.rs/3KpCmgR <a href="https://bsky.app/profile/reuters.com/post/3m7neliabad2r" target="_blank">reuters.com</a> (2025-12-11 00:25:20)</span>
+<span style="padding-right:50px;">Exclusive: DHS signed a contract worth nearly $140 million to purchase six Boeing 737 planes for deportations.  ICE has long relied on charter planes to carry out deportation flights, but the agency has broader plans, two officials said.  <a href="https://bsky.app/profile/washingtonpost.com/post/3m7nfvpxliv24" target="_blank">washingtonpost.com</a> (2025-12-11 00:48:57)</span><span style="padding-right:50px;">SpaceX preps a 2026 IPO, potentially the largest ever. <a href="https://bsky.app/profile/axios.com/post/3m7nfvpguv22p" target="_blank">axios.com</a> (2025-12-11 00:48:57)</span><span style="padding-right:50px;">Nigerian oil firms strike flare-gas deals to curb emissions, boost energy reut.rs/44VgnVR <a href="https://bsky.app/profile/reuters.com/post/3m7nfp5jj222o" target="_blank">reuters.com</a> (2025-12-11 00:45:17)</span><span style="padding-right:50px;">The former “Real Housewives of Salt Lake City” star will serve the remainder of her sentence either in home confinement or at a halfway house, officials said. <a href="https://bsky.app/profile/forbes.com/post/3m7nfor6qgn2w" target="_blank">forbes.com</a> (2025-12-11 00:45:03)</span><span style="padding-right:50px;">This stock is moving away from IT and into AI and is breaking out. How to capture gains with options <a href="https://bsky.app/profile/cnbc.com/post/3m7nfo372q324" target="_blank">cnbc.com</a> (2025-12-11 00:44:41)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47677.96 (🔺104.00 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23528.33 (🔻7.67 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.93 (🔻1.06 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.45 (🔻0.38 : 2025-12-10)</span>
+<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47736.41 (🔺162.45 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23512.25 (🔻23.75 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.34 (🔻1.65 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.48 (🔻0.34 : 2025-12-10)</span>
   </div>
 </div>
 
@@ -32,94 +32,98 @@
 
 ## News Headlines
 
-1. エピスタインの裁判のgrand juryの記録が公開される
-2. マリア・コリーナ・マハダ氏、ノーベル平和賞受賞にノルウェーで式に出席する
-3. 最高裁判所、米国政府の国民警衛隊をLAに派遣した命令を無効に
-4. エピスタインの裁判のgrand juryの証言が公開される
-5. ルーブル美術館での宝物強盗、避けられた警備のミスが原因
-6. 米国政府、エピスタインの裁判のgrand juryの証言を公開することを許可
+1. DHSがボーイング737機6機を140億ドルで購入
+2. スペースX、2026年に最大のIPOを計画
+3. ニュース
+4. フランスバイオテクノロジー企業、エリ・リリーの買収計画に関する噂で株価が上昇
+5. 米国政府、外国人観光客に5年間のSNSの記録を提出することを要求
+6. CBSの夕刊ニュースの新しいアンカーにトニー・ドコピルを任命
 
 ----
 
-@cnn.com
+@washingtonpost.com
 
-A federal judge on Wednesday approved the unsealing of documents from the investigation and criminal prosecution of accused sex trafficker Jeffrey Epstein. https://cnn.it/3YhiYWq
+Exclusive: DHS signed a contract worth nearly $140 million to purchase six Boeing 737 planes for deportations.
 
-[2025-12-11 00:27:46](https://bsky.app/profile/cnn.com/post/3m7neptmisj2t)
+ICE has long relied on charter planes to carry out deportation flights, but the agency has broader plans, two officials said. 
 
----
-
-@aljazeera.com
-
-Venezuelan opposition leader Maria Corina Machado is confirmed as safe and heading to Oslo, as her daughter accepts the Nobel Peace Prize on her behalf. #AJStartHere's @sandragathmann.bsky.social explains ⤵️
-
-[2025-12-11 00:27:40](https://bsky.app/profile/aljazeera.com/post/3m7nepoehq22o)
+[2025-12-11 00:48:57](https://bsky.app/profile/washingtonpost.com/post/3m7nfvpxliv24)
 
 ---
 
-@nytimes.com
+@axios.com
 
-“I eat this ALL THE TIME. Never get sick of it.” This delicious meal comes together in under 30 minutes and requires ingredients you probably already have in your pantry. nyti.ms/48syCEk
+SpaceX preps a 2026 IPO, potentially the largest ever.
 
-[2025-12-11 00:27:05](https://bsky.app/profile/nytimes.com/post/3m7neom4znw2s)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Judge rules Epstein grand jury records from 2019 can be released
-
-[2025-12-11 00:25:30](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7nelsegx627)
+[2025-12-11 00:48:57](https://bsky.app/profile/axios.com/post/3m7nfvpguv22p)
 
 ---
 
 @reuters.com
 
-EU sustainability cutbacks make low-carbon leaders harder to spot reut.rs/3KpCmgR
+Nigerian oil firms strike flare-gas deals to curb emissions, boost energy reut.rs/44VgnVR
 
-[2025-12-11 00:25:20](https://bsky.app/profile/reuters.com/post/3m7neliabad2r)
-
----
-
-@wsj.com
-
-The debate marks a major flashpoint in Republican politics, stoking tension that could shape the party’s approach to AI in the midterm elections.
-
-[2025-12-11 00:23:20](https://bsky.app/profile/wsj.com/post/3m7nehwbnv42o)
-
----
-
-@nbcnews.com
-
-Washington and Oregon are bracing for major flooding and possible evacuations as an atmospheric river event brings heavy rainfall to an already saturated region.
-
-[2025-12-11 00:20:10](https://bsky.app/profile/nbcnews.com/post/3m7necauu7i2k)
+[2025-12-11 00:45:17](https://bsky.app/profile/reuters.com/post/3m7nfp5jj222o)
 
 ---
 
 @forbes.com
 
-The order follows other judges allowing grand jury materials to come out in Epstein’s Florida criminal case and the case against Ghislaine Maxwell.
+The former “Real Housewives of Salt Lake City” star will serve the remainder of her sentence either in home confinement or at a halfway house, officials said.
 
-[2025-12-11 00:20:08](https://bsky.app/profile/forbes.com/post/3m7nec75om62o)
+[2025-12-11 00:45:03](https://bsky.app/profile/forbes.com/post/3m7nfor6qgn2w)
+
+---
+
+@cnbc.com
+
+This stock is moving away from IT and into AI and is breaking out. How to capture gains with options
+
+[2025-12-11 00:44:41](https://bsky.app/profile/cnbc.com/post/3m7nfo372q324)
+
+---
+
+@bloomberg.com
+
+Bloomberg News Now is a comprehensive audio report of today's top stories. Hear the latest news, updated throughout the day, covering global business stories in just a few minutes.
+
+[2025-12-11 00:44:21](https://bsky.app/profile/bloomberg.com/post/3m7nfnihs5s24)
+
+---
+
+@reuters.com
+
+French biotech Abivax's shares climb on Eli Lilly bid rumors reut.rs/48KA83H
+
+[2025-12-11 00:40:30](https://bsky.app/profile/reuters.com/post/3m7nfgm5dj42p)
+
+---
+
+@nbcnews.com
+
+The Trump administration plans to require all foreign tourists to provide their social media histories from the last five years to enter the country, according to a notice published in the Federal Register.
+
+Read more: nbcnews.to/4ppCNXz
+
+[2025-12-11 00:40:08](https://bsky.app/profile/nbcnews.com/post/3m7nffwss222d)
 
 ---
 
 @washingtonpost.com
 
-María Corina Machado, Venezuela’s most prominent opposition leader, fled the country after nearly a year in hiding to travel to Oslo, her daughter said.
+Tony Dokoupil has been named anchor of “CBS Evening News,” one of the most prominent jobs in television journalism.
 
-President Nicolás Maduro’s government has banned Machado from leaving Venezuela for the past decade, saying she’d become a fugitive if she tried.
+His promotion is the highest-profile personnel decision CBS News editor in chief Bari Weiss has made since she was named to that position.
 
-[2025-12-11 00:20:05](https://bsky.app/profile/washingtonpost.com/post/3m7nec3kb6z2i)
+[2025-12-11 00:40:04](https://bsky.app/profile/washingtonpost.com/post/3m7nfftdw5y2p)
 
 ---
 
-@en.afp.com
+@wsj.com
 
-The thieves who stole crown jewels from the Louvre in October evaded police with just 30 seconds to spare due to avoidable security failures at the Paris museum, a damning investigation revealed on Wednesday ➡️ u.afp.com/S7Wf
+Tony Dokoupil has been named the new anchor of “CBS Evening News,” taking over the storied program as CBS News undergoes a major transformation.
 
-[2025-12-11 00:19:02](https://bsky.app/profile/en.afp.com/post/3m7nea7u52i2s)
+[2025-12-11 00:39:29](https://bsky.app/profile/wsj.com/post/3m7nfesgvqb2t)
 
 ---
 
