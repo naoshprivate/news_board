@@ -1,9 +1,9 @@
-# [2025-12-11 04:10 updated](2025_12_11.md)
+# [2025-12-11 04:30 updated](2025_12_11.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">From @theathletic.com: The 2025 college football season was even wilder than usual — bringing extra weirdness, madness and fun. We compiled the best, most perfectly ridiculous moments of the season. <a href="https://bsky.app/profile/nytimes.com/post/3m7nqzpz6th2r" target="_blank">nytimes.com</a> (2025-12-11 04:08:03)</span><span style="padding-right:50px;">A  Federal Reserve split over where its priorities should lie lowered its key interest rate Wednesday, but signaled a tougher road ahead for further reductions.  Find more: cnb.cx/4oQR26P <a href="https://bsky.app/profile/cnbc.com/post/3m7nqzocw7c2n" target="_blank">cnbc.com</a> (2025-12-11 04:08:01)</span><span style="padding-right:50px;">BREAKING: The Fed cut its benchmark interest rate by 0.25 percentage points, bringing it to its lowest level in over 3 years. <a href="https://bsky.app/profile/cbsnews.com/post/3m7nqxlktbo2p" target="_blank">cbsnews.com</a> (2025-12-11 04:06:51)</span><span style="padding-right:50px;">The US Federal Reserve cut interest rates in another divided vote, but signaled it will likely pause further reductions in borrowing costs as officials look for clearer signals about the job market's direction and inflation that 'remains somewhat elevated' reut.rs/4oN7jcU <a href="https://bsky.app/profile/reuters.com/post/3m7nqxctaws2u" target="_blank">reuters.com</a> (2025-12-11 04:06:42)</span><span style="padding-right:50px;">Trump set to hold last interviews with Fed chair finalists <a href="https://bsky.app/profile/yahoofinance.com/post/3m7nqx6cfiu2s" target="_blank">yahoofinance.com</a> (2025-12-11 04:06:37)</span>
+<span style="padding-right:50px;">Credit card balances projected to tick up by smallest amount in years in 2026 <a href="https://bsky.app/profile/yahoofinance.com/post/3m7ns65fbbg2v" target="_blank">yahoofinance.com</a> (2025-12-11 04:28:25)</span><span style="padding-right:50px;">Trump is granting China access to more of Nvidia's advanced AI chips, a partial win for the company. Here's what to know about its competition. <a href="https://bsky.app/profile/axios.com/post/3m7nrz75knc2d" target="_blank">axios.com</a> (2025-12-11 04:25:39)</span><span style="padding-right:50px;">Trump is granting China access to more of Nvidia's advanced AI chips, a partial win for Nvidia. Here's what to know about its competition. <a href="https://bsky.app/profile/axios.com/post/3m7nrypxvms2d" target="_blank">axios.com</a> (2025-12-11 04:25:23)</span><span style="padding-right:50px;">Tony Dokoupil named 'CBS Evening News' anchor in Weiss' network revamp reut.rs/44mg3zd <a href="https://bsky.app/profile/reuters.com/post/3m7nrycn5mf24" target="_blank">reuters.com</a> (2025-12-11 04:25:09)</span><span style="padding-right:50px;">Each year, The New York Times Magazine creates a list of Great Performers, highlighting exceptional acting. This year, we asked 10 standouts to show us how they express primal passions like love, hatred, joy or sadness on cue. See for yourself. nyti.ms/4rR6PVF <a href="https://bsky.app/profile/nytimes.com/post/3m7nrqb2gem2r" target="_blank">nytimes.com</a> (2025-12-11 04:20:39)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47903.61 (🔺329.65 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23593.19 (🔺57.19 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.42 (🔻1.57 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.22 (🔻0.60 : 2025-12-10)</span>
+<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47827.86 (🔺253.90 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23533.17 (🔻2.83 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.21 (🔻1.78 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.45 (🔻0.37 : 2025-12-10)</span>
   </div>
 </div>
 
@@ -32,95 +32,95 @@
 
 ## News Headlines
 
-1. 米FRB政策金利0.25％引き下げ 3会合連続
-2. 米FRBが政策金利を0.25%引き下げ
-3. 3時55分頃、東京都で最大震度2の地震を観測しました。
-4. 米FRB 政策金利0.25%引き下げ 3会合連続 雇用重視 景気下支えへ
-5. 米FRBが政策金利を0.25％引き下げ
-6. 震源:新島・神津島近海, 深さ:10km マグニチュード:3.9, 最大震度:2
+1. FRB 政策金利0.25％引き下げ 3会合連続 雇用重視 景気下支えへ
+2. 米FRB 政策金利0.25%引き下げ 3会合連続 雇用重視し景気を下支えへ
+3. FRB 政策金利0.25％引き下げ 3会合連続 雇用重視 景気下支えへ
+4. 米FRBが政策金利を0.25%引き下げ 利下げは3会合連続
+5. 2026年の信用カード残高が年間で最も小さく増加すると予想される
+6. SpaceX $1 trln IPO がサイケデリックなブーストに依存する
 
 ----
 
-@nytimes.com
-
-From @theathletic.com: The 2025 college football season was even wilder than usual — bringing extra weirdness, madness and fun. We compiled the best, most perfectly ridiculous moments of the season.
-
-[2025-12-11 04:08:03](https://bsky.app/profile/nytimes.com/post/3m7nqzpz6th2r)
-
----
-
-@cnbc.com
-
-A  Federal Reserve split over where its priorities should lie lowered its key interest rate Wednesday, but signaled a tougher road ahead for further reductions.
-
-Find more: cnb.cx/4oQR26P
-
-[2025-12-11 04:08:01](https://bsky.app/profile/cnbc.com/post/3m7nqzocw7c2n)
-
----
-
-@cbsnews.com
-
-<strong><span style="color: red;">BREAKING:</span> The Fed cut its benchmark interest rate by 0.25 percentage points, bringing it to its lowest level in over 3 years.</strong>
-
-[2025-12-11 04:06:51](https://bsky.app/profile/cbsnews.com/post/3m7nqxlktbo2p)
-
----
-
-@reuters.com
-
-The US Federal Reserve cut interest rates in another divided vote, but signaled it will likely pause further reductions in borrowing costs as officials look for clearer signals about the job market's direction and inflation that 'remains somewhat elevated' reut.rs/4oN7jcU
-
-[2025-12-11 04:06:42](https://bsky.app/profile/reuters.com/post/3m7nqxctaws2u)
-
----
-
 @yahoofinance.com
 
-Trump set to hold last interviews with Fed chair finalists
+Credit card balances projected to tick up by smallest amount in years in 2026
 
-[2025-12-11 04:06:37](https://bsky.app/profile/yahoofinance.com/post/3m7nqx6cfiu2s)
-
----
-
-@nhknewsunofficial.bsky.social
-
-FRB 政策金利0.25％引き下げ 3会合連続 雇用重視 景気下支えへ
-https://news.web.nhk/newsweb/na/na-k10015000491000
-
-[2025-12-11 04:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7nqw7c5hr2m)
-
----
-
-@reuters.com
-
-Mexico's lower house approves tariff hikes on Chinese, other Asian imports reut.rs/48L4TFD
-
-[2025-12-11 04:05:11](https://bsky.app/profile/reuters.com/post/3m7nqumldrb2i)
-
----
-
-@npr.org
-
-The Border Patrol's enforcement surge in Charlotte, N.C. lasted just about a week. Residents picking up the pieces in its aftermath say doing so is going to take a lot longer than that.
-
-[2025-12-11 04:05:09](https://bsky.app/profile/npr.org/post/3m7nqukltr22g)
+[2025-12-11 04:28:25](https://bsky.app/profile/yahoofinance.com/post/3m7ns65fbbg2v)
 
 ---
 
 @axios.com
 
-<strong><span style="color: red;">JUST IN:</span> Fed cuts interest rates amid internal dissent</strong>
+Trump is granting China access to more of Nvidia's advanced AI chips, a partial win for the company. Here's what to know about its competition.
 
-[2025-12-11 04:05:08](https://bsky.app/profile/axios.com/post/3m7nqujvx5222)
+[2025-12-11 04:25:39](https://bsky.app/profile/axios.com/post/3m7nrz75knc2d)
 
 ---
 
-@forbes.com
+@axios.com
 
-Residents near rocket launch sites and regulators have complained about the noise and potential environmental impacts of sonic booms.
+Trump is granting China access to more of Nvidia's advanced AI chips, a partial win for Nvidia. Here's what to know about its competition.
 
-[2025-12-11 04:05:02](https://bsky.app/profile/forbes.com/post/3m7nqudvndo2w)
+[2025-12-11 04:25:23](https://bsky.app/profile/axios.com/post/3m7nrypxvms2d)
+
+---
+
+@reuters.com
+
+Tony Dokoupil named 'CBS Evening News' anchor in Weiss' network revamp reut.rs/44mg3zd
+
+[2025-12-11 04:25:09](https://bsky.app/profile/reuters.com/post/3m7nrycn5mf24)
+
+---
+
+@nytimes.com
+
+Each year, The New York Times Magazine creates a list of Great Performers, highlighting exceptional acting. This year, we asked 10 standouts to show us how they express primal passions like love, hatred, joy or sadness on cue. See for yourself.
+nyti.ms/4rR6PVF
+
+[2025-12-11 04:20:39](https://bsky.app/profile/nytimes.com/post/3m7nrqb2gem2r)
+
+---
+
+@opinion.bloomberg.com
+
+<strong><span style="color: red;">Breaking:</span> Fed Cuts Benchmark Rate Target Range to 3.5%-3.75% in 9-3 Vote 🚨</strong><br><strong></strong><br><strong>Tune in for live analysis:</strong>
+
+[2025-12-11 04:20:25](https://bsky.app/profile/opinion.bloomberg.com/post/3m7nrpuemh22d)
+
+---
+
+@nbcnews.com
+
+In a memo to the State Department, Secretary Rubio directed U.S. diplomats worldwide to use Times New Roman 14-point font for official documents, reversing a Biden-era directive to use Calibri.
+
+[2025-12-11 04:20:13](https://bsky.app/profile/nbcnews.com/post/3m7nrpism4c2u)
+
+---
+
+@cbsnews.com
+
+A U.S. soldier who went missing during World War II has been accounted for more than eight decades after he disappeared, federal officials said Wednesday.
+
+
+
+[2025-12-11 04:20:01](https://bsky.app/profile/cbsnews.com/post/3m7nrp4zxwx2b)
+
+---
+
+@npr.org
+
+The Fed lowered its benchmark interest rate by a quarter percentage point, in an effort to shore up a weakening job market. With inflation remaining stubbornly high, it was not a slam dunk decision.
+
+[2025-12-11 04:18:55](https://bsky.app/profile/npr.org/post/3m7nrn6gd4r2i)
+
+---
+
+@reuters.com
+
+LIVE: Federal Reserve Chair Jerome Powell speaks after rate cut reut.rs/48KlGZl
+
+[2025-12-11 04:18:42](https://bsky.app/profile/reuters.com/post/3m7nrmrkhxs2x)
 
 ---
 
