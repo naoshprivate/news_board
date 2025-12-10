@@ -1,9 +1,9 @@
-# [2025-12-10 11:10 updated](2025_12_10.md)
+# [2025-12-10 11:30 updated](2025_12_10.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">EU companies say ‘undervalued’ renminbi aiding China’s exporters on.ft.com/4ptTkJW <a href="https://bsky.app/profile/financialtimes.com/post/3m7lxxytm2c2w" target="_blank">financialtimes.com</a> (2025-12-10 11:07:01)</span><span style="padding-right:50px;">Chaotic scenes erupted in Brazil's Congress Tuesday as a lawmaker disrupted lower house efforts to vote on a bill that could slash former president Jair Bolsonaro's 27-year prison sentence for a coup plot  u.afp.com/S7QW <a href="https://bsky.app/profile/en.afp.com/post/3m7lxwvbvrt2f" target="_blank">en.afp.com</a> (2025-12-10 11:06:24)</span><span style="padding-right:50px;">Following a briefing on Capitol Hill, Senate Minority Leader Chuck Schumer and Senator Mark Warner called for the release of the unedited video of a second military strike on a suspected drug boat in the Caribbean on September 2. <a href="https://bsky.app/profile/reuters.com/post/3m7lxudrvo22f" target="_blank">reuters.com</a> (2025-12-10 11:04:59)</span><span style="padding-right:50px;">We shadowed a bartender popular with frequent fliers at a Delta Sky Club in Atlanta. on.wsj.com/3KC5jpO <a href="https://bsky.app/profile/wsj.com/post/3m7lxsvi6nl2k" target="_blank">wsj.com</a> (2025-12-10 11:04:10)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】国家公務員に冬のボーナス支給 平均70万円 給与法改正案成立で約4万円追加支給へ (11:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7lxpfnyrp26" target="_blank">sokuho.news</a> (2025-12-10 11:02:13)</span>
+<span style="padding-right:50px;">Majority Leader John Thune announced that the Senate will vote Thursday on a Republican-led alternative to Democrats’ three-year extension of soon-to-expire enhanced Affordable Care Act tax credits.  <a href="https://bsky.app/profile/cnn.com/post/3m7lz7dnu7l2t" target="_blank">cnn.com</a> (2025-12-10 11:29:01)</span><span style="padding-right:50px;">David Ellison lobbies Warner Bros shareholders to desert Netflix on.ft.com/48LlUzm <a href="https://bsky.app/profile/financialtimes.com/post/3m7lz3rfakh2k" target="_blank">financialtimes.com</a> (2025-12-10 11:27:02)</span><span style="padding-right:50px;">サッカー日本代表 W杯2026への道 アジア最終予選【全結果】 https://news.web.nhk/newsweb/na/na-k10014998991000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7lywjfjzi24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-10 11:24:03)</span><span style="padding-right:50px;">Newly released body camera footage shown during a days-long suppression hearing in New York state court captures the moment Altoona Police confronted Luigi Mangione at a McDonald's before arresting him one year ago today.  Read more: https://cnn.it/4rSULn8 <a href="https://bsky.app/profile/cnn.com/post/3m7lys37ndx2a" target="_blank">cnn.com</a> (2025-12-10 11:21:36)</span><span style="padding-right:50px;">国家公務員にボーナス 平均支給額 追加分あわせ約74万6100円 https://news.web.nhk/newsweb/na/na-k10014999691000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7lyr5gjet2l" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-10 11:21:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50361.40 (🔻517.26 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47560.29 (🔻164.23 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23576.49 (🔺71.87 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.97 (🔻0.59 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3102.00 (🔺13.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.66 (🔻0.16 : 2025-12-10)</span>
+<span style="padding-right:50px;">NIKKEI: 50475.53 (🔻403.13 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47560.29 (🔻164.23 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23576.49 (🔺71.88 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.97 (🔻0.59 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3098.00 (🔺9.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.68 (🔻0.15 : 2025-12-10)</span>
   </div>
 </div>
 
@@ -32,106 +32,100 @@
 
 ## News Headlines
 
-1. 📺🇧🇷ブラジル国会で大混乱　ボルソナロ元大統領の有罪判決を縮める法律案の採決妨害
-2. 🚨🇺🇸米国、学生ローンの返済計画「SAVEプラン」を廃止　借り手数百万人に影響
-3. 🚫👧オーストラリアで16歳未満のSNS利用禁止　10のサービスを対象に
-4. 🛍️米国、投資銀行手数料が4期で増加予想　Citiの財務担当者
-5. 🏫国連の会合で日本をけん制した中国の代表、歴史を絡め
-6. 🚨👮米国、ビザヤン大学で学生を射殺　容疑者逮捕
+1. ワーナー・ブラザーズ株主にNetflixを捨てるよう説得せよ　エリソン氏
+2. W杯2026への道　アジア最終予選結果発表
+3. 警察と男性がマクドナルドで激突　警察のビデオ公開
+4. 国家公務員に冬のボーナス　平均70万円　給与法改正により約4万円追加
+5. トランプ政権が米航空会社に制輪車問題で罰金を免除　16.7億ドル
+6. オーストラリア　16歳未満のSNS利用禁止　世界初の規制
 
 ----
 
+@cnn.com
+
+Majority Leader John Thune announced that the Senate will vote Thursday on a Republican-led alternative to Democrats’ three-year extension of soon-to-expire enhanced Affordable Care Act tax credits. 
+
+[2025-12-10 11:29:01](https://bsky.app/profile/cnn.com/post/3m7lz7dnu7l2t)
+
+---
+
 @financialtimes.com
 
-EU companies say ‘undervalued’ renminbi aiding China’s exporters on.ft.com/4ptTkJW
+David Ellison lobbies Warner Bros shareholders to desert Netflix on.ft.com/48LlUzm
 
-[2025-12-10 11:07:01](https://bsky.app/profile/financialtimes.com/post/3m7lxxytm2c2w)
-
----
-
-@en.afp.com
-
-Chaotic scenes erupted in Brazil's Congress Tuesday as a lawmaker disrupted lower house efforts to vote on a bill that could slash former president Jair Bolsonaro's 27-year prison sentence for a coup plot
-
-u.afp.com/S7QW
-
-[2025-12-10 11:06:24](https://bsky.app/profile/en.afp.com/post/3m7lxwvbvrt2f)
+[2025-12-10 11:27:02](https://bsky.app/profile/financialtimes.com/post/3m7lz3rfakh2k)
 
 ---
 
-@reuters.com
+@nhknewsunofficial.bsky.social
 
-Following a briefing on Capitol Hill, Senate Minority Leader Chuck Schumer and Senator Mark Warner called for the release of the unedited video of a second military strike on a suspected drug boat in the Caribbean on September 2.
+サッカー日本代表 W杯2026への道 アジア最終予選【全結果】
+https://news.web.nhk/newsweb/na/na-k10014998991000
 
-[2025-12-10 11:04:59](https://bsky.app/profile/reuters.com/post/3m7lxudrvo22f)
-
----
-
-@wsj.com
-
-We shadowed a bartender popular with frequent fliers at a Delta Sky Club in Atlanta. on.wsj.com/3KC5jpO
-
-[2025-12-10 11:04:10](https://bsky.app/profile/wsj.com/post/3m7lxsvi6nl2k)
-
----
-
-@sokuho.news
-
-🔔ANNより【速報】です。
-
-【速報】国家公務員に冬のボーナス支給 平均70万円 給与法改正案成立で約4万円追加支給へ
-(11:00) #ニュース
-
-[2025-12-10 11:02:13](https://bsky.app/profile/sokuho.news/post/3m7lxpfnyrp26)
+[2025-12-10 11:24:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7lywjfjzi24)
 
 ---
 
 @cnn.com
 
-In a move that could send millions of student loan borrowers scrambling, the Trump administration announced an agreement to end the SAVE plan, a Biden-era repayment plan that has faced legal challenges for years. https://cnn.it/4oNFNvI
+Newly released body camera footage shown during a days-long suppression hearing in New York state court captures the moment Altoona Police confronted Luigi Mangione at a McDonald's before arresting him one year ago today.
 
-[2025-12-10 11:02:02](https://bsky.app/profile/cnn.com/post/3m7lxp3ived22)
+Read more: https://cnn.it/4rSULn8
+
+[2025-12-10 11:21:36](https://bsky.app/profile/cnn.com/post/3m7lys37ndx2a)
 
 ---
 
-@nikkei.com
+@nhknewsunofficial.bsky.social
 
-オーストラリア、16歳未満のSNS禁止法を施行　世界初
-www.nikkei.com/article/DGXZQO...
- 
-禁止対象はTikTokやX、Instagram、YouTubeなど10のサービス。対象は適宜見直し、SNSを介したいじめや有害なコンテンツの閲覧を防ぎます。
- 
-法施行を受けて企業はアカウント削除などの措置を開始。TikTokはすでに20万アカウントを凍結しました。
- 
-#ニュース
+国家公務員にボーナス 平均支給額 追加分あわせ約74万6100円
+https://news.web.nhk/newsweb/na/na-k10014999691000
 
-[2025-12-10 11:01:50](https://bsky.app/profile/nikkei.com/post/3m7lxoq6vew26)
+[2025-12-10 11:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7lyr5gjet2l)
 
 ---
 
 @reuters.com
 
-Citi CFO expects investment banking fees to climb in fourth quarter reut.rs/4oJOwyS
+Trump administration waives $16.7 million in fines for American Airlines over wheelchair issues reut.rs/4oW4CWA
 
-[2025-12-10 11:01:09](https://bsky.app/profile/reuters.com/post/3m7lxnik2tv2p)
+[2025-12-10 11:20:19](https://bsky.app/profile/reuters.com/post/3m7lyprsemv2r)
+
+---
+
+@washingtonpost.com
+
+Newly released police body-camera video shows the moment police confronted Luigi Mangione inside a McDonald’s, after a citizen reported seeing someone who matched the description of the suspect wanted in the fatal shooting of UnitedHealthcare CEO Brian Thompson. https://wapo.st/4iNHojP
+
+[2025-12-10 11:18:58](https://bsky.app/profile/washingtonpost.com/post/3m7lynemlhi2e)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+北海道 泊原発3号機 知事が再稼働同意の意向を固める
+https://news.web.nhk/newsweb/na/na-k10014999701000
+
+[2025-12-10 11:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7lygfm3b22w)
 
 ---
 
 @cnbc.com
 
-It’s one of the most important meetings for employees’ career success, yet many people are going about it completely wrong.
+Trump says he 'heard' Biden Fed appointments were signed by autopen, tells aide to investigate
 
-Here's how this meeting science expert says to ace one-on-ones.
-
-[2025-12-10 11:00:24](https://bsky.app/profile/cnbc.com/post/3m7lxm5ic2n2d)
+[2025-12-10 11:12:28](https://bsky.app/profile/cnbc.com/post/3m7lybqjaco2p)
 
 ---
 
-@usatoday.com
+@sokuho.news
 
-As part of a new and remarkable partnership, detectives gave a cold case file to students in a criminology class at the University of Texas at Arlington.
+🛎️JNNより【速報】です。
 
-[2025-12-10 11:00:23](https://bsky.app/profile/usatoday.com/post/3m7lxm4p3g72z)
+【速報】小泉防衛大臣「飛行訓練開始連絡あったが時間や場所など具体的な情報なかった」 中国メディアが「事前に日本側に通報」と主張する音声公開に反論
+(2025-12-10 11:06:12) #ニュース
+
+[2025-12-10 11:10:55](https://bsky.app/profile/sokuho.news/post/3m7ly6xivtv2r)
 
 ---
 
