@@ -1,9 +1,9 @@
-# [2025-12-10 09:10 updated](2025_12_10.md)
+# [2025-12-10 09:30 updated](2025_12_10.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Home Office lacks clear data on a third of UK asylum claimants from 2023 on.ft.com/48qZiFy <a href="https://bsky.app/profile/financialtimes.com/post/3m7lrch7n5i24" target="_blank">financialtimes.com</a> (2025-12-10 09:07:36)</span><span style="padding-right:50px;">“ライバー”の事務所4社に注意 独禁法違反のおそれ 公取委 https://news.web.nhk/newsweb/na/na-k10014999091000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7lr7pkz462w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-10 09:06:02)</span><span style="padding-right:50px;">Swatch and Citizen face Italian scrutiny over pricing practices reut.rs/4a8HaBG <a href="https://bsky.app/profile/reuters.com/post/3m7lr6b3cmm2i" target="_blank">reuters.com</a> (2025-12-10 09:05:15)</span><span style="padding-right:50px;">ゼレンスキー氏 “安全確保への協力あれば大統領選挙できる” https://news.web.nhk/newsweb/na/na-k10014999641000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7lr2eiw6d22" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-10 09:03:03)</span><span style="padding-right:50px;">Cramer's Lightning Round: 'I'm going to have to stay away from' Dorman Products <a href="https://bsky.app/profile/cnbc.com/post/3m7lqzzpu7g2b" target="_blank">cnbc.com</a> (2025-12-10 09:02:53)</span>
+<span style="padding-right:50px;">Sierra Leone mining: Two young lives that ended in the search for gold <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7lsf7xakc2y" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-10 09:27:02)</span><span style="padding-right:50px;">Club Brugge players caught off guard by coach’s dismissal reut.rs/4iXqdfJ <a href="https://bsky.app/profile/reuters.com/post/3m7lsbzdt5a2i" target="_blank">reuters.com</a> (2025-12-10 09:25:15)</span><span style="padding-right:50px;">A mysterious interstellar comet has been taking a tour of our solar system in recent months, garnering intense interest from astronomers and space enthusiasts alike. <a href="https://bsky.app/profile/nbcnews.com/post/3m7lrzacca42x" target="_blank">nbcnews.com</a> (2025-12-10 09:20:20)</span><span style="padding-right:50px;">How long Britain could really fight for if war broke out tomorrow <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7lryykdn42y" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-10 09:20:12)</span><span style="padding-right:50px;">These dan dan noodles are a bowl of contentment. "You're not going to eat a dish like this every day. It's a pleasant indulgence." nyti.ms/4piyjBT <a href="https://bsky.app/profile/nytimes.com/post/3m7lrytos3z27" target="_blank">nytimes.com</a> (2025-12-10 09:20:07)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50655.10 (🔻22.26 : 2025-12-09)</span><span style="padding-right:50px;">DOW: 47560.29 (🔻164.23 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23576.49 (🔺71.87 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.97 (🔻0.59 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3066.00 (🔻10.00 : 2025-12-09)</span><span style="padding-right:50px;">USD/JPY: 156.84 (🔺0.02 : 2025-12-10)</span>
+<span style="padding-right:50px;">NIKKEI: 51066.62 (🔺187.96 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47560.29 (🔻164.23 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23576.49 (🔺71.87 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.97 (🔻0.59 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3109.00 (🔺20.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.92 (🔺0.10 : 2025-12-10)</span>
   </div>
 </div>
 
@@ -32,101 +32,97 @@
 
 ## News Headlines
 
-1.  ライバー事務所4社に注意　独禁法違反のおそれ
-2.  ゼレンスキー氏「安全確保への協力あれば大統領選挙できる」
-3.  トランプ政権のAI半導体輸出緩和　「敵塩行為」と批判
-4.  イルミナント子供の保護をめぐり、米国政府が不正確な情報を発表
-5.  フランス首相が緊急の予算案に勝ち、政権を確実に立て直す
-6.  岐阜・リニア中央新幹線工事で地下水位低下　JR東海に打つ手なし
+1.  「ミステリアスな銀河系外彗星が太陽系を巡る」
+2.  「イギリスが戦争になったら、どれくらい戦うことができるのか」
+3.  「ダン・ダン麺は満足の味がする」
+4.  「アサヒGHDの社内情報がハッカー集団によって公開された」
+5.  「元選手のノア・コブがリヴァプールに完全移籍」
+6.  「アメリカの死刑囚18人目が処刑された」
 
 ----
 
-@financialtimes.com
+@bbcnews-world-rss.bsky.social
 
-Home Office lacks clear data on a third of UK asylum claimants from 2023 on.ft.com/48qZiFy
+Sierra Leone mining: Two young lives that ended in the search for gold
 
-[2025-12-10 09:07:36](https://bsky.app/profile/financialtimes.com/post/3m7lrch7n5i24)
-
----
-
-@nhknewsunofficial.bsky.social
-
-“ライバー”の事務所4社に注意 独禁法違反のおそれ 公取委
-https://news.web.nhk/newsweb/na/na-k10014999091000
-
-[2025-12-10 09:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7lr7pkz462w)
+[2025-12-10 09:27:02](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7lsf7xakc2y)
 
 ---
 
 @reuters.com
 
-Swatch and Citizen face Italian scrutiny over pricing practices reut.rs/4a8HaBG
+Club Brugge players caught off guard by coach’s dismissal reut.rs/4iXqdfJ
 
-[2025-12-10 09:05:15](https://bsky.app/profile/reuters.com/post/3m7lr6b3cmm2i)
+[2025-12-10 09:25:15](https://bsky.app/profile/reuters.com/post/3m7lsbzdt5a2i)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@nbcnews.com
 
-ゼレンスキー氏 “安全確保への協力あれば大統領選挙できる”
-https://news.web.nhk/newsweb/na/na-k10014999641000
+A mysterious interstellar comet has been taking a tour of our solar system in recent months, garnering intense interest from astronomers and space enthusiasts alike.
 
-[2025-12-10 09:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7lr2eiw6d22)
+[2025-12-10 09:20:20](https://bsky.app/profile/nbcnews.com/post/3m7lrzacca42x)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+How long Britain could really fight for if war broke out tomorrow
+
+[2025-12-10 09:20:12](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7lryykdn42y)
+
+---
+
+@nytimes.com
+
+These dan dan noodles are a bowl of contentment. "You're not going to eat a dish like this every day. It's a pleasant indulgence." nyti.ms/4piyjBT
+
+[2025-12-10 09:20:07](https://bsky.app/profile/nytimes.com/post/3m7lrytos3z27)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Ozzy the dog sets Guinness World record for longest canine tongue
+
+[2025-12-10 09:17:00](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7lrtbmfh42s)
 
 ---
 
 @cnbc.com
 
-Cramer's Lightning Round: 'I'm going to have to stay away from' Dorman Products
+Wednesday's big stock stories: What’s likely to move the market in the next trading session
 
-[2025-12-10 09:02:53](https://bsky.app/profile/cnbc.com/post/3m7lqzzpu7g2b)
+[2025-12-10 09:17:00](https://bsky.app/profile/cnbc.com/post/3m7lrtbflol2x)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Jabalpur: Indian couple trolled over skin colour after wedding video goes viral
+
+[2025-12-10 09:15:54](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7lrrcihsg25)
 
 ---
 
 @nikkei.com
 
-NVIDIA半導体の対中国輸出、緩和は｢敵塩｣行為　米国内で反発
+アサヒGHDの社内情報、ハッカー集団「Qilin」が新たに公開か
 www.nikkei.com/article/DGXZQO...
  
-トランプ政権の緩和によって、バイデン前政権が導入したAI半導体の輸出規制は事実上の骨抜きに。
+ダークウェブ上に新たに公開された文書には社内会議用の事業説明資料や取引先との商談資料などがあります。個人情報の漏洩に関わる内容は確認できていません。
  
-「H200」は現行の最先端品「ブラックウェル」に比べると計算処理能力や電力効率が劣りますが、それでもAIの先端モデルを動かすには十分な性能があります。
- 
-複数の民主党議員が反対の書簡を公表。共和党やテック企業はかねて規制強化を訴えています。
+#ニュース
 
-[2025-12-10 09:01:51](https://bsky.app/profile/nikkei.com/post/3m7lqy5v3pq2x)
+[2025-12-10 09:15:50](https://bsky.app/profile/nikkei.com/post/3m7lrr6rzou2i)
 
 ---
 
 @reuters.com
 
-Oracle's OpenAI reliance faces scrutiny as debt-fueled AI buildout raises worries reut.rs/4a6iHgj
+Rapids fully acquire D Noah Cobb from Atlanta United reut.rs/4a1ABAJ
 
-[2025-12-10 09:01:17](https://bsky.app/profile/reuters.com/post/3m7lqx6fcox23)
-
----
-
-@apnews.com
-
-Hundreds of immigrant children across the nation were detained for longer than the legal limit this summer, U.S. Immigration and Customs Enforcement has admitted in a court filing, alarming legal advocates who say the government is failing to safeguard children.
-
-[2025-12-10 09:01:08](https://bsky.app/profile/apnews.com/post/3m7lqwvi3sb2x)
-
----
-
-@cnn.com
-
-Illinois Gov. JB Pritzker signed a law prohibiting federal officials from taking enforcement actions against immigrants near courthouses, in hospitals, on college campuses or in day care facilities.
-
-[2025-12-10 09:01:01](https://bsky.app/profile/cnn.com/post/3m7lqwp5biu2v)
-
----
-
-@usatoday.com
-
-GLP-1 side effects like constipation and muscle mass loss can lead to uncomfortable pelvic floor symptoms like bladder leakage and painful sex.
-
-[2025-12-10 09:00:51](https://bsky.app/profile/usatoday.com/post/3m7lqwf4a3o2t)
+[2025-12-10 09:15:22](https://bsky.app/profile/reuters.com/post/3m7lrqdikjk24)
 
 ---
 
