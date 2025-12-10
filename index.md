@@ -1,9 +1,9 @@
-# [2025-12-11 01:50 updated](2025_12_11.md)
+# [2025-12-11 02:10 updated](2025_12_11.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Fed risks pushing 10-year yield to danger zone for stocks if Powell & Co. are too hawkish today <a href="https://bsky.app/profile/cnbc.com/post/3m7nj2m2npb2x" target="_blank">cnbc.com</a> (2025-12-11 01:45:22)</span><span style="padding-right:50px;">Fed expected to lower rates, but may signal a coming pause reut.rs/4psbko3 <a href="https://bsky.app/profile/reuters.com/post/3m7nj2h2wav24" target="_blank">reuters.com</a> (2025-12-11 01:45:17)</span><span style="padding-right:50px;">President Trump is planning to start his final round of interviews in the coming days with candidates to be the next Federal Reserve chair. <a href="https://bsky.app/profile/wsj.com/post/3m7niwmireu2h" target="_blank">wsj.com</a> (2025-12-11 01:43:08)</span><span style="padding-right:50px;">From @theathletic.com: In one of the most stunning un-retirements in NFL history, Philip Rivers is back in the NFL five years after walking away. “I have no doubt he can still sling it. No doubt.” <a href="https://bsky.app/profile/nytimes.com/post/3m7niupqot42b" target="_blank">nytimes.com</a> (2025-12-11 01:42:05)</span><span style="padding-right:50px;">Most Gulf markets gain ahead of Fed verdict reut.rs/4s4LDvI <a href="https://bsky.app/profile/reuters.com/post/3m7nirmmerx2i" target="_blank">reuters.com</a> (2025-12-11 01:40:21)</span>
+<span style="padding-right:50px;">Democrat Eileen Higgins, a city elected former county commissioner, will be Miami’s next mayor.  Her win is another electoral setback for Republicans — this time in an area where they’ve been dominant in local elections. https://wapo.st/4q7sIP7 <a href="https://bsky.app/profile/washingtonpost.com/post/3m7nkdf2ib523" target="_blank">washingtonpost.com</a> (2025-12-11 02:08:11)</span><span style="padding-right:50px;">A federal judge on Wednesday blocked President Donald Trump’s deployment of National Guard troops to Los Angeles and ordered them returned to the control of the state’s governor. https://cnn.it/4905VPj <a href="https://bsky.app/profile/cnn.com/post/3m7nkdaal5p2t" target="_blank">cnn.com</a> (2025-12-11 02:08:05)</span><span style="padding-right:50px;"> Casinos could deal New York’s poker dens a losing hand on.ft.com/3MmYoBs  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m7nkcbwdng25" target="_blank">financialtimes.com</a> (2025-12-11 02:07:34)</span><span style="padding-right:50px;">Trump’s tariffs intensify strain on US farmers, Deere warns on.ft.com/4q2zwNU <a href="https://bsky.app/profile/financialtimes.com/post/3m7nk6gs3pq24" target="_blank">financialtimes.com</a> (2025-12-11 02:05:25)</span><span style="padding-right:50px;">Ghana's economy grew 5.5% in third quarter of 2025 reut.rs/3KDDiya <a href="https://bsky.app/profile/reuters.com/post/3m7nk62yt4o2c" target="_blank">reuters.com</a> (2025-12-11 02:05:12)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47780.72 (🔺206.76 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23518.92 (🔻17.08 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 182.49 (🔻2.50 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.35 (🔻0.47 : 2025-12-10)</span>
+<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47752.48 (🔺178.52 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23516.06 (🔻19.94 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 182.57 (🔻2.43 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.35 (🔻0.47 : 2025-12-10)</span>
   </div>
 </div>
 
@@ -32,96 +32,96 @@
 
 ## News Headlines
 
-Here are the six news headlines in Japanese:
-
-1. 連邦準備理事会は、10年金利が危険な境地になる可能性を示唆する可能性あり
-2. ドナルド・トランプ大統領が連邦準備理事会の次期委員長候補に面談
-3. NFL：フィリップ・ライバーズ選手が5年ぶりに復帰
-4. 米国政府は外国人観光客に5年間のSNS履歴を提出するよう要求
-5. カナダ銀行は利率を据え置き、貿易戦争からの被害を軽減するため
-6. イランとエジプトが、FIFAにLGBTQ+のワールドカップイベントを禁止するよう抗議
+1. マイアミの新市長に民主党のヒギンズ氏が選出される
+2. ドナルド・トランプ米大統領の米国国民警備隊派遣を、連邦裁判所が差し止める
+3. ニューヨークのカジノ、麻雀ライブハウスに厳しいルールが敷かれる
+4. ドナルド・トランプ米大統領の関税は米農家に大きな痛手を与える
+5. ギャンビア国民経済の成長率が5.5％に達する
+6. ゴoogleのオートモビル事業が世界各地に拡大予定
 
 ----
 
-@cnbc.com
+@washingtonpost.com
 
-Fed risks pushing 10-year yield to danger zone for stocks if Powell & Co. are too hawkish today
+Democrat Eileen Higgins, a city elected former county commissioner, will be Miami’s next mayor.
 
-[2025-12-11 01:45:22](https://bsky.app/profile/cnbc.com/post/3m7nj2m2npb2x)
+Her win is another electoral setback for Republicans — this time in an area where they’ve been dominant in local elections. https://wapo.st/4q7sIP7
+
+[2025-12-11 02:08:11](https://bsky.app/profile/washingtonpost.com/post/3m7nkdf2ib523)
+
+---
+
+@cnn.com
+
+A federal judge on Wednesday blocked President Donald Trump’s deployment of National Guard troops to Los Angeles and ordered them returned to the control of the state’s governor. https://cnn.it/4905VPj
+
+[2025-12-11 02:08:05](https://bsky.app/profile/cnn.com/post/3m7nkdaal5p2t)
+
+---
+
+@financialtimes.com
+
+ Casinos could deal New York’s poker dens a losing hand on.ft.com/3MmYoBs  | opinion
+
+[2025-12-11 02:07:34](https://bsky.app/profile/financialtimes.com/post/3m7nkcbwdng25)
+
+---
+
+@financialtimes.com
+
+Trump’s tariffs intensify strain on US farmers, Deere warns on.ft.com/4q2zwNU
+
+[2025-12-11 02:05:25](https://bsky.app/profile/financialtimes.com/post/3m7nk6gs3pq24)
 
 ---
 
 @reuters.com
 
-Fed expected to lower rates, but may signal a coming pause reut.rs/4psbko3
+Ghana's economy grew 5.5% in third quarter of 2025 reut.rs/3KDDiya
 
-[2025-12-11 01:45:17](https://bsky.app/profile/reuters.com/post/3m7nj2h2wav24)
+[2025-12-11 02:05:12](https://bsky.app/profile/reuters.com/post/3m7nk62yt4o2c)
+
+---
+
+@forbes.com
+
+Alphabet’s fast-growing autonomous ride company expects to expand to over 20 cities, including London and Tokyo, by the end of 2026, up from its current six.
+
+[2025-12-11 02:05:04](https://bsky.app/profile/forbes.com/post/3m7nk5tej2p2o)
+
+---
+
+@usatoday.com
+
+When Brittney Griner was arrested in Russia in 2022 after authorities found medical marijuana in her luggage, she became possibly the most high-profile example of the complications that can arise when traveling with prescriptions. bit.ly/4oSPqt7
+
+[2025-12-11 02:04:10](https://bsky.app/profile/usatoday.com/post/3m7nk47ow372l)
+
+---
+
+@reuters.com
+
+US farmers say Trump's $12 billion aid package won't cover losses reut.rs/44VuHO7
+
+[2025-12-11 02:01:11](https://bsky.app/profile/reuters.com/post/3m7njwvkh2w2c)
 
 ---
 
 @wsj.com
 
-President Trump is planning to start his final round of interviews in the coming days with candidates to be the next Federal Reserve chair.
+It seems like a pretty easy way to get rich quick. But for every success story, there are many tales of flips gone bad. on.wsj.com/4pCqgAi
 
-[2025-12-11 01:43:08](https://bsky.app/profile/wsj.com/post/3m7niwmireu2h)
-
----
-
-@nytimes.com
-
-From @theathletic.com: In one of the most stunning un-retirements in NFL history, Philip Rivers is back in the NFL five years after walking away. “I have no doubt he can still sling it. No doubt.”
-
-[2025-12-11 01:42:05](https://bsky.app/profile/nytimes.com/post/3m7niupqot42b)
-
----
-
-@reuters.com
-
-Most Gulf markets gain ahead of Fed verdict reut.rs/4s4LDvI
-
-[2025-12-11 01:40:21](https://bsky.app/profile/reuters.com/post/3m7nirmmerx2i)
-
----
-
-@nbcnews.com
-
-The Trump administration plans to require all foreign tourists to provide their social media histories from the last five years to enter the country, according to a notice published in the Federal Register.
-
-[2025-12-11 01:40:11](https://bsky.app/profile/nbcnews.com/post/3m7nirdcuja23)
+[2025-12-11 02:00:51](https://bsky.app/profile/wsj.com/post/3m7njwbwkdw2s)
 
 ---
 
 @washingtonpost.com
 
-The Trump administration’s move to require mandatory detention for all immigrants facing deportation has sparked outrage from advocates.
+Democrat Eileen Higgins, a city elected former county commissioner, will be Miami’s next mayor.
 
-Now, the migrants are fighting back in a torrent of legal challenges — and on a winning streak in federal court.
+He win is another electoral setback for Republicans — this time in an area where they’ve been dominant in local elections. https://wapo.st/4q7sIP7
 
-[2025-12-11 01:40:04](https://bsky.app/profile/washingtonpost.com/post/3m7nir54qu72b)
-
----
-
-@bloomberg.com
-
-The Bank of Canada held interest rates steady and said although the economy appears resilient, keeping borrowing costs at their current level is still appropriate to mitigate the trade war damage
-
-[2025-12-11 01:38:39](https://bsky.app/profile/bloomberg.com/post/3m7niolbehg2d)
-
----
-
-@npr.org
-
-How an obscure term used in anthropology leaped from the pages of academia into the Chinese meme world and then became part of Chinese government policymaking. n.pr/4iYqnn5
-
-[2025-12-11 01:38:32](https://bsky.app/profile/npr.org/post/3m7nioepv6b24)
-
----
-
-@en.afp.com
-
-Streets were empty, shops shuttered and soldiers fled the eastern DR Congo city of Uvira on Wednesday, a day after a Rwanda-backed militia entered the strategic city's outskirts, prompting Burundi to close its border ➡️ u.afp.com/S7WV
-
-[2025-12-11 01:37:19](https://bsky.app/profile/en.afp.com/post/3m7nim7bsob2s)
+[2025-12-11 02:00:50](https://bsky.app/profile/washingtonpost.com/post/3m7njwand622y)
 
 ---
 
