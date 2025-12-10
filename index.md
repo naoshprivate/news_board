@@ -1,9 +1,9 @@
-# [2025-12-10 10:50 updated](2025_12_10.md)
+# [2025-12-10 11:10 updated](2025_12_10.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The US president will soon launch a final round of interviews of candidates to replace Jay Powell, suggesting Hassett’s selection is not guaranteed on.ft.com/4pRZx2i <a href="https://bsky.app/profile/financialtimes.com/post/3m7lwruc3bt25" target="_blank">financialtimes.com</a> (2025-12-10 10:45:42)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】公園の遊具を利用して男子高校生の胸などを蹴った疑い 16歳の男子高校生2人を逮捕【香川】 (2025-12-10 10:41:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7lwrriizg2y" target="_blank">sokuho.news</a> (2025-12-10 10:45:39)</span><span style="padding-right:50px;">Miami will have its first Democratic mayor in nearly 30 years after voters elected former county commissioner Eileen Higgins, in a race that drew attention from both President Trump and national Democrats. <a href="https://bsky.app/profile/washingtonpost.com/post/3m7lwqownco2e" target="_blank">washingtonpost.com</a> (2025-12-10 10:45:02)</span><span style="padding-right:50px;">After ICE arrested his mom, 18-year-old citizen worries he could be next while caring for younger sister. <a href="https://bsky.app/profile/cbsnews.com/post/3m7lwqndjj52g" target="_blank">cbsnews.com</a> (2025-12-10 10:45:01)</span><span style="padding-right:50px;">Bayern stage three-goal comeback in 12 minutes to beat Sporting 3-1 reut.rs/4a3l5o1 <a href="https://bsky.app/profile/reuters.com/post/3m7lwie34ng2b" target="_blank">reuters.com</a> (2025-12-10 10:40:22)</span>
+<span style="padding-right:50px;">EU companies say ‘undervalued’ renminbi aiding China’s exporters on.ft.com/4ptTkJW <a href="https://bsky.app/profile/financialtimes.com/post/3m7lxxytm2c2w" target="_blank">financialtimes.com</a> (2025-12-10 11:07:01)</span><span style="padding-right:50px;">Chaotic scenes erupted in Brazil's Congress Tuesday as a lawmaker disrupted lower house efforts to vote on a bill that could slash former president Jair Bolsonaro's 27-year prison sentence for a coup plot  u.afp.com/S7QW <a href="https://bsky.app/profile/en.afp.com/post/3m7lxwvbvrt2f" target="_blank">en.afp.com</a> (2025-12-10 11:06:24)</span><span style="padding-right:50px;">Following a briefing on Capitol Hill, Senate Minority Leader Chuck Schumer and Senator Mark Warner called for the release of the unedited video of a second military strike on a suspected drug boat in the Caribbean on September 2. <a href="https://bsky.app/profile/reuters.com/post/3m7lxudrvo22f" target="_blank">reuters.com</a> (2025-12-10 11:04:59)</span><span style="padding-right:50px;">We shadowed a bartender popular with frequent fliers at a Delta Sky Club in Atlanta. on.wsj.com/3KC5jpO <a href="https://bsky.app/profile/wsj.com/post/3m7lxsvi6nl2k" target="_blank">wsj.com</a> (2025-12-10 11:04:10)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】国家公務員に冬のボーナス支給 平均70万円 給与法改正案成立で約4万円追加支給へ (11:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7lxpfnyrp26" target="_blank">sokuho.news</a> (2025-12-10 11:02:13)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50490.94 (🔻387.72 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47560.29 (🔻164.23 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23576.49 (🔺71.87 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.97 (🔻0.59 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺14.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.70 (🔻0.12 : 2025-12-10)</span>
+<span style="padding-right:50px;">NIKKEI: 50361.40 (🔻517.26 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47560.29 (🔻164.23 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23576.49 (🔺71.87 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.97 (🔻0.59 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3102.00 (🔺13.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.66 (🔻0.16 : 2025-12-10)</span>
   </div>
 </div>
 
@@ -32,97 +32,106 @@
 
 ## News Headlines
 
-1. 
-米大統領は、ジャイ・ポウエル後継者選考の最終ラウンドを始める
-2. 
-香川県の公園で、高校生の胸を蹴った疑い　2人逮捕
-3. 30年ぶりとなる民主党候補のエイリーン・ヒギンズ氏がマイアミ市長に当選
-4. 18歳の市民、母親逮捕後のICEの不安を訴える
-5. 米企業、女性のリーダー割合の増加に懸念も
-6. 米国務省「中国の軍用機のレーダー照射は地域の平和に資さず」
+1. 📺🇧🇷ブラジル国会で大混乱　ボルソナロ元大統領の有罪判決を縮める法律案の採決妨害
+2. 🚨🇺🇸米国、学生ローンの返済計画「SAVEプラン」を廃止　借り手数百万人に影響
+3. 🚫👧オーストラリアで16歳未満のSNS利用禁止　10のサービスを対象に
+4. 🛍️米国、投資銀行手数料が4期で増加予想　Citiの財務担当者
+5. 🏫国連の会合で日本をけん制した中国の代表、歴史を絡め
+6. 🚨👮米国、ビザヤン大学で学生を射殺　容疑者逮捕
 
 ----
 
 @financialtimes.com
 
-The US president will soon launch a final round of interviews of candidates to replace Jay Powell, suggesting Hassett’s selection is not guaranteed on.ft.com/4pRZx2i
+EU companies say ‘undervalued’ renminbi aiding China’s exporters on.ft.com/4ptTkJW
 
-[2025-12-10 10:45:42](https://bsky.app/profile/financialtimes.com/post/3m7lwruc3bt25)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】公園の遊具を利用して男子高校生の胸などを蹴った疑い 16歳の男子高校生2人を逮捕【香川】
-(2025-12-10 10:41:00) #ニュース
-
-[2025-12-10 10:45:39](https://bsky.app/profile/sokuho.news/post/3m7lwrriizg2y)
+[2025-12-10 11:07:01](https://bsky.app/profile/financialtimes.com/post/3m7lxxytm2c2w)
 
 ---
 
-@washingtonpost.com
+@en.afp.com
 
-Miami will have its first Democratic mayor in nearly 30 years after voters elected former county commissioner Eileen Higgins, in a race that drew attention from both President Trump and national Democrats.
+Chaotic scenes erupted in Brazil's Congress Tuesday as a lawmaker disrupted lower house efforts to vote on a bill that could slash former president Jair Bolsonaro's 27-year prison sentence for a coup plot
 
-[2025-12-10 10:45:02](https://bsky.app/profile/washingtonpost.com/post/3m7lwqownco2e)
+u.afp.com/S7QW
 
----
-
-@cbsnews.com
-
-After ICE arrested his mom, 18-year-old citizen worries he could be next while caring for younger sister.
-
-[2025-12-10 10:45:01](https://bsky.app/profile/cbsnews.com/post/3m7lwqndjj52g)
+[2025-12-10 11:06:24](https://bsky.app/profile/en.afp.com/post/3m7lxwvbvrt2f)
 
 ---
 
 @reuters.com
 
-Bayern stage three-goal comeback in 12 minutes to beat Sporting 3-1 reut.rs/4a3l5o1
+Following a briefing on Capitol Hill, Senate Minority Leader Chuck Schumer and Senator Mark Warner called for the release of the unedited video of a second military strike on a suspected drug boat in the Caribbean on September 2.
 
-[2025-12-10 10:40:22](https://bsky.app/profile/reuters.com/post/3m7lwie34ng2b)
-
----
-
-@cnbc.com
-
-CNBC Daily Open: A 'hawkish cut' by the Fed could dull festivities
-
-[2025-12-10 10:34:25](https://bsky.app/profile/cnbc.com/post/3m7lw5pejtl2x)
+[2025-12-10 11:04:59](https://bsky.app/profile/reuters.com/post/3m7lxudrvo22f)
 
 ---
 
 @wsj.com
 
-Humans rank among the most monogamist of mammals, a study suggests. One breed of sheep, not so much.
+We shadowed a bartender popular with frequent fliers at a Delta Sky Club in Atlanta. on.wsj.com/3KC5jpO
 
-[2025-12-10 10:33:19](https://bsky.app/profile/wsj.com/post/3m7lw3qmyl62r)
+[2025-12-10 11:04:10](https://bsky.app/profile/wsj.com/post/3m7lxsvi6nl2k)
 
 ---
 
-@npr.org
+@sokuho.news
 
-Classes and campus activities were canceled for the rest of the week after a shooting that police said left one student dead and another in critical condition. Police said a suspect who is not a KSU student was in custody. n.pr/4iRglUP
+🔔ANNより【速報】です。
 
-[2025-12-10 10:33:17](https://bsky.app/profile/npr.org/post/3m7lw3of3ui2e)
+【速報】国家公務員に冬のボーナス支給 平均70万円 給与法改正案成立で約4万円追加支給へ
+(11:00) #ニュース
+
+[2025-12-10 11:02:13](https://bsky.app/profile/sokuho.news/post/3m7lxpfnyrp26)
 
 ---
 
 @cnn.com
 
-Large US companies have made progress – albeit slowly – over the past decade when it comes to increasing the number of women in management and leadership roles on every rung of the corporate ladder. 
+In a move that could send millions of student loan borrowers scrambling, the Trump administration announced an agreement to end the SAVE plan, a Biden-era repayment plan that has faced legal challenges for years. https://cnn.it/4oNFNvI
 
-[2025-12-10 10:33:02](https://bsky.app/profile/cnn.com/post/3m7lw37uoip23)
+[2025-12-10 11:02:02](https://bsky.app/profile/cnn.com/post/3m7lxp3ived22)
+
+---
+
+@nikkei.com
+
+オーストラリア、16歳未満のSNS禁止法を施行　世界初
+www.nikkei.com/article/DGXZQO...
+ 
+禁止対象はTikTokやX、Instagram、YouTubeなど10のサービス。対象は適宜見直し、SNSを介したいじめや有害なコンテンツの閲覧を防ぎます。
+ 
+法施行を受けて企業はアカウント削除などの措置を開始。TikTokはすでに20万アカウントを凍結しました。
+ 
+#ニュース
+
+[2025-12-10 11:01:50](https://bsky.app/profile/nikkei.com/post/3m7lxoq6vew26)
+
+---
+
+@reuters.com
+
+Citi CFO expects investment banking fees to climb in fourth quarter reut.rs/4oJOwyS
+
+[2025-12-10 11:01:09](https://bsky.app/profile/reuters.com/post/3m7lxnik2tv2p)
+
+---
+
+@cnbc.com
+
+It’s one of the most important meetings for employees’ career success, yet many people are going about it completely wrong.
+
+Here's how this meeting science expert says to ace one-on-ones.
+
+[2025-12-10 11:00:24](https://bsky.app/profile/cnbc.com/post/3m7lxm5ic2n2d)
 
 ---
 
 @usatoday.com
 
-Republican Rep. Nancy Mace, who is running to become South Carolina's governor, wrote Nancy Pelosi was better than current House Speaker Mike Johnson.
+As part of a new and remarkable partnership, detectives gave a cold case file to students in a criminology class at the University of Texas at Arlington.
 
-[2025-12-10 10:30:50](https://bsky.app/profile/usatoday.com/post/3m7lvxbwokl2w)
+[2025-12-10 11:00:23](https://bsky.app/profile/usatoday.com/post/3m7lxm4p3g72z)
 
 ---
 
