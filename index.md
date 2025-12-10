@@ -1,9 +1,9 @@
-# [2025-12-11 05:10 updated](2025_12_11.md)
+# [2025-12-11 05:30 updated](2025_12_11.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">For his first original feature in some 15 years, James L. Brooks has assembled an impressive supporting cast and an appealing lead in Emma Mackey. <a href="https://bsky.app/profile/apnews.com/post/3m7nugyt2yz25" target="_blank">apnews.com</a> (2025-12-11 05:09:09)</span><span style="padding-right:50px;">GoFundMe saw a sharp uptick this year in the number of people using the platform for help covering the cost of housing, food and other day-to-day necessities, according to the company’s annual analysis of campaigns. <a href="https://bsky.app/profile/nbcnews.com/post/3m7nugudhdo2r" target="_blank">nbcnews.com</a> (2025-12-11 05:09:05)</span><span style="padding-right:50px;">第174回芥川賞・直木賞の候補作 発表 https://news.web.nhk/newsweb/na/na-k10015000421000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7nubiqvro2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-11 05:06:02)</span><span style="padding-right:50px;">Before its fall from grace, chop suey was a holiday tradition for families who don't celebrate Christmas, even being immortalized in songs and film. n.pr/4oKLAC4 <a href="https://bsky.app/profile/npr.org/post/3m7nuafoe4r23" target="_blank">npr.org</a> (2025-12-11 05:05:28)</span><span style="padding-right:50px;">Global central bank easing cycle is over reut.rs/4a8ZiLJ <a href="https://bsky.app/profile/reuters.com/post/3m7nua27dkl2s" target="_blank">reuters.com</a> (2025-12-11 05:05:16)</span>
+<span style="padding-right:50px;">Trump administration seizes oil tanker off Venezuela coast: Reports https://aje.io/huyzdd <a href="https://bsky.app/profile/aljazeera.com/post/3m7nvf6uh2g27" target="_blank">aljazeera.com</a> (2025-12-11 05:26:02)</span><span style="padding-right:50px;">How do wounded soldiers power through to achieve feats of heroism? Understanding how the brain works is a key to avoid losing wars. on.wsj.com/3MTYD6Y <a href="https://bsky.app/profile/wsj.com/post/3m7nvelmdbv2z" target="_blank">wsj.com</a> (2025-12-11 05:25:42)</span><span style="padding-right:50px;">“Take the mask off, b****.”  Residents in Little Rock, Arkansas were outraged when masked neo-Nazis marched through their community. <a href="https://bsky.app/profile/aljazeera.com/post/3m7nvejunw22t" target="_blank">aljazeera.com</a> (2025-12-11 05:25:40)</span><span style="padding-right:50px;">Uganda to receive up to $1.7 billion of US funding under Trump health plan reut.rs/4iNl8GG <a href="https://bsky.app/profile/reuters.com/post/3m7nvdoh4zr2r" target="_blank">reuters.com</a> (2025-12-11 05:25:11)</span><span style="padding-right:50px;">A couple of quick but unusually strong winter storms  this week are expected to deliver a messy mix of heavy snow and gusty winds to parts of the U.S. Here's the areas that will likely be affected. <a href="https://bsky.app/profile/nytimes.com/post/3m7nvdhvzzo2y" target="_blank">nytimes.com</a> (2025-12-11 05:25:05)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 48152.38 (🔺578.42 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23683.24 (🔺147.24 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 184.09 (🔻0.90 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 155.88 (🔻0.94 : 2025-12-10)</span>
+<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 48134.51 (🔺560.55 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23682.39 (🔺146.39 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.84 (🔻1.15 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 155.86 (🔻0.96 : 2025-12-10)</span>
   </div>
 </div>
 
@@ -32,97 +32,97 @@
 
 ## News Headlines
 
-1.  芥川賞・直木賞の候補作が発表されました。
-2.  ウォールストリートの分析家は、オラクルが本日の午後発表する財務成績について何を期待しているかを説明します。
-3.  米国連邦準備銀行は、経済情勢が予想よりも良好であると判断し、利率を維持しました。
-4.  メタ・ガラのホスティングを担当する高名な女性4人組が発表されました。
-5.  米国連邦準備銀行の分裂が深刻な状態に
-6.  ノーベル平和賞を受賞したベネズエラの反政府派指導者マリア・コリーナ・マチャドの娘がオスロで演説を行いました。
+Here are six news headlines in Japanese:
+
+1.  ウェークニアーズの船をアメリカが拿捕　トランプ大統領の発表
+2.  ウクライナで戦争をなくすには、負傷兵の脳を研究することが大切
+3.  アメリカ政府がウガンダに1兆7千億ドルを支援
+4.  アメリカで冬の激しい嵐が来る　雪と強風が続く
+5.  札幌電力の原発が長期停止　運転員の経験不足が問題
+6.  トランプ大統領「ウガンダに1兆7千億ドルを支援する」
 
 ----
 
-@apnews.com
+@aljazeera.com
 
-For his first original feature in some 15 years, James L. Brooks has assembled an impressive supporting cast and an appealing lead in Emma Mackey.
+Trump administration seizes oil tanker off Venezuela coast: Reports https://aje.io/huyzdd
 
-[2025-12-11 05:09:09](https://bsky.app/profile/apnews.com/post/3m7nugyt2yz25)
-
----
-
-@nbcnews.com
-
-GoFundMe saw a sharp uptick this year in the number of people using the platform for help covering the cost of housing, food and other day-to-day necessities, according to the company’s annual analysis of campaigns.
-
-[2025-12-11 05:09:05](https://bsky.app/profile/nbcnews.com/post/3m7nugudhdo2r)
+[2025-12-11 05:26:02](https://bsky.app/profile/aljazeera.com/post/3m7nvf6uh2g27)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@wsj.com
 
-第174回芥川賞・直木賞の候補作 発表
-https://news.web.nhk/newsweb/na/na-k10015000421000
+How do wounded soldiers power through to achieve feats of heroism? Understanding how the brain works is a key to avoid losing wars. on.wsj.com/3MTYD6Y
 
-[2025-12-11 05:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7nubiqvro2b)
+[2025-12-11 05:25:42](https://bsky.app/profile/wsj.com/post/3m7nvelmdbv2z)
 
 ---
 
-@npr.org
+@aljazeera.com
 
-Before its fall from grace, chop suey was a holiday tradition for families who don't celebrate Christmas, even being immortalized in songs and film. n.pr/4oKLAC4
+“Take the mask off, b****.”
 
-[2025-12-11 05:05:28](https://bsky.app/profile/npr.org/post/3m7nuafoe4r23)
+Residents in Little Rock, Arkansas were outraged when masked neo-Nazis marched through their community.
+
+[2025-12-11 05:25:40](https://bsky.app/profile/aljazeera.com/post/3m7nvejunw22t)
 
 ---
 
 @reuters.com
 
-Global central bank easing cycle is over reut.rs/4a8ZiLJ
+Uganda to receive up to $1.7 billion of US funding under Trump health plan reut.rs/4iNl8GG
 
-[2025-12-11 05:05:16](https://bsky.app/profile/reuters.com/post/3m7nua27dkl2s)
+[2025-12-11 05:25:11](https://bsky.app/profile/reuters.com/post/3m7nvdoh4zr2r)
 
 ---
 
 @nytimes.com
 
-Cafes across the U.S. are embracing the low- and no-caffeine lifestyle, with options that are a far cry from dusty tea bags and rewarmed decaf. nyti.ms/3XKlqoj
+A couple of quick but unusually strong winter storms  this week are expected to deliver a messy mix of heavy snow and gusty winds to parts of the U.S. Here's the areas that will likely be affected.
 
-[2025-12-11 05:05:06](https://bsky.app/profile/nytimes.com/post/3m7nu7r5oja2y)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】第174回芥川賞・直木賞の候補作決定 日本文学振興会が発表
-(2025-12-11 05:00:58) #ニュース
-
-[2025-12-11 05:03:23](https://bsky.app/profile/sokuho.news/post/3m7nu4ojx6p2b)
+[2025-12-11 05:25:05](https://bsky.app/profile/nytimes.com/post/3m7nvdhvzzo2y)
 
 ---
 
-@usatoday.com
+@nytimes.com
 
-Once the White House submits its plans this month, the National Capital Planning Commission is expected to consider the proposal early next year.
+Patty Scanlon bought a box of snapshots for $20 at a flea market and was stunned to find family photos of the TV host Ricki Lake, whose house burned down in January. Here's how the two connected.
 
-[2025-12-11 05:03:04](https://bsky.app/profile/usatoday.com/post/3m7nu44u3po2w)
+[2025-12-11 05:25:04](https://bsky.app/profile/nytimes.com/post/3m7nvdguul72e)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-電動工具国内トップ「マキタ」 下請け法違反か 公取委が勧告へ
-https://news.web.nhk/newsweb/na/na-k10015000411000
+泊原発3号機 北海道電力 長期停止で運転員の経験不足が課題に
+https://news.web.nhk/newsweb/na/na-k10015000521000
 
-[2025-12-11 05:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7nu44i5gw2d)
+[2025-12-11 05:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7nvbobai22w)
 
 ---
 
-@axios.com
+@cnn.com
 
-EXCLUSIVE: OpenAI says its upcoming models will likely pose "high" cybersecurity risk
+President Trump says the US seized an oil tanker off the Venezuelan coast, amid an ongoing pressure campaign against Maduro https://cnn.it/48O2mum
 
-[2025-12-11 05:02:57](https://bsky.app/profile/axios.com/post/3m7nu3w5nsk2g)
+[2025-12-11 05:23:51](https://bsky.app/profile/cnn.com/post/3m7nvbc32zc24)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Sarkozy releases prison diaries about his 20 days behind bars
+
+[2025-12-11 05:22:35](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7nv6zdl4m2z)
+
+---
+
+@nbcnews.com
+
+Researchers say they’ve uncovered new evidence in present-day England that could reshape our understanding of human evolution.
+
+[2025-12-11 05:20:09](https://bsky.app/profile/nbcnews.com/post/3m7nv2ocwjm2n)
 
 ---
 
