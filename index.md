@@ -1,9 +1,9 @@
-# [2025-12-11 01:30 updated](2025_12_11.md)
+# [2025-12-11 01:50 updated](2025_12_11.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">FX edges up as markets await Fed rate decision reut.rs/4q6ULOB <a href="https://bsky.app/profile/reuters.com/post/3m7nhwonflb2b" target="_blank">reuters.com</a> (2025-12-11 01:25:17)</span><span style="padding-right:50px;">Some everyday investors, who have snapped up shares of tech companies that are pinning their futures on AI, now fear they might be in the midst of a bubble. <a href="https://bsky.app/profile/wsj.com/post/3m7nhwedhzp2h" target="_blank">wsj.com</a> (2025-12-11 01:25:06)</span><span style="padding-right:50px;">Elon Musk could more than double his $460.6 billion fortune if SpaceX succeeds in going public at a valuation of $1.5 trillion.  See how the giant listing would push the world's richest man close to trillionaire status: bloom.bg/4ptbZFH  📷️: Stefani Reynolds/Bloomberg <a href="https://bsky.app/profile/bloomberg.com/post/3m7nhtfthpy24" target="_blank">bloomberg.com</a> (2025-12-11 01:23:27)</span><span style="padding-right:50px;">Opinion: Some of the most important conflicts today take place inside cultural-religious blocs, not between them. on.ft.com/4q0FUoE <a href="https://bsky.app/profile/financialtimes.com/post/3m7nhrdfxyz2f" target="_blank">financialtimes.com</a> (2025-12-11 01:22:17)</span><span style="padding-right:50px;">UK going ‘all in’ on Aukus pact following US review on.ft.com/4q1jEeq <a href="https://bsky.app/profile/financialtimes.com/post/3m7nhnq7h6j2p" target="_blank">financialtimes.com</a> (2025-12-11 01:20:16)</span>
+<span style="padding-right:50px;">Fed risks pushing 10-year yield to danger zone for stocks if Powell & Co. are too hawkish today <a href="https://bsky.app/profile/cnbc.com/post/3m7nj2m2npb2x" target="_blank">cnbc.com</a> (2025-12-11 01:45:22)</span><span style="padding-right:50px;">Fed expected to lower rates, but may signal a coming pause reut.rs/4psbko3 <a href="https://bsky.app/profile/reuters.com/post/3m7nj2h2wav24" target="_blank">reuters.com</a> (2025-12-11 01:45:17)</span><span style="padding-right:50px;">President Trump is planning to start his final round of interviews in the coming days with candidates to be the next Federal Reserve chair. <a href="https://bsky.app/profile/wsj.com/post/3m7niwmireu2h" target="_blank">wsj.com</a> (2025-12-11 01:43:08)</span><span style="padding-right:50px;">From @theathletic.com: In one of the most stunning un-retirements in NFL history, Philip Rivers is back in the NFL five years after walking away. “I have no doubt he can still sling it. No doubt.” <a href="https://bsky.app/profile/nytimes.com/post/3m7niupqot42b" target="_blank">nytimes.com</a> (2025-12-11 01:42:05)</span><span style="padding-right:50px;">Most Gulf markets gain ahead of Fed verdict reut.rs/4s4LDvI <a href="https://bsky.app/profile/reuters.com/post/3m7nirmmerx2i" target="_blank">reuters.com</a> (2025-12-11 01:40:21)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47791.11 (🔺217.15 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23531.28 (🔻4.72 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 182.85 (🔻2.15 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.35 (🔻0.47 : 2025-12-10)</span>
+<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47780.72 (🔺206.76 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23518.92 (🔻17.08 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 182.49 (🔻2.50 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.35 (🔻0.47 : 2025-12-10)</span>
   </div>
 </div>
 
@@ -32,99 +32,96 @@
 
 ## News Headlines
 
-Here are six headlines in Japanese:
+Here are the six news headlines in Japanese:
 
-1. FXは上昇、市場はFedの金利決定を待つ
-2. SpaceXがIPOで$1.5兆の評価を達成すれば、エロン・マスクの富が$460.6億を超える
-3. UKは「Aukus条約」に全面的に参画、米国からの評価を高める
-4. FIFAに抗議：エジプトとイランがLGBTQ+パレードを含むワールドカップの試合を取り上げる
-5. ドイツのカメレースのプロチームと協力する：ポガバがカメレースのプロチームと協力する
-6. NBCニュース：米国政府が外国人観光客に5年間のソーシャルメディア履歴を提示するよう要件を要求
+1. 連邦準備理事会は、10年金利が危険な境地になる可能性を示唆する可能性あり
+2. ドナルド・トランプ大統領が連邦準備理事会の次期委員長候補に面談
+3. NFL：フィリップ・ライバーズ選手が5年ぶりに復帰
+4. 米国政府は外国人観光客に5年間のSNS履歴を提出するよう要求
+5. カナダ銀行は利率を据え置き、貿易戦争からの被害を軽減するため
+6. イランとエジプトが、FIFAにLGBTQ+のワールドカップイベントを禁止するよう抗議
 
 ----
 
+@cnbc.com
+
+Fed risks pushing 10-year yield to danger zone for stocks if Powell & Co. are too hawkish today
+
+[2025-12-11 01:45:22](https://bsky.app/profile/cnbc.com/post/3m7nj2m2npb2x)
+
+---
+
 @reuters.com
 
-FX edges up as markets await Fed rate decision reut.rs/4q6ULOB
+Fed expected to lower rates, but may signal a coming pause reut.rs/4psbko3
 
-[2025-12-11 01:25:17](https://bsky.app/profile/reuters.com/post/3m7nhwonflb2b)
+[2025-12-11 01:45:17](https://bsky.app/profile/reuters.com/post/3m7nj2h2wav24)
 
 ---
 
 @wsj.com
 
-Some everyday investors, who have snapped up shares of tech companies that are pinning their futures on AI, now fear they might be in the midst of a bubble.
+President Trump is planning to start his final round of interviews in the coming days with candidates to be the next Federal Reserve chair.
 
-[2025-12-11 01:25:06](https://bsky.app/profile/wsj.com/post/3m7nhwedhzp2h)
-
----
-
-@bloomberg.com
-
-Elon Musk could more than double his $460.6 billion fortune if SpaceX succeeds in going public at a valuation of $1.5 trillion.
-
-See how the giant listing would push the world's richest man close to trillionaire status: bloom.bg/4ptbZFH
-
-📷️: Stefani Reynolds/Bloomberg
-
-[2025-12-11 01:23:27](https://bsky.app/profile/bloomberg.com/post/3m7nhtfthpy24)
+[2025-12-11 01:43:08](https://bsky.app/profile/wsj.com/post/3m7niwmireu2h)
 
 ---
 
-@financialtimes.com
+@nytimes.com
 
-Opinion: Some of the most important conflicts today take place inside cultural-religious blocs, not between them. on.ft.com/4q0FUoE
+From @theathletic.com: In one of the most stunning un-retirements in NFL history, Philip Rivers is back in the NFL five years after walking away. “I have no doubt he can still sling it. No doubt.”
 
-[2025-12-11 01:22:17](https://bsky.app/profile/financialtimes.com/post/3m7nhrdfxyz2f)
+[2025-12-11 01:42:05](https://bsky.app/profile/nytimes.com/post/3m7niupqot42b)
 
 ---
 
-@financialtimes.com
+@reuters.com
 
-UK going ‘all in’ on Aukus pact following US review on.ft.com/4q1jEeq
+Most Gulf markets gain ahead of Fed verdict reut.rs/4s4LDvI
 
-[2025-12-11 01:20:16](https://bsky.app/profile/financialtimes.com/post/3m7nhnq7h6j2p)
+[2025-12-11 01:40:21](https://bsky.app/profile/reuters.com/post/3m7nirmmerx2i)
 
 ---
 
 @nbcnews.com
 
-Egypt and Iran, two Middle East nations which target gays and lesbians, complain to FIFA over a World Cup soccer match in Seattle that is planned to celebrate LGBTQ+ Pride.
+The Trump administration plans to require all foreign tourists to provide their social media histories from the last five years to enter the country, according to a notice published in the Federal Register.
 
-[2025-12-11 01:20:11](https://bsky.app/profile/nbcnews.com/post/3m7nhnl5tgr2r)
+[2025-12-11 01:40:11](https://bsky.app/profile/nbcnews.com/post/3m7nirdcuja23)
 
 ---
 
 @washingtonpost.com
 
-The Department of Homeland Security recently signed a contract worth nearly $140 million to purchase six Boeing 737 planes for deportations. https://wapo.st/3KpFEkd
+The Trump administration’s move to require mandatory detention for all immigrants facing deportation has sparked outrage from advocates.
 
-[2025-12-11 01:20:07](https://bsky.app/profile/washingtonpost.com/post/3m7nhngq7yw24)
+Now, the migrants are fighting back in a torrent of legal challenges — and on a winning streak in federal court.
 
----
-
-@nhknewsunofficial.bsky.social
-
-ノーベル賞授賞式 坂口さんと北川さんにメダル授与
-https://news.web.nhk/newsweb/na/na-k10014999581000
-
-[2025-12-11 01:18:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7nhjsv6vf2b)
+[2025-12-11 01:40:04](https://bsky.app/profile/washingtonpost.com/post/3m7nir54qu72b)
 
 ---
 
-@reuters.com
+@bloomberg.com
 
-Sterling edges up vs dollar, flat versus euro, Fed in focus reut.rs/48BObIw
+The Bank of Canada held interest rates steady and said although the economy appears resilient, keeping borrowing costs at their current level is still appropriate to mitigate the trade war damage
 
-[2025-12-11 01:15:18](https://bsky.app/profile/reuters.com/post/3m7nhetisuk2k)
+[2025-12-11 01:38:39](https://bsky.app/profile/bloomberg.com/post/3m7niolbehg2d)
 
 ---
 
-@reuters.com
+@npr.org
 
-France's Pogba partners with professional camel racing team reut.rs/44QgrpQ
+How an obscure term used in anthropology leaped from the pages of academia into the Chinese meme world and then became part of Chinese government policymaking. n.pr/4iYqnn5
 
-[2025-12-11 01:10:15](https://bsky.app/profile/reuters.com/post/3m7nh3ss3ac2p)
+[2025-12-11 01:38:32](https://bsky.app/profile/npr.org/post/3m7nioepv6b24)
+
+---
+
+@en.afp.com
+
+Streets were empty, shops shuttered and soldiers fled the eastern DR Congo city of Uvira on Wednesday, a day after a Rwanda-backed militia entered the strategic city's outskirts, prompting Burundi to close its border ➡️ u.afp.com/S7WV
+
+[2025-12-11 01:37:19](https://bsky.app/profile/en.afp.com/post/3m7nim7bsob2s)
 
 ---
 
