@@ -1,9 +1,9 @@
-# [2025-12-10 23:30 updated](2025_12_10.md)
+# [2025-12-10 23:50 updated](2025_12_10.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">US proposes social media disclosure requirement for visitors from visa-free countries on.ft.com/3MrXdk9 <a href="https://bsky.app/profile/financialtimes.com/post/3m7nbfewmp62f" target="_blank">financialtimes.com</a> (2025-12-10 23:28:14)</span><span style="padding-right:50px;">British novelist Sophie Kinsella, the author of the bestselling Shopaholic book series, died at the age of 55 following illness, a statement posted to her Instagram account said reut.rs/48uYEa5 <a href="https://bsky.app/profile/reuters.com/post/3m7nbdu5gdk25" target="_blank">reuters.com</a> (2025-12-10 23:27:23)</span><span style="padding-right:50px;">UK watchdog probes EY over unauthorised auditor reports reut.rs/4rMCZBK <a href="https://bsky.app/profile/reuters.com/post/3m7nb7umhph2b" target="_blank">reuters.com</a> (2025-12-10 23:25:09)</span><span style="padding-right:50px;">U.S. to mandate checks of some tourists' social media history from past 5 years <a href="https://bsky.app/profile/cnbc.com/post/3m7nb7jkgqa2e" target="_blank">cnbc.com</a> (2025-12-10 23:24:57)</span><span style="padding-right:50px;">Venezuelan Nobel laureate María Corina Machado left the country on Tuesday by boat and traveled to Curaçao, U.S. officials said.  The opposition leader’s allies worked to keep the trip from becoming public to protect her safety. <a href="https://bsky.app/profile/wsj.com/post/3m7nb4zoaks2f" target="_blank">wsj.com</a> (2025-12-10 23:23:34)</span>
+<span style="padding-right:50px;">President Trump touted the economy as he embarked on the first of what is likely to be a series of speeches to address voters’ concerns about affordability. <a href="https://bsky.app/profile/wsj.com/post/3m7ncivwrla2h" target="_blank">wsj.com</a> (2025-12-10 23:48:06)</span><span style="padding-right:50px;">European shares slip before Fed decision; investors sift corporate news reut.rs/4oQM5uG <a href="https://bsky.app/profile/reuters.com/post/3m7ncdttryb2k" target="_blank">reuters.com</a> (2025-12-10 23:45:16)</span><span style="padding-right:50px;">Betting markets and brokerages have projected a third interest rate cut this year from the Fed. <a href="https://bsky.app/profile/forbes.com/post/3m7ncdkv5hp2f" target="_blank">forbes.com</a> (2025-12-10 23:45:06)</span><span style="padding-right:50px;">Eileen Higgins became the first Democrat to win the Miami mayor’s office in around three decades, defeating a Republican opponent backed by President Trump. <a href="https://bsky.app/profile/wsj.com/post/3m7ncdgymrf2u" target="_blank">wsj.com</a> (2025-12-10 23:45:02)</span><span style="padding-right:50px;">Kinsella, whose real name was Madeleine Wickham, sold over 50 million books worldwide, including a popular series following the life of a fictional shopping-addicted woman in London. The author was diagnosed with an aggressive form of brain cancer in 2022 reut.rs/3KsaMj0 <a href="https://bsky.app/profile/reuters.com/post/3m7nc3krt2s25" target="_blank">reuters.com</a> (2025-12-10 23:40:38)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47539.06 (🔻34.90 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23576.49 (🔺71.87 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.70 (🔻0.29 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.61 (🔻0.21 : 2025-12-10)</span>
+<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47583.22 (🔺9.26 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23541.26 (🔺5.26 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 184.56 (🔻0.43 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.48 (🔻0.34 : 2025-12-10)</span>
   </div>
 </div>
 
@@ -32,96 +32,94 @@
 
 ## News Headlines
 
-1. 米国政府が非移民国からの来日者にソーシャルメディア開示義務を課す
-2. ベストセラー作家ソフィー・キンセラが55歳で死去
-3. EYが不正の会計士を起用した疑い　英国当局が調査を開始
-4. 米国が来日者のソーシャルメディア履歴を5年間チェックすることを検討
-5. ウクレーニャの反政府指導者マリア・コリーナ・マチャドが国を脱出
-6. EU加盟国がロシアガス輸入を段階的に減らすことを決定
+1.  フェデラルレジスターは、2026年のFedレート見通しで市場に最も大きな影響を与えることになる
+2.  ハイエンド腕時計のブームの理由を探る
+3.  米国は、ヴィザワイバーページの国民から、5年間のソーシャルメディアの履歴の提供を求める可能性がある
+4.  ブリティッシュノベリストのソフィーキンセラが55歳で亡くなる
+5.  「ショパホリック」シリーズの作者、ソフィーキンセラが亡くなる
+6.  ペルー大統領のアレハンドロ・トーレスは精査の結果について説明しなかった
 
 ----
 
-@financialtimes.com
+@wsj.com
 
-US proposes social media disclosure requirement for visitors from visa-free countries on.ft.com/3MrXdk9
+President Trump touted the economy as he embarked on the first of what is likely to be a series of speeches to address voters’ concerns about affordability.
 
-[2025-12-10 23:28:14](https://bsky.app/profile/financialtimes.com/post/3m7nbfewmp62f)
+[2025-12-10 23:48:06](https://bsky.app/profile/wsj.com/post/3m7ncivwrla2h)
 
 ---
 
 @reuters.com
 
-British novelist Sophie Kinsella, the author of the bestselling Shopaholic book series, died at the age of 55 following illness, a statement posted to her Instagram account said reut.rs/48uYEa5
+European shares slip before Fed decision; investors sift corporate news reut.rs/4oQM5uG
 
-[2025-12-10 23:27:23](https://bsky.app/profile/reuters.com/post/3m7nbdu5gdk25)
+[2025-12-10 23:45:16](https://bsky.app/profile/reuters.com/post/3m7ncdttryb2k)
+
+---
+
+@forbes.com
+
+Betting markets and brokerages have projected a third interest rate cut this year from the Fed.
+
+[2025-12-10 23:45:06](https://bsky.app/profile/forbes.com/post/3m7ncdkv5hp2f)
+
+---
+
+@wsj.com
+
+Eileen Higgins became the first Democrat to win the Miami mayor’s office in around three decades, defeating a Republican opponent backed by President Trump.
+
+[2025-12-10 23:45:02](https://bsky.app/profile/wsj.com/post/3m7ncdgymrf2u)
 
 ---
 
 @reuters.com
 
-UK watchdog probes EY over unauthorised auditor reports reut.rs/4rMCZBK
+Kinsella, whose real name was Madeleine Wickham, sold over 50 million books worldwide, including a popular series following the life of a fictional shopping-addicted woman in London. The author was diagnosed with an aggressive form of brain cancer in 2022 reut.rs/3KsaMj0
 
-[2025-12-10 23:25:09](https://bsky.app/profile/reuters.com/post/3m7nb7umhph2b)
-
----
-
-@cnbc.com
-
-U.S. to mandate checks of some tourists' social media history from past 5 years
-
-[2025-12-10 23:24:57](https://bsky.app/profile/cnbc.com/post/3m7nb7jkgqa2e)
+[2025-12-10 23:40:38](https://bsky.app/profile/reuters.com/post/3m7nc3krt2s25)
 
 ---
 
-@wsj.com
+@reuters.com
 
-Venezuelan Nobel laureate María Corina Machado left the country on Tuesday by boat and traveled to Curaçao, U.S. officials said.
+HSBC to pay about $300 million to settle French tax probe, Bloomberg reports reut.rs/4oKrmZm
 
-The opposition leader’s allies worked to keep the trip from becoming public to protect her safety.
-
-[2025-12-10 23:23:34](https://bsky.app/profile/wsj.com/post/3m7nb4zoaks2f)
-
----
-
-@wsj.com
-
-Giredestrant lowered the risk of disease recurrence or death by 30%, compared with standard-of-care endocrine therapy, according to the company. on.wsj.com/48ZEuVP
-
-[2025-12-10 23:23:33](https://bsky.app/profile/wsj.com/post/3m7nb4zfpam2i)
-
----
-
-@wsj.com
-
-Charlie Kirk’s latest book, “Stop, in the Name of God: Why Honoring the Sabbath Will Transform Your Life,” was ranked No. 1 on the Amazon Top 100 bestseller list, but on Tuesday the hardcover was listed as temporarily out of stock.
-
-[2025-12-10 23:23:28](https://bsky.app/profile/wsj.com/post/3m7nb4u7ewl2c)
-
----
-
-@bloomberg.com
-
-What's the obsession with high-end timepieces? From gold Rolexes to used Pateks, demand remains high for luxury watches. 
-
-🔜 Ask your questions in our Live Q&A bloom.bg/4ppzMqd
-
-[2025-12-10 23:21:07](https://bsky.app/profile/bloomberg.com/post/3m7nayo546t2u)
+[2025-12-10 23:40:24](https://bsky.app/profile/reuters.com/post/3m7nc35iqns2i)
 
 ---
 
 @nbcnews.com
 
-NEW: Sophie Kinsella, the best-selling author of the “Shopaholic” series of novels has died, her family announce, 18 months after she revealed she had an aggressive form of brain cancer. She was 55.
+Democrat Eileen Higgins wins the Miami mayor’s race, NBC News projects, giving the party control of the office for the first time in almost three decades.
 
-[2025-12-10 23:20:17](https://bsky.app/profile/nbcnews.com/post/3m7nax62cvf2q)
+Read more: nbcnews.to/452yZmO
+
+[2025-12-10 23:40:08](https://bsky.app/profile/nbcnews.com/post/3m7nc2nrvzs22)
 
 ---
 
-@npr.org
+@forbes.com
 
-A roundup of good advice from Life Kit's 10 most read stories of 2025. Find out which foods support better sleep, how to be happier and how to graciously accept compliments. n.pr/4rKkgHb
+Iran and Egypt have complained to FIFA over Seattle’s plans to promote LGTBQ+ support during a World Cup match this June. 
 
-[2025-12-10 23:18:59](https://bsky.app/profile/npr.org/post/3m7nautpujj2g)
+[2025-12-10 23:40:04](https://bsky.app/profile/forbes.com/post/3m7nc2km77w2f)
+
+---
+
+@legal.reuters.com
+
+<strong><span style="color: red;">JUST IN:</span> US judge blocks Trump’s National Guard deployment in Los Angeles reut.rs/4iSoAjq</strong>
+
+[2025-12-10 23:36:52](https://bsky.app/profile/legal.reuters.com/post/3m7nbusvqhs2a)
+
+---
+
+@cnbc.com
+
+Traders say the Fed rate outlook for 2026 will have the most market impact today
+
+[2025-12-10 23:36:27](https://bsky.app/profile/cnbc.com/post/3m7nbu3hg2q2i)
 
 ---
 
