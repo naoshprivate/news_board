@@ -1,9 +1,9 @@
-# [2025-12-10 21:30 updated](2025_12_10.md)
+# [2025-12-10 21:50 updated](2025_12_10.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The Trump administration is engaged in open hostilities with the European Union, turning long-simmering feuds over free speech, Ukraine and mass migration into official U.S. policy. <a href="https://bsky.app/profile/axios.com/post/3m7n2ps4bx22l" target="_blank">axios.com</a> (2025-12-10 21:28:47)</span><span style="padding-right:50px;">Germany sees high hurdles to winning ECB presidency on.ft.com/4pw73jJ <a href="https://bsky.app/profile/financialtimes.com/post/3m7n2m2vlwv2q" target="_blank">financialtimes.com</a> (2025-12-10 21:26:42)</span><span style="padding-right:50px;">Jalen Brunson (35), Knicks beat Raptors in NBA Cup quarterfinals reut.rs/3KIMUro <a href="https://bsky.app/profile/reuters.com/post/3m7n2jcyjbn2o" target="_blank">reuters.com</a> (2025-12-10 21:25:10)</span><span style="padding-right:50px;">China should allow its currency to strengthen and rely more on domestic consumer spending instead of ever-rising exports, IMF officials said Wednesday in Beijing at the end of a 10-day visit to China. <a href="https://bsky.app/profile/nytimes.com/post/3m7n2j57pib2z" target="_blank">nytimes.com</a> (2025-12-10 21:25:04)</span><span style="padding-right:50px;">A Danish intelligence agency has for the first time described the US as a potential security risk, signaling a shift in the Nordic country’s view of its close ally after months of friction over Greenland bloom.bg/44Q1Bj6  📷️: Juliette Pavy/Bloomberg <a href="https://bsky.app/profile/bloomberg.com/post/3m7n2extp3m2x" target="_blank">bloomberg.com</a> (2025-12-10 21:22:44)</span>
+<span style="padding-right:50px;">The department under Blinken in early January 2023 had switched to Calibri, a modern sans-serif font, saying this was a more accessible font for people with disabilities because it did not have the decorative angular features and was the default in Microsoft products. <a href="https://bsky.app/profile/cnn.com/post/3m7n3omerkq24" target="_blank">cnn.com</a> (2025-12-10 21:46:01)</span><span style="padding-right:50px;">CVC plans sale of Japan's FineToday after scrapped IPO, sources say reut.rs/451i4Rz <a href="https://bsky.app/profile/reuters.com/post/3m7n3naih5z2x" target="_blank">reuters.com</a> (2025-12-10 21:45:15)</span><span style="padding-right:50px;">VIDEO: 🇺🇸 Police bodycam footage shows moments before Luigi Mangione's arrest  The footage from Pennsylvania police shows the moments before the arrest of Mangione, the man suspected of gunning down a US insurance executive in New York City, at a McDonald's in Altoona in December 2024 <a href="https://bsky.app/profile/en.afp.com/post/3m7n3mbwiet2q" target="_blank">en.afp.com</a> (2025-12-10 21:44:43)</span><span style="padding-right:50px;">The department said recalling these fired staffers would "bolster and refocus" civil rights enforcement "in a way that serves and benefits parents, students, and families." n.pr/3KTjgzE <a href="https://bsky.app/profile/npr.org/post/3m7n3kj3z2w25" target="_blank">npr.org</a> (2025-12-10 21:43:43)</span><span style="padding-right:50px;">アイスホッケー女子日本代表 小池主将「壁を越えたい」 https://news.web.nhk/newsweb/na/na-k10015000331000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7n3hlpyjo2d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-10 21:42:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47560.29 (🔻164.23 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23576.49 (🔺71.88 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.97 (🔻0.59 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.71 (🔻0.11 : 2025-12-10)</span>
+<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47560.29 (🔻164.23 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23576.49 (🔺71.88 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.97 (🔻0.59 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.70 (🔻0.12 : 2025-12-10)</span>
   </div>
 </div>
 
@@ -32,95 +32,95 @@
 
 ## News Headlines
 
-1. 連合国とアメリカの対立が深まる　EUとの対立が政権の課題となる
-2. ドナルド・トランプ政権の税関調査部門の大幅な削減、犯罪捜査が苦戦
-3. 米国で初めての自動運航船、商用運航を始める
-4. トヨタへのElliottのプレッシャー、買収計画のため5％の株を買収
-5. IMF　中国の経済政策に大きな声、コスト削減と消費増加を求める
-6. 大統領選前、トランプ政権が経済イベントを多く開催予定
+1.  アフリカの「避難」は「不法移民」だ
+2.  UberはEVの推進を縮小、ドライバーへのインセンティブも大幅に削減
+3.  ノーベル平和賞授賞式、ベネズエラのマチャド氏が出席できず
+4.  CVC、FineTodayの売却を計画
+5.  IMFは中国に「消費が主な経済構造を早く構築するよう求める
+6.  ノルウェーの情報機関が米国を「安全上のリスク」と評価
 
 ----
 
-@axios.com
+@cnn.com
 
-The Trump administration is engaged in open hostilities with the European Union, turning long-simmering feuds over free speech, Ukraine and mass migration into official U.S. policy.
+The department under Blinken in early January 2023 had switched to Calibri, a modern sans-serif font, saying this was a more accessible font for people with disabilities because it did not have the decorative angular features and was the default in Microsoft products.
 
-[2025-12-10 21:28:47](https://bsky.app/profile/axios.com/post/3m7n2ps4bx22l)
-
----
-
-@financialtimes.com
-
-Germany sees high hurdles to winning ECB presidency on.ft.com/4pw73jJ
-
-[2025-12-10 21:26:42](https://bsky.app/profile/financialtimes.com/post/3m7n2m2vlwv2q)
+[2025-12-10 21:46:01](https://bsky.app/profile/cnn.com/post/3m7n3omerkq24)
 
 ---
 
 @reuters.com
 
-Jalen Brunson (35), Knicks beat Raptors in NBA Cup quarterfinals reut.rs/3KIMUro
+CVC plans sale of Japan's FineToday after scrapped IPO, sources say reut.rs/451i4Rz
 
-[2025-12-10 21:25:10](https://bsky.app/profile/reuters.com/post/3m7n2jcyjbn2o)
-
----
-
-@nytimes.com
-
-China should allow its currency to strengthen and rely more on domestic consumer spending instead of ever-rising exports, IMF officials said Wednesday in Beijing at the end of a 10-day visit to China.
-
-[2025-12-10 21:25:04](https://bsky.app/profile/nytimes.com/post/3m7n2j57pib2z)
+[2025-12-10 21:45:15](https://bsky.app/profile/reuters.com/post/3m7n3naih5z2x)
 
 ---
 
-@bloomberg.com
+@en.afp.com
 
-A Danish intelligence agency has for the first time described the US as a potential security risk, signaling a shift in the Nordic country’s view of its close ally after months of friction over Greenland bloom.bg/44Q1Bj6
+VIDEO: 🇺🇸 Police bodycam footage shows moments before Luigi Mangione's arrest
 
-📷️: Juliette Pavy/Bloomberg
+The footage from Pennsylvania police shows the moments before the arrest of Mangione, the man suspected of gunning down a US insurance executive in New York City, at a McDonald's in Altoona in December 2024
 
-[2025-12-10 21:22:44](https://bsky.app/profile/bloomberg.com/post/3m7n2extp3m2x)
-
----
-
-@nbcnews.com
-
-An Australian influencer's bid to cause mayhem at a Lady Gaga concert failed after he was spotted by fans and booted out of the arena before she took the stage. 
-
-[2025-12-10 21:20:09](https://bsky.app/profile/nbcnews.com/post/3m7n2aeamhw26)
+[2025-12-10 21:44:43](https://bsky.app/profile/en.afp.com/post/3m7n3mbwiet2q)
 
 ---
 
-@financialtimes.com
+@npr.org
 
-What my AI baby means for misinformation in recruitment on.ft.com/4aCZB1q
+The department said recalling these fired staffers would "bolster and refocus" civil rights enforcement "in a way that serves and benefits parents, students, and families." n.pr/3KTjgzE
 
-[2025-12-10 21:19:58](https://bsky.app/profile/financialtimes.com/post/3m7n2a24xzo2f)
+[2025-12-10 21:43:43](https://bsky.app/profile/npr.org/post/3m7n3kj3z2w25)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-出産無償化へ 現金給付も検討 厚労省
-https://news.web.nhk/newsweb/na/na-k10015000321000
+アイスホッケー女子日本代表 小池主将「壁を越えたい」
+https://news.web.nhk/newsweb/na/na-k10015000331000
 
-[2025-12-10 21:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7n24napop2x)
-
----
-
-@reuters.com
-
-At the same time, the Justice Department closed its Tax Division, and officials said a third or more of the criminal lawyers who worked there quit. Read the full report: reut.rs/4q0WV2b 5/5
-
-[2025-12-10 21:17:28](https://bsky.app/profile/reuters.com/post/3m7n26u3zds27)
+[2025-12-10 21:42:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7n3hlpyjo2d)
 
 ---
 
 @reuters.com
 
-The administration made deep cuts to the Internal Revenue Service’s criminal investigative unit, and some of those who remained were ordered to start working on immigration cases or anti-crime patrols in Washington, according to government records and officials 4/5
+TUI forecasts slower revenue, profit increases in 2026 reut.rs/48QKNd9
 
-[2025-12-10 21:17:28](https://bsky.app/profile/reuters.com/post/3m7n25ti24k27)
+[2025-12-10 21:40:42](https://bsky.app/profile/reuters.com/post/3m7n3f3setr2i)
+
+---
+
+@nbcnews.com
+
+President Trump says that Andrew Wolfe, who was shot last month in the attack on two National Guard troops from West Virginia, is finally able to get out of bed after receiving an update from Wolfe’s parents. 
+
+[2025-12-10 21:40:28](https://bsky.app/profile/nbcnews.com/post/3m7n3eopweu2p)
+
+---
+
+@nytimes.com
+
+The Trump administration this week abruptly withdrew its high-profile plan to overhaul how $3.9 billion in federal aid to combat homelessness would be spent, saying it would reissue the proposal after making “appropriate revisions.”
+
+[2025-12-10 21:40:05](https://bsky.app/profile/nytimes.com/post/3m7n3dyzvos2s)
+
+---
+
+@nytimes.com
+
+Facing criticism for rising costs for U.S. consumers, President Trump stoked fear of immigrants to rally a crowd of his supporters in Pennsylvania on Tuesday, trumpeting what he called a “permanent pause” on immigration from “hellholes like Afghanistan, Haiti, Somalia and many other countries.”
+
+[2025-12-10 21:40:05](https://bsky.app/profile/nytimes.com/post/3m7n3dyatsu2e)
+
+---
+
+@bloomberg.com
+
+Uber is scaling back climate efforts and slashing driver incentives despite a years-long push for federal policies in favor of EVs
+
+[2025-12-10 21:37:58](https://bsky.app/profile/bloomberg.com/post/3m7n3a7ry5p2z)
 
 ---
 
