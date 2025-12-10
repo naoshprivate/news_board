@@ -1,9 +1,9 @@
-# [2025-12-10 23:50 updated](2025_12_10.md)
+# [2025-12-11 00:10 updated](2025_12_11.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">President Trump touted the economy as he embarked on the first of what is likely to be a series of speeches to address voters’ concerns about affordability. <a href="https://bsky.app/profile/wsj.com/post/3m7ncivwrla2h" target="_blank">wsj.com</a> (2025-12-10 23:48:06)</span><span style="padding-right:50px;">European shares slip before Fed decision; investors sift corporate news reut.rs/4oQM5uG <a href="https://bsky.app/profile/reuters.com/post/3m7ncdttryb2k" target="_blank">reuters.com</a> (2025-12-10 23:45:16)</span><span style="padding-right:50px;">Betting markets and brokerages have projected a third interest rate cut this year from the Fed. <a href="https://bsky.app/profile/forbes.com/post/3m7ncdkv5hp2f" target="_blank">forbes.com</a> (2025-12-10 23:45:06)</span><span style="padding-right:50px;">Eileen Higgins became the first Democrat to win the Miami mayor’s office in around three decades, defeating a Republican opponent backed by President Trump. <a href="https://bsky.app/profile/wsj.com/post/3m7ncdgymrf2u" target="_blank">wsj.com</a> (2025-12-10 23:45:02)</span><span style="padding-right:50px;">Kinsella, whose real name was Madeleine Wickham, sold over 50 million books worldwide, including a popular series following the life of a fictional shopping-addicted woman in London. The author was diagnosed with an aggressive form of brain cancer in 2022 reut.rs/3KsaMj0 <a href="https://bsky.app/profile/reuters.com/post/3m7nc3krt2s25" target="_blank">reuters.com</a> (2025-12-10 23:40:38)</span>
+<span style="padding-right:50px;">The author, whose real name was Madeleine Sophie Wickham, was diagnosed with an aggressive form of brain cancer in late 2022. n.pr/3XIXeCG <a href="https://bsky.app/profile/npr.org/post/3m7ndmayfuo2x" target="_blank">npr.org</a> (2025-12-11 00:07:52)</span><span style="padding-right:50px;">【ライブ】ノーベル賞授賞式始まる 坂口さんと北川さんが出席 https://news.web.nhk/newsweb/na/na-k10014999581000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ndj2oh2n2x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-11 00:06:03)</span><span style="padding-right:50px;">Europe's EV sector warns about 'efforts to dilute' EU emissions targets reut.rs/4iPcSpP <a href="https://bsky.app/profile/reuters.com/post/3m7ndhhorek2b" target="_blank">reuters.com</a> (2025-12-11 00:05:11)</span><span style="padding-right:50px;">Experts say companies are rolling back their commitments to women's career advancement, which is leading to an ambition gap.  <a href="https://bsky.app/profile/cnbc.com/post/3m7ndh5xcsw2b" target="_blank">cnbc.com</a> (2025-12-11 00:05:01)</span><span style="padding-right:50px;">US sanctions network it says recruits Colombian fighters for Sudan's civil war <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7nde5skyl2a" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-11 00:03:20)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47583.22 (🔺9.26 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23541.26 (🔺5.26 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 184.56 (🔻0.43 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.48 (🔻0.34 : 2025-12-10)</span>
+<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47675.13 (🔺101.17 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23532.81 (🔻3.19 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 184.07 (🔻0.92 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.38 (🔻0.44 : 2025-12-10)</span>
   </div>
 </div>
 
@@ -32,94 +32,99 @@
 
 ## News Headlines
 
-1.  フェデラルレジスターは、2026年のFedレート見通しで市場に最も大きな影響を与えることになる
-2.  ハイエンド腕時計のブームの理由を探る
-3.  米国は、ヴィザワイバーページの国民から、5年間のソーシャルメディアの履歴の提供を求める可能性がある
-4.  ブリティッシュノベリストのソフィーキンセラが55歳で亡くなる
-5.  「ショパホリック」シリーズの作者、ソフィーキンセラが亡くなる
-6.  ペルー大統領のアレハンドロ・トーレスは精査の結果について説明しなかった
+１. メアリー・エリザベス・ウォーカー氏の遺書
+
+２. EUの電気自動車産業、温暖化削減目標の引き下げを懸念
+
+３. 女性のキャリア進出の目標の減少、業界の懸念
+
+４. 米国、コロンビア人をスーダンの内戦に送り込む組織を制裁
+
+５. Netflixとパラマウントがウォーナー・ブラザーズ・ディスカバリーの所有権をめぐり抗争
+
+６. エフレインの秘密の裁判記録、法廷に出すことを許可
 
 ----
 
-@wsj.com
+@npr.org
 
-President Trump touted the economy as he embarked on the first of what is likely to be a series of speeches to address voters’ concerns about affordability.
+The author, whose real name was Madeleine Sophie Wickham, was diagnosed with an aggressive form of brain cancer in late 2022. n.pr/3XIXeCG
 
-[2025-12-10 23:48:06](https://bsky.app/profile/wsj.com/post/3m7ncivwrla2h)
+[2025-12-11 00:07:52](https://bsky.app/profile/npr.org/post/3m7ndmayfuo2x)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【ライブ】ノーベル賞授賞式始まる 坂口さんと北川さんが出席
+https://news.web.nhk/newsweb/na/na-k10014999581000
+
+[2025-12-11 00:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ndj2oh2n2x)
 
 ---
 
 @reuters.com
 
-European shares slip before Fed decision; investors sift corporate news reut.rs/4oQM5uG
+Europe's EV sector warns about 'efforts to dilute' EU emissions targets reut.rs/4iPcSpP
 
-[2025-12-10 23:45:16](https://bsky.app/profile/reuters.com/post/3m7ncdttryb2k)
-
----
-
-@forbes.com
-
-Betting markets and brokerages have projected a third interest rate cut this year from the Fed.
-
-[2025-12-10 23:45:06](https://bsky.app/profile/forbes.com/post/3m7ncdkv5hp2f)
-
----
-
-@wsj.com
-
-Eileen Higgins became the first Democrat to win the Miami mayor’s office in around three decades, defeating a Republican opponent backed by President Trump.
-
-[2025-12-10 23:45:02](https://bsky.app/profile/wsj.com/post/3m7ncdgymrf2u)
-
----
-
-@reuters.com
-
-Kinsella, whose real name was Madeleine Wickham, sold over 50 million books worldwide, including a popular series following the life of a fictional shopping-addicted woman in London. The author was diagnosed with an aggressive form of brain cancer in 2022 reut.rs/3KsaMj0
-
-[2025-12-10 23:40:38](https://bsky.app/profile/reuters.com/post/3m7nc3krt2s25)
-
----
-
-@reuters.com
-
-HSBC to pay about $300 million to settle French tax probe, Bloomberg reports reut.rs/4oKrmZm
-
-[2025-12-10 23:40:24](https://bsky.app/profile/reuters.com/post/3m7nc35iqns2i)
-
----
-
-@nbcnews.com
-
-Democrat Eileen Higgins wins the Miami mayor’s race, NBC News projects, giving the party control of the office for the first time in almost three decades.
-
-Read more: nbcnews.to/452yZmO
-
-[2025-12-10 23:40:08](https://bsky.app/profile/nbcnews.com/post/3m7nc2nrvzs22)
-
----
-
-@forbes.com
-
-Iran and Egypt have complained to FIFA over Seattle’s plans to promote LGTBQ+ support during a World Cup match this June. 
-
-[2025-12-10 23:40:04](https://bsky.app/profile/forbes.com/post/3m7nc2km77w2f)
-
----
-
-@legal.reuters.com
-
-<strong><span style="color: red;">JUST IN:</span> US judge blocks Trump’s National Guard deployment in Los Angeles reut.rs/4iSoAjq</strong>
-
-[2025-12-10 23:36:52](https://bsky.app/profile/legal.reuters.com/post/3m7nbusvqhs2a)
+[2025-12-11 00:05:11](https://bsky.app/profile/reuters.com/post/3m7ndhhorek2b)
 
 ---
 
 @cnbc.com
 
-Traders say the Fed rate outlook for 2026 will have the most market impact today
+Experts say companies are rolling back their commitments to women's career advancement, which is leading to an ambition gap. 
 
-[2025-12-10 23:36:27](https://bsky.app/profile/cnbc.com/post/3m7nbu3hg2q2i)
+[2025-12-11 00:05:01](https://bsky.app/profile/cnbc.com/post/3m7ndh5xcsw2b)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+US sanctions network it says recruits Colombian fighters for Sudan's civil war
+
+[2025-12-11 00:03:20](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7nde5skyl2a)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【地震速報】青森 五戸町で震度４ 津波の心配なし
+https://news.web.nhk/newsweb/na/na-k10014996911000
+
+[2025-12-11 00:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7nddo3qpv2k)
+
+---
+
+@usatoday.com
+
+Clinton Adams, 32, is charged with three felony counts of forcible rape and one felony count of assault with the intent to commit rape.
+
+[2025-12-11 00:01:37](https://bsky.app/profile/usatoday.com/post/3m7ndb3qhr22s)
+
+---
+
+@bloomberg.com
+
+Few industries have seen a more dramatic and rapid realignment since US President Trump announced sweeping tariffs.
+
+[2025-12-11 00:01:10](https://bsky.app/profile/bloomberg.com/post/3m7ndabrjt32h)
+
+---
+
+@financialtimes.com
+
+As Paramount and Netflix square off over ownership of Warner Bros Discovery, antitrust concerns and ties to Trump administration complicate the picture of who may ultimately own media group on.ft.com/3MrW6Ru
+
+[2025-12-11 00:01:08](https://bsky.app/profile/financialtimes.com/post/3m7ndaa6nwx2k)
+
+---
+
+@apnews.com
+
+<strong><span style="color: red;">BREAKING:</span> A judge has ruled secret grand jury transcripts from Jeffrey Epstein's 2019 sex trafficking case can be made public.</strong>
+
+[2025-12-11 00:01:06](https://bsky.app/profile/apnews.com/post/3m7nda5ide52k)
 
 ---
 
@@ -127,7 +132,7 @@ Traders say the Fed rate outlook for 2026 will have the most market impact today
 
 ## 2025-12
 
-[12月10日](2025_12_10.md), [12月09日](2025_12_09.md), [12月08日](2025_12_08.md), [12月07日](2025_12_07.md), [12月06日](2025_12_06.md), [12月05日](2025_12_05.md), [12月04日](2025_12_04.md), [12月03日](2025_12_03.md), [12月02日](2025_12_02.md), [12月01日](2025_12_01.md), 
+[12月11日](2025_12_11.md), [12月10日](2025_12_10.md), [12月09日](2025_12_09.md), [12月08日](2025_12_08.md), [12月07日](2025_12_07.md), [12月06日](2025_12_06.md), [12月05日](2025_12_05.md), [12月04日](2025_12_04.md), [12月03日](2025_12_03.md), [12月02日](2025_12_02.md), [12月01日](2025_12_01.md), 
 
 ## 2025-11
 
