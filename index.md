@@ -1,9 +1,9 @@
-# [2025-12-10 18:30 updated](2025_12_10.md)
+# [2025-12-10 18:50 updated](2025_12_10.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】車がスーパーに突っ込む 女性はねられ軽傷 86歳の男性「アクセルとブレーキを踏み間違えた」福岡 (2025-12-10 17:33) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7mqlhjyd62a" target="_blank">sokuho.news</a> (2025-12-10 18:27:24)</span><span style="padding-right:50px;">Under Donald Trump’s administration, large parts of the US’s biggest domestic law enforcement and intelligence agency have been directed to help its Immigration and Customs Enforcement agents reach a target of 1mn deportations in the president’s first year. on.ft.com/48HEHLT <a href="https://bsky.app/profile/financialtimes.com/post/3m7mqkwpnfb2o" target="_blank">financialtimes.com</a> (2025-12-10 18:27:07)</span><span style="padding-right:50px;">愛知 大府 住宅火災 70代の兄弟2人死亡 https://news.web.nhk/newsweb/na/na-k10015000081000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7mqkukw5p2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-10 18:27:02)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】山形市・惺山高校に刃物を持った女 女は”2本の包丁”を持ち侵入していた (2025-12-10 18:22:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7mqiqdflc27" target="_blank">sokuho.news</a> (2025-12-10 18:25:53)</span><span style="padding-right:50px;">Australia social media ban: Kids barred from apps as world-first policy kicks in <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7mqhxkqb62a" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-10 18:25:26)</span>
+<span style="padding-right:50px;">瀬戸内海かき被害 政府の支援策など 政策パッケージ案明らかに https://news.web.nhk/newsweb/na/na-k10015000201000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7mrql6n6h2x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-10 18:48:08)</span><span style="padding-right:50px;">東南アジア拠点の特殊詐欺増加 日本と各国捜査担当者 連携強化 https://news.web.nhk/newsweb/na/na-k10015000151000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7mrqgln6f2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-10 18:48:03)</span><span style="padding-right:50px;">India's IndusInd Bank chairman to step down in January amid organisational overhaul, sources say reut.rs/3YkcAh6 <a href="https://bsky.app/profile/reuters.com/post/3m7mrlbe6xn2i" target="_blank">reuters.com</a> (2025-12-10 18:45:11)</span><span style="padding-right:50px;">補正予算案 あす採決で与野党合意 衆院予算委理事会 https://news.web.nhk/newsweb/na/na-k10015000221000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7mrl3mc5y2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-10 18:45:03)</span><span style="padding-right:50px;">India File: IndiGo blues choke flyers reut.rs/4a47A7z <a href="https://bsky.app/profile/reuters.com/post/3m7mrcjtx542x" target="_blank">reuters.com</a> (2025-12-10 18:40:18)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47560.29 (🔻164.23 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23576.49 (🔺71.88 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.97 (🔻0.59 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.79 (🔻0.03 : 2025-12-10)</span>
+<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47560.29 (🔻164.23 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23576.49 (🔺71.88 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.97 (🔻0.59 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.84 (🔺0.01 : 2025-12-10)</span>
   </div>
 </div>
 
@@ -32,113 +32,98 @@
 
 ## News Headlines
 
-1. 86歳男性がアクセルとブレーキを踏み間違え　車がスーパーの壁に突っ込み女性はけが
-2. 70代の兄弟2人死亡　愛知県大府市で住宅火災
-3. 山形市の高校に刃物を持った30代の女性が逮捕
-4. 神奈川県に自衛隊を派遣　日向山の山火事が続く
-5. 渋谷のカフェ・コンビニにごみ箱を設置　過料5万円の条例が可決
-6. ノーベル平和賞　ベネズエラのマチャド氏　授賞式に出席せず
+1.  政府が瀬戸内海の干潟で起こるかきの被害を防ぐための支援策などを策定することを明らかにした。
+2.  東南アジアの国々で特殊詐欺が増加しているため、日本と各国の捜査担当者が協力して調査を強化することを発表した。
+3.  インドのインドス銀行の会長が1月に退任することを発表した。
+4.  衆議院予算委員会で、補正予算の採決が行われ、与野党で合意が得られた。
+5.  フランスでは、極右派の政治家がBBCにインタビューを与え、欧州に対するアメリカの警告について同意を表明した。
+6.  カーリングの世界最終予選で、日本の女子代表は2位で、最終戦で優勝を目指すこととなった。
 
 ----
 
-@sokuho.news
+@nhknewsunofficial.bsky.social
 
-🛎️NNNより【速報】です。
+瀬戸内海かき被害 政府の支援策など 政策パッケージ案明らかに
+https://news.web.nhk/newsweb/na/na-k10015000201000
 
-【速報】車がスーパーに突っ込む 女性はねられ軽傷 86歳の男性「アクセルとブレーキを踏み間違えた」福岡
-(2025-12-10 17:33) #ニュース
-
-[2025-12-10 18:27:24](https://bsky.app/profile/sokuho.news/post/3m7mqlhjyd62a)
-
----
-
-@financialtimes.com
-
-Under Donald Trump’s administration, large parts of the US’s biggest domestic law enforcement and intelligence agency have been directed to help its Immigration and Customs Enforcement agents reach a target of 1mn deportations in the president’s first year. on.ft.com/48HEHLT
-
-[2025-12-10 18:27:07](https://bsky.app/profile/financialtimes.com/post/3m7mqkwpnfb2o)
+[2025-12-10 18:48:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7mrql6n6h2x)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-愛知 大府 住宅火災 70代の兄弟2人死亡
-https://news.web.nhk/newsweb/na/na-k10015000081000
+東南アジア拠点の特殊詐欺増加 日本と各国捜査担当者 連携強化
+https://news.web.nhk/newsweb/na/na-k10015000151000
 
-[2025-12-10 18:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7mqkukw5p2b)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】山形市・惺山高校に刃物を持った女 女は”2本の包丁”を持ち侵入していた
-(2025-12-10 18:22:00) #ニュース
-
-[2025-12-10 18:25:53](https://bsky.app/profile/sokuho.news/post/3m7mqiqdflc27)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Australia social media ban: Kids barred from apps as world-first policy kicks in
-
-[2025-12-10 18:25:26](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7mqhxkqb62a)
+[2025-12-10 18:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7mrqgln6f2b)
 
 ---
 
 @reuters.com
 
-Malik Beasley, agent deny reports guard close to playing in Serbia reut.rs/48SXSmm
+India's IndusInd Bank chairman to step down in January amid organisational overhaul, sources say reut.rs/3YkcAh6
 
-[2025-12-10 18:25:10](https://bsky.app/profile/reuters.com/post/3m7mqhhfut32b)
+[2025-12-10 18:45:11](https://bsky.app/profile/reuters.com/post/3m7mrlbe6xn2i)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-補正予算案 国民 玉木代表が賛成表明 今国会で成立へ
-https://news.web.nhk/newsweb/na/na-k10015000181000
+補正予算案 あす採決で与野党合意 衆院予算委理事会
+https://news.web.nhk/newsweb/na/na-k10015000221000
 
-[2025-12-10 18:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7mqa5tbae2b)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】山形市・惺山高校に刃物を持った女 警察が現行犯逮捕 女は30代とみられる
-(2025-12-10 18:16:00) #ニュース
-
-[2025-12-10 18:20:57](https://bsky.app/profile/sokuho.news/post/3m7mq7wp7wk27)
+[2025-12-10 18:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7mrl3mc5y2u)
 
 ---
 
-@sokuho.news
+@reuters.com
 
-🛎️JNNより【速報】です。
+India File: IndiGo blues choke flyers reut.rs/4a47A7z
 
-【速報】神奈川県・日向山の山火事 神奈川県が自衛隊に災害派遣要請 「さらなる消火能力が必要」消防ヘリによる消火活動も延焼続く
-(2025-12-10 18:16:41) #ニュース
-
-[2025-12-10 18:20:49](https://bsky.app/profile/sokuho.news/post/3m7mq7oxul72e)
+[2025-12-10 18:40:18](https://bsky.app/profile/reuters.com/post/3m7mrcjtx542x)
 
 ---
 
-@nikkei.com
+@nhknewsunofficial.bsky.social
 
-渋谷のカフェ・コンビニ、ごみ箱設置が義務化　過料5万円の条例可決（無料記事）
-www.nikkei.com/article/DGXZQO...
+円相場 値下がり 米の利下げペース緩やかになるのではとの見方
+https://news.web.nhk/newsweb/na/na-k10015000211000
 
-区内全域でごみのポイ捨てをした人からも新たに2000円の過料をとります。
+[2025-12-10 18:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7mradjq762d)
 
-2026年6月から罰則の適用を始めます。
+---
 
-#ニュース
+@reuters.com
 
-[2025-12-10 18:19:32](https://bsky.app/profile/nikkei.com/post/3m7mq5fkljv2f)
+LIVE: UN High Commissioner for Human Rights Volker Turk speaks in Geneva youtube.com/live/l5zkULH...
+
+[2025-12-10 18:38:51](https://bsky.app/profile/reuters.com/post/3m7mr7wbuok2x)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+French far-right leader tells BBC he shares US warnings on Europe 'for most part'
+
+[2025-12-10 18:37:12](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7mr4yxhpr2s)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+カーリング 五輪世界最終予選 女子日本代表は2位 あす決定戦
+https://news.web.nhk/newsweb/na/na-k10015000191000
+
+[2025-12-10 18:36:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7mr35gicd22)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+レアアースの使用量減らしてEVモーター製造 技術開発が加速
+https://news.web.nhk/newsweb/na/na-k10015000161000
+
+[2025-12-10 18:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7mr2y473q26)
 
 ---
 
