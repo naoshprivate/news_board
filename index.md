@@ -1,9 +1,9 @@
-# [2025-12-10 13:50 updated](2025_12_10.md)
+# [2025-12-10 14:10 updated](2025_12_10.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】北海道・鈴木知事、泊原発再稼働の同意を表明 北電は2027年早期を目指す (13:45) #ニュース https://news.tv-asahi.co.jp/news_society/articles/000472036.html?display=full <a href="https://bsky.app/profile/sokuho.news/post/3m7mayfvsjx27" target="_blank">sokuho.news</a> (2025-12-10 13:48:18)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】北電泊原発3号機の再稼働について鈴木直道知事が「同意」正式表明 北海道議会 (2025-12-10 13:00:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7maxulbg42v" target="_blank">sokuho.news</a> (2025-12-10 13:48:01)</span><span style="padding-right:50px;">泊原発3号機、北海道知事が再稼働に同意表明　2027年にも営業運転 www.nikkei.com/article/DGXZQO...   再稼働には北海道知事と、道内の原発立地・周辺4町村（泊村、共和町、岩内町、神恵内村）の首長の同意が実質的に必要。4町村の首長はすでに同意の意向を示しています。   #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m7mar5dqv422" target="_blank">nikkei.com</a> (2025-12-10 13:44:15)</span><span style="padding-right:50px;">A rights group has reported FIFA president Gianni Infantino to the soccer world governing body's ethics investigators over his public support for President Trump and a peace prize awarded to the U.S. leader. <a href="https://bsky.app/profile/axios.com/post/3m7maqkn3nc2c" target="_blank">axios.com</a> (2025-12-10 13:43:55)</span><span style="padding-right:50px;">Shooting at Kentucky State University kills one, suspect in custody reut.rs/4rLQwt9 <a href="https://bsky.app/profile/reuters.com/post/3m7mak7mpup2s" target="_blank">reuters.com</a> (2025-12-10 13:40:22)</span>
+<span style="padding-right:50px;">ノーベル博物館 日本からの受賞者寄贈の記念品など展示 https://news.web.nhk/newsweb/na/na-k10014999581000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7mc5jslnz2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-10 14:09:02)</span><span style="padding-right:50px;">JUST IN: Amazon pledges to invest $35 billion in India over the next five years <a href="https://bsky.app/profile/bloomberg.com/post/3m7mc3ym4xq2u" target="_blank">bloomberg.com</a> (2025-12-10 14:08:13)</span><span style="padding-right:50px;">野球日本代表 井端監督 大リーグ選手のWBC出場“東京から” https://news.web.nhk/newsweb/na/na-k10014999901000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7mby77m462u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-10 14:06:03)</span><span style="padding-right:50px;">"If parents outside of Australia adopt the same rules, our kids will thank us later," writes Kara Alaimo. | Analysis https://cnn.it/3MtCeNO <a href="https://bsky.app/profile/cnn.com/post/3m7mbqwgwng2v" target="_blank">cnn.com</a> (2025-12-10 14:02:01)</span><span style="padding-right:50px;">ホットライン取れぬ中国　汚職摘発で揺れる軍幹部、対話の余裕なく www.nikkei.com/article/DGXZQO...  中国軍機によるレーダー照射事案で、日本側がホットラインを使おうとしましたが中国側は応じませんでした。  冷戦期の米ソのような首脳間でなく、防衛当局者間であることも機能しない一因。  安易に応じたら、それ自体が共産党の最高指導部の了承がない独断だと責任を問われ、失脚する恐れがあるためです。 <a href="https://bsky.app/profile/nikkei.com/post/3m7mbqluark2y" target="_blank">nikkei.com</a> (2025-12-10 14:01:50)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50584.58 (🔻294.08 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47560.29 (🔻164.23 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23576.49 (🔺71.88 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.97 (🔻0.59 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3118.00 (🔺29.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.59 (🔻0.23 : 2025-12-10)</span>
+<span style="padding-right:50px;">NIKKEI: 50522.95 (🔻355.71 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47560.29 (🔻164.23 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23576.49 (🔺71.88 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.97 (🔻0.59 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3120.00 (🔺31.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.61 (🔻0.21 : 2025-12-10)</span>
   </div>
 </div>
 
@@ -32,111 +32,107 @@
 
 ## News Headlines
 
-1.  【速報】北海道鈴木知事が泊原発再稼働の同意を表明
-2.  北海道泊原発3号機の再稼働　知事が同意を表明
-3.  Netflix買収に反対の声が続出　「大惨事になる」
-4.  カーリング五輪世界最終予選　男子日本代表が勝ち通算4勝2敗
-5.  群馬・妙義山の山火事　ほぼ消し止められる　鎮火に向け消火活動継続
-6.  恐竜は小惑星衝突の直前まで繁栄　新たな「強力な証拠」発見
+1. ノーベル博物館　日本からの受賞者寄贈の記念品など展示
+2. Amazonがインドに35億ドルを投資　5年間の計画
+3. 野球日本代表　井端監督　WBC出場「東京から」発表
+4. 北海道知事が泊原発再稼働に同意表明　2027年にも営業運転
+5. FIFA会長がトランプ大統領への支持を問題と検討　FIFA倫理調査委員会に報告
+6. Netflixがワーナーを買収　ハリウッドクリエイターが反対の声
 
 ----
 
-@sokuho.news
+@nhknewsunofficial.bsky.social
 
-🔔ANNより【速報】です。
+ノーベル博物館 日本からの受賞者寄贈の記念品など展示
+https://news.web.nhk/newsweb/na/na-k10014999581000
 
-【速報】北海道・鈴木知事、泊原発再稼働の同意を表明 北電は2027年早期を目指す
-(13:45) #ニュース
-https://news.tv-asahi.co.jp/news_society/articles/000472036.html?display=full
-
-[2025-12-10 13:48:18](https://bsky.app/profile/sokuho.news/post/3m7mayfvsjx27)
+[2025-12-10 14:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7mc5jslnz2w)
 
 ---
 
-@sokuho.news
+@bloomberg.com
 
-🛎️JNNより【速報】です。
+<strong><span style="color: red;">JUST IN:</span> Amazon pledges to invest $35 billion in India over the next five years</strong>
 
-【速報】北電泊原発3号機の再稼働について鈴木直道知事が「同意」正式表明 北海道議会
-(2025-12-10 13:00:00) #ニュース
-
-[2025-12-10 13:48:01](https://bsky.app/profile/sokuho.news/post/3m7maxulbg42v)
-
----
-
-@nikkei.com
-
-泊原発3号機、北海道知事が再稼働に同意表明　2027年にも営業運転
-www.nikkei.com/article/DGXZQO...
- 
-再稼働には北海道知事と、道内の原発立地・周辺4町村（泊村、共和町、岩内町、神恵内村）の首長の同意が実質的に必要。4町村の首長はすでに同意の意向を示しています。
- 
-#ニュース
-
-[2025-12-10 13:44:15](https://bsky.app/profile/nikkei.com/post/3m7mar5dqv422)
-
----
-
-@axios.com
-
-A rights group has reported FIFA president Gianni Infantino to the soccer world governing body's ethics investigators over his public support for President Trump and a peace prize awarded to the U.S. leader.
-
-[2025-12-10 13:43:55](https://bsky.app/profile/axios.com/post/3m7maqkn3nc2c)
-
----
-
-@reuters.com
-
-Shooting at Kentucky State University kills one, suspect in custody reut.rs/4rLQwt9
-
-[2025-12-10 13:40:22](https://bsky.app/profile/reuters.com/post/3m7mak7mpup2s)
-
----
-
-@nytimes.com
-
-These are the romance books our columnist loved the most in 2025.
-
-[2025-12-10 13:40:04](https://bsky.app/profile/nytimes.com/post/3m7majntbdc2y)
+[2025-12-10 14:08:13](https://bsky.app/profile/bloomberg.com/post/3m7mc3ym4xq2u)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-北海道 泊原発3号機の再稼働 知事が同意を表明
-https://news.web.nhk/newsweb/na/na-k10014999701000
+野球日本代表 井端監督 大リーグ選手のWBC出場“東京から”
+https://news.web.nhk/newsweb/na/na-k10014999901000
 
-[2025-12-10 13:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7mahvb4fo2x)
-
----
-
-@sokuho.news
-
-<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>北海道 泊原発3号機の再稼働 知事が同意を表明</strong><br><strong>(2025-12-10 13:38:14) #ニュース</strong>
-
-[2025-12-10 13:38:43](https://bsky.app/profile/sokuho.news/post/3m7mahb76ke25)
+[2025-12-10 14:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7mby77m462u)
 
 ---
 
-@sokuho.news
+@cnn.com
 
-🔔ANNより【速報】です。
+"If parents outside of Australia adopt the same rules, our kids will thank us later," writes Kara Alaimo. | Analysis https://cnn.it/3MtCeNO
 
-【速報】北海道鈴木知事が泊原発再稼働の同意を表明 北電が2027年早期の再稼働目指す
-(2025年12月10日 13:38) #ニュース
-
-[2025-12-10 13:38:10](https://bsky.app/profile/sokuho.news/post/3m7magbheph2r)
+[2025-12-10 14:02:01](https://bsky.app/profile/cnn.com/post/3m7mbqwgwng2v)
 
 ---
 
-@sokuho.news
+@nikkei.com
 
-🛎️NNNより【速報】です。
+ホットライン取れぬ中国　汚職摘発で揺れる軍幹部、対話の余裕なく
+www.nikkei.com/article/DGXZQO...
 
-【速報】北海道知事が同意表明 泊原発3号機の再稼働 地元4町村含め「同意」出そろう
-(2025-12-10 13:37) #ニュース
+中国軍機によるレーダー照射事案で、日本側がホットラインを使おうとしましたが中国側は応じませんでした。
 
-[2025-12-10 13:37:43](https://bsky.app/profile/sokuho.news/post/3m7mafhmzed2y)
+冷戦期の米ソのような首脳間でなく、防衛当局者間であることも機能しない一因。
+
+安易に応じたら、それ自体が共産党の最高指導部の了承がない独断だと責任を問われ、失脚する恐れがあるためです。
+
+[2025-12-10 14:01:50](https://bsky.app/profile/nikkei.com/post/3m7mbqluark2y)
+
+---
+
+@cnbc.com
+
+Rashan Brown's New York-based side hustle Poetry me, please brings in six figures per year. 
+
+“I have full creative autonomy as an entrepreneur and as a CEO, like, every decision comes back to me,” Brown says.
+
+Here's how he built it.
+
+[2025-12-10 14:01:04](https://bsky.app/profile/cnbc.com/post/3m7mbp7lzl52e)
+
+---
+
+@reuters.com
+
+Venture Global hits back at Shell's fraud claims in LNG arbitration battle reut.rs/3MqTkMh
+
+[2025-12-10 14:00:51](https://bsky.app/profile/reuters.com/post/3m7mbot5fmm2y)
+
+---
+
+@aljazeera.com
+
+Former President Jair Bolsonaro has endorsed his eldest son's campaign to be Brazil's next president in the 2026 race.
+
+[2025-12-10 14:00:31](https://bsky.app/profile/aljazeera.com/post/3m7mboakhi627)
+
+---
+
+@bloomberg.com
+
+Trump tells a rally in Pennsylvania that Americans are “starting to learn” the benefits of his tariff regime as he tries to convince voters his administration is addressing affordability concerns.
+
+[2025-12-10 14:00:16](https://bsky.app/profile/bloomberg.com/post/3m7mbnrpxz32e)
+
+---
+
+@en.afp.com
+
+UPDATE Cambodia withdrew on Wednesday from the Southeast Asian Games, a Games official said, as a border conflict with hosts Thailand escalated and forced a mass exodus of civilians from both sides of the disputed frontier 
+
+u.afp.com/S7Qb
+
+[2025-12-10 14:00:13](https://bsky.app/profile/en.afp.com/post/3m7mbnozs6l2h)
 
 ---
 
