@@ -1,9 +1,9 @@
-# [2025-12-10 10:30 updated](2025_12_10.md)
+# [2025-12-10 10:50 updated](2025_12_10.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Eileen Higgins will be the next mayor of the city of Miami, according to a projection from CNN’s Decision Desk, breaking a nearly 30-year Republican streak in holding the nonpartisan seat. https://cnn.it/3KKGzLX <a href="https://bsky.app/profile/cnn.com/post/3m7lvnti3nv2b" target="_blank">cnn.com</a> (2025-12-10 10:25:33)</span><span style="padding-right:50px;">中国軍戦闘機のレーダー照射 米国務省“地域の平和に資さず” https://news.web.nhk/newsweb/na/na-k10014999661000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7lvl7p6na2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-10 10:24:03)</span><span style="padding-right:50px;">China adds domestic AI chips to official procurement list for first time on.ft.com/3Mqw9Sh <a href="https://bsky.app/profile/financialtimes.com/post/3m7lvh76n3r2w" target="_blank">financialtimes.com</a> (2025-12-10 10:21:50)</span><span style="padding-right:50px;">FDA probes deaths likely related to COVID vaccines across age groups reut.rs/4oOorz1 <a href="https://bsky.app/profile/reuters.com/post/3m7lveh3l4f24" target="_blank">reuters.com</a> (2025-12-10 10:20:18)</span><span style="padding-right:50px;">Dozens of vulture carcasses, left decomposing for days outside a Catholic school in Ohio while agencies pointed fingers over who was responsible for cleaning them up, were believed to have been infected with bird flu, health officials said on Monday. <a href="https://bsky.app/profile/nytimes.com/post/3m7lvdywccb2b" target="_blank">nytimes.com</a> (2025-12-10 10:20:03)</span>
+<span style="padding-right:50px;">The US president will soon launch a final round of interviews of candidates to replace Jay Powell, suggesting Hassett’s selection is not guaranteed on.ft.com/4pRZx2i <a href="https://bsky.app/profile/financialtimes.com/post/3m7lwruc3bt25" target="_blank">financialtimes.com</a> (2025-12-10 10:45:42)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】公園の遊具を利用して男子高校生の胸などを蹴った疑い 16歳の男子高校生2人を逮捕【香川】 (2025-12-10 10:41:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7lwrriizg2y" target="_blank">sokuho.news</a> (2025-12-10 10:45:39)</span><span style="padding-right:50px;">Miami will have its first Democratic mayor in nearly 30 years after voters elected former county commissioner Eileen Higgins, in a race that drew attention from both President Trump and national Democrats. <a href="https://bsky.app/profile/washingtonpost.com/post/3m7lwqownco2e" target="_blank">washingtonpost.com</a> (2025-12-10 10:45:02)</span><span style="padding-right:50px;">After ICE arrested his mom, 18-year-old citizen worries he could be next while caring for younger sister. <a href="https://bsky.app/profile/cbsnews.com/post/3m7lwqndjj52g" target="_blank">cbsnews.com</a> (2025-12-10 10:45:01)</span><span style="padding-right:50px;">Bayern stage three-goal comeback in 12 minutes to beat Sporting 3-1 reut.rs/4a3l5o1 <a href="https://bsky.app/profile/reuters.com/post/3m7lwie34ng2b" target="_blank">reuters.com</a> (2025-12-10 10:40:22)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50673.09 (🔻205.57 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47560.29 (🔻164.23 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23576.49 (🔺71.87 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.97 (🔻0.59 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3105.00 (🔺16.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.73 (🔻0.09 : 2025-12-10)</span>
+<span style="padding-right:50px;">NIKKEI: 50490.94 (🔻387.72 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47560.29 (🔻164.23 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23576.49 (🔺71.87 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.97 (🔻0.59 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3103.00 (🔺14.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.70 (🔻0.12 : 2025-12-10)</span>
   </div>
 </div>
 
@@ -32,96 +32,97 @@
 
 ## News Headlines
 
-1. 米州で初めての女性市長に選出されるエイリーン・ヒギンズ氏
-2. 中国軍が米国に向けたレーダー照射　「地域の平和に資さず」
-3. 30年ぶりの民主党の候補者が米マイアミ市長に選出
-4. ウクライナ大統領が選挙実施を発表　ロシアの圧力に反対
-5. アメリカのFDAがCOVID-19ワクチンに関連した死亡事件を調査
-6. SpaceXがIPOを計画　30億ドル超の資金調達を目指す
+1. 
+米大統領は、ジャイ・ポウエル後継者選考の最終ラウンドを始める
+2. 
+香川県の公園で、高校生の胸を蹴った疑い　2人逮捕
+3. 30年ぶりとなる民主党候補のエイリーン・ヒギンズ氏がマイアミ市長に当選
+4. 18歳の市民、母親逮捕後のICEの不安を訴える
+5. 米企業、女性のリーダー割合の増加に懸念も
+6. 米国務省「中国の軍用機のレーダー照射は地域の平和に資さず」
 
 ----
 
-@cnn.com
-
-Eileen Higgins will be the next mayor of the city of Miami, according to a projection from CNN’s Decision Desk, breaking a nearly 30-year Republican streak in holding the nonpartisan seat. https://cnn.it/3KKGzLX
-
-[2025-12-10 10:25:33](https://bsky.app/profile/cnn.com/post/3m7lvnti3nv2b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-中国軍戦闘機のレーダー照射 米国務省“地域の平和に資さず”
-https://news.web.nhk/newsweb/na/na-k10014999661000
-
-[2025-12-10 10:24:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7lvl7p6na2w)
-
----
-
 @financialtimes.com
 
-China adds domestic AI chips to official procurement list for first time on.ft.com/3Mqw9Sh
+The US president will soon launch a final round of interviews of candidates to replace Jay Powell, suggesting Hassett’s selection is not guaranteed on.ft.com/4pRZx2i
 
-[2025-12-10 10:21:50](https://bsky.app/profile/financialtimes.com/post/3m7lvh76n3r2w)
-
----
-
-@reuters.com
-
-FDA probes deaths likely related to COVID vaccines across age groups reut.rs/4oOorz1
-
-[2025-12-10 10:20:18](https://bsky.app/profile/reuters.com/post/3m7lveh3l4f24)
+[2025-12-10 10:45:42](https://bsky.app/profile/financialtimes.com/post/3m7lwruc3bt25)
 
 ---
 
-@nytimes.com
+@sokuho.news
 
-Dozens of vulture carcasses, left decomposing for days outside a Catholic school in Ohio while agencies pointed fingers over who was responsible for cleaning them up, were believed to have been infected with bird flu, health officials said on Monday.
+🛎️JNNより【速報】です。
 
-[2025-12-10 10:20:03](https://bsky.app/profile/nytimes.com/post/3m7lvdywccb2b)
+【速報】公園の遊具を利用して男子高校生の胸などを蹴った疑い 16歳の男子高校生2人を逮捕【香川】
+(2025-12-10 10:41:00) #ニュース
+
+[2025-12-10 10:45:39](https://bsky.app/profile/sokuho.news/post/3m7lwrriizg2y)
+
+---
+
+@washingtonpost.com
+
+Miami will have its first Democratic mayor in nearly 30 years after voters elected former county commissioner Eileen Higgins, in a race that drew attention from both President Trump and national Democrats.
+
+[2025-12-10 10:45:02](https://bsky.app/profile/washingtonpost.com/post/3m7lwqownco2e)
 
 ---
 
 @cbsnews.com
 
-Eileen Higgins wins Miami mayoral runoff, breaking 30-year Democratic drought.
+After ICE arrested his mom, 18-year-old citizen worries he could be next while caring for younger sister.
 
-[2025-12-10 10:18:01](https://bsky.app/profile/cbsnews.com/post/3m7lvaehjfc2t)
-
----
-
-@cnn.com
-
-An Army gynecologist accused of sexual misconduct by dozens of his former patients is officially charged with allegedly recording his patients, along with several other related charges, the Army’s Office of Special Trial Counsel said. 
-
-[2025-12-10 10:15:04](https://bsky.app/profile/cnn.com/post/3m7lv345zg626)
-
----
-
-@nhknewsunofficial.bsky.social
-
-高市首相動静 2025年12月9日
-https://news.web.nhk/newsweb/na/na-k10014999651000
-
-[2025-12-10 10:12:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7luvr2jlt2y)
-
----
-
-@bloomberg.com
-
-Trump decided to let Nvidia sell its H200 AI chips to China after concluding the move carried a lower security risk because the company’s Chinese archrival, Huawei, already offers AI systems with comparable performance, sources say. bloom.bg/4rUViVB
-
-📷: Graeme Sloan/Bloomberg
-
-[2025-12-10 10:11:30](https://bsky.app/profile/bloomberg.com/post/3m7luupuajt2p)
+[2025-12-10 10:45:01](https://bsky.app/profile/cbsnews.com/post/3m7lwqndjj52g)
 
 ---
 
 @reuters.com
 
-Shells of unknown origin land near military airport in Damascus, Syrian media says reut.rs/492lDJF
+Bayern stage three-goal comeback in 12 minutes to beat Sporting 3-1 reut.rs/4a3l5o1
 
-[2025-12-10 10:10:20](https://bsky.app/profile/reuters.com/post/3m7lusncj3c2x)
+[2025-12-10 10:40:22](https://bsky.app/profile/reuters.com/post/3m7lwie34ng2b)
+
+---
+
+@cnbc.com
+
+CNBC Daily Open: A 'hawkish cut' by the Fed could dull festivities
+
+[2025-12-10 10:34:25](https://bsky.app/profile/cnbc.com/post/3m7lw5pejtl2x)
+
+---
+
+@wsj.com
+
+Humans rank among the most monogamist of mammals, a study suggests. One breed of sheep, not so much.
+
+[2025-12-10 10:33:19](https://bsky.app/profile/wsj.com/post/3m7lw3qmyl62r)
+
+---
+
+@npr.org
+
+Classes and campus activities were canceled for the rest of the week after a shooting that police said left one student dead and another in critical condition. Police said a suspect who is not a KSU student was in custody. n.pr/4iRglUP
+
+[2025-12-10 10:33:17](https://bsky.app/profile/npr.org/post/3m7lw3of3ui2e)
+
+---
+
+@cnn.com
+
+Large US companies have made progress – albeit slowly – over the past decade when it comes to increasing the number of women in management and leadership roles on every rung of the corporate ladder. 
+
+[2025-12-10 10:33:02](https://bsky.app/profile/cnn.com/post/3m7lw37uoip23)
+
+---
+
+@usatoday.com
+
+Republican Rep. Nancy Mace, who is running to become South Carolina's governor, wrote Nancy Pelosi was better than current House Speaker Mike Johnson.
+
+[2025-12-10 10:30:50](https://bsky.app/profile/usatoday.com/post/3m7lvxbwokl2w)
 
 ---
 
