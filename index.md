@@ -1,9 +1,9 @@
-# [2025-12-10 12:10 updated](2025_12_10.md)
+# [2025-12-10 12:30 updated](2025_12_10.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">福間香奈女流六冠「出産日前後の不戦敗規定、リプロダクティブ権を制約」　将棋連盟に見直し要望書 www.nikkei.com/article/DGXZQO...   将棋連盟の規定では、対局日程と出産予定日の前後計14週の期間が一部でも重なる場合、対局者が変更されます。   タイトル保持者が妊娠した場合は挑戦者と次点の挑戦者が、挑戦者が妊娠した時は次点の挑戦者が保持者と対局するとされ、妊娠した場合には事実上、一定期間不戦敗となります。   福間女流は2024年12月に休場し、挑戦者だった一部の対局は不戦敗となっていました。 <a href="https://bsky.app/profile/nikkei.com/post/3m7m2zzfdzd2m" target="_blank">nikkei.com</a> (2025-12-10 12:01:50)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】長崎市で約3千戸が停電 「作業員が誤って送電中の電線に工具を接触」 (2025-12-10 11:56:00) #ニュース  🕯停電情報 🔗https://www.fepc.or.jp/sp/bousai/link.html <a href="https://bsky.app/profile/sokuho.news/post/3m7m2zkqsx22e" target="_blank">sokuho.news</a> (2025-12-10 12:01:35)</span><span style="padding-right:50px;">It's official: Former President Joe Biden's signature student loan repayment plan is over. And the clock is ticking for millions of borrowers to enroll in another program. yhoo.it/4rJ09cl <a href="https://bsky.app/profile/yahoonews.com/post/3m7m2yop7c72y" target="_blank">yahoonews.com</a> (2025-12-10 12:01:06)</span><span style="padding-right:50px;">US consumer bureau to issue 'interim final' open banking rule, cites funding shortfall reut.rs/3MzSfBM <a href="https://bsky.app/profile/reuters.com/post/3m7m2ymkzlp2k" target="_blank">reuters.com</a> (2025-12-10 12:01:03)</span><span style="padding-right:50px;">Nearly a year after Hoda Kotb left "Today with Hoda and Jenna," her replacement has been revealed. Sheinelle Jones will be joining Jenna Bush Hager. <a href="https://bsky.app/profile/usatoday.com/post/3m7m2ya2ahs2s" target="_blank">usatoday.com</a> (2025-12-10 12:00:50)</span>
+<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】妙義山の火事が鎮圧 (2025-12-10 12:25:40) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7m4gzssfl2y" target="_blank">sokuho.news</a> (2025-12-10 12:27:01)</span><span style="padding-right:50px;">青森 八戸 小中学校多くが再開【10日の動き】後発地震注意情報 https://news.web.nhk/newsweb/na/na-k10014999711000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7m4br5lcf2y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-10 12:24:02)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】斎藤知事の給与カット案自民・維新・公明が再び継続審議が妥当と判断 賛成の方針から一転 兵庫県議会 (2025-12-10 12:22) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7m46prscu2b" target="_blank">sokuho.news</a> (2025-12-10 12:22:22)</span><span style="padding-right:50px;">Trump touts upbeat message on cost of living as Americans feel the pinch <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7m44jpldm2b" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-10 12:21:08)</span><span style="padding-right:50px;">US threatens to withhold Chicago transit funding after attack on passenger reut.rs/44hOqaw <a href="https://bsky.app/profile/reuters.com/post/3m7m43io7gp2b" target="_blank">reuters.com</a> (2025-12-10 12:20:34)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50448.28 (🔻430.38 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47560.29 (🔻164.23 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23576.49 (🔺71.88 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.97 (🔻0.59 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3099.00 (🔺10.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.65 (🔻0.17 : 2025-12-10)</span>
+<span style="padding-right:50px;">NIKKEI: 50448.28 (🔻430.38 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47560.29 (🔻164.23 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23576.49 (🔺71.88 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.97 (🔻0.59 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3099.00 (🔺10.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.62 (🔻0.21 : 2025-12-10)</span>
   </div>
 </div>
 
@@ -32,108 +32,108 @@
 
 ## News Headlines
 
-1. 福間香奈女流六冠「出産日前後の不戦敗規定、リプロダクティブ権を制約」
-2. 長崎市で約3千戸が停電 「作業員が誤って送電中の電線に工具を接触」
-3. 米国連邦消費者庁「インターネットバンキング規則」発表
-4. ドイツの女性が「トランプ氏は殺害していません」と主張
-5. メキシコのシエナブームが米国との水資源交渉を目指す
-6. 「ゾンビたばこ」まん延　組織的に密輸・SNSで売買
+1. 妙義山の火事が鎮圧されました。
+2. 青森の小中学校の多くが再開しました。
+3. 兵庫県議会が斎藤知事の給与カット案を継続審議にしました。
+4. 地震が起こりました（最大震度1、三宅島近海）。
+5. 将棋の福間香奈女流六冠が妊娠や出産への配慮を求める要望書を提出しました。
+6. 長崎市で停電が発生しました。
 
 ----
-
-@nikkei.com
-
-福間香奈女流六冠「出産日前後の不戦敗規定、リプロダクティブ権を制約」　将棋連盟に見直し要望書
-www.nikkei.com/article/DGXZQO...
- 
-将棋連盟の規定では、対局日程と出産予定日の前後計14週の期間が一部でも重なる場合、対局者が変更されます。
- 
-タイトル保持者が妊娠した場合は挑戦者と次点の挑戦者が、挑戦者が妊娠した時は次点の挑戦者が保持者と対局するとされ、妊娠した場合には事実上、一定期間不戦敗となります。
- 
-福間女流は2024年12月に休場し、挑戦者だった一部の対局は不戦敗となっていました。
-
-[2025-12-10 12:01:50](https://bsky.app/profile/nikkei.com/post/3m7m2zzfdzd2m)
-
----
 
 @sokuho.news
 
 🛎️JNNより【速報】です。
 
-【速報】長崎市で約3千戸が停電 「作業員が誤って送電中の電線に工具を接触」
-(2025-12-10 11:56:00) #ニュース
+【速報】妙義山の火事が鎮圧
+(2025-12-10 12:25:40) #ニュース
 
-🕯停電情報
-🔗https://www.fepc.or.jp/sp/bousai/link.html
-
-[2025-12-10 12:01:35](https://bsky.app/profile/sokuho.news/post/3m7m2zkqsx22e)
+[2025-12-10 12:27:01](https://bsky.app/profile/sokuho.news/post/3m7m4gzssfl2y)
 
 ---
 
-@yahoonews.com
+@nhknewsunofficial.bsky.social
 
-It's official: Former President Joe Biden's signature student loan repayment plan is over. And the clock is ticking for millions of borrowers to enroll in another program.
-yhoo.it/4rJ09cl
+青森 八戸 小中学校多くが再開【10日の動き】後発地震注意情報
+https://news.web.nhk/newsweb/na/na-k10014999711000
 
-[2025-12-10 12:01:06](https://bsky.app/profile/yahoonews.com/post/3m7m2yop7c72y)
+[2025-12-10 12:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7m4br5lcf2y)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】斎藤知事の給与カット案自民・維新・公明が再び継続審議が妥当と判断 賛成の方針から一転 兵庫県議会
+(2025-12-10 12:22) #ニュース
+
+[2025-12-10 12:22:22](https://bsky.app/profile/sokuho.news/post/3m7m46prscu2b)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Trump touts upbeat message on cost of living as Americans feel the pinch
+
+[2025-12-10 12:21:08](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7m44jpldm2b)
 
 ---
 
 @reuters.com
 
-US consumer bureau to issue 'interim final' open banking rule, cites funding shortfall reut.rs/3MzSfBM
+US threatens to withhold Chicago transit funding after attack on passenger reut.rs/44hOqaw
 
-[2025-12-10 12:01:03](https://bsky.app/profile/reuters.com/post/3m7m2ymkzlp2k)
-
----
-
-@usatoday.com
-
-Nearly a year after Hoda Kotb left "Today with Hoda and Jenna," her replacement has been revealed. Sheinelle Jones will be joining Jenna Bush Hager.
-
-[2025-12-10 12:00:50](https://bsky.app/profile/usatoday.com/post/3m7m2ya2ahs2s)
+[2025-12-10 12:20:34](https://bsky.app/profile/reuters.com/post/3m7m43io7gp2b)
 
 ---
 
-@aljazeera.com
+@bbcnews-world-rss.bsky.social
 
-Trump earlier on Tuesday warned that Kyiv must make concessions, saying Ukraine is 'losing' the war.
+Man who grabbed Ariana Grande kicked out of Lady Gaga concert
 
-[2025-12-10 12:00:39](https://bsky.app/profile/aljazeera.com/post/3m7m2xvsk2g2p)
-
----
-
-@cnn.com
-
-Democrats continued their run of successes in special elections by flipping a state House seat in Georgia Tuesday, according to a projection from the CNN Decision Desk.
-
-Democrat Eric Gisler will defeat Republican Mack “Dutch” Guest in the 121st House District. https://cnn.it/4qjT3cT
-
-[2025-12-10 12:00:33](https://bsky.app/profile/cnn.com/post/3m7m2xptvhf2k)
+[2025-12-10 12:20:00](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7m42jjc3i26)
 
 ---
 
-@cnn.com
+@nhknewsunofficial.bsky.social
 
-The San Diego City Council approved a $30 million payment to the family of a 16-year-old killed by police in one of the largest such settlements in US history. https://cnn.it/492JxVu
+株価 値下がり 当面の利益確定しようと売り注文
+https://news.web.nhk/newsweb/na/na-k10014999821000
 
-[2025-12-10 12:00:09](https://bsky.app/profile/cnn.com/post/3m7m2wz5idr2o)
-
----
-
-@washingtonpost.com
-
-Eight African penguins recently hatched at the Maryland Zoo, a success that experts said could raise awareness of the critically endangered species and possibly help boost their population in the wild.
-
-[2025-12-10 12:00:08](https://bsky.app/profile/washingtonpost.com/post/3m7m2wxgmla2p)
+[2025-12-10 12:18:11](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7m3xckdhs2m)
 
 ---
 
-@nytimes.com
+@sokuho.news
 
-Jubilant Sykes, a celebrated baritone opera singer, was fatally stabbed on Monday night in his home in Santa Monica, California, and his son was arrested in the attack, police officials said.
+🔔防災科研より【強震モニタ】動画です。
 
-[2025-12-10 12:00:05](https://bsky.app/profile/nytimes.com/post/3m7m2wurhzr2s)
+震源:三宅島近海, 深さ:20km
+マグニチュード:3.8, 最大震度:1
+📍https://www.google.com/maps?q=33.7,139.5&ll=33.7,139.5&z=7&t=h
+地震発生日時:2025-12-10 12:15頃
+(10倍速▶120s→12s) #地震
+
+[2025-12-10 12:18:08](https://bsky.app/profile/sokuho.news/post/3m7m3x6e3pl2b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+レーダー照射 小泉防衛相“中国軍から十分な情報伝えられず”
+https://news.web.nhk/newsweb/na/na-k10014999791000
+
+[2025-12-10 12:18:06](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7m3x63h7l22)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+将棋 福間香奈女流六冠 “妊娠・出産への配慮を”連盟に要望書
+https://news.web.nhk/newsweb/na/na-k10014999801000
+
+[2025-12-10 12:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7m3wzhuk52y)
 
 ---
 
