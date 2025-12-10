@@ -1,9 +1,9 @@
-# [2025-12-10 19:10 updated](2025_12_10.md)
+# [2025-12-10 19:30 updated](2025_12_10.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Half a million evacuees in Cambodia and Thailand were sheltering in pagodas, schools and other safe havens on Wednesday after fleeing fresh fighting in a century-old border dispute in which US President Donald Trump has vowed to again intercede ➡️ u.afp.com/S7dm <a href="https://bsky.app/profile/en.afp.com/post/3m7mswc4mnk2f" target="_blank">en.afp.com</a> (2025-12-10 19:09:15)</span><span style="padding-right:50px;">Vietnam set to make it harder for media to protect sources, to expand state secrets reut.rs/4puO357 <a href="https://bsky.app/profile/reuters.com/post/3m7mspbasyx2i" target="_blank">reuters.com</a> (2025-12-10 19:05:19)</span><span style="padding-right:50px;">LIVE: Sydney Harbour Bridge lights up for social media ban youtube.com/live/rNYIlly... <a href="https://bsky.app/profile/reuters.com/post/3m7msmrcho22x" target="_blank">reuters.com</a> (2025-12-10 19:03:56)</span><span style="padding-right:50px;">2025年の文学、虚構から真実に迫る　格差・分断・孤独浮かぶ www.nikkei.com/article/DGXZQO...   #読書 <a href="https://bsky.app/profile/nikkei.com/post/3m7msj2nsjt2c" target="_blank">nikkei.com</a> (2025-12-10 19:01:51)</span><span style="padding-right:50px;">Nobel Peace Prize laureate Machado will not attend award ceremony, NRK reports reut.rs/3MujvSf <a href="https://bsky.app/profile/reuters.com/post/3m7mshdmvyd2r" target="_blank">reuters.com</a> (2025-12-10 19:00:53)</span>
+<span style="padding-right:50px;">Chinese uranium miner to help build Namibia's second desalination plant reut.rs/48M0hPo <a href="https://bsky.app/profile/reuters.com/post/3m7mtsu7lss2y" target="_blank">reuters.com</a> (2025-12-10 19:25:13)</span><span style="padding-right:50px;">Here's a look at some of the highlights worth watching from late-night TV. <a href="https://bsky.app/profile/nytimes.com/post/3m7mtsmvyjf2e" target="_blank">nytimes.com</a> (2025-12-10 19:25:06)</span><span style="padding-right:50px;">神奈川 山林火災 “鎮圧”へ県が自衛隊に災害派遣を要請 https://news.web.nhk/newsweb/na/na-k10015000261000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7mtqrzjjn2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-10 19:24:02)</span><span style="padding-right:50px;">Australia is trying to enforce the first teen social media ban. Governments worldwide are watching. <a href="https://bsky.app/profile/cnbc.com/post/3m7mtojxgpu2e" target="_blank">cnbc.com</a> (2025-12-10 19:22:49)</span><span style="padding-right:50px;">王貞治さん設立「球心会」が初会合 野球界の未来を考える https://news.web.nhk/newsweb/na/na-k10015000241000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7mtlhnon62s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-10 19:21:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47560.29 (🔻164.23 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23576.49 (🔺71.88 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.97 (🔻0.59 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.83 (🔺0.01 : 2025-12-10)</span>
+<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47560.29 (🔻164.23 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23576.49 (🔺71.88 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.97 (🔻0.59 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.76 (🔻0.07 : 2025-12-10)</span>
   </div>
 </div>
 
@@ -32,109 +32,95 @@
 
 ## News Headlines
 
-・カンボジアとタイで起きた国境紛争により、半世紀以上にわたる国境紛争が再燃
-
-・ノーベル平和賞受賞者のマリア・コリーナ・マチャードが賞式に出席しないことを発表
-
-・オーストラリアで16歳未満のSNS利用が禁止される法律が施行される
-
-・瀬戸内海の海岸で発生した台風の被害に対し、政府が支援策を発表
-
-・カンボジアがタイで開催されたSEAゲームズから撤退
-
-・ノーベル賞授賞式が行われる
-
-・日本の企業が従業員にカスハラを防止するための対策を義務化する改正法案が提出される
-
-・インドの銀行の会長が1月に退任することを発表
-
-・日本の円相場が低下し、米の利下げペースが緩やかになる可能性がある
+1. 神奈川県が自衛隊に災害派遣を要請　山林火災の鎮圧へ
+2. オーストラリア　16歳未満のSNS利用禁止の法律施行　世界初
+3. 王貞治氏が設立した「球心会」が初会合　野球界の未来を考える
+4. 米国のトランプ大統領　東南アジアの国境紛争を再び仲裁へ
+5. エイミー・コリンズ氏が米下院議長選挙に勝利　民主党が獲得
+6. EUが2050までに炭素排出量を90％削減する目標を決める
 
 ----
 
-@en.afp.com
-
-Half a million evacuees in Cambodia and Thailand were sheltering in pagodas, schools and other safe havens on Wednesday after fleeing fresh fighting in a century-old border dispute in which US President Donald Trump has vowed to again intercede ➡️ u.afp.com/S7dm
-
-[2025-12-10 19:09:15](https://bsky.app/profile/en.afp.com/post/3m7mswc4mnk2f)
-
----
-
 @reuters.com
 
-Vietnam set to make it harder for media to protect sources, to expand state secrets reut.rs/4puO357
+Chinese uranium miner to help build Namibia's second desalination plant reut.rs/48M0hPo
 
-[2025-12-10 19:05:19](https://bsky.app/profile/reuters.com/post/3m7mspbasyx2i)
-
----
-
-@reuters.com
-
-LIVE: Sydney Harbour Bridge lights up for social media ban youtube.com/live/rNYIlly...
-
-[2025-12-10 19:03:56](https://bsky.app/profile/reuters.com/post/3m7msmrcho22x)
+[2025-12-10 19:25:13](https://bsky.app/profile/reuters.com/post/3m7mtsu7lss2y)
 
 ---
 
-@nikkei.com
+@nytimes.com
 
-2025年の文学、虚構から真実に迫る　格差・分断・孤独浮かぶ
-www.nikkei.com/article/DGXZQO...
- 
-#読書
+Here's a look at some of the highlights worth watching from late-night TV.
 
-[2025-12-10 19:01:51](https://bsky.app/profile/nikkei.com/post/3m7msj2nsjt2c)
-
----
-
-@reuters.com
-
-Nobel Peace Prize laureate Machado will not attend award ceremony, NRK reports reut.rs/3MujvSf
-
-[2025-12-10 19:00:53](https://bsky.app/profile/reuters.com/post/3m7mshdmvyd2r)
-
----
-
-@aljazeera.com
-
-Flash floods, strong winds and hail are likely to hit the enclave today, lasting until Friday evening.
-
-[2025-12-10 19:00:40](https://bsky.app/profile/aljazeera.com/post/3m7msgws7dg2z)
-
----
-
-@apnews.com
-
-The Associated Press national player of the week in women's basketball for Week 5 is No. 4 UCLA's Lauren Betts.
-
-[2025-12-10 19:00:22](https://bsky.app/profile/apnews.com/post/3m7msgfxszz26)
-
----
-
-@washingtonpost.com
-
-Mold and mildew are often associated with bathrooms and basements, but these fungi can appear in just about any place in the home.
-
-Here are some tips to help keep your home safe:
-
-[2025-12-10 19:00:14](https://bsky.app/profile/washingtonpost.com/post/3m7msg6hpho2d)
-
----
-
-@nbcnews.com
-
-María Corina Machado, the Venezuelan opposition leader who was awarded this year’s Nobel Peace Prize, will not attend the ceremony in Oslo, the director of the Norwegian Nobel Institute says. 
-
-[2025-12-10 19:00:13](https://bsky.app/profile/nbcnews.com/post/3m7msg4vqsr26)
+[2025-12-10 19:25:06](https://bsky.app/profile/nytimes.com/post/3m7mtsmvyjf2e)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-オーストラリア 16歳未満のSNS利用禁止の法律施行 世界初
-https://news.web.nhk/newsweb/na/na-k10014999461000
+神奈川 山林火災 “鎮圧”へ県が自衛隊に災害派遣を要請
+https://news.web.nhk/newsweb/na/na-k10015000261000
 
-[2025-12-10 19:00:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7msfzqt6i2k)
+[2025-12-10 19:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7mtqrzjjn2b)
+
+---
+
+@cnbc.com
+
+Australia is trying to enforce the first teen social media ban. Governments worldwide are watching.
+
+[2025-12-10 19:22:49](https://bsky.app/profile/cnbc.com/post/3m7mtojxgpu2e)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+王貞治さん設立「球心会」が初会合 野球界の未来を考える
+https://news.web.nhk/newsweb/na/na-k10015000241000
+
+[2025-12-10 19:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7mtlhnon62s)
+
+---
+
+@nbcnews.com
+
+Democrat Eileen Higgins wins the Miami mayor’s race, NBC News projects, giving the party control of the office for the first time in almost three decades. 
+
+[2025-12-10 19:20:12](https://bsky.app/profile/nbcnews.com/post/3m7mtjuybuu22)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+自民 谷垣元総裁 保護司の負担軽減に向けた予算拡充を要望
+https://news.web.nhk/newsweb/na/na-k10015000251000
+
+[2025-12-10 19:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7mtg2zjzh2l)
+
+---
+
+@reuters.com
+
+Sabalenka says women facing transgender athletes not fair reut.rs/4iJVpik
+
+[2025-12-10 19:15:14](https://bsky.app/profile/reuters.com/post/3m7mtayhkbf23)
+
+---
+
+@cnbc.com
+
+Treasury yields inch higher as Fed rate cut decision comes into focus
+
+[2025-12-10 19:12:39](https://bsky.app/profile/cnbc.com/post/3m7mt4envne24)
+
+---
+
+@reuters.com
+
+Lower Brazilian house approves law to cut Bolsonaro's jail term, France 24, AFP report reut.rs/48Kxo66
+
+[2025-12-10 19:10:15](https://bsky.app/profile/reuters.com/post/3m7msy3nbwc2p)
 
 ---
 
