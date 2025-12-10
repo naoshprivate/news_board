@@ -1,9 +1,9 @@
-# [2025-12-10 21:50 updated](2025_12_10.md)
+# [2025-12-10 22:10 updated](2025_12_10.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The department under Blinken in early January 2023 had switched to Calibri, a modern sans-serif font, saying this was a more accessible font for people with disabilities because it did not have the decorative angular features and was the default in Microsoft products. <a href="https://bsky.app/profile/cnn.com/post/3m7n3omerkq24" target="_blank">cnn.com</a> (2025-12-10 21:46:01)</span><span style="padding-right:50px;">CVC plans sale of Japan's FineToday after scrapped IPO, sources say reut.rs/451i4Rz <a href="https://bsky.app/profile/reuters.com/post/3m7n3naih5z2x" target="_blank">reuters.com</a> (2025-12-10 21:45:15)</span><span style="padding-right:50px;">VIDEO: 🇺🇸 Police bodycam footage shows moments before Luigi Mangione's arrest  The footage from Pennsylvania police shows the moments before the arrest of Mangione, the man suspected of gunning down a US insurance executive in New York City, at a McDonald's in Altoona in December 2024 <a href="https://bsky.app/profile/en.afp.com/post/3m7n3mbwiet2q" target="_blank">en.afp.com</a> (2025-12-10 21:44:43)</span><span style="padding-right:50px;">The department said recalling these fired staffers would "bolster and refocus" civil rights enforcement "in a way that serves and benefits parents, students, and families." n.pr/3KTjgzE <a href="https://bsky.app/profile/npr.org/post/3m7n3kj3z2w25" target="_blank">npr.org</a> (2025-12-10 21:43:43)</span><span style="padding-right:50px;">アイスホッケー女子日本代表 小池主将「壁を越えたい」 https://news.web.nhk/newsweb/na/na-k10015000331000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7n3hlpyjo2d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-10 21:42:03)</span>
+<span style="padding-right:50px;">Here's how Todd Combs rose from a Florida state university to Berkshire Hathaway, before taking the helm of a new $10bn security fund on.ft.com/4q0PaZR <a href="https://bsky.app/profile/financialtimes.com/post/3m7n4xjfwwb24" target="_blank">financialtimes.com</a> (2025-12-10 22:08:54)</span><span style="padding-right:50px;">A newly released video shows the moment a plane hits a car whilst attempting a crash landing on I-95 in Brevard County, Florida. The driver of the vehicle was transported to a nearby hospital with minor injuries while the pilot and passenger were left uninjured, authorities told CNN affiliate WESH <a href="https://bsky.app/profile/cnn.com/post/3m7n4x7i7qj2c" target="_blank">cnn.com</a> (2025-12-10 22:08:43)</span><span style="padding-right:50px;">Raymond James double upgrades alternative asset manager, says negative headlines are ‘overstated' <a href="https://bsky.app/profile/cnbc.com/post/3m7n4tocr7x24" target="_blank">cnbc.com</a> (2025-12-10 22:06:45)</span><span style="padding-right:50px;">Millions of workers will get a raise soon as new minimum wage laws kick in <a href="https://bsky.app/profile/yahoofinance.com/post/3m7n4sko3a32f" target="_blank">yahoofinance.com</a> (2025-12-10 22:06:07)</span><span style="padding-right:50px;">IMF 中国のことしの経済成長率見通し 5％に引き上げ https://news.web.nhk/newsweb/na/na-k10015000351000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7n4sib66a2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-10 22:06:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47560.29 (🔻164.23 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23576.49 (🔺71.88 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.97 (🔻0.59 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.70 (🔻0.12 : 2025-12-10)</span>
+<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47560.29 (🔻164.23 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23576.49 (🔺71.88 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.97 (🔻0.59 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.69 (🔻0.13 : 2025-12-10)</span>
   </div>
 </div>
 
@@ -32,95 +32,101 @@
 
 ## News Headlines
 
-1.  アフリカの「避難」は「不法移民」だ
-2.  UberはEVの推進を縮小、ドライバーへのインセンティブも大幅に削減
-3.  ノーベル平和賞授賞式、ベネズエラのマチャド氏が出席できず
-4.  CVC、FineTodayの売却を計画
-5.  IMFは中国に「消費が主な経済構造を早く構築するよう求める
-6.  ノルウェーの情報機関が米国を「安全上のリスク」と評価
+１．IMFが中国の今年の経済成長率見通しを5％に引き上げ
+２．米国新型コーラス法の施行で、数百万人の労働者が給料の引き上げを受ける
+３．米中緊張の悪化に日本はロシア・中国の戦略的飛行機の共同パトロールを受ける
+４．バースデイブームのZINEの熱が続く
+５．米国議会が福祉政策について両派の案を提出する
+６．ノーベル平和賞授賞式が始まる
 
 ----
 
+@financialtimes.com
+
+Here's how Todd Combs rose from a Florida state university to Berkshire Hathaway, before taking the helm of a new $10bn security fund on.ft.com/4q0PaZR
+
+[2025-12-10 22:08:54](https://bsky.app/profile/financialtimes.com/post/3m7n4xjfwwb24)
+
+---
+
 @cnn.com
 
-The department under Blinken in early January 2023 had switched to Calibri, a modern sans-serif font, saying this was a more accessible font for people with disabilities because it did not have the decorative angular features and was the default in Microsoft products.
+A newly released video shows the moment a plane hits a car whilst attempting a crash landing on I-95 in Brevard County, Florida. The driver of the vehicle was transported to a nearby hospital with minor injuries while the pilot and passenger were left uninjured, authorities told CNN affiliate WESH
 
-[2025-12-10 21:46:01](https://bsky.app/profile/cnn.com/post/3m7n3omerkq24)
-
----
-
-@reuters.com
-
-CVC plans sale of Japan's FineToday after scrapped IPO, sources say reut.rs/451i4Rz
-
-[2025-12-10 21:45:15](https://bsky.app/profile/reuters.com/post/3m7n3naih5z2x)
+[2025-12-10 22:08:43](https://bsky.app/profile/cnn.com/post/3m7n4x7i7qj2c)
 
 ---
 
-@en.afp.com
+@cnbc.com
 
-VIDEO: 🇺🇸 Police bodycam footage shows moments before Luigi Mangione's arrest
+Raymond James double upgrades alternative asset manager, says negative headlines are ‘overstated'
 
-The footage from Pennsylvania police shows the moments before the arrest of Mangione, the man suspected of gunning down a US insurance executive in New York City, at a McDonald's in Altoona in December 2024
-
-[2025-12-10 21:44:43](https://bsky.app/profile/en.afp.com/post/3m7n3mbwiet2q)
+[2025-12-10 22:06:45](https://bsky.app/profile/cnbc.com/post/3m7n4tocr7x24)
 
 ---
 
-@npr.org
+@yahoofinance.com
 
-The department said recalling these fired staffers would "bolster and refocus" civil rights enforcement "in a way that serves and benefits parents, students, and families." n.pr/3KTjgzE
+Millions of workers will get a raise soon as new minimum wage laws kick in
 
-[2025-12-10 21:43:43](https://bsky.app/profile/npr.org/post/3m7n3kj3z2w25)
+[2025-12-10 22:06:07](https://bsky.app/profile/yahoofinance.com/post/3m7n4sko3a32f)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-アイスホッケー女子日本代表 小池主将「壁を越えたい」
-https://news.web.nhk/newsweb/na/na-k10015000331000
+IMF 中国のことしの経済成長率見通し 5％に引き上げ
+https://news.web.nhk/newsweb/na/na-k10015000351000
 
-[2025-12-10 21:42:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7n3hlpyjo2d)
+[2025-12-10 22:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7n4sib66a2v)
 
 ---
 
 @reuters.com
 
-TUI forecasts slower revenue, profit increases in 2026 reut.rs/48QKNd9
+Families on both sides caught in crossfire as Thai-Cambodian fighting continues reut.rs/48MDino
 
-[2025-12-10 21:40:42](https://bsky.app/profile/reuters.com/post/3m7n3f3setr2i)
-
----
-
-@nbcnews.com
-
-President Trump says that Andrew Wolfe, who was shot last month in the attack on two National Guard troops from West Virginia, is finally able to get out of bed after receiving an update from Wolfe’s parents. 
-
-[2025-12-10 21:40:28](https://bsky.app/profile/nbcnews.com/post/3m7n3eopweu2p)
+[2025-12-10 22:05:14](https://bsky.app/profile/reuters.com/post/3m7n4qxlemz2b)
 
 ---
 
-@nytimes.com
+@cnbc.com
 
-The Trump administration this week abruptly withdrew its high-profile plan to overhaul how $3.9 billion in federal aid to combat homelessness would be spent, saying it would reissue the proposal after making “appropriate revisions.”
+This satellite communications stock has quadrupled in 2025. Morgan Stanley sees more gains ahead
 
-[2025-12-10 21:40:05](https://bsky.app/profile/nytimes.com/post/3m7n3dyzvos2s)
-
----
-
-@nytimes.com
-
-Facing criticism for rising costs for U.S. consumers, President Trump stoked fear of immigrants to rally a crowd of his supporters in Pennsylvania on Tuesday, trumpeting what he called a “permanent pause” on immigration from “hellholes like Afghanistan, Haiti, Somalia and many other countries.”
-
-[2025-12-10 21:40:05](https://bsky.app/profile/nytimes.com/post/3m7n3dyatsu2e)
+[2025-12-10 22:04:22](https://bsky.app/profile/cnbc.com/post/3m7n4pgjq7623)
 
 ---
 
-@bloomberg.com
+@cnbc.com
 
-Uber is scaling back climate efforts and slashing driver incentives despite a years-long push for federal policies in favor of EVs
+Trump to start final Fed chair interviews beginning with Kevin Warsh
 
-[2025-12-10 21:37:58](https://bsky.app/profile/bloomberg.com/post/3m7n3a7ry5p2z)
+[2025-12-10 22:03:11](https://bsky.app/profile/cnbc.com/post/3m7n4nckvf62x)
+
+---
+
+@nikkei.com
+
+【自主製作の小冊子｢ZINE｣ブーム】
+ニッチな趣味や個人の出来事を発信
+www.nikkei.com/article/DGXZQO...
+
+ZINEは「magazine」の語尾を取った造語とされます。
+
+文学フリマの熱量をけん引し、即売会も活況です。書店の有隣堂でも販売イベントを12月末まで開催。
+
+どうやらブームは終わりそうにはありません。有隣堂での1番人気は「ZINEの作り方を解説したZINE」。
+
+[2025-12-10 22:01:51](https://bsky.app/profile/nikkei.com/post/3m7n4kwduez2x)
+
+---
+
+@reuters.com
+
+Turkey in talks to rejoin US F-35 fighter jet programme, envoy says reut.rs/44kJMZv
+
+[2025-12-10 22:01:05](https://bsky.app/profile/reuters.com/post/3m7n4jk7q272b)
 
 ---
 
