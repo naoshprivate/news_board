@@ -1,9 +1,9 @@
-# [2025-12-10 18:50 updated](2025_12_10.md)
+# [2025-12-10 19:10 updated](2025_12_10.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">瀬戸内海かき被害 政府の支援策など 政策パッケージ案明らかに https://news.web.nhk/newsweb/na/na-k10015000201000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7mrql6n6h2x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-10 18:48:08)</span><span style="padding-right:50px;">東南アジア拠点の特殊詐欺増加 日本と各国捜査担当者 連携強化 https://news.web.nhk/newsweb/na/na-k10015000151000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7mrqgln6f2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-10 18:48:03)</span><span style="padding-right:50px;">India's IndusInd Bank chairman to step down in January amid organisational overhaul, sources say reut.rs/3YkcAh6 <a href="https://bsky.app/profile/reuters.com/post/3m7mrlbe6xn2i" target="_blank">reuters.com</a> (2025-12-10 18:45:11)</span><span style="padding-right:50px;">補正予算案 あす採決で与野党合意 衆院予算委理事会 https://news.web.nhk/newsweb/na/na-k10015000221000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7mrl3mc5y2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-10 18:45:03)</span><span style="padding-right:50px;">India File: IndiGo blues choke flyers reut.rs/4a47A7z <a href="https://bsky.app/profile/reuters.com/post/3m7mrcjtx542x" target="_blank">reuters.com</a> (2025-12-10 18:40:18)</span>
+<span style="padding-right:50px;">Half a million evacuees in Cambodia and Thailand were sheltering in pagodas, schools and other safe havens on Wednesday after fleeing fresh fighting in a century-old border dispute in which US President Donald Trump has vowed to again intercede ➡️ u.afp.com/S7dm <a href="https://bsky.app/profile/en.afp.com/post/3m7mswc4mnk2f" target="_blank">en.afp.com</a> (2025-12-10 19:09:15)</span><span style="padding-right:50px;">Vietnam set to make it harder for media to protect sources, to expand state secrets reut.rs/4puO357 <a href="https://bsky.app/profile/reuters.com/post/3m7mspbasyx2i" target="_blank">reuters.com</a> (2025-12-10 19:05:19)</span><span style="padding-right:50px;">LIVE: Sydney Harbour Bridge lights up for social media ban youtube.com/live/rNYIlly... <a href="https://bsky.app/profile/reuters.com/post/3m7msmrcho22x" target="_blank">reuters.com</a> (2025-12-10 19:03:56)</span><span style="padding-right:50px;">2025年の文学、虚構から真実に迫る　格差・分断・孤独浮かぶ www.nikkei.com/article/DGXZQO...   #読書 <a href="https://bsky.app/profile/nikkei.com/post/3m7msj2nsjt2c" target="_blank">nikkei.com</a> (2025-12-10 19:01:51)</span><span style="padding-right:50px;">Nobel Peace Prize laureate Machado will not attend award ceremony, NRK reports reut.rs/3MujvSf <a href="https://bsky.app/profile/reuters.com/post/3m7mshdmvyd2r" target="_blank">reuters.com</a> (2025-12-10 19:00:53)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47560.29 (🔻164.23 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23576.49 (🔺71.88 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.97 (🔻0.59 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.84 (🔺0.01 : 2025-12-10)</span>
+<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47560.29 (🔻164.23 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23576.49 (🔺71.88 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.97 (🔻0.59 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.83 (🔺0.01 : 2025-12-10)</span>
   </div>
 </div>
 
@@ -32,98 +32,109 @@
 
 ## News Headlines
 
-1.  政府が瀬戸内海の干潟で起こるかきの被害を防ぐための支援策などを策定することを明らかにした。
-2.  東南アジアの国々で特殊詐欺が増加しているため、日本と各国の捜査担当者が協力して調査を強化することを発表した。
-3.  インドのインドス銀行の会長が1月に退任することを発表した。
-4.  衆議院予算委員会で、補正予算の採決が行われ、与野党で合意が得られた。
-5.  フランスでは、極右派の政治家がBBCにインタビューを与え、欧州に対するアメリカの警告について同意を表明した。
-6.  カーリングの世界最終予選で、日本の女子代表は2位で、最終戦で優勝を目指すこととなった。
+・カンボジアとタイで起きた国境紛争により、半世紀以上にわたる国境紛争が再燃
+
+・ノーベル平和賞受賞者のマリア・コリーナ・マチャードが賞式に出席しないことを発表
+
+・オーストラリアで16歳未満のSNS利用が禁止される法律が施行される
+
+・瀬戸内海の海岸で発生した台風の被害に対し、政府が支援策を発表
+
+・カンボジアがタイで開催されたSEAゲームズから撤退
+
+・ノーベル賞授賞式が行われる
+
+・日本の企業が従業員にカスハラを防止するための対策を義務化する改正法案が提出される
+
+・インドの銀行の会長が1月に退任することを発表
+
+・日本の円相場が低下し、米の利下げペースが緩やかになる可能性がある
 
 ----
 
-@nhknewsunofficial.bsky.social
+@en.afp.com
 
-瀬戸内海かき被害 政府の支援策など 政策パッケージ案明らかに
-https://news.web.nhk/newsweb/na/na-k10015000201000
+Half a million evacuees in Cambodia and Thailand were sheltering in pagodas, schools and other safe havens on Wednesday after fleeing fresh fighting in a century-old border dispute in which US President Donald Trump has vowed to again intercede ➡️ u.afp.com/S7dm
 
-[2025-12-10 18:48:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7mrql6n6h2x)
-
----
-
-@nhknewsunofficial.bsky.social
-
-東南アジア拠点の特殊詐欺増加 日本と各国捜査担当者 連携強化
-https://news.web.nhk/newsweb/na/na-k10015000151000
-
-[2025-12-10 18:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7mrqgln6f2b)
+[2025-12-10 19:09:15](https://bsky.app/profile/en.afp.com/post/3m7mswc4mnk2f)
 
 ---
 
 @reuters.com
 
-India's IndusInd Bank chairman to step down in January amid organisational overhaul, sources say reut.rs/3YkcAh6
+Vietnam set to make it harder for media to protect sources, to expand state secrets reut.rs/4puO357
 
-[2025-12-10 18:45:11](https://bsky.app/profile/reuters.com/post/3m7mrlbe6xn2i)
-
----
-
-@nhknewsunofficial.bsky.social
-
-補正予算案 あす採決で与野党合意 衆院予算委理事会
-https://news.web.nhk/newsweb/na/na-k10015000221000
-
-[2025-12-10 18:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7mrl3mc5y2u)
+[2025-12-10 19:05:19](https://bsky.app/profile/reuters.com/post/3m7mspbasyx2i)
 
 ---
 
 @reuters.com
 
-India File: IndiGo blues choke flyers reut.rs/4a47A7z
+LIVE: Sydney Harbour Bridge lights up for social media ban youtube.com/live/rNYIlly...
 
-[2025-12-10 18:40:18](https://bsky.app/profile/reuters.com/post/3m7mrcjtx542x)
+[2025-12-10 19:03:56](https://bsky.app/profile/reuters.com/post/3m7msmrcho22x)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@nikkei.com
 
-円相場 値下がり 米の利下げペース緩やかになるのではとの見方
-https://news.web.nhk/newsweb/na/na-k10015000211000
+2025年の文学、虚構から真実に迫る　格差・分断・孤独浮かぶ
+www.nikkei.com/article/DGXZQO...
+ 
+#読書
 
-[2025-12-10 18:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7mradjq762d)
+[2025-12-10 19:01:51](https://bsky.app/profile/nikkei.com/post/3m7msj2nsjt2c)
 
 ---
 
 @reuters.com
 
-LIVE: UN High Commissioner for Human Rights Volker Turk speaks in Geneva youtube.com/live/l5zkULH...
+Nobel Peace Prize laureate Machado will not attend award ceremony, NRK reports reut.rs/3MujvSf
 
-[2025-12-10 18:38:51](https://bsky.app/profile/reuters.com/post/3m7mr7wbuok2x)
+[2025-12-10 19:00:53](https://bsky.app/profile/reuters.com/post/3m7mshdmvyd2r)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@aljazeera.com
 
-French far-right leader tells BBC he shares US warnings on Europe 'for most part'
+Flash floods, strong winds and hail are likely to hit the enclave today, lasting until Friday evening.
 
-[2025-12-10 18:37:12](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7mr4yxhpr2s)
+[2025-12-10 19:00:40](https://bsky.app/profile/aljazeera.com/post/3m7msgws7dg2z)
+
+---
+
+@apnews.com
+
+The Associated Press national player of the week in women's basketball for Week 5 is No. 4 UCLA's Lauren Betts.
+
+[2025-12-10 19:00:22](https://bsky.app/profile/apnews.com/post/3m7msgfxszz26)
+
+---
+
+@washingtonpost.com
+
+Mold and mildew are often associated with bathrooms and basements, but these fungi can appear in just about any place in the home.
+
+Here are some tips to help keep your home safe:
+
+[2025-12-10 19:00:14](https://bsky.app/profile/washingtonpost.com/post/3m7msg6hpho2d)
+
+---
+
+@nbcnews.com
+
+María Corina Machado, the Venezuelan opposition leader who was awarded this year’s Nobel Peace Prize, will not attend the ceremony in Oslo, the director of the Norwegian Nobel Institute says. 
+
+[2025-12-10 19:00:13](https://bsky.app/profile/nbcnews.com/post/3m7msg4vqsr26)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-カーリング 五輪世界最終予選 女子日本代表は2位 あす決定戦
-https://news.web.nhk/newsweb/na/na-k10015000191000
+オーストラリア 16歳未満のSNS利用禁止の法律施行 世界初
+https://news.web.nhk/newsweb/na/na-k10014999461000
 
-[2025-12-10 18:36:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7mr35gicd22)
-
----
-
-@nhknewsunofficial.bsky.social
-
-レアアースの使用量減らしてEVモーター製造 技術開発が加速
-https://news.web.nhk/newsweb/na/na-k10015000161000
-
-[2025-12-10 18:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7mr2y473q26)
+[2025-12-10 19:00:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7msfzqt6i2k)
 
 ---
 
