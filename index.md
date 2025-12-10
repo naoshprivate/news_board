@@ -1,9 +1,9 @@
-# [2025-12-11 03:10 updated](2025_12_11.md)
+# [2025-12-11 03:30 updated](2025_12_11.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Wind and solar power frozen out of Trump permitting push reut.rs/3Mn6DgS <a href="https://bsky.app/profile/reuters.com/post/3m7nnjdu2ij24" target="_blank">reuters.com</a> (2025-12-11 03:05:12)</span><span style="padding-right:50px;">Nicolas Sarkozy opens door to Marine Le Pen and French far right on.ft.com/48y7LqB <a href="https://bsky.app/profile/financialtimes.com/post/3m7nngv7zzz2y" target="_blank">financialtimes.com</a> (2025-12-11 03:03:49)</span><span style="padding-right:50px;">From @theathletic.com: Hockey player Britta Curl-Salemme has been accused of being transphobic and politically polarizing. Apart from a brief public apology a few days after she was drafted, she has never addressed the controversy — until now. <a href="https://bsky.app/profile/nytimes.com/post/3m7nnfjqj2v2a" target="_blank">nytimes.com</a> (2025-12-11 03:03:04)</span><span style="padding-right:50px;">On Tuesday, almost eight years later, Trump explicitly confirmed he had spoken of “shithole countries” during a past closed-door meeting with senators. https://cnn.it/4pxqmck <a href="https://bsky.app/profile/cnn.com/post/3m7nndq7wvv23" target="_blank">cnn.com</a> (2025-12-11 03:02:03)</span><span style="padding-right:50px;">Giving with an eye to longevity: a charming watch, a beaded bag and updated icons. on.wsj.com/494ozWc <a href="https://bsky.app/profile/wsj.com/post/3m7nncwo42t2i" target="_blank">wsj.com</a> (2025-12-11 03:01:36)</span>
+<span style="padding-right:50px;">🔔気象庁より【地震速報】です。  3時26分頃、東京都で最大震度1の地震を観測しました。 震源:新島・神津島近海, 深さ:10km, 規模:M3.0 この地震による津波の心配はありません。 (2025-12-11 03:29:18) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/11/2025-12-11-03-26-27.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3m7nouhuawr2s" target="_blank">sokuho.news</a> (2025-12-11 03:29:18)</span><span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像4🈡 (2025-12-11 03:27:01) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m7noqpea7r25" target="_blank">sokuho.news</a> (2025-12-11 03:27:12)</span><span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像2 (2025-12-11 03:26:37) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m7nopxhxe72x" target="_blank">sokuho.news</a> (2025-12-11 03:26:47)</span><span style="padding-right:50px;">🚨地震発生中❗❗❗  ⚠️揺れに警戒してください 🔗http://www.kmoni.bosai.go.jp/  🔶防災科研/強震モニタ/予測震度画像1 (2025-12-11 03:26:32) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m7nopqjcbn2v" target="_blank">sokuho.news</a> (2025-12-11 03:26:40)</span><span style="padding-right:50px;">Wall Street awaits Federal Reserve rate decision on.ft.com/44lGMvX <a href="https://bsky.app/profile/financialtimes.com/post/3m7nopce27l24" target="_blank">financialtimes.com</a> (2025-12-11 03:26:25)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47792.85 (🔺218.89 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23526.79 (🔻9.21 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 182.94 (🔻2.05 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.33 (🔻0.49 : 2025-12-10)</span>
+<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47743.20 (🔺169.24 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23478.36 (🔻57.64 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 182.57 (🔻2.42 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.34 (🔻0.48 : 2025-12-10)</span>
   </div>
 </div>
 
@@ -32,94 +32,116 @@
 
 ## News Headlines
 
-1.  英国のEV走行税導入　28年に実施　燃料税収減を補う
-2.  ドナルド・トランプ米大統領が「汚い国」発言を認める
-3.  Amazon、イタリアとの税関の訴訟で$582億円を支払う
-4.  ウクライナ、欧州の支持を求める
-5.  米国国防総省の改革を求める
-6.  イタリアの料理、世界遺産に登録
+1. 東京都で最大震度1の地震が発生
+2. アメリカの連邦準備理事会が金利決定に意欲
+3. ベルギーのクーデターを計画していた疑いのある指導者がトーゴに逃げ込んだ
+4. インドネシアのジャカルタで火災が発生、22人死亡
+5. ウクライナが債務を抱え、欧州諸国が協力に苦慮
+6. アルバイトのH-1Bビザの料金が高騰、カナダが研究者を引き付けたい
 
 ----
 
-@reuters.com
+@sokuho.news
 
-Wind and solar power frozen out of Trump permitting push reut.rs/3Mn6DgS
+🔔気象庁より【地震速報】です。
 
-[2025-12-11 03:05:12](https://bsky.app/profile/reuters.com/post/3m7nnjdu2ij24)
+3時26分頃、東京都で最大震度1の地震を観測しました。
+震源:新島・神津島近海, 深さ:10km, 規模:M3.0
+この地震による津波の心配はありません。
+(2025-12-11 03:29:18) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/11/2025-12-11-03-26-27.html?xlarge_image=1
+
+[2025-12-11 03:29:18](https://bsky.app/profile/sokuho.news/post/3m7nouhuawr2s)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗
+
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像4🈡
+(2025-12-11 03:27:01) #緊急地震速報
+
+[2025-12-11 03:27:12](https://bsky.app/profile/sokuho.news/post/3m7noqpea7r25)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗
+
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像2
+(2025-12-11 03:26:37) #緊急地震速報
+
+[2025-12-11 03:26:47](https://bsky.app/profile/sokuho.news/post/3m7nopxhxe72x)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗❗
+
+⚠️揺れに警戒してください
+🔗http://www.kmoni.bosai.go.jp/
+
+🔶防災科研/強震モニタ/予測震度画像1
+(2025-12-11 03:26:32) #緊急地震速報
+
+[2025-12-11 03:26:40](https://bsky.app/profile/sokuho.news/post/3m7nopqjcbn2v)
 
 ---
 
 @financialtimes.com
 
-Nicolas Sarkozy opens door to Marine Le Pen and French far right on.ft.com/48y7LqB
+Wall Street awaits Federal Reserve rate decision on.ft.com/44lGMvX
 
-[2025-12-11 03:03:49](https://bsky.app/profile/financialtimes.com/post/3m7nngv7zzz2y)
-
----
-
-@nytimes.com
-
-From @theathletic.com: Hockey player Britta Curl-Salemme has been accused of being transphobic and politically polarizing. Apart from a brief public apology a few days after she was drafted, she has never addressed the controversy — until now.
-
-[2025-12-11 03:03:04](https://bsky.app/profile/nytimes.com/post/3m7nnfjqj2v2a)
-
----
-
-@cnn.com
-
-On Tuesday, almost eight years later, Trump explicitly confirmed he had spoken of “shithole countries” during a past closed-door meeting with senators. https://cnn.it/4pxqmck
-
-[2025-12-11 03:02:03](https://bsky.app/profile/cnn.com/post/3m7nndq7wvv23)
-
----
-
-@wsj.com
-
-Giving with an eye to longevity: a charming watch, a beaded bag and updated icons. on.wsj.com/494ozWc
-
-[2025-12-11 03:01:36](https://bsky.app/profile/wsj.com/post/3m7nncwo42t2i)
-
----
-
-@usatoday.com
-
-A Louisiana store manager denied entry to Border Patrol, locking the agents out and recording while telling the agents to 'go somewhere else.'
-
-[2025-12-11 03:01:15](https://bsky.app/profile/usatoday.com/post/3m7nncbtfhc2c)
+[2025-12-11 03:26:25](https://bsky.app/profile/financialtimes.com/post/3m7nopce27l24)
 
 ---
 
 @reuters.com
 
-WTW to buy brokerage firm Newfront in up to $1.3 billion deal reut.rs/4oPL5XH
+Alleged leader of foiled Benin coup has sought refuge in Togo, Benin says reut.rs/4rObKa3
 
-[2025-12-11 03:01:08](https://bsky.app/profile/reuters.com/post/3m7nnc35odj2o)
+[2025-12-11 03:25:14](https://bsky.app/profile/reuters.com/post/3m7non6dkjk2b)
 
 ---
 
-@apnews.com
+@cnbc.com
 
-Italian food is known and loved around the world for its fresh ingredients and palate-pleasing tastes, but the U.N.'s cultural agency is giving foodies another reason to celebrate their pizza, pasta and tiramisu by listing Italian cooking as part of the world's "intangible" cultural heritage.
+Stocks making the biggest moves midday: Photronics, AeroVironment, Maplebear, GE Vernova & more
 
-[2025-12-11 03:00:57](https://bsky.app/profile/apnews.com/post/3m7nnbr2jun2k)
+[2025-12-11 03:24:19](https://bsky.app/profile/cnbc.com/post/3m7nolk6sb22x)
+
+---
+
+@financialtimes.com
+
+Return to EU customs union would ‘unravel’ UK trade deals, Starmer warns on.ft.com/494TC48
+
+[2025-12-11 03:21:53](https://bsky.app/profile/financialtimes.com/post/3m7noh6cf7y2b)
+
+---
+
+@nytimes.com
+
+“I have made this dressing three times and our 7-year-old became an instant fan! He will eat almost any vegetable that is slathered in this stuff.”
+
+Readers adore this vinaigrette, which is one of our most popular recipes of 2025. nyti.ms/4iNl5ef
+
+[2025-12-11 03:21:07](https://bsky.app/profile/nytimes.com/post/3m7noftbkuz2x)
 
 ---
 
 @nbcnews.com
 
-Govs. Shapiro and Cox warn of growing political violence, saying that the shooting of Charlie Kirk exposed a need for dialogue in the U.S. on how to discuss political differences.
+A fire ripped through an office building in Indonesia’s capital, Jakarta, killing at least 22 people, including a pregnant woman, police say.
 
-[2025-12-11 03:00:47](https://bsky.app/profile/nbcnews.com/post/3m7nnbgunxl2p)
-
----
-
-@washingtonpost.com
-
-Federal prosecutors spent over a year working to extradite a Belarusian woman accused of smuggling sensitive U.S. aviation equipment into Russia.
-
-But the case could fall apart because the defendant is now at risk of being deported before going to trial.
-
-[2025-12-11 03:00:29](https://bsky.app/profile/washingtonpost.com/post/3m7nnawjweb24)
+[2025-12-11 03:20:24](https://bsky.app/profile/nbcnews.com/post/3m7noejqu4c2n)
 
 ---
 
