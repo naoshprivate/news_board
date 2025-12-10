@@ -1,9 +1,9 @@
-# [2025-12-11 02:50 updated](2025_12_11.md)
+# [2025-12-11 03:10 updated](2025_12_11.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">EU wrangling over whether to give plant-based "sausages" and veggie "burgers" the chop will carry on into next year, after countries and lawmakers fail to reach a deal on restricting such labels to meat products. u.afp.com/S7m4 <a href="https://bsky.app/profile/en.afp.com/post/3m7nmm5mdkc2k" target="_blank">en.afp.com</a> (2025-12-11 02:48:52)</span><span style="padding-right:50px;">GE Vernova hits record high on bullish 2026 revenue outlook, buyback boost reut.rs/4aJSzYF <a href="https://bsky.app/profile/reuters.com/post/3m7nmfp7ui32s" target="_blank">reuters.com</a> (2025-12-11 02:45:16)</span><span style="padding-right:50px;">The illicit drugs were nabbed in multiple interdictions of alleged drug boats, including one record-breaking bust earlier this month. <a href="https://bsky.app/profile/cbsnews.com/post/3m7nmfbikv22a" target="_blank">cbsnews.com</a> (2025-12-11 02:45:01)</span><span style="padding-right:50px;">Brazil’s lower house of Congress has passed a bill that could take as much as 25 years off the prison sentence of ex-president Jair Bolsonaro, who is behind bars for planning a coup d’état. www.ft.com/content/27b7... <a href="https://bsky.app/profile/financialtimes.com/post/3m7nmbitpwc2i" target="_blank">financialtimes.com</a> (2025-12-11 02:42:55)</span><span style="padding-right:50px;">英国、28年にEV走行税導入、燃料税収減を補う　豪州やスイスも検討 www.nikkei.com/article/DGXZQO...  EV時代を迎え、燃料を軸とした従来の税制の見直しを迫られるのは英国だけではありません。 <a href="https://bsky.app/profile/nikkei.com/post/3m7nm7yc4ah2f" target="_blank">nikkei.com</a> (2025-12-11 02:42:04)</span>
+<span style="padding-right:50px;">Wind and solar power frozen out of Trump permitting push reut.rs/3Mn6DgS <a href="https://bsky.app/profile/reuters.com/post/3m7nnjdu2ij24" target="_blank">reuters.com</a> (2025-12-11 03:05:12)</span><span style="padding-right:50px;">Nicolas Sarkozy opens door to Marine Le Pen and French far right on.ft.com/48y7LqB <a href="https://bsky.app/profile/financialtimes.com/post/3m7nngv7zzz2y" target="_blank">financialtimes.com</a> (2025-12-11 03:03:49)</span><span style="padding-right:50px;">From @theathletic.com: Hockey player Britta Curl-Salemme has been accused of being transphobic and politically polarizing. Apart from a brief public apology a few days after she was drafted, she has never addressed the controversy — until now. <a href="https://bsky.app/profile/nytimes.com/post/3m7nnfjqj2v2a" target="_blank">nytimes.com</a> (2025-12-11 03:03:04)</span><span style="padding-right:50px;">On Tuesday, almost eight years later, Trump explicitly confirmed he had spoken of “shithole countries” during a past closed-door meeting with senators. https://cnn.it/4pxqmck <a href="https://bsky.app/profile/cnn.com/post/3m7nndq7wvv23" target="_blank">cnn.com</a> (2025-12-11 03:02:03)</span><span style="padding-right:50px;">Giving with an eye to longevity: a charming watch, a beaded bag and updated icons. on.wsj.com/494ozWc <a href="https://bsky.app/profile/wsj.com/post/3m7nncwo42t2i" target="_blank">wsj.com</a> (2025-12-11 03:01:36)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47750.00 (🔺176.04 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23520.17 (🔻15.83 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 182.97 (🔻2.02 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.32 (🔻0.51 : 2025-12-10)</span>
+<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47792.85 (🔺218.89 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23526.79 (🔻9.21 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 182.94 (🔻2.05 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.33 (🔻0.49 : 2025-12-10)</span>
   </div>
 </div>
 
@@ -32,96 +32,94 @@
 
 ## News Headlines
 
-1. 英国、2026年にEV走行税導入　燃料税収減を補う
-2. EUで「植物に由来するハム」と「ベジバーガー」に制限を検討する議論が続く
-3. ドナルド・トランプ前大統領の弁護士が国税庁長官に逮捕令状を要求
-4. 腫瘤をもたらす遺伝子異常を持つ精子から生まれた子どもらはすでに死んだ
-5. 米国で、ビザワイバーポリシーに加入している国からの入国者に5年間のSNSを提示することが検討
-6. 2026年、米国は世界最大の航空会社がエアポートラウンジを展開
+1.  英国のEV走行税導入　28年に実施　燃料税収減を補う
+2.  ドナルド・トランプ米大統領が「汚い国」発言を認める
+3.  Amazon、イタリアとの税関の訴訟で$582億円を支払う
+4.  ウクライナ、欧州の支持を求める
+5.  米国国防総省の改革を求める
+6.  イタリアの料理、世界遺産に登録
 
 ----
 
-@en.afp.com
-
-EU wrangling over whether to give plant-based "sausages" and veggie "burgers" the chop will carry on into next year, after countries and lawmakers fail to reach a deal on restricting such labels to meat products.
-u.afp.com/S7m4
-
-[2025-12-11 02:48:52](https://bsky.app/profile/en.afp.com/post/3m7nmm5mdkc2k)
-
----
-
 @reuters.com
 
-GE Vernova hits record high on bullish 2026 revenue outlook, buyback boost reut.rs/4aJSzYF
+Wind and solar power frozen out of Trump permitting push reut.rs/3Mn6DgS
 
-[2025-12-11 02:45:16](https://bsky.app/profile/reuters.com/post/3m7nmfp7ui32s)
-
----
-
-@cbsnews.com
-
-The illicit drugs were nabbed in multiple interdictions of alleged drug boats, including one record-breaking bust earlier this month.
-
-[2025-12-11 02:45:01](https://bsky.app/profile/cbsnews.com/post/3m7nmfbikv22a)
+[2025-12-11 03:05:12](https://bsky.app/profile/reuters.com/post/3m7nnjdu2ij24)
 
 ---
 
 @financialtimes.com
 
-Brazil’s lower house of Congress has passed a bill that could take as much as 25 years off the prison sentence of ex-president Jair Bolsonaro, who is behind bars for planning a coup d’état. www.ft.com/content/27b7...
+Nicolas Sarkozy opens door to Marine Le Pen and French far right on.ft.com/48y7LqB
 
-[2025-12-11 02:42:55](https://bsky.app/profile/financialtimes.com/post/3m7nmbitpwc2i)
+[2025-12-11 03:03:49](https://bsky.app/profile/financialtimes.com/post/3m7nngv7zzz2y)
 
 ---
 
-@nikkei.com
+@nytimes.com
 
-英国、28年にEV走行税導入、燃料税収減を補う　豪州やスイスも検討
-www.nikkei.com/article/DGXZQO...
+From @theathletic.com: Hockey player Britta Curl-Salemme has been accused of being transphobic and politically polarizing. Apart from a brief public apology a few days after she was drafted, she has never addressed the controversy — until now.
 
-EV時代を迎え、燃料を軸とした従来の税制の見直しを迫られるのは英国だけではありません。
+[2025-12-11 03:03:04](https://bsky.app/profile/nytimes.com/post/3m7nnfjqj2v2a)
 
-[2025-12-11 02:42:04](https://bsky.app/profile/nikkei.com/post/3m7nm7yc4ah2f)
+---
+
+@cnn.com
+
+On Tuesday, almost eight years later, Trump explicitly confirmed he had spoken of “shithole countries” during a past closed-door meeting with senators. https://cnn.it/4pxqmck
+
+[2025-12-11 03:02:03](https://bsky.app/profile/cnn.com/post/3m7nndq7wvv23)
 
 ---
 
 @wsj.com
 
-WSJ travel columnist Dawn Gilbertson shadowed a bartender popular with frequent fliers at a Delta Sky Club in Atlanta.
+Giving with an eye to longevity: a charming watch, a beaded bag and updated icons. on.wsj.com/494ozWc
 
-[2025-12-11 02:41:49](https://bsky.app/profile/wsj.com/post/3m7nm7ju62f2g)
+[2025-12-11 03:01:36](https://bsky.app/profile/wsj.com/post/3m7nncwo42t2i)
+
+---
+
+@usatoday.com
+
+A Louisiana store manager denied entry to Border Patrol, locking the agents out and recording while telling the agents to 'go somewhere else.'
+
+[2025-12-11 03:01:15](https://bsky.app/profile/usatoday.com/post/3m7nncbtfhc2c)
 
 ---
 
 @reuters.com
 
-Debt-laden William Hill UK owner Evoke explores sale after gambling tax hike reut.rs/44QXWS8
+WTW to buy brokerage firm Newfront in up to $1.3 billion deal reut.rs/4oPL5XH
 
-[2025-12-11 02:40:20](https://bsky.app/profile/reuters.com/post/3m7nm4vfzaa2c)
+[2025-12-11 03:01:08](https://bsky.app/profile/reuters.com/post/3m7nnc35odj2o)
+
+---
+
+@apnews.com
+
+Italian food is known and loved around the world for its fresh ingredients and palate-pleasing tastes, but the U.N.'s cultural agency is giving foodies another reason to celebrate their pizza, pasta and tiramisu by listing Italian cooking as part of the world's "intangible" cultural heritage.
+
+[2025-12-11 03:00:57](https://bsky.app/profile/apnews.com/post/3m7nnbr2jun2k)
 
 ---
 
 @nbcnews.com
 
-The Trump administration must stop deploying the California National Guard in Los Angeles and return control of the troops to the state, a federal judge rules.
+Govs. Shapiro and Cox warn of growing political violence, saying that the shooting of Charlie Kirk exposed a need for dialogue in the U.S. on how to discuss political differences.
 
-[2025-12-11 02:40:10](https://bsky.app/profile/nbcnews.com/post/3m7nm4ltot42k)
-
----
-
-@cnbc.com
-
-Homeland Security Dept. buying Boeing 737s for ICE deportations
-
-[2025-12-11 02:37:03](https://bsky.app/profile/cnbc.com/post/3m7nlwzc5re2g)
+[2025-12-11 03:00:47](https://bsky.app/profile/nbcnews.com/post/3m7nnbgunxl2p)
 
 ---
 
-@yahoonews.com
+@washingtonpost.com
 
-New bodycam video from Luigi Mangione’s December 2024 arrest was released on Tuesday, along with notes seized by police in Pennsylvania. The evidence included a to-do list, which read: "Change hat, shoes, pluck eyebrows." yhoo.it/4q0Y8Gy 
+Federal prosecutors spent over a year working to extradite a Belarusian woman accused of smuggling sensitive U.S. aviation equipment into Russia.
 
-[2025-12-11 02:36:38](https://bsky.app/profile/yahoonews.com/post/3m7nlwbmhpd2c)
+But the case could fall apart because the defendant is now at risk of being deported before going to trial.
+
+[2025-12-11 03:00:29](https://bsky.app/profile/washingtonpost.com/post/3m7nnawjweb24)
 
 ---
 
