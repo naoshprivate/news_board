@@ -1,9 +1,9 @@
-# [2025-12-10 16:10 updated](2025_12_10.md)
+# [2025-12-10 16:30 updated](2025_12_10.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">ロッテ 新人王 西川史礁 推定年俸4200万円で契約更改 https://news.web.nhk/newsweb/na/na-k10015000021000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7miu5sye22m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-10 16:09:03)</span><span style="padding-right:50px;">Shares on tenterhooks as Fed cut priced, guidance uncertain reut.rs/4a80FKA <a href="https://bsky.app/profile/reuters.com/post/3m7min5fisp2i" target="_blank">reuters.com</a> (2025-12-10 16:05:11)</span><span style="padding-right:50px;">中日 新人選手の入団会見 ドラフト1位 中西聖輝「全力で努力」 https://news.web.nhk/newsweb/na/na-k10014999891000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7mijgbt6x2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-10 16:03:03)</span><span style="padding-right:50px;">He was healthy and fit at 54, an avid runner with no vices — he didn’t smoke, drink or do drugs. So when he suddenly experienced left-sided weakness, numbness and difficulties with balance, walking, swallowing and speech, a family member rushed him to a nearby stroke clinic.  <a href="https://bsky.app/profile/cnn.com/post/3m7mihivoka2c" target="_blank">cnn.com</a> (2025-12-10 16:02:01)</span><span style="padding-right:50px;">🛎️文春より【スクープ】です。  【国分問題に新展開】日本テレビが松岡昌宏にお詫び&説明の意向を発表「大変申し訳なく思っています」「お気持ちを真摯に受け止めたい」 (2025-12-10 16:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7mih6r73r27" target="_blank">sokuho.news</a> (2025-12-10 16:01:51)</span>
+<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】住宅にも火が燃え移ったか 敷地内の物置きからの出火で 宮城・栗原市 (2025-12-10 16:25:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7mjxynfbn2r" target="_blank">sokuho.news</a> (2025-12-10 16:29:09)</span><span style="padding-right:50px;">Japan did not aim radar at Chinese jets during Saturday's incidents, defence minister says reut.rs/48SMOFQ <a href="https://bsky.app/profile/reuters.com/post/3m7mjqv2vvb2y" target="_blank">reuters.com</a> (2025-12-10 16:25:10)</span><span style="padding-right:50px;">The billionaire said instead of DOGE, he would have worked at his companies if he had the chance to go back and do it all again. <a href="https://bsky.app/profile/forbes.com/post/3m7mjhrfe5v2h" target="_blank">forbes.com</a> (2025-12-10 16:20:04)</span><span style="padding-right:50px;">Raleigh construction firm Cardinal Infrastructure raises about $241.5 million in US IPO reut.rs/4rOWtpn <a href="https://bsky.app/profile/reuters.com/post/3m7mj73tzwh2k" target="_blank">reuters.com</a> (2025-12-10 16:15:13)</span><span style="padding-right:50px;">ノーベル平和賞のマチャド氏“授賞式に出席せず”現地メディア https://news.web.nhk/newsweb/na/na-k10015000051000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7mizmjlrd2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-10 16:12:07)</span>
   </div>
 </div>
 
@@ -32,14 +32,75 @@
 
 ## News Headlines
 
-1. ロッテ新人王西川史礁、推定年俸4200万円で契約更改
-2. 中日新人選手の入団会見、ドラフト1位中西聖輝「全力で努力」
-3. ガソリン価格、5週連続値下がり　年末にかけ値下がり続く見通し
-4. 介護報酬の臨時改定へ　ケアマネージャーなどの処遇改善を検討
-5. 国民民主、補正予算案賛成へ　賛成多数で成立の見通しに
-6. ガソリン価格5週連続値下がり　年末にかけ値下がり続く見通し
+1. 宮城・栗原市で住宅にも火が燃え移ったか
+2. ノーベル平和賞のマチャド氏が授賞式に出席せず
+3. 定数削減法案 自民・維新国対委員長が早期審議を要求
+4. ロッテ新人王 西川史礁、推定年俸4200万円で契約更改
+5. 後発地震、1カ月以内の大規模例は110年で24回
+6. ガソリン価格 5週連続値下がり 年末にかけ値下がり続く見通し
 
 ----
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】住宅にも火が燃え移ったか 敷地内の物置きからの出火で 宮城・栗原市
+(2025-12-10 16:25:00) #ニュース
+
+[2025-12-10 16:29:09](https://bsky.app/profile/sokuho.news/post/3m7mjxynfbn2r)
+
+---
+
+@reuters.com
+
+Japan did not aim radar at Chinese jets during Saturday's incidents, defence minister says reut.rs/48SMOFQ
+
+[2025-12-10 16:25:10](https://bsky.app/profile/reuters.com/post/3m7mjqv2vvb2y)
+
+---
+
+@forbes.com
+
+The billionaire said instead of DOGE, he would have worked at his companies if he had the chance to go back and do it all again.
+
+[2025-12-10 16:20:04](https://bsky.app/profile/forbes.com/post/3m7mjhrfe5v2h)
+
+---
+
+@reuters.com
+
+Raleigh construction firm Cardinal Infrastructure raises about $241.5 million in US IPO reut.rs/4rOWtpn
+
+[2025-12-10 16:15:13](https://bsky.app/profile/reuters.com/post/3m7mj73tzwh2k)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+ノーベル平和賞のマチャド氏“授賞式に出席せず”現地メディア
+https://news.web.nhk/newsweb/na/na-k10015000051000
+
+[2025-12-10 16:12:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7mizmjlrd2b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+定数削減法案 自民 維新 国対委員長“早期審議 働きかけ強化”
+https://news.web.nhk/newsweb/na/na-k10015000031000
+
+[2025-12-10 16:12:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7mizhqxw72x)
+
+---
+
+@reuters.com
+
+Justice Department unveils new charges in alleged Russia-backed cyberattacks reut.rs/3MkSvVp
+
+[2025-12-10 16:10:13](https://bsky.app/profile/reuters.com/post/3m7miw5spt62b)
+
+---
 
 @nhknewsunofficial.bsky.social
 
@@ -64,79 +125,6 @@ Shares on tenterhooks as Fed cut priced, guidance uncertain reut.rs/4a80FKA
 https://news.web.nhk/newsweb/na/na-k10014999891000
 
 [2025-12-10 16:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7mijgbt6x2s)
-
----
-
-@cnn.com
-
-He was healthy and fit at 54, an avid runner with no vices — he didn’t smoke, drink or do drugs. So when he suddenly experienced left-sided weakness, numbness and difficulties with balance, walking, swallowing and speech, a family member rushed him to a nearby stroke clinic. 
-
-[2025-12-10 16:02:01](https://bsky.app/profile/cnn.com/post/3m7mihivoka2c)
-
----
-
-@sokuho.news
-
-🛎️文春より【スクープ】です。
-
-【国分問題に新展開】日本テレビが松岡昌宏にお詫び&説明の意向を発表「大変申し訳なく思っています」「お気持ちを真摯に受け止めたい」
-(2025-12-10 16:00) #ニュース
-
-[2025-12-10 16:01:51](https://bsky.app/profile/sokuho.news/post/3m7mih6r73r27)
-
----
-
-@nikkei.com
-
-後発地震、1カ月以内の大規模例は110年で24回　東日本大震災も
-www.nikkei.com/article/DGXZQO...
- 
-青森県東方沖で発生した最大震度6強の地震を受け、気象庁は今後1週間大規模な後発地震への注意を呼びかけています。
- 
-後発地震のメカニズムは「比較的大きな地震が発生すると、周辺の力のバランスが変わるから」。規模は様々ですが、三陸沖や北海道東方沖では過去に大きな地震が続発した事例があります。
-
-[2025-12-10 16:01:50](https://bsky.app/profile/nikkei.com/post/3m7mih66e6k2g)
-
----
-
-@sokuho.news
-
-🛎️文春より【スクープ】です。
-
-元テレ東・森香澄（30）“歌手デビュー計画”がわかった 「バラドルを脱却したい」と関係者《密かに進める“あざとい戦略”とは？》
-(2025-12-10 16:00) #ニュース
-
-[2025-12-10 16:01:31](https://bsky.app/profile/sokuho.news/post/3m7miglwxgk2y)
-
----
-
-@sokuho.news
-
-🛎️文春より【スクープ】です。
-
-茂木敏充・外務大臣がハイブランドに政治資金支出 「行事費」名目でエルメスやディオールに
-(2025-12-10 16:00) #ニュース
-
-[2025-12-10 16:01:13](https://bsky.app/profile/sokuho.news/post/3m7mig2xslu2v)
-
----
-
-@reuters.com
-
-Samsung SDI unit signs US battery deal worth over $1.36 bln for energy storage systems reut.rs/4rSV0i0
-
-[2025-12-10 16:00:54](https://bsky.app/profile/reuters.com/post/3m7mifiqz5g2b)
-
----
-
-@sokuho.news
-
-🛎️文春より【スクープ】です。
-
-「日本は安売りになっている」“アベノミクス生みの親”浜田宏一氏がサナエノミクスに苦言「今の日本に必要な政策は真逆」
-(2025-12-10 16:00) #ニュース
-
-[2025-12-10 16:00:53](https://bsky.app/profile/sokuho.news/post/3m7mifhvpac2b)
 
 ---
 
