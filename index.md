@@ -1,9 +1,9 @@
-# [2025-12-11 01:10 updated](2025_12_11.md)
+# [2025-12-11 01:30 updated](2025_12_11.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">South Africa's Mr Price makes European debut through German value retailer deal reut.rs/4iMJbWe <a href="https://bsky.app/profile/reuters.com/post/3m7ngsvrnuh2b" target="_blank">reuters.com</a> (2025-12-11 01:05:16)</span><span style="padding-right:50px;">New York City Comptroller Brad Lander, a progressive ally of Mayor-elect Zohran Mamdani, launched a congressional bid to unseat fellow Democrat Rep. Daniel Goldman. <a href="https://bsky.app/profile/wsj.com/post/3m7ngofjows2t" target="_blank">wsj.com</a> (2025-12-11 01:02:45)</span><span style="padding-right:50px;">LIVE: What's the obsession with high-end timepieces? From gold Rolexes to used Pateks, demand remains high for luxury watches.   Ask your questions in our Live Q&A bloom.bg/3MSDNoz <a href="https://bsky.app/profile/bloomberg.com/post/3m7ngn3ru3v2u" target="_blank">bloomberg.com</a> (2025-12-11 01:02:01)</span><span style="padding-right:50px;">UK's Reeves vents her frustration at leaks of her budget reut.rs/4pwujhu <a href="https://bsky.app/profile/reuters.com/post/3m7nglqtn6q2i" target="_blank">reuters.com</a> (2025-12-11 01:01:16)</span><span style="padding-right:50px;">Thieves who stole more than $100 million in crown jewels from the Louvre in October escaped with barely 30 seconds to spare, a French Senate inquiry said Wednesday, as lawmakers detailed a cascade of security failures that allowed the gang to slip away in broad daylight. https://cnn.it/44lggCV <a href="https://bsky.app/profile/cnn.com/post/3m7nglh2qet2a" target="_blank">cnn.com</a> (2025-12-11 01:01:06)</span>
+<span style="padding-right:50px;">FX edges up as markets await Fed rate decision reut.rs/4q6ULOB <a href="https://bsky.app/profile/reuters.com/post/3m7nhwonflb2b" target="_blank">reuters.com</a> (2025-12-11 01:25:17)</span><span style="padding-right:50px;">Some everyday investors, who have snapped up shares of tech companies that are pinning their futures on AI, now fear they might be in the midst of a bubble. <a href="https://bsky.app/profile/wsj.com/post/3m7nhwedhzp2h" target="_blank">wsj.com</a> (2025-12-11 01:25:06)</span><span style="padding-right:50px;">Elon Musk could more than double his $460.6 billion fortune if SpaceX succeeds in going public at a valuation of $1.5 trillion.  See how the giant listing would push the world's richest man close to trillionaire status: bloom.bg/4ptbZFH  📷️: Stefani Reynolds/Bloomberg <a href="https://bsky.app/profile/bloomberg.com/post/3m7nhtfthpy24" target="_blank">bloomberg.com</a> (2025-12-11 01:23:27)</span><span style="padding-right:50px;">Opinion: Some of the most important conflicts today take place inside cultural-religious blocs, not between them. on.ft.com/4q0FUoE <a href="https://bsky.app/profile/financialtimes.com/post/3m7nhrdfxyz2f" target="_blank">financialtimes.com</a> (2025-12-11 01:22:17)</span><span style="padding-right:50px;">UK going ‘all in’ on Aukus pact following US review on.ft.com/4q1jEeq <a href="https://bsky.app/profile/financialtimes.com/post/3m7nhnq7h6j2p" target="_blank">financialtimes.com</a> (2025-12-11 01:20:16)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47719.23 (🔺145.27 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23472.36 (🔻63.64 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 182.40 (🔻2.59 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.47 (🔻0.36 : 2025-12-10)</span>
+<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47791.11 (🔺217.15 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23531.28 (🔻4.72 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 182.85 (🔻2.15 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.35 (🔻0.47 : 2025-12-10)</span>
   </div>
 </div>
 
@@ -32,98 +32,99 @@
 
 ## News Headlines
 
-Here are six news headlines in Japanese:
+Here are six headlines in Japanese:
 
-1. 3分30秒で逃げた：フランス国立美術館強盗事件の詳細を明らかに
-2. ドナルド・トランプ氏が国境警備の新規則を発表　外国人旅行者に5年間のSNSを提出要求
-3. ポルシェの労働組合が裁判を控え、更に450人を解雇する可能性あり
-4. トランプ氏がカリフォルニア州の国民警備隊の派遣を中止するよう命令を受けた
-5. オスロでノーベル平和賞授賞式　マリア・コリーナ・マチャド氏が受賞
-6. 連邦裁判所がジェフリー・エプスタイン事件の検察側の資料を開示命令　トランプ氏との関係を明らかに
+1. FXは上昇、市場はFedの金利決定を待つ
+2. SpaceXがIPOで$1.5兆の評価を達成すれば、エロン・マスクの富が$460.6億を超える
+3. UKは「Aukus条約」に全面的に参画、米国からの評価を高める
+4. FIFAに抗議：エジプトとイランがLGBTQ+パレードを含むワールドカップの試合を取り上げる
+5. ドイツのカメレースのプロチームと協力する：ポガバがカメレースのプロチームと協力する
+6. NBCニュース：米国政府が外国人観光客に5年間のソーシャルメディア履歴を提示するよう要件を要求
 
 ----
 
 @reuters.com
 
-South Africa's Mr Price makes European debut through German value retailer deal reut.rs/4iMJbWe
+FX edges up as markets await Fed rate decision reut.rs/4q6ULOB
 
-[2025-12-11 01:05:16](https://bsky.app/profile/reuters.com/post/3m7ngsvrnuh2b)
+[2025-12-11 01:25:17](https://bsky.app/profile/reuters.com/post/3m7nhwonflb2b)
 
 ---
 
 @wsj.com
 
-New York City Comptroller Brad Lander, a progressive ally of Mayor-elect Zohran Mamdani, launched a congressional bid to unseat fellow Democrat Rep. Daniel Goldman.
+Some everyday investors, who have snapped up shares of tech companies that are pinning their futures on AI, now fear they might be in the midst of a bubble.
 
-[2025-12-11 01:02:45](https://bsky.app/profile/wsj.com/post/3m7ngofjows2t)
+[2025-12-11 01:25:06](https://bsky.app/profile/wsj.com/post/3m7nhwedhzp2h)
 
 ---
 
 @bloomberg.com
 
-LIVE: What's the obsession with high-end timepieces? From gold Rolexes to used Pateks, demand remains high for luxury watches. 
+Elon Musk could more than double his $460.6 billion fortune if SpaceX succeeds in going public at a valuation of $1.5 trillion.
 
-Ask your questions in our Live Q&A bloom.bg/3MSDNoz
+See how the giant listing would push the world's richest man close to trillionaire status: bloom.bg/4ptbZFH
 
-[2025-12-11 01:02:01](https://bsky.app/profile/bloomberg.com/post/3m7ngn3ru3v2u)
+📷️: Stefani Reynolds/Bloomberg
 
----
-
-@reuters.com
-
-UK's Reeves vents her frustration at leaks of her budget reut.rs/4pwujhu
-
-[2025-12-11 01:01:16](https://bsky.app/profile/reuters.com/post/3m7nglqtn6q2i)
+[2025-12-11 01:23:27](https://bsky.app/profile/bloomberg.com/post/3m7nhtfthpy24)
 
 ---
 
-@cnn.com
+@financialtimes.com
 
-Thieves who stole more than $100 million in crown jewels from the Louvre in October escaped with barely 30 seconds to spare, a French Senate inquiry said Wednesday, as lawmakers detailed a cascade of security failures that allowed the gang to slip away in broad daylight. https://cnn.it/44lggCV
+Opinion: Some of the most important conflicts today take place inside cultural-religious blocs, not between them. on.ft.com/4q0FUoE
 
-[2025-12-11 01:01:06](https://bsky.app/profile/cnn.com/post/3m7nglh2qet2a)
+[2025-12-11 01:22:17](https://bsky.app/profile/financialtimes.com/post/3m7nhrdfxyz2f)
 
 ---
 
-@usatoday.com
+@financialtimes.com
 
-Eileen Higgins coasted to victory in Miami's mayoral election, defeating Trump's preferred candidate. Here's what to know about her.
+UK going ‘all in’ on Aukus pact following US review on.ft.com/4q1jEeq
 
-[2025-12-11 01:01:00](https://bsky.app/profile/usatoday.com/post/3m7nglblp6g2w)
+[2025-12-11 01:20:16](https://bsky.app/profile/financialtimes.com/post/3m7nhnq7h6j2p)
+
+---
+
+@nbcnews.com
+
+Egypt and Iran, two Middle East nations which target gays and lesbians, complain to FIFA over a World Cup soccer match in Seattle that is planned to celebrate LGBTQ+ Pride.
+
+[2025-12-11 01:20:11](https://bsky.app/profile/nbcnews.com/post/3m7nhnl5tgr2r)
 
 ---
 
 @washingtonpost.com
 
-The Washington Post’s new food critic Elazar Sontag entertains your restaurant questions, rants and raves.
+The Department of Homeland Security recently signed a contract worth nearly $140 million to purchase six Boeing 737 planes for deportations. https://wapo.st/3KpFEkd
 
-Ask him your questions now:
-
-[2025-12-11 01:00:31](https://bsky.app/profile/washingtonpost.com/post/3m7ngkfjpoo2y)
+[2025-12-11 01:20:07](https://bsky.app/profile/washingtonpost.com/post/3m7nhngq7yw24)
 
 ---
 
-@bloomberg.com
+@nhknewsunofficial.bsky.social
 
-License limitations and English-language tests are upending a critical pillar of the US economy: the trucking industry
+ノーベル賞授賞式 坂口さんと北川さんにメダル授与
+https://news.web.nhk/newsweb/na/na-k10014999581000
 
-[2025-12-11 01:00:25](https://bsky.app/profile/bloomberg.com/post/3m7ngk7vtxz2a)
-
----
-
-@apnews.com
-
-Pacific Northwest residents braced for another round of heavy rain Wednesday after a powerful storm clobbered the region the day before, swelling rivers, closing roads and prompting high water rescues.
-
-[2025-12-11 01:00:22](https://bsky.app/profile/apnews.com/post/3m7ngk5at6v2x)
+[2025-12-11 01:18:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7nhjsv6vf2b)
 
 ---
 
-@nytimes.com
+@reuters.com
 
-The Democratic Party is planning an unusually aggressive push to win seats in state legislatures next year, targeting more than 650 seats and aiming to make gains in 42 chambers, according to a strategy memo reviewed by The New York Times.
+Sterling edges up vs dollar, flat versus euro, Fed in focus reut.rs/48BObIw
 
-[2025-12-11 01:00:11](https://bsky.app/profile/nytimes.com/post/3m7ngjsu3zs2x)
+[2025-12-11 01:15:18](https://bsky.app/profile/reuters.com/post/3m7nhetisuk2k)
+
+---
+
+@reuters.com
+
+France's Pogba partners with professional camel racing team reut.rs/44QgrpQ
+
+[2025-12-11 01:10:15](https://bsky.app/profile/reuters.com/post/3m7nh3ss3ac2p)
 
 ---
 
