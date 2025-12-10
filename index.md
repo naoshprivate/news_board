@@ -1,9 +1,9 @@
-# [2025-12-11 03:30 updated](2025_12_11.md)
+# [2025-12-11 03:50 updated](2025_12_11.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🔔気象庁より【地震速報】です。  3時26分頃、東京都で最大震度1の地震を観測しました。 震源:新島・神津島近海, 深さ:10km, 規模:M3.0 この地震による津波の心配はありません。 (2025-12-11 03:29:18) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/11/2025-12-11-03-26-27.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3m7nouhuawr2s" target="_blank">sokuho.news</a> (2025-12-11 03:29:18)</span><span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像4🈡 (2025-12-11 03:27:01) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m7noqpea7r25" target="_blank">sokuho.news</a> (2025-12-11 03:27:12)</span><span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像2 (2025-12-11 03:26:37) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m7nopxhxe72x" target="_blank">sokuho.news</a> (2025-12-11 03:26:47)</span><span style="padding-right:50px;">🚨地震発生中❗❗❗  ⚠️揺れに警戒してください 🔗http://www.kmoni.bosai.go.jp/  🔶防災科研/強震モニタ/予測震度画像1 (2025-12-11 03:26:32) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m7nopqjcbn2v" target="_blank">sokuho.news</a> (2025-12-11 03:26:40)</span><span style="padding-right:50px;">Wall Street awaits Federal Reserve rate decision on.ft.com/44lGMvX <a href="https://bsky.app/profile/financialtimes.com/post/3m7nopce27l24" target="_blank">financialtimes.com</a> (2025-12-11 03:26:25)</span>
+<span style="padding-right:50px;">🔔気象庁より【地震速報】です。  3時46分頃、東京都で最大震度1の地震を観測しました。 震源:新島・神津島近海, 深さ:10km, 規模:M3.2 この地震による津波の心配はありません。 (2025-12-11 03:48:58) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/11/2025-12-11-03-46-16.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3m7npxntvqp2a" target="_blank">sokuho.news</a> (2025-12-11 03:48:59)</span><span style="padding-right:50px;">The Trump administration has announced plans to revamp the way HR works across the federal government, echoing DOGE's overhaul to the government workforce. <a href="https://bsky.app/profile/axios.com/post/3m7nptsvlic2d" target="_blank">axios.com</a> (2025-12-11 03:46:51)</span><span style="padding-right:50px;">Big global investors see gold in AI but don't buy the rush reut.rs/4oS4JSX <a href="https://bsky.app/profile/reuters.com/post/3m7npqyakop2i" target="_blank">reuters.com</a> (2025-12-11 03:45:15)</span><span style="padding-right:50px;">Iceland is the latest country to announce it will not take part in the 2026 Eurovision Song Contest, the country's public broadcaster RUV said, after the European Broadcasting Union last week cleared Israel's participation reut.rs/4aEORj1 <a href="https://bsky.app/profile/reuters.com/post/3m7nplsp3wc2u" target="_blank">reuters.com</a> (2025-12-11 03:42:22)</span><span style="padding-right:50px;">The Trump administration is proposing to ask visitors from countries with visa-free travel to the U.S. to submit five years of their social media history before they can enter.  <a href="https://bsky.app/profile/cbsnews.com/post/3m7npl6ubks2j" target="_blank">cbsnews.com</a> (2025-12-11 03:42:01)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47743.20 (🔺169.24 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23478.36 (🔻57.64 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 182.57 (🔻2.42 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.34 (🔻0.48 : 2025-12-10)</span>
+<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47716.53 (🔺142.57 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23492.72 (🔻43.28 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 182.91 (🔻2.08 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.42 (🔻0.40 : 2025-12-10)</span>
   </div>
 </div>
 
@@ -32,12 +32,12 @@
 
 ## News Headlines
 
-1. 東京都で最大震度1の地震が発生
-2. アメリカの連邦準備理事会が金利決定に意欲
-3. ベルギーのクーデターを計画していた疑いのある指導者がトーゴに逃げ込んだ
-4. インドネシアのジャカルタで火災が発生、22人死亡
-5. ウクライナが債務を抱え、欧州諸国が協力に苦慮
-6. アルバイトのH-1Bビザの料金が高騰、カナダが研究者を引き付けたい
+1.  🚨地震発生中❗❗  ⚠️揺れに警戒してください
+2.  ドル・トランプ政権が政府のHR制度を大幅改正する
+3.  米国政府は、AIの普及で利益が増えるとしてSP500が2026年に10％以上の利益を出すと予想
+4.  アメリカの医療機関が新生児にヘパチットBワクチンを接種することを止める決定を出した
+5.  ドル・トランプの大統領が、国境警備の拡大に反対する裁判官が指示を出した
+6.  ライアン・ロスが、スイスの人口を10万人に制限する提案を発表
 
 ----
 
@@ -45,103 +45,86 @@
 
 🔔気象庁より【地震速報】です。
 
-3時26分頃、東京都で最大震度1の地震を観測しました。
-震源:新島・神津島近海, 深さ:10km, 規模:M3.0
+3時46分頃、東京都で最大震度1の地震を観測しました。
+震源:新島・神津島近海, 深さ:10km, 規模:M3.2
 この地震による津波の心配はありません。
-(2025-12-11 03:29:18) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/11/2025-12-11-03-26-27.html?xlarge_image=1
+(2025-12-11 03:48:58) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/11/2025-12-11-03-46-16.html?xlarge_image=1
 
-[2025-12-11 03:29:18](https://bsky.app/profile/sokuho.news/post/3m7nouhuawr2s)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗
-
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像4🈡
-(2025-12-11 03:27:01) #緊急地震速報
-
-[2025-12-11 03:27:12](https://bsky.app/profile/sokuho.news/post/3m7noqpea7r25)
+[2025-12-11 03:48:59](https://bsky.app/profile/sokuho.news/post/3m7npxntvqp2a)
 
 ---
 
-@sokuho.news
+@axios.com
 
-🚨地震発生中❗❗
+The Trump administration has announced plans to revamp the way HR works across the federal government, echoing DOGE's overhaul to the government workforce.
 
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像2
-(2025-12-11 03:26:37) #緊急地震速報
-
-[2025-12-11 03:26:47](https://bsky.app/profile/sokuho.news/post/3m7nopxhxe72x)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗❗
-
-⚠️揺れに警戒してください
-🔗http://www.kmoni.bosai.go.jp/
-
-🔶防災科研/強震モニタ/予測震度画像1
-(2025-12-11 03:26:32) #緊急地震速報
-
-[2025-12-11 03:26:40](https://bsky.app/profile/sokuho.news/post/3m7nopqjcbn2v)
-
----
-
-@financialtimes.com
-
-Wall Street awaits Federal Reserve rate decision on.ft.com/44lGMvX
-
-[2025-12-11 03:26:25](https://bsky.app/profile/financialtimes.com/post/3m7nopce27l24)
+[2025-12-11 03:46:51](https://bsky.app/profile/axios.com/post/3m7nptsvlic2d)
 
 ---
 
 @reuters.com
 
-Alleged leader of foiled Benin coup has sought refuge in Togo, Benin says reut.rs/4rObKa3
+Big global investors see gold in AI but don't buy the rush reut.rs/4oS4JSX
 
-[2025-12-11 03:25:14](https://bsky.app/profile/reuters.com/post/3m7non6dkjk2b)
-
----
-
-@cnbc.com
-
-Stocks making the biggest moves midday: Photronics, AeroVironment, Maplebear, GE Vernova & more
-
-[2025-12-11 03:24:19](https://bsky.app/profile/cnbc.com/post/3m7nolk6sb22x)
+[2025-12-11 03:45:15](https://bsky.app/profile/reuters.com/post/3m7npqyakop2i)
 
 ---
 
-@financialtimes.com
+@reuters.com
 
-Return to EU customs union would ‘unravel’ UK trade deals, Starmer warns on.ft.com/494TC48
+Iceland is the latest country to announce it will not take part in the 2026 Eurovision Song Contest, the country's public broadcaster RUV said, after the European Broadcasting Union last week cleared Israel's participation reut.rs/4aEORj1
 
-[2025-12-11 03:21:53](https://bsky.app/profile/financialtimes.com/post/3m7noh6cf7y2b)
+[2025-12-11 03:42:22](https://bsky.app/profile/reuters.com/post/3m7nplsp3wc2u)
 
 ---
 
-@nytimes.com
+@cbsnews.com
 
-“I have made this dressing three times and our 7-year-old became an instant fan! He will eat almost any vegetable that is slathered in this stuff.”
+The Trump administration is proposing to ask visitors from countries with visa-free travel to the U.S. to submit five years of their social media history before they can enter.
 
-Readers adore this vinaigrette, which is one of our most popular recipes of 2025. nyti.ms/4iNl5ef
 
-[2025-12-11 03:21:07](https://bsky.app/profile/nytimes.com/post/3m7noftbkuz2x)
+[2025-12-11 03:42:01](https://bsky.app/profile/cbsnews.com/post/3m7npl6ubks2j)
+
+---
+
+@reuters.com
+
+Congo rebels enter strategic town as peace deal crumbles reut.rs/48L2Ykb
+
+[2025-12-11 03:40:24](https://bsky.app/profile/reuters.com/post/3m7npicpahx2c)
 
 ---
 
 @nbcnews.com
 
-A fire ripped through an office building in Indonesia’s capital, Jakarta, killing at least 22 people, including a pregnant woman, police say.
+Doctors, hospitals and public health departments are scrambling to ensure proper care for pregnant women and their babies following a controversial vote from CDC and Prevention advisers that reversed decades of standard medical practice giving newborns the hepatitis B vaccine.
 
-[2025-12-11 03:20:24](https://bsky.app/profile/nbcnews.com/post/3m7noejqu4c2n)
+[2025-12-11 03:40:12](https://bsky.app/profile/nbcnews.com/post/3m7nphwcbmp24)
+
+---
+
+@nytimes.com
+
+Wendy Osefo of “The Real Housewives of Potomac” and her husband are facing several counts of fraud. She is the latest in a long line of “Housewives” personalities to face legal trouble.
+
+[2025-12-11 03:40:06](https://bsky.app/profile/nytimes.com/post/3m7nphrcjp62a)
+
+---
+
+@reuters.com
+
+Texas and Florida launched the latest lawsuit seeking to restrict access to the abortion pill mifepristone, following the FDA’s recent approval of a new generic version reut.rs/3KN2BO9
+
+[2025-12-11 03:39:40](https://bsky.app/profile/reuters.com/post/3m7npgy2anc2u)
+
+---
+
+@yahoofinance.com
+
+Wells Fargo sees S&P 500 clocking double-digit gain in 2026 as AI boosts profits, tax refunds lift spending
+
+[2025-12-11 03:36:06](https://bsky.app/profile/yahoofinance.com/post/3m7npamikl32d)
 
 ---
 
