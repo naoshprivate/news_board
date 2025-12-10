@@ -1,9 +1,9 @@
-# [2025-12-10 23:10 updated](2025_12_10.md)
+# [2025-12-10 23:30 updated](2025_12_10.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Exclusive: Mark Zuckerberg, months into building one of the priciest teams in technology history, is getting personally involved in day-to-day work and pivoting Meta’s focus to an artificial intelligence model it can make money off of <a href="https://bsky.app/profile/bloomberg.com/post/3m7na6tlnea2d" target="_blank">bloomberg.com</a> (2025-12-10 23:06:41)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:青森県東方沖, 深さ:50km マグニチュード:4.3, 最大震度:1 📍https://www.google.com/maps?q=41.3,142.4&ll=41.3,142.4&z=7&t=h 地震発生日時:2025-12-10 23:01頃 (10倍速▶180s→18s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m7na4bl4242b" target="_blank">sokuho.news</a> (2025-12-10 23:05:14)</span><span style="padding-right:50px;">Thailand–Cambodia border clash tests Trump's tariff diplomacy reut.rs/3My9rYn <a href="https://bsky.app/profile/reuters.com/post/3m7na4bddrp2b" target="_blank">reuters.com</a> (2025-12-10 23:05:14)</span><span style="padding-right:50px;">Breaking News: Brad Lander, the New York City comptroller backed by Zohran Mamdani, is expected to announce a run for a House seat held by a Democrat. <a href="https://bsky.app/profile/nytimes.com/post/3m7na3canxi2r" target="_blank">nytimes.com</a> (2025-12-10 23:04:42)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  23時1分頃、青森県・北海道で最大震度1の地震を観測しました。 震源:青森県東方沖, 深さ:50km, 規模:M4.3 この地震による津波の心配はありません。 (2025-12-10 23:04:37) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/10/2025-12-10-23-01-38.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3m7na36zfcd2b" target="_blank">sokuho.news</a> (2025-12-10 23:04:38)</span>
+<span style="padding-right:50px;">US proposes social media disclosure requirement for visitors from visa-free countries on.ft.com/3MrXdk9 <a href="https://bsky.app/profile/financialtimes.com/post/3m7nbfewmp62f" target="_blank">financialtimes.com</a> (2025-12-10 23:28:14)</span><span style="padding-right:50px;">British novelist Sophie Kinsella, the author of the bestselling Shopaholic book series, died at the age of 55 following illness, a statement posted to her Instagram account said reut.rs/48uYEa5 <a href="https://bsky.app/profile/reuters.com/post/3m7nbdu5gdk25" target="_blank">reuters.com</a> (2025-12-10 23:27:23)</span><span style="padding-right:50px;">UK watchdog probes EY over unauthorised auditor reports reut.rs/4rMCZBK <a href="https://bsky.app/profile/reuters.com/post/3m7nb7umhph2b" target="_blank">reuters.com</a> (2025-12-10 23:25:09)</span><span style="padding-right:50px;">U.S. to mandate checks of some tourists' social media history from past 5 years <a href="https://bsky.app/profile/cnbc.com/post/3m7nb7jkgqa2e" target="_blank">cnbc.com</a> (2025-12-10 23:24:57)</span><span style="padding-right:50px;">Venezuelan Nobel laureate María Corina Machado left the country on Tuesday by boat and traveled to Curaçao, U.S. officials said.  The opposition leader’s allies worked to keep the trip from becoming public to protect her safety. <a href="https://bsky.app/profile/wsj.com/post/3m7nb4zoaks2f" target="_blank">wsj.com</a> (2025-12-10 23:23:34)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47560.29 (🔻164.23 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23576.49 (🔺71.88 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.97 (🔻0.59 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.54 (🔻0.28 : 2025-12-10)</span>
+<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47539.06 (🔻34.90 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23576.49 (🔺71.87 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.70 (🔻0.29 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.61 (🔻0.21 : 2025-12-10)</span>
   </div>
 </div>
 
@@ -32,120 +32,96 @@
 
 ## News Headlines
 
-1.  マーク・ザッカーバーグ氏がメタのAI開発に本格的に関わる
-2.  トランプ政権がボスニア・ヘルツェゴビナに介入
-3.  ペイパルチェックが衰退　紙幣送付をやめる政府
-4.  メロニ政権がイタリアで現金決済を2倍にする
-5.  イタリアの料理がUNESCOの文化遺産に登録
-6.  ベルリンのノーベル賞をマリア・コリーナ・マチャドの娘が受賞
+1. 米国政府が非移民国からの来日者にソーシャルメディア開示義務を課す
+2. ベストセラー作家ソフィー・キンセラが55歳で死去
+3. EYが不正の会計士を起用した疑い　英国当局が調査を開始
+4. 米国が来日者のソーシャルメディア履歴を5年間チェックすることを検討
+5. ウクレーニャの反政府指導者マリア・コリーナ・マチャドが国を脱出
+6. EU加盟国がロシアガス輸入を段階的に減らすことを決定
 
 ----
 
-@bloomberg.com
+@financialtimes.com
 
-Exclusive: Mark Zuckerberg, months into building one of the priciest teams in technology history, is getting personally involved in day-to-day work and pivoting Meta’s focus to an artificial intelligence model it can make money off of
+US proposes social media disclosure requirement for visitors from visa-free countries on.ft.com/3MrXdk9
 
-[2025-12-10 23:06:41](https://bsky.app/profile/bloomberg.com/post/3m7na6tlnea2d)
-
----
-
-@sokuho.news
-
-🔔防災科研より【強震モニタ】動画です。
-
-震源:青森県東方沖, 深さ:50km
-マグニチュード:4.3, 最大震度:1
-📍https://www.google.com/maps?q=41.3,142.4&ll=41.3,142.4&z=7&t=h
-地震発生日時:2025-12-10 23:01頃
-(10倍速▶180s→18s) #地震
-
-[2025-12-10 23:05:14](https://bsky.app/profile/sokuho.news/post/3m7na4bl4242b)
+[2025-12-10 23:28:14](https://bsky.app/profile/financialtimes.com/post/3m7nbfewmp62f)
 
 ---
 
 @reuters.com
 
-Thailand–Cambodia border clash tests Trump's tariff diplomacy reut.rs/3My9rYn
+British novelist Sophie Kinsella, the author of the bestselling Shopaholic book series, died at the age of 55 following illness, a statement posted to her Instagram account said reut.rs/48uYEa5
 
-[2025-12-10 23:05:14](https://bsky.app/profile/reuters.com/post/3m7na4bddrp2b)
-
----
-
-@nytimes.com
-
-<strong><span style="color: red;">Breaking News</span>: Brad Lander, the New York City comptroller backed by Zohran Mamdani, is expected to announce a run for a House seat held by a Democrat.</strong>
-
-[2025-12-10 23:04:42](https://bsky.app/profile/nytimes.com/post/3m7na3canxi2r)
+[2025-12-10 23:27:23](https://bsky.app/profile/reuters.com/post/3m7nbdu5gdk25)
 
 ---
 
-@sokuho.news
+@reuters.com
 
-🔔気象庁より【地震速報】です。
+UK watchdog probes EY over unauthorised auditor reports reut.rs/4rMCZBK
 
-23時1分頃、青森県・北海道で最大震度1の地震を観測しました。
-震源:青森県東方沖, 深さ:50km, 規模:M4.3
-この地震による津波の心配はありません。
-(2025-12-10 23:04:37) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/10/2025-12-10-23-01-38.html?xlarge_image=1
-
-[2025-12-10 23:04:38](https://bsky.app/profile/sokuho.news/post/3m7na36zfcd2b)
+[2025-12-10 23:25:09](https://bsky.app/profile/reuters.com/post/3m7nb7umhph2b)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@cnbc.com
 
-箱根駅伝トークイベント 青山学院 原監督「輝け大作戦」掲げる
-https://news.web.nhk/newsweb/na/na-k10015000461000
+U.S. to mandate checks of some tourists' social media history from past 5 years
 
-[2025-12-10 23:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7n7ygi3wr2v)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗
-
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像4🈡
-(2025-12-10 23:02:32) #緊急地震速報
-
-[2025-12-10 23:02:59](https://bsky.app/profile/sokuho.news/post/3m7n7ya5ym22s)
+[2025-12-10 23:24:57](https://bsky.app/profile/cnbc.com/post/3m7nb7jkgqa2e)
 
 ---
 
-@sokuho.news
+@wsj.com
 
-🚨地震発生中❗❗
+Venezuelan Nobel laureate María Corina Machado left the country on Tuesday by boat and traveled to Curaçao, U.S. officials said.
 
-⚠️揺れに警戒してください
+The opposition leader’s allies worked to keep the trip from becoming public to protect her safety.
 
-🔶防災科研/強震モニタ/予測震度画像3
-(2025-12-10 23:02:28) #緊急地震速報
-
-[2025-12-10 23:02:37](https://bsky.app/profile/sokuho.news/post/3m7n7xllk6u2v)
+[2025-12-10 23:23:34](https://bsky.app/profile/wsj.com/post/3m7nb4zoaks2f)
 
 ---
 
-@sokuho.news
+@wsj.com
 
-🚨地震発生中❗❗
+Giredestrant lowered the risk of disease recurrence or death by 30%, compared with standard-of-care endocrine therapy, according to the company. on.wsj.com/48ZEuVP
 
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像2
-(2025-12-10 23:02:08) #緊急地震速報
-
-[2025-12-10 23:02:15](https://bsky.app/profile/sokuho.news/post/3m7n7wvx2xq2r)
+[2025-12-10 23:23:33](https://bsky.app/profile/wsj.com/post/3m7nb4zfpam2i)
 
 ---
 
-@financialtimes.com
+@wsj.com
 
-A group of US Maga lobbyists has helped trigger a dramatic intervention by the Trump administration in the Balkan state of Bosnia and Herzegovina, upending years of US-led diplomacy in the volatile region in south-eastern Europe on.ft.com/4iSHIOj
+Charlie Kirk’s latest book, “Stop, in the Name of God: Why Honoring the Sabbath Will Transform Your Life,” was ranked No. 1 on the Amazon Top 100 bestseller list, but on Tuesday the hardcover was listed as temporarily out of stock.
 
-[2025-12-10 23:02:06](https://bsky.app/profile/financialtimes.com/post/3m7n7wnibtg25)
+[2025-12-10 23:23:28](https://bsky.app/profile/wsj.com/post/3m7nb4u7ewl2c)
+
+---
+
+@bloomberg.com
+
+What's the obsession with high-end timepieces? From gold Rolexes to used Pateks, demand remains high for luxury watches. 
+
+🔜 Ask your questions in our Live Q&A bloom.bg/4ppzMqd
+
+[2025-12-10 23:21:07](https://bsky.app/profile/bloomberg.com/post/3m7nayo546t2u)
+
+---
+
+@nbcnews.com
+
+NEW: Sophie Kinsella, the best-selling author of the “Shopaholic” series of novels has died, her family announce, 18 months after she revealed she had an aggressive form of brain cancer. She was 55.
+
+[2025-12-10 23:20:17](https://bsky.app/profile/nbcnews.com/post/3m7nax62cvf2q)
+
+---
+
+@npr.org
+
+A roundup of good advice from Life Kit's 10 most read stories of 2025. Find out which foods support better sleep, how to be happier and how to graciously accept compliments. n.pr/4rKkgHb
+
+[2025-12-10 23:18:59](https://bsky.app/profile/npr.org/post/3m7nautpujj2g)
 
 ---
 
