@@ -1,9 +1,9 @@
-# [2025-12-10 19:50 updated](2025_12_10.md)
+# [2025-12-10 20:10 updated](2025_12_10.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">No hire, no fire? Jobless expansion? On this week's Reuters Econ World podcast, US economics editor Dan Burns unpacks the murky US labor picture reut.rs/3Y5Kvu5 <a href="https://bsky.app/profile/reuters.com/post/3m7muydjlgk2t" target="_blank">reuters.com</a> (2025-12-10 19:46:11)</span><span style="padding-right:50px;">モンロー主義のトランプ的帰結　アメリカ新戦略の背景 www.nikkei.com/article/DGXZQO...  トランプ政権がまとめた「国家安全保障戦略（NSS）」は19世紀のモンロー主義への回帰にみえて単純な孤立主義ではありません。  NSSは米保守派がしかける文化戦争とも深く絡み合っています。  その哲学を示す文言「モンロー主義へのトランプ補論（Trump Corollary）」とは。 <a href="https://bsky.app/profile/nikkei.com/post/3m7muxpmti724" target="_blank">nikkei.com</a> (2025-12-10 19:45:50)</span><span style="padding-right:50px;">NHL roundup: After last-second goal, Ducks stun Penguins in shootout reut.rs/3Yhf1Rx <a href="https://bsky.app/profile/reuters.com/post/3m7mux3ny6e2r" target="_blank">reuters.com</a> (2025-12-10 19:45:29)</span><span style="padding-right:50px;">IMF's Georgieva urges China to speed up 'long-overdue' shift away from relying on exports for growth, so as 'not to provoke' other countries <a href="https://bsky.app/profile/cnbc.com/post/3m7muv5ptnd2i" target="_blank">cnbc.com</a> (2025-12-10 19:44:24)</span><span style="padding-right:50px;">NZ in charge of second Windies test despite Tickner injury reut.rs/3Kz2zJP <a href="https://bsky.app/profile/reuters.com/post/3m7muo7cdos2i" target="_blank">reuters.com</a> (2025-12-10 19:40:31)</span>
+<span style="padding-right:50px;">Gaza’s Government Media Office warns that Storm Byron, arriving today with heavy rain, floods and strong winds, can worsen the suffering of hundreds of thousands of displaced Palestinian families living in fragile tents across the war-torn enclave #infograph <a href="https://bsky.app/profile/aljazeera.com/post/3m7mwblhpkc2r" target="_blank">aljazeera.com</a> (2025-12-10 20:09:15)</span><span style="padding-right:50px;">Anthony Nel, of Texas, became a U.S. citizen as a teen. But a flaw in a Trump administration citizenship tool flagged him as a potential noncitizen, which led to his voter registration being canceled. n.pr/4rP2dPS <a href="https://bsky.app/profile/npr.org/post/3m7mw437y4g2m" target="_blank">npr.org</a> (2025-12-10 20:06:10)</span><span style="padding-right:50px;">EY hit with new investigation by UK accounting watchdog on.ft.com/48M6ydU <a href="https://bsky.app/profile/financialtimes.com/post/3m7mw3o2azn2k" target="_blank">financialtimes.com</a> (2025-12-10 20:05:57)</span><span style="padding-right:50px;">HK-listed Lingbao Gold to buy 50% of Australia's St Barbara unit for $245.5 million reut.rs/4rTVuEC <a href="https://bsky.app/profile/reuters.com/post/3m7mw2nkr7u2x" target="_blank">reuters.com</a> (2025-12-10 20:05:22)</span><span style="padding-right:50px;">The regulator overseeing Australia's world-first teenage social media ban rejected the 'technological exceptionalism' championed by mostly US-based platforms and said a groundswell of American parents wanted similar measures reut.rs/4aESLbB <a href="https://bsky.app/profile/reuters.com/post/3m7mw3hapss25" target="_blank">reuters.com</a> (2025-12-10 20:03:38)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47560.29 (🔻164.23 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23576.49 (🔺71.88 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.97 (🔻0.59 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.77 (🔻0.05 : 2025-12-10)</span>
+<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47560.29 (🔻164.23 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23576.49 (🔺71.88 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.97 (🔻0.59 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.71 (🔻0.11 : 2025-12-10)</span>
   </div>
 </div>
 
@@ -32,102 +32,92 @@
 
 ## News Headlines
 
-以下の6つのニュースのヘッドラインです。
-
-1. 「ノーベル平和賞受賞者マチアーダは、ノーベル平和賞授賞式に参加せず」
-2. 「台湾首相、台湾有事の早期日米首脳会談の実現を表明」
-3. 「新型コロナの冬の避難対策、低体温症・エコノミークラス症候群・感染症の注意を」
-4. 「神奈川県で山林火災、県は自衛隊に災害派遣を要請」
-5. 「オーストラリア、16歳未満のSNS利用禁止の法律施行、世界初」
-6. 「青森県東方沖で地震、専門家「再びM7クラス起きる可能性もある」」
+1. ガザの政府は、強い雨と強風をもたらす嵐「バイロン」が今日に到着することを警告し、戦争の激化したエリアの数十万人の避難者が脆弱なテント生活を強いられることを懸念している。
+2. アメリカのトランプ政権の市民権取得ツールに欠陥があり、若者が非市民と誤認され、投票登録が取り消された。
+3. EYは、英国監査団体から新たな調査を受け、英国監査会社。
+4. 香港上場のリンガオゴールドは、オーストラリアのSt Barbaraの部門を50%取得、245.5億米ドルで。
+5. オーストラリアの若者は、テクノロジーに対する特殊な扱いを主にアメリカのサイトで主張したが、オーストラリアの規制当局は、米国で多くの親が似たような措置を求めていることを強調した。
+6. オーストラリア政府は、TikTok、YouTube、Instagram、Facebookなど10の主要サイトに、16歳未満のユーザー1,000万人をブロックし、罰金を科すことを命じた。
 
 ----
 
-@reuters.com
+@aljazeera.com
 
-No hire, no fire? Jobless expansion? On this week's Reuters Econ World podcast, US economics editor Dan Burns unpacks the murky US labor picture reut.rs/3Y5Kvu5
+Gaza’s Government Media Office warns that Storm Byron, arriving today with heavy rain, floods and strong winds, can worsen the suffering of hundreds of thousands of displaced Palestinian families living in fragile tents across the war-torn enclave #infograph
 
-[2025-12-10 19:46:11](https://bsky.app/profile/reuters.com/post/3m7muydjlgk2t)
-
----
-
-@nikkei.com
-
-モンロー主義のトランプ的帰結　アメリカ新戦略の背景
-www.nikkei.com/article/DGXZQO...
-
-トランプ政権がまとめた「国家安全保障戦略（NSS）」は19世紀のモンロー主義への回帰にみえて単純な孤立主義ではありません。
-
-NSSは米保守派がしかける文化戦争とも深く絡み合っています。
-
-その哲学を示す文言「モンロー主義へのトランプ補論（Trump Corollary）」とは。
-
-[2025-12-10 19:45:50](https://bsky.app/profile/nikkei.com/post/3m7muxpmti724)
+[2025-12-10 20:09:15](https://bsky.app/profile/aljazeera.com/post/3m7mwblhpkc2r)
 
 ---
 
-@reuters.com
+@npr.org
 
-NHL roundup: After last-second goal, Ducks stun Penguins in shootout reut.rs/3Yhf1Rx
+Anthony Nel, of Texas, became a U.S. citizen as a teen. But a flaw in a Trump administration citizenship tool flagged him as a potential noncitizen, which led to his voter registration being canceled. n.pr/4rP2dPS
 
-[2025-12-10 19:45:29](https://bsky.app/profile/reuters.com/post/3m7mux3ny6e2r)
+[2025-12-10 20:06:10](https://bsky.app/profile/npr.org/post/3m7mw437y4g2m)
 
 ---
 
-@cnbc.com
+@financialtimes.com
 
-IMF's Georgieva urges China to speed up 'long-overdue' shift away from relying on exports for growth, so as 'not to provoke' other countries
+EY hit with new investigation by UK accounting watchdog on.ft.com/48M6ydU
 
-[2025-12-10 19:44:24](https://bsky.app/profile/cnbc.com/post/3m7muv5ptnd2i)
+[2025-12-10 20:05:57](https://bsky.app/profile/financialtimes.com/post/3m7mw3o2azn2k)
 
 ---
 
 @reuters.com
 
-NZ in charge of second Windies test despite Tickner injury reut.rs/3Kz2zJP
+HK-listed Lingbao Gold to buy 50% of Australia's St Barbara unit for $245.5 million reut.rs/4rTVuEC
 
-[2025-12-10 19:40:31](https://bsky.app/profile/reuters.com/post/3m7muo7cdos2i)
-
----
-
-@nbcnews.com
-
-Speaking outside his residence in Castel Gandolfo, Pope Leo XIV said recent remarks by President Trump seemed to be “trying to break apart” Europe’s alliance with the U.S.
-
-[2025-12-10 19:40:23](https://bsky.app/profile/nbcnews.com/post/3m7munxhqdp2x)
+[2025-12-10 20:05:22](https://bsky.app/profile/reuters.com/post/3m7mw2nkr7u2x)
 
 ---
 
-@nytimes.com
+@reuters.com
 
-Park Dae-jun, the head of the South Korean unit of the e-commerce company Coupang, resigned on Wednesday as the fallout from a data breach affecting nearly 34 million users of the online shopping site intensifies.
+The regulator overseeing Australia's world-first teenage social media ban rejected the 'technological exceptionalism' championed by mostly US-based platforms and said a groundswell of American parents wanted similar measures reut.rs/4aESLbB
 
-[2025-12-10 19:40:04](https://bsky.app/profile/nytimes.com/post/3m7munew7eo2z)
-
----
-
-@en.afp.com
-
-Rwanda accused the Democratic Republic of Congo and Burundi of deliberately violating a recently signed peace agreement in eastern DRC in a statement on Wednesday, a day after Rwandan-backed armed fighters entered a key city ➡️ u.afp.com/S7dz
-
-[2025-12-10 19:40:01](https://bsky.app/profile/en.afp.com/post/3m7muncps622j)
+[2025-12-10 20:03:38](https://bsky.app/profile/reuters.com/post/3m7mw3hapss25)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@reuters.com
 
-高市首相 日米首脳会談の早期実現に意欲 「台湾有事」めぐり
-https://news.web.nhk/newsweb/na/na-k10015000231000
+Others took their frustration out on PM Anthony Albanese, who has lost 6,000 followers across TikTok and Instagram since December 9. Some 200,000 accounts have already been deactivated on TikTok alone, the government said, with thousands to be blocked in the coming days
 
-[2025-12-10 19:39:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7mulnkeqs24)
+[2025-12-10 20:03:38](https://bsky.app/profile/reuters.com/post/3m7mw3haotk25)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@reuters.com
 
-DR Congo fighting: M23 rebels advance Uvira despite Trump peace deal
+'As an autistic 13-year-old I am devastated,' one popular post on Reddit said. 'My playlist of 1,400+ songs on YouTube will be deleted and Reddit too, I have zero friends ... I will be completely alone for the next three years until I am 16'
 
-[2025-12-10 19:38:35](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7mukr2hj626)
+[2025-12-10 20:03:38](https://bsky.app/profile/reuters.com/post/3m7mw2f527s25)
+
+---
+
+@reuters.com
+
+Australia ordered 10 major platforms including TikTok, YouTube, Instagram and Facebook to block around one million users under the age of 16 or face massive fines reut.rs/44N95Dy
+
+[2025-12-10 20:03:38](https://bsky.app/profile/reuters.com/post/3m7mvziih6225)
+
+---
+
+@reuters.com
+
+'Goodbye, see you on the other side.' Young Australians, who have grown up using social media, faced the prospect of losing access to their favorite apps with a mix of sadness, humor and disbelief
+
+[2025-12-10 20:03:38](https://bsky.app/profile/reuters.com/post/3m7mvynydjc25)
+
+---
+
+@reuters.com
+
+In the hours leading up to Australia's social media ban's midnight start, a flurry of goodbye messages came from teenagers — as well as adults — on platforms including TikTok, Instagram and Reddit reut.rs/3KlOmzW
+
+[2025-12-10 20:03:38](https://bsky.app/profile/reuters.com/post/3m7mvxjsfsk25)
 
 ---
 
