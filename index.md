@@ -1,9 +1,9 @@
-# [2025-12-11 02:10 updated](2025_12_11.md)
+# [2025-12-11 02:30 updated](2025_12_11.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Democrat Eileen Higgins, a city elected former county commissioner, will be Miami’s next mayor.  Her win is another electoral setback for Republicans — this time in an area where they’ve been dominant in local elections. https://wapo.st/4q7sIP7 <a href="https://bsky.app/profile/washingtonpost.com/post/3m7nkdf2ib523" target="_blank">washingtonpost.com</a> (2025-12-11 02:08:11)</span><span style="padding-right:50px;">A federal judge on Wednesday blocked President Donald Trump’s deployment of National Guard troops to Los Angeles and ordered them returned to the control of the state’s governor. https://cnn.it/4905VPj <a href="https://bsky.app/profile/cnn.com/post/3m7nkdaal5p2t" target="_blank">cnn.com</a> (2025-12-11 02:08:05)</span><span style="padding-right:50px;"> Casinos could deal New York’s poker dens a losing hand on.ft.com/3MmYoBs  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m7nkcbwdng25" target="_blank">financialtimes.com</a> (2025-12-11 02:07:34)</span><span style="padding-right:50px;">Trump’s tariffs intensify strain on US farmers, Deere warns on.ft.com/4q2zwNU <a href="https://bsky.app/profile/financialtimes.com/post/3m7nk6gs3pq24" target="_blank">financialtimes.com</a> (2025-12-11 02:05:25)</span><span style="padding-right:50px;">Ghana's economy grew 5.5% in third quarter of 2025 reut.rs/3KDDiya <a href="https://bsky.app/profile/reuters.com/post/3m7nk62yt4o2c" target="_blank">reuters.com</a> (2025-12-11 02:05:12)</span>
+<span style="padding-right:50px;">Italy industry output falls more than expected as economy struggles reut.rs/4pOT2Oh <a href="https://bsky.app/profile/reuters.com/post/3m7nlbw4ycg2r" target="_blank">reuters.com</a> (2025-12-11 02:25:15)</span><span style="padding-right:50px;">Southwest CEO says airline 'actively pursuing' network of airport lounges <a href="https://bsky.app/profile/cnbc.com/post/3m7nlbfexcm2d" target="_blank">cnbc.com</a> (2025-12-11 02:24:57)</span><span style="padding-right:50px;">Far-Flung Postcards is a weekly series in which NPR's international team shares moments from their lives and work around the world. n.pr/48Jr92z <a href="https://bsky.app/profile/npr.org/post/3m7nl746sw524" target="_blank">npr.org</a> (2025-12-11 02:23:41)</span><span style="padding-right:50px;">As Australia’s world-first social media ban for under-16s came into effect on December 10, some teenagers in Sydney doubted its impact <a href="https://bsky.app/profile/reuters.com/post/3m7nl5y2yb22u" target="_blank">reuters.com</a> (2025-12-11 02:23:03)</span><span style="padding-right:50px;">From @theathletic.com: “Being quiet just means being compliant and I just can’t be compliant.”  Tennis legend Martina Navratilova, who has been heavily critical of President Trump, said she is aware of potential retribution for her criticisms. <a href="https://bsky.app/profile/nytimes.com/post/3m7nl2ftn722z" target="_blank">nytimes.com</a> (2025-12-11 02:21:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47752.48 (🔺178.52 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23516.06 (🔻19.94 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 182.57 (🔻2.43 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.35 (🔻0.47 : 2025-12-10)</span>
+<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47759.04 (🔺185.08 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23496.25 (🔻39.75 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 182.52 (🔻2.47 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.28 (🔻0.55 : 2025-12-10)</span>
   </div>
 </div>
 
@@ -32,96 +32,94 @@
 
 ## News Headlines
 
-1. マイアミの新市長に民主党のヒギンズ氏が選出される
-2. ドナルド・トランプ米大統領の米国国民警備隊派遣を、連邦裁判所が差し止める
-3. ニューヨークのカジノ、麻雀ライブハウスに厳しいルールが敷かれる
-4. ドナルド・トランプ米大統領の関税は米農家に大きな痛手を与える
-5. ギャンビア国民経済の成長率が5.5％に達する
-6. ゴoogleのオートモビル事業が世界各地に拡大予定
+1. 2025年の３月、イタリア産業生産が予想外に減少
+2. 連合航空　国内線ネットワークのラウンジ計画進め
+3. イギリス、16歳未満の子供にSNS利用禁止
+4. パリの美術館　ピカソ画を-raffle-で売却　アルツハイマー病研究に寄付
+5. フェデラルレジスター　2029年から電気料金の増額を認める
+6. 米国大統領選　イエレン氏がミアミ市長に当選
 
 ----
 
-@washingtonpost.com
+@reuters.com
 
-Democrat Eileen Higgins, a city elected former county commissioner, will be Miami’s next mayor.
+Italy industry output falls more than expected as economy struggles reut.rs/4pOT2Oh
 
-Her win is another electoral setback for Republicans — this time in an area where they’ve been dominant in local elections. https://wapo.st/4q7sIP7
-
-[2025-12-11 02:08:11](https://bsky.app/profile/washingtonpost.com/post/3m7nkdf2ib523)
+[2025-12-11 02:25:15](https://bsky.app/profile/reuters.com/post/3m7nlbw4ycg2r)
 
 ---
 
-@cnn.com
+@cnbc.com
 
-A federal judge on Wednesday blocked President Donald Trump’s deployment of National Guard troops to Los Angeles and ordered them returned to the control of the state’s governor. https://cnn.it/4905VPj
+Southwest CEO says airline 'actively pursuing' network of airport lounges
 
-[2025-12-11 02:08:05](https://bsky.app/profile/cnn.com/post/3m7nkdaal5p2t)
-
----
-
-@financialtimes.com
-
- Casinos could deal New York’s poker dens a losing hand on.ft.com/3MmYoBs  | opinion
-
-[2025-12-11 02:07:34](https://bsky.app/profile/financialtimes.com/post/3m7nkcbwdng25)
+[2025-12-11 02:24:57](https://bsky.app/profile/cnbc.com/post/3m7nlbfexcm2d)
 
 ---
 
-@financialtimes.com
+@npr.org
 
-Trump’s tariffs intensify strain on US farmers, Deere warns on.ft.com/4q2zwNU
+Far-Flung Postcards is a weekly series in which NPR's international team shares moments from their lives and work around the world. n.pr/48Jr92z
 
-[2025-12-11 02:05:25](https://bsky.app/profile/financialtimes.com/post/3m7nk6gs3pq24)
+[2025-12-11 02:23:41](https://bsky.app/profile/npr.org/post/3m7nl746sw524)
 
 ---
 
 @reuters.com
 
-Ghana's economy grew 5.5% in third quarter of 2025 reut.rs/3KDDiya
+As Australia’s world-first social media ban for under-16s came into effect on December 10, some teenagers in Sydney doubted its impact
 
-[2025-12-11 02:05:12](https://bsky.app/profile/reuters.com/post/3m7nk62yt4o2c)
-
----
-
-@forbes.com
-
-Alphabet’s fast-growing autonomous ride company expects to expand to over 20 cities, including London and Tokyo, by the end of 2026, up from its current six.
-
-[2025-12-11 02:05:04](https://bsky.app/profile/forbes.com/post/3m7nk5tej2p2o)
+[2025-12-11 02:23:03](https://bsky.app/profile/reuters.com/post/3m7nl5y2yb22u)
 
 ---
 
-@usatoday.com
+@nytimes.com
 
-When Brittney Griner was arrested in Russia in 2022 after authorities found medical marijuana in her luggage, she became possibly the most high-profile example of the complications that can arise when traveling with prescriptions. bit.ly/4oSPqt7
+From @theathletic.com: “Being quiet just means being compliant and I just can’t be compliant.”
 
-[2025-12-11 02:04:10](https://bsky.app/profile/usatoday.com/post/3m7nk47ow372l)
+Tennis legend Martina Navratilova, who has been heavily critical of President Trump, said she is aware of potential retribution for her criticisms.
+
+[2025-12-11 02:21:03](https://bsky.app/profile/nytimes.com/post/3m7nl2ftn722z)
 
 ---
 
-@reuters.com
+@nbcnews.com
 
-US farmers say Trump's $12 billion aid package won't cover losses reut.rs/44VuHO7
+Democratic Rep. Haley Stevens, who is running for an open Senate seat in Michigan, formally introduces articles of impeachment against Health and Human Services Secretary Robert F. Kennedy Jr., though they have virtually zero chance of advancing through the Republican-controlled House.
 
-[2025-12-11 02:01:11](https://bsky.app/profile/reuters.com/post/3m7njwvkh2w2c)
+[2025-12-11 02:20:10](https://bsky.app/profile/nbcnews.com/post/3m7nkysrd4a24)
 
 ---
 
 @wsj.com
 
-It seems like a pretty easy way to get rich quick. But for every success story, there are many tales of flips gone bad. on.wsj.com/4pCqgAi
+Adobe is adding three of its apps to OpenAI’s ChatGPT, as the software company races to keep up with the growing number of companies that are integrating with the chatbot.
 
-[2025-12-11 02:00:51](https://bsky.app/profile/wsj.com/post/3m7njwbwkdw2s)
+[2025-12-11 02:19:07](https://bsky.app/profile/wsj.com/post/3m7nkwxfezs2o)
 
 ---
 
-@washingtonpost.com
+@nytimes.com
 
-Democrat Eileen Higgins, a city elected former county commissioner, will be Miami’s next mayor.
+A French charity is testing an unusual fund-raising approach in the fine art world: Raffling off a Picasso painting worth more than 1 million euros to one winner. Each of the raffle tickets is on sale for 100 euros, and proceeds will go toward research into Alzheimer’s disease. trib.al/Xi9XqjE
 
-He win is another electoral setback for Republicans — this time in an area where they’ve been dominant in local elections. https://wapo.st/4q7sIP7
+[2025-12-11 02:18:58](https://bsky.app/profile/nytimes.com/post/3m7nkwo65mc2z)
 
-[2025-12-11 02:00:50](https://bsky.app/profile/washingtonpost.com/post/3m7njwand622y)
+---
+
+@cnbc.com
+
+Fed meeting live updates: Markets want Powell to signal multiple rate cuts ahead in 2026
+
+[2025-12-11 02:16:51](https://bsky.app/profile/cnbc.com/post/3m7nksvh6ve25)
+
+---
+
+@reuters.com
+
+German regulator to allow higher power grid earnings from 2029 reut.rs/4iM3fYK
+
+[2025-12-11 02:15:17](https://bsky.app/profile/reuters.com/post/3m7nkq4cv7j23)
 
 ---
 
