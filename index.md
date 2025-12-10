@@ -1,9 +1,9 @@
-# [2025-12-10 22:10 updated](2025_12_10.md)
+# [2025-12-10 22:30 updated](2025_12_10.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Here's how Todd Combs rose from a Florida state university to Berkshire Hathaway, before taking the helm of a new $10bn security fund on.ft.com/4q0PaZR <a href="https://bsky.app/profile/financialtimes.com/post/3m7n4xjfwwb24" target="_blank">financialtimes.com</a> (2025-12-10 22:08:54)</span><span style="padding-right:50px;">A newly released video shows the moment a plane hits a car whilst attempting a crash landing on I-95 in Brevard County, Florida. The driver of the vehicle was transported to a nearby hospital with minor injuries while the pilot and passenger were left uninjured, authorities told CNN affiliate WESH <a href="https://bsky.app/profile/cnn.com/post/3m7n4x7i7qj2c" target="_blank">cnn.com</a> (2025-12-10 22:08:43)</span><span style="padding-right:50px;">Raymond James double upgrades alternative asset manager, says negative headlines are ‘overstated' <a href="https://bsky.app/profile/cnbc.com/post/3m7n4tocr7x24" target="_blank">cnbc.com</a> (2025-12-10 22:06:45)</span><span style="padding-right:50px;">Millions of workers will get a raise soon as new minimum wage laws kick in <a href="https://bsky.app/profile/yahoofinance.com/post/3m7n4sko3a32f" target="_blank">yahoofinance.com</a> (2025-12-10 22:06:07)</span><span style="padding-right:50px;">IMF 中国のことしの経済成長率見通し 5％に引き上げ https://news.web.nhk/newsweb/na/na-k10015000351000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7n4sib66a2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-10 22:06:03)</span>
+<span style="padding-right:50px;">ノーベル平和賞授賞式 ベネズエラ マチャド氏出席できず https://news.web.nhk/newsweb/na/na-k10015000051000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7n5y2pjvu2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-10 22:27:04)</span><span style="padding-right:50px;">South Africa's MK party: Brumelda Zuma sworn in as MP after Duduzile Zuma-Sambudla resigns <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7n5w2nqku2a" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-10 22:25:58)</span><span style="padding-right:50px;">TSX futures dip ahead of BoC, Fed interest rate decisions reut.rs/48MnS2z <a href="https://bsky.app/profile/reuters.com/post/3m7n5umgadf23" target="_blank">reuters.com</a> (2025-12-10 22:25:10)</span><span style="padding-right:50px;">Goal to slash emissions 90% by 2040 welcomed as keeping Europe competitive <a href="https://bsky.app/profile/cnbc.com/post/3m7n5uidfxu2d" target="_blank">cnbc.com</a> (2025-12-10 22:25:06)</span><span style="padding-right:50px;">A rare 15th-century Jewish prayer book, confiscated from the Rothschild banking dynasty during the Holocaust, has been returned by Austria to the Rothschild family. It will be sold at Sotheby's next year for an estimated $5 million to $7 million. <a href="https://bsky.app/profile/nytimes.com/post/3m7n5ufslc52r" target="_blank">nytimes.com</a> (2025-12-10 22:25:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47560.29 (🔻164.23 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23576.49 (🔺71.88 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.97 (🔻0.59 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.69 (🔻0.13 : 2025-12-10)</span>
+<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47560.29 (🔻164.23 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23576.49 (🔺71.88 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.97 (🔻0.59 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.63 (🔻0.19 : 2025-12-10)</span>
   </div>
 </div>
 
@@ -32,101 +32,94 @@
 
 ## News Headlines
 
-１．IMFが中国の今年の経済成長率見通しを5％に引き上げ
-２．米国新型コーラス法の施行で、数百万人の労働者が給料の引き上げを受ける
-３．米中緊張の悪化に日本はロシア・中国の戦略的飛行機の共同パトロールを受ける
-４．バースデイブームのZINEの熱が続く
-５．米国議会が福祉政策について両派の案を提出する
-６．ノーベル平和賞授賞式が始まる
+1. ノーベル平和賞受賞者マリア・コリーナ・マチャド氏の娘が代わりに受賞
+2. ボーカル「KISS」ゲネ・シモンズ氏が米国議会で演説
+3. 「バンクーバー・フェスティバル」が来年9月に開催　ボブ・ディランの来訪を期待
+4. 中国の経済成長率見通しが5％に引き上げ
+5. 自衛隊が北朝鮮のミサイル発射への対応について説明
+6. 大阪市消防局の職員が覚醒剤を所持していた疑いで逮捕
 
 ----
 
-@financialtimes.com
+@nhknewsunofficial.bsky.social
 
-Here's how Todd Combs rose from a Florida state university to Berkshire Hathaway, before taking the helm of a new $10bn security fund on.ft.com/4q0PaZR
+ノーベル平和賞授賞式 ベネズエラ マチャド氏出席できず
+https://news.web.nhk/newsweb/na/na-k10015000051000
 
-[2025-12-10 22:08:54](https://bsky.app/profile/financialtimes.com/post/3m7n4xjfwwb24)
+[2025-12-10 22:27:04](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7n5y2pjvu2k)
 
 ---
 
-@cnn.com
+@bbcnews-world-rss.bsky.social
 
-A newly released video shows the moment a plane hits a car whilst attempting a crash landing on I-95 in Brevard County, Florida. The driver of the vehicle was transported to a nearby hospital with minor injuries while the pilot and passenger were left uninjured, authorities told CNN affiliate WESH
+South Africa's MK party: Brumelda Zuma sworn in as MP after Duduzile Zuma-Sambudla resigns
 
-[2025-12-10 22:08:43](https://bsky.app/profile/cnn.com/post/3m7n4x7i7qj2c)
+[2025-12-10 22:25:58](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7n5w2nqku2a)
+
+---
+
+@reuters.com
+
+TSX futures dip ahead of BoC, Fed interest rate decisions reut.rs/48MnS2z
+
+[2025-12-10 22:25:10](https://bsky.app/profile/reuters.com/post/3m7n5umgadf23)
 
 ---
 
 @cnbc.com
 
-Raymond James double upgrades alternative asset manager, says negative headlines are ‘overstated'
+Goal to slash emissions 90% by 2040 welcomed as keeping Europe competitive
 
-[2025-12-10 22:06:45](https://bsky.app/profile/cnbc.com/post/3m7n4tocr7x24)
+[2025-12-10 22:25:06](https://bsky.app/profile/cnbc.com/post/3m7n5uidfxu2d)
 
 ---
 
-@yahoofinance.com
+@nytimes.com
 
-Millions of workers will get a raise soon as new minimum wage laws kick in
+A rare 15th-century Jewish prayer book, confiscated from the Rothschild banking dynasty during the Holocaust, has been returned by Austria to the Rothschild family. It will be sold at Sotheby's next year for an estimated $5 million to $7 million.
 
-[2025-12-10 22:06:07](https://bsky.app/profile/yahoofinance.com/post/3m7n4sko3a32f)
+[2025-12-10 22:25:03](https://bsky.app/profile/nytimes.com/post/3m7n5ufslc52r)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Taliban warn Afghans who wore 'un-Islamic' Peaky Blinders outfits
+
+[2025-12-10 22:24:53](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7n5u52icw26)
+
+---
+
+@en.afp.com
+
+<strong>#<span style="color: red;">BREAKING </span>Daughter of absent Peace Prize laureate, Venezuelan opposition leader Maria Corina Machado, accepts Nobel on her behalf</strong>
+
+[2025-12-10 22:24:13](https://bsky.app/profile/en.afp.com/post/3m7n5sw7ojp26)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+US fighter jets circle near major Venezuelan coast
+
+[2025-12-10 22:23:49](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7n5s7m3hn25)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-IMF 中国のことしの経済成長率見通し 5％に引き上げ
-https://news.web.nhk/newsweb/na/na-k10015000351000
+大川小学校の遺族が講演 “災害への備えを進めてほしい”
+https://news.web.nhk/newsweb/na/na-k10015000361000
 
-[2025-12-10 22:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7n4sib66a2v)
-
----
-
-@reuters.com
-
-Families on both sides caught in crossfire as Thai-Cambodian fighting continues reut.rs/48MDino
-
-[2025-12-10 22:05:14](https://bsky.app/profile/reuters.com/post/3m7n4qxlemz2b)
+[2025-12-10 22:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7n5nch2ku2k)
 
 ---
 
-@cnbc.com
+@nbcnews.com
 
-This satellite communications stock has quadrupled in 2025. Morgan Stanley sees more gains ahead
+KISS frontman Gene Simmons spoke to Congress to advocate for a bill to allow more royalties for songs played on radio.
 
-[2025-12-10 22:04:22](https://bsky.app/profile/cnbc.com/post/3m7n4pgjq7623)
-
----
-
-@cnbc.com
-
-Trump to start final Fed chair interviews beginning with Kevin Warsh
-
-[2025-12-10 22:03:11](https://bsky.app/profile/cnbc.com/post/3m7n4nckvf62x)
-
----
-
-@nikkei.com
-
-【自主製作の小冊子｢ZINE｣ブーム】
-ニッチな趣味や個人の出来事を発信
-www.nikkei.com/article/DGXZQO...
-
-ZINEは「magazine」の語尾を取った造語とされます。
-
-文学フリマの熱量をけん引し、即売会も活況です。書店の有隣堂でも販売イベントを12月末まで開催。
-
-どうやらブームは終わりそうにはありません。有隣堂での1番人気は「ZINEの作り方を解説したZINE」。
-
-[2025-12-10 22:01:51](https://bsky.app/profile/nikkei.com/post/3m7n4kwduez2x)
-
----
-
-@reuters.com
-
-Turkey in talks to rejoin US F-35 fighter jet programme, envoy says reut.rs/44kJMZv
-
-[2025-12-10 22:01:05](https://bsky.app/profile/reuters.com/post/3m7n4jk7q272b)
+[2025-12-10 22:20:29](https://bsky.app/profile/nbcnews.com/post/3m7n5ma5raa2q)
 
 ---
 
