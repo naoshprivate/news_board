@@ -1,9 +1,9 @@
-# [2025-12-10 20:50 updated](2025_12_10.md)
+# [2025-12-10 21:10 updated](2025_12_10.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">和田政宗元参議院議員 参政党に入党 https://news.web.nhk/newsweb/na/na-k10015000311000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7mygylyyx2x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-10 20:48:02)</span><span style="padding-right:50px;">🏦 Fed Day is here: A 25-basis point rate cut looks certain, but all eyes are on Powell’s guidance — and the dot plot for 2026 reut.rs/4oRPedD <a href="https://bsky.app/profile/reuters.com/post/3m7myfebsqc2e" target="_blank">reuters.com</a> (2025-12-10 20:47:09)</span><span style="padding-right:50px;">ノーベル平和賞受賞者は式典欠席へ　ベネズエラのマリア・コリナ・マチャド氏（無料記事） www.nikkei.com/article/DGXZQO...  マチャド氏は迫害から身を守るため国内で身を潜めており、ノルウェー国営放送NRKによると、式には出席しません。  ノーベル賞委員会は10月、国民の民主的権利を促進してきた活動を評価し「類いまれな勇気を示した」として平和賞授与を決定しました。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m7mycz5xw426" target="_blank">nikkei.com</a> (2025-12-10 20:45:51)</span><span style="padding-right:50px;">Citi projects 10% rise in India's Nifty by 2026-end on demand rebound reut.rs/4pwDnmt <a href="https://bsky.app/profile/reuters.com/post/3m7mybunmcn2r" target="_blank">reuters.com</a> (2025-12-10 20:45:12)</span><span style="padding-right:50px;">Australians are divided over whether a new social-media ban will make anyone safer. Young people certainly have something to say about it. <a href="https://bsky.app/profile/wsj.com/post/3m7my3lv5ax2s" target="_blank">wsj.com</a> (2025-12-10 20:41:42)</span>
+<span style="padding-right:50px;"> Will prime property’s post-Budget bounceback last? on.ft.com/3XOQ3ZF  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m7mzm4omvx2p" target="_blank">financialtimes.com</a> (2025-12-10 21:08:50)</span><span style="padding-right:50px;">There's no guarantee the Fed's rate cuts will lower the rates that matter <a href="https://bsky.app/profile/yahoofinance.com/post/3m7mzhbkgf52f" target="_blank">yahoofinance.com</a> (2025-12-10 21:06:07)</span><span style="padding-right:50px;">AI masking the economy cuts both ways reut.rs/44iYLmH <a href="https://bsky.app/profile/reuters.com/post/3m7mzfnxh5l2c" target="_blank">reuters.com</a> (2025-12-10 21:05:13)</span><span style="padding-right:50px;">Buy PepsiCo heading into 2026 as innovation drives earnings, says JPMorgan <a href="https://bsky.app/profile/cnbc.com/post/3m7mzdu7lkz23" target="_blank">cnbc.com</a> (2025-12-10 21:04:13)</span><span style="padding-right:50px;">Stocks making the biggest moves premarket: GameStop, AeroVironment, Cracker Barrel & more <a href="https://bsky.app/profile/cnbc.com/post/3m7mzbj7evp2e" target="_blank">cnbc.com</a> (2025-12-10 21:02:54)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47560.29 (🔻164.23 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23576.49 (🔺71.88 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.97 (🔻0.59 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.75 (🔻0.07 : 2025-12-10)</span>
+<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47560.29 (🔻164.23 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23576.49 (🔺71.88 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.97 (🔻0.59 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.71 (🔻0.11 : 2025-12-10)</span>
   </div>
 </div>
 
@@ -32,100 +32,102 @@
 
 ## News Headlines
 
-1. 和田政宗元参議院議員が参政党に入党
-2. Fedが金利を下げる
-3. ノーベル平和賞受賞者のマリア・コリナ・マチャド氏が式典欠席
-4. CitiがインドのNiftyを2026年末までに10%上昇予測
-5. オーストラリアでテニーミュージックバンを検討
-6. イランで初めての雨が降る
+1.  三菱商事、スミソニアン博物館に1億5000万円を支援
+2.  ノーベル平和賞受賞者は式典欠席へ
+3.  Citiプロジェクトにより、インドのNiftyは2026年末に10％上昇する
+4.  米連邦準備委員会、金利引き下げを決定
+5.  第一グループ、ロンドン近郊の鉄道運行契約を獲得
+6.  IMF、中国に輸出を抑制し消費を増やすことを求める
 
 ----
 
-@nhknewsunofficial.bsky.social
+@financialtimes.com
 
-和田政宗元参議院議員 参政党に入党
-https://news.web.nhk/newsweb/na/na-k10015000311000
+ Will prime property’s post-Budget bounceback last? on.ft.com/3XOQ3ZF  | opinion
 
-[2025-12-10 20:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7mygylyyx2x)
+[2025-12-10 21:08:50](https://bsky.app/profile/financialtimes.com/post/3m7mzm4omvx2p)
+
+---
+
+@yahoofinance.com
+
+There's no guarantee the Fed's rate cuts will lower the rates that matter
+
+[2025-12-10 21:06:07](https://bsky.app/profile/yahoofinance.com/post/3m7mzhbkgf52f)
 
 ---
 
 @reuters.com
 
-🏦 Fed Day is here: A 25-basis point rate cut looks certain, but all eyes are on Powell’s guidance — and the dot plot for 2026 reut.rs/4oRPedD
+AI masking the economy cuts both ways reut.rs/44iYLmH
 
-[2025-12-10 20:47:09](https://bsky.app/profile/reuters.com/post/3m7myfebsqc2e)
+[2025-12-10 21:05:13](https://bsky.app/profile/reuters.com/post/3m7mzfnxh5l2c)
+
+---
+
+@cnbc.com
+
+Buy PepsiCo heading into 2026 as innovation drives earnings, says JPMorgan
+
+[2025-12-10 21:04:13](https://bsky.app/profile/cnbc.com/post/3m7mzdu7lkz23)
+
+---
+
+@cnbc.com
+
+Stocks making the biggest moves premarket: GameStop, AeroVironment, Cracker Barrel & more
+
+[2025-12-10 21:02:54](https://bsky.app/profile/cnbc.com/post/3m7mzbj7evp2e)
 
 ---
 
 @nikkei.com
 
-ノーベル平和賞受賞者は式典欠席へ　ベネズエラのマリア・コリナ・マチャド氏（無料記事）
+三菱商事、スミソニアン博物館に1億5000万円を支援（無料記事）
 www.nikkei.com/article/DGXZQO...
 
-マチャド氏は迫害から身を守るため国内で身を潜めており、ノルウェー国営放送NRKによると、式には出席しません。
+スミソニアン博物館国立アジア美術館は、葛飾北斎の「雷神図」や俵屋宗達の「松島図屛風」などを収蔵。
 
-ノーベル賞委員会は10月、国民の民主的権利を促進してきた活動を評価し「類いまれな勇気を示した」として平和賞授与を決定しました。
+三菱商事の協賛金は日本美術コレクションの拡充、学術交流の促進などに充てられます。
 
 #ニュース
 
-[2025-12-10 20:45:51](https://bsky.app/profile/nikkei.com/post/3m7mycz5xw426)
-
----
-
-@reuters.com
-
-Citi projects 10% rise in India's Nifty by 2026-end on demand rebound reut.rs/4pwDnmt
-
-[2025-12-10 20:45:12](https://bsky.app/profile/reuters.com/post/3m7mybunmcn2r)
+[2025-12-10 21:01:52](https://bsky.app/profile/nikkei.com/post/3m7mz7nlwmb2n)
 
 ---
 
 @wsj.com
 
-Australians are divided over whether a new social-media ban will make anyone safer. Young people certainly have something to say about it.
+The Detroit Tigers are giving serious consideration to trading away ace left-hander Tarik Skubal. And the reason is cold, hard economics. on.wsj.com/4pwIgfj
 
-[2025-12-10 20:41:42](https://bsky.app/profile/wsj.com/post/3m7my3lv5ax2s)
+[2025-12-10 21:01:46](https://bsky.app/profile/wsj.com/post/3m7mz7hziqh2t)
+
+---
+
+@emilypeck.bsky.social
+
+Everyone’s doing a word
+of the year now. Glassdoor’s is “fatigue.” I’m so tired.
+
+[2025-12-10 21:01:34](https://bsky.app/profile/emilypeck.bsky.social/post/3m7mz74gapc2i)
+
+---
+
+@cnn.com
+
+As the US military has undertaken a campaign of attacks against alleged drug boats, at least five people have survived initial strikes ending up in the water after explosions killed fellow crew members and disabled their ships.
+
+But what happened next to the survivors varied greatly.
+
+[2025-12-10 21:01:01](https://bsky.app/profile/cnn.com/post/3m7mz65jwtt2q)
 
 ---
 
 @reuters.com
 
-UK stadiums swap beef burgers for wild venison to cut carbon emissions reut.rs/48uOJBh
+South Korea to consider setting up $3.1 bln foundry to grow local chip sector reut.rs/4oJGkP6
 
-[2025-12-10 20:40:14](https://bsky.app/profile/reuters.com/post/3m7mxyyawpe2o)
-
----
-
-@nbcnews.com
-
-After a string of poisonings from “death cap” mushrooms — one of them fatal — California health officials are urging residents not to eat any foraged mushrooms unless they are trained experts.
-
-[2025-12-10 20:40:09](https://bsky.app/profile/nbcnews.com/post/3m7mxytofcx23)
-
----
-
-@nytimes.com
-
-News Analysis: President Trump's dismissiveness of what he called a “decaying” Europe is only part of the problem facing European leaders. They're also confronting budget shortfalls, worsening public opinion and the far right as they try to maintain their security and help Ukraine.
-
-[2025-12-10 20:40:02](https://bsky.app/profile/nytimes.com/post/3m7mxym7ot62b)
-
----
-
-@npr.org
-
-The bluegrass virtuoso brings back the spirit of Tiny Desk's early days: fewer microphones to capture "the way these instruments are meant to sound." n.pr/3KD1SiI
-
-[2025-12-10 20:38:10](https://bsky.app/profile/npr.org/post/3m7mxvbgnyp2e)
-
----
-
-@en.afp.com
-
-Venezuela's opposition leader Maria Corina Machado is "safe" and will reach Oslo by Thursday at the latest, but will not accept her Nobel Peace Prize in person, Nobel officials have said ➡️ u.afp.com/S7PY
-
-[2025-12-10 20:37:53](https://bsky.app/profile/en.afp.com/post/3m7mxurqy6e2h)
+[2025-12-10 21:00:53](https://bsky.app/profile/reuters.com/post/3m7mz5vapmc23)
 
 ---
 
