@@ -1,9 +1,9 @@
-# [2025-12-10 12:50 updated](2025_12_10.md)
+# [2025-12-10 13:10 updated](2025_12_10.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">群馬 妙義山の山林火災「鎮圧」市が発表 完全な鎮火へ活動続く https://news.web.nhk/newsweb/na/na-k10014999871000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7m5moe5i62k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-10 12:48:02)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】越前市の山田賢一市長(67)を擁立へ 福井県知事選挙で県議会自民党会派 (2025-12-10 12:46) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7m5ktgjq42e" target="_blank">sokuho.news</a> (2025-12-10 12:47:01)</span><span style="padding-right:50px;">Iain Douglas-Hamilton, pioneering elephant conservationist, dies aged 83 <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7m5jmg3k32b" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-10 12:46:20)</span><span style="padding-right:50px;">Brazil: Chaos breaks out in Congress during Jair Bolsonaro sentence vote <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7m5dgykf726" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-10 12:42:53)</span><span style="padding-right:50px;">Shell says output at two Gulf of Mexico offshore platforms temporarily shut in reut.rs/44Ox6tU <a href="https://bsky.app/profile/reuters.com/post/3m7m56so7gp2s" target="_blank">reuters.com</a> (2025-12-10 12:40:18)</span>
+<span style="padding-right:50px;">BREAKING Cambodia withdrew on Wednesday from the Southeast Asian Games, a Games official said, as a border conflict with hosts Thailand escalates <a href="https://bsky.app/profile/en.afp.com/post/3m7m6satr5y2k" target="_blank">en.afp.com</a> (2025-12-10 13:09:05)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】群馬・妙義山の山火事 ほぼ消し止められる 鎮火に向け消火活動継続 (13:02) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7m6jr7hvq2x" target="_blank">sokuho.news</a> (2025-12-10 13:04:20)</span><span style="padding-right:50px;">恐竜は小惑星衝突の直前まで繁栄、新たな「強力な証拠」を発見 www.nikkei.com/article/DGXZQO...   既に衰退していたのか、繁栄を続けていたのか。約6600万年前に小惑星が衝突したときに恐竜がどんな状況だったのか、長年議論されてきました。   最新研究が鮮明に示した答えは「繁栄」。しかも多様性に富み、地域によって全く異なる恐竜コミュニティーを形成していたこともわかりました。   #ナショナルジオグラフィック <a href="https://bsky.app/profile/nikkei.com/post/3m7m6fd5vre2g" target="_blank">nikkei.com</a> (2025-12-10 13:01:51)</span><span style="padding-right:50px;">From Breakingviews - Breakingviews - Palliser's Japan Post play walks a tightrope reut.rs/3YiBJc1 <a href="https://bsky.app/profile/reuters.com/post/3m7m6ed6qnu2x" target="_blank">reuters.com</a> (2025-12-10 13:01:17)</span><span style="padding-right:50px;">According to Gaza’s Health Ministry, Israeli attacks since the start of the ceasefire have killed at least 377 people. <a href="https://bsky.app/profile/aljazeera.com/post/3m7m6dhnjde2z" target="_blank">aljazeera.com</a> (2025-12-10 13:00:49)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50454.75 (🔻423.91 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47560.29 (🔻164.23 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23576.49 (🔺71.88 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.97 (🔻0.59 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3109.00 (🔺20.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.58 (🔻0.24 : 2025-12-10)</span>
+<span style="padding-right:50px;">NIKKEI: 50461.55 (🔻417.11 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 47560.29 (🔻164.23 : 2025-12-09)</span><span style="padding-right:50px;">NASDAQ: 23576.49 (🔺71.88 : 2025-12-09)</span><span style="padding-right:50px;">NVIDIA: 184.97 (🔻0.59 : 2025-12-09)</span><span style="padding-right:50px;">トヨタ自動車: 3113.00 (🔺24.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.62 (🔻0.21 : 2025-12-10)</span>
   </div>
 </div>
 
@@ -32,85 +32,20 @@
 
 ## News Headlines
 
-1. 群馬・妙義山の山火事がほぼ消し止められる
-2. 定数削減法案、高市首相「採決時期など国会に委ねられる」
-3. 8億2200万ドルを寄付　マッケンジー・スコット氏氏の最大の寄付
-4. 「ゾンビたばこ」指定薬物「エトミデート」密輸か容疑者逮捕
-5. 「着る人工筋肉」で持ち上げ楽々　物流・介護現場のアシストスーツ
-6. NFL選手「ペンギンパンチ」　元ビアー選手の名技
+1.  カンボジアがASEAN競技大会を脱退
+2.  妙義山の山火事がほぼ消し止まる
+3.  75歳の塾講師、男子児童に水着など脱ぐよう促した疑い
+4.  米、定数削減法案　高市首相「採決時期・内容など国会に委ねる」
+5.  「ゾンビたばこ」指定薬物の密輸に疑われた男性が逮捕
+6.  米、政権交代の可能性を示す「和平案」発表
 
 ----
 
-@nhknewsunofficial.bsky.social
+@en.afp.com
 
-群馬 妙義山の山林火災「鎮圧」市が発表 完全な鎮火へ活動続く
-https://news.web.nhk/newsweb/na/na-k10014999871000
+BREAKING Cambodia withdrew on Wednesday from the Southeast Asian Games, a Games official said, as a border conflict with hosts Thailand escalates
 
-[2025-12-10 12:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7m5moe5i62k)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】越前市の山田賢一市長(67)を擁立へ 福井県知事選挙で県議会自民党会派
-(2025-12-10 12:46) #ニュース
-
-[2025-12-10 12:47:01](https://bsky.app/profile/sokuho.news/post/3m7m5ktgjq42e)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Iain Douglas-Hamilton, pioneering elephant conservationist, dies aged 83
-
-[2025-12-10 12:46:20](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7m5jmg3k32b)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Brazil: Chaos breaks out in Congress during Jair Bolsonaro sentence vote
-
-[2025-12-10 12:42:53](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7m5dgykf726)
-
----
-
-@reuters.com
-
-Shell says output at two Gulf of Mexico offshore platforms temporarily shut in reut.rs/44Ox6tU
-
-[2025-12-10 12:40:18](https://bsky.app/profile/reuters.com/post/3m7m56so7gp2s)
-
----
-
-@nytimes.com
-
-A wet storm system slung across the Pacific Northwest and stretching into western Canada has flooded rivers, closed roads and caused landslides in Oregon and Washington, and forecasters warned that more rain was on the way.
-
-[2025-12-10 12:40:03](https://bsky.app/profile/nytimes.com/post/3m7m56dy6la2b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-定数削減法案 高市首相“採決時期など 国会に委ねられる”
-https://news.web.nhk/newsweb/na/na-k10014999811000
-
-[2025-12-10 12:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7m54lna3y26)
-
----
-
-@bloomberg.com
-
-Billionaire philanthropist MacKenzie Scott donated $7.2 billion this year in her biggest ever giving announcement.
-
-The gifts bring her total philanthropy to $26 billion over the past half decade. bloom.bg/3KHQfHc
-
-📷: Dia Dipasupil/Getty Images
-
-[2025-12-10 12:38:48](https://bsky.app/profile/bloomberg.com/post/3m7m5446j7h24)
+[2025-12-10 13:09:05](https://bsky.app/profile/en.afp.com/post/3m7m6satr5y2k)
 
 ---
 
@@ -118,19 +53,85 @@ The gifts bring her total philanthropy to $26 billion over the past half decade.
 
 🔔ANNより【速報】です。
 
-【速報】群馬・妙義山で8日に発生の山火事 ほぼ消し止められる 消防
-(2025年12月10日 12:37) #ニュース
+【速報】群馬・妙義山の山火事 ほぼ消し止められる 鎮火に向け消火活動継続
+(13:02) #ニュース
 
-[2025-12-10 12:38:01](https://bsky.app/profile/sokuho.news/post/3m7m52p5opf25)
+[2025-12-10 13:04:20](https://bsky.app/profile/sokuho.news/post/3m7m6jr7hvq2x)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@nikkei.com
 
-“ゾンビたばこ” 指定薬物「エトミデート」密輸か 容疑者逮捕
-https://news.web.nhk/newsweb/na/na-k10014999781000
+恐竜は小惑星衝突の直前まで繁栄、新たな「強力な証拠」を発見
+www.nikkei.com/article/DGXZQO...
+ 
+既に衰退していたのか、繁栄を続けていたのか。約6600万年前に小惑星が衝突したときに恐竜がどんな状況だったのか、長年議論されてきました。
+ 
+最新研究が鮮明に示した答えは「繁栄」。しかも多様性に富み、地域によって全く異なる恐竜コミュニティーを形成していたこともわかりました。
+ 
+#ナショナルジオグラフィック
 
-[2025-12-10 12:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7m4x7vtjw2y)
+[2025-12-10 13:01:51](https://bsky.app/profile/nikkei.com/post/3m7m6fd5vre2g)
+
+---
+
+@reuters.com
+
+From Breakingviews - Breakingviews - Palliser's Japan Post play walks a tightrope reut.rs/3YiBJc1
+
+[2025-12-10 13:01:17](https://bsky.app/profile/reuters.com/post/3m7m6ed6qnu2x)
+
+---
+
+@aljazeera.com
+
+According to Gaza’s Health Ministry, Israeli attacks since the start of the ceasefire have killed at least 377 people.
+
+[2025-12-10 13:00:49](https://bsky.app/profile/aljazeera.com/post/3m7m6dhnjde2z)
+
+---
+
+@cnbc.com
+
+Here’s what parents are forgetting: The more we try to optimize our kids’ holiday gifts, the more we miss out on the joy that’s available right now.
+
+Here are four reframes to help lower the stakes, protect play for its own sake, and put presence ahead of performance.
+
+[2025-12-10 13:00:25](https://bsky.app/profile/cnbc.com/post/3m7m6crgode23)
+
+---
+
+@bloomberg.com
+
+Americans are worried about the job market and some recent government data won’t help ease those concerns as President Trump seeks to promote his economic agenda
+
+[2025-12-10 13:00:16](https://bsky.app/profile/bloomberg.com/post/3m7m6ciordl2g)
+
+---
+
+@apnews.com
+
+A 20-year-old Bronx man has been charged with attempted murder in the shooting of New York Jets' player Kris Boyd.
+
+[2025-12-10 13:00:15](https://bsky.app/profile/apnews.com/post/3m7m6ch5zrm2p)
+
+---
+
+@washingtonpost.com
+
+Billed this year as “Christmas in December,” Matt Rogers's tour of his holiday album “Have You Heard of Christmas?” wields campy shtick, deadpan sincerity and onstage gravitas to satirize — and embrace — Christmastime capitalism.
+
+[2025-12-10 13:00:08](https://bsky.app/profile/washingtonpost.com/post/3m7m6caznle24)
+
+---
+
+@nytimes.com
+
+In Opinion
+
+Some say that Netflix’s deal to buy Warner Bros. deserves support because Paramount would be an even worse buyer. “But you can’t run a rule-based system that way,” Tim Wu writes. “Either merger would be bad for the country, and both should be challenged by antitrust authorities.”
+
+[2025-12-10 13:00:05](https://bsky.app/profile/nytimes.com/post/3m7m6c6ccpe2y)
 
 ---
 
