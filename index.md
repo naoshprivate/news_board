@@ -1,9 +1,9 @@
-# [2025-12-11 06:50 updated](2025_12_11.md)
+# [2025-12-11 07:10 updated](2025_12_11.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The Trump administration's changes to U.S. Citizenship and Immigration Services are taking an axe to the agency's traditional mission of ensuring people lawfully immigrate and stay in the U.S. n.pr/3MqSPC0 <a href="https://bsky.app/profile/npr.org/post/3m7nzzwobli2e" target="_blank">npr.org</a> (2025-12-11 06:49:13)</span><span style="padding-right:50px;">中国「自衛隊が挑発」は本当か　日本は反論、訓練の危険性こそ本質 www.nikkei.com/article/DGXZQO...  中国人民解放軍は、自衛隊機へのレーダー照射を巡りSNSで正当化。  しかし、なぜ日本の離島に近い場所で訓練する必要があったのかという点に触れていません。 <a href="https://bsky.app/profile/nikkei.com/post/3m7nztwbbnf24" target="_blank">nikkei.com</a> (2025-12-11 06:45:52)</span><span style="padding-right:50px;">US bank regulator says large banks engaged in 'debanking' of disfavored industries reut.rs/44Hp9XF <a href="https://bsky.app/profile/reuters.com/post/3m7nzt4fybg23" target="_blank">reuters.com</a> (2025-12-11 06:45:24)</span><span style="padding-right:50px;">Oracle shares slide as data centre spending mounts on.ft.com/3KECeKo <a href="https://bsky.app/profile/financialtimes.com/post/3m7nzrf2g3h2q" target="_blank">financialtimes.com</a> (2025-12-11 06:44:26)</span><span style="padding-right:50px;">President Donald Trump would add to his already considerable imprint on the Supreme Court if he gets to pick another justice, but he's not trying to push either of the court's two oldest members out the door.  Read more: bit.ly/48z8S9m <a href="https://bsky.app/profile/usatoday.com/post/3m7nzohougk2h" target="_blank">usatoday.com</a> (2025-12-11 06:42:48)</span>
+<span style="padding-right:50px;">The University of Michigan has fired head football coach Sherrone Moore after an investigation into an alleged "inappropriate relationship" with staffer. https://cnn.it/4aao8uG <a href="https://bsky.app/profile/cnn.com/post/3m7o35phxeo2k" target="_blank">cnn.com</a> (2025-12-11 07:09:14)</span><span style="padding-right:50px;">The Michigan Wolverines are firing head football coach Sherrone Moore after he was found to have had an “inappropriate relationship” with a staff member, the school announces. <a href="https://bsky.app/profile/nbcnews.com/post/3m7o354lg7r2r" target="_blank">nbcnews.com</a> (2025-12-11 07:08:54)</span><span style="padding-right:50px;">Michigan has fired football coach Sherrone Moore. The university announced on Wednesday that an investigation found evidence of an “inappropriate relationship with a staff member.” <a href="https://bsky.app/profile/apnews.com/post/3m7o2yqpdsi2u" target="_blank">apnews.com</a> (2025-12-11 07:06:27)</span><span style="padding-right:50px;">Oldest evidence of human fire-making discovered at site in England reut.rs/4oIR5kR <a href="https://bsky.app/profile/reuters.com/post/3m7o2wjyvut2s" target="_blank">reuters.com</a> (2025-12-11 07:05:13)</span><span style="padding-right:50px;">NYダウ 一時600ドル超値上がり FRBの利下げ継続背景に買い注文 https://news.web.nhk/newsweb/na/na-k10015000501000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7o2splliw2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-11 07:03:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 48057.75 (🔺483.79 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23654.16 (🔺118.16 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.78 (🔻1.21 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 156.04 (🔻0.78 : 2025-12-10)</span>
+<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 48057.75 (🔺483.79 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23654.16 (🔺118.16 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.78 (🔻1.18 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 155.92 (🔻0.90 : 2025-12-10)</span>
   </div>
 </div>
 
@@ -32,99 +32,108 @@
 
 ## News Headlines
 
-* 「米国国籍取得の法的障壁を高める」
-* 「中国人民解放軍の訓練が日本に及ぼす危険性」
-* 「米大手銀行が不利な業界に資金供給を制限」
-* 「オラクル社の株価が低下」
-* 「スーパーコートの判決が米国政治に大きな影響を与える」
-* 「バイオレンスの問題をめぐる最高裁の裁判」
+以下の6つのニュースのタイトルです。
+
+1.  米大学のフットボールチームのヘッドコーチが解雇される
+2.  英国で最古の火作りの痕跡が見つかる
+3.  米国政府がビザなしで来日する外国人にSNS情報を提出することを義務付ける
+4.  かけひき選手が「ナショナルアニーゼムに膝を下ろしたことは正しかった」と話す
+5.  ベラルーシの反政府派が米国に「手を厳しく使うことも必要だ」と訴える
+6.  ニューヨーク市長が連邦議会議員選挙に立候補することを表明
 
 ----
 
-@npr.org
+@cnn.com
 
-The Trump administration's changes to U.S. Citizenship and Immigration Services are taking an axe to the agency's traditional mission of ensuring people lawfully immigrate and stay in the U.S. n.pr/3MqSPC0
+The University of Michigan has fired head football coach Sherrone Moore after an investigation into an alleged "inappropriate relationship" with staffer. https://cnn.it/4aao8uG
 
-[2025-12-11 06:49:13](https://bsky.app/profile/npr.org/post/3m7nzzwobli2e)
-
----
-
-@nikkei.com
-
-中国「自衛隊が挑発」は本当か　日本は反論、訓練の危険性こそ本質
-www.nikkei.com/article/DGXZQO...
-
-中国人民解放軍は、自衛隊機へのレーダー照射を巡りSNSで正当化。
-
-しかし、なぜ日本の離島に近い場所で訓練する必要があったのかという点に触れていません。
-
-[2025-12-11 06:45:52](https://bsky.app/profile/nikkei.com/post/3m7nztwbbnf24)
-
----
-
-@reuters.com
-
-US bank regulator says large banks engaged in 'debanking' of disfavored industries reut.rs/44Hp9XF
-
-[2025-12-11 06:45:24](https://bsky.app/profile/reuters.com/post/3m7nzt4fybg23)
-
----
-
-@financialtimes.com
-
-Oracle shares slide as data centre spending mounts on.ft.com/3KECeKo
-
-[2025-12-11 06:44:26](https://bsky.app/profile/financialtimes.com/post/3m7nzrf2g3h2q)
-
----
-
-@usatoday.com
-
-President Donald Trump would add to his already considerable imprint on the Supreme Court if he gets to pick another justice, but he's not trying to push either of the court's two oldest members out the door.
-
-Read more: bit.ly/48z8S9m
-
-[2025-12-11 06:42:48](https://bsky.app/profile/usatoday.com/post/3m7nzohougk2h)
-
----
-
-@financialtimes.com
-
-Iceland boss included in 25 new Labour peers on.ft.com/3MnynSy
-
-[2025-12-11 06:42:09](https://bsky.app/profile/financialtimes.com/post/3m7nznbm6hq2o)
-
----
-
-@reuters.com
-
-Dropbox CFO Timothy Regan to step down reut.rs/44k5hJP
-
-[2025-12-11 06:40:34](https://bsky.app/profile/reuters.com/post/3m7nzkhesj62p)
+[2025-12-11 07:09:14](https://bsky.app/profile/cnn.com/post/3m7o35phxeo2k)
 
 ---
 
 @nbcnews.com
 
-Researchers from the National Institute of Environmental Health Sciences identified a compound that affects an area of the brain that triggers hormone production.
+The Michigan Wolverines are firing head football coach Sherrone Moore after he was found to have had an “inappropriate relationship” with a staff member, the school announces.
 
-[2025-12-11 06:40:09](https://bsky.app/profile/nbcnews.com/post/3m7nzjpdvgd2k)
-
----
-
-@nytimes.com
-
-The Supreme Court on Wednesday struggled with the question of how states should assess intellectual disabilities to decide which capital defendants are spared the death penalty.
-
-[2025-12-11 06:40:07](https://bsky.app/profile/nytimes.com/post/3m7nzjnp5732s)
+[2025-12-11 07:08:54](https://bsky.app/profile/nbcnews.com/post/3m7o354lg7r2r)
 
 ---
 
-@cbsnews.com
+@apnews.com
 
-Republican moderates in the House revolted against leadership on Wednesday as they seek to force a vote on expiring health insurance premium tax credits — an issue that could have major political ramifications for the party in next year's elections. 
+Michigan has fired football coach Sherrone Moore. The university announced on Wednesday that an investigation found evidence of an “inappropriate relationship with a staff member.”
 
-[2025-12-11 06:40:01](https://bsky.app/profile/cbsnews.com/post/3m7nzjhqd332t)
+[2025-12-11 07:06:27](https://bsky.app/profile/apnews.com/post/3m7o2yqpdsi2u)
+
+---
+
+@reuters.com
+
+Oldest evidence of human fire-making discovered at site in England reut.rs/4oIR5kR
+
+[2025-12-11 07:05:13](https://bsky.app/profile/reuters.com/post/3m7o2wjyvut2s)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+NYダウ 一時600ドル超値上がり FRBの利下げ継続背景に買い注文
+https://news.web.nhk/newsweb/na/na-k10015000501000
+
+[2025-12-11 07:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7o2splliw2u)
+
+---
+
+@nikkei.com
+
+訪米認証｢ESTA｣、SNS利用情報の提出義務化へ　日本人観光客も対象に（無料記事）
+www.nikkei.com/article/DGXZQO...
+
+アメリカ政府がビザ（査証）なしで観光に訪れる外国人に対して、「電子渡航認証システム（ESTA）」の申請時に最大5年分のSNS利用情報の提出を義務付ける規制案を公表しました。
+
+具体的にどのような情報を求めるのかについては詳細を示していません。
+
+義務化されれば多数の観光客やビジネス客の短期出張に影響が及びそうです。
+
+#ニュース
+
+[2025-12-11 07:02:29](https://bsky.app/profile/nikkei.com/post/3m7o2rnhnz22f)
+
+---
+
+@yahoonews.com
+
+Former star quarterback Colin Kaepernick, who led the San Francisco 49ers to the 2013 Super Bowl, told ABC News that kneeling during the national anthem in 2016 was “absolutely worth it,” after not playing in nearly a decade.
+yhoo.it/4rQMZda 
+
+[2025-12-11 07:01:21](https://bsky.app/profile/yahoonews.com/post/3m7o2pma2pk2m)
+
+---
+
+@sokuho.news
+
+🛎️文春より【スクープ】です。
+
+片山さつき財務相に新たな「収入隠し」発覚！ 参院選直前の20万円不記載で選挙資金も「裏金化」の疑い
+(2025-12-11 07:00) #ニュース
+
+[2025-12-11 07:01:19](https://bsky.app/profile/sokuho.news/post/3m7o2pl7qnd2y)
+
+---
+
+@reuters.com
+
+Belarus opposition leader says US needs to use stick as well as carrot with Lukashenko reut.rs/3XPJh5X
+
+[2025-12-11 07:01:06](https://bsky.app/profile/reuters.com/post/3m7o2p6g2ss2i)
+
+---
+
+@cnn.com
+
+New York City Comptroller Brad Lander launched his bid for New York’s 10th congressional district Wednesday, challenging Rep. Dan Goldman in what is expected to be a heated primary in one of the city’s most left-leaning districts. 
+
+[2025-12-11 07:01:02](https://bsky.app/profile/cnn.com/post/3m7o2p2ltlq23)
 
 ---
 
