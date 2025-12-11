@@ -1,9 +1,9 @@
-# [2025-12-12 07:50 updated](2025_12_12.md)
+# [2025-12-12 08:10 updated](2025_12_12.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】秋田内陸線の列車が脱線 (2025-12-12 07:49) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7qnu4b4q32s" target="_blank">sokuho.news</a> (2025-12-12 07:49:12)</span><span style="padding-right:50px;">Breaking News: Do Kwon, who pleaded guilty to fraud after cryptocurrencies he created crashed and wiped out investors, was sentenced to 15 years in prison. <a href="https://bsky.app/profile/nytimes.com/post/3m7qnq4kkdy27" target="_blank">nytimes.com</a> (2025-12-12 07:46:58)</span><span style="padding-right:50px;">非正規の待遇差、企業に説明徹底促す　同一労働・賃金で法改正見送り www.nikkei.com/article/DGXZQO...  労働者が待遇の違いについて説明を求めることができると、雇用時に周知することを義務付けます。  厚労省によると、説明を求めたことが「ある」と答えた人の割合は8.0%。  求めたことがない理由は「説明を求めやすい雰囲気がない」「説明を求めることができると知らなかった」が挙がりました。 <a href="https://bsky.app/profile/nikkei.com/post/3m7qnpgkw462f" target="_blank">nikkei.com</a> (2025-12-12 07:46:35)</span><span style="padding-right:50px;">Barcelona brand gives migrant hawkers a legal foothold in fashion reut.rs/4pIpwcL <a href="https://bsky.app/profile/reuters.com/post/3m7qnney3dc2i" target="_blank">reuters.com</a> (2025-12-12 07:45:26)</span><span style="padding-right:50px;">Maria Corina Machado's getaway from Venezuela involved a long, "scary" and very wet sea crossing in the dead of night with no lights, according to the US man who says he led the operation. ➡️  u.afp.com/S78A <a href="https://bsky.app/profile/en.afp.com/post/3m7qnmnx5wz2f" target="_blank">en.afp.com</a> (2025-12-12 07:45:02)</span>
+<span style="padding-right:50px;">Oracle made a $300 billion bet on OpenAI. It's paying the price. <a href="https://bsky.app/profile/yahoofinance.com/post/3m7qosbk7732j" target="_blank">yahoofinance.com</a> (2025-12-12 08:06:04)</span><span style="padding-right:50px;">Waymo recalls, updates software for over 3000 vehicles, U.S. regulator says reut.rs/4pRsCvj <a href="https://bsky.app/profile/reuters.com/post/3m7qoqnizg62y" target="_blank">reuters.com</a> (2025-12-12 08:05:10)</span><span style="padding-right:50px;">Director Carl Rinsch found guilty of scamming $11M from Netflix and buying luxury cars, watches and mattresses. <a href="https://bsky.app/profile/cbsnews.com/post/3m7qoqffne52m" target="_blank">cbsnews.com</a> (2025-12-12 08:05:01)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】秋田内陸線の列車が脱線・転覆 運転士の救助作業続く (2025-12-12 07:49) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7qooejq4w2z" target="_blank">sokuho.news</a> (2025-12-12 08:03:53)</span><span style="padding-right:50px;">House passes bill to to ease investment standards and boost capital in markets <a href="https://bsky.app/profile/cnbc.com/post/3m7qomojf3a2i" target="_blank">cnbc.com</a> (2025-12-12 08:02:57)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48704.01 (🔺621.11 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23593.86 (🔺84.64 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.93 (🔺0.65 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.51 (🔻0.45 : 2025-12-11)</span>
+<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48704.01 (🔺621.11 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23593.86 (🔺84.64 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.93 (🔺0.65 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.49 (🔻0.04 : 2025-12-11)</span>
   </div>
 </div>
 
@@ -32,115 +32,114 @@
 
 ## News Headlines
 
-Here are six important topics with Japanese headlines:
+Here are six important topics with Japanese headings:
 
-1. 
-秋田内陸線の列車が脱線、被害は軽微 (Minor damage reported after train derailment on Akita Inland Line)
+1. 「AIの投資に300億ドルを賭けたオラクル、儲けの代償を支払う」
 
-2. 
-非正規の待遇差、企業に説明徹底促す (Companies urged to thoroughly explain differences in treatment for non-regular workers)
+Oracle made a $300 billion bet on OpenAI. It's paying the price.
 
-3. 
-TerraUSD創造者ド・クォン、15年の懲役刑判決 (Do Kwon, creator of TerraUSD, sentenced to 15 years in prison)
+2. 「歌舞伎町のホスト、AIに語りかける」
 
-4. 
-元米大統領トランプ、AIモデル購入ガイドラインを発表 (Trump administration releases guidelines for purchasing AI models)
+JPMorgan Chase CEO Jamie Dimon says that people with strong communication, critical thinking and emotional intelligence skills will find jobs in the age of AI.
 
-5. 
-Zelenskyy、東ウクライナに「フリー経済ゾーン」を目指す (Zelenskyy aims to establish a free economic zone in eastern Ukraine)
+3. 「秋田内陸線の列車が脱線・転覆、運転士の救助作業続く」
 
-6. 
-防災科研、強震モニタで地震を監視中 (Disaster prevention agency monitors earthquakes using strong seismic monitoring system)
+A train on the Akita Inland Line derailed and overturned, and rescue work for the train driver is ongoing.
+
+4. 「AIのリスクについての情報公開を求める米国の議員」
+
+A bipartisan group of senators is calling on leaders in the AI industry to commit to publicly disclose more information about how the industry thinks about risk, including possible harms to children.
+
+5. 「ド・クワン、15年間の刑に服す」
+
+Do Kwon, the creator of TerraUSD, was sentenced to 15 years in prison over the $40 billion crypto collapse.
+
+6. 「米国のAIモデルを政府機関が購入する際のガイドライン」
+
+The Trump administration released guidance for federal agencies to try to ensure that the AI models they procure are not spitting out woke responses.
 
 ----
+
+@yahoofinance.com
+
+Oracle made a $300 billion bet on OpenAI. It's paying the price.
+
+[2025-12-12 08:06:04](https://bsky.app/profile/yahoofinance.com/post/3m7qosbk7732j)
+
+---
+
+@reuters.com
+
+Waymo recalls, updates software for over 3000 vehicles, U.S. regulator says reut.rs/4pRsCvj
+
+[2025-12-12 08:05:10](https://bsky.app/profile/reuters.com/post/3m7qoqnizg62y)
+
+---
+
+@cbsnews.com
+
+Director Carl Rinsch found guilty of scamming $11M from Netflix and buying luxury cars, watches and mattresses.
+
+[2025-12-12 08:05:01](https://bsky.app/profile/cbsnews.com/post/3m7qoqffne52m)
+
+---
 
 @sokuho.news
 
 🛎️NNNより【速報】です。
 
-【速報】秋田内陸線の列車が脱線
+【速報】秋田内陸線の列車が脱線・転覆 運転士の救助作業続く
 (2025-12-12 07:49) #ニュース
 
-[2025-12-12 07:49:12](https://bsky.app/profile/sokuho.news/post/3m7qnu4b4q32s)
+[2025-12-12 08:03:53](https://bsky.app/profile/sokuho.news/post/3m7qooejq4w2z)
 
 ---
 
-@nytimes.com
+@cnbc.com
 
-<strong><span style="color: red;">Breaking News</span>: Do Kwon, who pleaded guilty to fraud after cryptocurrencies he created crashed and wiped out investors, was sentenced to 15 years in prison.</strong>
+House passes bill to to ease investment standards and boost capital in markets
 
-[2025-12-12 07:46:58](https://bsky.app/profile/nytimes.com/post/3m7qnq4kkdy27)
-
----
-
-@nikkei.com
-
-非正規の待遇差、企業に説明徹底促す　同一労働・賃金で法改正見送り
-www.nikkei.com/article/DGXZQO...
-
-労働者が待遇の違いについて説明を求めることができると、雇用時に周知することを義務付けます。
-
-厚労省によると、説明を求めたことが「ある」と答えた人の割合は8.0%。
-
-求めたことがない理由は「説明を求めやすい雰囲気がない」「説明を求めることができると知らなかった」が挙がりました。
-
-[2025-12-12 07:46:35](https://bsky.app/profile/nikkei.com/post/3m7qnpgkw462f)
-
----
-
-@reuters.com
-
-Barcelona brand gives migrant hawkers a legal foothold in fashion reut.rs/4pIpwcL
-
-[2025-12-12 07:45:26](https://bsky.app/profile/reuters.com/post/3m7qnney3dc2i)
-
----
-
-@en.afp.com
-
-Maria Corina Machado's getaway from Venezuela involved a long, "scary" and very wet sea crossing in the dead of night with no lights, according to the US man who says he led the operation. ➡️  u.afp.com/S78A
-
-[2025-12-12 07:45:02](https://bsky.app/profile/en.afp.com/post/3m7qnmnx5wz2f)
-
----
-
-@axios.com
-
-The Trump administration today released guidance for federal agencies to try to ensure that the AI models they procure are not spitting out "woke" responses.
-
-[2025-12-12 07:44:45](https://bsky.app/profile/axios.com/post/3m7qnm5ha6c2m)
+[2025-12-12 08:02:57](https://bsky.app/profile/cnbc.com/post/3m7qomojf3a2i)
 
 ---
 
 @financialtimes.com
 
-Crypto founder Do Kwon sentenced to 15 years in prison on.ft.com/4q4EM3x
+Fed reappoints regional chiefs in move that allays Trump challenge fears on.ft.com/48TlBmd
 
-[2025-12-12 07:44:34](https://bsky.app/profile/financialtimes.com/post/3m7qnlsqlij2w)
+[2025-12-12 08:02:31](https://bsky.app/profile/financialtimes.com/post/3m7qolw5tu624)
 
 ---
 
 @reuters.com
 
-Greek minister heads Eurogroup, marking turnaround from years of crisis reut.rs/492O625
+China urges Netherlands to push Nexperia to visit for talks reut.rs/48NqXiH
 
-[2025-12-12 07:40:19](https://bsky.app/profile/reuters.com/post/3m7qneafxfz2o)
-
----
-
-@nbcnews.com
-
-A bipartisan group of senators is calling on leaders in the AI industry to commit to publicly disclose more information about how the industry thinks about risk, including possible harms to children.
-
-[2025-12-12 07:40:11](https://bsky.app/profile/nbcnews.com/post/3m7qndxsxdu2k)
+[2025-12-12 08:01:14](https://bsky.app/profile/reuters.com/post/3m7qojn2cor2s)
 
 ---
 
-@wsj.com
+@usatoday.com
 
-OpenAI is being sued for wrongful death by the estate of a woman killed by her son, who had been engaging in delusion-filled conversations with ChatGPT. 🔗 on.wsj.com/4iRIcEb
+Who won the 'Amazing Race'? Here's a recap of the Season 38 finale.
 
-[2025-12-12 07:35:55](https://bsky.app/profile/wsj.com/post/3m7qn4dwdla2i)
+[2025-12-12 08:01:10](https://bsky.app/profile/usatoday.com/post/3m7qojjbpdk2f)
+
+---
+
+@cnn.com
+
+White House officials abruptly postponed the final meeting of a Trump-created task force charged with shaping the future of the Federal Emergency Management Agency, roughly two hours before it was set to begin on Thursday, according to three sources familiar with the decision.
+
+[2025-12-12 08:01:02](https://bsky.app/profile/cnn.com/post/3m7qojbfzgt2v)
+
+---
+
+@cnbc.com
+
+JPMorgan Chase CEO Jamie Dimon says that people with strong communication, critical thinking and emotional intelligence skills will find jobs in the age of AI. 
+
+[2025-12-12 08:00:56](https://bsky.app/profile/cnbc.com/post/3m7qoj3polr23)
 
 ---
 
