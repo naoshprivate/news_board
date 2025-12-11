@@ -1,9 +1,9 @@
-# [2025-12-11 14:10 updated](2025_12_11.md)
+# [2025-12-11 14:30 updated](2025_12_11.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】JAL2823便（丘珠⇒秋田）が上空でエンジントラブル 右のプロペラが停止か 函館空港に優先着陸 けが人なし (2025-12-11 13:56:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7osejad2j2a" target="_blank">sokuho.news</a> (2025-12-11 14:04:38)</span><span style="padding-right:50px;">Nvidia supplier SK Hynix eyes U.S. listing as it expands on the AI boom <a href="https://bsky.app/profile/cnbc.com/post/3m7osagdbi42x" target="_blank">cnbc.com</a> (2025-12-11 14:02:21)</span><span style="padding-right:50px;">京急電鉄、賞味期限近い食品を割引購入できるロッカー　駅構内に設置（無料記事） www.nikkei.com/article/DGXZQO...  京急線金沢文庫駅（横浜市）の構内に「SDGsロッカー」第1号機を設置。  賞味期限内でありながら廃棄される食品を販売することで、食品ロスの削減や廃棄物による二酸化炭素の削減などを目指します。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m7os7jrrl224" target="_blank">nikkei.com</a> (2025-12-11 14:01:51)</span><span style="padding-right:50px;">Venezuela's Machado defies travel ban, arrives in Oslo to claim Nobel Peace Prize reut.rs/44kzpEV <a href="https://bsky.app/profile/reuters.com/post/3m7os5elt3s2b" target="_blank">reuters.com</a> (2025-12-11 14:00:38)</span><span style="padding-right:50px;">The researchers found that constipation, for example, led to an overabundance of microbes in the gut that produced kidney-harming compounds. <a href="https://bsky.app/profile/nbcnews.com/post/3m7os525n5x2n" target="_blank">nbcnews.com</a> (2025-12-11 14:00:27)</span>
+<span style="padding-right:50px;">米軍の核搭載可能な戦略爆撃機、日本海を飛行　日米共同訓練で中国に対抗（無料記事） www.nikkei.com/article/DGXZQO...  航空自衛隊と米軍の12月10日の共同訓練で、米軍は核兵器を搭載できるB52爆撃機2機を派遣しました。  B52爆撃機が参加する日米共同訓練の公表は2024年12月以来1年ぶり。  当時はその2週間ほど前に中国とロシアの爆撃機が沖縄県周辺で共同飛行していました。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m7otpxvgvq2y" target="_blank">nikkei.com</a> (2025-12-11 14:28:56)</span><span style="padding-right:50px;">“I had not given any thought of playing again until about 48 hours ago, to be honest with you,” a candid Philip Rivers said while standing in front of a group of reporters at the Indianapolis Colts facility.  <a href="https://bsky.app/profile/cnn.com/post/3m7otodhogj2k" target="_blank">cnn.com</a> (2025-12-11 14:28:01)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】火元は死亡した男性の自宅と特定 県警が発表 事件性無し 大分市佐賀関187棟燃えた大規模火災 (2025-12-11 14:10) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7otkw76wx2s" target="_blank">sokuho.news</a> (2025-12-11 14:26:07)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】火元は死亡した男性の自宅と特定 県警が発表 大分市佐賀関で187棟燃えた大規模火災 (2025-12-11 14:10) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7otbkc2bi2e" target="_blank">sokuho.news</a> (2025-12-11 14:20:52)</span><span style="padding-right:50px;">Venezuela accuses US of 'blatant theft' after tanker seized in Caribbean reut.rs/3Yjvncn <a href="https://bsky.app/profile/reuters.com/post/3m7otaf3fz42b" target="_blank">reuters.com</a> (2025-12-11 14:20:13)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50176.55 (🔻641.84 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48057.75 (🔺483.79 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23654.15 (🔺118.15 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.78 (🔻1.19 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3127.00 (🔻21.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.88 (🔻0.08 : 2025-12-11)</span>
+<span style="padding-right:50px;">NIKKEI: 50141.18 (🔻677.21 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48057.75 (🔺483.79 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23654.15 (🔺118.15 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.78 (🔻1.19 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3118.00 (🔻30.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.90 (🔻0.06 : 2025-12-11)</span>
   </div>
 </div>
 
@@ -32,106 +32,110 @@
 
 ## News Headlines
 
-1.  関西のJAL機がエンジントラブル、函館空港に緊急着陸
-2.  韓国最高裁、日鉄に賠償命じる判決が確定
-3.  米国はパレスチナ難民救済機関にテロ関連制裁を検討
-4.  米国下院が大幅な防衛予算法案を通過
-5.  イタリア料理がUNESCOの文化遺産に登録
-6.  米国でOscarにキャスティング賞が新設
+1. 米軍の核搭載可能な戦略爆撃機、日本海を飛行　日米共同訓練で中国に対抗
+2. 京急電鉄、賞味期限近い食品を割引購入できるロッカー　駅構内に設置
+3. 関東大震災　神奈川県綾瀬市で火災
+4. JAL2823便が上空でエンジントラブル　函館空港に優先着陸
+5. 「徴用」問題　日本製鉄に賠償命じる判決が確定
+6. ラグビー　NECグリーンロケッツ東葛　来季からJR東日本が運営へ
 
 ----
 
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】JAL2823便（丘珠⇒秋田）が上空でエンジントラブル 右のプロペラが停止か 函館空港に優先着陸 けが人なし
-(2025-12-11 13:56:00) #ニュース
-
-[2025-12-11 14:04:38](https://bsky.app/profile/sokuho.news/post/3m7osejad2j2a)
-
----
-
-@cnbc.com
-
-Nvidia supplier SK Hynix eyes U.S. listing as it expands on the AI boom
-
-[2025-12-11 14:02:21](https://bsky.app/profile/cnbc.com/post/3m7osagdbi42x)
-
----
-
 @nikkei.com
 
-京急電鉄、賞味期限近い食品を割引購入できるロッカー　駅構内に設置（無料記事）
+米軍の核搭載可能な戦略爆撃機、日本海を飛行　日米共同訓練で中国に対抗（無料記事）
 www.nikkei.com/article/DGXZQO...
 
-京急線金沢文庫駅（横浜市）の構内に「SDGsロッカー」第1号機を設置。
+航空自衛隊と米軍の12月10日の共同訓練で、米軍は核兵器を搭載できるB52爆撃機2機を派遣しました。
 
-賞味期限内でありながら廃棄される食品を販売することで、食品ロスの削減や廃棄物による二酸化炭素の削減などを目指します。
+B52爆撃機が参加する日米共同訓練の公表は2024年12月以来1年ぶり。
+
+当時はその2週間ほど前に中国とロシアの爆撃機が沖縄県周辺で共同飛行していました。
 
 #ニュース
 
-[2025-12-11 14:01:51](https://bsky.app/profile/nikkei.com/post/3m7os7jrrl224)
+[2025-12-11 14:28:56](https://bsky.app/profile/nikkei.com/post/3m7otpxvgvq2y)
+
+---
+
+@cnn.com
+
+“I had not given any thought of playing again until about 48 hours ago, to be honest with you,” a candid Philip Rivers said while standing in front of a group of reporters at the Indianapolis Colts facility. 
+
+[2025-12-11 14:28:01](https://bsky.app/profile/cnn.com/post/3m7otodhogj2k)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】火元は死亡した男性の自宅と特定 県警が発表 事件性無し 大分市佐賀関187棟燃えた大規模火災
+(2025-12-11 14:10) #ニュース
+
+[2025-12-11 14:26:07](https://bsky.app/profile/sokuho.news/post/3m7otkw76wx2s)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】火元は死亡した男性の自宅と特定 県警が発表 大分市佐賀関で187棟燃えた大規模火災
+(2025-12-11 14:10) #ニュース
+
+[2025-12-11 14:20:52](https://bsky.app/profile/sokuho.news/post/3m7otbkc2bi2e)
 
 ---
 
 @reuters.com
 
-Venezuela's Machado defies travel ban, arrives in Oslo to claim Nobel Peace Prize reut.rs/44kzpEV
+Venezuela accuses US of 'blatant theft' after tanker seized in Caribbean reut.rs/3Yjvncn
 
-[2025-12-11 14:00:38](https://bsky.app/profile/reuters.com/post/3m7os5elt3s2b)
-
----
-
-@nbcnews.com
-
-The researchers found that constipation, for example, led to an overabundance of microbes in the gut that produced kidney-harming compounds.
-
-[2025-12-11 14:00:27](https://bsky.app/profile/nbcnews.com/post/3m7os525n5x2n)
+[2025-12-11 14:20:13](https://bsky.app/profile/reuters.com/post/3m7otaf3fz42b)
 
 ---
 
-@bloomberg.com
+@sokuho.news
 
-President Trump signaled opposition to a Warner Bros. sale that did not see the news network CNN included or sold to a new company, signaling a potential wrinkle for the bid from Netflix
+🛎️FNNより【速報】です。
 
-[2025-12-11 14:00:20](https://bsky.app/profile/bloomberg.com/post/3m7os4tec2z2z)
+【速報】火元は死亡した男性の自宅と特定 県警が発表 大分県大分市佐賀関で起きた大規模火災
+(2025-12-11 14:10) #ニュース
 
----
-
-@cnbc.com
-
-Only people who are willing and able to see the most challenging tasks through to the end are capable of “building something remarkable,” says Amazon CEO Andy Jassy.
-
-“Virtually everything that’s worth doing takes that type of persistence and resilience,” Jassy recently told Amazon employees.
-
-[2025-12-11 14:00:15](https://bsky.app/profile/cnbc.com/post/3m7os4nuchr2e)
+[2025-12-11 14:16:06](https://bsky.app/profile/sokuho.news/post/3m7osyzmzha2a)
 
 ---
 
-@washingtonpost.com
+@financialtimes.com
 
-How monogamous are humans, really? It’s an age-old question subject to significant debate. 
+ The economics of seasonal serenity on.ft.com/44l0l7B  | opinion
 
-Now, a University of Cambridge professor has an answer: Somewhere between the Eurasian beaver and a meerkat.
-
-[2025-12-11 14:00:08](https://bsky.app/profile/washingtonpost.com/post/3m7os4htyxs2e)
+[2025-12-11 14:11:49](https://bsky.app/profile/financialtimes.com/post/3m7osre5shv2p)
 
 ---
 
-@nytimes.com
+@financialtimes.com
 
-Hours after missing the ceremony in Norway’s capital that awarded her the Nobel Peace Prize, the Venezuelan opposition leader María Corina Machado appeared in the city’s streets after midnight on Thursday, greeting a cheering crowd.
+ How UK real estate companies can repel private equity bargain hunters on.ft.com/454cSfN  | opinion
 
-[2025-12-11 14:00:05](https://bsky.app/profile/nytimes.com/post/3m7os4efu2s2s)
+[2025-12-11 14:11:48](https://bsky.app/profile/financialtimes.com/post/3m7osrdm37b23)
 
 ---
 
-@aljazeera.com
+@financialtimes.com
 
-‘A gesture of love’: Italy’s cuisine joins UNESCO’s cultural heritage list https://aje.io/cqu79o
+Inside the failed green revolutions at BP and Shell on.ft.com/3Mo0K33
 
-[2025-12-11 14:00:04](https://bsky.app/profile/aljazeera.com/post/3m7os4dw33727)
+[2025-12-11 14:11:43](https://bsky.app/profile/financialtimes.com/post/3m7osr6h2uu2w)
+
+---
+
+@reuters.com
+
+Exclusive: China's ZTE may pay more than $1 billion to the US over foreign bribery allegations, sources say reut.rs/4q2wEAj
+
+[2025-12-11 14:10:10](https://bsky.app/profile/reuters.com/post/3m7osog42s32x)
 
 ---
 
