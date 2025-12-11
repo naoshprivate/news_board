@@ -1,9 +1,9 @@
-# [2025-12-12 02:50 updated](2025_12_12.md)
+# [2025-12-12 03:10 updated](2025_12_12.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NYダウ 取り引き時間中の最高値更新 一時650ドル超値上がり https://news.web.nhk/newsweb/na/na-k10015001651000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7q4znrgx42m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-12 02:48:02)</span><span style="padding-right:50px;">Liz Truss is back.   The short-lived UK prime minister and businessman Robert Tchenguiz are launching an ultra-exclusive club in London.  Truss and Tchenguiz are hoping to recruit 700 founding members — each paying £500,000. Find out more here: on.ft.com/493H1hI <a href="https://bsky.app/profile/financialtimes.com/post/3m7q4ypohzm2w" target="_blank">financialtimes.com</a> (2025-12-12 02:47:33)</span><span style="padding-right:50px;">Bank of England's Bailey says continued QT needed to end interest rate risk reut.rs/4iP8VkN <a href="https://bsky.app/profile/reuters.com/post/3m7q4ukagxr2x" target="_blank">reuters.com</a> (2025-12-12 02:45:13)</span><span style="padding-right:50px;">Microsoft Warning — Act Rapidly And Change Passwords As Attacks Strike www.forbes.com/sites/daveyw... (Photo: Getty Images) <a href="https://bsky.app/profile/forbes.com/post/3m7q4of5k5k2n" target="_blank">forbes.com</a> (2025-12-12 02:41:47)</span><span style="padding-right:50px;">The Environmental Protection Agency has altered and removed information from its web site that connected climate change to the burning of fossil fuels. https://cnn.it/3KTVcwE <a href="https://bsky.app/profile/cnn.com/post/3m7q4ochcm42u" target="_blank">cnn.com</a> (2025-12-12 02:41:44)</span>
+<span style="padding-right:50px;">More than 600 artifacts relating to the history of the British Empire and Commonwealth have been stolen from the collection of Bristol Museum, police said Thursday as they released images of four suspects. https://cnn.it/4oQ4k3c <a href="https://bsky.app/profile/cnn.com/post/3m7q65gimy42u" target="_blank">cnn.com</a> (2025-12-12 03:08:05)</span><span style="padding-right:50px;">Somali defence minister rejects latest Trump insults reut.rs/3XPjIC4 <a href="https://bsky.app/profile/reuters.com/post/3m7q5yeremr2s" target="_blank">reuters.com</a> (2025-12-12 03:05:15)</span><span style="padding-right:50px;">Mamoru Hosoda’s feature draws on ‘Hamlet’ in its story of a woman caught in a purgatory-like space who seeks vengeance for her father. on.wsj.com/4pB1GzI <a href="https://bsky.app/profile/wsj.com/post/3m7q5xzufzz2k" target="_blank">wsj.com</a> (2025-12-12 03:05:04)</span><span style="padding-right:50px;">US Senate Republicans blocked a Democratic bill that would have extended for three years federal Affordable Care Act subsidies to help Americans pay health insurance premiums reut.rs/4q3622a <a href="https://bsky.app/profile/reuters.com/post/3m7q5x47tu22l" target="_blank">reuters.com</a> (2025-12-12 03:04:33)</span><span style="padding-right:50px;">Trump pushes for ‘free economic zone’ in Donbas, says Zelenskyy on.ft.com/3MDWqwq <a href="https://bsky.app/profile/financialtimes.com/post/3m7q5rtvnho2o" target="_blank">financialtimes.com</a> (2025-12-12 03:01:36)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48622.67 (🔺539.77 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23517.67 (🔺8.46 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 178.68 (🔻1.60 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.26 (🔻0.70 : 2025-12-11)</span>
+<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48689.94 (🔺607.04 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23529.92 (🔺20.70 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 178.83 (🔻1.44 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.22 (🔻0.74 : 2025-12-11)</span>
   </div>
 </div>
 
@@ -32,111 +32,105 @@
 
 ## News Headlines
 
-Here are the 6 important topics with Japanese headlines:
+Here are six important topics with Japanese titles:
 
-1. NYダウ取引時間中の最高値更新
-（New York Dow Jones stock market sets new high during trading hours）
+1. 600以上の英国帝国・共通連邦史に関する文化財が盗まれた
+（More than 600 artifacts relating to the history of the British Empire and Commonwealth have been stolen）
 
-2. 英国首相リズ・トラス、新クラブ設立
-（UK Prime Minister Liz Truss and businessman Robert Tchenguiz launch exclusive club in London）
+2. ソマリア防衛大臣、トランプの最新の侮蔑に反論
+（Somali defense minister rejects latest Trump insults）
 
-3. 英国の銀行長官、利率リスクを解消するためにQT継続必要
-（Bank of England governor says continued quantitative tightening necessary to eliminate interest rate risk）
+3. FTSE 100、連邦準備委員会の軟化に応じて上昇
+（FTSE 100 gains after Fed's softer tone）
 
-4. 米国貿易収支、2020年以来最小値に縮小
-（US trade deficit shrinks to smallest since 2020）
+4. インディアナ州、トランプの選挙区割り計画に抵抗
+（Indiana, a state President Trump won by 19 percentage points last year, is serving up an unusual amount of resistance to his plan to carve up congressional districts around the country）
 
-5. AIソフトウェアスタートアップ、5.5億ドル調達
-（AI software startup Harness valued at $5.5 billion in latest financing round）
+5. マイクロソフト、パスワードの変更を警告
+（Microsoft Warning — Act Rapidly And Change Passwords As Attacks Strike）
 
-6. 米国高齢者、医療費対策法案がSenateで否決
-（US Senate rejects bill aimed at addressing rising healthcare costs for seniors）
+6. 世界の10位の生活国ランキング、2026年版が発表
+（The 10 Best Countries To Live In 2026, Ranked In A New Expat Report）
 
 ----
 
-@nhknewsunofficial.bsky.social
+@cnn.com
 
-NYダウ 取り引き時間中の最高値更新 一時650ドル超値上がり
-https://news.web.nhk/newsweb/na/na-k10015001651000
+More than 600 artifacts relating to the history of the British Empire and Commonwealth have been stolen from the collection of Bristol Museum, police said Thursday as they released images of four suspects. https://cnn.it/4oQ4k3c
 
-[2025-12-12 02:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7q4znrgx42m)
-
----
-
-@financialtimes.com
-
-Liz Truss is back. 
-
-The short-lived UK prime minister and businessman Robert Tchenguiz are launching an ultra-exclusive club in London.
-
-Truss and Tchenguiz are hoping to recruit 700 founding members — each paying £500,000. Find out more here: on.ft.com/493H1hI
-
-[2025-12-12 02:47:33](https://bsky.app/profile/financialtimes.com/post/3m7q4ypohzm2w)
+[2025-12-12 03:08:05](https://bsky.app/profile/cnn.com/post/3m7q65gimy42u)
 
 ---
 
 @reuters.com
 
-Bank of England's Bailey says continued QT needed to end interest rate risk reut.rs/4iP8VkN
+Somali defence minister rejects latest Trump insults reut.rs/3XPjIC4
 
-[2025-12-12 02:45:13](https://bsky.app/profile/reuters.com/post/3m7q4ukagxr2x)
-
----
-
-@forbes.com
-
-Microsoft Warning — Act Rapidly And Change Passwords As Attacks Strike www.forbes.com/sites/daveyw... (Photo: Getty Images)
-
-[2025-12-12 02:41:47](https://bsky.app/profile/forbes.com/post/3m7q4of5k5k2n)
-
----
-
-@cnn.com
-
-The Environmental Protection Agency has altered and removed information from its web site that connected climate change to the burning of fossil fuels. https://cnn.it/3KTVcwE
-
-[2025-12-12 02:41:44](https://bsky.app/profile/cnn.com/post/3m7q4ochcm42u)
-
----
-
-@financialtimes.com
-
-US trade deficit shrinks to smallest since 2020 as gold exports jump on.ft.com/3YkZmAC
-
-[2025-12-12 02:41:27](https://bsky.app/profile/financialtimes.com/post/3m7q4nsdlki2f)
-
----
-
-@forbes.com
-
-The 10 Best Countries To Live In 2026, Ranked In A New Expat Report
-www.forbes.com/sites/laurab... (Photo: Getty Images)
-
-[2025-12-12 02:41:05](https://bsky.app/profile/forbes.com/post/3m7q4n5yfks2n)
-
----
-
-@forbes.com
-
-5 Takeaways For Student Loans As Millions Forced To Switch Repayment Plans
-
-[2025-12-12 02:40:39](https://bsky.app/profile/forbes.com/post/3m7q4mev2js2n)
+[2025-12-12 03:05:15](https://bsky.app/profile/reuters.com/post/3m7q5yeremr2s)
 
 ---
 
 @wsj.com
 
-Myles Garrett is on pace to break the record for most sacks in a season. Playing on one of the league’s worst teams makes that feat even more astounding.
+Mamoru Hosoda’s feature draws on ‘Hamlet’ in its story of a woman caught in a purgatory-like space who seeks vengeance for her father. on.wsj.com/4pB1GzI
 
-[2025-12-12 02:40:36](https://bsky.app/profile/wsj.com/post/3m7q4mbpivo2z)
+[2025-12-12 03:05:04](https://bsky.app/profile/wsj.com/post/3m7q5xzufzz2k)
 
 ---
 
 @reuters.com
 
-Exclusive: AI software startup Harness valued at $5.5 billion in latest financing round reut.rs/48SIXZb
+US Senate Republicans blocked a Democratic bill that would have extended for three years federal Affordable Care Act subsidies to help Americans pay health insurance premiums reut.rs/4q3622a
 
-[2025-12-12 02:40:20](https://bsky.app/profile/reuters.com/post/3m7q4lsb7ld2o)
+[2025-12-12 03:04:33](https://bsky.app/profile/reuters.com/post/3m7q5x47tu22l)
+
+---
+
+@financialtimes.com
+
+Trump pushes for ‘free economic zone’ in Donbas, says Zelenskyy on.ft.com/3MDWqwq
+
+[2025-12-12 03:01:36](https://bsky.app/profile/financialtimes.com/post/3m7q5rtvnho2o)
+
+---
+
+@reuters.com
+
+FTSE 100 gains after Fed's softer tone; eyes on GDP data reut.rs/4iOwb2o
+
+[2025-12-12 03:01:17](https://bsky.app/profile/reuters.com/post/3m7q5rb576f23)
+
+---
+
+@washingtonpost.com
+
+Indiana, a state President Trump won by 19 percentage points last year, is serving up an unusual amount of resistance to his plan to carve up congressional districts around the country.
+
+[2025-12-12 03:00:26](https://bsky.app/profile/washingtonpost.com/post/3m7q5pr7rmt2e)
+
+---
+
+@washingtonpost.com
+
+Secretary of State Marco Rubio ordered the State Department to stop using Calibri and go back to Times New Roman in official communications, reversing a Biden administration policy intended to help employees who are visually impaired or have low-vision issues. https://wapo.st/4au7Rkv
+
+[2025-12-12 03:00:26](https://bsky.app/profile/washingtonpost.com/post/3m7q5pr7mjj2p)
+
+---
+
+@aljazeera.com
+
+Rights group Amnesty says ban, which will affect around 12,000 girls, will 'add to racist climate towards Muslims'.
+
+[2025-12-12 03:00:24](https://bsky.app/profile/aljazeera.com/post/3m7q5pp5biu2z)
+
+---
+
+@apnews.com
+
+Quicksand is a corny peril in old movies, but getting stuck in it really did happen to one hiker in Utah.
+
+[2025-12-12 03:00:21](https://bsky.app/profile/apnews.com/post/3m7q5pmd2pl2x)
 
 ---
 
