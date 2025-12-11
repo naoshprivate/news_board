@@ -1,9 +1,9 @@
-# [2025-12-11 23:10 updated](2025_12_11.md)
+# [2025-12-11 23:30 updated](2025_12_11.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Lilly's next-gen drug tops Zepbound on weight loss in late-stage trial reut.rs/4q8Gtgp <a href="https://bsky.app/profile/reuters.com/post/3m7pql44btp2y" target="_blank">reuters.com</a> (2025-12-11 23:05:11)</span><span style="padding-right:50px;">Myles Garrett is on pace to break the record for most sacks in a season. Playing on one of the league’s worst teams makes that feat even more astounding.  on.wsj.com/3KCxd55 <a href="https://bsky.app/profile/wsj.com/post/3m7pqjtv6df2t" target="_blank">wsj.com</a> (2025-12-11 23:04:29)</span><span style="padding-right:50px;">The painting that introduced “Star Wars” to the world nearly 50 years ago — and was reproduced in an iconic movie poster — sold at auction on Wednesday for $3.875 million. <a href="https://bsky.app/profile/apnews.com/post/3m7pqei22dk2r" target="_blank">apnews.com</a> (2025-12-11 23:01:29)</span><span style="padding-right:50px;">Volkswagen says demand to determine if range extender introduced in Europe, US reut.rs/48SdkPD <a href="https://bsky.app/profile/reuters.com/post/3m7pqdtoi7x2x" target="_blank">reuters.com</a> (2025-12-11 23:01:08)</span><span style="padding-right:50px;">Kelly Osbourne shared an Instagram video in which she condemned those criticizing her weight loss after the death of her father, Ozzy Osbourne. <a href="https://bsky.app/profile/usatoday.com/post/3m7pqdjoodt2w" target="_blank">usatoday.com</a> (2025-12-11 23:00:57)</span>
+<span style="padding-right:50px;">VIDEO: 🇳🇴 🇻🇪 Venezuelan opposition leader emerges from hiding after winning Nobel Peace Prize  Nobel Peace laureate Maria Corina Machado has said she will do her best to return to Venezuela to end the "tyranny" in the country, as she seized the spotlight in Oslo after nearly a year in hiding <a href="https://bsky.app/profile/en.afp.com/post/3m7pruon2d62k" target="_blank">en.afp.com</a> (2025-12-11 23:28:27)</span><span style="padding-right:50px;"> n.pr/3YkHtlt <a href="https://bsky.app/profile/npr.org/post/3m7prujc5v324" target="_blank">npr.org</a> (2025-12-11 23:28:21)</span><span style="padding-right:50px;">Bulgarian PM Rosen Zhelyazkov resigns weeks ahead of entry to euro on.ft.com/4p7xxHj <a href="https://bsky.app/profile/financialtimes.com/post/3m7prtlaecg2w" target="_blank">financialtimes.com</a> (2025-12-11 23:27:49)</span><span style="padding-right:50px;">Powell bets big on productivity boost rescuing boxed-in Fed reut.rs/3MwzkIf <a href="https://bsky.app/profile/reuters.com/post/3m7prorssia2x" target="_blank">reuters.com</a> (2025-12-11 23:25:09)</span><span style="padding-right:50px;">Home prices go negative for the first time in over 2 years — and may stay that way for a while <a href="https://bsky.app/profile/cnbc.com/post/3m7pro52g332x" target="_blank">cnbc.com</a> (2025-12-11 23:24:47)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48057.75 (🔺483.79 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23654.15 (🔺118.15 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.78 (🔻1.19 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.14 (🔻0.82 : 2025-12-11)</span>
+<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48104.72 (🔺21.82 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23654.16 (🔺118.16 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 180.20 (🔻0.07 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.06 (🔻0.90 : 2025-12-11)</span>
   </div>
 </div>
 
@@ -30,125 +30,87 @@
 
 ---
 
-## News Headlines
+@en.afp.com
 
-Here are the six important stories with headlines in Japanese:
+VIDEO: 🇳🇴 🇻🇪 Venezuelan opposition leader emerges from hiding after winning Nobel Peace Prize
 
-1. 
-Lilly's next-gen drug tops Zepbound on weight loss in late-stage trial reut.rs/4q8Gtgp
+Nobel Peace laureate Maria Corina Machado has said she will do her best to return to Venezuela to end the "tyranny" in the country, as she seized the spotlight in Oslo after nearly a year in hiding
 
-(, Zepbound)
-
-2. 
-Myles Garrett is on pace to break the record for most sacks in a season. Playing on one of the league’s worst teams makes that feat even more astounding.  on.wsj.com/3KCxd55
-
-(NFL, Sacks)
-
-3. 
-The painting that introduced “Star Wars” to the world nearly 50 years ago — and was reproduced in an iconic movie poster — sold at auction on Wednesday for $3.875 million.
-
-(, Star Wars)
-
-4. 
-Kelly Osbourne shared an Instagram video in which she condemned those criticizing her weight loss after the death of her father, Ozzy Osbourne.
-
-(Ozzy Osbourne, Kelly Osbourne)
-
-5. 
-Coca-Cola said Wednesday that its chief operating officer, Henrique Braun, will become its next CEO in the first quarter of 2026. James Quincey, Coke’s current chairman and CEO, will transition to executive chairman of the company.
-
-(Coca-Cola, Henrique Braun)
-
-6. 
-The US has authorized the sale of advanced technology and support for Pakistan's F-16 jets.
-
-(US, Pakistan, F-16)
-
-----
-
-@reuters.com
-
-Lilly's next-gen drug tops Zepbound on weight loss in late-stage trial reut.rs/4q8Gtgp
-
-[2025-12-11 23:05:11](https://bsky.app/profile/reuters.com/post/3m7pql44btp2y)
+[2025-12-11 23:28:27](https://bsky.app/profile/en.afp.com/post/3m7pruon2d62k)
 
 ---
 
-@wsj.com
+@npr.org
 
-Myles Garrett is on pace to break the record for most sacks in a season. Playing on one of the league’s worst teams makes that feat even more astounding.  on.wsj.com/3KCxd55
+ n.pr/3YkHtlt
 
-[2025-12-11 23:04:29](https://bsky.app/profile/wsj.com/post/3m7pqjtv6df2t)
+[2025-12-11 23:28:21](https://bsky.app/profile/npr.org/post/3m7prujc5v324)
 
 ---
 
-@apnews.com
+@financialtimes.com
 
-The painting that introduced “Star Wars” to the world nearly 50 years ago — and was reproduced in an iconic movie poster — sold at auction on Wednesday for $3.875 million.
+Bulgarian PM Rosen Zhelyazkov resigns weeks ahead of entry to euro on.ft.com/4p7xxHj
 
-[2025-12-11 23:01:29](https://bsky.app/profile/apnews.com/post/3m7pqei22dk2r)
+[2025-12-11 23:27:49](https://bsky.app/profile/financialtimes.com/post/3m7prtlaecg2w)
 
 ---
 
 @reuters.com
 
-Volkswagen says demand to determine if range extender introduced in Europe, US reut.rs/48SdkPD
+Powell bets big on productivity boost rescuing boxed-in Fed reut.rs/3MwzkIf
 
-[2025-12-11 23:01:08](https://bsky.app/profile/reuters.com/post/3m7pqdtoi7x2x)
-
----
-
-@usatoday.com
-
-Kelly Osbourne shared an Instagram video in which she condemned those criticizing her weight loss after the death of her father, Ozzy Osbourne.
-
-[2025-12-11 23:00:57](https://bsky.app/profile/usatoday.com/post/3m7pqdjoodt2w)
+[2025-12-11 23:25:09](https://bsky.app/profile/reuters.com/post/3m7prorssia2x)
 
 ---
 
-@apnews.com
+@cnbc.com
 
-Coca-Cola said Wednesday that its chief operating officer, Henrique Braun, will become its next CEO in the first quarter of 2026. James Quincey, Coke’s current chairman and CEO, will transition to executive chairman of the company.
+Home prices go negative for the first time in over 2 years — and may stay that way for a while
 
-[2025-12-11 23:00:41](https://bsky.app/profile/apnews.com/post/3m7pqd2hket2d)
-
----
-
-@washingtonpost.com
-
-President Trump says consumers have a lot to be thankful for as his first year in office wraps up.
-
-But a look at polling reveals that Americans feel very differently than the president about their economic situation.
-
-[2025-12-11 23:00:38](https://bsky.app/profile/washingtonpost.com/post/3m7pqcxnz6f2d)
+[2025-12-11 23:24:47](https://bsky.app/profile/cnbc.com/post/3m7pro52g332x)
 
 ---
 
-@aljazeera.com
+@financialtimes.com
 
-The US has authorised the sale of advanced technology and support for Pakistan's F-16 jets.
+Disney to invest $1bn into OpenAI on.ft.com/4rN51xb
 
-[2025-12-11 23:00:25](https://bsky.app/profile/aljazeera.com/post/3m7pqcl7kgs2h)
+[2025-12-11 23:23:19](https://bsky.app/profile/financialtimes.com/post/3m7prlj4rom2o)
 
 ---
 
-@bloomberg.com
+@financialtimes.com
 
-As the Trump administration squeezes FEMA, the Cajun Navy is shaping what's next for US disaster relief
+ How to bring UK energy costs down on.ft.com/44X6nLN  | opinion
 
-[2025-12-11 23:00:25](https://bsky.app/profile/bloomberg.com/post/3m7pqcktcly23)
+[2025-12-11 23:20:39](https://bsky.app/profile/financialtimes.com/post/3m7prgqldri2b)
 
 ---
 
 @nbcnews.com
 
-An environmental group files a lawsuit in Washington, D.C, with the aim of removing President Trump’s image from next year's national park passes.
+Indiana state senators will decide the fate of a Republican-drawn congressional map, settling a divisive, monthslong clash between GOP lawmakers who have resisted the redistricting push and President Trump, who has urged them to forge ahead.
 
-The Interior and Agriculture departments did not immediately respond to requests for comment.
+[2025-12-11 23:20:20](https://bsky.app/profile/nbcnews.com/post/3m7prg6kqla2u)
 
-Read more: nbcnews.to/4s8z4zB 
+---
 
-[2025-12-11 23:00:24](https://bsky.app/profile/nbcnews.com/post/3m7pqcjis6y26)
+@washingtonpost.com
+
+Time magazine named “the Architects of AI” the 2025 person of the year.
+
+“We recognize a force that has dominated the year’s headlines, for better or for worse,” editor in chief Sam Jacobs writes in explaining the magazine’s choice.
+
+[2025-12-11 23:20:05](https://bsky.app/profile/washingtonpost.com/post/3m7prfqdvur2e)
+
+---
+
+@cnbc.com
+
+Art Basel Miami sees strong attendance and sales as art market recovers
+
+[2025-12-11 23:18:13](https://bsky.app/profile/cnbc.com/post/3m7prcf4g5y2y)
 
 ---
 
