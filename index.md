@@ -1,9 +1,9 @@
-# [2025-12-11 09:50 updated](2025_12_11.md)
+# [2025-12-11 10:10 updated](2025_12_11.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Fed's Powell says inflation overshoot caused by Trump tariffs reut.rs/3XNXCQg <a href="https://bsky.app/profile/reuters.com/post/3m7odut3n2k2s" target="_blank">reuters.com</a> (2025-12-11 09:45:19)</span><span style="padding-right:50px;">A group of House lawmakers launched a last-minute bid to force a vote on extending the enhanced Affordable Care Act subsidies set to expire at the end of the year. At least 218 members would first have to agree to consider the legislation, including most Democrats.  <a href="https://bsky.app/profile/washingtonpost.com/post/3m7oducu2n62n" target="_blank">washingtonpost.com</a> (2025-12-11 09:45:02)</span><span style="padding-right:50px;">Reports: Pete Alonso, Orioles finalizing 5-year, $155M deal reut.rs/4q0kVCr <a href="https://bsky.app/profile/reuters.com/post/3m7odm4nd7n2p" target="_blank">reuters.com</a> (2025-12-11 09:40:27)</span><span style="padding-right:50px;">Depression, anxiety and other psychiatric conditions often go undetected and undiagnosed in patients. The neglect takes a significant toll on survival. <a href="https://bsky.app/profile/nbcnews.com/post/3m7odllexws2p" target="_blank">nbcnews.com</a> (2025-12-11 09:40:09)</span><span style="padding-right:50px;">Ọbẹ̀ Onírù, also goes by the somewhat tongue-in-cheek name “designer stew,” as if the dish embodies something exclusive, something worth the premium (in time and currency) of preparing it. <a href="https://bsky.app/profile/nytimes.com/post/3m7odjnro652x" target="_blank">nytimes.com</a> (2025-12-11 09:39:04)</span>
+<span style="padding-right:50px;">When residents of a small town in financial crisis needed to raise money, they took the only natural step: They stripped. 🔗 on.wsj.com/4iMJBvO <a href="https://bsky.app/profile/wsj.com/post/3m7of24pkq52s" target="_blank">wsj.com</a> (2025-12-11 10:06:11)</span><span style="padding-right:50px;">The Swiss city that lets you pay for most things with bitcoin <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7oewohmsl2e" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-11 10:04:15)</span><span style="padding-right:50px;">Avery Amstutz, a Memphis, Tennessee-based serial entrepreneur, started building mobile cafe Byway Coffee knowing "absolutely nothing about coffee," she says.  <a href="https://bsky.app/profile/cnbc.com/post/3m7oeudipyq2p" target="_blank">cnbc.com</a> (2025-12-11 10:02:57)</span><span style="padding-right:50px;">Some Americans might get $1,500 to cover health bills. Who qualifies? <a href="https://bsky.app/profile/usatoday.com/post/3m7oesgf7uk2f" target="_blank">usatoday.com</a> (2025-12-11 10:01:52)</span><span style="padding-right:50px;">芥川賞・直木賞の候補決まる　畠山丑雄さんや大門剛明さんらの10作品（無料記事） www.nikkei.com/article/DGXZQO... <a href="https://bsky.app/profile/nikkei.com/post/3m7oesf2ixr24" target="_blank">nikkei.com</a> (2025-12-11 10:01:51)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50477.18 (🔻341.21 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48057.75 (🔺483.79 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23654.16 (🔺118.16 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.78 (🔻1.18 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3128.00 (🔻20.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.78 (🔻0.18 : 2025-12-11)</span>
+<span style="padding-right:50px;">NIKKEI: 50630.38 (🔻188.01 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48057.75 (🔺483.79 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23654.16 (🔺118.16 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.78 (🔻1.18 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3129.00 (🔻19.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.67 (🔻0.29 : 2025-12-11)</span>
   </div>
 </div>
 
@@ -32,99 +32,94 @@
 
 ## News Headlines
 
-1. 小説家のトランプ大統領が石油タンカーをベネズエラ沖に捕獲
-2. 米国でトランプ大統領が FEMA の新しいトップを任命
-3. ユーチューブのスポーツストリーミングサービスを拡大
-4. 2025年にはインフルエンザの治療薬が不足しないように準備
-5. フォードの中国における稀少元素のライセンスを取得
-6. ミアミ市で民主党のエイリーン・ヒギンズ氏が初めて当選
+1. 小さな町が財政危機に直面し、資金をつかむため、住民が裸体を披露する
+2. スイスの都市でビットコインで支払うことができるほぼすべてのものが可能
+3. アメリカ人が1,500ドルを受け取る可能性がある。誰が対象か
+4. フェデラル・リザーブのポールは、インフレ抑制のために金利上昇を重視
+5. ドナルド・トランプ大統領の脅威への対抗として、米国議会が欧州の安全保障を強化する防衛法を可決
+6. 米国議会が、シリアへの制裁の適用を終了するための法案を進める
 
 ----
 
-@reuters.com
+@wsj.com
 
-Fed's Powell says inflation overshoot caused by Trump tariffs reut.rs/3XNXCQg
+When residents of a small town in financial crisis needed to raise money, they took the only natural step: They stripped. 🔗 on.wsj.com/4iMJBvO
 
-[2025-12-11 09:45:19](https://bsky.app/profile/reuters.com/post/3m7odut3n2k2s)
-
----
-
-@washingtonpost.com
-
-A group of House lawmakers launched a last-minute bid to force a vote on extending the enhanced Affordable Care Act subsidies set to expire at the end of the year. At least 218 members would first have to agree to consider the legislation, including most Democrats. 
-
-[2025-12-11 09:45:02](https://bsky.app/profile/washingtonpost.com/post/3m7oducu2n62n)
-
----
-
-@reuters.com
-
-Reports: Pete Alonso, Orioles finalizing 5-year, $155M deal reut.rs/4q0kVCr
-
-[2025-12-11 09:40:27](https://bsky.app/profile/reuters.com/post/3m7odm4nd7n2p)
-
----
-
-@nbcnews.com
-
-Depression, anxiety and other psychiatric conditions often go undetected and undiagnosed in patients. The neglect takes a significant toll on survival.
-
-[2025-12-11 09:40:09](https://bsky.app/profile/nbcnews.com/post/3m7odllexws2p)
-
----
-
-@nytimes.com
-
-Ọbẹ̀ Onírù, also goes by the somewhat tongue-in-cheek name “designer stew,” as if the dish embodies something exclusive, something worth the premium (in time and currency) of preparing it.
-
-[2025-12-11 09:39:04](https://bsky.app/profile/nytimes.com/post/3m7odjnro652x)
-
----
-
-@reuters.com
-
-JPMorgan supercharges its bet on national security by hiring Combs from Berkshire reut.rs/48x51tx
-
-[2025-12-11 09:35:10](https://bsky.app/profile/reuters.com/post/3m7odcnxmzx2x)
+[2025-12-11 10:06:11](https://bsky.app/profile/wsj.com/post/3m7of24pkq52s)
 
 ---
 
 @bbcnews-world-rss.bsky.social
 
-Shares in AI giant Oracle fall after revenue miss
+The Swiss city that lets you pay for most things with bitcoin
 
-[2025-12-11 09:34:32](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7odbkrgcf2b)
+[2025-12-11 10:04:15](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7oewohmsl2e)
 
 ---
 
 @cnbc.com
 
-Thursday's big stock stories: What’s likely to move the market in the next trading session
+Avery Amstutz, a Memphis, Tennessee-based serial entrepreneur, started building mobile cafe Byway Coffee knowing "absolutely nothing about coffee," she says. 
 
-[2025-12-11 09:33:13](https://bsky.app/profile/cnbc.com/post/3m7od76qerx2i)
+[2025-12-11 10:02:57](https://bsky.app/profile/cnbc.com/post/3m7oeudipyq2p)
+
+---
+
+@usatoday.com
+
+Some Americans might get $1,500 to cover health bills. Who qualifies?
+
+[2025-12-11 10:01:52](https://bsky.app/profile/usatoday.com/post/3m7oesgf7uk2f)
 
 ---
 
 @nikkei.com
 
-世界で最もパワフルな女性、高市早苗首相が3位　経済誌フォーブス選出（無料記事）
+芥川賞・直木賞の候補決まる　畠山丑雄さんや大門剛明さんらの10作品（無料記事）
 www.nikkei.com/article/DGXZQO...
 
-首位は4年連続でEUのフォンデアライエン欧州委員長。2位は欧州中央銀行（ECB）のラガルド総裁でした。
+[2025-12-11 10:01:51](https://bsky.app/profile/nikkei.com/post/3m7oesf2ixr24)
 
-「激動の時代における不屈の精神の象徴だ」
+---
 
-同誌は高市氏らをこのように称賛しました。
+@reuters.com
 
-[2025-12-11 09:31:51](https://bsky.app/profile/nikkei.com/post/3m7od4q7wt32y)
+Fed's Powell says rate policy well positioned, future of policy not on pre-set course reut.rs/4iQP6cP
+
+[2025-12-11 10:01:19](https://bsky.app/profile/reuters.com/post/3m7oergyey32y)
 
 ---
 
 @cnn.com
 
-After years of promoting baseless claims of voter fraud that President Donald Trump has frequently touted, a conservative activist has landed a top position at the Federal Emergency Management Agency. 
+A West Virginia National Guard member who was fatally shot last month in the nation’s capital was laid to rest with full military honors in a private ceremony. 
 
-[2025-12-11 09:31:01](https://bsky.app/profile/cnn.com/post/3m7od3avezw2o)
+[2025-12-11 10:01:02](https://bsky.app/profile/cnn.com/post/3m7oeqvugrr26)
+
+---
+
+@apnews.com
+
+Federal health officials have expanded an outbreak of infant botulism tied to ByHeart baby formula to include any illnesses reported since the company began production in 2022.
+
+[2025-12-11 10:00:29](https://bsky.app/profile/apnews.com/post/3m7oepx4jwf24)
+
+---
+
+@en.afp.com
+
+US lawmakers approve a sweeping defense bill bolstering European security, in a sharp counter to President Donald Trump's mounting threats to downgrade ties to traditional allies and NATO.
+u.afp.com/S7mj
+
+[2025-12-11 10:00:12](https://bsky.app/profile/en.afp.com/post/3m7oepgg2bg2f)
+
+---
+
+@bloomberg.com
+
+The Trump administration is launching a $700 million pilot program to help farmers more easily adopt “regenerative” practices that improve the health of soil and water.
+
+[2025-12-11 10:00:11](https://bsky.app/profile/bloomberg.com/post/3m7oepg2gfk2z)
 
 ---
 
