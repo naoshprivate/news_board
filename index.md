@@ -1,9 +1,9 @@
-# [2025-12-11 10:10 updated](2025_12_11.md)
+# [2025-12-11 10:30 updated](2025_12_11.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">When residents of a small town in financial crisis needed to raise money, they took the only natural step: They stripped. 🔗 on.wsj.com/4iMJBvO <a href="https://bsky.app/profile/wsj.com/post/3m7of24pkq52s" target="_blank">wsj.com</a> (2025-12-11 10:06:11)</span><span style="padding-right:50px;">The Swiss city that lets you pay for most things with bitcoin <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7oewohmsl2e" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-11 10:04:15)</span><span style="padding-right:50px;">Avery Amstutz, a Memphis, Tennessee-based serial entrepreneur, started building mobile cafe Byway Coffee knowing "absolutely nothing about coffee," she says.  <a href="https://bsky.app/profile/cnbc.com/post/3m7oeudipyq2p" target="_blank">cnbc.com</a> (2025-12-11 10:02:57)</span><span style="padding-right:50px;">Some Americans might get $1,500 to cover health bills. Who qualifies? <a href="https://bsky.app/profile/usatoday.com/post/3m7oesgf7uk2f" target="_blank">usatoday.com</a> (2025-12-11 10:01:52)</span><span style="padding-right:50px;">芥川賞・直木賞の候補決まる　畠山丑雄さんや大門剛明さんらの10作品（無料記事） www.nikkei.com/article/DGXZQO... <a href="https://bsky.app/profile/nikkei.com/post/3m7oesf2ixr24" target="_blank">nikkei.com</a> (2025-12-11 10:01:51)</span>
+<span style="padding-right:50px;">A task force created by President Donald Trump plans to recommend the most sweeping overhaul of FEMA in decades, dramatically reducing the federal agency’s role in disaster response by cutting its workforce in half and rolling out a new block grant system. https://cnn.it/4puu4TQ <a href="https://bsky.app/profile/cnn.com/post/3m7ogcydsa22o" target="_blank">cnn.com</a> (2025-12-11 10:29:02)</span><span style="padding-right:50px;">Fed says it will start technical buying of Treasury bills to manage market liquidity reut.rs/4ab7bQS <a href="https://bsky.app/profile/reuters.com/post/3m7ofthbbp223" target="_blank">reuters.com</a> (2025-12-11 10:20:21)</span><span style="padding-right:50px;">BREAKING: Mexico approves wide-ranging tariffs of up to 50% on China and other Asian nations. <a href="https://bsky.app/profile/bloomberg.com/post/3m7ofqvx5la2u" target="_blank">bloomberg.com</a> (2025-12-11 10:18:55)</span><span style="padding-right:50px;">アロンゾ オリオールズと契約合意の報道 日本選手の交渉加速か https://news.web.nhk/newsweb/na/na-k10015000691000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ofpgrrau2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-11 10:18:03)</span><span style="padding-right:50px;">As the year wraps up, we bring you some final notable titles — including The Sea Captain's Wife and The Rest of Our Lives — publishing before 2025 comes to a close. n.pr/4rQKKGR <a href="https://bsky.app/profile/npr.org/post/3m7ofk467jd2g" target="_blank">npr.org</a> (2025-12-11 10:15:07)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50630.38 (🔻188.01 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48057.75 (🔺483.79 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23654.16 (🔺118.16 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.78 (🔻1.18 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3129.00 (🔻19.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.67 (🔻0.29 : 2025-12-11)</span>
+<span style="padding-right:50px;">NIKKEI: 50646.52 (🔻171.87 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48057.75 (🔺483.79 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23654.16 (🔺118.16 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.78 (🔻1.21 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3132.00 (🔻16.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.62 (🔻0.35 : 2025-12-11)</span>
   </div>
 </div>
 
@@ -32,20 +32,79 @@
 
 ## News Headlines
 
-1. 小さな町が財政危機に直面し、資金をつかむため、住民が裸体を披露する
-2. スイスの都市でビットコインで支払うことができるほぼすべてのものが可能
-3. アメリカ人が1,500ドルを受け取る可能性がある。誰が対象か
-4. フェデラル・リザーブのポールは、インフレ抑制のために金利上昇を重視
-5. ドナルド・トランプ大統領の脅威への対抗として、米国議会が欧州の安全保障を強化する防衛法を可決
-6. 米国議会が、シリアへの制裁の適用を終了するための法案を進める
+1. フェデラル緊急事態管理庁の大規模改革計画が発表される
+2. 米連邦準備制度委員会が政府債券の買い入れを開始する
+3. 米下院が中国への課税を決定
+4. 米連邦準備制度委員会のポウエル理事長が2026年には減反発を予測
+5. 米政府が農家に環境に優しい農業技術の普及を支援する計画を発表
+6. 米下院が日本のカーリング女子代表のオリンピック出場枠獲得を発表
 
 ----
+
+@cnn.com
+
+A task force created by President Donald Trump plans to recommend the most sweeping overhaul of FEMA in decades, dramatically reducing the federal agency’s role in disaster response by cutting its workforce in half and rolling out a new block grant system. https://cnn.it/4puu4TQ
+
+[2025-12-11 10:29:02](https://bsky.app/profile/cnn.com/post/3m7ogcydsa22o)
+
+---
+
+@reuters.com
+
+Fed says it will start technical buying of Treasury bills to manage market liquidity reut.rs/4ab7bQS
+
+[2025-12-11 10:20:21](https://bsky.app/profile/reuters.com/post/3m7ofthbbp223)
+
+---
+
+@bloomberg.com
+
+<strong><span style="color: red;">BREAKING:</span> Mexico approves wide-ranging tariffs of up to 50% on China and other Asian nations.</strong>
+
+[2025-12-11 10:18:55](https://bsky.app/profile/bloomberg.com/post/3m7ofqvx5la2u)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+アロンゾ オリオールズと契約合意の報道 日本選手の交渉加速か
+https://news.web.nhk/newsweb/na/na-k10015000691000
+
+[2025-12-11 10:18:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ofpgrrau2k)
+
+---
+
+@npr.org
+
+As the year wraps up, we bring you some final notable titles — including The Sea Captain's Wife and The Rest of Our Lives — publishing before 2025 comes to a close. n.pr/4rQKKGR
+
+[2025-12-11 10:15:07](https://bsky.app/profile/npr.org/post/3m7ofk467jd2g)
+
+---
+
+@reuters.com
+
+Fed sees only one rate cut in 2026; no hike ahead, says Powell reut.rs/3MSKCGF
+
+[2025-12-11 10:10:15](https://bsky.app/profile/reuters.com/post/3m7ofbfea4q2p)
+
+---
 
 @wsj.com
 
 When residents of a small town in financial crisis needed to raise money, they took the only natural step: They stripped. 🔗 on.wsj.com/4iMJBvO
 
 [2025-12-11 10:06:11](https://bsky.app/profile/wsj.com/post/3m7of24pkq52s)
+
+---
+
+@andrewsolender.bsky.social
+
+Rep. Haley Stevens told @Axios.com she “worked closely” w/ the Energy and Commerce Committee on her RFK Jr. impeachment articles.
+
+There’s just one problem: Top E&C Dem Frank Pallone says she “approached us about joining her, and then in the end we declined." www.axios.com/2025/12/11/i...
+
+[2025-12-11 10:04:59](https://bsky.app/profile/andrewsolender.bsky.social/post/3m7oexxtbe22j)
 
 ---
 
@@ -62,64 +121,6 @@ The Swiss city that lets you pay for most things with bitcoin
 Avery Amstutz, a Memphis, Tennessee-based serial entrepreneur, started building mobile cafe Byway Coffee knowing "absolutely nothing about coffee," she says. 
 
 [2025-12-11 10:02:57](https://bsky.app/profile/cnbc.com/post/3m7oeudipyq2p)
-
----
-
-@usatoday.com
-
-Some Americans might get $1,500 to cover health bills. Who qualifies?
-
-[2025-12-11 10:01:52](https://bsky.app/profile/usatoday.com/post/3m7oesgf7uk2f)
-
----
-
-@nikkei.com
-
-芥川賞・直木賞の候補決まる　畠山丑雄さんや大門剛明さんらの10作品（無料記事）
-www.nikkei.com/article/DGXZQO...
-
-[2025-12-11 10:01:51](https://bsky.app/profile/nikkei.com/post/3m7oesf2ixr24)
-
----
-
-@reuters.com
-
-Fed's Powell says rate policy well positioned, future of policy not on pre-set course reut.rs/4iQP6cP
-
-[2025-12-11 10:01:19](https://bsky.app/profile/reuters.com/post/3m7oergyey32y)
-
----
-
-@cnn.com
-
-A West Virginia National Guard member who was fatally shot last month in the nation’s capital was laid to rest with full military honors in a private ceremony. 
-
-[2025-12-11 10:01:02](https://bsky.app/profile/cnn.com/post/3m7oeqvugrr26)
-
----
-
-@apnews.com
-
-Federal health officials have expanded an outbreak of infant botulism tied to ByHeart baby formula to include any illnesses reported since the company began production in 2022.
-
-[2025-12-11 10:00:29](https://bsky.app/profile/apnews.com/post/3m7oepx4jwf24)
-
----
-
-@en.afp.com
-
-US lawmakers approve a sweeping defense bill bolstering European security, in a sharp counter to President Donald Trump's mounting threats to downgrade ties to traditional allies and NATO.
-u.afp.com/S7mj
-
-[2025-12-11 10:00:12](https://bsky.app/profile/en.afp.com/post/3m7oepgg2bg2f)
-
----
-
-@bloomberg.com
-
-The Trump administration is launching a $700 million pilot program to help farmers more easily adopt “regenerative” practices that improve the health of soil and water.
-
-[2025-12-11 10:00:11](https://bsky.app/profile/bloomberg.com/post/3m7oepg2gfk2z)
 
 ---
 
