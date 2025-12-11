@@ -1,9 +1,9 @@
-# [2025-12-11 13:50 updated](2025_12_11.md)
+# [2025-12-11 14:10 updated](2025_12_11.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">ラグビー NECグリーンロケッツ東葛 来季からJR東日本が運営へ https://news.web.nhk/newsweb/na/na-k10015000921000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7orh2j6cc2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-11 13:48:08)</span><span style="padding-right:50px;">同性婚訴訟 東京高裁の合憲判決 原告側が最高裁に上告 https://news.web.nhk/newsweb/na/na-k10015000931000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7orgvjbyj2l" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-11 13:48:02)</span><span style="padding-right:50px;">Exclusive: US weighs hitting UN Palestinian refugee agency with terrorism-related sanctions reut.rs/4q0RZKD <a href="https://bsky.app/profile/reuters.com/post/3m7oqytku6t2b" target="_blank">reuters.com</a> (2025-12-11 13:40:12)</span><span style="padding-right:50px;">In @nytopinion.nytimes.com   "Subsidies alone aren’t a solution; they simply buy us time," Zack Cooper writes. "The point is to use that time to build a system in which coverage is affordable because care is affordable." <a href="https://bsky.app/profile/nytimes.com/post/3m7oqyl7x6s2a" target="_blank">nytimes.com</a> (2025-12-11 13:40:04)</span><span style="padding-right:50px;">高市首相 定数削減と献金めぐる法案審議 “国会が決めるべき” https://news.web.nhk/newsweb/na/na-k10015000951000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7oqwsnkko2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-11 13:39:02)</span>
+<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】JAL2823便（丘珠⇒秋田）が上空でエンジントラブル 右のプロペラが停止か 函館空港に優先着陸 けが人なし (2025-12-11 13:56:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7osejad2j2a" target="_blank">sokuho.news</a> (2025-12-11 14:04:38)</span><span style="padding-right:50px;">Nvidia supplier SK Hynix eyes U.S. listing as it expands on the AI boom <a href="https://bsky.app/profile/cnbc.com/post/3m7osagdbi42x" target="_blank">cnbc.com</a> (2025-12-11 14:02:21)</span><span style="padding-right:50px;">京急電鉄、賞味期限近い食品を割引購入できるロッカー　駅構内に設置（無料記事） www.nikkei.com/article/DGXZQO...  京急線金沢文庫駅（横浜市）の構内に「SDGsロッカー」第1号機を設置。  賞味期限内でありながら廃棄される食品を販売することで、食品ロスの削減や廃棄物による二酸化炭素の削減などを目指します。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m7os7jrrl224" target="_blank">nikkei.com</a> (2025-12-11 14:01:51)</span><span style="padding-right:50px;">Venezuela's Machado defies travel ban, arrives in Oslo to claim Nobel Peace Prize reut.rs/44kzpEV <a href="https://bsky.app/profile/reuters.com/post/3m7os5elt3s2b" target="_blank">reuters.com</a> (2025-12-11 14:00:38)</span><span style="padding-right:50px;">The researchers found that constipation, for example, led to an overabundance of microbes in the gut that produced kidney-harming compounds. <a href="https://bsky.app/profile/nbcnews.com/post/3m7os525n5x2n" target="_blank">nbcnews.com</a> (2025-12-11 14:00:27)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50116.64 (🔻701.75 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48057.75 (🔺483.79 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23654.15 (🔺118.15 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.78 (🔻1.19 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3120.00 (🔻28.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.78 (🔻0.18 : 2025-12-11)</span>
+<span style="padding-right:50px;">NIKKEI: 50176.55 (🔻641.84 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48057.75 (🔺483.79 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23654.15 (🔺118.15 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.78 (🔻1.19 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3127.00 (🔻21.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.88 (🔻0.08 : 2025-12-11)</span>
   </div>
 </div>
 
@@ -32,100 +32,106 @@
 
 ## News Headlines
 
-1.  ラグビー NECグリーンロケッツ東葛が来季からJR東日本が運営へ
-2.  同性婚訴訟　東京高裁の合憲判決　原告側が最高裁に上告
-3.  米国がパレスチナ難民支援機関にテロ関連の制裁を検討
-4.  高市首相　定数削減と献金めぐる法案審議　「国会が決めるべき」
-5.  北朝鮮　報道　「キム総書記　ことしの政策執行状況の成果を総括」
-6.  防災庁設置の基本方針案　自民が了承　各省庁への「勧告権」など
+1.  関西のJAL機がエンジントラブル、函館空港に緊急着陸
+2.  韓国最高裁、日鉄に賠償命じる判決が確定
+3.  米国はパレスチナ難民救済機関にテロ関連制裁を検討
+4.  米国下院が大幅な防衛予算法案を通過
+5.  イタリア料理がUNESCOの文化遺産に登録
+6.  米国でOscarにキャスティング賞が新設
 
 ----
 
-@nhknewsunofficial.bsky.social
+@sokuho.news
 
-ラグビー NECグリーンロケッツ東葛 来季からJR東日本が運営へ
-https://news.web.nhk/newsweb/na/na-k10015000921000
+🛎️JNNより【速報】です。
 
-[2025-12-11 13:48:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7orh2j6cc2u)
+【速報】JAL2823便（丘珠⇒秋田）が上空でエンジントラブル 右のプロペラが停止か 函館空港に優先着陸 けが人なし
+(2025-12-11 13:56:00) #ニュース
+
+[2025-12-11 14:04:38](https://bsky.app/profile/sokuho.news/post/3m7osejad2j2a)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@cnbc.com
 
-同性婚訴訟 東京高裁の合憲判決 原告側が最高裁に上告
-https://news.web.nhk/newsweb/na/na-k10015000931000
+Nvidia supplier SK Hynix eyes U.S. listing as it expands on the AI boom
 
-[2025-12-11 13:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7orgvjbyj2l)
+[2025-12-11 14:02:21](https://bsky.app/profile/cnbc.com/post/3m7osagdbi42x)
+
+---
+
+@nikkei.com
+
+京急電鉄、賞味期限近い食品を割引購入できるロッカー　駅構内に設置（無料記事）
+www.nikkei.com/article/DGXZQO...
+
+京急線金沢文庫駅（横浜市）の構内に「SDGsロッカー」第1号機を設置。
+
+賞味期限内でありながら廃棄される食品を販売することで、食品ロスの削減や廃棄物による二酸化炭素の削減などを目指します。
+
+#ニュース
+
+[2025-12-11 14:01:51](https://bsky.app/profile/nikkei.com/post/3m7os7jrrl224)
 
 ---
 
 @reuters.com
 
-Exclusive: US weighs hitting UN Palestinian refugee agency with terrorism-related sanctions reut.rs/4q0RZKD
+Venezuela's Machado defies travel ban, arrives in Oslo to claim Nobel Peace Prize reut.rs/44kzpEV
 
-[2025-12-11 13:40:12](https://bsky.app/profile/reuters.com/post/3m7oqytku6t2b)
+[2025-12-11 14:00:38](https://bsky.app/profile/reuters.com/post/3m7os5elt3s2b)
+
+---
+
+@nbcnews.com
+
+The researchers found that constipation, for example, led to an overabundance of microbes in the gut that produced kidney-harming compounds.
+
+[2025-12-11 14:00:27](https://bsky.app/profile/nbcnews.com/post/3m7os525n5x2n)
+
+---
+
+@bloomberg.com
+
+President Trump signaled opposition to a Warner Bros. sale that did not see the news network CNN included or sold to a new company, signaling a potential wrinkle for the bid from Netflix
+
+[2025-12-11 14:00:20](https://bsky.app/profile/bloomberg.com/post/3m7os4tec2z2z)
+
+---
+
+@cnbc.com
+
+Only people who are willing and able to see the most challenging tasks through to the end are capable of “building something remarkable,” says Amazon CEO Andy Jassy.
+
+“Virtually everything that’s worth doing takes that type of persistence and resilience,” Jassy recently told Amazon employees.
+
+[2025-12-11 14:00:15](https://bsky.app/profile/cnbc.com/post/3m7os4nuchr2e)
+
+---
+
+@washingtonpost.com
+
+How monogamous are humans, really? It’s an age-old question subject to significant debate. 
+
+Now, a University of Cambridge professor has an answer: Somewhere between the Eurasian beaver and a meerkat.
+
+[2025-12-11 14:00:08](https://bsky.app/profile/washingtonpost.com/post/3m7os4htyxs2e)
 
 ---
 
 @nytimes.com
 
-In @nytopinion.nytimes.com 
+Hours after missing the ceremony in Norway’s capital that awarded her the Nobel Peace Prize, the Venezuelan opposition leader María Corina Machado appeared in the city’s streets after midnight on Thursday, greeting a cheering crowd.
 
-"Subsidies alone aren’t a solution; they simply buy us time," Zack Cooper writes. "The point is to use that time to build a system in which coverage is affordable because care is affordable."
-
-[2025-12-11 13:40:04](https://bsky.app/profile/nytimes.com/post/3m7oqyl7x6s2a)
+[2025-12-11 14:00:05](https://bsky.app/profile/nytimes.com/post/3m7os4efu2s2s)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@aljazeera.com
 
-高市首相 定数削減と献金めぐる法案審議 “国会が決めるべき”
-https://news.web.nhk/newsweb/na/na-k10015000951000
+‘A gesture of love’: Italy’s cuisine joins UNESCO’s cultural heritage list https://aje.io/cqu79o
 
-[2025-12-11 13:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7oqwsnkko2k)
-
----
-
-@nhknewsunofficial.bsky.social
-
-北朝鮮報道 “キム総書記 ことしの政策執行状況の成果を総括”
-https://news.web.nhk/newsweb/na/na-k10015000891000
-
-[2025-12-11 13:36:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7oqrmbyv726)
-
----
-
-@nhknewsunofficial.bsky.social
-
-防災庁設置の基本方針案 自民が了承 各省庁への「勧告権」など
-https://news.web.nhk/newsweb/na/na-k10015000911000
-
-[2025-12-11 13:36:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7oqrhsh442d)
-
----
-
-@nhknewsunofficial.bsky.social
-
-神奈川 綾瀬市で火災か
-https://news.web.nhk/newsweb/na/na-k10015000981000
-
-[2025-12-11 13:33:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7oqm32qg726)
-
----
-
-@cnn.com
-
-A misplaced wire label, the vulnerability of a bridge and other mishaps in protocols likely caused the collapse of Baltimore’s Francis Scott Key Bridge after a large vessel struck it in the spring last year, according to the National Transportation Safety Board. 
-
-[2025-12-11 13:31:01](https://bsky.app/profile/cnn.com/post/3m7oqifvrj72v)
-
----
-
-@reuters.com
-
-Oracle forecasts miss Wall Street targets while spending rises, shares slide 10% reut.rs/4iNWkOO
-
-[2025-12-11 13:30:30](https://bsky.app/profile/reuters.com/post/3m7oqhhu7ep2r)
+[2025-12-11 14:00:04](https://bsky.app/profile/aljazeera.com/post/3m7os4dw33727)
 
 ---
 
