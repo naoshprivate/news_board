@@ -1,9 +1,9 @@
-# [2025-12-12 03:30 updated](2025_12_12.md)
+# [2025-12-12 03:50 updated](2025_12_12.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Breaking News: The Senate deadlocked on proposals to avert rising health care costs, making it all but certain that Affordable Care Act subsidies will expire at the end of the month. <a href="https://bsky.app/profile/nytimes.com/post/3m7q7df5c7o2s" target="_blank">nytimes.com</a> (2025-12-12 03:29:19)</span><span style="padding-right:50px;">NEW: OpenAI announces new ChatGPT model after its "Code Red" scramble <a href="https://bsky.app/profile/axios.com/post/3m7q7bqba4s2a" target="_blank">axios.com</a> (2025-12-12 03:28:23)</span><span style="padding-right:50px;">Texas sued healthcare technology giant Epic Systems, alleging the company’s setup can block parents from accessing their children’s health information. <a href="https://bsky.app/profile/wsj.com/post/3m7q74ngdmg2u" target="_blank">wsj.com</a> (2025-12-12 03:25:32)</span><span style="padding-right:50px;">As Trump misses deportation goals, ICE pushes migrants to give up their cases reut.rs/4pXXz0g <a href="https://bsky.app/profile/reuters.com/post/3m7q745s7l72r" target="_blank">reuters.com</a> (2025-12-12 03:25:16)</span><span style="padding-right:50px;">Breaking: The Senate rejected advancing a bill to prevent health care premiums from spiking next year for millions of Obamacare enrollees. bit.ly/3YnCQqU <a href="https://bsky.app/profile/usatoday.com/post/3m7q73scwiy2l" target="_blank">usatoday.com</a> (2025-12-12 03:25:04)</span>
+<span style="padding-right:50px;">Hundreds of ‘high value’ artefacts stolen from Bristol museum on.ft.com/3KGff1y <a href="https://bsky.app/profile/financialtimes.com/post/3m7qacb2zam2c" target="_blank">financialtimes.com</a> (2025-12-12 03:46:35)</span><span style="padding-right:50px;">Trump pushes for top prosecutor nominee Halligan after judge tosses Comey, James cases <a href="https://bsky.app/profile/cnbc.com/post/3m7qabw5m2p2e" target="_blank">cnbc.com</a> (2025-12-12 03:46:23)</span><span style="padding-right:50px;">Bessent to propose major overhaul of Financial Stability Oversight Council, CNBC reports reut.rs/3KrXCTb <a href="https://bsky.app/profile/reuters.com/post/3m7qaa5r6uj2o" target="_blank">reuters.com</a> (2025-12-12 03:45:24)</span><span style="padding-right:50px;">Trump administration's new quarters feature pilgrims, ditching civil rights theme <a href="https://bsky.app/profile/cnbc.com/post/3m7qa7lfc5p24" target="_blank">cnbc.com</a> (2025-12-12 03:45:05)</span><span style="padding-right:50px;">A Democratic effort to extend federal health-insurance subsidies failed in the Senate. A rival GOP plan funding health accounts also fell short of advancing. on.wsj.com/3MxAp2n <a href="https://bsky.app/profile/wsj.com/post/3m7qa7jhskv2i" target="_blank">wsj.com</a> (2025-12-12 03:45:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48670.11 (🔺587.21 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23514.89 (🔺5.68 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 179.18 (🔻1.09 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.34 (🔻0.62 : 2025-12-11)</span>
+<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48672.62 (🔺589.72 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23566.39 (🔺57.17 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 179.90 (🔻0.38 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.35 (🔻0.61 : 2025-12-11)</span>
   </div>
 </div>
 
@@ -32,123 +32,112 @@
 
 ## News Headlines
 
-Here are six important topics extracted from the news article, with Japanese headlines:
+Here are six important topics with Japanese headlines:
 
-1. 
-ACAサブスディーズの期限切れ
-(Affordable Care Act Subsidies Expire)
+1. (, Bristol Museum no Bijutsu-tōhō ga Ningen ni Nusunda)
 
-The Senate failed to pass a bill to extend the Affordable Care Act subsidies, making it likely that millions of Americans will lose their health insurance coverage.
+Hundreds of 'high-value' artefacts stolen from Bristol museum
 
-2. 
-AIスキャムの問題
-(AI Scam Problem)
+2. (, Trump-shacho wa Jimu-in no Shinsa ni Kōshō suru)
 
-Senators are demanding information from leading artificial intelligence companies about how they handle AI-enabled scams.
+Trump pushes for top prosecutor nominee Halligan after judge tosses Comey, James cases
 
-3. 
-地震発生、津波の心配なし
-(Earthquake Occurs, No Tsunami Warning)
+3. (, Kokusai Keizai Anzen-hōin-kai no Kaikaku ni Mukau Bessent)
 
-A magnitude 4.4 earthquake struck off the coast of Aomori Prefecture, but there is no tsunami warning.
+Bessent to propose major overhaul of Financial Stability Oversight Council
 
-4. 
-健康保険料金の増加
-(Health Insurance Premiums Increase)
+4. (, Shinseki no Yūjō wa Kōhō-sha no Shinsa ni Miwatteru)
 
-The Senate rejected a bill to prevent health care premiums from spiking next year for millions of Obamacare enrollees.
+Protesters interrupted Homeland Security Secretary Kristi Noem as she delivered her opening statement at a House hearing on worldwide threats
 
-5. 
-AIモデルGPT-5.2の発表
-(Announcement of AI Model GPT-5.2)
+5. (, Health Care Subsidies no Jiyō-teki Kessei-ga Mikaeru)
 
-OpenAI announced a new AI model, GPT-5.2, which is better at professional tasks.
+Subsidies for the Affordable Care Act appear set to expire for millions of Americans at the end of the year
 
-6. 
-地震速報の発表
-(Earthquake Alert Announcement)
+6. (, AI-kanri-sha no Chōkoku-kyoku ni Torikku ga Tsūjō-suru)
 
-The Japan Meteorological Agency issued an earthquake alert, warning of a magnitude 4.4 earthquake off the coast of Aomori Prefecture.
+Senators send letters to America’s leading artificial intelligence companies demanding information about how they are handling AI-enabled scams
 
 ----
 
-@nytimes.com
+@financialtimes.com
 
-<strong><span style="color: red;">Breaking News</span>: The Senate deadlocked on proposals to avert rising health care costs, making it all but certain that Affordable Care Act subsidies will expire at the end of the month.</strong>
+Hundreds of ‘high value’ artefacts stolen from Bristol museum on.ft.com/3KGff1y
 
-[2025-12-12 03:29:19](https://bsky.app/profile/nytimes.com/post/3m7q7df5c7o2s)
-
----
-
-@axios.com
-
-NEW: OpenAI announces new ChatGPT model after its "Code Red" scramble
-
-[2025-12-12 03:28:23](https://bsky.app/profile/axios.com/post/3m7q7bqba4s2a)
-
----
-
-@wsj.com
-
-Texas sued healthcare technology giant Epic Systems, alleging the company’s setup can block parents from accessing their children’s health information.
-
-[2025-12-12 03:25:32](https://bsky.app/profile/wsj.com/post/3m7q74ngdmg2u)
-
----
-
-@reuters.com
-
-As Trump misses deportation goals, ICE pushes migrants to give up their cases reut.rs/4pXXz0g
-
-[2025-12-12 03:25:16](https://bsky.app/profile/reuters.com/post/3m7q745s7l72r)
-
----
-
-@usatoday.com
-
-<strong><span style="color: red;">Breaking:</span> The Senate rejected advancing a bill to prevent health care premiums from spiking next year for millions of Obamacare enrollees. bit.ly/3YnCQqU</strong>
-
-[2025-12-12 03:25:04](https://bsky.app/profile/usatoday.com/post/3m7q73scwiy2l)
-
----
-
-@en.afp.com
-
-Heavy rains from Storm Byron have swept across the Palestinian territory, flooding tents and makeshift shelters, bringing yet more hardship to Gaza's residents, nearly all of whom have faced displacement in more than two years of war.  ➡️ u.afp.com/S78J
-
-[2025-12-12 03:24:47](https://bsky.app/profile/en.afp.com/post/3m7q73bpeft2d)
+[2025-12-12 03:46:35](https://bsky.app/profile/financialtimes.com/post/3m7qacb2zam2c)
 
 ---
 
 @cnbc.com
 
-VanEck turns online slang into strategy with 'Degen Economy' ETF
+Trump pushes for top prosecutor nominee Halligan after judge tosses Comey, James cases
 
-[2025-12-12 03:24:28](https://bsky.app/profile/cnbc.com/post/3m7q72qe42c2d)
-
----
-
-@apnews.com
-
-<strong><span style="color: red;">BREAKING:</span> The Senate rejected legislation to extend Affordable Care Act tax credits, as costs are set to rise for millions of Americans in 2026.</strong>
-
-[2025-12-12 03:22:41](https://bsky.app/profile/apnews.com/post/3m7q6xkbvjz2p)
+[2025-12-12 03:46:23](https://bsky.app/profile/cnbc.com/post/3m7qabw5m2p2e)
 
 ---
 
-@npr.org
+@reuters.com
 
-Subsidies for the Affordable Care Act appear set to expire for millions of Americans at the end of the year after competing health care related bills failed to advance in the Senate.
+Bessent to propose major overhaul of Financial Stability Oversight Council, CNBC reports reut.rs/3KrXCTb
 
-[2025-12-12 03:22:22](https://bsky.app/profile/npr.org/post/3m7q6wxothl23)
+[2025-12-12 03:45:24](https://bsky.app/profile/reuters.com/post/3m7qaa5r6uj2o)
+
+---
+
+@cnbc.com
+
+Trump administration's new quarters feature pilgrims, ditching civil rights theme
+
+[2025-12-12 03:45:05](https://bsky.app/profile/cnbc.com/post/3m7qa7lfc5p24)
+
+---
+
+@wsj.com
+
+A Democratic effort to extend federal health-insurance subsidies failed in the Senate. A rival GOP plan funding health accounts also fell short of advancing. on.wsj.com/3MxAp2n
+
+[2025-12-12 03:45:02](https://bsky.app/profile/wsj.com/post/3m7qa7jhskv2i)
+
+---
+
+@financialtimes.com
+
+Oracle investors cast doubt on its knack for divination on.ft.com/4p83AqB
+
+[2025-12-12 03:44:16](https://bsky.app/profile/financialtimes.com/post/3m7qa64v7mr2p)
+
+---
+
+@reuters.com
+
+Chile raises mining investment forecast through 2034 to $105 billion reut.rs/3KU1P20
+
+[2025-12-12 03:40:28](https://bsky.app/profile/reuters.com/post/3m7q7xdn5i22x)
 
 ---
 
 @nbcnews.com
 
-Senators send letters to America’s leading artificial intelligence companies demanding information about how they are handling AI-enabled scams.
+Protesters interrupted Homeland Security Secretary Kristi Noem as she delivered her opening statement at a House hearing on worldwide threats. The protesters held signs and called for an end to Immigration and Customs Enforcement raids.
 
-[2025-12-12 03:20:09](https://bsky.app/profile/nbcnews.com/post/3m7q6sz7nq22x)
+[2025-12-12 03:40:19](https://bsky.app/profile/nbcnews.com/post/3m7q7x3czmj22)
+
+---
+
+@cbsnews.com
+
+A mom pushed for regulations after her baby died from a coin battery. Now, former officials warn cuts could cause more risks.
+
+
+[2025-12-12 03:40:00](https://bsky.app/profile/cbsnews.com/post/3m7q7wjbkwz2i)
+
+---
+
+@wsj.com
+
+A Broadway director goes back home to New Zealand and gets involved in the local musical in this cheery if familiar sitcom. on.wsj.com/48vnDtS
+
+[2025-12-12 03:38:45](https://bsky.app/profile/wsj.com/post/3m7q7ublj6x2s)
 
 ---
 
