@@ -1,9 +1,9 @@
-# [2025-12-11 12:30 updated](2025_12_11.md)
+# [2025-12-11 12:50 updated](2025_12_11.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】V長崎 エジガル・ジュニオの退団発表 在籍5年半で3度の2ケタ得点 J1昇格に貢献 (2025-12-11 12:26:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7on22hpxm2y" target="_blank">sokuho.news</a> (2025-12-11 12:29:18)</span><span style="padding-right:50px;">東京 2人けがの事故 運送会社を道路交通法違反疑いで書類送検 https://news.web.nhk/newsweb/na/na-k10015000841000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7omldemys2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-11 12:21:02)</span><span style="padding-right:50px;">India stock benchmarks set to open higher after Fed rate cut reut.rs/48Sxf0L <a href="https://bsky.app/profile/reuters.com/post/3m7omjzmha72b" target="_blank">reuters.com</a> (2025-12-11 12:20:21)</span><span style="padding-right:50px;">ノーベル平和賞のマチャド氏、オスロに到着　ベネズエラを出国（無料記事） www.nikkei.com/article/DGXZ... <a href="https://bsky.app/profile/nikkei.com/post/3m7omjqkbvy24" target="_blank">nikkei.com</a> (2025-12-11 12:20:11)</span><span style="padding-right:50px;">From @theathletic.com: Michigan fired its football coach, Sherrone Moore, on Wednesday, after the university said he had an “inappropriate relationship” with a staff member. He was later detained by the police, according to news reports. <a href="https://bsky.app/profile/nytimes.com/post/3m7omjjnt7c25" target="_blank">nytimes.com</a> (2025-12-11 12:20:04)</span>
+<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】18兆3000億円規模の補正予算案が衆院予算委員会で可決 (2025-12-11 12:45:54) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7oo5dda4m2y" target="_blank">sokuho.news</a> (2025-12-11 12:49:02)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:千葉県東方沖, 深さ:10km マグニチュード:3.9, 最大震度:2 📍https://www.google.com/maps?q=35.8,141.0&ll=35.8,141.0&z=7&t=h 地震発生日時:2025-12-11 12:43頃 (10倍速▶120s→12s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m7oo27ze3x2s" target="_blank">sokuho.news</a> (2025-12-11 12:47:17)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  12時43分頃、千葉県・茨城県で最大震度2の地震を観測しました。 震源:千葉県東方沖, 深さ:10km, 規模:M3.9 この地震による津波の心配はありません。 (2025-12-11 12:46:48) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/11/2025-12-11-12-43-00.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3m7onzetgvs2e" target="_blank">sokuho.news</a> (2025-12-11 12:46:49)</span><span style="padding-right:50px;">U.S. Attorney General Pam Bondi released a video that is said to show the seizure of a tanker off Venezuela's coast. The video shows two helicopters approaching a vessel and armed individuals in camouflage rappelling onto it. <a href="https://bsky.app/profile/reuters.com/post/3m7onxr2blk2v" target="_blank">reuters.com</a> (2025-12-11 12:45:55)</span><span style="padding-right:50px;">夜中にトイレに行きたくなって目が覚める夜間頻尿は「適正就寝時刻」で改善？ www.nikkei.com/article/DGXZQO...  "早すぎる就寝"が夜間頻尿や中途覚醒の一因になっているのではないか――。  福井大学医学部付属病院の奥村悦久氏は患者さんへのヒアリングで、晩ご飯を食べてすぐ19時台や20時台に床に入ってしまう人がいた点から早すぎる就寝に着目。  「実際、就寝時刻を遅くすると夜間頻尿が改善することもあった」といいます。どういうことなのか、詳しく聞きました。 <a href="https://bsky.app/profile/nikkei.com/post/3m7onxmpl7d2i" target="_blank">nikkei.com</a> (2025-12-11 12:45:51)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50308.89 (🔻509.50 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48057.75 (🔺483.79 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23654.15 (🔺118.15 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.78 (🔻1.19 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3115.00 (🔻33.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.77 (🔻0.19 : 2025-12-11)</span>
+<span style="padding-right:50px;">NIKKEI: 49938.79 (🔻879.60 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48057.75 (🔺483.79 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23654.15 (🔺118.15 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.78 (🔻1.19 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3102.00 (🔻46.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.67 (🔻0.29 : 2025-12-11)</span>
   </div>
 </div>
 
@@ -32,12 +32,12 @@
 
 ## News Headlines
 
-1.  エジガル・ジュニオがV長崎を退団　在籍5年半で3度の2ケタ得点
-2.  東京　2人けがの事故　運送会社を道路交通法違反疑いで書類送検
-3.  ノーベル平和賞のマチャド氏がノルウェーに到着　記者会見へ
-4.  神戸三宮の女性刺殺事件　谷本将志被告を起訴
-5.  中国　日本への渡航自粛を再度呼びかけ　「地震発生」を理由に
-6.  トランプ氏　ウクライナ情勢めぐり　欧州3か国首脳と電話会談
+1. 18兆3000億円規模の補正予算案が衆院予算委員会で可決
+2. 日経平均株価が一時600円超下落、節目の5万円割り込む
+3. カーリング女子、五輪出場決定　8大会連続出場
+4. 地震発生　千葉県・茨城県で最大震度2を観測
+5. ノーベル平和賞のマチャド氏がノルウェー首都に到着、記者会見へ
+6. 交通安全教育の指針を初めてまとめる　警察庁が「指導要領」を策定
 
 ----
 
@@ -45,83 +45,77 @@
 
 🛎️JNNより【速報】です。
 
-【速報】V長崎 エジガル・ジュニオの退団発表 在籍5年半で3度の2ケタ得点 J1昇格に貢献
-(2025-12-11 12:26:00) #ニュース
+【速報】18兆3000億円規模の補正予算案が衆院予算委員会で可決
+(2025-12-11 12:45:54) #ニュース
 
-[2025-12-11 12:29:18](https://bsky.app/profile/sokuho.news/post/3m7on22hpxm2y)
+[2025-12-11 12:49:02](https://bsky.app/profile/sokuho.news/post/3m7oo5dda4m2y)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@sokuho.news
 
-東京 2人けがの事故 運送会社を道路交通法違反疑いで書類送検
-https://news.web.nhk/newsweb/na/na-k10015000841000
+🔔防災科研より【強震モニタ】動画です。
 
-[2025-12-11 12:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7omldemys2m)
+震源:千葉県東方沖, 深さ:10km
+マグニチュード:3.9, 最大震度:2
+📍https://www.google.com/maps?q=35.8,141.0&ll=35.8,141.0&z=7&t=h
+地震発生日時:2025-12-11 12:43頃
+(10倍速▶120s→12s) #地震
+
+[2025-12-11 12:47:17](https://bsky.app/profile/sokuho.news/post/3m7oo27ze3x2s)
+
+---
+
+@sokuho.news
+
+🔔気象庁より【地震速報】です。
+
+12時43分頃、千葉県・茨城県で最大震度2の地震を観測しました。
+震源:千葉県東方沖, 深さ:10km, 規模:M3.9
+この地震による津波の心配はありません。
+(2025-12-11 12:46:48) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/11/2025-12-11-12-43-00.html?xlarge_image=1
+
+[2025-12-11 12:46:49](https://bsky.app/profile/sokuho.news/post/3m7onzetgvs2e)
 
 ---
 
 @reuters.com
 
-India stock benchmarks set to open higher after Fed rate cut reut.rs/48Sxf0L
+U.S. Attorney General Pam Bondi released a video that is said to show the seizure of a tanker off Venezuela's coast. The video shows two helicopters approaching a vessel and armed individuals in camouflage rappelling onto it.
 
-[2025-12-11 12:20:21](https://bsky.app/profile/reuters.com/post/3m7omjzmha72b)
+[2025-12-11 12:45:55](https://bsky.app/profile/reuters.com/post/3m7onxr2blk2v)
 
 ---
 
 @nikkei.com
 
-ノーベル平和賞のマチャド氏、オスロに到着　ベネズエラを出国（無料記事）
-www.nikkei.com/article/DGXZ...
+夜中にトイレに行きたくなって目が覚める夜間頻尿は「適正就寝時刻」で改善？
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-11 12:20:11](https://bsky.app/profile/nikkei.com/post/3m7omjqkbvy24)
+"早すぎる就寝"が夜間頻尿や中途覚醒の一因になっているのではないか――。
 
----
+福井大学医学部付属病院の奥村悦久氏は患者さんへのヒアリングで、晩ご飯を食べてすぐ19時台や20時台に床に入ってしまう人がいた点から早すぎる就寝に着目。
 
-@nytimes.com
+「実際、就寝時刻を遅くすると夜間頻尿が改善することもあった」といいます。どういうことなのか、詳しく聞きました。
 
-From @theathletic.com: Michigan fired its football coach, Sherrone Moore, on Wednesday, after the university said he had an “inappropriate relationship” with a staff member. He was later detained by the police, according to news reports.
-
-[2025-12-11 12:20:04](https://bsky.app/profile/nytimes.com/post/3m7omjjnt7c25)
+[2025-12-11 12:45:51](https://bsky.app/profile/nikkei.com/post/3m7onxmpl7d2i)
 
 ---
 
-@sokuho.news
+@cnn.com
 
-🛎️JNNより【速報】です。
+President Donald Trump officially launches his “gold card” visa, an immigration pathway that will allow foreigners to pay $1 million to expedite their visa application: https://cnn.it/3XOwIHZ 
 
-【速報】神戸三宮の女性刺殺事件 谷本将志被告を起訴 鑑定留置終える
-(2025-12-11 12:16:50) #ニュース
-
-[2025-12-11 12:18:16](https://bsky.app/profile/sokuho.news/post/3m7omgd42le26)
+[2025-12-11 12:45:01](https://bsky.app/profile/cnn.com/post/3m7onw5ryhz23)
 
 ---
 
-@sokuho.news
+@axios.com
 
-🛎️FNNより【速報】です。
+NEW: Venezuelan opposition leader María Corina Machado has arrived in Oslo in her first public appearance in 11 months, hours after her daughter accepted the Nobel Peace Prize in Norway's capital on her behalf.
 
-【速報】神戸女性刺殺事件 男を殺人などの罪で起訴 神戸地検
-(2025-12-11 12:07) #ニュース
-
-[2025-12-11 12:16:34](https://bsky.app/profile/sokuho.news/post/3m7omdbfhsa2z)
-
----
-
-@nhknewsunofficial.bsky.social
-
-株価 値下がり 輸出関連の銘柄などに売り注文
-https://news.web.nhk/newsweb/na/na-k10015000861000
-
-[2025-12-11 12:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7omamajp32v)
-
----
-
-@usatoday.com
-
-<strong><span style="color: red;">JUST IN:</span> The 58-year-old engineer had secretly left Venezuela for Norway in defiance of a decade-long travel ban imposed by authorities in her home country.</strong>
-
-[2025-12-11 12:12:01](https://bsky.app/profile/usatoday.com/post/3m7om34qp4m2f)
+[2025-12-11 12:45:00](https://bsky.app/profile/axios.com/post/3m7onw4lczk2q)
 
 ---
 
@@ -129,10 +123,39 @@ https://news.web.nhk/newsweb/na/na-k10015000861000
 
 🛎️JNNより【速報】です。
 
-【速報】中国外務省が日本への渡航自粛を再度呼びかけ 今度は「地震発生」を理由に
-(2025-12-11 11:50:43) #地震
+【速報】日経平均株価 一時600円超下落 節目の5万円割り込む
+(2025-12-11 12:43:51) #ニュース
 
-[2025-12-11 12:11:37](https://bsky.app/profile/sokuho.news/post/3m7om2g75u52r)
+📉世界の株価
+🔗https://sekai-kabuka.com/
+
+[2025-12-11 12:44:35](https://bsky.app/profile/sokuho.news/post/3m7onvf46w22e)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗
+
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像6🈡
+(2025-12-11 12:43:34) #緊急地震速報
+
+[2025-12-11 12:44:03](https://bsky.app/profile/sokuho.news/post/3m7onufqrus2y)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗
+
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像5
+(2025-12-11 12:43:30) #緊急地震速報
+
+[2025-12-11 12:43:42](https://bsky.app/profile/sokuho.news/post/3m7ontsfbhf25)
 
 ---
 
