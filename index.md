@@ -1,9 +1,9 @@
-# [2025-12-11 23:30 updated](2025_12_11.md)
+# [2025-12-11 23:50 updated](2025_12_11.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">VIDEO: 🇳🇴 🇻🇪 Venezuelan opposition leader emerges from hiding after winning Nobel Peace Prize  Nobel Peace laureate Maria Corina Machado has said she will do her best to return to Venezuela to end the "tyranny" in the country, as she seized the spotlight in Oslo after nearly a year in hiding <a href="https://bsky.app/profile/en.afp.com/post/3m7pruon2d62k" target="_blank">en.afp.com</a> (2025-12-11 23:28:27)</span><span style="padding-right:50px;"> n.pr/3YkHtlt <a href="https://bsky.app/profile/npr.org/post/3m7prujc5v324" target="_blank">npr.org</a> (2025-12-11 23:28:21)</span><span style="padding-right:50px;">Bulgarian PM Rosen Zhelyazkov resigns weeks ahead of entry to euro on.ft.com/4p7xxHj <a href="https://bsky.app/profile/financialtimes.com/post/3m7prtlaecg2w" target="_blank">financialtimes.com</a> (2025-12-11 23:27:49)</span><span style="padding-right:50px;">Powell bets big on productivity boost rescuing boxed-in Fed reut.rs/3MwzkIf <a href="https://bsky.app/profile/reuters.com/post/3m7prorssia2x" target="_blank">reuters.com</a> (2025-12-11 23:25:09)</span><span style="padding-right:50px;">Home prices go negative for the first time in over 2 years — and may stay that way for a while <a href="https://bsky.app/profile/cnbc.com/post/3m7pro52g332x" target="_blank">cnbc.com</a> (2025-12-11 23:24:47)</span>
+<span style="padding-right:50px;">Walton family fortune: How American's richest family manages their wealth <a href="https://bsky.app/profile/cnbc.com/post/3m7psv5us652p" target="_blank">cnbc.com</a> (2025-12-11 23:46:36)</span><span style="padding-right:50px;">Eagles not sounding alarms ahead of Raiders matchup despite skid reut.rs/4oMzp80 <a href="https://bsky.app/profile/reuters.com/post/3m7psstmndi2i" target="_blank">reuters.com</a> (2025-12-11 23:45:18)</span><span style="padding-right:50px;">Disney on Thursday announced it will make a $1 billion equity investment in OpenAI and will allow users to make videos with its copyrighted characters — across Disney, Marvel, Pixar and Star Wars — on Sora.  Full details: cnb.cx/495Uk16 <a href="https://bsky.app/profile/cnbc.com/post/3m7psseqa5e2b" target="_blank">cnbc.com</a> (2025-12-11 23:45:03)</span><span style="padding-right:50px;">Tom Lee sees S&P 500 hitting 7,700 in 2026, extending bull market to fourth year <a href="https://bsky.app/profile/cnbc.com/post/3m7psr3efii2g" target="_blank">cnbc.com</a> (2025-12-11 23:44:20)</span><span style="padding-right:50px;">LIVE: Portugal's unions call general strike youtube.com/live/sSI19uI... <a href="https://bsky.app/profile/reuters.com/post/3m7psq25rok26" target="_blank">reuters.com</a> (2025-12-11 23:43:45)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48104.72 (🔺21.82 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23654.16 (🔺118.16 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 180.20 (🔻0.07 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.06 (🔻0.90 : 2025-12-11)</span>
+<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48275.80 (🔺192.90 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23386.82 (🔻122.40 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 177.62 (🔻2.65 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.05 (🔻0.91 : 2025-12-11)</span>
   </div>
 </div>
 
@@ -30,87 +30,87 @@
 
 ---
 
-@en.afp.com
+@cnbc.com
 
-VIDEO: 🇳🇴 🇻🇪 Venezuelan opposition leader emerges from hiding after winning Nobel Peace Prize
+Walton family fortune: How American's richest family manages their wealth
 
-Nobel Peace laureate Maria Corina Machado has said she will do her best to return to Venezuela to end the "tyranny" in the country, as she seized the spotlight in Oslo after nearly a year in hiding
-
-[2025-12-11 23:28:27](https://bsky.app/profile/en.afp.com/post/3m7pruon2d62k)
-
----
-
-@npr.org
-
- n.pr/3YkHtlt
-
-[2025-12-11 23:28:21](https://bsky.app/profile/npr.org/post/3m7prujc5v324)
-
----
-
-@financialtimes.com
-
-Bulgarian PM Rosen Zhelyazkov resigns weeks ahead of entry to euro on.ft.com/4p7xxHj
-
-[2025-12-11 23:27:49](https://bsky.app/profile/financialtimes.com/post/3m7prtlaecg2w)
+[2025-12-11 23:46:36](https://bsky.app/profile/cnbc.com/post/3m7psv5us652p)
 
 ---
 
 @reuters.com
 
-Powell bets big on productivity boost rescuing boxed-in Fed reut.rs/3MwzkIf
+Eagles not sounding alarms ahead of Raiders matchup despite skid reut.rs/4oMzp80
 
-[2025-12-11 23:25:09](https://bsky.app/profile/reuters.com/post/3m7prorssia2x)
+[2025-12-11 23:45:18](https://bsky.app/profile/reuters.com/post/3m7psstmndi2i)
 
 ---
 
 @cnbc.com
 
-Home prices go negative for the first time in over 2 years — and may stay that way for a while
+Disney on Thursday announced it will make a $1 billion equity investment in OpenAI and will allow users to make videos with its copyrighted characters — across Disney, Marvel, Pixar and Star Wars — on Sora.
 
-[2025-12-11 23:24:47](https://bsky.app/profile/cnbc.com/post/3m7pro52g332x)
+Full details: cnb.cx/495Uk16
 
----
-
-@financialtimes.com
-
-Disney to invest $1bn into OpenAI on.ft.com/4rN51xb
-
-[2025-12-11 23:23:19](https://bsky.app/profile/financialtimes.com/post/3m7prlj4rom2o)
+[2025-12-11 23:45:03](https://bsky.app/profile/cnbc.com/post/3m7psseqa5e2b)
 
 ---
 
-@financialtimes.com
+@cnbc.com
 
- How to bring UK energy costs down on.ft.com/44X6nLN  | opinion
+Tom Lee sees S&P 500 hitting 7,700 in 2026, extending bull market to fourth year
 
-[2025-12-11 23:20:39](https://bsky.app/profile/financialtimes.com/post/3m7prgqldri2b)
+[2025-12-11 23:44:20](https://bsky.app/profile/cnbc.com/post/3m7psr3efii2g)
+
+---
+
+@reuters.com
+
+LIVE: Portugal's unions call general strike youtube.com/live/sSI19uI...
+
+[2025-12-11 23:43:45](https://bsky.app/profile/reuters.com/post/3m7psq25rok26)
+
+---
+
+@wsj.com
+
+Ukraine and its European allies sent President Trump a response to his team’s earlier peace plan in an effort to accelerate cease-fire talks with Russia, but big gaps remain.
+
+[2025-12-11 23:42:50](https://bsky.app/profile/wsj.com/post/3m7psogaqq52o)
+
+---
+
+@cnbc.com
+
+Commerce Secretary Howard Lutnick said Thursday that the U.S. should focus on bringing in immigrants that help grow the economy as the White House rolls out its long-awaited “gold card” visa.
+
+Read more: cnb.cx/4aQiHB8
+
+[2025-12-11 23:42:16](https://bsky.app/profile/cnbc.com/post/3m7psnfvxyc2i)
 
 ---
 
 @nbcnews.com
 
-Indiana state senators will decide the fate of a Republican-drawn congressional map, settling a divisive, monthslong clash between GOP lawmakers who have resisted the redistricting push and President Trump, who has urged them to forge ahead.
+The Walt Disney Company announces it has reached a three-year agreement with OpenAI to bring its popular characters to the company's Sora AI video generator.
 
-[2025-12-11 23:20:20](https://bsky.app/profile/nbcnews.com/post/3m7prg6kqla2u)
-
----
-
-@washingtonpost.com
-
-Time magazine named “the Architects of AI” the 2025 person of the year.
-
-“We recognize a force that has dominated the year’s headlines, for better or for worse,” editor in chief Sam Jacobs writes in explaining the magazine’s choice.
-
-[2025-12-11 23:20:05](https://bsky.app/profile/washingtonpost.com/post/3m7prfqdvur2e)
+[2025-12-11 23:40:22](https://bsky.app/profile/nbcnews.com/post/3m7psjyhhvr26)
 
 ---
 
-@cnbc.com
+@reuters.com
 
-Art Basel Miami sees strong attendance and sales as art market recovers
+Jaguars continue playoff push, Jets' plan jumbled by injuries reut.rs/3KFN3Mk
 
-[2025-12-11 23:18:13](https://bsky.app/profile/cnbc.com/post/3m7prcf4g5y2y)
+[2025-12-11 23:40:19](https://bsky.app/profile/reuters.com/post/3m7psjw4vrj24)
+
+---
+
+@nytimes.com
+
+The police in southwestern England are searching for four people in connection with the theft of more than 600 artifacts from the Bristol Museum’s British Empire and Commonwealth collection, in what the authorities described as a “high-value burglary.”
+
+[2025-12-11 23:40:04](https://bsky.app/profile/nytimes.com/post/3m7psjhm2ns2r)
 
 ---
 
