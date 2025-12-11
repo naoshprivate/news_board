@@ -1,9 +1,9 @@
-# [2025-12-12 01:30 updated](2025_12_12.md)
+# [2025-12-12 01:50 updated](2025_12_12.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">With ACA tax credits set to expire, Sen. Jeanne Shaheen says premiums are "doubling, tripling" and warns "millions" could lose coverage if Congress fails to act. <a href="https://bsky.app/profile/npr.org/post/3m7pyh6ang42b" target="_blank">npr.org</a> (2025-12-12 01:26:09)</span><span style="padding-right:50px;">China promises fiscal boost next year, recognises 'prominent' imbalance reut.rs/48yyFyD <a href="https://bsky.app/profile/reuters.com/post/3m7pyfsqdnw2c" target="_blank">reuters.com</a> (2025-12-12 01:25:24)</span><span style="padding-right:50px;">Disney announced an agreement to bring its characters to Sora, OpenAI’s short-form video platform. Videos made with the tech will be available to stream on Disney+ under the three-year deal, which does not include any talent likeness or voices. nyti.ms/4rOyYN4 <a href="https://bsky.app/profile/nytimes.com/post/3m7pyf773z725" target="_blank">nytimes.com</a> (2025-12-12 01:25:03)</span><span style="padding-right:50px;">JUST IN: Judge orders Kilmar Abrego Garcia to be immediately released from ICE custody, the latest twist in the Maryland man’s deportation case.  <a href="https://bsky.app/profile/nbcnews.com/post/3m7py6lt7452q" target="_blank">nbcnews.com</a> (2025-12-12 01:21:22)</span><span style="padding-right:50px;">Oracle stock sinks as AI costs jump past Wall Street estimates <a href="https://bsky.app/profile/yahoofinance.com/post/3m7py63g4l72v" target="_blank">yahoofinance.com</a> (2025-12-12 01:21:04)</span>
+<span style="padding-right:50px;">Nobel Peace laureate Maria Corina Machado said on Thursday that the United States helped her get to Norway from hiding in Venezuela, expressing support for US military action against her country and vowing to return home ➡️ u.afp.com/S77V <a href="https://bsky.app/profile/en.afp.com/post/3m7pzkpr3g72u" target="_blank">en.afp.com</a> (2025-12-12 01:46:02)</span><span style="padding-right:50px;">Turkey cenbank cuts rates 150 pts to 38% on 'improving' signals reut.rs/44jo8Vw <a href="https://bsky.app/profile/reuters.com/post/3m7pzjfqfpm2b" target="_blank">reuters.com</a> (2025-12-12 01:45:18)</span><span style="padding-right:50px;">Study finds crime rose nearly 18% in some Chicago neighborhoods when rental scooters were introduced. on.wsj.com/4922Yhb <a href="https://bsky.app/profile/wsj.com/post/3m7pzhfo4ly2k" target="_blank">wsj.com</a> (2025-12-12 01:44:11)</span><span style="padding-right:50px;">#BREAKING Zelensky says there should be Ukrainian election or referendum over any potential compromise on territory <a href="https://bsky.app/profile/en.afp.com/post/3m7pzclwrym2f" target="_blank">en.afp.com</a> (2025-12-12 01:41:30)</span><span style="padding-right:50px;">Ukraine hits Russian oil rig in Caspian Sea for first time, official says reut.rs/4q1eLSq <a href="https://bsky.app/profile/reuters.com/post/3m7pzajb3yl2y" target="_blank">reuters.com</a> (2025-12-12 01:40:20)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48539.35 (🔺456.45 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23396.71 (🔻112.51 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 177.16 (🔻3.11 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.25 (🔻0.71 : 2025-12-11)</span>
+<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48617.99 (🔺535.09 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23451.82 (🔻57.40 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 177.76 (🔻2.51 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.19 (🔻0.77 : 2025-12-11)</span>
   </div>
 </div>
 
@@ -34,92 +34,98 @@
 
 Here are six important topics with Japanese headlines:
 
-1. ACA税証明書の期限切れに伴う健康保険料の増加に警鐘を鳴らす - Sen. Jeanne Shaheen Warns of Rising Health Insurance Premiums Due to ACA Tax Credit Expiration
-2. トランプ政権が Obamacare 健康保険料の削減を画策 - Trump Administration Aims to Cut Obamacare Health Insurance Subsidies
-3. Disneyが Sora の短編動画プラットフォームにキャラクターを導入 - Disney Brings Characters to Sora's Short-Form Video Platform
-4. 中華人民共和国が財政的支援を計画 - China Plans Fiscal Boost Next Year
-5. Oracle が AI のコスト増に伴い株価が低下 - Oracle Stock Falls as AI Costs Jump Past Estimates
-6. ペルー大統領選挙で Keiko Fujimori が勝利 - Keiko Fujimori Wins Peru's Presidential Election
+1. USの支援を受けたノーベル平和賞受賞者がベネズエラに帰国に決意
+Maria Corina Machado, a Nobel Peace laureate, said she will return to Venezuela after receiving support from the US.
+2. トルコの金融当局、利率を150ポイント下げる
+The Central Bank of Turkey cut interest rates by 150 points to 38%.
+3. シカゴの rent scooter導入後、犯罪率が18%上昇
+A study found that crime rates rose nearly 18% in some Chicago neighborhoods after the introduction of rental scooters.
+4. ウクライナ、ロシアの石油 rigsを攻撃
+Ukraine attacked a Russian oil rig in the Caspian Sea for the first time, according to an official.
+5. ICEの不法拘束を無効の判断、移民の釈放を命じる
+A judge ruled that ICE's detention of Kilmar Abrego Garcia was unlawful and ordered his immediate release.
+6. Disney、OpenAIに1億ドルの投資を発表
+Disney announced a $1 billion investment in OpenAI, a developer of AI technology, under a new commercial partnership.
 
 ----
 
-@npr.org
+@en.afp.com
 
-With ACA tax credits set to expire, Sen. Jeanne Shaheen says premiums are "doubling, tripling" and warns "millions" could lose coverage if Congress fails to act.
+Nobel Peace laureate Maria Corina Machado said on Thursday that the United States helped her get to Norway from hiding in Venezuela, expressing support for US military action against her country and vowing to return home ➡️ u.afp.com/S77V
 
-[2025-12-12 01:26:09](https://bsky.app/profile/npr.org/post/3m7pyh6ang42b)
+[2025-12-12 01:46:02](https://bsky.app/profile/en.afp.com/post/3m7pzkpr3g72u)
 
 ---
 
 @reuters.com
 
-China promises fiscal boost next year, recognises 'prominent' imbalance reut.rs/48yyFyD
+Turkey cenbank cuts rates 150 pts to 38% on 'improving' signals reut.rs/44jo8Vw
 
-[2025-12-12 01:25:24](https://bsky.app/profile/reuters.com/post/3m7pyfsqdnw2c)
-
----
-
-@nytimes.com
-
-Disney announced an agreement to bring its characters to Sora, OpenAI’s short-form video platform. Videos made with the tech will be available to stream on Disney+ under the three-year deal, which does not include any talent likeness or voices. nyti.ms/4rOyYN4
-
-[2025-12-12 01:25:03](https://bsky.app/profile/nytimes.com/post/3m7pyf773z725)
-
----
-
-@nbcnews.com
-
-<strong><span style="color: red;">JUST IN:</span> Judge orders Kilmar Abrego Garcia to be immediately released from ICE custody, the latest twist in the Maryland man’s deportation case. </strong>
-
-[2025-12-12 01:21:22](https://bsky.app/profile/nbcnews.com/post/3m7py6lt7452q)
-
----
-
-@yahoofinance.com
-
-Oracle stock sinks as AI costs jump past Wall Street estimates
-
-[2025-12-12 01:21:04](https://bsky.app/profile/yahoofinance.com/post/3m7py63g4l72v)
-
----
-
-@nbcnews.com
-
-Torrential rain sweeps across the Gaza Strip, flooding hundreds of tents sheltering families displaced by two years of war, and leading to the death of a baby girl due to exposure, local health officials say.
-
-[2025-12-12 01:20:28](https://bsky.app/profile/nbcnews.com/post/3m7py4ysrvz23)
-
----
-
-@yahoonews.com
-
-President Trump inserted himself directly into the battle for control of Warner Bros. Discovery on Wednesday, saying, “It’s imperative that CNN be sold,” while deriding the network’s news coverage. yhoo.it/48xG8hd
-
-[2025-12-12 01:20:08](https://bsky.app/profile/yahoonews.com/post/3m7py4figxl22)
+[2025-12-12 01:45:18](https://bsky.app/profile/reuters.com/post/3m7pzjfqfpm2b)
 
 ---
 
 @wsj.com
 
-Two exhibitions, ‘Of Light and Air: Winslow Homer in Watercolor’ and ‘American Landscapes in Watercolor From the Corcoran Collection,’ offer glimmering views of the medium’s history. on.wsj.com/4rSzLws
+Study finds crime rose nearly 18% in some Chicago neighborhoods when rental scooters were introduced. on.wsj.com/4922Yhb
 
-[2025-12-12 01:17:11](https://bsky.app/profile/wsj.com/post/3m7pxx4ojtl2h)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Killer whales and dolphins seen hunting together in rare video
-
-[2025-12-12 01:16:54](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7pxwmxlil2x)
+[2025-12-12 01:44:11](https://bsky.app/profile/wsj.com/post/3m7pzhfo4ly2k)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@en.afp.com
 
-Thousands ready to evacuate as flooding hits Pacific Northwest
+<strong><span style="color: red;">#BREAKING</span> Zelensky says there should be Ukrainian election or referendum over any potential compromise on territory</strong>
 
-[2025-12-12 01:15:49](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7pxupnh3l2z)
+[2025-12-12 01:41:30](https://bsky.app/profile/en.afp.com/post/3m7pzclwrym2f)
+
+---
+
+@reuters.com
+
+Ukraine hits Russian oil rig in Caspian Sea for first time, official says reut.rs/4q1eLSq
+
+[2025-12-12 01:40:20](https://bsky.app/profile/reuters.com/post/3m7pzajb3yl2y)
+
+---
+
+@forbes.com
+
+District Court Judge Paula Xinis ruled that Abrego Garcia was “re-detained” by ICE “without lawful authority” after his return from El Salvador.
+
+[2025-12-12 01:40:04](https://bsky.app/profile/forbes.com/post/3m7pza2ahvk2f)
+
+---
+
+@nytimes.com
+
+This spicy, creamy pasta sauce captures the soul-soothing essence of a long-simmering Bolognese even though it cooks quickly. It is one of our most popular recipes of 2025. nyti.ms/494grnJ
+
+[2025-12-12 01:39:05](https://bsky.app/profile/nytimes.com/post/3m7pz6bne4k25)
+
+---
+
+@axios.com
+
+NEW: ICE must release Abrego Garcia from custody, judge says
+
+[2025-12-12 01:37:08](https://bsky.app/profile/axios.com/post/3m7pz2s2g6c2e)
+
+---
+
+@cnbc.com
+
+Disney's OpenAI stake is 'a way in' to AI and Sora will help reach younger audience, Iger tells CNBC
+
+[2025-12-12 01:36:35](https://bsky.app/profile/cnbc.com/post/3m7pyzsx6mb25)
+
+---
+
+@reuters.com
+
+Buffett set to hand Berkshire baton to Abel, who has a tough act to follow reut.rs/48Pu1eq
+
+[2025-12-12 01:35:08](https://bsky.app/profile/reuters.com/post/3m7pyxaeufr2r)
 
 ---
 
