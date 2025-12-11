@@ -1,9 +1,9 @@
-# [2025-12-12 04:10 updated](2025_12_12.md)
+# [2025-12-12 04:30 updated](2025_12_12.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The song, which came out in 1994 and first hit the top 10 in 2017, has now led the chart for the last seven holiday seasons. n.pr/4iQWIMH <a href="https://bsky.app/profile/npr.org/post/3m7qbifujgc2e" target="_blank">npr.org</a> (2025-12-12 04:07:55)</span><span style="padding-right:50px;">Apollo CEO says some AI fortunes may be lost <a href="https://bsky.app/profile/yahoofinance.com/post/3m7qbfgbrxi2x" target="_blank">yahoofinance.com</a> (2025-12-12 04:06:14)</span><span style="padding-right:50px;">TSX ticks up as mining gains outweigh tech selloff reut.rs/48yqnGR <a href="https://bsky.app/profile/reuters.com/post/3m7qbdlz3k52y" target="_blank">reuters.com</a> (2025-12-12 04:05:13)</span><span style="padding-right:50px;">The case for more Fed rate cuts could rest on a 'systemic overcount' of jobs numbers <a href="https://bsky.app/profile/cnbc.com/post/3m7qbbroxkl2p" target="_blank">cnbc.com</a> (2025-12-12 04:04:12)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:石狩地方北部, 深さ:10km マグニチュード:3.0, 最大震度:2 📍https://www.google.com/maps?q=43.4,141.6&ll=43.4,141.6&z=7&t=h 地震発生日時:2025-12-12 03:59頃 (10倍速▶120s→12s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m7qb6puh3y2b" target="_blank">sokuho.news</a> (2025-12-12 04:02:30)</span>
+<span style="padding-right:50px;">The State Department is swapping out Calibri for Times New Roman in all its official documents, reversing a Biden-era change that aimed to increase accessibility for readers with disabilities. n.pr/4oSF4cx <a href="https://bsky.app/profile/npr.org/post/3m7qci3oqj32m" target="_blank">npr.org</a> (2025-12-12 04:25:38)</span><span style="padding-right:50px;">Dollarama raises sales forecast on solid demand for cheaper household essentials reut.rs/4rSCndW <a href="https://bsky.app/profile/reuters.com/post/3m7qchezjoq2y" target="_blank">reuters.com</a> (2025-12-12 04:25:14)</span><span style="padding-right:50px;">Since the Gaza ceasefire was declared on October 10, Israel has violated the agreement with near-daily attacks, killing at least 383 Palestinians and injuring 1,002.  In total, Israel’s genocidal war has killed at least 70,373 people and wounded 171,079.  #Infograph <a href="https://bsky.app/profile/aljazeera.com/post/3m7qcfewqd227" target="_blank">aljazeera.com</a> (2025-12-12 04:24:07)</span><span style="padding-right:50px;">Mortgage rates inched up last week but remain near year-to-date lows <a href="https://bsky.app/profile/yahoofinance.com/post/3m7qcak7qpg2q" target="_blank">yahoofinance.com</a> (2025-12-12 04:21:25)</span><span style="padding-right:50px;">MyPillow CEO Mike Lindell, a longtime backer of President Trump who spread debunked conspiracy theories about the 2020 presidential election, announces that he’ll run for governor in Minnesota next year. <a href="https://bsky.app/profile/nbcnews.com/post/3m7qc6dpeqo2p" target="_blank">nbcnews.com</a> (2025-12-12 04:20:11)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48654.85 (🔺571.95 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23558.68 (🔺49.46 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.05 (🔻0.22 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.48 (🔻0.49 : 2025-12-11)</span>
+<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48697.05 (🔺614.15 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23593.51 (🔺84.29 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.91 (🔺0.63 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.45 (🔻0.51 : 2025-12-11)</span>
   </div>
 </div>
 
@@ -32,106 +32,110 @@
 
 ## News Headlines
 
-Here are six important topics with Japanese titles:
+Here are the six important topics with Japanese headlines:
 
-1. AIの意味 - What does AI mean?
-2. 津波の心配ない地震 - Earthquake with no tsunami warning
-3. 健康保険の危機 - Healthcare crisis
-4. 石狩地方で最大震度2の地震 - Magnitude 3.0 earthquake with a maximum intensity of 2 in the Ishikari region
-5. 新しいチャットAIモデル発表 - New ChatAI model announced
-6. 人々が高齢化する時代 - The era of people's aging
+1. 「イスラエル、ガザで大量の死傷者を出さないと警告」
+Since the Gaza ceasefire was declared on October 10, Israel has violated the agreement with near-daily attacks, killing at least 383 Palestinians and injuring 1,002.
+
+2. 「ドルラマ、売り上げ予測を上げる」
+Dollarama raises sales forecast on solid demand for cheaper household essentials.
+
+3. 「連邦準備委員会、米国初のAI投資家」
+The number of Americans applying for unemployment benefits jumped last week, but remain in the same historically healthy range of the past few years despite growing concern over the health of the labor market.
+
+4. 「マイパイロンワン、ミネソタ州知事選挙に立候補」
+MyPillow CEO Mike Lindell, a longtime backer of President Trump who spread debunked conspiracy theories about the 2020 presidential election, announces that he’ll run for governor in Minnesota next year.
+
+5. 「シリコンバレー、IPOブームに備える」
+Get ready for a spectacular IPO boom from the big beasts of Silicon Valley.
+
+6. 「アメリカ、観光客数が増加」
+Why single-income households are 'a bygone era,' according to experts.
 
 ----
 
 @npr.org
 
-The song, which came out in 1994 and first hit the top 10 in 2017, has now led the chart for the last seven holiday seasons. n.pr/4iQWIMH
+The State Department is swapping out Calibri for Times New Roman in all its official documents, reversing a Biden-era change that aimed to increase accessibility for readers with disabilities. n.pr/4oSF4cx
 
-[2025-12-12 04:07:55](https://bsky.app/profile/npr.org/post/3m7qbifujgc2e)
+[2025-12-12 04:25:38](https://bsky.app/profile/npr.org/post/3m7qci3oqj32m)
+
+---
+
+@reuters.com
+
+Dollarama raises sales forecast on solid demand for cheaper household essentials reut.rs/4rSCndW
+
+[2025-12-12 04:25:14](https://bsky.app/profile/reuters.com/post/3m7qchezjoq2y)
+
+---
+
+@aljazeera.com
+
+Since the Gaza ceasefire was declared on October 10, Israel has violated the agreement with near-daily attacks, killing at least 383 Palestinians and injuring 1,002.
+
+In total, Israel’s genocidal war has killed at least 70,373 people and wounded 171,079.
+
+#Infograph
+
+[2025-12-12 04:24:07](https://bsky.app/profile/aljazeera.com/post/3m7qcfewqd227)
 
 ---
 
 @yahoofinance.com
 
-Apollo CEO says some AI fortunes may be lost
+Mortgage rates inched up last week but remain near year-to-date lows
 
-[2025-12-12 04:06:14](https://bsky.app/profile/yahoofinance.com/post/3m7qbfgbrxi2x)
+[2025-12-12 04:21:25](https://bsky.app/profile/yahoofinance.com/post/3m7qcak7qpg2q)
 
 ---
 
-@reuters.com
+@nbcnews.com
 
-TSX ticks up as mining gains outweigh tech selloff reut.rs/48yqnGR
+MyPillow CEO Mike Lindell, a longtime backer of President Trump who spread debunked conspiracy theories about the 2020 presidential election, announces that he’ll run for governor in Minnesota next year.
 
-[2025-12-12 04:05:13](https://bsky.app/profile/reuters.com/post/3m7qbdlz3k52y)
+[2025-12-12 04:20:11](https://bsky.app/profile/nbcnews.com/post/3m7qc6dpeqo2p)
+
+---
+
+@cbsnews.com
+
+Minnesota fraud case is biggest among many multimillion-dollar pandemic scams. Here are the 10 most costly.
+
+
+[2025-12-12 04:20:00](https://bsky.app/profile/cbsnews.com/post/3m7qc5znxj32b)
 
 ---
 
 @cnbc.com
 
-The case for more Fed rate cuts could rest on a 'systemic overcount' of jobs numbers
+This airline ETF is breaking out. How to trade it using charts
 
-[2025-12-12 04:04:12](https://bsky.app/profile/cnbc.com/post/3m7qbbroxkl2p)
-
----
-
-@sokuho.news
-
-🔔防災科研より【強震モニタ】動画です。
-
-震源:石狩地方北部, 深さ:10km
-マグニチュード:3.0, 最大震度:2
-📍https://www.google.com/maps?q=43.4,141.6&ll=43.4,141.6&z=7&t=h
-地震発生日時:2025-12-12 03:59頃
-(10倍速▶120s→12s) #地震
-
-[2025-12-12 04:02:30](https://bsky.app/profile/sokuho.news/post/3m7qb6puh3y2b)
+[2025-12-12 04:16:22](https://bsky.app/profile/cnbc.com/post/3m7qbxjifou25)
 
 ---
 
-@sokuho.news
+@financialtimes.com
 
-🔔気象庁より【地震速報】です。
+ Get ready for a spectacular IPO boom from the big beasts of Silicon Valley on.ft.com/4q1ytxo  | opinion
 
-3時59分頃、北海道で最大震度2の地震を観測しました。
-震源:石狩地方北部, 深さ:10km, 規模:M3.0
-この地震による津波の心配はありません。
-(2025-12-12 04:02:03) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/12/2025-12-12-03-59-42.html?xlarge_image=1
-
-[2025-12-12 04:02:04](https://bsky.app/profile/sokuho.news/post/3m7qb5xq5me2x)
-
----
-
-@cnn.com
-
-There is certainly some irony in one of the questions most commonly posed to Alexa this year: “What does AI mean?”
-
-[2025-12-12 04:02:02](https://bsky.app/profile/cnn.com/post/3m7qb5vj5fl2b)
-
----
-
-@npr.org
-
-Happening now! Ask your questions here:
-
-[2025-12-12 04:01:22](https://bsky.app/profile/npr.org/post/3m7qb4pbkxc2p)
-
----
-
-@usatoday.com
-
-How the bathroom became ground zero in Trump fight over gender identity
-
-[2025-12-12 04:01:20](https://bsky.app/profile/usatoday.com/post/3m7qb4njp3725)
+[2025-12-12 04:16:00](https://bsky.app/profile/financialtimes.com/post/3m7qbwv6msr2b)
 
 ---
 
 @reuters.com
 
-EU antitrust regulators erred in clearing Broadcom's VMware deal, cloud industry lobby says reut.rs/4q4SK5w
+Brokerages stick with US rate cut forecasts despite Fed caution reut.rs/4oTr16O
 
-[2025-12-12 04:01:10](https://bsky.app/profile/reuters.com/post/3m7qb4eibg42s)
+[2025-12-12 04:15:18](https://bsky.app/profile/reuters.com/post/3m7qbvn43rw2s)
+
+---
+
+@cnbc.com
+
+Musk says SpaceX report of 2026 IPO is 'accurate'
+
+[2025-12-12 04:15:05](https://bsky.app/profile/cnbc.com/post/3m7qbv7xqk72p)
 
 ---
 
