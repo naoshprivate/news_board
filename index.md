@@ -1,9 +1,9 @@
-# [2025-12-11 11:50 updated](2025_12_11.md)
+# [2025-12-11 12:10 updated](2025_12_11.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">AI: Microsoft, Amazon bet big, but where does India stand in the global race? <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7okq564yd2y" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-11 11:47:57)</span><span style="padding-right:50px;">Iceland is refusing to take part in the 2026 Eurovision Song Contest — becoming the 5th country to boycott the singing competition over Israel's participation in the event. <a href="https://bsky.app/profile/axios.com/post/3m7okmpwla22k" target="_blank">axios.com</a> (2025-12-11 11:46:04)</span><span style="padding-right:50px;">クリスマスケーキ、価格は2025年も甘くない　材料高で洋菓子店は倒産増 www.nikkei.com/article/DGXZQO...  2025年もクリスマスケーキが高い。家族連れなどの需要が多い5号サイズの販売価格が20年より3割高くなったという店舗もあります。  背景にあるのは材料高です。主な材料の卵やイチゴは前年より2割、チョコレートも3割値上がりしています。 <a href="https://bsky.app/profile/nikkei.com/post/3m7okm4b7pj2x" target="_blank">nikkei.com</a> (2025-12-11 11:45:43)</span><span style="padding-right:50px;">補正予算案 自民 維新 国民 公明 賛成多数で可決へ 衆院予算委 https://news.web.nhk/newsweb/na/na-k10015000791000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7okkyjj562y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-11 11:45:03)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】2階建てアパートで火事 1人けが 千葉市若葉区 (11:41) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7okjjt2wt2s" target="_blank">sokuho.news</a> (2025-12-11 11:44:16)</span>
+<span style="padding-right:50px;">ノーベル平和賞 マチャド氏 ノルウェー首都に到着 記者会見へ https://news.web.nhk/newsweb/na/na-k10015000661000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7olvuttyt2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-11 12:09:03)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】神戸市女性刺殺事件 殺人などの罪で男起訴 女性の遺族がコメント「ふとした瞬間に寂しさや悔しさが襲ってきて涙が止まらないことがあります」 (2025-12-11 11:56) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7olrqq6le2e" target="_blank">sokuho.news</a> (2025-12-11 12:06:46)</span><span style="padding-right:50px;">トランプ氏 ウクライナ情勢めぐり 欧州3か国首脳と電話会談 https://news.web.nhk/newsweb/na/na-k10015000811000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7oll5rjbw2y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-11 12:03:03)</span><span style="padding-right:50px;">UPDATE  Nobel laureate and Venezuelan opposition leader Maria Corina Machado emerged from hiding to make her first public appearance in almost a year, waving to supporters from the balcony of her Oslo hotel.  u.afp.com/S7ek <a href="https://bsky.app/profile/en.afp.com/post/3m7oliupkd52q" target="_blank">en.afp.com</a> (2025-12-11 12:01:48)</span><span style="padding-right:50px;">Rupee likely to open higher as Fed outlook pushes back dollar reut.rs/3MnXlkK <a href="https://bsky.app/profile/reuters.com/post/3m7olhndhkz2k" target="_blank">reuters.com</a> (2025-12-11 12:01:07)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50308.89 (🔻509.50 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48057.75 (🔺483.79 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23654.15 (🔺118.15 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.78 (🔻1.19 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3115.00 (🔻33.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.63 (🔻0.33 : 2025-12-11)</span>
+<span style="padding-right:50px;">NIKKEI: 50308.89 (🔻509.50 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48057.75 (🔺483.79 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23654.15 (🔺118.15 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.78 (🔻1.19 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3115.00 (🔻33.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.69 (🔻0.27 : 2025-12-11)</span>
   </div>
 </div>
 
@@ -32,105 +32,102 @@
 
 ## News Headlines
 
-1. クリスマスケーキ、価格は2025年も甘くない　材料高で洋菓子店は倒産増
-2. 補正予算案 自民 維新 国民 公明 賛成多数で可決へ 衆院予算委
-3. 2階建てアパートで火事　1人けが　千葉市若葉区
-4. JNNより【速報】　“年収の壁”168万円への引き上げ案を自民党が検討
-5. 米政府 観光目的のビザ取得免除でもSNSなど情報提供義務づけへ
-6. 2026年もクリスマスケーキが高い　家族連れなどの需要が多い5号サイズの販売価格が20年より3割高
+１.「ノーベル平和賞　マチャド氏　ノルウェー首都に到着　記者会見へ」
+２.「神戸市女性刺殺事件　殺人などの罪で男起訴　女性の遺族がコメント」
+３.「トランプ氏　ウクライナ情勢めぐり　欧州3か国首脳と電話会談」
+４.「米国議会　補正予算案　自民・維新・国民・公明　賛成多数で可決へ」
+５.「クリスマスケーキ　価格は2025年も甘くない　材料高で洋菓子店は倒産増し」
+６.「イギリス　古代人類が火を利用した証拠　東部の平野で発見」
 
 ----
 
-@bbcnews-world-rss.bsky.social
-
-AI: Microsoft, Amazon bet big, but where does India stand in the global race?
-
-[2025-12-11 11:47:57](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7okq564yd2y)
-
----
-
-@axios.com
-
-Iceland is refusing to take part in the 2026 Eurovision Song Contest — becoming the 5th country to boycott the singing competition over Israel's participation in the event.
-
-[2025-12-11 11:46:04](https://bsky.app/profile/axios.com/post/3m7okmpwla22k)
-
----
-
-@nikkei.com
-
-クリスマスケーキ、価格は2025年も甘くない　材料高で洋菓子店は倒産増
-www.nikkei.com/article/DGXZQO...
-
-2025年もクリスマスケーキが高い。家族連れなどの需要が多い5号サイズの販売価格が20年より3割高くなったという店舗もあります。
-
-背景にあるのは材料高です。主な材料の卵やイチゴは前年より2割、チョコレートも3割値上がりしています。
-
-[2025-12-11 11:45:43](https://bsky.app/profile/nikkei.com/post/3m7okm4b7pj2x)
-
----
-
 @nhknewsunofficial.bsky.social
 
-補正予算案 自民 維新 国民 公明 賛成多数で可決へ 衆院予算委
-https://news.web.nhk/newsweb/na/na-k10015000791000
+ノーベル平和賞 マチャド氏 ノルウェー首都に到着 記者会見へ
+https://news.web.nhk/newsweb/na/na-k10015000661000
 
-[2025-12-11 11:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7okkyjj562y)
+[2025-12-11 12:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7olvuttyt2v)
 
 ---
 
 @sokuho.news
 
-🔔ANNより【速報】です。
+🛎️FNNより【速報】です。
 
-【速報】2階建てアパートで火事 1人けが 千葉市若葉区
-(11:41) #ニュース
+【速報】神戸市女性刺殺事件 殺人などの罪で男起訴 女性の遺族がコメント「ふとした瞬間に寂しさや悔しさが襲ってきて涙が止まらないことがあります」
+(2025-12-11 11:56) #ニュース
 
-[2025-12-11 11:44:16](https://bsky.app/profile/sokuho.news/post/3m7okjjt2wt2s)
+[2025-12-11 12:06:46](https://bsky.app/profile/sokuho.news/post/3m7olrqq6le2e)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+トランプ氏 ウクライナ情勢めぐり 欧州3か国首脳と電話会談
+https://news.web.nhk/newsweb/na/na-k10015000811000
+
+[2025-12-11 12:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7oll5rjbw2y)
+
+---
+
+@en.afp.com
+
+UPDATE  Nobel laureate and Venezuelan opposition leader Maria Corina Machado emerged from hiding to make her first public appearance in almost a year, waving to supporters from the balcony of her Oslo hotel.
+
+u.afp.com/S7ek
+
+[2025-12-11 12:01:48](https://bsky.app/profile/en.afp.com/post/3m7oliupkd52q)
 
 ---
 
 @reuters.com
 
-Japan firms say strained Sino-Japan ties top concerns for 2026 reut.rs/3KpXCD9
+Rupee likely to open higher as Fed outlook pushes back dollar reut.rs/3MnXlkK
 
-[2025-12-11 11:40:30](https://bsky.app/profile/reuters.com/post/3m7okcriqfl2b)
-
----
-
-@nytimes.com
-
-A man who killed a 36-year-old woman pleaded guilty to manslaughter on Wednesday in a Bronx case that had been cold for nearly three decades.
-
-[2025-12-11 11:40:05](https://bsky.app/profile/nytimes.com/post/3m7okc2ahq52z)
+[2025-12-11 12:01:07](https://bsky.app/profile/reuters.com/post/3m7olhndhkz2k)
 
 ---
 
-@sokuho.news
+@usatoday.com
 
-🛎️JNNより【速報】です。
+Erin and Ben Napier have an update about the hotel at the center of a “Home Town” spinoff that caught fire this summer.
 
-【速報】“年収の壁”168万円への引き上げ案を自民党が検討 「基礎控除」「給与所得控除の最低額」を物価上昇率に合わせ 案をもとに国民民主などとも協議へ
-(2025-12-11 11:38:25) #ニュース
+[2025-12-11 12:00:51](https://bsky.app/profile/usatoday.com/post/3m7olh664ug2f)
 
-[2025-12-11 11:39:24](https://bsky.app/profile/sokuho.news/post/3m7okasqims2r)
+---
+
+@nbcnews.com
+
+Following K-beauty’s viral success in the U.S., Japanese skin care brands are offering American consumers simplified routines.
+
+[2025-12-11 12:00:37](https://bsky.app/profile/nbcnews.com/post/3m7olgracnq26)
+
+---
+
+@washingtonpost.com
+
+The going-gray process happens at different speeds for different people, but most of us start to notice increasing gray hair sometime in our 30s or 40s, according to the American Academy of Dermatology.
+
+Here’s what you should know:
+
+[2025-12-11 12:00:07](https://bsky.app/profile/washingtonpost.com/post/3m7olfunm5v2n)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-知ってますか？「トリテキホウ」 来月の施行前に解説します
-https://news.web.nhk/newsweb/na/na-k10015000751000
+震度6強の八戸市 企業への被害相次ぐ 小中学校はすべて再開
+https://news.web.nhk/newsweb/na/na-k10015000821000
 
-[2025-12-11 11:39:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7okaanldk2s)
+[2025-12-11 12:00:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7olfw66ep26)
 
 ---
 
-@cnn.com
+@nytimes.com
 
-A field in eastern England has revealed evidence of the earliest known instance of humans creating and controlling fire, a significant find that archaeologists say illuminates a dramatic turning point in the human story. https://cnn.it/4pxPZK4
+An environmental group on Wednesday filed a lawsuit challenging the National Park Service’s plan to emblazon President Trump’s face on some annual passes to national parks starting Jan. 1.
 
-[2025-12-11 11:31:02](https://bsky.app/profile/cnn.com/post/3m7ojru2olb23)
+[2025-12-11 12:00:04](https://bsky.app/profile/nytimes.com/post/3m7olfs2v3h2z)
 
 ---
 
