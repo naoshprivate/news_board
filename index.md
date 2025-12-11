@@ -1,9 +1,9 @@
-# [2025-12-11 22:10 updated](2025_12_11.md)
+# [2025-12-11 22:30 updated](2025_12_11.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">UK bankers warn on plan to use Russian assets for loans to Ukraine on.ft.com/453CfhL <a href="https://bsky.app/profile/financialtimes.com/post/3m7pnftmokf2w" target="_blank">financialtimes.com</a> (2025-12-11 22:08:34)</span><span style="padding-right:50px;">Time magazine has unveiled its 2025 Person of the Year: The architects of AI. yhoo.it/4abm5GK <a href="https://bsky.app/profile/yahoonews.com/post/3m7pna3bd7g2q" target="_blank">yahoonews.com</a> (2025-12-11 22:05:20)</span><span style="padding-right:50px;">Congo’s hidden victims: Child survivors recount gang rape, sexual slavery by M23 forces reut.rs/3MVc5re <a href="https://bsky.app/profile/reuters.com/post/3m7pn7sx2ei2b" target="_blank">reuters.com</a> (2025-12-11 22:05:11)</span><span style="padding-right:50px;">Charlie Chang started several of his passive income streams — which now gross an average of $114,000 per month — with $0 down. He shares four passive income businesses you can start for "less than $100." <a href="https://bsky.app/profile/cnbc.com/post/3m7pn6thmta2b" target="_blank">cnbc.com</a> (2025-12-11 22:04:39)</span><span style="padding-right:50px;">維新 税調会長 “防衛財源確保の所得税増税 党内は賛否両論” https://news.web.nhk/newsweb/na/na-k10015001481000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7pn42ddho2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-11 22:03:03)</span>
+<span style="padding-right:50px;">Merz offers to host Ukraine talks so deal not done ‘above Europe’s head’ on.ft.com/3Yk4mWf <a href="https://bsky.app/profile/financialtimes.com/post/3m7pokbvl7i2v" target="_blank">financialtimes.com</a> (2025-12-11 22:28:56)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】のこぎりを持った男がホームセンターに侵入、金銭要求の強盗未遂事件か 警察が40代とみられる男を確保 浦添市 (2025-12-11 22:17:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7pohsa4tn2a" target="_blank">sokuho.news</a> (2025-12-11 22:27:33)</span><span style="padding-right:50px;">Russian oil output nudges up in November, OPEC data shows reut.rs/494MXqO <a href="https://bsky.app/profile/reuters.com/post/3m7podiu2wp24" target="_blank">reuters.com</a> (2025-12-11 22:25:09)</span><span style="padding-right:50px;">It has been a key player in a corruption scandal and regularly engenders heated debates online and in professional circles. This week, it was in the cross hairs of the State Department.  Yes, we’re talking about Calibri. Yes, the typeface.  Yes, we’re talking about Calibri. Yes, the typeface. <a href="https://bsky.app/profile/nytimes.com/post/3m7podddedz2b" target="_blank">nytimes.com</a> (2025-12-11 22:25:03)</span><span style="padding-right:50px;">James L. Brooks' first feature film in 15 years doesn't live up to expectations. n.pr/4q6VsHJ <a href="https://bsky.app/profile/npr.org/post/3m7pocjb5ui24" target="_blank">npr.org</a> (2025-12-11 22:24:36)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48057.75 (🔺483.79 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23654.15 (🔺118.15 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.78 (🔻1.19 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.56 (🔻0.40 : 2025-12-11)</span>
+<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48057.75 (🔺483.79 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23654.15 (🔺118.15 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.78 (🔻1.19 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.42 (🔻0.54 : 2025-12-11)</span>
   </div>
 </div>
 
@@ -32,101 +32,112 @@
 
 ## News Headlines
 
-1. 英国銀行家がウクライナへのローンでロシア資産を使用する計画に警告
-2. 2025年の人類の設計者がタイム誌の今年の人物に選ばれました
-3. コンゴの未知の被害者：M23軍の暴力虐待についての子供の生存者が語る
-4. 中国軍の新型無人機「九天」が初飛行　ドローン100機の空中発射が可能
-5. EUが薬物規制を大幅に改正し、患者の迅速なアクセスを促進する
-6. ベルリンのウィーンで起こった事件をめぐって、参議院の決定が議論の中心に
+Here are six important stories from the news with Japanese headlines:
+
+1. 
+「欧州の「首脳会談」でウクライナと平和協定を締結」 (Merz offers to host Ukraine talks so deal not done ‘above Europe’s head’)
+
+2. 
+「九天」ドローンが初飛行、日本にとっても脅威になり得る (Chinese military's new drone Nine Heavens makes its first flight, posing a threat to Japan)
+
+3. 
+「EUが薬物規制を大幅に改正、患者のアクセスを速める」 (EU seals pact to overhaul drug rules, speed patient access)
+
+4. 
+「マリア・コリーナ・マチャド氏、ノーベル平和賞を受賞、ベネズエラ民主化を目指す」 (María Corina Machado wins Nobel Peace Prize, vows to bring democracy to Venezuela)
+
+5. 
+「Oracleの業績発表に投資家がconfused、株価は下落」 (Wall Street is disappointed and confused by Oracle's report, stock price falls)
+
+6. 
+「タイム誌2025年度 Person of the Year: AIの建築家」 (Time magazine's 2025 Person of the Year: The architects of AI)
 
 ----
 
 @financialtimes.com
 
-UK bankers warn on plan to use Russian assets for loans to Ukraine on.ft.com/453CfhL
+Merz offers to host Ukraine talks so deal not done ‘above Europe’s head’ on.ft.com/3Yk4mWf
 
-[2025-12-11 22:08:34](https://bsky.app/profile/financialtimes.com/post/3m7pnftmokf2w)
+[2025-12-11 22:28:56](https://bsky.app/profile/financialtimes.com/post/3m7pokbvl7i2v)
 
 ---
 
-@yahoonews.com
+@sokuho.news
 
-Time magazine has unveiled its 2025 Person of the Year: The architects of AI.
-yhoo.it/4abm5GK
+🛎️JNNより【速報】です。
 
-[2025-12-11 22:05:20](https://bsky.app/profile/yahoonews.com/post/3m7pna3bd7g2q)
+【速報】のこぎりを持った男がホームセンターに侵入、金銭要求の強盗未遂事件か 警察が40代とみられる男を確保 浦添市
+(2025-12-11 22:17:00) #ニュース
+
+[2025-12-11 22:27:33](https://bsky.app/profile/sokuho.news/post/3m7pohsa4tn2a)
 
 ---
 
 @reuters.com
 
-Congo’s hidden victims: Child survivors recount gang rape, sexual slavery by M23 forces reut.rs/3MVc5re
+Russian oil output nudges up in November, OPEC data shows reut.rs/494MXqO
 
-[2025-12-11 22:05:11](https://bsky.app/profile/reuters.com/post/3m7pn7sx2ei2b)
+[2025-12-11 22:25:09](https://bsky.app/profile/reuters.com/post/3m7podiu2wp24)
+
+---
+
+@nytimes.com
+
+It has been a key player in a corruption scandal and regularly engenders heated debates online and in professional circles. This week, it was in the cross hairs of the State Department.
+
+Yes, we’re talking about Calibri. Yes, the typeface.
+
+Yes, we’re talking about Calibri. Yes, the typeface.
+
+[2025-12-11 22:25:03](https://bsky.app/profile/nytimes.com/post/3m7podddedz2b)
+
+---
+
+@npr.org
+
+James L. Brooks' first feature film in 15 years doesn't live up to expectations. n.pr/4q6VsHJ
+
+[2025-12-11 22:24:36](https://bsky.app/profile/npr.org/post/3m7pocjb5ui24)
 
 ---
 
 @cnbc.com
 
-Charlie Chang started several of his passive income streams — which now gross an average of $114,000 per month — with $0 down. He shares four passive income businesses you can start for "less than $100."
+This streaming stock is up more than 40% this year. Why Jefferies sees even more upside ahead
 
-[2025-12-11 22:04:39](https://bsky.app/profile/cnbc.com/post/3m7pn6thmta2b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-維新 税調会長 “防衛財源確保の所得税増税 党内は賛否両論”
-https://news.web.nhk/newsweb/na/na-k10015001481000
-
-[2025-12-11 22:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7pn42ddho2b)
-
----
-
-@nikkei.com
-
-中国軍の新型無人機「九天」が初飛行　ドローン100機の空中発射が可能
-www.nikkei.com/article/DGXZQO...
-
-航続距離は7000キロメートルで、最長12時間任務をこなします。
-
-自爆型ドローンや誘導爆弾、空対空ミサイルなどが搭載可能。
-
-日本にとっても脅威になり得ます。
-
-[2025-12-11 22:01:52](https://bsky.app/profile/nikkei.com/post/3m7pmzu6q5n2i)
-
----
-
-@reuters.com
-
-EU seals pact to overhaul drug rules, speed patient access reut.rs/44PJ5aE
-
-[2025-12-11 22:01:17](https://bsky.app/profile/reuters.com/post/3m7pmysztay2b)
-
----
-
-@bloomberg.com
-
-Dana Walden, the Disney TV co-chief who joined after the acquisition of 21st Century Fox, says the next owner of Warner Bros. should prepare for a long process
-
-[2025-12-11 22:00:33](https://bsky.app/profile/bloomberg.com/post/3m7pmxjodbe2p)
+[2025-12-11 22:24:22](https://bsky.app/profile/cnbc.com/post/3m7poc4l6iv23)
 
 ---
 
 @nbcnews.com
 
-Authorities are investigating a DoorDash driver in Indiana, after video captured them appearing to spray a food delivery with an “irritant substance,” the Vanderburgh County Sheriff’s Office says.
+Federal health officials expanded an outbreak of infant botulism tied to recalled ByHeart baby formula to include all illnesses reported since the company began production in March 2022.
 
-[2025-12-11 22:00:27](https://bsky.app/profile/nbcnews.com/post/3m7pmxds3qf2n)
+[2025-12-11 22:20:08](https://bsky.app/profile/nbcnews.com/post/3m7po2jvnp62k)
 
 ---
 
-@washingtonpost.com
+@cnbc.com
 
-The order given by Adm. Frank Bradley is under scrutiny from Congress. People who have viewed or been briefed on a classified video of the operation shed light on the most consequential deliberation of his career.
+Wall Street is disappointed and confused by Oracle's report. Where they see the stock going
 
-[2025-12-11 22:00:21](https://bsky.app/profile/washingtonpost.com/post/3m7pmx5xmwd23)
+[2025-12-11 22:16:36](https://bsky.app/profile/cnbc.com/post/3m7pnu7fp4g2p)
+
+---
+
+@reuters.com
+
+OPEC says OPEC+ raised output in November, leaves demand view steady reut.rs/4pwZEk3
+
+[2025-12-11 22:15:31](https://bsky.app/profile/reuters.com/post/3m7pnsbgjmd2i)
+
+---
+
+@financialtimes.com
+
+ The mind-bending complexities of quantum investing on.ft.com/4pwzg9Q  | opinion
+
+[2025-12-11 22:15:23](https://bsky.app/profile/financialtimes.com/post/3m7pns2irgu2v)
 
 ---
 
