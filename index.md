@@ -1,9 +1,9 @@
-# [2025-12-12 04:50 updated](2025_12_12.md)
+# [2025-12-12 05:10 updated](2025_12_12.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Trafigura, Gupta lawyers trade blame over metals fraud as trial winds up reut.rs/4oTvTsC <a href="https://bsky.app/profile/reuters.com/post/3m7qdl5x76j23" target="_blank">reuters.com</a> (2025-12-12 04:45:14)</span><span style="padding-right:50px;">This minimalist take on a classic Persian dish keeps things quick and simple, and uses just a few pantry-friendly ingredients. nyti.ms/44g2dhS <a href="https://bsky.app/profile/nytimes.com/post/3m7qdkvy3xb2b" target="_blank">nytimes.com</a> (2025-12-12 04:45:06)</span><span style="padding-right:50px;">A rare bottle of champagne from the 1981 marriage of Prince Charles to Lady Diana Spencer failed to find a buyer when it was auctioned in Denmark on Thursday. u.afp.com/S78q <a href="https://bsky.app/profile/en.afp.com/post/3m7qdksep6w2q" target="_blank">en.afp.com</a> (2025-12-12 04:45:02)</span><span style="padding-right:50px;">CDC study says Covid shots continue to protect healthy kids from severe illness <a href="https://bsky.app/profile/saragmiller.bsky.social/post/3m7qdiahuw22a" target="_blank">saragmiller.bsky.social</a> (2025-12-12 04:43:37)</span><span style="padding-right:50px;">The Senate blocked a bill to extend Affordable Care Act health insurance subsidies, all but ensuring they will expire at the end of the year. <a href="https://bsky.app/profile/washingtonpost.com/post/3m7qdh7bsoj2g" target="_blank">washingtonpost.com</a> (2025-12-12 04:43:02)</span>
+<span style="padding-right:50px;">US September trade deficit lowest in more than five years as goods exports soar reut.rs/44k06JV <a href="https://bsky.app/profile/reuters.com/post/3m7qeostmja2r" target="_blank">reuters.com</a> (2025-12-12 05:05:11)</span><span style="padding-right:50px;">Leavitt said the seized ship will head to a U.S. port, while investigators interview crewmembers. <a href="https://bsky.app/profile/forbes.com/post/3m7qeolx6mu2s" target="_blank">forbes.com</a> (2025-12-12 05:05:03)</span><span style="padding-right:50px;">ノーベル賞 坂口志文さんと北川進さんが共同会見 メダルを披露 https://news.web.nhk/newsweb/na/na-k10015001471000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7qel2nfhm2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-12 05:03:02)</span><span style="padding-right:50px;">Measles outbreaks are growing along the Utah-Arizona border and in South Carolina, where hundreds are in quarantine. <a href="https://bsky.app/profile/apnews.com/post/3m7qehstycr2k" target="_blank">apnews.com</a> (2025-12-12 05:01:16)</span><span style="padding-right:50px;">Half of ACA tax credit users are small business owners, employees. The credits are about to expire. <a href="https://bsky.app/profile/usatoday.com/post/3m7qehbqs5g2h" target="_blank">usatoday.com</a> (2025-12-12 05:00:58)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48730.25 (🔺647.35 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23606.70 (🔺97.48 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.80 (🔺0.53 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.50 (🔻0.46 : 2025-12-11)</span>
+<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48722.46 (🔺639.56 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23579.96 (🔺70.74 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.53 (🔺0.26 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.62 (🔻0.34 : 2025-12-11)</span>
   </div>
 </div>
 
@@ -32,119 +32,108 @@
 
 ## News Headlines
 
-Here are the 6 important topics with Japanese headlines:
+Here are six important topics with Japanese headlines:
 
-1. 
-「CDCが発表：COVID-19ワクチンが健康な子供たちを重症疾患から保護」
+1. US Trade Deficit Lowest in Over 5 Years
+(, 5)
 
-(CDC announces: COVID-19 vaccine continues to protect healthy children from severe illness)
+2. Nobel Prize Winners Speak Out
+(, )
 
-2. 
-「DisneyがGoogleに対し、 cease-and-desist命令を発令」
+3. Measles Outbreaks Continue to Spread
+(, )
 
-(Disney issues cease-and-desist order to Google)
+4. Artificial Intelligence Revolution Gains Momentum
+(, )
 
-3. 
-「中国がロンドンの中心部に「スーパー大使館」を建設計画」
+5. US Senate Blocks Affordable Care Act Subsidy Extension
+(, )
 
-(China plans to build a super embassy in the heart of London)
-
-4. 
-「米国が新たな退役軍人規則を2026年に導入予定」
-
-(US to introduce new retirement rules in 2026)
-
-5. 
-「Google AIの優位性がNvidiaに打撃を与える」
-
-(Google's AI superiority may harm Nvidia)
-
-6. 
-「Bank of Englandが12月18日に利率を3.75%に引き下げ」
-
-(Bank of England to cut interest rate to 3.75% on December 18)
+6. China's Super Embassy in London Raises Concerns
+(, )
 
 ----
 
 @reuters.com
 
-Trafigura, Gupta lawyers trade blame over metals fraud as trial winds up reut.rs/4oTvTsC
+US September trade deficit lowest in more than five years as goods exports soar reut.rs/44k06JV
 
-[2025-12-12 04:45:14](https://bsky.app/profile/reuters.com/post/3m7qdl5x76j23)
-
----
-
-@nytimes.com
-
-This minimalist take on a classic Persian dish keeps things quick and simple, and uses just a few pantry-friendly ingredients. nyti.ms/44g2dhS
-
-[2025-12-12 04:45:06](https://bsky.app/profile/nytimes.com/post/3m7qdkvy3xb2b)
-
----
-
-@en.afp.com
-
-A rare bottle of champagne from the 1981 marriage of Prince Charles to Lady Diana Spencer failed to find a buyer when it was auctioned in Denmark on Thursday.
-u.afp.com/S78q
-
-[2025-12-12 04:45:02](https://bsky.app/profile/en.afp.com/post/3m7qdksep6w2q)
-
----
-
-@saragmiller.bsky.social
-
-CDC study says Covid shots continue to protect healthy kids from severe illness
-
-[2025-12-12 04:43:37](https://bsky.app/profile/saragmiller.bsky.social/post/3m7qdiahuw22a)
-
----
-
-@washingtonpost.com
-
-The Senate blocked a bill to extend Affordable Care Act health insurance subsidies, all but ensuring they will expire at the end of the year.
-
-[2025-12-12 04:43:02](https://bsky.app/profile/washingtonpost.com/post/3m7qdh7bsoj2g)
-
----
-
-@reuters.com
-
-Disney sends cease-and-desist letter to Google, CNBC reports reut.rs/496uHgE
-
-[2025-12-12 04:40:26](https://bsky.app/profile/reuters.com/post/3m7qdcksosz2i)
-
----
-
-@nbcnews.com
-
-Linguists share their take on Asian American speech patterns as the existence of an “Asian American” accent sparks a debate.
-
-[2025-12-12 04:40:20](https://bsky.app/profile/nbcnews.com/post/3m7qdceq5zi2n)
+[2025-12-12 05:05:11](https://bsky.app/profile/reuters.com/post/3m7qeostmja2r)
 
 ---
 
 @forbes.com
 
-Beginning in late 2026, the company will add an array of hardware and software enhancements to its midsize model for autonomous driving. Next up: Robotaxis?
+Leavitt said the seized ship will head to a U.S. port, while investigators interview crewmembers.
 
-[2025-12-12 04:40:03](https://bsky.app/profile/forbes.com/post/3m7qdbusu7m25)
+[2025-12-12 05:05:03](https://bsky.app/profile/forbes.com/post/3m7qeolx6mu2s)
 
 ---
 
-@cbsnews.com
+@nhknewsunofficial.bsky.social
 
-China wants a "super embassy" in the heart of London. Critics fear it could be a hub for intel gathering.
+ノーベル賞 坂口志文さんと北川進さんが共同会見 メダルを披露
+https://news.web.nhk/newsweb/na/na-k10015001471000
 
+[2025-12-12 05:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7qel2nfhm2m)
 
-[2025-12-12 04:40:01](https://bsky.app/profile/cbsnews.com/post/3m7qdbsrvxp2f)
+---
+
+@apnews.com
+
+Measles outbreaks are growing along the Utah-Arizona border and in South Carolina, where hundreds are in quarantine.
+
+[2025-12-12 05:01:16](https://bsky.app/profile/apnews.com/post/3m7qehstycr2k)
+
+---
+
+@usatoday.com
+
+Half of ACA tax credit users are small business owners, employees. The credits are about to expire.
+
+[2025-12-12 05:00:58](https://bsky.app/profile/usatoday.com/post/3m7qehbqs5g2h)
+
+---
+
+@reuters.com
+
+GlobalFoundries names Sam Franklin as CFO after interim stint reut.rs/3XPLDBU
+
+[2025-12-12 05:00:43](https://bsky.app/profile/reuters.com/post/3m7qegtyuc42k)
+
+---
+
+@nbcnews.com
+
+As attempts to tamp down entire chapters of America’s story increase, some actors don characters to bring the history directly to you.
+
+[2025-12-12 05:00:22](https://bsky.app/profile/nbcnews.com/post/3m7qeg7mk4u2x)
+
+---
+
+@washingtonpost.com
+
+A year stretched taut between upheaval and endurance comes to a close.
+
+These news photos pay witness to a frayed world, held together by grief, defiance and the stubborn, recurring spark of hope. https://wapo.st/48y2IGx
+
+[2025-12-12 05:00:21](https://bsky.app/profile/washingtonpost.com/post/3m7qeg6gyux2g)
 
 ---
 
 @aljazeera.com
 
-Protesters gathered outside Stockholm City Hall, where the traditional Nobel Prize dinner was held, chanting “Stop the genocide in Gaza” and “No to war in Venezuela", expressing anger towards the US and EU for supporting Israel.
+Bangladesh sets February election after year of political upheaval https://aje.io/1zqo31
 
-[2025-12-12 04:38:44](https://bsky.app/profile/aljazeera.com/post/3m7qd7j7urc27)
+[2025-12-12 05:00:05](https://bsky.app/profile/aljazeera.com/post/3m7qefpf62m22)
+
+---
+
+@cbsnews.com
+
+Time is spotlighting key players in the artificial intelligence revolution for its 2025 Person of the Year, the magazine announced Thursday. 
+
+[2025-12-12 05:00:01](https://bsky.app/profile/cbsnews.com/post/3m7qeflkxrd2b)
 
 ---
 
