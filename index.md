@@ -1,9 +1,9 @@
-# [2025-12-11 10:30 updated](2025_12_11.md)
+# [2025-12-11 10:50 updated](2025_12_11.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">A task force created by President Donald Trump plans to recommend the most sweeping overhaul of FEMA in decades, dramatically reducing the federal agency’s role in disaster response by cutting its workforce in half and rolling out a new block grant system. https://cnn.it/4puu4TQ <a href="https://bsky.app/profile/cnn.com/post/3m7ogcydsa22o" target="_blank">cnn.com</a> (2025-12-11 10:29:02)</span><span style="padding-right:50px;">Fed says it will start technical buying of Treasury bills to manage market liquidity reut.rs/4ab7bQS <a href="https://bsky.app/profile/reuters.com/post/3m7ofthbbp223" target="_blank">reuters.com</a> (2025-12-11 10:20:21)</span><span style="padding-right:50px;">BREAKING: Mexico approves wide-ranging tariffs of up to 50% on China and other Asian nations. <a href="https://bsky.app/profile/bloomberg.com/post/3m7ofqvx5la2u" target="_blank">bloomberg.com</a> (2025-12-11 10:18:55)</span><span style="padding-right:50px;">アロンゾ オリオールズと契約合意の報道 日本選手の交渉加速か https://news.web.nhk/newsweb/na/na-k10015000691000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ofpgrrau2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-11 10:18:03)</span><span style="padding-right:50px;">As the year wraps up, we bring you some final notable titles — including The Sea Captain's Wife and The Rest of Our Lives — publishing before 2025 comes to a close. n.pr/4rQKKGR <a href="https://bsky.app/profile/npr.org/post/3m7ofk467jd2g" target="_blank">npr.org</a> (2025-12-11 10:15:07)</span>
+<span style="padding-right:50px;">Venezuelan dissident María Corina Machado finally appeared in Oslo in the early hours of Thursday morning, hours after her daughter had accepted her Nobel Peace Prize on her behalf. bloom.bg/3XKWxc7  📷: Odd Andersen/AFP/Getty Images <a href="https://bsky.app/profile/bloomberg.com/post/3m7ohd26c2f2w" target="_blank">bloomberg.com</a> (2025-12-11 10:46:58)</span><span style="padding-right:50px;">ノーベル平和賞受賞者 マチャド氏 ノルウェー首都に到着 https://news.web.nhk/newsweb/na/na-k10015000661000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7oh7p3o7o26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-11 10:45:03)</span><span style="padding-right:50px;">Sporting officials in Egypt and Iran, two countries where homosexuality is severely punished, protested after being drawn to play the “Pride Match” in Seattle during next year’s World Cup. <a href="https://bsky.app/profile/washingtonpost.com/post/3m7oh7kykes2i" target="_blank">washingtonpost.com</a> (2025-12-11 10:45:01)</span><span style="padding-right:50px;">Oil extends gains after US seizure of tanker off Venezuela reut.rs/48OsWne <a href="https://bsky.app/profile/reuters.com/post/3m7ogx5nekj24" target="_blank">reuters.com</a> (2025-12-11 10:40:18)</span><span style="padding-right:50px;">An Army gynecologist has been charged with secretly recording more than 40 of his patients at Fort Hood in Texas, military prosecutors said on Tuesday, as members of Congress expressed concerns that the Army was slow to stop his misconduct. <a href="https://bsky.app/profile/nytimes.com/post/3m7ogwngph62e" target="_blank">nytimes.com</a> (2025-12-11 10:40:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50646.52 (🔻171.87 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48057.75 (🔺483.79 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23654.16 (🔺118.16 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.78 (🔻1.21 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3132.00 (🔻16.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.62 (🔻0.35 : 2025-12-11)</span>
+<span style="padding-right:50px;">NIKKEI: 50585.92 (🔻232.47 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48057.75 (🔺483.79 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23654.16 (🔺118.16 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.78 (🔻1.21 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3123.00 (🔻25.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.72 (🔻0.24 : 2025-12-11)</span>
   </div>
 </div>
 
@@ -32,95 +32,105 @@
 
 ## News Headlines
 
-1. フェデラル緊急事態管理庁の大規模改革計画が発表される
-2. 米連邦準備制度委員会が政府債券の買い入れを開始する
-3. 米下院が中国への課税を決定
-4. 米連邦準備制度委員会のポウエル理事長が2026年には減反発を予測
-5. 米政府が農家に環境に優しい農業技術の普及を支援する計画を発表
-6. 米下院が日本のカーリング女子代表のオリンピック出場枠獲得を発表
+1. ノーベル平和賞受賞者 マチャド氏 ノルウェー首都に到着
+2. 米国、ベネズエラの船に拿捕した石油価格が高騰
+3. 米連邦準備局、政策金利を0.25％引き下げ
+4. 米国、中国への輸出関連産品の制限を緩和
+5. 米国、外国人旅行者にビジネス用メールアカウントなどを提示するよう求める
+6. 米国、農業の「再生可能」農法の普及を支援するための700億ドルの計画を発表
 
 ----
 
-@cnn.com
-
-A task force created by President Donald Trump plans to recommend the most sweeping overhaul of FEMA in decades, dramatically reducing the federal agency’s role in disaster response by cutting its workforce in half and rolling out a new block grant system. https://cnn.it/4puu4TQ
-
-[2025-12-11 10:29:02](https://bsky.app/profile/cnn.com/post/3m7ogcydsa22o)
-
----
-
-@reuters.com
-
-Fed says it will start technical buying of Treasury bills to manage market liquidity reut.rs/4ab7bQS
-
-[2025-12-11 10:20:21](https://bsky.app/profile/reuters.com/post/3m7ofthbbp223)
-
----
-
 @bloomberg.com
 
-<strong><span style="color: red;">BREAKING:</span> Mexico approves wide-ranging tariffs of up to 50% on China and other Asian nations.</strong>
+Venezuelan dissident María Corina Machado finally appeared in Oslo in the early hours of Thursday morning, hours after her daughter had accepted her Nobel Peace Prize on her behalf. bloom.bg/3XKWxc7
 
-[2025-12-11 10:18:55](https://bsky.app/profile/bloomberg.com/post/3m7ofqvx5la2u)
+📷: Odd Andersen/AFP/Getty Images
+
+[2025-12-11 10:46:58](https://bsky.app/profile/bloomberg.com/post/3m7ohd26c2f2w)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-アロンゾ オリオールズと契約合意の報道 日本選手の交渉加速か
-https://news.web.nhk/newsweb/na/na-k10015000691000
+ノーベル平和賞受賞者 マチャド氏 ノルウェー首都に到着
+https://news.web.nhk/newsweb/na/na-k10015000661000
 
-[2025-12-11 10:18:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ofpgrrau2k)
+[2025-12-11 10:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7oh7p3o7o26)
 
 ---
 
-@npr.org
+@washingtonpost.com
 
-As the year wraps up, we bring you some final notable titles — including The Sea Captain's Wife and The Rest of Our Lives — publishing before 2025 comes to a close. n.pr/4rQKKGR
+Sporting officials in Egypt and Iran, two countries where homosexuality is severely punished, protested after being drawn to play the “Pride Match” in Seattle during next year’s World Cup.
 
-[2025-12-11 10:15:07](https://bsky.app/profile/npr.org/post/3m7ofk467jd2g)
+[2025-12-11 10:45:01](https://bsky.app/profile/washingtonpost.com/post/3m7oh7kykes2i)
 
 ---
 
 @reuters.com
 
-Fed sees only one rate cut in 2026; no hike ahead, says Powell reut.rs/3MSKCGF
+Oil extends gains after US seizure of tanker off Venezuela reut.rs/48OsWne
 
-[2025-12-11 10:10:15](https://bsky.app/profile/reuters.com/post/3m7ofbfea4q2p)
-
----
-
-@wsj.com
-
-When residents of a small town in financial crisis needed to raise money, they took the only natural step: They stripped. 🔗 on.wsj.com/4iMJBvO
-
-[2025-12-11 10:06:11](https://bsky.app/profile/wsj.com/post/3m7of24pkq52s)
+[2025-12-11 10:40:18](https://bsky.app/profile/reuters.com/post/3m7ogx5nekj24)
 
 ---
 
-@andrewsolender.bsky.social
+@nytimes.com
 
-Rep. Haley Stevens told @Axios.com she “worked closely” w/ the Energy and Commerce Committee on her RFK Jr. impeachment articles.
+An Army gynecologist has been charged with secretly recording more than 40 of his patients at Fort Hood in Texas, military prosecutors said on Tuesday, as members of Congress expressed concerns that the Army was slow to stop his misconduct.
 
-There’s just one problem: Top E&C Dem Frank Pallone says she “approached us about joining her, and then in the end we declined." www.axios.com/2025/12/11/i...
-
-[2025-12-11 10:04:59](https://bsky.app/profile/andrewsolender.bsky.social/post/3m7oexxtbe22j)
+[2025-12-11 10:40:02](https://bsky.app/profile/nytimes.com/post/3m7ogwngph62e)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@nhknewsunofficial.bsky.social
 
-The Swiss city that lets you pay for most things with bitcoin
+FRB 政策金利0.25％引き下げ “今後の利下げ慎重に判断”
+https://news.web.nhk/newsweb/na/na-k10015000701000
 
-[2025-12-11 10:04:15](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7oewohmsl2e)
+[2025-12-11 10:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7oguxjvgn2b)
 
 ---
 
-@cnbc.com
+@en.afp.com
 
-Avery Amstutz, a Memphis, Tennessee-based serial entrepreneur, started building mobile cafe Byway Coffee knowing "absolutely nothing about coffee," she says. 
+<strong><span style="color: red;">BREAKING </span>Venezuelan Nobel Peace laureate Maria Corina Machado makes first public appearance in 11 months</strong>
 
-[2025-12-11 10:02:57](https://bsky.app/profile/cnbc.com/post/3m7oeudipyq2p)
+[2025-12-11 10:32:08](https://bsky.app/profile/en.afp.com/post/3m7ogijy3aa2j)
+
+---
+
+@nikkei.com
+
+ノーベル平和賞のマチャド氏、船でベネズエラを出国か（無料記事）
+www.nikkei.com/article/DGXZQO...
+
+秘密裏にベネズエラ沖のオランダ自治領キュラソー島に渡ったと、ウォール・ストリート・ジャーナルが報じました。
+
+関係者によると、12月10日に授賞式が開かれたノルウェーの首都オスロに向かっています。
+
+キュラソーへのルートはベネズエラの野党関係者が過去に国を逃れる際に使っていたことで知られます。
+
+#ニュース
+
+[2025-12-11 10:31:52](https://bsky.app/profile/nikkei.com/post/3m7ogi263d52f)
+
+---
+
+@reuters.com
+
+Coca-Cola names insider Henrique Braun as CEO, replacing James Quincey reut.rs/4pwzVrT
+
+[2025-12-11 10:30:52](https://bsky.app/profile/reuters.com/post/3m7oggb7ky42s)
+
+---
+
+@bloomberg.com
+
+President Trump has lifted a US ban on exports to China of Nvidia's H200 chips. The H200 is more powerful than the H20, designed for export to China, but less powerful than the cutting-edge B200. Here's what to know about Nvidia's AI chips
+
+[2025-12-11 10:30:15](https://bsky.app/profile/bloomberg.com/post/3m7ogf5kyhc27)
 
 ---
 
