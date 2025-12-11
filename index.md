@@ -1,9 +1,9 @@
-# [2025-12-11 08:50 updated](2025_12_11.md)
+# [2025-12-11 09:10 updated](2025_12_11.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Sherrone Moore, who led the Wolverines for two seasons following their 2023 national title, was terminated following an internal investigation. on.wsj.com/492oPVI <a href="https://bsky.app/profile/wsj.com/post/3m7oaoatyim2g" target="_blank">wsj.com</a> (2025-12-11 08:47:57)</span><span style="padding-right:50px;">US consumer spending on AmEx cards rose 9% over Thanksgiving holiday week, CEO says reut.rs/4oQmEJH <a href="https://bsky.app/profile/reuters.com/post/3m7oajdavh62s" target="_blank">reuters.com</a> (2025-12-11 08:45:12)</span><span style="padding-right:50px;">「世界で最も影響力がある女性」3位に高市首相 https://news.web.nhk/newsweb/na/na-k10015000631000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7oaj47rg52d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-11 08:45:03)</span><span style="padding-right:50px;">リトアニア 非常事態を宣言 隣国ベラルーシから気球飛来相次ぐ https://news.web.nhk/newsweb/na/na-k10015000571000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7oadq4vmp2x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-11 08:42:02)</span><span style="padding-right:50px;">Willis backs 49ers' bid to play home Super Bowl as 60-day countdown begins reut.rs/4pD9TU6 <a href="https://bsky.app/profile/reuters.com/post/3m7oaamaji52y" target="_blank">reuters.com</a> (2025-12-11 08:40:20)</span>
+<span style="padding-right:50px;">YouTube TV to roll out genre-based plans, deepens sports streaming bet reut.rs/4oJ9Jcj <a href="https://bsky.app/profile/reuters.com/post/3m7obn7h4n524" target="_blank">reuters.com</a> (2025-12-11 09:05:16)</span><span style="padding-right:50px;">Asia-Pacific markets set to climb after third Fed cut of the year <a href="https://bsky.app/profile/cnbc.com/post/3m7obmxz6pv2p" target="_blank">cnbc.com</a> (2025-12-11 09:05:08)</span><span style="padding-right:50px;">Cramer's Lightning Round: 'You've got a buying opportunity in AES' <a href="https://bsky.app/profile/cnbc.com/post/3m7obiv4oh62n" target="_blank">cnbc.com</a> (2025-12-11 09:02:51)</span><span style="padding-right:50px;">President Donald Trump confirmed that the US has taken control of an oil tanker off the coast of Venezuela.  <a href="https://bsky.app/profile/cnn.com/post/3m7obhfoeyo2o" target="_blank">cnn.com</a> (2025-12-11 09:02:01)</span><span style="padding-right:50px;">【インフルエンザ早くも流行中でも…】 治療薬、2025年冬は不足の心配なし？　供給量積み増しで流行に備え www.nikkei.com/article/DGXZQO...  昨シーズン（2024年末～25年初）は急速な感染拡大に後発薬の供給が追いつかず、医療現場がパニックに陥りました。  昨季の教訓を生かし、沢井製薬は供給量を約720万人分と倍増。  国も備蓄薬を柔軟に放出できる体制を整えています。 <a href="https://bsky.app/profile/nikkei.com/post/3m7obh3rlbw26" target="_blank">nikkei.com</a> (2025-12-11 09:01:51)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 48057.75 (🔺483.79 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23654.16 (🔺118.16 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.78 (🔻1.18 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 155.73 (🔻0.23 : 2025-12-10)</span>
+<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 48057.75 (🔺483.79 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23654.16 (🔺118.16 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.78 (🔻1.18 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 155.61 (🔻0.35 : 2025-12-11)</span>
   </div>
 </div>
 
@@ -32,95 +32,104 @@
 
 ## News Headlines
 
-1.  「世界で最も影響力がある女性」に高市首相ランクイン
-2.  リトアニア、非常事態を宣言　隣国ベラルーシから気球が相次いで飛来
-3.  NASAのマーズ探査機 Mavenが通信を途絶える
-4.  東北大　「三陸はるか沖地震」震源域で地震が起きやすい可能性
-5.  米国民間人、Amexカードで感謝祭週に9％増加
-6.  東京都　イタリア料理がユネスコ無形文化遺産に指定
+1. YouTube TVがジャンル別のプランを導入、スポーツストリーミングに大胆な挑戦
+2. 連邦準備制度理事会の第3回円安をもとにアジア太平洋市場が上昇
+3. ドナルド・トランプ大統領「米国がベネズエラ沖の石油タンカーを拿捕した」
+4. 治療薬の供給量を増やすことで、インフルエンザの薬欠乏を防止する
+5. 経済学者が「若者の心配するべきはAIではなく、雇用の安定だ」
+6. 米国で最も富裕層の割合が高くなる地方は、サンフランシスコです
 
 ----
 
-@wsj.com
+@reuters.com
 
-Sherrone Moore, who led the Wolverines for two seasons following their 2023 national title, was terminated following an internal investigation. on.wsj.com/492oPVI
+YouTube TV to roll out genre-based plans, deepens sports streaming bet reut.rs/4oJ9Jcj
 
-[2025-12-11 08:47:57](https://bsky.app/profile/wsj.com/post/3m7oaoatyim2g)
+[2025-12-11 09:05:16](https://bsky.app/profile/reuters.com/post/3m7obn7h4n524)
+
+---
+
+@cnbc.com
+
+Asia-Pacific markets set to climb after third Fed cut of the year
+
+[2025-12-11 09:05:08](https://bsky.app/profile/cnbc.com/post/3m7obmxz6pv2p)
+
+---
+
+@cnbc.com
+
+Cramer's Lightning Round: 'You've got a buying opportunity in AES'
+
+[2025-12-11 09:02:51](https://bsky.app/profile/cnbc.com/post/3m7obiv4oh62n)
+
+---
+
+@cnn.com
+
+President Donald Trump confirmed that the US has taken control of an oil tanker off the coast of Venezuela. 
+
+[2025-12-11 09:02:01](https://bsky.app/profile/cnn.com/post/3m7obhfoeyo2o)
+
+---
+
+@nikkei.com
+
+【インフルエンザ早くも流行中でも…】
+治療薬、2025年冬は不足の心配なし？　供給量積み増しで流行に備え
+www.nikkei.com/article/DGXZQO...
+
+昨シーズン（2024年末～25年初）は急速な感染拡大に後発薬の供給が追いつかず、医療現場がパニックに陥りました。
+
+昨季の教訓を生かし、沢井製薬は供給量を約720万人分と倍増。
+
+国も備蓄薬を柔軟に放出できる体制を整えています。
+
+[2025-12-11 09:01:51](https://bsky.app/profile/nikkei.com/post/3m7obh3rlbw26)
 
 ---
 
 @reuters.com
 
-US consumer spending on AmEx cards rose 9% over Thanksgiving holiday week, CEO says reut.rs/4oQmEJH
+Ford suppliers receive China's new streamlined rare-earth licenses reut.rs/4a5OZIf
 
-[2025-12-11 08:45:12](https://bsky.app/profile/reuters.com/post/3m7oajdavh62s)
-
----
-
-@nhknewsunofficial.bsky.social
-
-「世界で最も影響力がある女性」3位に高市首相
-https://news.web.nhk/newsweb/na/na-k10015000631000
-
-[2025-12-11 08:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7oaj47rg52d)
+[2025-12-11 09:01:18](https://bsky.app/profile/reuters.com/post/3m7obg45yc62i)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@usatoday.com
 
-リトアニア 非常事態を宣言 隣国ベラルーシから気球飛来相次ぐ
-https://news.web.nhk/newsweb/na/na-k10015000571000
+Taylor Swift is returning to late night for an appearance on "The Late Show with Stephen Colbert." How to watch.
 
-[2025-12-11 08:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7oadq4vmp2x)
+[2025-12-11 09:00:52](https://bsky.app/profile/usatoday.com/post/3m7obfdn4ie2g)
 
 ---
 
-@reuters.com
+@bloomberg.com
 
-Willis backs 49ers' bid to play home Super Bowl as 60-day countdown begins reut.rs/4pD9TU6
+The number of federal employees who left their jobs in 2025 will total about 317,000, according to the OPM, after efforts by Elon Musk and the Trump administration to reshape the government workforce.
 
-[2025-12-11 08:40:20](https://bsky.app/profile/reuters.com/post/3m7oaamaji52y)
+[2025-12-11 09:00:46](https://bsky.app/profile/bloomberg.com/post/3m7obf5cwsg2w)
+
+---
+
+@cnbc.com
+
+Nationally, a household earning about $210,000 or holding $1.8 million in net worth ranks among the wealthiest 10%.
+
+However, these thresholds vary by region.
+
+Accounting for local price differences, here’s a look at what it takes to be considered affluent in different parts of the country.
+
+[2025-12-11 09:00:30](https://bsky.app/profile/cnbc.com/post/3m7obeofnbs24)
 
 ---
 
 @nbcnews.com
 
-In people who declared themselves “nonexercisers,” several short bursts of activity throughout the day were linked to heart-healthy benefits.
+Eileen Higgins is elected as Miami's first Democratic mayor in over 30 years.
 
-[2025-12-11 08:40:10](https://bsky.app/profile/nbcnews.com/post/3m7oaacv3vm2q)
-
----
-
-@nytimes.com
-
-News Analysis: President Trump's dismissiveness of what he called a “decaying” Europe is only part of the problem facing European leaders. They're also confronting budget shortfalls, worsening public opinion and the far right as they try to maintain their security and help Ukraine.
-
-[2025-12-11 08:40:04](https://bsky.app/profile/nytimes.com/post/3m7oaa5rpp32r)
-
----
-
-@en.afp.com
-
-Consumer inflation in China rose last month to its fastest pace in nearly two years, according to new data, but there were also signs that demand in the world's second-largest economy remains weak.
-u.afp.com/S7m6
-
-[2025-12-11 08:40:01](https://bsky.app/profile/en.afp.com/post/3m7oaa2kqit2v)
-
----
-
-@cbsnews.com
-
-NASA says Maven spacecraft that was orbiting Mars has gone silent.
-
-[2025-12-11 08:40:01](https://bsky.app/profile/cbsnews.com/post/3m7oaa2h7n22m)
-
----
-
-@washingtonpost.com
-
-<strong><span style="color: red;">Breaking news:</span> The House approved a must-pass defense policy bill, advancing lawmakers’ effort to force the release of a video showing the controversial military strike that killed two men who survived an attack on their alleged drug smuggling vessel.</strong>
-
-[2025-12-11 08:38:35](https://bsky.app/profile/washingtonpost.com/post/3m7oa5il7de2y)
+[2025-12-11 09:00:24](https://bsky.app/profile/nbcnews.com/post/3m7obeiwsmk2p)
 
 ---
 
