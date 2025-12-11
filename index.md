@@ -1,9 +1,9 @@
-# [2025-12-11 18:50 updated](2025_12_11.md)
+# [2025-12-11 19:10 updated](2025_12_11.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】「自由無しには民主主義は実現しない」マリア・コリナ・マチャド氏がオスロで会見 ノーベル平和賞受賞のベネズエラ野党指導者 (2025-12-11 18:48:37) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7pcavh3en25" target="_blank">sokuho.news</a> (2025-12-11 18:48:56)</span><span style="padding-right:50px;">衆院選 余剰金5億円以上の使いみち 確認できない状態に https://news.web.nhk/newsweb/na/na-k10015000991000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7pc7egg522m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-11 18:48:02)</span><span style="padding-right:50px;">NHL roundup: Kraken pull even late, clip Kings in OT reut.rs/4aca8AE <a href="https://bsky.app/profile/reuters.com/post/3m7pc2ayfu42b" target="_blank">reuters.com</a> (2025-12-11 18:45:14)</span><span style="padding-right:50px;">"The Trump administration's seizure of an oil tanker off the coast of Venezuela is one of the most dramatic twists yet in a military pressure campaign against Venezuelan dictator Nicolás Maduro," writes Stephen Collinson | Analysis https://cnn.it/4oN5Jrc <a href="https://bsky.app/profile/cnn.com/post/3m7pbzxhoov2q" target="_blank">cnn.com</a> (2025-12-11 18:45:04)</span><span style="padding-right:50px;">Oracle shares plummet 11% in premarket, dragging down AI stocks <a href="https://bsky.app/profile/cnbc.com/post/3m7pbyil5322b" target="_blank">cnbc.com</a> (2025-12-11 18:44:15)</span>
+<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】大阪発～高松行の高速バス「フットバス」が徳島県内の高松道を走行中に火災 乗客は全員避難 高松道下りは鳴門JCTー引田間で通行止め（午後6時50分現在） (2025-12-11 19:00:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7pdffrlgx2b" target="_blank">sokuho.news</a> (2025-12-11 19:09:22)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】国道2号 トラックターミナル付近で軽乗用車3台が絡む衝突事故 8キロ渋滞（午後7時現在）【岡山】 (2025-12-11 19:04:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7pdf7hmhn2v" target="_blank">sokuho.news</a> (2025-12-11 19:09:15)</span><span style="padding-right:50px;">UBS Fund Management acquires 10% voting rights in SIG Group reut.rs/4oJOUO9 <a href="https://bsky.app/profile/reuters.com/post/3m7pd5vo3hs2y" target="_blank">reuters.com</a> (2025-12-11 19:05:10)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】踏切で車が脱輪 撤去作業のためJR大村線が運行見合わせ (2025-12-11 18:57:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7pd4r5nww2y" target="_blank">sokuho.news</a> (2025-12-11 19:04:32)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】大阪発～高松行のフットバスが徳島県内の高松道を走行中に火災 乗客は全員避難 高松道下りは鳴門JCTー引田間で通行止め（午後6時50分現在） (2025-12-11 19:00:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7pd46ceap2s" target="_blank">sokuho.news</a> (2025-12-11 19:04:12)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48057.75 (🔺483.79 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23654.15 (🔺118.15 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.78 (🔻1.19 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.86 (🔻0.10 : 2025-12-11)</span>
+<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48057.75 (🔺483.79 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23654.15 (🔺118.15 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.78 (🔻1.19 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.84 (🔻0.12 : 2025-12-11)</span>
   </div>
 </div>
 
@@ -32,12 +32,12 @@
 
 ## News Headlines
 
-1.  「ベネズエラ野党指導者 マリア・コリナ・マチャド氏がオスロで会見」
-2.  「衆院選 余剰金5億円以上の使いみち 確認できない状態に」
-3.  「NHLカップルレギュラーシーズン　カラカスのクレークがキングスに延長戦で逆転勝利」
-4.  「自民 税調小委員会 東京と地方の税収格差是正に賛否両論」
-5.  「中国 日本への渡航 当面控えるよう呼びかけ」
-6.  「世界の移民保護が弱まる」
+1.  大阪発高松行の高速バスが徳島県内で火災　乗客全員避難
+2.  岡山県でトラック3台が絡む大型けん引事故　8キロ混雑
+3.  JR大村線で車が踏切で脱輪　撤去作業のため運行見合わせ
+4.  ベネズエラのマリア・コリナ・マチャド氏が11か月ぶりに姿を現す
+5.  台風の影響で日本中部から北部で大雪や吹雪が見込まれる
+6.  陸上自衛隊の訓練ロケット弾が演習場外の山林に発見される
 
 ----
 
@@ -45,85 +45,99 @@
 
 🛎️JNNより【速報】です。
 
-【速報】「自由無しには民主主義は実現しない」マリア・コリナ・マチャド氏がオスロで会見 ノーベル平和賞受賞のベネズエラ野党指導者
-(2025-12-11 18:48:37) #ニュース
+【速報】大阪発～高松行の高速バス「フットバス」が徳島県内の高松道を走行中に火災 乗客は全員避難 高松道下りは鳴門JCTー引田間で通行止め（午後6時50分現在）
+(2025-12-11 19:00:00) #ニュース
 
-[2025-12-11 18:48:56](https://bsky.app/profile/sokuho.news/post/3m7pcavh3en25)
-
----
-
-@nhknewsunofficial.bsky.social
-
-衆院選 余剰金5億円以上の使いみち 確認できない状態に
-https://news.web.nhk/newsweb/na/na-k10015000991000
-
-[2025-12-11 18:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7pc7egg522m)
+[2025-12-11 19:09:22](https://bsky.app/profile/sokuho.news/post/3m7pdffrlgx2b)
 
 ---
 
-@reuters.com
+@sokuho.news
 
-NHL roundup: Kraken pull even late, clip Kings in OT reut.rs/4aca8AE
+🛎️JNNより【速報】です。
 
-[2025-12-11 18:45:14](https://bsky.app/profile/reuters.com/post/3m7pc2ayfu42b)
+【速報】国道2号 トラックターミナル付近で軽乗用車3台が絡む衝突事故 8キロ渋滞（午後7時現在）【岡山】
+(2025-12-11 19:04:00) #ニュース
 
----
-
-@cnn.com
-
-"The Trump administration's seizure of an oil tanker off the coast of Venezuela is one of the most dramatic twists yet in a military pressure campaign against Venezuelan dictator Nicolás Maduro," writes Stephen Collinson | Analysis https://cnn.it/4oN5Jrc
-
-[2025-12-11 18:45:04](https://bsky.app/profile/cnn.com/post/3m7pbzxhoov2q)
-
----
-
-@cnbc.com
-
-Oracle shares plummet 11% in premarket, dragging down AI stocks
-
-[2025-12-11 18:44:15](https://bsky.app/profile/cnbc.com/post/3m7pbyil5322b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-自民 税調小委員会 東京と地方の税収格差是正に賛否両論
-https://news.web.nhk/newsweb/na/na-k10015001271000
-
-[2025-12-11 18:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7pbulyrq32b)
+[2025-12-11 19:09:15](https://bsky.app/profile/sokuho.news/post/3m7pdf7hmhn2v)
 
 ---
 
 @reuters.com
 
-Many UK firms say volatile pound triggered losses in 2025, need to hedge grows reut.rs/48IuezW
+UBS Fund Management acquires 10% voting rights in SIG Group reut.rs/4oJOUO9
 
-[2025-12-11 18:40:11](https://bsky.app/profile/reuters.com/post/3m7pbrahfp22r)
+[2025-12-11 19:05:10](https://bsky.app/profile/reuters.com/post/3m7pd5vo3hs2y)
 
 ---
 
-@nytimes.com
+@sokuho.news
 
-Sherrone Moore, the University of Michigan’s former head football coach, was being held at the county jail in Ann Arbor, Michigan, early Thursday, hours after he was fired over what the university described as an inappropriate relationship with a staff member.
+🛎️JNNより【速報】です。
 
-[2025-12-11 18:40:05](https://bsky.app/profile/nytimes.com/post/3m7pbr2a6p225)
+【速報】踏切で車が脱輪 撤去作業のためJR大村線が運行見合わせ
+(2025-12-11 18:57:00) #ニュース
+
+[2025-12-11 19:04:32](https://bsky.app/profile/sokuho.news/post/3m7pd4r5nww2y)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】大阪発～高松行のフットバスが徳島県内の高松道を走行中に火災 乗客は全員避難 高松道下りは鳴門JCTー引田間で通行止め（午後6時50分現在）
+(2025-12-11 19:00:00) #ニュース
+
+[2025-12-11 19:04:12](https://bsky.app/profile/sokuho.news/post/3m7pd46ceap2s)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-中国 日本への渡航 当面控えるよう呼びかけ 8日の地震受け
-https://news.web.nhk/newsweb/na/na-k10015001161000
+【11日】地震影響 企業の被害相次ぐ 公共施設は天井から水
+https://news.web.nhk/newsweb/na/na-k10015000821000
 
-[2025-12-11 18:39:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7pbpbbofw24)
+[2025-12-11 19:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7pd25off32v)
+
+---
+
+@nikkei.com
+
+「推し」と「萌え」はどう違う？　三宅香帆氏が考察したヒット法則
+www.nikkei.com/article/DGXZQO...
+
+作品そのものを楽しむ以外の「報われるポイント」があるかどうかがヒットに直結する──。
+
+「なぜ働いていると本が読めなくなるのか」の著者、三宅氏はこのように分析します。
+
+例えば映画「国宝」は「3時間、スマートフォンを見ずに済むという報われポイントが鑑賞前から分かっていることが人気を後押しした」。
+
+[2025-12-11 19:01:51](https://bsky.app/profile/nikkei.com/post/3m7pcxyfnnj22)
 
 ---
 
 @reuters.com
 
-Top 25 roundup: No. 23 Nebraska wallops Wisconsin for 14th straight win reut.rs/4rRHDOV
+Vietnam curbs exports of refined rare earths, reaffirms ban on ore trade reut.rs/4pVjHse
 
-[2025-12-11 18:35:10](https://bsky.app/profile/reuters.com/post/3m7pbiayatp2x)
+[2025-12-11 19:00:57](https://bsky.app/profile/reuters.com/post/3m7pcwefwso2r)
+
+---
+
+@apnews.com
+
+As shoppers flood stores across the country during the year’s biggest shopping season, retail workers are bracing for what many describe as the most demanding — and often demoralizing — stretch of the job.
+
+[2025-12-11 19:00:53](https://bsky.app/profile/apnews.com/post/3m7pcwb2mmp23)
+
+---
+
+@nbcnews.com
+
+Venezuelan opposition leader María Corina Machado appeared in public for the first time in 11 months, waving to supporters at a hotel in Norway’s capital hours after her daughter accepted the Nobel Peace Prize on her behalf.
+
+[2025-12-11 19:00:48](https://bsky.app/profile/nbcnews.com/post/3m7pcw44ttu22)
 
 ---
 
