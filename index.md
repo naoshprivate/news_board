@@ -1,9 +1,9 @@
-# [2025-12-12 01:10 updated](2025_12_12.md)
+# [2025-12-12 01:30 updated](2025_12_12.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Bulgarian PM and government resign after mass protests <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7pxhxzbxk2z" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-12 01:08:42)</span><span style="padding-right:50px;">From Iran to China to Venezuela - how seized tanker hid location <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7pxg2akzi2b" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-12 01:07:37)</span><span style="padding-right:50px;">Morning Bid: Oracle crashes Powell's party reut.rs/4rSF8vA <a href="https://bsky.app/profile/reuters.com/post/3m7pxbsalbq2p" target="_blank">reuters.com</a> (2025-12-12 01:05:15)</span><span style="padding-right:50px;">Zelenskiy floated a referendum on territorial control as Ukraine comes under mounting pressure from the US to agree to a peace deal with Putin. Read more: bloom.bg/4pqTUrY  📷: Tolga Akmen/EPA/Bloomberg <a href="https://bsky.app/profile/bloomberg.com/post/3m7px7p7z6u24" target="_blank">bloomberg.com</a> (2025-12-12 01:04:05)</span><span style="padding-right:50px;"> The Fed is stuck on.ft.com/4rIuNlY  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m7px4rxm5t2f" target="_blank">financialtimes.com</a> (2025-12-12 01:02:27)</span>
+<span style="padding-right:50px;">With ACA tax credits set to expire, Sen. Jeanne Shaheen says premiums are "doubling, tripling" and warns "millions" could lose coverage if Congress fails to act. <a href="https://bsky.app/profile/npr.org/post/3m7pyh6ang42b" target="_blank">npr.org</a> (2025-12-12 01:26:09)</span><span style="padding-right:50px;">China promises fiscal boost next year, recognises 'prominent' imbalance reut.rs/48yyFyD <a href="https://bsky.app/profile/reuters.com/post/3m7pyfsqdnw2c" target="_blank">reuters.com</a> (2025-12-12 01:25:24)</span><span style="padding-right:50px;">Disney announced an agreement to bring its characters to Sora, OpenAI’s short-form video platform. Videos made with the tech will be available to stream on Disney+ under the three-year deal, which does not include any talent likeness or voices. nyti.ms/4rOyYN4 <a href="https://bsky.app/profile/nytimes.com/post/3m7pyf773z725" target="_blank">nytimes.com</a> (2025-12-12 01:25:03)</span><span style="padding-right:50px;">JUST IN: Judge orders Kilmar Abrego Garcia to be immediately released from ICE custody, the latest twist in the Maryland man’s deportation case.  <a href="https://bsky.app/profile/nbcnews.com/post/3m7py6lt7452q" target="_blank">nbcnews.com</a> (2025-12-12 01:21:22)</span><span style="padding-right:50px;">Oracle stock sinks as AI costs jump past Wall Street estimates <a href="https://bsky.app/profile/yahoofinance.com/post/3m7py63g4l72v" target="_blank">yahoofinance.com</a> (2025-12-12 01:21:04)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48506.81 (🔺423.91 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23406.41 (🔻102.81 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 177.14 (🔻3.14 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.20 (🔻0.77 : 2025-12-11)</span>
+<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48539.35 (🔺456.45 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23396.71 (🔻112.51 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 177.16 (🔻3.11 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.25 (🔻0.71 : 2025-12-11)</span>
   </div>
 </div>
 
@@ -32,125 +32,94 @@
 
 ## News Headlines
 
-Here are six important topics with Japanese titles:
+Here are six important topics with Japanese headlines:
 
-1. 
-「ブルガリア首相が辞任、政府もろとも」
-
-(Bulgarian Prime Minister and government resign)
-
-2. 
-「ウクライナ、ロシアとの平和協議に乗り出す」
-
-(Ukraine considers peace talks with Russia)
-
-3. 
-「米国の医療政策、共和党が再構築」
-
-(US healthcare policy, Republicans rebuild)
-
-4. 
-「中国の家電、米国に輸出禁止」
-
-(China's home appliances, export banned to US)
-
-5. 
-「AIの影響、Time誌のPerson of the Yearに」
-
-(AI's influence, Time magazine's Person of the Year)
-
-6. 
-「米国、南スーダンに対する人道支援を停止」
-
-(US stops humanitarian aid to South Sudan)
+1. ACA税証明書の期限切れに伴う健康保険料の増加に警鐘を鳴らす - Sen. Jeanne Shaheen Warns of Rising Health Insurance Premiums Due to ACA Tax Credit Expiration
+2. トランプ政権が Obamacare 健康保険料の削減を画策 - Trump Administration Aims to Cut Obamacare Health Insurance Subsidies
+3. Disneyが Sora の短編動画プラットフォームにキャラクターを導入 - Disney Brings Characters to Sora's Short-Form Video Platform
+4. 中華人民共和国が財政的支援を計画 - China Plans Fiscal Boost Next Year
+5. Oracle が AI のコスト増に伴い株価が低下 - Oracle Stock Falls as AI Costs Jump Past Estimates
+6. ペルー大統領選挙で Keiko Fujimori が勝利 - Keiko Fujimori Wins Peru's Presidential Election
 
 ----
 
-@bbcnews-world-rss.bsky.social
+@npr.org
 
-Bulgarian PM and government resign after mass protests
+With ACA tax credits set to expire, Sen. Jeanne Shaheen says premiums are "doubling, tripling" and warns "millions" could lose coverage if Congress fails to act.
 
-[2025-12-12 01:08:42](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7pxhxzbxk2z)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-From Iran to China to Venezuela - how seized tanker hid location
-
-[2025-12-12 01:07:37](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7pxg2akzi2b)
+[2025-12-12 01:26:09](https://bsky.app/profile/npr.org/post/3m7pyh6ang42b)
 
 ---
 
 @reuters.com
 
-Morning Bid: Oracle crashes Powell's party reut.rs/4rSF8vA
+China promises fiscal boost next year, recognises 'prominent' imbalance reut.rs/48yyFyD
 
-[2025-12-12 01:05:15](https://bsky.app/profile/reuters.com/post/3m7pxbsalbq2p)
-
----
-
-@bloomberg.com
-
-Zelenskiy floated a referendum on territorial control as Ukraine comes under mounting pressure from the US to agree to a peace deal with Putin. Read more: bloom.bg/4pqTUrY
-
-📷: Tolga Akmen/EPA/Bloomberg
-
-[2025-12-12 01:04:05](https://bsky.app/profile/bloomberg.com/post/3m7px7p7z6u24)
+[2025-12-12 01:25:24](https://bsky.app/profile/reuters.com/post/3m7pyfsqdnw2c)
 
 ---
 
-@financialtimes.com
+@nytimes.com
 
- The Fed is stuck on.ft.com/4rIuNlY  | opinion
+Disney announced an agreement to bring its characters to Sora, OpenAI’s short-form video platform. Videos made with the tech will be available to stream on Disney+ under the three-year deal, which does not include any talent likeness or voices. nyti.ms/4rOyYN4
 
-[2025-12-12 01:02:27](https://bsky.app/profile/financialtimes.com/post/3m7px4rxm5t2f)
-
----
-
-@usatoday.com
-
-Kilmar Abrego Garcia, the Salvadoran immigrant who was mistakenly deported to a prison for terrorists earlier this year, has been ordered freed by a federal judge.
-
-His deportation made him a flash point for the Trump administration's aggressive immigration policies. bit.ly/4oKsfkv
-
-[2025-12-12 01:02:19](https://bsky.app/profile/usatoday.com/post/3m7px4juyr32g)
+[2025-12-12 01:25:03](https://bsky.app/profile/nytimes.com/post/3m7pyf773z725)
 
 ---
 
-@usatoday.com
+@nbcnews.com
 
-Congress gave Health and Human Services Secretary Robert F. Kennedy Jr. two reasons on Dec. 10 to be in a bad mood.
+<strong><span style="color: red;">JUST IN:</span> Judge orders Kilmar Abrego Garcia to be immediately released from ICE custody, the latest twist in the Maryland man’s deportation case. </strong>
 
-[2025-12-12 01:01:13](https://bsky.app/profile/usatoday.com/post/3m7px2ktcc22o)
-
----
-
-@reuters.com
-
-Two dead after collapse at South Korea library construction site, Yonhap reports reut.rs/4iRPGHh
-
-[2025-12-12 01:00:55](https://bsky.app/profile/reuters.com/post/3m7pwzzza4l23)
+[2025-12-12 01:21:22](https://bsky.app/profile/nbcnews.com/post/3m7py6lt7452q)
 
 ---
 
-@cnn.com
+@yahoofinance.com
 
-Brian Walshe will not take the stand in his murder trial.
+Oracle stock sinks as AI costs jump past Wall Street estimates
 
-The defense rested without putting on any evidence. Prosecutors in Massachusetts rested their case on Wednesday, after calling about 50 witnesses across eight days of testimony. https://cnn.it/4rImc2G
-
-[2025-12-12 01:00:41](https://bsky.app/profile/cnn.com/post/3m7pwzmyql523)
+[2025-12-12 01:21:04](https://bsky.app/profile/yahoofinance.com/post/3m7py63g4l72v)
 
 ---
 
-@washingtonpost.com
+@nbcnews.com
 
-Congressional Republicans are trying to rework the Affordable Care Act.
+Torrential rain sweeps across the Gaza Strip, flooding hundreds of tents sheltering families displaced by two years of war, and leading to the death of a baby girl due to exposure, local health officials say.
 
-But so far, the effort has triggered a free-for-all of competing ideas, leaving little chance of a bill reaching President Trump’s desk before health insurance premiums rise.
+[2025-12-12 01:20:28](https://bsky.app/profile/nbcnews.com/post/3m7py4ysrvz23)
 
-[2025-12-12 01:00:38](https://bsky.app/profile/washingtonpost.com/post/3m7pwzk66up2x)
+---
+
+@yahoonews.com
+
+President Trump inserted himself directly into the battle for control of Warner Bros. Discovery on Wednesday, saying, “It’s imperative that CNN be sold,” while deriding the network’s news coverage. yhoo.it/48xG8hd
+
+[2025-12-12 01:20:08](https://bsky.app/profile/yahoonews.com/post/3m7py4figxl22)
+
+---
+
+@wsj.com
+
+Two exhibitions, ‘Of Light and Air: Winslow Homer in Watercolor’ and ‘American Landscapes in Watercolor From the Corcoran Collection,’ offer glimmering views of the medium’s history. on.wsj.com/4rSzLws
+
+[2025-12-12 01:17:11](https://bsky.app/profile/wsj.com/post/3m7pxx4ojtl2h)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Killer whales and dolphins seen hunting together in rare video
+
+[2025-12-12 01:16:54](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7pxwmxlil2x)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Thousands ready to evacuate as flooding hits Pacific Northwest
+
+[2025-12-12 01:15:49](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7pxupnh3l2z)
 
 ---
 
