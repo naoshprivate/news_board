@@ -1,9 +1,9 @@
-# [2025-12-11 21:10 updated](2025_12_11.md)
+# [2025-12-11 21:30 updated](2025_12_11.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Asian equities see biggest foreign outflows in nearly six years on tech valuation fears reut.rs/4rRuqWm <a href="https://bsky.app/profile/reuters.com/post/3m7pjuhmjsc2s" target="_blank">reuters.com</a> (2025-12-11 21:05:09)</span><span style="padding-right:50px;">The Oklahoma City Thunder aren’t merely matching all-time great teams like Michael Jordan’s Bulls and Stephen Curry’s Warriors. They’re on pace to blow right past them. on.wsj.com/4abEu6m <a href="https://bsky.app/profile/wsj.com/post/3m7pjqftr7a2g" target="_blank">wsj.com</a> (2025-12-11 21:02:53)</span><span style="padding-right:50px;">【中国､倹約令が直撃】 白酒メーカー大手4社が減益･赤字　7～9月 www.nikkei.com/article/DGXZQO...  中国当局は5月中旬、共産党関係者らが接待で高級料理や酒を提供することを禁止。  ところが摘発の網が自身に及ぶのを恐れた一般人まで、飲酒を控えるようになりました。 <a href="https://bsky.app/profile/nikkei.com/post/3m7pjole4jw2m" target="_blank">nikkei.com</a> (2025-12-11 21:01:52)</span><span style="padding-right:50px;">President Trump wants lower interest rates and a new Fed chair. Wednesday’s divisions suggest one won’t guarantee the other. <a href="https://bsky.app/profile/wsj.com/post/3m7pjohogzb2t" target="_blank">wsj.com</a> (2025-12-11 21:01:48)</span><span style="padding-right:50px;">South African business confidence index surges in November, mainly on tourism reut.rs/4py6vtC <a href="https://bsky.app/profile/reuters.com/post/3m7pjn26g562c" target="_blank">reuters.com</a> (2025-12-11 21:01:00)</span>
+<span style="padding-right:50px;">Montreal Has Just Opened Its First-Ever 100% Women’s Sports Bar <a href="https://bsky.app/profile/forbes.com/post/3m7pl5ra2ns2d" target="_blank">forbes.com</a> (2025-12-11 21:28:15)</span><span style="padding-right:50px;">In a year marked by setbacks for female employment and advancement opportunities, the World’s 100 Most Powerful Women managed to exert their power — on philanthropy, AI, finance and entertainment. <a href="https://bsky.app/profile/forbes.com/post/3m7pl52d5js2d" target="_blank">forbes.com</a> (2025-12-11 21:27:51)</span><span style="padding-right:50px;">Japanese Prime Minister Sanae Takaichi is the highest-ranked political newcomer to the Forbes list of the World’s Most Powerful Women, one of a few breakthroughs amid a year otherwise marked by sudden ousters and stalled progress toward parity. <a href="https://bsky.app/profile/forbes.com/post/3m7pl4g3mtc2d" target="_blank">forbes.com</a> (2025-12-11 21:27:30)</span><span style="padding-right:50px;">ミャンマー軍 総選挙前に対立する少数民族の病院空爆 35人死亡 https://news.web.nhk/newsweb/na/na-k10015001391000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7pl3o757v2y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-11 21:27:03)</span><span style="padding-right:50px;">The women behind Netflix’s most-watched original movie ever—including its writer and co-director Maggie Kang and singer-songwriter Ejae—created one of the most powerful cultural moments of 2025. <a href="https://bsky.app/profile/forbes.com/post/3m7pl36khi22d" target="_blank">forbes.com</a> (2025-12-11 21:26:48)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48057.75 (🔺483.79 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23654.15 (🔺118.15 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.78 (🔻1.19 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.72 (🔻0.24 : 2025-12-11)</span>
+<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48057.75 (🔺483.79 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23654.15 (🔺118.15 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.78 (🔻1.19 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.63 (🔻0.33 : 2025-12-11)</span>
   </div>
 </div>
 
@@ -32,100 +32,95 @@
 
 ## News Headlines
 
-1.  アジア株が6年来最大の外国からの資金引き出し　テクノロジー評価懸念
-2.  オクラホマシティ・サンダーの史上最速の勝ち頭
-3.  中国の倹約令　白酒大手４社が減益・赤字
-4.  ドナルド・トランプ米大統領が下馬評　利下げと新フェッド議長希望
-5.  サンゴバをめぐる衝突　19人以上死亡　カンボジア・タイ国境で激しい戦闘
-6.  米国の観光客が脅威か恩恵か　ポルトガルで観光客への制限強化
+1. モントリオール初の女性専用スポーツバーがオープン
+2. Forbes の「世界の最も力のある女性」に日本の竹内光太郎首相がランクイン
+3. ミャンマー軍、総選挙前に少数民族の病院空爆　35人死亡
+4. Netflixの女性スタッフが作った映画が大ヒット　女性が力を持つ文化の象徴
+5. 米国FDAが初めての自宅でのうつ病治療デバイスを承認
+6. ノーベル賞受賞者 坂口志文氏「子どもたちへのいい刺激になれば」
 
 ----
 
+@forbes.com
+
+Montreal Has Just Opened Its First-Ever 100% Women’s Sports Bar
+
+[2025-12-11 21:28:15](https://bsky.app/profile/forbes.com/post/3m7pl5ra2ns2d)
+
+---
+
+@forbes.com
+
+In a year marked by setbacks for female employment and advancement opportunities, the World’s 100 Most Powerful Women managed to exert their power — on philanthropy, AI, finance and entertainment.
+
+[2025-12-11 21:27:51](https://bsky.app/profile/forbes.com/post/3m7pl52d5js2d)
+
+---
+
+@forbes.com
+
+Japanese Prime Minister Sanae Takaichi is the highest-ranked political newcomer to the Forbes list of the World’s Most Powerful Women, one of a few breakthroughs amid a year otherwise marked by sudden ousters and stalled progress toward parity.
+
+[2025-12-11 21:27:30](https://bsky.app/profile/forbes.com/post/3m7pl4g3mtc2d)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+ミャンマー軍 総選挙前に対立する少数民族の病院空爆 35人死亡
+https://news.web.nhk/newsweb/na/na-k10015001391000
+
+[2025-12-11 21:27:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7pl3o757v2y)
+
+---
+
+@forbes.com
+
+The women behind Netflix’s most-watched original movie ever—including its writer and co-director Maggie Kang and singer-songwriter Ejae—created one of the most powerful cultural moments of 2025.
+
+[2025-12-11 21:26:48](https://bsky.app/profile/forbes.com/post/3m7pl36khi22d)
+
+---
+
+@forbes.com
+
+From the world’s youngest self-made female billionaire Luana Lopes-Lara to Temasek CFO Png Chin Yee and Waymo co-CEO Tekedra Mawakana, these are the founders and executives we’ll be watching in 2026.
+
+[2025-12-11 21:26:31](https://bsky.app/profile/forbes.com/post/3m7pl2nu3uk2d)
+
+---
+
+@forbes.com
+
+Women are steering the systems that will define the next decade. As the 2025 Forbes Power Women list demonstrates, their influence across technology, finance and politics is both deep and global, yet the highest tiers of power remain selectively guarded.
+
+[2025-12-11 21:26:11](https://bsky.app/profile/forbes.com/post/3m7pl2322ak2d)
+
+---
+
+@forbes.com
+
+For all the setbacks for the world’s women in 2025, the leaders and vanguards on the 2025 Forbes Power Women list stood as examples of resilience in turbulent times.
+
+[2025-12-11 21:25:48](https://bsky.app/profile/forbes.com/post/3m7pkzf56j22d)
+
+---
+
 @reuters.com
 
-Asian equities see biggest foreign outflows in nearly six years on tech valuation fears reut.rs/4rRuqWm
+Rezolute's rare disease drug fails to meet main goal in late-stage trial reut.rs/3YjXNmz
 
-[2025-12-11 21:05:09](https://bsky.app/profile/reuters.com/post/3m7pjuhmjsc2s)
-
----
-
-@wsj.com
-
-The Oklahoma City Thunder aren’t merely matching all-time great teams like Michael Jordan’s Bulls and Stephen Curry’s Warriors. They’re on pace to blow right past them. on.wsj.com/4abEu6m
-
-[2025-12-11 21:02:53](https://bsky.app/profile/wsj.com/post/3m7pjqftr7a2g)
+[2025-12-11 21:25:08](https://bsky.app/profile/reuters.com/post/3m7pky6yxtl2p)
 
 ---
 
-@nikkei.com
+@nytimes.com
 
-【中国､倹約令が直撃】
-白酒メーカー大手4社が減益･赤字　7～9月
-www.nikkei.com/article/DGXZQO...
+A powerful earthquake that jolted Japan’s northern coast on Monday prompted the government to issue a rare advisory that the chance of a far larger and more destructive earthquake in the next week had increased. 
 
-中国当局は5月中旬、共産党関係者らが接待で高級料理や酒を提供することを禁止。
+Here's what to know.
 
-ところが摘発の網が自身に及ぶのを恐れた一般人まで、飲酒を控えるようになりました。
-
-[2025-12-11 21:01:52](https://bsky.app/profile/nikkei.com/post/3m7pjole4jw2m)
-
----
-
-@wsj.com
-
-President Trump wants lower interest rates and a new Fed chair. Wednesday’s divisions suggest one won’t guarantee the other.
-
-[2025-12-11 21:01:48](https://bsky.app/profile/wsj.com/post/3m7pjohogzb2t)
-
----
-
-@reuters.com
-
-South African business confidence index surges in November, mainly on tourism reut.rs/4py6vtC
-
-[2025-12-11 21:01:00](https://bsky.app/profile/reuters.com/post/3m7pjn26g562c)
-
----
-
-@bloomberg.com
-
-The University of California sold $2.2 billion of municipal bonds on Tuesday, executing a deal of which a portion had been pulled earlier this year after Governor Newsom faced off with President Trump over frozen federal research funds.
-
-[2025-12-11 21:00:36](https://bsky.app/profile/bloomberg.com/post/3m7pjmdcrqb23)
-
----
-
-@usatoday.com
-
-Sherrone Moore was arrested and booked into Washtenaw County Jail amid an investigation into alleged assault, hours after Michigan fired him for cause.
-
-[2025-12-11 21:00:29](https://bsky.app/profile/usatoday.com/post/3m7pjm47mdc2t)
-
----
-
-@nbcnews.com
-
-An environmental group wants President Trump’s image removed from next year's national park passes, and it’s suing to try to make that happen.
-
-[2025-12-11 21:00:27](https://bsky.app/profile/nbcnews.com/post/3m7pjm2nnkb2n)
-
----
-
-@cnn.com
-
-Congressional Republicans are taking a major political gamble this week.
-
-[2025-12-11 21:00:19](https://bsky.app/profile/cnn.com/post/3m7pjlt3gsg23)
-
----
-
-@washingtonpost.com
-
-London’s original fast food, “pie and mash,” is making a comeback. A new generation is rediscovering the appeal of minced beef pies, mashed potatoes, and the classic Kermit-green parsley sauce.
-
-Even David Beckham has endorsed the meal adding jellied eels.
-
-[2025-12-11 21:00:18](https://bsky.app/profile/washingtonpost.com/post/3m7pjlrrfrf2g)
+[2025-12-11 21:25:04](https://bsky.app/profile/nytimes.com/post/3m7pky2wi3k2b)
 
 ---
 
