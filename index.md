@@ -1,9 +1,9 @@
-# [2025-12-12 02:10 updated](2025_12_12.md)
+# [2025-12-12 02:30 updated](2025_12_12.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Nuctech hit by EU investigation on concerns of Chinese subsidies reut.rs/3MDXBvP <a href="https://bsky.app/profile/reuters.com/post/3m7q2n2uxzr2b" target="_blank">reuters.com</a> (2025-12-12 02:05:15)</span><span style="padding-right:50px;">Legendary hoteliers Paolo and Antonella De Santis invite the public into their 1930 villa to view their masterpieces. on.wsj.com/48AxdeY <a href="https://bsky.app/profile/wsj.com/post/3m7q2hvb5bb2g" target="_blank">wsj.com</a> (2025-12-12 02:02:21)</span><span style="padding-right:50px;">The Cincinnati Bengals are hoping to get one important player back on the field this week while keeping another from exiting the lineup. <a href="https://bsky.app/profile/apnews.com/post/3m7q2gffl6d24" target="_blank">apnews.com</a> (2025-12-12 02:01:31)</span><span style="padding-right:50px;">Wisconsin judge on trial as Trump administration targets immigration enforcement resistance reut.rs/44Xruxx <a href="https://bsky.app/profile/reuters.com/post/3m7q2fwo4le2b" target="_blank">reuters.com</a> (2025-12-12 02:01:15)</span><span style="padding-right:50px;">The Environmental Protection Agency has altered and removed information from its web site that connected climate change to the burning of fossil fuels. https://cnn.it/3YofNw4 <a href="https://bsky.app/profile/cnn.com/post/3m7q2eyqewg2o" target="_blank">cnn.com</a> (2025-12-12 02:00:44)</span>
+<span style="padding-right:50px;">The fighters led by the CIA found themselves spiraling into despair because of what they saw as bureaucratic neglect and abandonment by the U.S. government. <a href="https://bsky.app/profile/npr.org/post/3m7q3y53ond2x" target="_blank">npr.org</a> (2025-12-12 02:29:20)</span><span style="padding-right:50px;">Too many auto-bids! <a href="https://bsky.app/profile/nbcnews.com/post/3m7q3t5wahc26" target="_blank">nbcnews.com</a> (2025-12-12 02:26:33)</span><span style="padding-right:50px;">The 10 best worst hostile takeover offers ever on.ft.com/44pFv6V <a href="https://bsky.app/profile/financialtimes.com/post/3m7q3ruhifk2o" target="_blank">financialtimes.com</a> (2025-12-12 02:25:49)</span><span style="padding-right:50px;">Amazon plans new one-hour pickup service in stores, Business Insider reports reut.rs/3Kr0pMn <a href="https://bsky.app/profile/reuters.com/post/3m7q3qpdwzn2r" target="_blank">reuters.com</a> (2025-12-12 02:25:10)</span><span style="padding-right:50px;">The Senate was on track Thursday to block two competing proposals to avert rising health care premiums with back-to-back floor votes that were expected to highlight a partisan deadlock on the issue. <a href="https://bsky.app/profile/nytimes.com/post/3m7q3oecnms2m" target="_blank">nytimes.com</a> (2025-12-12 02:23:52)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48624.11 (🔺541.21 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23453.59 (🔻55.63 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 178.19 (🔻2.08 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.13 (🔻0.83 : 2025-12-11)</span>
+<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48694.28 (🔺611.38 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23509.15 (🔻0.07 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 178.56 (🔻1.71 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.21 (🔻0.75 : 2025-12-11)</span>
   </div>
 </div>
 
@@ -32,112 +32,107 @@
 
 ## News Headlines
 
-Here are six important topics with Japanese headings:
+Here are six important topics with Japanese headlines:
 
-1. EUが中国のサブサイドに疑問を提起
-Nuctech hit by EU investigation on concerns of Chinese subsidies
+1. US Government Abandons CIA Fighters
+(US government, CIA, fighters)
 
-2. サバイバーの最終6名が残り5名に減少
-The final six of Survivor Season 49 dwindled down to five after tribal council featured two advantage plays and a shocking blindside
+2. Amazon Launches One-Hour Pickup Service
+(Amazon, one-hour pickup, stores)
 
-3. 米大統領が東南アジアの衝突を解決する電話
-Fighting between Thailand and Cambodia enters its fourth day as both sides wait for a promised telephone call from President Trump, who says he believes he can again end the conflict between the two Southeast Asian nations
+3. Bulgaria's Government Collapses Amid Protests
+(Bulgaria, government, protests)
 
-4. ICEが移民の釈放を命じられる
-A federal judge ordered Kilmar Abrego Garcia immediately released from immigration custody, ruling that the government couldn’t continue to indefinitely hold the 30-year-old Salvadoran
+4. Historic Rain Causes State of Emergency in Washington
+(Washington, rain, state of emergency)
 
-5. ワーナー・ブラザースの買収にパラマウントが興味
-MFE's Berlusconi favours Paramount bid for Warner Bros in streaming shake-up
+5. NASCAR Reaches Settlement with Race Teams
+(NASCAR, settlement, race teams)
 
-6. トルコが為替金利を大幅に下げ
-Turkey cenbank cuts rates 150 pts to 38% on 'improving' signals
+6. Trump Administration Deports Immigrant to El Salvador, Then Returns Him to US
+(Trump administration, deportation, El Salvador)
 
 ----
 
-@reuters.com
+@npr.org
 
-Nuctech hit by EU investigation on concerns of Chinese subsidies reut.rs/3MDXBvP
+The fighters led by the CIA found themselves spiraling into despair because of what they saw as bureaucratic neglect and abandonment by the U.S. government.
 
-[2025-12-12 02:05:15](https://bsky.app/profile/reuters.com/post/3m7q2n2uxzr2b)
-
----
-
-@wsj.com
-
-Legendary hoteliers Paolo and Antonella De Santis invite the public into their 1930 villa to view their masterpieces. on.wsj.com/48AxdeY
-
-[2025-12-12 02:02:21](https://bsky.app/profile/wsj.com/post/3m7q2hvb5bb2g)
-
----
-
-@apnews.com
-
-The Cincinnati Bengals are hoping to get one important player back on the field this week while keeping another from exiting the lineup.
-
-[2025-12-12 02:01:31](https://bsky.app/profile/apnews.com/post/3m7q2gffl6d24)
-
----
-
-@reuters.com
-
-Wisconsin judge on trial as Trump administration targets immigration enforcement resistance reut.rs/44Xruxx
-
-[2025-12-12 02:01:15](https://bsky.app/profile/reuters.com/post/3m7q2fwo4le2b)
-
----
-
-@cnn.com
-
-The Environmental Protection Agency has altered and removed information from its web site that connected climate change to the burning of fossil fuels.
-https://cnn.it/3YofNw4
-
-[2025-12-12 02:00:44](https://bsky.app/profile/cnn.com/post/3m7q2eyqewg2o)
-
----
-
-@washingtonpost.com
-
-While previous administrations have included the ultrarich, the wealth held by this group is larger than even the first Trump administration, previously the wealthiest in U.S. history. 
-
-Here’s who they are.
-
-[2025-12-12 02:00:42](https://bsky.app/profile/washingtonpost.com/post/3m7q2ewzb6d2e)
-
----
-
-@cnbc.com
-
-Katie Lee says what she describes as a “traumatic” experience giving birth in the U.S. made her question if she wanted a second child. A move abroad to Taiwan helped her reconsider.
-
-“It basically felt like being at a luxury hotel with the baby care and food delivery programs,” Lee says.
-
-[2025-12-12 02:00:39](https://bsky.app/profile/cnbc.com/post/3m7q2eu5dnv23)
-
----
-
-@usatoday.com
-
-The final six of "Survivor" Season 49 dwindled down to five after tribal council featured two advantage plays and a shocking blindside.
-
-[2025-12-12 02:00:36](https://bsky.app/profile/usatoday.com/post/3m7q2erhpfs2o)
-
----
-
-@bloomberg.com
-
-🧩 Crossword fans, there’s a new daily game in town. 
-
-Alphadots challenges players to solve a new puzzle every day using speed and strategy. Try today’s puzzle:
-
-[2025-12-12 02:00:19](https://bsky.app/profile/bloomberg.com/post/3m7q2eb3afs2d)
+[2025-12-12 02:29:20](https://bsky.app/profile/npr.org/post/3m7q3y53ond2x)
 
 ---
 
 @nbcnews.com
 
-Fighting between Thailand and Cambodia enters its fourth day as both sides wait for a promised telephone call from President Trump, who says he believes he can again end the conflict between the two Southeast Asian nations.
+Too many auto-bids!
 
-[2025-12-12 02:00:13](https://bsky.app/profile/nbcnews.com/post/3m7q2e365gx2n)
+[2025-12-12 02:26:33](https://bsky.app/profile/nbcnews.com/post/3m7q3t5wahc26)
+
+---
+
+@financialtimes.com
+
+The 10 best worst hostile takeover offers ever on.ft.com/44pFv6V
+
+[2025-12-12 02:25:49](https://bsky.app/profile/financialtimes.com/post/3m7q3ruhifk2o)
+
+---
+
+@reuters.com
+
+Amazon plans new one-hour pickup service in stores, Business Insider reports reut.rs/3Kr0pMn
+
+[2025-12-12 02:25:10](https://bsky.app/profile/reuters.com/post/3m7q3qpdwzn2r)
+
+---
+
+@nytimes.com
+
+The Senate was on track Thursday to block two competing proposals to avert rising health care premiums with back-to-back floor votes that were expected to highlight a partisan deadlock on the issue.
+
+[2025-12-12 02:23:52](https://bsky.app/profile/nytimes.com/post/3m7q3oecnms2m)
+
+---
+
+@cnbc.com
+
+Stocks making the biggest moves midday: Oracle, Vail Resorts, GE Vernova, Brinks, Ciena & more
+
+[2025-12-12 02:22:55](https://bsky.app/profile/cnbc.com/post/3m7q3mnugtp24)
+
+---
+
+@nbcnews.com
+
+The medical professionals guiding your fantasy football teams:
+
+Doctors and physical therapists have found an audience in NFL fans, fantasy football players and sports bettors, all of whom seek information about players’ availability.
+
+[2025-12-12 02:22:02](https://bsky.app/profile/nbcnews.com/post/3m7q3l377qk26)
+
+---
+
+@yahoofinance.com
+
+How retirees can avoid going into debt from holiday shopping
+
+[2025-12-12 02:21:05](https://bsky.app/profile/yahoofinance.com/post/3m7q3jeug3h2q)
+
+---
+
+@wsj.com
+
+Bulgaria’s government collapsed Thursday following a wave of youth-driven street protests over entrenched corruption and self-dealing elites widely seen as disconnected from the struggles of ordinary citizens.
+
+[2025-12-12 02:20:55](https://bsky.app/profile/wsj.com/post/3m7q3j464ff2r)
+
+---
+
+@nbcnews.com
+
+A state of emergency has been declared, and tens of thousands of people have been ordered to leave their homes in western Washington after historic rain left rivers at record levels across the state.
+
+[2025-12-12 02:20:09](https://bsky.app/profile/nbcnews.com/post/3m7q3hpqlrb24)
 
 ---
 
