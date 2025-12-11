@@ -1,9 +1,9 @@
-# [2025-12-12 06:30 updated](2025_12_12.md)
+# [2025-12-12 06:50 updated](2025_12_12.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">In a segment that favors immense proportions, the handsome Mazda CX-90 is betting that many drivers want something a little less gargantuan.  on.wsj.com/48IfBOx <a href="https://bsky.app/profile/wsj.com/post/3m7qjbbv3pp2t" target="_blank">wsj.com</a> (2025-12-12 06:27:05)</span><span style="padding-right:50px;">EU ban on combustion engine cars off table, EPP's Weber says reut.rs/455Iemf <a href="https://bsky.app/profile/reuters.com/post/3m7qj63cgoj2k" target="_blank">reuters.com</a> (2025-12-12 06:25:18)</span><span style="padding-right:50px;">Google recently boasted that its new A.I. model had surpassed technology from OpenAI. Then OpenAI released a new model of its own, claiming it was the best yet. The tightening of the A.I. race comes at a precarious time for the company behind ChatGPT. <a href="https://bsky.app/profile/nytimes.com/post/3m7qj5oytlr2a" target="_blank">nytimes.com</a> (2025-12-12 06:25:05)</span><span style="padding-right:50px;">Time's 2025 Person of the Year is "The architects of AI." Here's a look at some of the people and movements that earned the title in the past. yhoo.it/3XLBqGB  <a href="https://bsky.app/profile/yahoonews.com/post/3m7qj3dywys2m" target="_blank">yahoonews.com</a> (2025-12-12 06:23:46)</span><span style="padding-right:50px;">More people appear to be walking away from Affordable Care Act coverage or switching to cheaper plans for 2026 compared to this time last year, according to early enrollment data from several states. <a href="https://bsky.app/profile/nbcnews.com/post/3m7qiv26d7g2p" target="_blank">nbcnews.com</a> (2025-12-12 06:20:15)</span>
+<span style="padding-right:50px;">BREAKING: Indiana Senate Republicans reject new congressional maps in defiance of President Trump’s redistricting push. <a href="https://bsky.app/profile/apnews.com/post/3m7qki7dje52r" target="_blank">apnews.com</a> (2025-12-12 06:48:51)</span><span style="padding-right:50px;">2泊37万円のバスツアー　名古屋鉄道系、富裕層向けサービス続々 www.nikkei.com/article/DGXZQO...  行き先は三重県の松阪エリアや静岡県の浜名湖など。最上位のコースは軽井沢や日光を巡ります。  高級帯のスーパーやペットサロンなどを相次いで打ち出した名鉄グループ。  主力の鉄道輸送の需要拡大が見込みにくいなか、富裕層向けビジネスを強化しています。 <a href="https://bsky.app/profile/nikkei.com/post/3m7qkcjl2ck2c" target="_blank">nikkei.com</a> (2025-12-12 06:45:41)</span><span style="padding-right:50px;">Trump troop deployments to US cities have cost more than $340 million, senator says reut.rs/3MWhnCQ <a href="https://bsky.app/profile/reuters.com/post/3m7qkbrlwvf24" target="_blank">reuters.com</a> (2025-12-12 06:45:16)</span><span style="padding-right:50px;">President Trump has been clear that he expects his pick to replace the chair of the Federal Reserve to deliver lower interest rates. But intense divisions inside the central bank suggest that could be a challenge for the next chair, who is set to take over in May. <a href="https://bsky.app/profile/nytimes.com/post/3m7qkbjnt4i2r" target="_blank">nytimes.com</a> (2025-12-12 06:45:07)</span><span style="padding-right:50px;">Santoli's Thursday market wrap-up: Investors conclude Fed won't smother growth or restrain stocks <a href="https://bsky.app/profile/cnbc.com/post/3m7qkbjjjcx2e" target="_blank">cnbc.com</a> (2025-12-12 06:45:07)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48704.01 (🔺621.11 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23593.86 (🔺84.64 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.93 (🔺0.65 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.56 (🔻0.40 : 2025-12-11)</span>
+<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48704.01 (🔺621.11 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23593.86 (🔺84.64 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.93 (🔺0.65 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.58 (🔻0.38 : 2025-12-11)</span>
   </div>
 </div>
 
@@ -32,120 +32,114 @@
 
 ## News Headlines
 
-Here are six important topics with Japanese titles:
+Here are six important topics with Japanese headlines:
 
-1. 
-EU combustion engine car ban cancelled
+1.  BREAKING: インディアナ州議会が新しい選挙区割の提案を却下
+(Indiana Senate Rejects New Congressional Maps)
 
-(EUの燃料自動車規制撤回)
+2.  名鉄グループ、バスツアーを展開　富裕層向けサービス続々
+(Namco Group Launches Luxury Bus Tour for High-End Customers)
 
-2. 
-Mazda's new SUV, CX-90, takes aim at smaller market
+3.  トランプ大統領の軍隊派遣費用が340万ドル以上にのぼる
+(Trump's Military Deployments to US Cities Have Cost Over $340 Million)
 
-(Mazdaの新型SUV CX-90、より小型の市場を狙う)
+4.  日銀短観　民間予測では「横ばい」の予想多く
+(BOJ Short-Term Forecast: Many Expect Stagnation)
 
-3. 
-AI model surpasses OpenAI, sparking a new race in AI technology
+5.  米タイム誌「ことしの人」に「AI＝人工知能の設計者たち」
+(Time Magazine's 2025 Person of the Year: The Architects of AI)
 
-(OpenAIを超えたAIモデル、AI技術の新たな競争を巻き起こす)
-
-4. 
-Trump administration imposes sanctions on Venezuela's oil trade
-
-(トルコ政権、ベネズエラの石油輸出に対する制裁を課す)
-
-5. 
-Lululemon CEO to step down due to declining sales
-
-(LululemonのCEO、売上低下のため辞任する)
-
-6. 
-US imposes sanctions on three nephews of Venezuelan President Maduro
-
-(トルコ政権、ベネズエラ大統領マドゥロの三人の姪に対する制裁を課す)
+6.  インフレーションの影響　米国の生活費が激増中
+(Inflation's Impact: Living Costs in the US Are Skyrocketing)
 
 ----
 
-@wsj.com
+@apnews.com
 
-In a segment that favors immense proportions, the handsome Mazda CX-90 is betting that many drivers want something a little less gargantuan.  on.wsj.com/48IfBOx
+<strong><span style="color: red;">BREAKING:</span> Indiana Senate Republicans reject new congressional maps in defiance of President Trump’s redistricting push.</strong>
 
-[2025-12-12 06:27:05](https://bsky.app/profile/wsj.com/post/3m7qjbbv3pp2t)
+[2025-12-12 06:48:51](https://bsky.app/profile/apnews.com/post/3m7qki7dje52r)
+
+---
+
+@nikkei.com
+
+2泊37万円のバスツアー　名古屋鉄道系、富裕層向けサービス続々
+www.nikkei.com/article/DGXZQO...
+
+行き先は三重県の松阪エリアや静岡県の浜名湖など。最上位のコースは軽井沢や日光を巡ります。
+
+高級帯のスーパーやペットサロンなどを相次いで打ち出した名鉄グループ。
+
+主力の鉄道輸送の需要拡大が見込みにくいなか、富裕層向けビジネスを強化しています。
+
+[2025-12-12 06:45:41](https://bsky.app/profile/nikkei.com/post/3m7qkcjl2ck2c)
 
 ---
 
 @reuters.com
 
-EU ban on combustion engine cars off table, EPP's Weber says reut.rs/455Iemf
+Trump troop deployments to US cities have cost more than $340 million, senator says reut.rs/3MWhnCQ
 
-[2025-12-12 06:25:18](https://bsky.app/profile/reuters.com/post/3m7qj63cgoj2k)
+[2025-12-12 06:45:16](https://bsky.app/profile/reuters.com/post/3m7qkbrlwvf24)
 
 ---
 
 @nytimes.com
 
-Google recently boasted that its new A.I. model had surpassed technology from OpenAI. Then OpenAI released a new model of its own, claiming it was the best yet. The tightening of the A.I. race comes at a precarious time for the company behind ChatGPT.
+President Trump has been clear that he expects his pick to replace the chair of the Federal Reserve to deliver lower interest rates. But intense divisions inside the central bank suggest that could be a challenge for the next chair, who is set to take over in May.
 
-[2025-12-12 06:25:05](https://bsky.app/profile/nytimes.com/post/3m7qj5oytlr2a)
+[2025-12-12 06:45:07](https://bsky.app/profile/nytimes.com/post/3m7qkbjnt4i2r)
 
 ---
 
-@yahoonews.com
+@cnbc.com
 
-Time's 2025 Person of the Year is "The architects of AI." Here's a look at some of the people and movements that earned the title in the past. yhoo.it/3XLBqGB 
+Santoli's Thursday market wrap-up: Investors conclude Fed won't smother growth or restrain stocks
 
-[2025-12-12 06:23:46](https://bsky.app/profile/yahoonews.com/post/3m7qj3dywys2m)
+[2025-12-12 06:45:07](https://bsky.app/profile/cnbc.com/post/3m7qkbjjjcx2e)
+
+---
+
+@npr.org
+
+New court documents reveal a list of nearly 200 words or phrases the Trump administration told Head Start programs it does not want to see in their funding requests. n.pr/497P6C4
+
+[2025-12-12 06:45:00](https://bsky.app/profile/npr.org/post/3m7qkbcfrvt25)
 
 ---
 
 @nbcnews.com
 
-More people appear to be walking away from Affordable Care Act coverage or switching to cheaper plans for 2026 compared to this time last year, according to early enrollment data from several states.
+<strong><span style="color: red;">BREAKING:</span> Indiana Senate votes against a new Republican-drawn congressional map, rejecting a bid led by President Trump aimed at boosting the party in next year’s midterm elections.</strong>
 
-[2025-12-12 06:20:15](https://bsky.app/profile/nbcnews.com/post/3m7qiv26d7g2p)
-
----
-
-@cbsnews.com
-
-The U.S. imposed sanctions on three nephews of Venezuelan President Nicolás Maduro on Thursday, as well as half a dozen ships accused of carrying oil from the country, as President Trump looks to inflict further pressure on the South American nation.
-
-
-
-[2025-12-12 06:20:01](https://bsky.app/profile/cbsnews.com/post/3m7qiun3plm2i)
+[2025-12-12 06:42:29](https://bsky.app/profile/nbcnews.com/post/3m7qk4s7ykk24)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-トランプ氏 ガザ地区 評議会のメンバー 来年初め発表の見通し
-https://news.web.nhk/newsweb/na/na-k10015001671000
+保護司のサポートセンター 夜間土日祝日に約6割利用できず
+https://news.web.nhk/newsweb/na/na-k10015001461000
 
-[2025-12-12 06:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7qir65hdt22)
+[2025-12-12 06:42:06](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7qk46up4g2d)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+地震で鉄塔損傷 避難指示続く 補修に3週間程度の見通し 八戸
+https://news.web.nhk/newsweb/na/na-k10015001581000
+
+[2025-12-12 06:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7qk42mvi52l)
 
 ---
 
 @reuters.com
 
-M23 consolidates control over Congo town in blow to peace talks reut.rs/44ToVfS
+Foreign entities should have no rights on Italy's gold reserves, Meloni's party says reut.rs/44nRfa8
 
-[2025-12-12 06:15:25](https://bsky.app/profile/reuters.com/post/3m7qimfq7ge24)
-
----
-
-@nytimes.com
-
-A tangle of problems at IndiGo, India’s biggest airline, resulted in gridlocked airports across the country — a symptom of an even bigger problem.
-
-[2025-12-12 06:15:08](https://bsky.app/profile/nytimes.com/post/3m7qilvssvm2r)
-
----
-
-@wsj.com
-
-Lululemon Chief Executive Calvin McDonald will give up the reins in January, after the company’s sales faltered and its founder pushed for board changes.
-
-[2025-12-12 06:15:06](https://bsky.app/profile/wsj.com/post/3m7qilu5iju2h)
+[2025-12-12 06:41:03](https://bsky.app/profile/reuters.com/post/3m7qk2afv2l2k)
 
 ---
 
