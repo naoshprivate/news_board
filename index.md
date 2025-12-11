@@ -1,9 +1,9 @@
-# [2025-12-11 21:50 updated](2025_12_11.md)
+# [2025-12-11 22:10 updated](2025_12_11.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】首都高速の事故でバイクを運転の男性が川に落下 意識あり軽傷 (2025年12月11日 19:54) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7pmdhsj2h2b" target="_blank">sokuho.news</a> (2025-12-11 21:49:20)</span><span style="padding-right:50px;">Venezuelan opposition leader María Corina Machado says she got "support" from the US to travel to Norway to accept the Nobel Peace Prize. https://cnn.it/4rPYP7p <a href="https://bsky.app/profile/cnn.com/post/3m7pm7ogd5m26" target="_blank">cnn.com</a> (2025-12-11 21:47:13)</span><span style="padding-right:50px;">How This Indian Immigrant Went From An H1-B Visa To Building A $5.5 Billion Business <a href="https://bsky.app/profile/forbes.com/post/3m7pm76hsxc2q" target="_blank">forbes.com</a> (2025-12-11 21:46:56)</span><span style="padding-right:50px;">The NHL’s Most Valuable Teams 2025 <a href="https://bsky.app/profile/forbes.com/post/3m7pm6pfu422q" target="_blank">forbes.com</a> (2025-12-11 21:46:41)</span><span style="padding-right:50px;">The exclusive WhatsApp chats where family offices vet deals, plan meetups and sell dinosaur bones <a href="https://bsky.app/profile/cnbc.com/post/3m7pm6f2wad25" target="_blank">cnbc.com</a> (2025-12-11 21:46:30)</span>
+<span style="padding-right:50px;">UK bankers warn on plan to use Russian assets for loans to Ukraine on.ft.com/453CfhL <a href="https://bsky.app/profile/financialtimes.com/post/3m7pnftmokf2w" target="_blank">financialtimes.com</a> (2025-12-11 22:08:34)</span><span style="padding-right:50px;">Time magazine has unveiled its 2025 Person of the Year: The architects of AI. yhoo.it/4abm5GK <a href="https://bsky.app/profile/yahoonews.com/post/3m7pna3bd7g2q" target="_blank">yahoonews.com</a> (2025-12-11 22:05:20)</span><span style="padding-right:50px;">Congo’s hidden victims: Child survivors recount gang rape, sexual slavery by M23 forces reut.rs/3MVc5re <a href="https://bsky.app/profile/reuters.com/post/3m7pn7sx2ei2b" target="_blank">reuters.com</a> (2025-12-11 22:05:11)</span><span style="padding-right:50px;">Charlie Chang started several of his passive income streams — which now gross an average of $114,000 per month — with $0 down. He shares four passive income businesses you can start for "less than $100." <a href="https://bsky.app/profile/cnbc.com/post/3m7pn6thmta2b" target="_blank">cnbc.com</a> (2025-12-11 22:04:39)</span><span style="padding-right:50px;">維新 税調会長 “防衛財源確保の所得税増税 党内は賛否両論” https://news.web.nhk/newsweb/na/na-k10015001481000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7pn42ddho2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-11 22:03:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48057.75 (🔺483.79 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23654.15 (🔺118.15 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.78 (🔻1.19 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.54 (🔻0.42 : 2025-12-11)</span>
+<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48057.75 (🔺483.79 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23654.15 (🔺118.15 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.78 (🔻1.19 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.56 (🔻0.40 : 2025-12-11)</span>
   </div>
 </div>
 
@@ -32,100 +32,101 @@
 
 ## News Headlines
 
-1. バイキング男性が川に落下　首都高速で事故
-2. マリア・コリーナ・マチャド氏がノーベル平和賞を受賞
-3. 日米投資交渉　EUが暫定合意
-4. エリ・リリーの新薬　患者が29％の体重を減らす
-5. バンクーバーへの道路が閉鎖　水害と地滑りのため
-6. 米通貨政策　連邦準備理事会が切り下げ
+1. 英国銀行家がウクライナへのローンでロシア資産を使用する計画に警告
+2. 2025年の人類の設計者がタイム誌の今年の人物に選ばれました
+3. コンゴの未知の被害者：M23軍の暴力虐待についての子供の生存者が語る
+4. 中国軍の新型無人機「九天」が初飛行　ドローン100機の空中発射が可能
+5. EUが薬物規制を大幅に改正し、患者の迅速なアクセスを促進する
+6. ベルリンのウィーンで起こった事件をめぐって、参議院の決定が議論の中心に
 
 ----
 
-@sokuho.news
+@financialtimes.com
 
-🔔ANNより【速報】です。
+UK bankers warn on plan to use Russian assets for loans to Ukraine on.ft.com/453CfhL
 
-【速報】首都高速の事故でバイクを運転の男性が川に落下 意識あり軽傷
-(2025年12月11日 19:54) #ニュース
-
-[2025-12-11 21:49:20](https://bsky.app/profile/sokuho.news/post/3m7pmdhsj2h2b)
+[2025-12-11 22:08:34](https://bsky.app/profile/financialtimes.com/post/3m7pnftmokf2w)
 
 ---
 
-@cnn.com
+@yahoonews.com
 
-Venezuelan opposition leader María Corina Machado says she got "support" from the US to travel to Norway to accept the Nobel Peace Prize.
-https://cnn.it/4rPYP7p
+Time magazine has unveiled its 2025 Person of the Year: The architects of AI.
+yhoo.it/4abm5GK
 
-[2025-12-11 21:47:13](https://bsky.app/profile/cnn.com/post/3m7pm7ogd5m26)
-
----
-
-@forbes.com
-
-How This Indian Immigrant Went From An H1-B Visa To Building A $5.5 Billion Business
-
-[2025-12-11 21:46:56](https://bsky.app/profile/forbes.com/post/3m7pm76hsxc2q)
-
----
-
-@forbes.com
-
-The NHL’s Most Valuable Teams 2025
-
-[2025-12-11 21:46:41](https://bsky.app/profile/forbes.com/post/3m7pm6pfu422q)
-
----
-
-@cnbc.com
-
-The exclusive WhatsApp chats where family offices vet deals, plan meetups and sell dinosaur bones
-
-[2025-12-11 21:46:30](https://bsky.app/profile/cnbc.com/post/3m7pm6f2wad25)
-
----
-
-@forbes.com
-
-Collective Of Five Olympic Sport Governing Bodies Strikes Its First Sponsor Deal
-
-[2025-12-11 21:46:23](https://bsky.app/profile/forbes.com/post/3m7pm66poe22q)
-
----
-
-@forbes.com
-
-How The King Of Beef Jerky Became A Billionaire
-
-Full story: www.forbes.com/sites/chloes...
-
-[2025-12-11 21:46:04](https://bsky.app/profile/forbes.com/post/3m7pm5mfaq22q)
+[2025-12-11 22:05:20](https://bsky.app/profile/yahoonews.com/post/3m7pna3bd7g2q)
 
 ---
 
 @reuters.com
 
-EU reaches provisional deal on screening foreign investment reut.rs/4q3pdsT
+Congo’s hidden victims: Child survivors recount gang rape, sexual slavery by M23 forces reut.rs/3MVc5re
 
-[2025-12-11 21:45:19](https://bsky.app/profile/reuters.com/post/3m7pm4c62nm2p)
-
----
-
-@axios.com
-
-NEW: Kristi Noem is locked in a bitter feud with border czar Tom Homan.
-
-Backers of Noem, who has been the subject of reports that she’s on her way out of the administration, blame the whisper campaign on Homan’s supporters.
-
-[2025-12-11 21:45:05](https://bsky.app/profile/axios.com/post/3m7pm3uqhes25)
+[2025-12-11 22:05:11](https://bsky.app/profile/reuters.com/post/3m7pn7sx2ei2b)
 
 ---
 
-@forbes.com
+@cnbc.com
 
-The Midas List Europe: The Top Venture Capital Investors In Europe and the Middle East In 2025
+Charlie Chang started several of his passive income streams — which now gross an average of $114,000 per month — with $0 down. He shares four passive income businesses you can start for "less than $100."
 
-[2025-12-11 21:44:41](https://bsky.app/profile/forbes.com/post/3m7pm356jfk2q)
+[2025-12-11 22:04:39](https://bsky.app/profile/cnbc.com/post/3m7pn6thmta2b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+維新 税調会長 “防衛財源確保の所得税増税 党内は賛否両論”
+https://news.web.nhk/newsweb/na/na-k10015001481000
+
+[2025-12-11 22:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7pn42ddho2b)
+
+---
+
+@nikkei.com
+
+中国軍の新型無人機「九天」が初飛行　ドローン100機の空中発射が可能
+www.nikkei.com/article/DGXZQO...
+
+航続距離は7000キロメートルで、最長12時間任務をこなします。
+
+自爆型ドローンや誘導爆弾、空対空ミサイルなどが搭載可能。
+
+日本にとっても脅威になり得ます。
+
+[2025-12-11 22:01:52](https://bsky.app/profile/nikkei.com/post/3m7pmzu6q5n2i)
+
+---
+
+@reuters.com
+
+EU seals pact to overhaul drug rules, speed patient access reut.rs/44PJ5aE
+
+[2025-12-11 22:01:17](https://bsky.app/profile/reuters.com/post/3m7pmysztay2b)
+
+---
+
+@bloomberg.com
+
+Dana Walden, the Disney TV co-chief who joined after the acquisition of 21st Century Fox, says the next owner of Warner Bros. should prepare for a long process
+
+[2025-12-11 22:00:33](https://bsky.app/profile/bloomberg.com/post/3m7pmxjodbe2p)
+
+---
+
+@nbcnews.com
+
+Authorities are investigating a DoorDash driver in Indiana, after video captured them appearing to spray a food delivery with an “irritant substance,” the Vanderburgh County Sheriff’s Office says.
+
+[2025-12-11 22:00:27](https://bsky.app/profile/nbcnews.com/post/3m7pmxds3qf2n)
+
+---
+
+@washingtonpost.com
+
+The order given by Adm. Frank Bradley is under scrutiny from Congress. People who have viewed or been briefed on a classified video of the operation shed light on the most consequential deliberation of his career.
+
+[2025-12-11 22:00:21](https://bsky.app/profile/washingtonpost.com/post/3m7pmx5xmwd23)
 
 ---
 
