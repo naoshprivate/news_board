@@ -1,9 +1,9 @@
-# [2025-12-12 06:50 updated](2025_12_12.md)
+# [2025-12-12 07:10 updated](2025_12_12.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">BREAKING: Indiana Senate Republicans reject new congressional maps in defiance of President Trump’s redistricting push. <a href="https://bsky.app/profile/apnews.com/post/3m7qki7dje52r" target="_blank">apnews.com</a> (2025-12-12 06:48:51)</span><span style="padding-right:50px;">2泊37万円のバスツアー　名古屋鉄道系、富裕層向けサービス続々 www.nikkei.com/article/DGXZQO...  行き先は三重県の松阪エリアや静岡県の浜名湖など。最上位のコースは軽井沢や日光を巡ります。  高級帯のスーパーやペットサロンなどを相次いで打ち出した名鉄グループ。  主力の鉄道輸送の需要拡大が見込みにくいなか、富裕層向けビジネスを強化しています。 <a href="https://bsky.app/profile/nikkei.com/post/3m7qkcjl2ck2c" target="_blank">nikkei.com</a> (2025-12-12 06:45:41)</span><span style="padding-right:50px;">Trump troop deployments to US cities have cost more than $340 million, senator says reut.rs/3MWhnCQ <a href="https://bsky.app/profile/reuters.com/post/3m7qkbrlwvf24" target="_blank">reuters.com</a> (2025-12-12 06:45:16)</span><span style="padding-right:50px;">President Trump has been clear that he expects his pick to replace the chair of the Federal Reserve to deliver lower interest rates. But intense divisions inside the central bank suggest that could be a challenge for the next chair, who is set to take over in May. <a href="https://bsky.app/profile/nytimes.com/post/3m7qkbjnt4i2r" target="_blank">nytimes.com</a> (2025-12-12 06:45:07)</span><span style="padding-right:50px;">Santoli's Thursday market wrap-up: Investors conclude Fed won't smother growth or restrain stocks <a href="https://bsky.app/profile/cnbc.com/post/3m7qkbjjjcx2e" target="_blank">cnbc.com</a> (2025-12-12 06:45:07)</span>
+<span style="padding-right:50px;">Do Kwon, the South Korean cryptocurrency entrepreneur behind two digital currencies that lost an estimated $40 billion in 2022, was sentenced in New York federal court to 15 years in prison for fraud and conspiracy reut.rs/48zygvQ <a href="https://bsky.app/profile/reuters.com/post/3m7qlksod5c2p" target="_blank">reuters.com</a> (2025-12-12 07:08:13)</span><span style="padding-right:50px;">Fed cuts rates for third time, but affordability concerns still rise <a href="https://bsky.app/profile/usatoday.com/post/3m7qlh3ygc52w" target="_blank">usatoday.com</a> (2025-12-12 07:06:08)</span><span style="padding-right:50px;">Democrats voted down a Republican bill that would have provided limited relief for out-of-pocket healthcare costs. <a href="https://bsky.app/profile/aljazeera.com/post/3m7qlghdkqt2e" target="_blank">aljazeera.com</a> (2025-12-12 07:05:46)</span><span style="padding-right:50px;">Kalshi, Crypto.com launch prediction markets coalition as investor interest soars reut.rs/4pBSuer <a href="https://bsky.app/profile/reuters.com/post/3m7qlfi2wbz2s" target="_blank">reuters.com</a> (2025-12-12 07:05:14)</span><span style="padding-right:50px;">A director who was hired by Netflix to make a science-fiction series was convicted on Thursday on charges that he had engaged in an $11 million scheme to defraud the streaming giant, the U.S. attorney’s office in Manhattan said. <a href="https://bsky.app/profile/nytimes.com/post/3m7qlf7z6n72s" target="_blank">nytimes.com</a> (2025-12-12 07:05:05)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48704.01 (🔺621.11 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23593.86 (🔺84.64 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.93 (🔺0.65 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.58 (🔻0.38 : 2025-12-11)</span>
+<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48704.01 (🔺621.11 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23593.86 (🔺84.64 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.93 (🔺0.65 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.54 (🔻0.42 : 2025-12-11)</span>
   </div>
 </div>
 
@@ -32,114 +32,95 @@
 
 ## News Headlines
 
-Here are six important topics with Japanese headlines:
+Here are six important topics with Japanese headings:
 
-1.  BREAKING: インディアナ州議会が新しい選挙区割の提案を却下
-(Indiana Senate Rejects New Congressional Maps)
-
-2.  名鉄グループ、バスツアーを展開　富裕層向けサービス続々
-(Namco Group Launches Luxury Bus Tour for High-End Customers)
-
-3.  トランプ大統領の軍隊派遣費用が340万ドル以上にのぼる
-(Trump's Military Deployments to US Cities Have Cost Over $340 Million)
-
-4.  日銀短観　民間予測では「横ばい」の予想多く
-(BOJ Short-Term Forecast: Many Expect Stagnation)
-
-5.  米タイム誌「ことしの人」に「AI＝人工知能の設計者たち」
-(Time Magazine's 2025 Person of the Year: The Architects of AI)
-
-6.  インフレーションの影響　米国の生活費が激増中
-(Inflation's Impact: Living Costs in the US Are Skyrocketing)
+1. 金融界の裁判: Do Kwon, a South Korean cryptocurrency entrepreneur, was sentenced to 15 years in prison for fraud and conspiracy related to two digital currencies that lost an estimated $40 billion in 2022.
+2. インフレーション対策: The Federal Reserve cut interest rates for the third time, but concerns about affordability are still rising.
+3. 政治の動き: The Indiana Senate rejected a Republican-drawn congressional map proposed by President Trump, which aimed to boost the party in the next year's midterm elections.
+4. AIの最新動向: OpenAI CEO Sam Altman and legendary Apple designer Jony Ive are collaborating on a new consumer hardware device, which has been in development for some time.
+5. 経済の動向: The average rate on a 30-year US mortgage edged higher this week, but remains relatively near its low point so far this year.
+6. 新しい技術: Rivian, an electric vehicle manufacturer, has debuted a custom self-driving chip and a $2,500 driver-assistance package for its vehicles.
 
 ----
 
-@apnews.com
+@reuters.com
 
-<strong><span style="color: red;">BREAKING:</span> Indiana Senate Republicans reject new congressional maps in defiance of President Trump’s redistricting push.</strong>
+Do Kwon, the South Korean cryptocurrency entrepreneur behind two digital currencies that lost an estimated $40 billion in 2022, was sentenced in New York federal court to 15 years in prison for fraud and conspiracy reut.rs/48zygvQ
 
-[2025-12-12 06:48:51](https://bsky.app/profile/apnews.com/post/3m7qki7dje52r)
+[2025-12-12 07:08:13](https://bsky.app/profile/reuters.com/post/3m7qlksod5c2p)
 
 ---
 
-@nikkei.com
+@usatoday.com
 
-2泊37万円のバスツアー　名古屋鉄道系、富裕層向けサービス続々
-www.nikkei.com/article/DGXZQO...
+Fed cuts rates for third time, but affordability concerns still rise
 
-行き先は三重県の松阪エリアや静岡県の浜名湖など。最上位のコースは軽井沢や日光を巡ります。
+[2025-12-12 07:06:08](https://bsky.app/profile/usatoday.com/post/3m7qlh3ygc52w)
 
-高級帯のスーパーやペットサロンなどを相次いで打ち出した名鉄グループ。
+---
 
-主力の鉄道輸送の需要拡大が見込みにくいなか、富裕層向けビジネスを強化しています。
+@aljazeera.com
 
-[2025-12-12 06:45:41](https://bsky.app/profile/nikkei.com/post/3m7qkcjl2ck2c)
+Democrats voted down a Republican bill that would have provided limited relief for out-of-pocket healthcare costs.
+
+[2025-12-12 07:05:46](https://bsky.app/profile/aljazeera.com/post/3m7qlghdkqt2e)
 
 ---
 
 @reuters.com
 
-Trump troop deployments to US cities have cost more than $340 million, senator says reut.rs/3MWhnCQ
+Kalshi, Crypto.com launch prediction markets coalition as investor interest soars reut.rs/4pBSuer
 
-[2025-12-12 06:45:16](https://bsky.app/profile/reuters.com/post/3m7qkbrlwvf24)
+[2025-12-12 07:05:14](https://bsky.app/profile/reuters.com/post/3m7qlfi2wbz2s)
 
 ---
 
 @nytimes.com
 
-President Trump has been clear that he expects his pick to replace the chair of the Federal Reserve to deliver lower interest rates. But intense divisions inside the central bank suggest that could be a challenge for the next chair, who is set to take over in May.
+A director who was hired by Netflix to make a science-fiction series was convicted on Thursday on charges that he had engaged in an $11 million scheme to defraud the streaming giant, the U.S. attorney’s office in Manhattan said.
 
-[2025-12-12 06:45:07](https://bsky.app/profile/nytimes.com/post/3m7qkbjnt4i2r)
+[2025-12-12 07:05:05](https://bsky.app/profile/nytimes.com/post/3m7qlf7z6n72s)
 
 ---
 
 @cnbc.com
 
-Santoli's Thursday market wrap-up: Investors conclude Fed won't smother growth or restrain stocks
+Fed votes to reappoint all of its regional bank presidents
 
-[2025-12-12 06:45:07](https://bsky.app/profile/cnbc.com/post/3m7qkbjjjcx2e)
-
----
-
-@npr.org
-
-New court documents reveal a list of nearly 200 words or phrases the Trump administration told Head Start programs it does not want to see in their funding requests. n.pr/497P6C4
-
-[2025-12-12 06:45:00](https://bsky.app/profile/npr.org/post/3m7qkbcfrvt25)
+[2025-12-12 07:04:09](https://bsky.app/profile/cnbc.com/post/3m7qldkgr7k2e)
 
 ---
 
-@nbcnews.com
+@aljazeera.com
 
-<strong><span style="color: red;">BREAKING:</span> Indiana Senate votes against a new Republican-drawn congressional map, rejecting a bid led by President Trump aimed at boosting the party in next year’s midterm elections.</strong>
+Democrats voted down a Republican bill that would have provided limited relief for out-of-pocket healthcare costs.
 
-[2025-12-12 06:42:29](https://bsky.app/profile/nbcnews.com/post/3m7qk4s7ykk24)
+[2025-12-12 07:03:45](https://bsky.app/profile/aljazeera.com/post/3m7qlcu3swt2e)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@yahoonews.com
 
-保護司のサポートセンター 夜間土日祝日に約6割利用できず
-https://news.web.nhk/newsweb/na/na-k10015001461000
+<strong><span style="color: red;">Breaking News</span>: Republican-led Indiana Senate rejects GOP-drawn congressional map in a major rebuke of Trump.</strong><br><strong>yhoo.it/44mowCu</strong>
 
-[2025-12-12 06:42:06](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7qk46up4g2d)
+[2025-12-12 07:03:05](https://bsky.app/profile/yahoonews.com/post/3m7qlbnmsbv2r)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-地震で鉄塔損傷 避難指示続く 補修に3週間程度の見通し 八戸
-https://news.web.nhk/newsweb/na/na-k10015001581000
+NYダウ 終値で最高値更新 600ドル超値上がり 利下げ継続の観測
+https://news.web.nhk/newsweb/na/na-k10015001651000
 
-[2025-12-12 06:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7qk42mvi52l)
+[2025-12-12 07:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7qlbn5ie52d)
 
 ---
 
 @reuters.com
 
-Foreign entities should have no rights on Italy's gold reserves, Meloni's party says reut.rs/44nRfa8
+OpenAI CEO Sam Altman and legendary Apple designer Jony Ive are building one of the most anticipated AI products: a new consumer hardware device, a collaboration Altman's company already paid $6.5 billion for. Read our Artificial Intelligencer newsletter ⬇️ reut.rs/3XPLfTP
 
-[2025-12-12 06:41:03](https://bsky.app/profile/reuters.com/post/3m7qk2afv2l2k)
+[2025-12-12 07:02:14](https://bsky.app/profile/reuters.com/post/3m7qla4siwc2i)
 
 ---
 
