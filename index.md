@@ -1,9 +1,9 @@
-# [2025-12-11 16:30 updated](2025_12_11.md)
+# [2025-12-11 16:50 updated](2025_12_11.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">South Australian Premier Peter Malinauskas told CNN’s Jake Tapper his country’s world-first social media ban for children under 16 is about protecting them from addictive algorithms, asking: “What’s the worst thing that’s gonna happen here by delaying kids’ access to social media?”  <a href="https://bsky.app/profile/cnn.com/post/3m7p2gp6n4s2b" target="_blank">cnn.com</a> (2025-12-11 16:29:01)</span><span style="padding-right:50px;">President Volodymyr Zelenskiy said he had discussed with Ukraine's parliament legal and other issues linked to the possibility of holding an election and urged other countries, including the United States, not to apply pressure on the issue. <a href="https://bsky.app/profile/reuters.com/post/3m7p2azyots2v" target="_blank">reuters.com</a> (2025-12-11 16:25:51)</span><span style="padding-right:50px;">Trump says he is scheduling a phone call for Thursday with Thailand, Cambodia amid conflict reut.rs/493tmal <a href="https://bsky.app/profile/reuters.com/post/3m7p27rqdp52b" target="_blank">reuters.com</a> (2025-12-11 16:25:09)</span><span style="padding-right:50px;">"The most terrible time of the year"  McDonald’s pulls AI-generated Christmas advert in the Netherlands. The advert, titled "the most terrible time of the year," depicts Christmas chaos, with Santa caught in a traffic jam and a present-laden cyclist slipping in the snow u.afp.com/S7sF <a href="https://bsky.app/profile/en.afp.com/post/3m7p23ynlpy2f" target="_blank">en.afp.com</a> (2025-12-11 16:23:02)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】JA全農 臨時の「おこめ券」を1月中旬目処に発行へ (2025-12-11 16:12:50) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7ozq7okph2z" target="_blank">sokuho.news</a> (2025-12-11 16:16:27)</span>
+<span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】養殖マガキの大量死対策、物価高騰対策など 兵庫県 920億円規模の補正予算案まとめる (2025-12-11 16:31) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7p3eve3ml26" target="_blank">sokuho.news</a> (2025-12-11 16:45:54)</span><span style="padding-right:50px;">BOJ to hike rates to 0.75% in Dec, 1.0% by next Sept, majority of economists say: Reuters poll reut.rs/4iR9kmL <a href="https://bsky.app/profile/reuters.com/post/3m7p3dk4heo2i" target="_blank">reuters.com</a> (2025-12-11 16:45:09)</span><span style="padding-right:50px;">消費者庁 災害に便乗した詐欺や悪質商法に注意呼びかけ https://news.web.nhk/newsweb/na/na-k10015001101000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7p3dfoqyz2x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-11 16:45:02)</span><span style="padding-right:50px;">Goa nightclub fire: Owners who fled to Thailand detained <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7p3a5pei72b" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-11 16:43:15)</span><span style="padding-right:50px;">CNBC Daily Open: Much to like in Fed's meeting amid warnings of restraint <a href="https://bsky.app/profile/cnbc.com/post/3m7p37hrghs2e" target="_blank">cnbc.com</a> (2025-12-11 16:42:52)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48057.75 (🔺483.79 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23654.15 (🔺118.15 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.78 (🔻1.19 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.91 (🔻0.05 : 2025-12-11)</span>
+<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48057.75 (🔺483.79 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23654.15 (🔺118.15 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.78 (🔻1.19 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.93 (🔻0.03 : 2025-12-11)</span>
   </div>
 </div>
 
@@ -32,104 +32,100 @@
 
 ## News Headlines
 
-1. 16歳未満の子供の社会媒体の利用を禁止する南オーストラリアの決断
-2. ウクライナのゼレンスキー大統領、国会議員との会議で選挙の可能性について議論
-3. ドナルド・トランプ米大統領がタイ、カンボジアとの電話会議を計画
-4. マクドナルド、AIで生成されたクリスマスのCMを撤回
-5. JA全農が臨時のおこめ券の発行を1月中旬に決定
-6. 香港中央銀行が利率を引き下げ、米連邦準備理事会の調子を追随
+1. 兵庫県 920億円規模の補正予算案まとめる
+2. 熊本市中央区のアパートから白煙、冷蔵庫裏から出火か
+3. ボリビア　前大統領アセへの逮捕
+4. 南アジアなどで超大規模の洪水が発生　1,600人以上の死者
+5. アジアの地震　青森・岩手・北海道に被害　45人けが
+6. 所得税の追徴税額が過去最高　1431億円に
 
 ----
 
-@cnn.com
+@sokuho.news
 
-South Australian Premier Peter Malinauskas told CNN’s Jake Tapper his country’s world-first social media ban for children under 16 is about protecting them from addictive algorithms, asking: “What’s the worst thing that’s gonna happen here by delaying kids’ access to social media?” 
+🛎️FNNより【速報】です。
 
-[2025-12-11 16:29:01](https://bsky.app/profile/cnn.com/post/3m7p2gp6n4s2b)
+【速報】養殖マガキの大量死対策、物価高騰対策など 兵庫県 920億円規模の補正予算案まとめる
+(2025-12-11 16:31) #ニュース
 
----
-
-@reuters.com
-
-President Volodymyr Zelenskiy said he had discussed with Ukraine's parliament legal and other issues linked to the possibility of holding an election and urged other countries, including the United States, not to apply pressure on the issue.
-
-[2025-12-11 16:25:51](https://bsky.app/profile/reuters.com/post/3m7p2azyots2v)
+[2025-12-11 16:45:54](https://bsky.app/profile/sokuho.news/post/3m7p3eve3ml26)
 
 ---
 
 @reuters.com
 
-Trump says he is scheduling a phone call for Thursday with Thailand, Cambodia amid conflict reut.rs/493tmal
+BOJ to hike rates to 0.75% in Dec, 1.0% by next Sept, majority of economists say: Reuters poll reut.rs/4iR9kmL
 
-[2025-12-11 16:25:09](https://bsky.app/profile/reuters.com/post/3m7p27rqdp52b)
+[2025-12-11 16:45:09](https://bsky.app/profile/reuters.com/post/3m7p3dk4heo2i)
 
 ---
 
-@en.afp.com
+@nhknewsunofficial.bsky.social
 
-"The most terrible time of the year"
+消費者庁 災害に便乗した詐欺や悪質商法に注意呼びかけ
+https://news.web.nhk/newsweb/na/na-k10015001101000
 
-McDonald’s pulls AI-generated Christmas advert in the Netherlands. The advert, titled "the most terrible time of the year," depicts Christmas chaos, with Santa caught in a traffic jam and a present-laden cyclist slipping in the snow
-u.afp.com/S7sF
+[2025-12-11 16:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7p3dfoqyz2x)
 
-[2025-12-11 16:23:02](https://bsky.app/profile/en.afp.com/post/3m7p23ynlpy2f)
+---
+
+@bbcnews-world-rss.bsky.social
+
+Goa nightclub fire: Owners who fled to Thailand detained
+
+[2025-12-11 16:43:15](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7p3a5pei72b)
+
+---
+
+@cnbc.com
+
+CNBC Daily Open: Much to like in Fed's meeting amid warnings of restraint
+
+[2025-12-11 16:42:52](https://bsky.app/profile/cnbc.com/post/3m7p37hrghs2e)
 
 ---
 
 @sokuho.news
 
-🛎️JNNより【速報】です。
+🛎️NNNより【速報】です。
 
-【速報】JA全農 臨時の「おこめ券」を1月中旬目処に発行へ
-(2025-12-11 16:12:50) #ニュース
+【速報】アパートから白煙…冷蔵庫裏から出火か 熊本市中央区
+(2025-12-11 16:40) #ニュース
 
-[2025-12-11 16:16:27](https://bsky.app/profile/sokuho.news/post/3m7ozq7okph2z)
-
----
-
-@reuters.com
-
-JD.com's Jingdong Industrials opens down 7.8% in Hong Kong debut reut.rs/3MtBYyo
-
-[2025-12-11 16:15:09](https://bsky.app/profile/reuters.com/post/3m7oznvgvf62i)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】さくら野百貨店八戸店 市立・私立中学校の制服受注の準備完了で12日～特設売場で営業開始
-(2025-12-11 16:08:00) #ニュース
-
-[2025-12-11 16:11:42](https://bsky.app/profile/sokuho.news/post/3m7ozhpztw22y)
-
----
-
-@sokuho.news
-
-🛎️FNNより【独自】です。
-
-【独自】日本郵便の配達員が配達時に“抱きつき無理やりキス” 「魔が差しました」去り際に「また来てもいいですか」とも…被害者夫は憤り 日本郵便は「事実」と認める
-(2025-12-11 16:00) #ニュース
-
-[2025-12-11 16:10:31](https://bsky.app/profile/sokuho.news/post/3m7ozfmbe7d2r)
+[2025-12-11 16:40:50](https://bsky.app/profile/sokuho.news/post/3m7p33tetue2y)
 
 ---
 
 @reuters.com
 
-Lawsuit seeks to keep Trump's face off of national parks annual pass reut.rs/3XOFPZd
+Gold slips after a divided Fed cuts rates; silver hits record high reut.rs/4oMPhas
 
-[2025-12-11 16:10:12](https://bsky.app/profile/reuters.com/post/3m7ozf2cbvw2y)
+[2025-12-11 16:40:14](https://bsky.app/profile/reuters.com/post/3m7p32qmipl2r)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+瀬戸内海のかき “被害は災害級” 事業者への支援策は
+https://news.web.nhk/newsweb/na/na-k10015000731000
+
+[2025-12-11 16:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7p2tc4jpu2d)
 
 ---
 
 @reuters.com
 
-Hong Kong central bank cuts interest rate, tracking Fed move reut.rs/3Mtv0JL
+Over 30 sanctioned ships in Venezuela at risk after US tanker seizure reut.rs/4q6sjfK
 
-[2025-12-11 16:05:09](https://bsky.app/profile/reuters.com/post/3m7oz3yxucb2y)
+[2025-12-11 16:35:08](https://bsky.app/profile/reuters.com/post/3m7p2rmz4z72i)
+
+---
+
+@reuters.com
+
+India's equity mutual fund inflows rebound in November on strong earnings, low inflation reut.rs/4aJqil4
+
+[2025-12-11 16:30:30](https://bsky.app/profile/reuters.com/post/3m7p2jec2sz2b)
 
 ---
 
