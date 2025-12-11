@@ -1,9 +1,9 @@
-# [2025-12-11 22:30 updated](2025_12_11.md)
+# [2025-12-11 22:50 updated](2025_12_11.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Merz offers to host Ukraine talks so deal not done ‘above Europe’s head’ on.ft.com/3Yk4mWf <a href="https://bsky.app/profile/financialtimes.com/post/3m7pokbvl7i2v" target="_blank">financialtimes.com</a> (2025-12-11 22:28:56)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】のこぎりを持った男がホームセンターに侵入、金銭要求の強盗未遂事件か 警察が40代とみられる男を確保 浦添市 (2025-12-11 22:17:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7pohsa4tn2a" target="_blank">sokuho.news</a> (2025-12-11 22:27:33)</span><span style="padding-right:50px;">Russian oil output nudges up in November, OPEC data shows reut.rs/494MXqO <a href="https://bsky.app/profile/reuters.com/post/3m7podiu2wp24" target="_blank">reuters.com</a> (2025-12-11 22:25:09)</span><span style="padding-right:50px;">It has been a key player in a corruption scandal and regularly engenders heated debates online and in professional circles. This week, it was in the cross hairs of the State Department.  Yes, we’re talking about Calibri. Yes, the typeface.  Yes, we’re talking about Calibri. Yes, the typeface. <a href="https://bsky.app/profile/nytimes.com/post/3m7podddedz2b" target="_blank">nytimes.com</a> (2025-12-11 22:25:03)</span><span style="padding-right:50px;">James L. Brooks' first feature film in 15 years doesn't live up to expectations. n.pr/4q6VsHJ <a href="https://bsky.app/profile/npr.org/post/3m7pocjb5ui24" target="_blank">npr.org</a> (2025-12-11 22:24:36)</span>
+<span style="padding-right:50px;">Poland arrests Russian archaeologist wanted in Ukraine <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7ppnew6cu25" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-11 22:48:33)</span><span style="padding-right:50px;">ECB proposes simpler bank regulation but rejects calls for lower buffers reut.rs/4964oHp <a href="https://bsky.app/profile/reuters.com/post/3m7pphewslz23" target="_blank">reuters.com</a> (2025-12-11 22:45:13)</span><span style="padding-right:50px;">A wave of AI-powered children’s toys has hit shelves this holiday season, claiming to rely on sophisticated chatbots to animate interactive robots and stuffed animals that can converse with kids. <a href="https://bsky.app/profile/nbcnews.com/post/3m7pp6o5fpl2r" target="_blank">nbcnews.com</a> (2025-12-11 22:40:20)</span><span style="padding-right:50px;">From Breakingviews - Breakingviews - The left-field risk for 2026 is rates going up reut.rs/4aJc8Ao <a href="https://bsky.app/profile/reuters.com/post/3m7pp6n6xia2b" target="_blank">reuters.com</a> (2025-12-11 22:40:19)</span><span style="padding-right:50px;">President Trump said Wednesday that “pretty strong words” were used on a phone call with European leaders about Ukraine as the country and its allies have been working to steer him away from his insistence on a resolution to the war that would favor Russia. <a href="https://bsky.app/profile/nytimes.com/post/3m7pp6axpzk2y" target="_blank">nytimes.com</a> (2025-12-11 22:40:07)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48057.75 (🔺483.79 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23654.15 (🔺118.15 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.78 (🔻1.19 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.42 (🔻0.54 : 2025-12-11)</span>
+<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48057.75 (🔺483.79 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23654.15 (🔺118.15 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.78 (🔻1.19 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.29 (🔻0.67 : 2025-12-11)</span>
   </div>
 </div>
 
@@ -32,112 +32,112 @@
 
 ## News Headlines
 
-Here are six important stories from the news with Japanese headlines:
+Here are six important stories with Japanese headlines:
 
-1. 
-「欧州の「首脳会談」でウクライナと平和協定を締結」 (Merz offers to host Ukraine talks so deal not done ‘above Europe’s head’)
+1. Poland arrests Russian archaeologist wanted in Ukraine
+「ポーランド、ウクライナに指名手配のロシア考古学者を逮捕」
 
-2. 
-「九天」ドローンが初飛行、日本にとっても脅威になり得る (Chinese military's new drone Nine Heavens makes its first flight, posing a threat to Japan)
+2. US senators push USDA for urgent action on bird flu vaccine
+「米上院議員、ウイルス性鳥インフルエンザワクチンの緊急対処を USDA に要望」
 
-3. 
-「EUが薬物規制を大幅に改正、患者のアクセスを速める」 (EU seals pact to overhaul drug rules, speed patient access)
+3. European bird flu spike due to record wild birds cases, EFSA says
+「EU では野鳥の記録的な増加に伴うウイルス性鳥インフルエンザの急増、EFSA が発表」
 
-4. 
-「マリア・コリーナ・マチャド氏、ノーベル平和賞を受賞、ベネズエラ民主化を目指す」 (María Corina Machado wins Nobel Peace Prize, vows to bring democracy to Venezuela)
+4. Russia's oil output nudges up in November, OPEC data shows
+「ロシアの油田生産が11月に微増、 OPEC データで」
 
-5. 
-「Oracleの業績発表に投資家がconfused、株価は下落」 (Wall Street is disappointed and confused by Oracle's report, stock price falls)
+5. Time magazine names architects of AI as 2025 Person of the Year
+「タイム・マガジン、AI の開発者を 2025 年の人物に選出」
 
-6. 
-「タイム誌2025年度 Person of the Year: AIの建築家」 (Time magazine's 2025 Person of the Year: The architects of AI)
+6. TSMC considers producing AI semiconductors in Kumamoto, Japan
+「台積電、熊本で AI 半導体生産を検討」
 
 ----
 
-@financialtimes.com
+@bbcnews-world-rss.bsky.social
 
-Merz offers to host Ukraine talks so deal not done ‘above Europe’s head’ on.ft.com/3Yk4mWf
+Poland arrests Russian archaeologist wanted in Ukraine
 
-[2025-12-11 22:28:56](https://bsky.app/profile/financialtimes.com/post/3m7pokbvl7i2v)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】のこぎりを持った男がホームセンターに侵入、金銭要求の強盗未遂事件か 警察が40代とみられる男を確保 浦添市
-(2025-12-11 22:17:00) #ニュース
-
-[2025-12-11 22:27:33](https://bsky.app/profile/sokuho.news/post/3m7pohsa4tn2a)
+[2025-12-11 22:48:33](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7ppnew6cu25)
 
 ---
 
 @reuters.com
 
-Russian oil output nudges up in November, OPEC data shows reut.rs/494MXqO
+ECB proposes simpler bank regulation but rejects calls for lower buffers reut.rs/4964oHp
 
-[2025-12-11 22:25:09](https://bsky.app/profile/reuters.com/post/3m7podiu2wp24)
-
----
-
-@nytimes.com
-
-It has been a key player in a corruption scandal and regularly engenders heated debates online and in professional circles. This week, it was in the cross hairs of the State Department.
-
-Yes, we’re talking about Calibri. Yes, the typeface.
-
-Yes, we’re talking about Calibri. Yes, the typeface.
-
-[2025-12-11 22:25:03](https://bsky.app/profile/nytimes.com/post/3m7podddedz2b)
-
----
-
-@npr.org
-
-James L. Brooks' first feature film in 15 years doesn't live up to expectations. n.pr/4q6VsHJ
-
-[2025-12-11 22:24:36](https://bsky.app/profile/npr.org/post/3m7pocjb5ui24)
-
----
-
-@cnbc.com
-
-This streaming stock is up more than 40% this year. Why Jefferies sees even more upside ahead
-
-[2025-12-11 22:24:22](https://bsky.app/profile/cnbc.com/post/3m7poc4l6iv23)
+[2025-12-11 22:45:13](https://bsky.app/profile/reuters.com/post/3m7pphewslz23)
 
 ---
 
 @nbcnews.com
 
-Federal health officials expanded an outbreak of infant botulism tied to recalled ByHeart baby formula to include all illnesses reported since the company began production in March 2022.
+A wave of AI-powered children’s toys has hit shelves this holiday season, claiming to rely on sophisticated chatbots to animate interactive robots and stuffed animals that can converse with kids.
 
-[2025-12-11 22:20:08](https://bsky.app/profile/nbcnews.com/post/3m7po2jvnp62k)
-
----
-
-@cnbc.com
-
-Wall Street is disappointed and confused by Oracle's report. Where they see the stock going
-
-[2025-12-11 22:16:36](https://bsky.app/profile/cnbc.com/post/3m7pnu7fp4g2p)
+[2025-12-11 22:40:20](https://bsky.app/profile/nbcnews.com/post/3m7pp6o5fpl2r)
 
 ---
 
 @reuters.com
 
-OPEC says OPEC+ raised output in November, leaves demand view steady reut.rs/4pwZEk3
+From Breakingviews - Breakingviews - The left-field risk for 2026 is rates going up reut.rs/4aJc8Ao
 
-[2025-12-11 22:15:31](https://bsky.app/profile/reuters.com/post/3m7pnsbgjmd2i)
+[2025-12-11 22:40:19](https://bsky.app/profile/reuters.com/post/3m7pp6n6xia2b)
+
+---
+
+@nytimes.com
+
+President Trump said Wednesday that “pretty strong words” were used on a phone call with European leaders about Ukraine as the country and its allies have been working to steer him away from his insistence on a resolution to the war that would favor Russia.
+
+[2025-12-11 22:40:07](https://bsky.app/profile/nytimes.com/post/3m7pp6axpzk2y)
+
+---
+
+@cnbc.com
+
+Here are Thursday's biggest analyst calls: Nvidia, Tesla, Oracle, Meta Platforms, Visa, Alphabet, Roku & more
+
+[2025-12-11 22:36:57](https://bsky.app/profile/cnbc.com/post/3m7poylrdwg2b)
 
 ---
 
 @financialtimes.com
 
- The mind-bending complexities of quantum investing on.ft.com/4pwzg9Q  | opinion
+ Europe must be ready when the AI bubble bursts on.ft.com/4pXnjda  | opinion
 
-[2025-12-11 22:15:23](https://bsky.app/profile/financialtimes.com/post/3m7pns2irgu2v)
+[2025-12-11 22:35:44](https://bsky.app/profile/financialtimes.com/post/3m7powgo7ul2b)
+
+---
+
+@reuters.com
+
+US senators push USDA for urgent action on bird flu vaccine reut.rs/3XLBnur
+
+[2025-12-11 22:35:07](https://bsky.app/profile/reuters.com/post/3m7povdlvas2b)
+
+---
+
+@cnbc.com
+
+UBS raises Micron price target heading into earnings next week
+
+[2025-12-11 22:34:37](https://bsky.app/profile/cnbc.com/post/3m7pougrwq22g)
+
+---
+
+@nikkei.com
+
+TSMC、熊本でAI半導体生産を検討　先端品「4ナノ」に計画変更
+www.nikkei.com/article/DGXZQO...
+
+10月に着工した新工場は6〜40ナノ品の生産を予定していました。
+
+4ナノ品はAI向けで主流。生産が実現すれば、奪い合いの状況であるAI半導体の国内安定供給につながります。
+
+#ニュース
+
+[2025-12-11 22:31:50](https://bsky.app/profile/nikkei.com/post/3m7pophhau22x)
 
 ---
 
