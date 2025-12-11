@@ -1,9 +1,9 @@
-# [2025-12-11 13:10 updated](2025_12_11.md)
+# [2025-12-11 13:30 updated](2025_12_11.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">【将棋の福間香奈女流六冠が訴え】 「妊娠かタイトルか二者択一を迫られている」  www.nikkei.com/article/DGXZQO...  出産予定日前後のタイトル戦は事実上不戦敗──。  福間女流六冠はこの規定の見直しを求めて、2024年5月から日本将棋連盟に要望を出してきました。  ただ、25年4月に示された規定は従来の運用と変わらず「あぜんとした」と吐露します。 <a href="https://bsky.app/profile/nikkei.com/post/3m7op3esvpf2m" target="_blank">nikkei.com</a> (2025-12-11 13:05:50)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】「家から煙が出ている」東京・あきる野市の2階建て住宅で火災 けが人1人・逃げ遅れ2人か (2025-12-11 12:59:27) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7ooy4px5p27" target="_blank">sokuho.news</a> (2025-12-11 13:04:01)</span><span style="padding-right:50px;">New research shows men and women are equally committed to doing their best at work, but there’s a growing ambition gap among women who want to get ahead.  A recent survey found that 80% of women overall say they want to be promoted to the next level, compared to 86% of men. <a href="https://bsky.app/profile/cnbc.com/post/3m7oostff5r24" target="_blank">cnbc.com</a> (2025-12-11 13:01:04)</span><span style="padding-right:50px;">FOREX US dollar tumbles after Fed cuts rates, Powell comments reut.rs/4pvOfkj <a href="https://bsky.app/profile/reuters.com/post/3m7oosnxd552k" target="_blank">reuters.com</a> (2025-12-11 13:00:58)</span><span style="padding-right:50px;">The Federal Reserve cut its benchmark interest rate by a quarter point Wednesday for the third time since September, bringing its key rate to about 3.6%, the lowest in nearly three years. <a href="https://bsky.app/profile/apnews.com/post/3m7oos4usex2q" target="_blank">apnews.com</a> (2025-12-11 13:00:40)</span>
+<span style="padding-right:50px;">不正会計処理「オルツ」 問題受け 東証など再発防止案まとめる https://news.web.nhk/newsweb/na/na-k10015000941000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7oqbj5uqu2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-11 13:27:07)</span><span style="padding-right:50px;">自民 小野寺税調会長「年収の壁」の見直し 国民民主と協議へ https://news.web.nhk/newsweb/na/na-k10015000881000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7oqbealip26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-11 13:27:03)</span><span style="padding-right:50px;">【きょうのおはBiz 12月11日(木)】雇用悪化? 米国の移民政策 https://news.web.nhk/newsweb/na/na-k10015000771000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7oq3yaauu2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-11 13:24:02)</span><span style="padding-right:50px;">US House backs massive defense policy bill, Senate next reut.rs/4pENtBW <a href="https://bsky.app/profile/reuters.com/post/3m7opv5hy6j2b" target="_blank">reuters.com</a> (2025-12-11 13:20:15)</span><span style="padding-right:50px;">The internet would have you think that freezing tapered candles will reduce dripping and extend their burn time. We put that theory to the test. <a href="https://bsky.app/profile/nytimes.com/post/3m7opus7ygh2z" target="_blank">nytimes.com</a> (2025-12-11 13:20:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50070.22 (🔻748.17 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48057.75 (🔺483.79 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23654.15 (🔺118.15 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.78 (🔻1.19 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3111.00 (🔻37.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.66 (🔻0.30 : 2025-12-11)</span>
+<span style="padding-right:50px;">NIKKEI: 50154.07 (🔻664.32 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48057.75 (🔺483.79 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23654.15 (🔺118.15 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.78 (🔻1.19 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3118.00 (🔻30.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.77 (🔻0.19 : 2025-12-11)</span>
   </div>
 </div>
 
@@ -32,28 +32,72 @@
 
 ## News Headlines
 
-1. 「妊娠かタイトルか、二者択一を迫られている」　将棋の福間香奈女流六冠が訴え
-2. 「家から煙が出ている」　東京・あきる野市の2階建て住宅で火災　けが人1人・逃げ遅れ2人か
-3. 「家から煙が出ている」　神奈川・綾瀬市の自動車整備工場で火事　ポンプ車など10台以上が出動
-4. 「家から煙が出ている」　山口県で民家か？黒煙を上げて燃える　消火活動続く
-5. 「家から煙が出ている」　東京・あきる野市で住宅火災　けが人1人・逃げ遅れ3人か
-6. 「家から煙が出ている」　北海道・三陸沖で後発地震　気象庁・内閣府が注意情報を発表
+1.  東証など再発防止のための計画をまとめる
+2.  小野寺税調会長「年収の壁」の見直しを検討
+3.  米国の移民政策が雇用悪化につながるか
+4.  議会で補正予算案が可決された
+5.  東京のあきる野で火災が発生
+6.  米国の防衛費を増やすための法案が可決された
 
 ----
 
-@nikkei.com
+@nhknewsunofficial.bsky.social
 
-【将棋の福間香奈女流六冠が訴え】
-「妊娠かタイトルか二者択一を迫られている」 
-www.nikkei.com/article/DGXZQO...
+不正会計処理「オルツ」 問題受け 東証など再発防止案まとめる
+https://news.web.nhk/newsweb/na/na-k10015000941000
 
-出産予定日前後のタイトル戦は事実上不戦敗──。
+[2025-12-11 13:27:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7oqbj5uqu2b)
 
-福間女流六冠はこの規定の見直しを求めて、2024年5月から日本将棋連盟に要望を出してきました。
+---
 
-ただ、25年4月に示された規定は従来の運用と変わらず「あぜんとした」と吐露します。
+@nhknewsunofficial.bsky.social
 
-[2025-12-11 13:05:50](https://bsky.app/profile/nikkei.com/post/3m7op3esvpf2m)
+自民 小野寺税調会長「年収の壁」の見直し 国民民主と協議へ
+https://news.web.nhk/newsweb/na/na-k10015000881000
+
+[2025-12-11 13:27:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7oqbealip26)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【きょうのおはBiz 12月11日(木)】雇用悪化? 米国の移民政策
+https://news.web.nhk/newsweb/na/na-k10015000771000
+
+[2025-12-11 13:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7oq3yaauu2b)
+
+---
+
+@reuters.com
+
+US House backs massive defense policy bill, Senate next reut.rs/4pENtBW
+
+[2025-12-11 13:20:15](https://bsky.app/profile/reuters.com/post/3m7opv5hy6j2b)
+
+---
+
+@nytimes.com
+
+The internet would have you think that freezing tapered candles will reduce dripping and extend their burn time. We put that theory to the test.
+
+[2025-12-11 13:20:03](https://bsky.app/profile/nytimes.com/post/3m7opus7ygh2z)
+
+---
+
+@cnn.com
+
+Winning numbers drawn for estimated $930 million Powerball jackpot, the second-largest in 2025: https://cnn.it/44Ro0wu
+
+[2025-12-11 13:19:44](https://bsky.app/profile/cnn.com/post/3m7opu7shbc2t)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+東京 あきる野で建物火災
+https://news.web.nhk/newsweb/na/na-k10015000961000
+
+[2025-12-11 13:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7opraht4a2l)
 
 ---
 
@@ -61,76 +105,26 @@ www.nikkei.com/article/DGXZQO...
 
 🛎️JNNより【速報】です。
 
-【速報】「家から煙が出ている」東京・あきる野市の2階建て住宅で火災 けが人1人・逃げ遅れ2人か
-(2025-12-11 12:59:27) #ニュース
+【速報】神奈川県綾瀬市の工場で火事 延焼中 けが人逃げ遅れなし
+(2025-12-11 13:12:30) #ニュース
 
-[2025-12-11 13:04:01](https://bsky.app/profile/sokuho.news/post/3m7ooy4px5p27)
-
----
-
-@cnbc.com
-
-New research shows men and women are equally committed to doing their best at work, but there’s a growing ambition gap among women who want to get ahead.
-
-A recent survey found that 80% of women overall say they want to be promoted to the next level, compared to 86% of men.
-
-[2025-12-11 13:01:04](https://bsky.app/profile/cnbc.com/post/3m7oostff5r24)
-
----
-
-@reuters.com
-
-FOREX US dollar tumbles after Fed cuts rates, Powell comments reut.rs/4pvOfkj
-
-[2025-12-11 13:00:58](https://bsky.app/profile/reuters.com/post/3m7oosnxd552k)
+[2025-12-11 13:13:59](https://bsky.app/profile/sokuho.news/post/3m7opjwpgem2x)
 
 ---
 
 @apnews.com
 
-The Federal Reserve cut its benchmark interest rate by a quarter point Wednesday for the third time since September, bringing its key rate to about 3.6%, the lowest in nearly three years.
+<strong><span style="color: red;">BREAKING:</span> Former Michigan football coach Sherrone Moore was jailed hours after he was fired for what the university said was an “inappropriate relationship with a staff member,” court records show.</strong>
 
-[2025-12-11 13:00:40](https://bsky.app/profile/apnews.com/post/3m7oos4usex2q)
-
----
-
-@nbcnews.com
-
-A new study found that both Chinese and white Western women idealize thin bodies significantly more than Black Nigerian women.
-
-[2025-12-11 13:00:28](https://bsky.app/profile/nbcnews.com/post/3m7oorrqvpv24)
+[2025-12-11 13:11:15](https://bsky.app/profile/apnews.com/post/3m7opf2k6hy2k)
 
 ---
 
-@bloomberg.com
+@reuters.com
 
-Thailand and Cambodia are fighting again. It's a much bigger question than Donald Trump (via Bloomberg Opinion) 
+Adobe sees upbeat annual results on AI, design software strength reut.rs/44kMaPM
 
-[2025-12-11 13:00:18](https://bsky.app/profile/bloomberg.com/post/3m7oorhid5k2w)
-
----
-
-@washingtonpost.com
-
-The holiday season generates lots of business for plumbers, as all of those houseguests and cooking sprees overtax systems. Fortunately, there are simple things you can do year-round to protect your home’s pipes, and hopefully stave off disaster.
-
-[2025-12-11 13:00:09](https://bsky.app/profile/washingtonpost.com/post/3m7oor7q2rx2m)
-
----
-
-@washingtonpost.com
-
-The holiday season generates lots of business for plumbers, as all of those houseguests and cooking sprees overtax systems. Fortunately, there are simple things you can do year-round to protect your home’s pipes, and hopefully stave off disaster.
-
-[2025-12-11 13:00:09](https://bsky.app/profile/washingtonpost.com/post/3m7oor7pgk52b)
-
----
-
-@nytimes.com
-
-Denmark’s military intelligence service raised concerns for the first time about the U.S. in its annual threat assessment, saying in a report released Wednesday that shifts in American policy are generating new uncertainties for Denmark’s security.
-
-[2025-12-11 13:00:06](https://bsky.app/profile/nytimes.com/post/3m7oor4nol42e)
+[2025-12-11 13:10:15](https://bsky.app/profile/reuters.com/post/3m7opdbj3nz2y)
 
 ---
 
