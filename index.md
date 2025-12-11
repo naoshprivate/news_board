@@ -1,9 +1,9 @@
-# [2025-12-12 05:30 updated](2025_12_12.md)
+# [2025-12-12 05:50 updated](2025_12_12.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">These are our easiest-ever appetizers that you can make with just three ingredients — most likely ones you already have in your fridge or pantry — and minimal prep. <a href="https://bsky.app/profile/nytimes.com/post/3m7qfxrxhip2b" target="_blank">nytimes.com</a> (2025-12-12 05:28:06)</span><span style="padding-right:50px;">「年収の壁」自民・国民協議  接点見いだせるかが焦点 https://news.web.nhk/newsweb/na/na-k10015001621000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7qfvxay7v2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-12 05:27:02)</span><span style="padding-right:50px;">The ‘Saturday Night Live’ cast member crosses the line with evident glee in this gross-out, frequently hilarious stand-up special. on.wsj.com/4rTg5IO <a href="https://bsky.app/profile/wsj.com/post/3m7qfvheetm2u" target="_blank">wsj.com</a> (2025-12-12 05:26:47)</span><span style="padding-right:50px;">NEW: Justice Dept. fails in a third attempt to indict New York AG Letitia James. <a href="https://bsky.app/profile/nbcnews.com/post/3m7qfvag64h2q" target="_blank">nbcnews.com</a> (2025-12-12 05:26:40)</span><span style="padding-right:50px;">From Breakingviews - Breakingviews - Small AI deflation causes high-pitch Oracle squeak reut.rs/4oOkw4W <a href="https://bsky.app/profile/reuters.com/post/3m7qfsooxqd2c" target="_blank">reuters.com</a> (2025-12-12 05:25:14)</span>
+<span style="padding-right:50px;">Breaking News: A grand jury again rejected the Trump administration’s effort to bring charges against Letitia James, the New York attorney general. <a href="https://bsky.app/profile/nytimes.com/post/3m7qh5a7hcv2v" target="_blank">nytimes.com</a> (2025-12-12 05:49:02)</span><span style="padding-right:50px;">Breaking news: The Justice Department once again failed to persuade a grand jury to indict New York Attorney General Letitia James, another setback for the Trump administration, which pursued mortgage fraud charges that experts have long viewed as weak. <a href="https://bsky.app/profile/washingtonpost.com/post/3m7qgzlng332e" target="_blank">washingtonpost.com</a> (2025-12-12 05:47:00)</span><span style="padding-right:50px;">US judge orders Kilmar Abrego released from immigration detention reut.rs/4oOhLAQ <a href="https://bsky.app/profile/reuters.com/post/3m7qgwhk74b2x" target="_blank">reuters.com</a> (2025-12-12 05:45:15)</span><span style="padding-right:50px;">マチャド氏 “ベネズエラの変化はトランプ政権の圧力重要” https://news.web.nhk/newsweb/na/na-k10015001641000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7qgw65d6g2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-12 05:45:03)</span><span style="padding-right:50px;">JUST IN: Grand jury dismisses Letitia James indictment one week after last attempt <a href="https://bsky.app/profile/axios.com/post/3m7qgup635k25" target="_blank">axios.com</a> (2025-12-12 05:44:16)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48719.11 (🔺636.21 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23566.64 (🔺57.43 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.39 (🔺0.12 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.55 (🔻0.41 : 2025-12-11)</span>
+<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48718.26 (🔺635.36 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23586.34 (🔺77.12 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.76 (🔺0.48 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.54 (🔻0.43 : 2025-12-11)</span>
   </div>
 </div>
 
@@ -34,94 +34,113 @@
 
 Here are the 6 important topics with Japanese headlines:
 
-1. 「年収の壁」自民・国民協議  接点見いだせるかが焦点 (Confronting the Salary Ceiling - Focusing on Finding Common Ground between the LDP and the National Union)
-2. 米ディズニー 主要キャラを動画生成AI「Sora」で使用可に (Disney to Use AI Sora to Generate Main Characters)
-3. NASCARに抗itrust訴訟の和解 2つのレーシングチームとMichael Jordanのチームも (NASCAR Reaches Settlement in Antitrust Lawsuit with 2 Racing Teams and Michael Jordan's Team)
-4. 「小説家の妻」坂口志文さんと北川進さんが共同会見 メダルを披露 (Novelist's Wife, Sakamoto Shigenobu and Kitagawa Shin, Hold Joint Press Conference, Showing Medal)
-5. インフレーション・デフレーションに注意  Oracleの債務保険料が急上昇 (Inflation and Deflation Warning - Oracle Debt Insurance Premiums Surge)
-6. 小児の-measlesの流行が Utah-Arizona州境や南カロライナ州で (Measles Outbreaks Grow Along Utah-Arizona Border and in South Carolina)
+1. 「トランプ政権の新たな訴え、ジェームズ州知事告訴不起訴」
+
+Breaking News: A grand jury again rejected the Trump administration's effort to bring charges against Letitia James, the New York attorney general.
+
+2. 「米国貿易赤字、10%以上縮小」
+
+The U.S. trade deficit in goods and services narrowed more than 10% from August to September, as the Trump administration's tariffs continued to weigh on trade.
+
+3. 「EU、ロシア中央銀行資産凍結の長期的な決断」
+
+EU aims to agree by Friday to long-term freeze of Russian central bank assets.
+
+4. 「新たなETFでAIトレードのブレードングアウトをプレイ」
+
+Josh Brown says this ETF is a good way to play the broadening out of the market away from the AI trade.
+
+5. 「中国、米国自動車産業にとって「明確な脅威」」
+
+Major automakers say China poses clear and present threat to US auto industry.
+
+6. 「ディズニー、OpenAIに1億ドル投資」
+
+Disney is investing $1 billion in OpenAI and will bring characters such as Mickey Mouse, Cinderella and Luke Skywalker to the AI company's Sora video generation tool.
 
 ----
 
 @nytimes.com
 
-These are our easiest-ever appetizers that you can make with just three ingredients — most likely ones you already have in your fridge or pantry — and minimal prep.
+<strong><span style="color: red;">Breaking News</span>: A grand jury again rejected the Trump administration’s effort to bring charges against Letitia James, the New York attorney general.</strong>
 
-[2025-12-12 05:28:06](https://bsky.app/profile/nytimes.com/post/3m7qfxrxhip2b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-「年収の壁」自民・国民協議  接点見いだせるかが焦点
-https://news.web.nhk/newsweb/na/na-k10015001621000
-
-[2025-12-12 05:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7qfvxay7v2v)
+[2025-12-12 05:49:02](https://bsky.app/profile/nytimes.com/post/3m7qh5a7hcv2v)
 
 ---
 
-@wsj.com
+@washingtonpost.com
 
-The ‘Saturday Night Live’ cast member crosses the line with evident glee in this gross-out, frequently hilarious stand-up special. on.wsj.com/4rTg5IO
+<strong><span style="color: red;">Breaking news:</span> The Justice Department once again failed to persuade a grand jury to indict New York Attorney General Letitia James, another setback for the Trump administration, which pursued mortgage fraud charges that experts have long viewed as weak.</strong>
 
-[2025-12-12 05:26:47](https://bsky.app/profile/wsj.com/post/3m7qfvheetm2u)
-
----
-
-@nbcnews.com
-
-NEW: Justice Dept. fails in a third attempt to indict New York AG Letitia James.
-
-[2025-12-12 05:26:40](https://bsky.app/profile/nbcnews.com/post/3m7qfvag64h2q)
+[2025-12-12 05:47:00](https://bsky.app/profile/washingtonpost.com/post/3m7qgzlng332e)
 
 ---
 
 @reuters.com
 
-From Breakingviews - Breakingviews - Small AI deflation causes high-pitch Oracle squeak reut.rs/4oOkw4W
+US judge orders Kilmar Abrego released from immigration detention reut.rs/4oOhLAQ
 
-[2025-12-12 05:25:14](https://bsky.app/profile/reuters.com/post/3m7qfsooxqd2c)
+[2025-12-12 05:45:15](https://bsky.app/profile/reuters.com/post/3m7qgwhk74b2x)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-米ディズニー 主要キャラを動画生成AI「Sora」で使用可に
-https://news.web.nhk/newsweb/na/na-k10015001681000
+マチャド氏 “ベネズエラの変化はトランプ政権の圧力重要”
+https://news.web.nhk/newsweb/na/na-k10015001641000
 
-[2025-12-12 05:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7qfqm7wbw22)
-
----
-
-@cnn.com
-
-A grand jury, for a second time, has declined to bring a new indictment against Letitia James, the New York attorney general who defeated President Donald Trump and his company in court, according to multiple sources. https://cnn.it/4ab2N4j
-
-[2025-12-12 05:21:10](https://bsky.app/profile/cnn.com/post/3m7qflfqsgz24)
+[2025-12-12 05:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7qgw65d6g2v)
 
 ---
 
-@nbcnews.com
+@axios.com
 
-NASCAR reaches a settlement of the bruising antitrust lawsuit filed against the stock car series by two of its race teams, including one co-owned by Michael Jordan.
+<strong><span style="color: red;">JUST IN:</span> Grand jury dismisses Letitia James indictment one week after last attempt</strong>
 
-[2025-12-12 05:20:14](https://bsky.app/profile/nbcnews.com/post/3m7qfjq4enp2p)
+[2025-12-12 05:44:16](https://bsky.app/profile/axios.com/post/3m7qgup635k25)
 
 ---
 
-@cbsnews.com
+@nytimes.com
 
-Exclusive: The Nobel Peace Prize winner was in hiding in Venezuela. A secret mission brought her to Norway to accept her prize.
+The U.S. trade deficit in goods and services narrowed more than 10% from August to September, as the Trump administration’s tariffs continued to weigh on trade, data from the Commerce Department showed on Thursday.
 
-[2025-12-12 05:20:01](https://bsky.app/profile/cbsnews.com/post/3m7qfjdq2wt2i)
+[2025-12-12 05:44:11](https://bsky.app/profile/nytimes.com/post/3m7qgukri4s2k)
+
+---
+
+@aljazeera.com
+
+Video shows a man clinging onto a bridge in Boma, DR Congo after it collapsed due to heavy floods. The man was rescued but several others were swept away.
+
+[2025-12-12 05:42:34](https://bsky.app/profile/aljazeera.com/post/3m7qgrnwwj225)
 
 ---
 
 @reuters.com
 
-Ageing Germany set to get smaller and older, says stats office reut.rs/4oPHrgn
+EU aims to agree by Friday to long-term freeze of Russian central bank assets reut.rs/4pz9iCQ
 
-[2025-12-12 05:15:18](https://bsky.app/profile/reuters.com/post/3m7qfavinnz24)
+[2025-12-12 05:40:34](https://bsky.app/profile/reuters.com/post/3m7qgo3gn7j2x)
+
+---
+
+@nbcnews.com
+
+For the first time since President Trump rolled out his sweeping global tariff program in April, month-over-month customs receipts declined in November.
+
+[2025-12-12 05:40:09](https://bsky.app/profile/nbcnews.com/post/3m7qgndj4so2k)
+
+---
+
+@nikkei.com
+
+4000万人加入の協会けんぽ､保険料率34年ぶり下げ　手取り増を後押し
+www.nikkei.com/article/DGXZQO...
+
+0.1%の料率下げは単純計算で1人あたり平均年2000円ほどの負担減になるとみられます。
+
+[2025-12-12 05:38:56](https://bsky.app/profile/nikkei.com/post/3m7qgl6eoyk26)
 
 ---
 
