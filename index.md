@@ -1,9 +1,9 @@
-# [2025-12-11 09:30 updated](2025_12_11.md)
+# [2025-12-11 09:50 updated](2025_12_11.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Portugal braced for mass disruption in first general strike for 12 years <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7ocv3htqr2a" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-11 09:27:34)</span><span style="padding-right:50px;"> Trump has just accelerated Europe’s electric vehicle reckoning on.ft.com/4oLISfK  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m7oct3gfgn2y" target="_blank">financialtimes.com</a> (2025-12-11 09:26:27)</span><span style="padding-right:50px;">BlackRock to sell 7% stake in Naturgy in accelerated sale reut.rs/48LBBGZ <a href="https://bsky.app/profile/reuters.com/post/3m7ocqr373q2s" target="_blank">reuters.com</a> (2025-12-11 09:25:09)</span><span style="padding-right:50px;">Japanese ivory trade attracts fresh global scrutiny ➡️ u.afp.com/S7mu <a href="https://bsky.app/profile/en.afp.com/post/3m7ocqjmd3y26" target="_blank">en.afp.com</a> (2025-12-11 09:25:01)</span><span style="padding-right:50px;">First Brands financier Raistone nearing sale on.ft.com/4s7N2Sj <a href="https://bsky.app/profile/financialtimes.com/post/3m7ocp5vzyx2k" target="_blank">financialtimes.com</a> (2025-12-11 09:24:15)</span>
+<span style="padding-right:50px;">Fed's Powell says inflation overshoot caused by Trump tariffs reut.rs/3XNXCQg <a href="https://bsky.app/profile/reuters.com/post/3m7odut3n2k2s" target="_blank">reuters.com</a> (2025-12-11 09:45:19)</span><span style="padding-right:50px;">A group of House lawmakers launched a last-minute bid to force a vote on extending the enhanced Affordable Care Act subsidies set to expire at the end of the year. At least 218 members would first have to agree to consider the legislation, including most Democrats.  <a href="https://bsky.app/profile/washingtonpost.com/post/3m7oducu2n62n" target="_blank">washingtonpost.com</a> (2025-12-11 09:45:02)</span><span style="padding-right:50px;">Reports: Pete Alonso, Orioles finalizing 5-year, $155M deal reut.rs/4q0kVCr <a href="https://bsky.app/profile/reuters.com/post/3m7odm4nd7n2p" target="_blank">reuters.com</a> (2025-12-11 09:40:27)</span><span style="padding-right:50px;">Depression, anxiety and other psychiatric conditions often go undetected and undiagnosed in patients. The neglect takes a significant toll on survival. <a href="https://bsky.app/profile/nbcnews.com/post/3m7odllexws2p" target="_blank">nbcnews.com</a> (2025-12-11 09:40:09)</span><span style="padding-right:50px;">Ọbẹ̀ Onírù, also goes by the somewhat tongue-in-cheek name “designer stew,” as if the dish embodies something exclusive, something worth the premium (in time and currency) of preparing it. <a href="https://bsky.app/profile/nytimes.com/post/3m7odjnro652x" target="_blank">nytimes.com</a> (2025-12-11 09:39:04)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50710.25 (🔻108.14 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48057.75 (🔺483.79 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23654.16 (🔺118.16 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.78 (🔻1.18 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3126.00 (🔻22.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.65 (🔻0.31 : 2025-12-11)</span>
+<span style="padding-right:50px;">NIKKEI: 50477.18 (🔻341.21 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48057.75 (🔺483.79 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23654.16 (🔺118.16 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.78 (🔻1.18 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3128.00 (🔻20.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.78 (🔻0.18 : 2025-12-11)</span>
   </div>
 </div>
 
@@ -32,95 +32,99 @@
 
 ## News Headlines
 
-1. ポルトガルで12年ぶりの大規模ストライキが始まる
-2. トランプ政権の電気自動車の認定がEUの検討を急ぐ
-3. 世界から警戒される日本の象牙流通
-4. 韓国で有名人スキャンダルが「キャンセル文化」議論を呼ぶ
-5. 国連が「言語の死」に取り組む
-6. IMFがエチオピアの第4回評価で協定に達成、$261億を解放
+1. 小説家のトランプ大統領が石油タンカーをベネズエラ沖に捕獲
+2. 米国でトランプ大統領が FEMA の新しいトップを任命
+3. ユーチューブのスポーツストリーミングサービスを拡大
+4. 2025年にはインフルエンザの治療薬が不足しないように準備
+5. フォードの中国における稀少元素のライセンスを取得
+6. ミアミ市で民主党のエイリーン・ヒギンズ氏が初めて当選
 
 ----
 
-@bbcnews-world-rss.bsky.social
+@reuters.com
 
-Portugal braced for mass disruption in first general strike for 12 years
+Fed's Powell says inflation overshoot caused by Trump tariffs reut.rs/3XNXCQg
 
-[2025-12-11 09:27:34](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7ocv3htqr2a)
+[2025-12-11 09:45:19](https://bsky.app/profile/reuters.com/post/3m7odut3n2k2s)
 
 ---
 
-@financialtimes.com
+@washingtonpost.com
 
- Trump has just accelerated Europe’s electric vehicle reckoning on.ft.com/4oLISfK  | opinion
+A group of House lawmakers launched a last-minute bid to force a vote on extending the enhanced Affordable Care Act subsidies set to expire at the end of the year. At least 218 members would first have to agree to consider the legislation, including most Democrats. 
 
-[2025-12-11 09:26:27](https://bsky.app/profile/financialtimes.com/post/3m7oct3gfgn2y)
+[2025-12-11 09:45:02](https://bsky.app/profile/washingtonpost.com/post/3m7oducu2n62n)
 
 ---
 
 @reuters.com
 
-BlackRock to sell 7% stake in Naturgy in accelerated sale reut.rs/48LBBGZ
+Reports: Pete Alonso, Orioles finalizing 5-year, $155M deal reut.rs/4q0kVCr
 
-[2025-12-11 09:25:09](https://bsky.app/profile/reuters.com/post/3m7ocqr373q2s)
-
----
-
-@en.afp.com
-
-Japanese ivory trade attracts fresh global scrutiny ➡️ u.afp.com/S7mu
-
-[2025-12-11 09:25:01](https://bsky.app/profile/en.afp.com/post/3m7ocqjmd3y26)
-
----
-
-@financialtimes.com
-
-First Brands financier Raistone nearing sale on.ft.com/4s7N2Sj
-
-[2025-12-11 09:24:15](https://bsky.app/profile/financialtimes.com/post/3m7ocp5vzyx2k)
-
----
-
-@nhknewsunofficial.bsky.social
-
-トランプ大統領 “ベネズエラ沖合で石油タンカーをだ捕”
-https://news.web.nhk/newsweb/na/na-k10015000671000
-
-[2025-12-11 09:24:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ocou4fdh2y)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-South Korea: Celebrity scandals renew debate on 'cancel culture'
-
-[2025-12-11 09:20:48](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7ociyw7lm2x)
+[2025-12-11 09:40:27](https://bsky.app/profile/reuters.com/post/3m7odm4nd7n2p)
 
 ---
 
 @nbcnews.com
 
-Indigenous languages are rapidly disappearing, and AI could help preserve them, according to Indigenous technologists.
+Depression, anxiety and other psychiatric conditions often go undetected and undiagnosed in patients. The neglect takes a significant toll on survival.
 
-[2025-12-11 09:20:23](https://bsky.app/profile/nbcnews.com/post/3m7ociak7ec23)
+[2025-12-11 09:40:09](https://bsky.app/profile/nbcnews.com/post/3m7odllexws2p)
 
 ---
 
 @nytimes.com
 
-In @nytopinion.nytimes.com
+Ọbẹ̀ Onírù, also goes by the somewhat tongue-in-cheek name “designer stew,” as if the dish embodies something exclusive, something worth the premium (in time and currency) of preparing it.
 
-The Pentagon’s new security strategy document “acknowledges the ideological incoherence of the president’s foreign policy instincts but tries to make it a virtue,” David Wallace-Wells writes.
-
-[2025-12-11 09:20:06](https://bsky.app/profile/nytimes.com/post/3m7ochq4l7k2z)
+[2025-12-11 09:39:04](https://bsky.app/profile/nytimes.com/post/3m7odjnro652x)
 
 ---
 
-@cbsnews.com
+@reuters.com
 
-Justice Department moves to drop charges in international soccer corruption case.
+JPMorgan supercharges its bet on national security by hiring Combs from Berkshire reut.rs/48x51tx
 
-[2025-12-11 09:20:00](https://bsky.app/profile/cbsnews.com/post/3m7ochkogb22a)
+[2025-12-11 09:35:10](https://bsky.app/profile/reuters.com/post/3m7odcnxmzx2x)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Shares in AI giant Oracle fall after revenue miss
+
+[2025-12-11 09:34:32](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7odbkrgcf2b)
+
+---
+
+@cnbc.com
+
+Thursday's big stock stories: What’s likely to move the market in the next trading session
+
+[2025-12-11 09:33:13](https://bsky.app/profile/cnbc.com/post/3m7od76qerx2i)
+
+---
+
+@nikkei.com
+
+世界で最もパワフルな女性、高市早苗首相が3位　経済誌フォーブス選出（無料記事）
+www.nikkei.com/article/DGXZQO...
+
+首位は4年連続でEUのフォンデアライエン欧州委員長。2位は欧州中央銀行（ECB）のラガルド総裁でした。
+
+「激動の時代における不屈の精神の象徴だ」
+
+同誌は高市氏らをこのように称賛しました。
+
+[2025-12-11 09:31:51](https://bsky.app/profile/nikkei.com/post/3m7od4q7wt32y)
+
+---
+
+@cnn.com
+
+After years of promoting baseless claims of voter fraud that President Donald Trump has frequently touted, a conservative activist has landed a top position at the Federal Emergency Management Agency. 
+
+[2025-12-11 09:31:01](https://bsky.app/profile/cnn.com/post/3m7od3avezw2o)
 
 ---
 
