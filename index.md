@@ -1,9 +1,9 @@
-# [2025-12-11 15:10 updated](2025_12_11.md)
+# [2025-12-11 15:30 updated](2025_12_11.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】岡山市で1歳の男の子と30代の男性がはしかに感染 いずれも症状は軽快 (2025-12-11 15:05:00) #ニュース  😷感染症情報 🔗https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/sagasu_ruikei.html <a href="https://bsky.app/profile/sokuho.news/post/3m7ovs7rmp22b" target="_blank">sokuho.news</a> (2025-12-11 15:05:59)</span><span style="padding-right:50px;">Musk hints at possible SpaceX IPO in X post after media reports reut.rs/3Ykva8L <a href="https://bsky.app/profile/reuters.com/post/3m7ovqosje32c" target="_blank">reuters.com</a> (2025-12-11 15:05:08)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】ユネスコの無形文化遺産に追加登録決定 福井の和紙技術や茨城の祭りなど6件 (2025年12月11日 15:02) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7ovmypuag2b" target="_blank">sokuho.news</a> (2025-12-11 15:03:04)</span><span style="padding-right:50px;">ふるさと納税、東京23区の抵抗　「体験型」で返礼品競争に参戦 www.nikkei.com/article/DGXZQO...  水族館の閉館後貸し切りに、舞台「ハリー・ポッターと呪いの子」の観覧券──。  特産品など返礼品目当ての寄付で税の流出が深刻化し、23区は制度に不参加の東京都と連携して国に廃止を求めています。  それでも、流出分を少しでも取り返すべく、多くの区が観光資源を生かし税収確保に動かざるを得なくなってきました。 <a href="https://bsky.app/profile/nikkei.com/post/3m7ovkssvay2y" target="_blank">nikkei.com</a> (2025-12-11 15:01:51)</span><span style="padding-right:50px;">Ukraine delivered its response to the latest US-drafted peace proposal aimed at ending the war with Russia to the Trump administration, US and Ukrainian officials told CNN, as the contours of a potential deal take shape and the US president continues to make clear he wants the conflict resolved.  <a href="https://bsky.app/profile/cnn.com/post/3m7ovjdupwj23" target="_blank">cnn.com</a> (2025-12-11 15:01:01)</span>
+<span style="padding-right:50px;">The testimony of Gem Mutlu – a close friend of Ana Walshe’s who said he considered her family his own – came hours before prosecutors rested their case in the trial of Brian Walshe, who is accused of killing his wife on or around January 1, 2023.  <a href="https://bsky.app/profile/cnn.com/post/3m7ox3fsxll2u" target="_blank">cnn.com</a> (2025-12-11 15:29:01)</span><span style="padding-right:50px;">A landmark trial in Italy of Chinese crime gangs has suffered so many mishaps — from the disappearance of documents to the resignation of interpreters — that a senior prosecutor suspects it's being sabotaged to protect the criminals' grip on Europe's fashion industry reut.rs/4rQwP3r <a href="https://bsky.app/profile/reuters.com/post/3m7ox2nocs22v" target="_blank">reuters.com</a> (2025-12-11 15:28:36)</span><span style="padding-right:50px;">Trump launches gold card program for expedited visas with a $1 million price tag reut.rs/48RVxbe <a href="https://bsky.app/profile/reuters.com/post/3m7owug523e2b" target="_blank">reuters.com</a> (2025-12-11 15:25:07)</span><span style="padding-right:50px;">European markets head for lackluster open as Fed cut fails to lift sentiment <a href="https://bsky.app/profile/cnbc.com/post/3m7owqq2jfq2d" target="_blank">cnbc.com</a> (2025-12-11 15:23:03)</span><span style="padding-right:50px;">The Trump administration has announced plans for a new militarized zone in California, along the U.S.–Mexico border to "support ongoing border security operations." <a href="https://bsky.app/profile/axios.com/post/3m7owhfo7ok2q" target="_blank">axios.com</a> (2025-12-11 15:17:50)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50196.41 (🔻621.98 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48057.75 (🔺483.79 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23654.15 (🔺118.15 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.78 (🔻1.19 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3115.00 (🔻33.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 156.05 (🔺0.09 : 2025-12-11)</span>
+<span style="padding-right:50px;">NIKKEI: 50174.34 (🔻644.05 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48057.75 (🔺483.79 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23654.15 (🔺118.15 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.78 (🔻1.19 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3112.00 (🔻36.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 156.09 (🔺0.13 : 2025-12-11)</span>
   </div>
 </div>
 
@@ -32,112 +32,105 @@
 
 ## News Headlines
 
-1. 岡山市で1歳の男の子と30代の男性がはしかに感染
-2. ユネスコの無形文化遺産に福井の和紙技術や茨城の祭りなど6件追加登録
-3. 皇居・東御苑の入園者数が累計4000万人に到達
-4. 韓国海洋水産相が辞意表明、旧統一教会から金品受け取り疑惑
-5. 東京・あきる野市で住宅火災、1人死亡、1人逃げ遅れか
-6. 米軍の核搭載可能な戦略爆撃機、日本海を飛行、日米共同訓練
+1. pedido
+  イタリア、中国系犯罪組織の裁判で重大な混乱
+2.  US
+  トランプ大統領が高速ビザの金額を1,000万ドルに
+3.  F1
+  FIA、インディカードライバーのスーパーライセンスポイントを増やす
+4.  ユネスコ
+  和紙や祭りなど6件が無形文化遺産に追加登録
+5.  ウクライナ
+  ウクライナが米国に平和提案の答えを提示
+6.  Apple
+  AppleCEOが米国の子どもオンライン安全法の改正を求め
 
 ----
 
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】岡山市で1歳の男の子と30代の男性がはしかに感染 いずれも症状は軽快
-(2025-12-11 15:05:00) #ニュース
-
-😷感染症情報
-🔗https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/sagasu_ruikei.html
-
-[2025-12-11 15:05:59](https://bsky.app/profile/sokuho.news/post/3m7ovs7rmp22b)
-
----
-
-@reuters.com
-
-Musk hints at possible SpaceX IPO in X post after media reports reut.rs/3Ykva8L
-
-[2025-12-11 15:05:08](https://bsky.app/profile/reuters.com/post/3m7ovqosje32c)
-
----
-
-@sokuho.news
-
-🔔ANNより【速報】です。
-
-【速報】ユネスコの無形文化遺産に追加登録決定 福井の和紙技術や茨城の祭りなど6件
-(2025年12月11日 15:02) #ニュース
-
-[2025-12-11 15:03:04](https://bsky.app/profile/sokuho.news/post/3m7ovmypuag2b)
-
----
-
-@nikkei.com
-
-ふるさと納税、東京23区の抵抗　「体験型」で返礼品競争に参戦
-www.nikkei.com/article/DGXZQO...
-
-水族館の閉館後貸し切りに、舞台「ハリー・ポッターと呪いの子」の観覧券──。
-
-特産品など返礼品目当ての寄付で税の流出が深刻化し、23区は制度に不参加の東京都と連携して国に廃止を求めています。
-
-それでも、流出分を少しでも取り返すべく、多くの区が観光資源を生かし税収確保に動かざるを得なくなってきました。
-
-[2025-12-11 15:01:51](https://bsky.app/profile/nikkei.com/post/3m7ovkssvay2y)
-
----
-
 @cnn.com
 
-Ukraine delivered its response to the latest US-drafted peace proposal aimed at ending the war with Russia to the Trump administration, US and Ukrainian officials told CNN, as the contours of a potential deal take shape and the US president continues to make clear he wants the conflict resolved. 
+The testimony of Gem Mutlu – a close friend of Ana Walshe’s who said he considered her family his own – came hours before prosecutors rested their case in the trial of Brian Walshe, who is accused of killing his wife on or around January 1, 2023. 
 
-[2025-12-11 15:01:01](https://bsky.app/profile/cnn.com/post/3m7ovjdupwj23)
+[2025-12-11 15:29:01](https://bsky.app/profile/cnn.com/post/3m7ox3fsxll2u)
 
 ---
 
 @reuters.com
 
-Westpac director survives investor backlash over ASX ties reut.rs/3Muz2l4
+A landmark trial in Italy of Chinese crime gangs has suffered so many mishaps — from the disappearance of documents to the resignation of interpreters — that a senior prosecutor suspects it's being sabotaged to protect the criminals' grip on Europe's fashion industry reut.rs/4rQwP3r
 
-[2025-12-11 15:00:30](https://bsky.app/profile/reuters.com/post/3m7ovifg2sm2x)
-
----
-
-@nbcnews.com
-
-At the dance organization Queer the Ballet, LGBTQ performers challenge the expectations of traditional ballet while creating work all their own.
-
-[2025-12-11 15:00:14](https://bsky.app/profile/nbcnews.com/post/3m7ovhwevpc2p)
+[2025-12-11 15:28:36](https://bsky.app/profile/reuters.com/post/3m7ox2nocs22v)
 
 ---
 
-@washingtonpost.com
+@reuters.com
 
-Mothers in New Hampshire who were downstream of sites contaminated with “forever chemicals” experienced triple the rate of infant deaths and had more premature births or babies with low birth weights, a new study shows. https://wapo.st/48s0AQB
+Trump launches gold card program for expedited visas with a $1 million price tag reut.rs/48RVxbe
 
-[2025-12-11 15:00:12](https://bsky.app/profile/washingtonpost.com/post/3m7ovhuo3ql23)
+[2025-12-11 15:25:07](https://bsky.app/profile/reuters.com/post/3m7owug523e2b)
+
+---
+
+@cnbc.com
+
+European markets head for lackluster open as Fed cut fails to lift sentiment
+
+[2025-12-11 15:23:03](https://bsky.app/profile/cnbc.com/post/3m7owqq2jfq2d)
+
+---
+
+@axios.com
+
+The Trump administration has announced plans for a new militarized zone in California, along the U.S.–Mexico border to "support ongoing border security operations."
+
+[2025-12-11 15:17:50](https://bsky.app/profile/axios.com/post/3m7owhfo7ok2q)
+
+---
+
+@financialtimes.com
+
+Pharma companies need to focus on more durable and ‘quality’ treatments with fewer side effects, according to the chief executive of Zealand Pharma, which this year agreed a $5.3bn obesity partnership with Roche. on.ft.com/3MrKkGR
+
+[2025-12-11 15:17:06](https://bsky.app/profile/financialtimes.com/post/3m7owg3czax2y)
+
+---
+
+@reuters.com
+
+FIA boosts F1 superlicence points allocation for IndyCar drivers reut.rs/3KSTVpC
+
+[2025-12-11 15:15:13](https://bsky.app/profile/reuters.com/post/3m7owcpyckn2k)
+
+---
+
+@cnbc.com
+
+AI defense booms in UK and Germany as new wave of billion-dollar startups emerge
+
+[2025-12-11 15:13:03](https://bsky.app/profile/cnbc.com/post/3m7ow6uembg24)
+
+---
+
+@bloomberg.com
+
+The Israel-Hamas war rewrote the Muslim world’s fast-food loyalties. Just look at Malaysia.
+
+The country’s boycott of global brands is helping to power rapid growth for local chains including Ahmad’s Fried Chicken and Zus Coffee. bloom.bg/3YlNu1j
+
+📷: Ahmad Fried Chicken
+
+[2025-12-11 15:12:57](https://bsky.app/profile/bloomberg.com/post/3m7ow6oeudf2h)
 
 ---
 
 @sokuho.news
 
-🔔ANNより【速報】です。
+🛎️ANNより【速報】です。
 
-【速報】皇居・東御苑の入園者数が累計4000万人に到達 1968年から一般公開 宮内庁
-(2025年12月11日 14:56) #ニュース
+【速報】ユネスコの無形文化遺産に追加登録決定 福井の和紙技術や茨城の祭りなど6件
+(2025-12-11 15:04:58) #ニュース
 
-[2025-12-11 14:59:21](https://bsky.app/profile/sokuho.news/post/3m7ovge7ddg2y)
-
----
-
-@nhknewsunofficial.bsky.social
-
-韓国 海洋水産相が辞意表明 旧統一教会から金品受け取り疑惑で
-https://news.web.nhk/newsweb/na/na-k10015001051000
-
-[2025-12-11 14:57:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ovccebgl2k)
+[2025-12-11 15:10:22](https://bsky.app/profile/sokuho.news/post/3m7ow22le6e2s)
 
 ---
 
