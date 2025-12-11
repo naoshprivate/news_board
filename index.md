@@ -1,9 +1,9 @@
-# [2025-12-12 00:10 updated](2025_12_12.md)
+# [2025-12-12 00:30 updated](2025_12_12.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Nobel Peace Prize winner Machado vows to bring award back to Venezuela reut.rs/48yA3RO <a href="https://bsky.app/profile/reuters.com/post/3m7ptwhagyc2s" target="_blank">reuters.com</a> (2025-12-12 00:05:13)</span><span style="padding-right:50px;">Indian rupee slips to record low, but central bank likely curbs losses reut.rs/3KQQEqR <a href="https://bsky.app/profile/reuters.com/post/3m7ptpdcong2y" target="_blank">reuters.com</a> (2025-12-12 00:01:14)</span><span style="padding-right:50px;">SCOOP: Kristi Noem added to Dems' impeachment target list <a href="https://bsky.app/profile/axios.com/post/3m7ptopjphk2j" target="_blank">axios.com</a> (2025-12-12 00:00:54)</span><span style="padding-right:50px;">Solving the mystery of the guitarist’s longevity may be our best hope of aging gracefully. on.wsj.com/4oMs5Jm <a href="https://bsky.app/profile/wsj.com/post/3m7ptojdvtf2s" target="_blank">wsj.com</a> (2025-12-12 00:00:47)</span><span style="padding-right:50px;">When billionaire sex offender Jeffrey Epstein needed legal advice, help responding to negative press, or just moral support, he often turned to an unexpected confidante – Kathy Ruemmler. https://cnn.it/4p7nthv <a href="https://bsky.app/profile/cnn.com/post/3m7ptoh4and2q" target="_blank">cnn.com</a> (2025-12-12 00:00:45)</span>
+<span style="padding-right:50px;">Walt Disney and OpenAI announced a three-year licensing deal on Thursday that will allow users to create short videos featuring beloved Disney characters through artificial intelligence ➡️ u.afp.com/S778 <a href="https://bsky.app/profile/en.afp.com/post/3m7pv4mam532k" target="_blank">en.afp.com</a> (2025-12-12 00:26:34)</span><span style="padding-right:50px;">China says talks with EU on electric vehicle minimum price plan resumed reut.rs/452vhJQ <a href="https://bsky.app/profile/reuters.com/post/3m7pv25p2cd2r" target="_blank">reuters.com</a> (2025-12-12 00:25:11)</span><span style="padding-right:50px;">News Analysis: President Trump continues to brush off the cost of living, an issue that he said he would solve in his first months in office. He has given ammunition to Democrats in downplaying and sometimes outright denying economic realities. <a href="https://bsky.app/profile/nytimes.com/post/3m7puzy7gz62r" target="_blank">nytimes.com</a> (2025-12-12 00:25:06)</span><span style="padding-right:50px;">CNBC Sport: Utah breaks the private equity seal with historic $500 million investment <a href="https://bsky.app/profile/cnbc.com/post/3m7puzczt2b2e" target="_blank">cnbc.com</a> (2025-12-12 00:24:43)</span><span style="padding-right:50px;">President Trump says he doesn’t want to waste time in talks to end the war in Ukraine, but his growing frustration appears to be aimed at Ukraine and its backers in Europe.  <a href="https://bsky.app/profile/nbcnews.com/post/3m7pur54k3s2k" target="_blank">nbcnews.com</a> (2025-12-12 00:20:09)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48332.12 (🔺249.22 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23440.97 (🔻68.25 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 177.87 (🔻2.40 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.03 (🔻0.93 : 2025-12-11)</span>
+<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48482.70 (🔺399.80 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23483.05 (🔻26.17 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 178.20 (🔻2.08 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.10 (🔻0.86 : 2025-12-11)</span>
   </div>
 </div>
 
@@ -30,84 +30,84 @@
 
 ---
 
+@en.afp.com
+
+Walt Disney and OpenAI announced a three-year licensing deal on Thursday that will allow users to create short videos featuring beloved Disney characters through artificial intelligence ➡️ u.afp.com/S778
+
+[2025-12-12 00:26:34](https://bsky.app/profile/en.afp.com/post/3m7pv4mam532k)
+
+---
+
 @reuters.com
 
-Nobel Peace Prize winner Machado vows to bring award back to Venezuela reut.rs/48yA3RO
+China says talks with EU on electric vehicle minimum price plan resumed reut.rs/452vhJQ
 
-[2025-12-12 00:05:13](https://bsky.app/profile/reuters.com/post/3m7ptwhagyc2s)
-
----
-
-@reuters.com
-
-Indian rupee slips to record low, but central bank likely curbs losses reut.rs/3KQQEqR
-
-[2025-12-12 00:01:14](https://bsky.app/profile/reuters.com/post/3m7ptpdcong2y)
+[2025-12-12 00:25:11](https://bsky.app/profile/reuters.com/post/3m7pv25p2cd2r)
 
 ---
 
-@axios.com
+@nytimes.com
 
-SCOOP: Kristi Noem added to Dems' impeachment target list
+News Analysis: President Trump continues to brush off the cost of living, an issue that he said he would solve in his first months in office. He has given ammunition to Democrats in downplaying and sometimes outright denying economic realities.
 
-[2025-12-12 00:00:54](https://bsky.app/profile/axios.com/post/3m7ptopjphk2j)
-
----
-
-@wsj.com
-
-Solving the mystery of the guitarist’s longevity may be our best hope of aging gracefully. on.wsj.com/4oMs5Jm
-
-[2025-12-12 00:00:47](https://bsky.app/profile/wsj.com/post/3m7ptojdvtf2s)
-
----
-
-@cnn.com
-
-When billionaire sex offender Jeffrey Epstein needed legal advice, help responding to negative press, or just moral support, he often turned to an unexpected confidante – Kathy Ruemmler.
-https://cnn.it/4p7nthv
-
-[2025-12-12 00:00:45](https://bsky.app/profile/cnn.com/post/3m7ptoh4and2q)
-
----
-
-@wsj.com
-
-It’s the Champagne everyone knows, a ‘safe’ gift for the host of a holiday party. But are you paying for the marketing or the quality of the wine itself? Our wine columnist offers a few outstanding-value alternatives. on.wsj.com/4rOqJk6
-
-[2025-12-12 00:00:45](https://bsky.app/profile/wsj.com/post/3m7ptoh2ghl2k)
-
----
-
-@washingtonpost.com
-
-An environmental group filed a lawsuit to halt federal plans to decorate next year’s national parks pass with an image of President Trump’s face, arguing that federal law requires the pass to feature the winner of an annual nature photography competition.
-
-[2025-12-12 00:00:42](https://bsky.app/profile/washingtonpost.com/post/3m7ptoemnoc24)
+[2025-12-12 00:25:06](https://bsky.app/profile/nytimes.com/post/3m7puzy7gz62r)
 
 ---
 
 @cnbc.com
 
-The Department of Education has updated to FAFSA to include a disclosure when students apply to schools with lower earnings outcomes. 
+CNBC Sport: Utah breaks the private equity seal with historic $500 million investment
 
-[2025-12-12 00:00:33](https://bsky.app/profile/cnbc.com/post/3m7pto3ckig24)
-
----
-
-@bloomberg.com
-
-Move aligns Mexico with US stance against flood of imports from China
-
-[2025-12-12 00:00:30](https://bsky.app/profile/bloomberg.com/post/3m7ptnz5tap23)
+[2025-12-12 00:24:43](https://bsky.app/profile/cnbc.com/post/3m7puzczt2b2e)
 
 ---
 
-@usatoday.com
+@nbcnews.com
 
-La Niña has a major influence on winter weather in the U.S., but its effects vary drastically by region.
+President Trump says he doesn’t want to waste time in talks to end the war in Ukraine, but his growing frustration appears to be aimed at Ukraine and its backers in Europe. 
 
-[2025-12-12 00:00:25](https://bsky.app/profile/usatoday.com/post/3m7ptnu4e6y2f)
+[2025-12-12 00:20:09](https://bsky.app/profile/nbcnews.com/post/3m7pur54k3s2k)
+
+---
+
+@axios.com
+
+NEW: AI architects are Time magazine's 2025 "Person of the Year"
+
+[2025-12-12 00:19:05](https://bsky.app/profile/axios.com/post/3m7pupai52k2r)
+
+---
+
+@financialtimes.com
+
+ It’s time to restore the civic function of US universities on.ft.com/4iMOmW8  | opinion
+
+[2025-12-12 00:17:31](https://bsky.app/profile/financialtimes.com/post/3m7pumgkeb325)
+
+---
+
+@yahoofinance.com
+
+Disney has invested $1 billion into OpenAI and has reached an agreement for Disney to become the first major content licensing partner on Sora, OpenAI’s short-form generative AI video platform.
+finance.yahoo.com/news/disney-...
+
+[2025-12-12 00:17:24](https://bsky.app/profile/yahoofinance.com/post/3m7pum7pp4k2q)
+
+---
+
+@nytimes.com
+
+<strong><span style="color: red;">Breaking News</span>: Bulgaria’s prime minister resigned after less than a year in office, following mass protests against his government. His departure was fomented by continued economic instability in one of the EU’s consistently poorest countries.</strong>
+
+[2025-12-12 00:16:29](https://bsky.app/profile/nytimes.com/post/3m7puklcuaa26)
+
+---
+
+@reuters.com
+
+Hungary's Orban says Trump strategy grasps Europe's 'civilisation-scale decline' reut.rs/4abYequ
+
+[2025-12-12 00:15:19](https://bsky.app/profile/reuters.com/post/3m7puiiwlpv2i)
 
 ---
 
