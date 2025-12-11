@@ -1,9 +1,9 @@
-# [2025-12-11 21:30 updated](2025_12_11.md)
+# [2025-12-11 21:50 updated](2025_12_11.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Montreal Has Just Opened Its First-Ever 100% Women’s Sports Bar <a href="https://bsky.app/profile/forbes.com/post/3m7pl5ra2ns2d" target="_blank">forbes.com</a> (2025-12-11 21:28:15)</span><span style="padding-right:50px;">In a year marked by setbacks for female employment and advancement opportunities, the World’s 100 Most Powerful Women managed to exert their power — on philanthropy, AI, finance and entertainment. <a href="https://bsky.app/profile/forbes.com/post/3m7pl52d5js2d" target="_blank">forbes.com</a> (2025-12-11 21:27:51)</span><span style="padding-right:50px;">Japanese Prime Minister Sanae Takaichi is the highest-ranked political newcomer to the Forbes list of the World’s Most Powerful Women, one of a few breakthroughs amid a year otherwise marked by sudden ousters and stalled progress toward parity. <a href="https://bsky.app/profile/forbes.com/post/3m7pl4g3mtc2d" target="_blank">forbes.com</a> (2025-12-11 21:27:30)</span><span style="padding-right:50px;">ミャンマー軍 総選挙前に対立する少数民族の病院空爆 35人死亡 https://news.web.nhk/newsweb/na/na-k10015001391000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7pl3o757v2y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-11 21:27:03)</span><span style="padding-right:50px;">The women behind Netflix’s most-watched original movie ever—including its writer and co-director Maggie Kang and singer-songwriter Ejae—created one of the most powerful cultural moments of 2025. <a href="https://bsky.app/profile/forbes.com/post/3m7pl36khi22d" target="_blank">forbes.com</a> (2025-12-11 21:26:48)</span>
+<span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】首都高速の事故でバイクを運転の男性が川に落下 意識あり軽傷 (2025年12月11日 19:54) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7pmdhsj2h2b" target="_blank">sokuho.news</a> (2025-12-11 21:49:20)</span><span style="padding-right:50px;">Venezuelan opposition leader María Corina Machado says she got "support" from the US to travel to Norway to accept the Nobel Peace Prize. https://cnn.it/4rPYP7p <a href="https://bsky.app/profile/cnn.com/post/3m7pm7ogd5m26" target="_blank">cnn.com</a> (2025-12-11 21:47:13)</span><span style="padding-right:50px;">How This Indian Immigrant Went From An H1-B Visa To Building A $5.5 Billion Business <a href="https://bsky.app/profile/forbes.com/post/3m7pm76hsxc2q" target="_blank">forbes.com</a> (2025-12-11 21:46:56)</span><span style="padding-right:50px;">The NHL’s Most Valuable Teams 2025 <a href="https://bsky.app/profile/forbes.com/post/3m7pm6pfu422q" target="_blank">forbes.com</a> (2025-12-11 21:46:41)</span><span style="padding-right:50px;">The exclusive WhatsApp chats where family offices vet deals, plan meetups and sell dinosaur bones <a href="https://bsky.app/profile/cnbc.com/post/3m7pm6f2wad25" target="_blank">cnbc.com</a> (2025-12-11 21:46:30)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48057.75 (🔺483.79 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23654.15 (🔺118.15 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.78 (🔻1.19 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.63 (🔻0.33 : 2025-12-11)</span>
+<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48057.75 (🔺483.79 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23654.15 (🔺118.15 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.78 (🔻1.19 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.54 (🔻0.42 : 2025-12-11)</span>
   </div>
 </div>
 
@@ -32,95 +32,100 @@
 
 ## News Headlines
 
-1. モントリオール初の女性専用スポーツバーがオープン
-2. Forbes の「世界の最も力のある女性」に日本の竹内光太郎首相がランクイン
-3. ミャンマー軍、総選挙前に少数民族の病院空爆　35人死亡
-4. Netflixの女性スタッフが作った映画が大ヒット　女性が力を持つ文化の象徴
-5. 米国FDAが初めての自宅でのうつ病治療デバイスを承認
-6. ノーベル賞受賞者 坂口志文氏「子どもたちへのいい刺激になれば」
+1. バイキング男性が川に落下　首都高速で事故
+2. マリア・コリーナ・マチャド氏がノーベル平和賞を受賞
+3. 日米投資交渉　EUが暫定合意
+4. エリ・リリーの新薬　患者が29％の体重を減らす
+5. バンクーバーへの道路が閉鎖　水害と地滑りのため
+6. 米通貨政策　連邦準備理事会が切り下げ
 
 ----
 
-@forbes.com
+@sokuho.news
 
-Montreal Has Just Opened Its First-Ever 100% Women’s Sports Bar
+🔔ANNより【速報】です。
 
-[2025-12-11 21:28:15](https://bsky.app/profile/forbes.com/post/3m7pl5ra2ns2d)
+【速報】首都高速の事故でバイクを運転の男性が川に落下 意識あり軽傷
+(2025年12月11日 19:54) #ニュース
+
+[2025-12-11 21:49:20](https://bsky.app/profile/sokuho.news/post/3m7pmdhsj2h2b)
+
+---
+
+@cnn.com
+
+Venezuelan opposition leader María Corina Machado says she got "support" from the US to travel to Norway to accept the Nobel Peace Prize.
+https://cnn.it/4rPYP7p
+
+[2025-12-11 21:47:13](https://bsky.app/profile/cnn.com/post/3m7pm7ogd5m26)
 
 ---
 
 @forbes.com
 
-In a year marked by setbacks for female employment and advancement opportunities, the World’s 100 Most Powerful Women managed to exert their power — on philanthropy, AI, finance and entertainment.
+How This Indian Immigrant Went From An H1-B Visa To Building A $5.5 Billion Business
 
-[2025-12-11 21:27:51](https://bsky.app/profile/forbes.com/post/3m7pl52d5js2d)
-
----
-
-@forbes.com
-
-Japanese Prime Minister Sanae Takaichi is the highest-ranked political newcomer to the Forbes list of the World’s Most Powerful Women, one of a few breakthroughs amid a year otherwise marked by sudden ousters and stalled progress toward parity.
-
-[2025-12-11 21:27:30](https://bsky.app/profile/forbes.com/post/3m7pl4g3mtc2d)
-
----
-
-@nhknewsunofficial.bsky.social
-
-ミャンマー軍 総選挙前に対立する少数民族の病院空爆 35人死亡
-https://news.web.nhk/newsweb/na/na-k10015001391000
-
-[2025-12-11 21:27:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7pl3o757v2y)
+[2025-12-11 21:46:56](https://bsky.app/profile/forbes.com/post/3m7pm76hsxc2q)
 
 ---
 
 @forbes.com
 
-The women behind Netflix’s most-watched original movie ever—including its writer and co-director Maggie Kang and singer-songwriter Ejae—created one of the most powerful cultural moments of 2025.
+The NHL’s Most Valuable Teams 2025
 
-[2025-12-11 21:26:48](https://bsky.app/profile/forbes.com/post/3m7pl36khi22d)
+[2025-12-11 21:46:41](https://bsky.app/profile/forbes.com/post/3m7pm6pfu422q)
+
+---
+
+@cnbc.com
+
+The exclusive WhatsApp chats where family offices vet deals, plan meetups and sell dinosaur bones
+
+[2025-12-11 21:46:30](https://bsky.app/profile/cnbc.com/post/3m7pm6f2wad25)
 
 ---
 
 @forbes.com
 
-From the world’s youngest self-made female billionaire Luana Lopes-Lara to Temasek CFO Png Chin Yee and Waymo co-CEO Tekedra Mawakana, these are the founders and executives we’ll be watching in 2026.
+Collective Of Five Olympic Sport Governing Bodies Strikes Its First Sponsor Deal
 
-[2025-12-11 21:26:31](https://bsky.app/profile/forbes.com/post/3m7pl2nu3uk2d)
-
----
-
-@forbes.com
-
-Women are steering the systems that will define the next decade. As the 2025 Forbes Power Women list demonstrates, their influence across technology, finance and politics is both deep and global, yet the highest tiers of power remain selectively guarded.
-
-[2025-12-11 21:26:11](https://bsky.app/profile/forbes.com/post/3m7pl2322ak2d)
+[2025-12-11 21:46:23](https://bsky.app/profile/forbes.com/post/3m7pm66poe22q)
 
 ---
 
 @forbes.com
 
-For all the setbacks for the world’s women in 2025, the leaders and vanguards on the 2025 Forbes Power Women list stood as examples of resilience in turbulent times.
+How The King Of Beef Jerky Became A Billionaire
 
-[2025-12-11 21:25:48](https://bsky.app/profile/forbes.com/post/3m7pkzf56j22d)
+Full story: www.forbes.com/sites/chloes...
+
+[2025-12-11 21:46:04](https://bsky.app/profile/forbes.com/post/3m7pm5mfaq22q)
 
 ---
 
 @reuters.com
 
-Rezolute's rare disease drug fails to meet main goal in late-stage trial reut.rs/3YjXNmz
+EU reaches provisional deal on screening foreign investment reut.rs/4q3pdsT
 
-[2025-12-11 21:25:08](https://bsky.app/profile/reuters.com/post/3m7pky6yxtl2p)
+[2025-12-11 21:45:19](https://bsky.app/profile/reuters.com/post/3m7pm4c62nm2p)
 
 ---
 
-@nytimes.com
+@axios.com
 
-A powerful earthquake that jolted Japan’s northern coast on Monday prompted the government to issue a rare advisory that the chance of a far larger and more destructive earthquake in the next week had increased. 
+NEW: Kristi Noem is locked in a bitter feud with border czar Tom Homan.
 
-Here's what to know.
+Backers of Noem, who has been the subject of reports that she’s on her way out of the administration, blame the whisper campaign on Homan’s supporters.
 
-[2025-12-11 21:25:04](https://bsky.app/profile/nytimes.com/post/3m7pky2wi3k2b)
+[2025-12-11 21:45:05](https://bsky.app/profile/axios.com/post/3m7pm3uqhes25)
+
+---
+
+@forbes.com
+
+The Midas List Europe: The Top Venture Capital Investors In Europe and the Middle East In 2025
+
+[2025-12-11 21:44:41](https://bsky.app/profile/forbes.com/post/3m7pm356jfk2q)
 
 ---
 
