@@ -1,9 +1,9 @@
-# [2025-12-11 20:30 updated](2025_12_11.md)
+# [2025-12-11 20:50 updated](2025_12_11.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">STMicroelectronics opens new 1-billion-euro credit line with EIB reut.rs/3XOkQG0 <a href="https://bsky.app/profile/reuters.com/post/3m7phmvjder2i" target="_blank">reuters.com</a> (2025-12-11 20:25:08)</span><span style="padding-right:50px;">King Juan Carlos I of Spain abdicated and left for exile years ago. Now, his attempted comeback is giving his family a royal headache. <a href="https://bsky.app/profile/nytimes.com/post/3m7phmtwvt62y" target="_blank">nytimes.com</a> (2025-12-11 20:25:06)</span><span style="padding-right:50px;">'Reflation is back' says Deutsche Bank as global central banks diverge from Fed <a href="https://bsky.app/profile/cnbc.com/post/3m7phm24fdd2x" target="_blank">cnbc.com</a> (2025-12-11 20:24:39)</span><span style="padding-right:50px;">「Jリーグアウォーズ」最優秀選手 鹿島アントラーズの早川友基 https://news.web.nhk/newsweb/na/na-k10015001361000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7phfst3h62x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-11 20:21:08)</span><span style="padding-right:50px;">特殊詐欺対策アプリに推奨制度導入 スマホでの利用促す 警察庁 https://news.web.nhk/newsweb/na/na-k10015001331000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7phfnfeuv22" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-11 20:21:02)</span>
+<span style="padding-right:50px;">Fighting that has killed at least 19 people this week raged on Thursday along the border of Cambodia and Thailand, with explosions heard near centuries-old temples ahead of US President Donald Trump's planned phone call to the leaders of both nations ➡️ u.afp.com/S7hw <a href="https://bsky.app/profile/en.afp.com/post/3m7pivyzss22q" target="_blank">en.afp.com</a> (2025-12-11 20:48:07)</span><span style="padding-right:50px;">A girl held as a sex slave. A teen raped so viciously that she needed two reconstructive surgeries. A boy soldier forced to round up girls for rape. These are some of the hidden victims of armed conflict in Congo reut.rs/4oOzOH1 <a href="https://bsky.app/profile/reuters.com/post/3m7piu72cxs2i" target="_blank">reuters.com</a> (2025-12-11 20:47:07)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】特急列車「しまんと」が人と接触、土讃線・高知～窪川間で運転見合わせ（11日午後8時40分時点） (2025-12-11 20:44:00) #ニュース  🚃鉄道運行情報 🔗https://transit.yahoo.co.jp/diainfo <a href="https://bsky.app/profile/sokuho.news/post/3m7pisa2fd62v" target="_blank">sokuho.news</a> (2025-12-11 20:46:00)</span><span style="padding-right:50px;">【国税庁、AI活用調査が貢献】 所得税の追徴税額1431億円で過去最多　（無料記事） www.nikkei.com/article/DGXZQO...  AIが申告情報や過去の調査結果などをもとに、申告漏れの可能性が高い納税者を判定。職員が調査対象を選ぶ参考にしています。  「富裕層」の申告漏れ所得は前年度比27.8%増の総額837億円で、追徴税額は37億円増の207億円にのぼりました。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m7pirwxuk626" target="_blank">nikkei.com</a> (2025-12-11 20:45:51)</span><span style="padding-right:50px;">The Trump administration jettisoned a plan to honor the abolition of slavery, women’s suffrage and the civil-rights movement on quarters for the nation’s 250th birthday. <a href="https://bsky.app/profile/wsj.com/post/3m7pirhexu52c" target="_blank">wsj.com</a> (2025-12-11 20:45:34)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48057.75 (🔺483.79 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23654.15 (🔺118.15 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.78 (🔻1.19 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.76 (🔻0.20 : 2025-12-11)</span>
+<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48057.75 (🔺483.79 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23654.15 (🔺118.15 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.78 (🔻1.19 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.79 (🔻0.17 : 2025-12-11)</span>
   </div>
 </div>
 
@@ -32,94 +32,106 @@
 
 ## News Headlines
 
-1. スイス銀行が、米国連邦準備理事会（Fed）の政策金利を上昇させることに対して、世界の金融市場で金利を上昇させる予定であることを示しています。
-2. スペイン元王室のジャンカルロ1世が退位して以来、数年間、流浪の生活を送っていたが、今度は彼の再来日は家族に大きな困難をもたらしています。
-3. バイオリンタが、欧州中央銀行（ECB）との1億ユーロのクレジットラインを開始します。
-4. 「レフラチョンは戻ってきている」というドイツ銀行が、米国連邦準備理事会（Fed）を除く世界の中央銀行が米国と異なる政策を取っていることを示しています。
-5. EUとエジプトの間で自由貿易交渉が急速に進んでいることをエジプトのエネルギー大臣が述べています。
-6. 「家族の癒し」に加わるために、米国政府は新しいビザプログラム「ゴールドカード」の申込を開始しています。
+1.  東南アジア、カンボジア・タイ国境で19人以上の死者　米大統領の電話会議前に衝突
+2.  コンゴ、脊髄損傷などの重度の傷害を受けた少女らの性的虐待の事例
+3.  特急列車「しまんと」が人と接触、運転見合わせ
+4.  AI活用により国税庁が過去最大の1431億円の追徴税額を確保
+5.  米大統領、デラウェア州の奴隷解放など歴史的出来事を記念するコインを打つことを断念
+6.  チャイナタウンで女性が車に轢かれ重体
 
 ----
 
+@en.afp.com
+
+Fighting that has killed at least 19 people this week raged on Thursday along the border of Cambodia and Thailand, with explosions heard near centuries-old temples ahead of US President Donald Trump's planned phone call to the leaders of both nations ➡️ u.afp.com/S7hw
+
+[2025-12-11 20:48:07](https://bsky.app/profile/en.afp.com/post/3m7pivyzss22q)
+
+---
+
 @reuters.com
 
-STMicroelectronics opens new 1-billion-euro credit line with EIB reut.rs/3XOkQG0
+A girl held as a sex slave. A teen raped so viciously that she needed two reconstructive surgeries. A boy soldier forced to round up girls for rape. These are some of the hidden victims of armed conflict in Congo reut.rs/4oOzOH1
 
-[2025-12-11 20:25:08](https://bsky.app/profile/reuters.com/post/3m7phmvjder2i)
-
----
-
-@nytimes.com
-
-King Juan Carlos I of Spain abdicated and left for exile years ago. Now, his attempted comeback is giving his family a royal headache.
-
-[2025-12-11 20:25:06](https://bsky.app/profile/nytimes.com/post/3m7phmtwvt62y)
+[2025-12-11 20:47:07](https://bsky.app/profile/reuters.com/post/3m7piu72cxs2i)
 
 ---
 
-@cnbc.com
+@sokuho.news
 
-'Reflation is back' says Deutsche Bank as global central banks diverge from Fed
+🛎️JNNより【速報】です。
 
-[2025-12-11 20:24:39](https://bsky.app/profile/cnbc.com/post/3m7phm24fdd2x)
+【速報】特急列車「しまんと」が人と接触、土讃線・高知～窪川間で運転見合わせ（11日午後8時40分時点）
+(2025-12-11 20:44:00) #ニュース
 
----
+🚃鉄道運行情報
+🔗https://transit.yahoo.co.jp/diainfo
 
-@nhknewsunofficial.bsky.social
-
-「Jリーグアウォーズ」最優秀選手 鹿島アントラーズの早川友基
-https://news.web.nhk/newsweb/na/na-k10015001361000
-
-[2025-12-11 20:21:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7phfst3h62x)
+[2025-12-11 20:46:00](https://bsky.app/profile/sokuho.news/post/3m7pisa2fd62v)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@nikkei.com
 
-特殊詐欺対策アプリに推奨制度導入 スマホでの利用促す 警察庁
-https://news.web.nhk/newsweb/na/na-k10015001331000
+【国税庁、AI活用調査が貢献】
+所得税の追徴税額1431億円で過去最多　（無料記事）
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-11 20:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7phfnfeuv22)
+AIが申告情報や過去の調査結果などをもとに、申告漏れの可能性が高い納税者を判定。職員が調査対象を選ぶ参考にしています。
+
+「富裕層」の申告漏れ所得は前年度比27.8%増の総額837億円で、追徴税額は37億円増の207億円にのぼりました。
+
+#ニュース
+
+[2025-12-11 20:45:51](https://bsky.app/profile/nikkei.com/post/3m7pirwxuk626)
+
+---
+
+@wsj.com
+
+The Trump administration jettisoned a plan to honor the abolition of slavery, women’s suffrage and the civil-rights movement on quarters for the nation’s 250th birthday.
+
+[2025-12-11 20:45:34](https://bsky.app/profile/wsj.com/post/3m7pirhexu52c)
+
+---
+
+@reuters.com
+
+Drax plans to turn coal-era power station into data centre by 2027 reut.rs/4s6hNHc
+
+[2025-12-11 20:45:14](https://bsky.app/profile/reuters.com/post/3m7piqttkar2b)
+
+---
+
+@aljazeera.com
+
+The World Inequality Report 2026 highlights deep divides in income and wealth, with the richest 10% continuing to dominate economies. Here’s where inequality hits hardest. #Infograph
+
+[2025-12-11 20:44:39](https://bsky.app/profile/aljazeera.com/post/3m7pipsau622x)
 
 ---
 
 @nbcnews.com
 
-Venezuelan President Nicolas Maduro sang Bobby McFerrin’s song “Don’t Worry, Be Happy” in response to relations between his country and the U.S. deteriorating over increased U.S. military presence in the Caribbean.
+A pregnant woman's ride to a San Francisco hospital in a Waymo this week took an unexpected turn when she gave birth in the robotaxi, according to the company.
 
-[2025-12-11 20:20:34](https://bsky.app/profile/nbcnews.com/post/3m7phepu4l72q)
-
----
-
-@npr.org
-
-After being diagnosed with breast cancer, Gillian realized she has one day left to choose a new health insurance plan. A coworker went above and beyond to ensure everything was taken care of. n.pr/494BuYd
-
-[2025-12-11 20:20:00](https://bsky.app/profile/npr.org/post/3m7phdpmlw524)
+[2025-12-11 20:40:18](https://bsky.app/profile/nbcnews.com/post/3m7pihzr7w22u)
 
 ---
 
 @reuters.com
 
-Italy's Bancomat plans euro-pegged stablecoin to boost digital payments reut.rs/3KqmF99
+Permian to retain US oil crown even after hitting peak reut.rs/44iRzHg
 
-[2025-12-11 20:15:14](https://bsky.app/profile/reuters.com/post/3m7ph37jyzz24)
-
----
-
-@financialtimes.com
-
-Starling eyes UK acquisition to boost corporate lending on.ft.com/48waVuS
-
-[2025-12-11 20:13:49](https://bsky.app/profile/financialtimes.com/post/3m7pgyogqjw2o)
+[2025-12-11 20:40:10](https://bsky.app/profile/reuters.com/post/3m7pihsb2vr2b)
 
 ---
 
-@cnbc.com
+@nytimes.com
 
-Russia's charm offensive on Trump leaves Europe scrambling to win him back
+The widening scope of the conflict between Thailand and Cambodia presents a challenge to President Trump’s tariff diplomacy, which he has brandished as a peacemaking tool.
 
-[2025-12-11 20:12:29](https://bsky.app/profile/cnbc.com/post/3m7pgwbn56m24)
+[2025-12-11 20:40:03](https://bsky.app/profile/nytimes.com/post/3m7pihkrziu2y)
 
 ---
 
