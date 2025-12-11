@@ -1,9 +1,9 @@
-# [2025-12-12 08:10 updated](2025_12_12.md)
+# [2025-12-12 08:30 updated](2025_12_12.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Oracle made a $300 billion bet on OpenAI. It's paying the price. <a href="https://bsky.app/profile/yahoofinance.com/post/3m7qosbk7732j" target="_blank">yahoofinance.com</a> (2025-12-12 08:06:04)</span><span style="padding-right:50px;">Waymo recalls, updates software for over 3000 vehicles, U.S. regulator says reut.rs/4pRsCvj <a href="https://bsky.app/profile/reuters.com/post/3m7qoqnizg62y" target="_blank">reuters.com</a> (2025-12-12 08:05:10)</span><span style="padding-right:50px;">Director Carl Rinsch found guilty of scamming $11M from Netflix and buying luxury cars, watches and mattresses. <a href="https://bsky.app/profile/cbsnews.com/post/3m7qoqffne52m" target="_blank">cbsnews.com</a> (2025-12-12 08:05:01)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】秋田内陸線の列車が脱線・転覆 運転士の救助作業続く (2025-12-12 07:49) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7qooejq4w2z" target="_blank">sokuho.news</a> (2025-12-12 08:03:53)</span><span style="padding-right:50px;">House passes bill to to ease investment standards and boost capital in markets <a href="https://bsky.app/profile/cnbc.com/post/3m7qomojf3a2i" target="_blank">cnbc.com</a> (2025-12-12 08:02:57)</span>
+<span style="padding-right:50px;">JUST IN: Federal judge says the Trump administration misled the court, had no legal authority to expel Kilmar Abrego Garcia <a href="https://bsky.app/profile/usatoday.com/post/3m7qpwo55la2l" target="_blank">usatoday.com</a> (2025-12-12 08:26:25)</span><span style="padding-right:50px;">USC TE Lake McRee to bypass final year of eligibility reut.rs/3YnuBep <a href="https://bsky.app/profile/reuters.com/post/3m7qpuisejc2s" target="_blank">reuters.com</a> (2025-12-12 08:25:13)</span><span style="padding-right:50px;">In Opinion  When people lose their sense of home, they tend to reach “for anything stable enough to hold onto — and that can include any leader who seems strong enough to reattach them to that place called home, however fraudulent that leader is or unrealistic the prospect,” Thomas Friedman writes. <a href="https://bsky.app/profile/nytimes.com/post/3m7qpu7tm5m2r" target="_blank">nytimes.com</a> (2025-12-12 08:25:03)</span><span style="padding-right:50px;">The 22-year-old Utah man charged with killing Charlie Kirk made his first in-person court appearance as his attorneys push to further limit media access in the high-profile criminal case. <a href="https://bsky.app/profile/nbcnews.com/post/3m7qplhwudz23" target="_blank">nbcnews.com</a> (2025-12-12 08:20:10)</span><span style="padding-right:50px;">María Corina Machado, Venezuela’s opposition leader, slipped through 10 military checkpoints to reach a fishing boat bound for Curaçao and a private jet headed to Norway.  Read more about the Nobel Peace Prize Winner's journey: 🔗 on.wsj.com/3KKXLB9 <a href="https://bsky.app/profile/wsj.com/post/3m7qpjlcnv32r" target="_blank">wsj.com</a> (2025-12-12 08:19:06)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48704.01 (🔺621.11 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23593.86 (🔺84.64 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.93 (🔺0.65 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.49 (🔻0.04 : 2025-12-11)</span>
+<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48704.01 (🔺621.11 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23593.86 (🔺84.64 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.93 (🔺0.65 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.53 (🔻0.00 : 2025-12-11)</span>
   </div>
 </div>
 
@@ -32,114 +32,125 @@
 
 ## News Headlines
 
-Here are six important topics with Japanese headings:
+Here are six important topics with Japanese headlines:
 
-1. 「AIの投資に300億ドルを賭けたオラクル、儲けの代償を支払う」
+1. 
+ベネズエラ大統領と電話会談：米への対抗姿勢か？
 
-Oracle made a $300 billion bet on OpenAI. It's paying the price.
+(Benuezeula President and Phone Talk: Is it a countermeasure against the US?)
 
-2. 「歌舞伎町のホスト、AIに語りかける」
+2. 
+ローソン、800人の社内運動会に「意外な効用」
 
-JPMorgan Chase CEO Jamie Dimon says that people with strong communication, critical thinking and emotional intelligence skills will find jobs in the age of AI.
+(Lowson, 800-people internal sports day with unexpected effects)
 
-3. 「秋田内陸線の列車が脱線・転覆、運転士の救助作業続く」
+3. 
+歌舞伎町ホストはAIに語りかける
 
-A train on the Akita Inland Line derailed and overturned, and rescue work for the train driver is ongoing.
+(Gay district host talks to AI)
 
-4. 「AIのリスクについての情報公開を求める米国の議員」
+4. 
+Fed reappoints regional chiefs in move that allays Trump challenge fears
 
-A bipartisan group of senators is calling on leaders in the AI industry to commit to publicly disclose more information about how the industry thinks about risk, including possible harms to children.
+5. 
+歌舞伎町ホストの約7割がChatGPTなどの対話型AIを利用
 
-5. 「ド・クワン、15年間の刑に服す」
+(About 70% of gay district hosts use ChatGPT and other conversational AI)
 
-Do Kwon, the creator of TerraUSD, was sentenced to 15 years in prison over the $40 billion crypto collapse.
+6. 
+NON-REGULAR EMPLOYMENT TREATMENT DIFFERENCES, PROMPTING CORPORATIONS TO EXPLAIN THOROUGHLY
 
-6. 「米国のAIモデルを政府機関が購入する際のガイドライン」
-
-The Trump administration released guidance for federal agencies to try to ensure that the AI models they procure are not spitting out woke responses.
+(non-regular employment treatment differences, prompting corporations to explain thoroughly)
 
 ----
 
-@yahoofinance.com
-
-Oracle made a $300 billion bet on OpenAI. It's paying the price.
-
-[2025-12-12 08:06:04](https://bsky.app/profile/yahoofinance.com/post/3m7qosbk7732j)
-
----
-
-@reuters.com
-
-Waymo recalls, updates software for over 3000 vehicles, U.S. regulator says reut.rs/4pRsCvj
-
-[2025-12-12 08:05:10](https://bsky.app/profile/reuters.com/post/3m7qoqnizg62y)
-
----
-
-@cbsnews.com
-
-Director Carl Rinsch found guilty of scamming $11M from Netflix and buying luxury cars, watches and mattresses.
-
-[2025-12-12 08:05:01](https://bsky.app/profile/cbsnews.com/post/3m7qoqffne52m)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】秋田内陸線の列車が脱線・転覆 運転士の救助作業続く
-(2025-12-12 07:49) #ニュース
-
-[2025-12-12 08:03:53](https://bsky.app/profile/sokuho.news/post/3m7qooejq4w2z)
-
----
-
-@cnbc.com
-
-House passes bill to to ease investment standards and boost capital in markets
-
-[2025-12-12 08:02:57](https://bsky.app/profile/cnbc.com/post/3m7qomojf3a2i)
-
----
-
-@financialtimes.com
-
-Fed reappoints regional chiefs in move that allays Trump challenge fears on.ft.com/48TlBmd
-
-[2025-12-12 08:02:31](https://bsky.app/profile/financialtimes.com/post/3m7qolw5tu624)
-
----
-
-@reuters.com
-
-China urges Netherlands to push Nexperia to visit for talks reut.rs/48NqXiH
-
-[2025-12-12 08:01:14](https://bsky.app/profile/reuters.com/post/3m7qojn2cor2s)
-
----
-
 @usatoday.com
 
-Who won the 'Amazing Race'? Here's a recap of the Season 38 finale.
+<strong><span style="color: red;">JUST IN:</span> Federal judge says the Trump administration misled the court, had no legal authority to expel Kilmar Abrego Garcia</strong>
 
-[2025-12-12 08:01:10](https://bsky.app/profile/usatoday.com/post/3m7qojjbpdk2f)
+[2025-12-12 08:26:25](https://bsky.app/profile/usatoday.com/post/3m7qpwo55la2l)
 
 ---
 
-@cnn.com
+@reuters.com
 
-White House officials abruptly postponed the final meeting of a Trump-created task force charged with shaping the future of the Federal Emergency Management Agency, roughly two hours before it was set to begin on Thursday, according to three sources familiar with the decision.
+USC TE Lake McRee to bypass final year of eligibility reut.rs/3YnuBep
 
-[2025-12-12 08:01:02](https://bsky.app/profile/cnn.com/post/3m7qojbfzgt2v)
+[2025-12-12 08:25:13](https://bsky.app/profile/reuters.com/post/3m7qpuisejc2s)
+
+---
+
+@nytimes.com
+
+In Opinion
+
+When people lose their sense of home, they tend to reach “for anything stable enough to hold onto — and that can include any leader who seems strong enough to reattach them to that place called home, however fraudulent that leader is or unrealistic the prospect,” Thomas Friedman writes.
+
+[2025-12-12 08:25:03](https://bsky.app/profile/nytimes.com/post/3m7qpu7tm5m2r)
+
+---
+
+@nbcnews.com
+
+The 22-year-old Utah man charged with killing Charlie Kirk made his first in-person court appearance as his attorneys push to further limit media access in the high-profile criminal case.
+
+[2025-12-12 08:20:10](https://bsky.app/profile/nbcnews.com/post/3m7qplhwudz23)
+
+---
+
+@wsj.com
+
+María Corina Machado, Venezuela’s opposition leader, slipped through 10 military checkpoints to reach a fishing boat bound for Curaçao and a private jet headed to Norway.
+
+Read more about the Nobel Peace Prize Winner's journey: 🔗 on.wsj.com/3KKXLB9
+
+[2025-12-12 08:19:06](https://bsky.app/profile/wsj.com/post/3m7qpjlcnv32r)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+ベネズエラ大統領 プーチン大統領と電話会談 米への対抗姿勢か
+https://news.web.nhk/newsweb/na/na-k10015001721000
+
+[2025-12-12 08:18:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7qphrfovq2w)
+
+---
+
+@nytimes.com
+
+Lululemon Athletica’s chief executive, Calvin McDonald, will step down from the role early next year, the company announced on Thursday.
+
+[2025-12-12 08:17:03](https://bsky.app/profile/nytimes.com/post/3m7qpfvbau22v)
+
+---
+
+@nikkei.com
+
+ローソン、800人の社内運動会に「意外な効用」
+www.nikkei.com/article/DGXZQO...
+
+大俵送り、玉入れ、チャンバラ合戦。経営トップから育休中の社員まで交流を深めます。
+
+竹増貞信社長は「若手に事業の進捗を聞いたら役員の報告と違った」。示唆に富む発見があるようです。
+
+[2025-12-12 08:16:36](https://bsky.app/profile/nikkei.com/post/3m7qpf3uplb2x)
+
+---
+
+@reuters.com
+
+Ravens QB Lamar Jackson returns to practice reut.rs/4rSYBwg
+
+[2025-12-12 08:15:13](https://bsky.app/profile/reuters.com/post/3m7qpcnclmc2r)
 
 ---
 
 @cnbc.com
 
-JPMorgan Chase CEO Jamie Dimon says that people with strong communication, critical thinking and emotional intelligence skills will find jobs in the age of AI. 
+S&P, Dow futures are higher after indexes notch record closes: Live updates
 
-[2025-12-12 08:00:56](https://bsky.app/profile/cnbc.com/post/3m7qoj3polr23)
+[2025-12-12 08:12:57](https://bsky.app/profile/cnbc.com/post/3m7qp6kx33w2i)
 
 ---
 
