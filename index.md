@@ -1,9 +1,9 @@
-# [2025-12-12 00:50 updated](2025_12_12.md)
+# [2025-12-12 01:10 updated](2025_12_12.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">You don’t need a lot of tools to make good bread, but the right ones can make the process easier, more repeatable, and even more fun. <a href="https://bsky.app/profile/nytimes.com/post/3m7pwevv6ev2z" target="_blank">nytimes.com</a> (2025-12-12 00:49:06)</span><span style="padding-right:50px;">Breaking News: A U.S. judge on Thursday ordered Kilmar Abrego, whose wrongful deportation became a flashpoint in President Trump’s immigration crackdown, released from immigration detention as he awaits a potential second deportation. yhoo.it/44nKa9t <a href="https://bsky.app/profile/yahoonews.com/post/3m7pwclxvlf2r" target="_blank">yahoonews.com</a> (2025-12-12 00:47:49)</span><span style="padding-right:50px;">A judge orders Kilmar Abrego Garcia to be immediately released from immigration detention. <a href="https://bsky.app/profile/apnews.com/post/3m7pwbl4aar2q" target="_blank">apnews.com</a> (2025-12-12 00:47:14)</span><span style="padding-right:50px;">Exclusive: A recent Stanford experiment shows what happens when an artificial-intelligence hacking bot is unleashed on a network. <a href="https://bsky.app/profile/wsj.com/post/3m7pwalu6n52z" target="_blank">wsj.com</a> (2025-12-12 00:46:41)</span><span style="padding-right:50px;">US threatens cuts to South Sudan aid over humanitarian fees reut.rs/48AK6G4 <a href="https://bsky.app/profile/reuters.com/post/3m7pw65ikld2o" target="_blank">reuters.com</a> (2025-12-12 00:45:19)</span>
+<span style="padding-right:50px;">Bulgarian PM and government resign after mass protests <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7pxhxzbxk2z" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-12 01:08:42)</span><span style="padding-right:50px;">From Iran to China to Venezuela - how seized tanker hid location <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7pxg2akzi2b" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-12 01:07:37)</span><span style="padding-right:50px;">Morning Bid: Oracle crashes Powell's party reut.rs/4rSF8vA <a href="https://bsky.app/profile/reuters.com/post/3m7pxbsalbq2p" target="_blank">reuters.com</a> (2025-12-12 01:05:15)</span><span style="padding-right:50px;">Zelenskiy floated a referendum on territorial control as Ukraine comes under mounting pressure from the US to agree to a peace deal with Putin. Read more: bloom.bg/4pqTUrY  📷: Tolga Akmen/EPA/Bloomberg <a href="https://bsky.app/profile/bloomberg.com/post/3m7px7p7z6u24" target="_blank">bloomberg.com</a> (2025-12-12 01:04:05)</span><span style="padding-right:50px;"> The Fed is stuck on.ft.com/4rIuNlY  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m7px4rxm5t2f" target="_blank">financialtimes.com</a> (2025-12-12 01:02:27)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48470.92 (🔺388.02 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23399.14 (🔻110.08 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 177.36 (🔻2.91 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 154.99 (🔻0.97 : 2025-12-11)</span>
+<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48506.81 (🔺423.91 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23406.41 (🔻102.81 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 177.14 (🔻3.14 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.20 (🔻0.77 : 2025-12-11)</span>
   </div>
 </div>
 
@@ -32,94 +32,125 @@
 
 ## News Headlines
 
-Here are the 6 important news topics with Japanese headlines:
+Here are six important topics with Japanese titles:
 
-1. 「米国裁判所、インマイグランドの男を解放」 (U.S. Judge Orders Release of Immigrant Man)
-2. 「AIハッキングボット、ネットワークに放たれる」 (AI Hacking Bot Unleashed on Network)
-3. 「中国、EUとの電気自動車価格計画交渉再開」 (China and EU Resume Talks on Electric Vehicle Price Plan)
-4. 「ディズニーとOpenAI、短編AI動画パートナーシップを締結」 (Disney and OpenAI Partner on Short-Form AI Video)
-5. 「新しいAIアーキテクト、タイム誌の「Person of the Year」に選出」 (New AI Architect Named Time Magazine's Person of the Year)
-6. 「欧州連合、ウクライナとの対話を拒否」 (European Union Refuses to Engage in Talks with Ukraine)
+1. 
+「ブルガリア首相が辞任、政府もろとも」
+
+(Bulgarian Prime Minister and government resign)
+
+2. 
+「ウクライナ、ロシアとの平和協議に乗り出す」
+
+(Ukraine considers peace talks with Russia)
+
+3. 
+「米国の医療政策、共和党が再構築」
+
+(US healthcare policy, Republicans rebuild)
+
+4. 
+「中国の家電、米国に輸出禁止」
+
+(China's home appliances, export banned to US)
+
+5. 
+「AIの影響、Time誌のPerson of the Yearに」
+
+(AI's influence, Time magazine's Person of the Year)
+
+6. 
+「米国、南スーダンに対する人道支援を停止」
+
+(US stops humanitarian aid to South Sudan)
 
 ----
 
-@nytimes.com
+@bbcnews-world-rss.bsky.social
 
-You don’t need a lot of tools to make good bread, but the right ones can make the process easier, more repeatable, and even more fun.
+Bulgarian PM and government resign after mass protests
 
-[2025-12-12 00:49:06](https://bsky.app/profile/nytimes.com/post/3m7pwevv6ev2z)
-
----
-
-@yahoonews.com
-
-<strong><span style="color: red;">Breaking News</span>: A U.S. judge on Thursday ordered Kilmar Abrego, whose wrongful deportation became a flashpoint in President Trump’s immigration crackdown, released from immigration detention as he awaits a potential second deportation. yhoo.it/44nKa9t</strong>
-
-[2025-12-12 00:47:49](https://bsky.app/profile/yahoonews.com/post/3m7pwclxvlf2r)
+[2025-12-12 01:08:42](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7pxhxzbxk2z)
 
 ---
 
-@apnews.com
+@bbcnews-world-rss.bsky.social
 
-A judge orders Kilmar Abrego Garcia to be immediately released from immigration detention.
+From Iran to China to Venezuela - how seized tanker hid location
 
-[2025-12-12 00:47:14](https://bsky.app/profile/apnews.com/post/3m7pwbl4aar2q)
-
----
-
-@wsj.com
-
-Exclusive: A recent Stanford experiment shows what happens when an artificial-intelligence hacking bot is unleashed on a network.
-
-[2025-12-12 00:46:41](https://bsky.app/profile/wsj.com/post/3m7pwalu6n52z)
+[2025-12-12 01:07:37](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7pxg2akzi2b)
 
 ---
 
 @reuters.com
 
-US threatens cuts to South Sudan aid over humanitarian fees reut.rs/48AK6G4
+Morning Bid: Oracle crashes Powell's party reut.rs/4rSF8vA
 
-[2025-12-12 00:45:19](https://bsky.app/profile/reuters.com/post/3m7pw65ikld2o)
+[2025-12-12 01:05:15](https://bsky.app/profile/reuters.com/post/3m7pxbsalbq2p)
 
 ---
 
-@cnbc.com
+@bloomberg.com
 
-Carvana shares have no room for error. How to make money if they start falling
+Zelenskiy floated a referendum on territorial control as Ukraine comes under mounting pressure from the US to agree to a peace deal with Putin. Read more: bloom.bg/4pqTUrY
 
-[2025-12-12 00:44:07](https://bsky.app/profile/cnbc.com/post/3m7pw3ytv5z23)
+📷: Tolga Akmen/EPA/Bloomberg
+
+[2025-12-12 01:04:05](https://bsky.app/profile/bloomberg.com/post/3m7px7p7z6u24)
+
+---
+
+@financialtimes.com
+
+ The Fed is stuck on.ft.com/4rIuNlY  | opinion
+
+[2025-12-12 01:02:27](https://bsky.app/profile/financialtimes.com/post/3m7px4rxm5t2f)
+
+---
+
+@usatoday.com
+
+Kilmar Abrego Garcia, the Salvadoran immigrant who was mistakenly deported to a prison for terrorists earlier this year, has been ordered freed by a federal judge.
+
+His deportation made him a flash point for the Trump administration's aggressive immigration policies. bit.ly/4oKsfkv
+
+[2025-12-12 01:02:19](https://bsky.app/profile/usatoday.com/post/3m7px4juyr32g)
+
+---
+
+@usatoday.com
+
+Congress gave Health and Human Services Secretary Robert F. Kennedy Jr. two reasons on Dec. 10 to be in a bad mood.
+
+[2025-12-12 01:01:13](https://bsky.app/profile/usatoday.com/post/3m7px2ktcc22o)
+
+---
+
+@reuters.com
+
+Two dead after collapse at South Korea library construction site, Yonhap reports reut.rs/4iRPGHh
+
+[2025-12-12 01:00:55](https://bsky.app/profile/reuters.com/post/3m7pwzzza4l23)
+
+---
+
+@cnn.com
+
+Brian Walshe will not take the stand in his murder trial.
+
+The defense rested without putting on any evidence. Prosecutors in Massachusetts rested their case on Wednesday, after calling about 50 witnesses across eight days of testimony. https://cnn.it/4rImc2G
+
+[2025-12-12 01:00:41](https://bsky.app/profile/cnn.com/post/3m7pwzmyql523)
 
 ---
 
 @washingtonpost.com
 
-<strong><span style="color: red;">Breaking news:</span> A federal judge ordered the “immediate release” of Kilmar Abrego García, a 30-year-old immigrant from El Salvador, from ICE custody, saying Department of Justice attorneys “misled” the court at a hearing last month. </strong>
+Congressional Republicans are trying to rework the Affordable Care Act.
 
-[2025-12-12 00:43:41](https://bsky.app/profile/washingtonpost.com/post/3m7pw3afg6c2m)
+But so far, the effort has triggered a free-for-all of competing ideas, leaving little chance of a bill reaching President Trump’s desk before health insurance premiums rise.
 
----
-
-@reuters.com
-
-Investors say Elon Musk's SpaceX trading debut will be 'craziest IPO' ever reut.rs/4pYmIYB
-
-[2025-12-12 00:40:25](https://bsky.app/profile/reuters.com/post/3m7pvvepb7j2r)
-
----
-
-@nbcnews.com
-
-This year, Time is recognizing how artificial intelligence is influencing our lives, for better or for worse, in their Person of the Year cover.
-
-[2025-12-12 00:40:07](https://bsky.app/profile/nbcnews.com/post/3m7pvutrgxu2n)
-
----
-
-@forbes.com
-
-The Epstein files are slated to be released by Dec. 19.
-
-[2025-12-12 00:40:04](https://bsky.app/profile/forbes.com/post/3m7pvuquocv25)
+[2025-12-12 01:00:38](https://bsky.app/profile/washingtonpost.com/post/3m7pwzk66up2x)
 
 ---
 
