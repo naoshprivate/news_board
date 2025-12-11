@@ -1,9 +1,9 @@
-# [2025-12-12 00:30 updated](2025_12_12.md)
+# [2025-12-12 00:50 updated](2025_12_12.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Walt Disney and OpenAI announced a three-year licensing deal on Thursday that will allow users to create short videos featuring beloved Disney characters through artificial intelligence ➡️ u.afp.com/S778 <a href="https://bsky.app/profile/en.afp.com/post/3m7pv4mam532k" target="_blank">en.afp.com</a> (2025-12-12 00:26:34)</span><span style="padding-right:50px;">China says talks with EU on electric vehicle minimum price plan resumed reut.rs/452vhJQ <a href="https://bsky.app/profile/reuters.com/post/3m7pv25p2cd2r" target="_blank">reuters.com</a> (2025-12-12 00:25:11)</span><span style="padding-right:50px;">News Analysis: President Trump continues to brush off the cost of living, an issue that he said he would solve in his first months in office. He has given ammunition to Democrats in downplaying and sometimes outright denying economic realities. <a href="https://bsky.app/profile/nytimes.com/post/3m7puzy7gz62r" target="_blank">nytimes.com</a> (2025-12-12 00:25:06)</span><span style="padding-right:50px;">CNBC Sport: Utah breaks the private equity seal with historic $500 million investment <a href="https://bsky.app/profile/cnbc.com/post/3m7puzczt2b2e" target="_blank">cnbc.com</a> (2025-12-12 00:24:43)</span><span style="padding-right:50px;">President Trump says he doesn’t want to waste time in talks to end the war in Ukraine, but his growing frustration appears to be aimed at Ukraine and its backers in Europe.  <a href="https://bsky.app/profile/nbcnews.com/post/3m7pur54k3s2k" target="_blank">nbcnews.com</a> (2025-12-12 00:20:09)</span>
+<span style="padding-right:50px;">You don’t need a lot of tools to make good bread, but the right ones can make the process easier, more repeatable, and even more fun. <a href="https://bsky.app/profile/nytimes.com/post/3m7pwevv6ev2z" target="_blank">nytimes.com</a> (2025-12-12 00:49:06)</span><span style="padding-right:50px;">Breaking News: A U.S. judge on Thursday ordered Kilmar Abrego, whose wrongful deportation became a flashpoint in President Trump’s immigration crackdown, released from immigration detention as he awaits a potential second deportation. yhoo.it/44nKa9t <a href="https://bsky.app/profile/yahoonews.com/post/3m7pwclxvlf2r" target="_blank">yahoonews.com</a> (2025-12-12 00:47:49)</span><span style="padding-right:50px;">A judge orders Kilmar Abrego Garcia to be immediately released from immigration detention. <a href="https://bsky.app/profile/apnews.com/post/3m7pwbl4aar2q" target="_blank">apnews.com</a> (2025-12-12 00:47:14)</span><span style="padding-right:50px;">Exclusive: A recent Stanford experiment shows what happens when an artificial-intelligence hacking bot is unleashed on a network. <a href="https://bsky.app/profile/wsj.com/post/3m7pwalu6n52z" target="_blank">wsj.com</a> (2025-12-12 00:46:41)</span><span style="padding-right:50px;">US threatens cuts to South Sudan aid over humanitarian fees reut.rs/48AK6G4 <a href="https://bsky.app/profile/reuters.com/post/3m7pw65ikld2o" target="_blank">reuters.com</a> (2025-12-12 00:45:19)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48482.70 (🔺399.80 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23483.05 (🔻26.17 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 178.20 (🔻2.08 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.10 (🔻0.86 : 2025-12-11)</span>
+<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48470.92 (🔺388.02 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23399.14 (🔻110.08 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 177.36 (🔻2.91 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 154.99 (🔻0.97 : 2025-12-11)</span>
   </div>
 </div>
 
@@ -30,84 +30,96 @@
 
 ---
 
-@en.afp.com
+## News Headlines
 
-Walt Disney and OpenAI announced a three-year licensing deal on Thursday that will allow users to create short videos featuring beloved Disney characters through artificial intelligence ➡️ u.afp.com/S778
+Here are the 6 important news topics with Japanese headlines:
 
-[2025-12-12 00:26:34](https://bsky.app/profile/en.afp.com/post/3m7pv4mam532k)
+1. 「米国裁判所、インマイグランドの男を解放」 (U.S. Judge Orders Release of Immigrant Man)
+2. 「AIハッキングボット、ネットワークに放たれる」 (AI Hacking Bot Unleashed on Network)
+3. 「中国、EUとの電気自動車価格計画交渉再開」 (China and EU Resume Talks on Electric Vehicle Price Plan)
+4. 「ディズニーとOpenAI、短編AI動画パートナーシップを締結」 (Disney and OpenAI Partner on Short-Form AI Video)
+5. 「新しいAIアーキテクト、タイム誌の「Person of the Year」に選出」 (New AI Architect Named Time Magazine's Person of the Year)
+6. 「欧州連合、ウクライナとの対話を拒否」 (European Union Refuses to Engage in Talks with Ukraine)
+
+----
+
+@nytimes.com
+
+You don’t need a lot of tools to make good bread, but the right ones can make the process easier, more repeatable, and even more fun.
+
+[2025-12-12 00:49:06](https://bsky.app/profile/nytimes.com/post/3m7pwevv6ev2z)
+
+---
+
+@yahoonews.com
+
+<strong><span style="color: red;">Breaking News</span>: A U.S. judge on Thursday ordered Kilmar Abrego, whose wrongful deportation became a flashpoint in President Trump’s immigration crackdown, released from immigration detention as he awaits a potential second deportation. yhoo.it/44nKa9t</strong>
+
+[2025-12-12 00:47:49](https://bsky.app/profile/yahoonews.com/post/3m7pwclxvlf2r)
+
+---
+
+@apnews.com
+
+A judge orders Kilmar Abrego Garcia to be immediately released from immigration detention.
+
+[2025-12-12 00:47:14](https://bsky.app/profile/apnews.com/post/3m7pwbl4aar2q)
+
+---
+
+@wsj.com
+
+Exclusive: A recent Stanford experiment shows what happens when an artificial-intelligence hacking bot is unleashed on a network.
+
+[2025-12-12 00:46:41](https://bsky.app/profile/wsj.com/post/3m7pwalu6n52z)
 
 ---
 
 @reuters.com
 
-China says talks with EU on electric vehicle minimum price plan resumed reut.rs/452vhJQ
+US threatens cuts to South Sudan aid over humanitarian fees reut.rs/48AK6G4
 
-[2025-12-12 00:25:11](https://bsky.app/profile/reuters.com/post/3m7pv25p2cd2r)
-
----
-
-@nytimes.com
-
-News Analysis: President Trump continues to brush off the cost of living, an issue that he said he would solve in his first months in office. He has given ammunition to Democrats in downplaying and sometimes outright denying economic realities.
-
-[2025-12-12 00:25:06](https://bsky.app/profile/nytimes.com/post/3m7puzy7gz62r)
+[2025-12-12 00:45:19](https://bsky.app/profile/reuters.com/post/3m7pw65ikld2o)
 
 ---
 
 @cnbc.com
 
-CNBC Sport: Utah breaks the private equity seal with historic $500 million investment
+Carvana shares have no room for error. How to make money if they start falling
 
-[2025-12-12 00:24:43](https://bsky.app/profile/cnbc.com/post/3m7puzczt2b2e)
-
----
-
-@nbcnews.com
-
-President Trump says he doesn’t want to waste time in talks to end the war in Ukraine, but his growing frustration appears to be aimed at Ukraine and its backers in Europe. 
-
-[2025-12-12 00:20:09](https://bsky.app/profile/nbcnews.com/post/3m7pur54k3s2k)
+[2025-12-12 00:44:07](https://bsky.app/profile/cnbc.com/post/3m7pw3ytv5z23)
 
 ---
 
-@axios.com
+@washingtonpost.com
 
-NEW: AI architects are Time magazine's 2025 "Person of the Year"
+<strong><span style="color: red;">Breaking news:</span> A federal judge ordered the “immediate release” of Kilmar Abrego García, a 30-year-old immigrant from El Salvador, from ICE custody, saying Department of Justice attorneys “misled” the court at a hearing last month. </strong>
 
-[2025-12-12 00:19:05](https://bsky.app/profile/axios.com/post/3m7pupai52k2r)
-
----
-
-@financialtimes.com
-
- It’s time to restore the civic function of US universities on.ft.com/4iMOmW8  | opinion
-
-[2025-12-12 00:17:31](https://bsky.app/profile/financialtimes.com/post/3m7pumgkeb325)
-
----
-
-@yahoofinance.com
-
-Disney has invested $1 billion into OpenAI and has reached an agreement for Disney to become the first major content licensing partner on Sora, OpenAI’s short-form generative AI video platform.
-finance.yahoo.com/news/disney-...
-
-[2025-12-12 00:17:24](https://bsky.app/profile/yahoofinance.com/post/3m7pum7pp4k2q)
-
----
-
-@nytimes.com
-
-<strong><span style="color: red;">Breaking News</span>: Bulgaria’s prime minister resigned after less than a year in office, following mass protests against his government. His departure was fomented by continued economic instability in one of the EU’s consistently poorest countries.</strong>
-
-[2025-12-12 00:16:29](https://bsky.app/profile/nytimes.com/post/3m7puklcuaa26)
+[2025-12-12 00:43:41](https://bsky.app/profile/washingtonpost.com/post/3m7pw3afg6c2m)
 
 ---
 
 @reuters.com
 
-Hungary's Orban says Trump strategy grasps Europe's 'civilisation-scale decline' reut.rs/4abYequ
+Investors say Elon Musk's SpaceX trading debut will be 'craziest IPO' ever reut.rs/4pYmIYB
 
-[2025-12-12 00:15:19](https://bsky.app/profile/reuters.com/post/3m7puiiwlpv2i)
+[2025-12-12 00:40:25](https://bsky.app/profile/reuters.com/post/3m7pvvepb7j2r)
+
+---
+
+@nbcnews.com
+
+This year, Time is recognizing how artificial intelligence is influencing our lives, for better or for worse, in their Person of the Year cover.
+
+[2025-12-12 00:40:07](https://bsky.app/profile/nbcnews.com/post/3m7pvutrgxu2n)
+
+---
+
+@forbes.com
+
+The Epstein files are slated to be released by Dec. 19.
+
+[2025-12-12 00:40:04](https://bsky.app/profile/forbes.com/post/3m7pvuquocv25)
 
 ---
 
