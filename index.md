@@ -1,9 +1,9 @@
-# [2025-12-12 02:30 updated](2025_12_12.md)
+# [2025-12-12 02:50 updated](2025_12_12.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The fighters led by the CIA found themselves spiraling into despair because of what they saw as bureaucratic neglect and abandonment by the U.S. government. <a href="https://bsky.app/profile/npr.org/post/3m7q3y53ond2x" target="_blank">npr.org</a> (2025-12-12 02:29:20)</span><span style="padding-right:50px;">Too many auto-bids! <a href="https://bsky.app/profile/nbcnews.com/post/3m7q3t5wahc26" target="_blank">nbcnews.com</a> (2025-12-12 02:26:33)</span><span style="padding-right:50px;">The 10 best worst hostile takeover offers ever on.ft.com/44pFv6V <a href="https://bsky.app/profile/financialtimes.com/post/3m7q3ruhifk2o" target="_blank">financialtimes.com</a> (2025-12-12 02:25:49)</span><span style="padding-right:50px;">Amazon plans new one-hour pickup service in stores, Business Insider reports reut.rs/3Kr0pMn <a href="https://bsky.app/profile/reuters.com/post/3m7q3qpdwzn2r" target="_blank">reuters.com</a> (2025-12-12 02:25:10)</span><span style="padding-right:50px;">The Senate was on track Thursday to block two competing proposals to avert rising health care premiums with back-to-back floor votes that were expected to highlight a partisan deadlock on the issue. <a href="https://bsky.app/profile/nytimes.com/post/3m7q3oecnms2m" target="_blank">nytimes.com</a> (2025-12-12 02:23:52)</span>
+<span style="padding-right:50px;">NYダウ 取り引き時間中の最高値更新 一時650ドル超値上がり https://news.web.nhk/newsweb/na/na-k10015001651000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7q4znrgx42m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-12 02:48:02)</span><span style="padding-right:50px;">Liz Truss is back.   The short-lived UK prime minister and businessman Robert Tchenguiz are launching an ultra-exclusive club in London.  Truss and Tchenguiz are hoping to recruit 700 founding members — each paying £500,000. Find out more here: on.ft.com/493H1hI <a href="https://bsky.app/profile/financialtimes.com/post/3m7q4ypohzm2w" target="_blank">financialtimes.com</a> (2025-12-12 02:47:33)</span><span style="padding-right:50px;">Bank of England's Bailey says continued QT needed to end interest rate risk reut.rs/4iP8VkN <a href="https://bsky.app/profile/reuters.com/post/3m7q4ukagxr2x" target="_blank">reuters.com</a> (2025-12-12 02:45:13)</span><span style="padding-right:50px;">Microsoft Warning — Act Rapidly And Change Passwords As Attacks Strike www.forbes.com/sites/daveyw... (Photo: Getty Images) <a href="https://bsky.app/profile/forbes.com/post/3m7q4of5k5k2n" target="_blank">forbes.com</a> (2025-12-12 02:41:47)</span><span style="padding-right:50px;">The Environmental Protection Agency has altered and removed information from its web site that connected climate change to the burning of fossil fuels. https://cnn.it/3KTVcwE <a href="https://bsky.app/profile/cnn.com/post/3m7q4ochcm42u" target="_blank">cnn.com</a> (2025-12-12 02:41:44)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48694.28 (🔺611.38 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23509.15 (🔻0.07 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 178.56 (🔻1.71 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.21 (🔻0.75 : 2025-12-11)</span>
+<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48622.67 (🔺539.77 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23517.67 (🔺8.46 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 178.68 (🔻1.60 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.26 (🔻0.70 : 2025-12-11)</span>
   </div>
 </div>
 
@@ -32,107 +32,111 @@
 
 ## News Headlines
 
-Here are six important topics with Japanese headlines:
+Here are the 6 important topics with Japanese headlines:
 
-1. US Government Abandons CIA Fighters
-(US government, CIA, fighters)
+1. NYダウ取引時間中の最高値更新
+（New York Dow Jones stock market sets new high during trading hours）
 
-2. Amazon Launches One-Hour Pickup Service
-(Amazon, one-hour pickup, stores)
+2. 英国首相リズ・トラス、新クラブ設立
+（UK Prime Minister Liz Truss and businessman Robert Tchenguiz launch exclusive club in London）
 
-3. Bulgaria's Government Collapses Amid Protests
-(Bulgaria, government, protests)
+3. 英国の銀行長官、利率リスクを解消するためにQT継続必要
+（Bank of England governor says continued quantitative tightening necessary to eliminate interest rate risk）
 
-4. Historic Rain Causes State of Emergency in Washington
-(Washington, rain, state of emergency)
+4. 米国貿易収支、2020年以来最小値に縮小
+（US trade deficit shrinks to smallest since 2020）
 
-5. NASCAR Reaches Settlement with Race Teams
-(NASCAR, settlement, race teams)
+5. AIソフトウェアスタートアップ、5.5億ドル調達
+（AI software startup Harness valued at $5.5 billion in latest financing round）
 
-6. Trump Administration Deports Immigrant to El Salvador, Then Returns Him to US
-(Trump administration, deportation, El Salvador)
+6. 米国高齢者、医療費対策法案がSenateで否決
+（US Senate rejects bill aimed at addressing rising healthcare costs for seniors）
 
 ----
 
-@npr.org
+@nhknewsunofficial.bsky.social
 
-The fighters led by the CIA found themselves spiraling into despair because of what they saw as bureaucratic neglect and abandonment by the U.S. government.
+NYダウ 取り引き時間中の最高値更新 一時650ドル超値上がり
+https://news.web.nhk/newsweb/na/na-k10015001651000
 
-[2025-12-12 02:29:20](https://bsky.app/profile/npr.org/post/3m7q3y53ond2x)
-
----
-
-@nbcnews.com
-
-Too many auto-bids!
-
-[2025-12-12 02:26:33](https://bsky.app/profile/nbcnews.com/post/3m7q3t5wahc26)
+[2025-12-12 02:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7q4znrgx42m)
 
 ---
 
 @financialtimes.com
 
-The 10 best worst hostile takeover offers ever on.ft.com/44pFv6V
+Liz Truss is back. 
 
-[2025-12-12 02:25:49](https://bsky.app/profile/financialtimes.com/post/3m7q3ruhifk2o)
+The short-lived UK prime minister and businessman Robert Tchenguiz are launching an ultra-exclusive club in London.
+
+Truss and Tchenguiz are hoping to recruit 700 founding members — each paying £500,000. Find out more here: on.ft.com/493H1hI
+
+[2025-12-12 02:47:33](https://bsky.app/profile/financialtimes.com/post/3m7q4ypohzm2w)
 
 ---
 
 @reuters.com
 
-Amazon plans new one-hour pickup service in stores, Business Insider reports reut.rs/3Kr0pMn
+Bank of England's Bailey says continued QT needed to end interest rate risk reut.rs/4iP8VkN
 
-[2025-12-12 02:25:10](https://bsky.app/profile/reuters.com/post/3m7q3qpdwzn2r)
-
----
-
-@nytimes.com
-
-The Senate was on track Thursday to block two competing proposals to avert rising health care premiums with back-to-back floor votes that were expected to highlight a partisan deadlock on the issue.
-
-[2025-12-12 02:23:52](https://bsky.app/profile/nytimes.com/post/3m7q3oecnms2m)
+[2025-12-12 02:45:13](https://bsky.app/profile/reuters.com/post/3m7q4ukagxr2x)
 
 ---
 
-@cnbc.com
+@forbes.com
 
-Stocks making the biggest moves midday: Oracle, Vail Resorts, GE Vernova, Brinks, Ciena & more
+Microsoft Warning — Act Rapidly And Change Passwords As Attacks Strike www.forbes.com/sites/daveyw... (Photo: Getty Images)
 
-[2025-12-12 02:22:55](https://bsky.app/profile/cnbc.com/post/3m7q3mnugtp24)
-
----
-
-@nbcnews.com
-
-The medical professionals guiding your fantasy football teams:
-
-Doctors and physical therapists have found an audience in NFL fans, fantasy football players and sports bettors, all of whom seek information about players’ availability.
-
-[2025-12-12 02:22:02](https://bsky.app/profile/nbcnews.com/post/3m7q3l377qk26)
+[2025-12-12 02:41:47](https://bsky.app/profile/forbes.com/post/3m7q4of5k5k2n)
 
 ---
 
-@yahoofinance.com
+@cnn.com
 
-How retirees can avoid going into debt from holiday shopping
+The Environmental Protection Agency has altered and removed information from its web site that connected climate change to the burning of fossil fuels. https://cnn.it/3KTVcwE
 
-[2025-12-12 02:21:05](https://bsky.app/profile/yahoofinance.com/post/3m7q3jeug3h2q)
+[2025-12-12 02:41:44](https://bsky.app/profile/cnn.com/post/3m7q4ochcm42u)
+
+---
+
+@financialtimes.com
+
+US trade deficit shrinks to smallest since 2020 as gold exports jump on.ft.com/3YkZmAC
+
+[2025-12-12 02:41:27](https://bsky.app/profile/financialtimes.com/post/3m7q4nsdlki2f)
+
+---
+
+@forbes.com
+
+The 10 Best Countries To Live In 2026, Ranked In A New Expat Report
+www.forbes.com/sites/laurab... (Photo: Getty Images)
+
+[2025-12-12 02:41:05](https://bsky.app/profile/forbes.com/post/3m7q4n5yfks2n)
+
+---
+
+@forbes.com
+
+5 Takeaways For Student Loans As Millions Forced To Switch Repayment Plans
+
+[2025-12-12 02:40:39](https://bsky.app/profile/forbes.com/post/3m7q4mev2js2n)
 
 ---
 
 @wsj.com
 
-Bulgaria’s government collapsed Thursday following a wave of youth-driven street protests over entrenched corruption and self-dealing elites widely seen as disconnected from the struggles of ordinary citizens.
+Myles Garrett is on pace to break the record for most sacks in a season. Playing on one of the league’s worst teams makes that feat even more astounding.
 
-[2025-12-12 02:20:55](https://bsky.app/profile/wsj.com/post/3m7q3j464ff2r)
+[2025-12-12 02:40:36](https://bsky.app/profile/wsj.com/post/3m7q4mbpivo2z)
 
 ---
 
-@nbcnews.com
+@reuters.com
 
-A state of emergency has been declared, and tens of thousands of people have been ordered to leave their homes in western Washington after historic rain left rivers at record levels across the state.
+Exclusive: AI software startup Harness valued at $5.5 billion in latest financing round reut.rs/48SIXZb
 
-[2025-12-12 02:20:09](https://bsky.app/profile/nbcnews.com/post/3m7q3hpqlrb24)
+[2025-12-12 02:40:20](https://bsky.app/profile/reuters.com/post/3m7q4lsb7ld2o)
 
 ---
 
