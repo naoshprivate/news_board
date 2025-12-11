@@ -1,9 +1,9 @@
-# [2025-12-11 09:10 updated](2025_12_11.md)
+# [2025-12-11 09:30 updated](2025_12_11.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">YouTube TV to roll out genre-based plans, deepens sports streaming bet reut.rs/4oJ9Jcj <a href="https://bsky.app/profile/reuters.com/post/3m7obn7h4n524" target="_blank">reuters.com</a> (2025-12-11 09:05:16)</span><span style="padding-right:50px;">Asia-Pacific markets set to climb after third Fed cut of the year <a href="https://bsky.app/profile/cnbc.com/post/3m7obmxz6pv2p" target="_blank">cnbc.com</a> (2025-12-11 09:05:08)</span><span style="padding-right:50px;">Cramer's Lightning Round: 'You've got a buying opportunity in AES' <a href="https://bsky.app/profile/cnbc.com/post/3m7obiv4oh62n" target="_blank">cnbc.com</a> (2025-12-11 09:02:51)</span><span style="padding-right:50px;">President Donald Trump confirmed that the US has taken control of an oil tanker off the coast of Venezuela.  <a href="https://bsky.app/profile/cnn.com/post/3m7obhfoeyo2o" target="_blank">cnn.com</a> (2025-12-11 09:02:01)</span><span style="padding-right:50px;">【インフルエンザ早くも流行中でも…】 治療薬、2025年冬は不足の心配なし？　供給量積み増しで流行に備え www.nikkei.com/article/DGXZQO...  昨シーズン（2024年末～25年初）は急速な感染拡大に後発薬の供給が追いつかず、医療現場がパニックに陥りました。  昨季の教訓を生かし、沢井製薬は供給量を約720万人分と倍増。  国も備蓄薬を柔軟に放出できる体制を整えています。 <a href="https://bsky.app/profile/nikkei.com/post/3m7obh3rlbw26" target="_blank">nikkei.com</a> (2025-12-11 09:01:51)</span>
+<span style="padding-right:50px;">Portugal braced for mass disruption in first general strike for 12 years <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7ocv3htqr2a" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-11 09:27:34)</span><span style="padding-right:50px;"> Trump has just accelerated Europe’s electric vehicle reckoning on.ft.com/4oLISfK  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m7oct3gfgn2y" target="_blank">financialtimes.com</a> (2025-12-11 09:26:27)</span><span style="padding-right:50px;">BlackRock to sell 7% stake in Naturgy in accelerated sale reut.rs/48LBBGZ <a href="https://bsky.app/profile/reuters.com/post/3m7ocqr373q2s" target="_blank">reuters.com</a> (2025-12-11 09:25:09)</span><span style="padding-right:50px;">Japanese ivory trade attracts fresh global scrutiny ➡️ u.afp.com/S7mu <a href="https://bsky.app/profile/en.afp.com/post/3m7ocqjmd3y26" target="_blank">en.afp.com</a> (2025-12-11 09:25:01)</span><span style="padding-right:50px;">First Brands financier Raistone nearing sale on.ft.com/4s7N2Sj <a href="https://bsky.app/profile/financialtimes.com/post/3m7ocp5vzyx2k" target="_blank">financialtimes.com</a> (2025-12-11 09:24:15)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50602.80 (🔻275.86 : 2025-12-10)</span><span style="padding-right:50px;">DOW: 48057.75 (🔺483.79 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23654.16 (🔺118.16 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.78 (🔻1.18 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3116.00 (🔺27.00 : 2025-12-10)</span><span style="padding-right:50px;">USD/JPY: 155.61 (🔻0.35 : 2025-12-11)</span>
+<span style="padding-right:50px;">NIKKEI: 50710.25 (🔻108.14 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48057.75 (🔺483.79 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23654.16 (🔺118.16 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.78 (🔻1.18 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3126.00 (🔻22.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.65 (🔻0.31 : 2025-12-11)</span>
   </div>
 </div>
 
@@ -32,104 +32,95 @@
 
 ## News Headlines
 
-1. YouTube TVがジャンル別のプランを導入、スポーツストリーミングに大胆な挑戦
-2. 連邦準備制度理事会の第3回円安をもとにアジア太平洋市場が上昇
-3. ドナルド・トランプ大統領「米国がベネズエラ沖の石油タンカーを拿捕した」
-4. 治療薬の供給量を増やすことで、インフルエンザの薬欠乏を防止する
-5. 経済学者が「若者の心配するべきはAIではなく、雇用の安定だ」
-6. 米国で最も富裕層の割合が高くなる地方は、サンフランシスコです
+1. ポルトガルで12年ぶりの大規模ストライキが始まる
+2. トランプ政権の電気自動車の認定がEUの検討を急ぐ
+3. 世界から警戒される日本の象牙流通
+4. 韓国で有名人スキャンダルが「キャンセル文化」議論を呼ぶ
+5. 国連が「言語の死」に取り組む
+6. IMFがエチオピアの第4回評価で協定に達成、$261億を解放
 
 ----
 
-@reuters.com
+@bbcnews-world-rss.bsky.social
 
-YouTube TV to roll out genre-based plans, deepens sports streaming bet reut.rs/4oJ9Jcj
+Portugal braced for mass disruption in first general strike for 12 years
 
-[2025-12-11 09:05:16](https://bsky.app/profile/reuters.com/post/3m7obn7h4n524)
-
----
-
-@cnbc.com
-
-Asia-Pacific markets set to climb after third Fed cut of the year
-
-[2025-12-11 09:05:08](https://bsky.app/profile/cnbc.com/post/3m7obmxz6pv2p)
+[2025-12-11 09:27:34](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7ocv3htqr2a)
 
 ---
 
-@cnbc.com
+@financialtimes.com
 
-Cramer's Lightning Round: 'You've got a buying opportunity in AES'
+ Trump has just accelerated Europe’s electric vehicle reckoning on.ft.com/4oLISfK  | opinion
 
-[2025-12-11 09:02:51](https://bsky.app/profile/cnbc.com/post/3m7obiv4oh62n)
-
----
-
-@cnn.com
-
-President Donald Trump confirmed that the US has taken control of an oil tanker off the coast of Venezuela. 
-
-[2025-12-11 09:02:01](https://bsky.app/profile/cnn.com/post/3m7obhfoeyo2o)
-
----
-
-@nikkei.com
-
-【インフルエンザ早くも流行中でも…】
-治療薬、2025年冬は不足の心配なし？　供給量積み増しで流行に備え
-www.nikkei.com/article/DGXZQO...
-
-昨シーズン（2024年末～25年初）は急速な感染拡大に後発薬の供給が追いつかず、医療現場がパニックに陥りました。
-
-昨季の教訓を生かし、沢井製薬は供給量を約720万人分と倍増。
-
-国も備蓄薬を柔軟に放出できる体制を整えています。
-
-[2025-12-11 09:01:51](https://bsky.app/profile/nikkei.com/post/3m7obh3rlbw26)
+[2025-12-11 09:26:27](https://bsky.app/profile/financialtimes.com/post/3m7oct3gfgn2y)
 
 ---
 
 @reuters.com
 
-Ford suppliers receive China's new streamlined rare-earth licenses reut.rs/4a5OZIf
+BlackRock to sell 7% stake in Naturgy in accelerated sale reut.rs/48LBBGZ
 
-[2025-12-11 09:01:18](https://bsky.app/profile/reuters.com/post/3m7obg45yc62i)
-
----
-
-@usatoday.com
-
-Taylor Swift is returning to late night for an appearance on "The Late Show with Stephen Colbert." How to watch.
-
-[2025-12-11 09:00:52](https://bsky.app/profile/usatoday.com/post/3m7obfdn4ie2g)
+[2025-12-11 09:25:09](https://bsky.app/profile/reuters.com/post/3m7ocqr373q2s)
 
 ---
 
-@bloomberg.com
+@en.afp.com
 
-The number of federal employees who left their jobs in 2025 will total about 317,000, according to the OPM, after efforts by Elon Musk and the Trump administration to reshape the government workforce.
+Japanese ivory trade attracts fresh global scrutiny ➡️ u.afp.com/S7mu
 
-[2025-12-11 09:00:46](https://bsky.app/profile/bloomberg.com/post/3m7obf5cwsg2w)
+[2025-12-11 09:25:01](https://bsky.app/profile/en.afp.com/post/3m7ocqjmd3y26)
 
 ---
 
-@cnbc.com
+@financialtimes.com
 
-Nationally, a household earning about $210,000 or holding $1.8 million in net worth ranks among the wealthiest 10%.
+First Brands financier Raistone nearing sale on.ft.com/4s7N2Sj
 
-However, these thresholds vary by region.
+[2025-12-11 09:24:15](https://bsky.app/profile/financialtimes.com/post/3m7ocp5vzyx2k)
 
-Accounting for local price differences, here’s a look at what it takes to be considered affluent in different parts of the country.
+---
 
-[2025-12-11 09:00:30](https://bsky.app/profile/cnbc.com/post/3m7obeofnbs24)
+@nhknewsunofficial.bsky.social
+
+トランプ大統領 “ベネズエラ沖合で石油タンカーをだ捕”
+https://news.web.nhk/newsweb/na/na-k10015000671000
+
+[2025-12-11 09:24:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ocou4fdh2y)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+South Korea: Celebrity scandals renew debate on 'cancel culture'
+
+[2025-12-11 09:20:48](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7ociyw7lm2x)
 
 ---
 
 @nbcnews.com
 
-Eileen Higgins is elected as Miami's first Democratic mayor in over 30 years.
+Indigenous languages are rapidly disappearing, and AI could help preserve them, according to Indigenous technologists.
 
-[2025-12-11 09:00:24](https://bsky.app/profile/nbcnews.com/post/3m7obeiwsmk2p)
+[2025-12-11 09:20:23](https://bsky.app/profile/nbcnews.com/post/3m7ociak7ec23)
+
+---
+
+@nytimes.com
+
+In @nytopinion.nytimes.com
+
+The Pentagon’s new security strategy document “acknowledges the ideological incoherence of the president’s foreign policy instincts but tries to make it a virtue,” David Wallace-Wells writes.
+
+[2025-12-11 09:20:06](https://bsky.app/profile/nytimes.com/post/3m7ochq4l7k2z)
+
+---
+
+@cbsnews.com
+
+Justice Department moves to drop charges in international soccer corruption case.
+
+[2025-12-11 09:20:00](https://bsky.app/profile/cbsnews.com/post/3m7ochkogb22a)
 
 ---
 
