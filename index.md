@@ -1,9 +1,9 @@
-# [2025-12-11 15:50 updated](2025_12_11.md)
+# [2025-12-11 16:10 updated](2025_12_11.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">木原官房長官 給与法の改正案 “混乱招いた”衆院議運委で陳謝 https://news.web.nhk/newsweb/na/na-k10015001071000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7oy5hiesy2x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-11 15:48:02)</span><span style="padding-right:50px;">Two bleeding disorder treatments for both chronic and acute conditions, Qfitlia and Cablivi,  have been approved in China. on.wsj.com/4rRuWni <a href="https://bsky.app/profile/wsj.com/post/3m7oy34tjwi2k" target="_blank">wsj.com</a> (2025-12-11 15:46:45)</span><span style="padding-right:50px;">Dollar stumbles as dovish Fed tempts bears reut.rs/48LCcbr <a href="https://bsky.app/profile/reuters.com/post/3m7oxybzzwq2p" target="_blank">reuters.com</a> (2025-12-11 15:45:10)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】「7階から飛び降りようとしている」通報 (2025-12-11 15:36:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7oxqtghy72b" target="_blank">sokuho.news</a> (2025-12-11 15:41:00)</span><span style="padding-right:50px;">Oil tanker seized by US near Venezuela was falsely flying Guyana flag, government says reut.rs/4iSjnZ0 <a href="https://bsky.app/profile/reuters.com/post/3m7oxpgqmj223" target="_blank">reuters.com</a> (2025-12-11 15:40:13)</span>
+<span style="padding-right:50px;">Hong Kong central bank cuts interest rate, tracking Fed move reut.rs/3Mtv0JL <a href="https://bsky.app/profile/reuters.com/post/3m7oz3yxucb2y" target="_blank">reuters.com</a> (2025-12-11 16:05:09)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】所得税の追徴税額が過去最高 1431億円に 調査にAIを本格活用 国税庁 (2025年12月11日 16:03) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7oyyshamj2v" target="_blank">sokuho.news</a> (2025-12-11 16:03:21)</span><span style="padding-right:50px;">神戸 会社員女性殺害 逮捕の36歳容疑者 殺人などの罪で起訴 https://news.web.nhk/newsweb/na/na-k10015001081000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7oyycd76q2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-11 16:03:02)</span><span style="padding-right:50px;">"President Donald Trump has a few tried-and-true rhetorical strategies," writes Allison Morrow. | Analysis https://cnn.it/3Ktzb7Q <a href="https://bsky.app/profile/cnn.com/post/3m7oywgyahz2u" target="_blank">cnn.com</a> (2025-12-11 16:02:02)</span><span style="padding-right:50px;">消える建設現場の「足場」　盗難被害4年で2倍 www.nikkei.com/article/DGXZQO...  高価な貴金属ならいざ知らず、重く、持ち運びづらく、売り先も限られる鉄製の板。  一体なぜ盗まれるのでしょうか。 <a href="https://bsky.app/profile/nikkei.com/post/3m7oyw4jik62m" target="_blank">nikkei.com</a> (2025-12-11 16:01:51)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48057.75 (🔺483.79 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23654.15 (🔺118.15 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.78 (🔻1.19 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 156.05 (🔺0.09 : 2025-12-11)</span>
+<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48057.75 (🔺483.79 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23654.15 (🔺118.15 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.78 (🔻1.19 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 156.00 (🔺0.04 : 2025-12-11)</span>
   </div>
 </div>
 
@@ -32,37 +32,61 @@
 
 ## News Headlines
 
-1.木原官房長官が衆院議運委で給与法改正案の混乱を謝罪
-2.中国で2つの出血障害治療薬が承認
-3.ダウ平均が衰退　フェデラル準備理事会の柔軟な見通し
-4.ユネスコの無形文化遺産に福井の和紙技術や茨城の祭りなど6件追加登録
-5.米国がホメティー派の拘束事件を非難
-6.ウクライナが米国に和平案を提出した
+1.    香港の中央銀行が利率を下げる
+2.    所得税の追徴税額が過去最高の1431億円に
+3.    神戸で会社員女性殺害　36歳の容疑者が逮捕
+4.    佐賀で大規模火災　火元は亡くなった男性の自宅と
+5.    アメリカのFBIがロシアの軍事侵攻を強く非難
+6.    ユネスコの無形文化遺産に福井の和紙技術や茨城の祭りなど6件が追加登録
 
 ----
 
-@nhknewsunofficial.bsky.social
-
-木原官房長官 給与法の改正案 “混乱招いた”衆院議運委で陳謝
-https://news.web.nhk/newsweb/na/na-k10015001071000
-
-[2025-12-11 15:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7oy5hiesy2x)
-
----
-
-@wsj.com
-
-Two bleeding disorder treatments for both chronic and acute conditions, Qfitlia and Cablivi,  have been approved in China. on.wsj.com/4rRuWni
-
-[2025-12-11 15:46:45](https://bsky.app/profile/wsj.com/post/3m7oy34tjwi2k)
-
----
-
 @reuters.com
 
-Dollar stumbles as dovish Fed tempts bears reut.rs/48LCcbr
+Hong Kong central bank cuts interest rate, tracking Fed move reut.rs/3Mtv0JL
 
-[2025-12-11 15:45:10](https://bsky.app/profile/reuters.com/post/3m7oxybzzwq2p)
+[2025-12-11 16:05:09](https://bsky.app/profile/reuters.com/post/3m7oz3yxucb2y)
+
+---
+
+@sokuho.news
+
+🔔ANNより【速報】です。
+
+【速報】所得税の追徴税額が過去最高 1431億円に 調査にAIを本格活用 国税庁
+(2025年12月11日 16:03) #ニュース
+
+[2025-12-11 16:03:21](https://bsky.app/profile/sokuho.news/post/3m7oyyshamj2v)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+神戸 会社員女性殺害 逮捕の36歳容疑者 殺人などの罪で起訴
+https://news.web.nhk/newsweb/na/na-k10015001081000
+
+[2025-12-11 16:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7oyycd76q2v)
+
+---
+
+@cnn.com
+
+"President Donald Trump has a few tried-and-true rhetorical strategies," writes Allison Morrow. | Analysis https://cnn.it/3Ktzb7Q
+
+[2025-12-11 16:02:02](https://bsky.app/profile/cnn.com/post/3m7oywgyahz2u)
+
+---
+
+@nikkei.com
+
+消える建設現場の「足場」　盗難被害4年で2倍
+www.nikkei.com/article/DGXZQO...
+
+高価な貴金属ならいざ知らず、重く、持ち運びづらく、売り先も限られる鉄製の板。
+
+一体なぜ盗まれるのでしょうか。
+
+[2025-12-11 16:01:51](https://bsky.app/profile/nikkei.com/post/3m7oyw4jik62m)
 
 ---
 
@@ -70,59 +94,46 @@ Dollar stumbles as dovish Fed tempts bears reut.rs/48LCcbr
 
 🛎️JNNより【速報】です。
 
-【速報】「7階から飛び降りようとしている」通報
-(2025-12-11 15:36:00) #ニュース
+【速報】佐賀関大規模火災 火元は亡くなった男性の自宅と特定 大分県警発表
+(2025-12-11 15:58:00) #ニュース
 
-[2025-12-11 15:41:00](https://bsky.app/profile/sokuho.news/post/3m7oxqtghy72b)
-
----
-
-@reuters.com
-
-Oil tanker seized by US near Venezuela was falsely flying Guyana flag, government says reut.rs/4iSjnZ0
-
-[2025-12-11 15:40:13](https://bsky.app/profile/reuters.com/post/3m7oxpgqmj223)
-
----
-
-@nhknewsunofficial.bsky.social
-
-松本元死刑囚 遺骨と遺髪めぐる2審判決 来年2月言い渡しへ
-https://news.web.nhk/newsweb/na/na-k10015001061000
-
-[2025-12-11 15:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7oxhzimtq2l)
+[2025-12-11 16:01:39](https://bsky.app/profile/sokuho.news/post/3m7oyvqjkn527)
 
 ---
 
 @reuters.com
 
-Mexico's Senate approves tariff hikes on Chinese, other Asian imports reut.rs/4pWUDB2
+ADB approves $500 mln loan to support a sustainable Philippine blue economy reut.rs/4iTKB1t
 
-[2025-12-11 15:35:11](https://bsky.app/profile/reuters.com/post/3m7oxggpzn22i)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Panic in France as children fall victim to lethal violence of Marseille drug gangs
-
-[2025-12-11 15:30:56](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7ox6toqkp2r)
+[2025-12-11 16:01:03](https://bsky.app/profile/reuters.com/post/3m7oyuodfqa2p)
 
 ---
 
-@reuters.com
+@cnbc.com
 
-US bombers join Japanese jets in show of force after China–Russia drills, Tokyo says reut.rs/4iWQcUM
+Our cognitive patterns are more powerful than we think, according to leadership coach Amina AlTai.
 
-[2025-12-11 15:30:23](https://bsky.app/profile/reuters.com/post/3m7ox5tp7vb2r)
+Here’s the strategy AlTai employs to help herself and her clients let go of limiting beliefs.
+
+[2025-12-11 16:00:25](https://bsky.app/profile/cnbc.com/post/3m7oytkpygw2d)
 
 ---
 
-@cnn.com
+@en.afp.com
 
-The testimony of Gem Mutlu – a close friend of Ana Walshe’s who said he considered her family his own – came hours before prosecutors rested their case in the trial of Brian Walshe, who is accused of killing his wife on or around January 1, 2023. 
+Anti-government protest draws tens of thousands in Bulgaria
 
-[2025-12-11 15:29:01](https://bsky.app/profile/cnn.com/post/3m7ox3fsxll2u)
+u.afp.com/S7sv
+
+[2025-12-11 16:00:16](https://bsky.app/profile/en.afp.com/post/3m7oytbwxaq2j)
+
+---
+
+@apnews.com
+
+Billy Napier will be watching 12th-seeded James Madison's College Football Playoff game against fifth-seeded Oregon with an eye toward the future.
+
+[2025-12-11 16:00:15](https://bsky.app/profile/apnews.com/post/3m7oytao4n424)
 
 ---
 
