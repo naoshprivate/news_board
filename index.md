@@ -1,9 +1,9 @@
-# [2025-12-12 08:30 updated](2025_12_12.md)
+# [2025-12-12 08:50 updated](2025_12_12.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">JUST IN: Federal judge says the Trump administration misled the court, had no legal authority to expel Kilmar Abrego Garcia <a href="https://bsky.app/profile/usatoday.com/post/3m7qpwo55la2l" target="_blank">usatoday.com</a> (2025-12-12 08:26:25)</span><span style="padding-right:50px;">USC TE Lake McRee to bypass final year of eligibility reut.rs/3YnuBep <a href="https://bsky.app/profile/reuters.com/post/3m7qpuisejc2s" target="_blank">reuters.com</a> (2025-12-12 08:25:13)</span><span style="padding-right:50px;">In Opinion  When people lose their sense of home, they tend to reach “for anything stable enough to hold onto — and that can include any leader who seems strong enough to reattach them to that place called home, however fraudulent that leader is or unrealistic the prospect,” Thomas Friedman writes. <a href="https://bsky.app/profile/nytimes.com/post/3m7qpu7tm5m2r" target="_blank">nytimes.com</a> (2025-12-12 08:25:03)</span><span style="padding-right:50px;">The 22-year-old Utah man charged with killing Charlie Kirk made his first in-person court appearance as his attorneys push to further limit media access in the high-profile criminal case. <a href="https://bsky.app/profile/nbcnews.com/post/3m7qplhwudz23" target="_blank">nbcnews.com</a> (2025-12-12 08:20:10)</span><span style="padding-right:50px;">María Corina Machado, Venezuela’s opposition leader, slipped through 10 military checkpoints to reach a fishing boat bound for Curaçao and a private jet headed to Norway.  Read more about the Nobel Peace Prize Winner's journey: 🔗 on.wsj.com/3KKXLB9 <a href="https://bsky.app/profile/wsj.com/post/3m7qpjlcnv32r" target="_blank">wsj.com</a> (2025-12-12 08:19:06)</span>
+<span style="padding-right:50px;">Reddit launches High Court challenge to Australia's social media ban for kids <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7qr6ewfrx2b" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-12 08:48:37)</span><span style="padding-right:50px;">As President Trump mocks the term "affordability," a new poll found Americans are making major sacrifices to keep up with the cost of living. bit.ly/4p8DeVr <a href="https://bsky.app/profile/usatoday.com/post/3m7qr3vtieb2f" target="_blank">usatoday.com</a> (2025-12-12 08:47:15)</span><span style="padding-right:50px;">Treasury Secretary Scott Bessent calls for overhaul of regulator tasked with spotting systemic financial risks.  <a href="https://bsky.app/profile/cbsnews.com/post/3m7qr2gfkvv2p" target="_blank">cbsnews.com</a> (2025-12-12 08:46:25)</span><span style="padding-right:50px;">US sanctions six more ships after seizing oil tanker off Venezuela <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7qqze74w625" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-12 08:45:49)</span><span style="padding-right:50px;">ディズニー、OpenAIに1500億円出資　動画AI「Sora」にキャラ提供 www.nikkei.com/article/DGXZQO...   ディズニーはAIの知的財産の利用に反発してきましたが、大きな戦略転換となります。   Soraの利用者は、ディズニー、マーベル、スター・ウォーズなどのキャラクターを使用した動画を作ることができるようになります。 <a href="https://bsky.app/profile/nikkei.com/post/3m7qqyrhyoo2m" target="_blank">nikkei.com</a> (2025-12-12 08:45:30)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48704.01 (🔺621.11 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23593.86 (🔺84.64 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.93 (🔺0.65 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.53 (🔻0.00 : 2025-12-11)</span>
+<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48704.01 (🔺621.11 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23593.86 (🔺84.64 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.93 (🔺0.65 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.55 (🔺0.02 : 2025-12-11)</span>
   </div>
 </div>
 
@@ -32,125 +32,111 @@
 
 ## News Headlines
 
-Here are six important topics with Japanese headlines:
+Here are the 6 important topics with Japanese headings:
 
-1. 
-ベネズエラ大統領と電話会談：米への対抗姿勢か？
+1.
+Redditの日本国政府に対する訴え：子供向けのソーシャルメディアの規制を挑戦
 
-(Benuezeula President and Phone Talk: Is it a countermeasure against the US?)
+2.
+ディズニーがOpenAIに1500億円出資：動画AI「Sora」にキャラ提供
 
-2. 
-ローソン、800人の社内運動会に「意外な効用」
+3.
+ベネズエラの石油部門に対するアメリカの新しい制裁措置
 
-(Lowson, 800-people internal sports day with unexpected effects)
+4.
+米国の連邦裁判所がTrump政府に対する訴えを却下：マリファナの規制緩和を支持
 
-3. 
-歌舞伎町ホストはAIに語りかける
+5.
+講談社が映画化を自前で行う：「進撃の巨人」も実写化に向けて進む
 
-(Gay district host talks to AI)
-
-4. 
-Fed reappoints regional chiefs in move that allays Trump challenge fears
-
-5. 
-歌舞伎町ホストの約7割がChatGPTなどの対話型AIを利用
-
-(About 70% of gay district hosts use ChatGPT and other conversational AI)
-
-6. 
-NON-REGULAR EMPLOYMENT TREATMENT DIFFERENCES, PROMPTING CORPORATIONS TO EXPLAIN THOROUGHLY
-
-(non-regular employment treatment differences, prompting corporations to explain thoroughly)
+6.
+ローソンが社内運動会を開催：「意外な効用」を見つけるために行う
 
 ----
 
+@bbcnews-world-rss.bsky.social
+
+Reddit launches High Court challenge to Australia's social media ban for kids
+
+[2025-12-12 08:48:37](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7qr6ewfrx2b)
+
+---
+
 @usatoday.com
 
-<strong><span style="color: red;">JUST IN:</span> Federal judge says the Trump administration misled the court, had no legal authority to expel Kilmar Abrego Garcia</strong>
+As President Trump mocks the term "affordability," a new poll found Americans are making major sacrifices to keep up with the cost of living. bit.ly/4p8DeVr
 
-[2025-12-12 08:26:25](https://bsky.app/profile/usatoday.com/post/3m7qpwo55la2l)
-
----
-
-@reuters.com
-
-USC TE Lake McRee to bypass final year of eligibility reut.rs/3YnuBep
-
-[2025-12-12 08:25:13](https://bsky.app/profile/reuters.com/post/3m7qpuisejc2s)
+[2025-12-12 08:47:15](https://bsky.app/profile/usatoday.com/post/3m7qr3vtieb2f)
 
 ---
 
-@nytimes.com
+@cbsnews.com
 
-In Opinion
+Treasury Secretary Scott Bessent calls for overhaul of regulator tasked with spotting systemic financial risks.
 
-When people lose their sense of home, they tend to reach “for anything stable enough to hold onto — and that can include any leader who seems strong enough to reattach them to that place called home, however fraudulent that leader is or unrealistic the prospect,” Thomas Friedman writes.
 
-[2025-12-12 08:25:03](https://bsky.app/profile/nytimes.com/post/3m7qpu7tm5m2r)
-
----
-
-@nbcnews.com
-
-The 22-year-old Utah man charged with killing Charlie Kirk made his first in-person court appearance as his attorneys push to further limit media access in the high-profile criminal case.
-
-[2025-12-12 08:20:10](https://bsky.app/profile/nbcnews.com/post/3m7qplhwudz23)
+[2025-12-12 08:46:25](https://bsky.app/profile/cbsnews.com/post/3m7qr2gfkvv2p)
 
 ---
 
-@wsj.com
+@bbcnews-world-rss.bsky.social
 
-María Corina Machado, Venezuela’s opposition leader, slipped through 10 military checkpoints to reach a fishing boat bound for Curaçao and a private jet headed to Norway.
+US sanctions six more ships after seizing oil tanker off Venezuela
 
-Read more about the Nobel Peace Prize Winner's journey: 🔗 on.wsj.com/3KKXLB9
-
-[2025-12-12 08:19:06](https://bsky.app/profile/wsj.com/post/3m7qpjlcnv32r)
-
----
-
-@nhknewsunofficial.bsky.social
-
-ベネズエラ大統領 プーチン大統領と電話会談 米への対抗姿勢か
-https://news.web.nhk/newsweb/na/na-k10015001721000
-
-[2025-12-12 08:18:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7qphrfovq2w)
-
----
-
-@nytimes.com
-
-Lululemon Athletica’s chief executive, Calvin McDonald, will step down from the role early next year, the company announced on Thursday.
-
-[2025-12-12 08:17:03](https://bsky.app/profile/nytimes.com/post/3m7qpfvbau22v)
+[2025-12-12 08:45:49](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7qqze74w625)
 
 ---
 
 @nikkei.com
 
-ローソン、800人の社内運動会に「意外な効用」
+ディズニー、OpenAIに1500億円出資　動画AI「Sora」にキャラ提供
 www.nikkei.com/article/DGXZQO...
+ 
+ディズニーはAIの知的財産の利用に反発してきましたが、大きな戦略転換となります。
+ 
+Soraの利用者は、ディズニー、マーベル、スター・ウォーズなどのキャラクターを使用した動画を作ることができるようになります。
 
-大俵送り、玉入れ、チャンバラ合戦。経営トップから育休中の社員まで交流を深めます。
-
-竹増貞信社長は「若手に事業の進捗を聞いたら役員の報告と違った」。示唆に富む発見があるようです。
-
-[2025-12-12 08:16:36](https://bsky.app/profile/nikkei.com/post/3m7qpf3uplb2x)
+[2025-12-12 08:45:30](https://bsky.app/profile/nikkei.com/post/3m7qqyrhyoo2m)
 
 ---
 
 @reuters.com
 
-Ravens QB Lamar Jackson returns to practice reut.rs/4rSYBwg
+Italy awards solar capacity in first 'Not made in China' auction reut.rs/4iYqorm
 
-[2025-12-12 08:15:13](https://bsky.app/profile/reuters.com/post/3m7qpcnclmc2r)
+[2025-12-12 08:45:17](https://bsky.app/profile/reuters.com/post/3m7qqyez46e2r)
 
 ---
 
 @cnbc.com
 
-S&P, Dow futures are higher after indexes notch record closes: Live updates
+Why Jim Cramer is optimistic after Magnum Ice Cream's IPO
 
-[2025-12-12 08:12:57](https://bsky.app/profile/cnbc.com/post/3m7qp6kx33w2i)
+[2025-12-12 08:42:33](https://bsky.app/profile/cnbc.com/post/3m7qqtj4bv52e)
+
+---
+
+@reuters.com
+
+Exclusive: US preparing to seize more tankers off Venezuela's coast after first ship taken, sources say reut.rs/4oS4Kq2
+
+[2025-12-12 08:40:35](https://bsky.app/profile/reuters.com/post/3m7qqpys5ud2i)
+
+---
+
+@nbcnews.com
+
+Drive Change, a Brooklyn nonprofit, provides culinary training to teens and young adults looking for a way out of the criminal legal system.
+
+[2025-12-12 08:40:14](https://bsky.app/profile/nbcnews.com/post/3m7qqpdszid24)
+
+---
+
+@nytimes.com
+
+The U.S. on Thursday issued new sanctions on Venezuela’s oil sector and on members of President Nicolás Maduro’s family, while taking steps to keep tens of millions of dollars’ worth of oil from a large tanker that U.S. forces seized off the country’s coast.
+
+[2025-12-12 08:40:03](https://bsky.app/profile/nytimes.com/post/3m7qqozwju627)
 
 ---
 
