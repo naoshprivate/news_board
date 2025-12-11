@@ -1,9 +1,9 @@
-# [2025-12-12 06:10 updated](2025_12_12.md)
+# [2025-12-12 06:30 updated](2025_12_12.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">HSBC axes 160-year-old management scheme in bid to cut costs on.ft.com/4pYlxsg <a href="https://bsky.app/profile/financialtimes.com/post/3m7qi6obkwl2k" target="_blank">financialtimes.com</a> (2025-12-12 06:07:44)</span><span style="padding-right:50px;">Despite all the cringey moments, the shows often model how to handle difficult, face-to-face conversations in a relationship. on.wsj.com/4948dwO <a href="https://bsky.app/profile/wsj.com/post/3m7qi53pdag2u" target="_blank">wsj.com</a> (2025-12-12 06:06:51)</span><span style="padding-right:50px;">Denmark singled out the U.S. as a security concern because of what it said was 'uncertainty' about its role as a guarantor of European security. <a href="https://bsky.app/profile/usatoday.com/post/3m7qi3awaoj2f" target="_blank">usatoday.com</a> (2025-12-12 06:05:49)</span><span style="padding-right:50px;">Exclusive: Ivory Coast pushes for US spy planes to tackle al Qaeda-linked jihadists in Sahel reut.rs/3MppHet <a href="https://bsky.app/profile/reuters.com/post/3m7qi2774of2x" target="_blank">reuters.com</a> (2025-12-12 06:05:14)</span><span style="padding-right:50px;">Child psychologist Reem Raouda, who has studied more than 200 kids, says that parents who raise the most successful ones do nine things differently — especially when their kids are young. <a href="https://bsky.app/profile/cnbc.com/post/3m7qhytv2qh2y" target="_blank">cnbc.com</a> (2025-12-12 06:04:29)</span>
+<span style="padding-right:50px;">In a segment that favors immense proportions, the handsome Mazda CX-90 is betting that many drivers want something a little less gargantuan.  on.wsj.com/48IfBOx <a href="https://bsky.app/profile/wsj.com/post/3m7qjbbv3pp2t" target="_blank">wsj.com</a> (2025-12-12 06:27:05)</span><span style="padding-right:50px;">EU ban on combustion engine cars off table, EPP's Weber says reut.rs/455Iemf <a href="https://bsky.app/profile/reuters.com/post/3m7qj63cgoj2k" target="_blank">reuters.com</a> (2025-12-12 06:25:18)</span><span style="padding-right:50px;">Google recently boasted that its new A.I. model had surpassed technology from OpenAI. Then OpenAI released a new model of its own, claiming it was the best yet. The tightening of the A.I. race comes at a precarious time for the company behind ChatGPT. <a href="https://bsky.app/profile/nytimes.com/post/3m7qj5oytlr2a" target="_blank">nytimes.com</a> (2025-12-12 06:25:05)</span><span style="padding-right:50px;">Time's 2025 Person of the Year is "The architects of AI." Here's a look at some of the people and movements that earned the title in the past. yhoo.it/3XLBqGB  <a href="https://bsky.app/profile/yahoonews.com/post/3m7qj3dywys2m" target="_blank">yahoonews.com</a> (2025-12-12 06:23:46)</span><span style="padding-right:50px;">More people appear to be walking away from Affordable Care Act coverage or switching to cheaper plans for 2026 compared to this time last year, according to early enrollment data from several states. <a href="https://bsky.app/profile/nbcnews.com/post/3m7qiv26d7g2p" target="_blank">nbcnews.com</a> (2025-12-12 06:20:15)</span>
   </div>
 </div>
 
@@ -32,107 +32,120 @@
 
 ## News Headlines
 
-Here are six important topics with Japanese headlines:
+Here are six important topics with Japanese titles:
 
-1. HSBC axes 160-year-old management scheme
-「HSBCが160年の歴史を持つマネジメントスキームを廃止」
+1. 
+EU combustion engine car ban cancelled
 
-2. Denmark singles out the U.S. as a security concern
-「デンマークが米国を安全上の懸念対象に指定」
+(EUの燃料自動車規制撤回)
 
-3. J.P. Morgan harnesses blockchain for debt issuance
-「JPモルガンがブロックチェーンを活用して債券発行」
+2. 
+Mazda's new SUV, CX-90, takes aim at smaller market
 
-4. U.S. trade deficit narrows more than 10% from August to September
-「米国貿易収支が8月から9月間に10%以上縮小」
+(Mazdaの新型SUV CX-90、より小型の市場を狙う)
 
-5. China's Xi Jinping emphasizes domestic demand and supply-side management
-「習近平が内需拡大と供給過剰に対応に重点を置く」
+3. 
+AI model surpasses OpenAI, sparking a new race in AI technology
 
-6. Strong winds leave millions in Sao Paulo without power, cutting water and flights
-「サンパウロで強風が発生、数百万人に電力が断線、水道と飛行機の運航が止まる」
+(OpenAIを超えたAIモデル、AI技術の新たな競争を巻き起こす)
+
+4. 
+Trump administration imposes sanctions on Venezuela's oil trade
+
+(トルコ政権、ベネズエラの石油輸出に対する制裁を課す)
+
+5. 
+Lululemon CEO to step down due to declining sales
+
+(LululemonのCEO、売上低下のため辞任する)
+
+6. 
+US imposes sanctions on three nephews of Venezuelan President Maduro
+
+(トルコ政権、ベネズエラ大統領マドゥロの三人の姪に対する制裁を課す)
 
 ----
 
-@financialtimes.com
-
-HSBC axes 160-year-old management scheme in bid to cut costs on.ft.com/4pYlxsg
-
-[2025-12-12 06:07:44](https://bsky.app/profile/financialtimes.com/post/3m7qi6obkwl2k)
-
----
-
 @wsj.com
 
-Despite all the cringey moments, the shows often model how to handle difficult, face-to-face conversations in a relationship. on.wsj.com/4948dwO
+In a segment that favors immense proportions, the handsome Mazda CX-90 is betting that many drivers want something a little less gargantuan.  on.wsj.com/48IfBOx
 
-[2025-12-12 06:06:51](https://bsky.app/profile/wsj.com/post/3m7qi53pdag2u)
-
----
-
-@usatoday.com
-
-Denmark singled out the U.S. as a security concern because of what it said was 'uncertainty' about its role as a guarantor of European security.
-
-[2025-12-12 06:05:49](https://bsky.app/profile/usatoday.com/post/3m7qi3awaoj2f)
+[2025-12-12 06:27:05](https://bsky.app/profile/wsj.com/post/3m7qjbbv3pp2t)
 
 ---
 
 @reuters.com
 
-Exclusive: Ivory Coast pushes for US spy planes to tackle al Qaeda-linked jihadists in Sahel reut.rs/3MppHet
+EU ban on combustion engine cars off table, EPP's Weber says reut.rs/455Iemf
 
-[2025-12-12 06:05:14](https://bsky.app/profile/reuters.com/post/3m7qi2774of2x)
-
----
-
-@cnbc.com
-
-Child psychologist Reem Raouda, who has studied more than 200 kids, says that parents who raise the most successful ones do nine things differently — especially when their kids are young.
-
-[2025-12-12 06:04:29](https://bsky.app/profile/cnbc.com/post/3m7qhytv2qh2y)
+[2025-12-12 06:25:18](https://bsky.app/profile/reuters.com/post/3m7qj63cgoj2k)
 
 ---
 
-@reuters.com
+@nytimes.com
 
-J.P. Morgan harnesses blockchain for debt issuance amid digital asset adoption boost reut.rs/4ab6t67
+Google recently boasted that its new A.I. model had surpassed technology from OpenAI. Then OpenAI released a new model of its own, claiming it was the best yet. The tightening of the A.I. race comes at a precarious time for the company behind ChatGPT.
 
-[2025-12-12 06:01:09](https://bsky.app/profile/reuters.com/post/3m7qhsvox7d2b)
-
----
-
-@nbcnews.com
-
-During a House hearing, Rep. Seth Magaziner questions Homeland Security Secretary Kristi Noem about U.S. military veterans being deported under the current administration. 
-
-[2025-12-12 06:00:58](https://bsky.app/profile/nbcnews.com/post/3m7qhslcs2y2q)
+[2025-12-12 06:25:05](https://bsky.app/profile/nytimes.com/post/3m7qj5oytlr2a)
 
 ---
 
 @yahoonews.com
 
-The Senate on Thursday rejected legislation to extend Affordable Care Act tax credits, essentially guaranteeing that millions of Americans will see a steep rise in costs at the beginning of the year. yhoo.it/44nYhM9
+Time's 2025 Person of the Year is "The architects of AI." Here's a look at some of the people and movements that earned the title in the past. yhoo.it/3XLBqGB 
 
-[2025-12-12 06:00:36](https://bsky.app/profile/yahoonews.com/post/3m7qhrwhjk62x)
-
----
-
-@washingtonpost.com
-
-A new study found that the California deermouse is the most monogamous mammal.
-
-See which mammals are the friskiest: https://wapo.st/4q1kyre
-
-[2025-12-12 06:00:15](https://bsky.app/profile/washingtonpost.com/post/3m7qhrbxqzy2n)
+[2025-12-12 06:23:46](https://bsky.app/profile/yahoonews.com/post/3m7qj3dywys2m)
 
 ---
 
-@bloomberg.com
+@nbcnews.com
 
-With Trump pushing an America First agenda, Coke makes an unusual move: announcing that its new CEO is a US citizen.
+More people appear to be walking away from Affordable Care Act coverage or switching to cheaper plans for 2026 compared to this time last year, according to early enrollment data from several states.
 
-[2025-12-12 06:00:14](https://bsky.app/profile/bloomberg.com/post/3m7qhrbhkke2h)
+[2025-12-12 06:20:15](https://bsky.app/profile/nbcnews.com/post/3m7qiv26d7g2p)
+
+---
+
+@cbsnews.com
+
+The U.S. imposed sanctions on three nephews of Venezuelan President Nicolás Maduro on Thursday, as well as half a dozen ships accused of carrying oil from the country, as President Trump looks to inflict further pressure on the South American nation.
+
+
+
+[2025-12-12 06:20:01](https://bsky.app/profile/cbsnews.com/post/3m7qiun3plm2i)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+トランプ氏 ガザ地区 評議会のメンバー 来年初め発表の見通し
+https://news.web.nhk/newsweb/na/na-k10015001671000
+
+[2025-12-12 06:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7qir65hdt22)
+
+---
+
+@reuters.com
+
+M23 consolidates control over Congo town in blow to peace talks reut.rs/44ToVfS
+
+[2025-12-12 06:15:25](https://bsky.app/profile/reuters.com/post/3m7qimfq7ge24)
+
+---
+
+@nytimes.com
+
+A tangle of problems at IndiGo, India’s biggest airline, resulted in gridlocked airports across the country — a symptom of an even bigger problem.
+
+[2025-12-12 06:15:08](https://bsky.app/profile/nytimes.com/post/3m7qilvssvm2r)
+
+---
+
+@wsj.com
+
+Lululemon Chief Executive Calvin McDonald will give up the reins in January, after the company’s sales faltered and its founder pushed for board changes.
+
+[2025-12-12 06:15:06](https://bsky.app/profile/wsj.com/post/3m7qilu5iju2h)
 
 ---
 
