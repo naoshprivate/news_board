@@ -1,9 +1,9 @@
-# [2025-12-11 10:50 updated](2025_12_11.md)
+# [2025-12-11 11:10 updated](2025_12_11.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Venezuelan dissident María Corina Machado finally appeared in Oslo in the early hours of Thursday morning, hours after her daughter had accepted her Nobel Peace Prize on her behalf. bloom.bg/3XKWxc7  📷: Odd Andersen/AFP/Getty Images <a href="https://bsky.app/profile/bloomberg.com/post/3m7ohd26c2f2w" target="_blank">bloomberg.com</a> (2025-12-11 10:46:58)</span><span style="padding-right:50px;">ノーベル平和賞受賞者 マチャド氏 ノルウェー首都に到着 https://news.web.nhk/newsweb/na/na-k10015000661000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7oh7p3o7o26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-11 10:45:03)</span><span style="padding-right:50px;">Sporting officials in Egypt and Iran, two countries where homosexuality is severely punished, protested after being drawn to play the “Pride Match” in Seattle during next year’s World Cup. <a href="https://bsky.app/profile/washingtonpost.com/post/3m7oh7kykes2i" target="_blank">washingtonpost.com</a> (2025-12-11 10:45:01)</span><span style="padding-right:50px;">Oil extends gains after US seizure of tanker off Venezuela reut.rs/48OsWne <a href="https://bsky.app/profile/reuters.com/post/3m7ogx5nekj24" target="_blank">reuters.com</a> (2025-12-11 10:40:18)</span><span style="padding-right:50px;">An Army gynecologist has been charged with secretly recording more than 40 of his patients at Fort Hood in Texas, military prosecutors said on Tuesday, as members of Congress expressed concerns that the Army was slow to stop his misconduct. <a href="https://bsky.app/profile/nytimes.com/post/3m7ogwngph62e" target="_blank">nytimes.com</a> (2025-12-11 10:40:02)</span>
+<span style="padding-right:50px;">China has an ace to play in the global AI contest: the biggest power grid the world has ever seen. <a href="https://bsky.app/profile/wsj.com/post/3m7oijohjin2c" target="_blank">wsj.com</a> (2025-12-11 11:08:34)</span><span style="padding-right:50px;">Disguised in a wig and slipping through military checkpoints, this is the Nobel Peace Prize winner’s perilous escape from Venezuela. <a href="https://bsky.app/profile/wsj.com/post/3m7oih7dj722e" target="_blank">wsj.com</a> (2025-12-11 11:07:11)</span><span style="padding-right:50px;">After three Super Bowl triumphs and nine straight division titles, it’s now more clear than ever that Kansas City’s longstanding dominance has gone up in smoke.  🔗: on.wsj.com/493iaum <a href="https://bsky.app/profile/wsj.com/post/3m7oicydqrk2e" target="_blank">wsj.com</a> (2025-12-11 11:04:49)</span><span style="padding-right:50px;">More Americans have jobs that didn’t exist a generation ago, and even well-known professions are changing. on.wsj.com/4rVZPHo <a href="https://bsky.app/profile/wsj.com/post/3m7oicvu6r52c" target="_blank">wsj.com</a> (2025-12-11 11:04:47)</span><span style="padding-right:50px;">Venezuelan opposition leader María Corina Machado makes first public appearance in 11 months hours after Nobel ceremony. <a href="https://bsky.app/profile/apnews.com/post/3m7oicpjqrv2n" target="_blank">apnews.com</a> (2025-12-11 11:04:40)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50585.92 (🔻232.47 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48057.75 (🔺483.79 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23654.16 (🔺118.16 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.78 (🔻1.21 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3123.00 (🔻25.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.72 (🔻0.24 : 2025-12-11)</span>
+<span style="padding-right:50px;">NIKKEI: 50548.36 (🔻270.03 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48057.75 (🔺483.79 : 2025-12-10)</span><span style="padding-right:50px;">NASDAQ: 23654.16 (🔺118.16 : 2025-12-10)</span><span style="padding-right:50px;">NVIDIA: 183.78 (🔻1.21 : 2025-12-10)</span><span style="padding-right:50px;">トヨタ自動車: 3123.00 (🔻25.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.64 (🔻0.32 : 2025-12-11)</span>
   </div>
 </div>
 
@@ -32,105 +32,101 @@
 
 ## News Headlines
 
-1. ノーベル平和賞受賞者 マチャド氏 ノルウェー首都に到着
-2. 米国、ベネズエラの船に拿捕した石油価格が高騰
-3. 米連邦準備局、政策金利を0.25％引き下げ
-4. 米国、中国への輸出関連産品の制限を緩和
-5. 米国、外国人旅行者にビジネス用メールアカウントなどを提示するよう求める
-6. 米国、農業の「再生可能」農法の普及を支援するための700億ドルの計画を発表
+1.  ノーベル平和賞受賞者 マチャド氏 ノルウェー首都に到着
+2.  ノーベル平和賞のマチャド氏、船でベネズエラを出国か
+3.  FRB 政策金利0.25％引き下げ “今後の利下げ慎重に判断”
+4.  トランプ政権 不法移民の強制送還のため専用旅客機購入を決定
+5.  連邦準備理事会 “今後も利下げを慎重に”
+6.  マイクロソフトが米国で新製品を発表　AI技術を活用
 
 ----
 
-@bloomberg.com
+@wsj.com
 
-Venezuelan dissident María Corina Machado finally appeared in Oslo in the early hours of Thursday morning, hours after her daughter had accepted her Nobel Peace Prize on her behalf. bloom.bg/3XKWxc7
+China has an ace to play in the global AI contest: the biggest power grid the world has ever seen.
 
-📷: Odd Andersen/AFP/Getty Images
-
-[2025-12-11 10:46:58](https://bsky.app/profile/bloomberg.com/post/3m7ohd26c2f2w)
+[2025-12-11 11:08:34](https://bsky.app/profile/wsj.com/post/3m7oijohjin2c)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@wsj.com
 
-ノーベル平和賞受賞者 マチャド氏 ノルウェー首都に到着
-https://news.web.nhk/newsweb/na/na-k10015000661000
+Disguised in a wig and slipping through military checkpoints, this is the Nobel Peace Prize winner’s perilous escape from Venezuela.
 
-[2025-12-11 10:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7oh7p3o7o26)
-
----
-
-@washingtonpost.com
-
-Sporting officials in Egypt and Iran, two countries where homosexuality is severely punished, protested after being drawn to play the “Pride Match” in Seattle during next year’s World Cup.
-
-[2025-12-11 10:45:01](https://bsky.app/profile/washingtonpost.com/post/3m7oh7kykes2i)
+[2025-12-11 11:07:11](https://bsky.app/profile/wsj.com/post/3m7oih7dj722e)
 
 ---
 
-@reuters.com
+@wsj.com
 
-Oil extends gains after US seizure of tanker off Venezuela reut.rs/48OsWne
+After three Super Bowl triumphs and nine straight division titles, it’s now more clear than ever that Kansas City’s longstanding dominance has gone up in smoke.
 
-[2025-12-11 10:40:18](https://bsky.app/profile/reuters.com/post/3m7ogx5nekj24)
+🔗: on.wsj.com/493iaum
 
----
-
-@nytimes.com
-
-An Army gynecologist has been charged with secretly recording more than 40 of his patients at Fort Hood in Texas, military prosecutors said on Tuesday, as members of Congress expressed concerns that the Army was slow to stop his misconduct.
-
-[2025-12-11 10:40:02](https://bsky.app/profile/nytimes.com/post/3m7ogwngph62e)
+[2025-12-11 11:04:49](https://bsky.app/profile/wsj.com/post/3m7oicydqrk2e)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@wsj.com
 
-FRB 政策金利0.25％引き下げ “今後の利下げ慎重に判断”
-https://news.web.nhk/newsweb/na/na-k10015000701000
+More Americans have jobs that didn’t exist a generation ago, and even well-known professions are changing. on.wsj.com/4rVZPHo
 
-[2025-12-11 10:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7oguxjvgn2b)
+[2025-12-11 11:04:47](https://bsky.app/profile/wsj.com/post/3m7oicvu6r52c)
 
 ---
 
-@en.afp.com
+@apnews.com
 
-<strong><span style="color: red;">BREAKING </span>Venezuelan Nobel Peace laureate Maria Corina Machado makes first public appearance in 11 months</strong>
+Venezuelan opposition leader María Corina Machado makes first public appearance in 11 months hours after Nobel ceremony.
 
-[2025-12-11 10:32:08](https://bsky.app/profile/en.afp.com/post/3m7ogijy3aa2j)
+[2025-12-11 11:04:40](https://bsky.app/profile/apnews.com/post/3m7oicpjqrv2n)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Trump launches $1m 'gold card' immigration visas
+
+[2025-12-11 11:03:03](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7oi7tjk5l2b)
 
 ---
 
 @nikkei.com
 
-ノーベル平和賞のマチャド氏、船でベネズエラを出国か（無料記事）
+花王「洗面ボウルクリーナー」、掃除に関心ない人にも刺さる
 www.nikkei.com/article/DGXZQO...
 
-秘密裏にベネズエラ沖のオランダ自治領キュラソー島に渡ったと、ウォール・ストリート・ジャーナルが報じました。
+4月の発売から想定の10倍の売れ行きとなり、一時は出荷停止になるほどに。
 
-関係者によると、12月10日に授賞式が開かれたノルウェーの首都オスロに向かっています。
+「歯磨きついでに掃除できる」「朝の身支度と一緒に済ませられる」
 
-キュラソーへのルートはベネズエラの野党関係者が過去に国を逃れる際に使っていたことで知られます。
+手を汚さずに泡立てから洗浄まで一度にできる手軽さが、20〜30代の若年層や男性にも受け入れられました。
 
-#ニュース
+[2025-12-11 11:01:51](https://bsky.app/profile/nikkei.com/post/3m7oi5o2mk72m)
 
-[2025-12-11 10:31:52](https://bsky.app/profile/nikkei.com/post/3m7ogi263d52f)
+---
+
+@nbcnews.com
+
+Jails in cities like New Orleans are among the largest mental health care providers in the country. One facility aims to serve the people being held there.
+
+[2025-12-11 11:01:13](https://bsky.app/profile/nbcnews.com/post/3m7oi4k77e22r)
 
 ---
 
 @reuters.com
 
-Coca-Cola names insider Henrique Braun as CEO, replacing James Quincey reut.rs/4pwzVrT
+Fed may not give Trump his rate cuts, but has set out a positive view of the 2026 economy reut.rs/4puIWBE
 
-[2025-12-11 10:30:52](https://bsky.app/profile/reuters.com/post/3m7oggb7ky42s)
+[2025-12-11 11:01:06](https://bsky.app/profile/reuters.com/post/3m7oi4d7cql2p)
 
 ---
 
-@bloomberg.com
+@usatoday.com
 
-President Trump has lifted a US ban on exports to China of Nvidia's H200 chips. The H200 is more powerful than the H20, designed for export to China, but less powerful than the cutting-edge B200. Here's what to know about Nvidia's AI chips
+Wenne Davis, an actor who appeared in "The Marvelous Mrs. Maisel" and "New Amsterdam," died after being struck by a vehicle.
 
-[2025-12-11 10:30:15](https://bsky.app/profile/bloomberg.com/post/3m7ogf5kyhc27)
+[2025-12-11 11:00:47](https://bsky.app/profile/usatoday.com/post/3m7oi3raqo62z)
 
 ---
 
