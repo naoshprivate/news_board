@@ -1,9 +1,9 @@
-# [2025-12-12 20:50 updated](2025_12_12.md)
+# [2025-12-12 21:10 updated](2025_12_12.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">OTC類似薬の保険外し見送りへ　政府・与党、利用者に追加負担を要求 www.nikkei.com/article/DGXZQO...  日本維新の会が医療費削減に向けて保険適用除外を求めていましたが、患者の支払額が増えすぎるケースに配慮しました。  追加負担の対象や割合は今後詰める方針です。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m7rzc7bdum2x" target="_blank">nikkei.com</a> (2025-12-12 20:46:36)</span><span style="padding-right:50px;">Nasdaq, S&P 500 futures slip as Broadcom outlook reignites AI bubble fears reut.rs/48Bdz2B <a href="https://bsky.app/profile/reuters.com/post/3m7rz7pisgq2y" target="_blank">reuters.com</a> (2025-12-12 20:45:12)</span><span style="padding-right:50px;">LIVE: Mexico celebrates the Day of Our Lady of Guadalupe youtube.com/live/t71K5Ws... <a href="https://bsky.app/profile/reuters.com/post/3m7rz2d5ipk2p" target="_blank">reuters.com</a> (2025-12-12 20:42:12)</span><span style="padding-right:50px;">日本製鉄 約6兆円投資へ USスチール買収後初の中期経営計画 https://news.web.nhk/newsweb/na/na-k10015002551000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rz27ywj62m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-12 20:42:06)</span><span style="padding-right:50px;">【速報中】新千歳空港 プライベート機が滑走路逸脱 けが人なし https://news.web.nhk/newsweb/na/na-k10015002611000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rz23ladi2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-12 20:42:01)</span>
+<span style="padding-right:50px;">Americans, including many in Trump’s base, overwhelmingly see higher holiday prices than normal, an AP-NORC poll finds. <a href="https://bsky.app/profile/apnews.com/post/3m7s2jpok4o2p" target="_blank">apnews.com</a> (2025-12-12 21:08:42)</span><span style="padding-right:50px;">🇨🇭 🇺🇸 American alpine ski veteran Lindsey Vonn cemented her remarkable comeback in style on Friday with her first World Cup win since 2018 in the women's downhill at St Moritz ➡️ u.afp.com/S7B8 <a href="https://bsky.app/profile/en.afp.com/post/3m7s2dusnit2j" target="_blank">en.afp.com</a> (2025-12-12 21:05:26)</span><span style="padding-right:50px;">India cabinet approves opening of nuclear, insurance sectors for private investment, sources say reut.rs/4p9kdlL <a href="https://bsky.app/profile/reuters.com/post/3m7s2dhr2yg2p" target="_blank">reuters.com</a> (2025-12-12 21:05:12)</span><span style="padding-right:50px;">維新 OTC類似薬で提言 “保険給付を維持し一部を患者負担に” https://news.web.nhk/newsweb/na/na-k10015002671000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7s27ryz5t2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-12 21:03:07)</span><span style="padding-right:50px;">新千歳空港 プライベート機が滑走路逸脱 けが人なし https://news.web.nhk/newsweb/na/na-k10015002611000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7s27nmvr32w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-12 21:03:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48704.01 (🔺621.11 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23593.86 (🔺84.64 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.93 (🔺0.65 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.93 (🔺0.40 : 2025-12-12)</span>
+<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48704.01 (🔺621.11 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23593.86 (🔺84.64 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.93 (🔺0.65 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.94 (🔺0.41 : 2025-12-12)</span>
   </div>
 </div>
 
@@ -32,103 +32,101 @@
 
 ## News Headlines
 
-1. OTC類似薬の保険外し見送りへ　政府・与党、利用者に追加負担を要求
-2. プライベート機が新千歳空港で滑走路を逸脱　けが人なし
-3. 香港 高層住宅火災 政府トップ「9か月以内に報告書まとめる」
-4. クリスマス「予定なし」54%　「興味がない・習慣がない」が31%
-5. タイ首相、トランプ大統領と電話会談へ　緊張緩和なるかが焦点
-6. ロシア、ICCの赤根智子所長らに有罪判決　プーチン氏逮捕状で
+以下の6つのニュースのヘッドラインです。
+
+1. 予定なしクリスマス　54％
+2. シンガポールから来たプライベートジェット機が滑走路をオーバーラン
+3. インド政府、OTC類似薬の保険外しを見送り　利用者に追加負担を要求
+4. ボーイング買いを推すCiti　新年に向けて
+5. 台湾問題で高市首相が事前資料を含まずに答弁　立憲民主党が指摘
+6. イスラエル軍、ヘzbollahを追い詰めるためヒルズやバレーで大規模な攻撃
 
 ----
 
-@nikkei.com
+@apnews.com
 
-OTC類似薬の保険外し見送りへ　政府・与党、利用者に追加負担を要求
-www.nikkei.com/article/DGXZQO...
+Americans, including many in Trump’s base, overwhelmingly see higher holiday prices than normal, an AP-NORC poll finds.
 
-日本維新の会が医療費削減に向けて保険適用除外を求めていましたが、患者の支払額が増えすぎるケースに配慮しました。
+[2025-12-12 21:08:42](https://bsky.app/profile/apnews.com/post/3m7s2jpok4o2p)
 
-追加負担の対象や割合は今後詰める方針です。
+---
 
-#ニュース
+@en.afp.com
 
-[2025-12-12 20:46:36](https://bsky.app/profile/nikkei.com/post/3m7rzc7bdum2x)
+🇨🇭 🇺🇸 American alpine ski veteran Lindsey Vonn cemented her remarkable comeback in style on Friday with her first World Cup win since 2018 in the women's downhill at St Moritz ➡️ u.afp.com/S7B8
+
+[2025-12-12 21:05:26](https://bsky.app/profile/en.afp.com/post/3m7s2dusnit2j)
 
 ---
 
 @reuters.com
 
-Nasdaq, S&P 500 futures slip as Broadcom outlook reignites AI bubble fears reut.rs/48Bdz2B
+India cabinet approves opening of nuclear, insurance sectors for private investment, sources say reut.rs/4p9kdlL
 
-[2025-12-12 20:45:12](https://bsky.app/profile/reuters.com/post/3m7rz7pisgq2y)
-
----
-
-@reuters.com
-
-LIVE: Mexico celebrates the Day of Our Lady of Guadalupe youtube.com/live/t71K5Ws...
-
-[2025-12-12 20:42:12](https://bsky.app/profile/reuters.com/post/3m7rz2d5ipk2p)
+[2025-12-12 21:05:12](https://bsky.app/profile/reuters.com/post/3m7s2dhr2yg2p)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-日本製鉄 約6兆円投資へ USスチール買収後初の中期経営計画
-https://news.web.nhk/newsweb/na/na-k10015002551000
+維新 OTC類似薬で提言 “保険給付を維持し一部を患者負担に”
+https://news.web.nhk/newsweb/na/na-k10015002671000
 
-[2025-12-12 20:42:06](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rz27ywj62m)
+[2025-12-12 21:03:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7s27ryz5t2w)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-【速報中】新千歳空港 プライベート機が滑走路逸脱 けが人なし
+新千歳空港 プライベート機が滑走路逸脱 けが人なし
 https://news.web.nhk/newsweb/na/na-k10015002611000
 
-[2025-12-12 20:42:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rz23ladi2v)
+[2025-12-12 21:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7s27nmvr32w)
+
+---
+
+@wsj.com
+
+Pete Alonso and Edwin Diaz signed with other teams in free agency while Brandon Nimmo was traded in an offseason deal. on.wsj.com/4iQigZE
+
+[2025-12-12 21:02:02](https://bsky.app/profile/wsj.com/post/3m7s25sk6qa2t)
 
 ---
 
 @reuters.com
 
-Morning Bid: Is Santa Claus coming to town? reut.rs/4iPntAS
+China's November new loans miss forecast as housing slump persists reut.rs/497wDFG
 
-[2025-12-12 20:40:15](https://bsky.app/profile/reuters.com/post/3m7rywuiucd2k)
+[2025-12-12 21:01:00](https://bsky.app/profile/reuters.com/post/3m7s23xblnk2r)
+
+---
+
+@nikkei.com
+
+台湾問題めぐる高市首相答弁、事前資料は「お答え差し控える」（無料記事）
+www.nikkei.com/article/DGXZQO...
+
+高市早苗首相は台湾有事を存立危機事態に「なり得る」と述べましたが、事前の政府資料には含まれていませんでした。
+
+立憲民主党の辻元清美参院議員は、答弁は首相の持論を展開したものだと指摘しました。
+
+[2025-12-12 21:00:51](https://bsky.app/profile/nikkei.com/post/3m7s23p6a7h2n)
+
+---
+
+@usatoday.com
+
+President Trump said he hopes the top Republican in the Indiana state Senate loses his next primary after Indiana rejected a redistricting plan.
+
+[2025-12-12 21:00:33](https://bsky.app/profile/usatoday.com/post/3m7s235gcrk2o)
 
 ---
 
 @nbcnews.com
 
-President Trump signs an executive order that seeks to limit the ability of states to regulate artificial intelligence while attempting to thwart some existing state laws.
+President Trump says he is pardoning Tina Peters, a former county clerk who was convicted last year in connection with a voting system's security breach. State crimes, however, are not shielded by presidential pardon powers.
 
-[2025-12-12 20:40:08](https://bsky.app/profile/nbcnews.com/post/3m7rywmzrd525)
-
----
-
-@nytimes.com
-
-Listen to “The Headlines,” which brings you the biggest stories of the day from the New York Times reporters who are covering them, all in about 10 minutes.
-
-[2025-12-12 20:40:03](https://bsky.app/profile/nytimes.com/post/3m7rywiv6dm2e)
-
----
-
-@nhknewsunofficial.bsky.social
-
-香港 高層住宅火災 政府トップ “9か月以内に報告書まとめる”
-https://news.web.nhk/newsweb/na/na-k10015002561000
-
-[2025-12-12 20:39:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ryuvwq3j2u)
-
----
-
-@nhknewsunofficial.bsky.social
-
-タイ首相 トランプ大統領と電話会談へ 緊張緩和なるかが焦点
-https://news.web.nhk/newsweb/na/na-k10015002621000
-
-[2025-12-12 20:39:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ryuruk6q2s)
+[2025-12-12 21:00:24](https://bsky.app/profile/nbcnews.com/post/3m7s22vasow2p)
 
 ---
 
