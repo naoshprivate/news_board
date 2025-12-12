@@ -1,9 +1,9 @@
-# [2025-12-12 19:30 updated](2025_12_12.md)
+# [2025-12-12 19:50 updated](2025_12_12.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">地震 東海第二原発 これまでのところ異常なし https://news.web.nhk/newsweb/na/na-k10015002581000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rutydspi2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-12 19:27:02)</span><span style="padding-right:50px;">Russian central bank says EU plans to use its assets are illegal reut.rs/44oxxeo <a href="https://bsky.app/profile/reuters.com/post/3m7ruqntty52o" target="_blank">reuters.com</a> (2025-12-12 19:25:12)</span><span style="padding-right:50px;">地震 東海第二原発 異常がないか確認中 https://news.web.nhk/newsweb/na/na-k10015002581000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ruom2sr32k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-12 19:24:01)</span><span style="padding-right:50px;">日銀 18日からの金融政策決定会合で利上げ実施を最終判断へ https://news.web.nhk/newsweb/na/na-k10015002541000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rujbtp2r2d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-12 19:21:03)</span><span style="padding-right:50px;">Japan issues a tsunami advisory after a 6.7-magnitude earthquake shook the country’s northeast, according to the Japan Meteorological Agency. <a href="https://bsky.app/profile/nbcnews.com/post/3m7ruhjsn2o2q" target="_blank">nbcnews.com</a> (2025-12-12 19:20:06)</span>
+<span style="padding-right:50px;">ことし収穫の主食用米 最終見通し718万トン 去年より増 農水省 https://news.web.nhk/newsweb/na/na-k10015002181000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rvzoncrp2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-12 19:48:06)</span><span style="padding-right:50px;">【地震】東北・上越・北陸新幹線で一時運転見合わせ 現在再開 https://news.web.nhk/newsweb/na/na-k10015002631000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rvzkekp526" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-12 19:48:02)</span><span style="padding-right:50px;">China Vanke seeks one-year extension on second onshore bond, sources say reut.rs/44kOvdI <a href="https://bsky.app/profile/reuters.com/post/3m7rvue34lf2b" target="_blank">reuters.com</a> (2025-12-12 19:45:10)</span><span style="padding-right:50px;">【地震】東北・上越・北陸新幹線で一時運転見合わせ https://news.web.nhk/newsweb/na/na-k10015002631000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rvu5vkf42l" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-12 19:45:02)</span><span style="padding-right:50px;">The UK economy is not nearly as bad as you’ve been told on.ft.com/48x09Vg <a href="https://bsky.app/profile/financialtimes.com/post/3m7rvoogdon2w" target="_blank">financialtimes.com</a> (2025-12-12 19:42:00)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48704.01 (🔺621.11 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23593.86 (🔺84.64 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.93 (🔺0.65 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.96 (🔺0.42 : 2025-12-12)</span>
+<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48704.01 (🔺621.11 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23593.86 (🔺84.64 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.93 (🔺0.65 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.90 (🔺0.37 : 2025-12-12)</span>
   </div>
 </div>
 
@@ -32,109 +32,101 @@
 
 ## News Headlines
 
-1. 地震 東海第二原発　これまでのところ異常なし
-2. Russian central bank says EU plans to use its assets are illegal
-3. 日銀　18日からの金融政策決定会合で利上げ実施を最終判断へ
-4. 【地震速報】茨城・栃木・埼玉・千葉で震度4
-5. Putin can fund Ukraine war for years to come, ex-official says
-6. Reddit sues Australia's high court to block law banning social media accounts for children under 16
+1. 最終見通し718万トン
+2. 最新地震で東北・上越・北陸新幹線が運転を見合わせた
+3. 中国のバンケーが新規債券の発行延期を求める
+4. 地震で新千歳空港で滑走路を逸脱した疑い
+5. ガザ地区で大雨により避難者が増加
+6. ロシアがウクライナへの攻撃を強化
 
 ----
 
 @nhknewsunofficial.bsky.social
 
-地震 東海第二原発 これまでのところ異常なし
-https://news.web.nhk/newsweb/na/na-k10015002581000
+ことし収穫の主食用米 最終見通し718万トン 去年より増 農水省
+https://news.web.nhk/newsweb/na/na-k10015002181000
 
-[2025-12-12 19:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rutydspi2w)
+[2025-12-12 19:48:06](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rvzoncrp2s)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【地震】東北・上越・北陸新幹線で一時運転見合わせ 現在再開
+https://news.web.nhk/newsweb/na/na-k10015002631000
+
+[2025-12-12 19:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rvzkekp526)
 
 ---
 
 @reuters.com
 
-Russian central bank says EU plans to use its assets are illegal reut.rs/44oxxeo
+China Vanke seeks one-year extension on second onshore bond, sources say reut.rs/44kOvdI
 
-[2025-12-12 19:25:12](https://bsky.app/profile/reuters.com/post/3m7ruqntty52o)
-
----
-
-@nhknewsunofficial.bsky.social
-
-地震 東海第二原発 異常がないか確認中
-https://news.web.nhk/newsweb/na/na-k10015002581000
-
-[2025-12-12 19:24:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ruom2sr32k)
+[2025-12-12 19:45:10](https://bsky.app/profile/reuters.com/post/3m7rvue34lf2b)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-日銀 18日からの金融政策決定会合で利上げ実施を最終判断へ
-https://news.web.nhk/newsweb/na/na-k10015002541000
+【地震】東北・上越・北陸新幹線で一時運転見合わせ
+https://news.web.nhk/newsweb/na/na-k10015002631000
 
-[2025-12-12 19:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rujbtp2r2d)
+[2025-12-12 19:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rvu5vkf42l)
+
+---
+
+@financialtimes.com
+
+The UK economy is not nearly as bad as you’ve been told on.ft.com/48x09Vg
+
+[2025-12-12 19:42:00](https://bsky.app/profile/financialtimes.com/post/3m7rvoogdon2w)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】新千歳空港で小型機がオーバーラン＿滑走路を逸脱し雪上で停止＿乗員乗客9人にケガなし<br />
+(2025-12-12 19:25) #ニュース
+
+[2025-12-12 19:41:05](https://bsky.app/profile/sokuho.news/post/3m7rvn2h3tx2r)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】プライベートジェット機がオーバーラン 乗客乗員9人は無事 北海道・新千歳空港
+(2025-12-12 19:38:00) #ニュース
+
+[2025-12-12 19:41:03](https://bsky.app/profile/sokuho.news/post/3m7rvmysmtz2z)
+
+---
+
+@reuters.com
+
+Jefferies says Indian shares set for better 2026 on earnings, domestic flows reut.rs/3XU0ueu
+
+[2025-12-12 19:40:23](https://bsky.app/profile/reuters.com/post/3m7rvlshmo42s)
 
 ---
 
 @nbcnews.com
 
-Japan issues a tsunami advisory after a 6.7-magnitude earthquake shook the country’s northeast, according to the Japan Meteorological Agency.
+Torrential rain has swept through the Gaza Strip, flooding hundreds of tent camps sheltering families displaced by the war. A U.N. report said 761 displacement sites hosting about 850,000 people are at high risk of flooding and thousands of people had moved in anticipation of heavy rain.
 
-[2025-12-12 19:20:06](https://bsky.app/profile/nbcnews.com/post/3m7ruhjsn2o2q)
-
----
-
-@sokuho.news
-
-🔔防災科研より【強震モニタ】動画です。
-
-震源:青森県東方沖, 深さ:20km
-マグニチュード:4.0, 最大震度:1
-📍https://www.google.com/maps?q=41.0,143.0&ll=41.0,143.0&z=7&t=h
-地震発生日時:2025-12-12 19:14頃
-(10倍速▶180s→18s) #地震
-
-[2025-12-12 19:18:39](https://bsky.app/profile/sokuho.news/post/3m7ruexamj325)
+[2025-12-12 19:40:21](https://bsky.app/profile/nbcnews.com/post/3m7rvlquf522q)
 
 ---
 
-@sokuho.news
+@wsj.com
 
-🔔気象庁より【地震速報】です。
+Exclusive: Chinese authorities arrested dozens of Tibetans who were protesting a mining project, according to Tibetan activists and the government in exile.
 
-19時14分頃、北海道・青森県で最大震度1の地震を観測しました。
-震源:青森県東方沖, 深さ:20km, 規模:M4.0
-この地震による津波の心配はありません。
-(2025-12-12 19:18:02) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/12/2025-12-12-19-14-38.html?xlarge_image=1
-
-[2025-12-12 19:18:02](https://bsky.app/profile/sokuho.news/post/3m7ruduhbxj2a)
-
----
-
-@reuters.com
-
-Russia destroys 90 Ukrainian drones overnight, defence ministry says reut.rs/3MzMBja
-
-[2025-12-12 19:15:15](https://bsky.app/profile/reuters.com/post/3m7ru6ucmtx2y)
-
----
-
-@cnn.com
-
-The FDA is finalizing plans to put a "black box" warning on Covid-19 vaccines, sources tell CNN, its most serious alert meant to warn about drug risks.
-https://cnn.it/4rRBxy5
-
-[2025-12-12 19:12:51](https://bsky.app/profile/cnn.com/post/3m7ru2l73aj2v)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【地震速報】茨城 栃木 埼玉 千葉で震度4 津波の心配なし
-https://news.web.nhk/newsweb/na/na-k10015002401000
-
-[2025-12-12 19:12:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rtz5rbxq2b)
+[2025-12-12 19:40:06](https://bsky.app/profile/wsj.com/post/3m7rvlckltn2q)
 
 ---
 
