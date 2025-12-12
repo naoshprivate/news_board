@@ -1,9 +1,9 @@
-# [2025-12-12 23:30 updated](2025_12_12.md)
+# [2025-12-12 23:50 updated](2025_12_12.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">You won't arrive on time and may not even get a seat. Your booking might get lost. Things have gotten so dire that a foreigner has been brought in to shake things up. n.pr/48NZ9e5 <a href="https://bsky.app/profile/npr.org/post/3m7sc6cbzfe2e" target="_blank">npr.org</a> (2025-12-12 23:25:29)</span><span style="padding-right:50px;">Italy plans levy on parcels from outside EU, higher taxes on financial transactions reut.rs/3KMIqjx <a href="https://bsky.app/profile/reuters.com/post/3m7sc5otgb62s" target="_blank">reuters.com</a> (2025-12-12 23:25:08)</span><span style="padding-right:50px;">President Trump has overseen an aggressive foreign policy, including harsh words about Europe and a lethal military campaign in the Caribbean. On “The Daily,” our reporter unpacks the White House’s new national security strategy, which lays bare Trump's foreign policy goals. <a href="https://bsky.app/profile/nytimes.com/post/3m7sc5m5nph2z" target="_blank">nytimes.com</a> (2025-12-12 23:25:05)</span><span style="padding-right:50px;">About 100,000 people have been asked to evacuate their homes in Washington as a series of atmospheric river storms drenched the state this week. <a href="https://bsky.app/profile/nbcnews.com/post/3m7sbuqbyov2n" target="_blank">nbcnews.com</a> (2025-12-12 23:20:08)</span><span style="padding-right:50px;">President Trump signs an executive order that would override state laws deemed restrictive of artificial intelligence. “We have to be unified,” Trump said. <a href="https://bsky.app/profile/wsj.com/post/3m7sbsit3ts2t" target="_blank">wsj.com</a> (2025-12-12 23:18:53)</span>
+<span style="padding-right:50px;">This $60 Million Oceanfront Estate Is One Of South Florida’s Priciest <a href="https://bsky.app/profile/forbes.com/post/3m7sdhxuauc2f" target="_blank">forbes.com</a> (2025-12-12 23:48:47)</span><span style="padding-right:50px;">5 ChatGPT Prompts To Eliminate Busywork And Maximize Creative Output <a href="https://bsky.app/profile/forbes.com/post/3m7sdhf7ebk2f" target="_blank">forbes.com</a> (2025-12-12 23:48:27)</span><span style="padding-right:50px;">4 Skills You Can Build In December That Will Raise Your 2026 Salary www.forbes.com/sites/shodew... (Photo: Getty Images) <a href="https://bsky.app/profile/forbes.com/post/3m7sdfi4ph22f" target="_blank">forbes.com</a> (2025-12-12 23:47:23)</span><span style="padding-right:50px;">‘It May Be Worse’—No Fix For ‘New Threat’ To Google Chrome Users <a href="https://bsky.app/profile/forbes.com/post/3m7sdeokitc2f" target="_blank">forbes.com</a> (2025-12-12 23:46:57)</span><span style="padding-right:50px;">UK sanctions RSF commander linked by BBC Verify to Sudan massacre <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7sdelfbte27" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-12 23:46:53)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48780.46 (🔺65.71 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23593.86 (🔺84.64 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 181.12 (🔻0.13 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 156.01 (🔺0.48 : 2025-12-12)</span>
+<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48830.61 (🔺115.86 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23448.51 (🔻40.36 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 180.64 (🔻0.62 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.90 (🔺0.36 : 2025-12-12)</span>
   </div>
 </div>
 
@@ -32,99 +32,96 @@
 
 ## News Headlines
 
-Here are the six selected headlines in Japanese:
+Here are six important stories with headlines in Japanese:
 
-1. 100,000人以上が避難命令　ワシントン州に大雨が続く
-2. 米大統領令　AI制限の州法を無効にする
-3. 広島市で火事　5階から黒煙が上がる
-4. 米大統領令　HDDの販売につながる中国の特需が急増
-5. Redditがアドレス制限の法律を異議を唱える
-6. イランがノーベル平和賞受賞者を拘束
+1. ＃1億ドル級の海岸線別荘　フロリダ州で最も高価な不動産
+2. グーグルChromeの新たな脅威　修正は見る影も無し
+3. サムスン、緊急アップデート　数百万のユーザーに影響
+4. イギリス、サウダン虐殺事件に関与したRSF司令官に制裁
+5. ワシントン州、100万人以上強制退去　大雨による被害が広がる
+6. イランのノーベル賞受賞者　人権弁護士が逮捕される
 
 ----
 
-@npr.org
+@forbes.com
 
-You won't arrive on time and may not even get a seat. Your booking might get lost. Things have gotten so dire that a foreigner has been brought in to shake things up. n.pr/48NZ9e5
+This $60 Million Oceanfront Estate Is One Of South Florida’s Priciest
 
-[2025-12-12 23:25:29](https://bsky.app/profile/npr.org/post/3m7sc6cbzfe2e)
-
----
-
-@reuters.com
-
-Italy plans levy on parcels from outside EU, higher taxes on financial transactions reut.rs/3KMIqjx
-
-[2025-12-12 23:25:08](https://bsky.app/profile/reuters.com/post/3m7sc5otgb62s)
-
----
-
-@nytimes.com
-
-President Trump has overseen an aggressive foreign policy, including harsh words about Europe and a lethal military campaign in the Caribbean. On “The Daily,” our reporter unpacks the White House’s new national security strategy, which lays bare Trump's foreign policy goals.
-
-[2025-12-12 23:25:05](https://bsky.app/profile/nytimes.com/post/3m7sc5m5nph2z)
-
----
-
-@nbcnews.com
-
-About 100,000 people have been asked to evacuate their homes in Washington as a series of atmospheric river storms drenched the state this week.
-
-[2025-12-12 23:20:08](https://bsky.app/profile/nbcnews.com/post/3m7sbuqbyov2n)
-
----
-
-@wsj.com
-
-President Trump signs an executive order that would override state laws deemed restrictive of artificial intelligence. “We have to be unified,” Trump said.
-
-[2025-12-12 23:18:53](https://bsky.app/profile/wsj.com/post/3m7sbsit3ts2t)
-
----
-
-@reuters.com
-
-UK's Aberdeen to acquire $2 billion of US closed-end assets reut.rs/4pAjhry
-
-[2025-12-12 23:15:14](https://bsky.app/profile/reuters.com/post/3m7sblyemph2r)
-
----
-
-@reuters.com
-
-🎯 Arrows fly at Ally Pally as Luke Littler defends his crown
-⛷️ Lindsey Vonn eyes Olympic history in St Moritz
-🥊 Muaythai meets politics at the SEA Games in Thailand
- 
-Here’s your Inside Track to the weekend in sport reut.rs/4rOX0rz
-
-[2025-12-12 23:13:43](https://bsky.app/profile/reuters.com/post/3m7sbjbbzd22o)
-
----
-
-@cnn.com
-
-Federal judge temporarily blocks the Trump administration from detaining Kilmar Abrego Garcia again.
-https://cnn.it/4aScBjI
-
-[2025-12-12 23:13:09](https://bsky.app/profile/cnn.com/post/3m7sbiapuyk2b)
-
----
-
-@reuters.com
-
-UK's WH Smith delays results again over audit review reut.rs/48OlCrH
-
-[2025-12-12 23:10:24](https://bsky.app/profile/reuters.com/post/3m7sbddqvrn2y)
+[2025-12-12 23:48:47](https://bsky.app/profile/forbes.com/post/3m7sdhxuauc2f)
 
 ---
 
 @forbes.com
 
-Auroral activity is expected to calm through the weekend.
+5 ChatGPT Prompts To Eliminate Busywork And Maximize Creative Output
 
-[2025-12-12 23:10:08](https://bsky.app/profile/forbes.com/post/3m7sbcu7iyw2o)
+[2025-12-12 23:48:27](https://bsky.app/profile/forbes.com/post/3m7sdhf7ebk2f)
+
+---
+
+@forbes.com
+
+4 Skills You Can Build In December That Will Raise Your 2026 Salary
+www.forbes.com/sites/shodew... (Photo: Getty Images)
+
+[2025-12-12 23:47:23](https://bsky.app/profile/forbes.com/post/3m7sdfi4ph22f)
+
+---
+
+@forbes.com
+
+‘It May Be Worse’—No Fix For ‘New Threat’ To Google Chrome Users
+
+[2025-12-12 23:46:57](https://bsky.app/profile/forbes.com/post/3m7sdeokitc2f)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+UK sanctions RSF commander linked by BBC Verify to Sudan massacre
+
+[2025-12-12 23:46:53](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7sdelfbte27)
+
+---
+
+@forbes.com
+
+19 Employers Hiring For Work-From-Anywhere Jobs And How To Find Them
+
+[2025-12-12 23:46:42](https://bsky.app/profile/forbes.com/post/3m7sdeagzks2f)
+
+---
+
+@forbes.com
+
+Apple iOS 26.2 Release Date—Critical Update For 1 Billion iPhones
+www.forbes.com/sites/zakdof... (Photo: Getty Images)
+
+[2025-12-12 23:45:49](https://bsky.app/profile/forbes.com/post/3m7sdcofngc2f)
+
+---
+
+@reuters.com
+
+China to ease import and export rules on certain lithium thionyl chloride batteries from 2026 reut.rs/3MVeC4M
+
+[2025-12-12 23:45:17](https://bsky.app/profile/reuters.com/post/3m7sdbq2guq2b)
+
+---
+
+@forbes.com
+
+Samsung Surprises Millions Of Galaxy Users With Emergency Update
+
+[2025-12-12 23:45:12](https://bsky.app/profile/forbes.com/post/3m7sdbl25g22f)
+
+---
+
+@forbes.com
+
+How To Use Forbes’ Top 100 Charities List To Evaluate Any Charity
+
+[2025-12-12 23:44:55](https://bsky.app/profile/forbes.com/post/3m7sdb2hntc2f)
 
 ---
 
