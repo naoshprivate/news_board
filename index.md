@@ -1,9 +1,9 @@
-# [2025-12-13 07:10 updated](2025_12_13.md)
+# [2025-12-13 07:30 updated](2025_12_13.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The Trump administration blessed plans to launch five new cryptocurrency-focused national banks. <a href="https://bsky.app/profile/wsj.com/post/3m7t437kyzo2t" target="_blank">wsj.com</a> (2025-12-13 07:09:02)</span><span style="padding-right:50px;">トランプ米大統領は来年５月に任期が切れる連邦準備理事会（ＦＲＢ）のパウエル議長の後任に、ケビン・ウォーシュ元ＦＲＢ理事か米国家経済会議（ＮＥＣ）のケビン・ハセット委員長を起用する方向で検討している。米紙ウォール・ストリート・ジャーナル（ＷＳＪ）が１２日、報じた。 bit.ly/3YmkS8e <a href="https://bsky.app/profile/japan.reuters.com/post/3m7t4352bbr26" target="_blank">japan.reuters.com</a> (2025-12-13 07:09:00)</span><span style="padding-right:50px;">The Trump administration ordered the National Park Service to pull merchandise related to DEI from its gift shops. The Interior Department said the move is meant to ensure items “do not promote specific viewpoints.” <a href="https://bsky.app/profile/nytimes.com/post/3m7t42aged627" target="_blank">nytimes.com</a> (2025-12-13 07:08:30)</span><span style="padding-right:50px;">US regulator grants crypto firms initial approval to launch trust banks reut.rs/4rV3e9b <a href="https://bsky.app/profile/reuters.com/post/3m7t3uavyvz2r" target="_blank">reuters.com</a> (2025-12-13 07:05:09)</span><span style="padding-right:50px;">Hassett Fed chair odds fall, Warsh chances surge on Kalshi after Trump comments <a href="https://bsky.app/profile/cnbc.com/post/3m7t3snlzp32d" target="_blank">cnbc.com</a> (2025-12-13 07:04:15)</span>
+<span style="padding-right:50px;">In American high schools, many teenagers are assigned few full books to read from beginning to end — often just one or two per year, according to researchers and thousands of responses to an informal reader survey by The New York Times. trib.al/gNp7kWK <a href="https://bsky.app/profile/nytimes.com/post/3m7t54yr4z22z" target="_blank">nytimes.com</a> (2025-12-13 07:27:56)</span><span style="padding-right:50px;">A U.S. special operations team boarded a ship in the Indian Ocean last month and seized military-related articles headed to Iran from China, U.S. officials said, an operation at sea aimed at blocking Tehran from rebuilding its military arsenal.  on.wsj.com/3MryVqB <a href="https://bsky.app/profile/wsj.com/post/3m7t4zueo2o2u" target="_blank">wsj.com</a> (2025-12-13 07:26:11)</span><span style="padding-right:50px;">Alzheimer's drug hunt learns from cancer fight's multi-target playbook reut.rs/48LBHy9 <a href="https://bsky.app/profile/reuters.com/post/3m7t4yd5dqn2i" target="_blank">reuters.com</a> (2025-12-13 07:25:19)</span><span style="padding-right:50px;">Indiana Republicans resisted the call by President Trump for redistricting. He and the state's Republican governor threatened to back primary challenges against senators who wouldn't get on board. n.pr/4aTbq3w <a href="https://bsky.app/profile/npr.org/post/3m7t4t4che32m" target="_blank">npr.org</a> (2025-12-13 07:22:24)</span><span style="padding-right:50px;">Police are investigating an acid attack in Georgia where a woman was left with chemical burns, officials say. <a href="https://bsky.app/profile/nbcnews.com/post/3m7t4p35x242r" target="_blank">nbcnews.com</a> (2025-12-13 07:20:09)</span>
   </div>
 </div>
 
@@ -32,96 +32,96 @@
 
 ## News Headlines
 
-1. トランプ政権が新型コインベースの国庫銀行を計画
-2. トランプ政権がDEI関連商品を国立公園の売店から撤去
-3. 米国で国民が高額なH-1ビザの手数料に反対する訴訟が始まる
-4. 米国株式市場が下落、AI関連企業のバブルの懸念が高まる
-5. 米サンフランシスコ地区連銀の総裁がFRBの利下げに支持
-6. 米国がルワンダをUNに戦争の指導者と非難
+1. アメリカの高校生、読む本が少なくなっています。
+2. 米軍、インド洋で中国からイランへ輸送されていた軍事物資を拿捕
+3. アルツハイマー病の新薬開発、がんの戦略を学ぶ
+4. インディアナ州共和党員、トランプ大統領の意向に反発
+5. ジョージアで女性に酸を浴びせた容疑の男を警察が捜査
+6. 中国のサイバー攻撃、米議員が警告
 
 ----
 
-@wsj.com
-
-The Trump administration blessed plans to launch five new cryptocurrency-focused national banks.
-
-[2025-12-13 07:09:02](https://bsky.app/profile/wsj.com/post/3m7t437kyzo2t)
-
----
-
-@japan.reuters.com
-
-トランプ米大統領は来年５月に任期が切れる連邦準備理事会（ＦＲＢ）のパウエル議長の後任に、ケビン・ウォーシュ元ＦＲＢ理事か米国家経済会議（ＮＥＣ）のケビン・ハセット委員長を起用する方向で検討している。米紙ウォール・ストリート・ジャーナル（ＷＳＪ）が１２日、報じた。 bit.ly/3YmkS8e
-
-[2025-12-13 07:09:00](https://bsky.app/profile/japan.reuters.com/post/3m7t4352bbr26)
-
----
-
 @nytimes.com
 
-The Trump administration ordered the National Park Service to pull merchandise related to DEI from its gift shops. The Interior Department said the move is meant to ensure items “do not promote specific viewpoints.”
+In American high schools, many teenagers are assigned few full books to read from beginning to end — often just one or two per year, according to researchers and thousands of responses to an informal reader survey by The New York Times. trib.al/gNp7kWK
 
-[2025-12-13 07:08:30](https://bsky.app/profile/nytimes.com/post/3m7t42aged627)
+[2025-12-13 07:27:56](https://bsky.app/profile/nytimes.com/post/3m7t54yr4z22z)
+
+---
+
+@wsj.com
+
+A U.S. special operations team boarded a ship in the Indian Ocean last month and seized military-related articles headed to Iran from China, U.S. officials said, an operation at sea aimed at blocking Tehran from rebuilding its military arsenal.
+
+on.wsj.com/3MryVqB
+
+[2025-12-13 07:26:11](https://bsky.app/profile/wsj.com/post/3m7t4zueo2o2u)
 
 ---
 
 @reuters.com
 
-US regulator grants crypto firms initial approval to launch trust banks reut.rs/4rV3e9b
+Alzheimer's drug hunt learns from cancer fight's multi-target playbook reut.rs/48LBHy9
 
-[2025-12-13 07:05:09](https://bsky.app/profile/reuters.com/post/3m7t3uavyvz2r)
-
----
-
-@cnbc.com
-
-Hassett Fed chair odds fall, Warsh chances surge on Kalshi after Trump comments
-
-[2025-12-13 07:04:15](https://bsky.app/profile/cnbc.com/post/3m7t3snlzp32d)
+[2025-12-13 07:25:19](https://bsky.app/profile/reuters.com/post/3m7t4yd5dqn2i)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@npr.org
 
-スピードスケート W杯第4戦 女子1500m 高木美帆が今季初優勝
-https://news.web.nhk/newsweb/na/na-k10015002951000
+Indiana Republicans resisted the call by President Trump for redistricting. He and the state's Republican governor threatened to back primary challenges against senators who wouldn't get on board. n.pr/4aTbq3w
 
-[2025-12-13 07:03:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7t3qpcosi22)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【動画】Pickup NEWS（12月13日）
-https://news.web.nhk/newsweb/na/na-k10015002501000
-
-[2025-12-13 07:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7t3qkchx22b)
+[2025-12-13 07:22:24](https://bsky.app/profile/npr.org/post/3m7t4t4che32m)
 
 ---
 
-@yahoonews.com
+@nbcnews.com
 
-See which staffers in Trump's White House quietly earn up to $225,700, including top advisors and counsel, as revealed in the latest salary report. yhoo.it/4j0evRI
+Police are investigating an acid attack in Georgia where a woman was left with chemical burns, officials say.
 
-[2025-12-13 07:01:16](https://bsky.app/profile/yahoonews.com/post/3m7t3ncoivt2r)
+[2025-12-13 07:20:09](https://bsky.app/profile/nbcnews.com/post/3m7t4p35x242r)
+
+---
+
+@cbsnews.com
+
+Face the Nation interview: María Corina Machado says she will welcome the U.S. putting "more and more pressure" on Venezuela's Maduro.
+
+[2025-12-13 07:20:00](https://bsky.app/profile/cbsnews.com/post/3m7t4oswpeh2b)
+
+---
+
+@financialtimes.com
+
+US has failed to stop massive Chinese cyber campaign, warns senator on.ft.com/4pBw90D
+
+[2025-12-13 07:19:09](https://bsky.app/profile/financialtimes.com/post/3m7t4ncaxej2y)
 
 ---
 
 @reuters.com
 
-Ex-Michigan coach Sherrone Moore expected to be arraigned Friday reut.rs/4iXb4ez
+EIB to boost lending for EU defence projects in 2026 reut.rs/48CskSN
 
-[2025-12-13 07:01:13](https://bsky.app/profile/reuters.com/post/3m7t3nal7ej2b)
+[2025-12-13 07:15:26](https://bsky.app/profile/reuters.com/post/3m7t4gniuqc2r)
 
 ---
 
-@cnn.com
+@en.afp.com
 
-A coalition of blue states is suing the Trump administration over its fee of $100,000 for H-1B Visas, several Democratic AGs announced.
+Britain's King Charles III, who has broken royal taboos to talk openly about battling cancer, has revealed the "good news" that his treatment will be pared back next year.
 
-California AG Rob Bonta, joined by Andrea Joy Campbell of Massachusetts and Letitia James of New York, and others, is leading the suit. https://cnn.it/3MAcHmb
+u.afp.com/S76K
 
-[2025-12-13 07:01:02](https://bsky.app/profile/cnn.com/post/3m7t3mvkrog2b)
+[2025-12-13 07:15:02](https://bsky.app/profile/en.afp.com/post/3m7t4fwprrj2y)
+
+---
+
+@reuters.com
+
+Thousands strike and march in Italy against Meloni's budget reut.rs/48Mljxl
+
+[2025-12-13 07:10:25](https://bsky.app/profile/reuters.com/post/3m7t45osqjw2i)
 
 ---
 
