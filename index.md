@@ -1,9 +1,9 @@
-# [2025-12-13 07:30 updated](2025_12_13.md)
+# [2025-12-13 07:50 updated](2025_12_13.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">In American high schools, many teenagers are assigned few full books to read from beginning to end — often just one or two per year, according to researchers and thousands of responses to an informal reader survey by The New York Times. trib.al/gNp7kWK <a href="https://bsky.app/profile/nytimes.com/post/3m7t54yr4z22z" target="_blank">nytimes.com</a> (2025-12-13 07:27:56)</span><span style="padding-right:50px;">A U.S. special operations team boarded a ship in the Indian Ocean last month and seized military-related articles headed to Iran from China, U.S. officials said, an operation at sea aimed at blocking Tehran from rebuilding its military arsenal.  on.wsj.com/3MryVqB <a href="https://bsky.app/profile/wsj.com/post/3m7t4zueo2o2u" target="_blank">wsj.com</a> (2025-12-13 07:26:11)</span><span style="padding-right:50px;">Alzheimer's drug hunt learns from cancer fight's multi-target playbook reut.rs/48LBHy9 <a href="https://bsky.app/profile/reuters.com/post/3m7t4yd5dqn2i" target="_blank">reuters.com</a> (2025-12-13 07:25:19)</span><span style="padding-right:50px;">Indiana Republicans resisted the call by President Trump for redistricting. He and the state's Republican governor threatened to back primary challenges against senators who wouldn't get on board. n.pr/4aTbq3w <a href="https://bsky.app/profile/npr.org/post/3m7t4t4che32m" target="_blank">npr.org</a> (2025-12-13 07:22:24)</span><span style="padding-right:50px;">Police are investigating an acid attack in Georgia where a woman was left with chemical burns, officials say. <a href="https://bsky.app/profile/nbcnews.com/post/3m7t4p35x242r" target="_blank">nbcnews.com</a> (2025-12-13 07:20:09)</span>
+<span style="padding-right:50px;">軍事侵攻続くウクライナからの声 キーウから来日し詩を披露 https://news.web.nhk/newsweb/na/na-k10015002871000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7t6aytmez2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-13 07:48:02)</span><span style="padding-right:50px;">JBS to close California beef plant reut.rs/44oxlvA <a href="https://bsky.app/profile/reuters.com/post/3m7t64465m62i" target="_blank">reuters.com</a> (2025-12-13 07:45:20)</span><span style="padding-right:50px;">Hundreds of storks found dead near Madrid amid wider bird flu surge reut.rs/4puCjPX <a href="https://bsky.app/profile/reuters.com/post/3m7t5tdojyj2o" target="_blank">reuters.com</a> (2025-12-13 07:40:26)</span><span style="padding-right:50px;">Under the previously undisclosed program, TSA provides a list to ICE of travelers who will be coming through airports. ICE can then match the list against its own database of people subject to deportation and send agents to the airport to detain those people. nyti.ms/4oUnl4J <a href="https://bsky.app/profile/nytimes.com/post/3m7t5sqzvkv25" target="_blank">nytimes.com</a> (2025-12-13 07:40:06)</span><span style="padding-right:50px;">Machado's trip to Oslo was long, dangerous, but she says she plans to return to Venezuela "as soon as possible." <a href="https://bsky.app/profile/cbsnews.com/post/3m7t5slxwz62g" target="_blank">cbsnews.com</a> (2025-12-13 07:40:01)</span>
   </div>
 </div>
 
@@ -32,96 +32,95 @@
 
 ## News Headlines
 
-1. アメリカの高校生、読む本が少なくなっています。
-2. 米軍、インド洋で中国からイランへ輸送されていた軍事物資を拿捕
-3. アルツハイマー病の新薬開発、がんの戦略を学ぶ
-4. インディアナ州共和党員、トランプ大統領の意向に反発
-5. ジョージアで女性に酸を浴びせた容疑の男を警察が捜査
-6. 中国のサイバー攻撃、米議員が警告
+1. ドルが円など主要通貨に対し上昇
+2. ウクライナからの声 キーウから来日し詩を披露
+3. 米国株式市場が下落
+4. スピードスケートW杯第4戦　高木美帆が今季初優勝
+5. Redditがオーストラリアを訴え　子供向けのソーシャルメディア利用禁止
+6. 加州州内でビール製造工場が閉鎖
 
 ----
 
-@nytimes.com
+@nhknewsunofficial.bsky.social
 
-In American high schools, many teenagers are assigned few full books to read from beginning to end — often just one or two per year, according to researchers and thousands of responses to an informal reader survey by The New York Times. trib.al/gNp7kWK
+軍事侵攻続くウクライナからの声 キーウから来日し詩を披露
+https://news.web.nhk/newsweb/na/na-k10015002871000
 
-[2025-12-13 07:27:56](https://bsky.app/profile/nytimes.com/post/3m7t54yr4z22z)
-
----
-
-@wsj.com
-
-A U.S. special operations team boarded a ship in the Indian Ocean last month and seized military-related articles headed to Iran from China, U.S. officials said, an operation at sea aimed at blocking Tehran from rebuilding its military arsenal.
-
-on.wsj.com/3MryVqB
-
-[2025-12-13 07:26:11](https://bsky.app/profile/wsj.com/post/3m7t4zueo2o2u)
+[2025-12-13 07:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7t6aytmez2s)
 
 ---
 
 @reuters.com
 
-Alzheimer's drug hunt learns from cancer fight's multi-target playbook reut.rs/48LBHy9
+JBS to close California beef plant reut.rs/44oxlvA
 
-[2025-12-13 07:25:19](https://bsky.app/profile/reuters.com/post/3m7t4yd5dqn2i)
-
----
-
-@npr.org
-
-Indiana Republicans resisted the call by President Trump for redistricting. He and the state's Republican governor threatened to back primary challenges against senators who wouldn't get on board. n.pr/4aTbq3w
-
-[2025-12-13 07:22:24](https://bsky.app/profile/npr.org/post/3m7t4t4che32m)
+[2025-12-13 07:45:20](https://bsky.app/profile/reuters.com/post/3m7t64465m62i)
 
 ---
 
-@nbcnews.com
+@reuters.com
 
-Police are investigating an acid attack in Georgia where a woman was left with chemical burns, officials say.
+Hundreds of storks found dead near Madrid amid wider bird flu surge reut.rs/4puCjPX
 
-[2025-12-13 07:20:09](https://bsky.app/profile/nbcnews.com/post/3m7t4p35x242r)
+[2025-12-13 07:40:26](https://bsky.app/profile/reuters.com/post/3m7t5tdojyj2o)
+
+---
+
+@nytimes.com
+
+Under the previously undisclosed program, TSA provides a list to ICE of travelers who will be coming through airports. ICE can then match the list against its own database of people subject to deportation and send agents to the airport to detain those people. nyti.ms/4oUnl4J
+
+[2025-12-13 07:40:06](https://bsky.app/profile/nytimes.com/post/3m7t5sqzvkv25)
 
 ---
 
 @cbsnews.com
 
-Face the Nation interview: María Corina Machado says she will welcome the U.S. putting "more and more pressure" on Venezuela's Maduro.
+Machado's trip to Oslo was long, dangerous, but she says she plans to return to Venezuela "as soon as possible."
 
-[2025-12-13 07:20:00](https://bsky.app/profile/cbsnews.com/post/3m7t4oswpeh2b)
-
----
-
-@financialtimes.com
-
-US has failed to stop massive Chinese cyber campaign, warns senator on.ft.com/4pBw90D
-
-[2025-12-13 07:19:09](https://bsky.app/profile/financialtimes.com/post/3m7t4ncaxej2y)
+[2025-12-13 07:40:01](https://bsky.app/profile/cbsnews.com/post/3m7t5slxwz62g)
 
 ---
 
 @reuters.com
 
-EIB to boost lending for EU defence projects in 2026 reut.rs/48CskSN
+Google faces $129 million French asset freeze after Russian ruling, documents show reut.rs/4pFLKfu
 
-[2025-12-13 07:15:26](https://bsky.app/profile/reuters.com/post/3m7t4gniuqc2r)
-
----
-
-@en.afp.com
-
-Britain's King Charles III, who has broken royal taboos to talk openly about battling cancer, has revealed the "good news" that his treatment will be pared back next year.
-
-u.afp.com/S76K
-
-[2025-12-13 07:15:02](https://bsky.app/profile/en.afp.com/post/3m7t4fwprrj2y)
+[2025-12-13 07:35:12](https://bsky.app/profile/reuters.com/post/3m7t5jyok7j2o)
 
 ---
 
-@reuters.com
+@wsj.com
 
-Thousands strike and march in Italy against Meloni's budget reut.rs/48Mljxl
+In a letter sent Friday to Commerce Secretary Howard Lutnick, seven Democratic senators criticized the administration’s authorization of Nvidia’s H200 chip for sale in China 
 
-[2025-12-13 07:10:25](https://bsky.app/profile/reuters.com/post/3m7t45osqjw2i)
+on.wsj.com/4q60XGw
+
+[2025-12-13 07:34:51](https://bsky.app/profile/wsj.com/post/3m7t5jen4ns2c)
+
+---
+
+@japan.reuters.com
+
+＜為替＞　方向感のない取引の中、ドルが円などの主要通貨に対し上昇した。来年の米連邦準備理事会（ＦＲＢ）による利下げ観測を背景にドルはここ数日下落基調にあり、週間ベースでは３週連続で下落した。 bit.ly/3KILtJy
+
+[2025-12-13 07:32:10](https://bsky.app/profile/japan.reuters.com/post/3m7t5ekxu3k2q)
+
+---
+
+@usatoday.com
+
+The Disney+ docuseries captures two phone conversations that show how the couple stays connected during the tour.
+
+[2025-12-13 07:30:46](https://bsky.app/profile/usatoday.com/post/3m7t5c36bjh25)
+
+---
+
+@bloomberg.com
+
+Here's what to know about the Trump Gold Card, and golden visas in general
+
+[2025-12-13 07:30:14](https://bsky.app/profile/bloomberg.com/post/3m7t5b45spm2h)
 
 ---
 
