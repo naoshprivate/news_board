@@ -1,9 +1,9 @@
-# [2025-12-13 05:30 updated](2025_12_13.md)
+# [2025-12-13 05:50 updated](2025_12_13.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">ロンドン株式市場はまちまちで取引を終えた。ＦＴＳＥ１００種は反落。一方、国内志向の強い中型株で構成するＦＴＳＥ２５０種指数は０．１１％上昇した。週間ベースではＦＴＳＥ１００は０．１９％、ＦＴＳＥ２５０は０．８５％それぞれ続落した。 bit.ly/49dUq5Z <a href="https://bsky.app/profile/japan.reuters.com/post/3m7swdgcr5n2n" target="_blank">japan.reuters.com</a> (2025-12-13 05:26:15)</span><span style="padding-right:50px;">Netflix’s $72 billion Warner Bros deal faces skepticism over YouTube rivalry claim reut.rs/4aM0OU8 <a href="https://bsky.app/profile/reuters.com/post/3m7swbirzxj24" target="_blank">reuters.com</a> (2025-12-13 05:25:11)</span><span style="padding-right:50px;">BREAKING: King Charles III says his cancer treatment will be reduced in the new year, "thanks to early diagnosis." <a href="https://bsky.app/profile/apnews.com/post/3m7sw7hm3fk2k" target="_blank">apnews.com</a> (2025-12-13 05:24:03)</span><span style="padding-right:50px;">ウクライナ南部オデーサ州の港湾２カ所で１２日、ロシアが攻撃を実施し、食料を積んだ船を含むトルコ所有の船舶３隻が損傷したことが分かった。ウクライナ当局者などが明らかにした。 bit.ly/3MDlO5t <a href="https://bsky.app/profile/japan.reuters.com/post/3m7svz3iquw27" target="_blank">japan.reuters.com</a> (2025-12-13 05:20:29)</span><span style="padding-right:50px;">Aggressive tactics employed by President Trump and his allies did not sit well with state lawmakers, who delivered a major political blow to national Republicans ahead of the midterms. <a href="https://bsky.app/profile/nbcnews.com/post/3m7svyk5ftz24" target="_blank">nbcnews.com</a> (2025-12-13 05:20:10)</span>
+<span style="padding-right:50px;">President Trump tells WSJ he is leaning toward either Kevin Warsh or Kevin Hassett to lead the Fed, and that the next chair should consult with him on interest rates on.wsj.com/48zQuxb <a href="https://bsky.app/profile/wsj.com/post/3m7sxmfriej2g" target="_blank">wsj.com</a> (2025-12-13 05:49:10)</span><span style="padding-right:50px;">農水省 森林取得の届け出で国籍などの記載求める仕組み導入へ https://news.web.nhk/newsweb/na/na-k10015002901000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7sxkgqvv42x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-13 05:48:02)</span><span style="padding-right:50px;">Thailand and Cambodia agree to halt fighting, Trump says <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7sxiwhqms27" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-13 05:47:13)</span><span style="padding-right:50px;">米フィラデルフィア地区連銀のポールソン総裁は１２日、労働市場を巡る状況が現時点で主要な懸念事項となっているとし、物価情勢については、連邦準備理事会（ＦＲＢ）の現行政策でインフレ率を目標水準に引き下げることができるとの考えを示した。 bit.ly/4rSOpUF <a href="https://bsky.app/profile/japan.reuters.com/post/3m7sxfhvbdx22" target="_blank">japan.reuters.com</a> (2025-12-13 05:45:18)</span><span style="padding-right:50px;">US FAA to review Boeing cockpit alerting system for MAX 10 reut.rs/4rUzfOG <a href="https://bsky.app/profile/reuters.com/post/3m7sxfgg3g62c" target="_blank">reuters.com</a> (2025-12-13 05:45:16)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48446.23 (🔻268.52 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23198.18 (🔻290.69 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.96 (🔻5.30 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.82 (🔺0.29 : 2025-12-12)</span>
+<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48465.01 (🔻249.74 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23191.07 (🔻297.80 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.14 (🔻6.12 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.86 (🔺0.32 : 2025-12-12)</span>
   </div>
 </div>
 
@@ -32,93 +32,98 @@
 
 ## News Headlines
 
-1. ロンドン株式市場が反落で終える
-2. ウクライナ南部の港湾でロシアの攻撃　トルコ船3隻損傷
-3. トルコ大統領がプーチンと中央アジアのトルクメニスタンで会談
-4. ブリティッシュキングチャールズ氏が癌治療を縮める
-5. エピスタイン邸でトランプ氏とクリントン氏の写真が公開
-6. ホンダが国内で「逆輸入」拡大検討
+1. 
+  「トランプ大統領「フェデールの次期委員長」にワーズ、ハセットのいずれかを検討中」
+  「農水省 森林取得の届け出で国籍などの記載求める仕組み導入へ」
+  「米フィラデルフィア地区連銀総裁「労働市場の状況が大きな懸念事項」」
+  「米連邦航空局がボーイングMAX10のコックピット警告システムを検討」
+  「ドナルド・トランプ大統領とビル・クリントン元大統領がエピスタインの遺産から出た写真が公開」
+  「能登半島地震 輪島のビル倒壊は複合的要因」
 
 ----
 
-@japan.reuters.com
+@wsj.com
 
-ロンドン株式市場はまちまちで取引を終えた。ＦＴＳＥ１００種は反落。一方、国内志向の強い中型株で構成するＦＴＳＥ２５０種指数は０．１１％上昇した。週間ベースではＦＴＳＥ１００は０．１９％、ＦＴＳＥ２５０は０．８５％それぞれ続落した。 bit.ly/49dUq5Z
+President Trump tells WSJ he is leaning toward either Kevin Warsh or Kevin Hassett to lead the Fed, and that the next chair should consult with him on interest rates
+on.wsj.com/48zQuxb
 
-[2025-12-13 05:26:15](https://bsky.app/profile/japan.reuters.com/post/3m7swdgcr5n2n)
-
----
-
-@reuters.com
-
-Netflix’s $72 billion Warner Bros deal faces skepticism over YouTube rivalry claim reut.rs/4aM0OU8
-
-[2025-12-13 05:25:11](https://bsky.app/profile/reuters.com/post/3m7swbirzxj24)
-
----
-
-@apnews.com
-
-<strong><span style="color: red;">BREAKING:</span> King Charles III says his cancer treatment will be reduced in the new year, "thanks to early diagnosis."</strong>
-
-[2025-12-13 05:24:03](https://bsky.app/profile/apnews.com/post/3m7sw7hm3fk2k)
-
----
-
-@japan.reuters.com
-
-ウクライナ南部オデーサ州の港湾２カ所で１２日、ロシアが攻撃を実施し、食料を積んだ船を含むトルコ所有の船舶３隻が損傷したことが分かった。ウクライナ当局者などが明らかにした。 bit.ly/3MDlO5t
-
-[2025-12-13 05:20:29](https://bsky.app/profile/japan.reuters.com/post/3m7svz3iquw27)
-
----
-
-@nbcnews.com
-
-Aggressive tactics employed by President Trump and his allies did not sit well with state lawmakers, who delivered a major political blow to national Republicans ahead of the midterms.
-
-[2025-12-13 05:20:10](https://bsky.app/profile/nbcnews.com/post/3m7svyk5ftz24)
-
----
-
-@japan.reuters.com
-
-トルコのエルドアン大統領は１２日、ロシアのプーチン大統領と中央アジアのトルクメニスタンで会談し、ウクライナ・ロシア戦争において、特にエネルギー施設や港湾を対象とした限定的な停戦が有益となる可能性があるとの考えを伝えた。トルコ大統領府が明らかにした。 bit.ly/3MJ0n2Z
-
-[2025-12-13 05:15:22](https://bsky.app/profile/japan.reuters.com/post/3m7svpx23dy2c)
-
----
-
-@cnn.com
-
-Britain's King Charles reveals his cancer treatment can be reduced in the new year, marking a milestone in his recovery https://cnn.it/3MyxyGE
-
-[2025-12-13 05:15:19](https://bsky.app/profile/cnn.com/post/3m7svpuqy342v)
-
----
-
-@reuters.com
-
-Trump, Clinton appear in newly released photos from Epstein estate reut.rs/4qc3P4R
-
-[2025-12-13 05:15:19](https://bsky.app/profile/reuters.com/post/3m7svpusyxb2i)
+[2025-12-13 05:49:10](https://bsky.app/profile/wsj.com/post/3m7sxmfriej2g)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-ホンダ 「逆輸入」の拡大検討 車種選定に向け国内で需要調査へ
-https://news.web.nhk/newsweb/na/na-k10015002661000
+農水省 森林取得の届け出で国籍などの記載求める仕組み導入へ
+https://news.web.nhk/newsweb/na/na-k10015002901000
 
-[2025-12-13 05:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7svpgdjr42b)
+[2025-12-13 05:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7sxkgqvv42x)
 
 ---
 
-@wsj.com
+@bbcnews-world-rss.bsky.social
 
-The Soviet director used brilliantly innovative techniques of photography and editing to tell the story of a naval uprising in this landmark silent film. on.wsj.com/4aJ91Zd
+Thailand and Cambodia agree to halt fighting, Trump says
 
-[2025-12-13 05:10:22](https://bsky.app/profile/wsj.com/post/3m7svgz6xd72c)
+[2025-12-13 05:47:13](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7sxiwhqms27)
+
+---
+
+@japan.reuters.com
+
+米フィラデルフィア地区連銀のポールソン総裁は１２日、労働市場を巡る状況が現時点で主要な懸念事項となっているとし、物価情勢については、連邦準備理事会（ＦＲＢ）の現行政策でインフレ率を目標水準に引き下げることができるとの考えを示した。 bit.ly/4rSOpUF
+
+[2025-12-13 05:45:18](https://bsky.app/profile/japan.reuters.com/post/3m7sxfhvbdx22)
+
+---
+
+@reuters.com
+
+US FAA to review Boeing cockpit alerting system for MAX 10 reut.rs/4rUzfOG
+
+[2025-12-13 05:45:16](https://bsky.app/profile/reuters.com/post/3m7sxfgg3g62c)
+
+---
+
+@en.afp.com
+
+Democratic lawmakers released a new cache of photos on Friday from the estate of convicted sex offender Jeffrey Epstein that includes images of US President Donald Trump and former president Bill Clinton.
+
+u.afp.com/S76B
+
+[2025-12-13 05:45:06](https://bsky.app/profile/en.afp.com/post/3m7sxf4te5n2q)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+能登半島地震 輪島のビル倒壊は複合的要因 国の専門家委員会
+https://news.web.nhk/newsweb/na/na-k10015002911000
+
+[2025-12-13 05:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7sxf2mz2b2y)
+
+---
+
+@npr.org
+
+Independent video game Clair Obscur: Expedition 33 swept the Game Awards last night. The L.A. ceremony draws millions of views for its industry honors and exclusive previews of upcoming games. n.pr/3MwaOqI
+
+[2025-12-13 05:44:40](https://bsky.app/profile/npr.org/post/3m7sxedgiuc24)
+
+---
+
+@japan.reuters.com
+
+米金融・債券市場では、米１０年債利回りが上昇した。市場は連邦準備理事会（ＦＲＢ）当局者らの発言や今後の経済見通しを見極めようとしている。 bit.ly/3MwLbpI
+
+[2025-12-13 05:44:22](https://bsky.app/profile/japan.reuters.com/post/3m7sxdso7fr2q)
+
+---
+
+@nytimes.com
+
+The average American eats nearly 14 pounds of yogurt each year, and there is a head-spinning amount of it that can be found in the dairy aisle. To make sense of it all, we tasted 54 plain cow’s milk yogurts. Here are the best: nyti.ms/44eoMn3
+
+[2025-12-13 05:43:03](https://bsky.app/profile/nytimes.com/post/3m7sxbhqlir27)
 
 ---
 
