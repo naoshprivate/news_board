@@ -1,9 +1,9 @@
-# [2025-12-12 09:30 updated](2025_12_12.md)
+# [2025-12-12 09:50 updated](2025_12_12.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Do Kwon: TerraUSD creator sentenced to 15 years in prison over $40bn crash <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7qtfy33q72e" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-12 09:28:40)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】日経平均 一時700円以上値上がり ダウ平均最高値更新などを受け (2025-12-12 09:26:20) #ニュース  📈世界の株価 🔗https://sekai-kabuka.com/ <a href="https://bsky.app/profile/sokuho.news/post/3m7qtftpdvy2b" target="_blank">sokuho.news</a> (2025-12-12 09:28:36)</span><span style="padding-right:50px;">US lawmakers seek tougher safety rules for military helicopters reut.rs/44o3SC4 <a href="https://bsky.app/profile/reuters.com/post/3m7qt7ussax2x" target="_blank">reuters.com</a> (2025-12-12 09:25:16)</span><span style="padding-right:50px;">Tricked, abducted and abused: Inside China's schools for 'rebellious' teens <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7qt7sm4rc2s" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-12 09:25:13)</span><span style="padding-right:50px;">Breaking News: President Trump signed an executive order to neuter state laws placing limits on the A.I. industry. The order is likely to be challenged in court by states and consumer groups on the grounds that only Congress has the authority to override state laws, experts said. <a href="https://bsky.app/profile/nytimes.com/post/3m7qt57cnvw2y" target="_blank">nytimes.com</a> (2025-12-12 09:23:46)</span>
+<span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】秋田内陸線の列車が脱線・転覆 運転手を救出 乗客はのっておらず 警察 (2025年12月12日 09:46) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7quheaz4a2s" target="_blank">sokuho.news</a> (2025-12-12 09:47:20)</span><span style="padding-right:50px;">President Donald Trump has signed an executive order that blocks states from enforcing their own regulations around artificial intelligence and instead aims to create a "single national framework" for AI. https://cnn.it/49chVwf <a href="https://bsky.app/profile/cnn.com/post/3m7quh2ijlp2c" target="_blank">cnn.com</a> (2025-12-12 09:47:10)</span><span style="padding-right:50px;">Apple wins partial reversal of sanctions in Epic Games antitrust lawsuit reut.rs/4aMapub <a href="https://bsky.app/profile/reuters.com/post/3m7qudmkhjk2k" target="_blank">reuters.com</a> (2025-12-12 09:45:15)</span><span style="padding-right:50px;">A federal judge in Massachusetts ruled Thursday that the Trump administration could not unilaterally cancel a FEMA grant program that states used for disaster preparation. <a href="https://bsky.app/profile/nytimes.com/post/3m7quddglvm2v" target="_blank">nytimes.com</a> (2025-12-12 09:45:05)</span><span style="padding-right:50px;">Tashella Sheri Amore Dickerson, the executive director of the Black Lives Matter group in Oklahoma City, faces 25 counts of wire fraud and money laundering based on a federal grand jury indictment, the Justice Department said. <a href="https://bsky.app/profile/washingtonpost.com/post/3m7qudai2e22e" target="_blank">washingtonpost.com</a> (2025-12-12 09:45:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50746.12 (🔺265.89 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48704.01 (🔺621.11 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23593.86 (🔺84.64 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.93 (🔺0.65 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3195.00 (🔺4.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.64 (🔺0.11 : 2025-12-12)</span>
+<span style="padding-right:50px;">NIKKEI: 50965.89 (🔺485.66 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48704.01 (🔺621.11 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23593.86 (🔺84.64 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.93 (🔺0.65 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3199.00 (🔺8.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.63 (🔺0.10 : 2025-12-12)</span>
   </div>
 </div>
 
@@ -32,115 +32,97 @@
 
 ## News Headlines
 
-以下は6つの重要な話題です。
+Here are six important topics with Japanese titles:
 
-1. 「Do Kwon: TerraUSD creator sentenced to 15 years in prison over $40bn crash」
-日本語見出し：「テラUSD創始者ド・クォン、40億ドル崩壊事件で15年刑」
-
-2. 「President Trump signed an executive order to neuter state laws placing limits on the A.I. industry」
-日本語見出し：「トランプ大統領、AI産業規制に影響を与える大統領令に署名」
-
-3. 「Rivian is doubling down on an AI-centric approach to develop fully autonomous vehicles」
-日本語見出し：「リビアン、AI中心のアプローチで完全自動車開発を加速」
-
-4. 「Trump signs executive order for single national AI regulation framework, limiting power of states」
-日本語見出し：「トランプ大統領、AI規制の全国統一フレームワークに署名、州の権力制限」
-
-5. 「Lululemon Athletica CEO to step down in January」
-日本語見出し：「ルルレモン・アスレティカCEO、1月に退任」
-
-6. 「Steelers star LB T.J. Watt hospitalized with lung issue」
-日本語見出し：「スティーラーズのLB T.J. ウォット、肺疾患で病院入院」
+1. 🚨秋田内陸線列車脱線転覆事故（Derailment and overturn of the Akita Inland Line train）
+2. 📊AI規制の統一フレームワーク（Single national framework for AI regulation）
+3. 📈世界の株価（Global stock prices）
+4. 🚨国道8号福井市問屋団地口―米松の北進車線通行止め（Closure of the northbound lane on the national highway 8 in Fukui city）
+5. 📊AI設計者の「今年の人」選出（Selection of AI designers as Person of the Year）
+6. 🏥肺炎のLB T.J. Watt（LB T.J. Watt hospitalized with lung issue）
 
 ----
 
-@bbcnews-world-rss.bsky.social
+@sokuho.news
 
-Do Kwon: TerraUSD creator sentenced to 15 years in prison over $40bn crash
+🔔ANNより【速報】です。
 
-[2025-12-12 09:28:40](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7qtfy33q72e)
+【速報】秋田内陸線の列車が脱線・転覆 運転手を救出 乗客はのっておらず 警察
+(2025年12月12日 09:46) #ニュース
+
+[2025-12-12 09:47:20](https://bsky.app/profile/sokuho.news/post/3m7quheaz4a2s)
 
 ---
 
-@sokuho.news
+@cnn.com
 
-🛎️JNNより【速報】です。
+President Donald Trump has signed an executive order that blocks states from enforcing their own regulations around artificial intelligence and instead aims to create a "single national framework" for AI. https://cnn.it/49chVwf
 
-【速報】日経平均 一時700円以上値上がり ダウ平均最高値更新などを受け
-(2025-12-12 09:26:20) #ニュース
-
-📈世界の株価
-🔗https://sekai-kabuka.com/
-
-[2025-12-12 09:28:36](https://bsky.app/profile/sokuho.news/post/3m7qtftpdvy2b)
+[2025-12-12 09:47:10](https://bsky.app/profile/cnn.com/post/3m7quh2ijlp2c)
 
 ---
 
 @reuters.com
 
-US lawmakers seek tougher safety rules for military helicopters reut.rs/44o3SC4
+Apple wins partial reversal of sanctions in Epic Games antitrust lawsuit reut.rs/4aMapub
 
-[2025-12-12 09:25:16](https://bsky.app/profile/reuters.com/post/3m7qt7ussax2x)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Tricked, abducted and abused: Inside China's schools for 'rebellious' teens
-
-[2025-12-12 09:25:13](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7qt7sm4rc2s)
+[2025-12-12 09:45:15](https://bsky.app/profile/reuters.com/post/3m7qudmkhjk2k)
 
 ---
 
 @nytimes.com
 
-<strong><span style="color: red;">Breaking News</span>: President Trump signed an executive order to neuter state laws placing limits on the A.I. industry. The order is likely to be challenged in court by states and consumer groups on the grounds that only Congress has the authority to override state laws, experts said.</strong>
+A federal judge in Massachusetts ruled Thursday that the Trump administration could not unilaterally cancel a FEMA grant program that states used for disaster preparation.
 
-[2025-12-12 09:23:46](https://bsky.app/profile/nytimes.com/post/3m7qt57cnvw2y)
-
----
-
-@nhknewsunofficial.bsky.social
-
-ノーベル賞 坂口志文さん スウェーデン王室主催晩さん会に出席
-https://news.web.nhk/newsweb/na/na-k10015001741000
-
-[2025-12-12 09:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7qsyg6gxs2v)
+[2025-12-12 09:45:05](https://bsky.app/profile/nytimes.com/post/3m7quddglvm2v)
 
 ---
 
-@wsj.com
+@washingtonpost.com
 
-Rivian is doubling down on an AI-centric approach to develop fully autonomous vehicles, as the money-losing electric-vehicle maker faces a tough market for its trucks and SUVs.
+Tashella Sheri Amore Dickerson, the executive director of the Black Lives Matter group in Oklahoma City, faces 25 counts of wire fraud and money laundering based on a federal grand jury indictment, the Justice Department said.
 
-[2025-12-12 09:19:52](https://bsky.app/profile/wsj.com/post/3m7qswa3vaw2c)
-
----
-
-@financialtimes.com
-
-Good morning, Asia. While you were sleeping, this was our most-read story: on.ft.com/4q96fBg
-
-[2025-12-12 09:15:59](https://bsky.app/profile/financialtimes.com/post/3m7qspbpo6q2w)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】国道8号の福井市問屋団地口－米松の北進車線が通行止め 南四ツ居交差点付近で大型貨物車が単独事故 信号機が倒壊
-(2025-12-12 09:00) #ニュース
-
-[2025-12-12 09:15:55](https://bsky.app/profile/sokuho.news/post/3m7qsp662ta26)
+[2025-12-12 09:45:02](https://bsky.app/profile/washingtonpost.com/post/3m7qudai2e22e)
 
 ---
 
 @reuters.com
 
-OpenAI launches GPT-5.2 after 'code red' push to counter Google's Gemini 3 reut.rs/4pw0EER
+Senator calls for Nvidia CEO to testify on Trump approval for China chip sales reut.rs/44rKhku
 
-[2025-12-12 09:15:20](https://bsky.app/profile/reuters.com/post/3m7qso4fqjf23)
+[2025-12-12 09:40:21](https://bsky.app/profile/reuters.com/post/3m7qu2twjcq2x)
+
+---
+
+@wsj.com
+
+Most U.S. automakers have pursued a bigger-is-better approach to the SUV segment—the vehicular equivalent of McMansions. The Mazda CX-90 steps away from the brink of immensity.
+
+[2025-12-12 09:40:10](https://bsky.app/profile/wsj.com/post/3m7qu2jvzdi2h)
+
+---
+
+@reuters.com
+
+FBI official calls antifa biggest US threat but provides few details reut.rs/3Mv5mEu
+
+[2025-12-12 09:35:10](https://bsky.app/profile/reuters.com/post/3m7qtrlxqoa2k)
+
+---
+
+@cnbc.com
+
+Oracle's lease commitments jump by almost 150% as company builds out to meet AI demand
+
+[2025-12-12 09:34:41](https://bsky.app/profile/cnbc.com/post/3m7qtqpiyyk2x)
+
+---
+
+@axios.com
+
+<strong><span style="color: red;">JUST IN:</span> President Trump says he pardoned Colorado's former Mesa County clerk Tina Peters for her "attempts to expose Voter Fraud" in the 2020 presidential election.</strong>
+
+[2025-12-12 09:33:28](https://bsky.app/profile/axios.com/post/3m7qtojudfc2m)
 
 ---
 
