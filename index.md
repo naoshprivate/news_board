@@ -1,9 +1,9 @@
-# [2025-12-12 11:30 updated](2025_12_12.md)
+# [2025-12-12 11:50 updated](2025_12_12.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The US says it is sanctioning three nephews of Venezuelan President Nicolás Maduro, among others, as it ramps up its pressure campaign on the South American country. https://cnn.it/4rT1jSy <a href="https://bsky.app/profile/cnn.com/post/3m7qzzm6osg2k" target="_blank">cnn.com</a> (2025-12-12 11:27:01)</span><span style="padding-right:50px;">Southwest CEO expects Boeing MAX 7 to be certified around August 2026 reut.rs/44rQH34 <a href="https://bsky.app/profile/reuters.com/post/3m7qznm5qzy2o" target="_blank">reuters.com</a> (2025-12-12 11:20:19)</span><span style="padding-right:50px;">An oil tanker seized by American forces off the Venezuelan coast will be brought to a port in the United States, the White House says  u.afp.com/S78E <a href="https://bsky.app/profile/en.afp.com/post/3m7qzmghfye2f" target="_blank">en.afp.com</a> (2025-12-12 11:19:39)</span><span style="padding-right:50px;">小泉防衛相 米国防長官と電話会談 中国レーダー照射で懸念共有 https://news.web.nhk/newsweb/na/na-k10015001871000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7qzjmemao22" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-12 11:18:03)</span><span style="padding-right:50px;">President Trump said that he pardoned Tina Peters, a former county clerk in Colorado who was convicted on felony charges related to efforts to overturn the 2020 presidential election. <a href="https://bsky.app/profile/washingtonpost.com/post/3m7qzhrbue324" target="_blank">washingtonpost.com</a> (2025-12-12 11:17:03)</span>
+<span style="padding-right:50px;">🔔NHKより【地震速報】です。  ■震度4■ 渡島東部 渡島西部 胆振中東部 日高中部 津軽北部 青森三八上北 青森下北 岩手内陸北部 岩手内陸南部 宮城北部 秋田内陸北部 ■震度3■ 石狩北部 石狩中部 石狩南… (2025-12-12 11:44) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m7r37l5sxp2y" target="_blank">sokuho.news</a> (2025-12-12 11:48:15)</span><span style="padding-right:50px;">🔔気象庁より【震源速報】です。  11時44分頃、青森県東方沖(深さ:20km) を震源とする M6.5 の地震を観測しました。 この地震により、日本の沿岸では若干の海面変動があるかもしれませ… (2025-12-12 11:47:29) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m7r36anotl2s" target="_blank">sokuho.news</a> (2025-12-12 11:47:31)</span><span style="padding-right:50px;">🔔NHKより【地震速報】です。  ■震度4■ 渡島東部 渡島西部 胆振中東部 日高中部 津軽北部 青森三八上北 青森下北 岩手内陸北部 岩手内陸南部 宮城北部 秋田内陸北部 ■震度3■ 石狩北部 石狩中部 石狩南… (2025-12-12 11:44) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m7r35szgut2s" target="_blank">sokuho.news</a> (2025-12-12 11:47:17)</span><span style="padding-right:50px;">🔔NHKより【地震速報】です。  ■震度4■ 渡島東部 胆振中東部 津軽北部 青森三八上北 青森下北 岩手内陸北部 ■震度3■ 日高西部 日高中部 日高東部 十勝南部 津軽南部 岩手沿岸北部 岩手沿岸南部 岩手内… (2025-12-12 11:44) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m7r33ppxhf2y" target="_blank">sokuho.news</a> (2025-12-12 11:46:06)</span><span style="padding-right:50px;">Tyler Robinson, the 22-year-old man accused of fatally shooting conservative political activist Charlie Kirk, appeared in a Utah court Thursday for the first time in-person since his arrest. <a href="https://bsky.app/profile/cnn.com/post/3m7r33l2qtg22" target="_blank">cnn.com</a> (2025-12-12 11:46:01)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50656.58 (🔺176.35 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48704.01 (🔺621.11 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23593.86 (🔺84.64 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.93 (🔺0.65 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3208.00 (🔺17.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.69 (🔺0.16 : 2025-12-12)</span>
+<span style="padding-right:50px;">NIKKEI: 50610.04 (🔺129.81 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48704.01 (🔺621.11 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23593.86 (🔺84.64 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.93 (🔺0.65 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3203.00 (🔺12.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.70 (🔺0.17 : 2025-12-12)</span>
   </div>
 </div>
 
@@ -32,111 +32,140 @@
 
 ## News Headlines
 
-Here are the six important topics with Japanese headlines:
+Here are the 6 important topics with Japanese headlines:
 
-1. ベネズエラの Maduro氏の姪弟3人などを制裁、米国が圧力継続
-(The US sanctions three nephews of Venezuelan President Maduro and continues to apply pressure)
+1. 強い揺れに警戒 (Be Cautious of Strong Shakes)
+The article reports on a magnitude 6.5 earthquake that occurred off the coast of Aomori Prefecture, causing strong shakes in northern Japan.
 
-2. ボーイングMAX7、米国民間航空局の認証を2026年8月に目指す
-(The Boeing MAX7 aims to obtain certification from the US Federal Aviation Administration by August 2026)
-
-3. 米国がベネズエラの石油タンカーを鹵獲、白家は港湾に運搬する
-(The US seizes a Venezuelan oil tanker and will transport it to a US port)
-
-4. トランプ氏がAI規制に反対、州レベルでの規制を阻止する
-(President Trump opposes AI regulation and aims to block state-level regulations)
-
-5. 小泉防衛相と米国防長官が電話会談、中国レーダー照射に関する懸念を共有
-(Japanese Defense Minister and US Defense Secretary hold phone talks, sharing concerns over Chinese radar illumination)
-
-6. 東京・高輪で火災、80代女性けがの被害者 (Fire breaks out in Tokyo's Takao district, injuring an 80-year-old woman)
+2. 介護保険サービス利用料の対象拡大 (Expansion of Target for Long-Term Care Insurance Service Fees)
+The article discusses the government's plan to expand the target for
 
 ----
 
-@cnn.com
+@sokuho.news
 
-The US says it is sanctioning three nephews of Venezuelan President Nicolás Maduro, among others, as it ramps up its pressure campaign on the South American country. https://cnn.it/4rT1jSy
+🔔NHKより【地震速報】です。
 
-[2025-12-12 11:27:01](https://bsky.app/profile/cnn.com/post/3m7qzzm6osg2k)
+■震度4■
+渡島東部 渡島西部 胆振中東部 日高中部 津軽北部 青森三八上北 青森下北 岩手内陸北部 岩手内陸南部 宮城北部 秋田内陸北部
+■震度3■
+石狩北部 石狩中部 石狩南…
+(2025-12-12 11:44) #地震
 
----
-
-@reuters.com
-
-Southwest CEO expects Boeing MAX 7 to be certified around August 2026 reut.rs/44rQH34
-
-[2025-12-12 11:20:19](https://bsky.app/profile/reuters.com/post/3m7qznm5qzy2o)
-
----
-
-@en.afp.com
-
-An oil tanker seized by American forces off the Venezuelan coast will be brought to a port in the United States, the White House says
-
-u.afp.com/S78E
-
-[2025-12-12 11:19:39](https://bsky.app/profile/en.afp.com/post/3m7qzmghfye2f)
-
----
-
-@nhknewsunofficial.bsky.social
-
-小泉防衛相 米国防長官と電話会談 中国レーダー照射で懸念共有
-https://news.web.nhk/newsweb/na/na-k10015001871000
-
-[2025-12-12 11:18:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7qzjmemao22)
-
----
-
-@washingtonpost.com
-
-President Trump said that he pardoned Tina Peters, a former county clerk in Colorado who was convicted on felony charges related to efforts to overturn the 2020 presidential election.
-
-[2025-12-12 11:17:03](https://bsky.app/profile/washingtonpost.com/post/3m7qzhrbue324)
-
----
-
-@npr.org
-
-The executive order is the latest in a series of attempts by the Trump administration to hold back state-level AI rules. But many Republicans are also uncomfortable with the effort. n.pr/4iPffZC
-
-[2025-12-12 11:16:14](https://bsky.app/profile/npr.org/post/3m7qzgcxc5u2d)
-
----
-
-@reuters.com
-
-US to overhaul financial stability watchdog to focus on economic growth, Bessent says reut.rs/4pv6dDz
-
-[2025-12-12 11:10:13](https://bsky.app/profile/reuters.com/post/3m7qz3kwnpm2y)
-
----
-
-@financialtimes.com
-
-Donald Trump orders increased scrutiny of proxy advisers ISS and Glass Lewis on.ft.com/4pAe8ja
-
-[2025-12-12 11:08:46](https://bsky.app/profile/financialtimes.com/post/3m7qyyxlwjk2c)
+[2025-12-12 11:48:15](https://bsky.app/profile/sokuho.news/post/3m7r37l5sxp2y)
 
 ---
 
 @sokuho.news
 
-🔔ANNより【速報】です。
+🔔気象庁より【震源速報】です。
 
-【速報】東京・高輪で火事 80代女性けが
-(11:02) #ニュース
-https://news.tv-asahi.co.jp/news_society/articles/000472512.html?display=full
+11時44分頃、青森県東方沖(深さ:20km) を震源とする M6.5 の地震を観測しました。
+この地震により、日本の沿岸では若干の海面変動があるかもしれませ…
+(2025-12-12 11:47:29) #地震
 
-[2025-12-12 11:07:19](https://bsky.app/profile/sokuho.news/post/3m7qywezetp2r)
+[2025-12-12 11:47:31](https://bsky.app/profile/sokuho.news/post/3m7r36anotl2s)
 
 ---
 
-@yahoofinance.com
+@sokuho.news
 
-Financial oversight body adopts new stance: Looser regulations to boost growth, financial safety
+🔔NHKより【地震速報】です。
 
-[2025-12-12 11:06:04](https://bsky.app/profile/yahoofinance.com/post/3m7qyu5ckhs2q)
+■震度4■
+渡島東部 渡島西部 胆振中東部 日高中部 津軽北部 青森三八上北 青森下北 岩手内陸北部 岩手内陸南部 宮城北部 秋田内陸北部
+■震度3■
+石狩北部 石狩中部 石狩南…
+(2025-12-12 11:44) #地震
+
+[2025-12-12 11:47:17](https://bsky.app/profile/sokuho.news/post/3m7r35szgut2s)
+
+---
+
+@sokuho.news
+
+🔔NHKより【地震速報】です。
+
+■震度4■
+渡島東部 胆振中東部 津軽北部 青森三八上北 青森下北 岩手内陸北部
+■震度3■
+日高西部 日高中部 日高東部 十勝南部 津軽南部 岩手沿岸北部 岩手沿岸南部 岩手内…
+(2025-12-12 11:44) #地震
+
+[2025-12-12 11:46:06](https://bsky.app/profile/sokuho.news/post/3m7r33ppxhf2y)
+
+---
+
+@cnn.com
+
+Tyler Robinson, the 22-year-old man accused of fatally shooting conservative political activist Charlie Kirk, appeared in a Utah court Thursday for the first time in-person since his arrest.
+
+[2025-12-12 11:46:01](https://bsky.app/profile/cnn.com/post/3m7r33l2qtg22)
+
+---
+
+@sokuho.news
+
+🔔気象庁より【震度速報】です。
+
+11時44分頃、北海道・青森県・岩手県などで最大震度4の地震を観測しました。
+今後の情報に注意してください。
+(2025-12-12 11:45:50) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/12/2025-12-12-11-44-19.html?xlarge_image=1
+
+[2025-12-12 11:45:55](https://bsky.app/profile/sokuho.news/post/3m7r33exxt22b)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】タクシーがスーパー店舗に突っ込む 80代の男性運転手がけが 福岡・春日市
+(2025-12-12 11:35) #ニュース
+
+[2025-12-12 11:45:51](https://bsky.app/profile/sokuho.news/post/3m7r33ay5uz2v)
+
+---
+
+@sokuho.news
+
+🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥
+🔔 #緊急地震速報 【警報】
+🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥
+
+🚨青森東方沖で地震⚠️東北⚠️北海道で強い揺れ
+🚨強い揺れに警戒してください。
+(2025-12-12 11:44:31)
+
+(NIED/強震モニタ/予測震度画像 +60秒)
+
+[2025-12-12 11:45:38](https://bsky.app/profile/sokuho.news/post/3m7r32vep5z2v)
+
+---
+
+@sokuho.news
+
+🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥
+🔔 #緊急地震速報 【警報】
+🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥
+
+🚨青森東方沖で地震⚠️東北⚠️北海道で強い揺れ
+🚨強い揺れに警戒してください。
+(2025-12-12 11:44:31)
+
+(NIED/強震モニタ/予測震度画像 +30秒)
+
+[2025-12-12 11:45:08](https://bsky.app/profile/sokuho.news/post/3m7r2zymixa25)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+介護保険サービス利用料 自己負担2割の対象拡大で調整 厚労省
+https://news.web.nhk/newsweb/na/na-k10015001881000
+
+[2025-12-12 11:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7r2zul37f2w)
 
 ---
 
