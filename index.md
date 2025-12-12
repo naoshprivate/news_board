@@ -1,9 +1,9 @@
-# [2025-12-12 12:30 updated](2025_12_12.md)
+# [2025-12-12 12:50 updated](2025_12_12.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像3🈡 (2025-12-12 12:27:29) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m7r5fw4ucq25" target="_blank">sokuho.news</a> (2025-12-12 12:27:36)</span><span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください 🔗http://www.kmoni.bosai.go.jp/  🔶防災科研/強震モニタ/予測震度画像1 (2025-12-12 12:26:57) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m7r5eyahtf2b" target="_blank">sokuho.news</a> (2025-12-12 12:27:04)</span><span style="padding-right:50px;">【交通影響】東北新幹線 仙台～新青森で遅れ https://news.web.nhk/newsweb/na/na-k10015001971000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7r5ey74oe2d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-12 12:27:02)</span><span style="padding-right:50px;">🔔NHKより【津波速報】です。  ■津波注意報■青森県太平洋沿岸 北海道太平洋沿岸中部 岩手県 ■津波注意報■宮城県 (2025-12-12 12:26) #ニュース  ⬛津波情報 🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami <a href="https://bsky.app/profile/sokuho.news/post/3m7r5eh2gch2e" target="_blank">sokuho.news</a> (2025-12-12 12:26:46)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:青森県東方沖, 深さ:20km マグニチュード:5.7, 最大震度:3 📍https://www.google.com/maps?q=41.0,143.0&ll=41.0,143.0&z=7&t=h 地震発生日時:2025-12-12 12:21頃 (10倍速▶210s→21s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m7r5e3do3f2b" target="_blank">sokuho.news</a> (2025-12-12 12:26:34)</span>
+<span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】北海道・えりも庶野と青森・八戸港で20cmの津波観測 (2025-12-12 12:41) #ニュース  ⬛津波情報 🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami <a href="https://bsky.app/profile/sokuho.news/post/3m7r6i3xrea27" target="_blank">sokuho.news</a> (2025-12-12 12:46:43)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】集合住宅で火事 男性1人が意識不明で搬送 大阪・泉大津市 (2025-12-12 12:40) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7r6hag25n2b" target="_blank">sokuho.news</a> (2025-12-12 12:46:14)</span><span style="padding-right:50px;">仙台市 東松島市 むつ市 八戸市など 河口や沿岸地域に避難指示 https://news.web.nhk/newsweb/na/na-k10015002041000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7r6f5vuj72w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-12 12:45:02)</span><span style="padding-right:50px;">🔔NHKより【津波速報】です。  ■津波注意報■北海道太平洋沿岸中部 青森県太平洋沿岸 岩手県 ■津波注意報■宮城県 (2025-12-12 12:44) #ニュース  ⬛津波情報 🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami <a href="https://bsky.app/profile/sokuho.news/post/3m7r6efddni2b" target="_blank">sokuho.news</a> (2025-12-12 12:44:38)</span><span style="padding-right:50px;">Reddit challenges Australia’s under-16 social media ban in High Court filing, says law curbs political speech <a href="https://bsky.app/profile/cnbc.com/post/3m7r6dzd4ot24" target="_blank">cnbc.com</a> (2025-12-12 12:44:26)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50610.04 (🔺129.81 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48704.01 (🔺621.11 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23593.86 (🔺84.64 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.93 (🔺0.65 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3203.00 (🔺12.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.65 (🔺0.12 : 2025-12-12)</span>
+<span style="padding-right:50px;">NIKKEI: 50562.71 (🔺82.48 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48704.01 (🔺621.11 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23593.86 (🔺84.64 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.93 (🔺0.65 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3202.00 (🔺11.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.70 (🔺0.17 : 2025-12-12)</span>
   </div>
 </div>
 
@@ -32,131 +32,28 @@
 
 ## News Headlines
 
-1. 🚨地震発生中❗❗  ⚠️揺れに警戒してください
-2. 【交通影響】東北新幹線 仙台～新青森で遅れ
-3. ⚠️津波注意報⚠️ 青森県太平洋沿岸に避難指示
-4. 【速報】岩手・陸前高田市に「避難指示」
-5. 【速報】宮城・松島町に「避難指示」
-6. 北海道～北陸 大雪 交通影響に注意
+Here are six important stories with headlines in Japanese:
+
+1. 20cmの津波観測　北海道・えりも庶野と青森・八戸港で
+2. 大阪・泉大津市で火事　男性1人が意識不明で搬送
+3. 津波注意報　北海道太平洋沿岸中部、青森県太平洋沿岸、岩手県
+4. 92歳女性けが　東京・港区高輪の2階建て住宅で火災
+5. 宮城県沿岸上空からの映像　ライブ放送終了
+6. 北海道・青森県・岩手県で震度3　津波注意報発表
 
 ----
 
 @sokuho.news
 
-🚨地震発生中❗❗
+🛎️FNNより【速報】です。
 
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像3🈡
-(2025-12-12 12:27:29) #緊急地震速報
-
-[2025-12-12 12:27:36](https://bsky.app/profile/sokuho.news/post/3m7r5fw4ucq25)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗
-
-⚠️揺れに警戒してください
-🔗http://www.kmoni.bosai.go.jp/
-
-🔶防災科研/強震モニタ/予測震度画像1
-(2025-12-12 12:26:57) #緊急地震速報
-
-[2025-12-12 12:27:04](https://bsky.app/profile/sokuho.news/post/3m7r5eyahtf2b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【交通影響】東北新幹線 仙台～新青森で遅れ
-https://news.web.nhk/newsweb/na/na-k10015001971000
-
-[2025-12-12 12:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7r5ey74oe2d)
-
----
-
-@sokuho.news
-
-🔔NHKより【津波速報】です。
-
-■津波注意報■青森県太平洋沿岸 北海道太平洋沿岸中部 岩手県
-■津波注意報■宮城県
-(2025-12-12 12:26) #ニュース
+【速報】北海道・えりも庶野と青森・八戸港で20cmの津波観測
+(2025-12-12 12:41) #ニュース
 
 ⬛津波情報
 🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami
 
-[2025-12-12 12:26:46](https://bsky.app/profile/sokuho.news/post/3m7r5eh2gch2e)
-
----
-
-@sokuho.news
-
-🔔防災科研より【強震モニタ】動画です。
-
-震源:青森県東方沖, 深さ:20km
-マグニチュード:5.7, 最大震度:3
-📍https://www.google.com/maps?q=41.0,143.0&ll=41.0,143.0&z=7&t=h
-地震発生日時:2025-12-12 12:21頃
-(10倍速▶210s→21s) #地震
-
-[2025-12-12 12:26:34](https://bsky.app/profile/sokuho.news/post/3m7r5e3do3f2b)
-
----
-
-@sokuho.news
-
-🔔NHKより【地震速報】です。
-
-■震度3■
-渡島東部 津軽北部 青森三八上北 青森下北 岩手内陸北部
-(2025-12-12 12:21) #地震
-
-[2025-12-12 12:26:07](https://bsky.app/profile/sokuho.news/post/3m7r5dbbgsg2e)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】岩手・陸前高田市に「避難指示」 11:52時点
-(2025-12-12 12:21:00) #ニュース
-
-🟪避難情報
-🔗https://crisis.yahoo.co.jp/evacuation/03/
-
-[2025-12-12 12:25:58](https://bsky.app/profile/sokuho.news/post/3m7r5cyhffw2e)
-
----
-
-@sokuho.news
-
-🔔気象庁より【地震速報】です。
-
-12時21分頃、青森県・北海道・岩手県などで最大震度3の地震を観測しました。
-震源:青森県東方沖, 深さ:20km, 規模:M5.7
-津波警報等（大津波警報・津波警報あるいは津波注意報）を発表中で…
-(2025-12-12 12:25:52) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/12/2025-12-12-12-21-43.html?xlarge_image=1
-
-[2025-12-12 12:25:53](https://bsky.app/profile/sokuho.news/post/3m7r5cu4e6w2e)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】岩手・田野畑村に「避難指示」 11:52時点
-(2025-12-12 12:23:00) #ニュース
-
-🟪避難情報
-🔗https://crisis.yahoo.co.jp/evacuation/03/
-
-[2025-12-12 12:25:50](https://bsky.app/profile/sokuho.news/post/3m7r5cqunuy2r)
+[2025-12-12 12:46:43](https://bsky.app/profile/sokuho.news/post/3m7r6i3xrea27)
 
 ---
 
@@ -164,13 +61,97 @@ https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/12/2025-12-12-12-21
 
 🛎️FNNより【速報】です。
 
-【速報】青森県東方沖90キロで津波観測…各港で1メートルの津波が予想
-(2025-12-12 12:17) #ニュース
+【速報】集合住宅で火事 男性1人が意識不明で搬送 大阪・泉大津市
+(2025-12-12 12:40) #ニュース
+
+[2025-12-12 12:46:14](https://bsky.app/profile/sokuho.news/post/3m7r6hag25n2b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+仙台市 東松島市 むつ市 八戸市など 河口や沿岸地域に避難指示
+https://news.web.nhk/newsweb/na/na-k10015002041000
+
+[2025-12-12 12:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7r6f5vuj72w)
+
+---
+
+@sokuho.news
+
+🔔NHKより【津波速報】です。
+
+■津波注意報■北海道太平洋沿岸中部 青森県太平洋沿岸 岩手県
+■津波注意報■宮城県
+(2025-12-12 12:44) #ニュース
 
 ⬛津波情報
 🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami
 
-[2025-12-12 12:25:26](https://bsky.app/profile/sokuho.news/post/3m7r5c2axlf25)
+[2025-12-12 12:44:38](https://bsky.app/profile/sokuho.news/post/3m7r6efddni2b)
+
+---
+
+@cnbc.com
+
+Reddit challenges Australia’s under-16 social media ban in High Court filing, says law curbs political speech
+
+[2025-12-12 12:44:26](https://bsky.app/profile/cnbc.com/post/3m7r6dzd4ot24)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】北海道・えりも庶野で20cmの津波観測
+(2025-12-12 12:41) #ニュース
+
+⬛津波情報
+🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami
+
+[2025-12-12 12:43:55](https://bsky.app/profile/sokuho.news/post/3m7r6d4arae2b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【ライブ終了】宮城県沿岸上空からの映像
+https://news.web.nhk/newsweb/na/na-k10015002051000
+
+[2025-12-12 12:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7r67s5y6c2b)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】東京・港区高輪の2階建て住宅で火災 92歳女性けがか ガス点火時に爆発した可能性も
+(2025-12-12 12:39:32) #ニュース
+
+[2025-12-12 12:41:11](https://bsky.app/profile/sokuho.news/post/3m7r667wzl72b)
+
+---
+
+@en.afp.com
+
+Thailand's Prime Minister dissolved parliament on Friday after three months in office, a royal decree showed, paving the way for general elections early next year
+
+u.afp.com/S789
+
+[2025-12-12 12:41:11](https://bsky.app/profile/en.afp.com/post/3m7r667lfxk26)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】維新・吉村代表「結論出さずに終わる政治はまっぴらごめん。会期延長したらいい」“議員定数削減法案”と“企業団体献金法案”巡って
+(2025-12-12 12:35) #ニュース
+
+[2025-12-12 12:40:43](https://bsky.app/profile/sokuho.news/post/3m7r65etxux2r)
 
 ---
 
