@@ -1,9 +1,9 @@
-# [2025-12-13 06:50 updated](2025_12_13.md)
+# [2025-12-13 07:10 updated](2025_12_13.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Closing arguments were presented in the trial of Brian Walshe, the Massachusetts man accused of murdering his wife, after the defense rested its case without calling a single witness to the stand. <a href="https://bsky.app/profile/nbcnews.com/post/3m7t2txdzes24" target="_blank">nbcnews.com</a> (2025-12-13 06:47:05)</span><span style="padding-right:50px;">US accuses Rwanda at UN of leading region toward war reut.rs/48AjiWf <a href="https://bsky.app/profile/reuters.com/post/3m7t2qqk6h22b" target="_blank">reuters.com</a> (2025-12-13 06:45:17)</span><span style="padding-right:50px;">Data center REIT Fermi drops 34% after potential customer backs out of funding deal reut.rs/4pBfSZy <a href="https://bsky.app/profile/reuters.com/post/3m7t2iw2ywb2k" target="_blank">reuters.com</a> (2025-12-13 06:40:54)</span><span style="padding-right:50px;">Record flooding in Washington state has forced tens of thousands of people to evacuate after torrential rains this week. n.pr/453De1q <a href="https://bsky.app/profile/npr.org/post/3m7t2i56wu62g" target="_blank">npr.org</a> (2025-12-13 06:40:28)</span><span style="padding-right:50px;">Night and day for more than six months, a D.C. family has received over 100 packages the senders meant to have delivered to a hotel more than a mile away. <a href="https://bsky.app/profile/nbcnews.com/post/3m7t2hlft3i24" target="_blank">nbcnews.com</a> (2025-12-13 06:40:10)</span>
+<span style="padding-right:50px;">The Trump administration blessed plans to launch five new cryptocurrency-focused national banks. <a href="https://bsky.app/profile/wsj.com/post/3m7t437kyzo2t" target="_blank">wsj.com</a> (2025-12-13 07:09:02)</span><span style="padding-right:50px;">トランプ米大統領は来年５月に任期が切れる連邦準備理事会（ＦＲＢ）のパウエル議長の後任に、ケビン・ウォーシュ元ＦＲＢ理事か米国家経済会議（ＮＥＣ）のケビン・ハセット委員長を起用する方向で検討している。米紙ウォール・ストリート・ジャーナル（ＷＳＪ）が１２日、報じた。 bit.ly/3YmkS8e <a href="https://bsky.app/profile/japan.reuters.com/post/3m7t4352bbr26" target="_blank">japan.reuters.com</a> (2025-12-13 07:09:00)</span><span style="padding-right:50px;">The Trump administration ordered the National Park Service to pull merchandise related to DEI from its gift shops. The Interior Department said the move is meant to ensure items “do not promote specific viewpoints.” <a href="https://bsky.app/profile/nytimes.com/post/3m7t42aged627" target="_blank">nytimes.com</a> (2025-12-13 07:08:30)</span><span style="padding-right:50px;">US regulator grants crypto firms initial approval to launch trust banks reut.rs/4rV3e9b <a href="https://bsky.app/profile/reuters.com/post/3m7t3uavyvz2r" target="_blank">reuters.com</a> (2025-12-13 07:05:09)</span><span style="padding-right:50px;">Hassett Fed chair odds fall, Warsh chances surge on Kalshi after Trump comments <a href="https://bsky.app/profile/cnbc.com/post/3m7t3snlzp32d" target="_blank">cnbc.com</a> (2025-12-13 07:04:15)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.09 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.81 (🔺0.28 : 2025-12-12)</span>
+<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.75 (🔺0.21 : 2025-12-13)</span>
   </div>
 </div>
 
@@ -32,94 +32,96 @@
 
 ## News Headlines
 
-以下のニュースから6つの重要なストーリーを選択し、ヘッドラインを日本語で作成します。
-
-1. 連邦準備理事会（ＦＲＢ）は政府の財政コストを考慮すべきでなく、ＦＲＢの独立性は極めて重要であるとの認識を改めて示した。
-2. ドルは円などの主要通貨に対し上昇し、来年の米連邦準備理事会（ＦＲＢ）による利下げ観測を背景に下落基調にあり、週間ベースでは３週連続で下落した。
-3. ガザ地区大雨による住宅倒壊や寒さで今月10日以降14人死亡
-4. EUは、ロシアの資産を凍結し、ウクライナの防衛に資金を提供するためのローンを確保した。
-5. トランプ米大統領は、国境地帯での衝突が激化しているタイとカンボジアが、１２日から「全ての攻撃を停止する」ことで合意したと明らかにした。
-6. 米シカゴ地区連銀のグールズビー総裁は、ＦＲＢの独立性は極めて重要であるとの認識を改めて示した。
+1. トランプ政権が新型コインベースの国庫銀行を計画
+2. トランプ政権がDEI関連商品を国立公園の売店から撤去
+3. 米国で国民が高額なH-1ビザの手数料に反対する訴訟が始まる
+4. 米国株式市場が下落、AI関連企業のバブルの懸念が高まる
+5. 米サンフランシスコ地区連銀の総裁がFRBの利下げに支持
+6. 米国がルワンダをUNに戦争の指導者と非難
 
 ----
 
-@nbcnews.com
+@wsj.com
 
-Closing arguments were presented in the trial of Brian Walshe, the Massachusetts man accused of murdering his wife, after the defense rested its case without calling a single witness to the stand.
+The Trump administration blessed plans to launch five new cryptocurrency-focused national banks.
 
-[2025-12-13 06:47:05](https://bsky.app/profile/nbcnews.com/post/3m7t2txdzes24)
-
----
-
-@reuters.com
-
-US accuses Rwanda at UN of leading region toward war reut.rs/48AjiWf
-
-[2025-12-13 06:45:17](https://bsky.app/profile/reuters.com/post/3m7t2qqk6h22b)
-
----
-
-@reuters.com
-
-Data center REIT Fermi drops 34% after potential customer backs out of funding deal reut.rs/4pBfSZy
-
-[2025-12-13 06:40:54](https://bsky.app/profile/reuters.com/post/3m7t2iw2ywb2k)
-
----
-
-@npr.org
-
-Record flooding in Washington state has forced tens of thousands of people to evacuate after torrential rains this week. n.pr/453De1q
-
-[2025-12-13 06:40:28](https://bsky.app/profile/npr.org/post/3m7t2i56wu62g)
-
----
-
-@nbcnews.com
-
-Night and day for more than six months, a D.C. family has received over 100 packages the senders meant to have delivered to a hotel more than a mile away.
-
-[2025-12-13 06:40:10](https://bsky.app/profile/nbcnews.com/post/3m7t2hlft3i24)
-
----
-
-@cbsnews.com
-
-With ACA subsidies set to lapse, millions of Americans face a painful spike in health plan costs.
-
-[2025-12-13 06:40:00](https://bsky.app/profile/cbsnews.com/post/3m7t2hcg4y72b)
-
----
-
-@reuters.com
-
-Oracle denies report on OpenAI data center delays reut.rs/3MwWoGM
-
-[2025-12-13 06:35:14](https://bsky.app/profile/reuters.com/post/3m7t26qzlji2o)
-
----
-
-@cnbc.com
-
-Santoli's Friday market wrap-up: Stocks are caught in opposing currents of AI anxiety and economic enthusiasm
-
-[2025-12-13 06:34:26](https://bsky.app/profile/cnbc.com/post/3m7t25cy5ii2b)
-
----
-
-@nytimes.com
-
-Here's how to make an espresso martini at home: nyti.ms/4oSaOif
-
-[2025-12-13 06:33:04](https://bsky.app/profile/nytimes.com/post/3m7t22vkl742v)
+[2025-12-13 07:09:02](https://bsky.app/profile/wsj.com/post/3m7t437kyzo2t)
 
 ---
 
 @japan.reuters.com
 
-ニューヨーク外為市場では、方向感のない取引の中、ドルが円などの主要通貨に対し上昇した。来年の米連邦準備理事会（ＦＲＢ）による利下げ観測を背景にドルはここ数日下落基調にあり、週間ベースでは３週連続で下落した。 bit.ly/48BEviI
+トランプ米大統領は来年５月に任期が切れる連邦準備理事会（ＦＲＢ）のパウエル議長の後任に、ケビン・ウォーシュ元ＦＲＢ理事か米国家経済会議（ＮＥＣ）のケビン・ハセット委員長を起用する方向で検討している。米紙ウォール・ストリート・ジャーナル（ＷＳＪ）が１２日、報じた。 bit.ly/3YmkS8e
 
-[2025-12-13 06:32:12](https://bsky.app/profile/japan.reuters.com/post/3m7szzdyu6b2v)
+[2025-12-13 07:09:00](https://bsky.app/profile/japan.reuters.com/post/3m7t4352bbr26)
+
+---
+
+@nytimes.com
+
+The Trump administration ordered the National Park Service to pull merchandise related to DEI from its gift shops. The Interior Department said the move is meant to ensure items “do not promote specific viewpoints.”
+
+[2025-12-13 07:08:30](https://bsky.app/profile/nytimes.com/post/3m7t42aged627)
+
+---
+
+@reuters.com
+
+US regulator grants crypto firms initial approval to launch trust banks reut.rs/4rV3e9b
+
+[2025-12-13 07:05:09](https://bsky.app/profile/reuters.com/post/3m7t3uavyvz2r)
+
+---
+
+@cnbc.com
+
+Hassett Fed chair odds fall, Warsh chances surge on Kalshi after Trump comments
+
+[2025-12-13 07:04:15](https://bsky.app/profile/cnbc.com/post/3m7t3snlzp32d)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+スピードスケート W杯第4戦 女子1500m 高木美帆が今季初優勝
+https://news.web.nhk/newsweb/na/na-k10015002951000
+
+[2025-12-13 07:03:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7t3qpcosi22)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【動画】Pickup NEWS（12月13日）
+https://news.web.nhk/newsweb/na/na-k10015002501000
+
+[2025-12-13 07:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7t3qkchx22b)
+
+---
+
+@yahoonews.com
+
+See which staffers in Trump's White House quietly earn up to $225,700, including top advisors and counsel, as revealed in the latest salary report. yhoo.it/4j0evRI
+
+[2025-12-13 07:01:16](https://bsky.app/profile/yahoonews.com/post/3m7t3ncoivt2r)
+
+---
+
+@reuters.com
+
+Ex-Michigan coach Sherrone Moore expected to be arraigned Friday reut.rs/4iXb4ez
+
+[2025-12-13 07:01:13](https://bsky.app/profile/reuters.com/post/3m7t3nal7ej2b)
+
+---
+
+@cnn.com
+
+A coalition of blue states is suing the Trump administration over its fee of $100,000 for H-1B Visas, several Democratic AGs announced.
+
+California AG Rob Bonta, joined by Andrea Joy Campbell of Massachusetts and Letitia James of New York, and others, is leading the suit. https://cnn.it/3MAcHmb
+
+[2025-12-13 07:01:02](https://bsky.app/profile/cnn.com/post/3m7t3mvkrog2b)
 
 ---
 
