@@ -1,9 +1,9 @@
-# [2025-12-12 23:50 updated](2025_12_12.md)
+# [2025-12-13 00:10 updated](2025_12_13.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">This $60 Million Oceanfront Estate Is One Of South Florida’s Priciest <a href="https://bsky.app/profile/forbes.com/post/3m7sdhxuauc2f" target="_blank">forbes.com</a> (2025-12-12 23:48:47)</span><span style="padding-right:50px;">5 ChatGPT Prompts To Eliminate Busywork And Maximize Creative Output <a href="https://bsky.app/profile/forbes.com/post/3m7sdhf7ebk2f" target="_blank">forbes.com</a> (2025-12-12 23:48:27)</span><span style="padding-right:50px;">4 Skills You Can Build In December That Will Raise Your 2026 Salary www.forbes.com/sites/shodew... (Photo: Getty Images) <a href="https://bsky.app/profile/forbes.com/post/3m7sdfi4ph22f" target="_blank">forbes.com</a> (2025-12-12 23:47:23)</span><span style="padding-right:50px;">‘It May Be Worse’—No Fix For ‘New Threat’ To Google Chrome Users <a href="https://bsky.app/profile/forbes.com/post/3m7sdeokitc2f" target="_blank">forbes.com</a> (2025-12-12 23:46:57)</span><span style="padding-right:50px;">UK sanctions RSF commander linked by BBC Verify to Sudan massacre <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7sdelfbte27" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-12 23:46:53)</span>
+<span style="padding-right:50px;">Nippon Steel aims for 100 million tons annual global crude steel capacity by mid-2030s reut.rs/498uBVK <a href="https://bsky.app/profile/reuters.com/post/3m7sefd5hbb2p" target="_blank">reuters.com</a> (2025-12-13 00:05:12)</span><span style="padding-right:50px;">Americans are expected to spend more than ever on holiday gifts—but they’re cutting back on nonessentials to afford it.  <a href="https://bsky.app/profile/forbes.com/post/3m7sef3hx7d2s" target="_blank">forbes.com</a> (2025-12-13 00:05:04)</span><span style="padding-right:50px;">A crisp white shirt with a suit? Boring! A men’s guide to cool, fresh ways to wear a suit this festive season—and into 2026. on.wsj.com/3XQHgXi <a href="https://bsky.app/profile/wsj.com/post/3m7se7pvyix2s" target="_blank">wsj.com</a> (2025-12-13 00:02:04)</span><span style="padding-right:50px;">A thoughtful gift needn’t be expensive to be perfect. A practical kitchen tool, a new charging adapter, or even a really good pair of socks can delight at a budget price. Here are the best gifts for $25 or less. nyti.ms/3KP1cqr <a href="https://bsky.app/profile/nytimes.com/post/3m7se7pao5h2b" target="_blank">nytimes.com</a> (2025-12-13 00:02:03)</span><span style="padding-right:50px;">Ghana's Abu Trica charged with scamming elderly Americans <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7se7pcg522r" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-13 00:02:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48830.61 (🔺115.86 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23448.51 (🔻40.36 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 180.64 (🔻0.62 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.90 (🔺0.36 : 2025-12-12)</span>
+<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48776.10 (🔺61.35 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23396.09 (🔻92.79 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 179.81 (🔻1.45 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.81 (🔺0.28 : 2025-12-12)</span>
   </div>
 </div>
 
@@ -32,96 +32,94 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in Japanese:
+Here are six Japanese headlines based on the news:
 
-1. ＃1億ドル級の海岸線別荘　フロリダ州で最も高価な不動産
-2. グーグルChromeの新たな脅威　修正は見る影も無し
-3. サムスン、緊急アップデート　数百万のユーザーに影響
-4. イギリス、サウダン虐殺事件に関与したRSF司令官に制裁
-5. ワシントン州、100万人以上強制退去　大雨による被害が広がる
-6. イランのノーベル賞受賞者　人権弁護士が逮捕される
+1. 日鉄、2030年代前半に1000万トンの粗鋼生産能力を達成する
+2. ハリケーンの影響でアメリカ人が年末の贈り物を節減
+3. 25ドル以下のプレゼントで心に感謝
+4. ギャンビアのアブ・トリカ氏、米老人を標的にした詐欺師として起訴
+5. フェデラル・リザーブの連邦銀行長官の再任が決定
+6. 未来の医療技術で細菌を送り込むロボットが開発される
 
 ----
 
-@forbes.com
+@reuters.com
 
-This $60 Million Oceanfront Estate Is One Of South Florida’s Priciest
+Nippon Steel aims for 100 million tons annual global crude steel capacity by mid-2030s reut.rs/498uBVK
 
-[2025-12-12 23:48:47](https://bsky.app/profile/forbes.com/post/3m7sdhxuauc2f)
-
----
-
-@forbes.com
-
-5 ChatGPT Prompts To Eliminate Busywork And Maximize Creative Output
-
-[2025-12-12 23:48:27](https://bsky.app/profile/forbes.com/post/3m7sdhf7ebk2f)
+[2025-12-13 00:05:12](https://bsky.app/profile/reuters.com/post/3m7sefd5hbb2p)
 
 ---
 
 @forbes.com
 
-4 Skills You Can Build In December That Will Raise Your 2026 Salary
-www.forbes.com/sites/shodew... (Photo: Getty Images)
+Americans are expected to spend more than ever on holiday gifts—but they’re cutting back on nonessentials to afford it. 
 
-[2025-12-12 23:47:23](https://bsky.app/profile/forbes.com/post/3m7sdfi4ph22f)
+[2025-12-13 00:05:04](https://bsky.app/profile/forbes.com/post/3m7sef3hx7d2s)
 
 ---
 
-@forbes.com
+@wsj.com
 
-‘It May Be Worse’—No Fix For ‘New Threat’ To Google Chrome Users
+A crisp white shirt with a suit? Boring! A men’s guide to cool, fresh ways to wear a suit this festive season—and into 2026. on.wsj.com/3XQHgXi
 
-[2025-12-12 23:46:57](https://bsky.app/profile/forbes.com/post/3m7sdeokitc2f)
+[2025-12-13 00:02:04](https://bsky.app/profile/wsj.com/post/3m7se7pvyix2s)
+
+---
+
+@nytimes.com
+
+A thoughtful gift needn’t be expensive to be perfect. A practical kitchen tool, a new charging adapter, or even a really good pair of socks can delight at a budget price. Here are the best gifts for $25 or less. nyti.ms/3KP1cqr
+
+[2025-12-13 00:02:03](https://bsky.app/profile/nytimes.com/post/3m7se7pao5h2b)
 
 ---
 
 @bbcnews-world-rss.bsky.social
 
-UK sanctions RSF commander linked by BBC Verify to Sudan massacre
+Ghana's Abu Trica charged with scamming elderly Americans
 
-[2025-12-12 23:46:53](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7sdelfbte27)
-
----
-
-@forbes.com
-
-19 Employers Hiring For Work-From-Anywhere Jobs And How To Find Them
-
-[2025-12-12 23:46:42](https://bsky.app/profile/forbes.com/post/3m7sdeagzks2f)
-
----
-
-@forbes.com
-
-Apple iOS 26.2 Release Date—Critical Update For 1 Billion iPhones
-www.forbes.com/sites/zakdof... (Photo: Getty Images)
-
-[2025-12-12 23:45:49](https://bsky.app/profile/forbes.com/post/3m7sdcofngc2f)
+[2025-12-13 00:02:02](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7se7pcg522r)
 
 ---
 
 @reuters.com
 
-China to ease import and export rules on certain lithium thionyl chloride batteries from 2026 reut.rs/3MVeC4M
+Analysts flag risks for Strategy at Nasdaq 100 index reshuffle reut.rs/48Cjgx6
 
-[2025-12-12 23:45:17](https://bsky.app/profile/reuters.com/post/3m7sdbq2guq2b)
-
----
-
-@forbes.com
-
-Samsung Surprises Millions Of Galaxy Users With Emergency Update
-
-[2025-12-12 23:45:12](https://bsky.app/profile/forbes.com/post/3m7sdbl25g22f)
+[2025-12-13 00:01:27](https://bsky.app/profile/reuters.com/post/3m7se6mbq7a24)
 
 ---
 
-@forbes.com
+@cnn.com
 
-How To Use Forbes’ Top 100 Charities List To Evaluate Any Charity
+"In the end, the situation in Indiana demonstrated quite the opposite of what Trump intended," Aaron Blake writes | Analysis
 
-[2025-12-12 23:44:55](https://bsky.app/profile/forbes.com/post/3m7sdb2hntc2f)
+[2025-12-13 00:01:03](https://bsky.app/profile/cnn.com/post/3m7se5w27b72k)
+
+---
+
+@usatoday.com
+
+Where did Jon Hamm start dancing in the club, and why is it all over your TikTok and Instagram feeds? The viral meme, and it's TV origins, explained.
+
+[2025-12-13 00:00:51](https://bsky.app/profile/usatoday.com/post/3m7se5k4byi2g)
+
+---
+
+@cnbc.com
+
+Parent Portfolio founder Jonathan Sanchez shares how he talks to his kids about money to 'genuinely excite them' about personal finance. 
+
+[2025-12-13 00:00:40](https://bsky.app/profile/cnbc.com/post/3m7se57vmud2e)
+
+---
+
+@washingtonpost.com
+
+Medicine is advancing toward a future that might see tiny robots sent into the human body to rewire damaged nerves, deliver medicines to precise areas, and determine the health of a patient’s cells without surgery.
+
+[2025-12-13 00:00:37](https://bsky.app/profile/washingtonpost.com/post/3m7se54pyv42x)
 
 ---
 
@@ -129,7 +127,7 @@ How To Use Forbes’ Top 100 Charities List To Evaluate Any Charity
 
 ## 2025-12
 
-[12月12日](2025_12_12.md), [12月11日](2025_12_11.md), [12月10日](2025_12_10.md), [12月09日](2025_12_09.md), [12月08日](2025_12_08.md), [12月07日](2025_12_07.md), [12月06日](2025_12_06.md), [12月05日](2025_12_05.md), [12月04日](2025_12_04.md), [12月03日](2025_12_03.md), [12月02日](2025_12_02.md), [12月01日](2025_12_01.md), 
+[12月13日](2025_12_13.md), [12月12日](2025_12_12.md), [12月11日](2025_12_11.md), [12月10日](2025_12_10.md), [12月09日](2025_12_09.md), [12月08日](2025_12_08.md), [12月07日](2025_12_07.md), [12月06日](2025_12_06.md), [12月05日](2025_12_05.md), [12月04日](2025_12_04.md), [12月03日](2025_12_03.md), [12月02日](2025_12_02.md), [12月01日](2025_12_01.md), 
 
 ## 2025-11
 
