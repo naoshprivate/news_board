@@ -1,9 +1,9 @@
-# [2025-12-13 01:10 updated](2025_12_13.md)
+# [2025-12-13 01:30 updated](2025_12_13.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Less than six months after President Donald Trump deployed the National Guard to Washington, DC, the mission is becoming more perilous and complex — and perhaps more permanent. https://cnn.it/4pCFiGb <a href="https://bsky.app/profile/cnn.com/post/3m7shtzjays2u" target="_blank">cnn.com</a> (2025-12-13 01:07:06)</span><span style="padding-right:50px;">🇺🇦 🇪🇺 🇺🇸 Ukraine could join the European Union as early as January 2027 under the latest US plan to end the war with Russia, a senior source familiar with the matter told AFP on Friday ➡️ u.afp.com/S722 <a href="https://bsky.app/profile/en.afp.com/post/3m7shtv3rsd2q" target="_blank">en.afp.com</a> (2025-12-13 01:07:02)</span><span style="padding-right:50px;">An official on Jeju Island in South Korea is accused of pocketing the cash from the sale of government-issued trash bags that cost as little as 7 cents each. He accumulated more than $400,000 over about four years, prosecutors said. <a href="https://bsky.app/profile/nytimes.com/post/3m7shsvksm62r" target="_blank">nytimes.com</a> (2025-12-13 01:06:29)</span><span style="padding-right:50px;"> Europe’s first pure-play tree company is a nice little grower on.ft.com/48RsuEG  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m7shsdtqie2f" target="_blank">financialtimes.com</a> (2025-12-13 01:06:10)</span><span style="padding-right:50px;"> The dangerous thrill of buying Warner Bros is not gone on.ft.com/48xDrfI  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m7shsdcpgi2y" target="_blank">financialtimes.com</a> (2025-12-13 01:06:09)</span>
+<span style="padding-right:50px;">Stories of a magical empire, a rift in the heavens, a plan to colonize Mars and more. on.wsj.com/44nu0Nn <a href="https://bsky.app/profile/wsj.com/post/3m7sj26cywj2o" target="_blank">wsj.com</a> (2025-12-13 01:28:26)</span><span style="padding-right:50px;">Wolverines coach Sherrone Moore was fired for cause by the university on Wednesday afternoon. That evening, he was in jail after being arrested on suspicion of assault. on.wsj.com/497YJAH <a href="https://bsky.app/profile/wsj.com/post/3m7sj26dy4423" target="_blank">wsj.com</a> (2025-12-13 01:28:26)</span><span style="padding-right:50px;">A group of House Republicans handed President Donald Trump a rare rebuke on Thursday, voting to restore collective bargaining rights he had stripped from about 1 million federal workers earlier this year. <a href="https://bsky.app/profile/cnn.com/post/3m7sizhledl2k" target="_blank">cnn.com</a> (2025-12-13 01:28:02)</span><span style="padding-right:50px;">Lululemon sparks hopes of reset with CEO exit, back-to-basics focus reut.rs/4jdi47f <a href="https://bsky.app/profile/reuters.com/post/3m7siuaqsju2y" target="_blank">reuters.com</a> (2025-12-13 01:25:08)</span><span style="padding-right:50px;">A buying opportunity emerged in chip stocks just ahead of a Santa Claus rally. How to trade them with options <a href="https://bsky.app/profile/cnbc.com/post/3m7siswbxh52m" target="_blank">cnbc.com</a> (2025-12-13 01:24:23)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48457.58 (🔻257.17 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23173.70 (🔻315.17 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 176.94 (🔻4.32 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.78 (🔺0.24 : 2025-12-12)</span>
+<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48439.52 (🔻275.23 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23166.93 (🔻321.95 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 176.38 (🔻4.88 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.76 (🔺0.22 : 2025-12-12)</span>
   </div>
 </div>
 
@@ -32,94 +32,106 @@
 
 ## News Headlines
 
-Here are six news headlines in Japanese:
+Here are six selected headlines in Japanese:
 
-1.  ウォーカー: ドナルド・トランプ政権、ワシントンへの国民警備隊の派遣がより危険で複雑になり始めた
-2.  ウクライナがEU加盟を目指す計画　2027年1月までにEU加盟国に
-3.  韓国官僚が官公庁のごみ袋から400万ドルを横領
-4.  ドナルド・トランプとビル・クリントン写真が公開
-5.  イランのノーベル平和賞受賞者逮捕　人権活動家
-6.  インドのインフレ率が記録低水準から回復　政策金利の引き下げの余裕あり
+1. 「トランプとクリントン写真も含む、エプスタインの写真が公開される」
+2. 「ユージンに新たな地震、最大震度1の揺れを観測」
+3. 「米国議会、保険料引き上げに伴う健康保険法案を否決」
+4. 「エプスタインの秘蔵写真、トランプとビル・クリントンが写っている画像が発見」
+5. 「ウクライナ、2027年1月に欧州連合に加盟する可能性が高まる」
+6. 「トランプ氏の経済評価が歴史的低下、31％に落ち込む」
 
 ----
 
-@cnn.com
+@wsj.com
 
-Less than six months after President Donald Trump deployed the National Guard to Washington, DC, the mission is becoming more perilous and complex — and perhaps more permanent. https://cnn.it/4pCFiGb
+Stories of a magical empire, a rift in the heavens, a plan to colonize Mars and more. on.wsj.com/44nu0Nn
 
-[2025-12-13 01:07:06](https://bsky.app/profile/cnn.com/post/3m7shtzjays2u)
-
----
-
-@en.afp.com
-
-🇺🇦 🇪🇺 🇺🇸 Ukraine could join the European Union as early as January 2027 under the latest US plan to end the war with Russia, a senior source familiar with the matter told AFP on Friday ➡️ u.afp.com/S722
-
-[2025-12-13 01:07:02](https://bsky.app/profile/en.afp.com/post/3m7shtv3rsd2q)
-
----
-
-@nytimes.com
-
-An official on Jeju Island in South Korea is accused of pocketing the cash from the sale of government-issued trash bags that cost as little as 7 cents each. He accumulated more than $400,000 over about four years, prosecutors said.
-
-[2025-12-13 01:06:29](https://bsky.app/profile/nytimes.com/post/3m7shsvksm62r)
-
----
-
-@financialtimes.com
-
- Europe’s first pure-play tree company is a nice little grower on.ft.com/48RsuEG  | opinion
-
-[2025-12-13 01:06:10](https://bsky.app/profile/financialtimes.com/post/3m7shsdtqie2f)
-
----
-
-@financialtimes.com
-
- The dangerous thrill of buying Warner Bros is not gone on.ft.com/48xDrfI  | opinion
-
-[2025-12-13 01:06:09](https://bsky.app/profile/financialtimes.com/post/3m7shsdcpgi2y)
+[2025-12-13 01:28:26](https://bsky.app/profile/wsj.com/post/3m7sj26cywj2o)
 
 ---
 
 @wsj.com
 
-Stetson, known for its cowboy hats, has been embracing the Americana trend for years. Now it’s preparing for what comes next. on.wsj.com/48R5Egv
+Wolverines coach Sherrone Moore was fired for cause by the university on Wednesday afternoon. That evening, he was in jail after being arrested on suspicion of assault. on.wsj.com/497YJAH
 
-[2025-12-13 01:06:04](https://bsky.app/profile/wsj.com/post/3m7shs5z2wt2k)
+[2025-12-13 01:28:26](https://bsky.app/profile/wsj.com/post/3m7sj26dy4423)
+
+---
+
+@cnn.com
+
+A group of House Republicans handed President Donald Trump a rare rebuke on Thursday, voting to restore collective bargaining rights he had stripped from about 1 million federal workers earlier this year.
+
+[2025-12-13 01:28:02](https://bsky.app/profile/cnn.com/post/3m7sizhledl2k)
 
 ---
 
 @reuters.com
 
-Liverpool boss Slot to meet Salah amid tension reut.rs/4rUO97t
+Lululemon sparks hopes of reset with CEO exit, back-to-basics focus reut.rs/4jdi47f
 
-[2025-12-13 01:05:15](https://bsky.app/profile/reuters.com/post/3m7shqpegu62k)
+[2025-12-13 01:25:08](https://bsky.app/profile/reuters.com/post/3m7siuaqsju2y)
 
 ---
 
 @cnbc.com
 
-Homeowners are losing thousands in equity thanks to weakening prices
+A buying opportunity emerged in chip stocks just ahead of a Santa Claus rally. How to trade them with options
 
-[2025-12-13 01:04:21](https://bsky.app/profile/cnbc.com/post/3m7shp4d4qv2b)
-
----
-
-@npr.org
-
-Was Judge Hannah Dugan trying to obstruct a proceeding or trying to run her courtroom when ICE agents came to arrest an undocumented immigrant? A federal jury will decide n.pr/4rKellc
-
-[2025-12-13 01:03:20](https://bsky.app/profile/npr.org/post/3m7shnbthk42e)
+[2025-12-13 01:24:23](https://bsky.app/profile/cnbc.com/post/3m7siswbxh52m)
 
 ---
 
 @wsj.com
 
-Selected by Allegra Goodman, the author of the novel “Isola.” on.wsj.com/4iZxwnk
+Portraits of the famous, candid images of New York and pictures of a South African suburb during apartheid. on.wsj.com/44pTPfJ
 
-[2025-12-13 01:02:00](https://bsky.app/profile/wsj.com/post/3m7shkv7g262c)
+[2025-12-13 01:23:55](https://bsky.app/profile/wsj.com/post/3m7sis3lfny2o)
+
+---
+
+@axios.com
+
+NEW: Jeffrey Epstein pictured with Trump, Clinton in new photos released by Dems
+
+[2025-12-13 01:23:52](https://bsky.app/profile/axios.com/post/3m7siry7rl22q)
+
+---
+
+@sokuho.news
+
+🔔防災科研より【強震モニタ】動画です。
+
+震源:青森県東方沖, 深さ:50km
+マグニチュード:3.6, 最大震度:1
+📍https://www.google.com/maps?q=40.9,142.1&ll=40.9,142.1&z=7&t=h
+地震発生日時:2025-12-13 01:19頃
+(10倍速▶120s→12s) #地震
+
+[2025-12-13 01:22:15](https://bsky.app/profile/sokuho.news/post/3m7sip3te5525)
+
+---
+
+@sokuho.news
+
+🔔気象庁より【地震速報】です。
+
+1時19分頃、青森県・岩手県で最大震度1の地震を観測しました。
+震源:青森県東方沖, 深さ:50km, 規模:M3.6
+この地震による津波の心配はありません。
+(2025-12-13 01:21:48) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/13/2025-12-13-01-19-02.html?xlarge_image=1
+
+[2025-12-13 01:21:50](https://bsky.app/profile/sokuho.news/post/3m7sioe76sa2v)
+
+---
+
+@nbcnews.com
+
+The Senate voted to reject a pair of health care bills, one each brought by Democrats and Republicans, as the U.S. barrels toward a cliff with steep premium hikes for millions of Americans set to hit next month.
+
+[2025-12-13 01:20:09](https://bsky.app/profile/nbcnews.com/post/3m7sildsawy2p)
 
 ---
 
