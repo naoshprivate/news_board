@@ -1,9 +1,9 @@
-# [2025-12-12 17:50 updated](2025_12_12.md)
+# [2025-12-12 18:10 updated](2025_12_12.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Move over Larry.  It is no secret that a tabby named Larry wields considerable power in Downing Street. Now in Belgium, a rescue cat named Maximus has shot to social media stardom as bewhiskered sidekick and PR weapon of Prime Minister Bart De Wever u.afp.com/S7XP <a href="https://bsky.app/profile/en.afp.com/post/3m7rpcfx35x2v" target="_blank">en.afp.com</a> (2025-12-12 17:47:46)</span><span style="padding-right:50px;">Why Europeans need to learn more about money on.ft.com/4oOcWra <a href="https://bsky.app/profile/financialtimes.com/post/3m7rp7xxepw2c" target="_blank">financialtimes.com</a> (2025-12-12 17:46:24)</span><span style="padding-right:50px;">New Zealand romp to victory over West Indies in second test reut.rs/48OXk0q <a href="https://bsky.app/profile/reuters.com/post/3m7rp5qnvb423" target="_blank">reuters.com</a> (2025-12-12 17:45:09)</span><span style="padding-right:50px;">香港「リンゴ日報」創業者裁判 15日に判決と発表 現地裁判所 https://news.web.nhk/newsweb/na/na-k10015002381000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7royapxov2x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-12 17:42:02)</span><span style="padding-right:50px;">Islanders' Bo Horvat exits due to lower-body injury reut.rs/3MWUX4o <a href="https://bsky.app/profile/reuters.com/post/3m7rouuf4hd2b" target="_blank">reuters.com</a> (2025-12-12 17:40:11)</span>
+<span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】JR大阪環状線 「ホーム上の確認」で全線に遅れ (2025-12-12 17:59) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7rqdatjtc26" target="_blank">sokuho.news</a> (2025-12-12 18:06:07)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  速報「素晴らしい4年間だった」サンフレッチェのスキッベ監督 退任会見 (2025-12-12 17:59:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7rqbxf6iw2b" target="_blank">sokuho.news</a> (2025-12-12 18:05:24)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】関門トンネル全面通行止め 交通事故のため (2025-12-12 18:00:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7rqbmrfhg2b" target="_blank">sokuho.news</a> (2025-12-12 18:05:13)</span><span style="padding-right:50px;">Morning Bid: Copper edges past silver to take gold reut.rs/4pznYlr <a href="https://bsky.app/profile/reuters.com/post/3m7rqbjoh472y" target="_blank">reuters.com</a> (2025-12-12 18:05:09)</span><span style="padding-right:50px;">Rescue crews used inflatable boats to evacuate residents from flooded streets in Snohomish, Washington state, after days of heavy rain submerged neighborhoods in waist deep water. <a href="https://bsky.app/profile/reuters.com/post/3m7rq7mjcpk2v" target="_blank">reuters.com</a> (2025-12-12 18:04:06)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48704.01 (🔺621.11 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23593.86 (🔺84.64 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.93 (🔺0.65 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.77 (🔺0.24 : 2025-12-12)</span>
+<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48704.01 (🔺621.11 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23593.86 (🔺84.64 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.93 (🔺0.65 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.78 (🔺0.24 : 2025-12-12)</span>
   </div>
 </div>
 
@@ -32,108 +32,112 @@
 
 ## News Headlines
 
-* ベルギー首相の猫、救助犬に代わるPR武器に
-* ニュージーランド、西インドを2試合で破る
-* 香港の民主派新聞創業者、12月15日に判決
-* スノーボード・ハーフパイプ世界選手権、平野歩夢が優勝
-* オーストラリア、クロコダイル専門家が容疑者に起訴
-* アメリカとインドネシア、年末までに自衛関税交渉をまとめたい
+1.  JR大阪環状線 「ホーム上の確認」で全線に遅れ
+2.  関門トンネル全面通行止め 交通事故のため
+3.  給食費無償化 全国知事会など “国が恒久的な財源確保を”
+4.  スノーボード ハーフパイプ W杯開幕戦 男子は平野歩夢が優勝
+5.  香港「リンゴ日報」創業者裁判 15日に判決と発表
+6.  インドは中国人技術者へのビザ発給を迅速化　経済協力強化
 
 ----
 
-@en.afp.com
+@sokuho.news
 
-Move over Larry.
+🛎️FNNより【速報】です。
 
-It is no secret that a tabby named Larry wields considerable power in Downing Street. Now in Belgium, a rescue cat named Maximus has shot to social media stardom as bewhiskered sidekick and PR weapon of Prime Minister Bart De Wever
-u.afp.com/S7XP
+【速報】JR大阪環状線 「ホーム上の確認」で全線に遅れ
+(2025-12-12 17:59) #ニュース
 
-[2025-12-12 17:47:46](https://bsky.app/profile/en.afp.com/post/3m7rpcfx35x2v)
+[2025-12-12 18:06:07](https://bsky.app/profile/sokuho.news/post/3m7rqdatjtc26)
 
 ---
 
-@financialtimes.com
+@sokuho.news
 
-Why Europeans need to learn more about money on.ft.com/4oOcWra
+🛎️JNNより【速報】です。
 
-[2025-12-12 17:46:24](https://bsky.app/profile/financialtimes.com/post/3m7rp7xxepw2c)
+速報「素晴らしい4年間だった」サンフレッチェのスキッベ監督 退任会見
+(2025-12-12 17:59:00) #ニュース
+
+[2025-12-12 18:05:24](https://bsky.app/profile/sokuho.news/post/3m7rqbxf6iw2b)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】関門トンネル全面通行止め 交通事故のため
+(2025-12-12 18:00:00) #ニュース
+
+[2025-12-12 18:05:13](https://bsky.app/profile/sokuho.news/post/3m7rqbmrfhg2b)
 
 ---
 
 @reuters.com
 
-New Zealand romp to victory over West Indies in second test reut.rs/48OXk0q
+Morning Bid: Copper edges past silver to take gold reut.rs/4pznYlr
 
-[2025-12-12 17:45:09](https://bsky.app/profile/reuters.com/post/3m7rp5qnvb423)
+[2025-12-12 18:05:09](https://bsky.app/profile/reuters.com/post/3m7rqbjoh472y)
+
+---
+
+@reuters.com
+
+Rescue crews used inflatable boats to evacuate residents from flooded streets in Snohomish, Washington state, after days of heavy rain submerged neighborhoods in waist deep water.
+
+[2025-12-12 18:04:06](https://bsky.app/profile/reuters.com/post/3m7rq7mjcpk2v)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-香港「リンゴ日報」創業者裁判 15日に判決と発表 現地裁判所
-https://news.web.nhk/newsweb/na/na-k10015002381000
+来春のセンバツ高校野球 「21世紀枠」候補となる9校発表
+https://news.web.nhk/newsweb/na/na-k10015002441000
 
-[2025-12-12 17:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7royapxov2x)
-
----
-
-@reuters.com
-
-Islanders' Bo Horvat exits due to lower-body injury reut.rs/3MWUX4o
-
-[2025-12-12 17:40:11](https://bsky.app/profile/reuters.com/post/3m7rouuf4hd2b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-スノーボード ハーフパイプ W杯開幕戦 男子は平野歩夢が優勝
-https://news.web.nhk/newsweb/na/na-k10015002431000
-
-[2025-12-12 17:39:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rosty7ym2x)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Australia: Croc wrangler Matt Wright  jailed for evidence tampering in fatal crash
-
-[2025-12-12 17:38:56](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7rosoafrn2s)
-
----
-
-@reuters.com
-
-Indonesia expects to wrap up U.S. tariff talks by year-end reut.rs/48QndNJ
-
-[2025-12-12 17:35:06](https://bsky.app/profile/reuters.com/post/3m7rols6nep2i)
-
----
-
-@cnn.com
-
-There is certainly some irony in one of the questions most commonly posed to Alexa this year: “What does AI mean?”
-
-Others include “how long do I poach an egg for?” and “what’s the diameter of Earth?" And celebrities are also of particular interest to Alexa users, according to Amazon’s 2025 roundup.
-
-[2025-12-12 17:31:01](https://bsky.app/profile/cnn.com/post/3m7roei3mbd23)
+[2025-12-12 18:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rq5tt3hv2b)
 
 ---
 
 @nikkei.com
 
-香港・民主派新聞創業者ジミー・ライ氏、12月15日に判決言い渡し
+無印良品、12月15日からEC再開　アスクルへのサイバー攻撃から復旧（無料記事）
 www.nikkei.com/article/DGXZQO...
-
-民主派新聞・蘋果日報（アップル・デイリー、廃刊）の創業者で、香港国家安全維持法違反の罪に問われています。
-
-同氏は罪状を否認しています。
-
-2020年に逮捕されてから収監が長期化、健康問題が懸念されています。
 
 #ニュース
 
-[2025-12-12 17:30:32](https://bsky.app/profile/nikkei.com/post/3m7rodmpozj2f)
+[2025-12-12 18:00:49](https://bsky.app/profile/nikkei.com/post/3m7rpzr43rw22)
+
+---
+
+@nikkei.com
+
+「おつり」でコツコツ始める資産形成
+www.nikkei.com/article/DGXZQO...
+
+資産形成をしたい。でも損失が気になる…。
+
+そんなハードルを下げる「おつり」を使った小口運用サービスが人気です。
+
+クレカや電子マネーで買い物すると、指定した端数が資産運用に回されます。
+
+[2025-12-12 18:00:47](https://bsky.app/profile/nikkei.com/post/3m7rpzorl3z2f)
+
+---
+
+@aljazeera.com
+
+Report finds paramilitary group responsible for vast majority of attacks as conflict devastates civilian population.
+
+[2025-12-12 18:00:35](https://bsky.app/profile/aljazeera.com/post/3m7rpze3krz2v)
+
+---
+
+@reuters.com
+
+Ignoring AI bubble fears, investors bet Nvidia and Google will fuel Taiwan stocks to record reut.rs/4q4HMNg
+
+[2025-12-12 18:00:30](https://bsky.app/profile/reuters.com/post/3m7rpz6s7bz2r)
 
 ---
 
