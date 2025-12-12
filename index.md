@@ -1,9 +1,9 @@
-# [2025-12-12 17:30 updated](2025_12_12.md)
+# [2025-12-12 17:50 updated](2025_12_12.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">AFP’s Oscar Del Pozo photographs forestry agents picking up dead storks along the shore of the Manzanares River in Getafe, outside Madrid, Spain.  Hundreds of storks have been found dead along a river near Madrid, raising concerns that a highly infections strain of bird flu may be circulating <a href="https://bsky.app/profile/en.afp.com/post/3m7ro6tyljl2j" target="_blank">en.afp.com</a> (2025-12-12 17:27:52)</span><span style="padding-right:50px;">国民民主党 政治活動の透明化へ法案提出 外部監査義務づけなど https://news.web.nhk/newsweb/na/na-k10015002391000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ro5leh3h2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-12 17:27:08)</span><span style="padding-right:50px;">北陸新幹線 与党のプロジェクトチーム ルート再検証など議論へ https://news.web.nhk/newsweb/na/na-k10015002231000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ro5h4cph2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-12 17:27:03)</span><span style="padding-right:50px;">Gold clings to 7-week high as investors gauge Fed trajectory; silver near record peak reut.rs/4acoQHH <a href="https://bsky.app/profile/reuters.com/post/3m7rnzvh2up2c" target="_blank">reuters.com</a> (2025-12-12 17:25:06)</span><span style="padding-right:50px;">JR八戸線の高架橋被害「復旧には時間かかる可能性」専門家 https://news.web.nhk/newsweb/na/na-k10015002371000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rny27gwn2d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-12 17:24:02)</span>
+<span style="padding-right:50px;">Move over Larry.  It is no secret that a tabby named Larry wields considerable power in Downing Street. Now in Belgium, a rescue cat named Maximus has shot to social media stardom as bewhiskered sidekick and PR weapon of Prime Minister Bart De Wever u.afp.com/S7XP <a href="https://bsky.app/profile/en.afp.com/post/3m7rpcfx35x2v" target="_blank">en.afp.com</a> (2025-12-12 17:47:46)</span><span style="padding-right:50px;">Why Europeans need to learn more about money on.ft.com/4oOcWra <a href="https://bsky.app/profile/financialtimes.com/post/3m7rp7xxepw2c" target="_blank">financialtimes.com</a> (2025-12-12 17:46:24)</span><span style="padding-right:50px;">New Zealand romp to victory over West Indies in second test reut.rs/48OXk0q <a href="https://bsky.app/profile/reuters.com/post/3m7rp5qnvb423" target="_blank">reuters.com</a> (2025-12-12 17:45:09)</span><span style="padding-right:50px;">香港「リンゴ日報」創業者裁判 15日に判決と発表 現地裁判所 https://news.web.nhk/newsweb/na/na-k10015002381000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7royapxov2x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-12 17:42:02)</span><span style="padding-right:50px;">Islanders' Bo Horvat exits due to lower-body injury reut.rs/3MWUX4o <a href="https://bsky.app/profile/reuters.com/post/3m7rouuf4hd2b" target="_blank">reuters.com</a> (2025-12-12 17:40:11)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48704.01 (🔺621.11 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23593.86 (🔺84.64 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.93 (🔺0.65 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.73 (🔺0.20 : 2025-12-12)</span>
+<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48704.01 (🔺621.11 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23593.86 (🔺84.64 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.93 (🔺0.65 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.77 (🔺0.24 : 2025-12-12)</span>
   </div>
 </div>
 
@@ -32,102 +32,108 @@
 
 ## News Headlines
 
-1. 国民民主党 政治活動の透明化へ法案提出 外部監査義務づけなど
-2. JR八戸線の高架橋被害「復旧には時間かかる可能性」
-3. 赤坂女性刺傷 駐屯地ロッカーから血の付いた服 自衛官を起訴
-4. トランプ大統領に“反旗” 共和党強い州で選挙区見直し案否決
-5. トランプ大統領 州法律などのAI過剰規制防ぐ大統領令に署名
-6. 香港の実業家ジャイミー・ライの国安法裁判、判決は今月末
+* ベルギー首相の猫、救助犬に代わるPR武器に
+* ニュージーランド、西インドを2試合で破る
+* 香港の民主派新聞創業者、12月15日に判決
+* スノーボード・ハーフパイプ世界選手権、平野歩夢が優勝
+* オーストラリア、クロコダイル専門家が容疑者に起訴
+* アメリカとインドネシア、年末までに自衛関税交渉をまとめたい
 
 ----
 
 @en.afp.com
 
-AFP’s Oscar Del Pozo photographs forestry agents picking up dead storks along the shore of the Manzanares River in Getafe, outside Madrid, Spain.
+Move over Larry.
 
-Hundreds of storks have been found dead along a river near Madrid, raising concerns that a highly infections strain of bird flu may be circulating
+It is no secret that a tabby named Larry wields considerable power in Downing Street. Now in Belgium, a rescue cat named Maximus has shot to social media stardom as bewhiskered sidekick and PR weapon of Prime Minister Bart De Wever
+u.afp.com/S7XP
 
-[2025-12-12 17:27:52](https://bsky.app/profile/en.afp.com/post/3m7ro6tyljl2j)
-
----
-
-@nhknewsunofficial.bsky.social
-
-国民民主党 政治活動の透明化へ法案提出 外部監査義務づけなど
-https://news.web.nhk/newsweb/na/na-k10015002391000
-
-[2025-12-12 17:27:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ro5leh3h2v)
-
----
-
-@nhknewsunofficial.bsky.social
-
-北陸新幹線 与党のプロジェクトチーム ルート再検証など議論へ
-https://news.web.nhk/newsweb/na/na-k10015002231000
-
-[2025-12-12 17:27:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ro5h4cph2b)
-
----
-
-@reuters.com
-
-Gold clings to 7-week high as investors gauge Fed trajectory; silver near record peak reut.rs/4acoQHH
-
-[2025-12-12 17:25:06](https://bsky.app/profile/reuters.com/post/3m7rnzvh2up2c)
-
----
-
-@nhknewsunofficial.bsky.social
-
-JR八戸線の高架橋被害「復旧には時間かかる可能性」専門家
-https://news.web.nhk/newsweb/na/na-k10015002371000
-
-[2025-12-12 17:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rny27gwn2d)
-
----
-
-@en.afp.com
-
-UPDATE Kosovo has started accepting migrants the United States wants to deport, under an accord with President Donald Trump's administration, Prime Minister Albin Kurti says.
-
-Under the agreement, Kosovo could accept up to 50 people, according to the Kurti government. The agreement is to last a year
-
-[2025-12-12 17:21:43](https://bsky.app/profile/en.afp.com/post/3m7rnttmu4w2h)
-
----
-
-@npr.org
-
-Global online forum Reddit files a court challenge to Australian law blocking children under 16 from holding accounts on the world's most popular social media platforms. n.pr/4pALqPb
-
-[2025-12-12 17:20:22](https://bsky.app/profile/npr.org/post/3m7rnrgtjim2x)
+[2025-12-12 17:47:46](https://bsky.app/profile/en.afp.com/post/3m7rpcfx35x2v)
 
 ---
 
 @financialtimes.com
 
-The FT's Person of the Year has been the driving force behind the massive AI boom which has the capacity to reshape the global economy. on.ft.com/4s05oob
+Why Europeans need to learn more about money on.ft.com/4oOcWra
 
-[2025-12-12 17:20:01](https://bsky.app/profile/financialtimes.com/post/3m7rnqsuxnm2p)
-
----
-
-@sokuho.news
-
-🔔ANNより【速報】です。
-
-【速報】神奈川・日向山で9日に発生の山火事 ほぼ消し止められる 伊勢原市
-(2025年12月12日 17:15) #ニュース
-
-[2025-12-12 17:15:32](https://bsky.app/profile/sokuho.news/post/3m7rnirrfiq2a)
+[2025-12-12 17:46:24](https://bsky.app/profile/financialtimes.com/post/3m7rp7xxepw2c)
 
 ---
 
-@apnews.com
+@reuters.com
 
-China is using surveillance technology - much of it originating in the U.S. - to cement its power at home and vastly amplify it abroad. The story of retired Chinese official Li Chuanliang, who now lives in Texas, shows how Beijing uses such tech overseas.
+New Zealand romp to victory over West Indies in second test reut.rs/48OXk0q
 
-[2025-12-12 17:15:11](https://bsky.app/profile/apnews.com/post/3m7rni6ein72x)
+[2025-12-12 17:45:09](https://bsky.app/profile/reuters.com/post/3m7rp5qnvb423)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+香港「リンゴ日報」創業者裁判 15日に判決と発表 現地裁判所
+https://news.web.nhk/newsweb/na/na-k10015002381000
+
+[2025-12-12 17:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7royapxov2x)
+
+---
+
+@reuters.com
+
+Islanders' Bo Horvat exits due to lower-body injury reut.rs/3MWUX4o
+
+[2025-12-12 17:40:11](https://bsky.app/profile/reuters.com/post/3m7rouuf4hd2b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+スノーボード ハーフパイプ W杯開幕戦 男子は平野歩夢が優勝
+https://news.web.nhk/newsweb/na/na-k10015002431000
+
+[2025-12-12 17:39:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rosty7ym2x)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Australia: Croc wrangler Matt Wright  jailed for evidence tampering in fatal crash
+
+[2025-12-12 17:38:56](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7rosoafrn2s)
+
+---
+
+@reuters.com
+
+Indonesia expects to wrap up U.S. tariff talks by year-end reut.rs/48QndNJ
+
+[2025-12-12 17:35:06](https://bsky.app/profile/reuters.com/post/3m7rols6nep2i)
+
+---
+
+@cnn.com
+
+There is certainly some irony in one of the questions most commonly posed to Alexa this year: “What does AI mean?”
+
+Others include “how long do I poach an egg for?” and “what’s the diameter of Earth?" And celebrities are also of particular interest to Alexa users, according to Amazon’s 2025 roundup.
+
+[2025-12-12 17:31:01](https://bsky.app/profile/cnn.com/post/3m7roei3mbd23)
+
+---
+
+@nikkei.com
+
+香港・民主派新聞創業者ジミー・ライ氏、12月15日に判決言い渡し
+www.nikkei.com/article/DGXZQO...
+
+民主派新聞・蘋果日報（アップル・デイリー、廃刊）の創業者で、香港国家安全維持法違反の罪に問われています。
+
+同氏は罪状を否認しています。
+
+2020年に逮捕されてから収監が長期化、健康問題が懸念されています。
+
+#ニュース
+
+[2025-12-12 17:30:32](https://bsky.app/profile/nikkei.com/post/3m7rodmpozj2f)
 
 ---
 
