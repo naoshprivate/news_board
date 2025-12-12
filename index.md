@@ -1,9 +1,9 @@
-# [2025-12-12 14:10 updated](2025_12_12.md)
+# [2025-12-12 14:30 updated](2025_12_12.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;"> Help! My children have got opinions about where to eat on.ft.com/48KKErt  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m7rd3xv46i2w" target="_blank">financialtimes.com</a> (2025-12-12 14:09:25)</span><span style="padding-right:50px;"> L’Oréal shows building stakes in a rival might just be worth it on.ft.com/48QcDX1  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m7rd3xfhzv23" target="_blank">financialtimes.com</a> (2025-12-12 14:09:24)</span><span style="padding-right:50px;">South Korea exam chief resigns after tests dubbed too hard  u.afp.com/S78y <a href="https://bsky.app/profile/en.afp.com/post/3m7rd3b5rmk2k" target="_blank">en.afp.com</a> (2025-12-12 14:09:01)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】今年の漢字は「熊」 京都・清水寺 (2025-12-12 14:08) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7rd2bkqri2y" target="_blank">sokuho.news</a> (2025-12-12 14:08:28)</span><span style="padding-right:50px;">🔔NHKより【速報】です。  ことし1年の世相を表す漢字は「熊」 京都 清水寺で発表 (2025-12-12 14:07) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7rcygxlz32r" target="_blank">sokuho.news</a> (2025-12-12 14:07:26)</span>
+<span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】年末恒例 今年の漢字「熊」に決定 京都市の清水寺で発表 (2025年12月12日 14:26) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7re5qcz652x" target="_blank">sokuho.news</a> (2025-12-12 14:28:17)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】インフルエンザ感染者数「38.51人」 厚生労働省 2週連続減少も全国で「警報」基準を超える 厚生労働省 (2025-12-12 14:17:22) #ニュース  ⬛感染症情報 🔗https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/infulenza/index.html <a href="https://bsky.app/profile/sokuho.news/post/3m7rdsoqcis2b" target="_blank">sokuho.news</a> (2025-12-12 14:22:07)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】今年の漢字は「熊」…2位は「米」3位は「高」4位「脈」5位「万」 トップ20と歴代「今年の漢字」一覧 (2025-12-12 14:08) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7rdrbb64i2r" target="_blank">sokuho.news</a> (2025-12-12 14:21:19)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】今年の漢字は『熊』全国で熊の出没や被害が頻発していることなどから選出 (2025-12-12 14:17) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7rdr4bknt2e" target="_blank">sokuho.news</a> (2025-12-12 14:21:14)</span><span style="padding-right:50px;">【地震情報】北海道～宮城県で震度4 津波注意報はすべて解除 https://news.web.nhk/newsweb/na/na-k10015000541000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rdqt2lr22b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-12 14:21:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50493.01 (🔺12.78 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48704.01 (🔺621.11 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23593.86 (🔺84.64 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.93 (🔺0.65 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3212.00 (🔺21.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.74 (🔺0.21 : 2025-12-12)</span>
+<span style="padding-right:50px;">NIKKEI: 50639.86 (🔺159.63 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48704.01 (🔺621.11 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23593.86 (🔺84.64 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.93 (🔺0.65 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3226.00 (🔺35.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.76 (🔺0.23 : 2025-12-12)</span>
   </div>
 </div>
 
@@ -32,38 +32,39 @@
 
 ## News Headlines
 
-1. 今年の漢字は「熊」に決定
-2. 北海道・東北 津波注意報すべて解除
-3. JR九州 混雑緩和へ普通列車など一部増結
-4. 全国インフルエンザ患者数「38.51人」 2週間連続減少
-5. 自民・維新 定数削減法案審議入りに向け野党側に働きかけ確認
-6. かつて小児医療の要『住吉市民病院』跡地は認知症対応の拠点へ
+Here are six important stories with headlines in Japanese:
+
+1. 「今年の漢字」は「熊」に決定 京都清水寺で発表
+2. 全国インフルエンザ患者数「38.51人」　2週間連続減少
+3. 北海道・東北地方の津波注意報を全て解除　気象庁
+4. トランプ大統領　和平案協議の合意の可能性を見極め
+5. 自民・維新　定数削減法案審議に入りに向け野党側に働きかけ確認
+6. かつて小児医療の要『住吉市民病院』跡地は認知症対応の拠点へ　2027年5月開業
 
 ----
 
-@financialtimes.com
+@sokuho.news
 
- Help! My children have got opinions about where to eat on.ft.com/48KKErt  | opinion
+🔔ANNより【速報】です。
 
-[2025-12-12 14:09:25](https://bsky.app/profile/financialtimes.com/post/3m7rd3xv46i2w)
+【速報】年末恒例 今年の漢字「熊」に決定 京都市の清水寺で発表
+(2025年12月12日 14:26) #ニュース
 
----
-
-@financialtimes.com
-
- L’Oréal shows building stakes in a rival might just be worth it on.ft.com/48QcDX1  | opinion
-
-[2025-12-12 14:09:24](https://bsky.app/profile/financialtimes.com/post/3m7rd3xfhzv23)
+[2025-12-12 14:28:17](https://bsky.app/profile/sokuho.news/post/3m7re5qcz652x)
 
 ---
 
-@en.afp.com
+@sokuho.news
 
-South Korea exam chief resigns after tests dubbed too hard
+🛎️JNNより【速報】です。
 
-u.afp.com/S78y
+【速報】インフルエンザ感染者数「38.51人」 厚生労働省 2週連続減少も全国で「警報」基準を超える 厚生労働省
+(2025-12-12 14:17:22) #ニュース
 
-[2025-12-12 14:09:01](https://bsky.app/profile/en.afp.com/post/3m7rd3b5rmk2k)
+⬛感染症情報
+🔗https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/infulenza/index.html
+
+[2025-12-12 14:22:07](https://bsky.app/profile/sokuho.news/post/3m7rdsoqcis2b)
 
 ---
 
@@ -71,60 +72,57 @@ u.afp.com/S78y
 
 🛎️FNNより【速報】です。
 
-【速報】今年の漢字は「熊」 京都・清水寺
+【速報】今年の漢字は「熊」…2位は「米」3位は「高」4位「脈」5位「万」 トップ20と歴代「今年の漢字」一覧
 (2025-12-12 14:08) #ニュース
 
-[2025-12-12 14:08:28](https://bsky.app/profile/sokuho.news/post/3m7rd2bkqri2y)
+[2025-12-12 14:21:19](https://bsky.app/profile/sokuho.news/post/3m7rdrbb64i2r)
 
 ---
 
 @sokuho.news
 
-🔔NHKより【速報】です。
+🛎️NNNより【速報】です。
 
-ことし1年の世相を表す漢字は「熊」 京都 清水寺で発表
-(2025-12-12 14:07) #ニュース
+【速報】今年の漢字は『熊』全国で熊の出没や被害が頻発していることなどから選出
+(2025-12-12 14:17) #ニュース
 
-[2025-12-12 14:07:26](https://bsky.app/profile/sokuho.news/post/3m7rcygxlz32r)
+[2025-12-12 14:21:14](https://bsky.app/profile/sokuho.news/post/3m7rdr4bknt2e)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【地震情報】北海道～宮城県で震度4 津波注意報はすべて解除
+https://news.web.nhk/newsweb/na/na-k10015000541000
+
+[2025-12-12 14:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rdqt2lr22b)
+
+---
+
+@reuters.com
+
+Caribbean nations team up to cut power costs, revive geothermal push reut.rs/4aGK8xm
+
+[2025-12-12 14:20:11](https://bsky.app/profile/reuters.com/post/3m7rdpampah2i)
 
 ---
 
 @sokuho.news
 
-🔔ANNより【速報】です。
+🛎️NNNより【速報】です。
 
-【速報】年末恒例 今年の漢字「熊」に決定 京都市の清水寺で発表
-(2025年12月12日 14:07) #ニュース
+【速報】今年の漢字は『熊』全国で熊の出没や被害が頻発しているなどから選出
+(2025-12-12 14:17) #ニュース
 
-[2025-12-12 14:07:20](https://bsky.app/profile/sokuho.news/post/3m7rcyaqtez2z)
-
----
-
-@sokuho.news
-
-🔔NHKより【速報】です。
-
-北海道・東北 津波注意報すべて解除
-(2025-12-12 14:06) #ニュース
-
-⬛津波情報
-🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami
-
-[2025-12-12 14:06:31](https://bsky.app/profile/sokuho.news/post/3m7rcwscft62b)
+[2025-12-12 14:18:05](https://bsky.app/profile/sokuho.news/post/3m7rdlhxlze2r)
 
 ---
 
-@sokuho.news
+@financialtimes.com
 
-🔔FNNより【速報】です。
+Trump takes the culture wars across the Atlantic on.ft.com/4iQ8YNf
 
-北海道・東北地方の津波注意報を全て解除 気象庁
-(2025-12-12 14:05) #ニュース
-
-⬛津波情報
-🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami
-
-[2025-12-12 14:06:26](https://bsky.app/profile/sokuho.news/post/3m7rcwnrder2z)
+[2025-12-12 14:17:44](https://bsky.app/profile/financialtimes.com/post/3m7rdkuef3a2k)
 
 ---
 
@@ -133,23 +131,26 @@ u.afp.com/S78y
 🔔ANNより【速報】です。
 
 【速報】北海道と東北地方に出ていた津波注意報を全て解除 気象庁
-(2025年12月12日 14:05) #ニュース
+(2025年12月12日 14:16) #ニュース
 
 ⬛津波情報
 🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami
 
-[2025-12-12 14:05:57](https://bsky.app/profile/sokuho.news/post/3m7rcvsibzp2y)
+[2025-12-12 14:17:31](https://bsky.app/profile/sokuho.news/post/3m7rdkhh47d2y)
 
 ---
 
 @sokuho.news
 
-🛎️FNNより【速報】です。
+🔔ANNより【速報】です。
 
-【速報】JR九州 混雑緩和へ普通列車など一部増結 姪浜～唐津駅で直通運転増加 東郷駅など特急停車本数増 来年3月ダイヤ改正 福岡
-(2025-12-12 14:01) #ニュース
+【速報】全国のインフルエンザの患者数「38.51人」 2週間連続減少も依然高い水準 厚労省
+(14:16) #ニュース
 
-[2025-12-12 14:05:54](https://bsky.app/profile/sokuho.news/post/3m7rcvpmgl72y)
+😷感染症情報
+🔗https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/infulenza/index.html
+
+[2025-12-12 14:17:21](https://bsky.app/profile/sokuho.news/post/3m7rdk6ny2n2s)
 
 ---
 
