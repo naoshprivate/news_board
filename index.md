@@ -1,9 +1,9 @@
-# [2025-12-12 11:50 updated](2025_12_12.md)
+# [2025-12-12 12:10 updated](2025_12_12.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🔔NHKより【地震速報】です。  ■震度4■ 渡島東部 渡島西部 胆振中東部 日高中部 津軽北部 青森三八上北 青森下北 岩手内陸北部 岩手内陸南部 宮城北部 秋田内陸北部 ■震度3■ 石狩北部 石狩中部 石狩南… (2025-12-12 11:44) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m7r37l5sxp2y" target="_blank">sokuho.news</a> (2025-12-12 11:48:15)</span><span style="padding-right:50px;">🔔気象庁より【震源速報】です。  11時44分頃、青森県東方沖(深さ:20km) を震源とする M6.5 の地震を観測しました。 この地震により、日本の沿岸では若干の海面変動があるかもしれませ… (2025-12-12 11:47:29) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m7r36anotl2s" target="_blank">sokuho.news</a> (2025-12-12 11:47:31)</span><span style="padding-right:50px;">🔔NHKより【地震速報】です。  ■震度4■ 渡島東部 渡島西部 胆振中東部 日高中部 津軽北部 青森三八上北 青森下北 岩手内陸北部 岩手内陸南部 宮城北部 秋田内陸北部 ■震度3■ 石狩北部 石狩中部 石狩南… (2025-12-12 11:44) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m7r35szgut2s" target="_blank">sokuho.news</a> (2025-12-12 11:47:17)</span><span style="padding-right:50px;">🔔NHKより【地震速報】です。  ■震度4■ 渡島東部 胆振中東部 津軽北部 青森三八上北 青森下北 岩手内陸北部 ■震度3■ 日高西部 日高中部 日高東部 十勝南部 津軽南部 岩手沿岸北部 岩手沿岸南部 岩手内… (2025-12-12 11:44) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m7r33ppxhf2y" target="_blank">sokuho.news</a> (2025-12-12 11:46:06)</span><span style="padding-right:50px;">Tyler Robinson, the 22-year-old man accused of fatally shooting conservative political activist Charlie Kirk, appeared in a Utah court Thursday for the first time in-person since his arrest. <a href="https://bsky.app/profile/cnn.com/post/3m7r33l2qtg22" target="_blank">cnn.com</a> (2025-12-12 11:46:01)</span>
+<span style="padding-right:50px;">気象庁会見へ（12:50～）青森県東方沖地震で津波注意報 https://news.web.nhk/newsweb/na/na-k10015002021000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7r4evykou2d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-12 12:09:07)</span><span style="padding-right:50px;">【北海道 東北で津波注意報】各地の潮位の状況は https://news.web.nhk/newsweb/na/na-k10015001961000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7r4erxkrz2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-12 12:09:02)</span><span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像3🈡 (2025-12-12 12:07:42) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m7r4cmkepj2b" target="_blank">sokuho.news</a> (2025-12-12 12:07:51)</span><span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像2 (2025-12-12 12:07:33) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m7r4cbtemw2a" target="_blank">sokuho.news</a> (2025-12-12 12:07:40)</span><span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください 🔗http://www.kmoni.bosai.go.jp/  🔶防災科研/強震モニタ/予測震度画像1 (2025-12-12 12:07:13) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m7r4booayy2b" target="_blank">sokuho.news</a> (2025-12-12 12:07:20)</span>
   </div>
 </div>
 
@@ -30,142 +30,115 @@
 
 ---
 
-## News Headlines
+@nhknewsunofficial.bsky.social
 
-Here are the 6 important topics with Japanese headlines:
+気象庁会見へ（12:50～）青森県東方沖地震で津波注意報
+https://news.web.nhk/newsweb/na/na-k10015002021000
 
-1. 強い揺れに警戒 (Be Cautious of Strong Shakes)
-The article reports on a magnitude 6.5 earthquake that occurred off the coast of Aomori Prefecture, causing strong shakes in northern Japan.
-
-2. 介護保険サービス利用料の対象拡大 (Expansion of Target for Long-Term Care Insurance Service Fees)
-The article discusses the government's plan to expand the target for
-
-----
-
-@sokuho.news
-
-🔔NHKより【地震速報】です。
-
-■震度4■
-渡島東部 渡島西部 胆振中東部 日高中部 津軽北部 青森三八上北 青森下北 岩手内陸北部 岩手内陸南部 宮城北部 秋田内陸北部
-■震度3■
-石狩北部 石狩中部 石狩南…
-(2025-12-12 11:44) #地震
-
-[2025-12-12 11:48:15](https://bsky.app/profile/sokuho.news/post/3m7r37l5sxp2y)
-
----
-
-@sokuho.news
-
-🔔気象庁より【震源速報】です。
-
-11時44分頃、青森県東方沖(深さ:20km) を震源とする M6.5 の地震を観測しました。
-この地震により、日本の沿岸では若干の海面変動があるかもしれませ…
-(2025-12-12 11:47:29) #地震
-
-[2025-12-12 11:47:31](https://bsky.app/profile/sokuho.news/post/3m7r36anotl2s)
-
----
-
-@sokuho.news
-
-🔔NHKより【地震速報】です。
-
-■震度4■
-渡島東部 渡島西部 胆振中東部 日高中部 津軽北部 青森三八上北 青森下北 岩手内陸北部 岩手内陸南部 宮城北部 秋田内陸北部
-■震度3■
-石狩北部 石狩中部 石狩南…
-(2025-12-12 11:44) #地震
-
-[2025-12-12 11:47:17](https://bsky.app/profile/sokuho.news/post/3m7r35szgut2s)
-
----
-
-@sokuho.news
-
-🔔NHKより【地震速報】です。
-
-■震度4■
-渡島東部 胆振中東部 津軽北部 青森三八上北 青森下北 岩手内陸北部
-■震度3■
-日高西部 日高中部 日高東部 十勝南部 津軽南部 岩手沿岸北部 岩手沿岸南部 岩手内…
-(2025-12-12 11:44) #地震
-
-[2025-12-12 11:46:06](https://bsky.app/profile/sokuho.news/post/3m7r33ppxhf2y)
-
----
-
-@cnn.com
-
-Tyler Robinson, the 22-year-old man accused of fatally shooting conservative political activist Charlie Kirk, appeared in a Utah court Thursday for the first time in-person since his arrest.
-
-[2025-12-12 11:46:01](https://bsky.app/profile/cnn.com/post/3m7r33l2qtg22)
-
----
-
-@sokuho.news
-
-🔔気象庁より【震度速報】です。
-
-11時44分頃、北海道・青森県・岩手県などで最大震度4の地震を観測しました。
-今後の情報に注意してください。
-(2025-12-12 11:45:50) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/12/2025-12-12-11-44-19.html?xlarge_image=1
-
-[2025-12-12 11:45:55](https://bsky.app/profile/sokuho.news/post/3m7r33exxt22b)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】タクシーがスーパー店舗に突っ込む 80代の男性運転手がけが 福岡・春日市
-(2025-12-12 11:35) #ニュース
-
-[2025-12-12 11:45:51](https://bsky.app/profile/sokuho.news/post/3m7r33ay5uz2v)
-
----
-
-@sokuho.news
-
-🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥
-🔔 #緊急地震速報 【警報】
-🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥
-
-🚨青森東方沖で地震⚠️東北⚠️北海道で強い揺れ
-🚨強い揺れに警戒してください。
-(2025-12-12 11:44:31)
-
-(NIED/強震モニタ/予測震度画像 +60秒)
-
-[2025-12-12 11:45:38](https://bsky.app/profile/sokuho.news/post/3m7r32vep5z2v)
-
----
-
-@sokuho.news
-
-🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥
-🔔 #緊急地震速報 【警報】
-🟥⬛🟥⬛🟥⬛🟥⬛🟥⬛🟥
-
-🚨青森東方沖で地震⚠️東北⚠️北海道で強い揺れ
-🚨強い揺れに警戒してください。
-(2025-12-12 11:44:31)
-
-(NIED/強震モニタ/予測震度画像 +30秒)
-
-[2025-12-12 11:45:08](https://bsky.app/profile/sokuho.news/post/3m7r2zymixa25)
+[2025-12-12 12:09:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7r4evykou2d)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-介護保険サービス利用料 自己負担2割の対象拡大で調整 厚労省
-https://news.web.nhk/newsweb/na/na-k10015001881000
+【北海道 東北で津波注意報】各地の潮位の状況は
+https://news.web.nhk/newsweb/na/na-k10015001961000
 
-[2025-12-12 11:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7r2zul37f2w)
+[2025-12-12 12:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7r4erxkrz2b)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗
+
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像3🈡
+(2025-12-12 12:07:42) #緊急地震速報
+
+[2025-12-12 12:07:51](https://bsky.app/profile/sokuho.news/post/3m7r4cmkepj2b)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗
+
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像2
+(2025-12-12 12:07:33) #緊急地震速報
+
+[2025-12-12 12:07:40](https://bsky.app/profile/sokuho.news/post/3m7r4cbtemw2a)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗
+
+⚠️揺れに警戒してください
+🔗http://www.kmoni.bosai.go.jp/
+
+🔶防災科研/強震モニタ/予測震度画像1
+(2025-12-12 12:07:13) #緊急地震速報
+
+[2025-12-12 12:07:20](https://bsky.app/profile/sokuho.news/post/3m7r4booayy2b)
+
+---
+
+@en.afp.com
+
+South Korean cryptocurrency tycoon Do Kwon sentenced to 15 years in prison over fraud linked to his company's failure, which wiped out $40 billion of investors' money, US media report
+
+u.afp.com/S78a
+
+[2025-12-12 12:06:11](https://bsky.app/profile/en.afp.com/post/3m7r47mfwyu2k)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【地震】東通原発 女川原発 “異常がないか確認中”
+https://news.web.nhk/newsweb/na/na-k10015002001000
+
+[2025-12-12 12:06:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7r47l2sh42v)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【ライブ】北海道・東北で震度4 津波注意報 各地の様子
+https://news.web.nhk/newsweb/na/na-k10015001981000
+
+[2025-12-12 12:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7r47gm35s2k)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】宮城・東松島市に「避難指示」 11:52時点
+(2025-12-12 12:00:00) #ニュース
+
+🟪避難情報
+🔗https://crisis.yahoo.co.jp/evacuation/04/
+
+[2025-12-12 12:05:50](https://bsky.app/profile/sokuho.news/post/3m7r46yfhg42z)
+
+---
+
+@sokuho.news
+
+🔔原子力規制委員会より【Nアラート】です。
+
+【情報提供】異常なし(第1報)青森県東方沖で発生した地震の影響
+(2025/12/12 12:04)
+🔗https://kinkyu.nra.go.jp/m/sp/joho/2025/12/post-141.html
+
+[2025-12-12 12:05:46](https://bsky.app/profile/sokuho.news/post/3m7r46urjt62a)
 
 ---
 
