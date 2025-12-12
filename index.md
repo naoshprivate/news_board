@@ -1,9 +1,9 @@
-# [2025-12-12 18:10 updated](2025_12_12.md)
+# [2025-12-12 18:30 updated](2025_12_12.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】JR大阪環状線 「ホーム上の確認」で全線に遅れ (2025-12-12 17:59) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7rqdatjtc26" target="_blank">sokuho.news</a> (2025-12-12 18:06:07)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  速報「素晴らしい4年間だった」サンフレッチェのスキッベ監督 退任会見 (2025-12-12 17:59:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7rqbxf6iw2b" target="_blank">sokuho.news</a> (2025-12-12 18:05:24)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】関門トンネル全面通行止め 交通事故のため (2025-12-12 18:00:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7rqbmrfhg2b" target="_blank">sokuho.news</a> (2025-12-12 18:05:13)</span><span style="padding-right:50px;">Morning Bid: Copper edges past silver to take gold reut.rs/4pznYlr <a href="https://bsky.app/profile/reuters.com/post/3m7rqbjoh472y" target="_blank">reuters.com</a> (2025-12-12 18:05:09)</span><span style="padding-right:50px;">Rescue crews used inflatable boats to evacuate residents from flooded streets in Snohomish, Washington state, after days of heavy rain submerged neighborhoods in waist deep water. <a href="https://bsky.app/profile/reuters.com/post/3m7rq7mjcpk2v" target="_blank">reuters.com</a> (2025-12-12 18:04:06)</span>
+<span style="padding-right:50px;">MTR-owner Orkla India eyes deals, bets on quick meals and delivery for growth reut.rs/494PUHQ <a href="https://bsky.app/profile/reuters.com/post/3m7rrfcd65g2k" target="_blank">reuters.com</a> (2025-12-12 18:25:10)</span><span style="padding-right:50px;">後発地震注意情報 “引き続き 日頃の備えの確認を”気象庁 https://news.web.nhk/newsweb/na/na-k10015001341000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rrddy7hl2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-12 18:24:02)</span><span style="padding-right:50px;">Benin coup attempt: About 200 soldiers from Nigeria and Ivory Coast deployed for 'clean-up' <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7rr7xtb3s27" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-12 18:22:10)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】JR大阪環状線 「ホーム上の確認」で全線に遅れ 阪和線・大和路線などにも影響 (2025-12-12 17:59) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7rr645lid2s" target="_blank">sokuho.news</a> (2025-12-12 18:21:08)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】神奈川・日向山で9日に発生の山火事 ほぼ消し止められる 伊勢原市 (18:17) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7rqz42yhl2b" target="_blank">sokuho.news</a> (2025-12-12 18:18:21)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48704.01 (🔺621.11 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23593.86 (🔺84.64 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.93 (🔺0.65 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.78 (🔺0.24 : 2025-12-12)</span>
+<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48704.01 (🔺621.11 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23593.86 (🔺84.64 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.93 (🔺0.65 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.88 (🔺0.35 : 2025-12-12)</span>
   </div>
 </div>
 
@@ -32,112 +32,106 @@
 
 ## News Headlines
 
-1.  JR大阪環状線 「ホーム上の確認」で全線に遅れ
-2.  関門トンネル全面通行止め 交通事故のため
-3.  給食費無償化 全国知事会など “国が恒久的な財源確保を”
-4.  スノーボード ハーフパイプ W杯開幕戦 男子は平野歩夢が優勝
-5.  香港「リンゴ日報」創業者裁判 15日に判決と発表
-6.  インドは中国人技術者へのビザ発給を迅速化　経済協力強化
+Here are six important stories with Japanese headlines:
+
+1. MTR所有のOrklaインドは、デリバリーや速食などで成長を期待
+2. 関門トンネル全面通行止め、交通事故のため
+3. 中国の民主派活動家、性的画像の架空画像に標的とされる
+4. 給食費無償化、全国知事会など「国が恒久的な財源確保を」
+5. 香港「リンゴ日報」創業者裁判、15日に判決発表
+6. スノーボード・ワールドカップ、平野歩夢が優勝
 
 ----
 
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】JR大阪環状線 「ホーム上の確認」で全線に遅れ
-(2025-12-12 17:59) #ニュース
-
-[2025-12-12 18:06:07](https://bsky.app/profile/sokuho.news/post/3m7rqdatjtc26)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-速報「素晴らしい4年間だった」サンフレッチェのスキッベ監督 退任会見
-(2025-12-12 17:59:00) #ニュース
-
-[2025-12-12 18:05:24](https://bsky.app/profile/sokuho.news/post/3m7rqbxf6iw2b)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】関門トンネル全面通行止め 交通事故のため
-(2025-12-12 18:00:00) #ニュース
-
-[2025-12-12 18:05:13](https://bsky.app/profile/sokuho.news/post/3m7rqbmrfhg2b)
-
----
-
 @reuters.com
 
-Morning Bid: Copper edges past silver to take gold reut.rs/4pznYlr
+MTR-owner Orkla India eyes deals, bets on quick meals and delivery for growth reut.rs/494PUHQ
 
-[2025-12-12 18:05:09](https://bsky.app/profile/reuters.com/post/3m7rqbjoh472y)
-
----
-
-@reuters.com
-
-Rescue crews used inflatable boats to evacuate residents from flooded streets in Snohomish, Washington state, after days of heavy rain submerged neighborhoods in waist deep water.
-
-[2025-12-12 18:04:06](https://bsky.app/profile/reuters.com/post/3m7rq7mjcpk2v)
+[2025-12-12 18:25:10](https://bsky.app/profile/reuters.com/post/3m7rrfcd65g2k)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-来春のセンバツ高校野球 「21世紀枠」候補となる9校発表
-https://news.web.nhk/newsweb/na/na-k10015002441000
+後発地震注意情報 “引き続き 日頃の備えの確認を”気象庁
+https://news.web.nhk/newsweb/na/na-k10015001341000
 
-[2025-12-12 18:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rq5tt3hv2b)
-
----
-
-@nikkei.com
-
-無印良品、12月15日からEC再開　アスクルへのサイバー攻撃から復旧（無料記事）
-www.nikkei.com/article/DGXZQO...
-
-#ニュース
-
-[2025-12-12 18:00:49](https://bsky.app/profile/nikkei.com/post/3m7rpzr43rw22)
+[2025-12-12 18:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rrddy7hl2v)
 
 ---
 
-@nikkei.com
+@bbcnews-world-rss.bsky.social
 
-「おつり」でコツコツ始める資産形成
-www.nikkei.com/article/DGXZQO...
+Benin coup attempt: About 200 soldiers from Nigeria and Ivory Coast deployed for 'clean-up'
 
-資産形成をしたい。でも損失が気になる…。
-
-そんなハードルを下げる「おつり」を使った小口運用サービスが人気です。
-
-クレカや電子マネーで買い物すると、指定した端数が資産運用に回されます。
-
-[2025-12-12 18:00:47](https://bsky.app/profile/nikkei.com/post/3m7rpzorl3z2f)
+[2025-12-12 18:22:10](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7rr7xtb3s27)
 
 ---
 
-@aljazeera.com
+@sokuho.news
 
-Report finds paramilitary group responsible for vast majority of attacks as conflict devastates civilian population.
+🛎️FNNより【速報】です。
 
-[2025-12-12 18:00:35](https://bsky.app/profile/aljazeera.com/post/3m7rpze3krz2v)
+【速報】JR大阪環状線 「ホーム上の確認」で全線に遅れ 阪和線・大和路線などにも影響
+(2025-12-12 17:59) #ニュース
+
+[2025-12-12 18:21:08](https://bsky.app/profile/sokuho.news/post/3m7rr645lid2s)
+
+---
+
+@sokuho.news
+
+🔔ANNより【速報】です。
+
+【速報】神奈川・日向山で9日に発生の山火事 ほぼ消し止められる 伊勢原市
+(18:17) #ニュース
+
+[2025-12-12 18:18:21](https://bsky.app/profile/sokuho.news/post/3m7rqz42yhl2b)
+
+---
+
+@financialtimes.com
+
+Free school projects in England to be scrapped to fund special needs education on.ft.com/3XQsSyc
+
+[2025-12-12 18:18:16](https://bsky.app/profile/financialtimes.com/post/3m7rqyxfryi2k)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+「ラピダス」 ホンダなど新たに民間企業20社ほどが出資を検討
+https://news.web.nhk/newsweb/na/na-k10015002411000
+
+[2025-12-12 18:18:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rqymomfl2v)
 
 ---
 
 @reuters.com
 
-Ignoring AI bubble fears, investors bet Nvidia and Google will fuel Taiwan stocks to record reut.rs/4q4HMNg
+Will it be a hike next year? Five questions for the ECB reut.rs/4abNybl
 
-[2025-12-12 18:00:30](https://bsky.app/profile/reuters.com/post/3m7rpz6s7bz2r)
+[2025-12-12 18:15:12](https://bsky.app/profile/reuters.com/post/3m7rqti5jzp2x)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+円相場 ドルに対し値上がり 米利下げ継続の観測強まり
+https://news.web.nhk/newsweb/na/na-k10015002471000
+
+[2025-12-12 18:15:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rqtbw3y32y)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】関門トンネル全面通行止め トラックがトンネル内の壁に衝突→修復工事のため
+(2025-12-12 18:00:00) #ニュース
+
+[2025-12-12 18:14:59](https://bsky.app/profile/sokuho.news/post/3m7rqt436w426)
 
 ---
 
