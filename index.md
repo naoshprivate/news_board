@@ -1,9 +1,9 @@
-# [2025-12-12 11:10 updated](2025_12_12.md)
+# [2025-12-12 11:30 updated](2025_12_12.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Donald Trump orders increased scrutiny of proxy advisers ISS and Glass Lewis on.ft.com/4pAe8ja <a href="https://bsky.app/profile/financialtimes.com/post/3m7qyyxlwjk2c" target="_blank">financialtimes.com</a> (2025-12-12 11:08:46)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】東京・高輪で火事 80代女性けが (11:02) #ニュース https://news.tv-asahi.co.jp/news_society/articles/000472512.html?display=full <a href="https://bsky.app/profile/sokuho.news/post/3m7qywezetp2r" target="_blank">sokuho.news</a> (2025-12-12 11:07:19)</span><span style="padding-right:50px;">Financial oversight body adopts new stance: Looser regulations to boost growth, financial safety <a href="https://bsky.app/profile/yahoofinance.com/post/3m7qyu5ckhs2q" target="_blank">yahoofinance.com</a> (2025-12-12 11:06:04)</span><span style="padding-right:50px;">トランプ政権 石油タンカーなど制裁対象 ベネズエラ政権に圧力 https://news.web.nhk/newsweb/na/na-k10015001731000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7qyu5rhbz2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-12 11:06:03)</span><span style="padding-right:50px;">Suspect in Charlie Kirk killing appears in court, judge mulls media access reut.rs/4pWupys <a href="https://bsky.app/profile/reuters.com/post/3m7qylubqw32y" target="_blank">reuters.com</a> (2025-12-12 11:01:26)</span>
+<span style="padding-right:50px;">The US says it is sanctioning three nephews of Venezuelan President Nicolás Maduro, among others, as it ramps up its pressure campaign on the South American country. https://cnn.it/4rT1jSy <a href="https://bsky.app/profile/cnn.com/post/3m7qzzm6osg2k" target="_blank">cnn.com</a> (2025-12-12 11:27:01)</span><span style="padding-right:50px;">Southwest CEO expects Boeing MAX 7 to be certified around August 2026 reut.rs/44rQH34 <a href="https://bsky.app/profile/reuters.com/post/3m7qznm5qzy2o" target="_blank">reuters.com</a> (2025-12-12 11:20:19)</span><span style="padding-right:50px;">An oil tanker seized by American forces off the Venezuelan coast will be brought to a port in the United States, the White House says  u.afp.com/S78E <a href="https://bsky.app/profile/en.afp.com/post/3m7qzmghfye2f" target="_blank">en.afp.com</a> (2025-12-12 11:19:39)</span><span style="padding-right:50px;">小泉防衛相 米国防長官と電話会談 中国レーダー照射で懸念共有 https://news.web.nhk/newsweb/na/na-k10015001871000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7qzjmemao22" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-12 11:18:03)</span><span style="padding-right:50px;">President Trump said that he pardoned Tina Peters, a former county clerk in Colorado who was convicted on felony charges related to efforts to overturn the 2020 presidential election. <a href="https://bsky.app/profile/washingtonpost.com/post/3m7qzhrbue324" target="_blank">washingtonpost.com</a> (2025-12-12 11:17:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50664.37 (🔺184.14 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48704.01 (🔺621.11 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23593.86 (🔺84.64 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.93 (🔺0.65 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3205.00 (🔺14.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.67 (🔺0.14 : 2025-12-12)</span>
+<span style="padding-right:50px;">NIKKEI: 50656.58 (🔺176.35 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48704.01 (🔺621.11 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23593.86 (🔺84.64 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.93 (🔺0.65 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3208.00 (🔺17.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.69 (🔺0.16 : 2025-12-12)</span>
   </div>
 </div>
 
@@ -32,16 +32,85 @@
 
 ## News Headlines
 
-Here are six important topics with Japanese headlines:
+Here are the six important topics with Japanese headlines:
 
-1. 「トランプ政権が proxy adviser に対する監視を強化」 - Trump's administration orders increased scrutiny of proxy advisers ISS and Glass Lewis
-2. 「「布の芸術祭」、富士吉田市で開催」 - Fujiteki Style Week 2025 to be held in Fujikyu City, featuring local textile art
-3. 「山梨・富士吉田市で「布の芸術祭」、地場産業×現代アートが織りなす」 - Fujiteki Style Week 2025 to be held in Fujikyu City, featuring local textile art
-4. 「高市首相動静 2025年12月11日」 - Prime Minister Kishida's activities on December 11, 2025
-5. 「大リーグ ドジャースの山本由伸 来年のWBCに出場する見通し」 - Yutaro Yamamoto of the Los Angeles Dodgers is expected to participate in the 2025 WBC
-6. 「秋田内陸線で列車脱線 運転士を救出 乗客はおらず」 - Train derails on the Akita Inland Line, rescue operation saves driver, no passengers on board
+1. ベネズエラの Maduro氏の姪弟3人などを制裁、米国が圧力継続
+(The US sanctions three nephews of Venezuelan President Maduro and continues to apply pressure)
+
+2. ボーイングMAX7、米国民間航空局の認証を2026年8月に目指す
+(The Boeing MAX7 aims to obtain certification from the US Federal Aviation Administration by August 2026)
+
+3. 米国がベネズエラの石油タンカーを鹵獲、白家は港湾に運搬する
+(The US seizes a Venezuelan oil tanker and will transport it to a US port)
+
+4. トランプ氏がAI規制に反対、州レベルでの規制を阻止する
+(President Trump opposes AI regulation and aims to block state-level regulations)
+
+5. 小泉防衛相と米国防長官が電話会談、中国レーダー照射に関する懸念を共有
+(Japanese Defense Minister and US Defense Secretary hold phone talks, sharing concerns over Chinese radar illumination)
+
+6. 東京・高輪で火災、80代女性けがの被害者 (Fire breaks out in Tokyo's Takao district, injuring an 80-year-old woman)
 
 ----
+
+@cnn.com
+
+The US says it is sanctioning three nephews of Venezuelan President Nicolás Maduro, among others, as it ramps up its pressure campaign on the South American country. https://cnn.it/4rT1jSy
+
+[2025-12-12 11:27:01](https://bsky.app/profile/cnn.com/post/3m7qzzm6osg2k)
+
+---
+
+@reuters.com
+
+Southwest CEO expects Boeing MAX 7 to be certified around August 2026 reut.rs/44rQH34
+
+[2025-12-12 11:20:19](https://bsky.app/profile/reuters.com/post/3m7qznm5qzy2o)
+
+---
+
+@en.afp.com
+
+An oil tanker seized by American forces off the Venezuelan coast will be brought to a port in the United States, the White House says
+
+u.afp.com/S78E
+
+[2025-12-12 11:19:39](https://bsky.app/profile/en.afp.com/post/3m7qzmghfye2f)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+小泉防衛相 米国防長官と電話会談 中国レーダー照射で懸念共有
+https://news.web.nhk/newsweb/na/na-k10015001871000
+
+[2025-12-12 11:18:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7qzjmemao22)
+
+---
+
+@washingtonpost.com
+
+President Trump said that he pardoned Tina Peters, a former county clerk in Colorado who was convicted on felony charges related to efforts to overturn the 2020 presidential election.
+
+[2025-12-12 11:17:03](https://bsky.app/profile/washingtonpost.com/post/3m7qzhrbue324)
+
+---
+
+@npr.org
+
+The executive order is the latest in a series of attempts by the Trump administration to hold back state-level AI rules. But many Republicans are also uncomfortable with the effort. n.pr/4iPffZC
+
+[2025-12-12 11:16:14](https://bsky.app/profile/npr.org/post/3m7qzgcxc5u2d)
+
+---
+
+@reuters.com
+
+US to overhaul financial stability watchdog to focus on economic growth, Bessent says reut.rs/4pv6dDz
+
+[2025-12-12 11:10:13](https://bsky.app/profile/reuters.com/post/3m7qz3kwnpm2y)
+
+---
 
 @financialtimes.com
 
@@ -68,70 +137,6 @@ https://news.tv-asahi.co.jp/news_society/articles/000472512.html?display=full
 Financial oversight body adopts new stance: Looser regulations to boost growth, financial safety
 
 [2025-12-12 11:06:04](https://bsky.app/profile/yahoofinance.com/post/3m7qyu5ckhs2q)
-
----
-
-@nhknewsunofficial.bsky.social
-
-トランプ政権 石油タンカーなど制裁対象 ベネズエラ政権に圧力
-https://news.web.nhk/newsweb/na/na-k10015001731000
-
-[2025-12-12 11:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7qyu5rhbz2b)
-
----
-
-@reuters.com
-
-Suspect in Charlie Kirk killing appears in court, judge mulls media access reut.rs/4pWupys
-
-[2025-12-12 11:01:26](https://bsky.app/profile/reuters.com/post/3m7qylubqw32y)
-
----
-
-@wsj.com
-
-The crimes described on “Forensic Files” keep most people up at night. But for a subset of fans, the show is the only thing that puts them to sleep. 🔗 on.wsj.com/4ac66rQ
-
-[2025-12-12 11:01:23](https://bsky.app/profile/wsj.com/post/3m7qylr6fe32e)
-
----
-
-@cnbc.com
-
-If a first-time undergraduate student selects an institution where the data shows graduates on average don’t earn more than workers in the state or workers nationally who only finished high school, the student will see a “lower earnings” disclosure, the department says.
-
-[2025-12-12 11:01:10](https://bsky.app/profile/cnbc.com/post/3m7qyleruq623)
-
----
-
-@cnn.com
-
-After demolishing the White House’s East Wing, President Donald Trump is now eying four federal buildings for the same treatment and is circumventing a key government agency with his plans, according to a historic preservationist raising the alarm.
-
-[2025-12-12 11:01:01](https://bsky.app/profile/cnn.com/post/3m7qyl47p2q2a)
-
----
-
-@nikkei.com
-
-山梨・富士吉田市で「布の芸術祭」、地場産業×現代アートが織りなす
-www.nikkei.com/article/DGXZQO...
-
-「フジテキスタイルウイーク2025」は、国内外約30人・組の作家らが地元の「郡内織物」などを使った作品を発表。
-
-工場跡や空き家を含む約20カ所に展示されています。
-
-12月14日まで。
-
-[2025-12-12 11:00:59](https://bsky.app/profile/nikkei.com/post/3m7qykzy36b26)
-
----
-
-@nytimes.com
-
-Republicans in the Indiana Senate defied President Trump and joined Democrats in voting down a congressional map aimed at adding GOP seats. nyti.ms/44iRALi
-
-[2025-12-12 11:00:47](https://bsky.app/profile/nytimes.com/post/3m7qykown5j2r)
 
 ---
 
