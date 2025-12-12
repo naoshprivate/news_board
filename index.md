@@ -1,9 +1,9 @@
-# [2025-12-12 19:50 updated](2025_12_12.md)
+# [2025-12-12 20:10 updated](2025_12_12.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">ことし収穫の主食用米 最終見通し718万トン 去年より増 農水省 https://news.web.nhk/newsweb/na/na-k10015002181000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rvzoncrp2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-12 19:48:06)</span><span style="padding-right:50px;">【地震】東北・上越・北陸新幹線で一時運転見合わせ 現在再開 https://news.web.nhk/newsweb/na/na-k10015002631000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rvzkekp526" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-12 19:48:02)</span><span style="padding-right:50px;">China Vanke seeks one-year extension on second onshore bond, sources say reut.rs/44kOvdI <a href="https://bsky.app/profile/reuters.com/post/3m7rvue34lf2b" target="_blank">reuters.com</a> (2025-12-12 19:45:10)</span><span style="padding-right:50px;">【地震】東北・上越・北陸新幹線で一時運転見合わせ https://news.web.nhk/newsweb/na/na-k10015002631000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rvu5vkf42l" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-12 19:45:02)</span><span style="padding-right:50px;">The UK economy is not nearly as bad as you’ve been told on.ft.com/48x09Vg <a href="https://bsky.app/profile/financialtimes.com/post/3m7rvoogdon2w" target="_blank">financialtimes.com</a> (2025-12-12 19:42:00)</span>
+<span style="padding-right:50px;">お米券 鈴木農相“発行団体から経費抑え価格下げると報告” https://news.web.nhk/newsweb/na/na-k10015002601000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rx74bqig2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-12 20:09:02)</span><span style="padding-right:50px;">Berlin eyes TenneT Germany majority stake, Boersen-Zeitung says reut.rs/4iYZaAU <a href="https://bsky.app/profile/reuters.com/post/3m7rwy2un6z2b" target="_blank">reuters.com</a> (2025-12-12 20:05:08)</span><span style="padding-right:50px;">ロシア、ICCの赤根智子所長らに有罪判決　プーチン氏逮捕状で（無料記事） www.nikkei.com/article/DGXZQO...  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m7rwxjrsrv2m" target="_blank">nikkei.com</a> (2025-12-12 20:04:50)</span><span style="padding-right:50px;">ICC judges stoic in face of US sanctions over Israeli war crimes cases https://aje.io/evaca4 <a href="https://bsky.app/profile/aljazeera.com/post/3m7rwwfw5ds27" target="_blank">aljazeera.com</a> (2025-12-12 20:04:12)</span><span style="padding-right:50px;">Europe’s rocky relations with Donald Trump on.ft.com/4iQp0Xr <a href="https://bsky.app/profile/financialtimes.com/post/3m7rwt4ulgv2b" target="_blank">financialtimes.com</a> (2025-12-12 20:02:22)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48704.01 (🔺621.11 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23593.86 (🔺84.64 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.93 (🔺0.65 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.90 (🔺0.37 : 2025-12-12)</span>
+<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48704.01 (🔺621.11 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23593.86 (🔺84.64 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.93 (🔺0.65 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.95 (🔺0.41 : 2025-12-12)</span>
   </div>
 </div>
 
@@ -32,101 +32,106 @@
 
 ## News Headlines
 
-1. 最終見通し718万トン
-2. 最新地震で東北・上越・北陸新幹線が運転を見合わせた
-3. 中国のバンケーが新規債券の発行延期を求める
-4. 地震で新千歳空港で滑走路を逸脱した疑い
-5. ガザ地区で大雨により避難者が増加
-6. ロシアがウクライナへの攻撃を強化
+1. 米券　鈴木農相「発行団体から経費抑え価格下げると報告」
+2. ドイツの電力送電会社の大株主にテネットが選ばれる
+3. ロシア、ICCの赤根智子所長らに有罪判決　プーチン氏逮捕状
+4. EUとトランプ政権の関係が悪化
+5. フランスのウェンデルが2030年までに1億6000万円を投資家に返済
+6. 超知能が実現すれば頭脳労働や肉体労働が機械に置き換わる
 
 ----
 
 @nhknewsunofficial.bsky.social
 
-ことし収穫の主食用米 最終見通し718万トン 去年より増 農水省
-https://news.web.nhk/newsweb/na/na-k10015002181000
+お米券 鈴木農相“発行団体から経費抑え価格下げると報告”
+https://news.web.nhk/newsweb/na/na-k10015002601000
 
-[2025-12-12 19:48:06](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rvzoncrp2s)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【地震】東北・上越・北陸新幹線で一時運転見合わせ 現在再開
-https://news.web.nhk/newsweb/na/na-k10015002631000
-
-[2025-12-12 19:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rvzkekp526)
+[2025-12-12 20:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rx74bqig2b)
 
 ---
 
 @reuters.com
 
-China Vanke seeks one-year extension on second onshore bond, sources say reut.rs/44kOvdI
+Berlin eyes TenneT Germany majority stake, Boersen-Zeitung says reut.rs/4iYZaAU
 
-[2025-12-12 19:45:10](https://bsky.app/profile/reuters.com/post/3m7rvue34lf2b)
+[2025-12-12 20:05:08](https://bsky.app/profile/reuters.com/post/3m7rwy2un6z2b)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@nikkei.com
 
-【地震】東北・上越・北陸新幹線で一時運転見合わせ
-https://news.web.nhk/newsweb/na/na-k10015002631000
+ロシア、ICCの赤根智子所長らに有罪判決　プーチン氏逮捕状で（無料記事）
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-12 19:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rvu5vkf42l)
+#ニュース
+
+[2025-12-12 20:04:50](https://bsky.app/profile/nikkei.com/post/3m7rwxjrsrv2m)
+
+---
+
+@aljazeera.com
+
+ICC judges stoic in face of US sanctions over Israeli war crimes cases https://aje.io/evaca4
+
+[2025-12-12 20:04:12](https://bsky.app/profile/aljazeera.com/post/3m7rwwfw5ds27)
 
 ---
 
 @financialtimes.com
 
-The UK economy is not nearly as bad as you’ve been told on.ft.com/48x09Vg
+Europe’s rocky relations with Donald Trump on.ft.com/4iQp0Xr
 
-[2025-12-12 19:42:00](https://bsky.app/profile/financialtimes.com/post/3m7rvoogdon2w)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】新千歳空港で小型機がオーバーラン＿滑走路を逸脱し雪上で停止＿乗員乗客9人にケガなし<br />
-(2025-12-12 19:25) #ニュース
-
-[2025-12-12 19:41:05](https://bsky.app/profile/sokuho.news/post/3m7rvn2h3tx2r)
+[2025-12-12 20:02:22](https://bsky.app/profile/financialtimes.com/post/3m7rwt4ulgv2b)
 
 ---
 
-@sokuho.news
+@aljazeera.com
 
-🛎️JNNより【速報】です。
+ICC judges stoic in face of US sanctions over Israeli war crimes cases https://aje.io/evaca4
 
-【速報】プライベートジェット機がオーバーラン 乗客乗員9人は無事 北海道・新千歳空港
-(2025-12-12 19:38:00) #ニュース
-
-[2025-12-12 19:41:03](https://bsky.app/profile/sokuho.news/post/3m7rvmysmtz2z)
+[2025-12-12 20:02:14](https://bsky.app/profile/aljazeera.com/post/3m7rwsum4332z)
 
 ---
 
 @reuters.com
 
-Jefferies says Indian shares set for better 2026 on earnings, domestic flows reut.rs/3XU0ueu
+France's Wendel plans to return over 1.6 billion euros to investors by 2030 reut.rs/4rRNbJd
 
-[2025-12-12 19:40:23](https://bsky.app/profile/reuters.com/post/3m7rvlshmo42s)
-
----
-
-@nbcnews.com
-
-Torrential rain has swept through the Gaza Strip, flooding hundreds of tent camps sheltering families displaced by the war. A U.N. report said 761 displacement sites hosting about 850,000 people are at high risk of flooding and thousands of people had moved in anticipation of heavy rain.
-
-[2025-12-12 19:40:21](https://bsky.app/profile/nbcnews.com/post/3m7rvlquf522q)
+[2025-12-12 20:00:56](https://bsky.app/profile/reuters.com/post/3m7rwqkhscb2b)
 
 ---
 
-@wsj.com
+@nikkei.com
 
-Exclusive: Chinese authorities arrested dozens of Tibetans who were protesting a mining project, according to Tibetan activists and the government in exile.
+【歌舞伎町ホストはAIに語りかける】
+人は感情労働の痛みから解放されるか
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-12 19:40:06](https://bsky.app/profile/wsj.com/post/3m7rvlckltn2q)
+超知能が実現すれば、頭脳労働や肉体労働は機械に置き換わる可能性があります。
+
+接客や介護で担われている感情労働はどうなるのでしょうか。
+
+#超知能 #日経_連載
+
+[2025-12-12 20:00:47](https://bsky.app/profile/nikkei.com/post/3m7rwqc3kxg22)
+
+---
+
+@cnbc.com
+
+Dr. Simon Feldhaus, a doctor who studies longevity, doesn't think there's just one healthy diet.
+
+“I personally think there is no healthy diet,” he said.
+
+[2025-12-12 20:00:41](https://bsky.app/profile/cnbc.com/post/3m7rwq3quyv2p)
+
+---
+
+@washingtonpost.com
+
+President Trump has launched a “gold card” visa program offering expedited U.S. residency for $1 million, raising legal and ethical concerns. https://wapo.st/4j1p72I
+
+[2025-12-12 20:00:12](https://bsky.app/profile/washingtonpost.com/post/3m7rwpakego2i)
 
 ---
 
