@@ -1,9 +1,9 @@
-# [2025-12-12 14:50 updated](2025_12_12.md)
+# [2025-12-12 15:10 updated](2025_12_12.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">配達業者装い部屋に侵入しわいせつ行為か 派遣社員逮捕 八王子 https://news.web.nhk/newsweb/na/na-k10015002191000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rewfbj6f26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-12 14:42:02)</span><span style="padding-right:50px;">Fintech Wealthfront prices US IPO at $14 apiece, raises $486 million reut.rs/4pyQEe4 <a href="https://bsky.app/profile/reuters.com/post/3m7resytize2s" target="_blank">reuters.com</a> (2025-12-12 14:40:11)</span><span style="padding-right:50px;"> Plants are for life — not just for Christmas on.ft.com/48AVdid  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m7rerl4pec2c" target="_blank">financialtimes.com</a> (2025-12-12 14:39:23)</span><span style="padding-right:50px;"> The whale oil lesson markets shouldn’t ignore on.ft.com/4iQk9FX  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m7rerkmcvn2k" target="_blank">financialtimes.com</a> (2025-12-12 14:39:23)</span><span style="padding-right:50px;"> Is silver the new gold? on.ft.com/4rQY91J  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m7rerjsc3k2f" target="_blank">financialtimes.com</a> (2025-12-12 14:39:22)</span>
+<span style="padding-right:50px;">サッカーJ2 藤枝MYFC 新監督に槙野智章氏が就任へ https://news.web.nhk/newsweb/na/na-k10015002211000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rgbcvyp32s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-12 15:06:03)</span><span style="padding-right:50px;">🛎️FRIDAYより【スクープ】です。  【スクープ】『BE:FIRST』LEOが真剣交際！ “出川ガールズ”の人気モデルと「半同棲生活」 (2025-12-12) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7rgb4yt6c2v" target="_blank">sokuho.news</a> (2025-12-12 15:05:59)</span><span style="padding-right:50px;">Canada lawmaker swaps parties to Carney's Liberals, now on cusp of majority rule reut.rs/4rQGerJ <a href="https://bsky.app/profile/reuters.com/post/3m7rg7mgujf24" target="_blank">reuters.com</a> (2025-12-12 15:05:08)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】JR武蔵野線 府中本町と西船橋の間で運転見合わせ 人身事故 (2025-12-12 15:02:37) #ニュース  🚃鉄道運行情報 🔗https://transit.yahoo.co.jp/diainfo <a href="https://bsky.app/profile/sokuho.news/post/3m7rg4jkzgn2b" target="_blank">sokuho.news</a> (2025-12-12 15:03:24)</span><span style="padding-right:50px;">【随時更新】ロシア ウクライナに軍事侵攻（12月12日の動き） https://news.web.nhk/newsweb/na/na-k10014976791000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rg42peiz2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-12 15:03:07)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50734.47 (🔺254.24 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48704.01 (🔺621.11 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23593.86 (🔺84.64 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.93 (🔺0.65 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3255.00 (🔺64.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.69 (🔺0.16 : 2025-12-12)</span>
+<span style="padding-right:50px;">NIKKEI: 50857.66 (🔺377.43 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48704.01 (🔺621.11 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23593.86 (🔺84.64 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.93 (🔺0.65 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3268.00 (🔺77.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.69 (🔺0.16 : 2025-12-12)</span>
   </div>
 </div>
 
@@ -32,69 +32,40 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in Japanese:
-
-1. 津波注意報全て解除
-2. 今年の漢字は「熊」
-3. インフルエンザ感染者数「38.51人」 2週間連続減少も依然高い水準
-4. 北海道と東北地方に出ていた津波注意報を全て解除
-5. 年末恒例 今年の漢字「熊」に決定
-6. ことしの世相を表す漢字は「熊」
+1.  サッカーJ2 藤枝MYFC 新監督に槙野智章氏が就任へ
+2.  広島20時21分発の品川行き「臨時のぞみ号」新設
+3.  岩手県 宮城県の避難指示 すべて解除
+4.  インフル感染者数 2週連続減少も警報レベル超える状態続く
+5.  今年の漢字は「熊」…各地で被害、市街地にも出没
+6.  JR西日本が来春のダイヤ改正発表
 
 ----
 
 @nhknewsunofficial.bsky.social
 
-配達業者装い部屋に侵入しわいせつ行為か 派遣社員逮捕 八王子
-https://news.web.nhk/newsweb/na/na-k10015002191000
+サッカーJ2 藤枝MYFC 新監督に槙野智章氏が就任へ
+https://news.web.nhk/newsweb/na/na-k10015002211000
 
-[2025-12-12 14:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rewfbj6f26)
+[2025-12-12 15:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rgbcvyp32s)
+
+---
+
+@sokuho.news
+
+🛎️FRIDAYより【スクープ】です。
+
+【スクープ】『BE:FIRST』LEOが真剣交際！ “出川ガールズ”の人気モデルと「半同棲生活」
+(2025-12-12) #ニュース
+
+[2025-12-12 15:05:59](https://bsky.app/profile/sokuho.news/post/3m7rgb4yt6c2v)
 
 ---
 
 @reuters.com
 
-Fintech Wealthfront prices US IPO at $14 apiece, raises $486 million reut.rs/4pyQEe4
+Canada lawmaker swaps parties to Carney's Liberals, now on cusp of majority rule reut.rs/4rQGerJ
 
-[2025-12-12 14:40:11](https://bsky.app/profile/reuters.com/post/3m7resytize2s)
-
----
-
-@financialtimes.com
-
- Plants are for life — not just for Christmas on.ft.com/48AVdid  | opinion
-
-[2025-12-12 14:39:23](https://bsky.app/profile/financialtimes.com/post/3m7rerl4pec2c)
-
----
-
-@financialtimes.com
-
- The whale oil lesson markets shouldn’t ignore on.ft.com/4iQk9FX  | opinion
-
-[2025-12-12 14:39:23](https://bsky.app/profile/financialtimes.com/post/3m7rerkmcvn2k)
-
----
-
-@financialtimes.com
-
- Is silver the new gold? on.ft.com/4rQY91J  | opinion
-
-[2025-12-12 14:39:22](https://bsky.app/profile/financialtimes.com/post/3m7rerjsc3k2f)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】インフル感染者数 2週連続減少も警報レベル超える状態続く
-(2025-12-12 14:38) #ニュース
-
-⬛感染症情報
-🔗https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/infulenza/index.html
-
-[2025-12-12 14:38:21](https://bsky.app/profile/sokuho.news/post/3m7reppoe7427)
+[2025-12-12 15:05:08](https://bsky.app/profile/reuters.com/post/3m7rg7mgujf24)
 
 ---
 
@@ -102,43 +73,70 @@ Fintech Wealthfront prices US IPO at $14 apiece, raises $486 million reut.rs/4py
 
 🛎️JNNより【速報】です。
 
-【速報】広島20時21分発の品川行き「臨時のぞみ号」新設 広島着23時59分の「臨時のぞみ号」も JR西日本 2026年春のダイヤ改正で
-(2025-12-12 14:29:00) #ニュース
+【速報】JR武蔵野線 府中本町と西船橋の間で運転見合わせ 人身事故
+(2025-12-12 15:02:37) #ニュース
 
-[2025-12-12 14:37:09](https://bsky.app/profile/sokuho.news/post/3m7renli6on2y)
+🚃鉄道運行情報
+🔗https://transit.yahoo.co.jp/diainfo
 
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】JR西日本が来春のダイヤ改正発表 東京行き最終のぞみ後に臨時列車・「Urara」山陰にも
-(2025-12-12 14:30) #ニュース
-
-[2025-12-12 14:36:11](https://bsky.app/profile/sokuho.news/post/3m7relu4pdl2z)
+[2025-12-12 15:03:24](https://bsky.app/profile/sokuho.news/post/3m7rg4jkzgn2b)
 
 ---
 
-@sokuho.news
+@nhknewsunofficial.bsky.social
 
-🛎️FNNより【速報】です。
+【随時更新】ロシア ウクライナに軍事侵攻（12月12日の動き）
+https://news.web.nhk/newsweb/na/na-k10014976791000
 
-【速報】「今年の漢字」は「熊」“出没相次ぎ被害多数・熊猫＝パンダの返還も” わずか180票差の2位に「米」“米価格高騰”に加え”米国での野球選手の活躍” 3位は「高」“高市総理”…
-(2025-12-12 14:07) #ニュース
-
-[2025-12-12 14:35:41](https://bsky.app/profile/sokuho.news/post/3m7rekx6om52r)
+[2025-12-12 15:03:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rg42peiz2v)
 
 ---
 
-@sokuho.news
+@nhknewsunofficial.bsky.social
 
-🛎️JNNより【速報】です。
+自民 税調会長 “年収の壁”178万円目指し 誠意持って協議
+https://news.web.nhk/newsweb/na/na-k10015002171000
 
-【速報】広島20時21分発の品川行き「臨時のぞみ」新設 JR西日本 2026年春のダイヤ改正で
-(2025-12-12 14:29:00) #ニュース
+[2025-12-12 15:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rg3wqwmb2v)
 
-[2025-12-12 14:32:16](https://bsky.app/profile/sokuho.news/post/3m7reetfkxu2y)
+---
+
+@cnn.com
+
+"...Disney needed a hedge on the future of AI. After all, the outlook for the technology is murky at best. ... But the global entertainment behemoth can’t be seen missing the boat if the tech does end up transforming the way people create and engage with the world." | Analysis https://cnn.it/48BHqbe
+
+[2025-12-12 15:01:02](https://bsky.app/profile/cnn.com/post/3m7rfybplpu23)
+
+---
+
+@nikkei.com
+
+子育てしやすい街、東京都品川区が1位
+www.nikkei.com/article/DGXZQO...
+
+2022年に森沢恭子区長が就任。
+
+妊産婦が専属の助産師にオンラインで相談できる事業や、一部の小学校で朝食の無償提供を始めました。
+
+子育て支援で女性首長が存在感を増しています。
+
+[2025-12-12 15:00:47](https://bsky.app/profile/nikkei.com/post/3m7rfxti4kd24)
+
+---
+
+@reuters.com
+
+Asian stocks cautiously higher as tech sector rattled by Oracle reut.rs/3KSeIJX
+
+[2025-12-12 15:00:37](https://bsky.app/profile/reuters.com/post/3m7rfxkbyqp2o)
+
+---
+
+@aljazeera.com
+
+Thailand-Cambodia fighting enters 5th day, Thai PM confirms Trump call https://aje.io/fpalzz
+
+[2025-12-12 15:00:05](https://bsky.app/profile/aljazeera.com/post/3m7rfwl4vcc2e)
 
 ---
 
