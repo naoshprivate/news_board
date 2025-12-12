@@ -1,9 +1,9 @@
-# [2025-12-12 22:30 updated](2025_12_12.md)
+# [2025-12-12 22:50 updated](2025_12_12.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Riot police moved in to put out fires started by protesters outside Portugal’s parliament, on the day of a general strike over the government’s planned labour reforms. <a href="https://bsky.app/profile/aljazeera.com/post/3m7s6zqu3ek2o" target="_blank">aljazeera.com</a> (2025-12-12 22:29:15)</span><span style="padding-right:50px;">Investors are warming to bonds again, underscoring how hopes for further interest-rate cuts have boosted Wall Street’s outlook. <a href="https://bsky.app/profile/wsj.com/post/3m7s6z7uqdt2c" target="_blank">wsj.com</a> (2025-12-12 22:28:57)</span><span style="padding-right:50px;">Harbour Energy to acquire North Sea assets for $170 million, shares rise 6% reut.rs/4avzrhh <a href="https://bsky.app/profile/reuters.com/post/3m7s6sipwmk2s" target="_blank">reuters.com</a> (2025-12-12 22:25:11)</span><span style="padding-right:50px;">Austrian schoolgirls under 14 will be barred from wearing head scarves in class starting next year, after the Austrian Parliament passed a law about the practice this week. <a href="https://bsky.app/profile/nytimes.com/post/3m7s6sbksbh2r" target="_blank">nytimes.com</a> (2025-12-12 22:25:04)</span><span style="padding-right:50px;">High-end Swiss chocolatier Läderach rules out U.S. production despite tariff shock <a href="https://bsky.app/profile/cnbc.com/post/3m7s6r4lcwo2b" target="_blank">cnbc.com</a> (2025-12-12 22:24:25)</span>
+<span style="padding-right:50px;">Cannabis stocks jumped on Friday following reports that President Donald Trump will significantly ease federal restrictions on marijuana. cnb.cx/4oQWXsn <a href="https://bsky.app/profile/cnbc.com/post/3m7sa3j6yuw25" target="_blank">cnbc.com</a> (2025-12-12 22:48:08)</span><span style="padding-right:50px;">Top Fed officials warn central bank must not be complacent on inflation on.ft.com/4pFXcYG <a href="https://bsky.app/profile/financialtimes.com/post/3m7s7yq6i4c2o" target="_blank">financialtimes.com</a> (2025-12-12 22:46:34)</span><span style="padding-right:50px;">Private finance structures to drive bumper Japan M&A into 2026, Goldman says reut.rs/3MDJV40 <a href="https://bsky.app/profile/reuters.com/post/3m7s7wb3nqd2r" target="_blank">reuters.com</a> (2025-12-12 22:45:11)</span><span style="padding-right:50px;">Here are Friday's biggest analyst calls: Broadcom, Citigroup, Costco, Micron Technology, Amazon, Disney, Boeing & more <a href="https://bsky.app/profile/cnbc.com/post/3m7s7rpary224" target="_blank">cnbc.com</a> (2025-12-12 22:42:38)</span><span style="padding-right:50px;">BREAKING: Kilmar Abrego Garcia will remain free from ICE custody following a judge’s order. <a href="https://bsky.app/profile/nbcnews.com/post/3m7s7ow3fp322" target="_blank">nbcnews.com</a> (2025-12-12 22:41:05)</span>
   </div>
 </div>
 
@@ -32,94 +32,96 @@
 
 ## News Headlines
 
-以下の6つのニュースのヘッドラインです。
+Here are six news headlines in Japanese:
 
-1. ポルトガル議会前で大規模ストライキ　警官が抗議者に進軍
-2.  Wall Streetの視点　投資家が再び債券に注目
-3.  ハーバー・エナジー　北海資産買収で17億ドル
-4.  オーストリア　14歳未満の少女にヘッドスカーフ禁止
-5.  スイスのキャンディー会社　米国での製造を断念
-6.  トランプ大統領がCNNの運命をめぐる戦い　手柄の可能性
+1.  ドナルド・トランプ大統領がマリファナの規制緩和を検討
+2.  米連邦準備委員会がインフレ予想を警戒
+3.  日米M&A市場が2026年以降に活発化する見通し
+4.  クリムリン氏の抑留が取りやめされる　米国高等裁判所の決定
+5.  中国の経済成長が停滞する可能性　投資家が警戒
+6.  EUがウクライナのEU加盟を目指す
 
 ----
 
-@aljazeera.com
+@cnbc.com
 
-Riot police moved in to put out fires started by protesters outside Portugal’s parliament, on the day of a general strike over the government’s planned labour reforms.
+Cannabis stocks jumped on Friday following reports that President Donald Trump will significantly ease federal restrictions on marijuana. cnb.cx/4oQWXsn
 
-[2025-12-12 22:29:15](https://bsky.app/profile/aljazeera.com/post/3m7s6zqu3ek2o)
+[2025-12-12 22:48:08](https://bsky.app/profile/cnbc.com/post/3m7sa3j6yuw25)
 
 ---
 
-@wsj.com
+@financialtimes.com
 
-Investors are warming to bonds again, underscoring how hopes for further interest-rate cuts have boosted Wall Street’s outlook.
+Top Fed officials warn central bank must not be complacent on inflation on.ft.com/4pFXcYG
 
-[2025-12-12 22:28:57](https://bsky.app/profile/wsj.com/post/3m7s6z7uqdt2c)
+[2025-12-12 22:46:34](https://bsky.app/profile/financialtimes.com/post/3m7s7yq6i4c2o)
 
 ---
 
 @reuters.com
 
-Harbour Energy to acquire North Sea assets for $170 million, shares rise 6% reut.rs/4avzrhh
+Private finance structures to drive bumper Japan M&A into 2026, Goldman says reut.rs/3MDJV40
 
-[2025-12-12 22:25:11](https://bsky.app/profile/reuters.com/post/3m7s6sipwmk2s)
-
----
-
-@nytimes.com
-
-Austrian schoolgirls under 14 will be barred from wearing head scarves in class starting next year, after the Austrian Parliament passed a law about the practice this week.
-
-[2025-12-12 22:25:04](https://bsky.app/profile/nytimes.com/post/3m7s6sbksbh2r)
+[2025-12-12 22:45:11](https://bsky.app/profile/reuters.com/post/3m7s7wb3nqd2r)
 
 ---
 
 @cnbc.com
 
-High-end Swiss chocolatier Läderach rules out U.S. production despite tariff shock
+Here are Friday's biggest analyst calls: Broadcom, Citigroup, Costco, Micron Technology, Amazon, Disney, Boeing & more
 
-[2025-12-12 22:24:25](https://bsky.app/profile/cnbc.com/post/3m7s6r4lcwo2b)
-
----
-
-@yahoofinance.com
-
-Fed's Goolsbee explains vote against December rate cut, says patience 'feels like the wiser choice'
-
-[2025-12-12 22:21:05](https://bsky.app/profile/yahoofinance.com/post/3m7s6l646jy2h)
+[2025-12-12 22:42:38](https://bsky.app/profile/cnbc.com/post/3m7s7rpary224)
 
 ---
 
 @nbcnews.com
 
-A skydiving trip in Australia took a harrowing turn when one person’s parachute became entangled in the tail of the plane, stranding them at 15,000 feet.
+<strong><span style="color: red;">BREAKING:</span> Kilmar Abrego Garcia will remain free from ICE custody following a judge’s order.</strong>
 
-[2025-12-12 22:20:07](https://bsky.app/profile/nbcnews.com/post/3m7s6jgqjnp22)
-
----
-
-@bloomberg-jp.bsky.social
-
-(管理人より) 情報元RSSフィードの配信停止に伴い当botのポストも一時停止中です。復旧までしばらくお待ちください...
-
-[2025-12-12 22:17:36](https://bsky.app/profile/bloomberg-jp.bsky.social/post/3m7s6ewfcdk23)
-
----
-
-@npr.org
-
-In the corporate battle over parent company Warner Bros. Discovery, CNN's fate remains up for grabs. President Trump wants a say in what happens next. n.pr/48NPoMZ
-
-[2025-12-12 22:15:43](https://bsky.app/profile/npr.org/post/3m7s6bkqsbs24)
+[2025-12-12 22:41:05](https://bsky.app/profile/nbcnews.com/post/3m7s7ow3fp322)
 
 ---
 
 @reuters.com
 
-UK car finance redress plan puts 2026 payout in jeopardy, sources say reut.rs/3Mu6V5D
+South African inflation expectations fall after setting of 3% target reut.rs/4rUn58i
 
-[2025-12-12 22:15:25](https://bsky.app/profile/reuters.com/post/3m7s6azrwxd2p)
+[2025-12-12 22:40:19](https://bsky.app/profile/reuters.com/post/3m7s7nkj5as2i)
+
+---
+
+@washingtonpost.com
+
+Kilmar Abrego García was released from U.S. Immigration and Customs Enforcement custody Thursday after a federal judge ruled his continued detention was unlawful.
+
+[2025-12-12 22:40:13](https://bsky.app/profile/washingtonpost.com/post/3m7s7nehwyd24)
+
+---
+
+@nytimes.com
+
+For the past three decades, as China’s economy has developed into a global powerhouse, investment has grown reliably each year.
+
+That is about to change.
+
+[2025-12-12 22:40:01](https://bsky.app/profile/nytimes.com/post/3m7s7myx4jc2r)
+
+---
+
+@reuters.com
+
+Five debt hotspots in the AI data centre boom reut.rs/3XQKUQU
+
+[2025-12-12 22:35:10](https://bsky.app/profile/reuters.com/post/3m7s7edyxtu2i)
+
+---
+
+@cnbc.com
+
+Fed's Goolsbee explains vote against rate cut, says central bank should have waited
+
+[2025-12-12 22:34:36](https://bsky.app/profile/cnbc.com/post/3m7s7dd3suo2e)
 
 ---
 
