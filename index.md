@@ -1,9 +1,9 @@
-# [2025-12-12 16:50 updated](2025_12_12.md)
+# [2025-12-12 17:10 updated](2025_12_12.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">米トランプ大統領 州法律などのAI過剰規制防ぐ大統領令に署名 https://news.web.nhk/newsweb/na/na-k10015002351000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rlxp4rxf2d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-12 16:48:03)</span><span style="padding-right:50px;">Malaysia drops appeal against acquittal of wife of ex-PM Najib in money laundering, tax evasion case reut.rs/3XTSWsa <a href="https://bsky.app/profile/reuters.com/post/3m7rlsgpxjk2b" target="_blank">reuters.com</a> (2025-12-12 16:45:08)</span><span style="padding-right:50px;">CNBC Daily Open: Record high U.S. stocks as investors rotate out of tech <a href="https://bsky.app/profile/cnbc.com/post/3m7rlrea3632g" target="_blank">cnbc.com</a> (2025-12-12 16:44:32)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】大阪・守口市の長屋で火事京阪萱島駅から約600mの住宅街 (2025-12-12 16:41:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7rlpx4xsn2y" target="_blank">sokuho.news</a> (2025-12-12 16:43:45)</span><span style="padding-right:50px;">Verdict for Hong Kong tycoon Jimmy Lai's national security trial expected on Monday reut.rs/4rXAyMY <a href="https://bsky.app/profile/reuters.com/post/3m7rljiz5fk2r" target="_blank">reuters.com</a> (2025-12-12 16:40:09)</span>
+<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】神奈川・日向山の山火事鎮圧 発生から丸3日以上 伊勢原市が明らかに (2025-12-12 17:05:39) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7rn4ria6n2y" target="_blank">sokuho.news</a> (2025-12-12 17:08:49)</span><span style="padding-right:50px;">Rupee hits record low as US trade stalemate drags on, outflows pinch reut.rs/3XMfD1v <a href="https://bsky.app/profile/reuters.com/post/3m7rmw76ffi2r" target="_blank">reuters.com</a> (2025-12-12 17:05:08)</span><span style="padding-right:50px;">阪神 石井大智 推定年俸2億円で更改 将来的に大リーグ挑戦も https://news.web.nhk/newsweb/na/na-k10015002331000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rmsnytub24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-12 17:03:07)</span><span style="padding-right:50px;">大野泰正元参院議員裁判 元政策顧問“元議員に詳しく話さず” https://news.web.nhk/newsweb/na/na-k10015002341000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rmsix5z72v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-12 17:03:02)</span><span style="padding-right:50px;">Video released by Australia’s transport safety agency on Thursday shows the harrowing moment when a skydiver’s parachute was caught on the tail of an airplane before a jump in September. <a href="https://bsky.app/profile/cnn.com/post/3m7rmqmyr3g24" target="_blank">cnn.com</a> (2025-12-12 17:02:01)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48704.01 (🔺621.11 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23593.86 (🔺84.64 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.93 (🔺0.65 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.56 (🔺0.03 : 2025-12-12)</span>
+<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48704.01 (🔺621.11 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23593.86 (🔺84.64 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.93 (🔺0.65 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.67 (🔺0.14 : 2025-12-12)</span>
   </div>
 </div>
 
@@ -32,99 +32,109 @@
 
 ## News Headlines
 
-1. 米トランプ大統領がAI規制防止令に署名
-2. マレーシア、前首相の妻が金洗浄、税額差し控え事件で無罪判決確定
-3. 大阪・守口市で住宅火事　消火活動継続中
-4. 香港実業家のチャイ・ミニー・ライの国家安全保障法違反裁判、12日判決
-5. 來栖雅子がゲームアワード2025でゲームオブザイヤーを受賞
-6. インドネシアと米国が12月までにFTA合意を締結する可能性
+以下の6つのニュースのヘッダのみを日本語で提供します。
+
+1.  神奈川・日向山の山火事鎮圧　発生から丸3日以上
+2.  トランプ大統領に「反旗」　共和党強い州で選挙区見直し案否決
+3.  トランプ大統領、州法律などのAI過剰規制防ぐ大統領令に署名
+4.  震央：青森県東方沖　最大震度1の地震
+5.  フェラーリからホンダまで　「中古車の海」千葉・野田で競売会場
+6.  ジャパンのコアインフレ率は今月も3％に留まる　レートの予想
 
 ----
 
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】神奈川・日向山の山火事鎮圧 発生から丸3日以上 伊勢原市が明らかに
+(2025-12-12 17:05:39) #ニュース
+
+[2025-12-12 17:08:49](https://bsky.app/profile/sokuho.news/post/3m7rn4ria6n2y)
+
+---
+
+@reuters.com
+
+Rupee hits record low as US trade stalemate drags on, outflows pinch reut.rs/3XMfD1v
+
+[2025-12-12 17:05:08](https://bsky.app/profile/reuters.com/post/3m7rmw76ffi2r)
+
+---
+
 @nhknewsunofficial.bsky.social
 
-米トランプ大統領 州法律などのAI過剰規制防ぐ大統領令に署名
-https://news.web.nhk/newsweb/na/na-k10015002351000
+阪神 石井大智 推定年俸2億円で更改 将来的に大リーグ挑戦も
+https://news.web.nhk/newsweb/na/na-k10015002331000
 
-[2025-12-12 16:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rlxp4rxf2d)
-
----
-
-@reuters.com
-
-Malaysia drops appeal against acquittal of wife of ex-PM Najib in money laundering, tax evasion case reut.rs/3XTSWsa
-
-[2025-12-12 16:45:08](https://bsky.app/profile/reuters.com/post/3m7rlsgpxjk2b)
+[2025-12-12 17:03:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rmsnytub24)
 
 ---
 
-@cnbc.com
+@nhknewsunofficial.bsky.social
 
-CNBC Daily Open: Record high U.S. stocks as investors rotate out of tech
+大野泰正元参院議員裁判 元政策顧問“元議員に詳しく話さず”
+https://news.web.nhk/newsweb/na/na-k10015002341000
 
-[2025-12-12 16:44:32](https://bsky.app/profile/cnbc.com/post/3m7rlrea3632g)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】大阪・守口市の長屋で火事京阪萱島駅から約600mの住宅街
-(2025-12-12 16:41:00) #ニュース
-
-[2025-12-12 16:43:45](https://bsky.app/profile/sokuho.news/post/3m7rlpx4xsn2y)
-
----
-
-@reuters.com
-
-Verdict for Hong Kong tycoon Jimmy Lai's national security trial expected on Monday reut.rs/4rXAyMY
-
-[2025-12-12 16:40:09](https://bsky.app/profile/reuters.com/post/3m7rljiz5fk2r)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】「1階から火が見えます」 住宅街の2階建て長屋住宅で火事 現在も消火活動中 大阪・守口市
-(2025-12-12 16:34:31) #ニュース
-
-[2025-12-12 16:39:00](https://bsky.app/profile/sokuho.news/post/3m7rlhhjck62a)
-
----
-
-@reuters.com
-
-Reports: Royals land OF Lane Thomas on 1-year deal reut.rs/3KWvVSs
-
-[2025-12-12 16:35:09](https://bsky.app/profile/reuters.com/post/3m7rlalnlx32p)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-The hiker said he thought the ground was solid before his leg sank into the muck, trapping him until a rescue team arrived
-
-[2025-12-12 16:34:24](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7rl7asfxe2x)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Game Awards 2025: Clair Obscur Expedition 33 is game of the year
-
-[2025-12-12 16:33:17](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7rl5babyi2y)
+[2025-12-12 17:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rmsix5z72v)
 
 ---
 
 @cnn.com
 
-Getting trapped in quicksand is a corny peril of old movies and TV shows, but it really did happen to one unfortunate hiker in Utah’s Arches National Park.
+Video released by Australia’s transport safety agency on Thursday shows the harrowing moment when a skydiver’s parachute was caught on the tail of an airplane before a jump in September.
 
-[2025-12-12 16:32:01](https://bsky.app/profile/cnn.com/post/3m7rl2yaxr724)
+[2025-12-12 17:02:01](https://bsky.app/profile/cnn.com/post/3m7rmqmyr3g24)
+
+---
+
+@nikkei.com
+
+【"中古車の海"、千葉・野田に】
+競売会場のユー・エス・エス東京
+www.nikkei.com/article/DGXZQO...
+
+フェラーリの488ピスタからホンダのN-BOXまで――。
+
+平均1万7500台が並ぶオークション会場はまさに「中古車の海」。
+
+16台同時の競りが可能で、立体駐車場の増設も予定します。
+
+[2025-12-12 17:00:59](https://bsky.app/profile/nikkei.com/post/3m7rmoqy34j2g)
+
+---
+
+@reuters.com
+
+Taiwan opens new cloud centre to bolster 'sovereign AI' effort reut.rs/44kHaLc
+
+[2025-12-12 17:00:28](https://bsky.app/profile/reuters.com/post/3m7rmntsux42k)
+
+---
+
+@washingtonpost.com
+
+The IRS announced new contribution limits for retirement accounts that will allow people to save more money tax-free in 2026.
+
+Here’s what you need to know about the changes.
+
+[2025-12-12 17:00:11](https://bsky.app/profile/washingtonpost.com/post/3m7rmndmblv24)
+
+---
+
+@bloomberg.com
+
+Trump signs several congressional measures designed to undo Biden administration land conservation policies restricting energy development in the Arctic National Wildlife Refuge and federal lands in three Western states.
+
+[2025-12-12 17:00:11](https://bsky.app/profile/bloomberg.com/post/3m7rmndz5nn2z)
+
+---
+
+@aljazeera.com
+
+The 156-day trial, the most high-profile use of Beijing's draconian national security law, is set to come to a close.
+
+[2025-12-12 17:00:09](https://bsky.app/profile/aljazeera.com/post/3m7rmnbe3k32z)
 
 ---
 
