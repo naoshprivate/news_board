@@ -1,9 +1,9 @@
-# [2025-12-12 12:50 updated](2025_12_12.md)
+# [2025-12-12 13:10 updated](2025_12_12.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】北海道・えりも庶野と青森・八戸港で20cmの津波観測 (2025-12-12 12:41) #ニュース  ⬛津波情報 🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami <a href="https://bsky.app/profile/sokuho.news/post/3m7r6i3xrea27" target="_blank">sokuho.news</a> (2025-12-12 12:46:43)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】集合住宅で火事 男性1人が意識不明で搬送 大阪・泉大津市 (2025-12-12 12:40) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7r6hag25n2b" target="_blank">sokuho.news</a> (2025-12-12 12:46:14)</span><span style="padding-right:50px;">仙台市 東松島市 むつ市 八戸市など 河口や沿岸地域に避難指示 https://news.web.nhk/newsweb/na/na-k10015002041000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7r6f5vuj72w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-12 12:45:02)</span><span style="padding-right:50px;">🔔NHKより【津波速報】です。  ■津波注意報■北海道太平洋沿岸中部 青森県太平洋沿岸 岩手県 ■津波注意報■宮城県 (2025-12-12 12:44) #ニュース  ⬛津波情報 🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami <a href="https://bsky.app/profile/sokuho.news/post/3m7r6efddni2b" target="_blank">sokuho.news</a> (2025-12-12 12:44:38)</span><span style="padding-right:50px;">Reddit challenges Australia’s under-16 social media ban in High Court filing, says law curbs political speech <a href="https://bsky.app/profile/cnbc.com/post/3m7r6dzd4ot24" target="_blank">cnbc.com</a> (2025-12-12 12:44:26)</span>
+<span style="padding-right:50px;">【きょうのおはBiz 12月12日(金)】話題の本 ヒットの裏側は? https://news.web.nhk/newsweb/na/na-k10015001851000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7r7kpuaf62v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-12 13:06:02)</span><span style="padding-right:50px;">PHOTOS: Residents in the Pacific Northwest face "catastrophic" and potentially life-threatening flood threats after days of heavy rains, the National Weather Service warns. <a href="https://bsky.app/profile/axios.com/post/3m7r7hb7mzs24" target="_blank">axios.com</a> (2025-12-12 13:04:09)</span><span style="padding-right:50px;">"Trump’s team has chosen to use some misleading comparisons – deploying apples-to-oranges sets of statistics to serve Trump’s point. White House press secretary Karoline Leavitt tried it from the podium on Thursday." | Analysis by CNN's Daniel Dale https://cnn.it/3MWqYcQ <a href="https://bsky.app/profile/cnn.com/post/3m7r7bovx6g2v" target="_blank">cnn.com</a> (2025-12-12 13:01:01)</span><span style="padding-right:50px;">Trading Day: Investors cling to dovish Fed view reut.rs/3MvluG1 <a href="https://bsky.app/profile/reuters.com/post/3m7r7bahpgj2r" target="_blank">reuters.com</a> (2025-12-12 13:00:46)</span><span style="padding-right:50px;">Swiss singer Nemo, who won the 2024 Eurovision Song Contest, has decided to return the winners' trophy. <a href="https://bsky.app/profile/apnews.com/post/3m7r7ayx3lx2k" target="_blank">apnews.com</a> (2025-12-12 13:00:38)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50562.71 (🔺82.48 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48704.01 (🔺621.11 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23593.86 (🔺84.64 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.93 (🔺0.65 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3202.00 (🔺11.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.70 (🔺0.17 : 2025-12-12)</span>
+<span style="padding-right:50px;">NIKKEI: 50623.25 (🔺143.02 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48704.01 (🔺621.11 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23593.86 (🔺84.64 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.93 (🔺0.65 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3213.00 (🔺22.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.72 (🔺0.19 : 2025-12-12)</span>
   </div>
 </div>
 
@@ -32,126 +32,102 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in Japanese:
-
-1. 20cmの津波観測　北海道・えりも庶野と青森・八戸港で
-2. 大阪・泉大津市で火事　男性1人が意識不明で搬送
-3. 津波注意報　北海道太平洋沿岸中部、青森県太平洋沿岸、岩手県
-4. 92歳女性けが　東京・港区高輪の2階建て住宅で火災
-5. 宮城県沿岸上空からの映像　ライブ放送終了
-6. 北海道・青森県・岩手県で震度3　津波注意報発表
+1. JR福知山線事故の車両保存施設が開館　一般公開見送り
+2. 7割以上の人がハッピーを装う　Holidayシーズンに圧力が強い
+3. 津波注意報　北海道・青森・岩手・宮城県に広がる
+4. 「空港バーのルール」15の未知のルール
+5. トランプ大統領が刑事免免免を発表　コロラドの元選挙管理委員に
+6. 北朝鮮の金正恩氏が海外派兵を強調　2025年の目標
 
 ----
 
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】北海道・えりも庶野と青森・八戸港で20cmの津波観測
-(2025-12-12 12:41) #ニュース
-
-⬛津波情報
-🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami
-
-[2025-12-12 12:46:43](https://bsky.app/profile/sokuho.news/post/3m7r6i3xrea27)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】集合住宅で火事 男性1人が意識不明で搬送 大阪・泉大津市
-(2025-12-12 12:40) #ニュース
-
-[2025-12-12 12:46:14](https://bsky.app/profile/sokuho.news/post/3m7r6hag25n2b)
-
----
-
 @nhknewsunofficial.bsky.social
 
-仙台市 東松島市 むつ市 八戸市など 河口や沿岸地域に避難指示
-https://news.web.nhk/newsweb/na/na-k10015002041000
+【きょうのおはBiz 12月12日(金)】話題の本 ヒットの裏側は?
+https://news.web.nhk/newsweb/na/na-k10015001851000
 
-[2025-12-12 12:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7r6f5vuj72w)
+[2025-12-12 13:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7r7kpuaf62v)
 
 ---
 
-@sokuho.news
+@axios.com
 
-🔔NHKより【津波速報】です。
+PHOTOS: Residents in the Pacific Northwest face "catastrophic" and potentially life-threatening flood threats after days of heavy rains, the National Weather Service warns.
 
-■津波注意報■北海道太平洋沿岸中部 青森県太平洋沿岸 岩手県
-■津波注意報■宮城県
-(2025-12-12 12:44) #ニュース
+[2025-12-12 13:04:09](https://bsky.app/profile/axios.com/post/3m7r7hb7mzs24)
 
-⬛津波情報
-🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami
+---
 
-[2025-12-12 12:44:38](https://bsky.app/profile/sokuho.news/post/3m7r6efddni2b)
+@cnn.com
+
+"Trump’s team has chosen to use some misleading comparisons – deploying apples-to-oranges sets of statistics to serve Trump’s point. White House press secretary Karoline Leavitt tried it from the podium on Thursday." | Analysis by CNN's Daniel Dale https://cnn.it/3MWqYcQ
+
+[2025-12-12 13:01:01](https://bsky.app/profile/cnn.com/post/3m7r7bovx6g2v)
+
+---
+
+@reuters.com
+
+Trading Day: Investors cling to dovish Fed view reut.rs/3MvluG1
+
+[2025-12-12 13:00:46](https://bsky.app/profile/reuters.com/post/3m7r7bahpgj2r)
+
+---
+
+@apnews.com
+
+Swiss singer Nemo, who won the 2024 Eurovision Song Contest, has decided to return the winners' trophy.
+
+[2025-12-12 13:00:38](https://bsky.app/profile/apnews.com/post/3m7r7ayx3lx2k)
+
+---
+
+@nikkei.com
+
+JR福知山線事故の車両保存施設が開館　一般公開見送り
+www.nikkei.com/article/DGXZQO...
+
+2005年に兵庫県尼崎市で発生し、乗客106人が亡くなった惨事。
+
+保存の在り方は事故から20年以上を経た今も遺族や負傷者の間で意見が分かれています。
+
+[2025-12-12 13:00:36](https://bsky.app/profile/nikkei.com/post/3m7r7awhdat22)
 
 ---
 
 @cnbc.com
 
-Reddit challenges Australia’s under-16 social media ban in High Court filing, says law curbs political speech
+A survey found that nearly seven in ten people feel pressure to appear happier than they really are, during the holiday season.
 
-[2025-12-12 12:44:26](https://bsky.app/profile/cnbc.com/post/3m7r6dzd4ot24)
+Try "practicing these micro-actions — like tiny mood resets," says Jennifer Moss, former member of the Global Happiness Council.
 
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】北海道・えりも庶野で20cmの津波観測
-(2025-12-12 12:41) #ニュース
-
-⬛津波情報
-🔗https://www.jma.go.jp/bosai/map.html#5/37.979/135/&elem=warn&contents=tsunami
-
-[2025-12-12 12:43:55](https://bsky.app/profile/sokuho.news/post/3m7r6d4arae2b)
+[2025-12-12 13:00:30](https://bsky.app/profile/cnbc.com/post/3m7r7ar3ekg2p)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@nytimes.com
 
-【ライブ終了】宮城県沿岸上空からの映像
-https://news.web.nhk/newsweb/na/na-k10015002051000
+Rain tapered off across Washington and British Columbia on Thursday but forecasters said more rain is on the way, with another storm set to approach the region as early as Sunday night and last into early next week.
 
-[2025-12-12 12:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7r67s5y6c2b)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】東京・港区高輪の2階建て住宅で火災 92歳女性けがか ガス点火時に爆発した可能性も
-(2025-12-12 12:39:32) #ニュース
-
-[2025-12-12 12:41:11](https://bsky.app/profile/sokuho.news/post/3m7r667wzl72b)
+[2025-12-12 13:00:09](https://bsky.app/profile/nytimes.com/post/3m7r7a5b6st2b)
 
 ---
 
-@en.afp.com
+@washingtonpost.com
 
-Thailand's Prime Minister dissolved parliament on Friday after three months in office, a royal decree showed, paving the way for general elections early next year
+At airport bars you’re free from the judgment of everyday life. But that doesn’t mean it’s a free-for-all.
 
-u.afp.com/S789
+Here are 15 unspoken rules of the airport bar, according to travelers who love it.
 
-[2025-12-12 12:41:11](https://bsky.app/profile/en.afp.com/post/3m7r667lfxk26)
+[2025-12-12 13:00:08](https://bsky.app/profile/washingtonpost.com/post/3m7r7a3u3dd2e)
 
 ---
 
-@sokuho.news
+@aljazeera.com
 
-🛎️FNNより【速報】です。
+A tsunami warning has been issued following a strong quake off northeast coast of Japan.
 
-【速報】維新・吉村代表「結論出さずに終わる政治はまっぴらごめん。会期延長したらいい」“議員定数削減法案”と“企業団体献金法案”巡って
-(2025-12-12 12:35) #ニュース
-
-[2025-12-12 12:40:43](https://bsky.app/profile/sokuho.news/post/3m7r65etxux2r)
+[2025-12-12 13:00:03](https://bsky.app/profile/aljazeera.com/post/3m7r77x53zh27)
 
 ---
 
