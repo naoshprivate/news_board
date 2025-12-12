@@ -1,9 +1,9 @@
-# [2025-12-13 08:30 updated](2025_12_13.md)
+# [2025-12-13 08:50 updated](2025_12_13.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Trump's order targeting state AI laws faces political and legal hurdles reut.rs/4pu3dr6 <a href="https://bsky.app/profile/reuters.com/post/3m7taderdek2y" target="_blank">reuters.com</a> (2025-12-13 08:25:11)</span><span style="padding-right:50px;">Cramer's week ahead: New economic data and earnings from FedEx, Jabil <a href="https://bsky.app/profile/cnbc.com/post/3m7tabulyny2e" target="_blank">cnbc.com</a> (2025-12-13 08:24:21)</span><span style="padding-right:50px;">South Carolina measles outbreak accelerates as cases rise to 126 reut.rs/4aKFyht <a href="https://bsky.app/profile/reuters.com/post/3m7t7rodjzm2s" target="_blank">reuters.com</a> (2025-12-13 08:15:17)</span><span style="padding-right:50px;">YouTube has hit pause on a dating show that whisked eight men and women from deeply conservative Pakistan to a sun-soaked Istanbul villa, where the strangers mingled, flirted and searched for chemistry.  u.afp.com/S76y <a href="https://bsky.app/profile/en.afp.com/post/3m7t7r7z47p2y" target="_blank">en.afp.com</a> (2025-12-13 08:15:02)</span><span style="padding-right:50px;">The rush is on to make year-end tax moves for 2025. Here’s what to know to shrink what you’ll owe. on.wsj.com/3KHS32Y <a href="https://bsky.app/profile/wsj.com/post/3m7t7nro3bj2u" target="_blank">wsj.com</a> (2025-12-13 08:13:06)</span>
+<span style="padding-right:50px;">【京都のホテル大幅値下げ】 訪日中国人客、年1000万人目前で急ブレーキ www.nikkei.com/article/DGXZQO...  中国が日本への渡航自粛を呼びかけたことで、国内各地で予約キャンセルが相次ぎました。  Googleで「京都　ホテル」と検索すると、宿泊費が高騰していたのがウソのように1泊1万円未満のホテルがずらり。  ダメージを軽減するには、1回当たり旅行支出額の多いアメリカやヨーロッパの訪日客の割合を高めていくことも求められます。 <a href="https://bsky.app/profile/nikkei.com/post/3m7tbjn4gp42m" target="_blank">nikkei.com</a> (2025-12-13 08:46:35)</span><span style="padding-right:50px;">Fintech Wealthfront valued at $2.63 billion in Nasdaq debut reut.rs/3YnHHZ4 <a href="https://bsky.app/profile/reuters.com/post/3m7tbhb5vsk24" target="_blank">reuters.com</a> (2025-12-13 08:45:15)</span><span style="padding-right:50px;">Trump says ‘no big deal’ after Jeffrey Epstein photos showing him released <a href="https://bsky.app/profile/cnbc.com/post/3m7tbgvvh2y25" target="_blank">cnbc.com</a> (2025-12-13 08:45:04)</span><span style="padding-right:50px;">UN completes investigation into ICC prosecutor's alleged sexual misconduct reut.rs/4q6fVvZ <a href="https://bsky.app/profile/reuters.com/post/3m7tb6hhgxo23" target="_blank">reuters.com</a> (2025-12-13 08:40:20)</span><span style="padding-right:50px;">Can plants and lights help stop crime? In Philadelphia, that idea has been put to the test, with encouraging results. Both city-led and community-driven efforts to clean and maintain streets have been among many interventions credited for dramatic reductions in gun violence. <a href="https://bsky.app/profile/nytimes.com/post/3m7tb5xjr3b27" target="_blank">nytimes.com</a> (2025-12-13 08:40:03)</span>
   </div>
 </div>
 
@@ -32,97 +32,100 @@
 
 ## News Headlines
 
-Here are six news headlines in Japanese:
-
-1. トランプ政権がAIに関する州法の規制を抑制するための命令に対する反対が生じる
-2. YouTubeがパキスタンから参加者を招集したデートショーを放送を停止
-3. 2025年末の税金の対処のヒント: どうすれば税金を節約できるか
-4. ウクライナからの軍事侵攻と戦争による被害を訴える
-5. ドルが円やドル以外の主要通貨に対して上昇
-6. チャーリー3世、癌の治療を減らす
+1. 京都のホテル大幅値下げ
+2. Fintech WealthfrontがNASDAQで2.63億ドルで上場
+3. トランプ氏「エプスタインの写真は問題ではない」
+4. 国際刑事警察機構の検察官の性別差別問題を調査した報告書が発表
+5. アメリカの大学がトランプ政権の研究補助金を失う
+6. カナダが世界のトップ研究者を引き付けようとし米国大学を圧迫
 
 ----
 
+@nikkei.com
+
+【京都のホテル大幅値下げ】
+訪日中国人客、年1000万人目前で急ブレーキ
+www.nikkei.com/article/DGXZQO...
+
+中国が日本への渡航自粛を呼びかけたことで、国内各地で予約キャンセルが相次ぎました。
+
+Googleで「京都　ホテル」と検索すると、宿泊費が高騰していたのがウソのように1泊1万円未満のホテルがずらり。
+
+ダメージを軽減するには、1回当たり旅行支出額の多いアメリカやヨーロッパの訪日客の割合を高めていくことも求められます。
+
+[2025-12-13 08:46:35](https://bsky.app/profile/nikkei.com/post/3m7tbjn4gp42m)
+
+---
+
 @reuters.com
 
-Trump's order targeting state AI laws faces political and legal hurdles reut.rs/4pu3dr6
+Fintech Wealthfront valued at $2.63 billion in Nasdaq debut reut.rs/3YnHHZ4
 
-[2025-12-13 08:25:11](https://bsky.app/profile/reuters.com/post/3m7taderdek2y)
+[2025-12-13 08:45:15](https://bsky.app/profile/reuters.com/post/3m7tbhb5vsk24)
 
 ---
 
 @cnbc.com
 
-Cramer's week ahead: New economic data and earnings from FedEx, Jabil
+Trump says ‘no big deal’ after Jeffrey Epstein photos showing him released
 
-[2025-12-13 08:24:21](https://bsky.app/profile/cnbc.com/post/3m7tabulyny2e)
+[2025-12-13 08:45:04](https://bsky.app/profile/cnbc.com/post/3m7tbgvvh2y25)
 
 ---
 
 @reuters.com
 
-South Carolina measles outbreak accelerates as cases rise to 126 reut.rs/4aKFyht
+UN completes investigation into ICC prosecutor's alleged sexual misconduct reut.rs/4q6fVvZ
 
-[2025-12-13 08:15:17](https://bsky.app/profile/reuters.com/post/3m7t7rodjzm2s)
+[2025-12-13 08:40:20](https://bsky.app/profile/reuters.com/post/3m7tb6hhgxo23)
 
 ---
 
-@en.afp.com
+@nytimes.com
 
-YouTube has hit pause on a dating show that whisked eight men and women from deeply conservative Pakistan to a sun-soaked Istanbul villa, where the strangers mingled, flirted and searched for chemistry.
+Can plants and lights help stop crime? In Philadelphia, that idea has been put to the test, with encouraging results. Both city-led and community-driven efforts to clean and maintain streets have been among many interventions credited for dramatic reductions in gun violence.
 
-u.afp.com/S76y
+[2025-12-13 08:40:03](https://bsky.app/profile/nytimes.com/post/3m7tb5xjr3b27)
 
-[2025-12-13 08:15:02](https://bsky.app/profile/en.afp.com/post/3m7t7r7z47p2y)
+---
+
+@japan.reuters.com
+
+米国の大学がトランプ政権による政府助成金の削減に直面する中、カナダは新たな政府資金と移民制度改革によって、世界のトップ研究者を呼び込もうとしている。 bit.ly/3Ypwc3n
+
+[2025-12-13 08:36:37](https://bsky.app/profile/japan.reuters.com/post/3m7taxt5iio2f)
+
+---
+
+@reuters.com
+
+Fired Michigan football coach Sherrone Moore charged with stalking, home invasion reut.rs/4pDzYCq
+
+[2025-12-13 08:35:09](https://bsky.app/profile/reuters.com/post/3m7tav754zw2s)
 
 ---
 
 @wsj.com
 
-The rush is on to make year-end tax moves for 2025. Here’s what to know to shrink what you’ll owe. on.wsj.com/3KHS32Y
+How do you keep fish away from a nuclear plant? A disco, of course!
 
-[2025-12-13 08:13:06](https://bsky.app/profile/wsj.com/post/3m7t7nro3bj2u)
-
----
-
-@reuters.com
-
-Law firms Winston & Strawn, Taylor Wessing in talks to merge reut.rs/4pYhImM
-
-[2025-12-13 08:10:17](https://bsky.app/profile/reuters.com/post/3m7t7iq5alu2s)
+[2025-12-13 08:33:36](https://bsky.app/profile/wsj.com/post/3m7tasfys4r2k)
 
 ---
 
-@reuters.com
+@npr.org
 
-Trump's $100,000 H-1B visa fee draws legal challenge from US states reut.rs/4pANWVH
+In a daring nighttime martime operation, U.S. veterans whisked Venezuela's María Corina Machado out of the country to claim her Nobel Peace Prize in Oslo n.pr/4adj9td
 
-[2025-12-13 08:05:13](https://bsky.app/profile/reuters.com/post/3m7t77nrwo623)
-
----
-
-@reuters.com
-
-Nobel Peace Prize committee condemns "brutal" arrest of Iranian laureate Narges Mohammadi reut.rs/4pANWoF
-
-[2025-12-13 08:05:08](https://bsky.app/profile/reuters.com/post/3m7t77js6gt2s)
+[2025-12-13 08:32:59](https://bsky.app/profile/npr.org/post/3m7tarcyaig2y)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@japan.reuters.com
 
-NY株式市場 ダウ下落 ナスダック大幅下落 AI関連に売り優勢
-https://news.web.nhk/newsweb/na/na-k10015002961000
+中国企業が、ベトナムに投資を進め、事業を拡大させている。同じ社会主義国で国境を接している両国は、領有権問題などを抱え複雑な関係だったが、トランプ米大統領による輸入関税引き上げという逆風が双方を急接近させている。 bit.ly/3YrhQ2s
 
-[2025-12-13 08:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7t73tzyn72d)
-
----
-
-@reuters.com
-
-US lifts sanctions on Brazil judge targeted by Trump reut.rs/3KY7pAo
-
-[2025-12-13 08:01:15](https://bsky.app/profile/reuters.com/post/3m7t6yl57l62x)
+[2025-12-13 08:32:18](https://bsky.app/profile/japan.reuters.com/post/3m7taq3o6jn2p)
 
 ---
 
