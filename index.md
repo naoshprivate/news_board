@@ -1,9 +1,9 @@
-# [2025-12-13 05:50 updated](2025_12_13.md)
+# [2025-12-13 06:10 updated](2025_12_13.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">President Trump tells WSJ he is leaning toward either Kevin Warsh or Kevin Hassett to lead the Fed, and that the next chair should consult with him on interest rates on.wsj.com/48zQuxb <a href="https://bsky.app/profile/wsj.com/post/3m7sxmfriej2g" target="_blank">wsj.com</a> (2025-12-13 05:49:10)</span><span style="padding-right:50px;">農水省 森林取得の届け出で国籍などの記載求める仕組み導入へ https://news.web.nhk/newsweb/na/na-k10015002901000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7sxkgqvv42x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-13 05:48:02)</span><span style="padding-right:50px;">Thailand and Cambodia agree to halt fighting, Trump says <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7sxiwhqms27" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-13 05:47:13)</span><span style="padding-right:50px;">米フィラデルフィア地区連銀のポールソン総裁は１２日、労働市場を巡る状況が現時点で主要な懸念事項となっているとし、物価情勢については、連邦準備理事会（ＦＲＢ）の現行政策でインフレ率を目標水準に引き下げることができるとの考えを示した。 bit.ly/4rSOpUF <a href="https://bsky.app/profile/japan.reuters.com/post/3m7sxfhvbdx22" target="_blank">japan.reuters.com</a> (2025-12-13 05:45:18)</span><span style="padding-right:50px;">US FAA to review Boeing cockpit alerting system for MAX 10 reut.rs/4rUzfOG <a href="https://bsky.app/profile/reuters.com/post/3m7sxfgg3g62c" target="_blank">reuters.com</a> (2025-12-13 05:45:16)</span>
+<span style="padding-right:50px;">Coty chair, CEO may exit as owner JAB plans leadership shake-up, FT reports reut.rs/44VlFAE <a href="https://bsky.app/profile/reuters.com/post/3m7syj37jgn2x" target="_blank">reuters.com</a> (2025-12-13 06:05:12)</span><span style="padding-right:50px;">The artist’s first New York retrospective, currently on view at the International Center of Photography, reveals a cinematic eye and a taste for the mystical. on.wsj.com/4q62goS <a href="https://bsky.app/profile/wsj.com/post/3m7syf6mph72c" target="_blank">wsj.com</a> (2025-12-13 06:03:02)</span><span style="padding-right:50px;">ガザ地区 大雨などによる住宅倒壊や寒さ 今月10日以降14人死亡 https://news.web.nhk/newsweb/na/na-k10015002821000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7syfbcka22y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-13 06:03:02)</span><span style="padding-right:50px;">The EU froze €210bn of Russian sovereign assets held in the bloc on Friday. The freezing paves the way for a loan to be raised against the assets to prop up Ukraine's defence. on.ft.com/48PfDCV <a href="https://bsky.app/profile/financialtimes.com/post/3m7sye2kgrz2w" target="_blank">financialtimes.com</a> (2025-12-13 06:02:24)</span><span style="padding-right:50px;">The Geminids are peaking this weekend. Amateurs and experts regard the dazzling celestial display as one of the year’s best meteor showers. https://cnn.it/3KP6tOD <a href="https://bsky.app/profile/cnn.com/post/3m7sydfma5c2o" target="_blank">cnn.com</a> (2025-12-13 06:02:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48465.01 (🔻249.74 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23191.07 (🔻297.80 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.14 (🔻6.12 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.86 (🔺0.32 : 2025-12-12)</span>
+<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.82 (🔺0.29 : 2025-12-12)</span>
   </div>
 </div>
 
@@ -32,98 +32,93 @@
 
 ## News Headlines
 
-1. 
-  「トランプ大統領「フェデールの次期委員長」にワーズ、ハセットのいずれかを検討中」
-  「農水省 森林取得の届け出で国籍などの記載求める仕組み導入へ」
-  「米フィラデルフィア地区連銀総裁「労働市場の状況が大きな懸念事項」」
-  「米連邦航空局がボーイングMAX10のコックピット警告システムを検討」
-  「ドナルド・トランプ大統領とビル・クリントン元大統領がエピスタインの遺産から出た写真が公開」
-  「能登半島地震 輪島のビル倒壊は複合的要因」
+1. コティの会長兼CEOが辞任へ
+2. クリスマスをテーマにしたアルバムでロガーズがキャンプの要素と真面目さを兼ね備えたステージングで注目を集めている
+3. ガザ地区で大雨などによる住宅倒壊など、死亡14人
+4. EUがロシアの資産を凍結、ウクライナ支援のため資金調達を計画
+5. 米連邦準備理事会のポウエル委員長「利率引き下げは住宅購入を容易にするとは思わない」
+6. トランプ大統領が米連邦準備理事会の後任にウォーシュ氏かハセット氏のいずれかを考えている
 
 ----
 
+@reuters.com
+
+Coty chair, CEO may exit as owner JAB plans leadership shake-up, FT reports reut.rs/44VlFAE
+
+[2025-12-13 06:05:12](https://bsky.app/profile/reuters.com/post/3m7syj37jgn2x)
+
+---
+
 @wsj.com
 
-President Trump tells WSJ he is leaning toward either Kevin Warsh or Kevin Hassett to lead the Fed, and that the next chair should consult with him on interest rates
-on.wsj.com/48zQuxb
+The artist’s first New York retrospective, currently on view at the International Center of Photography, reveals a cinematic eye and a taste for the mystical. on.wsj.com/4q62goS
 
-[2025-12-13 05:49:10](https://bsky.app/profile/wsj.com/post/3m7sxmfriej2g)
+[2025-12-13 06:03:02](https://bsky.app/profile/wsj.com/post/3m7syf6mph72c)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-農水省 森林取得の届け出で国籍などの記載求める仕組み導入へ
-https://news.web.nhk/newsweb/na/na-k10015002901000
+ガザ地区 大雨などによる住宅倒壊や寒さ 今月10日以降14人死亡
+https://news.web.nhk/newsweb/na/na-k10015002821000
 
-[2025-12-13 05:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7sxkgqvv42x)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Thailand and Cambodia agree to halt fighting, Trump says
-
-[2025-12-13 05:47:13](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7sxiwhqms27)
+[2025-12-13 06:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7syfbcka22y)
 
 ---
 
-@japan.reuters.com
+@financialtimes.com
 
-米フィラデルフィア地区連銀のポールソン総裁は１２日、労働市場を巡る状況が現時点で主要な懸念事項となっているとし、物価情勢については、連邦準備理事会（ＦＲＢ）の現行政策でインフレ率を目標水準に引き下げることができるとの考えを示した。 bit.ly/4rSOpUF
+The EU froze €210bn of Russian sovereign assets held in the bloc on Friday. The freezing paves the way for a loan to be raised against the assets to prop up Ukraine's defence. on.ft.com/48PfDCV
 
-[2025-12-13 05:45:18](https://bsky.app/profile/japan.reuters.com/post/3m7sxfhvbdx22)
+[2025-12-13 06:02:24](https://bsky.app/profile/financialtimes.com/post/3m7sye2kgrz2w)
+
+---
+
+@cnn.com
+
+The Geminids are peaking this weekend. Amateurs and experts regard the dazzling celestial display as one of the year’s best meteor showers. https://cnn.it/3KP6tOD
+
+[2025-12-13 06:02:02](https://bsky.app/profile/cnn.com/post/3m7sydfma5c2o)
+
+---
+
+@usatoday.com
+
+President Trump granted a symbolic "pardon" to Tina Peters, the only Trump ally in prison for crimes related to efforts to overturn the 2020 election.
+
+[2025-12-13 06:01:40](https://bsky.app/profile/usatoday.com/post/3m7sycq5rpx2f)
 
 ---
 
 @reuters.com
 
-US FAA to review Boeing cockpit alerting system for MAX 10 reut.rs/4rUzfOG
+US threatens to pull highway funds from New York state over non-citizen truck driver licenses reut.rs/48Do4T6
 
-[2025-12-13 05:45:16](https://bsky.app/profile/reuters.com/post/3m7sxfgg3g62c)
-
----
-
-@en.afp.com
-
-Democratic lawmakers released a new cache of photos on Friday from the estate of convicted sex offender Jeffrey Epstein that includes images of US President Donald Trump and former president Bill Clinton.
-
-u.afp.com/S76B
-
-[2025-12-13 05:45:06](https://bsky.app/profile/en.afp.com/post/3m7sxf4te5n2q)
+[2025-12-13 06:01:30](https://bsky.app/profile/reuters.com/post/3m7sychafyk24)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@nbcnews.com
 
-能登半島地震 輪島のビル倒壊は複合的要因 国の専門家委員会
-https://news.web.nhk/newsweb/na/na-k10015002911000
+Federal Reserve Chair Jerome Powell says the latest interest rate cut is unlikely to make buying a home easier.
 
-[2025-12-13 05:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7sxf2mz2b2y)
-
----
-
-@npr.org
-
-Independent video game Clair Obscur: Expedition 33 swept the Game Awards last night. The L.A. ceremony draws millions of views for its industry honors and exclusive previews of upcoming games. n.pr/3MwaOqI
-
-[2025-12-13 05:44:40](https://bsky.app/profile/npr.org/post/3m7sxedgiuc24)
+[2025-12-13 06:01:10](https://bsky.app/profile/nbcnews.com/post/3m7sybtwi3l2k)
 
 ---
 
 @japan.reuters.com
 
-米金融・債券市場では、米１０年債利回りが上昇した。市場は連邦準備理事会（ＦＲＢ）当局者らの発言や今後の経済見通しを見極めようとしている。 bit.ly/3MwLbpI
+米シカゴ地区連銀のグールズビー総裁は１２日、連邦準備理事会（ＦＲＢ）は金融政策会合で政府の財政コストを考慮すべきでなく、ＦＲＢの独立性は極めて重要であるとの認識を改めて示した。 bit.ly/4oWvJRh
 
-[2025-12-13 05:44:22](https://bsky.app/profile/japan.reuters.com/post/3m7sxdso7fr2q)
+[2025-12-13 06:01:03](https://bsky.app/profile/japan.reuters.com/post/3m7sybmwzwg2p)
 
 ---
 
-@nytimes.com
+@bloomberg.com
 
-The average American eats nearly 14 pounds of yogurt each year, and there is a head-spinning amount of it that can be found in the dairy aisle. To make sense of it all, we tasted 54 plain cow’s milk yogurts. Here are the best: nyti.ms/44eoMn3
+The US Chamber of Commerce is pushing back against a proposal by the European Commission to simplify its methane regulations rules, saying the offer stops short of fixing “core structural flaws.”
 
-[2025-12-13 05:43:03](https://bsky.app/profile/nytimes.com/post/3m7sxbhqlir27)
+[2025-12-13 06:00:42](https://bsky.app/profile/bloomberg.com/post/3m7syayvdzr2h)
 
 ---
 
