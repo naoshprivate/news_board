@@ -1,9 +1,9 @@
-# [2025-12-13 04:30 updated](2025_12_13.md)
+# [2025-12-13 04:50 updated](2025_12_13.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Can the magic of Disney help OpenAI’s video app take flight? on.ft.com/44o3X8M <a href="https://bsky.app/profile/financialtimes.com/post/3m7ssyhdlut2y" target="_blank">financialtimes.com</a> (2025-12-13 04:26:26)</span><span style="padding-right:50px;">The Trump administration threatened to freeze $73 million from New York today for allegedly issuing commercial driver's licenses for immigrants "illegally," as the White House ramps up efforts to push undocumented immigrants out of the workforce. <a href="https://bsky.app/profile/axios.com/post/3m7ssybhhnk2b" target="_blank">axios.com</a> (2025-12-13 04:26:20)</span><span style="padding-right:50px;">Cannabis, mining shares lift TSX to record high reut.rs/44tkhoS <a href="https://bsky.app/profile/reuters.com/post/3m7sswagyaw24" target="_blank">reuters.com</a> (2025-12-13 04:25:12)</span><span style="padding-right:50px;">Stark reimaginings of Christ's birth across the U.S. are drawing praise and outrage as churches turn the Christmas tableau into a commentary on federal immigration enforcement under the Trump administration. <a href="https://bsky.app/profile/nbcnews.com/post/3m7ssnbcpz62p" target="_blank">nbcnews.com</a> (2025-12-13 04:20:11)</span><span style="padding-right:50px;">Larry Ellison is backstopping Paramount’s bid for Warner Brothers, but Warner Brothers is concerned that the billionaire has not provided a personal guarantee to pay. <a href="https://bsky.app/profile/nytimes.com/post/3m7ssn3odpz2b" target="_blank">nytimes.com</a> (2025-12-13 04:20:05)</span>
+<span style="padding-right:50px;">Trump’s AI order may be ‘illegal,’ Democrats and consumer advocacy groups claim <a href="https://bsky.app/profile/cnbc.com/post/3m7su3u2xfh24" target="_blank">cnbc.com</a> (2025-12-13 04:46:14)</span><span style="padding-right:50px;">France toughens cattle lumpy skin disease rules amid farm protests reut.rs/3MGjZVo <a href="https://bsky.app/profile/reuters.com/post/3m7su24jjug2b" target="_blank">reuters.com</a> (2025-12-13 04:45:15)</span><span style="padding-right:50px;">米クリーブランド地区連銀のハマック総裁は１２日、現時点での自身の経済見通しを踏まえると、連邦準備理事会（ＦＲＢ）の金融政策は現行より引き締め的であることが望ましいとの考えを示した。 bit.ly/3MGjKts <a href="https://bsky.app/profile/japan.reuters.com/post/3m7su22laxl26" target="_blank">japan.reuters.com</a> (2025-12-13 04:45:14)</span><span style="padding-right:50px;">A big week of economic data is next for a stock market in the throes of a major rotation <a href="https://bsky.app/profile/cnbc.com/post/3m7stzpck2j2m" target="_blank">cnbc.com</a> (2025-12-13 04:45:02)</span><span style="padding-right:50px;">欧州連合（ＥＵ）は１２日、域内で管理されているロシア中央銀行の資産を無期限で凍結することで合意した。これまでは６カ月ごとに凍結の延長の是非を巡る投票を実施していたが、無期限で凍結することで、ロシアと比較的良好な関係を持つハンガリーやスロバキアなどが反対する事態を防ぐ狙いがあるとみられる。 bit.ly/3YbvUgJ <a href="https://bsky.app/profile/japan.reuters.com/post/3m7stzl547w2s" target="_blank">japan.reuters.com</a> (2025-12-13 04:44:57)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48478.21 (🔻236.54 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23222.74 (🔻266.13 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 176.38 (🔻4.88 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.92 (🔺0.39 : 2025-12-12)</span>
+<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48490.81 (🔻223.94 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23224.46 (🔻264.41 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 176.24 (🔻5.02 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.92 (🔺0.39 : 2025-12-12)</span>
   </div>
 </div>
 
@@ -32,94 +32,93 @@
 
 ## News Headlines
 
-1. アメリカ・ニューヨークに73億ドルを凍結する強い姿勢を示すトランプ政権
-2. 米大統領がタイとカンボジアが辺境紛争を停止することで合意した
-3. 米連邦準備委員会の2人は、インフレリスクを理由に利下げに反対
-4. 米国務省が、4州とフルトン郡を訴える
-5. 株式市場が高値に上昇。カナダのTSXは新記録を達成
-6. トランプ政権が、カナダやタイと国境紛争を解決した
+1. 米連銀のハマック総裁がＦＲＢの金融政策を引き締めすべきだと
+2. EUがロシア中央銀行の資産を無期限凍結
+3. 白井事件：ICC裁判所の赤根智子所長が本人不在のまま有罪判決
+4. 米5大crypto企業が銀行化の一歩手前へ
+5. フランスで牛の肉削減を求める農家が道路を封鎖
+6. エヌビディアが先端半導体の生産拡大を検討
 
 ----
 
-@financialtimes.com
+@cnbc.com
 
-Can the magic of Disney help OpenAI’s video app take flight? on.ft.com/44o3X8M
+Trump’s AI order may be ‘illegal,’ Democrats and consumer advocacy groups claim
 
-[2025-12-13 04:26:26](https://bsky.app/profile/financialtimes.com/post/3m7ssyhdlut2y)
-
----
-
-@axios.com
-
-The Trump administration threatened to freeze $73 million from New York today for allegedly issuing commercial driver's licenses for immigrants "illegally," as the White House ramps up efforts to push undocumented immigrants out of the workforce.
-
-[2025-12-13 04:26:20](https://bsky.app/profile/axios.com/post/3m7ssybhhnk2b)
+[2025-12-13 04:46:14](https://bsky.app/profile/cnbc.com/post/3m7su3u2xfh24)
 
 ---
 
 @reuters.com
 
-Cannabis, mining shares lift TSX to record high reut.rs/44tkhoS
+France toughens cattle lumpy skin disease rules amid farm protests reut.rs/3MGjZVo
 
-[2025-12-13 04:25:12](https://bsky.app/profile/reuters.com/post/3m7sswagyaw24)
-
----
-
-@nbcnews.com
-
-Stark reimaginings of Christ's birth across the U.S. are drawing praise and outrage as churches turn the Christmas tableau into a commentary on federal immigration enforcement under the Trump administration.
-
-[2025-12-13 04:20:11](https://bsky.app/profile/nbcnews.com/post/3m7ssnbcpz62p)
-
----
-
-@nytimes.com
-
-Larry Ellison is backstopping Paramount’s bid for Warner Brothers, but Warner Brothers is concerned that the billionaire has not provided a personal guarantee to pay.
-
-[2025-12-13 04:20:05](https://bsky.app/profile/nytimes.com/post/3m7ssn3odpz2b)
-
----
-
-@forbes.com
-
-The visa program—used widely by Amazon, Microsoft, Meta and more—allows U.S. employers to hire skilled foreign workers.
-
-[2025-12-13 04:20:04](https://bsky.app/profile/forbes.com/post/3m7ssn3kmc72o)
-
----
-
-@wsj.com
-
-Ukrainian President Volodymyr Zelensky made a dramatic statement of defiance on Friday, releasing a video filmed on the edge of a besieged city whose capture Russia touted almost a month ago.
-
-[2025-12-13 04:17:36](https://bsky.app/profile/wsj.com/post/3m7ssintf3v2z)
+[2025-12-13 04:45:15](https://bsky.app/profile/reuters.com/post/3m7su24jjug2b)
 
 ---
 
 @japan.reuters.com
 
-米シカゴ地区連銀のグールズビー総裁は１２日、今週の利下げに反対した理由について、企業や消費者が依然物価上昇に強い懸念を示していることから、インフレと労働市場の状況に関する追加データを待つべきと感じたためと説明した。 bit.ly/3MUQ4J8
+米クリーブランド地区連銀のハマック総裁は１２日、現時点での自身の経済見通しを踏まえると、連邦準備理事会（ＦＲＢ）の金融政策は現行より引き締め的であることが望ましいとの考えを示した。 bit.ly/3MGjKts
 
-[2025-12-13 04:15:22](https://bsky.app/profile/japan.reuters.com/post/3m7sseody4x25)
+[2025-12-13 04:45:14](https://bsky.app/profile/japan.reuters.com/post/3m7su22laxl26)
+
+---
+
+@cnbc.com
+
+A big week of economic data is next for a stock market in the throes of a major rotation
+
+[2025-12-13 04:45:02](https://bsky.app/profile/cnbc.com/post/3m7stzpck2j2m)
+
+---
+
+@japan.reuters.com
+
+欧州連合（ＥＵ）は１２日、域内で管理されているロシア中央銀行の資産を無期限で凍結することで合意した。これまでは６カ月ごとに凍結の延長の是非を巡る投票を実施していたが、無期限で凍結することで、ロシアと比較的良好な関係を持つハンガリーやスロバキアなどが反対する事態を防ぐ狙いがあるとみられる。 bit.ly/3YbvUgJ
+
+[2025-12-13 04:44:57](https://bsky.app/profile/japan.reuters.com/post/3m7stzl547w2s)
+
+---
+
+@nytimes.com
+
+The National Trust for Historic Preservation filed a federal lawsuit Friday to block President Trump’s construction of a large new ballroom on White House grounds, arguing that he violated at least four laws in bypassing any review process.
+
+[2025-12-13 04:44:41](https://bsky.app/profile/nytimes.com/post/3m7stz3wwx22y)
 
 ---
 
 @reuters.com
 
-Slovak lawmakers scuffle as parliament revises laws on whistleblowers, witnesses reut.rs/4pXVql6
+Arcus scraps late-stage cancer trial after weak survival data reut.rs/48LcofK
 
-[2025-12-13 04:15:15](https://bsky.app/profile/reuters.com/post/3m7ssehouou2i)
+[2025-12-13 04:40:19](https://bsky.app/profile/reuters.com/post/3m7strbouyp23)
 
 ---
 
-@en.afp.com
+@nhknewsunofficial.bsky.social
 
-US President Donald Trump said Friday that Thailand and Cambodia had agreed to halt fighting along their disputed border, which has killed at least 20 people this week.
+ロシアの裁判所 ICC赤根智子所長らに本人不在のまま有罪判決
+https://news.web.nhk/newsweb/na/na-k10015002861000
 
-u.afp.com/S76h
+[2025-12-13 04:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7stp3272b2m)
 
-[2025-12-13 04:15:03](https://bsky.app/profile/en.afp.com/post/3m7sse42hoi2y)
+---
+
+@yahoofinance.com
+
+5 major crypto companies just got one step closer to becoming banks
+
+[2025-12-13 04:36:04](https://bsky.app/profile/yahoofinance.com/post/3m7stjopxyy2j)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Farmers call for French blockades over cattle cull
+
+[2025-12-13 04:35:30](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7stioif6s2a)
 
 ---
 
