@@ -1,9 +1,9 @@
-# [2025-12-12 15:30 updated](2025_12_12.md)
+# [2025-12-12 15:50 updated](2025_12_12.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Warriors hopeful for Curry's return, another big game vs. T-Wolves reut.rs/48XedGG <a href="https://bsky.app/profile/reuters.com/post/3m7rhdexeux23" target="_blank">reuters.com</a> (2025-12-12 15:25:08)</span><span style="padding-right:50px;">Thailand dissolves parliament, heightening political turmoil as Trump seeks to salvage ceasefire with Cambodia <a href="https://bsky.app/profile/cnbc.com/post/3m7rh6suadi2d" target="_blank">cnbc.com</a> (2025-12-12 15:22:35)</span><span style="padding-right:50px;">NPR Music critics, editors and Tiny Desk producers each singled out one album they would recommend to anyone who came calling. The elite, no-skips albums of the year. n.pr/4iUnX8X <a href="https://bsky.app/profile/npr.org/post/3m7rgwjpint24" target="_blank">npr.org</a> (2025-12-12 15:17:57)</span><span style="padding-right:50px;">Hong Kong’s High Court announced it will deliver its verdict in the foreign collusion and sedition trial of media tycoon and prominent China critic Jimmy Lai on December 15, more than five years after his arrest reut.rs/4pt4Llf <a href="https://bsky.app/profile/reuters.com/post/3m7rgsrqcik2v" target="_blank">reuters.com</a> (2025-12-12 15:15:51)</span><span style="padding-right:50px;">Former ANZ CEO Elliott sues lender over $9 million bonus cut reut.rs/4pvgPCp <a href="https://bsky.app/profile/reuters.com/post/3m7rgrnb5hg2x" target="_blank">reuters.com</a> (2025-12-12 15:15:13)</span>
+<span style="padding-right:50px;">Eurovision 2024 winner Nemo to return trophy in protest of Israel <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7rimoiwsk2r" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-12 15:48:13)</span><span style="padding-right:50px;">Former ANZ CEO sues over axed $9mn bonus on.ft.com/453UMKO <a href="https://bsky.app/profile/financialtimes.com/post/3m7rikwqshc2o" target="_blank">financialtimes.com</a> (2025-12-12 15:47:15)</span><span style="padding-right:50px;">Indiana redistricting: Senate Republicans side with Democrats to reject Trump's voting map <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7rikql7jm2y" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-12 15:47:08)</span><span style="padding-right:50px;">Flood misery for Gazans awaiting next stage of peace plan <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7riipbnqz2x" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-12 15:46:00)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】長屋住宅で火事 隣接する住宅にも延焼か 大阪・守口市 (2025-12-12 15:36) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7riiiulte2b" target="_blank">sokuho.news</a> (2025-12-12 15:45:54)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50872.89 (🔺392.66 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48704.01 (🔺621.11 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23593.86 (🔺84.64 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.93 (🔺0.65 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3263.00 (🔺72.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.80 (🔺0.27 : 2025-12-12)</span>
+<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48704.01 (🔺621.11 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23593.86 (🔺84.64 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.93 (🔺0.65 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.76 (🔺0.23 : 2025-12-12)</span>
   </div>
 </div>
 
@@ -32,73 +32,44 @@
 
 ## News Headlines
 
-以下は6つのニュースの見出しです。
-
-1.  Thailand での国境紛争が5日目に突入、タイ首相がトランプ大統領との緊急会談を行う
-2.  JR西日本が来春のダイヤ改正を発表、臨時列車の運行を開始
-3.  香港のマスコミ大王ジェイミー・ライの国粋罪で判決が明日
-4.  JR武蔵野線で運転見合わせ、府中本町と西船橋の間で
-5.  ロシアがウクライナに軍事侵攻、2週間続く
-6.  東京の品川区が子育てしやすい街に選ばれ、女性区長が存在感を増す
+1. イスラエルへの抗議でユーロビジョン2024優勝のネモがトロフィーを返却する
+2. ANZ元CEOが一億ドル未満のボーナス削減をめぐり訴訟を起こす
+3. インディアナ州の選挙区改正案に共和党上院議員が反対票を投じる
+4. ガザ地区で停滞した和平計画への待機が続く
+5. 大阪の長屋で火事、隣接する建物にも延焼
+6. 石川県で地震が発生、最大震度1
 
 ----
 
-@reuters.com
+@bbcnews-world-rss.bsky.social
 
-Warriors hopeful for Curry's return, another big game vs. T-Wolves reut.rs/48XedGG
+Eurovision 2024 winner Nemo to return trophy in protest of Israel
 
-[2025-12-12 15:25:08](https://bsky.app/profile/reuters.com/post/3m7rhdexeux23)
-
----
-
-@cnbc.com
-
-Thailand dissolves parliament, heightening political turmoil as Trump seeks to salvage ceasefire with Cambodia
-
-[2025-12-12 15:22:35](https://bsky.app/profile/cnbc.com/post/3m7rh6suadi2d)
+[2025-12-12 15:48:13](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7rimoiwsk2r)
 
 ---
 
-@npr.org
+@financialtimes.com
 
-NPR Music critics, editors and Tiny Desk producers each singled out one album they would recommend to anyone who came calling. The elite, no-skips albums of the year. n.pr/4iUnX8X
+Former ANZ CEO sues over axed $9mn bonus on.ft.com/453UMKO
 
-[2025-12-12 15:17:57](https://bsky.app/profile/npr.org/post/3m7rgwjpint24)
-
----
-
-@reuters.com
-
-Hong Kong’s High Court announced it will deliver its verdict in the foreign collusion and sedition trial of media tycoon and prominent China critic Jimmy Lai on December 15, more than five years after his arrest reut.rs/4pt4Llf
-
-[2025-12-12 15:15:51](https://bsky.app/profile/reuters.com/post/3m7rgsrqcik2v)
+[2025-12-12 15:47:15](https://bsky.app/profile/financialtimes.com/post/3m7rikwqshc2o)
 
 ---
 
-@reuters.com
+@bbcnews-world-rss.bsky.social
 
-Former ANZ CEO Elliott sues lender over $9 million bonus cut reut.rs/4pvgPCp
+Indiana redistricting: Senate Republicans side with Democrats to reject Trump's voting map
 
-[2025-12-12 15:15:13](https://bsky.app/profile/reuters.com/post/3m7rgrnb5hg2x)
-
----
-
-@en.afp.com
-
-'Just make it stop': Thai evacuees beg for border fighting to end.
-
-Artillery rounds echo in the distance as Thai evacuee Boonkerd Yoodeerum settles into a folding bed, sheltering with his family under a bridge near the Cambodia border during an ongoing violent border dispute
-
-[2025-12-12 15:15:12](https://bsky.app/profile/en.afp.com/post/3m7rgrmeae62k)
+[2025-12-12 15:47:08](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7rikql7jm2y)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@bbcnews-world-rss.bsky.social
 
-秋田内陸線で列車脱線 倒木衝突 橋りょうから落下 運転士けが
-https://news.web.nhk/newsweb/na/na-k10015001751000
+Flood misery for Gazans awaiting next stage of peace plan
 
-[2025-12-12 15:12:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rglzdvr722)
+[2025-12-12 15:46:00](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7riipbnqz2x)
 
 ---
 
@@ -106,27 +77,64 @@ https://news.web.nhk/newsweb/na/na-k10015001751000
 
 🛎️FNNより【速報】です。
 
-【速報】JR西日本が来春のダイヤ改正発表 東京行き最終のぞみ後に臨時列車・JR四国ダイヤ改正実施せず
-(2025-12-12 14:30) #ニュース
+【速報】長屋住宅で火事 隣接する住宅にも延焼か 大阪・守口市
+(2025-12-12 15:36) #ニュース
 
-[2025-12-12 15:10:47](https://bsky.app/profile/sokuho.news/post/3m7rgjpwwcj2z)
+[2025-12-12 15:45:54](https://bsky.app/profile/sokuho.news/post/3m7riiiulte2b)
 
 ---
 
 @reuters.com
 
-Cathay passenger arrested after trying to open door mid-flight from Boston to Hong Kong reut.rs/4oTgFUm
+Indian shares extend Fed rate-fueled rebound; inflation data eyed reut.rs/4a6OYDT
 
-[2025-12-12 15:10:09](https://bsky.app/profile/reuters.com/post/3m7rgilzz6j2k)
+[2025-12-12 15:45:12](https://bsky.app/profile/reuters.com/post/3m7rihb5hz62r)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-サッカーJ2 藤枝MYFC 新監督に槙野智章氏が就任へ
-https://news.web.nhk/newsweb/na/na-k10015002211000
+大阪 守口 住宅火災 隣接する建物にも延焼中
+https://news.web.nhk/newsweb/na/na-k10015002301000
 
-[2025-12-12 15:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rgbcvyp32s)
+[2025-12-12 15:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rigz4vuf2v)
+
+---
+
+@sokuho.news
+
+🔔防災科研より【強震モニタ】動画です。
+
+震源:能登半島沖, 深さ:10km
+マグニチュード:3.0, 最大震度:1
+📍https://www.google.com/maps?q=37.1,136.6&ll=37.1,136.6&z=7&t=h
+地震発生日時:2025-12-12 15:40頃
+(10倍速▶120s→12s) #地震
+
+[2025-12-12 15:43:17](https://bsky.app/profile/sokuho.news/post/3m7ridts6kq25)
+
+---
+
+@sokuho.news
+
+🔔気象庁より【地震速報】です。
+
+15時40分頃、石川県で最大震度1の地震を観測しました。
+震源:能登半島沖, 深さ:10km, 規模:M3.0
+この地震による津波の心配はありません。
+(2025-12-12 15:42:51) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/12/2025-12-12-15-40-05.html?xlarge_image=1
+
+[2025-12-12 15:42:51](https://bsky.app/profile/sokuho.news/post/3m7rid3lzz42y)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+「通勤中にスマホで…」AI動画デビュー 制作者が語った裏側
+https://news.web.nhk/newsweb/na/na-k10015002031000
+
+[2025-12-12 15:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ribngy5s2b)
 
 ---
 
