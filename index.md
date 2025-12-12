@@ -1,9 +1,9 @@
-# [2025-12-12 09:50 updated](2025_12_12.md)
+# [2025-12-12 10:10 updated](2025_12_12.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】秋田内陸線の列車が脱線・転覆 運転手を救出 乗客はのっておらず 警察 (2025年12月12日 09:46) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7quheaz4a2s" target="_blank">sokuho.news</a> (2025-12-12 09:47:20)</span><span style="padding-right:50px;">President Donald Trump has signed an executive order that blocks states from enforcing their own regulations around artificial intelligence and instead aims to create a "single national framework" for AI. https://cnn.it/49chVwf <a href="https://bsky.app/profile/cnn.com/post/3m7quh2ijlp2c" target="_blank">cnn.com</a> (2025-12-12 09:47:10)</span><span style="padding-right:50px;">Apple wins partial reversal of sanctions in Epic Games antitrust lawsuit reut.rs/4aMapub <a href="https://bsky.app/profile/reuters.com/post/3m7qudmkhjk2k" target="_blank">reuters.com</a> (2025-12-12 09:45:15)</span><span style="padding-right:50px;">A federal judge in Massachusetts ruled Thursday that the Trump administration could not unilaterally cancel a FEMA grant program that states used for disaster preparation. <a href="https://bsky.app/profile/nytimes.com/post/3m7quddglvm2v" target="_blank">nytimes.com</a> (2025-12-12 09:45:05)</span><span style="padding-right:50px;">Tashella Sheri Amore Dickerson, the executive director of the Black Lives Matter group in Oklahoma City, faces 25 counts of wire fraud and money laundering based on a federal grand jury indictment, the Justice Department said. <a href="https://bsky.app/profile/washingtonpost.com/post/3m7qudai2e22e" target="_blank">washingtonpost.com</a> (2025-12-12 09:45:02)</span>
+<span style="padding-right:50px;">President Trump launched the "gold card" visa, letting foreigners pay $1 million to fast-track entry, or for companies to pay $2 million to sponsor workers. CNN's Alayna Treene reports.  Read more: https://cnn.it/3Kst7wp <a href="https://bsky.app/profile/cnn.com/post/3m7qvjoh3fz23" target="_blank">cnn.com</a> (2025-12-12 10:06:32)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】J2昇格のヴァンラーレ八戸の監督に高橋勇菊HCが昇格「絶対に後退はせず、実直に、愚直に、泥臭く、這いつくばってでも諦めない」 来季J3松本山雅監督就任の石﨑前監督とともに… (2025-12-12 10:00:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7qvey4hbo2y" target="_blank">sokuho.news</a> (2025-12-12 10:03:54)</span><span style="padding-right:50px;">Mexico threatens eight years of jail in crackdown on vape sales reut.rs/3KDKZEz <a href="https://bsky.app/profile/reuters.com/post/3m7qva5jpiy24" target="_blank">reuters.com</a> (2025-12-12 10:01:12)</span><span style="padding-right:50px;">In Khan Younis, southern Gaza, the Abu Jazar family awoke Thursday morning to find that their 8-month-old baby, Rahaf, had died of hypothermia caused by the severe cold, according to her parents and Gaza’s Ministry of Health. <a href="https://bsky.app/profile/cnn.com/post/3m7qv7sul6k22" target="_blank">cnn.com</a> (2025-12-12 10:01:01)</span><span style="padding-right:50px;">Glassdoor says worker fatigue in 2025 owed to factors like politics, economic uncertainty, AI disruption and job search burnout.  <a href="https://bsky.app/profile/cnbc.com/post/3m7qv75zily2e" target="_blank">cnbc.com</a> (2025-12-12 10:00:39)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50965.89 (🔺485.66 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48704.01 (🔺621.11 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23593.86 (🔺84.64 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.93 (🔺0.65 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3199.00 (🔺8.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.63 (🔺0.10 : 2025-12-12)</span>
+<span style="padding-right:50px;">NIKKEI: 50920.85 (🔺440.62 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48704.01 (🔺621.11 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23593.86 (🔺84.64 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.93 (🔺0.65 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3205.00 (🔺14.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.67 (🔺0.14 : 2025-12-12)</span>
   </div>
 </div>
 
@@ -32,97 +32,108 @@
 
 ## News Headlines
 
-Here are six important topics with Japanese titles:
+Here are six important topics with Japanese headlines:
 
-1. 🚨秋田内陸線列車脱線転覆事故（Derailment and overturn of the Akita Inland Line train）
-2. 📊AI規制の統一フレームワーク（Single national framework for AI regulation）
-3. 📈世界の株価（Global stock prices）
-4. 🚨国道8号福井市問屋団地口―米松の北進車線通行止め（Closure of the northbound lane on the national highway 8 in Fukui city）
-5. 📊AI設計者の「今年の人」選出（Selection of AI designers as Person of the Year）
-6. 🏥肺炎のLB T.J. Watt（LB T.J. Watt hospitalized with lung issue）
+1. 「トランプ大統領が「ゴールドカード」ビザを発表」 - President Trump launches Gold Card visa, allowing foreigners to pay $1 million to fast-track entry
+2. 「高橋勇菊HCがヴァンラーレ八戸の監督に就任」 - Takahashi Yūki appointed as manager of Vanraure Hachinohe, which is aiming for J2 promotion
+3. 「メキシコ、8年以下の刑罰を科す vape販売の撲滅」 - Mexico threatens 8-year prison sentence for vape sales
+4. 「日本人の「おもちゃ依存症」？実験で「依存症」を見せた犬」 - Toy dependence in humans? Experiment shows dogs exhibiting dependent behavior
+5. 「トランプ大統領がAIに関する国民的フレームワークを発令」 - President Trump signs executive order on national framework for AI
+6. 「日経平均が700円以上値上がり」 - Nikkei 225 index surges above 700円
 
 ----
 
+@cnn.com
+
+President Trump launched the "gold card" visa, letting foreigners pay $1 million to fast-track entry, or for companies to pay $2 million to sponsor workers. CNN's Alayna Treene reports.
+
+Read more: https://cnn.it/3Kst7wp
+
+[2025-12-12 10:06:32](https://bsky.app/profile/cnn.com/post/3m7qvjoh3fz23)
+
+---
+
 @sokuho.news
 
-🔔ANNより【速報】です。
+🛎️JNNより【速報】です。
 
-【速報】秋田内陸線の列車が脱線・転覆 運転手を救出 乗客はのっておらず 警察
-(2025年12月12日 09:46) #ニュース
+【速報】J2昇格のヴァンラーレ八戸の監督に高橋勇菊HCが昇格「絶対に後退はせず、実直に、愚直に、泥臭く、這いつくばってでも諦めない」 来季J3松本山雅監督就任の石﨑前監督とともに…
+(2025-12-12 10:00:00) #ニュース
 
-[2025-12-12 09:47:20](https://bsky.app/profile/sokuho.news/post/3m7quheaz4a2s)
+[2025-12-12 10:03:54](https://bsky.app/profile/sokuho.news/post/3m7qvey4hbo2y)
+
+---
+
+@reuters.com
+
+Mexico threatens eight years of jail in crackdown on vape sales reut.rs/3KDKZEz
+
+[2025-12-12 10:01:12](https://bsky.app/profile/reuters.com/post/3m7qva5jpiy24)
 
 ---
 
 @cnn.com
 
-President Donald Trump has signed an executive order that blocks states from enforcing their own regulations around artificial intelligence and instead aims to create a "single national framework" for AI. https://cnn.it/49chVwf
+In Khan Younis, southern Gaza, the Abu Jazar family awoke Thursday morning to find that their 8-month-old baby, Rahaf, had died of hypothermia caused by the severe cold, according to her parents and Gaza’s Ministry of Health.
 
-[2025-12-12 09:47:10](https://bsky.app/profile/cnn.com/post/3m7quh2ijlp2c)
-
----
-
-@reuters.com
-
-Apple wins partial reversal of sanctions in Epic Games antitrust lawsuit reut.rs/4aMapub
-
-[2025-12-12 09:45:15](https://bsky.app/profile/reuters.com/post/3m7qudmkhjk2k)
-
----
-
-@nytimes.com
-
-A federal judge in Massachusetts ruled Thursday that the Trump administration could not unilaterally cancel a FEMA grant program that states used for disaster preparation.
-
-[2025-12-12 09:45:05](https://bsky.app/profile/nytimes.com/post/3m7quddglvm2v)
-
----
-
-@washingtonpost.com
-
-Tashella Sheri Amore Dickerson, the executive director of the Black Lives Matter group in Oklahoma City, faces 25 counts of wire fraud and money laundering based on a federal grand jury indictment, the Justice Department said.
-
-[2025-12-12 09:45:02](https://bsky.app/profile/washingtonpost.com/post/3m7qudai2e22e)
-
----
-
-@reuters.com
-
-Senator calls for Nvidia CEO to testify on Trump approval for China chip sales reut.rs/44rKhku
-
-[2025-12-12 09:40:21](https://bsky.app/profile/reuters.com/post/3m7qu2twjcq2x)
-
----
-
-@wsj.com
-
-Most U.S. automakers have pursued a bigger-is-better approach to the SUV segment—the vehicular equivalent of McMansions. The Mazda CX-90 steps away from the brink of immensity.
-
-[2025-12-12 09:40:10](https://bsky.app/profile/wsj.com/post/3m7qu2jvzdi2h)
-
----
-
-@reuters.com
-
-FBI official calls antifa biggest US threat but provides few details reut.rs/3Mv5mEu
-
-[2025-12-12 09:35:10](https://bsky.app/profile/reuters.com/post/3m7qtrlxqoa2k)
+[2025-12-12 10:01:01](https://bsky.app/profile/cnn.com/post/3m7qv7sul6k22)
 
 ---
 
 @cnbc.com
 
-Oracle's lease commitments jump by almost 150% as company builds out to meet AI demand
+Glassdoor says worker fatigue in 2025 owed to factors like politics, economic uncertainty, AI disruption and job search burnout. 
 
-[2025-12-12 09:34:41](https://bsky.app/profile/cnbc.com/post/3m7qtqpiyyk2x)
+[2025-12-12 10:00:39](https://bsky.app/profile/cnbc.com/post/3m7qv75zily2e)
 
 ---
 
-@axios.com
+@nikkei.com
 
-<strong><span style="color: red;">JUST IN:</span> President Trump says he pardoned Colorado's former Mesa County clerk Tina Peters for her "attempts to expose Voter Fraud" in the 2020 presidential election.</strong>
+あなたの愛犬は「おもちゃ依存症」？　特定の執着、人間と類似点（無料記事）
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-12 09:33:28](https://bsky.app/profile/axios.com/post/3m7qtojudfc2m)
+ある実験では、「依存症」に見える犬は食べ物などの報酬には見向きもしませんでした。
+
+実験室にあるおもちゃを片付けると、依存的な行動を示した犬たちは、ずっと室内を歩き回っていたそうです。
+
+ジャーマン・シェパードやベルジアン・シェパードが依存症に似た行動のスコアが高く出ました。
+
+#ナショナルジオグラフィック
+
+[2025-12-12 10:00:36](https://bsky.app/profile/nikkei.com/post/3m7qv72lb3d2f)
+
+---
+
+@usatoday.com
+
+Department of Homeland Security Secretary Kristi Noem faced questions related to her department’s efforts on illegal immigration.
+
+[2025-12-12 10:00:36](https://bsky.app/profile/usatoday.com/post/3m7qv73avio2o)
+
+---
+
+@wsj.com
+
+Fully furnished properties are increasingly in demand at the high end, especially for second-home shoppers. on.wsj.com/48NgLXv
+
+[2025-12-12 10:00:34](https://bsky.app/profile/wsj.com/post/3m7qv6ywiwr2h)
+
+---
+
+@en.afp.com
+
+The White House said Thursday the high volume of handshakes by President Donald Trump explains the adhesive bandages he has worn on the back of his right hand in recent days. ➡️ u.afp.com/S782
+
+[2025-12-12 10:00:31](https://bsky.app/profile/en.afp.com/post/3m7qv6w6vrz2k)
+
+---
+
+@bloomberg.com
+
+Uber expects to offer robotaxi services in more than 10 markets by the end of next year as the company discusses rules for the autonomous rides with regulators.
+
+[2025-12-12 10:00:29](https://bsky.app/profile/bloomberg.com/post/3m7qv6ufc6p23)
 
 ---
 
