@@ -1,9 +1,9 @@
-# [2025-12-13 03:10 updated](2025_12_13.md)
+# [2025-12-13 03:30 updated](2025_12_13.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The Justice Department’s mortgage fraud investigation into New York Attorney General Letitia James is on life support after a grand jury, for the second time, rejected an indictment that would have revived charges against her. <a href="https://bsky.app/profile/cnn.com/post/3m7some5lcz2o" target="_blank">cnn.com</a> (2025-12-13 03:08:05)</span><span style="padding-right:50px;"> Can bitcoin bonds fund economic development? on.ft.com/4q6hytR  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m7sokblhe32p" target="_blank">financialtimes.com</a> (2025-12-13 03:06:55)</span><span style="padding-right:50px;">Stocks making the biggest moves midday: Tilray Brands, Allegiant Travel, Broadcom & more <a href="https://bsky.app/profile/cnbc.com/post/3m7sojmxwdr2m" target="_blank">cnbc.com</a> (2025-12-13 03:06:34)</span><span style="padding-right:50px;">US admiral leading US troops in Latin America steps down reut.rs/4pYgurU <a href="https://bsky.app/profile/reuters.com/post/3m7soh5osn32x" target="_blank">reuters.com</a> (2025-12-13 03:05:11)</span><span style="padding-right:50px;">Sherrone Moore to face charges, including home invasion and stalking, related to arrest after being fired as Michigan coach https://cnn.it/4iQm7G2 <a href="https://bsky.app/profile/cnn.com/post/3m7soh4zeus2c" target="_blank">cnn.com</a> (2025-12-13 03:05:10)</span>
+<span style="padding-right:50px;">Trump's remarks differed significantly from those of Thai Prime Minister Anutin Charnvirakul hours earlier, who made no mention of an agreement to end the fighting between the Southeast Asian neighbours, which raged for a fifth day reut.rs/4aKdR8y <a href="https://bsky.app/profile/reuters.com/post/3m7spqolsqs26" target="_blank">reuters.com</a> (2025-12-13 03:28:24)</span><span style="padding-right:50px;">米シカゴ地区連銀のグールズビー総裁は１２日、連邦準備理事会（ＦＲＢ）は金融政策会合で政府の財政コストを考慮すべきでなく、ＦＲＢの独立性は極めて重要であるとの認識を改めて示した。 bit.ly/3KNiyUH <a href="https://bsky.app/profile/japan.reuters.com/post/3m7spofb3m62p" target="_blank">japan.reuters.com</a> (2025-12-13 03:27:07)</span><span style="padding-right:50px;">Exclusive: Nvidia considers increasing H200 chip output due to robust China demand, sources say reut.rs/4aLNjUs <a href="https://bsky.app/profile/reuters.com/post/3m7spkv4tdr2r" target="_blank">reuters.com</a> (2025-12-13 03:25:10)</span><span style="padding-right:50px;">Trump sued by preservation group seeking to halt White House ballroom construction <a href="https://bsky.app/profile/cnbc.com/post/3m7spgkn5he25" target="_blank">cnbc.com</a> (2025-12-13 03:22:44)</span><span style="padding-right:50px;">The EU indefinitely froze Russian assets to ensure Moscow-friendly Hungary and Slovakia can’t veto their use to underwrite a loan for Ukraine.   <a href="https://bsky.app/profile/apnews.com/post/3m7spfze5yg2p" target="_blank">apnews.com</a> (2025-12-13 03:22:26)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48533.24 (🔻181.51 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23265.36 (🔻223.51 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 177.02 (🔻4.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.79 (🔺0.26 : 2025-12-12)</span>
+<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48563.13 (🔻151.62 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23307.80 (🔻181.07 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 177.39 (🔻3.87 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.72 (🔺0.19 : 2025-12-12)</span>
   </div>
 </div>
 
@@ -32,106 +32,95 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in Japanese:
+Here are six important stories with Japanese headlines:
 
-1. 
-ニューヨーク州検事総長ジェイミスへの不正融資調査が終焉
-
-2. 
-ビットコインによる経済開発の可能性
-
-3. 
-米軍のラテンアメリカ部隊を指揮する艦長が辞任
-
-4. 
-エプスタインの遺族が公表した写真が世論を撒き乱す
-
-5. 
-米議会議員がエプスタインの遺族から提供された写真を公開
-
-6. 
-インドがコール輸出を承認
+1. 「タイとカンボジア、全面停戦に合意　トランプ米大統領が発表」
+2. 米連銀、金融政策を考慮すべきでないと再び強調
+3. NVIDIA、H200チップ生産増加を検討　中国の強力な需要を理由に
+4. EUがロシア資産を凍結　ウクライナへの支援を妨げないように
+5. 米連邦法務省、ニューヨーク州知事のジェイムズ氏を調査から撤退
+6. パキスタン、ビナンスの「トークン化」計画に合意　最大2億ドルを対象
 
 ----
 
-@cnn.com
+@reuters.com
 
-The Justice Department’s mortgage fraud investigation into New York Attorney General Letitia James is on life support after a grand jury, for the second time, rejected an indictment that would have revived charges against her.
+Trump's remarks differed significantly from those of Thai Prime Minister Anutin Charnvirakul hours earlier, who made no mention of an agreement to end the fighting between the Southeast Asian neighbours, which raged for a fifth day reut.rs/4aKdR8y
 
-[2025-12-13 03:08:05](https://bsky.app/profile/cnn.com/post/3m7some5lcz2o)
-
----
-
-@financialtimes.com
-
- Can bitcoin bonds fund economic development? on.ft.com/4q6hytR  | opinion
-
-[2025-12-13 03:06:55](https://bsky.app/profile/financialtimes.com/post/3m7sokblhe32p)
+[2025-12-13 03:28:24](https://bsky.app/profile/reuters.com/post/3m7spqolsqs26)
 
 ---
 
-@cnbc.com
+@japan.reuters.com
 
-Stocks making the biggest moves midday: Tilray Brands, Allegiant Travel, Broadcom & more
+米シカゴ地区連銀のグールズビー総裁は１２日、連邦準備理事会（ＦＲＢ）は金融政策会合で政府の財政コストを考慮すべきでなく、ＦＲＢの独立性は極めて重要であるとの認識を改めて示した。 bit.ly/3KNiyUH
 
-[2025-12-13 03:06:34](https://bsky.app/profile/cnbc.com/post/3m7sojmxwdr2m)
+[2025-12-13 03:27:07](https://bsky.app/profile/japan.reuters.com/post/3m7spofb3m62p)
 
 ---
 
 @reuters.com
 
-US admiral leading US troops in Latin America steps down reut.rs/4pYgurU
+Exclusive: Nvidia considers increasing H200 chip output due to robust China demand, sources say reut.rs/4aLNjUs
 
-[2025-12-13 03:05:11](https://bsky.app/profile/reuters.com/post/3m7soh5osn32x)
-
----
-
-@cnn.com
-
-Sherrone Moore to face charges, including home invasion and stalking, related to arrest after being fired as Michigan coach https://cnn.it/4iQm7G2
-
-[2025-12-13 03:05:10](https://bsky.app/profile/cnn.com/post/3m7soh4zeus2c)
+[2025-12-13 03:25:10](https://bsky.app/profile/reuters.com/post/3m7spkv4tdr2r)
 
 ---
 
-@nytimes.com
+@cnbc.com
 
-House Democrats on Friday released new images from the estate of Jeffrey Epstein that highlight his ties to celebrities, financiers and other powerful men, including President Trump and Bill Clinton. 
-nyti.ms/4a9zYFn
+Trump sued by preservation group seeking to halt White House ballroom construction
 
-[2025-12-13 03:04:57](https://bsky.app/profile/nytimes.com/post/3m7sogqkmqq2s)
+[2025-12-13 03:22:44](https://bsky.app/profile/cnbc.com/post/3m7spgkn5he25)
+
+---
+
+@apnews.com
+
+The EU indefinitely froze Russian assets to ensure Moscow-friendly Hungary and Slovakia can’t veto their use to underwrite a loan for Ukraine. 
+
+
+[2025-12-13 03:22:26](https://bsky.app/profile/apnews.com/post/3m7spfze5yg2p)
 
 ---
 
 @nbcnews.com
 
-<strong><span style="color: red;">BREAKING:</span> Fired Michigan football coach Sherrone Moore has been charged with home invasion, stalking, and breaking and entering. </strong>
+The Indiana Senate votes against a new Republican drawn congressional map. 
 
-[2025-12-13 03:04:55](https://bsky.app/profile/nbcnews.com/post/3m7sogosdwp22)
-
----
-
-@cnbc.com
-
-Broadcom tumbles 11% despite blockbuster earnings as 'AI angst' weighs on Oracle, Nvidia
-
-[2025-12-13 03:04:15](https://bsky.app/profile/cnbc.com/post/3m7sofiw3vk2b)
+[2025-12-13 03:20:18](https://bsky.app/profile/nbcnews.com/post/3m7spc6yed32p)
 
 ---
 
-@cnbc.com
+@npr.org
 
-There's still time to maximize the 0% capital gains bracket for 2025. Here's what to know
+A firebrand fundamentalist is stabbed to death at church in Rian Johnson's new film, Wake Up Dead Man. This over-the-top whodunit uses mystery conventions to open up a spiritual inquiry. n.pr/3KF7glp
 
-[2025-12-13 03:03:07](https://bsky.app/profile/cnbc.com/post/3m7sodhowlr2p)
+[2025-12-13 03:20:14](https://bsky.app/profile/npr.org/post/3m7spc33t4r25)
 
 ---
 
-@usatoday.com
+@wsj.com
 
-Sycamore Brewing co-owner, Justin Tawse Brigham was arrested and charged with three felonies in North Carolina on Dec. 11.
+Two heists made in broad daylight present a scarier challenge for museums worn out by soup-throwing protesters. on.wsj.com/3XOk3VF
 
-[2025-12-13 03:01:11](https://bsky.app/profile/usatoday.com/post/3m7so7z2aqd2h)
+[2025-12-13 03:20:11](https://bsky.app/profile/wsj.com/post/3m7spbycley2r)
+
+---
+
+@reuters.com
+
+Berlin summons Russian ambassador over increase in hybrid attacks reut.rs/4977Stc
+
+[2025-12-13 03:15:22](https://bsky.app/profile/reuters.com/post/3m7sozen25e2b)
+
+---
+
+@japan.reuters.com
+
+トランプ米大統領は、国境地帯での衝突が激化しているタイとカンボジアが、１２日から「全ての攻撃を停止する」ことで合意したと明らかにした。これに先立ち、トランプ氏は両国の首脳と電話会談を行っていた。 bit.ly/4pXPbxG
+
+[2025-12-13 03:14:26](https://bsky.app/profile/japan.reuters.com/post/3m7soxoufmk22)
 
 ---
 
