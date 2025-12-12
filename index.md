@@ -1,9 +1,9 @@
-# [2025-12-13 00:30 updated](2025_12_13.md)
+# [2025-12-13 00:50 updated](2025_12_13.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Why affordability is the 'beating heart' of the ACA enhanced subsidy debate, health policy experts say <a href="https://bsky.app/profile/cnbc.com/post/3m7sfm6y63424" target="_blank">cnbc.com</a> (2025-12-13 00:26:56)</span><span style="padding-right:50px;">FDA intends to put most serious warning on COVID vaccines, CNN reports reut.rs/496KtYS <a href="https://bsky.app/profile/reuters.com/post/3m7sfiz3afr2b" target="_blank">reuters.com</a> (2025-12-13 00:25:09)</span><span style="padding-right:50px;">'Appetizer economy': Food inflation is on restaurant table as diners go smaller with menu choices <a href="https://bsky.app/profile/cnbc.com/post/3m7sfhrrqdb2x" target="_blank">cnbc.com</a> (2025-12-13 00:24:28)</span><span style="padding-right:50px;">Fed's Goolsbee, Schmid explain votes against December rate cut, say patience 'feels like the wiser choice' <a href="https://bsky.app/profile/yahoofinance.com/post/3m7sfbpgl7c2f" target="_blank">yahoofinance.com</a> (2025-12-13 00:21:04)</span><span style="padding-right:50px;">The Trump administration’s challenge is Trump on.ft.com/4aM93j4 <a href="https://bsky.app/profile/financialtimes.com/post/3m7sfaadix22y" target="_blank">financialtimes.com</a> (2025-12-13 00:20:15)</span>
+<span style="padding-right:50px;">Iranian security forces on Friday "violently" arrested the 2023 Nobel Peace Prize winner Narges Mohammadi at a memorial ceremony for a lawyer who died earlier this month, her supporters said ➡️ u.afp.com/S727 <a href="https://bsky.app/profile/en.afp.com/post/3m7sgqzq2772j" target="_blank">en.afp.com</a> (2025-12-13 00:47:32)</span><span style="padding-right:50px;">Jamie Lee Curtis takes inspiration from Elvis Costello’s “Deep, Dark Truthful Mirror,” and says no one can run from the reality of aging for too long.  On this week’s Wild Card, she talks about what she’s learned from getting sober and the legacy of her mother.  Watch the full episode: n.pr/48AOjtk <a href="https://bsky.app/profile/npr.org/post/3m7sgnio73k2g" target="_blank">npr.org</a> (2025-12-13 00:45:34)</span><span style="padding-right:50px;">UK sanctions RSF commanders over links to mass killings in Sudan reut.rs/4a7Cxrr <a href="https://bsky.app/profile/reuters.com/post/3m7sgn7mu6u2r" target="_blank">reuters.com</a> (2025-12-13 00:45:24)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】「5階から黒煙が見える」広島市の繁華街で火災 1人搬送 (2025-12-13 00:36:23) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7sgghbwdf2y" target="_blank">sokuho.news</a> (2025-12-13 00:41:37)</span><span style="padding-right:50px;">Kosovo starts accepting third-party deportees from the US reut.rs/44S3yM0 <a href="https://bsky.app/profile/reuters.com/post/3m7sge5gyea2r" target="_blank">reuters.com</a> (2025-12-13 00:40:20)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48663.14 (🔻51.61 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23288.70 (🔻200.18 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 179.44 (🔻1.82 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.83 (🔺0.30 : 2025-12-12)</span>
+<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48765.90 (🔺51.15 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23359.14 (🔻129.73 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 179.90 (🔻1.36 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 156.01 (🔺0.48 : 2025-12-12)</span>
   </div>
 </div>
 
@@ -32,62 +32,42 @@
 
 ## News Headlines
 
-Here are six news headlines in Japanese:
+Here are six important stories from the news with headlines in Japanese:
 
-1. 都市部の食費が増加する「アペタイザー経済」がデリバリーを中心に広がる
-2. フェデラル・リザーブの理事会が地方銀行長の再任を決定
-3. トランプ政権が大統領選出馬を狙うか
-4. 長崎県佐世保市でマンション火災　9階から出火か
-5. エピステイン事件　トランプ大統領やビル・クリントンなどが写真に
-6. フェデラル・リザーブの理事会が地方銀行長の再任を決定
+1.  🛎️JNNより【速報】です。  「5階から黒煙が見える」広島市の繁華街で火災 1人搬送
+2.  連邦議会がエピスタイン家の写真を公開、トランプ氏やビル・クリントン氏などが写っている
+3.  「ウクライナ軍は勝利を宣言　プーチン氏が獲得した町は「実質的にロシアのものではない」
+4.  CNN、「エピスタインの弊社の写真が公開される」トランプ氏やビル・クリントン氏などが写っている
+5.  連邦議会がエピスタインの写真を公開　トランプ氏やビル・クリントン氏などが写っている
+6.  フェデラル・リザーブの官僚が、利子引き下げがインフレ予測に影響するかどうかで意見が分かれる
 
 ----
 
-@cnbc.com
+@en.afp.com
 
-Why affordability is the 'beating heart' of the ACA enhanced subsidy debate, health policy experts say
+Iranian security forces on Friday "violently" arrested the 2023 Nobel Peace Prize winner Narges Mohammadi at a memorial ceremony for a lawyer who died earlier this month, her supporters said ➡️ u.afp.com/S727
 
-[2025-12-13 00:26:56](https://bsky.app/profile/cnbc.com/post/3m7sfm6y63424)
-
----
-
-@reuters.com
-
-FDA intends to put most serious warning on COVID vaccines, CNN reports reut.rs/496KtYS
-
-[2025-12-13 00:25:09](https://bsky.app/profile/reuters.com/post/3m7sfiz3afr2b)
-
----
-
-@cnbc.com
-
-'Appetizer economy': Food inflation is on restaurant table as diners go smaller with menu choices
-
-[2025-12-13 00:24:28](https://bsky.app/profile/cnbc.com/post/3m7sfhrrqdb2x)
-
----
-
-@yahoofinance.com
-
-Fed's Goolsbee, Schmid explain votes against December rate cut, say patience 'feels like the wiser choice'
-
-[2025-12-13 00:21:04](https://bsky.app/profile/yahoofinance.com/post/3m7sfbpgl7c2f)
-
----
-
-@financialtimes.com
-
-The Trump administration’s challenge is Trump on.ft.com/4aM93j4
-
-[2025-12-13 00:20:15](https://bsky.app/profile/financialtimes.com/post/3m7sfaadix22y)
+[2025-12-13 00:47:32](https://bsky.app/profile/en.afp.com/post/3m7sgqzq2772j)
 
 ---
 
 @npr.org
 
-Managing a full December calendar can quickly take you from festive to frazzled. ⁠Psychotherapist Niro Feliciano shares advice on reducing stress and increasing joy this season. n.pr/4adx7LE
+Jamie Lee Curtis takes inspiration from Elvis Costello’s “Deep, Dark Truthful Mirror,” and says no one can run from the reality of aging for too long.
 
-[2025-12-13 00:17:01](https://bsky.app/profile/npr.org/post/3m7sf2h2poi25)
+On this week’s Wild Card, she talks about what she’s learned from getting sober and the legacy of her mother.
+
+Watch the full episode: n.pr/48AOjtk
+
+[2025-12-13 00:45:34](https://bsky.app/profile/npr.org/post/3m7sgnio73k2g)
+
+---
+
+@reuters.com
+
+UK sanctions RSF commanders over links to mass killings in Sudan reut.rs/4a7Cxrr
+
+[2025-12-13 00:45:24](https://bsky.app/profile/reuters.com/post/3m7sgn7mu6u2r)
 
 ---
 
@@ -95,34 +75,58 @@ Managing a full December calendar can quickly take you from festive to frazzled.
 
 🛎️JNNより【速報】です。
 
-【速報】長崎県佐世保市で中高層建物火災 マンション9階から出火か
-(2025-12-12 23:34:00) #ニュース
+【速報】「5階から黒煙が見える」広島市の繁華街で火災 1人搬送
+(2025-12-13 00:36:23) #ニュース
 
-[2025-12-13 00:16:17](https://bsky.app/profile/sokuho.news/post/3m7sez5alof2r)
-
----
-
-@nbcnews.com
-
-<strong><span style="color: red;">BREAKING:</span> House Democrats release more photos from Jeffrey Epstein's estate, featuring pictures of President Trump, Bill Clinton and other prominent figures.</strong>
-
-[2025-12-13 00:16:17](https://bsky.app/profile/nbcnews.com/post/3m7sez5k2q72k)
-
----
-
-@cnbc.com
-
-Epstein files: Trump, Clinton, Bill Gates, Steve Bannon, others in newly released photos
-
-[2025-12-13 00:15:28](https://bsky.app/profile/cnbc.com/post/3m7sexozjxy23)
+[2025-12-13 00:41:37](https://bsky.app/profile/sokuho.news/post/3m7sgghbwdf2y)
 
 ---
 
 @reuters.com
 
-UN agency warns displaced Gazans face floods, as emergency supplies blocked reut.rs/48Utk3r
+Kosovo starts accepting third-party deportees from the US reut.rs/44S3yM0
 
-[2025-12-13 00:15:19](https://bsky.app/profile/reuters.com/post/3m7sexgj7ys2o)
+[2025-12-13 00:40:20](https://bsky.app/profile/reuters.com/post/3m7sge5gyea2r)
+
+---
+
+@nbcnews.com
+
+Wisconsin quietly emerges as the latest front in the national redistricting fight, with a never-before-used legal process set to likely determine the state's congressional lines in the midterm election.
+
+[2025-12-13 00:40:07](https://bsky.app/profile/nbcnews.com/post/3m7sgdrgazq26)
+
+---
+
+@yahoofinance.com
+
+Carvana, Robinhood, Coinbase: How 3 of the market's biggest 2022 losers ended up in the S&P 500 this year
+
+[2025-12-13 00:36:14](https://bsky.app/profile/yahoofinance.com/post/3m7sg4tbqym2d)
+
+---
+
+@washingtonpost.com
+
+<strong><span style="color: red;">Breaking news:</span> Secret meetings between Ukraine’s top peace negotiator and FBI leaders have injected new uncertainty into high-stakes talks.</strong><br><strong></strong><br><strong>The meetings have caused alarm among Western officials who remain in the dark about their intent and purpose.</strong>
+
+[2025-12-13 00:35:16](https://bsky.app/profile/washingtonpost.com/post/3m7sg33yodn25)
+
+---
+
+@reuters.com
+
+Renault exits car-sharing, scales back EV charging as it puts profits first in tough market reut.rs/3MVNLpb
+
+[2025-12-13 00:35:11](https://bsky.app/profile/reuters.com/post/3m7sg2wpzbb2c)
+
+---
+
+@forbes.com
+
+House Democrats released the 19 images Friday. 
+
+[2025-12-13 00:35:02](https://bsky.app/profile/forbes.com/post/3m7sg2oxclh2s)
 
 ---
 
