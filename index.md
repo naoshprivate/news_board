@@ -1,9 +1,9 @@
-# [2025-12-12 09:10 updated](2025_12_12.md)
+# [2025-12-12 09:30 updated](2025_12_12.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Experts are worried that Paramount-Skydance might undercut the editorial independence of CNN, among other issues.  <a href="https://bsky.app/profile/aljazeera.com/post/3m7qs4j44ua2d" target="_blank">aljazeera.com</a> (2025-12-12 09:05:29)</span><span style="padding-right:50px;">Explainer: Can Trump invalidate Biden actions recorded by autopen? reut.rs/454SRpn <a href="https://bsky.app/profile/reuters.com/post/3m7qs4377mo2k" target="_blank">reuters.com</a> (2025-12-12 09:05:14)</span><span style="padding-right:50px;">Suneung: South Korea exam cheif quits over 'insane' English test <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7qs2xqvfw2r" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-12 09:04:37)</span><span style="padding-right:50px;">Trump signs executive order for single national AI regulation framework, limiting power of states <a href="https://bsky.app/profile/cnbc.com/post/3m7qs2ldh2y25" target="_blank">cnbc.com</a> (2025-12-12 09:04:24)</span><span style="padding-right:50px;">Experts are worried that Paramount-Skydance might undercut the editorial independence of CNN, among other issues.  <a href="https://bsky.app/profile/aljazeera.com/post/3m7qryx57o72i" target="_blank">aljazeera.com</a> (2025-12-12 09:03:29)</span>
+<span style="padding-right:50px;">Do Kwon: TerraUSD creator sentenced to 15 years in prison over $40bn crash <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7qtfy33q72e" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-12 09:28:40)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】日経平均 一時700円以上値上がり ダウ平均最高値更新などを受け (2025-12-12 09:26:20) #ニュース  📈世界の株価 🔗https://sekai-kabuka.com/ <a href="https://bsky.app/profile/sokuho.news/post/3m7qtftpdvy2b" target="_blank">sokuho.news</a> (2025-12-12 09:28:36)</span><span style="padding-right:50px;">US lawmakers seek tougher safety rules for military helicopters reut.rs/44o3SC4 <a href="https://bsky.app/profile/reuters.com/post/3m7qt7ussax2x" target="_blank">reuters.com</a> (2025-12-12 09:25:16)</span><span style="padding-right:50px;">Tricked, abducted and abused: Inside China's schools for 'rebellious' teens <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7qt7sm4rc2s" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-12 09:25:13)</span><span style="padding-right:50px;">Breaking News: President Trump signed an executive order to neuter state laws placing limits on the A.I. industry. The order is likely to be challenged in court by states and consumer groups on the grounds that only Congress has the authority to override state laws, experts said. <a href="https://bsky.app/profile/nytimes.com/post/3m7qt57cnvw2y" target="_blank">nytimes.com</a> (2025-12-12 09:23:46)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50148.82 (🔻669.57 : 2025-12-11)</span><span style="padding-right:50px;">DOW: 48704.01 (🔺621.11 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23593.86 (🔺84.64 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.93 (🔺0.65 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3110.00 (🔻38.00 : 2025-12-11)</span><span style="padding-right:50px;">USD/JPY: 155.57 (🔺0.04 : 2025-12-12)</span>
+<span style="padding-right:50px;">NIKKEI: 50746.12 (🔺265.89 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48704.01 (🔺621.11 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23593.86 (🔺84.64 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.93 (🔺0.65 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3195.00 (🔺4.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.64 (🔺0.11 : 2025-12-12)</span>
   </div>
 </div>
 
@@ -32,105 +32,115 @@
 
 ## News Headlines
 
-Here are six important topics with Japanese headings:
+以下は6つの重要な話題です。
 
-1. CNNの独立性に関する懸念
-Experts are worried that Paramount-Skydance might undercut the editorial independence of CNN, among other issues.
+1. 「Do Kwon: TerraUSD creator sentenced to 15 years in prison over $40bn crash」
+日本語見出し：「テラUSD創始者ド・クォン、40億ドル崩壊事件で15年刑」
 
-2. AI規制の新しいフレームワーク
-Trump signs executive order for single national AI regulation framework, limiting power of states
+2. 「President Trump signed an executive order to neuter state laws placing limits on the A.I. industry」
+日本語見出し：「トランプ大統領、AI産業規制に影響を与える大統領令に署名」
 
-3. LululemonのCEOの辞任
-Lululemon Athletica said its CEO, Calvin McDonald, will step down in January, after about seven years at the helm as the yogawear maker navigates a challenging consumer environment in the United States as well as growing competition from newer brands.
+3. 「Rivian is doubling down on an AI-centric approach to develop fully autonomous vehicles」
+日本語見出し：「リビアン、AI中心のアプローチで完全自動車開発を加速」
 
-4. OpenAIとの協力
-Disney is investing $1 billion in OpenAI to bring characters like Mickey Mouse and Luke Skywalker to the AI company's Sora video tool.
+4. 「Trump signs executive order for single national AI regulation framework, limiting power of states」
+日本語見出し：「トランプ大統領、AI規制の全国統一フレームワークに署名、州の権力制限」
 
-5. Venezuelaの対米制裁
-The U.S. on Thursday issued new sanctions on Venezuela’s oil sector and on members of President Nicolás Maduro’s family, while taking steps to keep tens of millions of dollars’ worth of oil from a large tanker that U.S. forces seized off the country’s coast.
+5. 「Lululemon Athletica CEO to step down in January」
+日本語見出し：「ルルレモン・アスレティカCEO、1月に退任」
 
-6. 米国の経済状況
-As “affordability” becomes a political buzzword, President Trump is confronting voters in a sour mood about the economy
+6. 「Steelers star LB T.J. Watt hospitalized with lung issue」
+日本語見出し：「スティーラーズのLB T.J. ウォット、肺疾患で病院入院」
 
 ----
 
-@aljazeera.com
+@bbcnews-world-rss.bsky.social
 
-Experts are worried that Paramount-Skydance might undercut the editorial independence of CNN, among other issues. 
+Do Kwon: TerraUSD creator sentenced to 15 years in prison over $40bn crash
 
-[2025-12-12 09:05:29](https://bsky.app/profile/aljazeera.com/post/3m7qs4j44ua2d)
+[2025-12-12 09:28:40](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7qtfy33q72e)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】日経平均 一時700円以上値上がり ダウ平均最高値更新などを受け
+(2025-12-12 09:26:20) #ニュース
+
+📈世界の株価
+🔗https://sekai-kabuka.com/
+
+[2025-12-12 09:28:36](https://bsky.app/profile/sokuho.news/post/3m7qtftpdvy2b)
 
 ---
 
 @reuters.com
 
-Explainer: Can Trump invalidate Biden actions recorded by autopen? reut.rs/454SRpn
+US lawmakers seek tougher safety rules for military helicopters reut.rs/44o3SC4
 
-[2025-12-12 09:05:14](https://bsky.app/profile/reuters.com/post/3m7qs4377mo2k)
+[2025-12-12 09:25:16](https://bsky.app/profile/reuters.com/post/3m7qt7ussax2x)
 
 ---
 
 @bbcnews-world-rss.bsky.social
 
-Suneung: South Korea exam cheif quits over 'insane' English test
+Tricked, abducted and abused: Inside China's schools for 'rebellious' teens
 
-[2025-12-12 09:04:37](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7qs2xqvfw2r)
-
----
-
-@cnbc.com
-
-Trump signs executive order for single national AI regulation framework, limiting power of states
-
-[2025-12-12 09:04:24](https://bsky.app/profile/cnbc.com/post/3m7qs2ldh2y25)
+[2025-12-12 09:25:13](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7qt7sm4rc2s)
 
 ---
 
-@aljazeera.com
+@nytimes.com
 
-Experts are worried that Paramount-Skydance might undercut the editorial independence of CNN, among other issues. 
+<strong><span style="color: red;">Breaking News</span>: President Trump signed an executive order to neuter state laws placing limits on the A.I. industry. The order is likely to be challenged in court by states and consumer groups on the grounds that only Congress has the authority to override state laws, experts said.</strong>
 
-[2025-12-12 09:03:29](https://bsky.app/profile/aljazeera.com/post/3m7qryx57o72i)
+[2025-12-12 09:23:46](https://bsky.app/profile/nytimes.com/post/3m7qt57cnvw2y)
 
 ---
 
-@cnbc.com
+@nhknewsunofficial.bsky.social
 
-Cramer's Lightning Round: MercadoLibre is a buy
+ノーベル賞 坂口志文さん スウェーデン王室主催晩さん会に出席
+https://news.web.nhk/newsweb/na/na-k10015001741000
 
-[2025-12-12 09:02:59](https://bsky.app/profile/cnbc.com/post/3m7qry23fo22n)
+[2025-12-12 09:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7qsyg6gxs2v)
+
+---
+
+@wsj.com
+
+Rivian is doubling down on an AI-centric approach to develop fully autonomous vehicles, as the money-losing electric-vehicle maker faces a tough market for its trucks and SUVs.
+
+[2025-12-12 09:19:52](https://bsky.app/profile/wsj.com/post/3m7qswa3vaw2c)
+
+---
+
+@financialtimes.com
+
+Good morning, Asia. While you were sleeping, this was our most-read story: on.ft.com/4q96fBg
+
+[2025-12-12 09:15:59](https://bsky.app/profile/financialtimes.com/post/3m7qspbpo6q2w)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】国道8号の福井市問屋団地口－米松の北進車線が通行止め 南四ツ居交差点付近で大型貨物車が単独事故 信号機が倒壊
+(2025-12-12 09:00) #ニュース
+
+[2025-12-12 09:15:55](https://bsky.app/profile/sokuho.news/post/3m7qsp662ta26)
 
 ---
 
 @reuters.com
 
-Explainer: What are credit default swaps and why are investors watching Oracle's? reut.rs/3YkoQOG
+OpenAI launches GPT-5.2 after 'code red' push to counter Google's Gemini 3 reut.rs/4pw0EER
 
-[2025-12-12 09:01:09](https://bsky.app/profile/reuters.com/post/3m7qruriwtg2p)
-
----
-
-@cnn.com
-
-Lululemon Athletica said its CEO, Calvin McDonald, will step down in January, after about seven years at the helm as the yogawear maker navigates a challenging consumer environment in the United States as well as growing competition from newer brands. https://cnn.it/4py5lyb
-
-[2025-12-12 09:01:03](https://bsky.app/profile/cnn.com/post/3m7qruldq752x)
-
----
-
-@reuters.com
-
-Sherrone Moore remains in custody; arraignment expected Friday reut.rs/48NbqiV
-
-[2025-12-12 09:00:45](https://bsky.app/profile/reuters.com/post/3m7qru2ahxw2r)
-
----
-
-@usatoday.com
-
-Denmark singled out the U.S. as a security concern because of what it said was 'uncertainty' about its role as a guarantor of European security.
-
-[2025-12-12 09:00:33](https://bsky.app/profile/usatoday.com/post/3m7qrtoi5j72h)
+[2025-12-12 09:15:20](https://bsky.app/profile/reuters.com/post/3m7qso4fqjf23)
 
 ---
 
