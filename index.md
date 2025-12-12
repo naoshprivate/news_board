@@ -1,9 +1,9 @@
-# [2025-12-13 02:30 updated](2025_12_13.md)
+# [2025-12-13 02:50 updated](2025_12_13.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Various rumors surround the identity of the viral musician, who released his debut album “Rebel” in June, has 11.5 million monthly listeners on Spotify, and who is known for performing while wearing a balaclava. <a href="https://bsky.app/profile/cnn.com/post/3m7smgjmzrr25" target="_blank">cnn.com</a> (2025-12-13 02:29:02)</span><span style="padding-right:50px;">House Democrats unveiled new images from Jeffrey Epstein’s estate featuring Pres. Trump—the latest trove of documents to be made public ahead of the Justice Department’s highly anticipated release of its Epstein files.  Full story: www.forbes.com/sites/sarado... (Photo: House Oversight Committee) <a href="https://bsky.app/profile/forbes.com/post/3m7smf3hfcs2l" target="_blank">forbes.com</a> (2025-12-13 02:28:14)</span><span style="padding-right:50px;">Exclusive: FDA leaders pushed to cut Lilly weight-loss pill review time reut.rs/4rS2GRx <a href="https://bsky.app/profile/reuters.com/post/3m7sm7m7hnt2k" target="_blank">reuters.com</a> (2025-12-13 02:25:10)</span><span style="padding-right:50px;">Former University of Michigan football coach Sherrone Moore is expected to make an initial courtroom appearance, following his shocking arrest and termination from one of the sport's most prestigious jobs. <a href="https://bsky.app/profile/nbcnews.com/post/3m7slwo6poa2k" target="_blank">nbcnews.com</a> (2025-12-13 02:20:10)</span><span style="padding-right:50px;">The National Trust for Historic Preservation filed a lawsuit Friday in the U.S. District Court for the District of Columbia, representing the first major legal challenge to President Trump’s planned 90,000-square-foot ballroom addition.   Read more: https://wapo.st/4iR882N  <a href="https://bsky.app/profile/washingtonpost.com/post/3m7slpb7qsv2y" target="_blank">washingtonpost.com</a> (2025-12-13 02:16:02)</span>
+<span style="padding-right:50px;">Less New York, more Nashville: Europeans head to smaller US cities reut.rs/4pGzGL8 <a href="https://bsky.app/profile/reuters.com/post/3m7sndn3veb2i" target="_blank">reuters.com</a> (2025-12-13 02:45:19)</span><span style="padding-right:50px;">French veterinarians have slaughtered a herd of cows thought to be diseased after police dispersed angry farmers trying to protect them, an AFP reporter said, as an agricultural union called for nationwide protests.  u.afp.com/S76p <a href="https://bsky.app/profile/en.afp.com/post/3m7snd7epk72x" target="_blank">en.afp.com</a> (2025-12-13 02:45:04)</span><span style="padding-right:50px;">'This time feels different': One cannabis investment insider thinks the industry will keep rallying following the latest reports of regulatory changes <a href="https://bsky.app/profile/cnbc.com/post/3m7snd3luqh2g" target="_blank">cnbc.com</a> (2025-12-13 02:45:00)</span><span style="padding-right:50px;">The National Trust for Historic Preservation filed a lawsuit aimed at blocking the construction of the White House ballroom championed by President Donald Trump.  Read more: bit.ly/4rUf9UK <a href="https://bsky.app/profile/usatoday.com/post/3m7sn4xug7l2q" target="_blank">usatoday.com</a> (2025-12-13 02:41:35)</span><span style="padding-right:50px;">India approves coal exports amid healthy power station stocks reut.rs/44rRYad <a href="https://bsky.app/profile/reuters.com/post/3m7sn2lsahv24" target="_blank">reuters.com</a> (2025-12-13 02:40:15)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48474.38 (🔻240.37 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23203.63 (🔻285.24 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 176.52 (🔻4.74 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.75 (🔺0.22 : 2025-12-12)</span>
+<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48549.16 (🔻165.59 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23274.36 (🔻214.51 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 177.13 (🔻4.13 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.80 (🔺0.27 : 2025-12-12)</span>
   </div>
 </div>
 
@@ -32,99 +32,101 @@
 
 ## News Headlines
 
-Here are six important stories with Japanese headlines:
+Here are six headlines in Japanese:
 
-1. バラクラバのミュージシャンをめぐる噂が続く
-2. トランプ氏とエプスタインの財産にまつわる新証拠が公開される
-3. マドロウ氏が和平の道を目指す
-4. トランプ氏の別荘計画に異議を唱える国民信託会が訴訟を起こす
-5. 米国がベネズエラの石油船を拿捕し、関係が悪化
-6. 米国がベネズエラの石油船を拿捕、石油価格が上昇
+1. スポーツ  フランスで牛を処分　警察が農家を追い散らす
+2. ビジネス  ワシントンD.C.の国立信託団体がトランプ大統領のホワイトハウスの拡張計画を訴える
+3. 時事  イランがノーベル平和賞受賞者の激しい批判者を拘束
+4. ビジネス  エピステインの写真が公開　トランプやビル・クリントンも姿
+5. ビジネス  フェルミの株価大幅下落　初のテナントが資金調達を打ち切る
+6. 時事  キングチャールズがTVでがんの経過報告を公表
 
 ----
 
-@cnn.com
-
-Various rumors surround the identity of the viral musician, who released his debut album “Rebel” in June, has 11.5 million monthly listeners on Spotify, and who is known for performing while wearing a balaclava.
-
-[2025-12-13 02:29:02](https://bsky.app/profile/cnn.com/post/3m7smgjmzrr25)
-
----
-
-@forbes.com
-
-House Democrats unveiled new images from Jeffrey Epstein’s estate featuring Pres. Trump—the latest trove of documents to be made public ahead of the Justice Department’s highly anticipated release of its Epstein files.
-
-Full story: www.forbes.com/sites/sarado... (Photo: House Oversight Committee)
-
-[2025-12-13 02:28:14](https://bsky.app/profile/forbes.com/post/3m7smf3hfcs2l)
-
----
-
 @reuters.com
 
-Exclusive: FDA leaders pushed to cut Lilly weight-loss pill review time reut.rs/4rS2GRx
+Less New York, more Nashville: Europeans head to smaller US cities reut.rs/4pGzGL8
 
-[2025-12-13 02:25:10](https://bsky.app/profile/reuters.com/post/3m7sm7m7hnt2k)
-
----
-
-@nbcnews.com
-
-Former University of Michigan football coach Sherrone Moore is expected to make an initial courtroom appearance, following his shocking arrest and termination from one of the sport's most prestigious jobs.
-
-[2025-12-13 02:20:10](https://bsky.app/profile/nbcnews.com/post/3m7slwo6poa2k)
+[2025-12-13 02:45:19](https://bsky.app/profile/reuters.com/post/3m7sndn3veb2i)
 
 ---
 
-@washingtonpost.com
+@en.afp.com
 
-The National Trust for Historic Preservation filed a lawsuit Friday in the U.S. District Court for the District of Columbia, representing the first major legal challenge to President Trump’s planned 90,000-square-foot ballroom addition. 
+French veterinarians have slaughtered a herd of cows thought to be diseased after police dispersed angry farmers trying to protect them, an AFP reporter said, as an agricultural union called for nationwide protests.
 
-Read more: https://wapo.st/4iR882N
+u.afp.com/S76p
 
-
-[2025-12-13 02:16:02](https://bsky.app/profile/washingtonpost.com/post/3m7slpb7qsv2y)
-
----
-
-@reuters.com
-
-Venezuela's Nobel laureate Machado says she aims for peaceful transition after Maduro reut.rs/4qq2uaL
-
-[2025-12-13 02:15:21](https://bsky.app/profile/reuters.com/post/3m7slo2vgq52o)
-
----
-
-@wsj.com
-
-Marie Kondo reflects on some elements of Japanese culture—kintsugi, umami, the kyureki calendar—that have informed both her life and her work. on.wsj.com/4rYNORq
-
-[2025-12-13 02:15:19](https://bsky.app/profile/wsj.com/post/3m7slnyq42h2s)
+[2025-12-13 02:45:04](https://bsky.app/profile/en.afp.com/post/3m7snd7epk72x)
 
 ---
 
 @cnbc.com
 
-Wall Street’s top picks for 2026: TD Cowen’s public safety stock with almost 60% upside
+'This time feels different': One cannabis investment insider thinks the industry will keep rallying following the latest reports of regulatory changes
 
-[2025-12-13 02:12:29](https://bsky.app/profile/cnbc.com/post/3m7sliw2sq42x)
+[2025-12-13 02:45:00](https://bsky.app/profile/cnbc.com/post/3m7snd3luqh2g)
+
+---
+
+@usatoday.com
+
+The National Trust for Historic Preservation filed a lawsuit aimed at blocking the construction of the White House ballroom championed by President Donald Trump.
+
+Read more: bit.ly/4rUf9UK
+
+[2025-12-13 02:41:35](https://bsky.app/profile/usatoday.com/post/3m7sn4xug7l2q)
+
+---
+
+@reuters.com
+
+India approves coal exports amid healthy power station stocks reut.rs/44rRYad
+
+[2025-12-13 02:40:15](https://bsky.app/profile/reuters.com/post/3m7sn2lsahv24)
+
+---
+
+@nbcnews.com
+
+Iran has arrested Nobel Peace Prize laureate Narges Mohammadi, her supporters say. 
+
+[2025-12-13 02:40:07](https://bsky.app/profile/nbcnews.com/post/3m7sn2dzpdi2x)
 
 ---
 
 @wsj.com
 
-When nations clash, military prowess is important—but don’t forget about endurance, supply and alliances. on.wsj.com/3KEcEVT
+We asked 50 luminaries from the worlds of business, politics, books and the arts about what they read—and what they recommend. on.wsj.com/4oMNFNV
 
-[2025-12-13 02:10:58](https://bsky.app/profile/wsj.com/post/3m7slg7spcy2e)
+[2025-12-13 02:40:06](https://bsky.app/profile/wsj.com/post/3m7sn2czb4q2h)
+
+---
+
+@forbes.com
+
+These New Epstein File Photos Feature Trump, Bill Clinton, Steve Bannon And Others
+
+Read the full story:
+www.forbes.com/sites/sarado... (Photo: House Oversight Committee)
+
+[2025-12-13 02:38:47](https://bsky.app/profile/forbes.com/post/3m7smxwxhnc2l)
 
 ---
 
 @wsj.com
 
-Meghan Cox Gurdon says farewell to her column reviewing books for children, and shares some of her favorites from the past year. on.wsj.com/3KOUzUX
+The Celanese House is located in New Canaan, the suburban town known for Philip Johnson’s iconic Glass House. on.wsj.com/48PTunM
 
-[2025-12-13 02:10:57](https://bsky.app/profile/wsj.com/post/3m7slg75vi42o)
+[2025-12-13 02:35:40](https://bsky.app/profile/wsj.com/post/3m7smseul7d2r)
+
+---
+
+@reuters.com
+
+Former President Bill Clinton, former Trump aide Steve Bannon, Bill Gates and former Treasury Secretary Larry Summers also appear in the batch of images reut.rs/4pACQju
+
+[2025-12-13 02:35:18](https://bsky.app/profile/reuters.com/post/3m7smrpysak24)
 
 ---
 
