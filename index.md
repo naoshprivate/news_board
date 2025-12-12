@@ -1,9 +1,9 @@
-# [2025-12-12 21:30 updated](2025_12_12.md)
+# [2025-12-12 21:50 updated](2025_12_12.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Early awards contenders like One Battle Battle After Another and Bugonia were shot on revived VistaVision cameras — a throwback format gaining popularity in Hollywood. n.pr/3XQVBmn <a href="https://bsky.app/profile/npr.org/post/3m7s3hc2d4g23" target="_blank">npr.org</a> (2025-12-12 21:25:14)</span><span style="padding-right:50px;">EU to impose 3 euro duty on small e-commerce parcels from July 2026 reut.rs/4aigCxX <a href="https://bsky.app/profile/reuters.com/post/3m7s3h7tw6v2i" target="_blank">reuters.com</a> (2025-12-12 21:25:12)</span><span style="padding-right:50px;">President Trump is expected to speak with Thailand’s prime minister on Friday, as he seeks burnish his self-styled image as a peacemaker by intervening in a border conflict between Thailand and Cambodia that entered its fifth day. <a href="https://bsky.app/profile/nytimes.com/post/3m7s3gxana52x" target="_blank">nytimes.com</a> (2025-12-12 21:25:03)</span><span style="padding-right:50px;">Ukraine would join EU by 2027 under draft peace plan on.ft.com/4adz7U3 <a href="https://bsky.app/profile/financialtimes.com/post/3m7s3dvnpre23" target="_blank">financialtimes.com</a> (2025-12-12 21:23:20)</span><span style="padding-right:50px;">Germany accuses Russia of 2024 cyber attack and election disinformation campaign <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7s3dmhse62r" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-12 21:23:10)</span>
+<span style="padding-right:50px;">🔊 'It is a little bit boxing themselves in because they have so many forces now situated in the Caribbean.' Listen to the Reuters World News podcast for more on the escalating tensions between the US and Venezuela reut.rs/48BSF3e <a href="https://bsky.app/profile/reuters.com/post/3m7s4r2mc4s2l" target="_blank">reuters.com</a> (2025-12-12 21:48:36)</span><span style="padding-right:50px;">Single-stock ETFs can amplify returns, analyst says, but there’s ‘significant risk that the bet goes wrong’ <a href="https://bsky.app/profile/cnbc.com/post/3m7s4oo5qkh2y" target="_blank">cnbc.com</a> (2025-12-12 21:47:15)</span><span style="padding-right:50px;">UBS shares hit 17 year-high as Swiss lawmakers pitch capital compromise reut.rs/4oTQvkd <a href="https://bsky.app/profile/reuters.com/post/3m7s4la5fc62o" target="_blank">reuters.com</a> (2025-12-12 21:45:20)</span><span style="padding-right:50px;">🇽🇰 Kosovo has begun accepting migrants the United States wants to deport, Prime Minister Albin Kurti announced as he confronts troubles at home and with President Donald Trump's administration ➡️ u.afp.com/S7BE <a href="https://bsky.app/profile/en.afp.com/post/3m7s4kqb2mx2v" target="_blank">en.afp.com</a> (2025-12-12 21:45:03)</span><span style="padding-right:50px;">‘The next protein’: Fiber is shaping up to be the latest grocery obsession <a href="https://bsky.app/profile/cnbc.com/post/3m7s4khix3324" target="_blank">cnbc.com</a> (2025-12-12 21:44:54)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48704.01 (🔺621.11 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23593.86 (🔺84.64 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.93 (🔺0.65 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.93 (🔺0.40 : 2025-12-12)</span>
+<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48704.01 (🔺621.11 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23593.86 (🔺84.64 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.93 (🔺0.65 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 156.12 (🔺0.59 : 2025-12-12)</span>
   </div>
 </div>
 
@@ -32,92 +32,96 @@
 
 ## News Headlines
 
-1. EUが小型のeコマースパッケージに3ユーロの税率を2026年7月から導入
-2. トランプ大統領がタイ首相と交渉　カンボジアとの国境紛争を平和化するため
-3. ユーロビジョンソングコンテストの優勝者が賞品を返却　イスラエルが参加したため
-4. ドイツがロシアにサイバー攻撃と選挙妨害を非難
-5. 米政府がボストン市の住宅政策を調査　白人を差別した疑い
-6. アメリカのski選手リンジー・ボンがスイスで優勝　2018年以来初
+Here are six news headlines in Japanese:
+
+1.  アメリカがベネズエラに対し新たな制裁を発令、総裁のマドゥロの姪の3人を対象に
+2.  ベトナムへの救援金、茂木外相が2億円余を提供することを表明
+3.  ドナルド・トランプ米大統領がタイ首相との会談を控え、カンボジアとの国境紛争を抑制する意欲を示す
+4.  アメリカの住民がハワイに住むことが困難になるため、外国人観光客に5年間のSNSの記録提出を求める
+5.  EUが小規模のECサイトから3ユーロの税金を課す
+6.  ドイツがロシアに2024年総選挙へのサイバー攻撃と選挙妨害を指摘
 
 ----
 
-@npr.org
+@reuters.com
 
-Early awards contenders like One Battle Battle After Another and Bugonia were shot on revived VistaVision cameras — a throwback format gaining popularity in Hollywood. n.pr/3XQVBmn
+🔊 'It is a little bit boxing themselves in because they have so many forces now situated in the Caribbean.' Listen to the Reuters World News podcast for more on the escalating tensions between the US and Venezuela reut.rs/48BSF3e
 
-[2025-12-12 21:25:14](https://bsky.app/profile/npr.org/post/3m7s3hc2d4g23)
+[2025-12-12 21:48:36](https://bsky.app/profile/reuters.com/post/3m7s4r2mc4s2l)
+
+---
+
+@cnbc.com
+
+Single-stock ETFs can amplify returns, analyst says, but there’s ‘significant risk that the bet goes wrong’
+
+[2025-12-12 21:47:15](https://bsky.app/profile/cnbc.com/post/3m7s4oo5qkh2y)
 
 ---
 
 @reuters.com
 
-EU to impose 3 euro duty on small e-commerce parcels from July 2026 reut.rs/4aigCxX
+UBS shares hit 17 year-high as Swiss lawmakers pitch capital compromise reut.rs/4oTQvkd
 
-[2025-12-12 21:25:12](https://bsky.app/profile/reuters.com/post/3m7s3h7tw6v2i)
-
----
-
-@nytimes.com
-
-President Trump is expected to speak with Thailand’s prime minister on Friday, as he seeks burnish his self-styled image as a peacemaker by intervening in a border conflict between Thailand and Cambodia that entered its fifth day.
-
-[2025-12-12 21:25:03](https://bsky.app/profile/nytimes.com/post/3m7s3gxana52x)
+[2025-12-12 21:45:20](https://bsky.app/profile/reuters.com/post/3m7s4la5fc62o)
 
 ---
 
-@financialtimes.com
+@en.afp.com
 
-Ukraine would join EU by 2027 under draft peace plan on.ft.com/4adz7U3
+🇽🇰 Kosovo has begun accepting migrants the United States wants to deport, Prime Minister Albin Kurti announced as he confronts troubles at home and with President Donald Trump's administration ➡️ u.afp.com/S7BE
 
-[2025-12-12 21:23:20](https://bsky.app/profile/financialtimes.com/post/3m7s3dvnpre23)
+[2025-12-12 21:45:03](https://bsky.app/profile/en.afp.com/post/3m7s4kqb2mx2v)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@cnbc.com
 
-Germany accuses Russia of 2024 cyber attack and election disinformation campaign
+‘The next protein’: Fiber is shaping up to be the latest grocery obsession
 
-[2025-12-12 21:23:10](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7s3dmhse62r)
+[2025-12-12 21:44:54](https://bsky.app/profile/cnbc.com/post/3m7s4khix3324)
+
+---
+
+@axios.com
+
+President Trump's first term opened the age of "Great Power Competition" with China and Russia.
+
+His second is actively working to end it.
+
+[2025-12-12 21:43:07](https://bsky.app/profile/axios.com/post/3m7s4haxld22b)
+
+---
+
+@cnbc.com
+
+Stocks making the biggest moves premarket: Tilray Brands, Lululemon, Broadcom, Citigroup & more
+
+[2025-12-12 21:42:43](https://bsky.app/profile/cnbc.com/post/3m7s4gkdorp2i)
+
+---
+
+@npr.org
+
+Foreign visitors who are eligible to bypass the visa application process may soon have to turn over five years' worth of social media history to enter the U.S., under a new Trump administration plan. n.pr/4pWYldO
+
+[2025-12-12 21:42:33](https://bsky.app/profile/npr.org/post/3m7s4galhpq23)
+
+---
+
+@reuters.com
+
+Broadcom falls as margin pressures add to AI payoff jitters reut.rs/4q4GAcM
+
+[2025-12-12 21:40:20](https://bsky.app/profile/reuters.com/post/3m7s4cbqhoy2p)
 
 ---
 
 @nbcnews.com
 
-Swiss singer Nemo, who won the 2024 Eurovision Song Contest, says they will return the winner’s trophy because Israel is being allowed to compete in the politically troubled pop music competition.
+President Trump signs an executive order that seeks to limit the ability of states to regulate artificial intelligence while attempting to thwart some existing state laws.
 
-[2025-12-12 21:20:25](https://bsky.app/profile/nbcnews.com/post/3m7s36o5zam2x)
-
----
-
-@reuters.com
-
-LIVE: Family of last hostage in Gaza gather in prayer youtube.com/live/iI4GiE0...
-
-[2025-12-12 21:19:37](https://bsky.app/profile/reuters.com/post/3m7s35akbok2p)
-
----
-
-@wsj.com
-
-He is known to some as the Syrian equivalent of the Nazi henchman Adolf Eichmann. What will it take to bring Jamil Hassan to justice?
-
-[2025-12-12 21:18:51](https://bsky.app/profile/wsj.com/post/3m7s33uj7js2c)
-
----
-
-@reuters.com
-
-UK stocks rise as precious metal miners shine; BoE in focus reut.rs/4rK2yTY
-
-[2025-12-12 21:15:27](https://bsky.app/profile/reuters.com/post/3m7s2vsptxi2i)
-
----
-
-@reuters.com
-
-📉 Oracle's stock took a big, double-digit slide yesterday. Is there more tech pessimism coming? More on today's Morning Bid podcast reut.rs/496hTH4
-
-[2025-12-12 21:15:18](https://bsky.app/profile/reuters.com/post/3m7s2vjcb4c2l)
+[2025-12-12 21:40:13](https://bsky.app/profile/nbcnews.com/post/3m7s4c3hm7w2k)
 
 ---
 
