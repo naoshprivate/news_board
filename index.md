@@ -1,9 +1,9 @@
-# [2025-12-12 23:10 updated](2025_12_12.md)
+# [2025-12-12 23:30 updated](2025_12_12.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】広島市中区で火事 「黒煙が上がっている」 けが人不明 (2025-12-12 22:45) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7sb3cjptx2b" target="_blank">sokuho.news</a> (2025-12-12 23:05:54)</span><span style="padding-right:50px;">Lagos' first Street Art festival celebrates the city's vibrancy reut.rs/4oWuGkd <a href="https://bsky.app/profile/reuters.com/post/3m7sazy3cji2k" target="_blank">reuters.com</a> (2025-12-12 23:05:10)</span><span style="padding-right:50px;">Workers want more than a transactional relationship with their human-resources colleagues on.wsj.com/4rYBqB0 <a href="https://bsky.app/profile/wsj.com/post/3m7sawzwdpt2h" target="_blank">wsj.com</a> (2025-12-12 23:03:31)</span><span style="padding-right:50px;">The American, who had a partial knee replacement in 2024, became the oldest World Cup race winner by four years. She’s now setting her sights on the Winter Olympics. on.wsj.com/4rTS44s <a href="https://bsky.app/profile/wsj.com/post/3m7sawyy22v2s" target="_blank">wsj.com</a> (2025-12-12 23:03:30)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】広島市中心部でビル火災 消防が消火活動 ケガ人有無は確認中 (2025-12-12 23:02) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7savsvgfm2y" target="_blank">sokuho.news</a> (2025-12-12 23:02:50)</span>
+<span style="padding-right:50px;">You won't arrive on time and may not even get a seat. Your booking might get lost. Things have gotten so dire that a foreigner has been brought in to shake things up. n.pr/48NZ9e5 <a href="https://bsky.app/profile/npr.org/post/3m7sc6cbzfe2e" target="_blank">npr.org</a> (2025-12-12 23:25:29)</span><span style="padding-right:50px;">Italy plans levy on parcels from outside EU, higher taxes on financial transactions reut.rs/3KMIqjx <a href="https://bsky.app/profile/reuters.com/post/3m7sc5otgb62s" target="_blank">reuters.com</a> (2025-12-12 23:25:08)</span><span style="padding-right:50px;">President Trump has overseen an aggressive foreign policy, including harsh words about Europe and a lethal military campaign in the Caribbean. On “The Daily,” our reporter unpacks the White House’s new national security strategy, which lays bare Trump's foreign policy goals. <a href="https://bsky.app/profile/nytimes.com/post/3m7sc5m5nph2z" target="_blank">nytimes.com</a> (2025-12-12 23:25:05)</span><span style="padding-right:50px;">About 100,000 people have been asked to evacuate their homes in Washington as a series of atmospheric river storms drenched the state this week. <a href="https://bsky.app/profile/nbcnews.com/post/3m7sbuqbyov2n" target="_blank">nbcnews.com</a> (2025-12-12 23:20:08)</span><span style="padding-right:50px;">President Trump signs an executive order that would override state laws deemed restrictive of artificial intelligence. “We have to be unified,” Trump said. <a href="https://bsky.app/profile/wsj.com/post/3m7sbsit3ts2t" target="_blank">wsj.com</a> (2025-12-12 23:18:53)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48704.01 (🔺621.11 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23593.86 (🔺84.64 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.93 (🔺0.65 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 156.02 (🔺0.49 : 2025-12-12)</span>
+<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48780.46 (🔺65.71 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23593.86 (🔺84.64 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 181.12 (🔻0.13 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 156.01 (🔺0.48 : 2025-12-12)</span>
   </div>
 </div>
 
@@ -32,105 +32,99 @@
 
 ## News Headlines
 
-Here are the six headlines in Japanese:
+Here are the six selected headlines in Japanese:
 
-1. 広島市中区で火事 けが人不明
-2. 2025年12月12日広島市中心部でビル火災 消防が消火活動
-3. 欧州株式が3週連続で上昇 連邦準備委員会の金利引き下げの期待
-4. HDD価格急騰 中国でPC向けに特需
-5. 米大統領が大麻規制緩和の可能性　大麻株が急騰
-6. マイクロソフトが2026年日本でM&Aブームを予測
+1. 100,000人以上が避難命令　ワシントン州に大雨が続く
+2. 米大統領令　AI制限の州法を無効にする
+3. 広島市で火事　5階から黒煙が上がる
+4. 米大統領令　HDDの販売につながる中国の特需が急増
+5. Redditがアドレス制限の法律を異議を唱える
+6. イランがノーベル平和賞受賞者を拘束
 
 ----
 
-@sokuho.news
+@npr.org
 
-🛎️FNNより【速報】です。
+You won't arrive on time and may not even get a seat. Your booking might get lost. Things have gotten so dire that a foreigner has been brought in to shake things up. n.pr/48NZ9e5
 
-【速報】広島市中区で火事 「黒煙が上がっている」 けが人不明
-(2025-12-12 22:45) #ニュース
-
-[2025-12-12 23:05:54](https://bsky.app/profile/sokuho.news/post/3m7sb3cjptx2b)
+[2025-12-12 23:25:29](https://bsky.app/profile/npr.org/post/3m7sc6cbzfe2e)
 
 ---
 
 @reuters.com
 
-Lagos' first Street Art festival celebrates the city's vibrancy reut.rs/4oWuGkd
+Italy plans levy on parcels from outside EU, higher taxes on financial transactions reut.rs/3KMIqjx
 
-[2025-12-12 23:05:10](https://bsky.app/profile/reuters.com/post/3m7sazy3cji2k)
+[2025-12-12 23:25:08](https://bsky.app/profile/reuters.com/post/3m7sc5otgb62s)
+
+---
+
+@nytimes.com
+
+President Trump has overseen an aggressive foreign policy, including harsh words about Europe and a lethal military campaign in the Caribbean. On “The Daily,” our reporter unpacks the White House’s new national security strategy, which lays bare Trump's foreign policy goals.
+
+[2025-12-12 23:25:05](https://bsky.app/profile/nytimes.com/post/3m7sc5m5nph2z)
+
+---
+
+@nbcnews.com
+
+About 100,000 people have been asked to evacuate their homes in Washington as a series of atmospheric river storms drenched the state this week.
+
+[2025-12-12 23:20:08](https://bsky.app/profile/nbcnews.com/post/3m7sbuqbyov2n)
 
 ---
 
 @wsj.com
 
-Workers want more than a transactional relationship with their human-resources colleagues on.wsj.com/4rYBqB0
+President Trump signs an executive order that would override state laws deemed restrictive of artificial intelligence. “We have to be unified,” Trump said.
 
-[2025-12-12 23:03:31](https://bsky.app/profile/wsj.com/post/3m7sawzwdpt2h)
-
----
-
-@wsj.com
-
-The American, who had a partial knee replacement in 2024, became the oldest World Cup race winner by four years. She’s now setting her sights on the Winter Olympics. on.wsj.com/4rTS44s
-
-[2025-12-12 23:03:30](https://bsky.app/profile/wsj.com/post/3m7sawyy22v2s)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】広島市中心部でビル火災 消防が消火活動 ケガ人有無は確認中
-(2025-12-12 23:02) #ニュース
-
-[2025-12-12 23:02:50](https://bsky.app/profile/sokuho.news/post/3m7savsvgfm2y)
+[2025-12-12 23:18:53](https://bsky.app/profile/wsj.com/post/3m7sbsit3ts2t)
 
 ---
 
 @reuters.com
 
-European shares head for third weekly win on Fed cut optimism; banks outperform reut.rs/4j37UFZ
+UK's Aberdeen to acquire $2 billion of US closed-end assets reut.rs/4pAjhry
 
-[2025-12-12 23:01:07](https://bsky.app/profile/reuters.com/post/3m7sasqnsy32c)
+[2025-12-12 23:15:14](https://bsky.app/profile/reuters.com/post/3m7sblyemph2r)
 
 ---
 
-@nikkei.com
+@reuters.com
 
-HDD急騰、中国でPC向けに特需　部材価格も高騰
-www.nikkei.com/article/DGXZQO...
-
-高単価なSSDに置き換わると予想されていましたが、データ保存に不具合があったとみられ「中国政府はHDDの使用を推奨している」（エレクトロニクス商社の担当者）。
+🎯 Arrows fly at Ally Pally as Luke Littler defends his crown
+⛷️ Lindsey Vonn eyes Olympic history in St Moritz
+🥊 Muaythai meets politics at the SEA Games in Thailand
  
-HDDの値上がりは当面続くとの見方が多数です。
+Here’s your Inside Track to the weekend in sport reut.rs/4rOX0rz
 
-[2025-12-12 23:00:53](https://bsky.app/profile/nikkei.com/post/3m7sascmpqx2y)
+[2025-12-12 23:13:43](https://bsky.app/profile/reuters.com/post/3m7sbjbbzd22o)
 
 ---
 
 @cnn.com
 
-The next signs of the nation's political divide might be jingling in your pocket next year. https://cnn.it/4pZWuoB
+Federal judge temporarily blocks the Trump administration from detaining Kilmar Abrego Garcia again.
+https://cnn.it/4aScBjI
 
-[2025-12-12 23:00:42](https://bsky.app/profile/cnn.com/post/3m7sarycx2d2u)
-
----
-
-@washingtonpost.com
-
-The Trump administration is seeking to boost U.S. companies as they compete for dominance in the burgeoning air-taxi sector — with an eye toward showcasing the technology at the 2028 Olympics in Los Angeles.
-
-[2025-12-12 23:00:41](https://bsky.app/profile/washingtonpost.com/post/3m7sarxwg2r2e)
+[2025-12-12 23:13:09](https://bsky.app/profile/cnn.com/post/3m7sbiapuyk2b)
 
 ---
 
-@usatoday.com
+@reuters.com
 
-The "reckoning" continues as Kimmie (Taylor Polidore Williams) takes over the Bellaire's Beauty in Black empire, Netflix says.
+UK's WH Smith delays results again over audit review reut.rs/48OlCrH
 
-[2025-12-12 23:00:35](https://bsky.app/profile/usatoday.com/post/3m7sarsc6nc2l)
+[2025-12-12 23:10:24](https://bsky.app/profile/reuters.com/post/3m7sbddqvrn2y)
+
+---
+
+@forbes.com
+
+Auroral activity is expected to calm through the weekend.
+
+[2025-12-12 23:10:08](https://bsky.app/profile/forbes.com/post/3m7sbcu7iyw2o)
 
 ---
 
