@@ -1,9 +1,9 @@
-# [2025-12-13 00:10 updated](2025_12_13.md)
+# [2025-12-13 00:30 updated](2025_12_13.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Nippon Steel aims for 100 million tons annual global crude steel capacity by mid-2030s reut.rs/498uBVK <a href="https://bsky.app/profile/reuters.com/post/3m7sefd5hbb2p" target="_blank">reuters.com</a> (2025-12-13 00:05:12)</span><span style="padding-right:50px;">Americans are expected to spend more than ever on holiday gifts—but they’re cutting back on nonessentials to afford it.  <a href="https://bsky.app/profile/forbes.com/post/3m7sef3hx7d2s" target="_blank">forbes.com</a> (2025-12-13 00:05:04)</span><span style="padding-right:50px;">A crisp white shirt with a suit? Boring! A men’s guide to cool, fresh ways to wear a suit this festive season—and into 2026. on.wsj.com/3XQHgXi <a href="https://bsky.app/profile/wsj.com/post/3m7se7pvyix2s" target="_blank">wsj.com</a> (2025-12-13 00:02:04)</span><span style="padding-right:50px;">A thoughtful gift needn’t be expensive to be perfect. A practical kitchen tool, a new charging adapter, or even a really good pair of socks can delight at a budget price. Here are the best gifts for $25 or less. nyti.ms/3KP1cqr <a href="https://bsky.app/profile/nytimes.com/post/3m7se7pao5h2b" target="_blank">nytimes.com</a> (2025-12-13 00:02:03)</span><span style="padding-right:50px;">Ghana's Abu Trica charged with scamming elderly Americans <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7se7pcg522r" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-13 00:02:02)</span>
+<span style="padding-right:50px;">Why affordability is the 'beating heart' of the ACA enhanced subsidy debate, health policy experts say <a href="https://bsky.app/profile/cnbc.com/post/3m7sfm6y63424" target="_blank">cnbc.com</a> (2025-12-13 00:26:56)</span><span style="padding-right:50px;">FDA intends to put most serious warning on COVID vaccines, CNN reports reut.rs/496KtYS <a href="https://bsky.app/profile/reuters.com/post/3m7sfiz3afr2b" target="_blank">reuters.com</a> (2025-12-13 00:25:09)</span><span style="padding-right:50px;">'Appetizer economy': Food inflation is on restaurant table as diners go smaller with menu choices <a href="https://bsky.app/profile/cnbc.com/post/3m7sfhrrqdb2x" target="_blank">cnbc.com</a> (2025-12-13 00:24:28)</span><span style="padding-right:50px;">Fed's Goolsbee, Schmid explain votes against December rate cut, say patience 'feels like the wiser choice' <a href="https://bsky.app/profile/yahoofinance.com/post/3m7sfbpgl7c2f" target="_blank">yahoofinance.com</a> (2025-12-13 00:21:04)</span><span style="padding-right:50px;">The Trump administration’s challenge is Trump on.ft.com/4aM93j4 <a href="https://bsky.app/profile/financialtimes.com/post/3m7sfaadix22y" target="_blank">financialtimes.com</a> (2025-12-13 00:20:15)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48776.10 (🔺61.35 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23396.09 (🔻92.79 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 179.81 (🔻1.45 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.81 (🔺0.28 : 2025-12-12)</span>
+<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48663.14 (🔻51.61 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23288.70 (🔻200.18 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 179.44 (🔻1.82 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.83 (🔺0.30 : 2025-12-12)</span>
   </div>
 </div>
 
@@ -32,94 +32,97 @@
 
 ## News Headlines
 
-Here are six Japanese headlines based on the news:
+Here are six news headlines in Japanese:
 
-1. 日鉄、2030年代前半に1000万トンの粗鋼生産能力を達成する
-2. ハリケーンの影響でアメリカ人が年末の贈り物を節減
-3. 25ドル以下のプレゼントで心に感謝
-4. ギャンビアのアブ・トリカ氏、米老人を標的にした詐欺師として起訴
-5. フェデラル・リザーブの連邦銀行長官の再任が決定
-6. 未来の医療技術で細菌を送り込むロボットが開発される
+1. 都市部の食費が増加する「アペタイザー経済」がデリバリーを中心に広がる
+2. フェデラル・リザーブの理事会が地方銀行長の再任を決定
+3. トランプ政権が大統領選出馬を狙うか
+4. 長崎県佐世保市でマンション火災　9階から出火か
+5. エピステイン事件　トランプ大統領やビル・クリントンなどが写真に
+6. フェデラル・リザーブの理事会が地方銀行長の再任を決定
 
 ----
 
-@reuters.com
+@cnbc.com
 
-Nippon Steel aims for 100 million tons annual global crude steel capacity by mid-2030s reut.rs/498uBVK
+Why affordability is the 'beating heart' of the ACA enhanced subsidy debate, health policy experts say
 
-[2025-12-13 00:05:12](https://bsky.app/profile/reuters.com/post/3m7sefd5hbb2p)
-
----
-
-@forbes.com
-
-Americans are expected to spend more than ever on holiday gifts—but they’re cutting back on nonessentials to afford it. 
-
-[2025-12-13 00:05:04](https://bsky.app/profile/forbes.com/post/3m7sef3hx7d2s)
-
----
-
-@wsj.com
-
-A crisp white shirt with a suit? Boring! A men’s guide to cool, fresh ways to wear a suit this festive season—and into 2026. on.wsj.com/3XQHgXi
-
-[2025-12-13 00:02:04](https://bsky.app/profile/wsj.com/post/3m7se7pvyix2s)
-
----
-
-@nytimes.com
-
-A thoughtful gift needn’t be expensive to be perfect. A practical kitchen tool, a new charging adapter, or even a really good pair of socks can delight at a budget price. Here are the best gifts for $25 or less. nyti.ms/3KP1cqr
-
-[2025-12-13 00:02:03](https://bsky.app/profile/nytimes.com/post/3m7se7pao5h2b)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Ghana's Abu Trica charged with scamming elderly Americans
-
-[2025-12-13 00:02:02](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7se7pcg522r)
+[2025-12-13 00:26:56](https://bsky.app/profile/cnbc.com/post/3m7sfm6y63424)
 
 ---
 
 @reuters.com
 
-Analysts flag risks for Strategy at Nasdaq 100 index reshuffle reut.rs/48Cjgx6
+FDA intends to put most serious warning on COVID vaccines, CNN reports reut.rs/496KtYS
 
-[2025-12-13 00:01:27](https://bsky.app/profile/reuters.com/post/3m7se6mbq7a24)
-
----
-
-@cnn.com
-
-"In the end, the situation in Indiana demonstrated quite the opposite of what Trump intended," Aaron Blake writes | Analysis
-
-[2025-12-13 00:01:03](https://bsky.app/profile/cnn.com/post/3m7se5w27b72k)
-
----
-
-@usatoday.com
-
-Where did Jon Hamm start dancing in the club, and why is it all over your TikTok and Instagram feeds? The viral meme, and it's TV origins, explained.
-
-[2025-12-13 00:00:51](https://bsky.app/profile/usatoday.com/post/3m7se5k4byi2g)
+[2025-12-13 00:25:09](https://bsky.app/profile/reuters.com/post/3m7sfiz3afr2b)
 
 ---
 
 @cnbc.com
 
-Parent Portfolio founder Jonathan Sanchez shares how he talks to his kids about money to 'genuinely excite them' about personal finance. 
+'Appetizer economy': Food inflation is on restaurant table as diners go smaller with menu choices
 
-[2025-12-13 00:00:40](https://bsky.app/profile/cnbc.com/post/3m7se57vmud2e)
+[2025-12-13 00:24:28](https://bsky.app/profile/cnbc.com/post/3m7sfhrrqdb2x)
 
 ---
 
-@washingtonpost.com
+@yahoofinance.com
 
-Medicine is advancing toward a future that might see tiny robots sent into the human body to rewire damaged nerves, deliver medicines to precise areas, and determine the health of a patient’s cells without surgery.
+Fed's Goolsbee, Schmid explain votes against December rate cut, say patience 'feels like the wiser choice'
 
-[2025-12-13 00:00:37](https://bsky.app/profile/washingtonpost.com/post/3m7se54pyv42x)
+[2025-12-13 00:21:04](https://bsky.app/profile/yahoofinance.com/post/3m7sfbpgl7c2f)
+
+---
+
+@financialtimes.com
+
+The Trump administration’s challenge is Trump on.ft.com/4aM93j4
+
+[2025-12-13 00:20:15](https://bsky.app/profile/financialtimes.com/post/3m7sfaadix22y)
+
+---
+
+@npr.org
+
+Managing a full December calendar can quickly take you from festive to frazzled. ⁠Psychotherapist Niro Feliciano shares advice on reducing stress and increasing joy this season. n.pr/4adx7LE
+
+[2025-12-13 00:17:01](https://bsky.app/profile/npr.org/post/3m7sf2h2poi25)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】長崎県佐世保市で中高層建物火災 マンション9階から出火か
+(2025-12-12 23:34:00) #ニュース
+
+[2025-12-13 00:16:17](https://bsky.app/profile/sokuho.news/post/3m7sez5alof2r)
+
+---
+
+@nbcnews.com
+
+<strong><span style="color: red;">BREAKING:</span> House Democrats release more photos from Jeffrey Epstein's estate, featuring pictures of President Trump, Bill Clinton and other prominent figures.</strong>
+
+[2025-12-13 00:16:17](https://bsky.app/profile/nbcnews.com/post/3m7sez5k2q72k)
+
+---
+
+@cnbc.com
+
+Epstein files: Trump, Clinton, Bill Gates, Steve Bannon, others in newly released photos
+
+[2025-12-13 00:15:28](https://bsky.app/profile/cnbc.com/post/3m7sexozjxy23)
+
+---
+
+@reuters.com
+
+UN agency warns displaced Gazans face floods, as emergency supplies blocked reut.rs/48Utk3r
+
+[2025-12-13 00:15:19](https://bsky.app/profile/reuters.com/post/3m7sexgj7ys2o)
 
 ---
 
