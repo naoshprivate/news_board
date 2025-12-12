@@ -1,9 +1,9 @@
-# [2025-12-13 06:30 updated](2025_12_13.md)
+# [2025-12-13 06:50 updated](2025_12_13.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Man Utd await Mbeumo, Mazraoui and Diallo AFCON decisions before Bournemouth reut.rs/4rPu2Yx <a href="https://bsky.app/profile/reuters.com/post/3m7szn32vfi2b" target="_blank">reuters.com</a> (2025-12-13 06:25:20)</span><span style="padding-right:50px;">Fans are defending Taylor Swift against the criticism faced by other billionaires. <a href="https://bsky.app/profile/forbes.com/post/3m7szmoyfck2f" target="_blank">forbes.com</a> (2025-12-13 06:25:07)</span><span style="padding-right:50px;">A British mother holding an infant.   A Ukrainian refugee  The wife of a Navy veteran.   A German man about to celebrate his first wedding anniversary.   These are some of the spouses of U.S. citizens who were detained by ICE at what they thought were going to be routine green card interviews. <a href="https://bsky.app/profile/nbcnews.com/post/3m7szdsj32c25" target="_blank">nbcnews.com</a> (2025-12-13 06:20:09)</span><span style="padding-right:50px;">King Charles III says he'll scale back cancer treatment thanks to early diagnosis. <a href="https://bsky.app/profile/cbsnews.com/post/3m7szdkiqwj2j" target="_blank">cbsnews.com</a> (2025-12-13 06:20:01)</span><span style="padding-right:50px;">Breaking News: The Trump administration is sharing all air travelers’ names with ICE officials to find people with deportation orders. <a href="https://bsky.app/profile/nytimes.com/post/3m7szclvxj62y" target="_blank">nytimes.com</a> (2025-12-13 06:19:29)</span>
+<span style="padding-right:50px;">Closing arguments were presented in the trial of Brian Walshe, the Massachusetts man accused of murdering his wife, after the defense rested its case without calling a single witness to the stand. <a href="https://bsky.app/profile/nbcnews.com/post/3m7t2txdzes24" target="_blank">nbcnews.com</a> (2025-12-13 06:47:05)</span><span style="padding-right:50px;">US accuses Rwanda at UN of leading region toward war reut.rs/48AjiWf <a href="https://bsky.app/profile/reuters.com/post/3m7t2qqk6h22b" target="_blank">reuters.com</a> (2025-12-13 06:45:17)</span><span style="padding-right:50px;">Data center REIT Fermi drops 34% after potential customer backs out of funding deal reut.rs/4pBfSZy <a href="https://bsky.app/profile/reuters.com/post/3m7t2iw2ywb2k" target="_blank">reuters.com</a> (2025-12-13 06:40:54)</span><span style="padding-right:50px;">Record flooding in Washington state has forced tens of thousands of people to evacuate after torrential rains this week. n.pr/453De1q <a href="https://bsky.app/profile/npr.org/post/3m7t2i56wu62g" target="_blank">npr.org</a> (2025-12-13 06:40:28)</span><span style="padding-right:50px;">Night and day for more than six months, a D.C. family has received over 100 packages the senders meant to have delivered to a hotel more than a mile away. <a href="https://bsky.app/profile/nbcnews.com/post/3m7t2hlft3i24" target="_blank">nbcnews.com</a> (2025-12-13 06:40:10)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.09 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.83 (🔺0.30 : 2025-12-12)</span>
+<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.09 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.81 (🔺0.28 : 2025-12-12)</span>
   </div>
 </div>
 
@@ -32,100 +32,94 @@
 
 ## News Headlines
 
-1. トランプ米大統領がタイとカンボジアの両国首脳と電話会談
-2. ICEがアメリカ人と結婚している外国人の妻を拘束
-3. クラウン王太子ががん治療を縮小
-4. EUがロシアの資産を凍結、ウクライナの防衛支援に
-5. アメリカの天文学者がGeminid流星群を観測
-6. トランプ大統領がエプスタイン事件に関連する女性に恩赦
+以下のニュースから6つの重要なストーリーを選択し、ヘッドラインを日本語で作成します。
+
+1. 連邦準備理事会（ＦＲＢ）は政府の財政コストを考慮すべきでなく、ＦＲＢの独立性は極めて重要であるとの認識を改めて示した。
+2. ドルは円などの主要通貨に対し上昇し、来年の米連邦準備理事会（ＦＲＢ）による利下げ観測を背景に下落基調にあり、週間ベースでは３週連続で下落した。
+3. ガザ地区大雨による住宅倒壊や寒さで今月10日以降14人死亡
+4. EUは、ロシアの資産を凍結し、ウクライナの防衛に資金を提供するためのローンを確保した。
+5. トランプ米大統領は、国境地帯での衝突が激化しているタイとカンボジアが、１２日から「全ての攻撃を停止する」ことで合意したと明らかにした。
+6. 米シカゴ地区連銀のグールズビー総裁は、ＦＲＢの独立性は極めて重要であるとの認識を改めて示した。
 
 ----
 
-@reuters.com
+@nbcnews.com
 
-Man Utd await Mbeumo, Mazraoui and Diallo AFCON decisions before Bournemouth reut.rs/4rPu2Yx
+Closing arguments were presented in the trial of Brian Walshe, the Massachusetts man accused of murdering his wife, after the defense rested its case without calling a single witness to the stand.
 
-[2025-12-13 06:25:20](https://bsky.app/profile/reuters.com/post/3m7szn32vfi2b)
+[2025-12-13 06:47:05](https://bsky.app/profile/nbcnews.com/post/3m7t2txdzes24)
 
 ---
 
-@forbes.com
+@reuters.com
 
-Fans are defending Taylor Swift against the criticism faced by other billionaires.
+US accuses Rwanda at UN of leading region toward war reut.rs/48AjiWf
 
-[2025-12-13 06:25:07](https://bsky.app/profile/forbes.com/post/3m7szmoyfck2f)
+[2025-12-13 06:45:17](https://bsky.app/profile/reuters.com/post/3m7t2qqk6h22b)
+
+---
+
+@reuters.com
+
+Data center REIT Fermi drops 34% after potential customer backs out of funding deal reut.rs/4pBfSZy
+
+[2025-12-13 06:40:54](https://bsky.app/profile/reuters.com/post/3m7t2iw2ywb2k)
+
+---
+
+@npr.org
+
+Record flooding in Washington state has forced tens of thousands of people to evacuate after torrential rains this week. n.pr/453De1q
+
+[2025-12-13 06:40:28](https://bsky.app/profile/npr.org/post/3m7t2i56wu62g)
 
 ---
 
 @nbcnews.com
 
-A British mother holding an infant. 
+Night and day for more than six months, a D.C. family has received over 100 packages the senders meant to have delivered to a hotel more than a mile away.
 
-A Ukrainian refugee
-
-The wife of a Navy veteran. 
-
-A German man about to celebrate his first wedding anniversary. 
-
-These are some of the spouses of U.S. citizens who were detained by ICE at what they thought were going to be routine green card interviews.
-
-[2025-12-13 06:20:09](https://bsky.app/profile/nbcnews.com/post/3m7szdsj32c25)
+[2025-12-13 06:40:10](https://bsky.app/profile/nbcnews.com/post/3m7t2hlft3i24)
 
 ---
 
 @cbsnews.com
 
-King Charles III says he'll scale back cancer treatment thanks to early diagnosis.
+With ACA subsidies set to lapse, millions of Americans face a painful spike in health plan costs.
 
-[2025-12-13 06:20:01](https://bsky.app/profile/cbsnews.com/post/3m7szdkiqwj2j)
+[2025-12-13 06:40:00](https://bsky.app/profile/cbsnews.com/post/3m7t2hcg4y72b)
+
+---
+
+@reuters.com
+
+Oracle denies report on OpenAI data center delays reut.rs/3MwWoGM
+
+[2025-12-13 06:35:14](https://bsky.app/profile/reuters.com/post/3m7t26qzlji2o)
+
+---
+
+@cnbc.com
+
+Santoli's Friday market wrap-up: Stocks are caught in opposing currents of AI anxiety and economic enthusiasm
+
+[2025-12-13 06:34:26](https://bsky.app/profile/cnbc.com/post/3m7t25cy5ii2b)
 
 ---
 
 @nytimes.com
 
-<strong><span style="color: red;">Breaking News</span>: The Trump administration is sharing all air travelers’ names with ICE officials to find people with deportation orders.</strong>
+Here's how to make an espresso martini at home: nyti.ms/4oSaOif
 
-[2025-12-13 06:19:29](https://bsky.app/profile/nytimes.com/post/3m7szclvxj62y)
+[2025-12-13 06:33:04](https://bsky.app/profile/nytimes.com/post/3m7t22vkl742v)
 
 ---
 
 @japan.reuters.com
 
-トランプ米大統領は、国境地帯での衝突が激化しているタイとカンボジアが、１２日から「全ての攻撃を停止する」ことで合意したと明らかにした。これに先立ち、トランプ氏は両国の首脳と電話会談を行っていた。 bit.ly/4pDEpNw
+ニューヨーク外為市場では、方向感のない取引の中、ドルが円などの主要通貨に対し上昇した。来年の米連邦準備理事会（ＦＲＢ）による利下げ観測を背景にドルはここ数日下落基調にあり、週間ベースでは３週連続で下落した。 bit.ly/48BEviI
 
-[2025-12-13 06:15:21](https://bsky.app/profile/japan.reuters.com/post/3m7sz37akjn2f)
-
----
-
-@reuters.com
-
-Ice-cream spin-off turns up heat on Unilever to deliver on growth, margins reut.rs/48S8Icg
-
-[2025-12-13 06:15:14](https://bsky.app/profile/reuters.com/post/3m7sz2yo7wq2s)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Ukraine accuses Russia of bombing Turkish ship in Odesa
-
-[2025-12-13 06:10:40](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7systrlnz27)
-
----
-
-@reuters.com
-
-Americans skeptical of Trump on Epstein, but Republican doubts ease, Reuters/Ipsos poll finds reut.rs/4oSCjbg
-
-[2025-12-13 06:10:11](https://bsky.app/profile/reuters.com/post/3m7syrygqr42o)
-
----
-
-@reuters.com
-
-Coty chair, CEO may exit as owner JAB plans leadership shake-up, FT reports reut.rs/44VlFAE
-
-[2025-12-13 06:05:12](https://bsky.app/profile/reuters.com/post/3m7syj37jgn2x)
+[2025-12-13 06:32:12](https://bsky.app/profile/japan.reuters.com/post/3m7szzdyu6b2v)
 
 ---
 
