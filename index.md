@@ -1,9 +1,9 @@
-# [2025-12-13 01:50 updated](2025_12_13.md)
+# [2025-12-13 02:10 updated](2025_12_13.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">This vibrant vegetarian dish combines savory broiled halloumi, juicy cherry tomatoes and creamy white beans for a satisfying one-pan meal. It's one of our most popular recipes of 2025. nyti.ms/3Y1J0wZ <a href="https://bsky.app/profile/nytimes.com/post/3m7sk6zv6ee2y" target="_blank">nytimes.com</a> (2025-12-13 01:49:03)</span><span style="padding-right:50px;">Labour membership plummets since general election on.ft.com/4oRjLIy <a href="https://bsky.app/profile/financialtimes.com/post/3m7sk6fsr5n2o" target="_blank">financialtimes.com</a> (2025-12-13 01:48:42)</span><span style="padding-right:50px;">One of the most ancient arts—the telling of a tale drawn from life and imagination—still thrives in an era of fragmentation and distraction. on.wsj.com/4aMlcoa <a href="https://bsky.app/profile/wsj.com/post/3m7sk2nxrlc2u" target="_blank">wsj.com</a> (2025-12-13 01:46:36)</span><span style="padding-right:50px;">Red hot Texas is getting so many data center requests that experts see a bubble <a href="https://bsky.app/profile/cnbc.com/post/3m7sk2mqshq23" target="_blank">cnbc.com</a> (2025-12-13 01:46:35)</span><span style="padding-right:50px;">EU to scrap planned ban on combustion engines, EPP's Weber says reut.rs/48UCTQ5 <a href="https://bsky.app/profile/reuters.com/post/3m7sjy7omeh2b" target="_blank">reuters.com</a> (2025-12-13 01:45:14)</span>
+<span style="padding-right:50px;">Rivian stock soars on bullish commentary; CEO says 'AI-centric' approach needed to solve self-driving <a href="https://bsky.app/profile/yahoofinance.com/post/3m7sl5hsu7d26" target="_blank">yahoofinance.com</a> (2025-12-13 02:06:04)</span><span style="padding-right:50px;">Cuba on edge as US seizure of oil tanker puts supply at risk reut.rs/4oMItJV <a href="https://bsky.app/profile/reuters.com/post/3m7sl42c3cx2b" target="_blank">reuters.com</a> (2025-12-13 02:05:17)</span><span style="padding-right:50px;">VIDEO: 🇧🇷 Palms bloom for first -- and last -- time in Rio de Janeiro  Several talipot palms, native to southern India and Sri Lanka but planted more than six decades ago in the Brazilian seaside city, are blooming. Once the fruit falls, the palms will slowly begin to die <a href="https://bsky.app/profile/en.afp.com/post/3m7sl32wa4d2y" target="_blank">en.afp.com</a> (2025-12-13 02:04:44)</span><span style="padding-right:50px;">Clear-eyed works of history and analysis—and a moving memoir of captivity—offered insights that transcended headlines. on.wsj.com/4pxTzDM <a href="https://bsky.app/profile/wsj.com/post/3m7sl2senea2e" target="_blank">wsj.com</a> (2025-12-13 02:04:35)</span><span style="padding-right:50px;">JUST IN: Marijuana currently is classified as a Schedule I drug, which the DEA describes as substances with no "medical use and a high potential for abuse." <a href="https://bsky.app/profile/usatoday.com/post/3m7skx7deyo2z" target="_blank">usatoday.com</a> (2025-12-13 02:02:34)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48394.67 (🔻320.08 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23130.09 (🔻358.79 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.85 (🔻5.41 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.83 (🔺0.30 : 2025-12-12)</span>
+<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48466.55 (🔻248.20 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23209.87 (🔻279.00 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 176.72 (🔻4.54 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.89 (🔺0.35 : 2025-12-12)</span>
   </div>
 </div>
 
@@ -32,92 +32,96 @@
 
 ## News Headlines
 
-1. 2025年の人気レシピの1つは、ブロイロールしたハルウミチーズ、ジャイアントトマト、クリーミーなホワイトビーンを組み合わせたビーガンレシピです。
-2. 労働党の党員数が総選挙後急激に減少しています。
-3. 伝説の物語を語る芸術は、碎片化と集中力をもたらす時代にでも存続しています。
-4. EUは、燃料電池エンジンを禁止する計画を中止することを発表しました。
-5. ドナルド・トランプ政権の脱厄行きをめぐる議会の質疑に、国土安全保障長官のクリスティ・ノエムが激しい反発を受けました。
-6. ニール・サイモンが2026年の冬季オリンピックで金メダルを獲得しました。
+1.   リビアンの株価が大幅に上昇
+2.  米がウラジミール・プーチン大統領支持の船を拿捕し、ベネズエラの石油供給が危機的状況に
+3.  リオでのタリポットパームが初めて開花
+4.  米がベネズエラの石油船を拿捕し、石油価格が上昇
+5.  米フィラデルフィア地区連銀のポールソン総裁が「労働市場の状況が重大な懸念事項」と発表
+6.  米がベネズエラの石油船を拿捕し、両国の緊張が高まる
 
 ----
 
-@nytimes.com
+@yahoofinance.com
 
-This vibrant vegetarian dish combines savory broiled halloumi, juicy cherry tomatoes and creamy white beans for a satisfying one-pan meal. It's one of our most popular recipes of 2025. nyti.ms/3Y1J0wZ
+Rivian stock soars on bullish commentary; CEO says 'AI-centric' approach needed to solve self-driving
 
-[2025-12-13 01:49:03](https://bsky.app/profile/nytimes.com/post/3m7sk6zv6ee2y)
-
----
-
-@financialtimes.com
-
-Labour membership plummets since general election on.ft.com/4oRjLIy
-
-[2025-12-13 01:48:42](https://bsky.app/profile/financialtimes.com/post/3m7sk6fsr5n2o)
-
----
-
-@wsj.com
-
-One of the most ancient arts—the telling of a tale drawn from life and imagination—still thrives in an era of fragmentation and distraction. on.wsj.com/4aMlcoa
-
-[2025-12-13 01:46:36](https://bsky.app/profile/wsj.com/post/3m7sk2nxrlc2u)
-
----
-
-@cnbc.com
-
-Red hot Texas is getting so many data center requests that experts see a bubble
-
-[2025-12-13 01:46:35](https://bsky.app/profile/cnbc.com/post/3m7sk2mqshq23)
+[2025-12-13 02:06:04](https://bsky.app/profile/yahoofinance.com/post/3m7sl5hsu7d26)
 
 ---
 
 @reuters.com
 
-EU to scrap planned ban on combustion engines, EPP's Weber says reut.rs/48UCTQ5
+Cuba on edge as US seizure of oil tanker puts supply at risk reut.rs/4oMItJV
 
-[2025-12-13 01:45:14](https://bsky.app/profile/reuters.com/post/3m7sjy7omeh2b)
-
----
-
-@washingtonpost.com
-
-DHS Secretary Kristi L. Noem faced a combative congressional hearing, as Democrats repeatedly demanded that she resign, accusing her of lying and violating the law as she helps lead the Trump administration’s mass deportation agenda.
-
-[2025-12-13 01:45:05](https://bsky.app/profile/washingtonpost.com/post/3m7sjxwi56y2e)
+[2025-12-13 02:05:17](https://bsky.app/profile/reuters.com/post/3m7sl42c3cx2b)
 
 ---
 
-@cnbc.com
+@en.afp.com
 
-Jim Cramer: Costco stock has a lot of upside despite the retailer's lumpy year
+VIDEO: 🇧🇷 Palms bloom for first -- and last -- time in Rio de Janeiro
 
-[2025-12-13 01:44:11](https://bsky.app/profile/cnbc.com/post/3m7sjwdc4mh2p)
+Several talipot palms, native to southern India and Sri Lanka but planted more than six decades ago in the Brazilian seaside city, are blooming. Once the fruit falls, the palms will slowly begin to die
+
+[2025-12-13 02:04:44](https://bsky.app/profile/en.afp.com/post/3m7sl32wa4d2y)
 
 ---
 
 @wsj.com
 
-Tolkien used his scholarly familiarity with ancient storytelling modes to create a a world so vast it spills off of the page. on.wsj.com/3KY4CqT
+Clear-eyed works of history and analysis—and a moving memoir of captivity—offered insights that transcended headlines. on.wsj.com/4pxTzDM
 
-[2025-12-13 01:42:01](https://bsky.app/profile/wsj.com/post/3m7sjsht2xm23)
+[2025-12-13 02:04:35](https://bsky.app/profile/wsj.com/post/3m7sl2senea2e)
 
 ---
 
 @usatoday.com
 
-<strong><span style="color: red;">BREAKING:</span> House Democrats received a trove of pictures from accused sex trafficker Jeffrey Epstein's estate and released some that show Donald Trump, Bill Clinton and other VIPs.</strong>
+<strong><span style="color: red;">JUST IN:</span> Marijuana currently is classified as a Schedule I drug, which the DEA describes as substances with no "medical use and a high potential for abuse."</strong>
 
-[2025-12-13 01:40:24](https://bsky.app/profile/usatoday.com/post/3m7sjpl3m4e2s)
+[2025-12-13 02:02:34](https://bsky.app/profile/usatoday.com/post/3m7skx7deyo2z)
+
+---
+
+@financialtimes.com
+
+ British Cycling hits on a money-spinning idea on.ft.com/3XR0qMI  | opinion
+
+[2025-12-13 02:02:08](https://bsky.app/profile/financialtimes.com/post/3m7skwg7svh2f)
+
+---
+
+@cnbc.com
+
+Maddy Roche, chief growth officer at Childfree Trust says to think about who will take care of you, if you don't have children.
+
+ “As hard as it is to think about the future, one of the best ways to ensure that you’ll be respected in the ways that you crave and deserve is to be proactive,” she says.
+
+[2025-12-13 02:02:01](https://bsky.app/profile/cnbc.com/post/3m7skw7pgul2p)
 
 ---
 
 @reuters.com
 
-U.S. equity funds draw first weekly inflow in three weeks ahead of Fed easing reut.rs/4rUiKlC
+From Breakingviews - Breakingviews - Venezuelan oil riches will stay mostly theoretical reut.rs/4q7D957
 
-[2025-12-13 01:40:18](https://bsky.app/profile/reuters.com/post/3m7sjpfbzhx2o)
+[2025-12-13 02:01:38](https://bsky.app/profile/reuters.com/post/3m7skvjw7gi23)
+
+---
+
+@usatoday.com
+
+Need a good movie? Watch these 10 at home now, from Brad Pitt's "F1: The Movie" to the latest "Knives Out." All are free on your streaming services.
+
+[2025-12-13 02:01:21](https://bsky.app/profile/usatoday.com/post/3m7skuzsx5k2s)
+
+---
+
+@washingtonpost.com
+
+Mental health content on TikTok is “stickier” than many other videos: It’s easier to spawn more of it after watching a video, and harder to get it out of your feed afterward, according to a Post analysis.
+
+[2025-12-13 02:00:39](https://bsky.app/profile/washingtonpost.com/post/3m7sktrtvm32b)
 
 ---
 
