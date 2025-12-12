@@ -1,9 +1,9 @@
-# [2025-12-13 04:50 updated](2025_12_13.md)
+# [2025-12-13 05:10 updated](2025_12_13.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Trump’s AI order may be ‘illegal,’ Democrats and consumer advocacy groups claim <a href="https://bsky.app/profile/cnbc.com/post/3m7su3u2xfh24" target="_blank">cnbc.com</a> (2025-12-13 04:46:14)</span><span style="padding-right:50px;">France toughens cattle lumpy skin disease rules amid farm protests reut.rs/3MGjZVo <a href="https://bsky.app/profile/reuters.com/post/3m7su24jjug2b" target="_blank">reuters.com</a> (2025-12-13 04:45:15)</span><span style="padding-right:50px;">米クリーブランド地区連銀のハマック総裁は１２日、現時点での自身の経済見通しを踏まえると、連邦準備理事会（ＦＲＢ）の金融政策は現行より引き締め的であることが望ましいとの考えを示した。 bit.ly/3MGjKts <a href="https://bsky.app/profile/japan.reuters.com/post/3m7su22laxl26" target="_blank">japan.reuters.com</a> (2025-12-13 04:45:14)</span><span style="padding-right:50px;">A big week of economic data is next for a stock market in the throes of a major rotation <a href="https://bsky.app/profile/cnbc.com/post/3m7stzpck2j2m" target="_blank">cnbc.com</a> (2025-12-13 04:45:02)</span><span style="padding-right:50px;">欧州連合（ＥＵ）は１２日、域内で管理されているロシア中央銀行の資産を無期限で凍結することで合意した。これまでは６カ月ごとに凍結の延長の是非を巡る投票を実施していたが、無期限で凍結することで、ロシアと比較的良好な関係を持つハンガリーやスロバキアなどが反対する事態を防ぐ狙いがあるとみられる。 bit.ly/3YbvUgJ <a href="https://bsky.app/profile/japan.reuters.com/post/3m7stzl547w2s" target="_blank">japan.reuters.com</a> (2025-12-13 04:44:57)</span>
+<span style="padding-right:50px;">欧州株式市場は反落して取引を終えた。人工知能（ＡＩ）投資が過剰との懸念が再燃して投資家にリスク回避姿勢が強まった。ＳＴＯＸＸ欧州６００種指数は週間ベースでは０．０９％下落した。ドイツのＤＡＸ指数は前日比０．４５％、フランスのＣＡＣ４０指数は０．２１％、それぞれ下落した。 bit.ly/4qaa74Y <a href="https://bsky.app/profile/japan.reuters.com/post/3m7svedawh62c" target="_blank">japan.reuters.com</a> (2025-12-13 05:08:52)</span><span style="padding-right:50px;">A Tennessee man who fired a gun at a contractor outside his former Jewish school in 2023 has pleaded guilty. While not apparently motivated by antisemitism, the shooting took place as fears increased of anti-Jewish sentiment in the United States. <a href="https://bsky.app/profile/apnews.com/post/3m7svc65ku32k" target="_blank">apnews.com</a> (2025-12-13 05:07:40)</span><span style="padding-right:50px;">BREAKING: King Charles says his cancer treatment will be scaled back, nearly two years after his diagnosis. <a href="https://bsky.app/profile/nbcnews.com/post/3m7svbsqo3t2x" target="_blank">nbcnews.com</a> (2025-12-13 05:07:28)</span><span style="padding-right:50px;">Breaking news: A Justice Department investigation into D.C. police found that Chief Pamela Smith created a “coercive culture of fear” that may have incentivized the manipulation of crime statistics, according to a draft of a report. <a href="https://bsky.app/profile/washingtonpost.com/post/3m7sv7hcqah24" target="_blank">washingtonpost.com</a> (2025-12-13 05:06:09)</span><span style="padding-right:50px;">Bar exam washouts pass retroactively after Washington lowers cutoff score reut.rs/4iQPh84 <a href="https://bsky.app/profile/reuters.com/post/3m7sv5pslwb2i" target="_blank">reuters.com</a> (2025-12-13 05:05:10)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48490.81 (🔻223.94 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23224.46 (🔻264.41 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 176.24 (🔻5.02 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.92 (🔺0.39 : 2025-12-12)</span>
+<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48525.32 (🔻189.43 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23239.03 (🔻249.85 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 176.58 (🔻4.68 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.78 (🔺0.25 : 2025-12-12)</span>
   </div>
 </div>
 
@@ -32,93 +32,95 @@
 
 ## News Headlines
 
-1. 米連銀のハマック総裁がＦＲＢの金融政策を引き締めすべきだと
-2. EUがロシア中央銀行の資産を無期限凍結
-3. 白井事件：ICC裁判所の赤根智子所長が本人不在のまま有罪判決
-4. 米5大crypto企業が銀行化の一歩手前へ
-5. フランスで牛の肉削減を求める農家が道路を封鎖
-6. エヌビディアが先端半導体の生産拡大を検討
+以下の6つのニュースの見出しです。
+
+1.  STX EUROPE 600 指数が週間ベースで0.09％下落
+2.  ドイツのDAAX 指数が前日比0.45％下落
+3.  フランスCAC 40 指数が前日比0.21％下落
+4.  米連邦準備理事会(FRB)が金融政策を引き締め的と述べる
+5.  欧州連合(EU)がロシア中央銀行の資産を無期限で凍結する
+6.  エヌビディアが先端半導体H200の生産拡大を検討している
 
 ----
 
-@cnbc.com
+@japan.reuters.com
 
-Trump’s AI order may be ‘illegal,’ Democrats and consumer advocacy groups claim
+欧州株式市場は反落して取引を終えた。人工知能（ＡＩ）投資が過剰との懸念が再燃して投資家にリスク回避姿勢が強まった。ＳＴＯＸＸ欧州６００種指数は週間ベースでは０．０９％下落した。ドイツのＤＡＸ指数は前日比０．４５％、フランスのＣＡＣ４０指数は０．２１％、それぞれ下落した。 bit.ly/4qaa74Y
 
-[2025-12-13 04:46:14](https://bsky.app/profile/cnbc.com/post/3m7su3u2xfh24)
+[2025-12-13 05:08:52](https://bsky.app/profile/japan.reuters.com/post/3m7svedawh62c)
+
+---
+
+@apnews.com
+
+A Tennessee man who fired a gun at a contractor outside his former Jewish school in 2023 has pleaded guilty. While not apparently motivated by antisemitism, the shooting took place as fears increased of anti-Jewish sentiment in the United States.
+
+[2025-12-13 05:07:40](https://bsky.app/profile/apnews.com/post/3m7svc65ku32k)
+
+---
+
+@nbcnews.com
+
+<strong><span style="color: red;">BREAKING:</span> King Charles says his cancer treatment will be scaled back, nearly two years after his diagnosis.</strong>
+
+[2025-12-13 05:07:28](https://bsky.app/profile/nbcnews.com/post/3m7svbsqo3t2x)
+
+---
+
+@washingtonpost.com
+
+<strong><span style="color: red;">Breaking news:</span> A Justice Department investigation into D.C. police found that Chief Pamela Smith created a “coercive culture of fear” that may have incentivized the manipulation of crime statistics, according to a draft of a report.</strong>
+
+[2025-12-13 05:06:09](https://bsky.app/profile/washingtonpost.com/post/3m7sv7hcqah24)
 
 ---
 
 @reuters.com
 
-France toughens cattle lumpy skin disease rules amid farm protests reut.rs/3MGjZVo
+Bar exam washouts pass retroactively after Washington lowers cutoff score reut.rs/4iQPh84
 
-[2025-12-13 04:45:15](https://bsky.app/profile/reuters.com/post/3m7su24jjug2b)
-
----
-
-@japan.reuters.com
-
-米クリーブランド地区連銀のハマック総裁は１２日、現時点での自身の経済見通しを踏まえると、連邦準備理事会（ＦＲＢ）の金融政策は現行より引き締め的であることが望ましいとの考えを示した。 bit.ly/3MGjKts
-
-[2025-12-13 04:45:14](https://bsky.app/profile/japan.reuters.com/post/3m7su22laxl26)
-
----
-
-@cnbc.com
-
-A big week of economic data is next for a stock market in the throes of a major rotation
-
-[2025-12-13 04:45:02](https://bsky.app/profile/cnbc.com/post/3m7stzpck2j2m)
-
----
-
-@japan.reuters.com
-
-欧州連合（ＥＵ）は１２日、域内で管理されているロシア中央銀行の資産を無期限で凍結することで合意した。これまでは６カ月ごとに凍結の延長の是非を巡る投票を実施していたが、無期限で凍結することで、ロシアと比較的良好な関係を持つハンガリーやスロバキアなどが反対する事態を防ぐ狙いがあるとみられる。 bit.ly/3YbvUgJ
-
-[2025-12-13 04:44:57](https://bsky.app/profile/japan.reuters.com/post/3m7stzl547w2s)
-
----
-
-@nytimes.com
-
-The National Trust for Historic Preservation filed a federal lawsuit Friday to block President Trump’s construction of a large new ballroom on White House grounds, arguing that he violated at least four laws in bypassing any review process.
-
-[2025-12-13 04:44:41](https://bsky.app/profile/nytimes.com/post/3m7stz3wwx22y)
-
----
-
-@reuters.com
-
-Arcus scraps late-stage cancer trial after weak survival data reut.rs/48LcofK
-
-[2025-12-13 04:40:19](https://bsky.app/profile/reuters.com/post/3m7strbouyp23)
+[2025-12-13 05:05:10](https://bsky.app/profile/reuters.com/post/3m7sv5pslwb2i)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-ロシアの裁判所 ICC赤根智子所長らに本人不在のまま有罪判決
-https://news.web.nhk/newsweb/na/na-k10015002861000
+定数削減法案 成立厳しい情勢 自民党内では来年に見送り案も
+https://news.web.nhk/newsweb/na/na-k10015002751000
 
-[2025-12-13 04:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7stp3272b2m)
-
----
-
-@yahoofinance.com
-
-5 major crypto companies just got one step closer to becoming banks
-
-[2025-12-13 04:36:04](https://bsky.app/profile/yahoofinance.com/post/3m7stjopxyy2j)
+[2025-12-13 05:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7suzxrlsm2m)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@usatoday.com
 
-Farmers call for French blockades over cattle cull
+The lake dates back to the Ice Age, when it was once 600 feet deep.
 
-[2025-12-13 04:35:30](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7stioif6s2a)
+[2025-12-13 05:01:31](https://bsky.app/profile/usatoday.com/post/3m7sux6lmuu2s)
+
+---
+
+@japan.reuters.com
+
+米カンザスシティー地区連銀のシュミッド総裁は、金融政策は「過熱」するインフレを抑制するために控えめに引き締め的であり続けるべきとの考えから、今週の米連邦公開市場委員会（ＦＯＭＣ）で２５ベーシスポイント（ｂｐ）の追加利下げに反対したと述べた。 bit.ly/3KwZudk
+
+[2025-12-13 05:01:15](https://bsky.app/profile/japan.reuters.com/post/3m7suwp6civ27)
+
+---
+
+@apnews.com
+
+British writer Joanna Trollope, known for her bestselling novels about romantic escapades in rural England, has died at 82.
+
+[2025-12-13 05:01:10](https://bsky.app/profile/apnews.com/post/3m7suwko6gz2r)
+
+---
+
+@cnn.com
+
+Venezuelan opposition leader María Corina Machado said Friday that she is focused on an orderly transition of power in her country should President Nicolás Maduro leave power, and is confident that Venezuela’s police and armed forces would not oppose such a transition. https://cnn.it/4q9IXv1
+
+[2025-12-13 05:01:06](https://bsky.app/profile/cnn.com/post/3m7suwgiave26)
 
 ---
 
