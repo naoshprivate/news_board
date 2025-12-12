@@ -1,9 +1,9 @@
-# [2025-12-13 00:50 updated](2025_12_13.md)
+# [2025-12-13 01:10 updated](2025_12_13.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Iranian security forces on Friday "violently" arrested the 2023 Nobel Peace Prize winner Narges Mohammadi at a memorial ceremony for a lawyer who died earlier this month, her supporters said ➡️ u.afp.com/S727 <a href="https://bsky.app/profile/en.afp.com/post/3m7sgqzq2772j" target="_blank">en.afp.com</a> (2025-12-13 00:47:32)</span><span style="padding-right:50px;">Jamie Lee Curtis takes inspiration from Elvis Costello’s “Deep, Dark Truthful Mirror,” and says no one can run from the reality of aging for too long.  On this week’s Wild Card, she talks about what she’s learned from getting sober and the legacy of her mother.  Watch the full episode: n.pr/48AOjtk <a href="https://bsky.app/profile/npr.org/post/3m7sgnio73k2g" target="_blank">npr.org</a> (2025-12-13 00:45:34)</span><span style="padding-right:50px;">UK sanctions RSF commanders over links to mass killings in Sudan reut.rs/4a7Cxrr <a href="https://bsky.app/profile/reuters.com/post/3m7sgn7mu6u2r" target="_blank">reuters.com</a> (2025-12-13 00:45:24)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】「5階から黒煙が見える」広島市の繁華街で火災 1人搬送 (2025-12-13 00:36:23) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7sgghbwdf2y" target="_blank">sokuho.news</a> (2025-12-13 00:41:37)</span><span style="padding-right:50px;">Kosovo starts accepting third-party deportees from the US reut.rs/44S3yM0 <a href="https://bsky.app/profile/reuters.com/post/3m7sge5gyea2r" target="_blank">reuters.com</a> (2025-12-13 00:40:20)</span>
+<span style="padding-right:50px;">Less than six months after President Donald Trump deployed the National Guard to Washington, DC, the mission is becoming more perilous and complex — and perhaps more permanent. https://cnn.it/4pCFiGb <a href="https://bsky.app/profile/cnn.com/post/3m7shtzjays2u" target="_blank">cnn.com</a> (2025-12-13 01:07:06)</span><span style="padding-right:50px;">🇺🇦 🇪🇺 🇺🇸 Ukraine could join the European Union as early as January 2027 under the latest US plan to end the war with Russia, a senior source familiar with the matter told AFP on Friday ➡️ u.afp.com/S722 <a href="https://bsky.app/profile/en.afp.com/post/3m7shtv3rsd2q" target="_blank">en.afp.com</a> (2025-12-13 01:07:02)</span><span style="padding-right:50px;">An official on Jeju Island in South Korea is accused of pocketing the cash from the sale of government-issued trash bags that cost as little as 7 cents each. He accumulated more than $400,000 over about four years, prosecutors said. <a href="https://bsky.app/profile/nytimes.com/post/3m7shsvksm62r" target="_blank">nytimes.com</a> (2025-12-13 01:06:29)</span><span style="padding-right:50px;"> Europe’s first pure-play tree company is a nice little grower on.ft.com/48RsuEG  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m7shsdtqie2f" target="_blank">financialtimes.com</a> (2025-12-13 01:06:10)</span><span style="padding-right:50px;"> The dangerous thrill of buying Warner Bros is not gone on.ft.com/48xDrfI  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m7shsdcpgi2y" target="_blank">financialtimes.com</a> (2025-12-13 01:06:09)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48765.90 (🔺51.15 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23359.14 (🔻129.73 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 179.90 (🔻1.36 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 156.01 (🔺0.48 : 2025-12-12)</span>
+<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48457.58 (🔻257.17 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23173.70 (🔻315.17 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 176.94 (🔻4.32 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.78 (🔺0.24 : 2025-12-12)</span>
   </div>
 </div>
 
@@ -32,101 +32,94 @@
 
 ## News Headlines
 
-Here are six important stories from the news with headlines in Japanese:
+Here are six news headlines in Japanese:
 
-1.  🛎️JNNより【速報】です。  「5階から黒煙が見える」広島市の繁華街で火災 1人搬送
-2.  連邦議会がエピスタイン家の写真を公開、トランプ氏やビル・クリントン氏などが写っている
-3.  「ウクライナ軍は勝利を宣言　プーチン氏が獲得した町は「実質的にロシアのものではない」
-4.  CNN、「エピスタインの弊社の写真が公開される」トランプ氏やビル・クリントン氏などが写っている
-5.  連邦議会がエピスタインの写真を公開　トランプ氏やビル・クリントン氏などが写っている
-6.  フェデラル・リザーブの官僚が、利子引き下げがインフレ予測に影響するかどうかで意見が分かれる
+1.  ウォーカー: ドナルド・トランプ政権、ワシントンへの国民警備隊の派遣がより危険で複雑になり始めた
+2.  ウクライナがEU加盟を目指す計画　2027年1月までにEU加盟国に
+3.  韓国官僚が官公庁のごみ袋から400万ドルを横領
+4.  ドナルド・トランプとビル・クリントン写真が公開
+5.  イランのノーベル平和賞受賞者逮捕　人権活動家
+6.  インドのインフレ率が記録低水準から回復　政策金利の引き下げの余裕あり
 
 ----
 
+@cnn.com
+
+Less than six months after President Donald Trump deployed the National Guard to Washington, DC, the mission is becoming more perilous and complex — and perhaps more permanent. https://cnn.it/4pCFiGb
+
+[2025-12-13 01:07:06](https://bsky.app/profile/cnn.com/post/3m7shtzjays2u)
+
+---
+
 @en.afp.com
 
-Iranian security forces on Friday "violently" arrested the 2023 Nobel Peace Prize winner Narges Mohammadi at a memorial ceremony for a lawyer who died earlier this month, her supporters said ➡️ u.afp.com/S727
+🇺🇦 🇪🇺 🇺🇸 Ukraine could join the European Union as early as January 2027 under the latest US plan to end the war with Russia, a senior source familiar with the matter told AFP on Friday ➡️ u.afp.com/S722
 
-[2025-12-13 00:47:32](https://bsky.app/profile/en.afp.com/post/3m7sgqzq2772j)
+[2025-12-13 01:07:02](https://bsky.app/profile/en.afp.com/post/3m7shtv3rsd2q)
+
+---
+
+@nytimes.com
+
+An official on Jeju Island in South Korea is accused of pocketing the cash from the sale of government-issued trash bags that cost as little as 7 cents each. He accumulated more than $400,000 over about four years, prosecutors said.
+
+[2025-12-13 01:06:29](https://bsky.app/profile/nytimes.com/post/3m7shsvksm62r)
+
+---
+
+@financialtimes.com
+
+ Europe’s first pure-play tree company is a nice little grower on.ft.com/48RsuEG  | opinion
+
+[2025-12-13 01:06:10](https://bsky.app/profile/financialtimes.com/post/3m7shsdtqie2f)
+
+---
+
+@financialtimes.com
+
+ The dangerous thrill of buying Warner Bros is not gone on.ft.com/48xDrfI  | opinion
+
+[2025-12-13 01:06:09](https://bsky.app/profile/financialtimes.com/post/3m7shsdcpgi2y)
+
+---
+
+@wsj.com
+
+Stetson, known for its cowboy hats, has been embracing the Americana trend for years. Now it’s preparing for what comes next. on.wsj.com/48R5Egv
+
+[2025-12-13 01:06:04](https://bsky.app/profile/wsj.com/post/3m7shs5z2wt2k)
+
+---
+
+@reuters.com
+
+Liverpool boss Slot to meet Salah amid tension reut.rs/4rUO97t
+
+[2025-12-13 01:05:15](https://bsky.app/profile/reuters.com/post/3m7shqpegu62k)
+
+---
+
+@cnbc.com
+
+Homeowners are losing thousands in equity thanks to weakening prices
+
+[2025-12-13 01:04:21](https://bsky.app/profile/cnbc.com/post/3m7shp4d4qv2b)
 
 ---
 
 @npr.org
 
-Jamie Lee Curtis takes inspiration from Elvis Costello’s “Deep, Dark Truthful Mirror,” and says no one can run from the reality of aging for too long.
+Was Judge Hannah Dugan trying to obstruct a proceeding or trying to run her courtroom when ICE agents came to arrest an undocumented immigrant? A federal jury will decide n.pr/4rKellc
 
-On this week’s Wild Card, she talks about what she’s learned from getting sober and the legacy of her mother.
-
-Watch the full episode: n.pr/48AOjtk
-
-[2025-12-13 00:45:34](https://bsky.app/profile/npr.org/post/3m7sgnio73k2g)
+[2025-12-13 01:03:20](https://bsky.app/profile/npr.org/post/3m7shnbthk42e)
 
 ---
 
-@reuters.com
+@wsj.com
 
-UK sanctions RSF commanders over links to mass killings in Sudan reut.rs/4a7Cxrr
+Selected by Allegra Goodman, the author of the novel “Isola.” on.wsj.com/4iZxwnk
 
-[2025-12-13 00:45:24](https://bsky.app/profile/reuters.com/post/3m7sgn7mu6u2r)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】「5階から黒煙が見える」広島市の繁華街で火災 1人搬送
-(2025-12-13 00:36:23) #ニュース
-
-[2025-12-13 00:41:37](https://bsky.app/profile/sokuho.news/post/3m7sgghbwdf2y)
-
----
-
-@reuters.com
-
-Kosovo starts accepting third-party deportees from the US reut.rs/44S3yM0
-
-[2025-12-13 00:40:20](https://bsky.app/profile/reuters.com/post/3m7sge5gyea2r)
-
----
-
-@nbcnews.com
-
-Wisconsin quietly emerges as the latest front in the national redistricting fight, with a never-before-used legal process set to likely determine the state's congressional lines in the midterm election.
-
-[2025-12-13 00:40:07](https://bsky.app/profile/nbcnews.com/post/3m7sgdrgazq26)
-
----
-
-@yahoofinance.com
-
-Carvana, Robinhood, Coinbase: How 3 of the market's biggest 2022 losers ended up in the S&P 500 this year
-
-[2025-12-13 00:36:14](https://bsky.app/profile/yahoofinance.com/post/3m7sg4tbqym2d)
-
----
-
-@washingtonpost.com
-
-<strong><span style="color: red;">Breaking news:</span> Secret meetings between Ukraine’s top peace negotiator and FBI leaders have injected new uncertainty into high-stakes talks.</strong><br><strong></strong><br><strong>The meetings have caused alarm among Western officials who remain in the dark about their intent and purpose.</strong>
-
-[2025-12-13 00:35:16](https://bsky.app/profile/washingtonpost.com/post/3m7sg33yodn25)
-
----
-
-@reuters.com
-
-Renault exits car-sharing, scales back EV charging as it puts profits first in tough market reut.rs/3MVNLpb
-
-[2025-12-13 00:35:11](https://bsky.app/profile/reuters.com/post/3m7sg2wpzbb2c)
-
----
-
-@forbes.com
-
-House Democrats released the 19 images Friday. 
-
-[2025-12-13 00:35:02](https://bsky.app/profile/forbes.com/post/3m7sg2oxclh2s)
+[2025-12-13 01:02:00](https://bsky.app/profile/wsj.com/post/3m7shkv7g262c)
 
 ---
 
