@@ -1,9 +1,9 @@
-# [2025-12-13 08:10 updated](2025_12_13.md)
+# [2025-12-13 08:30 updated](2025_12_13.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Trump's $100,000 H-1B visa fee draws legal challenge from US states reut.rs/4pANWVH <a href="https://bsky.app/profile/reuters.com/post/3m7t77nrwo623" target="_blank">reuters.com</a> (2025-12-13 08:05:13)</span><span style="padding-right:50px;">Nobel Peace Prize committee condemns "brutal" arrest of Iranian laureate Narges Mohammadi reut.rs/4pANWoF <a href="https://bsky.app/profile/reuters.com/post/3m7t77js6gt2s" target="_blank">reuters.com</a> (2025-12-13 08:05:08)</span><span style="padding-right:50px;">NY株式市場 ダウ下落 ナスダック大幅下落 AI関連に売り優勢 https://news.web.nhk/newsweb/na/na-k10015002961000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7t73tzyn72d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-13 08:03:03)</span><span style="padding-right:50px;">US lifts sanctions on Brazil judge targeted by Trump reut.rs/3KY7pAo <a href="https://bsky.app/profile/reuters.com/post/3m7t6yl57l62x" target="_blank">reuters.com</a> (2025-12-13 08:01:15)</span><span style="padding-right:50px;">More than two weeks after being shot in the head in Washington, DC, National Guard Staff Sargent Andrew Wolfe, 24, is breathing on his own and can stand with assistance, according to MedStar Washington Hospital Center. https://cnn.it/4aePUX0 <a href="https://bsky.app/profile/cnn.com/post/3m7t6ybc7bl2c" target="_blank">cnn.com</a> (2025-12-13 08:01:05)</span>
+<span style="padding-right:50px;">Trump's order targeting state AI laws faces political and legal hurdles reut.rs/4pu3dr6 <a href="https://bsky.app/profile/reuters.com/post/3m7taderdek2y" target="_blank">reuters.com</a> (2025-12-13 08:25:11)</span><span style="padding-right:50px;">Cramer's week ahead: New economic data and earnings from FedEx, Jabil <a href="https://bsky.app/profile/cnbc.com/post/3m7tabulyny2e" target="_blank">cnbc.com</a> (2025-12-13 08:24:21)</span><span style="padding-right:50px;">South Carolina measles outbreak accelerates as cases rise to 126 reut.rs/4aKFyht <a href="https://bsky.app/profile/reuters.com/post/3m7t7rodjzm2s" target="_blank">reuters.com</a> (2025-12-13 08:15:17)</span><span style="padding-right:50px;">YouTube has hit pause on a dating show that whisked eight men and women from deeply conservative Pakistan to a sun-soaked Istanbul villa, where the strangers mingled, flirted and searched for chemistry.  u.afp.com/S76y <a href="https://bsky.app/profile/en.afp.com/post/3m7t7r7z47p2y" target="_blank">en.afp.com</a> (2025-12-13 08:15:02)</span><span style="padding-right:50px;">The rush is on to make year-end tax moves for 2025. Here’s what to know to shrink what you’ll owe. on.wsj.com/3KHS32Y <a href="https://bsky.app/profile/wsj.com/post/3m7t7nro3bj2u" target="_blank">wsj.com</a> (2025-12-13 08:13:06)</span>
   </div>
 </div>
 
@@ -32,14 +32,66 @@
 
 ## News Headlines
 
-1. アメリカのH-1Bビザ100,000ドル請求に州が訴訟を起こす
-2. ノーベル平和賞委員会「イランの女性受賞者への拘束は残虐行為」
-3. US株式市場　ダウ・ナスダック大幅下落　AI関連に売り優勢
-4. ブラジル裁判官への制裁解除　トランプ政権が決定
-5. ワシントンD.C.で銃撃されたガード隊員　２週間で「呼吸ができる」に
-6. 中国のスシローで最大14時間の待ち　値段は1皿10-28元
+Here are six news headlines in Japanese:
+
+1. トランプ政権がAIに関する州法の規制を抑制するための命令に対する反対が生じる
+2. YouTubeがパキスタンから参加者を招集したデートショーを放送を停止
+3. 2025年末の税金の対処のヒント: どうすれば税金を節約できるか
+4. ウクライナからの軍事侵攻と戦争による被害を訴える
+5. ドルが円やドル以外の主要通貨に対して上昇
+6. チャーリー3世、癌の治療を減らす
 
 ----
+
+@reuters.com
+
+Trump's order targeting state AI laws faces political and legal hurdles reut.rs/4pu3dr6
+
+[2025-12-13 08:25:11](https://bsky.app/profile/reuters.com/post/3m7taderdek2y)
+
+---
+
+@cnbc.com
+
+Cramer's week ahead: New economic data and earnings from FedEx, Jabil
+
+[2025-12-13 08:24:21](https://bsky.app/profile/cnbc.com/post/3m7tabulyny2e)
+
+---
+
+@reuters.com
+
+South Carolina measles outbreak accelerates as cases rise to 126 reut.rs/4aKFyht
+
+[2025-12-13 08:15:17](https://bsky.app/profile/reuters.com/post/3m7t7rodjzm2s)
+
+---
+
+@en.afp.com
+
+YouTube has hit pause on a dating show that whisked eight men and women from deeply conservative Pakistan to a sun-soaked Istanbul villa, where the strangers mingled, flirted and searched for chemistry.
+
+u.afp.com/S76y
+
+[2025-12-13 08:15:02](https://bsky.app/profile/en.afp.com/post/3m7t7r7z47p2y)
+
+---
+
+@wsj.com
+
+The rush is on to make year-end tax moves for 2025. Here’s what to know to shrink what you’ll owe. on.wsj.com/3KHS32Y
+
+[2025-12-13 08:13:06](https://bsky.app/profile/wsj.com/post/3m7t7nro3bj2u)
+
+---
+
+@reuters.com
+
+Law firms Winston & Strawn, Taylor Wessing in talks to merge reut.rs/4pYhImM
+
+[2025-12-13 08:10:17](https://bsky.app/profile/reuters.com/post/3m7t7iq5alu2s)
+
+---
 
 @reuters.com
 
@@ -71,61 +123,6 @@ https://news.web.nhk/newsweb/na/na-k10015002961000
 US lifts sanctions on Brazil judge targeted by Trump reut.rs/3KY7pAo
 
 [2025-12-13 08:01:15](https://bsky.app/profile/reuters.com/post/3m7t6yl57l62x)
-
----
-
-@cnn.com
-
-More than two weeks after being shot in the head in Washington, DC, National Guard Staff Sargent Andrew Wolfe, 24, is breathing on his own and can stand with assistance, according to MedStar Washington Hospital Center. https://cnn.it/4aePUX0
-
-[2025-12-13 08:01:05](https://bsky.app/profile/cnn.com/post/3m7t6ybc7bl2c)
-
----
-
-@apnews.com
-
-Country star Jelly Roll is ready to win a Grammy. The “Beautifully Broken” singer has three nominations this year. He has been nominated three consecutive years. This time around, he's up for his first album award and his first award in a contemporary Christian music category. 
-
-[2025-12-13 08:01:03](https://bsky.app/profile/apnews.com/post/3m7t6y76ven2q)
-
----
-
-@nikkei.com
-
-中国のスシロー、最大14時間待ち
-www.nikkei.com/article/DGXZQO...
-
-すしは1皿10〜28元（約220〜615円）。スシローを訪れた男性は「味もいいし値段も安い。SNSで評判になるはずだ」と気に入った様子です。
-
-消費がさえず高級レストランが相次ぎ閉店する一方、コスパ志向から回転ずし人気が高まっているといいます。
-
-[2025-12-13 08:00:48](https://bsky.app/profile/nikkei.com/post/3m7t6xrcmx322)
-
----
-
-@usatoday.com
-
-"I just feel that this is unfair for those who fought for our country to be treated this way," Sae Joon Park told USA TODAY in an exclusive interview.
-
-[2025-12-13 08:00:38](https://bsky.app/profile/usatoday.com/post/3m7t6xhy2wa2w)
-
----
-
-@cnbc.com
-
-Consumers are psychologically more comfortable spending when they use a credit card, a 2001 MIT study found. 
-
-Though "cash stuffing" and "cash diets" have been popular strategies to save money, younger adults are “out of touch” or even “cringe,” when using paper money.
-
-[2025-12-13 08:00:30](https://bsky.app/profile/cnbc.com/post/3m7t6xa2td424)
-
----
-
-@bloomberg.com
-
-David Sacks defended the president's push to rein in state-level regulation of artificial intelligence over objections from Democrats, saying the move seeks to ease a growing compliance burden for companies.
-
-[2025-12-13 08:00:22](https://bsky.app/profile/bloomberg.com/post/3m7t6wyaok72u)
 
 ---
 
