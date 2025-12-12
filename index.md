@@ -1,9 +1,9 @@
-# [2025-12-12 21:10 updated](2025_12_12.md)
+# [2025-12-12 21:30 updated](2025_12_12.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Americans, including many in Trump’s base, overwhelmingly see higher holiday prices than normal, an AP-NORC poll finds. <a href="https://bsky.app/profile/apnews.com/post/3m7s2jpok4o2p" target="_blank">apnews.com</a> (2025-12-12 21:08:42)</span><span style="padding-right:50px;">🇨🇭 🇺🇸 American alpine ski veteran Lindsey Vonn cemented her remarkable comeback in style on Friday with her first World Cup win since 2018 in the women's downhill at St Moritz ➡️ u.afp.com/S7B8 <a href="https://bsky.app/profile/en.afp.com/post/3m7s2dusnit2j" target="_blank">en.afp.com</a> (2025-12-12 21:05:26)</span><span style="padding-right:50px;">India cabinet approves opening of nuclear, insurance sectors for private investment, sources say reut.rs/4p9kdlL <a href="https://bsky.app/profile/reuters.com/post/3m7s2dhr2yg2p" target="_blank">reuters.com</a> (2025-12-12 21:05:12)</span><span style="padding-right:50px;">維新 OTC類似薬で提言 “保険給付を維持し一部を患者負担に” https://news.web.nhk/newsweb/na/na-k10015002671000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7s27ryz5t2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-12 21:03:07)</span><span style="padding-right:50px;">新千歳空港 プライベート機が滑走路逸脱 けが人なし https://news.web.nhk/newsweb/na/na-k10015002611000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7s27nmvr32w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-12 21:03:02)</span>
+<span style="padding-right:50px;">Early awards contenders like One Battle Battle After Another and Bugonia were shot on revived VistaVision cameras — a throwback format gaining popularity in Hollywood. n.pr/3XQVBmn <a href="https://bsky.app/profile/npr.org/post/3m7s3hc2d4g23" target="_blank">npr.org</a> (2025-12-12 21:25:14)</span><span style="padding-right:50px;">EU to impose 3 euro duty on small e-commerce parcels from July 2026 reut.rs/4aigCxX <a href="https://bsky.app/profile/reuters.com/post/3m7s3h7tw6v2i" target="_blank">reuters.com</a> (2025-12-12 21:25:12)</span><span style="padding-right:50px;">President Trump is expected to speak with Thailand’s prime minister on Friday, as he seeks burnish his self-styled image as a peacemaker by intervening in a border conflict between Thailand and Cambodia that entered its fifth day. <a href="https://bsky.app/profile/nytimes.com/post/3m7s3gxana52x" target="_blank">nytimes.com</a> (2025-12-12 21:25:03)</span><span style="padding-right:50px;">Ukraine would join EU by 2027 under draft peace plan on.ft.com/4adz7U3 <a href="https://bsky.app/profile/financialtimes.com/post/3m7s3dvnpre23" target="_blank">financialtimes.com</a> (2025-12-12 21:23:20)</span><span style="padding-right:50px;">Germany accuses Russia of 2024 cyber attack and election disinformation campaign <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7s3dmhse62r" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-12 21:23:10)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48704.01 (🔺621.11 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23593.86 (🔺84.64 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.93 (🔺0.65 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.94 (🔺0.41 : 2025-12-12)</span>
+<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48704.01 (🔺621.11 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23593.86 (🔺84.64 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.93 (🔺0.65 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.93 (🔺0.40 : 2025-12-12)</span>
   </div>
 </div>
 
@@ -32,101 +32,92 @@
 
 ## News Headlines
 
-以下の6つのニュースのヘッドラインです。
-
-1. 予定なしクリスマス　54％
-2. シンガポールから来たプライベートジェット機が滑走路をオーバーラン
-3. インド政府、OTC類似薬の保険外しを見送り　利用者に追加負担を要求
-4. ボーイング買いを推すCiti　新年に向けて
-5. 台湾問題で高市首相が事前資料を含まずに答弁　立憲民主党が指摘
-6. イスラエル軍、ヘzbollahを追い詰めるためヒルズやバレーで大規模な攻撃
+1. EUが小型のeコマースパッケージに3ユーロの税率を2026年7月から導入
+2. トランプ大統領がタイ首相と交渉　カンボジアとの国境紛争を平和化するため
+3. ユーロビジョンソングコンテストの優勝者が賞品を返却　イスラエルが参加したため
+4. ドイツがロシアにサイバー攻撃と選挙妨害を非難
+5. 米政府がボストン市の住宅政策を調査　白人を差別した疑い
+6. アメリカのski選手リンジー・ボンがスイスで優勝　2018年以来初
 
 ----
 
-@apnews.com
+@npr.org
 
-Americans, including many in Trump’s base, overwhelmingly see higher holiday prices than normal, an AP-NORC poll finds.
+Early awards contenders like One Battle Battle After Another and Bugonia were shot on revived VistaVision cameras — a throwback format gaining popularity in Hollywood. n.pr/3XQVBmn
 
-[2025-12-12 21:08:42](https://bsky.app/profile/apnews.com/post/3m7s2jpok4o2p)
-
----
-
-@en.afp.com
-
-🇨🇭 🇺🇸 American alpine ski veteran Lindsey Vonn cemented her remarkable comeback in style on Friday with her first World Cup win since 2018 in the women's downhill at St Moritz ➡️ u.afp.com/S7B8
-
-[2025-12-12 21:05:26](https://bsky.app/profile/en.afp.com/post/3m7s2dusnit2j)
+[2025-12-12 21:25:14](https://bsky.app/profile/npr.org/post/3m7s3hc2d4g23)
 
 ---
 
 @reuters.com
 
-India cabinet approves opening of nuclear, insurance sectors for private investment, sources say reut.rs/4p9kdlL
+EU to impose 3 euro duty on small e-commerce parcels from July 2026 reut.rs/4aigCxX
 
-[2025-12-12 21:05:12](https://bsky.app/profile/reuters.com/post/3m7s2dhr2yg2p)
-
----
-
-@nhknewsunofficial.bsky.social
-
-維新 OTC類似薬で提言 “保険給付を維持し一部を患者負担に”
-https://news.web.nhk/newsweb/na/na-k10015002671000
-
-[2025-12-12 21:03:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7s27ryz5t2w)
+[2025-12-12 21:25:12](https://bsky.app/profile/reuters.com/post/3m7s3h7tw6v2i)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@nytimes.com
 
-新千歳空港 プライベート機が滑走路逸脱 けが人なし
-https://news.web.nhk/newsweb/na/na-k10015002611000
+President Trump is expected to speak with Thailand’s prime minister on Friday, as he seeks burnish his self-styled image as a peacemaker by intervening in a border conflict between Thailand and Cambodia that entered its fifth day.
 
-[2025-12-12 21:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7s27nmvr32w)
-
----
-
-@wsj.com
-
-Pete Alonso and Edwin Diaz signed with other teams in free agency while Brandon Nimmo was traded in an offseason deal. on.wsj.com/4iQigZE
-
-[2025-12-12 21:02:02](https://bsky.app/profile/wsj.com/post/3m7s25sk6qa2t)
+[2025-12-12 21:25:03](https://bsky.app/profile/nytimes.com/post/3m7s3gxana52x)
 
 ---
 
-@reuters.com
+@financialtimes.com
 
-China's November new loans miss forecast as housing slump persists reut.rs/497wDFG
+Ukraine would join EU by 2027 under draft peace plan on.ft.com/4adz7U3
 
-[2025-12-12 21:01:00](https://bsky.app/profile/reuters.com/post/3m7s23xblnk2r)
-
----
-
-@nikkei.com
-
-台湾問題めぐる高市首相答弁、事前資料は「お答え差し控える」（無料記事）
-www.nikkei.com/article/DGXZQO...
-
-高市早苗首相は台湾有事を存立危機事態に「なり得る」と述べましたが、事前の政府資料には含まれていませんでした。
-
-立憲民主党の辻元清美参院議員は、答弁は首相の持論を展開したものだと指摘しました。
-
-[2025-12-12 21:00:51](https://bsky.app/profile/nikkei.com/post/3m7s23p6a7h2n)
+[2025-12-12 21:23:20](https://bsky.app/profile/financialtimes.com/post/3m7s3dvnpre23)
 
 ---
 
-@usatoday.com
+@bbcnews-world-rss.bsky.social
 
-President Trump said he hopes the top Republican in the Indiana state Senate loses his next primary after Indiana rejected a redistricting plan.
+Germany accuses Russia of 2024 cyber attack and election disinformation campaign
 
-[2025-12-12 21:00:33](https://bsky.app/profile/usatoday.com/post/3m7s235gcrk2o)
+[2025-12-12 21:23:10](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7s3dmhse62r)
 
 ---
 
 @nbcnews.com
 
-President Trump says he is pardoning Tina Peters, a former county clerk who was convicted last year in connection with a voting system's security breach. State crimes, however, are not shielded by presidential pardon powers.
+Swiss singer Nemo, who won the 2024 Eurovision Song Contest, says they will return the winner’s trophy because Israel is being allowed to compete in the politically troubled pop music competition.
 
-[2025-12-12 21:00:24](https://bsky.app/profile/nbcnews.com/post/3m7s22vasow2p)
+[2025-12-12 21:20:25](https://bsky.app/profile/nbcnews.com/post/3m7s36o5zam2x)
+
+---
+
+@reuters.com
+
+LIVE: Family of last hostage in Gaza gather in prayer youtube.com/live/iI4GiE0...
+
+[2025-12-12 21:19:37](https://bsky.app/profile/reuters.com/post/3m7s35akbok2p)
+
+---
+
+@wsj.com
+
+He is known to some as the Syrian equivalent of the Nazi henchman Adolf Eichmann. What will it take to bring Jamil Hassan to justice?
+
+[2025-12-12 21:18:51](https://bsky.app/profile/wsj.com/post/3m7s33uj7js2c)
+
+---
+
+@reuters.com
+
+UK stocks rise as precious metal miners shine; BoE in focus reut.rs/4rK2yTY
+
+[2025-12-12 21:15:27](https://bsky.app/profile/reuters.com/post/3m7s2vsptxi2i)
+
+---
+
+@reuters.com
+
+📉 Oracle's stock took a big, double-digit slide yesterday. Is there more tech pessimism coming? More on today's Morning Bid podcast reut.rs/496hTH4
+
+[2025-12-12 21:15:18](https://bsky.app/profile/reuters.com/post/3m7s2vjcb4c2l)
 
 ---
 
