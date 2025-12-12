@@ -1,9 +1,9 @@
-# [2025-12-12 16:30 updated](2025_12_12.md)
+# [2025-12-12 16:50 updated](2025_12_12.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">BREAKING Kosovo PM says Balkan state has started accepting migrants deported by United States <a href="https://bsky.app/profile/en.afp.com/post/3m7rksg2kle2q" target="_blank">en.afp.com</a> (2025-12-12 16:27:14)</span><span style="padding-right:50px;">Japan's core inflation likely held at 3.0% in November: Reuters poll reut.rs/48KjnFG <a href="https://bsky.app/profile/reuters.com/post/3m7rkomo65c24" target="_blank">reuters.com</a> (2025-12-12 16:25:06)</span><span style="padding-right:50px;">UK economy unexpectedly shrunk before Budget <a href="https://bsky.app/profile/cnbc.com/post/3m7rkobaa7e24" target="_blank">cnbc.com</a> (2025-12-12 16:24:55)</span><span style="padding-right:50px;">Europe set for positive open as Wall Street sentiment spills over <a href="https://bsky.app/profile/cnbc.com/post/3m7rkkh2ktd24" target="_blank">cnbc.com</a> (2025-12-12 16:22:46)</span><span style="padding-right:50px;">株価値上がり FRBが利下げ継続するという観測強まる https://news.web.nhk/newsweb/na/na-k10015001791000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rkhkmk722x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-12 16:21:07)</span>
+<span style="padding-right:50px;">米トランプ大統領 州法律などのAI過剰規制防ぐ大統領令に署名 https://news.web.nhk/newsweb/na/na-k10015002351000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rlxp4rxf2d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-12 16:48:03)</span><span style="padding-right:50px;">Malaysia drops appeal against acquittal of wife of ex-PM Najib in money laundering, tax evasion case reut.rs/3XTSWsa <a href="https://bsky.app/profile/reuters.com/post/3m7rlsgpxjk2b" target="_blank">reuters.com</a> (2025-12-12 16:45:08)</span><span style="padding-right:50px;">CNBC Daily Open: Record high U.S. stocks as investors rotate out of tech <a href="https://bsky.app/profile/cnbc.com/post/3m7rlrea3632g" target="_blank">cnbc.com</a> (2025-12-12 16:44:32)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】大阪・守口市の長屋で火事京阪萱島駅から約600mの住宅街 (2025-12-12 16:41:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7rlpx4xsn2y" target="_blank">sokuho.news</a> (2025-12-12 16:43:45)</span><span style="padding-right:50px;">Verdict for Hong Kong tycoon Jimmy Lai's national security trial expected on Monday reut.rs/4rXAyMY <a href="https://bsky.app/profile/reuters.com/post/3m7rljiz5fk2r" target="_blank">reuters.com</a> (2025-12-12 16:40:09)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48704.01 (🔺621.11 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23593.86 (🔺84.64 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.93 (🔺0.65 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.66 (🔺0.13 : 2025-12-12)</span>
+<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48704.01 (🔺621.11 : 2025-12-11)</span><span style="padding-right:50px;">NASDAQ: 23593.86 (🔺84.64 : 2025-12-11)</span><span style="padding-right:50px;">NVIDIA: 180.93 (🔺0.65 : 2025-12-11)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.56 (🔺0.03 : 2025-12-12)</span>
   </div>
 </div>
 
@@ -32,62 +32,37 @@
 
 ## News Headlines
 
-1. コソボの首相「米国からの移民を受け入れるようになった」
-2. 株価値上がり、FRBが利下げ継続する観測が強まる
-3. 日本のインフレ率3.0％維持か　リッターズ調査
-4. ハウステンボス最大約150万人の顧客情報が流出した
-5. パキスタン中央銀行、11％の基調利率を維持か
-6. インドのデッコック選手が南アフリカのインド戦で51点差で勝利
+1. 米トランプ大統領がAI規制防止令に署名
+2. マレーシア、前首相の妻が金洗浄、税額差し控え事件で無罪判決確定
+3. 大阪・守口市で住宅火事　消火活動継続中
+4. 香港実業家のチャイ・ミニー・ライの国家安全保障法違反裁判、12日判決
+5. 來栖雅子がゲームアワード2025でゲームオブザイヤーを受賞
+6. インドネシアと米国が12月までにFTA合意を締結する可能性
 
 ----
 
-@en.afp.com
+@nhknewsunofficial.bsky.social
 
-<strong><span style="color: red;">BREAKING </span>Kosovo PM says Balkan state has started accepting migrants deported by United States</strong>
+米トランプ大統領 州法律などのAI過剰規制防ぐ大統領令に署名
+https://news.web.nhk/newsweb/na/na-k10015002351000
 
-[2025-12-12 16:27:14](https://bsky.app/profile/en.afp.com/post/3m7rksg2kle2q)
+[2025-12-12 16:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rlxp4rxf2d)
 
 ---
 
 @reuters.com
 
-Japan's core inflation likely held at 3.0% in November: Reuters poll reut.rs/48KjnFG
+Malaysia drops appeal against acquittal of wife of ex-PM Najib in money laundering, tax evasion case reut.rs/3XTSWsa
 
-[2025-12-12 16:25:06](https://bsky.app/profile/reuters.com/post/3m7rkomo65c24)
-
----
-
-@cnbc.com
-
-UK economy unexpectedly shrunk before Budget
-
-[2025-12-12 16:24:55](https://bsky.app/profile/cnbc.com/post/3m7rkobaa7e24)
+[2025-12-12 16:45:08](https://bsky.app/profile/reuters.com/post/3m7rlsgpxjk2b)
 
 ---
 
 @cnbc.com
 
-Europe set for positive open as Wall Street sentiment spills over
+CNBC Daily Open: Record high U.S. stocks as investors rotate out of tech
 
-[2025-12-12 16:22:46](https://bsky.app/profile/cnbc.com/post/3m7rkkh2ktd24)
-
----
-
-@nhknewsunofficial.bsky.social
-
-株価値上がり FRBが利下げ継続するという観測強まる
-https://news.web.nhk/newsweb/na/na-k10015001791000
-
-[2025-12-12 16:21:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rkhkmk722x)
-
----
-
-@nhknewsunofficial.bsky.social
-
-再審制度見直し 証拠の目的外使用禁止案に反対する申し入れ
-https://news.web.nhk/newsweb/na/na-k10015002311000
-
-[2025-12-12 16:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7rkhfd5ia2u)
+[2025-12-12 16:44:32](https://bsky.app/profile/cnbc.com/post/3m7rlrea3632g)
 
 ---
 
@@ -95,39 +70,61 @@ https://news.web.nhk/newsweb/na/na-k10015002311000
 
 🛎️JNNより【速報】です。
 
-【速報】「車両が燃えている」高速道路でトラックが炎上中 火事の影響で一部区間が通行止め 広島
-(2025-12-12 16:10:00) #ニュース
+【速報】大阪・守口市の長屋で火事京阪萱島駅から約600mの住宅街
+(2025-12-12 16:41:00) #ニュース
 
-[2025-12-12 16:19:03](https://bsky.app/profile/sokuho.news/post/3m7rkdscenu2e)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】住宅で火事 延焼も…消防車など13台出動 大阪・守口市
-(2025-12-12 16:16) #ニュース
-
-[2025-12-12 16:17:01](https://bsky.app/profile/sokuho.news/post/3m7rka5vgct26)
-
----
-
-@en.afp.com
-
-World Health Organization reaffirms there is no link between vaccines and autism -- contrary to theories being propagated in the United States
-
-u.afp.com/S78r
-
-[2025-12-12 16:16:59](https://bsky.app/profile/en.afp.com/post/3m7rka3w7fw2q)
+[2025-12-12 16:43:45](https://bsky.app/profile/sokuho.news/post/3m7rlpx4xsn2y)
 
 ---
 
 @reuters.com
 
-NFL fines and suspends Texans' Javier Loya for off-field conduct reut.rs/4aLsdFM
+Verdict for Hong Kong tycoon Jimmy Lai's national security trial expected on Monday reut.rs/4rXAyMY
 
-[2025-12-12 16:15:10](https://bsky.app/profile/reuters.com/post/3m7rk4thtjr2b)
+[2025-12-12 16:40:09](https://bsky.app/profile/reuters.com/post/3m7rljiz5fk2r)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】「1階から火が見えます」 住宅街の2階建て長屋住宅で火事 現在も消火活動中 大阪・守口市
+(2025-12-12 16:34:31) #ニュース
+
+[2025-12-12 16:39:00](https://bsky.app/profile/sokuho.news/post/3m7rlhhjck62a)
+
+---
+
+@reuters.com
+
+Reports: Royals land OF Lane Thomas on 1-year deal reut.rs/3KWvVSs
+
+[2025-12-12 16:35:09](https://bsky.app/profile/reuters.com/post/3m7rlalnlx32p)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+The hiker said he thought the ground was solid before his leg sank into the muck, trapping him until a rescue team arrived
+
+[2025-12-12 16:34:24](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7rl7asfxe2x)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Game Awards 2025: Clair Obscur Expedition 33 is game of the year
+
+[2025-12-12 16:33:17](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7rl5babyi2y)
+
+---
+
+@cnn.com
+
+Getting trapped in quicksand is a corny peril of old movies and TV shows, but it really did happen to one unfortunate hiker in Utah’s Arches National Park.
+
+[2025-12-12 16:32:01](https://bsky.app/profile/cnn.com/post/3m7rl2yaxr724)
 
 ---
 
