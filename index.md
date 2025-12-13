@@ -1,9 +1,9 @@
-# [2025-12-14 05:10 updated](2025_12_14.md)
+# [2025-12-14 05:30 updated](2025_12_14.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">BBC captures celebrations as Belarus frees political prisoners <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7vftxvrdp2v" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-14 05:09:16)</span><span style="padding-right:50px;">ベラルーシ 拘束されていた日本人男性など123人釈放 https://news.web.nhk/newsweb/na/na-k10015003391000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7vftndmlo2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-14 05:09:03)</span><span style="padding-right:50px;">自民合同会議 メガソーラー規制強化・支援廃止検討を 提言原案 https://news.web.nhk/newsweb/na/na-k10015003301000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7vfofvjdi2y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-14 05:06:07)</span><span style="padding-right:50px;">政府 拉致問題の解説動画をYouTubeで公開 若い世代に関心を https://news.web.nhk/newsweb/na/na-k10015003241000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7vfoam7li2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-14 05:06:02)</span><span style="padding-right:50px;">Raphinha double helps Barcelona overcome resilient Osasuna reut.rs/3YsyY80 <a href="https://bsky.app/profile/reuters.com/post/3m7vfmqipnm2b" target="_blank">reuters.com</a> (2025-12-14 05:05:14)</span>
+<span style="padding-right:50px;">PSG move top with nervy 3-2 win at bottom club Metz reut.rs/48XoHpp <a href="https://bsky.app/profile/reuters.com/post/3m7vgqfdj7r2p" target="_blank">reuters.com</a> (2025-12-14 05:25:10)</span><span style="padding-right:50px;">Abraham Quintanilla Jr., the music producer who turned Selena y Los Dinos, his small family band, into a Grammy Award-winning act, died on Saturday at age 86. He managed his daughter Selena’s career as she ascended to the peak of the Tejano music world, but he was a polarizing figure to some fans. <a href="https://bsky.app/profile/nytimes.com/post/3m7vgq7voyn2b" target="_blank">nytimes.com</a> (2025-12-14 05:25:04)</span><span style="padding-right:50px;">Chile heads to a presidential runoff on Sunday, with far-right contender José Antonio Kast — a supporter of former dictator Augusto Pinochet — tipped to win. n.pr/4aNsqbu <a href="https://bsky.app/profile/npr.org/post/3m7vgbynkta24" target="_blank">npr.org</a> (2025-12-14 05:17:07)</span><span style="padding-right:50px;">Usha Vance misses plenty about her old life.  She loved being a lawyer and had aspirations beyond working at a firm. She dreams of one day returning to Cincinnati and the home she shared with her husband, JD Vance, and their three children before he became vice president.   Read more: bit.ly/4qasuGN <a href="https://bsky.app/profile/usatoday.com/post/3m7vg6fupmw2o" target="_blank">usatoday.com</a> (2025-12-14 05:15:07)</span><span style="padding-right:50px;">Two American troops and a civilian interpreter were killed in central Syria on Saturday after an alleged member of the Islamic State (IS) group opened fire on a joint US-Syrian patrol, officials said.  u.afp.com/S7LB <a href="https://bsky.app/profile/en.afp.com/post/3m7vg6dt4pr2u" target="_blank">en.afp.com</a> (2025-12-14 05:15:04)</span>
   </div>
 </div>
 
@@ -32,16 +32,78 @@
 
 ## News Headlines
 
-Here are six important stories with Japanese headlines:
+Here are six headlines in Japanese:
 
-1.  ベラルーシ、政治犯の釈放はワシントンとの関係改善のための交渉の結果
-2.  ベルリンの自民合同会議でメガソーラー規制強化と支援の廃止を検討
-3.  政府、拉致問題の解説動画をYouTubeで公開　若い世代に関心を高める
-4.  ガザ紛争が米国の中学校に波及　イスラエルとパレスチナの紛争に生徒が巻き込まれる
-5.  北朝鮮がロシアのウクライナ戦争の一環として軍事行動を展開　国連が報告
-6.  食品配達員がドアダッシュの注文を空気感染症の疑いのあるスプレーで汚染　インディアナ州の女性が逮捕
+1. PSGがメッツに勝利し首位に返り咲く
+2. ベラルーシ、122人を除身から釈放
+3. 北朝鮮がウクライナ戦争でロシアに協力　核を持つ軍を派遣
+4. セレナの父親、テハーノー音楽界の人物
+5. トランプ大統領が報復を約束　イスラム国によるシリアでのアメリカ人殺害
+6. メタオーラー規制を強化・支援を廃止　自民合同会議
 
 ----
+
+@reuters.com
+
+PSG move top with nervy 3-2 win at bottom club Metz reut.rs/48XoHpp
+
+[2025-12-14 05:25:10](https://bsky.app/profile/reuters.com/post/3m7vgqfdj7r2p)
+
+---
+
+@nytimes.com
+
+Abraham Quintanilla Jr., the music producer who turned Selena y Los Dinos, his small family band, into a Grammy Award-winning act, died on Saturday at age 86. He managed his daughter Selena’s career as she ascended to the peak of the Tejano music world, but he was a polarizing figure to some fans.
+
+[2025-12-14 05:25:04](https://bsky.app/profile/nytimes.com/post/3m7vgq7voyn2b)
+
+---
+
+@npr.org
+
+Chile heads to a presidential runoff on Sunday, with far-right contender José Antonio Kast — a supporter of former dictator Augusto Pinochet — tipped to win. n.pr/4aNsqbu
+
+[2025-12-14 05:17:07](https://bsky.app/profile/npr.org/post/3m7vgbynkta24)
+
+---
+
+@usatoday.com
+
+Usha Vance misses plenty about her old life.
+
+She loved being a lawyer and had aspirations beyond working at a firm. She dreams of one day returning to Cincinnati and the home she shared with her husband, JD Vance, and their three children before he became vice president. 
+
+Read more: bit.ly/4qasuGN
+
+[2025-12-14 05:15:07](https://bsky.app/profile/usatoday.com/post/3m7vg6fupmw2o)
+
+---
+
+@en.afp.com
+
+Two American troops and a civilian interpreter were killed in central Syria on Saturday after an alleged member of the Islamic State (IS) group opened fire on a joint US-Syrian patrol, officials said.
+
+u.afp.com/S7LB
+
+[2025-12-14 05:15:04](https://bsky.app/profile/en.afp.com/post/3m7vg6dt4pr2u)
+
+---
+
+@cbsnews.com
+
+The Powerball jackpot rose to $1 billion for Saturday's drawing — the seventh-largest in the lottery game's history. 
+
+[2025-12-14 05:15:01](https://bsky.app/profile/cbsnews.com/post/3m7vg6anzfu2l)
+
+---
+
+@reuters.com
+
+Senegal confident injured trio will be ready for Cup of Nations reut.rs/48T8Xna
+
+[2025-12-14 05:10:23](https://bsky.app/profile/reuters.com/post/3m7vfvxokzi2p)
+
+---
 
 @bbcnews-world-rss.bsky.social
 
@@ -66,65 +128,6 @@ https://news.web.nhk/newsweb/na/na-k10015003391000
 https://news.web.nhk/newsweb/na/na-k10015003301000
 
 [2025-12-14 05:06:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7vfofvjdi2y)
-
----
-
-@nhknewsunofficial.bsky.social
-
-政府 拉致問題の解説動画をYouTubeで公開 若い世代に関心を
-https://news.web.nhk/newsweb/na/na-k10015003241000
-
-[2025-12-14 05:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7vfoam7li2m)
-
----
-
-@reuters.com
-
-Raphinha double helps Barcelona overcome resilient Osasuna reut.rs/3YsyY80
-
-[2025-12-14 05:05:14](https://bsky.app/profile/reuters.com/post/3m7vfmqipnm2b)
-
----
-
-@usatoday.com
-
-New Orleans started 2025 with a terrorist attack and prison escape and is ending it with a National Guard enforcement. But at least no hurricanes.
-
-[2025-12-14 05:05:06](https://bsky.app/profile/usatoday.com/post/3m7vfmitb562z)
-
----
-
-@usatoday.com
-
-<strong><span style="color: red;">JUST IN:</span> President Trump is vowing retaliation after three U.S. military personnel — two Army soldiers and a civilian interpreter — were killed on Saturday by a suspected Islamic State attacker who targeted a convoy of American and Syrian forces, the U.S. military said.</strong>
-
-[2025-12-14 05:01:51](https://bsky.app/profile/usatoday.com/post/3m7vfgovdpk2c)
-
----
-
-@wsj.com
-
-Do you and your giftee’s aesthetic leans traditional, high-tech, organic or modern? We’ve got you covered.
-
-We went the extra mile and shopped out a selection of stocking stuffers that suit each stocking’s aesthetic. 🔗 on.wsj.com/48JDRhW
-
-[2025-12-14 05:01:15](https://bsky.app/profile/wsj.com/post/3m7vffn6s7d2h)
-
----
-
-@nytimes.com
-
-After evaluating 92 shampoos, we lathered our way through 43 formulas to find six standouts, sorted by hair type.
-
-[2025-12-14 05:01:05](https://bsky.app/profile/nytimes.com/post/3m7vffdnk5u2y)
-
----
-
-@reuters.com
-
-Report: Galaxy finalizing deal for Union's Jakob Glesnes reut.rs/48T5bKu
-
-[2025-12-14 05:01:02](https://bsky.app/profile/reuters.com/post/3m7vffao6yd2o)
 
 ---
 
