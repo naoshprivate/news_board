@@ -1,9 +1,9 @@
-# [2025-12-14 00:10 updated](2025_12_14.md)
+# [2025-12-14 00:30 updated](2025_12_14.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Crypto group Tether submits €1.1bn bid for Juventus football club on.ft.com/3MXxX5j <a href="https://bsky.app/profile/financialtimes.com/post/3m7uv2cgdpm2w" target="_blank">financialtimes.com</a> (2025-12-14 00:08:35)</span><span style="padding-right:50px;">'Do what's right for you': What readers say about taking Social Security at 62 <a href="https://bsky.app/profile/yahoofinance.com/post/3m7uuvurioz26" target="_blank">yahoofinance.com</a> (2025-12-14 00:06:07)</span><span style="padding-right:50px;">Solving the mystery of the guitarist’s longevity may be our best hope of aging gracefully.  Read more: on.wsj.com/4s0bwwE  Corrects an earlier post, now deleted, that incorrectly referenced Mick Jagger. <a href="https://bsky.app/profile/wsj.com/post/3m7uuuuxbvk2o" target="_blank">wsj.com</a> (2025-12-14 00:05:33)</span><span style="padding-right:50px;">Williamson's first game since Euro final a highlight of Arsenal win reut.rs/4pZGKSK <a href="https://bsky.app/profile/reuters.com/post/3m7uuub7bxa2r" target="_blank">reuters.com</a> (2025-12-14 00:05:12)</span><span style="padding-right:50px;">More than 9mn US borrowers miss student loan payments as delinquencies rise on.ft.com/4rSDD0A <a href="https://bsky.app/profile/financialtimes.com/post/3m7uuoqiohx2k" target="_blank">financialtimes.com</a> (2025-12-14 00:02:07)</span>
+<span style="padding-right:50px;">Christos Tsirogiannis has spent almost two decades trawling through inventories of museums, auction houses and other collections for illegally trafficked antiquities. https://cnn.it/456kKgK <a href="https://bsky.app/profile/cnn.com/post/3m7uw6ugbbw2v" target="_blank">cnn.com</a> (2025-12-14 00:29:02)</span><span style="padding-right:50px;">New York City could see its first big snow of the season this weekend. <a href="https://bsky.app/profile/nytimes.com/post/3m7uw2curr72r" target="_blank">nytimes.com</a> (2025-12-14 00:26:29)</span><span style="padding-right:50px;">Play abandoned as rain hits Royal Johannesburg reut.rs/4q2NpLN <a href="https://bsky.app/profile/reuters.com/post/3m7uvxxye2u2b" target="_blank">reuters.com</a> (2025-12-14 00:25:11)</span><span style="padding-right:50px;">"Now, it's gone": A family lost their home in the Washington floods just months after moving due to the mom's cancer diagnosis.  <a href="https://bsky.app/profile/cbsnews.com/post/3m7uvqjys6z2c" target="_blank">cbsnews.com</a> (2025-12-14 00:21:01)</span><span style="padding-right:50px;">Crypto group Tether submits €1.1bn bid for Juventus football club on.ft.com/3MXxX5j <a href="https://bsky.app/profile/financialtimes.com/post/3m7uv2cgdpm2w" target="_blank">financialtimes.com</a> (2025-12-14 00:08:35)</span>
   </div>
 </div>
 
@@ -32,16 +32,48 @@
 
 ## News Headlines
 
-Here are six Japanese headlines:
+Here are six headlines in Japanese:
 
-1. チェリノバの会長がユヴェントスFCに1.1億ユーロの出資申し込み
-2. 年金を受け取りに62歳でいいのか？読者が語る
-3. ギタリストの超長寿の謎を解明することで、老化に通じるかもしれない
-4. ウィリアムソンが初の試合でアーセナルに勝利
-5. 米国で9百万人以上の学生ローン未納
-6. NFL選手の夫が妊娠したハイリー・スティーンフェルド
+1. 20年以上にわたり、古代文物の密売を追跡する男性
+2. ニューヨーク、初の大雪が今週末予想される
+3. ベルラウスのルカシェンコ大統領が放った囚人
+4. よくないニュース：父母と離縁した若者、インスタグラムで話題
+5. Netflix、空になったデパートを「ストレンジャー・シングス」という仮想空間に
+6. いいこと：4人の兄弟が健康診断を受け、心臓の病気を発見
 
 ----
+
+@cnn.com
+
+Christos Tsirogiannis has spent almost two decades trawling through inventories of museums, auction houses and other collections for illegally trafficked antiquities. https://cnn.it/456kKgK
+
+[2025-12-14 00:29:02](https://bsky.app/profile/cnn.com/post/3m7uw6ugbbw2v)
+
+---
+
+@nytimes.com
+
+New York City could see its first big snow of the season this weekend.
+
+[2025-12-14 00:26:29](https://bsky.app/profile/nytimes.com/post/3m7uw2curr72r)
+
+---
+
+@reuters.com
+
+Play abandoned as rain hits Royal Johannesburg reut.rs/4q2NpLN
+
+[2025-12-14 00:25:11](https://bsky.app/profile/reuters.com/post/3m7uvxxye2u2b)
+
+---
+
+@cbsnews.com
+
+"Now, it's gone": A family lost their home in the Washington floods just months after moving due to the mom's cancer diagnosis. 
+
+[2025-12-14 00:21:01](https://bsky.app/profile/cbsnews.com/post/3m7uvqjys6z2c)
+
+---
 
 @financialtimes.com
 
@@ -79,51 +111,24 @@ Williamson's first game since Euro final a highlight of Arsenal win reut.rs/4pZG
 
 ---
 
+@diannarussini.bsky.social
+
+The bulk of Week 15 is nearly here, and playoff spots can be clinched Sunday. This is what I’m hearing on:
+
+- Joe Burrow’s state of mind
+- The NFL’s interest in Marcus Freeman
+- The latest on Brandon Aiyuk
+- An officiating spotlight
+
+[2025-12-14 00:02:29](https://bsky.app/profile/diannarussini.bsky.social/post/3m7uupfccsk2h)
+
+---
+
 @financialtimes.com
 
 More than 9mn US borrowers miss student loan payments as delinquencies rise on.ft.com/4rSDD0A
 
 [2025-12-14 00:02:07](https://bsky.app/profile/financialtimes.com/post/3m7uuoqiohx2k)
-
----
-
-@wsj.com
-
-Fernando Mendoza turned down the Manning Passing Academy to spend more time working out with the Hoosiers. Now he’s leading the most improbable campaign in college football.  on.wsj.com/4rWfGp2
-
-[2025-12-14 00:02:02](https://bsky.app/profile/wsj.com/post/3m7uuolwzti2s)
-
----
-
-@wsj.com
-
-Parents publicly blast their adult offspring for cutting them off, drawing tens of thousands of online followers. on.wsj.com/4aNQuuS
-
-[2025-12-14 00:02:02](https://bsky.app/profile/wsj.com/post/3m7uuom27ff2e)
-
----
-
-@usatoday.com
-
-Hailee Steinfeld is pregnant and expecting her first child with husband and NFL player Josh Allen, the married couple confirmed on Instagram.
-
-[2025-12-14 00:01:22](https://bsky.app/profile/usatoday.com/post/3m7uunfavb32l)
-
----
-
-@reuters.com
-
-Who are the most prominent prisoners released by Belarusian president Lukashenko? reut.rs/4iYaGfR
-
-[2025-12-14 00:01:02](https://bsky.app/profile/reuters.com/post/3m7uums3w662y)
-
----
-
-@apnews.com
-
-Navigating holiday parties can be tough for introverts and people who are shy or have social anxiety.
-
-[2025-12-14 00:00:52](https://bsky.app/profile/apnews.com/post/3m7uumijot423)
 
 ---
 
