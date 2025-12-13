@@ -1,9 +1,9 @@
-# [2025-12-13 17:10 updated](2025_12_13.md)
+# [2025-12-13 17:30 updated](2025_12_13.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">エンジェルス 菊池雄星 WBCに意欲示す「前のめりで考えたい」 https://news.web.nhk/newsweb/na/na-k10015003191000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7u5m6tnc72x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-13 17:09:03)</span><span style="padding-right:50px;">米 AI開発の重要鉱物など確保へ 日本含む多国間の新枠組み発足 https://news.web.nhk/newsweb/na/na-k10015003131000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7u5gs7nve2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-13 17:06:02)</span><span style="padding-right:50px;">A peanut paste was saving Kenyan children - and then Trump took it away reut.rs/48QYDwa <a href="https://bsky.app/profile/reuters.com/post/3m7u5f5cwsq2k" target="_blank">reuters.com</a> (2025-12-13 17:05:09)</span><span style="padding-right:50px;">エプスタイン氏めぐり 女性と写るトランプ氏の写真など公開 https://news.web.nhk/newsweb/na/na-k10015003161000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7u5bgslka2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-13 17:03:02)</span><span style="padding-right:50px;">The United States accused Rwanda of fueling instability and war as a Rwanda-backed advance of the M23 rebel group in eastern Democratic Republic of Congo threatens to derail US President Donald Trump’s efforts to broker peace in the region.  <a href="https://bsky.app/profile/cnn.com/post/3m7u5bdokxg24" target="_blank">cnn.com</a> (2025-12-13 17:03:01)</span>
+<span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】長崎ヴェルカ 107-82で滋賀に勝利 プロバスケB1《長崎》 (2025-12-13 17:13) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7u5x4v3el2v" target="_blank">sokuho.news</a> (2025-12-13 17:15:12)</span><span style="padding-right:50px;">Two killed in Ukrainian drone strike on Russia's Saratov, regional governor says reut.rs/4oSEOKL <a href="https://bsky.app/profile/reuters.com/post/3m7u5wz2tsx24" target="_blank">reuters.com</a> (2025-12-13 17:15:09)</span><span style="padding-right:50px;">A “terrifying” new era of warfare is forcing America to rethink its tools and tactics as it prepares for great-power conflict with China. <a href="https://bsky.app/profile/wsj.com/post/3m7u5vfzdgi23" target="_blank">wsj.com</a> (2025-12-13 17:14:15)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】集合住宅で火災 住人の女性1人がケガ 「3階から煙が出ています」と通報 消防車など25台が出動 大阪・住吉区 (2025-12-13 16:30) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7u5owy5yn2b" target="_blank">sokuho.news</a> (2025-12-13 17:10:38)</span><span style="padding-right:50px;">China's Wang Yi seeks deeper oil and gas ties with UAE on Middle East tour reut.rs/3MFr3Sc <a href="https://bsky.app/profile/reuters.com/post/3m7u5oniek42y" target="_blank">reuters.com</a> (2025-12-13 17:10:28)</span>
   </div>
 </div>
 
@@ -32,16 +32,60 @@
 
 ## News Headlines
 
-以下の6つのニュースの見出しです。
-
-1. エンジェルス 菊池雄星 WBCに意欲示す「前のめりで考えたい」
-2. 米 AI開発の重要鉱物など確保へ 日本含む多国間の新枠組み発足
-3.  中国 江蘇省南京で「南京大虐殺」追悼式典が開かれ
-4.  中国の火星探査機、史上3つ目の恒星間天体の観測に成功
-5.  NBA ラップアップ：ティンバーウルブズがカリーム・アブドゥル＝ジャバーの39点を止めて勝利
-6.  イランが外国タンカー乗組員18人を拘束
+1. 長崎ヴェルカ 107-82で滋賀に勝利
+2. ウクライナのドローン攻撃でロシアのサラトフで２人死亡
+3. 米、中国との対決で新たな戦争の時代に備える
+4. 大阪の集合住宅で火災、女性1人けが
+5. 中国、UAEとの石油・ガス協力強化を望む
+6. エプスタイン氏とトランプ氏らの写真が公開
 
 ----
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】長崎ヴェルカ 107-82で滋賀に勝利 プロバスケB1《長崎》
+(2025-12-13 17:13) #ニュース
+
+[2025-12-13 17:15:12](https://bsky.app/profile/sokuho.news/post/3m7u5x4v3el2v)
+
+---
+
+@reuters.com
+
+Two killed in Ukrainian drone strike on Russia's Saratov, regional governor says reut.rs/4oSEOKL
+
+[2025-12-13 17:15:09](https://bsky.app/profile/reuters.com/post/3m7u5wz2tsx24)
+
+---
+
+@wsj.com
+
+A “terrifying” new era of warfare is forcing America to rethink its tools and tactics as it prepares for great-power conflict with China.
+
+[2025-12-13 17:14:15](https://bsky.app/profile/wsj.com/post/3m7u5vfzdgi23)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】集合住宅で火災 住人の女性1人がケガ 「3階から煙が出ています」と通報 消防車など25台が出動 大阪・住吉区
+(2025-12-13 16:30) #ニュース
+
+[2025-12-13 17:10:38](https://bsky.app/profile/sokuho.news/post/3m7u5owy5yn2b)
+
+---
+
+@reuters.com
+
+China's Wang Yi seeks deeper oil and gas ties with UAE on Middle East tour reut.rs/3MFr3Sc
+
+[2025-12-13 17:10:28](https://bsky.app/profile/reuters.com/post/3m7u5oniek42y)
+
+---
 
 @nhknewsunofficial.bsky.social
 
@@ -83,51 +127,6 @@ https://news.web.nhk/newsweb/na/na-k10015003161000
 The United States accused Rwanda of fueling instability and war as a Rwanda-backed advance of the M23 rebel group in eastern Democratic Republic of Congo threatens to derail US President Donald Trump’s efforts to broker peace in the region. 
 
 [2025-12-13 17:03:01](https://bsky.app/profile/cnn.com/post/3m7u5bdokxg24)
-
----
-
-@japan.reuters.com
-
-中国江蘇省南京で１３日、日中戦争中の１９３７年に起きた「南京大虐殺」の追悼式典が開かれた。台湾に関する高市早苗首相の国会答弁を巡り、日中間の緊張が高まる中での開催となったが、式典には習近平国家主席は出席しなかった。 bit.ly/48PSwYZ
-
-[2025-12-13 17:00:46](https://bsky.app/profile/japan.reuters.com/post/3m7u55c3jek2q)
-
----
-
-@nikkei.com
-
-中国の火星探査機、史上3つ目の恒星間天体「3I/ATLAS」の観測に成功
-www.nikkei.com/article/DGXZQO...
-
-3I/ATLASは太陽系を訪れたことが確認されている3番目の星間天体で、太陽系よりも古い可能性があります。
-
-系外惑星の成分や進化、初期恒星史を探る上で重要な意義を持ちます。
-
-[2025-12-13 17:00:36](https://bsky.app/profile/nikkei.com/post/3m7u54zg3td22)
-
----
-
-@reuters.com
-
-NBA roundup: Timberwolves spoil Stephen Curry's 39-point return reut.rs/4rTEcar
-
-[2025-12-13 17:00:28](https://bsky.app/profile/reuters.com/post/3m7u54r4bey2b)
-
----
-
-@aljazeera.com
-
-Suffering of people in Gaza manufactured by Israeli restriction of aid, not weather, Oxfam says.
-
-[2025-12-13 17:00:04](https://bsky.app/profile/aljazeera.com/post/3m7u542rcd527)
-
----
-
-@reuters.com
-
-Chelsea manager Bompastor confident in Kerr's return to form reut.rs/4qcrFxj
-
-[2025-12-13 16:50:14](https://bsky.app/profile/reuters.com/post/3m7u4khrtbn2k)
 
 ---
 
