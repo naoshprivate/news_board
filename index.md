@@ -1,9 +1,9 @@
-# [2025-12-13 13:30 updated](2025_12_13.md)
+# [2025-12-13 13:50 updated](2025_12_13.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Trump honors 'Miracle on Ice' hockey players who defeated Soviets in 1980 reut.rs/48S8wK3 <a href="https://bsky.app/profile/reuters.com/post/3m7tqswu4ao2c" target="_blank">reuters.com</a> (2025-12-13 13:20:13)</span><span style="padding-right:50px;">Azul wins court nod for debt restructuring, American and United to invest reut.rs/3MxhIfj <a href="https://bsky.app/profile/reuters.com/post/3m7tqaxu2nl2i" target="_blank">reuters.com</a> (2025-12-13 13:10:10)</span><span style="padding-right:50px;">An obscure company pivoted, then pivoted again, nearly ran out of money—and built a hit product on.wsj.com/3YnJ1v0 <a href="https://bsky.app/profile/wsj.com/post/3m7tpv7cxlm2c" target="_blank">wsj.com</a> (2025-12-13 13:03:36)</span><span style="padding-right:50px;">Repealing or replacing the Affordable Care Act has vexed Republicans for a decade and is once more a political issue. on.wsj.com/4oPJq48 <a href="https://bsky.app/profile/wsj.com/post/3m7tpv6q4xj2g" target="_blank">wsj.com</a> (2025-12-13 13:03:35)</span><span style="padding-right:50px;">"The Indiana state Senate’s vote against a new congressional map that President Donald Trump had pressured it to adopt is one of the most extraordinary examples to date of Republicans standing up to Trump. But it wasn’t even the only example Thursday." | Analysis https://cnn.it/4oNbB41 <a href="https://bsky.app/profile/cnn.com/post/3m7tpqmxsma23" target="_blank">cnn.com</a> (2025-12-13 13:01:02)</span>
+<span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】マンション敷地内で倒れている15歳の男子中学生みつかる 搬送先の病院で死亡が確認 上層階から転落したか…兵庫・姫路市 (2025-12-13 13:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7tsavefoq26" target="_blank">sokuho.news</a> (2025-12-13 13:45:55)</span><span style="padding-right:50px;">Youth movement highlights Kara Lawson's first USA camp reut.rs/4rS5G08 <a href="https://bsky.app/profile/reuters.com/post/3m7trwmdj2m2p" target="_blank">reuters.com</a> (2025-12-13 13:40:10)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】マンションの敷地内で倒れている15歳中学生みつかる 搬送先の病院で死亡が確認 警察は原因を調査 兵庫・姫路市 (2025-12-13 13:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7trohwa2k2s" target="_blank">sokuho.news</a> (2025-12-13 13:35:37)</span><span style="padding-right:50px;">Spurs star C Victor Wembanyama (calf) to return vs. Thunder reut.rs/3KOIMpQ <a href="https://bsky.app/profile/reuters.com/post/3m7trfmtzdi23" target="_blank">reuters.com</a> (2025-12-13 13:30:40)</span><span style="padding-right:50px;">旧姓使用の法制化、銀行口座開設に一定効果 www.nikkei.com/article/DGXZQO...  政府は旧姓の通称使用に関する法案を2026年の通常国会に提出する方針。法的な効力を持たせて不便の解消を狙います。  一方で海外では旧姓を名乗っても、通称という制度が理解されずに混乱が生じる場合もあります。 <a href="https://bsky.app/profile/nikkei.com/post/3m7trfhssgo22" target="_blank">nikkei.com</a> (2025-12-13 13:30:35)</span>
   </div>
 </div>
 
@@ -32,14 +32,81 @@
 
 ## News Headlines
 
-1. ドルが円など主要通貨に上昇
-2. ダーツ人気　700万人に達
-3. 米国株式市場が下落
-4. 老人ホームは「超細切れ業務」
-5. モハンマディ氏がイランで身柄拘束
-6. サッカーのエジプト代表FWサラーがリバプールのメンバー入り
+1. 15歳中学生がマンション敷地内で倒れている
+2. 政府は旧姓の通称使用に関する法案を提出
+3. ケビン・ウォーシュかハセット氏が連邦準備理事会議長に
+4. アメリカ大統領が「ミラクル・オン・アイス」選手に感謝
+5. 株価が下落　連邦準備理事会の発言が影響
+6. ノーベル平和賞のモハンマディ氏が身柄拘束
 
 ----
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】マンション敷地内で倒れている15歳の男子中学生みつかる 搬送先の病院で死亡が確認 上層階から転落したか…兵庫・姫路市
+(2025-12-13 13:00) #ニュース
+
+[2025-12-13 13:45:55](https://bsky.app/profile/sokuho.news/post/3m7tsavefoq26)
+
+---
+
+@reuters.com
+
+Youth movement highlights Kara Lawson's first USA camp reut.rs/4rS5G08
+
+[2025-12-13 13:40:10](https://bsky.app/profile/reuters.com/post/3m7trwmdj2m2p)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】マンションの敷地内で倒れている15歳中学生みつかる 搬送先の病院で死亡が確認 警察は原因を調査 兵庫・姫路市
+(2025-12-13 13:00) #ニュース
+
+[2025-12-13 13:35:37](https://bsky.app/profile/sokuho.news/post/3m7trohwa2k2s)
+
+---
+
+@reuters.com
+
+Spurs star C Victor Wembanyama (calf) to return vs. Thunder reut.rs/3KOIMpQ
+
+[2025-12-13 13:30:40](https://bsky.app/profile/reuters.com/post/3m7trfmtzdi23)
+
+---
+
+@nikkei.com
+
+旧姓使用の法制化、銀行口座開設に一定効果
+www.nikkei.com/article/DGXZQO...
+
+政府は旧姓の通称使用に関する法案を2026年の通常国会に提出する方針。法的な効力を持たせて不便の解消を狙います。
+
+一方で海外では旧姓を名乗っても、通称という制度が理解されずに混乱が生じる場合もあります。
+
+[2025-12-13 13:30:35](https://bsky.app/profile/nikkei.com/post/3m7trfhssgo22)
+
+---
+
+@japan.reuters.com
+
+トランプ米大統領は来年５月に任期が切れる連邦準備理事会（ＦＲＢ）のパウエル議長の後任に、ケビン・ウォーシュ元ＦＲＢ理事か米国家経済会議（ＮＥＣ）のケビン・ハセット委員長を起用する方向で検討している。米紙ウォール・ストリート・ジャーナル（ＷＳＪ）が１２日、報じた。 bit.ly/44kYHTu
+
+[2025-12-13 13:30:32](https://bsky.app/profile/japan.reuters.com/post/3m7trfejora2q)
+
+---
+
+@nytimes.com
+
+The most appreciated gifts aren’t the trendiest ones — they’re the ones that last forever. These are Wirecutter picks for buy-it-for-life gifts. nyti.ms/4oKYzEa
+
+[2025-12-13 13:30:07](https://bsky.app/profile/nytimes.com/post/3m7tremt7va2y)
+
+---
 
 @reuters.com
 
@@ -62,69 +129,6 @@ Azul wins court nod for debt restructuring, American and United to invest reut.r
 An obscure company pivoted, then pivoted again, nearly ran out of money—and built a hit product on.wsj.com/3YnJ1v0
 
 [2025-12-13 13:03:36](https://bsky.app/profile/wsj.com/post/3m7tpv7cxlm2c)
-
----
-
-@wsj.com
-
-Repealing or replacing the Affordable Care Act has vexed Republicans for a decade and is once more a political issue. on.wsj.com/4oPJq48
-
-[2025-12-13 13:03:35](https://bsky.app/profile/wsj.com/post/3m7tpv6q4xj2g)
-
----
-
-@cnn.com
-
-"The Indiana state Senate’s vote against a new congressional map that President Donald Trump had pressured it to adopt is one of the most extraordinary examples to date of Republicans standing up to Trump. But it wasn’t even the only example Thursday." | Analysis https://cnn.it/4oNbB41
-
-[2025-12-13 13:01:02](https://bsky.app/profile/cnn.com/post/3m7tpqmxsma23)
-
----
-
-@reuters.com
-
-Norris gets his hands on F1 trophy as unwell Verstappen stays away reut.rs/4pHnh9M
-
-[2025-12-13 13:00:54](https://bsky.app/profile/reuters.com/post/3m7tpqetmp52y)
-
----
-
-@nbcnews.com
-
-The blimp, which floated from Nashville to Los Angeles last month, is just the latest in a series of unusual marketing techniques the studio is deploying to spread the word about 'Marty Supreme,' which is about an aspiring ping-pong champion in post-World War II New York.
-
-[2025-12-13 13:00:41](https://bsky.app/profile/nbcnews.com/post/3m7tppyvzkw24)
-
----
-
-@japan.reuters.com
-
-ニューヨーク外為市場では、方向感のない取引の中、ドルが円などの主要通貨に対し上昇した。来年の米連邦準備理事会（ＦＲＢ）による利下げ観測を背景にドルはここ数日下落基調にあり、週間ベースでは３週連続で下落した。 bit.ly/498mMiV
-
-[2025-12-13 13:00:37](https://bsky.app/profile/japan.reuters.com/post/3m7tppup3rc2u)
-
----
-
-@nikkei.com
-
-ダーツ人口700万人、機器設置店はマクドナルド超え
-www.nikkei.com/article/DGXZQO...
-
-お酒を飲みながら楽しむ遊びの枠を超え、愛好家の裾野が広がっています。
-
-ダーツバーで気軽に会えるプロ選手を「推し活」の対象にするファンは大会に足を運び、1枚5万円のチケットも飛ぶように売れます。
-
-賞金がオリンピック金メダリストに支給される額の2倍の1000万円にのぼる大会もあります。
-
-[2025-12-13 13:00:35](https://bsky.app/profile/nikkei.com/post/3m7tpptftvj2m)
-
----
-
-@apnews.com
-
-It may feel like you are surrounded by sniffles and coughs, but flu season activity is still low in many parts of the U.S.
-
-[2025-12-13 13:00:15](https://bsky.app/profile/apnews.com/post/3m7tpp7whv52k)
 
 ---
 
