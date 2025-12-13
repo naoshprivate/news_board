@@ -1,9 +1,9 @@
-# [2025-12-13 20:30 updated](2025_12_13.md)
+# [2025-12-13 20:50 updated](2025_12_13.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Transatlantic rupture on.ft.com/44VK5dk <a href="https://bsky.app/profile/financialtimes.com/post/3m7uio3grkv23" target="_blank">financialtimes.com</a> (2025-12-13 20:27:00)</span><span style="padding-right:50px;">'Pins on a Map': How Chicago students are tracking ICE raids reut.rs/4oVLWG5 <a href="https://bsky.app/profile/reuters.com/post/3m7uikrd3en2o" target="_blank">reuters.com</a> (2025-12-13 20:25:09)</span><span style="padding-right:50px;">Accra like a local reut.rs/4iY5EzO <a href="https://bsky.app/profile/reuters.com/post/3m7uhyzlktg2b" target="_blank">reuters.com</a> (2025-12-13 20:15:13)</span><span style="padding-right:50px;">Prosecutors say fired University of Michigan football coach Sherrone Moore threatened to kill himself in front of a woman with whom he had been having an affair after she broke off the relationship and reported it to school officials. <a href="https://bsky.app/profile/apnews.com/post/3m7uhysvok52u" target="_blank">apnews.com</a> (2025-12-13 20:15:07)</span><span style="padding-right:50px;">Tokyo is all about contrasts: centuries-old shrines tucked beside glass towers and quiet gardens a few train stops from the neon storm of Shibuya. Here's a guide to your inaugural trip — and future visits — to the Japanese city. <a href="https://bsky.app/profile/nytimes.com/post/3m7uhpt6psj2b" target="_blank">nytimes.com</a> (2025-12-13 20:10:05)</span>
+<span style="padding-right:50px;">The buzziest private companies are being sold to a select few as the universe of stocks everyone else can invest in shrinks rapidly. <a href="https://bsky.app/profile/wsj.com/post/3m7ujrhjjgl2q" target="_blank">wsj.com</a> (2025-12-13 20:46:47)</span><span style="padding-right:50px;">フィリピン“南シナ海で中国船から放水 漁船の乗組員3人けが” https://news.web.nhk/newsweb/na/na-k10015003351000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ujofkkrh2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-13 20:45:02)</span><span style="padding-right:50px;">立民 野田代表“定数削減法案 今国会での成立諦めるべき” https://news.web.nhk/newsweb/na/na-k10015003291000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ujizhahf2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-13 20:42:02)</span><span style="padding-right:50px;">8日の地震で損傷の鉄塔補修工事 NTTと技術支援チームが初協議 https://news.web.nhk/newsweb/na/na-k10015003261000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ujdnpckj2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-13 20:39:02)</span><span style="padding-right:50px;">If you're after the best red wines for Christmas 2025, look no further than Jancis Robinson's festive wine tips: on.ft.com/3KUG9To <a href="https://bsky.app/profile/financialtimes.com/post/3m7uj2qx6uj25" target="_blank">financialtimes.com</a> (2025-12-13 20:34:05)</span>
   </div>
 </div>
 
@@ -32,97 +32,102 @@
 
 ## News Headlines
 
-Here are six important stories with Japanese headlines:
-
-1. トランプ政権の分裂が深まる
-2. ICEの拉致活動を追跡する学生たち
-3. マッシブな雪害が北日本に襲来
-4. スペースXが2026年にIPOを計画
-5. 日本は世界で幸福度の順位が低い
-6. インドでメッシの来日が暴徒化
+1.  フィリピン
+2.  野田代表「定数削減法案今国会で成立諦めるべき」
+3.  8日の地震で損傷の鉄塔補修工事、NTTと技術支援チームが初協議
+4.  「モトチャンプ」2026年2月号を最後に休刊
+5.  EUcountries agree 2026 fishing quotas, avoid tighter Mediterranean curbs
+6.  「場外」からなぜ投稿？地方選挙に広がるSNSの影響
 
 ----
+
+@wsj.com
+
+The buzziest private companies are being sold to a select few as the universe of stocks everyone else can invest in shrinks rapidly.
+
+[2025-12-13 20:46:47](https://bsky.app/profile/wsj.com/post/3m7ujrhjjgl2q)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+フィリピン“南シナ海で中国船から放水 漁船の乗組員3人けが”
+https://news.web.nhk/newsweb/na/na-k10015003351000
+
+[2025-12-13 20:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ujofkkrh2w)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+立民 野田代表“定数削減法案 今国会での成立諦めるべき”
+https://news.web.nhk/newsweb/na/na-k10015003291000
+
+[2025-12-13 20:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ujizhahf2v)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+8日の地震で損傷の鉄塔補修工事 NTTと技術支援チームが初協議
+https://news.web.nhk/newsweb/na/na-k10015003261000
+
+[2025-12-13 20:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ujdnpckj2k)
+
+---
+
+@financialtimes.com
+
+If you're after the best red wines for Christmas 2025, look no further than Jancis Robinson's festive wine tips: on.ft.com/3KUG9To
+
+[2025-12-13 20:34:05](https://bsky.app/profile/financialtimes.com/post/3m7uj2qx6uj25)
+
+---
+
+@nikkei.com
+
+専門情報誌、余力あるうちに休刊　ウェブに活路
+www.nikkei.com/article/DGXZQO...
+
+90年の歴史を持つ料理誌「栄養と料理」は2026年春に幕を閉じます。紙・印刷・製本費の上昇もあり、赤字に転落していました。
+
+2026年2月号を最後に休刊する長寿バイク誌「モトチャンプ」は、黄金期には広告出稿が多すぎて断っていたといいます。
+
+インターネットで最新情報が無料で手に入る中、ウェブ媒体として生き残りを目指す試みもみられます。
+
+[2025-12-13 20:30:37](https://bsky.app/profile/nikkei.com/post/3m7uiujznn22m)
+
+---
+
+@apnews.com
+
+Kilmar Abrego Garcia, whose mistaken deportation helped galvanize opposition to President Donald Trump's immigration policies, has been released from immigration detention, and a judge has temporarily blocked any further efforts to detain him.
+
+[2025-12-13 20:30:26](https://bsky.app/profile/apnews.com/post/3m7uiu7x2hr2p)
+
+---
+
+@reuters.com
+
+EU countries agree 2026 fishing quotas, avoid tighter Mediterranean curbs reut.rs/4aOZDDn
+
+[2025-12-13 20:30:20](https://bsky.app/profile/reuters.com/post/3m7uitzzm7x2r)
+
+---
+
+@bloomberg.com
+
+The move is the result of intense lobbying from companies such as Stellantis and Mercedes-Benz, which sought to ease the risk of fines that could have exceeded €1 billion ($1.2 billion) in the coming years.
+
+[2025-12-13 20:30:13](https://bsky.app/profile/bloomberg.com/post/3m7uitsxdk42u)
+
+---
 
 @financialtimes.com
 
 Transatlantic rupture on.ft.com/44VK5dk
 
 [2025-12-13 20:27:00](https://bsky.app/profile/financialtimes.com/post/3m7uio3grkv23)
-
----
-
-@reuters.com
-
-'Pins on a Map': How Chicago students are tracking ICE raids reut.rs/4oVLWG5
-
-[2025-12-13 20:25:09](https://bsky.app/profile/reuters.com/post/3m7uikrd3en2o)
-
----
-
-@reuters.com
-
-Accra like a local reut.rs/4iY5EzO
-
-[2025-12-13 20:15:13](https://bsky.app/profile/reuters.com/post/3m7uhyzlktg2b)
-
----
-
-@apnews.com
-
-Prosecutors say fired University of Michigan football coach Sherrone Moore threatened to kill himself in front of a woman with whom he had been having an affair after she broke off the relationship and reported it to school officials.
-
-[2025-12-13 20:15:07](https://bsky.app/profile/apnews.com/post/3m7uhysvok52u)
-
----
-
-@nytimes.com
-
-Tokyo is all about contrasts: centuries-old shrines tucked beside glass towers and quiet gardens a few train stops from the neon storm of Shibuya. Here's a guide to your inaugural trip — and future visits — to the Japanese city.
-
-[2025-12-13 20:10:05](https://bsky.app/profile/nytimes.com/post/3m7uhpt6psj2b)
-
----
-
-@npr.org
-
-Sacks is the Trump administration's top advisor on tech and crypto policy. In recent weeks, he's faced questions about conflicts of interest and criticism over his drive to undo state AI laws. n.pr/3MxKlcd
-
-[2025-12-13 20:05:45](https://bsky.app/profile/npr.org/post/3m7uhi35qce25)
-
----
-
-@nikkei.com
-
-即席麺の1人当たり消費量、首位はベトナム　韓国とタイが続く
-www.nikkei.com/article/DGXZQO...
-
-[2025-12-13 20:00:49](https://bsky.app/profile/nikkei.com/post/3m7uh7bip5m2c)
-
----
-
-@reuters.com
-
-Police detain organiser of Messi visit after Indian fans rip up seats reut.rs/3XSRs1s
-
-[2025-12-13 20:00:42](https://bsky.app/profile/reuters.com/post/3m7uh72fgxk2s)
-
----
-
-@cnbc.com
-
-"Tell me about a time you failed," often brings stress for interviewees, a career expert says.
-
-Here’s how she recommends tackling the question, and why she says it's important to have a couple “negative” scenarios in your back pocket.
-
-[2025-12-13 20:00:16](https://bsky.app/profile/cnbc.com/post/3m7uh6buofq2g)
-
----
-
-@washingtonpost.com
-
-On Saturday night, get ready for a stunning display of green meteors — weather permitting. The Geminids, regarded as the year’s biggest and best meteor shower, could sling 50 meteors overhead every single hour. https://wapo.st/4aa52EZ
-
-[2025-12-13 20:00:10](https://bsky.app/profile/washingtonpost.com/post/3m7uh63nl4p2p)
 
 ---
 
