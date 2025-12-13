@@ -1,9 +1,9 @@
-# [2025-12-13 18:10 updated](2025_12_13.md)
+# [2025-12-13 18:30 updated](2025_12_13.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">You may not own a single dumbbell, but rest assured you already have everything you need to get stronger — by using your own body weight.  <a href="https://bsky.app/profile/cnn.com/post/3m7uaofzt432v" target="_blank">cnn.com</a> (2025-12-13 18:04:01)</span><span style="padding-right:50px;">「ラブライブ！」聖地に300人移住　静岡県沼津市 www.nikkei.com/article/DGXZQO...  沼津市内には主人公の実家のモデルとされる旅館や神社など、十数カ所の聖地が点在。  人気にあやかって街おこしを進める市は、下見と引っ越し当日の交通費を支給するなど移住支援に力を入れてきました。 <a href="https://bsky.app/profile/nikkei.com/post/3m7uainhps22g" target="_blank">nikkei.com</a> (2025-12-13 18:00:48)</span><span style="padding-right:50px;">England must change mindset to salvage Ashes, says Johnson reut.rs/4iSnAM5 <a href="https://bsky.app/profile/reuters.com/post/3m7uaiiv64f2r" target="_blank">reuters.com</a> (2025-12-13 18:00:43)</span><span style="padding-right:50px;">The rally is defying expectations of a glum year for the sector as President Donald Trump pushes his Big Oil agenda. <a href="https://bsky.app/profile/bloomberg.com/post/3m7uahn2aat23" target="_blank">bloomberg.com</a> (2025-12-13 18:00:14)</span><span style="padding-right:50px;">Kim Jong Un participates in latest public event to honour North Korean troops who served with Russian forces. <a href="https://bsky.app/profile/aljazeera.com/post/3m7uahdcqzu2z" target="_blank">aljazeera.com</a> (2025-12-13 18:00:04)</span>
+<span style="padding-right:50px;">アイヌ施策担当 黄川田大臣 差別解消へ理解深める活動 着実に https://news.web.nhk/newsweb/na/na-k10015003201000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ubmvmz3u2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-13 18:21:02)</span><span style="padding-right:50px;">Ukraine's Odesa suffers major blackouts after Russian attack reut.rs/4oVvmGu <a href="https://bsky.app/profile/reuters.com/post/3m7ubcdmqwk2i" target="_blank">reuters.com</a> (2025-12-13 18:15:10)</span><span style="padding-right:50px;">Rights groups condemn reported re-arrest of Nobel laureate Mohammadi in Iran reut.rs/4pAJExt <a href="https://bsky.app/profile/reuters.com/post/3m7uazevcpn2i" target="_blank">reuters.com</a> (2025-12-13 18:10:09)</span><span style="padding-right:50px;">You may not own a single dumbbell, but rest assured you already have everything you need to get stronger — by using your own body weight.  <a href="https://bsky.app/profile/cnn.com/post/3m7uaofzt432v" target="_blank">cnn.com</a> (2025-12-13 18:04:01)</span><span style="padding-right:50px;">「ラブライブ！」聖地に300人移住　静岡県沼津市 www.nikkei.com/article/DGXZQO...  沼津市内には主人公の実家のモデルとされる旅館や神社など、十数カ所の聖地が点在。  人気にあやかって街おこしを進める市は、下見と引っ越し当日の交通費を支給するなど移住支援に力を入れてきました。 <a href="https://bsky.app/profile/nikkei.com/post/3m7uainhps22g" target="_blank">nikkei.com</a> (2025-12-13 18:00:48)</span>
   </div>
 </div>
 
@@ -32,14 +32,39 @@
 
 ## News Headlines
 
-1. ラブライブ！聖地に300人移住　静岡県沼津市
-2. 英国はアッシュズを守るために意識を変える必要がある
-3. 日中戦争中の南京大虐殺を追悼する式典が開かれ
-4. 中国の火星探査機が3つ目の恒星間天体を観測
-5. NBAシーズンでシカゴ・ブルズがカリフォルニア・ウォーリアーズに勝利
-6. エプスタイン氏とトランプ氏・クリントン氏らの写真が公開
+1. イエスキュークルが医療従事者を含む市民に攻撃　薬品を与えた後も「いずれにせよ殺害」
+2. エプスタイン氏写真　トランプ氏・クリントン氏らと写る
+3. 沼津市　「ラブライブ！」の聖地に300人移住
+4. 米国でAIの重要鉱物確保の新枠組み発足
+5. 長崎ヴェルカ　107-82で滋賀に勝利
+6. 中国の火星探査機が恒星間天体の観測に成功
 
 ----
+
+@nhknewsunofficial.bsky.social
+
+アイヌ施策担当 黄川田大臣 差別解消へ理解深める活動 着実に
+https://news.web.nhk/newsweb/na/na-k10015003201000
+
+[2025-12-13 18:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ubmvmz3u2w)
+
+---
+
+@reuters.com
+
+Ukraine's Odesa suffers major blackouts after Russian attack reut.rs/4oVvmGu
+
+[2025-12-13 18:15:10](https://bsky.app/profile/reuters.com/post/3m7ubcdmqwk2i)
+
+---
+
+@reuters.com
+
+Rights groups condemn reported re-arrest of Nobel laureate Mohammadi in Iran reut.rs/4pAJExt
+
+[2025-12-13 18:10:09](https://bsky.app/profile/reuters.com/post/3m7uazevcpn2i)
+
+---
 
 @cnn.com
 
@@ -99,35 +124,6 @@ In our time, it's easy to shut your mind, driven by fear or misinformation. This
 How an obscure company pivoted, then pivoted again, nearly ran out of money—and built the toy everybody wants.
 
 [2025-12-13 17:39:33](https://bsky.app/profile/wsj.com/post/3m7u7cnieg423)
-
----
-
-@nikkei.com
-
-モンベル創業50周年　辰野勇会長｢自分たちが欲しいもの形に｣
-www.nikkei.com/article/DGXZQO...
-
-「あなたは欲しいものがありますか？」会長に問われた記者は、思い浮かびませんでした。
-
-「それじゃあ、商売できませんね。無理に考えて作るのは、僕は違うと思う」。
-
-[2025-12-13 17:30:36](https://bsky.app/profile/nikkei.com/post/3m7u6snovnm22)
-
----
-
-@apnews.com
-
-Country star Jelly Roll is ready to win a Grammy. The “Beautifully Broken” singer has three nominations this year. He has been nominated three consecutive years. This time around, he's up for his first album award and his first award in a contemporary Christian music category. 
-
-[2025-12-13 17:30:09](https://bsky.app/profile/apnews.com/post/3m7u6ru4fda2p)
-
----
-
-@aljazeera.com
-
-Witnesses at the hospital and the UN say the attack killed medics, patients and may 'amount to a war crime'.
-
-[2025-12-13 17:30:05](https://bsky.app/profile/aljazeera.com/post/3m7u6rpvmxk27)
 
 ---
 
