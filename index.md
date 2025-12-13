@@ -1,9 +1,9 @@
-# [2025-12-14 05:30 updated](2025_12_14.md)
+# [2025-12-14 05:50 updated](2025_12_14.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">PSG move top with nervy 3-2 win at bottom club Metz reut.rs/48XoHpp <a href="https://bsky.app/profile/reuters.com/post/3m7vgqfdj7r2p" target="_blank">reuters.com</a> (2025-12-14 05:25:10)</span><span style="padding-right:50px;">Abraham Quintanilla Jr., the music producer who turned Selena y Los Dinos, his small family band, into a Grammy Award-winning act, died on Saturday at age 86. He managed his daughter Selena’s career as she ascended to the peak of the Tejano music world, but he was a polarizing figure to some fans. <a href="https://bsky.app/profile/nytimes.com/post/3m7vgq7voyn2b" target="_blank">nytimes.com</a> (2025-12-14 05:25:04)</span><span style="padding-right:50px;">Chile heads to a presidential runoff on Sunday, with far-right contender José Antonio Kast — a supporter of former dictator Augusto Pinochet — tipped to win. n.pr/4aNsqbu <a href="https://bsky.app/profile/npr.org/post/3m7vgbynkta24" target="_blank">npr.org</a> (2025-12-14 05:17:07)</span><span style="padding-right:50px;">Usha Vance misses plenty about her old life.  She loved being a lawyer and had aspirations beyond working at a firm. She dreams of one day returning to Cincinnati and the home she shared with her husband, JD Vance, and their three children before he became vice president.   Read more: bit.ly/4qasuGN <a href="https://bsky.app/profile/usatoday.com/post/3m7vg6fupmw2o" target="_blank">usatoday.com</a> (2025-12-14 05:15:07)</span><span style="padding-right:50px;">Two American troops and a civilian interpreter were killed in central Syria on Saturday after an alleged member of the Islamic State (IS) group opened fire on a joint US-Syrian patrol, officials said.  u.afp.com/S7LB <a href="https://bsky.app/profile/en.afp.com/post/3m7vg6dt4pr2u" target="_blank">en.afp.com</a> (2025-12-14 05:15:04)</span>
+<span style="padding-right:50px;">A United Airlines flight that lost power in one of its engines shortly after takeoff from Dulles International Airport landed safety back at the airport after circling for just under an hour. <a href="https://bsky.app/profile/washingtonpost.com/post/3m7vhtwuj7s2g" target="_blank">washingtonpost.com</a> (2025-12-14 05:45:03)</span><span style="padding-right:50px;">🔊 For some children, delayed nutrition aid during months of US aid shakeup means lifelong consequences like stunting and cognitive damage. Learn more on the latest On Assignment with @cwalljasper and @akannampilly reut.rs/3KIPDBc <a href="https://bsky.app/profile/reuters.com/post/3m7vhmhuq5k2q" target="_blank">reuters.com</a> (2025-12-14 05:40:52)</span><span style="padding-right:50px;">A drone strike on a U.N. facility in war-torn Sudan left six peacekeepers dead, U.N. Secretary-General Antonio Guterres said. <a href="https://bsky.app/profile/apnews.com/post/3m7vh24jmfl23" target="_blank">apnews.com</a> (2025-12-14 05:30:36)</span><span style="padding-right:50px;">📩 Coming soon: Go in-depth on Pointed, our weekly news quiz.   Quizmaster @aimeelucido.bsky.social's newsletter will reveal how the game is made and give hints for next week. Sign up here <a href="https://bsky.app/profile/bloomberg.com/post/3m7vgzzaxh42x" target="_blank">bloomberg.com</a> (2025-12-14 05:30:33)</span><span style="padding-right:50px;">Following an emotional episode that marked a turning point for the Norris family, here's what to know about the next episode of Season 2 of "Landman." <a href="https://bsky.app/profile/usatoday.com/post/3m7vgzwqx3y2w" target="_blank">usatoday.com</a> (2025-12-14 05:30:30)</span>
   </div>
 </div>
 
@@ -32,16 +32,76 @@
 
 ## News Headlines
 
-Here are six headlines in Japanese:
+Here are six news headlines in Japanese:
 
-1. PSGがメッツに勝利し首位に返り咲く
-2. ベラルーシ、122人を除身から釈放
-3. 北朝鮮がウクライナ戦争でロシアに協力　核を持つ軍を派遣
-4. セレナの父親、テハーノー音楽界の人物
-5. トランプ大統領が報復を約束　イスラム国によるシリアでのアメリカ人殺害
-6. メタオーラー規制を強化・支援を廃止　自民合同会議
+1. 
+2. 
+3. 
+4. 
+5. 
+6.
 
 ----
+
+@washingtonpost.com
+
+A United Airlines flight that lost power in one of its engines shortly after takeoff from Dulles International Airport landed safety back at the airport after circling for just under an hour.
+
+[2025-12-14 05:45:03](https://bsky.app/profile/washingtonpost.com/post/3m7vhtwuj7s2g)
+
+---
+
+@reuters.com
+
+🔊 For some children, delayed nutrition aid during months of US aid shakeup means lifelong consequences like stunting and cognitive damage. Learn more on the latest On Assignment with @cwalljasper and @akannampilly reut.rs/3KIPDBc
+
+[2025-12-14 05:40:52](https://bsky.app/profile/reuters.com/post/3m7vhmhuq5k2q)
+
+---
+
+@apnews.com
+
+A drone strike on a U.N. facility in war-torn Sudan left six peacekeepers dead, U.N. Secretary-General Antonio Guterres said.
+
+[2025-12-14 05:30:36](https://bsky.app/profile/apnews.com/post/3m7vh24jmfl23)
+
+---
+
+@bloomberg.com
+
+📩 Coming soon: Go in-depth on Pointed, our weekly news quiz. 
+
+Quizmaster @aimeelucido.bsky.social's newsletter will reveal how the game is made and give hints for next week. Sign up here
+
+[2025-12-14 05:30:33](https://bsky.app/profile/bloomberg.com/post/3m7vgzzaxh42x)
+
+---
+
+@usatoday.com
+
+Following an emotional episode that marked a turning point for the Norris family, here's what to know about the next episode of Season 2 of "Landman."
+
+[2025-12-14 05:30:30](https://bsky.app/profile/usatoday.com/post/3m7vgzwqx3y2w)
+
+---
+
+@washingtonpost.com
+
+Column: Even if you don’t think the position of the stars influences our lives, you’re probably still curious about whether birthdays of a feather flock together.
+
+Are some Zodiac signs, and birthdays, more widespread?
+
+[2025-12-14 05:30:05](https://bsky.app/profile/washingtonpost.com/post/3m7vgz6m4kf24)
+
+---
+
+@cbsnews.com
+
+British police said Saturday it has found no evidence the former Prince Andrew asked one of his bodyguards to investigate Jeffrey Epstein victim Virginia Giuffre.  cbsn.ws/4iSmJLq 
+
+[2025-12-14 05:30:01](https://bsky.app/profile/cbsnews.com/post/3m7vgz2uwv42l)
+
+---
 
 @reuters.com
 
@@ -64,70 +124,6 @@ Abraham Quintanilla Jr., the music producer who turned Selena y Los Dinos, his s
 Chile heads to a presidential runoff on Sunday, with far-right contender José Antonio Kast — a supporter of former dictator Augusto Pinochet — tipped to win. n.pr/4aNsqbu
 
 [2025-12-14 05:17:07](https://bsky.app/profile/npr.org/post/3m7vgbynkta24)
-
----
-
-@usatoday.com
-
-Usha Vance misses plenty about her old life.
-
-She loved being a lawyer and had aspirations beyond working at a firm. She dreams of one day returning to Cincinnati and the home she shared with her husband, JD Vance, and their three children before he became vice president. 
-
-Read more: bit.ly/4qasuGN
-
-[2025-12-14 05:15:07](https://bsky.app/profile/usatoday.com/post/3m7vg6fupmw2o)
-
----
-
-@en.afp.com
-
-Two American troops and a civilian interpreter were killed in central Syria on Saturday after an alleged member of the Islamic State (IS) group opened fire on a joint US-Syrian patrol, officials said.
-
-u.afp.com/S7LB
-
-[2025-12-14 05:15:04](https://bsky.app/profile/en.afp.com/post/3m7vg6dt4pr2u)
-
----
-
-@cbsnews.com
-
-The Powerball jackpot rose to $1 billion for Saturday's drawing — the seventh-largest in the lottery game's history. 
-
-[2025-12-14 05:15:01](https://bsky.app/profile/cbsnews.com/post/3m7vg6anzfu2l)
-
----
-
-@reuters.com
-
-Senegal confident injured trio will be ready for Cup of Nations reut.rs/48T8Xna
-
-[2025-12-14 05:10:23](https://bsky.app/profile/reuters.com/post/3m7vfvxokzi2p)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-BBC captures celebrations as Belarus frees political prisoners
-
-[2025-12-14 05:09:16](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7vftxvrdp2v)
-
----
-
-@nhknewsunofficial.bsky.social
-
-ベラルーシ 拘束されていた日本人男性など123人釈放
-https://news.web.nhk/newsweb/na/na-k10015003391000
-
-[2025-12-14 05:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7vftndmlo2b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-自民合同会議 メガソーラー規制強化・支援廃止検討を 提言原案
-https://news.web.nhk/newsweb/na/na-k10015003301000
-
-[2025-12-14 05:06:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7vfofvjdi2y)
 
 ---
 
