@@ -1,9 +1,9 @@
-# [2025-12-14 05:50 updated](2025_12_14.md)
+# [2025-12-14 06:10 updated](2025_12_14.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">A United Airlines flight that lost power in one of its engines shortly after takeoff from Dulles International Airport landed safety back at the airport after circling for just under an hour. <a href="https://bsky.app/profile/washingtonpost.com/post/3m7vhtwuj7s2g" target="_blank">washingtonpost.com</a> (2025-12-14 05:45:03)</span><span style="padding-right:50px;">🔊 For some children, delayed nutrition aid during months of US aid shakeup means lifelong consequences like stunting and cognitive damage. Learn more on the latest On Assignment with @cwalljasper and @akannampilly reut.rs/3KIPDBc <a href="https://bsky.app/profile/reuters.com/post/3m7vhmhuq5k2q" target="_blank">reuters.com</a> (2025-12-14 05:40:52)</span><span style="padding-right:50px;">A drone strike on a U.N. facility in war-torn Sudan left six peacekeepers dead, U.N. Secretary-General Antonio Guterres said. <a href="https://bsky.app/profile/apnews.com/post/3m7vh24jmfl23" target="_blank">apnews.com</a> (2025-12-14 05:30:36)</span><span style="padding-right:50px;">📩 Coming soon: Go in-depth on Pointed, our weekly news quiz.   Quizmaster @aimeelucido.bsky.social's newsletter will reveal how the game is made and give hints for next week. Sign up here <a href="https://bsky.app/profile/bloomberg.com/post/3m7vgzzaxh42x" target="_blank">bloomberg.com</a> (2025-12-14 05:30:33)</span><span style="padding-right:50px;">Following an emotional episode that marked a turning point for the Norris family, here's what to know about the next episode of Season 2 of "Landman." <a href="https://bsky.app/profile/usatoday.com/post/3m7vgzwqx3y2w" target="_blank">usatoday.com</a> (2025-12-14 05:30:30)</span>
+<span style="padding-right:50px;">Tens of thousands of protesters rallied in the Hungarian capital Budapest to demand Prime Minister Viktor Orban's resignation due to perceived inaction over allegations of child abuse in state-run institutions.  u.afp.com/S7Lu <a href="https://bsky.app/profile/en.afp.com/post/3m7vizgnouh2u" target="_blank">en.afp.com</a> (2025-12-14 06:06:01)</span><span style="padding-right:50px;">Since becoming popular in the 1980s party scene, ecstasy has become a staple of festival and rave culture. Over 40 years later, the drug that works as both a stimulant and a psychedelic has become even stronger. bit.ly/48Bw5rE <a href="https://bsky.app/profile/usatoday.com/post/3m7vipwaass2q" target="_blank">usatoday.com</a> (2025-12-14 06:00:42)</span><span style="padding-right:50px;">The cost of child care nearly doubled Emily Wildau’s mortgage. Then last month, New Mexico launched universal child care. https://cnn.it/4pCk3nW <a href="https://bsky.app/profile/cnn.com/post/3m7vipaq32r2a" target="_blank">cnn.com</a> (2025-12-14 06:00:19)</span><span style="padding-right:50px;">Morningstar's Christine Benz encourages the “good enough” approach to managing finances.  Though they may not be moves to “maximize” your finances, consider these four strategies, which she says will achieve similar results “with much less time and hassle.” <a href="https://bsky.app/profile/cnbc.com/post/3m7vip7xces2b" target="_blank">cnbc.com</a> (2025-12-14 06:00:18)</span><span style="padding-right:50px;">A new study found the loneliest Americans included adults 45 to 49 years old, as well as people who were unmarried, unemployed or whose income fell below $25,000 a year.  <a href="https://bsky.app/profile/washingtonpost.com/post/3m7vip3di3v2d" target="_blank">washingtonpost.com</a> (2025-12-14 06:00:13)</span>
   </div>
 </div>
 
@@ -32,98 +32,101 @@
 
 ## News Headlines
 
-Here are six news headlines in Japanese:
+Here are six headlines in Japanese:
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6.
+1. 10万人以上が抗議　ハンガリー首相の辞任を求める
+2. バルセロナがリーガ優勝を決める
+3. ベラルーシが122人の日本人などを釈放
+4. PSGがリーグ首位に浮上
+5. ドローン攻撃で6人の平和維持活動員が死亡
+6. 「ビッグスイーツ」1億ドル以上の当選が出る
 
 ----
 
-@washingtonpost.com
+@en.afp.com
 
-A United Airlines flight that lost power in one of its engines shortly after takeoff from Dulles International Airport landed safety back at the airport after circling for just under an hour.
+Tens of thousands of protesters rallied in the Hungarian capital Budapest to demand Prime Minister Viktor Orban's resignation due to perceived inaction over allegations of child abuse in state-run institutions.
 
-[2025-12-14 05:45:03](https://bsky.app/profile/washingtonpost.com/post/3m7vhtwuj7s2g)
+u.afp.com/S7Lu
 
----
-
-@reuters.com
-
-🔊 For some children, delayed nutrition aid during months of US aid shakeup means lifelong consequences like stunting and cognitive damage. Learn more on the latest On Assignment with @cwalljasper and @akannampilly reut.rs/3KIPDBc
-
-[2025-12-14 05:40:52](https://bsky.app/profile/reuters.com/post/3m7vhmhuq5k2q)
-
----
-
-@apnews.com
-
-A drone strike on a U.N. facility in war-torn Sudan left six peacekeepers dead, U.N. Secretary-General Antonio Guterres said.
-
-[2025-12-14 05:30:36](https://bsky.app/profile/apnews.com/post/3m7vh24jmfl23)
-
----
-
-@bloomberg.com
-
-📩 Coming soon: Go in-depth on Pointed, our weekly news quiz. 
-
-Quizmaster @aimeelucido.bsky.social's newsletter will reveal how the game is made and give hints for next week. Sign up here
-
-[2025-12-14 05:30:33](https://bsky.app/profile/bloomberg.com/post/3m7vgzzaxh42x)
+[2025-12-14 06:06:01](https://bsky.app/profile/en.afp.com/post/3m7vizgnouh2u)
 
 ---
 
 @usatoday.com
 
-Following an emotional episode that marked a turning point for the Norris family, here's what to know about the next episode of Season 2 of "Landman."
+Since becoming popular in the 1980s party scene, ecstasy has become a staple of festival and rave culture. Over 40 years later, the drug that works as both a stimulant and a psychedelic has become even stronger. bit.ly/48Bw5rE
 
-[2025-12-14 05:30:30](https://bsky.app/profile/usatoday.com/post/3m7vgzwqx3y2w)
+[2025-12-14 06:00:42](https://bsky.app/profile/usatoday.com/post/3m7vipwaass2q)
+
+---
+
+@cnn.com
+
+The cost of child care nearly doubled Emily Wildau’s mortgage. Then last month, New Mexico launched universal child care.
+https://cnn.it/4pCk3nW
+
+[2025-12-14 06:00:19](https://bsky.app/profile/cnn.com/post/3m7vipaq32r2a)
+
+---
+
+@cnbc.com
+
+Morningstar's Christine Benz encourages the “good enough” approach to managing finances.
+
+Though they may not be moves to “maximize” your finances, consider these four strategies, which she says will achieve similar results “with much less time and hassle.”
+
+[2025-12-14 06:00:18](https://bsky.app/profile/cnbc.com/post/3m7vip7xces2b)
 
 ---
 
 @washingtonpost.com
 
-Column: Even if you don’t think the position of the stars influences our lives, you’re probably still curious about whether birthdays of a feather flock together.
+A new study found the loneliest Americans included adults 45 to 49 years old, as well as people who were unmarried, unemployed or whose income fell below $25,000 a year. 
 
-Are some Zodiac signs, and birthdays, more widespread?
+[2025-12-14 06:00:13](https://bsky.app/profile/washingtonpost.com/post/3m7vip3di3v2d)
 
-[2025-12-14 05:30:05](https://bsky.app/profile/washingtonpost.com/post/3m7vgz6m4kf24)
+---
+
+@apnews.com
+
+If you're feeling overwhelmed by the pressure to spend money on gifts, parties, and travel this holiday season, you're not alone.
+
+[2025-12-14 06:00:13](https://bsky.app/profile/apnews.com/post/3m7vip3emva2u)
 
 ---
 
 @cbsnews.com
 
-British police said Saturday it has found no evidence the former Prince Andrew asked one of his bodyguards to investigate Jeffrey Epstein victim Virginia Giuffre.  cbsn.ws/4iSmJLq 
+British police said Saturday they have found no evidence that Andrew Mountbatten-Windsor asked one of his bodyguards to investigate Jeffrey Epstein victim Virginia Giuffre.
 
-[2025-12-14 05:30:01](https://bsky.app/profile/cbsnews.com/post/3m7vgz2uwv42l)
-
----
-
-@reuters.com
-
-PSG move top with nervy 3-2 win at bottom club Metz reut.rs/48XoHpp
-
-[2025-12-14 05:25:10](https://bsky.app/profile/reuters.com/post/3m7vgqfdj7r2p)
+[2025-12-14 06:00:01](https://bsky.app/profile/cbsnews.com/post/3m7viopnilt2j)
 
 ---
 
-@nytimes.com
+@nhknewsunofficial.bsky.social
 
-Abraham Quintanilla Jr., the music producer who turned Selena y Los Dinos, his small family band, into a Grammy Award-winning act, died on Saturday at age 86. He managed his daughter Selena’s career as she ascended to the peak of the Tejano music world, but he was a polarizing figure to some fans.
+後発地震注意情報 “引き続き日頃の備え確認を” 気象庁
+https://news.web.nhk/newsweb/na/na-k10015003311000
 
-[2025-12-14 05:25:04](https://bsky.app/profile/nytimes.com/post/3m7vgq7voyn2b)
+[2025-12-14 05:54:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7vie3sqen2m)
 
 ---
 
 @npr.org
 
-Chile heads to a presidential runoff on Sunday, with far-right contender José Antonio Kast — a supporter of former dictator Augusto Pinochet — tipped to win. n.pr/4aNsqbu
+The Geminids meteor shower appears every December, but it will peak this year on Saturday, the 13th. n.pr/44WMNiI
 
-[2025-12-14 05:17:07](https://bsky.app/profile/npr.org/post/3m7vgbynkta24)
+[2025-12-14 05:51:13](https://bsky.app/profile/npr.org/post/3m7vi6yfsqm2b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+コンゴ民主共和国 戦闘続き地域の不安定化への懸念強まる
+https://news.web.nhk/newsweb/na/na-k10015003401000
+
+[2025-12-14 05:51:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7vi6rc6rg2u)
 
 ---
 
