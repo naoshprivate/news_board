@@ -1,9 +1,9 @@
-# [2025-12-14 03:10 updated](2025_12_14.md)
+# [2025-12-14 03:30 updated](2025_12_14.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Bangladesh says peacekeepers killed, injured in Sudan UN base attack reut.rs/4akLCxj <a href="https://bsky.app/profile/reuters.com/post/3m7v6w3cdyg2r" target="_blank">reuters.com</a> (2025-12-14 03:05:11)</span><span style="padding-right:50px;">Mohamed Salah set up a goal in Liverpool's 2-0 win against Brighton on Saturday as the Egyptian superstar returned to action after an explosive outburst cast doubt over his future at the Premier League champions.  u.afp.com/S7Lc <a href="https://bsky.app/profile/en.afp.com/post/3m7v6vsgtbd2q" target="_blank">en.afp.com</a> (2025-12-14 03:05:02)</span><span style="padding-right:50px;">In Salzburg, Austria, Christmas involves both St. Nick and Krampus, a mythological punisher with roots stretching back to late antiquity and many fans in the present-day Central Alps. n.pr/3XSG1Xy <a href="https://bsky.app/profile/npr.org/post/3m7v6ut2knf24" target="_blank">npr.org</a> (2025-12-14 03:04:29)</span><span style="padding-right:50px;">Chelsea return to top four with 2-0 home win over Everton reut.rs/48Wrtvb <a href="https://bsky.app/profile/reuters.com/post/3m7v6okxkpw24" target="_blank">reuters.com</a> (2025-12-14 03:00:59)</span><span style="padding-right:50px;">King Charles III has shared a public update on his cancer treatment, urging people to get tested. <a href="https://bsky.app/profile/apnews.com/post/3m7v6o444cc2r" target="_blank">apnews.com</a> (2025-12-14 03:00:43)</span>
+<span style="padding-right:50px;">Israel killed a senior Hamas commander in Gaza on Saturday, the Israeli military said, another challenge to the shaky ceasefire between the sides brokered by the United States.  <a href="https://bsky.app/profile/washingtonpost.com/post/3m7v7hpdxqa2m" target="_blank">washingtonpost.com</a> (2025-12-14 03:15:02)</span><span style="padding-right:50px;">Liverpool's Ekitike scores twice, Salah gets warm reception in win over Brighton reut.rs/3YrrXV2 <a href="https://bsky.app/profile/reuters.com/post/3m7v7746dub2b" target="_blank">reuters.com</a> (2025-12-14 03:10:14)</span><span style="padding-right:50px;">Bangladesh says peacekeepers killed, injured in Sudan UN base attack reut.rs/4akLCxj <a href="https://bsky.app/profile/reuters.com/post/3m7v6w3cdyg2r" target="_blank">reuters.com</a> (2025-12-14 03:05:11)</span><span style="padding-right:50px;">Mohamed Salah set up a goal in Liverpool's 2-0 win against Brighton on Saturday as the Egyptian superstar returned to action after an explosive outburst cast doubt over his future at the Premier League champions.  u.afp.com/S7Lc <a href="https://bsky.app/profile/en.afp.com/post/3m7v6vsgtbd2q" target="_blank">en.afp.com</a> (2025-12-14 03:05:02)</span><span style="padding-right:50px;">In Salzburg, Austria, Christmas involves both St. Nick and Krampus, a mythological punisher with roots stretching back to late antiquity and many fans in the present-day Central Alps. n.pr/3XSG1Xy <a href="https://bsky.app/profile/npr.org/post/3m7v6ut2knf24" target="_blank">npr.org</a> (2025-12-14 03:04:29)</span>
   </div>
 </div>
 
@@ -32,16 +32,32 @@
 
 ## News Headlines
 
-Here are six important stories with Japanese headlines:
+Here are six selected news headlines in Japanese:
 
-1.  シリアで米兵・民間人3人死亡…ISの攻撃を受けた
-2.  クリスマス・サルサブルグに、サンタとクラムプスの伝統
-3.  レスターに、ラムレズフォードが2年契約を結ぶ
-4.  トランプがオマール氏を批判…くそめげないと反論
-5.  シリアで米兵・民間人3人死亡…ISの攻撃を受けた
-6.  80万ドルの年収で買える世界の9の都市は？
+1.  イスラエル、ガザでHamasのトップ幹部を殺す
+2.  リバプール、エキティケが2得点、サラフに温かい歓迎
+3.  スーダンでPKO兵士が殺害される　バングラデシュの報告
+4.  チャールズ3世、癌治療についての報告　早期検査を呼びかける
+5.  米国で叙利亜での攻撃　兵士と翻訳者が死亡
+6.  リバプールがエバートンに2-0で勝利　トップ4に戻る
 
 ----
+
+@washingtonpost.com
+
+Israel killed a senior Hamas commander in Gaza on Saturday, the Israeli military said, another challenge to the shaky ceasefire between the sides brokered by the United States. 
+
+[2025-12-14 03:15:02](https://bsky.app/profile/washingtonpost.com/post/3m7v7hpdxqa2m)
+
+---
+
+@reuters.com
+
+Liverpool's Ekitike scores twice, Salah gets warm reception in win over Brighton reut.rs/3YrrXV2
+
+[2025-12-14 03:10:14](https://bsky.app/profile/reuters.com/post/3m7v7746dub2b)
+
+---
 
 @reuters.com
 
@@ -107,25 +123,6 @@ Two US Army soldiers and a civilian US interpreter were killed in an attack in S
 Lindsey Vonn is back on the podium on Saturday after a World Cup downhill race that is separated by a razor-thin margin of 0.24 seconds. cbsn.ws/3XWyUgG 
 
 [2025-12-14 03:00:01](https://bsky.app/profile/cbsnews.com/post/3m7v6mtvgd32p)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】住宅内に血を流した女性2人の遺体…家族とみられる50代の男性を搬送 ”殺人事件”の可能性も視野に捜査＿死亡は高齢女性と40～50代の女性 北海道札幌市
-(2025-12-14 02:50) #ニュース
-
-[2025-12-14 02:50:45](https://bsky.app/profile/sokuho.news/post/3m7v64c4wis2y)
-
----
-
-@washingtonpost.com
-
-<strong><span style="color: red;">Breaking news:</span> Two U.S. soldiers and an American civilian interpreter were killed in an attack on a joint U.S.-Syrian security patrol in Palmyra, the Pentagon and Syria’s state news agency said. </strong>
-
-[2025-12-14 02:50:33](https://bsky.app/profile/washingtonpost.com/post/3m7v63vvyll24)
 
 ---
 
