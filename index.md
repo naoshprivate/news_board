@@ -1,9 +1,9 @@
-# [2025-12-13 13:50 updated](2025_12_13.md)
+# [2025-12-13 14:10 updated](2025_12_13.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】マンション敷地内で倒れている15歳の男子中学生みつかる 搬送先の病院で死亡が確認 上層階から転落したか…兵庫・姫路市 (2025-12-13 13:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7tsavefoq26" target="_blank">sokuho.news</a> (2025-12-13 13:45:55)</span><span style="padding-right:50px;">Youth movement highlights Kara Lawson's first USA camp reut.rs/4rS5G08 <a href="https://bsky.app/profile/reuters.com/post/3m7trwmdj2m2p" target="_blank">reuters.com</a> (2025-12-13 13:40:10)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】マンションの敷地内で倒れている15歳中学生みつかる 搬送先の病院で死亡が確認 警察は原因を調査 兵庫・姫路市 (2025-12-13 13:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7trohwa2k2s" target="_blank">sokuho.news</a> (2025-12-13 13:35:37)</span><span style="padding-right:50px;">Spurs star C Victor Wembanyama (calf) to return vs. Thunder reut.rs/3KOIMpQ <a href="https://bsky.app/profile/reuters.com/post/3m7trfmtzdi23" target="_blank">reuters.com</a> (2025-12-13 13:30:40)</span><span style="padding-right:50px;">旧姓使用の法制化、銀行口座開設に一定効果 www.nikkei.com/article/DGXZQO...  政府は旧姓の通称使用に関する法案を2026年の通常国会に提出する方針。法的な効力を持たせて不便の解消を狙います。  一方で海外では旧姓を名乗っても、通称という制度が理解されずに混乱が生じる場合もあります。 <a href="https://bsky.app/profile/nikkei.com/post/3m7trfhssgo22" target="_blank">nikkei.com</a> (2025-12-13 13:30:35)</span>
+<span style="padding-right:50px;"> Rubio is not alone in going to war over fonts on.ft.com/4iVhWZO  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m7ttiofhbe2c" target="_blank">financialtimes.com</a> (2025-12-13 14:08:10)</span><span style="padding-right:50px;"> The other kind of migrant on.ft.com/3XSgoGd  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m7ttioigfr2q" target="_blank">financialtimes.com</a> (2025-12-13 14:08:10)</span><span style="padding-right:50px;">The world of watches can feel like a secret society, with its own lore and lexicon.  To help you avoid unintentionally committing a faux pas, we’ve compiled seven guidelines that cater to all types of watch-wearers. ⌚️: on.wsj.com/3MvYXc6 <a href="https://bsky.app/profile/wsj.com/post/3m7ttb2stnr2q" target="_blank">wsj.com</a> (2025-12-13 14:03:54)</span><span style="padding-right:50px;">President Donald Trump on Thursday ordered a review of two major proxy advisory firms — companies that advise shareholders on votes — that had previously drawn the ire of Tesla CEO Elon Musk and others in Corporate America. <a href="https://bsky.app/profile/cnn.com/post/3m7tt3vnbgv2v" target="_blank">cnn.com</a> (2025-12-13 14:01:01)</span><span style="padding-right:50px;">中国企業が、ベトナムに投資を進め、事業を拡大させている。同じ社会主義国で国境を接している両国は、領有権問題などを抱え複雑な関係だったが、トランプ米大統領による輸入関税引き上げという逆風が双方を急接近させている。 bit.ly/3L0HmIR <a href="https://bsky.app/profile/japan.reuters.com/post/3m7tt3s3nsp2c" target="_blank">japan.reuters.com</a> (2025-12-13 14:00:58)</span>
   </div>
 </div>
 
@@ -32,103 +32,103 @@
 
 ## News Headlines
 
-1. 15歳中学生がマンション敷地内で倒れている
-2. 政府は旧姓の通称使用に関する法案を提出
-3. ケビン・ウォーシュかハセット氏が連邦準備理事会議長に
-4. アメリカ大統領が「ミラクル・オン・アイス」選手に感謝
-5. 株価が下落　連邦準備理事会の発言が影響
-6. ノーベル平和賞のモハンマディ氏が身柄拘束
+1. 
+2. 
+3. 
+4. 
+5. 
+6.
 
 ----
 
-@sokuho.news
+@financialtimes.com
 
-🛎️FNNより【速報】です。
+ Rubio is not alone in going to war over fonts on.ft.com/4iVhWZO  | opinion
 
-【速報】マンション敷地内で倒れている15歳の男子中学生みつかる 搬送先の病院で死亡が確認 上層階から転落したか…兵庫・姫路市
-(2025-12-13 13:00) #ニュース
-
-[2025-12-13 13:45:55](https://bsky.app/profile/sokuho.news/post/3m7tsavefoq26)
+[2025-12-13 14:08:10](https://bsky.app/profile/financialtimes.com/post/3m7ttiofhbe2c)
 
 ---
 
-@reuters.com
+@financialtimes.com
 
-Youth movement highlights Kara Lawson's first USA camp reut.rs/4rS5G08
+ The other kind of migrant on.ft.com/3XSgoGd  | opinion
 
-[2025-12-13 13:40:10](https://bsky.app/profile/reuters.com/post/3m7trwmdj2m2p)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】マンションの敷地内で倒れている15歳中学生みつかる 搬送先の病院で死亡が確認 警察は原因を調査 兵庫・姫路市
-(2025-12-13 13:00) #ニュース
-
-[2025-12-13 13:35:37](https://bsky.app/profile/sokuho.news/post/3m7trohwa2k2s)
-
----
-
-@reuters.com
-
-Spurs star C Victor Wembanyama (calf) to return vs. Thunder reut.rs/3KOIMpQ
-
-[2025-12-13 13:30:40](https://bsky.app/profile/reuters.com/post/3m7trfmtzdi23)
-
----
-
-@nikkei.com
-
-旧姓使用の法制化、銀行口座開設に一定効果
-www.nikkei.com/article/DGXZQO...
-
-政府は旧姓の通称使用に関する法案を2026年の通常国会に提出する方針。法的な効力を持たせて不便の解消を狙います。
-
-一方で海外では旧姓を名乗っても、通称という制度が理解されずに混乱が生じる場合もあります。
-
-[2025-12-13 13:30:35](https://bsky.app/profile/nikkei.com/post/3m7trfhssgo22)
-
----
-
-@japan.reuters.com
-
-トランプ米大統領は来年５月に任期が切れる連邦準備理事会（ＦＲＢ）のパウエル議長の後任に、ケビン・ウォーシュ元ＦＲＢ理事か米国家経済会議（ＮＥＣ）のケビン・ハセット委員長を起用する方向で検討している。米紙ウォール・ストリート・ジャーナル（ＷＳＪ）が１２日、報じた。 bit.ly/44kYHTu
-
-[2025-12-13 13:30:32](https://bsky.app/profile/japan.reuters.com/post/3m7trfejora2q)
-
----
-
-@nytimes.com
-
-The most appreciated gifts aren’t the trendiest ones — they’re the ones that last forever. These are Wirecutter picks for buy-it-for-life gifts. nyti.ms/4oKYzEa
-
-[2025-12-13 13:30:07](https://bsky.app/profile/nytimes.com/post/3m7tremt7va2y)
-
----
-
-@reuters.com
-
-Trump honors 'Miracle on Ice' hockey players who defeated Soviets in 1980 reut.rs/48S8wK3
-
-[2025-12-13 13:20:13](https://bsky.app/profile/reuters.com/post/3m7tqswu4ao2c)
-
----
-
-@reuters.com
-
-Azul wins court nod for debt restructuring, American and United to invest reut.rs/3MxhIfj
-
-[2025-12-13 13:10:10](https://bsky.app/profile/reuters.com/post/3m7tqaxu2nl2i)
+[2025-12-13 14:08:10](https://bsky.app/profile/financialtimes.com/post/3m7ttioigfr2q)
 
 ---
 
 @wsj.com
 
-An obscure company pivoted, then pivoted again, nearly ran out of money—and built a hit product on.wsj.com/3YnJ1v0
+The world of watches can feel like a secret society, with its own lore and lexicon.
 
-[2025-12-13 13:03:36](https://bsky.app/profile/wsj.com/post/3m7tpv7cxlm2c)
+To help you avoid unintentionally committing a faux pas, we’ve compiled seven guidelines that cater to all types of watch-wearers. ⌚️: on.wsj.com/3MvYXc6
+
+[2025-12-13 14:03:54](https://bsky.app/profile/wsj.com/post/3m7ttb2stnr2q)
+
+---
+
+@cnn.com
+
+President Donald Trump on Thursday ordered a review of two major proxy advisory firms — companies that advise shareholders on votes — that had previously drawn the ire of Tesla CEO Elon Musk and others in Corporate America.
+
+[2025-12-13 14:01:01](https://bsky.app/profile/cnn.com/post/3m7tt3vnbgv2v)
+
+---
+
+@japan.reuters.com
+
+中国企業が、ベトナムに投資を進め、事業を拡大させている。同じ社会主義国で国境を接している両国は、領有権問題などを抱え複雑な関係だったが、トランプ米大統領による輸入関税引き上げという逆風が双方を急接近させている。 bit.ly/3L0HmIR
+
+[2025-12-13 14:00:58](https://bsky.app/profile/japan.reuters.com/post/3m7tt3s3nsp2c)
+
+---
+
+@nikkei.com
+
+角野隼斗がKアリーナ横浜でクラシック　1万8000人の静寂、ギネスにも認定
+www.nikkei.com/article/DGXZQO...
+
+音楽と映像が連動するため初心者も楽しめ、生音での演奏には聴衆が耳をそばだてる。
+
+「世の中は目まぐるしく変化していますが、僕は変わらずここに、ピアノの前にいます」
+ 
+チケットの売り上げ枚数がギネス世界記録に認定されたリサイタルを振り返ります。
+
+[2025-12-13 14:00:50](https://bsky.app/profile/nikkei.com/post/3m7tt3kvhfz26)
+
+---
+
+@reuters.com
+
+Report: Guardians manager Stephen Vogt already has extension reut.rs/4a8prdw
+
+[2025-12-13 14:00:46](https://bsky.app/profile/reuters.com/post/3m7tt3h7zaq23)
+
+---
+
+@cnbc.com
+
+Shopify president Harley Finkelstein says you can be a top performer without working 80 hours a week and people should aim for "harmony" over work-life balance.
+
+[2025-12-13 14:00:13](https://bsky.app/profile/cnbc.com/post/3m7tt2hgusq25)
+
+---
+
+@washingtonpost.com
+
+Austin Dirks walked through a shallow stream of water in a Utah canyon that looked and felt similar to dozens of others the avid hiker has passed.
+
+But during his Sunday hike, his left foot suddenly sank into the ground.
+
+[2025-12-13 14:00:07](https://bsky.app/profile/washingtonpost.com/post/3m7tt2bmeqb2p)
+
+---
+
+@npr.org
+
+President Trump has been racing to rack up peace deals — but keeping them intact is proving far more difficult. n.pr/4qawvLv
+
+[2025-12-13 13:52:23](https://bsky.app/profile/npr.org/post/3m7tsmhjok42m)
 
 ---
 
