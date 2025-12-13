@@ -1,9 +1,9 @@
-# [2025-12-13 20:10 updated](2025_12_13.md)
+# [2025-12-13 20:30 updated](2025_12_13.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Sacks is the Trump administration's top advisor on tech and crypto policy. In recent weeks, he's faced questions about conflicts of interest and criticism over his drive to undo state AI laws. n.pr/3MxKlcd <a href="https://bsky.app/profile/npr.org/post/3m7uhi35qce25" target="_blank">npr.org</a> (2025-12-13 20:05:45)</span><span style="padding-right:50px;">即席麺の1人当たり消費量、首位はベトナム　韓国とタイが続く www.nikkei.com/article/DGXZQO... <a href="https://bsky.app/profile/nikkei.com/post/3m7uh7bip5m2c" target="_blank">nikkei.com</a> (2025-12-13 20:00:49)</span><span style="padding-right:50px;">Police detain organiser of Messi visit after Indian fans rip up seats reut.rs/3XSRs1s <a href="https://bsky.app/profile/reuters.com/post/3m7uh72fgxk2s" target="_blank">reuters.com</a> (2025-12-13 20:00:42)</span><span style="padding-right:50px;">"Tell me about a time you failed," often brings stress for interviewees, a career expert says.  Here’s how she recommends tackling the question, and why she says it's important to have a couple “negative” scenarios in your back pocket. <a href="https://bsky.app/profile/cnbc.com/post/3m7uh6buofq2g" target="_blank">cnbc.com</a> (2025-12-13 20:00:16)</span><span style="padding-right:50px;">On Saturday night, get ready for a stunning display of green meteors — weather permitting. The Geminids, regarded as the year’s biggest and best meteor shower, could sling 50 meteors overhead every single hour. https://wapo.st/4aa52EZ <a href="https://bsky.app/profile/washingtonpost.com/post/3m7uh63nl4p2p" target="_blank">washingtonpost.com</a> (2025-12-13 20:00:10)</span>
+<span style="padding-right:50px;">Transatlantic rupture on.ft.com/44VK5dk <a href="https://bsky.app/profile/financialtimes.com/post/3m7uio3grkv23" target="_blank">financialtimes.com</a> (2025-12-13 20:27:00)</span><span style="padding-right:50px;">'Pins on a Map': How Chicago students are tracking ICE raids reut.rs/4oVLWG5 <a href="https://bsky.app/profile/reuters.com/post/3m7uikrd3en2o" target="_blank">reuters.com</a> (2025-12-13 20:25:09)</span><span style="padding-right:50px;">Accra like a local reut.rs/4iY5EzO <a href="https://bsky.app/profile/reuters.com/post/3m7uhyzlktg2b" target="_blank">reuters.com</a> (2025-12-13 20:15:13)</span><span style="padding-right:50px;">Prosecutors say fired University of Michigan football coach Sherrone Moore threatened to kill himself in front of a woman with whom he had been having an affair after she broke off the relationship and reported it to school officials. <a href="https://bsky.app/profile/apnews.com/post/3m7uhysvok52u" target="_blank">apnews.com</a> (2025-12-13 20:15:07)</span><span style="padding-right:50px;">Tokyo is all about contrasts: centuries-old shrines tucked beside glass towers and quiet gardens a few train stops from the neon storm of Shibuya. Here's a guide to your inaugural trip — and future visits — to the Japanese city. <a href="https://bsky.app/profile/nytimes.com/post/3m7uhpt6psj2b" target="_blank">nytimes.com</a> (2025-12-13 20:10:05)</span>
   </div>
 </div>
 
@@ -32,14 +32,56 @@
 
 ## News Headlines
 
-1. 激しく立ち上る煙　札幌中心部のビルから出火
-2. 北日本～北陸　14日以降　雪雨伴う大荒れ天気に　暴風雪など警戒
-3. 毎日が「場外」　地方選挙に広がるSNSの影響
-4. スペースX「2026年にもIPOの可能性」従業員に通知
-5. ドナルド・トランプ氏が指示　タイとカンボジア軍事衝突に
-6. 北日本～北陸　14日以降　雪雨伴う大荒れ天気に　暴風雪など警戒
+Here are six important stories with Japanese headlines:
+
+1. トランプ政権の分裂が深まる
+2. ICEの拉致活動を追跡する学生たち
+3. マッシブな雪害が北日本に襲来
+4. スペースXが2026年にIPOを計画
+5. 日本は世界で幸福度の順位が低い
+6. インドでメッシの来日が暴徒化
 
 ----
+
+@financialtimes.com
+
+Transatlantic rupture on.ft.com/44VK5dk
+
+[2025-12-13 20:27:00](https://bsky.app/profile/financialtimes.com/post/3m7uio3grkv23)
+
+---
+
+@reuters.com
+
+'Pins on a Map': How Chicago students are tracking ICE raids reut.rs/4oVLWG5
+
+[2025-12-13 20:25:09](https://bsky.app/profile/reuters.com/post/3m7uikrd3en2o)
+
+---
+
+@reuters.com
+
+Accra like a local reut.rs/4iY5EzO
+
+[2025-12-13 20:15:13](https://bsky.app/profile/reuters.com/post/3m7uhyzlktg2b)
+
+---
+
+@apnews.com
+
+Prosecutors say fired University of Michigan football coach Sherrone Moore threatened to kill himself in front of a woman with whom he had been having an affair after she broke off the relationship and reported it to school officials.
+
+[2025-12-13 20:15:07](https://bsky.app/profile/apnews.com/post/3m7uhysvok52u)
+
+---
+
+@nytimes.com
+
+Tokyo is all about contrasts: centuries-old shrines tucked beside glass towers and quiet gardens a few train stops from the neon storm of Shibuya. Here's a guide to your inaugural trip — and future visits — to the Japanese city.
+
+[2025-12-13 20:10:05](https://bsky.app/profile/nytimes.com/post/3m7uhpt6psj2b)
+
+---
 
 @npr.org
 
@@ -81,59 +123,6 @@ Here’s how she recommends tackling the question, and why she says it's importa
 On Saturday night, get ready for a stunning display of green meteors — weather permitting. The Geminids, regarded as the year’s biggest and best meteor shower, could sling 50 meteors overhead every single hour. https://wapo.st/4aa52EZ
 
 [2025-12-13 20:00:10](https://bsky.app/profile/washingtonpost.com/post/3m7uh63nl4p2p)
-
----
-
-@nhknewsunofficial.bsky.social
-
-“場外”からなぜ投稿？地方選挙に広がるSNSの影響
-https://news.web.nhk/newsweb/na/na-k10015002131000
-
-[2025-12-13 19:51:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ugntowfw2b)
-
----
-
-@reuters.com
-
-Pinched by higher prices, many Trump voters say: Don't blame the president reut.rs/4pEpwKS
-
-[2025-12-13 19:50:09](https://bsky.app/profile/reuters.com/post/3m7ugm76klo2k)
-
----
-
-@financialtimes.com
-
- The fashionably late Fed on.ft.com/44TxQxW  | opinion
-
-[2025-12-13 19:42:13](https://bsky.app/profile/financialtimes.com/post/3m7ug5yr4uh2o)
-
----
-
-@nikkei.com
-
-スペースX、「2026年にもIPOの可能性」従業員に通知　NYT報道
-www.nikkei.com/article/DGXZQO...
-
-イーロン・マスク氏が率いる宇宙開発企業のスペースXが上場すれば、過去最大規模になる可能性があります。
-
-従業員向けの書簡では同社の評価額が約8000億ドル（約125兆円）となる1株421ドルで未公開の株式を買い戻すと記しました。
-
-現在評価額はOpenAIの約5000億ドルを抜き、世界で最高値の非上場企業となる見込みです。
-
-#ニュース
-
-[2025-12-13 19:41:00](https://bsky.app/profile/nikkei.com/post/3m7ug3sw7jc2g)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】激しく立ち上る煙 札幌中心部の居酒屋と歯科医院が入るビルから出火 けが人の情報なし
-(2025-12-13 19:38) #ニュース
-
-[2025-12-13 19:38:35](https://bsky.app/profile/sokuho.news/post/3m7ufxinvvd2r)
 
 ---
 
