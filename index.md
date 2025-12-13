@@ -1,9 +1,9 @@
-# [2025-12-13 12:30 updated](2025_12_13.md)
+# [2025-12-13 12:50 updated](2025_12_13.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Drunk raccoon found in liquor store suspected in karate studio break-in <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7tnhz2cgj2s" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-13 12:20:24)</span><span style="padding-right:50px;">US president's new Air Force One jet from Boeing delayed again reut.rs/3KZ0nLJ <a href="https://bsky.app/profile/reuters.com/post/3m7tnhvmbvl2p" target="_blank">reuters.com</a> (2025-12-13 12:20:22)</span><span style="padding-right:50px;">California lawmakers are demanding more information on an early earthquake warning system managed by the U.S. Geological Survey after it issued a false alert last week that a magnitude-5.9 earthquake had struck near the California-Nevada border. <a href="https://bsky.app/profile/nytimes.com/post/3m7tnhffwwe2b" target="_blank">nytimes.com</a> (2025-12-13 12:20:05)</span><span style="padding-right:50px;">Ukraine's health supplies hit in series of Russian strikes on medical warehouses <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7tng2wb2g2y" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-13 12:19:19)</span><span style="padding-right:50px;">世田谷一家殺害事件からまもなく25年 情報提供呼びかけ 警視庁 https://news.web.nhk/newsweb/na/na-k10015003021000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7tmz34ejx2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-13 12:12:02)</span>
+<span style="padding-right:50px;">ノーベル平和賞のモハンマディ氏がイラン治安当局に身柄拘束 https://news.web.nhk/newsweb/na/na-k10015002971000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7tozhiatg2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-13 12:48:03)</span><span style="padding-right:50px;">Venezuela-US tensions spike in wake of seized tanker as Nobel winner vows change reut.rs/4rV2yka <a href="https://bsky.app/profile/reuters.com/post/3m7tolms3p42o" target="_blank">reuters.com</a> (2025-12-13 12:40:20)</span><span style="padding-right:50px;">Bipartisan group of US lawmakers calls for export controls on synthetic DNA sequences reut.rs/49enZnZ <a href="https://bsky.app/profile/reuters.com/post/3m7to2k7gcg2b" target="_blank">reuters.com</a> (2025-12-13 12:30:47)</span><span style="padding-right:50px;">米国株式市場は、主要株価３指数が軒並み下落。ナスダック総合とＳ＆Ｐ総合５００種の下落率は１％を超えた。半導体大手ブロードコムとＩＴ大手オラクルの決算に絡み、人工知能（ＡＩ）バブルへの懸念が高まる中、資金がハイテクセクターから他のセクターにシフトした。また、米連邦準備理事会（ＦＲＢ）当局者らの発言を受けた米債利回りの上昇も、相場の一段の重しとなった。 bit.ly/3KrMuFS <a href="https://bsky.app/profile/japan.reuters.com/post/3m7to2fpkrz2p" target="_blank">japan.reuters.com</a> (2025-12-13 12:30:43)</span><span style="padding-right:50px;">就業者最多なのに働く時間は1割減　老人ホームは「超細切れ業務」 www.nikkei.com/article/DGXZQO...  味噌汁の温め、浴場の塩素濃度確認……。  ベネッセグループは提供するサービスを451種類に細分化する業務改革。約9割をスポットワーカーも担えるようにしました。 <a href="https://bsky.app/profile/nikkei.com/post/3m7to27yjso2g" target="_blank">nikkei.com</a> (2025-12-13 12:30:37)</span>
   </div>
 </div>
 
@@ -32,14 +32,68 @@
 
 ## News Headlines
 
-1. ドルが円など主要通貨に上昇　FEDの利下げ観測の影響
-2. ドラッグストアで酩酊したタンチョウがカラテスタジオに乱入　警察の捜査
-3. 25年前の世田谷一家殺害事件　情報提供呼びかけ　警視庁
-4. エジプト代表FWモハメド・サラーがリバプールのブライトン戦メンバーに
-5. ドラッグストアで火災　３棟が全焼　６人を病院に運転転送
-6. HPV検査の自己検尿　効果はどれくらい？
+1. ノーベル平和賞受賞者のモハンマディ氏がイランの治安当局に逮捕される
+2. 米国株式市場が大幅下落、ナスダック総合指数とＳ＆Ｐ総合500種が1％を超える
+3. 米国で老人ホームの従業員が1割減　「超細切れ業務」に
+4. ドナルド・トランプ米大統領の新型エアフォースワンがボーイングからさらに遅延
+5. カリフォルニア州で早期地震予知システムの誤報に対し、議員が情報要求
+6. ロシアの攻撃でウクライナの医療施設に被害
 
 ----
+
+@nhknewsunofficial.bsky.social
+
+ノーベル平和賞のモハンマディ氏がイラン治安当局に身柄拘束
+https://news.web.nhk/newsweb/na/na-k10015002971000
+
+[2025-12-13 12:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7tozhiatg2w)
+
+---
+
+@reuters.com
+
+Venezuela-US tensions spike in wake of seized tanker as Nobel winner vows change reut.rs/4rV2yka
+
+[2025-12-13 12:40:20](https://bsky.app/profile/reuters.com/post/3m7tolms3p42o)
+
+---
+
+@reuters.com
+
+Bipartisan group of US lawmakers calls for export controls on synthetic DNA sequences reut.rs/49enZnZ
+
+[2025-12-13 12:30:47](https://bsky.app/profile/reuters.com/post/3m7to2k7gcg2b)
+
+---
+
+@japan.reuters.com
+
+米国株式市場は、主要株価３指数が軒並み下落。ナスダック総合とＳ＆Ｐ総合５００種の下落率は１％を超えた。半導体大手ブロードコムとＩＴ大手オラクルの決算に絡み、人工知能（ＡＩ）バブルへの懸念が高まる中、資金がハイテクセクターから他のセクターにシフトした。また、米連邦準備理事会（ＦＲＢ）当局者らの発言を受けた米債利回りの上昇も、相場の一段の重しとなった。 bit.ly/3KrMuFS
+
+[2025-12-13 12:30:43](https://bsky.app/profile/japan.reuters.com/post/3m7to2fpkrz2p)
+
+---
+
+@nikkei.com
+
+就業者最多なのに働く時間は1割減　老人ホームは「超細切れ業務」
+www.nikkei.com/article/DGXZQO...
+
+味噌汁の温め、浴場の塩素濃度確認……。
+
+ベネッセグループは提供するサービスを451種類に細分化する業務改革。約9割をスポットワーカーも担えるようにしました。
+
+[2025-12-13 12:30:37](https://bsky.app/profile/nikkei.com/post/3m7to27yjso2g)
+
+---
+
+@cbsnews.com
+
+Charlie Hicks ate his lunch and dinner at the Shrimp Basket in Pensacola, Florida, every day for 10 years. When he suddenly stopped showing up, the chef went looking for him, and ultimately saved his life.
+
+[2025-12-13 12:30:01](https://bsky.app/profile/cbsnews.com/post/3m7tnz66uht2z)
+
+---
 
 @bbcnews-world-rss.bsky.social
 
@@ -70,57 +124,6 @@ California lawmakers are demanding more information on an early earthquake warni
 Ukraine's health supplies hit in series of Russian strikes on medical warehouses
 
 [2025-12-13 12:19:19](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7tng2wb2g2y)
-
----
-
-@nhknewsunofficial.bsky.social
-
-世田谷一家殺害事件からまもなく25年 情報提供呼びかけ 警視庁
-https://news.web.nhk/newsweb/na/na-k10015003021000
-
-[2025-12-13 12:12:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7tmz34ejx2v)
-
----
-
-@reuters.com
-
-Joint Saudi-Emirate delegation in Aden for talks as 32 killed in STC takeover reut.rs/48PpxEp
-
-[2025-12-13 12:10:25](https://bsky.app/profile/reuters.com/post/3m7tmw4gq6d2b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-北日本～北陸 あす以降 雪雨伴う荒れた天気に 暴風高波に警戒
-https://news.web.nhk/newsweb/na/na-k10015002791000
-
-[2025-12-13 12:06:06](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7tmoicnz62b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-後発地震注意情報 “引き続き日頃の備え確認を” 気象庁
-https://news.web.nhk/newsweb/na/na-k10015002781000
-
-[2025-12-13 12:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7tmodzpd52s)
-
----
-
-@japan.reuters.com
-
-サッカーのイングランド・プレミアリーグ、リバプールでクラブ批判が問題となったエジプト代表ＦＷモハメド・サラーが、１３日にホームで行われるブライトン戦のメンバーに入ったと、英メディアが報じた。 bit.ly/4rVO8jQ
-
-[2025-12-13 12:03:51](https://bsky.app/profile/japan.reuters.com/post/3m7tmkexlwi2p)
-
----
-
-@wsj.com
-
-Machines that show their work, in ways that are impossible for humans, could overcome the public’s inherent distrust. on.wsj.com/4rV10Xo
-
-[2025-12-13 12:01:58](https://bsky.app/profile/wsj.com/post/3m7tmgzgaz42s)
 
 ---
 
