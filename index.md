@@ -1,9 +1,9 @@
-# [2025-12-13 19:30 updated](2025_12_13.md)
+# [2025-12-13 19:50 updated](2025_12_13.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】千代田区の交差点で乗用車2台の事故 4人けがで病院搬送も命に別状なし (19:27) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7uffb3t7l2b" target="_blank">sokuho.news</a> (2025-12-13 19:28:23)</span><span style="padding-right:50px;">Libya's Red Castle museum opens for first time since fall of Gaddafi reut.rs/3KXfNQI <a href="https://bsky.app/profile/reuters.com/post/3m7uf7imubz23" target="_blank">reuters.com</a> (2025-12-13 19:25:09)</span><span style="padding-right:50px;">タイとカンボジア軍事衝突 トランプ氏電話後も事態打開至らず https://news.web.nhk/newsweb/na/na-k10015002931000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7uf5kumu32l" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-13 19:24:02)</span><span style="padding-right:50px;">拉致被害者家族が救出訴え 帰国待ち望む家族が世界各国に https://news.web.nhk/newsweb/na/na-k10015003031000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7uey6wfvo2d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-13 19:21:02)</span><span style="padding-right:50px;">世田谷一家殺害事件まもなく25年 捜査状況や犯人像を詳しく https://news.web.nhk/newsweb/na/na-k10015003021000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7uei4rvzx2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-13 19:12:03)</span>
+<span style="padding-right:50px;"> The fashionably late Fed on.ft.com/44TxQxW  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m7ug5yr4uh2o" target="_blank">financialtimes.com</a> (2025-12-13 19:42:13)</span><span style="padding-right:50px;">スペースX、「2026年にもIPOの可能性」従業員に通知　NYT報道 www.nikkei.com/article/DGXZQO...  イーロン・マスク氏が率いる宇宙開発企業のスペースXが上場すれば、過去最大規模になる可能性があります。  従業員向けの書簡では同社の評価額が約8000億ドル（約125兆円）となる1株421ドルで未公開の株式を買い戻すと記しました。  現在評価額はOpenAIの約5000億ドルを抜き、世界で最高値の非上場企業となる見込みです。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m7ug3sw7jc2g" target="_blank">nikkei.com</a> (2025-12-13 19:41:00)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】激しく立ち上る煙 札幌中心部の居酒屋と歯科医院が入るビルから出火 けが人の情報なし (2025-12-13 19:38) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7ufxinvvd2r" target="_blank">sokuho.news</a> (2025-12-13 19:38:35)</span><span style="padding-right:50px;">Video footage released by North Korea showed uniformed soldiers disembarking from an aircraft, Kim hugging a soldier seated in a wheelchair, and soldiers and officials gathered to welcome the troops. https://cnn.it/48Cmn8o <a href="https://bsky.app/profile/cnn.com/post/3m7uftb7ci22u" target="_blank">cnn.com</a> (2025-12-13 19:36:13)</span><span style="padding-right:50px;">US Veterans Affairs agency plans health care job cuts, WaPo reports reut.rs/48PYwRd <a href="https://bsky.app/profile/reuters.com/post/3m7ufreh4ac23" target="_blank">reuters.com</a> (2025-12-13 19:35:09)</span>
   </div>
 </div>
 
@@ -32,16 +32,106 @@
 
 ## News Headlines
 
-以下は6つのニュースの見出しです。
-
-1.  速報：千代田区の交差点で乗用車2台の事故
-2.  ララーチャ市の赤い城博物館がガダフィー政権崩壊以来初めて開館
-3.  チャイニーズニュース：タイとカンボジア軍事衝突、トランプ氏電話後も解決に至らず
-4.  「世田谷一家殺害事件」25年、捜査状況や犯人像をまとめる
-5.  北日本から北陸にかけて14日以降、雪雨伴う大荒れ天気に警戒
-6.  大阪、住吉区で集合住宅火災、女性1人が死亡
+1. スペースX「2026年にもIPOの可能性」従業員に通知
+2. 札幌中心部のビルから火災　けが人の情報なし
+3. 北朝鮮、復帰を願う拉致被害者家族が世界各国に救出訴え
+4. 大阪　住吉区の集合住宅で火事　3階の部屋が焼け女性死亡
+5. 令和なコトバ「出羽守」　むかし欧米、いまDX
+6. イラン、莫大な税金で重油消費を抑えよう
 
 ----
+
+@financialtimes.com
+
+ The fashionably late Fed on.ft.com/44TxQxW  | opinion
+
+[2025-12-13 19:42:13](https://bsky.app/profile/financialtimes.com/post/3m7ug5yr4uh2o)
+
+---
+
+@nikkei.com
+
+スペースX、「2026年にもIPOの可能性」従業員に通知　NYT報道
+www.nikkei.com/article/DGXZQO...
+
+イーロン・マスク氏が率いる宇宙開発企業のスペースXが上場すれば、過去最大規模になる可能性があります。
+
+従業員向けの書簡では同社の評価額が約8000億ドル（約125兆円）となる1株421ドルで未公開の株式を買い戻すと記しました。
+
+現在評価額はOpenAIの約5000億ドルを抜き、世界で最高値の非上場企業となる見込みです。
+
+#ニュース
+
+[2025-12-13 19:41:00](https://bsky.app/profile/nikkei.com/post/3m7ug3sw7jc2g)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】激しく立ち上る煙 札幌中心部の居酒屋と歯科医院が入るビルから出火 けが人の情報なし
+(2025-12-13 19:38) #ニュース
+
+[2025-12-13 19:38:35](https://bsky.app/profile/sokuho.news/post/3m7ufxinvvd2r)
+
+---
+
+@cnn.com
+
+Video footage released by North Korea showed uniformed soldiers disembarking from an aircraft, Kim hugging a soldier seated in a wheelchair, and soldiers and officials gathered to welcome the troops.
+https://cnn.it/48Cmn8o
+
+[2025-12-13 19:36:13](https://bsky.app/profile/cnn.com/post/3m7uftb7ci22u)
+
+---
+
+@reuters.com
+
+US Veterans Affairs agency plans health care job cuts, WaPo reports reut.rs/48PYwRd
+
+[2025-12-13 19:35:09](https://bsky.app/profile/reuters.com/post/3m7ufreh4ac23)
+
+---
+
+@wsj.com
+
+A tough job market and the threat of artificial intelligence are leading to some radical career changes. on.wsj.com/3MxAGT3
+
+[2025-12-13 19:33:44](https://bsky.app/profile/wsj.com/post/3m7ufotueu42k)
+
+---
+
+@wsj.com
+
+The Federal Reserve’s next moves on the size of its balance sheet could matter for banks as much or more than its decisions on rate cuts. on.wsj.com/3KxQfto
+
+[2025-12-13 19:33:12](https://bsky.app/profile/wsj.com/post/3m7ufnupagu2u)
+
+---
+
+@nikkei.com
+
+令和なコトバ「出羽守」　むかし欧米、いまDX
+www.nikkei.com/article/DGXZQO...
+
+読み方は「でわのかみ」。昭和からあるスラングですが、どういう意味なのでしょうか。
+
+ヒントは「アメリカでは……」「香港では……」。
+
+何かにつけて比較する人、周りにいませんか？
+
+[2025-12-13 19:30:36](https://bsky.app/profile/nikkei.com/post/3m7ufj7l7rk2m)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Anger at Lionel Messi 'GOAT' India tour as fans throw chairs and bottles at stadium event
+
+[2025-12-13 19:29:49](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7ufhuhjgd2b)
+
+---
 
 @sokuho.news
 
@@ -51,91 +141,6 @@
 (19:27) #ニュース
 
 [2025-12-13 19:28:23](https://bsky.app/profile/sokuho.news/post/3m7uffb3t7l2b)
-
----
-
-@reuters.com
-
-Libya's Red Castle museum opens for first time since fall of Gaddafi reut.rs/3KXfNQI
-
-[2025-12-13 19:25:09](https://bsky.app/profile/reuters.com/post/3m7uf7imubz23)
-
----
-
-@nhknewsunofficial.bsky.social
-
-タイとカンボジア軍事衝突 トランプ氏電話後も事態打開至らず
-https://news.web.nhk/newsweb/na/na-k10015002931000
-
-[2025-12-13 19:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7uf5kumu32l)
-
----
-
-@nhknewsunofficial.bsky.social
-
-拉致被害者家族が救出訴え 帰国待ち望む家族が世界各国に
-https://news.web.nhk/newsweb/na/na-k10015003031000
-
-[2025-12-13 19:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7uey6wfvo2d)
-
----
-
-@nhknewsunofficial.bsky.social
-
-世田谷一家殺害事件まもなく25年 捜査状況や犯人像を詳しく
-https://news.web.nhk/newsweb/na/na-k10015003021000
-
-[2025-12-13 19:12:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7uei4rvzx2v)
-
----
-
-@reuters.com
-
-Sustainable Switch Climate Focus: Do rising temperatures cause Asia’s deadly storms? reut.rs/48VQ4QN
-
-[2025-12-13 19:10:14](https://bsky.app/profile/reuters.com/post/3m7ueesq2ge2i)
-
----
-
-@nhknewsunofficial.bsky.social
-
-北日本～北陸 14日以降 雪雨伴う大荒れ天気に 暴風雪など警戒
-https://news.web.nhk/newsweb/na/na-k10015002791000
-
-[2025-12-13 19:06:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ue5j4jxx2k)
-
----
-
-@nhknewsunofficial.bsky.social
-
-大阪 住吉区 集合住宅で火事 3階の部屋が焼け女性1人が死亡
-https://news.web.nhk/newsweb/na/na-k10015003211000
-
-[2025-12-13 19:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ue5emt2a26)
-
----
-
-@nikkei.com
-
-日本人は「不幸せ」？　幸福度調査の順位が低いワケ
-www.nikkei.com/article/DGXZQO...
-
-オックスフォード大などがまとめる「世界幸福度報告書」2025年版で、日本は147カ国・地域のうち55位に。
-
-世界4位の経済大国で、「健康寿命」も2位。それでも低迷する幸福度の順位に、専門家は「当然の結果」と言い切ります。
-
-[2025-12-13 19:00:36](https://bsky.app/profile/nikkei.com/post/3m7udtkxdg22x)
-
----
-
-@sokuho.news
-
-🛎️文春より【スクープ】です。
-
-BE:FIRST LEO（27）が横田真悠（26）と交際報道 ファンからは驚きと祝福のコメント「『ラヴィット！』でも共演しているしお似合い」「パフォーマンスの糧に」
-(2025-12-13 19:00) #ニュース
-
-[2025-12-13 19:00:23](https://bsky.app/profile/sokuho.news/post/3m7udt776jf2z)
 
 ---
 
