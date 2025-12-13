@@ -1,9 +1,9 @@
-# [2025-12-13 15:50 updated](2025_12_13.md)
+# [2025-12-13 16:10 updated](2025_12_13.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Sorry, that page was not found <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7tz5godf32b" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-13 15:49:15)</span><span style="padding-right:50px;">Doorbell camera captures moment Hayward, California home explodes <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7tz3jqg4a2r" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-13 15:48:11)</span><span style="padding-right:50px;">Huawei's latest handset uses improved China-made chip, report shows reut.rs/4aL6ygS <a href="https://bsky.app/profile/reuters.com/post/3m7tyw7ozfz24" target="_blank">reuters.com</a> (2025-12-13 15:45:13)</span><span style="padding-right:50px;">中国 「南京事件」の追悼式典で日本をけん制 https://news.web.nhk/newsweb/na/na-k10015003111000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7tyvxfhcv2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-13 15:45:03)</span><span style="padding-right:50px;">China holds low-key Nanjing Massacre memorial despite Japan tensions reut.rs/48ShdUs <a href="https://bsky.app/profile/reuters.com/post/3m7tyn6ace623" target="_blank">reuters.com</a> (2025-12-13 15:40:10)</span>
+<span style="padding-right:50px;">Canucks trade former Norris Trophy winner Quinn Hughes to Wild reut.rs/48SglPV <a href="https://bsky.app/profile/reuters.com/post/3m7tzzup2vu2y" target="_blank">reuters.com</a> (2025-12-13 16:05:10)</span><span style="padding-right:50px;">Every night Taylor Swift stepped out to perform on the Eras Tour, she became a symbol as much as a person – the biggest pop star of her generation who had created a billion-dollar phenomenon.  <a href="https://bsky.app/profile/cnn.com/post/3m7tzuathxc2a" target="_blank">cnn.com</a> (2025-12-13 16:02:01)</span><span style="padding-right:50px;">It's a new face in Britain’s anti-immigration movement.  Members of the Pink Ladies grassroots movement stage demonstrations across the country to warn of the dangers they say illegal migrants pose to women and girls. <a href="https://bsky.app/profile/cnn.com/post/3m7tzshvq6m22" target="_blank">cnn.com</a> (2025-12-13 16:01:01)</span><span style="padding-right:50px;">Hazlewood not done with test cricket despite Ashes disappointment reut.rs/4q0DwhI <a href="https://bsky.app/profile/reuters.com/post/3m7tzs5pcgg23" target="_blank">reuters.com</a> (2025-12-13 16:00:51)</span><span style="padding-right:50px;">山陰観光、朝ドラ「ばけばけ」と大阪万博で沸く www.nikkei.com/article/DGXZQO...  JR西日本は「ばけばけ」の舞台の島根県松江市と連携し、小泉八雲記念館・旧居のほか、八雲がよく訪れた城山稲荷神社などを巡るツアーを開始。  八雲の石像を設置したり、ゆかりの料理や洋菓子のメニューを開発したりといった動きもあります。  鳥取県は大阪・関西万博で外交戦略「サンド・アライアンス（砂同盟）」が話題を呼び、多くの観光客が訪れています。 <a href="https://bsky.app/profile/nikkei.com/post/3m7tzrpujt32m" target="_blank">nikkei.com</a> (2025-12-13 16:00:36)</span>
   </div>
 </div>
 
@@ -32,94 +32,109 @@
 
 ## News Headlines
 
-1. 東海地震発生　最大震度2を観測
-2. ジェフ千葉がJ1復帰決定　17年ぶり
-3. JR東日本　Suicaにバーコード決済を導入
-4. 中国「南京事件」追悼式典　日本をけん制
-5. ヴォルティスがJ1昇格ならず　プレーオフ決勝で千葉に敗退
-6. 原田眞人監督が死去　76歳
+1. カナダ人ナorrisトロフィー受賞者クインヒューズをワイルドにトレード
+2. タイラー・スイフトのエラスツアーが大盛況
+3. 連続して女性をけがした疑いのある外国人を厳しく処罰する意欲のある英国人たち
+4. ハズルウッドはテストクリケットでまだまだ精彩を発揮する
+5. JR西日本が「ばけばけ」をPRするため島根県とパートナーシップを結ぶ
+6. 金融療法士は「ストレスが強まるほど極端な金銭計画を立てないでほしい」
 
 ----
 
-@bbcnews-world-rss.bsky.social
+@reuters.com
 
-Sorry, that page was not found
+Canucks trade former Norris Trophy winner Quinn Hughes to Wild reut.rs/48SglPV
 
-[2025-12-13 15:49:15](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7tz5godf32b)
+[2025-12-13 16:05:10](https://bsky.app/profile/reuters.com/post/3m7tzzup2vu2y)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@cnn.com
 
-Doorbell camera captures moment Hayward, California home explodes
+Every night Taylor Swift stepped out to perform on the Eras Tour, she became a symbol as much as a person – the biggest pop star of her generation who had created a billion-dollar phenomenon. 
 
-[2025-12-13 15:48:11](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7tz3jqg4a2r)
+[2025-12-13 16:02:01](https://bsky.app/profile/cnn.com/post/3m7tzuathxc2a)
+
+---
+
+@cnn.com
+
+It's a new face in Britain’s anti-immigration movement.
+
+Members of the Pink Ladies grassroots movement stage demonstrations across the country to warn of the dangers they say illegal migrants pose to women and girls.
+
+[2025-12-13 16:01:01](https://bsky.app/profile/cnn.com/post/3m7tzshvq6m22)
 
 ---
 
 @reuters.com
 
-Huawei's latest handset uses improved China-made chip, report shows reut.rs/4aL6ygS
+Hazlewood not done with test cricket despite Ashes disappointment reut.rs/4q0DwhI
 
-[2025-12-13 15:45:13](https://bsky.app/profile/reuters.com/post/3m7tyw7ozfz24)
-
----
-
-@nhknewsunofficial.bsky.social
-
-中国 「南京事件」の追悼式典で日本をけん制
-https://news.web.nhk/newsweb/na/na-k10015003111000
-
-[2025-12-13 15:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7tyvxfhcv2v)
-
----
-
-@reuters.com
-
-China holds low-key Nanjing Massacre memorial despite Japan tensions reut.rs/48ShdUs
-
-[2025-12-13 15:40:10](https://bsky.app/profile/reuters.com/post/3m7tyn6ace623)
-
----
-
-@japan.reuters.com
-
-米プロバスケットボール協会（ＮＢＡ）は１２日、各地で試合を行い、ピストンズはホークスに１４２─１１５で大勝し、３連勝とした。 bit.ly/4q4BBsm
-
-[2025-12-13 15:40:00](https://bsky.app/profile/japan.reuters.com/post/3m7tymv7qvt26)
-
----
-
-@wsj.com
-
-The self-proclaimed Fashion Whisperer of Boston was a star stylist for the city’s elite. Saks says he scammed it out of $400,000. 🔗 on.wsj.com/4pAXIXV
-
-[2025-12-13 15:36:06](https://bsky.app/profile/wsj.com/post/3m7tyfvzqyk2q)
-
----
-
-@reuters.com
-
-Jury orders Johnson & Johnson to pay $40 million to two women in latest talc trial reut.rs/3YqGxw0
-
-[2025-12-13 15:35:07](https://bsky.app/profile/reuters.com/post/3m7tye5g5ve2y)
+[2025-12-13 16:00:51](https://bsky.app/profile/reuters.com/post/3m7tzs5pcgg23)
 
 ---
 
 @nikkei.com
 
-「週休3日」求人、5年で2.8倍　求職者の関心高く
+山陰観光、朝ドラ「ばけばけ」と大阪万博で沸く
 www.nikkei.com/article/DGXZQO...
 
-[2025-12-13 15:30:35](https://bsky.app/profile/nikkei.com/post/3m7ty422ygn2m)
+JR西日本は「ばけばけ」の舞台の島根県松江市と連携し、小泉八雲記念館・旧居のほか、八雲がよく訪れた城山稲荷神社などを巡るツアーを開始。
+
+八雲の石像を設置したり、ゆかりの料理や洋菓子のメニューを開発したりといった動きもあります。
+
+鳥取県は大阪・関西万博で外交戦略「サンド・アライアンス（砂同盟）」が話題を呼び、多くの観光客が訪れています。
+
+[2025-12-13 16:00:36](https://bsky.app/profile/nikkei.com/post/3m7tzrpujt32m)
 
 ---
 
-@reuters.com
+@cnbc.com
 
-US seized tanker near Venezuela just as warrant was set to expire, court document shows reut.rs/4oVNuAf
+It can be easy to take an extreme approach if you're stressed out about your budget.
 
-[2025-12-13 15:30:31](https://bsky.app/profile/reuters.com/post/3m7ty3wczpi2c)
+But that's not going to fix the problem, financial therapist says.
+
+Between the two extremes, “Adaptability is what is most important,” to develop healthy spending habits, she says.
+
+[2025-12-13 16:00:22](https://bsky.app/profile/cnbc.com/post/3m7tzrc5thz23)
+
+---
+
+@apnews.com
+
+An Orleans Parish district judge handed down two life sentences to Derrick Groves, the New Orleans inmate who had spent nearly five months on the run after escaping from jail before being captured in October under a crawlspace in an Atlanta, Georgia home.
+
+[2025-12-13 16:00:21](https://bsky.app/profile/apnews.com/post/3m7tzrazamk2k)
+
+---
+
+@aljazeera.com
+
+China has marked the anniversary of 1937 massacre by Japanese soldiers, as tensions soar over Taiwan.
+
+[2025-12-13 16:00:05](https://bsky.app/profile/aljazeera.com/post/3m7tzqsitli2h)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+長野 松本城で恒例のすす払い 天守や黒門のほこり落とす
+https://news.web.nhk/newsweb/na/na-k10015003141000
+
+[2025-12-13 16:00:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7tzqupepk26)
+
+---
+
+@sokuho.news
+
+🔔ANNより【速報】です。
+
+【速報】横浜市の繁華街でビル火災 壁などが燃える けが人なし
+(15:57) #ニュース
+
+[2025-12-13 15:58:17](https://bsky.app/profile/sokuho.news/post/3m7tznlmptf2b)
 
 ---
 
