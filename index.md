@@ -1,9 +1,9 @@
-# [2025-12-13 22:30 updated](2025_12_13.md)
+# [2025-12-13 22:50 updated](2025_12_13.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">'Stranger Things' ushered in a new era for Netflix <a href="https://bsky.app/profile/cnbc.com/post/3m7uolls6e62b" target="_blank">cnbc.com</a> (2025-12-13 22:12:59)</span><span style="padding-right:50px;">Spanish police bust gang that used helicopters to fly drugs from Morocco reut.rs/4pxB6Hx <a href="https://bsky.app/profile/reuters.com/post/3m7uogp4tok2s" target="_blank">reuters.com</a> (2025-12-13 22:10:15)</span><span style="padding-right:50px;">A recently-fired head coach now faces serious charges–throwing multiple lives and a prominent program into turmoil. on.wsj.com/4q4TxmN <a href="https://bsky.app/profile/wsj.com/post/3m7uog2lzh22h" target="_blank">wsj.com</a> (2025-12-13 22:09:53)</span><span style="padding-right:50px;">ラグビー リーグワン開幕 クボタスピアーズが白星スタート https://news.web.nhk/newsweb/na/na-k10015003371000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7uoemire22w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-13 22:09:03)</span><span style="padding-right:50px;">The Post calls the podcast an "AI-powered tool" that turns its articles into an audio news digest. n.pr/4rUXc8z <a href="https://bsky.app/profile/npr.org/post/3m7uobdtt2524" target="_blank">npr.org</a> (2025-12-13 22:07:15)</span>
+<span style="padding-right:50px;">Rwanda's actions in eastern Congo violate accords, Rubio says reut.rs/4qabhNH <a href="https://bsky.app/profile/reuters.com/post/3m7uqfbxn4f2x" target="_blank">reuters.com</a> (2025-12-13 22:45:15)</span><span style="padding-right:50px;">At the scene of one of the deadliest flash floods in Texas history, 8-foot-tall aluminum towers are starting to appear on the banks of the Guadalupe River, part of a flash flood warning system that is being installed.   <a href="https://bsky.app/profile/cbsnews.com/post/3m7uqeuovrr2t" target="_blank">cbsnews.com</a> (2025-12-13 22:45:01)</span><span style="padding-right:50px;">Belarusian opposition politician Maria Kalesnikava freed by authorities, report says reut.rs/48Sqps3 <a href="https://bsky.app/profile/reuters.com/post/3m7uq4cpzdr2b" target="_blank">reuters.com</a> (2025-12-13 22:40:14)</span><span style="padding-right:50px;">The monarch revealed the positive outlook in a recorded message broadcast on British television as part of a campaign to promote screening, which increases the likelihood of successful treatment. n.pr/4rPoWeF <a href="https://bsky.app/profile/npr.org/post/3m7upzp4api2i" target="_blank">npr.org</a> (2025-12-13 22:38:46)</span><span style="padding-right:50px;">US-Syrian military patrol comes under fire in central Syria, officials say reut.rs/4q27TnT <a href="https://bsky.app/profile/reuters.com/post/3m7uptaq2ca2i" target="_blank">reuters.com</a> (2025-12-13 22:35:10)</span>
   </div>
 </div>
 
@@ -32,122 +32,95 @@
 
 ## News Headlines
 
-1. スポーツ
+Here are six important stories with headlines in Japanese:
+
 1. ラグビー リーグワン開幕 クボタスピアーズが白星スタート
-2. スケート ショートトラック全日本選手権 黒川輝衣は3連覇逃す
+2. ロシア ウクライナに軍事侵攻（12月13日の動き）
 3. JR寝台特急「サンライズ瀬戸･出雲」東京発24分繰り上げ
-4. Germany's Aicher denies Vonn a St Moritz downhill double
-
-2. プライベート
-1. アミー・シューマーと夫が離婚　子どもを共に育てる
-2. 若者ケアラーに支援届かず、相談窓口に「18歳の壁」
-
-3. 政治
-1. 米特使 ゼレンスキー大統領などと和平案協議へ
-2. Trump strips legal protections from Ethiopian refugees
-3. With Fed independence in crosshairs, will Supreme Court back Trump again?
-
-4. ビジネス
-1. AI fears are fueling a welcomed stock market rotation away from Big Tech
-2. News Quiz for Dec. 13, 2025
-3. Congressional Democrats released another eyebrow-raising batch of photos of Epstein and powerful people
-4. Carney’s fossil fuel pivot bewilders climate experts and business leaders
-
-5. 国際
-1. Drone attacks hit Russia and Ukraine as US-led peace talks continue
-2. US lifts sanctions on Belarusian potash, state media cite Trump envoy as saying
-3. Residents emerge in DR Congo’s tense Uvira after M23 rebel takeover
-
-6. 技術
-1. Stranger Things ushered in a new era for Netflix
-2. The Post calls the podcast an AI-powered tool that turns its articles into an audio news digest
-3. The San Diego Museum of Art presents a revelatory retrospective on the Spanish artist
+4. 米特使 ゼレンスキー大統領などと和平案協議へ
+5. ドイツのAicherがスキー・ストックでVonnに敗れる
+6. スケート ショートトラック全日本選手権 黒川輝衣は3連覇逃す
 
 ----
+
+@reuters.com
+
+Rwanda's actions in eastern Congo violate accords, Rubio says reut.rs/4qabhNH
+
+[2025-12-13 22:45:15](https://bsky.app/profile/reuters.com/post/3m7uqfbxn4f2x)
+
+---
+
+@cbsnews.com
+
+At the scene of one of the deadliest flash floods in Texas history, 8-foot-tall aluminum towers are starting to appear on the banks of the Guadalupe River, part of a flash flood warning system that is being installed.  
+
+[2025-12-13 22:45:01](https://bsky.app/profile/cbsnews.com/post/3m7uqeuovrr2t)
+
+---
+
+@reuters.com
+
+Belarusian opposition politician Maria Kalesnikava freed by authorities, report says reut.rs/48Sqps3
+
+[2025-12-13 22:40:14](https://bsky.app/profile/reuters.com/post/3m7uq4cpzdr2b)
+
+---
+
+@npr.org
+
+The monarch revealed the positive outlook in a recorded message broadcast on British television as part of a campaign to promote screening, which increases the likelihood of successful treatment. n.pr/4rPoWeF
+
+[2025-12-13 22:38:46](https://bsky.app/profile/npr.org/post/3m7upzp4api2i)
+
+---
+
+@reuters.com
+
+US-Syrian military patrol comes under fire in central Syria, officials say reut.rs/4q27TnT
+
+[2025-12-13 22:35:10](https://bsky.app/profile/reuters.com/post/3m7uptaq2ca2i)
+
+---
+
+@financialtimes.com
+
+Londoners turn their noses up at the West End in December, but for a visiting New Yorker, it has an unmissable charm on.ft.com/3XVaWT0
+
+[2025-12-13 22:35:04](https://bsky.app/profile/financialtimes.com/post/3m7upt3mmyp2c)
+
+---
+
+@usatoday.com
+
+Canadian performer and "The Simpsons" voice actress Béatrice Picard has died at 96 after a 75-year career spanning television, film and theater.
+
+[2025-12-13 22:30:21](https://bsky.app/profile/usatoday.com/post/3m7upkn243d2s)
+
+---
+
+@cnn.com
+
+The chain unveiled its first-ever concept store in SoHo this week, adorned with stylish apparel, designer collaborations, and beauty products — all key areas that its incoming CEO hopes will revive its former "Tar-zhay" glory.
+https://cnn.it/48W8CAk
+
+[2025-12-13 22:30:07](https://bsky.app/profile/cnn.com/post/3m7upk7ovd32b)
+
+---
+
+@aljazeera.com
+
+A ceasefire deal appears distant as energy facilities are hit in Ukraine; Russia says a drone kills two.
+
+[2025-12-13 22:30:03](https://bsky.app/profile/aljazeera.com/post/3m7upk4jfbw2d)
+
+---
 
 @cnbc.com
 
 'Stranger Things' ushered in a new era for Netflix
 
 [2025-12-13 22:12:59](https://bsky.app/profile/cnbc.com/post/3m7uolls6e62b)
-
----
-
-@reuters.com
-
-Spanish police bust gang that used helicopters to fly drugs from Morocco reut.rs/4pxB6Hx
-
-[2025-12-13 22:10:15](https://bsky.app/profile/reuters.com/post/3m7uogp4tok2s)
-
----
-
-@wsj.com
-
-A recently-fired head coach now faces serious charges–throwing multiple lives and a prominent program into turmoil. on.wsj.com/4q4TxmN
-
-[2025-12-13 22:09:53](https://bsky.app/profile/wsj.com/post/3m7uog2lzh22h)
-
----
-
-@nhknewsunofficial.bsky.social
-
-ラグビー リーグワン開幕 クボタスピアーズが白星スタート
-https://news.web.nhk/newsweb/na/na-k10015003371000
-
-[2025-12-13 22:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7uoemire22w)
-
----
-
-@npr.org
-
-The Post calls the podcast an "AI-powered tool" that turns its articles into an audio news digest. n.pr/4rUXc8z
-
-[2025-12-13 22:07:15](https://bsky.app/profile/npr.org/post/3m7uobdtt2524)
-
----
-
-@yahoofinance.com
-
-AI fears are fueling a welcomed stock market rotation away from Big Tech
-
-[2025-12-13 22:06:06](https://bsky.app/profile/yahoofinance.com/post/3m7uo7btslq2q)
-
----
-
-@apnews.com
-
-Pittsburgh Steelers linebacker T.J. Watt has undergone surgery to repair a partially collapsed lung sustained during a dry-needling session and will miss Monday night's game against Miami.
-
-[2025-12-13 22:01:07](https://bsky.app/profile/apnews.com/post/3m7unweoa4v2x)
-
----
-
-@usatoday.com
-
-House Republicans offer health care bill without extending Obamacare subsidies but Democrats oppose the proposal.
-
-[2025-12-13 22:00:56](https://bsky.app/profile/usatoday.com/post/3m7unw2cvhu2h)
-
----
-
-@nikkei.com
-
-ゾウやキリンの生息数、環境のナトリウム量が制限　米研究
-www.nikkei.com/article/DGXZQO...
-
-アフリカでは、ゾウがナトリウムを多く含む岩石を探すため洞窟に入ったり、ゴリラが塩分を多く含む朽ち木のために争ったりする行動が知られていました。
-
-今回の研究で、環境中のナトリウム量が少ない地域では、大型草食動物のゾウやキリン、サイなどの生息密度が低いことが分かりました。
-
-[2025-12-13 22:00:37](https://bsky.app/profile/nikkei.com/post/3m7unvhyvqb2g)
-
----
-
-@cnbc.com
-
-Thanks to the rise of digital nomad visas, these four European countries let you move first and handle visa paperwork later, says She Hit Refresh founder Cepee Tabibian. 
-
-[2025-12-13 22:00:30](https://bsky.app/profile/cnbc.com/post/3m7unvbcpjf24)
 
 ---
 
