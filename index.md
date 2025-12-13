@@ -1,9 +1,9 @@
-# [2025-12-13 12:50 updated](2025_12_13.md)
+# [2025-12-13 13:10 updated](2025_12_13.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">ノーベル平和賞のモハンマディ氏がイラン治安当局に身柄拘束 https://news.web.nhk/newsweb/na/na-k10015002971000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7tozhiatg2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-13 12:48:03)</span><span style="padding-right:50px;">Venezuela-US tensions spike in wake of seized tanker as Nobel winner vows change reut.rs/4rV2yka <a href="https://bsky.app/profile/reuters.com/post/3m7tolms3p42o" target="_blank">reuters.com</a> (2025-12-13 12:40:20)</span><span style="padding-right:50px;">Bipartisan group of US lawmakers calls for export controls on synthetic DNA sequences reut.rs/49enZnZ <a href="https://bsky.app/profile/reuters.com/post/3m7to2k7gcg2b" target="_blank">reuters.com</a> (2025-12-13 12:30:47)</span><span style="padding-right:50px;">米国株式市場は、主要株価３指数が軒並み下落。ナスダック総合とＳ＆Ｐ総合５００種の下落率は１％を超えた。半導体大手ブロードコムとＩＴ大手オラクルの決算に絡み、人工知能（ＡＩ）バブルへの懸念が高まる中、資金がハイテクセクターから他のセクターにシフトした。また、米連邦準備理事会（ＦＲＢ）当局者らの発言を受けた米債利回りの上昇も、相場の一段の重しとなった。 bit.ly/3KrMuFS <a href="https://bsky.app/profile/japan.reuters.com/post/3m7to2fpkrz2p" target="_blank">japan.reuters.com</a> (2025-12-13 12:30:43)</span><span style="padding-right:50px;">就業者最多なのに働く時間は1割減　老人ホームは「超細切れ業務」 www.nikkei.com/article/DGXZQO...  味噌汁の温め、浴場の塩素濃度確認……。  ベネッセグループは提供するサービスを451種類に細分化する業務改革。約9割をスポットワーカーも担えるようにしました。 <a href="https://bsky.app/profile/nikkei.com/post/3m7to27yjso2g" target="_blank">nikkei.com</a> (2025-12-13 12:30:37)</span>
+<span style="padding-right:50px;">An obscure company pivoted, then pivoted again, nearly ran out of money—and built a hit product on.wsj.com/3YnJ1v0 <a href="https://bsky.app/profile/wsj.com/post/3m7tpv7cxlm2c" target="_blank">wsj.com</a> (2025-12-13 13:03:36)</span><span style="padding-right:50px;">Repealing or replacing the Affordable Care Act has vexed Republicans for a decade and is once more a political issue. on.wsj.com/4oPJq48 <a href="https://bsky.app/profile/wsj.com/post/3m7tpv6q4xj2g" target="_blank">wsj.com</a> (2025-12-13 13:03:35)</span><span style="padding-right:50px;">"The Indiana state Senate’s vote against a new congressional map that President Donald Trump had pressured it to adopt is one of the most extraordinary examples to date of Republicans standing up to Trump. But it wasn’t even the only example Thursday." | Analysis https://cnn.it/4oNbB41 <a href="https://bsky.app/profile/cnn.com/post/3m7tpqmxsma23" target="_blank">cnn.com</a> (2025-12-13 13:01:02)</span><span style="padding-right:50px;">Norris gets his hands on F1 trophy as unwell Verstappen stays away reut.rs/4pHnh9M <a href="https://bsky.app/profile/reuters.com/post/3m7tpqetmp52y" target="_blank">reuters.com</a> (2025-12-13 13:00:54)</span><span style="padding-right:50px;">The blimp, which floated from Nashville to Los Angeles last month, is just the latest in a series of unusual marketing techniques the studio is deploying to spread the word about 'Marty Supreme,' which is about an aspiring ping-pong champion in post-World War II New York. <a href="https://bsky.app/profile/nbcnews.com/post/3m7tppyvzkw24" target="_blank">nbcnews.com</a> (2025-12-13 13:00:41)</span>
   </div>
 </div>
 
@@ -32,98 +32,113 @@
 
 ## News Headlines
 
-1. ノーベル平和賞受賞者のモハンマディ氏がイランの治安当局に逮捕される
-2. 米国株式市場が大幅下落、ナスダック総合指数とＳ＆Ｐ総合500種が1％を超える
-3. 米国で老人ホームの従業員が1割減　「超細切れ業務」に
-4. ドナルド・トランプ米大統領の新型エアフォースワンがボーイングからさらに遅延
-5. カリフォルニア州で早期地震予知システムの誤報に対し、議員が情報要求
-6. ロシアの攻撃でウクライナの医療施設に被害
+1. 弁護士が突然消えた理由がわかった
+2. ドルが円などの主要通貨に対し上昇
+3. 日本ダーツの人口が700万人に達
+4. ドラフトのための資金が集まりました
+5. ロシアがウクライナの医療施設を攻撃
+6. ドルが円などの主要通貨に対し上昇
+7. 米国株式市場が下落
+8. 米国で老人ホームの仕事が細切れ化
+9. ツイッターの有名人でAIを開発
+10. ロシアの攻撃でウクライナの医療供給が足りなくなった
+11. ドルが円などの主要通貨に対し上昇
+12. テイラー・スウィフトがドキュメンタリーをリリース
+13. 米国で大統領の新しいエアフォースワンが遅れ
+14. カリフォルニアで早期地震警報システムが誤報
+15. ウクライナの医療施設がロシアの攻撃を受けた
+16. イングランドでサッカーの選手が裁判に呼ばれた
+17. AIが人間の仕事を助ける
+18. ドルが円などの主要通貨に対し上昇
+19. 米国株式市場が下落
+20. ロシアの攻撃でウクライナの医療施設が被害を受けた
 
 ----
 
-@nhknewsunofficial.bsky.social
+@wsj.com
 
-ノーベル平和賞のモハンマディ氏がイラン治安当局に身柄拘束
-https://news.web.nhk/newsweb/na/na-k10015002971000
+An obscure company pivoted, then pivoted again, nearly ran out of money—and built a hit product on.wsj.com/3YnJ1v0
 
-[2025-12-13 12:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7tozhiatg2w)
+[2025-12-13 13:03:36](https://bsky.app/profile/wsj.com/post/3m7tpv7cxlm2c)
+
+---
+
+@wsj.com
+
+Repealing or replacing the Affordable Care Act has vexed Republicans for a decade and is once more a political issue. on.wsj.com/4oPJq48
+
+[2025-12-13 13:03:35](https://bsky.app/profile/wsj.com/post/3m7tpv6q4xj2g)
+
+---
+
+@cnn.com
+
+"The Indiana state Senate’s vote against a new congressional map that President Donald Trump had pressured it to adopt is one of the most extraordinary examples to date of Republicans standing up to Trump. But it wasn’t even the only example Thursday." | Analysis https://cnn.it/4oNbB41
+
+[2025-12-13 13:01:02](https://bsky.app/profile/cnn.com/post/3m7tpqmxsma23)
 
 ---
 
 @reuters.com
 
-Venezuela-US tensions spike in wake of seized tanker as Nobel winner vows change reut.rs/4rV2yka
+Norris gets his hands on F1 trophy as unwell Verstappen stays away reut.rs/4pHnh9M
 
-[2025-12-13 12:40:20](https://bsky.app/profile/reuters.com/post/3m7tolms3p42o)
+[2025-12-13 13:00:54](https://bsky.app/profile/reuters.com/post/3m7tpqetmp52y)
 
 ---
 
-@reuters.com
+@nbcnews.com
 
-Bipartisan group of US lawmakers calls for export controls on synthetic DNA sequences reut.rs/49enZnZ
+The blimp, which floated from Nashville to Los Angeles last month, is just the latest in a series of unusual marketing techniques the studio is deploying to spread the word about 'Marty Supreme,' which is about an aspiring ping-pong champion in post-World War II New York.
 
-[2025-12-13 12:30:47](https://bsky.app/profile/reuters.com/post/3m7to2k7gcg2b)
+[2025-12-13 13:00:41](https://bsky.app/profile/nbcnews.com/post/3m7tppyvzkw24)
 
 ---
 
 @japan.reuters.com
 
-米国株式市場は、主要株価３指数が軒並み下落。ナスダック総合とＳ＆Ｐ総合５００種の下落率は１％を超えた。半導体大手ブロードコムとＩＴ大手オラクルの決算に絡み、人工知能（ＡＩ）バブルへの懸念が高まる中、資金がハイテクセクターから他のセクターにシフトした。また、米連邦準備理事会（ＦＲＢ）当局者らの発言を受けた米債利回りの上昇も、相場の一段の重しとなった。 bit.ly/3KrMuFS
+ニューヨーク外為市場では、方向感のない取引の中、ドルが円などの主要通貨に対し上昇した。来年の米連邦準備理事会（ＦＲＢ）による利下げ観測を背景にドルはここ数日下落基調にあり、週間ベースでは３週連続で下落した。 bit.ly/498mMiV
 
-[2025-12-13 12:30:43](https://bsky.app/profile/japan.reuters.com/post/3m7to2fpkrz2p)
+[2025-12-13 13:00:37](https://bsky.app/profile/japan.reuters.com/post/3m7tppup3rc2u)
 
 ---
 
 @nikkei.com
 
-就業者最多なのに働く時間は1割減　老人ホームは「超細切れ業務」
+ダーツ人口700万人、機器設置店はマクドナルド超え
 www.nikkei.com/article/DGXZQO...
 
-味噌汁の温め、浴場の塩素濃度確認……。
+お酒を飲みながら楽しむ遊びの枠を超え、愛好家の裾野が広がっています。
 
-ベネッセグループは提供するサービスを451種類に細分化する業務改革。約9割をスポットワーカーも担えるようにしました。
+ダーツバーで気軽に会えるプロ選手を「推し活」の対象にするファンは大会に足を運び、1枚5万円のチケットも飛ぶように売れます。
 
-[2025-12-13 12:30:37](https://bsky.app/profile/nikkei.com/post/3m7to27yjso2g)
+賞金がオリンピック金メダリストに支給される額の2倍の1000万円にのぼる大会もあります。
 
----
-
-@cbsnews.com
-
-Charlie Hicks ate his lunch and dinner at the Shrimp Basket in Pensacola, Florida, every day for 10 years. When he suddenly stopped showing up, the chef went looking for him, and ultimately saved his life.
-
-[2025-12-13 12:30:01](https://bsky.app/profile/cbsnews.com/post/3m7tnz66uht2z)
+[2025-12-13 13:00:35](https://bsky.app/profile/nikkei.com/post/3m7tpptftvj2m)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@apnews.com
 
-Drunk raccoon found in liquor store suspected in karate studio break-in
+It may feel like you are surrounded by sniffles and coughs, but flu season activity is still low in many parts of the U.S.
 
-[2025-12-13 12:20:24](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7tnhz2cgj2s)
+[2025-12-13 13:00:15](https://bsky.app/profile/apnews.com/post/3m7tpp7whv52k)
 
 ---
 
-@reuters.com
+@washingtonpost.com
 
-US president's new Air Force One jet from Boeing delayed again reut.rs/3KZ0nLJ
+A new study suggests that tailoring breast cancer screening to a woman’s individual risk can be as safe as yearly mammograms while reducing unnecessary testing for some and better targeting of care for others.
 
-[2025-12-13 12:20:22](https://bsky.app/profile/reuters.com/post/3m7tnhvmbvl2p)
+[2025-12-13 13:00:09](https://bsky.app/profile/washingtonpost.com/post/3m7tpp2pxzj2y)
 
 ---
 
 @nytimes.com
 
-California lawmakers are demanding more information on an early earthquake warning system managed by the U.S. Geological Survey after it issued a false alert last week that a magnitude-5.9 earthquake had struck near the California-Nevada border.
+Taylor Swift dropped the concert film “The Eras Tour: The Final Show” on Disney+ along with the first two episodes of a behind-the-scenes six-part documentary series, “The End of an Era.” Here are five key takeaways.
 
-[2025-12-13 12:20:05](https://bsky.app/profile/nytimes.com/post/3m7tnhffwwe2b)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Ukraine's health supplies hit in series of Russian strikes on medical warehouses
-
-[2025-12-13 12:19:19](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7tng2wb2g2y)
+[2025-12-13 13:00:05](https://bsky.app/profile/nytimes.com/post/3m7tpow5c4j2b)
 
 ---
 
