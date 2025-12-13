@@ -1,9 +1,9 @@
-# [2025-12-14 02:30 updated](2025_12_14.md)
+# [2025-12-14 02:50 updated](2025_12_14.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Hamas accuses Israel of sabotaging ceasefire after commander is targeted on.ft.com/4iZ688T <a href="https://bsky.app/profile/financialtimes.com/post/3m7v4uphisy2q" target="_blank">financialtimes.com</a> (2025-12-14 02:28:37)</span><span style="padding-right:50px;">Juve players must deliver after Agnellis reject buyout bid, says Spalletti reut.rs/4985BOp <a href="https://bsky.app/profile/reuters.com/post/3m7v4ogrfhd2b" target="_blank">reuters.com</a> (2025-12-14 02:25:07)</span><span style="padding-right:50px;">BREAKING: Two U.S. service members and one American civilian killed in an ambush in Syria, the U.S. Central Command says. <a href="https://bsky.app/profile/apnews.com/post/3m7v4oalisg2r" target="_blank">apnews.com</a> (2025-12-14 02:25:00)</span><span style="padding-right:50px;">BREAKING: Three others were wounded, Pentagon spokesman Sean Parnell said. <a href="https://bsky.app/profile/handle.invalid/post/3m7v4bfqlvn2q" target="_blank">handle.invalid</a> (2025-12-14 02:17:50)</span><span style="padding-right:50px;">On the grey walls of a rural Thai school's concrete bunkers, a man calmly paints colorful scenes of helicopters, tanks, fluttering national flags and soldiers carrying the wounded.  u.afp.com/S7LJ <a href="https://bsky.app/profile/en.afp.com/post/3m7v4alklz62x" target="_blank">en.afp.com</a> (2025-12-14 02:17:22)</span>
+<span style="padding-right:50px;">US says Belarus agreed to stop balloon flyovers into Lithuania reut.rs/4qbwIy4 <a href="https://bsky.app/profile/reuters.com/post/3m7v5sezg2c23" target="_blank">reuters.com</a> (2025-12-14 02:45:13)</span><span style="padding-right:50px;">Staff Sgt. Andrew Wolfe, 24, was hospitalized after a gunman opened fire on him and another National Guard member.  He is now breathing on his own and can stand with assistance, his neurosurgeon said. <a href="https://bsky.app/profile/washingtonpost.com/post/3m7v5s2vn532m" target="_blank">washingtonpost.com</a> (2025-12-14 02:45:02)</span><span style="padding-right:50px;">A man who spent more than a quarter-century on death row for the robbery and murder of a woman at an Ohio hotel had his case dismissed Friday by prosecutors.  <a href="https://bsky.app/profile/cbsnews.com/post/3m7v5rzifo62a" target="_blank">cbsnews.com</a> (2025-12-14 02:45:01)</span><span style="padding-right:50px;">Breaking News: Two American soldiers and an American interpreter were killed in an attack in central Syria on Saturday, U.S. military officials said. <a href="https://bsky.app/profile/nytimes.com/post/3m7v5rs6lus2x" target="_blank">nytimes.com</a> (2025-12-14 02:44:53)</span><span style="padding-right:50px;">BREAKING: Two U.S. soldiers and an interpreter were killed in an attack in Syria, Pentagon says. <a href="https://bsky.app/profile/nbcnews.com/post/3m7v5ndkllw22" target="_blank">nbcnews.com</a> (2025-12-14 02:42:24)</span>
   </div>
 </div>
 
@@ -32,102 +32,96 @@
 
 ## News Headlines
 
-Here are six important stories with Japanese headlines:
+Here are the six selected headlines in Japanese:
 
-1. 
-ハマスがイスラエルに対し、停戦破棄を訴える
-2. 
-アグナッリ氏が買収交渉を断ったJuveプレーヤーにスパレッティが厳しく言い渡す
-3. 
-シリアで米軍人2人とアメリカ人市民1人死亡
-4. 
-タイの学校の壁に「戦争絵画」が描かれる
-5. 
-検察側がコミー元FBI長官の捜査資料の取り扱いを巡り裁判官に敗訴
-6. 
-イランへの中国物流を阻止する米軍の海上作戦
+1. 米軍がリトアニア空域へのヘリコプター飛行をベルラウスが停止すると発表
+2. 「パルプ・フィクション」などの悪役で知られた俳優ピーター・グリーンが60歳で死去
+3. 米軍がシリアで2人と翻訳官が死亡
+4. イスラエルがガザでハマス幹部を殺害　これが停戦後2か月で最高位のハマス指導者
+5. 米軍がシリアで2人とアメリカ人市民が攻撃され死亡
+6. ドイツでバイクが列車に衝突　5人死亡
 
 ----
 
-@financialtimes.com
-
-Hamas accuses Israel of sabotaging ceasefire after commander is targeted on.ft.com/4iZ688T
-
-[2025-12-14 02:28:37](https://bsky.app/profile/financialtimes.com/post/3m7v4uphisy2q)
-
----
-
 @reuters.com
 
-Juve players must deliver after Agnellis reject buyout bid, says Spalletti reut.rs/4985BOp
+US says Belarus agreed to stop balloon flyovers into Lithuania reut.rs/4qbwIy4
 
-[2025-12-14 02:25:07](https://bsky.app/profile/reuters.com/post/3m7v4ogrfhd2b)
-
----
-
-@apnews.com
-
-<strong><span style="color: red;">BREAKING:</span> Two U.S. service members and one American civilian killed in an ambush in Syria, the U.S. Central Command says.</strong>
-
-[2025-12-14 02:25:00](https://bsky.app/profile/apnews.com/post/3m7v4oalisg2r)
+[2025-12-14 02:45:13](https://bsky.app/profile/reuters.com/post/3m7v5sezg2c23)
 
 ---
 
-@handle.invalid
+@washingtonpost.com
 
-<strong><span style="color: red;">BREAKING:</span> Three others were wounded, Pentagon spokesman Sean Parnell said.</strong>
+Staff Sgt. Andrew Wolfe, 24, was hospitalized after a gunman opened fire on him and another National Guard member.
 
-[2025-12-14 02:17:50](https://bsky.app/profile/handle.invalid/post/3m7v4bfqlvn2q)
+He is now breathing on his own and can stand with assistance, his neurosurgeon said.
 
----
-
-@en.afp.com
-
-On the grey walls of a rural Thai school's concrete bunkers, a man calmly paints colorful scenes of helicopters, tanks, fluttering national flags and soldiers carrying the wounded.
-
-u.afp.com/S7LJ
-
-[2025-12-14 02:17:22](https://bsky.app/profile/en.afp.com/post/3m7v4alklz62x)
-
----
-
-@reuters.com
-
-Prosecutors need warrant to access files from dismissed Comey case, judge rules reut.rs/4oRCbZK
-
-[2025-12-14 02:15:15](https://bsky.app/profile/reuters.com/post/3m7v44shklh2s)
-
----
-
-@wsj.com
-
-Two U.S. soldiers and an American civilian interpreter were killed in an attack in Syria.
-
-[2025-12-14 02:14:12](https://bsky.app/profile/wsj.com/post/3m7v42vw2os2z)
-
----
-
-@nytimes.com
-
-The attorneys general of 20 states sued the Trump administration on Friday over its decision to impose a $100,000 fee on visas for skilled foreign workers.
-
-[2025-12-14 02:10:03](https://bsky.app/profile/nytimes.com/post/3m7v3tjbx2l2r)
+[2025-12-14 02:45:02](https://bsky.app/profile/washingtonpost.com/post/3m7v5s2vn532m)
 
 ---
 
 @cbsnews.com
 
-<strong><span style="color: red;">BREAKING:</span> Two U.S. soldiers and an American civilian were attacked and killed in Syria, U.S. military officials say.  </strong>
+A man who spent more than a quarter-century on death row for the robbery and murder of a woman at an Ohio hotel had his case dismissed Friday by prosecutors. 
 
-[2025-12-14 02:06:58](https://bsky.app/profile/cbsnews.com/post/3m7v3nxuhsl2c)
+[2025-12-14 02:45:01](https://bsky.app/profile/cbsnews.com/post/3m7v5rzifo62a)
 
 ---
 
-@yahoofinance.com
+@nytimes.com
 
-Author David Bach reveals how you become a millionaire
+<strong><span style="color: red;">Breaking News</span>: Two American soldiers and an American interpreter were killed in an attack in central Syria on Saturday, U.S. military officials said.</strong>
 
-[2025-12-14 02:06:06](https://bsky.app/profile/yahoofinance.com/post/3m7v3mgn4ut26)
+[2025-12-14 02:44:53](https://bsky.app/profile/nytimes.com/post/3m7v5rs6lus2x)
+
+---
+
+@nbcnews.com
+
+<strong><span style="color: red;">BREAKING:</span> Two U.S. soldiers and an interpreter were killed in an attack in Syria, Pentagon says.</strong>
+
+[2025-12-14 02:42:24](https://bsky.app/profile/nbcnews.com/post/3m7v5ndkllw22)
+
+---
+
+@reuters.com
+
+Fire transfer M Brian Gutierrez to CD Guadalajara reut.rs/4iUsc4p
+
+[2025-12-14 02:40:14](https://bsky.app/profile/reuters.com/post/3m7v5jhzg2l2b)
+
+---
+
+@wsj.com
+
+Congress’s National Defense Authorization Act proposal weighs in on boat strikes, drones, DEI, foreign investment and fights overseas. on.wsj.com/44nl3Uj
+
+[2025-12-14 02:39:45](https://bsky.app/profile/wsj.com/post/3m7v5imghxt2z)
+
+---
+
+@cnn.com
+
+Peter Greene, a character actor best known for his villainous roles in “Pulp Fiction" and "The Mask" has died. He was 60. https://cnn.it/4aeX5yd
+
+[2025-12-14 02:37:02](https://bsky.app/profile/cnn.com/post/3m7v5dqzetx23)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Two US soldiers and interpreter killed by Islamic State gunman in Syria, US military says
+
+[2025-12-14 02:36:24](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7v5cmyg232r)
+
+---
+
+@financialtimes.com
+
+The Pritzker-winner on building ‘from the earth’, why modern architecture is going too fast — and how it all began with wobbly school benches on.ft.com/3YqWZwc
+
+[2025-12-14 02:36:04](https://bsky.app/profile/financialtimes.com/post/3m7v5bzgzl523)
 
 ---
 
