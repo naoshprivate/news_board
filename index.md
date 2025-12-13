@@ -1,9 +1,9 @@
-# [2025-12-14 03:30 updated](2025_12_14.md)
+# [2025-12-14 03:31 updated](2025_12_14.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Israel killed a senior Hamas commander in Gaza on Saturday, the Israeli military said, another challenge to the shaky ceasefire between the sides brokered by the United States.  <a href="https://bsky.app/profile/washingtonpost.com/post/3m7v7hpdxqa2m" target="_blank">washingtonpost.com</a> (2025-12-14 03:15:02)</span><span style="padding-right:50px;">Liverpool's Ekitike scores twice, Salah gets warm reception in win over Brighton reut.rs/3YrrXV2 <a href="https://bsky.app/profile/reuters.com/post/3m7v7746dub2b" target="_blank">reuters.com</a> (2025-12-14 03:10:14)</span><span style="padding-right:50px;">Bangladesh says peacekeepers killed, injured in Sudan UN base attack reut.rs/4akLCxj <a href="https://bsky.app/profile/reuters.com/post/3m7v6w3cdyg2r" target="_blank">reuters.com</a> (2025-12-14 03:05:11)</span><span style="padding-right:50px;">Mohamed Salah set up a goal in Liverpool's 2-0 win against Brighton on Saturday as the Egyptian superstar returned to action after an explosive outburst cast doubt over his future at the Premier League champions.  u.afp.com/S7Lc <a href="https://bsky.app/profile/en.afp.com/post/3m7v6vsgtbd2q" target="_blank">en.afp.com</a> (2025-12-14 03:05:02)</span><span style="padding-right:50px;">In Salzburg, Austria, Christmas involves both St. Nick and Krampus, a mythological punisher with roots stretching back to late antiquity and many fans in the present-day Central Alps. n.pr/3XSG1Xy <a href="https://bsky.app/profile/npr.org/post/3m7v6ut2knf24" target="_blank">npr.org</a> (2025-12-14 03:04:29)</span>
+<span style="padding-right:50px;">Obamacare bills are about to spike. But you still have time to save. <a href="https://bsky.app/profile/usatoday.com/post/3m7vadbzwlu25" target="_blank">usatoday.com</a> (2025-12-14 03:30:28)</span><span style="padding-right:50px;">There’s a frenzy of development going on to support the AI revolution, and with it an insatiable demand for debt to fund it. <a href="https://bsky.app/profile/bloomberg.com/post/3m7vacswqxf2g" target="_blank">bloomberg.com</a> (2025-12-14 03:30:12)</span><span style="padding-right:50px;">Dr. Mehmet Oz’s ability to reach an audience is undisputed.  But he now faces a test of whether showmanship and affability can win over public support as he guides major Medicaid changes and oversees soaring costs of Affordable Care Act plans. <a href="https://bsky.app/profile/washingtonpost.com/post/3m7vacm2dxb2i" target="_blank">washingtonpost.com</a> (2025-12-14 03:30:05)</span><span style="padding-right:50px;">Religious affiliation has been dropping among young people for decades, but there are examples of surging interest on college campuses and in cities. https://wapo.st/4a3Gmhk <a href="https://bsky.app/profile/washingtonpost.com/post/3m7vaclipir2i" target="_blank">washingtonpost.com</a> (2025-12-14 03:30:04)</span><span style="padding-right:50px;">Israel killed a senior Hamas commander in Gaza on Saturday, the Israeli military said, another challenge to the shaky ceasefire between the sides brokered by the United States.  <a href="https://bsky.app/profile/washingtonpost.com/post/3m7v7hpdxqa2m" target="_blank">washingtonpost.com</a> (2025-12-14 03:15:02)</span>
   </div>
 </div>
 
@@ -32,16 +32,50 @@
 
 ## News Headlines
 
-Here are six selected news headlines in Japanese:
+Here are six news headlines in Japanese:
 
-1.  イスラエル、ガザでHamasのトップ幹部を殺す
-2.  リバプール、エキティケが2得点、サラフに温かい歓迎
-3.  スーダンでPKO兵士が殺害される　バングラデシュの報告
-4.  チャールズ3世、癌治療についての報告　早期検査を呼びかける
-5.  米国で叙利亜での攻撃　兵士と翻訳者が死亡
-6.  リバプールがエバートンに2-0で勝利　トップ4に戻る
+1. オバマケア料金が大幅に上がるが、まだ間に合う
+2. イスラエル軍がガザでハマースの高官を殺害
+3. メレディス・サラハムがリバプールの勝利に貢献
+4. バングラデシュがUNの紛争平和維持活動で被害を受けたと発表
+5. チャールズ3世が癌治療の進捗を報告
+6. 米軍の兵士と翻訳官がシリアで殺害
 
 ----
+
+@usatoday.com
+
+Obamacare bills are about to spike. But you still have time to save.
+
+[2025-12-14 03:30:28](https://bsky.app/profile/usatoday.com/post/3m7vadbzwlu25)
+
+---
+
+@bloomberg.com
+
+There’s a frenzy of development going on to support the AI revolution, and with it an insatiable demand for debt to fund it.
+
+[2025-12-14 03:30:12](https://bsky.app/profile/bloomberg.com/post/3m7vacswqxf2g)
+
+---
+
+@washingtonpost.com
+
+Dr. Mehmet Oz’s ability to reach an audience is undisputed.
+
+But he now faces a test of whether showmanship and affability can win over public support as he guides major Medicaid changes and oversees soaring costs of Affordable Care Act plans.
+
+[2025-12-14 03:30:05](https://bsky.app/profile/washingtonpost.com/post/3m7vacm2dxb2i)
+
+---
+
+@washingtonpost.com
+
+Religious affiliation has been dropping among young people for decades, but there are examples of surging interest on college campuses and in cities. https://wapo.st/4a3Gmhk
+
+[2025-12-14 03:30:04](https://bsky.app/profile/washingtonpost.com/post/3m7vaclipir2i)
+
+---
 
 @washingtonpost.com
 
@@ -90,39 +124,6 @@ In Salzburg, Austria, Christmas involves both St. Nick and Krampus, a mythologic
 Chelsea return to top four with 2-0 home win over Everton reut.rs/48Wrtvb
 
 [2025-12-14 03:00:59](https://bsky.app/profile/reuters.com/post/3m7v6okxkpw24)
-
----
-
-@apnews.com
-
-King Charles III has shared a public update on his cancer treatment, urging people to get tested.
-
-[2025-12-14 03:00:43](https://bsky.app/profile/apnews.com/post/3m7v6o444cc2r)
-
----
-
-@cnn.com
-
-"The Reuters-Ipsos poll asked whether Americans believed that Trump was not aware of Epstein’s alleged crimes before they became public. Just 18% said it was 'somewhat' or 'very' likely that Trump didn’t know," Aaron Blake writes | Analysis
-https://cnn.it/4axsEDN
-
-[2025-12-14 03:00:20](https://bsky.app/profile/cnn.com/post/3m7v6ngex5q23)
-
----
-
-@bloomberg.com
-
-Two US Army soldiers and a civilian US interpreter were killed in an attack in Syria Saturday that also wounded three others, US Central Command said in a statement posted on social media.
-
-[2025-12-14 03:00:10](https://bsky.app/profile/bloomberg.com/post/3m7v6n4lzoy23)
-
----
-
-@cbsnews.com
-
-Lindsey Vonn is back on the podium on Saturday after a World Cup downhill race that is separated by a razor-thin margin of 0.24 seconds. cbsn.ws/3XWyUgG 
-
-[2025-12-14 03:00:01](https://bsky.app/profile/cbsnews.com/post/3m7v6mtvgd32p)
 
 ---
 
