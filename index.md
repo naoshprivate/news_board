@@ -1,9 +1,9 @@
-# [2025-12-13 11:50 updated](2025_12_13.md)
+# [2025-12-13 12:10 updated](2025_12_13.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">＜為替＞　方向感のない取引の中、ドルが円などの主要通貨に対し上昇した。来年の米連邦準備理事会（ＦＲＢ）による利下げ観測を背景にドルはここ数日下落基調にあり、週間ベースでは３週連続で下落した。 bit.ly/4oVnrsB <a href="https://bsky.app/profile/japan.reuters.com/post/3m7tlj4zbmh2q" target="_blank">japan.reuters.com</a> (2025-12-13 11:45:16)</span><span style="padding-right:50px;">US invalidates union contract covering 47,000 TSA officers, AFGE vows to challenge reut.rs/3MrRnPQ <a href="https://bsky.app/profile/reuters.com/post/3m7tlaeoske2k" target="_blank">reuters.com</a> (2025-12-13 11:40:22)</span><span style="padding-right:50px;">The FDA approved two new antibiotics for the treatment of gonorrhea, giving health care providers powerful new weapons against a sexually transmitted disease that has become increasingly hard to treat. <a href="https://bsky.app/profile/nytimes.com/post/3m7tl7uyfpw2a" target="_blank">nytimes.com</a> (2025-12-13 11:40:05)</span><span style="padding-right:50px;">The U.S. military is moving more weapons and units into the Caribbean that give President Trump powerful new options to escalate his pressure campaign on Venezuelan leader Maduro. <a href="https://bsky.app/profile/wsj.com/post/3m7tkqaers52e" target="_blank">wsj.com</a> (2025-12-13 11:31:20)</span><span style="padding-right:50px;">The Department of Labor held its first-ever prayer service for its employees this week, in a highly unusual move that mirrors an initiative at the Pentagon.  The service included a speech by Yaakov Menken, a right-wing orthodox Jewish rabbi, according to a Department of Labor employee. <a href="https://bsky.app/profile/cnn.com/post/3m7tkpo5bis2u" target="_blank">cnn.com</a> (2025-12-13 11:31:01)</span>
+<span style="padding-right:50px;">北日本～北陸 あす以降 雪雨伴う荒れた天気に 暴風高波に警戒 https://news.web.nhk/newsweb/na/na-k10015002791000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7tmoicnz62b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-13 12:06:06)</span><span style="padding-right:50px;">後発地震注意情報 “引き続き日頃の備え確認を” 気象庁 https://news.web.nhk/newsweb/na/na-k10015002781000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7tmodzpd52s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-13 12:06:02)</span><span style="padding-right:50px;">サッカーのイングランド・プレミアリーグ、リバプールでクラブ批判が問題となったエジプト代表ＦＷモハメド・サラーが、１３日にホームで行われるブライトン戦のメンバーに入ったと、英メディアが報じた。 bit.ly/4rVO8jQ <a href="https://bsky.app/profile/japan.reuters.com/post/3m7tmkexlwi2p" target="_blank">japan.reuters.com</a> (2025-12-13 12:03:51)</span><span style="padding-right:50px;">Machines that show their work, in ways that are impossible for humans, could overcome the public’s inherent distrust. on.wsj.com/4rV10Xo <a href="https://bsky.app/profile/wsj.com/post/3m7tmgzgaz42s" target="_blank">wsj.com</a> (2025-12-13 12:01:58)</span><span style="padding-right:50px;">Fire officials said three buildings were destroyed, as well as buildings or homes next to the site. Six people were taken to local hospitals. <a href="https://bsky.app/profile/usatoday.com/post/3m7tmg4mrn32f" target="_blank">usatoday.com</a> (2025-12-13 12:01:28)</span>
   </div>
 </div>
 
@@ -32,98 +32,105 @@
 
 ## News Headlines
 
-1. ＜為替＞　ドルが円などの主要通貨に対し上昇
-2. フェデラル・リザーブが米国で最初の新型抗生物質を承認
-3. 米軍、ベネズエラへの圧力強化
-4. ドラッグストアチェーンの「 CVS」が、店舗のリフォームを計画
-5. 米国、ブラジル最高裁判事が制裁対象から外れる
-6. ドナルド・トランプ大統領が連邦準備理事会の新パートナーを決める
+ここが選んだ6つのニュースの見出しは以下のようになっています。
+
+1. 北日本～北陸　あす以降　雪雨伴う荒れた天気に暴風高波に警戒
+2. 後発地震注意情報　「引き続き日頃の備え確認を」
+3. ドルが円などの主要通貨に対して上昇　来年の米連邦準備理事会の利下げ観測を背景に
+4. 米国　ワシントン・D.C.の公用のゴルフコースを再開発　トランプ大統領が中心
+5. 米国　ワイオミング州の州議会が大統領選挙区の地図を変更
+6. 米国　新型抗生物質を2種類承認　gonorrheaの治療に効果がある
 
 ----
 
-@japan.reuters.com
+@nhknewsunofficial.bsky.social
 
-＜為替＞　方向感のない取引の中、ドルが円などの主要通貨に対し上昇した。来年の米連邦準備理事会（ＦＲＢ）による利下げ観測を背景にドルはここ数日下落基調にあり、週間ベースでは３週連続で下落した。 bit.ly/4oVnrsB
+北日本～北陸 あす以降 雪雨伴う荒れた天気に 暴風高波に警戒
+https://news.web.nhk/newsweb/na/na-k10015002791000
 
-[2025-12-13 11:45:16](https://bsky.app/profile/japan.reuters.com/post/3m7tlj4zbmh2q)
-
----
-
-@reuters.com
-
-US invalidates union contract covering 47,000 TSA officers, AFGE vows to challenge reut.rs/3MrRnPQ
-
-[2025-12-13 11:40:22](https://bsky.app/profile/reuters.com/post/3m7tlaeoske2k)
-
----
-
-@nytimes.com
-
-The FDA approved two new antibiotics for the treatment of gonorrhea, giving health care providers powerful new weapons against a sexually transmitted disease that has become increasingly hard to treat.
-
-[2025-12-13 11:40:05](https://bsky.app/profile/nytimes.com/post/3m7tl7uyfpw2a)
-
----
-
-@wsj.com
-
-The U.S. military is moving more weapons and units into the Caribbean that give President Trump powerful new options to escalate his pressure campaign on Venezuelan leader Maduro.
-
-[2025-12-13 11:31:20](https://bsky.app/profile/wsj.com/post/3m7tkqaers52e)
-
----
-
-@cnn.com
-
-The Department of Labor held its first-ever prayer service for its employees this week, in a highly unusual move that mirrors an initiative at the Pentagon.
-
-The service included a speech by Yaakov Menken, a right-wing orthodox Jewish rabbi, according to a Department of Labor employee.
-
-[2025-12-13 11:31:01](https://bsky.app/profile/cnn.com/post/3m7tkpo5bis2u)
-
----
-
-@reuters.com
-
-US forces raided ship headed to Iran from China in Indian Ocean, WSJ says reut.rs/3XURCoX
-
-[2025-12-13 11:30:46](https://bsky.app/profile/reuters.com/post/3m7tkpa3ccu2i)
-
----
-
-@nikkei.com
-
-名鉄名古屋駅の再開発が暗礁に　建設工事費が倍増
-www.nikkei.com/article/DGXZQO...
-
-「無念の思いでいっぱいだ」。12月12日の記者会見で名鉄の高崎裕樹社長は涙ぐみながら語りました。
-
-[2025-12-13 11:30:35](https://bsky.app/profile/nikkei.com/post/3m7tkovh65o24)
-
----
-
-@apnews.com
-
-Christine Choy, a trailblazer for Asian Americans in independent film and whose documentary on the fatal beating of Vincent Chin was nominated for an Academy Award, has died.
-
-[2025-12-13 11:30:31](https://bsky.app/profile/apnews.com/post/3m7tkorahh72r)
-
----
-
-@usatoday.com
-
-Stephen Colbert, whose show was canceled by Paramount, wondered about the company's finances amid a $108 billion bid to buy Warner Bros. Discovery.
-
-[2025-12-13 11:30:27](https://bsky.app/profile/usatoday.com/post/3m7tkonlrt52o)
+[2025-12-13 12:06:06](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7tmoicnz62b)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-国連総会 イスラエルに難民支援機関UNRWAとの協力求める決議
-https://news.web.nhk/newsweb/na/na-k10015002981000
+後発地震注意情報 “引き続き日頃の備え確認を” 気象庁
+https://news.web.nhk/newsweb/na/na-k10015002781000
 
-[2025-12-13 11:30:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7tknyuuv724)
+[2025-12-13 12:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7tmodzpd52s)
+
+---
+
+@japan.reuters.com
+
+サッカーのイングランド・プレミアリーグ、リバプールでクラブ批判が問題となったエジプト代表ＦＷモハメド・サラーが、１３日にホームで行われるブライトン戦のメンバーに入ったと、英メディアが報じた。 bit.ly/4rVO8jQ
+
+[2025-12-13 12:03:51](https://bsky.app/profile/japan.reuters.com/post/3m7tmkexlwi2p)
+
+---
+
+@wsj.com
+
+Machines that show their work, in ways that are impossible for humans, could overcome the public’s inherent distrust. on.wsj.com/4rV10Xo
+
+[2025-12-13 12:01:58](https://bsky.app/profile/wsj.com/post/3m7tmgzgaz42s)
+
+---
+
+@usatoday.com
+
+Fire officials said three buildings were destroyed, as well as buildings or homes next to the site. Six people were taken to local hospitals.
+
+[2025-12-13 12:01:28](https://bsky.app/profile/usatoday.com/post/3m7tmg4mrn32f)
+
+---
+
+@cnn.com
+
+After Indiana Republicans rejected a new US House map, key Democrats made clear they would still aim to redistrict in states their party controls.
+
+“If Trump came out and said, ‘OK, I hear Indiana, ‘Let’s back off,’ I would think we’d rethink it. But yeah, good luck with that,” Rep. Glenn Ivey said.
+
+[2025-12-13 12:01:01](https://bsky.app/profile/cnn.com/post/3m7tmfctbe626)
+
+---
+
+@nikkei.com
+
+旅先でご当地の洋食を　おすすめローカルチェーン10選
+www.nikkei.com/article/DGXZQO...
+
+地元の人々に長く愛されるハンバーグやステーキ。その土地の食材や食文化を目的に旅行をする人は少なくありません。
+
+ぜひ訪ねたい上位10店にランクインしたのは。
+
+[2025-12-13 12:00:48](https://bsky.app/profile/nikkei.com/post/3m7tmevx3mz2g)
+
+---
+
+@reuters.com
+
+Live Nation, Ticketmaster must face sprawling class action over prices reut.rs/48S4pgO
+
+[2025-12-13 12:00:47](https://bsky.app/profile/reuters.com/post/3m7tmevjmci2r)
+
+---
+
+@washingtonpost.com
+
+Despite the fact that her job requires her to get onstage and provide an escape from reality for millions of people, real life affects her, too.
+
+A new docuseries touches on how Taylor Swift’s fame isolates her in a way that few can understand.
+
+[2025-12-13 12:00:10](https://bsky.app/profile/washingtonpost.com/post/3m7tmdrnqb424)
+
+---
+
+@nytimes.com
+
+Military checkpoints, rough seas: María Corina Machado, the Venezuelan opposition leader, made an escape to Oslo with the help of a U.S. firm.
+
+[2025-12-13 12:00:04](https://bsky.app/profile/nytimes.com/post/3m7tmdmsl4e2r)
 
 ---
 
