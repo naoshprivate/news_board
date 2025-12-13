@@ -1,9 +1,9 @@
-# [2025-12-13 18:50 updated](2025_12_13.md)
+# [2025-12-13 19:10 updated](2025_12_13.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Iran raises fuel prices for heavy users to curb consumption, smuggling reut.rs/3Kv18MB <a href="https://bsky.app/profile/reuters.com/post/3m7ucy2qvvz23" target="_blank">reuters.com</a> (2025-12-13 18:45:13)</span><span style="padding-right:50px;">Machines that show their work could overcome the public’s distrust in AI, writes Christopher Mims. <a href="https://bsky.app/profile/wsj.com/post/3m7ucxyish32k" target="_blank">wsj.com</a> (2025-12-13 18:45:10)</span><span style="padding-right:50px;">手薄な夜間に大規模災害が起きたら…医療機関の患者避難に課題 https://news.web.nhk/newsweb/na/na-k10015003181000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ucxstytc22" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-13 18:45:02)</span><span style="padding-right:50px;">Dhurandhar: New Bollywood film divides opinions in India and Pakistan <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7ucqyl5t625" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-13 18:41:15)</span><span style="padding-right:50px;">France to vaccinate cattle for lumpy skin disease as farmers protest against cull reut.rs/3KGc4Hd <a href="https://bsky.app/profile/reuters.com/post/3m7ucoyrh4h2y" target="_blank">reuters.com</a> (2025-12-13 18:40:08)</span>
+<span style="padding-right:50px;">北日本～北陸 14日以降 雪雨伴う大荒れ天気に 暴風雪など警戒 https://news.web.nhk/newsweb/na/na-k10015002791000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ue5j4jxx2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-13 19:06:07)</span><span style="padding-right:50px;">大阪 住吉区 集合住宅で火事 3階の部屋が焼け女性1人が死亡 https://news.web.nhk/newsweb/na/na-k10015003211000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ue5emt2a26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-13 19:06:02)</span><span style="padding-right:50px;">日本人は「不幸せ」？　幸福度調査の順位が低いワケ www.nikkei.com/article/DGXZQO...  オックスフォード大などがまとめる「世界幸福度報告書」2025年版で、日本は147カ国・地域のうち55位に。  世界4位の経済大国で、「健康寿命」も2位。それでも低迷する幸福度の順位に、専門家は「当然の結果」と言い切ります。 <a href="https://bsky.app/profile/nikkei.com/post/3m7udtkxdg22x" target="_blank">nikkei.com</a> (2025-12-13 19:00:36)</span><span style="padding-right:50px;">🛎️文春より【スクープ】です。  BE:FIRST LEO（27）が横田真悠（26）と交際報道 ファンからは驚きと祝福のコメント「『ラヴィット！』でも共演しているしお似合い」「パフォーマンスの糧に」 (2025-12-13 19:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7udt776jf2z" target="_blank">sokuho.news</a> (2025-12-13 19:00:23)</span><span style="padding-right:50px;">Researchers have dated vertebrae from a massive prehistoric shark thought to have ruled the waves off northern Australia back to further in the Cretaceous period than was previously known. <a href="https://bsky.app/profile/apnews.com/post/3m7udsxog5p23" target="_blank">apnews.com</a> (2025-12-13 19:00:15)</span>
   </div>
 </div>
 
@@ -32,14 +32,92 @@
 
 ## News Headlines
 
-1.  イラン、重油消費を抑えるため高需要者の燃料価格を値上げ
-2.  AIが仕事を披露すれば、公衆の信頼を取り戻せるか
-3.  医療機関の避難に課題が生じる夜の大規模災害
-4.  フランス、牛のループス病予防接種を開始
-5.  外国人留学生のバイト許可を厳しくする
-6.  エル・ネストロの軍事演習、市民に避難を指示
+1. 北日本～北陸 14日以降 雪雨伴う大荒れ天気に暴風雪など警戒
+2. 大阪 住吉区 集合住宅で火事 3階の部屋が焼け女性1人が死亡
+3. 日本人は「不幸せ」？　幸福度調査の順位が低いワケ
+4. エンジェルス 菊池雄星 WBCに意欲示す「前のめりで考えたい」
+5. 米 AI開発の重要鉱物など確保へ 日本含む多国間の新枠組み発足
+6. 中国江蘇省南京で１３日、日中戦争中の１９３７年に起きた「南京大虐殺」の追悼式典が開かれた。
 
 ----
+
+@nhknewsunofficial.bsky.social
+
+北日本～北陸 14日以降 雪雨伴う大荒れ天気に 暴風雪など警戒
+https://news.web.nhk/newsweb/na/na-k10015002791000
+
+[2025-12-13 19:06:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ue5j4jxx2k)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+大阪 住吉区 集合住宅で火事 3階の部屋が焼け女性1人が死亡
+https://news.web.nhk/newsweb/na/na-k10015003211000
+
+[2025-12-13 19:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ue5emt2a26)
+
+---
+
+@nikkei.com
+
+日本人は「不幸せ」？　幸福度調査の順位が低いワケ
+www.nikkei.com/article/DGXZQO...
+
+オックスフォード大などがまとめる「世界幸福度報告書」2025年版で、日本は147カ国・地域のうち55位に。
+
+世界4位の経済大国で、「健康寿命」も2位。それでも低迷する幸福度の順位に、専門家は「当然の結果」と言い切ります。
+
+[2025-12-13 19:00:36](https://bsky.app/profile/nikkei.com/post/3m7udtkxdg22x)
+
+---
+
+@sokuho.news
+
+🛎️文春より【スクープ】です。
+
+BE:FIRST LEO（27）が横田真悠（26）と交際報道 ファンからは驚きと祝福のコメント「『ラヴィット！』でも共演しているしお似合い」「パフォーマンスの糧に」
+(2025-12-13 19:00) #ニュース
+
+[2025-12-13 19:00:23](https://bsky.app/profile/sokuho.news/post/3m7udt776jf2z)
+
+---
+
+@apnews.com
+
+Researchers have dated vertebrae from a massive prehistoric shark thought to have ruled the waves off northern Australia back to further in the Cretaceous period than was previously known.
+
+[2025-12-13 19:00:15](https://bsky.app/profile/apnews.com/post/3m7udsxog5p23)
+
+---
+
+@washingtonpost.com
+
+Column: Hobbies offer numerous benefits, but crafting comes with special ones. After spending 2,000 hours on cross-stitch, the slow, hypnotizing work kept me focused, making needlework an act of expression, self-care, and even rebellion. 
+
+
+[2025-12-13 19:00:12](https://bsky.app/profile/washingtonpost.com/post/3m7udsumq6u2g)
+
+---
+
+@aljazeera.com
+
+VR headsets are offering injured, traumatised Palestinian children respite from hardships in war-torn Gaza.
+
+[2025-12-13 19:00:03](https://bsky.app/profile/aljazeera.com/post/3m7udsm266p2i)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【独自】です。
+
+【独自映像】立山町で緊急銃猟 子グマ1頭を捕獲
+(2025-12-13 18:55) #ニュース
+
+[2025-12-13 18:55:50](https://bsky.app/profile/sokuho.news/post/3m7udl2pchs2z)
+
+---
 
 @reuters.com
 
@@ -54,78 +132,6 @@ Iran raises fuel prices for heavy users to curb consumption, smuggling reut.rs/3
 Machines that show their work could overcome the public’s distrust in AI, writes Christopher Mims.
 
 [2025-12-13 18:45:10](https://bsky.app/profile/wsj.com/post/3m7ucxyish32k)
-
----
-
-@nhknewsunofficial.bsky.social
-
-手薄な夜間に大規模災害が起きたら…医療機関の患者避難に課題
-https://news.web.nhk/newsweb/na/na-k10015003181000
-
-[2025-12-13 18:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ucxstytc22)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Dhurandhar: New Bollywood film divides opinions in India and Pakistan
-
-[2025-12-13 18:41:15](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7ucqyl5t625)
-
----
-
-@reuters.com
-
-France to vaccinate cattle for lumpy skin disease as farmers protest against cull reut.rs/3KGc4Hd
-
-[2025-12-13 18:40:08](https://bsky.app/profile/reuters.com/post/3m7ucoyrh4h2y)
-
----
-
-@financialtimes.com
-
-Surely a restaurant critic has earned the right to decide on dinner?
-on.ft.com/4oROANd
-
-[2025-12-13 18:32:05](https://bsky.app/profile/financialtimes.com/post/3m7ucalcv6g2w)
-
----
-
-@nikkei.com
-
-外国人留学生のバイト許可厳しく　審査や時間管理を厳密に
-www.nikkei.com/article/DGXZQO...
-
-現状では入国時に氏名や生年月日など基本情報を記入して申請すれば、その場で原則許可されます。
-
-不法就労の温床になっているとの指摘もあり、外国人労働者を受け入れる目的で運営する悪質な日本語学校の存在も問題になっています。
-
-[2025-12-13 18:30:36](https://bsky.app/profile/nikkei.com/post/3m7uc5wsre326)
-
----
-
-@aljazeera.com
-
-ELN conducts military drills, orders civilians indoors, as Trump warns drug-producing nations face potential attack.
-
-[2025-12-13 18:30:04](https://bsky.app/profile/aljazeera.com/post/3m7uc4yod4b2d)
-
----
-
-@nhknewsunofficial.bsky.social
-
-アイヌ施策担当 黄川田大臣 差別解消へ理解深める活動 着実に
-https://news.web.nhk/newsweb/na/na-k10015003201000
-
-[2025-12-13 18:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ubmvmz3u2w)
-
----
-
-@reuters.com
-
-Ukraine's Odesa suffers major blackouts after Russian attack reut.rs/4oVvmGu
-
-[2025-12-13 18:15:10](https://bsky.app/profile/reuters.com/post/3m7ubcdmqwk2i)
 
 ---
 
