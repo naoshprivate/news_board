@@ -1,9 +1,9 @@
-# [2025-12-14 03:50 updated](2025_12_14.md)
+# [2025-12-14 03:51 updated](2025_12_14.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Israel said it killed the head of weapons production in Hamas's military wing in a strike in the Gaza Strip on Saturday.  u.afp.com/S7Lp <a href="https://bsky.app/profile/en.afp.com/post/3m7vb5dk7662q" target="_blank">en.afp.com</a> (2025-12-14 03:45:02)</span><span style="padding-right:50px;">Trump administration officials want to recruit around 10,000 troops under a U.S. general to stabilize postwar Gaza, officials say, but some governments are reluctant to commit to a mission that could expand to disarming Hamas. on.wsj.com/3KswDa4 <a href="https://bsky.app/profile/wsj.com/post/3m7vb2qsv4l2e" target="_blank">wsj.com</a> (2025-12-14 03:43:35)</span><span style="padding-right:50px;">Dolphins RB De’Von Achane set to play vs. Steelers reut.rs/3Kyt6ae <a href="https://bsky.app/profile/reuters.com/post/3m7vauuecpp23" target="_blank">reuters.com</a> (2025-12-14 03:40:17)</span><span style="padding-right:50px;">The president of the University of Maryland, Darryll J. Pines, was cleared of plagiarism Friday after a yearlong review prompted by allegations that his published work had lifted significant portions of a 2002 scholarly paper. <a href="https://bsky.app/profile/nytimes.com/post/3m7vaufbv472x" target="_blank">nytimes.com</a> (2025-12-14 03:40:02)</span><span style="padding-right:50px;">Report: Colts to add QB Philip Rivers to active roster reut.rs/4j1sXJc <a href="https://bsky.app/profile/reuters.com/post/3m7valsfxzz2y" target="_blank">reuters.com</a> (2025-12-14 03:35:13)</span>
+<span style="padding-right:50px;">A woman faces felony charges after she was accused of spraying a food order she was delivering to an Indiana home for DoorDash with an unknown aerosol after which two people fell ill, officials said on Friday. <a href="https://bsky.app/profile/nytimes.com/post/3m7vbgebsh32y" target="_blank">nytimes.com</a> (2025-12-14 03:50:05)</span><span style="padding-right:50px;">More than 126 cases have been declared in the latest outbreak and 303 people have been quarantined.  <a href="https://bsky.app/profile/forbes.com/post/3m7vbgdzhxf2l" target="_blank">forbes.com</a> (2025-12-14 03:50:04)</span><span style="padding-right:50px;">Israel said it killed the head of weapons production in Hamas's military wing in a strike in the Gaza Strip on Saturday.  u.afp.com/S7Lp <a href="https://bsky.app/profile/en.afp.com/post/3m7vb5dk7662q" target="_blank">en.afp.com</a> (2025-12-14 03:45:02)</span><span style="padding-right:50px;">Trump administration officials want to recruit around 10,000 troops under a U.S. general to stabilize postwar Gaza, officials say, but some governments are reluctant to commit to a mission that could expand to disarming Hamas. on.wsj.com/3KswDa4 <a href="https://bsky.app/profile/wsj.com/post/3m7vb2qsv4l2e" target="_blank">wsj.com</a> (2025-12-14 03:43:35)</span><span style="padding-right:50px;">Dolphins RB De’Von Achane set to play vs. Steelers reut.rs/3Kyt6ae <a href="https://bsky.app/profile/reuters.com/post/3m7vauuecpp23" target="_blank">reuters.com</a> (2025-12-14 03:40:17)</span>
   </div>
 </div>
 
@@ -32,14 +32,32 @@
 
 ## News Headlines
 
-１．アメリカ軍がガザ地区でハマースの軍事支配の中心人物を殺害　イスラエル
-２．米国政府がガザ地区の安定を確保するため、10,000人以上の軍人を派遣する計画
-３．ドルフィンズのRBデヴォン・アチャネがスティーラーズとの対戦で出場
-４．マリーランド大学の評議員が著作の盗用容疑で不起訴
-５．コルツがQBフィリップ・ライバースをアクティブロースターに追加
-６．医療費が急騰するが、ACAの加入者はまだ間に合う
+Here are six important stories with Japanese headlines:
+
+1. ドルダッシュ運送員が食事を不明のスプレーで汚染　２人が病気になった
+2. ガザでイスラエルがハマースの軍事指揮官を殺害
+3. ドルダッシュの運送員が食事を不明のスプレーで汚染　２人を襲った
+4. ガザでイスラエルがハマースの指揮官を殺害　停戦が不安定化
+5. 米軍がシリアで攻撃を受け、2人の兵士と解釈官が死亡
+6. ドルダッシュの運送員が食事を不明のスプレーで汚染　2人を襲った
 
 ----
+
+@nytimes.com
+
+A woman faces felony charges after she was accused of spraying a food order she was delivering to an Indiana home for DoorDash with an unknown aerosol after which two people fell ill, officials said on Friday.
+
+[2025-12-14 03:50:05](https://bsky.app/profile/nytimes.com/post/3m7vbgebsh32y)
+
+---
+
+@forbes.com
+
+More than 126 cases have been declared in the latest outbreak and 303 people have been quarantined. 
+
+[2025-12-14 03:50:04](https://bsky.app/profile/forbes.com/post/3m7vbgdzhxf2l)
+
+---
 
 @en.afp.com
 
@@ -106,22 +124,6 @@ Dr. Mehmet Oz’s ability to reach an audience is undisputed.
 But he now faces a test of whether showmanship and affability can win over public support as he guides major Medicaid changes and oversees soaring costs of Affordable Care Act plans.
 
 [2025-12-14 03:30:05](https://bsky.app/profile/washingtonpost.com/post/3m7vacm2dxb2i)
-
----
-
-@washingtonpost.com
-
-Religious affiliation has been dropping among young people for decades, but there are examples of surging interest on college campuses and in cities. https://wapo.st/4a3Gmhk
-
-[2025-12-14 03:30:04](https://bsky.app/profile/washingtonpost.com/post/3m7vaclipir2i)
-
----
-
-@washingtonpost.com
-
-Israel killed a senior Hamas commander in Gaza on Saturday, the Israeli military said, another challenge to the shaky ceasefire between the sides brokered by the United States. 
-
-[2025-12-14 03:15:02](https://bsky.app/profile/washingtonpost.com/post/3m7v7hpdxqa2m)
 
 ---
 
