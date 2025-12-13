@@ -1,9 +1,9 @@
-# [2025-12-14 07:30 updated](2025_12_14.md)
+# [2025-12-14 07:50 updated](2025_12_14.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">BREAKING: Brown University says no one is in custody, correcting earlier statement, as police respond to an active shooter on campus. <a href="https://bsky.app/profile/apnews.com/post/3m7vnkw7zs72q" target="_blank">apnews.com</a> (2025-12-14 07:27:23)</span><span style="padding-right:50px;">An active shooter was reported near Brown University's campus in Rhode Island, the university said Saturday. The suspect is still at large, officials said. <a href="https://bsky.app/profile/cbsnews.com/post/3m7vnk6za5d2a" target="_blank">cbsnews.com</a> (2025-12-14 07:26:58)</span><span style="padding-right:50px;">Climate action has become less urgent now that affordability is top of mind. The good news is, emissions are likely to decline anyway. on.wsj.com/4oSkOb9 <a href="https://bsky.app/profile/wsj.com/post/3m7vnjwca3s2e" target="_blank">wsj.com</a> (2025-12-14 07:26:49)</span><span style="padding-right:50px;">Shortly after departing the Virginia airport on Saturday, the Tokyo-bound plane's engine cover separated and caught fire, according to the transportation secretary. No injuries were reported. n.pr/3MyuKcs <a href="https://bsky.app/profile/npr.org/post/3m7vnidvyn72y" target="_blank">npr.org</a> (2025-12-14 07:25:56)</span><span style="padding-right:50px;">Age is just a number for 71-year-old record breaker Lim reut.rs/4oVZx0l <a href="https://bsky.app/profile/reuters.com/post/3m7vnh2j7jb2x" target="_blank">reuters.com</a> (2025-12-14 07:25:13)</span>
+<span style="padding-right:50px;">BREAKING: Police say there are multiple victims who have been shot after an active shooter was reported at Brown University. <a href="https://bsky.app/profile/apnews.com/post/3m7von2lhzq2q" target="_blank">apnews.com</a> (2025-12-14 07:46:28)</span><span style="padding-right:50px;">JUST IN: Shots fired at Brown University as hunt for suspect remains underway <a href="https://bsky.app/profile/usatoday.com/post/3m7vomxgaze2q" target="_blank">usatoday.com</a> (2025-12-14 07:46:25)</span><span style="padding-right:50px;">Fulham win at Burnley for first time in 35 attempts reut.rs/4pFqdUj <a href="https://bsky.app/profile/reuters.com/post/3m7vokr5xmd2c" target="_blank">reuters.com</a> (2025-12-14 07:45:11)</span><span style="padding-right:50px;">ベラルーシ、邦人やノーベル平和賞受賞者ら123人釈放 www.nikkei.com/article/DGXZQO...  ベラルーシ大統領府は、拘束していた外国人123人に対してルカシェンコ大統領が恩赦を決めたと発表しました。  ロイター通信によると、ノーベル平和賞を受賞した人権活動家のアレシ・ビャリャツキ氏や元日本語教師の中西雅敏氏らが釈放されました。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m7voeplqk626" target="_blank">nikkei.com</a> (2025-12-14 07:41:48)</span><span style="padding-right:50px;">Rams activate WR Tutu Atwell (hamstring) from IR reut.rs/48TLceY <a href="https://bsky.app/profile/reuters.com/post/3m7vobwgpyr2k" target="_blank">reuters.com</a> (2025-12-14 07:40:14)</span>
   </div>
 </div>
 
@@ -32,95 +32,103 @@
 
 ## News Headlines
 
-1. ブラウン大学　学生の安全は確認せず
-2. トランプ氏「イスラム国による攻撃」　米兵ら3人死亡
-3. 大統航空機エンジン火災　乗客にけがなし
-4. 71歳の女性　世界記録を打ち破る
-5. ブラウン大学　学生の安全確認中
-6. 札幌　女性2人死亡　家族とみられる男性もけが
+1.  米、ベラルーシへの制裁緩和　ルカシェンコ大統領が外国人123人釈放
+2.  ブラウン大学で銃撃事件　学生など多数が負傷
+3.  ラムズ、WRタトゥ・アトウェルがIRから復帰
+4.  アーセナル、ワールズ戦で2得点自責点　勝ち点を狙う
+5.  チリ大統領選　右派候補カストが総選挙に勝利の可能性高まる
+6.  シリアで米兵3人死亡　イスラム国による攻撃で
 
 ----
 
 @apnews.com
 
-<strong><span style="color: red;">BREAKING:</span> Brown University says no one is in custody, correcting earlier statement, as police respond to an active shooter on campus.</strong>
+<strong><span style="color: red;">BREAKING:</span> Police say there are multiple victims who have been shot after an active shooter was reported at Brown University.</strong>
 
-[2025-12-14 07:27:23](https://bsky.app/profile/apnews.com/post/3m7vnkw7zs72q)
-
----
-
-@cbsnews.com
-
-An active shooter was reported near Brown University's campus in Rhode Island, the university said Saturday. The suspect is still at large, officials said.
-
-[2025-12-14 07:26:58](https://bsky.app/profile/cbsnews.com/post/3m7vnk6za5d2a)
+[2025-12-14 07:46:28](https://bsky.app/profile/apnews.com/post/3m7von2lhzq2q)
 
 ---
 
-@wsj.com
+@usatoday.com
 
-Climate action has become less urgent now that affordability is top of mind. The good news is, emissions are likely to decline anyway. on.wsj.com/4oSkOb9
+<strong><span style="color: red;">JUST IN:</span> Shots fired at Brown University as hunt for suspect remains underway</strong>
 
-[2025-12-14 07:26:49](https://bsky.app/profile/wsj.com/post/3m7vnjwca3s2e)
-
----
-
-@npr.org
-
-Shortly after departing the Virginia airport on Saturday, the Tokyo-bound plane's engine cover separated and caught fire, according to the transportation secretary. No injuries were reported. n.pr/3MyuKcs
-
-[2025-12-14 07:25:56](https://bsky.app/profile/npr.org/post/3m7vnidvyn72y)
+[2025-12-14 07:46:25](https://bsky.app/profile/usatoday.com/post/3m7vomxgaze2q)
 
 ---
 
 @reuters.com
 
-Age is just a number for 71-year-old record breaker Lim reut.rs/4oVZx0l
+Fulham win at Burnley for first time in 35 attempts reut.rs/4pFqdUj
 
-[2025-12-14 07:25:13](https://bsky.app/profile/reuters.com/post/3m7vnh2j7jb2x)
+[2025-12-14 07:45:11](https://bsky.app/profile/reuters.com/post/3m7vokr5xmd2c)
 
 ---
 
 @nikkei.com
 
-シリアで米兵ら3人死亡、「イスラム国」の攻撃で　トランプ大統領は「報復」宣言
+ベラルーシ、邦人やノーベル平和賞受賞者ら123人釈放
 www.nikkei.com/article/DGXZQO...
+
+ベラルーシ大統領府は、拘束していた外国人123人に対してルカシェンコ大統領が恩赦を決めたと発表しました。
+
+ロイター通信によると、ノーベル平和賞を受賞した人権活動家のアレシ・ビャリャツキ氏や元日本語教師の中西雅敏氏らが釈放されました。
 
 #ニュース
 
-[2025-12-14 07:24:04](https://bsky.app/profile/nikkei.com/post/3m7vneyyr5u2n)
+[2025-12-14 07:41:48](https://bsky.app/profile/nikkei.com/post/3m7voeplqk626)
 
 ---
 
 @reuters.com
 
-Dupont, Chianca claim big wave titles in giant Nazare surf reut.rs/44nzmIC
+Rams activate WR Tutu Atwell (hamstring) from IR reut.rs/48TLceY
 
-[2025-12-14 07:15:14](https://bsky.app/profile/reuters.com/post/3m7vmv7rnan2o)
-
----
-
-@cnn.com
-
-<strong><span style="color: red;">BREAKING:</span> One suspect is in custody as an active shooter situation develops on Brown University’s campus in Providence, Rhode Island, according to an emergency alert from the university https://cnn.it/451ChH1</strong>
-
-[2025-12-14 07:12:49](https://bsky.app/profile/cnn.com/post/3m7vmqvnpxh2x)
+[2025-12-14 07:40:14](https://bsky.app/profile/reuters.com/post/3m7vobwgpyr2k)
 
 ---
 
-@apnews.com
+@wsj.com
 
-<strong><span style="color: red;">BREAKING:</span> A suspect is in custody after reports of an active shooter at Brown University in Rhode Island, officials say.</strong>
+The school tells students and staff to shelter in place. on.wsj.com/3MAbcoc
 
-[2025-12-14 07:12:17](https://bsky.app/profile/apnews.com/post/3m7vmpwtiq424)
+[2025-12-14 07:39:25](https://bsky.app/profile/wsj.com/post/3m7voahkjlz2q)
+
+---
+
+@nbcnews.com
+
+<strong><span style="color: red;">BREAKING:</span> Active shooter reported near Brown University building as the school urges students to shelter in place. Follow live updates. </strong>
+
+[2025-12-14 07:35:54](https://bsky.app/profile/nbcnews.com/post/3m7vo25oq5f2u)
 
 ---
 
 @reuters.com
 
-Women's Top 25 roundup: No. 6 Michigan cruises to easy win over Akron reut.rs/4p4ko1G
+Arsenal need two own goals to scrape win against rock-bottom Wolves reut.rs/3XVrVEN
 
-[2025-12-14 07:10:16](https://bsky.app/profile/reuters.com/post/3m7vmmd2uyp2y)
+[2025-12-14 07:35:10](https://bsky.app/profile/reuters.com/post/3m7vnyu4ytq2r)
+
+---
+
+@wsj.com
+
+The ChatGPT maker and its competitor xAI have relaxed restrictions meant to keep new hires from leaving in the midst of a fierce talent war on.wsj.com/48TKQVG
+
+[2025-12-14 07:32:32](https://bsky.app/profile/wsj.com/post/3m7vnu5eupy2i)
+
+---
+
+@en.afp.com
+
+Anxiety over immigration and violent crime has carried Jose Antonio Kast to the steps of Chile's presidential palace.
+
+On Sunday, he is tipped to be elected the country's first hard-right leader since dictator Augusto Pinochet three decades ago.
+
+u.afp.com/S7LE
+
+[2025-12-14 07:30:09](https://bsky.app/profile/en.afp.com/post/3m7vnpvh5lm2q)
 
 ---
 
