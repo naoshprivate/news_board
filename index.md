@@ -1,9 +1,9 @@
-# [2025-12-14 00:30 updated](2025_12_14.md)
+# [2025-12-14 00:50 updated](2025_12_14.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Christos Tsirogiannis has spent almost two decades trawling through inventories of museums, auction houses and other collections for illegally trafficked antiquities. https://cnn.it/456kKgK <a href="https://bsky.app/profile/cnn.com/post/3m7uw6ugbbw2v" target="_blank">cnn.com</a> (2025-12-14 00:29:02)</span><span style="padding-right:50px;">New York City could see its first big snow of the season this weekend. <a href="https://bsky.app/profile/nytimes.com/post/3m7uw2curr72r" target="_blank">nytimes.com</a> (2025-12-14 00:26:29)</span><span style="padding-right:50px;">Play abandoned as rain hits Royal Johannesburg reut.rs/4q2NpLN <a href="https://bsky.app/profile/reuters.com/post/3m7uvxxye2u2b" target="_blank">reuters.com</a> (2025-12-14 00:25:11)</span><span style="padding-right:50px;">"Now, it's gone": A family lost their home in the Washington floods just months after moving due to the mom's cancer diagnosis.  <a href="https://bsky.app/profile/cbsnews.com/post/3m7uvqjys6z2c" target="_blank">cbsnews.com</a> (2025-12-14 00:21:01)</span><span style="padding-right:50px;">Crypto group Tether submits €1.1bn bid for Juventus football club on.ft.com/3MXxX5j <a href="https://bsky.app/profile/financialtimes.com/post/3m7uv2cgdpm2w" target="_blank">financialtimes.com</a> (2025-12-14 00:08:35)</span>
+<span style="padding-right:50px;">Coca-Cola holds last-ditch talks in bid to salvage Costa Coffee sale, FT reports reut.rs/48CHbN2 <a href="https://bsky.app/profile/reuters.com/post/3m7uwszb5cb23" target="_blank">reuters.com</a> (2025-12-14 00:40:18)</span><span style="padding-right:50px;">UK police not taking further action over Andrew bodyguard claim reut.rs/3L0kdpU <a href="https://bsky.app/profile/reuters.com/post/3m7uwjvgg622x" target="_blank">reuters.com</a> (2025-12-14 00:35:12)</span><span style="padding-right:50px;">You never think you’re going to lose your phone—until you do. Here are the steps you can take now to prevent a lost phone from ruining your life. <a href="https://bsky.app/profile/nytimes.com/post/3m7uwe7vb7s2y" target="_blank">nytimes.com</a> (2025-12-14 00:32:02)</span><span style="padding-right:50px;">The first two episodes of "Taylor Swift | The Eras Tour | The End of an Era" were released Friday, Dec. 19. <a href="https://bsky.app/profile/usatoday.com/post/3m7uwbqctxp2l" target="_blank">usatoday.com</a> (2025-12-14 00:30:38)</span><span style="padding-right:50px;">Griezmann strike secures Atletico 2-1 win over Valencia reut.rs/4pLtVf1 <a href="https://bsky.app/profile/reuters.com/post/3m7uwbhqtq42b" target="_blank">reuters.com</a> (2025-12-14 00:30:29)</span>
   </div>
 </div>
 
@@ -32,16 +32,72 @@
 
 ## News Headlines
 
-Here are six headlines in Japanese:
+Here are six important stories with Japanese headlines:
 
-1. 20年以上にわたり、古代文物の密売を追跡する男性
-2. ニューヨーク、初の大雪が今週末予想される
-3. ベルラウスのルカシェンコ大統領が放った囚人
-4. よくないニュース：父母と離縁した若者、インスタグラムで話題
-5. Netflix、空になったデパートを「ストレンジャー・シングス」という仮想空間に
-6. いいこと：4人の兄弟が健康診断を受け、心臓の病気を発見
+1. コカ・コーラ、コスタコーヒー売却の決裂を回避するため最終交渉を行う
+2. アンドリューのボディーガード事件、英国警察が捜査を断念
+3. iPhoneがなくなった時の対策　使える手順がここに
+4. ジュベントスFCに€1.1億の買収オファーを提示するテザー
+5. NFLのプレーオフ出場権が決まる日は近づく
+6. ドイツのアントワープ大使館で爆発　1人死亡、多数の負傷
 
 ----
+
+@reuters.com
+
+Coca-Cola holds last-ditch talks in bid to salvage Costa Coffee sale, FT reports reut.rs/48CHbN2
+
+[2025-12-14 00:40:18](https://bsky.app/profile/reuters.com/post/3m7uwszb5cb23)
+
+---
+
+@reuters.com
+
+UK police not taking further action over Andrew bodyguard claim reut.rs/3L0kdpU
+
+[2025-12-14 00:35:12](https://bsky.app/profile/reuters.com/post/3m7uwjvgg622x)
+
+---
+
+@nytimes.com
+
+You never think you’re going to lose your phone—until you do. Here are the steps you can take now to prevent a lost phone from ruining your life.
+
+[2025-12-14 00:32:02](https://bsky.app/profile/nytimes.com/post/3m7uwe7vb7s2y)
+
+---
+
+@usatoday.com
+
+The first two episodes of "Taylor Swift | The Eras Tour | The End of an Era" were released Friday, Dec. 19.
+
+[2025-12-14 00:30:38](https://bsky.app/profile/usatoday.com/post/3m7uwbqctxp2l)
+
+---
+
+@reuters.com
+
+Griezmann strike secures Atletico 2-1 win over Valencia reut.rs/4pLtVf1
+
+[2025-12-14 00:30:29](https://bsky.app/profile/reuters.com/post/3m7uwbhqtq42b)
+
+---
+
+@washingtonpost.com
+
+A federal judge ruled that the DOJ unlawfully accessed evidence central to its case against former FBI director James Comey, delivering what could be a death blow to President Trump’s efforts to reindict one of his most prominent perceived rivals. 
+
+[2025-12-14 00:30:07](https://bsky.app/profile/washingtonpost.com/post/3m7uwastshs2d)
+
+---
+
+@aljazeera.com
+
+This is a breaking news story.
+
+[2025-12-14 00:30:03](https://bsky.app/profile/aljazeera.com/post/3m7uwaphldi2p)
+
+---
 
 @cnn.com
 
@@ -64,71 +120,6 @@ New York City could see its first big snow of the season this weekend.
 Play abandoned as rain hits Royal Johannesburg reut.rs/4q2NpLN
 
 [2025-12-14 00:25:11](https://bsky.app/profile/reuters.com/post/3m7uvxxye2u2b)
-
----
-
-@cbsnews.com
-
-"Now, it's gone": A family lost their home in the Washington floods just months after moving due to the mom's cancer diagnosis. 
-
-[2025-12-14 00:21:01](https://bsky.app/profile/cbsnews.com/post/3m7uvqjys6z2c)
-
----
-
-@financialtimes.com
-
-Crypto group Tether submits €1.1bn bid for Juventus football club on.ft.com/3MXxX5j
-
-[2025-12-14 00:08:35](https://bsky.app/profile/financialtimes.com/post/3m7uv2cgdpm2w)
-
----
-
-@yahoofinance.com
-
-'Do what's right for you': What readers say about taking Social Security at 62
-
-[2025-12-14 00:06:07](https://bsky.app/profile/yahoofinance.com/post/3m7uuvurioz26)
-
----
-
-@wsj.com
-
-Solving the mystery of the guitarist’s longevity may be our best hope of aging gracefully.
-
-Read more: on.wsj.com/4s0bwwE
-
-Corrects an earlier post, now deleted, that incorrectly referenced Mick Jagger.
-
-[2025-12-14 00:05:33](https://bsky.app/profile/wsj.com/post/3m7uuuuxbvk2o)
-
----
-
-@reuters.com
-
-Williamson's first game since Euro final a highlight of Arsenal win reut.rs/4pZGKSK
-
-[2025-12-14 00:05:12](https://bsky.app/profile/reuters.com/post/3m7uuub7bxa2r)
-
----
-
-@diannarussini.bsky.social
-
-The bulk of Week 15 is nearly here, and playoff spots can be clinched Sunday. This is what I’m hearing on:
-
-- Joe Burrow’s state of mind
-- The NFL’s interest in Marcus Freeman
-- The latest on Brandon Aiyuk
-- An officiating spotlight
-
-[2025-12-14 00:02:29](https://bsky.app/profile/diannarussini.bsky.social/post/3m7uupfccsk2h)
-
----
-
-@financialtimes.com
-
-More than 9mn US borrowers miss student loan payments as delinquencies rise on.ft.com/4rSDD0A
-
-[2025-12-14 00:02:07](https://bsky.app/profile/financialtimes.com/post/3m7uuoqiohx2k)
 
 ---
 
