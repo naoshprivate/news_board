@@ -1,9 +1,9 @@
-# [2025-12-13 21:50 updated](2025_12_13.md)
+# [2025-12-13 22:10 updated](2025_12_13.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The holiday season means time with family and new memories, but it can also mean lots of spending — sometimes too much.  Here are some expert recommendations to make the most out of your budget this holiday season. <a href="https://bsky.app/profile/apnews.com/post/3m7umzvoloy2q" target="_blank">apnews.com</a> (2025-12-13 21:45:12)</span><span style="padding-right:50px;">At least two people were killed in a drone attack in Russia's southwestern Saratov region and parts of Ukraine went without power following targeted assaults on energy infrastructure, local authorities said Saturday, as U.S.-led peace talks on ending the war press on.  <a href="https://bsky.app/profile/cbsnews.com/post/3m7umzlrfab2l" target="_blank">cbsnews.com</a> (2025-12-13 21:45:01)</span><span style="padding-right:50px;">【随時更新】ロシア ウクライナに軍事侵攻（12月13日の動き） https://news.web.nhk/newsweb/na/na-k10014976801000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7umudmxcn2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-13 21:42:03)</span><span style="padding-right:50px;">スケート ショートトラック全日本選手権 黒川輝衣は3連覇逃す https://news.web.nhk/newsweb/na/na-k10015003361000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7umoy46j624" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-13 21:39:03)</span><span style="padding-right:50px;">中国で根付くヒップホップ　当局は統制、表現は多様化 www.nikkei.com/article/DGXZQO...  四川省や新疆ウイグル自治区などで盛んです。  当局は、ときに政治や社会を動かしてきたヒップホップににらみを利かせます。  ラッパーは自らのスタイルを守る努力を重ねて活動しています。 <a href="https://bsky.app/profile/nikkei.com/post/3m7um7t3htd2i" target="_blank">nikkei.com</a> (2025-12-13 21:30:37)</span>
+<span style="padding-right:50px;">ラグビー リーグワン開幕 クボタスピアーズが白星スタート https://news.web.nhk/newsweb/na/na-k10015003371000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7uoemire22w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-13 22:09:03)</span><span style="padding-right:50px;">The Post calls the podcast an "AI-powered tool" that turns its articles into an audio news digest. n.pr/4rUXc8z <a href="https://bsky.app/profile/npr.org/post/3m7uobdtt2524" target="_blank">npr.org</a> (2025-12-13 22:07:15)</span><span style="padding-right:50px;">AI fears are fueling a welcomed stock market rotation away from Big Tech <a href="https://bsky.app/profile/yahoofinance.com/post/3m7uo7btslq2q" target="_blank">yahoofinance.com</a> (2025-12-13 22:06:06)</span><span style="padding-right:50px;">Pittsburgh Steelers linebacker T.J. Watt has undergone surgery to repair a partially collapsed lung sustained during a dry-needling session and will miss Monday night's game against Miami. <a href="https://bsky.app/profile/apnews.com/post/3m7unweoa4v2x" target="_blank">apnews.com</a> (2025-12-13 22:01:07)</span><span style="padding-right:50px;">House Republicans offer health care bill without extending Obamacare subsidies but Democrats oppose the proposal. <a href="https://bsky.app/profile/usatoday.com/post/3m7unw2cvhu2h" target="_blank">usatoday.com</a> (2025-12-13 22:00:56)</span>
   </div>
 </div>
 
@@ -32,109 +32,98 @@
 
 ## News Headlines
 
-1. ロシア・ウクライナ情勢　 drone攻撃で2人死亡
-2. JR寝台特急「サンライズ瀬戸・出雲」24分繰り上げ
-3. 米大統領が特使を派遣　ゼレンスキー大統領との和平協議へ
-4. 若者介護に支援届かず　「18歳の壁」
-5. フィリピン　中国船から放水　漁船の乗組員3人けが
-6. 中国で根付くヒップホップ　統制にこたえる表現の多様化
+1. ラグビー リーグワン開幕 クボタスピアーズが白星スタート
+2. ゾウやキリンの生息数、環境のナトリウム量が制限
+3. 米大統領がエチオピア難民の保護を取り消す
+4. ロシア・ウクライナに軍事侵攻　ウクライナのエネルギーインフラを攻撃
+5. JR寝台特急「サンライズ瀬戸・出雲」東京発24分繰り上げ
+6. 若者ケアラーに支援届かず、相談窓口に「18歳の壁」
 
 ----
 
+@nhknewsunofficial.bsky.social
+
+ラグビー リーグワン開幕 クボタスピアーズが白星スタート
+https://news.web.nhk/newsweb/na/na-k10015003371000
+
+[2025-12-13 22:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7uoemire22w)
+
+---
+
+@npr.org
+
+The Post calls the podcast an "AI-powered tool" that turns its articles into an audio news digest. n.pr/4rUXc8z
+
+[2025-12-13 22:07:15](https://bsky.app/profile/npr.org/post/3m7uobdtt2524)
+
+---
+
+@yahoofinance.com
+
+AI fears are fueling a welcomed stock market rotation away from Big Tech
+
+[2025-12-13 22:06:06](https://bsky.app/profile/yahoofinance.com/post/3m7uo7btslq2q)
+
+---
+
 @apnews.com
 
-The holiday season means time with family and new memories, but it can also mean lots of spending — sometimes too much.
+Pittsburgh Steelers linebacker T.J. Watt has undergone surgery to repair a partially collapsed lung sustained during a dry-needling session and will miss Monday night's game against Miami.
 
-Here are some expert recommendations to make the most out of your budget this holiday season.
-
-[2025-12-13 21:45:12](https://bsky.app/profile/apnews.com/post/3m7umzvoloy2q)
-
----
-
-@cbsnews.com
-
-At least two people were killed in a drone attack in Russia's southwestern Saratov region and parts of Ukraine went without power following targeted assaults on energy infrastructure, local authorities said Saturday, as U.S.-led peace talks on ending the war press on. 
-
-[2025-12-13 21:45:01](https://bsky.app/profile/cbsnews.com/post/3m7umzlrfab2l)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【随時更新】ロシア ウクライナに軍事侵攻（12月13日の動き）
-https://news.web.nhk/newsweb/na/na-k10014976801000
-
-[2025-12-13 21:42:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7umudmxcn2k)
-
----
-
-@nhknewsunofficial.bsky.social
-
-スケート ショートトラック全日本選手権 黒川輝衣は3連覇逃す
-https://news.web.nhk/newsweb/na/na-k10015003361000
-
-[2025-12-13 21:39:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7umoy46j624)
-
----
-
-@nikkei.com
-
-中国で根付くヒップホップ　当局は統制、表現は多様化
-www.nikkei.com/article/DGXZQO...
-
-四川省や新疆ウイグル自治区などで盛んです。
-
-当局は、ときに政治や社会を動かしてきたヒップホップににらみを利かせます。
-
-ラッパーは自らのスタイルを守る努力を重ねて活動しています。
-
-[2025-12-13 21:30:37](https://bsky.app/profile/nikkei.com/post/3m7um7t3htd2i)
+[2025-12-13 22:01:07](https://bsky.app/profile/apnews.com/post/3m7unweoa4v2x)
 
 ---
 
 @usatoday.com
 
-After seven years of marriage, Amy Schumer and husband Chris Fischer are divorcing but remain on good terms as they coparent their son Gene.
+House Republicans offer health care bill without extending Obamacare subsidies but Democrats oppose the proposal.
 
-[2025-12-13 21:30:18](https://bsky.app/profile/usatoday.com/post/3m7um7awxqe2q)
-
----
-
-@cnn.com
-
-The two jackpots might differ by hundreds of millions – but the number that helps explain why is much smaller.
-
-Three dollars. That's how much Mega Millions hiked its ticket price in April, more than doubling from $2 to $5.
-https://cnn.it/48Q1DbR
-
-[2025-12-13 21:30:05](https://bsky.app/profile/cnn.com/post/3m7um6uoi2d2x)
-
----
-
-@wsj.com
-
-News Quiz for Dec. 13, 2025 on.wsj.com/4pAQzGX
-
-[2025-12-13 21:22:57](https://bsky.app/profile/wsj.com/post/3m7uls4pqpm2g)
+[2025-12-13 22:00:56](https://bsky.app/profile/usatoday.com/post/3m7unw2cvhu2h)
 
 ---
 
 @nikkei.com
 
-JR寝台特急「サンライズ瀬戸･出雲」東京発24分繰り上げ　午後9時26分に、保守時間確保（無料記事）
+ゾウやキリンの生息数、環境のナトリウム量が制限　米研究
 www.nikkei.com/article/DGXZQO...
 
-#ニュース
+アフリカでは、ゾウがナトリウムを多く含む岩石を探すため洞窟に入ったり、ゴリラが塩分を多く含む朽ち木のために争ったりする行動が知られていました。
 
-[2025-12-13 21:16:36](https://bsky.app/profile/nikkei.com/post/3m7ulgrpgi72x)
+今回の研究で、環境中のナトリウム量が少ない地域では、大型草食動物のゾウやキリン、サイなどの生息密度が低いことが分かりました。
+
+[2025-12-13 22:00:37](https://bsky.app/profile/nikkei.com/post/3m7unvhyvqb2g)
 
 ---
 
-@reuters.com
+@cnbc.com
 
-Kirk Haworth on getting meat eaters to love plant-based dining reut.rs/4pApuDE
+Thanks to the rise of digital nomad visas, these four European countries let you move first and handle visa paperwork later, says She Hit Refresh founder Cepee Tabibian. 
 
-[2025-12-13 21:15:19](https://bsky.app/profile/reuters.com/post/3m7ulei2inp2p)
+[2025-12-13 22:00:30](https://bsky.app/profile/cnbc.com/post/3m7unvbcpjf24)
+
+---
+
+@washingtonpost.com
+
+Climate models suggest that La Niña may transition to El Niño in 2026, which could cause changes in weather patterns and increase the odds for record-high global temperatures. https://wapo.st/4a7QO7B
+
+[2025-12-13 22:00:20](https://bsky.app/profile/washingtonpost.com/post/3m7unuxeari23)
+
+---
+
+@aljazeera.com
+
+Trump strips legal protections from Ethiopian refugees in latest crackdown https://aje.io/p9qq89
+
+[2025-12-13 22:00:03](https://bsky.app/profile/aljazeera.com/post/3m7unuhbkdb2z)
+
+---
+
+@cbsnews.com
+
+The designation has been given out on an annual basis to an influential person, group of people or, occasionally, a defining cultural theme or idea.
+
+[2025-12-13 22:00:01](https://bsky.app/profile/cbsnews.com/post/3m7unug44ro2m)
 
 ---
 
