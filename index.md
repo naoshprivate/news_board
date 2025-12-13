@@ -1,9 +1,9 @@
-# [2025-12-13 17:30 updated](2025_12_13.md)
+# [2025-12-13 17:50 updated](2025_12_13.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】長崎ヴェルカ 107-82で滋賀に勝利 プロバスケB1《長崎》 (2025-12-13 17:13) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7u5x4v3el2v" target="_blank">sokuho.news</a> (2025-12-13 17:15:12)</span><span style="padding-right:50px;">Two killed in Ukrainian drone strike on Russia's Saratov, regional governor says reut.rs/4oSEOKL <a href="https://bsky.app/profile/reuters.com/post/3m7u5wz2tsx24" target="_blank">reuters.com</a> (2025-12-13 17:15:09)</span><span style="padding-right:50px;">A “terrifying” new era of warfare is forcing America to rethink its tools and tactics as it prepares for great-power conflict with China. <a href="https://bsky.app/profile/wsj.com/post/3m7u5vfzdgi23" target="_blank">wsj.com</a> (2025-12-13 17:14:15)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】集合住宅で火災 住人の女性1人がケガ 「3階から煙が出ています」と通報 消防車など25台が出動 大阪・住吉区 (2025-12-13 16:30) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7u5owy5yn2b" target="_blank">sokuho.news</a> (2025-12-13 17:10:38)</span><span style="padding-right:50px;">China's Wang Yi seeks deeper oil and gas ties with UAE on Middle East tour reut.rs/3MFr3Sc <a href="https://bsky.app/profile/reuters.com/post/3m7u5oniek42y" target="_blank">reuters.com</a> (2025-12-13 17:10:28)</span>
+<span style="padding-right:50px;">How an obscure company pivoted, then pivoted again, nearly ran out of money—and built the toy everybody wants. <a href="https://bsky.app/profile/wsj.com/post/3m7u7cnieg423" target="_blank">wsj.com</a> (2025-12-13 17:39:33)</span><span style="padding-right:50px;">モンベル創業50周年　辰野勇会長｢自分たちが欲しいもの形に｣ www.nikkei.com/article/DGXZQO...  「あなたは欲しいものがありますか？」会長に問われた記者は、思い浮かびませんでした。  「それじゃあ、商売できませんね。無理に考えて作るのは、僕は違うと思う」。 <a href="https://bsky.app/profile/nikkei.com/post/3m7u6snovnm22" target="_blank">nikkei.com</a> (2025-12-13 17:30:36)</span><span style="padding-right:50px;">Country star Jelly Roll is ready to win a Grammy. The “Beautifully Broken” singer has three nominations this year. He has been nominated three consecutive years. This time around, he's up for his first album award and his first award in a contemporary Christian music category.  <a href="https://bsky.app/profile/apnews.com/post/3m7u6ru4fda2p" target="_blank">apnews.com</a> (2025-12-13 17:30:09)</span><span style="padding-right:50px;">Witnesses at the hospital and the UN say the attack killed medics, patients and may 'amount to a war crime'. <a href="https://bsky.app/profile/aljazeera.com/post/3m7u6rpvmxk27" target="_blank">aljazeera.com</a> (2025-12-13 17:30:05)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】長崎ヴェルカ 107-82で滋賀に勝利 プロバスケB1《長崎》 (2025-12-13 17:13) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7u5x4v3el2v" target="_blank">sokuho.news</a> (2025-12-13 17:15:12)</span>
   </div>
 </div>
 
@@ -32,14 +32,51 @@
 
 ## News Headlines
 
-1. 長崎ヴェルカ 107-82で滋賀に勝利
-2. ウクライナのドローン攻撃でロシアのサラトフで２人死亡
-3. 米、中国との対決で新たな戦争の時代に備える
-4. 大阪の集合住宅で火災、女性1人けが
-5. 中国、UAEとの石油・ガス協力強化を望む
-6. エプスタイン氏とトランプ氏らの写真が公開
+1. モンベル創業50周年　辰野勇会長
+2. 長崎ヴェルカ 107-82で滋賀に勝利
+3. 2人死亡　ウクライナのドローンによるロシアへの攻撃
+4. 米、中国との大国対決に新戦術を
+5. 中国の火星探査機、史上3つ目の恒星間天体「3I/ATLAS」の観測に成功
+6. エプスタイン氏とトランプ氏・クリントン氏らの写真公開
 
 ----
+
+@wsj.com
+
+How an obscure company pivoted, then pivoted again, nearly ran out of money—and built the toy everybody wants.
+
+[2025-12-13 17:39:33](https://bsky.app/profile/wsj.com/post/3m7u7cnieg423)
+
+---
+
+@nikkei.com
+
+モンベル創業50周年　辰野勇会長｢自分たちが欲しいもの形に｣
+www.nikkei.com/article/DGXZQO...
+
+「あなたは欲しいものがありますか？」会長に問われた記者は、思い浮かびませんでした。
+
+「それじゃあ、商売できませんね。無理に考えて作るのは、僕は違うと思う」。
+
+[2025-12-13 17:30:36](https://bsky.app/profile/nikkei.com/post/3m7u6snovnm22)
+
+---
+
+@apnews.com
+
+Country star Jelly Roll is ready to win a Grammy. The “Beautifully Broken” singer has three nominations this year. He has been nominated three consecutive years. This time around, he's up for his first album award and his first award in a contemporary Christian music category. 
+
+[2025-12-13 17:30:09](https://bsky.app/profile/apnews.com/post/3m7u6ru4fda2p)
+
+---
+
+@aljazeera.com
+
+Witnesses at the hospital and the UN say the attack killed medics, patients and may 'amount to a war crime'.
+
+[2025-12-13 17:30:05](https://bsky.app/profile/aljazeera.com/post/3m7u6rpvmxk27)
+
+---
 
 @sokuho.news
 
@@ -93,40 +130,6 @@ China's Wang Yi seeks deeper oil and gas ties with UAE on Middle East tour reut.
 https://news.web.nhk/newsweb/na/na-k10015003191000
 
 [2025-12-13 17:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7u5m6tnc72x)
-
----
-
-@nhknewsunofficial.bsky.social
-
-米 AI開発の重要鉱物など確保へ 日本含む多国間の新枠組み発足
-https://news.web.nhk/newsweb/na/na-k10015003131000
-
-[2025-12-13 17:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7u5gs7nve2u)
-
----
-
-@reuters.com
-
-A peanut paste was saving Kenyan children - and then Trump took it away reut.rs/48QYDwa
-
-[2025-12-13 17:05:09](https://bsky.app/profile/reuters.com/post/3m7u5f5cwsq2k)
-
----
-
-@nhknewsunofficial.bsky.social
-
-エプスタイン氏めぐり 女性と写るトランプ氏の写真など公開
-https://news.web.nhk/newsweb/na/na-k10015003161000
-
-[2025-12-13 17:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7u5bgslka2v)
-
----
-
-@cnn.com
-
-The United States accused Rwanda of fueling instability and war as a Rwanda-backed advance of the M23 rebel group in eastern Democratic Republic of Congo threatens to derail US President Donald Trump’s efforts to broker peace in the region. 
-
-[2025-12-13 17:03:01](https://bsky.app/profile/cnn.com/post/3m7u5bdokxg24)
 
 ---
 
