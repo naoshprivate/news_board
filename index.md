@@ -1,9 +1,9 @@
-# [2025-12-14 04:10 updated](2025_12_14.md)
+# [2025-12-14 04:30 updated](2025_12_14.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">In California’s fire country, even the most hardened home can go up in flames if the house next door isn’t prepared. <a href="https://bsky.app/profile/bloomberg.com/post/3m7vciecsmk2e" target="_blank">bloomberg.com</a> (2025-12-14 04:09:05)</span><span style="padding-right:50px;">Palmer's cool finish warms the hearts of Chelsea fans reut.rs/4pvQfJv <a href="https://bsky.app/profile/reuters.com/post/3m7vcbj42uq2r" target="_blank">reuters.com</a> (2025-12-14 04:05:15)</span><span style="padding-right:50px;">Beans were the breakout star of 2025, according to Grubhub.  Insights published by the Chicago, Illinois-based company suggest that "foodmaxxing" reached new heights this year, with an increase in orders that were nutritious, functional and pleasing to the eye.  Read more: bit.ly/4pGaAMg <a href="https://bsky.app/profile/usatoday.com/post/3m7vcbafboc2z" target="_blank">usatoday.com</a> (2025-12-14 04:05:06)</span><span style="padding-right:50px;">President Trump says "we will retaliate" after three Americans are killed in a Syria attack that the U.S. blames on the Islamic State group. <a href="https://bsky.app/profile/apnews.com/post/3m7vc7r3xjs2q" target="_blank">apnews.com</a> (2025-12-14 04:04:17)</span><span style="padding-right:50px;">Maresca says he has just been through his worst days at Chelsea reut.rs/4pZwgTa <a href="https://bsky.app/profile/reuters.com/post/3m7vc24asgr2s" target="_blank">reuters.com</a> (2025-12-14 04:01:07)</span>
+<span style="padding-right:50px;">Peter Greene, a character actor who made a career out of playing villains, including in “Pulp Fiction,” “The Mask” and dozens of other films and TV shows, has died. He was 60. <a href="https://bsky.app/profile/nytimes.com/post/3m7vdgyumel2x" target="_blank">nytimes.com</a> (2025-12-14 04:26:14)</span><span style="padding-right:50px;">Engine failure forces United Airlines flight to return to DC-area airport reut.rs/48Bhqg1 <a href="https://bsky.app/profile/reuters.com/post/3m7vdf5foxi23" target="_blank">reuters.com</a> (2025-12-14 04:25:11)</span><span style="padding-right:50px;">A flight bound for Tokyo safely returned to Washington Dulles International Airport on Saturday after an engine failure during takeoff, federal officials said. <a href="https://bsky.app/profile/nytimes.com/post/3m7vcsena7s2e" target="_blank">nytimes.com</a> (2025-12-14 04:14:41)</span><span style="padding-right:50px;">In California’s fire country, even the most hardened home can go up in flames if the house next door isn’t prepared. <a href="https://bsky.app/profile/bloomberg.com/post/3m7vciecsmk2e" target="_blank">bloomberg.com</a> (2025-12-14 04:09:05)</span><span style="padding-right:50px;">Palmer's cool finish warms the hearts of Chelsea fans reut.rs/4pvQfJv <a href="https://bsky.app/profile/reuters.com/post/3m7vcbj42uq2r" target="_blank">reuters.com</a> (2025-12-14 04:05:15)</span>
   </div>
 </div>
 
@@ -32,16 +32,40 @@
 
 ## News Headlines
 
-Here are the six headlines in Japanese:
+Here are six important stories with headlines in Japanese:
 
-1. 1人で火事に遭う心配なのは、隣の家が火事になったとき
-2. 2025年は豆がブームだった
-3. シリアでイスラム教系テロが起こり、3人の米国人を殺害
-4. ギリシャチームに好調なパーマー選手
-5. 60%の若者は宗教に属さない
-6. バルカンのクリスマスは、サンタと悪魔の化身の両方
+1. 60歳の俳優ピーター・グリーンが亡くなる
+2. 米連邦政府がガザ地区でハマースの軍事指揮官を殺害
+3. 米軍の3人と民間人翻訳者がシリアで攻撃を受け死亡
+4. ガザ地区でイスラム教徒とイスラム過激派の戦闘が続く
+5. アメリカの大学の学長が著作の盗作容疑が晴れ
+6. クリスマスの準備で危険な火事が起こりやすい
 
 ----
+
+@nytimes.com
+
+Peter Greene, a character actor who made a career out of playing villains, including in “Pulp Fiction,” “The Mask” and dozens of other films and TV shows, has died. He was 60.
+
+[2025-12-14 04:26:14](https://bsky.app/profile/nytimes.com/post/3m7vdgyumel2x)
+
+---
+
+@reuters.com
+
+Engine failure forces United Airlines flight to return to DC-area airport reut.rs/48Bhqg1
+
+[2025-12-14 04:25:11](https://bsky.app/profile/reuters.com/post/3m7vdf5foxi23)
+
+---
+
+@nytimes.com
+
+A flight bound for Tokyo safely returned to Washington Dulles International Airport on Saturday after an engine failure during takeoff, federal officials said.
+
+[2025-12-14 04:14:41](https://bsky.app/profile/nytimes.com/post/3m7vcsena7s2e)
+
+---
 
 @bloomberg.com
 
@@ -102,32 +126,6 @@ But to older ears, it still sounds strange.
 Cook Out teases new locations in 6 states. See upcoming openings.
 
 [2025-12-14 04:00:55](https://bsky.app/profile/usatoday.com/post/3m7vbzqrlz72h)
-
----
-
-@bloomberg.com
-
-Larry Ellison has ridden the AI boom back to the center of Silicon Valley. What happens to his $300 billion bet if the bubble bursts?
-
-[2025-12-14 04:00:38](https://bsky.app/profile/bloomberg.com/post/3m7vbzatg2c24)
-
----
-
-@cnbc.com
-
-Close to half, 41% of U.S. adults say they anticipate being more stressed out around the holidays this year than last year, according to a recent poll.
-
-Try these three simple acts that will make you feel more connected with others and closer to the people in your life.
-
-[2025-12-14 04:00:18](https://bsky.app/profile/cnbc.com/post/3m7vbynkiog24)
-
----
-
-@apnews.com
-
-Lindsey Vonn nearly did it again.
-
-[2025-12-14 04:00:15](https://bsky.app/profile/apnews.com/post/3m7vbykmi2s2d)
 
 ---
 
