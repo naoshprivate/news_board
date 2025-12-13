@@ -1,9 +1,9 @@
-# [2025-12-13 23:30 updated](2025_12_13.md)
+# [2025-12-13 23:50 updated](2025_12_13.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Todd Combs' stellar 15-year career at Berkshire started with an unsolicited letter to Charlie Munger <a href="https://bsky.app/profile/cnbc.com/post/3m7usloup3t2i" target="_blank">cnbc.com</a> (2025-12-13 23:24:37)</span><span style="padding-right:50px;">Salah on the bench for Liverpool against Brighton reut.rs/48zb7to <a href="https://bsky.app/profile/reuters.com/post/3m7us2uhz5n2y" target="_blank">reuters.com</a> (2025-12-13 23:15:13)</span><span style="padding-right:50px;">Wall Street's most overbought stocks this week don't include any tech names <a href="https://bsky.app/profile/cnbc.com/post/3m7us2cdkrv2x" target="_blank">cnbc.com</a> (2025-12-13 23:14:54)</span><span style="padding-right:50px;">Larry and Barbara Cook thought they were helping government agents. In the end, they found themselves victims of tax and Medicare gotchas, as well as the scammers.  Read more: www.forbes.com/sites/kellyp... (Photo: The Cooks) <a href="https://bsky.app/profile/forbes.com/post/3m7urzo45j22n" target="_blank">forbes.com</a> (2025-12-13 23:14:33)</span><span style="padding-right:50px;">This Startup Wants To Beam Solar Power From Space <a href="https://bsky.app/profile/forbes.com/post/3m7urywkma22n" target="_blank">forbes.com</a> (2025-12-13 23:14:08)</span>
+<span style="padding-right:50px;">Swiss trio sweep men's giant slalom in Val d'Isere reut.rs/3Yp10Bh <a href="https://bsky.app/profile/reuters.com/post/3m7utqny7hw2b" target="_blank">reuters.com</a> (2025-12-13 23:45:18)</span><span style="padding-right:50px;">Minnesota fraudsters sent money to China and popped champagne in a luxury villa, documents show.  <a href="https://bsky.app/profile/cbsnews.com/post/3m7utq5mn4j2t" target="_blank">cbsnews.com</a> (2025-12-13 23:45:01)</span><span style="padding-right:50px;">Maria Kalesnikava, hero of Belarus opposition, freed after more than 5 years reut.rs/4iY89ST <a href="https://bsky.app/profile/reuters.com/post/3m7uthkez6i23" target="_blank">reuters.com</a> (2025-12-13 23:40:12)</span><span style="padding-right:50px;">Yes Gas Prices Are Falling, But Here’s By How Much <a href="https://bsky.app/profile/forbes.com/post/3m7utdjnwlk2n" target="_blank">forbes.com</a> (2025-12-13 23:37:57)</span><span style="padding-right:50px;">Apple Confirms Attacks—All iPhone Users Must Update Now <a href="https://bsky.app/profile/forbes.com/post/3m7utd56jdk2n" target="_blank">forbes.com</a> (2025-12-13 23:37:44)</span>
   </div>
 </div>
 
@@ -32,102 +32,94 @@
 
 ## News Headlines
 
-1. チャーリー・マンガーに無断の手紙を送り始め、15年間でバークシャーの頭角を現したトッド・コームズ氏が去る
-2. ブライトン戦欠場のサラー選手
-3. ラリー・クック夫妻が政府と協力したと思い込んでいたが、税関とメディケアの罠に陥る
-4. 太陽熱のエネルギーを宇宙から送る新しいスタートアップ
-5. 「ベアード・ウェイ」が終わる？ コームズ氏の去ることに伴うバークシャーの変化
-6. ベラルーシが123人の囚人を釈放　米が制裁を解除
+1. スイスのスキー選手がバル・デュベールで男子スーパー大回転を制す
+2. ミネソタで中国に金を送り、チャンネージュヴィラでパーティーを楽しんだ詐欺師
+3. ベラルーシの反体制活動家、マリア・カレスニカヴァが5年以上にわたる拘束から解放される
+4. ガソリン価格が下落するが、iPhoneやAndroidのアップデートを怠るな
+5. ベラルーシ政府が123人を釈放し、米が経済制裁を解除
+6. ミシガン州立大学のトム・イッツォが5年契約で1,000万ドル増額
 
 ----
 
-@cnbc.com
+@reuters.com
 
-Todd Combs' stellar 15-year career at Berkshire started with an unsolicited letter to Charlie Munger
+Swiss trio sweep men's giant slalom in Val d'Isere reut.rs/3Yp10Bh
 
-[2025-12-13 23:24:37](https://bsky.app/profile/cnbc.com/post/3m7usloup3t2i)
+[2025-12-13 23:45:18](https://bsky.app/profile/reuters.com/post/3m7utqny7hw2b)
+
+---
+
+@cbsnews.com
+
+Minnesota fraudsters sent money to China and popped champagne in a luxury villa, documents show. 
+
+[2025-12-13 23:45:01](https://bsky.app/profile/cbsnews.com/post/3m7utq5mn4j2t)
 
 ---
 
 @reuters.com
 
-Salah on the bench for Liverpool against Brighton reut.rs/48zb7to
+Maria Kalesnikava, hero of Belarus opposition, freed after more than 5 years reut.rs/4iY89ST
 
-[2025-12-13 23:15:13](https://bsky.app/profile/reuters.com/post/3m7us2uhz5n2y)
-
----
-
-@cnbc.com
-
-Wall Street's most overbought stocks this week don't include any tech names
-
-[2025-12-13 23:14:54](https://bsky.app/profile/cnbc.com/post/3m7us2cdkrv2x)
+[2025-12-13 23:40:12](https://bsky.app/profile/reuters.com/post/3m7uthkez6i23)
 
 ---
 
 @forbes.com
 
-Larry and Barbara Cook thought they were helping government agents. In the end, they found themselves victims of tax and Medicare gotchas, as well as the scammers.
+Yes Gas Prices Are Falling, But Here’s By How Much
 
-Read more:
-www.forbes.com/sites/kellyp... (Photo: The Cooks)
-
-[2025-12-13 23:14:33](https://bsky.app/profile/forbes.com/post/3m7urzo45j22n)
+[2025-12-13 23:37:57](https://bsky.app/profile/forbes.com/post/3m7utdjnwlk2n)
 
 ---
 
 @forbes.com
 
-This Startup Wants To Beam Solar Power From Space
+Apple Confirms Attacks—All iPhone Users Must Update Now
 
-[2025-12-13 23:14:08](https://bsky.app/profile/forbes.com/post/3m7urywkma22n)
-
----
-
-@cnbc.com
-
-End of 'The Berkshire Way'? Combs' departure isn't only big change as Buffett transition nears
-
-[2025-12-13 23:12:47](https://bsky.app/profile/cnbc.com/post/3m7urwjdnic24)
+[2025-12-13 23:37:44](https://bsky.app/profile/forbes.com/post/3m7utd56jdk2n)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@forbes.com
 
-Belarus frees 123 prisoners as US lifts sanctions
+Dangerous December—Why You Must Update Your iPhone Or Android Phone Now
 
-[2025-12-13 23:07:33](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7urn727os2r)
-
----
-
-@yahoofinance.com
-
-Housing affordability may improve next year, but don’t expect a market crash
-
-[2025-12-13 23:06:06](https://bsky.app/profile/yahoofinance.com/post/3m7urkklwcj2v)
+[2025-12-13 23:37:30](https://bsky.app/profile/forbes.com/post/3m7utcpqwbc2n)
 
 ---
 
-@apnews.com
+@forbes.com
 
-Michigan State's Tom Izzo is getting a $1 million raise in his 5-year contract that renews annually, a boost that makes him the highest-paid coach in the Big Ten with a salary of about $7.2 million.
+Google Stops Critical Updates For Millions Of Samsung Users
 
-[2025-12-13 23:01:05](https://bsky.app/profile/apnews.com/post/3m7urblm2id23)
+[2025-12-13 23:37:14](https://bsky.app/profile/forbes.com/post/3m7utcansck2n)
 
 ---
 
-@nikkei.com
+@forbes.com
 
-書評『ファシストは未来を支配するためにいかに過去を改竄するのか』
-www.nikkei.com/article/DGXZQO...
- 
-民主主義で導かれる結論はあくまで暫定的で、修正余地は常に開かれています。つまり、私たちの社会には「不確実性」が制度として組み込まれています。
- 
-一方、反リベラル体制では不確実性の余地そのものが否定されます。「ファイナルアンサー」が予め固定化され、それに沿う見解だけが許されます。
- 
-本書の著者スタンリーは、「国民的偉大さ」「厳格なジェンダー役割」「左翼への誹謗中傷」など5つのテーマが、こうした政治体制の教育で中心的役割を果たしていると論じています。
+CISA Warns Chrome And Edge Users: Update Now—Attacks Have Started
 
-[2025-12-13 23:01:00](https://bsky.app/profile/nikkei.com/post/3m7urbgqtvp2g)
+[2025-12-13 23:36:59](https://bsky.app/profile/forbes.com/post/3m7utbs5ey22n)
+
+---
+
+@forbes.com
+
+iOS 26.2—Update Now Warning Issued To All iPhone Users
+\\
+
+[2025-12-13 23:36:42](https://bsky.app/profile/forbes.com/post/3m7utbcdkhc2n)
+
+---
+
+@forbes.com
+
+10 Holiday Cocktails That Go Way Beyond Eggnog
+www.forbes.com/sites/emilyp... (Photo: Getty Images)
+
+[2025-12-13 23:36:27](https://bsky.app/profile/forbes.com/post/3m7utatqn2c2n)
 
 ---
 
