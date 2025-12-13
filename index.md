@@ -1,9 +1,9 @@
-# [2025-12-13 14:30 updated](2025_12_13.md)
+# [2025-12-13 14:50 updated](2025_12_13.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">King County Sheriff's office used a drone to deliver a life vest to a man stranded atop his car due to rushing floodwaters in Washington state.  Read more: https://cnn.it/4q26cXB <a href="https://bsky.app/profile/cnn.com/post/3m7tulbfi2h2x" target="_blank">cnn.com</a> (2025-12-13 14:27:31)</span><span style="padding-right:50px;">BREAKING: Peter Greene, actor known for 'Pulp Fiction' and 'The Mask,' dies at 60. <a href="https://bsky.app/profile/nbcnews.com/post/3m7tuk4wh722r" target="_blank">nbcnews.com</a> (2025-12-13 14:26:53)</span><span style="padding-right:50px;">Washington State hires Missouri OC Kirby Moore as coach reut.rs/4oNxsIn <a href="https://bsky.app/profile/reuters.com/post/3m7tu6cdvmu2y" target="_blank">reuters.com</a> (2025-12-13 14:20:16)</span><span style="padding-right:50px;">Steve Witkoff to meet Volodymyr Zelensky for latest Ukraine war talks <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7ttur5r5r2r" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-13 14:14:55)</span><span style="padding-right:50px;">One dead in Russia's Saratov region after drone alert reut.rs/4oTpVYH <a href="https://bsky.app/profile/reuters.com/post/3m7ttm6yibb2r" target="_blank">reuters.com</a> (2025-12-13 14:10:08)</span>
+<span style="padding-right:50px;">Thailand vows to keep fighting Cambodia, despite Trump's ceasefire claim reut.rs/4aOJDBj <a href="https://bsky.app/profile/reuters.com/post/3m7tvbynlkj2i" target="_blank">reuters.com</a> (2025-12-13 14:40:13)</span><span style="padding-right:50px;"> Lessons from my own Traitorish experiment on.ft.com/48P3MVl  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m7tv6fpirx25" target="_blank">financialtimes.com</a> (2025-12-13 14:38:13)</span><span style="padding-right:50px;"> Wall Street bonus season might see traders lose out again on.ft.com/4oVK14H  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m7tv6exxwb2k" target="_blank">financialtimes.com</a> (2025-12-13 14:38:12)</span><span style="padding-right:50px;"> It’s Christmas, so party like it's the 1990s on.ft.com/3XVQRfk  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m7tv6e5k5p25" target="_blank">financialtimes.com</a> (2025-12-13 14:38:11)</span><span style="padding-right:50px;"> A restaurant that restored my faith in tasting menus — Jay Rayner visits Vetch in Liverpool on.ft.com/4q77uRl  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m7tv6ds2xp25" target="_blank">financialtimes.com</a> (2025-12-13 14:38:11)</span>
   </div>
 </div>
 
@@ -32,96 +32,116 @@
 
 ## News Headlines
 
-1. ドローンで人命を救う
-2. 役者ピーター・グリーンが亡くなる
-3. ワシントン州がミズーリ州のコーチを引き入れる
-4. ウクライナのゼレンスキー氏とトランプ氏が会談
-5. ドラフトのフォントに関する論争
-6. ゼネラルモーターズがインドの自動車市場に進出
+・タイはカンボジアとの戦いを続けることを誓う
+・トランプ米大統領の和平宣言は虚言か
+・株式市場のボーナスシーズン、トレーダーは今年も苦労する
+・パーティーは90年代のようにクリスマスを楽しみよう
+・ビジネス界の女性が男の役割を取り戻す
+・ワシントンの公営ゴルフ場を再開発する計画が進む
+・障害者教育に新しい戦略が導入され、成果が見られた
+・中国の南京で虐殺事件の追悼式が開かれる
+・ワールドカップのチケットの申し込みが500万件を超える
+・ワシントン州で洪水が起こり、ドローンで救助が行われる
+・俳優のピーター・グリーンが亡くなる
+・ワシントン大学がコーチを新たに決める
+・ウクライナのゼレンスキー氏と対話を行う米企業の会長
+・ロシアのサラトフ州でドローンが飛来し、1人死亡
+・ルービオ氏がフォントに関する戦いを挑む
+・移民問題をめぐる意見
+・時計の世界のルールを知っておくべき
+・米大統領がプロキシアドバイザリー会社の調査を指示
+・中国企業がベトナムに投資を増やす
+・角野隼斗がKアリーナ横浜でクラシック・コンサート
+・MLBのガーディアンズのマネージャーが契約延長
+・Shopifyの社長が80時間の労働を否定
+・ユタのキャニオンで登山者が足を負傷
+・トランプ大統領が和平が持続することを困難にする
+・エネルギー会社が電力供給契約を結ぶ
+・兵庫県姫路市で中学生が転落し死亡
+・NBAのスパーズの選手が負傷
+・旧姓の使用を認める法律が提案される
+・トランプ大統領が連邦準備理事会の新議長を決める
+・買い物にはお金がかからない品物がいい
 
 ----
 
-@cnn.com
-
-King County Sheriff's office used a drone to deliver a life vest to a man stranded atop his car due to rushing floodwaters in Washington state.
-
-Read more: https://cnn.it/4q26cXB
-
-[2025-12-13 14:27:31](https://bsky.app/profile/cnn.com/post/3m7tulbfi2h2x)
-
----
-
-@nbcnews.com
-
-<strong><span style="color: red;">BREAKING:</span> Peter Greene, actor known for 'Pulp Fiction' and 'The Mask,' dies at 60.</strong>
-
-[2025-12-13 14:26:53](https://bsky.app/profile/nbcnews.com/post/3m7tuk4wh722r)
-
----
-
 @reuters.com
 
-Washington State hires Missouri OC Kirby Moore as coach reut.rs/4oNxsIn
+Thailand vows to keep fighting Cambodia, despite Trump's ceasefire claim reut.rs/4aOJDBj
 
-[2025-12-13 14:20:16](https://bsky.app/profile/reuters.com/post/3m7tu6cdvmu2y)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Steve Witkoff to meet Volodymyr Zelensky for latest Ukraine war talks
-
-[2025-12-13 14:14:55](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7ttur5r5r2r)
-
----
-
-@reuters.com
-
-One dead in Russia's Saratov region after drone alert reut.rs/4oTpVYH
-
-[2025-12-13 14:10:08](https://bsky.app/profile/reuters.com/post/3m7ttm6yibb2r)
+[2025-12-13 14:40:13](https://bsky.app/profile/reuters.com/post/3m7tvbynlkj2i)
 
 ---
 
 @financialtimes.com
 
- Rubio is not alone in going to war over fonts on.ft.com/4iVhWZO  | opinion
+ Lessons from my own Traitorish experiment on.ft.com/48P3MVl  | opinion
 
-[2025-12-13 14:08:10](https://bsky.app/profile/financialtimes.com/post/3m7ttiofhbe2c)
+[2025-12-13 14:38:13](https://bsky.app/profile/financialtimes.com/post/3m7tv6fpirx25)
 
 ---
 
 @financialtimes.com
 
- The other kind of migrant on.ft.com/3XSgoGd  | opinion
+ Wall Street bonus season might see traders lose out again on.ft.com/4oVK14H  | opinion
 
-[2025-12-13 14:08:10](https://bsky.app/profile/financialtimes.com/post/3m7ttioigfr2q)
-
----
-
-@wsj.com
-
-The world of watches can feel like a secret society, with its own lore and lexicon.
-
-To help you avoid unintentionally committing a faux pas, we’ve compiled seven guidelines that cater to all types of watch-wearers. ⌚️: on.wsj.com/3MvYXc6
-
-[2025-12-13 14:03:54](https://bsky.app/profile/wsj.com/post/3m7ttb2stnr2q)
+[2025-12-13 14:38:12](https://bsky.app/profile/financialtimes.com/post/3m7tv6exxwb2k)
 
 ---
 
-@cnn.com
+@financialtimes.com
 
-President Donald Trump on Thursday ordered a review of two major proxy advisory firms — companies that advise shareholders on votes — that had previously drawn the ire of Tesla CEO Elon Musk and others in Corporate America.
+ It’s Christmas, so party like it's the 1990s on.ft.com/3XVQRfk  | opinion
 
-[2025-12-13 14:01:01](https://bsky.app/profile/cnn.com/post/3m7tt3vnbgv2v)
+[2025-12-13 14:38:11](https://bsky.app/profile/financialtimes.com/post/3m7tv6e5k5p25)
 
 ---
 
-@japan.reuters.com
+@financialtimes.com
 
-中国企業が、ベトナムに投資を進め、事業を拡大させている。同じ社会主義国で国境を接している両国は、領有権問題などを抱え複雑な関係だったが、トランプ米大統領による輸入関税引き上げという逆風が双方を急接近させている。 bit.ly/3L0HmIR
+ A restaurant that restored my faith in tasting menus — Jay Rayner visits Vetch in Liverpool on.ft.com/4q77uRl  | opinion
 
-[2025-12-13 14:00:58](https://bsky.app/profile/japan.reuters.com/post/3m7tt3s3nsp2c)
+[2025-12-13 14:38:11](https://bsky.app/profile/financialtimes.com/post/3m7tv6ds2xp25)
+
+---
+
+@financialtimes.com
+
+ Is now really a good time to start investing? on.ft.com/4oVhMD0  | opinion
+
+[2025-12-13 14:38:10](https://bsky.app/profile/financialtimes.com/post/3m7tv6d7n6d2q)
+
+---
+
+@financialtimes.com
+
+ Taxes take the shine off pubs’ festive narrative on.ft.com/3XUZFSH  | opinion
+
+[2025-12-13 14:38:10](https://bsky.app/profile/financialtimes.com/post/3m7tv6ciy3n2p)
+
+---
+
+@financialtimes.com
+
+ The small gestures that connect us on.ft.com/3L0HN5X  | opinion
+
+[2025-12-13 14:38:10](https://bsky.app/profile/financialtimes.com/post/3m7tv6ch3u62w)
+
+---
+
+@financialtimes.com
+
+ The best strong and sweet wines for Christmas 2025 on.ft.com/4oLh5vT  | opinion
+
+[2025-12-13 14:38:10](https://bsky.app/profile/financialtimes.com/post/3m7tv6ciezr2b)
+
+---
+
+@financialtimes.com
+
+ LinkedIn and the great gender swap on.ft.com/3MFhpyY  | opinion
+
+[2025-12-13 14:38:09](https://bsky.app/profile/financialtimes.com/post/3m7tv6c2eox24)
 
 ---
 
