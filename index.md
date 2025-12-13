@@ -1,9 +1,9 @@
-# [2025-12-14 03:34 updated](2025_12_14.md)
+# [2025-12-14 03:38 updated](2025_12_14.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Obamacare bills are about to spike. But you still have time to save. <a href="https://bsky.app/profile/usatoday.com/post/3m7vadbzwlu25" target="_blank">usatoday.com</a> (2025-12-14 03:30:28)</span><span style="padding-right:50px;">There’s a frenzy of development going on to support the AI revolution, and with it an insatiable demand for debt to fund it. <a href="https://bsky.app/profile/bloomberg.com/post/3m7vacswqxf2g" target="_blank">bloomberg.com</a> (2025-12-14 03:30:12)</span><span style="padding-right:50px;">Dr. Mehmet Oz’s ability to reach an audience is undisputed.  But he now faces a test of whether showmanship and affability can win over public support as he guides major Medicaid changes and oversees soaring costs of Affordable Care Act plans. <a href="https://bsky.app/profile/washingtonpost.com/post/3m7vacm2dxb2i" target="_blank">washingtonpost.com</a> (2025-12-14 03:30:05)</span><span style="padding-right:50px;">Religious affiliation has been dropping among young people for decades, but there are examples of surging interest on college campuses and in cities. https://wapo.st/4a3Gmhk <a href="https://bsky.app/profile/washingtonpost.com/post/3m7vaclipir2i" target="_blank">washingtonpost.com</a> (2025-12-14 03:30:04)</span><span style="padding-right:50px;">Israel killed a senior Hamas commander in Gaza on Saturday, the Israeli military said, another challenge to the shaky ceasefire between the sides brokered by the United States.  <a href="https://bsky.app/profile/washingtonpost.com/post/3m7v7hpdxqa2m" target="_blank">washingtonpost.com</a> (2025-12-14 03:15:02)</span>
+<span style="padding-right:50px;">Report: Colts to add QB Philip Rivers to active roster reut.rs/4j1sXJc <a href="https://bsky.app/profile/reuters.com/post/3m7valsfxzz2y" target="_blank">reuters.com</a> (2025-12-14 03:35:13)</span><span style="padding-right:50px;">Obamacare bills are about to spike. But you still have time to save. <a href="https://bsky.app/profile/usatoday.com/post/3m7vadbzwlu25" target="_blank">usatoday.com</a> (2025-12-14 03:30:28)</span><span style="padding-right:50px;">There’s a frenzy of development going on to support the AI revolution, and with it an insatiable demand for debt to fund it. <a href="https://bsky.app/profile/bloomberg.com/post/3m7vacswqxf2g" target="_blank">bloomberg.com</a> (2025-12-14 03:30:12)</span><span style="padding-right:50px;">Dr. Mehmet Oz’s ability to reach an audience is undisputed.  But he now faces a test of whether showmanship and affability can win over public support as he guides major Medicaid changes and oversees soaring costs of Affordable Care Act plans. <a href="https://bsky.app/profile/washingtonpost.com/post/3m7vacm2dxb2i" target="_blank">washingtonpost.com</a> (2025-12-14 03:30:05)</span><span style="padding-right:50px;">Religious affiliation has been dropping among young people for decades, but there are examples of surging interest on college campuses and in cities. https://wapo.st/4a3Gmhk <a href="https://bsky.app/profile/washingtonpost.com/post/3m7vaclipir2i" target="_blank">washingtonpost.com</a> (2025-12-14 03:30:04)</span>
   </div>
 </div>
 
@@ -32,16 +32,24 @@
 
 ## News Headlines
 
-Here are six news headlines in Japanese:
+Here are six important stories with headlines in Japanese:
 
-1.  オバマケアの料金が急上昇するが、まだ時間がある
-2.  ガザでイスラエルがハマースの幹部を殺害　休戦は揺らいだ
-3.  リバプールがビルバーンを破り、サラフが復活
-4.  バングラデシュの平和維持活動の兵士がスーダンのUN拠点で殺害される
-5.  クリスマスにサルブール、ノエルとクランプスが同時に現れる
-6.  川島将軍がリバプールに勝利でトップ4に返り咲く
+1. 
+2. 連邦議会が提示する国防予算法案は、ドローンや外国投資などに関して意見を述べている。
+3. 
+4. 
+5. 
+6.
 
 ----
+
+@reuters.com
+
+Report: Colts to add QB Philip Rivers to active roster reut.rs/4j1sXJc
+
+[2025-12-14 03:35:13](https://bsky.app/profile/reuters.com/post/3m7valsfxzz2y)
+
+---
 
 @usatoday.com
 
@@ -116,14 +124,6 @@ u.afp.com/S7Lc
 In Salzburg, Austria, Christmas involves both St. Nick and Krampus, a mythological punisher with roots stretching back to late antiquity and many fans in the present-day Central Alps. n.pr/3XSG1Xy
 
 [2025-12-14 03:04:29](https://bsky.app/profile/npr.org/post/3m7v6ut2knf24)
-
----
-
-@reuters.com
-
-Chelsea return to top four with 2-0 home win over Everton reut.rs/48Wrtvb
-
-[2025-12-14 03:00:59](https://bsky.app/profile/reuters.com/post/3m7v6okxkpw24)
 
 ---
 
