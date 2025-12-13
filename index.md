@@ -1,9 +1,9 @@
-# [2025-12-13 10:10 updated](2025_12_13.md)
+# [2025-12-13 10:30 updated](2025_12_13.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">EXCLUSIVE: White House pressure to ramp up deportations has sparked rising tension and finger-pointing inside Kristi Noem's Department of Homeland Security. <a href="https://bsky.app/profile/nbcnews.com/post/3m7tg5ywhxv2q" target="_blank">nbcnews.com</a> (2025-12-13 10:09:33)</span><span style="padding-right:50px;">Australia social media ban: Why isn't gaming included? <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7tfuk7hx62b" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-13 10:04:15)</span><span style="padding-right:50px;">サッカーのスペイン１部は１２日に１試合を行い、久保建英の所属するレアル・ソシエダードはホームでジローナに１─２の逆転負けを喫した。 bit.ly/4pCb4TG <a href="https://bsky.app/profile/japan.reuters.com/post/3m7tfu3mlv62s" target="_blank">japan.reuters.com</a> (2025-12-13 10:04:01)</span><span style="padding-right:50px;">House Republican leaders unveiled a plan Friday to address health care costs ahead of a year-end lapse to tax credits that will result in skyrocketing premiums for more than 20 million Americans.  <a href="https://bsky.app/profile/cbsnews.com/post/3m7tfsxwz3s2h" target="_blank">cbsnews.com</a> (2025-12-13 10:03:23)</span><span style="padding-right:50px;">ベネズエラへの軍事作戦のさなか 米南方軍司令官が異例の退任 https://news.web.nhk/newsweb/na/na-k10015002831000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7tfsl764y2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-13 10:03:08)</span>
+<span style="padding-right:50px;">トランプ氏 タイとカンボジア両首相と電話会談も停戦は不透明 https://news.web.nhk/newsweb/na/na-k10015002931000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7th5e5ugg24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-13 10:27:03)</span><span style="padding-right:50px;">将棋 女流戦主催の倉敷市 妊娠出産と対局の両立を連盟に求める https://news.web.nhk/newsweb/na/na-k10015002881000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7tgxxpu4a2y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-13 10:24:02)</span><span style="padding-right:50px;">Finance chief at Elon Musk’s space company says possible listing could raise funds for Mars rocket, orbital data centers and more. on.wsj.com/4aOwSqp <a href="https://bsky.app/profile/wsj.com/post/3m7tgue3trc2t" target="_blank">wsj.com</a> (2025-12-13 10:22:03)</span><span style="padding-right:50px;">Six states have already implemented new congressional maps, with control of the House during Trump's final term likely determined by just a few seats. Here's what to know. <a href="https://bsky.app/profile/axios.com/post/3m7tgt42bds2r" target="_blank">axios.com</a> (2025-12-13 10:21:21)</span><span style="padding-right:50px;">Colombia's Clan del Golfo leaders to face jail in possible peace deal, negotiator says reut.rs/498ZGbW <a href="https://bsky.app/profile/reuters.com/post/3m7tgrj7qyr2k" target="_blank">reuters.com</a> (2025-12-13 10:20:28)</span>
   </div>
 </div>
 
@@ -32,14 +32,80 @@
 
 ## News Headlines
 
-1. トランプ米大統領がタイとカンボジアの攻撃停止に合意
-2. ロシアの資産凍結　欧州連合が無期限で決定
-3. クレヨンしんちゃんのモニュメント　文化センターに登場
-4. スピードスケートの高木美帆　世界選手権で優勝
-5. 英国王室のチャールズ王が癌の治療を減らす
-6. SpaceXの価値　800兆円に急上昇
+1.  トランプ氏 タイとカンボジア両首相と電話会談も停戦は不透明
+2.  将棋 女流戦主催の倉敷市 妊娠出産と対局の両立を連盟に求める
+3.  米国株式市場は、主要株価３指数が軒並み下落
+4.  ベネズエラへの軍事作戦のさなか 米南方軍司令官が異例の退任
+5.  同じく大阪 守口 4軒連なる長屋で火事 焼け跡から2人の遺体見つかる
+6.  米国株式市場の下落に、人工知能（ＡＩ）バブルへの懸念が高まる
 
 ----
+
+@nhknewsunofficial.bsky.social
+
+トランプ氏 タイとカンボジア両首相と電話会談も停戦は不透明
+https://news.web.nhk/newsweb/na/na-k10015002931000
+
+[2025-12-13 10:27:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7th5e5ugg24)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+将棋 女流戦主催の倉敷市 妊娠出産と対局の両立を連盟に求める
+https://news.web.nhk/newsweb/na/na-k10015002881000
+
+[2025-12-13 10:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7tgxxpu4a2y)
+
+---
+
+@wsj.com
+
+Finance chief at Elon Musk’s space company says possible listing could raise funds for Mars rocket, orbital data centers and more. on.wsj.com/4aOwSqp
+
+[2025-12-13 10:22:03](https://bsky.app/profile/wsj.com/post/3m7tgue3trc2t)
+
+---
+
+@axios.com
+
+Six states have already implemented new congressional maps, with control of the House during Trump's final term likely determined by just a few seats. Here's what to know.
+
+[2025-12-13 10:21:21](https://bsky.app/profile/axios.com/post/3m7tgt42bds2r)
+
+---
+
+@reuters.com
+
+Colombia's Clan del Golfo leaders to face jail in possible peace deal, negotiator says reut.rs/498ZGbW
+
+[2025-12-13 10:20:28](https://bsky.app/profile/reuters.com/post/3m7tgrj7qyr2k)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Takeaways from Luigi Mangione's evidence hearing 
+
+[2025-12-13 10:19:56](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7tgqlfn2d2a)
+
+---
+
+@japan.reuters.com
+
+米国株式市場は、主要株価３指数が軒並み下落。ナスダック総合とＳ＆Ｐ総合５００種の下落率は１％を超えた。半導体大手ブロードコムとＩＴ大手オラクルの決算に絡み、人工知能（ＡＩ）バブルへの懸念が高まる中、資金がハイテクセクターから他のセクターにシフトした。また、米連邦準備理事会（ＦＲＢ）当局者らの発言を受けた米債利回りの上昇も、相場の一段の重しとなった。 bit.ly/454d0fe
+
+[2025-12-13 10:15:17](https://bsky.app/profile/japan.reuters.com/post/3m7tgianzit2c)
+
+---
+
+@reuters.com
+
+Venezuela oil exports fall sharply after US tanker seizure, sources and data say reut.rs/4oVhNqp
+
+[2025-12-13 10:10:18](https://bsky.app/profile/reuters.com/post/3m7tg7dg4g52s)
+
+---
 
 @nbcnews.com
 
@@ -54,72 +120,6 @@ EXCLUSIVE: White House pressure to ramp up deportations has sparked rising tensi
 Australia social media ban: Why isn't gaming included?
 
 [2025-12-13 10:04:15](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7tfuk7hx62b)
-
----
-
-@japan.reuters.com
-
-サッカーのスペイン１部は１２日に１試合を行い、久保建英の所属するレアル・ソシエダードはホームでジローナに１─２の逆転負けを喫した。 bit.ly/4pCb4TG
-
-[2025-12-13 10:04:01](https://bsky.app/profile/japan.reuters.com/post/3m7tfu3mlv62s)
-
----
-
-@cbsnews.com
-
-House Republican leaders unveiled a plan Friday to address health care costs ahead of a year-end lapse to tax credits that will result in skyrocketing premiums for more than 20 million Americans. 
-
-[2025-12-13 10:03:23](https://bsky.app/profile/cbsnews.com/post/3m7tfsxwz3s2h)
-
----
-
-@nhknewsunofficial.bsky.social
-
-ベネズエラへの軍事作戦のさなか 米南方軍司令官が異例の退任
-https://news.web.nhk/newsweb/na/na-k10015002831000
-
-[2025-12-13 10:03:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7tfsl764y2k)
-
----
-
-@nhknewsunofficial.bsky.social
-
-大阪 守口 4軒連なる長屋で火事 焼け跡から2人の遺体見つかる
-https://news.web.nhk/newsweb/na/na-k10015002991000
-
-[2025-12-13 10:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7tfsgc3ln2b)
-
----
-
-@wsj.com
-
-We asked designers what’s trending and ending, based on client requests. The experts’ verdicts: So long, quiet minimalism and smart-everything. Hello, Art Deco glam and…rotary phones? on.wsj.com/4pHcOeu
-
-[2025-12-13 10:02:47](https://bsky.app/profile/wsj.com/post/3m7tfrv52et2s)
-
----
-
-@bloomberg.com
-
-Visitors from overseas will face much more scrutiny under a proposal from US Customs and Border Protection
-
-[2025-12-13 10:01:15](https://bsky.app/profile/bloomberg.com/post/3m7tfp5paz62x)
-
----
-
-@apnews.com
-
-The death of a 32-year-old man after riding a high-speed roller coaster at Universal Epic Universe has been ruled accidental.
-
-[2025-12-13 10:01:04](https://bsky.app/profile/apnews.com/post/3m7tfosnro52k)
-
----
-
-@japan.reuters.com
-
-トランプ米大統領は、国境地帯での衝突が激化しているタイとカンボジアが、１２日から「全ての攻撃を停止する」ことで合意したと明らかにした。これに先立ち、トランプ氏は両国の首脳と電話会談を行っていた。 bit.ly/4rSqfcH
-
-[2025-12-13 10:01:00](https://bsky.app/profile/japan.reuters.com/post/3m7tfooz6ug2s)
 
 ---
 
