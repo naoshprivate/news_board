@@ -1,9 +1,9 @@
-# [2025-12-13 09:10 updated](2025_12_13.md)
+# [2025-12-13 09:30 updated](2025_12_13.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Trump administration unlikely to finalize 2026 biofuel quotas this year, sources say reut.rs/3YvOLTv <a href="https://bsky.app/profile/reuters.com/post/3m7tckz2rwl2y" target="_blank">reuters.com</a> (2025-12-13 09:05:15)</span><span style="padding-right:50px;">In a profession known for hot tempers, Sylvain Delpique at the New York hotel says his mantra is to absorb the stress on.wsj.com/48RUW9i <a href="https://bsky.app/profile/wsj.com/post/3m7tcjay6gu2g" target="_blank">wsj.com</a> (2025-12-13 09:04:16)</span><span style="padding-right:50px;">Cramer's Lightning Round: Do not sell DuPont de Nemours <a href="https://bsky.app/profile/cnbc.com/post/3m7tcgtlecv24" target="_blank">cnbc.com</a> (2025-12-13 09:02:55)</span><span style="padding-right:50px;">Cases alleging class action racketeering scheme land in DC court reut.rs/4aeW9dd <a href="https://bsky.app/profile/reuters.com/post/3m7tce3smek2p" target="_blank">reuters.com</a> (2025-12-13 09:01:23)</span><span style="padding-right:50px;">King Charles III, who was diagnosed with cancer in February 2024, gave an update on his condition in a personal video message. <a href="https://bsky.app/profile/usatoday.com/post/3m7tcdo7i3d2h" target="_blank">usatoday.com</a> (2025-12-13 09:01:09)</span>
+<span style="padding-right:50px;">US FDA approves Innoviva's oral antibiotic for gonorrhea reut.rs/4iQTZCG <a href="https://bsky.app/profile/reuters.com/post/3m7tdon5twi2k" target="_blank">reuters.com</a> (2025-12-13 09:25:10)</span><span style="padding-right:50px;">アルペンスキーのワールドカップ（Ｗ杯）は１２日、スイスのサンモリッツで女子滑降を行い、４１歳のリンゼイ・ボン（米国）が歴代最年長での優勝を果たした。 bit.ly/3YqjKAs <a href="https://bsky.app/profile/japan.reuters.com/post/3m7tdiemaua22" target="_blank">japan.reuters.com</a> (2025-12-13 09:21:40)</span><span style="padding-right:50px;">Trump honors "Miracle on Ice" U.S. Olympic men's hockey team during Congressional Medal Act signing. <a href="https://bsky.app/profile/cbsnews.com/post/3m7tdfg37jc2b" target="_blank">cbsnews.com</a> (2025-12-13 09:20:01)</span><span style="padding-right:50px;">US lawmakers question basis for allowing sale of Nvidia H200 chips to China on.ft.com/44oD1Wq <a href="https://bsky.app/profile/financialtimes.com/post/3m7td7tjccl2k" target="_blank">financialtimes.com</a> (2025-12-13 09:16:54)</span><span style="padding-right:50px;">Tunisia sentences top opposition figure Abir Moussi to 12 years reut.rs/48RTjIX <a href="https://bsky.app/profile/reuters.com/post/3m7td52khuo24" target="_blank">reuters.com</a> (2025-12-13 09:15:20)</span>
   </div>
 </div>
 
@@ -32,16 +32,74 @@
 
 ## News Headlines
 
-Here are six news headlines in Japanese:
+以下の6つのニュースの見出しを日本語に翻訳します。
 
-1. 2026年バイオ燃料の規制値の発表は今年は困難か
-2. 「ストレスは吸収するしかない」ホテルのマネージャーはどのように心を整えるか
-3. ボーイングと法的対決を迫る法学者が訴訟を起こした
-4. 「アメリカの素顔が恐ろしいほどくっきりと照らされた」アリ・アスター監督の映画「エディントンへようこそ」
-5. AIの時代で仕事を見つけるのはできる人は誰だ
-6. 米政府がフィンランドと日本の共同プロジェクトを発表
+1. US FDA approves Innoviva's oral antibiotic for gonorrhea
+2. アルペンスキーのワールドカップで41歳のリンゼイ・ボンが歴代最年長での優勝
+3. トランプ政権が中国へのAIチップの売却を許可した理由を質問する米国議員
+4. ワクチン関連の複雑な論争を抱え、インドネシアのモスクに近づくことが困難
+5. 「エディントンへようこそ」アリ・アスターが描くアメリカ　映画評
+6. 米国が中国を超えるために、軍事的優位性を追求する必要がある
 
 ----
+
+@reuters.com
+
+US FDA approves Innoviva's oral antibiotic for gonorrhea reut.rs/4iQTZCG
+
+[2025-12-13 09:25:10](https://bsky.app/profile/reuters.com/post/3m7tdon5twi2k)
+
+---
+
+@japan.reuters.com
+
+アルペンスキーのワールドカップ（Ｗ杯）は１２日、スイスのサンモリッツで女子滑降を行い、４１歳のリンゼイ・ボン（米国）が歴代最年長での優勝を果たした。 bit.ly/3YqjKAs
+
+[2025-12-13 09:21:40](https://bsky.app/profile/japan.reuters.com/post/3m7tdiemaua22)
+
+---
+
+@cbsnews.com
+
+Trump honors "Miracle on Ice" U.S. Olympic men's hockey team during Congressional Medal Act signing.
+
+[2025-12-13 09:20:01](https://bsky.app/profile/cbsnews.com/post/3m7tdfg37jc2b)
+
+---
+
+@financialtimes.com
+
+US lawmakers question basis for allowing sale of Nvidia H200 chips to China on.ft.com/44oD1Wq
+
+[2025-12-13 09:16:54](https://bsky.app/profile/financialtimes.com/post/3m7td7tjccl2k)
+
+---
+
+@reuters.com
+
+Tunisia sentences top opposition figure Abir Moussi to 12 years reut.rs/48RTjIX
+
+[2025-12-13 09:15:20](https://bsky.app/profile/reuters.com/post/3m7td52khuo24)
+
+---
+
+@en.afp.com
+
+Almost two weeks on from devastating floods, Muslim worshipers in Indonesia's Sumatra who gathered at their local mosque on Friday for prayers were blocked from entering by a huge pile of thousands of uprooted trees.
+
+u.afp.com/S762
+
+[2025-12-13 09:15:03](https://bsky.app/profile/en.afp.com/post/3m7td4jp6xx2q)
+
+---
+
+@reuters.com
+
+First Brands seeks access to customer payments held up in bankruptcy reut.rs/4iUZQqQ
+
+[2025-12-13 09:10:33](https://bsky.app/profile/reuters.com/post/3m7tcuigmqa2r)
+
+---
 
 @reuters.com
 
@@ -64,69 +122,6 @@ In a profession known for hot tempers, Sylvain Delpique at the New York hotel sa
 Cramer's Lightning Round: Do not sell DuPont de Nemours
 
 [2025-12-13 09:02:55](https://bsky.app/profile/cnbc.com/post/3m7tcgtlecv24)
-
----
-
-@reuters.com
-
-Cases alleging class action racketeering scheme land in DC court reut.rs/4aeW9dd
-
-[2025-12-13 09:01:23](https://bsky.app/profile/reuters.com/post/3m7tce3smek2p)
-
----
-
-@usatoday.com
-
-King Charles III, who was diagnosed with cancer in February 2024, gave an update on his condition in a personal video message.
-
-[2025-12-13 09:01:09](https://bsky.app/profile/usatoday.com/post/3m7tcdo7i3d2h)
-
----
-
-@cnn.com
-
-Adm. Alvin Holsey, the commander of US Southern Command who reportedly clashed with Defense Secretary Pete Hegseth over the legality of US military strikes in the Caribbean, officially retired in a ceremony in Florida where he handed the reins of the command to his deputy. https://cnn.it/3KZpPRl
-
-[2025-12-13 09:01:03](https://bsky.app/profile/cnn.com/post/3m7tcdjezbt2c)
-
----
-
-@nikkei.com
-
-「エディントンへようこそ」アリ・アスターが描くアメリカ　映画評7本
-www.nikkei.com/article/DGXZQO...
-
-まずは脚本の巧みさに引きこまれる。IT企業誘致をめぐる政治劇を物語全体の軸にしつつ、コロナのパンデミックの恐慌状態を背景に置き、SNSと陰謀論に支配されるアメリカの素顔を恐ろしいほどくっきりと照らしだす。
-
-――映画評論家の中条省平氏による映画評です。
-
-[2025-12-13 09:00:52](https://bsky.app/profile/nikkei.com/post/3m7tcd63nn22x)
-
----
-
-@apnews.com
-
-At long last, vindication has arrived for an Oscar-winning composer who sought to prove he was as capable of breathing life into Italy’s grand theaters as into gritty Hollywood films.
-
-[2025-12-13 09:00:19](https://bsky.app/profile/apnews.com/post/3m7tcc7csuq25)
-
----
-
-@cnbc.com
-
-JPMorgan Chase CEO Jamie Dimon says that people with strong communication, critical thinking and emotional intelligence skills will find jobs in the age of AI.
-
-Here's why.
-
-[2025-12-13 09:00:17](https://bsky.app/profile/cnbc.com/post/3m7tcc57yag24)
-
----
-
-@washingtonpost.com
-
-House Republicans unveiled a new health care proposal as they aim to address concerns about rising health insurance costs just weeks before enhanced Affordable Care Act subsidies expire.
-
-[2025-12-13 09:00:13](https://bsky.app/profile/washingtonpost.com/post/3m7tcbzmf7z24)
 
 ---
 
