@@ -1,9 +1,9 @@
-# [2025-12-14 07:50 updated](2025_12_14.md)
+# [2025-12-14 08:10 updated](2025_12_14.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">BREAKING: Police say there are multiple victims who have been shot after an active shooter was reported at Brown University. <a href="https://bsky.app/profile/apnews.com/post/3m7von2lhzq2q" target="_blank">apnews.com</a> (2025-12-14 07:46:28)</span><span style="padding-right:50px;">JUST IN: Shots fired at Brown University as hunt for suspect remains underway <a href="https://bsky.app/profile/usatoday.com/post/3m7vomxgaze2q" target="_blank">usatoday.com</a> (2025-12-14 07:46:25)</span><span style="padding-right:50px;">Fulham win at Burnley for first time in 35 attempts reut.rs/4pFqdUj <a href="https://bsky.app/profile/reuters.com/post/3m7vokr5xmd2c" target="_blank">reuters.com</a> (2025-12-14 07:45:11)</span><span style="padding-right:50px;">ベラルーシ、邦人やノーベル平和賞受賞者ら123人釈放 www.nikkei.com/article/DGXZQO...  ベラルーシ大統領府は、拘束していた外国人123人に対してルカシェンコ大統領が恩赦を決めたと発表しました。  ロイター通信によると、ノーベル平和賞を受賞した人権活動家のアレシ・ビャリャツキ氏や元日本語教師の中西雅敏氏らが釈放されました。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m7voeplqk626" target="_blank">nikkei.com</a> (2025-12-14 07:41:48)</span><span style="padding-right:50px;">Rams activate WR Tutu Atwell (hamstring) from IR reut.rs/48TLceY <a href="https://bsky.app/profile/reuters.com/post/3m7vobwgpyr2k" target="_blank">reuters.com</a> (2025-12-14 07:40:14)</span>
+<span style="padding-right:50px;">Breaking:  Multiple people have been shot and a suspect is at large at Brown University, police said Saturday evening. Students remain under lockdown, and campus and city police are responding to the incident.  Read more here:  <a href="https://bsky.app/profile/washingtonpost.com/post/3m7vpumejmg2d" target="_blank">washingtonpost.com</a> (2025-12-14 08:08:35)</span><span style="padding-right:50px;">Breaking News: Multiple people have been shot at Brown University, officials said. Follow live updates. <a href="https://bsky.app/profile/nytimes.com/post/3m7vpub7nps2b" target="_blank">nytimes.com</a> (2025-12-14 08:08:23)</span><span style="padding-right:50px;">UPDATE: No suspect is in custody after reports of a shooting at Brown University. A previous alert from the university said one suspect was in custody. Follow live updates: https://cnn.it/4ay8ABd <a href="https://bsky.app/profile/cnn.com/post/3m7vpr4dpbd24" target="_blank">cnn.com</a> (2025-12-14 08:06:38)</span><span style="padding-right:50px;">ギリギリ日本の「空の守り」　スクランブル恒常化、隊員・機体に負担 www.nikkei.com/article/DGXZQO...  経験した空自隊員は「対応を間違えると大問題になる。心理的な負担がある」と語ります。  2016年度に最多の1168回となりその後も高止まり。中国機への対処が6割以上です。 <a href="https://bsky.app/profile/nikkei.com/post/3m7vpgptcz22m" target="_blank">nikkei.com</a> (2025-12-14 08:00:49)</span><span style="padding-right:50px;">Abraham Quintanilla Jr., an instrumental force in shaping the career of the late Tejano legend Selena Quintanilla, has died, according to his son. <a href="https://bsky.app/profile/usatoday.com/post/3m7vpgjwc522h" target="_blank">usatoday.com</a> (2025-12-14 08:00:43)</span>
   </div>
 </div>
 
@@ -32,103 +32,101 @@
 
 ## News Headlines
 
-1.  米、ベラルーシへの制裁緩和　ルカシェンコ大統領が外国人123人釈放
-2.  ブラウン大学で銃撃事件　学生など多数が負傷
-3.  ラムズ、WRタトゥ・アトウェルがIRから復帰
-4.  アーセナル、ワールズ戦で2得点自責点　勝ち点を狙う
-5.  チリ大統領選　右派候補カストが総選挙に勝利の可能性高まる
-6.  シリアで米兵3人死亡　イスラム国による攻撃で
+1. ブラウン大学で複数の学生が銃撃され、容疑者は逃走中
+2. ベラルーシで外国人123人、ノーベル平和賞受賞者らが釈放される
+3. シリアで米兵3人が死亡、「イスラム国」による攻撃でトランプ大統領が「報復」宣言
+4. ルカシェンコ大統領が恩赦を決め外国人123人を釈放
+5. ワールドカップを目指すアマチュアサーファーの71歳が、巨大な波に挑戦
+6. トランプ大統領がベトナムのベトナム海軍と米海軍との共同軍事演習を発表
 
 ----
 
-@apnews.com
+@washingtonpost.com
 
-<strong><span style="color: red;">BREAKING:</span> Police say there are multiple victims who have been shot after an active shooter was reported at Brown University.</strong>
+<strong><span style="color: red;">Breaking:</span>  Multiple people have been shot and a suspect is at large at Brown University, police said Saturday evening. Students remain under lockdown, and campus and city police are responding to the incident.</strong><br><strong></strong><br><strong>Read more here: </strong>
 
-[2025-12-14 07:46:28](https://bsky.app/profile/apnews.com/post/3m7von2lhzq2q)
-
----
-
-@usatoday.com
-
-<strong><span style="color: red;">JUST IN:</span> Shots fired at Brown University as hunt for suspect remains underway</strong>
-
-[2025-12-14 07:46:25](https://bsky.app/profile/usatoday.com/post/3m7vomxgaze2q)
+[2025-12-14 08:08:35](https://bsky.app/profile/washingtonpost.com/post/3m7vpumejmg2d)
 
 ---
 
-@reuters.com
+@nytimes.com
 
-Fulham win at Burnley for first time in 35 attempts reut.rs/4pFqdUj
+<strong><span style="color: red;">Breaking News</span>: Multiple people have been shot at Brown University, officials said. Follow live updates.</strong>
 
-[2025-12-14 07:45:11](https://bsky.app/profile/reuters.com/post/3m7vokr5xmd2c)
+[2025-12-14 08:08:23](https://bsky.app/profile/nytimes.com/post/3m7vpub7nps2b)
+
+---
+
+@cnn.com
+
+UPDATE: No suspect is in custody after reports of a shooting at Brown University. A previous alert from the university said one suspect was in custody. Follow live updates: https://cnn.it/4ay8ABd
+
+[2025-12-14 08:06:38](https://bsky.app/profile/cnn.com/post/3m7vpr4dpbd24)
 
 ---
 
 @nikkei.com
 
-ベラルーシ、邦人やノーベル平和賞受賞者ら123人釈放
+ギリギリ日本の「空の守り」　スクランブル恒常化、隊員・機体に負担
 www.nikkei.com/article/DGXZQO...
 
-ベラルーシ大統領府は、拘束していた外国人123人に対してルカシェンコ大統領が恩赦を決めたと発表しました。
+経験した空自隊員は「対応を間違えると大問題になる。心理的な負担がある」と語ります。
 
-ロイター通信によると、ノーベル平和賞を受賞した人権活動家のアレシ・ビャリャツキ氏や元日本語教師の中西雅敏氏らが釈放されました。
+2016年度に最多の1168回となりその後も高止まり。中国機への対処が6割以上です。
 
-#ニュース
-
-[2025-12-14 07:41:48](https://bsky.app/profile/nikkei.com/post/3m7voeplqk626)
+[2025-12-14 08:00:49](https://bsky.app/profile/nikkei.com/post/3m7vpgptcz22m)
 
 ---
 
-@reuters.com
+@usatoday.com
 
-Rams activate WR Tutu Atwell (hamstring) from IR reut.rs/48TLceY
+Abraham Quintanilla Jr., an instrumental force in shaping the career of the late Tejano legend Selena Quintanilla, has died, according to his son.
 
-[2025-12-14 07:40:14](https://bsky.app/profile/reuters.com/post/3m7vobwgpyr2k)
-
----
-
-@wsj.com
-
-The school tells students and staff to shelter in place. on.wsj.com/3MAbcoc
-
-[2025-12-14 07:39:25](https://bsky.app/profile/wsj.com/post/3m7voahkjlz2q)
+[2025-12-14 08:00:43](https://bsky.app/profile/usatoday.com/post/3m7vpgjwc522h)
 
 ---
 
-@nbcnews.com
+@cnbc.com
 
-<strong><span style="color: red;">BREAKING:</span> Active shooter reported near Brown University building as the school urges students to shelter in place. Follow live updates. </strong>
+Boll & Branch CEO Scott Tannen says parents are interfering with their kids' internship search, and it's a sign they're not ready for a workplace.
 
-[2025-12-14 07:35:54](https://bsky.app/profile/nbcnews.com/post/3m7vo25oq5f2u)
+“I found it so shocking that a parent would think that was a good look for the kids,” Tannen, 48, tells CNBC Make It.
 
----
-
-@reuters.com
-
-Arsenal need two own goals to scrape win against rock-bottom Wolves reut.rs/3XVrVEN
-
-[2025-12-14 07:35:10](https://bsky.app/profile/reuters.com/post/3m7vnyu4ytq2r)
+[2025-12-14 08:00:20](https://bsky.app/profile/cnbc.com/post/3m7vpfttjxw2p)
 
 ---
 
-@wsj.com
+@apnews.com
 
-The ChatGPT maker and its competitor xAI have relaxed restrictions meant to keep new hires from leaving in the midst of a fierce talent war on.wsj.com/48TKQVG
+Comedian Amy Schumer says she and her husband, chef Chris Fischer, have decided to end their marriage.
 
-[2025-12-14 07:32:32](https://bsky.app/profile/wsj.com/post/3m7vnu5eupy2i)
+[2025-12-14 08:00:13](https://bsky.app/profile/apnews.com/post/3m7vpfnt5tz2n)
 
 ---
 
-@en.afp.com
+@bloomberg.com
 
-Anxiety over immigration and violent crime has carried Jose Antonio Kast to the steps of Chile's presidential palace.
+China is hoping IVF can lift its falling birth rate. But high costs, long waits and too few clinics mean many couples are still shut out.
 
-On Sunday, he is tipped to be elected the country's first hard-right leader since dictator Augusto Pinochet three decades ago.
+[2025-12-14 08:00:11](https://bsky.app/profile/bloomberg.com/post/3m7vpfl2or42f)
 
-u.afp.com/S7LE
+---
 
-[2025-12-14 07:30:09](https://bsky.app/profile/en.afp.com/post/3m7vnpvh5lm2q)
+@washingtonpost.com
+
+After years of delays, the Purple Line train that connects New Carrollton and Bethesda, Maryland, is being tested overnight.
+
+See what the train looks like in action: 
+
+[2025-12-14 08:00:09](https://bsky.app/profile/washingtonpost.com/post/3m7vpfjvqwf2n)
+
+---
+
+@cbsnews.com
+
+Fighting raged Saturday morning along the border of Thailand and Cambodia, even after U.S. President Trump, acting as a mediator, declared that he had won agreement from both countries for a ceasefire.
+
+[2025-12-14 08:00:01](https://bsky.app/profile/cbsnews.com/post/3m7vpfbq6qr2b)
 
 ---
 
