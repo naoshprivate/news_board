@@ -1,9 +1,9 @@
-# [2025-12-14 08:30 updated](2025_12_14.md)
+# [2025-12-14 08:50 updated](2025_12_14.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">シリアで米軍兵士など3人死亡 トランプ大統領“ISによる攻撃” https://news.web.nhk/newsweb/na/na-k10015003431000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7vqvovqya2l" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-14 08:27:03)</span><span style="padding-right:50px;">Arsenal get lucky break to go five points clear, Salah returns for Liverpool reut.rs/4pzX0Ka <a href="https://bsky.app/profile/reuters.com/post/3m7vqsbryjd2x" target="_blank">reuters.com</a> (2025-12-14 08:25:11)</span><span style="padding-right:50px;">In Opinion  Some female Republican leaders saw gains when the party went all in on Trump, Michelle Cottle says on this episode of “The Opinions.” “But now, with this most recent election with Trump just going all in on the misogyny and hyper-masculinity, it’s like they’ve lost even more ground.” <a href="https://bsky.app/profile/nytimes.com/post/3m7vqrehett2r" target="_blank">nytimes.com</a> (2025-12-14 08:24:40)</span><span style="padding-right:50px;">BREAKING: At least two people have been killed and several others injured in a shooting at Brown University, AP source says. <a href="https://bsky.app/profile/apnews.com/post/3m7vqr6l2lq2x" target="_blank">apnews.com</a> (2025-12-14 08:24:34)</span><span style="padding-right:50px;">🛎️JNNより【独自】です。  【独自】警察署の階段に「絶対捕まえてやる」落書き 北九州・中学生2人殺傷事件から1年 捜査1課長(当時)が初めて語った逮捕の瞬間【後編】 (2025-12-14 08:01:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7vqfxslur2v" target="_blank">sokuho.news</a> (2025-12-14 08:18:18)</span>
+<span style="padding-right:50px;">BREAKING UPDATE: At least two people killed and another eight others critically injured in Brown University shooting, Providence mayor says, as search for suspect continues. Follow live updates: https://cnn.it/4oTDwz9 <a href="https://bsky.app/profile/cnn.com/post/3m7vs2q4fss2o" target="_blank">cnn.com</a> (2025-12-14 08:47:48)</span><span style="padding-right:50px;">Live Updates: Two people were killed and eight others injured in the engineering building at Brown University, mayor says. <a href="https://bsky.app/profile/apnews.com/post/3m7vrv2vwnf2k" target="_blank">apnews.com</a> (2025-12-14 08:44:38)</span><span style="padding-right:50px;">アメリカ東部 大学近くで銃撃 複数人がけがで搬送 https://news.web.nhk/newsweb/na/na-k10015003451000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7vrl5bgvn2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-14 08:39:03)</span><span style="padding-right:50px;">🔔NHKより【速報 JUST IN】です。  アメリカ東部 大学近くで銃撃 複数人がけがで搬送 (2025-12-14 08:36:54) #ニュース https://news.web.nhk/newsweb/na/na-k10015003451000 <a href="https://bsky.app/profile/sokuho.news/post/3m7vrhxvgg22y" target="_blank">sokuho.news</a> (2025-12-14 08:37:18)</span><span style="padding-right:50px;">トノサマガエル、スズメバチに刺されても捕食（無料記事） www.nikkei.com/article/DGXZQO... <a href="https://bsky.app/profile/nikkei.com/post/3m7vr3xzbys24" target="_blank">nikkei.com</a> (2025-12-14 08:30:36)</span>
   </div>
 </div>
 
@@ -32,14 +32,80 @@
 
 ## News Headlines
 
-1. シリアで米軍兵士など3人死亡 トランプ大統領“ISによる攻撃”
-2. BREAKING: Brown大学で銃乱射事件　複数人射殺
-3. ベラルーシ、邦人やノーベル平和賞受賞者ら123人釈放
-4. Arsenalが5点リードに　Wolvesに2失点で勝利
-5. アメリカ、ベラルーシに制裁を解除　カストルリク酸塩鉱山業界に
-6. 震央：福島県沖　最大震度2の地震
+1. アメリカ東部 大学近くで銃撃 複数人がけがで搬送
+2. トノサマガエル、スズメバチに刺されても捕食
+3. シリアで米軍兵士など3人死亡 トランプ大統領「ISによる攻撃」
+4. ベラルーシ、邦人やノーベル平和賞受賞者ら123人釈放
+5. 地震　福島県沖で3.9の震度を観測
+6. 欧州ファッション業界の物流を支配する中国人犯罪組織をめぐるイタリアの裁判が難航
 
 ----
+
+@cnn.com
+
+<strong><span style="color: red;">BREAKING </span>UPDATE: At least two people killed and another eight others critically injured in Brown University shooting, Providence mayor says, as search for suspect continues. Follow live updates: https://cnn.it/4oTDwz9</strong>
+
+[2025-12-14 08:47:48](https://bsky.app/profile/cnn.com/post/3m7vs2q4fss2o)
+
+---
+
+@apnews.com
+
+Live Updates: Two people were killed and eight others injured in the engineering building at Brown University, mayor says.
+
+[2025-12-14 08:44:38](https://bsky.app/profile/apnews.com/post/3m7vrv2vwnf2k)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+アメリカ東部 大学近くで銃撃 複数人がけがで搬送
+https://news.web.nhk/newsweb/na/na-k10015003451000
+
+[2025-12-14 08:39:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7vrl5bgvn2w)
+
+---
+
+@sokuho.news
+
+<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>アメリカ東部 大学近くで銃撃 複数人がけがで搬送</strong><br><strong>(2025-12-14 08:36:54) #ニュース</strong><br><strong>https://news.web.nhk/newsweb/na/na-k10015003451000</strong>
+
+[2025-12-14 08:37:18](https://bsky.app/profile/sokuho.news/post/3m7vrhxvgg22y)
+
+---
+
+@nikkei.com
+
+トノサマガエル、スズメバチに刺されても捕食（無料記事）
+www.nikkei.com/article/DGXZQO...
+
+[2025-12-14 08:30:36](https://bsky.app/profile/nikkei.com/post/3m7vr3xzbys24)
+
+---
+
+@usatoday.com
+
+Actor Peter Greene, known for playing villains such as "The Mask" and "Pulp Fiction," was found dead in New York apartment, according to his manager.
+
+[2025-12-14 08:30:13](https://bsky.app/profile/usatoday.com/post/3m7vr3c3an72c)
+
+---
+
+@aljazeera.com
+
+Brown University in US reports ‘active shooter’ situation on campus https://aje.io/yyg6q5
+
+[2025-12-14 08:30:03](https://bsky.app/profile/aljazeera.com/post/3m7vr2yepq62z)
+
+---
+
+@cbsnews.com
+
+A United Airlines flight experienced an engine failure during takeoff from Dulles International Airport in D.C. on Saturday before safely returning to the airport, according to the Federal Aviation Administration.
+
+[2025-12-14 08:30:01](https://bsky.app/profile/cbsnews.com/post/3m7vr2wje5w2g)
+
+---
 
 @nhknewsunofficial.bsky.social
 
@@ -55,80 +121,6 @@ https://news.web.nhk/newsweb/na/na-k10015003431000
 Arsenal get lucky break to go five points clear, Salah returns for Liverpool reut.rs/4pzX0Ka
 
 [2025-12-14 08:25:11](https://bsky.app/profile/reuters.com/post/3m7vqsbryjd2x)
-
----
-
-@nytimes.com
-
-In Opinion
-
-Some female Republican leaders saw gains when the party went all in on Trump, Michelle Cottle says on this episode of “The Opinions.” “But now, with this most recent election with Trump just going all in on the misogyny and hyper-masculinity, it’s like they’ve lost even more ground.”
-
-[2025-12-14 08:24:40](https://bsky.app/profile/nytimes.com/post/3m7vqrehett2r)
-
----
-
-@apnews.com
-
-<strong><span style="color: red;">BREAKING:</span> At least two people have been killed and several others injured in a shooting at Brown University, AP source says.</strong>
-
-[2025-12-14 08:24:34](https://bsky.app/profile/apnews.com/post/3m7vqr6l2lq2x)
-
----
-
-@sokuho.news
-
-🛎️JNNより【独自】です。
-
-【独自】警察署の階段に「絶対捕まえてやる」落書き 北九州・中学生2人殺傷事件から1年 捜査1課長(当時)が初めて語った逮捕の瞬間【後編】
-(2025-12-14 08:01:00) #ニュース
-
-[2025-12-14 08:18:18](https://bsky.app/profile/sokuho.news/post/3m7vqfxslur2v)
-
----
-
-@en.afp.com
-
-Arsenal avoided a major embarrassment against Premier League bottom club Wolves on Saturday, benefiting from two own goals -- one in stoppage time -- to move five points clear of Manchester City.
-
-u.afp.com/S7La
-
-[2025-12-14 08:15:02](https://bsky.app/profile/en.afp.com/post/3m7vqa53zw52x)
-
----
-
-@sokuho.news
-
-🛎️JNNより【独自】です。
-
-【独自】「この野郎」「見とけよ、貴様」北九州・中学生2人殺傷事件から1年 捜査1課長(当時)が初めて語った犯人への憎しみと執念の捜査【前編】
-(2025-12-14 08:00:00) #ニュース
-
-[2025-12-14 08:13:23](https://bsky.app/profile/sokuho.news/post/3m7vq56qumh2r)
-
----
-
-@japan.reuters.com
-
-欧州ファッション業界の物流を支配する中国人犯罪組織を巡るイタリアの裁判が、書類の紛失や通訳者の辞任など数々の不手際により難航している。検察は、業界支配を守るために妨害行為が行われている可能性を疑っている。 bit.ly/44pBAHj
-
-[2025-12-14 08:12:36](https://bsky.app/profile/japan.reuters.com/post/3m7vq3scgw42c)
-
----
-
-@reuters.com
-
-Multiple people shot at Brown University, official says reut.rs/3YoOYYH
-
-[2025-12-14 08:10:10](https://bsky.app/profile/reuters.com/post/3m7vpxgqzud2c)
-
----
-
-@washingtonpost.com
-
-<strong><span style="color: red;">Breaking:</span>  Multiple people have been shot and a suspect is at large at Brown University, police said Saturday evening. Students remain under lockdown, and campus and city police are responding to the incident.</strong><br><strong></strong><br><strong>Read more here: </strong>
-
-[2025-12-14 08:08:35](https://bsky.app/profile/washingtonpost.com/post/3m7vpumejmg2d)
 
 ---
 
