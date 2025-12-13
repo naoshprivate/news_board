@@ -1,9 +1,9 @@
-# [2025-12-14 02:10 updated](2025_12_14.md)
+# [2025-12-14 02:30 updated](2025_12_14.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">BREAKING: Two U.S. soldiers and an American civilian were attacked and killed in Syria, U.S. military officials say.   <a href="https://bsky.app/profile/cbsnews.com/post/3m7v3nxuhsl2c" target="_blank">cbsnews.com</a> (2025-12-14 02:06:58)</span><span style="padding-right:50px;">Author David Bach reveals how you become a millionaire <a href="https://bsky.app/profile/yahoofinance.com/post/3m7v3mgn4ut26" target="_blank">yahoofinance.com</a> (2025-12-14 02:06:06)</span><span style="padding-right:50px;">Two U.S. soldiers, one interpreter killed in Syria, Pentagon says reut.rs/498Dhvk <a href="https://bsky.app/profile/reuters.com/post/3m7v3kt6g3r2b" target="_blank">reuters.com</a> (2025-12-14 02:05:12)</span><span style="padding-right:50px;">JUST IN: Two US Army soldiers and one civilian interpreter were killed in an attack in Syria, the Pentagon says. https://cnn.it/44r02rS <a href="https://bsky.app/profile/cnn.com/post/3m7v3gbybw62t" target="_blank">cnn.com</a> (2025-12-14 02:02:40)</span><span style="padding-right:50px;">Japan’s small, efficient kei cars start at just over $10,000. on.wsj.com/4ab4iiV <a href="https://bsky.app/profile/wsj.com/post/3m7v3fw54ls23" target="_blank">wsj.com</a> (2025-12-14 02:02:27)</span>
+<span style="padding-right:50px;">Hamas accuses Israel of sabotaging ceasefire after commander is targeted on.ft.com/4iZ688T <a href="https://bsky.app/profile/financialtimes.com/post/3m7v4uphisy2q" target="_blank">financialtimes.com</a> (2025-12-14 02:28:37)</span><span style="padding-right:50px;">Juve players must deliver after Agnellis reject buyout bid, says Spalletti reut.rs/4985BOp <a href="https://bsky.app/profile/reuters.com/post/3m7v4ogrfhd2b" target="_blank">reuters.com</a> (2025-12-14 02:25:07)</span><span style="padding-right:50px;">BREAKING: Two U.S. service members and one American civilian killed in an ambush in Syria, the U.S. Central Command says. <a href="https://bsky.app/profile/apnews.com/post/3m7v4oalisg2r" target="_blank">apnews.com</a> (2025-12-14 02:25:00)</span><span style="padding-right:50px;">BREAKING: Three others were wounded, Pentagon spokesman Sean Parnell said. <a href="https://bsky.app/profile/handle.invalid/post/3m7v4bfqlvn2q" target="_blank">handle.invalid</a> (2025-12-14 02:17:50)</span><span style="padding-right:50px;">On the grey walls of a rural Thai school's concrete bunkers, a man calmly paints colorful scenes of helicopters, tanks, fluttering national flags and soldiers carrying the wounded.  u.afp.com/S7LJ <a href="https://bsky.app/profile/en.afp.com/post/3m7v4alklz62x" target="_blank">en.afp.com</a> (2025-12-14 02:17:22)</span>
   </div>
 </div>
 
@@ -32,14 +32,88 @@
 
 ## News Headlines
 
-1. シリアで米兵3人死亡
-2. 米軍のシリアでの攻撃で2人死亡
-3. 小型車の価格が10万ドルから
-4. ベラルーシで拘束された日本人男性釈放
-5. 中国のワンケが債務延期を断念
-6. ハワイでアビスケーターが一酸化炭素中毒
+Here are six important stories with Japanese headlines:
+
+1. 
+ハマスがイスラエルに対し、停戦破棄を訴える
+2. 
+アグナッリ氏が買収交渉を断ったJuveプレーヤーにスパレッティが厳しく言い渡す
+3. 
+シリアで米軍人2人とアメリカ人市民1人死亡
+4. 
+タイの学校の壁に「戦争絵画」が描かれる
+5. 
+検察側がコミー元FBI長官の捜査資料の取り扱いを巡り裁判官に敗訴
+6. 
+イランへの中国物流を阻止する米軍の海上作戦
 
 ----
+
+@financialtimes.com
+
+Hamas accuses Israel of sabotaging ceasefire after commander is targeted on.ft.com/4iZ688T
+
+[2025-12-14 02:28:37](https://bsky.app/profile/financialtimes.com/post/3m7v4uphisy2q)
+
+---
+
+@reuters.com
+
+Juve players must deliver after Agnellis reject buyout bid, says Spalletti reut.rs/4985BOp
+
+[2025-12-14 02:25:07](https://bsky.app/profile/reuters.com/post/3m7v4ogrfhd2b)
+
+---
+
+@apnews.com
+
+<strong><span style="color: red;">BREAKING:</span> Two U.S. service members and one American civilian killed in an ambush in Syria, the U.S. Central Command says.</strong>
+
+[2025-12-14 02:25:00](https://bsky.app/profile/apnews.com/post/3m7v4oalisg2r)
+
+---
+
+@handle.invalid
+
+<strong><span style="color: red;">BREAKING:</span> Three others were wounded, Pentagon spokesman Sean Parnell said.</strong>
+
+[2025-12-14 02:17:50](https://bsky.app/profile/handle.invalid/post/3m7v4bfqlvn2q)
+
+---
+
+@en.afp.com
+
+On the grey walls of a rural Thai school's concrete bunkers, a man calmly paints colorful scenes of helicopters, tanks, fluttering national flags and soldiers carrying the wounded.
+
+u.afp.com/S7LJ
+
+[2025-12-14 02:17:22](https://bsky.app/profile/en.afp.com/post/3m7v4alklz62x)
+
+---
+
+@reuters.com
+
+Prosecutors need warrant to access files from dismissed Comey case, judge rules reut.rs/4oRCbZK
+
+[2025-12-14 02:15:15](https://bsky.app/profile/reuters.com/post/3m7v44shklh2s)
+
+---
+
+@wsj.com
+
+Two U.S. soldiers and an American civilian interpreter were killed in an attack in Syria.
+
+[2025-12-14 02:14:12](https://bsky.app/profile/wsj.com/post/3m7v42vw2os2z)
+
+---
+
+@nytimes.com
+
+The attorneys general of 20 states sued the Trump administration on Friday over its decision to impose a $100,000 fee on visas for skilled foreign workers.
+
+[2025-12-14 02:10:03](https://bsky.app/profile/nytimes.com/post/3m7v3tjbx2l2r)
+
+---
 
 @cbsnews.com
 
@@ -54,72 +128,6 @@
 Author David Bach reveals how you become a millionaire
 
 [2025-12-14 02:06:06](https://bsky.app/profile/yahoofinance.com/post/3m7v3mgn4ut26)
-
----
-
-@reuters.com
-
-Two U.S. soldiers, one interpreter killed in Syria, Pentagon says reut.rs/498Dhvk
-
-[2025-12-14 02:05:12](https://bsky.app/profile/reuters.com/post/3m7v3kt6g3r2b)
-
----
-
-@cnn.com
-
-<strong><span style="color: red;">JUST IN:</span> Two US Army soldiers and one civilian interpreter were killed in an attack in Syria, the Pentagon says. https://cnn.it/44r02rS</strong>
-
-[2025-12-14 02:02:40](https://bsky.app/profile/cnn.com/post/3m7v3gbybw62t)
-
----
-
-@wsj.com
-
-Japan’s small, efficient kei cars start at just over $10,000. on.wsj.com/4ab4iiV
-
-[2025-12-14 02:02:27](https://bsky.app/profile/wsj.com/post/3m7v3fw54ls23)
-
----
-
-@reuters.com
-
-China Vanke fails to get bondholder backing for payment extension, sources say reut.rs/4pxSTyj
-
-[2025-12-14 02:01:10](https://bsky.app/profile/reuters.com/post/3m7v3dm4r4m2y)
-
----
-
-@usatoday.com
-
-Second lady Usha Vance talks about her life and marriage to Vice President JD Vance in an exclusive interview.
-
-[2025-12-14 02:01:04](https://bsky.app/profile/usatoday.com/post/3m7v3dgas2j2f)
-
----
-
-@cnbc.com
-
-It’s one of the most important meetings for employees’ career success, yet many people are going about it completely wrong.
-
-Here's how this meeting science expert says to ace one-on-ones.
-
-[2025-12-14 02:00:59](https://bsky.app/profile/cnbc.com/post/3m7v3dbnc4i2e)
-
----
-
-@apnews.com
-
-Ravens Pro Bowl linebacker Kyle Van Noy talks about Baltimore's upcoming game against Joe Burrow and the Bengals, compares Lamar Jackson to Tom Brady and discusses being nominated for the Art Rooney sportsmanship award.
-
-[2025-12-14 02:00:39](https://bsky.app/profile/apnews.com/post/3m7v3cosivm2k)
-
----
-
-@cnn.com
-
-At least a dozen US House Democrats are already facing primary challenges, as progressives seek to transform a party regaining its footing after 2024 by tapping into voters’ frustration with its leaders ahead of next year’s midterm elections.
-
-[2025-12-14 02:00:33](https://bsky.app/profile/cnn.com/post/3m7v3cjcqhu23)
 
 ---
 
