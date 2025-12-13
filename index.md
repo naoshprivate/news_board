@@ -1,9 +1,9 @@
-# [2025-12-13 09:50 updated](2025_12_13.md)
+# [2025-12-13 10:10 updated](2025_12_13.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">豪の16歳未満SNS禁止法 米の掲示板運営会社が豪政府を提訴 https://news.web.nhk/newsweb/na/na-k10015002811000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7texljijt2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-13 09:48:02)</span><span style="padding-right:50px;">サッカーのイングランド・プレミアリーグ、リバプールは１２日、日本代表ＭＦ遠藤航が足首の負傷により数週間離脱することを明らかにした。公式サイトで発表した。 bit.ly/44qIAnh <a href="https://bsky.app/profile/japan.reuters.com/post/3m7tetgxsfd2c" target="_blank">japan.reuters.com</a> (2025-12-13 09:45:45)</span><span style="padding-right:50px;">欧州連合（ＥＵ）は１２日、域内で管理されているロシア中央銀行の資産を無期限で凍結することで合意した。これまでは６カ月ごとに凍結の延長の是非を巡る投票を実施していたが、無期限で凍結することで、ロシアと比較的良好な関係を持つハンガリーやスロバキアなどが反対する事態を防ぐ狙いがあるとみられる。 bit.ly/44oNSzN <a href="https://bsky.app/profile/japan.reuters.com/post/3m7tesokc7o2c" target="_blank">japan.reuters.com</a> (2025-12-13 09:45:20)</span><span style="padding-right:50px;">Report: Rapids to hire Tottenham assistant as head coach reut.rs/4q0FY7W <a href="https://bsky.app/profile/reuters.com/post/3m7teskuh3t2o" target="_blank">reuters.com</a> (2025-12-13 09:45:16)</span><span style="padding-right:50px;">Has Venezuela been ditched by its strongest allies - Russia and China? <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7terdbiwa2r" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-13 09:44:34)</span>
+<span style="padding-right:50px;">EXCLUSIVE: White House pressure to ramp up deportations has sparked rising tension and finger-pointing inside Kristi Noem's Department of Homeland Security. <a href="https://bsky.app/profile/nbcnews.com/post/3m7tg5ywhxv2q" target="_blank">nbcnews.com</a> (2025-12-13 10:09:33)</span><span style="padding-right:50px;">Australia social media ban: Why isn't gaming included? <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7tfuk7hx62b" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-13 10:04:15)</span><span style="padding-right:50px;">サッカーのスペイン１部は１２日に１試合を行い、久保建英の所属するレアル・ソシエダードはホームでジローナに１─２の逆転負けを喫した。 bit.ly/4pCb4TG <a href="https://bsky.app/profile/japan.reuters.com/post/3m7tfu3mlv62s" target="_blank">japan.reuters.com</a> (2025-12-13 10:04:01)</span><span style="padding-right:50px;">House Republican leaders unveiled a plan Friday to address health care costs ahead of a year-end lapse to tax credits that will result in skyrocketing premiums for more than 20 million Americans.  <a href="https://bsky.app/profile/cbsnews.com/post/3m7tfsxwz3s2h" target="_blank">cbsnews.com</a> (2025-12-13 10:03:23)</span><span style="padding-right:50px;">ベネズエラへの軍事作戦のさなか 米南方軍司令官が異例の退任 https://news.web.nhk/newsweb/na/na-k10015002831000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7tfsl764y2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-13 10:03:08)</span>
   </div>
 </div>
 
@@ -32,95 +32,94 @@
 
 ## News Headlines
 
-以下の6つのニュースの見出しです。
-
-*豪の16歳未満SNS禁止法 米の掲示板運営会社が豪政府を提訴*
-*サッカーのイングランド・プレミアリーグ、リバプールのMF遠藤航が数週間離脱*
-*欧州連合、ロシア中央銀行の資産凍結を無期限で*
-*SpaceX、ロケットと衛星メーカーの価値が約800億ドルに*
-*ノルディックスキーのワールドカップ、丸山希が今季4勝目を挙げる*
-*ウクライナ南部でロシアの攻撃、トルコ所有の船舶3隻が損傷*
+1. トランプ米大統領がタイとカンボジアの攻撃停止に合意
+2. ロシアの資産凍結　欧州連合が無期限で決定
+3. クレヨンしんちゃんのモニュメント　文化センターに登場
+4. スピードスケートの高木美帆　世界選手権で優勝
+5. 英国王室のチャールズ王が癌の治療を減らす
+6. SpaceXの価値　800兆円に急上昇
 
 ----
 
-@nhknewsunofficial.bsky.social
+@nbcnews.com
 
-豪の16歳未満SNS禁止法 米の掲示板運営会社が豪政府を提訴
-https://news.web.nhk/newsweb/na/na-k10015002811000
+EXCLUSIVE: White House pressure to ramp up deportations has sparked rising tension and finger-pointing inside Kristi Noem's Department of Homeland Security.
 
-[2025-12-13 09:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7texljijt2u)
-
----
-
-@japan.reuters.com
-
-サッカーのイングランド・プレミアリーグ、リバプールは１２日、日本代表ＭＦ遠藤航が足首の負傷により数週間離脱することを明らかにした。公式サイトで発表した。 bit.ly/44qIAnh
-
-[2025-12-13 09:45:45](https://bsky.app/profile/japan.reuters.com/post/3m7tetgxsfd2c)
-
----
-
-@japan.reuters.com
-
-欧州連合（ＥＵ）は１２日、域内で管理されているロシア中央銀行の資産を無期限で凍結することで合意した。これまでは６カ月ごとに凍結の延長の是非を巡る投票を実施していたが、無期限で凍結することで、ロシアと比較的良好な関係を持つハンガリーやスロバキアなどが反対する事態を防ぐ狙いがあるとみられる。 bit.ly/44oNSzN
-
-[2025-12-13 09:45:20](https://bsky.app/profile/japan.reuters.com/post/3m7tesokc7o2c)
-
----
-
-@reuters.com
-
-Report: Rapids to hire Tottenham assistant as head coach reut.rs/4q0FY7W
-
-[2025-12-13 09:45:16](https://bsky.app/profile/reuters.com/post/3m7teskuh3t2o)
+[2025-12-13 10:09:33](https://bsky.app/profile/nbcnews.com/post/3m7tg5ywhxv2q)
 
 ---
 
 @bbcnews-world-rss.bsky.social
 
-Has Venezuela been ditched by its strongest allies - Russia and China?
+Australia social media ban: Why isn't gaming included?
 
-[2025-12-13 09:44:34](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7terdbiwa2r)
+[2025-12-13 10:04:15](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7tfuk7hx62b)
 
 ---
 
-@reuters.com
+@japan.reuters.com
 
-Premier League clubs prepare for AFCON exodus reut.rs/4iUk9ol
+サッカーのスペイン１部は１２日に１試合を行い、久保建英の所属するレアル・ソシエダードはホームでジローナに１─２の逆転負けを喫した。 bit.ly/4pCb4TG
 
-[2025-12-13 09:40:15](https://bsky.app/profile/reuters.com/post/3m7tejmb5gv2b)
+[2025-12-13 10:04:01](https://bsky.app/profile/japan.reuters.com/post/3m7tfu3mlv62s)
+
+---
+
+@cbsnews.com
+
+House Republican leaders unveiled a plan Friday to address health care costs ahead of a year-end lapse to tax credits that will result in skyrocketing premiums for more than 20 million Americans. 
+
+[2025-12-13 10:03:23](https://bsky.app/profile/cbsnews.com/post/3m7tfsxwz3s2h)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+ベネズエラへの軍事作戦のさなか 米南方軍司令官が異例の退任
+https://news.web.nhk/newsweb/na/na-k10015002831000
+
+[2025-12-13 10:03:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7tfsl764y2k)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+大阪 守口 4軒連なる長屋で火事 焼け跡から2人の遺体見つかる
+https://news.web.nhk/newsweb/na/na-k10015002991000
+
+[2025-12-13 10:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7tfsgc3ln2b)
+
+---
+
+@wsj.com
+
+We asked designers what’s trending and ending, based on client requests. The experts’ verdicts: So long, quiet minimalism and smart-everything. Hello, Art Deco glam and…rotary phones? on.wsj.com/4pHcOeu
+
+[2025-12-13 10:02:47](https://bsky.app/profile/wsj.com/post/3m7tfrv52et2s)
 
 ---
 
 @bloomberg.com
 
-SpaceX has authorized an insider share sale that values Elon Musk’s rocket and satellite maker at about $800 billion, according to a company message seen by Bloomberg
+Visitors from overseas will face much more scrutiny under a proposal from US Customs and Border Protection
 
-[2025-12-13 09:40:10](https://bsky.app/profile/bloomberg.com/post/3m7tejgtv2x23)
-
----
-
-@nytimes.com
-
-As our Food staff ventured across the U.S. for months to find the best restaurants of the year, we didn’t neglect sweet treats: Here are our favorite desserts of 2025.
-
-[2025-12-13 09:40:07](https://bsky.app/profile/nytimes.com/post/3m7tejeknc62v)
+[2025-12-13 10:01:15](https://bsky.app/profile/bloomberg.com/post/3m7tfp5paz62x)
 
 ---
 
-@npr.org
+@apnews.com
 
-NPR's Steve Inskeep speaks with FDA Commissioner Martin Makary about the decline in testosterone in men in the U.S. and what his agency wants to do about it. n.pr/4oSpMVp
+The death of a 32-year-old man after riding a high-speed roller coaster at Universal Epic Universe has been ruled accidental.
 
-[2025-12-13 09:37:46](https://bsky.app/profile/npr.org/post/3m7tef5eyho24)
+[2025-12-13 10:01:04](https://bsky.app/profile/apnews.com/post/3m7tfosnro52k)
 
 ---
 
-@reuters.com
+@japan.reuters.com
 
-Wall St Week Ahead Investors eager for delayed data to shed light on US economy reut.rs/4qcputH
+トランプ米大統領は、国境地帯での衝突が激化しているタイとカンボジアが、１２日から「全ての攻撃を停止する」ことで合意したと明らかにした。これに先立ち、トランプ氏は両国の首脳と電話会談を行っていた。 bit.ly/4rSqfcH
 
-[2025-12-13 09:35:11](https://bsky.app/profile/reuters.com/post/3m7teajtruc2i)
+[2025-12-13 10:01:00](https://bsky.app/profile/japan.reuters.com/post/3m7tfooz6ug2s)
 
 ---
 
