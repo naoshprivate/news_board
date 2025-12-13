@@ -1,9 +1,9 @@
-# [2025-12-13 22:10 updated](2025_12_13.md)
+# [2025-12-13 22:30 updated](2025_12_13.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">ラグビー リーグワン開幕 クボタスピアーズが白星スタート https://news.web.nhk/newsweb/na/na-k10015003371000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7uoemire22w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-13 22:09:03)</span><span style="padding-right:50px;">The Post calls the podcast an "AI-powered tool" that turns its articles into an audio news digest. n.pr/4rUXc8z <a href="https://bsky.app/profile/npr.org/post/3m7uobdtt2524" target="_blank">npr.org</a> (2025-12-13 22:07:15)</span><span style="padding-right:50px;">AI fears are fueling a welcomed stock market rotation away from Big Tech <a href="https://bsky.app/profile/yahoofinance.com/post/3m7uo7btslq2q" target="_blank">yahoofinance.com</a> (2025-12-13 22:06:06)</span><span style="padding-right:50px;">Pittsburgh Steelers linebacker T.J. Watt has undergone surgery to repair a partially collapsed lung sustained during a dry-needling session and will miss Monday night's game against Miami. <a href="https://bsky.app/profile/apnews.com/post/3m7unweoa4v2x" target="_blank">apnews.com</a> (2025-12-13 22:01:07)</span><span style="padding-right:50px;">House Republicans offer health care bill without extending Obamacare subsidies but Democrats oppose the proposal. <a href="https://bsky.app/profile/usatoday.com/post/3m7unw2cvhu2h" target="_blank">usatoday.com</a> (2025-12-13 22:00:56)</span>
+<span style="padding-right:50px;">'Stranger Things' ushered in a new era for Netflix <a href="https://bsky.app/profile/cnbc.com/post/3m7uolls6e62b" target="_blank">cnbc.com</a> (2025-12-13 22:12:59)</span><span style="padding-right:50px;">Spanish police bust gang that used helicopters to fly drugs from Morocco reut.rs/4pxB6Hx <a href="https://bsky.app/profile/reuters.com/post/3m7uogp4tok2s" target="_blank">reuters.com</a> (2025-12-13 22:10:15)</span><span style="padding-right:50px;">A recently-fired head coach now faces serious charges–throwing multiple lives and a prominent program into turmoil. on.wsj.com/4q4TxmN <a href="https://bsky.app/profile/wsj.com/post/3m7uog2lzh22h" target="_blank">wsj.com</a> (2025-12-13 22:09:53)</span><span style="padding-right:50px;">ラグビー リーグワン開幕 クボタスピアーズが白星スタート https://news.web.nhk/newsweb/na/na-k10015003371000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7uoemire22w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-13 22:09:03)</span><span style="padding-right:50px;">The Post calls the podcast an "AI-powered tool" that turns its articles into an audio news digest. n.pr/4rUXc8z <a href="https://bsky.app/profile/npr.org/post/3m7uobdtt2524" target="_blank">npr.org</a> (2025-12-13 22:07:15)</span>
   </div>
 </div>
 
@@ -32,14 +32,62 @@
 
 ## News Headlines
 
+1. スポーツ
 1. ラグビー リーグワン開幕 クボタスピアーズが白星スタート
-2. ゾウやキリンの生息数、環境のナトリウム量が制限
-3. 米大統領がエチオピア難民の保護を取り消す
-4. ロシア・ウクライナに軍事侵攻　ウクライナのエネルギーインフラを攻撃
-5. JR寝台特急「サンライズ瀬戸・出雲」東京発24分繰り上げ
-6. 若者ケアラーに支援届かず、相談窓口に「18歳の壁」
+2. スケート ショートトラック全日本選手権 黒川輝衣は3連覇逃す
+3. JR寝台特急「サンライズ瀬戸･出雲」東京発24分繰り上げ
+4. Germany's Aicher denies Vonn a St Moritz downhill double
+
+2. プライベート
+1. アミー・シューマーと夫が離婚　子どもを共に育てる
+2. 若者ケアラーに支援届かず、相談窓口に「18歳の壁」
+
+3. 政治
+1. 米特使 ゼレンスキー大統領などと和平案協議へ
+2. Trump strips legal protections from Ethiopian refugees
+3. With Fed independence in crosshairs, will Supreme Court back Trump again?
+
+4. ビジネス
+1. AI fears are fueling a welcomed stock market rotation away from Big Tech
+2. News Quiz for Dec. 13, 2025
+3. Congressional Democrats released another eyebrow-raising batch of photos of Epstein and powerful people
+4. Carney’s fossil fuel pivot bewilders climate experts and business leaders
+
+5. 国際
+1. Drone attacks hit Russia and Ukraine as US-led peace talks continue
+2. US lifts sanctions on Belarusian potash, state media cite Trump envoy as saying
+3. Residents emerge in DR Congo’s tense Uvira after M23 rebel takeover
+
+6. 技術
+1. Stranger Things ushered in a new era for Netflix
+2. The Post calls the podcast an AI-powered tool that turns its articles into an audio news digest
+3. The San Diego Museum of Art presents a revelatory retrospective on the Spanish artist
 
 ----
+
+@cnbc.com
+
+'Stranger Things' ushered in a new era for Netflix
+
+[2025-12-13 22:12:59](https://bsky.app/profile/cnbc.com/post/3m7uolls6e62b)
+
+---
+
+@reuters.com
+
+Spanish police bust gang that used helicopters to fly drugs from Morocco reut.rs/4pxB6Hx
+
+[2025-12-13 22:10:15](https://bsky.app/profile/reuters.com/post/3m7uogp4tok2s)
+
+---
+
+@wsj.com
+
+A recently-fired head coach now faces serious charges–throwing multiple lives and a prominent program into turmoil. on.wsj.com/4q4TxmN
+
+[2025-12-13 22:09:53](https://bsky.app/profile/wsj.com/post/3m7uog2lzh22h)
+
+---
 
 @nhknewsunofficial.bsky.social
 
@@ -100,30 +148,6 @@ www.nikkei.com/article/DGXZQO...
 Thanks to the rise of digital nomad visas, these four European countries let you move first and handle visa paperwork later, says She Hit Refresh founder Cepee Tabibian. 
 
 [2025-12-13 22:00:30](https://bsky.app/profile/cnbc.com/post/3m7unvbcpjf24)
-
----
-
-@washingtonpost.com
-
-Climate models suggest that La Niña may transition to El Niño in 2026, which could cause changes in weather patterns and increase the odds for record-high global temperatures. https://wapo.st/4a7QO7B
-
-[2025-12-13 22:00:20](https://bsky.app/profile/washingtonpost.com/post/3m7unuxeari23)
-
----
-
-@aljazeera.com
-
-Trump strips legal protections from Ethiopian refugees in latest crackdown https://aje.io/p9qq89
-
-[2025-12-13 22:00:03](https://bsky.app/profile/aljazeera.com/post/3m7unuhbkdb2z)
-
----
-
-@cbsnews.com
-
-The designation has been given out on an annual basis to an influential person, group of people or, occasionally, a defining cultural theme or idea.
-
-[2025-12-13 22:00:01](https://bsky.app/profile/cbsnews.com/post/3m7unug44ro2m)
 
 ---
 
