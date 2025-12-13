@@ -1,9 +1,9 @@
-# [2025-12-14 06:50 updated](2025_12_14.md)
+# [2025-12-14 07:10 updated](2025_12_14.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">スピードスケートW杯第4戦 女子1000m 高木美帆今季初優勝で2冠 https://news.web.nhk/newsweb/na/na-k10015003331000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7vl7cmpnp2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-14 06:45:03)</span><span style="padding-right:50px;">Six United Nations peacekeepers from Bangladesh were killed Saturday in a drone strike on Sudan's southern Kordofan region, the UN mission said, with Dhaka sharply condemning the attack.  u.afp.com/S7Lb <a href="https://bsky.app/profile/en.afp.com/post/3m7vl77dx5s2u" target="_blank">en.afp.com</a> (2025-12-14 06:45:02)</span><span style="padding-right:50px;">Israel's military said it killed a top Hamas commander in Gaza who it described as one of the architects of the Oct. 7, 2023, attack that sparked the two-year-long war. <a href="https://bsky.app/profile/cbsnews.com/post/3m7vl767een2t" target="_blank">cbsnews.com</a> (2025-12-14 06:45:01)</span><span style="padding-right:50px;">卓球 ロス五輪シングルス代表 世界ランキング上位から選出へ https://news.web.nhk/newsweb/na/na-k10015003281000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7vl2azgwa2y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-14 06:42:14)</span><span style="padding-right:50px;">スキージャンプ女子 W杯個人第8戦 丸山希が2位 https://news.web.nhk/newsweb/na/na-k10015003381000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7vl24gyot2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-14 06:42:08)</span>
+<span style="padding-right:50px;">Reports: Yankees re-sign Amed Rosario to one-year, $2.5 million deal reut.rs/4q7CvnZ <a href="https://bsky.app/profile/reuters.com/post/3m7vmdbmaty2i" target="_blank">reuters.com</a> (2025-12-14 07:05:12)</span><span style="padding-right:50px;">Report: Blue Jays add RHP Tyler Rogers to bullpen reut.rs/48ECiTy <a href="https://bsky.app/profile/reuters.com/post/3m7vm3xx3hf2i" target="_blank">reuters.com</a> (2025-12-14 07:01:07)</span><span style="padding-right:50px;">Elite college sports group nears $500mn private capital deal on.ft.com/44rm5Pa <a href="https://bsky.app/profile/financialtimes.com/post/3m7vm3migdq2o" target="_blank">financialtimes.com</a> (2025-12-14 07:00:55)</span><span style="padding-right:50px;">An active shooter alert was issued at Brown University, according to a post on the university’s website. <a href="https://bsky.app/profile/nytimes.com/post/3m7vm3gs5vl27" target="_blank">nytimes.com</a> (2025-12-14 07:00:49)</span><span style="padding-right:50px;">Victor Wembanyama could provide a boost for the Spurs this week with a possible return. Here's the latest on his calf injury. <a href="https://bsky.app/profile/usatoday.com/post/3m7vm3duahp2g" target="_blank">usatoday.com</a> (2025-12-14 07:00:46)</span>
   </div>
 </div>
 
@@ -32,101 +32,95 @@
 
 ## News Headlines
 
-以下の6つのニュースの見出しです。
+Here are six news headlines in Japanese:
 
-1. スピードスケートW杯第4戦 女子1000m 高木美帆今季初優勝で2冠
-2. コンゴ民主共和国 戦闘続き地域の不安定化への懸念強まる
-3. ロシア中央銀行 制裁で凍結された資産めぐり提訴へ
-4. 札幌 住宅で女性2人死亡 家族とみられる男性もけが
-5. チリ大統領選挙 選挙戦激化
-6. ゲミニズメタオルショー 最高潮の14日
+1. 連邦兵2人と翻訳家を含む3人死亡　スリヤ戦争で米軍の攻撃を受けた
+2. ブラウン大学で銃撃事件　生徒がけが
+3. ロシア・ウクライナ戦争　オデッサで大規模な攻撃　電力系統に被害
+4. 韓国のスピードスケーター・高木美帆　W杯で初優勝
+5. スリヤで米軍の攻撃　トランプ大統領が「厳重な報復を」
+6. ロシア中央銀行　制裁で凍結された資産をめぐり訴訟を起こす
 
 ----
 
-@nhknewsunofficial.bsky.social
+@reuters.com
 
-スピードスケートW杯第4戦 女子1000m 高木美帆今季初優勝で2冠
-https://news.web.nhk/newsweb/na/na-k10015003331000
+Reports: Yankees re-sign Amed Rosario to one-year, $2.5 million deal reut.rs/4q7CvnZ
 
-[2025-12-14 06:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7vl7cmpnp2m)
-
----
-
-@en.afp.com
-
-Six United Nations peacekeepers from Bangladesh were killed Saturday in a drone strike on Sudan's southern Kordofan region, the UN mission said, with Dhaka sharply condemning the attack.
-
-u.afp.com/S7Lb
-
-[2025-12-14 06:45:02](https://bsky.app/profile/en.afp.com/post/3m7vl77dx5s2u)
+[2025-12-14 07:05:12](https://bsky.app/profile/reuters.com/post/3m7vmdbmaty2i)
 
 ---
 
-@cbsnews.com
+@reuters.com
 
-Israel's military said it killed a top Hamas commander in Gaza who it described as one of the architects of the Oct. 7, 2023, attack that sparked the two-year-long war.
+Report: Blue Jays add RHP Tyler Rogers to bullpen reut.rs/48ECiTy
 
-[2025-12-14 06:45:01](https://bsky.app/profile/cbsnews.com/post/3m7vl767een2t)
-
----
-
-@nhknewsunofficial.bsky.social
-
-卓球 ロス五輪シングルス代表 世界ランキング上位から選出へ
-https://news.web.nhk/newsweb/na/na-k10015003281000
-
-[2025-12-14 06:42:14](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7vl2azgwa2y)
+[2025-12-14 07:01:07](https://bsky.app/profile/reuters.com/post/3m7vm3xx3hf2i)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@financialtimes.com
 
-スキージャンプ女子 W杯個人第8戦 丸山希が2位
-https://news.web.nhk/newsweb/na/na-k10015003381000
+Elite college sports group nears $500mn private capital deal on.ft.com/44rm5Pa
 
-[2025-12-14 06:42:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7vl24gyot2b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-北日本～北陸 あすにかけ大荒れの天気の見込み 暴風雪など警戒
-https://news.web.nhk/newsweb/na/na-k10015003321000
-
-[2025-12-14 06:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7vkzw55ha2u)
+[2025-12-14 07:00:55](https://bsky.app/profile/financialtimes.com/post/3m7vm3migdq2o)
 
 ---
 
 @nytimes.com
 
-Russian drones and missiles pummeled Odesa, Ukraine, overnight on Friday into Saturday in one of the biggest attacks of the war on the southern port, causing major power outages that plunged parts of the city into darkness.
+An active shooter alert was issued at Brown University, according to a post on the university’s website.
 
-[2025-12-14 06:35:05](https://bsky.app/profile/nytimes.com/post/3m7vkngcqk52b)
+[2025-12-14 07:00:49](https://bsky.app/profile/nytimes.com/post/3m7vm3gs5vl27)
 
 ---
 
 @usatoday.com
 
-Affordability is front and center in voters’ minds as both parties gear up for next year’s congressional midterm elections.
+Victor Wembanyama could provide a boost for the Spurs this week with a possible return. Here's the latest on his calf injury.
 
-[2025-12-14 06:30:28](https://bsky.app/profile/usatoday.com/post/3m7vkf5xslh2w)
+[2025-12-14 07:00:46](https://bsky.app/profile/usatoday.com/post/3m7vm3duahp2g)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@apnews.com
 
-ロシア中央銀行 制裁で凍結された資産めぐり提訴へ
-https://news.web.nhk/newsweb/na/na-k10015003421000
+Israel says it killed a top Hamas commander in Gaza after an explosive device detonated and wounded two soldiers in the territory's south.
 
-[2025-12-14 06:27:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7vk74j7hc24)
+[2025-12-14 07:00:17](https://bsky.app/profile/apnews.com/post/3m7vm2ibyj625)
+
+---
+
+@washingtonpost.com
+
+Column by Candace Buckner: Former Michigan football coach Sherrone Moore now represents one of the most tragic things we know in the Black community: a wasted opportunity. 
+
+[2025-12-14 07:00:12](https://bsky.app/profile/washingtonpost.com/post/3m7vm2dnenp25)
 
 ---
 
 @cnn.com
 
-President Donald Trump said there will be “very serious retaliation” after two US soldiers and one civilian interpreter were killed in an ambush in Syria: https://cnn.it/4oUrmpN
+"Trump has loudly regretted his previous pick, Jerome Powell, who was renominated as board chairman by President Joe Biden, and whose term as chairman ends May 15," Zachary B. Wolf writes | Analysis
 
-[2025-12-14 06:25:02](https://bsky.app/profile/cnn.com/post/3m7vk3gq4mg2v)
+[2025-12-14 07:00:12](https://bsky.app/profile/cnn.com/post/3m7vm2dnakh26)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+北日本～北陸 あすにかけ天気大荒れの見込み 暴風雪など警戒を
+https://news.web.nhk/newsweb/na/na-k10015003321000
+
+[2025-12-14 07:00:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7vm245ed62k)
+
+---
+
+@cbsnews.com
+
+Hunter Kozak was the last person to ask Charlie Kirk a question before the conservative commentator was assassinated in September. This week, the Utah Valley University student met and posed a question to Kirk's widow Erika as part of a CBS News town hall airing at 8 p.m. tonight on CBS.
+
+[2025-12-14 07:00:01](https://bsky.app/profile/cbsnews.com/post/3m7vlzynj6y2p)
 
 ---
 
