@@ -1,9 +1,9 @@
-# [2025-12-13 21:10 updated](2025_12_13.md)
+# [2025-12-13 21:30 updated](2025_12_13.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Germany's Aicher denies Vonn a St Moritz downhill double reut.rs/48Mi1dv <a href="https://bsky.app/profile/reuters.com/post/3m7uksfhuap2x" target="_blank">reuters.com</a> (2025-12-13 21:05:12)</span><span style="padding-right:50px;">The San Diego Museum of Art presents a revelatory retrospective on the Spanish artist, whose work pulses with the power of the natural world and his own heritage. on.wsj.com/456fhGK <a href="https://bsky.app/profile/wsj.com/post/3m7ukp2mele2s" target="_blank">wsj.com</a> (2025-12-13 21:03:20)</span><span style="padding-right:50px;">US lifts sanctions on Belarusian potash, state media cite Trump envoy as saying reut.rs/4qaMCss <a href="https://bsky.app/profile/reuters.com/post/3m7uklmdqby2y" target="_blank">reuters.com</a> (2025-12-13 21:01:25)</span><span style="padding-right:50px;">Congressional Democrats released another eyebrow-raising batch of photos of Epstein and powerful people. More are coming. <a href="https://bsky.app/profile/usatoday.com/post/3m7ukknr4j72s" target="_blank">usatoday.com</a> (2025-12-13 21:00:53)</span><span style="padding-right:50px;">若者ケアラーに支援届かず、相談窓口に「18歳の壁」 www.nikkei.com/article/DGXZQO...  「何度も仕事を休まれると困る」「なぜ若い君が介護しなきゃいけないの？」  祖父の介護をしていた祖母が倒れ、2人の介護が必要になった徳島市の女性（24）。上司の理解を得られず入社1年を待たずに退社しました。  ライフイベントが重なる18歳～30代。この時期に介護が重なり、進学や就職を諦める人は少なくありません。  2025年11月 #注目された記事 <a href="https://bsky.app/profile/nikkei.com/post/3m7ukkkwgbs2f" target="_blank">nikkei.com</a> (2025-12-13 21:00:50)</span>
+<span style="padding-right:50px;">News Quiz for Dec. 13, 2025 on.wsj.com/4pAQzGX <a href="https://bsky.app/profile/wsj.com/post/3m7uls4pqpm2g" target="_blank">wsj.com</a> (2025-12-13 21:22:57)</span><span style="padding-right:50px;">JR寝台特急「サンライズ瀬戸･出雲」東京発24分繰り上げ　午後9時26分に、保守時間確保（無料記事） www.nikkei.com/article/DGXZQO...  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m7ulgrpgi72x" target="_blank">nikkei.com</a> (2025-12-13 21:16:36)</span><span style="padding-right:50px;">Kirk Haworth on getting meat eaters to love plant-based dining reut.rs/4pApuDE <a href="https://bsky.app/profile/reuters.com/post/3m7ulei2inp2p" target="_blank">reuters.com</a> (2025-12-13 21:15:19)</span><span style="padding-right:50px;">“米特使 ゼレンスキー大統領などと和平案協議へ”米報道 https://news.web.nhk/newsweb/na/na-k10015003271000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ul6oq2342d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-13 21:12:02)</span><span style="padding-right:50px;">With Fed independence in crosshairs, will Supreme Court back Trump again? reut.rs/3MAZqK7 <a href="https://bsky.app/profile/reuters.com/post/3m7ul3gldx22s" target="_blank">reuters.com</a> (2025-12-13 21:10:16)</span>
   </div>
 </div>
 
@@ -32,14 +32,68 @@
 
 ## News Headlines
 
-1. ドイツのアイヒャー氏がスキーバスでＶォンヌを抑える
-2. スペインの名画家の回顧展がサンディエゴで開幕
-3. 米国がベラルーシのポタシュの制裁を解除
-4. エプスタインとの関係を明らかにした民主党議員
-5. ドイツで若者が介護を手伝わない
-6. 米国でマリージュアナの規制が緩和される
+Here are six news headlines in Japanese:
+
+1. JR寝台特急「サンライズ瀬戸・出雲」東京発24分繰り上げ　午後9時26分に、保守時間確保
+2. 米特使 ゼレンスキー大統領などと和平案協議へ
+3. 立民 野田代表「定数削減法案今国会での成立諦めるべき」
+4. 若者ケアラーに支援届かず、相談窓口に「18歳の壁」
+5. ドイツのアイヒャーがマーキュリーでダブルを逃す
+6. フィリピン「南シナ海で中国船から放水　漁船の乗組員3人けが」
 
 ----
+
+@wsj.com
+
+News Quiz for Dec. 13, 2025 on.wsj.com/4pAQzGX
+
+[2025-12-13 21:22:57](https://bsky.app/profile/wsj.com/post/3m7uls4pqpm2g)
+
+---
+
+@nikkei.com
+
+JR寝台特急「サンライズ瀬戸･出雲」東京発24分繰り上げ　午後9時26分に、保守時間確保（無料記事）
+www.nikkei.com/article/DGXZQO...
+
+#ニュース
+
+[2025-12-13 21:16:36](https://bsky.app/profile/nikkei.com/post/3m7ulgrpgi72x)
+
+---
+
+@reuters.com
+
+Kirk Haworth on getting meat eaters to love plant-based dining reut.rs/4pApuDE
+
+[2025-12-13 21:15:19](https://bsky.app/profile/reuters.com/post/3m7ulei2inp2p)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+“米特使 ゼレンスキー大統領などと和平案協議へ”米報道
+https://news.web.nhk/newsweb/na/na-k10015003271000
+
+[2025-12-13 21:12:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ul6oq2342d)
+
+---
+
+@reuters.com
+
+With Fed independence in crosshairs, will Supreme Court back Trump again? reut.rs/3MAZqK7
+
+[2025-12-13 21:10:16](https://bsky.app/profile/reuters.com/post/3m7ul3gldx22s)
+
+---
+
+@financialtimes.com
+
+Carney’s fossil fuel pivot bewilders climate experts and business leaders on.ft.com/4rTF66V
+
+[2025-12-13 21:09:44](https://bsky.app/profile/financialtimes.com/post/3m7ul2ie2js25)
+
+---
 
 @reuters.com
 
@@ -70,65 +124,6 @@ US lifts sanctions on Belarusian potash, state media cite Trump envoy as saying 
 Congressional Democrats released another eyebrow-raising batch of photos of Epstein and powerful people. More are coming.
 
 [2025-12-13 21:00:53](https://bsky.app/profile/usatoday.com/post/3m7ukknr4j72s)
-
----
-
-@nikkei.com
-
-若者ケアラーに支援届かず、相談窓口に「18歳の壁」
-www.nikkei.com/article/DGXZQO...
-
-「何度も仕事を休まれると困る」「なぜ若い君が介護しなきゃいけないの？」
-
-祖父の介護をしていた祖母が倒れ、2人の介護が必要になった徳島市の女性（24）。上司の理解を得られず入社1年を待たずに退社しました。
-
-ライフイベントが重なる18歳～30代。この時期に介護が重なり、進学や就職を諦める人は少なくありません。
-
-2025年11月 #注目された記事
-
-[2025-12-13 21:00:50](https://bsky.app/profile/nikkei.com/post/3m7ukkkwgbs2f)
-
----
-
-@bloomberg.com
-
-🧠 Can you crack today’s Alphadots faster than yesterday? Try now:
-
-[2025-12-13 21:00:35](https://bsky.app/profile/bloomberg.com/post/3m7ukk52agv2g)
-
----
-
-@washingtonpost.com
-
-As President Trump prepares a historic relaxation of marijuana restrictions, Americans may wonder what it means for buying and using the country’s most popular illicit drug.
-
-The answer: Not that much.
-
-[2025-12-13 21:00:16](https://bsky.app/profile/washingtonpost.com/post/3m7ukjkwkf42i)
-
----
-
-@financialtimes.com
-
-The youngest member of the Gates clan is following her family’s calling. But her healthcare mission comes with a uniquely Gen Z edge on.ft.com/4aeBm9F
-
-[2025-12-13 21:00:04](https://bsky.app/profile/financialtimes.com/post/3m7ukj7lp2r2w)
-
----
-
-@aljazeera.com
-
-Residents emerge in DR Congo’s tense Uvira after M23 rebel takeover https://aje.io/kuespq
-
-[2025-12-13 21:00:04](https://bsky.app/profile/aljazeera.com/post/3m7ukj7fi432d)
-
----
-
-@cbsnews.com
-
-Dramatic video of the Sept. 20 incident was released Thursday by the Australian Transport Safety Bureau.
-
-[2025-12-13 21:00:01](https://bsky.app/profile/cbsnews.com/post/3m7ukj4xb252y)
 
 ---
 
