@@ -1,9 +1,9 @@
-# [2025-12-13 20:50 updated](2025_12_13.md)
+# [2025-12-13 21:10 updated](2025_12_13.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The buzziest private companies are being sold to a select few as the universe of stocks everyone else can invest in shrinks rapidly. <a href="https://bsky.app/profile/wsj.com/post/3m7ujrhjjgl2q" target="_blank">wsj.com</a> (2025-12-13 20:46:47)</span><span style="padding-right:50px;">フィリピン“南シナ海で中国船から放水 漁船の乗組員3人けが” https://news.web.nhk/newsweb/na/na-k10015003351000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ujofkkrh2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-13 20:45:02)</span><span style="padding-right:50px;">立民 野田代表“定数削減法案 今国会での成立諦めるべき” https://news.web.nhk/newsweb/na/na-k10015003291000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ujizhahf2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-13 20:42:02)</span><span style="padding-right:50px;">8日の地震で損傷の鉄塔補修工事 NTTと技術支援チームが初協議 https://news.web.nhk/newsweb/na/na-k10015003261000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ujdnpckj2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-13 20:39:02)</span><span style="padding-right:50px;">If you're after the best red wines for Christmas 2025, look no further than Jancis Robinson's festive wine tips: on.ft.com/3KUG9To <a href="https://bsky.app/profile/financialtimes.com/post/3m7uj2qx6uj25" target="_blank">financialtimes.com</a> (2025-12-13 20:34:05)</span>
+<span style="padding-right:50px;">Germany's Aicher denies Vonn a St Moritz downhill double reut.rs/48Mi1dv <a href="https://bsky.app/profile/reuters.com/post/3m7uksfhuap2x" target="_blank">reuters.com</a> (2025-12-13 21:05:12)</span><span style="padding-right:50px;">The San Diego Museum of Art presents a revelatory retrospective on the Spanish artist, whose work pulses with the power of the natural world and his own heritage. on.wsj.com/456fhGK <a href="https://bsky.app/profile/wsj.com/post/3m7ukp2mele2s" target="_blank">wsj.com</a> (2025-12-13 21:03:20)</span><span style="padding-right:50px;">US lifts sanctions on Belarusian potash, state media cite Trump envoy as saying reut.rs/4qaMCss <a href="https://bsky.app/profile/reuters.com/post/3m7uklmdqby2y" target="_blank">reuters.com</a> (2025-12-13 21:01:25)</span><span style="padding-right:50px;">Congressional Democrats released another eyebrow-raising batch of photos of Epstein and powerful people. More are coming. <a href="https://bsky.app/profile/usatoday.com/post/3m7ukknr4j72s" target="_blank">usatoday.com</a> (2025-12-13 21:00:53)</span><span style="padding-right:50px;">若者ケアラーに支援届かず、相談窓口に「18歳の壁」 www.nikkei.com/article/DGXZQO...  「何度も仕事を休まれると困る」「なぜ若い君が介護しなきゃいけないの？」  祖父の介護をしていた祖母が倒れ、2人の介護が必要になった徳島市の女性（24）。上司の理解を得られず入社1年を待たずに退社しました。  ライフイベントが重なる18歳～30代。この時期に介護が重なり、進学や就職を諦める人は少なくありません。  2025年11月 #注目された記事 <a href="https://bsky.app/profile/nikkei.com/post/3m7ukkkwgbs2f" target="_blank">nikkei.com</a> (2025-12-13 21:00:50)</span>
   </div>
 </div>
 
@@ -32,102 +32,103 @@
 
 ## News Headlines
 
-1.  フィリピン
-2.  野田代表「定数削減法案今国会で成立諦めるべき」
-3.  8日の地震で損傷の鉄塔補修工事、NTTと技術支援チームが初協議
-4.  「モトチャンプ」2026年2月号を最後に休刊
-5.  EUcountries agree 2026 fishing quotas, avoid tighter Mediterranean curbs
-6.  「場外」からなぜ投稿？地方選挙に広がるSNSの影響
+1. ドイツのアイヒャー氏がスキーバスでＶォンヌを抑える
+2. スペインの名画家の回顧展がサンディエゴで開幕
+3. 米国がベラルーシのポタシュの制裁を解除
+4. エプスタインとの関係を明らかにした民主党議員
+5. ドイツで若者が介護を手伝わない
+6. 米国でマリージュアナの規制が緩和される
 
 ----
 
+@reuters.com
+
+Germany's Aicher denies Vonn a St Moritz downhill double reut.rs/48Mi1dv
+
+[2025-12-13 21:05:12](https://bsky.app/profile/reuters.com/post/3m7uksfhuap2x)
+
+---
+
 @wsj.com
 
-The buzziest private companies are being sold to a select few as the universe of stocks everyone else can invest in shrinks rapidly.
+The San Diego Museum of Art presents a revelatory retrospective on the Spanish artist, whose work pulses with the power of the natural world and his own heritage. on.wsj.com/456fhGK
 
-[2025-12-13 20:46:47](https://bsky.app/profile/wsj.com/post/3m7ujrhjjgl2q)
-
----
-
-@nhknewsunofficial.bsky.social
-
-フィリピン“南シナ海で中国船から放水 漁船の乗組員3人けが”
-https://news.web.nhk/newsweb/na/na-k10015003351000
-
-[2025-12-13 20:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ujofkkrh2w)
-
----
-
-@nhknewsunofficial.bsky.social
-
-立民 野田代表“定数削減法案 今国会での成立諦めるべき”
-https://news.web.nhk/newsweb/na/na-k10015003291000
-
-[2025-12-13 20:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ujizhahf2v)
-
----
-
-@nhknewsunofficial.bsky.social
-
-8日の地震で損傷の鉄塔補修工事 NTTと技術支援チームが初協議
-https://news.web.nhk/newsweb/na/na-k10015003261000
-
-[2025-12-13 20:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ujdnpckj2k)
-
----
-
-@financialtimes.com
-
-If you're after the best red wines for Christmas 2025, look no further than Jancis Robinson's festive wine tips: on.ft.com/3KUG9To
-
-[2025-12-13 20:34:05](https://bsky.app/profile/financialtimes.com/post/3m7uj2qx6uj25)
-
----
-
-@nikkei.com
-
-専門情報誌、余力あるうちに休刊　ウェブに活路
-www.nikkei.com/article/DGXZQO...
-
-90年の歴史を持つ料理誌「栄養と料理」は2026年春に幕を閉じます。紙・印刷・製本費の上昇もあり、赤字に転落していました。
-
-2026年2月号を最後に休刊する長寿バイク誌「モトチャンプ」は、黄金期には広告出稿が多すぎて断っていたといいます。
-
-インターネットで最新情報が無料で手に入る中、ウェブ媒体として生き残りを目指す試みもみられます。
-
-[2025-12-13 20:30:37](https://bsky.app/profile/nikkei.com/post/3m7uiujznn22m)
-
----
-
-@apnews.com
-
-Kilmar Abrego Garcia, whose mistaken deportation helped galvanize opposition to President Donald Trump's immigration policies, has been released from immigration detention, and a judge has temporarily blocked any further efforts to detain him.
-
-[2025-12-13 20:30:26](https://bsky.app/profile/apnews.com/post/3m7uiu7x2hr2p)
+[2025-12-13 21:03:20](https://bsky.app/profile/wsj.com/post/3m7ukp2mele2s)
 
 ---
 
 @reuters.com
 
-EU countries agree 2026 fishing quotas, avoid tighter Mediterranean curbs reut.rs/4aOZDDn
+US lifts sanctions on Belarusian potash, state media cite Trump envoy as saying reut.rs/4qaMCss
 
-[2025-12-13 20:30:20](https://bsky.app/profile/reuters.com/post/3m7uitzzm7x2r)
+[2025-12-13 21:01:25](https://bsky.app/profile/reuters.com/post/3m7uklmdqby2y)
+
+---
+
+@usatoday.com
+
+Congressional Democrats released another eyebrow-raising batch of photos of Epstein and powerful people. More are coming.
+
+[2025-12-13 21:00:53](https://bsky.app/profile/usatoday.com/post/3m7ukknr4j72s)
+
+---
+
+@nikkei.com
+
+若者ケアラーに支援届かず、相談窓口に「18歳の壁」
+www.nikkei.com/article/DGXZQO...
+
+「何度も仕事を休まれると困る」「なぜ若い君が介護しなきゃいけないの？」
+
+祖父の介護をしていた祖母が倒れ、2人の介護が必要になった徳島市の女性（24）。上司の理解を得られず入社1年を待たずに退社しました。
+
+ライフイベントが重なる18歳～30代。この時期に介護が重なり、進学や就職を諦める人は少なくありません。
+
+2025年11月 #注目された記事
+
+[2025-12-13 21:00:50](https://bsky.app/profile/nikkei.com/post/3m7ukkkwgbs2f)
 
 ---
 
 @bloomberg.com
 
-The move is the result of intense lobbying from companies such as Stellantis and Mercedes-Benz, which sought to ease the risk of fines that could have exceeded €1 billion ($1.2 billion) in the coming years.
+🧠 Can you crack today’s Alphadots faster than yesterday? Try now:
 
-[2025-12-13 20:30:13](https://bsky.app/profile/bloomberg.com/post/3m7uitsxdk42u)
+[2025-12-13 21:00:35](https://bsky.app/profile/bloomberg.com/post/3m7ukk52agv2g)
+
+---
+
+@washingtonpost.com
+
+As President Trump prepares a historic relaxation of marijuana restrictions, Americans may wonder what it means for buying and using the country’s most popular illicit drug.
+
+The answer: Not that much.
+
+[2025-12-13 21:00:16](https://bsky.app/profile/washingtonpost.com/post/3m7ukjkwkf42i)
 
 ---
 
 @financialtimes.com
 
-Transatlantic rupture on.ft.com/44VK5dk
+The youngest member of the Gates clan is following her family’s calling. But her healthcare mission comes with a uniquely Gen Z edge on.ft.com/4aeBm9F
 
-[2025-12-13 20:27:00](https://bsky.app/profile/financialtimes.com/post/3m7uio3grkv23)
+[2025-12-13 21:00:04](https://bsky.app/profile/financialtimes.com/post/3m7ukj7lp2r2w)
+
+---
+
+@aljazeera.com
+
+Residents emerge in DR Congo’s tense Uvira after M23 rebel takeover https://aje.io/kuespq
+
+[2025-12-13 21:00:04](https://bsky.app/profile/aljazeera.com/post/3m7ukj7fi432d)
+
+---
+
+@cbsnews.com
+
+Dramatic video of the Sept. 20 incident was released Thursday by the Australian Transport Safety Bureau.
+
+[2025-12-13 21:00:01](https://bsky.app/profile/cbsnews.com/post/3m7ukj4xb252y)
 
 ---
 
