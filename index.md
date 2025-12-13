@@ -1,9 +1,9 @@
-# [2025-12-13 16:10 updated](2025_12_13.md)
+# [2025-12-13 16:30 updated](2025_12_13.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Canucks trade former Norris Trophy winner Quinn Hughes to Wild reut.rs/48SglPV <a href="https://bsky.app/profile/reuters.com/post/3m7tzzup2vu2y" target="_blank">reuters.com</a> (2025-12-13 16:05:10)</span><span style="padding-right:50px;">Every night Taylor Swift stepped out to perform on the Eras Tour, she became a symbol as much as a person – the biggest pop star of her generation who had created a billion-dollar phenomenon.  <a href="https://bsky.app/profile/cnn.com/post/3m7tzuathxc2a" target="_blank">cnn.com</a> (2025-12-13 16:02:01)</span><span style="padding-right:50px;">It's a new face in Britain’s anti-immigration movement.  Members of the Pink Ladies grassroots movement stage demonstrations across the country to warn of the dangers they say illegal migrants pose to women and girls. <a href="https://bsky.app/profile/cnn.com/post/3m7tzshvq6m22" target="_blank">cnn.com</a> (2025-12-13 16:01:01)</span><span style="padding-right:50px;">Hazlewood not done with test cricket despite Ashes disappointment reut.rs/4q0DwhI <a href="https://bsky.app/profile/reuters.com/post/3m7tzs5pcgg23" target="_blank">reuters.com</a> (2025-12-13 16:00:51)</span><span style="padding-right:50px;">山陰観光、朝ドラ「ばけばけ」と大阪万博で沸く www.nikkei.com/article/DGXZQO...  JR西日本は「ばけばけ」の舞台の島根県松江市と連携し、小泉八雲記念館・旧居のほか、八雲がよく訪れた城山稲荷神社などを巡るツアーを開始。  八雲の石像を設置したり、ゆかりの料理や洋菓子のメニューを開発したりといった動きもあります。  鳥取県は大阪・関西万博で外交戦略「サンド・アライアンス（砂同盟）」が話題を呼び、多くの観光客が訪れています。 <a href="https://bsky.app/profile/nikkei.com/post/3m7tzrpujt32m" target="_blank">nikkei.com</a> (2025-12-13 16:00:36)</span>
+<span style="padding-right:50px;">Raiders' Kenny Pickett, an ex-Eagle, to face former club reut.rs/4pv6JBD <a href="https://bsky.app/profile/reuters.com/post/3m7u2lwhbeo2o" target="_blank">reuters.com</a> (2025-12-13 16:15:15)</span><span style="padding-right:50px;">エプスタイン氏とトランプ氏・クリントン氏らの写真公開　米下院民主党（無料記事） www.nikkei.com/article/DGXZQO...  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m7u2l6crvg24" target="_blank">nikkei.com</a> (2025-12-13 16:14:50)</span><span style="padding-right:50px;">A Niagara Falls wreck and the rescue that saved two Americans <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7u2cyyhh52r" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-13 16:10:15)</span><span style="padding-right:50px;">Indiana's Fernando Mendoza headlines college football award winners reut.rs/4iYrRhd <a href="https://bsky.app/profile/reuters.com/post/3m7u2cs4huw23" target="_blank">reuters.com</a> (2025-12-13 16:10:09)</span><span style="padding-right:50px;">Canucks trade former Norris Trophy winner Quinn Hughes to Wild reut.rs/48SglPV <a href="https://bsky.app/profile/reuters.com/post/3m7tzzup2vu2y" target="_blank">reuters.com</a> (2025-12-13 16:05:10)</span>
   </div>
 </div>
 
@@ -32,14 +32,49 @@
 
 ## News Headlines
 
-1. カナダ人ナorrisトロフィー受賞者クインヒューズをワイルドにトレード
-2. タイラー・スイフトのエラスツアーが大盛況
-3. 連続して女性をけがした疑いのある外国人を厳しく処罰する意欲のある英国人たち
-4. ハズルウッドはテストクリケットでまだまだ精彩を発揮する
-5. JR西日本が「ばけばけ」をPRするため島根県とパートナーシップを結ぶ
-6. 金融療法士は「ストレスが強まるほど極端な金銭計画を立てないでほしい」
+1. エプスタイン氏とトランプ氏・クリントン氏らの写真公開
+2. 中国 「南京事件」の追悼式典で日本をけん制
+3. 長野 松本城で恒例のすす払い 天守や黒門のほこり落とす
+4. 阪神 村上頌樹 推定年俸2億3000万円に大幅アップで契約更改
+5. サッカーJ2 ジェフ千葉がJ1復帰決める 17年ぶり
+6. 北朝鮮 キム総書記がロシア派遣部隊の犠牲者悼む様子報じる
 
 ----
+
+@reuters.com
+
+Raiders' Kenny Pickett, an ex-Eagle, to face former club reut.rs/4pv6JBD
+
+[2025-12-13 16:15:15](https://bsky.app/profile/reuters.com/post/3m7u2lwhbeo2o)
+
+---
+
+@nikkei.com
+
+エプスタイン氏とトランプ氏・クリントン氏らの写真公開　米下院民主党（無料記事）
+www.nikkei.com/article/DGXZQO...
+
+#ニュース
+
+[2025-12-13 16:14:50](https://bsky.app/profile/nikkei.com/post/3m7u2l6crvg24)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+A Niagara Falls wreck and the rescue that saved two Americans
+
+[2025-12-13 16:10:15](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7u2cyyhh52r)
+
+---
+
+@reuters.com
+
+Indiana's Fernando Mendoza headlines college football award winners reut.rs/4iYrRhd
+
+[2025-12-13 16:10:09](https://bsky.app/profile/reuters.com/post/3m7u2cs4huw23)
+
+---
 
 @reuters.com
 
@@ -99,42 +134,6 @@ But that's not going to fix the problem, financial therapist says.
 Between the two extremes, “Adaptability is what is most important,” to develop healthy spending habits, she says.
 
 [2025-12-13 16:00:22](https://bsky.app/profile/cnbc.com/post/3m7tzrc5thz23)
-
----
-
-@apnews.com
-
-An Orleans Parish district judge handed down two life sentences to Derrick Groves, the New Orleans inmate who had spent nearly five months on the run after escaping from jail before being captured in October under a crawlspace in an Atlanta, Georgia home.
-
-[2025-12-13 16:00:21](https://bsky.app/profile/apnews.com/post/3m7tzrazamk2k)
-
----
-
-@aljazeera.com
-
-China has marked the anniversary of 1937 massacre by Japanese soldiers, as tensions soar over Taiwan.
-
-[2025-12-13 16:00:05](https://bsky.app/profile/aljazeera.com/post/3m7tzqsitli2h)
-
----
-
-@nhknewsunofficial.bsky.social
-
-長野 松本城で恒例のすす払い 天守や黒門のほこり落とす
-https://news.web.nhk/newsweb/na/na-k10015003141000
-
-[2025-12-13 16:00:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7tzqupepk26)
-
----
-
-@sokuho.news
-
-🔔ANNより【速報】です。
-
-【速報】横浜市の繁華街でビル火災 壁などが燃える けが人なし
-(15:57) #ニュース
-
-[2025-12-13 15:58:17](https://bsky.app/profile/sokuho.news/post/3m7tznlmptf2b)
 
 ---
 
