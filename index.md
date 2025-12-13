@@ -1,9 +1,9 @@
-# [2025-12-13 08:50 updated](2025_12_13.md)
+# [2025-12-13 09:10 updated](2025_12_13.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">【京都のホテル大幅値下げ】 訪日中国人客、年1000万人目前で急ブレーキ www.nikkei.com/article/DGXZQO...  中国が日本への渡航自粛を呼びかけたことで、国内各地で予約キャンセルが相次ぎました。  Googleで「京都　ホテル」と検索すると、宿泊費が高騰していたのがウソのように1泊1万円未満のホテルがずらり。  ダメージを軽減するには、1回当たり旅行支出額の多いアメリカやヨーロッパの訪日客の割合を高めていくことも求められます。 <a href="https://bsky.app/profile/nikkei.com/post/3m7tbjn4gp42m" target="_blank">nikkei.com</a> (2025-12-13 08:46:35)</span><span style="padding-right:50px;">Fintech Wealthfront valued at $2.63 billion in Nasdaq debut reut.rs/3YnHHZ4 <a href="https://bsky.app/profile/reuters.com/post/3m7tbhb5vsk24" target="_blank">reuters.com</a> (2025-12-13 08:45:15)</span><span style="padding-right:50px;">Trump says ‘no big deal’ after Jeffrey Epstein photos showing him released <a href="https://bsky.app/profile/cnbc.com/post/3m7tbgvvh2y25" target="_blank">cnbc.com</a> (2025-12-13 08:45:04)</span><span style="padding-right:50px;">UN completes investigation into ICC prosecutor's alleged sexual misconduct reut.rs/4q6fVvZ <a href="https://bsky.app/profile/reuters.com/post/3m7tb6hhgxo23" target="_blank">reuters.com</a> (2025-12-13 08:40:20)</span><span style="padding-right:50px;">Can plants and lights help stop crime? In Philadelphia, that idea has been put to the test, with encouraging results. Both city-led and community-driven efforts to clean and maintain streets have been among many interventions credited for dramatic reductions in gun violence. <a href="https://bsky.app/profile/nytimes.com/post/3m7tb5xjr3b27" target="_blank">nytimes.com</a> (2025-12-13 08:40:03)</span>
+<span style="padding-right:50px;">Trump administration unlikely to finalize 2026 biofuel quotas this year, sources say reut.rs/3YvOLTv <a href="https://bsky.app/profile/reuters.com/post/3m7tckz2rwl2y" target="_blank">reuters.com</a> (2025-12-13 09:05:15)</span><span style="padding-right:50px;">In a profession known for hot tempers, Sylvain Delpique at the New York hotel says his mantra is to absorb the stress on.wsj.com/48RUW9i <a href="https://bsky.app/profile/wsj.com/post/3m7tcjay6gu2g" target="_blank">wsj.com</a> (2025-12-13 09:04:16)</span><span style="padding-right:50px;">Cramer's Lightning Round: Do not sell DuPont de Nemours <a href="https://bsky.app/profile/cnbc.com/post/3m7tcgtlecv24" target="_blank">cnbc.com</a> (2025-12-13 09:02:55)</span><span style="padding-right:50px;">Cases alleging class action racketeering scheme land in DC court reut.rs/4aeW9dd <a href="https://bsky.app/profile/reuters.com/post/3m7tce3smek2p" target="_blank">reuters.com</a> (2025-12-13 09:01:23)</span><span style="padding-right:50px;">King Charles III, who was diagnosed with cancer in February 2024, gave an update on his condition in a personal video message. <a href="https://bsky.app/profile/usatoday.com/post/3m7tcdo7i3d2h" target="_blank">usatoday.com</a> (2025-12-13 09:01:09)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.75 (🔺0.21 : 2025-12-13)</span>
+<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.57 (🔺0.09 : 2025-12-12)</span>
   </div>
 </div>
 
@@ -32,100 +32,101 @@
 
 ## News Headlines
 
-1. 京都のホテル大幅値下げ
-2. Fintech WealthfrontがNASDAQで2.63億ドルで上場
-3. トランプ氏「エプスタインの写真は問題ではない」
-4. 国際刑事警察機構の検察官の性別差別問題を調査した報告書が発表
-5. アメリカの大学がトランプ政権の研究補助金を失う
-6. カナダが世界のトップ研究者を引き付けようとし米国大学を圧迫
+Here are six news headlines in Japanese:
+
+1. 2026年バイオ燃料の規制値の発表は今年は困難か
+2. 「ストレスは吸収するしかない」ホテルのマネージャーはどのように心を整えるか
+3. ボーイングと法的対決を迫る法学者が訴訟を起こした
+4. 「アメリカの素顔が恐ろしいほどくっきりと照らされた」アリ・アスター監督の映画「エディントンへようこそ」
+5. AIの時代で仕事を見つけるのはできる人は誰だ
+6. 米政府がフィンランドと日本の共同プロジェクトを発表
 
 ----
 
-@nikkei.com
-
-【京都のホテル大幅値下げ】
-訪日中国人客、年1000万人目前で急ブレーキ
-www.nikkei.com/article/DGXZQO...
-
-中国が日本への渡航自粛を呼びかけたことで、国内各地で予約キャンセルが相次ぎました。
-
-Googleで「京都　ホテル」と検索すると、宿泊費が高騰していたのがウソのように1泊1万円未満のホテルがずらり。
-
-ダメージを軽減するには、1回当たり旅行支出額の多いアメリカやヨーロッパの訪日客の割合を高めていくことも求められます。
-
-[2025-12-13 08:46:35](https://bsky.app/profile/nikkei.com/post/3m7tbjn4gp42m)
-
----
-
 @reuters.com
 
-Fintech Wealthfront valued at $2.63 billion in Nasdaq debut reut.rs/3YnHHZ4
+Trump administration unlikely to finalize 2026 biofuel quotas this year, sources say reut.rs/3YvOLTv
 
-[2025-12-13 08:45:15](https://bsky.app/profile/reuters.com/post/3m7tbhb5vsk24)
-
----
-
-@cnbc.com
-
-Trump says ‘no big deal’ after Jeffrey Epstein photos showing him released
-
-[2025-12-13 08:45:04](https://bsky.app/profile/cnbc.com/post/3m7tbgvvh2y25)
-
----
-
-@reuters.com
-
-UN completes investigation into ICC prosecutor's alleged sexual misconduct reut.rs/4q6fVvZ
-
-[2025-12-13 08:40:20](https://bsky.app/profile/reuters.com/post/3m7tb6hhgxo23)
-
----
-
-@nytimes.com
-
-Can plants and lights help stop crime? In Philadelphia, that idea has been put to the test, with encouraging results. Both city-led and community-driven efforts to clean and maintain streets have been among many interventions credited for dramatic reductions in gun violence.
-
-[2025-12-13 08:40:03](https://bsky.app/profile/nytimes.com/post/3m7tb5xjr3b27)
-
----
-
-@japan.reuters.com
-
-米国の大学がトランプ政権による政府助成金の削減に直面する中、カナダは新たな政府資金と移民制度改革によって、世界のトップ研究者を呼び込もうとしている。 bit.ly/3Ypwc3n
-
-[2025-12-13 08:36:37](https://bsky.app/profile/japan.reuters.com/post/3m7taxt5iio2f)
-
----
-
-@reuters.com
-
-Fired Michigan football coach Sherrone Moore charged with stalking, home invasion reut.rs/4pDzYCq
-
-[2025-12-13 08:35:09](https://bsky.app/profile/reuters.com/post/3m7tav754zw2s)
+[2025-12-13 09:05:15](https://bsky.app/profile/reuters.com/post/3m7tckz2rwl2y)
 
 ---
 
 @wsj.com
 
-How do you keep fish away from a nuclear plant? A disco, of course!
+In a profession known for hot tempers, Sylvain Delpique at the New York hotel says his mantra is to absorb the stress on.wsj.com/48RUW9i
 
-[2025-12-13 08:33:36](https://bsky.app/profile/wsj.com/post/3m7tasfys4r2k)
-
----
-
-@npr.org
-
-In a daring nighttime martime operation, U.S. veterans whisked Venezuela's María Corina Machado out of the country to claim her Nobel Peace Prize in Oslo n.pr/4adj9td
-
-[2025-12-13 08:32:59](https://bsky.app/profile/npr.org/post/3m7tarcyaig2y)
+[2025-12-13 09:04:16](https://bsky.app/profile/wsj.com/post/3m7tcjay6gu2g)
 
 ---
 
-@japan.reuters.com
+@cnbc.com
 
-中国企業が、ベトナムに投資を進め、事業を拡大させている。同じ社会主義国で国境を接している両国は、領有権問題などを抱え複雑な関係だったが、トランプ米大統領による輸入関税引き上げという逆風が双方を急接近させている。 bit.ly/3YrhQ2s
+Cramer's Lightning Round: Do not sell DuPont de Nemours
 
-[2025-12-13 08:32:18](https://bsky.app/profile/japan.reuters.com/post/3m7taq3o6jn2p)
+[2025-12-13 09:02:55](https://bsky.app/profile/cnbc.com/post/3m7tcgtlecv24)
+
+---
+
+@reuters.com
+
+Cases alleging class action racketeering scheme land in DC court reut.rs/4aeW9dd
+
+[2025-12-13 09:01:23](https://bsky.app/profile/reuters.com/post/3m7tce3smek2p)
+
+---
+
+@usatoday.com
+
+King Charles III, who was diagnosed with cancer in February 2024, gave an update on his condition in a personal video message.
+
+[2025-12-13 09:01:09](https://bsky.app/profile/usatoday.com/post/3m7tcdo7i3d2h)
+
+---
+
+@cnn.com
+
+Adm. Alvin Holsey, the commander of US Southern Command who reportedly clashed with Defense Secretary Pete Hegseth over the legality of US military strikes in the Caribbean, officially retired in a ceremony in Florida where he handed the reins of the command to his deputy. https://cnn.it/3KZpPRl
+
+[2025-12-13 09:01:03](https://bsky.app/profile/cnn.com/post/3m7tcdjezbt2c)
+
+---
+
+@nikkei.com
+
+「エディントンへようこそ」アリ・アスターが描くアメリカ　映画評7本
+www.nikkei.com/article/DGXZQO...
+
+まずは脚本の巧みさに引きこまれる。IT企業誘致をめぐる政治劇を物語全体の軸にしつつ、コロナのパンデミックの恐慌状態を背景に置き、SNSと陰謀論に支配されるアメリカの素顔を恐ろしいほどくっきりと照らしだす。
+
+――映画評論家の中条省平氏による映画評です。
+
+[2025-12-13 09:00:52](https://bsky.app/profile/nikkei.com/post/3m7tcd63nn22x)
+
+---
+
+@apnews.com
+
+At long last, vindication has arrived for an Oscar-winning composer who sought to prove he was as capable of breathing life into Italy’s grand theaters as into gritty Hollywood films.
+
+[2025-12-13 09:00:19](https://bsky.app/profile/apnews.com/post/3m7tcc7csuq25)
+
+---
+
+@cnbc.com
+
+JPMorgan Chase CEO Jamie Dimon says that people with strong communication, critical thinking and emotional intelligence skills will find jobs in the age of AI.
+
+Here's why.
+
+[2025-12-13 09:00:17](https://bsky.app/profile/cnbc.com/post/3m7tcc57yag24)
+
+---
+
+@washingtonpost.com
+
+House Republicans unveiled a new health care proposal as they aim to address concerns about rising health insurance costs just weeks before enhanced Affordable Care Act subsidies expire.
+
+[2025-12-13 09:00:13](https://bsky.app/profile/washingtonpost.com/post/3m7tcbzmf7z24)
 
 ---
 
