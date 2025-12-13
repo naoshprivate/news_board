@@ -1,9 +1,9 @@
-# [2025-12-14 03:51 updated](2025_12_14.md)
+# [2025-12-14 04:10 updated](2025_12_14.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">A woman faces felony charges after she was accused of spraying a food order she was delivering to an Indiana home for DoorDash with an unknown aerosol after which two people fell ill, officials said on Friday. <a href="https://bsky.app/profile/nytimes.com/post/3m7vbgebsh32y" target="_blank">nytimes.com</a> (2025-12-14 03:50:05)</span><span style="padding-right:50px;">More than 126 cases have been declared in the latest outbreak and 303 people have been quarantined.  <a href="https://bsky.app/profile/forbes.com/post/3m7vbgdzhxf2l" target="_blank">forbes.com</a> (2025-12-14 03:50:04)</span><span style="padding-right:50px;">Israel said it killed the head of weapons production in Hamas's military wing in a strike in the Gaza Strip on Saturday.  u.afp.com/S7Lp <a href="https://bsky.app/profile/en.afp.com/post/3m7vb5dk7662q" target="_blank">en.afp.com</a> (2025-12-14 03:45:02)</span><span style="padding-right:50px;">Trump administration officials want to recruit around 10,000 troops under a U.S. general to stabilize postwar Gaza, officials say, but some governments are reluctant to commit to a mission that could expand to disarming Hamas. on.wsj.com/3KswDa4 <a href="https://bsky.app/profile/wsj.com/post/3m7vb2qsv4l2e" target="_blank">wsj.com</a> (2025-12-14 03:43:35)</span><span style="padding-right:50px;">Dolphins RB De’Von Achane set to play vs. Steelers reut.rs/3Kyt6ae <a href="https://bsky.app/profile/reuters.com/post/3m7vauuecpp23" target="_blank">reuters.com</a> (2025-12-14 03:40:17)</span>
+<span style="padding-right:50px;">In California’s fire country, even the most hardened home can go up in flames if the house next door isn’t prepared. <a href="https://bsky.app/profile/bloomberg.com/post/3m7vciecsmk2e" target="_blank">bloomberg.com</a> (2025-12-14 04:09:05)</span><span style="padding-right:50px;">Palmer's cool finish warms the hearts of Chelsea fans reut.rs/4pvQfJv <a href="https://bsky.app/profile/reuters.com/post/3m7vcbj42uq2r" target="_blank">reuters.com</a> (2025-12-14 04:05:15)</span><span style="padding-right:50px;">Beans were the breakout star of 2025, according to Grubhub.  Insights published by the Chicago, Illinois-based company suggest that "foodmaxxing" reached new heights this year, with an increase in orders that were nutritious, functional and pleasing to the eye.  Read more: bit.ly/4pGaAMg <a href="https://bsky.app/profile/usatoday.com/post/3m7vcbafboc2z" target="_blank">usatoday.com</a> (2025-12-14 04:05:06)</span><span style="padding-right:50px;">President Trump says "we will retaliate" after three Americans are killed in a Syria attack that the U.S. blames on the Islamic State group. <a href="https://bsky.app/profile/apnews.com/post/3m7vc7r3xjs2q" target="_blank">apnews.com</a> (2025-12-14 04:04:17)</span><span style="padding-right:50px;">Maresca says he has just been through his worst days at Chelsea reut.rs/4pZwgTa <a href="https://bsky.app/profile/reuters.com/post/3m7vc24asgr2s" target="_blank">reuters.com</a> (2025-12-14 04:01:07)</span>
   </div>
 </div>
 
@@ -32,98 +32,102 @@
 
 ## News Headlines
 
-Here are six important stories with Japanese headlines:
+Here are the six headlines in Japanese:
 
-1. ドルダッシュ運送員が食事を不明のスプレーで汚染　２人が病気になった
-2. ガザでイスラエルがハマースの軍事指揮官を殺害
-3. ドルダッシュの運送員が食事を不明のスプレーで汚染　２人を襲った
-4. ガザでイスラエルがハマースの指揮官を殺害　停戦が不安定化
-5. 米軍がシリアで攻撃を受け、2人の兵士と解釈官が死亡
-6. ドルダッシュの運送員が食事を不明のスプレーで汚染　2人を襲った
+1. 1人で火事に遭う心配なのは、隣の家が火事になったとき
+2. 2025年は豆がブームだった
+3. シリアでイスラム教系テロが起こり、3人の米国人を殺害
+4. ギリシャチームに好調なパーマー選手
+5. 60%の若者は宗教に属さない
+6. バルカンのクリスマスは、サンタと悪魔の化身の両方
 
 ----
 
-@nytimes.com
+@bloomberg.com
 
-A woman faces felony charges after she was accused of spraying a food order she was delivering to an Indiana home for DoorDash with an unknown aerosol after which two people fell ill, officials said on Friday.
+In California’s fire country, even the most hardened home can go up in flames if the house next door isn’t prepared.
 
-[2025-12-14 03:50:05](https://bsky.app/profile/nytimes.com/post/3m7vbgebsh32y)
-
----
-
-@forbes.com
-
-More than 126 cases have been declared in the latest outbreak and 303 people have been quarantined. 
-
-[2025-12-14 03:50:04](https://bsky.app/profile/forbes.com/post/3m7vbgdzhxf2l)
-
----
-
-@en.afp.com
-
-Israel said it killed the head of weapons production in Hamas's military wing in a strike in the Gaza Strip on Saturday.
-
-u.afp.com/S7Lp
-
-[2025-12-14 03:45:02](https://bsky.app/profile/en.afp.com/post/3m7vb5dk7662q)
-
----
-
-@wsj.com
-
-Trump administration officials want to recruit around 10,000 troops under a U.S. general to stabilize postwar Gaza, officials say, but some governments are reluctant to commit to a mission that could expand to disarming Hamas. on.wsj.com/3KswDa4
-
-[2025-12-14 03:43:35](https://bsky.app/profile/wsj.com/post/3m7vb2qsv4l2e)
+[2025-12-14 04:09:05](https://bsky.app/profile/bloomberg.com/post/3m7vciecsmk2e)
 
 ---
 
 @reuters.com
 
-Dolphins RB De’Von Achane set to play vs. Steelers reut.rs/3Kyt6ae
+Palmer's cool finish warms the hearts of Chelsea fans reut.rs/4pvQfJv
 
-[2025-12-14 03:40:17](https://bsky.app/profile/reuters.com/post/3m7vauuecpp23)
-
----
-
-@nytimes.com
-
-The president of the University of Maryland, Darryll J. Pines, was cleared of plagiarism Friday after a yearlong review prompted by allegations that his published work had lifted significant portions of a 2002 scholarly paper.
-
-[2025-12-14 03:40:02](https://bsky.app/profile/nytimes.com/post/3m7vaufbv472x)
-
----
-
-@reuters.com
-
-Report: Colts to add QB Philip Rivers to active roster reut.rs/4j1sXJc
-
-[2025-12-14 03:35:13](https://bsky.app/profile/reuters.com/post/3m7valsfxzz2y)
+[2025-12-14 04:05:15](https://bsky.app/profile/reuters.com/post/3m7vcbj42uq2r)
 
 ---
 
 @usatoday.com
 
-Obamacare bills are about to spike. But you still have time to save.
+Beans were the breakout star of 2025, according to Grubhub.
 
-[2025-12-14 03:30:28](https://bsky.app/profile/usatoday.com/post/3m7vadbzwlu25)
+Insights published by the Chicago, Illinois-based company suggest that "foodmaxxing" reached new heights this year, with an increase in orders that were nutritious, functional and pleasing to the eye.
+
+Read more: bit.ly/4pGaAMg
+
+[2025-12-14 04:05:06](https://bsky.app/profile/usatoday.com/post/3m7vcbafboc2z)
 
 ---
 
-@bloomberg.com
+@apnews.com
 
-There’s a frenzy of development going on to support the AI revolution, and with it an insatiable demand for debt to fund it.
+President Trump says "we will retaliate" after three Americans are killed in a Syria attack that the U.S. blames on the Islamic State group.
 
-[2025-12-14 03:30:12](https://bsky.app/profile/bloomberg.com/post/3m7vacswqxf2g)
+[2025-12-14 04:04:17](https://bsky.app/profile/apnews.com/post/3m7vc7r3xjs2q)
+
+---
+
+@reuters.com
+
+Maresca says he has just been through his worst days at Chelsea reut.rs/4pZwgTa
+
+[2025-12-14 04:01:07](https://bsky.app/profile/reuters.com/post/3m7vc24asgr2s)
 
 ---
 
 @washingtonpost.com
 
-Dr. Mehmet Oz’s ability to reach an audience is undisputed.
+Gen Z and Gen Alpha have been using “aesthetic” as an adjective or a one-word compliment on social media for a few years now.
 
-But he now faces a test of whether showmanship and affability can win over public support as he guides major Medicaid changes and oversees soaring costs of Affordable Care Act plans.
+But to older ears, it still sounds strange.
 
-[2025-12-14 03:30:05](https://bsky.app/profile/washingtonpost.com/post/3m7vacm2dxb2i)
+[2025-12-14 04:01:01](https://bsky.app/profile/washingtonpost.com/post/3m7vbzwa7ve2p)
+
+---
+
+@usatoday.com
+
+Cook Out teases new locations in 6 states. See upcoming openings.
+
+[2025-12-14 04:00:55](https://bsky.app/profile/usatoday.com/post/3m7vbzqrlz72h)
+
+---
+
+@bloomberg.com
+
+Larry Ellison has ridden the AI boom back to the center of Silicon Valley. What happens to his $300 billion bet if the bubble bursts?
+
+[2025-12-14 04:00:38](https://bsky.app/profile/bloomberg.com/post/3m7vbzatg2c24)
+
+---
+
+@cnbc.com
+
+Close to half, 41% of U.S. adults say they anticipate being more stressed out around the holidays this year than last year, according to a recent poll.
+
+Try these three simple acts that will make you feel more connected with others and closer to the people in your life.
+
+[2025-12-14 04:00:18](https://bsky.app/profile/cnbc.com/post/3m7vbynkiog24)
+
+---
+
+@apnews.com
+
+Lindsey Vonn nearly did it again.
+
+[2025-12-14 04:00:15](https://bsky.app/profile/apnews.com/post/3m7vbykmi2s2d)
 
 ---
 
