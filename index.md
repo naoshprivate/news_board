@@ -1,9 +1,9 @@
-# [2025-12-13 09:30 updated](2025_12_13.md)
+# [2025-12-13 09:50 updated](2025_12_13.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">US FDA approves Innoviva's oral antibiotic for gonorrhea reut.rs/4iQTZCG <a href="https://bsky.app/profile/reuters.com/post/3m7tdon5twi2k" target="_blank">reuters.com</a> (2025-12-13 09:25:10)</span><span style="padding-right:50px;">アルペンスキーのワールドカップ（Ｗ杯）は１２日、スイスのサンモリッツで女子滑降を行い、４１歳のリンゼイ・ボン（米国）が歴代最年長での優勝を果たした。 bit.ly/3YqjKAs <a href="https://bsky.app/profile/japan.reuters.com/post/3m7tdiemaua22" target="_blank">japan.reuters.com</a> (2025-12-13 09:21:40)</span><span style="padding-right:50px;">Trump honors "Miracle on Ice" U.S. Olympic men's hockey team during Congressional Medal Act signing. <a href="https://bsky.app/profile/cbsnews.com/post/3m7tdfg37jc2b" target="_blank">cbsnews.com</a> (2025-12-13 09:20:01)</span><span style="padding-right:50px;">US lawmakers question basis for allowing sale of Nvidia H200 chips to China on.ft.com/44oD1Wq <a href="https://bsky.app/profile/financialtimes.com/post/3m7td7tjccl2k" target="_blank">financialtimes.com</a> (2025-12-13 09:16:54)</span><span style="padding-right:50px;">Tunisia sentences top opposition figure Abir Moussi to 12 years reut.rs/48RTjIX <a href="https://bsky.app/profile/reuters.com/post/3m7td52khuo24" target="_blank">reuters.com</a> (2025-12-13 09:15:20)</span>
+<span style="padding-right:50px;">豪の16歳未満SNS禁止法 米の掲示板運営会社が豪政府を提訴 https://news.web.nhk/newsweb/na/na-k10015002811000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7texljijt2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-13 09:48:02)</span><span style="padding-right:50px;">サッカーのイングランド・プレミアリーグ、リバプールは１２日、日本代表ＭＦ遠藤航が足首の負傷により数週間離脱することを明らかにした。公式サイトで発表した。 bit.ly/44qIAnh <a href="https://bsky.app/profile/japan.reuters.com/post/3m7tetgxsfd2c" target="_blank">japan.reuters.com</a> (2025-12-13 09:45:45)</span><span style="padding-right:50px;">欧州連合（ＥＵ）は１２日、域内で管理されているロシア中央銀行の資産を無期限で凍結することで合意した。これまでは６カ月ごとに凍結の延長の是非を巡る投票を実施していたが、無期限で凍結することで、ロシアと比較的良好な関係を持つハンガリーやスロバキアなどが反対する事態を防ぐ狙いがあるとみられる。 bit.ly/44oNSzN <a href="https://bsky.app/profile/japan.reuters.com/post/3m7tesokc7o2c" target="_blank">japan.reuters.com</a> (2025-12-13 09:45:20)</span><span style="padding-right:50px;">Report: Rapids to hire Tottenham assistant as head coach reut.rs/4q0FY7W <a href="https://bsky.app/profile/reuters.com/post/3m7teskuh3t2o" target="_blank">reuters.com</a> (2025-12-13 09:45:16)</span><span style="padding-right:50px;">Has Venezuela been ditched by its strongest allies - Russia and China? <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7terdbiwa2r" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-13 09:44:34)</span>
   </div>
 </div>
 
@@ -32,96 +32,95 @@
 
 ## News Headlines
 
-以下の6つのニュースの見出しを日本語に翻訳します。
+以下の6つのニュースの見出しです。
 
-1. US FDA approves Innoviva's oral antibiotic for gonorrhea
-2. アルペンスキーのワールドカップで41歳のリンゼイ・ボンが歴代最年長での優勝
-3. トランプ政権が中国へのAIチップの売却を許可した理由を質問する米国議員
-4. ワクチン関連の複雑な論争を抱え、インドネシアのモスクに近づくことが困難
-5. 「エディントンへようこそ」アリ・アスターが描くアメリカ　映画評
-6. 米国が中国を超えるために、軍事的優位性を追求する必要がある
+*豪の16歳未満SNS禁止法 米の掲示板運営会社が豪政府を提訴*
+*サッカーのイングランド・プレミアリーグ、リバプールのMF遠藤航が数週間離脱*
+*欧州連合、ロシア中央銀行の資産凍結を無期限で*
+*SpaceX、ロケットと衛星メーカーの価値が約800億ドルに*
+*ノルディックスキーのワールドカップ、丸山希が今季4勝目を挙げる*
+*ウクライナ南部でロシアの攻撃、トルコ所有の船舶3隻が損傷*
 
 ----
 
-@reuters.com
+@nhknewsunofficial.bsky.social
 
-US FDA approves Innoviva's oral antibiotic for gonorrhea reut.rs/4iQTZCG
+豪の16歳未満SNS禁止法 米の掲示板運営会社が豪政府を提訴
+https://news.web.nhk/newsweb/na/na-k10015002811000
 
-[2025-12-13 09:25:10](https://bsky.app/profile/reuters.com/post/3m7tdon5twi2k)
+[2025-12-13 09:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7texljijt2u)
 
 ---
 
 @japan.reuters.com
 
-アルペンスキーのワールドカップ（Ｗ杯）は１２日、スイスのサンモリッツで女子滑降を行い、４１歳のリンゼイ・ボン（米国）が歴代最年長での優勝を果たした。 bit.ly/3YqjKAs
+サッカーのイングランド・プレミアリーグ、リバプールは１２日、日本代表ＭＦ遠藤航が足首の負傷により数週間離脱することを明らかにした。公式サイトで発表した。 bit.ly/44qIAnh
 
-[2025-12-13 09:21:40](https://bsky.app/profile/japan.reuters.com/post/3m7tdiemaua22)
-
----
-
-@cbsnews.com
-
-Trump honors "Miracle on Ice" U.S. Olympic men's hockey team during Congressional Medal Act signing.
-
-[2025-12-13 09:20:01](https://bsky.app/profile/cbsnews.com/post/3m7tdfg37jc2b)
+[2025-12-13 09:45:45](https://bsky.app/profile/japan.reuters.com/post/3m7tetgxsfd2c)
 
 ---
 
-@financialtimes.com
+@japan.reuters.com
 
-US lawmakers question basis for allowing sale of Nvidia H200 chips to China on.ft.com/44oD1Wq
+欧州連合（ＥＵ）は１２日、域内で管理されているロシア中央銀行の資産を無期限で凍結することで合意した。これまでは６カ月ごとに凍結の延長の是非を巡る投票を実施していたが、無期限で凍結することで、ロシアと比較的良好な関係を持つハンガリーやスロバキアなどが反対する事態を防ぐ狙いがあるとみられる。 bit.ly/44oNSzN
 
-[2025-12-13 09:16:54](https://bsky.app/profile/financialtimes.com/post/3m7td7tjccl2k)
+[2025-12-13 09:45:20](https://bsky.app/profile/japan.reuters.com/post/3m7tesokc7o2c)
 
 ---
 
 @reuters.com
 
-Tunisia sentences top opposition figure Abir Moussi to 12 years reut.rs/48RTjIX
+Report: Rapids to hire Tottenham assistant as head coach reut.rs/4q0FY7W
 
-[2025-12-13 09:15:20](https://bsky.app/profile/reuters.com/post/3m7td52khuo24)
-
----
-
-@en.afp.com
-
-Almost two weeks on from devastating floods, Muslim worshipers in Indonesia's Sumatra who gathered at their local mosque on Friday for prayers were blocked from entering by a huge pile of thousands of uprooted trees.
-
-u.afp.com/S762
-
-[2025-12-13 09:15:03](https://bsky.app/profile/en.afp.com/post/3m7td4jp6xx2q)
+[2025-12-13 09:45:16](https://bsky.app/profile/reuters.com/post/3m7teskuh3t2o)
 
 ---
 
-@reuters.com
+@bbcnews-world-rss.bsky.social
 
-First Brands seeks access to customer payments held up in bankruptcy reut.rs/4iUZQqQ
+Has Venezuela been ditched by its strongest allies - Russia and China?
 
-[2025-12-13 09:10:33](https://bsky.app/profile/reuters.com/post/3m7tcuigmqa2r)
+[2025-12-13 09:44:34](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7terdbiwa2r)
 
 ---
 
 @reuters.com
 
-Trump administration unlikely to finalize 2026 biofuel quotas this year, sources say reut.rs/3YvOLTv
+Premier League clubs prepare for AFCON exodus reut.rs/4iUk9ol
 
-[2025-12-13 09:05:15](https://bsky.app/profile/reuters.com/post/3m7tckz2rwl2y)
-
----
-
-@wsj.com
-
-In a profession known for hot tempers, Sylvain Delpique at the New York hotel says his mantra is to absorb the stress on.wsj.com/48RUW9i
-
-[2025-12-13 09:04:16](https://bsky.app/profile/wsj.com/post/3m7tcjay6gu2g)
+[2025-12-13 09:40:15](https://bsky.app/profile/reuters.com/post/3m7tejmb5gv2b)
 
 ---
 
-@cnbc.com
+@bloomberg.com
 
-Cramer's Lightning Round: Do not sell DuPont de Nemours
+SpaceX has authorized an insider share sale that values Elon Musk’s rocket and satellite maker at about $800 billion, according to a company message seen by Bloomberg
 
-[2025-12-13 09:02:55](https://bsky.app/profile/cnbc.com/post/3m7tcgtlecv24)
+[2025-12-13 09:40:10](https://bsky.app/profile/bloomberg.com/post/3m7tejgtv2x23)
+
+---
+
+@nytimes.com
+
+As our Food staff ventured across the U.S. for months to find the best restaurants of the year, we didn’t neglect sweet treats: Here are our favorite desserts of 2025.
+
+[2025-12-13 09:40:07](https://bsky.app/profile/nytimes.com/post/3m7tejeknc62v)
+
+---
+
+@npr.org
+
+NPR's Steve Inskeep speaks with FDA Commissioner Martin Makary about the decline in testosterone in men in the U.S. and what his agency wants to do about it. n.pr/4oSpMVp
+
+[2025-12-13 09:37:46](https://bsky.app/profile/npr.org/post/3m7tef5eyho24)
+
+---
+
+@reuters.com
+
+Wall St Week Ahead Investors eager for delayed data to shed light on US economy reut.rs/4qcputH
+
+[2025-12-13 09:35:11](https://bsky.app/profile/reuters.com/post/3m7teajtruc2i)
 
 ---
 
