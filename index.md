@@ -1,9 +1,9 @@
-# [2025-12-13 16:30 updated](2025_12_13.md)
+# [2025-12-13 16:50 updated](2025_12_13.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Raiders' Kenny Pickett, an ex-Eagle, to face former club reut.rs/4pv6JBD <a href="https://bsky.app/profile/reuters.com/post/3m7u2lwhbeo2o" target="_blank">reuters.com</a> (2025-12-13 16:15:15)</span><span style="padding-right:50px;">エプスタイン氏とトランプ氏・クリントン氏らの写真公開　米下院民主党（無料記事） www.nikkei.com/article/DGXZQO...  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m7u2l6crvg24" target="_blank">nikkei.com</a> (2025-12-13 16:14:50)</span><span style="padding-right:50px;">A Niagara Falls wreck and the rescue that saved two Americans <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7u2cyyhh52r" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-13 16:10:15)</span><span style="padding-right:50px;">Indiana's Fernando Mendoza headlines college football award winners reut.rs/4iYrRhd <a href="https://bsky.app/profile/reuters.com/post/3m7u2cs4huw23" target="_blank">reuters.com</a> (2025-12-13 16:10:09)</span><span style="padding-right:50px;">Canucks trade former Norris Trophy winner Quinn Hughes to Wild reut.rs/48SglPV <a href="https://bsky.app/profile/reuters.com/post/3m7tzzup2vu2y" target="_blank">reuters.com</a> (2025-12-13 16:05:10)</span>
+<span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】集合住宅で火災 「3階から煙が出ています」と消防に通報 消防車など25台が出動し消火活動中 大阪・住吉区 (2025-12-13 16:30) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7u4cbkgnp2b" target="_blank">sokuho.news</a> (2025-12-13 16:45:39)</span><span style="padding-right:50px;">Iran detains 18 crew members of foreign tanker seized in Gulf of Oman reut.rs/4q15KsI <a href="https://bsky.app/profile/reuters.com/post/3m7u4bhuj452k" target="_blank">reuters.com</a> (2025-12-13 16:45:12)</span><span style="padding-right:50px;">In America, the average man can expect to live 75.8 years. Mick Jagger, the demonic frontman of the Rolling Stones, turns 82 on Dec. 18  Solving the mystery of the guitarist’s longevity may be the best hope the rest of us have of aging gracefully.  🔗: on.wsj.com/3KGC3OM <a href="https://bsky.app/profile/wsj.com/post/3m7u46oznk72z" target="_blank">wsj.com</a> (2025-12-13 16:43:39)</span><span style="padding-right:50px;">Blackhawks' Connor Bedard hurt on faceoff, out Saturday reut.rs/44mNkKH <a href="https://bsky.app/profile/reuters.com/post/3m7u3yfhzo42c" target="_blank">reuters.com</a> (2025-12-13 16:40:07)</span><span style="padding-right:50px;">Reports: Indiana DC Bryant Haines lands lucrative deal reut.rs/4oWuFwK <a href="https://bsky.app/profile/reuters.com/post/3m7u3pitbhv2b" target="_blank">reuters.com</a> (2025-12-13 16:35:09)</span>
   </div>
 </div>
 
@@ -32,108 +32,106 @@
 
 ## News Headlines
 
-1. エプスタイン氏とトランプ氏・クリントン氏らの写真公開
-2. 中国 「南京事件」の追悼式典で日本をけん制
-3. 長野 松本城で恒例のすす払い 天守や黒門のほこり落とす
-4. 阪神 村上頌樹 推定年俸2億3000万円に大幅アップで契約更改
-5. サッカーJ2 ジェフ千葉がJ1復帰決める 17年ぶり
-6. 北朝鮮 キム総書記がロシア派遣部隊の犠牲者悼む様子報じる
+1. 大阪・住吉区で集合住宅火災　消防車25台出動
+2. イラン、外国タンカーの乗組員18人を拘束
+3. ローリングストーンズのミックジャガー氏が82歳の誕生日
+4. インドアナザー・コロシアムでイングランドとニュージーランドの試合
+5. 中国、南京事件を追悼する式典で日本をけん制
+6. 長野・松本城で恒例のすす払い　天守や黒門のほこり落とす
 
 ----
 
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】集合住宅で火災 「3階から煙が出ています」と消防に通報 消防車など25台が出動し消火活動中 大阪・住吉区
+(2025-12-13 16:30) #ニュース
+
+[2025-12-13 16:45:39](https://bsky.app/profile/sokuho.news/post/3m7u4cbkgnp2b)
+
+---
+
 @reuters.com
 
-Raiders' Kenny Pickett, an ex-Eagle, to face former club reut.rs/4pv6JBD
+Iran detains 18 crew members of foreign tanker seized in Gulf of Oman reut.rs/4q15KsI
 
-[2025-12-13 16:15:15](https://bsky.app/profile/reuters.com/post/3m7u2lwhbeo2o)
+[2025-12-13 16:45:12](https://bsky.app/profile/reuters.com/post/3m7u4bhuj452k)
+
+---
+
+@wsj.com
+
+In America, the average man can expect to live 75.8 years. Mick Jagger, the demonic frontman of the Rolling Stones, turns 82 on Dec. 18
+
+Solving the mystery of the guitarist’s longevity may be the best hope the rest of us have of aging gracefully. 
+🔗: on.wsj.com/3KGC3OM
+
+[2025-12-13 16:43:39](https://bsky.app/profile/wsj.com/post/3m7u46oznk72z)
+
+---
+
+@reuters.com
+
+Blackhawks' Connor Bedard hurt on faceoff, out Saturday reut.rs/44mNkKH
+
+[2025-12-13 16:40:07](https://bsky.app/profile/reuters.com/post/3m7u3yfhzo42c)
+
+---
+
+@reuters.com
+
+Reports: Indiana DC Bryant Haines lands lucrative deal reut.rs/4oWuFwK
+
+[2025-12-13 16:35:09](https://bsky.app/profile/reuters.com/post/3m7u3pitbhv2b)
 
 ---
 
 @nikkei.com
 
-エプスタイン氏とトランプ氏・クリントン氏らの写真公開　米下院民主党（無料記事）
+サンリオ「キティを悪い子に」でバズ狙わず
 www.nikkei.com/article/DGXZQO...
 
-#ニュース
+ハローキティに口を描かないのは、どんな心の状態の人にも寄り添うため――。
 
-[2025-12-13 16:14:50](https://bsky.app/profile/nikkei.com/post/3m7u2l6crvg24)
+Netflixで配信した「マイメロディ&クロミ」はグローバルで2位を獲得。「はなまるおばけ」など新キャラクターも浸透し始めています。
 
----
+世界で愛されるキャラクターを作る極意を、山田周平執行役員デザイン本部長に聞きました。
 
-@bbcnews-world-rss.bsky.social
-
-A Niagara Falls wreck and the rescue that saved two Americans
-
-[2025-12-13 16:10:15](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7u2cyyhh52r)
+[2025-12-13 16:30:36](https://bsky.app/profile/nikkei.com/post/3m7u3hea7g32y)
 
 ---
 
 @reuters.com
 
-Indiana's Fernando Mendoza headlines college football award winners reut.rs/4iYrRhd
+Philippines says fishermen hurt, boats damaged by China in South China Sea reut.rs/4pKXnll
 
-[2025-12-13 16:10:09](https://bsky.app/profile/reuters.com/post/3m7u2cs4huw23)
+[2025-12-13 16:30:18](https://bsky.app/profile/reuters.com/post/3m7u3gt5maj2p)
+
+---
+
+@aljazeera.com
+
+Bolivia jails ex-president Arce on corruption charges ahead of trial https://aje.io/e0vzy1
+
+[2025-12-13 16:30:03](https://bsky.app/profile/aljazeera.com/post/3m7u3gf4f7p2d)
 
 ---
 
 @reuters.com
 
-Canucks trade former Norris Trophy winner Quinn Hughes to Wild reut.rs/48SglPV
+China to boost exports, imports in 2026, seeking 'sustainable' trade, official says reut.rs/4oVoGbo
 
-[2025-12-13 16:05:10](https://bsky.app/profile/reuters.com/post/3m7tzzup2vu2y)
-
----
-
-@cnn.com
-
-Every night Taylor Swift stepped out to perform on the Eras Tour, she became a symbol as much as a person – the biggest pop star of her generation who had created a billion-dollar phenomenon. 
-
-[2025-12-13 16:02:01](https://bsky.app/profile/cnn.com/post/3m7tzuathxc2a)
+[2025-12-13 16:25:08](https://bsky.app/profile/reuters.com/post/3m7u35lquen2b)
 
 ---
 
-@cnn.com
+@nhknewsunofficial.bsky.social
 
-It's a new face in Britain’s anti-immigration movement.
+観測網「S-net」で緊急地震速報発表が青森県沖では約3秒早まる
+https://news.web.nhk/newsweb/na/na-k10015003151000
 
-Members of the Pink Ladies grassroots movement stage demonstrations across the country to warn of the dangers they say illegal migrants pose to women and girls.
-
-[2025-12-13 16:01:01](https://bsky.app/profile/cnn.com/post/3m7tzshvq6m22)
-
----
-
-@reuters.com
-
-Hazlewood not done with test cricket despite Ashes disappointment reut.rs/4q0DwhI
-
-[2025-12-13 16:00:51](https://bsky.app/profile/reuters.com/post/3m7tzs5pcgg23)
-
----
-
-@nikkei.com
-
-山陰観光、朝ドラ「ばけばけ」と大阪万博で沸く
-www.nikkei.com/article/DGXZQO...
-
-JR西日本は「ばけばけ」の舞台の島根県松江市と連携し、小泉八雲記念館・旧居のほか、八雲がよく訪れた城山稲荷神社などを巡るツアーを開始。
-
-八雲の石像を設置したり、ゆかりの料理や洋菓子のメニューを開発したりといった動きもあります。
-
-鳥取県は大阪・関西万博で外交戦略「サンド・アライアンス（砂同盟）」が話題を呼び、多くの観光客が訪れています。
-
-[2025-12-13 16:00:36](https://bsky.app/profile/nikkei.com/post/3m7tzrpujt32m)
-
----
-
-@cnbc.com
-
-It can be easy to take an extreme approach if you're stressed out about your budget.
-
-But that's not going to fix the problem, financial therapist says.
-
-Between the two extremes, “Adaptability is what is most important,” to develop healthy spending habits, she says.
-
-[2025-12-13 16:00:22](https://bsky.app/profile/cnbc.com/post/3m7tzrc5thz23)
+[2025-12-13 16:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7u33ovuop2m)
 
 ---
 
