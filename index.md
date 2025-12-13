@@ -1,9 +1,9 @@
-# [2025-12-13 15:30 updated](2025_12_13.md)
+# [2025-12-13 15:50 updated](2025_12_13.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">映画監督の原田眞人さん死去 76歳 社会派の作品多く手がける https://news.web.nhk/newsweb/na/na-k10015003091000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7txvrjdmd2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-13 15:27:02)</span><span style="padding-right:50px;">JPMorgan's Dimon signals support for Kevin Warsh as Fed chair, FT reports reut.rs/4p3iIpa <a href="https://bsky.app/profile/reuters.com/post/3m7txsbzc352o" target="_blank">reuters.com</a> (2025-12-13 15:25:08)</span><span style="padding-right:50px;">阪神 村上頌樹 推定年俸2億3000万円に大幅アップで契約更改 https://news.web.nhk/newsweb/na/na-k10015003101000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7txl2kzt726" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-13 15:21:03)</span><span style="padding-right:50px;">サッカーJ2 ジェフ千葉がJ1復帰決める 17年ぶり https://news.web.nhk/newsweb/na/na-k10015003121000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7txfp4cpm2l" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-13 15:18:03)</span><span style="padding-right:50px;">US House Republican healthcare plan does not extend Obamacare subsidies reut.rs/3KJcGfa <a href="https://bsky.app/profile/reuters.com/post/3m7txakaknu2r" target="_blank">reuters.com</a> (2025-12-13 15:15:12)</span>
+<span style="padding-right:50px;">Sorry, that page was not found <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7tz5godf32b" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-13 15:49:15)</span><span style="padding-right:50px;">Doorbell camera captures moment Hayward, California home explodes <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7tz3jqg4a2r" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-13 15:48:11)</span><span style="padding-right:50px;">Huawei's latest handset uses improved China-made chip, report shows reut.rs/4aL6ygS <a href="https://bsky.app/profile/reuters.com/post/3m7tyw7ozfz24" target="_blank">reuters.com</a> (2025-12-13 15:45:13)</span><span style="padding-right:50px;">中国 「南京事件」の追悼式典で日本をけん制 https://news.web.nhk/newsweb/na/na-k10015003111000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7tyvxfhcv2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-13 15:45:03)</span><span style="padding-right:50px;">China holds low-key Nanjing Massacre memorial despite Japan tensions reut.rs/48ShdUs <a href="https://bsky.app/profile/reuters.com/post/3m7tyn6ace623" target="_blank">reuters.com</a> (2025-12-13 15:40:10)</span>
   </div>
 </div>
 
@@ -32,96 +32,94 @@
 
 ## News Headlines
 
-1. 映画監督の原田眞人さん死去 76歳 社会派の作品多く手がける
-2. JPMorganのディモンの支持を受けたワース氏が連邦準備理事会議長に候補
-3. 阪神 村上頌樹 推定年俸2億3000万円に大幅アップで契約更改
-4. サッカーJ2 ジェフ千葉がJ1復帰決める 17年ぶり
-5. 北朝鮮 キム総書記がロシア派遣部隊の犠牲者悼む様子報じる
-6. JR東日本、Suicaにバーコード決済　数十万円上限でPayPayに対抗
+1. 東海地震発生　最大震度2を観測
+2. ジェフ千葉がJ1復帰決定　17年ぶり
+3. JR東日本　Suicaにバーコード決済を導入
+4. 中国「南京事件」追悼式典　日本をけん制
+5. ヴォルティスがJ1昇格ならず　プレーオフ決勝で千葉に敗退
+6. 原田眞人監督が死去　76歳
 
 ----
 
-@nhknewsunofficial.bsky.social
+@bbcnews-world-rss.bsky.social
 
-映画監督の原田眞人さん死去 76歳 社会派の作品多く手がける
-https://news.web.nhk/newsweb/na/na-k10015003091000
+Sorry, that page was not found
 
-[2025-12-13 15:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7txvrjdmd2v)
+[2025-12-13 15:49:15](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7tz5godf32b)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Doorbell camera captures moment Hayward, California home explodes
+
+[2025-12-13 15:48:11](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7tz3jqg4a2r)
 
 ---
 
 @reuters.com
 
-JPMorgan's Dimon signals support for Kevin Warsh as Fed chair, FT reports reut.rs/4p3iIpa
+Huawei's latest handset uses improved China-made chip, report shows reut.rs/4aL6ygS
 
-[2025-12-13 15:25:08](https://bsky.app/profile/reuters.com/post/3m7txsbzc352o)
-
----
-
-@nhknewsunofficial.bsky.social
-
-阪神 村上頌樹 推定年俸2億3000万円に大幅アップで契約更改
-https://news.web.nhk/newsweb/na/na-k10015003101000
-
-[2025-12-13 15:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7txl2kzt726)
+[2025-12-13 15:45:13](https://bsky.app/profile/reuters.com/post/3m7tyw7ozfz24)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-サッカーJ2 ジェフ千葉がJ1復帰決める 17年ぶり
-https://news.web.nhk/newsweb/na/na-k10015003121000
+中国 「南京事件」の追悼式典で日本をけん制
+https://news.web.nhk/newsweb/na/na-k10015003111000
 
-[2025-12-13 15:18:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7txfp4cpm2l)
-
----
-
-@reuters.com
-
-US House Republican healthcare plan does not extend Obamacare subsidies reut.rs/3KJcGfa
-
-[2025-12-13 15:15:12](https://bsky.app/profile/reuters.com/post/3m7txakaknu2r)
-
----
-
-@financialtimes.com
-
-Could America win the AI race but lose the war? on.ft.com/44r03Mn
-
-[2025-12-13 15:13:49](https://bsky.app/profile/financialtimes.com/post/3m7tx633ms32c)
-
----
-
-@cnbc.com
-
-Hannah Rothschild on privilege, duty and shaping a centuries-old family legacy
-
-[2025-12-13 15:12:50](https://bsky.app/profile/cnbc.com/post/3m7tx4cwwcd2d)
-
----
-
-@nhknewsunofficial.bsky.social
-
-北朝鮮 キム総書記がロシア派遣部隊の犠牲者悼む様子報じる
-https://news.web.nhk/newsweb/na/na-k10015003061000
-
-[2025-12-13 15:12:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7tx2xvmkv2s)
+[2025-12-13 15:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7tyvxfhcv2v)
 
 ---
 
 @reuters.com
 
-Canada's WestJet to pause non-adjustable seat rollout, seek passenger feedback reut.rs/3KO7mXV
+China holds low-key Nanjing Massacre memorial despite Japan tensions reut.rs/48ShdUs
 
-[2025-12-13 15:10:08](https://bsky.app/profile/reuters.com/post/3m7twxhzuk42i)
+[2025-12-13 15:40:10](https://bsky.app/profile/reuters.com/post/3m7tyn6ace623)
+
+---
+
+@japan.reuters.com
+
+米プロバスケットボール協会（ＮＢＡ）は１２日、各地で試合を行い、ピストンズはホークスに１４２─１１５で大勝し、３連勝とした。 bit.ly/4q4BBsm
+
+[2025-12-13 15:40:00](https://bsky.app/profile/japan.reuters.com/post/3m7tymv7qvt26)
+
+---
+
+@wsj.com
+
+The self-proclaimed Fashion Whisperer of Boston was a star stylist for the city’s elite. Saks says he scammed it out of $400,000. 🔗 on.wsj.com/4pAXIXV
+
+[2025-12-13 15:36:06](https://bsky.app/profile/wsj.com/post/3m7tyfvzqyk2q)
 
 ---
 
 @reuters.com
 
-SpaceX insider share sale sets $800 billion valuation amid possible IPO, letter shows reut.rs/48BhAUB
+Jury orders Johnson & Johnson to pay $40 million to two women in latest talc trial reut.rs/3YqGxw0
 
-[2025-12-13 15:05:06](https://bsky.app/profile/reuters.com/post/3m7twoiktb62y)
+[2025-12-13 15:35:07](https://bsky.app/profile/reuters.com/post/3m7tye5g5ve2y)
+
+---
+
+@nikkei.com
+
+「週休3日」求人、5年で2.8倍　求職者の関心高く
+www.nikkei.com/article/DGXZQO...
+
+[2025-12-13 15:30:35](https://bsky.app/profile/nikkei.com/post/3m7ty422ygn2m)
+
+---
+
+@reuters.com
+
+US seized tanker near Venezuela just as warrant was set to expire, court document shows reut.rs/4oVNuAf
+
+[2025-12-13 15:30:31](https://bsky.app/profile/reuters.com/post/3m7ty3wczpi2c)
 
 ---
 
