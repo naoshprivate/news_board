@@ -1,9 +1,9 @@
-# [2025-12-14 02:50 updated](2025_12_14.md)
+# [2025-12-14 03:10 updated](2025_12_14.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">US says Belarus agreed to stop balloon flyovers into Lithuania reut.rs/4qbwIy4 <a href="https://bsky.app/profile/reuters.com/post/3m7v5sezg2c23" target="_blank">reuters.com</a> (2025-12-14 02:45:13)</span><span style="padding-right:50px;">Staff Sgt. Andrew Wolfe, 24, was hospitalized after a gunman opened fire on him and another National Guard member.  He is now breathing on his own and can stand with assistance, his neurosurgeon said. <a href="https://bsky.app/profile/washingtonpost.com/post/3m7v5s2vn532m" target="_blank">washingtonpost.com</a> (2025-12-14 02:45:02)</span><span style="padding-right:50px;">A man who spent more than a quarter-century on death row for the robbery and murder of a woman at an Ohio hotel had his case dismissed Friday by prosecutors.  <a href="https://bsky.app/profile/cbsnews.com/post/3m7v5rzifo62a" target="_blank">cbsnews.com</a> (2025-12-14 02:45:01)</span><span style="padding-right:50px;">Breaking News: Two American soldiers and an American interpreter were killed in an attack in central Syria on Saturday, U.S. military officials said. <a href="https://bsky.app/profile/nytimes.com/post/3m7v5rs6lus2x" target="_blank">nytimes.com</a> (2025-12-14 02:44:53)</span><span style="padding-right:50px;">BREAKING: Two U.S. soldiers and an interpreter were killed in an attack in Syria, Pentagon says. <a href="https://bsky.app/profile/nbcnews.com/post/3m7v5ndkllw22" target="_blank">nbcnews.com</a> (2025-12-14 02:42:24)</span>
+<span style="padding-right:50px;">Bangladesh says peacekeepers killed, injured in Sudan UN base attack reut.rs/4akLCxj <a href="https://bsky.app/profile/reuters.com/post/3m7v6w3cdyg2r" target="_blank">reuters.com</a> (2025-12-14 03:05:11)</span><span style="padding-right:50px;">Mohamed Salah set up a goal in Liverpool's 2-0 win against Brighton on Saturday as the Egyptian superstar returned to action after an explosive outburst cast doubt over his future at the Premier League champions.  u.afp.com/S7Lc <a href="https://bsky.app/profile/en.afp.com/post/3m7v6vsgtbd2q" target="_blank">en.afp.com</a> (2025-12-14 03:05:02)</span><span style="padding-right:50px;">In Salzburg, Austria, Christmas involves both St. Nick and Krampus, a mythological punisher with roots stretching back to late antiquity and many fans in the present-day Central Alps. n.pr/3XSG1Xy <a href="https://bsky.app/profile/npr.org/post/3m7v6ut2knf24" target="_blank">npr.org</a> (2025-12-14 03:04:29)</span><span style="padding-right:50px;">Chelsea return to top four with 2-0 home win over Everton reut.rs/48Wrtvb <a href="https://bsky.app/profile/reuters.com/post/3m7v6okxkpw24" target="_blank">reuters.com</a> (2025-12-14 03:00:59)</span><span style="padding-right:50px;">King Charles III has shared a public update on his cancer treatment, urging people to get tested. <a href="https://bsky.app/profile/apnews.com/post/3m7v6o444cc2r" target="_blank">apnews.com</a> (2025-12-14 03:00:43)</span>
   </div>
 </div>
 
@@ -32,96 +32,100 @@
 
 ## News Headlines
 
-Here are the six selected headlines in Japanese:
+Here are six important stories with Japanese headlines:
 
-1. 米軍がリトアニア空域へのヘリコプター飛行をベルラウスが停止すると発表
-2. 「パルプ・フィクション」などの悪役で知られた俳優ピーター・グリーンが60歳で死去
-3. 米軍がシリアで2人と翻訳官が死亡
-4. イスラエルがガザでハマス幹部を殺害　これが停戦後2か月で最高位のハマス指導者
-5. 米軍がシリアで2人とアメリカ人市民が攻撃され死亡
-6. ドイツでバイクが列車に衝突　5人死亡
+1.  シリアで米兵・民間人3人死亡…ISの攻撃を受けた
+2.  クリスマス・サルサブルグに、サンタとクラムプスの伝統
+3.  レスターに、ラムレズフォードが2年契約を結ぶ
+4.  トランプがオマール氏を批判…くそめげないと反論
+5.  シリアで米兵・民間人3人死亡…ISの攻撃を受けた
+6.  80万ドルの年収で買える世界の9の都市は？
 
 ----
 
 @reuters.com
 
-US says Belarus agreed to stop balloon flyovers into Lithuania reut.rs/4qbwIy4
+Bangladesh says peacekeepers killed, injured in Sudan UN base attack reut.rs/4akLCxj
 
-[2025-12-14 02:45:13](https://bsky.app/profile/reuters.com/post/3m7v5sezg2c23)
-
----
-
-@washingtonpost.com
-
-Staff Sgt. Andrew Wolfe, 24, was hospitalized after a gunman opened fire on him and another National Guard member.
-
-He is now breathing on his own and can stand with assistance, his neurosurgeon said.
-
-[2025-12-14 02:45:02](https://bsky.app/profile/washingtonpost.com/post/3m7v5s2vn532m)
+[2025-12-14 03:05:11](https://bsky.app/profile/reuters.com/post/3m7v6w3cdyg2r)
 
 ---
 
-@cbsnews.com
+@en.afp.com
 
-A man who spent more than a quarter-century on death row for the robbery and murder of a woman at an Ohio hotel had his case dismissed Friday by prosecutors. 
+Mohamed Salah set up a goal in Liverpool's 2-0 win against Brighton on Saturday as the Egyptian superstar returned to action after an explosive outburst cast doubt over his future at the Premier League champions.
 
-[2025-12-14 02:45:01](https://bsky.app/profile/cbsnews.com/post/3m7v5rzifo62a)
+u.afp.com/S7Lc
 
----
-
-@nytimes.com
-
-<strong><span style="color: red;">Breaking News</span>: Two American soldiers and an American interpreter were killed in an attack in central Syria on Saturday, U.S. military officials said.</strong>
-
-[2025-12-14 02:44:53](https://bsky.app/profile/nytimes.com/post/3m7v5rs6lus2x)
+[2025-12-14 03:05:02](https://bsky.app/profile/en.afp.com/post/3m7v6vsgtbd2q)
 
 ---
 
-@nbcnews.com
+@npr.org
 
-<strong><span style="color: red;">BREAKING:</span> Two U.S. soldiers and an interpreter were killed in an attack in Syria, Pentagon says.</strong>
+In Salzburg, Austria, Christmas involves both St. Nick and Krampus, a mythological punisher with roots stretching back to late antiquity and many fans in the present-day Central Alps. n.pr/3XSG1Xy
 
-[2025-12-14 02:42:24](https://bsky.app/profile/nbcnews.com/post/3m7v5ndkllw22)
+[2025-12-14 03:04:29](https://bsky.app/profile/npr.org/post/3m7v6ut2knf24)
 
 ---
 
 @reuters.com
 
-Fire transfer M Brian Gutierrez to CD Guadalajara reut.rs/4iUsc4p
+Chelsea return to top four with 2-0 home win over Everton reut.rs/48Wrtvb
 
-[2025-12-14 02:40:14](https://bsky.app/profile/reuters.com/post/3m7v5jhzg2l2b)
+[2025-12-14 03:00:59](https://bsky.app/profile/reuters.com/post/3m7v6okxkpw24)
 
 ---
 
-@wsj.com
+@apnews.com
 
-Congress’s National Defense Authorization Act proposal weighs in on boat strikes, drones, DEI, foreign investment and fights overseas. on.wsj.com/44nl3Uj
+King Charles III has shared a public update on his cancer treatment, urging people to get tested.
 
-[2025-12-14 02:39:45](https://bsky.app/profile/wsj.com/post/3m7v5imghxt2z)
+[2025-12-14 03:00:43](https://bsky.app/profile/apnews.com/post/3m7v6o444cc2r)
 
 ---
 
 @cnn.com
 
-Peter Greene, a character actor best known for his villainous roles in “Pulp Fiction" and "The Mask" has died. He was 60. https://cnn.it/4aeX5yd
+"The Reuters-Ipsos poll asked whether Americans believed that Trump was not aware of Epstein’s alleged crimes before they became public. Just 18% said it was 'somewhat' or 'very' likely that Trump didn’t know," Aaron Blake writes | Analysis
+https://cnn.it/4axsEDN
 
-[2025-12-14 02:37:02](https://bsky.app/profile/cnn.com/post/3m7v5dqzetx23)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Two US soldiers and interpreter killed by Islamic State gunman in Syria, US military says
-
-[2025-12-14 02:36:24](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7v5cmyg232r)
+[2025-12-14 03:00:20](https://bsky.app/profile/cnn.com/post/3m7v6ngex5q23)
 
 ---
 
-@financialtimes.com
+@bloomberg.com
 
-The Pritzker-winner on building ‘from the earth’, why modern architecture is going too fast — and how it all began with wobbly school benches on.ft.com/3YqWZwc
+Two US Army soldiers and a civilian US interpreter were killed in an attack in Syria Saturday that also wounded three others, US Central Command said in a statement posted on social media.
 
-[2025-12-14 02:36:04](https://bsky.app/profile/financialtimes.com/post/3m7v5bzgzl523)
+[2025-12-14 03:00:10](https://bsky.app/profile/bloomberg.com/post/3m7v6n4lzoy23)
+
+---
+
+@cbsnews.com
+
+Lindsey Vonn is back on the podium on Saturday after a World Cup downhill race that is separated by a razor-thin margin of 0.24 seconds. cbsn.ws/3XWyUgG 
+
+[2025-12-14 03:00:01](https://bsky.app/profile/cbsnews.com/post/3m7v6mtvgd32p)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】住宅内に血を流した女性2人の遺体…家族とみられる50代の男性を搬送 ”殺人事件”の可能性も視野に捜査＿死亡は高齢女性と40～50代の女性 北海道札幌市
+(2025-12-14 02:50) #ニュース
+
+[2025-12-14 02:50:45](https://bsky.app/profile/sokuho.news/post/3m7v64c4wis2y)
+
+---
+
+@washingtonpost.com
+
+<strong><span style="color: red;">Breaking news:</span> Two U.S. soldiers and an American civilian interpreter were killed in an attack on a joint U.S.-Syrian security patrol in Palmyra, the Pentagon and Syria’s state news agency said. </strong>
+
+[2025-12-14 02:50:33](https://bsky.app/profile/washingtonpost.com/post/3m7v63vvyll24)
 
 ---
 
