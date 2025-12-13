@@ -1,9 +1,9 @@
-# [2025-12-13 11:30 updated](2025_12_13.md)
+# [2025-12-13 11:50 updated](2025_12_13.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">President Trump wants to play a central role in redeveloping Washington, D.C.’s public golf courses, including one that sits on a prime stretch of real estate. <a href="https://bsky.app/profile/wsj.com/post/3m7tkjh6ctu23" target="_blank">wsj.com</a> (2025-12-13 11:27:32)</span><span style="padding-right:50px;">後発地震注意情報の内容を6か国語で発信 仙台の外国人支援団体 https://news.web.nhk/newsweb/na/na-k10015003011000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7tkilrk3x24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-13 11:27:02)</span><span style="padding-right:50px;">Appeals court weighs fate of US whistleblower law reut.rs/44qe5hm <a href="https://bsky.app/profile/reuters.com/post/3m7tk4fykfd24" target="_blank">reuters.com</a> (2025-12-13 11:20:15)</span><span style="padding-right:50px;">From @theathletic.com: The Canucks are said to be trading the elite player Quinn Hughes to the Wild in one of the biggest trades in NHL history. <a href="https://bsky.app/profile/nytimes.com/post/3m7tk4545bv2b" target="_blank">nytimes.com</a> (2025-12-13 11:20:06)</span><span style="padding-right:50px;">中国企業が、ベトナムに投資を進め、事業を拡大させている。同じ社会主義国で国境を接している両国は、領有権問題などを抱え複雑な関係だったが、トランプ米大統領による輸入関税引き上げという逆風が双方を急接近させている。 bit.ly/48PD52V <a href="https://bsky.app/profile/japan.reuters.com/post/3m7tjtnyi5n2v" target="_blank">japan.reuters.com</a> (2025-12-13 11:15:21)</span>
+<span style="padding-right:50px;">＜為替＞　方向感のない取引の中、ドルが円などの主要通貨に対し上昇した。来年の米連邦準備理事会（ＦＲＢ）による利下げ観測を背景にドルはここ数日下落基調にあり、週間ベースでは３週連続で下落した。 bit.ly/4oVnrsB <a href="https://bsky.app/profile/japan.reuters.com/post/3m7tlj4zbmh2q" target="_blank">japan.reuters.com</a> (2025-12-13 11:45:16)</span><span style="padding-right:50px;">US invalidates union contract covering 47,000 TSA officers, AFGE vows to challenge reut.rs/3MrRnPQ <a href="https://bsky.app/profile/reuters.com/post/3m7tlaeoske2k" target="_blank">reuters.com</a> (2025-12-13 11:40:22)</span><span style="padding-right:50px;">The FDA approved two new antibiotics for the treatment of gonorrhea, giving health care providers powerful new weapons against a sexually transmitted disease that has become increasingly hard to treat. <a href="https://bsky.app/profile/nytimes.com/post/3m7tl7uyfpw2a" target="_blank">nytimes.com</a> (2025-12-13 11:40:05)</span><span style="padding-right:50px;">The U.S. military is moving more weapons and units into the Caribbean that give President Trump powerful new options to escalate his pressure campaign on Venezuelan leader Maduro. <a href="https://bsky.app/profile/wsj.com/post/3m7tkqaers52e" target="_blank">wsj.com</a> (2025-12-13 11:31:20)</span><span style="padding-right:50px;">The Department of Labor held its first-ever prayer service for its employees this week, in a highly unusual move that mirrors an initiative at the Pentagon.  The service included a speech by Yaakov Menken, a right-wing orthodox Jewish rabbi, according to a Department of Labor employee. <a href="https://bsky.app/profile/cnn.com/post/3m7tkpo5bis2u" target="_blank">cnn.com</a> (2025-12-13 11:31:01)</span>
   </div>
 </div>
 
@@ -32,106 +32,98 @@
 
 ## News Headlines
 
-以下の6つのニュース記事の日本語のタイトルを提供します。
-
-1. 連邦準備理事会（ＦＲＢ）新議長にウォーシュ氏かハセット氏を起用するか
-2. 米国ワールドカップ北中米３カ国大会チケット申し込み５００万件に達
-3. ドルが円など主要通貨に対して上昇　来年の米連邦準備理事会による利下げ観測の影響
-4. ドイツのユベントスFC、テザー社から1億ドル以上の買収オファーを受ける
-5. ドン・バシリオ氏の捜査に関与したブラジルの最高裁判事に米国が制裁を解除
-6. ロシアのウクライナ侵攻の第1388日目　主要な出来事
+1. ＜為替＞　ドルが円などの主要通貨に対し上昇
+2. フェデラル・リザーブが米国で最初の新型抗生物質を承認
+3. 米軍、ベネズエラへの圧力強化
+4. ドラッグストアチェーンの「 CVS」が、店舗のリフォームを計画
+5. 米国、ブラジル最高裁判事が制裁対象から外れる
+6. ドナルド・トランプ大統領が連邦準備理事会の新パートナーを決める
 
 ----
 
-@wsj.com
+@japan.reuters.com
 
-President Trump wants to play a central role in redeveloping Washington, D.C.’s public golf courses, including one that sits on a prime stretch of real estate.
+＜為替＞　方向感のない取引の中、ドルが円などの主要通貨に対し上昇した。来年の米連邦準備理事会（ＦＲＢ）による利下げ観測を背景にドルはここ数日下落基調にあり、週間ベースでは３週連続で下落した。 bit.ly/4oVnrsB
 
-[2025-12-13 11:27:32](https://bsky.app/profile/wsj.com/post/3m7tkjh6ctu23)
-
----
-
-@nhknewsunofficial.bsky.social
-
-後発地震注意情報の内容を6か国語で発信 仙台の外国人支援団体
-https://news.web.nhk/newsweb/na/na-k10015003011000
-
-[2025-12-13 11:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7tkilrk3x24)
+[2025-12-13 11:45:16](https://bsky.app/profile/japan.reuters.com/post/3m7tlj4zbmh2q)
 
 ---
 
 @reuters.com
 
-Appeals court weighs fate of US whistleblower law reut.rs/44qe5hm
+US invalidates union contract covering 47,000 TSA officers, AFGE vows to challenge reut.rs/3MrRnPQ
 
-[2025-12-13 11:20:15](https://bsky.app/profile/reuters.com/post/3m7tk4fykfd24)
+[2025-12-13 11:40:22](https://bsky.app/profile/reuters.com/post/3m7tlaeoske2k)
 
 ---
 
 @nytimes.com
 
-From @theathletic.com: The Canucks are said to be trading the elite player Quinn Hughes to the Wild in one of the biggest trades in NHL history.
+The FDA approved two new antibiotics for the treatment of gonorrhea, giving health care providers powerful new weapons against a sexually transmitted disease that has become increasingly hard to treat.
 
-[2025-12-13 11:20:06](https://bsky.app/profile/nytimes.com/post/3m7tk4545bv2b)
-
----
-
-@japan.reuters.com
-
-中国企業が、ベトナムに投資を進め、事業を拡大させている。同じ社会主義国で国境を接している両国は、領有権問題などを抱え複雑な関係だったが、トランプ米大統領による輸入関税引き上げという逆風が双方を急接近させている。 bit.ly/48PD52V
-
-[2025-12-13 11:15:21](https://bsky.app/profile/japan.reuters.com/post/3m7tjtnyi5n2v)
-
----
-
-@reuters.com
-
-Trump says he is leaning toward Warsh or Hassett to lead the Fed, WSJ reports reut.rs/4iTzuW5
-
-[2025-12-13 11:10:16](https://bsky.app/profile/reuters.com/post/3m7tjkkgmrz2r)
-
----
-
-@cnn.com
-
-For the first time in decades, the US Food and Drug Administration has signed off on new antibiotics to fight gonorrhea. https://cnn.it/4a9Nhpj
-
-[2025-12-13 11:05:02](https://bsky.app/profile/cnn.com/post/3m7tjb72gco2t)
+[2025-12-13 11:40:05](https://bsky.app/profile/nytimes.com/post/3m7tl7uyfpw2a)
 
 ---
 
 @wsj.com
 
-The buzziest private companies are being sold to a select few as the universe of stocks everyone else can invest in shrinks rapidly. on.wsj.com/4pCf1ru
+The U.S. military is moving more weapons and units into the Caribbean that give President Trump powerful new options to escalate his pressure campaign on Venezuelan leader Maduro.
 
-[2025-12-13 11:02:33](https://bsky.app/profile/wsj.com/post/3m7tj4rgb6u2t)
+[2025-12-13 11:31:20](https://bsky.app/profile/wsj.com/post/3m7tkqaers52e)
 
 ---
 
-@cnbc.com
+@cnn.com
 
-As the founder and CEO of Boll & Branch, Scott Tannen estimates he’s interviewed upwards of 1,000 people and hired 400 to 500 over the course of his career.
+The Department of Labor held its first-ever prayer service for its employees this week, in a highly unusual move that mirrors an initiative at the Pentagon.
 
-Tannen tells CNBC Make It he always asks one question first: What do you know about Boll & Branch?
+The service included a speech by Yaakov Menken, a right-wing orthodox Jewish rabbi, according to a Department of Labor employee.
 
-[2025-12-13 11:01:03](https://bsky.app/profile/cnbc.com/post/3m7tj234pnx2b)
+[2025-12-13 11:31:01](https://bsky.app/profile/cnn.com/post/3m7tkpo5bis2u)
+
+---
+
+@reuters.com
+
+US forces raided ship headed to Iran from China in Indian Ocean, WSJ says reut.rs/3XURCoX
+
+[2025-12-13 11:30:46](https://bsky.app/profile/reuters.com/post/3m7tkpa3ccu2i)
 
 ---
 
 @nikkei.com
 
-仕事はかどる「攻めの休養」　週末に意識したい7つのモデル
+名鉄名古屋駅の再開発が暗礁に　建設工事費が倍増
 www.nikkei.com/article/DGXZQO...
 
-パソコンやスマホの普及で、いつでもどこでも仕事ができる現代。オンとオフの切り替えが難しくなっています。
+「無念の思いでいっぱいだ」。12月12日の記者会見で名鉄の高崎裕樹社長は涙ぐみながら語りました。
 
-疲労の原因となる休養不足をどう解消すればいいのでしょうか。
+[2025-12-13 11:30:35](https://bsky.app/profile/nikkei.com/post/3m7tkovh65o24)
 
-休養といえば睡眠ととらえがちですが、7タイプの休養から複数を組み合わせることで休養効果が飛躍的に高まるといいます。
+---
 
-2025年11月 #注目された記事
+@apnews.com
 
-[2025-12-13 11:01:02](https://bsky.app/profile/nikkei.com/post/3m7tj227k2522)
+Christine Choy, a trailblazer for Asian Americans in independent film and whose documentary on the fatal beating of Vincent Chin was nominated for an Academy Award, has died.
+
+[2025-12-13 11:30:31](https://bsky.app/profile/apnews.com/post/3m7tkorahh72r)
+
+---
+
+@usatoday.com
+
+Stephen Colbert, whose show was canceled by Paramount, wondered about the company's finances amid a $108 billion bid to buy Warner Bros. Discovery.
+
+[2025-12-13 11:30:27](https://bsky.app/profile/usatoday.com/post/3m7tkonlrt52o)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+国連総会 イスラエルに難民支援機関UNRWAとの協力求める決議
+https://news.web.nhk/newsweb/na/na-k10015002981000
+
+[2025-12-13 11:30:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7tknyuuv724)
 
 ---
 
