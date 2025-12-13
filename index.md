@@ -1,9 +1,9 @@
-# [2025-12-14 08:10 updated](2025_12_14.md)
+# [2025-12-14 08:30 updated](2025_12_14.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Breaking:  Multiple people have been shot and a suspect is at large at Brown University, police said Saturday evening. Students remain under lockdown, and campus and city police are responding to the incident.  Read more here:  <a href="https://bsky.app/profile/washingtonpost.com/post/3m7vpumejmg2d" target="_blank">washingtonpost.com</a> (2025-12-14 08:08:35)</span><span style="padding-right:50px;">Breaking News: Multiple people have been shot at Brown University, officials said. Follow live updates. <a href="https://bsky.app/profile/nytimes.com/post/3m7vpub7nps2b" target="_blank">nytimes.com</a> (2025-12-14 08:08:23)</span><span style="padding-right:50px;">UPDATE: No suspect is in custody after reports of a shooting at Brown University. A previous alert from the university said one suspect was in custody. Follow live updates: https://cnn.it/4ay8ABd <a href="https://bsky.app/profile/cnn.com/post/3m7vpr4dpbd24" target="_blank">cnn.com</a> (2025-12-14 08:06:38)</span><span style="padding-right:50px;">ギリギリ日本の「空の守り」　スクランブル恒常化、隊員・機体に負担 www.nikkei.com/article/DGXZQO...  経験した空自隊員は「対応を間違えると大問題になる。心理的な負担がある」と語ります。  2016年度に最多の1168回となりその後も高止まり。中国機への対処が6割以上です。 <a href="https://bsky.app/profile/nikkei.com/post/3m7vpgptcz22m" target="_blank">nikkei.com</a> (2025-12-14 08:00:49)</span><span style="padding-right:50px;">Abraham Quintanilla Jr., an instrumental force in shaping the career of the late Tejano legend Selena Quintanilla, has died, according to his son. <a href="https://bsky.app/profile/usatoday.com/post/3m7vpgjwc522h" target="_blank">usatoday.com</a> (2025-12-14 08:00:43)</span>
+<span style="padding-right:50px;">シリアで米軍兵士など3人死亡 トランプ大統領“ISによる攻撃” https://news.web.nhk/newsweb/na/na-k10015003431000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7vqvovqya2l" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-14 08:27:03)</span><span style="padding-right:50px;">Arsenal get lucky break to go five points clear, Salah returns for Liverpool reut.rs/4pzX0Ka <a href="https://bsky.app/profile/reuters.com/post/3m7vqsbryjd2x" target="_blank">reuters.com</a> (2025-12-14 08:25:11)</span><span style="padding-right:50px;">In Opinion  Some female Republican leaders saw gains when the party went all in on Trump, Michelle Cottle says on this episode of “The Opinions.” “But now, with this most recent election with Trump just going all in on the misogyny and hyper-masculinity, it’s like they’ve lost even more ground.” <a href="https://bsky.app/profile/nytimes.com/post/3m7vqrehett2r" target="_blank">nytimes.com</a> (2025-12-14 08:24:40)</span><span style="padding-right:50px;">BREAKING: At least two people have been killed and several others injured in a shooting at Brown University, AP source says. <a href="https://bsky.app/profile/apnews.com/post/3m7vqr6l2lq2x" target="_blank">apnews.com</a> (2025-12-14 08:24:34)</span><span style="padding-right:50px;">🛎️JNNより【独自】です。  【独自】警察署の階段に「絶対捕まえてやる」落書き 北九州・中学生2人殺傷事件から1年 捜査1課長(当時)が初めて語った逮捕の瞬間【後編】 (2025-12-14 08:01:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7vqfxslur2v" target="_blank">sokuho.news</a> (2025-12-14 08:18:18)</span>
   </div>
 </div>
 
@@ -32,101 +32,103 @@
 
 ## News Headlines
 
-1. ブラウン大学で複数の学生が銃撃され、容疑者は逃走中
-2. ベラルーシで外国人123人、ノーベル平和賞受賞者らが釈放される
-3. シリアで米兵3人が死亡、「イスラム国」による攻撃でトランプ大統領が「報復」宣言
-4. ルカシェンコ大統領が恩赦を決め外国人123人を釈放
-5. ワールドカップを目指すアマチュアサーファーの71歳が、巨大な波に挑戦
-6. トランプ大統領がベトナムのベトナム海軍と米海軍との共同軍事演習を発表
+1. シリアで米軍兵士など3人死亡 トランプ大統領“ISによる攻撃”
+2. BREAKING: Brown大学で銃乱射事件　複数人射殺
+3. ベラルーシ、邦人やノーベル平和賞受賞者ら123人釈放
+4. Arsenalが5点リードに　Wolvesに2失点で勝利
+5. アメリカ、ベラルーシに制裁を解除　カストルリク酸塩鉱山業界に
+6. 震央：福島県沖　最大震度2の地震
 
 ----
+
+@nhknewsunofficial.bsky.social
+
+シリアで米軍兵士など3人死亡 トランプ大統領“ISによる攻撃”
+https://news.web.nhk/newsweb/na/na-k10015003431000
+
+[2025-12-14 08:27:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7vqvovqya2l)
+
+---
+
+@reuters.com
+
+Arsenal get lucky break to go five points clear, Salah returns for Liverpool reut.rs/4pzX0Ka
+
+[2025-12-14 08:25:11](https://bsky.app/profile/reuters.com/post/3m7vqsbryjd2x)
+
+---
+
+@nytimes.com
+
+In Opinion
+
+Some female Republican leaders saw gains when the party went all in on Trump, Michelle Cottle says on this episode of “The Opinions.” “But now, with this most recent election with Trump just going all in on the misogyny and hyper-masculinity, it’s like they’ve lost even more ground.”
+
+[2025-12-14 08:24:40](https://bsky.app/profile/nytimes.com/post/3m7vqrehett2r)
+
+---
+
+@apnews.com
+
+<strong><span style="color: red;">BREAKING:</span> At least two people have been killed and several others injured in a shooting at Brown University, AP source says.</strong>
+
+[2025-12-14 08:24:34](https://bsky.app/profile/apnews.com/post/3m7vqr6l2lq2x)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【独自】です。
+
+【独自】警察署の階段に「絶対捕まえてやる」落書き 北九州・中学生2人殺傷事件から1年 捜査1課長(当時)が初めて語った逮捕の瞬間【後編】
+(2025-12-14 08:01:00) #ニュース
+
+[2025-12-14 08:18:18](https://bsky.app/profile/sokuho.news/post/3m7vqfxslur2v)
+
+---
+
+@en.afp.com
+
+Arsenal avoided a major embarrassment against Premier League bottom club Wolves on Saturday, benefiting from two own goals -- one in stoppage time -- to move five points clear of Manchester City.
+
+u.afp.com/S7La
+
+[2025-12-14 08:15:02](https://bsky.app/profile/en.afp.com/post/3m7vqa53zw52x)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【独自】です。
+
+【独自】「この野郎」「見とけよ、貴様」北九州・中学生2人殺傷事件から1年 捜査1課長(当時)が初めて語った犯人への憎しみと執念の捜査【前編】
+(2025-12-14 08:00:00) #ニュース
+
+[2025-12-14 08:13:23](https://bsky.app/profile/sokuho.news/post/3m7vq56qumh2r)
+
+---
+
+@japan.reuters.com
+
+欧州ファッション業界の物流を支配する中国人犯罪組織を巡るイタリアの裁判が、書類の紛失や通訳者の辞任など数々の不手際により難航している。検察は、業界支配を守るために妨害行為が行われている可能性を疑っている。 bit.ly/44pBAHj
+
+[2025-12-14 08:12:36](https://bsky.app/profile/japan.reuters.com/post/3m7vq3scgw42c)
+
+---
+
+@reuters.com
+
+Multiple people shot at Brown University, official says reut.rs/3YoOYYH
+
+[2025-12-14 08:10:10](https://bsky.app/profile/reuters.com/post/3m7vpxgqzud2c)
+
+---
 
 @washingtonpost.com
 
 <strong><span style="color: red;">Breaking:</span>  Multiple people have been shot and a suspect is at large at Brown University, police said Saturday evening. Students remain under lockdown, and campus and city police are responding to the incident.</strong><br><strong></strong><br><strong>Read more here: </strong>
 
 [2025-12-14 08:08:35](https://bsky.app/profile/washingtonpost.com/post/3m7vpumejmg2d)
-
----
-
-@nytimes.com
-
-<strong><span style="color: red;">Breaking News</span>: Multiple people have been shot at Brown University, officials said. Follow live updates.</strong>
-
-[2025-12-14 08:08:23](https://bsky.app/profile/nytimes.com/post/3m7vpub7nps2b)
-
----
-
-@cnn.com
-
-UPDATE: No suspect is in custody after reports of a shooting at Brown University. A previous alert from the university said one suspect was in custody. Follow live updates: https://cnn.it/4ay8ABd
-
-[2025-12-14 08:06:38](https://bsky.app/profile/cnn.com/post/3m7vpr4dpbd24)
-
----
-
-@nikkei.com
-
-ギリギリ日本の「空の守り」　スクランブル恒常化、隊員・機体に負担
-www.nikkei.com/article/DGXZQO...
-
-経験した空自隊員は「対応を間違えると大問題になる。心理的な負担がある」と語ります。
-
-2016年度に最多の1168回となりその後も高止まり。中国機への対処が6割以上です。
-
-[2025-12-14 08:00:49](https://bsky.app/profile/nikkei.com/post/3m7vpgptcz22m)
-
----
-
-@usatoday.com
-
-Abraham Quintanilla Jr., an instrumental force in shaping the career of the late Tejano legend Selena Quintanilla, has died, according to his son.
-
-[2025-12-14 08:00:43](https://bsky.app/profile/usatoday.com/post/3m7vpgjwc522h)
-
----
-
-@cnbc.com
-
-Boll & Branch CEO Scott Tannen says parents are interfering with their kids' internship search, and it's a sign they're not ready for a workplace.
-
-“I found it so shocking that a parent would think that was a good look for the kids,” Tannen, 48, tells CNBC Make It.
-
-[2025-12-14 08:00:20](https://bsky.app/profile/cnbc.com/post/3m7vpfttjxw2p)
-
----
-
-@apnews.com
-
-Comedian Amy Schumer says she and her husband, chef Chris Fischer, have decided to end their marriage.
-
-[2025-12-14 08:00:13](https://bsky.app/profile/apnews.com/post/3m7vpfnt5tz2n)
-
----
-
-@bloomberg.com
-
-China is hoping IVF can lift its falling birth rate. But high costs, long waits and too few clinics mean many couples are still shut out.
-
-[2025-12-14 08:00:11](https://bsky.app/profile/bloomberg.com/post/3m7vpfl2or42f)
-
----
-
-@washingtonpost.com
-
-After years of delays, the Purple Line train that connects New Carrollton and Bethesda, Maryland, is being tested overnight.
-
-See what the train looks like in action: 
-
-[2025-12-14 08:00:09](https://bsky.app/profile/washingtonpost.com/post/3m7vpfjvqwf2n)
-
----
-
-@cbsnews.com
-
-Fighting raged Saturday morning along the border of Thailand and Cambodia, even after U.S. President Trump, acting as a mediator, declared that he had won agreement from both countries for a ceasefire.
-
-[2025-12-14 08:00:01](https://bsky.app/profile/cbsnews.com/post/3m7vpfbq6qr2b)
 
 ---
 
