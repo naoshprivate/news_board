@@ -1,9 +1,9 @@
-# [2025-12-14 04:50 updated](2025_12_14.md)
+# [2025-12-14 05:10 updated](2025_12_14.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">In @nytopinion.nytimes.com  The war in Gaza turned California school districts into battlegrounds over the Israeli-Palestinian conflict, Leighton Woodhouse writes in a guest essay. “What is being lost in the tumult is the basic purpose of education: teaching students to think for themselves.” <a href="https://bsky.app/profile/nytimes.com/post/3m7ve7qoosk2r" target="_blank">nytimes.com</a> (2025-12-14 04:40:04)</span><span style="padding-right:50px;">Two US soldiers and a civilian killed in attack in Syria on.ft.com/3Mwyj2V <a href="https://bsky.app/profile/financialtimes.com/post/3m7vdtkfgng2c" target="_blank">financialtimes.com</a> (2025-12-14 04:33:15)</span><span style="padding-right:50px;">The meteor shower is known for being bright and colorful. And this year, the peak will happen this weekend, giving more people the chance to see it. <a href="https://bsky.app/profile/usatoday.com/post/3m7vdp57lis25" target="_blank">usatoday.com</a> (2025-12-14 04:30:47)</span><span style="padding-right:50px;">The tech giant’s AI chief talks about superintelligence “red lines,” why AI will transform medicine and how he unwinds by chatting with Copilot. <a href="https://bsky.app/profile/bloomberg.com/post/3m7vdodtgcl2u" target="_blank">bloomberg.com</a> (2025-12-14 04:30:20)</span><span style="padding-right:50px;">Their release comes as authoritarian President Alexander Lukashenko seeks to improve relations with Washington. In exchange for sanctions relief, Lukashenko pardoned 123 prisoners, the Belta state news agency reported. <a href="https://bsky.app/profile/cnn.com/post/3m7vdnxck742k" target="_blank">cnn.com</a> (2025-12-14 04:30:07)</span>
+<span style="padding-right:50px;">BBC captures celebrations as Belarus frees political prisoners <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7vftxvrdp2v" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-14 05:09:16)</span><span style="padding-right:50px;">ベラルーシ 拘束されていた日本人男性など123人釈放 https://news.web.nhk/newsweb/na/na-k10015003391000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7vftndmlo2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-14 05:09:03)</span><span style="padding-right:50px;">自民合同会議 メガソーラー規制強化・支援廃止検討を 提言原案 https://news.web.nhk/newsweb/na/na-k10015003301000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7vfofvjdi2y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-14 05:06:07)</span><span style="padding-right:50px;">政府 拉致問題の解説動画をYouTubeで公開 若い世代に関心を https://news.web.nhk/newsweb/na/na-k10015003241000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7vfoam7li2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-14 05:06:02)</span><span style="padding-right:50px;">Raphinha double helps Barcelona overcome resilient Osasuna reut.rs/3YsyY80 <a href="https://bsky.app/profile/reuters.com/post/3m7vfmqipnm2b" target="_blank">reuters.com</a> (2025-12-14 05:05:14)</span>
   </div>
 </div>
 
@@ -32,100 +32,99 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in Japanese:
+Here are six important stories with Japanese headlines:
 
-1. ガザ地帯でイスラエルとパレスチナの紛争が、カリフォルニア州の学校で戦いの場となり
-2. シリアで米軍兵士2人と市民1人死亡
-3. 彗星の群れが見られる、今年の最も美しい夜空
-4. ロシアがウクライナ戦争で北朝鮮兵を動員していたことを北朝鮮が認める
-5. ドアダッシュのドライバーが注射器で注射した疑いで逮捕
-6. イスラエルがガザでハマースの武器生産責任者を殺害
+1.  ベラルーシ、政治犯の釈放はワシントンとの関係改善のための交渉の結果
+2.  ベルリンの自民合同会議でメガソーラー規制強化と支援の廃止を検討
+3.  政府、拉致問題の解説動画をYouTubeで公開　若い世代に関心を高める
+4.  ガザ紛争が米国の中学校に波及　イスラエルとパレスチナの紛争に生徒が巻き込まれる
+5.  北朝鮮がロシアのウクライナ戦争の一環として軍事行動を展開　国連が報告
+6.  食品配達員がドアダッシュの注文を空気感染症の疑いのあるスプレーで汚染　インディアナ州の女性が逮捕
 
 ----
 
-@nytimes.com
+@bbcnews-world-rss.bsky.social
 
-In @nytopinion.nytimes.com
+BBC captures celebrations as Belarus frees political prisoners
 
-The war in Gaza turned California school districts into battlegrounds over the Israeli-Palestinian conflict, Leighton Woodhouse writes in a guest essay. “What is being lost in the tumult is the basic purpose of education: teaching students to think for themselves.”
-
-[2025-12-14 04:40:04](https://bsky.app/profile/nytimes.com/post/3m7ve7qoosk2r)
+[2025-12-14 05:09:16](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7vftxvrdp2v)
 
 ---
 
-@financialtimes.com
+@nhknewsunofficial.bsky.social
 
-Two US soldiers and a civilian killed in attack in Syria on.ft.com/3Mwyj2V
+ベラルーシ 拘束されていた日本人男性など123人釈放
+https://news.web.nhk/newsweb/na/na-k10015003391000
 
-[2025-12-14 04:33:15](https://bsky.app/profile/financialtimes.com/post/3m7vdtkfgng2c)
-
----
-
-@usatoday.com
-
-The meteor shower is known for being bright and colorful. And this year, the peak will happen this weekend, giving more people the chance to see it.
-
-[2025-12-14 04:30:47](https://bsky.app/profile/usatoday.com/post/3m7vdp57lis25)
+[2025-12-14 05:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7vftndmlo2b)
 
 ---
 
-@bloomberg.com
+@nhknewsunofficial.bsky.social
 
-The tech giant’s AI chief talks about superintelligence “red lines,” why AI will transform medicine and how he unwinds by chatting with Copilot.
+自民合同会議 メガソーラー規制強化・支援廃止検討を 提言原案
+https://news.web.nhk/newsweb/na/na-k10015003301000
 
-[2025-12-14 04:30:20](https://bsky.app/profile/bloomberg.com/post/3m7vdodtgcl2u)
-
----
-
-@cnn.com
-
-Their release comes as authoritarian President Alexander Lukashenko seeks to improve relations with Washington. In exchange for sanctions relief, Lukashenko pardoned 123 prisoners, the Belta state news agency reported.
-
-[2025-12-14 04:30:07](https://bsky.app/profile/cnn.com/post/3m7vdnxck742k)
+[2025-12-14 05:06:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7vfofvjdi2y)
 
 ---
 
-@en.afp.com
+@nhknewsunofficial.bsky.social
 
-North Korea sent troops to clear mines in Russia's Kursk region earlier this year as part of Moscow's Ukraine war effort, leader Kim Jong Un has said, according to state media -- a rare acknowledgment by Pyongyang of the deadly tasks assigned to its soldiers.
+政府 拉致問題の解説動画をYouTubeで公開 若い世代に関心を
+https://news.web.nhk/newsweb/na/na-k10015003241000
 
-u.afp.com/S7LM
-
-[2025-12-14 04:30:04](https://bsky.app/profile/en.afp.com/post/3m7vdnubftw26)
-
----
-
-@aljazeera.com
-
-Hungarian protesters demand PM Viktor Orban quits over child abuse cases https://aje.io/8za1o7
-
-[2025-12-14 04:30:04](https://bsky.app/profile/aljazeera.com/post/3m7vdnudbdi2l)
-
----
-
-@washingtonpost.com
-
-Home health workers and caregivers fill a critical role in the health care ecosystem as America ages and demand for caregivers soars. 
-
-But government funding cuts, a caregiver shortage and immigration limits are layering new strains on the industry.
-
-[2025-12-14 04:30:03](https://bsky.app/profile/washingtonpost.com/post/3m7vdntwh6e23)
-
----
-
-@nytimes.com
-
-Peter Greene, a character actor who made a career out of playing villains, including in “Pulp Fiction,” “The Mask” and dozens of other films and TV shows, has died. He was 60.
-
-[2025-12-14 04:26:14](https://bsky.app/profile/nytimes.com/post/3m7vdgyumel2x)
+[2025-12-14 05:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7vfoam7li2m)
 
 ---
 
 @reuters.com
 
-Engine failure forces United Airlines flight to return to DC-area airport reut.rs/48Bhqg1
+Raphinha double helps Barcelona overcome resilient Osasuna reut.rs/3YsyY80
 
-[2025-12-14 04:25:11](https://bsky.app/profile/reuters.com/post/3m7vdf5foxi23)
+[2025-12-14 05:05:14](https://bsky.app/profile/reuters.com/post/3m7vfmqipnm2b)
+
+---
+
+@usatoday.com
+
+New Orleans started 2025 with a terrorist attack and prison escape and is ending it with a National Guard enforcement. But at least no hurricanes.
+
+[2025-12-14 05:05:06](https://bsky.app/profile/usatoday.com/post/3m7vfmitb562z)
+
+---
+
+@usatoday.com
+
+<strong><span style="color: red;">JUST IN:</span> President Trump is vowing retaliation after three U.S. military personnel — two Army soldiers and a civilian interpreter — were killed on Saturday by a suspected Islamic State attacker who targeted a convoy of American and Syrian forces, the U.S. military said.</strong>
+
+[2025-12-14 05:01:51](https://bsky.app/profile/usatoday.com/post/3m7vfgovdpk2c)
+
+---
+
+@wsj.com
+
+Do you and your giftee’s aesthetic leans traditional, high-tech, organic or modern? We’ve got you covered.
+
+We went the extra mile and shopped out a selection of stocking stuffers that suit each stocking’s aesthetic. 🔗 on.wsj.com/48JDRhW
+
+[2025-12-14 05:01:15](https://bsky.app/profile/wsj.com/post/3m7vffn6s7d2h)
+
+---
+
+@nytimes.com
+
+After evaluating 92 shampoos, we lathered our way through 43 formulas to find six standouts, sorted by hair type.
+
+[2025-12-14 05:01:05](https://bsky.app/profile/nytimes.com/post/3m7vffdnk5u2y)
+
+---
+
+@reuters.com
+
+Report: Galaxy finalizing deal for Union's Jakob Glesnes reut.rs/48T5bKu
+
+[2025-12-14 05:01:02](https://bsky.app/profile/reuters.com/post/3m7vffao6yd2o)
 
 ---
 
