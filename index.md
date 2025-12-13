@@ -1,9 +1,9 @@
-# [2025-12-13 22:50 updated](2025_12_13.md)
+# [2025-12-13 23:10 updated](2025_12_13.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Rwanda's actions in eastern Congo violate accords, Rubio says reut.rs/4qabhNH <a href="https://bsky.app/profile/reuters.com/post/3m7uqfbxn4f2x" target="_blank">reuters.com</a> (2025-12-13 22:45:15)</span><span style="padding-right:50px;">At the scene of one of the deadliest flash floods in Texas history, 8-foot-tall aluminum towers are starting to appear on the banks of the Guadalupe River, part of a flash flood warning system that is being installed.   <a href="https://bsky.app/profile/cbsnews.com/post/3m7uqeuovrr2t" target="_blank">cbsnews.com</a> (2025-12-13 22:45:01)</span><span style="padding-right:50px;">Belarusian opposition politician Maria Kalesnikava freed by authorities, report says reut.rs/48Sqps3 <a href="https://bsky.app/profile/reuters.com/post/3m7uq4cpzdr2b" target="_blank">reuters.com</a> (2025-12-13 22:40:14)</span><span style="padding-right:50px;">The monarch revealed the positive outlook in a recorded message broadcast on British television as part of a campaign to promote screening, which increases the likelihood of successful treatment. n.pr/4rPoWeF <a href="https://bsky.app/profile/npr.org/post/3m7upzp4api2i" target="_blank">npr.org</a> (2025-12-13 22:38:46)</span><span style="padding-right:50px;">US-Syrian military patrol comes under fire in central Syria, officials say reut.rs/4q27TnT <a href="https://bsky.app/profile/reuters.com/post/3m7uptaq2ca2i" target="_blank">reuters.com</a> (2025-12-13 22:35:10)</span>
+<span style="padding-right:50px;">Belarus frees 123 prisoners as US lifts sanctions <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7urn727os2r" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-13 23:07:33)</span><span style="padding-right:50px;">Housing affordability may improve next year, but don’t expect a market crash <a href="https://bsky.app/profile/yahoofinance.com/post/3m7urkklwcj2v" target="_blank">yahoofinance.com</a> (2025-12-13 23:06:06)</span><span style="padding-right:50px;">Michigan State's Tom Izzo is getting a $1 million raise in his 5-year contract that renews annually, a boost that makes him the highest-paid coach in the Big Ten with a salary of about $7.2 million. <a href="https://bsky.app/profile/apnews.com/post/3m7urblm2id23" target="_blank">apnews.com</a> (2025-12-13 23:01:05)</span><span style="padding-right:50px;">書評『ファシストは未来を支配するためにいかに過去を改竄するのか』 www.nikkei.com/article/DGXZQO...   民主主義で導かれる結論はあくまで暫定的で、修正余地は常に開かれています。つまり、私たちの社会には「不確実性」が制度として組み込まれています。   一方、反リベラル体制では不確実性の余地そのものが否定されます。「ファイナルアンサー」が予め固定化され、それに沿う見解だけが許されます。   本書の著者スタンリーは、「国民的偉大さ」「厳格なジェンダー役割」「左翼への誹謗中傷」など5つのテーマが、こうした政治体制の教育で中心的役割を果たしていると論じています。 <a href="https://bsky.app/profile/nikkei.com/post/3m7urbgqtvp2g" target="_blank">nikkei.com</a> (2025-12-13 23:01:00)</span><span style="padding-right:50px;">Adm. Alvin Holsey relinquished his command over U.S. Southern Command amid rumors that he'd disagreed with the Trump administration's boat strikes. <a href="https://bsky.app/profile/usatoday.com/post/3m7urb7xxeu2h" target="_blank">usatoday.com</a> (2025-12-13 23:00:52)</span>
   </div>
 </div>
 
@@ -32,95 +32,101 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in Japanese:
-
-1. ラグビー リーグワン開幕 クボタスピアーズが白星スタート
-2. ロシア ウクライナに軍事侵攻（12月13日の動き）
-3. JR寝台特急「サンライズ瀬戸･出雲」東京発24分繰り上げ
-4. 米特使 ゼレンスキー大統領などと和平案協議へ
-5. ドイツのAicherがスキー・ストックでVonnに敗れる
-6. スケート ショートトラック全日本選手権 黒川輝衣は3連覇逃す
+1. ベラルーシ、123人を放免　米が経済制裁解除
+2. 2026年は住宅価格は安くなるかもしれない
+3. MSUのトム・イッツォー監督、年間5年契約で1,000万ドル増額
+4. 「ファシストは過去を改竄する」という本が出版
+5. カール3世「2026年に癌治療を減らす」　早期検診を呼びかける
+6. 君は「安心してスマホを下ろせ」　子供に教える親たち
 
 ----
 
-@reuters.com
+@bbcnews-world-rss.bsky.social
 
-Rwanda's actions in eastern Congo violate accords, Rubio says reut.rs/4qabhNH
+Belarus frees 123 prisoners as US lifts sanctions
 
-[2025-12-13 22:45:15](https://bsky.app/profile/reuters.com/post/3m7uqfbxn4f2x)
-
----
-
-@cbsnews.com
-
-At the scene of one of the deadliest flash floods in Texas history, 8-foot-tall aluminum towers are starting to appear on the banks of the Guadalupe River, part of a flash flood warning system that is being installed.  
-
-[2025-12-13 22:45:01](https://bsky.app/profile/cbsnews.com/post/3m7uqeuovrr2t)
+[2025-12-13 23:07:33](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7urn727os2r)
 
 ---
 
-@reuters.com
+@yahoofinance.com
 
-Belarusian opposition politician Maria Kalesnikava freed by authorities, report says reut.rs/48Sqps3
+Housing affordability may improve next year, but don’t expect a market crash
 
-[2025-12-13 22:40:14](https://bsky.app/profile/reuters.com/post/3m7uq4cpzdr2b)
-
----
-
-@npr.org
-
-The monarch revealed the positive outlook in a recorded message broadcast on British television as part of a campaign to promote screening, which increases the likelihood of successful treatment. n.pr/4rPoWeF
-
-[2025-12-13 22:38:46](https://bsky.app/profile/npr.org/post/3m7upzp4api2i)
+[2025-12-13 23:06:06](https://bsky.app/profile/yahoofinance.com/post/3m7urkklwcj2v)
 
 ---
 
-@reuters.com
+@apnews.com
 
-US-Syrian military patrol comes under fire in central Syria, officials say reut.rs/4q27TnT
+Michigan State's Tom Izzo is getting a $1 million raise in his 5-year contract that renews annually, a boost that makes him the highest-paid coach in the Big Ten with a salary of about $7.2 million.
 
-[2025-12-13 22:35:10](https://bsky.app/profile/reuters.com/post/3m7uptaq2ca2i)
+[2025-12-13 23:01:05](https://bsky.app/profile/apnews.com/post/3m7urblm2id23)
 
 ---
 
-@financialtimes.com
+@nikkei.com
 
-Londoners turn their noses up at the West End in December, but for a visiting New Yorker, it has an unmissable charm on.ft.com/3XVaWT0
+書評『ファシストは未来を支配するためにいかに過去を改竄するのか』
+www.nikkei.com/article/DGXZQO...
+ 
+民主主義で導かれる結論はあくまで暫定的で、修正余地は常に開かれています。つまり、私たちの社会には「不確実性」が制度として組み込まれています。
+ 
+一方、反リベラル体制では不確実性の余地そのものが否定されます。「ファイナルアンサー」が予め固定化され、それに沿う見解だけが許されます。
+ 
+本書の著者スタンリーは、「国民的偉大さ」「厳格なジェンダー役割」「左翼への誹謗中傷」など5つのテーマが、こうした政治体制の教育で中心的役割を果たしていると論じています。
 
-[2025-12-13 22:35:04](https://bsky.app/profile/financialtimes.com/post/3m7upt3mmyp2c)
+[2025-12-13 23:01:00](https://bsky.app/profile/nikkei.com/post/3m7urbgqtvp2g)
 
 ---
 
 @usatoday.com
 
-Canadian performer and "The Simpsons" voice actress Béatrice Picard has died at 96 after a 75-year career spanning television, film and theater.
+Adm. Alvin Holsey relinquished his command over U.S. Southern Command amid rumors that he'd disagreed with the Trump administration's boat strikes.
 
-[2025-12-13 22:30:21](https://bsky.app/profile/usatoday.com/post/3m7upkn243d2s)
+[2025-12-13 23:00:52](https://bsky.app/profile/usatoday.com/post/3m7urb7xxeu2h)
 
 ---
 
 @cnn.com
 
-The chain unveiled its first-ever concept store in SoHo this week, adorned with stylish apparel, designer collaborations, and beauty products — all key areas that its incoming CEO hopes will revive its former "Tar-zhay" glory.
-https://cnn.it/48W8CAk
+Thailand's leader vowed to keep fighting on the disputed border with Cambodia as fighter jets struck targets on Saturday, hours after US President Donald Trump said he had brokered a ceasefire.
+https://cnn.it/4iSeOh8
 
-[2025-12-13 22:30:07](https://bsky.app/profile/cnn.com/post/3m7upk7ovd32b)
+[2025-12-13 23:00:26](https://bsky.app/profile/cnn.com/post/3m7uragonz423)
+
+---
+
+@washingtonpost.com
+
+King Charles III announced that his cancer treatment will be reduced in 2026.
+He encouraged all Britons to undergo cancer screening, crediting early detection with “enabling me to continue leading a full and active life.”
+
+[2025-12-13 23:00:23](https://bsky.app/profile/washingtonpost.com/post/3m7uradunze2p)
+
+---
+
+@wsj.com
+
+Too many managers take a hands-off approach, and then get frustrated when things go awry. There is a better way on.wsj.com/44rnncT
+
+[2025-12-13 23:00:23](https://bsky.app/profile/wsj.com/post/3m7uradu3xj2t)
+
+---
+
+@bloomberg.com
+
+Homeowners looking to adapt to increasingly ferocious wildfires face a paradox. While they can undertake any number of costly upgrades to lower the odds their house is consumed by flames, if their neighbor doesn’t, all those efforts could be for naugh t.
+
+[2025-12-13 23:00:16](https://bsky.app/profile/bloomberg.com/post/3m7ura5iykw2w)
 
 ---
 
 @aljazeera.com
 
-A ceasefire deal appears distant as energy facilities are hit in Ukraine; Russia says a drone kills two.
+Joint Syrian-US patrol comes under attack near Palmyra; State media https://aje.io/l64uxl
 
-[2025-12-13 22:30:03](https://bsky.app/profile/aljazeera.com/post/3m7upk4jfbw2d)
-
----
-
-@cnbc.com
-
-'Stranger Things' ushered in a new era for Netflix
-
-[2025-12-13 22:12:59](https://bsky.app/profile/cnbc.com/post/3m7uolls6e62b)
+[2025-12-13 23:00:03](https://bsky.app/profile/aljazeera.com/post/3m7ur7rie5s22)
 
 ---
 
