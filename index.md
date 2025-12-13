@@ -1,9 +1,9 @@
-# [2025-12-14 00:50 updated](2025_12_14.md)
+# [2025-12-14 01:10 updated](2025_12_14.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Coca-Cola holds last-ditch talks in bid to salvage Costa Coffee sale, FT reports reut.rs/48CHbN2 <a href="https://bsky.app/profile/reuters.com/post/3m7uwszb5cb23" target="_blank">reuters.com</a> (2025-12-14 00:40:18)</span><span style="padding-right:50px;">UK police not taking further action over Andrew bodyguard claim reut.rs/3L0kdpU <a href="https://bsky.app/profile/reuters.com/post/3m7uwjvgg622x" target="_blank">reuters.com</a> (2025-12-14 00:35:12)</span><span style="padding-right:50px;">You never think you’re going to lose your phone—until you do. Here are the steps you can take now to prevent a lost phone from ruining your life. <a href="https://bsky.app/profile/nytimes.com/post/3m7uwe7vb7s2y" target="_blank">nytimes.com</a> (2025-12-14 00:32:02)</span><span style="padding-right:50px;">The first two episodes of "Taylor Swift | The Eras Tour | The End of an Era" were released Friday, Dec. 19. <a href="https://bsky.app/profile/usatoday.com/post/3m7uwbqctxp2l" target="_blank">usatoday.com</a> (2025-12-14 00:30:38)</span><span style="padding-right:50px;">Griezmann strike secures Atletico 2-1 win over Valencia reut.rs/4pLtVf1 <a href="https://bsky.app/profile/reuters.com/post/3m7uwbhqtq42b" target="_blank">reuters.com</a> (2025-12-14 00:30:29)</span>
+<span style="padding-right:50px;">Trump has suggested his (now dwindling) tariff revenues could pay for at least 9 different things <a href="https://bsky.app/profile/yahoofinance.com/post/3m7uyb5t5eg2j" target="_blank">yahoofinance.com</a> (2025-12-14 01:06:06)</span><span style="padding-right:50px;">These holiday recipes deliver that wow factor, yet they’re surprisingly easy to pull off at home. 🍪 on.wsj.com/4pYlAUY <a href="https://bsky.app/profile/wsj.com/post/3m7uy7rooxp2e" target="_blank">wsj.com</a> (2025-12-14 01:05:20)</span><span style="padding-right:50px;">Twenty-four years later, the toxic exposure from those months of searching claimed former New York City Fire Department Battalion Chief James "Jim" Riches' life too.  https://cnn.it/3Yrr5Qe <a href="https://bsky.app/profile/cnn.com/post/3m7uy5hcll62c" target="_blank">cnn.com</a> (2025-12-14 01:04:02)</span><span style="padding-right:50px;">This quick skillet dinner combines crisp gnocchi and brawny sausage with sweet pops of peas and herbs. It requires no chopping or waiting for water to boil. nyti.ms/4pEfeu0 <a href="https://bsky.app/profile/nytimes.com/post/3m7uy3ntzr62y" target="_blank">nytimes.com</a> (2025-12-14 01:03:02)</span><span style="padding-right:50px;">Belarus frees Nobel laureate after US lifts potash sanctions on.ft.com/4q5edLt <a href="https://bsky.app/profile/financialtimes.com/post/3m7uy33c73m2w" target="_blank">financialtimes.com</a> (2025-12-14 01:02:42)</span>
   </div>
 </div>
 
@@ -32,94 +32,95 @@
 
 ## News Headlines
 
-Here are six important stories with Japanese headlines:
+Here are six important stories with headlines in Japanese:
 
-1. コカ・コーラ、コスタコーヒー売却の決裂を回避するため最終交渉を行う
-2. アンドリューのボディーガード事件、英国警察が捜査を断念
-3. iPhoneがなくなった時の対策　使える手順がここに
-4. ジュベントスFCに€1.1億の買収オファーを提示するテザー
-5. NFLのプレーオフ出場権が決まる日は近づく
-6. ドイツのアントワープ大使館で爆発　1人死亡、多数の負傷
+1. 
+2. 
+3. 
+4. 
+5. 
+6.
 
 ----
 
-@reuters.com
+@yahoofinance.com
 
-Coca-Cola holds last-ditch talks in bid to salvage Costa Coffee sale, FT reports reut.rs/48CHbN2
+Trump has suggested his (now dwindling) tariff revenues could pay for at least 9 different things
 
-[2025-12-14 00:40:18](https://bsky.app/profile/reuters.com/post/3m7uwszb5cb23)
-
----
-
-@reuters.com
-
-UK police not taking further action over Andrew bodyguard claim reut.rs/3L0kdpU
-
-[2025-12-14 00:35:12](https://bsky.app/profile/reuters.com/post/3m7uwjvgg622x)
+[2025-12-14 01:06:06](https://bsky.app/profile/yahoofinance.com/post/3m7uyb5t5eg2j)
 
 ---
 
-@nytimes.com
+@wsj.com
 
-You never think you’re going to lose your phone—until you do. Here are the steps you can take now to prevent a lost phone from ruining your life.
+These holiday recipes deliver that wow factor, yet they’re surprisingly easy to pull off at home. 🍪 on.wsj.com/4pYlAUY
 
-[2025-12-14 00:32:02](https://bsky.app/profile/nytimes.com/post/3m7uwe7vb7s2y)
-
----
-
-@usatoday.com
-
-The first two episodes of "Taylor Swift | The Eras Tour | The End of an Era" were released Friday, Dec. 19.
-
-[2025-12-14 00:30:38](https://bsky.app/profile/usatoday.com/post/3m7uwbqctxp2l)
-
----
-
-@reuters.com
-
-Griezmann strike secures Atletico 2-1 win over Valencia reut.rs/4pLtVf1
-
-[2025-12-14 00:30:29](https://bsky.app/profile/reuters.com/post/3m7uwbhqtq42b)
-
----
-
-@washingtonpost.com
-
-A federal judge ruled that the DOJ unlawfully accessed evidence central to its case against former FBI director James Comey, delivering what could be a death blow to President Trump’s efforts to reindict one of his most prominent perceived rivals. 
-
-[2025-12-14 00:30:07](https://bsky.app/profile/washingtonpost.com/post/3m7uwastshs2d)
-
----
-
-@aljazeera.com
-
-This is a breaking news story.
-
-[2025-12-14 00:30:03](https://bsky.app/profile/aljazeera.com/post/3m7uwaphldi2p)
+[2025-12-14 01:05:20](https://bsky.app/profile/wsj.com/post/3m7uy7rooxp2e)
 
 ---
 
 @cnn.com
 
-Christos Tsirogiannis has spent almost two decades trawling through inventories of museums, auction houses and other collections for illegally trafficked antiquities. https://cnn.it/456kKgK
+Twenty-four years later, the toxic exposure from those months of searching claimed former New York City Fire Department Battalion Chief James "Jim" Riches' life too. 
+https://cnn.it/3Yrr5Qe
 
-[2025-12-14 00:29:02](https://bsky.app/profile/cnn.com/post/3m7uw6ugbbw2v)
+[2025-12-14 01:04:02](https://bsky.app/profile/cnn.com/post/3m7uy5hcll62c)
 
 ---
 
 @nytimes.com
 
-New York City could see its first big snow of the season this weekend.
+This quick skillet dinner combines crisp gnocchi and brawny sausage with sweet pops of peas and herbs. It requires no chopping or waiting for water to boil. nyti.ms/4pEfeu0
 
-[2025-12-14 00:26:29](https://bsky.app/profile/nytimes.com/post/3m7uw2curr72r)
+[2025-12-14 01:03:02](https://bsky.app/profile/nytimes.com/post/3m7uy3ntzr62y)
 
 ---
 
-@reuters.com
+@financialtimes.com
 
-Play abandoned as rain hits Royal Johannesburg reut.rs/4q2NpLN
+Belarus frees Nobel laureate after US lifts potash sanctions on.ft.com/4q5edLt
 
-[2025-12-14 00:25:11](https://bsky.app/profile/reuters.com/post/3m7uvxxye2u2b)
+[2025-12-14 01:02:42](https://bsky.app/profile/financialtimes.com/post/3m7uy33c73m2w)
+
+---
+
+@apnews.com
+
+Can you beat the AP's weekend editor? Take the weekly quiz.
+
+[2025-12-14 01:01:11](https://bsky.app/profile/apnews.com/post/3m7uxydtqiv2q)
+
+---
+
+@usatoday.com
+
+'Help us out.' An East Coast city wants to reclaim its 13,000 vacant homes.
+
+[2025-12-14 01:00:31](https://bsky.app/profile/usatoday.com/post/3m7uxx5t5ts2o)
+
+---
+
+@washingtonpost.com
+
+Column by Kyle Melnick: Spending a day with an extroverted foster dog forced me to talk to strangers — something I would not normally do — and showed me that some people are not that bad. 
+
+[2025-12-14 01:00:20](https://bsky.app/profile/washingtonpost.com/post/3m7uxwtvf4p2x)
+
+---
+
+@aljazeera.com
+
+Israel says it hit ‘key’ Hamas member in Gaza City https://aje.io/2um0xk
+
+[2025-12-14 01:00:03](https://bsky.app/profile/aljazeera.com/post/3m7uxwditwv2z)
+
+---
+
+@npr.org
+
+Researchers at the University of California San Francisco track how abortion comes up on television. They say the trends from 2025 are concerning. n.pr/4oQlr52
+
+[2025-12-14 00:57:05](https://bsky.app/profile/npr.org/post/3m7uxqzp2p62n)
 
 ---
 
