@@ -1,9 +1,9 @@
-# [2025-12-14 01:50 updated](2025_12_14.md)
+# [2025-12-14 02:10 updated](2025_12_14.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">A federal judge ordered the Justice Department on Friday to get rid of a critical trove of evidence it used in September to bring charges against James Comey, the former FBI director, saying that prosecutors had obtained the materials unlawfully. <a href="https://bsky.app/profile/nytimes.com/post/3m7v2ikikow2v" target="_blank">nytimes.com</a> (2025-12-14 01:46:02)</span><span style="padding-right:50px;">Algeria keeper Zidane likely to start at Cup of Nations reut.rs/48SUGqC <a href="https://bsky.app/profile/reuters.com/post/3m7v2hbqrk32r" target="_blank">reuters.com</a> (2025-12-14 01:45:19)</span><span style="padding-right:50px;">Israel targets senior Hamas official in deadly Gaza strike <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7v27pb5ll2b" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-14 01:41:04)</span><span style="padding-right:50px;">Sweden's SOBI to buy Arthrosi Therapeutics for $1.5 billion reut.rs/4aPlJ8N <a href="https://bsky.app/profile/reuters.com/post/3m7uzv3wpsq2y" target="_blank">reuters.com</a> (2025-12-14 01:35:09)</span><span style="padding-right:50px;">In @nytopinion.nytimes.com  “America was once the world’s industrial superpower. Now it accounts for just 17% of global manufacturing,” the New York Times editorial board writes. “China controls 28%, and its lead is growing.” <a href="https://bsky.app/profile/nytimes.com/post/3m7uzuxfbtk2x" target="_blank">nytimes.com</a> (2025-12-14 01:35:04)</span>
+<span style="padding-right:50px;">BREAKING: Two U.S. soldiers and an American civilian were attacked and killed in Syria, U.S. military officials say.   <a href="https://bsky.app/profile/cbsnews.com/post/3m7v3nxuhsl2c" target="_blank">cbsnews.com</a> (2025-12-14 02:06:58)</span><span style="padding-right:50px;">Author David Bach reveals how you become a millionaire <a href="https://bsky.app/profile/yahoofinance.com/post/3m7v3mgn4ut26" target="_blank">yahoofinance.com</a> (2025-12-14 02:06:06)</span><span style="padding-right:50px;">Two U.S. soldiers, one interpreter killed in Syria, Pentagon says reut.rs/498Dhvk <a href="https://bsky.app/profile/reuters.com/post/3m7v3kt6g3r2b" target="_blank">reuters.com</a> (2025-12-14 02:05:12)</span><span style="padding-right:50px;">JUST IN: Two US Army soldiers and one civilian interpreter were killed in an attack in Syria, the Pentagon says. https://cnn.it/44r02rS <a href="https://bsky.app/profile/cnn.com/post/3m7v3gbybw62t" target="_blank">cnn.com</a> (2025-12-14 02:02:40)</span><span style="padding-right:50px;">Japan’s small, efficient kei cars start at just over $10,000. on.wsj.com/4ab4iiV <a href="https://bsky.app/profile/wsj.com/post/3m7v3fw54ls23" target="_blank">wsj.com</a> (2025-12-14 02:02:27)</span>
   </div>
 </div>
 
@@ -32,98 +32,94 @@
 
 ## News Headlines
 
-Here are six news headlines in Japanese:
-
-1. 
-1. 
-2. 
-3. 
-4. 
-5. 
-6.
+1. シリアで米兵3人死亡
+2. 米軍のシリアでの攻撃で2人死亡
+3. 小型車の価格が10万ドルから
+4. ベラルーシで拘束された日本人男性釈放
+5. 中国のワンケが債務延期を断念
+6. ハワイでアビスケーターが一酸化炭素中毒
 
 ----
 
-@nytimes.com
+@cbsnews.com
 
-A federal judge ordered the Justice Department on Friday to get rid of a critical trove of evidence it used in September to bring charges against James Comey, the former FBI director, saying that prosecutors had obtained the materials unlawfully.
+<strong><span style="color: red;">BREAKING:</span> Two U.S. soldiers and an American civilian were attacked and killed in Syria, U.S. military officials say.  </strong>
 
-[2025-12-14 01:46:02](https://bsky.app/profile/nytimes.com/post/3m7v2ikikow2v)
+[2025-12-14 02:06:58](https://bsky.app/profile/cbsnews.com/post/3m7v3nxuhsl2c)
+
+---
+
+@yahoofinance.com
+
+Author David Bach reveals how you become a millionaire
+
+[2025-12-14 02:06:06](https://bsky.app/profile/yahoofinance.com/post/3m7v3mgn4ut26)
 
 ---
 
 @reuters.com
 
-Algeria keeper Zidane likely to start at Cup of Nations reut.rs/48SUGqC
+Two U.S. soldiers, one interpreter killed in Syria, Pentagon says reut.rs/498Dhvk
 
-[2025-12-14 01:45:19](https://bsky.app/profile/reuters.com/post/3m7v2hbqrk32r)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Israel targets senior Hamas official in deadly Gaza strike
-
-[2025-12-14 01:41:04](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7v27pb5ll2b)
-
----
-
-@reuters.com
-
-Sweden's SOBI to buy Arthrosi Therapeutics for $1.5 billion reut.rs/4aPlJ8N
-
-[2025-12-14 01:35:09](https://bsky.app/profile/reuters.com/post/3m7uzv3wpsq2y)
-
----
-
-@nytimes.com
-
-In @nytopinion.nytimes.com
-
-“America was once the world’s industrial superpower. Now it accounts for just 17% of global manufacturing,” the New York Times editorial board writes. “China controls 28%, and its lead is growing.”
-
-[2025-12-14 01:35:04](https://bsky.app/profile/nytimes.com/post/3m7uzuxfbtk2x)
-
----
-
-@apnews.com
-
-Four standout college football players are in New York for the Heisman Trophy ceremony.
-
-[2025-12-14 01:33:49](https://bsky.app/profile/apnews.com/post/3m7uzspld3u2n)
-
----
-
-@usatoday.com
-
-Read more: bit.ly/4rS3J3I
-
-[2025-12-14 01:33:29](https://bsky.app/profile/usatoday.com/post/3m7uzs3vnck2w)
-
----
-
-@nhknewsunofficial.bsky.social
-
-ベラルーシで拘束の元日本語講師 中西雅敏さん釈放
-https://news.web.nhk/newsweb/na/na-k10015003391000
-
-[2025-12-14 01:33:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7uzrfg2w52w)
-
----
-
-@usatoday.com
-
-A father, daughter and twin sons are all ICE agents. They see themselves as crime fighters. Others see them as something far worse.
-
-[2025-12-14 01:30:24](https://bsky.app/profile/usatoday.com/post/3m7uzmm4avv2o)
+[2025-12-14 02:05:12](https://bsky.app/profile/reuters.com/post/3m7v3kt6g3r2b)
 
 ---
 
 @cnn.com
 
-Several regions of Ukraine endured a night of Russian drone and missile attacks targeting energy infrastructure that left more than a million households without power, according to the interior ministry: https://cnn.it/3KFKfPf
+<strong><span style="color: red;">JUST IN:</span> Two US Army soldiers and one civilian interpreter were killed in an attack in Syria, the Pentagon says. https://cnn.it/44r02rS</strong>
 
-[2025-12-14 01:30:08](https://bsky.app/profile/cnn.com/post/3m7uzm4obcp2x)
+[2025-12-14 02:02:40](https://bsky.app/profile/cnn.com/post/3m7v3gbybw62t)
+
+---
+
+@wsj.com
+
+Japan’s small, efficient kei cars start at just over $10,000. on.wsj.com/4ab4iiV
+
+[2025-12-14 02:02:27](https://bsky.app/profile/wsj.com/post/3m7v3fw54ls23)
+
+---
+
+@reuters.com
+
+China Vanke fails to get bondholder backing for payment extension, sources say reut.rs/4pxSTyj
+
+[2025-12-14 02:01:10](https://bsky.app/profile/reuters.com/post/3m7v3dm4r4m2y)
+
+---
+
+@usatoday.com
+
+Second lady Usha Vance talks about her life and marriage to Vice President JD Vance in an exclusive interview.
+
+[2025-12-14 02:01:04](https://bsky.app/profile/usatoday.com/post/3m7v3dgas2j2f)
+
+---
+
+@cnbc.com
+
+It’s one of the most important meetings for employees’ career success, yet many people are going about it completely wrong.
+
+Here's how this meeting science expert says to ace one-on-ones.
+
+[2025-12-14 02:00:59](https://bsky.app/profile/cnbc.com/post/3m7v3dbnc4i2e)
+
+---
+
+@apnews.com
+
+Ravens Pro Bowl linebacker Kyle Van Noy talks about Baltimore's upcoming game against Joe Burrow and the Bengals, compares Lamar Jackson to Tom Brady and discusses being nominated for the Art Rooney sportsmanship award.
+
+[2025-12-14 02:00:39](https://bsky.app/profile/apnews.com/post/3m7v3cosivm2k)
+
+---
+
+@cnn.com
+
+At least a dozen US House Democrats are already facing primary challenges, as progressives seek to transform a party regaining its footing after 2024 by tapping into voters’ frustration with its leaders ahead of next year’s midterm elections.
+
+[2025-12-14 02:00:33](https://bsky.app/profile/cnn.com/post/3m7v3cjcqhu23)
 
 ---
 
