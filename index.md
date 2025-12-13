@@ -1,9 +1,9 @@
-# [2025-12-13 18:30 updated](2025_12_13.md)
+# [2025-12-13 18:50 updated](2025_12_13.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">アイヌ施策担当 黄川田大臣 差別解消へ理解深める活動 着実に https://news.web.nhk/newsweb/na/na-k10015003201000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ubmvmz3u2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-13 18:21:02)</span><span style="padding-right:50px;">Ukraine's Odesa suffers major blackouts after Russian attack reut.rs/4oVvmGu <a href="https://bsky.app/profile/reuters.com/post/3m7ubcdmqwk2i" target="_blank">reuters.com</a> (2025-12-13 18:15:10)</span><span style="padding-right:50px;">Rights groups condemn reported re-arrest of Nobel laureate Mohammadi in Iran reut.rs/4pAJExt <a href="https://bsky.app/profile/reuters.com/post/3m7uazevcpn2i" target="_blank">reuters.com</a> (2025-12-13 18:10:09)</span><span style="padding-right:50px;">You may not own a single dumbbell, but rest assured you already have everything you need to get stronger — by using your own body weight.  <a href="https://bsky.app/profile/cnn.com/post/3m7uaofzt432v" target="_blank">cnn.com</a> (2025-12-13 18:04:01)</span><span style="padding-right:50px;">「ラブライブ！」聖地に300人移住　静岡県沼津市 www.nikkei.com/article/DGXZQO...  沼津市内には主人公の実家のモデルとされる旅館や神社など、十数カ所の聖地が点在。  人気にあやかって街おこしを進める市は、下見と引っ越し当日の交通費を支給するなど移住支援に力を入れてきました。 <a href="https://bsky.app/profile/nikkei.com/post/3m7uainhps22g" target="_blank">nikkei.com</a> (2025-12-13 18:00:48)</span>
+<span style="padding-right:50px;">Iran raises fuel prices for heavy users to curb consumption, smuggling reut.rs/3Kv18MB <a href="https://bsky.app/profile/reuters.com/post/3m7ucy2qvvz23" target="_blank">reuters.com</a> (2025-12-13 18:45:13)</span><span style="padding-right:50px;">Machines that show their work could overcome the public’s distrust in AI, writes Christopher Mims. <a href="https://bsky.app/profile/wsj.com/post/3m7ucxyish32k" target="_blank">wsj.com</a> (2025-12-13 18:45:10)</span><span style="padding-right:50px;">手薄な夜間に大規模災害が起きたら…医療機関の患者避難に課題 https://news.web.nhk/newsweb/na/na-k10015003181000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ucxstytc22" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-13 18:45:02)</span><span style="padding-right:50px;">Dhurandhar: New Bollywood film divides opinions in India and Pakistan <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7ucqyl5t625" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-13 18:41:15)</span><span style="padding-right:50px;">France to vaccinate cattle for lumpy skin disease as farmers protest against cull reut.rs/3KGc4Hd <a href="https://bsky.app/profile/reuters.com/post/3m7ucoyrh4h2y" target="_blank">reuters.com</a> (2025-12-13 18:40:08)</span>
   </div>
 </div>
 
@@ -32,14 +32,85 @@
 
 ## News Headlines
 
-1. イエスキュークルが医療従事者を含む市民に攻撃　薬品を与えた後も「いずれにせよ殺害」
-2. エプスタイン氏写真　トランプ氏・クリントン氏らと写る
-3. 沼津市　「ラブライブ！」の聖地に300人移住
-4. 米国でAIの重要鉱物確保の新枠組み発足
-5. 長崎ヴェルカ　107-82で滋賀に勝利
-6. 中国の火星探査機が恒星間天体の観測に成功
+1.  イラン、重油消費を抑えるため高需要者の燃料価格を値上げ
+2.  AIが仕事を披露すれば、公衆の信頼を取り戻せるか
+3.  医療機関の避難に課題が生じる夜の大規模災害
+4.  フランス、牛のループス病予防接種を開始
+5.  外国人留学生のバイト許可を厳しくする
+6.  エル・ネストロの軍事演習、市民に避難を指示
 
 ----
+
+@reuters.com
+
+Iran raises fuel prices for heavy users to curb consumption, smuggling reut.rs/3Kv18MB
+
+[2025-12-13 18:45:13](https://bsky.app/profile/reuters.com/post/3m7ucy2qvvz23)
+
+---
+
+@wsj.com
+
+Machines that show their work could overcome the public’s distrust in AI, writes Christopher Mims.
+
+[2025-12-13 18:45:10](https://bsky.app/profile/wsj.com/post/3m7ucxyish32k)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+手薄な夜間に大規模災害が起きたら…医療機関の患者避難に課題
+https://news.web.nhk/newsweb/na/na-k10015003181000
+
+[2025-12-13 18:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ucxstytc22)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Dhurandhar: New Bollywood film divides opinions in India and Pakistan
+
+[2025-12-13 18:41:15](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7ucqyl5t625)
+
+---
+
+@reuters.com
+
+France to vaccinate cattle for lumpy skin disease as farmers protest against cull reut.rs/3KGc4Hd
+
+[2025-12-13 18:40:08](https://bsky.app/profile/reuters.com/post/3m7ucoyrh4h2y)
+
+---
+
+@financialtimes.com
+
+Surely a restaurant critic has earned the right to decide on dinner?
+on.ft.com/4oROANd
+
+[2025-12-13 18:32:05](https://bsky.app/profile/financialtimes.com/post/3m7ucalcv6g2w)
+
+---
+
+@nikkei.com
+
+外国人留学生のバイト許可厳しく　審査や時間管理を厳密に
+www.nikkei.com/article/DGXZQO...
+
+現状では入国時に氏名や生年月日など基本情報を記入して申請すれば、その場で原則許可されます。
+
+不法就労の温床になっているとの指摘もあり、外国人労働者を受け入れる目的で運営する悪質な日本語学校の存在も問題になっています。
+
+[2025-12-13 18:30:36](https://bsky.app/profile/nikkei.com/post/3m7uc5wsre326)
+
+---
+
+@aljazeera.com
+
+ELN conducts military drills, orders civilians indoors, as Trump warns drug-producing nations face potential attack.
+
+[2025-12-13 18:30:04](https://bsky.app/profile/aljazeera.com/post/3m7uc4yod4b2d)
+
+---
 
 @nhknewsunofficial.bsky.social
 
@@ -55,75 +126,6 @@ https://news.web.nhk/newsweb/na/na-k10015003201000
 Ukraine's Odesa suffers major blackouts after Russian attack reut.rs/4oVvmGu
 
 [2025-12-13 18:15:10](https://bsky.app/profile/reuters.com/post/3m7ubcdmqwk2i)
-
----
-
-@reuters.com
-
-Rights groups condemn reported re-arrest of Nobel laureate Mohammadi in Iran reut.rs/4pAJExt
-
-[2025-12-13 18:10:09](https://bsky.app/profile/reuters.com/post/3m7uazevcpn2i)
-
----
-
-@cnn.com
-
-You may not own a single dumbbell, but rest assured you already have everything you need to get stronger — by using your own body weight. 
-
-[2025-12-13 18:04:01](https://bsky.app/profile/cnn.com/post/3m7uaofzt432v)
-
----
-
-@nikkei.com
-
-「ラブライブ！」聖地に300人移住　静岡県沼津市
-www.nikkei.com/article/DGXZQO...
-
-沼津市内には主人公の実家のモデルとされる旅館や神社など、十数カ所の聖地が点在。
-
-人気にあやかって街おこしを進める市は、下見と引っ越し当日の交通費を支給するなど移住支援に力を入れてきました。
-
-[2025-12-13 18:00:48](https://bsky.app/profile/nikkei.com/post/3m7uainhps22g)
-
----
-
-@reuters.com
-
-England must change mindset to salvage Ashes, says Johnson reut.rs/4iSnAM5
-
-[2025-12-13 18:00:43](https://bsky.app/profile/reuters.com/post/3m7uaiiv64f2r)
-
----
-
-@bloomberg.com
-
-The rally is defying expectations of a glum year for the sector as President Donald Trump pushes his Big Oil agenda.
-
-[2025-12-13 18:00:14](https://bsky.app/profile/bloomberg.com/post/3m7uahn2aat23)
-
----
-
-@aljazeera.com
-
-Kim Jong Un participates in latest public event to honour North Korean troops who served with Russian forces.
-
-[2025-12-13 18:00:04](https://bsky.app/profile/aljazeera.com/post/3m7uahdcqzu2z)
-
----
-
-@npr.org
-
-In our time, it's easy to shut your mind, driven by fear or misinformation. This year, NPR Music's pop critic found the antidote in music that encouraged exploring n.pr/494BlEe
-
-[2025-12-13 17:58:18](https://bsky.app/profile/npr.org/post/3m7uae6b72j2p)
-
----
-
-@wsj.com
-
-How an obscure company pivoted, then pivoted again, nearly ran out of money—and built the toy everybody wants.
-
-[2025-12-13 17:39:33](https://bsky.app/profile/wsj.com/post/3m7u7cnieg423)
 
 ---
 
