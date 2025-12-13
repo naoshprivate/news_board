@@ -1,9 +1,9 @@
-# [2025-12-13 17:50 updated](2025_12_13.md)
+# [2025-12-13 18:10 updated](2025_12_13.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">How an obscure company pivoted, then pivoted again, nearly ran out of money—and built the toy everybody wants. <a href="https://bsky.app/profile/wsj.com/post/3m7u7cnieg423" target="_blank">wsj.com</a> (2025-12-13 17:39:33)</span><span style="padding-right:50px;">モンベル創業50周年　辰野勇会長｢自分たちが欲しいもの形に｣ www.nikkei.com/article/DGXZQO...  「あなたは欲しいものがありますか？」会長に問われた記者は、思い浮かびませんでした。  「それじゃあ、商売できませんね。無理に考えて作るのは、僕は違うと思う」。 <a href="https://bsky.app/profile/nikkei.com/post/3m7u6snovnm22" target="_blank">nikkei.com</a> (2025-12-13 17:30:36)</span><span style="padding-right:50px;">Country star Jelly Roll is ready to win a Grammy. The “Beautifully Broken” singer has three nominations this year. He has been nominated three consecutive years. This time around, he's up for his first album award and his first award in a contemporary Christian music category.  <a href="https://bsky.app/profile/apnews.com/post/3m7u6ru4fda2p" target="_blank">apnews.com</a> (2025-12-13 17:30:09)</span><span style="padding-right:50px;">Witnesses at the hospital and the UN say the attack killed medics, patients and may 'amount to a war crime'. <a href="https://bsky.app/profile/aljazeera.com/post/3m7u6rpvmxk27" target="_blank">aljazeera.com</a> (2025-12-13 17:30:05)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】長崎ヴェルカ 107-82で滋賀に勝利 プロバスケB1《長崎》 (2025-12-13 17:13) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7u5x4v3el2v" target="_blank">sokuho.news</a> (2025-12-13 17:15:12)</span>
+<span style="padding-right:50px;">You may not own a single dumbbell, but rest assured you already have everything you need to get stronger — by using your own body weight.  <a href="https://bsky.app/profile/cnn.com/post/3m7uaofzt432v" target="_blank">cnn.com</a> (2025-12-13 18:04:01)</span><span style="padding-right:50px;">「ラブライブ！」聖地に300人移住　静岡県沼津市 www.nikkei.com/article/DGXZQO...  沼津市内には主人公の実家のモデルとされる旅館や神社など、十数カ所の聖地が点在。  人気にあやかって街おこしを進める市は、下見と引っ越し当日の交通費を支給するなど移住支援に力を入れてきました。 <a href="https://bsky.app/profile/nikkei.com/post/3m7uainhps22g" target="_blank">nikkei.com</a> (2025-12-13 18:00:48)</span><span style="padding-right:50px;">England must change mindset to salvage Ashes, says Johnson reut.rs/4iSnAM5 <a href="https://bsky.app/profile/reuters.com/post/3m7uaiiv64f2r" target="_blank">reuters.com</a> (2025-12-13 18:00:43)</span><span style="padding-right:50px;">The rally is defying expectations of a glum year for the sector as President Donald Trump pushes his Big Oil agenda. <a href="https://bsky.app/profile/bloomberg.com/post/3m7uahn2aat23" target="_blank">bloomberg.com</a> (2025-12-13 18:00:14)</span><span style="padding-right:50px;">Kim Jong Un participates in latest public event to honour North Korean troops who served with Russian forces. <a href="https://bsky.app/profile/aljazeera.com/post/3m7uahdcqzu2z" target="_blank">aljazeera.com</a> (2025-12-13 18:00:04)</span>
   </div>
 </div>
 
@@ -32,14 +32,67 @@
 
 ## News Headlines
 
-1. モンベル創業50周年　辰野勇会長
-2. 長崎ヴェルカ 107-82で滋賀に勝利
-3. 2人死亡　ウクライナのドローンによるロシアへの攻撃
-4. 米、中国との大国対決に新戦術を
-5. 中国の火星探査機、史上3つ目の恒星間天体「3I/ATLAS」の観測に成功
-6. エプスタイン氏とトランプ氏・クリントン氏らの写真公開
+1. ラブライブ！聖地に300人移住　静岡県沼津市
+2. 英国はアッシュズを守るために意識を変える必要がある
+3. 日中戦争中の南京大虐殺を追悼する式典が開かれ
+4. 中国の火星探査機が3つ目の恒星間天体を観測
+5. NBAシーズンでシカゴ・ブルズがカリフォルニア・ウォーリアーズに勝利
+6. エプスタイン氏とトランプ氏・クリントン氏らの写真が公開
 
 ----
+
+@cnn.com
+
+You may not own a single dumbbell, but rest assured you already have everything you need to get stronger — by using your own body weight. 
+
+[2025-12-13 18:04:01](https://bsky.app/profile/cnn.com/post/3m7uaofzt432v)
+
+---
+
+@nikkei.com
+
+「ラブライブ！」聖地に300人移住　静岡県沼津市
+www.nikkei.com/article/DGXZQO...
+
+沼津市内には主人公の実家のモデルとされる旅館や神社など、十数カ所の聖地が点在。
+
+人気にあやかって街おこしを進める市は、下見と引っ越し当日の交通費を支給するなど移住支援に力を入れてきました。
+
+[2025-12-13 18:00:48](https://bsky.app/profile/nikkei.com/post/3m7uainhps22g)
+
+---
+
+@reuters.com
+
+England must change mindset to salvage Ashes, says Johnson reut.rs/4iSnAM5
+
+[2025-12-13 18:00:43](https://bsky.app/profile/reuters.com/post/3m7uaiiv64f2r)
+
+---
+
+@bloomberg.com
+
+The rally is defying expectations of a glum year for the sector as President Donald Trump pushes his Big Oil agenda.
+
+[2025-12-13 18:00:14](https://bsky.app/profile/bloomberg.com/post/3m7uahn2aat23)
+
+---
+
+@aljazeera.com
+
+Kim Jong Un participates in latest public event to honour North Korean troops who served with Russian forces.
+
+[2025-12-13 18:00:04](https://bsky.app/profile/aljazeera.com/post/3m7uahdcqzu2z)
+
+---
+
+@npr.org
+
+In our time, it's easy to shut your mind, driven by fear or misinformation. This year, NPR Music's pop critic found the antidote in music that encouraged exploring n.pr/494BlEe
+
+[2025-12-13 17:58:18](https://bsky.app/profile/npr.org/post/3m7uae6b72j2p)
+
+---
 
 @wsj.com
 
@@ -75,61 +128,6 @@ Country star Jelly Roll is ready to win a Grammy. The “Beautifully Broken” s
 Witnesses at the hospital and the UN say the attack killed medics, patients and may 'amount to a war crime'.
 
 [2025-12-13 17:30:05](https://bsky.app/profile/aljazeera.com/post/3m7u6rpvmxk27)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】長崎ヴェルカ 107-82で滋賀に勝利 プロバスケB1《長崎》
-(2025-12-13 17:13) #ニュース
-
-[2025-12-13 17:15:12](https://bsky.app/profile/sokuho.news/post/3m7u5x4v3el2v)
-
----
-
-@reuters.com
-
-Two killed in Ukrainian drone strike on Russia's Saratov, regional governor says reut.rs/4oSEOKL
-
-[2025-12-13 17:15:09](https://bsky.app/profile/reuters.com/post/3m7u5wz2tsx24)
-
----
-
-@wsj.com
-
-A “terrifying” new era of warfare is forcing America to rethink its tools and tactics as it prepares for great-power conflict with China.
-
-[2025-12-13 17:14:15](https://bsky.app/profile/wsj.com/post/3m7u5vfzdgi23)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】集合住宅で火災 住人の女性1人がケガ 「3階から煙が出ています」と通報 消防車など25台が出動 大阪・住吉区
-(2025-12-13 16:30) #ニュース
-
-[2025-12-13 17:10:38](https://bsky.app/profile/sokuho.news/post/3m7u5owy5yn2b)
-
----
-
-@reuters.com
-
-China's Wang Yi seeks deeper oil and gas ties with UAE on Middle East tour reut.rs/3MFr3Sc
-
-[2025-12-13 17:10:28](https://bsky.app/profile/reuters.com/post/3m7u5oniek42y)
-
----
-
-@nhknewsunofficial.bsky.social
-
-エンジェルス 菊池雄星 WBCに意欲示す「前のめりで考えたい」
-https://news.web.nhk/newsweb/na/na-k10015003191000
-
-[2025-12-13 17:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7u5m6tnc72x)
 
 ---
 
