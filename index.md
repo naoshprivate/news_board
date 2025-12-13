@@ -1,9 +1,9 @@
-# [2025-12-13 21:30 updated](2025_12_13.md)
+# [2025-12-13 21:50 updated](2025_12_13.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">News Quiz for Dec. 13, 2025 on.wsj.com/4pAQzGX <a href="https://bsky.app/profile/wsj.com/post/3m7uls4pqpm2g" target="_blank">wsj.com</a> (2025-12-13 21:22:57)</span><span style="padding-right:50px;">JR寝台特急「サンライズ瀬戸･出雲」東京発24分繰り上げ　午後9時26分に、保守時間確保（無料記事） www.nikkei.com/article/DGXZQO...  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m7ulgrpgi72x" target="_blank">nikkei.com</a> (2025-12-13 21:16:36)</span><span style="padding-right:50px;">Kirk Haworth on getting meat eaters to love plant-based dining reut.rs/4pApuDE <a href="https://bsky.app/profile/reuters.com/post/3m7ulei2inp2p" target="_blank">reuters.com</a> (2025-12-13 21:15:19)</span><span style="padding-right:50px;">“米特使 ゼレンスキー大統領などと和平案協議へ”米報道 https://news.web.nhk/newsweb/na/na-k10015003271000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ul6oq2342d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-13 21:12:02)</span><span style="padding-right:50px;">With Fed independence in crosshairs, will Supreme Court back Trump again? reut.rs/3MAZqK7 <a href="https://bsky.app/profile/reuters.com/post/3m7ul3gldx22s" target="_blank">reuters.com</a> (2025-12-13 21:10:16)</span>
+<span style="padding-right:50px;">The holiday season means time with family and new memories, but it can also mean lots of spending — sometimes too much.  Here are some expert recommendations to make the most out of your budget this holiday season. <a href="https://bsky.app/profile/apnews.com/post/3m7umzvoloy2q" target="_blank">apnews.com</a> (2025-12-13 21:45:12)</span><span style="padding-right:50px;">At least two people were killed in a drone attack in Russia's southwestern Saratov region and parts of Ukraine went without power following targeted assaults on energy infrastructure, local authorities said Saturday, as U.S.-led peace talks on ending the war press on.  <a href="https://bsky.app/profile/cbsnews.com/post/3m7umzlrfab2l" target="_blank">cbsnews.com</a> (2025-12-13 21:45:01)</span><span style="padding-right:50px;">【随時更新】ロシア ウクライナに軍事侵攻（12月13日の動き） https://news.web.nhk/newsweb/na/na-k10014976801000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7umudmxcn2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-13 21:42:03)</span><span style="padding-right:50px;">スケート ショートトラック全日本選手権 黒川輝衣は3連覇逃す https://news.web.nhk/newsweb/na/na-k10015003361000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7umoy46j624" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-13 21:39:03)</span><span style="padding-right:50px;">中国で根付くヒップホップ　当局は統制、表現は多様化 www.nikkei.com/article/DGXZQO...  四川省や新疆ウイグル自治区などで盛んです。  当局は、ときに政治や社会を動かしてきたヒップホップににらみを利かせます。  ラッパーは自らのスタイルを守る努力を重ねて活動しています。 <a href="https://bsky.app/profile/nikkei.com/post/3m7um7t3htd2i" target="_blank">nikkei.com</a> (2025-12-13 21:30:37)</span>
   </div>
 </div>
 
@@ -32,16 +32,84 @@
 
 ## News Headlines
 
-Here are six news headlines in Japanese:
-
-1. JR寝台特急「サンライズ瀬戸・出雲」東京発24分繰り上げ　午後9時26分に、保守時間確保
-2. 米特使 ゼレンスキー大統領などと和平案協議へ
-3. 立民 野田代表「定数削減法案今国会での成立諦めるべき」
-4. 若者ケアラーに支援届かず、相談窓口に「18歳の壁」
-5. ドイツのアイヒャーがマーキュリーでダブルを逃す
-6. フィリピン「南シナ海で中国船から放水　漁船の乗組員3人けが」
+1. ロシア・ウクライナ情勢　 drone攻撃で2人死亡
+2. JR寝台特急「サンライズ瀬戸・出雲」24分繰り上げ
+3. 米大統領が特使を派遣　ゼレンスキー大統領との和平協議へ
+4. 若者介護に支援届かず　「18歳の壁」
+5. フィリピン　中国船から放水　漁船の乗組員3人けが
+6. 中国で根付くヒップホップ　統制にこたえる表現の多様化
 
 ----
+
+@apnews.com
+
+The holiday season means time with family and new memories, but it can also mean lots of spending — sometimes too much.
+
+Here are some expert recommendations to make the most out of your budget this holiday season.
+
+[2025-12-13 21:45:12](https://bsky.app/profile/apnews.com/post/3m7umzvoloy2q)
+
+---
+
+@cbsnews.com
+
+At least two people were killed in a drone attack in Russia's southwestern Saratov region and parts of Ukraine went without power following targeted assaults on energy infrastructure, local authorities said Saturday, as U.S.-led peace talks on ending the war press on. 
+
+[2025-12-13 21:45:01](https://bsky.app/profile/cbsnews.com/post/3m7umzlrfab2l)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【随時更新】ロシア ウクライナに軍事侵攻（12月13日の動き）
+https://news.web.nhk/newsweb/na/na-k10014976801000
+
+[2025-12-13 21:42:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7umudmxcn2k)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+スケート ショートトラック全日本選手権 黒川輝衣は3連覇逃す
+https://news.web.nhk/newsweb/na/na-k10015003361000
+
+[2025-12-13 21:39:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7umoy46j624)
+
+---
+
+@nikkei.com
+
+中国で根付くヒップホップ　当局は統制、表現は多様化
+www.nikkei.com/article/DGXZQO...
+
+四川省や新疆ウイグル自治区などで盛んです。
+
+当局は、ときに政治や社会を動かしてきたヒップホップににらみを利かせます。
+
+ラッパーは自らのスタイルを守る努力を重ねて活動しています。
+
+[2025-12-13 21:30:37](https://bsky.app/profile/nikkei.com/post/3m7um7t3htd2i)
+
+---
+
+@usatoday.com
+
+After seven years of marriage, Amy Schumer and husband Chris Fischer are divorcing but remain on good terms as they coparent their son Gene.
+
+[2025-12-13 21:30:18](https://bsky.app/profile/usatoday.com/post/3m7um7awxqe2q)
+
+---
+
+@cnn.com
+
+The two jackpots might differ by hundreds of millions – but the number that helps explain why is much smaller.
+
+Three dollars. That's how much Mega Millions hiked its ticket price in April, more than doubling from $2 to $5.
+https://cnn.it/48Q1DbR
+
+[2025-12-13 21:30:05](https://bsky.app/profile/cnn.com/post/3m7um6uoi2d2x)
+
+---
 
 @wsj.com
 
@@ -67,63 +135,6 @@ www.nikkei.com/article/DGXZQO...
 Kirk Haworth on getting meat eaters to love plant-based dining reut.rs/4pApuDE
 
 [2025-12-13 21:15:19](https://bsky.app/profile/reuters.com/post/3m7ulei2inp2p)
-
----
-
-@nhknewsunofficial.bsky.social
-
-“米特使 ゼレンスキー大統領などと和平案協議へ”米報道
-https://news.web.nhk/newsweb/na/na-k10015003271000
-
-[2025-12-13 21:12:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ul6oq2342d)
-
----
-
-@reuters.com
-
-With Fed independence in crosshairs, will Supreme Court back Trump again? reut.rs/3MAZqK7
-
-[2025-12-13 21:10:16](https://bsky.app/profile/reuters.com/post/3m7ul3gldx22s)
-
----
-
-@financialtimes.com
-
-Carney’s fossil fuel pivot bewilders climate experts and business leaders on.ft.com/4rTF66V
-
-[2025-12-13 21:09:44](https://bsky.app/profile/financialtimes.com/post/3m7ul2ie2js25)
-
----
-
-@reuters.com
-
-Germany's Aicher denies Vonn a St Moritz downhill double reut.rs/48Mi1dv
-
-[2025-12-13 21:05:12](https://bsky.app/profile/reuters.com/post/3m7uksfhuap2x)
-
----
-
-@wsj.com
-
-The San Diego Museum of Art presents a revelatory retrospective on the Spanish artist, whose work pulses with the power of the natural world and his own heritage. on.wsj.com/456fhGK
-
-[2025-12-13 21:03:20](https://bsky.app/profile/wsj.com/post/3m7ukp2mele2s)
-
----
-
-@reuters.com
-
-US lifts sanctions on Belarusian potash, state media cite Trump envoy as saying reut.rs/4qaMCss
-
-[2025-12-13 21:01:25](https://bsky.app/profile/reuters.com/post/3m7uklmdqby2y)
-
----
-
-@usatoday.com
-
-Congressional Democrats released another eyebrow-raising batch of photos of Epstein and powerful people. More are coming.
-
-[2025-12-13 21:00:53](https://bsky.app/profile/usatoday.com/post/3m7ukknr4j72s)
 
 ---
 
