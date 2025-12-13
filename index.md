@@ -1,9 +1,9 @@
-# [2025-12-14 04:30 updated](2025_12_14.md)
+# [2025-12-14 04:50 updated](2025_12_14.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Peter Greene, a character actor who made a career out of playing villains, including in “Pulp Fiction,” “The Mask” and dozens of other films and TV shows, has died. He was 60. <a href="https://bsky.app/profile/nytimes.com/post/3m7vdgyumel2x" target="_blank">nytimes.com</a> (2025-12-14 04:26:14)</span><span style="padding-right:50px;">Engine failure forces United Airlines flight to return to DC-area airport reut.rs/48Bhqg1 <a href="https://bsky.app/profile/reuters.com/post/3m7vdf5foxi23" target="_blank">reuters.com</a> (2025-12-14 04:25:11)</span><span style="padding-right:50px;">A flight bound for Tokyo safely returned to Washington Dulles International Airport on Saturday after an engine failure during takeoff, federal officials said. <a href="https://bsky.app/profile/nytimes.com/post/3m7vcsena7s2e" target="_blank">nytimes.com</a> (2025-12-14 04:14:41)</span><span style="padding-right:50px;">In California’s fire country, even the most hardened home can go up in flames if the house next door isn’t prepared. <a href="https://bsky.app/profile/bloomberg.com/post/3m7vciecsmk2e" target="_blank">bloomberg.com</a> (2025-12-14 04:09:05)</span><span style="padding-right:50px;">Palmer's cool finish warms the hearts of Chelsea fans reut.rs/4pvQfJv <a href="https://bsky.app/profile/reuters.com/post/3m7vcbj42uq2r" target="_blank">reuters.com</a> (2025-12-14 04:05:15)</span>
+<span style="padding-right:50px;">In @nytopinion.nytimes.com  The war in Gaza turned California school districts into battlegrounds over the Israeli-Palestinian conflict, Leighton Woodhouse writes in a guest essay. “What is being lost in the tumult is the basic purpose of education: teaching students to think for themselves.” <a href="https://bsky.app/profile/nytimes.com/post/3m7ve7qoosk2r" target="_blank">nytimes.com</a> (2025-12-14 04:40:04)</span><span style="padding-right:50px;">Two US soldiers and a civilian killed in attack in Syria on.ft.com/3Mwyj2V <a href="https://bsky.app/profile/financialtimes.com/post/3m7vdtkfgng2c" target="_blank">financialtimes.com</a> (2025-12-14 04:33:15)</span><span style="padding-right:50px;">The meteor shower is known for being bright and colorful. And this year, the peak will happen this weekend, giving more people the chance to see it. <a href="https://bsky.app/profile/usatoday.com/post/3m7vdp57lis25" target="_blank">usatoday.com</a> (2025-12-14 04:30:47)</span><span style="padding-right:50px;">The tech giant’s AI chief talks about superintelligence “red lines,” why AI will transform medicine and how he unwinds by chatting with Copilot. <a href="https://bsky.app/profile/bloomberg.com/post/3m7vdodtgcl2u" target="_blank">bloomberg.com</a> (2025-12-14 04:30:20)</span><span style="padding-right:50px;">Their release comes as authoritarian President Alexander Lukashenko seeks to improve relations with Washington. In exchange for sanctions relief, Lukashenko pardoned 123 prisoners, the Belta state news agency reported. <a href="https://bsky.app/profile/cnn.com/post/3m7vdnxck742k" target="_blank">cnn.com</a> (2025-12-14 04:30:07)</span>
   </div>
 </div>
 
@@ -34,14 +34,84 @@
 
 Here are six important stories with headlines in Japanese:
 
-1. 60歳の俳優ピーター・グリーンが亡くなる
-2. 米連邦政府がガザ地区でハマースの軍事指揮官を殺害
-3. 米軍の3人と民間人翻訳者がシリアで攻撃を受け死亡
-4. ガザ地区でイスラム教徒とイスラム過激派の戦闘が続く
-5. アメリカの大学の学長が著作の盗作容疑が晴れ
-6. クリスマスの準備で危険な火事が起こりやすい
+1. ガザ地帯でイスラエルとパレスチナの紛争が、カリフォルニア州の学校で戦いの場となり
+2. シリアで米軍兵士2人と市民1人死亡
+3. 彗星の群れが見られる、今年の最も美しい夜空
+4. ロシアがウクライナ戦争で北朝鮮兵を動員していたことを北朝鮮が認める
+5. ドアダッシュのドライバーが注射器で注射した疑いで逮捕
+6. イスラエルがガザでハマースの武器生産責任者を殺害
 
 ----
+
+@nytimes.com
+
+In @nytopinion.nytimes.com
+
+The war in Gaza turned California school districts into battlegrounds over the Israeli-Palestinian conflict, Leighton Woodhouse writes in a guest essay. “What is being lost in the tumult is the basic purpose of education: teaching students to think for themselves.”
+
+[2025-12-14 04:40:04](https://bsky.app/profile/nytimes.com/post/3m7ve7qoosk2r)
+
+---
+
+@financialtimes.com
+
+Two US soldiers and a civilian killed in attack in Syria on.ft.com/3Mwyj2V
+
+[2025-12-14 04:33:15](https://bsky.app/profile/financialtimes.com/post/3m7vdtkfgng2c)
+
+---
+
+@usatoday.com
+
+The meteor shower is known for being bright and colorful. And this year, the peak will happen this weekend, giving more people the chance to see it.
+
+[2025-12-14 04:30:47](https://bsky.app/profile/usatoday.com/post/3m7vdp57lis25)
+
+---
+
+@bloomberg.com
+
+The tech giant’s AI chief talks about superintelligence “red lines,” why AI will transform medicine and how he unwinds by chatting with Copilot.
+
+[2025-12-14 04:30:20](https://bsky.app/profile/bloomberg.com/post/3m7vdodtgcl2u)
+
+---
+
+@cnn.com
+
+Their release comes as authoritarian President Alexander Lukashenko seeks to improve relations with Washington. In exchange for sanctions relief, Lukashenko pardoned 123 prisoners, the Belta state news agency reported.
+
+[2025-12-14 04:30:07](https://bsky.app/profile/cnn.com/post/3m7vdnxck742k)
+
+---
+
+@en.afp.com
+
+North Korea sent troops to clear mines in Russia's Kursk region earlier this year as part of Moscow's Ukraine war effort, leader Kim Jong Un has said, according to state media -- a rare acknowledgment by Pyongyang of the deadly tasks assigned to its soldiers.
+
+u.afp.com/S7LM
+
+[2025-12-14 04:30:04](https://bsky.app/profile/en.afp.com/post/3m7vdnubftw26)
+
+---
+
+@aljazeera.com
+
+Hungarian protesters demand PM Viktor Orban quits over child abuse cases https://aje.io/8za1o7
+
+[2025-12-14 04:30:04](https://bsky.app/profile/aljazeera.com/post/3m7vdnudbdi2l)
+
+---
+
+@washingtonpost.com
+
+Home health workers and caregivers fill a critical role in the health care ecosystem as America ages and demand for caregivers soars. 
+
+But government funding cuts, a caregiver shortage and immigration limits are layering new strains on the industry.
+
+[2025-12-14 04:30:03](https://bsky.app/profile/washingtonpost.com/post/3m7vdntwh6e23)
+
+---
 
 @nytimes.com
 
@@ -56,76 +126,6 @@ Peter Greene, a character actor who made a career out of playing villains, inclu
 Engine failure forces United Airlines flight to return to DC-area airport reut.rs/48Bhqg1
 
 [2025-12-14 04:25:11](https://bsky.app/profile/reuters.com/post/3m7vdf5foxi23)
-
----
-
-@nytimes.com
-
-A flight bound for Tokyo safely returned to Washington Dulles International Airport on Saturday after an engine failure during takeoff, federal officials said.
-
-[2025-12-14 04:14:41](https://bsky.app/profile/nytimes.com/post/3m7vcsena7s2e)
-
----
-
-@bloomberg.com
-
-In California’s fire country, even the most hardened home can go up in flames if the house next door isn’t prepared.
-
-[2025-12-14 04:09:05](https://bsky.app/profile/bloomberg.com/post/3m7vciecsmk2e)
-
----
-
-@reuters.com
-
-Palmer's cool finish warms the hearts of Chelsea fans reut.rs/4pvQfJv
-
-[2025-12-14 04:05:15](https://bsky.app/profile/reuters.com/post/3m7vcbj42uq2r)
-
----
-
-@usatoday.com
-
-Beans were the breakout star of 2025, according to Grubhub.
-
-Insights published by the Chicago, Illinois-based company suggest that "foodmaxxing" reached new heights this year, with an increase in orders that were nutritious, functional and pleasing to the eye.
-
-Read more: bit.ly/4pGaAMg
-
-[2025-12-14 04:05:06](https://bsky.app/profile/usatoday.com/post/3m7vcbafboc2z)
-
----
-
-@apnews.com
-
-President Trump says "we will retaliate" after three Americans are killed in a Syria attack that the U.S. blames on the Islamic State group.
-
-[2025-12-14 04:04:17](https://bsky.app/profile/apnews.com/post/3m7vc7r3xjs2q)
-
----
-
-@reuters.com
-
-Maresca says he has just been through his worst days at Chelsea reut.rs/4pZwgTa
-
-[2025-12-14 04:01:07](https://bsky.app/profile/reuters.com/post/3m7vc24asgr2s)
-
----
-
-@washingtonpost.com
-
-Gen Z and Gen Alpha have been using “aesthetic” as an adjective or a one-word compliment on social media for a few years now.
-
-But to older ears, it still sounds strange.
-
-[2025-12-14 04:01:01](https://bsky.app/profile/washingtonpost.com/post/3m7vbzwa7ve2p)
-
----
-
-@usatoday.com
-
-Cook Out teases new locations in 6 states. See upcoming openings.
-
-[2025-12-14 04:00:55](https://bsky.app/profile/usatoday.com/post/3m7vbzqrlz72h)
 
 ---
 
