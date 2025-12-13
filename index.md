@@ -1,9 +1,9 @@
-# [2025-12-13 10:30 updated](2025_12_13.md)
+# [2025-12-13 10:50 updated](2025_12_13.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">トランプ氏 タイとカンボジア両首相と電話会談も停戦は不透明 https://news.web.nhk/newsweb/na/na-k10015002931000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7th5e5ugg24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-13 10:27:03)</span><span style="padding-right:50px;">将棋 女流戦主催の倉敷市 妊娠出産と対局の両立を連盟に求める https://news.web.nhk/newsweb/na/na-k10015002881000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7tgxxpu4a2y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-13 10:24:02)</span><span style="padding-right:50px;">Finance chief at Elon Musk’s space company says possible listing could raise funds for Mars rocket, orbital data centers and more. on.wsj.com/4aOwSqp <a href="https://bsky.app/profile/wsj.com/post/3m7tgue3trc2t" target="_blank">wsj.com</a> (2025-12-13 10:22:03)</span><span style="padding-right:50px;">Six states have already implemented new congressional maps, with control of the House during Trump's final term likely determined by just a few seats. Here's what to know. <a href="https://bsky.app/profile/axios.com/post/3m7tgt42bds2r" target="_blank">axios.com</a> (2025-12-13 10:21:21)</span><span style="padding-right:50px;">Colombia's Clan del Golfo leaders to face jail in possible peace deal, negotiator says reut.rs/498ZGbW <a href="https://bsky.app/profile/reuters.com/post/3m7tgrj7qyr2k" target="_blank">reuters.com</a> (2025-12-13 10:20:28)</span>
+<span style="padding-right:50px;">DR Congo-Rwanda peace process: Can Trump's shattered plan be glued back together? <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7tidr7jnq2v" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-13 10:48:34)</span><span style="padding-right:50px;">ロシア高官がけん制「ドンバス地域はわれわれの管理下に」 https://news.web.nhk/newsweb/na/na-k10015002801000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ticv5irq2y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-13 10:48:03)</span><span style="padding-right:50px;">Executives from the biggest U.S. banks said this week that they were on track to end a bumper year for Wall Street operations on a high. <a href="https://bsky.app/profile/wsj.com/post/3m7tibazd5r2i" target="_blank">wsj.com</a> (2025-12-13 10:47:10)</span><span style="padding-right:50px;">In a year when hip-hop was frequently absent from the pop charts, NPR's music critic found that looking in darker corners revealed a genre that was flourishing. trib.al/eVOKR6y <a href="https://bsky.app/profile/npr.org/post/3m7tiajjes72p" target="_blank">npr.org</a> (2025-12-13 10:46:45)</span><span style="padding-right:50px;">国際サッカー連盟（ＦＩＦＡ）は１２日、米国、カナダ、メキシコで共催される２０２６年ワールドカップ（Ｗ杯）北中米３カ国大会のチケット申し込みが、最新の抽選販売開始から２４時間で５００万件に上ったと発表した。 bit.ly/4s1N1PJ <a href="https://bsky.app/profile/japan.reuters.com/post/3m7ti6bm7xj2q" target="_blank">japan.reuters.com</a> (2025-12-13 10:45:30)</span>
   </div>
 </div>
 
@@ -32,94 +32,94 @@
 
 ## News Headlines
 
-1.  トランプ氏 タイとカンボジア両首相と電話会談も停戦は不透明
-2.  将棋 女流戦主催の倉敷市 妊娠出産と対局の両立を連盟に求める
-3.  米国株式市場は、主要株価３指数が軒並み下落
-4.  ベネズエラへの軍事作戦のさなか 米南方軍司令官が異例の退任
-5.  同じく大阪 守口 4軒連なる長屋で火事 焼け跡から2人の遺体見つかる
-6.  米国株式市場の下落に、人工知能（ＡＩ）バブルへの懸念が高まる
+1. ドイツ連邦議会はドイツの経済を強化するための緊急法案を可決
+2. ドミニカ共和国大統領が米国と協力強化への意欲を表明
+3. F1 2023年シーズンの新ルールの発表
+4. 米サンフランシスコ地区連銀のデイリー総裁が連邦準備理事会の利下げを支持
+5. アメリカの南部で大規模な医療機関の買収が続く
+6. 京都府が新型コロナウイルス対策の研究を非公開化
 
 ----
 
-@nhknewsunofficial.bsky.social
+@bbcnews-world-rss.bsky.social
 
-トランプ氏 タイとカンボジア両首相と電話会談も停戦は不透明
-https://news.web.nhk/newsweb/na/na-k10015002931000
+DR Congo-Rwanda peace process: Can Trump's shattered plan be glued back together?
 
-[2025-12-13 10:27:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7th5e5ugg24)
+[2025-12-13 10:48:34](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7tidr7jnq2v)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-将棋 女流戦主催の倉敷市 妊娠出産と対局の両立を連盟に求める
-https://news.web.nhk/newsweb/na/na-k10015002881000
+ロシア高官がけん制「ドンバス地域はわれわれの管理下に」
+https://news.web.nhk/newsweb/na/na-k10015002801000
 
-[2025-12-13 10:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7tgxxpu4a2y)
+[2025-12-13 10:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ticv5irq2y)
 
 ---
 
 @wsj.com
 
-Finance chief at Elon Musk’s space company says possible listing could raise funds for Mars rocket, orbital data centers and more. on.wsj.com/4aOwSqp
+Executives from the biggest U.S. banks said this week that they were on track to end a bumper year for Wall Street operations on a high.
 
-[2025-12-13 10:22:03](https://bsky.app/profile/wsj.com/post/3m7tgue3trc2t)
-
----
-
-@axios.com
-
-Six states have already implemented new congressional maps, with control of the House during Trump's final term likely determined by just a few seats. Here's what to know.
-
-[2025-12-13 10:21:21](https://bsky.app/profile/axios.com/post/3m7tgt42bds2r)
+[2025-12-13 10:47:10](https://bsky.app/profile/wsj.com/post/3m7tibazd5r2i)
 
 ---
 
-@reuters.com
+@npr.org
 
-Colombia's Clan del Golfo leaders to face jail in possible peace deal, negotiator says reut.rs/498ZGbW
+In a year when hip-hop was frequently absent from the pop charts, NPR's music critic found that looking in darker corners revealed a genre that was flourishing. trib.al/eVOKR6y
 
-[2025-12-13 10:20:28](https://bsky.app/profile/reuters.com/post/3m7tgrj7qyr2k)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Takeaways from Luigi Mangione's evidence hearing 
-
-[2025-12-13 10:19:56](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7tgqlfn2d2a)
+[2025-12-13 10:46:45](https://bsky.app/profile/npr.org/post/3m7tiajjes72p)
 
 ---
 
 @japan.reuters.com
 
-米国株式市場は、主要株価３指数が軒並み下落。ナスダック総合とＳ＆Ｐ総合５００種の下落率は１％を超えた。半導体大手ブロードコムとＩＴ大手オラクルの決算に絡み、人工知能（ＡＩ）バブルへの懸念が高まる中、資金がハイテクセクターから他のセクターにシフトした。また、米連邦準備理事会（ＦＲＢ）当局者らの発言を受けた米債利回りの上昇も、相場の一段の重しとなった。 bit.ly/454d0fe
+国際サッカー連盟（ＦＩＦＡ）は１２日、米国、カナダ、メキシコで共催される２０２６年ワールドカップ（Ｗ杯）北中米３カ国大会のチケット申し込みが、最新の抽選販売開始から２４時間で５００万件に上ったと発表した。 bit.ly/4s1N1PJ
 
-[2025-12-13 10:15:17](https://bsky.app/profile/japan.reuters.com/post/3m7tgianzit2c)
+[2025-12-13 10:45:30](https://bsky.app/profile/japan.reuters.com/post/3m7ti6bm7xj2q)
+
+---
+
+@japan.reuters.com
+
+米サンフランシスコ地区連銀のデイリー総裁は１２日、連邦準備理事会（ＦＲＢ）が今週の会合で決定した利下げに支持を示した。 bit.ly/4570trr
+
+[2025-12-13 10:45:19](https://bsky.app/profile/japan.reuters.com/post/3m7ti5wyonf2q)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+診療報酬改定 「本体」引き上げ幅が焦点 年内決定向け調整続く
+https://news.web.nhk/newsweb/na/na-k10015003001000
+
+[2025-12-13 10:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7thy4wncp2w)
 
 ---
 
 @reuters.com
 
-Venezuela oil exports fall sharply after US tanker seizure, sources and data say reut.rs/4oVhNqp
+Southwest Airlines to open Austin crew base in 2026, create 2,000 jobs reut.rs/3XS7TuU
 
-[2025-12-13 10:10:18](https://bsky.app/profile/reuters.com/post/3m7tg7dg4g52s)
-
----
-
-@nbcnews.com
-
-EXCLUSIVE: White House pressure to ramp up deportations has sparked rising tension and finger-pointing inside Kristi Noem's Department of Homeland Security.
-
-[2025-12-13 10:09:33](https://bsky.app/profile/nbcnews.com/post/3m7tg5ywhxv2q)
+[2025-12-13 10:40:12](https://bsky.app/profile/reuters.com/post/3m7thus2kp72y)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@nytimes.com
 
-Australia social media ban: Why isn't gaming included?
+A large national trial of about 46,000 women, 40 to 74 years old, found that screening women according to their level of risk was as effective in detecting tumors as the one-size-fits-most screening currently recommended.
 
-[2025-12-13 10:04:15](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7tfuk7hx62b)
+[2025-12-13 10:40:06](https://bsky.app/profile/nytimes.com/post/3m7thumu56m2v)
+
+---
+
+@usatoday.com
+
+Officials have not released information on what caused the fire at a family-owned restaurant in Wisconsin.
+
+[2025-12-13 10:30:40](https://bsky.app/profile/usatoday.com/post/3m7thdr4wl62f)
 
 ---
 
