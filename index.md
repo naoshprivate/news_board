@@ -1,9 +1,9 @@
-# [2025-12-15 01:50 updated](2025_12_15.md)
+# [2025-12-15 02:10 updated](2025_12_15.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Sunderland earn 1-0 win over Newcastle thanks to Woltemade own goal reut.rs/3MXuqnA <a href="https://bsky.app/profile/reuters.com/post/3m7xkvvemhi24" target="_blank">reuters.com</a> (2025-12-15 01:45:09)</span><span style="padding-right:50px;">An individual was in custody early Sunday in connection with a deadly shooting at Brown University, officials in Providence, Rhode Island, said. The attack on Saturday killed two students and injured nine others. Follow live updates. trib.al/m2UheP3 <a href="https://bsky.app/profile/nytimes.com/post/3m7xkvkqeoc2z" target="_blank">nytimes.com</a> (2025-12-15 01:44:58)</span><span style="padding-right:50px;">Man City keep pressure on Arsenal with 3-0 win at Palace reut.rs/4iZGIrG <a href="https://bsky.app/profile/reuters.com/post/3m7xkmzsm3r2x" target="_blank">reuters.com</a> (2025-12-15 01:40:12)</span><span style="padding-right:50px;">Rogers at the double as Villa hit back to win 3-2 at West Ham reut.rs/3YsXBl0 <a href="https://bsky.app/profile/reuters.com/post/3m7xkdy5cum2c" target="_blank">reuters.com</a> (2025-12-15 01:35:08)</span><span style="padding-right:50px;">"Saturday Night Live," hosted this week by Josh O’Connor and featuring the musical guest Lily Allen, satirized a news conference on Air Force One. Here’s an episode recap. <a href="https://bsky.app/profile/nytimes.com/post/3m7xkduf3t52y" target="_blank">nytimes.com</a> (2025-12-15 01:35:04)</span>
+<span style="padding-right:50px;">Trump's Fed pick comes into focus, economic data backlog clears: What to watch this week <a href="https://bsky.app/profile/yahoofinance.com/post/3m7xm3dwgfw2f" target="_blank">yahoofinance.com</a> (2025-12-15 02:06:06)</span><span style="padding-right:50px;">Ten-man Dortmund squander lead to stumble to 1-1 draw at Freiburg reut.rs/3YpWrGS <a href="https://bsky.app/profile/reuters.com/post/3m7xlznjbrf2r" target="_blank">reuters.com</a> (2025-12-15 02:05:09)</span><span style="padding-right:50px;">“I just remember a bunch of people started screaming.” An 18-year-old who was shot in the leg at Brown University on Saturday afternoon described the moment that shots rang out in a classroom where students had gathered to prepare for an economics exam. nyti.ms/48FrxAo <a href="https://bsky.app/profile/nytimes.com/post/3m7xlzitiis2e" target="_blank">nytimes.com</a> (2025-12-15 02:05:04)</span><span style="padding-right:50px;">One music manager described a holiday hit as a ‘little ATM machine.’ on.wsj.com/4sdQRW7 <a href="https://bsky.app/profile/wsj.com/post/3m7xlxqorhm2r" target="_blank">wsj.com</a> (2025-12-15 02:04:05)</span><span style="padding-right:50px;">Hanukkah security ramped up around world after Bondi shootings reut.rs/4oYjcNc <a href="https://bsky.app/profile/reuters.com/post/3m7xls5asgi2y" target="_blank">reuters.com</a> (2025-12-15 02:00:57)</span>
   </div>
 </div>
 
@@ -32,96 +32,97 @@
 
 ## News Headlines
 
-Here are six headlines in Japanese:
-
-1. 2人死亡　ブラウン大学で銃撃事件　学生2人が前にも銃撃事件に遭遇
-2. マンチェスター・シティがパレスに勝利　アーセナルとの首位争いを続ける
-3. バルセロナのレアル・ビジャレアル対レバンテの試合は豪雨により中止
-4. トランプ氏がザ・ドナルドJ・トランプ記念館を計画　家族とともに
-5. ウクライナ大統領が和平交渉に参加　ロシアとの対立は続く
-6. オーストラリアのシドニーでユダヤ人コミュニティが銃撃を受け、1人死亡
+1.  ドルトムントがブンデスリーガで引き分け
+2.  ブラウン大学での銃撃事件の被害者の1人が語る
+3.  ドローンの活用を推進するアメリカの学者が提案
+4.  WNBAの元スター選手が牡蠣の養殖を始める
+5.  英国で「ジェーン・オースティン祭」が開催
+6.  ブラウン大学銃撃事件の被害者が2人殺害、9人負傷
 
 ----
 
+@yahoofinance.com
+
+Trump's Fed pick comes into focus, economic data backlog clears: What to watch this week
+
+[2025-12-15 02:06:06](https://bsky.app/profile/yahoofinance.com/post/3m7xm3dwgfw2f)
+
+---
+
 @reuters.com
 
-Sunderland earn 1-0 win over Newcastle thanks to Woltemade own goal reut.rs/3MXuqnA
+Ten-man Dortmund squander lead to stumble to 1-1 draw at Freiburg reut.rs/3YpWrGS
 
-[2025-12-15 01:45:09](https://bsky.app/profile/reuters.com/post/3m7xkvvemhi24)
+[2025-12-15 02:05:09](https://bsky.app/profile/reuters.com/post/3m7xlznjbrf2r)
 
 ---
 
 @nytimes.com
 
-An individual was in custody early Sunday in connection with a deadly shooting at Brown University, officials in Providence, Rhode Island, said. The attack on Saturday killed two students and injured nine others. Follow live updates. trib.al/m2UheP3
+“I just remember a bunch of people started screaming.” An 18-year-old who was shot in the leg at Brown University on Saturday afternoon described the moment that shots rang out in a classroom where students had gathered to prepare for an economics exam. nyti.ms/48FrxAo
 
-[2025-12-15 01:44:58](https://bsky.app/profile/nytimes.com/post/3m7xkvkqeoc2z)
+[2025-12-15 02:05:04](https://bsky.app/profile/nytimes.com/post/3m7xlzitiis2e)
+
+---
+
+@wsj.com
+
+One music manager described a holiday hit as a ‘little ATM machine.’ on.wsj.com/4sdQRW7
+
+[2025-12-15 02:04:05](https://bsky.app/profile/wsj.com/post/3m7xlxqorhm2r)
 
 ---
 
 @reuters.com
 
-Man City keep pressure on Arsenal with 3-0 win at Palace reut.rs/4iZGIrG
+Hanukkah security ramped up around world after Bondi shootings reut.rs/4oYjcNc
 
-[2025-12-15 01:40:12](https://bsky.app/profile/reuters.com/post/3m7xkmzsm3r2x)
-
----
-
-@reuters.com
-
-Rogers at the double as Villa hit back to win 3-2 at West Ham reut.rs/3YsXBl0
-
-[2025-12-15 01:35:08](https://bsky.app/profile/reuters.com/post/3m7xkdy5cum2c)
-
----
-
-@nytimes.com
-
-"Saturday Night Live," hosted this week by Josh O’Connor and featuring the musical guest Lily Allen, satirized a news conference on Air Force One. Here’s an episode recap.
-
-[2025-12-15 01:35:04](https://bsky.app/profile/nytimes.com/post/3m7xkduf3t52y)
-
----
-
-@forbes.com
-
-The jackpot will grow again if no winner is selected on Monday night.
-
-[2025-12-15 01:35:03](https://bsky.app/profile/forbes.com/post/3m7xkdtkfng2h)
+[2025-12-15 02:00:57](https://bsky.app/profile/reuters.com/post/3m7xls5asgi2y)
 
 ---
 
 @usatoday.com
 
-Hanukkah is one of the most widely observed Jewish holidays. Here's when it will be this year.
+Trump's foes and friends have noticed a revival of the term, which advocates say is harmful to Americans with mental disabilities.
 
-[2025-12-15 01:30:25](https://bsky.app/profile/usatoday.com/post/3m7xk3krtvd2q)
+[2025-12-15 02:00:55](https://bsky.app/profile/usatoday.com/post/3m7xls3zvaf2f)
+
+---
+
+@cnn.com
+
+The Republican plans to pick off five Democratic-held congressional seats in Texas once seemed like a sure thing. Not anymore.
+https://cnn.it/48So9AS
+
+[2025-12-15 02:00:27](https://bsky.app/profile/cnn.com/post/3m7xlraofhl2o)
 
 ---
 
 @washingtonpost.com
 
-It seems the raccoon might have a problem — and it’s not just drinking.
+Joseph Oduro, a teaching assistant, comforted a wounded student in the chaotic aftermath of a shooting at Brown University that left two dead and nine injured.
 
-The raccoon, famously known for its Nov. 29 drunken spree at a Virginia liquor store, is suspected of sneaking into multiple businesses in the same shopping center. 
+“I told her to put all the pain on me,” Oduro said.
 
-[2025-12-15 01:30:06](https://bsky.app/profile/washingtonpost.com/post/3m7xk2y53i225)
+This is his story: 
+
+[2025-12-15 02:00:26](https://bsky.app/profile/washingtonpost.com/post/3m7xlra33kh23)
 
 ---
 
 @bloomberg.com
 
-Forecasting researcher Philip Tetlock says there’s a better way to predict how AI will play out
+Small drones have revolutionized warfare in the Russia-Ukraine conflict. One US advocate thinks his country needs an “NRA for drones” in order to catch up.
 
-[2025-12-15 01:30:06](https://bsky.app/profile/bloomberg.com/post/3m7xk2ylyad2e)
+[2025-12-15 02:00:22](https://bsky.app/profile/bloomberg.com/post/3m7xlr4jeuz27)
 
 ---
 
-@aljazeera.com
+@apnews.com
 
-Zelenskyy says willing to drop NATO membership bid ahead of peace talks https://aje.io/bicvyt
+Sue Wicks, a retired WNBA star, found her next calling in oyster farming. Despite her successful basketball career, Wicks says she didn’t earn enough to stop worrying about money. She is one of many female athletes launching new careers to fill in the gap when the final whistle blows.
 
-[2025-12-15 01:30:03](https://bsky.app/profile/aljazeera.com/post/3m7xk2w2smk2v)
+[2025-12-15 02:00:19](https://bsky.app/profile/apnews.com/post/3m7xlqzpedn2u)
 
 ---
 
