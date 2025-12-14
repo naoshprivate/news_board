@@ -1,9 +1,9 @@
-# [2025-12-14 12:50 updated](2025_12_14.md)
+# [2025-12-14 13:01 updated](2025_12_14.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">サッカーのスペイン１部は１３日、各地で試合を行い、首位バルセロナがオサスナに２─０で勝利し、２位との差を広げた。 bit.ly/3Yxr9hj <a href="https://bsky.app/profile/japan.reuters.com/post/3m7w7evbyhk2c" target="_blank">japan.reuters.com</a> (2025-12-14 12:46:08)</span><span style="padding-right:50px;">米大リーグ（ＭＬＢ）のメッツがホルヘ・ポランコ内野手（３２）と総額４０００万ドル（約６２億３０００万円）の２年契約に合意したという。複数メディアが１３日、報じた。 bit.ly/3XQrV99 <a href="https://bsky.app/profile/japan.reuters.com/post/3m7w6z7jttp2c" target="_blank">japan.reuters.com</a> (2025-12-14 12:39:36)</span><span style="padding-right:50px;">スピードスケートのワールドカップ（Ｗ杯）第４戦は１３日、ノルウェーのハーマルで各競技を行い、女子１０００メートルでは高木美帆が１分１４秒３９で優勝した。 bit.ly/4iVbBxx <a href="https://bsky.app/profile/japan.reuters.com/post/3m7w6j5uepk2c" target="_blank">japan.reuters.com</a> (2025-12-14 12:30:37)</span><span style="padding-right:50px;">Estudiantes beat Racing on penalties to claim Argentine Clausura title reut.rs/4iSbuCK <a href="https://bsky.app/profile/reuters.com/post/3m7w6ispoan2c" target="_blank">reuters.com</a> (2025-12-14 12:30:25)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】全国中学校駅伝大会 岡山市の京山中学校（女子）3年連続優勝【岡山】 (2025-12-14 12:15) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7w5ypukli2x" target="_blank">sokuho.news</a> (2025-12-14 12:21:25)</span>
+<span style="padding-right:50px;">米軍によると、シリアで１３日、米陸軍兵士２人と民間人の通訳１人が殺害された。過激派組織「イスラム国」（ＩＳ）による犯行が疑われている。 bit.ly/4qdZKgx <a href="https://bsky.app/profile/japan.reuters.com/post/3m7wa7bhazq22" target="_blank">japan.reuters.com</a> (2025-12-14 13:00:53)</span><span style="padding-right:50px;">ベラルーシのルカシェンコ大統領は１３日、収監していたノーベル平和賞受賞者のアレシ・ビャリャツキ氏や反政権派指導者のマリア・コレスニコワ氏、元日本語講師の中西雅敏氏ら１２３人を釈放した。 bit.ly/3MZk7iT <a href="https://bsky.app/profile/japan.reuters.com/post/3m7wa6xqms52n" target="_blank">japan.reuters.com</a> (2025-12-14 13:00:43)</span><span style="padding-right:50px;">ディズニーはOpenAI提携でどう稼ぐ　キャラ動画氾濫、AI時代に探る解 www.nikkei.com/article/DGXZQO...  米ウォルト・ディズニーは一般の人々が動画生成AI「Sora」でつくる動画を「ディズニー＋」でも配信します。  狙いのひとつは若者との接点の拡大です。人々の手から生まれたキャラ動画がSNSで拡散すればディズニーに触れる機会が増えると見込みます。  アニメーターの労働組合は「AIで利用者がコンテンツをつくっても、その利益を還元されない」と懸念を表明。  クリエーターの雇用への影響、著作権の問題など、課題との向き合い方も問われます。 <a href="https://bsky.app/profile/nikkei.com/post/3m7wa6rxdbg26" target="_blank">nikkei.com</a> (2025-12-14 13:00:36)</span><span style="padding-right:50px;">Maine's loons are on the mend, filling more of the lakes and ponds in the state with their haunting calls. <a href="https://bsky.app/profile/apnews.com/post/3m7wa5zobja2p" target="_blank">apnews.com</a> (2025-12-14 13:00:11)</span><span style="padding-right:50px;">The latest data on US respiratory illness shows that shoppers and merry-makers are spreading more than just holiday cheer: They’re also passing around germs. In many cases, it’s a new virus variant that’s been causing early and busy flu seasons in Asia, Australia and Europe: https://cnn.it/3KVZrb0 <a href="https://bsky.app/profile/cnn.com/post/3m7wa5tqpoe23" target="_blank">cnn.com</a> (2025-12-14 13:00:05)</span>
   </div>
 </div>
 
@@ -32,14 +32,79 @@
 
 ## News Headlines
 
-1. バルセロナがオサスナに勝利し、首位の差を広げる
-2. メッツがホルヘ・ポランコと4000万ドルの2年契約を結ぶ
-3. スピードスケートのワールドカップで高木美帆が優勝
-4. エステディスタスがアルゼンチン・クラウスラタを制す
-5. 成田空港で航空機けん引車両から煙が出る
-6. ミネソタ大学のミネソタ・スカリーがユタ大学のヘッドコーチに就任
+1. 米軍兵士と民間人殺害　シリアでIS疑惑
+2. ベラルーシ大統領、反体制指導者ら釈放
+3. ディズニー、AIで生まれたキャラクター動画を配信
+4. メイン州のオタテガミ、湖や池に戻り始める
+5. 米大リーグ・メッツ、ポランコと4000万ドルの契約
+6. スピードスケートの高木美帆、女子1000mで優勝
 
 ----
+
+@japan.reuters.com
+
+米軍によると、シリアで１３日、米陸軍兵士２人と民間人の通訳１人が殺害された。過激派組織「イスラム国」（ＩＳ）による犯行が疑われている。 bit.ly/4qdZKgx
+
+[2025-12-14 13:00:53](https://bsky.app/profile/japan.reuters.com/post/3m7wa7bhazq22)
+
+---
+
+@japan.reuters.com
+
+ベラルーシのルカシェンコ大統領は１３日、収監していたノーベル平和賞受賞者のアレシ・ビャリャツキ氏や反政権派指導者のマリア・コレスニコワ氏、元日本語講師の中西雅敏氏ら１２３人を釈放した。 bit.ly/3MZk7iT
+
+[2025-12-14 13:00:43](https://bsky.app/profile/japan.reuters.com/post/3m7wa6xqms52n)
+
+---
+
+@nikkei.com
+
+ディズニーはOpenAI提携でどう稼ぐ　キャラ動画氾濫、AI時代に探る解
+www.nikkei.com/article/DGXZQO...
+
+米ウォルト・ディズニーは一般の人々が動画生成AI「Sora」でつくる動画を「ディズニー＋」でも配信します。
+
+狙いのひとつは若者との接点の拡大です。人々の手から生まれたキャラ動画がSNSで拡散すればディズニーに触れる機会が増えると見込みます。
+
+アニメーターの労働組合は「AIで利用者がコンテンツをつくっても、その利益を還元されない」と懸念を表明。
+
+クリエーターの雇用への影響、著作権の問題など、課題との向き合い方も問われます。
+
+[2025-12-14 13:00:36](https://bsky.app/profile/nikkei.com/post/3m7wa6rxdbg26)
+
+---
+
+@apnews.com
+
+Maine's loons are on the mend, filling more of the lakes and ponds in the state with their haunting calls.
+
+[2025-12-14 13:00:11](https://bsky.app/profile/apnews.com/post/3m7wa5zobja2p)
+
+---
+
+@cnn.com
+
+The latest data on US respiratory illness shows that shoppers and merry-makers are spreading more than just holiday cheer: They’re also passing around germs. In many cases, it’s a new virus variant that’s been causing early and busy flu seasons in Asia, Australia and Europe: https://cnn.it/3KVZrb0
+
+[2025-12-14 13:00:05](https://bsky.app/profile/cnn.com/post/3m7wa5tqpoe23)
+
+---
+
+@washingtonpost.com
+
+Workers are increasingly being disciplined over social media posts that companies may view as a source of reputational risk, employment experts say, as companies tighten policies and step up surveillance. 
+
+[2025-12-14 13:00:05](https://bsky.app/profile/washingtonpost.com/post/3m7wa5thfiy24)
+
+---
+
+@aljazeera.com
+
+A Royal Thai Navy spokesman says its military launched an operation to reclaim border 'territories' in Trat province.
+
+[2025-12-14 13:00:03](https://bsky.app/profile/aljazeera.com/post/3m7wa5sjb3u2v)
+
+---
 
 @japan.reuters.com
 
@@ -62,71 +127,6 @@
 スピードスケートのワールドカップ（Ｗ杯）第４戦は１３日、ノルウェーのハーマルで各競技を行い、女子１０００メートルでは高木美帆が１分１４秒３９で優勝した。 bit.ly/4iVbBxx
 
 [2025-12-14 12:30:37](https://bsky.app/profile/japan.reuters.com/post/3m7w6j5uepk2c)
-
----
-
-@reuters.com
-
-Estudiantes beat Racing on penalties to claim Argentine Clausura title reut.rs/4iSbuCK
-
-[2025-12-14 12:30:25](https://bsky.app/profile/reuters.com/post/3m7w6ispoan2c)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】全国中学校駅伝大会 岡山市の京山中学校（女子）3年連続優勝【岡山】
-(2025-12-14 12:15) #ニュース
-
-[2025-12-14 12:21:25](https://bsky.app/profile/sokuho.news/post/3m7w5ypukli2x)
-
----
-
-@nytimes.com
-
-In @nytopinion.nytimes.com
-
-“A significant share of the voters who backed Mr. Trump have decided that he has largely ignored the primary issue that pushed them his way, the cost of living,” E. J. Dionne Jr. says. “A billionaire regularly mocking concern about affordability only makes matters worse.”
-
-[2025-12-14 12:20:04](https://bsky.app/profile/nytimes.com/post/3m7w5wcmb3d2b)
-
----
-
-@npr.org
-
-The attack, which took place in the city of Palmyra, comes a year after the fall of Syrian President Bashar al-Assad and the lifting of U.S. sanctions. n.pr/4aKCxxJ
-
-[2025-12-14 12:15:59](https://bsky.app/profile/npr.org/post/3m7w5oyc4hl2e)
-
----
-
-@nhknewsunofficial.bsky.social
-
-議員定数削減は 企業・団体献金は 与野党が論戦 NHK日曜討論
-https://news.web.nhk/newsweb/na/na-k10015003481000
-
-[2025-12-14 12:15:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7w5nfejex2b)
-
----
-
-@sokuho.news
-
-🛎️ANNより【速報】です。
-
-【速報】成田空港で航空機けん引車両から発煙 乗客おらずけが人なし
-(2025-12-14 11:40:35) #ニュース
-
-[2025-12-14 12:13:13](https://bsky.app/profile/sokuho.news/post/3m7w5k23hrc2b)
-
----
-
-@reuters.com
-
-DC Morgan Scalley named Utah head coach reut.rs/4afEGkY
-
-[2025-12-14 12:10:11](https://bsky.app/profile/reuters.com/post/3m7w5emxnjw2i)
 
 ---
 
