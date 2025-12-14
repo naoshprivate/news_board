@@ -1,9 +1,9 @@
-# [2025-12-14 21:10 updated](2025_12_14.md)
+# [2025-12-14 21:30 updated](2025_12_14.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">北海道～北陸 風と雪強まる 暴風や猛吹雪など警戒を https://news.web.nhk/newsweb/na/na-k10015003321000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7x3i7utd32x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-14 21:09:02)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】伊東市長選挙 確定投票率は60.54% 当選に必要な法定得票数は8500票程度か（静岡） (2025-12-14 21:03) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7x37v64ks2x" target="_blank">sokuho.news</a> (2025-12-14 21:04:24)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】伊東市長選挙 確定投票率は60.54%と前回を10ポイントアップ 当選に必要な法定得票数は8500票前後か（静岡） (2025-12-14 21:03) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7x35sdnuj2z" target="_blank">sokuho.news</a> (2025-12-14 21:03:14)</span><span style="padding-right:50px;">BREAKING: A suspect is in custody in the Brown University shooting that left two dead and nine others injured, two sources tell NBC News. <a href="https://bsky.app/profile/nbcnews.com/post/3m7x34mt3742x" target="_blank">nbcnews.com</a> (2025-12-14 21:02:35)</span><span style="padding-right:50px;">U.S. President Donald Trump's special envoy Steve Witkoff and son-in-law Jared Kushner will meet Ukrainian leader Volodymyr Zelenskyy on Sunday, as Trump grows increasingly exasperated by delays. n.pr/4oV32UL <a href="https://bsky.app/profile/npr.org/post/3m7x33jyrdr2e" target="_blank">npr.org</a> (2025-12-14 21:01:58)</span>
+<span style="padding-right:50px;">ゼレンスキー大統領 米特使らと戦後の安全の保証など協議へ https://news.web.nhk/newsweb/na/na-k10015003881000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7x4ihmhu72k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-14 21:27:04)</span><span style="padding-right:50px;">'Person of interest' detained over Brown University shooting, official says <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7x4hzrhpz2b" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-14 21:26:51)</span><span style="padding-right:50px;">Eyewitness captures moment man tackles and disarms shooter <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7x4g4db462b" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-14 21:25:46)</span><span style="padding-right:50px;">A person of interest is in custody in connection with the Brown University shooting, Providence mayor's office says. Follow live updates. https://cnn.it/3Mz4q1S <a href="https://bsky.app/profile/cnn.com/post/3m7x4d2hdsf2b" target="_blank">cnn.com</a> (2025-12-14 21:24:04)</span><span style="padding-right:50px;">Indoor tanning is trending among Gen Z. A new study finds tanning bed users not only have a much higher risk of melanoma, they also have DNA damage linked to cancer across nearly their entire skin. n.pr/4qcoLss <a href="https://bsky.app/profile/npr.org/post/3m7x47kjvxu25" target="_blank">npr.org</a> (2025-12-14 21:22:07)</span>
   </div>
 </div>
 
@@ -32,14 +32,92 @@
 
 ## News Headlines
 
-1.  北海道で最大震度1の地震を観測
-2.  伊東市長選挙 確定投票率は60.54%
-3.  シドニー銃撃事件　10人死亡
-4.  12月15日　日本列島に大荒れの天気
-5.  JAXAの次世代実証衛星、打ち上げ成功
-6.  トランプ政権、ベネズエラへの圧力強める狙いは？
+1. ゼレンスキー大統領 米特使らと戦後の安全の保証など協議へ
+2. オーストラリアの有名ビーチで銃撃 12人死亡
+3. 【大雪影響】新千歳空港 旅客機が一時立往生 欠航相次ぐ
+4. ラグビーリーグワン 開幕戦 ワイルドナイツが大勝
+5. 中国の不動産開発大手、万科企業は社債償還を１年延長する案を却下
+6. JAXAの次世代実証衛星、打ち上げ成功
 
 ----
+
+@nhknewsunofficial.bsky.social
+
+ゼレンスキー大統領 米特使らと戦後の安全の保証など協議へ
+https://news.web.nhk/newsweb/na/na-k10015003881000
+
+[2025-12-14 21:27:04](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7x4ihmhu72k)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+'Person of interest' detained over Brown University shooting, official says
+
+[2025-12-14 21:26:51](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7x4hzrhpz2b)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Eyewitness captures moment man tackles and disarms shooter
+
+[2025-12-14 21:25:46](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7x4g4db462b)
+
+---
+
+@cnn.com
+
+A person of interest is in custody in connection with the Brown University shooting, Providence mayor's office says. Follow live updates.
+https://cnn.it/3Mz4q1S
+
+[2025-12-14 21:24:04](https://bsky.app/profile/cnn.com/post/3m7x4d2hdsf2b)
+
+---
+
+@npr.org
+
+Indoor tanning is trending among Gen Z. A new study finds tanning bed users not only have a much higher risk of melanoma, they also have DNA damage linked to cancer across nearly their entire skin. n.pr/4qcoLss
+
+[2025-12-14 21:22:07](https://bsky.app/profile/npr.org/post/3m7x47kjvxu25)
+
+---
+
+@nytimes.com
+
+At least 11 people were killed by gunmen who targeted a Jewish celebration at Sydney’s Bondi Beach on Sunday. Follow live updates.
+
+[2025-12-14 21:19:06](https://bsky.app/profile/nytimes.com/post/3m7x425o75o2r)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【大雪影響】新千歳空港 旅客機が一時立往生 欠航相次ぐ
+https://news.web.nhk/newsweb/na/na-k10015003511000
+
+[2025-12-14 21:18:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7x3ydgekj2b)
+
+---
+
+@usatoday.com
+
+At least 12 people were killed and dozens more wounded in a shooting at Sydney's popular Bondi Beach that targeted Australia's Jewish community, officials say.
+
+[2025-12-14 21:13:59](https://bsky.app/profile/usatoday.com/post/3m7x3qywvsa2h)
+
+---
+
+@nikkei.com
+
+オーストラリアの有名ビーチで銃撃　12人死亡、警察は「テロ」と断定
+www.nikkei.com/article/DGXZQO...
+
+#ニュース
+
+[2025-12-14 21:13:11](https://bsky.app/profile/nikkei.com/post/3m7x3plg3cs24)
+
+---
 
 @nhknewsunofficial.bsky.social
 
@@ -47,87 +125,6 @@
 https://news.web.nhk/newsweb/na/na-k10015003321000
 
 [2025-12-14 21:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7x3i7utd32x)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】伊東市長選挙 確定投票率は60.54% 当選に必要な法定得票数は8500票程度か（静岡）
-(2025-12-14 21:03) #ニュース
-
-[2025-12-14 21:04:24](https://bsky.app/profile/sokuho.news/post/3m7x37v64ks2x)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】伊東市長選挙 確定投票率は60.54%と前回を10ポイントアップ 当選に必要な法定得票数は8500票前後か（静岡）
-(2025-12-14 21:03) #ニュース
-
-[2025-12-14 21:03:14](https://bsky.app/profile/sokuho.news/post/3m7x35sdnuj2z)
-
----
-
-@nbcnews.com
-
-<strong><span style="color: red;">BREAKING:</span> A suspect is in custody in the Brown University shooting that left two dead and nine others injured, two sources tell NBC News.</strong>
-
-[2025-12-14 21:02:35](https://bsky.app/profile/nbcnews.com/post/3m7x34mt3742x)
-
----
-
-@npr.org
-
-U.S. President Donald Trump's special envoy Steve Witkoff and son-in-law Jared Kushner will meet Ukrainian leader Volodymyr Zelenskyy on Sunday, as Trump grows increasingly exasperated by delays. n.pr/4oV32UL
-
-[2025-12-14 21:01:58](https://bsky.app/profile/npr.org/post/3m7x33jyrdr2e)
-
----
-
-@financialtimes.com
-
- What economists got wrong in 2025 on.ft.com/4iVvzrZ  | opinion
-
-[2025-12-14 21:00:52](https://bsky.app/profile/financialtimes.com/post/3m7x2zkqqaa2p)
-
----
-
-@nikkei.com
-
-スーパー「あえて現金のみ」　キャッシュレスより1円でも安く
-www.nikkei.com/article/DGXZQO...
-
-2025年11月 #注目された記事
-
-[2025-12-14 21:00:50](https://bsky.app/profile/nikkei.com/post/3m7x2zitrxp2g)
-
----
-
-@usatoday.com
-
-Dr. John Osborne, an American Heart Association volunteer, said adults 65 and older should be "more wary" of snow shoveling and individuals with risk factors for heart disease should be extra mindful. bit.ly/48O44vI
-
-[2025-12-14 21:00:08](https://bsky.app/profile/usatoday.com/post/3m7x2yawr4z2o)
-
----
-
-@financialtimes.com
-
-Twelve people have been killed after gunmen opened fire at Sydney’s Bondi Beach in an attack that Australian authorities said targeted a Jewish community event. on.ft.com/3XQLy0P
-
-[2025-12-14 21:00:05](https://bsky.app/profile/financialtimes.com/post/3m7x2y6fmbn2c)
-
----
-
-@financialtimes.com
-
-GoFundMe CEO Tim Cadogan on Henry V, Yorkshire Tea and how to raise $30bn for charity on.ft.com/453KD0I
-
-[2025-12-14 21:00:05](https://bsky.app/profile/financialtimes.com/post/3m7x2y5coib2b)
 
 ---
 
