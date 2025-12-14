@@ -1,9 +1,9 @@
-# [2025-12-14 13:30 updated](2025_12_14.md)
+# [2025-12-14 13:37 updated](2025_12_14.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Videogame executive Xu Bo, said to have more than 100 children, and other Chinese elites are building mega-families by hiring American surrogates. <a href="https://bsky.app/profile/wsj.com/post/3m7wbnkrk6d2s" target="_blank">wsj.com</a> (2025-12-14 13:26:46)</span><span style="padding-right:50px;">AT&T, T-Mobile and Verizon are escalating their usual claims about whose wireless service is best with the launch of explicit customer poaching efforts and litigation. <a href="https://bsky.app/profile/wsj.com/post/3m7wbl3xcxp2t" target="_blank">wsj.com</a> (2025-12-14 13:25:23)</span><span style="padding-right:50px;">米ロードアイランド州プロビデンスのブラウン大学で１３日夜、銃撃事件が発生し、学生２人が死亡、８人が重傷を負った。もう１人も負傷した。当局が明らかにした。 bit.ly/4oON7Hr <a href="https://bsky.app/profile/japan.reuters.com/post/3m7wbkgcdea22" target="_blank">japan.reuters.com</a> (2025-12-14 13:25:01)</span><span style="padding-right:50px;">政府の孤独・孤立対策「知らない」回答の8割超 内閣府世論調査 https://news.web.nhk/newsweb/na/na-k10015003551000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7wbdft67q2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-14 13:21:03)</span><span style="padding-right:50px;">千葉 銚子 釣り中の男性2人が海に転落 1人救助 1人行方不明 https://news.web.nhk/newsweb/na/na-k10015003541000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7waynm2cw2x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-14 13:15:02)</span>
+<span style="padding-right:50px;">ハーモニーランド、なぜ滞在型リゾートに転換？ www.nikkei.com/article/DGXZQO...  サンリオは同社唯一の屋外型テーマパーク「ハーモニーランド」（大分県日出町）を滞在型リゾートに転換する構想「天空のパーク」を発表しました。  かつては赤字続きでグループ内では「お荷物」と批判されるも、近年はグッズ販売が好調で黒字を維持しています。  なぜ滞在型リゾートに転換するのか──。構想に至るまでの経緯と今後の課題をまとめました。 <a href="https://bsky.app/profile/nikkei.com/post/3m7wbufsljn2m" target="_blank">nikkei.com</a> (2025-12-14 13:30:36)</span><span style="padding-right:50px;">スノーボードのワールドカップ（Ｗ杯）は１３日、米コロラド州のスティームボートスプリングズでビッグエア最終第３戦の決勝を行い、男子では２０歳の荻原大翔が優勝した。 bit.ly/4aUZdeG <a href="https://bsky.app/profile/japan.reuters.com/post/3m7wbu2dp4s2c" target="_blank">japan.reuters.com</a> (2025-12-14 13:30:24)</span><span style="padding-right:50px;">Videogame executive Xu Bo, said to have more than 100 children, and other Chinese elites are building mega-families by hiring American surrogates. <a href="https://bsky.app/profile/wsj.com/post/3m7wbnkrk6d2s" target="_blank">wsj.com</a> (2025-12-14 13:26:46)</span><span style="padding-right:50px;">AT&T, T-Mobile and Verizon are escalating their usual claims about whose wireless service is best with the launch of explicit customer poaching efforts and litigation. <a href="https://bsky.app/profile/wsj.com/post/3m7wbl3xcxp2t" target="_blank">wsj.com</a> (2025-12-14 13:25:23)</span><span style="padding-right:50px;">米ロードアイランド州プロビデンスのブラウン大学で１３日夜、銃撃事件が発生し、学生２人が死亡、８人が重傷を負った。もう１人も負傷した。当局が明らかにした。 bit.ly/4oON7Hr <a href="https://bsky.app/profile/japan.reuters.com/post/3m7wbkgcdea22" target="_blank">japan.reuters.com</a> (2025-12-14 13:25:01)</span>
   </div>
 </div>
 
@@ -32,14 +32,37 @@
 
 ## News Headlines
 
-1. 米軍兵士２人殺害　シリアで
-2. 計算から離れた「知らない」8割超　政府の孤独・孤立対策
-3. 千葉で釣り中の男性が海に転落　１人救助　１人行方不明
-4. ベラルーシ大統領が反体制派指導者らを釈放
-5. ディズニーがAIを活用　キャラ動画で若者との接点拡大
-6. 米大リーグのメッツがポランコと２年契約
+1. ハーモニーランド、滞在型リゾートに転換
+2. スノーボードのワールドカップ、男子優勝は荻原大翔
+3. 米ロードアイランド州で銃撃事件、学生２人死亡
+4. 政府の孤独・孤立対策「知らない」回答の8割超
+5. ベラルーシのルカシェンコ大統領が反政権派指導者を釈放
+6. ディズニーがOpenAIと提携してキャラ動画を配信
 
 ----
+
+@nikkei.com
+
+ハーモニーランド、なぜ滞在型リゾートに転換？
+www.nikkei.com/article/DGXZQO...
+
+サンリオは同社唯一の屋外型テーマパーク「ハーモニーランド」（大分県日出町）を滞在型リゾートに転換する構想「天空のパーク」を発表しました。
+
+かつては赤字続きでグループ内では「お荷物」と批判されるも、近年はグッズ販売が好調で黒字を維持しています。
+
+なぜ滞在型リゾートに転換するのか──。構想に至るまでの経緯と今後の課題をまとめました。
+
+[2025-12-14 13:30:36](https://bsky.app/profile/nikkei.com/post/3m7wbufsljn2m)
+
+---
+
+@japan.reuters.com
+
+スノーボードのワールドカップ（Ｗ杯）は１３日、米コロラド州のスティームボートスプリングズでビッグエア最終第３戦の決勝を行い、男子では２０歳の荻原大翔が優勝した。 bit.ly/4aUZdeG
+
+[2025-12-14 13:30:24](https://bsky.app/profile/japan.reuters.com/post/3m7wbu2dp4s2c)
+
+---
 
 @wsj.com
 
@@ -113,22 +136,6 @@ www.nikkei.com/article/DGXZQO...
 クリエーターの雇用への影響、著作権の問題など、課題との向き合い方も問われます。
 
 [2025-12-14 13:00:36](https://bsky.app/profile/nikkei.com/post/3m7wa6rxdbg26)
-
----
-
-@apnews.com
-
-Maine's loons are on the mend, filling more of the lakes and ponds in the state with their haunting calls.
-
-[2025-12-14 13:00:11](https://bsky.app/profile/apnews.com/post/3m7wa5zobja2p)
-
----
-
-@cnn.com
-
-The latest data on US respiratory illness shows that shoppers and merry-makers are spreading more than just holiday cheer: They’re also passing around germs. In many cases, it’s a new virus variant that’s been causing early and busy flu seasons in Asia, Australia and Europe: https://cnn.it/3KVZrb0
-
-[2025-12-14 13:00:05](https://bsky.app/profile/cnn.com/post/3m7wa5tqpoe23)
 
 ---
 
