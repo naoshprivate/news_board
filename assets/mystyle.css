@@ -1,3 +1,7 @@
 body {
   margin: 80px;
 }
+
+ol {
+  padding-left: 20;
+}
