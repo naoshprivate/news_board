@@ -1,9 +1,9 @@
-# [2025-12-14 23:30 updated](2025_12_14.md)
+# [2025-12-14 23:50 updated](2025_12_14.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🔔NHKより【地震速報】です。  ■震度4■ 能登地方 (2025-12-14 23:26) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m7xdc7qi2x2r" target="_blank">sokuho.news</a> (2025-12-14 23:28:52)</span><span style="padding-right:50px;">🔔気象庁より【震度速報】です。  23時26分頃、石川県で最大震度4の地震を観測しました。 今後の情報に注意してください。 (2025-12-14 23:28:38) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/14/2025-12-14-23-26-54.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3m7xdbuf2d62b" target="_blank">sokuho.news</a> (2025-12-14 23:28:40)</span><span style="padding-right:50px;">🚨地震発生中❗❗❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像9🈡 (2025-12-14 23:27:48) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m7xdaiimjy2y" target="_blank">sokuho.news</a> (2025-12-14 23:27:55)</span><span style="padding-right:50px;">🚨地震発生中❗❗❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像8 (2025-12-14 23:27:44) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m7xdaewtga2x" target="_blank">sokuho.news</a> (2025-12-14 23:27:51)</span><span style="padding-right:50px;">🚨地震発生中❗❗❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像7 (2025-12-14 23:27:24) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m7xda34z2h2s" target="_blank">sokuho.news</a> (2025-12-14 23:27:41)</span>
+<span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】静岡・伊東市長選で前市議の杉本憲也氏が当選 学歴詐称問題の田久保前市長落選 (2025年12月14日 23:02) #ニュース https://news.tv-asahi.co.jp/news_society/articles/000472958.html?display=full <a href="https://bsky.app/profile/sokuho.news/post/3m7xdycfdnz2y" target="_blank">sokuho.news</a> (2025-12-14 23:41:13)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:能登半島沖, 深さ:10km マグニチュード:3.2, 最大震度:2 📍https://www.google.com/maps?q=37.1,136.6&ll=37.1,136.6&z=7&t=h 地震発生日時:2025-12-14 23:37頃 (10倍速▶120s→12s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m7xdwnxpkq2y" target="_blank">sokuho.news</a> (2025-12-14 23:40:18)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  23時37分頃、石川県で最大震度2の地震を観測しました。 震源:能登半島沖, 深さ:10km, 規模:M3.2 この地震による津波の心配はありません。 (2025-12-14 23:39:52) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/14/2025-12-14-23-37-04.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3m7xdvvxb5f27" target="_blank">sokuho.news</a> (2025-12-14 23:39:53)</span><span style="padding-right:50px;">【地震速報】石川県能登地方で震度４ 津波の心配なし https://news.web.nhk/newsweb/na/na-k10015003911000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7xdjpkt7q2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-14 23:33:02)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:能登半島沖, 深さ:10km マグニチュード:4.9, 最大震度:4 📍https://www.google.com/maps?q=37.1,136.6&ll=37.1,136.6&z=7&t=h 地震発生日時:2025-12-14 23:26頃 (10倍速▶240s→24s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m7xdgv7scc2b" target="_blank">sokuho.news</a> (2025-12-14 23:31:29)</span>
   </div>
 </div>
 
@@ -32,14 +32,118 @@
 
 ## News Headlines
 
-1. 4.0の地震が青森県東方沖で発生
-2. 伊東市長選で元市議の当選が確実
-3. 地震が石川県で発生、最大震度4
-4. トランプのMAGA支持者は2026年にはいるが、亀裂が見え始める
-5. イスラエル最高裁は総理大臣の官房長官解任決定を無効に
-6. クリスマスを前にベツレヘムは戦争の影でクリスマスを迎える
+1. 静岡・伊東市長選で前市議の杉本憲也氏が当選
+2. 俄然寒さが厳しくなる　北海道～北陸 地域
+3. 震源:能登半島沖, 深さ:10km マグニチュード:4.9, 最大震度:4
+4. 北海道～北陸 風と雪強まる
+5. 静岡伊東市長選挙　学歴詐称問題で落選した田久保前市長
+6. 米大統領選のトランプ氏の支持者はまだトランプ氏を支持している
 
 ----
+
+@sokuho.news
+
+🔔ANNより【速報】です。
+
+【速報】静岡・伊東市長選で前市議の杉本憲也氏が当選 学歴詐称問題の田久保前市長落選
+(2025年12月14日 23:02) #ニュース
+https://news.tv-asahi.co.jp/news_society/articles/000472958.html?display=full
+
+[2025-12-14 23:41:13](https://bsky.app/profile/sokuho.news/post/3m7xdycfdnz2y)
+
+---
+
+@sokuho.news
+
+🔔防災科研より【強震モニタ】動画です。
+
+震源:能登半島沖, 深さ:10km
+マグニチュード:3.2, 最大震度:2
+📍https://www.google.com/maps?q=37.1,136.6&ll=37.1,136.6&z=7&t=h
+地震発生日時:2025-12-14 23:37頃
+(10倍速▶120s→12s) #地震
+
+[2025-12-14 23:40:18](https://bsky.app/profile/sokuho.news/post/3m7xdwnxpkq2y)
+
+---
+
+@sokuho.news
+
+🔔気象庁より【地震速報】です。
+
+23時37分頃、石川県で最大震度2の地震を観測しました。
+震源:能登半島沖, 深さ:10km, 規模:M3.2
+この地震による津波の心配はありません。
+(2025-12-14 23:39:52) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/14/2025-12-14-23-37-04.html?xlarge_image=1
+
+[2025-12-14 23:39:53](https://bsky.app/profile/sokuho.news/post/3m7xdvvxb5f27)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【地震速報】石川県能登地方で震度４ 津波の心配なし
+https://news.web.nhk/newsweb/na/na-k10015003911000
+
+[2025-12-14 23:33:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7xdjpkt7q2v)
+
+---
+
+@sokuho.news
+
+🔔防災科研より【強震モニタ】動画です。
+
+震源:能登半島沖, 深さ:10km
+マグニチュード:4.9, 最大震度:4
+📍https://www.google.com/maps?q=37.1,136.6&ll=37.1,136.6&z=7&t=h
+地震発生日時:2025-12-14 23:26頃
+(10倍速▶240s→24s) #地震
+
+[2025-12-14 23:31:29](https://bsky.app/profile/sokuho.news/post/3m7xdgv7scc2b)
+
+---
+
+@sokuho.news
+
+🔔気象庁より【地震速報】です。
+
+23時26分頃、石川県などで最大震度4の地震を観測しました。
+震源:能登半島沖, 深さ:10km, 規模:M4.9
+この地震による津波の心配はありません。
+(2025-12-14 23:30:40) #地震
+
+[2025-12-14 23:30:43](https://bsky.app/profile/sokuho.news/post/3m7xdfizxhq27)
+
+---
+
+@bloomberg.com
+
+Ukraine said it hit a major oil refinery and an oil depot in Russia as US President Donald Trump dispatched envoys to Berlin for another round of talks on how to end the war
+
+[2025-12-14 23:30:27](https://bsky.app/profile/bloomberg.com/post/3m7xdezrwvh2z)
+
+---
+
+@usatoday.com
+
+Brown University is the first Ivy League school in recent history with a shooting that led to deaths and multiple people shot
+
+[2025-12-14 23:30:24](https://bsky.app/profile/usatoday.com/post/3m7xdexatyq2g)
+
+---
+
+@sokuho.news
+
+🔔気象庁より【震源速報】です。
+
+23時26分頃、能登半島沖(深さ:10km) を震源とする M4.9 の地震を観測しました。
+この地震による津波の心配はありません。
+(2025-12-14 23:29:43) #地震
+
+[2025-12-14 23:29:45](https://bsky.app/profile/sokuho.news/post/3m7xddrsucl2s)
+
+---
 
 @sokuho.news
 
@@ -50,119 +154,6 @@
 (2025-12-14 23:26) #地震
 
 [2025-12-14 23:28:52](https://bsky.app/profile/sokuho.news/post/3m7xdc7qi2x2r)
-
----
-
-@sokuho.news
-
-🔔気象庁より【震度速報】です。
-
-23時26分頃、石川県で最大震度4の地震を観測しました。
-今後の情報に注意してください。
-(2025-12-14 23:28:38) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/14/2025-12-14-23-26-54.html?xlarge_image=1
-
-[2025-12-14 23:28:40](https://bsky.app/profile/sokuho.news/post/3m7xdbuf2d62b)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗❗❗
-
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像9🈡
-(2025-12-14 23:27:48) #緊急地震速報
-
-[2025-12-14 23:27:55](https://bsky.app/profile/sokuho.news/post/3m7xdaiimjy2y)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗❗❗
-
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像8
-(2025-12-14 23:27:44) #緊急地震速報
-
-[2025-12-14 23:27:51](https://bsky.app/profile/sokuho.news/post/3m7xdaewtga2x)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗❗❗
-
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像7
-(2025-12-14 23:27:24) #緊急地震速報
-
-[2025-12-14 23:27:41](https://bsky.app/profile/sokuho.news/post/3m7xda34z2h2s)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗❗❗
-
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像6
-(2025-12-14 23:27:09) #緊急地震速報
-
-[2025-12-14 23:27:38](https://bsky.app/profile/sokuho.news/post/3m7xd7yj6sq2x)
-
----
-
-@npr.org
-
-Hundreds had gathered for an event at Bondi Beach called Chanukah by the Sea, which was celebrating the start of the Hanukkah Jewish festival. n.pr/3Mxhdlv
-
-[2025-12-14 23:27:37](https://bsky.app/profile/npr.org/post/3m7xd7xswmf24)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗❗❗
-
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像4
-(2025-12-14 23:27:04) #緊急地震速報
-
-[2025-12-14 23:27:24](https://bsky.app/profile/sokuho.news/post/3m7xd7lhozc2b)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗❗❗
-
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像3
-(2025-12-14 23:26:59) #緊急地震速報
-
-[2025-12-14 23:27:12](https://bsky.app/profile/sokuho.news/post/3m7xd77vsji2x)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗❗❗
-
-⚠️揺れに警戒してください
-🔗http://www.kmoni.bosai.go.jp/
-
-🔶防災科研/強震モニタ/予測震度画像2
-(2025-12-14 23:26:58) #緊急地震速報
-
-[2025-12-14 23:27:06](https://bsky.app/profile/sokuho.news/post/3m7xd723s4x2r)
 
 ---
 
