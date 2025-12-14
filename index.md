@@ -1,9 +1,9 @@
-# [2025-12-15 06:50 updated](2025_12_15.md)
+# [2025-12-15 07:10 updated](2025_12_15.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Politicians and CEOs have gone quiet about climate change. The good news is, emissions are likely to decline anyway. <a href="https://bsky.app/profile/wsj.com/post/3m7y3tq5rtd23" target="_blank">wsj.com</a> (2025-12-15 06:48:10)</span><span style="padding-right:50px;">スキージャンプ男子W杯個人第9戦 二階堂蓮2位 小林陵侑3位 https://news.web.nhk/newsweb/na/na-k10015003951000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7y3tpnw262k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 06:48:08)</span><span style="padding-right:50px;">日産 自動運転車両の公共交通サービス実用化へ 実証実験開始 https://news.web.nhk/newsweb/na/na-k10015003791000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7y3tl57tw26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 06:48:02)</span><span style="padding-right:50px;">医師も頼る生成AI、4人に1人が活用 www.nikkei.com/article/DGXZQO...  海外製AIはどう学習しているか不確かとの指摘もあり、国産モデル開発が始まりました。  日本人に多い疾患に詳しいAIなどを作れる利点も。  過去の医師国家試験を解かせたところ合格基準を上回りました。 <a href="https://bsky.app/profile/nikkei.com/post/3m7y3qw2bdu2m" target="_blank">nikkei.com</a> (2025-12-15 06:46:35)</span><span style="padding-right:50px;">In @nytopinion.nytimes.com   President Trump “believes in cutting deals, not sharing values; in making money, not winning friends,” the editorial board writes. “His approach is inadequate for the long-term challenge America faces.” <a href="https://bsky.app/profile/nytimes.com/post/3m7y3o5vfjj2y" target="_blank">nytimes.com</a> (2025-12-15 06:45:03)</span>
+<span style="padding-right:50px;">香港民主派の有力政党として唯一存続していた民主党が１４日の臨時党大会で解散を正式に決定した。中国政府からの圧力が背景にあったもようだ。 bit.ly/3Mzx8Qe <a href="https://bsky.app/profile/japan.reuters.com/post/3m7y4z3cjgq2v" target="_blank">japan.reuters.com</a> (2025-12-15 07:09:03)</span><span style="padding-right:50px;">A tech-savvy law-enforcement officer wrote a new computer program that finally deciphered critical information in the Jan. 6 pipe-bombs case. <a href="https://bsky.app/profile/wsj.com/post/3m7y4ucmj5a2t" target="_blank">wsj.com</a> (2025-12-15 07:06:23)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】現場から逃走した男か 警察が30代男を事情聴取 犯行への関与をほのめかす 警察は事件に使われたとみられる刃物を発見 福岡市中央区の殺人未遂事件 (2025-12-15 06:30) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7y4sxbl7v2y" target="_blank">sokuho.news</a> (2025-12-15 07:05:38)</span><span style="padding-right:50px;">15 people were killed in an antisemitic attack at Bondi Beach on Sunday, an act more shocking because of the low gun violence numbers in Australia. <a href="https://bsky.app/profile/forbes.com/post/3m7y4rxtiuh2t" target="_blank">forbes.com</a> (2025-12-15 07:05:04)</span><span style="padding-right:50px;">From @theathletic.com: Kansas City has been eliminated from NFL playoff contention, ending a streak of 10 consecutive postseason appearances. <a href="https://bsky.app/profile/nytimes.com/post/3m7y4rifxpk25" target="_blank">nytimes.com</a> (2025-12-15 07:04:49)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.80 (🔺0.13 : 2025-12-14)</span>
+<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.84 (🔺0.16 : 2025-12-14)</span>
   </div>
 </div>
 
@@ -32,72 +32,28 @@
 
 ## News Headlines
 
-1. スキー場で日本の男子がW杯個人第9戦で2位
-2. 日産、自動運転車両の公共交通サービス実用化へ
-3. 医師も頼る生成AI、4人に1人が活用
-4. 来年度予算案の編成作業本格化
-5. 福岡市の商業施設で男女2人が刺された事件　30代の男を確保
-6. ボンドビーチのハヌッカーフェスティバルで大規模銃撃事件　15人死亡
+1. 香港の民主党が解散を決定
+2. スカッシュの世界カップで日本の選手が2位と3位
+3. 日産自動運転車両の実用化に向け実証実験が始まる
+4. 医師が頼るAIが4人に1人で活用
+5. 15人死亡　オーストラリアのバンドイ海岸で発生したハヌカーの式の射撃事件
+6. クリスマス前の来年度予算の編成が本格化
 
 ----
 
+@japan.reuters.com
+
+香港民主派の有力政党として唯一存続していた民主党が１４日の臨時党大会で解散を正式に決定した。中国政府からの圧力が背景にあったもようだ。 bit.ly/3Mzx8Qe
+
+[2025-12-15 07:09:03](https://bsky.app/profile/japan.reuters.com/post/3m7y4z3cjgq2v)
+
+---
+
 @wsj.com
 
-Politicians and CEOs have gone quiet about climate change. The good news is, emissions are likely to decline anyway.
+A tech-savvy law-enforcement officer wrote a new computer program that finally deciphered critical information in the Jan. 6 pipe-bombs case.
 
-[2025-12-15 06:48:10](https://bsky.app/profile/wsj.com/post/3m7y3tq5rtd23)
-
----
-
-@nhknewsunofficial.bsky.social
-
-スキージャンプ男子W杯個人第9戦 二階堂蓮2位 小林陵侑3位
-https://news.web.nhk/newsweb/na/na-k10015003951000
-
-[2025-12-15 06:48:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7y3tpnw262k)
-
----
-
-@nhknewsunofficial.bsky.social
-
-日産 自動運転車両の公共交通サービス実用化へ 実証実験開始
-https://news.web.nhk/newsweb/na/na-k10015003791000
-
-[2025-12-15 06:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7y3tl57tw26)
-
----
-
-@nikkei.com
-
-医師も頼る生成AI、4人に1人が活用
-www.nikkei.com/article/DGXZQO...
-
-海外製AIはどう学習しているか不確かとの指摘もあり、国産モデル開発が始まりました。
-
-日本人に多い疾患に詳しいAIなどを作れる利点も。
-
-過去の医師国家試験を解かせたところ合格基準を上回りました。
-
-[2025-12-15 06:46:35](https://bsky.app/profile/nikkei.com/post/3m7y3qw2bdu2m)
-
----
-
-@nytimes.com
-
-In @nytopinion.nytimes.com 
-
-President Trump “believes in cutting deals, not sharing values; in making money, not winning friends,” the editorial board writes. “His approach is inadequate for the long-term challenge America faces.”
-
-[2025-12-15 06:45:03](https://bsky.app/profile/nytimes.com/post/3m7y3o5vfjj2y)
-
----
-
-@nhknewsunofficial.bsky.social
-
-来年度予算案の編成作業本格化 診療報酬の改定率などが焦点に
-https://news.web.nhk/newsweb/na/na-k10015003781000
-
-[2025-12-15 06:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7y3o6ww3g2k)
+[2025-12-15 07:06:23](https://bsky.app/profile/wsj.com/post/3m7y4ucmj5a2t)
 
 ---
 
@@ -105,34 +61,73 @@ https://news.web.nhk/newsweb/na/na-k10015003781000
 
 🛎️FNNより【速報】です。
 
-【速報】現場から逃走した男か 警察が30代男の身柄確保 犯行への関与をほのめかす 警察は事件に使われたとみられる刃物を発見 福岡市中央区の殺人未遂事件
+【速報】現場から逃走した男か 警察が30代男を事情聴取 犯行への関与をほのめかす 警察は事件に使われたとみられる刃物を発見 福岡市中央区の殺人未遂事件
 (2025-12-15 06:30) #ニュース
 
-[2025-12-15 06:35:37](https://bsky.app/profile/sokuho.news/post/3m7y35ccyno2a)
+[2025-12-15 07:05:38](https://bsky.app/profile/sokuho.news/post/3m7y4sxbl7v2y)
 
 ---
 
-@bloomberg.com
+@forbes.com
 
-Two people are in police custody at Bondi Beach in Sydney, the New South Wales Police Force said, after reports multiple gunshots were fired late Sunday
+15 people were killed in an antisemitic attack at Bondi Beach on Sunday, an act more shocking because of the low gun violence numbers in Australia.
 
-[2025-12-15 06:35:08](https://bsky.app/profile/bloomberg.com/post/3m7y34gj6aj2d)
+[2025-12-15 07:05:04](https://bsky.app/profile/forbes.com/post/3m7y4rxtiuh2t)
 
 ---
 
 @nytimes.com
 
-Rabbis across the U.S. reflected on how to protect their own congregations after gunmen opened fire at a Hanukkah celebration in Australia on Sunday, killing at least 15 people.
+From @theathletic.com: Kansas City has been eliminated from NFL playoff contention, ending a streak of 10 consecutive postseason appearances.
 
-[2025-12-15 06:35:07](https://bsky.app/profile/nytimes.com/post/3m7y34fi4gg2a)
+[2025-12-15 07:04:49](https://bsky.app/profile/nytimes.com/post/3m7y4rifxpk25)
 
 ---
 
-@bloomberg.com
+@npr.org
 
-Brown University, mourning two students killed during a shooting rampage Saturday, sent students home and called off final exams, classes and assignments for the fall semester.
+Hundreds had gathered for an event at Bondi Beach called Chanukah by the Sea, which was celebrating the start of the Hanukkah Jewish festival. n.pr/4afN0RN
 
-[2025-12-15 06:34:15](https://bsky.app/profile/bloomberg.com/post/3m7y32tr7fy2a)
+[2025-12-15 07:03:03](https://bsky.app/profile/npr.org/post/3m7y4oe3qdm2g)
+
+---
+
+@japan.reuters.com
+
+中国財政省は１３日、来年は超長期の特別国債の発行を含めて、より積極的な財政政策を行うと明らかにした。 bit.ly/3MAHwHo
+
+[2025-12-15 07:02:24](https://bsky.app/profile/japan.reuters.com/post/3m7y4n6wzv42n)
+
+---
+
+@cbsnews.com
+
+A fruit shop owner who risked his life to disarm one of the gunmen during an antisemitic terror attack in Australia's Bondi Beach is being hailed a hero for his actions.
+
+[2025-12-15 07:01:01](https://bsky.app/profile/cbsnews.com/post/3m7y4kpeoyr2j)
+
+---
+
+@apnews.com
+
+A bystander seen in a widely circulated video disarming a gunman during a deadly shooting rampage at a popular Australian beach is being heralded as a hero who saved lives.
+
+[2025-12-15 07:00:51](https://bsky.app/profile/apnews.com/post/3m7y4kfz24e2k)
+
+---
+
+@nikkei.com
+
+静岡県伊東市長選挙、田久保真紀氏は敗北　元市議の杉本憲也氏が初当選
+www.nikkei.com/article/DGXZQO...
+
+田久保前市長が学歴を巡る問題で失職したことに伴う出直し選挙でした。
+
+杉本氏は現役世代の負担軽減を主張。当選後、市内で支持者を前に「止まってしまった市政を進める」と意気込みを語りました。
+
+#ニュース
+
+[2025-12-15 07:00:36](https://bsky.app/profile/nikkei.com/post/3m7y4jx6htb2y)
 
 ---
 
