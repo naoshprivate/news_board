@@ -1,9 +1,9 @@
-# [2025-12-14 12:10 updated](2025_12_14.md)
+# [2025-12-14 12:30 updated](2025_12_14.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">ロマネ・コンティ65本をオークションに　ワイン収集家の「終活」 www.nikkei.com/article/DGXZQO...  都内で2025年9月に行われたワインオークション。京都市在住の実業家、一家明成さん（76）のコレクションの一部が出品されました。  計100本の内訳は、赤ワインの世界最高峰と称されるフランス・ブルゴーニュ産「ロマネ・コンティ」65本と、同じ生産者による、こちらも白ワイン世界最高峰とされる「モンラッシェ」35本。  せっせと集めたこだわりのワインを手放す「コレクションじまい」。人それぞれの「理想のしまい方」とは──。 <a href="https://bsky.app/profile/nikkei.com/post/3m7w4tv67jk2y" target="_blank">nikkei.com</a> (2025-12-14 12:00:50)</span><span style="padding-right:50px;">There’s a lot of advice out there about how to increase the amount of joy in your life.  But if you ask Sonja Lyubomirsky, she’ll tell you that the best way to be happier is to “feel more connected to other people.” <a href="https://bsky.app/profile/cnbc.com/post/3m7w4tcqdn62i" target="_blank">cnbc.com</a> (2025-12-14 12:00:30)</span><span style="padding-right:50px;">In a yearly update, police urged anyone with information to come forward but did not release information about what new evidence has been gathered. <a href="https://bsky.app/profile/usatoday.com/post/3m7w4tbqiwq2h" target="_blank">usatoday.com</a> (2025-12-14 12:00:29)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】全国中学校駅伝 女子の大沢野中は18位 (2025-12-14 12:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7w4ta6yg22s" target="_blank">sokuho.news</a> (2025-12-14 12:00:27)</span><span style="padding-right:50px;">After a bath or shower, you probably don’t think much about the shower curtain.  However, whether you leave it open or closed can affect how well your bathroom dries and how much mold grows in your bathroom. <a href="https://bsky.app/profile/washingtonpost.com/post/3m7w4sivgqi23" target="_blank">washingtonpost.com</a> (2025-12-14 12:00:03)</span>
+<span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】全国中学校駅伝大会 岡山市の京山中学校（女子）3年連続優勝【岡山】 (2025-12-14 12:15) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7w5ypukli2x" target="_blank">sokuho.news</a> (2025-12-14 12:21:25)</span><span style="padding-right:50px;">In @nytopinion.nytimes.com  “A significant share of the voters who backed Mr. Trump have decided that he has largely ignored the primary issue that pushed them his way, the cost of living,” E. J. Dionne Jr. says. “A billionaire regularly mocking concern about affordability only makes matters worse.” <a href="https://bsky.app/profile/nytimes.com/post/3m7w5wcmb3d2b" target="_blank">nytimes.com</a> (2025-12-14 12:20:04)</span><span style="padding-right:50px;">The attack, which took place in the city of Palmyra, comes a year after the fall of Syrian President Bashar al-Assad and the lifting of U.S. sanctions. n.pr/4aKCxxJ <a href="https://bsky.app/profile/npr.org/post/3m7w5oyc4hl2e" target="_blank">npr.org</a> (2025-12-14 12:15:59)</span><span style="padding-right:50px;">議員定数削減は 企業・団体献金は 与野党が論戦 NHK日曜討論 https://news.web.nhk/newsweb/na/na-k10015003481000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7w5nfejex2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-14 12:15:03)</span><span style="padding-right:50px;">🛎️ANNより【速報】です。  【速報】成田空港で航空機けん引車両から発煙 乗客おらずけが人なし (2025-12-14 11:40:35) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7w5k23hrc2b" target="_blank">sokuho.news</a> (2025-12-14 12:13:13)</span>
   </div>
 </div>
 
@@ -32,14 +32,71 @@
 
 ## News Headlines
 
-1. ロマネ・コンティ65本をオークションに
-2. 全国中学校駅伝大会 女子の部 盛岡市立黒石野中学校が準優勝
-3. 成田空港で飛行機けん引車両から発煙
-4. インドでLionel Messiのファンが暴れ
-5. 米大リーグのタイガースがケンリー・ジャンセンとの1年契約に合意
-6. ブラウン大学で銃撃 2人死亡 8人重体
+1. 岡山の京山中学校が3年連続で全国中学校駅伝大会女子の優勝
+2. 成田空港で航空機けん引車両から発煙、けが人なし
+3. ロマネ・コンティ65本をオークションに出品
+4. 全国中学校駅伝大会の女子の部で盛岡市立黒石野中学校が準優勝
+5. 米大リーグのタイガースがケンリー・ジャンセン投手と1年契約
+6. 成田空港でトーイングカーから出火、けが人なし
 
 ----
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】全国中学校駅伝大会 岡山市の京山中学校（女子）3年連続優勝【岡山】
+(2025-12-14 12:15) #ニュース
+
+[2025-12-14 12:21:25](https://bsky.app/profile/sokuho.news/post/3m7w5ypukli2x)
+
+---
+
+@nytimes.com
+
+In @nytopinion.nytimes.com
+
+“A significant share of the voters who backed Mr. Trump have decided that he has largely ignored the primary issue that pushed them his way, the cost of living,” E. J. Dionne Jr. says. “A billionaire regularly mocking concern about affordability only makes matters worse.”
+
+[2025-12-14 12:20:04](https://bsky.app/profile/nytimes.com/post/3m7w5wcmb3d2b)
+
+---
+
+@npr.org
+
+The attack, which took place in the city of Palmyra, comes a year after the fall of Syrian President Bashar al-Assad and the lifting of U.S. sanctions. n.pr/4aKCxxJ
+
+[2025-12-14 12:15:59](https://bsky.app/profile/npr.org/post/3m7w5oyc4hl2e)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+議員定数削減は 企業・団体献金は 与野党が論戦 NHK日曜討論
+https://news.web.nhk/newsweb/na/na-k10015003481000
+
+[2025-12-14 12:15:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7w5nfejex2b)
+
+---
+
+@sokuho.news
+
+🛎️ANNより【速報】です。
+
+【速報】成田空港で航空機けん引車両から発煙 乗客おらずけが人なし
+(2025-12-14 11:40:35) #ニュース
+
+[2025-12-14 12:13:13](https://bsky.app/profile/sokuho.news/post/3m7w5k23hrc2b)
+
+---
+
+@reuters.com
+
+DC Morgan Scalley named Utah head coach reut.rs/4afEGkY
+
+[2025-12-14 12:10:11](https://bsky.app/profile/reuters.com/post/3m7w5emxnjw2i)
+
+---
 
 @nikkei.com
 
@@ -82,61 +139,6 @@ In a yearly update, police urged anyone with information to come forward but did
 (2025-12-14 12:00) #ニュース
 
 [2025-12-14 12:00:27](https://bsky.app/profile/sokuho.news/post/3m7w4ta6yg22s)
-
----
-
-@washingtonpost.com
-
-After a bath or shower, you probably don’t think much about the shower curtain.
-
-However, whether you leave it open or closed can affect how well your bathroom dries and how much mold grows in your bathroom.
-
-[2025-12-14 12:00:03](https://bsky.app/profile/washingtonpost.com/post/3m7w4sivgqi23)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【大雪 交通影響】北海道 新千歳の発着便で欠航 JRで運休も
-https://news.web.nhk/newsweb/na/na-k10015003511000
-
-[2025-12-14 12:00:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7w4skjrve26)
-
----
-
-@cbsnews.com
-
-Peter Greene, a character actor best known for his role as the villain Zed in "Pulp Fiction," has died. He was 60.
-
-[2025-12-14 12:00:01](https://bsky.app/profile/cbsnews.com/post/3m7w4sh3azg2f)
-
----
-
-@cnn.com
-
-Lionel Messi’s tour of India kicked off chaotically on Saturday as fans threw objects, ripped up seats and invaded the pitch at Kolkata’s Salt Lake stadium after the soccer great made only a brief appearance at a ticketed event: https://cnn.it/4oYivn5
-
-[2025-12-14 11:59:01](https://bsky.app/profile/cnn.com/post/3m7w4qnwtk32u)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】全国中学校駅伝大会・女子の部 盛岡市立黒石野中学校が準優勝
-(2025-12-14 11:57) #ニュース
-
-[2025-12-14 11:57:15](https://bsky.app/profile/sokuho.news/post/3m7w4niafbi25)
-
----
-
-@nhknewsunofficial.bsky.social
-
-青森 八戸 経済影響広がる 後発地震注意情報【14日の動き】
-https://news.web.nhk/newsweb/na/na-k10015003471000
-
-[2025-12-14 11:57:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7w4n6rkye2u)
 
 ---
 
