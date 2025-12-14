@@ -1,9 +1,9 @@
-# [2025-12-14 11:10 updated](2025_12_14.md)
+# [2025-12-14 11:30 updated](2025_12_14.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">サッカーのイングランド・プレミアリーグは１３日、各地で試合を行い、三笘薫が２カ月半ぶりに復帰したブライトンはリバプールに０─２で敗れた。 bit.ly/3MybADC <a href="https://bsky.app/profile/japan.reuters.com/post/3m7vzn5rcds27" target="_blank">japan.reuters.com</a> (2025-12-14 11:03:22)</span><span style="padding-right:50px;">England's 2023 fightback a useful Ashes reminder for Australia's Green reut.rs/4rX7epw <a href="https://bsky.app/profile/reuters.com/post/3m7vzjkzan423" target="_blank">reuters.com</a> (2025-12-14 11:01:22)</span><span style="padding-right:50px;">With Dick Van Dyke turning 100 on Dec. 13, he vowed to live longer with wife Arlene Silver at his side because "100 years is not enough." <a href="https://bsky.app/profile/usatoday.com/post/3m7vzior3dj25" target="_blank">usatoday.com</a> (2025-12-14 11:00:52)</span><span style="padding-right:50px;">育児で賃金減る「チャイルド・ペナルティ（子育て罰）」を考える www.nikkei.com/article/DGXZQO...   2025年11月 #注目された記事 <a href="https://bsky.app/profile/nikkei.com/post/3m7vzinrijp2m" target="_blank">nikkei.com</a> (2025-12-14 11:00:51)</span><span style="padding-right:50px;">In a major win for former FBI Director James Comey in the Justice Department's continued attempts to prosecute him, a judge is depriving federal investigators from accessing central evidence in the case for the foreseeable future. https://cnn.it/4iZc9T1 <a href="https://bsky.app/profile/cnn.com/post/3m7vzhe2skp25" target="_blank">cnn.com</a> (2025-12-14 11:00:08)</span>
+<span style="padding-right:50px;">米大リーグ（ＭＬＢ）のタイガースが、エンゼルスからフリーエージェントとなっていたケンリー・ジャンセン投手（３８）と１年契約に合意したと、複数メディアが報じた。 bit.ly/4s0L2Ly <a href="https://bsky.app/profile/japan.reuters.com/post/3m7w2xvwpds2c" target="_blank">japan.reuters.com</a> (2025-12-14 11:27:17)</span><span style="padding-right:50px;">Risk-loving Korean investors made to watch training video before trading on.ft.com/3YrV7U0 <a href="https://bsky.app/profile/financialtimes.com/post/3m7w2nfz5nj2f" target="_blank">financialtimes.com</a> (2025-12-14 11:21:25)</span><span style="padding-right:50px;">【随時更新】ロシア ウクライナに軍事侵攻（12月14日の動き） https://news.web.nhk/newsweb/na/na-k10014976811000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7w2mtsztu2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-14 11:21:03)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】本州と四国結ぶ瀬戸大橋 強風のため二輪車通行止め 橋上では50キロ規制【香川・岡山】 (2025-12-14 11:15) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7w2mipyqk2y" target="_blank">sokuho.news</a> (2025-12-14 11:20:54)</span><span style="padding-right:50px;">Reports: Brewers acquire lefty reliever Angel Zerpa from Royals reut.rs/48zwmv6 <a href="https://bsky.app/profile/reuters.com/post/3m7w2l7elqp2x" target="_blank">reuters.com</a> (2025-12-14 11:20:11)</span>
   </div>
 </div>
 
@@ -32,36 +32,85 @@
 
 ## News Headlines
 
-1. サッカー・ブライトンがリバプールに大敗
-2. イングランドの2023年の復活がオーストラリアのグリーンにアッシュズの思い出を与える
-3. 「子育て罰」導入を検討する企業を考える
-4. ジェームズ・コミー元FBI長官の裁判で証拠の取り扱いが大きな勝利
-5. ユーロ圏の人口が2025年にピークに達し、初めての人口減少が始まる
-6. ロシア・ウクライナ戦争の主要出来事（第1389日目）
-7. タイ首相がカンボジアとの国境地帯で戦闘を継続すると表明
-8. 国道112号でトラックと軽乗用車の事故　20代男性が意識不明
-9. ノルディックスキーのワールドカップで二階堂蓮が4位
-10. JR常磐線で運転見合わせ　雪の重みで竹が倒れる
-11. ブラウン大学銃撃事件　2人死亡・8人けが　容疑者の行方捜査
-12. スノーボードW杯で荻原大翔が優勝
-13. フェルナンド・メンデザがヘイズマン賞を受賞
-14. シー・ウー・キムがソニー・オープンに参加し、LIVゴルフの噂を静かにする
-15. アメリカン・エイローで核兵器が失われ、60年後にUS政府が認めない
-16. 中国の1兆ドル以上の貿易黒字がビジネス界に問題をもたらす
-17. ジェフ・フレイク元上院議員が「ザ・インタビュー」で上院の機能不全を語る
-18. サッカーのドイツ・ブンデスリーガでアイントラハト・フランクフルトがアウクスブルクを下す
-19. マイケル・デルの6つのルールを知る
-20. ドナルド・トランプ米大統領の約束がカリフォルニア・ナショナル・ガードの撤退を決める
-21. ノルディックスキーのワールドカップで丸山希が2位に入る
-22. ベラルーシのルカシェンコ大統領が反政府派の指導者を釈放
-23. サービスナウがセキュリティー・スタートアップ・アーマスを買収する
-24. アメリカ・ブラウン大学銃乱射事件　容疑者は逃走中
-25. リンゼイ・ヴォンが世界大会で2連覇を逃す
-26. 49ersのRBクリスチャン・マッカフィリーが怪我でインジェリーに追加
-27. ドナルド・トランプ米大統領の約束がTina・ペターズの釈放を決める
-28. 岡山市でバイクの男性が死亡
+1. タイガースがケンリー・ジャンセンと1年契約
+2. 軽自動車とトラックが正面衝突　男性が意識不明の重体
+3. 三笘薫が復帰したブライトンがリバプールに0-2で敗れる
+4. 英国人男性がブラウン大学で銃撃　2人死亡・8人負傷
+5. スノーボードW杯　荻原大翔が優勝
+6. フェルナンド・メンデザが2025年度ヘイズマン賞を受賞
 
 ----
+
+@japan.reuters.com
+
+米大リーグ（ＭＬＢ）のタイガースが、エンゼルスからフリーエージェントとなっていたケンリー・ジャンセン投手（３８）と１年契約に合意したと、複数メディアが報じた。 bit.ly/4s0L2Ly
+
+[2025-12-14 11:27:17](https://bsky.app/profile/japan.reuters.com/post/3m7w2xvwpds2c)
+
+---
+
+@financialtimes.com
+
+Risk-loving Korean investors made to watch training video before trading on.ft.com/3YrV7U0
+
+[2025-12-14 11:21:25](https://bsky.app/profile/financialtimes.com/post/3m7w2nfz5nj2f)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【随時更新】ロシア ウクライナに軍事侵攻（12月14日の動き）
+https://news.web.nhk/newsweb/na/na-k10014976811000
+
+[2025-12-14 11:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7w2mtsztu2u)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】本州と四国結ぶ瀬戸大橋 強風のため二輪車通行止め 橋上では50キロ規制【香川・岡山】
+(2025-12-14 11:15) #ニュース
+
+[2025-12-14 11:20:54](https://bsky.app/profile/sokuho.news/post/3m7w2mipyqk2y)
+
+---
+
+@reuters.com
+
+Reports: Brewers acquire lefty reliever Angel Zerpa from Royals reut.rs/48zwmv6
+
+[2025-12-14 11:20:11](https://bsky.app/profile/reuters.com/post/3m7w2l7elqp2x)
+
+---
+
+@japan.reuters.com
+
+１２日の中南米金融市場では株式が週間ベースで上昇。米連邦準備理事会（ＦＲＢ）の利下げなどが背景。投資家は週末に予定されているチリ大統領選の決選投票に注目している。 bit.ly/44tiFeK
+
+[2025-12-14 11:14:19](https://bsky.app/profile/japan.reuters.com/post/3m7w2aq3kku2c)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】軽自動車とトラックが正面衝突！月山第一トンネル鶴岡側出口で…男性が意識不明の重体・山形
+(2025-12-14 10:30) #ニュース
+
+[2025-12-14 11:10:36](https://bsky.app/profile/sokuho.news/post/3m7w223qo5o2s)
+
+---
+
+@reuters.com
+
+Tunisian police clash with youths in Kairouan after man's death reut.rs/3KPXtZM
+
+[2025-12-14 11:10:10](https://bsky.app/profile/reuters.com/post/3m7vzzcurjw24)
+
+---
 
 @japan.reuters.com
 
@@ -76,79 +125,6 @@
 England's 2023 fightback a useful Ashes reminder for Australia's Green reut.rs/4rX7epw
 
 [2025-12-14 11:01:22](https://bsky.app/profile/reuters.com/post/3m7vzjkzan423)
-
----
-
-@usatoday.com
-
-With Dick Van Dyke turning 100 on Dec. 13, he vowed to live longer with wife Arlene Silver at his side because "100 years is not enough."
-
-[2025-12-14 11:00:52](https://bsky.app/profile/usatoday.com/post/3m7vzior3dj25)
-
----
-
-@nikkei.com
-
-育児で賃金減る「チャイルド・ペナルティ（子育て罰）」を考える
-www.nikkei.com/article/DGXZQO...
- 
-2025年11月 #注目された記事
-
-[2025-12-14 11:00:51](https://bsky.app/profile/nikkei.com/post/3m7vzinrijp2m)
-
----
-
-@cnn.com
-
-In a major win for former FBI Director James Comey in the Justice Department's continued attempts to prosecute him, a judge is depriving federal investigators from accessing central evidence in the case for the foreseeable future.
-https://cnn.it/4iZc9T1
-
-[2025-12-14 11:00:08](https://bsky.app/profile/cnn.com/post/3m7vzhe2skp25)
-
----
-
-@washingtonpost.com
-
-Next year, the EU expects its population to peak before sliding into the first sustained decline since the Black Death.
-
-Governments across Europe are scrambling to test whether some mix of perks, incentives and ideology might spark a baby boom. 
-
-[2025-12-14 11:00:06](https://bsky.app/profile/washingtonpost.com/post/3m7vzhcrlzd2e)
-
----
-
-@aljazeera.com
-
-Russia-Ukraine war: List of key events, day 1,389 https://aje.io/s0emrr
-
-[2025-12-14 11:00:03](https://bsky.app/profile/aljazeera.com/post/3m7vzh7l6wu2h)
-
----
-
-@japan.reuters.com
-
-タイのアヌティン首相は１３日、カンボジアとの国境地帯で戦闘を継続すると表明した。 bit.ly/497V4mq
-
-[2025-12-14 10:42:40](https://bsky.app/profile/japan.reuters.com/post/3m7vyi4sizj2s)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】国道112号・月山道でトラックと軽乗用車の事故 軽乗用車に乗っていた20代男性が意識不明
-(2025-12-14 10:37:00) #ニュース
-
-[2025-12-14 10:40:23](https://bsky.app/profile/sokuho.news/post/3m7vye2ggga2e)
-
----
-
-@usatoday.com
-
-After firing Sherrone Moore, Michigan is looking for a new football coach. While most jobs have been filled, the Wolverines job is one of the biggest.
-
-[2025-12-14 10:30:52](https://bsky.app/profile/usatoday.com/post/3m7vxszf2pn2t)
 
 ---
 
