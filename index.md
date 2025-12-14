@@ -1,9 +1,9 @@
-# [2025-12-14 12:30 updated](2025_12_14.md)
+# [2025-12-14 12:50 updated](2025_12_14.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】全国中学校駅伝大会 岡山市の京山中学校（女子）3年連続優勝【岡山】 (2025-12-14 12:15) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7w5ypukli2x" target="_blank">sokuho.news</a> (2025-12-14 12:21:25)</span><span style="padding-right:50px;">In @nytopinion.nytimes.com  “A significant share of the voters who backed Mr. Trump have decided that he has largely ignored the primary issue that pushed them his way, the cost of living,” E. J. Dionne Jr. says. “A billionaire regularly mocking concern about affordability only makes matters worse.” <a href="https://bsky.app/profile/nytimes.com/post/3m7w5wcmb3d2b" target="_blank">nytimes.com</a> (2025-12-14 12:20:04)</span><span style="padding-right:50px;">The attack, which took place in the city of Palmyra, comes a year after the fall of Syrian President Bashar al-Assad and the lifting of U.S. sanctions. n.pr/4aKCxxJ <a href="https://bsky.app/profile/npr.org/post/3m7w5oyc4hl2e" target="_blank">npr.org</a> (2025-12-14 12:15:59)</span><span style="padding-right:50px;">議員定数削減は 企業・団体献金は 与野党が論戦 NHK日曜討論 https://news.web.nhk/newsweb/na/na-k10015003481000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7w5nfejex2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-14 12:15:03)</span><span style="padding-right:50px;">🛎️ANNより【速報】です。  【速報】成田空港で航空機けん引車両から発煙 乗客おらずけが人なし (2025-12-14 11:40:35) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7w5k23hrc2b" target="_blank">sokuho.news</a> (2025-12-14 12:13:13)</span>
+<span style="padding-right:50px;">サッカーのスペイン１部は１３日、各地で試合を行い、首位バルセロナがオサスナに２─０で勝利し、２位との差を広げた。 bit.ly/3Yxr9hj <a href="https://bsky.app/profile/japan.reuters.com/post/3m7w7evbyhk2c" target="_blank">japan.reuters.com</a> (2025-12-14 12:46:08)</span><span style="padding-right:50px;">米大リーグ（ＭＬＢ）のメッツがホルヘ・ポランコ内野手（３２）と総額４０００万ドル（約６２億３０００万円）の２年契約に合意したという。複数メディアが１３日、報じた。 bit.ly/3XQrV99 <a href="https://bsky.app/profile/japan.reuters.com/post/3m7w6z7jttp2c" target="_blank">japan.reuters.com</a> (2025-12-14 12:39:36)</span><span style="padding-right:50px;">スピードスケートのワールドカップ（Ｗ杯）第４戦は１３日、ノルウェーのハーマルで各競技を行い、女子１０００メートルでは高木美帆が１分１４秒３９で優勝した。 bit.ly/4iVbBxx <a href="https://bsky.app/profile/japan.reuters.com/post/3m7w6j5uepk2c" target="_blank">japan.reuters.com</a> (2025-12-14 12:30:37)</span><span style="padding-right:50px;">Estudiantes beat Racing on penalties to claim Argentine Clausura title reut.rs/4iSbuCK <a href="https://bsky.app/profile/reuters.com/post/3m7w6ispoan2c" target="_blank">reuters.com</a> (2025-12-14 12:30:25)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】全国中学校駅伝大会 岡山市の京山中学校（女子）3年連続優勝【岡山】 (2025-12-14 12:15) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7w5ypukli2x" target="_blank">sokuho.news</a> (2025-12-14 12:21:25)</span>
   </div>
 </div>
 
@@ -32,14 +32,46 @@
 
 ## News Headlines
 
-1. 岡山の京山中学校が3年連続で全国中学校駅伝大会女子の優勝
-2. 成田空港で航空機けん引車両から発煙、けが人なし
-3. ロマネ・コンティ65本をオークションに出品
-4. 全国中学校駅伝大会の女子の部で盛岡市立黒石野中学校が準優勝
-5. 米大リーグのタイガースがケンリー・ジャンセン投手と1年契約
-6. 成田空港でトーイングカーから出火、けが人なし
+1. バルセロナがオサスナに勝利し、首位の差を広げる
+2. メッツがホルヘ・ポランコと4000万ドルの2年契約を結ぶ
+3. スピードスケートのワールドカップで高木美帆が優勝
+4. エステディスタスがアルゼンチン・クラウスラタを制す
+5. 成田空港で航空機けん引車両から煙が出る
+6. ミネソタ大学のミネソタ・スカリーがユタ大学のヘッドコーチに就任
 
 ----
+
+@japan.reuters.com
+
+サッカーのスペイン１部は１３日、各地で試合を行い、首位バルセロナがオサスナに２─０で勝利し、２位との差を広げた。 bit.ly/3Yxr9hj
+
+[2025-12-14 12:46:08](https://bsky.app/profile/japan.reuters.com/post/3m7w7evbyhk2c)
+
+---
+
+@japan.reuters.com
+
+米大リーグ（ＭＬＢ）のメッツがホルヘ・ポランコ内野手（３２）と総額４０００万ドル（約６２億３０００万円）の２年契約に合意したという。複数メディアが１３日、報じた。 bit.ly/3XQrV99
+
+[2025-12-14 12:39:36](https://bsky.app/profile/japan.reuters.com/post/3m7w6z7jttp2c)
+
+---
+
+@japan.reuters.com
+
+スピードスケートのワールドカップ（Ｗ杯）第４戦は１３日、ノルウェーのハーマルで各競技を行い、女子１０００メートルでは高木美帆が１分１４秒３９で優勝した。 bit.ly/4iVbBxx
+
+[2025-12-14 12:30:37](https://bsky.app/profile/japan.reuters.com/post/3m7w6j5uepk2c)
+
+---
+
+@reuters.com
+
+Estudiantes beat Racing on penalties to claim Argentine Clausura title reut.rs/4iSbuCK
+
+[2025-12-14 12:30:25](https://bsky.app/profile/reuters.com/post/3m7w6ispoan2c)
+
+---
 
 @sokuho.news
 
@@ -95,50 +127,6 @@ https://news.web.nhk/newsweb/na/na-k10015003481000
 DC Morgan Scalley named Utah head coach reut.rs/4afEGkY
 
 [2025-12-14 12:10:11](https://bsky.app/profile/reuters.com/post/3m7w5emxnjw2i)
-
----
-
-@nikkei.com
-
-ロマネ・コンティ65本をオークションに　ワイン収集家の「終活」
-www.nikkei.com/article/DGXZQO...
-
-都内で2025年9月に行われたワインオークション。京都市在住の実業家、一家明成さん（76）のコレクションの一部が出品されました。
-
-計100本の内訳は、赤ワインの世界最高峰と称されるフランス・ブルゴーニュ産「ロマネ・コンティ」65本と、同じ生産者による、こちらも白ワイン世界最高峰とされる「モンラッシェ」35本。
-
-せっせと集めたこだわりのワインを手放す「コレクションじまい」。人それぞれの「理想のしまい方」とは──。
-
-[2025-12-14 12:00:50](https://bsky.app/profile/nikkei.com/post/3m7w4tv67jk2y)
-
----
-
-@cnbc.com
-
-There’s a lot of advice out there about how to increase the amount of joy in your life.
-
-But if you ask Sonja Lyubomirsky, she’ll tell you that the best way to be happier is to “feel more connected to other people.”
-
-[2025-12-14 12:00:30](https://bsky.app/profile/cnbc.com/post/3m7w4tcqdn62i)
-
----
-
-@usatoday.com
-
-In a yearly update, police urged anyone with information to come forward but did not release information about what new evidence has been gathered.
-
-[2025-12-14 12:00:29](https://bsky.app/profile/usatoday.com/post/3m7w4tbqiwq2h)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】全国中学校駅伝 女子の大沢野中は18位
-(2025-12-14 12:00) #ニュース
-
-[2025-12-14 12:00:27](https://bsky.app/profile/sokuho.news/post/3m7w4ta6yg22s)
 
 ---
 
