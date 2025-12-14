@@ -1,9 +1,9 @@
-# [2025-12-15 03:50 updated](2025_12_15.md)
+# [2025-12-15 04:10 updated](2025_12_15.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Title-chasing Man City beat Palace 3-0, Villa edge five-goal thriller reut.rs/45allOy <a href="https://bsky.app/profile/reuters.com/post/3m7xrmnfx572i" target="_blank">reuters.com</a> (2025-12-15 03:45:15)</span><span style="padding-right:50px;">A bystander tackled and disarmed one of the gunmen who targeted a Hanukkah celebration on Sunday at Bondi Beach in Sydney, Australia, video verified by The New York Times shows. <a href="https://bsky.app/profile/nytimes.com/post/3m7xrmcq2vs2r" target="_blank">nytimes.com</a> (2025-12-15 03:45:04)</span><span style="padding-right:50px;">BREAKING: Minnesota Rep. Ilhan Omar says her son was pulled over by immigration agents and asked to prove his citizenship. <a href="https://bsky.app/profile/cbsnews.com/post/3m7xrkwan3d2j" target="_blank">cbsnews.com</a> (2025-12-15 03:44:17)</span><span style="padding-right:50px;">Too many managers take a hands-off approach, and then get frustrated when things go awry. There is a better way. <a href="https://bsky.app/profile/wsj.com/post/3m7xrjabflv2h" target="_blank">wsj.com</a> (2025-12-15 03:43:20)</span><span style="padding-right:50px;">'Ruthless' City on the charge but Guardiola wants more from his side reut.rs/4j2GLDi <a href="https://bsky.app/profile/reuters.com/post/3m7xrdnyamp2p" target="_blank">reuters.com</a> (2025-12-15 03:40:13)</span>
+<span style="padding-right:50px;">【地震速報】石川県能登地方で震度３ https://news.web.nhk/newsweb/na/na-k10015002571000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7xsxaksou2d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 04:09:02)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:能登半島沖, 深さ:10km マグニチュード:4.7, 最大震度:3 📍https://www.google.com/maps?q=37.1,136.6&ll=37.1,136.6&z=7&t=h 地震発生日時:2025-12-15 04:03頃 (10倍速▶180s→18s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m7xswkpovk2r" target="_blank">sokuho.news</a> (2025-12-15 04:08:40)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  4時3分頃、石川県・福井県・富山県などで最大震度3の地震を観測しました。 震源:能登半島沖, 深さ:10km, 規模:M4.7 この地震による津波の心配はありません。 (2025-12-15 04:08:03) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m7xsvij53b2r" target="_blank">sokuho.news</a> (2025-12-15 04:08:05)</span><span style="padding-right:50px;">🔔気象庁より【震源速報】です。  4時3分頃、能登半島沖(深さ:10km) を震源とする M4.7 の地震を観測しました。 この地震による津波の心配はありません。 (2025-12-15 04:07:00) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m7xstoauuw2b" target="_blank">sokuho.news</a> (2025-12-15 04:07:04)</span><span style="padding-right:50px;">Trump administration officials are seeking to recruit a multinational force of around 10,000 troops under a U.S. general to stabilize postwar Gaza. <a href="https://bsky.app/profile/wsj.com/post/3m7xst7rwfn2i" target="_blank">wsj.com</a> (2025-12-15 04:06:49)</span>
   </div>
 </div>
 
@@ -32,92 +32,122 @@
 
 ## News Headlines
 
-1. スティルケッチャップのマンチェスター・シティがパレスを3-0で下す
-2. オーストラリアのシドニーにあるハヌッカーの式に参加した男性が銃撃を阻止
-3. オマール下院議員の息子に米国国境警備隊が停止車両する
-4. ギャングバースティングのリーダーがハンカカーの式で射殺
-5. 米国で学生ローンの滞納が増加
-6. 米国で景気が悪化により、クリスマスの買い物で物が高くなる
+1. 石川県・福井県・富山県で最大震度３の地震を観測
+2. 能登半島沖でM4.7の地震を観測
+3. 「ガザでマルチナショナル軍を派遣する計画」
+4. アメリカ企業がエネルギー取引者を大量雇用
+5. ガザでの平和維持に米国がマルチナショナル軍を派遣する計画
+6. 2026年から学生が200万ドルの学生ローンを借りることができる
 
 ----
 
-@reuters.com
+@nhknewsunofficial.bsky.social
 
-Title-chasing Man City beat Palace 3-0, Villa edge five-goal thriller reut.rs/45allOy
+【地震速報】石川県能登地方で震度３
+https://news.web.nhk/newsweb/na/na-k10015002571000
 
-[2025-12-15 03:45:15](https://bsky.app/profile/reuters.com/post/3m7xrmnfx572i)
-
----
-
-@nytimes.com
-
-A bystander tackled and disarmed one of the gunmen who targeted a Hanukkah celebration on Sunday at Bondi Beach in Sydney, Australia, video verified by The New York Times shows.
-
-[2025-12-15 03:45:04](https://bsky.app/profile/nytimes.com/post/3m7xrmcq2vs2r)
+[2025-12-15 04:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7xsxaksou2d)
 
 ---
 
-@cbsnews.com
+@sokuho.news
 
-<strong><span style="color: red;">BREAKING:</span> Minnesota Rep. Ilhan Omar says her son was pulled over by immigration agents and asked to prove his citizenship.</strong>
+🔔防災科研より【強震モニタ】動画です。
 
-[2025-12-15 03:44:17](https://bsky.app/profile/cbsnews.com/post/3m7xrkwan3d2j)
+震源:能登半島沖, 深さ:10km
+マグニチュード:4.7, 最大震度:3
+📍https://www.google.com/maps?q=37.1,136.6&ll=37.1,136.6&z=7&t=h
+地震発生日時:2025-12-15 04:03頃
+(10倍速▶180s→18s) #地震
+
+[2025-12-15 04:08:40](https://bsky.app/profile/sokuho.news/post/3m7xswkpovk2r)
+
+---
+
+@sokuho.news
+
+🔔気象庁より【地震速報】です。
+
+4時3分頃、石川県・福井県・富山県などで最大震度3の地震を観測しました。
+震源:能登半島沖, 深さ:10km, 規模:M4.7
+この地震による津波の心配はありません。
+(2025-12-15 04:08:03) #地震
+
+[2025-12-15 04:08:05](https://bsky.app/profile/sokuho.news/post/3m7xsvij53b2r)
+
+---
+
+@sokuho.news
+
+🔔気象庁より【震源速報】です。
+
+4時3分頃、能登半島沖(深さ:10km) を震源とする M4.7 の地震を観測しました。
+この地震による津波の心配はありません。
+(2025-12-15 04:07:00) #地震
+
+[2025-12-15 04:07:04](https://bsky.app/profile/sokuho.news/post/3m7xstoauuw2b)
 
 ---
 
 @wsj.com
 
-Too many managers take a hands-off approach, and then get frustrated when things go awry. There is a better way.
+Trump administration officials are seeking to recruit a multinational force of around 10,000 troops under a U.S. general to stabilize postwar Gaza.
 
-[2025-12-15 03:43:20](https://bsky.app/profile/wsj.com/post/3m7xrjabflv2h)
+[2025-12-15 04:06:49](https://bsky.app/profile/wsj.com/post/3m7xst7rwfn2i)
+
+---
+
+@yahoofinance.com
+
+Corporate America is scrambling to hire energy traders as the AI boom pressures electricity costs
+
+[2025-12-15 04:06:06](https://bsky.app/profile/yahoofinance.com/post/3m7xsrwjtgz2u)
+
+---
+
+@sokuho.news
+
+🔔NHKより【地震速報】です。
+
+■震度3■
+能登地方
+(2025-12-15 04:03) #地震
+
+[2025-12-15 04:05:23](https://bsky.app/profile/sokuho.news/post/3m7xsqnmqej2b)
+
+---
+
+@sokuho.news
+
+🔔気象庁より【震度速報】です。
+
+4時3分頃、石川県で最大震度3の地震を観測しました。
+今後の情報に注意してください。
+(2025-12-15 04:05:09) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/15/2025-12-15-04-03-39.html?xlarge_image=1
+
+[2025-12-15 04:05:11](https://bsky.app/profile/sokuho.news/post/3m7xsqbxg3b2b)
 
 ---
 
 @reuters.com
 
-'Ruthless' City on the charge but Guardiola wants more from his side reut.rs/4j2GLDi
+Sunderland exact sweet derby revenge with 'visitors' jibe at Newcastle reut.rs/48UuU5s
 
-[2025-12-15 03:40:13](https://bsky.app/profile/reuters.com/post/3m7xrdnyamp2p)
-
----
-
-@reuters.com
-
-Timberwolves' Anthony Edwards (foot) out vs. Kings reut.rs/3MD3Dgi
-
-[2025-12-15 03:35:11](https://bsky.app/profile/reuters.com/post/3m7xr2nx6hd2y)
+[2025-12-15 04:05:10](https://bsky.app/profile/reuters.com/post/3m7xsqbgl7a23)
 
 ---
 
-@nytimes.com
+@sokuho.news
 
-Connections is a daily game about finding common threads between words. Players must select four groups of four words without making more than three mistakes. Play now. trib.al/3ergDuj
+🚨地震発生中❗❗❗❗
 
-[2025-12-15 03:31:03](https://bsky.app/profile/nytimes.com/post/3m7xqtb65rc2c)
+⚠️揺れに警戒してください
 
----
+🔶防災科研/強震モニタ/予測震度画像8🈡
+(2025-12-15 04:04:34) #緊急地震速報
 
-@usatoday.com
-
-Do you have to file taxes in 2026? Here's why you might want to.
-
-[2025-12-15 03:30:32](https://bsky.app/profile/usatoday.com/post/3m7xqsdl4ys25)
-
----
-
-@bloomberg.com
-
-China is buying its first cargo of Argentine wheat in decades at a time when farmers on the Pampas are harvesting a record crop and President Javier Milei is trimming tariffs on shipments in a bid to boost exports.
-
-[2025-12-15 03:30:15](https://bsky.app/profile/bloomberg.com/post/3m7xqrt6viw2a)
-
----
-
-@financialtimes.com
-
-More than 9mn US student loan holders have missed at least one payment this year, as delinquencies in the $1.7tn market soar following the end of the Biden administration’s post-pandemic payments holiday. on.ft.com/4ah0Nrk
-
-[2025-12-15 03:30:07](https://bsky.app/profile/financialtimes.com/post/3m7xqrlrsic2y)
+[2025-12-15 04:05:06](https://bsky.app/profile/sokuho.news/post/3m7xsq5dpwf27)
 
 ---
 
