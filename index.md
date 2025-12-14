@@ -1,9 +1,9 @@
-# [2025-12-14 10:50 updated](2025_12_14.md)
+# [2025-12-14 11:10 updated](2025_12_14.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">タイのアヌティン首相は１３日、カンボジアとの国境地帯で戦闘を継続すると表明した。 bit.ly/497V4mq <a href="https://bsky.app/profile/japan.reuters.com/post/3m7vyi4sizj2s" target="_blank">japan.reuters.com</a> (2025-12-14 10:42:40)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】国道112号・月山道でトラックと軽乗用車の事故 軽乗用車に乗っていた20代男性が意識不明 (2025-12-14 10:37:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7vye2ggga2e" target="_blank">sokuho.news</a> (2025-12-14 10:40:23)</span><span style="padding-right:50px;">After firing Sherrone Moore, Michigan is looking for a new football coach. While most jobs have been filled, the Wolverines job is one of the biggest. <a href="https://bsky.app/profile/usatoday.com/post/3m7vxszf2pn2t" target="_blank">usatoday.com</a> (2025-12-14 10:30:52)</span><span style="padding-right:50px;">ノルディックスキーのワールドカップ（Ｗ杯）ジャンプは１３日、ドイツのクリンゲンタールで男子個人第８戦（ヒルサイズ＝ＨＳ１４０メートル）を行い、二階堂蓮が１２９．５メートルと１３３メートルを飛び、合計２６６．７点で４位に入った。 bit.ly/3KKhCR2 <a href="https://bsky.app/profile/japan.reuters.com/post/3m7vxnge5ut22" target="_blank">japan.reuters.com</a> (2025-12-14 10:27:44)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】JR常磐線で運転見合わせ 雪の重みで竹が倒れる (2025-12-14 10:00) #ニュース  🚃鉄道運行情報 🔗https://transit.yahoo.co.jp/diainfo <a href="https://bsky.app/profile/sokuho.news/post/3m7vxjnpkml2s" target="_blank">sokuho.news</a> (2025-12-14 10:25:37)</span>
+<span style="padding-right:50px;">サッカーのイングランド・プレミアリーグは１３日、各地で試合を行い、三笘薫が２カ月半ぶりに復帰したブライトンはリバプールに０─２で敗れた。 bit.ly/3MybADC <a href="https://bsky.app/profile/japan.reuters.com/post/3m7vzn5rcds27" target="_blank">japan.reuters.com</a> (2025-12-14 11:03:22)</span><span style="padding-right:50px;">England's 2023 fightback a useful Ashes reminder for Australia's Green reut.rs/4rX7epw <a href="https://bsky.app/profile/reuters.com/post/3m7vzjkzan423" target="_blank">reuters.com</a> (2025-12-14 11:01:22)</span><span style="padding-right:50px;">With Dick Van Dyke turning 100 on Dec. 13, he vowed to live longer with wife Arlene Silver at his side because "100 years is not enough." <a href="https://bsky.app/profile/usatoday.com/post/3m7vzior3dj25" target="_blank">usatoday.com</a> (2025-12-14 11:00:52)</span><span style="padding-right:50px;">育児で賃金減る「チャイルド・ペナルティ（子育て罰）」を考える www.nikkei.com/article/DGXZQO...   2025年11月 #注目された記事 <a href="https://bsky.app/profile/nikkei.com/post/3m7vzinrijp2m" target="_blank">nikkei.com</a> (2025-12-14 11:00:51)</span><span style="padding-right:50px;">In a major win for former FBI Director James Comey in the Justice Department's continued attempts to prosecute him, a judge is depriving federal investigators from accessing central evidence in the case for the foreseeable future. https://cnn.it/4iZc9T1 <a href="https://bsky.app/profile/cnn.com/post/3m7vzhe2skp25" target="_blank">cnn.com</a> (2025-12-14 11:00:08)</span>
   </div>
 </div>
 
@@ -32,14 +32,98 @@
 
 ## News Headlines
 
-1. アヌティン首相「カンボジアとの国境地帯で戦闘継続」
-2. トラックと軽乗用車の事故　20代男性が意識不明
-3. ノルディックスキーのワールドカップ　丸山希が女子個人第８戦で２位
-4. 米ブラウン大学で銃乱射事件　２人が死亡　８人重体
-5. ベラルーシ大統領が反体制派の指導者を釈放
-6. ブラックホールは「静かな天体」ではない
+1. サッカー・ブライトンがリバプールに大敗
+2. イングランドの2023年の復活がオーストラリアのグリーンにアッシュズの思い出を与える
+3. 「子育て罰」導入を検討する企業を考える
+4. ジェームズ・コミー元FBI長官の裁判で証拠の取り扱いが大きな勝利
+5. ユーロ圏の人口が2025年にピークに達し、初めての人口減少が始まる
+6. ロシア・ウクライナ戦争の主要出来事（第1389日目）
+7. タイ首相がカンボジアとの国境地帯で戦闘を継続すると表明
+8. 国道112号でトラックと軽乗用車の事故　20代男性が意識不明
+9. ノルディックスキーのワールドカップで二階堂蓮が4位
+10. JR常磐線で運転見合わせ　雪の重みで竹が倒れる
+11. ブラウン大学銃撃事件　2人死亡・8人けが　容疑者の行方捜査
+12. スノーボードW杯で荻原大翔が優勝
+13. フェルナンド・メンデザがヘイズマン賞を受賞
+14. シー・ウー・キムがソニー・オープンに参加し、LIVゴルフの噂を静かにする
+15. アメリカン・エイローで核兵器が失われ、60年後にUS政府が認めない
+16. 中国の1兆ドル以上の貿易黒字がビジネス界に問題をもたらす
+17. ジェフ・フレイク元上院議員が「ザ・インタビュー」で上院の機能不全を語る
+18. サッカーのドイツ・ブンデスリーガでアイントラハト・フランクフルトがアウクスブルクを下す
+19. マイケル・デルの6つのルールを知る
+20. ドナルド・トランプ米大統領の約束がカリフォルニア・ナショナル・ガードの撤退を決める
+21. ノルディックスキーのワールドカップで丸山希が2位に入る
+22. ベラルーシのルカシェンコ大統領が反政府派の指導者を釈放
+23. サービスナウがセキュリティー・スタートアップ・アーマスを買収する
+24. アメリカ・ブラウン大学銃乱射事件　容疑者は逃走中
+25. リンゼイ・ヴォンが世界大会で2連覇を逃す
+26. 49ersのRBクリスチャン・マッカフィリーが怪我でインジェリーに追加
+27. ドナルド・トランプ米大統領の約束がTina・ペターズの釈放を決める
+28. 岡山市でバイクの男性が死亡
 
 ----
+
+@japan.reuters.com
+
+サッカーのイングランド・プレミアリーグは１３日、各地で試合を行い、三笘薫が２カ月半ぶりに復帰したブライトンはリバプールに０─２で敗れた。 bit.ly/3MybADC
+
+[2025-12-14 11:03:22](https://bsky.app/profile/japan.reuters.com/post/3m7vzn5rcds27)
+
+---
+
+@reuters.com
+
+England's 2023 fightback a useful Ashes reminder for Australia's Green reut.rs/4rX7epw
+
+[2025-12-14 11:01:22](https://bsky.app/profile/reuters.com/post/3m7vzjkzan423)
+
+---
+
+@usatoday.com
+
+With Dick Van Dyke turning 100 on Dec. 13, he vowed to live longer with wife Arlene Silver at his side because "100 years is not enough."
+
+[2025-12-14 11:00:52](https://bsky.app/profile/usatoday.com/post/3m7vzior3dj25)
+
+---
+
+@nikkei.com
+
+育児で賃金減る「チャイルド・ペナルティ（子育て罰）」を考える
+www.nikkei.com/article/DGXZQO...
+ 
+2025年11月 #注目された記事
+
+[2025-12-14 11:00:51](https://bsky.app/profile/nikkei.com/post/3m7vzinrijp2m)
+
+---
+
+@cnn.com
+
+In a major win for former FBI Director James Comey in the Justice Department's continued attempts to prosecute him, a judge is depriving federal investigators from accessing central evidence in the case for the foreseeable future.
+https://cnn.it/4iZc9T1
+
+[2025-12-14 11:00:08](https://bsky.app/profile/cnn.com/post/3m7vzhe2skp25)
+
+---
+
+@washingtonpost.com
+
+Next year, the EU expects its population to peak before sliding into the first sustained decline since the Black Death.
+
+Governments across Europe are scrambling to test whether some mix of perks, incentives and ideology might spark a baby boom. 
+
+[2025-12-14 11:00:06](https://bsky.app/profile/washingtonpost.com/post/3m7vzhcrlzd2e)
+
+---
+
+@aljazeera.com
+
+Russia-Ukraine war: List of key events, day 1,389 https://aje.io/s0emrr
+
+[2025-12-14 11:00:03](https://bsky.app/profile/aljazeera.com/post/3m7vzh7l6wu2h)
+
+---
 
 @japan.reuters.com
 
@@ -65,69 +149,6 @@
 After firing Sherrone Moore, Michigan is looking for a new football coach. While most jobs have been filled, the Wolverines job is one of the biggest.
 
 [2025-12-14 10:30:52](https://bsky.app/profile/usatoday.com/post/3m7vxszf2pn2t)
-
----
-
-@japan.reuters.com
-
-ノルディックスキーのワールドカップ（Ｗ杯）ジャンプは１３日、ドイツのクリンゲンタールで男子個人第８戦（ヒルサイズ＝ＨＳ１４０メートル）を行い、二階堂蓮が１２９．５メートルと１３３メートルを飛び、合計２６６．７点で４位に入った。 bit.ly/3KKhCR2
-
-[2025-12-14 10:27:44](https://bsky.app/profile/japan.reuters.com/post/3m7vxnge5ut22)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】JR常磐線で運転見合わせ 雪の重みで竹が倒れる
-(2025-12-14 10:00) #ニュース
-
-🚃鉄道運行情報
-🔗https://transit.yahoo.co.jp/diainfo
-
-[2025-12-14 10:25:37](https://bsky.app/profile/sokuho.news/post/3m7vxjnpkml2s)
-
----
-
-@reuters.com
-
-Bears place CB Kyler Gordon (groin) on injured reserve again reut.rs/3YqQpG5
-
-[2025-12-14 10:20:17](https://bsky.app/profile/reuters.com/post/3m7vxa44av72p)
-
----
-
-@nytimes.com
-
-A gunman shot 10 people, killing two of them, at Brown University on Saturday afternoon, local officials said. Follow live updates. www.nytimes.com/live/2025/12...
-
-[2025-12-14 10:20:06](https://bsky.app/profile/nytimes.com/post/3m7vx7re6js25)
-
----
-
-@nhknewsunofficial.bsky.social
-
-スノーボードW杯 ビッグエア 最終第3戦 荻原大翔 鬼塚雅が優勝
-https://news.web.nhk/newsweb/na/na-k10015003461000
-
-[2025-12-14 10:15:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7vwwszqjv2k)
-
----
-
-@cnn.com
-
-After leading Indiana’s perfect season, Fernando Mendoza is awarded the 2025 Heisman Trophy: https://cnn.it/4pBisP0
-
-[2025-12-14 10:13:51](https://bsky.app/profile/cnn.com/post/3m7vwumbfse2b)
-
----
-
-@nytimes.com
-
-<strong><span style="color: red;">Breaking News</span> from @theathletic.com: Fernando Mendoza won the Heisman Trophy, becoming the first Indiana player to win college football’s most prestigious award.</strong>
-
-[2025-12-14 10:13:27](https://bsky.app/profile/nytimes.com/post/3m7vwtvdqqk25)
 
 ---
 
