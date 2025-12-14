@@ -1,9 +1,9 @@
-# [2025-12-14 22:50 updated](2025_12_14.md)
+# [2025-12-14 23:10 updated](2025_12_14.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">シドニーで銃撃事件 12人死亡 “ユダヤ系住民標的のテロ”首相 https://news.web.nhk/newsweb/na/na-k10015003751000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7xazb4wq32d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-14 22:48:03)</span><span style="padding-right:50px;">At least 11 people were killed on Sunday and more were injured after two gunmen opened fire at a crowd celebrating the first day of the Hanukkah holiday on Bondi Beach in Sydney, Australia. One of the shooters was also killed, the police said. Here is what we know about the attack. <a href="https://bsky.app/profile/nytimes.com/post/3m7xatuju262s" target="_blank">nytimes.com</a> (2025-12-14 22:45:04)</span><span style="padding-right:50px;">A person of interest was in custody early Sunday in connection with a shooting at Brown University that killed two students and injured nine more the previous day, the mayor of Providence, Rhode Island, said. Follow the latest updates. <a href="https://bsky.app/profile/nytimes.com/post/3m7xamren3o27" target="_blank">nytimes.com</a> (2025-12-14 22:41:05)</span><span style="padding-right:50px;">Haugan takes Norway's first win of World Cup season reut.rs/3XXFfbI <a href="https://bsky.app/profile/reuters.com/post/3m7xaleurbu2y" target="_blank">reuters.com</a> (2025-12-14 22:40:19)</span><span style="padding-right:50px;">福岡 男女2人 刃物のようなもので刺される 逃げた男の行方捜査 https://news.web.nhk/newsweb/na/na-k10015003661000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7xaj5ab542u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-14 22:39:02)</span>
+<span style="padding-right:50px;">Nvidia or OpenAI: Who will take the crown? <a href="https://bsky.app/profile/yahoofinance.com/post/3m7xbzhzawu2v" target="_blank">yahoofinance.com</a> (2025-12-14 23:06:06)</span><span style="padding-right:50px;">Israeli Supreme Court rules against government's dismissal of attorney general reut.rs/48DqmBF <a href="https://bsky.app/profile/reuters.com/post/3m7xbxrxhmu2k" target="_blank">reuters.com</a> (2025-12-14 23:05:09)</span><span style="padding-right:50px;">Bondi Beach Shooting Latest: Twelve People Confirmed Dead in Attack <a href="https://bsky.app/profile/bloomberg.com/post/3m7xbxovjuh2u" target="_blank">bloomberg.com</a> (2025-12-14 23:05:06)</span><span style="padding-right:50px;">Exit interview: After four decades, the most powerful woman in the history of the United States heads home. Nancy Pelosi is still defiant. <a href="https://bsky.app/profile/usatoday.com/post/3m7xbxg2mxz2o" target="_blank">usatoday.com</a> (2025-12-14 23:04:56)</span><span style="padding-right:50px;">If your home is about a football-field length from new sound barriers, the value will go up. on.wsj.com/4qsMMf1 <a href="https://bsky.app/profile/wsj.com/post/3m7xbu3kqpn2h" target="_blank">wsj.com</a> (2025-12-14 23:03:04)</span>
   </div>
 </div>
 
@@ -32,96 +32,97 @@
 
 ## News Headlines
 
-1. シドニー銃撃事件　12人死亡　ユダヤ系住民標的のテロ
-2. ブラウン大学銃撃事件　2人死亡　9人負傷　容疑者逮捕
-3. 香港最大の民主派政党「民主党」が解散へ
-4. 静岡伊東市長選挙　田久保真紀前市長の落選確実
-5. オーストラリアのボンダイビーチで銃撃事件　12人死亡
-6. 福岡　男女２人　刃物のようなもので刺される　逃げた男の行方捜査
+1.  イスラエル最高裁判所、法務総長の解任を却下
+2.  ボンディビーチ銃撃事件　12人死亡、30人以上負傷
+3.  ボルチモア大学銃撃事件　人質をとった容疑者が逮捕
+4.  オーストラリアのボンディビーチでハヌカ祭り中に銃撃事件　12人死亡
+5.  静岡伊東市長選挙　前市長の落選確実
+6.  ボルチモア大学銃撃事件　人質をとった容疑者が逮捕
 
 ----
 
-@nhknewsunofficial.bsky.social
+@yahoofinance.com
 
-シドニーで銃撃事件 12人死亡 “ユダヤ系住民標的のテロ”首相
-https://news.web.nhk/newsweb/na/na-k10015003751000
+Nvidia or OpenAI: Who will take the crown?
 
-[2025-12-14 22:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7xazb4wq32d)
-
----
-
-@nytimes.com
-
-At least 11 people were killed on Sunday and more were injured after two gunmen opened fire at a crowd celebrating the first day of the Hanukkah holiday on Bondi Beach in Sydney, Australia. One of the shooters was also killed, the police said. Here is what we know about the attack.
-
-[2025-12-14 22:45:04](https://bsky.app/profile/nytimes.com/post/3m7xatuju262s)
-
----
-
-@nytimes.com
-
-A person of interest was in custody early Sunday in connection with a shooting at Brown University that killed two students and injured nine more the previous day, the mayor of Providence, Rhode Island, said. Follow the latest updates.
-
-[2025-12-14 22:41:05](https://bsky.app/profile/nytimes.com/post/3m7xamren3o27)
+[2025-12-14 23:06:06](https://bsky.app/profile/yahoofinance.com/post/3m7xbzhzawu2v)
 
 ---
 
 @reuters.com
 
-Haugan takes Norway's first win of World Cup season reut.rs/3XXFfbI
+Israeli Supreme Court rules against government's dismissal of attorney general reut.rs/48DqmBF
 
-[2025-12-14 22:40:19](https://bsky.app/profile/reuters.com/post/3m7xaleurbu2y)
+[2025-12-14 23:05:09](https://bsky.app/profile/reuters.com/post/3m7xbxrxhmu2k)
+
+---
+
+@bloomberg.com
+
+Bondi Beach Shooting Latest: Twelve People Confirmed Dead in Attack
+
+[2025-12-14 23:05:06](https://bsky.app/profile/bloomberg.com/post/3m7xbxovjuh2u)
+
+---
+
+@usatoday.com
+
+Exit interview: After four decades, the most powerful woman in the history of the United States heads home. Nancy Pelosi is still defiant.
+
+[2025-12-14 23:04:56](https://bsky.app/profile/usatoday.com/post/3m7xbxg2mxz2o)
+
+---
+
+@wsj.com
+
+If your home is about a football-field length from new sound barriers, the value will go up. on.wsj.com/4qsMMf1
+
+[2025-12-14 23:03:04](https://bsky.app/profile/wsj.com/post/3m7xbu3kqpn2h)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-福岡 男女2人 刃物のようなもので刺される 逃げた男の行方捜査
-https://news.web.nhk/newsweb/na/na-k10015003661000
+北海道～北陸 風と雪強まる 猛吹雪や暴風などに厳重警戒を
+https://news.web.nhk/newsweb/na/na-k10015003321000
 
-[2025-12-14 22:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7xaj5ab542u)
+[2025-12-14 23:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7xbu33god2d)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@sokuho.news
 
-香港 最大の民主派政党「民主党」が解散へ
-https://news.web.nhk/newsweb/na/na-k10015003891000
+🔔ANNより【速報】です。
 
-[2025-12-14 22:36:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7xadt3bxv2b)
+【速報】静岡・伊東市長選で前市議の杉本憲也氏が当選 学歴詐称問題の田久保前市長落選
+(2025年12月14日 23:02) #ニュース
+
+[2025-12-14 23:02:38](https://bsky.app/profile/sokuho.news/post/3m7xbtcncc52x)
+
+---
+
+@bloomberg.com
+
+A person of interest has been detained over the fatal shooting at Brown University, officials said
+
+[2025-12-14 23:00:57](https://bsky.app/profile/bloomberg.com/post/3m7xbqbxu7x2e)
+
+---
+
+@nikkei.com
+
+温暖化対策の見えざる壁　「適応格差」とは何か？（無料記事）
+www.nikkei.com/article/DGXZQO...
+
+[2025-12-14 23:00:50](https://bsky.app/profile/nikkei.com/post/3m7xbq3c7bk2y)
 
 ---
 
 @reuters.com
 
-Saudi bourse leads most Gulf stocks lower as oil prices fall reut.rs/4pAyj0a
+Bondi Beach shooting, Brown University, Syria and Messi riot reut.rs/3MLrpqt
 
-[2025-12-14 22:35:13](https://bsky.app/profile/reuters.com/post/3m7xacbja362o)
-
----
-
-@washingtonpost.com
-
-At least 11 people were killed and 28 others injured after two men opened fire Sunday at Australia’s Bondi Beach, in what officials say was a terror incident that targeted a Hanukkah event.
-
-[2025-12-14 22:33:27](https://bsky.app/profile/washingtonpost.com/post/3m7xa742deo2e)
-
----
-
-@nhknewsunofficial.bsky.social
-
-静岡 伊東市長選挙 田久保真紀前市長の落選確実
-https://news.web.nhk/newsweb/na/na-k10015001551000
-
-[2025-12-14 22:33:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7xa6g7cfi2l)
-
----
-
-@cnbc.com
-
-Trump wants the U.S. shipbuilding industry to be great again. Here's what it will take, and what's at stake
-
-[2025-12-14 22:33:01](https://bsky.app/profile/cnbc.com/post/3m7xa6dbe2w2p)
+[2025-12-14 23:00:49](https://bsky.app/profile/reuters.com/post/3m7xbpzylp42y)
 
 ---
 
