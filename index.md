@@ -1,9 +1,9 @@
-# [2025-12-14 11:50 updated](2025_12_14.md)
+# [2025-12-14 12:10 updated](2025_12_14.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">欧州ファッション業界の物流を支配する中国人犯罪組織を巡るイタリアの裁判が、書類の紛失や通訳者の辞任など数々の不手際により難航している。検察は、業界支配を守るために妨害行為が行われている可能性を疑っている。 bit.ly/4q31ngF <a href="https://bsky.app/profile/japan.reuters.com/post/3m7w3xxrxud22" target="_blank">japan.reuters.com</a> (2025-12-14 11:45:13)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】「作業車から煙が」成田空港 航空機近くの作業車から煙出る 火が出たがすでに消えている けが人など確認されず (2025-12-14 11:40:33) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7w3rb2pnf2y" target="_blank">sokuho.news</a> (2025-12-14 11:41:28)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】成田空港で飛行機けん引車両から発煙 乗客は降機後でけが人なし (11:40) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7w3qyybn62x" target="_blank">sokuho.news</a> (2025-12-14 11:41:19)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】成田空港でトーイングカーから出火 (2025-12-14 11:39) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7w3o3iqch2e" target="_blank">sokuho.news</a> (2025-12-14 11:39:41)</span><span style="padding-right:50px;">Some Tesla models now feature Grok, an AI assistant with a controversial track record. Could putting AI in the driver’s seat be a dangerous move? <a href="https://bsky.app/profile/usatoday.com/post/3m7w35rl3pw2z" target="_blank">usatoday.com</a> (2025-12-14 11:30:34)</span>
+<span style="padding-right:50px;">ロマネ・コンティ65本をオークションに　ワイン収集家の「終活」 www.nikkei.com/article/DGXZQO...  都内で2025年9月に行われたワインオークション。京都市在住の実業家、一家明成さん（76）のコレクションの一部が出品されました。  計100本の内訳は、赤ワインの世界最高峰と称されるフランス・ブルゴーニュ産「ロマネ・コンティ」65本と、同じ生産者による、こちらも白ワイン世界最高峰とされる「モンラッシェ」35本。  せっせと集めたこだわりのワインを手放す「コレクションじまい」。人それぞれの「理想のしまい方」とは──。 <a href="https://bsky.app/profile/nikkei.com/post/3m7w4tv67jk2y" target="_blank">nikkei.com</a> (2025-12-14 12:00:50)</span><span style="padding-right:50px;">There’s a lot of advice out there about how to increase the amount of joy in your life.  But if you ask Sonja Lyubomirsky, she’ll tell you that the best way to be happier is to “feel more connected to other people.” <a href="https://bsky.app/profile/cnbc.com/post/3m7w4tcqdn62i" target="_blank">cnbc.com</a> (2025-12-14 12:00:30)</span><span style="padding-right:50px;">In a yearly update, police urged anyone with information to come forward but did not release information about what new evidence has been gathered. <a href="https://bsky.app/profile/usatoday.com/post/3m7w4tbqiwq2h" target="_blank">usatoday.com</a> (2025-12-14 12:00:29)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】全国中学校駅伝 女子の大沢野中は18位 (2025-12-14 12:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7w4ta6yg22s" target="_blank">sokuho.news</a> (2025-12-14 12:00:27)</span><span style="padding-right:50px;">After a bath or shower, you probably don’t think much about the shower curtain.  However, whether you leave it open or closed can affect how well your bathroom dries and how much mold grows in your bathroom. <a href="https://bsky.app/profile/washingtonpost.com/post/3m7w4sivgqi23" target="_blank">washingtonpost.com</a> (2025-12-14 12:00:03)</span>
   </div>
 </div>
 
@@ -32,42 +32,45 @@
 
 ## News Headlines
 
-1. イタリア裁判が物流を支配する中国人犯罪組織を捜査中
-2. 成田空港で飛行機けん引車両から発煙
-3. 米インディアナ大学QBフェルナンド・メンドーザがヘイズマン賞を受賞
-4. 米東部ブラウン大学で銃撃事件、2人死亡8人負傷
-5. ロシアウクライナ戦争が1,389日目を迎える
-6. ブラウン大学のDick Van Dyke氏が100歳の誕生日を迎える
+1. ロマネ・コンティ65本をオークションに
+2. 全国中学校駅伝大会 女子の部 盛岡市立黒石野中学校が準優勝
+3. 成田空港で飛行機けん引車両から発煙
+4. インドでLionel Messiのファンが暴れ
+5. 米大リーグのタイガースがケンリー・ジャンセンとの1年契約に合意
+6. ブラウン大学で銃撃 2人死亡 8人重体
 
 ----
 
-@japan.reuters.com
+@nikkei.com
 
-欧州ファッション業界の物流を支配する中国人犯罪組織を巡るイタリアの裁判が、書類の紛失や通訳者の辞任など数々の不手際により難航している。検察は、業界支配を守るために妨害行為が行われている可能性を疑っている。 bit.ly/4q31ngF
+ロマネ・コンティ65本をオークションに　ワイン収集家の「終活」
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-14 11:45:13](https://bsky.app/profile/japan.reuters.com/post/3m7w3xxrxud22)
+都内で2025年9月に行われたワインオークション。京都市在住の実業家、一家明成さん（76）のコレクションの一部が出品されました。
 
----
+計100本の内訳は、赤ワインの世界最高峰と称されるフランス・ブルゴーニュ産「ロマネ・コンティ」65本と、同じ生産者による、こちらも白ワイン世界最高峰とされる「モンラッシェ」35本。
 
-@sokuho.news
+せっせと集めたこだわりのワインを手放す「コレクションじまい」。人それぞれの「理想のしまい方」とは──。
 
-🛎️JNNより【速報】です。
-
-【速報】「作業車から煙が」成田空港 航空機近くの作業車から煙出る 火が出たがすでに消えている けが人など確認されず
-(2025-12-14 11:40:33) #ニュース
-
-[2025-12-14 11:41:28](https://bsky.app/profile/sokuho.news/post/3m7w3rb2pnf2y)
+[2025-12-14 12:00:50](https://bsky.app/profile/nikkei.com/post/3m7w4tv67jk2y)
 
 ---
 
-@sokuho.news
+@cnbc.com
 
-🔔ANNより【速報】です。
+There’s a lot of advice out there about how to increase the amount of joy in your life.
 
-【速報】成田空港で飛行機けん引車両から発煙 乗客は降機後でけが人なし
-(11:40) #ニュース
+But if you ask Sonja Lyubomirsky, she’ll tell you that the best way to be happier is to “feel more connected to other people.”
 
-[2025-12-14 11:41:19](https://bsky.app/profile/sokuho.news/post/3m7w3qyybn62x)
+[2025-12-14 12:00:30](https://bsky.app/profile/cnbc.com/post/3m7w4tcqdn62i)
+
+---
+
+@usatoday.com
+
+In a yearly update, police urged anyone with information to come forward but did not release information about what new evidence has been gathered.
+
+[2025-12-14 12:00:29](https://bsky.app/profile/usatoday.com/post/3m7w4tbqiwq2h)
 
 ---
 
@@ -75,60 +78,65 @@
 
 🛎️NNNより【速報】です。
 
-【速報】成田空港でトーイングカーから出火
-(2025-12-14 11:39) #ニュース
+【速報】全国中学校駅伝 女子の大沢野中は18位
+(2025-12-14 12:00) #ニュース
 
-[2025-12-14 11:39:41](https://bsky.app/profile/sokuho.news/post/3m7w3o3iqch2e)
-
----
-
-@usatoday.com
-
-Some Tesla models now feature Grok, an AI assistant with a controversial track record. Could putting AI in the driver’s seat be a dangerous move?
-
-[2025-12-14 11:30:34](https://bsky.app/profile/usatoday.com/post/3m7w35rl3pw2z)
+[2025-12-14 12:00:27](https://bsky.app/profile/sokuho.news/post/3m7w4ta6yg22s)
 
 ---
 
-@reuters.com
+@washingtonpost.com
 
-Indiana QB Fernando Mendoza wins program's first Heisman Trophy reut.rs/3MZh22j
+After a bath or shower, you probably don’t think much about the shower curtain.
 
-[2025-12-14 11:30:31](https://bsky.app/profile/reuters.com/post/3m7w35pdrnn2r)
+However, whether you leave it open or closed can affect how well your bathroom dries and how much mold grows in your bathroom.
 
----
-
-@apnews.com
-
-An arctic air blast swept south from Canada, spreading into the northern United States.
-
-[2025-12-14 11:30:12](https://bsky.app/profile/apnews.com/post/3m7w354iz6x2k)
+[2025-12-14 12:00:03](https://bsky.app/profile/washingtonpost.com/post/3m7w4sivgqi23)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-アメリカ ブラウン大学で銃撃2人死亡8人重体 容疑者の行方捜査
-https://news.web.nhk/newsweb/na/na-k10015003451000
+【大雪 交通影響】北海道 新千歳の発着便で欠航 JRで運休も
+https://news.web.nhk/newsweb/na/na-k10015003511000
 
-[2025-12-14 11:30:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7w353mz642b)
+[2025-12-14 12:00:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7w4skjrve26)
+
+---
+
+@cbsnews.com
+
+Peter Greene, a character actor best known for his role as the villain Zed in "Pulp Fiction," has died. He was 60.
+
+[2025-12-14 12:00:01](https://bsky.app/profile/cbsnews.com/post/3m7w4sh3azg2f)
+
+---
+
+@cnn.com
+
+Lionel Messi’s tour of India kicked off chaotically on Saturday as fans threw objects, ripped up seats and invaded the pitch at Kolkata’s Salt Lake stadium after the soccer great made only a brief appearance at a ticketed event: https://cnn.it/4oYivn5
+
+[2025-12-14 11:59:01](https://bsky.app/profile/cnn.com/post/3m7w4qnwtk32u)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】全国中学校駅伝大会・女子の部 盛岡市立黒石野中学校が準優勝
+(2025-12-14 11:57) #ニュース
+
+[2025-12-14 11:57:15](https://bsky.app/profile/sokuho.news/post/3m7w4niafbi25)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-後発地震注意情報 “引き続き日頃の備え 確認を” 気象庁
-https://news.web.nhk/newsweb/na/na-k10015003311000
+青森 八戸 経済影響広がる 後発地震注意情報【14日の動き】
+https://news.web.nhk/newsweb/na/na-k10015003471000
 
-[2025-12-14 11:30:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7w34vulrw2s)
-
----
-
-@japan.reuters.com
-
-米大リーグ（ＭＬＢ）のタイガースが、エンゼルスからフリーエージェントとなっていたケンリー・ジャンセン投手（３８）と１年契約に合意したと、複数メディアが報じた。 bit.ly/4s0L2Ly
-
-[2025-12-14 11:27:17](https://bsky.app/profile/japan.reuters.com/post/3m7w2xvwpds2c)
+[2025-12-14 11:57:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7w4n6rkye2u)
 
 ---
 
