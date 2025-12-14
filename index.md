@@ -1,9 +1,9 @@
-# [2025-12-15 07:50 updated](2025_12_15.md)
+# [2025-12-15 08:10 updated](2025_12_15.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">今週の外為市場でドル／円は、高値圏を推移する展開を想定する声が出ている。日銀金融政策決定会合は利上げが織り込み済みで、植田和男総裁が今後の追加利上げに前向きな姿勢を示さない限り、円を買い上がる手掛かりは乏しいとの見方が大勢だ。米国では政府閉鎖のため遅延していた雇用統計が発表されるが、集計の精度に疑問を呈する声もあり、仮に下振れても持続的なドル安／円高は進みづらいという。 bit.ly/3XUVWV9 <a href="https://bsky.app/profile/japan.reuters.com/post/3m7y774rzrz2v" target="_blank">japan.reuters.com</a> (2025-12-15 07:48:14)</span><span style="padding-right:50px;">In @nytopinion.nytimes.com   “It’s hard to overstate how much the new right idealizes America’s past,” our columnist David French writes. <a href="https://bsky.app/profile/nytimes.com/post/3m7y6zi6rfu2s" target="_blank">nytimes.com</a> (2025-12-15 07:45:04)</span><span style="padding-right:50px;">今週の東京株式市場は、前週末の米国市場でのハイテク株を中心とした株安を受けて売りが先行しそうだ。日銀の金融政策決定会合の結果発表と総裁会見を週後半に控え、手掛けにくさが意識される。米国では雇用統計（１６日）など重要指標の発表を控えており、米国株が不安定となる中、米利下げの正当性を確認することになる。クリスマスシーズンで商いが薄くなってくることから、材料次第ではボラティリティーが高まる可能性もある。 bit.ly/4rY4YOO <a href="https://bsky.app/profile/japan.reuters.com/post/3m7y6zcwosz2c" target="_blank">japan.reuters.com</a> (2025-12-15 07:44:59)</span><span style="padding-right:50px;">トランプ米大統領が署名した人工知能（ＡＩ）に関する各州の規制を訴訟や資金停止で阻止する大統領令は、独自規制の権利を守りたい各州から政治や法律の面で抵抗される可能性がある。 bit.ly/48DUH31 <a href="https://bsky.app/profile/japan.reuters.com/post/3m7y6vfjc4b2c" target="_blank">japan.reuters.com</a> (2025-12-15 07:42:47)</span><span style="padding-right:50px;">Following the Journal’s recent story about a widow’s struggle to untangle her finances after the death of her husband, readers share their strategies for avoiding such a scenario. <a href="https://bsky.app/profile/wsj.com/post/3m7y6uzfmkm2t" target="_blank">wsj.com</a> (2025-12-15 07:42:34)</span>
+<span style="padding-right:50px;">ステーブルコイン発行企業テザーが、サッカーのイタリア１部リーグ（セリエＡ）に属する名門ユベントスの買収を提案したことを巡り、ユベントスを所有するアニェッリ一族の持ち株会社エクソールのジョン・エルカン最高経営責任者（ＣＥＯ）が１３日、ユベントスを売却しないと明言した。 bit.ly/497sIZz <a href="https://bsky.app/profile/japan.reuters.com/post/3m7yacpmpjb2p" target="_blank">japan.reuters.com</a> (2025-12-15 08:08:08)</span><span style="padding-right:50px;">🛎️ANNより【速報】です。  【速報】「室外機が燃えている。爆発音2回」住宅ほぼ全焼 2人死亡 神奈川・厚木市 (2025-12-15 07:54:17) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7yabdaydc2b" target="_blank">sokuho.news</a> (2025-12-15 08:07:21)</span><span style="padding-right:50px;">Australia's Fortescue to buy remaining stake in Alta Copper, valuing it at $101 million reut.rs/4pOdIpe <a href="https://bsky.app/profile/reuters.com/post/3m7ya5hw7ch2c" target="_blank">reuters.com</a> (2025-12-15 08:05:12)</span><span style="padding-right:50px;">米ロードアイランド州プロビデンスのブラウン大学で１３日、銃撃があり学生２人が死亡、９人が負傷した事件で、当局は１４日、同州のホテルにいた２０代の「重要参考人」を拘束したと発表した。 bit.ly/48Op7OI <a href="https://bsky.app/profile/japan.reuters.com/post/3m7y7yp3b4h22" target="_blank">japan.reuters.com</a> (2025-12-15 08:02:32)</span><span style="padding-right:50px;">Philip Rivers came out of retirement at 44 years old and signed with the Colts. Here's what channel and time to watch his return to the NFL today. <a href="https://bsky.app/profile/usatoday.com/post/3m7y7wcdbnn2h" target="_blank">usatoday.com</a> (2025-12-15 08:01:11)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.74 (🔺0.06 : 2025-12-14)</span>
+<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.76 (🔺0.08 : 2025-12-14)</span>
   </div>
 </div>
 
@@ -32,101 +32,101 @@
 
 ## News Headlines
 
-1. ドル円は今週の高値圏を推移する展開を想定する声が出ている
-2. 東京株式市場は前週末の米国市場の影響を受けて売りが先行する可能性が高い
-3. トランプ米大統領が署名したAI規制を訴訟で阻止する大統領令に各州は抵抗する可能性がある
-4. 中国は2026年に輸出と輸入を拡大する計画を発表
-5. オーストラリアのボンダイビーチ銃撃事件、16人が死亡
-6. ウクライナのゼレンスキー大統領はNATO加盟を断念する用意がある
+1. エクソールのCEOがユベントス売却否定
+2. 神奈川県厚木市で住宅ほぼ全焼　2人死亡
+3. 米ロードアイランド州ブラウン大学銃撃事件で20代の男性逮捕
+4. フォートセスクーがアルタ銅を買収
+5. シドニーのボンダイビーチ銃撃事件で16人死亡
+6. 中央日産が米国に海外投資を増やす
 
 ----
 
 @japan.reuters.com
 
-今週の外為市場でドル／円は、高値圏を推移する展開を想定する声が出ている。日銀金融政策決定会合は利上げが織り込み済みで、植田和男総裁が今後の追加利上げに前向きな姿勢を示さない限り、円を買い上がる手掛かりは乏しいとの見方が大勢だ。米国では政府閉鎖のため遅延していた雇用統計が発表されるが、集計の精度に疑問を呈する声もあり、仮に下振れても持続的なドル安／円高は進みづらいという。 bit.ly/3XUVWV9
+ステーブルコイン発行企業テザーが、サッカーのイタリア１部リーグ（セリエＡ）に属する名門ユベントスの買収を提案したことを巡り、ユベントスを所有するアニェッリ一族の持ち株会社エクソールのジョン・エルカン最高経営責任者（ＣＥＯ）が１３日、ユベントスを売却しないと明言した。 bit.ly/497sIZz
 
-[2025-12-15 07:48:14](https://bsky.app/profile/japan.reuters.com/post/3m7y774rzrz2v)
-
----
-
-@nytimes.com
-
-In @nytopinion.nytimes.com 
-
-“It’s hard to overstate how much the new right idealizes America’s past,” our columnist David French writes.
-
-[2025-12-15 07:45:04](https://bsky.app/profile/nytimes.com/post/3m7y6zi6rfu2s)
+[2025-12-15 08:08:08](https://bsky.app/profile/japan.reuters.com/post/3m7yacpmpjb2p)
 
 ---
 
-@japan.reuters.com
+@sokuho.news
 
-今週の東京株式市場は、前週末の米国市場でのハイテク株を中心とした株安を受けて売りが先行しそうだ。日銀の金融政策決定会合の結果発表と総裁会見を週後半に控え、手掛けにくさが意識される。米国では雇用統計（１６日）など重要指標の発表を控えており、米国株が不安定となる中、米利下げの正当性を確認することになる。クリスマスシーズンで商いが薄くなってくることから、材料次第ではボラティリティーが高まる可能性もある。 bit.ly/4rY4YOO
+🛎️ANNより【速報】です。
 
-[2025-12-15 07:44:59](https://bsky.app/profile/japan.reuters.com/post/3m7y6zcwosz2c)
+【速報】「室外機が燃えている。爆発音2回」住宅ほぼ全焼 2人死亡 神奈川・厚木市
+(2025-12-15 07:54:17) #ニュース
 
----
-
-@japan.reuters.com
-
-トランプ米大統領が署名した人工知能（ＡＩ）に関する各州の規制を訴訟や資金停止で阻止する大統領令は、独自規制の権利を守りたい各州から政治や法律の面で抵抗される可能性がある。 bit.ly/48DUH31
-
-[2025-12-15 07:42:47](https://bsky.app/profile/japan.reuters.com/post/3m7y6vfjc4b2c)
-
----
-
-@wsj.com
-
-Following the Journal’s recent story about a widow’s struggle to untangle her finances after the death of her husband, readers share their strategies for avoiding such a scenario.
-
-[2025-12-15 07:42:34](https://bsky.app/profile/wsj.com/post/3m7y6uzfmkm2t)
+[2025-12-15 08:07:21](https://bsky.app/profile/sokuho.news/post/3m7yabdaydc2b)
 
 ---
 
 @reuters.com
 
-Women's Top 25 roundup: No. 2 Texas blasts No. 13 Baylor reut.rs/4aPw8kW
+Australia's Fortescue to buy remaining stake in Alta Copper, valuing it at $101 million reut.rs/4pOdIpe
 
-[2025-12-15 07:40:16](https://bsky.app/profile/reuters.com/post/3m7y6qvnyqe2p)
-
----
-
-@japan.reuters.com
-
-中国共産党の経済政策担当幹部は、「持続可能な」貿易を促進するための取り組みの一環として、２０２６年に輸出と輸入をともに拡大する計画を明らかにした。中国国営の中国中央テレビ（ＣＣＴＶ）が１３日、報じた。 bit.ly/4oTgHvk
-
-[2025-12-15 07:38:19](https://bsky.app/profile/japan.reuters.com/post/3m7y6nfgkbb25)
-
----
-
-@nikkei.com
-
-シドニーのボンダイビーチで銃撃テロ、16人死亡　50歳と24歳の親子が犯行と断定
-www.nikkei.com/article/DGXZQO...
-
-オーストラリアの警察当局はユダヤ系コミュニティーを狙ったテロと認定。
-
-ボンダイビーチではユダヤ教の祝祭「ハヌカ」関連の行事が開催され、多くのユダヤ系住民が集っていました。
-
-#ニュース
-
-[2025-12-15 07:37:38](https://bsky.app/profile/nikkei.com/post/3m7y6m6uhho24)
-
----
-
-@reuters.com
-
-Chiefs QB Patrick Mahomes needs MRI after knee injury vs. Chargers reut.rs/48RHMcl
-
-[2025-12-15 07:35:08](https://bsky.app/profile/reuters.com/post/3m7y6hptmwp2k)
+[2025-12-15 08:05:12](https://bsky.app/profile/reuters.com/post/3m7ya5hw7ch2c)
 
 ---
 
 @japan.reuters.com
 
-イスラエル軍が１３日、イスラム組織ハマスの幹部を殺害したことを受け、ハマスの主席交渉官は１４日、パレスチナ自治区ガザの停戦維持を脅かすものだと非難し、イスラエルによる停戦順守を要求するようトランプ米大統領に求めた。 bit.ly/4iU5XeS
+米ロードアイランド州プロビデンスのブラウン大学で１３日、銃撃があり学生２人が死亡、９人が負傷した事件で、当局は１４日、同州のホテルにいた２０代の「重要参考人」を拘束したと発表した。 bit.ly/48Op7OI
 
-[2025-12-15 07:32:49](https://bsky.app/profile/japan.reuters.com/post/3m7y6dkwjgg2u)
+[2025-12-15 08:02:32](https://bsky.app/profile/japan.reuters.com/post/3m7y7yp3b4h22)
+
+---
+
+@usatoday.com
+
+Philip Rivers came out of retirement at 44 years old and signed with the Colts. Here's what channel and time to watch his return to the NFL today.
+
+[2025-12-15 08:01:11](https://bsky.app/profile/usatoday.com/post/3m7y7wcdbnn2h)
+
+---
+
+@apnews.com
+
+A Syrian security guard who attacked and killed three U.S. citizens in Syria had joined the internal security forces two months earlier.
+
+[2025-12-15 08:01:06](https://bsky.app/profile/apnews.com/post/3m7y7w5atjc2n)
+
+---
+
+@cnbc.com
+
+Born and raised in New York, Chanel Rivers, now 35, says she was tired of the dating scene and worrying about her safety in the Big Apple.
+
+She booked a trip to London with a friend and realized how comfortable she felt walking around the city, something she no longer felt in New York.
+
+[2025-12-15 08:01:01](https://bsky.app/profile/cnbc.com/post/3m7y7vyeigg2y)
+
+---
+
+@apnews.com
+
+José Antonio Kast, del derechista Partido Republicano, es elegido presidente de Chile. Sucederá al izquierdista Gabriel Boric en el período 2026-2030.
+
+Sigue nuestra cobertura: apnews.com/live/chile-e...
+
+[2025-12-15 08:00:59](https://bsky.app/profile/apnews.com/post/3m7y7vwitfs2n)
+
+---
+
+@washingtonpost.com
+
+Mia Tretta was a freshman when a classmate opened fire at her California high school. Now the Brown University junior worries how she’ll recover a second time.
+
+“I found a place where I finally started to feel comfortable. And it’s been taken again.” 
+
+[2025-12-15 08:00:16](https://bsky.app/profile/washingtonpost.com/post/3m7y7unem3w24)
+
+---
+
+@aljazeera.com
+
+Far-right candidate Jose Antonio Kast wins Chile’s presidential election https://aje.io/y9own8
+
+[2025-12-15 08:00:07](https://bsky.app/profile/aljazeera.com/post/3m7y7ueve3y2p)
 
 ---
 
