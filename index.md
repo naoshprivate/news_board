@@ -1,9 +1,9 @@
-# [2025-12-14 09:10 updated](2025_12_14.md)
+# [2025-12-14 09:30 updated](2025_12_14.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Two people were killed and eight were injured in a shooting at Brown University on Saturday, officials said. No one was in custody, and a shelter-in-place order remained in effect for the campus. Follow live updates. www.nytimes.com/live/2025/12... <a href="https://bsky.app/profile/nytimes.com/post/3m7vt7htuk22e" target="_blank">nytimes.com</a> (2025-12-14 09:08:21)</span><span style="padding-right:50px;">UPDATE: Officials say at least 2 people were killed and 8 were injured in the shooting. The suspect is still at large. <a href="https://bsky.app/profile/cbsnews.com/post/3m7vt5iwnwb2g" target="_blank">cbsnews.com</a> (2025-12-14 09:07:15)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】国道180号 バイクが転倒し乗っていた男性が死亡【岡山・北区】 (2025-12-14 08:54:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7vsxoqnr62a" target="_blank">sokuho.news</a> (2025-12-14 09:04:00)</span><span style="padding-right:50px;">A French supermarket's Christmas advert has captured hearts worldwide without using generative AI. <a href="https://bsky.app/profile/apnews.com/post/3m7vsrzl2n32k" target="_blank">apnews.com</a> (2025-12-14 09:00:50)</span><span style="padding-right:50px;">EV走行1500km、充電網を検証　口コミ頼りにもろさ www.nikkei.com/article/DGXZQO...  記者が現代自動車「インスター」で走行。充電ポイントを組み込んだ旅程を計画しましたが――。  大阪では充電残量0%、航続可能距離0kmで数km走ることに。  なぜそれほど追い込まれたのでしょうか。 <a href="https://bsky.app/profile/nikkei.com/post/3m7vsrwttgh2y" target="_blank">nikkei.com</a> (2025-12-14 09:00:47)</span>
+<span style="padding-right:50px;">スノーボードのワールドカップ（Ｗ杯）は１３日、米コロラド州のスティームボートスプリングズでビッグエア最終第３戦の決勝を行い、男子では２０歳の荻原大翔が優勝した。 bit.ly/4oMthfT <a href="https://bsky.app/profile/japan.reuters.com/post/3m7vucofldi2f" target="_blank">japan.reuters.com</a> (2025-12-14 09:28:02)</span><span style="padding-right:50px;">What began in the fall as a trickle of measles infections in Spartanburg County, South Carolina, has since grown into an outbreak that has sickened more than 110 people, prompted more than 250 residents to quarantine and unsettled many more. <a href="https://bsky.app/profile/nytimes.com/post/3m7vu3xnl7y2x" target="_blank">nytimes.com</a> (2025-12-14 09:24:17)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】長崎バイパスで軽乗用車がガードレールに衝突 30代女性が軽傷 (2025-12-14 09:17:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7vu3jsefs2r" target="_blank">sokuho.news</a> (2025-12-14 09:24:02)</span><span style="padding-right:50px;">Two people were killed and eight were injured in a shooting at Brown University on Saturday, officials said. No one was in custody, and a shelter-in-place order remained in effect for the campus. Follow live updates. www.nytimes.com/live/2025/12... <a href="https://bsky.app/profile/nytimes.com/post/3m7vt7htuk22e" target="_blank">nytimes.com</a> (2025-12-14 09:08:21)</span><span style="padding-right:50px;">UPDATE: Officials say at least 2 people were killed and 8 were injured in the shooting. The suspect is still at large. <a href="https://bsky.app/profile/cbsnews.com/post/3m7vt5iwnwb2g" target="_blank">cbsnews.com</a> (2025-12-14 09:07:15)</span>
   </div>
 </div>
 
@@ -32,14 +32,41 @@
 
 ## News Headlines
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6.
+1. 荻原大翔がスノーボードW杯で優勝
+2. 長崎バイパスで軽乗用車と衝突　30代女性が軽傷
+3. 米大学近くで銃撃　複数人がけがで搬送
+4. トノサマガエル　スズメバチに刺されても捕食
+5. アメリカの大学近くで銃撃　複数人がけが
+6. ブラウン大学での銃撃事件　2人死亡　けが人も
 
 ----
+
+@japan.reuters.com
+
+スノーボードのワールドカップ（Ｗ杯）は１３日、米コロラド州のスティームボートスプリングズでビッグエア最終第３戦の決勝を行い、男子では２０歳の荻原大翔が優勝した。 bit.ly/4oMthfT
+
+[2025-12-14 09:28:02](https://bsky.app/profile/japan.reuters.com/post/3m7vucofldi2f)
+
+---
+
+@nytimes.com
+
+What began in the fall as a trickle of measles infections in Spartanburg County, South Carolina, has since grown into an outbreak that has sickened more than 110 people, prompted more than 250 residents to quarantine and unsettled many more.
+
+[2025-12-14 09:24:17](https://bsky.app/profile/nytimes.com/post/3m7vu3xnl7y2x)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】長崎バイパスで軽乗用車がガードレールに衝突 30代女性が軽傷
+(2025-12-14 09:17:00) #ニュース
+
+[2025-12-14 09:24:02](https://bsky.app/profile/sokuho.news/post/3m7vu3jsefs2r)
+
+---
 
 @nytimes.com
 
@@ -104,31 +131,6 @@ A DoorDash driver has been arrested after an Indiana couple's doorbell video cap
 Russian President Vladimir Putin has long been surrounded by a chorus of supportive voices, but over the past 25 years of his rule, the range of views reaching him has narrowed dramatically.
 
 [2025-12-14 09:00:10](https://bsky.app/profile/washingtonpost.com/post/3m7vsqtnug72e)
-
----
-
-@nhknewsunofficial.bsky.social
-
-米 ダレス国際空港発 羽田行き旅客機 エンジン異常で引き返す
-https://news.web.nhk/newsweb/na/na-k10015003441000
-
-[2025-12-14 09:00:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7vsqoi3bu2k)
-
----
-
-@japan.reuters.com
-
-スピードスケートのワールドカップ（Ｗ杯）第４戦は１３日、ノルウェーのハーマルで各競技を行い、女子１０００メートルでは高木美帆が１分１４秒３９で優勝した。 bit.ly/3XW8ICT
-
-[2025-12-14 08:57:29](https://bsky.app/profile/japan.reuters.com/post/3m7vsm2gdjt2q)
-
----
-
-@wsj.com
-
-A shooter at Brown University left two people dead. The gunman remained at large.
-
-[2025-12-14 08:54:33](https://bsky.app/profile/wsj.com/post/3m7vsgsylkg2u)
 
 ---
 
