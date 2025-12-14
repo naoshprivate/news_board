@@ -1,9 +1,9 @@
-# [2025-12-15 00:50 updated](2025_12_15.md)
+# [2025-12-15 01:10 updated](2025_12_15.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Villarreal LaLiga clash at Levante postponed after torrential rain warning reut.rs/4ag0Bs9 <a href="https://bsky.app/profile/reuters.com/post/3m7xhc4yrtq2x" target="_blank">reuters.com</a> (2025-12-15 00:40:24)</span><span style="padding-right:50px;">“It was just carnage.” Australian Jews had been gathering on Sunday on Bondi Beach in Sydney for an event to mark the first night of Hanukkah, when gunmen started firing directly into the crowd. <a href="https://bsky.app/profile/nytimes.com/post/3m7xgyjl4ua2e" target="_blank">nytimes.com</a> (2025-12-15 00:35:02)</span><span style="padding-right:50px;">The WWE career of John Cena is over as he falls to Gunther in his last match. Catch the recap of all the action from Saturday Night's Main Event. <a href="https://bsky.app/profile/usatoday.com/post/3m7xgq5l5w72f" target="_blank">usatoday.com</a> (2025-12-15 00:30:21)</span><span style="padding-right:50px;">Trump is in a slump, writes @niamalikah, and his party seems increasingly adrift (via Bloomberg Opinion)  <a href="https://bsky.app/profile/bloomberg.com/post/3m7xgptvynb2e" target="_blank">bloomberg.com</a> (2025-12-15 00:30:11)</span><span style="padding-right:50px;">Exclusive: A months-long congressional investigation accuses D.C. Police Chief Pamela A. Smith of incentivizing her subordinates to downplay crimes to maintain an illusion of a safer city, according to a report obtained by The Post. <a href="https://bsky.app/profile/washingtonpost.com/post/3m7xgpotd6z2d" target="_blank">washingtonpost.com</a> (2025-12-15 00:30:06)</span>
+<span style="padding-right:50px;">Sen. Rand Paul on NBC News' "Meet the Press" calls redistricting efforts by both parties a "mistake" that could lead to political violence and voters feeling disenfranchised. <a href="https://bsky.app/profile/nbcnews.com/post/3m7xiueplqq2r" target="_blank">nbcnews.com</a> (2025-12-15 01:08:30)</span><span style="padding-right:50px;">Not 'very hawkish at all': Wall Street optimistic on stock market rally in 2026 after Fed rate cut <a href="https://bsky.app/profile/yahoofinance.com/post/3m7xiq2xkst2x" target="_blank">yahoofinance.com</a> (2025-12-15 01:06:06)</span><span style="padding-right:50px;">A law firm is looking into the Michigan athletic department — including AD Warde Manuel — to find out if there was a coverup in Sherrone Moore scandal <a href="https://bsky.app/profile/usatoday.com/post/3m7xihyxrh525" target="_blank">usatoday.com</a> (2025-12-15 01:01:35)</span><span style="padding-right:50px;">Britain's King Charles 'appalled and saddened' by shooting in Sydney reut.rs/3YswKFK <a href="https://bsky.app/profile/reuters.com/post/3m7xih3wn3t2s" target="_blank">reuters.com</a> (2025-12-15 01:01:05)</span><span style="padding-right:50px;">In California’s fire country, even the most hardened home can go up in flames if the house next door isn’t prepared. <a href="https://bsky.app/profile/bloomberg.com/post/3m7xigoody52u" target="_blank">bloomberg.com</a> (2025-12-15 01:00:51)</span>
   </div>
 </div>
 
@@ -32,103 +32,96 @@
 
 ## News Headlines
 
-以下の6つのニュースのタイトルです。
+Here are the six selected headlines in Japanese:
 
-1. ラリーガのビジャレアル戦は台風警戒のため延期
-2. オーストラリアでユダヤ人を狙った銃撃事件　死者11人
-3. WWEのジョン・シナが引退
-4. ドナルド・トランプの党が大混乱　「衰退の兆候」
-5. FBIがブラウン大学銃撃事件の容疑者を逮捕
-6. 2025年のヘイズマン賞受賞者を発表
+1. 連邦議会調査がDC警察長官を批判　犯罪を軽視するよう部下に指示
+2. 連邦議会は、米国労働市場が2025年に停止したことを報告
+3. 英国の王室、シドニー銃撃事件を「心残り」表明
+4. ポーランドのウクライナ大統領、ドイツで和平交渉
+5. シドニー銃撃事件、11人死亡　ユダヤ人コミュニティの集会の標的
+6. ジェームズ・キャメロン、億万長者になる
 
 ----
 
-@reuters.com
+@nbcnews.com
 
-Villarreal LaLiga clash at Levante postponed after torrential rain warning reut.rs/4ag0Bs9
+Sen. Rand Paul on NBC News' "Meet the Press" calls redistricting efforts by both parties a "mistake" that could lead to political violence and voters feeling disenfranchised.
 
-[2025-12-15 00:40:24](https://bsky.app/profile/reuters.com/post/3m7xhc4yrtq2x)
+[2025-12-15 01:08:30](https://bsky.app/profile/nbcnews.com/post/3m7xiueplqq2r)
 
 ---
 
-@nytimes.com
+@yahoofinance.com
 
-“It was just carnage.” Australian Jews had been gathering on Sunday on Bondi Beach in Sydney for an event to mark the first night of Hanukkah, when gunmen started firing directly into the crowd.
+Not 'very hawkish at all': Wall Street optimistic on stock market rally in 2026 after Fed rate cut
 
-[2025-12-15 00:35:02](https://bsky.app/profile/nytimes.com/post/3m7xgyjl4ua2e)
+[2025-12-15 01:06:06](https://bsky.app/profile/yahoofinance.com/post/3m7xiq2xkst2x)
 
 ---
 
 @usatoday.com
 
-The WWE career of John Cena is over as he falls to Gunther in his last match. Catch the recap of all the action from Saturday Night's Main Event.
+A law firm is looking into the Michigan athletic department — including AD Warde Manuel — to find out if there was a coverup in Sherrone Moore scandal
 
-[2025-12-15 00:30:21](https://bsky.app/profile/usatoday.com/post/3m7xgq5l5w72f)
+[2025-12-15 01:01:35](https://bsky.app/profile/usatoday.com/post/3m7xihyxrh525)
+
+---
+
+@reuters.com
+
+Britain's King Charles 'appalled and saddened' by shooting in Sydney reut.rs/3YswKFK
+
+[2025-12-15 01:01:05](https://bsky.app/profile/reuters.com/post/3m7xih3wn3t2s)
 
 ---
 
 @bloomberg.com
 
-Trump is in a slump, writes @niamalikah, and his party seems increasingly adrift (via Bloomberg Opinion) 
+In California’s fire country, even the most hardened home can go up in flames if the house next door isn’t prepared.
 
-[2025-12-15 00:30:11](https://bsky.app/profile/bloomberg.com/post/3m7xgptvynb2e)
+[2025-12-15 01:00:51](https://bsky.app/profile/bloomberg.com/post/3m7xigoody52u)
+
+---
+
+@apnews.com
+
+Egypt revealed the revamp of two colossal statues of a prominent pharaoh in the southern city of Luxor, the latest in the government’s archaeological events that aim at drawing more tourists to the country.
+
+[2025-12-15 01:00:34](https://bsky.app/profile/apnews.com/post/3m7xig6jswm2p)
 
 ---
 
 @washingtonpost.com
 
-Exclusive: A months-long congressional investigation accuses D.C. Police Chief Pamela A. Smith of incentivizing her subordinates to downplay crimes to maintain an illusion of a safer city, according to a report obtained by The Post.
+President Trump and his family are eager to build a museum that they say will be unlike any other presidential library — and which could tell the story of his presidency only as he wants it to be told.
 
-[2025-12-15 00:30:06](https://bsky.app/profile/washingtonpost.com/post/3m7xgpotd6z2d)
+Here’s an inside look at their plan:
 
----
-
-@aljazeera.com
-
-Person of interest held in hunt for gunman who killed 2 at Brown University https://aje.io/bj42vq
-
-[2025-12-15 00:30:03](https://bsky.app/profile/aljazeera.com/post/3m7xgpm7b6h2p)
+[2025-12-15 01:00:21](https://bsky.app/profile/washingtonpost.com/post/3m7xifrigiq24)
 
 ---
 
-@cbsnews.com
+@nbcnews.com
 
-Musicologist Joe Bennett explains the common components of the most enduring Christmas songs, from "Jingle Bells" to "All I Want for Christmas Is You" – which inspires David Pogue to compose his own new holiday song.
+With climate change steadily dismantling the icy habitat essential to their existence, new research suggests polar bears are rapidly rewiring their own genetics in a bid to survive.
 
-
-[2025-12-15 00:30:01](https://bsky.app/profile/cbsnews.com/post/3m7xgpkdxdq2b)
-
----
-
-@forbes.com
-
-Cameron’s movies have collectively earned nearly $9 billion at the global box office.
-
-Read more: www.forbes.com/sites/mattcr... (Photos: The Chosunilbo JNS/Imazins/Getty Images, Paramount/20th Century Fox/Orion Pictures/Newscom)
-
-[2025-12-15 00:27:43](https://bsky.app/profile/forbes.com/post/3m7xglg5zok2n)
+[2025-12-15 01:00:15](https://bsky.app/profile/nbcnews.com/post/3m7xiflwzkr2k)
 
 ---
 
-@forbes.com
+@financialtimes.com
 
-James Cameron Is Now A Billionaire
+From US President Donald Trump’s sweeping protectionist agenda to persistent fears of a market bubble, the newsflow has been relentlessly downbeat. on.ft.com/4pACt8i
 
-With several titanic box office successes—and a third Avatar film expected to gross more than $2 billion—the Oscar-winning director is now in elite company in Hollywood.
-
-Read more: www.forbes.com/sites/mattcr... (Photo: Joel Saget/AFP/Getty Images)
-
-[2025-12-15 00:25:53](https://bsky.app/profile/forbes.com/post/3m7xgi66hb22n)
+[2025-12-15 01:00:11](https://bsky.app/profile/financialtimes.com/post/3m7xifi56x52v)
 
 ---
 
-@forbes.com
+@financialtimes.com
 
-James Cameron Is Now A Billionaire
+High in Romania’s Făgăraș Mountains, wolves, bears and even bison once again roam free on.ft.com/4rSIWgB
 
-Full story: www.forbes.com/sites/mattcr...
-
-[2025-12-15 00:25:04](https://bsky.app/profile/forbes.com/post/3m7xggokkmc2n)
+[2025-12-15 01:00:07](https://bsky.app/profile/financialtimes.com/post/3m7xife5n4e2b)
 
 ---
 
