@@ -1,9 +1,9 @@
-# [2025-12-14 09:30 updated](2025_12_14.md)
+# [2025-12-14 09:50 updated](2025_12_14.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">スノーボードのワールドカップ（Ｗ杯）は１３日、米コロラド州のスティームボートスプリングズでビッグエア最終第３戦の決勝を行い、男子では２０歳の荻原大翔が優勝した。 bit.ly/4oMthfT <a href="https://bsky.app/profile/japan.reuters.com/post/3m7vucofldi2f" target="_blank">japan.reuters.com</a> (2025-12-14 09:28:02)</span><span style="padding-right:50px;">What began in the fall as a trickle of measles infections in Spartanburg County, South Carolina, has since grown into an outbreak that has sickened more than 110 people, prompted more than 250 residents to quarantine and unsettled many more. <a href="https://bsky.app/profile/nytimes.com/post/3m7vu3xnl7y2x" target="_blank">nytimes.com</a> (2025-12-14 09:24:17)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】長崎バイパスで軽乗用車がガードレールに衝突 30代女性が軽傷 (2025-12-14 09:17:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7vu3jsefs2r" target="_blank">sokuho.news</a> (2025-12-14 09:24:02)</span><span style="padding-right:50px;">Two people were killed and eight were injured in a shooting at Brown University on Saturday, officials said. No one was in custody, and a shelter-in-place order remained in effect for the campus. Follow live updates. www.nytimes.com/live/2025/12... <a href="https://bsky.app/profile/nytimes.com/post/3m7vt7htuk22e" target="_blank">nytimes.com</a> (2025-12-14 09:08:21)</span><span style="padding-right:50px;">UPDATE: Officials say at least 2 people were killed and 8 were injured in the shooting. The suspect is still at large. <a href="https://bsky.app/profile/cbsnews.com/post/3m7vt5iwnwb2g" target="_blank">cbsnews.com</a> (2025-12-14 09:07:15)</span>
+<span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】米ブラウン大学で銃乱射事件 2人が死亡 8人重体 容疑者逃走中 (09:48) #ニュース https://news.tv-asahi.co.jp/news_international/articles/000472877.html?display=full <a href="https://bsky.app/profile/sokuho.news/post/3m7vvipajg42y" target="_blank">sokuho.news</a> (2025-12-14 09:49:17)</span><span style="padding-right:50px;">米東部ブラウン大学周辺で銃撃　容疑者は逃走、複数負傷か（無料記事） www.nikkei.com/article/DGXZQO...  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m7vvilkvze2m" target="_blank">nikkei.com</a> (2025-12-14 09:49:14)</span><span style="padding-right:50px;">Lindsey Vonn narrowly missed out on a second straight World Cup downhill win at St Moritz on Saturday as the American was pipped to victory by Germany's Emma Aicher.  u.afp.com/S7LR <a href="https://bsky.app/profile/en.afp.com/post/3m7vvb2hjzq2f" target="_blank">en.afp.com</a> (2025-12-14 09:45:01)</span><span style="padding-right:50px;">49ers standout RB Christian McCaffrey (back) added to injury report reut.rs/4ab9h35 <a href="https://bsky.app/profile/reuters.com/post/3m7vuyhjxob2o" target="_blank">reuters.com</a> (2025-12-14 09:40:13)</span><span style="padding-right:50px;">President Trump’s pledge to pardon Tina Peters, a former Colorado county clerk convicted of tampering with voting machines, touched off a new battle on Friday over the fate of perhaps the last high-profile 2020 election denier still behind bars. <a href="https://bsky.app/profile/nytimes.com/post/3m7vuy6xi5t2s" target="_blank">nytimes.com</a> (2025-12-14 09:40:04)</span>
   </div>
 </div>
 
@@ -32,105 +32,110 @@
 
 ## News Headlines
 
-1. 荻原大翔がスノーボードW杯で優勝
-2. 長崎バイパスで軽乗用車と衝突　30代女性が軽傷
-3. 米大学近くで銃撃　複数人がけがで搬送
-4. トノサマガエル　スズメバチに刺されても捕食
-5. アメリカの大学近くで銃撃　複数人がけが
-6. ブラウン大学での銃撃事件　2人死亡　けが人も
+1. 米ブラウン大学で銃乱射事件　2人が死亡　8人重体
+2. 岡山市の市道でバイクが転倒　男性が死亡
+3. 岡山・北区で国道180号バイクが転倒　男性が死亡
+4. 長崎バイパスで軽乗用車がガードレールに衝突　女性が軽傷
+5. 車と衝突しバイクが炎上　けが人の情報なし
+6. トランプ大統領　ISによる攻撃で米軍兵士など3人死亡
 
 ----
 
-@japan.reuters.com
-
-スノーボードのワールドカップ（Ｗ杯）は１３日、米コロラド州のスティームボートスプリングズでビッグエア最終第３戦の決勝を行い、男子では２０歳の荻原大翔が優勝した。 bit.ly/4oMthfT
-
-[2025-12-14 09:28:02](https://bsky.app/profile/japan.reuters.com/post/3m7vucofldi2f)
-
----
-
-@nytimes.com
-
-What began in the fall as a trickle of measles infections in Spartanburg County, South Carolina, has since grown into an outbreak that has sickened more than 110 people, prompted more than 250 residents to quarantine and unsettled many more.
-
-[2025-12-14 09:24:17](https://bsky.app/profile/nytimes.com/post/3m7vu3xnl7y2x)
-
----
-
 @sokuho.news
 
-🛎️JNNより【速報】です。
+🔔ANNより【速報】です。
 
-【速報】長崎バイパスで軽乗用車がガードレールに衝突 30代女性が軽傷
-(2025-12-14 09:17:00) #ニュース
+【速報】米ブラウン大学で銃乱射事件 2人が死亡 8人重体 容疑者逃走中
+(09:48) #ニュース
+https://news.tv-asahi.co.jp/news_international/articles/000472877.html?display=full
 
-[2025-12-14 09:24:02](https://bsky.app/profile/sokuho.news/post/3m7vu3jsefs2r)
-
----
-
-@nytimes.com
-
-Two people were killed and eight were injured in a shooting at Brown University on Saturday, officials said. No one was in custody, and a shelter-in-place order remained in effect for the campus. Follow live updates. www.nytimes.com/live/2025/12...
-
-[2025-12-14 09:08:21](https://bsky.app/profile/nytimes.com/post/3m7vt7htuk22e)
-
----
-
-@cbsnews.com
-
-UPDATE: Officials say at least 2 people were killed and 8 were injured in the shooting. The suspect is still at large.
-
-[2025-12-14 09:07:15](https://bsky.app/profile/cbsnews.com/post/3m7vt5iwnwb2g)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】国道180号 バイクが転倒し乗っていた男性が死亡【岡山・北区】
-(2025-12-14 08:54:00) #ニュース
-
-[2025-12-14 09:04:00](https://bsky.app/profile/sokuho.news/post/3m7vsxoqnr62a)
-
----
-
-@apnews.com
-
-A French supermarket's Christmas advert has captured hearts worldwide without using generative AI.
-
-[2025-12-14 09:00:50](https://bsky.app/profile/apnews.com/post/3m7vsrzl2n32k)
+[2025-12-14 09:49:17](https://bsky.app/profile/sokuho.news/post/3m7vvipajg42y)
 
 ---
 
 @nikkei.com
 
-EV走行1500km、充電網を検証　口コミ頼りにもろさ
+米東部ブラウン大学周辺で銃撃　容疑者は逃走、複数負傷か（無料記事）
 www.nikkei.com/article/DGXZQO...
 
-記者が現代自動車「インスター」で走行。充電ポイントを組み込んだ旅程を計画しましたが――。
+#ニュース
 
-大阪では充電残量0%、航続可能距離0kmで数km走ることに。
-
-なぜそれほど追い込まれたのでしょうか。
-
-[2025-12-14 09:00:47](https://bsky.app/profile/nikkei.com/post/3m7vsrwttgh2y)
+[2025-12-14 09:49:14](https://bsky.app/profile/nikkei.com/post/3m7vvilkvze2m)
 
 ---
 
-@usatoday.com
+@en.afp.com
 
-A DoorDash driver has been arrested after an Indiana couple's doorbell video captured the delivery person using an aerosol spray.
+Lindsey Vonn narrowly missed out on a second straight World Cup downhill win at St Moritz on Saturday as the American was pipped to victory by Germany's Emma Aicher.
 
-[2025-12-14 09:00:47](https://bsky.app/profile/usatoday.com/post/3m7vsrxgkjz2c)
+u.afp.com/S7LR
+
+[2025-12-14 09:45:01](https://bsky.app/profile/en.afp.com/post/3m7vvb2hjzq2f)
+
+---
+
+@reuters.com
+
+49ers standout RB Christian McCaffrey (back) added to injury report reut.rs/4ab9h35
+
+[2025-12-14 09:40:13](https://bsky.app/profile/reuters.com/post/3m7vuyhjxob2o)
+
+---
+
+@nytimes.com
+
+President Trump’s pledge to pardon Tina Peters, a former Colorado county clerk convicted of tampering with voting machines, touched off a new battle on Friday over the fate of perhaps the last high-profile 2020 election denier still behind bars.
+
+[2025-12-14 09:40:04](https://bsky.app/profile/nytimes.com/post/3m7vuy6xi5t2s)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】岡山市の市道でバイクが転倒し乗っていた男性が死亡【岡山・北区】
+(2025-12-14 08:54:00) #ニュース
+
+[2025-12-14 09:39:37](https://bsky.app/profile/sokuho.news/post/3m7vuxeuwlz2a)
+
+---
+
+@reuters.com
+
+🔊 As Hamas and the Red Cross search for Israel's last hostage, Prime Minister Benjamin Netanyahu prepares for the next phase of a US-backed ceasefire plan. For the family of Ran Gvili, it's a moment filled with fear and anticipation. Listen now reut.rs/44TIgxy
+
+[2025-12-14 09:34:32](https://bsky.app/profile/reuters.com/post/3m7vuocensc2q)
+
+---
+
+@nytimes.com
+
+In @nytopinion.nytimes.com
+
+“To really understand what is happening in the United States today, we must understand the ideology and thinkers behind the MAGA New Right,” Laura Field writes in a guest essay.
+
+[2025-12-14 09:31:05](https://bsky.app/profile/nytimes.com/post/3m7vui545vr2y)
 
 ---
 
 @washingtonpost.com
 
-Russian President Vladimir Putin has long been surrounded by a chorus of supportive voices, but over the past 25 years of his rule, the range of views reaching him has narrowed dramatically.
+Two people were killed and eight others were injured in a shooting at Brown University Saturday and the suspect remains at large, Providence Mayor Brett Smiley said.
 
-[2025-12-14 09:00:10](https://bsky.app/profile/washingtonpost.com/post/3m7vsqtnug72e)
+The injured victims are in critical condition, but stable, and students remain under lockdown.
+
+Read more: https://wapo.st/44m4iJe
+
+[2025-12-14 09:30:30](https://bsky.app/profile/washingtonpost.com/post/3m7vuh3daqi2b)
+
+---
+
+@usatoday.com
+
+The Wisconsin lawmaker has been a supporter of Pierre Kory, a controversial physician who advocated for a "wonder drug" during the COVID-19 pandemic.
+
+[2025-12-14 09:30:19](https://bsky.app/profile/usatoday.com/post/3m7vugqn62t2h)
 
 ---
 
