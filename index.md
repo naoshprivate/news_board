@@ -1,9 +1,9 @@
-# [2025-12-15 08:30 updated](2025_12_15.md)
+# [2025-12-15 08:50 updated](2025_12_15.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NEW: The person of interest in the deadly Brown University shooting has been identified as a 24-year-old Army veteran. <a href="https://bsky.app/profile/cbsnews.com/post/3m7ybf7uf7q2p" target="_blank">cbsnews.com</a> (2025-12-15 08:27:25)</span><span style="padding-right:50px;">Jimmy Lai verdict updates: Hong Kong court to rule after democracy activist's landmark trial reut.rs/4rXFmSg <a href="https://bsky.app/profile/reuters.com/post/3m7ybb55jij2r" target="_blank">reuters.com</a> (2025-12-15 08:25:08)</span><span style="padding-right:50px;">The Republican chairman of the Oversight Committee has refused to excuse Bill and Hillary Clinton from appearing in person for depositions in the Epstein investigation. It is the starkest example yet of House Republicans’ attempt to shift focus away from President Trump and onto prominent Democrats. <a href="https://bsky.app/profile/nytimes.com/post/3m7yb7j3gus2t" target="_blank">nytimes.com</a> (2025-12-15 08:24:14)</span><span style="padding-right:50px;">VIDEO Krampus figures, demonic characters from Central Alpine folklore that punished misbehaving children with birch rods, march through the streets of Munich during an annual Christmas parade. The costumed procession forms part of pre-Christmas traditions in southern Germany 🇩🇪 <a href="https://bsky.app/profile/en.afp.com/post/3m7yb56fywu2f" target="_blank">en.afp.com</a> (2025-12-15 08:22:56)</span><span style="padding-right:50px;">Dan Ives loves these 4 European tech companies. Analysts expect those stocks to rise <a href="https://bsky.app/profile/cnbc.com/post/3m7yb3vnr2a2d" target="_blank">cnbc.com</a> (2025-12-15 08:22:13)</span>
+<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】「ダンプが鉄柱にあたった」ダンプカーの荷台が道路標識に衝突 荷台を上げたまま走行したか【15日午前8時40分現在】 (2025-12-15 08:42:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7yclmsaw72s" target="_blank">sokuho.news</a> (2025-12-15 08:48:54)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:釧路沖, 深さ:40km マグニチュード:4.0, 最大震度:2 📍https://www.google.com/maps?q=42.9,145.5&ll=42.9,145.5&z=7&t=h 地震発生日時:2025-12-15 08:44頃 (10倍速▶180s→18s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m7ycjhmmy72s" target="_blank">sokuho.news</a> (2025-12-15 08:47:41)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  8時44分頃、北海道で最大震度2の地震を観測しました。 震源:釧路沖, 深さ:40km, 規模:M4.0 この地震による津波の心配はありません。 (2025-12-15 08:47:01) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/15/2025-12-15-08-44-14.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3m7ycibyvqd2z" target="_blank">sokuho.news</a> (2025-12-15 08:47:02)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】上野動物園の双子パンダ 来年1月下旬に中国返還へ 国内飼育のパンダはゼロに (2025年12月15日 08:46) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7ychpqhsy2r" target="_blank">sokuho.news</a> (2025-12-15 08:46:43)</span><span style="padding-right:50px;">ベトナムの電動スクーター、学生に人気　合格祝いにも www.nikkei.com/article/DGXZQO...  国産メーカーのビンファストの最安モデルはバッテリー付きで1200万ドン（約7万円）。約2500万ドンの「iPhone17」より手ごろです。  最も人気の二輪ブランドはホンダですが、ガソリンが動力のスクーターは安価モデルでも3000万ドン以上。  電動スクーターに流れる消費者は増えています。 <a href="https://bsky.app/profile/nikkei.com/post/3m7ychj6ve52g" target="_blank">nikkei.com</a> (2025-12-15 08:46:36)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.80 (🔺0.13 : 2025-12-14)</span>
+<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.76 (🔺0.09 : 2025-12-14)</span>
   </div>
 </div>
 
@@ -32,93 +32,138 @@
 
 ## News Headlines
 
-1. 米国軍人がブラウン大学銃撃事件の容疑者とされた
-2. ホンコンの民主主義活動家の裁判で判決が下る
-3. ドル155.30円～156.30円の値動きを予想
-4. チリ大統領選で保守派候補が大勝
-5. 野村ホールディングスがプライベートデットの買収を検討
-6. オーストラリアのボンダイビーチで銃撃テロ、16人死亡
+1. ダンプカーが鉄柱に衝突
+2. 震度4.0の地震が北海道で発生
+3. 上野動物園の双子パンダが来年中国に返還される
+4. ベトナムの電動スクーターが学生に人気
+5. チリ大統領選の決選投票で右派候補が勝利
+6. 上野線で運転見合わせ
 
 ----
 
-@cbsnews.com
+@sokuho.news
 
-NEW: The person of interest in the deadly Brown University shooting has been identified as a 24-year-old Army veteran.
+🛎️JNNより【速報】です。
 
-[2025-12-15 08:27:25](https://bsky.app/profile/cbsnews.com/post/3m7ybf7uf7q2p)
+【速報】「ダンプが鉄柱にあたった」ダンプカーの荷台が道路標識に衝突 荷台を上げたまま走行したか【15日午前8時40分現在】
+(2025-12-15 08:42:00) #ニュース
 
----
-
-@reuters.com
-
-Jimmy Lai verdict updates: Hong Kong court to rule after democracy activist's landmark trial reut.rs/4rXFmSg
-
-[2025-12-15 08:25:08](https://bsky.app/profile/reuters.com/post/3m7ybb55jij2r)
+[2025-12-15 08:48:54](https://bsky.app/profile/sokuho.news/post/3m7yclmsaw72s)
 
 ---
 
-@nytimes.com
+@sokuho.news
 
-The Republican chairman of the Oversight Committee has refused to excuse Bill and Hillary Clinton from appearing in person for depositions in the Epstein investigation. It is the starkest example yet of House Republicans’ attempt to shift focus away from President Trump and onto prominent Democrats.
+🔔防災科研より【強震モニタ】動画です。
 
-[2025-12-15 08:24:14](https://bsky.app/profile/nytimes.com/post/3m7yb7j3gus2t)
+震源:釧路沖, 深さ:40km
+マグニチュード:4.0, 最大震度:2
+📍https://www.google.com/maps?q=42.9,145.5&ll=42.9,145.5&z=7&t=h
+地震発生日時:2025-12-15 08:44頃
+(10倍速▶180s→18s) #地震
 
----
-
-@en.afp.com
-
-VIDEO Krampus figures, demonic characters from Central Alpine folklore that punished misbehaving children with birch rods, march through the streets of Munich during an annual Christmas parade. The costumed procession forms part of pre-Christmas traditions in southern Germany
-🇩🇪
-
-[2025-12-15 08:22:56](https://bsky.app/profile/en.afp.com/post/3m7yb56fywu2f)
+[2025-12-15 08:47:41](https://bsky.app/profile/sokuho.news/post/3m7ycjhmmy72s)
 
 ---
 
-@cnbc.com
+@sokuho.news
 
-Dan Ives loves these 4 European tech companies. Analysts expect those stocks to rise
+🔔気象庁より【地震速報】です。
 
-[2025-12-15 08:22:13](https://bsky.app/profile/cnbc.com/post/3m7yb3vnr2a2d)
+8時44分頃、北海道で最大震度2の地震を観測しました。
+震源:釧路沖, 深さ:40km, 規模:M4.0
+この地震による津波の心配はありません。
+(2025-12-15 08:47:01) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/15/2025-12-15-08-44-14.html?xlarge_image=1
+
+[2025-12-15 08:47:02](https://bsky.app/profile/sokuho.news/post/3m7ycibyvqd2z)
+
+---
+
+@sokuho.news
+
+🔔ANNより【速報】です。
+
+【速報】上野動物園の双子パンダ 来年1月下旬に中国返還へ 国内飼育のパンダはゼロに
+(2025年12月15日 08:46) #ニュース
+
+[2025-12-15 08:46:43](https://bsky.app/profile/sokuho.news/post/3m7ychpqhsy2r)
+
+---
+
+@nikkei.com
+
+ベトナムの電動スクーター、学生に人気　合格祝いにも
+www.nikkei.com/article/DGXZQO...
+
+国産メーカーのビンファストの最安モデルはバッテリー付きで1200万ドン（約7万円）。約2500万ドンの「iPhone17」より手ごろです。
+
+最も人気の二輪ブランドはホンダですが、ガソリンが動力のスクーターは安価モデルでも3000万ドン以上。
+
+電動スクーターに流れる消費者は増えています。
+
+[2025-12-15 08:46:36](https://bsky.app/profile/nikkei.com/post/3m7ychj6ve52g)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗
+
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像5🈡
+(2025-12-15 08:44:56) #緊急地震速報
+
+[2025-12-15 08:45:07](https://bsky.app/profile/sokuho.news/post/3m7yceugloo2b)
 
 ---
 
 @japan.reuters.com
 
-＜０７：５３＞　ドル155.30─156.30円の見通し、12月後の日銀利上げ見通しに注目 bit.ly/3L2b0xp
+チリ大統領選の決選投票が１４日に行われ、右派のホセアントニオ・カストが勝利した。犯罪増加や移民問題に対する有権者の不安を背景に支持を集めた。 bit.ly/4pzsEYj
 
-[2025-12-15 08:21:04](https://bsky.app/profile/japan.reuters.com/post/3m7yazu4apj25)
-
----
-
-@financialtimes.com
-
-Conservative hardliner wins Chile’s presidential election in landslide on.ft.com/48UqtYc
-
-[2025-12-15 08:19:16](https://bsky.app/profile/financialtimes.com/post/3m7yawngbz52y)
+[2025-12-15 08:44:47](https://bsky.app/profile/japan.reuters.com/post/3m7yceat5k42f)
 
 ---
 
-@japan.reuters.com
+@sokuho.news
 
-野村ホールディングスの奥田健太郎社長はロイターのインタビューに応じ、オルタナティブ（代替）資産の拡大に向けてプライベートデット（銀行以外の主体による融資）を手がける運用会社の買収も視野に成長投資を検討していることを明らかにした。欧米のプライベートデット市場の知見を取り込み、日本市場でも本格展開を目指す。 bit.ly/491vKxs
+🚨地震発生中❗❗
 
-[2025-12-15 08:18:57](https://bsky.app/profile/japan.reuters.com/post/3m7yaw373l52q)
+⚠️揺れに警戒してください
 
----
+🔶防災科研/強震モニタ/予測震度画像3
+(2025-12-15 08:44:24) #緊急地震速報
 
-@reuters.com
-
-Australia's Woolworths notes proceedings against unit for alleged staff underpayments reut.rs/4iUmPlH
-
-[2025-12-15 08:15:10](https://bsky.app/profile/reuters.com/post/3m7yapcllp42i)
+[2025-12-15 08:44:45](https://bsky.app/profile/sokuho.news/post/3m7yce7eaqu2e)
 
 ---
 
-@cbsnews.com
+@sokuho.news
 
-Two suspected gunmen accused of killing 15 people and injuring dozens during a Hanukkah celebration in Australia have been identified as a father and a son, authorities said Sunday.
+🚨地震発生中❗❗
 
-[2025-12-15 08:15:01](https://bsky.app/profile/cbsnews.com/post/3m7yaozu5dt2b)
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像2
+(2025-12-15 08:44:22) #緊急地震速報
+
+[2025-12-15 08:44:34](https://bsky.app/profile/sokuho.news/post/3m7ycdutplf2y)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗
+
+⚠️揺れに警戒してください
+🔗http://www.kmoni.bosai.go.jp/
+
+🔶防災科研/強震モニタ/予測震度画像1
+(2025-12-15 08:44:20) #緊急地震速報
+
+[2025-12-15 08:44:27](https://bsky.app/profile/sokuho.news/post/3m7ycdo6jlg2b)
 
 ---
 
