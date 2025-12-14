@@ -1,9 +1,9 @@
-# [2025-12-14 16:10 updated](2025_12_14.md)
+# [2025-12-14 16:30 updated](2025_12_14.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Brown University shooting: Manhunt continues after two killed and nine injured <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7wkq5ekoc2s" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-14 16:09:15)</span><span style="padding-right:50px;">阪神 森下翔太 推定年俸2億1000万円で契約更改 https://news.web.nhk/newsweb/na/na-k10015003581000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7wkptpbkd2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-14 16:09:04)</span><span style="padding-right:50px;">England coach McCullum doubles down again with Ashes on the line reut.rs/44pWK8d <a href="https://bsky.app/profile/reuters.com/post/3m7wkiqjmd72b" target="_blank">reuters.com</a> (2025-12-14 16:05:08)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】テゲバジャーロ宮崎がJ2昇格決める プレーオフでFC大阪に勝利 (2025-12-14 15:57) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7wkb377f22b" target="_blank">sokuho.news</a> (2025-12-14 16:00:51)</span><span style="padding-right:50px;">ペット歓迎の賃貸マンション　東急不動産は多頭飼いOK、三菱地所はシッター常駐 www.nikkei.com/article/DGXZQO...  単身者や在宅時間の増加でペットの飼育需要が高まっていることに対応します。  東急リバブルが開発した物件では、1階のみ大型犬を1匹まで飼え、小型犬や中型犬は2匹まで、猫なら3匹までの多頭飼育も可能としました。  フローリングは犬が滑りにくく、傷がつきにくい床材を採用しています。 <a href="https://bsky.app/profile/nikkei.com/post/3m7wkao5piu2g" target="_blank">nikkei.com</a> (2025-12-14 16:00:37)</span>
+<span style="padding-right:50px;">Fired University of Michigan football coach Sherrone Moore "barged his way" into the apartment of a woman with whom he had been having an affair after she reported the relationship to the school and he lost his job, prosecutors said. n.pr/4q4ZDn4 <a href="https://bsky.app/profile/npr.org/post/3m7wlt4ynuo2d" target="_blank">npr.org</a> (2025-12-14 16:28:50)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】B1長崎ヴェルカ 滋賀に106‐84で快勝 9連勝で西地区首位キープ《長崎》 (2025-12-14 16:23) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7wljeaykc2b" target="_blank">sokuho.news</a> (2025-12-14 16:23:22)</span><span style="padding-right:50px;">自民 鈴木幹事長 定数削減法案 野党側へ働きかけ強める考え https://news.web.nhk/newsweb/na/na-k10015003561000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7wl7w5yyh24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-14 16:18:03)</span><span style="padding-right:50px;">Victor Wembanyama, Spurs halt Thunder's record streak, make NBA Cup final reut.rs/4oStEpc <a href="https://bsky.app/profile/reuters.com/post/3m7wl2o4w672p" target="_blank">reuters.com</a> (2025-12-14 16:15:09)</span><span style="padding-right:50px;">Global week ahead: Europe under fire <a href="https://bsky.app/profile/cnbc.com/post/3m7wkwsc27c24" target="_blank">cnbc.com</a> (2025-12-14 16:13:00)</span>
   </div>
 </div>
 
@@ -32,14 +32,58 @@
 
 ## News Headlines
 
-1. 阪神 森下翔太 推定年俸2億1000万円で契約更改
-2. テゲバジャーロ宮崎がJ2昇格決める プレーオフでFC大阪に勝利
-3. ペット歓迎の賃貸マンション　東急不動産は多頭飼いOK
-4. 米軍によると、シリアで１３日、米陸軍兵士２人と民間人の通訳１人が殺害された
-5. ベラルーシのルカシェンコ大統領は１３日、収監していたノーベル平和賞受賞者のアレシ・ビャリャツキ氏や反政権派指導者のマリア・コレスニコワ氏、元日本語講師の中西雅敏氏ら１２３人を釈放した
-6. ミャンマーの軍は、西部のラカイン州で病院が空爆され、患者や医療従事者、子供など３０人以上が死亡したことを認めた
+1. B1長崎ヴェルカ 滋賀に106‐84で快勝 9連勝で西地区首位キープ
+2. 自民 鈴木幹事長 定数削減法案 野党側へ働きかけ強める考え
+3. Victor Wembanyama, Spurs はルークス破ってNBAカップ決勝へ
+4. ベラルーシのルカシェンコ大統領、反体制派指導者を釈放
+5. インドのアースクリーン、デルヒー空気汚染対策強化
+6. カンボジアとの国境地帯でタイのアヌティン首相「戦闘を継続する」
 
 ----
+
+@npr.org
+
+Fired University of Michigan football coach Sherrone Moore "barged his way" into the apartment of a woman with whom he had been having an affair after she reported the relationship to the school and he lost his job, prosecutors said. n.pr/4q4ZDn4
+
+[2025-12-14 16:28:50](https://bsky.app/profile/npr.org/post/3m7wlt4ynuo2d)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】B1長崎ヴェルカ 滋賀に106‐84で快勝 9連勝で西地区首位キープ《長崎》
+(2025-12-14 16:23) #ニュース
+
+[2025-12-14 16:23:22](https://bsky.app/profile/sokuho.news/post/3m7wljeaykc2b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+自民 鈴木幹事長 定数削減法案 野党側へ働きかけ強める考え
+https://news.web.nhk/newsweb/na/na-k10015003561000
+
+[2025-12-14 16:18:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7wl7w5yyh24)
+
+---
+
+@reuters.com
+
+Victor Wembanyama, Spurs halt Thunder's record streak, make NBA Cup final reut.rs/4oStEpc
+
+[2025-12-14 16:15:09](https://bsky.app/profile/reuters.com/post/3m7wl2o4w672p)
+
+---
+
+@cnbc.com
+
+Global week ahead: Europe under fire
+
+[2025-12-14 16:13:00](https://bsky.app/profile/cnbc.com/post/3m7wkwsc27c24)
+
+---
 
 @bbcnews-world-rss.bsky.social
 
@@ -89,53 +133,6 @@ www.nikkei.com/article/DGXZQO...
 フローリングは犬が滑りにくく、傷がつきにくい床材を採用しています。
 
 [2025-12-14 16:00:37](https://bsky.app/profile/nikkei.com/post/3m7wkao5piu2g)
-
----
-
-@japan.reuters.com
-
-米軍によると、シリアで１３日、米陸軍兵士２人と民間人の通訳１人が殺害された。過激派組織「イスラム国」（ＩＳ）による犯行が疑われている。 bit.ly/44qjHrQ
-
-[2025-12-14 16:00:34](https://bsky.app/profile/japan.reuters.com/post/3m7wkalnh3x2u)
-
----
-
-@cnbc.com
-
-Former Netflix chief talent officer Jessica Neal weeded out potential bad hires with the simple "reception test."
-
-Here's how it works, and why.
-
-[2025-12-14 16:00:28](https://bsky.app/profile/cnbc.com/post/3m7wkafkdhy2e)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】テゲバジャーロ宮崎 J2昇格決定 プレーオフ決勝でFC大阪を4対0で破る
-(2025-12-14 15:57:00) #ニュース
-
-[2025-12-14 16:00:20](https://bsky.app/profile/sokuho.news/post/3m7wka5yfd22b)
-
----
-
-@apnews.com
-
-British police say they have found no evidence that Andrew Mountbatten-Windsor asked a bodyguard to investigate Virginia Giuffre.
-
-[2025-12-14 16:00:13](https://bsky.app/profile/apnews.com/post/3m7wk7x35di22)
-
----
-
-@washingtonpost.com
-
-Not all dishes lend themselves especially well to improvisation. But soup does.
-
-If you like the sound of choosing your own cooking adventure, here are some tips for pulling together an improvised soup. https://wapo.st/4oWgEiu
-
-[2025-12-14 16:00:06](https://bsky.app/profile/washingtonpost.com/post/3m7wk7qjyrt2x)
 
 ---
 
