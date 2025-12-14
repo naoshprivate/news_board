@@ -1,9 +1,9 @@
-# [2025-12-14 21:30 updated](2025_12_14.md)
+# [2025-12-14 21:50 updated](2025_12_14.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">ゼレンスキー大統領 米特使らと戦後の安全の保証など協議へ https://news.web.nhk/newsweb/na/na-k10015003881000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7x4ihmhu72k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-14 21:27:04)</span><span style="padding-right:50px;">'Person of interest' detained over Brown University shooting, official says <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7x4hzrhpz2b" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-14 21:26:51)</span><span style="padding-right:50px;">Eyewitness captures moment man tackles and disarms shooter <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7x4g4db462b" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-14 21:25:46)</span><span style="padding-right:50px;">A person of interest is in custody in connection with the Brown University shooting, Providence mayor's office says. Follow live updates. https://cnn.it/3Mz4q1S <a href="https://bsky.app/profile/cnn.com/post/3m7x4d2hdsf2b" target="_blank">cnn.com</a> (2025-12-14 21:24:04)</span><span style="padding-right:50px;">Indoor tanning is trending among Gen Z. A new study finds tanning bed users not only have a much higher risk of melanoma, they also have DNA damage linked to cancer across nearly their entire skin. n.pr/4qcoLss <a href="https://bsky.app/profile/npr.org/post/3m7x47kjvxu25" target="_blank">npr.org</a> (2025-12-14 21:22:07)</span>
+<span style="padding-right:50px;">CNN's Angus Watson reports from Sydney, where the Bondi Beach shooting has now been labeled by officials a "terror incident." <a href="https://bsky.app/profile/cnn.com/post/3m7x5j377r22x" target="_blank">cnn.com</a> (2025-12-14 21:45:20)</span><span style="padding-right:50px;">Prime Minister Anthony Albanese of Australia called the shooting on Bondi Beach, which left at least 11 people dead, a terrorist attack targeting the Jewish community during a Hanukkah celebration.   Follow live. <a href="https://bsky.app/profile/nytimes.com/post/3m7x5d5uw4c2b" target="_blank">nytimes.com</a> (2025-12-14 21:42:02)</span><span style="padding-right:50px;">米東部ブラウン大学で銃撃　容疑者を拘束、2人死亡・9人負傷 www.nikkei.com/article/DGXZQO...  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m7x5byz5ov2m" target="_blank">nikkei.com</a> (2025-12-14 21:41:23)</span><span style="padding-right:50px;">In the latest "SNL" cold open, James Austin Johnson's Trump defended himself against new Jeffrey Epstein photos and ordered a strike on Santa Claus. <a href="https://bsky.app/profile/usatoday.com/post/3m7x4oc5mgd2z" target="_blank">usatoday.com</a> (2025-12-14 21:30:22)</span><span style="padding-right:50px;">Snow should taper off in New York City by about midday on Sunday before temperatures plummet under clear skies later, as a quick moving winter storm sweeps through the US Northeast <a href="https://bsky.app/profile/bloomberg.com/post/3m7x4nxsxwt2f" target="_blank">bloomberg.com</a> (2025-12-14 21:30:11)</span>
   </div>
 </div>
 
@@ -32,14 +32,67 @@
 
 ## News Headlines
 
-1. ゼレンスキー大統領 米特使らと戦後の安全の保証など協議へ
-2. オーストラリアの有名ビーチで銃撃 12人死亡
-3. 【大雪影響】新千歳空港 旅客機が一時立往生 欠航相次ぐ
-4. ラグビーリーグワン 開幕戦 ワイルドナイツが大勝
-5. 中国の不動産開発大手、万科企業は社債償還を１年延長する案を却下
-6. JAXAの次世代実証衛星、打ち上げ成功
+1. 米東部ブラウン大学で銃撃　容疑者を拘束、2人死亡・9人負傷
+2. オーストラリアの有名ビーチで銃撃　12人死亡、警察は「テロ」と断定
+3. 12人死亡　オーストラリアの有名ビーチで銃撃　テロと断定
+4. 大雪影響　新千歳空港旅客機が一時立往生
+5. 12人死亡　オーストラリアの有名ビーチで銃撃　テロと断定
+6. 大雪強まる　暴風や猛吹雪など警戒を
 
 ----
+
+@cnn.com
+
+CNN's Angus Watson reports from Sydney, where the Bondi Beach shooting has now been labeled by officials a "terror incident."
+
+[2025-12-14 21:45:20](https://bsky.app/profile/cnn.com/post/3m7x5j377r22x)
+
+---
+
+@nytimes.com
+
+Prime Minister Anthony Albanese of Australia called the shooting on Bondi Beach, which left at least 11 people dead, a terrorist attack targeting the Jewish community during a Hanukkah celebration. 
+
+Follow live.
+
+[2025-12-14 21:42:02](https://bsky.app/profile/nytimes.com/post/3m7x5d5uw4c2b)
+
+---
+
+@nikkei.com
+
+米東部ブラウン大学で銃撃　容疑者を拘束、2人死亡・9人負傷
+www.nikkei.com/article/DGXZQO...
+
+#ニュース
+
+[2025-12-14 21:41:23](https://bsky.app/profile/nikkei.com/post/3m7x5byz5ov2m)
+
+---
+
+@usatoday.com
+
+In the latest "SNL" cold open, James Austin Johnson's Trump defended himself against new Jeffrey Epstein photos and ordered a strike on Santa Claus.
+
+[2025-12-14 21:30:22](https://bsky.app/profile/usatoday.com/post/3m7x4oc5mgd2z)
+
+---
+
+@bloomberg.com
+
+Snow should taper off in New York City by about midday on Sunday before temperatures plummet under clear skies later, as a quick moving winter storm sweeps through the US Northeast
+
+[2025-12-14 21:30:11](https://bsky.app/profile/bloomberg.com/post/3m7x4nxsxwt2f)
+
+---
+
+@aljazeera.com
+
+Chileans gear up to cast their ballots in run-off election, with far-right candidate Jose Kast gaining ground in polls.
+
+[2025-12-14 21:30:02](https://bsky.app/profile/aljazeera.com/post/3m7x4npey452i)
+
+---
 
 @nhknewsunofficial.bsky.social
 
@@ -72,59 +125,6 @@ A person of interest is in custody in connection with the Brown University shoot
 https://cnn.it/3Mz4q1S
 
 [2025-12-14 21:24:04](https://bsky.app/profile/cnn.com/post/3m7x4d2hdsf2b)
-
----
-
-@npr.org
-
-Indoor tanning is trending among Gen Z. A new study finds tanning bed users not only have a much higher risk of melanoma, they also have DNA damage linked to cancer across nearly their entire skin. n.pr/4qcoLss
-
-[2025-12-14 21:22:07](https://bsky.app/profile/npr.org/post/3m7x47kjvxu25)
-
----
-
-@nytimes.com
-
-At least 11 people were killed by gunmen who targeted a Jewish celebration at Sydney’s Bondi Beach on Sunday. Follow live updates.
-
-[2025-12-14 21:19:06](https://bsky.app/profile/nytimes.com/post/3m7x425o75o2r)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【大雪影響】新千歳空港 旅客機が一時立往生 欠航相次ぐ
-https://news.web.nhk/newsweb/na/na-k10015003511000
-
-[2025-12-14 21:18:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7x3ydgekj2b)
-
----
-
-@usatoday.com
-
-At least 12 people were killed and dozens more wounded in a shooting at Sydney's popular Bondi Beach that targeted Australia's Jewish community, officials say.
-
-[2025-12-14 21:13:59](https://bsky.app/profile/usatoday.com/post/3m7x3qywvsa2h)
-
----
-
-@nikkei.com
-
-オーストラリアの有名ビーチで銃撃　12人死亡、警察は「テロ」と断定
-www.nikkei.com/article/DGXZQO...
-
-#ニュース
-
-[2025-12-14 21:13:11](https://bsky.app/profile/nikkei.com/post/3m7x3plg3cs24)
-
----
-
-@nhknewsunofficial.bsky.social
-
-北海道～北陸 風と雪強まる 暴風や猛吹雪など警戒を
-https://news.web.nhk/newsweb/na/na-k10015003321000
-
-[2025-12-14 21:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7x3i7utd32x)
 
 ---
 
