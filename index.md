@@ -1,9 +1,9 @@
-# [2025-12-15 08:10 updated](2025_12_15.md)
+# [2025-12-15 08:30 updated](2025_12_15.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">ステーブルコイン発行企業テザーが、サッカーのイタリア１部リーグ（セリエＡ）に属する名門ユベントスの買収を提案したことを巡り、ユベントスを所有するアニェッリ一族の持ち株会社エクソールのジョン・エルカン最高経営責任者（ＣＥＯ）が１３日、ユベントスを売却しないと明言した。 bit.ly/497sIZz <a href="https://bsky.app/profile/japan.reuters.com/post/3m7yacpmpjb2p" target="_blank">japan.reuters.com</a> (2025-12-15 08:08:08)</span><span style="padding-right:50px;">🛎️ANNより【速報】です。  【速報】「室外機が燃えている。爆発音2回」住宅ほぼ全焼 2人死亡 神奈川・厚木市 (2025-12-15 07:54:17) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7yabdaydc2b" target="_blank">sokuho.news</a> (2025-12-15 08:07:21)</span><span style="padding-right:50px;">Australia's Fortescue to buy remaining stake in Alta Copper, valuing it at $101 million reut.rs/4pOdIpe <a href="https://bsky.app/profile/reuters.com/post/3m7ya5hw7ch2c" target="_blank">reuters.com</a> (2025-12-15 08:05:12)</span><span style="padding-right:50px;">米ロードアイランド州プロビデンスのブラウン大学で１３日、銃撃があり学生２人が死亡、９人が負傷した事件で、当局は１４日、同州のホテルにいた２０代の「重要参考人」を拘束したと発表した。 bit.ly/48Op7OI <a href="https://bsky.app/profile/japan.reuters.com/post/3m7y7yp3b4h22" target="_blank">japan.reuters.com</a> (2025-12-15 08:02:32)</span><span style="padding-right:50px;">Philip Rivers came out of retirement at 44 years old and signed with the Colts. Here's what channel and time to watch his return to the NFL today. <a href="https://bsky.app/profile/usatoday.com/post/3m7y7wcdbnn2h" target="_blank">usatoday.com</a> (2025-12-15 08:01:11)</span>
+<span style="padding-right:50px;">NEW: The person of interest in the deadly Brown University shooting has been identified as a 24-year-old Army veteran. <a href="https://bsky.app/profile/cbsnews.com/post/3m7ybf7uf7q2p" target="_blank">cbsnews.com</a> (2025-12-15 08:27:25)</span><span style="padding-right:50px;">Jimmy Lai verdict updates: Hong Kong court to rule after democracy activist's landmark trial reut.rs/4rXFmSg <a href="https://bsky.app/profile/reuters.com/post/3m7ybb55jij2r" target="_blank">reuters.com</a> (2025-12-15 08:25:08)</span><span style="padding-right:50px;">The Republican chairman of the Oversight Committee has refused to excuse Bill and Hillary Clinton from appearing in person for depositions in the Epstein investigation. It is the starkest example yet of House Republicans’ attempt to shift focus away from President Trump and onto prominent Democrats. <a href="https://bsky.app/profile/nytimes.com/post/3m7yb7j3gus2t" target="_blank">nytimes.com</a> (2025-12-15 08:24:14)</span><span style="padding-right:50px;">VIDEO Krampus figures, demonic characters from Central Alpine folklore that punished misbehaving children with birch rods, march through the streets of Munich during an annual Christmas parade. The costumed procession forms part of pre-Christmas traditions in southern Germany 🇩🇪 <a href="https://bsky.app/profile/en.afp.com/post/3m7yb56fywu2f" target="_blank">en.afp.com</a> (2025-12-15 08:22:56)</span><span style="padding-right:50px;">Dan Ives loves these 4 European tech companies. Analysts expect those stocks to rise <a href="https://bsky.app/profile/cnbc.com/post/3m7yb3vnr2a2d" target="_blank">cnbc.com</a> (2025-12-15 08:22:13)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.76 (🔺0.08 : 2025-12-14)</span>
+<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.80 (🔺0.13 : 2025-12-14)</span>
   </div>
 </div>
 
@@ -32,101 +32,93 @@
 
 ## News Headlines
 
-1. エクソールのCEOがユベントス売却否定
-2. 神奈川県厚木市で住宅ほぼ全焼　2人死亡
-3. 米ロードアイランド州ブラウン大学銃撃事件で20代の男性逮捕
-4. フォートセスクーがアルタ銅を買収
-5. シドニーのボンダイビーチ銃撃事件で16人死亡
-6. 中央日産が米国に海外投資を増やす
+1. 米国軍人がブラウン大学銃撃事件の容疑者とされた
+2. ホンコンの民主主義活動家の裁判で判決が下る
+3. ドル155.30円～156.30円の値動きを予想
+4. チリ大統領選で保守派候補が大勝
+5. 野村ホールディングスがプライベートデットの買収を検討
+6. オーストラリアのボンダイビーチで銃撃テロ、16人死亡
 
 ----
 
-@japan.reuters.com
+@cbsnews.com
 
-ステーブルコイン発行企業テザーが、サッカーのイタリア１部リーグ（セリエＡ）に属する名門ユベントスの買収を提案したことを巡り、ユベントスを所有するアニェッリ一族の持ち株会社エクソールのジョン・エルカン最高経営責任者（ＣＥＯ）が１３日、ユベントスを売却しないと明言した。 bit.ly/497sIZz
+NEW: The person of interest in the deadly Brown University shooting has been identified as a 24-year-old Army veteran.
 
-[2025-12-15 08:08:08](https://bsky.app/profile/japan.reuters.com/post/3m7yacpmpjb2p)
-
----
-
-@sokuho.news
-
-🛎️ANNより【速報】です。
-
-【速報】「室外機が燃えている。爆発音2回」住宅ほぼ全焼 2人死亡 神奈川・厚木市
-(2025-12-15 07:54:17) #ニュース
-
-[2025-12-15 08:07:21](https://bsky.app/profile/sokuho.news/post/3m7yabdaydc2b)
+[2025-12-15 08:27:25](https://bsky.app/profile/cbsnews.com/post/3m7ybf7uf7q2p)
 
 ---
 
 @reuters.com
 
-Australia's Fortescue to buy remaining stake in Alta Copper, valuing it at $101 million reut.rs/4pOdIpe
+Jimmy Lai verdict updates: Hong Kong court to rule after democracy activist's landmark trial reut.rs/4rXFmSg
 
-[2025-12-15 08:05:12](https://bsky.app/profile/reuters.com/post/3m7ya5hw7ch2c)
-
----
-
-@japan.reuters.com
-
-米ロードアイランド州プロビデンスのブラウン大学で１３日、銃撃があり学生２人が死亡、９人が負傷した事件で、当局は１４日、同州のホテルにいた２０代の「重要参考人」を拘束したと発表した。 bit.ly/48Op7OI
-
-[2025-12-15 08:02:32](https://bsky.app/profile/japan.reuters.com/post/3m7y7yp3b4h22)
+[2025-12-15 08:25:08](https://bsky.app/profile/reuters.com/post/3m7ybb55jij2r)
 
 ---
 
-@usatoday.com
+@nytimes.com
 
-Philip Rivers came out of retirement at 44 years old and signed with the Colts. Here's what channel and time to watch his return to the NFL today.
+The Republican chairman of the Oversight Committee has refused to excuse Bill and Hillary Clinton from appearing in person for depositions in the Epstein investigation. It is the starkest example yet of House Republicans’ attempt to shift focus away from President Trump and onto prominent Democrats.
 
-[2025-12-15 08:01:11](https://bsky.app/profile/usatoday.com/post/3m7y7wcdbnn2h)
+[2025-12-15 08:24:14](https://bsky.app/profile/nytimes.com/post/3m7yb7j3gus2t)
 
 ---
 
-@apnews.com
+@en.afp.com
 
-A Syrian security guard who attacked and killed three U.S. citizens in Syria had joined the internal security forces two months earlier.
+VIDEO Krampus figures, demonic characters from Central Alpine folklore that punished misbehaving children with birch rods, march through the streets of Munich during an annual Christmas parade. The costumed procession forms part of pre-Christmas traditions in southern Germany
+🇩🇪
 
-[2025-12-15 08:01:06](https://bsky.app/profile/apnews.com/post/3m7y7w5atjc2n)
+[2025-12-15 08:22:56](https://bsky.app/profile/en.afp.com/post/3m7yb56fywu2f)
 
 ---
 
 @cnbc.com
 
-Born and raised in New York, Chanel Rivers, now 35, says she was tired of the dating scene and worrying about her safety in the Big Apple.
+Dan Ives loves these 4 European tech companies. Analysts expect those stocks to rise
 
-She booked a trip to London with a friend and realized how comfortable she felt walking around the city, something she no longer felt in New York.
-
-[2025-12-15 08:01:01](https://bsky.app/profile/cnbc.com/post/3m7y7vyeigg2y)
+[2025-12-15 08:22:13](https://bsky.app/profile/cnbc.com/post/3m7yb3vnr2a2d)
 
 ---
 
-@apnews.com
+@japan.reuters.com
 
-José Antonio Kast, del derechista Partido Republicano, es elegido presidente de Chile. Sucederá al izquierdista Gabriel Boric en el período 2026-2030.
+＜０７：５３＞　ドル155.30─156.30円の見通し、12月後の日銀利上げ見通しに注目 bit.ly/3L2b0xp
 
-Sigue nuestra cobertura: apnews.com/live/chile-e...
-
-[2025-12-15 08:00:59](https://bsky.app/profile/apnews.com/post/3m7y7vwitfs2n)
+[2025-12-15 08:21:04](https://bsky.app/profile/japan.reuters.com/post/3m7yazu4apj25)
 
 ---
 
-@washingtonpost.com
+@financialtimes.com
 
-Mia Tretta was a freshman when a classmate opened fire at her California high school. Now the Brown University junior worries how she’ll recover a second time.
+Conservative hardliner wins Chile’s presidential election in landslide on.ft.com/48UqtYc
 
-“I found a place where I finally started to feel comfortable. And it’s been taken again.” 
-
-[2025-12-15 08:00:16](https://bsky.app/profile/washingtonpost.com/post/3m7y7unem3w24)
+[2025-12-15 08:19:16](https://bsky.app/profile/financialtimes.com/post/3m7yawngbz52y)
 
 ---
 
-@aljazeera.com
+@japan.reuters.com
 
-Far-right candidate Jose Antonio Kast wins Chile’s presidential election https://aje.io/y9own8
+野村ホールディングスの奥田健太郎社長はロイターのインタビューに応じ、オルタナティブ（代替）資産の拡大に向けてプライベートデット（銀行以外の主体による融資）を手がける運用会社の買収も視野に成長投資を検討していることを明らかにした。欧米のプライベートデット市場の知見を取り込み、日本市場でも本格展開を目指す。 bit.ly/491vKxs
 
-[2025-12-15 08:00:07](https://bsky.app/profile/aljazeera.com/post/3m7y7ueve3y2p)
+[2025-12-15 08:18:57](https://bsky.app/profile/japan.reuters.com/post/3m7yaw373l52q)
+
+---
+
+@reuters.com
+
+Australia's Woolworths notes proceedings against unit for alleged staff underpayments reut.rs/4iUmPlH
+
+[2025-12-15 08:15:10](https://bsky.app/profile/reuters.com/post/3m7yapcllp42i)
+
+---
+
+@cbsnews.com
+
+Two suspected gunmen accused of killing 15 people and injuring dozens during a Hanukkah celebration in Australia have been identified as a father and a son, authorities said Sunday.
+
+[2025-12-15 08:15:01](https://bsky.app/profile/cbsnews.com/post/3m7yaozu5dt2b)
 
 ---
 
