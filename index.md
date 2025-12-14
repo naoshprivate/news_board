@@ -1,9 +1,9 @@
-# [2025-12-15 07:10 updated](2025_12_15.md)
+# [2025-12-15 07:30 updated](2025_12_15.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">香港民主派の有力政党として唯一存続していた民主党が１４日の臨時党大会で解散を正式に決定した。中国政府からの圧力が背景にあったもようだ。 bit.ly/3Mzx8Qe <a href="https://bsky.app/profile/japan.reuters.com/post/3m7y4z3cjgq2v" target="_blank">japan.reuters.com</a> (2025-12-15 07:09:03)</span><span style="padding-right:50px;">A tech-savvy law-enforcement officer wrote a new computer program that finally deciphered critical information in the Jan. 6 pipe-bombs case. <a href="https://bsky.app/profile/wsj.com/post/3m7y4ucmj5a2t" target="_blank">wsj.com</a> (2025-12-15 07:06:23)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】現場から逃走した男か 警察が30代男を事情聴取 犯行への関与をほのめかす 警察は事件に使われたとみられる刃物を発見 福岡市中央区の殺人未遂事件 (2025-12-15 06:30) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7y4sxbl7v2y" target="_blank">sokuho.news</a> (2025-12-15 07:05:38)</span><span style="padding-right:50px;">15 people were killed in an antisemitic attack at Bondi Beach on Sunday, an act more shocking because of the low gun violence numbers in Australia. <a href="https://bsky.app/profile/forbes.com/post/3m7y4rxtiuh2t" target="_blank">forbes.com</a> (2025-12-15 07:05:04)</span><span style="padding-right:50px;">From @theathletic.com: Kansas City has been eliminated from NFL playoff contention, ending a streak of 10 consecutive postseason appearances. <a href="https://bsky.app/profile/nytimes.com/post/3m7y4rifxpk25" target="_blank">nytimes.com</a> (2025-12-15 07:04:49)</span>
+<span style="padding-right:50px;">For the first time in his career as a starting quarterback, Patrick Mahomes will not only fail to reach the AFC Championship game — he won't even play in the postseason. <a href="https://bsky.app/profile/nbcnews.com/post/3m7y63vvgdf2x" target="_blank">nbcnews.com</a> (2025-12-15 07:28:32)</span><span style="padding-right:50px;">Rodrygo's winner lifts Real Madrid past Alaves to end losing streak reut.rs/498Vs46 <a href="https://bsky.app/profile/reuters.com/post/3m7y5vtowbs2o" target="_blank">reuters.com</a> (2025-12-15 07:25:08)</span><span style="padding-right:50px;">Newly released images of Little St. James, Jeffrey Epstein’s secret hideaway, show where he brought friends and victims. <a href="https://bsky.app/profile/wsj.com/post/3m7y5vj7tli2t" target="_blank">wsj.com</a> (2025-12-15 07:24:57)</span><span style="padding-right:50px;">オーストラリアの観光名所ボンダイビーチで１４日に起きた銃撃事件で、警察当局は１５日、容疑者１人を含む１６人が死亡したと発表した。容疑者は父親（５０）と息子（２４）の２人で、父親は現場で死亡、息子は病院で重体という。 bit.ly/4rY60uq <a href="https://bsky.app/profile/japan.reuters.com/post/3m7y5v3sllp2q" target="_blank">japan.reuters.com</a> (2025-12-15 07:24:43)</span><span style="padding-right:50px;">The mass shooting at a Jewish celebration at Bondi Beach in Sydney on Sunday was carried out by a 50-year-old man and his 24-year-old son, Australian officials said. Follow live updates. <a href="https://bsky.app/profile/nytimes.com/post/3m7y5u2yin72y" target="_blank">nytimes.com</a> (2025-12-15 07:24:09)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.84 (🔺0.16 : 2025-12-14)</span>
+<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.85 (🔺0.18 : 2025-12-14)</span>
   </div>
 </div>
 
@@ -32,102 +32,97 @@
 
 ## News Headlines
 
-1. 香港の民主党が解散を決定
-2. スカッシュの世界カップで日本の選手が2位と3位
-3. 日産自動運転車両の実用化に向け実証実験が始まる
-4. 医師が頼るAIが4人に1人で活用
-5. 15人死亡　オーストラリアのバンドイ海岸で発生したハヌカーの式の射撃事件
-6. クリスマス前の来年度予算の編成が本格化
+1. 
+・ボンダイビーチ銃撃事件で２人親子容疑者　父親死亡、息子は重体
+・東京ガスが米国などに3,500億円を投資
+・ウクライナのゼレンスキー大統領「NATO入り断念の考えあり」
+・香港民主党が解散　中国政府の圧力があったと見られる
+・アリババの新型AI、医師の診断を上回る
+・狙撃事件で犠牲者15人　オーストラリアのユダヤ人コミュニティに衝撃
+・ボンダイビーチ銃撃事件の英雄は果たして英雄か？
 
 ----
 
-@japan.reuters.com
+@nbcnews.com
 
-香港民主派の有力政党として唯一存続していた民主党が１４日の臨時党大会で解散を正式に決定した。中国政府からの圧力が背景にあったもようだ。 bit.ly/3Mzx8Qe
+For the first time in his career as a starting quarterback, Patrick Mahomes will not only fail to reach the AFC Championship game — he won't even play in the postseason.
 
-[2025-12-15 07:09:03](https://bsky.app/profile/japan.reuters.com/post/3m7y4z3cjgq2v)
+[2025-12-15 07:28:32](https://bsky.app/profile/nbcnews.com/post/3m7y63vvgdf2x)
+
+---
+
+@reuters.com
+
+Rodrygo's winner lifts Real Madrid past Alaves to end losing streak reut.rs/498Vs46
+
+[2025-12-15 07:25:08](https://bsky.app/profile/reuters.com/post/3m7y5vtowbs2o)
 
 ---
 
 @wsj.com
 
-A tech-savvy law-enforcement officer wrote a new computer program that finally deciphered critical information in the Jan. 6 pipe-bombs case.
+Newly released images of Little St. James, Jeffrey Epstein’s secret hideaway, show where he brought friends and victims.
 
-[2025-12-15 07:06:23](https://bsky.app/profile/wsj.com/post/3m7y4ucmj5a2t)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】現場から逃走した男か 警察が30代男を事情聴取 犯行への関与をほのめかす 警察は事件に使われたとみられる刃物を発見 福岡市中央区の殺人未遂事件
-(2025-12-15 06:30) #ニュース
-
-[2025-12-15 07:05:38](https://bsky.app/profile/sokuho.news/post/3m7y4sxbl7v2y)
-
----
-
-@forbes.com
-
-15 people were killed in an antisemitic attack at Bondi Beach on Sunday, an act more shocking because of the low gun violence numbers in Australia.
-
-[2025-12-15 07:05:04](https://bsky.app/profile/forbes.com/post/3m7y4rxtiuh2t)
-
----
-
-@nytimes.com
-
-From @theathletic.com: Kansas City has been eliminated from NFL playoff contention, ending a streak of 10 consecutive postseason appearances.
-
-[2025-12-15 07:04:49](https://bsky.app/profile/nytimes.com/post/3m7y4rifxpk25)
-
----
-
-@npr.org
-
-Hundreds had gathered for an event at Bondi Beach called Chanukah by the Sea, which was celebrating the start of the Hanukkah Jewish festival. n.pr/4afN0RN
-
-[2025-12-15 07:03:03](https://bsky.app/profile/npr.org/post/3m7y4oe3qdm2g)
+[2025-12-15 07:24:57](https://bsky.app/profile/wsj.com/post/3m7y5vj7tli2t)
 
 ---
 
 @japan.reuters.com
 
-中国財政省は１３日、来年は超長期の特別国債の発行を含めて、より積極的な財政政策を行うと明らかにした。 bit.ly/3MAHwHo
+オーストラリアの観光名所ボンダイビーチで１４日に起きた銃撃事件で、警察当局は１５日、容疑者１人を含む１６人が死亡したと発表した。容疑者は父親（５０）と息子（２４）の２人で、父親は現場で死亡、息子は病院で重体という。 bit.ly/4rY60uq
 
-[2025-12-15 07:02:24](https://bsky.app/profile/japan.reuters.com/post/3m7y4n6wzv42n)
-
----
-
-@cbsnews.com
-
-A fruit shop owner who risked his life to disarm one of the gunmen during an antisemitic terror attack in Australia's Bondi Beach is being hailed a hero for his actions.
-
-[2025-12-15 07:01:01](https://bsky.app/profile/cbsnews.com/post/3m7y4kpeoyr2j)
+[2025-12-15 07:24:43](https://bsky.app/profile/japan.reuters.com/post/3m7y5v3sllp2q)
 
 ---
 
-@apnews.com
+@nytimes.com
 
-A bystander seen in a widely circulated video disarming a gunman during a deadly shooting rampage at a popular Australian beach is being heralded as a hero who saved lives.
+The mass shooting at a Jewish celebration at Bondi Beach in Sydney on Sunday was carried out by a 50-year-old man and his 24-year-old son, Australian officials said. Follow live updates.
 
-[2025-12-15 07:00:51](https://bsky.app/profile/apnews.com/post/3m7y4kfz24e2k)
+[2025-12-15 07:24:09](https://bsky.app/profile/nytimes.com/post/3m7y5u2yin72y)
+
+---
+
+@japan.reuters.com
+
+東京ガスの笹山晋一社長は、次期中期経営計画（２０２６─２８年度）に盛り込んだ海外での成長投資３５００億円の過半を米国に投入する考えを示した。ガス需要の高い現地で開発から販売まで「バリューチェーン」を構築するとともに、国際的なトレーディング機能を強化し、収益拡大を図る。 bit.ly/4se8R2D
+
+[2025-12-15 07:20:15](https://bsky.app/profile/japan.reuters.com/post/3m7y5n3p6mr2c)
 
 ---
 
 @nikkei.com
 
-静岡県伊東市長選挙、田久保真紀氏は敗北　元市議の杉本憲也氏が初当選
+｢働いて働く｣にも睡眠5時間必須　勤務間インターバル、1000社で検証
 www.nikkei.com/article/DGXZQO...
 
-田久保前市長が学歴を巡る問題で失職したことに伴う出直し選挙でした。
+[2025-12-15 07:16:37](https://bsky.app/profile/nikkei.com/post/3m7y5glnphm2m)
 
-杉本氏は現役世代の負担軽減を主張。当選後、市内で支持者を前に「止まってしまった市政を進める」と意気込みを語りました。
+---
 
-#ニュース
+@nytimes.com
 
-[2025-12-15 07:00:36](https://bsky.app/profile/nikkei.com/post/3m7y4jx6htb2y)
+In @nytopinion.nytimes.com 
+
+The Hanukkah massacre at Sydney’s Bondi Beach “represents the continuing inability of the government of Anthony Albanese, Australia’s prime minister, to safeguard the country’s Jewish community,” our columnist Bret Stephens writes.
+
+[2025-12-15 07:15:03](https://bsky.app/profile/nytimes.com/post/3m7y5ds6w7c2x)
+
+---
+
+@japan.reuters.com
+
+注）手数料は上限。税込み。単位は％。 bit.ly/4q8Jv4c
+
+[2025-12-15 07:14:35](https://bsky.app/profile/japan.reuters.com/post/3m7y5cxrc7g2u)
+
+---
+
+@japan.reuters.com
+
+ウクライナのゼレンスキー大統領は１４日、欧米による安全の保証が得られれば北大西洋条約機構（ＮＡＴＯ）加盟を断念する用意があるとの考えを明らかにした。 bit.ly/4rXi1Ae
+
+[2025-12-15 07:12:25](https://bsky.app/profile/japan.reuters.com/post/3m7y573maey2v)
 
 ---
 
