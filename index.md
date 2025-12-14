@@ -1,9 +1,9 @@
-# [2025-12-14 15:30 updated](2025_12_14.md)
+# [2025-12-14 15:50 updated](2025_12_14.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Hundreds of police officers were studying video and scouring the area around Brown University in the hunt for a shooter who killed two people and wounded nine others in a classroom on the Providence, Rhode Island, campus. <a href="https://bsky.app/profile/apnews.com/post/3m7wigcpfhi2p" target="_blank">apnews.com</a> (2025-12-14 15:27:59)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報・本人コメント掲載】倉敷市出身・中島未莉選手 ミラノ五輪日本代表正式発表【岡山】 (2025-12-14 15:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7wic3w3md2a" target="_blank">sokuho.news</a> (2025-12-14 15:25:37)</span><span style="padding-right:50px;">Police in Tasmania say missing Belgian woman's phone found two years after her disappearance reut.rs/48XOOfV <a href="https://bsky.app/profile/reuters.com/post/3m7wibafr4f2s" target="_blank">reuters.com</a> (2025-12-14 15:25:09)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報・本人コメント掲載】倉敷出身・中島未莉選手 ミラノ五輪日本代表正式発表【岡山】 (2025-12-14 15:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7whz6i2dt2x" target="_blank">sokuho.news</a> (2025-12-14 15:20:38)</span><span style="padding-right:50px;">トランプ米大統領は、自身の経済政策の一部がまだ完全に効果を発揮していないため、来年の中間選挙で共和党が下院の過半数を維持できるかどうか不透明だと述べた。 bit.ly/4oS7684 <a href="https://bsky.app/profile/japan.reuters.com/post/3m7whusnco62q" target="_blank">japan.reuters.com</a> (2025-12-14 15:18:12)</span>
+<span style="padding-right:50px;">中国の不動産開発大手、万科企業は、１５日に期限を迎える国内社債の償還を１年間延長する案について、社債権者の支持を得られなかった。 bit.ly/3MBOtrF <a href="https://bsky.app/profile/japan.reuters.com/post/3m7wj256rmi2q" target="_blank">japan.reuters.com</a> (2025-12-14 15:39:04)</span><span style="padding-right:50px;">ベラルーシのルカシェンコ大統領は１３日、収監していたノーベル平和賞受賞者のアレシ・ビャリャツキ氏や反政権派指導者のマリア・コレスニコワ氏、元日本語講師の中西雅敏氏ら１２３人を釈放した。 bit.ly/3Yt1Eha <a href="https://bsky.app/profile/japan.reuters.com/post/3m7wikkirgy2s" target="_blank">japan.reuters.com</a> (2025-12-14 15:30:21)</span><span style="padding-right:50px;">Arsenal must improve defensively despite win over Wolves, says Arteta reut.rs/48Nbu2k <a href="https://bsky.app/profile/reuters.com/post/3m7wikfit6u2b" target="_blank">reuters.com</a> (2025-12-14 15:30:16)</span><span style="padding-right:50px;"> Myanmar’s military on Saturday acknowledged there was an airstrike on a hospital in the western state of Rakhine, which a local rescuer and media reports said killed more than 30 people, including patients, medical workers and children. <a href="https://bsky.app/profile/apnews.com/post/3m7wikboxdc23" target="_blank">apnews.com</a> (2025-12-14 15:30:12)</span><span style="padding-right:50px;">Hundreds of police officers were studying video and scouring the area around Brown University in the hunt for a shooter who killed two people and wounded nine others in a classroom on the Providence, Rhode Island, campus. <a href="https://bsky.app/profile/apnews.com/post/3m7wigcpfhi2p" target="_blank">apnews.com</a> (2025-12-14 15:27:59)</span>
   </div>
 </div>
 
@@ -32,14 +32,46 @@
 
 ## News Headlines
 
-1. 米ブラウン大学で銃乱射事件　２人死亡９人けが
-2. 台湾・中国の国境地帯で再び戦闘
-3. 15日から始まる米株式市場　経済指標が遅れていた
-4. 欧州サッカー・三笘薫が復帰出場　２か月半ぶり
-5. 米政府　学生のプロフェッショナル学位に対する貸付金を200万ドルまで引き上げ
-6. グリーンランド　重要鉱物「最後のフロンティア」
+1.  中国の不動産開発大手、万科企業が社債償還延期
+2.  ベラルーシ、反政権派指導者ら123人を釈放
+3.  ウルズとの試合で勝利したArsenalはディフェンスを改善しなければならない
+4.  ミャンマー軍が病院への攻撃を認める
+5.  米国でブラウン大学の銃撃事件、2人死亡9人けが
+6.  米大統領、共和党の下院過半数維持が不透明
 
 ----
+
+@japan.reuters.com
+
+中国の不動産開発大手、万科企業は、１５日に期限を迎える国内社債の償還を１年間延長する案について、社債権者の支持を得られなかった。 bit.ly/3MBOtrF
+
+[2025-12-14 15:39:04](https://bsky.app/profile/japan.reuters.com/post/3m7wj256rmi2q)
+
+---
+
+@japan.reuters.com
+
+ベラルーシのルカシェンコ大統領は１３日、収監していたノーベル平和賞受賞者のアレシ・ビャリャツキ氏や反政権派指導者のマリア・コレスニコワ氏、元日本語講師の中西雅敏氏ら１２３人を釈放した。 bit.ly/3Yt1Eha
+
+[2025-12-14 15:30:21](https://bsky.app/profile/japan.reuters.com/post/3m7wikkirgy2s)
+
+---
+
+@reuters.com
+
+Arsenal must improve defensively despite win over Wolves, says Arteta reut.rs/48Nbu2k
+
+[2025-12-14 15:30:16](https://bsky.app/profile/reuters.com/post/3m7wikfit6u2b)
+
+---
+
+@apnews.com
+
+ Myanmar’s military on Saturday acknowledged there was an airstrike on a hospital in the western state of Rakhine, which a local rescuer and media reports said killed more than 30 people, including patients, medical workers and children.
+
+[2025-12-14 15:30:12](https://bsky.app/profile/apnews.com/post/3m7wikboxdc23)
+
+---
 
 @apnews.com
 
@@ -92,41 +124,6 @@ Police in Tasmania say missing Belgian woman's phone found two years after her d
 Vissel Kobe appoint Skibbe to replace J-League winner Yoshida reut.rs/48DxyxC
 
 [2025-12-14 15:15:08](https://bsky.app/profile/reuters.com/post/3m7whpdknm42b)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】軽自動車が道路脇の水路に転落 80代女性が意識不明の重体
-(2025-12-14 15:00) #ニュース
-
-[2025-12-14 15:10:40](https://bsky.app/profile/sokuho.news/post/3m7whhdnusq2y)
-
----
-
-@reuters.com
-
-India tightens pollution curbs as Delhi's air quality worsens reut.rs/44nUz5c
-
-[2025-12-14 15:10:16](https://bsky.app/profile/reuters.com/post/3m7whgnffoo24)
-
----
-
-@reuters.com
-
-Thailand declares curfew along coast as Cambodia border fighting spreads reut.rs/4q6kVkr
-
-[2025-12-14 15:05:08](https://bsky.app/profile/reuters.com/post/3m7wh5hliad2s)
-
----
-
-@financialtimes.com
-
-How the ‘Brussels effect’ backfired on.ft.com/4iSNxLy
-
-[2025-12-14 15:01:02](https://bsky.app/profile/financialtimes.com/post/3m7wgw4pjwb2p)
 
 ---
 
