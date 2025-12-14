@@ -1,9 +1,9 @@
-# [2025-12-15 00:30 updated](2025_12_15.md)
+# [2025-12-15 00:50 updated](2025_12_15.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Cameron’s movies have collectively earned nearly $9 billion at the global box office.  Read more: www.forbes.com/sites/mattcr... (Photos: The Chosunilbo JNS/Imazins/Getty Images, Paramount/20th Century Fox/Orion Pictures/Newscom) <a href="https://bsky.app/profile/forbes.com/post/3m7xglg5zok2n" target="_blank">forbes.com</a> (2025-12-15 00:27:43)</span><span style="padding-right:50px;">James Cameron Is Now A Billionaire  With several titanic box office successes—and a third Avatar film expected to gross more than $2 billion—the Oscar-winning director is now in elite company in Hollywood.  Read more: www.forbes.com/sites/mattcr... (Photo: Joel Saget/AFP/Getty Images) <a href="https://bsky.app/profile/forbes.com/post/3m7xgi66hb22n" target="_blank">forbes.com</a> (2025-12-15 00:25:53)</span><span style="padding-right:50px;">James Cameron Is Now A Billionaire  Full story: www.forbes.com/sites/mattcr... <a href="https://bsky.app/profile/forbes.com/post/3m7xggokkmc2n" target="_blank">forbes.com</a> (2025-12-15 00:25:04)</span><span style="padding-right:50px;">We evaluated 84 conditioners and found five top picks, matched to the detangling and hydrating needs of different hair types. nyti.ms/3MqvsZc <a href="https://bsky.app/profile/nytimes.com/post/3m7xfwjyexo2r" target="_blank">nytimes.com</a> (2025-12-15 00:16:02)</span><span style="padding-right:50px;">Three Americans were killed over the weekend in central Syria — the first American casualties on Syrian soil since the fall of the dictator Bashar al-Assad last year. Here is what to know. <a href="https://bsky.app/profile/nytimes.com/post/3m7xfutzqce2y" target="_blank">nytimes.com</a> (2025-12-15 00:15:05)</span>
+<span style="padding-right:50px;">Villarreal LaLiga clash at Levante postponed after torrential rain warning reut.rs/4ag0Bs9 <a href="https://bsky.app/profile/reuters.com/post/3m7xhc4yrtq2x" target="_blank">reuters.com</a> (2025-12-15 00:40:24)</span><span style="padding-right:50px;">“It was just carnage.” Australian Jews had been gathering on Sunday on Bondi Beach in Sydney for an event to mark the first night of Hanukkah, when gunmen started firing directly into the crowd. <a href="https://bsky.app/profile/nytimes.com/post/3m7xgyjl4ua2e" target="_blank">nytimes.com</a> (2025-12-15 00:35:02)</span><span style="padding-right:50px;">The WWE career of John Cena is over as he falls to Gunther in his last match. Catch the recap of all the action from Saturday Night's Main Event. <a href="https://bsky.app/profile/usatoday.com/post/3m7xgq5l5w72f" target="_blank">usatoday.com</a> (2025-12-15 00:30:21)</span><span style="padding-right:50px;">Trump is in a slump, writes @niamalikah, and his party seems increasingly adrift (via Bloomberg Opinion)  <a href="https://bsky.app/profile/bloomberg.com/post/3m7xgptvynb2e" target="_blank">bloomberg.com</a> (2025-12-15 00:30:11)</span><span style="padding-right:50px;">Exclusive: A months-long congressional investigation accuses D.C. Police Chief Pamela A. Smith of incentivizing her subordinates to downplay crimes to maintain an illusion of a safer city, according to a report obtained by The Post. <a href="https://bsky.app/profile/washingtonpost.com/post/3m7xgpotd6z2d" target="_blank">washingtonpost.com</a> (2025-12-15 00:30:06)</span>
   </div>
 </div>
 
@@ -32,16 +32,73 @@
 
 ## News Headlines
 
-Here are six important news stories with headlines in Japanese:
+以下の6つのニュースのタイトルです。
 
-1. 俳優ジェームズ・キャメロン、億万長者に
-2. エイリアンに倒されるか！？ジェームズ・キャメロン監督が語るアバター3の秘密
-3. 美容品のヘアコンディショナーを比較　5つのランキングを発表
-4. シリアで米国人3人が殺害される　バシャール政権後初の米国人死者
-5. セキュリティーサービス会社が買収計画を進める
-6. スタートレックの「カルダス3世」がソフトバンクに買収されるか
+1. ラリーガのビジャレアル戦は台風警戒のため延期
+2. オーストラリアでユダヤ人を狙った銃撃事件　死者11人
+3. WWEのジョン・シナが引退
+4. ドナルド・トランプの党が大混乱　「衰退の兆候」
+5. FBIがブラウン大学銃撃事件の容疑者を逮捕
+6. 2025年のヘイズマン賞受賞者を発表
 
 ----
+
+@reuters.com
+
+Villarreal LaLiga clash at Levante postponed after torrential rain warning reut.rs/4ag0Bs9
+
+[2025-12-15 00:40:24](https://bsky.app/profile/reuters.com/post/3m7xhc4yrtq2x)
+
+---
+
+@nytimes.com
+
+“It was just carnage.” Australian Jews had been gathering on Sunday on Bondi Beach in Sydney for an event to mark the first night of Hanukkah, when gunmen started firing directly into the crowd.
+
+[2025-12-15 00:35:02](https://bsky.app/profile/nytimes.com/post/3m7xgyjl4ua2e)
+
+---
+
+@usatoday.com
+
+The WWE career of John Cena is over as he falls to Gunther in his last match. Catch the recap of all the action from Saturday Night's Main Event.
+
+[2025-12-15 00:30:21](https://bsky.app/profile/usatoday.com/post/3m7xgq5l5w72f)
+
+---
+
+@bloomberg.com
+
+Trump is in a slump, writes @niamalikah, and his party seems increasingly adrift (via Bloomberg Opinion) 
+
+[2025-12-15 00:30:11](https://bsky.app/profile/bloomberg.com/post/3m7xgptvynb2e)
+
+---
+
+@washingtonpost.com
+
+Exclusive: A months-long congressional investigation accuses D.C. Police Chief Pamela A. Smith of incentivizing her subordinates to downplay crimes to maintain an illusion of a safer city, according to a report obtained by The Post.
+
+[2025-12-15 00:30:06](https://bsky.app/profile/washingtonpost.com/post/3m7xgpotd6z2d)
+
+---
+
+@aljazeera.com
+
+Person of interest held in hunt for gunman who killed 2 at Brown University https://aje.io/bj42vq
+
+[2025-12-15 00:30:03](https://bsky.app/profile/aljazeera.com/post/3m7xgpm7b6h2p)
+
+---
+
+@cbsnews.com
+
+Musicologist Joe Bennett explains the common components of the most enduring Christmas songs, from "Jingle Bells" to "All I Want for Christmas Is You" – which inspires David Pogue to compose his own new holiday song.
+
+
+[2025-12-15 00:30:01](https://bsky.app/profile/cbsnews.com/post/3m7xgpkdxdq2b)
+
+---
 
 @forbes.com
 
@@ -72,63 +129,6 @@ James Cameron Is Now A Billionaire
 Full story: www.forbes.com/sites/mattcr...
 
 [2025-12-15 00:25:04](https://bsky.app/profile/forbes.com/post/3m7xggokkmc2n)
-
----
-
-@nytimes.com
-
-We evaluated 84 conditioners and found five top picks, matched to the detangling and hydrating needs of different hair types. nyti.ms/3MqvsZc
-
-[2025-12-15 00:16:02](https://bsky.app/profile/nytimes.com/post/3m7xfwjyexo2r)
-
----
-
-@nytimes.com
-
-Three Americans were killed over the weekend in central Syria — the first American casualties on Syrian soil since the fall of the dictator Bashar al-Assad last year. Here is what to know.
-
-[2025-12-15 00:15:05](https://bsky.app/profile/nytimes.com/post/3m7xfutzqce2y)
-
----
-
-@cnbc.com
-
-ServiceNow in talks to acquire cybersecurity startup Armis in potential $7 billion deal, Bloomberg reports
-
-[2025-12-15 00:12:39](https://bsky.app/profile/cnbc.com/post/3m7xfqidtfs2p)
-
----
-
-@reuters.com
-
-Shaw's four-goal haul powers Man City to 6-1 WSL home win over Villa reut.rs/4aaxJl7
-
-[2025-12-15 00:10:12](https://bsky.app/profile/reuters.com/post/3m7xfm46dtd23)
-
----
-
-@forbes.com
-
-The person of interest appears to be a man in his 30s, and it is unclear if they are affiliated with Brown University.
-
-[2025-12-15 00:10:04](https://bsky.app/profile/forbes.com/post/3m7xflv5yoy2w)
-
----
-
-@nhknewsunofficial.bsky.social
-
-Jリーグ 4クラブが欧州でのキャンプ実施に向け支援制度使用へ
-https://news.web.nhk/newsweb/na/na-k10015003871000
-
-[2025-12-15 00:06:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7xfevrvwl2k)
-
----
-
-@yahoofinance.com
-
-The US labor market ground to a halt in 2025. The risk in 2026 is that it 'cracks.'
-
-[2025-12-15 00:06:06](https://bsky.app/profile/yahoofinance.com/post/3m7xfers4wh26)
 
 ---
 
