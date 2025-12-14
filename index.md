@@ -1,9 +1,9 @@
-# [2025-12-14 18:50 updated](2025_12_14.md)
+# [2025-12-14 19:10 updated](2025_12_14.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">【大雪 交通影響】新千歳空港で欠航相次ぐ 旅客機が立ち往生も https://news.web.nhk/newsweb/na/na-k10015003511000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7wtm3ygfb2d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-14 18:48:02)</span><span style="padding-right:50px;">Two people are in custody, police say, after reports of gunshots and multiple injuries on Australia's Bondi Beach.   Follow live updates: https://cnn.it/4pyK5YZ <a href="https://bsky.app/profile/cnn.com/post/3m7wtigdfdj26" target="_blank">cnn.com</a> (2025-12-14 18:46:01)</span><span style="padding-right:50px;">１５日から始まる週の米株式市場は、雇用統計や消費者物価指数（ＣＰＩ）など政府機関閉鎖の影響で発表が遅れていた経済指標が相次いで公表され、国内経済の状況を見極める展開になりそうだ。 bit.ly/4pFpXEO <a href="https://bsky.app/profile/japan.reuters.com/post/3m7wtgwlbds2p" target="_blank">japan.reuters.com</a> (2025-12-14 18:45:11)</span><span style="padding-right:50px;">John Cena takes his final bow, after last ever WWE fight <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7wtan7awg26" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-14 18:41:39)</span><span style="padding-right:50px;">Police respond to shootings at Sydney’s Bondi Beach on.ft.com/4oXVUXM <a href="https://bsky.app/profile/financialtimes.com/post/3m7wt6v7yt52k" target="_blank">financialtimes.com</a> (2025-12-14 18:40:41)</span>
+<span style="padding-right:50px;">Australian police said on Sunday two people were in custody after reports of gunshots and injuries at Sydney’s Bondi Beach.  Follow live updates: https://cnn.it/3L2f9Br <a href="https://bsky.app/profile/cnn.com/post/3m7wurszveh2c" target="_blank">cnn.com</a> (2025-12-14 19:09:10)</span><span style="padding-right:50px;">オーストラリア シドニーで銃撃か 16人搬送 死者も 現地報道 https://news.web.nhk/newsweb/na/na-k10015003751000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7wumd62572b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-14 19:06:03)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】福岡市の商業施設で男女2人刺される 刺したとみられる男は逃走中 殺人未遂の疑いで行方を捜査 (2025-12-14 18:55) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7wulyirh22r" target="_blank">sokuho.news</a> (2025-12-14 19:05:54)</span><span style="padding-right:50px;">BREAKING: US special envoy Steve Witkoff and Jared Kushner have arrived in Berlin for talks aimed at ending the war in Ukraine. <a href="https://bsky.app/profile/apnews.com/post/3m7wuhcjmhh2k" target="_blank">apnews.com</a> (2025-12-14 19:03:17)</span><span style="padding-right:50px;">北九州 中学生殺傷事件から1年 44歳被告の精神鑑定の内容判明 https://news.web.nhk/newsweb/na/na-k10015003721000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7wugw4llc22" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-14 19:03:02)</span>
   </div>
 </div>
 
@@ -32,110 +32,108 @@
 
 ## News Headlines
 
-1. 交通影響で新千歳空港が混乱　欠航も相次ぐ
-2. オーストラリアの有名ビーチで銃撃　複数人けが
-3. 政府が新設メガソーラーなどの売電価格上乗せ廃止を決める
-4. シリアで米軍兵士2人・民間人1人殺害　イスラム国による犯行疑い
-5. ミャンマー　スー・チー氏の次男　都内で抗議活動に参加
-6. 福岡で男女2人刺される通報　両人搬送
+Here are six news headlines in Japanese:
+
+1. オーストラリア シドニーで銃撃か 16人搬送 死者も
+2. 福岡 “2人が刺されたようだ”と通報 男女2人搬送 意識あり
+3. スケート ショートトラック 五輪日本代表に9人が内定
+4. アメフト 甲子園ボウル 立命館大が2連覇 初の関西勢対戦制す
+5. オーストラリアの有名ビーチで銃撃、複数負傷か　2人拘束と発表
+6. 車いすラグビー日本選手権 東京の「BLITZ」が3連覇
 
 ----
 
-@nhknewsunofficial.bsky.social
-
-【大雪 交通影響】新千歳空港で欠航相次ぐ 旅客機が立ち往生も
-https://news.web.nhk/newsweb/na/na-k10015003511000
-
-[2025-12-14 18:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7wtm3ygfb2d)
-
----
-
 @cnn.com
 
-Two people are in custody, police say, after reports of gunshots and multiple injuries on Australia's Bondi Beach. 
+Australian police said on Sunday two people were in custody after reports of gunshots and injuries at Sydney’s Bondi Beach.
 
-Follow live updates: https://cnn.it/4pyK5YZ
+Follow live updates: https://cnn.it/3L2f9Br
 
-[2025-12-14 18:46:01](https://bsky.app/profile/cnn.com/post/3m7wtigdfdj26)
-
----
-
-@japan.reuters.com
-
-１５日から始まる週の米株式市場は、雇用統計や消費者物価指数（ＣＰＩ）など政府機関閉鎖の影響で発表が遅れていた経済指標が相次いで公表され、国内経済の状況を見極める展開になりそうだ。 bit.ly/4pFpXEO
-
-[2025-12-14 18:45:11](https://bsky.app/profile/japan.reuters.com/post/3m7wtgwlbds2p)
+[2025-12-14 19:09:10](https://bsky.app/profile/cnn.com/post/3m7wurszveh2c)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@nhknewsunofficial.bsky.social
 
-John Cena takes his final bow, after last ever WWE fight
+オーストラリア シドニーで銃撃か 16人搬送 死者も 現地報道
+https://news.web.nhk/newsweb/na/na-k10015003751000
 
-[2025-12-14 18:41:39](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7wtan7awg26)
+[2025-12-14 19:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7wumd62572b)
 
 ---
 
-@financialtimes.com
+@sokuho.news
 
-Police respond to shootings at Sydney’s Bondi Beach on.ft.com/4oXVUXM
+🛎️FNNより【速報】です。
 
-[2025-12-14 18:40:41](https://bsky.app/profile/financialtimes.com/post/3m7wt6v7yt52k)
+【速報】福岡市の商業施設で男女2人刺される 刺したとみられる男は逃走中 殺人未遂の疑いで行方を捜査
+(2025-12-14 18:55) #ニュース
+
+[2025-12-14 19:05:54](https://bsky.app/profile/sokuho.news/post/3m7wulyirh22r)
 
 ---
 
 @apnews.com
 
-<strong><span style="color: red;">BREAKING:</span> Two people  have been arrested after reports that several people were shot at Sydney’s Bondi Beach, police say.</strong>
+<strong><span style="color: red;">BREAKING:</span> US special envoy Steve Witkoff and Jared Kushner have arrived in Berlin for talks aimed at ending the war in Ukraine.</strong>
 
-[2025-12-14 18:39:15](https://bsky.app/profile/apnews.com/post/3m7wt4dhwpg2n)
-
----
-
-@nikkei.com
-
-オーストラリアの有名ビーチで銃撃、複数負傷か　2人拘束と発表（無料記事）
-www.nikkei.com/article/DGXZQO...
-
-#ニュース
-
-[2025-12-14 18:39:14](https://bsky.app/profile/nikkei.com/post/3m7wt4bzzkj24)
-
----
-
-@financialtimes.com
-
-Management scholars are making a case study of Christmas.
-
-Tap here for Tim Harford's take on the economics of seasonal serenity: on.ft.com/4aMGWAi
-
-[2025-12-14 18:39:05](https://bsky.app/profile/financialtimes.com/post/3m7wt3ztgi52o)
+[2025-12-14 19:03:17](https://bsky.app/profile/apnews.com/post/3m7wuhcjmhh2k)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-後発地震注意情報 “引き続き日頃の備えの確認を” 気象庁
-https://news.web.nhk/newsweb/na/na-k10015003311000
+北九州 中学生殺傷事件から1年 44歳被告の精神鑑定の内容判明
+https://news.web.nhk/newsweb/na/na-k10015003721000
 
-[2025-12-14 18:33:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7wsrcjkfi2s)
+[2025-12-14 19:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7wugw4llc22)
+
+---
+
+@wsj.com
+
+James Cameron hopes to light up the box office with ‘Avatar: Fire and Ash,’ ‘Fallout’ brings another season of postapocalyptic sci-fi to Prime Video, Dib Bangkok expands Thailand’s contemporary-art scene, and more. on.wsj.com/48CkcS7
+
+[2025-12-14 19:02:31](https://bsky.app/profile/wsj.com/post/3m7wufx32tg2u)
+
+---
+
+@reuters.com
+
+After fleeing fighting, Cambodian woman fears giving birth in border camp reut.rs/4pFFrZo
+
+[2025-12-14 19:00:38](https://bsky.app/profile/reuters.com/post/3m7wuckzlqo2y)
 
 ---
 
 @nikkei.com
 
-新設メガソーラーなどの売電価格上乗せ廃止、政府・自民が27年度にも（無料記事）
+ミャンマー特殊詐欺拠点、軍政がタイ国境で解体加速　アメリカの介入警戒
 www.nikkei.com/article/DGXZQO...
 
-補助金は再生可能エネルギーの普及を促すため2022年に導入されました。
+詐欺グループに監禁された中国人俳優や日本人の高校生が保護されるなど国際的に注目された地域です。
 
-太陽光パネルの設置コストなどは下がっており、なくても事業として成り立つとみています。
+掃討作戦で力を入れるのが大型拠点「KKパーク」と「シュエコッコ」。
 
-メガソーラーを巡っては、自然環境との調和が課題となっており増設を抑えます。
+2月ごろから取り締まりが進んでいたなか、ここにきて建物の破壊など強硬手段に出ました。
 
-#ニュース
+[2025-12-14 19:00:36](https://bsky.app/profile/nikkei.com/post/3m7wucikado2x)
 
-[2025-12-14 18:30:52](https://bsky.app/profile/nikkei.com/post/3m7wsnddm7f2x)
+---
+
+@apnews.com
+
+The overt demonization of immigrants and those with immigrant roots is intensifying in the U.K. — and across Europe — as migration shoots up the political agenda and right-wing parties gain popularity.
+
+[2025-12-14 19:00:12](https://bsky.app/profile/apnews.com/post/3m7wubrxgyt22)
+
+---
+
+@washingtonpost.com
+
+A year after touting the “historic realignment” of minority voters that powered him to a second term, President Trump’s multiracial coalition is slipping away. https://wapo.st/4aNcshz
+
+[2025-12-14 19:00:09](https://bsky.app/profile/washingtonpost.com/post/3m7wubpjx3s2p)
 
 ---
 
