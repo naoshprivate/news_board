@@ -1,9 +1,9 @@
-# [2025-12-14 17:50 updated](2025_12_14.md)
+# [2025-12-14 18:10 updated](2025_12_14.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🔴 BREAKING: Australia police responding after gunshots reported at Sydney’s Bondi Beach aje.io/e03zxp <a href="https://bsky.app/profile/aljazeera.com/post/3m7wq44genc2g" target="_blank">aljazeera.com</a> (2025-12-14 17:45:27)</span><span style="padding-right:50px;">男子ゴルフ 松山英樹 中高生ゴルファーにレッスン https://news.web.nhk/newsweb/na/na-k10015003621000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7wpw52ksh24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-14 17:42:04)</span><span style="padding-right:50px;">China urges stronger coordination between business and finance systems to spur consumption reut.rs/4rVX0pr <a href="https://bsky.app/profile/reuters.com/post/3m7wpsqwsnw2k" target="_blank">reuters.com</a> (2025-12-14 17:40:12)</span><span style="padding-right:50px;">Ukraine's president, with the help of his European allies, has carefully crafted a response to President Trump’s peace plan that essentially boils down to: Yes, but… <a href="https://bsky.app/profile/wsj.com/post/3m7wpgnyube2h" target="_blank">wsj.com</a> (2025-12-14 17:33:27)</span><span style="padding-right:50px;">US-Somalia deportations: He was an Uber driver in the US. Now he's scared of jihadists in Somalia <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7wpbvpwfl2y" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-14 17:30:47)</span>
+<span style="padding-right:50px;">Two in custody, reports of injuries after gunshots reported at Sydney's Bondi beach reut.rs/4oRng1q <a href="https://bsky.app/profile/reuters.com/post/3m7wr7chbkv2i" target="_blank">reuters.com</a> (2025-12-14 18:05:07)</span><span style="padding-right:50px;">【速報中】福岡 “2人が刺されたようだ”と通報 男女2人搬送 https://news.web.nhk/newsweb/na/na-k10015003661000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7wr3nlqgp2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-14 18:03:02)</span><span style="padding-right:50px;">家庭に眠る中古品91兆円　高品質｢Used in Japan｣に世界が注目 www.nikkei.com/article/DGXZQO...  損傷が少ない日本発の腕時計やバッグが世界市場をけん引し、海外では「日本の中古品」という言葉自体が価値の高さを示すように。  背景には、日本で古くから質屋を中心に中古品の流通が活発だった歴史があります。  近年はチェーン店が台頭し、正確かつ低コストで査定できる体制が整備されました。品質を担保する仕組みが持続的な人気を支えています。 <a href="https://bsky.app/profile/nikkei.com/post/3m7wqxa6de62m" target="_blank">nikkei.com</a> (2025-12-14 18:00:37)</span><span style="padding-right:50px;">The average American now holds onto their smartphone for 29 months, according to a recent survey and that cycle is getting longer.   While squeezing as much life out of your device as possible may save money in the short run, it might cost the economy in the long run. <a href="https://bsky.app/profile/cnbc.com/post/3m7wqxambqr2y" target="_blank">cnbc.com</a> (2025-12-14 18:00:37)</span><span style="padding-right:50px;">中国の不動産開発大手、万科企業は、１５日に期限を迎える国内社債の償還を１年間延長する案について、社債権者の支持を得られなかった。 bit.ly/44q28It <a href="https://bsky.app/profile/japan.reuters.com/post/3m7wqwwdxlq2c" target="_blank">japan.reuters.com</a> (2025-12-14 18:00:26)</span>
   </div>
 </div>
 
@@ -32,105 +32,105 @@
 
 ## News Headlines
 
-1.  シドニーで銃撃事件　警察の対応
-2.  松山英樹にレッスン　中高生ゴルファーと一流プロ
-3.  日中韓の保健相　非公開で会合
-4.  米ロードアイランド州大学で銃撃事件　学生2人死亡、8人重傷
-5.  トランプ大統領「共和党が下院の過半数維持できるか不透明」　経済政策の効果がまだ見られない
-6.  中国の中国人観光客が減り、関西の観光業界で懸念
+1. 2人が刺され福岡で男性と女性が搬送される
+2. 2人が刺されたと通報　福岡で男女2人搬送される
+3. 中古品91兆円　世界で注目される日本の「Used in Japan」
+4. 2人が死亡　ブラウン大学で銃撃事件
+5. 2人が刺されたと通報　福岡で男女2人搬送される
+6. 日中韓の保健相　非公開で会合　日中関係悪化に配慮の見方も
 
 ----
 
-@aljazeera.com
+@reuters.com
 
-<strong>🔴 <span style="color: red;">BREAKING:</span> Australia police responding after gunshots reported at Sydney’s Bondi Beach aje.io/e03zxp</strong>
+Two in custody, reports of injuries after gunshots reported at Sydney's Bondi beach reut.rs/4oRng1q
 
-[2025-12-14 17:45:27](https://bsky.app/profile/aljazeera.com/post/3m7wq44genc2g)
+[2025-12-14 18:05:07](https://bsky.app/profile/reuters.com/post/3m7wr7chbkv2i)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-男子ゴルフ 松山英樹 中高生ゴルファーにレッスン
-https://news.web.nhk/newsweb/na/na-k10015003621000
+【速報中】福岡 “2人が刺されたようだ”と通報 男女2人搬送
+https://news.web.nhk/newsweb/na/na-k10015003661000
 
-[2025-12-14 17:42:04](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7wpw52ksh24)
-
----
-
-@reuters.com
-
-China urges stronger coordination between business and finance systems to spur consumption reut.rs/4rVX0pr
-
-[2025-12-14 17:40:12](https://bsky.app/profile/reuters.com/post/3m7wpsqwsnw2k)
+[2025-12-14 18:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7wr3nlqgp2w)
 
 ---
 
-@wsj.com
+@nikkei.com
 
-Ukraine's president, with the help of his European allies, has carefully crafted a response to President Trump’s peace plan that essentially boils down to: Yes, but…
+家庭に眠る中古品91兆円　高品質｢Used in Japan｣に世界が注目
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-14 17:33:27](https://bsky.app/profile/wsj.com/post/3m7wpgnyube2h)
+損傷が少ない日本発の腕時計やバッグが世界市場をけん引し、海外では「日本の中古品」という言葉自体が価値の高さを示すように。
+
+背景には、日本で古くから質屋を中心に中古品の流通が活発だった歴史があります。
+
+近年はチェーン店が台頭し、正確かつ低コストで査定できる体制が整備されました。品質を担保する仕組みが持続的な人気を支えています。
+
+[2025-12-14 18:00:37](https://bsky.app/profile/nikkei.com/post/3m7wqxa6de62m)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@cnbc.com
 
-US-Somalia deportations: He was an Uber driver in the US. Now he's scared of jihadists in Somalia
+The average American now holds onto their smartphone for 29 months, according to a recent survey and that cycle is getting longer. 
 
-[2025-12-14 17:30:47](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7wpbvpwfl2y)
+While squeezing as much life out of your device as possible may save money in the short run, it might cost the economy in the long run.
 
----
-
-@apnews.com
-
-A Hong Kong court will deliver its verdict in the national security case of former pro-democracy newspaper founder Jimmy Lai on Monday.
-
-[2025-12-14 17:30:18](https://bsky.app/profile/apnews.com/post/3m7wpazy4662n)
+[2025-12-14 18:00:37](https://bsky.app/profile/cnbc.com/post/3m7wqxambqr2y)
 
 ---
 
 @japan.reuters.com
 
-トランプ米大統領は、自身の経済政策の一部がまだ完全に効果を発揮していないため、来年の中間選挙で共和党が下院の過半数を維持できるかどうか不透明だと述べた。 bit.ly/4abtBBm
+中国の不動産開発大手、万科企業は、１５日に期限を迎える国内社債の償還を１年間延長する案について、社債権者の支持を得られなかった。 bit.ly/44q28It
 
-[2025-12-14 17:30:17](https://bsky.app/profile/japan.reuters.com/post/3m7wpaz67ks2n)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Hollywood panics as Paramount-Netflix battle for Warner Bros
-
-[2025-12-14 17:28:07](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7wp557isv2r)
+[2025-12-14 18:00:26](https://bsky.app/profile/japan.reuters.com/post/3m7wqwwdxlq2c)
 
 ---
 
 @sokuho.news
 
-🔔防災科研より【強震モニタ】動画です。
+<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>【速報中】福岡 “2人が刺されたようだ”と通報 男女2人搬送</strong><br><strong>(2025-12-14 17:59:50) #ニュース</strong>
 
-震源:三陸沖, 深さ:10km
-マグニチュード:4.7, 最大震度:1
-📍https://www.google.com/maps?q=39.8,143.7&ll=39.8,143.7&z=7&t=h
-地震発生日時:2025-12-14 16:58頃
-(10倍速▶180s→18s) #地震
-
-[2025-12-14 17:02:26](https://bsky.app/profile/sokuho.news/post/3m7wnp7jf2l2b)
+[2025-12-14 18:00:12](https://bsky.app/profile/sokuho.news/post/3m7wqwiffre2r)
 
 ---
 
-@sokuho.news
+@washingtonpost.com
 
-🔔気象庁より【地震速報】です。
+President Trump said Rep. Ilhan Omar shouldn’t be allowed to be a congresswoman.
 
-16時58分頃、岩手県・宮城県で最大震度1の地震を観測しました。
-震源:三陸沖, 深さ:10km, 規模:M4.7
-この地震による津波の心配はありません。
-(2025-12-14 17:01:49) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/14/2025-12-14-16-58-16.html?xlarge_image=1
+Omar says Trump has a “creepy obsession” with her. “I’ve never been one to dwell on the words or attacks of bullies.”
 
-[2025-12-14 17:01:50](https://bsky.app/profile/sokuho.news/post/3m7wno5u4ia2x)
+[2025-12-14 18:00:10](https://bsky.app/profile/washingtonpost.com/post/3m7wqwgpmid2b)
+
+---
+
+@financialtimes.com
+
+'It makes sense to look respectable,' says Martin Wolf, the FT’s chief economics commentator. 'Human beings are very hierarchical. They work out very quickly if you matter or not.' on.ft.com/4rURNyl
+
+[2025-12-14 18:00:06](https://bsky.app/profile/financialtimes.com/post/3m7wqwdhl3623)
+
+---
+
+@aljazeera.com
+
+Brown University shooting: What we know so far https://aje.io/4t1geq
+
+[2025-12-14 18:00:04](https://bsky.app/profile/aljazeera.com/post/3m7wqwbmdio2d)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+愛子さま 千葉大学看護学部の創立50周年祝う式典に
+https://news.web.nhk/newsweb/na/na-k10015003681000
+
+[2025-12-14 18:00:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7wqwbo5jr2y)
 
 ---
 
