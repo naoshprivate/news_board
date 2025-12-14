@@ -1,9 +1,9 @@
-# [2025-12-14 17:30 updated](2025_12_14.md)
+# [2025-12-14 17:50 updated](2025_12_14.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Hollywood panics as Paramount-Netflix battle for Warner Bros <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7wp557isv2r" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-14 17:28:07)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:三陸沖, 深さ:10km マグニチュード:4.7, 最大震度:1 📍https://www.google.com/maps?q=39.8,143.7&ll=39.8,143.7&z=7&t=h 地震発生日時:2025-12-14 16:58頃 (10倍速▶180s→18s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m7wnp7jf2l2b" target="_blank">sokuho.news</a> (2025-12-14 17:02:26)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  16時58分頃、岩手県・宮城県で最大震度1の地震を観測しました。 震源:三陸沖, 深さ:10km, 規模:M4.7 この地震による津波の心配はありません。 (2025-12-14 17:01:49) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/14/2025-12-14-16-58-16.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3m7wno5u4ia2x" target="_blank">sokuho.news</a> (2025-12-14 17:01:50)</span><span style="padding-right:50px;">🛎️文春より【スクープ】です。  日テレがTOKIO松岡昌宏に謝罪を表明…国分太一「コンプラ違反で降板」問題に訪れた急展開にネットでは「これはすごい」と驚きの声 (2025-12-14 17:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7wnmjnw3r27" target="_blank">sokuho.news</a> (2025-12-14 17:00:56)</span><span style="padding-right:50px;">中国の渡航自粛要請1カ月　大阪の観光バス予約ゼロ www.nikkei.com/article/DGXZQO...  中国と経済的な結びつきが強い関西地域ではバスツアーやホテルのキャンセルが相次ぎ、百貨店の販売にも影響が出ています。  事態の長期化が避けられない状況となるなか、東北地方や北海道の観光業界でも懸念の声が広がってきました。 <a href="https://bsky.app/profile/nikkei.com/post/3m7wnmfesmb2i" target="_blank">nikkei.com</a> (2025-12-14 17:00:52)</span>
+<span style="padding-right:50px;">🔴 BREAKING: Australia police responding after gunshots reported at Sydney’s Bondi Beach aje.io/e03zxp <a href="https://bsky.app/profile/aljazeera.com/post/3m7wq44genc2g" target="_blank">aljazeera.com</a> (2025-12-14 17:45:27)</span><span style="padding-right:50px;">男子ゴルフ 松山英樹 中高生ゴルファーにレッスン https://news.web.nhk/newsweb/na/na-k10015003621000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7wpw52ksh24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-14 17:42:04)</span><span style="padding-right:50px;">China urges stronger coordination between business and finance systems to spur consumption reut.rs/4rVX0pr <a href="https://bsky.app/profile/reuters.com/post/3m7wpsqwsnw2k" target="_blank">reuters.com</a> (2025-12-14 17:40:12)</span><span style="padding-right:50px;">Ukraine's president, with the help of his European allies, has carefully crafted a response to President Trump’s peace plan that essentially boils down to: Yes, but… <a href="https://bsky.app/profile/wsj.com/post/3m7wpgnyube2h" target="_blank">wsj.com</a> (2025-12-14 17:33:27)</span><span style="padding-right:50px;">US-Somalia deportations: He was an Uber driver in the US. Now he's scared of jihadists in Somalia <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7wpbvpwfl2y" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-14 17:30:47)</span>
   </div>
 </div>
 
@@ -32,14 +32,71 @@
 
 ## News Headlines
 
-1.  ウォルト・ディズニーがパラマウントとネクストの両社に異議を唱える
-2.  日テレが松岡昌宏に謝罪を表明
-3.  大阪の観光バス予約がゼロに
-4.  米ロードアイランド州のブラウン大学で銃撃事件
-5.  中国人が外国車から中産車に移る
-6.  MLBのプレーオフでサンシャイン・タッカーがペンギンを逆転で破る
+1.  シドニーで銃撃事件　警察の対応
+2.  松山英樹にレッスン　中高生ゴルファーと一流プロ
+3.  日中韓の保健相　非公開で会合
+4.  米ロードアイランド州大学で銃撃事件　学生2人死亡、8人重傷
+5.  トランプ大統領「共和党が下院の過半数維持できるか不透明」　経済政策の効果がまだ見られない
+6.  中国の中国人観光客が減り、関西の観光業界で懸念
 
 ----
+
+@aljazeera.com
+
+<strong>🔴 <span style="color: red;">BREAKING:</span> Australia police responding after gunshots reported at Sydney’s Bondi Beach aje.io/e03zxp</strong>
+
+[2025-12-14 17:45:27](https://bsky.app/profile/aljazeera.com/post/3m7wq44genc2g)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+男子ゴルフ 松山英樹 中高生ゴルファーにレッスン
+https://news.web.nhk/newsweb/na/na-k10015003621000
+
+[2025-12-14 17:42:04](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7wpw52ksh24)
+
+---
+
+@reuters.com
+
+China urges stronger coordination between business and finance systems to spur consumption reut.rs/4rVX0pr
+
+[2025-12-14 17:40:12](https://bsky.app/profile/reuters.com/post/3m7wpsqwsnw2k)
+
+---
+
+@wsj.com
+
+Ukraine's president, with the help of his European allies, has carefully crafted a response to President Trump’s peace plan that essentially boils down to: Yes, but…
+
+[2025-12-14 17:33:27](https://bsky.app/profile/wsj.com/post/3m7wpgnyube2h)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+US-Somalia deportations: He was an Uber driver in the US. Now he's scared of jihadists in Somalia
+
+[2025-12-14 17:30:47](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7wpbvpwfl2y)
+
+---
+
+@apnews.com
+
+A Hong Kong court will deliver its verdict in the national security case of former pro-democracy newspaper founder Jimmy Lai on Monday.
+
+[2025-12-14 17:30:18](https://bsky.app/profile/apnews.com/post/3m7wpazy4662n)
+
+---
+
+@japan.reuters.com
+
+トランプ米大統領は、自身の経済政策の一部がまだ完全に効果を発揮していないため、来年の中間選挙で共和党が下院の過半数を維持できるかどうか不透明だと述べた。 bit.ly/4abtBBm
+
+[2025-12-14 17:30:17](https://bsky.app/profile/japan.reuters.com/post/3m7wpaz67ks2n)
+
+---
 
 @bbcnews-world-rss.bsky.social
 
@@ -74,90 +131,6 @@ Hollywood panics as Paramount-Netflix battle for Warner Bros
 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/14/2025-12-14-16-58-16.html?xlarge_image=1
 
 [2025-12-14 17:01:50](https://bsky.app/profile/sokuho.news/post/3m7wno5u4ia2x)
-
----
-
-@sokuho.news
-
-🛎️文春より【スクープ】です。
-
-日テレがTOKIO松岡昌宏に謝罪を表明…国分太一「コンプラ違反で降板」問題に訪れた急展開にネットでは「これはすごい」と驚きの声
-(2025-12-14 17:00) #ニュース
-
-[2025-12-14 17:00:56](https://bsky.app/profile/sokuho.news/post/3m7wnmjnw3r27)
-
----
-
-@nikkei.com
-
-中国の渡航自粛要請1カ月　大阪の観光バス予約ゼロ
-www.nikkei.com/article/DGXZQO...
-
-中国と経済的な結びつきが強い関西地域ではバスツアーやホテルのキャンセルが相次ぎ、百貨店の販売にも影響が出ています。
-
-事態の長期化が避けられない状況となるなか、東北地方や北海道の観光業界でも懸念の声が広がってきました。
-
-[2025-12-14 17:00:52](https://bsky.app/profile/nikkei.com/post/3m7wnmfesmb2i)
-
----
-
-@japan.reuters.com
-
-米ロードアイランド州プロビデンスのブラウン大学で１３日夜、銃撃事件が発生し、学生２人が死亡、８人が重傷を負った。もう１人も負傷した。当局が明らかにした。 bit.ly/4iZ65tR
-
-[2025-12-14 17:00:28](https://bsky.app/profile/japan.reuters.com/post/3m7wnlofsxc2n)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗
-
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像8🈡
-(2025-12-14 16:59:26) #緊急地震速報
-
-[2025-12-14 16:59:42](https://bsky.app/profile/sokuho.news/post/3m7wnkcpork2y)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗
-
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像6
-(2025-12-14 16:59:06) #緊急地震速報
-
-[2025-12-14 16:59:39](https://bsky.app/profile/sokuho.news/post/3m7wnka7vb22r)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗
-
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像5
-(2025-12-14 16:58:46) #緊急地震速報
-
-[2025-12-14 16:59:25](https://bsky.app/profile/sokuho.news/post/3m7wnjsk54b27)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗
-
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像4
-(2025-12-14 16:58:31) #緊急地震速報
-
-[2025-12-14 16:59:13](https://bsky.app/profile/sokuho.news/post/3m7wnjhn7s52b)
 
 ---
 
