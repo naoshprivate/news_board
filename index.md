@@ -1,9 +1,9 @@
-# [2025-12-15 01:30 updated](2025_12_15.md)
+# [2025-12-15 01:50 updated](2025_12_15.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">At least two of the Brown University students who were on campus when a deadly shooting unfolded there on Saturday have survived school shootings before. “What I’ve been feeling most is just, like, how dare this country allow this to happen to someone like me twice?” <a href="https://bsky.app/profile/nytimes.com/post/3m7xjxarvui2a" target="_blank">nytimes.com</a> (2025-12-15 01:28:01)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:能登半島沖, 深さ:10km マグニチュード:2.9, 最大震度:1 📍https://www.google.com/maps?q=37.1,136.6&ll=37.1,136.6&z=7&t=h 地震発生日時:2025-12-15 01:24頃 (10倍速▶120s→12s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m7xjx26wjy2b" target="_blank">sokuho.news</a> (2025-12-15 01:27:54)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  1時24分頃、石川県で最大震度1の地震を観測しました。 震源:能登半島沖, 深さ:10km, 規模:M2.9 この地震による津波の心配はありません。 (2025-12-15 01:27:27) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/15/2025-12-15-01-24-50.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3m7xjwctqha27" target="_blank">sokuho.news</a> (2025-12-15 01:27:29)</span><span style="padding-right:50px;">Over 10 dead after school bus accident in Colombia reut.rs/3L0mIbO <a href="https://bsky.app/profile/reuters.com/post/3m7xjs6jppp2s" target="_blank">reuters.com</a> (2025-12-15 01:25:10)</span><span style="padding-right:50px;">"Everyone from the family foodie to the pickiest eater adored it! It disappeared in moments." Swirls of honey and chile elevate this whipped ricotta. nyti.ms/48wWQ0n <a href="https://bsky.app/profile/nytimes.com/post/3m7xjryecrc2b" target="_blank">nytimes.com</a> (2025-12-15 01:25:04)</span>
+<span style="padding-right:50px;">Sunderland earn 1-0 win over Newcastle thanks to Woltemade own goal reut.rs/3MXuqnA <a href="https://bsky.app/profile/reuters.com/post/3m7xkvvemhi24" target="_blank">reuters.com</a> (2025-12-15 01:45:09)</span><span style="padding-right:50px;">An individual was in custody early Sunday in connection with a deadly shooting at Brown University, officials in Providence, Rhode Island, said. The attack on Saturday killed two students and injured nine others. Follow live updates. trib.al/m2UheP3 <a href="https://bsky.app/profile/nytimes.com/post/3m7xkvkqeoc2z" target="_blank">nytimes.com</a> (2025-12-15 01:44:58)</span><span style="padding-right:50px;">Man City keep pressure on Arsenal with 3-0 win at Palace reut.rs/4iZGIrG <a href="https://bsky.app/profile/reuters.com/post/3m7xkmzsm3r2x" target="_blank">reuters.com</a> (2025-12-15 01:40:12)</span><span style="padding-right:50px;">Rogers at the double as Villa hit back to win 3-2 at West Ham reut.rs/3YsXBl0 <a href="https://bsky.app/profile/reuters.com/post/3m7xkdy5cum2c" target="_blank">reuters.com</a> (2025-12-15 01:35:08)</span><span style="padding-right:50px;">"Saturday Night Live," hosted this week by Josh O’Connor and featuring the musical guest Lily Allen, satirized a news conference on Air Force One. Here’s an episode recap. <a href="https://bsky.app/profile/nytimes.com/post/3m7xkduf3t52y" target="_blank">nytimes.com</a> (2025-12-15 01:35:04)</span>
   </div>
 </div>
 
@@ -32,106 +32,96 @@
 
 ## News Headlines
 
-Here are six news headlines in Japanese:
+Here are six headlines in Japanese:
 
-1. 2つの学生が死亡　ブラウン大学で銃乱射事件
-2. カリフォルニアの火事で、隣の家が準備していないと、まさに自分が火事に巻き込まれる
-3. エジプト、クウェートの企業と航空燃料の取引で200億ドルを契約
-4. ロシアの資産を取り締まるEU、実際に実行に移す
-5. ミシガン大学のアスレチック部門、シカゴ大学のコーチがスキャンダルに関与しているとの調査
-6. ポーランドの山々で、狼、熊、ビーゼンが再び自由に生息
+1. 2人死亡　ブラウン大学で銃撃事件　学生2人が前にも銃撃事件に遭遇
+2. マンチェスター・シティがパレスに勝利　アーセナルとの首位争いを続ける
+3. バルセロナのレアル・ビジャレアル対レバンテの試合は豪雨により中止
+4. トランプ氏がザ・ドナルドJ・トランプ記念館を計画　家族とともに
+5. ウクライナ大統領が和平交渉に参加　ロシアとの対立は続く
+6. オーストラリアのシドニーでユダヤ人コミュニティが銃撃を受け、1人死亡
 
 ----
 
-@nytimes.com
-
-At least two of the Brown University students who were on campus when a deadly shooting unfolded there on Saturday have survived school shootings before. “What I’ve been feeling most is just, like, how dare this country allow this to happen to someone like me twice?”
-
-[2025-12-15 01:28:01](https://bsky.app/profile/nytimes.com/post/3m7xjxarvui2a)
-
----
-
-@sokuho.news
-
-🔔防災科研より【強震モニタ】動画です。
-
-震源:能登半島沖, 深さ:10km
-マグニチュード:2.9, 最大震度:1
-📍https://www.google.com/maps?q=37.1,136.6&ll=37.1,136.6&z=7&t=h
-地震発生日時:2025-12-15 01:24頃
-(10倍速▶120s→12s) #地震
-
-[2025-12-15 01:27:54](https://bsky.app/profile/sokuho.news/post/3m7xjx26wjy2b)
-
----
-
-@sokuho.news
-
-🔔気象庁より【地震速報】です。
-
-1時24分頃、石川県で最大震度1の地震を観測しました。
-震源:能登半島沖, 深さ:10km, 規模:M2.9
-この地震による津波の心配はありません。
-(2025-12-15 01:27:27) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/15/2025-12-15-01-24-50.html?xlarge_image=1
-
-[2025-12-15 01:27:29](https://bsky.app/profile/sokuho.news/post/3m7xjwctqha27)
-
----
-
 @reuters.com
 
-Over 10 dead after school bus accident in Colombia reut.rs/3L0mIbO
+Sunderland earn 1-0 win over Newcastle thanks to Woltemade own goal reut.rs/3MXuqnA
 
-[2025-12-15 01:25:10](https://bsky.app/profile/reuters.com/post/3m7xjs6jppp2s)
+[2025-12-15 01:45:09](https://bsky.app/profile/reuters.com/post/3m7xkvvemhi24)
 
 ---
 
 @nytimes.com
 
-"Everyone from the family foodie to the pickiest eater adored it! It disappeared in moments." Swirls of honey and chile elevate this whipped ricotta. nyti.ms/48wWQ0n
+An individual was in custody early Sunday in connection with a deadly shooting at Brown University, officials in Providence, Rhode Island, said. The attack on Saturday killed two students and injured nine others. Follow live updates. trib.al/m2UheP3
 
-[2025-12-15 01:25:04](https://bsky.app/profile/nytimes.com/post/3m7xjryecrc2b)
+[2025-12-15 01:44:58](https://bsky.app/profile/nytimes.com/post/3m7xkvkqeoc2z)
+
+---
+
+@reuters.com
+
+Man City keep pressure on Arsenal with 3-0 win at Palace reut.rs/4iZGIrG
+
+[2025-12-15 01:40:12](https://bsky.app/profile/reuters.com/post/3m7xkmzsm3r2x)
+
+---
+
+@reuters.com
+
+Rogers at the double as Villa hit back to win 3-2 at West Ham reut.rs/3YsXBl0
+
+[2025-12-15 01:35:08](https://bsky.app/profile/reuters.com/post/3m7xkdy5cum2c)
 
 ---
 
 @nytimes.com
 
-Brown University has canceled all remaining classes, exams, papers and projects for the rest of the fall semester, as it mourns two students who were killed in a campus shooting on Saturday, school officials said.
+"Saturday Night Live," hosted this week by Josh O’Connor and featuring the musical guest Lily Allen, satirized a news conference on Air Force One. Here’s an episode recap.
 
-[2025-12-15 01:20:05](https://bsky.app/profile/nytimes.com/post/3m7xjj37r7625)
-
----
-
-@cnn.com
-
-CNN's Angus Watson breaks down the moment a bystander attacked the Bondi Beach gunman in Sydney. The caught-on-camera moment shows the bystander taking the weapon from the shooter to defend the public.
-
-[2025-12-15 01:15:22](https://bsky.app/profile/cnn.com/post/3m7xjanxsqb2o)
+[2025-12-15 01:35:04](https://bsky.app/profile/nytimes.com/post/3m7xkduf3t52y)
 
 ---
 
-@reuters.com
+@forbes.com
 
-Egypt, Qatar's Al Mana Holding sign $200 million sustainable aviation fuel deal reut.rs/4oUd8oS
+The jackpot will grow again if no winner is selected on Monday night.
 
-[2025-12-15 01:15:14](https://bsky.app/profile/reuters.com/post/3m7xjafftlx2i)
-
----
-
-@financialtimes.com
-
- Brussels is finally flexing its muscle on Russian assets on.ft.com/3MyNIzK  | opinion
-
-[2025-12-15 01:12:48](https://bsky.app/profile/financialtimes.com/post/3m7xj42q2w42k)
+[2025-12-15 01:35:03](https://bsky.app/profile/forbes.com/post/3m7xkdtkfng2h)
 
 ---
 
-@reuters.com
+@usatoday.com
 
-Report: RHP Merrill Kelly returning to Arizona on 2-year, $40M deal reut.rs/3MHbGss
+Hanukkah is one of the most widely observed Jewish holidays. Here's when it will be this year.
 
-[2025-12-15 01:10:09](https://bsky.app/profile/reuters.com/post/3m7xixcjr2a2r)
+[2025-12-15 01:30:25](https://bsky.app/profile/usatoday.com/post/3m7xk3krtvd2q)
+
+---
+
+@washingtonpost.com
+
+It seems the raccoon might have a problem — and it’s not just drinking.
+
+The raccoon, famously known for its Nov. 29 drunken spree at a Virginia liquor store, is suspected of sneaking into multiple businesses in the same shopping center. 
+
+[2025-12-15 01:30:06](https://bsky.app/profile/washingtonpost.com/post/3m7xk2y53i225)
+
+---
+
+@bloomberg.com
+
+Forecasting researcher Philip Tetlock says there’s a better way to predict how AI will play out
+
+[2025-12-15 01:30:06](https://bsky.app/profile/bloomberg.com/post/3m7xk2ylyad2e)
+
+---
+
+@aljazeera.com
+
+Zelenskyy says willing to drop NATO membership bid ahead of peace talks https://aje.io/bicvyt
+
+[2025-12-15 01:30:03](https://bsky.app/profile/aljazeera.com/post/3m7xk2w2smk2v)
 
 ---
 
