@@ -1,9 +1,9 @@
-# [2025-12-15 02:30 updated](2025_12_15.md)
+# [2025-12-15 02:50 updated](2025_12_15.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Jimmy Lai, Hong Kong tycoon and democratic firebrand who stood up to China reut.rs/4oS2dvS <a href="https://bsky.app/profile/reuters.com/post/3m7xn5frrkm2r" target="_blank">reuters.com</a> (2025-12-15 02:25:08)</span><span style="padding-right:50px;">Tokyo Gas to steer more than half of overseas investments to US in next 3 years, CEO says reut.rs/4rWmnHH <a href="https://bsky.app/profile/reuters.com/post/3m7xmloynlf2k" target="_blank">reuters.com</a> (2025-12-15 02:15:14)</span><span style="padding-right:50px;">Snow fell across New York City overnight, picking up steadily in the early morning hours before beginning to taper off from the west around midmorning. The National Weather Service offices in New York and New Jersey issued winter weather advisories through Sunday afternoon. <a href="https://bsky.app/profile/nytimes.com/post/3m7xmldh44n2e" target="_blank">nytimes.com</a> (2025-12-15 02:15:02)</span><span style="padding-right:50px;">Jimmy Lai's supporters queue in Hong Kong overnight for verdict reut.rs/3MJ6Wm5 <a href="https://bsky.app/profile/reuters.com/post/3m7xmcoo3le2k" target="_blank">reuters.com</a> (2025-12-15 02:10:12)</span><span style="padding-right:50px;">Trump's Fed pick comes into focus, economic data backlog clears: What to watch this week <a href="https://bsky.app/profile/yahoofinance.com/post/3m7xm3dwgfw2f" target="_blank">yahoofinance.com</a> (2025-12-15 02:06:06)</span>
+<span style="padding-right:50px;">Syria arrests five suspects over shooting of US, Syrian troops in Palmyra reut.rs/4s20FlY <a href="https://bsky.app/profile/reuters.com/post/3m7xobetegf23" target="_blank">reuters.com</a> (2025-12-15 02:45:15)</span><span style="padding-right:50px;">Canucks put Elias Pettersson on IR, activate Marco Rossi reut.rs/4oPDRTD <a href="https://bsky.app/profile/reuters.com/post/3m7xnyfh54v23" target="_blank">reuters.com</a> (2025-12-15 02:40:14)</span><span style="padding-right:50px;">Steelers TE Darnell Washington clears concussion protocol reut.rs/48CaQpx <a href="https://bsky.app/profile/reuters.com/post/3m7xnpdh74n23" target="_blank">reuters.com</a> (2025-12-15 02:35:10)</span><span style="padding-right:50px;">Many of crypto’s top players trooped to Abu Dhabi, hoping to score deals with deep-pocketed Emirati investors who could inject fresh vigor into the industry. <a href="https://bsky.app/profile/wsj.com/post/3m7xnnimaew23" target="_blank">wsj.com</a> (2025-12-15 02:34:08)</span><span style="padding-right:50px;">New England teams embrace Brown after fatal on-campus mass shooting reut.rs/3KvTL7B <a href="https://bsky.app/profile/reuters.com/post/3m7xnhceayq2y" target="_blank">reuters.com</a> (2025-12-15 02:30:40)</span>
   </div>
 </div>
 
@@ -30,96 +30,85 @@
 
 ---
 
-## News Headlines
-
-Here are six important stories with Japanese headlines:
-
-1. ホンコンの実業家ライが銃撃事件で判決待ちの支持者に激励の言葉
-2. トランプ候補者が注目される　経済データバックロードが解消
-3. ニューヨーク市で初の雪が降り始めた　気象庁が警戒
-4. ブラウン大学銃撃事件　犠牲者が2人、9人けが　警察が容疑者を逮捕
-5. ロシア・ウクライナ戦争で小型ドローンが戦場を襲う　米国が新たな「NRA」計画
-6. ブラウン大学銃撃事件　生存者が「自分に痛みを預けろ」と話した教師の心の叫び
-
-----
-
 @reuters.com
 
-Jimmy Lai, Hong Kong tycoon and democratic firebrand who stood up to China reut.rs/4oS2dvS
+Syria arrests five suspects over shooting of US, Syrian troops in Palmyra reut.rs/4s20FlY
 
-[2025-12-15 02:25:08](https://bsky.app/profile/reuters.com/post/3m7xn5frrkm2r)
+[2025-12-15 02:45:15](https://bsky.app/profile/reuters.com/post/3m7xobetegf23)
 
 ---
 
 @reuters.com
 
-Tokyo Gas to steer more than half of overseas investments to US in next 3 years, CEO says reut.rs/4rWmnHH
+Canucks put Elias Pettersson on IR, activate Marco Rossi reut.rs/4oPDRTD
 
-[2025-12-15 02:15:14](https://bsky.app/profile/reuters.com/post/3m7xmloynlf2k)
-
----
-
-@nytimes.com
-
-Snow fell across New York City overnight, picking up steadily in the early morning hours before beginning to taper off from the west around midmorning. The National Weather Service offices in New York and New Jersey issued winter weather advisories through Sunday afternoon.
-
-[2025-12-15 02:15:02](https://bsky.app/profile/nytimes.com/post/3m7xmldh44n2e)
+[2025-12-15 02:40:14](https://bsky.app/profile/reuters.com/post/3m7xnyfh54v23)
 
 ---
 
 @reuters.com
 
-Jimmy Lai's supporters queue in Hong Kong overnight for verdict reut.rs/3MJ6Wm5
+Steelers TE Darnell Washington clears concussion protocol reut.rs/48CaQpx
 
-[2025-12-15 02:10:12](https://bsky.app/profile/reuters.com/post/3m7xmcoo3le2k)
-
----
-
-@yahoofinance.com
-
-Trump's Fed pick comes into focus, economic data backlog clears: What to watch this week
-
-[2025-12-15 02:06:06](https://bsky.app/profile/yahoofinance.com/post/3m7xm3dwgfw2f)
-
----
-
-@reuters.com
-
-Ten-man Dortmund squander lead to stumble to 1-1 draw at Freiburg reut.rs/3YpWrGS
-
-[2025-12-15 02:05:09](https://bsky.app/profile/reuters.com/post/3m7xlznjbrf2r)
-
----
-
-@nytimes.com
-
-“I just remember a bunch of people started screaming.” An 18-year-old who was shot in the leg at Brown University on Saturday afternoon described the moment that shots rang out in a classroom where students had gathered to prepare for an economics exam. nyti.ms/48FrxAo
-
-[2025-12-15 02:05:04](https://bsky.app/profile/nytimes.com/post/3m7xlzitiis2e)
+[2025-12-15 02:35:10](https://bsky.app/profile/reuters.com/post/3m7xnpdh74n23)
 
 ---
 
 @wsj.com
 
-One music manager described a holiday hit as a ‘little ATM machine.’ on.wsj.com/4sdQRW7
+Many of crypto’s top players trooped to Abu Dhabi, hoping to score deals with deep-pocketed Emirati investors who could inject fresh vigor into the industry.
 
-[2025-12-15 02:04:05](https://bsky.app/profile/wsj.com/post/3m7xlxqorhm2r)
+[2025-12-15 02:34:08](https://bsky.app/profile/wsj.com/post/3m7xnnimaew23)
 
 ---
 
 @reuters.com
 
-Hanukkah security ramped up around world after Bondi shootings reut.rs/4oYjcNc
+New England teams embrace Brown after fatal on-campus mass shooting reut.rs/3KvTL7B
 
-[2025-12-15 02:00:57](https://bsky.app/profile/reuters.com/post/3m7xls5asgi2y)
+[2025-12-15 02:30:40](https://bsky.app/profile/reuters.com/post/3m7xnhceayq2y)
 
 ---
 
 @usatoday.com
 
-Trump's foes and friends have noticed a revival of the term, which advocates say is harmful to Americans with mental disabilities.
+Which is the better investment, stocks or a home? Answers here.
 
-[2025-12-15 02:00:55](https://bsky.app/profile/usatoday.com/post/3m7xls3zvaf2f)
+[2025-12-15 02:30:22](https://bsky.app/profile/usatoday.com/post/3m7xngqvrxl25)
+
+---
+
+@bloomberg.com
+
+🧩 Alphadots, Bloomberg’s daily word game with a plot twist, is live. Test your skills with a new puzzle every day. Play now: 
+
+[2025-12-15 02:30:20](https://bsky.app/profile/bloomberg.com/post/3m7xngowqk62u)
+
+---
+
+@washingtonpost.com
+
+Throughout this SNL season, James Austin Johnson has played Trump as too exhausted to function, and this cold open was no different.
+
+As Josh O’Connor hosted for the first time, SNL returned to a familiar setup: the Trump news conference.
+
+[2025-12-15 02:30:06](https://bsky.app/profile/washingtonpost.com/post/3m7xngbslwt2y)
+
+---
+
+@nytimes.com
+
+News Analysis: When a lone gunman that President Trump said was linked to the Islamic State killed three Americans in central Syria on Saturday, it laid bare the mounting security challenges and precarious state of affairs confronting the country’s new leader, Ahmed al-Sharaa.
+
+[2025-12-15 02:30:04](https://bsky.app/profile/nytimes.com/post/3m7xng7yugd26)
+
+---
+
+@aljazeera.com
+
+Countries from New Zealand to Iran denounce mass shooting in Australia.
+
+[2025-12-15 02:30:03](https://bsky.app/profile/aljazeera.com/post/3m7xng7bzmt2e)
 
 ---
 
