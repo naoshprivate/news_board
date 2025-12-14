@@ -1,9 +1,9 @@
-# [2025-12-15 05:10 updated](2025_12_15.md)
+# [2025-12-15 05:30 updated](2025_12_15.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">北海道で猛吹雪 大雪・暴風による交通影響に警戒を https://news.web.nhk/newsweb/na/na-k10015003851000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7xwcjlwdu2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 05:09:02)</span><span style="padding-right:50px;">Wall Street strategists are divided over valuations <a href="https://bsky.app/profile/yahoofinance.com/post/3m7xw57edfc2y" target="_blank">yahoofinance.com</a> (2025-12-15 05:06:05)</span><span style="padding-right:50px;">福岡 2人刺された事件 逃げた男の行方を捜査 殺人未遂の疑い https://news.web.nhk/newsweb/na/na-k10015003921000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7xw563afm26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 05:06:02)</span><span style="padding-right:50px;">St Mirren stun Celtic 3-1 to win Scottish League Cup reut.rs/4qepNEh <a href="https://bsky.app/profile/reuters.com/post/3m7xw3l2adi2x" target="_blank">reuters.com</a> (2025-12-15 05:05:10)</span><span style="padding-right:50px;">Belarus freed scores of prisoners after a U.S. diplomat said some sanctions would be lifted on the country in a sign of a thaw between Washington and President Alexander Lukashenko, a close ally of Russian leader Vladimir Putin. <a href="https://bsky.app/profile/wsj.com/post/3m7xvxkwfma2u" target="_blank">wsj.com</a> (2025-12-15 05:02:56)</span>
+<span style="padding-right:50px;">The death toll of Sunday’s shooting at a Hanukkah celebration at Australia’s Bondi Beach rose to 16, officials said, designating the attack as a terror incident that targeted the city’s Jewish community.   Forty people were hospitalized. <a href="https://bsky.app/profile/washingtonpost.com/post/3m7xxfihyrh2d" target="_blank">washingtonpost.com</a> (2025-12-15 05:28:37)</span><span style="padding-right:50px;">Flash floods kill seven people in Morocco's Safi reut.rs/3MLS7zf <a href="https://bsky.app/profile/reuters.com/post/3m7xx77xtb72b" target="_blank">reuters.com</a> (2025-12-15 05:25:07)</span><span style="padding-right:50px;">Martha Stewart knows how to throw a great party, so we sat down with the legendary hostess to ask her how she does it. She's sharing the kitchen gear she's deemed worth investing in, how to design on-theme tablescapes, and why she doesn’t want to taste your homemade jam. <a href="https://bsky.app/profile/nytimes.com/post/3m7xx75qt3u2z" target="_blank">nytimes.com</a> (2025-12-15 05:25:05)</span><span style="padding-right:50px;">自民 防衛装備品移転の運用指針の見直し 論点整理 議論へ https://news.web.nhk/newsweb/na/na-k10015003811000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7xx5eznsp2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 05:24:03)</span><span style="padding-right:50px;">Exclusive: Despite decent performance, Armistice Capital plans to give clients shares in new investment vehicle in lieu of cash—again. <a href="https://bsky.app/profile/wsj.com/post/3m7xwwxxmme2s" target="_blank">wsj.com</a> (2025-12-15 05:20:30)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.81 (🔺0.13 : 2025-12-14)</span>
+<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.80 (🔺0.13 : 2025-12-14)</span>
   </div>
 </div>
 
@@ -32,94 +32,102 @@
 
 ## News Headlines
 
-1. 北海道で猛吹雪が続く
-2. 福岡　刺殺事件の犯人を捜査中
-3. スコットランドのカップ戦でサンダーランが勝利
-4. ベラルーシ　米国の懲罰措置の緩和に伴い、数十人の囚人が釈放
-5. 石川県で地震　最大震度3
-6. オーストラリアのビーチで銃撃事件　死者16人以上
+Here are six headlines in Japanese:
+
+1. シドニー銃撃事件　16人死亡　ユダヤ系住民狙ったテロとして捜査
+2. 総理府　防衛装備品移転の運用指針の見直し　論点整理　議論へ
+3. スピードスケートW杯　吉田雪乃が今季初優勝
+4. 北海道　猛吹雪　大雪・暴風による交通影響に警戒を
+5. ストミレンがセルティックを3-1で倒しスコティッシュリーグカップを制す
+6. ベラルーシ　米国との関係改善のため数百人の囚人を釈放
 
 ----
 
-@nhknewsunofficial.bsky.social
+@washingtonpost.com
 
-北海道で猛吹雪 大雪・暴風による交通影響に警戒を
-https://news.web.nhk/newsweb/na/na-k10015003851000
+The death toll of Sunday’s shooting at a Hanukkah celebration at Australia’s Bondi Beach rose to 16, officials said, designating the attack as a terror incident that targeted the city’s Jewish community. 
 
-[2025-12-15 05:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7xwcjlwdu2m)
+Forty people were hospitalized.
 
----
-
-@yahoofinance.com
-
-Wall Street strategists are divided over valuations
-
-[2025-12-15 05:06:05](https://bsky.app/profile/yahoofinance.com/post/3m7xw57edfc2y)
-
----
-
-@nhknewsunofficial.bsky.social
-
-福岡 2人刺された事件 逃げた男の行方を捜査 殺人未遂の疑い
-https://news.web.nhk/newsweb/na/na-k10015003921000
-
-[2025-12-15 05:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7xw563afm26)
+[2025-12-15 05:28:37](https://bsky.app/profile/washingtonpost.com/post/3m7xxfihyrh2d)
 
 ---
 
 @reuters.com
 
-St Mirren stun Celtic 3-1 to win Scottish League Cup reut.rs/4qepNEh
+Flash floods kill seven people in Morocco's Safi reut.rs/3MLS7zf
 
-[2025-12-15 05:05:10](https://bsky.app/profile/reuters.com/post/3m7xw3l2adi2x)
+[2025-12-15 05:25:07](https://bsky.app/profile/reuters.com/post/3m7xx77xtb72b)
+
+---
+
+@nytimes.com
+
+Martha Stewart knows how to throw a great party, so we sat down with the legendary hostess to ask her how she does it. She's sharing the kitchen gear she's deemed worth investing in, how to design on-theme tablescapes, and why she doesn’t want to taste your homemade jam.
+
+[2025-12-15 05:25:05](https://bsky.app/profile/nytimes.com/post/3m7xx75qt3u2z)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+自民 防衛装備品移転の運用指針の見直し 論点整理 議論へ
+https://news.web.nhk/newsweb/na/na-k10015003811000
+
+[2025-12-15 05:24:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7xx5eznsp2b)
 
 ---
 
 @wsj.com
 
-Belarus freed scores of prisoners after a U.S. diplomat said some sanctions would be lifted on the country in a sign of a thaw between Washington and President Alexander Lukashenko, a close ally of Russian leader Vladimir Putin.
+Exclusive: Despite decent performance, Armistice Capital plans to give clients shares in new investment vehicle in lieu of cash—again.
 
-[2025-12-15 05:02:56](https://bsky.app/profile/wsj.com/post/3m7xvxkwfma2u)
-
----
-
-@usatoday.com
-
-The Trump administration proposed cuts for state-based legal services for disabled people, as rights advocates say DOJ pushed out many of its lawyers.
-
-[2025-12-15 05:00:49](https://bsky.app/profile/usatoday.com/post/3m7xvtryqr62o)
+[2025-12-15 05:20:30](https://bsky.app/profile/wsj.com/post/3m7xwwxxmme2s)
 
 ---
 
-@apnews.com
+@en.afp.com
 
-The warm scents of gingerbread and pine are holiday favorites, but experts warn they can affect indoor air quality.
+⚽ Star forward Mohamed Salah will be out of sight but not out of mind over the next few weeks while Manchester City are showing ominous signs that they are finding top gear in the Premier League. AFP Sport looks at three talking points from the weekend's action
 
-[2025-12-15 05:00:33](https://bsky.app/profile/apnews.com/post/3m7xvtbwez423)
+u.afp.com/S7EZ
+
+[2025-12-15 05:20:22](https://bsky.app/profile/en.afp.com/post/3m7xwwpxcyp2v)
 
 ---
 
-@bloomberg.com
+@nhknewsunofficial.bsky.social
 
-A wave of new books are all asking the same question: What went wrong with capitalism — and how do we fix it?
+シドニー銃撃事件 16人死亡 ユダヤ系住民狙ったテロとして捜査
+https://news.web.nhk/newsweb/na/na-k10015003751000
 
-[2025-12-15 05:00:20](https://bsky.app/profile/bloomberg.com/post/3m7xvsvka522h)
+[2025-12-15 05:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7xwsmwfkj24)
+
+---
+
+@nytimes.com
+
+Strands is a word search with a unique twist. Can you uncover the theme? Play here: trib.al/6yWIfz4
+
+[2025-12-15 05:15:23](https://bsky.app/profile/nytimes.com/post/3m7xwnsukgc22)
+
+---
+
+@reuters.com
+
+Death toll climbs to 16 after mass shooting at Sydney's Bondi Beach reut.rs/4ahkZcr
+
+[2025-12-15 05:15:13](https://bsky.app/profile/reuters.com/post/3m7xwnjizeb2x)
 
 ---
 
 @washingtonpost.com
 
-President Trump’s executive order limiting states’ power to regulate AI split his supporters and highlighted Silicon Valley’s growing influence over his agenda.
+One Brown University student has been discharged from the hospital, another is in critical but stable condition, and seven others are in stable condition, Providence Mayor Brett Smiley said after he met with students in the hospital Sunday.
 
-[2025-12-15 05:00:15](https://bsky.app/profile/washingtonpost.com/post/3m7xvsrfnur2p)
+Read more here:
 
----
-
-@aljazeera.com
-
-Media mogul Lai was arrested in 2020 under a national security law imposed by China.
-
-[2025-12-15 05:00:03](https://bsky.app/profile/aljazeera.com/post/3m7xvsftg4p22)
+[2025-12-15 05:13:38](https://bsky.app/profile/washingtonpost.com/post/3m7xwkorq6s2g)
 
 ---
 
