@@ -1,9 +1,9 @@
-# [2025-12-14 18:30 updated](2025_12_14.md)
+# [2025-12-14 18:50 updated](2025_12_14.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】福岡市で「傷害事件でけが人」と通報 40代男性と20代女性を病院に搬送 消防 (2025年12月14日 18:27) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7wsgvf6f627" target="_blank">sokuho.news</a> (2025-12-14 18:27:16)</span><span style="padding-right:50px;">青森 地震 専門家 “プレート境界にひずみ 特に東側に注意” https://news.web.nhk/newsweb/na/na-k10015003701000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ws3xkpjc2y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-14 18:21:07)</span><span style="padding-right:50px;">千葉 銚子 釣りの男性 海に転落 1人不明 15日朝から捜索再開へ https://news.web.nhk/newsweb/na/na-k10015003541000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ws3tjkqi22" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-14 18:21:02)</span><span style="padding-right:50px;">米軍によると、シリアで１３日、米陸軍兵士２人と民間人の通訳１人が殺害された。過激派組織「イスラム国」（ＩＳ）による犯行が疑われている。 bit.ly/3MtrfUN <a href="https://bsky.app/profile/japan.reuters.com/post/3m7wrrb2e2525" target="_blank">japan.reuters.com</a> (2025-12-14 18:15:10)</span><span style="padding-right:50px;">車いすラグビー日本選手権 東京の「BLITZ」が3連覇 https://news.web.nhk/newsweb/na/na-k10015003691000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7wrrbn2tj2l" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-14 18:15:08)</span>
+<span style="padding-right:50px;">【大雪 交通影響】新千歳空港で欠航相次ぐ 旅客機が立ち往生も https://news.web.nhk/newsweb/na/na-k10015003511000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7wtm3ygfb2d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-14 18:48:02)</span><span style="padding-right:50px;">Two people are in custody, police say, after reports of gunshots and multiple injuries on Australia's Bondi Beach.   Follow live updates: https://cnn.it/4pyK5YZ <a href="https://bsky.app/profile/cnn.com/post/3m7wtigdfdj26" target="_blank">cnn.com</a> (2025-12-14 18:46:01)</span><span style="padding-right:50px;">１５日から始まる週の米株式市場は、雇用統計や消費者物価指数（ＣＰＩ）など政府機関閉鎖の影響で発表が遅れていた経済指標が相次いで公表され、国内経済の状況を見極める展開になりそうだ。 bit.ly/4pFpXEO <a href="https://bsky.app/profile/japan.reuters.com/post/3m7wtgwlbds2p" target="_blank">japan.reuters.com</a> (2025-12-14 18:45:11)</span><span style="padding-right:50px;">John Cena takes his final bow, after last ever WWE fight <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7wtan7awg26" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-14 18:41:39)</span><span style="padding-right:50px;">Police respond to shootings at Sydney’s Bondi Beach on.ft.com/4oXVUXM <a href="https://bsky.app/profile/financialtimes.com/post/3m7wt6v7yt52k" target="_blank">financialtimes.com</a> (2025-12-14 18:40:41)</span>
   </div>
 </div>
 
@@ -32,107 +32,110 @@
 
 ## News Headlines
 
-1.  🛎️福岡市で「傷害事件でけが人」と通報
-2.  青森地震　専門家「プレート境界にひずみ　特に東側に注意」
-3.  千葉「銚子」の釣り男性　海に転落　1人不明　15日朝から捜索再開へ
-4.  米軍　シリアで米兵士2人と通訳1人が殺害　過激派組織ISが関与
-5.  車いすラグビー日本選手権　東京の「BLITZ」が3連覇
-6.  ミャンマー　スー・チー氏の次男　都内での抗議活動に参加
+1. 交通影響で新千歳空港が混乱　欠航も相次ぐ
+2. オーストラリアの有名ビーチで銃撃　複数人けが
+3. 政府が新設メガソーラーなどの売電価格上乗せ廃止を決める
+4. シリアで米軍兵士2人・民間人1人殺害　イスラム国による犯行疑い
+5. ミャンマー　スー・チー氏の次男　都内で抗議活動に参加
+6. 福岡で男女2人刺される通報　両人搬送
 
 ----
 
-@sokuho.news
+@nhknewsunofficial.bsky.social
 
-🔔ANNより【速報】です。
+【大雪 交通影響】新千歳空港で欠航相次ぐ 旅客機が立ち往生も
+https://news.web.nhk/newsweb/na/na-k10015003511000
 
-【速報】福岡市で「傷害事件でけが人」と通報 40代男性と20代女性を病院に搬送 消防
-(2025年12月14日 18:27) #ニュース
-
-[2025-12-14 18:27:16](https://bsky.app/profile/sokuho.news/post/3m7wsgvf6f627)
+[2025-12-14 18:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7wtm3ygfb2d)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@cnn.com
 
-青森 地震 専門家 “プレート境界にひずみ 特に東側に注意”
-https://news.web.nhk/newsweb/na/na-k10015003701000
+Two people are in custody, police say, after reports of gunshots and multiple injuries on Australia's Bondi Beach. 
 
-[2025-12-14 18:21:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ws3xkpjc2y)
+Follow live updates: https://cnn.it/4pyK5YZ
 
----
-
-@nhknewsunofficial.bsky.social
-
-千葉 銚子 釣りの男性 海に転落 1人不明 15日朝から捜索再開へ
-https://news.web.nhk/newsweb/na/na-k10015003541000
-
-[2025-12-14 18:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ws3tjkqi22)
+[2025-12-14 18:46:01](https://bsky.app/profile/cnn.com/post/3m7wtigdfdj26)
 
 ---
 
 @japan.reuters.com
 
-米軍によると、シリアで１３日、米陸軍兵士２人と民間人の通訳１人が殺害された。過激派組織「イスラム国」（ＩＳ）による犯行が疑われている。 bit.ly/3MtrfUN
+１５日から始まる週の米株式市場は、雇用統計や消費者物価指数（ＣＰＩ）など政府機関閉鎖の影響で発表が遅れていた経済指標が相次いで公表され、国内経済の状況を見極める展開になりそうだ。 bit.ly/4pFpXEO
 
-[2025-12-14 18:15:10](https://bsky.app/profile/japan.reuters.com/post/3m7wrrb2e2525)
-
----
-
-@nhknewsunofficial.bsky.social
-
-車いすラグビー日本選手権 東京の「BLITZ」が3連覇
-https://news.web.nhk/newsweb/na/na-k10015003691000
-
-[2025-12-14 18:15:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7wrrbn2tj2l)
+[2025-12-14 18:45:11](https://bsky.app/profile/japan.reuters.com/post/3m7wtgwlbds2p)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@bbcnews-world-rss.bsky.social
 
-ミャンマー スー・チー氏の次男 都内での抗議活動に参加
-https://news.web.nhk/newsweb/na/na-k10015003671000
+John Cena takes his final bow, after last ever WWE fight
 
-[2025-12-14 18:15:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7wrr4vy6i2d)
-
----
-
-@aljazeera.com
-
-<strong><span style="color: red;">BREAKING:</span> Police in Australia say they are responding to a developing incident at Sydney’s Bondi Beach after media outlets reported a shooting incident.</strong>
-
-[2025-12-14 18:12:06](https://bsky.app/profile/aljazeera.com/post/3m7wrls3hzs2g)
+[2025-12-14 18:41:39](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7wtan7awg26)
 
 ---
 
-@reuters.com
+@financialtimes.com
 
-Two in custody, reports of injuries after gunshots reported at Sydney's Bondi beach reut.rs/4oRng1q
+Police respond to shootings at Sydney’s Bondi Beach on.ft.com/4oXVUXM
 
-[2025-12-14 18:05:07](https://bsky.app/profile/reuters.com/post/3m7wr7chbkv2i)
+[2025-12-14 18:40:41](https://bsky.app/profile/financialtimes.com/post/3m7wt6v7yt52k)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@apnews.com
 
-【速報中】福岡 “2人が刺されたようだ”と通報 男女2人搬送
-https://news.web.nhk/newsweb/na/na-k10015003661000
+<strong><span style="color: red;">BREAKING:</span> Two people  have been arrested after reports that several people were shot at Sydney’s Bondi Beach, police say.</strong>
 
-[2025-12-14 18:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7wr3nlqgp2w)
+[2025-12-14 18:39:15](https://bsky.app/profile/apnews.com/post/3m7wt4dhwpg2n)
 
 ---
 
 @nikkei.com
 
-家庭に眠る中古品91兆円　高品質｢Used in Japan｣に世界が注目
+オーストラリアの有名ビーチで銃撃、複数負傷か　2人拘束と発表（無料記事）
 www.nikkei.com/article/DGXZQO...
 
-損傷が少ない日本発の腕時計やバッグが世界市場をけん引し、海外では「日本の中古品」という言葉自体が価値の高さを示すように。
+#ニュース
 
-背景には、日本で古くから質屋を中心に中古品の流通が活発だった歴史があります。
+[2025-12-14 18:39:14](https://bsky.app/profile/nikkei.com/post/3m7wt4bzzkj24)
 
-近年はチェーン店が台頭し、正確かつ低コストで査定できる体制が整備されました。品質を担保する仕組みが持続的な人気を支えています。
+---
 
-[2025-12-14 18:00:37](https://bsky.app/profile/nikkei.com/post/3m7wqxa6de62m)
+@financialtimes.com
+
+Management scholars are making a case study of Christmas.
+
+Tap here for Tim Harford's take on the economics of seasonal serenity: on.ft.com/4aMGWAi
+
+[2025-12-14 18:39:05](https://bsky.app/profile/financialtimes.com/post/3m7wt3ztgi52o)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+後発地震注意情報 “引き続き日頃の備えの確認を” 気象庁
+https://news.web.nhk/newsweb/na/na-k10015003311000
+
+[2025-12-14 18:33:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7wsrcjkfi2s)
+
+---
+
+@nikkei.com
+
+新設メガソーラーなどの売電価格上乗せ廃止、政府・自民が27年度にも（無料記事）
+www.nikkei.com/article/DGXZQO...
+
+補助金は再生可能エネルギーの普及を促すため2022年に導入されました。
+
+太陽光パネルの設置コストなどは下がっており、なくても事業として成り立つとみています。
+
+メガソーラーを巡っては、自然環境との調和が課題となっており増設を抑えます。
+
+#ニュース
+
+[2025-12-14 18:30:52](https://bsky.app/profile/nikkei.com/post/3m7wsnddm7f2x)
 
 ---
 
