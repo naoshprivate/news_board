@@ -1,9 +1,9 @@
-# [2025-12-14 15:10 updated](2025_12_14.md)
+# [2025-12-14 15:30 updated](2025_12_14.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Thailand declares curfew along coast as Cambodia border fighting spreads reut.rs/4q6kVkr <a href="https://bsky.app/profile/reuters.com/post/3m7wh5hliad2s" target="_blank">reuters.com</a> (2025-12-14 15:05:08)</span><span style="padding-right:50px;">How the ‘Brussels effect’ backfired on.ft.com/4iSNxLy <a href="https://bsky.app/profile/financialtimes.com/post/3m7wgw4pjwb2p" target="_blank">financialtimes.com</a> (2025-12-14 15:01:02)</span><span style="padding-right:50px;">若さの維持のために「腹筋も鍛える」が正解 www.nikkei.com/article/DGXZQO...   2025年11月 #注目された記事 <a href="https://bsky.app/profile/nikkei.com/post/3m7wgvnizq52y" target="_blank">nikkei.com</a> (2025-12-14 15:00:46)</span><span style="padding-right:50px;">タイのアヌティン首相は１３日、カンボジアとの国境地帯で戦闘を継続すると表明した。 bit.ly/4984jTE <a href="https://bsky.app/profile/japan.reuters.com/post/3m7wgv6aw3a2q" target="_blank">japan.reuters.com</a> (2025-12-14 15:00:30)</span><span style="padding-right:50px;">Belarus freed 123 political prisoners Saturday, including opposition leader Maria Kolesnikova, in exchange for relaxed sanctions on the country’s main export sector, according to state news agency Belta and the presidential press service. <a href="https://bsky.app/profile/washingtonpost.com/post/3m7wguji4r52d" target="_blank">washingtonpost.com</a> (2025-12-14 15:00:08)</span>
+<span style="padding-right:50px;">Hundreds of police officers were studying video and scouring the area around Brown University in the hunt for a shooter who killed two people and wounded nine others in a classroom on the Providence, Rhode Island, campus. <a href="https://bsky.app/profile/apnews.com/post/3m7wigcpfhi2p" target="_blank">apnews.com</a> (2025-12-14 15:27:59)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報・本人コメント掲載】倉敷市出身・中島未莉選手 ミラノ五輪日本代表正式発表【岡山】 (2025-12-14 15:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7wic3w3md2a" target="_blank">sokuho.news</a> (2025-12-14 15:25:37)</span><span style="padding-right:50px;">Police in Tasmania say missing Belgian woman's phone found two years after her disappearance reut.rs/48XOOfV <a href="https://bsky.app/profile/reuters.com/post/3m7wibafr4f2s" target="_blank">reuters.com</a> (2025-12-14 15:25:09)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報・本人コメント掲載】倉敷出身・中島未莉選手 ミラノ五輪日本代表正式発表【岡山】 (2025-12-14 15:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7whz6i2dt2x" target="_blank">sokuho.news</a> (2025-12-14 15:20:38)</span><span style="padding-right:50px;">トランプ米大統領は、自身の経済政策の一部がまだ完全に効果を発揮していないため、来年の中間選挙で共和党が下院の過半数を維持できるかどうか不透明だと述べた。 bit.ly/4oS7684 <a href="https://bsky.app/profile/japan.reuters.com/post/3m7whusnco62q" target="_blank">japan.reuters.com</a> (2025-12-14 15:18:12)</span>
   </div>
 </div>
 
@@ -32,14 +32,87 @@
 
 ## News Headlines
 
-1. タイ政府がカンボジアとの国境地帯で戦闘を継続すると表明
-2. ベラルーシが政治犯123人を釈放
-3. コカ・コーラがコスタコーヒー売却交渉最後の砦に挑む
-4. 米バスケットボール協会、カップ戦決勝の準決勝を行う
-5. グリーンランドの鉱山でアメリカや中国が大国激突
-6. 日本の官民視察団がグリーンランドの鉱山を視察
+1. 米ブラウン大学で銃乱射事件　２人死亡９人けが
+2. 台湾・中国の国境地帯で再び戦闘
+3. 15日から始まる米株式市場　経済指標が遅れていた
+4. 欧州サッカー・三笘薫が復帰出場　２か月半ぶり
+5. 米政府　学生のプロフェッショナル学位に対する貸付金を200万ドルまで引き上げ
+6. グリーンランド　重要鉱物「最後のフロンティア」
 
 ----
+
+@apnews.com
+
+Hundreds of police officers were studying video and scouring the area around Brown University in the hunt for a shooter who killed two people and wounded nine others in a classroom on the Providence, Rhode Island, campus.
+
+[2025-12-14 15:27:59](https://bsky.app/profile/apnews.com/post/3m7wigcpfhi2p)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報・本人コメント掲載】倉敷市出身・中島未莉選手 ミラノ五輪日本代表正式発表【岡山】
+(2025-12-14 15:00) #ニュース
+
+[2025-12-14 15:25:37](https://bsky.app/profile/sokuho.news/post/3m7wic3w3md2a)
+
+---
+
+@reuters.com
+
+Police in Tasmania say missing Belgian woman's phone found two years after her disappearance reut.rs/48XOOfV
+
+[2025-12-14 15:25:09](https://bsky.app/profile/reuters.com/post/3m7wibafr4f2s)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報・本人コメント掲載】倉敷出身・中島未莉選手 ミラノ五輪日本代表正式発表【岡山】
+(2025-12-14 15:00) #ニュース
+
+[2025-12-14 15:20:38](https://bsky.app/profile/sokuho.news/post/3m7whz6i2dt2x)
+
+---
+
+@japan.reuters.com
+
+トランプ米大統領は、自身の経済政策の一部がまだ完全に効果を発揮していないため、来年の中間選挙で共和党が下院の過半数を維持できるかどうか不透明だと述べた。 bit.ly/4oS7684
+
+[2025-12-14 15:18:12](https://bsky.app/profile/japan.reuters.com/post/3m7whusnco62q)
+
+---
+
+@reuters.com
+
+Vissel Kobe appoint Skibbe to replace J-League winner Yoshida reut.rs/48DxyxC
+
+[2025-12-14 15:15:08](https://bsky.app/profile/reuters.com/post/3m7whpdknm42b)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】軽自動車が道路脇の水路に転落 80代女性が意識不明の重体
+(2025-12-14 15:00) #ニュース
+
+[2025-12-14 15:10:40](https://bsky.app/profile/sokuho.news/post/3m7whhdnusq2y)
+
+---
+
+@reuters.com
+
+India tightens pollution curbs as Delhi's air quality worsens reut.rs/44nUz5c
+
+[2025-12-14 15:10:16](https://bsky.app/profile/reuters.com/post/3m7whgnffoo24)
+
+---
 
 @reuters.com
 
@@ -54,76 +127,6 @@ Thailand declares curfew along coast as Cambodia border fighting spreads reut.rs
 How the ‘Brussels effect’ backfired on.ft.com/4iSNxLy
 
 [2025-12-14 15:01:02](https://bsky.app/profile/financialtimes.com/post/3m7wgw4pjwb2p)
-
----
-
-@nikkei.com
-
-若さの維持のために「腹筋も鍛える」が正解
-www.nikkei.com/article/DGXZQO...
- 
-2025年11月 #注目された記事
-
-[2025-12-14 15:00:46](https://bsky.app/profile/nikkei.com/post/3m7wgvnizq52y)
-
----
-
-@japan.reuters.com
-
-タイのアヌティン首相は１３日、カンボジアとの国境地帯で戦闘を継続すると表明した。 bit.ly/4984jTE
-
-[2025-12-14 15:00:30](https://bsky.app/profile/japan.reuters.com/post/3m7wgv6aw3a2q)
-
----
-
-@washingtonpost.com
-
-Belarus freed 123 political prisoners Saturday, including opposition leader Maria Kolesnikova, in exchange for relaxed sanctions on the country’s main export sector, according to state news agency Belta and the presidential press service.
-
-[2025-12-14 15:00:08](https://bsky.app/profile/washingtonpost.com/post/3m7wguji4r52d)
-
----
-
-@aljazeera.com
-
-Renewed border clashes between Cambodia and Thailand entered a second week.
-
-[2025-12-14 15:00:05](https://bsky.app/profile/aljazeera.com/post/3m7wgugdcro27)
-
----
-
-@financialtimes.com
-
-Coca-Cola holds last-ditch talks in bid to salvage Costa Coffee sale on.ft.com/4oUwXwa
-
-[2025-12-14 14:54:30](https://bsky.app/profile/financialtimes.com/post/3m7wgkhdk2a2k)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】道路脇の水路に車が転落し80代女性が意識不明 宮城・栗原市若柳
-(2025-12-14 14:48:00) #ニュース
-
-[2025-12-14 14:54:10](https://bsky.app/profile/sokuho.news/post/3m7wgju7gjf2y)
-
----
-
-@japan.reuters.com
-
-米プロバスケットボール協会（ＮＢＡ）は１３日、シーズン中のカップ戦であるＮＢＡカップの準決勝２試合を行い、東地区では第３シードのニックスが第１シードのマジックを１３２─１２０で下し、決勝に進んだ。 bit.ly/4oXLZBw
-
-[2025-12-14 14:51:47](https://bsky.app/profile/japan.reuters.com/post/3m7wgflnxro2n)
-
----
-
-@financialtimes.com
-
-Keir Starmer risks losing ally at top of Britain’s biggest union on.ft.com/4agBJRg
-
-[2025-12-14 14:41:13](https://bsky.app/profile/financialtimes.com/post/3m7wfsogqvo2y)
 
 ---
 
