@@ -1,9 +1,9 @@
-# [2025-12-14 08:50 updated](2025_12_14.md)
+# [2025-12-14 09:10 updated](2025_12_14.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">BREAKING UPDATE: At least two people killed and another eight others critically injured in Brown University shooting, Providence mayor says, as search for suspect continues. Follow live updates: https://cnn.it/4oTDwz9 <a href="https://bsky.app/profile/cnn.com/post/3m7vs2q4fss2o" target="_blank">cnn.com</a> (2025-12-14 08:47:48)</span><span style="padding-right:50px;">Live Updates: Two people were killed and eight others injured in the engineering building at Brown University, mayor says. <a href="https://bsky.app/profile/apnews.com/post/3m7vrv2vwnf2k" target="_blank">apnews.com</a> (2025-12-14 08:44:38)</span><span style="padding-right:50px;">アメリカ東部 大学近くで銃撃 複数人がけがで搬送 https://news.web.nhk/newsweb/na/na-k10015003451000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7vrl5bgvn2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-14 08:39:03)</span><span style="padding-right:50px;">🔔NHKより【速報 JUST IN】です。  アメリカ東部 大学近くで銃撃 複数人がけがで搬送 (2025-12-14 08:36:54) #ニュース https://news.web.nhk/newsweb/na/na-k10015003451000 <a href="https://bsky.app/profile/sokuho.news/post/3m7vrhxvgg22y" target="_blank">sokuho.news</a> (2025-12-14 08:37:18)</span><span style="padding-right:50px;">トノサマガエル、スズメバチに刺されても捕食（無料記事） www.nikkei.com/article/DGXZQO... <a href="https://bsky.app/profile/nikkei.com/post/3m7vr3xzbys24" target="_blank">nikkei.com</a> (2025-12-14 08:30:36)</span>
+<span style="padding-right:50px;">Two people were killed and eight were injured in a shooting at Brown University on Saturday, officials said. No one was in custody, and a shelter-in-place order remained in effect for the campus. Follow live updates. www.nytimes.com/live/2025/12... <a href="https://bsky.app/profile/nytimes.com/post/3m7vt7htuk22e" target="_blank">nytimes.com</a> (2025-12-14 09:08:21)</span><span style="padding-right:50px;">UPDATE: Officials say at least 2 people were killed and 8 were injured in the shooting. The suspect is still at large. <a href="https://bsky.app/profile/cbsnews.com/post/3m7vt5iwnwb2g" target="_blank">cbsnews.com</a> (2025-12-14 09:07:15)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】国道180号 バイクが転倒し乗っていた男性が死亡【岡山・北区】 (2025-12-14 08:54:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7vsxoqnr62a" target="_blank">sokuho.news</a> (2025-12-14 09:04:00)</span><span style="padding-right:50px;">A French supermarket's Christmas advert has captured hearts worldwide without using generative AI. <a href="https://bsky.app/profile/apnews.com/post/3m7vsrzl2n32k" target="_blank">apnews.com</a> (2025-12-14 09:00:50)</span><span style="padding-right:50px;">EV走行1500km、充電網を検証　口コミ頼りにもろさ www.nikkei.com/article/DGXZQO...  記者が現代自動車「インスター」で走行。充電ポイントを組み込んだ旅程を計画しましたが――。  大阪では充電残量0%、航続可能距離0kmで数km走ることに。  なぜそれほど追い込まれたのでしょうか。 <a href="https://bsky.app/profile/nikkei.com/post/3m7vsrwttgh2y" target="_blank">nikkei.com</a> (2025-12-14 09:00:47)</span>
   </div>
 </div>
 
@@ -32,95 +32,103 @@
 
 ## News Headlines
 
-1. アメリカ東部 大学近くで銃撃 複数人がけがで搬送
-2. トノサマガエル、スズメバチに刺されても捕食
-3. シリアで米軍兵士など3人死亡 トランプ大統領「ISによる攻撃」
-4. ベラルーシ、邦人やノーベル平和賞受賞者ら123人釈放
-5. 地震　福島県沖で3.9の震度を観測
-6. 欧州ファッション業界の物流を支配する中国人犯罪組織をめぐるイタリアの裁判が難航
+1. 
+2. 
+3. 
+4. 
+5. 
+6.
 
 ----
 
-@cnn.com
+@nytimes.com
 
-<strong><span style="color: red;">BREAKING </span>UPDATE: At least two people killed and another eight others critically injured in Brown University shooting, Providence mayor says, as search for suspect continues. Follow live updates: https://cnn.it/4oTDwz9</strong>
+Two people were killed and eight were injured in a shooting at Brown University on Saturday, officials said. No one was in custody, and a shelter-in-place order remained in effect for the campus. Follow live updates. www.nytimes.com/live/2025/12...
 
-[2025-12-14 08:47:48](https://bsky.app/profile/cnn.com/post/3m7vs2q4fss2o)
-
----
-
-@apnews.com
-
-Live Updates: Two people were killed and eight others injured in the engineering building at Brown University, mayor says.
-
-[2025-12-14 08:44:38](https://bsky.app/profile/apnews.com/post/3m7vrv2vwnf2k)
-
----
-
-@nhknewsunofficial.bsky.social
-
-アメリカ東部 大学近くで銃撃 複数人がけがで搬送
-https://news.web.nhk/newsweb/na/na-k10015003451000
-
-[2025-12-14 08:39:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7vrl5bgvn2w)
-
----
-
-@sokuho.news
-
-<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>アメリカ東部 大学近くで銃撃 複数人がけがで搬送</strong><br><strong>(2025-12-14 08:36:54) #ニュース</strong><br><strong>https://news.web.nhk/newsweb/na/na-k10015003451000</strong>
-
-[2025-12-14 08:37:18](https://bsky.app/profile/sokuho.news/post/3m7vrhxvgg22y)
-
----
-
-@nikkei.com
-
-トノサマガエル、スズメバチに刺されても捕食（無料記事）
-www.nikkei.com/article/DGXZQO...
-
-[2025-12-14 08:30:36](https://bsky.app/profile/nikkei.com/post/3m7vr3xzbys24)
-
----
-
-@usatoday.com
-
-Actor Peter Greene, known for playing villains such as "The Mask" and "Pulp Fiction," was found dead in New York apartment, according to his manager.
-
-[2025-12-14 08:30:13](https://bsky.app/profile/usatoday.com/post/3m7vr3c3an72c)
-
----
-
-@aljazeera.com
-
-Brown University in US reports ‘active shooter’ situation on campus https://aje.io/yyg6q5
-
-[2025-12-14 08:30:03](https://bsky.app/profile/aljazeera.com/post/3m7vr2yepq62z)
+[2025-12-14 09:08:21](https://bsky.app/profile/nytimes.com/post/3m7vt7htuk22e)
 
 ---
 
 @cbsnews.com
 
-A United Airlines flight experienced an engine failure during takeoff from Dulles International Airport in D.C. on Saturday before safely returning to the airport, according to the Federal Aviation Administration.
+UPDATE: Officials say at least 2 people were killed and 8 were injured in the shooting. The suspect is still at large.
 
-[2025-12-14 08:30:01](https://bsky.app/profile/cbsnews.com/post/3m7vr2wje5w2g)
+[2025-12-14 09:07:15](https://bsky.app/profile/cbsnews.com/post/3m7vt5iwnwb2g)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】国道180号 バイクが転倒し乗っていた男性が死亡【岡山・北区】
+(2025-12-14 08:54:00) #ニュース
+
+[2025-12-14 09:04:00](https://bsky.app/profile/sokuho.news/post/3m7vsxoqnr62a)
+
+---
+
+@apnews.com
+
+A French supermarket's Christmas advert has captured hearts worldwide without using generative AI.
+
+[2025-12-14 09:00:50](https://bsky.app/profile/apnews.com/post/3m7vsrzl2n32k)
+
+---
+
+@nikkei.com
+
+EV走行1500km、充電網を検証　口コミ頼りにもろさ
+www.nikkei.com/article/DGXZQO...
+
+記者が現代自動車「インスター」で走行。充電ポイントを組み込んだ旅程を計画しましたが――。
+
+大阪では充電残量0%、航続可能距離0kmで数km走ることに。
+
+なぜそれほど追い込まれたのでしょうか。
+
+[2025-12-14 09:00:47](https://bsky.app/profile/nikkei.com/post/3m7vsrwttgh2y)
+
+---
+
+@usatoday.com
+
+A DoorDash driver has been arrested after an Indiana couple's doorbell video captured the delivery person using an aerosol spray.
+
+[2025-12-14 09:00:47](https://bsky.app/profile/usatoday.com/post/3m7vsrxgkjz2c)
+
+---
+
+@washingtonpost.com
+
+Russian President Vladimir Putin has long been surrounded by a chorus of supportive voices, but over the past 25 years of his rule, the range of views reaching him has narrowed dramatically.
+
+[2025-12-14 09:00:10](https://bsky.app/profile/washingtonpost.com/post/3m7vsqtnug72e)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-シリアで米軍兵士など3人死亡 トランプ大統領“ISによる攻撃”
-https://news.web.nhk/newsweb/na/na-k10015003431000
+米 ダレス国際空港発 羽田行き旅客機 エンジン異常で引き返す
+https://news.web.nhk/newsweb/na/na-k10015003441000
 
-[2025-12-14 08:27:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7vqvovqya2l)
+[2025-12-14 09:00:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7vsqoi3bu2k)
 
 ---
 
-@reuters.com
+@japan.reuters.com
 
-Arsenal get lucky break to go five points clear, Salah returns for Liverpool reut.rs/4pzX0Ka
+スピードスケートのワールドカップ（Ｗ杯）第４戦は１３日、ノルウェーのハーマルで各競技を行い、女子１０００メートルでは高木美帆が１分１４秒３９で優勝した。 bit.ly/3XW8ICT
 
-[2025-12-14 08:25:11](https://bsky.app/profile/reuters.com/post/3m7vqsbryjd2x)
+[2025-12-14 08:57:29](https://bsky.app/profile/japan.reuters.com/post/3m7vsm2gdjt2q)
+
+---
+
+@wsj.com
+
+A shooter at Brown University left two people dead. The gunman remained at large.
+
+[2025-12-14 08:54:33](https://bsky.app/profile/wsj.com/post/3m7vsgsylkg2u)
 
 ---
 
