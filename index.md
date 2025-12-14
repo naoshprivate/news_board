@@ -1,9 +1,9 @@
-# [2025-12-15 02:10 updated](2025_12_15.md)
+# [2025-12-15 02:30 updated](2025_12_15.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Trump's Fed pick comes into focus, economic data backlog clears: What to watch this week <a href="https://bsky.app/profile/yahoofinance.com/post/3m7xm3dwgfw2f" target="_blank">yahoofinance.com</a> (2025-12-15 02:06:06)</span><span style="padding-right:50px;">Ten-man Dortmund squander lead to stumble to 1-1 draw at Freiburg reut.rs/3YpWrGS <a href="https://bsky.app/profile/reuters.com/post/3m7xlznjbrf2r" target="_blank">reuters.com</a> (2025-12-15 02:05:09)</span><span style="padding-right:50px;">“I just remember a bunch of people started screaming.” An 18-year-old who was shot in the leg at Brown University on Saturday afternoon described the moment that shots rang out in a classroom where students had gathered to prepare for an economics exam. nyti.ms/48FrxAo <a href="https://bsky.app/profile/nytimes.com/post/3m7xlzitiis2e" target="_blank">nytimes.com</a> (2025-12-15 02:05:04)</span><span style="padding-right:50px;">One music manager described a holiday hit as a ‘little ATM machine.’ on.wsj.com/4sdQRW7 <a href="https://bsky.app/profile/wsj.com/post/3m7xlxqorhm2r" target="_blank">wsj.com</a> (2025-12-15 02:04:05)</span><span style="padding-right:50px;">Hanukkah security ramped up around world after Bondi shootings reut.rs/4oYjcNc <a href="https://bsky.app/profile/reuters.com/post/3m7xls5asgi2y" target="_blank">reuters.com</a> (2025-12-15 02:00:57)</span>
+<span style="padding-right:50px;">Jimmy Lai, Hong Kong tycoon and democratic firebrand who stood up to China reut.rs/4oS2dvS <a href="https://bsky.app/profile/reuters.com/post/3m7xn5frrkm2r" target="_blank">reuters.com</a> (2025-12-15 02:25:08)</span><span style="padding-right:50px;">Tokyo Gas to steer more than half of overseas investments to US in next 3 years, CEO says reut.rs/4rWmnHH <a href="https://bsky.app/profile/reuters.com/post/3m7xmloynlf2k" target="_blank">reuters.com</a> (2025-12-15 02:15:14)</span><span style="padding-right:50px;">Snow fell across New York City overnight, picking up steadily in the early morning hours before beginning to taper off from the west around midmorning. The National Weather Service offices in New York and New Jersey issued winter weather advisories through Sunday afternoon. <a href="https://bsky.app/profile/nytimes.com/post/3m7xmldh44n2e" target="_blank">nytimes.com</a> (2025-12-15 02:15:02)</span><span style="padding-right:50px;">Jimmy Lai's supporters queue in Hong Kong overnight for verdict reut.rs/3MJ6Wm5 <a href="https://bsky.app/profile/reuters.com/post/3m7xmcoo3le2k" target="_blank">reuters.com</a> (2025-12-15 02:10:12)</span><span style="padding-right:50px;">Trump's Fed pick comes into focus, economic data backlog clears: What to watch this week <a href="https://bsky.app/profile/yahoofinance.com/post/3m7xm3dwgfw2f" target="_blank">yahoofinance.com</a> (2025-12-15 02:06:06)</span>
   </div>
 </div>
 
@@ -32,14 +32,48 @@
 
 ## News Headlines
 
-1.  ドルトムントがブンデスリーガで引き分け
-2.  ブラウン大学での銃撃事件の被害者の1人が語る
-3.  ドローンの活用を推進するアメリカの学者が提案
-4.  WNBAの元スター選手が牡蠣の養殖を始める
-5.  英国で「ジェーン・オースティン祭」が開催
-6.  ブラウン大学銃撃事件の被害者が2人殺害、9人負傷
+Here are six important stories with Japanese headlines:
+
+1. ホンコンの実業家ライが銃撃事件で判決待ちの支持者に激励の言葉
+2. トランプ候補者が注目される　経済データバックロードが解消
+3. ニューヨーク市で初の雪が降り始めた　気象庁が警戒
+4. ブラウン大学銃撃事件　犠牲者が2人、9人けが　警察が容疑者を逮捕
+5. ロシア・ウクライナ戦争で小型ドローンが戦場を襲う　米国が新たな「NRA」計画
+6. ブラウン大学銃撃事件　生存者が「自分に痛みを預けろ」と話した教師の心の叫び
 
 ----
+
+@reuters.com
+
+Jimmy Lai, Hong Kong tycoon and democratic firebrand who stood up to China reut.rs/4oS2dvS
+
+[2025-12-15 02:25:08](https://bsky.app/profile/reuters.com/post/3m7xn5frrkm2r)
+
+---
+
+@reuters.com
+
+Tokyo Gas to steer more than half of overseas investments to US in next 3 years, CEO says reut.rs/4rWmnHH
+
+[2025-12-15 02:15:14](https://bsky.app/profile/reuters.com/post/3m7xmloynlf2k)
+
+---
+
+@nytimes.com
+
+Snow fell across New York City overnight, picking up steadily in the early morning hours before beginning to taper off from the west around midmorning. The National Weather Service offices in New York and New Jersey issued winter weather advisories through Sunday afternoon.
+
+[2025-12-15 02:15:02](https://bsky.app/profile/nytimes.com/post/3m7xmldh44n2e)
+
+---
+
+@reuters.com
+
+Jimmy Lai's supporters queue in Hong Kong overnight for verdict reut.rs/3MJ6Wm5
+
+[2025-12-15 02:10:12](https://bsky.app/profile/reuters.com/post/3m7xmcoo3le2k)
+
+---
 
 @yahoofinance.com
 
@@ -86,43 +120,6 @@ Hanukkah security ramped up around world after Bondi shootings reut.rs/4oYjcNc
 Trump's foes and friends have noticed a revival of the term, which advocates say is harmful to Americans with mental disabilities.
 
 [2025-12-15 02:00:55](https://bsky.app/profile/usatoday.com/post/3m7xls3zvaf2f)
-
----
-
-@cnn.com
-
-The Republican plans to pick off five Democratic-held congressional seats in Texas once seemed like a sure thing. Not anymore.
-https://cnn.it/48So9AS
-
-[2025-12-15 02:00:27](https://bsky.app/profile/cnn.com/post/3m7xlraofhl2o)
-
----
-
-@washingtonpost.com
-
-Joseph Oduro, a teaching assistant, comforted a wounded student in the chaotic aftermath of a shooting at Brown University that left two dead and nine injured.
-
-“I told her to put all the pain on me,” Oduro said.
-
-This is his story: 
-
-[2025-12-15 02:00:26](https://bsky.app/profile/washingtonpost.com/post/3m7xlra33kh23)
-
----
-
-@bloomberg.com
-
-Small drones have revolutionized warfare in the Russia-Ukraine conflict. One US advocate thinks his country needs an “NRA for drones” in order to catch up.
-
-[2025-12-15 02:00:22](https://bsky.app/profile/bloomberg.com/post/3m7xlr4jeuz27)
-
----
-
-@apnews.com
-
-Sue Wicks, a retired WNBA star, found her next calling in oyster farming. Despite her successful basketball career, Wicks says she didn’t earn enough to stop worrying about money. She is one of many female athletes launching new careers to fill in the gap when the final whistle blows.
-
-[2025-12-15 02:00:19](https://bsky.app/profile/apnews.com/post/3m7xlqzpedn2u)
 
 ---
 
