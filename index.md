@@ -1,9 +1,9 @@
-# [2025-12-15 03:10 updated](2025_12_15.md)
+# [2025-12-15 03:30 updated](2025_12_15.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Here is what is in the $901 billion defense-policy bill passed by the House. <a href="https://bsky.app/profile/wsj.com/post/3m7xpluwhta23" target="_blank">wsj.com</a> (2025-12-15 03:09:01)</span><span style="padding-right:50px;">Crypto winter could spur 'Darwinian phase' for digital asset treasury companies <a href="https://bsky.app/profile/yahoofinance.com/post/3m7xpgnhya22u" target="_blank">yahoofinance.com</a> (2025-12-15 03:06:06)</span><span style="padding-right:50px;">Genoa and Inter fans clash ahead of match reut.rs/48CK7ZV <a href="https://bsky.app/profile/reuters.com/post/3m7xpeyly6s2y" target="_blank">reuters.com</a> (2025-12-15 03:05:10)</span><span style="padding-right:50px;">Providence, Rhode Island, authorities said a person of interest in connection with the mass shooting at Brown University is in police custody. <a href="https://bsky.app/profile/usatoday.com/post/3m7xp5t7t4z2h" target="_blank">usatoday.com</a> (2025-12-15 03:01:10)</span><span style="padding-right:50px;">Bears WR Rome Odunze (foot) active vs. Browns reut.rs/4q4dBFR <a href="https://bsky.app/profile/reuters.com/post/3m7xp53ghd224" target="_blank">reuters.com</a> (2025-12-15 03:00:45)</span>
+<span style="padding-right:50px;">Heard on the Street: For banks and others in the U.S. financial system, the Federal Reserve’s next moves on the size of its balance sheet could matter even more than its decisions on rates. <a href="https://bsky.app/profile/wsj.com/post/3m7xqjyb6xe2u" target="_blank">wsj.com</a> (2025-12-15 03:25:52)</span><span style="padding-right:50px;">Hong Kong's legal clampdown on Jimmy Lai, tycoon and China critic reut.rs/48RIdDH <a href="https://bsky.app/profile/reuters.com/post/3m7xqiq6dsd2i" target="_blank">reuters.com</a> (2025-12-15 03:25:10)</span><span style="padding-right:50px;">Cavs standout Evan Mobley to miss 2-4 weeks with calf strain reut.rs/4509LFH <a href="https://bsky.app/profile/reuters.com/post/3m7xpwv7vmg2b" target="_blank">reuters.com</a> (2025-12-15 03:15:11)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:青森県東方沖, 深さ:40km マグニチュード:4.4, 最大震度:1 📍https://www.google.com/maps?q=41.2,142.7&ll=41.2,142.7&z=7&t=h 地震発生日時:2025-12-15 03:09頃 (10倍速▶180s→18s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m7xpt4ml3m2a" target="_blank">sokuho.news</a> (2025-12-15 03:13:04)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  3時9分頃、青森県・北海道・岩手県で最大震度1の地震を観測しました。 震源:青森県東方沖, 深さ:40km, 規模:M4.4 この地震による津波の心配はありません。 (2025-12-15 03:12:25) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/15/2025-12-15-03-09-34.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3m7xpryhyvp2r" target="_blank">sokuho.news</a> (2025-12-15 03:12:26)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.57 (🔺0.09 : 2025-12-12)</span>
+<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.68 (🔺0.01 : 2025-12-14)</span>
   </div>
 </div>
 
@@ -34,100 +34,120 @@
 
 Here are six news headlines in Japanese:
 
-1. 
-（アメリカの大学で大量射撃事件　学生が負傷）
-2. 
-（アブダビで暗闇のクリプト界が集結）
-3. 
-（EUが中国のオーソリティーに厳しい制裁を）
-4. 
-（イスラエル軍がガザのハマース指揮官を暗殺）
-5. 
-（雪が降るNYC　気象庁が寒冬警報を発表）
-6. 
-（小説家のジェーン・オースティンを記念するイベントが開催）
+1. 連邦準備理事会はバランスシートの規模に関する決定が米国の金融システム内の銀行などのためには、金利決定よりも重要になるかもしれない
+2. 香港のジャイミー・ライ氏が中国政府の制裁を受け、依然として拘束力があるか
+3. NBAシーズン後半、カバスのエバン・モビーは2-4週間の休養
+4. ドイツのボルシアードルトムントは1-1でフライブルクに引き分け
+5. 米国とシリア人を射殺したイスラム教徒のテロリストがシリアの安全保障官僚に潜入していた疑い
+6. 米国とシリアの軍人を射殺したテロリストの犯行は、2年にわたる戦争の引き金となった
 
 ----
 
 @wsj.com
 
-Here is what is in the $901 billion defense-policy bill passed by the House.
+Heard on the Street: For banks and others in the U.S. financial system, the Federal Reserve’s next moves on the size of its balance sheet could matter even more than its decisions on rates.
 
-[2025-12-15 03:09:01](https://bsky.app/profile/wsj.com/post/3m7xpluwhta23)
-
----
-
-@yahoofinance.com
-
-Crypto winter could spur 'Darwinian phase' for digital asset treasury companies
-
-[2025-12-15 03:06:06](https://bsky.app/profile/yahoofinance.com/post/3m7xpgnhya22u)
+[2025-12-15 03:25:52](https://bsky.app/profile/wsj.com/post/3m7xqjyb6xe2u)
 
 ---
 
 @reuters.com
 
-Genoa and Inter fans clash ahead of match reut.rs/48CK7ZV
+Hong Kong's legal clampdown on Jimmy Lai, tycoon and China critic reut.rs/48RIdDH
 
-[2025-12-15 03:05:10](https://bsky.app/profile/reuters.com/post/3m7xpeyly6s2y)
-
----
-
-@usatoday.com
-
-Providence, Rhode Island, authorities said a person of interest in connection with the mass shooting at Brown University is in police custody.
-
-[2025-12-15 03:01:10](https://bsky.app/profile/usatoday.com/post/3m7xp5t7t4z2h)
+[2025-12-15 03:25:10](https://bsky.app/profile/reuters.com/post/3m7xqiq6dsd2i)
 
 ---
 
 @reuters.com
 
-Bears WR Rome Odunze (foot) active vs. Browns reut.rs/4q4dBFR
+Cavs standout Evan Mobley to miss 2-4 weeks with calf strain reut.rs/4509LFH
 
-[2025-12-15 03:00:45](https://bsky.app/profile/reuters.com/post/3m7xp53ghd224)
-
----
-
-@bloomberg.com
-
-It’s been three years since OpenAI set off euphoria over AI with the release of ChatGPT. The money is still pouring in — so are the doubts about whether the good times can last
-
-[2025-12-15 03:00:41](https://bsky.app/profile/bloomberg.com/post/3m7xp4xhrkw24)
+[2025-12-15 03:15:11](https://bsky.app/profile/reuters.com/post/3m7xpwv7vmg2b)
 
 ---
 
-@washingtonpost.com
+@sokuho.news
 
-Scientists have discovered the oldest evidence of ancient humans igniting fires.
+🔔防災科研より【強震モニタ】動画です。
 
-The question of how far back human ancestors conjured fire is deeply intertwined with some of the biggest outstanding mysteries about human evolution.
+震源:青森県東方沖, 深さ:40km
+マグニチュード:4.4, 最大震度:1
+📍https://www.google.com/maps?q=41.2,142.7&ll=41.2,142.7&z=7&t=h
+地震発生日時:2025-12-15 03:09頃
+(10倍速▶180s→18s) #地震
 
-[2025-12-15 03:00:13](https://bsky.app/profile/washingtonpost.com/post/3m7xp44y5yw2n)
+[2025-12-15 03:13:04](https://bsky.app/profile/sokuho.news/post/3m7xpt4ml3m2a)
 
 ---
 
-@apnews.com
+@sokuho.news
 
-Connecticut is working to become a destination for holiday movie fans, promoting its charming towns featured in films by Hallmark and Lifetime.
+🔔気象庁より【地震速報】です。
 
-[2025-12-15 03:00:11](https://bsky.app/profile/apnews.com/post/3m7xp42tale2p)
+3時9分頃、青森県・北海道・岩手県で最大震度1の地震を観測しました。
+震源:青森県東方沖, 深さ:40km, 規模:M4.4
+この地震による津波の心配はありません。
+(2025-12-15 03:12:25) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/15/2025-12-15-03-09-34.html?xlarge_image=1
+
+[2025-12-15 03:12:26](https://bsky.app/profile/sokuho.news/post/3m7xpryhyvp2r)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗
+
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像4🈡
+(2025-12-15 03:10:26) #緊急地震速報
+
+[2025-12-15 03:10:33](https://bsky.app/profile/sokuho.news/post/3m7xpomftjs2y)
+
+---
+
+@reuters.com
+
+Frank angry as Tottenham take a step back in defeat at Forest reut.rs/499o9hf
+
+[2025-12-15 03:10:18](https://bsky.app/profile/reuters.com/post/3m7xpo5hykt2i)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗
+
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像2
+(2025-12-15 03:10:04) #緊急地震速報
+
+[2025-12-15 03:10:15](https://bsky.app/profile/sokuho.news/post/3m7xpo2zg462r)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗
+
+⚠️揺れに警戒してください
+🔗http://www.kmoni.bosai.go.jp/
+
+🔶防災科研/強震モニタ/予測震度画像1
+(2025-12-15 03:10:00) #緊急地震速報
+
+[2025-12-15 03:10:07](https://bsky.app/profile/sokuho.news/post/3m7xpnto2yh27)
 
 ---
 
 @financialtimes.com
 
-The EU plans a crackdown on 'very dangerous' products sold on online platforms including China’s Shein and Alibaba. on.ft.com/4iVEaLh
+Investors seek protection from risk of AI debt bust on.ft.com/4qaDV1f
 
-[2025-12-15 03:00:08](https://bsky.app/profile/financialtimes.com/post/3m7xp3xlmho2p)
-
----
-
-@cbsnews.com
-
-Israel's military said it killed a top Hamas commander in Gaza who it described as one of the architects of the Oct. 7, 2023, attack that sparked the two-year-long war.  
-
-[2025-12-15 03:00:00](https://bsky.app/profile/cbsnews.com/post/3m7xp3qyfjr2q)
+[2025-12-15 03:10:00](https://bsky.app/profile/financialtimes.com/post/3m7xpnmgrei2k)
 
 ---
 
