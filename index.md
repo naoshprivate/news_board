@@ -1,9 +1,9 @@
-# [2025-12-14 20:50 updated](2025_12_14.md)
+# [2025-12-14 21:10 updated](2025_12_14.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">How Warner Bros Discovery’s David Zaslav defied Hollywood — again on.ft.com/4q3mNKB <a href="https://bsky.app/profile/financialtimes.com/post/3m7wzvbraua23" target="_blank">financialtimes.com</a> (2025-12-14 20:40:35)</span><span style="padding-right:50px;">Bondi Beach shooting was a terrorist attack on Australia's Jewish community on the first day of Hanukkah, police say. Follow live updates. https://cnn.it/48SoSCq <a href="https://bsky.app/profile/cnn.com/post/3m7wzrapy3m2q" target="_blank">cnn.com</a> (2025-12-14 20:38:19)</span><span style="padding-right:50px;">Ukrainian President Volodymyr Zelenskyy has said he is ready to give up on demands for Nato membership in exchange for security guarantees from the US and Europe, in a move aimed at advancing peace talks in Berlin on Sunday. on.ft.com/4iSMzii <a href="https://bsky.app/profile/financialtimes.com/post/3m7wzoarjoc2f" target="_blank">financialtimes.com</a> (2025-12-14 20:36:39)</span><span style="padding-right:50px;">South Africa's Schaper wins playoff to post first tour victory reut.rs/4rWhoXF <a href="https://bsky.app/profile/reuters.com/post/3m7wzlnqbfi2i" target="_blank">reuters.com</a> (2025-12-14 20:35:12)</span><span style="padding-right:50px;">There are signs of populist opposition to AI technology that holds the promise of eliminating lots of jobs, WSJ’s Tim Higgins writes. <a href="https://bsky.app/profile/wsj.com/post/3m7wzhhjvns2g" target="_blank">wsj.com</a> (2025-12-14 20:32:51)</span>
+<span style="padding-right:50px;">北海道～北陸 風と雪強まる 暴風や猛吹雪など警戒を https://news.web.nhk/newsweb/na/na-k10015003321000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7x3i7utd32x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-14 21:09:02)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】伊東市長選挙 確定投票率は60.54% 当選に必要な法定得票数は8500票程度か（静岡） (2025-12-14 21:03) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7x37v64ks2x" target="_blank">sokuho.news</a> (2025-12-14 21:04:24)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】伊東市長選挙 確定投票率は60.54%と前回を10ポイントアップ 当選に必要な法定得票数は8500票前後か（静岡） (2025-12-14 21:03) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7x35sdnuj2z" target="_blank">sokuho.news</a> (2025-12-14 21:03:14)</span><span style="padding-right:50px;">BREAKING: A suspect is in custody in the Brown University shooting that left two dead and nine others injured, two sources tell NBC News. <a href="https://bsky.app/profile/nbcnews.com/post/3m7x34mt3742x" target="_blank">nbcnews.com</a> (2025-12-14 21:02:35)</span><span style="padding-right:50px;">U.S. President Donald Trump's special envoy Steve Witkoff and son-in-law Jared Kushner will meet Ukrainian leader Volodymyr Zelenskyy on Sunday, as Trump grows increasingly exasperated by delays. n.pr/4oV32UL <a href="https://bsky.app/profile/npr.org/post/3m7x33jyrdr2e" target="_blank">npr.org</a> (2025-12-14 21:01:58)</span>
   </div>
 </div>
 
@@ -32,92 +32,102 @@
 
 ## News Headlines
 
-1. オーストラリアのボンディビーチで銃撃事件　12人死亡
-2. ウクライナ、NATO加盟を断念　米・欧州との安全保障保証を求める
-3. ワーナー・ブラザーズ・ディスカバリーのザスラブ氏「Hollywoodを変える」
-4. トランプ政権がベネズエラへの圧力強める狙いは？
-5. ボンディビーチ銃撃事件　12人死亡　2人の容疑者で1人射殺　もう1人は重傷で逮捕
-6. JAXAの次世代実証衛星　打ち上げ成功
+1.  北海道で最大震度1の地震を観測
+2.  伊東市長選挙 確定投票率は60.54%
+3.  シドニー銃撃事件　10人死亡
+4.  12月15日　日本列島に大荒れの天気
+5.  JAXAの次世代実証衛星、打ち上げ成功
+6.  トランプ政権、ベネズエラへの圧力強める狙いは？
 
 ----
 
-@financialtimes.com
+@nhknewsunofficial.bsky.social
 
-How Warner Bros Discovery’s David Zaslav defied Hollywood — again on.ft.com/4q3mNKB
+北海道～北陸 風と雪強まる 暴風や猛吹雪など警戒を
+https://news.web.nhk/newsweb/na/na-k10015003321000
 
-[2025-12-14 20:40:35](https://bsky.app/profile/financialtimes.com/post/3m7wzvbraua23)
-
----
-
-@cnn.com
-
-Bondi Beach shooting was a terrorist attack on Australia's Jewish community on the first day of Hanukkah, police say. Follow live updates. https://cnn.it/48SoSCq
-
-[2025-12-14 20:38:19](https://bsky.app/profile/cnn.com/post/3m7wzrapy3m2q)
+[2025-12-14 21:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7x3i7utd32x)
 
 ---
 
-@financialtimes.com
+@sokuho.news
 
-Ukrainian President Volodymyr Zelenskyy has said he is ready to give up on demands for Nato membership in exchange for security guarantees from the US and Europe, in a move aimed at advancing peace talks in Berlin on Sunday. on.ft.com/4iSMzii
+🛎️NNNより【速報】です。
 
-[2025-12-14 20:36:39](https://bsky.app/profile/financialtimes.com/post/3m7wzoarjoc2f)
+【速報】伊東市長選挙 確定投票率は60.54% 当選に必要な法定得票数は8500票程度か（静岡）
+(2025-12-14 21:03) #ニュース
 
----
-
-@reuters.com
-
-South Africa's Schaper wins playoff to post first tour victory reut.rs/4rWhoXF
-
-[2025-12-14 20:35:12](https://bsky.app/profile/reuters.com/post/3m7wzlnqbfi2i)
+[2025-12-14 21:04:24](https://bsky.app/profile/sokuho.news/post/3m7x37v64ks2x)
 
 ---
 
-@wsj.com
+@sokuho.news
 
-There are signs of populist opposition to AI technology that holds the promise of eliminating lots of jobs, WSJ’s Tim Higgins writes.
+🛎️NNNより【速報】です。
 
-[2025-12-14 20:32:51](https://bsky.app/profile/wsj.com/post/3m7wzhhjvns2g)
+【速報】伊東市長選挙 確定投票率は60.54%と前回を10ポイントアップ 当選に必要な法定得票数は8500票前後か（静岡）
+(2025-12-14 21:03) #ニュース
 
----
-
-@reuters.com
-
-World reacts to shooting at Australia's Bondi Beach that killed 12 reut.rs/3KKcDjg
-
-[2025-12-14 20:30:26](https://bsky.app/profile/reuters.com/post/3m7wzd4zajp2y)
+[2025-12-14 21:03:14](https://bsky.app/profile/sokuho.news/post/3m7x35sdnuj2z)
 
 ---
 
-@bloomberg.com
+@nbcnews.com
 
-The European Union faces an inflection point this week as it strives to prove it’s a geopolitical force, facing deadlines to fund Ukraine’s fight against Russia and to diversify supply lines away from the US
+<strong><span style="color: red;">BREAKING:</span> A suspect is in custody in the Brown University shooting that left two dead and nine others injured, two sources tell NBC News.</strong>
 
-[2025-12-14 20:30:12](https://bsky.app/profile/bloomberg.com/post/3m7wzcpsp4s2p)
-
----
-
-@apnews.com
-
-A United Airlines flight experienced an engine failure during takeoff from Dulles International Airport on Saturday before safely returning to the airport, according to the Federal Aviation Administration.
-
-[2025-12-14 20:30:09](https://bsky.app/profile/apnews.com/post/3m7wzcn6qhn23)
+[2025-12-14 21:02:35](https://bsky.app/profile/nbcnews.com/post/3m7x34mt3742x)
 
 ---
 
-@reuters.com
+@npr.org
 
-Insight: How the US freight rail industry got dirtier than coal power plants reut.rs/48R7WMl
+U.S. President Donald Trump's special envoy Steve Witkoff and son-in-law Jared Kushner will meet Ukrainian leader Volodymyr Zelenskyy on Sunday, as Trump grows increasingly exasperated by delays. n.pr/4oV32UL
 
-[2025-12-14 20:25:09](https://bsky.app/profile/reuters.com/post/3m7wyzorpce2y)
+[2025-12-14 21:01:58](https://bsky.app/profile/npr.org/post/3m7x33jyrdr2e)
 
 ---
 
 @financialtimes.com
 
-Ukraine offers to drop Nato membership demands on.ft.com/48Ak1H4
+ What economists got wrong in 2025 on.ft.com/4iVvzrZ  | opinion
 
-[2025-12-14 20:22:47](https://bsky.app/profile/financialtimes.com/post/3m7wyvhl5ce2k)
+[2025-12-14 21:00:52](https://bsky.app/profile/financialtimes.com/post/3m7x2zkqqaa2p)
+
+---
+
+@nikkei.com
+
+スーパー「あえて現金のみ」　キャッシュレスより1円でも安く
+www.nikkei.com/article/DGXZQO...
+
+2025年11月 #注目された記事
+
+[2025-12-14 21:00:50](https://bsky.app/profile/nikkei.com/post/3m7x2zitrxp2g)
+
+---
+
+@usatoday.com
+
+Dr. John Osborne, an American Heart Association volunteer, said adults 65 and older should be "more wary" of snow shoveling and individuals with risk factors for heart disease should be extra mindful. bit.ly/48O44vI
+
+[2025-12-14 21:00:08](https://bsky.app/profile/usatoday.com/post/3m7x2yawr4z2o)
+
+---
+
+@financialtimes.com
+
+Twelve people have been killed after gunmen opened fire at Sydney’s Bondi Beach in an attack that Australian authorities said targeted a Jewish community event. on.ft.com/3XQLy0P
+
+[2025-12-14 21:00:05](https://bsky.app/profile/financialtimes.com/post/3m7x2y6fmbn2c)
+
+---
+
+@financialtimes.com
+
+GoFundMe CEO Tim Cadogan on Henry V, Yorkshire Tea and how to raise $30bn for charity on.ft.com/453KD0I
+
+[2025-12-14 21:00:05](https://bsky.app/profile/financialtimes.com/post/3m7x2y5coib2b)
 
 ---
 
