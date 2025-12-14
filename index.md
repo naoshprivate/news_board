@@ -1,9 +1,9 @@
-# [2025-12-14 20:30 updated](2025_12_14.md)
+# [2025-12-14 20:50 updated](2025_12_14.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Insight: How the US freight rail industry got dirtier than coal power plants reut.rs/48R7WMl <a href="https://bsky.app/profile/reuters.com/post/3m7wyzorpce2y" target="_blank">reuters.com</a> (2025-12-14 20:25:09)</span><span style="padding-right:50px;">Ukraine offers to drop Nato membership demands on.ft.com/48Ak1H4 <a href="https://bsky.app/profile/financialtimes.com/post/3m7wyvhl5ce2k" target="_blank">financialtimes.com</a> (2025-12-14 20:22:47)</span><span style="padding-right:50px;">Two gunmen have shot dead nine people at Sydney's Bondi Beach, with eleven wounded, including two police officers. Police shot dead one gunman, second was arrested in critical condition. n.pr/4oWwgmd <a href="https://bsky.app/profile/npr.org/post/3m7wynbannp2e" target="_blank">npr.org</a> (2025-12-14 20:18:12)</span><span style="padding-right:50px;">中国の不動産開発大手、万科企業は、１５日に期限を迎える国内社債の償還を１年間延長する案について、社債権者の支持を得られなかった。 bit.ly/4ag1Vve <a href="https://bsky.app/profile/japan.reuters.com/post/3m7wyhy2cgj2f" target="_blank">japan.reuters.com</a> (2025-12-14 20:15:15)</span><span style="padding-right:50px;">German far-right lawmaker calls for US-German nationalist alliance at MAGA gala reut.rs/48Rjtez <a href="https://bsky.app/profile/reuters.com/post/3m7wyhwopxa2i" target="_blank">reuters.com</a> (2025-12-14 20:15:13)</span>
+<span style="padding-right:50px;">How Warner Bros Discovery’s David Zaslav defied Hollywood — again on.ft.com/4q3mNKB <a href="https://bsky.app/profile/financialtimes.com/post/3m7wzvbraua23" target="_blank">financialtimes.com</a> (2025-12-14 20:40:35)</span><span style="padding-right:50px;">Bondi Beach shooting was a terrorist attack on Australia's Jewish community on the first day of Hanukkah, police say. Follow live updates. https://cnn.it/48SoSCq <a href="https://bsky.app/profile/cnn.com/post/3m7wzrapy3m2q" target="_blank">cnn.com</a> (2025-12-14 20:38:19)</span><span style="padding-right:50px;">Ukrainian President Volodymyr Zelenskyy has said he is ready to give up on demands for Nato membership in exchange for security guarantees from the US and Europe, in a move aimed at advancing peace talks in Berlin on Sunday. on.ft.com/4iSMzii <a href="https://bsky.app/profile/financialtimes.com/post/3m7wzoarjoc2f" target="_blank">financialtimes.com</a> (2025-12-14 20:36:39)</span><span style="padding-right:50px;">South Africa's Schaper wins playoff to post first tour victory reut.rs/4rWhoXF <a href="https://bsky.app/profile/reuters.com/post/3m7wzlnqbfi2i" target="_blank">reuters.com</a> (2025-12-14 20:35:12)</span><span style="padding-right:50px;">There are signs of populist opposition to AI technology that holds the promise of eliminating lots of jobs, WSJ’s Tim Higgins writes. <a href="https://bsky.app/profile/wsj.com/post/3m7wzhhjvns2g" target="_blank">wsj.com</a> (2025-12-14 20:32:51)</span>
   </div>
 </div>
 
@@ -32,14 +32,78 @@
 
 ## News Headlines
 
-1. 連邦鉄道は煤炭発電所よりも汚染が深刻すぎる
-2. ウクライナ、NATO加盟要求を撤回の可能性
-3. シドニーのビーチで銃撃事件　10人死亡
-4. 万科企業、社債の償還期限を1年延長
-5. ドイツ極右議員、米日国防協力強化を呼びかける
-6. ラグビーリーグ　ワイルドナイツが初戦大勝
+1. オーストラリアのボンディビーチで銃撃事件　12人死亡
+2. ウクライナ、NATO加盟を断念　米・欧州との安全保障保証を求める
+3. ワーナー・ブラザーズ・ディスカバリーのザスラブ氏「Hollywoodを変える」
+4. トランプ政権がベネズエラへの圧力強める狙いは？
+5. ボンディビーチ銃撃事件　12人死亡　2人の容疑者で1人射殺　もう1人は重傷で逮捕
+6. JAXAの次世代実証衛星　打ち上げ成功
 
 ----
+
+@financialtimes.com
+
+How Warner Bros Discovery’s David Zaslav defied Hollywood — again on.ft.com/4q3mNKB
+
+[2025-12-14 20:40:35](https://bsky.app/profile/financialtimes.com/post/3m7wzvbraua23)
+
+---
+
+@cnn.com
+
+Bondi Beach shooting was a terrorist attack on Australia's Jewish community on the first day of Hanukkah, police say. Follow live updates. https://cnn.it/48SoSCq
+
+[2025-12-14 20:38:19](https://bsky.app/profile/cnn.com/post/3m7wzrapy3m2q)
+
+---
+
+@financialtimes.com
+
+Ukrainian President Volodymyr Zelenskyy has said he is ready to give up on demands for Nato membership in exchange for security guarantees from the US and Europe, in a move aimed at advancing peace talks in Berlin on Sunday. on.ft.com/4iSMzii
+
+[2025-12-14 20:36:39](https://bsky.app/profile/financialtimes.com/post/3m7wzoarjoc2f)
+
+---
+
+@reuters.com
+
+South Africa's Schaper wins playoff to post first tour victory reut.rs/4rWhoXF
+
+[2025-12-14 20:35:12](https://bsky.app/profile/reuters.com/post/3m7wzlnqbfi2i)
+
+---
+
+@wsj.com
+
+There are signs of populist opposition to AI technology that holds the promise of eliminating lots of jobs, WSJ’s Tim Higgins writes.
+
+[2025-12-14 20:32:51](https://bsky.app/profile/wsj.com/post/3m7wzhhjvns2g)
+
+---
+
+@reuters.com
+
+World reacts to shooting at Australia's Bondi Beach that killed 12 reut.rs/3KKcDjg
+
+[2025-12-14 20:30:26](https://bsky.app/profile/reuters.com/post/3m7wzd4zajp2y)
+
+---
+
+@bloomberg.com
+
+The European Union faces an inflection point this week as it strives to prove it’s a geopolitical force, facing deadlines to fund Ukraine’s fight against Russia and to diversify supply lines away from the US
+
+[2025-12-14 20:30:12](https://bsky.app/profile/bloomberg.com/post/3m7wzcpsp4s2p)
+
+---
+
+@apnews.com
+
+A United Airlines flight experienced an engine failure during takeoff from Dulles International Airport on Saturday before safely returning to the airport, according to the Federal Aviation Administration.
+
+[2025-12-14 20:30:09](https://bsky.app/profile/apnews.com/post/3m7wzcn6qhn23)
+
+---
 
 @reuters.com
 
@@ -54,84 +118,6 @@ Insight: How the US freight rail industry got dirtier than coal power plants reu
 Ukraine offers to drop Nato membership demands on.ft.com/48Ak1H4
 
 [2025-12-14 20:22:47](https://bsky.app/profile/financialtimes.com/post/3m7wyvhl5ce2k)
-
----
-
-@npr.org
-
-Two gunmen have shot dead nine people at Sydney's Bondi Beach, with eleven wounded, including two police officers. Police shot dead one gunman, second was arrested in critical condition. n.pr/4oWwgmd
-
-[2025-12-14 20:18:12](https://bsky.app/profile/npr.org/post/3m7wynbannp2e)
-
----
-
-@japan.reuters.com
-
-中国の不動産開発大手、万科企業は、１５日に期限を迎える国内社債の償還を１年間延長する案について、社債権者の支持を得られなかった。 bit.ly/4ag1Vve
-
-[2025-12-14 20:15:15](https://bsky.app/profile/japan.reuters.com/post/3m7wyhy2cgj2f)
-
----
-
-@reuters.com
-
-German far-right lawmaker calls for US-German nationalist alliance at MAGA gala reut.rs/48Rjtez
-
-[2025-12-14 20:15:13](https://bsky.app/profile/reuters.com/post/3m7wyhwopxa2i)
-
----
-
-@wsj.com
-
-The falling out between Rep. Marjorie Taylor Greene and President Trump has left many of her constituents parsing whether they align with MAGA or “America First.”
-
-[2025-12-14 20:11:05](https://bsky.app/profile/wsj.com/post/3m7wyakk3ai2c)
-
----
-
-@nhknewsunofficial.bsky.social
-
-ラグビーリーグワン 開幕戦 ワイルドナイツが大勝
-https://news.web.nhk/newsweb/na/na-k10015003731000
-
-[2025-12-14 20:06:04](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7wxxmpqvj2l)
-
----
-
-@nhknewsunofficial.bsky.social
-
-千葉 銚子 釣り人２人 海に転落 1人不明 15日朝から捜索再開へ
-https://news.web.nhk/newsweb/na/na-k10015003541000
-
-[2025-12-14 20:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7wxs7bm2q2x)
-
----
-
-@sokuho.news
-
-🔔防災科研より【強震モニタ】動画です。
-
-震源:釧路沖, 深さ:50km
-マグニチュード:3.1, 最大震度:1
-📍https://www.google.com/maps?q=42.9,145.0&ll=42.9,145.0&z=7&t=h
-地震発生日時:2025-12-14 19:59頃
-(10倍速▶120s→12s) #地震
-
-[2025-12-14 20:02:46](https://bsky.app/profile/sokuho.news/post/3m7wxrob4my2b)
-
----
-
-@sokuho.news
-
-🔔気象庁より【地震速報】です。
-
-19時59分頃、北海道で最大震度1の地震を観測しました。
-震源:釧路沖, 深さ:50km, 規模:M3.1
-この地震による津波の心配はありません。
-(2025-12-14 20:02:17) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/14/2025-12-14-19-59-28.html?xlarge_image=1
-
-[2025-12-14 20:02:18](https://bsky.app/profile/sokuho.news/post/3m7wxquciqs2y)
 
 ---
 
