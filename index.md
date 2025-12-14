@@ -1,9 +1,9 @@
-# [2025-12-14 22:10 updated](2025_12_14.md)
+# [2025-12-14 22:30 updated](2025_12_14.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">オーストラリアの観光名所ボンダイビーチで１４日、ユダヤ教の祭り「ハヌカ」が催されている最中に銃撃事件が発生、少なくとも１２人が死亡し、３０人近くが負傷した。警察当局はテロ攻撃と認定している。 bit.ly/4pCbLML <a href="https://bsky.app/profile/japan.reuters.com/post/3m7x6scc6hh2q" target="_blank">japan.reuters.com</a> (2025-12-14 22:08:23)</span><span style="padding-right:50px;"> The chutzpah of Marjorie Taylor Greene on.ft.com/3KKP4qw  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m7x6qytnoy2c" target="_blank">financialtimes.com</a> (2025-12-14 22:07:40)</span><span style="padding-right:50px;">JPMorgan's top internet stock picks for next year <a href="https://bsky.app/profile/cnbc.com/post/3m7x6qdcqys23" target="_blank">cnbc.com</a> (2025-12-14 22:07:17)</span><span style="padding-right:50px;">La comunista Jeannette Jara y el ultraderechista José Antonio Kast se disputan la presidencia de Chile en segunda vuelta.  Sigue la cobertura en vivo de AP: bit.ly/4pNFBha  <a href="https://bsky.app/profile/apnews.com/post/3m7x6m57d3f24" target="_blank">apnews.com</a> (2025-12-14 22:04:57)</span><span style="padding-right:50px;">U.S.-China soybean tussle reveals Beijing’s food security strategy. Goldman Sachs on how to invest <a href="https://bsky.app/profile/cnbc.com/post/3m7x6m4jkfi2p" target="_blank">cnbc.com</a> (2025-12-14 22:04:56)</span>
+<span style="padding-right:50px;">Van Dijk hopeful Salah will stay at Liverpool after AFCON stint reut.rs/4pFOM3o <a href="https://bsky.app/profile/reuters.com/post/3m7x7qffhzm2k" target="_blank">reuters.com</a> (2025-12-14 22:25:13)</span><span style="padding-right:50px;">香港の民主派政党、ほぼ全滅　民主党が解散を正式決定 www.nikkei.com/article/DGXZQO...  民主党の結党は1994年。香港初の本格的な野党として一時は立法会（議会）の2割強の議席を占めました。  2020年の香港国家安全維持法の施行後は党幹部が相次ぎ逮捕され、苦境に陥っていました。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m7x7ayf5ux2m" target="_blank">nikkei.com</a> (2025-12-14 22:16:36)</span><span style="padding-right:50px;">オーストラリアの観光名所ボンダイビーチで１４日、ユダヤ教の祭り「ハヌカ」が催されている最中に銃撃事件が発生、少なくとも１２人が死亡し、３０人近くが負傷した。警察当局はテロ攻撃と認定している。 bit.ly/4pCbLML <a href="https://bsky.app/profile/japan.reuters.com/post/3m7x6scc6hh2q" target="_blank">japan.reuters.com</a> (2025-12-14 22:08:23)</span><span style="padding-right:50px;"> The chutzpah of Marjorie Taylor Greene on.ft.com/3KKP4qw  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m7x6qytnoy2c" target="_blank">financialtimes.com</a> (2025-12-14 22:07:40)</span><span style="padding-right:50px;">JPMorgan's top internet stock picks for next year <a href="https://bsky.app/profile/cnbc.com/post/3m7x6qdcqys23" target="_blank">cnbc.com</a> (2025-12-14 22:07:17)</span>
   </div>
 </div>
 
@@ -32,14 +32,40 @@
 
 ## News Headlines
 
-1. オーストラリアの有名ビーチで銃撃　12人死亡、警察は「テロ」と断定
-2. 米東部ブラウン大学で銃撃　容疑者を拘束、2人死亡・9人負傷
-3. 「ハヌカ」中の銃撃事件　オーストラリアのボンダイビーチで12人死亡
-4. 米・ブラウン大学で銃撃事件　2人死亡、9人負傷　容疑者を拘束
-5. ゼレンスキー大統領　米特使らと戦後の安全の保証など協議へ
-6. 伊東市長選挙　確定投票率は60.54％　当選に必要な法定得票数は8500票前後
+1. 
+ブラウン大学銃撃事件　2人死亡9人けが
+2. 
+テロと断定されたオーストラリアの銃撃事件　12人死亡
+3. 
+米大統領特使ら、ゼレンスキー大統領と戦後の安全保証など協議へ
+4.  新千歳空港　大雪影響　旅客機が一時立往生・欠航相次ぐ
+5.  伊東市長選挙　確定投票率は60.54％　当選に必要な法定得票数は8500票前後
+6.  米ブラウン大学銃撃事件　容疑者を拘束
 
 ----
+
+@reuters.com
+
+Van Dijk hopeful Salah will stay at Liverpool after AFCON stint reut.rs/4pFOM3o
+
+[2025-12-14 22:25:13](https://bsky.app/profile/reuters.com/post/3m7x7qffhzm2k)
+
+---
+
+@nikkei.com
+
+香港の民主派政党、ほぼ全滅　民主党が解散を正式決定
+www.nikkei.com/article/DGXZQO...
+
+民主党の結党は1994年。香港初の本格的な野党として一時は立法会（議会）の2割強の議席を占めました。
+
+2020年の香港国家安全維持法の施行後は党幹部が相次ぎ逮捕され、苦境に陥っていました。
+
+#ニュース
+
+[2025-12-14 22:16:36](https://bsky.app/profile/nikkei.com/post/3m7x7ayf5ux2m)
+
+---
 
 @japan.reuters.com
 
@@ -104,33 +130,6 @@ An enthusiast got his 1939 BMW 327/28 sports car ready for the prestigious compe
 Bystander who tackled armed man at Bondi Beach shooting hailed as hero reut.rs/4s1IInA
 
 [2025-12-14 22:00:51](https://bsky.app/profile/reuters.com/post/3m7x6espqt22i)
-
----
-
-@bloomberg.com
-
-Elevating the perspectives of women leaders and experts shaping global finance, driving decisions on capital allocation and advancing the conversation across the industry.
-
-✉️ Subscribe to our Women, Money & Power Report newsletter: bloom.bg/4hWXN4T
-
-[2025-12-14 22:00:44](https://bsky.app/profile/bloomberg.com/post/3m7x6emidmn2h)
-
----
-
-@nikkei.com
-
-戦争を欲する独裁者の事情　重みを増す軍事のカリスマ
-www.nikkei.com/article/DGXZQO...
-
-2025年、中国軍で大粛清の嵐が吹き荒れました。
-
-習近平国家主席の長年の側近だった軍人の多くが失脚するなか、健在なのが張又俠副主席。
-
-22年には高級幹部の定年の慣例を破り72歳で副主席に留任するなど、異例の扱いを受けてきました。
-
-なぜ重宝されるのでしょうか。権威主義国家ならではの事情があります。
-
-[2025-12-14 22:00:37](https://bsky.app/profile/nikkei.com/post/3m7x6efe7kx2n)
 
 ---
 
