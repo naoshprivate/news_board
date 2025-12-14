@@ -1,9 +1,9 @@
-# [2025-12-14 21:50 updated](2025_12_14.md)
+# [2025-12-14 22:10 updated](2025_12_14.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">CNN's Angus Watson reports from Sydney, where the Bondi Beach shooting has now been labeled by officials a "terror incident." <a href="https://bsky.app/profile/cnn.com/post/3m7x5j377r22x" target="_blank">cnn.com</a> (2025-12-14 21:45:20)</span><span style="padding-right:50px;">Prime Minister Anthony Albanese of Australia called the shooting on Bondi Beach, which left at least 11 people dead, a terrorist attack targeting the Jewish community during a Hanukkah celebration.   Follow live. <a href="https://bsky.app/profile/nytimes.com/post/3m7x5d5uw4c2b" target="_blank">nytimes.com</a> (2025-12-14 21:42:02)</span><span style="padding-right:50px;">米東部ブラウン大学で銃撃　容疑者を拘束、2人死亡・9人負傷 www.nikkei.com/article/DGXZQO...  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m7x5byz5ov2m" target="_blank">nikkei.com</a> (2025-12-14 21:41:23)</span><span style="padding-right:50px;">In the latest "SNL" cold open, James Austin Johnson's Trump defended himself against new Jeffrey Epstein photos and ordered a strike on Santa Claus. <a href="https://bsky.app/profile/usatoday.com/post/3m7x4oc5mgd2z" target="_blank">usatoday.com</a> (2025-12-14 21:30:22)</span><span style="padding-right:50px;">Snow should taper off in New York City by about midday on Sunday before temperatures plummet under clear skies later, as a quick moving winter storm sweeps through the US Northeast <a href="https://bsky.app/profile/bloomberg.com/post/3m7x4nxsxwt2f" target="_blank">bloomberg.com</a> (2025-12-14 21:30:11)</span>
+<span style="padding-right:50px;">オーストラリアの観光名所ボンダイビーチで１４日、ユダヤ教の祭り「ハヌカ」が催されている最中に銃撃事件が発生、少なくとも１２人が死亡し、３０人近くが負傷した。警察当局はテロ攻撃と認定している。 bit.ly/4pCbLML <a href="https://bsky.app/profile/japan.reuters.com/post/3m7x6scc6hh2q" target="_blank">japan.reuters.com</a> (2025-12-14 22:08:23)</span><span style="padding-right:50px;"> The chutzpah of Marjorie Taylor Greene on.ft.com/3KKP4qw  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3m7x6qytnoy2c" target="_blank">financialtimes.com</a> (2025-12-14 22:07:40)</span><span style="padding-right:50px;">JPMorgan's top internet stock picks for next year <a href="https://bsky.app/profile/cnbc.com/post/3m7x6qdcqys23" target="_blank">cnbc.com</a> (2025-12-14 22:07:17)</span><span style="padding-right:50px;">La comunista Jeannette Jara y el ultraderechista José Antonio Kast se disputan la presidencia de Chile en segunda vuelta.  Sigue la cobertura en vivo de AP: bit.ly/4pNFBha  <a href="https://bsky.app/profile/apnews.com/post/3m7x6m57d3f24" target="_blank">apnews.com</a> (2025-12-14 22:04:57)</span><span style="padding-right:50px;">U.S.-China soybean tussle reveals Beijing’s food security strategy. Goldman Sachs on how to invest <a href="https://bsky.app/profile/cnbc.com/post/3m7x6m4jkfi2p" target="_blank">cnbc.com</a> (2025-12-14 22:04:56)</span>
   </div>
 </div>
 
@@ -32,99 +32,105 @@
 
 ## News Headlines
 
-1. 米東部ブラウン大学で銃撃　容疑者を拘束、2人死亡・9人負傷
-2. オーストラリアの有名ビーチで銃撃　12人死亡、警察は「テロ」と断定
-3. 12人死亡　オーストラリアの有名ビーチで銃撃　テロと断定
-4. 大雪影響　新千歳空港旅客機が一時立往生
-5. 12人死亡　オーストラリアの有名ビーチで銃撃　テロと断定
-6. 大雪強まる　暴風や猛吹雪など警戒を
+1. オーストラリアの有名ビーチで銃撃　12人死亡、警察は「テロ」と断定
+2. 米東部ブラウン大学で銃撃　容疑者を拘束、2人死亡・9人負傷
+3. 「ハヌカ」中の銃撃事件　オーストラリアのボンダイビーチで12人死亡
+4. 米・ブラウン大学で銃撃事件　2人死亡、9人負傷　容疑者を拘束
+5. ゼレンスキー大統領　米特使らと戦後の安全の保証など協議へ
+6. 伊東市長選挙　確定投票率は60.54％　当選に必要な法定得票数は8500票前後
 
 ----
 
-@cnn.com
+@japan.reuters.com
 
-CNN's Angus Watson reports from Sydney, where the Bondi Beach shooting has now been labeled by officials a "terror incident."
+オーストラリアの観光名所ボンダイビーチで１４日、ユダヤ教の祭り「ハヌカ」が催されている最中に銃撃事件が発生、少なくとも１２人が死亡し、３０人近くが負傷した。警察当局はテロ攻撃と認定している。 bit.ly/4pCbLML
 
-[2025-12-14 21:45:20](https://bsky.app/profile/cnn.com/post/3m7x5j377r22x)
-
----
-
-@nytimes.com
-
-Prime Minister Anthony Albanese of Australia called the shooting on Bondi Beach, which left at least 11 people dead, a terrorist attack targeting the Jewish community during a Hanukkah celebration. 
-
-Follow live.
-
-[2025-12-14 21:42:02](https://bsky.app/profile/nytimes.com/post/3m7x5d5uw4c2b)
+[2025-12-14 22:08:23](https://bsky.app/profile/japan.reuters.com/post/3m7x6scc6hh2q)
 
 ---
 
-@nikkei.com
+@financialtimes.com
 
-米東部ブラウン大学で銃撃　容疑者を拘束、2人死亡・9人負傷
-www.nikkei.com/article/DGXZQO...
+ The chutzpah of Marjorie Taylor Greene on.ft.com/3KKP4qw  | opinion
 
-#ニュース
+[2025-12-14 22:07:40](https://bsky.app/profile/financialtimes.com/post/3m7x6qytnoy2c)
 
-[2025-12-14 21:41:23](https://bsky.app/profile/nikkei.com/post/3m7x5byz5ov2m)
+---
+
+@cnbc.com
+
+JPMorgan's top internet stock picks for next year
+
+[2025-12-14 22:07:17](https://bsky.app/profile/cnbc.com/post/3m7x6qdcqys23)
+
+---
+
+@apnews.com
+
+La comunista Jeannette Jara y el ultraderechista José Antonio Kast se disputan la presidencia de Chile en segunda vuelta.
+
+Sigue la cobertura en vivo de AP: bit.ly/4pNFBha 
+
+[2025-12-14 22:04:57](https://bsky.app/profile/apnews.com/post/3m7x6m57d3f24)
+
+---
+
+@cnbc.com
+
+U.S.-China soybean tussle reveals Beijing’s food security strategy. Goldman Sachs on how to invest
+
+[2025-12-14 22:04:56](https://bsky.app/profile/cnbc.com/post/3m7x6m4jkfi2p)
 
 ---
 
 @usatoday.com
 
-In the latest "SNL" cold open, James Austin Johnson's Trump defended himself against new Jeffrey Epstein photos and ordered a strike on Santa Claus.
+The Bills are in town preparing to play the New England Patriots on Sunday in nearby Foxboro, Massachusetts.
 
-[2025-12-14 21:30:22](https://bsky.app/profile/usatoday.com/post/3m7x4oc5mgd2z)
+[2025-12-14 22:03:22](https://bsky.app/profile/usatoday.com/post/3m7x6jdd6nb2o)
+
+---
+
+@wsj.com
+
+An enthusiast got his 1939 BMW 327/28 sports car ready for the prestigious competition by researching in the archives, sourcing handmade parts and taking much of the car apart. on.wsj.com/4alEJfb
+
+[2025-12-14 22:02:50](https://bsky.app/profile/wsj.com/post/3m7x6ienyr72g)
+
+---
+
+@reuters.com
+
+Bystander who tackled armed man at Bondi Beach shooting hailed as hero reut.rs/4s1IInA
+
+[2025-12-14 22:00:51](https://bsky.app/profile/reuters.com/post/3m7x6espqt22i)
 
 ---
 
 @bloomberg.com
 
-Snow should taper off in New York City by about midday on Sunday before temperatures plummet under clear skies later, as a quick moving winter storm sweeps through the US Northeast
+Elevating the perspectives of women leaders and experts shaping global finance, driving decisions on capital allocation and advancing the conversation across the industry.
 
-[2025-12-14 21:30:11](https://bsky.app/profile/bloomberg.com/post/3m7x4nxsxwt2f)
+✉️ Subscribe to our Women, Money & Power Report newsletter: bloom.bg/4hWXN4T
 
----
-
-@aljazeera.com
-
-Chileans gear up to cast their ballots in run-off election, with far-right candidate Jose Kast gaining ground in polls.
-
-[2025-12-14 21:30:02](https://bsky.app/profile/aljazeera.com/post/3m7x4npey452i)
+[2025-12-14 22:00:44](https://bsky.app/profile/bloomberg.com/post/3m7x6emidmn2h)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@nikkei.com
 
-ゼレンスキー大統領 米特使らと戦後の安全の保証など協議へ
-https://news.web.nhk/newsweb/na/na-k10015003881000
+戦争を欲する独裁者の事情　重みを増す軍事のカリスマ
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-14 21:27:04](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7x4ihmhu72k)
+2025年、中国軍で大粛清の嵐が吹き荒れました。
 
----
+習近平国家主席の長年の側近だった軍人の多くが失脚するなか、健在なのが張又俠副主席。
 
-@bbcnews-world-rss.bsky.social
+22年には高級幹部の定年の慣例を破り72歳で副主席に留任するなど、異例の扱いを受けてきました。
 
-'Person of interest' detained over Brown University shooting, official says
+なぜ重宝されるのでしょうか。権威主義国家ならではの事情があります。
 
-[2025-12-14 21:26:51](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7x4hzrhpz2b)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Eyewitness captures moment man tackles and disarms shooter
-
-[2025-12-14 21:25:46](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7x4g4db462b)
-
----
-
-@cnn.com
-
-A person of interest is in custody in connection with the Brown University shooting, Providence mayor's office says. Follow live updates.
-https://cnn.it/3Mz4q1S
-
-[2025-12-14 21:24:04](https://bsky.app/profile/cnn.com/post/3m7x4d2hdsf2b)
+[2025-12-14 22:00:37](https://bsky.app/profile/nikkei.com/post/3m7x6efe7kx2n)
 
 ---
 
