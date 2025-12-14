@@ -1,9 +1,9 @@
-# [2025-12-15 00:10 updated](2025_12_15.md)
+# [2025-12-15 00:30 updated](2025_12_15.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Jリーグ 4クラブが欧州でのキャンプ実施に向け支援制度使用へ https://news.web.nhk/newsweb/na/na-k10015003871000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7xfevrvwl2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 00:06:08)</span><span style="padding-right:50px;">The US labor market ground to a halt in 2025. The risk in 2026 is that it 'cracks.' <a href="https://bsky.app/profile/yahoofinance.com/post/3m7xfers4wh26" target="_blank">yahoofinance.com</a> (2025-12-15 00:06:06)</span><span style="padding-right:50px;">日銀 18日から金融政策決定会合 利上げの実施 最終判断へ https://news.web.nhk/newsweb/na/na-k10015003821000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7xfer73jd2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 00:06:03)</span><span style="padding-right:50px;">At least 11 people were killed in a terror attack on Sunday targeting the Jewish community celebrating the first night of Hannukah at Sydney’s famed Bondi Beach. https://cnn.it/4q0uEbO <a href="https://bsky.app/profile/cnn.com/post/3m7xfdtk4qx2v" target="_blank">cnn.com</a> (2025-12-15 00:05:34)</span><span style="padding-right:50px;">He craves a remote-control cone of metal that appears designed by Elon Musk. I want the magic of a real, fragrant tree. Can Christmas—and our marriage—be saved? on.wsj.com/4pvUoNw <a href="https://bsky.app/profile/wsj.com/post/3m7xf53xgje2z" target="_blank">wsj.com</a> (2025-12-15 00:01:48)</span>
+<span style="padding-right:50px;">Cameron’s movies have collectively earned nearly $9 billion at the global box office.  Read more: www.forbes.com/sites/mattcr... (Photos: The Chosunilbo JNS/Imazins/Getty Images, Paramount/20th Century Fox/Orion Pictures/Newscom) <a href="https://bsky.app/profile/forbes.com/post/3m7xglg5zok2n" target="_blank">forbes.com</a> (2025-12-15 00:27:43)</span><span style="padding-right:50px;">James Cameron Is Now A Billionaire  With several titanic box office successes—and a third Avatar film expected to gross more than $2 billion—the Oscar-winning director is now in elite company in Hollywood.  Read more: www.forbes.com/sites/mattcr... (Photo: Joel Saget/AFP/Getty Images) <a href="https://bsky.app/profile/forbes.com/post/3m7xgi66hb22n" target="_blank">forbes.com</a> (2025-12-15 00:25:53)</span><span style="padding-right:50px;">James Cameron Is Now A Billionaire  Full story: www.forbes.com/sites/mattcr... <a href="https://bsky.app/profile/forbes.com/post/3m7xggokkmc2n" target="_blank">forbes.com</a> (2025-12-15 00:25:04)</span><span style="padding-right:50px;">We evaluated 84 conditioners and found five top picks, matched to the detangling and hydrating needs of different hair types. nyti.ms/3MqvsZc <a href="https://bsky.app/profile/nytimes.com/post/3m7xfwjyexo2r" target="_blank">nytimes.com</a> (2025-12-15 00:16:02)</span><span style="padding-right:50px;">Three Americans were killed over the weekend in central Syria — the first American casualties on Syrian soil since the fall of the dictator Bashar al-Assad last year. Here is what to know. <a href="https://bsky.app/profile/nytimes.com/post/3m7xfutzqce2y" target="_blank">nytimes.com</a> (2025-12-15 00:15:05)</span>
   </div>
 </div>
 
@@ -32,16 +32,88 @@
 
 ## News Headlines
 
-Here are six headlines in Japanese:
+Here are six important news stories with headlines in Japanese:
 
-1. 4つのJリーグクラブが欧州でのキャンプのために支援制度を使う
-2. 日銀が18日から金融政策決定会議　利上げの実施について最終判断
-3. オーストラリアのボンディビーチでハヌカの式中のテロ攻撃　11人死亡
-4. 2025年のヘイズマントロフィー　投票結果と過去の受賞者を発表
-5. 不動産市場の変化　売り手が家を下げる割合が急増
-6. 自由日記　特に医療の分野で、処方箋を適切に取得するための長いプロセスを飛ばすことは危険か
+1. 俳優ジェームズ・キャメロン、億万長者に
+2. エイリアンに倒されるか！？ジェームズ・キャメロン監督が語るアバター3の秘密
+3. 美容品のヘアコンディショナーを比較　5つのランキングを発表
+4. シリアで米国人3人が殺害される　バシャール政権後初の米国人死者
+5. セキュリティーサービス会社が買収計画を進める
+6. スタートレックの「カルダス3世」がソフトバンクに買収されるか
 
 ----
+
+@forbes.com
+
+Cameron’s movies have collectively earned nearly $9 billion at the global box office.
+
+Read more: www.forbes.com/sites/mattcr... (Photos: The Chosunilbo JNS/Imazins/Getty Images, Paramount/20th Century Fox/Orion Pictures/Newscom)
+
+[2025-12-15 00:27:43](https://bsky.app/profile/forbes.com/post/3m7xglg5zok2n)
+
+---
+
+@forbes.com
+
+James Cameron Is Now A Billionaire
+
+With several titanic box office successes—and a third Avatar film expected to gross more than $2 billion—the Oscar-winning director is now in elite company in Hollywood.
+
+Read more: www.forbes.com/sites/mattcr... (Photo: Joel Saget/AFP/Getty Images)
+
+[2025-12-15 00:25:53](https://bsky.app/profile/forbes.com/post/3m7xgi66hb22n)
+
+---
+
+@forbes.com
+
+James Cameron Is Now A Billionaire
+
+Full story: www.forbes.com/sites/mattcr...
+
+[2025-12-15 00:25:04](https://bsky.app/profile/forbes.com/post/3m7xggokkmc2n)
+
+---
+
+@nytimes.com
+
+We evaluated 84 conditioners and found five top picks, matched to the detangling and hydrating needs of different hair types. nyti.ms/3MqvsZc
+
+[2025-12-15 00:16:02](https://bsky.app/profile/nytimes.com/post/3m7xfwjyexo2r)
+
+---
+
+@nytimes.com
+
+Three Americans were killed over the weekend in central Syria — the first American casualties on Syrian soil since the fall of the dictator Bashar al-Assad last year. Here is what to know.
+
+[2025-12-15 00:15:05](https://bsky.app/profile/nytimes.com/post/3m7xfutzqce2y)
+
+---
+
+@cnbc.com
+
+ServiceNow in talks to acquire cybersecurity startup Armis in potential $7 billion deal, Bloomberg reports
+
+[2025-12-15 00:12:39](https://bsky.app/profile/cnbc.com/post/3m7xfqidtfs2p)
+
+---
+
+@reuters.com
+
+Shaw's four-goal haul powers Man City to 6-1 WSL home win over Villa reut.rs/4aaxJl7
+
+[2025-12-15 00:10:12](https://bsky.app/profile/reuters.com/post/3m7xfm46dtd23)
+
+---
+
+@forbes.com
+
+The person of interest appears to be a man in his 30s, and it is unclear if they are affiliated with Brown University.
+
+[2025-12-15 00:10:04](https://bsky.app/profile/forbes.com/post/3m7xflv5yoy2w)
+
+---
 
 @nhknewsunofficial.bsky.social
 
@@ -57,77 +129,6 @@ https://news.web.nhk/newsweb/na/na-k10015003871000
 The US labor market ground to a halt in 2025. The risk in 2026 is that it 'cracks.'
 
 [2025-12-15 00:06:06](https://bsky.app/profile/yahoofinance.com/post/3m7xfers4wh26)
-
----
-
-@nhknewsunofficial.bsky.social
-
-日銀 18日から金融政策決定会合 利上げの実施 最終判断へ
-https://news.web.nhk/newsweb/na/na-k10015003821000
-
-[2025-12-15 00:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7xfer73jd2w)
-
----
-
-@cnn.com
-
-At least 11 people were killed in a terror attack on Sunday targeting the Jewish community celebrating the first night of Hannukah at Sydney’s famed Bondi Beach.
-https://cnn.it/4q0uEbO
-
-[2025-12-15 00:05:34](https://bsky.app/profile/cnn.com/post/3m7xfdtk4qx2v)
-
----
-
-@wsj.com
-
-He craves a remote-control cone of metal that appears designed by Elon Musk. I want the magic of a real, fragrant tree. Can Christmas—and our marriage—be saved? on.wsj.com/4pvUoNw
-
-[2025-12-15 00:01:48](https://bsky.app/profile/wsj.com/post/3m7xf53xgje2z)
-
----
-
-@usatoday.com
-
-Here's a look at who won the 2025 Heisman Trophy, including voting results, stats and a list of recent winners.
-
-[2025-12-15 00:00:46](https://bsky.app/profile/usatoday.com/post/3m7xf3axd2x2o)
-
----
-
-@cnbc.com
-
-Home sellers are taking their homes off the market at a fast clip, because they are sitting for more than 60 days and prices are weakening.
-
-Roughly 15% of the homes that were delisted in September were at risk of selling at a loss, according to Redfin.
-
-[2025-12-15 00:00:21](https://bsky.app/profile/cnbc.com/post/3m7xf2j5w2423)
-
----
-
-@cnn.com
-
-"After reading countless studies, talking to dozens of experts and exploring all sorts of trendy apps, I still can't help you reliably avoid ultraprocessed foods, also known as UPFs," writes Sandee LaMotte. | Analysis
-https://cnn.it/4pDxOCT
-
-[2025-12-15 00:00:20](https://bsky.app/profile/cnn.com/post/3m7xf2hpifs23)
-
----
-
-@washingtonpost.com
-
-Normally, FDA approval for drugs is obtained after years of large-scale testing.
-
-But President Trump’s pledge to fast-track leucovorin for autism treatment, bypassing that process, has left many doctors on the front lines divided.
-
-[2025-12-15 00:00:19](https://bsky.app/profile/washingtonpost.com/post/3m7xf2gh3dy24)
-
----
-
-@bloomberg.com
-
-Calibri is out at the State Department while Times New Roman is in.
-
-[2025-12-15 00:00:16](https://bsky.app/profile/bloomberg.com/post/3m7xf2dkvnm2z)
 
 ---
 
