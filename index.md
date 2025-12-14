@@ -1,9 +1,9 @@
-# [2025-12-14 23:10 updated](2025_12_14.md)
+# [2025-12-14 23:30 updated](2025_12_14.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Nvidia or OpenAI: Who will take the crown? <a href="https://bsky.app/profile/yahoofinance.com/post/3m7xbzhzawu2v" target="_blank">yahoofinance.com</a> (2025-12-14 23:06:06)</span><span style="padding-right:50px;">Israeli Supreme Court rules against government's dismissal of attorney general reut.rs/48DqmBF <a href="https://bsky.app/profile/reuters.com/post/3m7xbxrxhmu2k" target="_blank">reuters.com</a> (2025-12-14 23:05:09)</span><span style="padding-right:50px;">Bondi Beach Shooting Latest: Twelve People Confirmed Dead in Attack <a href="https://bsky.app/profile/bloomberg.com/post/3m7xbxovjuh2u" target="_blank">bloomberg.com</a> (2025-12-14 23:05:06)</span><span style="padding-right:50px;">Exit interview: After four decades, the most powerful woman in the history of the United States heads home. Nancy Pelosi is still defiant. <a href="https://bsky.app/profile/usatoday.com/post/3m7xbxg2mxz2o" target="_blank">usatoday.com</a> (2025-12-14 23:04:56)</span><span style="padding-right:50px;">If your home is about a football-field length from new sound barriers, the value will go up. on.wsj.com/4qsMMf1 <a href="https://bsky.app/profile/wsj.com/post/3m7xbu3kqpn2h" target="_blank">wsj.com</a> (2025-12-14 23:03:04)</span>
+<span style="padding-right:50px;">🔔NHKより【地震速報】です。  ■震度4■ 能登地方 (2025-12-14 23:26) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m7xdc7qi2x2r" target="_blank">sokuho.news</a> (2025-12-14 23:28:52)</span><span style="padding-right:50px;">🔔気象庁より【震度速報】です。  23時26分頃、石川県で最大震度4の地震を観測しました。 今後の情報に注意してください。 (2025-12-14 23:28:38) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/14/2025-12-14-23-26-54.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3m7xdbuf2d62b" target="_blank">sokuho.news</a> (2025-12-14 23:28:40)</span><span style="padding-right:50px;">🚨地震発生中❗❗❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像9🈡 (2025-12-14 23:27:48) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m7xdaiimjy2y" target="_blank">sokuho.news</a> (2025-12-14 23:27:55)</span><span style="padding-right:50px;">🚨地震発生中❗❗❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像8 (2025-12-14 23:27:44) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m7xdaewtga2x" target="_blank">sokuho.news</a> (2025-12-14 23:27:51)</span><span style="padding-right:50px;">🚨地震発生中❗❗❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像7 (2025-12-14 23:27:24) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3m7xda34z2h2s" target="_blank">sokuho.news</a> (2025-12-14 23:27:41)</span>
   </div>
 </div>
 
@@ -32,97 +32,137 @@
 
 ## News Headlines
 
-1.  イスラエル最高裁判所、法務総長の解任を却下
-2.  ボンディビーチ銃撃事件　12人死亡、30人以上負傷
-3.  ボルチモア大学銃撃事件　人質をとった容疑者が逮捕
-4.  オーストラリアのボンディビーチでハヌカ祭り中に銃撃事件　12人死亡
-5.  静岡伊東市長選挙　前市長の落選確実
-6.  ボルチモア大学銃撃事件　人質をとった容疑者が逮捕
+1. 4.0の地震が青森県東方沖で発生
+2. 伊東市長選で元市議の当選が確実
+3. 地震が石川県で発生、最大震度4
+4. トランプのMAGA支持者は2026年にはいるが、亀裂が見え始める
+5. イスラエル最高裁は総理大臣の官房長官解任決定を無効に
+6. クリスマスを前にベツレヘムは戦争の影でクリスマスを迎える
 
 ----
 
-@yahoofinance.com
+@sokuho.news
 
-Nvidia or OpenAI: Who will take the crown?
+🔔NHKより【地震速報】です。
 
-[2025-12-14 23:06:06](https://bsky.app/profile/yahoofinance.com/post/3m7xbzhzawu2v)
+■震度4■
+能登地方
+(2025-12-14 23:26) #地震
 
----
-
-@reuters.com
-
-Israeli Supreme Court rules against government's dismissal of attorney general reut.rs/48DqmBF
-
-[2025-12-14 23:05:09](https://bsky.app/profile/reuters.com/post/3m7xbxrxhmu2k)
-
----
-
-@bloomberg.com
-
-Bondi Beach Shooting Latest: Twelve People Confirmed Dead in Attack
-
-[2025-12-14 23:05:06](https://bsky.app/profile/bloomberg.com/post/3m7xbxovjuh2u)
-
----
-
-@usatoday.com
-
-Exit interview: After four decades, the most powerful woman in the history of the United States heads home. Nancy Pelosi is still defiant.
-
-[2025-12-14 23:04:56](https://bsky.app/profile/usatoday.com/post/3m7xbxg2mxz2o)
-
----
-
-@wsj.com
-
-If your home is about a football-field length from new sound barriers, the value will go up. on.wsj.com/4qsMMf1
-
-[2025-12-14 23:03:04](https://bsky.app/profile/wsj.com/post/3m7xbu3kqpn2h)
-
----
-
-@nhknewsunofficial.bsky.social
-
-北海道～北陸 風と雪強まる 猛吹雪や暴風などに厳重警戒を
-https://news.web.nhk/newsweb/na/na-k10015003321000
-
-[2025-12-14 23:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7xbu33god2d)
+[2025-12-14 23:28:52](https://bsky.app/profile/sokuho.news/post/3m7xdc7qi2x2r)
 
 ---
 
 @sokuho.news
 
-🔔ANNより【速報】です。
+🔔気象庁より【震度速報】です。
 
-【速報】静岡・伊東市長選で前市議の杉本憲也氏が当選 学歴詐称問題の田久保前市長落選
-(2025年12月14日 23:02) #ニュース
+23時26分頃、石川県で最大震度4の地震を観測しました。
+今後の情報に注意してください。
+(2025-12-14 23:28:38) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/14/2025-12-14-23-26-54.html?xlarge_image=1
 
-[2025-12-14 23:02:38](https://bsky.app/profile/sokuho.news/post/3m7xbtcncc52x)
-
----
-
-@bloomberg.com
-
-A person of interest has been detained over the fatal shooting at Brown University, officials said
-
-[2025-12-14 23:00:57](https://bsky.app/profile/bloomberg.com/post/3m7xbqbxu7x2e)
+[2025-12-14 23:28:40](https://bsky.app/profile/sokuho.news/post/3m7xdbuf2d62b)
 
 ---
 
-@nikkei.com
+@sokuho.news
 
-温暖化対策の見えざる壁　「適応格差」とは何か？（無料記事）
-www.nikkei.com/article/DGXZQO...
+🚨地震発生中❗❗❗❗
 
-[2025-12-14 23:00:50](https://bsky.app/profile/nikkei.com/post/3m7xbq3c7bk2y)
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像9🈡
+(2025-12-14 23:27:48) #緊急地震速報
+
+[2025-12-14 23:27:55](https://bsky.app/profile/sokuho.news/post/3m7xdaiimjy2y)
 
 ---
 
-@reuters.com
+@sokuho.news
 
-Bondi Beach shooting, Brown University, Syria and Messi riot reut.rs/3MLrpqt
+🚨地震発生中❗❗❗❗
 
-[2025-12-14 23:00:49](https://bsky.app/profile/reuters.com/post/3m7xbpzylp42y)
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像8
+(2025-12-14 23:27:44) #緊急地震速報
+
+[2025-12-14 23:27:51](https://bsky.app/profile/sokuho.news/post/3m7xdaewtga2x)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗❗❗
+
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像7
+(2025-12-14 23:27:24) #緊急地震速報
+
+[2025-12-14 23:27:41](https://bsky.app/profile/sokuho.news/post/3m7xda34z2h2s)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗❗❗
+
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像6
+(2025-12-14 23:27:09) #緊急地震速報
+
+[2025-12-14 23:27:38](https://bsky.app/profile/sokuho.news/post/3m7xd7yj6sq2x)
+
+---
+
+@npr.org
+
+Hundreds had gathered for an event at Bondi Beach called Chanukah by the Sea, which was celebrating the start of the Hanukkah Jewish festival. n.pr/3Mxhdlv
+
+[2025-12-14 23:27:37](https://bsky.app/profile/npr.org/post/3m7xd7xswmf24)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗❗❗
+
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像4
+(2025-12-14 23:27:04) #緊急地震速報
+
+[2025-12-14 23:27:24](https://bsky.app/profile/sokuho.news/post/3m7xd7lhozc2b)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗❗❗
+
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像3
+(2025-12-14 23:26:59) #緊急地震速報
+
+[2025-12-14 23:27:12](https://bsky.app/profile/sokuho.news/post/3m7xd77vsji2x)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗❗❗
+
+⚠️揺れに警戒してください
+🔗http://www.kmoni.bosai.go.jp/
+
+🔶防災科研/強震モニタ/予測震度画像2
+(2025-12-14 23:26:58) #緊急地震速報
+
+[2025-12-14 23:27:06](https://bsky.app/profile/sokuho.news/post/3m7xd723s4x2r)
 
 ---
 
