@@ -1,9 +1,9 @@
-# [2025-12-15 05:50 updated](2025_12_15.md)
+# [2025-12-15 06:10 updated](2025_12_15.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Bondi Beach shooting: Australian officials say the 15 people killed in the antisemitic attack range from 10 to 87 years old, and the two shooters were father and son. <a href="https://bsky.app/profile/nbcnews.com/post/3m7xykinywv2x" target="_blank">nbcnews.com</a> (2025-12-15 05:49:19)</span><span style="padding-right:50px;">“What was in all this medication? Where were these babies going?” Dozens of Thai women traveled to the country of Georgia as potential surrogates, on the promise of generous pay. But the longer they stayed, the more confusing things became. <a href="https://bsky.app/profile/nytimes.com/post/3m7xyilc54c2i" target="_blank">nytimes.com</a> (2025-12-15 05:48:15)</span><span style="padding-right:50px;">米 ブラウン大学で銃撃 2人死亡 関与したとみられる人物を拘束 https://news.web.nhk/newsweb/na/na-k10015003451000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7xyifn3zs2x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 05:48:07)</span><span style="padding-right:50px;">“ゼレンスキー大統領 和平案めぐり譲歩の可能性に言及” 報道 https://news.web.nhk/newsweb/na/na-k10015003941000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7xyibhden2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 05:48:02)</span><span style="padding-right:50px;">島根 出雲商業高校「出商デパート」 大勢の市民でにぎわう https://news.web.nhk/newsweb/na/na-k10015003651000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7xyczrkdd2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 05:45:06)</span>
+<span style="padding-right:50px;">福岡 2人刺された事件 30代の男から聴取 殺人未遂容疑で捜査 https://news.web.nhk/newsweb/na/na-k10015003921000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7xznsekhl2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 06:09:01)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】福岡市の商業施設で男女2人が刺された事件 30代の男を確保 福岡県警 (2025年12月15日 06:08) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7xzmgdb3a2z" target="_blank">sokuho.news</a> (2025-12-15 06:08:17)</span><span style="padding-right:50px;">🔔NHKより【速報】です。  福岡市中央区で男女2人が刺された事件 30代男から聴取 殺人未遂容疑で捜査 (2025-12-15 06:07) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7xzlthu5k2v" target="_blank">sokuho.news</a> (2025-12-15 06:07:57)</span><span style="padding-right:50px;">🔔NHKより【速報 JUST IN】です。  福岡 2人刺された事件 30代の男から聴取 殺人未遂容疑で捜査 (2025-12-15 06:07:21) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7xzljkruh2b" target="_blank">sokuho.news</a> (2025-12-15 06:07:47)</span><span style="padding-right:50px;">Breaking news: Australian authorities identified one of the Bondi Beach gunmen as a 50-year-old man, who was also killed, and the suspected second shooter as his 24-year-old son, who was hospitalized.  More live updates here:  <a href="https://bsky.app/profile/washingtonpost.com/post/3m7xzimpyan2e" target="_blank">washingtonpost.com</a> (2025-12-15 06:06:10)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.81 (🔺0.13 : 2025-12-14)</span>
+<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.80 (🔺0.12 : 2025-12-14)</span>
   </div>
 </div>
 
@@ -32,99 +32,103 @@
 
 ## News Headlines
 
-Here are six selected headlines in Japanese:
-
-1. シドニー銃撃事件　16人死亡 ユダヤ系住民狙ったテロとして捜査
-2. 16人死傷　シドニー銃撃事件　銃撃犯は父子どちらも殺害
-3. 豪国で銃撃事件　16人死亡　メディアはテロとみなし　捜査開始
-4. フランス・EU-メルコスール貿易交渉　延期の可能性
-5. ウクライナ・ゼレンスキー氏　NATO加盟断念に言及　和平協議
-6. 米国でAI規制　トランプ政権の命令　州の権限制限
+1. 福岡市で2人刺され、30代の男が殺人未遂で取り調べ
+2. 米ブラウン大学銃撃事件、関与したとされる人物を拘束
+3. シドニー銃撃事件　16人死亡　ユダヤ系住民狙ったテロとして捜査
+4. ウクライナ大統領がNATO加盟断念を表明
+5. 出雲で「出商デパート」で大勢の市民が集まる
+6. フランスがEU・南米との貿易協定の延期を検討
 
 ----
 
-@nbcnews.com
-
-Bondi Beach shooting: Australian officials say the 15 people killed in the antisemitic attack range from 10 to 87 years old, and the two shooters were father and son.
-
-[2025-12-15 05:49:19](https://bsky.app/profile/nbcnews.com/post/3m7xykinywv2x)
-
----
-
-@nytimes.com
-
-“What was in all this medication? Where were these babies going?” Dozens of Thai women traveled to the country of Georgia as potential surrogates, on the promise of generous pay. But the longer they stayed, the more confusing things became.
-
-[2025-12-15 05:48:15](https://bsky.app/profile/nytimes.com/post/3m7xyilc54c2i)
-
----
-
 @nhknewsunofficial.bsky.social
 
-米 ブラウン大学で銃撃 2人死亡 関与したとみられる人物を拘束
-https://news.web.nhk/newsweb/na/na-k10015003451000
+福岡 2人刺された事件 30代の男から聴取 殺人未遂容疑で捜査
+https://news.web.nhk/newsweb/na/na-k10015003921000
 
-[2025-12-15 05:48:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7xyifn3zs2x)
-
----
-
-@nhknewsunofficial.bsky.social
-
-“ゼレンスキー大統領 和平案めぐり譲歩の可能性に言及” 報道
-https://news.web.nhk/newsweb/na/na-k10015003941000
-
-[2025-12-15 05:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7xyibhden2s)
+[2025-12-15 06:09:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7xznsekhl2b)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@sokuho.news
 
-島根 出雲商業高校「出商デパート」 大勢の市民でにぎわう
-https://news.web.nhk/newsweb/na/na-k10015003651000
+🔔ANNより【速報】です。
 
-[2025-12-15 05:45:06](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7xyczrkdd2b)
+【速報】福岡市の商業施設で男女2人が刺された事件 30代の男を確保 福岡県警
+(2025年12月15日 06:08) #ニュース
 
----
-
-@nhknewsunofficial.bsky.social
-
-香川の正月の郷土料理「あん餅雑煮」で外国人と地元住民が交流
-https://news.web.nhk/newsweb/na/na-k10015003641000
-
-[2025-12-15 05:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7xycvgumi2u)
+[2025-12-15 06:08:17](https://bsky.app/profile/sokuho.news/post/3m7xzmgdb3a2z)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@sokuho.news
 
-高校生が自分で作った衣装まといファッションショー 佐賀 小城
-https://news.web.nhk/newsweb/na/na-k10015003631000
+🔔NHKより【速報】です。
 
-[2025-12-15 05:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7xy5kqnjj2l)
+福岡市中央区で男女2人が刺された事件 30代男から聴取 殺人未遂容疑で捜査
+(2025-12-15 06:07) #ニュース
 
----
-
-@financialtimes.com
-
-France tries to delay EU-Mercosur trade deal on.ft.com/44qRcKE
-
-[2025-12-15 05:41:59](https://bsky.app/profile/financialtimes.com/post/3m7xy5eskfh2w)
+[2025-12-15 06:07:57](https://bsky.app/profile/sokuho.news/post/3m7xzlthu5k2v)
 
 ---
 
-@nytimes.com
+@sokuho.news
 
-Central Park was under a canvas of snow Sunday morning, with its trees, meadows and pathways frosted in a wintry icing after New York City’s first big snowfall of the season. trib.al/1iP7AJr
+<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>福岡 2人刺された事件 30代の男から聴取 殺人未遂容疑で捜査</strong><br><strong>(2025-12-15 06:07:21) #ニュース</strong>
 
-[2025-12-15 05:41:54](https://bsky.app/profile/nytimes.com/post/3m7xy57wj4s23)
+[2025-12-15 06:07:47](https://bsky.app/profile/sokuho.news/post/3m7xzljkruh2b)
 
 ---
 
-@nytimes.com
+@washingtonpost.com
 
-Pips is a logic puzzle where players must arrange a set of dominoes to meet the conditions of the board to win. Even though the game is timed, there’s no way to lose. trib.al/mWydqAr
+<strong><span style="color: red;">Breaking news:</span> Australian authorities identified one of the Bondi Beach gunmen as a 50-year-old man, who was also killed, and the suspected second shooter as his 24-year-old son, who was hospitalized.</strong><br><strong></strong><br><strong>More live updates here: </strong>
 
-[2025-12-15 05:39:13](https://bsky.app/profile/nytimes.com/post/3m7xxyginvc23)
+[2025-12-15 06:06:10](https://bsky.app/profile/washingtonpost.com/post/3m7xzimpyan2e)
+
+---
+
+@apnews.com
+
+Mass shootings are rare in Australia, where gun ownership has been tightly controlled since a massacre in 1996. Here is a timeline of some recent shootings.
+
+[2025-12-15 06:01:00](https://bsky.app/profile/apnews.com/post/3m7xz7fcsbq2r)
+
+---
+
+@usatoday.com
+
+Officials announced a person of interest was in custody after a gunman opened fire at Brown University over the weekend, killing at least two people.
+
+[2025-12-15 06:00:39](https://bsky.app/profile/usatoday.com/post/3m7xz6r5wuc2w)
+
+---
+
+@cnbc.com
+
+When your kid is in the middle of a tantrum, logic and lectures don’t work.
+
+Research shows that during emotional overwhelm, a child’s prefrontal cortex essentially goes offline.
+
+These seven magic phrases work with your child’s nervous system, says Reem Raouda, a child psychologist.
+
+[2025-12-15 06:00:31](https://bsky.app/profile/cnbc.com/post/3m7xz6jhmid24)
+
+---
+
+@bloomberg.com
+
+The president “has very strong and well-founded views about what we ought to do,” Hassett, Trump’s top economic adviser at the White House, said Sunday on CBS’ Face the Nation.
+
+[2025-12-15 06:00:13](https://bsky.app/profile/bloomberg.com/post/3m7xz5yqgrl24)
+
+---
+
+@reuters.com
+
+🔊' I'm shocked, but I'm not surprised.’ A student talks to Reuters from Brown University as the site remains on lockdown after a shooting that killed two people. Hear more on Reuters World News reut.rs/48NwKVG
+
+[2025-12-15 05:55:44](https://bsky.app/profile/reuters.com/post/3m7xyvxiug22e)
 
 ---
 
