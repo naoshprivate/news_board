@@ -1,9 +1,9 @@
-# [2025-12-15 05:30 updated](2025_12_15.md)
+# [2025-12-15 05:50 updated](2025_12_15.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The death toll of Sunday’s shooting at a Hanukkah celebration at Australia’s Bondi Beach rose to 16, officials said, designating the attack as a terror incident that targeted the city’s Jewish community.   Forty people were hospitalized. <a href="https://bsky.app/profile/washingtonpost.com/post/3m7xxfihyrh2d" target="_blank">washingtonpost.com</a> (2025-12-15 05:28:37)</span><span style="padding-right:50px;">Flash floods kill seven people in Morocco's Safi reut.rs/3MLS7zf <a href="https://bsky.app/profile/reuters.com/post/3m7xx77xtb72b" target="_blank">reuters.com</a> (2025-12-15 05:25:07)</span><span style="padding-right:50px;">Martha Stewart knows how to throw a great party, so we sat down with the legendary hostess to ask her how she does it. She's sharing the kitchen gear she's deemed worth investing in, how to design on-theme tablescapes, and why she doesn’t want to taste your homemade jam. <a href="https://bsky.app/profile/nytimes.com/post/3m7xx75qt3u2z" target="_blank">nytimes.com</a> (2025-12-15 05:25:05)</span><span style="padding-right:50px;">自民 防衛装備品移転の運用指針の見直し 論点整理 議論へ https://news.web.nhk/newsweb/na/na-k10015003811000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7xx5eznsp2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 05:24:03)</span><span style="padding-right:50px;">Exclusive: Despite decent performance, Armistice Capital plans to give clients shares in new investment vehicle in lieu of cash—again. <a href="https://bsky.app/profile/wsj.com/post/3m7xwwxxmme2s" target="_blank">wsj.com</a> (2025-12-15 05:20:30)</span>
+<span style="padding-right:50px;">Bondi Beach shooting: Australian officials say the 15 people killed in the antisemitic attack range from 10 to 87 years old, and the two shooters were father and son. <a href="https://bsky.app/profile/nbcnews.com/post/3m7xykinywv2x" target="_blank">nbcnews.com</a> (2025-12-15 05:49:19)</span><span style="padding-right:50px;">“What was in all this medication? Where were these babies going?” Dozens of Thai women traveled to the country of Georgia as potential surrogates, on the promise of generous pay. But the longer they stayed, the more confusing things became. <a href="https://bsky.app/profile/nytimes.com/post/3m7xyilc54c2i" target="_blank">nytimes.com</a> (2025-12-15 05:48:15)</span><span style="padding-right:50px;">米 ブラウン大学で銃撃 2人死亡 関与したとみられる人物を拘束 https://news.web.nhk/newsweb/na/na-k10015003451000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7xyifn3zs2x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 05:48:07)</span><span style="padding-right:50px;">“ゼレンスキー大統領 和平案めぐり譲歩の可能性に言及” 報道 https://news.web.nhk/newsweb/na/na-k10015003941000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7xyibhden2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 05:48:02)</span><span style="padding-right:50px;">島根 出雲商業高校「出商デパート」 大勢の市民でにぎわう https://news.web.nhk/newsweb/na/na-k10015003651000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7xyczrkdd2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 05:45:06)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.80 (🔺0.13 : 2025-12-14)</span>
+<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.81 (🔺0.13 : 2025-12-14)</span>
   </div>
 </div>
 
@@ -32,102 +32,99 @@
 
 ## News Headlines
 
-Here are six headlines in Japanese:
+Here are six selected headlines in Japanese:
 
-1. シドニー銃撃事件　16人死亡　ユダヤ系住民狙ったテロとして捜査
-2. 総理府　防衛装備品移転の運用指針の見直し　論点整理　議論へ
-3. スピードスケートW杯　吉田雪乃が今季初優勝
-4. 北海道　猛吹雪　大雪・暴風による交通影響に警戒を
-5. ストミレンがセルティックを3-1で倒しスコティッシュリーグカップを制す
-6. ベラルーシ　米国との関係改善のため数百人の囚人を釈放
+1. シドニー銃撃事件　16人死亡 ユダヤ系住民狙ったテロとして捜査
+2. 16人死傷　シドニー銃撃事件　銃撃犯は父子どちらも殺害
+3. 豪国で銃撃事件　16人死亡　メディアはテロとみなし　捜査開始
+4. フランス・EU-メルコスール貿易交渉　延期の可能性
+5. ウクライナ・ゼレンスキー氏　NATO加盟断念に言及　和平協議
+6. 米国でAI規制　トランプ政権の命令　州の権限制限
 
 ----
 
-@washingtonpost.com
+@nbcnews.com
 
-The death toll of Sunday’s shooting at a Hanukkah celebration at Australia’s Bondi Beach rose to 16, officials said, designating the attack as a terror incident that targeted the city’s Jewish community. 
+Bondi Beach shooting: Australian officials say the 15 people killed in the antisemitic attack range from 10 to 87 years old, and the two shooters were father and son.
 
-Forty people were hospitalized.
-
-[2025-12-15 05:28:37](https://bsky.app/profile/washingtonpost.com/post/3m7xxfihyrh2d)
-
----
-
-@reuters.com
-
-Flash floods kill seven people in Morocco's Safi reut.rs/3MLS7zf
-
-[2025-12-15 05:25:07](https://bsky.app/profile/reuters.com/post/3m7xx77xtb72b)
+[2025-12-15 05:49:19](https://bsky.app/profile/nbcnews.com/post/3m7xykinywv2x)
 
 ---
 
 @nytimes.com
 
-Martha Stewart knows how to throw a great party, so we sat down with the legendary hostess to ask her how she does it. She's sharing the kitchen gear she's deemed worth investing in, how to design on-theme tablescapes, and why she doesn’t want to taste your homemade jam.
+“What was in all this medication? Where were these babies going?” Dozens of Thai women traveled to the country of Georgia as potential surrogates, on the promise of generous pay. But the longer they stayed, the more confusing things became.
 
-[2025-12-15 05:25:05](https://bsky.app/profile/nytimes.com/post/3m7xx75qt3u2z)
-
----
-
-@nhknewsunofficial.bsky.social
-
-自民 防衛装備品移転の運用指針の見直し 論点整理 議論へ
-https://news.web.nhk/newsweb/na/na-k10015003811000
-
-[2025-12-15 05:24:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7xx5eznsp2b)
-
----
-
-@wsj.com
-
-Exclusive: Despite decent performance, Armistice Capital plans to give clients shares in new investment vehicle in lieu of cash—again.
-
-[2025-12-15 05:20:30](https://bsky.app/profile/wsj.com/post/3m7xwwxxmme2s)
-
----
-
-@en.afp.com
-
-⚽ Star forward Mohamed Salah will be out of sight but not out of mind over the next few weeks while Manchester City are showing ominous signs that they are finding top gear in the Premier League. AFP Sport looks at three talking points from the weekend's action
-
-u.afp.com/S7EZ
-
-[2025-12-15 05:20:22](https://bsky.app/profile/en.afp.com/post/3m7xwwpxcyp2v)
+[2025-12-15 05:48:15](https://bsky.app/profile/nytimes.com/post/3m7xyilc54c2i)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-シドニー銃撃事件 16人死亡 ユダヤ系住民狙ったテロとして捜査
-https://news.web.nhk/newsweb/na/na-k10015003751000
+米 ブラウン大学で銃撃 2人死亡 関与したとみられる人物を拘束
+https://news.web.nhk/newsweb/na/na-k10015003451000
 
-[2025-12-15 05:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7xwsmwfkj24)
+[2025-12-15 05:48:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7xyifn3zs2x)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+“ゼレンスキー大統領 和平案めぐり譲歩の可能性に言及” 報道
+https://news.web.nhk/newsweb/na/na-k10015003941000
+
+[2025-12-15 05:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7xyibhden2s)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+島根 出雲商業高校「出商デパート」 大勢の市民でにぎわう
+https://news.web.nhk/newsweb/na/na-k10015003651000
+
+[2025-12-15 05:45:06](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7xyczrkdd2b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+香川の正月の郷土料理「あん餅雑煮」で外国人と地元住民が交流
+https://news.web.nhk/newsweb/na/na-k10015003641000
+
+[2025-12-15 05:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7xycvgumi2u)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+高校生が自分で作った衣装まといファッションショー 佐賀 小城
+https://news.web.nhk/newsweb/na/na-k10015003631000
+
+[2025-12-15 05:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7xy5kqnjj2l)
+
+---
+
+@financialtimes.com
+
+France tries to delay EU-Mercosur trade deal on.ft.com/44qRcKE
+
+[2025-12-15 05:41:59](https://bsky.app/profile/financialtimes.com/post/3m7xy5eskfh2w)
 
 ---
 
 @nytimes.com
 
-Strands is a word search with a unique twist. Can you uncover the theme? Play here: trib.al/6yWIfz4
+Central Park was under a canvas of snow Sunday morning, with its trees, meadows and pathways frosted in a wintry icing after New York City’s first big snowfall of the season. trib.al/1iP7AJr
 
-[2025-12-15 05:15:23](https://bsky.app/profile/nytimes.com/post/3m7xwnsukgc22)
-
----
-
-@reuters.com
-
-Death toll climbs to 16 after mass shooting at Sydney's Bondi Beach reut.rs/4ahkZcr
-
-[2025-12-15 05:15:13](https://bsky.app/profile/reuters.com/post/3m7xwnjizeb2x)
+[2025-12-15 05:41:54](https://bsky.app/profile/nytimes.com/post/3m7xy57wj4s23)
 
 ---
 
-@washingtonpost.com
+@nytimes.com
 
-One Brown University student has been discharged from the hospital, another is in critical but stable condition, and seven others are in stable condition, Providence Mayor Brett Smiley said after he met with students in the hospital Sunday.
+Pips is a logic puzzle where players must arrange a set of dominoes to meet the conditions of the board to win. Even though the game is timed, there’s no way to lose. trib.al/mWydqAr
 
-Read more here:
-
-[2025-12-15 05:13:38](https://bsky.app/profile/washingtonpost.com/post/3m7xwkorq6s2g)
+[2025-12-15 05:39:13](https://bsky.app/profile/nytimes.com/post/3m7xxyginvc23)
 
 ---
 
