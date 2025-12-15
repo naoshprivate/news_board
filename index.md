@@ -1,9 +1,9 @@
-# [2025-12-15 11:50 updated](2025_12_15.md)
+# [2025-12-15 12:10 updated](2025_12_15.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Hong Kong media tycoon Jimmy Lai found guilty on all charges in landmark national security trial. https://cnn.it/4rVP2Nf <a href="https://bsky.app/profile/cnn.com/post/3m7ymnshl5m26" target="_blank">cnn.com</a> (2025-12-15 11:49:05)</span><span style="padding-right:50px;">JR武蔵野線 運転再開 https://news.web.nhk/newsweb/na/na-k10015003981000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ymlypiue2l" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 11:48:02)</span><span style="padding-right:50px;">BREAKING: Hong Kong court convicts Jimmy Lai, founder of former pro-democracy newspaper, in landmark national security trial. <a href="https://bsky.app/profile/apnews.com/post/3m7ymk4m67a23" target="_blank">apnews.com</a> (2025-12-15 11:47:01)</span><span style="padding-right:50px;">Breaking News: A Hong Kong court found Jimmy Lai, a media mogul and notable critic of Beijing, guilty in a landmark national security trial. <a href="https://bsky.app/profile/nytimes.com/post/3m7ymjbvdsf2b" target="_blank">nytimes.com</a> (2025-12-15 11:46:33)</span><span style="padding-right:50px;">三菱ＵＦＪフィナンシャル・グループ傘下の三菱ＵＦＪ銀行と三菱ＵＦＪ信託銀行は１５日、米国のプライベート・クレジット市場を対象とする新たな投資ファンドの運用を開始したと発表した。目標規模は５００億円で、１０月の初回クローズ時点で２９０億円を集めた。 bit.ly/3L2n69N <a href="https://bsky.app/profile/japan.reuters.com/post/3m7ymj5dq7e2c" target="_blank">japan.reuters.com</a> (2025-12-15 11:46:28)</span>
+<span style="padding-right:50px;">前場の東京株式市場で日経平均は反落し、前営業日比７４４円４５銭安の５万００９２円１０銭となった。前週末の米国市場でのハイテク株安を嫌気し、寄与度の高い関連株の下落が指数を押し下げた。一方、日銀の利上げへの思惑から金融株はしっかりとなり、ＴＯＰＩＸは一時、取引時間中の最高値を更新した。 bit.ly/4iWk1ET <a href="https://bsky.app/profile/japan.reuters.com/post/3m7ynpqgjqw2u" target="_blank">japan.reuters.com</a> (2025-12-15 12:08:03)</span><span style="padding-right:50px;">中国外務省は１５日、「一つの中国」原則と中日間の４つの政治文書の精神に違反し、中国の内政に干渉したとして、岩崎茂元統合幕僚長にビザ（査証）制限、中国国内の資産凍結、取引禁止などの制裁を科すと発表した。 bit.ly/3KL1You <a href="https://bsky.app/profile/japan.reuters.com/post/3m7ynns2rio2u" target="_blank">japan.reuters.com</a> (2025-12-15 12:06:58)</span><span style="padding-right:50px;">The 78-year-old media mogul has been found guilty on charges of conspiring to commit sedition and foreign collusion, in the most closely watched trial since Beijing’s crackdown on the city’s pro-democracy movement six years ago on.ft.com/4rUb1nA <a href="https://bsky.app/profile/financialtimes.com/post/3m7ynmnvz5q25" target="_blank">financialtimes.com</a> (2025-12-15 12:06:20)</span><span style="padding-right:50px;">🛎️NNNより【独自】です。  【独自】密閉空間に一気に空気入り爆発“バックドラフト”起きたか 消防隊員2人死亡の道頓堀ビル火災 (2025-12-15 11:59) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7ynlejxuh2y" target="_blank">sokuho.news</a> (2025-12-15 12:05:37)</span><span style="padding-right:50px;">今週の外為市場でドル／円は、高値圏を推移する展開を想定する声が出ている。日銀金融政策決定会合は利上げが織り込み済みで、植田和男総裁が今後の追加利上げに前向きな姿勢を示さない限り、円を買い上がる手掛かりは乏しいとの見方が大勢だ。米国では政府閉鎖のため遅延していた雇用統計が発表されるが、集計の精度に疑問を呈する声もあり、仮に下振れても持続的なドル安／円高は進みづらいという。 bit.ly/4qtxyq7 <a href="https://bsky.app/profile/japan.reuters.com/post/3m7ynknroqa2q" target="_blank">japan.reuters.com</a> (2025-12-15 12:05:13)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50092.10 (🔻259.99 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3316.00 (🔺73.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.36 (🔻0.32 : 2025-12-15)</span>
+<span style="padding-right:50px;">NIKKEI: 50092.10 (🔻259.99 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3316.00 (🔺73.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.30 (🔻0.38 : 2025-12-15)</span>
   </div>
 </div>
 
@@ -32,77 +32,36 @@
 
 ## News Headlines
 
-1. 香港のメディア大王ジミーリー・ライが国籍法違反で有罪判決
-2.  JR武蔵野線運転再開
-3. 三菱UFJ銀行が米国プライベート・クレジット市場への投資ファンドを新設
-4.  オランダ1部でアヤックスがフェイエノールトに勝利
-5. 中国が2026年に輸出と輸入を拡大する計画を発表
-6. 大阪のビル火災で消防士２人死亡、「バックドラフト現象」が疑われる
+1. 日経平均反落、米ハイテク株安を嫌気
+2. 中国、岩崎元統合幕僚長に制裁　「一つの中国」原則に違反
+3. 香港高裁、民主運動指導者ライの有罪判決
+4. ドル円高を予測する声　日銀金融政策決定会合
+5. ドル/円は高値圏を推移する展開を想定する
+6. 米大リーグ・ダイヤモンドバックス、メリル・ケリーと契約
 
 ----
 
-@cnn.com
+@japan.reuters.com
 
-Hong Kong media tycoon Jimmy Lai found guilty on all charges in landmark national security trial. https://cnn.it/4rVP2Nf
+前場の東京株式市場で日経平均は反落し、前営業日比７４４円４５銭安の５万００９２円１０銭となった。前週末の米国市場でのハイテク株安を嫌気し、寄与度の高い関連株の下落が指数を押し下げた。一方、日銀の利上げへの思惑から金融株はしっかりとなり、ＴＯＰＩＸは一時、取引時間中の最高値を更新した。 bit.ly/4iWk1ET
 
-[2025-12-15 11:49:05](https://bsky.app/profile/cnn.com/post/3m7ymnshl5m26)
-
----
-
-@nhknewsunofficial.bsky.social
-
-JR武蔵野線 運転再開
-https://news.web.nhk/newsweb/na/na-k10015003981000
-
-[2025-12-15 11:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ymlypiue2l)
-
----
-
-@apnews.com
-
-<strong><span style="color: red;">BREAKING:</span> Hong Kong court convicts Jimmy Lai, founder of former pro-democracy newspaper, in landmark national security trial.</strong>
-
-[2025-12-15 11:47:01](https://bsky.app/profile/apnews.com/post/3m7ymk4m67a23)
-
----
-
-@nytimes.com
-
-<strong><span style="color: red;">Breaking News</span>: A Hong Kong court found Jimmy Lai, a media mogul and notable critic of Beijing, guilty in a landmark national security trial.</strong>
-
-[2025-12-15 11:46:33](https://bsky.app/profile/nytimes.com/post/3m7ymjbvdsf2b)
+[2025-12-15 12:08:03](https://bsky.app/profile/japan.reuters.com/post/3m7ynpqgjqw2u)
 
 ---
 
 @japan.reuters.com
 
-三菱ＵＦＪフィナンシャル・グループ傘下の三菱ＵＦＪ銀行と三菱ＵＦＪ信託銀行は１５日、米国のプライベート・クレジット市場を対象とする新たな投資ファンドの運用を開始したと発表した。目標規模は５００億円で、１０月の初回クローズ時点で２９０億円を集めた。 bit.ly/3L2n69N
+中国外務省は１５日、「一つの中国」原則と中日間の４つの政治文書の精神に違反し、中国の内政に干渉したとして、岩崎茂元統合幕僚長にビザ（査証）制限、中国国内の資産凍結、取引禁止などの制裁を科すと発表した。 bit.ly/3KL1You
 
-[2025-12-15 11:46:28](https://bsky.app/profile/japan.reuters.com/post/3m7ymj5dq7e2c)
-
----
-
-@japan.reuters.com
-
-サッカーのオランダ１部は１４日、各地で試合を行い、板倉滉の所属するアヤックスは上田綺世と渡辺剛がプレーするフェイエノールトとの名門対決を２─０で制した。 bit.ly/4ahOESO
-
-[2025-12-15 11:45:22](https://bsky.app/profile/japan.reuters.com/post/3m7ymh62bmx26)
+[2025-12-15 12:06:58](https://bsky.app/profile/japan.reuters.com/post/3m7ynns2rio2u)
 
 ---
 
-@japan.reuters.com
+@financialtimes.com
 
-中国共産党の経済政策担当幹部は、「持続可能な」貿易を促進するための取り組みの一環として、２０２６年に輸出と輸入をともに拡大する計画を明らかにした。中国国営の中国中央テレビ（ＣＣＴＶ）が１３日、報じた。 bit.ly/3KWxOOW
+The 78-year-old media mogul has been found guilty on charges of conspiring to commit sedition and foreign collusion, in the most closely watched trial since Beijing’s crackdown on the city’s pro-democracy movement six years ago on.ft.com/4rUb1nA
 
-[2025-12-15 11:45:14](https://bsky.app/profile/japan.reuters.com/post/3m7ymgwndfb2s)
-
----
-
-@bloomberg.com
-
-<strong><span style="color: red;">BREAKING:</span> Hong Kong ex-media mogul Jimmy Lai is found guilty of endangering national security, a verdict that could fuel tensions between China and the US</strong>
-
-[2025-12-15 11:44:39](https://bsky.app/profile/bloomberg.com/post/3m7ymfvh7l723)
+[2025-12-15 12:06:20](https://bsky.app/profile/financialtimes.com/post/3m7ynmnvz5q25)
 
 ---
 
@@ -110,18 +69,58 @@ https://news.web.nhk/newsweb/na/na-k10015003981000
 
 🛎️NNNより【独自】です。
 
-【独自】消防隊員2人死亡の大阪・道頓堀ビル火災 「バックドラフト現象」が発生か 今月中に中間報告公表へ
-(2025-12-15 11:40) #ニュース
+【独自】密閉空間に一気に空気入り爆発“バックドラフト”起きたか 消防隊員2人死亡の道頓堀ビル火災
+(2025-12-15 11:59) #ニュース
 
-[2025-12-15 11:44:33](https://bsky.app/profile/sokuho.news/post/3m7ymfpme452y)
+[2025-12-15 12:05:37](https://bsky.app/profile/sokuho.news/post/3m7ynlejxuh2y)
 
 ---
 
 @japan.reuters.com
 
-ニュージーランド（ＮＺ）準備銀行（中央銀行）のブレマン総裁は１５日、経済状況が予想通りに推移すれば、政策金利はしばらくの間、２．２５％の現行水準にとどまる可能性が高いとの見方を示した。 bit.ly/4j6XZiH
+今週の外為市場でドル／円は、高値圏を推移する展開を想定する声が出ている。日銀金融政策決定会合は利上げが織り込み済みで、植田和男総裁が今後の追加利上げに前向きな姿勢を示さない限り、円を買い上がる手掛かりは乏しいとの見方が大勢だ。米国では政府閉鎖のため遅延していた雇用統計が発表されるが、集計の精度に疑問を呈する声もあり、仮に下振れても持続的なドル安／円高は進みづらいという。 bit.ly/4qtxyq7
 
-[2025-12-15 11:44:18](https://bsky.app/profile/japan.reuters.com/post/3m7ymfbillv22)
+[2025-12-15 12:05:13](https://bsky.app/profile/japan.reuters.com/post/3m7ynknroqa2q)
+
+---
+
+@reuters.com
+
+<strong><span style="color: red;">BREAKING:</span> Hong Kong's High Court found pro-democracy campaigner Jimmy Lai guilty on two counts of conspiracy to collude with foreign forces and one count of sedition under a China-imposed national security law that could see him jailed for life. Follow our live coverage: reut.rs/4pDfTfi</strong>
+
+[2025-12-15 12:04:34](https://bsky.app/profile/reuters.com/post/3m7ynjil47k2j)
+
+---
+
+@japan.reuters.com
+
+米大リーグ（ＭＬＢ）ダイヤモンドバックスが１４日、レンジャーズからフリーエージェント（ＦＡ）となっていた先発右腕メリル・ケリー投手（３７）と２年総額４０００万ドル（約６２億３０００万円）の契約で合意に達した。ＭＬＢ公式サイトなどが伝えた。 bit.ly/4oWV65w
+
+[2025-12-15 12:03:34](https://bsky.app/profile/japan.reuters.com/post/3m7ynhprm642n)
+
+---
+
+@japan.reuters.com
+
+＜１１：３２＞　前場の日経平均は反落、米ハイテク株安を嫌気　ＴＯＰＩＸは高値更新 bit.ly/3L2f6FI
+
+[2025-12-15 12:02:23](https://bsky.app/profile/japan.reuters.com/post/3m7ynfm2n6a2q)
+
+---
+
+@cnn.com
+
+Lawmakers are scrambling to address skyrocketing health care costs in the final days before Congress leaves Washington for the holidays, with enhanced tax credits that make insurance premiums more affordable for millions of Americans set to expire at the end of the month. 
+
+[2025-12-15 12:02:01](https://bsky.app/profile/cnn.com/post/3m7ynewxgq426)
+
+---
+
+@japan.reuters.com
+
+トランプ米大統領の攻撃的な政策は、経済構造や移民対策を変容させているだけではない。２０２８年の大統領選に向けて、野党民主党の有力州知事３人を勢いづかせるという皮肉な構図も生み出している。 bit.ly/3MZaOQ0
+
+[2025-12-15 12:01:05](https://bsky.app/profile/japan.reuters.com/post/3m7yndbgvgu2v)
 
 ---
 
