@@ -1,9 +1,9 @@
-# [2025-12-15 10:50 updated](2025_12_15.md)
+# [2025-12-15 11:10 updated](2025_12_15.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Good morning, Asia. While you were sleeping, this was our most-read story on.ft.com/4rUYHU3 <a href="https://bsky.app/profile/financialtimes.com/post/3m7yj4jcqa42w" target="_blank">financialtimes.com</a> (2025-12-15 10:45:43)</span><span style="padding-right:50px;">Police have detained a man in his 20s as a person of interest. n.pr/4qd1zu4 <a href="https://bsky.app/profile/npr.org/post/3m7yj2r2mrw2b" target="_blank">npr.org</a> (2025-12-15 10:44:44)</span><span style="padding-right:50px;">米飲料大手コカ・コーラによる傘下の英コーヒーチェーン大手コスタ・コーヒーの売却計画が破談の危機に直面しており、コカ・コーラは週末に投資会社ＴＤＲキャピタルと土壇場の協議を行い、取引の救済策を模索していると、英紙フィナンシャル・タイムズ（ＦＴ）が１３日、複数の関係者の話として報じた。 bit.ly/4iWft1h <a href="https://bsky.app/profile/japan.reuters.com/post/3m7yizsb45z22" target="_blank">japan.reuters.com</a> (2025-12-15 10:44:12)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】JR鹿児島線 博多～鳥栖間の下り線で運転見合わせ 特急列車が一部運休 竹が倒れているため 福岡 (2025-12-15 10:30) #ニュース  🚃鉄道運行情報 🔗https://transit.yahoo.co.jp/diainfo <a href="https://bsky.app/profile/sokuho.news/post/3m7yitdoa7j2b" target="_blank">sokuho.news</a> (2025-12-15 10:40:35)</span><span style="padding-right:50px;">イスラエルのネタニヤフ首相は、オーストラリアのシドニーで１４日にユダヤ教の祭り「ハヌカ」を祝うイベントで発生した銃撃事件を非難し、アルバニージー豪首相に対し、同国がパレスチナ国家樹立を支持することは反ユダヤ主義を助長すると警告していたことに言及した。 bit.ly/4iUvGUt <a href="https://bsky.app/profile/japan.reuters.com/post/3m7yiss2ect2c" target="_blank">japan.reuters.com</a> (2025-12-15 10:40:17)</span>
+<span style="padding-right:50px;">午前のシドニー株式市場は、３営業日ぶりに反落している。オーストラリア準備銀行（中央銀行）が利上げ可能性を示唆したことで金融株が下落したほか、鉱業株が利食い売りで下落した。 bit.ly/4aicqOI <a href="https://bsky.app/profile/japan.reuters.com/post/3m7ykg2ece72c" target="_blank">japan.reuters.com</a> (2025-12-15 11:08:57)</span><span style="padding-right:50px;">サッカーのスペイン１部は１４日、各地で試合を行い、レアル・マドリードは敵地でアラベスを２─１で退け、連敗を免れた。 bit.ly/4rXYQpX <a href="https://bsky.app/profile/japan.reuters.com/post/3m7yk4d4z7v2u" target="_blank">japan.reuters.com</a> (2025-12-15 11:03:31)</span><span style="padding-right:50px;">韓国の警察当局は１５日、世界平和統一家庭連合（旧統一教会）による尹錫悦前政権への金品供与疑惑を巡り、ソウル近郊にある教団の国際本部などで家宅捜索を開始した。 bit.ly/48PdBT9 <a href="https://bsky.app/profile/japan.reuters.com/post/3m7yk2ckhvx2q" target="_blank">japan.reuters.com</a> (2025-12-15 11:02:23)</span><span style="padding-right:50px;">The person of interest detained in connection with the Brown University shooting, identified by law enforcement sources as Benjamin Erickson, is a decorated soldier who had served in a position at Arlington National Cemetery, according to his LinkedIn profile.  <a href="https://bsky.app/profile/cnn.com/post/3m7yjxugzaa24" target="_blank">cnn.com</a> (2025-12-15 11:01:01)</span><span style="padding-right:50px;">衛星軌道をミリ単位で測定　愛知の瓦加工技術、JAXAで生きる www.nikkei.com/article/DGXZQO... <a href="https://bsky.app/profile/nikkei.com/post/3m7yjxsn4pa2x" target="_blank">nikkei.com</a> (2025-12-15 11:00:59)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50176.40 (🔻175.69 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3296.00 (🔺53.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.68 (🔺0.01 : 2025-12-15)</span>
+<span style="padding-right:50px;">NIKKEI: 50196.17 (🔻155.92 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3323.00 (🔺80.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.60 (🔻0.08 : 2025-12-15)</span>
   </div>
 </div>
 
@@ -32,107 +32,97 @@
 
 ## News Headlines
 
-1. コカ・コーラの英コーヒーチェーン大手コスタ・コーヒー売却計画が破談の危機に
-2. JR鹿児島線下り線で運転見合わせ 特急列車が一部運休
-3. ネタニヤフ首相「ユダヤ教の祭り銃撃事件を非難」パレスチナ国家樹立を警告
-4. 米国と中国の不動産開発大手が社債償還延期の案を却下
-5. iRobotが破産を宣言、ロボット掃除機ロボマックの製造を終了
-6. 英財務省が暗号資産の規制を2027年10月から開始
-7. 上野動物園の双子パンダが1月に中国に返還される
-8. 米ロードアイランド州で銃撃事件、学生2人が死亡
-9. 中国が鉄鋼の輸出を許可制にすると発表
-10. ベネズエラの地域同盟国が米政権による石油タンカー拿捕を非難
-11. イスラエル軍がイスラム組織ハマスの幹部を殺害
-12. 欧州議会の最大会派が新車販売を禁止する計画を撤回
-13. チリの新大統領に右派のカスト氏が就任
-14. カンザスシティのQBパトリック・マホームズが左膝のACLを負傷
+1.  シドニー株式市場が３営業日ぶりに反落。
+2.  レアル・マドリードがアラベスに勝利し連敗を逃れる。
+3.  韓国警察がソウル近郊の世界平和統一家庭連合の本部を家宅捜索。
+4.  スペイン首相が欧州連合に新車販売規制を弱めるよう要請。
+5.  チリ大統領選で右派のホセアントニオ・カストが勝利。
+6.  イスラエルのネタニヤフ首相がオーストラリアのハヌカの祭りで発生した銃撃事件を非難。
 
 ----
 
-@financialtimes.com
+@japan.reuters.com
 
-Good morning, Asia. While you were sleeping, this was our most-read story on.ft.com/4rUYHU3
+午前のシドニー株式市場は、３営業日ぶりに反落している。オーストラリア準備銀行（中央銀行）が利上げ可能性を示唆したことで金融株が下落したほか、鉱業株が利食い売りで下落した。 bit.ly/4aicqOI
 
-[2025-12-15 10:45:43](https://bsky.app/profile/financialtimes.com/post/3m7yj4jcqa42w)
-
----
-
-@npr.org
-
-Police have detained a man in his 20s as a person of interest. n.pr/4qd1zu4
-
-[2025-12-15 10:44:44](https://bsky.app/profile/npr.org/post/3m7yj2r2mrw2b)
+[2025-12-15 11:08:57](https://bsky.app/profile/japan.reuters.com/post/3m7ykg2ece72c)
 
 ---
 
 @japan.reuters.com
 
-米飲料大手コカ・コーラによる傘下の英コーヒーチェーン大手コスタ・コーヒーの売却計画が破談の危機に直面しており、コカ・コーラは週末に投資会社ＴＤＲキャピタルと土壇場の協議を行い、取引の救済策を模索していると、英紙フィナンシャル・タイムズ（ＦＴ）が１３日、複数の関係者の話として報じた。 bit.ly/4iWft1h
+サッカーのスペイン１部は１４日、各地で試合を行い、レアル・マドリードは敵地でアラベスを２─１で退け、連敗を免れた。 bit.ly/4rXYQpX
 
-[2025-12-15 10:44:12](https://bsky.app/profile/japan.reuters.com/post/3m7yizsb45z22)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】JR鹿児島線 博多～鳥栖間の下り線で運転見合わせ 特急列車が一部運休 竹が倒れているため 福岡
-(2025-12-15 10:30) #ニュース
-
-🚃鉄道運行情報
-🔗https://transit.yahoo.co.jp/diainfo
-
-[2025-12-15 10:40:35](https://bsky.app/profile/sokuho.news/post/3m7yitdoa7j2b)
+[2025-12-15 11:03:31](https://bsky.app/profile/japan.reuters.com/post/3m7yk4d4z7v2u)
 
 ---
 
 @japan.reuters.com
 
-イスラエルのネタニヤフ首相は、オーストラリアのシドニーで１４日にユダヤ教の祭り「ハヌカ」を祝うイベントで発生した銃撃事件を非難し、アルバニージー豪首相に対し、同国がパレスチナ国家樹立を支持することは反ユダヤ主義を助長すると警告していたことに言及した。 bit.ly/4iUvGUt
+韓国の警察当局は１５日、世界平和統一家庭連合（旧統一教会）による尹錫悦前政権への金品供与疑惑を巡り、ソウル近郊にある教団の国際本部などで家宅捜索を開始した。 bit.ly/48PdBT9
 
-[2025-12-15 10:40:17](https://bsky.app/profile/japan.reuters.com/post/3m7yiss2ect2c)
+[2025-12-15 11:02:23](https://bsky.app/profile/japan.reuters.com/post/3m7yk2ckhvx2q)
+
+---
+
+@cnn.com
+
+The person of interest detained in connection with the Brown University shooting, identified by law enforcement sources as Benjamin Erickson, is a decorated soldier who had served in a position at Arlington National Cemetery, according to his LinkedIn profile. 
+
+[2025-12-15 11:01:01](https://bsky.app/profile/cnn.com/post/3m7yjxugzaa24)
+
+---
+
+@nikkei.com
+
+衛星軌道をミリ単位で測定　愛知の瓦加工技術、JAXAで生きる
+www.nikkei.com/article/DGXZQO...
+
+[2025-12-15 11:00:59](https://bsky.app/profile/nikkei.com/post/3m7yjxsn4pa2x)
+
+---
+
+@japan.reuters.com
+
+高市早苗首相は１５日の参院予算委員会で、為替はさまざまな要因を背景に市場において決まるものとの認識を改めて示した。杉久武委員（公明）への答弁。 bit.ly/48DBC0P
+
+[2025-12-15 11:00:51](https://bsky.app/profile/japan.reuters.com/post/3m7yjxkv2uv2u)
+
+---
+
+@japan.reuters.com
+
+ステーブルコイン発行企業テザーが、サッカーのイタリア１部リーグ（セリエＡ）に属する名門ユベントスの買収を提案したことを巡り、ユベントスを所有するアニェッリ一族の持ち株会社エクソールのジョン・エルカン最高経営責任者（ＣＥＯ）が１３日、ユベントスを売却しないと明言した。 bit.ly/3MHJg1u
+
+[2025-12-15 11:00:48](https://bsky.app/profile/japan.reuters.com/post/3m7yjxif7ch2v)
+
+---
+
+@usatoday.com
+
+The Cleveland Browns battled the Chicago Bears in Week 15. Here are updates, analysis, stats and highlights from rookie Shedeur Sanders in Week 15.
+
+[2025-12-15 11:00:40](https://bsky.app/profile/usatoday.com/post/3m7yjxamq3r2t)
 
 ---
 
 @reuters.com
 
-Currencies on guard ahead of major central bank decisions, US data releases reut.rs/4qeHFPn
+Indian rupee set to keep drifting lower, bonds to track debt buy, FPI activity reut.rs/499NBDj
 
-[2025-12-15 10:40:14](https://bsky.app/profile/reuters.com/post/3m7yispf2bb2c)
-
----
-
-@wsj.com
-
-For the first time, Christmas songs made up 30 of the top 50 songs on Spotify in the U.S. by Dec. 1.
-
-[2025-12-15 10:38:50](https://bsky.app/profile/wsj.com/post/3m7yiq7g4tr2g)
+[2025-12-15 11:00:33](https://bsky.app/profile/reuters.com/post/3m7yjwzcprb2b)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@washingtonpost.com
 
-高市首相動静 2025年12月12日～14日
-https://news.web.nhk/newsweb/na/na-k10015003991000
+A partner thinks her co-dependency with a family member is normal, and the letter writer wonders how to make her see otherwise.
 
-[2025-12-15 10:33:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7yifur47s2s)
+“We have said out loud that we want our relationship to work,” they wrote.
 
----
+Advice columnist Carolyn Hax responds:
 
-@japan.reuters.com
-
-日本製鉄が急落している。株価は一時４．５％安の６０３．２円に下落した。同社は１２日、５年間の中長期経営計画を発表し、海外を中心に積極的な投資を進める方針や株主還元の考え方を示したが、市場の一部では巨額投資を警戒する声が聞かれる。 bit.ly/3MZqouV
-
-[2025-12-15 10:32:19](https://bsky.app/profile/japan.reuters.com/post/3m7yiejqxqf25)
-
----
-
-@cnbc.com
-
-CNBC Daily Open: Investors sell off tech despite steady Broadcom numbers
-
-[2025-12-15 10:32:18](https://bsky.app/profile/cnbc.com/post/3m7yiej3wnd23)
+[2025-12-15 11:00:09](https://bsky.app/profile/washingtonpost.com/post/3m7yjwcvhhx23)
 
 ---
 
