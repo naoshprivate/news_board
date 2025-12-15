@@ -1,9 +1,9 @@
-# [2025-12-15 16:10 updated](2025_12_15.md)
+# [2025-12-15 16:30 updated](2025_12_15.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">維新 吉村代表 “16日に高市首相と党首会談の予定” https://news.web.nhk/newsweb/na/na-k10015004281000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7z36pysfq2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 16:09:03)</span><span style="padding-right:50px;">１１月のインドの卸売物価は前年同月比０．３２％下落した。前月の１．２１％下落から下落ペースが鈍化した。 bit.ly/4s2aznC <a href="https://bsky.app/profile/japan.reuters.com/post/3m7z36j357t2c" target="_blank">japan.reuters.com</a> (2025-12-15 16:08:58)</span><span style="padding-right:50px;">EU to broaden Belarus sanctions to include hybrid activity, Lithuania says reut.rs/4qf0DFz <a href="https://bsky.app/profile/reuters.com/post/3m7z2xrdfen2r" target="_blank">reuters.com</a> (2025-12-15 16:05:11)</span><span style="padding-right:50px;">フジ・メディア・ホールディングスは１５日、投資家の野村絢氏から、旧村上ファンド系投資会社の保有分と合わせて議決権比率３３．３％まで株式を買い付けるとの通知を受け取ったと発表した。野村氏は物言う株主と知られる村上世彰氏の長女。 bit.ly/48PuP2L <a href="https://bsky.app/profile/japan.reuters.com/post/3m7z2wqhum52q" target="_blank">japan.reuters.com</a> (2025-12-15 16:04:37)</span><span style="padding-right:50px;">Rodney Melton left his full-time job in May 2022 to engrave concrete and granite pet memorials. Now, his family business brings in more than $200,000 per year. <a href="https://bsky.app/profile/cnbc.com/post/3m7z2staitq2g" target="_blank">cnbc.com</a> (2025-12-15 16:02:26)</span>
+<span style="padding-right:50px;">ＮＴＴの沢田純会長はロイターのインタビューに応じ、光技術を使った次世代通信基盤「ＩＯＷＮ（アイオン）」について、先端半導体の量産を目指す出資先のラピダス（東京都千代田区）への活用を模索する考えを示した。開発する半導体の独自性が強まり、日本のサプライチェーン（供給網）強化につながるとした。 bit.ly/4azQ6QP <a href="https://bsky.app/profile/japan.reuters.com/post/3m7z4c7vxq32q" target="_blank">japan.reuters.com</a> (2025-12-15 16:28:56)</span><span style="padding-right:50px;">株価 600円以上値下がり 半導体関連などの銘柄に売り注文 https://news.web.nhk/newsweb/na/na-k10015004131000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7z46w2mt52b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 16:27:03)</span><span style="padding-right:50px;">マンダムは１５日、第三者候補から非公開化に関する法的拘束力のない意向表明書を１０日付で受領したと発表した。株式の非公開化に向けた株式公開買い付け（ＴＯＢ）とスクイーズアウトの提案が含まれ、買い付け価格はカロンホールディングスによる既存の２５２０円を上回るレンジで示されているという。 bit.ly/4j15Puf <a href="https://bsky.app/profile/japan.reuters.com/post/3m7z46dh2ve2c" target="_blank">japan.reuters.com</a> (2025-12-15 16:26:46)</span><span style="padding-right:50px;">STMicro has shipped 5 billion chips for Starlink in past decade; that could double by 2027 reut.rs/4pK98sq <a href="https://bsky.app/profile/reuters.com/post/3m7z43hbrwu2r" target="_blank">reuters.com</a> (2025-12-15 16:25:09)</span><span style="padding-right:50px;">村上世彰氏ら、フジHD株3分の1まで買い増し通告　不動産再編拒めば www.nikkei.com/article/DGXZQO...  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m7z42dt4iv22" target="_blank">nikkei.com</a> (2025-12-15 16:24:32)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.16 (🔻0.51 : 2025-12-15)</span>
+<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.21 (🔻0.47 : 2025-12-15)</span>
   </div>
 </div>
 
@@ -32,103 +32,96 @@
 
 ## News Headlines
 
-1. 16日に高市首相と維新代表の吉村代表が党首会談
-2. インドの卸売物価が前年比3.2％下落
-3. EUがベラルーシへの制裁を拡大
-4. フジ・メディア・ホールディングス、議決権比率33.3％まで株式を買い上げる意向
-5. 2026年に新しいミュンヘン工場で152億ユーロを投資するQuantumDiamonds
-6. ワインレコードの人気が再び戻り、ジェネシーの世代が主な推進力
+1. NTTの沢田純会長がＩＯＷＮの開発にラピダスを活用する考え
+2. 株価600円以上値下がり　半導体関連銘柄に売り注文
+3. マンダムが株式非公開化に向けたＴＯＢで前月よりも高い価格で買い付け
+4. ステムイクロのStarlinkへのチップ供給が2027年までに倍増
+5. 村上世彰氏がフジHD株の議決権比率を33.3％まで引き上げ
+6. ドイツのQuantumDiamondsが新工場に152億ユーロを投資
 
 ----
 
+@japan.reuters.com
+
+ＮＴＴの沢田純会長はロイターのインタビューに応じ、光技術を使った次世代通信基盤「ＩＯＷＮ（アイオン）」について、先端半導体の量産を目指す出資先のラピダス（東京都千代田区）への活用を模索する考えを示した。開発する半導体の独自性が強まり、日本のサプライチェーン（供給網）強化につながるとした。 bit.ly/4azQ6QP
+
+[2025-12-15 16:28:56](https://bsky.app/profile/japan.reuters.com/post/3m7z4c7vxq32q)
+
+---
+
 @nhknewsunofficial.bsky.social
 
-維新 吉村代表 “16日に高市首相と党首会談の予定”
-https://news.web.nhk/newsweb/na/na-k10015004281000
+株価 600円以上値下がり 半導体関連などの銘柄に売り注文
+https://news.web.nhk/newsweb/na/na-k10015004131000
 
-[2025-12-15 16:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7z36pysfq2w)
+[2025-12-15 16:27:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7z46w2mt52b)
 
 ---
 
 @japan.reuters.com
 
-１１月のインドの卸売物価は前年同月比０．３２％下落した。前月の１．２１％下落から下落ペースが鈍化した。 bit.ly/4s2aznC
+マンダムは１５日、第三者候補から非公開化に関する法的拘束力のない意向表明書を１０日付で受領したと発表した。株式の非公開化に向けた株式公開買い付け（ＴＯＢ）とスクイーズアウトの提案が含まれ、買い付け価格はカロンホールディングスによる既存の２５２０円を上回るレンジで示されているという。 bit.ly/4j15Puf
 
-[2025-12-15 16:08:58](https://bsky.app/profile/japan.reuters.com/post/3m7z36j357t2c)
+[2025-12-15 16:26:46](https://bsky.app/profile/japan.reuters.com/post/3m7z46dh2ve2c)
 
 ---
 
 @reuters.com
 
-EU to broaden Belarus sanctions to include hybrid activity, Lithuania says reut.rs/4qf0DFz
+STMicro has shipped 5 billion chips for Starlink in past decade; that could double by 2027 reut.rs/4pK98sq
 
-[2025-12-15 16:05:11](https://bsky.app/profile/reuters.com/post/3m7z2xrdfen2r)
-
----
-
-@japan.reuters.com
-
-フジ・メディア・ホールディングスは１５日、投資家の野村絢氏から、旧村上ファンド系投資会社の保有分と合わせて議決権比率３３．３％まで株式を買い付けるとの通知を受け取ったと発表した。野村氏は物言う株主と知られる村上世彰氏の長女。 bit.ly/48PuP2L
-
-[2025-12-15 16:04:37](https://bsky.app/profile/japan.reuters.com/post/3m7z2wqhum52q)
-
----
-
-@cnbc.com
-
-Rodney Melton left his full-time job in May 2022 to engrave concrete and granite pet memorials. Now, his family business brings in more than $200,000 per year.
-
-[2025-12-15 16:02:26](https://bsky.app/profile/cnbc.com/post/3m7z2staitq2g)
-
----
-
-@reuters.com
-
-QuantumDiamonds announces 152 mln euros investment plan for new Munich site reut.rs/3KWXdIt
-
-[2025-12-15 16:01:08](https://bsky.app/profile/reuters.com/post/3m7z2qjkhmw2b)
-
----
-
-@cnn.com
-
-Vinyl records are popular again, but it's not just audiophiles or nostalgic boomers fueling the resurgence.
-
-Gen Z is playing an outsized role in the revival of vinyl sales, which have grown on average by 18% annually in the past five years.
-https://cnn.it/4q2ceaK
-
-[2025-12-15 16:01:02](https://bsky.app/profile/cnn.com/post/3m7z2qdezoa23)
-
----
-
-@japan.reuters.com
-
-中国国家統計局が１５日発表した１１月の鉱工業生産と小売売上高は１年超ぶりの低い伸びとなった。小売売上高は「ゼロコロナ」政策が突然解除され以来の低い伸びとなった。２０２６年を前に新たな成長エンジンの必要性が浮き彫りとなっている。 bit.ly/4acCdHW
-
-[2025-12-15 16:00:56](https://bsky.app/profile/japan.reuters.com/post/3m7z2q5pmhd2c)
-
----
-
-@financialtimes.com
-
-Bank of England set to cut rates to 3.75% as economic data eases inflation concerns on.ft.com/45b0xGH
-
-[2025-12-15 16:00:55](https://bsky.app/profile/financialtimes.com/post/3m7z2q4ss5c2k)
+[2025-12-15 16:25:09](https://bsky.app/profile/reuters.com/post/3m7z43hbrwu2r)
 
 ---
 
 @nikkei.com
 
-就活で「副業前提」の危うさ　まずは確実に通用する能力獲得を
+村上世彰氏ら、フジHD株3分の1まで買い増し通告　不動産再編拒めば
 www.nikkei.com/article/DGXZQO...
 
-就活で「副業がしやすい会社か」を重視する声が増える中、企業側でも副業解禁の動きが加速しています。
+#ニュース
 
-一方で、最初の会社を「仮置き就職」的に考えると「二兎を追う者は一兎をも得ず」になるリスクがあると専門家は指摘します。
+[2025-12-15 16:24:32](https://bsky.app/profile/nikkei.com/post/3m7z42dt4iv22)
 
-「副業前提」世代は就職先をどう選ぶべきなのでしょうか。
+---
 
-[2025-12-15 16:00:36](https://bsky.app/profile/nikkei.com/post/3m7z2pkffqc2y)
+@apnews.com
+
+Dense toxic smog blanketed India’s national capital Monday, pushing air pollution levels to their worst levels in weeks, disrupting travel and causing authorities to impose the strictest containment measures.
+
+[2025-12-15 16:22:20](https://bsky.app/profile/apnews.com/post/3m7z3wgnh3724)
+
+---
+
+@japan.reuters.com
+
+１５日アジア時間序盤の原油先物価格は、週間で４％下落した先週から持ち直している。米国とベネズエラの緊張激化への懸念が、根強い供給過剰懸念やロシアとウクライナの和平合意の可能性よりも意識された。 bit.ly/3MA1KB8
+
+[2025-12-15 16:20:17](https://bsky.app/profile/japan.reuters.com/post/3m7z3sre7u227)
+
+---
+
+@japan.reuters.com
+
+東京株式市場で日経平均は反落し、前営業日比６６８円４４銭安の５万０１６８円１１銭で取引を終えた。前週末の米国市場でのハイテク株安や外為市場でのドル安／円高進行を受けて、主力株の下落が指数を押し下げた。一方、日銀の利上げへの思惑から金融株はしっかりとなり、ＴＯＰＩＸは史上最高値を更新した。 bit.ly/3YsFFHb
+
+[2025-12-15 16:20:04](https://bsky.app/profile/japan.reuters.com/post/3m7z3segos42c)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+What it would really take to stop Putin fighting in Ukraine
+
+[2025-12-15 16:18:07](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7z3ow4roj26)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Chile elects far-right José Antonio Kast as next president
+
+[2025-12-15 16:17:03](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7z3myrd2z2b)
 
 ---
 
