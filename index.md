@@ -1,9 +1,9 @@
-# [2025-12-16 05:30 updated](2025_12_16.md)
+# [2025-12-16 05:50 updated](2025_12_16.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">FDA Commissioner Martin Makary discusses vaccine policy, COVID-era decisions and the erosion of trust in government health guidance. n.pr/4sdT0B4 <a href="https://bsky.app/profile/npr.org/post/3ma2hv3u7zq2e" target="_blank">npr.org</a> (2025-12-16 05:29:00)</span><span style="padding-right:50px;">欧州各国の首脳は１５日、ウクライナのロシアに対する領土譲歩の可能性に関するいかなる決定も、欧州主導の多国籍軍を含む強力な安全保障体制が確立された場合にのみ行うことができるという点で合意したと発表した。 bit.ly/3MNX0b3 <a href="https://bsky.app/profile/japan.reuters.com/post/3ma2hqe3zin2q" target="_blank">japan.reuters.com</a> (2025-12-16 05:26:21)</span><span style="padding-right:50px;">US government launches campaign to hire engineers for AI, tech roles reut.rs/4iU90DO <a href="https://bsky.app/profile/reuters.com/post/3ma2hob6mil23" target="_blank">reuters.com</a> (2025-12-16 05:25:11)</span><span style="padding-right:50px;">福岡 2人刺傷事件 容疑者のかばんから催涙スプレーなど押収 https://news.web.nhk/newsweb/na/na-k10015004941000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma2hmb2uva2x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 05:24:01)</span><span style="padding-right:50px;">東京 足立区 暴走死傷事故 パトカー追跡中に3回赤信号を無視か https://news.web.nhk/newsweb/na/na-k10015004801000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma2hgw4ef522" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 05:21:02)</span>
+<span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像4🈡 (2025-12-16 05:48:47) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3ma2iynzyry2r" target="_blank">sokuho.news</a> (2025-12-16 05:48:54)</span><span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像2 (2025-12-16 05:48:17) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3ma2ixranmb27" target="_blank">sokuho.news</a> (2025-12-16 05:48:23)</span><span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください 🔗http://www.kmoni.bosai.go.jp/  🔶防災科研/強震モニタ/予測震度画像1 (2025-12-16 05:48:05) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3ma2ixh3syg2b" target="_blank">sokuho.news</a> (2025-12-16 05:48:13)</span><span style="padding-right:50px;">Brazil's Petrobras sees no production impact as workers kick off strike reut.rs/48OK3qh <a href="https://bsky.app/profile/reuters.com/post/3ma2is62rie2o" target="_blank">reuters.com</a> (2025-12-16 05:45:15)</span><span style="padding-right:50px;">Donald Trump faced a storm of condemnation on Monday after posting "perverse" and "sick" remarks suggesting Rob Reiner and his wife were murdered because of the celebrated filmmaker's criticism of the US president.  Read more ➡️  u.afp.com/S7KL <a href="https://bsky.app/profile/en.afp.com/post/3ma2iruojkh2f" target="_blank">en.afp.com</a> (2025-12-16 05:45:06)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48434.67 (🔻159.69 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23081.75 (🔻248.29 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.35 (🔻1.59 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.25 (🔻0.42 : 2025-12-15)</span>
+<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48420.94 (🔻173.42 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23079.00 (🔻251.04 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.49 (🔻1.44 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.25 (🔻0.42 : 2025-12-15)</span>
   </div>
 </div>
 
@@ -32,101 +32,110 @@
 
 ## News Headlines
 
-Here are six important stories with headlines:
+Here are six important stories with headlines in English:
 
-1. European Leaders Agree to Only Consider Ukraine Territory Concessions with Strong Security Measures in Place
-2. US Government Launches Campaign to Hire Engineers for AI and Tech Roles
-3. Ghana Bans Mining in Forest Reserves to Curb Environmental Damage
-4. Rob Reiner, Acclaimed Film Director, Found Dead in LA Home
-5. US Death Penalty Cases Plummet as Public Support Hits 50-Year Low
-6. Ukraine's Security Service Claims Responsibility for Damaging Russian Submarine
+1. US Launches Campaign to Hire Engineers for AI, Tech Roles
+2. Brazil's Petrobras Sees No Production Impact from Worker Strike
+3. Rob Reiner's Death: Trump Suggests Murder, Right-Wing Figures Push Back
+4. US Death Penalty at Lowest Point in Over 50 Years Amid Decline in New Sentences
+5. Ghana Bans Mining in Forest Reserves to Curb Environmental Damage
+6. US Authorities Disrupt Planned New Year's Eve Terrorist Attack in Los Angeles
 
 ----
 
-@npr.org
+@sokuho.news
 
-FDA Commissioner Martin Makary discusses vaccine policy, COVID-era decisions and the erosion of trust in government health guidance. n.pr/4sdT0B4
+🚨地震発生中❗❗
 
-[2025-12-16 05:29:00](https://bsky.app/profile/npr.org/post/3ma2hv3u7zq2e)
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像4🈡
+(2025-12-16 05:48:47) #緊急地震速報
+
+[2025-12-16 05:48:54](https://bsky.app/profile/sokuho.news/post/3ma2iynzyry2r)
 
 ---
 
-@japan.reuters.com
+@sokuho.news
 
-欧州各国の首脳は１５日、ウクライナのロシアに対する領土譲歩の可能性に関するいかなる決定も、欧州主導の多国籍軍を含む強力な安全保障体制が確立された場合にのみ行うことができるという点で合意したと発表した。 bit.ly/3MNX0b3
+🚨地震発生中❗❗
 
-[2025-12-16 05:26:21](https://bsky.app/profile/japan.reuters.com/post/3ma2hqe3zin2q)
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像2
+(2025-12-16 05:48:17) #緊急地震速報
+
+[2025-12-16 05:48:23](https://bsky.app/profile/sokuho.news/post/3ma2ixranmb27)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗
+
+⚠️揺れに警戒してください
+🔗http://www.kmoni.bosai.go.jp/
+
+🔶防災科研/強震モニタ/予測震度画像1
+(2025-12-16 05:48:05) #緊急地震速報
+
+[2025-12-16 05:48:13](https://bsky.app/profile/sokuho.news/post/3ma2ixh3syg2b)
 
 ---
 
 @reuters.com
 
-US government launches campaign to hire engineers for AI, tech roles reut.rs/4iU90DO
+Brazil's Petrobras sees no production impact as workers kick off strike reut.rs/48OK3qh
 
-[2025-12-16 05:25:11](https://bsky.app/profile/reuters.com/post/3ma2hob6mil23)
-
----
-
-@nhknewsunofficial.bsky.social
-
-福岡 2人刺傷事件 容疑者のかばんから催涙スプレーなど押収
-https://news.web.nhk/newsweb/na/na-k10015004941000
-
-[2025-12-16 05:24:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma2hmb2uva2x)
+[2025-12-16 05:45:15](https://bsky.app/profile/reuters.com/post/3ma2is62rie2o)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@en.afp.com
 
-東京 足立区 暴走死傷事故 パトカー追跡中に3回赤信号を無視か
-https://news.web.nhk/newsweb/na/na-k10015004801000
+Donald Trump faced a storm of condemnation on Monday after posting "perverse" and "sick" remarks suggesting Rob Reiner and his wife were murdered because of the celebrated filmmaker's criticism of the US president.  Read more ➡️  u.afp.com/S7KL
 
-[2025-12-16 05:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma2hgw4ef522)
-
----
-
-@japan.reuters.com
-
-米連邦準備理事会（ＦＲＢ）のミラン理事は１５日、ＦＲＢの２％目標を上回る現行のインフレ率は、根本的な需給動向を反映していないとの認識を示した。「物価は再び安定している」とし、実際の物価上昇率は目標に近い水準で推移しているとした。 bit.ly/4pFfhGh
-
-[2025-12-16 05:20:24](https://bsky.app/profile/japan.reuters.com/post/3ma2hfpuo2s27)
+[2025-12-16 05:45:06](https://bsky.app/profile/en.afp.com/post/3ma2iruojkh2f)
 
 ---
 
 @washingtonpost.com
 
-Providence police released a 19-second video showing a “person of interest” walking along a sidewalk.
+Federal prosecutors alleged a Wisconsin judge helped a Mexican man briefly elude immigration officials in April, and that just before she directed him through the back door of her courtroom, she said that she would “get the heat” for it. 
 
-The video appears to have been recorded about 700 feet away from the hall where the shooting took place.
-
-More updates: 
-
-[2025-12-16 05:20:21](https://bsky.app/profile/washingtonpost.com/post/3ma2hfms3rv2e)
+[2025-12-16 05:45:04](https://bsky.app/profile/washingtonpost.com/post/3ma2irtcjjq24)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@cnbc.com
 
-自民 維新 きょう党首会談へ 定数削減の議論継続 確認の見通し
-https://news.web.nhk/newsweb/na/na-k10015004821000
+Union Pacific will be a double-digit earnings story in 2026, Hightower's Stephanie Link says
 
-[2025-12-16 05:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma2hbkkgub24)
+[2025-12-16 05:44:28](https://bsky.app/profile/cnbc.com/post/3ma2iqqhdnm2b)
 
 ---
 
 @reuters.com
 
-Citi investment head joins BlackRock to run $80 billion wealth assets portfolio reut.rs/4rVNu5I
+Tankers make u-turns after US seizure of Venezuelan oil cargo, shipping data says reut.rs/44wgJlI
 
-[2025-12-16 05:15:19](https://bsky.app/profile/reuters.com/post/3ma2h4n33rg2b)
+[2025-12-16 05:40:24](https://bsky.app/profile/reuters.com/post/3ma2ijifzar2i)
 
 ---
 
-@japan.reuters.com
+@reuters.com
 
-週明け欧州株式市場は反発して取引を終えた。米利下げへの期待などから投資家心理が改善。銀行株を中心に幅広い銘柄が上昇した。主要地域市場が上昇し、スペインのＩＢＥＸ指数は１．１１％高と、終値としての最高値を更新した。 bit.ly/3KvQl4M
+US social media requirements for foreign visitors could have 'chilling effect' on travel, industry group says reut.rs/4qgRYCB
 
-[2025-12-16 05:15:18](https://bsky.app/profile/japan.reuters.com/post/3ma2h4lipau2q)
+[2025-12-16 05:35:13](https://bsky.app/profile/reuters.com/post/3ma2ia7guf62r)
+
+---
+
+@cnbc.com
+
+Former iRobot CEO calls Roomba maker's bankruptcy 'a tragedy for consumers'
+
+[2025-12-16 05:34:27](https://bsky.app/profile/cnbc.com/post/3ma2i6tljdc2y)
 
 ---
 
