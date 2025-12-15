@@ -1,9 +1,9 @@
-# [2025-12-15 22:50 updated](2025_12_15.md)
+# [2025-12-15 23:10 updated](2025_12_15.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Fear of crime and migration fuels Chile's swing to the right <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7zrhcytyz25" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-15 22:47:35)</span><span style="padding-right:50px;">Crypto exchange Hashkey raises $206 million in Hong Kong IPO, source says reut.rs/4oXBGNU <a href="https://bsky.app/profile/reuters.com/post/3m7zrcz6vl42o" target="_blank">reuters.com</a> (2025-12-15 22:45:11)</span><span style="padding-right:50px;">Internal FDA records obtained by CNBC show 31 agency staffers traveled to Singapore in mid-November for a conference — a trip that cost more than a quarter of a million dollars, according to the documents — that was approved during the government shutdown. cnb.cx/3XRjnPj <a href="https://bsky.app/profile/cnbc.com/post/3m7zr7wduh724" target="_blank">cnbc.com</a> (2025-12-15 22:43:27)</span><span style="padding-right:50px;">Palantir CIO Jim Siders leaves to become head of Thrive Capital's new IT services business <a href="https://bsky.app/profile/cnbc.com/post/3m7zr76d4bx2b" target="_blank">cnbc.com</a> (2025-12-15 22:43:02)</span><span style="padding-right:50px;">VIDEO: 🇺🇸 New York City blanketed in its first snow of winter  People flocked to Central Park and had to shift snow off sidewalks after the city's first snowfall of the winter <a href="https://bsky.app/profile/en.afp.com/post/3m7zr3ifpu62j" target="_blank">en.afp.com</a> (2025-12-15 22:40:59)</span>
+<span style="padding-right:50px;">LIVE: Chilean president Boric receives president-elect Kast youtube.com/live/VRz60c-... <a href="https://bsky.app/profile/reuters.com/post/3m7zslt5b5s2x" target="_blank">reuters.com</a> (2025-12-15 23:08:01)</span><span style="padding-right:50px;">VIDEO: 🇺🇸 US police probe deaths of director Rob Reiner, wife as 'apparent homicide'  Los Angeles police are investigating the deaths of Hollywood star Rob Reiner and his wife as an "apparent homicide", after they were found dead in their home with what appeared to be stab wounds, US media reported <a href="https://bsky.app/profile/en.afp.com/post/3m7zsjl4ast2f" target="_blank">en.afp.com</a> (2025-12-15 23:06:45)</span><span style="padding-right:50px;">German economy recorded robust start to fourth quarter, says ministry reut.rs/4oUbRhC <a href="https://bsky.app/profile/reuters.com/post/3m7zsgrpfrr2b" target="_blank">reuters.com</a> (2025-12-15 23:05:11)</span><span style="padding-right:50px;">Reiner, a legendary Hollywood director and actor, and his wife were found dead in their Los Angeles home Sunday.  <a href="https://bsky.app/profile/forbes.com/post/3m7zsglpv3s2s" target="_blank">forbes.com</a> (2025-12-15 23:05:05)</span><span style="padding-right:50px;">Bad movies can be fun in their own way. n.pr/499GECi <a href="https://bsky.app/profile/npr.org/post/3m7zsgjd6so2n" target="_blank">npr.org</a> (2025-12-15 23:05:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.08 (🔻0.60 : 2025-12-15)</span>
+<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.18 (🔻0.50 : 2025-12-15)</span>
   </div>
 </div>
 
@@ -34,94 +34,94 @@
 
 Here are six important stories with headlines in English:
 
-1. Fear of Crime and Migration Fuels Chile's Swing to the Right
-2. Tesla Board Made $3 Billion via Stock Awards That Dwarfed Tech Peers
-3. FDA Approved $250,000 Singapore Work Trip During Government Shutdown, Records Show
-4. Thousands of Romanians Protest Against Judicial Abuses
-5. OpenAI Named 2025 Yahoo Finance Company of the Year
-6. India's Enel Buys Wind Farms in Germany in 80-Million-Euro Deal
+1. Police Investigate Deaths of Hollywood Director Rob Reiner and Wife as Apparent Homicide
+2. German Economy Records Robust Start to Fourth Quarter
+3. US Demands EU Exempt Its Gas from Methane Emissions Law
+4. Thailand Targets Siem Reap Province, Home to Cambodia's Tourist Hub Angkor Wat
+5. Louvre Museum Workers Go on Strike Over Working Conditions and Complaints
+6. Philippines to Protest China's Actions That Injured Filipino Fishermen in South China Sea
 
 ----
 
-@bbcnews-world-rss.bsky.social
-
-Fear of crime and migration fuels Chile's swing to the right
-
-[2025-12-15 22:47:35](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7zrhcytyz25)
-
----
-
 @reuters.com
 
-Crypto exchange Hashkey raises $206 million in Hong Kong IPO, source says reut.rs/4oXBGNU
+LIVE: Chilean president Boric receives president-elect Kast youtube.com/live/VRz60c-...
 
-[2025-12-15 22:45:11](https://bsky.app/profile/reuters.com/post/3m7zrcz6vl42o)
-
----
-
-@cnbc.com
-
-Internal FDA records obtained by CNBC show 31 agency staffers traveled to Singapore in mid-November for a conference — a trip that cost more than a quarter of a million dollars, according to the documents — that was approved during the government shutdown. cnb.cx/3XRjnPj
-
-[2025-12-15 22:43:27](https://bsky.app/profile/cnbc.com/post/3m7zr7wduh724)
-
----
-
-@cnbc.com
-
-Palantir CIO Jim Siders leaves to become head of Thrive Capital's new IT services business
-
-[2025-12-15 22:43:02](https://bsky.app/profile/cnbc.com/post/3m7zr76d4bx2b)
+[2025-12-15 23:08:01](https://bsky.app/profile/reuters.com/post/3m7zslt5b5s2x)
 
 ---
 
 @en.afp.com
 
-VIDEO: 🇺🇸 New York City blanketed in its first snow of winter
+VIDEO: 🇺🇸 US police probe deaths of director Rob Reiner, wife as 'apparent homicide'
 
-People flocked to Central Park and had to shift snow off sidewalks after the city's first snowfall of the winter
+Los Angeles police are investigating the deaths of Hollywood star Rob Reiner and his wife as an "apparent homicide", after they were found dead in their home with what appeared to be stab wounds, US media reported
 
-[2025-12-15 22:40:59](https://bsky.app/profile/en.afp.com/post/3m7zr3ifpu62j)
-
----
-
-@reuters.com
-
-Philippines to protest China's actions that injured Filipino fishermen in South China Sea reut.rs/3L2WSUy
-
-[2025-12-15 22:40:12](https://bsky.app/profile/reuters.com/post/3m7zr246lsq2s)
-
----
-
-@nbcnews.com
-
-Workers at the Louvre Museum voted Monday to strike over working conditions and other complaints.
-
-[2025-12-15 22:40:07](https://bsky.app/profile/nbcnews.com/post/3m7zqzxfkms2x)
-
----
-
-@wsj.com
-
-After breaking through as an actor on “All in the Family,” Rob Reiner directed some of the most beloved and quotable films of the ‘80s and ‘90s. 🔗 on.wsj.com/3KxUSnj
-
-[2025-12-15 22:36:18](https://bsky.app/profile/wsj.com/post/3m7zqt5j7ag2h)
+[2025-12-15 23:06:45](https://bsky.app/profile/en.afp.com/post/3m7zsjl4ast2f)
 
 ---
 
 @reuters.com
 
-Tesla board made $3 billion via stock awards that dwarfed tech peers reut.rs/3N1dexx
+German economy recorded robust start to fourth quarter, says ministry reut.rs/4oUbRhC
 
-[2025-12-15 22:35:09](https://bsky.app/profile/reuters.com/post/3m7zqr3a65y2r)
+[2025-12-15 23:05:11](https://bsky.app/profile/reuters.com/post/3m7zsgrpfrr2b)
 
 ---
 
 @forbes.com
 
-The iconic actor and director and his wife were found dead in their Brentwood, Los Angeles home on Sunday. Police are interviewing a family member.
+Reiner, a legendary Hollywood director and actor, and his wife were found dead in their Los Angeles home Sunday. 
 
-[2025-12-15 22:35:04](https://bsky.app/profile/forbes.com/post/3m7zqqvyzvw2c)
+[2025-12-15 23:05:05](https://bsky.app/profile/forbes.com/post/3m7zsglpv3s2s)
+
+---
+
+@npr.org
+
+Bad movies can be fun in their own way. n.pr/499GECi
+
+[2025-12-15 23:05:02](https://bsky.app/profile/npr.org/post/3m7zsgjd6so2n)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Balloons from Belarus are causing chaos in Lithuania. Is it smugglers, or a hybrid attack?
+
+[2025-12-15 23:05:00](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7zsghyz4b2r)
+
+---
+
+@reuters.com
+
+Greece arrests five over cocaine trafficking on ship from Venezuela to Europe reut.rs/4rXAHQd
+
+[2025-12-15 23:01:14](https://bsky.app/profile/reuters.com/post/3m7zs7pfxct2i)
+
+---
+
+@cnn.com
+
+House Republicans are set to vote this week on their version of a health care bill as the expiration of enhanced Affordable Care Act subsidies looms ever closer. https://cnn.it/4oO9JI1
+
+[2025-12-15 23:01:06](https://bsky.app/profile/cnn.com/post/3m7zs7hjxga2c)
+
+---
+
+@japan.reuters.com
+
+タイ選挙管理委員会は、アヌティン首相が議会を解散したことを受け、来年２月８日に総選挙を実施すると発表した。 bit.ly/4pDi1Um
+
+[2025-12-15 23:01:01](https://bsky.app/profile/japan.reuters.com/post/3m7zs7d45ow2f)
+
+---
+
+@usatoday.com
+
+Students at St. Mary's Episcopal in Memphis took on a big project: creating a design for Taylor Swift's wedding dress. See what they came up with.
+
+[2025-12-15 23:00:55](https://bsky.app/profile/usatoday.com/post/3m7zs75j2cq2f)
 
 ---
 
