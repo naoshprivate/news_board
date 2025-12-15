@@ -1,9 +1,9 @@
-# [2025-12-15 18:10 updated](2025_12_15.md)
+# [2025-12-15 18:30 updated](2025_12_15.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">マンション共有部漏水 管理組合賠償責任は 裁判 最高裁で弁論 https://news.web.nhk/newsweb/na/na-k10015004421000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zbvburla24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 18:09:02)</span><span style="padding-right:50px;">ドイツ貿易投資振興機関（ＧＴＡＩ）は１５日、今年の対中輸出額が前年比１０％減の８１０億ユーロ（９５０億４０００万ドル）となり、中国が２０１０年以来初めてドイツの輸出先上位５カ国から外れるとの見通しを示した。 bit.ly/4rYERrg <a href="https://bsky.app/profile/japan.reuters.com/post/3m7zbugquuq2c" target="_blank">japan.reuters.com</a> (2025-12-15 18:08:36)</span><span style="padding-right:50px;">フジ・メディア・ホールディングスは１５日、投資家の野村絢氏から議決権比率３３．３％まで株式を買い増すとの通知を受け取ったと発表した。野村氏は物言う株主として知られる村上世彰氏の長女で、旧村上ファンド系投資会社の保有分と合わせた議決権比率を引き上げるとしている。不動産事業の切り離しや完全売却に向けて具体的な準備を開始するとともに、自己資本配当率４％を下限とする配当方針などの株主還元策を公表すれば撤回するとしている。 bit.ly/44ppaPJ <a href="https://bsky.app/profile/japan.reuters.com/post/3m7zboh73fk2c" target="_blank">japan.reuters.com</a> (2025-12-15 18:05:15)</span><span style="padding-right:50px;">Zion Williamson helps Pelicans nab win in return against Bulls reut.rs/4q8H2GQ <a href="https://bsky.app/profile/reuters.com/post/3m7zboc5ulx2o" target="_blank">reuters.com</a> (2025-12-15 18:05:10)</span><span style="padding-right:50px;">日本生命保険(NPNLI.UL)は１５日、医療データ分析のメディカル・データ・ビジョン（ＭＤＶ）に対し、公開買い付け（ＴＯＢ）を実施すると発表した。同社を完全子会社化する。 bit.ly/48UKwpx <a href="https://bsky.app/profile/japan.reuters.com/post/3m7zbkj44dg2p" target="_blank">japan.reuters.com</a> (2025-12-15 18:03:00)</span>
+<span style="padding-right:50px;">英国の財務報告評議会（ＦＲＣ）は１５日、アーンスト・アンド・ヤング（ＥＹ）が実施したシェルの２０２４年財務諸表の監査について、監査パートナー交代規則違反の可能性を理由に調査を開始したと発表した。 bit.ly/3MDQjZ4 <a href="https://bsky.app/profile/japan.reuters.com/post/3m7zcujolem2u" target="_blank">japan.reuters.com</a> (2025-12-15 18:26:33)</span><span style="padding-right:50px;">東京株式市場で日経平均は反落し、前営業日比６６８円４４銭安の５万０１６８円１１銭で取引を終えた。前週末の米国市場でのハイテク株安や外為市場でのドル安／円高進行を受けて、主力株の下落が指数を押し下げた。一方、日銀の利上げへの思惑から金融株はしっかりとなり、ＴＯＰＩＸは史上最高値を更新した。 bit.ly/3YeZaTP <a href="https://bsky.app/profile/japan.reuters.com/post/3m7zcscq6qq2c" target="_blank">japan.reuters.com</a> (2025-12-15 18:25:18)</span><span style="padding-right:50px;">Gulf stocks track global losses as investors await key US data reut.rs/4pCI8L5 <a href="https://bsky.app/profile/reuters.com/post/3m7zcryy77o2y" target="_blank">reuters.com</a> (2025-12-15 18:25:08)</span><span style="padding-right:50px;">How Bondi Beach shooting unfolded minute by minute <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7zcqk5wrt2z" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-15 18:24:18)</span><span style="padding-right:50px;">米 ブラウン大学銃撃事件 “拘束の人物を釈放する” 地元市長 https://news.web.nhk/newsweb/na/na-k10015004361000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zckqwyaz2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 18:21:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.01 (🔻0.67 : 2025-12-15)</span>
+<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 154.98 (🔻0.70 : 2025-12-15)</span>
   </div>
 </div>
 
@@ -32,98 +32,105 @@
 
 ## News Headlines
 
-1.マンション共有部漏水　管理組合賠償責任は裁判　最高裁で弁論
-2.ドイツの対中輸出額　今年比10％減　中国が輸出先上位5カ国から外れる
-3.フジ・メディアホールディングス　投資家の野村絢氏から議決権比率を引き上げる
-4.日本生命保険　医療データ分析会社の完全子会社化を目指す
-5.トルコ中央銀行　政策金利を引き下げたが、ディスインフレ継続を示す
-6.トルコ中央銀行総裁「ディスインフレ継続を示す」
+Here are six important stories with headlines in Japanese:
+
+1. 
+英国の財務報告評議会がシェルの財務諸表監査で調査を開始
+2. 
+トランプ米大統領の復帰後、ハンガリー・フォリントの取引量が2倍以上に増加
+3. 
+香港の民主派メディア創業者が有罪判決
+4. 
+ブルームバーグ、Mitsubishi UFJフィナンシャルグループがインドのNo.2銀行に5,000億円超出資
+5. 
+中国の新築住宅価格が前月比0.4%下落
+6. 
+ドイツ貿易投資振興機関が今年の対中輸出額が10%減の810億ユーロと予測
 
 ----
 
+@japan.reuters.com
+
+英国の財務報告評議会（ＦＲＣ）は１５日、アーンスト・アンド・ヤング（ＥＹ）が実施したシェルの２０２４年財務諸表の監査について、監査パートナー交代規則違反の可能性を理由に調査を開始したと発表した。 bit.ly/3MDQjZ4
+
+[2025-12-15 18:26:33](https://bsky.app/profile/japan.reuters.com/post/3m7zcujolem2u)
+
+---
+
+@japan.reuters.com
+
+東京株式市場で日経平均は反落し、前営業日比６６８円４４銭安の５万０１６８円１１銭で取引を終えた。前週末の米国市場でのハイテク株安や外為市場でのドル安／円高進行を受けて、主力株の下落が指数を押し下げた。一方、日銀の利上げへの思惑から金融株はしっかりとなり、ＴＯＰＩＸは史上最高値を更新した。 bit.ly/3YeZaTP
+
+[2025-12-15 18:25:18](https://bsky.app/profile/japan.reuters.com/post/3m7zcscq6qq2c)
+
+---
+
+@reuters.com
+
+Gulf stocks track global losses as investors await key US data reut.rs/4pCI8L5
+
+[2025-12-15 18:25:08](https://bsky.app/profile/reuters.com/post/3m7zcryy77o2y)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+How Bondi Beach shooting unfolded minute by minute
+
+[2025-12-15 18:24:18](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7zcqk5wrt2z)
+
+---
+
 @nhknewsunofficial.bsky.social
 
-マンション共有部漏水 管理組合賠償責任は 裁判 最高裁で弁論
-https://news.web.nhk/newsweb/na/na-k10015004421000
+米 ブラウン大学銃撃事件 “拘束の人物を釈放する” 地元市長
+https://news.web.nhk/newsweb/na/na-k10015004361000
 
-[2025-12-15 18:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zbvburla24)
-
----
-
-@japan.reuters.com
-
-ドイツ貿易投資振興機関（ＧＴＡＩ）は１５日、今年の対中輸出額が前年比１０％減の８１０億ユーロ（９５０億４０００万ドル）となり、中国が２０１０年以来初めてドイツの輸出先上位５カ国から外れるとの見通しを示した。 bit.ly/4rYERrg
-
-[2025-12-15 18:08:36](https://bsky.app/profile/japan.reuters.com/post/3m7zbugquuq2c)
+[2025-12-15 18:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zckqwyaz2v)
 
 ---
 
 @japan.reuters.com
 
-フジ・メディア・ホールディングスは１５日、投資家の野村絢氏から議決権比率３３．３％まで株式を買い増すとの通知を受け取ったと発表した。野村氏は物言う株主として知られる村上世彰氏の長女で、旧村上ファンド系投資会社の保有分と合わせた議決権比率を引き上げるとしている。不動産事業の切り離しや完全売却に向けて具体的な準備を開始するとともに、自己資本配当率４％を下限とする配当方針などの株主還元策を公表すれば撤回するとしている。 bit.ly/44ppaPJ
+香港の高等法院（高裁）は１５日、香港国家安全維持法（国安法）違反罪に問われた民主派メディア・蘋果日報（リンゴ日報＝廃刊）創業者の黎智英（ジミー・ライ）氏（７８）に対し、有罪判決を言い渡した。量刑は後日言い渡される予定で、終身刑となる可能性もある。 bit.ly/48DZ1iH
 
-[2025-12-15 18:05:15](https://bsky.app/profile/japan.reuters.com/post/3m7zboh73fk2c)
-
----
-
-@reuters.com
-
-Zion Williamson helps Pelicans nab win in return against Bulls reut.rs/4q8H2GQ
-
-[2025-12-15 18:05:10](https://bsky.app/profile/reuters.com/post/3m7zboc5ulx2o)
+[2025-12-15 18:20:17](https://bsky.app/profile/japan.reuters.com/post/3m7zcjdgzv52q)
 
 ---
 
-@japan.reuters.com
+@sokuho.news
 
-日本生命保険(NPNLI.UL)は１５日、医療データ分析のメディカル・データ・ビジョン（ＭＤＶ）に対し、公開買い付け（ＴＯＢ）を実施すると発表した。同社を完全子会社化する。 bit.ly/48UKwpx
+🛎️NNNより【速報】です。
 
-[2025-12-15 18:03:00](https://bsky.app/profile/japan.reuters.com/post/3m7zbkj44dg2p)
+【速報】住宅で発見の女性2人遺体 住人の親子…死因も判明 出血性ショックと窒息死 札幌
+(2025-12-15 18:18) #ニュース
 
----
-
-@cnn.com
-
-Members of the Jewish community across the world woke up Sunday to yet another fatal attack — something that has become all too common for those of the faith.
-
-[2025-12-15 18:02:01](https://bsky.app/profile/cnn.com/post/3m7zbiopaev2b)
-
----
-
-@nikkei.com
-
-クマ出没を防犯カメラで即通知　AI検知システム開発
-www.nikkei.com/article/DGXZQO...
-
-防犯カメラのトリニティーは賽銭泥棒に悩む寺社の声を受けて開発した、不審な動きをする人を検知するAIシステムを応用。
-
-AIを搭載したカメラで熊を検知するとスマホに通知が届く仕組みで、自治体の防災担当者などから20〜30件の問い合わせがあったといいます。
-
-[2025-12-15 18:00:51](https://bsky.app/profile/nikkei.com/post/3m7zbglk7nn24)
-
----
-
-@apnews.com
-
-Rob Reiner, the son of a comedy giant who went on to become one, himself, as one of the preeminent filmmakers of his generation with movies such as “The Princess Bride,” “When Harry Met Sally …” and “This Is Spinal Tap,” has died. He was 78.
-
-[2025-12-15 18:00:45](https://bsky.app/profile/apnews.com/post/3m7zbgfrka623)
-
----
-
-@reuters.com
-
-LeBron James makes clutch plays as Lakers edge Suns reut.rs/3YyU2cZ
-
-[2025-12-15 18:00:33](https://bsky.app/profile/reuters.com/post/3m7zbfzxndw2r)
+[2025-12-15 18:18:54](https://bsky.app/profile/sokuho.news/post/3m7zcgtzked2b)
 
 ---
 
 @japan.reuters.com
 
-トルコ中央銀行のカラハン総裁は１２日、政策金利の１週間物レポ金利を１５０ベーシスポイント（ｂｐ）引き下げた後も、短期指標と中期見通しはディスインフレ継続を示していると述べた。 bit.ly/49cCtFK
+ブルームバーグは１５日、三菱ＵＦＪフィナンシャル・グループ がインド２位のノンバンクに５０００億円超出資する方向で最終調整に入ったと報じた。出資先はシュリラム・ファイナンスで、２割の株式を取得するという。今週中にも発表する予定としている。 bit.ly/44nKPYE
 
-[2025-12-15 18:00:31](https://bsky.app/profile/japan.reuters.com/post/3m7zbfyo6vc2c)
+[2025-12-15 18:18:52](https://bsky.app/profile/japan.reuters.com/post/3m7zcgrwz3y2f)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+自民 “メガソーラー導入促進支援 廃止含め検討すべき”提言
+https://news.web.nhk/newsweb/na/na-k10015004411000
+
+[2025-12-15 18:18:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zcfdvxtf2k)
+
+---
+
+@japan.reuters.com
+
+三菱重工業の伊藤栄作社長は１５日、ロイターなどの取材に応じ、政府が一段と予算を増やそうとしている防衛事業ついて、国の方針に沿って生産体制などを整備する考えを示した。「必要に応じてきっちりとメーカーとして応えられるよう準備と対応をしていきたい」と語った。 bit.ly/450XlNP
+
+[2025-12-15 18:15:19](https://bsky.app/profile/japan.reuters.com/post/3m7zcahcdby2c)
 
 ---
 
