@@ -1,9 +1,9 @@
-# [2025-12-15 09:10 updated](2025_12_15.md)
+# [2025-12-15 09:30 updated](2025_12_15.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">中国商務省と金融規制当局は１４日、地方当局に対し、ビジネスと金融システムの連携を強化して消費を促進するよう求めた。 bit.ly/4q8rFOC <a href="https://bsky.app/profile/japan.reuters.com/post/3m7ydpn3ou52c" target="_blank">japan.reuters.com</a> (2025-12-15 09:09:02)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】福岡2人刺傷事件で男逮捕 (2025-12-15 09:08) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7ydphjjca2y" target="_blank">sokuho.news</a> (2025-12-15 09:08:57)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】福岡市商業施設での刺傷事件 30歳の男を殺人未遂容疑で逮捕 福岡県警 (2025年12月15日 09:07) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7ydnsmv722z" target="_blank">sokuho.news</a> (2025-12-15 09:08:01)</span><span style="padding-right:50px;">The suspects in the deadly shooting attack at a popular beach in Sydney on Sunday, the first evening of Hanukkah, were identified by the authorities as a man and his adult son on Monday morning, as the death toll rose to 15 victims, with dozens of others hospitalized. <a href="https://bsky.app/profile/nytimes.com/post/3m7ydln3biy2y" target="_blank">nytimes.com</a> (2025-12-15 09:06:48)</span><span style="padding-right:50px;">福岡 2人が刺された事件 30歳の容疑者を殺人未遂の疑いで逮捕 https://news.web.nhk/newsweb/na/na-k10015003921000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ydkcfqtz22" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 09:06:02)</span>
+<span style="padding-right:50px;">＜０９：０８＞　日経平均は反落で寄り付く、米ハイテク株安を嫌気　5万円付近で下げ渋り bit.ly/44Y8DSY <a href="https://bsky.app/profile/japan.reuters.com/post/3m7yetg4cjx2f" target="_blank">japan.reuters.com</a> (2025-12-15 09:29:03)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】福岡2人刺傷事件で男逮捕「殺そうと思って刺した」 (2025-12-15 09:08) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7yescky6q2r" target="_blank">sokuho.news</a> (2025-12-15 09:28:26)</span><span style="padding-right:50px;">スピードスケートのワールドカップ（Ｗ杯）は１４日、ノルウェーのハーマルで各競技を行い、女子５００メートルは吉田雪乃が制し、来年２月に行われるミラノ・コルティナ冬季五輪の代表入りを確実にした。 bit.ly/3KzwgdP <a href="https://bsky.app/profile/japan.reuters.com/post/3m7yerhefoy2s" target="_blank">japan.reuters.com</a> (2025-12-15 09:27:57)</span><span style="padding-right:50px;">＜０８：４６＞　国債先物は小反発で寄り付く、夜間取引の上昇に追随 bit.ly/3MGftpV <a href="https://bsky.app/profile/japan.reuters.com/post/3m7yephd7f72f" target="_blank">japan.reuters.com</a> (2025-12-15 09:26:50)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】30歳無職の男を殺人未遂の疑いで逮捕 福岡市の商業施設でHKT48スタッフの男性な女2人が刺傷 事件への関与をほのめかす (2025-12-15 09:05:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7yep2x22226" target="_blank">sokuho.news</a> (2025-12-15 09:26:37)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">^N225: Error</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">7203.T: Error</span><span style="padding-right:50px;">USD/JPY: 155.96 (🔺0.29 : 2025-12-15)</span>
+<span style="padding-right:50px;">NIKKEI: 50250.34 (🔻101.75 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3281.00 (🔺38.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.93 (🔺0.26 : 2025-12-15)</span>
   </div>
 </div>
 
@@ -32,20 +32,20 @@
 
 ## News Headlines
 
-1. 中国の金融規制当局、ビジネスと金融システムの連携を強化するよう地方当局に求める
-2. 福岡市で男性が刺傷事件、30歳の容疑者を殺人未遂の疑いで逮捕
-3. ASX、株主への配当を削減
-4. ホセアントニオ・カスト氏、チリ大統領選で勝利
-5. 大企業製造業の景気判断 +15ポイント、3期連続で改善
-6. 上野動物園の双子パンダ、来年1月下旬に中国に返還
+1.  30歳の男を殺人未遂の疑いで逮捕
+2.  日銀短観　大企業製造業3期連続改善
+3.  オーストラリアの観光地で銃撃事件、16人死亡
+4.  日経平均株価一時700円超値下がり
+5.  米実業家イーロン・マスク氏が率いる宇宙企業スペースＸが新規株式公開を準備
+6.  中国財政省が来年は積極的な財政政策を行うことを明らかに
 
 ----
 
 @japan.reuters.com
 
-中国商務省と金融規制当局は１４日、地方当局に対し、ビジネスと金融システムの連携を強化して消費を促進するよう求めた。 bit.ly/4q8rFOC
+＜０９：０８＞　日経平均は反落で寄り付く、米ハイテク株安を嫌気　5万円付近で下げ渋り bit.ly/44Y8DSY
 
-[2025-12-15 09:09:02](https://bsky.app/profile/japan.reuters.com/post/3m7ydpn3ou52c)
+[2025-12-15 09:29:03](https://bsky.app/profile/japan.reuters.com/post/3m7yetg4cjx2f)
 
 ---
 
@@ -53,10 +53,72 @@
 
 🛎️FNNより【速報】です。
 
-【速報】福岡2人刺傷事件で男逮捕
+【速報】福岡2人刺傷事件で男逮捕「殺そうと思って刺した」
 (2025-12-15 09:08) #ニュース
 
-[2025-12-15 09:08:57](https://bsky.app/profile/sokuho.news/post/3m7ydphjjca2y)
+[2025-12-15 09:28:26](https://bsky.app/profile/sokuho.news/post/3m7yescky6q2r)
+
+---
+
+@japan.reuters.com
+
+スピードスケートのワールドカップ（Ｗ杯）は１４日、ノルウェーのハーマルで各競技を行い、女子５００メートルは吉田雪乃が制し、来年２月に行われるミラノ・コルティナ冬季五輪の代表入りを確実にした。 bit.ly/3KzwgdP
+
+[2025-12-15 09:27:57](https://bsky.app/profile/japan.reuters.com/post/3m7yerhefoy2s)
+
+---
+
+@japan.reuters.com
+
+＜０８：４６＞　国債先物は小反発で寄り付く、夜間取引の上昇に追随 bit.ly/3MGftpV
+
+[2025-12-15 09:26:50](https://bsky.app/profile/japan.reuters.com/post/3m7yephd7f72f)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】30歳無職の男を殺人未遂の疑いで逮捕 福岡市の商業施設でHKT48スタッフの男性な女2人が刺傷 事件への関与をほのめかす
+(2025-12-15 09:05:00) #ニュース
+
+[2025-12-15 09:26:37](https://bsky.app/profile/sokuho.news/post/3m7yep2x22226)
+
+---
+
+@japan.reuters.com
+
+オーストラリアの観光名所ボンダイビーチで１４日に起きた銃撃事件で、警察当局は１５日、容疑者１人を含む１６人が死亡したと発表した。容疑者は父親（５０）と息子（２４）の２人で、父親は現場で死亡、息子は病院で重体という。 bit.ly/3YqRY6P
+
+[2025-12-15 09:25:13](https://bsky.app/profile/japan.reuters.com/post/3m7yeml36dh2q)
+
+---
+
+@reuters.com
+
+Japan business mood hits 4-year high, keeps BOJ rate-hike view alive reut.rs/4q3fH92
+
+[2025-12-15 09:25:10](https://bsky.app/profile/reuters.com/post/3m7yemhrd7o2k)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】岡山市東区で歩行者が車にはねられ重体の模様
+(2025-12-15 09:13:00) #ニュース
+
+[2025-12-15 09:24:45](https://bsky.app/profile/sokuho.news/post/3m7yelpwk7g2v)
+
+---
+
+@axios.com
+
+The mass shooting at Bondi Beach in Sydney, Australia, has prompted police in New York, Los Angeles and cities around the world to step up security protections during the Jewish celebration of Hanukkah.
+
+[2025-12-15 09:20:37](https://bsky.app/profile/axios.com/post/3m7yeedlggc2u)
 
 ---
 
@@ -64,70 +126,10 @@
 
 🔔ANNより【速報】です。
 
-【速報】福岡市商業施設での刺傷事件 30歳の男を殺人未遂容疑で逮捕 福岡県警
-(2025年12月15日 09:07) #ニュース
+【速報】日銀短観 大企業製造業3期連続改善
+(09:19) #ニュース
 
-[2025-12-15 09:08:01](https://bsky.app/profile/sokuho.news/post/3m7ydnsmv722z)
-
----
-
-@nytimes.com
-
-The suspects in the deadly shooting attack at a popular beach in Sydney on Sunday, the first evening of Hanukkah, were identified by the authorities as a man and his adult son on Monday morning, as the death toll rose to 15 victims, with dozens of others hospitalized.
-
-[2025-12-15 09:06:48](https://bsky.app/profile/nytimes.com/post/3m7ydln3biy2y)
-
----
-
-@nhknewsunofficial.bsky.social
-
-福岡 2人が刺された事件 30歳の容疑者を殺人未遂の疑いで逮捕
-https://news.web.nhk/newsweb/na/na-k10015003921000
-
-[2025-12-15 09:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ydkcfqtz22)
-
----
-
-@reuters.com
-
-ASX cuts dividend payouts after regulator imposes about $100 million additional charge reut.rs/4pDZure
-
-[2025-12-15 09:05:13](https://bsky.app/profile/reuters.com/post/3m7ydisb4yu2b)
-
----
-
-@axios.com
-
-Kamala Harris this week made clear to potential 2028 rivals that she's working to keep another White House campaign viable.
-
-[2025-12-15 09:04:01](https://bsky.app/profile/axios.com/post/3m7ydgnx5mk2c)
-
----
-
-@sokuho.news
-
-<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>福岡 2人が刺された事件 30歳の容疑者を殺人未遂の疑いで逮捕</strong><br><strong>(2025-12-15 09:03:23) #ニュース</strong>
-
-[2025-12-15 09:03:50](https://bsky.app/profile/sokuho.news/post/3m7ydgcptv32b)
-
----
-
-@sokuho.news
-
-🔔NHKより【速報】です。
-
-福岡市中央区で男女2人が刺された事件 30歳の容疑者を殺人未遂容疑で逮捕
-(2025-12-15 09:02) #ニュース
-
-[2025-12-15 09:02:59](https://bsky.app/profile/sokuho.news/post/3m7ydesezzj2b)
-
----
-
-@japan.reuters.com
-
-医療データ分析のメディカル・データ・ビジョン（ＭＤＶ）は１５日、日本生命保険(NPNLI.UL)が同社株に公開買い付け（ＴＯＢ）を実施するとの報道を受けて「公開買い付けに関する当社の意見その他の関連事項について検討を行っている」が、現時点で決定した事実はないとのコメントを発表した。きょう開催予定の取締役会に付議する予定という。日本生命も、開示すべきことが決定すれば速やかに公表するとのコメントを出した。 bit.ly/4ags5xP
-
-[2025-12-15 09:02:30](https://bsky.app/profile/japan.reuters.com/post/3m7yddwtf6u2q)
+[2025-12-15 09:20:20](https://bsky.app/profile/sokuho.news/post/3m7yedti3jq2b)
 
 ---
 
