@@ -1,9 +1,9 @@
-# [2025-12-15 20:30 updated](2025_12_15.md)
+# [2025-12-15 20:50 updated](2025_12_15.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Israel’s PM Netanyahu heralded Ahmed al-Ahmed for showing “Jewish heroism” before learning the Bondi Beach “hero” is Muslim.  🔴 Read more here: aje.io/ayc393 <a href="https://bsky.app/profile/aljazeera.com/post/3m7zjnzuy222v" target="_blank">aljazeera.com</a> (2025-12-15 20:28:11)</span><span style="padding-right:50px;">小野寺税調会長「年収の壁」178万円へ引き上げ方針 国民と協議 https://news.web.nhk/newsweb/na/na-k10015004771000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zjm2uqaf2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 20:27:03)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】JR博多駅近くで「人が刺されている」と通報 交番訪れた30代の男を現行犯逮捕 刺されたのは70代とみられる男性 福岡 (2025-12-15 19:45) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7zjjp7h6z2e" target="_blank">sokuho.news</a> (2025-12-15 20:25:46)</span><span style="padding-right:50px;">ブルームバーグは１５日、三菱ＵＦＪフィナンシャル・グループ がインド２位のノンバンクに５０００億円超出資する方向で最終調整に入ったと報じた。出資先はシュリラム・ファイナンスで、２割の株式を取得するという。今週中にも発表する予定としている。 bit.ly/4pDujMD <a href="https://bsky.app/profile/japan.reuters.com/post/3m7zjisvxiz27" target="_blank">japan.reuters.com</a> (2025-12-15 20:25:16)</span><span style="padding-right:50px;">Korea Zinc to build $7.4 bln smelter in US reut.rs/4pFhhOI <a href="https://bsky.app/profile/reuters.com/post/3m7zjinq73t2r" target="_blank">reuters.com</a> (2025-12-15 20:25:10)</span>
+<span style="padding-right:50px;">🔊 ‘Australia has some of the world's strictest gun laws, but there's been attention paid today to the fact that this 50-year-old gunman had six weapons.’ Reuters World News on how Australia is planning tougher gun laws reut.rs/48RU9oT <a href="https://bsky.app/profile/reuters.com/post/3m7zkquncos2a" target="_blank">reuters.com</a> (2025-12-15 20:47:40)</span><span style="padding-right:50px;">China to fall out of Germany's top five export destinations for first time since 2010 reut.rs/4rVxjoX <a href="https://bsky.app/profile/reuters.com/post/3m7zkmnppwf2i" target="_blank">reuters.com</a> (2025-12-15 20:45:18)</span><span style="padding-right:50px;">英国の財務報告評議会（ＦＲＣ）は１５日、アーンスト・アンド・ヤング（ＥＹ）が実施したシェルの２０２４年財務諸表の監査について、監査パートナー交代規則違反の可能性を理由に調査を開始したと発表した。 bit.ly/3KXclpf <a href="https://bsky.app/profile/japan.reuters.com/post/3m7zke3osh52n" target="_blank">japan.reuters.com</a> (2025-12-15 20:40:31)</span><span style="padding-right:50px;">Yemen's main separatist group says it launched military operation in Abyan reut.rs/48SAdlX <a href="https://bsky.app/profile/reuters.com/post/3m7zkdtgfjm2y" target="_blank">reuters.com</a> (2025-12-15 20:40:22)</span><span style="padding-right:50px;">Hong Kong pro-democracy media tycoon Jimmy Lai was found guilty on all three charges in his national security trial on Monday, convictions that rights groups denounced as the death knell for press freedoms in the Chinese financial hub ➡️ u.afp.com/S7Ra <a href="https://bsky.app/profile/en.afp.com/post/3m7zkdpkmp42k" target="_blank">en.afp.com</a> (2025-12-15 20:40:18)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.00 (🔻0.67 : 2025-12-15)</span>
+<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 154.98 (🔻0.69 : 2025-12-15)</span>
   </div>
 </div>
 
@@ -32,104 +32,102 @@
 
 ## News Headlines
 
-1. 小野寺税調会長「年収の壁」178万円へ引き上げ方針
-2. JR博多駅近くで「人が刺されている」と通報
-3. ブルームバーグが報じる「三菱ＵＦＪフィナンシャルグループがインドのノンバンクに出資」
-4. 韓国の特別検察官が尹錫悦前大統領を起訴
-5. フジ・メディア・ホールディングスが野村絢氏から議決権を引き上げる
-6. オーストラリアが銃規制を強化する方針を示す
+1. 
+「オーストラリア　銃器規制強化へ　50歳の男の銃器6丁を所持した事件を受けて」
+2. 
+「中国がドイツのトップ5輸出国から外れ初めて」
+3. 
+「EY監査に不正疑惑　英財務報告評議会が調査開始」
+4. 
+「イエメンの分離主義グループがアビヤンで軍事作戦を開始」
+5. 
+「香港の民主派メディアのジャイミー・ライ氏に国民安全保障法違反の有罪判決」
+6. 
+「ロブ・ライナー監督夫妻死去　ロサンゼルスで捜査開始」
 
 ----
 
-@aljazeera.com
+@reuters.com
 
-Israel’s PM Netanyahu heralded Ahmed al-Ahmed for showing “Jewish heroism” before learning the Bondi Beach “hero” is Muslim.
+🔊 ‘Australia has some of the world's strictest gun laws, but there's been attention paid today to the fact that this 50-year-old gunman had six weapons.’ Reuters World News on how Australia is planning tougher gun laws reut.rs/48RU9oT
 
-🔴 Read more here: aje.io/ayc393
-
-[2025-12-15 20:28:11](https://bsky.app/profile/aljazeera.com/post/3m7zjnzuy222v)
-
----
-
-@nhknewsunofficial.bsky.social
-
-小野寺税調会長「年収の壁」178万円へ引き上げ方針 国民と協議
-https://news.web.nhk/newsweb/na/na-k10015004771000
-
-[2025-12-15 20:27:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zjm2uqaf2m)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】JR博多駅近くで「人が刺されている」と通報 交番訪れた30代の男を現行犯逮捕 刺されたのは70代とみられる男性 福岡
-(2025-12-15 19:45) #ニュース
-
-[2025-12-15 20:25:46](https://bsky.app/profile/sokuho.news/post/3m7zjjp7h6z2e)
-
----
-
-@japan.reuters.com
-
-ブルームバーグは１５日、三菱ＵＦＪフィナンシャル・グループ がインド２位のノンバンクに５０００億円超出資する方向で最終調整に入ったと報じた。出資先はシュリラム・ファイナンスで、２割の株式を取得するという。今週中にも発表する予定としている。 bit.ly/4pDujMD
-
-[2025-12-15 20:25:16](https://bsky.app/profile/japan.reuters.com/post/3m7zjisvxiz27)
+[2025-12-15 20:47:40](https://bsky.app/profile/reuters.com/post/3m7zkquncos2a)
 
 ---
 
 @reuters.com
 
-Korea Zinc to build $7.4 bln smelter in US reut.rs/4pFhhOI
+China to fall out of Germany's top five export destinations for first time since 2010 reut.rs/4rVxjoX
 
-[2025-12-15 20:25:10](https://bsky.app/profile/reuters.com/post/3m7zjinq73t2r)
-
----
-
-@bloomberg.com
-
-London is famous for some of the world's most exorbitant house prices — but there is a glimmer of hope for anyone who dreams of owning a home in the UK capital. Read our exclusive analysis: bloom.bg/4rYLTMG
-
-[2025-12-15 20:25:05](https://bsky.app/profile/bloomberg.com/post/3m7zjiim3li2g)
-
----
-
-@nytimes.com
-
-Listen to “The Headlines,” which brings you the biggest stories of the day from the New York Times reporters who are covering them, all in about 10 minutes.
-
-[2025-12-15 20:25:02](https://bsky.app/profile/nytimes.com/post/3m7zjifwgd52b)
-
----
-
-@sokuho.news
-
-🔔ANNより【速報】です。
-
-【速報】博多駅付近で70代男性が刺される 意識あり “包丁”持ち出頭した男を逮捕
-(20:22) #ニュース
-
-[2025-12-15 20:24:23](https://bsky.app/profile/sokuho.news/post/3m7zjhaciej2e)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】77歳母と52歳妹の遺体を遺棄した疑いで同居の53歳男を逮捕「間違いありません」殺害もほのめかす〈北海道札幌市〉
-(2025-12-15 20:15) #ニュース
-
-[2025-12-15 20:20:44](https://bsky.app/profile/sokuho.news/post/3m7zjapdu732b)
+[2025-12-15 20:45:18](https://bsky.app/profile/reuters.com/post/3m7zkmnppwf2i)
 
 ---
 
 @japan.reuters.com
 
-日本生命保険(NPNLI.UL)は１５日、医療データ分析のメディカル・データ・ビジョン（ＭＤＶ）に対し、公開買い付け（ＴＯＢ）を実施、完全子会社化すると発表した。 bit.ly/3MDinvF
+英国の財務報告評議会（ＦＲＣ）は１５日、アーンスト・アンド・ヤング（ＥＹ）が実施したシェルの２０２４年財務諸表の監査について、監査パートナー交代規則違反の可能性を理由に調査を開始したと発表した。 bit.ly/3KXclpf
 
-[2025-12-15 20:20:29](https://bsky.app/profile/japan.reuters.com/post/3m7zjaax5kv2c)
+[2025-12-15 20:40:31](https://bsky.app/profile/japan.reuters.com/post/3m7zke3osh52n)
+
+---
+
+@reuters.com
+
+Yemen's main separatist group says it launched military operation in Abyan reut.rs/48SAdlX
+
+[2025-12-15 20:40:22](https://bsky.app/profile/reuters.com/post/3m7zkdtgfjm2y)
+
+---
+
+@en.afp.com
+
+Hong Kong pro-democracy media tycoon Jimmy Lai was found guilty on all three charges in his national security trial on Monday, convictions that rights groups denounced as the death knell for press freedoms in the Chinese financial hub ➡️ u.afp.com/S7Ra
+
+[2025-12-15 20:40:18](https://bsky.app/profile/en.afp.com/post/3m7zkdpkmp42k)
+
+---
+
+@nytimes.com
+
+Rob Reiner, the award-winning Hollywood actor and director, and his wife, Michele, were found dead in their home on Sunday in Los Angeles. Officials said they were investigating the deaths as homicides. 
+
+Here's what we know.
+
+[2025-12-15 20:40:08](https://bsky.app/profile/nytimes.com/post/3m7zkdfarqd2a)
+
+---
+
+@nytimes.com
+
+Australian police said Monday that they expected to bring criminal charges against the surviving gunman in a deadly shooting spree that targeted a Jewish holiday celebration in Sydney. 
+
+Here are the latest updates.
+
+[2025-12-15 20:40:07](https://bsky.app/profile/nytimes.com/post/3m7zkdeueoe2v)
+
+---
+
+@reuters.com
+
+LIVE: Zelenskiy greeted by German President Steinmeier youtube.com/live/iZ3e3RT...
+
+[2025-12-15 20:39:49](https://bsky.app/profile/reuters.com/post/3m7zkctwfdk2x)
+
+---
+
+@usatoday.com
+
+Rob Reiner, the celebrated actor, director and producer whose work shaped American television and cinema for decades, has died at 78, according to Variety and TMZ. bit.ly/4iXWy5Z
+
+[2025-12-15 20:37:05](https://bsky.app/profile/usatoday.com/post/3m7zk5wq6me2h)
+
+---
+
+@japan.reuters.com
+
+ＮＴＴの澤田純会長はロイターのインタビューに応じ、光技術を使った次世代通信基盤「ＩＯＷＮ（アイオン）」について、先端半導体の量産を目指す出資先のラピダス（東京都千代田区）への活用を模索する考えを示した。開発する半導体の独自性が強まり、日本のサプライチェーン（供給網）強化につながるとした。 bit.ly/4j3y3Vk
+
+[2025-12-15 20:35:22](https://bsky.app/profile/japan.reuters.com/post/3m7zk2v77io2q)
 
 ---
 
