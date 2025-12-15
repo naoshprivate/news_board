@@ -1,9 +1,9 @@
-# [2025-12-15 15:50 updated](2025_12_15.md)
+# [2025-12-15 16:10 updated](2025_12_15.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】JR大阪環状線 列車に遅れ 阪和線での車両・線路確認による影響で (2025-12-15 15:38) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7yzv25qxj2v" target="_blank">sokuho.news</a> (2025-12-15 15:45:46)</span><span style="padding-right:50px;">Thailand cuts Laos fuel route as Cambodia border conflict deepens reut.rs/4pDmbeZ <a href="https://bsky.app/profile/reuters.com/post/3m7yzty4o6k2r" target="_blank">reuters.com</a> (2025-12-15 15:45:10)</span><span style="padding-right:50px;">＜１５：３３＞　　大引けの日経平均は反落、日銀の利上げ観測でＴＯＰＩＸは史上最高値 bit.ly/4iXaQnz <a href="https://bsky.app/profile/japan.reuters.com/post/3m7yzsvg2rs27" target="_blank">japan.reuters.com</a> (2025-12-15 15:44:34)</span><span style="padding-right:50px;">中国国家統計局が１５日発表した１─１１月の不動産投資は前年同期比１５．９％減で、１─１０月（１４．７％減）から減少幅が拡大した。 bit.ly/48URwTg <a href="https://bsky.app/profile/japan.reuters.com/post/3m7yzl3kped2c" target="_blank">japan.reuters.com</a> (2025-12-15 15:40:12)</span><span style="padding-right:50px;">Bank of England heads for close vote on likely rate cut reut.rs/4qflVD3 <a href="https://bsky.app/profile/reuters.com/post/3m7yzl23rdo2y" target="_blank">reuters.com</a> (2025-12-15 15:40:11)</span>
+<span style="padding-right:50px;">維新 吉村代表 “16日に高市首相と党首会談の予定” https://news.web.nhk/newsweb/na/na-k10015004281000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7z36pysfq2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 16:09:03)</span><span style="padding-right:50px;">１１月のインドの卸売物価は前年同月比０．３２％下落した。前月の１．２１％下落から下落ペースが鈍化した。 bit.ly/4s2aznC <a href="https://bsky.app/profile/japan.reuters.com/post/3m7z36j357t2c" target="_blank">japan.reuters.com</a> (2025-12-15 16:08:58)</span><span style="padding-right:50px;">EU to broaden Belarus sanctions to include hybrid activity, Lithuania says reut.rs/4qf0DFz <a href="https://bsky.app/profile/reuters.com/post/3m7z2xrdfen2r" target="_blank">reuters.com</a> (2025-12-15 16:05:11)</span><span style="padding-right:50px;">フジ・メディア・ホールディングスは１５日、投資家の野村絢氏から、旧村上ファンド系投資会社の保有分と合わせて議決権比率３３．３％まで株式を買い付けるとの通知を受け取ったと発表した。野村氏は物言う株主と知られる村上世彰氏の長女。 bit.ly/48PuP2L <a href="https://bsky.app/profile/japan.reuters.com/post/3m7z2wqhum52q" target="_blank">japan.reuters.com</a> (2025-12-15 16:04:37)</span><span style="padding-right:50px;">Rodney Melton left his full-time job in May 2022 to engrave concrete and granite pet memorials. Now, his family business brings in more than $200,000 per year. <a href="https://bsky.app/profile/cnbc.com/post/3m7z2staitq2g" target="_blank">cnbc.com</a> (2025-12-15 16:02:26)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.12 (🔻0.55 : 2025-12-15)</span>
+<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.16 (🔻0.51 : 2025-12-15)</span>
   </div>
 </div>
 
@@ -32,101 +32,103 @@
 
 ## News Headlines
 
-1. JR大阪環状線 列車に遅れ
-2. 大引けの日経平均は反落
-3. 不動産投資 １─１１月は前年同期比１５．９％減
-4. Bank of England heads for close vote on likely rate cut
-5. ホギメディカルをカーライルが買収へ 1500億円規模でTOB
-6. 尹錫悦前大統領が戒厳令布告を正当化したと発表
+1. 16日に高市首相と維新代表の吉村代表が党首会談
+2. インドの卸売物価が前年比3.2％下落
+3. EUがベラルーシへの制裁を拡大
+4. フジ・メディア・ホールディングス、議決権比率33.3％まで株式を買い上げる意向
+5. 2026年に新しいミュンヘン工場で152億ユーロを投資するQuantumDiamonds
+6. ワインレコードの人気が再び戻り、ジェネシーの世代が主な推進力
 
 ----
 
-@sokuho.news
+@nhknewsunofficial.bsky.social
 
-🛎️FNNより【速報】です。
+維新 吉村代表 “16日に高市首相と党首会談の予定”
+https://news.web.nhk/newsweb/na/na-k10015004281000
 
-【速報】JR大阪環状線 列車に遅れ 阪和線での車両・線路確認による影響で
-(2025-12-15 15:38) #ニュース
+[2025-12-15 16:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7z36pysfq2w)
 
-[2025-12-15 15:45:46](https://bsky.app/profile/sokuho.news/post/3m7yzv25qxj2v)
+---
+
+@japan.reuters.com
+
+１１月のインドの卸売物価は前年同月比０．３２％下落した。前月の１．２１％下落から下落ペースが鈍化した。 bit.ly/4s2aznC
+
+[2025-12-15 16:08:58](https://bsky.app/profile/japan.reuters.com/post/3m7z36j357t2c)
 
 ---
 
 @reuters.com
 
-Thailand cuts Laos fuel route as Cambodia border conflict deepens reut.rs/4pDmbeZ
+EU to broaden Belarus sanctions to include hybrid activity, Lithuania says reut.rs/4qf0DFz
 
-[2025-12-15 15:45:10](https://bsky.app/profile/reuters.com/post/3m7yzty4o6k2r)
-
----
-
-@japan.reuters.com
-
-＜１５：３３＞　　大引けの日経平均は反落、日銀の利上げ観測でＴＯＰＩＸは史上最高値 bit.ly/4iXaQnz
-
-[2025-12-15 15:44:34](https://bsky.app/profile/japan.reuters.com/post/3m7yzsvg2rs27)
+[2025-12-15 16:05:11](https://bsky.app/profile/reuters.com/post/3m7z2xrdfen2r)
 
 ---
 
 @japan.reuters.com
 
-中国国家統計局が１５日発表した１─１１月の不動産投資は前年同期比１５．９％減で、１─１０月（１４．７％減）から減少幅が拡大した。 bit.ly/48URwTg
+フジ・メディア・ホールディングスは１５日、投資家の野村絢氏から、旧村上ファンド系投資会社の保有分と合わせて議決権比率３３．３％まで株式を買い付けるとの通知を受け取ったと発表した。野村氏は物言う株主と知られる村上世彰氏の長女。 bit.ly/48PuP2L
 
-[2025-12-15 15:40:12](https://bsky.app/profile/japan.reuters.com/post/3m7yzl3kped2c)
+[2025-12-15 16:04:37](https://bsky.app/profile/japan.reuters.com/post/3m7z2wqhum52q)
+
+---
+
+@cnbc.com
+
+Rodney Melton left his full-time job in May 2022 to engrave concrete and granite pet memorials. Now, his family business brings in more than $200,000 per year.
+
+[2025-12-15 16:02:26](https://bsky.app/profile/cnbc.com/post/3m7z2staitq2g)
 
 ---
 
 @reuters.com
 
-Bank of England heads for close vote on likely rate cut reut.rs/4qflVD3
+QuantumDiamonds announces 152 mln euros investment plan for new Munich site reut.rs/3KWXdIt
 
-[2025-12-15 15:40:11](https://bsky.app/profile/reuters.com/post/3m7yzl23rdo2y)
-
----
-
-@nytimes.com
-
-Rob Reiner, the son of a pioneering television comedian who became a popular sitcom actor himself before directing a slate of beloved films, including “This Is Spinal Tap,” “When Harry Met Sally …” and “The Princess Bride,” died on Sunday. He was 78.
-
-[2025-12-15 15:40:02](https://bsky.app/profile/nytimes.com/post/3m7yzks4n2e2y)
+[2025-12-15 16:01:08](https://bsky.app/profile/reuters.com/post/3m7z2qjkhmw2b)
 
 ---
 
-@sokuho.news
+@cnn.com
 
-🛎️JNNより【速報】です。
+Vinyl records are popular again, but it's not just audiophiles or nostalgic boomers fueling the resurgence.
 
-【速報】日経平均 半導体関連株が重しで668円安の5万168円で取引終了 一方でTOPIXは最高値更新
-(2025-12-15 15:35:42) #ニュース
+Gen Z is playing an outsized role in the revival of vinyl sales, which have grown on average by 18% annually in the past five years.
+https://cnn.it/4q2ceaK
 
-📈世界の株価
-🔗https://sekai-kabuka.com/
-
-[2025-12-15 15:38:07](https://bsky.app/profile/sokuho.news/post/3m7yzhejebt2s)
+[2025-12-15 16:01:02](https://bsky.app/profile/cnn.com/post/3m7z2qdezoa23)
 
 ---
 
 @japan.reuters.com
 
-＜１５：０７＞　国債先物は小反発、もみ合い商状　長期金利は1.955％に小幅上昇 bit.ly/3YslSaV
+中国国家統計局が１５日発表した１１月の鉱工業生産と小売売上高は１年超ぶりの低い伸びとなった。小売売上高は「ゼロコロナ」政策が突然解除され以来の低い伸びとなった。２０２６年を前に新たな成長エンジンの必要性が浮き彫りとなっている。 bit.ly/4acCdHW
 
-[2025-12-15 15:38:05](https://bsky.app/profile/japan.reuters.com/post/3m7yzhcpfxa2v)
-
----
-
-@japan.reuters.com
-
-タイのエクニティ財務相は15日、バーツが過度に上昇しており、国内経済に悪影響を及ぼしていると述べた。 bit.ly/4q9bv7O
-
-[2025-12-15 15:37:01](https://bsky.app/profile/japan.reuters.com/post/3m7yzffmybj2q)
+[2025-12-15 16:00:56](https://bsky.app/profile/japan.reuters.com/post/3m7z2q5pmhd2c)
 
 ---
 
-@reuters.com
+@financialtimes.com
 
-Indian furnishing company Wakefit falls 9% in debut, valuation at $657 million reut.rs/4q8z0Oc
+Bank of England set to cut rates to 3.75% as economic data eases inflation concerns on.ft.com/45b0xGH
 
-[2025-12-15 15:35:09](https://bsky.app/profile/reuters.com/post/3m7yzc25u6c2i)
+[2025-12-15 16:00:55](https://bsky.app/profile/financialtimes.com/post/3m7z2q4ss5c2k)
+
+---
+
+@nikkei.com
+
+就活で「副業前提」の危うさ　まずは確実に通用する能力獲得を
+www.nikkei.com/article/DGXZQO...
+
+就活で「副業がしやすい会社か」を重視する声が増える中、企業側でも副業解禁の動きが加速しています。
+
+一方で、最初の会社を「仮置き就職」的に考えると「二兎を追う者は一兎をも得ず」になるリスクがあると専門家は指摘します。
+
+「副業前提」世代は就職先をどう選ぶべきなのでしょうか。
+
+[2025-12-15 16:00:36](https://bsky.app/profile/nikkei.com/post/3m7z2pkffqc2y)
 
 ---
 
