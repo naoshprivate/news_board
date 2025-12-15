@@ -1,9 +1,9 @@
-# [2025-12-15 11:30 updated](2025_12_15.md)
+# [2025-12-15 11:50 updated](2025_12_15.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">中国国家統計局が１５日発表した１１月の鉱工業生産は前年比４．８％増と、１０月の４．９％増から減速した。小売売上高の伸びも鈍化した。 bit.ly/48Y7hc9 <a href="https://bsky.app/profile/japan.reuters.com/post/3m7ylfszjn62p" target="_blank">japan.reuters.com</a> (2025-12-15 11:26:43)</span><span style="padding-right:50px;">中国財政省は１３日、来年は超長期の特別国債の発行を含めて、より積極的な財政政策を行うと明らかにした。 bit.ly/4s4lSvx <a href="https://bsky.app/profile/japan.reuters.com/post/3m7yld5xk2z2s" target="_blank">japan.reuters.com</a> (2025-12-15 11:25:14)</span><span style="padding-right:50px;">China's retail sales growth sharply misses estimates in November, deepening consumption worries <a href="https://bsky.app/profile/cnbc.com/post/3m7yl5uohtm2e" target="_blank">cnbc.com</a> (2025-12-15 11:22:16)</span><span style="padding-right:50px;">We asked designers what’s trending and ending, based on client requests. The experts’ verdicts: So long, quiet minimalism and smart-everything. Hello, Art Deco glam and…rotary phones? <a href="https://bsky.app/profile/wsj.com/post/3m7yl53xvex2u" target="_blank">wsj.com</a> (2025-12-15 11:21:50)</span><span style="padding-right:50px;">＜１０：５８＞　ドル155円後半で弱含み、方向感なく上下 bit.ly/4j6Wwcb <a href="https://bsky.app/profile/japan.reuters.com/post/3m7yl3smzit2q" target="_blank">japan.reuters.com</a> (2025-12-15 11:21:07)</span>
+<span style="padding-right:50px;">Hong Kong media tycoon Jimmy Lai found guilty on all charges in landmark national security trial. https://cnn.it/4rVP2Nf <a href="https://bsky.app/profile/cnn.com/post/3m7ymnshl5m26" target="_blank">cnn.com</a> (2025-12-15 11:49:05)</span><span style="padding-right:50px;">JR武蔵野線 運転再開 https://news.web.nhk/newsweb/na/na-k10015003981000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ymlypiue2l" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 11:48:02)</span><span style="padding-right:50px;">BREAKING: Hong Kong court convicts Jimmy Lai, founder of former pro-democracy newspaper, in landmark national security trial. <a href="https://bsky.app/profile/apnews.com/post/3m7ymk4m67a23" target="_blank">apnews.com</a> (2025-12-15 11:47:01)</span><span style="padding-right:50px;">Breaking News: A Hong Kong court found Jimmy Lai, a media mogul and notable critic of Beijing, guilty in a landmark national security trial. <a href="https://bsky.app/profile/nytimes.com/post/3m7ymjbvdsf2b" target="_blank">nytimes.com</a> (2025-12-15 11:46:33)</span><span style="padding-right:50px;">三菱ＵＦＪフィナンシャル・グループ傘下の三菱ＵＦＪ銀行と三菱ＵＦＪ信託銀行は１５日、米国のプライベート・クレジット市場を対象とする新たな投資ファンドの運用を開始したと発表した。目標規模は５００億円で、１０月の初回クローズ時点で２９０億円を集めた。 bit.ly/3L2n69N <a href="https://bsky.app/profile/japan.reuters.com/post/3m7ymj5dq7e2c" target="_blank">japan.reuters.com</a> (2025-12-15 11:46:28)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50144.41 (🔻207.68 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3321.00 (🔺78.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.52 (🔻0.15 : 2025-12-15)</span>
+<span style="padding-right:50px;">NIKKEI: 50092.10 (🔻259.99 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3316.00 (🔺73.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.36 (🔻0.32 : 2025-12-15)</span>
   </div>
 </div>
 
@@ -32,98 +32,96 @@
 
 ## News Headlines
 
-1. 11月の中国の鉱業生産は4.8％増
-2. 中国財政省、来年積極財政政策を実施
-3. ドルは155円台半ばで弱含み
-4. ノーベル化学賞の京大教授が帰国
-5. ユダヤ教の祭り「ハヌカ」の世界の主要都市で警備強化
-6. 中国の工業生産が4.8％増加
+1. 香港のメディア大王ジミーリー・ライが国籍法違反で有罪判決
+2.  JR武蔵野線運転再開
+3. 三菱UFJ銀行が米国プライベート・クレジット市場への投資ファンドを新設
+4.  オランダ1部でアヤックスがフェイエノールトに勝利
+5. 中国が2026年に輸出と輸入を拡大する計画を発表
+6. 大阪のビル火災で消防士２人死亡、「バックドラフト現象」が疑われる
 
 ----
 
-@japan.reuters.com
+@cnn.com
 
-中国国家統計局が１５日発表した１１月の鉱工業生産は前年比４．８％増と、１０月の４．９％増から減速した。小売売上高の伸びも鈍化した。 bit.ly/48Y7hc9
+Hong Kong media tycoon Jimmy Lai found guilty on all charges in landmark national security trial. https://cnn.it/4rVP2Nf
 
-[2025-12-15 11:26:43](https://bsky.app/profile/japan.reuters.com/post/3m7ylfszjn62p)
+[2025-12-15 11:49:05](https://bsky.app/profile/cnn.com/post/3m7ymnshl5m26)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+JR武蔵野線 運転再開
+https://news.web.nhk/newsweb/na/na-k10015003981000
+
+[2025-12-15 11:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ymlypiue2l)
+
+---
+
+@apnews.com
+
+<strong><span style="color: red;">BREAKING:</span> Hong Kong court convicts Jimmy Lai, founder of former pro-democracy newspaper, in landmark national security trial.</strong>
+
+[2025-12-15 11:47:01](https://bsky.app/profile/apnews.com/post/3m7ymk4m67a23)
+
+---
+
+@nytimes.com
+
+<strong><span style="color: red;">Breaking News</span>: A Hong Kong court found Jimmy Lai, a media mogul and notable critic of Beijing, guilty in a landmark national security trial.</strong>
+
+[2025-12-15 11:46:33](https://bsky.app/profile/nytimes.com/post/3m7ymjbvdsf2b)
 
 ---
 
 @japan.reuters.com
 
-中国財政省は１３日、来年は超長期の特別国債の発行を含めて、より積極的な財政政策を行うと明らかにした。 bit.ly/4s4lSvx
+三菱ＵＦＪフィナンシャル・グループ傘下の三菱ＵＦＪ銀行と三菱ＵＦＪ信託銀行は１５日、米国のプライベート・クレジット市場を対象とする新たな投資ファンドの運用を開始したと発表した。目標規模は５００億円で、１０月の初回クローズ時点で２９０億円を集めた。 bit.ly/3L2n69N
 
-[2025-12-15 11:25:14](https://bsky.app/profile/japan.reuters.com/post/3m7yld5xk2z2s)
-
----
-
-@cnbc.com
-
-China's retail sales growth sharply misses estimates in November, deepening consumption worries
-
-[2025-12-15 11:22:16](https://bsky.app/profile/cnbc.com/post/3m7yl5uohtm2e)
-
----
-
-@wsj.com
-
-We asked designers what’s trending and ending, based on client requests. The experts’ verdicts: So long, quiet minimalism and smart-everything. Hello, Art Deco glam and…rotary phones?
-
-[2025-12-15 11:21:50](https://bsky.app/profile/wsj.com/post/3m7yl53xvex2u)
+[2025-12-15 11:46:28](https://bsky.app/profile/japan.reuters.com/post/3m7ymj5dq7e2c)
 
 ---
 
 @japan.reuters.com
 
-＜１０：５８＞　ドル155円後半で弱含み、方向感なく上下 bit.ly/4j6Wwcb
+サッカーのオランダ１部は１４日、各地で試合を行い、板倉滉の所属するアヤックスは上田綺世と渡辺剛がプレーするフェイエノールトとの名門対決を２─０で制した。 bit.ly/4ahOESO
 
-[2025-12-15 11:21:07](https://bsky.app/profile/japan.reuters.com/post/3m7yl3smzit2q)
+[2025-12-15 11:45:22](https://bsky.app/profile/japan.reuters.com/post/3m7ymh62bmx26)
+
+---
+
+@japan.reuters.com
+
+中国共産党の経済政策担当幹部は、「持続可能な」貿易を促進するための取り組みの一環として、２０２６年に輸出と輸入をともに拡大する計画を明らかにした。中国国営の中国中央テレビ（ＣＣＴＶ）が１３日、報じた。 bit.ly/3KWxOOW
+
+[2025-12-15 11:45:14](https://bsky.app/profile/japan.reuters.com/post/3m7ymgwndfb2s)
+
+---
+
+@bloomberg.com
+
+<strong><span style="color: red;">BREAKING:</span> Hong Kong ex-media mogul Jimmy Lai is found guilty of endangering national security, a verdict that could fuel tensions between China and the US</strong>
+
+[2025-12-15 11:44:39](https://bsky.app/profile/bloomberg.com/post/3m7ymfvh7l723)
 
 ---
 
 @sokuho.news
 
-🛎️JNNより【速報】です。
+🛎️NNNより【独自】です。
 
-【速報】北海道拓殖銀行の最後の頭取 河谷禎昌さん（90）死去
-(2025-12-15 11:00:00) #ニュース
+【独自】消防隊員2人死亡の大阪・道頓堀ビル火災 「バックドラフト現象」が発生か 今月中に中間報告公表へ
+(2025-12-15 11:40) #ニュース
 
-[2025-12-15 11:20:35](https://bsky.app/profile/sokuho.news/post/3m7yl2tyv6q2z)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】ノーベル化学賞の京大・北川特別教授が帰国 24日に特別講演
-(2025-12-15 11:16:35) #ニュース
-
-[2025-12-15 11:20:25](https://bsky.app/profile/sokuho.news/post/3m7yl2jzwti2b)
+[2025-12-15 11:44:33](https://bsky.app/profile/sokuho.news/post/3m7ymfpme452y)
 
 ---
 
 @japan.reuters.com
 
-オーストラリア・シドニーのビーチでユダヤ教の祭り「ハヌカ」が催されている最中に銃撃が起きたことを受け、ベルリンやロンドン、ニューヨークなど世界の主要都市でハヌカ関連行事の警備が強化された。 bit.ly/3KSm8g7
+ニュージーランド（ＮＺ）準備銀行（中央銀行）のブレマン総裁は１５日、経済状況が予想通りに推移すれば、政策金利はしばらくの間、２．２５％の現行水準にとどまる可能性が高いとの見方を示した。 bit.ly/4j6XZiH
 
-[2025-12-15 11:20:25](https://bsky.app/profile/japan.reuters.com/post/3m7yl2ksodo26)
-
----
-
-@reuters.com
-
-China's November industrial output grows 4.8% y/y, retail sales up 1.3% reut.rs/3KR9LkC
-
-[2025-12-15 11:20:19](https://bsky.app/profile/reuters.com/post/3m7yl2eif2b2b)
-
----
-
-@reuters.com
-
-Supporters of Hong Kong democracy activist Jimmy Lai queued outside the city's High Court overnight before the December 15 verdict in his landmark security trial as international calls to release the China critic have grown. Follow our live coverage: reut.rs/4pE5Y9y
-
-[2025-12-15 11:18:39](https://bsky.app/profile/reuters.com/post/3m7ykxfabok2j)
+[2025-12-15 11:44:18](https://bsky.app/profile/japan.reuters.com/post/3m7ymfbillv22)
 
 ---
 
