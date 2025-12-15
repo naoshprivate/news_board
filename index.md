@@ -1,9 +1,9 @@
-# [2025-12-15 22:10 updated](2025_12_15.md)
+# [2025-12-15 22:30 updated](2025_12_15.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">“映画「スタンド・バイ・ミー」の監督と妻の遺体”米メディア https://news.web.nhk/newsweb/na/na-k10015004911000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zpcgsicb2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 22:09:02)</span><span style="padding-right:50px;">OpenAI CFO on hardware device: 'No changes right now, no announcements to be made' <a href="https://bsky.app/profile/yahoofinance.com/post/3m7zp54htc62k" target="_blank">yahoofinance.com</a> (2025-12-15 22:06:06)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】「平屋建てから出火」と通報 激しい炎と煙が上がる 福岡市早良区で火事 消防が出動し消火活動中 (2025-12-15 21:55) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7zp4hmjvm2v" target="_blank">sokuho.news</a> (2025-12-15 22:05:44)</span><span style="padding-right:50px;">German regulator orders oversight, limits on online bank N26 reut.rs/4oWfYto <a href="https://bsky.app/profile/reuters.com/post/3m7zp3fhxy32i" target="_blank">reuters.com</a> (2025-12-15 22:05:08)</span><span style="padding-right:50px;"> n.pr/48BwtGy <a href="https://bsky.app/profile/npr.org/post/3m7zoym3lj22y" target="_blank">npr.org</a> (2025-12-15 22:03:34)</span>
+<span style="padding-right:50px;">Patriot Front, a White supremacist group, has been quietly building a 124-acre compound in the mountains of east Tennessee, where they train members and host fight clubs. https://cnn.it/44rpU6V <a href="https://bsky.app/profile/cnn.com/post/3m7zqgjnxho24" target="_blank">cnn.com</a> (2025-12-15 22:29:15)</span><span style="padding-right:50px;">ウクライナのゼレンスキー大統領は１５日、ベルリンでトランプ米大統領の特使団との会談を再開した。 bit.ly/4iWYtrJ <a href="https://bsky.app/profile/japan.reuters.com/post/3m7zqayryak26" target="_blank">japan.reuters.com</a> (2025-12-15 22:26:10)</span><span style="padding-right:50px;">日本生命保険(NPNLI.UL)は１５日、医療データ分析のメディカル・データ・ビジョン（ＭＤＶ）に対し、公開買い付け（ＴＯＢ）を実施、完全子会社化すると発表した。 bit.ly/3XVcOew <a href="https://bsky.app/profile/japan.reuters.com/post/3m7zq7bdazv2f" target="_blank">japan.reuters.com</a> (2025-12-15 22:25:12)</span><span style="padding-right:50px;">Thousands of Romanians protest against judicial abuses reut.rs/45akduh <a href="https://bsky.app/profile/reuters.com/post/3m7zq76dxk62i" target="_blank">reuters.com</a> (2025-12-15 22:25:09)</span><span style="padding-right:50px;">“He changed the course of my life.” Stars of Rob Reiner’s movies, as well as celebrities who simply admired his work, have posted heartfelt tributes to the director on social media. <a href="https://bsky.app/profile/nytimes.com/post/3m7zq6zwlor2r" target="_blank">nytimes.com</a> (2025-12-15 22:25:04)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.12 (🔻0.55 : 2025-12-15)</span>
+<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.06 (🔻0.62 : 2025-12-15)</span>
   </div>
 </div>
 
@@ -32,102 +32,96 @@
 
 ## News Headlines
 
-Here are six news headlines in English:
+Here are six important stories with headlines in English:
 
-1. Japanese Film Director's Body Found, Wife's Body Still Missing
-2. Germany Orders Oversight of Online Bank N26
-3. Morgan Stanley Recommends Buying Health Tech Platform After 30% Correction
-4. Philip Rivers Makes Historic Return to Football After Five Seasons
-5. Nigerian Consumer Inflation Hits 14.45% Year-Over-Year in November
-6. Chinese State Council Approves First Autonomous Vehicle for Mass Production
+1. White Supremacist Group Builds 124-Acre Compound in Tennessee
+2. Ukraine's Zelenskyy Meets with Trump's Envoy in Berlin
+3. Japan Life Insurance to Acquire Medical Data Vision in $1.3B Deal
+4. Chile Elects New President: Far-Right Leader Jose Antonio Kast Wins Landslide Victory
+5. OpenAI Named 2025 Yahoo Finance Company of the Year
+6. Doctors in England to Go Ahead with Pre-Christmas Strikes
 
 ----
 
-@nhknewsunofficial.bsky.social
+@cnn.com
 
-“映画「スタンド・バイ・ミー」の監督と妻の遺体”米メディア
-https://news.web.nhk/newsweb/na/na-k10015004911000
+Patriot Front, a White supremacist group, has been quietly building a 124-acre compound in the mountains of east Tennessee, where they train members and host fight clubs. https://cnn.it/44rpU6V
 
-[2025-12-15 22:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zpcgsicb2u)
-
----
-
-@yahoofinance.com
-
-OpenAI CFO on hardware device: 'No changes right now, no announcements to be made'
-
-[2025-12-15 22:06:06](https://bsky.app/profile/yahoofinance.com/post/3m7zp54htc62k)
+[2025-12-15 22:29:15](https://bsky.app/profile/cnn.com/post/3m7zqgjnxho24)
 
 ---
 
-@sokuho.news
+@japan.reuters.com
 
-🛎️FNNより【速報】です。
+ウクライナのゼレンスキー大統領は１５日、ベルリンでトランプ米大統領の特使団との会談を再開した。 bit.ly/4iWYtrJ
 
-【速報】「平屋建てから出火」と通報 激しい炎と煙が上がる 福岡市早良区で火事 消防が出動し消火活動中
-(2025-12-15 21:55) #ニュース
+[2025-12-15 22:26:10](https://bsky.app/profile/japan.reuters.com/post/3m7zqayryak26)
 
-[2025-12-15 22:05:44](https://bsky.app/profile/sokuho.news/post/3m7zp4hmjvm2v)
+---
+
+@japan.reuters.com
+
+日本生命保険(NPNLI.UL)は１５日、医療データ分析のメディカル・データ・ビジョン（ＭＤＶ）に対し、公開買い付け（ＴＯＢ）を実施、完全子会社化すると発表した。 bit.ly/3XVcOew
+
+[2025-12-15 22:25:12](https://bsky.app/profile/japan.reuters.com/post/3m7zq7bdazv2f)
 
 ---
 
 @reuters.com
 
-German regulator orders oversight, limits on online bank N26 reut.rs/4oWfYto
+Thousands of Romanians protest against judicial abuses reut.rs/45akduh
 
-[2025-12-15 22:05:08](https://bsky.app/profile/reuters.com/post/3m7zp3fhxy32i)
-
----
-
-@npr.org
-
- n.pr/48BwtGy
-
-[2025-12-15 22:03:34](https://bsky.app/profile/npr.org/post/3m7zoym3lj22y)
+[2025-12-15 22:25:09](https://bsky.app/profile/reuters.com/post/3m7zq76dxk62i)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@nytimes.com
 
-小野田経済安保相“総合的なシンクタンクを来年度中に設ける”
-https://news.web.nhk/newsweb/na/na-k10015004921000
+“He changed the course of my life.” Stars of Rob Reiner’s movies, as well as celebrities who simply admired his work, have posted heartfelt tributes to the director on social media.
 
-[2025-12-15 22:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zoxpxlzf26)
+[2025-12-15 22:25:04](https://bsky.app/profile/nytimes.com/post/3m7zq6zwlor2r)
+
+---
+
+@en.afp.com
+
+VIDEO: 🇨🇱 Far-right Kast wins Chile election in landslide
+ 
+Chile has elected its most right-wing president in 35 years of democracy, with arch-conservative Jose Antonio Kast scoring a thumping victory -- with some 58% of the vote -- over his leftist runoff rival Jeannette Jara
+
+[2025-12-15 22:21:25](https://bsky.app/profile/en.afp.com/post/3m7zpyjhwlx2u)
+
+---
+
+@yahoofinance.com
+
+OpenAI is the 2025 Yahoo Finance Company of the Year
+
+[2025-12-15 22:21:16](https://bsky.app/profile/yahoofinance.com/post/3m7zpyag7632h)
+
+---
+
+@japan.reuters.com
+
+ミャンマーで２０２１年のクーデター以降拘束されている民主派指導者アウンサンスーチー氏（８０）の次男で英国籍のキム・エアリス氏は東京でロイターのインタビューに応じ、スーチー氏の健康が損なわれ、情報が得られない中、母親が生きているのかどうかすら分からないと不安を吐露した。 bit.ly/4rYbntw
+
+[2025-12-15 22:20:20](https://bsky.app/profile/japan.reuters.com/post/3m7zpwkubuc26)
+
+---
+
+@financialtimes.com
+
+Doctors to go ahead with pre-Christmas strikes in England on.ft.com/44s9z1V
+
+[2025-12-15 22:16:16](https://bsky.app/profile/financialtimes.com/post/3m7zppc6bop2f)
 
 ---
 
 @cnbc.com
 
-Morgan Stanley says buy this health tech platform after 30% correction in the past month
+FDA approved a $250,000 Singapore work trip during government shutdown, records show
 
-[2025-12-15 22:02:43](https://bsky.app/profile/cnbc.com/post/3m7zox2uylg2e)
-
----
-
-@wsj.com
-
-In ‘Goodbye June,’ Kate Winslet’s directorial debut, Collette plays a woman with New Age obsessions. In real life, Collette says she’s interested in ‘pretty much all the same things.’ on.wsj.com/3KJ2inJ
-
-[2025-12-15 22:02:21](https://bsky.app/profile/wsj.com/post/3m7zowgfeof2g)
-
----
-
-@wsj.com
-
-Philip Rivers, 44, makes a historic return after five seasons away. He nearly pulled off a victory for the aged. on.wsj.com/4adrlcV
-
-[2025-12-15 22:02:21](https://bsky.app/profile/wsj.com/post/3m7zowgbgev2h)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】「兄を包丁で刺した」水戸市の住宅で50代男性が胸や首を刺され死亡 同居する54歳の弟を緊急逮捕
-(2025-12-15 21:59:20) #ニュース
-
-[2025-12-15 22:01:30](https://bsky.app/profile/sokuho.news/post/3m7zouv7th42z)
+[2025-12-15 22:16:11](https://bsky.app/profile/cnbc.com/post/3m7zpp5t5x72i)
 
 ---
 
