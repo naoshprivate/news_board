@@ -1,9 +1,9 @@
-# [2025-12-16 07:50 updated](2025_12_16.md)
+# [2025-12-16 08:10 updated](2025_12_16.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">2025年の冬ボーナス、3～5位はゼネコン3社 www.nikkei.com/article/DGXZQO...  旺盛な建設需要や資材高騰を背景に、採算性の高い工事が増えて業績が改善しました。  半導体製造装置のディスコが6年連続の首位で、前年比27.17%増の449万7549円でした。 <a href="https://bsky.app/profile/nikkei.com/post/3ma2piryuyq22" target="_blank">nikkei.com</a> (2025-12-16 07:45:17)</span><span style="padding-right:50px;">LA28 to open ticket draw on Jan. 14 with seats from $28 reut.rs/4qb03si <a href="https://bsky.app/profile/reuters.com/post/3ma2piq7b4b2b" target="_blank">reuters.com</a> (2025-12-16 07:45:15)</span><span style="padding-right:50px;">＜日本企業ＡＤＲ銘柄＞ bit.ly/4pN7lCY <a href="https://bsky.app/profile/japan.reuters.com/post/3ma2pibgt4k2c" target="_blank">japan.reuters.com</a> (2025-12-16 07:45:00)</span><span style="padding-right:50px;">シドニー 銃撃事件 “反ユダヤ主義的犯罪根絶目指す” 豪首相 https://news.web.nhk/newsweb/na/na-k10015004841000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma2pd2q4fq24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 07:42:03)</span><span style="padding-right:50px;">欧州各国の首脳は１５日、ウクライナのロシアに対する領土譲歩の可能性に関するいかなる決定も、欧州主導の多国籍軍を含む強力な安全保障体制が確立された場合にのみ行うことができるという点で合意したと発表した。 bit.ly/44Q7zRl <a href="https://bsky.app/profile/japan.reuters.com/post/3ma2pa2sdrr2n" target="_blank">japan.reuters.com</a> (2025-12-16 07:40:24)</span>
+<span style="padding-right:50px;">きょうの東京株式市場で日経平均株価は、狭いレンジ内でのもみ合いが想定されている。１１月の米雇用統計の公表を日本時間の今夜に控え、様子見ムードが上値を抑えるとみられている。一方、心理的節目の５万円を下回る場面では押し目買いも入ることが想定されるため、売り一巡後は下げ止まる展開となりそうだ。 bit.ly/3N2somb <a href="https://bsky.app/profile/japan.reuters.com/post/3ma2qrzi6ru2v" target="_blank">japan.reuters.com</a> (2025-12-16 08:08:21)</span><span style="padding-right:50px;">ウクライナ “無人艇攻撃でロシア潜水艦損傷” ロシア反論 https://news.web.nhk/newsweb/na/na-k10015005021000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma2qnxtjck2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 08:06:02)</span><span style="padding-right:50px;">Police have a new lead in Brown University shooting and release more surveillance videos. Follow live updates. <a href="https://bsky.app/profile/cnn.com/post/3ma2qnfnsr52o" target="_blank">cnn.com</a> (2025-12-16 08:05:46)</span><span style="padding-right:50px;">Trinidad and Tobago approves US military aircraft transit in airports reut.rs/44qZ3rF <a href="https://bsky.app/profile/reuters.com/post/3ma2qmdal3e2s" target="_blank">reuters.com</a> (2025-12-16 08:05:09)</span><span style="padding-right:50px;">Stephanie Kramer says her ex-boss at Chanel gave her the framework to figure out if she was ready for a career change.  <a href="https://bsky.app/profile/cnbc.com/post/3ma2qixxtho2p" target="_blank">cnbc.com</a> (2025-12-16 08:03:17)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.21 (🔻0.46 : 2025-12-15)</span>
+<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.09 (🔻0.13 : 2025-12-15)</span>
   </div>
 </div>
 
@@ -32,102 +32,95 @@
 
 ## News Headlines
 
-Here are six news headlines:
+Here are six headlines in English:
 
-1. Construction Boom and Rising Material Costs Drive Profitability for Top Contractors
-2. LA28 Ticket Draw to Open on January 14 with Seats Starting at $28
-3. European Leaders Agree to Avoid Ukraine Border Concessions Unless Strong Security Measures in Place
-4. Romania's Government Survives No-Confidence Vote Over Reform Plans
-5. Cryptocurrency Billionaire's Space Startup in Talks for $2 Billion Valuation
-6. US FDA Sends Warning Letters to Walmart and Target for Selling Recalled Baby Formula
+1. Tesla Stock Surges to New High After Elon Musk Reveals Autonomous Taxi Testing Plan
+2. US FTC and 21 States File Amended Complaint Against Uber Over Subscription Practices
+3. Merriam-Webster Declares 'Slop' Word of the Year in Nod to Growth of AI
+4. EU Leaders Agree to Establish Strong Security Framework Before Considering Ukraine's Territorial Concessions to Russia
+5. President Trump Signs Executive Order Classifying Fentanyl as Weapon of Mass Destruction
+6. Google to Discontinue External Email Aggregation Feature in Gmail, Sparking Misinformation About Service End
 
 ----
 
-@nikkei.com
-
-2025年の冬ボーナス、3～5位はゼネコン3社
-www.nikkei.com/article/DGXZQO...
-
-旺盛な建設需要や資材高騰を背景に、採算性の高い工事が増えて業績が改善しました。
-
-半導体製造装置のディスコが6年連続の首位で、前年比27.17%増の449万7549円でした。
-
-[2025-12-16 07:45:17](https://bsky.app/profile/nikkei.com/post/3ma2piryuyq22)
-
----
-
-@reuters.com
-
-LA28 to open ticket draw on Jan. 14 with seats from $28 reut.rs/4qb03si
-
-[2025-12-16 07:45:15](https://bsky.app/profile/reuters.com/post/3ma2piq7b4b2b)
-
----
-
 @japan.reuters.com
 
-＜日本企業ＡＤＲ銘柄＞ bit.ly/4pN7lCY
+きょうの東京株式市場で日経平均株価は、狭いレンジ内でのもみ合いが想定されている。１１月の米雇用統計の公表を日本時間の今夜に控え、様子見ムードが上値を抑えるとみられている。一方、心理的節目の５万円を下回る場面では押し目買いも入ることが想定されるため、売り一巡後は下げ止まる展開となりそうだ。 bit.ly/3N2somb
 
-[2025-12-16 07:45:00](https://bsky.app/profile/japan.reuters.com/post/3ma2pibgt4k2c)
+[2025-12-16 08:08:21](https://bsky.app/profile/japan.reuters.com/post/3ma2qrzi6ru2v)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-シドニー 銃撃事件 “反ユダヤ主義的犯罪根絶目指す” 豪首相
-https://news.web.nhk/newsweb/na/na-k10015004841000
+ウクライナ “無人艇攻撃でロシア潜水艦損傷” ロシア反論
+https://news.web.nhk/newsweb/na/na-k10015005021000
 
-[2025-12-16 07:42:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma2pd2q4fq24)
-
----
-
-@japan.reuters.com
-
-欧州各国の首脳は１５日、ウクライナのロシアに対する領土譲歩の可能性に関するいかなる決定も、欧州主導の多国籍軍を含む強力な安全保障体制が確立された場合にのみ行うことができるという点で合意したと発表した。 bit.ly/44Q7zRl
-
-[2025-12-16 07:40:24](https://bsky.app/profile/japan.reuters.com/post/3ma2pa2sdrr2n)
+[2025-12-16 08:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma2qnxtjck2s)
 
 ---
 
-@reuters.com
+@cnn.com
 
-Romania's government survives no-confidence vote over reform plans reut.rs/4se8u8a
+Police have a new lead in Brown University shooting and release more surveillance videos. Follow live updates.
 
-[2025-12-16 07:40:22](https://bsky.app/profile/reuters.com/post/3ma2p7yrigl2s)
-
----
-
-@cbsnews.com
-
-"I thought we were in an engineering building, so I thought something fell...I didn't think it was gunfire."
-
-Brown University student Alex Mihailovich, who was studying in the Barus & Holley engineering building on Saturday, details what happened when he heard five shots ring out. cbsn.ws/3Kw3SJC
-
-[2025-12-16 07:40:00](https://bsky.app/profile/cbsnews.com/post/3ma2p7esedo2g)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-What the divides within the Maga base mean for Trump
-
-[2025-12-16 07:36:55](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma2ozu6tre2r)
+[2025-12-16 08:05:46](https://bsky.app/profile/cnn.com/post/3ma2qnfnsr52o)
 
 ---
 
 @reuters.com
 
-JetBlue flight averts mid-air collision with US Air Force jet reut.rs/4pIpDFg
+Trinidad and Tobago approves US military aircraft transit in airports reut.rs/44qZ3rF
 
-[2025-12-16 07:35:11](https://bsky.app/profile/reuters.com/post/3ma2owq6pe22s)
+[2025-12-16 08:05:09](https://bsky.app/profile/reuters.com/post/3ma2qmdal3e2s)
+
+---
+
+@cnbc.com
+
+Stephanie Kramer says her ex-boss at Chanel gave her the framework to figure out if she was ready for a career change. 
+
+[2025-12-16 08:03:17](https://bsky.app/profile/cnbc.com/post/3ma2qixxtho2p)
 
 ---
 
 @wsj.com
 
-The bassist’s reissued ‘Mingus at Monterey’ and the drummer’s previously unreleased ‘Strasbourg 82’ highlight both musicians not just as players but as master bandleaders with an outsize influence on the genre’s evolution. on.wsj.com/3XZumpR
+A little retro, fancy but never fussy, shrimp cocktail is festive food guests go ga-ga for. Savvy hosts know it’s a low-lift, make-ahead miracle. on.wsj.com/4qh7q1z
 
-[2025-12-16 07:31:21](https://bsky.app/profile/wsj.com/post/3ma2opuqwi52g)
+[2025-12-16 08:02:52](https://bsky.app/profile/wsj.com/post/3ma2qia4nw52e)
+
+---
+
+@japan.reuters.com
+
+１５日のニューヨーク株式市場で、電気自動車（ＥＶ）大手テスラの株価が一時約１年ぶりの高値を付けた。イーロン・マスク最高経営責任者（ＣＥＯ）が、テスラは自動運転タクシー「ロボタクシー」の走行試験を、前部座席に「安全監視員」を置かずに進めていると明らかにしたことがきっかけだ。 bit.ly/3KZNzoq
+
+[2025-12-16 08:02:43](https://bsky.app/profile/japan.reuters.com/post/3ma2qhxsvze2v)
+
+---
+
+@japan.reuters.com
+
+米当局者は１５日、ウクライナがロシアとの和平合意案の下、北大西洋条約機構（ＮＡＴＯ）の集団防衛を定める北大西洋条約第５条をモデルにした安全の保証を受ける可能性があると記者団に述べた。 bit.ly/3XWMIru
+
+[2025-12-16 08:01:39](https://bsky.app/profile/japan.reuters.com/post/3ma2qg2g2io2p)
+
+---
+
+@reuters.com
+
+UBS parts with chief tech officer, promises 'smooth' integration process reut.rs/4ajyisT
+
+[2025-12-16 08:01:16](https://bsky.app/profile/reuters.com/post/3ma2qfemxae23)
+
+---
+
+@usatoday.com
+
+"He was known to have driven people CRAZY by his raging obsession of President Donald J. Trump," the president said of Rob Reiner.
+
+[2025-12-16 08:00:59](https://bsky.app/profile/usatoday.com/post/3ma2qeu2ufz2f)
 
 ---
 
