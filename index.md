@@ -1,9 +1,9 @@
-# [2025-12-16 05:50 updated](2025_12_16.md)
+# [2025-12-16 06:10 updated](2025_12_16.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像4🈡 (2025-12-16 05:48:47) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3ma2iynzyry2r" target="_blank">sokuho.news</a> (2025-12-16 05:48:54)</span><span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像2 (2025-12-16 05:48:17) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3ma2ixranmb27" target="_blank">sokuho.news</a> (2025-12-16 05:48:23)</span><span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください 🔗http://www.kmoni.bosai.go.jp/  🔶防災科研/強震モニタ/予測震度画像1 (2025-12-16 05:48:05) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3ma2ixh3syg2b" target="_blank">sokuho.news</a> (2025-12-16 05:48:13)</span><span style="padding-right:50px;">Brazil's Petrobras sees no production impact as workers kick off strike reut.rs/48OK3qh <a href="https://bsky.app/profile/reuters.com/post/3ma2is62rie2o" target="_blank">reuters.com</a> (2025-12-16 05:45:15)</span><span style="padding-right:50px;">Donald Trump faced a storm of condemnation on Monday after posting "perverse" and "sick" remarks suggesting Rob Reiner and his wife were murdered because of the celebrated filmmaker's criticism of the US president.  Read more ➡️  u.afp.com/S7KL <a href="https://bsky.app/profile/en.afp.com/post/3ma2iruojkh2f" target="_blank">en.afp.com</a> (2025-12-16 05:45:06)</span>
+<span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像6🈡 (2025-12-16 06:07:15) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3ma2k2unkr32b" target="_blank">sokuho.news</a> (2025-12-16 06:08:01)</span><span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像5 (2025-12-16 06:07:07) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3ma2k2gg4vd2a" target="_blank">sokuho.news</a> (2025-12-16 06:07:46)</span><span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像4 (2025-12-16 06:06:47) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3ma2jznme4l2y" target="_blank">sokuho.news</a> (2025-12-16 06:07:20)</span><span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像3 (2025-12-16 06:06:45) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3ma2jzdwgjt2a" target="_blank">sokuho.news</a> (2025-12-16 06:07:10)</span><span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像2 (2025-12-16 06:06:45) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3ma2jyyg2rr2s" target="_blank">sokuho.news</a> (2025-12-16 06:06:58)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48420.94 (🔻173.42 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23079.00 (🔻251.04 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.49 (🔻1.44 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.25 (🔻0.42 : 2025-12-15)</span>
+<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.24 (🔻0.43 : 2025-12-15)</span>
   </div>
 </div>
 
@@ -34,12 +34,12 @@
 
 Here are six important stories with headlines in English:
 
-1. US Launches Campaign to Hire Engineers for AI, Tech Roles
-2. Brazil's Petrobras Sees No Production Impact from Worker Strike
-3. Rob Reiner's Death: Trump Suggests Murder, Right-Wing Figures Push Back
-4. US Death Penalty at Lowest Point in Over 50 Years Amid Decline in New Sentences
-5. Ghana Bans Mining in Forest Reserves to Curb Environmental Damage
-6. US Authorities Disrupt Planned New Year's Eve Terrorist Attack in Los Angeles
+1. Germany's Parliament Hit by Suspected Cyber Attack During Ukraine President's Visit
+2. Ford Writes Down $19.5 Billion in EV Investments, Stops Making Electric F-150 Pickup
+3. Ukraine Claims to Have Damaged Russian Submarine with Underwater Drone
+4. Donald Trump Condemned for 'Perverse' Remarks on Film Director's Wife's Death
+5. Brazil's Petrobras Sees No Production Impact as Workers Begin Strike
+6. Australia's Strict Firearms Laws Cited as Model for Effective Gun Control
 
 ----
 
@@ -49,10 +49,49 @@ Here are six important stories with headlines in English:
 
 ⚠️揺れに警戒してください
 
-🔶防災科研/強震モニタ/予測震度画像4🈡
-(2025-12-16 05:48:47) #緊急地震速報
+🔶防災科研/強震モニタ/予測震度画像6🈡
+(2025-12-16 06:07:15) #緊急地震速報
 
-[2025-12-16 05:48:54](https://bsky.app/profile/sokuho.news/post/3ma2iynzyry2r)
+[2025-12-16 06:08:01](https://bsky.app/profile/sokuho.news/post/3ma2k2unkr32b)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗
+
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像5
+(2025-12-16 06:07:07) #緊急地震速報
+
+[2025-12-16 06:07:46](https://bsky.app/profile/sokuho.news/post/3ma2k2gg4vd2a)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗
+
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像4
+(2025-12-16 06:06:47) #緊急地震速報
+
+[2025-12-16 06:07:20](https://bsky.app/profile/sokuho.news/post/3ma2jznme4l2y)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗
+
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像3
+(2025-12-16 06:06:45) #緊急地震速報
+
+[2025-12-16 06:07:10](https://bsky.app/profile/sokuho.news/post/3ma2jzdwgjt2a)
 
 ---
 
@@ -63,9 +102,9 @@ Here are six important stories with headlines in English:
 ⚠️揺れに警戒してください
 
 🔶防災科研/強震モニタ/予測震度画像2
-(2025-12-16 05:48:17) #緊急地震速報
+(2025-12-16 06:06:45) #緊急地震速報
 
-[2025-12-16 05:48:23](https://bsky.app/profile/sokuho.news/post/3ma2ixranmb27)
+[2025-12-16 06:06:58](https://bsky.app/profile/sokuho.news/post/3ma2jyyg2rr2s)
 
 ---
 
@@ -77,65 +116,41 @@ Here are six important stories with headlines in English:
 🔗http://www.kmoni.bosai.go.jp/
 
 🔶防災科研/強震モニタ/予測震度画像1
-(2025-12-16 05:48:05) #緊急地震速報
+(2025-12-16 06:06:44) #緊急地震速報
 
-[2025-12-16 05:48:13](https://bsky.app/profile/sokuho.news/post/3ma2ixh3syg2b)
+[2025-12-16 06:06:51](https://bsky.app/profile/sokuho.news/post/3ma2jyri6ka2x)
+
+---
+
+@financialtimes.com
+
+German parliament suffers suspected cyber attack during Zelenskyy’s visit on.ft.com/4ae9xOM
+
+[2025-12-16 06:06:01](https://bsky.app/profile/financialtimes.com/post/3ma2jxbjf3q2b)
 
 ---
 
 @reuters.com
 
-Brazil's Petrobras sees no production impact as workers kick off strike reut.rs/48OK3qh
+OpenAI hires veteran Google executive as corporate development VP reut.rs/4iW1IPY
 
-[2025-12-16 05:45:15](https://bsky.app/profile/reuters.com/post/3ma2is62rie2o)
-
----
-
-@en.afp.com
-
-Donald Trump faced a storm of condemnation on Monday after posting "perverse" and "sick" remarks suggesting Rob Reiner and his wife were murdered because of the celebrated filmmaker's criticism of the US president.  Read more ➡️  u.afp.com/S7KL
-
-[2025-12-16 05:45:06](https://bsky.app/profile/en.afp.com/post/3ma2iruojkh2f)
+[2025-12-16 06:05:10](https://bsky.app/profile/reuters.com/post/3ma2jvr6gkc24)
 
 ---
 
-@washingtonpost.com
+@cnn.com
 
-Federal prosecutors alleged a Wisconsin judge helped a Mexican man briefly elude immigration officials in April, and that just before she directed him through the back door of her courtroom, she said that she would “get the heat” for it. 
+Police have released new surveillance video of a person of interest in Saturday's shooting at Brown University. A previously detained individual has been cleared, Rhode Island's attorney general says. https://cnn.it/49aW754
 
-[2025-12-16 05:45:04](https://bsky.app/profile/washingtonpost.com/post/3ma2irtcjjq24)
+[2025-12-16 06:04:48](https://bsky.app/profile/cnn.com/post/3ma2jv4csku23)
 
 ---
 
 @cnbc.com
 
-Union Pacific will be a double-digit earnings story in 2026, Hightower's Stephanie Link says
+Garry Ridge thought that being a commanding boss would make him successful, he said during a podcast appearance — until a professor changed his mind. 
 
-[2025-12-16 05:44:28](https://bsky.app/profile/cnbc.com/post/3ma2iqqhdnm2b)
-
----
-
-@reuters.com
-
-Tankers make u-turns after US seizure of Venezuelan oil cargo, shipping data says reut.rs/44wgJlI
-
-[2025-12-16 05:40:24](https://bsky.app/profile/reuters.com/post/3ma2ijifzar2i)
-
----
-
-@reuters.com
-
-US social media requirements for foreign visitors could have 'chilling effect' on travel, industry group says reut.rs/4qgRYCB
-
-[2025-12-16 05:35:13](https://bsky.app/profile/reuters.com/post/3ma2ia7guf62r)
-
----
-
-@cnbc.com
-
-Former iRobot CEO calls Roomba maker's bankruptcy 'a tragedy for consumers'
-
-[2025-12-16 05:34:27](https://bsky.app/profile/cnbc.com/post/3ma2i6tljdc2y)
+[2025-12-16 06:04:38](https://bsky.app/profile/cnbc.com/post/3ma2jusaofv24)
 
 ---
 
