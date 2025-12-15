@@ -1,9 +1,9 @@
-# [2025-12-16 02:30 updated](2025_12_16.md)
+# [2025-12-16 02:50 updated](2025_12_16.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The jury considering Brian Walshe’s fate in his murder trial resumed deliberations in Dedham, Massachusetts, Monday morning. <a href="https://bsky.app/profile/cnn.com/post/3ma25rjsxau2a" target="_blank">cnn.com</a> (2025-12-16 02:28:03)</span><span style="padding-right:50px;">Brian Walshe was found guilty of killing his wife Ana, whose body was never found after she disappeared from their Massachusetts home nearly three years ago. <a href="https://bsky.app/profile/apnews.com/post/3ma25p5naeu23" target="_blank">apnews.com</a> (2025-12-16 02:26:43)</span><span style="padding-right:50px;">Chile’s conservative landslide gives Trump new Latin America ally on.ft.com/4pOvf0H <a href="https://bsky.app/profile/financialtimes.com/post/3ma25nwy7xj2w" target="_blank">financialtimes.com</a> (2025-12-16 02:26:03)</span><span style="padding-right:50px;">Scarred by ethnic violence, Manipur's clubs continue to fight for survival reut.rs/3MZiAcC <a href="https://bsky.app/profile/reuters.com/post/3ma25mhi3ho2k" target="_blank">reuters.com</a> (2025-12-16 02:25:13)</span><span style="padding-right:50px;">Implementing the sprawling levies at the center of Trump's economic agenda looks simple relative to the chaos of trying to undo it. <a href="https://bsky.app/profile/axios.com/post/3ma25jr7ob22l" target="_blank">axios.com</a> (2025-12-16 02:23:43)</span>
+<span style="padding-right:50px;">Starmer admits questions about his leadership are ‘rife’ on.ft.com/3YuqVYo <a href="https://bsky.app/profile/financialtimes.com/post/3ma26wad5tj2b" target="_blank">financialtimes.com</a> (2025-12-16 02:48:35)</span><span style="padding-right:50px;">José Antonio Kast’s rise to power in Chile will give the U.S. another strategic ally in Latin America, as he joins other right-wing leaders closely aligned with President Trump. <a href="https://bsky.app/profile/wsj.com/post/3ma26vhdbrp2t" target="_blank">wsj.com</a> (2025-12-16 02:48:08)</span><span style="padding-right:50px;">Nick Reiner, the son of Rob and Michele Reiner, has been booked on suspicion of murder in connection with his parents' deaths. Follow live updates: https://cnn.it/48PC5M5 <a href="https://bsky.app/profile/cnn.com/post/3ma26vbx55u22" target="_blank">cnn.com</a> (2025-12-16 02:48:03)</span><span style="padding-right:50px;">Citi sets 2026 S&P 500 target at 7,700, expects AI to remain key theme reut.rs/49bAQIq <a href="https://bsky.app/profile/reuters.com/post/3ma26qb3n6j2r" target="_blank">reuters.com</a> (2025-12-16 02:45:14)</span><span style="padding-right:50px;">M23 says hundreds of Burundi soldiers captured in latest Congo offensive reut.rs/498RA37 <a href="https://bsky.app/profile/reuters.com/post/3ma26hgzt6m2i" target="_blank">reuters.com</a> (2025-12-16 02:40:18)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48345.13 (🔻249.23 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23103.70 (🔻226.34 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 177.57 (🔻0.37 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.32 (🔻0.35 : 2025-12-15)</span>
+<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48324.24 (🔻270.12 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23088.18 (🔻241.86 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 177.43 (🔻0.50 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.34 (🔻0.34 : 2025-12-15)</span>
   </div>
 </div>
 
@@ -32,94 +32,97 @@
 
 ## News Headlines
 
-Here are six news headlines in English:
+Here are six important stories with headlines:
 
-1. Jury Convicts Brian Walshe of First-Degree Murder in Wife's Death
-2. Chile's Conservative Landslide Gives Trump New Latin America Ally
-3. Bitcoin Plunges, Liquidating $200 Million Worth of Levered Longs in 30 Minutes
-4. US Prosecutor Accuses Wisconsin Judge of Helping Migrant Evade Arrest
-5. Wall St Indexes Edge Up as Investors Position for Busy Week of Data
-6. Russia Indicates Openness to Ukraine Joining European Union as Part of Peace Deal
+1. US Soccer Commits $30 Million to Research for Women's Soccer
+2. Bitcoin Plunges Below $87,000 for Third Time This Month
+3. Nick Reiner Charged with Murder in Deaths of His Parents
+4. Chile's Conservative Leader Kast to Become Trump Ally in Latin America
+5. SpaceX IPO Could Be Biggest Ever Next Year, Experts Say
+6. Gout Rates Surge Globally, Rising with Obesity and Other Chronic Conditions
 
 ----
 
-@cnn.com
-
-The jury considering Brian Walshe’s fate in his murder trial resumed deliberations in Dedham, Massachusetts, Monday morning.
-
-[2025-12-16 02:28:03](https://bsky.app/profile/cnn.com/post/3ma25rjsxau2a)
-
----
-
-@apnews.com
-
-Brian Walshe was found guilty of killing his wife Ana, whose body was never found after she disappeared from their Massachusetts home nearly three years ago.
-
-[2025-12-16 02:26:43](https://bsky.app/profile/apnews.com/post/3ma25p5naeu23)
-
----
-
 @financialtimes.com
 
-Chile’s conservative landslide gives Trump new Latin America ally on.ft.com/4pOvf0H
+Starmer admits questions about his leadership are ‘rife’ on.ft.com/3YuqVYo
 
-[2025-12-16 02:26:03](https://bsky.app/profile/financialtimes.com/post/3ma25nwy7xj2w)
+[2025-12-16 02:48:35](https://bsky.app/profile/financialtimes.com/post/3ma26wad5tj2b)
+
+---
+
+@wsj.com
+
+José Antonio Kast’s rise to power in Chile will give the U.S. another strategic ally in Latin America, as he joins other right-wing leaders closely aligned with President Trump.
+
+[2025-12-16 02:48:08](https://bsky.app/profile/wsj.com/post/3ma26vhdbrp2t)
+
+---
+
+@cnn.com
+
+Nick Reiner, the son of Rob and Michele Reiner, has been booked on suspicion of murder in connection with his parents' deaths. Follow live updates: https://cnn.it/48PC5M5
+
+[2025-12-16 02:48:03](https://bsky.app/profile/cnn.com/post/3ma26vbx55u22)
 
 ---
 
 @reuters.com
 
-Scarred by ethnic violence, Manipur's clubs continue to fight for survival reut.rs/3MZiAcC
+Citi sets 2026 S&P 500 target at 7,700, expects AI to remain key theme reut.rs/49bAQIq
 
-[2025-12-16 02:25:13](https://bsky.app/profile/reuters.com/post/3ma25mhi3ho2k)
+[2025-12-16 02:45:14](https://bsky.app/profile/reuters.com/post/3ma26qb3n6j2r)
 
 ---
 
-@axios.com
+@reuters.com
 
-Implementing the sprawling levies at the center of Trump's economic agenda looks simple relative to the chaos of trying to undo it.
+M23 says hundreds of Burundi soldiers captured in latest Congo offensive reut.rs/498RA37
 
-[2025-12-16 02:23:43](https://bsky.app/profile/axios.com/post/3ma25jr7ob22l)
+[2025-12-16 02:40:18](https://bsky.app/profile/reuters.com/post/3ma26hgzt6m2i)
 
 ---
 
 @nbcnews.com
 
-An overwhelming majority of U.S. adults are satisfied with their health insurance coverage overall, including most older Americans and those on Medicare and Medicaid, according to a new NBC News Decision Desk Poll powered by SurveyMonkey.
+With women’s soccer on track to become one of the world’s top five sports, U.S. Soccer is committing a $30 million donation from billionaire Michele Kang to researching some of the major issues facing female athletes.
 
-[2025-12-16 02:20:10](https://bsky.app/profile/nbcnews.com/post/3ma25dgqc2e2n)
-
----
-
-@nytimes.com
-
-Globally, gout rates have climbed more than 20% since 1990, rising alongside rates of other chronic conditions like obesity, which can worsen the disease. But what is gout, and why is it growing so rapidly?
-
-[2025-12-16 02:17:21](https://bsky.app/profile/nytimes.com/post/3ma256f5nvt26)
+[2025-12-16 02:40:09](https://bsky.app/profile/nbcnews.com/post/3ma26h5sf3d26)
 
 ---
 
-@npr.org
+@japan.reuters.com
 
-The tune crooned by Bing Crosby is still one of the most popular Christmas songs of all time. It's endured as a favorite — despite a complicated and controversial history. n.pr/3MB4PAR
+ユーロ圏金融・債券市場では、域内国債利回りが低下した。今週は１６日の米雇用統計のほか、１８日の欧州中央銀行（ＥＣＢ）とイングランド銀行（英中央銀行）、１９日の日銀の金融政策決定会合と、主要イベントが目白押しとなっている。 bit.ly/4q2NsHE
 
-[2025-12-16 02:15:44](https://bsky.app/profile/npr.org/post/3ma253iqtuq2m)
+[2025-12-16 02:38:58](https://bsky.app/profile/japan.reuters.com/post/3ma26ezz6kl2s)
 
 ---
 
-@reuters.com
+@aohnsman.bsky.social
 
-Meta’s “Trusted Experts” helped me run scam ads on Facebook and Instagram reut.rs/48ZgrVP
+In the latest Current Climate newsletter:
+🤖 Calls for a moratorium on new data centers get louder
+🚖 Waymo’s lofty aspirations for electric robotaxis
+♨️ Fervo Energy’s big funding round and big plans for enhanced geothermal power #datacenters www.forbes.com/sites/curren...
 
-[2025-12-16 02:15:18](https://bsky.app/profile/reuters.com/post/3ma252pwwbz2x)
+[2025-12-16 02:37:59](https://bsky.app/profile/aohnsman.bsky.social/post/3ma26dbv5qk2y)
 
 ---
 
 @yahoofinance.com
 
-Bitcoin is plummeting, liquidating $200 million worth of levered longs in 30 minutes.
+Bitcoin has fallen below $87,000 for the third time this month.
 
-[2025-12-16 02:14:45](https://bsky.app/profile/yahoofinance.com/post/3ma24zqtx6c2n)
+[2025-12-16 02:37:34](https://bsky.app/profile/yahoofinance.com/post/3ma26cjpgxc23)
+
+---
+
+@reuters.com
+
+Cencora to take majority control of cancer care network OneOncology for $5 billion reut.rs/3L28xmA
+
+[2025-12-16 02:35:11](https://bsky.app/profile/reuters.com/post/3ma266bot3q2c)
 
 ---
 
