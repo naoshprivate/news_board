@@ -1,9 +1,9 @@
-# [2025-12-15 19:10 updated](2025_12_15.md)
+# [2025-12-15 19:30 updated](2025_12_15.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">中国工業情報省は１５日、自動運転レベル３を備えた車として国有メーカーの２車種を承認した。このような自動車が大規模導入に向けた合法的な製品として同省に認可されたのは初めて。 bit.ly/4iYWovo <a href="https://bsky.app/profile/japan.reuters.com/post/3m7zf6u2eyx2q" target="_blank">japan.reuters.com</a> (2025-12-15 19:08:07)</span><span style="padding-right:50px;">UK mortgage rules to be loosened to help first-time buyers and pensioners on.ft.com/48GH5UI <a href="https://bsky.app/profile/financialtimes.com/post/3m7zf6livpe24" target="_blank">financialtimes.com</a> (2025-12-15 19:07:58)</span><span style="padding-right:50px;">「ゆうちょPay」利用者伸び悩み 2026年12月に終了へ https://news.web.nhk/newsweb/na/na-k10015004641000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zf3n5mi22v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 19:06:17)</span><span style="padding-right:50px;">円相場 値上がり 日銀が追加利上げ行うとの見方から円買われる https://news.web.nhk/newsweb/na/na-k10015004651000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zf3ivsoi2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 19:06:12)</span><span style="padding-right:50px;">防衛装備品移転 運用指針見直し 自民と維新 2月にも提言へ https://news.web.nhk/newsweb/na/na-k10015004611000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zf3elc2q2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 19:06:07)</span>
+<span style="padding-right:50px;">Kwigillingok, Alaska, has long grappled with erosion and flooding. Residents want to move to higher ground, further inland, especially after the remnants of Typhoon Halong damaged nearly every house. n.pr/4pDXQpz <a href="https://bsky.app/profile/npr.org/post/3m7zgcbccv72b" target="_blank">npr.org</a> (2025-12-15 19:27:55)</span><span style="padding-right:50px;">福岡 2人刺傷事件 “容疑者はアイドルのイベントの常連客” https://news.web.nhk/newsweb/na/na-k10015004671000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zgaqibey22" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 19:27:01)</span><span style="padding-right:50px;">フィリピンは１５日、中国海警局が先週南シナ海で行ったフィリピン人漁師に対する「嫌がらせと危険にさらす行為」に抗議すると表明した。 bit.ly/3KX664N <a href="https://bsky.app/profile/japan.reuters.com/post/3m7zg75irkp25" target="_blank">japan.reuters.com</a> (2025-12-15 19:26:10)</span><span style="padding-right:50px;">Judges in Hong Kong delivered guilty verdicts in the landmark national security trial of the media tycoon and pro-democracy activist Jimmy Lai on Monday, following a five-year-old case that has come to symbolize the sweeping political changes in the city. nyti.ms/4oVYkGa <a href="https://bsky.app/profile/nytimes.com/post/3m7zg6d4jyn2v" target="_blank">nytimes.com</a> (2025-12-15 19:25:43)</span><span style="padding-right:50px;">中国国家医療保障局は来年から出産にかかる自己負担を公費で全額負担する方針を発表した。出産を後押しし人口減少に歯止めをかけたい考えだ。 bit.ly/4aPlzOM <a href="https://bsky.app/profile/japan.reuters.com/post/3m7zg5gfiaf2q" target="_blank">japan.reuters.com</a> (2025-12-15 19:25:12)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.01 (🔻0.66 : 2025-12-15)</span>
+<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.12 (🔻0.55 : 2025-12-15)</span>
   </div>
 </div>
 
@@ -32,97 +32,95 @@
 
 ## News Headlines
 
-1. 自動運転レベル３車両、国有メーカー２車種が承認
-2. UK mortgage ルールが緩和
-3. 「ゆうちょPay」利用者伸び悩み、2026年12月にサービス終了へ
-4. 円相場、値上がり　日銀が追加利上げ行うとの見方から円買われる
-5. 「トクリュウ」防止へ バドミントン桃田選手が少年院で講演
-6. ロシア中央銀行、ベルギーの中央証券保管機関に対する損害賠償訴訟を起こす
+1.  「フィリピンは中国海警局の「嫌がらせ行為」に抗議」
+2.  「福岡のJR博多駅近くで女性刺される、男の身柄確保」
+3.  「中国、来年から出産にかかる自己負担を公費で全額負担する」
+4.  「シドニー銃撃事件　豪首相銃規制強化に取り組む」
+5.  「マンダム、第三者候補から非公開化に関する法的拘束力のない意向表明書を受領」
+6.  「チリで右派のカスト氏が大統領に当選」
 
 ----
 
-@japan.reuters.com
+@npr.org
 
-中国工業情報省は１５日、自動運転レベル３を備えた車として国有メーカーの２車種を承認した。このような自動車が大規模導入に向けた合法的な製品として同省に認可されたのは初めて。 bit.ly/4iYWovo
+Kwigillingok, Alaska, has long grappled with erosion and flooding. Residents want to move to higher ground, further inland, especially after the remnants of Typhoon Halong damaged nearly every house. n.pr/4pDXQpz
 
-[2025-12-15 19:08:07](https://bsky.app/profile/japan.reuters.com/post/3m7zf6u2eyx2q)
-
----
-
-@financialtimes.com
-
-UK mortgage rules to be loosened to help first-time buyers and pensioners on.ft.com/48GH5UI
-
-[2025-12-15 19:07:58](https://bsky.app/profile/financialtimes.com/post/3m7zf6livpe24)
+[2025-12-15 19:27:55](https://bsky.app/profile/npr.org/post/3m7zgcbccv72b)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-「ゆうちょPay」利用者伸び悩み 2026年12月に終了へ
-https://news.web.nhk/newsweb/na/na-k10015004641000
+福岡 2人刺傷事件 “容疑者はアイドルのイベントの常連客”
+https://news.web.nhk/newsweb/na/na-k10015004671000
 
-[2025-12-15 19:06:17](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zf3n5mi22v)
-
----
-
-@nhknewsunofficial.bsky.social
-
-円相場 値上がり 日銀が追加利上げ行うとの見方から円買われる
-https://news.web.nhk/newsweb/na/na-k10015004651000
-
-[2025-12-15 19:06:12](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zf3ivsoi2b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-防衛装備品移転 運用指針見直し 自民と維新 2月にも提言へ
-https://news.web.nhk/newsweb/na/na-k10015004611000
-
-[2025-12-15 19:06:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zf3elc2q2b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-「トクリュウ」防止へ バドミントン桃田選手が少年院で講演
-https://news.web.nhk/newsweb/na/na-k10015004621000
-
-[2025-12-15 19:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zf37de6s2u)
+[2025-12-15 19:27:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zgaqibey22)
 
 ---
 
 @japan.reuters.com
 
-ロシア中央銀行はベルギーの中央証券保管機関ユーロクリアに対し１８兆２０００億ルーブル（２２９３億６０００万ドル）の損害賠償を求める訴訟を起こした。モスクワの裁判所が１５日に発表した。 bit.ly/44wMYRQ
+フィリピンは１５日、中国海警局が先週南シナ海で行ったフィリピン人漁師に対する「嫌がらせと危険にさらす行為」に抗議すると表明した。 bit.ly/3KX664N
 
-[2025-12-15 19:05:16](https://bsky.app/profile/japan.reuters.com/post/3m7zezqxro42v)
+[2025-12-15 19:26:10](https://bsky.app/profile/japan.reuters.com/post/3m7zg75irkp25)
+
+---
+
+@nytimes.com
+
+Judges in Hong Kong delivered guilty verdicts in the landmark national security trial of the media tycoon and pro-democracy activist Jimmy Lai on Monday, following a five-year-old case that has come to symbolize the sweeping political changes in the city. nyti.ms/4oVYkGa
+
+[2025-12-15 19:25:43](https://bsky.app/profile/nytimes.com/post/3m7zg6d4jyn2v)
+
+---
+
+@japan.reuters.com
+
+中国国家医療保障局は来年から出産にかかる自己負担を公費で全額負担する方針を発表した。出産を後押しし人口減少に歯止めをかけたい考えだ。 bit.ly/4aPlzOM
+
+[2025-12-15 19:25:12](https://bsky.app/profile/japan.reuters.com/post/3m7zg5gfiaf2q)
 
 ---
 
 @reuters.com
 
-Sanofi shares fall on twin trouble for experimental multiple scleroris drug reut.rs/4pB30lT
+South Africa records smaller FDI outflows in Q3 reut.rs/48TA41E
 
-[2025-12-15 19:05:12](https://bsky.app/profile/reuters.com/post/3m7zeznxhcz2y)
-
----
-
-@wsj.com
-
-The father and son accused in Australia’s deadliest mass shooting in nearly 30 years had six licensed firearms at the scene, police said Monday.
-
-[2025-12-15 19:03:12](https://bsky.app/profile/wsj.com/post/3m7zew3jkza2u)
+[2025-12-15 19:25:10](https://bsky.app/profile/reuters.com/post/3m7zg5dy5te2s)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-阪神 ドラフト1位 立石正広「ふた桁本塁打にこだわりたい」
-https://news.web.nhk/newsweb/na/na-k10015004341000
+シドニー 銃撃事件  豪首相 銃規制強化に取り組む方針
+https://news.web.nhk/newsweb/na/na-k10015003751000
 
-[2025-12-15 19:03:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zevyuyti2y)
+[2025-12-15 19:24:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zg3jxwsi2y)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+福岡 JR博多駅近くで女性刺される 男の身柄確保
+https://news.web.nhk/newsweb/na/na-k10015004731000
+
+[2025-12-15 19:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zg3fijrq2b)
+
+---
+
+@sokuho.news
+
+<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>福岡 JR博多駅近くで女性刺される 男の身柄確保</strong><br><strong>(2025-12-15 19:23:04) #ニュース</strong><br><strong>https://news.web.nhk/newsweb/na/na-k10015004731000</strong>
+
+[2025-12-15 19:23:30](https://bsky.app/profile/sokuho.news/post/3m7zg2fikpy2z)
+
+---
+
+@japan.reuters.com
+
+マンダムは１５日、第三者候補から非公開化に関する法的拘束力のない意向表明書を１０日付で受領したと発表した。株式の非公開化に向けた株式公開買い付け（ＴＯＢ）とスクイーズアウトの提案が含まれ、買い付け価格はカロンホールディングスによる既存の２５２０円を上回るレンジで示されているという。 bit.ly/3MCI3sr
+
+[2025-12-15 19:20:14](https://bsky.app/profile/japan.reuters.com/post/3m7zfuk2efe2s)
 
 ---
 
