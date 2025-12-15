@@ -1,9 +1,9 @@
-# [2025-12-15 23:30 updated](2025_12_15.md)
+# [2025-12-15 23:50 updated](2025_12_15.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🇲🇦 A flash flood in a coastal Moroccan town killed at least 37 people, local officials said on Monday, as search and rescue operations continued ➡️ u.afp.com/S7DE <a href="https://bsky.app/profile/en.afp.com/post/3m7ztpmsqi32v" target="_blank">en.afp.com</a> (2025-12-15 23:28:02)</span><span style="padding-right:50px;">African Development Bank seeks $25 billion for low-cost lending amid waning US engagement reut.rs/3MADGhu <a href="https://bsky.app/profile/reuters.com/post/3m7ztkkmrhv2r" target="_blank">reuters.com</a> (2025-12-15 23:25:12)</span><span style="padding-right:50px;">FT Exclusive: Brussels plans to scrap the EU’s 2035 combustion engine ban, allowing carmakers to continue making a limited number of petrol and diesel-fuelled cars after the ban had been meant to come into effect. on.ft.com/4q1VxMw <a href="https://bsky.app/profile/financialtimes.com/post/3m7ztkeqs6l2b" target="_blank">financialtimes.com</a> (2025-12-15 23:25:06)</span><span style="padding-right:50px;">Brussels plans to scrap 2035 combustion engine ban on.ft.com/3N0h8qp <a href="https://bsky.app/profile/financialtimes.com/post/3m7ztd4nl6d24" target="_blank">financialtimes.com</a> (2025-12-15 23:21:02)</span><span style="padding-right:50px;">トランプ米大統領が１月に復帰して以来、マイナーな新興国通貨であるハンガリー・フォリントの取引量は２倍以上に増加している。トランプ氏が「解放の日」と位置付けて関税を発表した4月2日以降、トレーダーの関心は高まる一方だ。 bit.ly/4oYzFRo <a href="https://bsky.app/profile/japan.reuters.com/post/3m7ztbrzr762f" target="_blank">japan.reuters.com</a> (2025-12-15 23:20:18)</span>
+<span style="padding-right:50px;">South Korea c.bank, NPS agree to extend currency swap agreement for another year reut.rs/4pHbUyy <a href="https://bsky.app/profile/reuters.com/post/3m7zuode3kn2r" target="_blank">reuters.com</a> (2025-12-15 23:45:12)</span><span style="padding-right:50px;">“It was like triage in a war zone, except it was on Bondi Beach”: How the carnage unfolded in the Sydney terrorist attack. <a href="https://bsky.app/profile/wsj.com/post/3m7zulrllco2c" target="_blank">wsj.com</a> (2025-12-15 23:43:46)</span><span style="padding-right:50px;">レーダー照射問題 中国反論“約6時間訓練と通報していた” https://news.web.nhk/newsweb/na/na-k10015004891000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zuiqc2cu2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 23:42:02)</span><span style="padding-right:50px;">ウィットコフ米特使とトランプ米大統領の娘婿クシュナー氏は１５日、欧州連合（ＥＵ）加盟国の各外相に対し、トランプ氏のパレスチナ自治区ガザ和平計画についてビデオ会議を通じて説明した。ＥＵ当局者が明らかにした。 bit.ly/49bb8Uq <a href="https://bsky.app/profile/japan.reuters.com/post/3m7zufne5fh2p" target="_blank">japan.reuters.com</a> (2025-12-15 23:40:21)</span><span style="padding-right:50px;">The dictionary publisher's annual pick, based on spikes in search data, reflects the themes and anxieties that shaped 2025. <a href="https://bsky.app/profile/nbcnews.com/post/3m7zufkb4tp23" target="_blank">nbcnews.com</a> (2025-12-15 23:40:17)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48608.37 (🔺14.01 : 2025-12-15)</span><span style="padding-right:50px;">^IXIC: Error</span><span style="padding-right:50px;">NVIDIA: 177.76 (🔻0.18 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.04 (🔻0.63 : 2025-12-15)</span>
+<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48534.33 (🔻60.03 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23237.45 (🔻92.59 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 177.76 (🔻0.18 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 154.90 (🔻0.78 : 2025-12-15)</span>
   </div>
 </div>
 
@@ -32,94 +32,97 @@
 
 ## News Headlines
 
-Here are six news headlines in English:
+Here are six important stories with headlines in English:
 
-1. Flash Flood in Moroccan Town Kills at Least 37
-2. African Development Bank Seeks $25 Billion for Low-Cost Lending
-3. EU Scraps 2035 Combustion Engine Ban, Allows Limited Petrol and Diesel Car Production
-4. US Police Investigate Apparent Homicide of Director Rob Reiner and Wife
-5. Thailand Targets Siem Reap Province, Home to Cambodia's Angkor Wat, in Military Operation
-6. US Demands EU Exempt Its Gas from Methane Emissions Law
+1. South Korea, NPS Extend Currency Swap Agreement for Another Year
+2. EU Envoy, Trump's Son-in-Law Explain US Peace Plan to European Foreign Ministers
+3. Flash Floods Kill at Least 37 in Morocco's Safi Province
+4. Vanderbilt QB Diego Pavia Backtracks on Heisman Trophy Comments
+5. EU to Scrap 2035 Combustion Engine Ban, Allow Petrol and Diesel Cars
+6. US Police Probe Deaths of Director Rob Reiner and Wife as 'Apparent Homicide'
 
 ----
 
-@en.afp.com
-
-🇲🇦 A flash flood in a coastal Moroccan town killed at least 37 people, local officials said on Monday, as search and rescue operations continued ➡️ u.afp.com/S7DE
-
-[2025-12-15 23:28:02](https://bsky.app/profile/en.afp.com/post/3m7ztpmsqi32v)
-
----
-
 @reuters.com
 
-African Development Bank seeks $25 billion for low-cost lending amid waning US engagement reut.rs/3MADGhu
+South Korea c.bank, NPS agree to extend currency swap agreement for another year reut.rs/4pHbUyy
 
-[2025-12-15 23:25:12](https://bsky.app/profile/reuters.com/post/3m7ztkkmrhv2r)
-
----
-
-@financialtimes.com
-
-FT Exclusive: Brussels plans to scrap the EU’s 2035 combustion engine ban, allowing carmakers to continue making a limited number of petrol and diesel-fuelled cars after the ban had been meant to come into effect. on.ft.com/4q1VxMw
-
-[2025-12-15 23:25:06](https://bsky.app/profile/financialtimes.com/post/3m7ztkeqs6l2b)
-
----
-
-@financialtimes.com
-
-Brussels plans to scrap 2035 combustion engine ban on.ft.com/3N0h8qp
-
-[2025-12-15 23:21:02](https://bsky.app/profile/financialtimes.com/post/3m7ztd4nl6d24)
-
----
-
-@japan.reuters.com
-
-トランプ米大統領が１月に復帰して以来、マイナーな新興国通貨であるハンガリー・フォリントの取引量は２倍以上に増加している。トランプ氏が「解放の日」と位置付けて関税を発表した4月2日以降、トレーダーの関心は高まる一方だ。 bit.ly/4oYzFRo
-
-[2025-12-15 23:20:18](https://bsky.app/profile/japan.reuters.com/post/3m7ztbrzr762f)
-
----
-
-@nbcnews.com
-
-The "All I Want for Christmas is You" singer is the first international star named to perform in the Feb. 6 ceremony at Milan's San Siro soccer stadium.
-
-[2025-12-15 23:20:07](https://bsky.app/profile/nbcnews.com/post/3m7ztbi42gs23)
-
----
-
-@axios.com
-
-SCOOP: White House scolded Netanyahu for violating Gaza ceasefire with strike
-
-[2025-12-15 23:19:20](https://bsky.app/profile/axios.com/post/3m7zta3k23s2n)
-
----
-
-@reuters.com
-
-LIVE: Keir Starmer answers UK lawmakers' questions youtube.com/live/40lxPwT...
-
-[2025-12-15 23:17:28](https://bsky.app/profile/reuters.com/post/3m7zt4q6ucs2x)
+[2025-12-15 23:45:12](https://bsky.app/profile/reuters.com/post/3m7zuode3kn2r)
 
 ---
 
 @wsj.com
 
-The company that makes Roomba robotic vacuums declared bankruptcy Sunday but said its devices will continue to function normally while the company restructures.
+“It was like triage in a war zone, except it was on Bondi Beach”: How the carnage unfolded in the Sydney terrorist attack.
 
-[2025-12-15 23:16:20](https://bsky.app/profile/wsj.com/post/3m7zt2pvymg2c)
+[2025-12-15 23:43:46](https://bsky.app/profile/wsj.com/post/3m7zulrllco2c)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+レーダー照射問題 中国反論“約6時間訓練と通報していた”
+https://news.web.nhk/newsweb/na/na-k10015004891000
+
+[2025-12-15 23:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zuiqc2cu2b)
+
+---
+
+@japan.reuters.com
+
+ウィットコフ米特使とトランプ米大統領の娘婿クシュナー氏は１５日、欧州連合（ＥＵ）加盟国の各外相に対し、トランプ氏のパレスチナ自治区ガザ和平計画についてビデオ会議を通じて説明した。ＥＵ当局者が明らかにした。 bit.ly/49bb8Uq
+
+[2025-12-15 23:40:21](https://bsky.app/profile/japan.reuters.com/post/3m7zufne5fh2p)
+
+---
+
+@nbcnews.com
+
+The dictionary publisher's annual pick, based on spikes in search data, reflects the themes and anxieties that shaped 2025.
+
+[2025-12-15 23:40:17](https://bsky.app/profile/nbcnews.com/post/3m7zufkb4tp23)
 
 ---
 
 @reuters.com
 
-Secure Jimmy Lai's release before seeking closer China ties, his son urges UK reut.rs/3XSvV99
+Indonesia president expects flood-stricken Sumatra to return to normal in 2-3 months as death toll exceeds 1,000 reut.rs/4sd4Qvg
 
-[2025-12-15 23:15:11](https://bsky.app/profile/reuters.com/post/3m7zsyo2ps52o)
+[2025-12-15 23:40:11](https://bsky.app/profile/reuters.com/post/3m7zufekd5g2r)
+
+---
+
+@reuters.com
+
+LIVE: Trial of Wisconsin judge Hannah Dugan youtube.com/live/Ey9uwSR...
+
+[2025-12-15 23:36:55](https://bsky.app/profile/reuters.com/post/3m7zu7jcx3k2x)
+
+---
+
+@reuters.com
+
+Flash floods kill at least 37 people in Morocco's Safi province reut.rs/4rVmsLS
+
+[2025-12-15 23:35:08](https://bsky.app/profile/reuters.com/post/3m7zu4dhhg32p)
+
+---
+
+@cnbc.com
+
+A big year-end rotation is under way on Wall Street
+
+[2025-12-15 23:34:14](https://bsky.app/profile/cnbc.com/post/3m7zu2qa4mb2i)
+
+---
+
+@wsj.com
+
+At 4:22 p.m., an alert with the answer no one wanted flashed across campus cellphones. “There’s an active shooter near Barus & Holley Engineering.
+
+Inside a night huddled in lockdown at Brown University.
+
+[2025-12-15 23:31:41](https://bsky.app/profile/wsj.com/post/3m7ztw6eirg2q)
 
 ---
 
