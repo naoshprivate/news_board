@@ -1,9 +1,9 @@
-# [2025-12-15 18:50 updated](2025_12_15.md)
+# [2025-12-15 19:10 updated](2025_12_15.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">日本株の年末需給を巡って市場では「損益通算の売り」が上値を抑制しかねないとの見方が浮上している。全体市場が高パフォーマンスだった今年は、含み損を抱える「塩漬け」銘柄を整理するのに好都合との見方が背景にあり、パフォーマンスがさえなかったグロース株の一段の下押しが警戒されている。 bit.ly/48DZUb1 <a href="https://bsky.app/profile/japan.reuters.com/post/3m7zdvu7bci2f" target="_blank">japan.reuters.com</a> (2025-12-15 18:45:11)</span><span style="padding-right:50px;">Kazakhstan sees arbitration ruling on Karachaganak before year-end reut.rs/4pFtnY9 <a href="https://bsky.app/profile/reuters.com/post/3m7zdvsg4co2b" target="_blank">reuters.com</a> (2025-12-15 18:45:09)</span><span style="padding-right:50px;">中国・香港株式市場は反落して終了した。低調な中国の経済指標や、不動産開発大手、万科企業の債務不履行リスクの高まりを受けて投資家心理が悪化した。 bit.ly/4pDDbSg <a href="https://bsky.app/profile/japan.reuters.com/post/3m7zdueocn42u" target="_blank">japan.reuters.com</a> (2025-12-15 18:44:21)</span><span style="padding-right:50px;">２０２３年にノーベル平和賞を受賞したイランの女性人権活動家ナルゲス・モハンマディ氏は、１２日に自身を逮捕した治安部隊から殴打され、２度にわたって病院の緊急治療室に運ばれたと、同氏の家族が１５日にナルゲス財団に伝えた。 bit.ly/3YqQBVI <a href="https://bsky.app/profile/japan.reuters.com/post/3m7zdqkfn5u2q" target="_blank">japan.reuters.com</a> (2025-12-15 18:42:13)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】予讃線・多度津駅～観音寺駅 運転見合わせ 岡山・香川～愛媛の特急「しおかぜ」通常と異なる音 (2025-12-15 18:20) #ニュース  🚃鉄道運行情報 🔗https://transit.yahoo.co.jp/diainfo <a href="https://bsky.app/profile/sokuho.news/post/3m7zdoryfei2y" target="_blank">sokuho.news</a> (2025-12-15 18:41:14)</span>
+<span style="padding-right:50px;">中国工業情報省は１５日、自動運転レベル３を備えた車として国有メーカーの２車種を承認した。このような自動車が大規模導入に向けた合法的な製品として同省に認可されたのは初めて。 bit.ly/4iYWovo <a href="https://bsky.app/profile/japan.reuters.com/post/3m7zf6u2eyx2q" target="_blank">japan.reuters.com</a> (2025-12-15 19:08:07)</span><span style="padding-right:50px;">UK mortgage rules to be loosened to help first-time buyers and pensioners on.ft.com/48GH5UI <a href="https://bsky.app/profile/financialtimes.com/post/3m7zf6livpe24" target="_blank">financialtimes.com</a> (2025-12-15 19:07:58)</span><span style="padding-right:50px;">「ゆうちょPay」利用者伸び悩み 2026年12月に終了へ https://news.web.nhk/newsweb/na/na-k10015004641000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zf3n5mi22v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 19:06:17)</span><span style="padding-right:50px;">円相場 値上がり 日銀が追加利上げ行うとの見方から円買われる https://news.web.nhk/newsweb/na/na-k10015004651000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zf3ivsoi2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 19:06:12)</span><span style="padding-right:50px;">防衛装備品移転 運用指針見直し 自民と維新 2月にも提言へ https://news.web.nhk/newsweb/na/na-k10015004611000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zf3elc2q2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 19:06:07)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 154.98 (🔻0.69 : 2025-12-15)</span>
+<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.01 (🔻0.66 : 2025-12-15)</span>
   </div>
 </div>
 
@@ -32,103 +32,97 @@
 
 ## News Headlines
 
-1. 「日本株の年末需給を巡って市場では「損益通算の売り」が上値を抑制しかねないとの見方が浮上している」 
-2. 「中国・香港株式市場は反落して終了した」 
-3. 「イラン女性人権活動家・ナルゲス・モハンマディ氏が治安部隊から殴打される」 
-4. 「予讃線・多度津駅～観音寺駅で運転見合わせ、特急「しおかぜ」の通常と異なる音」 
-5. 「パレスチナ自治区ガザの避難民数十万人が豪雨でテントやシェルターの浸水に直面」 
-6. 「ロイターが報じた英国の財務報告評議会がシェルの監査を調査開始」
+1. 自動運転レベル３車両、国有メーカー２車種が承認
+2. UK mortgage ルールが緩和
+3. 「ゆうちょPay」利用者伸び悩み、2026年12月にサービス終了へ
+4. 円相場、値上がり　日銀が追加利上げ行うとの見方から円買われる
+5. 「トクリュウ」防止へ バドミントン桃田選手が少年院で講演
+6. ロシア中央銀行、ベルギーの中央証券保管機関に対する損害賠償訴訟を起こす
 
 ----
 
 @japan.reuters.com
 
-日本株の年末需給を巡って市場では「損益通算の売り」が上値を抑制しかねないとの見方が浮上している。全体市場が高パフォーマンスだった今年は、含み損を抱える「塩漬け」銘柄を整理するのに好都合との見方が背景にあり、パフォーマンスがさえなかったグロース株の一段の下押しが警戒されている。 bit.ly/48DZUb1
+中国工業情報省は１５日、自動運転レベル３を備えた車として国有メーカーの２車種を承認した。このような自動車が大規模導入に向けた合法的な製品として同省に認可されたのは初めて。 bit.ly/4iYWovo
 
-[2025-12-15 18:45:11](https://bsky.app/profile/japan.reuters.com/post/3m7zdvu7bci2f)
-
----
-
-@reuters.com
-
-Kazakhstan sees arbitration ruling on Karachaganak before year-end reut.rs/4pFtnY9
-
-[2025-12-15 18:45:09](https://bsky.app/profile/reuters.com/post/3m7zdvsg4co2b)
+[2025-12-15 19:08:07](https://bsky.app/profile/japan.reuters.com/post/3m7zf6u2eyx2q)
 
 ---
 
-@japan.reuters.com
+@financialtimes.com
 
-中国・香港株式市場は反落して終了した。低調な中国の経済指標や、不動産開発大手、万科企業の債務不履行リスクの高まりを受けて投資家心理が悪化した。 bit.ly/4pDDbSg
+UK mortgage rules to be loosened to help first-time buyers and pensioners on.ft.com/48GH5UI
 
-[2025-12-15 18:44:21](https://bsky.app/profile/japan.reuters.com/post/3m7zdueocn42u)
-
----
-
-@japan.reuters.com
-
-２０２３年にノーベル平和賞を受賞したイランの女性人権活動家ナルゲス・モハンマディ氏は、１２日に自身を逮捕した治安部隊から殴打され、２度にわたって病院の緊急治療室に運ばれたと、同氏の家族が１５日にナルゲス財団に伝えた。 bit.ly/3YqQBVI
-
-[2025-12-15 18:42:13](https://bsky.app/profile/japan.reuters.com/post/3m7zdqkfn5u2q)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】予讃線・多度津駅～観音寺駅 運転見合わせ 岡山・香川～愛媛の特急「しおかぜ」通常と異なる音
-(2025-12-15 18:20) #ニュース
-
-🚃鉄道運行情報
-🔗https://transit.yahoo.co.jp/diainfo
-
-[2025-12-15 18:41:14](https://bsky.app/profile/sokuho.news/post/3m7zdoryfei2y)
-
----
-
-@japan.reuters.com
-
-国際移住機関（ＩＯＭ）は１２日、パレスチナ自治区ガザの避難民数十万人が豪雨でテントやシェルターの浸水に直面する中で、避難所用の資材や土のうの搬入が許可されていないと発表した。 bit.ly/48Tvf8e
-
-[2025-12-15 18:40:13](https://bsky.app/profile/japan.reuters.com/post/3m7zdmxntpd2v)
-
----
-
-@reuters.com
-
-Weed stocks higher in Europe as Trump seen pushing looser rules reut.rs/4q3nZ0C
-
-[2025-12-15 18:40:10](https://bsky.app/profile/reuters.com/post/3m7zdmvktnd2k)
-
----
-
-@sokuho.news
-
-🔔ANNより【速報】です。
-
-【速報】村上世彰氏の長女が「フジホールディングスの株買い増し」を通告
-(18:37) #ニュース
-
-[2025-12-15 18:39:18](https://bsky.app/profile/sokuho.news/post/3m7zdldsd5l2b)
+[2025-12-15 19:07:58](https://bsky.app/profile/financialtimes.com/post/3m7zf6livpe24)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-足立区 暴走死傷事故 危険運転致死とひき逃げの疑いで再逮捕
-https://news.web.nhk/newsweb/na/na-k10015004191000
+「ゆうちょPay」利用者伸び悩み 2026年12月に終了へ
+https://news.web.nhk/newsweb/na/na-k10015004641000
 
-[2025-12-15 18:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zdkwhtpx2b)
+[2025-12-15 19:06:17](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zf3n5mi22v)
 
 ---
 
-@nikkei.com
+@nhknewsunofficial.bsky.social
 
-スマホ決済「ゆうちょPay」、2026年12月でサービス終了　利用伸びず
-www.nikkei.com/article/DGXZQO...
+円相場 値上がり 日銀が追加利上げ行うとの見方から円買われる
+https://news.web.nhk/newsweb/na/na-k10015004651000
 
-[2025-12-15 18:36:35](https://bsky.app/profile/nikkei.com/post/3m7zdgiffem2y)
+[2025-12-15 19:06:12](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zf3ivsoi2b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+防衛装備品移転 運用指針見直し 自民と維新 2月にも提言へ
+https://news.web.nhk/newsweb/na/na-k10015004611000
+
+[2025-12-15 19:06:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zf3elc2q2b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+「トクリュウ」防止へ バドミントン桃田選手が少年院で講演
+https://news.web.nhk/newsweb/na/na-k10015004621000
+
+[2025-12-15 19:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zf37de6s2u)
+
+---
+
+@japan.reuters.com
+
+ロシア中央銀行はベルギーの中央証券保管機関ユーロクリアに対し１８兆２０００億ルーブル（２２９３億６０００万ドル）の損害賠償を求める訴訟を起こした。モスクワの裁判所が１５日に発表した。 bit.ly/44wMYRQ
+
+[2025-12-15 19:05:16](https://bsky.app/profile/japan.reuters.com/post/3m7zezqxro42v)
+
+---
+
+@reuters.com
+
+Sanofi shares fall on twin trouble for experimental multiple scleroris drug reut.rs/4pB30lT
+
+[2025-12-15 19:05:12](https://bsky.app/profile/reuters.com/post/3m7zeznxhcz2y)
+
+---
+
+@wsj.com
+
+The father and son accused in Australia’s deadliest mass shooting in nearly 30 years had six licensed firearms at the scene, police said Monday.
+
+[2025-12-15 19:03:12](https://bsky.app/profile/wsj.com/post/3m7zew3jkza2u)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+阪神 ドラフト1位 立石正広「ふた桁本塁打にこだわりたい」
+https://news.web.nhk/newsweb/na/na-k10015004341000
+
+[2025-12-15 19:03:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zevyuyti2y)
 
 ---
 
