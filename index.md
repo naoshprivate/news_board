@@ -1,9 +1,9 @@
-# [2025-12-16 08:10 updated](2025_12_16.md)
+# [2025-12-16 08:30 updated](2025_12_16.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">きょうの東京株式市場で日経平均株価は、狭いレンジ内でのもみ合いが想定されている。１１月の米雇用統計の公表を日本時間の今夜に控え、様子見ムードが上値を抑えるとみられている。一方、心理的節目の５万円を下回る場面では押し目買いも入ることが想定されるため、売り一巡後は下げ止まる展開となりそうだ。 bit.ly/3N2somb <a href="https://bsky.app/profile/japan.reuters.com/post/3ma2qrzi6ru2v" target="_blank">japan.reuters.com</a> (2025-12-16 08:08:21)</span><span style="padding-right:50px;">ウクライナ “無人艇攻撃でロシア潜水艦損傷” ロシア反論 https://news.web.nhk/newsweb/na/na-k10015005021000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma2qnxtjck2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 08:06:02)</span><span style="padding-right:50px;">Police have a new lead in Brown University shooting and release more surveillance videos. Follow live updates. <a href="https://bsky.app/profile/cnn.com/post/3ma2qnfnsr52o" target="_blank">cnn.com</a> (2025-12-16 08:05:46)</span><span style="padding-right:50px;">Trinidad and Tobago approves US military aircraft transit in airports reut.rs/44qZ3rF <a href="https://bsky.app/profile/reuters.com/post/3ma2qmdal3e2s" target="_blank">reuters.com</a> (2025-12-16 08:05:09)</span><span style="padding-right:50px;">Stephanie Kramer says her ex-boss at Chanel gave her the framework to figure out if she was ready for a career change.  <a href="https://bsky.app/profile/cnbc.com/post/3ma2qixxtho2p" target="_blank">cnbc.com</a> (2025-12-16 08:03:17)</span>
+<span style="padding-right:50px;">The Trump administration opposes a push by preservationists to halt the White House ballroom project. In a court filing, the administration said the project must continue for national security reasons. <a href="https://bsky.app/profile/apnews.com/post/3ma2rx3juqc2u" target="_blank">apnews.com</a> (2025-12-16 08:29:04)</span><span style="padding-right:50px;">映画「スタンド・バイ・ミー」などを手がけた映画監督、俳優、プロデューサーのロブ・ライナーさん（７８）と妻が１４日、米ロサンゼルスの自宅で死亡しているのが見つかった事件で、ロス市警は１５日、ライナーさんの息子ニック・ライナー容疑者（３２）を殺人の疑いで逮捕・訴追したと発表した。 bit.ly/3XTt9QX <a href="https://bsky.app/profile/japan.reuters.com/post/3ma2rrt3vms2n" target="_blank">japan.reuters.com</a> (2025-12-16 08:26:08)</span><span style="padding-right:50px;">Ben & Jerry's ousts board chair Mittal as it sets new term limits reut.rs/4oXUSej <a href="https://bsky.app/profile/reuters.com/post/3ma2rq3dc4r2r" target="_blank">reuters.com</a> (2025-12-16 08:25:09)</span><span style="padding-right:50px;">Brown University shooting: Police seek the public's help in the Brown shooting investigation as they share more video of a person of interest. <a href="https://bsky.app/profile/cbsnews.com/post/3ma2rpy6u4a2m" target="_blank">cbsnews.com</a> (2025-12-16 08:25:06)</span><span style="padding-right:50px;">米取引所運営大手ナスダックは米国株に対する世界的な需要を取り込むため、２４時間取引に向けた書類を１５日に米証券取引委員会（ＳＥＣ）に提出する。 bit.ly/4s4diwM <a href="https://bsky.app/profile/japan.reuters.com/post/3ma2rhwztwp2c" target="_blank">japan.reuters.com</a> (2025-12-16 08:20:36)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.09 (🔻0.13 : 2025-12-15)</span>
+<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.10 (🔻0.13 : 2025-12-15)</span>
   </div>
 </div>
 
@@ -32,95 +32,101 @@
 
 ## News Headlines
 
-Here are six headlines in English:
-
-1. Tesla Stock Surges to New High After Elon Musk Reveals Autonomous Taxi Testing Plan
-2. US FTC and 21 States File Amended Complaint Against Uber Over Subscription Practices
-3. Merriam-Webster Declares 'Slop' Word of the Year in Nod to Growth of AI
-4. EU Leaders Agree to Establish Strong Security Framework Before Considering Ukraine's Territorial Concessions to Russia
-5. President Trump Signs Executive Order Classifying Fentanyl as Weapon of Mass Destruction
-6. Google to Discontinue External Email Aggregation Feature in Gmail, Sparking Misinformation About Service End
+1. Trump Administration Opposes White House Ballroom Project Halt
+2. Rob Reiner's Son Arrested in Murder Case
+3. Ben & Jerry's Ousts Board Chair Mittal Over Term Limits
+4. US Stock Futures Unchanged Ahead of Payrolls Report
+5. Argentina Allows Peso to Float Amid Economic Pressures
+6. Trump Classifies Fentanyl as WMD
 
 ----
 
+@apnews.com
+
+The Trump administration opposes a push by preservationists to halt the White House ballroom project. In a court filing, the administration said the project must continue for national security reasons.
+
+[2025-12-16 08:29:04](https://bsky.app/profile/apnews.com/post/3ma2rx3juqc2u)
+
+---
+
 @japan.reuters.com
 
-きょうの東京株式市場で日経平均株価は、狭いレンジ内でのもみ合いが想定されている。１１月の米雇用統計の公表を日本時間の今夜に控え、様子見ムードが上値を抑えるとみられている。一方、心理的節目の５万円を下回る場面では押し目買いも入ることが想定されるため、売り一巡後は下げ止まる展開となりそうだ。 bit.ly/3N2somb
+映画「スタンド・バイ・ミー」などを手がけた映画監督、俳優、プロデューサーのロブ・ライナーさん（７８）と妻が１４日、米ロサンゼルスの自宅で死亡しているのが見つかった事件で、ロス市警は１５日、ライナーさんの息子ニック・ライナー容疑者（３２）を殺人の疑いで逮捕・訴追したと発表した。 bit.ly/3XTt9QX
 
-[2025-12-16 08:08:21](https://bsky.app/profile/japan.reuters.com/post/3ma2qrzi6ru2v)
-
----
-
-@nhknewsunofficial.bsky.social
-
-ウクライナ “無人艇攻撃でロシア潜水艦損傷” ロシア反論
-https://news.web.nhk/newsweb/na/na-k10015005021000
-
-[2025-12-16 08:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma2qnxtjck2s)
-
----
-
-@cnn.com
-
-Police have a new lead in Brown University shooting and release more surveillance videos. Follow live updates.
-
-[2025-12-16 08:05:46](https://bsky.app/profile/cnn.com/post/3ma2qnfnsr52o)
+[2025-12-16 08:26:08](https://bsky.app/profile/japan.reuters.com/post/3ma2rrt3vms2n)
 
 ---
 
 @reuters.com
 
-Trinidad and Tobago approves US military aircraft transit in airports reut.rs/44qZ3rF
+Ben & Jerry's ousts board chair Mittal as it sets new term limits reut.rs/4oXUSej
 
-[2025-12-16 08:05:09](https://bsky.app/profile/reuters.com/post/3ma2qmdal3e2s)
+[2025-12-16 08:25:09](https://bsky.app/profile/reuters.com/post/3ma2rq3dc4r2r)
 
 ---
 
-@cnbc.com
+@cbsnews.com
 
-Stephanie Kramer says her ex-boss at Chanel gave her the framework to figure out if she was ready for a career change. 
+Brown University shooting: Police seek the public's help in the Brown shooting investigation as they share more video of a person of interest.
 
-[2025-12-16 08:03:17](https://bsky.app/profile/cnbc.com/post/3ma2qixxtho2p)
+[2025-12-16 08:25:06](https://bsky.app/profile/cbsnews.com/post/3ma2rpy6u4a2m)
+
+---
+
+@japan.reuters.com
+
+米取引所運営大手ナスダックは米国株に対する世界的な需要を取り込むため、２４時間取引に向けた書類を１５日に米証券取引委員会（ＳＥＣ）に提出する。 bit.ly/4s4diwM
+
+[2025-12-16 08:20:36](https://bsky.app/profile/japan.reuters.com/post/3ma2rhwztwp2c)
+
+---
+
+@japan.reuters.com
+
+全米住宅建設業者協会（ＮＡＨＢ）が１５日発表した１２月のＮＡＨＢ／ウエルズ・ファーゴ住宅建設業者指数は３９と前月から１ポイント小幅上昇し、４月以来、８カ月ぶりの高水準となった。ただ関税措置による建設コスト上昇により、活動は依然として制約されているもよう。ロイターがまとめたエコノミスト予想と一致した。 bit.ly/4qb52cw
+
+[2025-12-16 08:20:21](https://bsky.app/profile/japan.reuters.com/post/3ma2rhhygue2c)
 
 ---
 
 @wsj.com
 
-A little retro, fancy but never fussy, shrimp cocktail is festive food guests go ga-ga for. Savvy hosts know it’s a low-lift, make-ahead miracle. on.wsj.com/4qh7q1z
+Argentina’s central bank said it would allow the peso to move more freely, responding to investors who have demanded President Javier Milei’s government correct an overvalued currency. on.wsj.com/3MEIimH
 
-[2025-12-16 08:02:52](https://bsky.app/profile/wsj.com/post/3ma2qia4nw52e)
-
----
-
-@japan.reuters.com
-
-１５日のニューヨーク株式市場で、電気自動車（ＥＶ）大手テスラの株価が一時約１年ぶりの高値を付けた。イーロン・マスク最高経営責任者（ＣＥＯ）が、テスラは自動運転タクシー「ロボタクシー」の走行試験を、前部座席に「安全監視員」を置かずに進めていると明らかにしたことがきっかけだ。 bit.ly/3KZNzoq
-
-[2025-12-16 08:02:43](https://bsky.app/profile/japan.reuters.com/post/3ma2qhxsvze2v)
+[2025-12-16 08:18:36](https://bsky.app/profile/wsj.com/post/3ma2reef7yx23)
 
 ---
 
-@japan.reuters.com
+@washingtonpost.com
 
-米当局者は１５日、ウクライナがロシアとの和平合意案の下、北大西洋条約機構（ＮＡＴＯ）の集団防衛を定める北大西洋条約第５条をモデルにした安全の保証を受ける可能性があると記者団に述べた。 bit.ly/3XWMIru
+<strong><span style="color: red;">Breaking news:</span> Authorities release new images of a person of interest in the Brown University shooting along with $50,000 reward.</strong><br><strong></strong><br><strong>Follow our coverage:</strong>
 
-[2025-12-16 08:01:39](https://bsky.app/profile/japan.reuters.com/post/3ma2qg2g2io2p)
+[2025-12-16 08:16:26](https://bsky.app/profile/washingtonpost.com/post/3ma2raimndj2p)
+
+---
+
+@nikkei.com
+
+トランプ米大統領、フェンタニルを「大量破壊兵器」に指定（無料記事）
+www.nikkei.com/article/DGXZQO...
+
+合成麻薬「フェンタニル」とその原料の前駆体を「大量破壊兵器」に指定する大統領令に署名しました。
+
+多数のアメリカ国民が過剰摂取で死亡しているとして、アメリカへの密輸の取り締まりを強化します。
+
+2026年の中間選挙をにらみ、有権者の関心が高い治安問題への取り組みを誇示する狙いがあります。
+
+#ニュース
+
+[2025-12-16 08:15:17](https://bsky.app/profile/nikkei.com/post/3ma2r6gwxlh2n)
 
 ---
 
 @reuters.com
 
-UBS parts with chief tech officer, promises 'smooth' integration process reut.rs/4ajyisT
+Fed's Collins says supported rate cut but it was a 'close call' reut.rs/48Efy6a
 
-[2025-12-16 08:01:16](https://bsky.app/profile/reuters.com/post/3ma2qfemxae23)
-
----
-
-@usatoday.com
-
-"He was known to have driven people CRAZY by his raging obsession of President Donald J. Trump," the president said of Rob Reiner.
-
-[2025-12-16 08:00:59](https://bsky.app/profile/usatoday.com/post/3ma2qeu2ufz2f)
+[2025-12-16 08:15:15](https://bsky.app/profile/reuters.com/post/3ma2r6emjmw24)
 
 ---
 
