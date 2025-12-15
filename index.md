@@ -1,9 +1,9 @@
-# [2025-12-15 09:50 updated](2025_12_15.md)
+# [2025-12-15 10:10 updated](2025_12_15.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">カナダの調査会社テックインサイツによると、中国の通信機器大手、華為技術（ファーウェイ）の最新のスマートフォン旗艦モデル「Ｍａｔｅ８０」シリーズに搭載されている半導体「Ｋｉｒｉｎ９０３０」は回路線幅７ナノメートル（ナノは１０億分の１）の改良版で、台湾積体電路製造（ＴＳＭＣ）やサムスン電子に依然として後れを取っている。 bit.ly/4oXGdzI <a href="https://bsky.app/profile/japan.reuters.com/post/3m7yfttjfcd2p" target="_blank">japan.reuters.com</a> (2025-12-15 09:47:11)</span><span style="padding-right:50px;">José Antonio Kast, a former lawmaker who wants to build a barrier on Chile’s northern border and deport undocumented migrants, will be the country’s most rightwing president in 35 years of democracy on.ft.com/3XUmp5q <a href="https://bsky.app/profile/financialtimes.com/post/3m7yfrkapyd2w" target="_blank">financialtimes.com</a> (2025-12-15 09:45:54)</span><span style="padding-right:50px;">東京ガスの笹山晋一社長は、次期中期経営計画（２０２６─２８年度）に盛り込んだ海外での成長投資３５００億円の過半を米国に投入する考えを示した。ガス需要の高い現地で開発から販売まで「バリューチェーン」を構築するとともに、国際的なトレーディング機能を強化し、収益拡大を図る。 bit.ly/4qb0GCd <a href="https://bsky.app/profile/japan.reuters.com/post/3m7yfqhflbw2c" target="_blank">japan.reuters.com</a> (2025-12-15 09:45:18)</span><span style="padding-right:50px;">iRobot enters Chapter 11, lender to acquire Roomba maker reut.rs/4pBceP4 <a href="https://bsky.app/profile/reuters.com/post/3m7yfqeaqby24" target="_blank">reuters.com</a> (2025-12-15 09:45:14)</span><span style="padding-right:50px;">Breaking News from @theathletic.com: The NFL star Patrick Mahomes tore his ACL during Kansas City’s loss to the Chargers. <a href="https://bsky.app/profile/nytimes.com/post/3m7yfq4aop225" target="_blank">nytimes.com</a> (2025-12-15 09:45:06)</span>
+<span style="padding-right:50px;">ベネズエラの地域同盟国は１４日、トランプ米政権による先週の石油タンカー拿捕を非難し、ベネズエラ政府への支持を表明した。 bit.ly/4ahyBVg <a href="https://bsky.app/profile/japan.reuters.com/post/3m7yh32s4xb2c" target="_blank">japan.reuters.com</a> (2025-12-15 10:09:07)</span><span style="padding-right:50px;">These black tights are comfortable to wear and can also handle aggressive assaults from zippers, Velcro, and fingernails. <a href="https://bsky.app/profile/nytimes.com/post/3m7ygxf4adr2y" target="_blank">nytimes.com</a> (2025-12-15 10:07:04)</span><span style="padding-right:50px;">Turning Point USA abruptly postponed a highly anticipated livestream meant to rebut podcaster Candace Owens' claims about Charlie Kirk's assassination. <a href="https://bsky.app/profile/axios.com/post/3m7ygwkf3tc2u" target="_blank">axios.com</a> (2025-12-15 10:06:36)</span><span style="padding-right:50px;">イスラエル軍が１３日、イスラム組織ハマスの幹部を殺害したことを受け、ハマスの主席交渉官は１４日、パレスチナ自治区ガザの停戦維持を脅かすものだと非難し、イスラエルによる停戦順守を要求するようトランプ米大統領に求めた。 bit.ly/4oUpnBW <a href="https://bsky.app/profile/japan.reuters.com/post/3m7ygu2rd762c" target="_blank">japan.reuters.com</a> (2025-12-15 10:05:12)</span><span style="padding-right:50px;">欧州議会の最大会派である欧州人民党（ＥＰＰ）トップのマンフレッド・ウェーバー氏は１２日、欧州連合（ＥＵ）欧州委員会が２０３５年から内燃エンジン搭載の新車販売を実質的に禁止する計画を撤回すると明らかにした。自国の自動車メーカーを守るため計画の撤回を働きかけてきたドイツにとって大きな勝利となる。 bit.ly/4pdrZuV <a href="https://bsky.app/profile/japan.reuters.com/post/3m7ygpek4n42u" target="_blank">japan.reuters.com</a> (2025-12-15 10:02:35)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50305.69 (🔻46.40 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3281.00 (🔺38.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.96 (🔺0.28 : 2025-12-15)</span>
+<span style="padding-right:50px;">NIKKEI: 50233.62 (🔻118.47 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3287.00 (🔺44.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.85 (🔺0.17 : 2025-12-15)</span>
   </div>
 </div>
 
@@ -32,111 +32,96 @@
 
 ## News Headlines
 
-1.  チャイナ・ファーウェイ、台湾のTSMCやサムスンに後れを取る半導体「Kirin 9030」を搭載
-2.  チリの右派の指導者カスト氏、35年ぶりの右派大統領に選出
-3.  東京ガスの笹山社長「米国に3,500億円投資　バリューチェーン構築と収益拡大」
-4.  iRobot、Chapter 11に入りロボット掃除機メーカーを買収
-5.  NFLのパトリック・マホームズ選手、ACL損傷でシーズン絶望
-6.  中国共産党、2026年に輸出入を拡大する計画を発表
-7.  ベネズエラとの緊張が高まる中、米軍のホルシー司令官が2年早く退任
-8.  香港民主党、中国政府からの圧力もあり解散を正式決定
-9.  韓国の銅鉱山会社、米国との合弁でスメルター建設計画を策定
-10.  シリア内務省、イスラム国の活動と疑われる部隊員を逮捕
-11.  NFLのヘッドコーチ、殺人未遂で起訴される
-12.  Nigella Lawsonのチョコレートガインズカークイーン
-13.  オーストラリアの観光名所ボンダイビーチで銃撃事件が発生、16人が死亡
-14.  ウクライナのゼレンスキー大統領、NATO加盟を断念する可能性あり
-15.  オラクル、AIデータセンターの完成を否定
-16.  日経平均株価、5万円付近で下げ渋り
-17.  スピードスケートのワールドカップ、吉田雪乃が500mで優勝
-18.  オーストラリアの観光名所ボンダイビーチで銃撃事件で16人が死亡
-19.  日銀短観、大企業製造業3期連続で改善
-20.  トランプ米大統領が課したH-1Bビザの10万ドルの手数料を巡り、20州が訴訟を起こす
-21.  日銀発表の12月短観、大企業製造業の業況判断指数が3期連続で改善
-22.  オーストラリアの観光名所ボンダイビーチで銃撃事件で16人が死亡
-23.  日銀短観、大企業製造業の業況判断指数が3期連続で改善
-24.  トランプ米大統領が課したH-1Bビザの10万ドルの手数料を巡り、20州が訴訟を起こす
-25.  ギャビン・ニューソムの2028年大統領選挙への挑戦者たち、人気の低さを強調
+1. ベネズエラ　米政権のタンカー拿捕を非難
+2. 米大統領専用機　納入時期が１年遅れる
+3. 欧州議会　内燃エンジン搭載新車販売を禁止する計画を撤回
+4. チリ　右派のカスト氏が大統領に当選
+5. 米空軍　エアフォースワン最初の納入を１年遅れる
+6. 中国　輸出と輸入をともに拡大する計画
 
 ----
 
 @japan.reuters.com
 
-カナダの調査会社テックインサイツによると、中国の通信機器大手、華為技術（ファーウェイ）の最新のスマートフォン旗艦モデル「Ｍａｔｅ８０」シリーズに搭載されている半導体「Ｋｉｒｉｎ９０３０」は回路線幅７ナノメートル（ナノは１０億分の１）の改良版で、台湾積体電路製造（ＴＳＭＣ）やサムスン電子に依然として後れを取っている。 bit.ly/4oXGdzI
+ベネズエラの地域同盟国は１４日、トランプ米政権による先週の石油タンカー拿捕を非難し、ベネズエラ政府への支持を表明した。 bit.ly/4ahyBVg
 
-[2025-12-15 09:47:11](https://bsky.app/profile/japan.reuters.com/post/3m7yfttjfcd2p)
-
----
-
-@financialtimes.com
-
-José Antonio Kast, a former lawmaker who wants to build a barrier on Chile’s northern border and deport undocumented migrants, will be the country’s most rightwing president in 35 years of democracy on.ft.com/3XUmp5q
-
-[2025-12-15 09:45:54](https://bsky.app/profile/financialtimes.com/post/3m7yfrkapyd2w)
-
----
-
-@japan.reuters.com
-
-東京ガスの笹山晋一社長は、次期中期経営計画（２０２６─２８年度）に盛り込んだ海外での成長投資３５００億円の過半を米国に投入する考えを示した。ガス需要の高い現地で開発から販売まで「バリューチェーン」を構築するとともに、国際的なトレーディング機能を強化し、収益拡大を図る。 bit.ly/4qb0GCd
-
-[2025-12-15 09:45:18](https://bsky.app/profile/japan.reuters.com/post/3m7yfqhflbw2c)
-
----
-
-@reuters.com
-
-iRobot enters Chapter 11, lender to acquire Roomba maker reut.rs/4pBceP4
-
-[2025-12-15 09:45:14](https://bsky.app/profile/reuters.com/post/3m7yfqeaqby24)
+[2025-12-15 10:09:07](https://bsky.app/profile/japan.reuters.com/post/3m7yh32s4xb2c)
 
 ---
 
 @nytimes.com
 
-<strong><span style="color: red;">Breaking News</span> from @theathletic.com: The NFL star Patrick Mahomes tore his ACL during Kansas City’s loss to the Chargers.</strong>
+These black tights are comfortable to wear and can also handle aggressive assaults from zippers, Velcro, and fingernails.
 
-[2025-12-15 09:45:06](https://bsky.app/profile/nytimes.com/post/3m7yfq4aop225)
+[2025-12-15 10:07:04](https://bsky.app/profile/nytimes.com/post/3m7ygxf4adr2y)
+
+---
+
+@axios.com
+
+Turning Point USA abruptly postponed a highly anticipated livestream meant to rebut podcaster Candace Owens' claims about Charlie Kirk's assassination.
+
+[2025-12-15 10:06:36](https://bsky.app/profile/axios.com/post/3m7ygwkf3tc2u)
 
 ---
 
 @japan.reuters.com
 
-中国共産党の経済政策担当幹部は、「持続可能な」貿易を促進するための取り組みの一環として、２０２６年に輸出と輸入をともに拡大する計画を明らかにした。中国国営の中国中央テレビ（ＣＣＴＶ）が１３日、報じた。 bit.ly/3Ys1yGF
+イスラエル軍が１３日、イスラム組織ハマスの幹部を殺害したことを受け、ハマスの主席交渉官は１４日、パレスチナ自治区ガザの停戦維持を脅かすものだと非難し、イスラエルによる停戦順守を要求するようトランプ米大統領に求めた。 bit.ly/4oUpnBW
 
-[2025-12-15 09:40:14](https://bsky.app/profile/japan.reuters.com/post/3m7yfhfrcbx2c)
-
----
-
-@reuters.com
-
-China Vanke fails to win approval to delay $284 million bond payment reut.rs/3KIidCL
-
-[2025-12-15 09:40:10](https://bsky.app/profile/reuters.com/post/3m7yfhcig662p)
+[2025-12-15 10:05:12](https://bsky.app/profile/japan.reuters.com/post/3m7ygu2rd762c)
 
 ---
 
 @japan.reuters.com
 
-米国による「麻薬密輸船」への攻撃を巡りベネズエラとの緊張が高まる中、中南米地域を担当する米南方軍のホルシー司令官が１２日、予定より２年早く退任した。 bit.ly/3MCIwL5
+欧州議会の最大会派である欧州人民党（ＥＰＰ）トップのマンフレッド・ウェーバー氏は１２日、欧州連合（ＥＵ）欧州委員会が２０３５年から内燃エンジン搭載の新車販売を実質的に禁止する計画を撤回すると明らかにした。自国の自動車メーカーを守るため計画の撤回を働きかけてきたドイツにとって大きな勝利となる。 bit.ly/4pdrZuV
 
-[2025-12-15 09:38:21](https://bsky.app/profile/japan.reuters.com/post/3m7yfe2dwo32v)
-
----
-
-@japan.reuters.com
-
-香港民主派の有力政党として唯一存続していた民主党が１４日の臨時党大会で解散を正式に決定した。中国政府からの圧力が背景にあったもようだ。 bit.ly/4ah2Ifs
-
-[2025-12-15 09:35:15](https://bsky.app/profile/japan.reuters.com/post/3m7yf6ifzzh2q)
+[2025-12-15 10:02:35](https://bsky.app/profile/japan.reuters.com/post/3m7ygpek4n42u)
 
 ---
 
-@reuters.com
+@npr.org
 
-Korea Zinc board to discuss plan to build smelter under US joint venture, source says reut.rs/4azsjjZ
+José Antonio Kast, a far-right politician who has praised Chile's former dictatorship, has won the presidency, signaling a sharp rightward shift fueled by fears over crime, migration and the economy. n.pr/3MzJJ5W
 
-[2025-12-15 09:35:12](https://bsky.app/profile/reuters.com/post/3m7yf6fslqw2b)
+[2025-12-15 10:02:11](https://bsky.app/profile/npr.org/post/3m7ygonkcme23)
+
+---
+
+@cnn.com
+
+Jose Antonio Kast won Chile’s presidential election on Sunday, leveraging voter fears over rising crime and migration to take the country to its sharpest rightward shift since the end of dictatorship in 1990. https://cnn.it/4pCLJJh
+
+[2025-12-15 10:02:02](https://bsky.app/profile/cnn.com/post/3m7ygoffhhy25)
+
+---
+
+@cnbc.com
+
+Ashley Peters fell in love with anime during the pandemic. 
+
+Shortly after graduating from UC Irvine, she boarded a flight to move to Japan. 
+
+"Being here has freed up not just money, but mental space," said Peters.
+
+[2025-12-15 10:00:55](https://bsky.app/profile/cnbc.com/post/3m7ygmf6iur24)
+
+---
+
+@apnews.com
+
+Kansas City Chiefs say Patrick Mahomes tore the ACL in his left knee and that he and team are exploring surgical options.
+
+[2025-12-15 10:00:51](https://bsky.app/profile/apnews.com/post/3m7ygmbjbkd23)
+
+---
+
+@usatoday.com
+
+After finishing second in Heisman voting, Vanderbilt QB Diego Pavia posted a message on social media saying, "(Expletive)-ALL THE VOTERS"
+
+[2025-12-15 10:00:48](https://bsky.app/profile/usatoday.com/post/3m7ygm6blg42f)
 
 ---
 
