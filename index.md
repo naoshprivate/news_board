@@ -1,9 +1,9 @@
-# [2025-12-16 02:50 updated](2025_12_16.md)
+# [2025-12-16 03:10 updated](2025_12_16.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Starmer admits questions about his leadership are ‘rife’ on.ft.com/3YuqVYo <a href="https://bsky.app/profile/financialtimes.com/post/3ma26wad5tj2b" target="_blank">financialtimes.com</a> (2025-12-16 02:48:35)</span><span style="padding-right:50px;">José Antonio Kast’s rise to power in Chile will give the U.S. another strategic ally in Latin America, as he joins other right-wing leaders closely aligned with President Trump. <a href="https://bsky.app/profile/wsj.com/post/3ma26vhdbrp2t" target="_blank">wsj.com</a> (2025-12-16 02:48:08)</span><span style="padding-right:50px;">Nick Reiner, the son of Rob and Michele Reiner, has been booked on suspicion of murder in connection with his parents' deaths. Follow live updates: https://cnn.it/48PC5M5 <a href="https://bsky.app/profile/cnn.com/post/3ma26vbx55u22" target="_blank">cnn.com</a> (2025-12-16 02:48:03)</span><span style="padding-right:50px;">Citi sets 2026 S&P 500 target at 7,700, expects AI to remain key theme reut.rs/49bAQIq <a href="https://bsky.app/profile/reuters.com/post/3ma26qb3n6j2r" target="_blank">reuters.com</a> (2025-12-16 02:45:14)</span><span style="padding-right:50px;">M23 says hundreds of Burundi soldiers captured in latest Congo offensive reut.rs/498RA37 <a href="https://bsky.app/profile/reuters.com/post/3ma26hgzt6m2i" target="_blank">reuters.com</a> (2025-12-16 02:40:18)</span>
+<span style="padding-right:50px;">カナダ統計局が１５日発表した１１月の消費者物価指数（ＣＰＩ）は前年同月比２．２％上昇と、伸び率は前月から横ばいだった。食品価格の上昇が目立った一方、ガソリンや住居費は低下した。ロイターがまとめたアナリスト予想は２．３％上昇だった。 bit.ly/49d0CMs <a href="https://bsky.app/profile/japan.reuters.com/post/3ma2a2hmngg2f" target="_blank">japan.reuters.com</a> (2025-12-16 03:08:50)</span><span style="padding-right:50px;">NEW: The Justice Dept. arrests four people in connection with an alleged terror plot that was foiled by FBI agents, AG Bondi announces. <a href="https://bsky.app/profile/nbcnews.com/post/3ma27zu3kw22k" target="_blank">nbcnews.com</a> (2025-12-16 03:08:30)</span><span style="padding-right:50px;"> Can roadside stalwarts AA and RAC flag down a new set of investors? on.ft.com/4q8k1Ut  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3ma27ziabap2q" target="_blank">financialtimes.com</a> (2025-12-16 03:08:17)</span><span style="padding-right:50px;"> Lessons from Roomba: sometimes being first mover sucks on.ft.com/3MB967s  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3ma27zhp7gu2b" target="_blank">financialtimes.com</a> (2025-12-16 03:08:17)</span><span style="padding-right:50px;">Dueling approaches over how to fix America’s housing crisis are splitting Minnesota’s Twin Cities. <a href="https://bsky.app/profile/wsj.com/post/3ma27xuuz5x2e" target="_blank">wsj.com</a> (2025-12-16 03:07:23)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48324.24 (🔻270.12 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23088.18 (🔻241.86 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 177.43 (🔻0.50 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.34 (🔻0.34 : 2025-12-15)</span>
+<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48365.17 (🔻229.19 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23096.95 (🔻233.09 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 177.29 (🔻0.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.29 (🔻0.38 : 2025-12-15)</span>
   </div>
 </div>
 
@@ -34,95 +34,92 @@
 
 Here are six important stories with headlines:
 
-1. US Soccer Commits $30 Million to Research for Women's Soccer
-2. Bitcoin Plunges Below $87,000 for Third Time This Month
-3. Nick Reiner Charged with Murder in Deaths of His Parents
-4. Chile's Conservative Leader Kast to Become Trump Ally in Latin America
-5. SpaceX IPO Could Be Biggest Ever Next Year, Experts Say
-6. Gout Rates Surge Globally, Rising with Obesity and Other Chronic Conditions
+1. US Justice Department Arrests Four in Foiled Terror Plot
+2. Zillow Shares Plummet Amid Woes in Housing Market
+3. Brazil's Braskem Faces Control Shake-Up Amid Novonor Stake Sale
+4. Sydney Beach Shooting Leaves at Least 15 Dead
+5. Nicki Minaj Shifts Tone on Immigration and LGBTQ+ Rights
+6. Warren Buffett's Successor Greg Abel Sees Steady Rise at Berkshire
 
 ----
 
-@financialtimes.com
+@japan.reuters.com
 
-Starmer admits questions about his leadership are ‘rife’ on.ft.com/3YuqVYo
+カナダ統計局が１５日発表した１１月の消費者物価指数（ＣＰＩ）は前年同月比２．２％上昇と、伸び率は前月から横ばいだった。食品価格の上昇が目立った一方、ガソリンや住居費は低下した。ロイターがまとめたアナリスト予想は２．３％上昇だった。 bit.ly/49d0CMs
 
-[2025-12-16 02:48:35](https://bsky.app/profile/financialtimes.com/post/3ma26wad5tj2b)
-
----
-
-@wsj.com
-
-José Antonio Kast’s rise to power in Chile will give the U.S. another strategic ally in Latin America, as he joins other right-wing leaders closely aligned with President Trump.
-
-[2025-12-16 02:48:08](https://bsky.app/profile/wsj.com/post/3ma26vhdbrp2t)
-
----
-
-@cnn.com
-
-Nick Reiner, the son of Rob and Michele Reiner, has been booked on suspicion of murder in connection with his parents' deaths. Follow live updates: https://cnn.it/48PC5M5
-
-[2025-12-16 02:48:03](https://bsky.app/profile/cnn.com/post/3ma26vbx55u22)
-
----
-
-@reuters.com
-
-Citi sets 2026 S&P 500 target at 7,700, expects AI to remain key theme reut.rs/49bAQIq
-
-[2025-12-16 02:45:14](https://bsky.app/profile/reuters.com/post/3ma26qb3n6j2r)
-
----
-
-@reuters.com
-
-M23 says hundreds of Burundi soldiers captured in latest Congo offensive reut.rs/498RA37
-
-[2025-12-16 02:40:18](https://bsky.app/profile/reuters.com/post/3ma26hgzt6m2i)
+[2025-12-16 03:08:50](https://bsky.app/profile/japan.reuters.com/post/3ma2a2hmngg2f)
 
 ---
 
 @nbcnews.com
 
-With women’s soccer on track to become one of the world’s top five sports, U.S. Soccer is committing a $30 million donation from billionaire Michele Kang to researching some of the major issues facing female athletes.
+NEW: The Justice Dept. arrests four people in connection with an alleged terror plot that was foiled by FBI agents, AG Bondi announces.
 
-[2025-12-16 02:40:09](https://bsky.app/profile/nbcnews.com/post/3ma26h5sf3d26)
-
----
-
-@japan.reuters.com
-
-ユーロ圏金融・債券市場では、域内国債利回りが低下した。今週は１６日の米雇用統計のほか、１８日の欧州中央銀行（ＥＣＢ）とイングランド銀行（英中央銀行）、１９日の日銀の金融政策決定会合と、主要イベントが目白押しとなっている。 bit.ly/4q2NsHE
-
-[2025-12-16 02:38:58](https://bsky.app/profile/japan.reuters.com/post/3ma26ezz6kl2s)
+[2025-12-16 03:08:30](https://bsky.app/profile/nbcnews.com/post/3ma27zu3kw22k)
 
 ---
 
-@aohnsman.bsky.social
+@financialtimes.com
 
-In the latest Current Climate newsletter:
-🤖 Calls for a moratorium on new data centers get louder
-🚖 Waymo’s lofty aspirations for electric robotaxis
-♨️ Fervo Energy’s big funding round and big plans for enhanced geothermal power #datacenters www.forbes.com/sites/curren...
+ Can roadside stalwarts AA and RAC flag down a new set of investors? on.ft.com/4q8k1Ut  | opinion
 
-[2025-12-16 02:37:59](https://bsky.app/profile/aohnsman.bsky.social/post/3ma26dbv5qk2y)
+[2025-12-16 03:08:17](https://bsky.app/profile/financialtimes.com/post/3ma27ziabap2q)
 
 ---
 
-@yahoofinance.com
+@financialtimes.com
 
-Bitcoin has fallen below $87,000 for the third time this month.
+ Lessons from Roomba: sometimes being first mover sucks on.ft.com/3MB967s  | opinion
 
-[2025-12-16 02:37:34](https://bsky.app/profile/yahoofinance.com/post/3ma26cjpgxc23)
+[2025-12-16 03:08:17](https://bsky.app/profile/financialtimes.com/post/3ma27zhp7gu2b)
+
+---
+
+@wsj.com
+
+Dueling approaches over how to fix America’s housing crisis are splitting Minnesota’s Twin Cities.
+
+[2025-12-16 03:07:23](https://bsky.app/profile/wsj.com/post/3ma27xuuz5x2e)
 
 ---
 
 @reuters.com
 
-Cencora to take majority control of cancer care network OneOncology for $5 billion reut.rs/3L28xmA
+Brazil's Braskem set for control shake-up as Novonor stake sale advances reut.rs/44seEqV
 
-[2025-12-16 02:35:11](https://bsky.app/profile/reuters.com/post/3ma266bot3q2c)
+[2025-12-16 03:05:12](https://bsky.app/profile/reuters.com/post/3ma27txt6cr2r)
+
+---
+
+@cnbc.com
+
+New York AG sues UPS for allegedly shorting Christmas season workers' wages
+
+[2025-12-16 03:04:16](https://bsky.app/profile/cnbc.com/post/3ma27sc6q6x25)
+
+---
+
+@cnbc.com
+
+Zillow shares are getting crushed. Here's why
+
+[2025-12-16 03:03:09](https://bsky.app/profile/cnbc.com/post/3ma27qby4ze24)
+
+---
+
+@npr.org
+
+Republican Rep. Kevin Kiley of California says a health care proposal from House Speaker Mike Johnson — which is expected to get a vote this week — was "hastily thrown together." n.pr/4sflBGf
+
+[2025-12-16 03:02:21](https://bsky.app/profile/npr.org/post/3ma27oula7w2n)
+
+---
+
+@usatoday.com
+
+Following Rob Reiner and wife Michele Singer Reiner's shocking deaths, all eyes are on the Hollywood couple's children, especially middle child Nick.
+
+[2025-12-16 03:01:30](https://bsky.app/profile/usatoday.com/post/3ma27ndjjwh25)
 
 ---
 
