@@ -1,9 +1,9 @@
-# [2025-12-15 14:10 updated](2025_12_15.md)
+# [2025-12-15 14:30 updated](2025_12_15.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】総額100万円余りを横領 藤崎町が主事補の20代男性を懲戒免職処分に 横領した金は借金返済などに充てる 青森県 (2025-12-15 13:58:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7yuizuzx52v" target="_blank">sokuho.news</a> (2025-12-15 14:09:35)</span><span style="padding-right:50px;">経済産業省が１５日公表した１０月の第３次産業活動指数は１０５．８と、前月から０．９％上昇した。２カ月連続の上昇。 bit.ly/44VNzfW <a href="https://bsky.app/profile/japan.reuters.com/post/3m7yuhp2ffu2u" target="_blank">japan.reuters.com</a> (2025-12-15 14:08:50)</span><span style="padding-right:50px;">Prime Minister Anthony Albanese said authorities would do ‘whatever is necessary’ to protect the country’s Jewish community after the Hanukkah shooting in Sydney on.ft.com/4q1Gq5Y <a href="https://bsky.app/profile/financialtimes.com/post/3m7yuf7lbfy2v" target="_blank">financialtimes.com</a> (2025-12-15 14:07:26)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】北海道で「ドーム」の屋根がゆがむ…ケガ人なし_湿った雪で“着雪被害”が各地で相次ぐ_北海道は12月としては記録的な大雪〈北海道網走市〉 (2025-12-15 13:41) #ニュース  ❄️降雪量 🔗https://www.jma.go.jp/bosai/snow/#zoom:7/lat:43.06417/lon:141.34694/colordepth:normal/elements:snowf24h <a href="https://bsky.app/profile/sokuho.news/post/3m7yuc3ks2j2z" target="_blank">sokuho.news</a> (2025-12-15 14:05:41)</span><span style="padding-right:50px;">中国とサウジアラビアは１４日に外相会談を行い、地域・国際問題に関する意思疎通と連携を緊密化することで合意した。会談後の声明によると、中国は中東外交におけるサウジの役割を評価したという。 bit.ly/4iWNTRe <a href="https://bsky.app/profile/japan.reuters.com/post/3m7yub6semx2v" target="_blank">japan.reuters.com</a> (2025-12-15 14:05:11)</span>
+<span style="padding-right:50px;">日本人は「不幸せ」？　幸福度調査の順位が低いワケ www.nikkei.com/article/DGXZQO...  オックスフォード大などがまとめる「世界幸福度報告書」2025年版で、日本は147カ国・地域のうち55位に。世界4位の経済大国で、「健康寿命」も2位。  それでも低迷する幸福度の順位に、専門家は「当然の結果」と言い切ります。  （リンクに不備があったため、修正し再投稿しました） <a href="https://bsky.app/profile/nikkei.com/post/3m7yvmfefnc22" target="_blank">nikkei.com</a> (2025-12-15 14:29:21)</span><span style="padding-right:50px;">日銀は１５日、２０２６年度の賃上げスタンスの動向に関して、本支店を通じて得た情報によると、大半の支店で高い伸びとなった前年度並みとの回答だったと明らかにした。 bit.ly/4aNxblh <a href="https://bsky.app/profile/japan.reuters.com/post/3m7yvenuenh27" target="_blank">japan.reuters.com</a> (2025-12-15 14:25:02)</span><span style="padding-right:50px;">Breaking News: The actor and director Rob Reiner and his wife, Michele, have died. The police are investigating what they called an apparent homicide at their home. Follow live updates. <a href="https://bsky.app/profile/nytimes.com/post/3m7yvcybnea2b" target="_blank">nytimes.com</a> (2025-12-15 14:24:05)</span><span style="padding-right:50px;">「冬型の気圧配置」って? ニュースでよく聞くことば https://news.web.nhk/newsweb/na/na-k10015003491000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7yvcxhzru24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 14:24:01)</span><span style="padding-right:50px;">チリ大統領選 移民対策強化など掲げる右派のカスト氏 勝利宣言 https://news.web.nhk/newsweb/na/na-k10015004211000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7yv5mchr42b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 14:21:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50187.17 (🔻164.92 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3347.00 (🔺104.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.23 (🔻0.44 : 2025-12-15)</span>
+<span style="padding-right:50px;">NIKKEI: 50214.23 (🔻137.86 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3347.00 (🔺104.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.16 (🔻0.52 : 2025-12-15)</span>
   </div>
 </div>
 
@@ -32,41 +32,61 @@
 
 ## News Headlines
 
-ここから、ニュースの6つのタイトルを日本語で作成します。
-
-1. 藤崎町で主事補の20代男性を懲戒免職処分に
-2. 横領した金は借金返済などに充てる
-3. 経済産業省が公表した10月の第3次産業活動指数
-4. 北海道で「ドーム」の屋根がゆがむ…ケガ人なし
-5. 中国とサウジアラビアが地域・国際問題に関する意思疎通と連携を緊密化する
-6. 東京・赤坂で火事…30代くらいの男女2人が意識なし
+1.  147カ国・地域で日本は55位　「世界幸福度報告書」
+2.  日銀「賃上げスタンス」　大半の支店で高い伸びとなった前年並み
+3.  チリ大統領選　右派のカスト氏が勝利を宣言
+4.  北海道「ドーム」の屋根がゆがむ　湿った雪で着雪被害が相次ぐ
+5.  中国とサウジアラビア　外相会談　地域・国際問題に関する協力強化
+6.  米国とベネズエラの緊張　原油価格が4％下落
 
 ----
 
-@sokuho.news
+@nikkei.com
 
-🛎️JNNより【速報】です。
+日本人は「不幸せ」？　幸福度調査の順位が低いワケ
+www.nikkei.com/article/DGXZQO...
 
-【速報】総額100万円余りを横領 藤崎町が主事補の20代男性を懲戒免職処分に 横領した金は借金返済などに充てる 青森県
-(2025-12-15 13:58:00) #ニュース
+オックスフォード大などがまとめる「世界幸福度報告書」2025年版で、日本は147カ国・地域のうち55位に。世界4位の経済大国で、「健康寿命」も2位。
 
-[2025-12-15 14:09:35](https://bsky.app/profile/sokuho.news/post/3m7yuizuzx52v)
+それでも低迷する幸福度の順位に、専門家は「当然の結果」と言い切ります。
+
+（リンクに不備があったため、修正し再投稿しました）
+
+[2025-12-15 14:29:21](https://bsky.app/profile/nikkei.com/post/3m7yvmfefnc22)
 
 ---
 
 @japan.reuters.com
 
-経済産業省が１５日公表した１０月の第３次産業活動指数は１０５．８と、前月から０．９％上昇した。２カ月連続の上昇。 bit.ly/44VNzfW
+日銀は１５日、２０２６年度の賃上げスタンスの動向に関して、本支店を通じて得た情報によると、大半の支店で高い伸びとなった前年度並みとの回答だったと明らかにした。 bit.ly/4aNxblh
 
-[2025-12-15 14:08:50](https://bsky.app/profile/japan.reuters.com/post/3m7yuhp2ffu2u)
+[2025-12-15 14:25:02](https://bsky.app/profile/japan.reuters.com/post/3m7yvenuenh27)
 
 ---
 
-@financialtimes.com
+@nytimes.com
 
-Prime Minister Anthony Albanese said authorities would do ‘whatever is necessary’ to protect the country’s Jewish community after the Hanukkah shooting in Sydney on.ft.com/4q1Gq5Y
+<strong><span style="color: red;">Breaking News</span>: The actor and director Rob Reiner and his wife, Michele, have died. The police are investigating what they called an apparent homicide at their home. Follow live updates.</strong>
 
-[2025-12-15 14:07:26](https://bsky.app/profile/financialtimes.com/post/3m7yuf7lbfy2v)
+[2025-12-15 14:24:05](https://bsky.app/profile/nytimes.com/post/3m7yvcybnea2b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+「冬型の気圧配置」って? ニュースでよく聞くことば
+https://news.web.nhk/newsweb/na/na-k10015003491000
+
+[2025-12-15 14:24:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7yvcxhzru24)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+チリ大統領選 移民対策強化など掲げる右派のカスト氏 勝利宣言
+https://news.web.nhk/newsweb/na/na-k10015004211000
+
+[2025-12-15 14:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7yv5mchr42b)
 
 ---
 
@@ -74,71 +94,45 @@ Prime Minister Anthony Albanese said authorities would do ‘whatever is necessa
 
 🛎️FNNより【速報】です。
 
-【速報】北海道で「ドーム」の屋根がゆがむ…ケガ人なし_湿った雪で“着雪被害”が各地で相次ぐ_北海道は12月としては記録的な大雪〈北海道網走市〉
+【速報】北海道で「ドーム」の屋根がゆがむ…ケガ人なし_湿ったドカ雪で“着雪被害”が各地で相次ぐ_北海道は12月としては記録的な大雪〈北海道網走市〉
 (2025-12-15 13:41) #ニュース
 
 ❄️降雪量
 🔗https://www.jma.go.jp/bosai/snow/#zoom:7/lat:43.06417/lon:141.34694/colordepth:normal/elements:snowf24h
 
-[2025-12-15 14:05:41](https://bsky.app/profile/sokuho.news/post/3m7yuc3ks2j2z)
+[2025-12-15 14:20:43](https://bsky.app/profile/sokuho.news/post/3m7yv4x5cnj2y)
 
 ---
 
 @japan.reuters.com
 
-中国とサウジアラビアは１４日に外相会談を行い、地域・国際問題に関する意思疎通と連携を緊密化することで合意した。会談後の声明によると、中国は中東外交におけるサウジの役割を評価したという。 bit.ly/4iWNTRe
+中国・香港株式市場は反落して前場を終えた。一連の軟調な経済指標や、不動産開発大手、万科企業の債務不履行リスクの高まりが市場心理を圧迫した。 bit.ly/44sT9Gw
 
-[2025-12-15 14:05:11](https://bsky.app/profile/japan.reuters.com/post/3m7yub6semx2v)
+[2025-12-15 14:20:43](https://bsky.app/profile/japan.reuters.com/post/3m7yv4xmgvi2u)
+
+---
+
+@japan.reuters.com
+
+トランプ米大統領の攻撃的な政策は、経済構造や移民対策を変容させているだけではない。２０２８年の大統領選に向けて、野党民主党の有力州知事３人を勢いづかせるという皮肉な構図も生み出している。 bit.ly/3KIxJ1t
+
+[2025-12-15 14:20:11](https://bsky.app/profile/japan.reuters.com/post/3m7yv3yxbgq2u)
+
+---
+
+@reuters.com
+
+China's property investment falls 15.9% y/y in January-November reut.rs/499YyVr
+
+[2025-12-15 14:20:10](https://bsky.app/profile/reuters.com/post/3m7yv3y6wte2y)
 
 ---
 
 @financialtimes.com
 
-Bitcoin investor plans Caribbean community — with its own court system on.ft.com/4rVutR5
+ Labour’s re-election hopes rest on the private sector on.ft.com/3MA6k2d  | opinion
 
-[2025-12-15 14:04:25](https://bsky.app/profile/financialtimes.com/post/3m7yu7sha3v2o)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】総額100万円余りを横領 藤崎町が主事補の20代男性を懲戒免職処分に 青森県
-(2025-12-15 13:58:00) #ニュース
-
-[2025-12-15 14:03:03](https://bsky.app/profile/sokuho.news/post/3m7yu5esnkr2s)
-
----
-
-@cnn.com
-
-A JetBlue flight from the small Caribbean nation of Curaçao halted its ascent to avoid colliding with a US Air Force refueling tanker on Friday, and the pilot blamed the military plane for crossing his path. 
-
-[2025-12-15 14:02:01](https://bsky.app/profile/cnn.com/post/3m7yu3jq2v62t)
-
----
-
-@japan.reuters.com
-
-１５日アジア時間序盤の原油先物価格は、週間で４％下落した先週から持ち直している。米国とベネズエラの緊張激化への懸念が、根強い供給過剰懸念やロシアとウクライナの和平合意の可能性よりも意識された。 bit.ly/4s21X0g
-
-[2025-12-15 14:00:49](https://bsky.app/profile/japan.reuters.com/post/3m7ytze7uk72c)
-
----
-
-@nikkei.com
-
-難しい病気の診断、AIの方が得意な例も
-www.nikkei.com/article/DGXZQO...
-
-マイクロソフトの医療AIは5つのAIを組み合わせ、診断の正答率が8割以上と人間の約2割を大きく上回りました。
-
-非常にまれな血液がんであるエルドハイム・チェスター病など診断が困難な約300症例の正答率を、質問をしながら検査を選び病気の診断を下すという方法で調べました。
-
-ただ、一部の診断でAIが人間を上回ったとしても、患者が自分の体調をうまく話せない状況や細かな観察が必要な場面では、人間の医師の役割が求められています。
-
-[2025-12-15 14:00:48](https://bsky.app/profile/nikkei.com/post/3m7ytzdt3ra24)
+[2025-12-15 14:20:08](https://bsky.app/profile/financialtimes.com/post/3m7yv3viydx2q)
 
 ---
 
