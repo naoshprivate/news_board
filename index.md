@@ -1,9 +1,9 @@
-# [2025-12-15 16:30 updated](2025_12_15.md)
+# [2025-12-15 16:50 updated](2025_12_15.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">ＮＴＴの沢田純会長はロイターのインタビューに応じ、光技術を使った次世代通信基盤「ＩＯＷＮ（アイオン）」について、先端半導体の量産を目指す出資先のラピダス（東京都千代田区）への活用を模索する考えを示した。開発する半導体の独自性が強まり、日本のサプライチェーン（供給網）強化につながるとした。 bit.ly/4azQ6QP <a href="https://bsky.app/profile/japan.reuters.com/post/3m7z4c7vxq32q" target="_blank">japan.reuters.com</a> (2025-12-15 16:28:56)</span><span style="padding-right:50px;">株価 600円以上値下がり 半導体関連などの銘柄に売り注文 https://news.web.nhk/newsweb/na/na-k10015004131000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7z46w2mt52b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 16:27:03)</span><span style="padding-right:50px;">マンダムは１５日、第三者候補から非公開化に関する法的拘束力のない意向表明書を１０日付で受領したと発表した。株式の非公開化に向けた株式公開買い付け（ＴＯＢ）とスクイーズアウトの提案が含まれ、買い付け価格はカロンホールディングスによる既存の２５２０円を上回るレンジで示されているという。 bit.ly/4j15Puf <a href="https://bsky.app/profile/japan.reuters.com/post/3m7z46dh2ve2c" target="_blank">japan.reuters.com</a> (2025-12-15 16:26:46)</span><span style="padding-right:50px;">STMicro has shipped 5 billion chips for Starlink in past decade; that could double by 2027 reut.rs/4pK98sq <a href="https://bsky.app/profile/reuters.com/post/3m7z43hbrwu2r" target="_blank">reuters.com</a> (2025-12-15 16:25:09)</span><span style="padding-right:50px;">村上世彰氏ら、フジHD株3分の1まで買い増し通告　不動産再編拒めば www.nikkei.com/article/DGXZQO...  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m7z42dt4iv22" target="_blank">nikkei.com</a> (2025-12-15 16:24:32)</span>
+<span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】個室プライベートサウナ火災で重体の男女2人が死亡 東京・赤坂 (2025-12-15 16:46) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7z5bwqddh2z" target="_blank">sokuho.news</a> (2025-12-15 16:46:40)</span><span style="padding-right:50px;">Exclusive: 'For all I know, she could be dead' says son of Myanmar's Suu Kyi reut.rs/4agT24t <a href="https://bsky.app/profile/reuters.com/post/3m7z576iejt2i" target="_blank">reuters.com</a> (2025-12-15 16:45:07)</span><span style="padding-right:50px;">ロシア国防省は１５日、夜間にウクライナのドローン（無人機）１３０機を撃墜したと発表した。うち１５機がモスクワへ向かっていたという。 bit.ly/48YxozO <a href="https://bsky.app/profile/japan.reuters.com/post/3m7z55ell642q" target="_blank">japan.reuters.com</a> (2025-12-15 16:44:07)</span><span style="padding-right:50px;">CNBC Daily Open: U.S. stocks retreat from highs as Broadcom leads tech sell-off <a href="https://bsky.app/profile/cnbc.com/post/3m7z53ioqk424" target="_blank">cnbc.com</a> (2025-12-15 16:43:04)</span><span style="padding-right:50px;">自民党総裁選後に急激に進んだ円全面安の動きを受け、市場の一部で｢円安国患論｣が強まっている。国際競争力のあるモノ作りの拠点の多くが海外に流出して貿易赤字体質が定着しつつある近年の日本では、円安が進んでも昔ほどは輸出が伸びなくなっており、輸出競争力の向上による円安メリットは低減している。 bit.ly/48OFWJj <a href="https://bsky.app/profile/japan.reuters.com/post/3m7z53hcar42c" target="_blank">japan.reuters.com</a> (2025-12-15 16:43:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.21 (🔻0.47 : 2025-12-15)</span>
+<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.26 (🔻0.42 : 2025-12-15)</span>
   </div>
 </div>
 
@@ -32,96 +32,95 @@
 
 ## News Headlines
 
-1. NTTの沢田純会長がＩＯＷＮの開発にラピダスを活用する考え
-2. 株価600円以上値下がり　半導体関連銘柄に売り注文
-3. マンダムが株式非公開化に向けたＴＯＢで前月よりも高い価格で買い付け
-4. ステムイクロのStarlinkへのチップ供給が2027年までに倍増
-5. 村上世彰氏がフジHD株の議決権比率を33.3％まで引き上げ
-6. ドイツのQuantumDiamondsが新工場に152億ユーロを投資
+1.  東京・赤坂の個室プライベートサウナで火災　重体の男女２人死亡
+2.  ロシア、ウクライナドローン 130機撃墜　うち１５機はモスクワへ向かっていた
+3.  円安が進んでも昔ほどは輸出が伸びなく　輸出競争力の向上によるメリット低減
+4.  日経平均が反落　金融株はしっかり　TOPIXは史上最高値を更新
+5.  株価600円以上値下がり　半導体関連銘柄に売り注文
+6.  マンダム、株式非公開化に向けたTOBとスクイーズアウトの提案を発表
 
 ----
 
-@japan.reuters.com
+@sokuho.news
 
-ＮＴＴの沢田純会長はロイターのインタビューに応じ、光技術を使った次世代通信基盤「ＩＯＷＮ（アイオン）」について、先端半導体の量産を目指す出資先のラピダス（東京都千代田区）への活用を模索する考えを示した。開発する半導体の独自性が強まり、日本のサプライチェーン（供給網）強化につながるとした。 bit.ly/4azQ6QP
+🛎️FNNより【速報】です。
 
-[2025-12-15 16:28:56](https://bsky.app/profile/japan.reuters.com/post/3m7z4c7vxq32q)
+【速報】個室プライベートサウナ火災で重体の男女2人が死亡 東京・赤坂
+(2025-12-15 16:46) #ニュース
 
----
-
-@nhknewsunofficial.bsky.social
-
-株価 600円以上値下がり 半導体関連などの銘柄に売り注文
-https://news.web.nhk/newsweb/na/na-k10015004131000
-
-[2025-12-15 16:27:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7z46w2mt52b)
-
----
-
-@japan.reuters.com
-
-マンダムは１５日、第三者候補から非公開化に関する法的拘束力のない意向表明書を１０日付で受領したと発表した。株式の非公開化に向けた株式公開買い付け（ＴＯＢ）とスクイーズアウトの提案が含まれ、買い付け価格はカロンホールディングスによる既存の２５２０円を上回るレンジで示されているという。 bit.ly/4j15Puf
-
-[2025-12-15 16:26:46](https://bsky.app/profile/japan.reuters.com/post/3m7z46dh2ve2c)
+[2025-12-15 16:46:40](https://bsky.app/profile/sokuho.news/post/3m7z5bwqddh2z)
 
 ---
 
 @reuters.com
 
-STMicro has shipped 5 billion chips for Starlink in past decade; that could double by 2027 reut.rs/4pK98sq
+Exclusive: 'For all I know, she could be dead' says son of Myanmar's Suu Kyi reut.rs/4agT24t
 
-[2025-12-15 16:25:09](https://bsky.app/profile/reuters.com/post/3m7z43hbrwu2r)
-
----
-
-@nikkei.com
-
-村上世彰氏ら、フジHD株3分の1まで買い増し通告　不動産再編拒めば
-www.nikkei.com/article/DGXZQO...
-
-#ニュース
-
-[2025-12-15 16:24:32](https://bsky.app/profile/nikkei.com/post/3m7z42dt4iv22)
-
----
-
-@apnews.com
-
-Dense toxic smog blanketed India’s national capital Monday, pushing air pollution levels to their worst levels in weeks, disrupting travel and causing authorities to impose the strictest containment measures.
-
-[2025-12-15 16:22:20](https://bsky.app/profile/apnews.com/post/3m7z3wgnh3724)
+[2025-12-15 16:45:07](https://bsky.app/profile/reuters.com/post/3m7z576iejt2i)
 
 ---
 
 @japan.reuters.com
 
-１５日アジア時間序盤の原油先物価格は、週間で４％下落した先週から持ち直している。米国とベネズエラの緊張激化への懸念が、根強い供給過剰懸念やロシアとウクライナの和平合意の可能性よりも意識された。 bit.ly/3MA1KB8
+ロシア国防省は１５日、夜間にウクライナのドローン（無人機）１３０機を撃墜したと発表した。うち１５機がモスクワへ向かっていたという。 bit.ly/48YxozO
 
-[2025-12-15 16:20:17](https://bsky.app/profile/japan.reuters.com/post/3m7z3sre7u227)
+[2025-12-15 16:44:07](https://bsky.app/profile/japan.reuters.com/post/3m7z55ell642q)
+
+---
+
+@cnbc.com
+
+CNBC Daily Open: U.S. stocks retreat from highs as Broadcom leads tech sell-off
+
+[2025-12-15 16:43:04](https://bsky.app/profile/cnbc.com/post/3m7z53ioqk424)
 
 ---
 
 @japan.reuters.com
 
-東京株式市場で日経平均は反落し、前営業日比６６８円４４銭安の５万０１６８円１１銭で取引を終えた。前週末の米国市場でのハイテク株安や外為市場でのドル安／円高進行を受けて、主力株の下落が指数を押し下げた。一方、日銀の利上げへの思惑から金融株はしっかりとなり、ＴＯＰＩＸは史上最高値を更新した。 bit.ly/3YsFFHb
+自民党総裁選後に急激に進んだ円全面安の動きを受け、市場の一部で｢円安国患論｣が強まっている。国際競争力のあるモノ作りの拠点の多くが海外に流出して貿易赤字体質が定着しつつある近年の日本では、円安が進んでも昔ほどは輸出が伸びなくなっており、輸出競争力の向上による円安メリットは低減している。 bit.ly/48OFWJj
 
-[2025-12-15 16:20:04](https://bsky.app/profile/japan.reuters.com/post/3m7z3segos42c)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-What it would really take to stop Putin fighting in Ukraine
-
-[2025-12-15 16:18:07](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7z3ow4roj26)
+[2025-12-15 16:43:03](https://bsky.app/profile/japan.reuters.com/post/3m7z53hcar42c)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@japan.reuters.com
 
-Chile elects far-right José Antonio Kast as next president
+日本株の年末需給を巡って市場では「損益通算の売り」が上値を抑制しかねないとの見方が浮上している。全体市場が高パフォーマンスだった今年は、含み損を抱える「塩漬け」銘柄を整理するのに好都合との見方が背景にあり、パフォーマンスがさえなかったグロース株の一段の下押しが警戒されている。 bit.ly/4pBB2GG
 
-[2025-12-15 16:17:03](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7z3myrd2z2b)
+[2025-12-15 16:40:55](https://bsky.app/profile/japan.reuters.com/post/3m7z4xnzevj2q)
+
+---
+
+@reuters.com
+
+US squeeze on Venezuela oil won’t create global crunch reut.rs/44pemkK
+
+[2025-12-15 16:40:10](https://bsky.app/profile/reuters.com/post/3m7z4wcik2v2o)
+
+---
+
+@financialtimes.com
+
+EY investigated by UK watchdog over Shell audit on.ft.com/4rRJUtn
+
+[2025-12-15 16:39:15](https://bsky.app/profile/financialtimes.com/post/3m7z4unvclk2v)
+
+---
+
+@japan.reuters.com
+
+■レートは終値（前日比または前週末比）、安値─高値 bit.ly/4pIR2a4
+
+[2025-12-15 16:38:47](https://bsky.app/profile/japan.reuters.com/post/3m7z4ttlid525)
+
+---
+
+@reuters.com
+
+Saudi Arabia's annual inflation rate slows to 1.9% in November reut.rs/4j6qdKA
+
+[2025-12-15 16:35:07](https://bsky.app/profile/reuters.com/post/3m7z4nbmrvo2y)
 
 ---
 
