@@ -1,9 +1,9 @@
-# [2025-12-16 04:30 updated](2025_12_16.md)
+# [2025-12-16 04:50 updated](2025_12_16.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">How the Bondi Beach shooting unfolded <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma2ekmba2c2z" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-16 04:29:26)</span><span style="padding-right:50px;">Rob Reiner, who died Sunday at the age of 78 alongside his wife, Michele, had a career that was remarkable for its versatility. He played one of the most memorable sitcom roles on  “All in the Family,” before going on to direct a string of enduring movie classics. <a href="https://bsky.app/profile/nytimes.com/post/3ma2ejwp33k2z" target="_blank">nytimes.com</a> (2025-12-16 04:29:04)</span><span style="padding-right:50px;">How Your Private ChatGPT And Gemini Chats Are ‘Sold For Profit’ <a href="https://bsky.app/profile/forbes.com/post/3ma2ei2eu6s2q" target="_blank">forbes.com</a> (2025-12-16 04:28:01)</span><span style="padding-right:50px;">New York Approves Casino Sites—With Trump And Billionaire Steve Cohen Standing To Gain <a href="https://bsky.app/profile/forbes.com/post/3ma2egvvjp22q" target="_blank">forbes.com</a> (2025-12-16 04:27:23)</span><span style="padding-right:50px;">Phillips 66 raises 2026 capex plan to focus on expanding midstream, refining projects reut.rs/48HvPqY <a href="https://bsky.app/profile/reuters.com/post/3ma2ecxxfan24" target="_blank">reuters.com</a> (2025-12-16 04:25:11)</span>
+<span style="padding-right:50px;">Adaptive signs deal with Pfizer worth up to $890 million for rheumatoid arthritis research reut.rs/4acqqtc <a href="https://bsky.app/profile/reuters.com/post/3ma2fgxpxik2r" target="_blank">reuters.com</a> (2025-12-16 04:45:19)</span><span style="padding-right:50px;">“I’m not great at anything, but I’m real good at a lot of things,” said Rob Reiner, who died Dec. 14 at 78.  The older son of comic writer and performer Carl Reiner, he directed films including “The Princess Bride” and “When Harry Met Sally.”  <a href="https://bsky.app/profile/washingtonpost.com/post/3ma2fgisqzt24" target="_blank">washingtonpost.com</a> (2025-12-16 04:45:03)</span><span style="padding-right:50px;">Thousands of glaciers have vanished over the past few decades and as the world continues to heat up, they are expected to disappear at an increasing pace. New research gives a glimpse of just how quickly that might happen https://cnn.it/3XVvvPm <a href="https://bsky.app/profile/cnn.com/post/3ma2fcvwhtt2b" target="_blank">cnn.com</a> (2025-12-16 04:43:02)</span><span style="padding-right:50px;">The movie that made Rob Reiner’s career was a movie that absolutely nobody wanted him to make. <a href="https://bsky.app/profile/wsj.com/post/3ma2f6au2ed2i" target="_blank">wsj.com</a> (2025-12-16 04:40:26)</span><span style="padding-right:50px;">次期米連邦準備理事会（ＦＲＢ）議長の最有力候補とされる米ホワイトハウスの国家経済会議（ＮＥＣ）のハセット委員長に対し、トランプ大統領に近い筋から議長指名に対する反対意見が出ていることが分かった。ＣＮＢＣが１５日、関係筋の話として報じた。 bit.ly/4aBdIEH <a href="https://bsky.app/profile/japan.reuters.com/post/3ma2f666jpz2n" target="_blank">japan.reuters.com</a> (2025-12-16 04:40:23)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48385.07 (🔻209.29 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23098.57 (🔻231.47 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 177.16 (🔻0.78 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.39 (🔻0.29 : 2025-12-15)</span>
+<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48379.53 (🔻214.83 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23077.65 (🔻252.39 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.43 (🔻1.51 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.27 (🔻0.40 : 2025-12-15)</span>
   </div>
 </div>
 
@@ -34,94 +34,96 @@
 
 Here are six news headlines in English:
 
-1. Bondi Beach Shooting Leaves Two Dead, One in Custody
-2. UPS Sued for Alleged Shortchanging of Thousands of Seasonal Workers
-3. OpenAI Poaches Google Executive to Lead Corporate Development
-4. Ukraine Strikes Russian Oil Infrastructure for Third Time Amid Ongoing Conflict
-5. UPS Faces Lawsuit for Violating Labor Laws, Cheating Workers Out of Holiday Pay
-6. Ukraine and US Claim Progress Towards Peace Deal, But Divisions Persist
+1. Adaptive Signs Deal with Pfizer Worth Up to $890 Million for Rheumatoid Arthritis Research
+2. Thousands of Glaciers Disappearing at an Alarming Rate, New Research Warns
+3. Trump's National Economic Council Head Faces Opposition for Fed Chair Nomination
+4. New PayPal Email Warning: Beware of Paused Payment Attack
+5. US VA Plans to Eliminate Up to 35,000 Healthcare Positions This Month
+6. Stray Comet from Another Star to Swing Past Earth This Week
 
 ----
 
-@bbcnews-world-rss.bsky.social
-
-How the Bondi Beach shooting unfolded
-
-[2025-12-16 04:29:26](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma2ekmba2c2z)
-
----
-
-@nytimes.com
-
-Rob Reiner, who died Sunday at the age of 78 alongside his wife, Michele, had a career that was remarkable for its versatility. He played one of the most memorable sitcom roles on  “All in the Family,” before going on to direct a string of enduring movie classics.
-
-[2025-12-16 04:29:04](https://bsky.app/profile/nytimes.com/post/3ma2ejwp33k2z)
-
----
-
-@forbes.com
-
-How Your Private ChatGPT And Gemini Chats Are ‘Sold For Profit’
-
-[2025-12-16 04:28:01](https://bsky.app/profile/forbes.com/post/3ma2ei2eu6s2q)
-
----
-
-@forbes.com
-
-New York Approves Casino Sites—With Trump And Billionaire Steve Cohen Standing To Gain
-
-[2025-12-16 04:27:23](https://bsky.app/profile/forbes.com/post/3ma2egvvjp22q)
-
----
-
 @reuters.com
 
-Phillips 66 raises 2026 capex plan to focus on expanding midstream, refining projects reut.rs/48HvPqY
+Adaptive signs deal with Pfizer worth up to $890 million for rheumatoid arthritis research reut.rs/4acqqtc
 
-[2025-12-16 04:25:11](https://bsky.app/profile/reuters.com/post/3ma2ecxxfan24)
-
----
-
-@npr.org
-
-Kansas City will host six World Cup matches next summer including reigning champion Argentina, as will Algeria, Austria, Curaçao, Ecuador, the Netherlands and Tunisia. Kansas Citians with ties to the nations are counting down the days until their teams come to their adopted city.
-
-[2025-12-16 04:24:54](https://bsky.app/profile/npr.org/post/3ma2echkf4t24)
+[2025-12-16 04:45:19](https://bsky.app/profile/reuters.com/post/3ma2fgxpxik2r)
 
 ---
 
-@cnbc.com
+@washingtonpost.com
 
-Why Wall Street and Jim Cramer think Danaher stock is 'ready to go for a romp'
+“I’m not great at anything, but I’m real good at a lot of things,” said Rob Reiner, who died Dec. 14 at 78.
 
-[2025-12-16 04:24:26](https://bsky.app/profile/cnbc.com/post/3ma2ebmok3p23)
+The older son of comic writer and performer Carl Reiner, he directed films including “The Princess Bride” and “When Harry Met Sally.” 
+
+[2025-12-16 04:45:03](https://bsky.app/profile/washingtonpost.com/post/3ma2fgisqzt24)
+
+---
+
+@cnn.com
+
+Thousands of glaciers have vanished over the past few decades and as the world continues to heat up, they are expected to disappear at an increasing pace. New research gives a glimpse of just how quickly that might happen https://cnn.it/3XVvvPm
+
+[2025-12-16 04:43:02](https://bsky.app/profile/cnn.com/post/3ma2fcvwhtt2b)
 
 ---
 
 @wsj.com
 
-The United Parcel Service has been hit with a lawsuit for allegedly shortchanging thousands of seasonal delivery workers.
+The movie that made Rob Reiner’s career was a movie that absolutely nobody wanted him to make.
 
-[2025-12-16 04:22:28](https://bsky.app/profile/wsj.com/post/3ma2e64juna2r)
+[2025-12-16 04:40:26](https://bsky.app/profile/wsj.com/post/3ma2f6au2ed2i)
 
 ---
 
 @japan.reuters.com
 
-ウクライナ大統領府は１５日、ゼレンスキー大統領と、トランプ米大統領の特使団との会談が終了したことを明らかにした。ゼレンスキー氏はこれより先、Ｘへの投稿で「現在、外交交渉の過程で多くの作業が進行中だ」と述べていたものの、詳細は明らかにしていなかった。 bit.ly/4pXPb1r
+次期米連邦準備理事会（ＦＲＢ）議長の最有力候補とされる米ホワイトハウスの国家経済会議（ＮＥＣ）のハセット委員長に対し、トランプ大統領に近い筋から議長指名に対する反対意見が出ていることが分かった。ＣＮＢＣが１５日、関係筋の話として報じた。 bit.ly/4aBdIEH
 
-[2025-12-16 04:20:35](https://bsky.app/profile/japan.reuters.com/post/3ma2e2qrzj62q)
+[2025-12-16 04:40:23](https://bsky.app/profile/japan.reuters.com/post/3ma2f666jpz2n)
 
 ---
 
-@cbsnews.com
+@reuters.com
 
-A stray comet from another star swings past Earth this week in one last hurrah before racing back toward interstellar space.
+Immunome reports 'knockout' late-stage study results for rare tumor drug reut.rs/4pQ0uZ6
 
+[2025-12-16 04:40:20](https://bsky.app/profile/reuters.com/post/3ma2f63ighh2p)
 
+---
 
-[2025-12-16 04:20:00](https://bsky.app/profile/cbsnews.com/post/3ma2dzpt7vz2f)
+@forbes.com
+
+If Telegram Is On Your iPhone Or Android Phone, Secure Your Account Now
+
+[2025-12-16 04:36:43](https://bsky.app/profile/forbes.com/post/3ma2exlm4ds2o)
+
+---
+
+@forbes.com
+
+Critical Amazon Kindle Hack Confirmed — What You Need To Know
+www.forbes.com/sites/daveyw... (Photo: SOPA Images/LightRocket via Getty Images)
+
+[2025-12-16 04:36:28](https://bsky.app/profile/forbes.com/post/3ma2ex5m3gk2o)
+
+---
+
+@reuters.com
+
+Fortuna Mining eyes mid-tier gold assets as it works to regain output target reut.rs/3N2XLNq
+
+[2025-12-16 04:35:13](https://bsky.app/profile/reuters.com/post/3ma2euvvaek2r)
+
+---
+
+@forbes.com
+
+Google Gmail Warning—Do Not Lose Your Account To New Attack
+www.forbes.com/sites/zakdof... (Photo: dpa/picture alliance via Getty Images)
+
+[2025-12-16 04:34:51](https://bsky.app/profile/forbes.com/post/3ma2euaqasc2o)
 
 ---
 
