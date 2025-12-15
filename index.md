@@ -1,9 +1,9 @@
-# [2025-12-15 17:10 updated](2025_12_15.md)
+# [2025-12-15 17:30 updated](2025_12_15.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】個室プライベートサウナ火災で重体の男女2人が死亡 東京・赤坂 (2025-12-15 16:46) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7z5bwqddh2z" target="_blank">sokuho.news</a> (2025-12-15 16:46:40)</span><span style="padding-right:50px;">Exclusive: 'For all I know, she could be dead' says son of Myanmar's Suu Kyi reut.rs/4agT24t <a href="https://bsky.app/profile/reuters.com/post/3m7z576iejt2i" target="_blank">reuters.com</a> (2025-12-15 16:45:07)</span><span style="padding-right:50px;">ロシア国防省は１５日、夜間にウクライナのドローン（無人機）１３０機を撃墜したと発表した。うち１５機がモスクワへ向かっていたという。 bit.ly/48YxozO <a href="https://bsky.app/profile/japan.reuters.com/post/3m7z55ell642q" target="_blank">japan.reuters.com</a> (2025-12-15 16:44:07)</span><span style="padding-right:50px;">CNBC Daily Open: U.S. stocks retreat from highs as Broadcom leads tech sell-off <a href="https://bsky.app/profile/cnbc.com/post/3m7z53ioqk424" target="_blank">cnbc.com</a> (2025-12-15 16:43:04)</span><span style="padding-right:50px;">自民党総裁選後に急激に進んだ円全面安の動きを受け、市場の一部で｢円安国患論｣が強まっている。国際競争力のあるモノ作りの拠点の多くが海外に流出して貿易赤字体質が定着しつつある近年の日本では、円安が進んでも昔ほどは輸出が伸びなくなっており、輸出競争力の向上による円安メリットは低減している。 bit.ly/48OFWJj <a href="https://bsky.app/profile/japan.reuters.com/post/3m7z53hcar42c" target="_blank">japan.reuters.com</a> (2025-12-15 16:43:03)</span>
+<span style="padding-right:50px;">高市首相 定数削減 “連立合意を尊重し実現へ努力”参院予算委 https://news.web.nhk/newsweb/na/na-k10015004311000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7z7k6m3kz2d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 17:27:02)</span><span style="padding-right:50px;">From Breakingviews - Breakingviews - Hottest 2026 board member? Artie Fishlin Telijentz reut.rs/3YtOmB4 <a href="https://bsky.app/profile/reuters.com/post/3m7z7gsuiqg2y" target="_blank">reuters.com</a> (2025-12-15 17:25:11)</span><span style="padding-right:50px;">パプアニューギニアのピーター・シアマリリ情報通信技術相代理は１２日、米ＩＴ大手アルファベット傘下のグーグルが同国に海底ケーブルを３本敷設すると発表した。同国のデジタル基盤を強化するのが狙いで、相互防衛条約に基づいてオーストラリアが建設にかかる１億２０００万ドルを提供する。 bit.ly/497YEwV <a href="https://bsky.app/profile/japan.reuters.com/post/3m7z7gqqee42n" target="_blank">japan.reuters.com</a> (2025-12-15 17:25:09)</span><span style="padding-right:50px;">中国国家医療保障局は来年から出産にかかる自己負担を公費で全額負担する方針を発表した。出産を後押しし人口減少に歯止めをかけたい考えだ。 bit.ly/3XYImAa <a href="https://bsky.app/profile/japan.reuters.com/post/3m7z7g7yb7l2u" target="_blank">japan.reuters.com</a> (2025-12-15 17:24:52)</span><span style="padding-right:50px;">Exclusive: With her health failing and an information vacuum around Myanmar's detained former leader Aung San Suu Kyi, her son worries that he may not even know if she passed away reut.rs/3KQP0FJ <a href="https://bsky.app/profile/reuters.com/post/3m7z7fsyzns2j" target="_blank">reuters.com</a> (2025-12-15 17:24:38)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.21 (🔻0.46 : 2025-12-15)</span>
+<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.19 (🔻0.48 : 2025-12-15)</span>
   </div>
 </div>
 
@@ -32,95 +32,108 @@
 
 ## News Headlines
 
-1. 2人死亡　個室プライベートサウナ火災　東京・赤坂
-2. ロシア「ウクライナドローン130機撃墜」　うち15機はモスクワへ
-3. 円安国患論　市場で強まる
-4. 年末需給を巡る市場の注意点　損益通算の売りが上値を抑える
-5. 米国はベネズエラ石油への圧力を減らす
-6. NTT　次世代通信基盤「ＩＯＷＮ」　ラピダスへの活用を模索
+1. 
+高市首相 定数削減 “連立合意を尊重し実現へ努力”参院予算委
+
+2. 
+From Breakingviews - Breakingviews - Hottest 2026 board member? Artie Fishlin Telijentz
+
+3. 
+パプアニューギニア、グーグルが海底ケーブル3本敷設へ
+
+4. 
+中国、出産にかかる自己負担を全額公費で負担する方針
+
+5. 
+ロシア、ウクライナのドローン130機を撃墜　うち15機がモスクワへ
+
+6. 
+日銀　大企業・製造業の業況判断指数が4年ぶりの高水準
 
 ----
+
+@nhknewsunofficial.bsky.social
+
+高市首相 定数削減 “連立合意を尊重し実現へ努力”参院予算委
+https://news.web.nhk/newsweb/na/na-k10015004311000
+
+[2025-12-15 17:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7z7k6m3kz2d)
+
+---
+
+@reuters.com
+
+From Breakingviews - Breakingviews - Hottest 2026 board member? Artie Fishlin Telijentz reut.rs/3YtOmB4
+
+[2025-12-15 17:25:11](https://bsky.app/profile/reuters.com/post/3m7z7gsuiqg2y)
+
+---
+
+@japan.reuters.com
+
+パプアニューギニアのピーター・シアマリリ情報通信技術相代理は１２日、米ＩＴ大手アルファベット傘下のグーグルが同国に海底ケーブルを３本敷設すると発表した。同国のデジタル基盤を強化するのが狙いで、相互防衛条約に基づいてオーストラリアが建設にかかる１億２０００万ドルを提供する。 bit.ly/497YEwV
+
+[2025-12-15 17:25:09](https://bsky.app/profile/japan.reuters.com/post/3m7z7gqqee42n)
+
+---
+
+@japan.reuters.com
+
+中国国家医療保障局は来年から出産にかかる自己負担を公費で全額負担する方針を発表した。出産を後押しし人口減少に歯止めをかけたい考えだ。 bit.ly/3XYImAa
+
+[2025-12-15 17:24:52](https://bsky.app/profile/japan.reuters.com/post/3m7z7g7yb7l2u)
+
+---
+
+@reuters.com
+
+Exclusive: With her health failing and an information vacuum around Myanmar's detained former leader Aung San Suu Kyi, her son worries that he may not even know if she passed away reut.rs/3KQP0FJ
+
+[2025-12-15 17:24:38](https://bsky.app/profile/reuters.com/post/3m7z7fsyzns2j)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+東京 赤坂のサウナで火事 意識不明だった男女2人が死亡
+https://news.web.nhk/newsweb/na/na-k10015004261000
+
+[2025-12-15 17:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7z77gxsmb2v)
+
+---
+
+@japan.reuters.com
+
+中国国家統計局が１５日発表した粗鋼生産は前月比３％減の６９８７万トンと、単月としては２０２３年１２月以来の低水準となった。 bit.ly/44rsQAs
+
+[2025-12-15 17:20:11](https://bsky.app/profile/japan.reuters.com/post/3m7z75ulakh2c)
+
+---
+
+@sokuho.news
+
+<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>東京 赤坂のサウナで火事 意識不明だった男女2人が死亡</strong><br><strong>(2025-12-15 17:19:07) #ニュース</strong>
+
+[2025-12-15 17:19:33](https://bsky.app/profile/sokuho.news/post/3m7z74pxdoa2r)
+
+---
 
 @sokuho.news
 
 🛎️FNNより【速報】です。
 
-【速報】個室プライベートサウナ火災で重体の男女2人が死亡 東京・赤坂
-(2025-12-15 16:46) #ニュース
+【速報】福岡刺傷事件 逮捕の男は“アイドルイベント常連客”か「出待ちしているような男がいる」 男性の顔面にスプレー吹きかけ刺した疑いも
+(2025-12-15 17:05) #ニュース
 
-[2025-12-15 16:46:40](https://bsky.app/profile/sokuho.news/post/3m7z5bwqddh2z)
-
----
-
-@reuters.com
-
-Exclusive: 'For all I know, she could be dead' says son of Myanmar's Suu Kyi reut.rs/4agT24t
-
-[2025-12-15 16:45:07](https://bsky.app/profile/reuters.com/post/3m7z576iejt2i)
+[2025-12-15 17:15:56](https://bsky.app/profile/sokuho.news/post/3m7z6wbu6qr2e)
 
 ---
 
 @japan.reuters.com
 
-ロシア国防省は１５日、夜間にウクライナのドローン（無人機）１３０機を撃墜したと発表した。うち１５機がモスクワへ向かっていたという。 bit.ly/48YxozO
+中国の王毅共産党政治局員兼外相は保護主義と単独主義の台頭が喫緊の課題と指摘し、湾岸協力会議（ＧＣＣ）に対し、中国との自由貿易協定（ＦＴＡ）を巡る協議を妥結させるよう促した。中国外務省が１５日発表した。 bit.ly/3KwFozV
 
-[2025-12-15 16:44:07](https://bsky.app/profile/japan.reuters.com/post/3m7z55ell642q)
-
----
-
-@cnbc.com
-
-CNBC Daily Open: U.S. stocks retreat from highs as Broadcom leads tech sell-off
-
-[2025-12-15 16:43:04](https://bsky.app/profile/cnbc.com/post/3m7z53ioqk424)
-
----
-
-@japan.reuters.com
-
-自民党総裁選後に急激に進んだ円全面安の動きを受け、市場の一部で｢円安国患論｣が強まっている。国際競争力のあるモノ作りの拠点の多くが海外に流出して貿易赤字体質が定着しつつある近年の日本では、円安が進んでも昔ほどは輸出が伸びなくなっており、輸出競争力の向上による円安メリットは低減している。 bit.ly/48OFWJj
-
-[2025-12-15 16:43:03](https://bsky.app/profile/japan.reuters.com/post/3m7z53hcar42c)
-
----
-
-@japan.reuters.com
-
-日本株の年末需給を巡って市場では「損益通算の売り」が上値を抑制しかねないとの見方が浮上している。全体市場が高パフォーマンスだった今年は、含み損を抱える「塩漬け」銘柄を整理するのに好都合との見方が背景にあり、パフォーマンスがさえなかったグロース株の一段の下押しが警戒されている。 bit.ly/4pBB2GG
-
-[2025-12-15 16:40:55](https://bsky.app/profile/japan.reuters.com/post/3m7z4xnzevj2q)
-
----
-
-@reuters.com
-
-US squeeze on Venezuela oil won’t create global crunch reut.rs/44pemkK
-
-[2025-12-15 16:40:10](https://bsky.app/profile/reuters.com/post/3m7z4wcik2v2o)
-
----
-
-@financialtimes.com
-
-EY investigated by UK watchdog over Shell audit on.ft.com/4rRJUtn
-
-[2025-12-15 16:39:15](https://bsky.app/profile/financialtimes.com/post/3m7z4unvclk2v)
-
----
-
-@japan.reuters.com
-
-■レートは終値（前日比または前週末比）、安値─高値 bit.ly/4pIR2a4
-
-[2025-12-15 16:38:47](https://bsky.app/profile/japan.reuters.com/post/3m7z4ttlid525)
-
----
-
-@reuters.com
-
-Saudi Arabia's annual inflation rate slows to 1.9% in November reut.rs/4j6qdKA
-
-[2025-12-15 16:35:07](https://bsky.app/profile/reuters.com/post/3m7z4nbmrvo2y)
+[2025-12-15 17:15:14](https://bsky.app/profile/japan.reuters.com/post/3m7z6uyqj4b2p)
 
 ---
 
