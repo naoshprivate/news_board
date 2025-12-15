@@ -1,9 +1,9 @@
-# [2025-12-16 04:10 updated](2025_12_16.md)
+# [2025-12-16 04:30 updated](2025_12_16.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Ukraine strikes Russian oil infrastructure in Caspian Sea for third time, source says reut.rs/44xUxYu <a href="https://bsky.app/profile/reuters.com/post/3ma2d77olt72s" target="_blank">reuters.com</a> (2025-12-16 04:05:11)</span><span style="padding-right:50px;">Humans tend to trust their intuitions over rational calculation. Can artificial intelligence help us overcome cognitive biases? on.wsj.com/4qaBITu <a href="https://bsky.app/profile/wsj.com/post/3ma2d5rxlzy2u" target="_blank">wsj.com</a> (2025-12-16 04:04:23)</span><span style="padding-right:50px;">This gold ETF is resuming its upward trajectory. Here are the levels to watch, per Katie Stockton <a href="https://bsky.app/profile/cnbc.com/post/3ma2d5gv5zc2m" target="_blank">cnbc.com</a> (2025-12-16 04:04:11)</span><span style="padding-right:50px;">Ukraine peace talks progressing, Russia open to EU membership, U.S. officials say <a href="https://bsky.app/profile/cnbc.com/post/3ma2d2wyea72e" target="_blank">cnbc.com</a> (2025-12-16 04:02:48)</span><span style="padding-right:50px;">Miners support TSX as inflation steadies reut.rs/4pK252M <a href="https://bsky.app/profile/reuters.com/post/3ma2cy7oaje2i" target="_blank">reuters.com</a> (2025-12-16 04:01:16)</span>
+<span style="padding-right:50px;">How the Bondi Beach shooting unfolded <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma2ekmba2c2z" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-16 04:29:26)</span><span style="padding-right:50px;">Rob Reiner, who died Sunday at the age of 78 alongside his wife, Michele, had a career that was remarkable for its versatility. He played one of the most memorable sitcom roles on  “All in the Family,” before going on to direct a string of enduring movie classics. <a href="https://bsky.app/profile/nytimes.com/post/3ma2ejwp33k2z" target="_blank">nytimes.com</a> (2025-12-16 04:29:04)</span><span style="padding-right:50px;">How Your Private ChatGPT And Gemini Chats Are ‘Sold For Profit’ <a href="https://bsky.app/profile/forbes.com/post/3ma2ei2eu6s2q" target="_blank">forbes.com</a> (2025-12-16 04:28:01)</span><span style="padding-right:50px;">New York Approves Casino Sites—With Trump And Billionaire Steve Cohen Standing To Gain <a href="https://bsky.app/profile/forbes.com/post/3ma2egvvjp22q" target="_blank">forbes.com</a> (2025-12-16 04:27:23)</span><span style="padding-right:50px;">Phillips 66 raises 2026 capex plan to focus on expanding midstream, refining projects reut.rs/48HvPqY <a href="https://bsky.app/profile/reuters.com/post/3ma2ecxxfan24" target="_blank">reuters.com</a> (2025-12-16 04:25:11)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48362.87 (🔻231.49 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23110.14 (🔻219.90 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 177.35 (🔻0.59 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.36 (🔻0.31 : 2025-12-15)</span>
+<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48385.07 (🔻209.29 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23098.57 (🔻231.47 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 177.16 (🔻0.78 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.39 (🔻0.29 : 2025-12-15)</span>
   </div>
 </div>
 
@@ -32,94 +32,96 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are six news headlines in English:
 
-1. Ukraine Strikes Russian Oil Infrastructure for Third Time
-2. Can AI Help Humans Overcome Cognitive Biases?
-3. US Pledges to Protect Ukraine from Future Russian Attack
-4. Satellite Images Show Ongoing Demolitions in Gaza, Violating Geneva Convention
-5. iRobot to be Taken Over by Chinese Supplier, Assuring Device Continuity
-6. FDA Considers Rule Change to Reduce Dietary Supplement Warnings
+1. Bondi Beach Shooting Leaves Two Dead, One in Custody
+2. UPS Sued for Alleged Shortchanging of Thousands of Seasonal Workers
+3. OpenAI Poaches Google Executive to Lead Corporate Development
+4. Ukraine Strikes Russian Oil Infrastructure for Third Time Amid Ongoing Conflict
+5. UPS Faces Lawsuit for Violating Labor Laws, Cheating Workers Out of Holiday Pay
+6. Ukraine and US Claim Progress Towards Peace Deal, But Divisions Persist
 
 ----
 
+@bbcnews-world-rss.bsky.social
+
+How the Bondi Beach shooting unfolded
+
+[2025-12-16 04:29:26](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma2ekmba2c2z)
+
+---
+
+@nytimes.com
+
+Rob Reiner, who died Sunday at the age of 78 alongside his wife, Michele, had a career that was remarkable for its versatility. He played one of the most memorable sitcom roles on  “All in the Family,” before going on to direct a string of enduring movie classics.
+
+[2025-12-16 04:29:04](https://bsky.app/profile/nytimes.com/post/3ma2ejwp33k2z)
+
+---
+
+@forbes.com
+
+How Your Private ChatGPT And Gemini Chats Are ‘Sold For Profit’
+
+[2025-12-16 04:28:01](https://bsky.app/profile/forbes.com/post/3ma2ei2eu6s2q)
+
+---
+
+@forbes.com
+
+New York Approves Casino Sites—With Trump And Billionaire Steve Cohen Standing To Gain
+
+[2025-12-16 04:27:23](https://bsky.app/profile/forbes.com/post/3ma2egvvjp22q)
+
+---
+
 @reuters.com
 
-Ukraine strikes Russian oil infrastructure in Caspian Sea for third time, source says reut.rs/44xUxYu
+Phillips 66 raises 2026 capex plan to focus on expanding midstream, refining projects reut.rs/48HvPqY
 
-[2025-12-16 04:05:11](https://bsky.app/profile/reuters.com/post/3ma2d77olt72s)
+[2025-12-16 04:25:11](https://bsky.app/profile/reuters.com/post/3ma2ecxxfan24)
+
+---
+
+@npr.org
+
+Kansas City will host six World Cup matches next summer including reigning champion Argentina, as will Algeria, Austria, Curaçao, Ecuador, the Netherlands and Tunisia. Kansas Citians with ties to the nations are counting down the days until their teams come to their adopted city.
+
+[2025-12-16 04:24:54](https://bsky.app/profile/npr.org/post/3ma2echkf4t24)
+
+---
+
+@cnbc.com
+
+Why Wall Street and Jim Cramer think Danaher stock is 'ready to go for a romp'
+
+[2025-12-16 04:24:26](https://bsky.app/profile/cnbc.com/post/3ma2ebmok3p23)
 
 ---
 
 @wsj.com
 
-Humans tend to trust their intuitions over rational calculation. Can artificial intelligence help us overcome cognitive biases? on.wsj.com/4qaBITu
+The United Parcel Service has been hit with a lawsuit for allegedly shortchanging thousands of seasonal delivery workers.
 
-[2025-12-16 04:04:23](https://bsky.app/profile/wsj.com/post/3ma2d5rxlzy2u)
-
----
-
-@cnbc.com
-
-This gold ETF is resuming its upward trajectory. Here are the levels to watch, per Katie Stockton
-
-[2025-12-16 04:04:11](https://bsky.app/profile/cnbc.com/post/3ma2d5gv5zc2m)
+[2025-12-16 04:22:28](https://bsky.app/profile/wsj.com/post/3ma2e64juna2r)
 
 ---
 
-@cnbc.com
+@japan.reuters.com
 
-Ukraine peace talks progressing, Russia open to EU membership, U.S. officials say
+ウクライナ大統領府は１５日、ゼレンスキー大統領と、トランプ米大統領の特使団との会談が終了したことを明らかにした。ゼレンスキー氏はこれより先、Ｘへの投稿で「現在、外交交渉の過程で多くの作業が進行中だ」と述べていたものの、詳細は明らかにしていなかった。 bit.ly/4pXPb1r
 
-[2025-12-16 04:02:48](https://bsky.app/profile/cnbc.com/post/3ma2d2wyea72e)
-
----
-
-@reuters.com
-
-Miners support TSX as inflation steadies reut.rs/4pK252M
-
-[2025-12-16 04:01:16](https://bsky.app/profile/reuters.com/post/3ma2cy7oaje2i)
+[2025-12-16 04:20:35](https://bsky.app/profile/japan.reuters.com/post/3ma2e2qrzj62q)
 
 ---
 
-@apnews.com
+@cbsnews.com
 
-Police say the younger son of Rob Reiner, Nick Reiner, was taken into custody Monday after the deaths of the director-actor and his wife Michele at their home in Los Angeles.
+A stray comet from another star swings past Earth this week in one last hurrah before racing back toward interstellar space.
 
-[2025-12-16 04:01:12](https://bsky.app/profile/apnews.com/post/3ma2cy3it6l23)
 
----
 
-@cnbc.com
-
-"My research has inspired me to rethink how I should live my life," says Ken Stern, author of "Healthy to 100: How Strong Social Ties Lead to Long Lives."
-
-[2025-12-16 04:00:55](https://bsky.app/profile/cnbc.com/post/3ma2cxlf3pc2p)
-
----
-
-@nbcnews.com
-
-Rhode Island residents mourn the victims of a deadly shooting at Brown University.
-
-[2025-12-16 04:00:35](https://bsky.app/profile/nbcnews.com/post/3ma2cwycnep2k)
-
----
-
-@washingtonpost.com
-
-Analysis: New supersized data centers sprouting across the country are starting to transform landscapes and communities, sparking debates about what our energy systems and environment can sustain.
-
-[2025-12-16 04:00:19](https://bsky.app/profile/washingtonpost.com/post/3ma2cwj5tcn2g)
-
----
-
-@financialtimes.com
-
-Ukraine and US claim progress towards peace deal but divisions persist on.ft.com/3MCtgxQ
-
-[2025-12-16 04:00:13](https://bsky.app/profile/financialtimes.com/post/3ma2cwdotsv2k)
+[2025-12-16 04:20:00](https://bsky.app/profile/cbsnews.com/post/3ma2dzpt7vz2f)
 
 ---
 
