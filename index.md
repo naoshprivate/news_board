@@ -1,9 +1,9 @@
-# [2025-12-16 00:50 updated](2025_12_16.md)
+# [2025-12-16 01:10 updated](2025_12_16.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Iranian Nobel Peace Prize winner Narges Mohammadi was taken to hospital twice after being violently arrested last week, her supporters said on Monday, following a telephone call with the campaigner that raised concerns about her physical condition ➡️ u.afp.com/S7zq <a href="https://bsky.app/profile/en.afp.com/post/3m7zy6o7zgi2s" target="_blank">en.afp.com</a> (2025-12-16 00:48:02)</span><span style="padding-right:50px;">Italy crafts lab-grown snacks with fruit residues, plant cells and a 3D printer reut.rs/4pHitkG <a href="https://bsky.app/profile/reuters.com/post/3m7zxzmzqlp2r" target="_blank">reuters.com</a> (2025-12-16 00:45:13)</span><span style="padding-right:50px;">Russia declared the punk band Pussy Riot an extremist organization on Monday, according to a lawyer for the group. <a href="https://bsky.app/profile/bloomberg.com/post/3m7zxy6acpi2h" target="_blank">bloomberg.com</a> (2025-12-16 00:44:23)</span><span style="padding-right:50px;">Fed decisions distorted by ‘phantom inflation’, says Stephen Miran on.ft.com/49bEqT0 <a href="https://bsky.app/profile/financialtimes.com/post/3m7zxxzfpaq2o" target="_blank">financialtimes.com</a> (2025-12-16 00:44:18)</span><span style="padding-right:50px;">Some of the nation's largest restaurants boast of decades-long survival through economic downturns, stiffer competition, and changing American palates. And we still love them anyway. Why? n.pr/49aJo2e <a href="https://bsky.app/profile/npr.org/post/3m7zxtw324p2e" target="_blank">npr.org</a> (2025-12-16 00:42:01)</span>
+<span style="padding-right:50px;">Breaking news: Nick Reiner, the 32-year-old son of filmmaker Rob Reiner and photographer Michele Singer Reiner, is in custody after the apparent homicide of his parents, who were found dead Sunday afternoon at their Los Angeles home. <a href="https://bsky.app/profile/washingtonpost.com/post/3m7zzepltxb24" target="_blank">washingtonpost.com</a> (2025-12-16 01:09:18)</span><span style="padding-right:50px;">Argentine football superstar Lionel Messi ended his whirlwind tour of India on Monday with a lap of honour in New Delhi, thrilling thousands of fans and thanking them for "all the love and support" ➡️ u.afp.com/S7zf <a href="https://bsky.app/profile/en.afp.com/post/3m7zzchu2uj2q" target="_blank">en.afp.com</a> (2025-12-16 01:08:03)</span><span style="padding-right:50px;">Trusted information, freely accessible to all. That’s the promise of the NPR Network. No paywalls, no agenda — just the context and coverage you need.  Keep this essential service available for yourself and the next generation. Donate here to keep public media free: n.pr/4pCcFIx <a href="https://bsky.app/profile/npr.org/post/3m7zz7qgsxk24" target="_blank">npr.org</a> (2025-12-16 01:06:31)</span><span style="padding-right:50px;">Donald Trump, who previously admitted he had 'never heard' of Nvidia or its chief executive, defied opposition within his own Maga coalition by allowing the company to sell its H200 chips to China. on.ft.com/3KItlzv <a href="https://bsky.app/profile/financialtimes.com/post/3m7zz5ti6gw23" target="_blank">financialtimes.com</a> (2025-12-16 01:05:27)</span><span style="padding-right:50px;">Spain fines Airbnb $75 million for unlicensed rental listings reut.rs/4iXhkTx <a href="https://bsky.app/profile/reuters.com/post/3m7zz5ebahp2r" target="_blank">reuters.com</a> (2025-12-16 01:05:11)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48465.43 (🔻128.93 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23143.68 (🔻186.36 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 177.30 (🔻0.64 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 154.93 (🔻0.75 : 2025-12-15)</span>
+<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48413.18 (🔻181.18 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23144.96 (🔻185.08 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 177.65 (🔻0.28 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.19 (🔻0.48 : 2025-12-15)</span>
   </div>
 </div>
 
@@ -32,95 +32,96 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are six selected news stories with headlines:
 
-1. Iranian Activist Narges Mohammadi Hospitalized After Violent Arrest
-2. Russia Declares Punk Band Pussy Riot an Extremist Organization
-3. Australia Tightens Gun Laws After Worst Mass Shooting in Decades
-4. China's AI Toys Bring Hugs and Hesitation Among Parents
-5. India Bans Premium Basmati Rice Exports to US Amid Trade Dispute
-6. YouTube Experiences Login and Playback Issues, Blames Technical Glitches
+1. Son of Hollywood Director Rob Reiner Arrested in Connection with Parents' Deaths
+2. Argentina's Lionel Messi Ends Tour of India with Lap of Honour
+3. Airbnb Fined $75 Million by Spanish Regulators for Unlicensed Rental Listings
+4. White House Unveils New AI-Focused Tech Force Initiative
+5. Islamic State Group Explores Use of Artificial Intelligence for Recruitment and Operations
+6. Chile Elects Most Right-Wing President in a Generation
 
 ----
 
+@washingtonpost.com
+
+<strong><span style="color: red;">Breaking news:</span> Nick Reiner, the 32-year-old son of filmmaker Rob Reiner and photographer Michele Singer Reiner, is in custody after the apparent homicide of his parents, who were found dead Sunday afternoon at their Los Angeles home.</strong>
+
+[2025-12-16 01:09:18](https://bsky.app/profile/washingtonpost.com/post/3m7zzepltxb24)
+
+---
+
 @en.afp.com
 
-Iranian Nobel Peace Prize winner Narges Mohammadi was taken to hospital twice after being violently arrested last week, her supporters said on Monday, following a telephone call with the campaigner that raised concerns about her physical condition ➡️ u.afp.com/S7zq
+Argentine football superstar Lionel Messi ended his whirlwind tour of India on Monday with a lap of honour in New Delhi, thrilling thousands of fans and thanking them for "all the love and support" ➡️ u.afp.com/S7zf
 
-[2025-12-16 00:48:02](https://bsky.app/profile/en.afp.com/post/3m7zy6o7zgi2s)
-
----
-
-@reuters.com
-
-Italy crafts lab-grown snacks with fruit residues, plant cells and a 3D printer reut.rs/4pHitkG
-
-[2025-12-16 00:45:13](https://bsky.app/profile/reuters.com/post/3m7zxzmzqlp2r)
-
----
-
-@bloomberg.com
-
-Russia declared the punk band Pussy Riot an extremist organization on Monday, according to a lawyer for the group.
-
-[2025-12-16 00:44:23](https://bsky.app/profile/bloomberg.com/post/3m7zxy6acpi2h)
-
----
-
-@financialtimes.com
-
-Fed decisions distorted by ‘phantom inflation’, says Stephen Miran on.ft.com/49bEqT0
-
-[2025-12-16 00:44:18](https://bsky.app/profile/financialtimes.com/post/3m7zxxzfpaq2o)
+[2025-12-16 01:08:03](https://bsky.app/profile/en.afp.com/post/3m7zzchu2uj2q)
 
 ---
 
 @npr.org
 
-Some of the nation's largest restaurants boast of decades-long survival through economic downturns, stiffer competition, and changing American palates. And we still love them anyway. Why? n.pr/49aJo2e
+Trusted information, freely accessible to all. That’s the promise of the NPR Network. No paywalls, no agenda — just the context and coverage you need.
 
-[2025-12-16 00:42:01](https://bsky.app/profile/npr.org/post/3m7zxtw324p2e)
+Keep this essential service available for yourself and the next generation. Donate here to keep public media free: n.pr/4pCcFIx
+
+[2025-12-16 01:06:31](https://bsky.app/profile/npr.org/post/3m7zz7qgsxk24)
+
+---
+
+@financialtimes.com
+
+Donald Trump, who previously admitted he had 'never heard' of Nvidia or its chief executive, defied opposition within his own Maga coalition by allowing the company to sell its H200 chips to China. on.ft.com/3KItlzv
+
+[2025-12-16 01:05:27](https://bsky.app/profile/financialtimes.com/post/3m7zz5ti6gw23)
 
 ---
 
 @reuters.com
 
-Toluca sink Tigres 9-8 on penalties to win Mexico's Apertura title reut.rs/44rT8m9
+Spain fines Airbnb $75 million for unlicensed rental listings reut.rs/4iXhkTx
 
-[2025-12-16 00:40:19](https://bsky.app/profile/reuters.com/post/3m7zxquxijp2r)
-
----
-
-@nbcnews.com
-
-A year ago, President Trump visited this site to make the point that he was attuned to everyday people who felt overlooked in the Joe Biden-Kamala Harris economy. These days, it’s Trump who’s in danger of appearing out of touch.
-
-[2025-12-16 00:40:08](https://bsky.app/profile/nbcnews.com/post/3m7zxqk4lhk24)
+[2025-12-16 01:05:11](https://bsky.app/profile/reuters.com/post/3m7zz5ebahp2r)
 
 ---
 
-@forbes.com
+@axios.com
 
-Reiner and his wife were found dead in an apparent homicide Sunday that Trump claims was related to the actor’s dislike of the president. 
+The White House today unveiled a new AI-focused "Tech Force," in an apparent attempt to pick up the pieces after  Musk's DOGE swept through the federal government and wiped out existing tech expertise.
 
-[2025-12-16 00:40:03](https://bsky.app/profile/forbes.com/post/3m7zxqgj2pb2w)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【詳細】ロシア ウクライナに軍事侵攻（12月15日の動き）
-https://news.web.nhk/newsweb/na/na-k10014990611000
-
-[2025-12-16 00:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zxoocbge2b)
+[2025-12-16 01:04:46](https://bsky.app/profile/axios.com/post/3m7zz4mketc2r)
 
 ---
 
-@reuters.com
+@financialtimes.com
 
-‘Saviour’ Joshua to pummel Paul for the good of the sport reut.rs/4iVdGcC
+ The politics of the Nobel Prize on.ft.com/4pDZeIH  | opinion
 
-[2025-12-16 00:35:09](https://bsky.app/profile/reuters.com/post/3m7zxhnfg2m2y)
+[2025-12-16 01:04:36](https://bsky.app/profile/financialtimes.com/post/3m7zz4clwfz2k)
+
+---
+
+@wsj.com
+
+Nick Reiner, the son of Rob Reiner, has been arrested. The Hollywood director and his wife, Michele, were found dead in Los Angeles on Sunday.
+
+[2025-12-16 01:03:26](https://bsky.app/profile/wsj.com/post/3m7zz27rw2d2q)
+
+---
+
+@japan.reuters.com
+
+米連邦準備理事会（ＦＲＢ）のミラン理事は１５日、ＦＲＢの２％目標を上回る現行のインフレ率は、根本的な需給動向を反映していないとの認識を示した。「物価は再び安定している」とし、実際の物価上昇率は目標に近い水準で推移しているとした。 bit.ly/44wd8UF
+
+[2025-12-16 01:03:13](https://bsky.app/profile/japan.reuters.com/post/3m7zyztqpet2s)
+
+---
+
+@apnews.com
+
+The Islamic State group and other militant organizations are experimenting with artificial intelligence as a tool to boost recruitment and refine their operations.
+
+[2025-12-16 01:01:11](https://bsky.app/profile/apnews.com/post/3m7zyw7i5oo2k)
 
 ---
 
