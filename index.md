@@ -1,9 +1,9 @@
-# [2025-12-15 19:50 updated](2025_12_15.md)
+# [2025-12-15 20:10 updated](2025_12_15.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】JR博多駅近くで「人が刺されている」と通報 交番訪れた30代の男を現行犯逮捕 刃物を所持か 福岡 (2025-12-15 19:45) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7zhdqa55m27" target="_blank">sokuho.news</a> (2025-12-15 19:46:38)</span><span style="padding-right:50px;">China strongly dissatisfied with criticism over court verdict on Jimmy Lai reut.rs/3MK4s6Z <a href="https://bsky.app/profile/reuters.com/post/3m7zhb6vhne2i" target="_blank">reuters.com</a> (2025-12-15 19:45:13)</span><span style="padding-right:50px;">後発地震注意情報 認知度や行動変化は 研究チームがアンケート https://news.web.nhk/newsweb/na/na-k10015004681000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zhawl35p2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 19:45:02)</span><span style="padding-right:50px;">オーストラリアは過去３０年で最悪の銃乱射事件を受けて、銃規制を強化する方針を示した。 bit.ly/44puhPV <a href="https://bsky.app/profile/japan.reuters.com/post/3m7zhaj74dc2c" target="_blank">japan.reuters.com</a> (2025-12-15 19:44:50)</span><span style="padding-right:50px;">今月8日の地震による青森県のけが人 15日時点で29人に https://news.web.nhk/newsweb/na/na-k10015004751000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zh3pqme32s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 19:42:07)</span>
+<span style="padding-right:50px;">Israel’s PM Netanyahu heralded Ahmed al-Ahmed for showing “Jewish heroism” before learning the Bondi Beach “hero” is Muslim.    🔴 LIVE updates: aje.io/th4zuo <a href="https://bsky.app/profile/aljazeera.com/post/3m7zik43mds2w" target="_blank">aljazeera.com</a> (2025-12-15 20:08:05)</span><span style="padding-right:50px;">介護保険サービス“支払い能力に応じた負担検討すべき”厚労省 https://news.web.nhk/newsweb/na/na-k10015004711000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zigipvb72b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 20:06:02)</span><span style="padding-right:50px;">中国が金融システムの安定に向けて進めてきた小規模銀行の再編が試練に直面している。８兆ドル規模の小規模銀行の経営リスク回避を目的に、ハイペースで統合を推進してきたが、最近合併した銀行の多くはこの１年間に利益が減少し資本バッファーが縮小したことが、ロイターのデータ分析で明らかになった。 bit.ly/3MK6nsd <a href="https://bsky.app/profile/japan.reuters.com/post/3m7zif65uxo2c" target="_blank">japan.reuters.com</a> (2025-12-15 20:05:20)</span><span style="padding-right:50px;">UK's Hikma CEO steps down, chairman takes helm until successor appointed reut.rs/3XR3SH7 <a href="https://bsky.app/profile/reuters.com/post/3m7ziesdfnu24" target="_blank">reuters.com</a> (2025-12-15 20:05:07)</span><span style="padding-right:50px;">韓国の特別検察官は１５日、尹錫悦前大統領が２０２４年１２月の戒厳令布告を正当化し、政敵を排除するために、北朝鮮を挑発して武力侵攻させようとしたと発表した。６カ月に及ぶ捜査の結果、これまでに尹氏と５人の閣僚を含む２４人を内乱罪で起訴したと説明した。 bit.ly/3MK1Rdg <a href="https://bsky.app/profile/japan.reuters.com/post/3m7zi6oszbp2p" target="_blank">japan.reuters.com</a> (2025-12-15 20:01:42)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.11 (🔻0.57 : 2025-12-15)</span>
+<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.08 (🔻0.60 : 2025-12-15)</span>
   </div>
 </div>
 
@@ -32,101 +32,103 @@
 
 ## News Headlines
 
-1. JR博多駅近くで「人が刺されている」
-2. 「副首都」の狙いと課題　多極分散、要件やコストで賛否
-3. 福岡 2人刺傷事件 “容疑者はアイドルのイベントの常連客”
-4. 中国国家医療保障局は来年から出産にかかる自己負担を公費で全額負担する
-5. シドニー銃撃事件　豪首相銃規制強化に取り組む方針
-6. Chile選挙　右派候補が大勝
+1. 介護保険サービス“支払い能力に応じた負担検討すべき”厚労省
+2. 小規模銀行の再編、経営リスク回避を目指して
+3. 韓国・尹錫悦前大統領、戒厳令布告を正当化し政敵排除を狙ったと発表
+4. オーストラリアが銃規制を強化する方針を示す
+5. 産経新聞が報じた「博多駅付近で70代男性刺される」事件で30代の男を現行犯逮捕
+6. 米連邦最高裁判所、トランプ大統領によるFRB理事解任訴訟の口頭弁論を来年1月21日に開く
 
 ----
 
-@sokuho.news
+@aljazeera.com
 
-🛎️FNNより【速報】です。
+Israel’s PM Netanyahu heralded Ahmed al-Ahmed for showing “Jewish heroism” before learning the Bondi Beach “hero” is Muslim.  
 
-【速報】JR博多駅近くで「人が刺されている」と通報 交番訪れた30代の男を現行犯逮捕 刃物を所持か 福岡
-(2025-12-15 19:45) #ニュース
+🔴 LIVE updates: aje.io/th4zuo
 
-[2025-12-15 19:46:38](https://bsky.app/profile/sokuho.news/post/3m7zhdqa55m27)
-
----
-
-@reuters.com
-
-China strongly dissatisfied with criticism over court verdict on Jimmy Lai reut.rs/3MK4s6Z
-
-[2025-12-15 19:45:13](https://bsky.app/profile/reuters.com/post/3m7zhb6vhne2i)
+[2025-12-15 20:08:05](https://bsky.app/profile/aljazeera.com/post/3m7zik43mds2w)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-後発地震注意情報 認知度や行動変化は 研究チームがアンケート
-https://news.web.nhk/newsweb/na/na-k10015004681000
+介護保険サービス“支払い能力に応じた負担検討すべき”厚労省
+https://news.web.nhk/newsweb/na/na-k10015004711000
 
-[2025-12-15 19:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zhawl35p2v)
+[2025-12-15 20:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zigipvb72b)
 
 ---
 
 @japan.reuters.com
 
-オーストラリアは過去３０年で最悪の銃乱射事件を受けて、銃規制を強化する方針を示した。 bit.ly/44puhPV
+中国が金融システムの安定に向けて進めてきた小規模銀行の再編が試練に直面している。８兆ドル規模の小規模銀行の経営リスク回避を目的に、ハイペースで統合を推進してきたが、最近合併した銀行の多くはこの１年間に利益が減少し資本バッファーが縮小したことが、ロイターのデータ分析で明らかになった。 bit.ly/3MK6nsd
 
-[2025-12-15 19:44:50](https://bsky.app/profile/japan.reuters.com/post/3m7zhaj74dc2c)
-
----
-
-@nhknewsunofficial.bsky.social
-
-今月8日の地震による青森県のけが人 15日時点で29人に
-https://news.web.nhk/newsweb/na/na-k10015004751000
-
-[2025-12-15 19:42:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zh3pqme32s)
+[2025-12-15 20:05:20](https://bsky.app/profile/japan.reuters.com/post/3m7zif65uxo2c)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@reuters.com
 
-北海道で大雪や猛吹雪 交通影響に注意を 16日も風強い見込み
-https://news.web.nhk/newsweb/na/na-k10015003851000
+UK's Hikma CEO steps down, chairman takes helm until successor appointed reut.rs/3XR3SH7
 
-[2025-12-15 19:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zh3lnosn2k)
+[2025-12-15 20:05:07](https://bsky.app/profile/reuters.com/post/3m7ziesdfnu24)
 
 ---
 
 @japan.reuters.com
 
-串カツ田中ホールディングスは１５日、坂本壽男社長ＣＥＯ（最高経営責任者）から一身上の都合で辞任したいとの届け出が取締役会にあり、受理したと発表した。１６日付で坂本氏が退任し、創業者の貫啓二会長が社長を兼務する。 bit.ly/4pB5ssB
+韓国の特別検察官は１５日、尹錫悦前大統領が２０２４年１２月の戒厳令布告を正当化し、政敵を排除するために、北朝鮮を挑発して武力侵攻させようとしたと発表した。６カ月に及ぶ捜査の結果、これまでに尹氏と５人の閣僚を含む２４人を内乱罪で起訴したと説明した。 bit.ly/3MK1Rdg
 
-[2025-12-15 19:40:19](https://bsky.app/profile/japan.reuters.com/post/3m7zgyh2nd52q)
-
----
-
-@reuters.com
-
-No 'out-of-pocket expenses' for childbirth in China from 2026 reut.rs/4qfywWR
-
-[2025-12-15 19:40:12](https://bsky.app/profile/reuters.com/post/3m7zgyanqv42s)
+[2025-12-15 20:01:42](https://bsky.app/profile/japan.reuters.com/post/3m7zi6oszbp2p)
 
 ---
 
 @reuters.com
 
-From celebration to massacre: How a Hanukkah festival at Bondi Beach became the scene of Australia's deadliest mass shooting in years. 
+South African rand gains as gold shines and investors eye year's final economic data reut.rs/3MZCmoo
 
-Reuters interviewed witnesses, analyzed video footage and reviewed police statements to reconstruct the attack reut.rs/48RNU4r
-
-[2025-12-15 19:39:29](https://bsky.app/profile/reuters.com/post/3m7zgwwyatk2d)
+[2025-12-15 20:01:25](https://bsky.app/profile/reuters.com/post/3m7zi66frpd2k)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@washingtonpost.com
 
-太陽光発電設備 工事前に第三者機関が安全性確認の案 経産省
-https://news.web.nhk/newsweb/na/na-k10015004701000
+Money stuff can be complicated. But it’s crucial knowledge that will help you better protect yourself.
 
-[2025-12-15 19:39:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zgwacitv2b)
+See how much you know with our 10-question investing quiz: 
+
+[2025-12-15 20:01:01](https://bsky.app/profile/washingtonpost.com/post/3m7zi5hbjjh2e)
+
+---
+
+@nikkei.com
+
+【生成AI普及でESが均質化】
+ロート製薬、新卒採用の書類選考を廃止（無料記事）
+www.nikkei.com/article/DGXZQO...
+
+代わりに人事担当者との15分間の対話による選考「Entry Meet（エントリーミート）」を導入。
+
+その後に複数回の面接やグループワークを経て内定を出します。
+
+[2025-12-15 20:00:51](https://bsky.app/profile/nikkei.com/post/3m7zi5655632m)
+
+---
+
+@bloomberg.com
+
+Finland’s Neste is scaling back some of its climate targets and doesn’t expect to stop using crude at its only oil refinery by 2035 as previously guided
+
+[2025-12-15 20:00:30](https://bsky.app/profile/bloomberg.com/post/3m7zi4jgk5u24)
+
+---
+
+@wsj.com
+
+For the first time in decades, German businesses and politicians are questioning the unfettered free trade that turned the country into an industrial powerhouse.
+
+[2025-12-15 20:00:09](https://bsky.app/profile/wsj.com/post/3m7zi3vzvua2u)
 
 ---
 
