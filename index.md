@@ -1,9 +1,9 @@
-# [2025-12-16 05:10 updated](2025_12_16.md)
+# [2025-12-16 05:30 updated](2025_12_16.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">エコカー減税 2年延長へ 燃費基準は厳格化の方針 政府・与党 https://news.web.nhk/newsweb/na/na-k10015004831000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma2grhpues2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 05:09:02)</span><span style="padding-right:50px;">週明けロンドン株式市場は上昇して取引を終えた。イングランド銀行（英中央銀行）が１８日に利下げを決めるとの期待が、投資家心理を支えた。中型株で構成するＦＴＳＥ２５０種指数は０．７９％上昇した。 bit.ly/4aihkep <a href="https://bsky.app/profile/japan.reuters.com/post/3ma2gpvismm25" target="_blank">japan.reuters.com</a> (2025-12-16 05:08:12)</span><span style="padding-right:50px;">BREAKING: Police release video they say shows a person of interest in the Brown University shooting. <a href="https://bsky.app/profile/cbsnews.com/post/3ma2gomjbmm2l" target="_blank">cbsnews.com</a> (2025-12-16 05:07:29)</span><span style="padding-right:50px;">Ukraine’s security service claimed responsibility for a first-of-its kind 'special operation' that it said critically damaged a Russian submarine in an important naval hub on Russia’s Black Sea coast. on.ft.com/3Y03t58 <a href="https://bsky.app/profile/financialtimes.com/post/3ma2gkxnwob2w" target="_blank">financialtimes.com</a> (2025-12-16 05:05:26)</span><span style="padding-right:50px;">Spotify largely back up after outage affects thousands worldwide, Downdetector shows reut.rs/4ao5uQ9 <a href="https://bsky.app/profile/reuters.com/post/3ma2gkhsifx2i" target="_blank">reuters.com</a> (2025-12-16 05:05:10)</span>
+<span style="padding-right:50px;">FDA Commissioner Martin Makary discusses vaccine policy, COVID-era decisions and the erosion of trust in government health guidance. n.pr/4sdT0B4 <a href="https://bsky.app/profile/npr.org/post/3ma2hv3u7zq2e" target="_blank">npr.org</a> (2025-12-16 05:29:00)</span><span style="padding-right:50px;">欧州各国の首脳は１５日、ウクライナのロシアに対する領土譲歩の可能性に関するいかなる決定も、欧州主導の多国籍軍を含む強力な安全保障体制が確立された場合にのみ行うことができるという点で合意したと発表した。 bit.ly/3MNX0b3 <a href="https://bsky.app/profile/japan.reuters.com/post/3ma2hqe3zin2q" target="_blank">japan.reuters.com</a> (2025-12-16 05:26:21)</span><span style="padding-right:50px;">US government launches campaign to hire engineers for AI, tech roles reut.rs/4iU90DO <a href="https://bsky.app/profile/reuters.com/post/3ma2hob6mil23" target="_blank">reuters.com</a> (2025-12-16 05:25:11)</span><span style="padding-right:50px;">福岡 2人刺傷事件 容疑者のかばんから催涙スプレーなど押収 https://news.web.nhk/newsweb/na/na-k10015004941000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma2hmb2uva2x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 05:24:01)</span><span style="padding-right:50px;">東京 足立区 暴走死傷事故 パトカー追跡中に3回赤信号を無視か https://news.web.nhk/newsweb/na/na-k10015004801000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma2hgw4ef522" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 05:21:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48440.02 (🔻154.34 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23101.43 (🔻228.61 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.76 (🔻1.17 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.24 (🔻0.44 : 2025-12-15)</span>
+<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48434.67 (🔻159.69 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23081.75 (🔻248.29 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.35 (🔻1.59 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.25 (🔻0.42 : 2025-12-15)</span>
   </div>
 </div>
 
@@ -32,95 +32,101 @@
 
 ## News Headlines
 
-Here are six selected headlines in English:
+Here are six important stories with headlines:
 
-1. UK Government to Extend Eco-Car Tax Relief for 2 Years, Tighten Fuel Standards
-2. London Stock Market Rises as Investors Expect Rate Cut by Bank of England
-3. Ukraine Claims Responsibility for Damaging Russian Submarine in Black Sea
-4. Spotify Service Mostly Restored After Global Outage Affects Thousands
-5. Australian Officials Identify Father and Son as Suspects in Bondi Beach Shooting
-6. Thousands of Glaciers Vanish in Recent Decades as Global Warming Accelerates
+1. European Leaders Agree to Only Consider Ukraine Territory Concessions with Strong Security Measures in Place
+2. US Government Launches Campaign to Hire Engineers for AI and Tech Roles
+3. Ghana Bans Mining in Forest Reserves to Curb Environmental Damage
+4. Rob Reiner, Acclaimed Film Director, Found Dead in LA Home
+5. US Death Penalty Cases Plummet as Public Support Hits 50-Year Low
+6. Ukraine's Security Service Claims Responsibility for Damaging Russian Submarine
 
 ----
 
-@nhknewsunofficial.bsky.social
+@npr.org
 
-エコカー減税 2年延長へ 燃費基準は厳格化の方針 政府・与党
-https://news.web.nhk/newsweb/na/na-k10015004831000
+FDA Commissioner Martin Makary discusses vaccine policy, COVID-era decisions and the erosion of trust in government health guidance. n.pr/4sdT0B4
 
-[2025-12-16 05:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma2grhpues2u)
+[2025-12-16 05:29:00](https://bsky.app/profile/npr.org/post/3ma2hv3u7zq2e)
 
 ---
 
 @japan.reuters.com
 
-週明けロンドン株式市場は上昇して取引を終えた。イングランド銀行（英中央銀行）が１８日に利下げを決めるとの期待が、投資家心理を支えた。中型株で構成するＦＴＳＥ２５０種指数は０．７９％上昇した。 bit.ly/4aihkep
+欧州各国の首脳は１５日、ウクライナのロシアに対する領土譲歩の可能性に関するいかなる決定も、欧州主導の多国籍軍を含む強力な安全保障体制が確立された場合にのみ行うことができるという点で合意したと発表した。 bit.ly/3MNX0b3
 
-[2025-12-16 05:08:12](https://bsky.app/profile/japan.reuters.com/post/3ma2gpvismm25)
-
----
-
-@cbsnews.com
-
-<strong><span style="color: red;">BREAKING:</span> Police release video they say shows a person of interest in the Brown University shooting.</strong>
-
-[2025-12-16 05:07:29](https://bsky.app/profile/cbsnews.com/post/3ma2gomjbmm2l)
-
----
-
-@financialtimes.com
-
-Ukraine’s security service claimed responsibility for a first-of-its kind 'special operation' that it said critically damaged a Russian submarine in an important naval hub on Russia’s Black Sea coast. on.ft.com/3Y03t58
-
-[2025-12-16 05:05:26](https://bsky.app/profile/financialtimes.com/post/3ma2gkxnwob2w)
+[2025-12-16 05:26:21](https://bsky.app/profile/japan.reuters.com/post/3ma2hqe3zin2q)
 
 ---
 
 @reuters.com
 
-Spotify largely back up after outage affects thousands worldwide, Downdetector shows reut.rs/4ao5uQ9
+US government launches campaign to hire engineers for AI, tech roles reut.rs/4iU90DO
 
-[2025-12-16 05:05:10](https://bsky.app/profile/reuters.com/post/3ma2gkhsifx2i)
-
----
-
-@cnbc.com
-
-Former Instacart employee says she was fired over her Democratic congressional campaign
-
-[2025-12-16 05:04:57](https://bsky.app/profile/cnbc.com/post/3ma2gk36rdl24)
+[2025-12-16 05:25:11](https://bsky.app/profile/reuters.com/post/3ma2hob6mil23)
 
 ---
 
-@axios.com
+@nhknewsunofficial.bsky.social
 
-Here's what to know about Rob Reiner's political involvement, and his comments about Trump and Charlie Kirk.
+福岡 2人刺傷事件 容疑者のかばんから催涙スプレーなど押収
+https://news.web.nhk/newsweb/na/na-k10015004941000
 
-[2025-12-16 05:03:24](https://bsky.app/profile/axios.com/post/3ma2ghchr522l)
-
----
-
-@cnbc.com
-
-AI infrastructure selloff continues on Wall Street as Broadcom, Oracle shares slide
-
-[2025-12-16 05:02:46](https://bsky.app/profile/cnbc.com/post/3ma2gg6cng42y)
+[2025-12-16 05:24:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma2hmb2uva2x)
 
 ---
 
-@apnews.com
+@nhknewsunofficial.bsky.social
 
-British pop star Cliff Richard has been given the all-clear after treatment for prostate cancer.
+東京 足立区 暴走死傷事故 パトカー追跡中に3回赤信号を無視か
+https://news.web.nhk/newsweb/na/na-k10015004801000
 
-[2025-12-16 05:01:37](https://bsky.app/profile/apnews.com/post/3ma2ge4kbn52q)
+[2025-12-16 05:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma2hgw4ef522)
 
 ---
 
 @japan.reuters.com
 
-米ニューヨーク連銀のウィリアムズ総裁は１５日、米連邦準備理事会（ＦＲＢ）が先週決定した利下げによって、今後の状況に対応できる態勢が整ったとし、雇用市場の冷え込みでインフレは鈍化するとの見方を示した。 bit.ly/4q3dqL8
+米連邦準備理事会（ＦＲＢ）のミラン理事は１５日、ＦＲＢの２％目標を上回る現行のインフレ率は、根本的な需給動向を反映していないとの認識を示した。「物価は再び安定している」とし、実際の物価上昇率は目標に近い水準で推移しているとした。 bit.ly/4pFfhGh
 
-[2025-12-16 05:01:24](https://bsky.app/profile/japan.reuters.com/post/3ma2gdq4d362c)
+[2025-12-16 05:20:24](https://bsky.app/profile/japan.reuters.com/post/3ma2hfpuo2s27)
+
+---
+
+@washingtonpost.com
+
+Providence police released a 19-second video showing a “person of interest” walking along a sidewalk.
+
+The video appears to have been recorded about 700 feet away from the hall where the shooting took place.
+
+More updates: 
+
+[2025-12-16 05:20:21](https://bsky.app/profile/washingtonpost.com/post/3ma2hfms3rv2e)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+自民 維新 きょう党首会談へ 定数削減の議論継続 確認の見通し
+https://news.web.nhk/newsweb/na/na-k10015004821000
+
+[2025-12-16 05:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma2hbkkgub24)
+
+---
+
+@reuters.com
+
+Citi investment head joins BlackRock to run $80 billion wealth assets portfolio reut.rs/4rVNu5I
+
+[2025-12-16 05:15:19](https://bsky.app/profile/reuters.com/post/3ma2h4n33rg2b)
+
+---
+
+@japan.reuters.com
+
+週明け欧州株式市場は反発して取引を終えた。米利下げへの期待などから投資家心理が改善。銀行株を中心に幅広い銘柄が上昇した。主要地域市場が上昇し、スペインのＩＢＥＸ指数は１．１１％高と、終値としての最高値を更新した。 bit.ly/3KvQl4M
+
+[2025-12-16 05:15:18](https://bsky.app/profile/japan.reuters.com/post/3ma2h4lipau2q)
 
 ---
 
