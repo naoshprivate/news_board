@@ -1,9 +1,9 @@
-# [2025-12-15 15:10 updated](2025_12_15.md)
+# [2025-12-15 15:30 updated](2025_12_15.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">企業・団体献金めぐる法案 採決で与野党折り合わず 協議続く https://news.web.nhk/newsweb/na/na-k10015004221000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7yxtgacmn2y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 15:09:02)</span><span style="padding-right:50px;">国際移住機関（ＩＯＭ）は１２日、パレスチナ自治区ガザの避難民数十万人が豪雨でテントやシェルターの浸水に直面する中で、避難所用の資材や土のうの搬入が許可されていないと発表した。 bit.ly/4pEmxlK <a href="https://bsky.app/profile/japan.reuters.com/post/3m7yxsfc7om2c" target="_blank">japan.reuters.com</a> (2025-12-15 15:08:30)</span><span style="padding-right:50px;">Wild currency swings put emerging markets in the spotlight reut.rs/3MD0H3h <a href="https://bsky.app/profile/reuters.com/post/3m7yxmf7hdr2p" target="_blank">reuters.com</a> (2025-12-15 15:05:08)</span><span style="padding-right:50px;">中盤の東南アジア株式市場の株価はおおむね上昇している。 bit.ly/3XUGVmk <a href="https://bsky.app/profile/japan.reuters.com/post/3m7yxip6nu62p" target="_blank">japan.reuters.com</a> (2025-12-15 15:03:05)</span><span style="padding-right:50px;">サツマイモが足りない　卸値12年で8割上昇 www.nikkei.com/article/DGXZQO...  農家の高齢化で生産が2割減った一方、2010年に品種登録されたしっとり系の「紅はるか」が人気に火を付けました。  サツマイモは品種が豊富でスイーツなど多様なメニューを提供でき、2025年の「やきいもフェス」東京会場には17万人が来場。  ニューヨークのカフェで「Yakiimo」や「Beniharuka」としてパフェに使われるなど、国内外で争奪戦が起きています。 <a href="https://bsky.app/profile/nikkei.com/post/3m7yxep7z7j2m" target="_blank">nikkei.com</a> (2025-12-15 15:00:50)</span>
+<span style="padding-right:50px;">午後３時のドル／円は、前週末ニューヨーク市場の終盤からドル安／円高の１５５円前半で取引されている。週明けで全般手掛かりに欠ける中、今週１９日に日銀金融政策決定会合を控え、持ち高調整的な円買いが先行したという。 bit.ly/4qboeXD <a href="https://bsky.app/profile/japan.reuters.com/post/3m7yyvlv7re26" target="_blank">japan.reuters.com</a> (2025-12-15 15:28:11)</span><span style="padding-right:50px;">Man Utd boss Amorim accepts criticism from former players reut.rs/44r8ZkV <a href="https://bsky.app/profile/reuters.com/post/3m7yyq6c26z24" target="_blank">reuters.com</a> (2025-12-15 15:25:09)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】軽乗用車が女性はねる 女性は死亡 糸満市の県道7号線 (2025-12-15 15:00:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7yymzcvgy2e" target="_blank">sokuho.news</a> (2025-12-15 15:23:23)</span><span style="padding-right:50px;">LIVE: People pay respects at Bondi Beach  Australians mourn the victims of the country’s worst gun violence in almost 30 years, placing flowers at Sydney's Bondi Beach where 15 people were killed at a Jewish celebration on December 14.  www.youtube.com/watch?v=ysYG... <a href="https://bsky.app/profile/reuters.com/post/3m7yylqvshk2j" target="_blank">reuters.com</a> (2025-12-15 15:22:41)</span><span style="padding-right:50px;">＜１５：０３＞　午後3時のドルは155円前半、持ち高調整の円買い先行 bit.ly/4j6kZys <a href="https://bsky.app/profile/japan.reuters.com/post/3m7yyhtt2k32q" target="_blank">japan.reuters.com</a> (2025-12-15 15:20:30)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50199.34 (🔻152.75 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3356.00 (🔺113.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.06 (🔻0.61 : 2025-12-15)</span>
+<span style="padding-right:50px;">NIKKEI: 50169.10 (🔻182.99 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3347.00 (🔺104.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 154.99 (🔻0.69 : 2025-12-15)</span>
   </div>
 </div>
 
@@ -32,107 +32,109 @@
 
 ## News Headlines
 
-ここでは、提供されたニュースから6つの重要な物語を選び、日本語の見出しを作成しました。
-
-1. 企業・団体献金めぐる法案　採決で与野党折り合わず協議続く
-2. ガザの避難民　避難所用資材の搬入許可がないと発表
-3. サツマイモ　卸値12年で8割上昇
-4. 車載の自動通報システムで消防覚知　仙台市で乗用車2台衝突
-5. 欧州連合　新車の内燃エンジン搭載販売を実質的に禁止する計画を撤回
-6. インド株式市場　海外資金の流出や対米貿易合意の不確実性から軟調に
+1. 午後３時のドル／円は１５５円前半
+2. 尹錫悦前大統領が北朝鮮を挑発した疑い
+3. 欧州委員会が2035年の内燃エンジン新車販売禁止計画を撤回
+4. 企業・団体献金めぐる法案採決で協議続く
+5. 中国の小規模銀行再編が厳しい状況にある
+6. 韓国特別検察官が尹錫悦前大統領を起訴
 
 ----
 
-@nhknewsunofficial.bsky.social
-
-企業・団体献金めぐる法案 採決で与野党折り合わず 協議続く
-https://news.web.nhk/newsweb/na/na-k10015004221000
-
-[2025-12-15 15:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7yxtgacmn2y)
-
----
-
 @japan.reuters.com
 
-国際移住機関（ＩＯＭ）は１２日、パレスチナ自治区ガザの避難民数十万人が豪雨でテントやシェルターの浸水に直面する中で、避難所用の資材や土のうの搬入が許可されていないと発表した。 bit.ly/4pEmxlK
+午後３時のドル／円は、前週末ニューヨーク市場の終盤からドル安／円高の１５５円前半で取引されている。週明けで全般手掛かりに欠ける中、今週１９日に日銀金融政策決定会合を控え、持ち高調整的な円買いが先行したという。 bit.ly/4qboeXD
 
-[2025-12-15 15:08:30](https://bsky.app/profile/japan.reuters.com/post/3m7yxsfc7om2c)
+[2025-12-15 15:28:11](https://bsky.app/profile/japan.reuters.com/post/3m7yyvlv7re26)
 
 ---
 
 @reuters.com
 
-Wild currency swings put emerging markets in the spotlight reut.rs/3MD0H3h
+Man Utd boss Amorim accepts criticism from former players reut.rs/44r8ZkV
 
-[2025-12-15 15:05:08](https://bsky.app/profile/reuters.com/post/3m7yxmf7hdr2p)
-
----
-
-@japan.reuters.com
-
-中盤の東南アジア株式市場の株価はおおむね上昇している。 bit.ly/3XUGVmk
-
-[2025-12-15 15:03:05](https://bsky.app/profile/japan.reuters.com/post/3m7yxip6nu62p)
-
----
-
-@nikkei.com
-
-サツマイモが足りない　卸値12年で8割上昇
-www.nikkei.com/article/DGXZQO...
-
-農家の高齢化で生産が2割減った一方、2010年に品種登録されたしっとり系の「紅はるか」が人気に火を付けました。
-
-サツマイモは品種が豊富でスイーツなど多様なメニューを提供でき、2025年の「やきいもフェス」東京会場には17万人が来場。
-
-ニューヨークのカフェで「Yakiimo」や「Beniharuka」としてパフェに使われるなど、国内外で争奪戦が起きています。
-
-[2025-12-15 15:00:50](https://bsky.app/profile/nikkei.com/post/3m7yxep7z7j2m)
+[2025-12-15 15:25:09](https://bsky.app/profile/reuters.com/post/3m7yyq6c26z24)
 
 ---
 
 @sokuho.news
 
-🛎️FNNより【速報】です。
+🛎️JNNより【速報】です。
 
-【速報】車載の自動通報システムで消防覚知 仙台市青葉区中山で乗用車2台衝突 4人けが
-(2025-12-15 14:55) #ニュース
+【速報】軽乗用車が女性はねる 女性は死亡 糸満市の県道7号線
+(2025-12-15 15:00:00) #ニュース
 
-[2025-12-15 15:00:49](https://bsky.app/profile/sokuho.news/post/3m7yxenx3532e)
+[2025-12-15 15:23:23](https://bsky.app/profile/sokuho.news/post/3m7yymzcvgy2e)
 
 ---
 
 @reuters.com
 
-Morning Bid: China's property pain sours year-end mood reut.rs/4j0h0U7
+LIVE: People pay respects at Bondi Beach
 
-[2025-12-15 15:00:34](https://bsky.app/profile/reuters.com/post/3m7yxe77ngq2i)
+Australians mourn the victims of the country’s worst gun violence in almost 30 years, placing flowers at Sydney's Bondi Beach where 15 people were killed at a Jewish celebration on December 14.
+
+www.youtube.com/watch?v=ysYG...
+
+[2025-12-15 15:22:41](https://bsky.app/profile/reuters.com/post/3m7yylqvshk2j)
 
 ---
 
 @japan.reuters.com
 
-欧州議会の最大会派である欧州人民党（ＥＰＰ）トップのマンフレッド・ウェーバー氏は１２日、欧州連合（ＥＵ）欧州委員会が２０３５年から内燃エンジン搭載の新車販売を実質的に禁止する計画を撤回すると明らかにした。自国の自動車メーカーを守るため計画の撤回を働きかけてきたドイツにとって大きな勝利となる。 bit.ly/4aOLu9e
+＜１５：０３＞　午後3時のドルは155円前半、持ち高調整の円買い先行 bit.ly/4j6kZys
 
-[2025-12-15 15:00:22](https://bsky.app/profile/japan.reuters.com/post/3m7yxduapor22)
-
----
-
-@washingtonpost.com
-
-Today’s customers are operating under the subtle and overt influence of Instagram ads, TikTok Shop and influencers.
-
-The result: The rise of the viral couch, a piece of furniture that becomes inescapable online and may or may not be a piece of junk. 
-
-[2025-12-15 15:00:19](https://bsky.app/profile/washingtonpost.com/post/3m7yxdqr63n25)
+[2025-12-15 15:20:30](https://bsky.app/profile/japan.reuters.com/post/3m7yyhtt2k32q)
 
 ---
 
-@aljazeera.com
+@japan.reuters.com
 
-Questions linger about gun reform, anti-Semitism after Bondi Beach shooting https://aje.io/7d72do
+スペインのサンチェス首相が欧州連合（ＥＵ）の欧州委員会に対し、２０３５年から内燃エンジン搭載の新車販売を実質的に禁止する計画を弱めないよう要請したことが、ロイターが確認した書簡で分かった。 bit.ly/4aOMoCE
 
-[2025-12-15 15:00:03](https://bsky.app/profile/aljazeera.com/post/3m7yxdcn37d2p)
+[2025-12-15 15:20:16](https://bsky.app/profile/japan.reuters.com/post/3m7yyhgmyoc27)
+
+---
+
+@japan.reuters.com
+
+中国が金融システムの安定に向けて進めてきた小規模銀行の再編が試練に直面している。８兆ドル規模の小規模銀行の経営リスク回避を目的に、ハイペースで統合を推進してきたが、最近合併した銀行の多くはこの１年間に利益が減少し資本バッファーが縮小したことが、ロイターのデータ分析で明らかになった。 bit.ly/3KQFT7Z
+
+[2025-12-15 15:18:16](https://bsky.app/profile/japan.reuters.com/post/3m7yyduijqj2q)
+
+---
+
+@japan.reuters.com
+
+米プロバスケットボール協会（ＮＢＡ）は１４日、各地で試合を行い、八村塁の所属するレーカーズはサンズを１１６─１１４で下した。 bit.ly/3YuhV5u
+
+[2025-12-15 15:16:04](https://bsky.app/profile/japan.reuters.com/post/3m7yy7wi6mx2s)
+
+---
+
+@nikkei.com
+
+【日経特報】
+ホギメディカルをカーライルが買収へ　1500億円規模でTOB
+www.nikkei.com/article/DGXZQO...
+
+手術用品のホギメディカルは主要販売先の医療機関の経営悪化により、主力製品の伸びが低調になっていました。
+
+ヘルスケア関連企業への投資で実績があるアメリカの投資ファンド・カーライルのもと、企業価値の向上に取り組みます。
+
+TOBが成立すればホギメディカルは非公開化される見込みです。
+
+#ニュース
+
+[2025-12-15 15:15:29](https://bsky.app/profile/nikkei.com/post/3m7yy6vcwb52m)
+
+---
+
+@reuters.com
+
+EU yields to pressure from automakers as it rethinks 2035 combustion car ban reut.rs/3MJPHB7
+
+[2025-12-15 15:15:10](https://bsky.app/profile/reuters.com/post/3m7yy6czao72s)
 
 ---
 
