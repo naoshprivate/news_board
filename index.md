@@ -1,9 +1,9 @@
-# [2025-12-15 20:10 updated](2025_12_15.md)
+# [2025-12-15 20:30 updated](2025_12_15.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Israel’s PM Netanyahu heralded Ahmed al-Ahmed for showing “Jewish heroism” before learning the Bondi Beach “hero” is Muslim.    🔴 LIVE updates: aje.io/th4zuo <a href="https://bsky.app/profile/aljazeera.com/post/3m7zik43mds2w" target="_blank">aljazeera.com</a> (2025-12-15 20:08:05)</span><span style="padding-right:50px;">介護保険サービス“支払い能力に応じた負担検討すべき”厚労省 https://news.web.nhk/newsweb/na/na-k10015004711000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zigipvb72b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 20:06:02)</span><span style="padding-right:50px;">中国が金融システムの安定に向けて進めてきた小規模銀行の再編が試練に直面している。８兆ドル規模の小規模銀行の経営リスク回避を目的に、ハイペースで統合を推進してきたが、最近合併した銀行の多くはこの１年間に利益が減少し資本バッファーが縮小したことが、ロイターのデータ分析で明らかになった。 bit.ly/3MK6nsd <a href="https://bsky.app/profile/japan.reuters.com/post/3m7zif65uxo2c" target="_blank">japan.reuters.com</a> (2025-12-15 20:05:20)</span><span style="padding-right:50px;">UK's Hikma CEO steps down, chairman takes helm until successor appointed reut.rs/3XR3SH7 <a href="https://bsky.app/profile/reuters.com/post/3m7ziesdfnu24" target="_blank">reuters.com</a> (2025-12-15 20:05:07)</span><span style="padding-right:50px;">韓国の特別検察官は１５日、尹錫悦前大統領が２０２４年１２月の戒厳令布告を正当化し、政敵を排除するために、北朝鮮を挑発して武力侵攻させようとしたと発表した。６カ月に及ぶ捜査の結果、これまでに尹氏と５人の閣僚を含む２４人を内乱罪で起訴したと説明した。 bit.ly/3MK1Rdg <a href="https://bsky.app/profile/japan.reuters.com/post/3m7zi6oszbp2p" target="_blank">japan.reuters.com</a> (2025-12-15 20:01:42)</span>
+<span style="padding-right:50px;">Israel’s PM Netanyahu heralded Ahmed al-Ahmed for showing “Jewish heroism” before learning the Bondi Beach “hero” is Muslim.  🔴 Read more here: aje.io/ayc393 <a href="https://bsky.app/profile/aljazeera.com/post/3m7zjnzuy222v" target="_blank">aljazeera.com</a> (2025-12-15 20:28:11)</span><span style="padding-right:50px;">小野寺税調会長「年収の壁」178万円へ引き上げ方針 国民と協議 https://news.web.nhk/newsweb/na/na-k10015004771000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zjm2uqaf2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 20:27:03)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】JR博多駅近くで「人が刺されている」と通報 交番訪れた30代の男を現行犯逮捕 刺されたのは70代とみられる男性 福岡 (2025-12-15 19:45) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7zjjp7h6z2e" target="_blank">sokuho.news</a> (2025-12-15 20:25:46)</span><span style="padding-right:50px;">ブルームバーグは１５日、三菱ＵＦＪフィナンシャル・グループ がインド２位のノンバンクに５０００億円超出資する方向で最終調整に入ったと報じた。出資先はシュリラム・ファイナンスで、２割の株式を取得するという。今週中にも発表する予定としている。 bit.ly/4pDujMD <a href="https://bsky.app/profile/japan.reuters.com/post/3m7zjisvxiz27" target="_blank">japan.reuters.com</a> (2025-12-15 20:25:16)</span><span style="padding-right:50px;">Korea Zinc to build $7.4 bln smelter in US reut.rs/4pFhhOI <a href="https://bsky.app/profile/reuters.com/post/3m7zjinq73t2r" target="_blank">reuters.com</a> (2025-12-15 20:25:10)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.08 (🔻0.60 : 2025-12-15)</span>
+<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.00 (🔻0.67 : 2025-12-15)</span>
   </div>
 </div>
 
@@ -32,103 +32,104 @@
 
 ## News Headlines
 
-1. 介護保険サービス“支払い能力に応じた負担検討すべき”厚労省
-2. 小規模銀行の再編、経営リスク回避を目指して
-3. 韓国・尹錫悦前大統領、戒厳令布告を正当化し政敵排除を狙ったと発表
-4. オーストラリアが銃規制を強化する方針を示す
-5. 産経新聞が報じた「博多駅付近で70代男性刺される」事件で30代の男を現行犯逮捕
-6. 米連邦最高裁判所、トランプ大統領によるFRB理事解任訴訟の口頭弁論を来年1月21日に開く
+1. 小野寺税調会長「年収の壁」178万円へ引き上げ方針
+2. JR博多駅近くで「人が刺されている」と通報
+3. ブルームバーグが報じる「三菱ＵＦＪフィナンシャルグループがインドのノンバンクに出資」
+4. 韓国の特別検察官が尹錫悦前大統領を起訴
+5. フジ・メディア・ホールディングスが野村絢氏から議決権を引き上げる
+6. オーストラリアが銃規制を強化する方針を示す
 
 ----
 
 @aljazeera.com
 
-Israel’s PM Netanyahu heralded Ahmed al-Ahmed for showing “Jewish heroism” before learning the Bondi Beach “hero” is Muslim.  
+Israel’s PM Netanyahu heralded Ahmed al-Ahmed for showing “Jewish heroism” before learning the Bondi Beach “hero” is Muslim.
 
-🔴 LIVE updates: aje.io/th4zuo
+🔴 Read more here: aje.io/ayc393
 
-[2025-12-15 20:08:05](https://bsky.app/profile/aljazeera.com/post/3m7zik43mds2w)
+[2025-12-15 20:28:11](https://bsky.app/profile/aljazeera.com/post/3m7zjnzuy222v)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-介護保険サービス“支払い能力に応じた負担検討すべき”厚労省
-https://news.web.nhk/newsweb/na/na-k10015004711000
+小野寺税調会長「年収の壁」178万円へ引き上げ方針 国民と協議
+https://news.web.nhk/newsweb/na/na-k10015004771000
 
-[2025-12-15 20:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zigipvb72b)
+[2025-12-15 20:27:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zjm2uqaf2m)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】JR博多駅近くで「人が刺されている」と通報 交番訪れた30代の男を現行犯逮捕 刺されたのは70代とみられる男性 福岡
+(2025-12-15 19:45) #ニュース
+
+[2025-12-15 20:25:46](https://bsky.app/profile/sokuho.news/post/3m7zjjp7h6z2e)
 
 ---
 
 @japan.reuters.com
 
-中国が金融システムの安定に向けて進めてきた小規模銀行の再編が試練に直面している。８兆ドル規模の小規模銀行の経営リスク回避を目的に、ハイペースで統合を推進してきたが、最近合併した銀行の多くはこの１年間に利益が減少し資本バッファーが縮小したことが、ロイターのデータ分析で明らかになった。 bit.ly/3MK6nsd
+ブルームバーグは１５日、三菱ＵＦＪフィナンシャル・グループ がインド２位のノンバンクに５０００億円超出資する方向で最終調整に入ったと報じた。出資先はシュリラム・ファイナンスで、２割の株式を取得するという。今週中にも発表する予定としている。 bit.ly/4pDujMD
 
-[2025-12-15 20:05:20](https://bsky.app/profile/japan.reuters.com/post/3m7zif65uxo2c)
-
----
-
-@reuters.com
-
-UK's Hikma CEO steps down, chairman takes helm until successor appointed reut.rs/3XR3SH7
-
-[2025-12-15 20:05:07](https://bsky.app/profile/reuters.com/post/3m7ziesdfnu24)
-
----
-
-@japan.reuters.com
-
-韓国の特別検察官は１５日、尹錫悦前大統領が２０２４年１２月の戒厳令布告を正当化し、政敵を排除するために、北朝鮮を挑発して武力侵攻させようとしたと発表した。６カ月に及ぶ捜査の結果、これまでに尹氏と５人の閣僚を含む２４人を内乱罪で起訴したと説明した。 bit.ly/3MK1Rdg
-
-[2025-12-15 20:01:42](https://bsky.app/profile/japan.reuters.com/post/3m7zi6oszbp2p)
+[2025-12-15 20:25:16](https://bsky.app/profile/japan.reuters.com/post/3m7zjisvxiz27)
 
 ---
 
 @reuters.com
 
-South African rand gains as gold shines and investors eye year's final economic data reut.rs/3MZCmoo
+Korea Zinc to build $7.4 bln smelter in US reut.rs/4pFhhOI
 
-[2025-12-15 20:01:25](https://bsky.app/profile/reuters.com/post/3m7zi66frpd2k)
-
----
-
-@washingtonpost.com
-
-Money stuff can be complicated. But it’s crucial knowledge that will help you better protect yourself.
-
-See how much you know with our 10-question investing quiz: 
-
-[2025-12-15 20:01:01](https://bsky.app/profile/washingtonpost.com/post/3m7zi5hbjjh2e)
-
----
-
-@nikkei.com
-
-【生成AI普及でESが均質化】
-ロート製薬、新卒採用の書類選考を廃止（無料記事）
-www.nikkei.com/article/DGXZQO...
-
-代わりに人事担当者との15分間の対話による選考「Entry Meet（エントリーミート）」を導入。
-
-その後に複数回の面接やグループワークを経て内定を出します。
-
-[2025-12-15 20:00:51](https://bsky.app/profile/nikkei.com/post/3m7zi5655632m)
+[2025-12-15 20:25:10](https://bsky.app/profile/reuters.com/post/3m7zjinq73t2r)
 
 ---
 
 @bloomberg.com
 
-Finland’s Neste is scaling back some of its climate targets and doesn’t expect to stop using crude at its only oil refinery by 2035 as previously guided
+London is famous for some of the world's most exorbitant house prices — but there is a glimmer of hope for anyone who dreams of owning a home in the UK capital. Read our exclusive analysis: bloom.bg/4rYLTMG
 
-[2025-12-15 20:00:30](https://bsky.app/profile/bloomberg.com/post/3m7zi4jgk5u24)
+[2025-12-15 20:25:05](https://bsky.app/profile/bloomberg.com/post/3m7zjiim3li2g)
 
 ---
 
-@wsj.com
+@nytimes.com
 
-For the first time in decades, German businesses and politicians are questioning the unfettered free trade that turned the country into an industrial powerhouse.
+Listen to “The Headlines,” which brings you the biggest stories of the day from the New York Times reporters who are covering them, all in about 10 minutes.
 
-[2025-12-15 20:00:09](https://bsky.app/profile/wsj.com/post/3m7zi3vzvua2u)
+[2025-12-15 20:25:02](https://bsky.app/profile/nytimes.com/post/3m7zjifwgd52b)
+
+---
+
+@sokuho.news
+
+🔔ANNより【速報】です。
+
+【速報】博多駅付近で70代男性が刺される 意識あり “包丁”持ち出頭した男を逮捕
+(20:22) #ニュース
+
+[2025-12-15 20:24:23](https://bsky.app/profile/sokuho.news/post/3m7zjhaciej2e)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】77歳母と52歳妹の遺体を遺棄した疑いで同居の53歳男を逮捕「間違いありません」殺害もほのめかす〈北海道札幌市〉
+(2025-12-15 20:15) #ニュース
+
+[2025-12-15 20:20:44](https://bsky.app/profile/sokuho.news/post/3m7zjapdu732b)
+
+---
+
+@japan.reuters.com
+
+日本生命保険(NPNLI.UL)は１５日、医療データ分析のメディカル・データ・ビジョン（ＭＤＶ）に対し、公開買い付け（ＴＯＢ）を実施、完全子会社化すると発表した。 bit.ly/3MDinvF
+
+[2025-12-15 20:20:29](https://bsky.app/profile/japan.reuters.com/post/3m7zjaax5kv2c)
 
 ---
 
