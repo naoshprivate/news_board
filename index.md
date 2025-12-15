@@ -1,9 +1,9 @@
-# [2025-12-16 00:10 updated](2025_12_16.md)
+# [2025-12-16 00:30 updated](2025_12_16.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">メガソーラー「環境アセスメント」対象拡大で調整 環境省 https://news.web.nhk/newsweb/na/na-k10015004951000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zvyyv6hs2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 00:09:02)</span><span style="padding-right:50px;">Slovak woman killed in Bondi Beach mass shooting, president says reut.rs/48Ft0Xy <a href="https://bsky.app/profile/reuters.com/post/3m7zvs5nxqn2x" target="_blank">reuters.com</a> (2025-12-16 00:05:14)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】「大規模地震発生の可能性なくなったわけではない」引き続き日頃からの備えを…「北海道・三陸沖後発地震注意情報」特別な注意呼びかけ期間終了 (2025-12-16 00:02) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m7zvq6kpuh2y" target="_blank">sokuho.news</a> (2025-12-16 00:04:08)</span><span style="padding-right:50px;">青森県東方沖の地震 今後懸念されるシナリオは？ https://news.web.nhk/newsweb/na/na-k10015004691000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zvobisn626" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 00:03:01)</span><span style="padding-right:50px;">The UK government wants technology companies to block explicit images on devices by default to protect children, with adults having to verify their age to create and access such content. on.ft.com/3MAIeEA <a href="https://bsky.app/profile/financialtimes.com/post/3m7zvm5zstk2b" target="_blank">financialtimes.com</a> (2025-12-16 00:01:53)</span>
+<span style="padding-right:50px;">LIVE: EU foreign policy chief Kaja Kallas press conference youtube.com/live/rJ44nj6... <a href="https://bsky.app/profile/reuters.com/post/3m7zwxyw6ns2x" target="_blank">reuters.com</a> (2025-12-16 00:26:24)</span><span style="padding-right:50px;">Paris Louvre museum to stay closed all Monday due to strike, union representatives to BFM TV reut.rs/48FhWtw <a href="https://bsky.app/profile/reuters.com/post/3m7zwvqxlh524" target="_blank">reuters.com</a> (2025-12-16 00:25:09)</span><span style="padding-right:50px;">From puppies to superheroes, Chinese AI toys are bringing hugs — and hesitation <a href="https://bsky.app/profile/cnbc.com/post/3m7zwvg2ers2m" target="_blank">cnbc.com</a> (2025-12-16 00:24:57)</span><span style="padding-right:50px;">🇦🇺 Australia's leaders agreed on Monday to toughen gun laws after attackers killed 15 people at a Jewish festival on Bondi Beach, the country's worst mass shooting in decades decried as antisemitic "terrorism" by authorities ➡️ u.afp.com/S7z5 <a href="https://bsky.app/profile/en.afp.com/post/3m7zwsu72on26" target="_blank">en.afp.com</a> (2025-12-16 00:23:31)</span><span style="padding-right:50px;">Hassett's Fed chair candidacy received pushback from high-level people close to Trump, sources say <a href="https://bsky.app/profile/cnbc.com/post/3m7zwrhisej25" target="_blank">cnbc.com</a> (2025-12-16 00:22:45)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.61 (🔻135.75 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23147.71 (🔻182.33 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 177.57 (🔻0.37 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 154.94 (🔻0.74 : 2025-12-15)</span>
+<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48352.27 (🔻242.09 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23039.92 (🔻290.12 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 175.55 (🔻2.39 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.01 (🔻0.66 : 2025-12-15)</span>
   </div>
 </div>
 
@@ -32,104 +32,95 @@
 
 ## News Headlines
 
-Here are six news headlines in English:
+Here are six headlines in English:
 
-1. Japan's Ministry of the Environment to Expand Environmental Assessment for Mega Solar Power Plants
-2. Slovak Woman Killed in Bondi Beach Mass Shooting
-3. Warning Period for Post-Earthquake Precautions in Hokkaido and Sanriku Regions Ends
-4. UK Government Proposes Blocking Explicit Images on Devices by Default
-5. Trump-Related Bets on Wall Street and in Crypto Market Show Mixed Results
-6. Explainer: Europe's Car Makers Seek to Reversal of 2035 Combustion Engine Ban
+1. Australia Toughens Gun Laws After Deadliest Mass Shooting in Decades
+2. Greece Pays Off 5.3 Billion Euro Debt Ahead of Schedule
+3. BofA Forecasts S&P 500 to Rise to 7,100 in 2026
+4. YouTube Experiences Login and Playback Issues
+5. India Bans Dumping of Basmati Rice in US Market
+6. UK to Implement Age Verification for Explicit Content on Devices
 
 ----
 
-@nhknewsunofficial.bsky.social
+@reuters.com
 
-メガソーラー「環境アセスメント」対象拡大で調整 環境省
-https://news.web.nhk/newsweb/na/na-k10015004951000
+LIVE: EU foreign policy chief Kaja Kallas press conference youtube.com/live/rJ44nj6...
 
-[2025-12-16 00:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zvyyv6hs2b)
+[2025-12-16 00:26:24](https://bsky.app/profile/reuters.com/post/3m7zwxyw6ns2x)
 
 ---
 
 @reuters.com
 
-Slovak woman killed in Bondi Beach mass shooting, president says reut.rs/48Ft0Xy
+Paris Louvre museum to stay closed all Monday due to strike, union representatives to BFM TV reut.rs/48FhWtw
 
-[2025-12-16 00:05:14](https://bsky.app/profile/reuters.com/post/3m7zvs5nxqn2x)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】「大規模地震発生の可能性なくなったわけではない」引き続き日頃からの備えを…「北海道・三陸沖後発地震注意情報」特別な注意呼びかけ期間終了
-(2025-12-16 00:02) #地震
-
-[2025-12-16 00:04:08](https://bsky.app/profile/sokuho.news/post/3m7zvq6kpuh2y)
-
----
-
-@nhknewsunofficial.bsky.social
-
-青森県東方沖の地震 今後懸念されるシナリオは？
-https://news.web.nhk/newsweb/na/na-k10015004691000
-
-[2025-12-16 00:03:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zvobisn626)
-
----
-
-@financialtimes.com
-
-The UK government wants technology companies to block explicit images on devices by default to protect children, with adults having to verify their age to create and access such content. on.ft.com/3MAIeEA
-
-[2025-12-16 00:01:53](https://bsky.app/profile/financialtimes.com/post/3m7zvm5zstk2b)
+[2025-12-16 00:25:09](https://bsky.app/profile/reuters.com/post/3m7zwvqxlh524)
 
 ---
 
 @cnbc.com
 
-YouTube's CEO Neal Mohan joins other tech bosses from Bill Gates to Mark Cuban who restrict their children's social media and smartphone use. 
+From puppies to superheroes, Chinese AI toys are bringing hugs — and hesitation
 
-[2025-12-16 00:01:06](https://bsky.app/profile/cnbc.com/post/3m7zvkqpp5q23)
-
----
-
-@cnn.com
-
-Donald Trump’s return to the White House set off a gold rush on Wall Street and in the crypto world. 
-
-A year later, some of those Trump-related bets have paid off. But many others have imploded, costing investors who rushed in during the initial boom dearly. https://cnn.it/48VsJi8
-
-[2025-12-16 00:01:05](https://bsky.app/profile/cnn.com/post/3m7zvkqaznq22)
+[2025-12-16 00:24:57](https://bsky.app/profile/cnbc.com/post/3m7zwvg2ers2m)
 
 ---
 
-@usatoday.com
+@en.afp.com
 
-Latest injury updates on Chiefs QB Patrick Mahomes after he suffered a torn ACL against the Chargers in Week 15.
+🇦🇺 Australia's leaders agreed on Monday to toughen gun laws after attackers killed 15 people at a Jewish festival on Bondi Beach, the country's worst mass shooting in decades decried as antisemitic "terrorism" by authorities ➡️ u.afp.com/S7z5
 
-[2025-12-16 00:00:52](https://bsky.app/profile/usatoday.com/post/3m7zvke6mpd2w)
-
----
-
-@washingtonpost.com
-
-Across the conservative spectrum, a steady drumbeat of commentators have warned that President Trump’s coalition is weakened, and the party is headed for defeat in November’s midterm elections.
-
-[2025-12-16 00:00:50](https://bsky.app/profile/washingtonpost.com/post/3m7zvkbjk3d25)
+[2025-12-16 00:23:31](https://bsky.app/profile/en.afp.com/post/3m7zwsu72on26)
 
 ---
 
-@sokuho.news
+@cnbc.com
 
-🔔ANNより【速報】です。
+Hassett's Fed chair candidacy received pushback from high-level people close to Trump, sources say
 
-【速報】「後発地震注意情報」特別な注意呼びかけ期間終了 引き続き備えを 気象庁
-(2025年12月16日 00:00) #地震
+[2025-12-16 00:22:45](https://bsky.app/profile/cnbc.com/post/3m7zwrhisej25)
 
-[2025-12-16 00:00:41](https://bsky.app/profile/sokuho.news/post/3m7zvjzlosg2b)
+---
+
+@nhknewsunofficial.bsky.social
+
+スルガ銀行 不正融資問題 調停の勧告に基づき解決金支払いへ
+https://news.web.nhk/newsweb/na/na-k10015004961000
+
+[2025-12-16 00:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zwoi2ibx2x)
+
+---
+
+@nbcnews.com
+
+Minnesota Rep. Ilhan Omar said her adult son was pulled over by ICE agents Saturday in Minnesota and asked to provide proof of citizenship.
+
+[2025-12-16 00:20:08](https://bsky.app/profile/nbcnews.com/post/3m7zwms6yod22)
+
+---
+
+@forbes.com
+
+The music platform said it was aware of reported login and playback issues.
+
+[2025-12-16 00:20:07](https://bsky.app/profile/forbes.com/post/3m7zwmru3uo2c)
+
+---
+
+@reuters.com
+
+Greece pays off debt worth 5.3 billion euros ahead of schedule reut.rs/4iXzQuI
+
+[2025-12-16 00:15:10](https://bsky.app/profile/reuters.com/post/3m7zwdw3ddx2c)
+
+---
+
+@cnbc.com
+
+BofA's Savita Subramanian says the S&P 500 will rise to 7,100 in 2026, the most bearish forecast on the Street thus far
+
+[2025-12-16 00:14:31](https://bsky.app/profile/cnbc.com/post/3m7zwcqyb672x)
 
 ---
 
