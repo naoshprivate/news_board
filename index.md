@@ -1,9 +1,9 @@
-# [2025-12-16 00:30 updated](2025_12_16.md)
+# [2025-12-16 00:50 updated](2025_12_16.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">LIVE: EU foreign policy chief Kaja Kallas press conference youtube.com/live/rJ44nj6... <a href="https://bsky.app/profile/reuters.com/post/3m7zwxyw6ns2x" target="_blank">reuters.com</a> (2025-12-16 00:26:24)</span><span style="padding-right:50px;">Paris Louvre museum to stay closed all Monday due to strike, union representatives to BFM TV reut.rs/48FhWtw <a href="https://bsky.app/profile/reuters.com/post/3m7zwvqxlh524" target="_blank">reuters.com</a> (2025-12-16 00:25:09)</span><span style="padding-right:50px;">From puppies to superheroes, Chinese AI toys are bringing hugs — and hesitation <a href="https://bsky.app/profile/cnbc.com/post/3m7zwvg2ers2m" target="_blank">cnbc.com</a> (2025-12-16 00:24:57)</span><span style="padding-right:50px;">🇦🇺 Australia's leaders agreed on Monday to toughen gun laws after attackers killed 15 people at a Jewish festival on Bondi Beach, the country's worst mass shooting in decades decried as antisemitic "terrorism" by authorities ➡️ u.afp.com/S7z5 <a href="https://bsky.app/profile/en.afp.com/post/3m7zwsu72on26" target="_blank">en.afp.com</a> (2025-12-16 00:23:31)</span><span style="padding-right:50px;">Hassett's Fed chair candidacy received pushback from high-level people close to Trump, sources say <a href="https://bsky.app/profile/cnbc.com/post/3m7zwrhisej25" target="_blank">cnbc.com</a> (2025-12-16 00:22:45)</span>
+<span style="padding-right:50px;">Iranian Nobel Peace Prize winner Narges Mohammadi was taken to hospital twice after being violently arrested last week, her supporters said on Monday, following a telephone call with the campaigner that raised concerns about her physical condition ➡️ u.afp.com/S7zq <a href="https://bsky.app/profile/en.afp.com/post/3m7zy6o7zgi2s" target="_blank">en.afp.com</a> (2025-12-16 00:48:02)</span><span style="padding-right:50px;">Italy crafts lab-grown snacks with fruit residues, plant cells and a 3D printer reut.rs/4pHitkG <a href="https://bsky.app/profile/reuters.com/post/3m7zxzmzqlp2r" target="_blank">reuters.com</a> (2025-12-16 00:45:13)</span><span style="padding-right:50px;">Russia declared the punk band Pussy Riot an extremist organization on Monday, according to a lawyer for the group. <a href="https://bsky.app/profile/bloomberg.com/post/3m7zxy6acpi2h" target="_blank">bloomberg.com</a> (2025-12-16 00:44:23)</span><span style="padding-right:50px;">Fed decisions distorted by ‘phantom inflation’, says Stephen Miran on.ft.com/49bEqT0 <a href="https://bsky.app/profile/financialtimes.com/post/3m7zxxzfpaq2o" target="_blank">financialtimes.com</a> (2025-12-16 00:44:18)</span><span style="padding-right:50px;">Some of the nation's largest restaurants boast of decades-long survival through economic downturns, stiffer competition, and changing American palates. And we still love them anyway. Why? n.pr/49aJo2e <a href="https://bsky.app/profile/npr.org/post/3m7zxtw324p2e" target="_blank">npr.org</a> (2025-12-16 00:42:01)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48352.27 (🔻242.09 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23039.92 (🔻290.12 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 175.55 (🔻2.39 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.01 (🔻0.66 : 2025-12-15)</span>
+<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48465.43 (🔻128.93 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23143.68 (🔻186.36 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 177.30 (🔻0.64 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 154.93 (🔻0.75 : 2025-12-15)</span>
   </div>
 </div>
 
@@ -32,95 +32,95 @@
 
 ## News Headlines
 
-Here are six headlines in English:
+Here are six important stories with headlines in English:
 
-1. Australia Toughens Gun Laws After Deadliest Mass Shooting in Decades
-2. Greece Pays Off 5.3 Billion Euro Debt Ahead of Schedule
-3. BofA Forecasts S&P 500 to Rise to 7,100 in 2026
-4. YouTube Experiences Login and Playback Issues
-5. India Bans Dumping of Basmati Rice in US Market
-6. UK to Implement Age Verification for Explicit Content on Devices
+1. Iranian Activist Narges Mohammadi Hospitalized After Violent Arrest
+2. Russia Declares Punk Band Pussy Riot an Extremist Organization
+3. Australia Tightens Gun Laws After Worst Mass Shooting in Decades
+4. China's AI Toys Bring Hugs and Hesitation Among Parents
+5. India Bans Premium Basmati Rice Exports to US Amid Trade Dispute
+6. YouTube Experiences Login and Playback Issues, Blames Technical Glitches
 
 ----
 
-@reuters.com
-
-LIVE: EU foreign policy chief Kaja Kallas press conference youtube.com/live/rJ44nj6...
-
-[2025-12-16 00:26:24](https://bsky.app/profile/reuters.com/post/3m7zwxyw6ns2x)
-
----
-
-@reuters.com
-
-Paris Louvre museum to stay closed all Monday due to strike, union representatives to BFM TV reut.rs/48FhWtw
-
-[2025-12-16 00:25:09](https://bsky.app/profile/reuters.com/post/3m7zwvqxlh524)
-
----
-
-@cnbc.com
-
-From puppies to superheroes, Chinese AI toys are bringing hugs — and hesitation
-
-[2025-12-16 00:24:57](https://bsky.app/profile/cnbc.com/post/3m7zwvg2ers2m)
-
----
-
 @en.afp.com
 
-🇦🇺 Australia's leaders agreed on Monday to toughen gun laws after attackers killed 15 people at a Jewish festival on Bondi Beach, the country's worst mass shooting in decades decried as antisemitic "terrorism" by authorities ➡️ u.afp.com/S7z5
+Iranian Nobel Peace Prize winner Narges Mohammadi was taken to hospital twice after being violently arrested last week, her supporters said on Monday, following a telephone call with the campaigner that raised concerns about her physical condition ➡️ u.afp.com/S7zq
 
-[2025-12-16 00:23:31](https://bsky.app/profile/en.afp.com/post/3m7zwsu72on26)
-
----
-
-@cnbc.com
-
-Hassett's Fed chair candidacy received pushback from high-level people close to Trump, sources say
-
-[2025-12-16 00:22:45](https://bsky.app/profile/cnbc.com/post/3m7zwrhisej25)
+[2025-12-16 00:48:02](https://bsky.app/profile/en.afp.com/post/3m7zy6o7zgi2s)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@reuters.com
 
-スルガ銀行 不正融資問題 調停の勧告に基づき解決金支払いへ
-https://news.web.nhk/newsweb/na/na-k10015004961000
+Italy crafts lab-grown snacks with fruit residues, plant cells and a 3D printer reut.rs/4pHitkG
 
-[2025-12-16 00:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zwoi2ibx2x)
+[2025-12-16 00:45:13](https://bsky.app/profile/reuters.com/post/3m7zxzmzqlp2r)
+
+---
+
+@bloomberg.com
+
+Russia declared the punk band Pussy Riot an extremist organization on Monday, according to a lawyer for the group.
+
+[2025-12-16 00:44:23](https://bsky.app/profile/bloomberg.com/post/3m7zxy6acpi2h)
+
+---
+
+@financialtimes.com
+
+Fed decisions distorted by ‘phantom inflation’, says Stephen Miran on.ft.com/49bEqT0
+
+[2025-12-16 00:44:18](https://bsky.app/profile/financialtimes.com/post/3m7zxxzfpaq2o)
+
+---
+
+@npr.org
+
+Some of the nation's largest restaurants boast of decades-long survival through economic downturns, stiffer competition, and changing American palates. And we still love them anyway. Why? n.pr/49aJo2e
+
+[2025-12-16 00:42:01](https://bsky.app/profile/npr.org/post/3m7zxtw324p2e)
+
+---
+
+@reuters.com
+
+Toluca sink Tigres 9-8 on penalties to win Mexico's Apertura title reut.rs/44rT8m9
+
+[2025-12-16 00:40:19](https://bsky.app/profile/reuters.com/post/3m7zxquxijp2r)
 
 ---
 
 @nbcnews.com
 
-Minnesota Rep. Ilhan Omar said her adult son was pulled over by ICE agents Saturday in Minnesota and asked to provide proof of citizenship.
+A year ago, President Trump visited this site to make the point that he was attuned to everyday people who felt overlooked in the Joe Biden-Kamala Harris economy. These days, it’s Trump who’s in danger of appearing out of touch.
 
-[2025-12-16 00:20:08](https://bsky.app/profile/nbcnews.com/post/3m7zwms6yod22)
+[2025-12-16 00:40:08](https://bsky.app/profile/nbcnews.com/post/3m7zxqk4lhk24)
 
 ---
 
 @forbes.com
 
-The music platform said it was aware of reported login and playback issues.
+Reiner and his wife were found dead in an apparent homicide Sunday that Trump claims was related to the actor’s dislike of the president. 
 
-[2025-12-16 00:20:07](https://bsky.app/profile/forbes.com/post/3m7zwmru3uo2c)
+[2025-12-16 00:40:03](https://bsky.app/profile/forbes.com/post/3m7zxqgj2pb2w)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【詳細】ロシア ウクライナに軍事侵攻（12月15日の動き）
+https://news.web.nhk/newsweb/na/na-k10014990611000
+
+[2025-12-16 00:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zxoocbge2b)
 
 ---
 
 @reuters.com
 
-Greece pays off debt worth 5.3 billion euros ahead of schedule reut.rs/4iXzQuI
+‘Saviour’ Joshua to pummel Paul for the good of the sport reut.rs/4iVdGcC
 
-[2025-12-16 00:15:10](https://bsky.app/profile/reuters.com/post/3m7zwdw3ddx2c)
-
----
-
-@cnbc.com
-
-BofA's Savita Subramanian says the S&P 500 will rise to 7,100 in 2026, the most bearish forecast on the Street thus far
-
-[2025-12-16 00:14:31](https://bsky.app/profile/cnbc.com/post/3m7zwcqyb672x)
+[2025-12-16 00:35:09](https://bsky.app/profile/reuters.com/post/3m7zxhnfg2m2y)
 
 ---
 
