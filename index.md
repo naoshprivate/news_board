@@ -1,9 +1,9 @@
-# [2025-12-15 22:30 updated](2025_12_15.md)
+# [2025-12-15 22:50 updated](2025_12_15.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Patriot Front, a White supremacist group, has been quietly building a 124-acre compound in the mountains of east Tennessee, where they train members and host fight clubs. https://cnn.it/44rpU6V <a href="https://bsky.app/profile/cnn.com/post/3m7zqgjnxho24" target="_blank">cnn.com</a> (2025-12-15 22:29:15)</span><span style="padding-right:50px;">ウクライナのゼレンスキー大統領は１５日、ベルリンでトランプ米大統領の特使団との会談を再開した。 bit.ly/4iWYtrJ <a href="https://bsky.app/profile/japan.reuters.com/post/3m7zqayryak26" target="_blank">japan.reuters.com</a> (2025-12-15 22:26:10)</span><span style="padding-right:50px;">日本生命保険(NPNLI.UL)は１５日、医療データ分析のメディカル・データ・ビジョン（ＭＤＶ）に対し、公開買い付け（ＴＯＢ）を実施、完全子会社化すると発表した。 bit.ly/3XVcOew <a href="https://bsky.app/profile/japan.reuters.com/post/3m7zq7bdazv2f" target="_blank">japan.reuters.com</a> (2025-12-15 22:25:12)</span><span style="padding-right:50px;">Thousands of Romanians protest against judicial abuses reut.rs/45akduh <a href="https://bsky.app/profile/reuters.com/post/3m7zq76dxk62i" target="_blank">reuters.com</a> (2025-12-15 22:25:09)</span><span style="padding-right:50px;">“He changed the course of my life.” Stars of Rob Reiner’s movies, as well as celebrities who simply admired his work, have posted heartfelt tributes to the director on social media. <a href="https://bsky.app/profile/nytimes.com/post/3m7zq6zwlor2r" target="_blank">nytimes.com</a> (2025-12-15 22:25:04)</span>
+<span style="padding-right:50px;">Fear of crime and migration fuels Chile's swing to the right <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7zrhcytyz25" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-15 22:47:35)</span><span style="padding-right:50px;">Crypto exchange Hashkey raises $206 million in Hong Kong IPO, source says reut.rs/4oXBGNU <a href="https://bsky.app/profile/reuters.com/post/3m7zrcz6vl42o" target="_blank">reuters.com</a> (2025-12-15 22:45:11)</span><span style="padding-right:50px;">Internal FDA records obtained by CNBC show 31 agency staffers traveled to Singapore in mid-November for a conference — a trip that cost more than a quarter of a million dollars, according to the documents — that was approved during the government shutdown. cnb.cx/3XRjnPj <a href="https://bsky.app/profile/cnbc.com/post/3m7zr7wduh724" target="_blank">cnbc.com</a> (2025-12-15 22:43:27)</span><span style="padding-right:50px;">Palantir CIO Jim Siders leaves to become head of Thrive Capital's new IT services business <a href="https://bsky.app/profile/cnbc.com/post/3m7zr76d4bx2b" target="_blank">cnbc.com</a> (2025-12-15 22:43:02)</span><span style="padding-right:50px;">VIDEO: 🇺🇸 New York City blanketed in its first snow of winter  People flocked to Central Park and had to shift snow off sidewalks after the city's first snowfall of the winter <a href="https://bsky.app/profile/en.afp.com/post/3m7zr3ifpu62j" target="_blank">en.afp.com</a> (2025-12-15 22:40:59)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.06 (🔻0.62 : 2025-12-15)</span>
+<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.08 (🔻0.60 : 2025-12-15)</span>
   </div>
 </div>
 
@@ -34,94 +34,94 @@
 
 Here are six important stories with headlines in English:
 
-1. White Supremacist Group Builds 124-Acre Compound in Tennessee
-2. Ukraine's Zelenskyy Meets with Trump's Envoy in Berlin
-3. Japan Life Insurance to Acquire Medical Data Vision in $1.3B Deal
-4. Chile Elects New President: Far-Right Leader Jose Antonio Kast Wins Landslide Victory
+1. Fear of Crime and Migration Fuels Chile's Swing to the Right
+2. Tesla Board Made $3 Billion via Stock Awards That Dwarfed Tech Peers
+3. FDA Approved $250,000 Singapore Work Trip During Government Shutdown, Records Show
+4. Thousands of Romanians Protest Against Judicial Abuses
 5. OpenAI Named 2025 Yahoo Finance Company of the Year
-6. Doctors in England to Go Ahead with Pre-Christmas Strikes
+6. India's Enel Buys Wind Farms in Germany in 80-Million-Euro Deal
 
 ----
 
-@cnn.com
+@bbcnews-world-rss.bsky.social
 
-Patriot Front, a White supremacist group, has been quietly building a 124-acre compound in the mountains of east Tennessee, where they train members and host fight clubs. https://cnn.it/44rpU6V
+Fear of crime and migration fuels Chile's swing to the right
 
-[2025-12-15 22:29:15](https://bsky.app/profile/cnn.com/post/3m7zqgjnxho24)
-
----
-
-@japan.reuters.com
-
-ウクライナのゼレンスキー大統領は１５日、ベルリンでトランプ米大統領の特使団との会談を再開した。 bit.ly/4iWYtrJ
-
-[2025-12-15 22:26:10](https://bsky.app/profile/japan.reuters.com/post/3m7zqayryak26)
-
----
-
-@japan.reuters.com
-
-日本生命保険(NPNLI.UL)は１５日、医療データ分析のメディカル・データ・ビジョン（ＭＤＶ）に対し、公開買い付け（ＴＯＢ）を実施、完全子会社化すると発表した。 bit.ly/3XVcOew
-
-[2025-12-15 22:25:12](https://bsky.app/profile/japan.reuters.com/post/3m7zq7bdazv2f)
+[2025-12-15 22:47:35](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7zrhcytyz25)
 
 ---
 
 @reuters.com
 
-Thousands of Romanians protest against judicial abuses reut.rs/45akduh
+Crypto exchange Hashkey raises $206 million in Hong Kong IPO, source says reut.rs/4oXBGNU
 
-[2025-12-15 22:25:09](https://bsky.app/profile/reuters.com/post/3m7zq76dxk62i)
-
----
-
-@nytimes.com
-
-“He changed the course of my life.” Stars of Rob Reiner’s movies, as well as celebrities who simply admired his work, have posted heartfelt tributes to the director on social media.
-
-[2025-12-15 22:25:04](https://bsky.app/profile/nytimes.com/post/3m7zq6zwlor2r)
-
----
-
-@en.afp.com
-
-VIDEO: 🇨🇱 Far-right Kast wins Chile election in landslide
- 
-Chile has elected its most right-wing president in 35 years of democracy, with arch-conservative Jose Antonio Kast scoring a thumping victory -- with some 58% of the vote -- over his leftist runoff rival Jeannette Jara
-
-[2025-12-15 22:21:25](https://bsky.app/profile/en.afp.com/post/3m7zpyjhwlx2u)
-
----
-
-@yahoofinance.com
-
-OpenAI is the 2025 Yahoo Finance Company of the Year
-
-[2025-12-15 22:21:16](https://bsky.app/profile/yahoofinance.com/post/3m7zpyag7632h)
-
----
-
-@japan.reuters.com
-
-ミャンマーで２０２１年のクーデター以降拘束されている民主派指導者アウンサンスーチー氏（８０）の次男で英国籍のキム・エアリス氏は東京でロイターのインタビューに応じ、スーチー氏の健康が損なわれ、情報が得られない中、母親が生きているのかどうかすら分からないと不安を吐露した。 bit.ly/4rYbntw
-
-[2025-12-15 22:20:20](https://bsky.app/profile/japan.reuters.com/post/3m7zpwkubuc26)
-
----
-
-@financialtimes.com
-
-Doctors to go ahead with pre-Christmas strikes in England on.ft.com/44s9z1V
-
-[2025-12-15 22:16:16](https://bsky.app/profile/financialtimes.com/post/3m7zppc6bop2f)
+[2025-12-15 22:45:11](https://bsky.app/profile/reuters.com/post/3m7zrcz6vl42o)
 
 ---
 
 @cnbc.com
 
-FDA approved a $250,000 Singapore work trip during government shutdown, records show
+Internal FDA records obtained by CNBC show 31 agency staffers traveled to Singapore in mid-November for a conference — a trip that cost more than a quarter of a million dollars, according to the documents — that was approved during the government shutdown. cnb.cx/3XRjnPj
 
-[2025-12-15 22:16:11](https://bsky.app/profile/cnbc.com/post/3m7zpp5t5x72i)
+[2025-12-15 22:43:27](https://bsky.app/profile/cnbc.com/post/3m7zr7wduh724)
+
+---
+
+@cnbc.com
+
+Palantir CIO Jim Siders leaves to become head of Thrive Capital's new IT services business
+
+[2025-12-15 22:43:02](https://bsky.app/profile/cnbc.com/post/3m7zr76d4bx2b)
+
+---
+
+@en.afp.com
+
+VIDEO: 🇺🇸 New York City blanketed in its first snow of winter
+
+People flocked to Central Park and had to shift snow off sidewalks after the city's first snowfall of the winter
+
+[2025-12-15 22:40:59](https://bsky.app/profile/en.afp.com/post/3m7zr3ifpu62j)
+
+---
+
+@reuters.com
+
+Philippines to protest China's actions that injured Filipino fishermen in South China Sea reut.rs/3L2WSUy
+
+[2025-12-15 22:40:12](https://bsky.app/profile/reuters.com/post/3m7zr246lsq2s)
+
+---
+
+@nbcnews.com
+
+Workers at the Louvre Museum voted Monday to strike over working conditions and other complaints.
+
+[2025-12-15 22:40:07](https://bsky.app/profile/nbcnews.com/post/3m7zqzxfkms2x)
+
+---
+
+@wsj.com
+
+After breaking through as an actor on “All in the Family,” Rob Reiner directed some of the most beloved and quotable films of the ‘80s and ‘90s. 🔗 on.wsj.com/3KxUSnj
+
+[2025-12-15 22:36:18](https://bsky.app/profile/wsj.com/post/3m7zqt5j7ag2h)
+
+---
+
+@reuters.com
+
+Tesla board made $3 billion via stock awards that dwarfed tech peers reut.rs/3N1dexx
+
+[2025-12-15 22:35:09](https://bsky.app/profile/reuters.com/post/3m7zqr3a65y2r)
+
+---
+
+@forbes.com
+
+The iconic actor and director and his wife were found dead in their Brentwood, Los Angeles home on Sunday. Police are interviewing a family member.
+
+[2025-12-15 22:35:04](https://bsky.app/profile/forbes.com/post/3m7zqqvyzvw2c)
 
 ---
 
