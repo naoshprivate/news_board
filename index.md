@@ -1,9 +1,9 @@
-# [2025-12-16 03:30 updated](2025_12_16.md)
+# [2025-12-16 03:50 updated](2025_12_16.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Venezuela's PDVSA suffers cyberattack as tankers make u-turns reut.rs/48SL8vN <a href="https://bsky.app/profile/reuters.com/post/3ma2axrlbvv2p" target="_blank">reuters.com</a> (2025-12-16 03:25:14)</span><span style="padding-right:50px;">NEW: President Trump baselessly suggests that Rob Reiner and his wife died because of Reiner’s anti-Trump views, politicizing their deaths as other conservatives expressed condolences. <a href="https://bsky.app/profile/nbcnews.com/post/3ma2axj3txd2q" target="_blank">nbcnews.com</a> (2025-12-16 03:25:05)</span><span style="padding-right:50px;">Wisconsin Judge Hannah Dugan appeared in federal court on Monday as a jury trial got under way on charges that she helped a man who appeared in her courtroom avoid immigration enforcement. <a href="https://bsky.app/profile/wsj.com/post/3ma2ax3bmmy2e" target="_blank">wsj.com</a> (2025-12-16 03:24:50)</span><span style="padding-right:50px;">The Army on Monday identified the two American soldiers who were killed in Palmyra, Syria, over the weekend as Sgt. Edgar Brian Torres Tovar, 25, of Des Moines, Iowa and Sgt. William Nathaniel Howard, 29, of Marshalltown, Iowa. <a href="https://bsky.app/profile/cbsnews.com/post/3ma2aoh2sj42z" target="_blank">cbsnews.com</a> (2025-12-16 03:20:01)</span><span style="padding-right:50px;">Floods and landslides on the western Indonesian island of Sumatra continue to cause devastation and displace thousands of families from their homes. <a href="https://bsky.app/profile/aljazeera.com/post/3ma2am4ugnc2j" target="_blank">aljazeera.com</a> (2025-12-16 03:18:43)</span>
+<span style="padding-right:50px;">NEW: Republican lawmakers slam Trump's "inappropriate" posts on Rob Reiner <a href="https://bsky.app/profile/axios.com/post/3ma2ccjw5j22b" target="_blank">axios.com</a> (2025-12-16 03:49:09)</span><span style="padding-right:50px;">iRobot, the U.S. firm that had robots vacuuming homes, will be taken over by its China-based supplier. It's assuring owners that devices will keep working as usual. n.pr/4oZf4wi <a href="https://bsky.app/profile/npr.org/post/3ma2ca7heqo2e" target="_blank">npr.org</a> (2025-12-16 03:47:51)</span><span style="padding-right:50px;">Why a centuries-old whistleblower law may be heading to the Supreme Court reut.rs/4p1T8kd <a href="https://bsky.app/profile/reuters.com/post/3ma2c3ljrxn2p" target="_blank">reuters.com</a> (2025-12-16 03:45:15)</span><span style="padding-right:50px;">Exclusive: France and Italy aligned on need to delay final Mercosur vote, say sources reut.rs/3N2OrZW <a href="https://bsky.app/profile/reuters.com/post/3ma2bsrzhmo2i" target="_blank">reuters.com</a> (2025-12-16 03:40:20)</span><span style="padding-right:50px;">Democrats and some Republicans say President Trump has gone too far in a social-media post about Rob Reiner, who was found dead alongside his wife on Sunday. <a href="https://bsky.app/profile/wsj.com/post/3ma2bsjtnzw2z" target="_blank">wsj.com</a> (2025-12-16 03:40:12)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48322.66 (🔻271.70 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23065.25 (🔻264.79 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 177.11 (🔻0.83 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.35 (🔻0.32 : 2025-12-15)</span>
+<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48336.11 (🔻258.25 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23079.73 (🔻250.30 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.74 (🔻1.20 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.35 (🔻0.32 : 2025-12-15)</span>
   </div>
 </div>
 
@@ -34,95 +34,92 @@
 
 Here are six important stories with headlines:
 
-1. Venezuela's Oil Giant Hit by Cyberattack
-2. Judge Accused of Helping Immigration Fugitive Faces Trial
-3. US Soldiers Killed in Palmyra, Syria
-4. Indonesia Floods Displace Thousands, Cause Devastation
-5. Iran Nobel Laureate Hospitalized After Violent Arrest
-6. US Justice Department Foils Alleged Terror Plot
+1. Trump Accused of Politicizing Rob Reiner's Death
+2. iRobot Sold to Chinese Company, Assures Device Owners
+3. FDA Considers Weakening Dietary Supplement Labeling
+4. Wisconsin Program for Deafblind Children Faces Funding Cuts
+5. Bondi Beach Shooting Kills 15, Including Rabbi
+6. US Army Identifies Soldiers Killed in Syria Attack
 
 ----
 
-@reuters.com
+@axios.com
 
-Venezuela's PDVSA suffers cyberattack as tankers make u-turns reut.rs/48SL8vN
+NEW: Republican lawmakers slam Trump's "inappropriate" posts on Rob Reiner
 
-[2025-12-16 03:25:14](https://bsky.app/profile/reuters.com/post/3ma2axrlbvv2p)
+[2025-12-16 03:49:09](https://bsky.app/profile/axios.com/post/3ma2ccjw5j22b)
 
 ---
 
-@nbcnews.com
+@npr.org
 
-NEW: President Trump baselessly suggests that Rob Reiner and his wife died because of Reiner’s anti-Trump views, politicizing their deaths as other conservatives expressed condolences.
+iRobot, the U.S. firm that had robots vacuuming homes, will be taken over by its China-based supplier. It's assuring owners that devices will keep working as usual. n.pr/4oZf4wi
 
-[2025-12-16 03:25:05](https://bsky.app/profile/nbcnews.com/post/3ma2axj3txd2q)
+[2025-12-16 03:47:51](https://bsky.app/profile/npr.org/post/3ma2ca7heqo2e)
+
+---
+
+@reuters.com
+
+Why a centuries-old whistleblower law may be heading to the Supreme Court reut.rs/4p1T8kd
+
+[2025-12-16 03:45:15](https://bsky.app/profile/reuters.com/post/3ma2c3ljrxn2p)
+
+---
+
+@reuters.com
+
+Exclusive: France and Italy aligned on need to delay final Mercosur vote, say sources reut.rs/3N2OrZW
+
+[2025-12-16 03:40:20](https://bsky.app/profile/reuters.com/post/3ma2bsrzhmo2i)
 
 ---
 
 @wsj.com
 
-Wisconsin Judge Hannah Dugan appeared in federal court on Monday as a jury trial got under way on charges that she helped a man who appeared in her courtroom avoid immigration enforcement.
+Democrats and some Republicans say President Trump has gone too far in a social-media post about Rob Reiner, who was found dead alongside his wife on Sunday.
 
-[2025-12-16 03:24:50](https://bsky.app/profile/wsj.com/post/3ma2ax3bmmy2e)
+[2025-12-16 03:40:12](https://bsky.app/profile/wsj.com/post/3ma2bsjtnzw2z)
+
+---
+
+@nbcnews.com
+
+The FDA is considering a rule change that would cut back on how often dietary supplement warnings must appear on packaging, a move experts say could make them easier to miss.
+
+[2025-12-16 03:40:12](https://bsky.app/profile/nbcnews.com/post/3ma2bskj4m52r)
+
+---
+
+@nytimes.com
+
+A state program in Wisconsin for deafblind children helped a 3-year-old, born with poor vision and no ears, learn to communicate. The Trump administration cut the program’s funding over goals related to diversity, equity and inclusion.
+
+[2025-12-16 03:40:05](https://bsky.app/profile/nytimes.com/post/3ma2bsdo73o2x)
 
 ---
 
 @cbsnews.com
 
-The Army on Monday identified the two American soldiers who were killed in Palmyra, Syria, over the weekend as Sgt. Edgar Brian Torres Tovar, 25, of Des Moines, Iowa and Sgt. William Nathaniel Howard, 29, of Marshalltown, Iowa.
+The daughter of one of the victims of Sunday's Bondi Beach terror attack told CBS News on Monday that her father was "shot dead for being Jewish," and she now believes Australia is not a safe home for Jewish people.
 
-[2025-12-16 03:20:01](https://bsky.app/profile/cbsnews.com/post/3ma2aoh2sj42z)
-
----
-
-@aljazeera.com
-
-Floods and landslides on the western Indonesian island of Sumatra continue to cause devastation and displace thousands of families from their homes.
-
-[2025-12-16 03:18:43](https://bsky.app/profile/aljazeera.com/post/3ma2am4ugnc2j)
-
----
-
-@nhknewsunofficial.bsky.social
-
-仙台 若林区 アパートが全焼 焼け跡から2人の遺体
-https://news.web.nhk/newsweb/na/na-k10015004991000
-
-[2025-12-16 03:18:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma2akyc33j2v)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Iran Nobel laureate taken to hospital after 'violent arrest' - family
-
-[2025-12-16 03:17:56](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma2akqqbjy2e)
-
----
-
-@cnbc.com
-
-This old Wall Street investing theory suggests 2026 could see more rotation and upside
-
-[2025-12-16 03:16:55](https://bsky.app/profile/cnbc.com/post/3ma2aivpvhg2d)
+[2025-12-16 03:40:01](https://bsky.app/profile/cbsnews.com/post/3ma2bs7ei4r2c)
 
 ---
 
 @reuters.com
 
-Doctors in England to strike after they reject government's offer reut.rs/4pEn86T
+Germany deepens commitment to Ukraine's defence in 10-point plan reut.rs/44vWNPU
 
-[2025-12-16 03:15:19](https://bsky.app/profile/reuters.com/post/3ma2ag22sdr2b)
+[2025-12-16 03:35:09](https://bsky.app/profile/reuters.com/post/3ma2bjj2njf2p)
 
 ---
 
-@washingtonpost.com
+@nytimes.com
 
-Rabbi Eli Schlanger, 41, was among those killed in the Bondi Beach shooting. Rabbi Levi Wolff of Sydney’s Central Synagogue said “his light will continue through the community.”
+The two students who were killed in a shooting at Brown University on Saturday were identified by friends and family as an 18-year-old man from Virginia and a 19-year-old woman from Alabama. Officials released a suspect late Sunday after they could not connect him to the shooting.
 
-Read more: https://wapo.st/4rVr9Fo
-
-[2025-12-16 03:15:09](https://bsky.app/profile/washingtonpost.com/post/3ma2afr2tmd2n)
+[2025-12-16 03:32:27](https://bsky.app/profile/nytimes.com/post/3ma2beotphv2b)
 
 ---
 
