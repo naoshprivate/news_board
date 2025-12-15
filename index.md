@@ -1,9 +1,9 @@
-# [2025-12-16 02:10 updated](2025_12_16.md)
+# [2025-12-16 02:30 updated](2025_12_16.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">JUST IN: Nick Reiner, the son of filmmaker Rob Reiner, was arrested on homicide charges and being held in a Los Angeles County jail on a $4 million bond after the director and his wife were found dead in their Los Angeles home reut.rs/3KYY37w <a href="https://bsky.app/profile/reuters.com/post/3ma24o4g5zs2w" target="_blank">reuters.com</a> (2025-12-16 02:08:15)</span><span style="padding-right:50px;">Acccording to FBI Director Kash Patel, the group was planning coordinated IED bombing attacks on NYE targeting five locations across Los Angeles. <a href="https://bsky.app/profile/usatoday.com/post/3ma24nn4kmh2s" target="_blank">usatoday.com</a> (2025-12-16 02:07:59)</span><span style="padding-right:50px;">Mia Tretta was sitting in her Brown University dorm room with friends when she got a text message about an active shooter. She didn’t believe it at first ‒ despite her own painful experience with school shootings. bit.ly/4adWsoJ  <a href="https://bsky.app/profile/usatoday.com/post/3ma24kar7gp2w" target="_blank">usatoday.com</a> (2025-12-16 02:06:05)</span><span style="padding-right:50px;">Copper prices rise on weaker dollar, ignoring weak China data for now reut.rs/3KMGpE0 <a href="https://bsky.app/profile/reuters.com/post/3ma24ipkasu2s" target="_blank">reuters.com</a> (2025-12-16 02:05:13)</span><span style="padding-right:50px;">Howie Mandel didn't get diagnosed with OCD until his 40s, but doesn't remember a time without it. He talks about NOCD, AI therapy, and misconceptions. <a href="https://bsky.app/profile/usatoday.com/post/3ma24gqv4zw2s" target="_blank">usatoday.com</a> (2025-12-16 02:04:08)</span>
+<span style="padding-right:50px;">The jury considering Brian Walshe’s fate in his murder trial resumed deliberations in Dedham, Massachusetts, Monday morning. <a href="https://bsky.app/profile/cnn.com/post/3ma25rjsxau2a" target="_blank">cnn.com</a> (2025-12-16 02:28:03)</span><span style="padding-right:50px;">Brian Walshe was found guilty of killing his wife Ana, whose body was never found after she disappeared from their Massachusetts home nearly three years ago. <a href="https://bsky.app/profile/apnews.com/post/3ma25p5naeu23" target="_blank">apnews.com</a> (2025-12-16 02:26:43)</span><span style="padding-right:50px;">Chile’s conservative landslide gives Trump new Latin America ally on.ft.com/4pOvf0H <a href="https://bsky.app/profile/financialtimes.com/post/3ma25nwy7xj2w" target="_blank">financialtimes.com</a> (2025-12-16 02:26:03)</span><span style="padding-right:50px;">Scarred by ethnic violence, Manipur's clubs continue to fight for survival reut.rs/3MZiAcC <a href="https://bsky.app/profile/reuters.com/post/3ma25mhi3ho2k" target="_blank">reuters.com</a> (2025-12-16 02:25:13)</span><span style="padding-right:50px;">Implementing the sprawling levies at the center of Trump's economic agenda looks simple relative to the chaos of trying to undo it. <a href="https://bsky.app/profile/axios.com/post/3ma25jr7ob22l" target="_blank">axios.com</a> (2025-12-16 02:23:43)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48386.57 (🔻207.79 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23118.30 (🔻211.74 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 177.97 (🔺0.03 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.32 (🔻0.35 : 2025-12-15)</span>
+<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48345.13 (🔻249.23 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23103.70 (🔻226.34 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 177.57 (🔻0.37 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.32 (🔻0.35 : 2025-12-15)</span>
   </div>
 </div>
 
@@ -32,98 +32,94 @@
 
 ## News Headlines
 
-Here are six important stories with headlines:
+Here are six news headlines in English:
 
-1. US Man Arrested on Homicide Charges in Connection with Deaths of Hollywood Director Rob Reiner and Wife
-2. FBI Foils Plot to Bomb 5 Locations in Los Angeles on New Year's Eve
-3. US Jury Convicts Man of First-Degree Murder in Wife's Disappearance and Dismemberment
-4. Russia Indicates Willingness to Allow Ukraine to Join European Union as Part of Peace Deal
-5. Australian Officials Identify Bystander Who Wrestled Gun from Attacker in Bondi Beach Mass Shooting
-6. Tesla Stock Rises as Company Confirms Robotaxi Testing with No Safety Driver
+1. Jury Convicts Brian Walshe of First-Degree Murder in Wife's Death
+2. Chile's Conservative Landslide Gives Trump New Latin America Ally
+3. Bitcoin Plunges, Liquidating $200 Million Worth of Levered Longs in 30 Minutes
+4. US Prosecutor Accuses Wisconsin Judge of Helping Migrant Evade Arrest
+5. Wall St Indexes Edge Up as Investors Position for Busy Week of Data
+6. Russia Indicates Openness to Ukraine Joining European Union as Part of Peace Deal
 
 ----
 
-@reuters.com
+@cnn.com
 
-<strong><span style="color: red;">JUST IN:</span> Nick Reiner, the son of filmmaker Rob Reiner, was arrested on homicide charges and being held in a Los Angeles County jail on a $4 million bond after the director and his wife were found dead in their Los Angeles home reut.rs/3KYY37w</strong>
+The jury considering Brian Walshe’s fate in his murder trial resumed deliberations in Dedham, Massachusetts, Monday morning.
 
-[2025-12-16 02:08:15](https://bsky.app/profile/reuters.com/post/3ma24o4g5zs2w)
-
----
-
-@usatoday.com
-
-Acccording to FBI Director Kash Patel, the group was planning coordinated IED bombing attacks on NYE targeting five locations across Los Angeles.
-
-[2025-12-16 02:07:59](https://bsky.app/profile/usatoday.com/post/3ma24nn4kmh2s)
-
----
-
-@usatoday.com
-
-Mia Tretta was sitting in her Brown University dorm room with friends when she got a text message about an active shooter. She didn’t believe it at first ‒ despite her own painful experience with school shootings. bit.ly/4adWsoJ 
-
-[2025-12-16 02:06:05](https://bsky.app/profile/usatoday.com/post/3ma24kar7gp2w)
-
----
-
-@reuters.com
-
-Copper prices rise on weaker dollar, ignoring weak China data for now reut.rs/3KMGpE0
-
-[2025-12-16 02:05:13](https://bsky.app/profile/reuters.com/post/3ma24ipkasu2s)
-
----
-
-@usatoday.com
-
-Howie Mandel didn't get diagnosed with OCD until his 40s, but doesn't remember a time without it. He talks about NOCD, AI therapy, and misconceptions.
-
-[2025-12-16 02:04:08](https://bsky.app/profile/usatoday.com/post/3ma24gqv4zw2s)
-
----
-
-@washingtonpost.com
-
-The world lost Rob Reiner on Sunday, along with his wife, Michele. An actor, writer, producer and director, Reiner leaves behind an incredible body of work.
-
-These are the movies that stood the test of time: https://wapo.st/4acgBvj
-
-[2025-12-16 02:01:17](https://bsky.app/profile/washingtonpost.com/post/3ma24bnprqx2i)
-
----
-
-@reuters.com
-
-Wall St indexes edge up as investors position for busy week of data reut.rs/3MDuOaX
-
-[2025-12-16 02:01:14](https://bsky.app/profile/reuters.com/post/3ma24blgw2s2i)
-
----
-
-@nbcnews.com
-
-Defense Secretary Pete Hegseth said in a post on X that the person who carried out the attack in Syria was killed by U.S. partner forces, but did not provide additional details.
-
-[2025-12-16 02:01:11](https://bsky.app/profile/nbcnews.com/post/3ma24bhwcsa2d)
-
----
-
-@cnbc.com
-
-When your kid comes to you with a problem — you might be tempted to step in and try to offer a solution.
-
-Asking this one question, however, is a better help to children, this psychologist says.
-
-[2025-12-16 02:00:57](https://bsky.app/profile/cnbc.com/post/3ma24b37rnj23)
+[2025-12-16 02:28:03](https://bsky.app/profile/cnn.com/post/3ma25rjsxau2a)
 
 ---
 
 @apnews.com
 
-Many U.S. consumers say they've noticed higher than usual prices for holiday gifts in recent months, according to a a December poll from The Associated Press-NORC Center for Public Affairs Research.
+Brian Walshe was found guilty of killing his wife Ana, whose body was never found after she disappeared from their Massachusetts home nearly three years ago.
 
-[2025-12-16 02:00:36](https://bsky.app/profile/apnews.com/post/3ma24agww2i23)
+[2025-12-16 02:26:43](https://bsky.app/profile/apnews.com/post/3ma25p5naeu23)
+
+---
+
+@financialtimes.com
+
+Chile’s conservative landslide gives Trump new Latin America ally on.ft.com/4pOvf0H
+
+[2025-12-16 02:26:03](https://bsky.app/profile/financialtimes.com/post/3ma25nwy7xj2w)
+
+---
+
+@reuters.com
+
+Scarred by ethnic violence, Manipur's clubs continue to fight for survival reut.rs/3MZiAcC
+
+[2025-12-16 02:25:13](https://bsky.app/profile/reuters.com/post/3ma25mhi3ho2k)
+
+---
+
+@axios.com
+
+Implementing the sprawling levies at the center of Trump's economic agenda looks simple relative to the chaos of trying to undo it.
+
+[2025-12-16 02:23:43](https://bsky.app/profile/axios.com/post/3ma25jr7ob22l)
+
+---
+
+@nbcnews.com
+
+An overwhelming majority of U.S. adults are satisfied with their health insurance coverage overall, including most older Americans and those on Medicare and Medicaid, according to a new NBC News Decision Desk Poll powered by SurveyMonkey.
+
+[2025-12-16 02:20:10](https://bsky.app/profile/nbcnews.com/post/3ma25dgqc2e2n)
+
+---
+
+@nytimes.com
+
+Globally, gout rates have climbed more than 20% since 1990, rising alongside rates of other chronic conditions like obesity, which can worsen the disease. But what is gout, and why is it growing so rapidly?
+
+[2025-12-16 02:17:21](https://bsky.app/profile/nytimes.com/post/3ma256f5nvt26)
+
+---
+
+@npr.org
+
+The tune crooned by Bing Crosby is still one of the most popular Christmas songs of all time. It's endured as a favorite — despite a complicated and controversial history. n.pr/3MB4PAR
+
+[2025-12-16 02:15:44](https://bsky.app/profile/npr.org/post/3ma253iqtuq2m)
+
+---
+
+@reuters.com
+
+Meta’s “Trusted Experts” helped me run scam ads on Facebook and Instagram reut.rs/48ZgrVP
+
+[2025-12-16 02:15:18](https://bsky.app/profile/reuters.com/post/3ma252pwwbz2x)
+
+---
+
+@yahoofinance.com
+
+Bitcoin is plummeting, liquidating $200 million worth of levered longs in 30 minutes.
+
+[2025-12-16 02:14:45](https://bsky.app/profile/yahoofinance.com/post/3ma24zqtx6c2n)
 
 ---
 
