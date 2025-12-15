@@ -1,9 +1,9 @@
-# [2025-12-15 12:10 updated](2025_12_15.md)
+# [2025-12-15 12:30 updated](2025_12_15.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">前場の東京株式市場で日経平均は反落し、前営業日比７４４円４５銭安の５万００９２円１０銭となった。前週末の米国市場でのハイテク株安を嫌気し、寄与度の高い関連株の下落が指数を押し下げた。一方、日銀の利上げへの思惑から金融株はしっかりとなり、ＴＯＰＩＸは一時、取引時間中の最高値を更新した。 bit.ly/4iWk1ET <a href="https://bsky.app/profile/japan.reuters.com/post/3m7ynpqgjqw2u" target="_blank">japan.reuters.com</a> (2025-12-15 12:08:03)</span><span style="padding-right:50px;">中国外務省は１５日、「一つの中国」原則と中日間の４つの政治文書の精神に違反し、中国の内政に干渉したとして、岩崎茂元統合幕僚長にビザ（査証）制限、中国国内の資産凍結、取引禁止などの制裁を科すと発表した。 bit.ly/3KL1You <a href="https://bsky.app/profile/japan.reuters.com/post/3m7ynns2rio2u" target="_blank">japan.reuters.com</a> (2025-12-15 12:06:58)</span><span style="padding-right:50px;">The 78-year-old media mogul has been found guilty on charges of conspiring to commit sedition and foreign collusion, in the most closely watched trial since Beijing’s crackdown on the city’s pro-democracy movement six years ago on.ft.com/4rUb1nA <a href="https://bsky.app/profile/financialtimes.com/post/3m7ynmnvz5q25" target="_blank">financialtimes.com</a> (2025-12-15 12:06:20)</span><span style="padding-right:50px;">🛎️NNNより【独自】です。  【独自】密閉空間に一気に空気入り爆発“バックドラフト”起きたか 消防隊員2人死亡の道頓堀ビル火災 (2025-12-15 11:59) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7ynlejxuh2y" target="_blank">sokuho.news</a> (2025-12-15 12:05:37)</span><span style="padding-right:50px;">今週の外為市場でドル／円は、高値圏を推移する展開を想定する声が出ている。日銀金融政策決定会合は利上げが織り込み済みで、植田和男総裁が今後の追加利上げに前向きな姿勢を示さない限り、円を買い上がる手掛かりは乏しいとの見方が大勢だ。米国では政府閉鎖のため遅延していた雇用統計が発表されるが、集計の精度に疑問を呈する声もあり、仮に下振れても持続的なドル安／円高は進みづらいという。 bit.ly/4qtxyq7 <a href="https://bsky.app/profile/japan.reuters.com/post/3m7ynknroqa2q" target="_blank">japan.reuters.com</a> (2025-12-15 12:05:13)</span>
+<span style="padding-right:50px;">中国の吉利汽車は１２日、自動車業界全般向けに安全試験を提供する２億８４００万ドルの施設を開設した。中国自動車業界では長期化する価格競争によりメーカーがコスト削減と開発速度を優先され、製品の品質への懸念が高まっていることが背景にある。 bit.ly/48Oqg8V <a href="https://bsky.app/profile/japan.reuters.com/post/3m7yormdk652q" target="_blank">japan.reuters.com</a> (2025-12-15 12:27:00)</span><span style="padding-right:50px;">For these small-town museums, memes are a work of art—literally. <a href="https://bsky.app/profile/wsj.com/post/3m7yoqstlke2o" target="_blank">wsj.com</a> (2025-12-15 12:26:33)</span><span style="padding-right:50px;">野村ホールディングスの奥田健太郎社長はロイターのインタビューに応じ、オルタナティブ（代替）資産の拡大に向けてプライベートデット（銀行以外の主体による融資）を手がける運用会社の買収も視野に成長投資を検討していることを明らかにした。欧米のプライベートデット市場の知見を取り込み、日本市場でも本格展開を目指す。 bit.ly/4q72tIl <a href="https://bsky.app/profile/japan.reuters.com/post/3m7yoohqyt52v" target="_blank">japan.reuters.com</a> (2025-12-15 12:25:15)</span><span style="padding-right:50px;">Two people have been found dead inside a Los Angeles home owned by actor-director Rob Reiner, source tells AP. <a href="https://bsky.app/profile/apnews.com/post/3m7yonlkpmx2r" target="_blank">apnews.com</a> (2025-12-15 12:24:45)</span><span style="padding-right:50px;">パプアニューギニアのピーター・シアマリリ情報通信技術相代理は１２日、米ＩＴ大手アルファベット傘下のグーグルが同国に海底ケーブルを３本敷設すると発表した。同国のデジタル基盤を強化するのが狙いで、相互防衛条約に基づいてオーストラリアが建設にかかる１億２０００万ドルを提供する。 bit.ly/4acpZ20 <a href="https://bsky.app/profile/japan.reuters.com/post/3m7yojqbqdn25" target="_blank">japan.reuters.com</a> (2025-12-15 12:22:36)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50092.10 (🔻259.99 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3316.00 (🔺73.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.30 (🔻0.38 : 2025-12-15)</span>
+<span style="padding-right:50px;">NIKKEI: 50092.10 (🔻259.99 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3316.00 (🔺73.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.40 (🔻0.27 : 2025-12-15)</span>
   </div>
 </div>
 
@@ -32,95 +32,98 @@
 
 ## News Headlines
 
-1. 日経平均反落、米ハイテク株安を嫌気
-2. 中国、岩崎元統合幕僚長に制裁　「一つの中国」原則に違反
-3. 香港高裁、民主運動指導者ライの有罪判決
-4. ドル円高を予測する声　日銀金融政策決定会合
-5. ドル/円は高値圏を推移する展開を想定する
-6. 米大リーグ・ダイヤモンドバックス、メリル・ケリーと契約
+１. 中国の吉利汽車　自動車業界向け安全試験施設を設立
+２. 野村ホールディングス　プライベートデットの買収を検討
+３. Google　パプアニューギニアに海底ケーブルを敷設
+４. 岡山空港　新千歳行きで雪の影響　函館に変更か引き返し条件付き運航
+５. 日銀　大企業業況判断指数が4年ぶりの高水準
+６. インドの大手格安航空　欠航による顧客への補償金の支払い総額が５０億ルピーを超える
 
 ----
 
 @japan.reuters.com
 
-前場の東京株式市場で日経平均は反落し、前営業日比７４４円４５銭安の５万００９２円１０銭となった。前週末の米国市場でのハイテク株安を嫌気し、寄与度の高い関連株の下落が指数を押し下げた。一方、日銀の利上げへの思惑から金融株はしっかりとなり、ＴＯＰＩＸは一時、取引時間中の最高値を更新した。 bit.ly/4iWk1ET
+中国の吉利汽車は１２日、自動車業界全般向けに安全試験を提供する２億８４００万ドルの施設を開設した。中国自動車業界では長期化する価格競争によりメーカーがコスト削減と開発速度を優先され、製品の品質への懸念が高まっていることが背景にある。 bit.ly/48Oqg8V
 
-[2025-12-15 12:08:03](https://bsky.app/profile/japan.reuters.com/post/3m7ynpqgjqw2u)
+[2025-12-15 12:27:00](https://bsky.app/profile/japan.reuters.com/post/3m7yormdk652q)
+
+---
+
+@wsj.com
+
+For these small-town museums, memes are a work of art—literally.
+
+[2025-12-15 12:26:33](https://bsky.app/profile/wsj.com/post/3m7yoqstlke2o)
 
 ---
 
 @japan.reuters.com
 
-中国外務省は１５日、「一つの中国」原則と中日間の４つの政治文書の精神に違反し、中国の内政に干渉したとして、岩崎茂元統合幕僚長にビザ（査証）制限、中国国内の資産凍結、取引禁止などの制裁を科すと発表した。 bit.ly/3KL1You
+野村ホールディングスの奥田健太郎社長はロイターのインタビューに応じ、オルタナティブ（代替）資産の拡大に向けてプライベートデット（銀行以外の主体による融資）を手がける運用会社の買収も視野に成長投資を検討していることを明らかにした。欧米のプライベートデット市場の知見を取り込み、日本市場でも本格展開を目指す。 bit.ly/4q72tIl
 
-[2025-12-15 12:06:58](https://bsky.app/profile/japan.reuters.com/post/3m7ynns2rio2u)
+[2025-12-15 12:25:15](https://bsky.app/profile/japan.reuters.com/post/3m7yoohqyt52v)
 
 ---
 
-@financialtimes.com
+@apnews.com
 
-The 78-year-old media mogul has been found guilty on charges of conspiring to commit sedition and foreign collusion, in the most closely watched trial since Beijing’s crackdown on the city’s pro-democracy movement six years ago on.ft.com/4rUb1nA
+Two people have been found dead inside a Los Angeles home owned by actor-director Rob Reiner, source tells AP.
 
-[2025-12-15 12:06:20](https://bsky.app/profile/financialtimes.com/post/3m7ynmnvz5q25)
+[2025-12-15 12:24:45](https://bsky.app/profile/apnews.com/post/3m7yonlkpmx2r)
+
+---
+
+@japan.reuters.com
+
+パプアニューギニアのピーター・シアマリリ情報通信技術相代理は１２日、米ＩＴ大手アルファベット傘下のグーグルが同国に海底ケーブルを３本敷設すると発表した。同国のデジタル基盤を強化するのが狙いで、相互防衛条約に基づいてオーストラリアが建設にかかる１億２０００万ドルを提供する。 bit.ly/4acpZ20
+
+[2025-12-15 12:22:36](https://bsky.app/profile/japan.reuters.com/post/3m7yojqbqdn25)
 
 ---
 
 @sokuho.news
 
-🛎️NNNより【独自】です。
+🛎️FNNより【速報】です。
 
-【独自】密閉空間に一気に空気入り爆発“バックドラフト”起きたか 消防隊員2人死亡の道頓堀ビル火災
-(2025-12-15 11:59) #ニュース
+【速報】岡山空港の新千歳行きで雪の影響 函館に変更か引き返しの条件付き運航 新千歳では欠航便【岡山】
+(2025-12-15 12:00) #ニュース
 
-[2025-12-15 12:05:37](https://bsky.app/profile/sokuho.news/post/3m7ynlejxuh2y)
+[2025-12-15 12:21:05](https://bsky.app/profile/sokuho.news/post/3m7yogzpbth26)
 
 ---
 
 @japan.reuters.com
 
-今週の外為市場でドル／円は、高値圏を推移する展開を想定する声が出ている。日銀金融政策決定会合は利上げが織り込み済みで、植田和男総裁が今後の追加利上げに前向きな姿勢を示さない限り、円を買い上がる手掛かりは乏しいとの見方が大勢だ。米国では政府閉鎖のため遅延していた雇用統計が発表されるが、集計の精度に疑問を呈する声もあり、仮に下振れても持続的なドル安／円高は進みづらいという。 bit.ly/4qtxyq7
+日銀が１５日に発表した１２月短観によると、大企業・製造業の業況判断指数（ＤＩ）はプラス１５で、２０２１年１２月（プラス１８）以来４年ぶりの高水準となった。市場では、今週の金融政策決定会合で日銀が利上げを判断するうえでサポートになると受け止められている。大企業・非製造業の業況判断ＤＩはプラス３４と、前回から横ばいだった。 bit.ly/4aig0s8
 
-[2025-12-15 12:05:13](https://bsky.app/profile/japan.reuters.com/post/3m7ynknroqa2q)
+[2025-12-15 12:20:15](https://bsky.app/profile/japan.reuters.com/post/3m7yofjulaf22)
 
 ---
 
 @reuters.com
 
-<strong><span style="color: red;">BREAKING:</span> Hong Kong's High Court found pro-democracy campaigner Jimmy Lai guilty on two counts of conspiracy to collude with foreign forces and one count of sedition under a China-imposed national security law that could see him jailed for life. Follow our live coverage: reut.rs/4pDfTfi</strong>
+A beachside shooting throws Australia's three-decade gun control regime into question reut.rs/4aMfwKP
 
-[2025-12-15 12:04:34](https://bsky.app/profile/reuters.com/post/3m7ynjil47k2j)
-
----
-
-@japan.reuters.com
-
-米大リーグ（ＭＬＢ）ダイヤモンドバックスが１４日、レンジャーズからフリーエージェント（ＦＡ）となっていた先発右腕メリル・ケリー投手（３７）と２年総額４０００万ドル（約６２億３０００万円）の契約で合意に達した。ＭＬＢ公式サイトなどが伝えた。 bit.ly/4oWV65w
-
-[2025-12-15 12:03:34](https://bsky.app/profile/japan.reuters.com/post/3m7ynhprm642n)
+[2025-12-15 12:20:12](https://bsky.app/profile/reuters.com/post/3m7yofhm35o2c)
 
 ---
 
 @japan.reuters.com
 
-＜１１：３２＞　前場の日経平均は反落、米ハイテク株安を嫌気　ＴＯＰＩＸは高値更新 bit.ly/3L2f6FI
+インドの大手格安航空会社（ＬＣＣ）インディゴは１２日、今月初旬から続いた旅客便の大規模な欠航に関連し、影響を受けた顧客に対する補償金の支払いが総額５０億ルピー（５５１９万ドル）超になるとの推計を発表した。 bit.ly/491J3Oq
 
-[2025-12-15 12:02:23](https://bsky.app/profile/japan.reuters.com/post/3m7ynfm2n6a2q)
-
----
-
-@cnn.com
-
-Lawmakers are scrambling to address skyrocketing health care costs in the final days before Congress leaves Washington for the holidays, with enhanced tax credits that make insurance premiums more affordable for millions of Americans set to expire at the end of the month. 
-
-[2025-12-15 12:02:01](https://bsky.app/profile/cnn.com/post/3m7ynewxgq426)
+[2025-12-15 12:16:56](https://bsky.app/profile/japan.reuters.com/post/3m7yo7mngjj2p)
 
 ---
 
-@japan.reuters.com
+@sokuho.news
 
-トランプ米大統領の攻撃的な政策は、経済構造や移民対策を変容させているだけではない。２０２８年の大統領選に向けて、野党民主党の有力州知事３人を勢いづかせるという皮肉な構図も生み出している。 bit.ly/3MZaOQ0
+🛎️FNNより【速報】です。
 
-[2025-12-15 12:01:05](https://bsky.app/profile/japan.reuters.com/post/3m7yndbgvgu2v)
+【速報】岡山空港の新千歳行きで雪の影響 函館に変更か引き返しの条件付き運航に【岡山】
+(2025-12-15 12:00) #ニュース
+
+[2025-12-15 12:16:41](https://bsky.app/profile/sokuho.news/post/3m7yo75nvc52s)
 
 ---
 
