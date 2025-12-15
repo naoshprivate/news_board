@@ -1,9 +1,9 @@
-# [2025-12-15 09:30 updated](2025_12_15.md)
+# [2025-12-15 09:50 updated](2025_12_15.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">＜０９：０８＞　日経平均は反落で寄り付く、米ハイテク株安を嫌気　5万円付近で下げ渋り bit.ly/44Y8DSY <a href="https://bsky.app/profile/japan.reuters.com/post/3m7yetg4cjx2f" target="_blank">japan.reuters.com</a> (2025-12-15 09:29:03)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】福岡2人刺傷事件で男逮捕「殺そうと思って刺した」 (2025-12-15 09:08) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7yescky6q2r" target="_blank">sokuho.news</a> (2025-12-15 09:28:26)</span><span style="padding-right:50px;">スピードスケートのワールドカップ（Ｗ杯）は１４日、ノルウェーのハーマルで各競技を行い、女子５００メートルは吉田雪乃が制し、来年２月に行われるミラノ・コルティナ冬季五輪の代表入りを確実にした。 bit.ly/3KzwgdP <a href="https://bsky.app/profile/japan.reuters.com/post/3m7yerhefoy2s" target="_blank">japan.reuters.com</a> (2025-12-15 09:27:57)</span><span style="padding-right:50px;">＜０８：４６＞　国債先物は小反発で寄り付く、夜間取引の上昇に追随 bit.ly/3MGftpV <a href="https://bsky.app/profile/japan.reuters.com/post/3m7yephd7f72f" target="_blank">japan.reuters.com</a> (2025-12-15 09:26:50)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】30歳無職の男を殺人未遂の疑いで逮捕 福岡市の商業施設でHKT48スタッフの男性な女2人が刺傷 事件への関与をほのめかす (2025-12-15 09:05:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7yep2x22226" target="_blank">sokuho.news</a> (2025-12-15 09:26:37)</span>
+<span style="padding-right:50px;">カナダの調査会社テックインサイツによると、中国の通信機器大手、華為技術（ファーウェイ）の最新のスマートフォン旗艦モデル「Ｍａｔｅ８０」シリーズに搭載されている半導体「Ｋｉｒｉｎ９０３０」は回路線幅７ナノメートル（ナノは１０億分の１）の改良版で、台湾積体電路製造（ＴＳＭＣ）やサムスン電子に依然として後れを取っている。 bit.ly/4oXGdzI <a href="https://bsky.app/profile/japan.reuters.com/post/3m7yfttjfcd2p" target="_blank">japan.reuters.com</a> (2025-12-15 09:47:11)</span><span style="padding-right:50px;">José Antonio Kast, a former lawmaker who wants to build a barrier on Chile’s northern border and deport undocumented migrants, will be the country’s most rightwing president in 35 years of democracy on.ft.com/3XUmp5q <a href="https://bsky.app/profile/financialtimes.com/post/3m7yfrkapyd2w" target="_blank">financialtimes.com</a> (2025-12-15 09:45:54)</span><span style="padding-right:50px;">東京ガスの笹山晋一社長は、次期中期経営計画（２０２６─２８年度）に盛り込んだ海外での成長投資３５００億円の過半を米国に投入する考えを示した。ガス需要の高い現地で開発から販売まで「バリューチェーン」を構築するとともに、国際的なトレーディング機能を強化し、収益拡大を図る。 bit.ly/4qb0GCd <a href="https://bsky.app/profile/japan.reuters.com/post/3m7yfqhflbw2c" target="_blank">japan.reuters.com</a> (2025-12-15 09:45:18)</span><span style="padding-right:50px;">iRobot enters Chapter 11, lender to acquire Roomba maker reut.rs/4pBceP4 <a href="https://bsky.app/profile/reuters.com/post/3m7yfqeaqby24" target="_blank">reuters.com</a> (2025-12-15 09:45:14)</span><span style="padding-right:50px;">Breaking News from @theathletic.com: The NFL star Patrick Mahomes tore his ACL during Kansas City’s loss to the Chargers. <a href="https://bsky.app/profile/nytimes.com/post/3m7yfq4aop225" target="_blank">nytimes.com</a> (2025-12-15 09:45:06)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50250.34 (🔻101.75 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3281.00 (🔺38.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.93 (🔺0.26 : 2025-12-15)</span>
+<span style="padding-right:50px;">NIKKEI: 50305.69 (🔻46.40 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3281.00 (🔺38.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.96 (🔺0.28 : 2025-12-15)</span>
   </div>
 </div>
 
@@ -32,104 +32,111 @@
 
 ## News Headlines
 
-1.  30歳の男を殺人未遂の疑いで逮捕
-2.  日銀短観　大企業製造業3期連続改善
-3.  オーストラリアの観光地で銃撃事件、16人死亡
-4.  日経平均株価一時700円超値下がり
-5.  米実業家イーロン・マスク氏が率いる宇宙企業スペースＸが新規株式公開を準備
-6.  中国財政省が来年は積極的な財政政策を行うことを明らかに
+1.  チャイナ・ファーウェイ、台湾のTSMCやサムスンに後れを取る半導体「Kirin 9030」を搭載
+2.  チリの右派の指導者カスト氏、35年ぶりの右派大統領に選出
+3.  東京ガスの笹山社長「米国に3,500億円投資　バリューチェーン構築と収益拡大」
+4.  iRobot、Chapter 11に入りロボット掃除機メーカーを買収
+5.  NFLのパトリック・マホームズ選手、ACL損傷でシーズン絶望
+6.  中国共産党、2026年に輸出入を拡大する計画を発表
+7.  ベネズエラとの緊張が高まる中、米軍のホルシー司令官が2年早く退任
+8.  香港民主党、中国政府からの圧力もあり解散を正式決定
+9.  韓国の銅鉱山会社、米国との合弁でスメルター建設計画を策定
+10.  シリア内務省、イスラム国の活動と疑われる部隊員を逮捕
+11.  NFLのヘッドコーチ、殺人未遂で起訴される
+12.  Nigella Lawsonのチョコレートガインズカークイーン
+13.  オーストラリアの観光名所ボンダイビーチで銃撃事件が発生、16人が死亡
+14.  ウクライナのゼレンスキー大統領、NATO加盟を断念する可能性あり
+15.  オラクル、AIデータセンターの完成を否定
+16.  日経平均株価、5万円付近で下げ渋り
+17.  スピードスケートのワールドカップ、吉田雪乃が500mで優勝
+18.  オーストラリアの観光名所ボンダイビーチで銃撃事件で16人が死亡
+19.  日銀短観、大企業製造業3期連続で改善
+20.  トランプ米大統領が課したH-1Bビザの10万ドルの手数料を巡り、20州が訴訟を起こす
+21.  日銀発表の12月短観、大企業製造業の業況判断指数が3期連続で改善
+22.  オーストラリアの観光名所ボンダイビーチで銃撃事件で16人が死亡
+23.  日銀短観、大企業製造業の業況判断指数が3期連続で改善
+24.  トランプ米大統領が課したH-1Bビザの10万ドルの手数料を巡り、20州が訴訟を起こす
+25.  ギャビン・ニューソムの2028年大統領選挙への挑戦者たち、人気の低さを強調
 
 ----
 
 @japan.reuters.com
 
-＜０９：０８＞　日経平均は反落で寄り付く、米ハイテク株安を嫌気　5万円付近で下げ渋り bit.ly/44Y8DSY
+カナダの調査会社テックインサイツによると、中国の通信機器大手、華為技術（ファーウェイ）の最新のスマートフォン旗艦モデル「Ｍａｔｅ８０」シリーズに搭載されている半導体「Ｋｉｒｉｎ９０３０」は回路線幅７ナノメートル（ナノは１０億分の１）の改良版で、台湾積体電路製造（ＴＳＭＣ）やサムスン電子に依然として後れを取っている。 bit.ly/4oXGdzI
 
-[2025-12-15 09:29:03](https://bsky.app/profile/japan.reuters.com/post/3m7yetg4cjx2f)
+[2025-12-15 09:47:11](https://bsky.app/profile/japan.reuters.com/post/3m7yfttjfcd2p)
 
 ---
 
-@sokuho.news
+@financialtimes.com
 
-🛎️FNNより【速報】です。
+José Antonio Kast, a former lawmaker who wants to build a barrier on Chile’s northern border and deport undocumented migrants, will be the country’s most rightwing president in 35 years of democracy on.ft.com/3XUmp5q
 
-【速報】福岡2人刺傷事件で男逮捕「殺そうと思って刺した」
-(2025-12-15 09:08) #ニュース
-
-[2025-12-15 09:28:26](https://bsky.app/profile/sokuho.news/post/3m7yescky6q2r)
+[2025-12-15 09:45:54](https://bsky.app/profile/financialtimes.com/post/3m7yfrkapyd2w)
 
 ---
 
 @japan.reuters.com
 
-スピードスケートのワールドカップ（Ｗ杯）は１４日、ノルウェーのハーマルで各競技を行い、女子５００メートルは吉田雪乃が制し、来年２月に行われるミラノ・コルティナ冬季五輪の代表入りを確実にした。 bit.ly/3KzwgdP
+東京ガスの笹山晋一社長は、次期中期経営計画（２０２６─２８年度）に盛り込んだ海外での成長投資３５００億円の過半を米国に投入する考えを示した。ガス需要の高い現地で開発から販売まで「バリューチェーン」を構築するとともに、国際的なトレーディング機能を強化し、収益拡大を図る。 bit.ly/4qb0GCd
 
-[2025-12-15 09:27:57](https://bsky.app/profile/japan.reuters.com/post/3m7yerhefoy2s)
-
----
-
-@japan.reuters.com
-
-＜０８：４６＞　国債先物は小反発で寄り付く、夜間取引の上昇に追随 bit.ly/3MGftpV
-
-[2025-12-15 09:26:50](https://bsky.app/profile/japan.reuters.com/post/3m7yephd7f72f)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】30歳無職の男を殺人未遂の疑いで逮捕 福岡市の商業施設でHKT48スタッフの男性な女2人が刺傷 事件への関与をほのめかす
-(2025-12-15 09:05:00) #ニュース
-
-[2025-12-15 09:26:37](https://bsky.app/profile/sokuho.news/post/3m7yep2x22226)
-
----
-
-@japan.reuters.com
-
-オーストラリアの観光名所ボンダイビーチで１４日に起きた銃撃事件で、警察当局は１５日、容疑者１人を含む１６人が死亡したと発表した。容疑者は父親（５０）と息子（２４）の２人で、父親は現場で死亡、息子は病院で重体という。 bit.ly/3YqRY6P
-
-[2025-12-15 09:25:13](https://bsky.app/profile/japan.reuters.com/post/3m7yeml36dh2q)
+[2025-12-15 09:45:18](https://bsky.app/profile/japan.reuters.com/post/3m7yfqhflbw2c)
 
 ---
 
 @reuters.com
 
-Japan business mood hits 4-year high, keeps BOJ rate-hike view alive reut.rs/4q3fH92
+iRobot enters Chapter 11, lender to acquire Roomba maker reut.rs/4pBceP4
 
-[2025-12-15 09:25:10](https://bsky.app/profile/reuters.com/post/3m7yemhrd7o2k)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】岡山市東区で歩行者が車にはねられ重体の模様
-(2025-12-15 09:13:00) #ニュース
-
-[2025-12-15 09:24:45](https://bsky.app/profile/sokuho.news/post/3m7yelpwk7g2v)
+[2025-12-15 09:45:14](https://bsky.app/profile/reuters.com/post/3m7yfqeaqby24)
 
 ---
 
-@axios.com
+@nytimes.com
 
-The mass shooting at Bondi Beach in Sydney, Australia, has prompted police in New York, Los Angeles and cities around the world to step up security protections during the Jewish celebration of Hanukkah.
+<strong><span style="color: red;">Breaking News</span> from @theathletic.com: The NFL star Patrick Mahomes tore his ACL during Kansas City’s loss to the Chargers.</strong>
 
-[2025-12-15 09:20:37](https://bsky.app/profile/axios.com/post/3m7yeedlggc2u)
+[2025-12-15 09:45:06](https://bsky.app/profile/nytimes.com/post/3m7yfq4aop225)
 
 ---
 
-@sokuho.news
+@japan.reuters.com
 
-🔔ANNより【速報】です。
+中国共産党の経済政策担当幹部は、「持続可能な」貿易を促進するための取り組みの一環として、２０２６年に輸出と輸入をともに拡大する計画を明らかにした。中国国営の中国中央テレビ（ＣＣＴＶ）が１３日、報じた。 bit.ly/3Ys1yGF
 
-【速報】日銀短観 大企業製造業3期連続改善
-(09:19) #ニュース
+[2025-12-15 09:40:14](https://bsky.app/profile/japan.reuters.com/post/3m7yfhfrcbx2c)
 
-[2025-12-15 09:20:20](https://bsky.app/profile/sokuho.news/post/3m7yedti3jq2b)
+---
+
+@reuters.com
+
+China Vanke fails to win approval to delay $284 million bond payment reut.rs/3KIidCL
+
+[2025-12-15 09:40:10](https://bsky.app/profile/reuters.com/post/3m7yfhcig662p)
+
+---
+
+@japan.reuters.com
+
+米国による「麻薬密輸船」への攻撃を巡りベネズエラとの緊張が高まる中、中南米地域を担当する米南方軍のホルシー司令官が１２日、予定より２年早く退任した。 bit.ly/3MCIwL5
+
+[2025-12-15 09:38:21](https://bsky.app/profile/japan.reuters.com/post/3m7yfe2dwo32v)
+
+---
+
+@japan.reuters.com
+
+香港民主派の有力政党として唯一存続していた民主党が１４日の臨時党大会で解散を正式に決定した。中国政府からの圧力が背景にあったもようだ。 bit.ly/4ah2Ifs
+
+[2025-12-15 09:35:15](https://bsky.app/profile/japan.reuters.com/post/3m7yf6ifzzh2q)
+
+---
+
+@reuters.com
+
+Korea Zinc board to discuss plan to build smelter under US joint venture, source says reut.rs/4azsjjZ
+
+[2025-12-15 09:35:12](https://bsky.app/profile/reuters.com/post/3m7yf6fslqw2b)
 
 ---
 
