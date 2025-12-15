@@ -1,9 +1,9 @@
-# [2025-12-16 06:10 updated](2025_12_16.md)
+# [2025-12-16 06:30 updated](2025_12_16.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像6🈡 (2025-12-16 06:07:15) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3ma2k2unkr32b" target="_blank">sokuho.news</a> (2025-12-16 06:08:01)</span><span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像5 (2025-12-16 06:07:07) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3ma2k2gg4vd2a" target="_blank">sokuho.news</a> (2025-12-16 06:07:46)</span><span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像4 (2025-12-16 06:06:47) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3ma2jznme4l2y" target="_blank">sokuho.news</a> (2025-12-16 06:07:20)</span><span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像3 (2025-12-16 06:06:45) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3ma2jzdwgjt2a" target="_blank">sokuho.news</a> (2025-12-16 06:07:10)</span><span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像2 (2025-12-16 06:06:45) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3ma2jyyg2rr2s" target="_blank">sokuho.news</a> (2025-12-16 06:06:58)</span>
+<span style="padding-right:50px;">Pentagon takes big stake in new Korea Zinc smelter in Tennessee, will get 10% of company <a href="https://bsky.app/profile/cnbc.com/post/3ma2l3dlfyv25" target="_blank">cnbc.com</a> (2025-12-16 06:26:11)</span><span style="padding-right:50px;">Spirit Airlines secures $100 million lifeline to stay afloat during bankruptcy reut.rs/4iYIwBf <a href="https://bsky.app/profile/reuters.com/post/3ma2kzjn2ao2x" target="_blank">reuters.com</a> (2025-12-16 06:25:10)</span><span style="padding-right:50px;">JUST IN: Ford said it will take a $19.5 billion writedown and is killing several electric-vehicle models, in the most dramatic example yet of the auto industry's retreat from battery-powered models in response to the Trump administration's policies and weakening EV demand reut.rs/4qaTs12 <a href="https://bsky.app/profile/reuters.com/post/3ma2kzauams2e" target="_blank">reuters.com</a> (2025-12-16 06:25:01)</span><span style="padding-right:50px;">Tesla stock closes at 2025 high after Musk confirms driverless Robotaxi tests underway in Austin <a href="https://bsky.app/profile/cnbc.com/post/3ma2kz5ejsr2p" target="_blank">cnbc.com</a> (2025-12-16 06:24:57)</span><span style="padding-right:50px;">北陸新幹線延伸 自民と維新 ルート再検証進める方針を決定 https://news.web.nhk/newsweb/na/na-k10015004881000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma2ks7rfc72m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 06:21:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.24 (🔻0.43 : 2025-12-15)</span>
+<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.18 (🔻0.49 : 2025-12-15)</span>
   </div>
 </div>
 
@@ -32,125 +32,97 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are six important stories with headlines:
 
-1. Germany's Parliament Hit by Suspected Cyber Attack During Ukraine President's Visit
-2. Ford Writes Down $19.5 Billion in EV Investments, Stops Making Electric F-150 Pickup
-3. Ukraine Claims to Have Damaged Russian Submarine with Underwater Drone
-4. Donald Trump Condemned for 'Perverse' Remarks on Film Director's Wife's Death
-5. Brazil's Petrobras Sees No Production Impact as Workers Begin Strike
-6. Australia's Strict Firearms Laws Cited as Model for Effective Gun Control
+* Ford to Take $19.5 Billion Hit as US Carmaker Overhauls EV Strategy
+* Tesla Shares Jump as Musk Confirms Driverless Robotaxi Testing
+* President Trump Signs Executive Order Classifying Fentanyl as 'Weapon of Mass Destruction'
+* Breaking: Police Release New Surveillance Video of Person of Interest in Brown University Shooting
+* US Treasury Rejects Xtellus-Led Bid for Lukoil Assets
+* iRobot, Maker of Iconic Roomba, Files for Bankruptcy
 
 ----
 
-@sokuho.news
+@cnbc.com
 
-🚨地震発生中❗❗
+Pentagon takes big stake in new Korea Zinc smelter in Tennessee, will get 10% of company
 
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像6🈡
-(2025-12-16 06:07:15) #緊急地震速報
-
-[2025-12-16 06:08:01](https://bsky.app/profile/sokuho.news/post/3ma2k2unkr32b)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗
-
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像5
-(2025-12-16 06:07:07) #緊急地震速報
-
-[2025-12-16 06:07:46](https://bsky.app/profile/sokuho.news/post/3ma2k2gg4vd2a)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗
-
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像4
-(2025-12-16 06:06:47) #緊急地震速報
-
-[2025-12-16 06:07:20](https://bsky.app/profile/sokuho.news/post/3ma2jznme4l2y)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗
-
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像3
-(2025-12-16 06:06:45) #緊急地震速報
-
-[2025-12-16 06:07:10](https://bsky.app/profile/sokuho.news/post/3ma2jzdwgjt2a)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗
-
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像2
-(2025-12-16 06:06:45) #緊急地震速報
-
-[2025-12-16 06:06:58](https://bsky.app/profile/sokuho.news/post/3ma2jyyg2rr2s)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗
-
-⚠️揺れに警戒してください
-🔗http://www.kmoni.bosai.go.jp/
-
-🔶防災科研/強震モニタ/予測震度画像1
-(2025-12-16 06:06:44) #緊急地震速報
-
-[2025-12-16 06:06:51](https://bsky.app/profile/sokuho.news/post/3ma2jyri6ka2x)
-
----
-
-@financialtimes.com
-
-German parliament suffers suspected cyber attack during Zelenskyy’s visit on.ft.com/4ae9xOM
-
-[2025-12-16 06:06:01](https://bsky.app/profile/financialtimes.com/post/3ma2jxbjf3q2b)
+[2025-12-16 06:26:11](https://bsky.app/profile/cnbc.com/post/3ma2l3dlfyv25)
 
 ---
 
 @reuters.com
 
-OpenAI hires veteran Google executive as corporate development VP reut.rs/4iW1IPY
+Spirit Airlines secures $100 million lifeline to stay afloat during bankruptcy reut.rs/4iYIwBf
 
-[2025-12-16 06:05:10](https://bsky.app/profile/reuters.com/post/3ma2jvr6gkc24)
+[2025-12-16 06:25:10](https://bsky.app/profile/reuters.com/post/3ma2kzjn2ao2x)
 
 ---
 
-@cnn.com
+@reuters.com
 
-Police have released new surveillance video of a person of interest in Saturday's shooting at Brown University. A previously detained individual has been cleared, Rhode Island's attorney general says. https://cnn.it/49aW754
+<strong><span style="color: red;">JUST IN:</span> Ford said it will take a $19.5 billion writedown and is killing several electric-vehicle models, in the most dramatic example yet of the auto industry's retreat from battery-powered models in response to the Trump administration's policies and weakening EV demand reut.rs/4qaTs12</strong>
 
-[2025-12-16 06:04:48](https://bsky.app/profile/cnn.com/post/3ma2jv4csku23)
+[2025-12-16 06:25:01](https://bsky.app/profile/reuters.com/post/3ma2kzauams2e)
 
 ---
 
 @cnbc.com
 
-Garry Ridge thought that being a commanding boss would make him successful, he said during a podcast appearance — until a professor changed his mind. 
+Tesla stock closes at 2025 high after Musk confirms driverless Robotaxi tests underway in Austin
 
-[2025-12-16 06:04:38](https://bsky.app/profile/cnbc.com/post/3ma2jusaofv24)
+[2025-12-16 06:24:57](https://bsky.app/profile/cnbc.com/post/3ma2kz5ejsr2p)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+北陸新幹線延伸 自民と維新 ルート再検証進める方針を決定
+https://news.web.nhk/newsweb/na/na-k10015004881000
+
+[2025-12-16 06:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma2ks7rfc72m)
+
+---
+
+@wsj.com
+
+For these shoppers, nothing gets the adrenaline pumping like paying for something with Kohl’s Cash.
+
+[2025-12-16 06:20:25](https://bsky.app/profile/wsj.com/post/3ma2kqzjgvo2h)
+
+---
+
+@usatoday.com
+
+<strong><span style="color: red;">Breaking:</span> President Trump signs executive order classifying fentanyl as a "weapon of mass destruction."</strong>
+
+[2025-12-16 06:20:25](https://bsky.app/profile/usatoday.com/post/3ma2kqzy3s42f)
+
+---
+
+@japan.reuters.com
+
+米金融大手ゴールドマン・サックスの１２日付の顧客向けリポートによると、ヘッジファンドは先週、香港と日本のハイテク株を売り越した。ロイターが１５日にリポートを確認した。ハイテク株の投資過熱感への懸念が強まる中、ヘッジファンドの売りを受けた形で、週明け１５日の取引では香港市場のハンセン指数と日経平均株価が下落した。 bit.ly/4qgEd6R
+
+[2025-12-16 06:20:24](https://bsky.app/profile/japan.reuters.com/post/3ma2kqysnox2v)
+
+---
+
+@cbsnews.com
+
+Scottie Scheffler earned another comparison with Tiger Woods on Monday, joining him as the only players to win PGA Tour player of the year at least four times in a row. 
+
+
+
+[2025-12-16 06:20:01](https://bsky.app/profile/cbsnews.com/post/3ma2kqcqjmi2h)
+
+---
+
+@cnbc.com
+
+New Trump tariffs collection hits $200 billion, Customs says
+
+[2025-12-16 06:16:56](https://bsky.app/profile/cnbc.com/post/3ma2kksosq32e)
 
 ---
 
