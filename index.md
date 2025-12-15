@@ -1,9 +1,9 @@
-# [2025-12-15 21:30 updated](2025_12_15.md)
+# [2025-12-15 21:50 updated](2025_12_15.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">インド政府が１５日発表した１１月のモノの貿易赤字は２４５億３０００万ドルに縮小した。金、石油、石炭の輸入が減少した。 bit.ly/4aNZ5O3 <a href="https://bsky.app/profile/japan.reuters.com/post/3m7zmtzn34z2c" target="_blank">japan.reuters.com</a> (2025-12-15 21:25:13)</span><span style="padding-right:50px;">Juventus shares jump after Agnelli family rejects crypto giant Tether's bid reut.rs/4iUz2qA <a href="https://bsky.app/profile/reuters.com/post/3m7zmtvpjng2s" target="_blank">reuters.com</a> (2025-12-15 21:25:09)</span><span style="padding-right:50px;">The bystander who tackled one of the gunmen in the attack on a Hanukkah celebration in Sydney was seriously injured, according to Australian officials, who on Monday identified him as Ahmed el Ahmed. He is recovering in a hospital. <a href="https://bsky.app/profile/nytimes.com/post/3m7zmtq2sgy2a" target="_blank">nytimes.com</a> (2025-12-15 21:25:03)</span><span style="padding-right:50px;">Rob Reiner — the director behind beloved films such as “When Harry Met Sally …” and “The Princess Bride” — and his wife, photographer Michele Singer Reiner, were found dead Sunday afternoon, according to officials. <a href="https://bsky.app/profile/washingtonpost.com/post/3m7zmt3cqpx2m" target="_blank">washingtonpost.com</a> (2025-12-15 21:24:41)</span><span style="padding-right:50px;">博多駅近くで70代の男性が刺され搬送 30代の男が出頭し逮捕 https://news.web.nhk/newsweb/na/na-k10015004731000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zmrxsmi226" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 21:24:02)</span>
+<span style="padding-right:50px;">Heard on the Street: The U.S. government relaxed the rules for small public companies in a push for more IPOs. But this approach has fueled a wave of scams. <a href="https://bsky.app/profile/wsj.com/post/3m7znzfb6zx2k" target="_blank">wsj.com</a> (2025-12-15 21:46:07)</span><span style="padding-right:50px;">中国工業情報省は１５日、自動運転レベル３を備えた車として国有メーカーの２車種を承認した。このような自動車が大規模導入に向けた合法的な製品として同省に認可されたのは初めて。 bit.ly/4pDCFUv <a href="https://bsky.app/profile/japan.reuters.com/post/3m7znxvj2rc2q" target="_blank">japan.reuters.com</a> (2025-12-15 21:45:17)</span><span style="padding-right:50px;">Nigeria consumer inflation at 14.45% y/y in November, stats office says reut.rs/4pDbuJk <a href="https://bsky.app/profile/reuters.com/post/3m7znxr4a3z2y" target="_blank">reuters.com</a> (2025-12-15 21:45:12)</span><span style="padding-right:50px;">This casino stock is beating the market in 2025. Why Goldman thinks the new year will bring more gains <a href="https://bsky.app/profile/cnbc.com/post/3m7znwbbupc24" target="_blank">cnbc.com</a> (2025-12-15 21:44:22)</span><span style="padding-right:50px;">President Trump and his advisers have an almost messianic belief the economy will take off in the first quarter of next year.  Trump's bullish belief is key to understanding why he's so reluctant to say there's an "affordability crisis." <a href="https://bsky.app/profile/axios.com/post/3m7znu6kffk2m" target="_blank">axios.com</a> (2025-12-15 21:43:12)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.02 (🔻0.66 : 2025-12-15)</span>
+<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.03 (🔻0.65 : 2025-12-15)</span>
   </div>
 </div>
 
@@ -32,93 +32,94 @@
 
 ## News Headlines
 
-1. インド政府「11月の貿易赤字は245億3000万ドルに縮小」
-2. トランプ大統領の関税発表でハンガリー・フォリントの取引量が2倍以上増加
-3. ロシア中央銀行、ベルギーのユーロクリアに対し損害賠償を求める訴訟を起こす
-4. ドイツ貿易投資振興機関「中国がドイツの輸出先上位５カ国から外れる見通し」
-5. 韓国が前大統領に対して政権崩壊を計画した疑いで起訴
-6. タイ選挙管理委員会「来年２月８日に総選挙を実施する」
+1. 自動運転レベル３車両が初めて国有メーカーから認可
+2. 中国が来年から出産にかかる自己負担を全額公費で負担する
+3. ロシア中央銀行がベルギーの中央証券保管機関に損害賠償を求める訴訟を起こす
+4. アナル・フリーマン襲撃事件の被害者が大統領を訪ねる
+5. トランプ米大統領がハンガリー・フォリントの取引量を２倍以上に増加させる
+6. ドイツ貿易投資振興機関が今年の対中輸出額が前年比１０％減となる
 
 ----
 
+@wsj.com
+
+Heard on the Street: The U.S. government relaxed the rules for small public companies in a push for more IPOs. But this approach has fueled a wave of scams.
+
+[2025-12-15 21:46:07](https://bsky.app/profile/wsj.com/post/3m7znzfb6zx2k)
+
+---
+
 @japan.reuters.com
 
-インド政府が１５日発表した１１月のモノの貿易赤字は２４５億３０００万ドルに縮小した。金、石油、石炭の輸入が減少した。 bit.ly/4aNZ5O3
+中国工業情報省は１５日、自動運転レベル３を備えた車として国有メーカーの２車種を承認した。このような自動車が大規模導入に向けた合法的な製品として同省に認可されたのは初めて。 bit.ly/4pDCFUv
 
-[2025-12-15 21:25:13](https://bsky.app/profile/japan.reuters.com/post/3m7zmtzn34z2c)
+[2025-12-15 21:45:17](https://bsky.app/profile/japan.reuters.com/post/3m7znxvj2rc2q)
 
 ---
 
 @reuters.com
 
-Juventus shares jump after Agnelli family rejects crypto giant Tether's bid reut.rs/4iUz2qA
+Nigeria consumer inflation at 14.45% y/y in November, stats office says reut.rs/4pDbuJk
 
-[2025-12-15 21:25:09](https://bsky.app/profile/reuters.com/post/3m7zmtvpjng2s)
-
----
-
-@nytimes.com
-
-The bystander who tackled one of the gunmen in the attack on a Hanukkah celebration in Sydney was seriously injured, according to Australian officials, who on Monday identified him as Ahmed el Ahmed. He is recovering in a hospital.
-
-[2025-12-15 21:25:03](https://bsky.app/profile/nytimes.com/post/3m7zmtq2sgy2a)
-
----
-
-@washingtonpost.com
-
-Rob Reiner — the director behind beloved films such as “When Harry Met Sally …” and “The Princess Bride” — and his wife, photographer Michele Singer Reiner, were found dead Sunday afternoon, according to officials.
-
-[2025-12-15 21:24:41](https://bsky.app/profile/washingtonpost.com/post/3m7zmt3cqpx2m)
-
----
-
-@nhknewsunofficial.bsky.social
-
-博多駅近くで70代の男性が刺され搬送 30代の男が出頭し逮捕
-https://news.web.nhk/newsweb/na/na-k10015004731000
-
-[2025-12-15 21:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zmrxsmi226)
+[2025-12-15 21:45:12](https://bsky.app/profile/reuters.com/post/3m7znxr4a3z2y)
 
 ---
 
 @cnbc.com
 
-Stocks making the biggest moves premarket: iRobot, Las Vegas Sands, Tilray & more
+This casino stock is beating the market in 2025. Why Goldman thinks the new year will bring more gains
 
-[2025-12-15 21:23:10](https://bsky.app/profile/cnbc.com/post/3m7zmqe2zeh24)
+[2025-12-15 21:44:22](https://bsky.app/profile/cnbc.com/post/3m7znwbbupc24)
+
+---
+
+@axios.com
+
+President Trump and his advisers have an almost messianic belief the economy will take off in the first quarter of next year.
+
+Trump's bullish belief is key to understanding why he's so reluctant to say there's an "affordability crisis."
+
+[2025-12-15 21:43:12](https://bsky.app/profile/axios.com/post/3m7znu6kffk2m)
+
+---
+
+@en.afp.com
+
+🇫🇷 The Louvre museum in Paris closed its doors to thousands of disappointed visitors on Monday as staff launched a rolling strike to protest working conditions at the landmark, two months after a shocking robbery ➡️ u.afp.com/S7D3
+
+[2025-12-15 21:42:01](https://bsky.app/profile/en.afp.com/post/3m7zns2sjov2f)
 
 ---
 
 @financialtimes.com
 
-EU will lose face if it rejects Mercosur deal, warns trade commissioner on.ft.com/3L3KPX7
+Three-time Oscar-winning artist Carlo Rambaldi’s beloved and nightmarish animatronics receive a centennial tribute at MoMA on.ft.com/3Mzg8cT
 
-[2025-12-15 21:20:25](https://bsky.app/profile/financialtimes.com/post/3m7zmlgllrr2y)
-
----
-
-@japan.reuters.com
-
-１１月のインドの卸売物価は前年同月比０．３２％下落した。前月の１．２１％下落から下落ペースが鈍化した。 bit.ly/4scQOtA
-
-[2025-12-15 21:20:17](https://bsky.app/profile/japan.reuters.com/post/3m7zml7dgcd2c)
-
----
-
-@japan.reuters.com
-
-トランプ米大統領が１月に復帰して以来、マイナーな新興国通貨であるハンガリー・フォリントの取引量は２倍以上に増加している。トランプ氏が「解放の日」と位置付けて関税を発表した4月2日以降、トレーダーの関心は高まる一方だ。 bit.ly/48TMmXQ
-
-[2025-12-15 21:15:16](https://bsky.app/profile/japan.reuters.com/post/3m7zmc7oap22f)
+[2025-12-15 21:42:01](https://bsky.app/profile/financialtimes.com/post/3m7zns2mpr52p)
 
 ---
 
 @reuters.com
 
-EPMB signs deal to assemble Xpeng's G6 and X9 models in Malaysia reut.rs/3L02HCg
+Iranian Nobel laureate hospitalised twice after 'violent arrest', say family reut.rs/48YHr85
 
-[2025-12-15 21:15:14](https://bsky.app/profile/reuters.com/post/3m7zmc5ro7p2x)
+[2025-12-15 21:40:21](https://bsky.app/profile/reuters.com/post/3m7znp2vrho2b)
+
+---
+
+@japan.reuters.com
+
+欧州連合（ＥＵ）統計局が１５日発表したユーロ圏の１０月の鉱工業生産は前月比０．８％増と、９月の０．２％増から加速し、市場予想と一致した。 bit.ly/48EZeCi
+
+[2025-12-15 21:40:15](https://bsky.app/profile/japan.reuters.com/post/3m7znovotfk27)
+
+---
+
+@nytimes.com
+
+Law enforcement officials in Providence, Rhode Island, said late Sunday that they were releasing a person of interest they had detained in relation to the shooting at Brown University and continuing their search for the person who killed two people Saturday afternoon.
+
+[2025-12-15 21:40:04](https://bsky.app/profile/nytimes.com/post/3m7znolelx62z)
 
 ---
 
