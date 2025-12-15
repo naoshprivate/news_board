@@ -1,9 +1,9 @@
-# [2025-12-16 07:10 updated](2025_12_16.md)
+# [2025-12-16 07:30 updated](2025_12_16.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">注）手数料は上限。税込み。単位は％。 bit.ly/4pCAuAl <a href="https://bsky.app/profile/japan.reuters.com/post/3ma2nhczgv22q" target="_blank">japan.reuters.com</a> (2025-12-16 07:08:40)</span><span style="padding-right:50px;">【動画】Pickup NEWS（12月16日） https://news.web.nhk/newsweb/na/na-k10015004781000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma2ncnzjjm2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 07:06:02)</span><span style="padding-right:50px;">Delayed US employment, CPI reports are due this week, with many gaps reut.rs/4rPXE7Y <a href="https://bsky.app/profile/reuters.com/post/3ma2nbchnfs2s" target="_blank">reuters.com</a> (2025-12-16 07:05:18)</span><span style="padding-right:50px;">欧州連合（ＥＵ）は１５日、ロシアの石油輸出を支援しているとの理由で新たに複数のトレーダーらを制裁対象に追加したと発表した。 bit.ly/4iVnFi2 <a href="https://bsky.app/profile/japan.reuters.com/post/3ma2n4werff2c" target="_blank">japan.reuters.com</a> (2025-12-16 07:02:52)</span><span style="padding-right:50px;">The health secretary has said that new government recommendations would “stress the need to eat saturated fats.” on.wsj.com/4q8YNG3 <a href="https://bsky.app/profile/wsj.com/post/3ma2n3ubqwn2r" target="_blank">wsj.com</a> (2025-12-16 07:02:16)</span>
+<span style="padding-right:50px;">Smith was 25 in 2000 when she published her critically acclaimed first novel. Now 50, her latest collection of essays, Dead and Alive, reflects on middle age, climate change and generational gaps. n.pr/4q2S7cC <a href="https://bsky.app/profile/npr.org/post/3ma2ojl3ni32x" target="_blank">npr.org</a> (2025-12-16 07:27:50)</span><span style="padding-right:50px;">ウクライナ和平案 ゼレンスキー氏“進展も領土問題隔たり” https://news.web.nhk/newsweb/na/na-k10015004851000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma2oiagxt52b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 07:27:03)</span><span style="padding-right:50px;">Anthony Geary, who portrayed Luke Spencer on ABC soap opera “General Hospital” for almost 40 years in nearly 2,000 episodes, has died. https://cnn.it/4oZiuzf <a href="https://bsky.app/profile/cnn.com/post/3ma2ogab6us2a" target="_blank">cnn.com</a> (2025-12-16 07:25:58)</span><span style="padding-right:50px;">US FDA sends warning letters to Walmart, Target for selling recalled baby formula reut.rs/4iVqnUK <a href="https://bsky.app/profile/reuters.com/post/3ma2oesd7jc2s" target="_blank">reuters.com</a> (2025-12-16 07:25:10)</span><span style="padding-right:50px;">PayPal applies to form bank that can offer small business loans and savings accounts <a href="https://bsky.app/profile/cnbc.com/post/3ma2oatd3i62d" target="_blank">cnbc.com</a> (2025-12-16 07:22:56)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.20 (🔻0.47 : 2025-12-15)</span>
+<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.21 (🔻0.47 : 2025-12-15)</span>
   </div>
 </div>
 
@@ -32,95 +32,97 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are the six selected headlines:
 
-1. US Inflation and Employment Reports Delayed
-2. EU Imposes Sanctions on Multiple Traders Over Russia Oil Support
-3. US Health Secretary Calls for Increased Saturated Fat Consumption
-4. Rob Reiner, Actor and Director, Dies at 78
-5. New York State Sues UPS for Stolen Wages from Seasonal Workers
-6. Australia to Tighten Gun Laws After Mass Shooting
+1. PayPal Applies to Form Bank to Offer Small Business Loans and Savings Accounts
+2. FBI Foils New Year's Eve Terror Plot in Los Angeles
+3. US FDA Sends Warning Letters to Walmart, Target for Selling Recalled Baby Formula
+4. Anthony Geary, Actor Who Portrayed Luke Spencer on General Hospital, Dies at 78
+5. European Union Adds More Traders to Sanctions List Over Russia's Oil Export Support
+6. Minimum Wage to Increase in 19 US States and 49 Cities and Counties on January 1
 
 ----
 
-@japan.reuters.com
+@npr.org
 
-注）手数料は上限。税込み。単位は％。 bit.ly/4pCAuAl
+Smith was 25 in 2000 when she published her critically acclaimed first novel. Now 50, her latest collection of essays, Dead and Alive, reflects on middle age, climate change and generational gaps. n.pr/4q2S7cC
 
-[2025-12-16 07:08:40](https://bsky.app/profile/japan.reuters.com/post/3ma2nhczgv22q)
+[2025-12-16 07:27:50](https://bsky.app/profile/npr.org/post/3ma2ojl3ni32x)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-【動画】Pickup NEWS（12月16日）
-https://news.web.nhk/newsweb/na/na-k10015004781000
+ウクライナ和平案 ゼレンスキー氏“進展も領土問題隔たり”
+https://news.web.nhk/newsweb/na/na-k10015004851000
 
-[2025-12-16 07:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma2ncnzjjm2k)
-
----
-
-@reuters.com
-
-Delayed US employment, CPI reports are due this week, with many gaps reut.rs/4rPXE7Y
-
-[2025-12-16 07:05:18](https://bsky.app/profile/reuters.com/post/3ma2nbchnfs2s)
-
----
-
-@japan.reuters.com
-
-欧州連合（ＥＵ）は１５日、ロシアの石油輸出を支援しているとの理由で新たに複数のトレーダーらを制裁対象に追加したと発表した。 bit.ly/4iVnFi2
-
-[2025-12-16 07:02:52](https://bsky.app/profile/japan.reuters.com/post/3ma2n4werff2c)
-
----
-
-@wsj.com
-
-The health secretary has said that new government recommendations would “stress the need to eat saturated fats.” on.wsj.com/4q8YNG3
-
-[2025-12-16 07:02:16](https://bsky.app/profile/wsj.com/post/3ma2n3ubqwn2r)
-
----
-
-@wsj.com
-
-The director and actor, who was found dead Sunday at age 78, got his start in TV comedy before embarking on a run of widely cherished movies, from ‘This Is Spinal Tap’ to ‘The Princess Bride.’ on.wsj.com/3MBFaYS
-
-[2025-12-16 07:02:16](https://bsky.app/profile/wsj.com/post/3ma2n3ucgsy2c)
-
----
-
-@japan.reuters.com
-
-米ボストン地区連銀のコリンズ総裁は１５日、インフレ見通しの変化により先週の米連邦準備理事会（ＦＲＢ）の利下げを支持する方向に傾いているが、それは微妙な判断だったと述べた。 bit.ly/4j4Rjlk
-
-[2025-12-16 07:01:21](https://bsky.app/profile/japan.reuters.com/post/3ma2n2afoxu2p)
-
----
-
-@usatoday.com
-
-The Minnesota Wild shook up the Central Division and Western Conference race by trading for star defenseman Quinn Hughes.
-
-[2025-12-16 07:01:20](https://bsky.app/profile/usatoday.com/post/3ma2n26wrk52s)
-
----
-
-@reuters.com
-
-Menzies apologises for punching table at World Championship reut.rs/3KYqJNQ
-
-[2025-12-16 07:01:14](https://bsky.app/profile/reuters.com/post/3ma2mzzlpls24)
+[2025-12-16 07:27:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma2oiagxt52b)
 
 ---
 
 @cnn.com
 
-When Nick Reiner was photographed alongside his family at the Los Angeles premiere of his father's comedy musical, "Spinal Tap II," in September, he wasn't smiling.
+Anthony Geary, who portrayed Luke Spencer on ABC soap opera “General Hospital” for almost 40 years in nearly 2,000 episodes, has died. https://cnn.it/4oZiuzf
 
-[2025-12-16 07:01:03](https://bsky.app/profile/cnn.com/post/3ma2mzojccg2b)
+[2025-12-16 07:25:58](https://bsky.app/profile/cnn.com/post/3ma2ogab6us2a)
+
+---
+
+@reuters.com
+
+US FDA sends warning letters to Walmart, Target for selling recalled baby formula reut.rs/4iVqnUK
+
+[2025-12-16 07:25:10](https://bsky.app/profile/reuters.com/post/3ma2oesd7jc2s)
+
+---
+
+@cnbc.com
+
+PayPal applies to form bank that can offer small business loans and savings accounts
+
+[2025-12-16 07:22:56](https://bsky.app/profile/cnbc.com/post/3ma2oatd3i62d)
+
+---
+
+@cbsnews.com
+
+Trump designates illicit fentanyl as a weapon of mass destruction.
+
+[2025-12-16 07:22:01](https://bsky.app/profile/cbsnews.com/post/3ma2o76fqeo2q)
+
+---
+
+@nytimes.com
+
+<strong><span style="color: red;">Breaking News</span>: Anthony Geary, the actor best known for portraying Luke Spencer on the popular soap opera “General Hospital,” died at 78. Geary helped change the landscape of daytime television.</strong>
+
+[2025-12-16 07:20:58](https://bsky.app/profile/nytimes.com/post/3ma2o5cpubi2a)
+
+---
+
+@wsj.com
+
+Videogame executive Xu Bo, said to have more than 100 children, and other Chinese elites are building mega-families by hiring American surrogates. 
+
+🔗: on.wsj.com/4iVHMwE
+
+[2025-12-16 07:17:20](https://bsky.app/profile/wsj.com/post/3ma2nwsky2q2i)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Epstein’s UK flights had alleged British abuse victims on board, BBC finds
+
+[2025-12-16 07:17:13](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma2nwmpb7y2s)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+FBI foils New Year's Eve terror plot in Los Angeles, officials say
+
+[2025-12-16 07:16:08](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma2nuoy4vg2a)
 
 ---
 
