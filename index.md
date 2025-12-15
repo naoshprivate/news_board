@@ -1,9 +1,9 @@
-# [2025-12-15 14:50 updated](2025_12_15.md)
+# [2025-12-15 15:10 updated](2025_12_15.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NBA レイカーズ 八村塁 今季最多に並ぶ7リバウンド 勝利に貢献 https://news.web.nhk/newsweb/na/na-k10015004241000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ywnvljxm2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 14:48:03)</span><span style="padding-right:50px;">1週間ニュース 悪化する日中関係 中国の厳しい対応なぜ？ https://news.web.nhk/newsweb/na/na-k10015003521000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ywiie44y2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 14:45:02)</span><span style="padding-right:50px;">【きょうのおはBiz 12月15日(月)】自社で“スポットワーク” https://news.web.nhk/newsweb/na/na-k10015004031000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ywd5o43e2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 14:42:03)</span><span style="padding-right:50px;">🛎️ANNより【速報】です。  【速報】東京・赤坂の個室サウナ店で火事 男女が意識不明の重体で搬送 (2025-12-15 14:33:28) #ニュース https://news.tv-asahi.co.jp/news_society/articles/000473088.html?display=full <a href="https://bsky.app/profile/sokuho.news/post/3m7yw7sqfia26" target="_blank">sokuho.news</a> (2025-12-15 14:40:12)</span><span style="padding-right:50px;">The week in Asian football reut.rs/3YuglAA <a href="https://bsky.app/profile/reuters.com/post/3m7yw7qynkj23" target="_blank">reuters.com</a> (2025-12-15 14:40:11)</span>
+<span style="padding-right:50px;">企業・団体献金めぐる法案 採決で与野党折り合わず 協議続く https://news.web.nhk/newsweb/na/na-k10015004221000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7yxtgacmn2y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 15:09:02)</span><span style="padding-right:50px;">国際移住機関（ＩＯＭ）は１２日、パレスチナ自治区ガザの避難民数十万人が豪雨でテントやシェルターの浸水に直面する中で、避難所用の資材や土のうの搬入が許可されていないと発表した。 bit.ly/4pEmxlK <a href="https://bsky.app/profile/japan.reuters.com/post/3m7yxsfc7om2c" target="_blank">japan.reuters.com</a> (2025-12-15 15:08:30)</span><span style="padding-right:50px;">Wild currency swings put emerging markets in the spotlight reut.rs/3MD0H3h <a href="https://bsky.app/profile/reuters.com/post/3m7yxmf7hdr2p" target="_blank">reuters.com</a> (2025-12-15 15:05:08)</span><span style="padding-right:50px;">中盤の東南アジア株式市場の株価はおおむね上昇している。 bit.ly/3XUGVmk <a href="https://bsky.app/profile/japan.reuters.com/post/3m7yxip6nu62p" target="_blank">japan.reuters.com</a> (2025-12-15 15:03:05)</span><span style="padding-right:50px;">サツマイモが足りない　卸値12年で8割上昇 www.nikkei.com/article/DGXZQO...  農家の高齢化で生産が2割減った一方、2010年に品種登録されたしっとり系の「紅はるか」が人気に火を付けました。  サツマイモは品種が豊富でスイーツなど多様なメニューを提供でき、2025年の「やきいもフェス」東京会場には17万人が来場。  ニューヨークのカフェで「Yakiimo」や「Beniharuka」としてパフェに使われるなど、国内外で争奪戦が起きています。 <a href="https://bsky.app/profile/nikkei.com/post/3m7yxep7z7j2m" target="_blank">nikkei.com</a> (2025-12-15 15:00:50)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50168.61 (🔻183.48 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3352.00 (🔺109.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.07 (🔻0.60 : 2025-12-15)</span>
+<span style="padding-right:50px;">NIKKEI: 50199.34 (🔻152.75 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3356.00 (🔺113.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.06 (🔻0.61 : 2025-12-15)</span>
   </div>
 </div>
 
@@ -32,99 +32,107 @@
 
 ## News Headlines
 
-１. NBAレーカーズ：８村塁、最多の７リバウンドで勝利に貢献
-２. 日中関係悪化、中国の厳しい対応の理由はなぜ？
-３. 自社で「スポットワーク」　きょうのおはBiz
-４. 東京・赤坂の個室サウナ店で火事　男女重体
-５. チリ大統領選　左派のカスト氏が勝利宣言
- 6. 日銀が発表した短観　大企業の業況判断指数が高水準
+ここでは、提供されたニュースから6つの重要な物語を選び、日本語の見出しを作成しました。
+
+1. 企業・団体献金めぐる法案　採決で与野党折り合わず協議続く
+2. ガザの避難民　避難所用資材の搬入許可がないと発表
+3. サツマイモ　卸値12年で8割上昇
+4. 車載の自動通報システムで消防覚知　仙台市で乗用車2台衝突
+5. 欧州連合　新車の内燃エンジン搭載販売を実質的に禁止する計画を撤回
+6. インド株式市場　海外資金の流出や対米貿易合意の不確実性から軟調に
 
 ----
 
 @nhknewsunofficial.bsky.social
 
-NBA レイカーズ 八村塁 今季最多に並ぶ7リバウンド 勝利に貢献
-https://news.web.nhk/newsweb/na/na-k10015004241000
+企業・団体献金めぐる法案 採決で与野党折り合わず 協議続く
+https://news.web.nhk/newsweb/na/na-k10015004221000
 
-[2025-12-15 14:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ywnvljxm2m)
-
----
-
-@nhknewsunofficial.bsky.social
-
-1週間ニュース 悪化する日中関係 中国の厳しい対応なぜ？
-https://news.web.nhk/newsweb/na/na-k10015003521000
-
-[2025-12-15 14:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ywiie44y2w)
+[2025-12-15 15:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7yxtgacmn2y)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@japan.reuters.com
 
-【きょうのおはBiz 12月15日(月)】自社で“スポットワーク”
-https://news.web.nhk/newsweb/na/na-k10015004031000
+国際移住機関（ＩＯＭ）は１２日、パレスチナ自治区ガザの避難民数十万人が豪雨でテントやシェルターの浸水に直面する中で、避難所用の資材や土のうの搬入が許可されていないと発表した。 bit.ly/4pEmxlK
 
-[2025-12-15 14:42:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ywd5o43e2k)
+[2025-12-15 15:08:30](https://bsky.app/profile/japan.reuters.com/post/3m7yxsfc7om2c)
+
+---
+
+@reuters.com
+
+Wild currency swings put emerging markets in the spotlight reut.rs/3MD0H3h
+
+[2025-12-15 15:05:08](https://bsky.app/profile/reuters.com/post/3m7yxmf7hdr2p)
+
+---
+
+@japan.reuters.com
+
+中盤の東南アジア株式市場の株価はおおむね上昇している。 bit.ly/3XUGVmk
+
+[2025-12-15 15:03:05](https://bsky.app/profile/japan.reuters.com/post/3m7yxip6nu62p)
+
+---
+
+@nikkei.com
+
+サツマイモが足りない　卸値12年で8割上昇
+www.nikkei.com/article/DGXZQO...
+
+農家の高齢化で生産が2割減った一方、2010年に品種登録されたしっとり系の「紅はるか」が人気に火を付けました。
+
+サツマイモは品種が豊富でスイーツなど多様なメニューを提供でき、2025年の「やきいもフェス」東京会場には17万人が来場。
+
+ニューヨークのカフェで「Yakiimo」や「Beniharuka」としてパフェに使われるなど、国内外で争奪戦が起きています。
+
+[2025-12-15 15:00:50](https://bsky.app/profile/nikkei.com/post/3m7yxep7z7j2m)
 
 ---
 
 @sokuho.news
 
-🛎️ANNより【速報】です。
+🛎️FNNより【速報】です。
 
-【速報】東京・赤坂の個室サウナ店で火事 男女が意識不明の重体で搬送
-(2025-12-15 14:33:28) #ニュース
-https://news.tv-asahi.co.jp/news_society/articles/000473088.html?display=full
+【速報】車載の自動通報システムで消防覚知 仙台市青葉区中山で乗用車2台衝突 4人けが
+(2025-12-15 14:55) #ニュース
 
-[2025-12-15 14:40:12](https://bsky.app/profile/sokuho.news/post/3m7yw7sqfia26)
-
----
-
-@reuters.com
-
-The week in Asian football reut.rs/3YuglAA
-
-[2025-12-15 14:40:11](https://bsky.app/profile/reuters.com/post/3m7yw7qynkj23)
-
----
-
-@japan.reuters.com
-
-オセアニア外国為替市場では豪ドルとニュージーランド（ＮＺ）ドルが対米ドルで軟調。来年の米金利見通しを左右する可能性のある米雇用統計の発表を週内に控えていることが背景。 bit.ly/4aP7BMQ
-
-[2025-12-15 14:39:00](https://bsky.app/profile/japan.reuters.com/post/3m7yw5mywma2v)
-
----
-
-@japan.reuters.com
-
-アジア新興国通貨市場では、タイバーツが１ドル＝３１．５１バーツ前後と、２０２１年６月以来の高値。年初来では約９％上昇し、新興国通貨の中でも上位のパフォーマンスとなっている。 bit.ly/44wzXaW
-
-[2025-12-15 14:32:38](https://bsky.app/profile/japan.reuters.com/post/3m7yvsbbbkx2c)
-
----
-
-@japan.reuters.com
-
-日銀が１５日に発表した１２月短観によると、大企業・製造業の業況判断指数（ＤＩ）はプラス１５で、２０２１年１２月（プラス１８）以来４年ぶりの高水準となった。市場では、今週の金融政策決定会合で日銀が利上げを判断するうえでサポートになると受け止められている。大企業・非製造業の業況判断ＤＩはプラス３４と、前回から横ばいだった。 bit.ly/4pzMTFh
-
-[2025-12-15 14:30:22](https://bsky.app/profile/japan.reuters.com/post/3m7yvo7dviy2u)
+[2025-12-15 15:00:49](https://bsky.app/profile/sokuho.news/post/3m7yxenx3532e)
 
 ---
 
 @reuters.com
 
-Indian shares slip on outflows, US trade deal uncertainty reut.rs/3KZBoYM
+Morning Bid: China's property pain sours year-end mood reut.rs/4j0h0U7
 
-[2025-12-15 14:30:20](https://bsky.app/profile/reuters.com/post/3m7yvo5zzjd2r)
+[2025-12-15 15:00:34](https://bsky.app/profile/reuters.com/post/3m7yxe77ngq2i)
 
 ---
 
-@apnews.com
+@japan.reuters.com
 
-Hamas has confirmed the death of a top commander in Gaza, a day after Israel said it had killed Raed Saad in a strike outside Gaza City.
+欧州議会の最大会派である欧州人民党（ＥＰＰ）トップのマンフレッド・ウェーバー氏は１２日、欧州連合（ＥＵ）欧州委員会が２０３５年から内燃エンジン搭載の新車販売を実質的に禁止する計画を撤回すると明らかにした。自国の自動車メーカーを守るため計画の撤回を働きかけてきたドイツにとって大きな勝利となる。 bit.ly/4aOLu9e
 
-[2025-12-15 14:30:09](https://bsky.app/profile/apnews.com/post/3m7yvnth5a724)
+[2025-12-15 15:00:22](https://bsky.app/profile/japan.reuters.com/post/3m7yxduapor22)
+
+---
+
+@washingtonpost.com
+
+Today’s customers are operating under the subtle and overt influence of Instagram ads, TikTok Shop and influencers.
+
+The result: The rise of the viral couch, a piece of furniture that becomes inescapable online and may or may not be a piece of junk. 
+
+[2025-12-15 15:00:19](https://bsky.app/profile/washingtonpost.com/post/3m7yxdqr63n25)
+
+---
+
+@aljazeera.com
+
+Questions linger about gun reform, anti-Semitism after Bondi Beach shooting https://aje.io/7d72do
+
+[2025-12-15 15:00:03](https://bsky.app/profile/aljazeera.com/post/3m7yxdcn37d2p)
 
 ---
 
