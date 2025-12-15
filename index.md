@@ -1,9 +1,9 @@
-# [2025-12-16 03:50 updated](2025_12_16.md)
+# [2025-12-16 04:10 updated](2025_12_16.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NEW: Republican lawmakers slam Trump's "inappropriate" posts on Rob Reiner <a href="https://bsky.app/profile/axios.com/post/3ma2ccjw5j22b" target="_blank">axios.com</a> (2025-12-16 03:49:09)</span><span style="padding-right:50px;">iRobot, the U.S. firm that had robots vacuuming homes, will be taken over by its China-based supplier. It's assuring owners that devices will keep working as usual. n.pr/4oZf4wi <a href="https://bsky.app/profile/npr.org/post/3ma2ca7heqo2e" target="_blank">npr.org</a> (2025-12-16 03:47:51)</span><span style="padding-right:50px;">Why a centuries-old whistleblower law may be heading to the Supreme Court reut.rs/4p1T8kd <a href="https://bsky.app/profile/reuters.com/post/3ma2c3ljrxn2p" target="_blank">reuters.com</a> (2025-12-16 03:45:15)</span><span style="padding-right:50px;">Exclusive: France and Italy aligned on need to delay final Mercosur vote, say sources reut.rs/3N2OrZW <a href="https://bsky.app/profile/reuters.com/post/3ma2bsrzhmo2i" target="_blank">reuters.com</a> (2025-12-16 03:40:20)</span><span style="padding-right:50px;">Democrats and some Republicans say President Trump has gone too far in a social-media post about Rob Reiner, who was found dead alongside his wife on Sunday. <a href="https://bsky.app/profile/wsj.com/post/3ma2bsjtnzw2z" target="_blank">wsj.com</a> (2025-12-16 03:40:12)</span>
+<span style="padding-right:50px;">Ukraine strikes Russian oil infrastructure in Caspian Sea for third time, source says reut.rs/44xUxYu <a href="https://bsky.app/profile/reuters.com/post/3ma2d77olt72s" target="_blank">reuters.com</a> (2025-12-16 04:05:11)</span><span style="padding-right:50px;">Humans tend to trust their intuitions over rational calculation. Can artificial intelligence help us overcome cognitive biases? on.wsj.com/4qaBITu <a href="https://bsky.app/profile/wsj.com/post/3ma2d5rxlzy2u" target="_blank">wsj.com</a> (2025-12-16 04:04:23)</span><span style="padding-right:50px;">This gold ETF is resuming its upward trajectory. Here are the levels to watch, per Katie Stockton <a href="https://bsky.app/profile/cnbc.com/post/3ma2d5gv5zc2m" target="_blank">cnbc.com</a> (2025-12-16 04:04:11)</span><span style="padding-right:50px;">Ukraine peace talks progressing, Russia open to EU membership, U.S. officials say <a href="https://bsky.app/profile/cnbc.com/post/3ma2d2wyea72e" target="_blank">cnbc.com</a> (2025-12-16 04:02:48)</span><span style="padding-right:50px;">Miners support TSX as inflation steadies reut.rs/4pK252M <a href="https://bsky.app/profile/reuters.com/post/3ma2cy7oaje2i" target="_blank">reuters.com</a> (2025-12-16 04:01:16)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48336.11 (🔻258.25 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23079.73 (🔻250.30 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.74 (🔻1.20 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.35 (🔻0.32 : 2025-12-15)</span>
+<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48362.87 (🔻231.49 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23110.14 (🔻219.90 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 177.35 (🔻0.59 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.36 (🔻0.31 : 2025-12-15)</span>
   </div>
 </div>
 
@@ -32,94 +32,94 @@
 
 ## News Headlines
 
-Here are six important stories with headlines:
+Here are six important stories with headlines in English:
 
-1. Trump Accused of Politicizing Rob Reiner's Death
-2. iRobot Sold to Chinese Company, Assures Device Owners
-3. FDA Considers Weakening Dietary Supplement Labeling
-4. Wisconsin Program for Deafblind Children Faces Funding Cuts
-5. Bondi Beach Shooting Kills 15, Including Rabbi
-6. US Army Identifies Soldiers Killed in Syria Attack
+1. Ukraine Strikes Russian Oil Infrastructure for Third Time
+2. Can AI Help Humans Overcome Cognitive Biases?
+3. US Pledges to Protect Ukraine from Future Russian Attack
+4. Satellite Images Show Ongoing Demolitions in Gaza, Violating Geneva Convention
+5. iRobot to be Taken Over by Chinese Supplier, Assuring Device Continuity
+6. FDA Considers Rule Change to Reduce Dietary Supplement Warnings
 
 ----
 
-@axios.com
-
-NEW: Republican lawmakers slam Trump's "inappropriate" posts on Rob Reiner
-
-[2025-12-16 03:49:09](https://bsky.app/profile/axios.com/post/3ma2ccjw5j22b)
-
----
-
-@npr.org
-
-iRobot, the U.S. firm that had robots vacuuming homes, will be taken over by its China-based supplier. It's assuring owners that devices will keep working as usual. n.pr/4oZf4wi
-
-[2025-12-16 03:47:51](https://bsky.app/profile/npr.org/post/3ma2ca7heqo2e)
-
----
-
 @reuters.com
 
-Why a centuries-old whistleblower law may be heading to the Supreme Court reut.rs/4p1T8kd
+Ukraine strikes Russian oil infrastructure in Caspian Sea for third time, source says reut.rs/44xUxYu
 
-[2025-12-16 03:45:15](https://bsky.app/profile/reuters.com/post/3ma2c3ljrxn2p)
-
----
-
-@reuters.com
-
-Exclusive: France and Italy aligned on need to delay final Mercosur vote, say sources reut.rs/3N2OrZW
-
-[2025-12-16 03:40:20](https://bsky.app/profile/reuters.com/post/3ma2bsrzhmo2i)
+[2025-12-16 04:05:11](https://bsky.app/profile/reuters.com/post/3ma2d77olt72s)
 
 ---
 
 @wsj.com
 
-Democrats and some Republicans say President Trump has gone too far in a social-media post about Rob Reiner, who was found dead alongside his wife on Sunday.
+Humans tend to trust their intuitions over rational calculation. Can artificial intelligence help us overcome cognitive biases? on.wsj.com/4qaBITu
 
-[2025-12-16 03:40:12](https://bsky.app/profile/wsj.com/post/3ma2bsjtnzw2z)
-
----
-
-@nbcnews.com
-
-The FDA is considering a rule change that would cut back on how often dietary supplement warnings must appear on packaging, a move experts say could make them easier to miss.
-
-[2025-12-16 03:40:12](https://bsky.app/profile/nbcnews.com/post/3ma2bskj4m52r)
+[2025-12-16 04:04:23](https://bsky.app/profile/wsj.com/post/3ma2d5rxlzy2u)
 
 ---
 
-@nytimes.com
+@cnbc.com
 
-A state program in Wisconsin for deafblind children helped a 3-year-old, born with poor vision and no ears, learn to communicate. The Trump administration cut the program’s funding over goals related to diversity, equity and inclusion.
+This gold ETF is resuming its upward trajectory. Here are the levels to watch, per Katie Stockton
 
-[2025-12-16 03:40:05](https://bsky.app/profile/nytimes.com/post/3ma2bsdo73o2x)
+[2025-12-16 04:04:11](https://bsky.app/profile/cnbc.com/post/3ma2d5gv5zc2m)
 
 ---
 
-@cbsnews.com
+@cnbc.com
 
-The daughter of one of the victims of Sunday's Bondi Beach terror attack told CBS News on Monday that her father was "shot dead for being Jewish," and she now believes Australia is not a safe home for Jewish people.
+Ukraine peace talks progressing, Russia open to EU membership, U.S. officials say
 
-[2025-12-16 03:40:01](https://bsky.app/profile/cbsnews.com/post/3ma2bs7ei4r2c)
+[2025-12-16 04:02:48](https://bsky.app/profile/cnbc.com/post/3ma2d2wyea72e)
 
 ---
 
 @reuters.com
 
-Germany deepens commitment to Ukraine's defence in 10-point plan reut.rs/44vWNPU
+Miners support TSX as inflation steadies reut.rs/4pK252M
 
-[2025-12-16 03:35:09](https://bsky.app/profile/reuters.com/post/3ma2bjj2njf2p)
+[2025-12-16 04:01:16](https://bsky.app/profile/reuters.com/post/3ma2cy7oaje2i)
 
 ---
 
-@nytimes.com
+@apnews.com
 
-The two students who were killed in a shooting at Brown University on Saturday were identified by friends and family as an 18-year-old man from Virginia and a 19-year-old woman from Alabama. Officials released a suspect late Sunday after they could not connect him to the shooting.
+Police say the younger son of Rob Reiner, Nick Reiner, was taken into custody Monday after the deaths of the director-actor and his wife Michele at their home in Los Angeles.
 
-[2025-12-16 03:32:27](https://bsky.app/profile/nytimes.com/post/3ma2beotphv2b)
+[2025-12-16 04:01:12](https://bsky.app/profile/apnews.com/post/3ma2cy3it6l23)
+
+---
+
+@cnbc.com
+
+"My research has inspired me to rethink how I should live my life," says Ken Stern, author of "Healthy to 100: How Strong Social Ties Lead to Long Lives."
+
+[2025-12-16 04:00:55](https://bsky.app/profile/cnbc.com/post/3ma2cxlf3pc2p)
+
+---
+
+@nbcnews.com
+
+Rhode Island residents mourn the victims of a deadly shooting at Brown University.
+
+[2025-12-16 04:00:35](https://bsky.app/profile/nbcnews.com/post/3ma2cwycnep2k)
+
+---
+
+@washingtonpost.com
+
+Analysis: New supersized data centers sprouting across the country are starting to transform landscapes and communities, sparking debates about what our energy systems and environment can sustain.
+
+[2025-12-16 04:00:19](https://bsky.app/profile/washingtonpost.com/post/3ma2cwj5tcn2g)
+
+---
+
+@financialtimes.com
+
+Ukraine and US claim progress towards peace deal but divisions persist on.ft.com/3MCtgxQ
+
+[2025-12-16 04:00:13](https://bsky.app/profile/financialtimes.com/post/3ma2cwdotsv2k)
 
 ---
 
