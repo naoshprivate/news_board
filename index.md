@@ -1,9 +1,9 @@
-# [2025-12-15 12:50 updated](2025_12_15.md)
+# [2025-12-15 13:10 updated](2025_12_15.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">日銀が１５日に発表した１２月短観によると、大企業・製造業の業況判断指数（ＤＩ）はプラス１５で、２０２１年１２月（プラス１８）以来４年ぶりの高水準となった。 bit.ly/4rSpKQ9 <a href="https://bsky.app/profile/japan.reuters.com/post/3m7ypylkvfv2q" target="_blank">japan.reuters.com</a> (2025-12-15 12:48:48)</span><span style="padding-right:50px;">ベネズエラの地域同盟国は１４日、トランプ米政権による先週の石油タンカー拿捕を非難し、ベネズエラ政府への支持を表明した。 bit.ly/4qaeOM6 <a href="https://bsky.app/profile/japan.reuters.com/post/3m7ypswvb2w2c" target="_blank">japan.reuters.com</a> (2025-12-15 12:45:38)</span><span style="padding-right:50px;">Australia, like other countries, has seen a rise in antisemitic attacks since the start of the war in Gaza. n.pr/4pF3Vlz <a href="https://bsky.app/profile/npr.org/post/3m7ypshdw3d2g" target="_blank">npr.org</a> (2025-12-15 12:45:22)</span><span style="padding-right:50px;">BREAKING: Australian Prime Minister Anthony Albanese proposed tougher national gun laws after a mass shooting on Sydney's Bondi Beach left at least 15 people dead. <a href="https://bsky.app/profile/apnews.com/post/3m7ypqncwmw22" target="_blank">apnews.com</a> (2025-12-15 12:44:21)</span><span style="padding-right:50px;">For decades, Tonka trucks have been a family staple and holiday stalwart. But they almost didn’t make it this year because of high tariffs. <a href="https://bsky.app/profile/wsj.com/post/3m7yppdlscs2r" target="_blank">wsj.com</a> (2025-12-15 12:43:37)</span>
+<span style="padding-right:50px;">ロボット掃除機「ルンバ」を製造する米アイロボットは１４日、連邦破産法１１条の適用を申請した。 bit.ly/3YuaGKQ <a href="https://bsky.app/profile/japan.reuters.com/post/3m7yr3qgswz2u" target="_blank">japan.reuters.com</a> (2025-12-15 13:08:27)</span><span style="padding-right:50px;">高市早苗首相は１５日の参院予算委員会で、為替はさまざまな要因を背景に市場において決まるものとの認識を改めて示した。杉久武委員（公明）への答弁。 bit.ly/44ntE9C <a href="https://bsky.app/profile/japan.reuters.com/post/3m7yqvva3lt2f" target="_blank">japan.reuters.com</a> (2025-12-15 13:05:11)</span><span style="padding-right:50px;">来年の年賀状 15日から全国一斉に受け付け始まる https://news.web.nhk/newsweb/na/na-k10015004101000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7yqs3siao2d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 13:03:02)</span><span style="padding-right:50px;">HSBC's $13.6 billion buyout proposal wins Hang Seng Bank board committee's nod reut.rs/4qdhOr6 <a href="https://bsky.app/profile/reuters.com/post/3m7yqpl3dto2b" target="_blank">reuters.com</a> (2025-12-15 13:01:39)</span><span style="padding-right:50px;">In a profession known for hot tempers, Sylvain Delpique at the New York hotel says his mantra is to absorb the stress. <a href="https://bsky.app/profile/wsj.com/post/3m7yqoury4i2h" target="_blank">wsj.com</a> (2025-12-15 13:01:15)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50063.25 (🔻288.84 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3324.00 (🔺81.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.39 (🔻0.29 : 2025-12-15)</span>
+<span style="padding-right:50px;">NIKKEI: 50009.32 (🔻342.77 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3328.00 (🔺85.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.33 (🔻0.34 : 2025-12-15)</span>
   </div>
 </div>
 
@@ -32,98 +32,121 @@
 
 ## News Headlines
 
-以下の6つのニュースのタイトルです。
-
-1. 日銀の短観　大企業・製造業業況判断指数が4年ぶりの高水準
-2. ベネズエラの地域同盟国がトランプ米政権の石油タンカー拿捕を非難
-3. オーストラリアの抗議活動の中で複数の暴力事件が発生
-4. 香港のJimmy Lai氏が国安法違反で有罪判決
-5. 中国の粗鋼生産が前月比3％減、今年の低水準に
-6. ロシア大統領府がNATOのルッテ事務総長を非難
+1. ロボット掃除機「ルンバ」製造会社アイロボットが破産手続きを開始
+2. 為替は市場で決まる、と高市首相が認める
+3. 年賀状の受付が15日から始まる
+4. HSBCがハンセン銀行を買収する案が承認
+5. スペイン首相が新車販売の規制撤回を求める
+6. キユーピーが野菜のテーマパークを開設
+7. ポリティコレポーターがロビンレインの自宅で2人死亡
+8. ゲンZ世代が「アエストゥティック」（美観）を称賛する
+9. ドル円が下落、週末に神経が張られる
+10. チリ大統領選で右派候補が勝利
+11. 阪急京都線・千里線が運転を見合わせ
+12. 中国が自衛隊の元幹部を入国禁止
+13. インドのルピーが歴史的な低水準に
+14. 欧州議会が新車販売の規制を撤回する
+15. 日銀の業況判断指数が4年ぶりの高値
+16. ベネズエラの地域同盟が米国による石油タンカー拿捕を非難
+17. オーストラリアで大量銃乱射事件　国会議員が銃規制強化を提案
+18. トンカトラックが高関税の影響で生産を縮小
+19. 中国の不動産企業が社債の償還を延期
+20. 香港の実業家ジミー・ライが国安法違反で有罪判決
+21. ロシア大統領府がNATOのルッテ事務総長を批判
+22. Nifty 50指数が26,000を上回る
+23. 中国の吉利汽車が自動車業界向けの安全試験施設を開設
+24. 小さな博物館がメムを作品として制作
+25. 野村ホールディングスがプライベートデットの買収を検討
 
 ----
 
 @japan.reuters.com
 
-日銀が１５日に発表した１２月短観によると、大企業・製造業の業況判断指数（ＤＩ）はプラス１５で、２０２１年１２月（プラス１８）以来４年ぶりの高水準となった。 bit.ly/4rSpKQ9
+ロボット掃除機「ルンバ」を製造する米アイロボットは１４日、連邦破産法１１条の適用を申請した。 bit.ly/3YuaGKQ
 
-[2025-12-15 12:48:48](https://bsky.app/profile/japan.reuters.com/post/3m7ypylkvfv2q)
-
----
-
-@japan.reuters.com
-
-ベネズエラの地域同盟国は１４日、トランプ米政権による先週の石油タンカー拿捕を非難し、ベネズエラ政府への支持を表明した。 bit.ly/4qaeOM6
-
-[2025-12-15 12:45:38](https://bsky.app/profile/japan.reuters.com/post/3m7ypswvb2w2c)
-
----
-
-@npr.org
-
-Australia, like other countries, has seen a rise in antisemitic attacks since the start of the war in Gaza. n.pr/4pF3Vlz
-
-[2025-12-15 12:45:22](https://bsky.app/profile/npr.org/post/3m7ypshdw3d2g)
-
----
-
-@apnews.com
-
-<strong><span style="color: red;">BREAKING:</span> Australian Prime Minister Anthony Albanese proposed tougher national gun laws after a mass shooting on Sydney's Bondi Beach left at least 15 people dead.</strong>
-
-[2025-12-15 12:44:21](https://bsky.app/profile/apnews.com/post/3m7ypqncwmw22)
-
----
-
-@wsj.com
-
-For decades, Tonka trucks have been a family staple and holiday stalwart. But they almost didn’t make it this year because of high tariffs.
-
-[2025-12-15 12:43:37](https://bsky.app/profile/wsj.com/post/3m7yppdlscs2r)
+[2025-12-15 13:08:27](https://bsky.app/profile/japan.reuters.com/post/3m7yr3qgswz2u)
 
 ---
 
 @japan.reuters.com
 
-中国の不動産開発大手、万科企業は、１５日期限の国内社債の償還を１年延期する案について社債権者の支持を得られなかったことを受け、１８日に再び社債権者の会合を開き、償還延期について投票を行う。 bit.ly/48Fj8Nv
+高市早苗首相は１５日の参院予算委員会で、為替はさまざまな要因を背景に市場において決まるものとの認識を改めて示した。杉久武委員（公明）への答弁。 bit.ly/44ntE9C
 
-[2025-12-15 12:40:43](https://bsky.app/profile/japan.reuters.com/post/3m7ypk5bhtp22)
-
----
-
-@reuters.com
-
-Reaction to Hong Kong tycoon Jimmy Lai's guilty verdict in national security trial reut.rs/4j6chQM
-
-[2025-12-15 12:40:39](https://bsky.app/profile/reuters.com/post/3m7ypjyxnce2i)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】維新・吉村代表「スピード感なさすぎ」「茶番劇、そんな国会まっぴらごめん」と怒りをあらわに 企業・団体献金法案が膠着…議員定数削減法案は暗礁
-(2025-12-15 12:38) #ニュース
-
-[2025-12-15 12:38:44](https://bsky.app/profile/sokuho.news/post/3m7ypgle7zp2b)
-
----
-
-@japan.reuters.com
-
-中国国家統計局が１５日発表した粗鋼生産は前月比３％減の６９８７万トンと、単月としては２０２３年１２月以来の低水準となった。 bit.ly/3XVbFDF
-
-[2025-12-15 12:36:23](https://bsky.app/profile/japan.reuters.com/post/3m7ypcfdg5u2c)
+[2025-12-15 13:05:11](https://bsky.app/profile/japan.reuters.com/post/3m7yqvva3lt2f)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-欧州サッカー クリスタルパレス 鎌田大地 数週間離脱の見込み
-https://news.web.nhk/newsweb/na/na-k10015004091000
+来年の年賀状 15日から全国一斉に受け付け始まる
+https://news.web.nhk/newsweb/na/na-k10015004101000
 
-[2025-12-15 12:36:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ypbzjrqt2v)
+[2025-12-15 13:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7yqs3siao2d)
+
+---
+
+@reuters.com
+
+HSBC's $13.6 billion buyout proposal wins Hang Seng Bank board committee's nod reut.rs/4qdhOr6
+
+[2025-12-15 13:01:39](https://bsky.app/profile/reuters.com/post/3m7yqpl3dto2b)
+
+---
+
+@wsj.com
+
+In a profession known for hot tempers, Sylvain Delpique at the New York hotel says his mantra is to absorb the stress.
+
+[2025-12-15 13:01:15](https://bsky.app/profile/wsj.com/post/3m7yqoury4i2h)
+
+---
+
+@apnews.com
+
+The Pittsburgh Steelers will have to try to protect their AFC North lead without T.J. Watt.
+
+[2025-12-15 13:01:08](https://bsky.app/profile/apnews.com/post/3m7yqon7unb2q)
+
+---
+
+@japan.reuters.com
+
+スペインのサンチェス首相が欧州連合（ＥＵ）の欧州委員会に対し、２０３５年から内燃エンジン搭載の新車販売を実質的に禁止する計画を弱めないよう要請したことが、ロイターが確認した書簡で分かった。 bit.ly/48YbJHT
+
+[2025-12-15 13:00:54](https://bsky.app/profile/japan.reuters.com/post/3m7yqoaloyg2c)
+
+---
+
+@nikkei.com
+
+キユーピーが野菜のテーマパーク　収穫から食事まで体験
+www.nikkei.com/article/DGXZQO...
+
+マヨネーズなどの商品にとって大切な野菜、そしてそれを育てる畑を消費者との接点に――。
+
+そんな思いで始まった埼玉の「深谷テラス　ヤサイな仲間たちファーム」。
+ 
+旬の農産物を扱うマルシェやレストランのほか、指定した野菜を決められた数だけ500円で収穫できる体験が目玉で、野菜の食べ方教室なども開催します。
+
+[2025-12-15 13:00:37](https://bsky.app/profile/nikkei.com/post/3m7yqnpyi5g22)
+
+---
+
+@cnn.com
+
+Source says a relative of Rob Reiner's found two dead at the director's LA home in what police are calling an apparent homicide. Follow live updates. https://cnn.it/3N0xCyP
+
+[2025-12-15 13:00:22](https://bsky.app/profile/cnn.com/post/3m7yqnbfzkr2u)
+
+---
+
+@washingtonpost.com
+
+Gen Z and Gen Alpha have been using “aesthetic” as a one-word compliment on social media for years.
+
+To older generations, it still sounds strange. https://wapo.st/3MDDWw4
+
+[2025-12-15 13:00:07](https://bsky.app/profile/washingtonpost.com/post/3m7yqmteutt2e)
 
 ---
 
