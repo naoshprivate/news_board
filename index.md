@@ -1,9 +1,9 @@
-# [2025-12-15 11:10 updated](2025_12_15.md)
+# [2025-12-15 11:30 updated](2025_12_15.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">午前のシドニー株式市場は、３営業日ぶりに反落している。オーストラリア準備銀行（中央銀行）が利上げ可能性を示唆したことで金融株が下落したほか、鉱業株が利食い売りで下落した。 bit.ly/4aicqOI <a href="https://bsky.app/profile/japan.reuters.com/post/3m7ykg2ece72c" target="_blank">japan.reuters.com</a> (2025-12-15 11:08:57)</span><span style="padding-right:50px;">サッカーのスペイン１部は１４日、各地で試合を行い、レアル・マドリードは敵地でアラベスを２─１で退け、連敗を免れた。 bit.ly/4rXYQpX <a href="https://bsky.app/profile/japan.reuters.com/post/3m7yk4d4z7v2u" target="_blank">japan.reuters.com</a> (2025-12-15 11:03:31)</span><span style="padding-right:50px;">韓国の警察当局は１５日、世界平和統一家庭連合（旧統一教会）による尹錫悦前政権への金品供与疑惑を巡り、ソウル近郊にある教団の国際本部などで家宅捜索を開始した。 bit.ly/48PdBT9 <a href="https://bsky.app/profile/japan.reuters.com/post/3m7yk2ckhvx2q" target="_blank">japan.reuters.com</a> (2025-12-15 11:02:23)</span><span style="padding-right:50px;">The person of interest detained in connection with the Brown University shooting, identified by law enforcement sources as Benjamin Erickson, is a decorated soldier who had served in a position at Arlington National Cemetery, according to his LinkedIn profile.  <a href="https://bsky.app/profile/cnn.com/post/3m7yjxugzaa24" target="_blank">cnn.com</a> (2025-12-15 11:01:01)</span><span style="padding-right:50px;">衛星軌道をミリ単位で測定　愛知の瓦加工技術、JAXAで生きる www.nikkei.com/article/DGXZQO... <a href="https://bsky.app/profile/nikkei.com/post/3m7yjxsn4pa2x" target="_blank">nikkei.com</a> (2025-12-15 11:00:59)</span>
+<span style="padding-right:50px;">中国国家統計局が１５日発表した１１月の鉱工業生産は前年比４．８％増と、１０月の４．９％増から減速した。小売売上高の伸びも鈍化した。 bit.ly/48Y7hc9 <a href="https://bsky.app/profile/japan.reuters.com/post/3m7ylfszjn62p" target="_blank">japan.reuters.com</a> (2025-12-15 11:26:43)</span><span style="padding-right:50px;">中国財政省は１３日、来年は超長期の特別国債の発行を含めて、より積極的な財政政策を行うと明らかにした。 bit.ly/4s4lSvx <a href="https://bsky.app/profile/japan.reuters.com/post/3m7yld5xk2z2s" target="_blank">japan.reuters.com</a> (2025-12-15 11:25:14)</span><span style="padding-right:50px;">China's retail sales growth sharply misses estimates in November, deepening consumption worries <a href="https://bsky.app/profile/cnbc.com/post/3m7yl5uohtm2e" target="_blank">cnbc.com</a> (2025-12-15 11:22:16)</span><span style="padding-right:50px;">We asked designers what’s trending and ending, based on client requests. The experts’ verdicts: So long, quiet minimalism and smart-everything. Hello, Art Deco glam and…rotary phones? <a href="https://bsky.app/profile/wsj.com/post/3m7yl53xvex2u" target="_blank">wsj.com</a> (2025-12-15 11:21:50)</span><span style="padding-right:50px;">＜１０：５８＞　ドル155円後半で弱含み、方向感なく上下 bit.ly/4j6Wwcb <a href="https://bsky.app/profile/japan.reuters.com/post/3m7yl3smzit2q" target="_blank">japan.reuters.com</a> (2025-12-15 11:21:07)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50196.17 (🔻155.92 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3323.00 (🔺80.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.60 (🔻0.08 : 2025-12-15)</span>
+<span style="padding-right:50px;">NIKKEI: 50144.41 (🔻207.68 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3321.00 (🔺78.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.52 (🔻0.15 : 2025-12-15)</span>
   </div>
 </div>
 
@@ -32,97 +32,98 @@
 
 ## News Headlines
 
-1.  シドニー株式市場が３営業日ぶりに反落。
-2.  レアル・マドリードがアラベスに勝利し連敗を逃れる。
-3.  韓国警察がソウル近郊の世界平和統一家庭連合の本部を家宅捜索。
-4.  スペイン首相が欧州連合に新車販売規制を弱めるよう要請。
-5.  チリ大統領選で右派のホセアントニオ・カストが勝利。
-6.  イスラエルのネタニヤフ首相がオーストラリアのハヌカの祭りで発生した銃撃事件を非難。
+1. 11月の中国の鉱業生産は4.8％増
+2. 中国財政省、来年積極財政政策を実施
+3. ドルは155円台半ばで弱含み
+4. ノーベル化学賞の京大教授が帰国
+5. ユダヤ教の祭り「ハヌカ」の世界の主要都市で警備強化
+6. 中国の工業生産が4.8％増加
 
 ----
 
 @japan.reuters.com
 
-午前のシドニー株式市場は、３営業日ぶりに反落している。オーストラリア準備銀行（中央銀行）が利上げ可能性を示唆したことで金融株が下落したほか、鉱業株が利食い売りで下落した。 bit.ly/4aicqOI
+中国国家統計局が１５日発表した１１月の鉱工業生産は前年比４．８％増と、１０月の４．９％増から減速した。小売売上高の伸びも鈍化した。 bit.ly/48Y7hc9
 
-[2025-12-15 11:08:57](https://bsky.app/profile/japan.reuters.com/post/3m7ykg2ece72c)
-
----
-
-@japan.reuters.com
-
-サッカーのスペイン１部は１４日、各地で試合を行い、レアル・マドリードは敵地でアラベスを２─１で退け、連敗を免れた。 bit.ly/4rXYQpX
-
-[2025-12-15 11:03:31](https://bsky.app/profile/japan.reuters.com/post/3m7yk4d4z7v2u)
+[2025-12-15 11:26:43](https://bsky.app/profile/japan.reuters.com/post/3m7ylfszjn62p)
 
 ---
 
 @japan.reuters.com
 
-韓国の警察当局は１５日、世界平和統一家庭連合（旧統一教会）による尹錫悦前政権への金品供与疑惑を巡り、ソウル近郊にある教団の国際本部などで家宅捜索を開始した。 bit.ly/48PdBT9
+中国財政省は１３日、来年は超長期の特別国債の発行を含めて、より積極的な財政政策を行うと明らかにした。 bit.ly/4s4lSvx
 
-[2025-12-15 11:02:23](https://bsky.app/profile/japan.reuters.com/post/3m7yk2ckhvx2q)
-
----
-
-@cnn.com
-
-The person of interest detained in connection with the Brown University shooting, identified by law enforcement sources as Benjamin Erickson, is a decorated soldier who had served in a position at Arlington National Cemetery, according to his LinkedIn profile. 
-
-[2025-12-15 11:01:01](https://bsky.app/profile/cnn.com/post/3m7yjxugzaa24)
+[2025-12-15 11:25:14](https://bsky.app/profile/japan.reuters.com/post/3m7yld5xk2z2s)
 
 ---
 
-@nikkei.com
+@cnbc.com
 
-衛星軌道をミリ単位で測定　愛知の瓦加工技術、JAXAで生きる
-www.nikkei.com/article/DGXZQO...
+China's retail sales growth sharply misses estimates in November, deepening consumption worries
 
-[2025-12-15 11:00:59](https://bsky.app/profile/nikkei.com/post/3m7yjxsn4pa2x)
+[2025-12-15 11:22:16](https://bsky.app/profile/cnbc.com/post/3m7yl5uohtm2e)
 
 ---
 
-@japan.reuters.com
+@wsj.com
 
-高市早苗首相は１５日の参院予算委員会で、為替はさまざまな要因を背景に市場において決まるものとの認識を改めて示した。杉久武委員（公明）への答弁。 bit.ly/48DBC0P
+We asked designers what’s trending and ending, based on client requests. The experts’ verdicts: So long, quiet minimalism and smart-everything. Hello, Art Deco glam and…rotary phones?
 
-[2025-12-15 11:00:51](https://bsky.app/profile/japan.reuters.com/post/3m7yjxkv2uv2u)
+[2025-12-15 11:21:50](https://bsky.app/profile/wsj.com/post/3m7yl53xvex2u)
 
 ---
 
 @japan.reuters.com
 
-ステーブルコイン発行企業テザーが、サッカーのイタリア１部リーグ（セリエＡ）に属する名門ユベントスの買収を提案したことを巡り、ユベントスを所有するアニェッリ一族の持ち株会社エクソールのジョン・エルカン最高経営責任者（ＣＥＯ）が１３日、ユベントスを売却しないと明言した。 bit.ly/3MHJg1u
+＜１０：５８＞　ドル155円後半で弱含み、方向感なく上下 bit.ly/4j6Wwcb
 
-[2025-12-15 11:00:48](https://bsky.app/profile/japan.reuters.com/post/3m7yjxif7ch2v)
+[2025-12-15 11:21:07](https://bsky.app/profile/japan.reuters.com/post/3m7yl3smzit2q)
 
 ---
 
-@usatoday.com
+@sokuho.news
 
-The Cleveland Browns battled the Chicago Bears in Week 15. Here are updates, analysis, stats and highlights from rookie Shedeur Sanders in Week 15.
+🛎️JNNより【速報】です。
 
-[2025-12-15 11:00:40](https://bsky.app/profile/usatoday.com/post/3m7yjxamq3r2t)
+【速報】北海道拓殖銀行の最後の頭取 河谷禎昌さん（90）死去
+(2025-12-15 11:00:00) #ニュース
+
+[2025-12-15 11:20:35](https://bsky.app/profile/sokuho.news/post/3m7yl2tyv6q2z)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】ノーベル化学賞の京大・北川特別教授が帰国 24日に特別講演
+(2025-12-15 11:16:35) #ニュース
+
+[2025-12-15 11:20:25](https://bsky.app/profile/sokuho.news/post/3m7yl2jzwti2b)
+
+---
+
+@japan.reuters.com
+
+オーストラリア・シドニーのビーチでユダヤ教の祭り「ハヌカ」が催されている最中に銃撃が起きたことを受け、ベルリンやロンドン、ニューヨークなど世界の主要都市でハヌカ関連行事の警備が強化された。 bit.ly/3KSm8g7
+
+[2025-12-15 11:20:25](https://bsky.app/profile/japan.reuters.com/post/3m7yl2ksodo26)
 
 ---
 
 @reuters.com
 
-Indian rupee set to keep drifting lower, bonds to track debt buy, FPI activity reut.rs/499NBDj
+China's November industrial output grows 4.8% y/y, retail sales up 1.3% reut.rs/3KR9LkC
 
-[2025-12-15 11:00:33](https://bsky.app/profile/reuters.com/post/3m7yjwzcprb2b)
+[2025-12-15 11:20:19](https://bsky.app/profile/reuters.com/post/3m7yl2eif2b2b)
 
 ---
 
-@washingtonpost.com
+@reuters.com
 
-A partner thinks her co-dependency with a family member is normal, and the letter writer wonders how to make her see otherwise.
+Supporters of Hong Kong democracy activist Jimmy Lai queued outside the city's High Court overnight before the December 15 verdict in his landmark security trial as international calls to release the China critic have grown. Follow our live coverage: reut.rs/4pE5Y9y
 
-“We have said out loud that we want our relationship to work,” they wrote.
-
-Advice columnist Carolyn Hax responds:
-
-[2025-12-15 11:00:09](https://bsky.app/profile/washingtonpost.com/post/3m7yjwcvhhx23)
+[2025-12-15 11:18:39](https://bsky.app/profile/reuters.com/post/3m7ykxfabok2j)
 
 ---
 
