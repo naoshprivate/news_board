@@ -1,9 +1,9 @@
-# [2025-12-15 14:30 updated](2025_12_15.md)
+# [2025-12-15 14:50 updated](2025_12_15.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">日本人は「不幸せ」？　幸福度調査の順位が低いワケ www.nikkei.com/article/DGXZQO...  オックスフォード大などがまとめる「世界幸福度報告書」2025年版で、日本は147カ国・地域のうち55位に。世界4位の経済大国で、「健康寿命」も2位。  それでも低迷する幸福度の順位に、専門家は「当然の結果」と言い切ります。  （リンクに不備があったため、修正し再投稿しました） <a href="https://bsky.app/profile/nikkei.com/post/3m7yvmfefnc22" target="_blank">nikkei.com</a> (2025-12-15 14:29:21)</span><span style="padding-right:50px;">日銀は１５日、２０２６年度の賃上げスタンスの動向に関して、本支店を通じて得た情報によると、大半の支店で高い伸びとなった前年度並みとの回答だったと明らかにした。 bit.ly/4aNxblh <a href="https://bsky.app/profile/japan.reuters.com/post/3m7yvenuenh27" target="_blank">japan.reuters.com</a> (2025-12-15 14:25:02)</span><span style="padding-right:50px;">Breaking News: The actor and director Rob Reiner and his wife, Michele, have died. The police are investigating what they called an apparent homicide at their home. Follow live updates. <a href="https://bsky.app/profile/nytimes.com/post/3m7yvcybnea2b" target="_blank">nytimes.com</a> (2025-12-15 14:24:05)</span><span style="padding-right:50px;">「冬型の気圧配置」って? ニュースでよく聞くことば https://news.web.nhk/newsweb/na/na-k10015003491000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7yvcxhzru24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 14:24:01)</span><span style="padding-right:50px;">チリ大統領選 移民対策強化など掲げる右派のカスト氏 勝利宣言 https://news.web.nhk/newsweb/na/na-k10015004211000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7yv5mchr42b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 14:21:03)</span>
+<span style="padding-right:50px;">NBA レイカーズ 八村塁 今季最多に並ぶ7リバウンド 勝利に貢献 https://news.web.nhk/newsweb/na/na-k10015004241000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ywnvljxm2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 14:48:03)</span><span style="padding-right:50px;">1週間ニュース 悪化する日中関係 中国の厳しい対応なぜ？ https://news.web.nhk/newsweb/na/na-k10015003521000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ywiie44y2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 14:45:02)</span><span style="padding-right:50px;">【きょうのおはBiz 12月15日(月)】自社で“スポットワーク” https://news.web.nhk/newsweb/na/na-k10015004031000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ywd5o43e2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 14:42:03)</span><span style="padding-right:50px;">🛎️ANNより【速報】です。  【速報】東京・赤坂の個室サウナ店で火事 男女が意識不明の重体で搬送 (2025-12-15 14:33:28) #ニュース https://news.tv-asahi.co.jp/news_society/articles/000473088.html?display=full <a href="https://bsky.app/profile/sokuho.news/post/3m7yw7sqfia26" target="_blank">sokuho.news</a> (2025-12-15 14:40:12)</span><span style="padding-right:50px;">The week in Asian football reut.rs/3YuglAA <a href="https://bsky.app/profile/reuters.com/post/3m7yw7qynkj23" target="_blank">reuters.com</a> (2025-12-15 14:40:11)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50214.23 (🔻137.86 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3347.00 (🔺104.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.16 (🔻0.52 : 2025-12-15)</span>
+<span style="padding-right:50px;">NIKKEI: 50168.61 (🔻183.48 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3352.00 (🔺109.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.07 (🔻0.60 : 2025-12-15)</span>
   </div>
 </div>
 
@@ -32,107 +32,99 @@
 
 ## News Headlines
 
-1.  147カ国・地域で日本は55位　「世界幸福度報告書」
-2.  日銀「賃上げスタンス」　大半の支店で高い伸びとなった前年並み
-3.  チリ大統領選　右派のカスト氏が勝利を宣言
-4.  北海道「ドーム」の屋根がゆがむ　湿った雪で着雪被害が相次ぐ
-5.  中国とサウジアラビア　外相会談　地域・国際問題に関する協力強化
-6.  米国とベネズエラの緊張　原油価格が4％下落
+１. NBAレーカーズ：８村塁、最多の７リバウンドで勝利に貢献
+２. 日中関係悪化、中国の厳しい対応の理由はなぜ？
+３. 自社で「スポットワーク」　きょうのおはBiz
+４. 東京・赤坂の個室サウナ店で火事　男女重体
+５. チリ大統領選　左派のカスト氏が勝利宣言
+ 6. 日銀が発表した短観　大企業の業況判断指数が高水準
 
 ----
 
-@nikkei.com
+@nhknewsunofficial.bsky.social
 
-日本人は「不幸せ」？　幸福度調査の順位が低いワケ
-www.nikkei.com/article/DGXZQO...
+NBA レイカーズ 八村塁 今季最多に並ぶ7リバウンド 勝利に貢献
+https://news.web.nhk/newsweb/na/na-k10015004241000
 
-オックスフォード大などがまとめる「世界幸福度報告書」2025年版で、日本は147カ国・地域のうち55位に。世界4位の経済大国で、「健康寿命」も2位。
-
-それでも低迷する幸福度の順位に、専門家は「当然の結果」と言い切ります。
-
-（リンクに不備があったため、修正し再投稿しました）
-
-[2025-12-15 14:29:21](https://bsky.app/profile/nikkei.com/post/3m7yvmfefnc22)
-
----
-
-@japan.reuters.com
-
-日銀は１５日、２０２６年度の賃上げスタンスの動向に関して、本支店を通じて得た情報によると、大半の支店で高い伸びとなった前年度並みとの回答だったと明らかにした。 bit.ly/4aNxblh
-
-[2025-12-15 14:25:02](https://bsky.app/profile/japan.reuters.com/post/3m7yvenuenh27)
-
----
-
-@nytimes.com
-
-<strong><span style="color: red;">Breaking News</span>: The actor and director Rob Reiner and his wife, Michele, have died. The police are investigating what they called an apparent homicide at their home. Follow live updates.</strong>
-
-[2025-12-15 14:24:05](https://bsky.app/profile/nytimes.com/post/3m7yvcybnea2b)
+[2025-12-15 14:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ywnvljxm2m)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-「冬型の気圧配置」って? ニュースでよく聞くことば
-https://news.web.nhk/newsweb/na/na-k10015003491000
+1週間ニュース 悪化する日中関係 中国の厳しい対応なぜ？
+https://news.web.nhk/newsweb/na/na-k10015003521000
 
-[2025-12-15 14:24:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7yvcxhzru24)
+[2025-12-15 14:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ywiie44y2w)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-チリ大統領選 移民対策強化など掲げる右派のカスト氏 勝利宣言
-https://news.web.nhk/newsweb/na/na-k10015004211000
+【きょうのおはBiz 12月15日(月)】自社で“スポットワーク”
+https://news.web.nhk/newsweb/na/na-k10015004031000
 
-[2025-12-15 14:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7yv5mchr42b)
+[2025-12-15 14:42:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ywd5o43e2k)
 
 ---
 
 @sokuho.news
 
-🛎️FNNより【速報】です。
+🛎️ANNより【速報】です。
 
-【速報】北海道で「ドーム」の屋根がゆがむ…ケガ人なし_湿ったドカ雪で“着雪被害”が各地で相次ぐ_北海道は12月としては記録的な大雪〈北海道網走市〉
-(2025-12-15 13:41) #ニュース
+【速報】東京・赤坂の個室サウナ店で火事 男女が意識不明の重体で搬送
+(2025-12-15 14:33:28) #ニュース
+https://news.tv-asahi.co.jp/news_society/articles/000473088.html?display=full
 
-❄️降雪量
-🔗https://www.jma.go.jp/bosai/snow/#zoom:7/lat:43.06417/lon:141.34694/colordepth:normal/elements:snowf24h
-
-[2025-12-15 14:20:43](https://bsky.app/profile/sokuho.news/post/3m7yv4x5cnj2y)
-
----
-
-@japan.reuters.com
-
-中国・香港株式市場は反落して前場を終えた。一連の軟調な経済指標や、不動産開発大手、万科企業の債務不履行リスクの高まりが市場心理を圧迫した。 bit.ly/44sT9Gw
-
-[2025-12-15 14:20:43](https://bsky.app/profile/japan.reuters.com/post/3m7yv4xmgvi2u)
-
----
-
-@japan.reuters.com
-
-トランプ米大統領の攻撃的な政策は、経済構造や移民対策を変容させているだけではない。２０２８年の大統領選に向けて、野党民主党の有力州知事３人を勢いづかせるという皮肉な構図も生み出している。 bit.ly/3KIxJ1t
-
-[2025-12-15 14:20:11](https://bsky.app/profile/japan.reuters.com/post/3m7yv3yxbgq2u)
+[2025-12-15 14:40:12](https://bsky.app/profile/sokuho.news/post/3m7yw7sqfia26)
 
 ---
 
 @reuters.com
 
-China's property investment falls 15.9% y/y in January-November reut.rs/499YyVr
+The week in Asian football reut.rs/3YuglAA
 
-[2025-12-15 14:20:10](https://bsky.app/profile/reuters.com/post/3m7yv3y6wte2y)
+[2025-12-15 14:40:11](https://bsky.app/profile/reuters.com/post/3m7yw7qynkj23)
 
 ---
 
-@financialtimes.com
+@japan.reuters.com
 
- Labour’s re-election hopes rest on the private sector on.ft.com/3MA6k2d  | opinion
+オセアニア外国為替市場では豪ドルとニュージーランド（ＮＺ）ドルが対米ドルで軟調。来年の米金利見通しを左右する可能性のある米雇用統計の発表を週内に控えていることが背景。 bit.ly/4aP7BMQ
 
-[2025-12-15 14:20:08](https://bsky.app/profile/financialtimes.com/post/3m7yv3viydx2q)
+[2025-12-15 14:39:00](https://bsky.app/profile/japan.reuters.com/post/3m7yw5mywma2v)
+
+---
+
+@japan.reuters.com
+
+アジア新興国通貨市場では、タイバーツが１ドル＝３１．５１バーツ前後と、２０２１年６月以来の高値。年初来では約９％上昇し、新興国通貨の中でも上位のパフォーマンスとなっている。 bit.ly/44wzXaW
+
+[2025-12-15 14:32:38](https://bsky.app/profile/japan.reuters.com/post/3m7yvsbbbkx2c)
+
+---
+
+@japan.reuters.com
+
+日銀が１５日に発表した１２月短観によると、大企業・製造業の業況判断指数（ＤＩ）はプラス１５で、２０２１年１２月（プラス１８）以来４年ぶりの高水準となった。市場では、今週の金融政策決定会合で日銀が利上げを判断するうえでサポートになると受け止められている。大企業・非製造業の業況判断ＤＩはプラス３４と、前回から横ばいだった。 bit.ly/4pzMTFh
+
+[2025-12-15 14:30:22](https://bsky.app/profile/japan.reuters.com/post/3m7yvo7dviy2u)
+
+---
+
+@reuters.com
+
+Indian shares slip on outflows, US trade deal uncertainty reut.rs/3KZBoYM
+
+[2025-12-15 14:30:20](https://bsky.app/profile/reuters.com/post/3m7yvo5zzjd2r)
+
+---
+
+@apnews.com
+
+Hamas has confirmed the death of a top commander in Gaza, a day after Israel said it had killed Raed Saad in a strike outside Gaza City.
+
+[2025-12-15 14:30:09](https://bsky.app/profile/apnews.com/post/3m7yvnth5a724)
 
 ---
 
