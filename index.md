@@ -1,9 +1,9 @@
-# [2025-12-16 07:30 updated](2025_12_16.md)
+# [2025-12-16 07:50 updated](2025_12_16.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Smith was 25 in 2000 when she published her critically acclaimed first novel. Now 50, her latest collection of essays, Dead and Alive, reflects on middle age, climate change and generational gaps. n.pr/4q2S7cC <a href="https://bsky.app/profile/npr.org/post/3ma2ojl3ni32x" target="_blank">npr.org</a> (2025-12-16 07:27:50)</span><span style="padding-right:50px;">ウクライナ和平案 ゼレンスキー氏“進展も領土問題隔たり” https://news.web.nhk/newsweb/na/na-k10015004851000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma2oiagxt52b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 07:27:03)</span><span style="padding-right:50px;">Anthony Geary, who portrayed Luke Spencer on ABC soap opera “General Hospital” for almost 40 years in nearly 2,000 episodes, has died. https://cnn.it/4oZiuzf <a href="https://bsky.app/profile/cnn.com/post/3ma2ogab6us2a" target="_blank">cnn.com</a> (2025-12-16 07:25:58)</span><span style="padding-right:50px;">US FDA sends warning letters to Walmart, Target for selling recalled baby formula reut.rs/4iVqnUK <a href="https://bsky.app/profile/reuters.com/post/3ma2oesd7jc2s" target="_blank">reuters.com</a> (2025-12-16 07:25:10)</span><span style="padding-right:50px;">PayPal applies to form bank that can offer small business loans and savings accounts <a href="https://bsky.app/profile/cnbc.com/post/3ma2oatd3i62d" target="_blank">cnbc.com</a> (2025-12-16 07:22:56)</span>
+<span style="padding-right:50px;">2025年の冬ボーナス、3～5位はゼネコン3社 www.nikkei.com/article/DGXZQO...  旺盛な建設需要や資材高騰を背景に、採算性の高い工事が増えて業績が改善しました。  半導体製造装置のディスコが6年連続の首位で、前年比27.17%増の449万7549円でした。 <a href="https://bsky.app/profile/nikkei.com/post/3ma2piryuyq22" target="_blank">nikkei.com</a> (2025-12-16 07:45:17)</span><span style="padding-right:50px;">LA28 to open ticket draw on Jan. 14 with seats from $28 reut.rs/4qb03si <a href="https://bsky.app/profile/reuters.com/post/3ma2piq7b4b2b" target="_blank">reuters.com</a> (2025-12-16 07:45:15)</span><span style="padding-right:50px;">＜日本企業ＡＤＲ銘柄＞ bit.ly/4pN7lCY <a href="https://bsky.app/profile/japan.reuters.com/post/3ma2pibgt4k2c" target="_blank">japan.reuters.com</a> (2025-12-16 07:45:00)</span><span style="padding-right:50px;">シドニー 銃撃事件 “反ユダヤ主義的犯罪根絶目指す” 豪首相 https://news.web.nhk/newsweb/na/na-k10015004841000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma2pd2q4fq24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 07:42:03)</span><span style="padding-right:50px;">欧州各国の首脳は１５日、ウクライナのロシアに対する領土譲歩の可能性に関するいかなる決定も、欧州主導の多国籍軍を含む強力な安全保障体制が確立された場合にのみ行うことができるという点で合意したと発表した。 bit.ly/44Q7zRl <a href="https://bsky.app/profile/japan.reuters.com/post/3ma2pa2sdrr2n" target="_blank">japan.reuters.com</a> (2025-12-16 07:40:24)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.21 (🔻0.47 : 2025-12-15)</span>
+<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.21 (🔻0.46 : 2025-12-15)</span>
   </div>
 </div>
 
@@ -32,97 +32,102 @@
 
 ## News Headlines
 
-Here are the six selected headlines:
+Here are six news headlines:
 
-1. PayPal Applies to Form Bank to Offer Small Business Loans and Savings Accounts
-2. FBI Foils New Year's Eve Terror Plot in Los Angeles
-3. US FDA Sends Warning Letters to Walmart, Target for Selling Recalled Baby Formula
-4. Anthony Geary, Actor Who Portrayed Luke Spencer on General Hospital, Dies at 78
-5. European Union Adds More Traders to Sanctions List Over Russia's Oil Export Support
-6. Minimum Wage to Increase in 19 US States and 49 Cities and Counties on January 1
+1. Construction Boom and Rising Material Costs Drive Profitability for Top Contractors
+2. LA28 Ticket Draw to Open on January 14 with Seats Starting at $28
+3. European Leaders Agree to Avoid Ukraine Border Concessions Unless Strong Security Measures in Place
+4. Romania's Government Survives No-Confidence Vote Over Reform Plans
+5. Cryptocurrency Billionaire's Space Startup in Talks for $2 Billion Valuation
+6. US FDA Sends Warning Letters to Walmart and Target for Selling Recalled Baby Formula
 
 ----
 
-@npr.org
+@nikkei.com
 
-Smith was 25 in 2000 when she published her critically acclaimed first novel. Now 50, her latest collection of essays, Dead and Alive, reflects on middle age, climate change and generational gaps. n.pr/4q2S7cC
+2025年の冬ボーナス、3～5位はゼネコン3社
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-16 07:27:50](https://bsky.app/profile/npr.org/post/3ma2ojl3ni32x)
+旺盛な建設需要や資材高騰を背景に、採算性の高い工事が増えて業績が改善しました。
 
----
+半導体製造装置のディスコが6年連続の首位で、前年比27.17%増の449万7549円でした。
 
-@nhknewsunofficial.bsky.social
-
-ウクライナ和平案 ゼレンスキー氏“進展も領土問題隔たり”
-https://news.web.nhk/newsweb/na/na-k10015004851000
-
-[2025-12-16 07:27:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma2oiagxt52b)
-
----
-
-@cnn.com
-
-Anthony Geary, who portrayed Luke Spencer on ABC soap opera “General Hospital” for almost 40 years in nearly 2,000 episodes, has died. https://cnn.it/4oZiuzf
-
-[2025-12-16 07:25:58](https://bsky.app/profile/cnn.com/post/3ma2ogab6us2a)
+[2025-12-16 07:45:17](https://bsky.app/profile/nikkei.com/post/3ma2piryuyq22)
 
 ---
 
 @reuters.com
 
-US FDA sends warning letters to Walmart, Target for selling recalled baby formula reut.rs/4iVqnUK
+LA28 to open ticket draw on Jan. 14 with seats from $28 reut.rs/4qb03si
 
-[2025-12-16 07:25:10](https://bsky.app/profile/reuters.com/post/3ma2oesd7jc2s)
+[2025-12-16 07:45:15](https://bsky.app/profile/reuters.com/post/3ma2piq7b4b2b)
 
 ---
 
-@cnbc.com
+@japan.reuters.com
 
-PayPal applies to form bank that can offer small business loans and savings accounts
+＜日本企業ＡＤＲ銘柄＞ bit.ly/4pN7lCY
 
-[2025-12-16 07:22:56](https://bsky.app/profile/cnbc.com/post/3ma2oatd3i62d)
+[2025-12-16 07:45:00](https://bsky.app/profile/japan.reuters.com/post/3ma2pibgt4k2c)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+シドニー 銃撃事件 “反ユダヤ主義的犯罪根絶目指す” 豪首相
+https://news.web.nhk/newsweb/na/na-k10015004841000
+
+[2025-12-16 07:42:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma2pd2q4fq24)
+
+---
+
+@japan.reuters.com
+
+欧州各国の首脳は１５日、ウクライナのロシアに対する領土譲歩の可能性に関するいかなる決定も、欧州主導の多国籍軍を含む強力な安全保障体制が確立された場合にのみ行うことができるという点で合意したと発表した。 bit.ly/44Q7zRl
+
+[2025-12-16 07:40:24](https://bsky.app/profile/japan.reuters.com/post/3ma2pa2sdrr2n)
+
+---
+
+@reuters.com
+
+Romania's government survives no-confidence vote over reform plans reut.rs/4se8u8a
+
+[2025-12-16 07:40:22](https://bsky.app/profile/reuters.com/post/3ma2p7yrigl2s)
 
 ---
 
 @cbsnews.com
 
-Trump designates illicit fentanyl as a weapon of mass destruction.
+"I thought we were in an engineering building, so I thought something fell...I didn't think it was gunfire."
 
-[2025-12-16 07:22:01](https://bsky.app/profile/cbsnews.com/post/3ma2o76fqeo2q)
+Brown University student Alex Mihailovich, who was studying in the Barus & Holley engineering building on Saturday, details what happened when he heard five shots ring out. cbsn.ws/3Kw3SJC
+
+[2025-12-16 07:40:00](https://bsky.app/profile/cbsnews.com/post/3ma2p7esedo2g)
 
 ---
 
-@nytimes.com
+@bbcnews-world-rss.bsky.social
 
-<strong><span style="color: red;">Breaking News</span>: Anthony Geary, the actor best known for portraying Luke Spencer on the popular soap opera “General Hospital,” died at 78. Geary helped change the landscape of daytime television.</strong>
+What the divides within the Maga base mean for Trump
 
-[2025-12-16 07:20:58](https://bsky.app/profile/nytimes.com/post/3ma2o5cpubi2a)
+[2025-12-16 07:36:55](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma2ozu6tre2r)
+
+---
+
+@reuters.com
+
+JetBlue flight averts mid-air collision with US Air Force jet reut.rs/4pIpDFg
+
+[2025-12-16 07:35:11](https://bsky.app/profile/reuters.com/post/3ma2owq6pe22s)
 
 ---
 
 @wsj.com
 
-Videogame executive Xu Bo, said to have more than 100 children, and other Chinese elites are building mega-families by hiring American surrogates. 
+The bassist’s reissued ‘Mingus at Monterey’ and the drummer’s previously unreleased ‘Strasbourg 82’ highlight both musicians not just as players but as master bandleaders with an outsize influence on the genre’s evolution. on.wsj.com/3XZumpR
 
-🔗: on.wsj.com/4iVHMwE
-
-[2025-12-16 07:17:20](https://bsky.app/profile/wsj.com/post/3ma2nwsky2q2i)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Epstein’s UK flights had alleged British abuse victims on board, BBC finds
-
-[2025-12-16 07:17:13](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma2nwmpb7y2s)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-FBI foils New Year's Eve terror plot in Los Angeles, officials say
-
-[2025-12-16 07:16:08](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma2nuoy4vg2a)
+[2025-12-16 07:31:21](https://bsky.app/profile/wsj.com/post/3ma2opuqwi52g)
 
 ---
 
