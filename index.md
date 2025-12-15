@@ -1,9 +1,9 @@
-# [2025-12-15 23:10 updated](2025_12_15.md)
+# [2025-12-15 23:30 updated](2025_12_15.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">LIVE: Chilean president Boric receives president-elect Kast youtube.com/live/VRz60c-... <a href="https://bsky.app/profile/reuters.com/post/3m7zslt5b5s2x" target="_blank">reuters.com</a> (2025-12-15 23:08:01)</span><span style="padding-right:50px;">VIDEO: 🇺🇸 US police probe deaths of director Rob Reiner, wife as 'apparent homicide'  Los Angeles police are investigating the deaths of Hollywood star Rob Reiner and his wife as an "apparent homicide", after they were found dead in their home with what appeared to be stab wounds, US media reported <a href="https://bsky.app/profile/en.afp.com/post/3m7zsjl4ast2f" target="_blank">en.afp.com</a> (2025-12-15 23:06:45)</span><span style="padding-right:50px;">German economy recorded robust start to fourth quarter, says ministry reut.rs/4oUbRhC <a href="https://bsky.app/profile/reuters.com/post/3m7zsgrpfrr2b" target="_blank">reuters.com</a> (2025-12-15 23:05:11)</span><span style="padding-right:50px;">Reiner, a legendary Hollywood director and actor, and his wife were found dead in their Los Angeles home Sunday.  <a href="https://bsky.app/profile/forbes.com/post/3m7zsglpv3s2s" target="_blank">forbes.com</a> (2025-12-15 23:05:05)</span><span style="padding-right:50px;">Bad movies can be fun in their own way. n.pr/499GECi <a href="https://bsky.app/profile/npr.org/post/3m7zsgjd6so2n" target="_blank">npr.org</a> (2025-12-15 23:05:02)</span>
+<span style="padding-right:50px;">🇲🇦 A flash flood in a coastal Moroccan town killed at least 37 people, local officials said on Monday, as search and rescue operations continued ➡️ u.afp.com/S7DE <a href="https://bsky.app/profile/en.afp.com/post/3m7ztpmsqi32v" target="_blank">en.afp.com</a> (2025-12-15 23:28:02)</span><span style="padding-right:50px;">African Development Bank seeks $25 billion for low-cost lending amid waning US engagement reut.rs/3MADGhu <a href="https://bsky.app/profile/reuters.com/post/3m7ztkkmrhv2r" target="_blank">reuters.com</a> (2025-12-15 23:25:12)</span><span style="padding-right:50px;">FT Exclusive: Brussels plans to scrap the EU’s 2035 combustion engine ban, allowing carmakers to continue making a limited number of petrol and diesel-fuelled cars after the ban had been meant to come into effect. on.ft.com/4q1VxMw <a href="https://bsky.app/profile/financialtimes.com/post/3m7ztkeqs6l2b" target="_blank">financialtimes.com</a> (2025-12-15 23:25:06)</span><span style="padding-right:50px;">Brussels plans to scrap 2035 combustion engine ban on.ft.com/3N0h8qp <a href="https://bsky.app/profile/financialtimes.com/post/3m7ztd4nl6d24" target="_blank">financialtimes.com</a> (2025-12-15 23:21:02)</span><span style="padding-right:50px;">トランプ米大統領が１月に復帰して以来、マイナーな新興国通貨であるハンガリー・フォリントの取引量は２倍以上に増加している。トランプ氏が「解放の日」と位置付けて関税を発表した4月2日以降、トレーダーの関心は高まる一方だ。 bit.ly/4oYzFRo <a href="https://bsky.app/profile/japan.reuters.com/post/3m7ztbrzr762f" target="_blank">japan.reuters.com</a> (2025-12-15 23:20:18)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.18 (🔻0.50 : 2025-12-15)</span>
+<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48608.37 (🔺14.01 : 2025-12-15)</span><span style="padding-right:50px;">^IXIC: Error</span><span style="padding-right:50px;">NVIDIA: 177.76 (🔻0.18 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.04 (🔻0.63 : 2025-12-15)</span>
   </div>
 </div>
 
@@ -32,96 +32,94 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are six news headlines in English:
 
-1. Police Investigate Deaths of Hollywood Director Rob Reiner and Wife as Apparent Homicide
-2. German Economy Records Robust Start to Fourth Quarter
-3. US Demands EU Exempt Its Gas from Methane Emissions Law
-4. Thailand Targets Siem Reap Province, Home to Cambodia's Tourist Hub Angkor Wat
-5. Louvre Museum Workers Go on Strike Over Working Conditions and Complaints
-6. Philippines to Protest China's Actions That Injured Filipino Fishermen in South China Sea
+1. Flash Flood in Moroccan Town Kills at Least 37
+2. African Development Bank Seeks $25 Billion for Low-Cost Lending
+3. EU Scraps 2035 Combustion Engine Ban, Allows Limited Petrol and Diesel Car Production
+4. US Police Investigate Apparent Homicide of Director Rob Reiner and Wife
+5. Thailand Targets Siem Reap Province, Home to Cambodia's Angkor Wat, in Military Operation
+6. US Demands EU Exempt Its Gas from Methane Emissions Law
 
 ----
 
-@reuters.com
-
-LIVE: Chilean president Boric receives president-elect Kast youtube.com/live/VRz60c-...
-
-[2025-12-15 23:08:01](https://bsky.app/profile/reuters.com/post/3m7zslt5b5s2x)
-
----
-
 @en.afp.com
 
-VIDEO: 🇺🇸 US police probe deaths of director Rob Reiner, wife as 'apparent homicide'
+🇲🇦 A flash flood in a coastal Moroccan town killed at least 37 people, local officials said on Monday, as search and rescue operations continued ➡️ u.afp.com/S7DE
 
-Los Angeles police are investigating the deaths of Hollywood star Rob Reiner and his wife as an "apparent homicide", after they were found dead in their home with what appeared to be stab wounds, US media reported
-
-[2025-12-15 23:06:45](https://bsky.app/profile/en.afp.com/post/3m7zsjl4ast2f)
+[2025-12-15 23:28:02](https://bsky.app/profile/en.afp.com/post/3m7ztpmsqi32v)
 
 ---
 
 @reuters.com
 
-German economy recorded robust start to fourth quarter, says ministry reut.rs/4oUbRhC
+African Development Bank seeks $25 billion for low-cost lending amid waning US engagement reut.rs/3MADGhu
 
-[2025-12-15 23:05:11](https://bsky.app/profile/reuters.com/post/3m7zsgrpfrr2b)
-
----
-
-@forbes.com
-
-Reiner, a legendary Hollywood director and actor, and his wife were found dead in their Los Angeles home Sunday. 
-
-[2025-12-15 23:05:05](https://bsky.app/profile/forbes.com/post/3m7zsglpv3s2s)
+[2025-12-15 23:25:12](https://bsky.app/profile/reuters.com/post/3m7ztkkmrhv2r)
 
 ---
 
-@npr.org
+@financialtimes.com
 
-Bad movies can be fun in their own way. n.pr/499GECi
+FT Exclusive: Brussels plans to scrap the EU’s 2035 combustion engine ban, allowing carmakers to continue making a limited number of petrol and diesel-fuelled cars after the ban had been meant to come into effect. on.ft.com/4q1VxMw
 
-[2025-12-15 23:05:02](https://bsky.app/profile/npr.org/post/3m7zsgjd6so2n)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Balloons from Belarus are causing chaos in Lithuania. Is it smugglers, or a hybrid attack?
-
-[2025-12-15 23:05:00](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3m7zsghyz4b2r)
+[2025-12-15 23:25:06](https://bsky.app/profile/financialtimes.com/post/3m7ztkeqs6l2b)
 
 ---
 
-@reuters.com
+@financialtimes.com
 
-Greece arrests five over cocaine trafficking on ship from Venezuela to Europe reut.rs/4rXAHQd
+Brussels plans to scrap 2035 combustion engine ban on.ft.com/3N0h8qp
 
-[2025-12-15 23:01:14](https://bsky.app/profile/reuters.com/post/3m7zs7pfxct2i)
-
----
-
-@cnn.com
-
-House Republicans are set to vote this week on their version of a health care bill as the expiration of enhanced Affordable Care Act subsidies looms ever closer. https://cnn.it/4oO9JI1
-
-[2025-12-15 23:01:06](https://bsky.app/profile/cnn.com/post/3m7zs7hjxga2c)
+[2025-12-15 23:21:02](https://bsky.app/profile/financialtimes.com/post/3m7ztd4nl6d24)
 
 ---
 
 @japan.reuters.com
 
-タイ選挙管理委員会は、アヌティン首相が議会を解散したことを受け、来年２月８日に総選挙を実施すると発表した。 bit.ly/4pDi1Um
+トランプ米大統領が１月に復帰して以来、マイナーな新興国通貨であるハンガリー・フォリントの取引量は２倍以上に増加している。トランプ氏が「解放の日」と位置付けて関税を発表した4月2日以降、トレーダーの関心は高まる一方だ。 bit.ly/4oYzFRo
 
-[2025-12-15 23:01:01](https://bsky.app/profile/japan.reuters.com/post/3m7zs7d45ow2f)
+[2025-12-15 23:20:18](https://bsky.app/profile/japan.reuters.com/post/3m7ztbrzr762f)
 
 ---
 
-@usatoday.com
+@nbcnews.com
 
-Students at St. Mary's Episcopal in Memphis took on a big project: creating a design for Taylor Swift's wedding dress. See what they came up with.
+The "All I Want for Christmas is You" singer is the first international star named to perform in the Feb. 6 ceremony at Milan's San Siro soccer stadium.
 
-[2025-12-15 23:00:55](https://bsky.app/profile/usatoday.com/post/3m7zs75j2cq2f)
+[2025-12-15 23:20:07](https://bsky.app/profile/nbcnews.com/post/3m7ztbi42gs23)
+
+---
+
+@axios.com
+
+SCOOP: White House scolded Netanyahu for violating Gaza ceasefire with strike
+
+[2025-12-15 23:19:20](https://bsky.app/profile/axios.com/post/3m7zta3k23s2n)
+
+---
+
+@reuters.com
+
+LIVE: Keir Starmer answers UK lawmakers' questions youtube.com/live/40lxPwT...
+
+[2025-12-15 23:17:28](https://bsky.app/profile/reuters.com/post/3m7zt4q6ucs2x)
+
+---
+
+@wsj.com
+
+The company that makes Roomba robotic vacuums declared bankruptcy Sunday but said its devices will continue to function normally while the company restructures.
+
+[2025-12-15 23:16:20](https://bsky.app/profile/wsj.com/post/3m7zt2pvymg2c)
+
+---
+
+@reuters.com
+
+Secure Jimmy Lai's release before seeking closer China ties, his son urges UK reut.rs/3XSvV99
+
+[2025-12-15 23:15:11](https://bsky.app/profile/reuters.com/post/3m7zsyo2ps52o)
 
 ---
 
