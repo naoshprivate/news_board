@@ -1,9 +1,9 @@
-# [2025-12-15 21:50 updated](2025_12_15.md)
+# [2025-12-15 22:10 updated](2025_12_15.md)
 
-
+<div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Heard on the Street: The U.S. government relaxed the rules for small public companies in a push for more IPOs. But this approach has fueled a wave of scams. <a href="https://bsky.app/profile/wsj.com/post/3m7znzfb6zx2k" target="_blank">wsj.com</a> (2025-12-15 21:46:07)</span><span style="padding-right:50px;">中国工業情報省は１５日、自動運転レベル３を備えた車として国有メーカーの２車種を承認した。このような自動車が大規模導入に向けた合法的な製品として同省に認可されたのは初めて。 bit.ly/4pDCFUv <a href="https://bsky.app/profile/japan.reuters.com/post/3m7znxvj2rc2q" target="_blank">japan.reuters.com</a> (2025-12-15 21:45:17)</span><span style="padding-right:50px;">Nigeria consumer inflation at 14.45% y/y in November, stats office says reut.rs/4pDbuJk <a href="https://bsky.app/profile/reuters.com/post/3m7znxr4a3z2y" target="_blank">reuters.com</a> (2025-12-15 21:45:12)</span><span style="padding-right:50px;">This casino stock is beating the market in 2025. Why Goldman thinks the new year will bring more gains <a href="https://bsky.app/profile/cnbc.com/post/3m7znwbbupc24" target="_blank">cnbc.com</a> (2025-12-15 21:44:22)</span><span style="padding-right:50px;">President Trump and his advisers have an almost messianic belief the economy will take off in the first quarter of next year.  Trump's bullish belief is key to understanding why he's so reluctant to say there's an "affordability crisis." <a href="https://bsky.app/profile/axios.com/post/3m7znu6kffk2m" target="_blank">axios.com</a> (2025-12-15 21:43:12)</span>
+<span style="padding-right:50px;">“映画「スタンド・バイ・ミー」の監督と妻の遺体”米メディア https://news.web.nhk/newsweb/na/na-k10015004911000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zpcgsicb2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 22:09:02)</span><span style="padding-right:50px;">OpenAI CFO on hardware device: 'No changes right now, no announcements to be made' <a href="https://bsky.app/profile/yahoofinance.com/post/3m7zp54htc62k" target="_blank">yahoofinance.com</a> (2025-12-15 22:06:06)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】「平屋建てから出火」と通報 激しい炎と煙が上がる 福岡市早良区で火事 消防が出動し消火活動中 (2025-12-15 21:55) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7zp4hmjvm2v" target="_blank">sokuho.news</a> (2025-12-15 22:05:44)</span><span style="padding-right:50px;">German regulator orders oversight, limits on online bank N26 reut.rs/4oWfYto <a href="https://bsky.app/profile/reuters.com/post/3m7zp3fhxy32i" target="_blank">reuters.com</a> (2025-12-15 22:05:08)</span><span style="padding-right:50px;"> n.pr/48BwtGy <a href="https://bsky.app/profile/npr.org/post/3m7zoym3lj22y" target="_blank">npr.org</a> (2025-12-15 22:03:34)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.03 (🔻0.65 : 2025-12-15)</span>
+<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.12 (🔻0.55 : 2025-12-15)</span>
   </div>
 </div>
 
@@ -32,94 +32,102 @@
 
 ## News Headlines
 
-1. 自動運転レベル３車両が初めて国有メーカーから認可
-2. 中国が来年から出産にかかる自己負担を全額公費で負担する
-3. ロシア中央銀行がベルギーの中央証券保管機関に損害賠償を求める訴訟を起こす
-4. アナル・フリーマン襲撃事件の被害者が大統領を訪ねる
-5. トランプ米大統領がハンガリー・フォリントの取引量を２倍以上に増加させる
-6. ドイツ貿易投資振興機関が今年の対中輸出額が前年比１０％減となる
+Here are six news headlines in English:
+
+1. Japanese Film Director's Body Found, Wife's Body Still Missing
+2. Germany Orders Oversight of Online Bank N26
+3. Morgan Stanley Recommends Buying Health Tech Platform After 30% Correction
+4. Philip Rivers Makes Historic Return to Football After Five Seasons
+5. Nigerian Consumer Inflation Hits 14.45% Year-Over-Year in November
+6. Chinese State Council Approves First Autonomous Vehicle for Mass Production
 
 ----
 
-@wsj.com
+@nhknewsunofficial.bsky.social
 
-Heard on the Street: The U.S. government relaxed the rules for small public companies in a push for more IPOs. But this approach has fueled a wave of scams.
+“映画「スタンド・バイ・ミー」の監督と妻の遺体”米メディア
+https://news.web.nhk/newsweb/na/na-k10015004911000
 
-[2025-12-15 21:46:07](https://bsky.app/profile/wsj.com/post/3m7znzfb6zx2k)
+[2025-12-15 22:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zpcgsicb2u)
 
 ---
 
-@japan.reuters.com
+@yahoofinance.com
 
-中国工業情報省は１５日、自動運転レベル３を備えた車として国有メーカーの２車種を承認した。このような自動車が大規模導入に向けた合法的な製品として同省に認可されたのは初めて。 bit.ly/4pDCFUv
+OpenAI CFO on hardware device: 'No changes right now, no announcements to be made'
 
-[2025-12-15 21:45:17](https://bsky.app/profile/japan.reuters.com/post/3m7znxvj2rc2q)
+[2025-12-15 22:06:06](https://bsky.app/profile/yahoofinance.com/post/3m7zp54htc62k)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】「平屋建てから出火」と通報 激しい炎と煙が上がる 福岡市早良区で火事 消防が出動し消火活動中
+(2025-12-15 21:55) #ニュース
+
+[2025-12-15 22:05:44](https://bsky.app/profile/sokuho.news/post/3m7zp4hmjvm2v)
 
 ---
 
 @reuters.com
 
-Nigeria consumer inflation at 14.45% y/y in November, stats office says reut.rs/4pDbuJk
+German regulator orders oversight, limits on online bank N26 reut.rs/4oWfYto
 
-[2025-12-15 21:45:12](https://bsky.app/profile/reuters.com/post/3m7znxr4a3z2y)
+[2025-12-15 22:05:08](https://bsky.app/profile/reuters.com/post/3m7zp3fhxy32i)
+
+---
+
+@npr.org
+
+ n.pr/48BwtGy
+
+[2025-12-15 22:03:34](https://bsky.app/profile/npr.org/post/3m7zoym3lj22y)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+小野田経済安保相“総合的なシンクタンクを来年度中に設ける”
+https://news.web.nhk/newsweb/na/na-k10015004921000
+
+[2025-12-15 22:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7zoxpxlzf26)
 
 ---
 
 @cnbc.com
 
-This casino stock is beating the market in 2025. Why Goldman thinks the new year will bring more gains
+Morgan Stanley says buy this health tech platform after 30% correction in the past month
 
-[2025-12-15 21:44:22](https://bsky.app/profile/cnbc.com/post/3m7znwbbupc24)
-
----
-
-@axios.com
-
-President Trump and his advisers have an almost messianic belief the economy will take off in the first quarter of next year.
-
-Trump's bullish belief is key to understanding why he's so reluctant to say there's an "affordability crisis."
-
-[2025-12-15 21:43:12](https://bsky.app/profile/axios.com/post/3m7znu6kffk2m)
+[2025-12-15 22:02:43](https://bsky.app/profile/cnbc.com/post/3m7zox2uylg2e)
 
 ---
 
-@en.afp.com
+@wsj.com
 
-🇫🇷 The Louvre museum in Paris closed its doors to thousands of disappointed visitors on Monday as staff launched a rolling strike to protest working conditions at the landmark, two months after a shocking robbery ➡️ u.afp.com/S7D3
+In ‘Goodbye June,’ Kate Winslet’s directorial debut, Collette plays a woman with New Age obsessions. In real life, Collette says she’s interested in ‘pretty much all the same things.’ on.wsj.com/3KJ2inJ
 
-[2025-12-15 21:42:01](https://bsky.app/profile/en.afp.com/post/3m7zns2sjov2f)
-
----
-
-@financialtimes.com
-
-Three-time Oscar-winning artist Carlo Rambaldi’s beloved and nightmarish animatronics receive a centennial tribute at MoMA on.ft.com/3Mzg8cT
-
-[2025-12-15 21:42:01](https://bsky.app/profile/financialtimes.com/post/3m7zns2mpr52p)
+[2025-12-15 22:02:21](https://bsky.app/profile/wsj.com/post/3m7zowgfeof2g)
 
 ---
 
-@reuters.com
+@wsj.com
 
-Iranian Nobel laureate hospitalised twice after 'violent arrest', say family reut.rs/48YHr85
+Philip Rivers, 44, makes a historic return after five seasons away. He nearly pulled off a victory for the aged. on.wsj.com/4adrlcV
 
-[2025-12-15 21:40:21](https://bsky.app/profile/reuters.com/post/3m7znp2vrho2b)
-
----
-
-@japan.reuters.com
-
-欧州連合（ＥＵ）統計局が１５日発表したユーロ圏の１０月の鉱工業生産は前月比０．８％増と、９月の０．２％増から加速し、市場予想と一致した。 bit.ly/48EZeCi
-
-[2025-12-15 21:40:15](https://bsky.app/profile/japan.reuters.com/post/3m7znovotfk27)
+[2025-12-15 22:02:21](https://bsky.app/profile/wsj.com/post/3m7zowgbgev2h)
 
 ---
 
-@nytimes.com
+@sokuho.news
 
-Law enforcement officials in Providence, Rhode Island, said late Sunday that they were releasing a person of interest they had detained in relation to the shooting at Brown University and continuing their search for the person who killed two people Saturday afternoon.
+🛎️JNNより【速報】です。
 
-[2025-12-15 21:40:04](https://bsky.app/profile/nytimes.com/post/3m7znolelx62z)
+【速報】「兄を包丁で刺した」水戸市の住宅で50代男性が胸や首を刺され死亡 同居する54歳の弟を緊急逮捕
+(2025-12-15 21:59:20) #ニュース
+
+[2025-12-15 22:01:30](https://bsky.app/profile/sokuho.news/post/3m7zouv7th42z)
 
 ---
 
