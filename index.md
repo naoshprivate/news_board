@@ -1,9 +1,9 @@
-# [2025-12-15 08:50 updated](2025_12_15.md)
+# [2025-12-15 09:10 updated](2025_12_15.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】「ダンプが鉄柱にあたった」ダンプカーの荷台が道路標識に衝突 荷台を上げたまま走行したか【15日午前8時40分現在】 (2025-12-15 08:42:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7yclmsaw72s" target="_blank">sokuho.news</a> (2025-12-15 08:48:54)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:釧路沖, 深さ:40km マグニチュード:4.0, 最大震度:2 📍https://www.google.com/maps?q=42.9,145.5&ll=42.9,145.5&z=7&t=h 地震発生日時:2025-12-15 08:44頃 (10倍速▶180s→18s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3m7ycjhmmy72s" target="_blank">sokuho.news</a> (2025-12-15 08:47:41)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  8時44分頃、北海道で最大震度2の地震を観測しました。 震源:釧路沖, 深さ:40km, 規模:M4.0 この地震による津波の心配はありません。 (2025-12-15 08:47:01) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/15/2025-12-15-08-44-14.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3m7ycibyvqd2z" target="_blank">sokuho.news</a> (2025-12-15 08:47:02)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】上野動物園の双子パンダ 来年1月下旬に中国返還へ 国内飼育のパンダはゼロに (2025年12月15日 08:46) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7ychpqhsy2r" target="_blank">sokuho.news</a> (2025-12-15 08:46:43)</span><span style="padding-right:50px;">ベトナムの電動スクーター、学生に人気　合格祝いにも www.nikkei.com/article/DGXZQO...  国産メーカーのビンファストの最安モデルはバッテリー付きで1200万ドン（約7万円）。約2500万ドンの「iPhone17」より手ごろです。  最も人気の二輪ブランドはホンダですが、ガソリンが動力のスクーターは安価モデルでも3000万ドン以上。  電動スクーターに流れる消費者は増えています。 <a href="https://bsky.app/profile/nikkei.com/post/3m7ychj6ve52g" target="_blank">nikkei.com</a> (2025-12-15 08:46:36)</span>
+<span style="padding-right:50px;">中国商務省と金融規制当局は１４日、地方当局に対し、ビジネスと金融システムの連携を強化して消費を促進するよう求めた。 bit.ly/4q8rFOC <a href="https://bsky.app/profile/japan.reuters.com/post/3m7ydpn3ou52c" target="_blank">japan.reuters.com</a> (2025-12-15 09:09:02)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】福岡2人刺傷事件で男逮捕 (2025-12-15 09:08) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7ydphjjca2y" target="_blank">sokuho.news</a> (2025-12-15 09:08:57)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】福岡市商業施設での刺傷事件 30歳の男を殺人未遂容疑で逮捕 福岡県警 (2025年12月15日 09:07) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3m7ydnsmv722z" target="_blank">sokuho.news</a> (2025-12-15 09:08:01)</span><span style="padding-right:50px;">The suspects in the deadly shooting attack at a popular beach in Sydney on Sunday, the first evening of Hanukkah, were identified by the authorities as a man and his adult son on Monday morning, as the death toll rose to 15 victims, with dozens of others hospitalized. <a href="https://bsky.app/profile/nytimes.com/post/3m7ydln3biy2y" target="_blank">nytimes.com</a> (2025-12-15 09:06:48)</span><span style="padding-right:50px;">福岡 2人が刺された事件 30歳の容疑者を殺人未遂の疑いで逮捕 https://news.web.nhk/newsweb/na/na-k10015003921000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ydkcfqtz22" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-15 09:06:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50836.55 (🔺356.32 : 2025-12-12)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3260.00 (🔺69.00 : 2025-12-12)</span><span style="padding-right:50px;">USD/JPY: 155.76 (🔺0.09 : 2025-12-14)</span>
+<span style="padding-right:50px;">^N225: Error</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">7203.T: Error</span><span style="padding-right:50px;">USD/JPY: 155.96 (🔺0.29 : 2025-12-15)</span>
   </div>
 </div>
 
@@ -32,51 +32,31 @@
 
 ## News Headlines
 
-1. ダンプカーが鉄柱に衝突
-2. 震度4.0の地震が北海道で発生
-3. 上野動物園の双子パンダが来年中国に返還される
-4. ベトナムの電動スクーターが学生に人気
-5. チリ大統領選の決選投票で右派候補が勝利
-6. 上野線で運転見合わせ
+1. 中国の金融規制当局、ビジネスと金融システムの連携を強化するよう地方当局に求める
+2. 福岡市で男性が刺傷事件、30歳の容疑者を殺人未遂の疑いで逮捕
+3. ASX、株主への配当を削減
+4. ホセアントニオ・カスト氏、チリ大統領選で勝利
+5. 大企業製造業の景気判断 +15ポイント、3期連続で改善
+6. 上野動物園の双子パンダ、来年1月下旬に中国に返還
 
 ----
 
-@sokuho.news
+@japan.reuters.com
 
-🛎️JNNより【速報】です。
+中国商務省と金融規制当局は１４日、地方当局に対し、ビジネスと金融システムの連携を強化して消費を促進するよう求めた。 bit.ly/4q8rFOC
 
-【速報】「ダンプが鉄柱にあたった」ダンプカーの荷台が道路標識に衝突 荷台を上げたまま走行したか【15日午前8時40分現在】
-(2025-12-15 08:42:00) #ニュース
-
-[2025-12-15 08:48:54](https://bsky.app/profile/sokuho.news/post/3m7yclmsaw72s)
+[2025-12-15 09:09:02](https://bsky.app/profile/japan.reuters.com/post/3m7ydpn3ou52c)
 
 ---
 
 @sokuho.news
 
-🔔防災科研より【強震モニタ】動画です。
+🛎️FNNより【速報】です。
 
-震源:釧路沖, 深さ:40km
-マグニチュード:4.0, 最大震度:2
-📍https://www.google.com/maps?q=42.9,145.5&ll=42.9,145.5&z=7&t=h
-地震発生日時:2025-12-15 08:44頃
-(10倍速▶180s→18s) #地震
+【速報】福岡2人刺傷事件で男逮捕
+(2025-12-15 09:08) #ニュース
 
-[2025-12-15 08:47:41](https://bsky.app/profile/sokuho.news/post/3m7ycjhmmy72s)
-
----
-
-@sokuho.news
-
-🔔気象庁より【地震速報】です。
-
-8時44分頃、北海道で最大震度2の地震を観測しました。
-震源:釧路沖, 深さ:40km, 規模:M4.0
-この地震による津波の心配はありません。
-(2025-12-15 08:47:01) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/15/2025-12-15-08-44-14.html?xlarge_image=1
-
-[2025-12-15 08:47:02](https://bsky.app/profile/sokuho.news/post/3m7ycibyvqd2z)
+[2025-12-15 09:08:57](https://bsky.app/profile/sokuho.news/post/3m7ydphjjca2y)
 
 ---
 
@@ -84,86 +64,70 @@ https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/15/2025-12-15-08-44
 
 🔔ANNより【速報】です。
 
-【速報】上野動物園の双子パンダ 来年1月下旬に中国返還へ 国内飼育のパンダはゼロに
-(2025年12月15日 08:46) #ニュース
+【速報】福岡市商業施設での刺傷事件 30歳の男を殺人未遂容疑で逮捕 福岡県警
+(2025年12月15日 09:07) #ニュース
 
-[2025-12-15 08:46:43](https://bsky.app/profile/sokuho.news/post/3m7ychpqhsy2r)
+[2025-12-15 09:08:01](https://bsky.app/profile/sokuho.news/post/3m7ydnsmv722z)
 
 ---
 
-@nikkei.com
+@nytimes.com
 
-ベトナムの電動スクーター、学生に人気　合格祝いにも
-www.nikkei.com/article/DGXZQO...
+The suspects in the deadly shooting attack at a popular beach in Sydney on Sunday, the first evening of Hanukkah, were identified by the authorities as a man and his adult son on Monday morning, as the death toll rose to 15 victims, with dozens of others hospitalized.
 
-国産メーカーのビンファストの最安モデルはバッテリー付きで1200万ドン（約7万円）。約2500万ドンの「iPhone17」より手ごろです。
+[2025-12-15 09:06:48](https://bsky.app/profile/nytimes.com/post/3m7ydln3biy2y)
 
-最も人気の二輪ブランドはホンダですが、ガソリンが動力のスクーターは安価モデルでも3000万ドン以上。
+---
 
-電動スクーターに流れる消費者は増えています。
+@nhknewsunofficial.bsky.social
 
-[2025-12-15 08:46:36](https://bsky.app/profile/nikkei.com/post/3m7ychj6ve52g)
+福岡 2人が刺された事件 30歳の容疑者を殺人未遂の疑いで逮捕
+https://news.web.nhk/newsweb/na/na-k10015003921000
+
+[2025-12-15 09:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3m7ydkcfqtz22)
+
+---
+
+@reuters.com
+
+ASX cuts dividend payouts after regulator imposes about $100 million additional charge reut.rs/4pDZure
+
+[2025-12-15 09:05:13](https://bsky.app/profile/reuters.com/post/3m7ydisb4yu2b)
+
+---
+
+@axios.com
+
+Kamala Harris this week made clear to potential 2028 rivals that she's working to keep another White House campaign viable.
+
+[2025-12-15 09:04:01](https://bsky.app/profile/axios.com/post/3m7ydgnx5mk2c)
 
 ---
 
 @sokuho.news
 
-🚨地震発生中❗❗
+<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>福岡 2人が刺された事件 30歳の容疑者を殺人未遂の疑いで逮捕</strong><br><strong>(2025-12-15 09:03:23) #ニュース</strong>
 
-⚠️揺れに警戒してください
+[2025-12-15 09:03:50](https://bsky.app/profile/sokuho.news/post/3m7ydgcptv32b)
 
-🔶防災科研/強震モニタ/予測震度画像5🈡
-(2025-12-15 08:44:56) #緊急地震速報
+---
 
-[2025-12-15 08:45:07](https://bsky.app/profile/sokuho.news/post/3m7yceugloo2b)
+@sokuho.news
+
+🔔NHKより【速報】です。
+
+福岡市中央区で男女2人が刺された事件 30歳の容疑者を殺人未遂容疑で逮捕
+(2025-12-15 09:02) #ニュース
+
+[2025-12-15 09:02:59](https://bsky.app/profile/sokuho.news/post/3m7ydesezzj2b)
 
 ---
 
 @japan.reuters.com
 
-チリ大統領選の決選投票が１４日に行われ、右派のホセアントニオ・カストが勝利した。犯罪増加や移民問題に対する有権者の不安を背景に支持を集めた。 bit.ly/4pzsEYj
+医療データ分析のメディカル・データ・ビジョン（ＭＤＶ）は１５日、日本生命保険(NPNLI.UL)が同社株に公開買い付け（ＴＯＢ）を実施するとの報道を受けて「公開買い付けに関する当社の意見その他の関連事項について検討を行っている」が、現時点で決定した事実はないとのコメントを発表した。きょう開催予定の取締役会に付議する予定という。日本生命も、開示すべきことが決定すれば速やかに公表するとのコメントを出した。 bit.ly/4ags5xP
 
-[2025-12-15 08:44:47](https://bsky.app/profile/japan.reuters.com/post/3m7yceat5k42f)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗
-
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像3
-(2025-12-15 08:44:24) #緊急地震速報
-
-[2025-12-15 08:44:45](https://bsky.app/profile/sokuho.news/post/3m7yce7eaqu2e)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗
-
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像2
-(2025-12-15 08:44:22) #緊急地震速報
-
-[2025-12-15 08:44:34](https://bsky.app/profile/sokuho.news/post/3m7ycdutplf2y)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗
-
-⚠️揺れに警戒してください
-🔗http://www.kmoni.bosai.go.jp/
-
-🔶防災科研/強震モニタ/予測震度画像1
-(2025-12-15 08:44:20) #緊急地震速報
-
-[2025-12-15 08:44:27](https://bsky.app/profile/sokuho.news/post/3m7ycdo6jlg2b)
+[2025-12-15 09:02:30](https://bsky.app/profile/japan.reuters.com/post/3m7yddwtf6u2q)
 
 ---
 
