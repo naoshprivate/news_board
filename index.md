@@ -1,9 +1,9 @@
-# [2025-12-15 10:10 updated](2025_12_15.md)
+# [2025-12-15 10:30 updated](2025_12_15.md)
 
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">ベネズエラの地域同盟国は１４日、トランプ米政権による先週の石油タンカー拿捕を非難し、ベネズエラ政府への支持を表明した。 bit.ly/4ahyBVg <a href="https://bsky.app/profile/japan.reuters.com/post/3m7yh32s4xb2c" target="_blank">japan.reuters.com</a> (2025-12-15 10:09:07)</span><span style="padding-right:50px;">These black tights are comfortable to wear and can also handle aggressive assaults from zippers, Velcro, and fingernails. <a href="https://bsky.app/profile/nytimes.com/post/3m7ygxf4adr2y" target="_blank">nytimes.com</a> (2025-12-15 10:07:04)</span><span style="padding-right:50px;">Turning Point USA abruptly postponed a highly anticipated livestream meant to rebut podcaster Candace Owens' claims about Charlie Kirk's assassination. <a href="https://bsky.app/profile/axios.com/post/3m7ygwkf3tc2u" target="_blank">axios.com</a> (2025-12-15 10:06:36)</span><span style="padding-right:50px;">イスラエル軍が１３日、イスラム組織ハマスの幹部を殺害したことを受け、ハマスの主席交渉官は１４日、パレスチナ自治区ガザの停戦維持を脅かすものだと非難し、イスラエルによる停戦順守を要求するようトランプ米大統領に求めた。 bit.ly/4oUpnBW <a href="https://bsky.app/profile/japan.reuters.com/post/3m7ygu2rd762c" target="_blank">japan.reuters.com</a> (2025-12-15 10:05:12)</span><span style="padding-right:50px;">欧州議会の最大会派である欧州人民党（ＥＰＰ）トップのマンフレッド・ウェーバー氏は１２日、欧州連合（ＥＵ）欧州委員会が２０３５年から内燃エンジン搭載の新車販売を実質的に禁止する計画を撤回すると明らかにした。自国の自動車メーカーを守るため計画の撤回を働きかけてきたドイツにとって大きな勝利となる。 bit.ly/4pdrZuV <a href="https://bsky.app/profile/japan.reuters.com/post/3m7ygpek4n42u" target="_blank">japan.reuters.com</a> (2025-12-15 10:02:35)</span>
+<span style="padding-right:50px;">野村ホールディングスの奥田健太郎社長はロイターのインタビューに応じ、オルタナティブ（代替）資産の拡大に向けてプライベートデット（銀行以外の主体による融資）を手がける運用会社の買収も視野に成長投資を検討していることを明らかにした。欧米のプライベートデット市場の知見を取り込み、日本市場でも本格展開を目指す。 bit.ly/4oPRZfr <a href="https://bsky.app/profile/japan.reuters.com/post/3m7yhoyhgom2c" target="_blank">japan.reuters.com</a> (2025-12-15 10:20:16)</span><span style="padding-right:50px;">Stocks slip as traders reduce exposure ahead of central bank meetings, key data reut.rs/453srnV <a href="https://bsky.app/profile/reuters.com/post/3m7yhow6gzw23" target="_blank">reuters.com</a> (2025-12-15 10:20:13)</span><span style="padding-right:50px;">英財務省は１５日、２０２７年１０月から暗号資産（仮想通貨）の規制を開始する方針を明らかにした。業界に確実性をもたらすと同時に、不正を防ぐことを目指す。 bit.ly/4q4Cam3 <a href="https://bsky.app/profile/japan.reuters.com/post/3m7yhj6nmsy2q" target="_blank">japan.reuters.com</a> (2025-12-15 10:17:01)</span><span style="padding-right:50px;">上野動物園の双子パンダ、中国に1月返還へ www.nikkei.com/article/DGXZQO...  返還されるのは双子のジャイアントパンダ、シャオシャオとレイレイ。  現在国内のパンダは上野動物園の2頭のみで、新規貸与がなければ日中友好の象徴とされたパンダが半世紀ぶりにゼロになります。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3m7yhj5d54s2n" target="_blank">nikkei.com</a> (2025-12-15 10:17:00)</span><span style="padding-right:50px;">米ロードアイランド州プロビデンスのブラウン大学で１３日、銃撃があり学生２人が死亡、９人が負傷した事件で、当局は１４日、同州のホテルにいた２０代の「重要参考人」を拘束したと発表した。 bit.ly/44sFz60 <a href="https://bsky.app/profile/japan.reuters.com/post/3m7yhfzzkqj2c" target="_blank">japan.reuters.com</a> (2025-12-15 10:15:15)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50233.62 (🔻118.47 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3287.00 (🔺44.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.85 (🔺0.17 : 2025-12-15)</span>
+<span style="padding-right:50px;">NIKKEI: 50210.30 (🔻141.79 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48458.05 (🔻256.70 : 2025-12-12)</span><span style="padding-right:50px;">NASDAQ: 23195.17 (🔻293.70 : 2025-12-12)</span><span style="padding-right:50px;">NVIDIA: 175.02 (🔻6.24 : 2025-12-12)</span><span style="padding-right:50px;">トヨタ自動車: 3293.00 (🔺50.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.79 (🔺0.12 : 2025-12-15)</span>
   </div>
 </div>
 
@@ -32,96 +32,100 @@
 
 ## News Headlines
 
-1. ベネズエラ　米政権のタンカー拿捕を非難
-2. 米大統領専用機　納入時期が１年遅れる
-3. 欧州議会　内燃エンジン搭載新車販売を禁止する計画を撤回
-4. チリ　右派のカスト氏が大統領に当選
-5. 米空軍　エアフォースワン最初の納入を１年遅れる
-6. 中国　輸出と輸入をともに拡大する計画
+以下は6つのニュースの見出しです。
+1. 野村ホールディングス　プライベートデットを買収検討
+2. 欧州議会　内燃エンジン搭載新車販売実質禁止計画を撤回
+3. 米ロードアイランド州で銃撃事件　学生２人死亡　９人負傷
+4. 米空軍　新大統領専用機の納入が１年遅れる
+5. フォードが米国で新型車種を発表　エコフリーのV型6気筒エンジン搭載
+6. 中国　貿易拡大を計画　輸出と輸入をともに拡大
 
 ----
 
 @japan.reuters.com
 
-ベネズエラの地域同盟国は１４日、トランプ米政権による先週の石油タンカー拿捕を非難し、ベネズエラ政府への支持を表明した。 bit.ly/4ahyBVg
+野村ホールディングスの奥田健太郎社長はロイターのインタビューに応じ、オルタナティブ（代替）資産の拡大に向けてプライベートデット（銀行以外の主体による融資）を手がける運用会社の買収も視野に成長投資を検討していることを明らかにした。欧米のプライベートデット市場の知見を取り込み、日本市場でも本格展開を目指す。 bit.ly/4oPRZfr
 
-[2025-12-15 10:09:07](https://bsky.app/profile/japan.reuters.com/post/3m7yh32s4xb2c)
-
----
-
-@nytimes.com
-
-These black tights are comfortable to wear and can also handle aggressive assaults from zippers, Velcro, and fingernails.
-
-[2025-12-15 10:07:04](https://bsky.app/profile/nytimes.com/post/3m7ygxf4adr2y)
+[2025-12-15 10:20:16](https://bsky.app/profile/japan.reuters.com/post/3m7yhoyhgom2c)
 
 ---
 
-@axios.com
+@reuters.com
 
-Turning Point USA abruptly postponed a highly anticipated livestream meant to rebut podcaster Candace Owens' claims about Charlie Kirk's assassination.
+Stocks slip as traders reduce exposure ahead of central bank meetings, key data reut.rs/453srnV
 
-[2025-12-15 10:06:36](https://bsky.app/profile/axios.com/post/3m7ygwkf3tc2u)
+[2025-12-15 10:20:13](https://bsky.app/profile/reuters.com/post/3m7yhow6gzw23)
 
 ---
 
 @japan.reuters.com
 
-イスラエル軍が１３日、イスラム組織ハマスの幹部を殺害したことを受け、ハマスの主席交渉官は１４日、パレスチナ自治区ガザの停戦維持を脅かすものだと非難し、イスラエルによる停戦順守を要求するようトランプ米大統領に求めた。 bit.ly/4oUpnBW
+英財務省は１５日、２０２７年１０月から暗号資産（仮想通貨）の規制を開始する方針を明らかにした。業界に確実性をもたらすと同時に、不正を防ぐことを目指す。 bit.ly/4q4Cam3
 
-[2025-12-15 10:05:12](https://bsky.app/profile/japan.reuters.com/post/3m7ygu2rd762c)
+[2025-12-15 10:17:01](https://bsky.app/profile/japan.reuters.com/post/3m7yhj6nmsy2q)
+
+---
+
+@nikkei.com
+
+上野動物園の双子パンダ、中国に1月返還へ
+www.nikkei.com/article/DGXZQO...
+
+返還されるのは双子のジャイアントパンダ、シャオシャオとレイレイ。
+
+現在国内のパンダは上野動物園の2頭のみで、新規貸与がなければ日中友好の象徴とされたパンダが半世紀ぶりにゼロになります。
+
+#ニュース
+
+[2025-12-15 10:17:00](https://bsky.app/profile/nikkei.com/post/3m7yhj5d54s2n)
 
 ---
 
 @japan.reuters.com
 
-欧州議会の最大会派である欧州人民党（ＥＰＰ）トップのマンフレッド・ウェーバー氏は１２日、欧州連合（ＥＵ）欧州委員会が２０３５年から内燃エンジン搭載の新車販売を実質的に禁止する計画を撤回すると明らかにした。自国の自動車メーカーを守るため計画の撤回を働きかけてきたドイツにとって大きな勝利となる。 bit.ly/4pdrZuV
+米ロードアイランド州プロビデンスのブラウン大学で１３日、銃撃があり学生２人が死亡、９人が負傷した事件で、当局は１４日、同州のホテルにいた２０代の「重要参考人」を拘束したと発表した。 bit.ly/44sFz60
 
-[2025-12-15 10:02:35](https://bsky.app/profile/japan.reuters.com/post/3m7ygpek4n42u)
-
----
-
-@npr.org
-
-José Antonio Kast, a far-right politician who has praised Chile's former dictatorship, has won the presidency, signaling a sharp rightward shift fueled by fears over crime, migration and the economy. n.pr/3MzJJ5W
-
-[2025-12-15 10:02:11](https://bsky.app/profile/npr.org/post/3m7ygonkcme23)
+[2025-12-15 10:15:15](https://bsky.app/profile/japan.reuters.com/post/3m7yhfzzkqj2c)
 
 ---
 
-@cnn.com
+@japan.reuters.com
 
-Jose Antonio Kast won Chile’s presidential election on Sunday, leveraging voter fears over rising crime and migration to take the country to its sharpest rightward shift since the end of dictatorship in 1990. https://cnn.it/4pCLJJh
+＜１０：００＞　ＴＯＰＩＸは一時プラス、銀行や保険しっかり　利上げを短観が「裏付け」 bit.ly/4q6VcIx
 
-[2025-12-15 10:02:02](https://bsky.app/profile/cnn.com/post/3m7ygoffhhy25)
+[2025-12-15 10:14:43](https://bsky.app/profile/japan.reuters.com/post/3m7yhf375qu2u)
+
+---
+
+@wsj.com
+
+An auto enthusiast researched archives and sourced handmade fuel lines to get his 1939 BMW 327/28 sports cabriolet ready for the Pebble Beach Concours d’Elegance.
+
+[2025-12-15 10:14:42](https://bsky.app/profile/wsj.com/post/3m7yhf2ohu52s)
 
 ---
 
 @cnbc.com
 
-Ashley Peters fell in love with anime during the pandemic. 
+Copper could hit 'stratospheric new highs' as hoarding of the metal in U.S. continues
 
-Shortly after graduating from UC Irvine, she boarded a flight to move to Japan. 
-
-"Being here has freed up not just money, but mental space," said Peters.
-
-[2025-12-15 10:00:55](https://bsky.app/profile/cnbc.com/post/3m7ygmf6iur24)
+[2025-12-15 10:12:34](https://bsky.app/profile/cnbc.com/post/3m7yhba2v6g24)
 
 ---
 
-@apnews.com
+@reuters.com
 
-Kansas City Chiefs say Patrick Mahomes tore the ACL in his left knee and that he and team are exploring surgical options.
+China, Saudi Arabia agree to strengthen coordination on regional, global matters reut.rs/3XUE4tG
 
-[2025-12-15 10:00:51](https://bsky.app/profile/apnews.com/post/3m7ygmbjbkd23)
+[2025-12-15 10:10:40](https://bsky.app/profile/reuters.com/post/3m7yh5t5zay2c)
 
 ---
 
-@usatoday.com
+@japan.reuters.com
 
-After finishing second in Heisman voting, Vanderbilt QB Diego Pavia posted a message on social media saying, "(Expletive)-ALL THE VOTERS"
+中国商務省は１２日、２０２６年初頭から鉄鋼の輸出を許可制にすると発表した。中国は世界最大の鉄鋼生産国。 bit.ly/48OjsrT
 
-[2025-12-15 10:00:48](https://bsky.app/profile/usatoday.com/post/3m7ygm6blg42f)
+[2025-12-15 10:10:18](https://bsky.app/profile/japan.reuters.com/post/3m7yh56mpwr2c)
 
 ---
 
