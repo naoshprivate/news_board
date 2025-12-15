@@ -1,9 +1,9 @@
-# [2025-12-16 01:50 updated](2025_12_16.md)
+# [2025-12-16 02:10 updated](2025_12_16.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Justice Department says it arrested four people in the Los Angeles area in an alleged bomb plot that was set to take place on New Year's Eve https://cnn.it/48Ph0S4 <a href="https://bsky.app/profile/cnn.com/post/3ma23gninbz23" target="_blank">cnn.com</a> (2025-12-16 01:46:10)</span><span style="padding-right:50px;">BREAKING: Russia has indicated it's open to Ukraine joining the European Union as part of a potential peace deal to end the war, U.S. officials said. <a href="https://bsky.app/profile/apnews.com/post/3ma23fdm2sd2n" target="_blank">apnews.com</a> (2025-12-16 01:45:27)</span><span style="padding-right:50px;">Morning Bid: Stocks catch a break after bruising AI selloff reut.rs/4q8ebm3 <a href="https://bsky.app/profile/reuters.com/post/3ma23exg43t2o" target="_blank">reuters.com</a> (2025-12-16 01:45:14)</span><span style="padding-right:50px;">Trump admin to hire 1,000 specialists for 'Tech Force' to build AI, finance projects <a href="https://bsky.app/profile/cnbc.com/post/3ma23dmwysl2n" target="_blank">cnbc.com</a> (2025-12-16 01:44:29)</span><span style="padding-right:50px;">Australia’s special envoy on antisemitism urged the government to intensify its efforts to combat threats against Jews following the Bondi Beach attacks that killed at least 15 people attending a Hanukkah celebration. <a href="https://bsky.app/profile/nytimes.com/post/3ma23d5ai442s" target="_blank">nytimes.com</a> (2025-12-16 01:44:13)</span>
+<span style="padding-right:50px;">JUST IN: Nick Reiner, the son of filmmaker Rob Reiner, was arrested on homicide charges and being held in a Los Angeles County jail on a $4 million bond after the director and his wife were found dead in their Los Angeles home reut.rs/3KYY37w <a href="https://bsky.app/profile/reuters.com/post/3ma24o4g5zs2w" target="_blank">reuters.com</a> (2025-12-16 02:08:15)</span><span style="padding-right:50px;">Acccording to FBI Director Kash Patel, the group was planning coordinated IED bombing attacks on NYE targeting five locations across Los Angeles. <a href="https://bsky.app/profile/usatoday.com/post/3ma24nn4kmh2s" target="_blank">usatoday.com</a> (2025-12-16 02:07:59)</span><span style="padding-right:50px;">Mia Tretta was sitting in her Brown University dorm room with friends when she got a text message about an active shooter. She didn’t believe it at first ‒ despite her own painful experience with school shootings. bit.ly/4adWsoJ  <a href="https://bsky.app/profile/usatoday.com/post/3ma24kar7gp2w" target="_blank">usatoday.com</a> (2025-12-16 02:06:05)</span><span style="padding-right:50px;">Copper prices rise on weaker dollar, ignoring weak China data for now reut.rs/3KMGpE0 <a href="https://bsky.app/profile/reuters.com/post/3ma24ipkasu2s" target="_blank">reuters.com</a> (2025-12-16 02:05:13)</span><span style="padding-right:50px;">Howie Mandel didn't get diagnosed with OCD until his 40s, but doesn't remember a time without it. He talks about NOCD, AI therapy, and misconceptions. <a href="https://bsky.app/profile/usatoday.com/post/3ma24gqv4zw2s" target="_blank">usatoday.com</a> (2025-12-16 02:04:08)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48334.45 (🔻259.91 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23098.01 (🔻232.03 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 177.44 (🔻0.50 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.28 (🔻0.40 : 2025-12-15)</span>
+<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48386.57 (🔻207.79 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23118.30 (🔻211.74 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 177.97 (🔺0.03 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 155.32 (🔻0.35 : 2025-12-15)</span>
   </div>
 </div>
 
@@ -34,94 +34,96 @@
 
 Here are six important stories with headlines:
 
-1. Four Arrested in Alleged Bomb Plot on New Year's Eve in Los Angeles
-2. Russia Open to Ukraine Joining European Union as Part of Peace Deal
-3. Stocks Catch a Break After Bruising AI-Driven Selloff
-4. Australia Unveils Tougher Gun Control Laws After Mass Shooting at Hanukkah Celebration
-5. Rob Reiner, Hollywood Director and Satirist, Found Dead at 78
-6. EU Fines Car Battery Makers $84.5 Million for Price Fixing
+1. US Man Arrested on Homicide Charges in Connection with Deaths of Hollywood Director Rob Reiner and Wife
+2. FBI Foils Plot to Bomb 5 Locations in Los Angeles on New Year's Eve
+3. US Jury Convicts Man of First-Degree Murder in Wife's Disappearance and Dismemberment
+4. Russia Indicates Willingness to Allow Ukraine to Join European Union as Part of Peace Deal
+5. Australian Officials Identify Bystander Who Wrestled Gun from Attacker in Bondi Beach Mass Shooting
+6. Tesla Stock Rises as Company Confirms Robotaxi Testing with No Safety Driver
 
 ----
 
-@cnn.com
+@reuters.com
 
-Justice Department says it arrested four people in the Los Angeles area in an alleged bomb plot that was set to take place on New Year's Eve https://cnn.it/48Ph0S4
+<strong><span style="color: red;">JUST IN:</span> Nick Reiner, the son of filmmaker Rob Reiner, was arrested on homicide charges and being held in a Los Angeles County jail on a $4 million bond after the director and his wife were found dead in their Los Angeles home reut.rs/3KYY37w</strong>
 
-[2025-12-16 01:46:10](https://bsky.app/profile/cnn.com/post/3ma23gninbz23)
+[2025-12-16 02:08:15](https://bsky.app/profile/reuters.com/post/3ma24o4g5zs2w)
 
 ---
 
-@apnews.com
+@usatoday.com
 
-<strong><span style="color: red;">BREAKING:</span> Russia has indicated it's open to Ukraine joining the European Union as part of a potential peace deal to end the war, U.S. officials said.</strong>
+Acccording to FBI Director Kash Patel, the group was planning coordinated IED bombing attacks on NYE targeting five locations across Los Angeles.
 
-[2025-12-16 01:45:27](https://bsky.app/profile/apnews.com/post/3ma23fdm2sd2n)
+[2025-12-16 02:07:59](https://bsky.app/profile/usatoday.com/post/3ma24nn4kmh2s)
+
+---
+
+@usatoday.com
+
+Mia Tretta was sitting in her Brown University dorm room with friends when she got a text message about an active shooter. She didn’t believe it at first ‒ despite her own painful experience with school shootings. bit.ly/4adWsoJ 
+
+[2025-12-16 02:06:05](https://bsky.app/profile/usatoday.com/post/3ma24kar7gp2w)
 
 ---
 
 @reuters.com
 
-Morning Bid: Stocks catch a break after bruising AI selloff reut.rs/4q8ebm3
+Copper prices rise on weaker dollar, ignoring weak China data for now reut.rs/3KMGpE0
 
-[2025-12-16 01:45:14](https://bsky.app/profile/reuters.com/post/3ma23exg43t2o)
-
----
-
-@cnbc.com
-
-Trump admin to hire 1,000 specialists for 'Tech Force' to build AI, finance projects
-
-[2025-12-16 01:44:29](https://bsky.app/profile/cnbc.com/post/3ma23dmwysl2n)
+[2025-12-16 02:05:13](https://bsky.app/profile/reuters.com/post/3ma24ipkasu2s)
 
 ---
 
-@nytimes.com
+@usatoday.com
 
-Australia’s special envoy on antisemitism urged the government to intensify its efforts to combat threats against Jews following the Bondi Beach attacks that killed at least 15 people attending a Hanukkah celebration.
+Howie Mandel didn't get diagnosed with OCD until his 40s, but doesn't remember a time without it. He talks about NOCD, AI therapy, and misconceptions.
 
-[2025-12-16 01:44:13](https://bsky.app/profile/nytimes.com/post/3ma23d5ai442s)
-
----
-
-@financialtimes.com
-
-Rob Reiner’s son Nick arrested in connection with deaths of filmmaker and wife on.ft.com/4pHC18u
-
-[2025-12-16 01:43:17](https://bsky.app/profile/financialtimes.com/post/3ma23bhmwdl2c)
-
----
-
-@reuters.com
-
-Oaktree-backed firm unveils $1.2 billion Amsterdam 'hyperscale' data centre project reut.rs/3KxoOjp
-
-[2025-12-16 01:40:23](https://bsky.app/profile/reuters.com/post/3ma234bzlhs2i)
-
----
-
-@nbcnews.com
-
-Rob Reiner, who was born into Hollywood comedic royalty and forged his own path directing films that marked America's mood through humor, satire and nostalgia, died Sunday. He was 78.
-
-[2025-12-16 01:40:07](https://bsky.app/profile/nbcnews.com/post/3ma233tcr2m2q)
+[2025-12-16 02:04:08](https://bsky.app/profile/usatoday.com/post/3ma24gqv4zw2s)
 
 ---
 
 @washingtonpost.com
 
-A 10-year-old, a photographer, a French citizen and a rabbi are among the 15 people killed after two gunmen opened fire at a Hanukkah event at Australia’s Bondi Beach, injuring at least 40 others.
+The world lost Rob Reiner on Sunday, along with his wife, Michele. An actor, writer, producer and director, Reiner leaves behind an incredible body of work.
 
-Here’s what we know about the victims so far:
+These are the movies that stood the test of time: https://wapo.st/4acgBvj
 
-[2025-12-16 01:40:04](https://bsky.app/profile/washingtonpost.com/post/3ma233pt7d52p)
+[2025-12-16 02:01:17](https://bsky.app/profile/washingtonpost.com/post/3ma24bnprqx2i)
 
 ---
 
-@wsj.com
+@reuters.com
 
-A Hong Kong court convicted media tycoon Jimmy Lai of violating the Chinese territory’s national-security law. President Trump said earlier this year that he would do everything he could to “save” Lai.
+Wall St indexes edge up as investors position for busy week of data reut.rs/3MDuOaX
 
-[2025-12-16 01:39:33](https://bsky.app/profile/wsj.com/post/3ma232styy323)
+[2025-12-16 02:01:14](https://bsky.app/profile/reuters.com/post/3ma24blgw2s2i)
+
+---
+
+@nbcnews.com
+
+Defense Secretary Pete Hegseth said in a post on X that the person who carried out the attack in Syria was killed by U.S. partner forces, but did not provide additional details.
+
+[2025-12-16 02:01:11](https://bsky.app/profile/nbcnews.com/post/3ma24bhwcsa2d)
+
+---
+
+@cnbc.com
+
+When your kid comes to you with a problem — you might be tempted to step in and try to offer a solution.
+
+Asking this one question, however, is a better help to children, this psychologist says.
+
+[2025-12-16 02:00:57](https://bsky.app/profile/cnbc.com/post/3ma24b37rnj23)
+
+---
+
+@apnews.com
+
+Many U.S. consumers say they've noticed higher than usual prices for holiday gifts in recent months, according to a a December poll from The Associated Press-NORC Center for Public Affairs Research.
+
+[2025-12-16 02:00:36](https://bsky.app/profile/apnews.com/post/3ma24agww2i23)
 
 ---
 
