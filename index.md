@@ -1,9 +1,9 @@
-# [2025-12-17 07:30 updated](2025_12_17.md)
+# [2025-12-17 07:50 updated](2025_12_17.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください 🔗http://www.kmoni.bosai.go.jp/  🔶防災科研/強震モニタ/予測震度画像1 (2025-12-17 07:29:01) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3ma572uw6bc2r" target="_blank">sokuho.news</a> (2025-12-17 07:29:10)</span><span style="padding-right:50px;">The House Judiciary Committee is demanding interviews with current and former Department of Justice officials who were involved in subpoenaing phone records for members of Congress around the January 6, 2021, Capitol attack, the day before Republicans interview former special counsel Jack Smith.  <a href="https://bsky.app/profile/cnn.com/post/3ma572mucad26" target="_blank">cnn.com</a> (2025-12-17 07:29:01)</span><span style="padding-right:50px;">トランプ米大統領は１６日、米東部時間１７日午後９時（０２００ＧＭＴ、日本時間１８日午前１１時）に国民向けの演説を行うと発表した。演説のテーマについては明らかにしなかった。 bit.ly/4qd03I7 <a href="https://bsky.app/profile/japan.reuters.com/post/3ma56x5nhz72c" target="_blank">japan.reuters.com</a> (2025-12-17 07:27:05)</span><span style="padding-right:50px;">India's Oscar entry 'Homebound' tells true story of hardships and hopes reut.rs/4pHehkI <a href="https://bsky.app/profile/reuters.com/post/3ma56ttqtld23" target="_blank">reuters.com</a> (2025-12-17 07:25:14)</span><span style="padding-right:50px;">Pips is a logic puzzle where players must arrange a set of dominoes to meet the conditions of the board to win. There are three new puzzles each day — can you beat them all? nyti.ms/4ajBhSc <a href="https://bsky.app/profile/nytimes.com/post/3ma56tiswt52a" target="_blank">nytimes.com</a> (2025-12-17 07:25:02)</span>
+<span style="padding-right:50px;">米メディア大手ワーナー・ブラザース・ディスカバリー（ＷＢＤ）の取締役会は、同業パラマウント・スカイダンスによる１０８４億ドルの買収案について早ければ１７日にも決定を発表する見通しで、反対票を投じるよう株主に助言する可能性が高いと関係筋が明らかにした。 bit.ly/4pDxPXd <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5a3e7tax26" target="_blank">japan.reuters.com</a> (2025-12-17 07:47:20)</span><span style="padding-right:50px;">Trump says he will give national address on Wednesday reut.rs/4p250m5 <a href="https://bsky.app/profile/reuters.com/post/3ma57xrsbly2y" target="_blank">reuters.com</a> (2025-12-17 07:45:20)</span><span style="padding-right:50px;">2026年は令和の「ひのえうま」　60年前は出生数25%減 www.nikkei.com/article/DGXZQO...  「丙午」の年に生まれた女性は気性が激しいという江戸時代からの根拠のない言説が広がり、前回の1966年は人口ピラミッドに大きなへこみをつくりました。  当時とは対照的に、結婚や子育ての先送りが常態化する中で迎えるのが「令和の丙午」です。 <a href="https://bsky.app/profile/nikkei.com/post/3ma57xoqb642c" target="_blank">nikkei.com</a> (2025-12-17 07:45:16)</span><span style="padding-right:50px;">President Trump added 20 countries to a list whose citizens face a full or partial travel ban on entering the U.S. as his administration seeks to further restrict legal immigration after two National Guard troops were shot by an Afghan immigrant. <a href="https://bsky.app/profile/washingtonpost.com/post/3ma57xbuxt62e" target="_blank">washingtonpost.com</a> (2025-12-17 07:45:03)</span><span style="padding-right:50px;">＜日本企業ＡＤＲ銘柄＞ bit.ly/4qckcOA <a href="https://bsky.app/profile/japan.reuters.com/post/3ma57x4rau22q" target="_blank">japan.reuters.com</a> (2025-12-17 07:44:58)</span>
   </div>
 </div>
 
@@ -32,109 +32,109 @@
 
 ## News Headlines
 
-Here are six important stories from the provided news with headlines in English:
+Here are six news headlines:
 
-1. House Judiciary Committee Demands Interviews with DOJ Officials
-2. Trump to Address Nation on Wednesday Amid Subpoena Controversy
-3. EU Reverses Plan to Ban New Cars with Internal Combustion Engines
-4. PepsiCo and Walmart Hit with Class-Action Lawsuit over Alleged Price-Fixing
-5. China Property Stocks Continue to Struggle Amid Economic Uncertainty
-6. Nick Reiner to be Charged with First-Degree Murder of Parents
+1. Warner Bros. Discovery to Decide on Paramount Deal by December 17
+2. Trump to Give National Address on Wednesday
+3. Japan to Welcome Hinoe Uma in 2026, a Year of Increased Birth Rate
+4. Trump Adds 20 Countries to Travel Ban List
+5. Japan's Yoshimoto Kogyo to Launch Bank Services with SBI Net Bank
+6. European Union Reverses Plan to Ban Internal Combustion Engines in 2035
 
 ----
 
-@sokuho.news
-
-🚨地震発生中❗❗
-
-⚠️揺れに警戒してください
-🔗http://www.kmoni.bosai.go.jp/
-
-🔶防災科研/強震モニタ/予測震度画像1
-(2025-12-17 07:29:01) #緊急地震速報
-
-[2025-12-17 07:29:10](https://bsky.app/profile/sokuho.news/post/3ma572uw6bc2r)
-
----
-
-@cnn.com
-
-The House Judiciary Committee is demanding interviews with current and former Department of Justice officials who were involved in subpoenaing phone records for members of Congress around the January 6, 2021, Capitol attack, the day before Republicans interview former special counsel Jack Smith. 
-
-[2025-12-17 07:29:01](https://bsky.app/profile/cnn.com/post/3ma572mucad26)
-
----
-
 @japan.reuters.com
 
-トランプ米大統領は１６日、米東部時間１７日午後９時（０２００ＧＭＴ、日本時間１８日午前１１時）に国民向けの演説を行うと発表した。演説のテーマについては明らかにしなかった。 bit.ly/4qd03I7
+米メディア大手ワーナー・ブラザース・ディスカバリー（ＷＢＤ）の取締役会は、同業パラマウント・スカイダンスによる１０８４億ドルの買収案について早ければ１７日にも決定を発表する見通しで、反対票を投じるよう株主に助言する可能性が高いと関係筋が明らかにした。 bit.ly/4pDxPXd
 
-[2025-12-17 07:27:05](https://bsky.app/profile/japan.reuters.com/post/3ma56x5nhz72c)
+[2025-12-17 07:47:20](https://bsky.app/profile/japan.reuters.com/post/3ma5a3e7tax26)
 
 ---
 
 @reuters.com
 
-India's Oscar entry 'Homebound' tells true story of hardships and hopes reut.rs/4pHehkI
+Trump says he will give national address on Wednesday reut.rs/4p250m5
 
-[2025-12-17 07:25:14](https://bsky.app/profile/reuters.com/post/3ma56ttqtld23)
-
----
-
-@nytimes.com
-
-Pips is a logic puzzle where players must arrange a set of dominoes to meet the conditions of the board to win. There are three new puzzles each day — can you beat them all? nyti.ms/4ajBhSc
-
-[2025-12-17 07:25:02](https://bsky.app/profile/nytimes.com/post/3ma56tiswt52a)
-
----
-
-@japan.reuters.com
-
-欧州連合（ＥＵ）欧州委員会は１６日、ＥＵ域内の自動車業界からの圧力を受け、２０３５年から内燃エンジン搭載の新車販売を実質的に禁止する計画を撤回する方針を発表した。 bit.ly/49fzPz6
-
-[2025-12-17 07:21:10](https://bsky.app/profile/japan.reuters.com/post/3ma56mlrtly2c)
-
----
-
-@forbes.com
-
-CBS News hosted a town hall with conservative commentator Charlie Kirk’s widow last weekend. 
-
-
-[2025-12-17 07:20:04](https://bsky.app/profile/forbes.com/post/3ma56kmu4ln25)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【動画】Pickup NEWS（12月17日）
-https://news.web.nhk/newsweb/na/na-k10015005491000
-
-[2025-12-17 07:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma56h224242m)
-
----
-
-@reuters.com
-
-PepsiCo, Walmart hit with class action over alleged price-fixing reut.rs/3KDY5BM
-
-[2025-12-17 07:15:22](https://bsky.app/profile/reuters.com/post/3ma56c74h4323)
+[2025-12-17 07:45:20](https://bsky.app/profile/reuters.com/post/3ma57xrsbly2y)
 
 ---
 
 @nikkei.com
 
-1万円超え「毛穴美容液」、コーセーの勝算
+2026年は令和の「ひのえうま」　60年前は出生数25%減
 www.nikkei.com/article/DGXZQO...
 
-20代は皮脂や黒ずみ、30代は毛穴の開き…。年齢とともに変わる毛穴の悩みを抱えている人は少なくありません。
+「丙午」の年に生まれた女性は気性が激しいという江戸時代からの根拠のない言説が広がり、前回の1966年は人口ピラミッドに大きなへこみをつくりました。
 
-「コスメデコルテ　AQ　毛穴美容液オイル」は量子コンピューターを使い、角栓が溶けやすい成分や配合量を模索。
+当時とは対照的に、結婚や子育ての先送りが常態化する中で迎えるのが「令和の丙午」です。
 
-5月の発売から約6カ月で年間目標の2.5倍超を出荷しました。
+[2025-12-17 07:45:16](https://bsky.app/profile/nikkei.com/post/3ma57xoqb642c)
 
-[2025-12-17 07:15:17](https://bsky.app/profile/nikkei.com/post/3ma56c2miho2m)
+---
+
+@washingtonpost.com
+
+President Trump added 20 countries to a list whose citizens face a full or partial travel ban on entering the U.S. as his administration seeks to further restrict legal immigration after two National Guard troops were shot by an Afghan immigrant.
+
+[2025-12-17 07:45:03](https://bsky.app/profile/washingtonpost.com/post/3ma57xbuxt62e)
+
+---
+
+@japan.reuters.com
+
+＜日本企業ＡＤＲ銘柄＞ bit.ly/4qckcOA
+
+[2025-12-17 07:44:58](https://bsky.app/profile/japan.reuters.com/post/3ma57x4rau22q)
+
+---
+
+@wsj.com
+
+Police released new videos of the suspected gunman responsible for Saturday’s shooting at Brown University as the manhunt entered its fourth day.
+
+[2025-12-17 07:44:02](https://bsky.app/profile/wsj.com/post/3ma57vhynmx2h)
+
+---
+
+@nikkei.com
+
+吉本興業が銀行サービス、芸人が住居清掃も　「お笑い経済圏」狙う
+www.nikkei.com/article/DGXZQO...
+
+住信SBIネット銀行と組み、12月下旬にも個人向け銀行サービス「FANY BANK」を始めます。
+
+預金や決済をスマホなどで提供。
+
+住宅ローン利用者には芸人が部屋の掃除をしたり、家電製品に詳しい芸人が家電を提案したりするサービスを検討します。
+
+[2025-12-17 07:43:15](https://bsky.app/profile/nikkei.com/post/3ma57u34ucu2x)
+
+---
+
+@reuters.com
+
+FCAS fighter jet "very unlikely" after ministers' talks, source says reut.rs/44xfAdB
+
+[2025-12-17 07:40:18](https://bsky.app/profile/reuters.com/post/3ma57osgdkm23)
+
+---
+
+@nbcnews.com
+
+Two nonprofit groups launch an ad campaign offering legal information and confidential advice to help U.S. troops who believe they may have received unlawful orders.
+
+[2025-12-17 07:40:09](https://bsky.app/profile/nbcnews.com/post/3ma57ojxbhp2k)
+
+---
+
+@en.afp.com
+
+Chile's hard-right president-elect Jose Antonio Kast says he would back efforts to end Venezuelan leader Nicolas Maduro's 'dictatorship,' giving Washington yet another regional ally in its showdown with Caracas
+🇨🇱 🇻🇪
+
+u.afp.com/S79S
+
+[2025-12-17 07:39:04](https://bsky.app/profile/en.afp.com/post/3ma57mlvhoe26)
 
 ---
 
