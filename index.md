@@ -1,9 +1,9 @@
-# [2025-12-16 19:10 updated](2025_12_16.md)
+# [2025-12-16 19:30 updated](2025_12_16.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】歩行者が普通乗用車にはねられる事故 女性が病院へ搬送で意識不明の重体 現場周辺は全面通行止め (2025-12-16 18:40) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma3vpilsp52v" target="_blank">sokuho.news</a> (2025-12-16 19:09:04)</span><span style="padding-right:50px;">経済対策の裏付けとなる２０２５年度補正予算は１６日の参院本会議で可決、成立した。物価高対策に加え、高市早苗首相肝いりの危機管理投資を盛り込み、歳出総額は１８兆３０３４億円に膨らんだ。 bit.ly/4qcEyYe <a href="https://bsky.app/profile/japan.reuters.com/post/3ma3virsdpl2q" target="_blank">japan.reuters.com</a> (2025-12-16 19:05:19)</span><span style="padding-right:50px;">Shares of LG Energy Solution fall 6% after Ford retreats from EV push reut.rs/45dk21l <a href="https://bsky.app/profile/reuters.com/post/3ma3vinlc5d2p" target="_blank">reuters.com</a> (2025-12-16 19:05:15)</span><span style="padding-right:50px;">中国は１６日、欧州連合（ＥＵ）産豚肉に４．９─１９．８％の反ダンピング（不当廉売）関税を課すと発表した。１７日から５年間適用。関税率は９月に暫定決定で課した１５．６─６２．４％から大幅に引き下げられた。 bit.ly/44YdzHy <a href="https://bsky.app/profile/japan.reuters.com/post/3ma3vdnlcso22" target="_blank">japan.reuters.com</a> (2025-12-16 19:02:27)</span><span style="padding-right:50px;">クリスマスディナー、パエリアをおいしく作るには www.nikkei.com/article/DGXZQO...  エビや貝などを使うイメージが強いかもしれませんが、初めて挑戦するなら鶏肉がおすすめ。  米は洗わない、具は日本の炊き込みご飯よりかなり多めに用意するなど、パエリアをおいしく作るコツを紹介します。 <a href="https://bsky.app/profile/nikkei.com/post/3ma3vbkyn3t2m" target="_blank">nikkei.com</a> (2025-12-16 19:01:17)</span>
+<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】高校生年代の扶養控除「現状維持」の方向で調整へ 自民・維新党首会談 (2025-12-16 19:23:40) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma3wqgefrj2r" target="_blank">sokuho.news</a> (2025-12-16 19:27:29)</span><span style="padding-right:50px;">福岡刺傷事件 包丁など事前に購入か 容疑者父親“申し訳ない” https://news.web.nhk/newsweb/na/na-k10015005831000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3wponsn72y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 19:27:02)</span><span style="padding-right:50px;">オーストラリアのウエストパック銀行とメルボルン研究所が１６日発表した１２月の消費者信頼感指数は９４．５と、前月より９％低下した。 bit.ly/4rVlvmZ <a href="https://bsky.app/profile/japan.reuters.com/post/3ma3wmj2zsi2s" target="_blank">japan.reuters.com</a> (2025-12-16 19:25:18)</span><span style="padding-right:50px;">Holcim makes biggest Latin American acquisition with deal for Peru's Cementos Pacasmayo reut.rs/3MKiEgk <a href="https://bsky.app/profile/reuters.com/post/3ma3wmfyu5n2o" target="_blank">reuters.com</a> (2025-12-16 19:25:15)</span><span style="padding-right:50px;">ロイターが入手した欧州委員会の草案によると、欧州連合（ＥＵ）は、世界初となる炭素国境調整措置（ＣＢＡＭ）の対象を拡大し、自動車部品、冷蔵庫、洗濯機などの輸入品にも適用する計画だ。 bit.ly/4iWL1nw <a href="https://bsky.app/profile/japan.reuters.com/post/3ma3we5wlyq2s" target="_blank">japan.reuters.com</a> (2025-12-16 19:20:38)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.79 (🔻0.43 : 2025-12-16)</span>
+<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.87 (🔻0.35 : 2025-12-16)</span>
   </div>
 </div>
 
@@ -32,100 +32,102 @@
 
 ## News Headlines
 
-1. Japanese Prime Minister's Party Agrees to Reduce House of Representatives Seats
-2. China Imposes Tariff on EU Pork Imports
-3. LG Energy Solution Shares Fall 6% After Ford Retreats from EV Push
-4. New Research Suggests Chronic Inflammation May Be Linked to Long-Lasting Covid-19 Effects
-5. President Trump Sues BBC for $10 Billion Over Documentary Editing
-6. Ukraine's President Addresses Dutch Parliament Amid Ongoing Crisis
+Here are six news headlines in English:
+
+1. Japan's LDP and Ishin no Mirai Party Reach Agreement on High School Student Support Exemption
+2. Australian Consumer Confidence Plummets 9% in December
+3. EU Plans to Expand Carbon Border Adjustment Mechanism to Include More Products
+4. Indonesian President Says Flood-hit Region May Return to Normal in 2-3 Months
+5. European Union Imposes Tariffs on EU Pork Imports from China
+6. US Halts UK Tech Trade Deal Negotiations
 
 ----
 
 @sokuho.news
 
-🛎️FNNより【速報】です。
+🛎️JNNより【速報】です。
 
-【速報】歩行者が普通乗用車にはねられる事故 女性が病院へ搬送で意識不明の重体 現場周辺は全面通行止め
-(2025-12-16 18:40) #ニュース
+【速報】高校生年代の扶養控除「現状維持」の方向で調整へ 自民・維新党首会談
+(2025-12-16 19:23:40) #ニュース
 
-[2025-12-16 19:09:04](https://bsky.app/profile/sokuho.news/post/3ma3vpilsp52v)
+[2025-12-16 19:27:29](https://bsky.app/profile/sokuho.news/post/3ma3wqgefrj2r)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+福岡刺傷事件 包丁など事前に購入か 容疑者父親“申し訳ない”
+https://news.web.nhk/newsweb/na/na-k10015005831000
+
+[2025-12-16 19:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3wponsn72y)
 
 ---
 
 @japan.reuters.com
 
-経済対策の裏付けとなる２０２５年度補正予算は１６日の参院本会議で可決、成立した。物価高対策に加え、高市早苗首相肝いりの危機管理投資を盛り込み、歳出総額は１８兆３０３４億円に膨らんだ。 bit.ly/4qcEyYe
+オーストラリアのウエストパック銀行とメルボルン研究所が１６日発表した１２月の消費者信頼感指数は９４．５と、前月より９％低下した。 bit.ly/4rVlvmZ
 
-[2025-12-16 19:05:19](https://bsky.app/profile/japan.reuters.com/post/3ma3virsdpl2q)
+[2025-12-16 19:25:18](https://bsky.app/profile/japan.reuters.com/post/3ma3wmj2zsi2s)
 
 ---
 
 @reuters.com
 
-Shares of LG Energy Solution fall 6% after Ford retreats from EV push reut.rs/45dk21l
+Holcim makes biggest Latin American acquisition with deal for Peru's Cementos Pacasmayo reut.rs/3MKiEgk
 
-[2025-12-16 19:05:15](https://bsky.app/profile/reuters.com/post/3ma3vinlc5d2p)
+[2025-12-16 19:25:15](https://bsky.app/profile/reuters.com/post/3ma3wmfyu5n2o)
 
 ---
 
 @japan.reuters.com
 
-中国は１６日、欧州連合（ＥＵ）産豚肉に４．９─１９．８％の反ダンピング（不当廉売）関税を課すと発表した。１７日から５年間適用。関税率は９月に暫定決定で課した１５．６─６２．４％から大幅に引き下げられた。 bit.ly/44YdzHy
+ロイターが入手した欧州委員会の草案によると、欧州連合（ＥＵ）は、世界初となる炭素国境調整措置（ＣＢＡＭ）の対象を拡大し、自動車部品、冷蔵庫、洗濯機などの輸入品にも適用する計画だ。 bit.ly/4iWL1nw
 
-[2025-12-16 19:02:27](https://bsky.app/profile/japan.reuters.com/post/3ma3vdnlcso22)
-
----
-
-@nikkei.com
-
-クリスマスディナー、パエリアをおいしく作るには
-www.nikkei.com/article/DGXZQO...
-
-エビや貝などを使うイメージが強いかもしれませんが、初めて挑戦するなら鶏肉がおすすめ。
-
-米は洗わない、具は日本の炊き込みご飯よりかなり多めに用意するなど、パエリアをおいしく作るコツを紹介します。
-
-[2025-12-16 19:01:17](https://bsky.app/profile/nikkei.com/post/3ma3vbkyn3t2m)
+[2025-12-16 19:20:38](https://bsky.app/profile/japan.reuters.com/post/3ma3we5wlyq2s)
 
 ---
 
-@apnews.com
+@japan.reuters.com
 
-Steve Taneyhill, a record-setting quarterback for the South Carolina Gamecocks best known for his distinct long-flowing mullet and his "homerun swing" after touchdown passes, has died.
+インドネシアのプラボウォ大統領は１５日、１０００人以上が死亡したスマトラ島の洪水被災地域の活動が今後２─３カ月で正常化する可能性があると述べた。 bit.ly/3XTZWFx
 
-[2025-12-16 19:00:58](https://bsky.app/profile/apnews.com/post/3ma3vaz75ta2q)
-
----
-
-@reuters.com
-
-Malaysian PM Anwar names new trade, economy ministers in cabinet reshuffle reut.rs/4q6Fc9n
-
-[2025-12-16 19:00:49](https://bsky.app/profile/reuters.com/post/3ma3vaqoqlp2i)
+[2025-12-16 19:20:27](https://bsky.app/profile/japan.reuters.com/post/3ma3wdtvlmo27)
 
 ---
 
-@cnn.com
+@nbcnews.com
 
-Erika Kirk, the widow of slain conservative influencer Charlie Kirk, met with podcaster Candace Owens amid an intensifying public feud over Owens' promotion of conspiracy theories surrounding Kirk's death. https://cnn.it/3MEDoWX
+Australia endured its deadliest mass killing in nearly 30 years, after 15 people were killed this weekend during a Hanukkah celebration on Bondi Beach.
 
-[2025-12-16 19:00:15](https://bsky.app/profile/cnn.com/post/3ma3v7pyalr22)
-
----
-
-@washingtonpost.com
-
-Why some people experience long-lasting physical and mental effects from covid-19 could be linked to chronic inflammation, according to new research that experts say could help develop new treatments.
-
-[2025-12-16 19:00:12](https://bsky.app/profile/washingtonpost.com/post/3ma3v7mluu624)
+[2025-12-16 19:20:08](https://bsky.app/profile/nbcnews.com/post/3ma3wdbwnll26)
 
 ---
 
-@bloomberg.com
+@sokuho.news
 
-Here’s what you need to know to start your day
+🔔ANNより【速報】です。
 
-[2025-12-16 19:00:12](https://bsky.app/profile/bloomberg.com/post/3ma3v7mjoku2z)
+【速報】板橋区の横断歩道でトラックに巻き込まれた事故 小学5年の男の子が死亡
+(2025年12月16日 19:18) #ニュース
+
+[2025-12-16 19:18:39](https://bsky.app/profile/sokuho.news/post/3ma3wamg42e26)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+経済対策のお米券 24の市や区は配布せず別の支援策実施へ
+https://news.web.nhk/newsweb/na/na-k10015005571000
+
+[2025-12-16 19:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3w7lmtaq2u)
+
+---
+
+@japan.reuters.com
+
+米金融大手ゴールドマン・サックスは、インフラ関連の取引や人工知能（ＡＩ）の拡大を見据え、テクノロジー、メディア、通信分野を専門とする投資銀行グループを二つのチームに再編する。ロイターが社内メモを入手した。 bit.ly/3XT8BIl
+
+[2025-12-16 19:15:21](https://bsky.app/profile/japan.reuters.com/post/3ma3w2psmfq2u)
 
 ---
 
