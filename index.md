@@ -1,9 +1,9 @@
-# [2025-12-16 10:10 updated](2025_12_16.md)
+# [2025-12-16 10:30 updated](2025_12_16.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Donald Trump sues the BBC for $5 billion over a misleading edit in a documentary last year bloom.bg/4q57rFw  📷: Francis Chung/Politico/Bloomberg <a href="https://bsky.app/profile/bloomberg.com/post/3ma2xjd5jm327" target="_blank">bloomberg.com</a> (2025-12-16 10:08:45)</span><span style="padding-right:50px;">城内実成長戦略相は１６日の閣議後会見で、高市早苗政権が掲げる戦略分野への官民投資を議論する成長戦略会議が検討中の分科会メンバーについて、なるべく若手や女性を起用するよう関係省庁などに指示したことを明らかにした。 bit.ly/4aiWknW <a href="https://bsky.app/profile/japan.reuters.com/post/3ma2xj3jic42q" target="_blank">japan.reuters.com</a> (2025-12-16 10:08:37)</span><span style="padding-right:50px;">The FBI is offering a reward of up to $50,000 "for information leading to the identification, arrest, and conviction" of a suspect in Saturday’s Brown University mass shooting  FBI Director Kash Patel said today. <a href="https://bsky.app/profile/axios.com/post/3ma2xhkyjnc2e" target="_blank">axios.com</a> (2025-12-16 10:07:46)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】立川の小学校で児童の前で教諭らに暴行…男2人に執行猶予付き判決 東京地裁立川支部 (2025-12-16 10:07) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma2xhida6625" target="_blank">sokuho.news</a> (2025-12-16 10:07:43)</span><span style="padding-right:50px;">JUST IN: The deadly mass shooting on Bondi Beach was motivated by “Islamic State ideology,” Australian Prime Minister Anthony Albanese said. https://cnn.it/4q579OW <a href="https://bsky.app/profile/cnn.com/post/3ma2xg2dzui2o" target="_blank">cnn.com</a> (2025-12-16 10:06:55)</span>
+<span style="padding-right:50px;">President Donald Trump sued the BBC for defamation over edited clips of a speech that made it appear he directed supporters to storm the US Capitol, opening an international front in his fight against media coverage he deems untrue or unfair. https://cnn.it/3XZIlvR <a href="https://bsky.app/profile/cnn.com/post/3ma2ymyor2g2t" target="_blank">cnn.com</a> (2025-12-16 10:28:42)</span><span style="padding-right:50px;">【ライブ配信予定】気象庁・内閣府会見 https://news.web.nhk/newsweb/na/na-k10015005051000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma2yk37yxo26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 10:27:02)</span><span style="padding-right:50px;">英政府は１５日、韓国と自由貿易協定（ＦＴＡ）を更新する最終決定をしたと発表した。英国の欧州連合（ＥＵ）離脱（ブレグジット）後の貿易関係を強化し、優遇的な市場アクセスを確保して低い関税をより長期間維持することを目指す。 bit.ly/4pFL6id <a href="https://bsky.app/profile/japan.reuters.com/post/3ma2yjx4rjk25" target="_blank">japan.reuters.com</a> (2025-12-16 10:27:00)</span><span style="padding-right:50px;">Brown University students recall barricading on campus during shooting, say they feel unsafe with suspect still at large. <a href="https://bsky.app/profile/cbsnews.com/post/3ma2ygfvfyj2j" target="_blank">cbsnews.com</a> (2025-12-16 10:25:01)</span><span style="padding-right:50px;">トランプ米大統領は１５日、大麻を危険性の低い薬物に再分類する大統領令を検討していると述べた。これにより大麻産業の再編や刑事罰の緩和などにつながる可能性がある。 bit.ly/4oVk9pi <a href="https://bsky.app/profile/japan.reuters.com/post/3ma2yfnu4nv2q" target="_blank">japan.reuters.com</a> (2025-12-16 10:24:36)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49684.72 (🔻366.52 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3341.00 (🔻39.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 155.04 (🔻0.19 : 2025-12-16)</span>
+<span style="padding-right:50px;">NIKKEI: 49735.42 (🔻315.82 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3342.00 (🔻38.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 155.10 (🔻0.12 : 2025-12-16)</span>
   </div>
 </div>
 
@@ -32,100 +32,99 @@
 
 ## News Headlines
 
-Here are six news headlines in English:
+Here are six headlines in English:
 
-1. FBI Offers $50,000 Reward for Info Leading to Arrest of Brown University Shooting Suspect
-2. Australian PM Says Bondi Beach Mass Shooting Motivated by Islamic State Ideology
-3. Trump Sues BBC for $5 Billion Over Documentary Editing
-4. Ukraine's Zelensky Meets with Trump Envoy in Berlin for Peace Talks
-5. Bitcoin Drops Towards $86,000 as Lack of Conviction Keeps Lid on Crypto Prices
-6. Korea Zinc Plans $7.4 Billion US Minerals Refinery with Washington's Backing
+1. Trump Sues BBC for $5 Billion Over Edited Clips
+2. UK and South Korea Agree to Update Free Trade Agreement
+3. Elon Musk's Wealth Tops $600 Billion
+4. FDA Approves Combination Therapy for Certain Type of Cancer
+5. Tesla's Stock Surges on News of Autonomous Taxi Testing
+6. FBI Offers $50,000 Reward for Information on Brown University Shooting Suspect
 
 ----
 
-@bloomberg.com
-
-Donald Trump sues the BBC for $5 billion over a misleading edit in a documentary last year bloom.bg/4q57rFw
-
-📷: Francis Chung/Politico/Bloomberg
-
-[2025-12-16 10:08:45](https://bsky.app/profile/bloomberg.com/post/3ma2xjd5jm327)
-
----
-
-@japan.reuters.com
-
-城内実成長戦略相は１６日の閣議後会見で、高市早苗政権が掲げる戦略分野への官民投資を議論する成長戦略会議が検討中の分科会メンバーについて、なるべく若手や女性を起用するよう関係省庁などに指示したことを明らかにした。 bit.ly/4aiWknW
-
-[2025-12-16 10:08:37](https://bsky.app/profile/japan.reuters.com/post/3ma2xj3jic42q)
-
----
-
-@axios.com
-
-The FBI is offering a reward of up to $50,000 "for information leading to the identification, arrest, and conviction" of a suspect in Saturday’s Brown University mass shooting  FBI Director Kash Patel said today.
-
-[2025-12-16 10:07:46](https://bsky.app/profile/axios.com/post/3ma2xhkyjnc2e)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】立川の小学校で児童の前で教諭らに暴行…男2人に執行猶予付き判決 東京地裁立川支部
-(2025-12-16 10:07) #ニュース
-
-[2025-12-16 10:07:43](https://bsky.app/profile/sokuho.news/post/3ma2xhida6625)
-
----
-
 @cnn.com
 
-<strong><span style="color: red;">JUST IN:</span> The deadly mass shooting on Bondi Beach was motivated by “Islamic State ideology,” Australian Prime Minister Anthony Albanese said. https://cnn.it/4q579OW</strong>
+President Donald Trump sued the BBC for defamation over edited clips of a speech that made it appear he directed supporters to storm the US Capitol, opening an international front in his fight against media coverage he deems untrue or unfair. https://cnn.it/3XZIlvR
 
-[2025-12-16 10:06:55](https://bsky.app/profile/cnn.com/post/3ma2xg2dzui2o)
-
----
-
-@japan.reuters.com
-
-終盤のニューヨーク外為市場では、ドルが円やスイスフランなどの通貨に対して小幅下落した。今週は主要中銀の政策決定会合や米経済指標など、主要イベントが目白押しで、連邦準備理事会（ＦＲＢ）の今後の金利政策を見極める重要な手がかりとなる可能性がある。 bit.ly/3MBtRQs
-
-[2025-12-16 10:05:31](https://bsky.app/profile/japan.reuters.com/post/3ma2xdjyuxg2c)
-
----
-
-@japan.reuters.com
-
-サッカーのイングランド・プレミアリーグ、クリスタルパレスは１５日、日本代表ＭＦ鎌田大地がハムストリングを負傷した可能性があるとクラブ公式サイトで発表した。 bit.ly/48ESt3j
-
-[2025-12-16 10:04:03](https://bsky.app/profile/japan.reuters.com/post/3ma2xawgzqz2n)
-
----
-
-@wsj.com
-
-Too many managers take a hands-off approach, and then get frustrated when things go awry. There is a better way. on.wsj.com/3Ysrm5o
-
-[2025-12-16 10:03:44](https://bsky.app/profile/wsj.com/post/3ma2xaefhpi2h)
+[2025-12-16 10:28:42](https://bsky.app/profile/cnn.com/post/3ma2ymyor2g2t)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-補正予算案  参院予算委で採決へ 与党はきょう中の成立目指す
-https://news.web.nhk/newsweb/na/na-k10015005071000
+【ライブ配信予定】気象庁・内閣府会見
+https://news.web.nhk/newsweb/na/na-k10015005051000
 
-[2025-12-16 10:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma2x75xyq722)
+[2025-12-16 10:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma2yk37yxo26)
 
 ---
 
 @japan.reuters.com
 
-Ｓ＆Ｐグローバルが１６日に発表した１２月の製造業購買担当者景気指数（ＰＭＩ）は４９．７と、前月の４８．７から小幅に上昇した。好不況の分かれ目となる５０は６カ月連続で下回った。サービス業は５２．５で、前月（同）の５３．２から小幅に低下した。 bit.ly/48VeSIC
+英政府は１５日、韓国と自由貿易協定（ＦＴＡ）を更新する最終決定をしたと発表した。英国の欧州連合（ＥＵ）離脱（ブレグジット）後の貿易関係を強化し、優遇的な市場アクセスを確保して低い関税をより長期間維持することを目指す。 bit.ly/4pFL6id
 
-[2025-12-16 10:03:00](https://bsky.app/profile/japan.reuters.com/post/3ma2x6zqxbc2c)
+[2025-12-16 10:27:00](https://bsky.app/profile/japan.reuters.com/post/3ma2yjx4rjk25)
+
+---
+
+@cbsnews.com
+
+Brown University students recall barricading on campus during shooting, say they feel unsafe with suspect still at large.
+
+[2025-12-16 10:25:01](https://bsky.app/profile/cbsnews.com/post/3ma2ygfvfyj2j)
+
+---
+
+@japan.reuters.com
+
+トランプ米大統領は１５日、大麻を危険性の低い薬物に再分類する大統領令を検討していると述べた。これにより大麻産業の再編や刑事罰の緩和などにつながる可能性がある。 bit.ly/4oVk9pi
+
+[2025-12-16 10:24:36](https://bsky.app/profile/japan.reuters.com/post/3ma2yfnu4nv2q)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】24万羽は過去最大級 鳥インフルエンザ殺処分始まる 兵庫・斎藤知事「食べて感染することはないこと県民に伝えたい」
+(2025-12-16 10:21:59) #ニュース
+
+[2025-12-16 10:24:29](https://bsky.app/profile/sokuho.news/post/3ma2yfhdill25)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+仙台 若林区 アパートで火事 焼け跡から2人の遺体
+https://news.web.nhk/newsweb/na/na-k10015004991000
+
+[2025-12-16 10:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma2yeq3kl32x)
+
+---
+
+@wsj.com
+
+Welcome to the pissed-off parent pushback: After years of therapists and others encouraging adult children to cut ties with families they deem harmful or “toxic,” estranged parents are speaking out on.wsj.com/4s49U52
+
+[2025-12-16 10:21:36](https://bsky.app/profile/wsj.com/post/3ma2yacjbuq2c)
+
+---
+
+@japan.reuters.com
+
+フジ・メディア・ホールディングスが大幅に３日続伸し、一時６％高の３８０９円まで上昇、７月２３日以来の高値圏となった。同社は前日、投資家の野村絢氏から議決権比率３３．３％まで株式を買い増すとの通知を受け取ったと発表し、材料視された。午前１０時０９分現在は上げ幅を縮小し、２％超高で推移。市場では「株主還元が強化されるのではないかとの期待で買いが先行した。ただ足元、同社株のバリュエーションは割安感も薄れており、買いの勢いは続いていないようだ」（国内証券・アナリスト）との声が聞かれた。 bit.ly/4iW9gSQ
+
+[2025-12-16 10:21:03](https://bsky.app/profile/japan.reuters.com/post/3ma2y7csgwp27)
+
+---
+
+@japan.reuters.com
+
+米アトランタ地区連銀は１５日、来年２月末に退任するボスティック総裁の後任を選ぶ手続きを開始した。「（同連銀がカバーする）第６連邦準備区に有意なつながりを持つ候補ら」から次期総裁を探す計画だとしている。 bit.ly/4q9a35f
+
+[2025-12-16 10:20:41](https://bsky.app/profile/japan.reuters.com/post/3ma2y6niits2c)
 
 ---
 
