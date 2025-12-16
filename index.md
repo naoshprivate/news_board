@@ -1,9 +1,9 @@
-# [2025-12-17 01:50 updated](2025_12_17.md)
+# [2025-12-17 02:10 updated](2025_12_17.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Birkin bag prices are sinking at auction despite high-profile sales <a href="https://bsky.app/profile/cnbc.com/post/3ma4lx5c52z2d" target="_blank">cnbc.com</a> (2025-12-17 01:47:03)</span><span style="padding-right:50px;">White House chief of staff Susie Wiles is criticizing Attorney General Pam Bondi’s handling of the Jeffrey Epstein case in an unvarnished take in Vanity Fair, sending the Trump administration into damage control. <a href="https://bsky.app/profile/apnews.com/post/3ma4lv5q43s23" target="_blank">apnews.com</a> (2025-12-17 01:45:57)</span><span style="padding-right:50px;">Wall St flat as healthcare losses offset tech gains; focus on jobs data reut.rs/3KD5nFU <a href="https://bsky.app/profile/reuters.com/post/3ma4ltynvjg23" target="_blank">reuters.com</a> (2025-12-17 01:45:18)</span><span style="padding-right:50px;">A reader asked our fashion critic: "It will be chilly and rainy for the next six months where I live. Is there such a thing as a boot that is cozy, waterproof and isn’t going to make me look as if I got lost on my way to backcountry trekking when I am in the office or out with friends?" <a href="https://bsky.app/profile/nytimes.com/post/3ma4lt5ev6k2i" target="_blank">nytimes.com</a> (2025-12-17 01:44:49)</span><span style="padding-right:50px;">Exclusive: British sports streaming giant DAZN is in advanced talks to acquire a majority stake in Main Street Sports Group, the big regional sports broadcaster in the U.S. <a href="https://bsky.app/profile/wsj.com/post/3ma4lt2m7ck2u" target="_blank">wsj.com</a> (2025-12-17 01:44:46)</span>
+<span style="padding-right:50px;">Donald Trump, the man who rode to the White House last year on a promise to fix America’s cost-of-living crisis, is now struggling to convince voters that he even thinks it is a real issue after dismissing it as a Democratic 'hoax'. ft.trib.al/k4sD8qk <a href="https://bsky.app/profile/financialtimes.com/post/3ma4n6zev7u2p" target="_blank">financialtimes.com</a> (2025-12-17 02:09:21)</span><span style="padding-right:50px;">Gas prices continue to slide below $3, hitting fresh four-year low ahead of Christmas <a href="https://bsky.app/profile/yahoofinance.com/post/3ma4mz7tdk22q" target="_blank">yahoofinance.com</a> (2025-12-17 02:06:07)</span><span style="padding-right:50px;">US overdraft fees jump at big banks amid regulatory, economic shifts reut.rs/4qgacnJ <a href="https://bsky.app/profile/reuters.com/post/3ma4mxowlpn2x" target="_blank">reuters.com</a> (2025-12-17 02:05:15)</span><span style="padding-right:50px;">Netflix announced a partnership with iHeartMedia, furthering its long-awaited push into podcasting — and yanking a few more shows off YouTube. “The Breakfast Club” and other podcasts will now publish their video episodes exclusively on Netflix. <a href="https://bsky.app/profile/nytimes.com/post/3ma4mxecita2y" target="_blank">nytimes.com</a> (2025-12-17 02:05:04)</span><span style="padding-right:50px;">The job market is weak, but the unemployment rate hitting a four-year high doesn't signal some abrupt turn for the worse. Here's why. <a href="https://bsky.app/profile/axios.com/post/3ma4mtv2emc26" target="_blank">axios.com</a> (2025-12-17 02:03:08)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48196.00 (🔻184.17 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23027.03 (🔺45.21 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 176.64 (🔺0.38 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.83 (🔻0.39 : 2025-12-16)</span>
+<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48165.98 (🔻214.19 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23020.34 (🔺38.52 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 176.49 (🔺0.24 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.74 (🔻0.48 : 2025-12-16)</span>
   </div>
 </div>
 
@@ -32,94 +32,94 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are six headlines from the news in English:
 
-1. EU Walks Back 2035 Ban on New Petrol and Diesel Cars
-2. Job Growth Tops Expectations in November, Retail Sales Unchanged in October
-3. US Banks Win Back Right to Lend More Than They Should
-4. EU Proposes Watering Down Rules on Combustion Engine Cars
-5. Australia Tightens Gun Laws After Mass Shooting at Bondi Beach
-6. New Dashcam Video Shows Couple Confronting Gunmen at Bondi Beach Shooting
+1. Trump Struggles to Convince Voters of Cost-of-Living Crisis
+2. Gas Prices Hit Four-Year Low Ahead of Christmas
+3. Netflix Partners with iHeartMedia to Expand Podcasting
+4. British Man Jailed for 21.5 Years for Injuring Over 130 People in Car Crash
+5. Coco Gauff Becomes World's Highest-Paid Female Athlete with $33 Million Earnings
+6. Trump Administration Moves to Limit Federal Workers' Top Ratings
 
 ----
 
-@cnbc.com
+@financialtimes.com
 
-Birkin bag prices are sinking at auction despite high-profile sales
+Donald Trump, the man who rode to the White House last year on a promise to fix America’s cost-of-living crisis, is now struggling to convince voters that he even thinks it is a real issue after dismissing it as a Democratic 'hoax'. ft.trib.al/k4sD8qk
 
-[2025-12-17 01:47:03](https://bsky.app/profile/cnbc.com/post/3ma4lx5c52z2d)
+[2025-12-17 02:09:21](https://bsky.app/profile/financialtimes.com/post/3ma4n6zev7u2p)
 
 ---
 
-@apnews.com
+@yahoofinance.com
 
-White House chief of staff Susie Wiles is criticizing Attorney General Pam Bondi’s handling of the Jeffrey Epstein case in an unvarnished take in Vanity Fair, sending the Trump administration into damage control.
+Gas prices continue to slide below $3, hitting fresh four-year low ahead of Christmas
 
-[2025-12-17 01:45:57](https://bsky.app/profile/apnews.com/post/3ma4lv5q43s23)
+[2025-12-17 02:06:07](https://bsky.app/profile/yahoofinance.com/post/3ma4mz7tdk22q)
 
 ---
 
 @reuters.com
 
-Wall St flat as healthcare losses offset tech gains; focus on jobs data reut.rs/3KD5nFU
+US overdraft fees jump at big banks amid regulatory, economic shifts reut.rs/4qgacnJ
 
-[2025-12-17 01:45:18](https://bsky.app/profile/reuters.com/post/3ma4ltynvjg23)
+[2025-12-17 02:05:15](https://bsky.app/profile/reuters.com/post/3ma4mxowlpn2x)
 
 ---
 
 @nytimes.com
 
-A reader asked our fashion critic: "It will be chilly and rainy for the next six months where I live. Is there such a thing as a boot that is cozy, waterproof and isn’t going to make me look as if I got lost on my way to backcountry trekking when I am in the office or out with friends?"
+Netflix announced a partnership with iHeartMedia, furthering its long-awaited push into podcasting — and yanking a few more shows off YouTube. “The Breakfast Club” and other podcasts will now publish their video episodes exclusively on Netflix.
 
-[2025-12-17 01:44:49](https://bsky.app/profile/nytimes.com/post/3ma4lt5ev6k2i)
-
----
-
-@wsj.com
-
-Exclusive: British sports streaming giant DAZN is in advanced talks to acquire a majority stake in Main Street Sports Group, the big regional sports broadcaster in the U.S.
-
-[2025-12-17 01:44:46](https://bsky.app/profile/wsj.com/post/3ma4lt2m7ck2u)
-
----
-
-@cnbc.com
-
-AI future: Big Tech faces key House vote on reforming permit process
-
-[2025-12-17 01:44:44](https://bsky.app/profile/cnbc.com/post/3ma4lsyingy23)
-
----
-
-@japan.reuters.com
-
-米商務省が１６日発表した９月の企業在庫は０．２％増と、ロイターがまとめたエコノミスト予想の０．１％増を小幅上回った。第３・四半期の経済成長に在庫が寄与した可能性を示唆した。 bit.ly/4iZ7i49
-
-[2025-12-17 01:44:42](https://bsky.app/profile/japan.reuters.com/post/3ma4lsw6ttp2c)
-
----
-
-@en.afp.com
-
-#UPDATE 🇪🇺 🚗 The EU on Tuesday walked back a 2035 ban on new petrol and diesel cars seen as a milestone in the fight against climate change, as the bloc pivots to bolstering its crisis-hit auto sector ➡️ u.afp.com/S7Hp
-
-[2025-12-17 01:44:23](https://bsky.app/profile/en.afp.com/post/3ma4lsego7k22)
+[2025-12-17 02:05:04](https://bsky.app/profile/nytimes.com/post/3ma4mxecita2y)
 
 ---
 
 @axios.com
 
-White House chief of staff says Trump "was wrong" about claims that Epstein files incriminated Clinton: “There is no evidence”
+The job market is weak, but the unemployment rate hitting a four-year high doesn't signal some abrupt turn for the worse. Here's why.
 
-[2025-12-17 01:41:02](https://bsky.app/profile/axios.com/post/3ma4lmepqtc2f)
+[2025-12-17 02:03:08](https://bsky.app/profile/axios.com/post/3ma4mtv2emc26)
+
+---
+
+@cnbc.com
+
+Investors are all in on stocks: Bank of America survey shows record low cash level
+
+[2025-12-17 02:02:52](https://bsky.app/profile/cnbc.com/post/3ma4mtgdboy2e)
+
+---
+
+@cnn.com
+
+A British man who injured more than 130 people by plowing his car into a crowd of Liverpool soccer fans during May’s Premier League victory parade was jailed for 21-and-a-half years on Tuesday, after admitting 31 criminal charges over the incident. 
+
+[2025-12-17 02:01:03](https://bsky.app/profile/cnn.com/post/3ma4mq67g3j25)
 
 ---
 
 @reuters.com
 
-Explainer: Why is the Trump administration putting pressure on Venezuela? reut.rs/3XUVFSj
+Chinese court sentences 27 people for smuggling antimony ingots reut.rs/4qfoK6V
 
-[2025-12-17 01:40:35](https://bsky.app/profile/reuters.com/post/3ma4llktnmo23)
+[2025-12-17 02:01:03](https://bsky.app/profile/reuters.com/post/3ma4mq5w26a2y)
+
+---
+
+@usatoday.com
+
+Coco Gauff is the world’s highest-paid female athlete with $33 million in earnings in 2025. Eight of the 10 highest earners are tennis players.
+
+[2025-12-17 02:00:52](https://bsky.app/profile/usatoday.com/post/3ma4mptf32q2f)
+
+---
+
+@washingtonpost.com
+
+The Trump administration is pushing to limit how many federal workers receive top ratings in annual performance reviews, according to almost two dozen federal employees, a move experts say is illegal and could allow for staff to be more easily fired.
+
+[2025-12-17 02:00:50](https://bsky.app/profile/washingtonpost.com/post/3ma4mps3zwo2m)
 
 ---
 
