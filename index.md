@@ -1,9 +1,9 @@
-# [2025-12-16 09:50 updated](2025_12_16.md)
+# [2025-12-16 10:10 updated](2025_12_16.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">An obscure company pivoted, then pivoted again, nearly ran out of money—and built a hit product on.wsj.com/4aPfLET <a href="https://bsky.app/profile/wsj.com/post/3ma2wdl6u6y2i" target="_blank">wsj.com</a> (2025-12-16 09:47:38)</span><span style="padding-right:50px;">Trump brands fentanyl a ‘weapon of mass destruction’ in drug war escalation reut.rs/4qhfAHf <a href="https://bsky.app/profile/reuters.com/post/3ma2w7gd5yb2c" target="_blank">reuters.com</a> (2025-12-16 09:45:19)</span><span style="padding-right:50px;">欧州各国の首脳は１５日、ウクライナのロシアに対する領土譲歩の可能性に関するいかなる決定も、欧州主導の多国籍軍を含む強力な安全保障体制が確立された場合にのみ行うことができるという点で合意したと発表した。 bit.ly/3KTcCcO <a href="https://bsky.app/profile/japan.reuters.com/post/3ma2w7cyftu2s" target="_blank">japan.reuters.com</a> (2025-12-16 09:45:16)</span><span style="padding-right:50px;">Around the time of the shooting at Bondi Beach, Ahmed al-Ahmed planned to meet a friend for coffee and was shocked to see men firing their weapons at civilians — then he sprang into action. https://wapo.st/3Yrj3H8 <a href="https://bsky.app/profile/washingtonpost.com/post/3ma2w6x6w4f2n" target="_blank">washingtonpost.com</a> (2025-12-16 09:45:03)</span><span style="padding-right:50px;">香港「リンゴ日報」創業者が有罪 トランプ氏“非常に残念” https://news.web.nhk/newsweb/na/na-k10015005041000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma2w6zgnhm2d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 09:45:03)</span>
+<span style="padding-right:50px;">Donald Trump sues the BBC for $5 billion over a misleading edit in a documentary last year bloom.bg/4q57rFw  📷: Francis Chung/Politico/Bloomberg <a href="https://bsky.app/profile/bloomberg.com/post/3ma2xjd5jm327" target="_blank">bloomberg.com</a> (2025-12-16 10:08:45)</span><span style="padding-right:50px;">城内実成長戦略相は１６日の閣議後会見で、高市早苗政権が掲げる戦略分野への官民投資を議論する成長戦略会議が検討中の分科会メンバーについて、なるべく若手や女性を起用するよう関係省庁などに指示したことを明らかにした。 bit.ly/4aiWknW <a href="https://bsky.app/profile/japan.reuters.com/post/3ma2xj3jic42q" target="_blank">japan.reuters.com</a> (2025-12-16 10:08:37)</span><span style="padding-right:50px;">The FBI is offering a reward of up to $50,000 "for information leading to the identification, arrest, and conviction" of a suspect in Saturday’s Brown University mass shooting  FBI Director Kash Patel said today. <a href="https://bsky.app/profile/axios.com/post/3ma2xhkyjnc2e" target="_blank">axios.com</a> (2025-12-16 10:07:46)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】立川の小学校で児童の前で教諭らに暴行…男2人に執行猶予付き判決 東京地裁立川支部 (2025-12-16 10:07) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma2xhida6625" target="_blank">sokuho.news</a> (2025-12-16 10:07:43)</span><span style="padding-right:50px;">JUST IN: The deadly mass shooting on Bondi Beach was motivated by “Islamic State ideology,” Australian Prime Minister Anthony Albanese said. https://cnn.it/4q579OW <a href="https://bsky.app/profile/cnn.com/post/3ma2xg2dzui2o" target="_blank">cnn.com</a> (2025-12-16 10:06:55)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49782.67 (🔻268.57 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3357.00 (🔻23.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 155.01 (🔻0.21 : 2025-12-16)</span>
+<span style="padding-right:50px;">NIKKEI: 49684.72 (🔻366.52 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3341.00 (🔻39.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 155.04 (🔻0.19 : 2025-12-16)</span>
   </div>
 </div>
 
@@ -32,71 +32,40 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are six news headlines in English:
 
-1. Trump Brands Fentanyl a Weapon of Mass Destruction in Escalation of Drug War
-2. European Leaders Agree to Consider Ukraine's Territorial Concessions Only After Strengthening Security Framework
-3. Airbus Delays Aircraft Deliveries Amid Concerns Over Recent Technical Issues
-4. President Trump Sues BBC for $5 Billion Over Documentary Alleging Defamation
-5. New Zealand House Prices Rise in November Amid Stable Demand
-6. Bitcoin Drops Toward $86,000 as Lack of Conviction Keeps Prices Low
+1. FBI Offers $50,000 Reward for Info Leading to Arrest of Brown University Shooting Suspect
+2. Australian PM Says Bondi Beach Mass Shooting Motivated by Islamic State Ideology
+3. Trump Sues BBC for $5 Billion Over Documentary Editing
+4. Ukraine's Zelensky Meets with Trump Envoy in Berlin for Peace Talks
+5. Bitcoin Drops Towards $86,000 as Lack of Conviction Keeps Lid on Crypto Prices
+6. Korea Zinc Plans $7.4 Billion US Minerals Refinery with Washington's Backing
 
 ----
 
-@wsj.com
+@bloomberg.com
 
-An obscure company pivoted, then pivoted again, nearly ran out of money—and built a hit product on.wsj.com/4aPfLET
+Donald Trump sues the BBC for $5 billion over a misleading edit in a documentary last year bloom.bg/4q57rFw
 
-[2025-12-16 09:47:38](https://bsky.app/profile/wsj.com/post/3ma2wdl6u6y2i)
+📷: Francis Chung/Politico/Bloomberg
 
----
-
-@reuters.com
-
-Trump brands fentanyl a ‘weapon of mass destruction’ in drug war escalation reut.rs/4qhfAHf
-
-[2025-12-16 09:45:19](https://bsky.app/profile/reuters.com/post/3ma2w7gd5yb2c)
+[2025-12-16 10:08:45](https://bsky.app/profile/bloomberg.com/post/3ma2xjd5jm327)
 
 ---
 
 @japan.reuters.com
 
-欧州各国の首脳は１５日、ウクライナのロシアに対する領土譲歩の可能性に関するいかなる決定も、欧州主導の多国籍軍を含む強力な安全保障体制が確立された場合にのみ行うことができるという点で合意したと発表した。 bit.ly/3KTcCcO
+城内実成長戦略相は１６日の閣議後会見で、高市早苗政権が掲げる戦略分野への官民投資を議論する成長戦略会議が検討中の分科会メンバーについて、なるべく若手や女性を起用するよう関係省庁などに指示したことを明らかにした。 bit.ly/4aiWknW
 
-[2025-12-16 09:45:16](https://bsky.app/profile/japan.reuters.com/post/3ma2w7cyftu2s)
-
----
-
-@washingtonpost.com
-
-Around the time of the shooting at Bondi Beach, Ahmed al-Ahmed planned to meet a friend for coffee and was shocked to see men firing their weapons at civilians — then he sprang into action. https://wapo.st/3Yrj3H8
-
-[2025-12-16 09:45:03](https://bsky.app/profile/washingtonpost.com/post/3ma2w6x6w4f2n)
-
----
-
-@nhknewsunofficial.bsky.social
-
-香港「リンゴ日報」創業者が有罪 トランプ氏“非常に残念”
-https://news.web.nhk/newsweb/na/na-k10015005041000
-
-[2025-12-16 09:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma2w6zgnhm2d)
-
----
-
-@japan.reuters.com
-
-欧州航空機大手エアバスは１２月前半に航空機約３０機を納入したが、同月の平均を下回るペースでの納入となった。一部の航空会社が最近の機体問題の修正内容の詳細を待っていることが背景にある。業界関係者とアナリストが１５日に明らかにした。 bit.ly/4oSbbsX
-
-[2025-12-16 09:45:02](https://bsky.app/profile/japan.reuters.com/post/3ma2w6w4k4e2q)
+[2025-12-16 10:08:37](https://bsky.app/profile/japan.reuters.com/post/3ma2xj3jic42q)
 
 ---
 
 @axios.com
 
-<strong><span style="color: red;">JUST IN:</span> President Trump sued the BBC, seeking at least $5 billion in damages for alleging defamation over how a documentary aired shortly before the 2024 election edited a speech he delivered on Jan. 6, 2021.</strong>
+The FBI is offering a reward of up to $50,000 "for information leading to the identification, arrest, and conviction" of a suspect in Saturday’s Brown University mass shooting  FBI Director Kash Patel said today.
 
-[2025-12-16 09:43:20](https://bsky.app/profile/axios.com/post/3ma2w3uwpc22z)
+[2025-12-16 10:07:46](https://bsky.app/profile/axios.com/post/3ma2xhkyjnc2e)
 
 ---
 
@@ -104,26 +73,59 @@ https://news.web.nhk/newsweb/na/na-k10015005041000
 
 🛎️NNNより【速報】です。
 
-【速報】近畿で今季初「鳥インフルエンザ」陽性確認 24万羽の殺処分始める 兵庫・姫路市の養鶏場
-(2025-12-16 09:43) #ニュース
+【速報】立川の小学校で児童の前で教諭らに暴行…男2人に執行猶予付き判決 東京地裁立川支部
+(2025-12-16 10:07) #ニュース
 
-[2025-12-16 09:43:11](https://bsky.app/profile/sokuho.news/post/3ma2w3luxyz2b)
+[2025-12-16 10:07:43](https://bsky.app/profile/sokuho.news/post/3ma2xhida6625)
 
 ---
 
-@reuters.com
+@cnn.com
 
-New Zealand house prices rise in November as demand stable reut.rs/44QgIJF
+<strong><span style="color: red;">JUST IN:</span> The deadly mass shooting on Bondi Beach was motivated by “Islamic State ideology,” Australian Prime Minister Anthony Albanese said. https://cnn.it/4q579OW</strong>
 
-[2025-12-16 09:40:20](https://bsky.app/profile/reuters.com/post/3ma2vwjm2c22k)
+[2025-12-16 10:06:55](https://bsky.app/profile/cnn.com/post/3ma2xg2dzui2o)
 
 ---
 
 @japan.reuters.com
 
-＜０９：１５＞　ドル154円台へ下落、11月下旬時点では投機筋は円買い越し bit.ly/4oSaq35
+終盤のニューヨーク外為市場では、ドルが円やスイスフランなどの通貨に対して小幅下落した。今週は主要中銀の政策決定会合や米経済指標など、主要イベントが目白押しで、連邦準備理事会（ＦＲＢ）の今後の金利政策を見極める重要な手がかりとなる可能性がある。 bit.ly/3MBtRQs
 
-[2025-12-16 09:38:16](https://bsky.app/profile/japan.reuters.com/post/3ma2vssmsoc25)
+[2025-12-16 10:05:31](https://bsky.app/profile/japan.reuters.com/post/3ma2xdjyuxg2c)
+
+---
+
+@japan.reuters.com
+
+サッカーのイングランド・プレミアリーグ、クリスタルパレスは１５日、日本代表ＭＦ鎌田大地がハムストリングを負傷した可能性があるとクラブ公式サイトで発表した。 bit.ly/48ESt3j
+
+[2025-12-16 10:04:03](https://bsky.app/profile/japan.reuters.com/post/3ma2xawgzqz2n)
+
+---
+
+@wsj.com
+
+Too many managers take a hands-off approach, and then get frustrated when things go awry. There is a better way. on.wsj.com/3Ysrm5o
+
+[2025-12-16 10:03:44](https://bsky.app/profile/wsj.com/post/3ma2xaefhpi2h)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+補正予算案  参院予算委で採決へ 与党はきょう中の成立目指す
+https://news.web.nhk/newsweb/na/na-k10015005071000
+
+[2025-12-16 10:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma2x75xyq722)
+
+---
+
+@japan.reuters.com
+
+Ｓ＆Ｐグローバルが１６日に発表した１２月の製造業購買担当者景気指数（ＰＭＩ）は４９．７と、前月の４８．７から小幅に上昇した。好不況の分かれ目となる５０は６カ月連続で下回った。サービス業は５２．５で、前月（同）の５３．２から小幅に低下した。 bit.ly/48VeSIC
+
+[2025-12-16 10:03:00](https://bsky.app/profile/japan.reuters.com/post/3ma2x6zqxbc2c)
 
 ---
 
