@@ -1,9 +1,9 @@
-# [2025-12-16 17:30 updated](2025_12_16.md)
+# [2025-12-16 17:50 updated](2025_12_16.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">ベラルーシのルカシェンコ大統領は１５日、ベネズエラのマドゥロ大統領が退陣した場合、ベラルーシへの移住を歓迎するが、同氏とそうした協議は行っていないと述べた。米ニュースマックスのインタビューで語った。 bit.ly/44roWrs <a href="https://bsky.app/profile/japan.reuters.com/post/3ma3pvsymrf2s" target="_blank">japan.reuters.com</a> (2025-12-16 17:25:14)</span><span style="padding-right:50px;">Jerry Rice, Steve Young chosen as Pro Bowl Games coaches reut.rs/48EIbjE <a href="https://bsky.app/profile/reuters.com/post/3ma3pvq62jk2r" target="_blank">reuters.com</a> (2025-12-16 17:25:11)</span><span style="padding-right:50px;">海上自衛隊P1哨戒機 グアムで機体の一部損傷 事故調査委設置 https://news.web.nhk/newsweb/na/na-k10015005641000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3ptq7ctr2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 17:24:02)</span><span style="padding-right:50px;">China lowers anti-dumping tariffs on European pork exporters <a href="https://bsky.app/profile/cnbc.com/post/3ma3priksd423" target="_blank">cnbc.com</a> (2025-12-16 17:22:49)</span><span style="padding-right:50px;">台湾の製糖業発展させた藤山雷太の功績たたえる特別展 https://news.web.nhk/newsweb/na/na-k10015005631000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3pokks6s2x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 17:21:08)</span>
+<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】自民・維新党首会談 議員定数削減法案の来年通常国会での成立目指す方針確認か (2025-12-16 17:45:37) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma3r4d2zg72r" target="_blank">sokuho.news</a> (2025-12-16 17:46:46)</span><span style="padding-right:50px;">オーストラリアの警察当局は１６日、シドニーの観光名所ボンダイビーチで１４日に発生した銃撃事件の容疑者２人が事件前にフィリピンに渡航しており、過激派組織「イスラム国」（ＩＳ）の影響を受けていたようだと発表した。 bit.ly/3YrGaBo <a href="https://bsky.app/profile/japan.reuters.com/post/3ma3qzk7trb2p" target="_blank">japan.reuters.com</a> (2025-12-16 17:45:13)</span><span style="padding-right:50px;">MBK, YoungPoong seek court injunction to block Korea Zinc's share sale plan reut.rs/3YsWMbQ <a href="https://bsky.app/profile/reuters.com/post/3ma3qzgqspg2p" target="_blank">reuters.com</a> (2025-12-16 17:45:09)</span><span style="padding-right:50px;">自民と維新 党首会談 https://news.web.nhk/newsweb/na/na-k10015005481000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3qzc36lh2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 17:45:02)</span><span style="padding-right:50px;">タイ中央銀行のウィタイ総裁は１６日、急激なバーツ高を抑制するため、金取引に関連する為替取引の監視を強化するとともに、商業銀行に外貨流入を注視するよう指示したことを明らかにした。 bit.ly/491eIPV <a href="https://bsky.app/profile/japan.reuters.com/post/3ma3qxsvmro2u" target="_blank">japan.reuters.com</a> (2025-12-16 17:44:15)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.88 (🔻0.34 : 2025-12-16)</span>
+<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.84 (🔻0.38 : 2025-12-16)</span>
   </div>
 </div>
 
@@ -32,97 +32,105 @@
 
 ## News Headlines
 
-1. Belarus President Lukashenko Welcomes Venezuelan Migrants
-2. Jerry Rice and Steve Young Chosen as Pro Bowl Games Coaches
-3. Japan Coast Guard Investigates P-1 Plane Incident in Guam
-4. China Lowers Anti-Dumping Tariffs on European Pork
-5. Huge Congestion Expected on Japanese Highways During Year-End Holidays
-6. Australian Banks Predict RBA to Raise Interest Rates in February
+Here are six important stories with headlines in English:
+
+1. Australia Police: Suspects in Sydney Shooting Were Linked to ISIS
+2. Thai Central Bank to Monitor Forex Transactions to Curb Baht Appreciation
+3. India to Ease Rules for Commodity Derivatives, Sources Say
+4. European Central Bank Warns of Negative Impact on Bank Liquidity
+5. Argentina to Introduce New Currency Band System in January
+6. Jerry Rice and Steve Young Chosen as Pro Bowl Games Coaches
 
 ----
 
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】自民・維新党首会談 議員定数削減法案の来年通常国会での成立目指す方針確認か
+(2025-12-16 17:45:37) #ニュース
+
+[2025-12-16 17:46:46](https://bsky.app/profile/sokuho.news/post/3ma3r4d2zg72r)
+
+---
+
 @japan.reuters.com
 
-ベラルーシのルカシェンコ大統領は１５日、ベネズエラのマドゥロ大統領が退陣した場合、ベラルーシへの移住を歓迎するが、同氏とそうした協議は行っていないと述べた。米ニュースマックスのインタビューで語った。 bit.ly/44roWrs
+オーストラリアの警察当局は１６日、シドニーの観光名所ボンダイビーチで１４日に発生した銃撃事件の容疑者２人が事件前にフィリピンに渡航しており、過激派組織「イスラム国」（ＩＳ）の影響を受けていたようだと発表した。 bit.ly/3YrGaBo
 
-[2025-12-16 17:25:14](https://bsky.app/profile/japan.reuters.com/post/3ma3pvsymrf2s)
+[2025-12-16 17:45:13](https://bsky.app/profile/japan.reuters.com/post/3ma3qzk7trb2p)
 
 ---
 
 @reuters.com
 
-Jerry Rice, Steve Young chosen as Pro Bowl Games coaches reut.rs/48EIbjE
+MBK, YoungPoong seek court injunction to block Korea Zinc's share sale plan reut.rs/3YsWMbQ
 
-[2025-12-16 17:25:11](https://bsky.app/profile/reuters.com/post/3ma3pvq62jk2r)
-
----
-
-@nhknewsunofficial.bsky.social
-
-海上自衛隊P1哨戒機 グアムで機体の一部損傷 事故調査委設置
-https://news.web.nhk/newsweb/na/na-k10015005641000
-
-[2025-12-16 17:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3ptq7ctr2s)
-
----
-
-@cnbc.com
-
-China lowers anti-dumping tariffs on European pork exporters
-
-[2025-12-16 17:22:49](https://bsky.app/profile/cnbc.com/post/3ma3priksd423)
+[2025-12-16 17:45:09](https://bsky.app/profile/reuters.com/post/3ma3qzgqspg2p)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-台湾の製糖業発展させた藤山雷太の功績たたえる特別展
-https://news.web.nhk/newsweb/na/na-k10015005631000
+自民と維新 党首会談
+https://news.web.nhk/newsweb/na/na-k10015005481000
 
-[2025-12-16 17:21:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3pokks6s2x)
-
----
-
-@nhknewsunofficial.bsky.social
-
-高速道路 年末年始の渋滞予測 上下線 2日と3日 ピークの見通し
-https://news.web.nhk/newsweb/na/na-k10015005551000
-
-[2025-12-16 17:21:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3pofsgop2u)
+[2025-12-16 17:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3qzc36lh2b)
 
 ---
 
 @japan.reuters.com
 
-豪４大銀行のうち、コモンウェルス銀行（ＣＢＡ）とナショナル・オーストラリア銀行（ＮＡＢ）は、豪準備銀行（ＲＢＡ）が来年２月に政策金利を引き上げると予想している。 bit.ly/48X04ZM
+タイ中央銀行のウィタイ総裁は１６日、急激なバーツ高を抑制するため、金取引に関連する為替取引の監視を強化するとともに、商業銀行に外貨流入を注視するよう指示したことを明らかにした。 bit.ly/491eIPV
 
-[2025-12-16 17:20:13](https://bsky.app/profile/japan.reuters.com/post/3ma3pmu3vrt2n)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-US military says eight killed in strikes on alleged drug vessels
-
-[2025-12-16 17:19:18](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma3pl7vrsg2r)
+[2025-12-16 17:44:15](https://bsky.app/profile/japan.reuters.com/post/3ma3qxsvmro2u)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@cnbc.com
 
-NSW premier defends police response to Bondi attack
+The AI chip shortage could raise smartphone prices — new research spells out by how much
 
-[2025-12-16 17:18:12](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma3pjb73z62y)
+[2025-12-16 17:42:09](https://bsky.app/profile/cnbc.com/post/3ma3qu2vnuf2y)
 
 ---
 
-@wsj.com
+@nhknewsunofficial.bsky.social
 
-The aim at first was simple: prevent murder on the seafloor. 
+女子ゴルフ 国内 年間最優秀選手賞にツアー4勝の佐久間朱莉
+https://news.web.nhk/newsweb/na/na-k10015005651000
 
-But plans to use a deep-sea boom box to keep fish away from a coastal nuclear station have gone awry. DJing for marine life, it turns out, is a nightmare. on.wsj.com/4ahY40L
+[2025-12-16 17:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3qtwfxc326)
 
-[2025-12-16 17:15:48](https://bsky.app/profile/wsj.com/post/3ma3pewwuil2s)
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】東海道新幹線 運転再開 米原駅～岐阜羽島駅間で一時「電力設備点検の影響で」運転見合わせ
+(2025-12-16 17:29) #ニュース
+
+🚄鉄道運行情報
+🔗https://transit.yahoo.co.jp/diainfo
+
+[2025-12-16 17:40:51](https://bsky.app/profile/sokuho.news/post/3ma3qrqtlzq2a)
+
+---
+
+@japan.reuters.com
+
+米連邦航空局(ＦＡＡ)は１５日、新たな航空安全統合室を設置すると発表した。異常接近（ニアミス）事故への対応の不備で厳しい批判を受け策定した、採用と訓練の改善と潜在的な危険の迅速な特定を目的とした戦略計画の一環。 bit.ly/4qb2T0i
+
+[2025-12-16 17:40:13](https://bsky.app/profile/japan.reuters.com/post/3ma3qqm5efr2p)
+
+---
+
+@reuters.com
+
+India market regulator panel to recommend easing rules for commodity derivatives, sources say reut.rs/4rWW9oA
+
+[2025-12-16 17:40:11](https://bsky.app/profile/reuters.com/post/3ma3qqkpq4o2p)
 
 ---
 
