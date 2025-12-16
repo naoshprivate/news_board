@@ -1,9 +1,9 @@
-# [2025-12-17 03:30 updated](2025_12_17.md)
+# [2025-12-17 03:50 updated](2025_12_17.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Russian bank VTB to create agriculture giant from nationalised assets, CEO says reut.rs/4s1ajFi <a href="https://bsky.app/profile/reuters.com/post/3ma4rgs3eml2k" target="_blank">reuters.com</a> (2025-12-17 03:25:17)</span><span style="padding-right:50px;">The U.S. unemployment rate rose in November to the highest level in four years. It's a warning sign for the health of a labor market that has been strained by federal layoffs and rising costs. Here's what to know. <a href="https://bsky.app/profile/nytimes.com/post/3ma4rgguosx2s" target="_blank">nytimes.com</a> (2025-12-17 03:25:05)</span><span style="padding-right:50px;">Here's an unusual AI play for 2026: glasses <a href="https://bsky.app/profile/cnbc.com/post/3ma4rf6kscj24" target="_blank">cnbc.com</a> (2025-12-17 03:24:23)</span><span style="padding-right:50px;">OpenAI has hired former UK chancellor George Osborne to lead the start-up's work building 'democratic' AI for the world. ft.trib.al/ZBRTezP <a href="https://bsky.app/profile/financialtimes.com/post/3ma4rei4f4w23" target="_blank">financialtimes.com</a> (2025-12-17 03:23:59)</span><span style="padding-right:50px;">Oil prices fall to 4-year low below $55 as supply glut shows up <a href="https://bsky.app/profile/yahoofinance.com/post/3ma4r7wexei2d" target="_blank">yahoofinance.com</a> (2025-12-17 03:21:27)</span>
+<span style="padding-right:50px;">Washington threatens European groups over EU’s treatment of US tech giants ft.trib.al/6cdxtSO <a href="https://bsky.app/profile/financialtimes.com/post/3ma4slsh5uf2p" target="_blank">financialtimes.com</a> (2025-12-17 03:45:59)</span><span style="padding-right:50px;">Italy's offshore wind push languishes, putting climate goals at risk reut.rs/3MMWNou <a href="https://bsky.app/profile/reuters.com/post/3ma4skosssd2r" target="_blank">reuters.com</a> (2025-12-17 03:45:21)</span><span style="padding-right:50px;">BREAKING: President Trump says he will deliver a prime-time address to the nation Wednesday night. <a href="https://bsky.app/profile/cbsnews.com/post/3ma4sk3d5dd2q" target="_blank">cbsnews.com</a> (2025-12-17 03:45:01)</span><span style="padding-right:50px;">As the federal government prepares to revise dietary recommendations on saturated fats, a review of research found benefits to cutting back. 🔗 on.wsj.com/3Y1oxZ0 <a href="https://bsky.app/profile/wsj.com/post/3ma4siuecgl2k" target="_blank">wsj.com</a> (2025-12-17 03:44:20)</span><span style="padding-right:50px;">Ford's $19.5 billion EV writedown signals tough road ahead for legacy carmakers reut.rs/3XYhNew <a href="https://bsky.app/profile/reuters.com/post/3ma4sc666u32b" target="_blank">reuters.com</a> (2025-12-17 03:40:36)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48013.49 (🔻366.68 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 22946.92 (🔻34.90 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 176.28 (🔺0.02 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.78 (🔻0.44 : 2025-12-16)</span>
+<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48149.32 (🔻230.85 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23052.97 (🔺71.15 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.55 (🔺1.29 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.72 (🔻0.50 : 2025-12-16)</span>
   </div>
 </div>
 
@@ -32,94 +32,96 @@
 
 ## News Headlines
 
-Here are six important news stories with headlines in English:
+Here are six important stories with headlines:
 
-1. Russian Bank VTB to Create Agriculture Giant from Nationalized Assets
-2. US Unemployment Rate Rises to 4-Year High in November
-3. Oil Prices Fall to 4-Year Low as Supply Glut Continues
-4. MIT Professor Killed in Shooting at His Home in Massachusetts
-5. Former Homicide Prosecutor Says LA District Attorney's Office to Investigate Nick Reiner's Mental State
-6. European Commission Proposes Reversal of 2035 Combustion Engine Ban
+1. US Unemployment Hits 4-Year High
+2. Trump to Deliver Prime-Time Address to the Nation
+3. Ford's $19.5 Billion EV Writedown Signals Tough Road Ahead for Legacy Carmakers
+4. US Added 64,000 Jobs in November, Unemployment Hits 4-Year High
+5. Trump Administration Hits Out at WTO Ahead of Crunch Meeting
+6. FIFA Slashes World Cup Ticket Prices Amid Global Backlash
 
 ----
 
-@reuters.com
-
-Russian bank VTB to create agriculture giant from nationalised assets, CEO says reut.rs/4s1ajFi
-
-[2025-12-17 03:25:17](https://bsky.app/profile/reuters.com/post/3ma4rgs3eml2k)
-
----
-
-@nytimes.com
-
-The U.S. unemployment rate rose in November to the highest level in four years. It's a warning sign for the health of a labor market that has been strained by federal layoffs and rising costs. Here's what to know.
-
-[2025-12-17 03:25:05](https://bsky.app/profile/nytimes.com/post/3ma4rgguosx2s)
-
----
-
-@cnbc.com
-
-Here's an unusual AI play for 2026: glasses
-
-[2025-12-17 03:24:23](https://bsky.app/profile/cnbc.com/post/3ma4rf6kscj24)
-
----
-
 @financialtimes.com
 
-OpenAI has hired former UK chancellor George Osborne to lead the start-up's work building 'democratic' AI for the world. ft.trib.al/ZBRTezP
+Washington threatens European groups over EU’s treatment of US tech giants ft.trib.al/6cdxtSO
 
-[2025-12-17 03:23:59](https://bsky.app/profile/financialtimes.com/post/3ma4rei4f4w23)
+[2025-12-17 03:45:59](https://bsky.app/profile/financialtimes.com/post/3ma4slsh5uf2p)
 
 ---
 
-@yahoofinance.com
+@reuters.com
 
-Oil prices fall to 4-year low below $55 as supply glut shows up
+Italy's offshore wind push languishes, putting climate goals at risk reut.rs/3MMWNou
 
-[2025-12-17 03:21:27](https://bsky.app/profile/yahoofinance.com/post/3ma4r7wexei2d)
+[2025-12-17 03:45:21](https://bsky.app/profile/reuters.com/post/3ma4skosssd2r)
 
 ---
 
 @cbsnews.com
 
-MIT professor Nuno Loureiro was killed in a shooting at his home in Brookline, Massachusetts Monday night, the school confirmed.
+<strong><span style="color: red;">BREAKING:</span> President Trump says he will deliver a prime-time address to the nation Wednesday night.</strong>
 
-[2025-12-17 03:21:01](https://bsky.app/profile/cbsnews.com/post/3ma4r75vqgu2l)
-
----
-
-@nbcnews.com
-
-Eight alleged "narco-terrorists" are killed in U.S. strikes on three suspected drug vessels in the eastern Pacific, defense officials announce.
-
-[2025-12-17 03:20:10](https://bsky.app/profile/nbcnews.com/post/3ma4r5n7ikq25)
+[2025-12-17 03:45:01](https://bsky.app/profile/cbsnews.com/post/3ma4sk3d5dd2q)
 
 ---
 
-@npr.org
+@wsj.com
 
-Former homicide prosecutor Matt Murphy says the LA district attorney's office will need to determine Nick Reiner's mental state as the investigation into Rob and Michele Reiner's killings continues. n.pr/4pJP4Gu
+As the federal government prepares to revise dietary recommendations on saturated fats, a review of research found benefits to cutting back. 🔗 on.wsj.com/3Y1oxZ0
 
-[2025-12-17 03:16:21](https://bsky.app/profile/npr.org/post/3ma4qwt24om2e)
+[2025-12-17 03:44:20](https://bsky.app/profile/wsj.com/post/3ma4siuecgl2k)
 
 ---
 
 @reuters.com
 
-Consumer goods firms cut CEO tenures short in push for growth reut.rs/3L5LZ4m
+Ford's $19.5 billion EV writedown signals tough road ahead for legacy carmakers reut.rs/3XYhNew
 
-[2025-12-17 03:15:22](https://bsky.app/profile/reuters.com/post/3ma4qv333fq2b)
+[2025-12-17 03:40:36](https://bsky.app/profile/reuters.com/post/3ma4sc666u32b)
 
 ---
 
-@nbcnews.com
+@nytimes.com
 
-<strong><span style="color: red;">JUST IN:</span> Nick Reiner is not medically cleared to appear in court, according to his attorney, after arrest in connection to death of his parents.</strong>
+New York’s attorney general, Letitia James, accused UPS of unlawfully withholding millions of dollars of seasonal workers’ wages by not paying minimum wage, overtime or other compensation required under state and federal law.
 
-[2025-12-17 03:12:06](https://bsky.app/profile/nbcnews.com/post/3ma4qp7sz4623)
+[2025-12-17 03:40:06](https://bsky.app/profile/nytimes.com/post/3ma4sbbq7uo27)
+
+---
+
+@forbes.com
+
+“Avatar: Fire and Ash,” the third in billionaire director James Cameron’s fantasy franchise, is still expected to make a big impact at the box office this weekend.
+
+[2025-12-17 03:40:04](https://bsky.app/profile/forbes.com/post/3ma4sba5coy2h)
+
+---
+
+@cbsnews.com
+
+Rob Reiner and Michele Reiner had plans with their longtime friends Michelle Obama and former President Barack Obama on Sunday, the day that the filmmaker and his wife were found dead inside their Los Angeles home, according to the former first lady.
+
+
+
+[2025-12-17 03:40:01](https://bsky.app/profile/cbsnews.com/post/3ma4sb4qk772m)
+
+---
+
+@apnews.com
+
+The price for some World Cup tickets has been slashed to $60 for teams’ most loyal fans after global backlash due to FIFA’s ticketing plans.
+
+[2025-12-17 03:39:49](https://bsky.app/profile/apnews.com/post/3ma4sarwsti23)
+
+---
+
+@japan.reuters.com
+
+Ｓ＆Ｐグローバルが１６日発表した１２月の米総合購買担当者景気指数（ＰＭＩ）速報値は５３．０だった。前月の５４．２から低下し、半年ぶりの低水準となった。新規受注が低調だった。 bit.ly/4pJEHm6
+
+[2025-12-17 03:38:16](https://bsky.app/profile/japan.reuters.com/post/3ma4s5yvtdu2c)
 
 ---
 
