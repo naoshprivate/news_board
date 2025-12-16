@@ -1,9 +1,9 @@
-# [2025-12-17 05:30 updated](2025_12_17.md)
+# [2025-12-17 05:50 updated](2025_12_17.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">From @theathleticfc.bsky.social: Manchester United&#39;s 4-4 draw with Bournemouth was the craziest game of the Premier League season and provided sensational entertainment.  We broke down the action and talking points. <a href="https://bsky.app/profile/nytimes.com/post/3ma4ycdsrvt2e" target="_blank">nytimes.com</a> (2025-12-17 05:28:04)</span><span style="padding-right:50px;">アンコールワット近くにタイ軍による空爆 カンボジア政府発表 https://news.web.nhk/newsweb/na/na-k10015006021000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma4yaliqns2x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-17 05:27:03)</span><span style="padding-right:50px;">Jane Austen would have been 250 today. A group of students have a published new edition of 'The Tour of Doctor Syntax: In Search of the Picturesque,' which was a mega bestseller during her life. <a href="https://bsky.app/profile/npr.org/post/3ma4yaggdre2g" target="_blank">npr.org</a> (2025-12-17 05:27:00)</span><span style="padding-right:50px;">Constellation Energy secures 20-year license extensions for two nuclear plants reut.rs/4oTFoYF <a href="https://bsky.app/profile/reuters.com/post/3ma4y57bm2y2i" target="_blank">reuters.com</a> (2025-12-17 05:25:12)</span><span style="padding-right:50px;">Susie Wiles, a 68-year-old political consultant, served as Trump’s campaign manager last year and has been credited with bringing order to the president's office. Now, new comments from her have emerged. ft.trib.al/C7tV55L <a href="https://bsky.app/profile/financialtimes.com/post/3ma4y4it3nw25" target="_blank">financialtimes.com</a> (2025-12-17 05:24:48)</span>
+<span style="padding-right:50px;">Two people were killed and nine were injured in a shooting on Saturday at Brown University. After determining that a man they had detained was not the killer, Rhode Island officials have searched for more evidence. Here's a timeline as the manhunt continues. <a href="https://bsky.app/profile/nytimes.com/post/3ma4zg4r7hb2z" target="_blank">nytimes.com</a> (2025-12-17 05:48:05)</span><span style="padding-right:50px;">政府「メガソーラー」新規事業への支援を廃止へ 2027年度以降 https://news.web.nhk/newsweb/na/na-k10015006001000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma4zg55rwe2y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-17 05:48:03)</span><span style="padding-right:50px;">U.S. business activity growth hits 6-month low in December reut.rs/4p9pBW0 <a href="https://bsky.app/profile/reuters.com/post/3ma4zbb4vw42o" target="_blank">reuters.com</a> (2025-12-17 05:45:21)</span><span style="padding-right:50px;">Documents released by Congress shed new light on Jeffrey Epstein's role in an attempt to help billionaire Leon Black squelch an accusation of sexual impropriety.    <a href="https://bsky.app/profile/cbsnews.com/post/3ma4zamyveb2l" target="_blank">cbsnews.com</a> (2025-12-17 05:45:00)</span><span style="padding-right:50px;">Tesla stock hits record as Wall Street rallies around robotaxi hype despite slow EV sales <a href="https://bsky.app/profile/cnbc.com/post/3ma4z3ykhvc24" target="_blank">cnbc.com</a> (2025-12-17 05:42:25)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48154.69 (🔻225.48 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23101.82 (🔺120.00 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.25 (🔺0.99 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.65 (🔻0.57 : 2025-12-16)</span>
+<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48169.18 (🔻210.99 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23144.06 (🔺162.24 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.82 (🔺1.57 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.68 (🔻0.54 : 2025-12-16)</span>
   </div>
 </div>
 
@@ -32,100 +32,97 @@
 
 ## News Headlines
 
-Here are six important stories with headlines:
+Here are the six news headlines:
 
-1. Trump Administration Expands Travel Ban to Five New Countries
-2. Legendary Pro Wrestler Mick Foley Quits WWE Over Ties to Trump
-3. Scientists Extract Rare RNA from 40,000-Year-Old Woolly Mammoth
-4. US Coast Guard Allows Revised Harassment Policy Despite Backlash
-5. Netflix's Deal for Warner Bros. Raises Concerns About Industry Consolidation
-6. Japan Launches Fifth Quasi-Zenith Satellite MICHIBIKI to Improve GPS Navigation
+1. Rhode Island Officials Release New Image of Person of Interest in Brown University Shooting
+2. US Business Activity Growth Hits 6-Month Low in December
+3. Tesla Stock Hits Record as Wall Street Rallies Around Robotaxi Hype
+4. Venezuela Faces Big Oil Discounts and Pressure for Contract Changes
+5. US Muslim Group Sues Florida's DeSantis Over 'Terrorism' Designation
+6. Plans to Ban New Combustion Engine Cars in EU by 2035 Thrown into Turmoil
 
 ----
 
 @nytimes.com
 
-From @theathleticfc.bsky.social: Manchester United&#39;s 4-4 draw with Bournemouth was the craziest game of the Premier League season and provided sensational entertainment.
+Two people were killed and nine were injured in a shooting on Saturday at Brown University. After determining that a man they had detained was not the killer, Rhode Island officials have searched for more evidence. Here's a timeline as the manhunt continues.
 
-We broke down the action and talking points.
-
-[2025-12-17 05:28:04](https://bsky.app/profile/nytimes.com/post/3ma4ycdsrvt2e)
+[2025-12-17 05:48:05](https://bsky.app/profile/nytimes.com/post/3ma4zg4r7hb2z)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-アンコールワット近くにタイ軍による空爆 カンボジア政府発表
-https://news.web.nhk/newsweb/na/na-k10015006021000
+政府「メガソーラー」新規事業への支援を廃止へ 2027年度以降
+https://news.web.nhk/newsweb/na/na-k10015006001000
 
-[2025-12-17 05:27:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma4yaliqns2x)
-
----
-
-@npr.org
-
-Jane Austen would have been 250 today. A group of students have a published new edition of 'The Tour of Doctor Syntax: In Search of the Picturesque,' which was a mega bestseller during her life.
-
-[2025-12-17 05:27:00](https://bsky.app/profile/npr.org/post/3ma4yaggdre2g)
+[2025-12-17 05:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma4zg55rwe2y)
 
 ---
 
 @reuters.com
 
-Constellation Energy secures 20-year license extensions for two nuclear plants reut.rs/4oTFoYF
+U.S. business activity growth hits 6-month low in December reut.rs/4p9pBW0
 
-[2025-12-17 05:25:12](https://bsky.app/profile/reuters.com/post/3ma4y57bm2y2i)
-
----
-
-@financialtimes.com
-
-Susie Wiles, a 68-year-old political consultant, served as Trump’s campaign manager last year and has been credited with bringing order to the president's office. Now, new comments from her have emerged. ft.trib.al/C7tV55L
-
-[2025-12-17 05:24:48](https://bsky.app/profile/financialtimes.com/post/3ma4y4it3nw25)
+[2025-12-17 05:45:21](https://bsky.app/profile/reuters.com/post/3ma4zbb4vw42o)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@cbsnews.com
 
-日本版GPS衛星「みちびき」5号機 きょう午前 打ち上げ
-https://news.web.nhk/newsweb/na/na-k10015005941000
+Documents released by Congress shed new light on Jeffrey Epstein's role in an attempt to help billionaire Leon Black squelch an accusation of sexual impropriety. 
 
-[2025-12-17 05:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma4y37d55s2w)
+
+
+[2025-12-17 05:45:00](https://bsky.app/profile/cbsnews.com/post/3ma4zamyveb2l)
+
+---
+
+@cnbc.com
+
+Tesla stock hits record as Wall Street rallies around robotaxi hype despite slow EV sales
+
+[2025-12-17 05:42:25](https://bsky.app/profile/cnbc.com/post/3ma4z3ykhvc24)
+
+---
+
+@reuters.com
+
+Venezuela faces big oil discounts, pressure for contract changes after tanker seizure reut.rs/48K2mgg
+
+[2025-12-17 05:40:23](https://bsky.app/profile/reuters.com/post/3ma4yyex3vs2r)
+
+---
+
+@japan.reuters.com
+
+米商務省が１６日発表した９月の企業在庫は０．２％増と、ロイターがまとめたエコノミスト予想の０．１％増を小幅上回った。第３・四半期の経済成長に在庫が寄与した可能性を示唆した。 bit.ly/4p0EtWC
+
+[2025-12-17 05:40:22](https://bsky.app/profile/japan.reuters.com/post/3ma4yydk6tk2c)
+
+---
+
+@nbcnews.com
+
+Rhode Island officials release a new image of a person of interest as the search continues for the shooter who killed two Brown University students and injured nine others on Saturday.
+
+[2025-12-17 05:40:10](https://bsky.app/profile/nbcnews.com/post/3ma4yxyehy62q)
 
 ---
 
 @wsj.com
 
-A young woolly mammoth died 40,000 years ago, its body preserved in the Siberian permafrost. Scientists were able to extract rare RNA from its skin and tissues.
+Exclusive: President Trump is set to interview another candidate for Federal Reserve chair, Fed governor Christopher Waller, on Wednesday.
 
-[2025-12-17 05:23:34](https://bsky.app/profile/wsj.com/post/3ma4y2cfsp72c)
-
----
-
-@axios.com
-
-Susie Wiles calls the Vanity Fair interview a "hit piece."
-
-Here's what to know about her.
-
-[2025-12-17 05:23:20](https://bsky.app/profile/axios.com/post/3ma4xzuyeik23)
+[2025-12-17 05:40:06](https://bsky.app/profile/wsj.com/post/3ma4yxufizx2q)
 
 ---
 
-@nytimes.com
+@nbcnews.com
 
-Aritzia's Effortless Pant is a straight-leg, high-rise pleated pant that claims to be “the original goes-with-everything trouser.” Our style writer enlisted the help of a panel of testers to try on every style — and there are a lot — so you don't have to.
+Vanity Fair published the two-part profile on Tuesday based on a wide-ranging series of 11 interviews over the course of a year with White House chief of staff Susie Wiles.
 
-[2025-12-17 05:23:04](https://bsky.app/profile/nytimes.com/post/3ma4xzfumqd2b)
-
----
-
-@apnews.com
-
-<strong><span style="color: red;">BREAKING:</span> The Trump administration expands travel ban to include Burkina Faso, Mali, Niger, South Sudan and Syria.</strong>
-
-[2025-12-17 05:22:46](https://bsky.app/profile/apnews.com/post/3ma4xyu2mhd24)
+[2025-12-17 05:36:27](https://bsky.app/profile/nbcnews.com/post/3ma4yrdaty22z)
 
 ---
 
