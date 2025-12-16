@@ -1,9 +1,9 @@
-# [2025-12-16 13:50 updated](2025_12_16.md)
+# [2025-12-16 14:10 updated](2025_12_16.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">オーストラリアの観光名所ボンダイビーチで１４日に起きた銃撃事件で、容疑者の１人から銃を奪い取ったシドニー在住の男性が、手術を受けて病院で回復している。男性への寄付金は１１０万豪ドル（約１億１３００万円）を突破した。 bit.ly/3MC66aU <a href="https://bsky.app/profile/japan.reuters.com/post/3ma3dtbihib2q" target="_blank">japan.reuters.com</a> (2025-12-16 13:49:04)</span><span style="padding-right:50px;">与野党 選択的夫婦別姓めぐり 氏制度をテーマに閉会中審査へ https://news.web.nhk/newsweb/na/na-k10015005351000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3dri7znf2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 13:48:02)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】JAL便（函館⇒奥尻）が函館空港に引き返し 補助翼の不具合発生 雪が補助翼に凍りついた可能性 5日前には別機体がプロペラの停止で緊急着陸 (2025-12-16 13:46:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma3dqpupap2b" target="_blank">sokuho.news</a> (2025-12-16 13:47:38)</span><span style="padding-right:50px;">ベトナムの電気自動車（ＥＶ）メーカー、ビンファストは、インドネシア向け投資を将来の需要次第で最大１０億ドルへ拡大する方針だ。インドネシア法人のカリアント・ハルジョソエマルト最高経営責任者（ＣＥＯ）が１５日にロイターに明らかにした。 bit.ly/4pKMJeo <a href="https://bsky.app/profile/japan.reuters.com/post/3ma3dlnbz3s2p" target="_blank">japan.reuters.com</a> (2025-12-16 13:44:48)</span><span style="padding-right:50px;">イタリアのメローニ首相とフランスのマクロン大統領は、欧州連合（ＥＵ）と南米南部共同市場（メルコスル）の自由貿易協定（ＦＴＡ）締結に向けた最終採決を延期する必要性があるとの見解で合意した。消息筋２人が１５日、明らかにした。 bit.ly/4oVOkgg <a href="https://bsky.app/profile/japan.reuters.com/post/3ma3dhtyqdd26" target="_blank">japan.reuters.com</a> (2025-12-16 13:42:41)</span>
+<span style="padding-right:50px;"> The key distinction Europe must make on trade policies on.ft.com/3YthW9N  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3ma3exsc2kj2w" target="_blank">financialtimes.com</a> (2025-12-16 14:09:29)</span><span style="padding-right:50px;"> Juventus bid battle brings a new meaning to ‘crypto vs fiat’ on.ft.com/49exdBu  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3ma3exrmqua2c" target="_blank">financialtimes.com</a> (2025-12-16 14:09:29)</span><span style="padding-right:50px;">Global brands seek PE partners to save their China businesses on.ft.com/4rYeRMz <a href="https://bsky.app/profile/financialtimes.com/post/3ma3exgtrpe2y" target="_blank">financialtimes.com</a> (2025-12-16 14:09:17)</span><span style="padding-right:50px;">前場の中国・香港株式市場は続落。一連の米経済指標発表を控えて警戒感が広がる中、アジアの株安に追随し、全面安の展開となった。 bit.ly/450tSna <a href="https://bsky.app/profile/japan.reuters.com/post/3ma3ewhlfsk2c" target="_blank">japan.reuters.com</a> (2025-12-16 14:08:45)</span><span style="padding-right:50px;">Correction: The Philippines says the father and son behind the Bondi attack in Sydney — one an Indian national — visited the country last month <a href="https://bsky.app/profile/bloomberg.com/post/3ma3ew52nnz2f" target="_blank">bloomberg.com</a> (2025-12-16 14:08:34)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49524.32 (🔻526.92 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3338.00 (🔻42.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.79 (🔻0.43 : 2025-12-16)</span>
+<span style="padding-right:50px;">NIKKEI: 49550.83 (🔻500.41 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3340.00 (🔻40.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.75 (🔻0.47 : 2025-12-16)</span>
   </div>
 </div>
 
@@ -34,103 +34,99 @@
 
 Here are six important stories with headlines in English:
 
-1. Australian Hero: Man Who Disarmed Gunman at Bondi Beach Now Recovering in Hospital
-2. Italy and France Agree to Delay EU-Mercosur Trade Deal
-3. Trump Sues BBC for $100 Billion Over Documentary Editing
-4. Japan to Make Nationality Disclosure Mandatory for Property Purchases
-5. Biden Administration to Establish New Aviation Safety Office
-6. Musk's Net Worth Reaches $60 Billion as SpaceX Prepares for IPO
+1. Europe Must Distinguish Between Trade Policies
+2. Juventus' Crypto vs Fiat Bid Battle Takes a New Turn
+3. Global Brands Seek PE Partners to Save China Businesses
+4. US Suspends Technology Deal with Britain
+5. Ukraine's Zelensky Warns of Tougher Sanctions on Russia
+6. US Approves Drug to Boost Female Libido for Women Over 65
 
 ----
 
-@japan.reuters.com
+@financialtimes.com
 
-オーストラリアの観光名所ボンダイビーチで１４日に起きた銃撃事件で、容疑者の１人から銃を奪い取ったシドニー在住の男性が、手術を受けて病院で回復している。男性への寄付金は１１０万豪ドル（約１億１３００万円）を突破した。 bit.ly/3MC66aU
+ The key distinction Europe must make on trade policies on.ft.com/3YthW9N  | opinion
 
-[2025-12-16 13:49:04](https://bsky.app/profile/japan.reuters.com/post/3ma3dtbihib2q)
+[2025-12-16 14:09:29](https://bsky.app/profile/financialtimes.com/post/3ma3exsc2kj2w)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@financialtimes.com
 
-与野党 選択的夫婦別姓めぐり 氏制度をテーマに閉会中審査へ
-https://news.web.nhk/newsweb/na/na-k10015005351000
+ Juventus bid battle brings a new meaning to ‘crypto vs fiat’ on.ft.com/49exdBu  | opinion
 
-[2025-12-16 13:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3dri7znf2s)
+[2025-12-16 14:09:29](https://bsky.app/profile/financialtimes.com/post/3ma3exrmqua2c)
+
+---
+
+@financialtimes.com
+
+Global brands seek PE partners to save their China businesses on.ft.com/4rYeRMz
+
+[2025-12-16 14:09:17](https://bsky.app/profile/financialtimes.com/post/3ma3exgtrpe2y)
+
+---
+
+@japan.reuters.com
+
+前場の中国・香港株式市場は続落。一連の米経済指標発表を控えて警戒感が広がる中、アジアの株安に追随し、全面安の展開となった。 bit.ly/450tSna
+
+[2025-12-16 14:08:45](https://bsky.app/profile/japan.reuters.com/post/3ma3ewhlfsk2c)
+
+---
+
+@bloomberg.com
+
+Correction: The Philippines says the father and son behind the Bondi attack in Sydney — one an Indian national — visited the country last month
+
+[2025-12-16 14:08:34](https://bsky.app/profile/bloomberg.com/post/3ma3ew52nnz2f)
 
 ---
 
 @sokuho.news
 
-🛎️JNNより【速報】です。
+🛎️NNNより【速報】です。
 
-【速報】JAL便（函館⇒奥尻）が函館空港に引き返し 補助翼の不具合発生 雪が補助翼に凍りついた可能性 5日前には別機体がプロペラの停止で緊急着陸
-(2025-12-16 13:46:00) #ニュース
+【速報】東京デフ金＆銅の佐々木琢磨選手（五戸町出身）に青森県民栄誉賞の授与が決定！
+(2025-12-16 14:07) #ニュース
 
-[2025-12-16 13:47:38](https://bsky.app/profile/sokuho.news/post/3ma3dqpupap2b)
-
----
-
-@japan.reuters.com
-
-ベトナムの電気自動車（ＥＶ）メーカー、ビンファストは、インドネシア向け投資を将来の需要次第で最大１０億ドルへ拡大する方針だ。インドネシア法人のカリアント・ハルジョソエマルト最高経営責任者（ＣＥＯ）が１５日にロイターに明らかにした。 bit.ly/4pKMJeo
-
-[2025-12-16 13:44:48](https://bsky.app/profile/japan.reuters.com/post/3ma3dlnbz3s2p)
-
----
-
-@japan.reuters.com
-
-イタリアのメローニ首相とフランスのマクロン大統領は、欧州連合（ＥＵ）と南米南部共同市場（メルコスル）の自由貿易協定（ＦＴＡ）締結に向けた最終採決を延期する必要性があるとの見解で合意した。消息筋２人が１５日、明らかにした。 bit.ly/4oVOkgg
-
-[2025-12-16 13:42:41](https://bsky.app/profile/japan.reuters.com/post/3ma3dhtyqdd26)
+[2025-12-16 14:07:37](https://bsky.app/profile/sokuho.news/post/3ma3eugzcwx2a)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-トランプ大統領 BBCを提訴 演説編集で100億ドル超賠償求める
-https://news.web.nhk/newsweb/na/na-k10015005341000
+【地震速報】福井県大野市で震度3 津波の心配なし
+https://news.web.nhk/newsweb/na/na-k10015005471000
 
-[2025-12-16 13:42:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3dgwogz72m)
-
----
-
-@nikkei.com
-
-個人の不動産取得、登記時に国籍提出を義務化　26年度に運用開始（無料記事）
-www.nikkei.com/article/DGXZQO...
-
-登記の申請書に国籍を記入する欄を設け、パスポートや住民票など国籍が確認できる本人確認書類の提出も求めます。日本人も国籍把握の対象です。
-
-#ニュース
-
-[2025-12-16 13:42:06](https://bsky.app/profile/nikkei.com/post/3ma3dgswpos24)
+[2025-12-16 14:06:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3ero5ttd2v)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@sokuho.news
 
-三菱UFJフィナンシャル・グループ 半沢淳一氏が社長昇格
-https://news.web.nhk/newsweb/na/na-k10015005311000
+🛎️FNNより【速報】です。
 
-[2025-12-16 13:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3dgrmrb326)
+【速報】北新地クリニック放火殺人事件から17日で4年を前に遺族が会見「『明日死ぬかもしれない』は被害者遺族にとって物語の中の話ではない」幼い子供と共に残された経済的負担 被害者支…
+(2025-12-16 13:53) #ニュース
+
+[2025-12-16 14:05:49](https://bsky.app/profile/sokuho.news/post/3ma3era4sed2r)
 
 ---
 
 @japan.reuters.com
 
-トランプ米大統領は１５日、映画監督兼俳優のロブ・ライナーさん（７８）と妻ミシェルさん（７０）が殺害された事件を巡り、反トランプ氏を鮮明にしていたライナーさんが「トランプ錯乱症候群」の見解のために死に至ったと交流サイト（ＳＮＳ）に投稿した。 bit.ly/49czZHs
+シティグループは２０２６年末のＳ＆Ｐ総合５００種の目標を７７００に設定した。堅調な企業収益や人工知能（ＡＩ）投資による追い風継続が相場を支える見込みとした。 bit.ly/4aiSCdT
 
-[2025-12-16 13:40:15](https://bsky.app/profile/japan.reuters.com/post/3ma3ddj2vua25)
+[2025-12-16 14:05:13](https://bsky.app/profile/japan.reuters.com/post/3ma3eq5othl2q)
 
 ---
 
-@reuters.com
+@financialtimes.com
 
-Bournemouth and Man United share spoils in eight-goal thriller reut.rs/3Y0KnvI
+Bondi Beach attack ‘inspired’ by Isis, Australian police say on.ft.com/490ls0l
 
-[2025-12-16 13:40:14](https://bsky.app/profile/reuters.com/post/3ma3ddinveb24)
+[2025-12-16 14:04:49](https://bsky.app/profile/financialtimes.com/post/3ma3epgot3k23)
 
 ---
 
