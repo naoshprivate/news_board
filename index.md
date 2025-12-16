@@ -1,9 +1,9 @@
-# [2025-12-16 20:50 updated](2025_12_16.md)
+# [2025-12-16 21:10 updated](2025_12_16.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Charles Schwab's CEO Rick Wurster sat down with WSJ to discuss prediction markets, young investors and how he views the Trump accounts. <a href="https://bsky.app/profile/wsj.com/post/3ma43ch57us2s" target="_blank">wsj.com</a> (2025-12-16 20:49:09)</span><span style="padding-right:50px;">“iPS細胞から作った心筋球で心機能改善” 慶応大発ベンチャー https://news.web.nhk/newsweb/na/na-k10015005871000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma43ajykld2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 20:48:02)</span><span style="padding-right:50px;">政府は、来週にも閣議決定する２０２６年度一般会計予算案で、歳出総額を１２０兆円超とする方向で調整に入った。複数の政府筋が明らかにした。予算規模は２５年度（１１５兆１９７８億円）を超え、過去最大となる。 bit.ly/3KyQoNd <a href="https://bsky.app/profile/japan.reuters.com/post/3ma433ii7if2c" target="_blank">japan.reuters.com</a> (2025-12-16 20:45:16)</span><span style="padding-right:50px;">Japan's last two giant pandas are headed to China and fans just can't bear it reut.rs/48WZbR5 <a href="https://bsky.app/profile/reuters.com/post/3ma433gorkc2i" target="_blank">reuters.com</a> (2025-12-16 20:45:14)</span><span style="padding-right:50px;">11月のコメ「相対取引価格」 前月より下落も依然高い水準続く https://news.web.nhk/newsweb/na/na-k10015005901000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma4336splh2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 20:45:03)</span>
+<span style="padding-right:50px;">Warm Or White Christmas This Year? A Meteorologist Explains www.forbes.com/sites/marsha... (Photo: Getty Images) <a href="https://bsky.app/profile/forbes.com/post/3ma44gbgimk2d" target="_blank">forbes.com</a> (2025-12-16 21:09:11)</span><span style="padding-right:50px;">Exclusive: Kraft Heinz is replacing its CEO after a tumultuous period that culminated in the decision to break up the company. <a href="https://bsky.app/profile/wsj.com/post/3ma44f45i2e2r" target="_blank">wsj.com</a> (2025-12-16 21:08:32)</span><span style="padding-right:50px;">The World’s Highest-Paid Female Athletes 2025 <a href="https://bsky.app/profile/forbes.com/post/3ma44cgrxns2d" target="_blank">forbes.com</a> (2025-12-16 21:07:02)</span><span style="padding-right:50px;">Europe's best-performing stock is up 1,400% this year. Here's what next <a href="https://bsky.app/profile/cnbc.com/post/3ma44c64w5r2p" target="_blank">cnbc.com</a> (2025-12-16 21:06:53)</span><span style="padding-right:50px;">The 21-year-old superstar faced sky-high expectations almost from the moment she picked up a racket, but the world’s highest-paid female athlete has aced every test—and now she’s thinking even bigger. www.forbes.com/sites/justin... (Photo: Guerin Blask for Forbes) <a href="https://bsky.app/profile/forbes.com/post/3ma44bh6bn22d" target="_blank">forbes.com</a> (2025-12-16 21:06:29)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.82 (🔻0.41 : 2025-12-16)</span>
+<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.82 (🔻0.40 : 2025-12-16)</span>
   </div>
 </div>
 
@@ -32,96 +32,98 @@
 
 ## News Headlines
 
-Here are six headlines in English:
+Here are six important stories with headlines in English:
 
-1. Japan's last two giant pandas headed to China
-2. US President Trump sues BBC for $10 billion over documentary
-3. EU to allow sale of non-electric cars beyond 2035
-4. India private sector growth hits 10-month low in December
-5. Australia's worst mass shooting in nearly 30 years leaves 16 dead
-6. Powerball jackpot grows to $1.25 billion for Wednesday's drawing
+1. China Imposes 4.9-19.8% Tariff on EU Pork Imports
+2. US Suspends Tech Deal with UK Amid Trade Dispute
+3. Roger Lumbala, Former DR Congo Rebel Leader, Sentenced to 30 Years in Jail
+4. Japan's Last Two Giant Pandas to Leave for China Amid Fan Backlash
+5. Nick Reiner Arrested on Suspicion of Murder of Parents Rob and Michele Reiner
+6. China's Escalation Dominance over Trump Sparks Global Concern
 
 ----
 
+@forbes.com
+
+Warm Or White Christmas This Year? A Meteorologist Explains
+www.forbes.com/sites/marsha... (Photo: Getty Images)
+
+[2025-12-16 21:09:11](https://bsky.app/profile/forbes.com/post/3ma44gbgimk2d)
+
+---
+
 @wsj.com
 
-Charles Schwab's CEO Rick Wurster sat down with WSJ to discuss prediction markets, young investors and how he views the Trump accounts.
+Exclusive: Kraft Heinz is replacing its CEO after a tumultuous period that culminated in the decision to break up the company.
 
-[2025-12-16 20:49:09](https://bsky.app/profile/wsj.com/post/3ma43ch57us2s)
-
----
-
-@nhknewsunofficial.bsky.social
-
-“iPS細胞から作った心筋球で心機能改善” 慶応大発ベンチャー
-https://news.web.nhk/newsweb/na/na-k10015005871000
-
-[2025-12-16 20:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma43ajykld2m)
+[2025-12-16 21:08:32](https://bsky.app/profile/wsj.com/post/3ma44f45i2e2r)
 
 ---
 
-@japan.reuters.com
+@forbes.com
 
-政府は、来週にも閣議決定する２０２６年度一般会計予算案で、歳出総額を１２０兆円超とする方向で調整に入った。複数の政府筋が明らかにした。予算規模は２５年度（１１５兆１９７８億円）を超え、過去最大となる。 bit.ly/3KyQoNd
+The World’s Highest-Paid Female Athletes 2025
 
-[2025-12-16 20:45:16](https://bsky.app/profile/japan.reuters.com/post/3ma433ii7if2c)
-
----
-
-@reuters.com
-
-Japan's last two giant pandas are headed to China and fans just can't bear it reut.rs/48WZbR5
-
-[2025-12-16 20:45:14](https://bsky.app/profile/reuters.com/post/3ma433gorkc2i)
+[2025-12-16 21:07:02](https://bsky.app/profile/forbes.com/post/3ma44cgrxns2d)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@cnbc.com
 
-11月のコメ「相対取引価格」 前月より下落も依然高い水準続く
-https://news.web.nhk/newsweb/na/na-k10015005901000
+Europe's best-performing stock is up 1,400% this year. Here's what next
 
-[2025-12-16 20:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma4336splh2v)
-
----
-
-@en.afp.com
-
-The BBC said on Tuesday it would fight a $10-billion lawsuit brought by US President Donald Trump against the British broadcaster over a documentary that edited his 2021 speech ahead of the US Capitol riot ➡️ u.afp.com/S7Hj
-
-[2025-12-16 20:42:57](https://bsky.app/profile/en.afp.com/post/3ma42xekuoi2f)
+[2025-12-16 21:06:53](https://bsky.app/profile/cnbc.com/post/3ma44c64w5r2p)
 
 ---
 
-@financialtimes.com
+@forbes.com
 
-China’s escalation dominance over Trump ft.trib.al/lbbs2l2
+The 21-year-old superstar faced sky-high expectations almost from the moment she picked up a racket, but the world’s highest-paid female athlete has aced every test—and now she’s thinking even bigger. www.forbes.com/sites/justin... (Photo: Guerin Blask for Forbes)
 
-[2025-12-16 20:42:21](https://bsky.app/profile/financialtimes.com/post/3ma42wbysdw2w)
-
----
-
-@reuters.com
-
-Man and couple who died trying to stop Bondi Beach attackers praised for heroic efforts reut.rs/3YtA4jR
-
-[2025-12-16 20:40:23](https://bsky.app/profile/reuters.com/post/3ma42srbk342c)
+[2025-12-16 21:06:29](https://bsky.app/profile/forbes.com/post/3ma44bh6bn22d)
 
 ---
 
 @japan.reuters.com
 
-中国外務省は１６日、高市早苗首相の台湾に関する発言を撤回するよう改めて要求した。 bit.ly/4j03q2L
+中国は１６日、欧州連合（ＥＵ）産豚肉に４．９─１９．８％の反ダンピング（不当廉売）関税を課すと発表した。１７日から５年間適用。関税率は９月に暫定決定で課した１５．６─６２．４％から大幅に引き下げられた。 bit.ly/3KCcvSV
 
-[2025-12-16 20:40:21](https://bsky.app/profile/japan.reuters.com/post/3ma42spranv2c)
+[2025-12-16 21:05:21](https://bsky.app/profile/japan.reuters.com/post/3ma447ftgku2v)
 
 ---
 
-@nbcnews.com
+@reuters.com
 
-Providence officials released new photos and videos of a person of interest in the campus shooting. A man detained over the weekend was released because the evidence no longer supported holding him, officials says. 
+US Treasuries rebuilding risk premia reut.rs/4oViFvi
 
-[2025-12-16 20:40:13](https://bsky.app/profile/nbcnews.com/post/3ma42sht4kk22)
+[2025-12-16 21:05:17](https://bsky.app/profile/reuters.com/post/3ma447bzrbs2x)
+
+---
+
+@cnbc.com
+
+This streaming stock is on fire this year. Morgan Stanley expects even more gains ahead
+
+[2025-12-16 21:04:39](https://bsky.app/profile/cnbc.com/post/3ma44666htm2i)
+
+---
+
+@forbes.com
+
+AI Bathroom Monitors? Welcome To America’s New Surveillance High Schools
+
+Full story: 
+www.forbes.com/sites/thomas... (Illustration: Yunjia Yuan for Forbes; Photo: Pete Leonard via Getty Images)
+
+[2025-12-16 21:03:37](https://bsky.app/profile/forbes.com/post/3ma444cjd6s2d)
+
+---
+
+@japan.reuters.com
+
+Ｓ＆Ｐグローバルが１６日発表した英国の１２月総合購買担当者景気指数（ＰＭＩ）速報値は５２．１で、１１月の５１．２から上昇した。国内企業は、財務相が１１月下旬に発表した予算案による増税への懸念から脱しつつあるもようだ。 bit.ly/4p0QQSz
+
+[2025-12-16 21:02:28](https://bsky.app/profile/japan.reuters.com/post/3ma442awbva2s)
 
 ---
 
