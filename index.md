@@ -1,9 +1,9 @@
-# [2025-12-16 12:30 updated](2025_12_16.md)
+# [2025-12-16 12:50 updated](2025_12_16.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">米 フォード EV事業見直しで約3兆円の損失と追加費用を計上 https://news.web.nhk/newsweb/na/na-k10015005161000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma37as5ey42x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 12:27:07)</span><span style="padding-right:50px;">補正予算案が参院予算委で可決 きょう本会議で成立の見通し https://news.web.nhk/newsweb/na/na-k10015005071000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma37anmgfj22" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 12:27:02)</span><span style="padding-right:50px;">トランプ米政権高官は１５日、国防とハイテク分野向け重要鉱物の生産を強化するため、政権が米鉱業部門とのさらなる「歴史的取引」を計画していると語った。 bit.ly/4q6q0Jn <a href="https://bsky.app/profile/japan.reuters.com/post/3ma377e7rkv27" target="_blank">japan.reuters.com</a> (2025-12-16 12:26:21)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】18兆3000億円規模の補正予算案が参院予算委員会で可決 (2025-12-16 12:24:24) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma376ius5n2y" target="_blank">sokuho.news</a> (2025-12-16 12:25:52)</span><span style="padding-right:50px;">🔔NHKより【速報 JUST IN】です。  補正予算案が参院予算委で可決 きょう本会議で成立の見通し (2025-12-16 12:24:59) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma375nrr242v" target="_blank">sokuho.news</a> (2025-12-16 12:25:23)</span>
+<span style="padding-right:50px;">カーリング五輪最終予選 混合ダブルス 日本代表 通算2勝2敗に https://news.web.nhk/newsweb/na/na-k10015005101000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3aga2wff2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 12:48:03)</span><span style="padding-right:50px;">米取引所運営大手ナスダックは米国株に対する世界的な需要を取り込むため、２４時間取引に向けた書類を１５日に米証券取引委員会（ＳＥＣ）に提出する。 bit.ly/4iZIOaT <a href="https://bsky.app/profile/japan.reuters.com/post/3ma3abjhqwc2c" target="_blank">japan.reuters.com</a> (2025-12-16 12:45:27)</span><span style="padding-right:50px;">株価 値下がり 半導体関連を中心に売り注文 https://news.web.nhk/newsweb/na/na-k10015005241000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3aauk5al2x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 12:45:02)</span><span style="padding-right:50px;">フィリピン  のテオドロ  国防相  は１６日、中国海警局が先週南シナ海で行ったフィリピン人漁師に対する行為は「危険」で「非人道的」だったと非難した。 bit.ly/3MEzVYr <a href="https://bsky.app/profile/japan.reuters.com/post/3ma3a545fij25" target="_blank">japan.reuters.com</a> (2025-12-16 12:42:59)</span><span style="padding-right:50px;">高市早苗首相は１６日の参院予算委員会集中審議で、日中関係が緊張する中、両国間でさまざまな対話を行うことに「日本側はオープン」と述べるとともに、中国側の一連の措置による影響などを注視し適切に対応する考えを示した。広田一委員（立憲）への答弁。 bit.ly/4pEJuFc <a href="https://bsky.app/profile/japan.reuters.com/post/3ma37ym7r7s2c" target="_blank">japan.reuters.com</a> (2025-12-16 12:40:28)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49523.56 (🔻527.68 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3340.00 (🔻40.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.88 (🔻0.34 : 2025-12-16)</span>
+<span style="padding-right:50px;">NIKKEI: 49386.69 (🔻664.55 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3334.00 (🔻46.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.90 (🔻0.32 : 2025-12-16)</span>
   </div>
 </div>
 
@@ -32,40 +32,91 @@
 
 ## News Headlines
 
-Here are six news headlines in English:
-
-1. Japan's LDP Eyes $300 Billion Loss and Extra Spending on Ford EV Business Overhaul
-2. Japanese Upper House Passes Budget Revision Bill, Expected to Pass in Lower House Today
-3. US Official Says Ukraine May Seek NATO Security Guarantee Modelled on Article 5
-4. Tesla Stock Surges to 1-Year High on Elon Musk's Comments on Robo-Taxi Testing
-5. European Union May Ease Ban on Internal Combustion Engine Cars to 10% of New Sales by 2035
-6. Australian Police Say Hanukkah Attack Was Terrorist Attack Inspired by Islamic State
+1. Japan Mixed Doubles Curling Team Advances to Olympics with 2 Wins and 2 Losses
+2. Nasdaq to Submit 24-Hour Trading Proposal to SEC to Boost Global Demand for US Stocks
+3. Stock Prices Decline, with Semiconductor-Related Stocks Seeing Heavy Selling Orders
+4. Philippine Defense Chief Condemns China's Actions Against Filipino Fishermen in the South China Sea
+5. Japanese Prime Minister Suga Emphasizes Japan's Openness to Dialogue with China Amid Rising Tensions
+6. FDA Has No Plans to Add Strong Warning Label to COVID Vaccines, Bloomberg Reports
 
 ----
 
 @nhknewsunofficial.bsky.social
 
-米 フォード EV事業見直しで約3兆円の損失と追加費用を計上
-https://news.web.nhk/newsweb/na/na-k10015005161000
+カーリング五輪最終予選 混合ダブルス 日本代表 通算2勝2敗に
+https://news.web.nhk/newsweb/na/na-k10015005101000
 
-[2025-12-16 12:27:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma37as5ey42x)
-
----
-
-@nhknewsunofficial.bsky.social
-
-補正予算案が参院予算委で可決 きょう本会議で成立の見通し
-https://news.web.nhk/newsweb/na/na-k10015005071000
-
-[2025-12-16 12:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma37anmgfj22)
+[2025-12-16 12:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3aga2wff2s)
 
 ---
 
 @japan.reuters.com
 
-トランプ米政権高官は１５日、国防とハイテク分野向け重要鉱物の生産を強化するため、政権が米鉱業部門とのさらなる「歴史的取引」を計画していると語った。 bit.ly/4q6q0Jn
+米取引所運営大手ナスダックは米国株に対する世界的な需要を取り込むため、２４時間取引に向けた書類を１５日に米証券取引委員会（ＳＥＣ）に提出する。 bit.ly/4iZIOaT
 
-[2025-12-16 12:26:21](https://bsky.app/profile/japan.reuters.com/post/3ma377e7rkv27)
+[2025-12-16 12:45:27](https://bsky.app/profile/japan.reuters.com/post/3ma3abjhqwc2c)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+株価 値下がり 半導体関連を中心に売り注文
+https://news.web.nhk/newsweb/na/na-k10015005241000
+
+[2025-12-16 12:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3aauk5al2x)
+
+---
+
+@japan.reuters.com
+
+フィリピン
+ のテオドロ
+ 国防相
+ は１６日、中国海警局が先週南シナ海で行ったフィリピン人漁師に対する行為は「危険」で「非人道的」だったと非難した。 bit.ly/3MEzVYr
+
+[2025-12-16 12:42:59](https://bsky.app/profile/japan.reuters.com/post/3ma3a545fij25)
+
+---
+
+@japan.reuters.com
+
+高市早苗首相は１６日の参院予算委員会集中審議で、日中関係が緊張する中、両国間でさまざまな対話を行うことに「日本側はオープン」と述べるとともに、中国側の一連の措置による影響などを注視し適切に対応する考えを示した。広田一委員（立憲）への答弁。 bit.ly/4pEJuFc
+
+[2025-12-16 12:40:28](https://bsky.app/profile/japan.reuters.com/post/3ma37ym7r7s2c)
+
+---
+
+@reuters.com
+
+FDA has no plans to put most serious warning on COVID vaccines, Bloomberg News reports reut.rs/4aBPWZd
+
+[2025-12-16 12:40:19](https://bsky.app/profile/reuters.com/post/3ma37ydotix2k)
+
+---
+
+@nytimes.com
+
+Joe Ely has died at 78. A singer-songwriter at the forefront of alt-country, he earned the nickname Lord of the Highway thanks to tireless touring.
+
+[2025-12-16 12:40:03](https://bsky.app/profile/nytimes.com/post/3ma37xujb3x2s)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+経済同友会 新浪氏後任の代表幹事に日本IBM社長の山口明夫氏へ
+https://news.web.nhk/newsweb/na/na-k10015005221000
+
+[2025-12-16 12:39:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma37waxv2v2s)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【地震情報】宮城県で震度3 津波の心配なし
+https://news.web.nhk/newsweb/na/na-k10015003931000
+
+[2025-12-16 12:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma37w47nll2b)
 
 ---
 
@@ -73,61 +124,10 @@ https://news.web.nhk/newsweb/na/na-k10015005071000
 
 🛎️JNNより【速報】です。
 
-【速報】18兆3000億円規模の補正予算案が参院予算委員会で可決
-(2025-12-16 12:24:24) #ニュース
+【速報】経済同友会 代表幹事に日本IBM・山口社長を起用へ 違法サプリ問題で辞任した新浪剛史氏の後任
+(2025-12-16 12:34:30) #ニュース
 
-[2025-12-16 12:25:52](https://bsky.app/profile/sokuho.news/post/3ma376ius5n2y)
-
----
-
-@sokuho.news
-
-<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>補正予算案が参院予算委で可決 きょう本会議で成立の見通し</strong><br><strong>(2025-12-16 12:24:59) #ニュース</strong>
-
-[2025-12-16 12:25:23](https://bsky.app/profile/sokuho.news/post/3ma375nrr242v)
-
----
-
-@japan.reuters.com
-
-トランプ米大統領は１５日、大麻を危険性の低い薬物に再分類する大統領令を検討していると述べた。これにより大麻産業の再編や刑事罰の緩和などにつながる可能性がある。 bit.ly/49eWED6
-
-[2025-12-16 12:25:21](https://bsky.app/profile/japan.reuters.com/post/3ma375l7mrr2u)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】姫路市の養鶏場で鳥インフルエンザ 兵庫県 過去最大級の24万羽の殺処分開始
-(2025-12-16 12:06) #ニュース
-
-[2025-12-16 12:21:23](https://bsky.app/profile/sokuho.news/post/3ma36wi7bql2a)
-
----
-
-@japan.reuters.com
-
-午前のドルは１５５円前半から１５４円後半へじり安となった。米国の雇用統計や日銀の金融政策決定会合を控えて大きくポジションを傾けづらい状況は変わらないが、年末に絡むフローへの思惑もあり、相場が上下する場面もあった。 bit.ly/4iZugrL
-
-[2025-12-16 12:20:46](https://bsky.app/profile/japan.reuters.com/post/3ma36vfedse22)
-
----
-
-@japan.reuters.com
-
-米当局者は１５日、ウクライナがロシアとの和平合意案の下、北大西洋条約機構（ＮＡＴＯ）の集団防衛を定める北大西洋条約第５条をモデルにした安全の保証を受ける可能性があると記者団に述べた。 bit.ly/4iWuRKS
-
-[2025-12-16 12:20:36](https://bsky.app/profile/japan.reuters.com/post/3ma36v426p62s)
-
----
-
-@reuters.com
-
-Flash flood warnings follow levee breach in Washington state reut.rs/48DiMH8
-
-[2025-12-16 12:20:21](https://bsky.app/profile/reuters.com/post/3ma36unojq22b)
+[2025-12-16 12:36:15](https://bsky.app/profile/sokuho.news/post/3ma37r3ihei2r)
 
 ---
 
