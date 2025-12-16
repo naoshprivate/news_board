@@ -1,9 +1,9 @@
-# [2025-12-17 00:10 updated](2025_12_17.md)
+# [2025-12-17 00:30 updated](2025_12_17.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Matcha balances the usual sweetness of sugar cookies. Its grassy hue naturally tints these tender cookies a festive green. nyti.ms/4j3F5cz <a href="https://bsky.app/profile/nytimes.com/post/3ma4gclinv42s" target="_blank">nytimes.com</a> (2025-12-17 00:06:05)</span><span style="padding-right:50px;">BBC says it will fight Trump lawsuit over edited speech reut.rs/4p1KVN0 <a href="https://bsky.app/profile/reuters.com/post/3ma4gb4udnb2r" target="_blank">reuters.com</a> (2025-12-17 00:05:16)</span><span style="padding-right:50px;">米商務省が１６日発表した１０月の小売売上高（季節調整済み）は前月から横ばいとなった。ロイターがまとめたエコノミスト予想は０．１％増だった。生活費の上昇で一部世帯が支出の抑制を強いられる状況にある。 bit.ly/3KA2zJH <a href="https://bsky.app/profile/japan.reuters.com/post/3ma4g5gp4gi2s" target="_blank">japan.reuters.com</a> (2025-12-17 00:03:12)</span><span style="padding-right:50px;">Basketball’s next phenom has the San Antonio Spurs contending for a championship. It’s all because of the shot he’s stopped shooting. on.wsj.com/4q9SlOW <a href="https://bsky.app/profile/wsj.com/post/3ma4g3jmeup2z" target="_blank">wsj.com</a> (2025-12-17 00:02:08)</span><span style="padding-right:50px;">Global insured catastrophe losses set to hit $107 billion in 2025, report shows reut.rs/3YwtlFU <a href="https://bsky.app/profile/reuters.com/post/3ma4fzsrpuv2p" target="_blank">reuters.com</a> (2025-12-17 00:01:10)</span>
+<span style="padding-right:50px;">The Olayan sisters have steered their family empire into an influential investment behemoth, with deep connections to both Wall Street and the Saudi Arabian kingdom. Read more: bloom.bg/4akGjxI  🎨: 731 <a href="https://bsky.app/profile/bloomberg.com/post/3ma4hjyjlfq23" target="_blank">bloomberg.com</a> (2025-12-17 00:28:07)</span><span style="padding-right:50px;">SThree shares jump as US market rebounds, guidance confirmed reut.rs/4s0P8TG <a href="https://bsky.app/profile/reuters.com/post/3ma4hey57y42y" target="_blank">reuters.com</a> (2025-12-17 00:25:19)</span><span style="padding-right:50px;">In a series of interviews published in Vanity Fair, Susie Wiles, the White House chief of staff, said President Trump “has an alcoholic’s personality,” called JD Vance a “conspiracy theorist” and concluded that Pam Bondi “completely whiffed” the early handling of the Epstein files. <a href="https://bsky.app/profile/nytimes.com/post/3ma4hejyptq2e" target="_blank">nytimes.com</a> (2025-12-17 00:25:04)</span><span style="padding-right:50px;">Trump officials move slowly on student loan forgiveness, repayment plan backlog: court filing <a href="https://bsky.app/profile/cnbc.com/post/3ma4hdfdd3r2m" target="_blank">cnbc.com</a> (2025-12-17 00:24:25)</span><span style="padding-right:50px;">Stelvio national park: Thousands of dinosaur footprints found on Italian mountain <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma4hc2j5gs2a" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-17 00:23:40)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48339.62 (🔻40.55 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23069.03 (🔺87.21 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 176.84 (🔺0.58 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.57 (🔻0.66 : 2025-12-16)</span>
+<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48202.36 (🔻177.81 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23004.69 (🔺22.88 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 176.33 (🔺0.07 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.52 (🔻0.70 : 2025-12-16)</span>
   </div>
 </div>
 
@@ -32,96 +32,98 @@
 
 ## News Headlines
 
-Here are six selected headlines in English:
+Here are six news headlines in English:
 
-1. BBC Plans to Challenge Trump Lawsuit Over Edited Speech
-2. Global Insured Catastrophe Losses to Hit $107 Billion in 2025
-3. Tariffs Cause 10-15% Price Hike for Artificial Christmas Trees
-4. General Hospital Star Anthony Geary Dies at 78
-5. Global Insured Catastrophe Losses to Hit $107 Billion in 2025
-6. Spurs Contend for Championship with Unconventional New Player
+1. Olayan Sisters Lead Family Empire to Wall Street and Saudi Arabian Influence
+2. Threes Shares Soar as US Market Sees Rebound and Guidance Confirmed
+3. White House Chief of Staff Criticizes Trump's Personality and Handling of Epstein Files
+4. Pentagon Investigates Sen. Mark Kelly's Involvement in Military Justice System
+5. Portugal to Return to F1 Calendar in 2027 and 2028
+6. Global Insured Catastrophe Losses Expected to Reach $107 Billion in 2025
 
 ----
 
+@bloomberg.com
+
+The Olayan sisters have steered their family empire into an influential investment behemoth, with deep connections to both Wall Street and the Saudi Arabian kingdom. Read more: bloom.bg/4akGjxI
+
+🎨: 731
+
+[2025-12-17 00:28:07](https://bsky.app/profile/bloomberg.com/post/3ma4hjyjlfq23)
+
+---
+
+@reuters.com
+
+SThree shares jump as US market rebounds, guidance confirmed reut.rs/4s0P8TG
+
+[2025-12-17 00:25:19](https://bsky.app/profile/reuters.com/post/3ma4hey57y42y)
+
+---
+
 @nytimes.com
 
-Matcha balances the usual sweetness of sugar cookies. Its grassy hue naturally tints these tender cookies a festive green. nyti.ms/4j3F5cz
+In a series of interviews published in Vanity Fair, Susie Wiles, the White House chief of staff, said President Trump “has an alcoholic’s personality,” called JD Vance a “conspiracy theorist” and concluded that Pam Bondi “completely whiffed” the early handling of the Epstein files.
 
-[2025-12-17 00:06:05](https://bsky.app/profile/nytimes.com/post/3ma4gclinv42s)
-
----
-
-@reuters.com
-
-BBC says it will fight Trump lawsuit over edited speech reut.rs/4p1KVN0
-
-[2025-12-17 00:05:16](https://bsky.app/profile/reuters.com/post/3ma4gb4udnb2r)
+[2025-12-17 00:25:04](https://bsky.app/profile/nytimes.com/post/3ma4hejyptq2e)
 
 ---
 
-@japan.reuters.com
+@cnbc.com
 
-米商務省が１６日発表した１０月の小売売上高（季節調整済み）は前月から横ばいとなった。ロイターがまとめたエコノミスト予想は０．１％増だった。生活費の上昇で一部世帯が支出の抑制を強いられる状況にある。 bit.ly/3KA2zJH
+Trump officials move slowly on student loan forgiveness, repayment plan backlog: court filing
 
-[2025-12-17 00:03:12](https://bsky.app/profile/japan.reuters.com/post/3ma4g5gp4gi2s)
-
----
-
-@wsj.com
-
-Basketball’s next phenom has the San Antonio Spurs contending for a championship. It’s all because of the shot he’s stopped shooting. on.wsj.com/4q9SlOW
-
-[2025-12-17 00:02:08](https://bsky.app/profile/wsj.com/post/3ma4g3jmeup2z)
+[2025-12-17 00:24:25](https://bsky.app/profile/cnbc.com/post/3ma4hdfdd3r2m)
 
 ---
 
-@reuters.com
+@bbcnews-world-rss.bsky.social
 
-Global insured catastrophe losses set to hit $107 billion in 2025, report shows reut.rs/3YwtlFU
+Stelvio national park: Thousands of dinosaur footprints found on Italian mountain
 
-[2025-12-17 00:01:10](https://bsky.app/profile/reuters.com/post/3ma4fzsrpuv2p)
-
----
-
-@cnn.com
-
-It’s getting harder to escape AI slop. But a growing backlash could put a premium on “human-made” content. https://cnn.it/3L4rEMP
-
-[2025-12-17 00:01:04](https://bsky.app/profile/cnn.com/post/3ma4fzmfiag25)
+[2025-12-17 00:23:40](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma4hc2j5gs2a)
 
 ---
 
-@usatoday.com
+@cnbc.com
 
-Ha-Seong Kim and the Atlanta Braves each got what they wanted when the shortstop agreed to a one-year contract.
+Pfizer’s modest 2026 outlook shows its big investments will take time to pay off
 
-[2025-12-17 00:01:03](https://bsky.app/profile/usatoday.com/post/3ma4fzldeuj2o)
+[2025-12-17 00:23:15](https://bsky.app/profile/cnbc.com/post/3ma4hbc6mge23)
 
 ---
 
 @npr.org
 
-Joe Ely never broke out into the mainstream, but has been a beloved Texas treasure for five decades. His death Monday at age 78 brought tributes from fans and fellow musicians alike.
+In 2015, Reiner collaborated with his son, Nick Reiner, on Being Charlie, a story about addiction, loosely based on Nick's experiences. Rob Reiner talked about the film with Fresh Air in September. n.pr/3MP5DlH
 
-[2025-12-17 00:00:57](https://bsky.app/profile/npr.org/post/3ma4fzflnpe2e)
+[2025-12-17 00:23:12](https://bsky.app/profile/npr.org/post/3ma4hb7gdsi24)
 
 ---
 
 @washingtonpost.com
 
-Cory Lee shares his travels from around the world in his wheelchair on the award-winning blog Curb Free with Cory Lee.
+The Pentagon said Pete Hegseth is “escalating” his review of Sen. Mark Kelly’s involvement in a video about service members’ duty to disobey illegal orders — an unprecedented use of the military justice system to investigate a political adversary.
 
-Ask him your questions here:
-
-[2025-12-17 00:00:43](https://bsky.app/profile/washingtonpost.com/post/3ma4fyyexen24)
+[2025-12-17 00:20:52](https://bsky.app/profile/washingtonpost.com/post/3ma4h4zgkz624)
 
 ---
 
-@apnews.com
+@nbcnews.com
 
-A trade association says new U.S. tariffs increased artificial Christmas tree prices by 10% to 15% this year as tree companies reduced their orders and raised prices to cover the higher import taxes.
+The year 2025 has been filled with cultural absurdities.
 
-[2025-12-17 00:00:29](https://bsky.app/profile/apnews.com/post/3ma4fylf6en22)
+Here’s a full look at NBC News’ list of the biggest cultural moments of 2025.
+
+[2025-12-17 00:20:10](https://bsky.app/profile/nbcnews.com/post/3ma4h3rvbgw22)
+
+---
+
+@reuters.com
+
+Portugal to return to F1 calendar in 2027 and 2028 reut.rs/4rYIA8d
+
+[2025-12-17 00:15:20](https://bsky.app/profile/reuters.com/post/3ma4gt4yn7t2b)
 
 ---
 
