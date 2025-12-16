@@ -1,9 +1,9 @@
-# [2025-12-16 17:10 updated](2025_12_16.md)
+# [2025-12-16 17:30 updated](2025_12_16.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:福井県嶺北, 深さ:10km マグニチュード:3.1, 最大震度:1 📍https://www.google.com/maps?q=35.9,136.8&ll=35.9,136.8&z=7&t=h 地震発生日時:2025-12-16 17:05頃 (10倍速▶120s→12s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3ma3oy2qiia2r" target="_blank">sokuho.news</a> (2025-12-16 17:08:36)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  17時5分頃、岐阜県・福井県で最大震度1の地震を観測しました。 震源:福井県嶺北, 深さ:10km, 規模:M3.1 この地震による津波の心配はありません。 (2025-12-16 17:08:09) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/16/2025-12-16-17-05-34.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3ma3oxe5llg2z" target="_blank">sokuho.news</a> (2025-12-16 17:08:10)</span><span style="padding-right:50px;">東京 板橋区で子どもがトラックにはねられ重体か https://news.web.nhk/newsweb/na/na-k10015005621000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3otkd6zt2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 17:06:02)</span><span style="padding-right:50px;">トランプ米政権によるタンカー拿捕や制裁でベネズエラの原油輸出が急減している。同国産原油の最大の輸入国は中国だが、目先の影響は限られると専門家はみている。 bit.ly/49f7BVe <a href="https://bsky.app/profile/japan.reuters.com/post/3ma3os2vcgs2f" target="_blank">japan.reuters.com</a> (2025-12-16 17:05:14)</span><span style="padding-right:50px;">Gold edges down as investors turn cautious ahead of year-end US data reut.rs/44tNCQ3 <a href="https://bsky.app/profile/reuters.com/post/3ma3orzgtqp2k" target="_blank">reuters.com</a> (2025-12-16 17:05:13)</span>
+<span style="padding-right:50px;">ベラルーシのルカシェンコ大統領は１５日、ベネズエラのマドゥロ大統領が退陣した場合、ベラルーシへの移住を歓迎するが、同氏とそうした協議は行っていないと述べた。米ニュースマックスのインタビューで語った。 bit.ly/44roWrs <a href="https://bsky.app/profile/japan.reuters.com/post/3ma3pvsymrf2s" target="_blank">japan.reuters.com</a> (2025-12-16 17:25:14)</span><span style="padding-right:50px;">Jerry Rice, Steve Young chosen as Pro Bowl Games coaches reut.rs/48EIbjE <a href="https://bsky.app/profile/reuters.com/post/3ma3pvq62jk2r" target="_blank">reuters.com</a> (2025-12-16 17:25:11)</span><span style="padding-right:50px;">海上自衛隊P1哨戒機 グアムで機体の一部損傷 事故調査委設置 https://news.web.nhk/newsweb/na/na-k10015005641000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3ptq7ctr2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 17:24:02)</span><span style="padding-right:50px;">China lowers anti-dumping tariffs on European pork exporters <a href="https://bsky.app/profile/cnbc.com/post/3ma3priksd423" target="_blank">cnbc.com</a> (2025-12-16 17:22:49)</span><span style="padding-right:50px;">台湾の製糖業発展させた藤山雷太の功績たたえる特別展 https://news.web.nhk/newsweb/na/na-k10015005631000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3pokks6s2x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 17:21:08)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.89 (🔻0.33 : 2025-12-16)</span>
+<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.88 (🔻0.34 : 2025-12-16)</span>
   </div>
 </div>
 
@@ -32,112 +32,97 @@
 
 ## News Headlines
 
-Here are six news headlines in English:
-
-1. Japan Earthquake: Magnitude 3.1 Quake Strikes Fukui Prefecture
-2. Truck Hits Child in Tokyo's Itabashi District, Child's Condition Critical
-3. Japan's 2025 Budget Revision Bill Passed in Upper House
-4. Gold Price Falls as Investors Turn Cautious Ahead of US Data Release
-5. Indian Rupee Hits Record Low as Risk-Off Tone Persists
-6. EU to Relax Ban on Internal Combustion Engine Car Sales in 2035
+1. Belarus President Lukashenko Welcomes Venezuelan Migrants
+2. Jerry Rice and Steve Young Chosen as Pro Bowl Games Coaches
+3. Japan Coast Guard Investigates P-1 Plane Incident in Guam
+4. China Lowers Anti-Dumping Tariffs on European Pork
+5. Huge Congestion Expected on Japanese Highways During Year-End Holidays
+6. Australian Banks Predict RBA to Raise Interest Rates in February
 
 ----
 
-@sokuho.news
-
-🔔防災科研より【強震モニタ】動画です。
-
-震源:福井県嶺北, 深さ:10km
-マグニチュード:3.1, 最大震度:1
-📍https://www.google.com/maps?q=35.9,136.8&ll=35.9,136.8&z=7&t=h
-地震発生日時:2025-12-16 17:05頃
-(10倍速▶120s→12s) #地震
-
-[2025-12-16 17:08:36](https://bsky.app/profile/sokuho.news/post/3ma3oy2qiia2r)
-
----
-
-@sokuho.news
-
-🔔気象庁より【地震速報】です。
-
-17時5分頃、岐阜県・福井県で最大震度1の地震を観測しました。
-震源:福井県嶺北, 深さ:10km, 規模:M3.1
-この地震による津波の心配はありません。
-(2025-12-16 17:08:09) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/16/2025-12-16-17-05-34.html?xlarge_image=1
-
-[2025-12-16 17:08:10](https://bsky.app/profile/sokuho.news/post/3ma3oxe5llg2z)
-
----
-
-@nhknewsunofficial.bsky.social
-
-東京 板橋区で子どもがトラックにはねられ重体か
-https://news.web.nhk/newsweb/na/na-k10015005621000
-
-[2025-12-16 17:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3otkd6zt2b)
-
----
-
 @japan.reuters.com
 
-トランプ米政権によるタンカー拿捕や制裁でベネズエラの原油輸出が急減している。同国産原油の最大の輸入国は中国だが、目先の影響は限られると専門家はみている。 bit.ly/49f7BVe
+ベラルーシのルカシェンコ大統領は１５日、ベネズエラのマドゥロ大統領が退陣した場合、ベラルーシへの移住を歓迎するが、同氏とそうした協議は行っていないと述べた。米ニュースマックスのインタビューで語った。 bit.ly/44roWrs
 
-[2025-12-16 17:05:14](https://bsky.app/profile/japan.reuters.com/post/3ma3os2vcgs2f)
+[2025-12-16 17:25:14](https://bsky.app/profile/japan.reuters.com/post/3ma3pvsymrf2s)
 
 ---
 
 @reuters.com
 
-Gold edges down as investors turn cautious ahead of year-end US data reut.rs/44tNCQ3
+Jerry Rice, Steve Young chosen as Pro Bowl Games coaches reut.rs/48EIbjE
 
-[2025-12-16 17:05:13](https://bsky.app/profile/reuters.com/post/3ma3orzgtqp2k)
+[2025-12-16 17:25:11](https://bsky.app/profile/reuters.com/post/3ma3pvq62jk2r)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-大川原化工機えん罪 賠償金 警視庁“捜査員に負担求める検討”
-https://news.web.nhk/newsweb/na/na-k10015005521000
+海上自衛隊P1哨戒機 グアムで機体の一部損傷 事故調査委設置
+https://news.web.nhk/newsweb/na/na-k10015005641000
 
-[2025-12-16 17:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3oo6ib472v)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】七戸町の断水 18日朝に仮復旧へ
-(2025-12-16 17:01) #ニュース
-
-[2025-12-16 17:02:07](https://bsky.app/profile/sokuho.news/post/3ma3omi4hju2y)
+[2025-12-16 17:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3ptq7ctr2s)
 
 ---
 
-@nikkei.com
+@cnbc.com
 
-5円玉の「時価」5円超え？10円玉も9円弱　原料の銅が最高値
-www.nikkei.com/article/DGXZQO...
+China lowers anti-dumping tariffs on European pork exporters
 
-[2025-12-16 17:01:17](https://bsky.app/profile/nikkei.com/post/3ma3okyhg5f2m)
+[2025-12-16 17:22:49](https://bsky.app/profile/cnbc.com/post/3ma3priksd423)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+台湾の製糖業発展させた藤山雷太の功績たたえる特別展
+https://news.web.nhk/newsweb/na/na-k10015005631000
+
+[2025-12-16 17:21:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3pokks6s2x)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+高速道路 年末年始の渋滞予測 上下線 2日と3日 ピークの見通し
+https://news.web.nhk/newsweb/na/na-k10015005551000
+
+[2025-12-16 17:21:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3pofsgop2u)
 
 ---
 
 @japan.reuters.com
 
-海外投資家は１１月、株安を背景にアジア債を大幅に買い越した。 bit.ly/44vI0Vl
+豪４大銀行のうち、コモンウェルス銀行（ＣＢＡ）とナショナル・オーストラリア銀行（ＮＡＢ）は、豪準備銀行（ＲＢＡ）が来年２月に政策金利を引き上げると予想している。 bit.ly/48X04ZM
 
-[2025-12-16 17:00:43](https://bsky.app/profile/japan.reuters.com/post/3ma3ojy6ald2s)
+[2025-12-16 17:20:13](https://bsky.app/profile/japan.reuters.com/post/3ma3pmu3vrt2n)
 
 ---
 
-@japan.reuters.com
+@bbcnews-world-rss.bsky.social
 
-米西部コロラド州デンバー都市圏に住み、人材関連会社に勤めるロン・デイリーさん（６３）は外食するとメニューを見て衝撃を受ける。「朝食でも、どう考えても２０ドルはする」と話す。 bit.ly/48G1rgL
+US military says eight killed in strikes on alleged drug vessels
 
-[2025-12-16 17:00:27](https://bsky.app/profile/japan.reuters.com/post/3ma3ojiu4vo2q)
+[2025-12-16 17:19:18](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma3pl7vrsg2r)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+NSW premier defends police response to Bondi attack
+
+[2025-12-16 17:18:12](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma3pjb73z62y)
+
+---
+
+@wsj.com
+
+The aim at first was simple: prevent murder on the seafloor. 
+
+But plans to use a deep-sea boom box to keep fish away from a coastal nuclear station have gone awry. DJing for marine life, it turns out, is a nightmare. on.wsj.com/4ahY40L
+
+[2025-12-16 17:15:48](https://bsky.app/profile/wsj.com/post/3ma3pewwuil2s)
 
 ---
 
