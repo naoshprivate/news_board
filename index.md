@@ -1,9 +1,9 @@
-# [2025-12-16 22:30 updated](2025_12_16.md)
+# [2025-12-16 22:50 updated](2025_12_16.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Ford recalls nearly 32,000 vehicles, NHTSA says reut.rs/3N44qa8 <a href="https://bsky.app/profile/reuters.com/post/3ma4ao6bhee2i" target="_blank">reuters.com</a> (2025-12-16 22:25:11)</span><span style="padding-right:50px;">The U.S. military struck three boats it suspected of carrying drugs in the eastern Pacific on Monday, killing eight people, the U.S. Southern Command announced. <a href="https://bsky.app/profile/nytimes.com/post/3ma4anwbogj2x" target="_blank">nytimes.com</a> (2025-12-16 22:25:03)</span><span style="padding-right:50px;">ホンダは１６日、自動車部品メーカーのＡｓｔｅｍｏ（アステモ）を連結子会社化すると発表した。日立製作所から２１％を１５２３億円で追加取得し、出資比率を６１％へ引き上げる。ソフトウエアに強いアステモとの連携を強化し、自動運転やＳＤＶ（機能や価値をソフトウェアで更新する車）の開発を加速。新規株式公開（ＩＰＯ）を視野に入れる。 bit.ly/44Yr2z6 <a href="https://bsky.app/profile/japan.reuters.com/post/3ma4ak27bwv27" target="_blank">japan.reuters.com</a> (2025-12-16 22:22:53)</span><span style="padding-right:50px;">The driver who plowed into fans celebrating Liverpool’s Premier League championship in May has been sentenced to over 20 years in prison. <a href="https://bsky.app/profile/apnews.com/post/3ma4agslqs72q" target="_blank">apnews.com</a> (2025-12-16 22:21:04)</span><span style="padding-right:50px;">Nick Reiner had been disruptive at a holiday party Saturday with his parents, Rob Reiner and Michele Singer Reiner, according to two people familiar with the situation, just hours before they were found dead in their Los Angeles home. <a href="https://bsky.app/profile/nbcnews.com/post/3ma4afkrhfr2k" target="_blank">nbcnews.com</a> (2025-12-16 22:20:22)</span>
+<span style="padding-right:50px;">Thriller starring Ranveer Singh has raised eyebrows over its portrayal of tensions between the two countries. <a href="https://bsky.app/profile/aljazeera.com/post/3ma4bxbtmwp2v" target="_blank">aljazeera.com</a> (2025-12-16 22:48:10)</span><span style="padding-right:50px;">Thriller starring Ranveer Singh has raised eyebrows over its portrayal of tensions between the two countries. <a href="https://bsky.app/profile/aljazeera.com/post/3ma4bx2e6vz2z" target="_blank">aljazeera.com</a> (2025-12-16 22:48:02)</span><span style="padding-right:50px;">Kevin Warsh moves ahead in Fed chief race on Kalshi after Hassett pushback <a href="https://bsky.app/profile/cnbc.com/post/3ma4buriro72g" target="_blank">cnbc.com</a> (2025-12-16 22:46:46)</span><span style="padding-right:50px;">US job growth beats expectations in November; unemployment rate at 4.6% reut.rs/48HbLoO <a href="https://bsky.app/profile/reuters.com/post/3ma4bs3esxe2i" target="_blank">reuters.com</a> (2025-12-16 22:45:16)</span><span style="padding-right:50px;">Here are Tuesday's biggest analyst calls: Nvidia, Tesla, Roku, Estee Lauder, Southwest, Gap, MetLife & more <a href="https://bsky.app/profile/cnbc.com/post/3ma4bqqdgum24" target="_blank">cnbc.com</a> (2025-12-16 22:44:31)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.48 (🔻0.74 : 2025-12-16)</span>
+<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.78 (🔻0.44 : 2025-12-16)</span>
   </div>
 </div>
 
@@ -32,94 +32,97 @@
 
 ## News Headlines
 
-Here are six news headlines in English:
+Here are six important stories with headlines:
 
-1. U.S. military strikes three boats, killing eight suspected drug smugglers in eastern Pacific
-2. Japan passes $118 billion extra budget to fund post-COVID stimulus
-3. Benin jails 30 people for links to thwarted coup attempt
-4. Russia's presidential spokesperson says Ukraine's Christmas ceasefire proposal is uncertain
-5. 'Shadow banking' growing at double the rate of traditional lenders, FSB says
-6. LA wildfires cause $40 billion in insured losses, making it the costliest disaster of its kind
+1. US Economy Adds 64,000 Jobs in November, Unemployment Rate Rises to 4.6%
+2. Former President Trump Sues BBC for $10 Billion Over Defamation Claims
+3. British Driver Sentenced to 21.5 Years for Plowing into Liverpool Fans
+4. New Solar Installations Expected to Fall Globally for the First Time in 2026
+5. Japan Passes $118 Billion Extra Budget to Fund Post-COVID Stimulus
+6. Benin Jails Around 30 People Over Alleged Links to Thwarted Coup Attempt
 
 ----
 
-@reuters.com
+@aljazeera.com
 
-Ford recalls nearly 32,000 vehicles, NHTSA says reut.rs/3N44qa8
+Thriller starring Ranveer Singh has raised eyebrows over its portrayal of tensions between the two countries.
 
-[2025-12-16 22:25:11](https://bsky.app/profile/reuters.com/post/3ma4ao6bhee2i)
-
----
-
-@nytimes.com
-
-The U.S. military struck three boats it suspected of carrying drugs in the eastern Pacific on Monday, killing eight people, the U.S. Southern Command announced.
-
-[2025-12-16 22:25:03](https://bsky.app/profile/nytimes.com/post/3ma4anwbogj2x)
+[2025-12-16 22:48:10](https://bsky.app/profile/aljazeera.com/post/3ma4bxbtmwp2v)
 
 ---
 
-@japan.reuters.com
+@aljazeera.com
 
-ホンダは１６日、自動車部品メーカーのＡｓｔｅｍｏ（アステモ）を連結子会社化すると発表した。日立製作所から２１％を１５２３億円で追加取得し、出資比率を６１％へ引き上げる。ソフトウエアに強いアステモとの連携を強化し、自動運転やＳＤＶ（機能や価値をソフトウェアで更新する車）の開発を加速。新規株式公開（ＩＰＯ）を視野に入れる。 bit.ly/44Yr2z6
+Thriller starring Ranveer Singh has raised eyebrows over its portrayal of tensions between the two countries.
 
-[2025-12-16 22:22:53](https://bsky.app/profile/japan.reuters.com/post/3ma4ak27bwv27)
-
----
-
-@apnews.com
-
-The driver who plowed into fans celebrating Liverpool’s Premier League championship in May has been sentenced to over 20 years in prison.
-
-[2025-12-16 22:21:04](https://bsky.app/profile/apnews.com/post/3ma4agslqs72q)
-
----
-
-@nbcnews.com
-
-Nick Reiner had been disruptive at a holiday party Saturday with his parents, Rob Reiner and Michele Singer Reiner, according to two people familiar with the situation, just hours before they were found dead in their Los Angeles home.
-
-[2025-12-16 22:20:22](https://bsky.app/profile/nbcnews.com/post/3ma4afkrhfr2k)
-
----
-
-@reuters.com
-
-Japan passes $118 billion extra budget to fund its biggest post-COVID stimulus reut.rs/4qcej47
-
-[2025-12-16 22:15:17](https://bsky.app/profile/reuters.com/post/3ma4a4ibjuv2k)
+[2025-12-16 22:48:02](https://bsky.app/profile/aljazeera.com/post/3ma4bx2e6vz2z)
 
 ---
 
 @cnbc.com
 
-Jobs data, Tesla's rally, tariff revenue hits $200 billion and more in Morning Squawk in Morning Squawk
+Kevin Warsh moves ahead in Fed chief race on Kalshi after Hassett pushback
 
-[2025-12-16 22:14:52](https://bsky.app/profile/cnbc.com/post/3ma4a3qbkce2x)
-
----
-
-@en.afp.com
-
-Benin on Tuesday jailed around 30 people, most of them soldiers, accused of links to a thwarted coup attempt earlier this month, legal sources told AFP ➡️ u.afp.com/S7Vf
-
-[2025-12-16 22:11:01](https://bsky.app/profile/en.afp.com/post/3ma47uttkib2d)
+[2025-12-16 22:46:46](https://bsky.app/profile/cnbc.com/post/3ma4buriro72g)
 
 ---
 
 @reuters.com
 
-Japanese firms to get more control in LNG JVs with state-backed group reut.rs/4iZl3zG
+US job growth beats expectations in November; unemployment rate at 4.6% reut.rs/48HbLoO
 
-[2025-12-16 22:10:16](https://bsky.app/profile/reuters.com/post/3ma47tio67k2o)
+[2025-12-16 22:45:16](https://bsky.app/profile/reuters.com/post/3ma4bs3esxe2i)
+
+---
+
+@cnbc.com
+
+Here are Tuesday's biggest analyst calls: Nvidia, Tesla, Roku, Estee Lauder, Southwest, Gap, MetLife & more
+
+[2025-12-16 22:44:31](https://bsky.app/profile/cnbc.com/post/3ma4bqqdgum24)
+
+---
+
+@financialtimes.com
+
+Why is Donald Trump suing the BBC — and will he win? ft.trib.al/AniZ4jk
+
+[2025-12-16 22:43:51](https://bsky.app/profile/financialtimes.com/post/3ma4bpke5ec2w)
+
+---
+
+@apnews.com
+
+<strong><span style="color: red;">BREAKING:</span> U.S. employers added 64,000 jobs in November but lost 105,000 in October, the government said in reports delayed by shutdown.</strong>
+
+[2025-12-16 22:43:41](https://bsky.app/profile/apnews.com/post/3ma4bpazfzf2u)
+
+---
+
+@cnbc.com
+
+Payrolls rose by 64,000 in November after falling by 105,000 in October, delayed jobs numbers show
+
+[2025-12-16 22:42:18](https://bsky.app/profile/cnbc.com/post/3ma4bmrihc72y)
 
 ---
 
 @nytimes.com
 
-President Trump announced on Monday night that his eldest son, Donald Jr., is engaged to Bettina Anderson, a Palm Beach socialite.
+<strong><span style="color: red;">Breaking News</span>: Employers added 64,000 jobs in November and the unemployment rate rose to 4.6%, a warning sign for the U.S. economy.</strong>
 
-[2025-12-16 22:10:05](https://bsky.app/profile/nytimes.com/post/3ma47t5pis52r)
+[2025-12-16 22:40:53](https://bsky.app/profile/nytimes.com/post/3ma4bkaqc6t2v)
+
+---
+
+@sokuho.news
+
+🔔ANNより【速報】です。
+
+【速報】アメリカの11月の雇用統計 非農業部門の就業者数は6.4万人増 失業率は4.6%
+(2025年12月16日 22:40) #ニュース
+
+[2025-12-16 22:40:40](https://bsky.app/profile/sokuho.news/post/3ma4bjuhrrq2b)
 
 ---
 
