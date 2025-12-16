@@ -1,9 +1,9 @@
-# [2025-12-16 16:10 updated](2025_12_16.md)
+# [2025-12-16 16:30 updated](2025_12_16.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">A mass shooting in which 15 people were killed during a Hanukkah celebration at Sydney's Bondi Beach was "a terrorist attack inspired by Islamic State," Australia's police said Tuesday. n.pr/4p0Cx0j <a href="https://bsky.app/profile/npr.org/post/3ma3lohefrb25" target="_blank">npr.org</a> (2025-12-16 16:09:32)</span><span style="padding-right:50px;">エレベーター・エスカレーター大手のフジテックは１６日、欧州系投資ファンドＥＱＴ関連のファンドが非公開化に向けて実施した株式公開買い付け（ＴＯＢ）が成立したと発表した。１１月１４日から１２月１５日まで１株５７００円で買い付け、予定数の下限以上の応募があった。 bit.ly/44xzCoh <a href="https://bsky.app/profile/japan.reuters.com/post/3ma3lmzmbqi26" target="_blank">japan.reuters.com</a> (2025-12-16 16:08:44)</span><span style="padding-right:50px;">BBC visits flower-lined Bondi Pavilion after attack <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma3lkula2l2r" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-16 16:07:31)</span><span style="padding-right:50px;">South Korea nominee for media commission to seek social media curbs for teens reut.rs/49eCdWM <a href="https://bsky.app/profile/reuters.com/post/3ma3lgpd7jc2x" target="_blank">reuters.com</a> (2025-12-16 16:05:12)</span><span style="padding-right:50px;">European markets set to open lower as traders look ahead to central bank action <a href="https://bsky.app/profile/cnbc.com/post/3ma3lbdqznp2g" target="_blank">cnbc.com</a> (2025-12-16 16:02:12)</span>
+<span style="padding-right:50px;">UK unemployment rate rises to 5.1 per cent on.ft.com/4rYlazJ <a href="https://bsky.app/profile/financialtimes.com/post/3ma3mrpmeoi2k" target="_blank">financialtimes.com</a> (2025-12-16 16:29:15)</span><span style="padding-right:50px;">後発地震注意情報 「地震への備え」関連ワードの検索に地域差 https://news.web.nhk/newsweb/na/na-k10015005121000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3mntbqc72u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 16:27:02)</span><span style="padding-right:50px;">東京証券取引所がまとめた１２月１２日申し込み現在の２市場信用取引現在高（概算）は以下のとおり。 bit.ly/4qfpxoz <a href="https://bsky.app/profile/japan.reuters.com/post/3ma3mmag6qg27" target="_blank">japan.reuters.com</a> (2025-12-16 16:26:11)</span><span style="padding-right:50px;">Finnish Prime Minister Petteri Orpo called for the rest of the EU to show solidarity with the eastern flank countries, urging the bloc to give more money to defence in frontline states. on.ft.com/4oSo8TD <a href="https://bsky.app/profile/financialtimes.com/post/3ma3mlreh7n2q" target="_blank">financialtimes.com</a> (2025-12-16 16:25:56)</span><span style="padding-right:50px;">China AI chip firm Biren to launch Hong Kong IPO in coming weeks, sources say reut.rs/4pPFnGv <a href="https://bsky.app/profile/reuters.com/post/3ma3mkdzgra2c" target="_blank">reuters.com</a> (2025-12-16 16:25:08)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.96 (🔻0.27 : 2025-12-16)</span>
+<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.94 (🔻0.28 : 2025-12-16)</span>
   </div>
 </div>
 
@@ -32,95 +32,98 @@
 
 ## News Headlines
 
-1. Australia Police Declare Sydney Attack a Terrorist Act Inspired by Islamic State
-2. Mitsubishi UFJ Financial Group Announces Leadership Succession
-3. Ukraine President Zelensky to Establish International Tribunal to Prosecute Russia for War Crimes
-4. US Military Confirms Strikes on Three Vessels in Eastern Pacific, Eight Fatalities Reported
-5. China Seizes Smuggled Drugs on Tip from US Authorities
-6. Bank of Japan to Raise Interest Rates to 30-Year High
+Here are six important stories with headlines in English:
+
+1. UK Unemployment Rate Rises to 5.1%
+2. EU Considers New System to Allow Internal Combustion Engine Sales Beyond 2035
+3. Trump Designates Fentanyl as a Weapon of Mass Destruction
+4. European Markets Set to Open Lower Ahead of Central Bank Action
+5. Five Die in Sydney Mass Shooting During Hanukkah Celebration
+6. Shopify CEO Says Top Performers Don't Need to Work 80 Hours a Week
 
 ----
 
-@npr.org
+@financialtimes.com
 
-A mass shooting in which 15 people were killed during a Hanukkah celebration at Sydney's Bondi Beach was "a terrorist attack inspired by Islamic State," Australia's police said Tuesday. n.pr/4p0Cx0j
+UK unemployment rate rises to 5.1 per cent on.ft.com/4rYlazJ
 
-[2025-12-16 16:09:32](https://bsky.app/profile/npr.org/post/3ma3lohefrb25)
+[2025-12-16 16:29:15](https://bsky.app/profile/financialtimes.com/post/3ma3mrpmeoi2k)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+後発地震注意情報 「地震への備え」関連ワードの検索に地域差
+https://news.web.nhk/newsweb/na/na-k10015005121000
+
+[2025-12-16 16:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3mntbqc72u)
 
 ---
 
 @japan.reuters.com
 
-エレベーター・エスカレーター大手のフジテックは１６日、欧州系投資ファンドＥＱＴ関連のファンドが非公開化に向けて実施した株式公開買い付け（ＴＯＢ）が成立したと発表した。１１月１４日から１２月１５日まで１株５７００円で買い付け、予定数の下限以上の応募があった。 bit.ly/44xzCoh
+東京証券取引所がまとめた１２月１２日申し込み現在の２市場信用取引現在高（概算）は以下のとおり。 bit.ly/4qfpxoz
 
-[2025-12-16 16:08:44](https://bsky.app/profile/japan.reuters.com/post/3ma3lmzmbqi26)
+[2025-12-16 16:26:11](https://bsky.app/profile/japan.reuters.com/post/3ma3mmag6qg27)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@financialtimes.com
 
-BBC visits flower-lined Bondi Pavilion after attack
+Finnish Prime Minister Petteri Orpo called for the rest of the EU to show solidarity with the eastern flank countries, urging the bloc to give more money to defence in frontline states. on.ft.com/4oSo8TD
 
-[2025-12-16 16:07:31](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma3lkula2l2r)
+[2025-12-16 16:25:56](https://bsky.app/profile/financialtimes.com/post/3ma3mlreh7n2q)
 
 ---
 
 @reuters.com
 
-South Korea nominee for media commission to seek social media curbs for teens reut.rs/49eCdWM
+China AI chip firm Biren to launch Hong Kong IPO in coming weeks, sources say reut.rs/4pPFnGv
 
-[2025-12-16 16:05:12](https://bsky.app/profile/reuters.com/post/3ma3lgpd7jc2x)
-
----
-
-@cnbc.com
-
-European markets set to open lower as traders look ahead to central bank action
-
-[2025-12-16 16:02:12](https://bsky.app/profile/cnbc.com/post/3ma3lbdqznp2g)
+[2025-12-16 16:25:08](https://bsky.app/profile/reuters.com/post/3ma3mkdzgra2c)
 
 ---
 
 @japan.reuters.com
 
-シドニー株式市場の株価は続落し、約１週間ぶりの安値で引けた。コモンウェルス銀行（ＣＢＡ）とナショナル・オーストラリア銀行のエコノミストが、オーストラリア準備銀行（中央銀行）が早ければ２月にも利上げすると予想したことを受け、値を消した。 bit.ly/3MEHPkz
+欧州連合（ＥＵ） 欧州委員会は自動車メーカーが２０３５年以降も内燃機関（エンジン）車を販売できるようにするための新たな制度を検討している。ドイツ紙ハンデルスブラットが１６日、欧州委高官の話として報じた。 bit.ly/4pJ58ID
 
-[2025-12-16 16:02:10](https://bsky.app/profile/japan.reuters.com/post/3ma3lbbo4x42u)
+[2025-12-16 16:25:01](https://bsky.app/profile/japan.reuters.com/post/3ma3mk5hu2g27)
 
 ---
 
-@nikkei.com
+@sokuho.news
 
-引っ越し後の近隣トラブル、6割超が経験　騒音に異臭に村八分…
-www.nikkei.com/article/DGXZQO...
+🛎️NNNより【速報】です。
 
-警察などに頼るのが難しい「事件未満」の事案を含め、警察官OBや弁護士など問題処理の知見を持つ専門家の手を通じて解決を支援するサービスも広がっています。
+【速報】小5女児がトラックと衝突、心肺停止 東京・板橋区
+(2025-12-16 16:22) #ニュース
 
-[2025-12-16 16:01:18](https://bsky.app/profile/nikkei.com/post/3ma3l7qkclh24)
+[2025-12-16 16:22:44](https://bsky.app/profile/sokuho.news/post/3ma3mg2h3lj2r)
 
 ---
 
 @japan.reuters.com
 
-米メタ・プラットフォームズは昨年、中国の広告主に関する不愉快な結論を認めざるを得なくなった。これらの広告主は全世界で、メタが運営するフェイスブック、インスタグラム、ワッツアップの利用者をだましていたのだ。 bit.ly/4pIQi4O
+■レートは終値（前日比または前週末比）、安値─高値 bit.ly/49dhzX7
 
-[2025-12-16 16:01:01](https://bsky.app/profile/japan.reuters.com/post/3ma3l7a636z2q)
+[2025-12-16 16:20:48](https://bsky.app/profile/japan.reuters.com/post/3ma3mclmuq22n)
+
+---
+
+@japan.reuters.com
+
+トランプ米大統領は１５日、合成麻薬フェンタニルを大量破壊兵器に指定する大統領令に署名した。毎年何万人もの米国民が過剰摂取で死亡しているとして、取り締まりに向けた政府の権限を大幅に拡大する。 bit.ly/455l6Ev
+
+[2025-12-16 16:20:11](https://bsky.app/profile/japan.reuters.com/post/3ma3mbicvip2c)
 
 ---
 
 @reuters.com
 
-Ford's $19.5 billion EV writedown: five things to know reut.rs/4pEQTV0
+From Breakingviews - Breakingviews - Get ready for the biggest M&A deal ever reut.rs/4iX0FiZ
 
-[2025-12-16 16:00:41](https://bsky.app/profile/reuters.com/post/3ma3l6n5etu2y)
-
----
-
-@japan.reuters.com
-
-米動画配信大手ネットフリックスのグレッグ・ピーターズ、テッド・サランドス両共同最高経営責任者（ＣＥＯ）は１５日、ワーナー・ブラザース・ディスカバリー（ＷＢＤ）の資産を買収する決定に変更はないと従業員宛ての書簡で述べた。 bit.ly/4pMf9ou
-
-[2025-12-16 16:00:40](https://bsky.app/profile/japan.reuters.com/post/3ma3l6metkp2p)
+[2025-12-16 16:15:11](https://bsky.app/profile/reuters.com/post/3ma3lyknbv22s)
 
 ---
 
