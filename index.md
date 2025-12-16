@@ -1,9 +1,9 @@
-# [2025-12-16 10:50 updated](2025_12_16.md)
+# [2025-12-16 11:10 updated](2025_12_16.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">President Trump filed a $5 billion defamation lawsuit against the BBC, alleging it improperly edited footage of his Jan. 6, 2021, speech in a 2024 documentary. <a href="https://bsky.app/profile/washingtonpost.com/post/3ma2zk6tkgp2g" target="_blank">washingtonpost.com</a> (2025-12-16 10:45:02)</span><span style="padding-right:50px;">午前のシドニー株式市場の株価は反発。大手銀行の上昇で金融株指数が前日の下落分の一部を取り戻したほか、鉱業株指数は堅調な銅相場に追随した。 bit.ly/4iYP5DG <a href="https://bsky.app/profile/japan.reuters.com/post/3ma2zirnbkq27" target="_blank">japan.reuters.com</a> (2025-12-16 10:44:14)</span><span style="padding-right:50px;">The US president claims the UK public broadcaster’s edit of his speech in a 2024 documentary was ‘disparaging, inflammatory, and malicious’. on.ft.com/44wKB1n <a href="https://bsky.app/profile/financialtimes.com/post/3ma2zhutzho23" target="_blank">financialtimes.com</a> (2025-12-16 10:43:44)</span><span style="padding-right:50px;">CNBC Daily Open: Debt worries continue to weigh on AI-related stocks <a href="https://bsky.app/profile/cnbc.com/post/3ma2zgw3x222e" target="_blank">cnbc.com</a> (2025-12-16 10:43:12)</span><span style="padding-right:50px;">トランプ米大統領は１５日、合成麻薬フェンタニルを大量破壊兵器に指定する大統領令に署名した。毎年何万人もの米国民が過剰摂取で死亡しているとして、取り締まりに向けた政府の権限を大幅に拡大する。 bit.ly/44wHAhw <a href="https://bsky.app/profile/japan.reuters.com/post/3ma2zgpnch32s" target="_blank">japan.reuters.com</a> (2025-12-16 10:43:05)</span>
+<span style="padding-right:50px;">米大リーグ（ＭＬＢ）のフィリーズが、プロ野球の巨人でもプレーしたアドリス・ガルシア外野手と１年１０００万ドル（約１５億５０００万円）で契約合意したとスポーツ専門サイト「ジ・アスレチック」などが１５日に報じた。 bit.ly/4j1moWP <a href="https://bsky.app/profile/japan.reuters.com/post/3ma32vhrut425" target="_blank">japan.reuters.com</a> (2025-12-16 11:09:14)</span><span style="padding-right:50px;">欧州各国「ウクライナ多国籍軍」創設などを含む共同声明発表 https://news.web.nhk/newsweb/na/na-k10015005091000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma32v7yw4e2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 11:09:03)</span><span style="padding-right:50px;">世界最大の亜鉛製錬会社である韓国の高麗亜鉛は１５日、米テネシー州に７４億ドル規模の重要鉱物精錬所を建設すると発表した。米政府が主に資金を提供し、重要鉱物の中国への依存軽減を目指す。 bit.ly/3KysKQX <a href="https://bsky.app/profile/japan.reuters.com/post/3ma32tjazc52n" target="_blank">japan.reuters.com</a> (2025-12-16 11:08:08)</span><span style="padding-right:50px;">片山さつき財務相は１６日、政府と日銀の間で景気認識を巡る見解に「齟齬（そご）はない」との考えを改めて示した。午前の閣議後会見で語った。 bit.ly/4pFci0r <a href="https://bsky.app/profile/japan.reuters.com/post/3ma32rmo42x2q" target="_blank">japan.reuters.com</a> (2025-12-16 11:07:05)</span><span style="padding-right:50px;">サッカーのイングランド・プレミアリーグは１５日に１試合を行い、マンチェスター・ユナイテッド（マンＵ）はホームでボーンマスと点の取り合いの末に４─４で引き分けた。 bit.ly/48FN2Bd <a href="https://bsky.app/profile/japan.reuters.com/post/3ma32lp3bp52n" target="_blank">japan.reuters.com</a> (2025-12-16 11:03:46)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49657.83 (🔻393.41 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3335.00 (🔻45.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.96 (🔻0.26 : 2025-12-16)</span>
+<span style="padding-right:50px;">NIKKEI: 49560.85 (🔻490.39 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3340.00 (🔻40.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.83 (🔻0.39 : 2025-12-16)</span>
   </div>
 </div>
 
@@ -32,96 +32,104 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are six news headlines in English:
 
-1. Trump Sues BBC for Defamation Over Edited Documentary Footage
-2. Ford to Take $19.5 Billion Hit as it Rolls Back Electric Vehicle Plans
-3. Elon Musk's Wealth Reaches New High of $600 Billion
-4. Nasdaq to Offer 24-Hour Trading in US Stocks
-5. US President Trump Considers Reclassifying Marijuana as Low-Risk Substance
-6. Sabalenka Named WTA Player of the Year for Second Straight Season
+1. Phillies Agree to $10 Million Deal with Garcia
+2. EU Countries Establish Ukrainian Multinational Forces Amid Ongoing Conflict
+3. South Korea's Posco to Build $7.4 Billion Zinc Refinery in Tennessee
+4. Japanese Finance Minister Denies Disagreement with BOJ on Economic Outlook
+5. Manchester United Draws 4-4 with Bournemouth in EPL Match
+6. US Freezes Tech Deal with UK Amid Tensions
 
 ----
 
-@washingtonpost.com
+@japan.reuters.com
 
-President Trump filed a $5 billion defamation lawsuit against the BBC, alleging it improperly edited footage of his Jan. 6, 2021, speech in a 2024 documentary.
+米大リーグ（ＭＬＢ）のフィリーズが、プロ野球の巨人でもプレーしたアドリス・ガルシア外野手と１年１０００万ドル（約１５億５０００万円）で契約合意したとスポーツ専門サイト「ジ・アスレチック」などが１５日に報じた。 bit.ly/4j1moWP
 
-[2025-12-16 10:45:02](https://bsky.app/profile/washingtonpost.com/post/3ma2zk6tkgp2g)
+[2025-12-16 11:09:14](https://bsky.app/profile/japan.reuters.com/post/3ma32vhrut425)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+欧州各国「ウクライナ多国籍軍」創設などを含む共同声明発表
+https://news.web.nhk/newsweb/na/na-k10015005091000
+
+[2025-12-16 11:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma32v7yw4e2m)
 
 ---
 
 @japan.reuters.com
 
-午前のシドニー株式市場の株価は反発。大手銀行の上昇で金融株指数が前日の下落分の一部を取り戻したほか、鉱業株指数は堅調な銅相場に追随した。 bit.ly/4iYP5DG
+世界最大の亜鉛製錬会社である韓国の高麗亜鉛は１５日、米テネシー州に７４億ドル規模の重要鉱物精錬所を建設すると発表した。米政府が主に資金を提供し、重要鉱物の中国への依存軽減を目指す。 bit.ly/3KysKQX
 
-[2025-12-16 10:44:14](https://bsky.app/profile/japan.reuters.com/post/3ma2zirnbkq27)
-
----
-
-@financialtimes.com
-
-The US president claims the UK public broadcaster’s edit of his speech in a 2024 documentary was ‘disparaging, inflammatory, and malicious’. on.ft.com/44wKB1n
-
-[2025-12-16 10:43:44](https://bsky.app/profile/financialtimes.com/post/3ma2zhutzho23)
-
----
-
-@cnbc.com
-
-CNBC Daily Open: Debt worries continue to weigh on AI-related stocks
-
-[2025-12-16 10:43:12](https://bsky.app/profile/cnbc.com/post/3ma2zgw3x222e)
+[2025-12-16 11:08:08](https://bsky.app/profile/japan.reuters.com/post/3ma32tjazc52n)
 
 ---
 
 @japan.reuters.com
 
-トランプ米大統領は１５日、合成麻薬フェンタニルを大量破壊兵器に指定する大統領令に署名した。毎年何万人もの米国民が過剰摂取で死亡しているとして、取り締まりに向けた政府の権限を大幅に拡大する。 bit.ly/44wHAhw
+片山さつき財務相は１６日、政府と日銀の間で景気認識を巡る見解に「齟齬（そご）はない」との考えを改めて示した。午前の閣議後会見で語った。 bit.ly/4pFci0r
 
-[2025-12-16 10:43:05](https://bsky.app/profile/japan.reuters.com/post/3ma2zgpnch32s)
+[2025-12-16 11:07:05](https://bsky.app/profile/japan.reuters.com/post/3ma32rmo42x2q)
 
 ---
 
 @japan.reuters.com
 
-米取引所運営大手ナスダックは米国株に対する世界的な需要を取り込むため、２４時間取引に向けた書類を１５日に米証券取引委員会（ＳＥＣ）に提出する。 bit.ly/3L3Mpbt
+サッカーのイングランド・プレミアリーグは１５日に１試合を行い、マンチェスター・ユナイテッド（マンＵ）はホームでボーンマスと点の取り合いの末に４─４で引き分けた。 bit.ly/48FN2Bd
 
-[2025-12-16 10:40:31](https://bsky.app/profile/japan.reuters.com/post/3ma2zc4dut225)
+[2025-12-16 11:03:46](https://bsky.app/profile/japan.reuters.com/post/3ma32lp3bp52n)
+
+---
+
+@japan.reuters.com
+
+米国は英国と９月に結んだ技術協定を一時停止したと、英紙フィナンシャル・タイムズが１５日に報じた。人工知能（ＡＩ）や量子コンピューティング、民生用原子力分野での連携を強化することを目指していた。 bit.ly/3KSQ6kj
+
+[2025-12-16 11:02:39](https://bsky.app/profile/japan.reuters.com/post/3ma32jphzlr27)
+
+---
+
+@nikkei.com
+
+フォード、2027年度までに3兆円の巨額費用計上　EV主力車種撤退
+www.nikkei.com/article/DGXZQO...
+
+費用の大半は不採算のEVからの撤退や電池事業の見直しに伴う減損などです。
+
+脱炭素に懐疑的なトランプ米大統領は、バイデン前政権が導入したEV購入に対する税額控除を9月末で廃止。EVの販売を後押ししてきた燃費規制も緩和しました。
+
+これらの政策変更によりアメリカでのEV販売はさらに低迷する可能性があります。
+
+#ニュース
+
+[2025-12-16 11:01:31](https://bsky.app/profile/nikkei.com/post/3ma32hopdkz2m)
+
+---
+
+@japan.reuters.com
+
+＜為替＞　ドルが円やスイスフランなどの通貨に対して小幅下落した。今週は主要中銀の政策決定会合や米経済指標など、主要イベントが目白押しで、連邦準備理事会（ＦＲＢ）の今後の金利政策を見極める重要な手がかりとなる可能性がある。 bit.ly/4oXKFOS
+
+[2025-12-16 11:01:06](https://bsky.app/profile/japan.reuters.com/post/3ma32gw4gkw2q)
+
+---
+
+@nbcnews.com
+
+The two victims identified in Brown University shooting are Ella Cook and Mukhammad Aziz Umurzokov.
+
+[2025-12-16 11:01:04](https://bsky.app/profile/nbcnews.com/post/3ma32guxz5z26)
 
 ---
 
 @reuters.com
 
-Sabalenka named WTA Player of the Year for second straight season reut.rs/48XavwI
+Trump says lawsuit against BBC likely to be filed soon reut.rs/48UmxH3
 
-[2025-12-16 10:40:19](https://bsky.app/profile/reuters.com/post/3ma2zbrka252o)
-
----
-
-@nytimes.com
-
-In @nytopinion.nytimes.com 
-
-We asked readers to tell us about the most memorable gifts they’ve received. Here are 13 that cost (almost) nothing:
-
-[2025-12-16 10:40:02](https://bsky.app/profile/nytimes.com/post/3ma2zbbbggx2s)
-
----
-
-@cbsnews.com
-
-Hong Kong pro-democracy activist Jimmy Lai's daughter says she's "grieving" his sedition conviction.
-
-[2025-12-16 10:40:01](https://bsky.app/profile/cbsnews.com/post/3ma2zba274l2g)
-
----
-
-@japan.reuters.com
-
-米動画配信大手ネットフリックスのグレッグ・ピーターズ、テッド・サランドス両共同最高経営責任者（ＣＥＯ）は１５日、ワーナー・ブラザース・ディスカバリー（ＷＢＤ）の資産を買収する決定に変更はないと従業員宛ての書簡で述べた。 bit.ly/4p2A3hP
-
-[2025-12-16 10:36:36](https://bsky.app/profile/japan.reuters.com/post/3ma2z34vqp52q)
+[2025-12-16 11:01:02](https://bsky.app/profile/reuters.com/post/3ma32gszfja2p)
 
 ---
 
