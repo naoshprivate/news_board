@@ -1,9 +1,9 @@
-# [2025-12-16 19:50 updated](2025_12_16.md)
+# [2025-12-16 20:10 updated](2025_12_16.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】小5男児がトラックにひかれ死亡 東京・板橋区 警視庁 (2025-12-16 19:46:19) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma3xui3mwr2e" target="_blank">sokuho.news</a> (2025-12-16 19:47:39)</span><span style="padding-right:50px;">Sudan once again tops International Rescue Committee crises watchlist reut.rs/4pHjU2w <a href="https://bsky.app/profile/reuters.com/post/3ma3xq6ioot2y" target="_blank">reuters.com</a> (2025-12-16 19:45:15)</span><span style="padding-right:50px;">シドニー 銃撃事件 容疑者親子 フィリピンで戦闘訓練受けたか https://news.web.nhk/newsweb/na/na-k10015005841000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3xpvfk4x2y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 19:45:03)</span><span style="padding-right:50px;">欧州経済センター（ＺＥＷ）が１６日発表した１２月のドイツ景気期待指数は４５．８と、市場予想を上回って改善した。先行きに対する見方が好転している。 bit.ly/3YhgOGx <a href="https://bsky.app/profile/japan.reuters.com/post/3ma3xpb5smb25" target="_blank">japan.reuters.com</a> (2025-12-16 19:44:44)</span><span style="padding-right:50px;">The M23 armed group said on Tuesday it would withdraw from the key city of Uvira in the eastern Democratic Republic of Congo at the request of Washington, which vowed “action” over the “clear violation” of a US-brokered peace accord ➡️ u.afp.com/S7HA <a href="https://bsky.app/profile/en.afp.com/post/3ma3xof2bdw26" target="_blank">en.afp.com</a> (2025-12-16 19:44:15)</span>
+<span style="padding-right:50px;">信用格付け会社モーニングスターＤＢＲＳは１６日、世界的にプライベートクレジットの借り手企業の利益率が低下しており、２０２６年にはさらなるローンのデフォルト（債務不履行）につながる可能性が高いと指摘した。 bit.ly/3KUOOVN <a href="https://bsky.app/profile/japan.reuters.com/post/3ma3ytwkvtr2u" target="_blank">japan.reuters.com</a> (2025-12-16 20:05:14)</span><span style="padding-right:50px;">Cooper Flagg makes history with 42, but Mavs fall to Jazz in OT reut.rs/3KZ6EqG <a href="https://bsky.app/profile/reuters.com/post/3ma3ytvna442b" target="_blank">reuters.com</a> (2025-12-16 20:05:13)</span><span style="padding-right:50px;">ロシア大統領府のペスコフ報道官は１６日、ウクライナが提案したクリスマス停戦について、和平協定が成立するかどうかにかかっていると述べた。 bit.ly/49equrh <a href="https://bsky.app/profile/japan.reuters.com/post/3ma3ype2lhz2u" target="_blank">japan.reuters.com</a> (2025-12-16 20:02:41)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】「殺すぞ」と怒鳴り自転車にわざと車で接近・衝突したか 殺人未遂の疑いで逃走していた21歳の自営業の男を逮捕 容疑を一部否認 自転車の女性は軽傷 大阪・堺市 (2025-12-16 19:45) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma3ynanuaf2b" target="_blank">sokuho.news</a> (2025-12-16 20:01:30)</span><span style="padding-right:50px;">大井川鉄道、ブルートレイン急行を2026年1月から運行（無料記事） www.nikkei.com/article/DGXZQO...  青い12系客車か旧型客車と電気機関車を組み合わせて運転します。  「黒いSL」で知られる蒸気機関車C10形8号機は車両改造のため一時運休し、29年春ごろまでの運転再開を目指します。 <a href="https://bsky.app/profile/nikkei.com/post/3ma3ymwztv322" target="_blank">nikkei.com</a> (2025-12-16 20:01:20)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.85 (🔻0.37 : 2025-12-16)</span>
+<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.87 (🔻0.35 : 2025-12-16)</span>
   </div>
 </div>
 
@@ -32,99 +32,102 @@
 
 ## News Headlines
 
-1. 5-Year-Old Boy Killed in Tokyo Car Accident
-2. Sudan Tops Crisis Watchlist for Second Time
-3. Sydney Gun Attack Suspect's Family May Have Undergone Combat Training
-4. German Economy Expectations Index Surges to 45.8
-5. M23 Rebel Group Agrees to Withdraw from Eastern Congo City
-6. UK High Court Rules Rotisserie Chickens Subject to VAT
+Here are six important stories with headlines:
+
+1. Credit Rating Agency Warns of Higher Loan Defaults in 2026
+2. Steelers Maintain Monday Magic, Eliminate Dolphins in Thrilling Match
+3. Sudan Tops International Rescue Committee's Crisis Watchlist for Third Consecutive Year
+4. European Central Bank Warns of Negative Impact on Bank Liquidity from Italian Budget Measures
+5. France's Louvre Museum Struck by Staff Strike, Closes Temporarily
+6. US Navy Confirms Attack on Three Ships in International Waters, Eight Dead
 
 ----
 
-@sokuho.news
+@japan.reuters.com
 
-🛎️JNNより【速報】です。
+信用格付け会社モーニングスターＤＢＲＳは１６日、世界的にプライベートクレジットの借り手企業の利益率が低下しており、２０２６年にはさらなるローンのデフォルト（債務不履行）につながる可能性が高いと指摘した。 bit.ly/3KUOOVN
 
-【速報】小5男児がトラックにひかれ死亡 東京・板橋区 警視庁
-(2025-12-16 19:46:19) #ニュース
-
-[2025-12-16 19:47:39](https://bsky.app/profile/sokuho.news/post/3ma3xui3mwr2e)
+[2025-12-16 20:05:14](https://bsky.app/profile/japan.reuters.com/post/3ma3ytwkvtr2u)
 
 ---
 
 @reuters.com
 
-Sudan once again tops International Rescue Committee crises watchlist reut.rs/4pHjU2w
+Cooper Flagg makes history with 42, but Mavs fall to Jazz in OT reut.rs/3KZ6EqG
 
-[2025-12-16 19:45:15](https://bsky.app/profile/reuters.com/post/3ma3xq6ioot2y)
-
----
-
-@nhknewsunofficial.bsky.social
-
-シドニー 銃撃事件 容疑者親子 フィリピンで戦闘訓練受けたか
-https://news.web.nhk/newsweb/na/na-k10015005841000
-
-[2025-12-16 19:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3xpvfk4x2y)
+[2025-12-16 20:05:13](https://bsky.app/profile/reuters.com/post/3ma3ytvna442b)
 
 ---
 
 @japan.reuters.com
 
-欧州経済センター（ＺＥＷ）が１６日発表した１２月のドイツ景気期待指数は４５．８と、市場予想を上回って改善した。先行きに対する見方が好転している。 bit.ly/3YhgOGx
+ロシア大統領府のペスコフ報道官は１６日、ウクライナが提案したクリスマス停戦について、和平協定が成立するかどうかにかかっていると述べた。 bit.ly/49equrh
 
-[2025-12-16 19:44:44](https://bsky.app/profile/japan.reuters.com/post/3ma3xpb5smb25)
-
----
-
-@en.afp.com
-
-The M23 armed group said on Tuesday it would withdraw from the key city of Uvira in the eastern Democratic Republic of Congo at the request of Washington, which vowed “action” over the “clear violation” of a US-brokered peace accord ➡️ u.afp.com/S7HA
-
-[2025-12-16 19:44:15](https://bsky.app/profile/en.afp.com/post/3ma3xof2bdw26)
+[2025-12-16 20:02:41](https://bsky.app/profile/japan.reuters.com/post/3ma3ype2lhz2u)
 
 ---
 
 @sokuho.news
 
-🛎️NNNより【速報】です。
+🛎️FNNより【速報】です。
 
-【速報】「覚えてろよ」軽自動車が自転車に“幅寄せ”して女性軽傷 殺人未遂疑いで車運転の男を逮捕 大阪・堺市
-(2025-12-16 19:43) #ニュース
+【速報】「殺すぞ」と怒鳴り自転車にわざと車で接近・衝突したか 殺人未遂の疑いで逃走していた21歳の自営業の男を逮捕 容疑を一部否認 自転車の女性は軽傷 大阪・堺市
+(2025-12-16 19:45) #ニュース
 
-[2025-12-16 19:43:25](https://bsky.app/profile/sokuho.news/post/3ma3xmvuu2u2x)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Trump defends his criticism of killed Hollywood director Rob Reiner
-
-[2025-12-16 19:41:29](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma3xji4q4b2b)
+[2025-12-16 20:01:30](https://bsky.app/profile/sokuho.news/post/3ma3ynanuaf2b)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@nikkei.com
 
-Hero couple tried to stop gunman before being killed in Bondi attack
+大井川鉄道、ブルートレイン急行を2026年1月から運行（無料記事）
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-16 19:40:26](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma3xhldl4b2v)
+青い12系客車か旧型客車と電気機関車を組み合わせて運転します。
+
+「黒いSL」で知られる蒸気機関車C10形8号機は車両改造のため一時運休し、29年春ごろまでの運転再開を目指します。
+
+[2025-12-16 20:01:20](https://bsky.app/profile/nikkei.com/post/3ma3ymwztv322)
 
 ---
 
-@financialtimes.com
+@reuters.com
 
-Morrisons has argued that its rotisserie chickens should be exempt from VAT because most of its customers consumed them cold or reheated it later in the day as part of an evening meal. But the UK High court ruled the product should be subject to VAT on.ft.com/44rx9f9
+Steelers maintain Monday magic, eliminate Dolphins reut.rs/4534eOF
 
-[2025-12-16 19:40:18](https://bsky.app/profile/financialtimes.com/post/3ma3xhd3j2l2k)
+[2025-12-16 20:01:03](https://bsky.app/profile/reuters.com/post/3ma3ymgyceb2i)
 
 ---
 
 @japan.reuters.com
 
-欧州中央銀行（ＥＣＢ）は、イタリアの２０２６年予算で想定されている措置は銀行の流動性に「マイナスの影響」を与える可能性があると指摘した。金融機関が税負担を軽くするため預金に対して支払われる利息をカットする可能性があり、流動性バッファーが縮小することになるとしている。 bit.ly/4oV4rKY
+国際救援委員会（ＩＲＣ）は１６日、人道上の緊急事態が発生・悪化するリスクが最も高い２０の国・地域の２０２６年版リストを公表し、内戦が続くスーダンが３年連続でワースト１位になった。 bit.ly/4oSN1OX
 
-[2025-12-16 19:40:17](https://bsky.app/profile/japan.reuters.com/post/3ma3xhcvkkv2q)
+[2025-12-16 20:00:41](https://bsky.app/profile/japan.reuters.com/post/3ma3ylrvhoi2s)
+
+---
+
+@cnn.com
+
+"Of course, President Donald Trump doubled down on his tasteless social media post about murdered Hollywood director Rob Reiner," writes Stephen Collinson | Analysis https://cnn.it/49f2CE0
+
+[2025-12-16 20:00:18](https://bsky.app/profile/cnn.com/post/3ma3yl3hhb223)
+
+---
+
+@bloomberg.com
+
+$100 billion is now the baseline for insurance industry losses each year due to natural disasters, as climate change fuels volatile weather.
+
+[2025-12-16 20:00:17](https://bsky.app/profile/bloomberg.com/post/3ma3yl3b4ek2h)
+
+---
+
+@nbcnews.com
+
+Law enforcement is pleading with the public to help in the manhunt, for the Brown University gunman, releasing additional images and requesting any new details or observations. 
+
+[2025-12-16 20:00:11](https://bsky.app/profile/nbcnews.com/post/3ma3ykvmztz23)
 
 ---
 
