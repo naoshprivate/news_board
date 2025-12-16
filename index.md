@@ -1,9 +1,9 @@
-# [2025-12-16 12:50 updated](2025_12_16.md)
+# [2025-12-16 13:10 updated](2025_12_16.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">カーリング五輪最終予選 混合ダブルス 日本代表 通算2勝2敗に https://news.web.nhk/newsweb/na/na-k10015005101000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3aga2wff2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 12:48:03)</span><span style="padding-right:50px;">米取引所運営大手ナスダックは米国株に対する世界的な需要を取り込むため、２４時間取引に向けた書類を１５日に米証券取引委員会（ＳＥＣ）に提出する。 bit.ly/4iZIOaT <a href="https://bsky.app/profile/japan.reuters.com/post/3ma3abjhqwc2c" target="_blank">japan.reuters.com</a> (2025-12-16 12:45:27)</span><span style="padding-right:50px;">株価 値下がり 半導体関連を中心に売り注文 https://news.web.nhk/newsweb/na/na-k10015005241000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3aauk5al2x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 12:45:02)</span><span style="padding-right:50px;">フィリピン  のテオドロ  国防相  は１６日、中国海警局が先週南シナ海で行ったフィリピン人漁師に対する行為は「危険」で「非人道的」だったと非難した。 bit.ly/3MEzVYr <a href="https://bsky.app/profile/japan.reuters.com/post/3ma3a545fij25" target="_blank">japan.reuters.com</a> (2025-12-16 12:42:59)</span><span style="padding-right:50px;">高市早苗首相は１６日の参院予算委員会集中審議で、日中関係が緊張する中、両国間でさまざまな対話を行うことに「日本側はオープン」と述べるとともに、中国側の一連の措置による影響などを注視し適切に対応する考えを示した。広田一委員（立憲）への答弁。 bit.ly/4pEJuFc <a href="https://bsky.app/profile/japan.reuters.com/post/3ma37ym7r7s2c" target="_blank">japan.reuters.com</a> (2025-12-16 12:40:28)</span>
+<span style="padding-right:50px;">津波予報区 都道府県に複数予報区ある場合 自治体名など併記へ https://news.web.nhk/newsweb/na/na-k10015005291000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3blqwph724" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 13:09:02)</span><span style="padding-right:50px;">＜１２：５１＞　後場の日経平均は軟調継続、一時800円超安　ＡＩ関連の下げ重し bit.ly/4oVLZlg <a href="https://bsky.app/profile/japan.reuters.com/post/3ma3blkguzi2n" target="_blank">japan.reuters.com</a> (2025-12-16 13:08:57)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】将棋・福間香奈女流六冠「よりよい環境整備がなされることを切に希望致します」とコメント 日本将棋連盟が”出産”で事実上「不戦敗」となるタイトル戦の”産休規定”の削除決定を受け (2025-12-16 12:50) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma3bkuarnt25" target="_blank">sokuho.news</a> (2025-12-16 13:08:34)</span><span style="padding-right:50px;">スリランカのセンサス統計庁が１５日発表した第３・四半期の国内総生産（ＧＤＰ）は前年同期比で５．４％増加した。２０２２年にピークに達した数十年で最悪の金融危機からの回復が続いていることが示された。 bit.ly/3KNbiZ0 <a href="https://bsky.app/profile/japan.reuters.com/post/3ma3betew3x2s" target="_blank">japan.reuters.com</a> (2025-12-16 13:05:12)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】妊娠出産めぐる将棋連盟の「対局者変更」規定削除を受け 福間女流六冠と弁護団がコメント (2025-12-16 13:01:29) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma3bbj3hlk2e" target="_blank">sokuho.news</a> (2025-12-16 13:03:20)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49386.69 (🔻664.55 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3334.00 (🔻46.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.90 (🔻0.32 : 2025-12-16)</span>
+<span style="padding-right:50px;">NIKKEI: 49601.38 (🔻449.86 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3341.00 (🔻39.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.88 (🔻0.34 : 2025-12-16)</span>
   </div>
 </div>
 
@@ -32,91 +32,50 @@
 
 ## News Headlines
 
-1. Japan Mixed Doubles Curling Team Advances to Olympics with 2 Wins and 2 Losses
-2. Nasdaq to Submit 24-Hour Trading Proposal to SEC to Boost Global Demand for US Stocks
-3. Stock Prices Decline, with Semiconductor-Related Stocks Seeing Heavy Selling Orders
-4. Philippine Defense Chief Condemns China's Actions Against Filipino Fishermen in the South China Sea
-5. Japanese Prime Minister Suga Emphasizes Japan's Openness to Dialogue with China Amid Rising Tensions
-6. FDA Has No Plans to Add Strong Warning Label to COVID Vaccines, Bloomberg Reports
+Here are six important stories with headlines in English:
+
+1. Japan's Nikkei Index Falls Below 8,000 Yen Amid AI-Related Sell-Off
+2. Slumping Stock Market: Chipmaker Shares Plummet Amid Global Economic Uncertainty
+3. Philippines Condemns China Coast Guard for 'Dangerous and Inhumane' Behavior Against Filipino Fishermen
+4. US Stocks Plummet Amid Semiconductor-Related Sell-Off, Nikkei Index Falls Below 8,000 Yen
+5. Ford Announces $1.95 Billion impairment Charge, Cuts 7 Electric Vehicle Models
+6. Pentagon Escalates Review of Sen. Mark Kelly Over Video Urging Defiance of Illegal Orders
 
 ----
 
 @nhknewsunofficial.bsky.social
 
-カーリング五輪最終予選 混合ダブルス 日本代表 通算2勝2敗に
-https://news.web.nhk/newsweb/na/na-k10015005101000
+津波予報区 都道府県に複数予報区ある場合 自治体名など併記へ
+https://news.web.nhk/newsweb/na/na-k10015005291000
 
-[2025-12-16 12:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3aga2wff2s)
-
----
-
-@japan.reuters.com
-
-米取引所運営大手ナスダックは米国株に対する世界的な需要を取り込むため、２４時間取引に向けた書類を１５日に米証券取引委員会（ＳＥＣ）に提出する。 bit.ly/4iZIOaT
-
-[2025-12-16 12:45:27](https://bsky.app/profile/japan.reuters.com/post/3ma3abjhqwc2c)
-
----
-
-@nhknewsunofficial.bsky.social
-
-株価 値下がり 半導体関連を中心に売り注文
-https://news.web.nhk/newsweb/na/na-k10015005241000
-
-[2025-12-16 12:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3aauk5al2x)
+[2025-12-16 13:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3blqwph724)
 
 ---
 
 @japan.reuters.com
 
-フィリピン
- のテオドロ
- 国防相
- は１６日、中国海警局が先週南シナ海で行ったフィリピン人漁師に対する行為は「危険」で「非人道的」だったと非難した。 bit.ly/3MEzVYr
+＜１２：５１＞　後場の日経平均は軟調継続、一時800円超安　ＡＩ関連の下げ重し bit.ly/4oVLZlg
 
-[2025-12-16 12:42:59](https://bsky.app/profile/japan.reuters.com/post/3ma3a545fij25)
+[2025-12-16 13:08:57](https://bsky.app/profile/japan.reuters.com/post/3ma3blkguzi2n)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】将棋・福間香奈女流六冠「よりよい環境整備がなされることを切に希望致します」とコメント 日本将棋連盟が”出産”で事実上「不戦敗」となるタイトル戦の”産休規定”の削除決定を受け
+(2025-12-16 12:50) #ニュース
+
+[2025-12-16 13:08:34](https://bsky.app/profile/sokuho.news/post/3ma3bkuarnt25)
 
 ---
 
 @japan.reuters.com
 
-高市早苗首相は１６日の参院予算委員会集中審議で、日中関係が緊張する中、両国間でさまざまな対話を行うことに「日本側はオープン」と述べるとともに、中国側の一連の措置による影響などを注視し適切に対応する考えを示した。広田一委員（立憲）への答弁。 bit.ly/4pEJuFc
+スリランカのセンサス統計庁が１５日発表した第３・四半期の国内総生産（ＧＤＰ）は前年同期比で５．４％増加した。２０２２年にピークに達した数十年で最悪の金融危機からの回復が続いていることが示された。 bit.ly/3KNbiZ0
 
-[2025-12-16 12:40:28](https://bsky.app/profile/japan.reuters.com/post/3ma37ym7r7s2c)
-
----
-
-@reuters.com
-
-FDA has no plans to put most serious warning on COVID vaccines, Bloomberg News reports reut.rs/4aBPWZd
-
-[2025-12-16 12:40:19](https://bsky.app/profile/reuters.com/post/3ma37ydotix2k)
-
----
-
-@nytimes.com
-
-Joe Ely has died at 78. A singer-songwriter at the forefront of alt-country, he earned the nickname Lord of the Highway thanks to tireless touring.
-
-[2025-12-16 12:40:03](https://bsky.app/profile/nytimes.com/post/3ma37xujb3x2s)
-
----
-
-@nhknewsunofficial.bsky.social
-
-経済同友会 新浪氏後任の代表幹事に日本IBM社長の山口明夫氏へ
-https://news.web.nhk/newsweb/na/na-k10015005221000
-
-[2025-12-16 12:39:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma37waxv2v2s)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【地震情報】宮城県で震度3 津波の心配なし
-https://news.web.nhk/newsweb/na/na-k10015003931000
-
-[2025-12-16 12:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma37w47nll2b)
+[2025-12-16 13:05:12](https://bsky.app/profile/japan.reuters.com/post/3ma3betew3x2s)
 
 ---
 
@@ -124,10 +83,60 @@ https://news.web.nhk/newsweb/na/na-k10015003931000
 
 🛎️JNNより【速報】です。
 
-【速報】経済同友会 代表幹事に日本IBM・山口社長を起用へ 違法サプリ問題で辞任した新浪剛史氏の後任
-(2025-12-16 12:34:30) #ニュース
+【速報】妊娠出産めぐる将棋連盟の「対局者変更」規定削除を受け 福間女流六冠と弁護団がコメント
+(2025-12-16 13:01:29) #ニュース
 
-[2025-12-16 12:36:15](https://bsky.app/profile/sokuho.news/post/3ma37r3ihei2r)
+[2025-12-16 13:03:20](https://bsky.app/profile/sokuho.news/post/3ma3bbj3hlk2e)
+
+---
+
+@cnn.com
+
+The House Oversight Committee is offering former President Bill Clinton and former Secretary of State Hillary Clinton new deposition dates in January as part of the panel’s investigation into Jeffrey Epstein – and threatening the possibility of contempt proceedings if they do not comply.
+
+[2025-12-16 13:02:01](https://bsky.app/profile/cnn.com/post/3ma3b75mdrp26)
+
+---
+
+@nikkei.com
+
+千葉県のメタバース婚活「ちばメタ婚」、3Dから2Dに（無料記事）
+www.nikkei.com/article/DGXZQO...
+
+立体的だった仮想空間やアバターを、昔のRPGのようなデザインに。パソコンだけでなくスマホにも対応し、参加しやすくする狙いです。
+
+女性参加者が1人だった前回からの挽回を期します。
+
+[2025-12-16 13:01:18](https://bsky.app/profile/nikkei.com/post/3ma3b5u5o3x22)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】将棋・福間香奈女流六冠「よりよい環境整備がなされることを切に希望致します」とコメント 日本将棋連盟が”出産”で事実上「不戦敗」となるタイトル戦の”産休規定”を削除したこと…
+(2025-12-16 12:50) #ニュース
+
+[2025-12-16 13:00:50](https://bsky.app/profile/sokuho.news/post/3ma3b52cape2e)
+
+---
+
+@cnbc.com
+
+Dick Van Dyke is officially a centenarian!
+
+Here are three research-backed staples in his routine that he credits for his 100 years of life.
+
+[2025-12-16 13:00:49](https://bsky.app/profile/cnbc.com/post/3ma3b4yr2fd2p)
+
+---
+
+@reuters.com
+
+Intel appoints Trump economic adviser as head of government affairs reut.rs/4pFS6M1
+
+[2025-12-16 13:00:45](https://bsky.app/profile/reuters.com/post/3ma3b4vlilm2r)
 
 ---
 
