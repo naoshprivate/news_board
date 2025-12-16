@@ -1,9 +1,9 @@
-# [2025-12-16 21:50 updated](2025_12_16.md)
+# [2025-12-16 22:10 updated](2025_12_16.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">クルーズ船「飛鳥III」 事故報告せず運航 国交省が行政指導 https://news.web.nhk/newsweb/na/na-k10015006031000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma46lsrbrb2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 21:48:02)</span><span style="padding-right:50px;">欧州中央銀行（ＥＣＢ）は、イタリアの２０２６年予算で想定されている措置は銀行の流動性に「マイナスの影響」を与える可能性があると指摘した。金融機関が税負担を軽くするため預金に対して支払われる利息をカットする可能性があり、流動性バッファーが縮小することになるとしている。 bit.ly/4s6WchR <a href="https://bsky.app/profile/japan.reuters.com/post/3ma46gxu5nf2f" target="_blank">japan.reuters.com</a> (2025-12-16 21:45:22)</span><span style="padding-right:50px;">Iraq's dreams of wheat independence dashed by water crisis reut.rs/48HfNxq <a href="https://bsky.app/profile/reuters.com/post/3ma46grizft2o" target="_blank">reuters.com</a> (2025-12-16 21:45:15)</span><span style="padding-right:50px;">If GOP Rep. Nancy Mace is going to win her race for South Carolina governor, she’s going to do it mostly on her own. <a href="https://bsky.app/profile/wsj.com/post/3ma46galgk62o" target="_blank">wsj.com</a> (2025-12-16 21:44:57)</span><span style="padding-right:50px;">#BREAKING Paris Saint-Germain ordered to pay 60m euros ($70.6m) to former star Kylian Mbappe in wage dispute <a href="https://bsky.app/profile/en.afp.com/post/3ma46cb476o2u" target="_blank">en.afp.com</a> (2025-12-16 21:42:44)</span>
+<span style="padding-right:50px;">Bullish investors pile into stocks as cash levels sink to record low ft.trib.al/2anrfB2 <a href="https://bsky.app/profile/financialtimes.com/post/3ma47sbhva72k" target="_blank">financialtimes.com</a> (2025-12-16 22:09:35)</span><span style="padding-right:50px;">ロシア大統領府のペスコフ報道官は１６日、ウクライナが提案したクリスマス停戦について、和平協定が成立するかどうかにかかっていると述べた。 bit.ly/3KTN4fE <a href="https://bsky.app/profile/japan.reuters.com/post/3ma47korrbo26" target="_blank">japan.reuters.com</a> (2025-12-16 22:05:20)</span><span style="padding-right:50px;">'Shadow banking' growing at double the rate of traditional lenders, FSB says reut.rs/490Iy73 <a href="https://bsky.app/profile/reuters.com/post/3ma47kij2cy2i" target="_blank">reuters.com</a> (2025-12-16 22:05:14)</span><span style="padding-right:50px;">Bank of America says this hotel stock will be a winner because of the World Cup <a href="https://bsky.app/profile/cnbc.com/post/3ma47jpe5jj2e" target="_blank">cnbc.com</a> (2025-12-16 22:04:48)</span><span style="padding-right:50px;">A data breach at e-commerce company Coupang exposed the personal information of tens of millions of South Koreans and went undetected for nearly five months. <a href="https://bsky.app/profile/wsj.com/post/3ma47fsn7j52c" target="_blank">wsj.com</a> (2025-12-16 22:02:36)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.67 (🔻0.55 : 2025-12-16)</span>
+<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.60 (🔻0.62 : 2025-12-16)</span>
   </div>
 </div>
 
@@ -32,95 +32,101 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are six important stories with headlines:
 
-1. Japan Ministry of Land, Infrastructure, Transport and Tourism Fines Cruise Ship Operator for Not Reporting Accident
-2. European Central Bank Warns of Negative Impact on Banking System
-3. Iraq's Dream of Wheat Independence Dashed by Water Crisis
-4. Paris Saint-Germain Ordered to Pay €60M to Former Star Kylian Mbappe
-5. US Seeks to Seize More Sanctioned Oil-Filled Tankers Off Venezuela
-6. European Union to Introduce First-Ever Carbon Border Adjustment Mechanism
+1. Russia's Presidential Spokesman Raises Doubts on Ukraine's Proposed Christmas Truce
+2. LA Wildfires Cause $40 Billion in Insured Losses, Becoming Costliest Disaster of Its Kind
+3. US Forces Kill 8 Suspected Drug Smugglers in Eastern Pacific, Bringing Death Toll to 95
+4. Medline's Long-Delayed IPO on Track to Raise $7.5 Billion, Largest Listing of the Year
+5. Paris Saint-Germain Ordered to Pay €60 Million to Kylian Mbappé in Wage Dispute
+6. US to Seize More Sanctioned Oil-Filled Tankers Off Venezuela as Pressure Campaign Escalates
 
 ----
 
-@nhknewsunofficial.bsky.social
+@financialtimes.com
 
-クルーズ船「飛鳥III」 事故報告せず運航 国交省が行政指導
-https://news.web.nhk/newsweb/na/na-k10015006031000
+Bullish investors pile into stocks as cash levels sink to record low ft.trib.al/2anrfB2
 
-[2025-12-16 21:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma46lsrbrb2m)
+[2025-12-16 22:09:35](https://bsky.app/profile/financialtimes.com/post/3ma47sbhva72k)
 
 ---
 
 @japan.reuters.com
 
-欧州中央銀行（ＥＣＢ）は、イタリアの２０２６年予算で想定されている措置は銀行の流動性に「マイナスの影響」を与える可能性があると指摘した。金融機関が税負担を軽くするため預金に対して支払われる利息をカットする可能性があり、流動性バッファーが縮小することになるとしている。 bit.ly/4s6WchR
+ロシア大統領府のペスコフ報道官は１６日、ウクライナが提案したクリスマス停戦について、和平協定が成立するかどうかにかかっていると述べた。 bit.ly/3KTN4fE
 
-[2025-12-16 21:45:22](https://bsky.app/profile/japan.reuters.com/post/3ma46gxu5nf2f)
-
----
-
-@reuters.com
-
-Iraq's dreams of wheat independence dashed by water crisis reut.rs/48HfNxq
-
-[2025-12-16 21:45:15](https://bsky.app/profile/reuters.com/post/3ma46grizft2o)
-
----
-
-@wsj.com
-
-If GOP Rep. Nancy Mace is going to win her race for South Carolina governor, she’s going to do it mostly on her own.
-
-[2025-12-16 21:44:57](https://bsky.app/profile/wsj.com/post/3ma46galgk62o)
-
----
-
-@en.afp.com
-
-<strong><span style="color: red;">#BREAKING</span> Paris Saint-Germain ordered to pay 60m euros ($70.6m) to former star Kylian Mbappe in wage dispute</strong>
-
-[2025-12-16 21:42:44](https://bsky.app/profile/en.afp.com/post/3ma46cb476o2u)
+[2025-12-16 22:05:20](https://bsky.app/profile/japan.reuters.com/post/3ma47korrbo26)
 
 ---
 
 @reuters.com
 
-Rwanda-backed M23 group says it will withdraw from seized Congo town after US request reut.rs/3XU91y7
+'Shadow banking' growing at double the rate of traditional lenders, FSB says reut.rs/490Iy73
 
-[2025-12-16 21:40:22](https://bsky.app/profile/reuters.com/post/3ma465zfh2p2p)
-
----
-
-@nytimes.com
-
-Brigitte Macron, the first lady of France, apologized on Monday for offending feminist protesters during a private conversation last week, but she also said that she should be able to speak freely when with friends.
-
-[2025-12-16 21:40:03](https://bsky.app/profile/nytimes.com/post/3ma465hqeym25)
-
----
-
-@axios.com
-
-SCOOP: Elon Musk — who threatened to launch a third party and support challengers to Republican incumbents during his dispute with Trump — is now firmly back in the GOP's camp having begun funding Republican midterms campaigns.
-
-[2025-12-16 21:37:32](https://bsky.app/profile/axios.com/post/3ma45yxv63c24)
+[2025-12-16 22:05:14](https://bsky.app/profile/reuters.com/post/3ma47kij2cy2i)
 
 ---
 
 @cnbc.com
 
-As catastrophe losses top $100 billion again, insurers are helping policyholders mitigate risk
+Bank of America says this hotel stock will be a winner because of the World Cup
 
-[2025-12-16 21:36:51](https://bsky.app/profile/cnbc.com/post/3ma45xqb2vm2e)
+[2025-12-16 22:04:48](https://bsky.app/profile/cnbc.com/post/3ma47jpe5jj2e)
 
 ---
 
-@japan.reuters.com
+@wsj.com
 
-Ｓ＆Ｐグローバルがまとめた１２月のフランスのＨＣＯＢ総合購買担当者景気指数（ＰＭＩ）速報値は５０．１と、１１月の５０．４から低下し、好不況の分かれ目となる５０に迫った。 bit.ly/4oVb7Zy
+A data breach at e-commerce company Coupang exposed the personal information of tens of millions of South Koreans and went undetected for nearly five months.
 
-[2025-12-16 21:35:18](https://bsky.app/profile/japan.reuters.com/post/3ma45uxqlyi2p)
+[2025-12-16 22:02:36](https://bsky.app/profile/wsj.com/post/3ma47fsn7j52c)
+
+---
+
+@nikkei.com
+
+AIが生む格差「速い政府」で対応　チームみらい・安野貴博党首
+www.nikkei.com/article/DGXZQO...
+
+社会保障は実額ではなく「インフレ率と連動して再分配を実現するパラメーター（変数）」ベースを想定。
+
+ベーシックインカムには賛成の立場を示します。
+
+#超知能 #日経_連載
+
+[2025-12-16 22:01:19](https://bsky.app/profile/nikkei.com/post/3ma47di5aaf2f)
+
+---
+
+@cnn.com
+
+When a cache of photos seized from Jeffrey Epstein's Gmail account and laptop was made public last week, one in particular stopped Dani Bensky in her tracks. https://cnn.it/3YvLGTy
+
+[2025-12-16 22:01:02](https://bsky.app/profile/cnn.com/post/3ma47cyp2pk2x)
+
+---
+
+@reuters.com
+
+Thai central bank is 'taking action' on baht, worried by rapid rise reut.rs/4s0uF1i
+
+[2025-12-16 22:01:02](https://bsky.app/profile/reuters.com/post/3ma47cym25b23)
+
+---
+
+@usatoday.com
+
+Days after saying he's "100% fine" following an apparent overdose from smoking crack cocaine, Andy Dick checked into a facility in Palm Springs.
+
+[2025-12-16 22:00:52](https://bsky.app/profile/usatoday.com/post/3ma47cof46g2o)
+
+---
+
+@cnbc.com
+
+Travel nurse Aspen Tucker has been able to achieve financial goals by earning a high salary and residing in a state with a low cost of living.
+
+[2025-12-16 22:00:48](https://bsky.app/profile/cnbc.com/post/3ma47ckzbef2y)
 
 ---
 
