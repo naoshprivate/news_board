@@ -1,9 +1,9 @@
-# [2025-12-17 08:10 updated](2025_12_17.md)
+# [2025-12-17 08:30 updated](2025_12_17.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">フィンランドやポーランドなどロシア国境に近い北・東欧８カ国は１６日、フィンランドの首都ヘルシンキで首脳会議を開き、欧州の防衛と安全保障の強化において、欧州連合（ＥＵ）がより大きな役割を果たすよう求めた。 bit.ly/3XZdrnh <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5b5bv5to2c" target="_blank">japan.reuters.com</a> (2025-12-17 08:06:18)</span><span style="padding-right:50px;">US threatens countermeasures after EU fine on Musk's X reut.rs/4aRh32b <a href="https://bsky.app/profile/reuters.com/post/3ma5b3c3vbs2y" target="_blank">reuters.com</a> (2025-12-17 08:05:11)</span><span style="padding-right:50px;">＜０７：５０＞　ドル154.20─155.50円の見通し、米利下げ思惑で売り再燃も bit.ly/4q5apd2 <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5axbtgs72u" target="_blank">japan.reuters.com</a> (2025-12-17 08:02:57)</span><span style="padding-right:50px;">Why China’s young are flocking to government jobs in record numbers <a href="https://bsky.app/profile/cnbc.com/post/3ma5ax7pl5d2e" target="_blank">cnbc.com</a> (2025-12-17 08:02:54)</span><span style="padding-right:50px;">Harvard-affiliated Dana-Farber to pay $15 million to settle US claims over flawed studies reut.rs/3KPo4Gs <a href="https://bsky.app/profile/reuters.com/post/3ma5au4lrqu2r" target="_blank">reuters.com</a> (2025-12-17 08:01:10)</span>
+<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】山陽道（下り）和気ICで自損事故「ガードレールにぶつかった」と通報 路肩規制と速度規制（17日午前8時14分現在） (2025-12-17 08:14:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma5carzc2l2b" target="_blank">sokuho.news</a> (2025-12-17 08:26:09)</span><span style="padding-right:50px;">Judge says he is unlikely to immediately halt Trump's $300 million White House ballroom project reut.rs/4ak0pIz <a href="https://bsky.app/profile/reuters.com/post/3ma5c74jkc42p" target="_blank">reuters.com</a> (2025-12-17 08:25:13)</span><span style="padding-right:50px;">Measles outbreaks worsen in South Carolina, Arizona and Utah. <a href="https://bsky.app/profile/cbsnews.com/post/3ma5bvslfpz2y" target="_blank">cbsnews.com</a> (2025-12-17 08:20:01)</span><span style="padding-right:50px;">Hiring cooled this fall, according to delayed figures released by the Labor Department Tuesday. Employers added 64,000 jobs in November as the unemployment rate rose to 4.6%. n.pr/4oXMGL1 <a href="https://bsky.app/profile/npr.org/post/3ma5bp35tsv2m" target="_blank">npr.org</a> (2025-12-17 08:16:15)</span><span style="padding-right:50px;">Organisers of the Milan-Cortina Winter Olympics say they had 'a technical problem' with the production of artificial snow which will play a key role in the Games in Italy next February  u.afp.com/S79T <a href="https://bsky.app/profile/en.afp.com/post/3ma5boblxkj2q" target="_blank">en.afp.com</a> (2025-12-17 08:15:48)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.73 (🔻0.02 : 2025-12-16)</span>
+<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.76 (🔺0.01 : 2025-12-16)</span>
   </div>
 </div>
 
@@ -32,94 +32,105 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are six important stories with headlines:
 
-1. Eight North and East European Countries Urge EU to Play Bigger Role in European Defence
-2. US Adds 20 Countries to Travel Ban List Amid Escalating Anti-Immigrant Rhetoric
-3. Tesla Invests Heavily in German Gigafactory to Boost Battery Cell Production
-4. Warner Bros. Discovery May Decide on Paramount's $10.8 Billion Acquisition Bid Within Days
-5. US Judge Allows White House to Continue Work on Controversial Ballroom Addition
-6. Macron Warns Against Tariffs and Quotas on Chinese Imports to Address Trade Imbalance
+1. Measles Outbreaks Worsen in US States
+2. EU Reverses Plan to Ban Engine Cars by 2035
+3. Judge Denies Request to Block White House Ballroom Construction
+4. US Adds Five Arab and African Countries to Travel Ban List
+5. Tesla Ramps Up Battery Cell Investments at German Gigafactory
+6. President Trump to Give National Address on Wednesday
 
 ----
 
-@japan.reuters.com
+@sokuho.news
 
-フィンランドやポーランドなどロシア国境に近い北・東欧８カ国は１６日、フィンランドの首都ヘルシンキで首脳会議を開き、欧州の防衛と安全保障の強化において、欧州連合（ＥＵ）がより大きな役割を果たすよう求めた。 bit.ly/3XZdrnh
+🛎️JNNより【速報】です。
 
-[2025-12-17 08:06:18](https://bsky.app/profile/japan.reuters.com/post/3ma5b5bv5to2c)
+【速報】山陽道（下り）和気ICで自損事故「ガードレールにぶつかった」と通報 路肩規制と速度規制（17日午前8時14分現在）
+(2025-12-17 08:14:00) #ニュース
 
----
-
-@reuters.com
-
-US threatens countermeasures after EU fine on Musk's X reut.rs/4aRh32b
-
-[2025-12-17 08:05:11](https://bsky.app/profile/reuters.com/post/3ma5b3c3vbs2y)
-
----
-
-@japan.reuters.com
-
-＜０７：５０＞　ドル154.20─155.50円の見通し、米利下げ思惑で売り再燃も bit.ly/4q5apd2
-
-[2025-12-17 08:02:57](https://bsky.app/profile/japan.reuters.com/post/3ma5axbtgs72u)
-
----
-
-@cnbc.com
-
-Why China’s young are flocking to government jobs in record numbers
-
-[2025-12-17 08:02:54](https://bsky.app/profile/cnbc.com/post/3ma5ax7pl5d2e)
+[2025-12-17 08:26:09](https://bsky.app/profile/sokuho.news/post/3ma5carzc2l2b)
 
 ---
 
 @reuters.com
 
-Harvard-affiliated Dana-Farber to pay $15 million to settle US claims over flawed studies reut.rs/3KPo4Gs
+Judge says he is unlikely to immediately halt Trump's $300 million White House ballroom project reut.rs/4ak0pIz
 
-[2025-12-17 08:01:10](https://bsky.app/profile/reuters.com/post/3ma5au4lrqu2r)
-
----
-
-@apnews.com
-
-The BBC is not the first media organization on the receiving end of a lawsuit from President Trump. But its position is complicated by its status as a taxpayer-funded public broadcaster and its stature as a closely scrutinized national institution.
-
-[2025-12-17 08:01:07](https://bsky.app/profile/apnews.com/post/3ma5atzdpbs23)
+[2025-12-17 08:25:13](https://bsky.app/profile/reuters.com/post/3ma5c74jkc42p)
 
 ---
 
-@usatoday.com
+@cbsnews.com
 
-Did Howard Stern sign a new deal? After telling listeners in September he would have an announcement about his future at SiriusXM, he's revealing all.
+Measles outbreaks worsen in South Carolina, Arizona and Utah.
 
-[2025-12-17 08:01:01](https://bsky.app/profile/usatoday.com/post/3ma5attwfeh2o)
+[2025-12-17 08:20:01](https://bsky.app/profile/cbsnews.com/post/3ma5bvslfpz2y)
 
 ---
 
-@wsj.com
+@npr.org
 
-An avid skier, the tech co-founder plans to use the 3,700-acre ranch outside Aspen as a home on.wsj.com/48SbDl6
+Hiring cooled this fall, according to delayed figures released by the Labor Department Tuesday. Employers added 64,000 jobs in November as the unemployment rate rose to 4.6%. n.pr/4oXMGL1
 
-[2025-12-17 08:00:59](https://bsky.app/profile/wsj.com/post/3ma5atrolzf2k)
+[2025-12-17 08:16:15](https://bsky.app/profile/npr.org/post/3ma5bp35tsv2m)
+
+---
+
+@en.afp.com
+
+Organisers of the Milan-Cortina Winter Olympics say they had 'a technical problem' with the production of artificial snow which will play a key role in the Games in Italy next February
+
+u.afp.com/S79T
+
+[2025-12-17 08:15:48](https://bsky.app/profile/en.afp.com/post/3ma5boblxkj2q)
+
+---
+
+@reuters.com
+
+Measles cases in South Carolina rise by nine to 135, state health department says reut.rs/3YtiSLs
+
+[2025-12-17 08:15:15](https://bsky.app/profile/reuters.com/post/3ma5bnbyc5a2o)
+
+---
+
+@nikkei.com
+
+【中国客減少の影響、最大は静岡県】
+外国人宿泊客に占める比率が45%でトップ
+www.nikkei.com/article/DGXZQO...
+
+富士山があり東京と京都・大阪をつなぐ「ゴールデンルート」上に位置。
+
+2位は和歌山県、3位兵庫県、5位大阪府など、関西も中国客比率の高さが目立ちます。
+
+[2025-12-17 08:15:15](https://bsky.app/profile/nikkei.com/post/3ma5bnc25pp2m)
 
 ---
 
 @cnbc.com
 
-Brian Glaser became a first-time manager 20 years ago and now leads teams in charge of training some 150,000 Google employees worldwide. 
+Stock futures are little changed as traders absorb shaky U.S. economic data: Live updates
 
-[2025-12-17 08:00:54](https://bsky.app/profile/cnbc.com/post/3ma5atmk7ks2x)
+[2025-12-17 08:13:04](https://bsky.app/profile/cnbc.com/post/3ma5bjf4grl2b)
 
 ---
 
-@bloomberg.com
+@japan.reuters.com
 
-President Donald Trump expressed unhappiness with the owners of Paramount Skydance Corp. over CBS News coverage of his presidency, in the latest signal of how he may be leaning in the battle to purchase Warner Bros. Discovery Inc.
+欧州連合（ＥＵ）欧州委員会は１６日、域内でエンジン車の新車販売を２０３５年以降禁止する目標を事実上撤回することを正式に提案した。加盟国のドイツ、イタリアや、主要自動車メーカーの圧力に屈した形だ。 bit.ly/48X8hxk
 
-[2025-12-17 08:00:21](https://bsky.app/profile/bloomberg.com/post/3ma5asn5bct2h)
+[2025-12-17 08:13:03](https://bsky.app/profile/japan.reuters.com/post/3ma5bjegw3k2v)
+
+---
+
+@reuters.com
+
+16 US states sue federal government after Trump suspends EV charging programs reut.rs/457EMYf
+
+[2025-12-17 08:10:19](https://bsky.app/profile/reuters.com/post/3ma5bei7k3m24)
 
 ---
 
