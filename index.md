@@ -1,9 +1,9 @@
-# [2025-12-16 15:10 updated](2025_12_16.md)
+# [2025-12-16 15:30 updated](2025_12_16.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">＜１５：０１＞　午後3時のドルは154円後半、米雇用統計控え上値重い bit.ly/49j8oDF <a href="https://bsky.app/profile/japan.reuters.com/post/3ma3ibfhsrt2n" target="_blank">japan.reuters.com</a> (2025-12-16 15:08:33)</span><span style="padding-right:50px;">高市首相「海空連絡メカニズム」“日中間で着実な運用確保を” https://news.web.nhk/newsweb/na/na-k10015005371000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3i54iu2h2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 15:06:07)</span><span style="padding-right:50px;">自民と維新 きょう午後6時めどで党首会談を行うと発表 https://news.web.nhk/newsweb/na/na-k10015005481000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3i4y4dtv24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 15:06:02)</span><span style="padding-right:50px;">Donald Trump sues the BBC for $10 billion over a misleading edit in a documentary last year <a href="https://bsky.app/profile/bloomberg.com/post/3ma3i3qwvft2f" target="_blank">bloomberg.com</a> (2025-12-16 15:05:23)</span><span style="padding-right:50px;">Trump files $5 billion lawsuit against BBC reut.rs/4q6vHad <a href="https://bsky.app/profile/reuters.com/post/3ma3i3dwaga2r" target="_blank">reuters.com</a> (2025-12-16 15:05:10)</span>
+<span style="padding-right:50px;">１６日中盤の東南アジア株式市場の株価はまちまち。 bit.ly/48WSGxN <a href="https://bsky.app/profile/japan.reuters.com/post/3ma3jcfzaek25" target="_blank">japan.reuters.com</a> (2025-12-16 15:27:01)</span><span style="padding-right:50px;">Stocks struggle before jobs data, central bank meetings reut.rs/49deAxT <a href="https://bsky.app/profile/reuters.com/post/3ma3j737hze2i" target="_blank">reuters.com</a> (2025-12-16 15:25:08)</span><span style="padding-right:50px;">アジア新興国通貨は総じて軟調。台湾ドル、韓国ウォン、インドネシアルピア、タイバーツが値を下げている。 bit.ly/3KwukTq <a href="https://bsky.app/profile/japan.reuters.com/post/3ma3iwy3mxn27" target="_blank">japan.reuters.com</a> (2025-12-16 15:20:37)</span><span style="padding-right:50px;">米食品医薬品局（ＦＤＡ）は１５日、特定の乳がんの１次治療に英製薬大手アストラゼネカと第一三共の抗がん剤「エンハーツ」と、スイス同業ロシュの抗がん剤「パージェタ」を併用することを承認したと発表した。 bit.ly/499V05H <a href="https://bsky.app/profile/japan.reuters.com/post/3ma3iwbd2f52s" target="_blank">japan.reuters.com</a> (2025-12-16 15:20:13)</span><span style="padding-right:50px;">India's HDFC Bank subsidiaries get nod to buy up to 9.5% stake in IndusInd Bank reut.rs/44v2kpW <a href="https://bsky.app/profile/reuters.com/post/3ma3inbpjn52r" target="_blank">reuters.com</a> (2025-12-16 15:15:11)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49430.60 (🔻620.64 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3333.00 (🔻47.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.85 (🔻0.38 : 2025-12-16)</span>
+<span style="padding-right:50px;">NIKKEI: 49512.85 (🔻538.39 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3335.00 (🔻45.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.92 (🔻0.30 : 2025-12-16)</span>
   </div>
 </div>
 
@@ -32,77 +32,83 @@
 
 ## News Headlines
 
-1. Dollar Hits 154 Yen in Afternoon Trading as US Jobless Numbers Weigh Heavily
-2. Japan's Prime Minister Fumio Kishida Promises Steady Progress on Japan-China Dialogue
-3. LDP and Komeito to Hold Party Chief Talks at 6pm Today
-4. Trump Sues BBC for $10 Billion Over Misleading Documentary Edit
-5. Credit Rating Agency Warns of Potential Rise in Global Private Credit Defaults
-6. EU Relents on Combustion Engine Ban Amidst Auto Industry Pressure
+Here are six important stories with headlines in English:
+
+1. Stocks Struggle Before Jobs Data, Central Bank Meetings
+2. India's HDFC Bank Subsidiaries Get Nod to Buy Up to 9.5% Stake in IndusInd Bank
+3. FDA Approves Combination Therapy for Certain Type of Breast Cancer
+4. Taiwan Says Military Can Respond Rapidly to Any Sudden Chinese Attack
+5. Donald Trump Sues BBC for $10 Billion Over Misleading Documentary Edit
+6. S&P Global's PMI Index for India Slips to 58.9 in December, Lowest in 10 Months
 
 ----
 
 @japan.reuters.com
 
-＜１５：０１＞　午後3時のドルは154円後半、米雇用統計控え上値重い bit.ly/49j8oDF
+１６日中盤の東南アジア株式市場の株価はまちまち。 bit.ly/48WSGxN
 
-[2025-12-16 15:08:33](https://bsky.app/profile/japan.reuters.com/post/3ma3ibfhsrt2n)
-
----
-
-@nhknewsunofficial.bsky.social
-
-高市首相「海空連絡メカニズム」“日中間で着実な運用確保を”
-https://news.web.nhk/newsweb/na/na-k10015005371000
-
-[2025-12-16 15:06:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3i54iu2h2m)
-
----
-
-@nhknewsunofficial.bsky.social
-
-自民と維新 きょう午後6時めどで党首会談を行うと発表
-https://news.web.nhk/newsweb/na/na-k10015005481000
-
-[2025-12-16 15:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3i4y4dtv24)
-
----
-
-@bloomberg.com
-
-Donald Trump sues the BBC for $10 billion over a misleading edit in a documentary last year
-
-[2025-12-16 15:05:23](https://bsky.app/profile/bloomberg.com/post/3ma3i3qwvft2f)
+[2025-12-16 15:27:01](https://bsky.app/profile/japan.reuters.com/post/3ma3jcfzaek25)
 
 ---
 
 @reuters.com
 
-Trump files $5 billion lawsuit against BBC reut.rs/4q6vHad
+Stocks struggle before jobs data, central bank meetings reut.rs/49deAxT
 
-[2025-12-16 15:05:10](https://bsky.app/profile/reuters.com/post/3ma3i3dwaga2r)
+[2025-12-16 15:25:08](https://bsky.app/profile/reuters.com/post/3ma3j737hze2i)
 
 ---
 
 @japan.reuters.com
 
-信用格付け会社モーニングスターＤＢＲＳは１６日、世界的にプライベートクレジットの借り手企業の利益率が低下しており、２０２６年にはさらなるローンのデフォルト（債務不履行）につながる可能性が高いと指摘した。 bit.ly/4qaFuMw
+アジア新興国通貨は総じて軟調。台湾ドル、韓国ウォン、インドネシアルピア、タイバーツが値を下げている。 bit.ly/3KwukTq
 
-[2025-12-16 15:02:05](https://bsky.app/profile/japan.reuters.com/post/3ma3hvtjtm72v)
+[2025-12-16 15:20:37](https://bsky.app/profile/japan.reuters.com/post/3ma3iwy3mxn27)
 
 ---
 
-@nikkei.com
+@japan.reuters.com
 
-中古住宅、マンションか戸建てか　チェックポイントは
-www.nikkei.com/article/DGXZQO...
+米食品医薬品局（ＦＤＡ）は１５日、特定の乳がんの１次治療に英製薬大手アストラゼネカと第一三共の抗がん剤「エンハーツ」と、スイス同業ロシュの抗がん剤「パージェタ」を併用することを承認したと発表した。 bit.ly/499V05H
 
-耐震など安全性のチェックはどちらも必須です。
+[2025-12-16 15:20:13](https://bsky.app/profile/japan.reuters.com/post/3ma3iwbd2f52s)
 
-戸建なら「水の染み」や「外壁のヒビ」、マンションはゴミ捨て場や駐車場も。
+---
 
-専門家は売り主が「売る理由」の確認も勧めます。
+@reuters.com
 
-[2025-12-16 15:01:17](https://bsky.app/profile/nikkei.com/post/3ma3hug4nbu24)
+India's HDFC Bank subsidiaries get nod to buy up to 9.5% stake in IndusInd Bank reut.rs/44v2kpW
+
+[2025-12-16 15:15:11](https://bsky.app/profile/reuters.com/post/3ma3inbpjn52r)
+
+---
+
+@japan.reuters.com
+
+Ｓ＆Ｐグローバルがまとめた１２月のＨＳＢＣインド総合購買担当者景気指数（ＰＭＩ）速報値は５８．９と、１１月の５９．７から低下し、１０カ月ぶりの低水準を記録した。新規受注が鈍化した。 bit.ly/44tIBab
+
+[2025-12-16 15:15:08](https://bsky.app/profile/japan.reuters.com/post/3ma3in6vdto2q)
+
+---
+
+@wsj.com
+
+“He craves a remote-control cone of metal that appears designed by Elon Musk. I want the magic of a real, fragrant tree,” writes Michelle Slatalla.
+
+“Can Christmas—and our marriage—be saved?”
+
+🔗: on.wsj.com/3YvRyfu
+
+[2025-12-16 15:13:44](https://bsky.app/profile/wsj.com/post/3ma3ikowk3m2h)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+赤澤経産相 メガソーラー支援 “政府 厳格に対応する方針”
+https://news.web.nhk/newsweb/na/na-k10015005381000
+
+[2025-12-16 15:12:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3ihpmmxb2y)
 
 ---
 
@@ -110,29 +116,18 @@ www.nikkei.com/article/DGXZQO...
 
 🛎️FNNより【速報】です。
 
-【速報】和歌山県警の警部 訓練の休憩中に同僚にけん銃の銃口に向け…停職6カ月の懲戒処分
-(2025-12-16 14:51) #ニュース
+【速報】年末年始の東海道新幹線 下りのピークは12月27日（土）上りのピークは1月3日（土） JR東海が発表
+(2025-12-16 14:49) #ニュース
 
-[2025-12-16 15:01:16](https://bsky.app/profile/sokuho.news/post/3ma3hufb24y27)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】延岡市のガソリンスタンド強盗致傷事件で会社員の男(38)を逮捕
-(2025-12-16 14:56) #ニュース
-
-[2025-12-16 15:00:49](https://bsky.app/profile/sokuho.news/post/3ma3htlrxxl2y)
+[2025-12-16 15:10:46](https://bsky.app/profile/sokuho.news/post/3ma3ifezsvq2a)
 
 ---
 
 @japan.reuters.com
 
-ボンディ米司法長官は１５日、カリフォルニア州の複数の標的に対する爆弾攻撃計画を阻止したと発表した。これに関連し、４人が訴追された。 bit.ly/3N1u1k4
+米アトランタ地区連銀は１５日、来年２月末に退任するボスティック総裁の後任を選ぶ手続きを開始した。「（同連銀がカバーする）第６連邦準備区に有意なつながりを持つ候補ら」から次期総裁を探す計画だとしている。 bit.ly/4oSzDut
 
-[2025-12-16 15:00:37](https://bsky.app/profile/japan.reuters.com/post/3ma3ht7hblw2c)
+[2025-12-16 15:10:11](https://bsky.app/profile/japan.reuters.com/post/3ma3iedenrq2c)
 
 ---
 
