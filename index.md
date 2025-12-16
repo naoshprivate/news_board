@@ -1,9 +1,9 @@
-# [2025-12-17 05:10 updated](2025_12_17.md)
+# [2025-12-17 05:30 updated](2025_12_17.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The Post reported on the Coast Guard’s plan to revise harassment policy last month.  The Trump administration called the story “false,” but hours later, the acting commandant issued a memo denouncing swastikas and nooses and reaffirmed they were prohibited. <a href="https://bsky.app/profile/washingtonpost.com/post/3ma4xauk3bc2e" target="_blank">washingtonpost.com</a> (2025-12-17 05:09:21)</span><span style="padding-right:50px;">ロンドン株式市場は反落して取引を終えた。イングランド銀行（英中央銀行）の金融政策発表を１８日に控える中、英通貨ポンドが対ドルで上昇し、輸出志向の企業への重荷となった。石油や防衛株も売られた。国内志向の強い中型株で構成するＦＴＳＥ２５０種指数は０．０４％安。 bit.ly/3XUjAkN <a href="https://bsky.app/profile/japan.reuters.com/post/3ma4x7fqemx26" target="_blank">japan.reuters.com</a> (2025-12-17 05:08:32)</span><span style="padding-right:50px;">Netflix's deal for Warner Bros. has raised concerns about industry consolidation. Last week's Golden Globe nominations help illustrate what it would mean for awards season reut.rs/48IR8bP <a href="https://bsky.app/profile/reuters.com/post/3ma4x6rm5bk2p" target="_blank">reuters.com</a> (2025-12-17 05:08:11)</span><span style="padding-right:50px;">Breaking news: U.S. Coast Guard allows a new workplace harassment policy to take effect, downgrading the definition of swastikas and nooses from overt hate symbols to “potentially divisive” despite facing backlash over the new language.  <a href="https://bsky.app/profile/washingtonpost.com/post/3ma4x5s2ymb2y" target="_blank">washingtonpost.com</a> (2025-12-17 05:07:38)</span><span style="padding-right:50px;">Ben Cohen, co-founder of Ben and Jerry’s, said the ice-cream maker’s decision to remove three members from its independent board is an attempt to dismantle its social mission. <a href="https://bsky.app/profile/wsj.com/post/3ma4x5didiw2c" target="_blank">wsj.com</a> (2025-12-17 05:07:22)</span>
+<span style="padding-right:50px;">From @theathleticfc.bsky.social: Manchester United&#39;s 4-4 draw with Bournemouth was the craziest game of the Premier League season and provided sensational entertainment.  We broke down the action and talking points. <a href="https://bsky.app/profile/nytimes.com/post/3ma4ycdsrvt2e" target="_blank">nytimes.com</a> (2025-12-17 05:28:04)</span><span style="padding-right:50px;">アンコールワット近くにタイ軍による空爆 カンボジア政府発表 https://news.web.nhk/newsweb/na/na-k10015006021000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma4yaliqns2x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-17 05:27:03)</span><span style="padding-right:50px;">Jane Austen would have been 250 today. A group of students have a published new edition of 'The Tour of Doctor Syntax: In Search of the Picturesque,' which was a mega bestseller during her life. <a href="https://bsky.app/profile/npr.org/post/3ma4yaggdre2g" target="_blank">npr.org</a> (2025-12-17 05:27:00)</span><span style="padding-right:50px;">Constellation Energy secures 20-year license extensions for two nuclear plants reut.rs/4oTFoYF <a href="https://bsky.app/profile/reuters.com/post/3ma4y57bm2y2i" target="_blank">reuters.com</a> (2025-12-17 05:25:12)</span><span style="padding-right:50px;">Susie Wiles, a 68-year-old political consultant, served as Trump’s campaign manager last year and has been credited with bringing order to the president's office. Now, new comments from her have emerged. ft.trib.al/C7tV55L <a href="https://bsky.app/profile/financialtimes.com/post/3ma4y4it3nw25" target="_blank">financialtimes.com</a> (2025-12-17 05:24:48)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48127.12 (🔻253.05 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23088.62 (🔺106.80 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.04 (🔺0.78 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.58 (🔻0.64 : 2025-12-16)</span>
+<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48154.69 (🔻225.48 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23101.82 (🔺120.00 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.25 (🔺0.99 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.65 (🔻0.57 : 2025-12-16)</span>
   </div>
 </div>
 
@@ -32,95 +32,100 @@
 
 ## News Headlines
 
-1. Coast Guard Revises Harassment Policy Amid Backlash
-2. Netflix's Warner Bros. Deal Sparks Industry Consolidation Concerns
-3. US Jobless Rate Surges for Blacks and Teens in November
-4. US Postal Service to Release New Stamps in 2026
-5. Women Restore Mangrove Forest in India After Tiger Attacks
-6. FIFA Slashes World Cup Ticket Prices Amid Global Backlash
+Here are six important stories with headlines:
+
+1. Trump Administration Expands Travel Ban to Five New Countries
+2. Legendary Pro Wrestler Mick Foley Quits WWE Over Ties to Trump
+3. Scientists Extract Rare RNA from 40,000-Year-Old Woolly Mammoth
+4. US Coast Guard Allows Revised Harassment Policy Despite Backlash
+5. Netflix's Deal for Warner Bros. Raises Concerns About Industry Consolidation
+6. Japan Launches Fifth Quasi-Zenith Satellite MICHIBIKI to Improve GPS Navigation
 
 ----
 
-@washingtonpost.com
+@nytimes.com
 
-The Post reported on the Coast Guard’s plan to revise harassment policy last month.
+From @theathleticfc.bsky.social: Manchester United&#39;s 4-4 draw with Bournemouth was the craziest game of the Premier League season and provided sensational entertainment.
 
-The Trump administration called the story “false,” but hours later, the acting commandant issued a memo denouncing swastikas and nooses and reaffirmed they were prohibited.
+We broke down the action and talking points.
 
-[2025-12-17 05:09:21](https://bsky.app/profile/washingtonpost.com/post/3ma4xauk3bc2e)
-
----
-
-@japan.reuters.com
-
-ロンドン株式市場は反落して取引を終えた。イングランド銀行（英中央銀行）の金融政策発表を１８日に控える中、英通貨ポンドが対ドルで上昇し、輸出志向の企業への重荷となった。石油や防衛株も売られた。国内志向の強い中型株で構成するＦＴＳＥ２５０種指数は０．０４％安。 bit.ly/3XUjAkN
-
-[2025-12-17 05:08:32](https://bsky.app/profile/japan.reuters.com/post/3ma4x7fqemx26)
-
----
-
-@reuters.com
-
-Netflix's deal for Warner Bros. has raised concerns about industry consolidation. Last week's Golden Globe nominations help illustrate what it would mean for awards season reut.rs/48IR8bP
-
-[2025-12-17 05:08:11](https://bsky.app/profile/reuters.com/post/3ma4x6rm5bk2p)
-
----
-
-@washingtonpost.com
-
-<strong><span style="color: red;">Breaking news:</span> U.S. Coast Guard allows a new workplace harassment policy to take effect, downgrading the definition of swastikas and nooses from overt hate symbols to “potentially divisive” despite facing backlash over the new language. </strong>
-
-[2025-12-17 05:07:38](https://bsky.app/profile/washingtonpost.com/post/3ma4x5s2ymb2y)
-
----
-
-@wsj.com
-
-Ben Cohen, co-founder of Ben and Jerry’s, said the ice-cream maker’s decision to remove three members from its independent board is an attempt to dismantle its social mission.
-
-[2025-12-17 05:07:22](https://bsky.app/profile/wsj.com/post/3ma4x5didiw2c)
+[2025-12-17 05:28:04](https://bsky.app/profile/nytimes.com/post/3ma4ycdsrvt2e)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-臨時国会 きょう会期末 衆院定数削減法案を継続審議へ
-https://news.web.nhk/newsweb/na/na-k10015005911000
+アンコールワット近くにタイ軍による空爆 カンボジア政府発表
+https://news.web.nhk/newsweb/na/na-k10015006021000
 
-[2025-12-17 05:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma4x2xoxny2d)
+[2025-12-17 05:27:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma4yaliqns2x)
+
+---
+
+@npr.org
+
+Jane Austen would have been 250 today. A group of students have a published new edition of 'The Tour of Doctor Syntax: In Search of the Picturesque,' which was a mega bestseller during her life.
+
+[2025-12-17 05:27:00](https://bsky.app/profile/npr.org/post/3ma4yaggdre2g)
 
 ---
 
 @reuters.com
 
-Texas Attorney General sues Xcel Energy unit over Smokehouse Creek wildfire reut.rs/4p1pdsm
+Constellation Energy secures 20-year license extensions for two nuclear plants reut.rs/4oTFoYF
 
-[2025-12-17 05:05:16](https://bsky.app/profile/reuters.com/post/3ma4wzktev22i)
-
----
-
-@usatoday.com
-
-When do the new USPS stamps come out in 2026? What to know.
-
-[2025-12-17 05:01:05](https://bsky.app/profile/usatoday.com/post/3ma4ws3kawo25)
+[2025-12-17 05:25:12](https://bsky.app/profile/reuters.com/post/3ma4y57bm2y2i)
 
 ---
 
-@cnn.com
+@financialtimes.com
 
-In the world’s largest mangrove forest, women whose husbands were killed by Bengal tigers are working to restore their habitat. https://cnn.it/3KZWcPT
+Susie Wiles, a 68-year-old political consultant, served as Trump’s campaign manager last year and has been credited with bringing order to the president's office. Now, new comments from her have emerged. ft.trib.al/C7tV55L
 
-[2025-12-17 05:01:03](https://bsky.app/profile/cnn.com/post/3ma4ws27n3o24)
+[2025-12-17 05:24:48](https://bsky.app/profile/financialtimes.com/post/3ma4y4it3nw25)
 
 ---
 
-@japan.reuters.com
+@nhknewsunofficial.bsky.social
 
-１６日のフェデラルファンド（ＦＦ）金利先物市場では、米連邦準備理事会（ＦＲＢ）が１月の次回米連邦公開市場委員会（ＦＯＭＣ）で利下げに踏み切る確率が上昇した。１１月の米失業率が上昇したことを受けた。 bit.ly/4pG3ZkS
+日本版GPS衛星「みちびき」5号機 きょう午前 打ち上げ
+https://news.web.nhk/newsweb/na/na-k10015005941000
 
-[2025-12-17 05:00:59](https://bsky.app/profile/japan.reuters.com/post/3ma4wrwi4xq22)
+[2025-12-17 05:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma4y37d55s2w)
+
+---
+
+@wsj.com
+
+A young woolly mammoth died 40,000 years ago, its body preserved in the Siberian permafrost. Scientists were able to extract rare RNA from its skin and tissues.
+
+[2025-12-17 05:23:34](https://bsky.app/profile/wsj.com/post/3ma4y2cfsp72c)
+
+---
+
+@axios.com
+
+Susie Wiles calls the Vanity Fair interview a "hit piece."
+
+Here's what to know about her.
+
+[2025-12-17 05:23:20](https://bsky.app/profile/axios.com/post/3ma4xzuyeik23)
+
+---
+
+@nytimes.com
+
+Aritzia's Effortless Pant is a straight-leg, high-rise pleated pant that claims to be “the original goes-with-everything trouser.” Our style writer enlisted the help of a panel of testers to try on every style — and there are a lot — so you don't have to.
+
+[2025-12-17 05:23:04](https://bsky.app/profile/nytimes.com/post/3ma4xzfumqd2b)
+
+---
+
+@apnews.com
+
+<strong><span style="color: red;">BREAKING:</span> The Trump administration expands travel ban to include Burkina Faso, Mali, Niger, South Sudan and Syria.</strong>
+
+[2025-12-17 05:22:46](https://bsky.app/profile/apnews.com/post/3ma4xyu2mhd24)
 
 ---
 
