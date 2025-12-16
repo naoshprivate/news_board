@@ -1,9 +1,9 @@
-# [2025-12-16 11:10 updated](2025_12_16.md)
+# [2025-12-16 11:30 updated](2025_12_16.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">米大リーグ（ＭＬＢ）のフィリーズが、プロ野球の巨人でもプレーしたアドリス・ガルシア外野手と１年１０００万ドル（約１５億５０００万円）で契約合意したとスポーツ専門サイト「ジ・アスレチック」などが１５日に報じた。 bit.ly/4j1moWP <a href="https://bsky.app/profile/japan.reuters.com/post/3ma32vhrut425" target="_blank">japan.reuters.com</a> (2025-12-16 11:09:14)</span><span style="padding-right:50px;">欧州各国「ウクライナ多国籍軍」創設などを含む共同声明発表 https://news.web.nhk/newsweb/na/na-k10015005091000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma32v7yw4e2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 11:09:03)</span><span style="padding-right:50px;">世界最大の亜鉛製錬会社である韓国の高麗亜鉛は１５日、米テネシー州に７４億ドル規模の重要鉱物精錬所を建設すると発表した。米政府が主に資金を提供し、重要鉱物の中国への依存軽減を目指す。 bit.ly/3KysKQX <a href="https://bsky.app/profile/japan.reuters.com/post/3ma32tjazc52n" target="_blank">japan.reuters.com</a> (2025-12-16 11:08:08)</span><span style="padding-right:50px;">片山さつき財務相は１６日、政府と日銀の間で景気認識を巡る見解に「齟齬（そご）はない」との考えを改めて示した。午前の閣議後会見で語った。 bit.ly/4pFci0r <a href="https://bsky.app/profile/japan.reuters.com/post/3ma32rmo42x2q" target="_blank">japan.reuters.com</a> (2025-12-16 11:07:05)</span><span style="padding-right:50px;">サッカーのイングランド・プレミアリーグは１５日に１試合を行い、マンチェスター・ユナイテッド（マンＵ）はホームでボーンマスと点の取り合いの末に４─４で引き分けた。 bit.ly/48FN2Bd <a href="https://bsky.app/profile/japan.reuters.com/post/3ma32lp3bp52n" target="_blank">japan.reuters.com</a> (2025-12-16 11:03:46)</span>
+<span style="padding-right:50px;">【日経特報】 経済同友会の代表幹事に日本IBM・山口明夫社長　新浪剛史氏の後任 www.nikkei.com/article/DGXZQO...  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3ma33ysx22322" target="_blank">nikkei.com</a> (2025-12-16 11:29:00)</span><span style="padding-right:50px;">赤沢亮正経済産業相は１６日の閣議後会見で、太陽光発電については、屋根への設置やペロブスカイト太陽電池の開発・導入を支援する方向だと述べた。 bit.ly/48WOgqu <a href="https://bsky.app/profile/japan.reuters.com/post/3ma33v3oto32q" target="_blank">japan.reuters.com</a> (2025-12-16 11:26:55)</span><span style="padding-right:50px;">米実業家イーロン・マスク氏の純資産が１５日、６０００億ドルに達したと米経済誌フォーブスが伝えた。同氏が率いる宇宙企業スペースＸが新規株式公開（ＩＰＯ）を準備中で、その一環として企業価値を８０００億ドルとする「二次株式売却」を開始したとの報道を受けた。個人の資産が６０００億ドルに達するのは史上初。 bit.ly/3L4D2Iy <a href="https://bsky.app/profile/japan.reuters.com/post/3ma33s4ho5p22" target="_blank">japan.reuters.com</a> (2025-12-16 11:25:15)</span><span style="padding-right:50px;">AI glasses, pendants, bracelets. They may be bad now, but their promise is huge.  @joannastern tested many smart wearables this year so you don’t waste your money.  Here’s where they have let her down—and where she’s hoping for big improvements soon. on.wsj.com/4pBxEvv <a href="https://bsky.app/profile/wsj.com/post/3ma33ovnvuz2c" target="_blank">wsj.com</a> (2025-12-16 11:23:27)</span><span style="padding-right:50px;">トランプ氏“違法フェンタニルは大量破壊兵器に”大統領令署名 https://news.web.nhk/newsweb/na/na-k10015005151000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma33ksecwv2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 11:21:07)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49560.85 (🔻490.39 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3340.00 (🔻40.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.83 (🔻0.39 : 2025-12-16)</span>
+<span style="padding-right:50px;">NIKKEI: 49513.48 (🔻537.76 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3340.00 (🔻40.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.89 (🔻0.33 : 2025-12-16)</span>
   </div>
 </div>
 
@@ -34,102 +34,100 @@
 
 Here are six news headlines in English:
 
-1. Phillies Agree to $10 Million Deal with Garcia
-2. EU Countries Establish Ukrainian Multinational Forces Amid Ongoing Conflict
-3. South Korea's Posco to Build $7.4 Billion Zinc Refinery in Tennessee
-4. Japanese Finance Minister Denies Disagreement with BOJ on Economic Outlook
-5. Manchester United Draws 4-4 with Bournemouth in EPL Match
-6. US Freezes Tech Deal with UK Amid Tensions
+1. Japan's IBM Chief Executive Taro Shimada to Lead Economic Council
+2. Japanese Minister of Economy, Trade and Industry Hiroshi Kajiyama Supports Solar Power Development and Deployment
+3. Elon Musk's Net Worth Reaches $6,000 Billion, Fueled by SpaceX IPO
+4. NVIDIA Unveils New AI Foundation Model, Promising Improved Speed and Efficiency
+5. EU Imposes New Sanctions on Multiple Traders for Supporting Russian Oil Exports
+6. Ford to Book $30 Billion in Charges by 2027, Citing Electric Vehicle Exit and Battery Business Review
 
 ----
 
+@nikkei.com
+
+【日経特報】
+経済同友会の代表幹事に日本IBM・山口明夫社長　新浪剛史氏の後任
+www.nikkei.com/article/DGXZQO...
+
+#ニュース
+
+[2025-12-16 11:29:00](https://bsky.app/profile/nikkei.com/post/3ma33ysx22322)
+
+---
+
 @japan.reuters.com
 
-米大リーグ（ＭＬＢ）のフィリーズが、プロ野球の巨人でもプレーしたアドリス・ガルシア外野手と１年１０００万ドル（約１５億５０００万円）で契約合意したとスポーツ専門サイト「ジ・アスレチック」などが１５日に報じた。 bit.ly/4j1moWP
+赤沢亮正経済産業相は１６日の閣議後会見で、太陽光発電については、屋根への設置やペロブスカイト太陽電池の開発・導入を支援する方向だと述べた。 bit.ly/48WOgqu
 
-[2025-12-16 11:09:14](https://bsky.app/profile/japan.reuters.com/post/3ma32vhrut425)
+[2025-12-16 11:26:55](https://bsky.app/profile/japan.reuters.com/post/3ma33v3oto32q)
+
+---
+
+@japan.reuters.com
+
+米実業家イーロン・マスク氏の純資産が１５日、６０００億ドルに達したと米経済誌フォーブスが伝えた。同氏が率いる宇宙企業スペースＸが新規株式公開（ＩＰＯ）を準備中で、その一環として企業価値を８０００億ドルとする「二次株式売却」を開始したとの報道を受けた。個人の資産が６０００億ドルに達するのは史上初。 bit.ly/3L4D2Iy
+
+[2025-12-16 11:25:15](https://bsky.app/profile/japan.reuters.com/post/3ma33s4ho5p22)
+
+---
+
+@wsj.com
+
+AI glasses, pendants, bracelets. They may be bad now, but their promise is huge.
+
+@joannastern tested many smart wearables this year so you don’t waste your money.  Here’s where they have let her down—and where she’s hoping for big improvements soon. on.wsj.com/4pBxEvv
+
+[2025-12-16 11:23:27](https://bsky.app/profile/wsj.com/post/3ma33ovnvuz2c)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-欧州各国「ウクライナ多国籍軍」創設などを含む共同声明発表
-https://news.web.nhk/newsweb/na/na-k10015005091000
+トランプ氏“違法フェンタニルは大量破壊兵器に”大統領令署名
+https://news.web.nhk/newsweb/na/na-k10015005151000
 
-[2025-12-16 11:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma32v7yw4e2m)
+[2025-12-16 11:21:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma33ksecwv2w)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+後発地震注意情報 呼びかけ期間終了受け 内閣府と気象庁が会見
+https://news.web.nhk/newsweb/na/na-k10015005051000
+
+[2025-12-16 11:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma33kn3ar42m)
 
 ---
 
 @japan.reuters.com
 
-世界最大の亜鉛製錬会社である韓国の高麗亜鉛は１５日、米テネシー州に７４億ドル規模の重要鉱物精錬所を建設すると発表した。米政府が主に資金を提供し、重要鉱物の中国への依存軽減を目指す。 bit.ly/3KysKQX
+米半導体大手エヌビディアは１５日、人工知能（ＡＩ）の新しい基盤モデルを公開した。モデルの技術的な詳細を公開する「オープンソース」タイプで、同社の従来のモデルより処理速度が速く、低コストで賢いという。 bit.ly/3XX0WbT
 
-[2025-12-16 11:08:08](https://bsky.app/profile/japan.reuters.com/post/3ma32tjazc52n)
-
----
-
-@japan.reuters.com
-
-片山さつき財務相は１６日、政府と日銀の間で景気認識を巡る見解に「齟齬（そご）はない」との考えを改めて示した。午前の閣議後会見で語った。 bit.ly/4pFci0r
-
-[2025-12-16 11:07:05](https://bsky.app/profile/japan.reuters.com/post/3ma32rmo42x2q)
+[2025-12-16 11:20:28](https://bsky.app/profile/japan.reuters.com/post/3ma33jkoso32c)
 
 ---
 
 @japan.reuters.com
 
-サッカーのイングランド・プレミアリーグは１５日に１試合を行い、マンチェスター・ユナイテッド（マンＵ）はホームでボーンマスと点の取り合いの末に４─４で引き分けた。 bit.ly/48FN2Bd
+米ヘッジファンド大手ブリッジウォーター・アソシエイツのグレッグ・ジェンセン共同最高投資責任者（ＣＩＯ）は１５日の顧客向けのノートで、人工知能（ＡＩ）関連銘柄への投資ブームが「危険な」段階に入っていると警告した。ＩＴ大手のＡＩ関連コストが内部キャッシュフロー（ＣＦ）で賄える水準を超えつつある中で、外部からの資金調達に頼り始めていることが背景にある。 bit.ly/455M5j9
 
-[2025-12-16 11:03:46](https://bsky.app/profile/japan.reuters.com/post/3ma32lp3bp52n)
-
----
-
-@japan.reuters.com
-
-米国は英国と９月に結んだ技術協定を一時停止したと、英紙フィナンシャル・タイムズが１５日に報じた。人工知能（ＡＩ）や量子コンピューティング、民生用原子力分野での連携を強化することを目指していた。 bit.ly/3KSQ6kj
-
-[2025-12-16 11:02:39](https://bsky.app/profile/japan.reuters.com/post/3ma32jphzlr27)
-
----
-
-@nikkei.com
-
-フォード、2027年度までに3兆円の巨額費用計上　EV主力車種撤退
-www.nikkei.com/article/DGXZQO...
-
-費用の大半は不採算のEVからの撤退や電池事業の見直しに伴う減損などです。
-
-脱炭素に懐疑的なトランプ米大統領は、バイデン前政権が導入したEV購入に対する税額控除を9月末で廃止。EVの販売を後押ししてきた燃費規制も緩和しました。
-
-これらの政策変更によりアメリカでのEV販売はさらに低迷する可能性があります。
-
-#ニュース
-
-[2025-12-16 11:01:31](https://bsky.app/profile/nikkei.com/post/3ma32hopdkz2m)
-
----
-
-@japan.reuters.com
-
-＜為替＞　ドルが円やスイスフランなどの通貨に対して小幅下落した。今週は主要中銀の政策決定会合や米経済指標など、主要イベントが目白押しで、連邦準備理事会（ＦＲＢ）の今後の金利政策を見極める重要な手がかりとなる可能性がある。 bit.ly/4oXKFOS
-
-[2025-12-16 11:01:06](https://bsky.app/profile/japan.reuters.com/post/3ma32gw4gkw2q)
-
----
-
-@nbcnews.com
-
-The two victims identified in Brown University shooting are Ella Cook and Mukhammad Aziz Umurzokov.
-
-[2025-12-16 11:01:04](https://bsky.app/profile/nbcnews.com/post/3ma32guxz5z26)
+[2025-12-16 11:20:26](https://bsky.app/profile/japan.reuters.com/post/3ma33jinhhw2c)
 
 ---
 
 @reuters.com
 
-Trump says lawsuit against BBC likely to be filed soon reut.rs/48UmxH3
+Judge fines law firm Hagens Berman over AI errors in OnlyFans case reut.rs/4pfJj2p
 
-[2025-12-16 11:01:02](https://bsky.app/profile/reuters.com/post/3ma32gszfja2p)
+[2025-12-16 11:20:17](https://bsky.app/profile/reuters.com/post/3ma33ja3zoc24)
+
+---
+
+@cbsnews.com
+
+Erika Kirk and Candace Owens meet after Charlie Kirk's widow asked the podcaster to stop peddling conspiracy theories.
+
+[2025-12-16 11:20:01](https://bsky.app/profile/cbsnews.com/post/3ma33iqzuwq2i)
 
 ---
 
