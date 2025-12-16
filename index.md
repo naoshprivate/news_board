@@ -1,9 +1,9 @@
-# [2025-12-17 04:10 updated](2025_12_17.md)
+# [2025-12-17 04:30 updated](2025_12_17.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">At Oak Lawn United Methodist Church’s nativity, Mary and Joseph are silhouettes, surrounded by a chain link fence topped with razor wire. Their halos are old bicycle wheels. A shopping cart and two metal bins, frequently used by the unhoused as firepits, flank the scene. <a href="https://bsky.app/profile/npr.org/post/3ma4ttixtbt2d" target="_blank">npr.org</a> (2025-12-17 04:08:11)</span><span style="padding-right:50px;">OpenAI taps former UK finance minister Osborne to lead global Stargate expansion reut.rs/3MDsCjD <a href="https://bsky.app/profile/reuters.com/post/3ma4tob63eb2i" target="_blank">reuters.com</a> (2025-12-17 04:05:15)</span><span style="padding-right:50px;">US Treasury's Bessent says next Fed chair needs 'an open mind' reut.rs/45d2MJz <a href="https://bsky.app/profile/reuters.com/post/3ma4tgtimci2o" target="_blank">reuters.com</a> (2025-12-17 04:01:06)</span><span style="padding-right:50px;">Steven Rogelberg, Chancellor's Professor at UNC Charlotte and author of two books on meeting science, shares 1 tip that can help you avoid unnecessary meetings.  <a href="https://bsky.app/profile/cnbc.com/post/3ma4tgmqn4i2d" target="_blank">cnbc.com</a> (2025-12-17 04:00:59)</span><span style="padding-right:50px;">Actress Taylour Paige spoke to USA TODAY about the "IT: Welcome to Derry" season finale, and her character's growth throughout the series. <a href="https://bsky.app/profile/usatoday.com/post/3ma4tgdjp352h" target="_blank">usatoday.com</a> (2025-12-17 04:00:49)</span>
+<span style="padding-right:50px;">福島 いわき 年末年始用などに「常磐もの」の干物作り最盛期 https://news.web.nhk/newsweb/na/na-k10015005591000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma4uvbjj3d2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-17 04:27:02)</span><span style="padding-right:50px;">At President Trump's urging, Republicans drew new districts to help their party win a House seat now held by a Democrat. A voter petition drive could hold it up but GOP officials say it's on track. <a href="https://bsky.app/profile/npr.org/post/3ma4utasbte2i" target="_blank">npr.org</a> (2025-12-17 04:25:56)</span><span style="padding-right:50px;">From trend to mainstay: AI to cement its place at the core of 2026 investment strategies reut.rs/45bVgi2 <a href="https://bsky.app/profile/reuters.com/post/3ma4us3hatk2y" target="_blank">reuters.com</a> (2025-12-17 04:25:17)</span><span style="padding-right:50px;">Clan del Golfo: US designates Colombia cocaine gang a terrorist group <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma4urc5fwq2r" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-17 04:24:50)</span><span style="padding-right:50px;">北海道 北斗 冬至を前に温泉施設で「ゆず湯」始まる https://news.web.nhk/newsweb/na/na-k10015005561000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma4ukj6gxk2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-17 04:21:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48025.32 (🔻354.85 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 22999.06 (🔺17.25 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 176.62 (🔺0.37 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.78 (🔻0.44 : 2025-12-16)</span>
+<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48050.86 (🔻329.31 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23013.87 (🔺32.05 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 176.74 (🔺0.48 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.74 (🔻0.48 : 2025-12-16)</span>
   </div>
 </div>
 
@@ -32,100 +32,100 @@
 
 ## News Headlines
 
-Here are six important news stories with headlines:
+Here are six news headlines in English:
 
-1. Pentagon Refuses to Release Full Video of US Military Strike on Alleged Drug Boat
-2. US Unemployment Rate Hits 4-Year High as Labor Market Cools
-3. New York Attorney General Accuses UPS of Unlawfully Withholding Wages from Seasonal Workers
-4. Washington Threatens European Groups Over EU's Treatment of US Tech Giants
-5. Australia Honors Heroic Shop Owner Who Shielded Wife from Gun Attack
-6. Arctic Experiences Hottest Year on Record, Worsening Climate Change Impacts
+1. Japan's Fukushima region sees peak demand for 'Iwaki's dried fish' ahead of New Year's holidays.
+2. Republicans Draw New Districts to Help Party Win House Seat.
+3. European Union Reverses Plan to Ban Gasoline-Powered Cars by 2035.
+4. White House Adviser Emphasizes Importance of Fed Independence.
+5. US Treasury Official Says Next Fed Chair Needs to Have an Open Mind.
+6. Australia Honors Shop Owner Who Shielded His Customers from Gunfire.
 
 ----
 
+@nhknewsunofficial.bsky.social
+
+福島 いわき 年末年始用などに「常磐もの」の干物作り最盛期
+https://news.web.nhk/newsweb/na/na-k10015005591000
+
+[2025-12-17 04:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma4uvbjj3d2b)
+
+---
+
 @npr.org
 
-At Oak Lawn United Methodist Church’s nativity, Mary and Joseph are silhouettes, surrounded by a chain link fence topped with razor wire. Their halos are old bicycle wheels. A shopping cart and two metal bins, frequently used by the unhoused as firepits, flank the scene.
+At President Trump's urging, Republicans drew new districts to help their party win a House seat now held by a Democrat. A voter petition drive could hold it up but GOP officials say it's on track.
 
-[2025-12-17 04:08:11](https://bsky.app/profile/npr.org/post/3ma4ttixtbt2d)
-
----
-
-@reuters.com
-
-OpenAI taps former UK finance minister Osborne to lead global Stargate expansion reut.rs/3MDsCjD
-
-[2025-12-17 04:05:15](https://bsky.app/profile/reuters.com/post/3ma4tob63eb2i)
+[2025-12-17 04:25:56](https://bsky.app/profile/npr.org/post/3ma4utasbte2i)
 
 ---
 
 @reuters.com
 
-US Treasury's Bessent says next Fed chair needs 'an open mind' reut.rs/45d2MJz
+From trend to mainstay: AI to cement its place at the core of 2026 investment strategies reut.rs/45bVgi2
 
-[2025-12-17 04:01:06](https://bsky.app/profile/reuters.com/post/3ma4tgtimci2o)
-
----
-
-@cnbc.com
-
-Steven Rogelberg, Chancellor's Professor at UNC Charlotte and author of two books on meeting science, shares 1 tip that can help you avoid unnecessary meetings. 
-
-[2025-12-17 04:00:59](https://bsky.app/profile/cnbc.com/post/3ma4tgmqn4i2d)
+[2025-12-17 04:25:17](https://bsky.app/profile/reuters.com/post/3ma4us3hatk2y)
 
 ---
 
-@usatoday.com
+@bbcnews-world-rss.bsky.social
 
-Actress Taylour Paige spoke to USA TODAY about the "IT: Welcome to Derry" season finale, and her character's growth throughout the series.
+Clan del Golfo: US designates Colombia cocaine gang a terrorist group
 
-[2025-12-17 04:00:49](https://bsky.app/profile/usatoday.com/post/3ma4tgdjp352h)
+[2025-12-17 04:24:50](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma4urc5fwq2r)
 
 ---
 
-@cnn.com
+@nhknewsunofficial.bsky.social
 
-The Pentagon will not release to the public the full video of the US military’s strike on an alleged drug boat on September 2, Secretary of Defense Pete Hegseth said. https://cnn.it/48Vsovx
+北海道 北斗 冬至を前に温泉施設で「ゆず湯」始まる
+https://news.web.nhk/newsweb/na/na-k10015005561000
 
-[2025-12-17 04:00:30](https://bsky.app/profile/cnn.com/post/3ma4tfr5nmz22)
+[2025-12-17 04:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma4ukj6gxk2m)
+
+---
+
+@japan.reuters.com
+
+米労働省が１６日発表した雇用統計によると、非農業部門雇用者数は１０月に政府支出削減の影響で減少した後、１１月には回復した。トランプ大統領の通商政策に起因する不確実性に企業が対処する中でも、労働市場が大きく悪化していないことを示唆した。 bit.ly/48I3YXO
+
+[2025-12-17 04:20:24](https://bsky.app/profile/japan.reuters.com/post/3ma4ujdy6ok22)
+
+---
+
+@cbsnews.com
+
+Nick Reiner, who is being held in connection with the murder of his parents Rob Reiner and Michele Singer Reiner, will not be in court on Tuesday due to medical reasons, his attorney Alan Jackson said.
+
+
+
+[2025-12-17 04:20:00](https://bsky.app/profile/cbsnews.com/post/3ma4uinepwo2l)
+
+---
+
+@wsj.com
+
+Many new investors in cryptocurrency see no reason to panic despite recent price drops.
+
+[2025-12-17 04:15:42](https://bsky.app/profile/wsj.com/post/3ma4uawxfc62t)
+
+---
+
+@reuters.com
+
+White House adviser Hassett: Fed independence is really important reut.rs/4oWE9b6
+
+[2025-12-17 04:15:25](https://bsky.app/profile/reuters.com/post/3ma4uagqukq2i)
 
 ---
 
 @washingtonpost.com
 
-Alexander Kleytman was just a boy when he fled the Holocaust and endured a harrowing train journey to Siberia. 
+The gasoline-powered car is outlasting the policies that had aimed to banish it.
 
-He was killed in the Bondi Beach attack while shielding his wife, Larisa, from the hail of bullets.
+The European Union said it would back away from a pledge to ban emissions from new vehicles in 2035, a day after Ford said it would scale back electric vehicle production plans. 
 
-[2025-12-17 04:00:25](https://bsky.app/profile/washingtonpost.com/post/3ma4tflxy6a2y)
-
----
-
-@nbcnews.com
-
-Australian Prime Minister Anthony Albanese hailed 43-year-old shop owner Ahmed al Ahmed for his heroism as he visited the hospital Tuesday.
-
-[2025-12-17 04:00:20](https://bsky.app/profile/nbcnews.com/post/3ma4tfhqy2z2k)
-
----
-
-@en.afp.com
-
-The Arctic has experienced its hottest year since records began, a US science agency announces, as climate change triggers cascading impacts from melting glaciers and sea ice to greening landscapes and disruptions to global weather.
-AFP's @IssamAhmed reports
-❄️ 🌡️ 
-
-u.afp.com/S7ja
-
-[2025-12-17 04:00:19](https://bsky.app/profile/en.afp.com/post/3ma4tfh2snb2v)
-
----
-
-@bloomberg.com
-
-A study of the Arctic's "vital signs" shows worsening health as heat rises, ice disappears and rivers turn orange.
-
-[2025-12-17 04:00:11](https://bsky.app/profile/bloomberg.com/post/3ma4tf7eg4d2h)
+[2025-12-17 04:15:06](https://bsky.app/profile/washingtonpost.com/post/3ma4u7uu7de2p)
 
 ---
 
