@@ -1,9 +1,9 @@
-# [2025-12-16 16:30 updated](2025_12_16.md)
+# [2025-12-16 16:50 updated](2025_12_16.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">UK unemployment rate rises to 5.1 per cent on.ft.com/4rYlazJ <a href="https://bsky.app/profile/financialtimes.com/post/3ma3mrpmeoi2k" target="_blank">financialtimes.com</a> (2025-12-16 16:29:15)</span><span style="padding-right:50px;">後発地震注意情報 「地震への備え」関連ワードの検索に地域差 https://news.web.nhk/newsweb/na/na-k10015005121000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3mntbqc72u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 16:27:02)</span><span style="padding-right:50px;">東京証券取引所がまとめた１２月１２日申し込み現在の２市場信用取引現在高（概算）は以下のとおり。 bit.ly/4qfpxoz <a href="https://bsky.app/profile/japan.reuters.com/post/3ma3mmag6qg27" target="_blank">japan.reuters.com</a> (2025-12-16 16:26:11)</span><span style="padding-right:50px;">Finnish Prime Minister Petteri Orpo called for the rest of the EU to show solidarity with the eastern flank countries, urging the bloc to give more money to defence in frontline states. on.ft.com/4oSo8TD <a href="https://bsky.app/profile/financialtimes.com/post/3ma3mlreh7n2q" target="_blank">financialtimes.com</a> (2025-12-16 16:25:56)</span><span style="padding-right:50px;">China AI chip firm Biren to launch Hong Kong IPO in coming weeks, sources say reut.rs/4pPFnGv <a href="https://bsky.app/profile/reuters.com/post/3ma3mkdzgra2c" target="_blank">reuters.com</a> (2025-12-16 16:25:08)</span>
+<span style="padding-right:50px;">Soccer-Profiles of the Group A teams at Africa Cup of Nations reut.rs/4iWphIs <a href="https://bsky.app/profile/reuters.com/post/3ma3no66az42k" target="_blank">reuters.com</a> (2025-12-16 16:45:10)</span><span style="padding-right:50px;">CNBC Daily Open: AI infrastructure stocks are taking a beating <a href="https://bsky.app/profile/cnbc.com/post/3ma3nj7356424" target="_blank">cnbc.com</a> (2025-12-16 16:42:23)</span><span style="padding-right:50px;">欧州連合（ＥＵ）  欧州委員会はドイツ、イタリア、欧州自動車業界からの強い圧力を受け、２０３５年以降に内燃機関（エンジン）車の新車販売を禁止する措置を後退させ、電気自動車（ＥＶ）以外を最大１０％認める見通しだ。 bit.ly/48GqWP5 <a href="https://bsky.app/profile/japan.reuters.com/post/3ma3nfdcrvx2c" target="_blank">japan.reuters.com</a> (2025-12-16 16:40:13)</span><span style="padding-right:50px;">Rupee falls past 91 on hedging demand, outflows as US trade stalemate drags reut.rs/44wVZdA <a href="https://bsky.app/profile/reuters.com/post/3ma3nfaryem2p" target="_blank">reuters.com</a> (2025-12-16 16:40:11)</span><span style="padding-right:50px;">South32 to mothball Mozambique smelter in March as power talks collapse reut.rs/3MCpmoF <a href="https://bsky.app/profile/reuters.com/post/3ma3n4glptm2k" target="_blank">reuters.com</a> (2025-12-16 16:35:15)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.94 (🔻0.28 : 2025-12-16)</span>
+<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.92 (🔻0.30 : 2025-12-16)</span>
   </div>
 </div>
 
@@ -32,98 +32,99 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are six news headlines in English:
 
-1. UK Unemployment Rate Rises to 5.1%
-2. EU Considers New System to Allow Internal Combustion Engine Sales Beyond 2035
-3. Trump Designates Fentanyl as a Weapon of Mass Destruction
-4. European Markets Set to Open Lower Ahead of Central Bank Action
-5. Five Die in Sydney Mass Shooting During Hanukkah Celebration
-6. Shopify CEO Says Top Performers Don't Need to Work 80 Hours a Week
+1. EU Reverses Decision to Ban Internal Combustion Engines by 2035
+2. UK Unemployment Rate Rises to 5.1%
+3. Suez Canal and Red Sea to Reopen Next Year, Easing Supply Chain Tensions
+4. Ford Takes $19.5 Billion Writedown on Electric Vehicle Investments
+5. Shopify President Says Top Performers Don't Need to Work 80 Hours a Week
+6. Trump Signs Executive Order to Designate Fentanyl as a Deadly Weapon
 
 ----
 
-@financialtimes.com
+@reuters.com
 
-UK unemployment rate rises to 5.1 per cent on.ft.com/4rYlazJ
+Soccer-Profiles of the Group A teams at Africa Cup of Nations reut.rs/4iWphIs
 
-[2025-12-16 16:29:15](https://bsky.app/profile/financialtimes.com/post/3ma3mrpmeoi2k)
+[2025-12-16 16:45:10](https://bsky.app/profile/reuters.com/post/3ma3no66az42k)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@cnbc.com
 
-後発地震注意情報 「地震への備え」関連ワードの検索に地域差
-https://news.web.nhk/newsweb/na/na-k10015005121000
+CNBC Daily Open: AI infrastructure stocks are taking a beating
 
-[2025-12-16 16:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3mntbqc72u)
+[2025-12-16 16:42:23](https://bsky.app/profile/cnbc.com/post/3ma3nj7356424)
 
 ---
 
 @japan.reuters.com
 
-東京証券取引所がまとめた１２月１２日申し込み現在の２市場信用取引現在高（概算）は以下のとおり。 bit.ly/4qfpxoz
+欧州連合（ＥＵ）
+ 欧州委員会はドイツ、イタリア、欧州自動車業界からの強い圧力を受け、２０３５年以降に内燃機関（エンジン）車の新車販売を禁止する措置を後退させ、電気自動車（ＥＶ）以外を最大１０％認める見通しだ。 bit.ly/48GqWP5
 
-[2025-12-16 16:26:11](https://bsky.app/profile/japan.reuters.com/post/3ma3mmag6qg27)
-
----
-
-@financialtimes.com
-
-Finnish Prime Minister Petteri Orpo called for the rest of the EU to show solidarity with the eastern flank countries, urging the bloc to give more money to defence in frontline states. on.ft.com/4oSo8TD
-
-[2025-12-16 16:25:56](https://bsky.app/profile/financialtimes.com/post/3ma3mlreh7n2q)
+[2025-12-16 16:40:13](https://bsky.app/profile/japan.reuters.com/post/3ma3nfdcrvx2c)
 
 ---
 
 @reuters.com
 
-China AI chip firm Biren to launch Hong Kong IPO in coming weeks, sources say reut.rs/4pPFnGv
+Rupee falls past 91 on hedging demand, outflows as US trade stalemate drags reut.rs/44wVZdA
 
-[2025-12-16 16:25:08](https://bsky.app/profile/reuters.com/post/3ma3mkdzgra2c)
+[2025-12-16 16:40:11](https://bsky.app/profile/reuters.com/post/3ma3nfaryem2p)
 
 ---
 
-@japan.reuters.com
+@reuters.com
 
-欧州連合（ＥＵ） 欧州委員会は自動車メーカーが２０３５年以降も内燃機関（エンジン）車を販売できるようにするための新たな制度を検討している。ドイツ紙ハンデルスブラットが１６日、欧州委高官の話として報じた。 bit.ly/4pJ58ID
+South32 to mothball Mozambique smelter in March as power talks collapse reut.rs/3MCpmoF
 
-[2025-12-16 16:25:01](https://bsky.app/profile/japan.reuters.com/post/3ma3mk5hu2g27)
+[2025-12-16 16:35:15](https://bsky.app/profile/reuters.com/post/3ma3n4glptm2k)
 
 ---
 
 @sokuho.news
 
-🛎️NNNより【速報】です。
+🛎️JNNより【速報】です。
 
-【速報】小5女児がトラックと衝突、心肺停止 東京・板橋区
-(2025-12-16 16:22) #ニュース
+【速報】10歳くらいの小学生の女の子がトラックにひかれ心肺停止の重体 東京・板橋区志村 警視庁
+(2025-12-16 16:30:47) #ニュース
 
-[2025-12-16 16:22:44](https://bsky.app/profile/sokuho.news/post/3ma3mg2h3lj2r)
-
----
-
-@japan.reuters.com
-
-■レートは終値（前日比または前週末比）、安値─高値 bit.ly/49dhzX7
-
-[2025-12-16 16:20:48](https://bsky.app/profile/japan.reuters.com/post/3ma3mclmuq22n)
+[2025-12-16 16:34:47](https://bsky.app/profile/sokuho.news/post/3ma3n3mhrp32y)
 
 ---
 
-@japan.reuters.com
+@nhknewsunofficial.bsky.social
 
-トランプ米大統領は１５日、合成麻薬フェンタニルを大量破壊兵器に指定する大統領令に署名した。毎年何万人もの米国民が過剰摂取で死亡しているとして、取り締まりに向けた政府の権限を大幅に拡大する。 bit.ly/455l6Ev
+自国 「年収の壁」 引き上げ方法や対象範囲などめぐり再協議へ
+https://news.web.nhk/newsweb/na/na-k10015005531000
 
-[2025-12-16 16:20:11](https://bsky.app/profile/japan.reuters.com/post/3ma3mbicvip2c)
+[2025-12-16 16:33:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3myjy7zw2k)
+
+---
+
+@cnn.com
+
+Several lawmakers in the Mexico City Congress physically clashed during debate over the dissolution of the city's transparency institute and the transfer of its functions to a government agency. The ruling party later approved the measure.
+
+[2025-12-16 16:30:48](https://bsky.app/profile/cnn.com/post/3ma3muiwtax2c)
 
 ---
 
 @reuters.com
 
-From Breakingviews - Breakingviews - Get ready for the biggest M&A deal ever reut.rs/4iX0FiZ
+Jimmy Lai remains beacon of Hong Kong press freedom, say ex-colleagues awaiting his sentencing reut.rs/3MIOj1F
 
-[2025-12-16 16:15:11](https://bsky.app/profile/reuters.com/post/3ma3lyknbv22s)
+[2025-12-16 16:30:24](https://bsky.app/profile/reuters.com/post/3ma3mtrrynl2r)
+
+---
+
+@bloomberg.com
+
+There's a good chance that the Suez Canal and the Red Sea will reopen next year, easing supply chain tensions (via Bloomberg Opinion) 
+
+[2025-12-16 16:30:10](https://bsky.app/profile/bloomberg.com/post/3ma3mtdy7mz24)
 
 ---
 
