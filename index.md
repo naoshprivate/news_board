@@ -1,9 +1,9 @@
-# [2025-12-17 07:50 updated](2025_12_17.md)
+# [2025-12-17 08:10 updated](2025_12_17.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">米メディア大手ワーナー・ブラザース・ディスカバリー（ＷＢＤ）の取締役会は、同業パラマウント・スカイダンスによる１０８４億ドルの買収案について早ければ１７日にも決定を発表する見通しで、反対票を投じるよう株主に助言する可能性が高いと関係筋が明らかにした。 bit.ly/4pDxPXd <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5a3e7tax26" target="_blank">japan.reuters.com</a> (2025-12-17 07:47:20)</span><span style="padding-right:50px;">Trump says he will give national address on Wednesday reut.rs/4p250m5 <a href="https://bsky.app/profile/reuters.com/post/3ma57xrsbly2y" target="_blank">reuters.com</a> (2025-12-17 07:45:20)</span><span style="padding-right:50px;">2026年は令和の「ひのえうま」　60年前は出生数25%減 www.nikkei.com/article/DGXZQO...  「丙午」の年に生まれた女性は気性が激しいという江戸時代からの根拠のない言説が広がり、前回の1966年は人口ピラミッドに大きなへこみをつくりました。  当時とは対照的に、結婚や子育ての先送りが常態化する中で迎えるのが「令和の丙午」です。 <a href="https://bsky.app/profile/nikkei.com/post/3ma57xoqb642c" target="_blank">nikkei.com</a> (2025-12-17 07:45:16)</span><span style="padding-right:50px;">President Trump added 20 countries to a list whose citizens face a full or partial travel ban on entering the U.S. as his administration seeks to further restrict legal immigration after two National Guard troops were shot by an Afghan immigrant. <a href="https://bsky.app/profile/washingtonpost.com/post/3ma57xbuxt62e" target="_blank">washingtonpost.com</a> (2025-12-17 07:45:03)</span><span style="padding-right:50px;">＜日本企業ＡＤＲ銘柄＞ bit.ly/4qckcOA <a href="https://bsky.app/profile/japan.reuters.com/post/3ma57x4rau22q" target="_blank">japan.reuters.com</a> (2025-12-17 07:44:58)</span>
+<span style="padding-right:50px;">フィンランドやポーランドなどロシア国境に近い北・東欧８カ国は１６日、フィンランドの首都ヘルシンキで首脳会議を開き、欧州の防衛と安全保障の強化において、欧州連合（ＥＵ）がより大きな役割を果たすよう求めた。 bit.ly/3XZdrnh <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5b5bv5to2c" target="_blank">japan.reuters.com</a> (2025-12-17 08:06:18)</span><span style="padding-right:50px;">US threatens countermeasures after EU fine on Musk's X reut.rs/4aRh32b <a href="https://bsky.app/profile/reuters.com/post/3ma5b3c3vbs2y" target="_blank">reuters.com</a> (2025-12-17 08:05:11)</span><span style="padding-right:50px;">＜０７：５０＞　ドル154.20─155.50円の見通し、米利下げ思惑で売り再燃も bit.ly/4q5apd2 <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5axbtgs72u" target="_blank">japan.reuters.com</a> (2025-12-17 08:02:57)</span><span style="padding-right:50px;">Why China’s young are flocking to government jobs in record numbers <a href="https://bsky.app/profile/cnbc.com/post/3ma5ax7pl5d2e" target="_blank">cnbc.com</a> (2025-12-17 08:02:54)</span><span style="padding-right:50px;">Harvard-affiliated Dana-Farber to pay $15 million to settle US claims over flawed studies reut.rs/3KPo4Gs <a href="https://bsky.app/profile/reuters.com/post/3ma5au4lrqu2r" target="_blank">reuters.com</a> (2025-12-17 08:01:10)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.76 (🔻0.46 : 2025-12-16)</span>
+<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.73 (🔻0.02 : 2025-12-16)</span>
   </div>
 </div>
 
@@ -32,109 +32,94 @@
 
 ## News Headlines
 
-Here are six news headlines:
+Here are six important stories with headlines in English:
 
-1. Warner Bros. Discovery to Decide on Paramount Deal by December 17
-2. Trump to Give National Address on Wednesday
-3. Japan to Welcome Hinoe Uma in 2026, a Year of Increased Birth Rate
-4. Trump Adds 20 Countries to Travel Ban List
-5. Japan's Yoshimoto Kogyo to Launch Bank Services with SBI Net Bank
-6. European Union Reverses Plan to Ban Internal Combustion Engines in 2035
+1. Eight North and East European Countries Urge EU to Play Bigger Role in European Defence
+2. US Adds 20 Countries to Travel Ban List Amid Escalating Anti-Immigrant Rhetoric
+3. Tesla Invests Heavily in German Gigafactory to Boost Battery Cell Production
+4. Warner Bros. Discovery May Decide on Paramount's $10.8 Billion Acquisition Bid Within Days
+5. US Judge Allows White House to Continue Work on Controversial Ballroom Addition
+6. Macron Warns Against Tariffs and Quotas on Chinese Imports to Address Trade Imbalance
 
 ----
 
 @japan.reuters.com
 
-米メディア大手ワーナー・ブラザース・ディスカバリー（ＷＢＤ）の取締役会は、同業パラマウント・スカイダンスによる１０８４億ドルの買収案について早ければ１７日にも決定を発表する見通しで、反対票を投じるよう株主に助言する可能性が高いと関係筋が明らかにした。 bit.ly/4pDxPXd
+フィンランドやポーランドなどロシア国境に近い北・東欧８カ国は１６日、フィンランドの首都ヘルシンキで首脳会議を開き、欧州の防衛と安全保障の強化において、欧州連合（ＥＵ）がより大きな役割を果たすよう求めた。 bit.ly/3XZdrnh
 
-[2025-12-17 07:47:20](https://bsky.app/profile/japan.reuters.com/post/3ma5a3e7tax26)
+[2025-12-17 08:06:18](https://bsky.app/profile/japan.reuters.com/post/3ma5b5bv5to2c)
 
 ---
 
 @reuters.com
 
-Trump says he will give national address on Wednesday reut.rs/4p250m5
+US threatens countermeasures after EU fine on Musk's X reut.rs/4aRh32b
 
-[2025-12-17 07:45:20](https://bsky.app/profile/reuters.com/post/3ma57xrsbly2y)
-
----
-
-@nikkei.com
-
-2026年は令和の「ひのえうま」　60年前は出生数25%減
-www.nikkei.com/article/DGXZQO...
-
-「丙午」の年に生まれた女性は気性が激しいという江戸時代からの根拠のない言説が広がり、前回の1966年は人口ピラミッドに大きなへこみをつくりました。
-
-当時とは対照的に、結婚や子育ての先送りが常態化する中で迎えるのが「令和の丙午」です。
-
-[2025-12-17 07:45:16](https://bsky.app/profile/nikkei.com/post/3ma57xoqb642c)
-
----
-
-@washingtonpost.com
-
-President Trump added 20 countries to a list whose citizens face a full or partial travel ban on entering the U.S. as his administration seeks to further restrict legal immigration after two National Guard troops were shot by an Afghan immigrant.
-
-[2025-12-17 07:45:03](https://bsky.app/profile/washingtonpost.com/post/3ma57xbuxt62e)
+[2025-12-17 08:05:11](https://bsky.app/profile/reuters.com/post/3ma5b3c3vbs2y)
 
 ---
 
 @japan.reuters.com
 
-＜日本企業ＡＤＲ銘柄＞ bit.ly/4qckcOA
+＜０７：５０＞　ドル154.20─155.50円の見通し、米利下げ思惑で売り再燃も bit.ly/4q5apd2
 
-[2025-12-17 07:44:58](https://bsky.app/profile/japan.reuters.com/post/3ma57x4rau22q)
-
----
-
-@wsj.com
-
-Police released new videos of the suspected gunman responsible for Saturday’s shooting at Brown University as the manhunt entered its fourth day.
-
-[2025-12-17 07:44:02](https://bsky.app/profile/wsj.com/post/3ma57vhynmx2h)
+[2025-12-17 08:02:57](https://bsky.app/profile/japan.reuters.com/post/3ma5axbtgs72u)
 
 ---
 
-@nikkei.com
+@cnbc.com
 
-吉本興業が銀行サービス、芸人が住居清掃も　「お笑い経済圏」狙う
-www.nikkei.com/article/DGXZQO...
+Why China’s young are flocking to government jobs in record numbers
 
-住信SBIネット銀行と組み、12月下旬にも個人向け銀行サービス「FANY BANK」を始めます。
-
-預金や決済をスマホなどで提供。
-
-住宅ローン利用者には芸人が部屋の掃除をしたり、家電製品に詳しい芸人が家電を提案したりするサービスを検討します。
-
-[2025-12-17 07:43:15](https://bsky.app/profile/nikkei.com/post/3ma57u34ucu2x)
+[2025-12-17 08:02:54](https://bsky.app/profile/cnbc.com/post/3ma5ax7pl5d2e)
 
 ---
 
 @reuters.com
 
-FCAS fighter jet "very unlikely" after ministers' talks, source says reut.rs/44xfAdB
+Harvard-affiliated Dana-Farber to pay $15 million to settle US claims over flawed studies reut.rs/3KPo4Gs
 
-[2025-12-17 07:40:18](https://bsky.app/profile/reuters.com/post/3ma57osgdkm23)
-
----
-
-@nbcnews.com
-
-Two nonprofit groups launch an ad campaign offering legal information and confidential advice to help U.S. troops who believe they may have received unlawful orders.
-
-[2025-12-17 07:40:09](https://bsky.app/profile/nbcnews.com/post/3ma57ojxbhp2k)
+[2025-12-17 08:01:10](https://bsky.app/profile/reuters.com/post/3ma5au4lrqu2r)
 
 ---
 
-@en.afp.com
+@apnews.com
 
-Chile's hard-right president-elect Jose Antonio Kast says he would back efforts to end Venezuelan leader Nicolas Maduro's 'dictatorship,' giving Washington yet another regional ally in its showdown with Caracas
-🇨🇱 🇻🇪
+The BBC is not the first media organization on the receiving end of a lawsuit from President Trump. But its position is complicated by its status as a taxpayer-funded public broadcaster and its stature as a closely scrutinized national institution.
 
-u.afp.com/S79S
+[2025-12-17 08:01:07](https://bsky.app/profile/apnews.com/post/3ma5atzdpbs23)
 
-[2025-12-17 07:39:04](https://bsky.app/profile/en.afp.com/post/3ma57mlvhoe26)
+---
+
+@usatoday.com
+
+Did Howard Stern sign a new deal? After telling listeners in September he would have an announcement about his future at SiriusXM, he's revealing all.
+
+[2025-12-17 08:01:01](https://bsky.app/profile/usatoday.com/post/3ma5attwfeh2o)
+
+---
+
+@wsj.com
+
+An avid skier, the tech co-founder plans to use the 3,700-acre ranch outside Aspen as a home on.wsj.com/48SbDl6
+
+[2025-12-17 08:00:59](https://bsky.app/profile/wsj.com/post/3ma5atrolzf2k)
+
+---
+
+@cnbc.com
+
+Brian Glaser became a first-time manager 20 years ago and now leads teams in charge of training some 150,000 Google employees worldwide. 
+
+[2025-12-17 08:00:54](https://bsky.app/profile/cnbc.com/post/3ma5atmk7ks2x)
+
+---
+
+@bloomberg.com
+
+President Donald Trump expressed unhappiness with the owners of Paramount Skydance Corp. over CBS News coverage of his presidency, in the latest signal of how he may be leaning in the battle to purchase Warner Bros. Discovery Inc.
+
+[2025-12-17 08:00:21](https://bsky.app/profile/bloomberg.com/post/3ma5asn5bct2h)
 
 ---
 
