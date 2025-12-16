@@ -1,9 +1,9 @@
-# [2025-12-16 14:10 updated](2025_12_16.md)
+# [2025-12-16 14:30 updated](2025_12_16.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;"> The key distinction Europe must make on trade policies on.ft.com/3YthW9N  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3ma3exsc2kj2w" target="_blank">financialtimes.com</a> (2025-12-16 14:09:29)</span><span style="padding-right:50px;"> Juventus bid battle brings a new meaning to ‘crypto vs fiat’ on.ft.com/49exdBu  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3ma3exrmqua2c" target="_blank">financialtimes.com</a> (2025-12-16 14:09:29)</span><span style="padding-right:50px;">Global brands seek PE partners to save their China businesses on.ft.com/4rYeRMz <a href="https://bsky.app/profile/financialtimes.com/post/3ma3exgtrpe2y" target="_blank">financialtimes.com</a> (2025-12-16 14:09:17)</span><span style="padding-right:50px;">前場の中国・香港株式市場は続落。一連の米経済指標発表を控えて警戒感が広がる中、アジアの株安に追随し、全面安の展開となった。 bit.ly/450tSna <a href="https://bsky.app/profile/japan.reuters.com/post/3ma3ewhlfsk2c" target="_blank">japan.reuters.com</a> (2025-12-16 14:08:45)</span><span style="padding-right:50px;">Correction: The Philippines says the father and son behind the Bondi attack in Sydney — one an Indian national — visited the country last month <a href="https://bsky.app/profile/bloomberg.com/post/3ma3ew52nnz2f" target="_blank">bloomberg.com</a> (2025-12-16 14:08:34)</span>
+<span style="padding-right:50px;">DeNA 牧秀悟 現状維持の推定年俸2億5000万円で契約更改 https://news.web.nhk/newsweb/na/na-k10015005331000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3fxfbzll2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 14:27:07)</span><span style="padding-right:50px;">自民 鈴木幹事長 “定数削減法案成立見込めず会期延長考えず” https://news.web.nhk/newsweb/na/na-k10015005441000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3fxahnre24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 14:27:02)</span><span style="padding-right:50px;">自民 税制調査会 エコカー減税延長 燃費基準厳格化など了承 https://news.web.nhk/newsweb/na/na-k10015005361000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3frv3hne22" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 14:24:02)</span><span style="padding-right:50px;">Morrisons loses £17mn food fight as chicken tax comes home to roost on.ft.com/4rY7YuN <a href="https://bsky.app/profile/financialtimes.com/post/3ma3fmh37be24" target="_blank">financialtimes.com</a> (2025-12-16 14:21:02)</span><span style="padding-right:50px;">定数削減法案を継続審議とするか 17日衆院議運委で採決へ https://news.web.nhk/newsweb/na/na-k10015005401000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3fmjkmc72b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 14:21:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49550.83 (🔻500.41 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3340.00 (🔻40.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.75 (🔻0.47 : 2025-12-16)</span>
+<span style="padding-right:50px;">NIKKEI: 49458.99 (🔻592.25 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3332.00 (🔻48.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.73 (🔻0.49 : 2025-12-16)</span>
   </div>
 </div>
 
@@ -34,72 +34,56 @@
 
 Here are six important stories with headlines in English:
 
-1. Europe Must Distinguish Between Trade Policies
-2. Juventus' Crypto vs Fiat Bid Battle Takes a New Turn
-3. Global Brands Seek PE Partners to Save China Businesses
-4. US Suspends Technology Deal with Britain
-5. Ukraine's Zelensky Warns of Tougher Sanctions on Russia
-6. US Approves Drug to Boost Female Libido for Women Over 65
+1. Japanese Baseball Player Re-signs with Estimated Annual Salary of ¥250 Million
+2. Japan's LDP Sees Little Chance of Passing Bill to Reduce Number of Diet Members
+3. Japan's LDP Tax Panel to Consider Extending Eco-Car Tax Breaks, Tightening Fuel Efficiency Standards
+4. Morrisons Loses £17mn in Food Fight as Chicken Tax Hits Hard
+5. Philippines Says Father and Son Behind Sydney Attack Visited Country Last Month
+6. Trump Signs Executive Order to Designate Fentanyl as a WMD, Boosting US Efforts to Combat Opioid Crisis
 
 ----
 
-@financialtimes.com
+@nhknewsunofficial.bsky.social
 
- The key distinction Europe must make on trade policies on.ft.com/3YthW9N  | opinion
+DeNA 牧秀悟 現状維持の推定年俸2億5000万円で契約更改
+https://news.web.nhk/newsweb/na/na-k10015005331000
 
-[2025-12-16 14:09:29](https://bsky.app/profile/financialtimes.com/post/3ma3exsc2kj2w)
-
----
-
-@financialtimes.com
-
- Juventus bid battle brings a new meaning to ‘crypto vs fiat’ on.ft.com/49exdBu  | opinion
-
-[2025-12-16 14:09:29](https://bsky.app/profile/financialtimes.com/post/3ma3exrmqua2c)
-
----
-
-@financialtimes.com
-
-Global brands seek PE partners to save their China businesses on.ft.com/4rYeRMz
-
-[2025-12-16 14:09:17](https://bsky.app/profile/financialtimes.com/post/3ma3exgtrpe2y)
-
----
-
-@japan.reuters.com
-
-前場の中国・香港株式市場は続落。一連の米経済指標発表を控えて警戒感が広がる中、アジアの株安に追随し、全面安の展開となった。 bit.ly/450tSna
-
-[2025-12-16 14:08:45](https://bsky.app/profile/japan.reuters.com/post/3ma3ewhlfsk2c)
-
----
-
-@bloomberg.com
-
-Correction: The Philippines says the father and son behind the Bondi attack in Sydney — one an Indian national — visited the country last month
-
-[2025-12-16 14:08:34](https://bsky.app/profile/bloomberg.com/post/3ma3ew52nnz2f)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】東京デフ金＆銅の佐々木琢磨選手（五戸町出身）に青森県民栄誉賞の授与が決定！
-(2025-12-16 14:07) #ニュース
-
-[2025-12-16 14:07:37](https://bsky.app/profile/sokuho.news/post/3ma3eugzcwx2a)
+[2025-12-16 14:27:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3fxfbzll2k)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-【地震速報】福井県大野市で震度3 津波の心配なし
-https://news.web.nhk/newsweb/na/na-k10015005471000
+自民 鈴木幹事長 “定数削減法案成立見込めず会期延長考えず”
+https://news.web.nhk/newsweb/na/na-k10015005441000
 
-[2025-12-16 14:06:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3ero5ttd2v)
+[2025-12-16 14:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3fxahnre24)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+自民 税制調査会 エコカー減税延長 燃費基準厳格化など了承
+https://news.web.nhk/newsweb/na/na-k10015005361000
+
+[2025-12-16 14:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3frv3hne22)
+
+---
+
+@financialtimes.com
+
+Morrisons loses £17mn food fight as chicken tax comes home to roost on.ft.com/4rY7YuN
+
+[2025-12-16 14:21:02](https://bsky.app/profile/financialtimes.com/post/3ma3fmh37be24)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+定数削減法案を継続審議とするか 17日衆院議運委で採決へ
+https://news.web.nhk/newsweb/na/na-k10015005401000
+
+[2025-12-16 14:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3fmjkmc72b)
 
 ---
 
@@ -107,26 +91,42 @@ https://news.web.nhk/newsweb/na/na-k10015005471000
 
 🛎️FNNより【速報】です。
 
-【速報】北新地クリニック放火殺人事件から17日で4年を前に遺族が会見「『明日死ぬかもしれない』は被害者遺族にとって物語の中の話ではない」幼い子供と共に残された経済的負担 被害者支…
-(2025-12-16 13:53) #ニュース
+【速報】JR四国 年末年始の指定席予約状況発表 岡山～四国特急で予約が集中している日時も発表
+(2025-12-16 14:15) #ニュース
 
-[2025-12-16 14:05:49](https://bsky.app/profile/sokuho.news/post/3ma3era4sed2r)
+[2025-12-16 14:20:41](https://bsky.app/profile/sokuho.news/post/3ma3flt4kc52z)
 
 ---
 
 @japan.reuters.com
 
-シティグループは２０２６年末のＳ＆Ｐ総合５００種の目標を７７００に設定した。堅調な企業収益や人工知能（ＡＩ）投資による追い風継続が相場を支える見込みとした。 bit.ly/4aiSCdT
+序盤のインド株式市場の株価は続落している。海外への投資資金流出が続き、ルピー相場が下落基調にある中、米国との貿易協定はいまだに見通せない状況が続いている。 bit.ly/49f0V9C
 
-[2025-12-16 14:05:13](https://bsky.app/profile/japan.reuters.com/post/3ma3eq5othl2q)
+[2025-12-16 14:20:41](https://bsky.app/profile/japan.reuters.com/post/3ma3flsy3uc2f)
+
+---
+
+@japan.reuters.com
+
+メキシコ政府は１５日、国内に輸入される米国産の豚もも肉・肩肉について、反ダンピング（不当廉売）・反補助金で調査を開始したと発表した。 bit.ly/4aoIjVT
+
+[2025-12-16 14:20:12](https://bsky.app/profile/japan.reuters.com/post/3ma3fkwr5x22q)
+
+---
+
+@reuters.com
+
+Dollar on defensive as traders eye delayed US jobs data reut.rs/3XXn1XY
+
+[2025-12-16 14:20:11](https://bsky.app/profile/reuters.com/post/3ma3fkwotxo2y)
 
 ---
 
 @financialtimes.com
 
-Bondi Beach attack ‘inspired’ by Isis, Australian police say on.ft.com/490ls0l
+Monzo chief pushed out after board rift over growth and IPO plans on.ft.com/4q9KIZ1
 
-[2025-12-16 14:04:49](https://bsky.app/profile/financialtimes.com/post/3ma3epgot3k23)
+[2025-12-16 14:14:12](https://bsky.app/profile/financialtimes.com/post/3ma3faacs4l2w)
 
 ---
 
