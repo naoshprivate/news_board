@@ -1,9 +1,9 @@
-# [2025-12-16 23:30 updated](2025_12_16.md)
+# [2025-12-16 23:50 updated](2025_12_16.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】アメリカ11月の雇用統計 失業率が悪化 政府閉鎖の影響で公表に大幅な遅れ (23:28) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma4eate2dw25" target="_blank">sokuho.news</a> (2025-12-16 23:29:18)</span><span style="padding-right:50px;">🏴󠁧󠁢󠁥󠁮󠁧󠁿A man who in a fit of road rage drove into crowds celebrating Liverpool's Premier League victory in May was on Tuesday jailed for 21 years and six months for causing scenes of "horror and devastation" ➡️ u.afp.com/S7Va <a href="https://bsky.app/profile/en.afp.com/post/3ma4e6rwzcg2j" target="_blank">en.afp.com</a> (2025-12-16 23:28:10)</span><span style="padding-right:50px;">Bondi Beach gunman originally from India, police say <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma4e45jqev25" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-16 23:26:41)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】カンボジア南部シアヌークビルで日本人16人を拘束 特殊詐欺に関与か 中国系企業によるカジノ開発などの影で国際犯罪拠点に… (2025-12-16 23:24:26) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma4e3zkhf32b" target="_blank">sokuho.news</a> (2025-12-16 23:26:37)</span><span style="padding-right:50px;">UK businesses breathe sigh of relief after Reeves' budget, PMIs show reut.rs/48XK5uG <a href="https://bsky.app/profile/reuters.com/post/3ma4dziqm5b2p" target="_blank">reuters.com</a> (2025-12-16 23:25:12)</span>
+<span style="padding-right:50px;">LIVE: UN Security Council meets on Israeli West Bank settlements youtube.com/live/X811mfm... <a href="https://bsky.app/profile/reuters.com/post/3ma4f5qdze22x" target="_blank">reuters.com</a> (2025-12-16 23:45:28)</span><span style="padding-right:50px;">Europe's leaders and laggards in electric vehicle sales reut.rs/4pJkPPY <a href="https://bsky.app/profile/reuters.com/post/3ma4f5gnin223" target="_blank">reuters.com</a> (2025-12-16 23:45:18)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】「通院に急いでいた」乗用車が集団登校中の小学生、引率教師、自転車と次々接触。ひき逃げで逮捕 (2025-12-16 23:44) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma4f4kkbmz2s" target="_blank">sokuho.news</a> (2025-12-16 23:44:49)</span><span style="padding-right:50px;">The search for a suspect in a deadly mass shooting at Brown University is entering a fourth day while the FBI offers a reward of up to $50,000 for information leading to the arrest and conviction of the person who killed two people at the school. www.forbes.com/sites/zachar... (Photo: Getty Images) <a href="https://bsky.app/profile/forbes.com/post/3ma4f3za4zc2v" target="_blank">forbes.com</a> (2025-12-16 23:44:31)</span><span style="padding-right:50px;">LIVE: British Deputy Prime Minister questioned by lawmakers youtube.com/live/zy65k_n... <a href="https://bsky.app/profile/reuters.com/post/3ma4f3i4rfc2x" target="_blank">reuters.com</a> (2025-12-16 23:44:13)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48355.31 (🔻24.86 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.03 (🔻0.23 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.79 (🔻0.43 : 2025-12-16)</span>
+<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48375.88 (🔻4.29 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23057.95 (🔺76.13 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 176.58 (🔺0.32 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.67 (🔻0.55 : 2025-12-16)</span>
   </div>
 </div>
 
@@ -32,84 +32,65 @@
 
 ## News Headlines
 
-Here are six important news stories with headlines in English:
+Here are six important stories with headlines:
 
-1. US Unemployment Rate Climbs to 4.6% in November Amid Government Shutdown
-2. Oil Prices Tumble to Lowest Since May Amid Global Economic Slowdown
-3. China Imposes Lower Tariffs on EU Pork Imports Amid Trade Dispute
-4. EU to Expand Carbon Border Levy to Close Loopholes on Polluting Goods
-5. Paris Saint-Germain Ordered to Pay Kylian Mbappe $71.8 Million in Unpaid Wages
-6. US Unemployment Rate Rises to Four-Year High of 4.6% in November
+1. UN Security Council Meets on Israeli West Bank Settlements
+2. European Leaders Fall Behind in Electric Vehicle Sales
+3. Brown University Shooter Still at Large as FBI Offers $50,000 Reward
+4. Man Sentenced to 21 Years for Driving into Liverpool Supporters
+5. EU to Widen Carbon Border Levy to Close Loopholes on Polluting Goods
+6. US Factories to Manufacture Small Cars to Drive Down Prices
 
 ----
 
-@sokuho.news
+@reuters.com
 
-🔔ANNより【速報】です。
+LIVE: UN Security Council meets on Israeli West Bank settlements youtube.com/live/X811mfm...
 
-【速報】アメリカ11月の雇用統計 失業率が悪化 政府閉鎖の影響で公表に大幅な遅れ
-(23:28) #ニュース
-
-[2025-12-16 23:29:18](https://bsky.app/profile/sokuho.news/post/3ma4eate2dw25)
-
----
-
-@en.afp.com
-
-🏴󠁧󠁢󠁥󠁮󠁧󠁿A man who in a fit of road rage drove into crowds celebrating Liverpool's Premier League victory in May was on Tuesday jailed for 21 years and six months for causing scenes of "horror and devastation" ➡️ u.afp.com/S7Va
-
-[2025-12-16 23:28:10](https://bsky.app/profile/en.afp.com/post/3ma4e6rwzcg2j)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Bondi Beach gunman originally from India, police say
-
-[2025-12-16 23:26:41](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma4e45jqev25)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】カンボジア南部シアヌークビルで日本人16人を拘束 特殊詐欺に関与か 中国系企業によるカジノ開発などの影で国際犯罪拠点に…
-(2025-12-16 23:24:26) #ニュース
-
-[2025-12-16 23:26:37](https://bsky.app/profile/sokuho.news/post/3ma4e3zkhf32b)
+[2025-12-16 23:45:28](https://bsky.app/profile/reuters.com/post/3ma4f5qdze22x)
 
 ---
 
 @reuters.com
 
-UK businesses breathe sigh of relief after Reeves' budget, PMIs show reut.rs/48XK5uG
+Europe's leaders and laggards in electric vehicle sales reut.rs/4pJkPPY
 
-[2025-12-16 23:25:12](https://bsky.app/profile/reuters.com/post/3ma4dziqm5b2p)
-
----
-
-@nbcnews.com
-
-LATEST: Investigators continue to search for the person responsible for fatally shooting two Brown University students and wounding nine others in an attack Saturday.
-
-[2025-12-16 23:20:09](https://bsky.app/profile/nbcnews.com/post/3ma4dqh4yji23)
+[2025-12-16 23:45:18](https://bsky.app/profile/reuters.com/post/3ma4f5gnin223)
 
 ---
 
-@japan.reuters.com
+@sokuho.news
 
-米労働省が１６日発表した雇用統計によると、非農業部門雇用者数は１０月に政府支出削減の影響で減少した後、１１月には回復した。１１月の失業率は労働市場の弱含みで４．６％となった。 bit.ly/4qf2ie9
+🛎️NNNより【速報】です。
 
-[2025-12-16 23:16:45](https://bsky.app/profile/japan.reuters.com/post/3ma4dkf5y3w2q)
+【速報】「通院に急いでいた」乗用車が集団登校中の小学生、引率教師、自転車と次々接触。ひき逃げで逮捕
+(2025-12-16 23:44) #ニュース
+
+[2025-12-16 23:44:49](https://bsky.app/profile/sokuho.news/post/3ma4f4kkbmz2s)
 
 ---
 
-@npr.org
+@forbes.com
 
-Inflation, rising food prices and the high cost of living has been top of mind for consumers. But then Olive Garden offers an unlimited pasta meal or a chain restaurant sells a steak dinner with two sides for less than $30. How are chains able to keep prices as low as they do? n.pr/44x0Yei
+The search for a suspect in a deadly mass shooting at Brown University is entering a fourth day while the FBI offers a reward of up to $50,000 for information leading to the arrest and conviction of the person who killed two people at the school. www.forbes.com/sites/zachar... (Photo: Getty Images)
 
-[2025-12-16 23:16:36](https://bsky.app/profile/npr.org/post/3ma4dk3z2s224)
+[2025-12-16 23:44:31](https://bsky.app/profile/forbes.com/post/3ma4f3za4zc2v)
+
+---
+
+@reuters.com
+
+LIVE: British Deputy Prime Minister questioned by lawmakers youtube.com/live/zy65k_n...
+
+[2025-12-16 23:44:13](https://bsky.app/profile/reuters.com/post/3ma4f3i4rfc2x)
+
+---
+
+@nytimes.com
+
+From @theathleticfc.bsky.social: A man who ploughed into Liverpool supporters at the club’s Premier League title parade has been sentenced to 21 years and six months in prison.
+
+[2025-12-16 23:44:06](https://bsky.app/profile/nytimes.com/post/3ma4f3brkoj25)
 
 ---
 
@@ -117,21 +98,43 @@ Inflation, rising food prices and the high cost of living has been top of mind f
 
 🔔防災科研より【強震モニタ】動画です。
 
-震源:熊本県阿蘇地方, 深さ:10km
-マグニチュード:3.3, 最大震度:2
-📍https://www.google.com/maps?q=33.0,131.1&ll=33.0,131.1&z=7&t=h
-地震発生日時:2025-12-16 23:13頃
+震源:能登半島沖, 深さ:10km
+マグニチュード:3.3, 最大震度:1
+📍https://www.google.com/maps?q=37.1,136.6&ll=37.1,136.6&z=7&t=h
+地震発生日時:2025-12-16 23:39頃
 (10倍速▶120s→12s) #地震
 
-[2025-12-16 23:16:04](https://bsky.app/profile/sokuho.news/post/3ma4dj5zwag2y)
+[2025-12-16 23:42:48](https://bsky.app/profile/sokuho.news/post/3ma4eyxyeak2y)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@sokuho.news
 
-Sudan conflict: RSF trying to cover up mass killings in el-Fasher, Yale University researchers say
+🔔気象庁より【地震速報】です。
 
-[2025-12-16 23:15:47](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma4diodda62y)
+23時39分頃、石川県で最大震度1の地震を観測しました。
+震源:能登半島沖, 深さ:10km, 規模:M3.3
+この地震による津波の心配はありません。
+(2025-12-16 23:42:15) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/16/2025-12-16-23-39-35.html?xlarge_image=1
+
+[2025-12-16 23:42:16](https://bsky.app/profile/sokuho.news/post/3ma4exzprla2z)
+
+---
+
+@reuters.com
+
+TotalEnergies to sell stake in Malaysian gas block to Thailand's PTTEP reut.rs/4iWbAcy
+
+[2025-12-16 23:40:24](https://bsky.app/profile/reuters.com/post/3ma4euodyvq2k)
+
+---
+
+@nbcnews.com
+
+A majority of U.S. adults, 55%, say they will spend less on holiday gifts this year compared with last year, according to a new NBC News Decision Desk Poll powered by SurveyMonkey. 
+
+[2025-12-16 23:40:09](https://bsky.app/profile/nbcnews.com/post/3ma4eu7gy5h2u)
 
 ---
 
