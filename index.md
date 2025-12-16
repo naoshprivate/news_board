@@ -1,9 +1,9 @@
-# [2025-12-16 13:30 updated](2025_12_16.md)
+# [2025-12-16 13:50 updated](2025_12_16.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">米プロバスケットボール協会（ＮＢＡ）は１５日、各地で試合を行い、東地区首位のピストンズは同３位のセルティックスとの上位対決を１１２─１０５で制し、連勝を４に伸ばした。 bit.ly/44Qs8x1 <a href="https://bsky.app/profile/japan.reuters.com/post/3ma3cnq65mr2n" target="_blank">japan.reuters.com</a> (2025-12-16 13:28:04)</span><span style="padding-right:50px;">ニュージーランド（ＮＺ）政府は１６日、新たな財政予測を公表し、財政収支が今後５年間で黒字に戻る見込みはないとの見通しを示した。 bit.ly/4qcrdz8 <a href="https://bsky.app/profile/japan.reuters.com/post/3ma3cluhbv22c" target="_blank">japan.reuters.com</a> (2025-12-16 13:27:01)</span><span style="padding-right:50px;">米半導体大手エヌビディアは１５日、人工知能（ＡＩ）の新しい基盤モデルを公開した。モデルの技術的な詳細を公開する「オープンソース」タイプで、同社の従来のモデルより処理速度が速く、低コストで賢いという。 bit.ly/3KYVy5b <a href="https://bsky.app/profile/japan.reuters.com/post/3ma3cikyenr2q" target="_blank">japan.reuters.com</a> (2025-12-16 13:25:11)</span><span style="padding-right:50px;">ローマ字表記 約70年ぶり見直し 「訓令式」から「ヘボン式」に https://news.web.nhk/newsweb/na/na-k10015005321000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3cbamqyr2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 13:21:02)</span><span style="padding-right:50px;">Britain clinches upgraded South Korea trade deal reut.rs/4oUXHg4 <a href="https://bsky.app/profile/reuters.com/post/3ma3ca3nsyb2o" target="_blank">reuters.com</a> (2025-12-16 13:20:26)</span>
+<span style="padding-right:50px;">オーストラリアの観光名所ボンダイビーチで１４日に起きた銃撃事件で、容疑者の１人から銃を奪い取ったシドニー在住の男性が、手術を受けて病院で回復している。男性への寄付金は１１０万豪ドル（約１億１３００万円）を突破した。 bit.ly/3MC66aU <a href="https://bsky.app/profile/japan.reuters.com/post/3ma3dtbihib2q" target="_blank">japan.reuters.com</a> (2025-12-16 13:49:04)</span><span style="padding-right:50px;">与野党 選択的夫婦別姓めぐり 氏制度をテーマに閉会中審査へ https://news.web.nhk/newsweb/na/na-k10015005351000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3dri7znf2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 13:48:02)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】JAL便（函館⇒奥尻）が函館空港に引き返し 補助翼の不具合発生 雪が補助翼に凍りついた可能性 5日前には別機体がプロペラの停止で緊急着陸 (2025-12-16 13:46:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma3dqpupap2b" target="_blank">sokuho.news</a> (2025-12-16 13:47:38)</span><span style="padding-right:50px;">ベトナムの電気自動車（ＥＶ）メーカー、ビンファストは、インドネシア向け投資を将来の需要次第で最大１０億ドルへ拡大する方針だ。インドネシア法人のカリアント・ハルジョソエマルト最高経営責任者（ＣＥＯ）が１５日にロイターに明らかにした。 bit.ly/4pKMJeo <a href="https://bsky.app/profile/japan.reuters.com/post/3ma3dlnbz3s2p" target="_blank">japan.reuters.com</a> (2025-12-16 13:44:48)</span><span style="padding-right:50px;">イタリアのメローニ首相とフランスのマクロン大統領は、欧州連合（ＥＵ）と南米南部共同市場（メルコスル）の自由貿易協定（ＦＴＡ）締結に向けた最終採決を延期する必要性があるとの見解で合意した。消息筋２人が１５日、明らかにした。 bit.ly/4oVOkgg <a href="https://bsky.app/profile/japan.reuters.com/post/3ma3dhtyqdd26" target="_blank">japan.reuters.com</a> (2025-12-16 13:42:41)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49495.55 (🔻555.69 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3336.00 (🔻44.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.80 (🔻0.42 : 2025-12-16)</span>
+<span style="padding-right:50px;">NIKKEI: 49524.32 (🔻526.92 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3338.00 (🔻42.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.79 (🔻0.43 : 2025-12-16)</span>
   </div>
 </div>
 
@@ -32,96 +32,105 @@
 
 ## News Headlines
 
-Here are six news headlines in English:
+Here are six important stories with headlines in English:
 
-1. Michigan Pistons Extend Winning Streak to Four with Victory Over Celtics
-2. New Zealand Government Sees No Hope of Returning to Fiscal Surplus in Next Five Years
-3. NVIDIA Unveils New AI Model with Faster Processing Speed and Lower Cost
-4. UK and South Korea Agree on Upgraded Trade Deal
-5. Belarus President Lukashenko Welcomes Venezuelan Leader Maduro's Potential Resignation
-6. US Announces Plans to Regulate Deepfakes Created by AI
+1. Australian Hero: Man Who Disarmed Gunman at Bondi Beach Now Recovering in Hospital
+2. Italy and France Agree to Delay EU-Mercosur Trade Deal
+3. Trump Sues BBC for $100 Billion Over Documentary Editing
+4. Japan to Make Nationality Disclosure Mandatory for Property Purchases
+5. Biden Administration to Establish New Aviation Safety Office
+6. Musk's Net Worth Reaches $60 Billion as SpaceX Prepares for IPO
 
 ----
 
 @japan.reuters.com
 
-米プロバスケットボール協会（ＮＢＡ）は１５日、各地で試合を行い、東地区首位のピストンズは同３位のセルティックスとの上位対決を１１２─１０５で制し、連勝を４に伸ばした。 bit.ly/44Qs8x1
+オーストラリアの観光名所ボンダイビーチで１４日に起きた銃撃事件で、容疑者の１人から銃を奪い取ったシドニー在住の男性が、手術を受けて病院で回復している。男性への寄付金は１１０万豪ドル（約１億１３００万円）を突破した。 bit.ly/3MC66aU
 
-[2025-12-16 13:28:04](https://bsky.app/profile/japan.reuters.com/post/3ma3cnq65mr2n)
-
----
-
-@japan.reuters.com
-
-ニュージーランド（ＮＺ）政府は１６日、新たな財政予測を公表し、財政収支が今後５年間で黒字に戻る見込みはないとの見通しを示した。 bit.ly/4qcrdz8
-
-[2025-12-16 13:27:01](https://bsky.app/profile/japan.reuters.com/post/3ma3cluhbv22c)
-
----
-
-@japan.reuters.com
-
-米半導体大手エヌビディアは１５日、人工知能（ＡＩ）の新しい基盤モデルを公開した。モデルの技術的な詳細を公開する「オープンソース」タイプで、同社の従来のモデルより処理速度が速く、低コストで賢いという。 bit.ly/3KYVy5b
-
-[2025-12-16 13:25:11](https://bsky.app/profile/japan.reuters.com/post/3ma3cikyenr2q)
+[2025-12-16 13:49:04](https://bsky.app/profile/japan.reuters.com/post/3ma3dtbihib2q)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-ローマ字表記 約70年ぶり見直し 「訓令式」から「ヘボン式」に
-https://news.web.nhk/newsweb/na/na-k10015005321000
+与野党 選択的夫婦別姓めぐり 氏制度をテーマに閉会中審査へ
+https://news.web.nhk/newsweb/na/na-k10015005351000
 
-[2025-12-16 13:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3cbamqyr2w)
+[2025-12-16 13:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3dri7znf2s)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】JAL便（函館⇒奥尻）が函館空港に引き返し 補助翼の不具合発生 雪が補助翼に凍りついた可能性 5日前には別機体がプロペラの停止で緊急着陸
+(2025-12-16 13:46:00) #ニュース
+
+[2025-12-16 13:47:38](https://bsky.app/profile/sokuho.news/post/3ma3dqpupap2b)
+
+---
+
+@japan.reuters.com
+
+ベトナムの電気自動車（ＥＶ）メーカー、ビンファストは、インドネシア向け投資を将来の需要次第で最大１０億ドルへ拡大する方針だ。インドネシア法人のカリアント・ハルジョソエマルト最高経営責任者（ＣＥＯ）が１５日にロイターに明らかにした。 bit.ly/4pKMJeo
+
+[2025-12-16 13:44:48](https://bsky.app/profile/japan.reuters.com/post/3ma3dlnbz3s2p)
+
+---
+
+@japan.reuters.com
+
+イタリアのメローニ首相とフランスのマクロン大統領は、欧州連合（ＥＵ）と南米南部共同市場（メルコスル）の自由貿易協定（ＦＴＡ）締結に向けた最終採決を延期する必要性があるとの見解で合意した。消息筋２人が１５日、明らかにした。 bit.ly/4oVOkgg
+
+[2025-12-16 13:42:41](https://bsky.app/profile/japan.reuters.com/post/3ma3dhtyqdd26)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+トランプ大統領 BBCを提訴 演説編集で100億ドル超賠償求める
+https://news.web.nhk/newsweb/na/na-k10015005341000
+
+[2025-12-16 13:42:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3dgwogz72m)
+
+---
+
+@nikkei.com
+
+個人の不動産取得、登記時に国籍提出を義務化　26年度に運用開始（無料記事）
+www.nikkei.com/article/DGXZQO...
+
+登記の申請書に国籍を記入する欄を設け、パスポートや住民票など国籍が確認できる本人確認書類の提出も求めます。日本人も国籍把握の対象です。
+
+#ニュース
+
+[2025-12-16 13:42:06](https://bsky.app/profile/nikkei.com/post/3ma3dgswpos24)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+三菱UFJフィナンシャル・グループ 半沢淳一氏が社長昇格
+https://news.web.nhk/newsweb/na/na-k10015005311000
+
+[2025-12-16 13:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3dgrmrb326)
+
+---
+
+@japan.reuters.com
+
+トランプ米大統領は１５日、映画監督兼俳優のロブ・ライナーさん（７８）と妻ミシェルさん（７０）が殺害された事件を巡り、反トランプ氏を鮮明にしていたライナーさんが「トランプ錯乱症候群」の見解のために死に至ったと交流サイト（ＳＮＳ）に投稿した。 bit.ly/49czZHs
+
+[2025-12-16 13:40:15](https://bsky.app/profile/japan.reuters.com/post/3ma3ddj2vua25)
 
 ---
 
 @reuters.com
 
-Britain clinches upgraded South Korea trade deal reut.rs/4oUXHg4
+Bournemouth and Man United share spoils in eight-goal thriller reut.rs/3Y0KnvI
 
-[2025-12-16 13:20:26](https://bsky.app/profile/reuters.com/post/3ma3ca3nsyb2o)
-
----
-
-@japan.reuters.com
-
-王子ホールディングスは１６日、発行済み株式の９．０％に当たる８２００万株・５００億円を上限とする自社株買いを決議したと発表した。取得期間は１７日から２０２６年１２月１６日。 bit.ly/3YuGGyt
-
-[2025-12-16 13:20:20](https://bsky.app/profile/japan.reuters.com/post/3ma3c7vdcfv2q)
-
----
-
-@nytimes.com
-
-Eleven days after hastily shutting down because of a damaged water pipe, hotels on the Grand Canyon’s South Rim are set to welcome guests again starting on Wednesday, the National Park Service said on Monday.
-
-[2025-12-16 13:20:04](https://bsky.app/profile/nytimes.com/post/3ma3c7gihei2r)
-
----
-
-@japan.reuters.com
-
-ベラルーシのルカシェンコ大統領は１５日、ベネズエラのマドゥロ大統領が退陣した場合、ベラルーシへの移住を歓迎するが、同氏とそうした協議は行っていないと述べた。米ニュースマックスのインタビューで語った。 bit.ly/48TDh11
-
-[2025-12-16 13:19:01](https://bsky.app/profile/japan.reuters.com/post/3ma3c5kcm5f2q)
-
----
-
-@nhknewsunofficial.bsky.social
-
-自民 生成AI「ディープフェイク」の規制 来月にも政府に提言へ
-https://news.web.nhk/newsweb/na/na-k10015005301000
-
-[2025-12-16 13:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3c3unipb2k)
-
----
-
-@financialtimes.com
-
-‘In terms of security guarantee … we’re working with Europe on it,’ the US president said just hours after officials from Ukraine, Germany and the US claimed progress in drafting a deal to end Russia’s invasion. on.ft.com/4qdskhX
-
-[2025-12-16 13:15:26](https://bsky.app/profile/financialtimes.com/post/3ma3bx5cwpo2k)
+[2025-12-16 13:40:14](https://bsky.app/profile/reuters.com/post/3ma3ddinveb24)
 
 ---
 
