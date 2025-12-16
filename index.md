@@ -1,9 +1,9 @@
-# [2025-12-16 14:30 updated](2025_12_16.md)
+# [2025-12-16 14:50 updated](2025_12_16.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">DeNA 牧秀悟 現状維持の推定年俸2億5000万円で契約更改 https://news.web.nhk/newsweb/na/na-k10015005331000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3fxfbzll2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 14:27:07)</span><span style="padding-right:50px;">自民 鈴木幹事長 “定数削減法案成立見込めず会期延長考えず” https://news.web.nhk/newsweb/na/na-k10015005441000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3fxahnre24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 14:27:02)</span><span style="padding-right:50px;">自民 税制調査会 エコカー減税延長 燃費基準厳格化など了承 https://news.web.nhk/newsweb/na/na-k10015005361000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3frv3hne22" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 14:24:02)</span><span style="padding-right:50px;">Morrisons loses £17mn food fight as chicken tax comes home to roost on.ft.com/4rY7YuN <a href="https://bsky.app/profile/financialtimes.com/post/3ma3fmh37be24" target="_blank">financialtimes.com</a> (2025-12-16 14:21:02)</span><span style="padding-right:50px;">定数削減法案を継続審議とするか 17日衆院議運委で採決へ https://news.web.nhk/newsweb/na/na-k10015005401000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3fmjkmc72b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 14:21:02)</span>
+<span style="padding-right:50px;">【地震速報】北海道で震度3 津波の心配なし https://news.web.nhk/newsweb/na/na-k10015005461000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3h4rj3bl2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 14:48:02)</span><span style="padding-right:50px;">🔊 Buyout barons suffered the whiplash of a post-pandemic boom. In this episode of The Big View, Jonathan Guilford talks to Thoma Bravo Managing Partner Seth Boro about how the firm is dealing with the fallout as AI once again upends the market reut.rs/4aduObn <a href="https://bsky.app/profile/reuters.com/post/3ma3gzllzjs2k" target="_blank">reuters.com</a> (2025-12-16 14:46:17)</span><span style="padding-right:50px;">【地震速報】北海道で震度3 https://news.web.nhk/newsweb/na/na-k10015005461000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3gxgabjt2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 14:45:02)</span><span style="padding-right:50px;">インドネシアのプラボウォ大統領は１５日、１０００人以上が死亡したスマトラ島の洪水被災地域の活動が今後２─３カ月で正常化する可能性があると述べた。 bit.ly/4pNuPYE <a href="https://bsky.app/profile/japan.reuters.com/post/3ma3gwftk6c22" target="_blank">japan.reuters.com</a> (2025-12-16 14:44:30)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:青森県東方沖, 深さ:20km マグニチュード:5.2, 最大震度:3 📍https://www.google.com/maps?q=40.9,143.1&ll=40.9,143.1&z=7&t=h 地震発生日時:2025-12-16 14:38頃 (10倍速▶210s→21s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3ma3gv7tdfm26" target="_blank">sokuho.news</a> (2025-12-16 14:43:50)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49458.99 (🔻592.25 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3332.00 (🔻48.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.73 (🔻0.49 : 2025-12-16)</span>
+<span style="padding-right:50px;">NIKKEI: 49429.82 (🔻621.42 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3333.00 (🔻47.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.76 (🔻0.46 : 2025-12-16)</span>
   </div>
 </div>
 
@@ -34,99 +34,119 @@
 
 Here are six important stories with headlines in English:
 
-1. Japanese Baseball Player Re-signs with Estimated Annual Salary of ¥250 Million
-2. Japan's LDP Sees Little Chance of Passing Bill to Reduce Number of Diet Members
-3. Japan's LDP Tax Panel to Consider Extending Eco-Car Tax Breaks, Tightening Fuel Efficiency Standards
-4. Morrisons Loses £17mn in Food Fight as Chicken Tax Hits Hard
-5. Philippines Says Father and Son Behind Sydney Attack Visited Country Last Month
-6. Trump Signs Executive Order to Designate Fentanyl as a WMD, Boosting US Efforts to Combat Opioid Crisis
+1. Magnitude 5.2 Earthquake Hits Off Northern Japan, No Tsunami Warning Issued
+2. EU Fears US Will Exempt Own Oil and Gas from Methane Emissions Rule
+3. Trump Administration Considers Reclassifying Marijuana as Low-THC Substance
+4. Australian Consumer Sentiment Slides in December Amid Inflation Worries
+5. Morrisons Loses £17mn in Food Fight with Chicken Tax
+6. Japan's LDP to Vote on Diet Size Reduction Bill on December 17
 
 ----
 
 @nhknewsunofficial.bsky.social
 
-DeNA 牧秀悟 現状維持の推定年俸2億5000万円で契約更改
-https://news.web.nhk/newsweb/na/na-k10015005331000
+【地震速報】北海道で震度3 津波の心配なし
+https://news.web.nhk/newsweb/na/na-k10015005461000
 
-[2025-12-16 14:27:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3fxfbzll2k)
-
----
-
-@nhknewsunofficial.bsky.social
-
-自民 鈴木幹事長 “定数削減法案成立見込めず会期延長考えず”
-https://news.web.nhk/newsweb/na/na-k10015005441000
-
-[2025-12-16 14:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3fxahnre24)
-
----
-
-@nhknewsunofficial.bsky.social
-
-自民 税制調査会 エコカー減税延長 燃費基準厳格化など了承
-https://news.web.nhk/newsweb/na/na-k10015005361000
-
-[2025-12-16 14:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3frv3hne22)
-
----
-
-@financialtimes.com
-
-Morrisons loses £17mn food fight as chicken tax comes home to roost on.ft.com/4rY7YuN
-
-[2025-12-16 14:21:02](https://bsky.app/profile/financialtimes.com/post/3ma3fmh37be24)
-
----
-
-@nhknewsunofficial.bsky.social
-
-定数削減法案を継続審議とするか 17日衆院議運委で採決へ
-https://news.web.nhk/newsweb/na/na-k10015005401000
-
-[2025-12-16 14:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3fmjkmc72b)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】JR四国 年末年始の指定席予約状況発表 岡山～四国特急で予約が集中している日時も発表
-(2025-12-16 14:15) #ニュース
-
-[2025-12-16 14:20:41](https://bsky.app/profile/sokuho.news/post/3ma3flt4kc52z)
-
----
-
-@japan.reuters.com
-
-序盤のインド株式市場の株価は続落している。海外への投資資金流出が続き、ルピー相場が下落基調にある中、米国との貿易協定はいまだに見通せない状況が続いている。 bit.ly/49f0V9C
-
-[2025-12-16 14:20:41](https://bsky.app/profile/japan.reuters.com/post/3ma3flsy3uc2f)
-
----
-
-@japan.reuters.com
-
-メキシコ政府は１５日、国内に輸入される米国産の豚もも肉・肩肉について、反ダンピング（不当廉売）・反補助金で調査を開始したと発表した。 bit.ly/4aoIjVT
-
-[2025-12-16 14:20:12](https://bsky.app/profile/japan.reuters.com/post/3ma3fkwr5x22q)
+[2025-12-16 14:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3h4rj3bl2k)
 
 ---
 
 @reuters.com
 
-Dollar on defensive as traders eye delayed US jobs data reut.rs/3XXn1XY
+🔊 Buyout barons suffered the whiplash of a post-pandemic boom. In this episode of The Big View, Jonathan Guilford talks to Thoma Bravo Managing Partner Seth Boro about how the firm is dealing with the fallout as AI once again upends the market reut.rs/4aduObn
 
-[2025-12-16 14:20:11](https://bsky.app/profile/reuters.com/post/3ma3fkwotxo2y)
+[2025-12-16 14:46:17](https://bsky.app/profile/reuters.com/post/3ma3gzllzjs2k)
 
 ---
 
-@financialtimes.com
+@nhknewsunofficial.bsky.social
 
-Monzo chief pushed out after board rift over growth and IPO plans on.ft.com/4q9KIZ1
+【地震速報】北海道で震度3
+https://news.web.nhk/newsweb/na/na-k10015005461000
 
-[2025-12-16 14:14:12](https://bsky.app/profile/financialtimes.com/post/3ma3faacs4l2w)
+[2025-12-16 14:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3gxgabjt2k)
+
+---
+
+@japan.reuters.com
+
+インドネシアのプラボウォ大統領は１５日、１０００人以上が死亡したスマトラ島の洪水被災地域の活動が今後２─３カ月で正常化する可能性があると述べた。 bit.ly/4pNuPYE
+
+[2025-12-16 14:44:30](https://bsky.app/profile/japan.reuters.com/post/3ma3gwftk6c22)
+
+---
+
+@sokuho.news
+
+🔔防災科研より【強震モニタ】動画です。
+
+震源:青森県東方沖, 深さ:20km
+マグニチュード:5.2, 最大震度:3
+📍https://www.google.com/maps?q=40.9,143.1&ll=40.9,143.1&z=7&t=h
+地震発生日時:2025-12-16 14:38頃
+(10倍速▶210s→21s) #地震
+
+[2025-12-16 14:43:50](https://bsky.app/profile/sokuho.news/post/3ma3gv7tdfm26)
+
+---
+
+@sokuho.news
+
+🔔気象庁より【地震速報】です。
+
+14時38分頃、北海道・青森県・岩手県などで最大震度3の地震を観測しました。
+震源:青森県東方沖, 深さ:20km, 規模:M5.2
+この地震による津波の心配はありません。
+(2025-12-16 14:43:10) #地震
+
+[2025-12-16 14:43:12](https://bsky.app/profile/sokuho.news/post/3ma3gu33sji2r)
+
+---
+
+@sokuho.news
+
+🔔気象庁より【震源速報】です。
+
+14時38分頃、青森県東方沖(深さ:20km) を震源とする M5.2 の地震を観測しました。
+この地震による津波の心配はありません。
+(2025-12-16 14:42:03) #地震
+
+[2025-12-16 14:42:04](https://bsky.app/profile/sokuho.news/post/3ma3gs2u3f62y)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+平口法相 個人の不動産移転登記 国籍記載を求める仕組み導入へ
+https://news.web.nhk/newsweb/na/na-k10015005451000
+
+[2025-12-16 14:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3gs2au5l2u)
+
+---
+
+@sokuho.news
+
+🔔NHKより【地震速報】です。
+
+■震度3■
+渡島東部
+(2025-12-16 14:38) #地震
+
+[2025-12-16 14:40:57](https://bsky.app/profile/sokuho.news/post/3ma3gq2fcqf27)
+
+---
+
+@sokuho.news
+
+🔔気象庁より【震度速報】です。
+
+14時38分頃、北海道で最大震度3の地震を観測しました。
+今後の情報に注意してください。
+(2025-12-16 14:40:41) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/16/2025-12-16-14-38-55.html?xlarge_image=1
+
+[2025-12-16 14:40:43](https://bsky.app/profile/sokuho.news/post/3ma3gpnjl752z)
 
 ---
 
