@@ -1,9 +1,9 @@
-# [2025-12-17 02:30 updated](2025_12_17.md)
+# [2025-12-17 02:50 updated](2025_12_17.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">EU waters down plans to end petrol and diesel car sales by 2035 <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma4ocjftso2y" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-17 02:29:12)</span><span style="padding-right:50px;">Sonnedix wins contracts for 805 MW of solar capacity in Italy reut.rs/4pzUfso <a href="https://bsky.app/profile/reuters.com/post/3ma4o3fukc623" target="_blank">reuters.com</a> (2025-12-17 02:25:14)</span><span style="padding-right:50px;">Strands is a word search with a unique twist. Can you uncover the theme? Play here: nyti.ms/45dBWRA <a href="https://bsky.app/profile/nytimes.com/post/3ma4o36jahu25" target="_blank">nytimes.com</a> (2025-12-17 02:25:06)</span><span style="padding-right:50px;">DR Congo conflict: Rebels say they will withdraw from Uvira city at Trump administration's request <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma4nykx3u62z" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-17 02:23:38)</span><span style="padding-right:50px;">Pepsi worked to keep prices higher at retailers to help Walmart, according to an FTC lawsuit that the agency dropped earlier this year. Unredacted portions were recently unsealed. <a href="https://bsky.app/profile/wsj.com/post/3ma4nwdngjr2r" target="_blank">wsj.com</a> (2025-12-17 02:22:24)</span>
+<span style="padding-right:50px;">Afghan hunger crisis deepens as aid funding falls short, UN says reut.rs/4q7VC1h <a href="https://bsky.app/profile/reuters.com/post/3ma4p7hp2fg2c" target="_blank">reuters.com</a> (2025-12-17 02:45:24)</span><span style="padding-right:50px;">Nasdaq moves to make trading nearly 24 hours. Why some on Wall Street say that's a bad idea <a href="https://bsky.app/profile/cnbc.com/post/3ma4p72xo4n23" target="_blank">cnbc.com</a> (2025-12-17 02:45:10)</span><span style="padding-right:50px;">LATEST: House Speaker Mike Johnson says he won't call a vote to extend enhanced subsidies under the Affordable Care Act, effectively guaranteeing they will expire at the end of this month. <a href="https://bsky.app/profile/nbcnews.com/post/3ma4oyo7ush2q" target="_blank">nbcnews.com</a> (2025-12-17 02:41:36)</span><span style="padding-right:50px;">One reason why the U.S. is struggling to meet the AI boom’s energy needs: a shortage of transformers that are partly made by hand. <a href="https://bsky.app/profile/wsj.com/post/3ma4oww4jim2s" target="_blank">wsj.com</a> (2025-12-17 02:40:37)</span><span style="padding-right:50px;">This year's Arctic Report Card from the National Oceanic and Atmospheric Administration finds that the northernmost part of the Earth is warming faster than the global average, leading to melting glaciers, shifting fish populations, and rivers running orange. n.pr/4rYZwLP <a href="https://bsky.app/profile/npr.org/post/3ma4owuaf7x24" target="_blank">npr.org</a> (2025-12-17 02:40:35)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48151.15 (🔻229.02 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23013.14 (🔺31.32 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 176.62 (🔺0.37 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.68 (🔻0.54 : 2025-12-16)</span>
+<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48055.09 (🔻325.08 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 22972.11 (🔻9.71 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 176.57 (🔺0.31 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.66 (🔻0.56 : 2025-12-16)</span>
   </div>
 </div>
 
@@ -34,92 +34,93 @@
 
 Here are six important stories with headlines:
 
-1. EU Waters Down Plans to End Petrol and Diesel Car Sales by 2035
-2. Dramatic Footage Emerges of Elderly Couple's Heroic Attempt to Stop Bondi Beach Gunmen
-3. UK Government's Flagship Workers' Rights Legislation Clears House of Lords
-4. US Unemployment Rate Hits Four-Year High, but Job Market Remains Weak
-5. Cocaine Cartels Declared Terrorist Organizations by Trump Administration
-6. Netflix Partners with iHeartMedia to Expand Podcasting Presence
+1. Afghan Hunger Crisis Deepens as Aid Funding Falls Short
+2. Nasdaq Plans to Extend Trading Hours to Almost 24/7
+3. US Struggles to Meet Energy Needs Amid AI Boom
+4. Arctic Report Card Shows Region Warming at Faster Rate
+5. Iran Bars Independent Medical Examination of Nobel Laureate
+6. Obituary Statue of Black Teenager to Replace Confederate General in US Capitol
 
 ----
 
-@bbcnews-world-rss.bsky.social
-
-EU waters down plans to end petrol and diesel car sales by 2035
-
-[2025-12-17 02:29:12](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma4ocjftso2y)
-
----
-
 @reuters.com
 
-Sonnedix wins contracts for 805 MW of solar capacity in Italy reut.rs/4pzUfso
+Afghan hunger crisis deepens as aid funding falls short, UN says reut.rs/4q7VC1h
 
-[2025-12-17 02:25:14](https://bsky.app/profile/reuters.com/post/3ma4o3fukc623)
-
----
-
-@nytimes.com
-
-Strands is a word search with a unique twist. Can you uncover the theme? Play here: nyti.ms/45dBWRA
-
-[2025-12-17 02:25:06](https://bsky.app/profile/nytimes.com/post/3ma4o36jahu25)
+[2025-12-17 02:45:24](https://bsky.app/profile/reuters.com/post/3ma4p7hp2fg2c)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@cnbc.com
 
-DR Congo conflict: Rebels say they will withdraw from Uvira city at Trump administration's request
+Nasdaq moves to make trading nearly 24 hours. Why some on Wall Street say that's a bad idea
 
-[2025-12-17 02:23:38](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma4nykx3u62z)
-
----
-
-@wsj.com
-
-Pepsi worked to keep prices higher at retailers to help Walmart, according to an FTC lawsuit that the agency dropped earlier this year. Unredacted portions were recently unsealed.
-
-[2025-12-17 02:22:24](https://bsky.app/profile/wsj.com/post/3ma4nwdngjr2r)
+[2025-12-17 02:45:10](https://bsky.app/profile/cnbc.com/post/3ma4p72xo4n23)
 
 ---
 
 @nbcnews.com
 
-Dramatic new footage has emerged showing an elderly couple who were killed in the Bondi Beach shooting attempt to stop and disarm one of the gunmen.
+LATEST: House Speaker Mike Johnson says he won't call a vote to extend enhanced subsidies under the Affordable Care Act, effectively guaranteeing they will expire at the end of this month.
 
-[2025-12-17 02:20:10](https://bsky.app/profile/nbcnews.com/post/3ma4nsdtzg62d)
-
----
-
-@cbsnews.com
-
-Construction of the White House's planned $300 million ballroom is expected to be completed in the summer of 2028, just months before President Trump leaves office, according to an environmental assessment prepared by the National Park Service in late August.
-
-[2025-12-17 02:20:01](https://bsky.app/profile/cbsnews.com/post/3ma4ns36oe52p)
+[2025-12-17 02:41:36](https://bsky.app/profile/nbcnews.com/post/3ma4oyo7ush2q)
 
 ---
 
-@apnews.com
+@wsj.com
 
-Indiana's Curt Cignetti is named the AP coach of the year in college football. He's the first coach to win the honor back-to-back.
+One reason why the U.S. is struggling to meet the AI boom’s energy needs: a shortage of transformers that are partly made by hand.
 
-[2025-12-17 02:19:56](https://bsky.app/profile/apnews.com/post/3ma4nrwiqlg24)
+[2025-12-17 02:40:37](https://bsky.app/profile/wsj.com/post/3ma4oww4jim2s)
 
 ---
 
-@axios.com
+@npr.org
 
-Defense Secretary Pete Hegseth says the public won't see the Venezuela second strike video
+This year's Arctic Report Card from the National Oceanic and Atmospheric Administration finds that the northernmost part of the Earth is warming faster than the global average, leading to melting glaciers, shifting fish populations, and rivers running orange. n.pr/4rYZwLP
 
-[2025-12-17 02:17:37](https://bsky.app/profile/axios.com/post/3ma4nnrnrrk25)
+[2025-12-17 02:40:35](https://bsky.app/profile/npr.org/post/3ma4owuaf7x24)
 
 ---
 
 @reuters.com
 
-Sterling rises after UK economic data, US figures in focus reut.rs/3KVqXFt
+Czech defence group CSG wins $1 billion Asian truck deal, opens Slovak ammunition line reut.rs/494QzrQ
 
-[2025-12-17 02:15:17](https://bsky.app/profile/reuters.com/post/3ma4njn5upq2y)
+[2025-12-17 02:40:24](https://bsky.app/profile/reuters.com/post/3ma4owjgczl2o)
+
+---
+
+@nbcnews.com
+
+An overwhelming majority of U.S. adults are satisfied with their health insurance coverage overall, including most older Americans and those on Medicare and Medicaid, according to a new NBC News Decision Desk Poll powered by SurveyMonkey.
+
+[2025-12-17 02:40:19](https://bsky.app/profile/nbcnews.com/post/3ma4owexlg42q)
+
+---
+
+@cbsnews.com
+
+Video shows couple trying to stop Bondi Beach gunmen moments before the attack. They became the first victims.
+
+
+[2025-12-17 02:40:01](https://bsky.app/profile/cbsnews.com/post/3ma4ovtuxao2c)
+
+---
+
+@financialtimes.com
+
+OpenAI hires George Osborne to spearhead global ‘Stargate’ expansion ft.trib.al/kpZiA3a
+
+[2025-12-17 02:37:20](https://bsky.app/profile/financialtimes.com/post/3ma4or27dmo2o)
+
+---
+
+@reuters.com
+
+Britain may change BBC funding to allow adverts or subscriptions reut.rs/4oY4lSS
+
+[2025-12-17 02:35:16](https://bsky.app/profile/reuters.com/post/3ma4one6h4k2r)
 
 ---
 
