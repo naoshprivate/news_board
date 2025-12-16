@@ -1,9 +1,9 @@
-# [2025-12-16 21:10 updated](2025_12_16.md)
+# [2025-12-16 21:30 updated](2025_12_16.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Warm Or White Christmas This Year? A Meteorologist Explains www.forbes.com/sites/marsha... (Photo: Getty Images) <a href="https://bsky.app/profile/forbes.com/post/3ma44gbgimk2d" target="_blank">forbes.com</a> (2025-12-16 21:09:11)</span><span style="padding-right:50px;">Exclusive: Kraft Heinz is replacing its CEO after a tumultuous period that culminated in the decision to break up the company. <a href="https://bsky.app/profile/wsj.com/post/3ma44f45i2e2r" target="_blank">wsj.com</a> (2025-12-16 21:08:32)</span><span style="padding-right:50px;">The World’s Highest-Paid Female Athletes 2025 <a href="https://bsky.app/profile/forbes.com/post/3ma44cgrxns2d" target="_blank">forbes.com</a> (2025-12-16 21:07:02)</span><span style="padding-right:50px;">Europe's best-performing stock is up 1,400% this year. Here's what next <a href="https://bsky.app/profile/cnbc.com/post/3ma44c64w5r2p" target="_blank">cnbc.com</a> (2025-12-16 21:06:53)</span><span style="padding-right:50px;">The 21-year-old superstar faced sky-high expectations almost from the moment she picked up a racket, but the world’s highest-paid female athlete has aced every test—and now she’s thinking even bigger. www.forbes.com/sites/justin... (Photo: Guerin Blask for Forbes) <a href="https://bsky.app/profile/forbes.com/post/3ma44bh6bn22d" target="_blank">forbes.com</a> (2025-12-16 21:06:29)</span>
+<span style="padding-right:50px;">President Trump has been on a renovation spree since moving back into the White House, but his penchant for remodeling is leading to an escalating legal feud with his neighbors. <a href="https://bsky.app/profile/wsj.com/post/3ma45i2envs2h" target="_blank">wsj.com</a> (2025-12-16 21:28:04)</span><span style="padding-right:50px;">Shut Down And Restart—New Microsoft Attack Beats Passwords, 2FA And Passkeys <a href="https://bsky.app/profile/forbes.com/post/3ma45i22dck2z" target="_blank">forbes.com</a> (2025-12-16 21:28:04)</span><span style="padding-right:50px;">Warner Bros. has a history of disastrous mergers and acquisitions. Can they avoid another bad sequel as Netflix and Paramount battle to buy it? n.pr/4oVhjkc <a href="https://bsky.app/profile/npr.org/post/3ma45hwwkys2y" target="_blank">npr.org</a> (2025-12-16 21:28:01)</span><span style="padding-right:50px;">ロイターが入手した欧州委員会の草案によると、欧州連合（ＥＵ）は、世界初となる炭素国境調整措置（ＣＢＡＭ）の対象を拡大し、自動車部品、冷蔵庫、洗濯機などの輸入品にも適用する計画だ。 bit.ly/3N37RxR <a href="https://bsky.app/profile/japan.reuters.com/post/3ma45czc62q2u" target="_blank">japan.reuters.com</a> (2025-12-16 21:25:16)</span><span style="padding-right:50px;">China reiterates demand that Japanese PM retract Taiwan remarks reut.rs/48PC0JP <a href="https://bsky.app/profile/reuters.com/post/3ma45cwwe572i" target="_blank">reuters.com</a> (2025-12-16 21:25:13)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.82 (🔻0.40 : 2025-12-16)</span>
+<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.73 (🔻0.49 : 2025-12-16)</span>
   </div>
 </div>
 
@@ -34,96 +34,94 @@
 
 Here are six important stories with headlines in English:
 
-1. China Imposes 4.9-19.8% Tariff on EU Pork Imports
-2. US Suspends Tech Deal with UK Amid Trade Dispute
-3. Roger Lumbala, Former DR Congo Rebel Leader, Sentenced to 30 Years in Jail
-4. Japan's Last Two Giant Pandas to Leave for China Amid Fan Backlash
-5. Nick Reiner Arrested on Suspicion of Murder of Parents Rob and Michele Reiner
-6. China's Escalation Dominance over Trump Sparks Global Concern
+1. Trump's Renovation Frenzy Sparks Feud with Neighbors
+2. Microsoft Software Hacked, Beats Passwords and 2FA
+3. Warner Bros. Mergers and Acquisitions: A Troubled History
+4. EU to Impose Carbon Border Adjustment on Car Parts and Appliances
+5. China Lowers EU Pork Tariffs in Final Ruling After 18-Month Probe
+6. Kraft Heinz Replaces CEO Ahead of Breakup
 
 ----
 
-@forbes.com
-
-Warm Or White Christmas This Year? A Meteorologist Explains
-www.forbes.com/sites/marsha... (Photo: Getty Images)
-
-[2025-12-16 21:09:11](https://bsky.app/profile/forbes.com/post/3ma44gbgimk2d)
-
----
-
 @wsj.com
 
-Exclusive: Kraft Heinz is replacing its CEO after a tumultuous period that culminated in the decision to break up the company.
+President Trump has been on a renovation spree since moving back into the White House, but his penchant for remodeling is leading to an escalating legal feud with his neighbors.
 
-[2025-12-16 21:08:32](https://bsky.app/profile/wsj.com/post/3ma44f45i2e2r)
-
----
-
-@forbes.com
-
-The World’s Highest-Paid Female Athletes 2025
-
-[2025-12-16 21:07:02](https://bsky.app/profile/forbes.com/post/3ma44cgrxns2d)
-
----
-
-@cnbc.com
-
-Europe's best-performing stock is up 1,400% this year. Here's what next
-
-[2025-12-16 21:06:53](https://bsky.app/profile/cnbc.com/post/3ma44c64w5r2p)
+[2025-12-16 21:28:04](https://bsky.app/profile/wsj.com/post/3ma45i2envs2h)
 
 ---
 
 @forbes.com
 
-The 21-year-old superstar faced sky-high expectations almost from the moment she picked up a racket, but the world’s highest-paid female athlete has aced every test—and now she’s thinking even bigger. www.forbes.com/sites/justin... (Photo: Guerin Blask for Forbes)
+Shut Down And Restart—New Microsoft Attack Beats Passwords, 2FA And Passkeys
 
-[2025-12-16 21:06:29](https://bsky.app/profile/forbes.com/post/3ma44bh6bn22d)
+[2025-12-16 21:28:04](https://bsky.app/profile/forbes.com/post/3ma45i22dck2z)
+
+---
+
+@npr.org
+
+Warner Bros. has a history of disastrous mergers and acquisitions. Can they avoid another bad sequel as Netflix and Paramount battle to buy it? n.pr/4oVhjkc
+
+[2025-12-16 21:28:01](https://bsky.app/profile/npr.org/post/3ma45hwwkys2y)
 
 ---
 
 @japan.reuters.com
 
-中国は１６日、欧州連合（ＥＵ）産豚肉に４．９─１９．８％の反ダンピング（不当廉売）関税を課すと発表した。１７日から５年間適用。関税率は９月に暫定決定で課した１５．６─６２．４％から大幅に引き下げられた。 bit.ly/3KCcvSV
+ロイターが入手した欧州委員会の草案によると、欧州連合（ＥＵ）は、世界初となる炭素国境調整措置（ＣＢＡＭ）の対象を拡大し、自動車部品、冷蔵庫、洗濯機などの輸入品にも適用する計画だ。 bit.ly/3N37RxR
 
-[2025-12-16 21:05:21](https://bsky.app/profile/japan.reuters.com/post/3ma447ftgku2v)
+[2025-12-16 21:25:16](https://bsky.app/profile/japan.reuters.com/post/3ma45czc62q2u)
 
 ---
 
 @reuters.com
 
-US Treasuries rebuilding risk premia reut.rs/4oViFvi
+China reiterates demand that Japanese PM retract Taiwan remarks reut.rs/48PC0JP
 
-[2025-12-16 21:05:17](https://bsky.app/profile/reuters.com/post/3ma447bzrbs2x)
+[2025-12-16 21:25:13](https://bsky.app/profile/reuters.com/post/3ma45cwwe572i)
+
+---
+
+@nytimes.com
+
+The tech company Palantir has secured federal contracts worth hundreds of millions of dollars during President Trump’s second presidency, including to develop software to help ICE deport people.
+
+Listen to "The Daily."
+
+[2025-12-16 21:25:05](https://bsky.app/profile/nytimes.com/post/3ma45coxvoz2a)
 
 ---
 
 @cnbc.com
 
-This streaming stock is on fire this year. Morgan Stanley expects even more gains ahead
+This quantum computing stock can surge 90% in the coming year, says Jefferies
 
-[2025-12-16 21:04:39](https://bsky.app/profile/cnbc.com/post/3ma44666htm2i)
+[2025-12-16 21:25:02](https://bsky.app/profile/cnbc.com/post/3ma45clwapo2x)
 
 ---
 
 @forbes.com
 
-AI Bathroom Monitors? Welcome To America’s New Surveillance High Schools
+Feds Warn iPhone And Android Users: Update Now—Attacks Confirmed
 
-Full story: 
-www.forbes.com/sites/thomas... (Illustration: Yunjia Yuan for Forbes; Photo: Pete Leonard via Getty Images)
-
-[2025-12-16 21:03:37](https://bsky.app/profile/forbes.com/post/3ma444cjd6s2d)
+[2025-12-16 21:22:32](https://bsky.app/profile/forbes.com/post/3ma4564zjjc2z)
 
 ---
 
-@japan.reuters.com
+@forbes.com
 
-Ｓ＆Ｐグローバルが１６日発表した英国の１２月総合購買担当者景気指数（ＰＭＩ）速報値は５２．１で、１１月の５１．２から上昇した。国内企業は、財務相が１１月下旬に発表した予算案による増税への懸念から脱しつつあるもようだ。 bit.ly/4p0QQSz
+Solstice 2025: When Is The Shortest Day Of The Year?
 
-[2025-12-16 21:02:28](https://bsky.app/profile/japan.reuters.com/post/3ma442awbva2s)
+[2025-12-16 21:20:50](https://bsky.app/profile/forbes.com/post/3ma4533jgqk2z)
+
+---
+
+@forbes.com
+
+Microsoft Updates Windows ‘To Stop Users Downloading Google Chrome’
+
+[2025-12-16 21:20:29](https://bsky.app/profile/forbes.com/post/3ma452ic5c22z)
 
 ---
 
