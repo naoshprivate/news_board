@@ -1,9 +1,9 @@
-# [2025-12-16 22:50 updated](2025_12_16.md)
+# [2025-12-16 23:10 updated](2025_12_16.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Thriller starring Ranveer Singh has raised eyebrows over its portrayal of tensions between the two countries. <a href="https://bsky.app/profile/aljazeera.com/post/3ma4bxbtmwp2v" target="_blank">aljazeera.com</a> (2025-12-16 22:48:10)</span><span style="padding-right:50px;">Thriller starring Ranveer Singh has raised eyebrows over its portrayal of tensions between the two countries. <a href="https://bsky.app/profile/aljazeera.com/post/3ma4bx2e6vz2z" target="_blank">aljazeera.com</a> (2025-12-16 22:48:02)</span><span style="padding-right:50px;">Kevin Warsh moves ahead in Fed chief race on Kalshi after Hassett pushback <a href="https://bsky.app/profile/cnbc.com/post/3ma4buriro72g" target="_blank">cnbc.com</a> (2025-12-16 22:46:46)</span><span style="padding-right:50px;">US job growth beats expectations in November; unemployment rate at 4.6% reut.rs/48HbLoO <a href="https://bsky.app/profile/reuters.com/post/3ma4bs3esxe2i" target="_blank">reuters.com</a> (2025-12-16 22:45:16)</span><span style="padding-right:50px;">Here are Tuesday's biggest analyst calls: Nvidia, Tesla, Roku, Estee Lauder, Southwest, Gap, MetLife & more <a href="https://bsky.app/profile/cnbc.com/post/3ma4bqqdgum24" target="_blank">cnbc.com</a> (2025-12-16 22:44:31)</span>
+<span style="padding-right:50px;">#UPDATE Paris Saint-Germain were ordered to pay their former forward Kylian Mbappe up to 61 million euros ($71.8 million) in unpaid wages and bonuses by a French labour court on Tuesday ➡️ u.afp.com/S7V2 <a href="https://bsky.app/profile/en.afp.com/post/3ma4d4vs4ps2r" target="_blank">en.afp.com</a> (2025-12-16 23:09:13)</span><span style="padding-right:50px;">Revisit some of our stand-out episodes, curated by the writers of NPR’s Pod Club newsletter <a href="https://bsky.app/profile/npr.org/post/3ma4cwfexl42n" target="_blank">npr.org</a> (2025-12-16 23:05:34)</span><span style="padding-right:50px;">India's exports defy tariffs, strengthen hand in US trade talks reut.rs/48DPPLc <a href="https://bsky.app/profile/reuters.com/post/3ma4cvs5li22y" target="_blank">reuters.com</a> (2025-12-16 23:05:14)</span><span style="padding-right:50px;">Support AP journalists like Ashley by donating today. bit.ly/4aSLSUh  <a href="https://bsky.app/profile/apnews.com/post/3ma4cvpfpzx2q" target="_blank">apnews.com</a> (2025-12-16 23:05:11)</span><span style="padding-right:50px;">The US high court has recessed for the holidays, signaling a ruling on tariffs no sooner than early January <a href="https://bsky.app/profile/bloomberg.com/post/3ma4cvnsiy32a" target="_blank">bloomberg.com</a> (2025-12-16 23:05:10)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.78 (🔻0.44 : 2025-12-16)</span>
+<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.79 (🔻0.43 : 2025-12-16)</span>
   </div>
 </div>
 
@@ -32,97 +32,95 @@
 
 ## News Headlines
 
-Here are six important stories with headlines:
+Here are six important stories with English headlines:
 
-1. US Economy Adds 64,000 Jobs in November, Unemployment Rate Rises to 4.6%
-2. Former President Trump Sues BBC for $10 Billion Over Defamation Claims
-3. British Driver Sentenced to 21.5 Years for Plowing into Liverpool Fans
-4. New Solar Installations Expected to Fall Globally for the First Time in 2026
-5. Japan Passes $118 Billion Extra Budget to Fund Post-COVID Stimulus
-6. Benin Jails Around 30 People Over Alleged Links to Thwarted Coup Attempt
+1. US Unemployment Rate Rises to 4.6% in November, Highest Since 2021
+2. US Labor Market Loses 105,000 Jobs in October, Adds 64,000 in November
+3. Paris Saint-Germain Ordered to Pay Kylian Mbappe Up to $71.8 Million in Unpaid Wages
+4. US Economy Adds 64,000 Jobs in November, But Unemployment Rate Rises to 4.6%
+5. Polish Student Detained Over Suspected Christmas Market Attack Plot
+6. Former 'General Hospital' Star Anthony Geary Passes Away at 78
 
 ----
 
-@aljazeera.com
+@en.afp.com
 
-Thriller starring Ranveer Singh has raised eyebrows over its portrayal of tensions between the two countries.
+#UPDATE Paris Saint-Germain were ordered to pay their former forward Kylian Mbappe up to 61 million euros ($71.8 million) in unpaid wages and bonuses by a French labour court on Tuesday ➡️ u.afp.com/S7V2
 
-[2025-12-16 22:48:10](https://bsky.app/profile/aljazeera.com/post/3ma4bxbtmwp2v)
-
----
-
-@aljazeera.com
-
-Thriller starring Ranveer Singh has raised eyebrows over its portrayal of tensions between the two countries.
-
-[2025-12-16 22:48:02](https://bsky.app/profile/aljazeera.com/post/3ma4bx2e6vz2z)
+[2025-12-16 23:09:13](https://bsky.app/profile/en.afp.com/post/3ma4d4vs4ps2r)
 
 ---
 
-@cnbc.com
+@npr.org
 
-Kevin Warsh moves ahead in Fed chief race on Kalshi after Hassett pushback
+Revisit some of our stand-out episodes, curated by the writers of NPR’s Pod Club newsletter
 
-[2025-12-16 22:46:46](https://bsky.app/profile/cnbc.com/post/3ma4buriro72g)
+[2025-12-16 23:05:34](https://bsky.app/profile/npr.org/post/3ma4cwfexl42n)
 
 ---
 
 @reuters.com
 
-US job growth beats expectations in November; unemployment rate at 4.6% reut.rs/48HbLoO
+India's exports defy tariffs, strengthen hand in US trade talks reut.rs/48DPPLc
 
-[2025-12-16 22:45:16](https://bsky.app/profile/reuters.com/post/3ma4bs3esxe2i)
-
----
-
-@cnbc.com
-
-Here are Tuesday's biggest analyst calls: Nvidia, Tesla, Roku, Estee Lauder, Southwest, Gap, MetLife & more
-
-[2025-12-16 22:44:31](https://bsky.app/profile/cnbc.com/post/3ma4bqqdgum24)
-
----
-
-@financialtimes.com
-
-Why is Donald Trump suing the BBC — and will he win? ft.trib.al/AniZ4jk
-
-[2025-12-16 22:43:51](https://bsky.app/profile/financialtimes.com/post/3ma4bpke5ec2w)
+[2025-12-16 23:05:14](https://bsky.app/profile/reuters.com/post/3ma4cvs5li22y)
 
 ---
 
 @apnews.com
 
-<strong><span style="color: red;">BREAKING:</span> U.S. employers added 64,000 jobs in November but lost 105,000 in October, the government said in reports delayed by shutdown.</strong>
+Support AP journalists like Ashley by donating today. bit.ly/4aSLSUh 
 
-[2025-12-16 22:43:41](https://bsky.app/profile/apnews.com/post/3ma4bpazfzf2u)
-
----
-
-@cnbc.com
-
-Payrolls rose by 64,000 in November after falling by 105,000 in October, delayed jobs numbers show
-
-[2025-12-16 22:42:18](https://bsky.app/profile/cnbc.com/post/3ma4bmrihc72y)
+[2025-12-16 23:05:11](https://bsky.app/profile/apnews.com/post/3ma4cvpfpzx2q)
 
 ---
 
-@nytimes.com
+@bloomberg.com
 
-<strong><span style="color: red;">Breaking News</span>: Employers added 64,000 jobs in November and the unemployment rate rose to 4.6%, a warning sign for the U.S. economy.</strong>
+The US high court has recessed for the holidays, signaling a ruling on tariffs no sooner than early January
 
-[2025-12-16 22:40:53](https://bsky.app/profile/nytimes.com/post/3ma4bkaqc6t2v)
+[2025-12-16 23:05:10](https://bsky.app/profile/bloomberg.com/post/3ma4cvnsiy32a)
 
 ---
 
-@sokuho.news
+@apnews.com
 
-🔔ANNより【速報】です。
+Ashley Landis was one of nearly a dozen AP photographers who covered the 2025 Super Bowl. AP's photo team was stationed on the field, in the stadium and some controlled remote and robotic cameras mounted in the rafters to capture at least 10 different angles of every play. tinyurl.com/3pjx73ay 
 
-【速報】アメリカの11月の雇用統計 非農業部門の就業者数は6.4万人増 失業率は4.6%
-(2025年12月16日 22:40) #ニュース
+[2025-12-16 23:05:09](https://bsky.app/profile/apnews.com/post/3ma4cvmt2lg2u)
 
-[2025-12-16 22:40:40](https://bsky.app/profile/sokuho.news/post/3ma4bjuhrrq2b)
+---
+
+@yahoofinance.com
+
+The US unemployment rate crept up to 4.6% in November — its highest level since September 2021.
+finance.yahoo.com/news/unemplo...
+
+[2025-12-16 23:04:41](https://bsky.app/profile/yahoofinance.com/post/3ma4cus3uyc2t)
+
+---
+
+@wsj.com
+
+Tatsuya Imai, one of the most coveted free-agent pitchers on the market, wants to help a team dethrone the two-time defending World Series champions. on.wsj.com/48FkojB
+
+[2025-12-16 23:03:39](https://bsky.app/profile/wsj.com/post/3ma4csxhmx32i)
+
+---
+
+@reuters.com
+
+Polish student detained over suspected Christmas market attack plot reut.rs/44q4JCk
+
+[2025-12-16 23:01:16](https://bsky.app/profile/reuters.com/post/3ma4cophktp2b)
+
+---
+
+@npr.org
+
+Anthony Geary, who rose to fame in the 1970s and '80s as half the daytime TV super couple Luke and Laura on "General Hospital," has died. He was 78. n.pr/3KNUxwM
+
+[2025-12-16 23:01:15](https://bsky.app/profile/npr.org/post/3ma4coo2pfx25)
 
 ---
 
