@@ -1,9 +1,9 @@
-# [2025-12-16 11:30 updated](2025_12_16.md)
+# [2025-12-16 11:50 updated](2025_12_16.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">【日経特報】 経済同友会の代表幹事に日本IBM・山口明夫社長　新浪剛史氏の後任 www.nikkei.com/article/DGXZQO...  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3ma33ysx22322" target="_blank">nikkei.com</a> (2025-12-16 11:29:00)</span><span style="padding-right:50px;">赤沢亮正経済産業相は１６日の閣議後会見で、太陽光発電については、屋根への設置やペロブスカイト太陽電池の開発・導入を支援する方向だと述べた。 bit.ly/48WOgqu <a href="https://bsky.app/profile/japan.reuters.com/post/3ma33v3oto32q" target="_blank">japan.reuters.com</a> (2025-12-16 11:26:55)</span><span style="padding-right:50px;">米実業家イーロン・マスク氏の純資産が１５日、６０００億ドルに達したと米経済誌フォーブスが伝えた。同氏が率いる宇宙企業スペースＸが新規株式公開（ＩＰＯ）を準備中で、その一環として企業価値を８０００億ドルとする「二次株式売却」を開始したとの報道を受けた。個人の資産が６０００億ドルに達するのは史上初。 bit.ly/3L4D2Iy <a href="https://bsky.app/profile/japan.reuters.com/post/3ma33s4ho5p22" target="_blank">japan.reuters.com</a> (2025-12-16 11:25:15)</span><span style="padding-right:50px;">AI glasses, pendants, bracelets. They may be bad now, but their promise is huge.  @joannastern tested many smart wearables this year so you don’t waste your money.  Here’s where they have let her down—and where she’s hoping for big improvements soon. on.wsj.com/4pBxEvv <a href="https://bsky.app/profile/wsj.com/post/3ma33ovnvuz2c" target="_blank">wsj.com</a> (2025-12-16 11:23:27)</span><span style="padding-right:50px;">トランプ氏“違法フェンタニルは大量破壊兵器に”大統領令署名 https://news.web.nhk/newsweb/na/na-k10015005151000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma33ksecwv2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 11:21:07)</span>
+<span style="padding-right:50px;">台湾国防部（国防省）は立法院（議会）への報告書で、台湾軍は中国の急襲を受けた場合、迅速に対応することが可能で、全部隊が上層部からの命令を待たずに分散型の指揮形態で活動できると述べた。 bit.ly/48GPuHG <a href="https://bsky.app/profile/japan.reuters.com/post/3ma354gw2ch2f" target="_blank">japan.reuters.com</a> (2025-12-16 11:48:55)</span><span style="padding-right:50px;">🔔気象庁より【震源速報】です。  11時45分頃、宮城県沖(深さ:100km) を震源とする M4.4 の地震を観測しました。 この地震による津波の心配はありません。 (2025-12-16 11:48:28) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3ma353oug2b2x" target="_blank">sokuho.news</a> (2025-12-16 11:48:30)</span><span style="padding-right:50px;">内閣府と気象庁が会見 後発地震注意情報 呼びかけ期間終了受け https://news.web.nhk/newsweb/na/na-k10015005051000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma352vuvkc24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 11:48:02)</span><span style="padding-right:50px;">🔔NHKより【地震速報】です。  ■震度3■ 宮城北部 宮城中部 (2025-12-16 11:45) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3ma352jallj2x" target="_blank">sokuho.news</a> (2025-12-16 11:47:51)</span><span style="padding-right:50px;">The Pentagon said today it is "escalating" a "preliminary review" into "serious allegations of misconduct" leveled against Sen. Mark Kelly, a retired naval officer, after he clashed with President Trump. <a href="https://bsky.app/profile/axios.com/post/3ma352gc6rk2e" target="_blank">axios.com</a> (2025-12-16 11:47:48)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49513.48 (🔻537.76 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3340.00 (🔻40.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.89 (🔻0.33 : 2025-12-16)</span>
+<span style="padding-right:50px;">NIKKEI: 49523.56 (🔻527.68 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3340.00 (🔻40.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.82 (🔻0.41 : 2025-12-16)</span>
   </div>
 </div>
 
@@ -32,102 +32,126 @@
 
 ## News Headlines
 
-Here are six news headlines in English:
+Here are six important stories with headlines in English:
 
-1. Japan's IBM Chief Executive Taro Shimada to Lead Economic Council
-2. Japanese Minister of Economy, Trade and Industry Hiroshi Kajiyama Supports Solar Power Development and Deployment
-3. Elon Musk's Net Worth Reaches $6,000 Billion, Fueled by SpaceX IPO
-4. NVIDIA Unveils New AI Foundation Model, Promising Improved Speed and Efficiency
-5. EU Imposes New Sanctions on Multiple Traders for Supporting Russian Oil Exports
-6. Ford to Book $30 Billion in Charges by 2027, Citing Electric Vehicle Exit and Battery Business Review
+1. Taiwan Military Prepared for Potential Chinese Invasion
+2. Strong Earthquake Hits Off Japan's Miyagi Prefecture
+3. Pentagon Launches Investigation into Senator Mark Kelly's Conduct
+4. India Seeks Trade Deal with Mexico to Mitigate Tariff Impact
+5. Paris' Louvre Museum Closes Due to Staff Strike
+6. US to Extend Trading Hours on Nasdaq Stock Exchange
 
 ----
 
-@nikkei.com
-
-【日経特報】
-経済同友会の代表幹事に日本IBM・山口明夫社長　新浪剛史氏の後任
-www.nikkei.com/article/DGXZQO...
-
-#ニュース
-
-[2025-12-16 11:29:00](https://bsky.app/profile/nikkei.com/post/3ma33ysx22322)
-
----
-
 @japan.reuters.com
 
-赤沢亮正経済産業相は１６日の閣議後会見で、太陽光発電については、屋根への設置やペロブスカイト太陽電池の開発・導入を支援する方向だと述べた。 bit.ly/48WOgqu
+台湾国防部（国防省）は立法院（議会）への報告書で、台湾軍は中国の急襲を受けた場合、迅速に対応することが可能で、全部隊が上層部からの命令を待たずに分散型の指揮形態で活動できると述べた。 bit.ly/48GPuHG
 
-[2025-12-16 11:26:55](https://bsky.app/profile/japan.reuters.com/post/3ma33v3oto32q)
-
----
-
-@japan.reuters.com
-
-米実業家イーロン・マスク氏の純資産が１５日、６０００億ドルに達したと米経済誌フォーブスが伝えた。同氏が率いる宇宙企業スペースＸが新規株式公開（ＩＰＯ）を準備中で、その一環として企業価値を８０００億ドルとする「二次株式売却」を開始したとの報道を受けた。個人の資産が６０００億ドルに達するのは史上初。 bit.ly/3L4D2Iy
-
-[2025-12-16 11:25:15](https://bsky.app/profile/japan.reuters.com/post/3ma33s4ho5p22)
+[2025-12-16 11:48:55](https://bsky.app/profile/japan.reuters.com/post/3ma354gw2ch2f)
 
 ---
 
-@wsj.com
+@sokuho.news
 
-AI glasses, pendants, bracelets. They may be bad now, but their promise is huge.
+🔔気象庁より【震源速報】です。
 
-@joannastern tested many smart wearables this year so you don’t waste your money.  Here’s where they have let her down—and where she’s hoping for big improvements soon. on.wsj.com/4pBxEvv
+11時45分頃、宮城県沖(深さ:100km) を震源とする M4.4 の地震を観測しました。
+この地震による津波の心配はありません。
+(2025-12-16 11:48:28) #地震
 
-[2025-12-16 11:23:27](https://bsky.app/profile/wsj.com/post/3ma33ovnvuz2c)
+[2025-12-16 11:48:30](https://bsky.app/profile/sokuho.news/post/3ma353oug2b2x)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-トランプ氏“違法フェンタニルは大量破壊兵器に”大統領令署名
-https://news.web.nhk/newsweb/na/na-k10015005151000
-
-[2025-12-16 11:21:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma33ksecwv2w)
-
----
-
-@nhknewsunofficial.bsky.social
-
-後発地震注意情報 呼びかけ期間終了受け 内閣府と気象庁が会見
+内閣府と気象庁が会見 後発地震注意情報 呼びかけ期間終了受け
 https://news.web.nhk/newsweb/na/na-k10015005051000
 
-[2025-12-16 11:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma33kn3ar42m)
+[2025-12-16 11:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma352vuvkc24)
 
 ---
 
-@japan.reuters.com
+@sokuho.news
 
-米半導体大手エヌビディアは１５日、人工知能（ＡＩ）の新しい基盤モデルを公開した。モデルの技術的な詳細を公開する「オープンソース」タイプで、同社の従来のモデルより処理速度が速く、低コストで賢いという。 bit.ly/3XX0WbT
+🔔NHKより【地震速報】です。
 
-[2025-12-16 11:20:28](https://bsky.app/profile/japan.reuters.com/post/3ma33jkoso32c)
+■震度3■
+宮城北部 宮城中部
+(2025-12-16 11:45) #地震
 
----
-
-@japan.reuters.com
-
-米ヘッジファンド大手ブリッジウォーター・アソシエイツのグレッグ・ジェンセン共同最高投資責任者（ＣＩＯ）は１５日の顧客向けのノートで、人工知能（ＡＩ）関連銘柄への投資ブームが「危険な」段階に入っていると警告した。ＩＴ大手のＡＩ関連コストが内部キャッシュフロー（ＣＦ）で賄える水準を超えつつある中で、外部からの資金調達に頼り始めていることが背景にある。 bit.ly/455M5j9
-
-[2025-12-16 11:20:26](https://bsky.app/profile/japan.reuters.com/post/3ma33jinhhw2c)
+[2025-12-16 11:47:51](https://bsky.app/profile/sokuho.news/post/3ma352jallj2x)
 
 ---
 
-@reuters.com
+@axios.com
 
-Judge fines law firm Hagens Berman over AI errors in OnlyFans case reut.rs/4pfJj2p
+The Pentagon said today it is "escalating" a "preliminary review" into "serious allegations of misconduct" leveled against Sen. Mark Kelly, a retired naval officer, after he clashed with President Trump.
 
-[2025-12-16 11:20:17](https://bsky.app/profile/reuters.com/post/3ma33ja3zoc24)
+[2025-12-16 11:47:48](https://bsky.app/profile/axios.com/post/3ma352gc6rk2e)
 
 ---
 
-@cbsnews.com
+@sokuho.news
 
-Erika Kirk and Candace Owens meet after Charlie Kirk's widow asked the podcaster to stop peddling conspiracy theories.
+🔔気象庁より【震度速報】です。
 
-[2025-12-16 11:20:01](https://bsky.app/profile/cbsnews.com/post/3ma33iqzuwq2i)
+11時45分頃、宮城県で最大震度3の地震を観測しました。
+今後の情報に注意してください。
+(2025-12-16 11:47:34) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/16/2025-12-16-11-45-50.html?xlarge_image=1
+
+[2025-12-16 11:47:36](https://bsky.app/profile/sokuho.news/post/3ma3523f2ns26)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【独自】です。
+
+【独自】大阪・道頓堀のビル火災 燃え広がった屋外看板 法律で定められた防火性能持つ材料使われず
+(2025-12-16 11:30) #ニュース
+
+[2025-12-16 11:47:33](https://bsky.app/profile/sokuho.news/post/3ma34zypygg2v)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗❗
+
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像6🈡
+(2025-12-16 11:46:41) #緊急地震速報
+
+[2025-12-16 11:46:55](https://bsky.app/profile/sokuho.news/post/3ma34ytzz242y)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗❗
+
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像4
+(2025-12-16 11:46:21) #緊急地震速報
+
+[2025-12-16 11:46:43](https://bsky.app/profile/sokuho.news/post/3ma34yj5ibj26)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗❗
+
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像3
+(2025-12-16 11:46:04) #緊急地震速報
+
+[2025-12-16 11:46:21](https://bsky.app/profile/sokuho.news/post/3ma34xu5hgm2a)
 
 ---
 
