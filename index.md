@@ -1,9 +1,9 @@
-# [2025-12-16 20:30 updated](2025_12_16.md)
+# [2025-12-16 20:50 updated](2025_12_16.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️ANNより【速報】です。  【速報】小学5年の男子児童が死亡 板橋区の横断歩道でトラックに巻き込まれる (2025-12-16 19:28:15) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma423c5sc225" target="_blank">sokuho.news</a> (2025-12-16 20:27:15)</span><span style="padding-right:50px;">東京株式市場で日経平均は続落し、前営業日比７８４円８２銭安の４万９３８３円２９銭で取引を終えた。米国の１１月雇用統計、１０月小売売上高の発表を今晩に控え、持ち高調整の売りが出た。特にＡＩ（人工知能）関連と目される銘柄が安く、相場の重しとなった。日経平均は節目の５万円を割りこみ、一時８００円以上値下がりする場面もあった。 bit.ly/48VIPs2 <a href="https://bsky.app/profile/japan.reuters.com/post/3ma3zxr7b2w26" target="_blank">japan.reuters.com</a> (2025-12-16 20:25:17)</span><span style="padding-right:50px;">App developers urge EU action on Apple fee practices reut.rs/4aoYiDn <a href="https://bsky.app/profile/reuters.com/post/3ma3zxooeuz2y" target="_blank">reuters.com</a> (2025-12-16 20:25:14)</span><span style="padding-right:50px;">Listen to “The Headlines,” which brings you the biggest stories of the day from the New York Times reporters who are covering them, all in about 10 minutes. <a href="https://bsky.app/profile/nytimes.com/post/3ma3zxgflrn2b" target="_blank">nytimes.com</a> (2025-12-16 20:25:05)</span><span style="padding-right:50px;">The signs of Republican pushback come as President Trump has pursued a campaign of mass deportations and crackdown on migration from certain countries. n.pr/3KJTE8t <a href="https://bsky.app/profile/npr.org/post/3ma3zvvc6bg2i" target="_blank">npr.org</a> (2025-12-16 20:24:14)</span>
+<span style="padding-right:50px;">Charles Schwab's CEO Rick Wurster sat down with WSJ to discuss prediction markets, young investors and how he views the Trump accounts. <a href="https://bsky.app/profile/wsj.com/post/3ma43ch57us2s" target="_blank">wsj.com</a> (2025-12-16 20:49:09)</span><span style="padding-right:50px;">“iPS細胞から作った心筋球で心機能改善” 慶応大発ベンチャー https://news.web.nhk/newsweb/na/na-k10015005871000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma43ajykld2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 20:48:02)</span><span style="padding-right:50px;">政府は、来週にも閣議決定する２０２６年度一般会計予算案で、歳出総額を１２０兆円超とする方向で調整に入った。複数の政府筋が明らかにした。予算規模は２５年度（１１５兆１９７８億円）を超え、過去最大となる。 bit.ly/3KyQoNd <a href="https://bsky.app/profile/japan.reuters.com/post/3ma433ii7if2c" target="_blank">japan.reuters.com</a> (2025-12-16 20:45:16)</span><span style="padding-right:50px;">Japan's last two giant pandas are headed to China and fans just can't bear it reut.rs/48WZbR5 <a href="https://bsky.app/profile/reuters.com/post/3ma433gorkc2i" target="_blank">reuters.com</a> (2025-12-16 20:45:14)</span><span style="padding-right:50px;">11月のコメ「相対取引価格」 前月より下落も依然高い水準続く https://news.web.nhk/newsweb/na/na-k10015005901000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma4336splh2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 20:45:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.87 (🔻0.35 : 2025-12-16)</span>
+<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.82 (🔻0.41 : 2025-12-16)</span>
   </div>
 </div>
 
@@ -32,97 +32,96 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are six headlines in English:
 
-1. Japanese Boy, 5, Dies After Being Hit by Truck in Tokyo
-2. Stock Market Plunges as Investors Sell Off Tech Stocks Ahead of US Jobs Data
-3. Australia's Prime Minister Says Hanukkah Attack Motivated by Islamic State Ideology
-4. Japanese Bank MUFG Announces Leadership Changes Amidst Global Economic Uncertainty
-5. International Rescue Committee Lists Sudan as Top Country at Risk of Humanitarian Crisis
-6. Brown University Grieves After Two Students Killed in Shooting, Authorities Seek Public Help
+1. Japan's last two giant pandas headed to China
+2. US President Trump sues BBC for $10 billion over documentary
+3. EU to allow sale of non-electric cars beyond 2035
+4. India private sector growth hits 10-month low in December
+5. Australia's worst mass shooting in nearly 30 years leaves 16 dead
+6. Powerball jackpot grows to $1.25 billion for Wednesday's drawing
 
 ----
 
-@sokuho.news
+@wsj.com
 
-🛎️ANNより【速報】です。
+Charles Schwab's CEO Rick Wurster sat down with WSJ to discuss prediction markets, young investors and how he views the Trump accounts.
 
-【速報】小学5年の男子児童が死亡 板橋区の横断歩道でトラックに巻き込まれる
-(2025-12-16 19:28:15) #ニュース
+[2025-12-16 20:49:09](https://bsky.app/profile/wsj.com/post/3ma43ch57us2s)
 
-[2025-12-16 20:27:15](https://bsky.app/profile/sokuho.news/post/3ma423c5sc225)
+---
+
+@nhknewsunofficial.bsky.social
+
+“iPS細胞から作った心筋球で心機能改善” 慶応大発ベンチャー
+https://news.web.nhk/newsweb/na/na-k10015005871000
+
+[2025-12-16 20:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma43ajykld2m)
 
 ---
 
 @japan.reuters.com
 
-東京株式市場で日経平均は続落し、前営業日比７８４円８２銭安の４万９３８３円２９銭で取引を終えた。米国の１１月雇用統計、１０月小売売上高の発表を今晩に控え、持ち高調整の売りが出た。特にＡＩ（人工知能）関連と目される銘柄が安く、相場の重しとなった。日経平均は節目の５万円を割りこみ、一時８００円以上値下がりする場面もあった。 bit.ly/48VIPs2
+政府は、来週にも閣議決定する２０２６年度一般会計予算案で、歳出総額を１２０兆円超とする方向で調整に入った。複数の政府筋が明らかにした。予算規模は２５年度（１１５兆１９７８億円）を超え、過去最大となる。 bit.ly/3KyQoNd
 
-[2025-12-16 20:25:17](https://bsky.app/profile/japan.reuters.com/post/3ma3zxr7b2w26)
-
----
-
-@reuters.com
-
-App developers urge EU action on Apple fee practices reut.rs/4aoYiDn
-
-[2025-12-16 20:25:14](https://bsky.app/profile/reuters.com/post/3ma3zxooeuz2y)
-
----
-
-@nytimes.com
-
-Listen to “The Headlines,” which brings you the biggest stories of the day from the New York Times reporters who are covering them, all in about 10 minutes.
-
-[2025-12-16 20:25:05](https://bsky.app/profile/nytimes.com/post/3ma3zxgflrn2b)
-
----
-
-@npr.org
-
-The signs of Republican pushback come as President Trump has pursued a campaign of mass deportations and crackdown on migration from certain countries. n.pr/3KJTE8t
-
-[2025-12-16 20:24:14](https://bsky.app/profile/npr.org/post/3ma3zvvc6bg2i)
+[2025-12-16 20:45:16](https://bsky.app/profile/japan.reuters.com/post/3ma433ii7if2c)
 
 ---
 
 @reuters.com
 
-Australian police said both men had travelled to the Philippines last month and the purpose of the trip is under investigation. Philippine immigration officials confirmed the two men travelled on November 1 from Sydney to Manila and onward to Davao reut.rs/48VGeyi
+Japan's last two giant pandas are headed to China and fans just can't bear it reut.rs/48WZbR5
 
-[2025-12-16 20:21:04](https://bsky.app/profile/reuters.com/post/3ma3zragns22h)
+[2025-12-16 20:45:14](https://bsky.app/profile/reuters.com/post/3ma433gorkc2i)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+11月のコメ「相対取引価格」 前月より下落も依然高い水準続く
+https://news.web.nhk/newsweb/na/na-k10015005901000
+
+[2025-12-16 20:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma4336splh2v)
+
+---
+
+@en.afp.com
+
+The BBC said on Tuesday it would fight a $10-billion lawsuit brought by US President Donald Trump against the British broadcaster over a documentary that edited his 2021 speech ahead of the US Capitol riot ➡️ u.afp.com/S7Hj
+
+[2025-12-16 20:42:57](https://bsky.app/profile/en.afp.com/post/3ma42xekuoi2f)
+
+---
+
+@financialtimes.com
+
+China’s escalation dominance over Trump ft.trib.al/lbbs2l2
+
+[2025-12-16 20:42:21](https://bsky.app/profile/financialtimes.com/post/3ma42wbysdw2w)
 
 ---
 
 @reuters.com
 
-The death toll stands at 16, including one of the alleged gunmen, identified by police as Sajid Akram, 50, who was shot by police. His 24-year-old son and alleged accomplice, identified by local media as Naveed Akram, was in critical condition in hospital after also being shot
+Man and couple who died trying to stop Bondi Beach attackers praised for heroic efforts reut.rs/3YtA4jR
 
-[2025-12-16 20:21:04](https://bsky.app/profile/reuters.com/post/3ma3zquh4e22h)
-
----
-
-@reuters.com
-
-The attack was Australia's worst mass shooting in nearly 30 years, and is being investigated as an act of terrorism targeting the Jewish community reut.rs/4p0jseu
-
-[2025-12-16 20:21:04](https://bsky.app/profile/reuters.com/post/3ma3zqrmhxk2h)
-
----
-
-@reuters.com
-
-Two alleged gunmen who attacked a Hanukkah event at Bondi Beach had travelled to the Philippines before the assault, which killed 15 people, and appeared to be inspired by Islamic State, police said reut.rs/4rYkaM5
-
-[2025-12-16 20:21:04](https://bsky.app/profile/reuters.com/post/3ma3zqabrxk2h)
+[2025-12-16 20:40:23](https://bsky.app/profile/reuters.com/post/3ma42srbk342c)
 
 ---
 
 @japan.reuters.com
 
-米メタ・プラットフォームズは昨年、中国の広告主に関する不愉快な結論を認めざるを得なくなった。これらの広告主は全世界で、メタが運営するフェイスブック、インスタグラム、ワッツアップの利用者をだましていたのだ。 bit.ly/4qfNbBm
+中国外務省は１６日、高市早苗首相の台湾に関する発言を撤回するよう改めて要求した。 bit.ly/4j03q2L
 
-[2025-12-16 20:20:20](https://bsky.app/profile/japan.reuters.com/post/3ma3zowgdfq22)
+[2025-12-16 20:40:21](https://bsky.app/profile/japan.reuters.com/post/3ma42spranv2c)
+
+---
+
+@nbcnews.com
+
+Providence officials released new photos and videos of a person of interest in the campus shooting. A man detained over the weekend was released because the evidence no longer supported holding him, officials says. 
+
+[2025-12-16 20:40:13](https://bsky.app/profile/nbcnews.com/post/3ma42sht4kk22)
 
 ---
 
