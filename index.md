@@ -1,9 +1,9 @@
-# [2025-12-17 08:30 updated](2025_12_17.md)
+# [2025-12-17 08:50 updated](2025_12_17.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】山陽道（下り）和気ICで自損事故「ガードレールにぶつかった」と通報 路肩規制と速度規制（17日午前8時14分現在） (2025-12-17 08:14:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma5carzc2l2b" target="_blank">sokuho.news</a> (2025-12-17 08:26:09)</span><span style="padding-right:50px;">Judge says he is unlikely to immediately halt Trump's $300 million White House ballroom project reut.rs/4ak0pIz <a href="https://bsky.app/profile/reuters.com/post/3ma5c74jkc42p" target="_blank">reuters.com</a> (2025-12-17 08:25:13)</span><span style="padding-right:50px;">Measles outbreaks worsen in South Carolina, Arizona and Utah. <a href="https://bsky.app/profile/cbsnews.com/post/3ma5bvslfpz2y" target="_blank">cbsnews.com</a> (2025-12-17 08:20:01)</span><span style="padding-right:50px;">Hiring cooled this fall, according to delayed figures released by the Labor Department Tuesday. Employers added 64,000 jobs in November as the unemployment rate rose to 4.6%. n.pr/4oXMGL1 <a href="https://bsky.app/profile/npr.org/post/3ma5bp35tsv2m" target="_blank">npr.org</a> (2025-12-17 08:16:15)</span><span style="padding-right:50px;">Organisers of the Milan-Cortina Winter Olympics say they had 'a technical problem' with the production of artificial snow which will play a key role in the Games in Italy next February  u.afp.com/S79T <a href="https://bsky.app/profile/en.afp.com/post/3ma5boblxkj2q" target="_blank">en.afp.com</a> (2025-12-17 08:15:48)</span>
+<span style="padding-right:50px;">米通商代表部（ＵＳＴＲ）は１６日、欧州連合（ＥＵ）が米国のサービス企業に対する「差別的」行為を続けた場合、ＥＵサービス企業に手数料課金や外国サービスの制限など幅広い対抗措置を取ると警告した。 bit.ly/4aQ9vNd <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5diqp4a62q" target="_blank">japan.reuters.com</a> (2025-12-17 08:48:30)</span><span style="padding-right:50px;">Israeli settler kills 16-year-old Palestinian in West Bank, mayor says reut.rs/4rWt1Op <a href="https://bsky.app/profile/reuters.com/post/3ma5dcwechr2c" target="_blank">reuters.com</a> (2025-12-17 08:45:15)</span><span style="padding-right:50px;">＜０８：２７＞　寄り前の板状況、メディカル・データ・ビジョンが買い優勢　ジェイテクトは売り優勢 bit.ly/3YwkF2l <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5dcdhk2k2q" target="_blank">japan.reuters.com</a> (2025-12-17 08:44:55)</span><span style="padding-right:50px;">Though ambitious and engaging, the New York institution’s reorganized collections galleries struggle to offer a coherent vision of Jewish history and identity. on.wsj.com/4qbxqLB <a href="https://bsky.app/profile/wsj.com/post/3ma5d7u43w52r" target="_blank">wsj.com</a> (2025-12-17 08:43:31)</span><span style="padding-right:50px;">Andersen valued at $1.75bn in IPO for consulting spin-off of Enron auditor ft.trib.al/7Ek9wTD <a href="https://bsky.app/profile/financialtimes.com/post/3ma5d3wnpzk2c" target="_blank">financialtimes.com</a> (2025-12-17 08:41:20)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.76 (🔺0.01 : 2025-12-16)</span>
+<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.75 (🔺0.00 : 2025-12-16)</span>
   </div>
 </div>
 
@@ -32,105 +32,95 @@
 
 ## News Headlines
 
-Here are six important stories with headlines:
+Here are six news headlines in English:
 
-1. Measles Outbreaks Worsen in US States
-2. EU Reverses Plan to Ban Engine Cars by 2035
-3. Judge Denies Request to Block White House Ballroom Construction
-4. US Adds Five Arab and African Countries to Travel Ban List
-5. Tesla Ramps Up Battery Cell Investments at German Gigafactory
-6. President Trump to Give National Address on Wednesday
+1. EU Warns of Countermeasures Against US Over Alleged Discrimination
+2. Israeli Settler Kills 16-Year-Old Palestinian in West Bank
+3. Medical Data Vision Leads in Panel Sales, JTEKT in Sales
+4. Trump Expands US Entry Ban to Include Palestinians and Syrians
+5. Harvard Medical Affiliate to Pay $15 Million Over Misrepresented Research
+6. US EPA Expects to Finalize Biofuel Rules in First Quarter of 2026
 
 ----
 
-@sokuho.news
+@japan.reuters.com
 
-🛎️JNNより【速報】です。
+米通商代表部（ＵＳＴＲ）は１６日、欧州連合（ＥＵ）が米国のサービス企業に対する「差別的」行為を続けた場合、ＥＵサービス企業に手数料課金や外国サービスの制限など幅広い対抗措置を取ると警告した。 bit.ly/4aQ9vNd
 
-【速報】山陽道（下り）和気ICで自損事故「ガードレールにぶつかった」と通報 路肩規制と速度規制（17日午前8時14分現在）
-(2025-12-17 08:14:00) #ニュース
-
-[2025-12-17 08:26:09](https://bsky.app/profile/sokuho.news/post/3ma5carzc2l2b)
+[2025-12-17 08:48:30](https://bsky.app/profile/japan.reuters.com/post/3ma5diqp4a62q)
 
 ---
 
 @reuters.com
 
-Judge says he is unlikely to immediately halt Trump's $300 million White House ballroom project reut.rs/4ak0pIz
+Israeli settler kills 16-year-old Palestinian in West Bank, mayor says reut.rs/4rWt1Op
 
-[2025-12-17 08:25:13](https://bsky.app/profile/reuters.com/post/3ma5c74jkc42p)
-
----
-
-@cbsnews.com
-
-Measles outbreaks worsen in South Carolina, Arizona and Utah.
-
-[2025-12-17 08:20:01](https://bsky.app/profile/cbsnews.com/post/3ma5bvslfpz2y)
-
----
-
-@npr.org
-
-Hiring cooled this fall, according to delayed figures released by the Labor Department Tuesday. Employers added 64,000 jobs in November as the unemployment rate rose to 4.6%. n.pr/4oXMGL1
-
-[2025-12-17 08:16:15](https://bsky.app/profile/npr.org/post/3ma5bp35tsv2m)
-
----
-
-@en.afp.com
-
-Organisers of the Milan-Cortina Winter Olympics say they had 'a technical problem' with the production of artificial snow which will play a key role in the Games in Italy next February
-
-u.afp.com/S79T
-
-[2025-12-17 08:15:48](https://bsky.app/profile/en.afp.com/post/3ma5boblxkj2q)
-
----
-
-@reuters.com
-
-Measles cases in South Carolina rise by nine to 135, state health department says reut.rs/3YtiSLs
-
-[2025-12-17 08:15:15](https://bsky.app/profile/reuters.com/post/3ma5bnbyc5a2o)
-
----
-
-@nikkei.com
-
-【中国客減少の影響、最大は静岡県】
-外国人宿泊客に占める比率が45%でトップ
-www.nikkei.com/article/DGXZQO...
-
-富士山があり東京と京都・大阪をつなぐ「ゴールデンルート」上に位置。
-
-2位は和歌山県、3位兵庫県、5位大阪府など、関西も中国客比率の高さが目立ちます。
-
-[2025-12-17 08:15:15](https://bsky.app/profile/nikkei.com/post/3ma5bnc25pp2m)
-
----
-
-@cnbc.com
-
-Stock futures are little changed as traders absorb shaky U.S. economic data: Live updates
-
-[2025-12-17 08:13:04](https://bsky.app/profile/cnbc.com/post/3ma5bjf4grl2b)
+[2025-12-17 08:45:15](https://bsky.app/profile/reuters.com/post/3ma5dcwechr2c)
 
 ---
 
 @japan.reuters.com
 
-欧州連合（ＥＵ）欧州委員会は１６日、域内でエンジン車の新車販売を２０３５年以降禁止する目標を事実上撤回することを正式に提案した。加盟国のドイツ、イタリアや、主要自動車メーカーの圧力に屈した形だ。 bit.ly/48X8hxk
+＜０８：２７＞　寄り前の板状況、メディカル・データ・ビジョンが買い優勢　ジェイテクトは売り優勢 bit.ly/3YwkF2l
 
-[2025-12-17 08:13:03](https://bsky.app/profile/japan.reuters.com/post/3ma5bjegw3k2v)
+[2025-12-17 08:44:55](https://bsky.app/profile/japan.reuters.com/post/3ma5dcdhk2k2q)
+
+---
+
+@wsj.com
+
+Though ambitious and engaging, the New York institution’s reorganized collections galleries struggle to offer a coherent vision of Jewish history and identity. on.wsj.com/4qbxqLB
+
+[2025-12-17 08:43:31](https://bsky.app/profile/wsj.com/post/3ma5d7u43w52r)
+
+---
+
+@financialtimes.com
+
+Andersen valued at $1.75bn in IPO for consulting spin-off of Enron auditor ft.trib.al/7Ek9wTD
+
+[2025-12-17 08:41:20](https://bsky.app/profile/financialtimes.com/post/3ma5d3wnpzk2c)
+
+---
+
+@en.afp.com
+
+Bondi Beach hero Ahmed al Ahmed, who risked his life by wresting a gun from an attacker in Australia's deadly mass shooting, is now a source of pride for his hometown in Syria. 'He had no motivation for doing this other than heroism and bravery,' says his uncle 
+🎥  🇸🇾 🇦🇺
+
+[2025-12-17 08:41:20](https://bsky.app/profile/en.afp.com/post/3ma5d3wbwt32v)
+
+---
+
+@japan.reuters.com
+
+欧州評議会は１６日、オランダのハーグで会合を開き、ロシアの攻撃と戦争犯罪によるウクライナ側の損害の賠償に向けた「国際請求委員会」の創設に向けた条約案に３４カ国が署名した。十分な資金を確保した上で、少なくとも２５カ国が批准すれば発効する。 bit.ly/4oUd9Jl
+
+[2025-12-17 08:40:31](https://bsky.app/profile/japan.reuters.com/post/3ma5d2hhr452q)
 
 ---
 
 @reuters.com
 
-16 US states sue federal government after Trump suspends EV charging programs reut.rs/457EMYf
+China ups demand to controlling stake in Panama ports deal, WSJ reports reut.rs/4pIOysk
 
-[2025-12-17 08:10:19](https://bsky.app/profile/reuters.com/post/3ma5bei7k3m24)
+[2025-12-17 08:40:21](https://bsky.app/profile/reuters.com/post/3ma5d26lodg23)
+
+---
+
+@nbcnews.com
+
+New York City prosecutors accuse Trey Songz of allegedly being involved in two different altercations at Manhattan night spots this month, court documents reveal.
+
+[2025-12-17 08:40:13](https://bsky.app/profile/nbcnews.com/post/3ma5czx2mdc24)
+
+---
+
+@nytimes.com
+
+From @theathletic.com: Cooper Flagg broke a record LeBron James set more than two decades ago in the Dallas Mavericks’ 140-133 overtime loss to the Utah Jazz on Monday.
+
+[2025-12-17 08:40:04](https://bsky.app/profile/nytimes.com/post/3ma5cznowez2y)
 
 ---
 
