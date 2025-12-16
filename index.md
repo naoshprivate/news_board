@@ -1,9 +1,9 @@
-# [2025-12-16 09:30 updated](2025_12_16.md)
+# [2025-12-16 09:50 updated](2025_12_16.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Trump sues BBC for $5 billion, claims defamation from Panorama documentary <a href="https://bsky.app/profile/cnbc.com/post/3ma2vcnpz6t2g" target="_blank">cnbc.com</a> (2025-12-16 09:29:14)</span><span style="padding-right:50px;">It’s the Champagne everyone knows, a “safe” gift for the host of a holiday party. But are you paying for the marketing or the quality of the wine itself?  Wine columnist Lettie Teague offers a few outstanding-value alternatives 🥂: on.wsj.com/3Ky2aHF <a href="https://bsky.app/profile/wsj.com/post/3ma2vc2qte42q" target="_blank">wsj.com</a> (2025-12-16 09:28:54)</span><span style="padding-right:50px;">フランス元老院（上院）は１５日、来年予算について政府案よりも財政赤字が大きい修正案を可決した。ただ国民議会（下院）ではこの修正案が支持されておらず、今後は両院の合同特別委員会で妥協点を探ることになる。 bit.ly/3KzdT8V <a href="https://bsky.app/profile/japan.reuters.com/post/3ma2v64ld6v2v" target="_blank">japan.reuters.com</a> (2025-12-16 09:26:42)</span><span style="padding-right:50px;">Atlanta Fed says it will seek new head with 'meaningful ties' to the southeastern district reut.rs/4s3SYvy <a href="https://bsky.app/profile/reuters.com/post/3ma2v3elces2x" target="_blank">reuters.com</a> (2025-12-16 09:25:09)</span><span style="padding-right:50px;">高市首相動静 2025年12月15日 https://news.web.nhk/newsweb/na/na-k10015005031000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma2uzgokwo2l" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 09:24:02)</span>
+<span style="padding-right:50px;">An obscure company pivoted, then pivoted again, nearly ran out of money—and built a hit product on.wsj.com/4aPfLET <a href="https://bsky.app/profile/wsj.com/post/3ma2wdl6u6y2i" target="_blank">wsj.com</a> (2025-12-16 09:47:38)</span><span style="padding-right:50px;">Trump brands fentanyl a ‘weapon of mass destruction’ in drug war escalation reut.rs/4qhfAHf <a href="https://bsky.app/profile/reuters.com/post/3ma2w7gd5yb2c" target="_blank">reuters.com</a> (2025-12-16 09:45:19)</span><span style="padding-right:50px;">欧州各国の首脳は１５日、ウクライナのロシアに対する領土譲歩の可能性に関するいかなる決定も、欧州主導の多国籍軍を含む強力な安全保障体制が確立された場合にのみ行うことができるという点で合意したと発表した。 bit.ly/3KTcCcO <a href="https://bsky.app/profile/japan.reuters.com/post/3ma2w7cyftu2s" target="_blank">japan.reuters.com</a> (2025-12-16 09:45:16)</span><span style="padding-right:50px;">Around the time of the shooting at Bondi Beach, Ahmed al-Ahmed planned to meet a friend for coffee and was shocked to see men firing their weapons at civilians — then he sprang into action. https://wapo.st/3Yrj3H8 <a href="https://bsky.app/profile/washingtonpost.com/post/3ma2w6x6w4f2n" target="_blank">washingtonpost.com</a> (2025-12-16 09:45:03)</span><span style="padding-right:50px;">香港「リンゴ日報」創業者が有罪 トランプ氏“非常に残念” https://news.web.nhk/newsweb/na/na-k10015005041000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma2w6zgnhm2d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 09:45:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49536.92 (🔻514.32 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3358.00 (🔻22.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.93 (🔻0.30 : 2025-12-16)</span>
+<span style="padding-right:50px;">NIKKEI: 49782.67 (🔻268.57 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3357.00 (🔻23.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 155.01 (🔻0.21 : 2025-12-16)</span>
   </div>
 </div>
 
@@ -32,55 +32,71 @@
 
 ## News Headlines
 
-1. Trump Sues BBC for $5 Billion Over Defamation Claim
-2. Trump Escalates Attacks on Colorado Governor Over Imprisoned Official
-3. Nissan Starts Production of New Leaf EV at Sunderland Plant
-4. US, Mexico Sign New Agreement on Tijuana River Sewage Crisis
-5. US Suspends Technology Deal with the UK
-6. Ford Takes $19.5 Billion Charge in Hybrid Pivot, Cancels F-150 Lightning EV
+Here are six important stories with headlines in English:
+
+1. Trump Brands Fentanyl a Weapon of Mass Destruction in Escalation of Drug War
+2. European Leaders Agree to Consider Ukraine's Territorial Concessions Only After Strengthening Security Framework
+3. Airbus Delays Aircraft Deliveries Amid Concerns Over Recent Technical Issues
+4. President Trump Sues BBC for $5 Billion Over Documentary Alleging Defamation
+5. New Zealand House Prices Rise in November Amid Stable Demand
+6. Bitcoin Drops Toward $86,000 as Lack of Conviction Keeps Prices Low
 
 ----
 
-@cnbc.com
-
-Trump sues BBC for $5 billion, claims defamation from Panorama documentary
-
-[2025-12-16 09:29:14](https://bsky.app/profile/cnbc.com/post/3ma2vcnpz6t2g)
-
----
-
 @wsj.com
 
-It’s the Champagne everyone knows, a “safe” gift for the host of a holiday party. But are you paying for the marketing or the quality of the wine itself?
+An obscure company pivoted, then pivoted again, nearly ran out of money—and built a hit product on.wsj.com/4aPfLET
 
-Wine columnist Lettie Teague offers a few outstanding-value alternatives 🥂: on.wsj.com/3Ky2aHF
-
-[2025-12-16 09:28:54](https://bsky.app/profile/wsj.com/post/3ma2vc2qte42q)
-
----
-
-@japan.reuters.com
-
-フランス元老院（上院）は１５日、来年予算について政府案よりも財政赤字が大きい修正案を可決した。ただ国民議会（下院）ではこの修正案が支持されておらず、今後は両院の合同特別委員会で妥協点を探ることになる。 bit.ly/3KzdT8V
-
-[2025-12-16 09:26:42](https://bsky.app/profile/japan.reuters.com/post/3ma2v64ld6v2v)
+[2025-12-16 09:47:38](https://bsky.app/profile/wsj.com/post/3ma2wdl6u6y2i)
 
 ---
 
 @reuters.com
 
-Atlanta Fed says it will seek new head with 'meaningful ties' to the southeastern district reut.rs/4s3SYvy
+Trump brands fentanyl a ‘weapon of mass destruction’ in drug war escalation reut.rs/4qhfAHf
 
-[2025-12-16 09:25:09](https://bsky.app/profile/reuters.com/post/3ma2v3elces2x)
+[2025-12-16 09:45:19](https://bsky.app/profile/reuters.com/post/3ma2w7gd5yb2c)
+
+---
+
+@japan.reuters.com
+
+欧州各国の首脳は１５日、ウクライナのロシアに対する領土譲歩の可能性に関するいかなる決定も、欧州主導の多国籍軍を含む強力な安全保障体制が確立された場合にのみ行うことができるという点で合意したと発表した。 bit.ly/3KTcCcO
+
+[2025-12-16 09:45:16](https://bsky.app/profile/japan.reuters.com/post/3ma2w7cyftu2s)
+
+---
+
+@washingtonpost.com
+
+Around the time of the shooting at Bondi Beach, Ahmed al-Ahmed planned to meet a friend for coffee and was shocked to see men firing their weapons at civilians — then he sprang into action. https://wapo.st/3Yrj3H8
+
+[2025-12-16 09:45:03](https://bsky.app/profile/washingtonpost.com/post/3ma2w6x6w4f2n)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-高市首相動静 2025年12月15日
-https://news.web.nhk/newsweb/na/na-k10015005031000
+香港「リンゴ日報」創業者が有罪 トランプ氏“非常に残念”
+https://news.web.nhk/newsweb/na/na-k10015005041000
 
-[2025-12-16 09:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma2uzgokwo2l)
+[2025-12-16 09:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma2w6zgnhm2d)
+
+---
+
+@japan.reuters.com
+
+欧州航空機大手エアバスは１２月前半に航空機約３０機を納入したが、同月の平均を下回るペースでの納入となった。一部の航空会社が最近の機体問題の修正内容の詳細を待っていることが背景にある。業界関係者とアナリストが１５日に明らかにした。 bit.ly/4oSbbsX
+
+[2025-12-16 09:45:02](https://bsky.app/profile/japan.reuters.com/post/3ma2w6w4k4e2q)
+
+---
+
+@axios.com
+
+<strong><span style="color: red;">JUST IN:</span> President Trump sued the BBC, seeking at least $5 billion in damages for alleging defamation over how a documentary aired shortly before the 2024 election edited a speech he delivered on Jan. 6, 2021.</strong>
+
+[2025-12-16 09:43:20](https://bsky.app/profile/axios.com/post/3ma2w3uwpc22z)
 
 ---
 
@@ -88,45 +104,26 @@ https://news.web.nhk/newsweb/na/na-k10015005031000
 
 🛎️NNNより【速報】です。
 
-【速報】赤坂サウナ火事2人死亡 サウナ室のドアノブ外れ閉じ込められた可能性
-(2025-12-16 09:22) #ニュース
+【速報】近畿で今季初「鳥インフルエンザ」陽性確認 24万羽の殺処分始める 兵庫・姫路市の養鶏場
+(2025-12-16 09:43) #ニュース
 
-[2025-12-16 09:22:41](https://bsky.app/profile/sokuho.news/post/3ma2uwxhpr42a)
+[2025-12-16 09:43:11](https://bsky.app/profile/sokuho.news/post/3ma2w3luxyz2b)
+
+---
+
+@reuters.com
+
+New Zealand house prices rise in November as demand stable reut.rs/44QgIJF
+
+[2025-12-16 09:40:20](https://bsky.app/profile/reuters.com/post/3ma2vwjm2c22k)
 
 ---
 
 @japan.reuters.com
 
-米実業家イーロン・マスク氏の純資産が１５日、６０００億ドルに達したと米経済誌フォーブスが伝えた。同氏が率いる宇宙企業スペースＸが新規株式公開（ＩＰＯ）を準備中で、その一環として企業価値を８０００億ドルとする「二次株式売却」を開始したとの報道を受けた。個人の資産が６０００億ドルに達するのは史上初。 bit.ly/4qvzG0z
+＜０９：１５＞　ドル154円台へ下落、11月下旬時点では投機筋は円買い越し bit.ly/4oSaq35
 
-[2025-12-16 09:22:17](https://bsky.app/profile/japan.reuters.com/post/3ma2uwa6tfp2c)
-
----
-
-@japan.reuters.com
-
-＊この記事は見出しのみの速報です。 bit.ly/4pKyVAA
-
-[2025-12-16 09:21:04](https://bsky.app/profile/japan.reuters.com/post/3ma2uu2hnw72p)
-
----
-
-@nytimes.com
-
-After his son was repeatedly attacked, Rick Kuehner reached out to his suburban school, to the police and to other parents. The violence only got worse.
-
-[2025-12-16 09:20:02](https://bsky.app/profile/nytimes.com/post/3ma2us7lyz426)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】大型観光バスと軽トラックの事故【香川・まんのう町】
-(2025-12-16 09:08:00) #ニュース
-
-[2025-12-16 09:18:29](https://bsky.app/profile/sokuho.news/post/3ma2upgyure2r)
+[2025-12-16 09:38:16](https://bsky.app/profile/japan.reuters.com/post/3ma2vssmsoc25)
 
 ---
 
