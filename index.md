@@ -1,9 +1,9 @@
-# [2025-12-16 21:30 updated](2025_12_16.md)
+# [2025-12-16 21:50 updated](2025_12_16.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">President Trump has been on a renovation spree since moving back into the White House, but his penchant for remodeling is leading to an escalating legal feud with his neighbors. <a href="https://bsky.app/profile/wsj.com/post/3ma45i2envs2h" target="_blank">wsj.com</a> (2025-12-16 21:28:04)</span><span style="padding-right:50px;">Shut Down And Restart—New Microsoft Attack Beats Passwords, 2FA And Passkeys <a href="https://bsky.app/profile/forbes.com/post/3ma45i22dck2z" target="_blank">forbes.com</a> (2025-12-16 21:28:04)</span><span style="padding-right:50px;">Warner Bros. has a history of disastrous mergers and acquisitions. Can they avoid another bad sequel as Netflix and Paramount battle to buy it? n.pr/4oVhjkc <a href="https://bsky.app/profile/npr.org/post/3ma45hwwkys2y" target="_blank">npr.org</a> (2025-12-16 21:28:01)</span><span style="padding-right:50px;">ロイターが入手した欧州委員会の草案によると、欧州連合（ＥＵ）は、世界初となる炭素国境調整措置（ＣＢＡＭ）の対象を拡大し、自動車部品、冷蔵庫、洗濯機などの輸入品にも適用する計画だ。 bit.ly/3N37RxR <a href="https://bsky.app/profile/japan.reuters.com/post/3ma45czc62q2u" target="_blank">japan.reuters.com</a> (2025-12-16 21:25:16)</span><span style="padding-right:50px;">China reiterates demand that Japanese PM retract Taiwan remarks reut.rs/48PC0JP <a href="https://bsky.app/profile/reuters.com/post/3ma45cwwe572i" target="_blank">reuters.com</a> (2025-12-16 21:25:13)</span>
+<span style="padding-right:50px;">クルーズ船「飛鳥III」 事故報告せず運航 国交省が行政指導 https://news.web.nhk/newsweb/na/na-k10015006031000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma46lsrbrb2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 21:48:02)</span><span style="padding-right:50px;">欧州中央銀行（ＥＣＢ）は、イタリアの２０２６年予算で想定されている措置は銀行の流動性に「マイナスの影響」を与える可能性があると指摘した。金融機関が税負担を軽くするため預金に対して支払われる利息をカットする可能性があり、流動性バッファーが縮小することになるとしている。 bit.ly/4s6WchR <a href="https://bsky.app/profile/japan.reuters.com/post/3ma46gxu5nf2f" target="_blank">japan.reuters.com</a> (2025-12-16 21:45:22)</span><span style="padding-right:50px;">Iraq's dreams of wheat independence dashed by water crisis reut.rs/48HfNxq <a href="https://bsky.app/profile/reuters.com/post/3ma46grizft2o" target="_blank">reuters.com</a> (2025-12-16 21:45:15)</span><span style="padding-right:50px;">If GOP Rep. Nancy Mace is going to win her race for South Carolina governor, she’s going to do it mostly on her own. <a href="https://bsky.app/profile/wsj.com/post/3ma46galgk62o" target="_blank">wsj.com</a> (2025-12-16 21:44:57)</span><span style="padding-right:50px;">#BREAKING Paris Saint-Germain ordered to pay 60m euros ($70.6m) to former star Kylian Mbappe in wage dispute <a href="https://bsky.app/profile/en.afp.com/post/3ma46cb476o2u" target="_blank">en.afp.com</a> (2025-12-16 21:42:44)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.73 (🔻0.49 : 2025-12-16)</span>
+<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.67 (🔻0.55 : 2025-12-16)</span>
   </div>
 </div>
 
@@ -34,94 +34,93 @@
 
 Here are six important stories with headlines in English:
 
-1. Trump's Renovation Frenzy Sparks Feud with Neighbors
-2. Microsoft Software Hacked, Beats Passwords and 2FA
-3. Warner Bros. Mergers and Acquisitions: A Troubled History
-4. EU to Impose Carbon Border Adjustment on Car Parts and Appliances
-5. China Lowers EU Pork Tariffs in Final Ruling After 18-Month Probe
-6. Kraft Heinz Replaces CEO Ahead of Breakup
+1. Japan Ministry of Land, Infrastructure, Transport and Tourism Fines Cruise Ship Operator for Not Reporting Accident
+2. European Central Bank Warns of Negative Impact on Banking System
+3. Iraq's Dream of Wheat Independence Dashed by Water Crisis
+4. Paris Saint-Germain Ordered to Pay €60M to Former Star Kylian Mbappe
+5. US Seeks to Seize More Sanctioned Oil-Filled Tankers Off Venezuela
+6. European Union to Introduce First-Ever Carbon Border Adjustment Mechanism
 
 ----
 
-@wsj.com
+@nhknewsunofficial.bsky.social
 
-President Trump has been on a renovation spree since moving back into the White House, but his penchant for remodeling is leading to an escalating legal feud with his neighbors.
+クルーズ船「飛鳥III」 事故報告せず運航 国交省が行政指導
+https://news.web.nhk/newsweb/na/na-k10015006031000
 
-[2025-12-16 21:28:04](https://bsky.app/profile/wsj.com/post/3ma45i2envs2h)
-
----
-
-@forbes.com
-
-Shut Down And Restart—New Microsoft Attack Beats Passwords, 2FA And Passkeys
-
-[2025-12-16 21:28:04](https://bsky.app/profile/forbes.com/post/3ma45i22dck2z)
-
----
-
-@npr.org
-
-Warner Bros. has a history of disastrous mergers and acquisitions. Can they avoid another bad sequel as Netflix and Paramount battle to buy it? n.pr/4oVhjkc
-
-[2025-12-16 21:28:01](https://bsky.app/profile/npr.org/post/3ma45hwwkys2y)
+[2025-12-16 21:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma46lsrbrb2m)
 
 ---
 
 @japan.reuters.com
 
-ロイターが入手した欧州委員会の草案によると、欧州連合（ＥＵ）は、世界初となる炭素国境調整措置（ＣＢＡＭ）の対象を拡大し、自動車部品、冷蔵庫、洗濯機などの輸入品にも適用する計画だ。 bit.ly/3N37RxR
+欧州中央銀行（ＥＣＢ）は、イタリアの２０２６年予算で想定されている措置は銀行の流動性に「マイナスの影響」を与える可能性があると指摘した。金融機関が税負担を軽くするため預金に対して支払われる利息をカットする可能性があり、流動性バッファーが縮小することになるとしている。 bit.ly/4s6WchR
 
-[2025-12-16 21:25:16](https://bsky.app/profile/japan.reuters.com/post/3ma45czc62q2u)
+[2025-12-16 21:45:22](https://bsky.app/profile/japan.reuters.com/post/3ma46gxu5nf2f)
 
 ---
 
 @reuters.com
 
-China reiterates demand that Japanese PM retract Taiwan remarks reut.rs/48PC0JP
+Iraq's dreams of wheat independence dashed by water crisis reut.rs/48HfNxq
 
-[2025-12-16 21:25:13](https://bsky.app/profile/reuters.com/post/3ma45cwwe572i)
+[2025-12-16 21:45:15](https://bsky.app/profile/reuters.com/post/3ma46grizft2o)
+
+---
+
+@wsj.com
+
+If GOP Rep. Nancy Mace is going to win her race for South Carolina governor, she’s going to do it mostly on her own.
+
+[2025-12-16 21:44:57](https://bsky.app/profile/wsj.com/post/3ma46galgk62o)
+
+---
+
+@en.afp.com
+
+<strong><span style="color: red;">#BREAKING</span> Paris Saint-Germain ordered to pay 60m euros ($70.6m) to former star Kylian Mbappe in wage dispute</strong>
+
+[2025-12-16 21:42:44](https://bsky.app/profile/en.afp.com/post/3ma46cb476o2u)
+
+---
+
+@reuters.com
+
+Rwanda-backed M23 group says it will withdraw from seized Congo town after US request reut.rs/3XU91y7
+
+[2025-12-16 21:40:22](https://bsky.app/profile/reuters.com/post/3ma465zfh2p2p)
 
 ---
 
 @nytimes.com
 
-The tech company Palantir has secured federal contracts worth hundreds of millions of dollars during President Trump’s second presidency, including to develop software to help ICE deport people.
+Brigitte Macron, the first lady of France, apologized on Monday for offending feminist protesters during a private conversation last week, but she also said that she should be able to speak freely when with friends.
 
-Listen to "The Daily."
+[2025-12-16 21:40:03](https://bsky.app/profile/nytimes.com/post/3ma465hqeym25)
 
-[2025-12-16 21:25:05](https://bsky.app/profile/nytimes.com/post/3ma45coxvoz2a)
+---
+
+@axios.com
+
+SCOOP: Elon Musk — who threatened to launch a third party and support challengers to Republican incumbents during his dispute with Trump — is now firmly back in the GOP's camp having begun funding Republican midterms campaigns.
+
+[2025-12-16 21:37:32](https://bsky.app/profile/axios.com/post/3ma45yxv63c24)
 
 ---
 
 @cnbc.com
 
-This quantum computing stock can surge 90% in the coming year, says Jefferies
+As catastrophe losses top $100 billion again, insurers are helping policyholders mitigate risk
 
-[2025-12-16 21:25:02](https://bsky.app/profile/cnbc.com/post/3ma45clwapo2x)
-
----
-
-@forbes.com
-
-Feds Warn iPhone And Android Users: Update Now—Attacks Confirmed
-
-[2025-12-16 21:22:32](https://bsky.app/profile/forbes.com/post/3ma4564zjjc2z)
+[2025-12-16 21:36:51](https://bsky.app/profile/cnbc.com/post/3ma45xqb2vm2e)
 
 ---
 
-@forbes.com
+@japan.reuters.com
 
-Solstice 2025: When Is The Shortest Day Of The Year?
+Ｓ＆Ｐグローバルがまとめた１２月のフランスのＨＣＯＢ総合購買担当者景気指数（ＰＭＩ）速報値は５０．１と、１１月の５０．４から低下し、好不況の分かれ目となる５０に迫った。 bit.ly/4oVb7Zy
 
-[2025-12-16 21:20:50](https://bsky.app/profile/forbes.com/post/3ma4533jgqk2z)
-
----
-
-@forbes.com
-
-Microsoft Updates Windows ‘To Stop Users Downloading Google Chrome’
-
-[2025-12-16 21:20:29](https://bsky.app/profile/forbes.com/post/3ma452ic5c22z)
+[2025-12-16 21:35:18](https://bsky.app/profile/japan.reuters.com/post/3ma45uxqlyi2p)
 
 ---
 
