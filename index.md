@@ -1,9 +1,9 @@
-# [2025-12-17 06:10 updated](2025_12_17.md)
+# [2025-12-17 06:30 updated](2025_12_17.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Flu Rates Are Soaring. A Doctor Shares How To Stay Healthy During Holiday Travel www.forbes.com/sites/ninash... (Photo: Getty Images) <a href="https://bsky.app/profile/forbes.com/post/3ma52mc3vuc24" target="_blank">forbes.com</a> (2025-12-17 06:09:25)</span><span style="padding-right:50px;">Trump supported his chief of staff Susie Wiles today, even after her Vanity Fair interviews offered a startling portrait of his second White House term. <a href="https://bsky.app/profile/axios.com/post/3ma52ldza7225" target="_blank">axios.com</a> (2025-12-17 06:08:54)</span><span style="padding-right:50px;">NFL Playoff Race 2025: Who Has The Toughest Path Forward? www.forbes.com/sites/mikest... (Photo: Todd Kirkland/Getty Images) <a href="https://bsky.app/profile/forbes.com/post/3ma52kw2wx224" target="_blank">forbes.com</a> (2025-12-17 06:08:39)</span><span style="padding-right:50px;">President Donald Trump’s approval rating decreased two points in the latest Reuters/Ipsos survey released Tuesday amid persistent discontent with his handling of the economy.  Read more: www.forbes.com/sites/sarado... (Photo: AFP via Getty Images) <a href="https://bsky.app/profile/forbes.com/post/3ma52jmiqk224" target="_blank">forbes.com</a> (2025-12-17 06:07:56)</span><span style="padding-right:50px;">再審制度見直し 証拠開示の対象 “関連する証拠”検討へ https://news.web.nhk/newsweb/na/na-k10015005931000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma52gcc7nk2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-17 06:06:02)</span>
+<span style="padding-right:50px;">The rapid turnabout raises questions about the status of the investigation and the community's safety three days after a suspect opened fire on the Ivy League campus. https://cnn.it/49b0ygh <a href="https://bsky.app/profile/cnn.com/post/3ma53pgx7ja2k" target="_blank">cnn.com</a> (2025-12-17 06:29:05)</span><span style="padding-right:50px;">The university is still considering plans for how to memorialize the students during the spring semester. In the meantime, most classes, exams, and final papers have been canceled. <a href="https://bsky.app/profile/npr.org/post/3ma53oi7fcz2e" target="_blank">npr.org</a> (2025-12-17 06:28:33)</span><span style="padding-right:50px;">Wall Street rainmakers scrap for windfall from Warner Bros deal ft.trib.al/BWddb9M <a href="https://bsky.app/profile/financialtimes.com/post/3ma53lchq4x2k" target="_blank">financialtimes.com</a> (2025-12-17 06:26:46)</span><span style="padding-right:50px;">BREAKING: Nick Reiner to be charged with first-degree murder in the stabbing deaths of Rob and Michele Reiner. <a href="https://bsky.app/profile/nbcnews.com/post/3ma53jtifgz2q" target="_blank">nbcnews.com</a> (2025-12-17 06:25:57)</span><span style="padding-right:50px;">Exclusive: Swiss firm Barry Callebaut eyes separating cocoa division amid price volatility, sources say reut.rs/3KDoVKh <a href="https://bsky.app/profile/reuters.com/post/3ma53ijdcwq23" target="_blank">reuters.com</a> (2025-12-17 06:25:12)</span>
   </div>
 </div>
 
@@ -32,101 +32,98 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are six news headlines in English:
 
-1. Trump to Interview Christopher Waller for Federal Reserve Chair
-2. US Business Activity Growth Hits 6-Month Low in December
-3. Prosecutors Open Homicide Investigation into MIT Professor's Death
-4. Ford's EV Retreat Highlights Industry Dilemma: Build for the US or the World?
-5. Venezuela Faces Big Oil Discounts and Pressure for Contract Changes
-6. Tesla Stock Hits Record as Wall Street Rallies Around Robotaxi Hype
+1. Ex-Netflix Exec to Lead Kraft Heinz as CEO Amid Company's Split
+2. US Designates Colombia's Clan del Golfo Gang as Terrorist Group
+3. Trump's Approval Rating Hits New Low Amid Economic Concerns
+4. Baby's Death Ruled Homicide, Father's Decades-Old Denial Challenged
+5. US Designates Colombia's Clan del Golfo Gang as Terrorist Group
+6. Ford's EV Retreat Highlights Industry Dilemma: Build for US or World?
 
 ----
 
-@forbes.com
+@cnn.com
 
-Flu Rates Are Soaring. A Doctor Shares How To Stay Healthy During Holiday Travel www.forbes.com/sites/ninash... (Photo: Getty Images)
+The rapid turnabout raises questions about the status of the investigation and the community's safety three days after a suspect opened fire on the Ivy League campus. https://cnn.it/49b0ygh
 
-[2025-12-17 06:09:25](https://bsky.app/profile/forbes.com/post/3ma52mc3vuc24)
-
----
-
-@axios.com
-
-Trump supported his chief of staff Susie Wiles today, even after her Vanity Fair interviews offered a startling portrait of his second White House term.
-
-[2025-12-17 06:08:54](https://bsky.app/profile/axios.com/post/3ma52ldza7225)
+[2025-12-17 06:29:05](https://bsky.app/profile/cnn.com/post/3ma53pgx7ja2k)
 
 ---
 
-@forbes.com
+@npr.org
 
-NFL Playoff Race 2025: Who Has The Toughest Path Forward?
-www.forbes.com/sites/mikest... (Photo: Todd Kirkland/Getty Images)
+The university is still considering plans for how to memorialize the students during the spring semester. In the meantime, most classes, exams, and final papers have been canceled.
 
-[2025-12-17 06:08:39](https://bsky.app/profile/forbes.com/post/3ma52kw2wx224)
-
----
-
-@forbes.com
-
-President Donald Trump’s approval rating decreased two points in the latest Reuters/Ipsos survey released Tuesday amid persistent discontent with his handling of the economy.
-
-Read more: www.forbes.com/sites/sarado... (Photo: AFP via Getty Images)
-
-[2025-12-17 06:07:56](https://bsky.app/profile/forbes.com/post/3ma52jmiqk224)
+[2025-12-17 06:28:33](https://bsky.app/profile/npr.org/post/3ma53oi7fcz2e)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@financialtimes.com
 
-再審制度見直し 証拠開示の対象 “関連する証拠”検討へ
-https://news.web.nhk/newsweb/na/na-k10015005931000
+Wall Street rainmakers scrap for windfall from Warner Bros deal ft.trib.al/BWddb9M
 
-[2025-12-17 06:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma52gcc7nk2b)
+[2025-12-17 06:26:46](https://bsky.app/profile/financialtimes.com/post/3ma53lchq4x2k)
+
+---
+
+@nbcnews.com
+
+<strong><span style="color: red;">BREAKING:</span> Nick Reiner to be charged with first-degree murder in the stabbing deaths of Rob and Michele Reiner.</strong>
+
+[2025-12-17 06:25:57](https://bsky.app/profile/nbcnews.com/post/3ma53jtifgz2q)
 
 ---
 
 @reuters.com
 
-Kraft Heinz taps former Kellogg chief as CEO to steer split reut.rs/4qdYMAS
+Exclusive: Swiss firm Barry Callebaut eyes separating cocoa division amid price volatility, sources say reut.rs/3KDoVKh
 
-[2025-12-17 06:05:13](https://bsky.app/profile/reuters.com/post/3ma52ers4b32c)
-
----
-
-@cnbc.com
-
-Gretchen Rubin has spent 12 years researching the science of happiness and confidence. Here are 12 useful reminders that have helped her live a more meaningful, regret-free life. The best part? They're short and easy to remember.
-
-[2025-12-17 06:04:29](https://bsky.app/profile/cnbc.com/post/3ma52dhm2iv2p)
+[2025-12-17 06:25:12](https://bsky.app/profile/reuters.com/post/3ma53ijdcwq23)
 
 ---
 
-@thealexknapp.bsky.social
+@financialtimes.com
 
-ICYMI, Last week's edition of my emerging tech newsletter included a look at solar power from space, mass production of big satellites, clear insulation for windows, and more. 
+Over the past two years, prediction markets have ballooned 130 times in size, as users have flocked online to make wagers on events in sports, politics and popular culture. ft.trib.al/RbI2VHZ
 
-www.forbes.com/sites/the-pr...
-
-[2025-12-17 06:04:16](https://bsky.app/profile/thealexknapp.bsky.social/post/3ma52d2x3ic2h)
+[2025-12-17 06:23:51](https://bsky.app/profile/financialtimes.com/post/3ma53g3orij23)
 
 ---
 
-@bloomberg.com
+@nytimes.com
 
-<strong><span style="color: red;">Breaking:</span> Warner Bros. is planning to reject Paramount Skydance’s hostile takeover bid due to concerns about financing and other terms</strong>
+<strong><span style="color: red;">Breaking News</span>: Nick Reiner, a son of the Hollywood director Rob Reiner, will be charged with first-degree murder in his parents’ deaths.</strong>
 
-[2025-12-17 06:04:11](https://bsky.app/profile/bloomberg.com/post/3ma52cwdvit23)
+[2025-12-17 06:20:48](https://bsky.app/profile/nytimes.com/post/3ma53an4i7m2b)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@nbcnews.com
 
-世田谷一家殺害事件 現場住宅に侵入した形跡 警視庁が捜査
-https://news.web.nhk/newsweb/na/na-k10015006011000
+A medical examiner concluded that a baby’s death was a homicide, the result of his having been violently shaken.
 
-[2025-12-17 06:03:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma52avxxoo2v)
+For decades, the baby’s father has denied abusing his son. Now, the medical examiner says he made a mistake. 
+
+[2025-12-17 06:20:09](https://bsky.app/profile/nbcnews.com/post/3ma537iddte2n)
+
+---
+
+@nytimes.com
+
+In @nytopinion.nytimes.com 
+
+“In an administration known for its erratic adoption and sudden abandonment of policies, Trump has demonstrated an unwavering determination to enhance the fortunes of the rich,” Thomas Edsall writes.
+
+[2025-12-17 06:20:02](https://bsky.app/profile/nytimes.com/post/3ma537b6sb526)
+
+---
+
+@cbsnews.com
+
+Millions of Hyundai and Kia owners can get free repairs under a settlement announced Tuesday by Minnesota's attorney general, who led an effort by dozens of states that argued the vehicles weren't equipped with proper anti-theft technology, leaving them vulnerable to thefts.
+
+[2025-12-17 06:20:01](https://bsky.app/profile/cbsnews.com/post/3ma537aauil2h)
 
 ---
 
