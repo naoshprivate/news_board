@@ -1,9 +1,9 @@
-# [2025-12-16 18:10 updated](2025_12_16.md)
+# [2025-12-16 18:30 updated](2025_12_16.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">中国・香港株式市場は大幅続落して終了した。一連の米経済指標の発表を控えて警戒感が広がり、アジア株安の流れに追随して売りが優勢となった。 bit.ly/4pKXHk4 <a href="https://bsky.app/profile/japan.reuters.com/post/3ma3sdaco6b2q" target="_blank">japan.reuters.com</a> (2025-12-16 18:08:32)</span><span style="padding-right:50px;">Shell mergers chief Greg Gut quit after CEO blocked BP bid, FT says reut.rs/3MEMK51 <a href="https://bsky.app/profile/reuters.com/post/3ma3s5dprcm2r" target="_blank">reuters.com</a> (2025-12-16 18:05:14)</span><span style="padding-right:50px;">三菱ＵＦＪフィナンシャル・グループ（ＭＵＦＧ）は１６日、傘下の三菱ＵＦＪ銀行の半沢淳一頭取（６０）が社長に昇格する人事を発表した。三菱ＵＦＪ銀頭取には同行専務執行役員の大沢正和氏（５７）、三菱ＵＦＪモルガン・スタンレー証券社長には同行副頭取の関浩之氏（５７）がそれぞれ就任する。 bit.ly/48F1idp <a href="https://bsky.app/profile/japan.reuters.com/post/3ma3s5cfqfd2c" target="_blank">japan.reuters.com</a> (2025-12-16 18:05:13)</span><span style="padding-right:50px;">Australian Prime Minister Anthony Albanese visited Ahmed al Ahmed, the man who charged at one of the gunmen and seized his rifle during the Bondi Beach attack, at a Sydney hospital. <a href="https://bsky.app/profile/reuters.com/post/3ma3s2s5aec2k" target="_blank">reuters.com</a> (2025-12-16 18:03:49)</span><span style="padding-right:50px;">佐賀県産ノリ初競り　最上質品「有明海一番」は1枚390円（無料記事） www.nikkei.com/article/DGXZQO...  2年ぶりに最上質品が出品されたことで、平均単価は51円75銭と最高値を更新。  赤潮の発生が見られなかったことから、うまみを蓄えた味の良いノリが収穫できているといいます。 <a href="https://bsky.app/profile/nikkei.com/post/3ma3rwcj3ud2m" target="_blank">nikkei.com</a> (2025-12-16 18:01:18)</span>
+<span style="padding-right:50px;">European leaders discuss Ukraine's compensation claims youtube.com/live/QCzGWEi... <a href="https://bsky.app/profile/reuters.com/post/3ma3tefjyvk2x" target="_blank">reuters.com</a> (2025-12-16 18:27:05)</span><span style="padding-right:50px;">再審制度見直し 議論整理の資料 意見分かれる論点は両論併記 https://news.web.nhk/newsweb/na/na-k10015005761000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3tef6xfd2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 18:27:02)</span><span style="padding-right:50px;">王子ホールディングスは１６日、発行済み株式の９．０％に当たる８２００万株・５００億円を上限とする自社株買いを決議したと発表した。取得期間は１７日から２０２６年１２月１６日。 bit.ly/4oSynHx <a href="https://bsky.app/profile/japan.reuters.com/post/3ma3tbd64ul2q" target="_blank">japan.reuters.com</a> (2025-12-16 18:25:21)</span><span style="padding-right:50px;">ATP to introduce new heat policy from 2026 season reut.rs/4aOBkFF <a href="https://bsky.app/profile/reuters.com/post/3ma3tb7damd23" target="_blank">reuters.com</a> (2025-12-16 18:25:17)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】11月のコメ相対取引価格 4カ月ぶり値下がり 下落銘柄増＆需給緩和見通しが要因か (18:22) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma3t7sbu532v" target="_blank">sokuho.news</a> (2025-12-16 18:24:30)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.87 (🔻0.36 : 2025-12-16)</span>
+<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.85 (🔻0.37 : 2025-12-16)</span>
   </div>
 </div>
 
@@ -32,97 +32,118 @@
 
 ## News Headlines
 
-1. Asian Stocks Plunge Amid Growing Concerns Over US Economic Indicators
-2. Shell Mergers Chief Quits After CEO Blocks BP Acquisition Bid
-3. Mitsubishi UFJ Financial Group Announces New Leadership Appointments
-4. Australia's Prime Minister Visits Man Who Foiled Gunman at Bondi Beach Attack
-5. Credit Suisse Warns of Potential Loan Defaults Amid Global Economic Uncertainty
-6. China Slashes Import Duties on EU Pork Amid Trade Tensions
+1. European Leaders Discuss Ukraine's Compensation Claims
+2. Prince Holdings Approves 820 Million Yen Share Buyback Plan
+3. ATP to Introduce New Heat Policy from 2026 Season
+4. Egg Prices Reach All-Time High in Japan
+5. Japan's Nikkei Average Falls Below 50,000
+6. China Demands Japan to Retract Prime Minister's Taiwan Comments
+7. Millisecond Becomes a Big Deal for World's Quickest Traders
+8. Tokyo Sauna Fire Leaves Two People Trapped
+9. British Broadcaster Apologizes to Trump Over Editing
+10. Private Credit Pressures to Fuel Further Defaults in 2026
+11. Japan's Yen Rises as Bank of Japan's Rate Hike Expected
+12. Australian Prime Minister Visits Man Who Disarmed Gunman
+13. World's Best Quality Nori Sells for Record Price in Japan
+14. Bank of Korea Says Liquidity Not Behind FX and Property Market Volatility
+15. US FDA Sends Warning Letters to Retailers Over Recalled Baby Formula
+16. China Imposes Lower Import Duties on EU Pork
+17. Israel's Expansion Push Deepens Palestinian Suffering
+18. Interstellar Comet Makes Closest Approach to Earth
+19. PM and Cabinet Members' Salaries to Be Frozen in Japan
+20. International Rescue Committee Lists Countries at Risk of Humanitarian Crisis
+21. Turkey Shoots Down Drone Over Black Sea
+22. Makita Tool Mold Case: Government Demands Preventive Measures
+23. US Requests EU to Exclude Its Oil and Gas from Methane Emissions Law
+24. Markets in Grinch-y Mood Ahead of Data Deluge
 
 ----
 
-@japan.reuters.com
-
-中国・香港株式市場は大幅続落して終了した。一連の米経済指標の発表を控えて警戒感が広がり、アジア株安の流れに追随して売りが優勢となった。 bit.ly/4pKXHk4
-
-[2025-12-16 18:08:32](https://bsky.app/profile/japan.reuters.com/post/3ma3sdaco6b2q)
-
----
-
 @reuters.com
 
-Shell mergers chief Greg Gut quit after CEO blocked BP bid, FT says reut.rs/3MEMK51
+European leaders discuss Ukraine's compensation claims youtube.com/live/QCzGWEi...
 
-[2025-12-16 18:05:14](https://bsky.app/profile/reuters.com/post/3ma3s5dprcm2r)
-
----
-
-@japan.reuters.com
-
-三菱ＵＦＪフィナンシャル・グループ（ＭＵＦＧ）は１６日、傘下の三菱ＵＦＪ銀行の半沢淳一頭取（６０）が社長に昇格する人事を発表した。三菱ＵＦＪ銀頭取には同行専務執行役員の大沢正和氏（５７）、三菱ＵＦＪモルガン・スタンレー証券社長には同行副頭取の関浩之氏（５７）がそれぞれ就任する。 bit.ly/48F1idp
-
-[2025-12-16 18:05:13](https://bsky.app/profile/japan.reuters.com/post/3ma3s5cfqfd2c)
+[2025-12-16 18:27:05](https://bsky.app/profile/reuters.com/post/3ma3tefjyvk2x)
 
 ---
 
-@reuters.com
+@nhknewsunofficial.bsky.social
 
-Australian Prime Minister Anthony Albanese visited Ahmed al Ahmed, the man who charged at one of the gunmen and seized his rifle during the Bondi Beach attack, at a Sydney hospital.
+再審制度見直し 議論整理の資料 意見分かれる論点は両論併記
+https://news.web.nhk/newsweb/na/na-k10015005761000
 
-[2025-12-16 18:03:49](https://bsky.app/profile/reuters.com/post/3ma3s2s5aec2k)
-
----
-
-@nikkei.com
-
-佐賀県産ノリ初競り　最上質品「有明海一番」は1枚390円（無料記事）
-www.nikkei.com/article/DGXZQO...
-
-2年ぶりに最上質品が出品されたことで、平均単価は51円75銭と最高値を更新。
-
-赤潮の発生が見られなかったことから、うまみを蓄えた味の良いノリが収穫できているといいます。
-
-[2025-12-16 18:01:18](https://bsky.app/profile/nikkei.com/post/3ma3rwcj3ud2m)
+[2025-12-16 18:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3tef6xfd2m)
 
 ---
 
 @japan.reuters.com
 
-信用格付け会社モーニングスターＤＢＲＳは１６日、世界的にプライベートクレジットの借り手企業の利益率が低下しており、２０２６年にはさらなるローンのデフォルト（債務不履行）につながる可能性が高いと指摘した。 bit.ly/4s0LyZJ
+王子ホールディングスは１６日、発行済み株式の９．０％に当たる８２００万株・５００億円を上限とする自社株買いを決議したと発表した。取得期間は１７日から２０２６年１２月１６日。 bit.ly/4oSynHx
 
-[2025-12-16 18:00:31](https://bsky.app/profile/japan.reuters.com/post/3ma3ruvhges26)
+[2025-12-16 18:25:21](https://bsky.app/profile/japan.reuters.com/post/3ma3tbd64ul2q)
 
 ---
 
 @reuters.com
 
-Bank of Korea says excessive liquidity alone not behind FX, property market volatility reut.rs/3KKNmWb
+ATP to introduce new heat policy from 2026 season reut.rs/4aOBkFF
 
-[2025-12-16 18:00:20](https://bsky.app/profile/reuters.com/post/3ma3rulwskx2y)
-
----
-
-@cnn.com
-
-The US Food and Drug Administration sent warning letters to Target, Walmart, Kroger and Albertsons after some of the stores failed to remove recalled baby formula linked to a large infant botulism outbreak. https://cnn.it/3L06K1o
-
-[2025-12-16 18:00:13](https://bsky.app/profile/cnn.com/post/3ma3ruf4us72c)
+[2025-12-16 18:25:17](https://bsky.app/profile/reuters.com/post/3ma3tb7damd23)
 
 ---
 
-@bloomberg.com
+@sokuho.news
 
-China set final import duties on European Union pork at significantly lower levels than initially announced in September.
+🔔ANNより【速報】です。
 
-[2025-12-16 18:00:12](https://bsky.app/profile/bloomberg.com/post/3ma3rudnjxp2e)
+【速報】11月のコメ相対取引価格 4カ月ぶり値下がり 下落銘柄増＆需給緩和見通しが要因か
+(18:22) #ニュース
+
+[2025-12-16 18:24:30](https://bsky.app/profile/sokuho.news/post/3ma3t7sbu532v)
 
 ---
 
-@aljazeera.com
+@sokuho.news
 
-How Israel’s expansion push deepens Palestinian suffering in West Bank https://aje.io/jf5ujc
+🔔ANNより【速報】です。
 
-[2025-12-16 18:00:05](https://bsky.app/profile/aljazeera.com/post/3ma3ru5dmy62v)
+【速報】卵1パック308円 過去最高値を更新 農水省の食品価格動向調査
+(18:23) #ニュース
+
+[2025-12-16 18:24:22](https://bsky.app/profile/sokuho.news/post/3ma3t7k4mnj2b)
+
+---
+
+@japan.reuters.com
+
+中国外務省は１６日、高市早苗首相の台湾に関する発言を撤回するよう改めて要求した。 bit.ly/49jgCM3
+
+[2025-12-16 18:24:13](https://bsky.app/profile/japan.reuters.com/post/3ma3t7bro7427)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+国会議員の「期末手当」据え置き 改正歳費法が成立 参院本会議
+https://news.web.nhk/newsweb/na/na-k10015005771000
+
+[2025-12-16 18:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3t7262kj2b)
+
+---
+
+@japan.reuters.com
+
+東京株式市場で日経平均は続落し、前営業日比７８４円８２銭安の４万９３８３円２９銭で取引を終えた。米国の１１月雇用統計、１０月小売売上高の発表を今晩に控え、持ち高調整の売りが出た。特にＡＩ（人工知能）関連と目される銘柄が安く、相場の重しとなった。日経平均は節目の５万円を割りこみ、一時８００円以上値下がりする場面もあった。 bit.ly/48F1NUP
+
+[2025-12-16 18:20:14](https://bsky.app/profile/japan.reuters.com/post/3ma3sy5uler2c)
+
+---
+
+@wsj.com
+
+A millisecond used to be a big deal for the world’s quickest traders. A dispute over an arcane technical maneuver shows they now think a million times faster.
+
+[2025-12-16 18:20:04](https://bsky.app/profile/wsj.com/post/3ma3sxuhgsp2k)
 
 ---
 
