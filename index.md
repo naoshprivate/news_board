@@ -1,9 +1,9 @@
-# [2025-12-17 02:10 updated](2025_12_17.md)
+# [2025-12-17 02:30 updated](2025_12_17.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Donald Trump, the man who rode to the White House last year on a promise to fix America’s cost-of-living crisis, is now struggling to convince voters that he even thinks it is a real issue after dismissing it as a Democratic 'hoax'. ft.trib.al/k4sD8qk <a href="https://bsky.app/profile/financialtimes.com/post/3ma4n6zev7u2p" target="_blank">financialtimes.com</a> (2025-12-17 02:09:21)</span><span style="padding-right:50px;">Gas prices continue to slide below $3, hitting fresh four-year low ahead of Christmas <a href="https://bsky.app/profile/yahoofinance.com/post/3ma4mz7tdk22q" target="_blank">yahoofinance.com</a> (2025-12-17 02:06:07)</span><span style="padding-right:50px;">US overdraft fees jump at big banks amid regulatory, economic shifts reut.rs/4qgacnJ <a href="https://bsky.app/profile/reuters.com/post/3ma4mxowlpn2x" target="_blank">reuters.com</a> (2025-12-17 02:05:15)</span><span style="padding-right:50px;">Netflix announced a partnership with iHeartMedia, furthering its long-awaited push into podcasting — and yanking a few more shows off YouTube. “The Breakfast Club” and other podcasts will now publish their video episodes exclusively on Netflix. <a href="https://bsky.app/profile/nytimes.com/post/3ma4mxecita2y" target="_blank">nytimes.com</a> (2025-12-17 02:05:04)</span><span style="padding-right:50px;">The job market is weak, but the unemployment rate hitting a four-year high doesn't signal some abrupt turn for the worse. Here's why. <a href="https://bsky.app/profile/axios.com/post/3ma4mtv2emc26" target="_blank">axios.com</a> (2025-12-17 02:03:08)</span>
+<span style="padding-right:50px;">EU waters down plans to end petrol and diesel car sales by 2035 <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma4ocjftso2y" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-17 02:29:12)</span><span style="padding-right:50px;">Sonnedix wins contracts for 805 MW of solar capacity in Italy reut.rs/4pzUfso <a href="https://bsky.app/profile/reuters.com/post/3ma4o3fukc623" target="_blank">reuters.com</a> (2025-12-17 02:25:14)</span><span style="padding-right:50px;">Strands is a word search with a unique twist. Can you uncover the theme? Play here: nyti.ms/45dBWRA <a href="https://bsky.app/profile/nytimes.com/post/3ma4o36jahu25" target="_blank">nytimes.com</a> (2025-12-17 02:25:06)</span><span style="padding-right:50px;">DR Congo conflict: Rebels say they will withdraw from Uvira city at Trump administration's request <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma4nykx3u62z" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-17 02:23:38)</span><span style="padding-right:50px;">Pepsi worked to keep prices higher at retailers to help Walmart, according to an FTC lawsuit that the agency dropped earlier this year. Unredacted portions were recently unsealed. <a href="https://bsky.app/profile/wsj.com/post/3ma4nwdngjr2r" target="_blank">wsj.com</a> (2025-12-17 02:22:24)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48165.98 (🔻214.19 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23020.34 (🔺38.52 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 176.49 (🔺0.24 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.74 (🔻0.48 : 2025-12-16)</span>
+<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48151.15 (🔻229.02 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23013.14 (🔺31.32 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 176.62 (🔺0.37 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.68 (🔻0.54 : 2025-12-16)</span>
   </div>
 </div>
 
@@ -32,94 +32,94 @@
 
 ## News Headlines
 
-Here are six headlines from the news in English:
+Here are six important stories with headlines:
 
-1. Trump Struggles to Convince Voters of Cost-of-Living Crisis
-2. Gas Prices Hit Four-Year Low Ahead of Christmas
-3. Netflix Partners with iHeartMedia to Expand Podcasting
-4. British Man Jailed for 21.5 Years for Injuring Over 130 People in Car Crash
-5. Coco Gauff Becomes World's Highest-Paid Female Athlete with $33 Million Earnings
-6. Trump Administration Moves to Limit Federal Workers' Top Ratings
+1. EU Waters Down Plans to End Petrol and Diesel Car Sales by 2035
+2. Dramatic Footage Emerges of Elderly Couple's Heroic Attempt to Stop Bondi Beach Gunmen
+3. UK Government's Flagship Workers' Rights Legislation Clears House of Lords
+4. US Unemployment Rate Hits Four-Year High, but Job Market Remains Weak
+5. Cocaine Cartels Declared Terrorist Organizations by Trump Administration
+6. Netflix Partners with iHeartMedia to Expand Podcasting Presence
 
 ----
 
-@financialtimes.com
+@bbcnews-world-rss.bsky.social
 
-Donald Trump, the man who rode to the White House last year on a promise to fix America’s cost-of-living crisis, is now struggling to convince voters that he even thinks it is a real issue after dismissing it as a Democratic 'hoax'. ft.trib.al/k4sD8qk
+EU waters down plans to end petrol and diesel car sales by 2035
 
-[2025-12-17 02:09:21](https://bsky.app/profile/financialtimes.com/post/3ma4n6zev7u2p)
-
----
-
-@yahoofinance.com
-
-Gas prices continue to slide below $3, hitting fresh four-year low ahead of Christmas
-
-[2025-12-17 02:06:07](https://bsky.app/profile/yahoofinance.com/post/3ma4mz7tdk22q)
+[2025-12-17 02:29:12](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma4ocjftso2y)
 
 ---
 
 @reuters.com
 
-US overdraft fees jump at big banks amid regulatory, economic shifts reut.rs/4qgacnJ
+Sonnedix wins contracts for 805 MW of solar capacity in Italy reut.rs/4pzUfso
 
-[2025-12-17 02:05:15](https://bsky.app/profile/reuters.com/post/3ma4mxowlpn2x)
+[2025-12-17 02:25:14](https://bsky.app/profile/reuters.com/post/3ma4o3fukc623)
 
 ---
 
 @nytimes.com
 
-Netflix announced a partnership with iHeartMedia, furthering its long-awaited push into podcasting — and yanking a few more shows off YouTube. “The Breakfast Club” and other podcasts will now publish their video episodes exclusively on Netflix.
+Strands is a word search with a unique twist. Can you uncover the theme? Play here: nyti.ms/45dBWRA
 
-[2025-12-17 02:05:04](https://bsky.app/profile/nytimes.com/post/3ma4mxecita2y)
+[2025-12-17 02:25:06](https://bsky.app/profile/nytimes.com/post/3ma4o36jahu25)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+DR Congo conflict: Rebels say they will withdraw from Uvira city at Trump administration's request
+
+[2025-12-17 02:23:38](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma4nykx3u62z)
+
+---
+
+@wsj.com
+
+Pepsi worked to keep prices higher at retailers to help Walmart, according to an FTC lawsuit that the agency dropped earlier this year. Unredacted portions were recently unsealed.
+
+[2025-12-17 02:22:24](https://bsky.app/profile/wsj.com/post/3ma4nwdngjr2r)
+
+---
+
+@nbcnews.com
+
+Dramatic new footage has emerged showing an elderly couple who were killed in the Bondi Beach shooting attempt to stop and disarm one of the gunmen.
+
+[2025-12-17 02:20:10](https://bsky.app/profile/nbcnews.com/post/3ma4nsdtzg62d)
+
+---
+
+@cbsnews.com
+
+Construction of the White House's planned $300 million ballroom is expected to be completed in the summer of 2028, just months before President Trump leaves office, according to an environmental assessment prepared by the National Park Service in late August.
+
+[2025-12-17 02:20:01](https://bsky.app/profile/cbsnews.com/post/3ma4ns36oe52p)
+
+---
+
+@apnews.com
+
+Indiana's Curt Cignetti is named the AP coach of the year in college football. He's the first coach to win the honor back-to-back.
+
+[2025-12-17 02:19:56](https://bsky.app/profile/apnews.com/post/3ma4nrwiqlg24)
 
 ---
 
 @axios.com
 
-The job market is weak, but the unemployment rate hitting a four-year high doesn't signal some abrupt turn for the worse. Here's why.
+Defense Secretary Pete Hegseth says the public won't see the Venezuela second strike video
 
-[2025-12-17 02:03:08](https://bsky.app/profile/axios.com/post/3ma4mtv2emc26)
-
----
-
-@cnbc.com
-
-Investors are all in on stocks: Bank of America survey shows record low cash level
-
-[2025-12-17 02:02:52](https://bsky.app/profile/cnbc.com/post/3ma4mtgdboy2e)
-
----
-
-@cnn.com
-
-A British man who injured more than 130 people by plowing his car into a crowd of Liverpool soccer fans during May’s Premier League victory parade was jailed for 21-and-a-half years on Tuesday, after admitting 31 criminal charges over the incident. 
-
-[2025-12-17 02:01:03](https://bsky.app/profile/cnn.com/post/3ma4mq67g3j25)
+[2025-12-17 02:17:37](https://bsky.app/profile/axios.com/post/3ma4nnrnrrk25)
 
 ---
 
 @reuters.com
 
-Chinese court sentences 27 people for smuggling antimony ingots reut.rs/4qfoK6V
+Sterling rises after UK economic data, US figures in focus reut.rs/3KVqXFt
 
-[2025-12-17 02:01:03](https://bsky.app/profile/reuters.com/post/3ma4mq5w26a2y)
-
----
-
-@usatoday.com
-
-Coco Gauff is the world’s highest-paid female athlete with $33 million in earnings in 2025. Eight of the 10 highest earners are tennis players.
-
-[2025-12-17 02:00:52](https://bsky.app/profile/usatoday.com/post/3ma4mptf32q2f)
-
----
-
-@washingtonpost.com
-
-The Trump administration is pushing to limit how many federal workers receive top ratings in annual performance reviews, according to almost two dozen federal employees, a move experts say is illegal and could allow for staff to be more easily fired.
-
-[2025-12-17 02:00:50](https://bsky.app/profile/washingtonpost.com/post/3ma4mps3zwo2m)
+[2025-12-17 02:15:17](https://bsky.app/profile/reuters.com/post/3ma4njn5upq2y)
 
 ---
 
