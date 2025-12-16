@@ -1,9 +1,9 @@
-# [2025-12-16 09:10 updated](2025_12_16.md)
+# [2025-12-16 09:30 updated](2025_12_16.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Cramer's Lighting Round: Sell BP <a href="https://bsky.app/profile/cnbc.com/post/3ma2tzxxvuy2x" target="_blank">cnbc.com</a> (2025-12-16 09:06:29)</span><span style="padding-right:50px;">The FBI on Monday announced a reward of up to $50,000 for information that leads to the identification, arrest and conviction of a suspect in the Brown University shooting investigation.  Police also released new videos and images showing someone they believe is a person of interest. cbsn.ws/4oVdxqY <a href="https://bsky.app/profile/cbsnews.com/post/3ma2tzlboj72f" target="_blank">cbsnews.com</a> (2025-12-16 09:06:14)</span><span style="padding-right:50px;">Ford takes $19.5B charge in hybrid pivot, cancels F-150 Lightning EV, launches new battery storage business <a href="https://bsky.app/profile/yahoofinance.com/post/3ma2tzaosch2k" target="_blank">yahoofinance.com</a> (2025-12-16 09:06:04)</span><span style="padding-right:50px;">米ボストン地区連銀のコリンズ総裁は１５日、インフレ見通しの変化により先週の米連邦準備理事会（ＦＲＢ）の利下げを支持する方向に傾いているが、それは微妙な判断だったと述べた。 bit.ly/3N3oedK <a href="https://bsky.app/profile/japan.reuters.com/post/3ma2txrqhqq2n" target="_blank">japan.reuters.com</a> (2025-12-16 09:05:15)</span><span style="padding-right:50px;">'Fallout' TV series to explore 'New Vegas' lore in second season reut.rs/4j25vLV <a href="https://bsky.app/profile/reuters.com/post/3ma2txnel422b" target="_blank">reuters.com</a> (2025-12-16 09:05:10)</span>
+<span style="padding-right:50px;">Trump sues BBC for $5 billion, claims defamation from Panorama documentary <a href="https://bsky.app/profile/cnbc.com/post/3ma2vcnpz6t2g" target="_blank">cnbc.com</a> (2025-12-16 09:29:14)</span><span style="padding-right:50px;">It’s the Champagne everyone knows, a “safe” gift for the host of a holiday party. But are you paying for the marketing or the quality of the wine itself?  Wine columnist Lettie Teague offers a few outstanding-value alternatives 🥂: on.wsj.com/3Ky2aHF <a href="https://bsky.app/profile/wsj.com/post/3ma2vc2qte42q" target="_blank">wsj.com</a> (2025-12-16 09:28:54)</span><span style="padding-right:50px;">フランス元老院（上院）は１５日、来年予算について政府案よりも財政赤字が大きい修正案を可決した。ただ国民議会（下院）ではこの修正案が支持されておらず、今後は両院の合同特別委員会で妥協点を探ることになる。 bit.ly/3KzdT8V <a href="https://bsky.app/profile/japan.reuters.com/post/3ma2v64ld6v2v" target="_blank">japan.reuters.com</a> (2025-12-16 09:26:42)</span><span style="padding-right:50px;">Atlanta Fed says it will seek new head with 'meaningful ties' to the southeastern district reut.rs/4s3SYvy <a href="https://bsky.app/profile/reuters.com/post/3ma2v3elces2x" target="_blank">reuters.com</a> (2025-12-16 09:25:09)</span><span style="padding-right:50px;">高市首相動静 2025年12月15日 https://news.web.nhk/newsweb/na/na-k10015005031000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma2uzgokwo2l" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 09:24:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 50168.11 (🔻183.98 : 2025-12-15)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (🔺107.00 : 2025-12-15)</span><span style="padding-right:50px;">USD/JPY: 154.77 (🔻0.45 : 2025-12-16)</span>
+<span style="padding-right:50px;">NIKKEI: 49536.92 (🔻514.32 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3358.00 (🔻22.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.93 (🔻0.30 : 2025-12-16)</span>
   </div>
 </div>
 
@@ -32,102 +32,101 @@
 
 ## News Headlines
 
-Here are six important stories with headlines:
-
-1. FBI Offers $50,000 Reward for Information on Brown University Shooter
-2. Ford Takes $19.5B Charge in Hybrid Pivot, Cancels F-150 Lightning EV
-3. Trump to File Lawsuit Against BBC Over Apology
-4. Gun Control Measures Take Hold After Mass Killings in Serbia, Montenegro, and Sweden
-5. AstraZeneca, Daiichi's Breast Cancer Drug Gets FDA Nod as First-Line Treatment
-6. Russia-Ukraine Conflict: Zelensky Threatens to Increase Sanctions and Arm Ukraine if Russia Refuses Peace Talks
+1. Trump Sues BBC for $5 Billion Over Defamation Claim
+2. Trump Escalates Attacks on Colorado Governor Over Imprisoned Official
+3. Nissan Starts Production of New Leaf EV at Sunderland Plant
+4. US, Mexico Sign New Agreement on Tijuana River Sewage Crisis
+5. US Suspends Technology Deal with the UK
+6. Ford Takes $19.5 Billion Charge in Hybrid Pivot, Cancels F-150 Lightning EV
 
 ----
 
 @cnbc.com
 
-Cramer's Lighting Round: Sell BP
+Trump sues BBC for $5 billion, claims defamation from Panorama documentary
 
-[2025-12-16 09:06:29](https://bsky.app/profile/cnbc.com/post/3ma2tzxxvuy2x)
-
----
-
-@cbsnews.com
-
-The FBI on Monday announced a reward of up to $50,000 for information that leads to the identification, arrest and conviction of a suspect in the Brown University shooting investigation. 
-Police also released new videos and images showing someone they believe is a person of interest. cbsn.ws/4oVdxqY
-
-[2025-12-16 09:06:14](https://bsky.app/profile/cbsnews.com/post/3ma2tzlboj72f)
+[2025-12-16 09:29:14](https://bsky.app/profile/cnbc.com/post/3ma2vcnpz6t2g)
 
 ---
 
-@yahoofinance.com
+@wsj.com
 
-Ford takes $19.5B charge in hybrid pivot, cancels F-150 Lightning EV, launches new battery storage business
+It’s the Champagne everyone knows, a “safe” gift for the host of a holiday party. But are you paying for the marketing or the quality of the wine itself?
 
-[2025-12-16 09:06:04](https://bsky.app/profile/yahoofinance.com/post/3ma2tzaosch2k)
+Wine columnist Lettie Teague offers a few outstanding-value alternatives 🥂: on.wsj.com/3Ky2aHF
+
+[2025-12-16 09:28:54](https://bsky.app/profile/wsj.com/post/3ma2vc2qte42q)
 
 ---
 
 @japan.reuters.com
 
-米ボストン地区連銀のコリンズ総裁は１５日、インフレ見通しの変化により先週の米連邦準備理事会（ＦＲＢ）の利下げを支持する方向に傾いているが、それは微妙な判断だったと述べた。 bit.ly/3N3oedK
+フランス元老院（上院）は１５日、来年予算について政府案よりも財政赤字が大きい修正案を可決した。ただ国民議会（下院）ではこの修正案が支持されておらず、今後は両院の合同特別委員会で妥協点を探ることになる。 bit.ly/3KzdT8V
 
-[2025-12-16 09:05:15](https://bsky.app/profile/japan.reuters.com/post/3ma2txrqhqq2n)
+[2025-12-16 09:26:42](https://bsky.app/profile/japan.reuters.com/post/3ma2v64ld6v2v)
 
 ---
 
 @reuters.com
 
-'Fallout' TV series to explore 'New Vegas' lore in second season reut.rs/4j25vLV
+Atlanta Fed says it will seek new head with 'meaningful ties' to the southeastern district reut.rs/4s3SYvy
 
-[2025-12-16 09:05:10](https://bsky.app/profile/reuters.com/post/3ma2txnel422b)
-
----
-
-@cnbc.com
-
-Jim Cramer makes the case for buying Procter & Gamble stock
-
-[2025-12-16 09:04:11](https://bsky.app/profile/cnbc.com/post/3ma2tvu7zhy2e)
+[2025-12-16 09:25:09](https://bsky.app/profile/reuters.com/post/3ma2v3elces2x)
 
 ---
 
-@cnbc.com
+@nhknewsunofficial.bsky.social
 
-Affirm CEO details no-fee lending model: 'We have total alignment with our consumers'
+高市首相動静 2025年12月15日
+https://news.web.nhk/newsweb/na/na-k10015005031000
 
-[2025-12-16 09:03:02](https://bsky.app/profile/cnbc.com/post/3ma2ttswgln2y)
+[2025-12-16 09:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma2uzgokwo2l)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】赤坂サウナ火事2人死亡 サウナ室のドアノブ外れ閉じ込められた可能性
+(2025-12-16 09:22) #ニュース
+
+[2025-12-16 09:22:41](https://bsky.app/profile/sokuho.news/post/3ma2uwxhpr42a)
 
 ---
 
 @japan.reuters.com
 
-ブラジル中央銀行が１５日発表した１０月の経済活動指数は前月比０．２％低下した。ロイターがまとめたエコノミスト予想は０．１％上昇だった。 bit.ly/49bcq1M
+米実業家イーロン・マスク氏の純資産が１５日、６０００億ドルに達したと米経済誌フォーブスが伝えた。同氏が率いる宇宙企業スペースＸが新規株式公開（ＩＰＯ）を準備中で、その一環として企業価値を８０００億ドルとする「二次株式売却」を開始したとの報道を受けた。個人の資産が６０００億ドルに達するのは史上初。 bit.ly/4qvzG0z
 
-[2025-12-16 09:02:45](https://bsky.app/profile/japan.reuters.com/post/3ma2ttcelvd2s)
-
----
-
-@nikkei.com
-
-松屋フーズHD、つけ麺「六厘舎」の松富士を買収　91億円で（無料記事）
-www.nikkei.com/article/DGXZQO...
-
-松富士は関東地方を中心に「六厘舎」や「舎鈴」などつけ麺店を11月末時点で120店舗展開しているほか、埼玉県にセントラルキッチンも保有しています。
-
-松屋フーズHDは傘下企業を通じてラーメン店を11店舗運営しています。松富士の買収を通じてつけ麺分野を拡充し、ラーメン事業の拡大につなげる狙いです。
-
-#ニュース
-
-[2025-12-16 09:01:18](https://bsky.app/profile/nikkei.com/post/3ma2tqpgfs724)
+[2025-12-16 09:22:17](https://bsky.app/profile/japan.reuters.com/post/3ma2uwa6tfp2c)
 
 ---
 
-@reuters.com
+@japan.reuters.com
 
-Israeli forces kill Palestinian teen in West Bank, health ministry says reut.rs/4qhbgI1
+＊この記事は見出しのみの速報です。 bit.ly/4pKyVAA
 
-[2025-12-16 09:01:16](https://bsky.app/profile/reuters.com/post/3ma2tqnh37c2b)
+[2025-12-16 09:21:04](https://bsky.app/profile/japan.reuters.com/post/3ma2uu2hnw72p)
+
+---
+
+@nytimes.com
+
+After his son was repeatedly attacked, Rick Kuehner reached out to his suburban school, to the police and to other parents. The violence only got worse.
+
+[2025-12-16 09:20:02](https://bsky.app/profile/nytimes.com/post/3ma2us7lyz426)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】大型観光バスと軽トラックの事故【香川・まんのう町】
+(2025-12-16 09:08:00) #ニュース
+
+[2025-12-16 09:18:29](https://bsky.app/profile/sokuho.news/post/3ma2upgyure2r)
 
 ---
 
