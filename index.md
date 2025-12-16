@@ -1,9 +1,9 @@
-# [2025-12-17 06:50 updated](2025_12_17.md)
+# [2025-12-17 07:10 updated](2025_12_17.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Breaking: Nick Reiner is facing first-degree murder charges in the deaths of his parents, Rob Reiner and Michele Singer Reiner, the LA County District Attorney announced.   (Edit: The previous post didn't state that prosecutors announced the charges.)   Updates: bit.ly/4q7mWNe <a href="https://bsky.app/profile/usatoday.com/post/3ma54t7cdyk2l" target="_blank">usatoday.com</a> (2025-12-17 06:49:05)</span><span style="padding-right:50px;">JUST IN: Trump expands travel ban to Syrians, Palestinians and others <a href="https://bsky.app/profile/axios.com/post/3ma54s2wxhc23" target="_blank">axios.com</a> (2025-12-17 06:48:27)</span><span style="padding-right:50px;">Nick Reiner has retained famed defense attorney Alan Jackson, known for representing celebrities including Harvey Weinstein and Kevin Spacey in their high-profile criminal trials. on.wsj.com/48EBpdK <a href="https://bsky.app/profile/wsj.com/post/3ma54qgqeij2c" target="_blank">wsj.com</a> (2025-12-17 06:47:32)</span><span style="padding-right:50px;">Hyundai, Kia agree to retrofit 7 million US vehicles to address theft concerns reut.rs/3XVmSUT <a href="https://bsky.app/profile/reuters.com/post/3ma54mguf5q2i" target="_blank">reuters.com</a> (2025-12-17 06:45:18)</span><span style="padding-right:50px;">EU、エンジン車禁止を撤回へ　2035年以降も条件付き販売容認 www.nikkei.com/article/DGXZQO...  EUの執行機関である欧州委員会が2035年にエンジン車の新車販売を原則禁じる目標を撤回する案を発表しました。  製造過程で二酸化炭素（CO2）排出を抑えたEU製の「グリーン鉄鋼」や「先進バイオ燃料」を使うことなどを条件とします。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3ma54mdztar2g" target="_blank">nikkei.com</a> (2025-12-17 06:45:15)</span>
+<span style="padding-right:50px;">米労働省が１６日発表した１１月の雇用統計で、黒人とティーンエイジャー（１６－１９歳）の階層の失業率が急上昇した。経済が軟化する際に最も影響を受けやすい層とされるだけに、エコノミストの間で警戒感が広がっている。 bit.ly/49gC5WU <a href="https://bsky.app/profile/japan.reuters.com/post/3ma55wfdby22v" target="_blank">japan.reuters.com</a> (2025-12-17 07:08:45)</span><span style="padding-right:50px;">Murder charges filed against Nick Reiner for allegedly killing parents <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma55wapoka2r" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-17 07:08:40)</span><span style="padding-right:50px;">JUST IN: Jared Kushner's firm backs out of Paramount's Warner Bros. bid <a href="https://bsky.app/profile/axios.com/post/3ma55vuzdjs2h" target="_blank">axios.com</a> (2025-12-17 07:08:28)</span><span style="padding-right:50px;">President Donald Trump expands a US travel ban by barring nationals of seven more countries including Syria, as well as Palestinian Authority passport holders, from entering the United States ⤵️   u.afp.com/S79J <a href="https://bsky.app/profile/en.afp.com/post/3ma55s5zwrd2h" target="_blank">en.afp.com</a> (2025-12-17 07:06:24)</span><span style="padding-right:50px;">ノーベル平和賞 マチャド氏がけが しばらくノルウェー滞在か https://news.web.nhk/newsweb/na/na-k10015006121000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma55rmif2q2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-17 07:06:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.74 (🔻0.48 : 2025-12-16)</span>
+<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.69 (🔻0.53 : 2025-12-16)</span>
   </div>
 </div>
 
@@ -32,104 +32,97 @@
 
 ## News Headlines
 
-Here are six news headlines in English:
+Here are six headlines in English:
 
-1. Nick Reiner Charged with First-Degree Murder in Parents' Stabbing Deaths
-2. EU Reverses Ban on Engine Cars, Allows Conditional Sales from 2035
-3. US Senators Investigate Data Centers' Impact on Power Bills
-4. Superstar Skier Mikaela Shiffrin Wins Fifth Straight Slalom Title in Courchevel
-5. Petrobras Strike Hits Platforms and Refineries for Second Day
-6. Trump Administration Expands Travel Ban to Include Five More Countries
+1. Murder Charges Filed Against Nick Reiner for Killing Parents
+2. Jared Kushner's Firm Drops Out of Warner Bros. Takeover Bid
+3. Trump Expands US Travel Ban to Seven More Countries
+4. Nick Reiner to Face First-Degree Murder Charges in Parents' Slaying
+5. Tesla Reaches Previous Record High Stock Price
+6. EU to Reconsider Ban on Gas-Powered Cars
 
 ----
 
-@usatoday.com
+@japan.reuters.com
 
-<strong><span style="color: red;">Breaking:</span> Nick Reiner is facing first-degree murder charges in the deaths of his parents, Rob Reiner and Michele Singer Reiner, the LA County District Attorney announced. </strong><br><strong></strong><br><strong>(Edit: The previous post didn't state that prosecutors announced the charges.) </strong><br><strong></strong><br><strong>Updates: bit.ly/4q7mWNe</strong>
+米労働省が１６日発表した１１月の雇用統計で、黒人とティーンエイジャー（１６－１９歳）の階層の失業率が急上昇した。経済が軟化する際に最も影響を受けやすい層とされるだけに、エコノミストの間で警戒感が広がっている。 bit.ly/49gC5WU
 
-[2025-12-17 06:49:05](https://bsky.app/profile/usatoday.com/post/3ma54t7cdyk2l)
+[2025-12-17 07:08:45](https://bsky.app/profile/japan.reuters.com/post/3ma55wfdby22v)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Murder charges filed against Nick Reiner for allegedly killing parents
+
+[2025-12-17 07:08:40](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma55wapoka2r)
 
 ---
 
 @axios.com
 
-<strong><span style="color: red;">JUST IN:</span> Trump expands travel ban to Syrians, Palestinians and others</strong>
+<strong><span style="color: red;">JUST IN:</span> Jared Kushner's firm backs out of Paramount's Warner Bros. bid</strong>
 
-[2025-12-17 06:48:27](https://bsky.app/profile/axios.com/post/3ma54s2wxhc23)
-
----
-
-@wsj.com
-
-Nick Reiner has retained famed defense attorney Alan Jackson, known for representing celebrities including Harvey Weinstein and Kevin Spacey in their high-profile criminal trials. on.wsj.com/48EBpdK
-
-[2025-12-17 06:47:32](https://bsky.app/profile/wsj.com/post/3ma54qgqeij2c)
-
----
-
-@reuters.com
-
-Hyundai, Kia agree to retrofit 7 million US vehicles to address theft concerns reut.rs/3XVmSUT
-
-[2025-12-17 06:45:18](https://bsky.app/profile/reuters.com/post/3ma54mguf5q2i)
-
----
-
-@nikkei.com
-
-EU、エンジン車禁止を撤回へ　2035年以降も条件付き販売容認
-www.nikkei.com/article/DGXZQO...
-
-EUの執行機関である欧州委員会が2035年にエンジン車の新車販売を原則禁じる目標を撤回する案を発表しました。
-
-製造過程で二酸化炭素（CO2）排出を抑えたEU製の「グリーン鉄鋼」や「先進バイオ燃料」を使うことなどを条件とします。
-
-#ニュース
-
-[2025-12-17 06:45:15](https://bsky.app/profile/nikkei.com/post/3ma54mdztar2g)
-
----
-
-@nhknewsunofficial.bsky.social
-
-2025年 音楽ソフト 年間売り上げランキング ことしの1位は？
-https://news.web.nhk/newsweb/na/na-k10015005891000
-
-[2025-12-17 06:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma54m26lxx2y)
-
----
-
-@japan.reuters.com
-
-終盤のニューヨーク外為市場では、ドルが主要通貨に対して下落した。この日発表された米雇用統計は強弱混合の内容となった。 bit.ly/44rbbZO
-
-[2025-12-17 06:44:59](https://bsky.app/profile/japan.reuters.com/post/3ma54lv6d5k2v)
-
----
-
-@bloomberg.com
-
-Three Democratic US senators said they are investigating how data centers are driving up power bills and are demanding answers from big tech firms such as Google and Microsoft.
-
-[2025-12-17 06:44:48](https://bsky.app/profile/bloomberg.com/post/3ma54lkja6z2u)
-
----
-
-@cnn.com
-
-Nick Reiner will be charged with two counts of first-degree murder. He also faces a special allegation of using a knife in the deaths of his parents Rob and Michele Reiner, according to the Los Angeles County district attorney. https://cnn.it/48YPFgm
-
-[2025-12-17 06:44:14](https://bsky.app/profile/cnn.com/post/3ma54kkbhg226)
+[2025-12-17 07:08:28](https://bsky.app/profile/axios.com/post/3ma55vuzdjs2h)
 
 ---
 
 @en.afp.com
 
-Superstar US skier Mikaela Shiffrin continued her ascendancy over the women's slalom in Courchevel on Tuesday night as she swept to a fifth straight victory in the discipline and 105th World Cup win
-🇺🇸  ⛷️ ⤵️ 
-u.afp.com/S79Z
+President Donald Trump expands a US travel ban by barring nationals of seven more countries including Syria, as well as Palestinian Authority passport holders, from entering the United States ⤵️ 
 
-[2025-12-17 06:41:43](https://bsky.app/profile/en.afp.com/post/3ma54fzt3oz2f)
+u.afp.com/S79J
+
+[2025-12-17 07:06:24](https://bsky.app/profile/en.afp.com/post/3ma55s5zwrd2h)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+ノーベル平和賞 マチャド氏がけが しばらくノルウェー滞在か
+https://news.web.nhk/newsweb/na/na-k10015006121000
+
+[2025-12-17 07:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma55rmif2q2w)
+
+---
+
+@wsj.com
+
+Nick Reiner is set to be charged with first-degree murder over the killing of his parents. on.wsj.com/3N4qtNZ
+
+[2025-12-17 07:05:53](https://bsky.app/profile/wsj.com/post/3ma55rardwo2t)
+
+---
+
+@reuters.com
+
+New Rome metro stations showcase ancient treasures after years of delays reut.rs/4p2NZse
+
+[2025-12-17 07:05:17](https://bsky.app/profile/reuters.com/post/3ma55q6s5kf2c)
+
+---
+
+@financialtimes.com
+
+ China property stocks still can’t find a floor ft.trib.al/tTDL4Hl  | opinion
+
+[2025-12-17 07:05:15](https://bsky.app/profile/financialtimes.com/post/3ma55q4pxvt2o)
+
+---
+
+@cnn.com
+
+FIFA slashed the price of some World Cup tickets for teams’ most loyal fans following a global backlash and some will get $60 seats for the final instead of being asked to pay $4,185. https://cnn.it/3KxDwqE
+
+[2025-12-17 07:01:02](https://bsky.app/profile/cnn.com/post/3ma55ilgdzq2k)
+
+---
+
+@reuters.com
+
+Chevron to supply Hungary with 2 billion cubic metres of LNG, minister says reut.rs/4oUcfwn
+
+[2025-12-17 07:00:54](https://bsky.app/profile/reuters.com/post/3ma55ie4yv624)
 
 ---
 
