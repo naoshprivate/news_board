@@ -1,9 +1,9 @@
-# [2025-12-17 01:10 updated](2025_12_17.md)
+# [2025-12-17 01:30 updated](2025_12_17.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">President Donald Trump’s chief of staff, Susie Wiles, delivered a series of unusually candid and at times caustic assessments of the president, his second-term agenda and some of his closest allies in a wide-ranging set of interviews with Vanity Fair. https://cnn.it/4aj1znF <a href="https://bsky.app/profile/cnn.com/post/3ma4jtdyzrr2q" target="_blank">cnn.com</a> (2025-12-17 01:09:09)</span><span style="padding-right:50px;">VIEW Job growth tops expectations in November, retail sales unchanged in October reut.rs/49jPNHB <a href="https://bsky.app/profile/reuters.com/post/3ma4jmgrz3s2k" target="_blank">reuters.com</a> (2025-12-17 01:05:17)</span><span style="padding-right:50px;">The 70-year-old is newly engaged and celebrating the 50th anniversary of her first record deal. Here, she discusses her coffee routine, why she never throws anything away—and why sometimes you just need a good wig. on.wsj.com/4qc6E5O <a href="https://bsky.app/profile/wsj.com/post/3ma4jgydjug23" target="_blank">wsj.com</a> (2025-12-17 01:02:13)</span><span style="padding-right:50px;">The ‘1923’ co-star on the chaos of his youth, living in his car and the breakthrough role that changed his career. on.wsj.com/3KXkxWp <a href="https://bsky.app/profile/wsj.com/post/3ma4jgy66xq2e" target="_blank">wsj.com</a> (2025-12-17 01:02:13)</span><span style="padding-right:50px;"> was under siege — investigated by President Joe Biden's administration and told enforcement action was likely. Then Donald Trump won the 2024 election, and the company’s legal peril dissipated. <a href="https://bsky.app/profile/apnews.com/post/3ma4jfybeph2p" target="_blank">apnews.com</a> (2025-12-17 01:01:40)</span>
+<span style="padding-right:50px;">The European Union proposed watering down rules that would have effectively banned the sale of new combustion-engine cars in the bloc from 2035, after heavy pressure from the automotive industry. <a href="https://bsky.app/profile/wsj.com/post/3ma4kuwaoy62h" target="_blank">wsj.com</a> (2025-12-17 01:27:55)</span><span style="padding-right:50px;">Twelve FBI agents are suing after being fired for kneeling during 2020 protests in Washington D.C. Their attorney told Morning Edition the firings reflect a pattern of partisan leadership. n.pr/48J8LZ6 <a href="https://bsky.app/profile/npr.org/post/3ma4kusaowm2b" target="_blank">npr.org</a> (2025-12-17 01:27:51)</span><span style="padding-right:50px;">UK financial watchdog finds no signs of insider trading around pre-Budget leaks ft.trib.al/KBzZo2Q <a href="https://bsky.app/profile/financialtimes.com/post/3ma4kueiir52o" target="_blank">financialtimes.com</a> (2025-12-17 01:27:36)</span><span style="padding-right:50px;">Nick Reiner, who was arrested in connection with the deaths of his parents Rob and Michele Reiner, had openly discussed his battles with drugs and his volatile behavior in interviews.   Read more: nyti.ms/3L2iErC <a href="https://bsky.app/profile/nytimes.com/post/3ma4kqyfem52s" target="_blank">nytimes.com</a> (2025-12-17 01:25:43)</span><span style="padding-right:50px;">EU races to win over Italy on Mercosur trade deal, says EU lawmaker reut.rs/49dHmP0 <a href="https://bsky.app/profile/reuters.com/post/3ma4kqbempe2k" target="_blank">reuters.com</a> (2025-12-17 01:25:19)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48244.41 (🔻135.76 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23021.69 (🔺39.87 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 176.44 (🔺0.18 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.90 (🔻0.32 : 2025-12-16)</span>
+<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48162.83 (🔻217.34 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 22970.58 (🔻11.24 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 175.92 (🔻0.34 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.80 (🔻0.42 : 2025-12-16)</span>
   </div>
 </div>
 
@@ -32,94 +32,96 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are six important story headlines:
 
-1. US Job Growth Tops Expectations in November, Retail Sales Unchanged in October
-2. FDA Sends Warning Letters to Retailers for Selling Recalled Baby Formula
-3. Donald Trump Sues BBC for $10 Billion Over Documentary Implying He Incited Violence
-4. UK's FTSE 100 Falls as Oil and Defence Stocks Weigh, Domestic Unemployment Climbs
-5. Scientists Warn of Up to 4,000 Glaciers Melting Annually if Global Warming is Not Curbed
-6. Kylian Mbappe Owed €60 Million in Unpaid Salary and Bonuses by Paris Saint-Germain
+1. EU Walks Back 2035 Ban on New Petrol and Diesel Cars
+2. FBI Agents Sue After Being Fired for Kneeling During 2020 Protests
+3. Warning Letters Sent to Retailers for Selling Recalled Baby Formula
+4. Trump Sues BBC for $10 Billion Over Documentary on January 6 Attack
+5. Job Growth Tops Expectations in November, Retail Sales Unchanged
+6. India Police Say Family of Bondi Gunman Didn't Know of Radical Mindset
 
 ----
 
-@cnn.com
+@wsj.com
 
-President Donald Trump’s chief of staff, Susie Wiles, delivered a series of unusually candid and at times caustic assessments of the president, his second-term agenda and some of his closest allies in a wide-ranging set of interviews with Vanity Fair. https://cnn.it/4aj1znF
+The European Union proposed watering down rules that would have effectively banned the sale of new combustion-engine cars in the bloc from 2035, after heavy pressure from the automotive industry.
 
-[2025-12-17 01:09:09](https://bsky.app/profile/cnn.com/post/3ma4jtdyzrr2q)
+[2025-12-17 01:27:55](https://bsky.app/profile/wsj.com/post/3ma4kuwaoy62h)
+
+---
+
+@npr.org
+
+Twelve FBI agents are suing after being fired for kneeling during 2020 protests in Washington D.C. Their attorney told Morning Edition the firings reflect a pattern of partisan leadership. n.pr/48J8LZ6
+
+[2025-12-17 01:27:51](https://bsky.app/profile/npr.org/post/3ma4kusaowm2b)
+
+---
+
+@financialtimes.com
+
+UK financial watchdog finds no signs of insider trading around pre-Budget leaks ft.trib.al/KBzZo2Q
+
+[2025-12-17 01:27:36](https://bsky.app/profile/financialtimes.com/post/3ma4kueiir52o)
+
+---
+
+@nytimes.com
+
+Nick Reiner, who was arrested in connection with the deaths of his parents Rob and Michele Reiner, had openly discussed his battles with drugs and his volatile behavior in interviews. 
+
+Read more: nyti.ms/3L2iErC
+
+[2025-12-17 01:25:43](https://bsky.app/profile/nytimes.com/post/3ma4kqyfem52s)
 
 ---
 
 @reuters.com
 
-VIEW Job growth tops expectations in November, retail sales unchanged in October reut.rs/49jPNHB
+EU races to win over Italy on Mercosur trade deal, says EU lawmaker reut.rs/49dHmP0
 
-[2025-12-17 01:05:17](https://bsky.app/profile/reuters.com/post/3ma4jmgrz3s2k)
-
----
-
-@wsj.com
-
-The 70-year-old is newly engaged and celebrating the 50th anniversary of her first record deal. Here, she discusses her coffee routine, why she never throws anything away—and why sometimes you just need a good wig. on.wsj.com/4qc6E5O
-
-[2025-12-17 01:02:13](https://bsky.app/profile/wsj.com/post/3ma4jgydjug23)
-
----
-
-@wsj.com
-
-The ‘1923’ co-star on the chaos of his youth, living in his car and the breakthrough role that changed his career. on.wsj.com/3KXkxWp
-
-[2025-12-17 01:02:13](https://bsky.app/profile/wsj.com/post/3ma4jgy66xq2e)
-
----
-
-@apnews.com
-
- was under siege — investigated by President Joe Biden's administration and told enforcement action was likely. Then Donald Trump won the 2024 election, and the company’s legal peril dissipated.
-
-[2025-12-17 01:01:40](https://bsky.app/profile/apnews.com/post/3ma4jfybeph2p)
-
----
-
-@reuters.com
-
-Indian family of alleged Bondi gunman didn't know of 'radical mindset', Indian police say reut.rs/3KU2yjC
-
-[2025-12-17 01:01:15](https://bsky.app/profile/reuters.com/post/3ma4jfaccy52r)
-
----
-
-@nbcnews.com
-
-The U.S. FDA has sent warning letters to four major retailers for continuing to sell baby formula linked to a nationwide outbreak of bacterial illness in infants, even after the products were recalled, the health regulator’s website shows.
-
-[2025-12-17 01:01:01](https://bsky.app/profile/nbcnews.com/post/3ma4jesybqm2u)
+[2025-12-17 01:25:19](https://bsky.app/profile/reuters.com/post/3ma4kqbempe2k)
 
 ---
 
 @japan.reuters.com
 
-Ｓ＆Ｐグローバルが１６日発表した英国の１２月総合購買担当者景気指数（ＰＭＩ）速報値は５２．１で、１１月の５１．２から上昇した。国内企業は、財務相が１１月下旬に発表した予算案による増税への懸念から脱しつつあるもようだ。 bit.ly/4pLus0w
+米労働省が１６日発表した雇用統計によると、非農業部門雇用者数は１０月に政府支出削減の影響で減少した後、１１月には回復した。１１月の失業率は労働市場の弱含みで４．６％となった。 bit.ly/48H5FEX
 
-[2025-12-17 01:00:56](https://bsky.app/profile/japan.reuters.com/post/3ma4jenxawm2c)
-
----
-
-@washingtonpost.com
-
-The FDA sent stern warning letters to Walmart, Target and other retail giants after its investigators found they had kept baby formula on store shelves even after the product had been recalled due to its links to an outbreak of infant botulism.
-
-[2025-12-17 01:00:40](https://bsky.app/profile/washingtonpost.com/post/3ma4je6rj762y)
+[2025-12-17 01:20:33](https://bsky.app/profile/japan.reuters.com/post/3ma4khqv6i72q)
 
 ---
 
-@usatoday.com
+@nbcnews.com
 
-In 1971, Rob Reiner and Anthony Geary were on an episode of "All in the Family" together. Five decades later, both would die on the same day.
+Newly emerged dashcam video shows two bystanders confronting one of the gunmen during the deadly shooting at Bondi Beach in Sydney, Australia. The couple, identified in Australian media as Boris and Sofia Gurman, did not survive the attack but are being hailed as heroes for their bravery.
 
-[2025-12-17 01:00:23](https://bsky.app/profile/usatoday.com/post/3ma4jdok24q2f)
+[2025-12-17 01:20:17](https://bsky.app/profile/nbcnews.com/post/3ma4khbcjvt23)
+
+---
+
+@forbes.com
+
+ Churches around the country are protesting ICE raids using Christmas nativity scenes. DHS isn’t amused. 
+
+[2025-12-17 01:20:04](https://bsky.app/profile/forbes.com/post/3ma4kgvqh4e2w)
+
+---
+
+@cnn.com
+
+New dashcam footage shows a couple tackling one of the Bondi Beach shooters before the attack began. CNN's Senior International Correspondent Will Ripley reports. https://cnn.it/3MPmGEd
+
+[2025-12-17 01:19:43](https://bsky.app/profile/cnn.com/post/3ma4kgbrofu22)
+
+---
+
+@en.afp.com
+
+<strong><span style="color: red;">#BREAKING</span> EU walks back 2035 ban on new petrol and diesel cars to boost auto industry</strong>
+
+[2025-12-17 01:16:51](https://bsky.app/profile/en.afp.com/post/3ma4kb4usav26)
 
 ---
 
