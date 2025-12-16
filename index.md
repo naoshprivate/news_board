@@ -1,9 +1,9 @@
-# [2025-12-16 22:10 updated](2025_12_16.md)
+# [2025-12-16 22:30 updated](2025_12_16.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Bullish investors pile into stocks as cash levels sink to record low ft.trib.al/2anrfB2 <a href="https://bsky.app/profile/financialtimes.com/post/3ma47sbhva72k" target="_blank">financialtimes.com</a> (2025-12-16 22:09:35)</span><span style="padding-right:50px;">ロシア大統領府のペスコフ報道官は１６日、ウクライナが提案したクリスマス停戦について、和平協定が成立するかどうかにかかっていると述べた。 bit.ly/3KTN4fE <a href="https://bsky.app/profile/japan.reuters.com/post/3ma47korrbo26" target="_blank">japan.reuters.com</a> (2025-12-16 22:05:20)</span><span style="padding-right:50px;">'Shadow banking' growing at double the rate of traditional lenders, FSB says reut.rs/490Iy73 <a href="https://bsky.app/profile/reuters.com/post/3ma47kij2cy2i" target="_blank">reuters.com</a> (2025-12-16 22:05:14)</span><span style="padding-right:50px;">Bank of America says this hotel stock will be a winner because of the World Cup <a href="https://bsky.app/profile/cnbc.com/post/3ma47jpe5jj2e" target="_blank">cnbc.com</a> (2025-12-16 22:04:48)</span><span style="padding-right:50px;">A data breach at e-commerce company Coupang exposed the personal information of tens of millions of South Koreans and went undetected for nearly five months. <a href="https://bsky.app/profile/wsj.com/post/3ma47fsn7j52c" target="_blank">wsj.com</a> (2025-12-16 22:02:36)</span>
+<span style="padding-right:50px;">Ford recalls nearly 32,000 vehicles, NHTSA says reut.rs/3N44qa8 <a href="https://bsky.app/profile/reuters.com/post/3ma4ao6bhee2i" target="_blank">reuters.com</a> (2025-12-16 22:25:11)</span><span style="padding-right:50px;">The U.S. military struck three boats it suspected of carrying drugs in the eastern Pacific on Monday, killing eight people, the U.S. Southern Command announced. <a href="https://bsky.app/profile/nytimes.com/post/3ma4anwbogj2x" target="_blank">nytimes.com</a> (2025-12-16 22:25:03)</span><span style="padding-right:50px;">ホンダは１６日、自動車部品メーカーのＡｓｔｅｍｏ（アステモ）を連結子会社化すると発表した。日立製作所から２１％を１５２３億円で追加取得し、出資比率を６１％へ引き上げる。ソフトウエアに強いアステモとの連携を強化し、自動運転やＳＤＶ（機能や価値をソフトウェアで更新する車）の開発を加速。新規株式公開（ＩＰＯ）を視野に入れる。 bit.ly/44Yr2z6 <a href="https://bsky.app/profile/japan.reuters.com/post/3ma4ak27bwv27" target="_blank">japan.reuters.com</a> (2025-12-16 22:22:53)</span><span style="padding-right:50px;">The driver who plowed into fans celebrating Liverpool’s Premier League championship in May has been sentenced to over 20 years in prison. <a href="https://bsky.app/profile/apnews.com/post/3ma4agslqs72q" target="_blank">apnews.com</a> (2025-12-16 22:21:04)</span><span style="padding-right:50px;">Nick Reiner had been disruptive at a holiday party Saturday with his parents, Rob Reiner and Michele Singer Reiner, according to two people familiar with the situation, just hours before they were found dead in their Los Angeles home. <a href="https://bsky.app/profile/nbcnews.com/post/3ma4afkrhfr2k" target="_blank">nbcnews.com</a> (2025-12-16 22:20:22)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.60 (🔻0.62 : 2025-12-16)</span>
+<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.48 (🔻0.74 : 2025-12-16)</span>
   </div>
 </div>
 
@@ -32,101 +32,94 @@
 
 ## News Headlines
 
-Here are six important stories with headlines:
+Here are six news headlines in English:
 
-1. Russia's Presidential Spokesman Raises Doubts on Ukraine's Proposed Christmas Truce
-2. LA Wildfires Cause $40 Billion in Insured Losses, Becoming Costliest Disaster of Its Kind
-3. US Forces Kill 8 Suspected Drug Smugglers in Eastern Pacific, Bringing Death Toll to 95
-4. Medline's Long-Delayed IPO on Track to Raise $7.5 Billion, Largest Listing of the Year
-5. Paris Saint-Germain Ordered to Pay €60 Million to Kylian Mbappé in Wage Dispute
-6. US to Seize More Sanctioned Oil-Filled Tankers Off Venezuela as Pressure Campaign Escalates
+1. U.S. military strikes three boats, killing eight suspected drug smugglers in eastern Pacific
+2. Japan passes $118 billion extra budget to fund post-COVID stimulus
+3. Benin jails 30 people for links to thwarted coup attempt
+4. Russia's presidential spokesperson says Ukraine's Christmas ceasefire proposal is uncertain
+5. 'Shadow banking' growing at double the rate of traditional lenders, FSB says
+6. LA wildfires cause $40 billion in insured losses, making it the costliest disaster of its kind
 
 ----
 
-@financialtimes.com
+@reuters.com
 
-Bullish investors pile into stocks as cash levels sink to record low ft.trib.al/2anrfB2
+Ford recalls nearly 32,000 vehicles, NHTSA says reut.rs/3N44qa8
 
-[2025-12-16 22:09:35](https://bsky.app/profile/financialtimes.com/post/3ma47sbhva72k)
+[2025-12-16 22:25:11](https://bsky.app/profile/reuters.com/post/3ma4ao6bhee2i)
+
+---
+
+@nytimes.com
+
+The U.S. military struck three boats it suspected of carrying drugs in the eastern Pacific on Monday, killing eight people, the U.S. Southern Command announced.
+
+[2025-12-16 22:25:03](https://bsky.app/profile/nytimes.com/post/3ma4anwbogj2x)
 
 ---
 
 @japan.reuters.com
 
-ロシア大統領府のペスコフ報道官は１６日、ウクライナが提案したクリスマス停戦について、和平協定が成立するかどうかにかかっていると述べた。 bit.ly/3KTN4fE
+ホンダは１６日、自動車部品メーカーのＡｓｔｅｍｏ（アステモ）を連結子会社化すると発表した。日立製作所から２１％を１５２３億円で追加取得し、出資比率を６１％へ引き上げる。ソフトウエアに強いアステモとの連携を強化し、自動運転やＳＤＶ（機能や価値をソフトウェアで更新する車）の開発を加速。新規株式公開（ＩＰＯ）を視野に入れる。 bit.ly/44Yr2z6
 
-[2025-12-16 22:05:20](https://bsky.app/profile/japan.reuters.com/post/3ma47korrbo26)
+[2025-12-16 22:22:53](https://bsky.app/profile/japan.reuters.com/post/3ma4ak27bwv27)
+
+---
+
+@apnews.com
+
+The driver who plowed into fans celebrating Liverpool’s Premier League championship in May has been sentenced to over 20 years in prison.
+
+[2025-12-16 22:21:04](https://bsky.app/profile/apnews.com/post/3ma4agslqs72q)
+
+---
+
+@nbcnews.com
+
+Nick Reiner had been disruptive at a holiday party Saturday with his parents, Rob Reiner and Michele Singer Reiner, according to two people familiar with the situation, just hours before they were found dead in their Los Angeles home.
+
+[2025-12-16 22:20:22](https://bsky.app/profile/nbcnews.com/post/3ma4afkrhfr2k)
 
 ---
 
 @reuters.com
 
-'Shadow banking' growing at double the rate of traditional lenders, FSB says reut.rs/490Iy73
+Japan passes $118 billion extra budget to fund its biggest post-COVID stimulus reut.rs/4qcej47
 
-[2025-12-16 22:05:14](https://bsky.app/profile/reuters.com/post/3ma47kij2cy2i)
+[2025-12-16 22:15:17](https://bsky.app/profile/reuters.com/post/3ma4a4ibjuv2k)
 
 ---
 
 @cnbc.com
 
-Bank of America says this hotel stock will be a winner because of the World Cup
+Jobs data, Tesla's rally, tariff revenue hits $200 billion and more in Morning Squawk in Morning Squawk
 
-[2025-12-16 22:04:48](https://bsky.app/profile/cnbc.com/post/3ma47jpe5jj2e)
-
----
-
-@wsj.com
-
-A data breach at e-commerce company Coupang exposed the personal information of tens of millions of South Koreans and went undetected for nearly five months.
-
-[2025-12-16 22:02:36](https://bsky.app/profile/wsj.com/post/3ma47fsn7j52c)
+[2025-12-16 22:14:52](https://bsky.app/profile/cnbc.com/post/3ma4a3qbkce2x)
 
 ---
 
-@nikkei.com
+@en.afp.com
 
-AIが生む格差「速い政府」で対応　チームみらい・安野貴博党首
-www.nikkei.com/article/DGXZQO...
+Benin on Tuesday jailed around 30 people, most of them soldiers, accused of links to a thwarted coup attempt earlier this month, legal sources told AFP ➡️ u.afp.com/S7Vf
 
-社会保障は実額ではなく「インフレ率と連動して再分配を実現するパラメーター（変数）」ベースを想定。
-
-ベーシックインカムには賛成の立場を示します。
-
-#超知能 #日経_連載
-
-[2025-12-16 22:01:19](https://bsky.app/profile/nikkei.com/post/3ma47di5aaf2f)
-
----
-
-@cnn.com
-
-When a cache of photos seized from Jeffrey Epstein's Gmail account and laptop was made public last week, one in particular stopped Dani Bensky in her tracks. https://cnn.it/3YvLGTy
-
-[2025-12-16 22:01:02](https://bsky.app/profile/cnn.com/post/3ma47cyp2pk2x)
+[2025-12-16 22:11:01](https://bsky.app/profile/en.afp.com/post/3ma47uttkib2d)
 
 ---
 
 @reuters.com
 
-Thai central bank is 'taking action' on baht, worried by rapid rise reut.rs/4s0uF1i
+Japanese firms to get more control in LNG JVs with state-backed group reut.rs/4iZl3zG
 
-[2025-12-16 22:01:02](https://bsky.app/profile/reuters.com/post/3ma47cym25b23)
-
----
-
-@usatoday.com
-
-Days after saying he's "100% fine" following an apparent overdose from smoking crack cocaine, Andy Dick checked into a facility in Palm Springs.
-
-[2025-12-16 22:00:52](https://bsky.app/profile/usatoday.com/post/3ma47cof46g2o)
+[2025-12-16 22:10:16](https://bsky.app/profile/reuters.com/post/3ma47tio67k2o)
 
 ---
 
-@cnbc.com
+@nytimes.com
 
-Travel nurse Aspen Tucker has been able to achieve financial goals by earning a high salary and residing in a state with a low cost of living.
+President Trump announced on Monday night that his eldest son, Donald Jr., is engaged to Bettina Anderson, a Palm Beach socialite.
 
-[2025-12-16 22:00:48](https://bsky.app/profile/cnbc.com/post/3ma47ckzbef2y)
+[2025-12-16 22:10:05](https://bsky.app/profile/nytimes.com/post/3ma47t5pis52r)
 
 ---
 
