@@ -1,9 +1,9 @@
-# [2025-12-16 13:10 updated](2025_12_16.md)
+# [2025-12-16 13:30 updated](2025_12_16.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">津波予報区 都道府県に複数予報区ある場合 自治体名など併記へ https://news.web.nhk/newsweb/na/na-k10015005291000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3blqwph724" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 13:09:02)</span><span style="padding-right:50px;">＜１２：５１＞　後場の日経平均は軟調継続、一時800円超安　ＡＩ関連の下げ重し bit.ly/4oVLZlg <a href="https://bsky.app/profile/japan.reuters.com/post/3ma3blkguzi2n" target="_blank">japan.reuters.com</a> (2025-12-16 13:08:57)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】将棋・福間香奈女流六冠「よりよい環境整備がなされることを切に希望致します」とコメント 日本将棋連盟が”出産”で事実上「不戦敗」となるタイトル戦の”産休規定”の削除決定を受け (2025-12-16 12:50) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma3bkuarnt25" target="_blank">sokuho.news</a> (2025-12-16 13:08:34)</span><span style="padding-right:50px;">スリランカのセンサス統計庁が１５日発表した第３・四半期の国内総生産（ＧＤＰ）は前年同期比で５．４％増加した。２０２２年にピークに達した数十年で最悪の金融危機からの回復が続いていることが示された。 bit.ly/3KNbiZ0 <a href="https://bsky.app/profile/japan.reuters.com/post/3ma3betew3x2s" target="_blank">japan.reuters.com</a> (2025-12-16 13:05:12)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】妊娠出産めぐる将棋連盟の「対局者変更」規定削除を受け 福間女流六冠と弁護団がコメント (2025-12-16 13:01:29) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma3bbj3hlk2e" target="_blank">sokuho.news</a> (2025-12-16 13:03:20)</span>
+<span style="padding-right:50px;">米プロバスケットボール協会（ＮＢＡ）は１５日、各地で試合を行い、東地区首位のピストンズは同３位のセルティックスとの上位対決を１１２─１０５で制し、連勝を４に伸ばした。 bit.ly/44Qs8x1 <a href="https://bsky.app/profile/japan.reuters.com/post/3ma3cnq65mr2n" target="_blank">japan.reuters.com</a> (2025-12-16 13:28:04)</span><span style="padding-right:50px;">ニュージーランド（ＮＺ）政府は１６日、新たな財政予測を公表し、財政収支が今後５年間で黒字に戻る見込みはないとの見通しを示した。 bit.ly/4qcrdz8 <a href="https://bsky.app/profile/japan.reuters.com/post/3ma3cluhbv22c" target="_blank">japan.reuters.com</a> (2025-12-16 13:27:01)</span><span style="padding-right:50px;">米半導体大手エヌビディアは１５日、人工知能（ＡＩ）の新しい基盤モデルを公開した。モデルの技術的な詳細を公開する「オープンソース」タイプで、同社の従来のモデルより処理速度が速く、低コストで賢いという。 bit.ly/3KYVy5b <a href="https://bsky.app/profile/japan.reuters.com/post/3ma3cikyenr2q" target="_blank">japan.reuters.com</a> (2025-12-16 13:25:11)</span><span style="padding-right:50px;">ローマ字表記 約70年ぶり見直し 「訓令式」から「ヘボン式」に https://news.web.nhk/newsweb/na/na-k10015005321000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3cbamqyr2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 13:21:02)</span><span style="padding-right:50px;">Britain clinches upgraded South Korea trade deal reut.rs/4oUXHg4 <a href="https://bsky.app/profile/reuters.com/post/3ma3ca3nsyb2o" target="_blank">reuters.com</a> (2025-12-16 13:20:26)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49601.38 (🔻449.86 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3341.00 (🔻39.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.88 (🔻0.34 : 2025-12-16)</span>
+<span style="padding-right:50px;">NIKKEI: 49495.55 (🔻555.69 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3336.00 (🔻44.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.80 (🔻0.42 : 2025-12-16)</span>
   </div>
 </div>
 
@@ -32,111 +32,96 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are six news headlines in English:
 
-1. Japan's Nikkei Index Falls Below 8,000 Yen Amid AI-Related Sell-Off
-2. Slumping Stock Market: Chipmaker Shares Plummet Amid Global Economic Uncertainty
-3. Philippines Condemns China Coast Guard for 'Dangerous and Inhumane' Behavior Against Filipino Fishermen
-4. US Stocks Plummet Amid Semiconductor-Related Sell-Off, Nikkei Index Falls Below 8,000 Yen
-5. Ford Announces $1.95 Billion impairment Charge, Cuts 7 Electric Vehicle Models
-6. Pentagon Escalates Review of Sen. Mark Kelly Over Video Urging Defiance of Illegal Orders
+1. Michigan Pistons Extend Winning Streak to Four with Victory Over Celtics
+2. New Zealand Government Sees No Hope of Returning to Fiscal Surplus in Next Five Years
+3. NVIDIA Unveils New AI Model with Faster Processing Speed and Lower Cost
+4. UK and South Korea Agree on Upgraded Trade Deal
+5. Belarus President Lukashenko Welcomes Venezuelan Leader Maduro's Potential Resignation
+6. US Announces Plans to Regulate Deepfakes Created by AI
 
 ----
 
+@japan.reuters.com
+
+米プロバスケットボール協会（ＮＢＡ）は１５日、各地で試合を行い、東地区首位のピストンズは同３位のセルティックスとの上位対決を１１２─１０５で制し、連勝を４に伸ばした。 bit.ly/44Qs8x1
+
+[2025-12-16 13:28:04](https://bsky.app/profile/japan.reuters.com/post/3ma3cnq65mr2n)
+
+---
+
+@japan.reuters.com
+
+ニュージーランド（ＮＺ）政府は１６日、新たな財政予測を公表し、財政収支が今後５年間で黒字に戻る見込みはないとの見通しを示した。 bit.ly/4qcrdz8
+
+[2025-12-16 13:27:01](https://bsky.app/profile/japan.reuters.com/post/3ma3cluhbv22c)
+
+---
+
+@japan.reuters.com
+
+米半導体大手エヌビディアは１５日、人工知能（ＡＩ）の新しい基盤モデルを公開した。モデルの技術的な詳細を公開する「オープンソース」タイプで、同社の従来のモデルより処理速度が速く、低コストで賢いという。 bit.ly/3KYVy5b
+
+[2025-12-16 13:25:11](https://bsky.app/profile/japan.reuters.com/post/3ma3cikyenr2q)
+
+---
+
 @nhknewsunofficial.bsky.social
 
-津波予報区 都道府県に複数予報区ある場合 自治体名など併記へ
-https://news.web.nhk/newsweb/na/na-k10015005291000
+ローマ字表記 約70年ぶり見直し 「訓令式」から「ヘボン式」に
+https://news.web.nhk/newsweb/na/na-k10015005321000
 
-[2025-12-16 13:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3blqwph724)
-
----
-
-@japan.reuters.com
-
-＜１２：５１＞　後場の日経平均は軟調継続、一時800円超安　ＡＩ関連の下げ重し bit.ly/4oVLZlg
-
-[2025-12-16 13:08:57](https://bsky.app/profile/japan.reuters.com/post/3ma3blkguzi2n)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】将棋・福間香奈女流六冠「よりよい環境整備がなされることを切に希望致します」とコメント 日本将棋連盟が”出産”で事実上「不戦敗」となるタイトル戦の”産休規定”の削除決定を受け
-(2025-12-16 12:50) #ニュース
-
-[2025-12-16 13:08:34](https://bsky.app/profile/sokuho.news/post/3ma3bkuarnt25)
-
----
-
-@japan.reuters.com
-
-スリランカのセンサス統計庁が１５日発表した第３・四半期の国内総生産（ＧＤＰ）は前年同期比で５．４％増加した。２０２２年にピークに達した数十年で最悪の金融危機からの回復が続いていることが示された。 bit.ly/3KNbiZ0
-
-[2025-12-16 13:05:12](https://bsky.app/profile/japan.reuters.com/post/3ma3betew3x2s)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】妊娠出産めぐる将棋連盟の「対局者変更」規定削除を受け 福間女流六冠と弁護団がコメント
-(2025-12-16 13:01:29) #ニュース
-
-[2025-12-16 13:03:20](https://bsky.app/profile/sokuho.news/post/3ma3bbj3hlk2e)
-
----
-
-@cnn.com
-
-The House Oversight Committee is offering former President Bill Clinton and former Secretary of State Hillary Clinton new deposition dates in January as part of the panel’s investigation into Jeffrey Epstein – and threatening the possibility of contempt proceedings if they do not comply.
-
-[2025-12-16 13:02:01](https://bsky.app/profile/cnn.com/post/3ma3b75mdrp26)
-
----
-
-@nikkei.com
-
-千葉県のメタバース婚活「ちばメタ婚」、3Dから2Dに（無料記事）
-www.nikkei.com/article/DGXZQO...
-
-立体的だった仮想空間やアバターを、昔のRPGのようなデザインに。パソコンだけでなくスマホにも対応し、参加しやすくする狙いです。
-
-女性参加者が1人だった前回からの挽回を期します。
-
-[2025-12-16 13:01:18](https://bsky.app/profile/nikkei.com/post/3ma3b5u5o3x22)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】将棋・福間香奈女流六冠「よりよい環境整備がなされることを切に希望致します」とコメント 日本将棋連盟が”出産”で事実上「不戦敗」となるタイトル戦の”産休規定”を削除したこと…
-(2025-12-16 12:50) #ニュース
-
-[2025-12-16 13:00:50](https://bsky.app/profile/sokuho.news/post/3ma3b52cape2e)
-
----
-
-@cnbc.com
-
-Dick Van Dyke is officially a centenarian!
-
-Here are three research-backed staples in his routine that he credits for his 100 years of life.
-
-[2025-12-16 13:00:49](https://bsky.app/profile/cnbc.com/post/3ma3b4yr2fd2p)
+[2025-12-16 13:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3cbamqyr2w)
 
 ---
 
 @reuters.com
 
-Intel appoints Trump economic adviser as head of government affairs reut.rs/4pFS6M1
+Britain clinches upgraded South Korea trade deal reut.rs/4oUXHg4
 
-[2025-12-16 13:00:45](https://bsky.app/profile/reuters.com/post/3ma3b4vlilm2r)
+[2025-12-16 13:20:26](https://bsky.app/profile/reuters.com/post/3ma3ca3nsyb2o)
+
+---
+
+@japan.reuters.com
+
+王子ホールディングスは１６日、発行済み株式の９．０％に当たる８２００万株・５００億円を上限とする自社株買いを決議したと発表した。取得期間は１７日から２０２６年１２月１６日。 bit.ly/3YuGGyt
+
+[2025-12-16 13:20:20](https://bsky.app/profile/japan.reuters.com/post/3ma3c7vdcfv2q)
+
+---
+
+@nytimes.com
+
+Eleven days after hastily shutting down because of a damaged water pipe, hotels on the Grand Canyon’s South Rim are set to welcome guests again starting on Wednesday, the National Park Service said on Monday.
+
+[2025-12-16 13:20:04](https://bsky.app/profile/nytimes.com/post/3ma3c7gihei2r)
+
+---
+
+@japan.reuters.com
+
+ベラルーシのルカシェンコ大統領は１５日、ベネズエラのマドゥロ大統領が退陣した場合、ベラルーシへの移住を歓迎するが、同氏とそうした協議は行っていないと述べた。米ニュースマックスのインタビューで語った。 bit.ly/48TDh11
+
+[2025-12-16 13:19:01](https://bsky.app/profile/japan.reuters.com/post/3ma3c5kcm5f2q)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+自民 生成AI「ディープフェイク」の規制 来月にも政府に提言へ
+https://news.web.nhk/newsweb/na/na-k10015005301000
+
+[2025-12-16 13:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3c3unipb2k)
+
+---
+
+@financialtimes.com
+
+‘In terms of security guarantee … we’re working with Europe on it,’ the US president said just hours after officials from Ukraine, Germany and the US claimed progress in drafting a deal to end Russia’s invasion. on.ft.com/4qdskhX
+
+[2025-12-16 13:15:26](https://bsky.app/profile/financialtimes.com/post/3ma3bx5cwpo2k)
 
 ---
 
