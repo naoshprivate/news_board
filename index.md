@@ -1,9 +1,9 @@
-# [2025-12-17 05:50 updated](2025_12_17.md)
+# [2025-12-17 06:10 updated](2025_12_17.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Two people were killed and nine were injured in a shooting on Saturday at Brown University. After determining that a man they had detained was not the killer, Rhode Island officials have searched for more evidence. Here's a timeline as the manhunt continues. <a href="https://bsky.app/profile/nytimes.com/post/3ma4zg4r7hb2z" target="_blank">nytimes.com</a> (2025-12-17 05:48:05)</span><span style="padding-right:50px;">政府「メガソーラー」新規事業への支援を廃止へ 2027年度以降 https://news.web.nhk/newsweb/na/na-k10015006001000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma4zg55rwe2y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-17 05:48:03)</span><span style="padding-right:50px;">U.S. business activity growth hits 6-month low in December reut.rs/4p9pBW0 <a href="https://bsky.app/profile/reuters.com/post/3ma4zbb4vw42o" target="_blank">reuters.com</a> (2025-12-17 05:45:21)</span><span style="padding-right:50px;">Documents released by Congress shed new light on Jeffrey Epstein's role in an attempt to help billionaire Leon Black squelch an accusation of sexual impropriety.    <a href="https://bsky.app/profile/cbsnews.com/post/3ma4zamyveb2l" target="_blank">cbsnews.com</a> (2025-12-17 05:45:00)</span><span style="padding-right:50px;">Tesla stock hits record as Wall Street rallies around robotaxi hype despite slow EV sales <a href="https://bsky.app/profile/cnbc.com/post/3ma4z3ykhvc24" target="_blank">cnbc.com</a> (2025-12-17 05:42:25)</span>
+<span style="padding-right:50px;">Flu Rates Are Soaring. A Doctor Shares How To Stay Healthy During Holiday Travel www.forbes.com/sites/ninash... (Photo: Getty Images) <a href="https://bsky.app/profile/forbes.com/post/3ma52mc3vuc24" target="_blank">forbes.com</a> (2025-12-17 06:09:25)</span><span style="padding-right:50px;">Trump supported his chief of staff Susie Wiles today, even after her Vanity Fair interviews offered a startling portrait of his second White House term. <a href="https://bsky.app/profile/axios.com/post/3ma52ldza7225" target="_blank">axios.com</a> (2025-12-17 06:08:54)</span><span style="padding-right:50px;">NFL Playoff Race 2025: Who Has The Toughest Path Forward? www.forbes.com/sites/mikest... (Photo: Todd Kirkland/Getty Images) <a href="https://bsky.app/profile/forbes.com/post/3ma52kw2wx224" target="_blank">forbes.com</a> (2025-12-17 06:08:39)</span><span style="padding-right:50px;">President Donald Trump’s approval rating decreased two points in the latest Reuters/Ipsos survey released Tuesday amid persistent discontent with his handling of the economy.  Read more: www.forbes.com/sites/sarado... (Photo: AFP via Getty Images) <a href="https://bsky.app/profile/forbes.com/post/3ma52jmiqk224" target="_blank">forbes.com</a> (2025-12-17 06:07:56)</span><span style="padding-right:50px;">再審制度見直し 証拠開示の対象 “関連する証拠”検討へ https://news.web.nhk/newsweb/na/na-k10015005931000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma52gcc7nk2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-17 06:06:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48169.18 (🔻210.99 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23144.06 (🔺162.24 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.82 (🔺1.57 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.68 (🔻0.54 : 2025-12-16)</span>
+<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.73 (🔻0.49 : 2025-12-16)</span>
   </div>
 </div>
 
@@ -32,97 +32,101 @@
 
 ## News Headlines
 
-Here are the six news headlines:
+Here are six important stories with headlines in English:
 
-1. Rhode Island Officials Release New Image of Person of Interest in Brown University Shooting
+1. Trump to Interview Christopher Waller for Federal Reserve Chair
 2. US Business Activity Growth Hits 6-Month Low in December
-3. Tesla Stock Hits Record as Wall Street Rallies Around Robotaxi Hype
-4. Venezuela Faces Big Oil Discounts and Pressure for Contract Changes
-5. US Muslim Group Sues Florida's DeSantis Over 'Terrorism' Designation
-6. Plans to Ban New Combustion Engine Cars in EU by 2035 Thrown into Turmoil
+3. Prosecutors Open Homicide Investigation into MIT Professor's Death
+4. Ford's EV Retreat Highlights Industry Dilemma: Build for the US or the World?
+5. Venezuela Faces Big Oil Discounts and Pressure for Contract Changes
+6. Tesla Stock Hits Record as Wall Street Rallies Around Robotaxi Hype
 
 ----
 
-@nytimes.com
+@forbes.com
 
-Two people were killed and nine were injured in a shooting on Saturday at Brown University. After determining that a man they had detained was not the killer, Rhode Island officials have searched for more evidence. Here's a timeline as the manhunt continues.
+Flu Rates Are Soaring. A Doctor Shares How To Stay Healthy During Holiday Travel www.forbes.com/sites/ninash... (Photo: Getty Images)
 
-[2025-12-17 05:48:05](https://bsky.app/profile/nytimes.com/post/3ma4zg4r7hb2z)
+[2025-12-17 06:09:25](https://bsky.app/profile/forbes.com/post/3ma52mc3vuc24)
+
+---
+
+@axios.com
+
+Trump supported his chief of staff Susie Wiles today, even after her Vanity Fair interviews offered a startling portrait of his second White House term.
+
+[2025-12-17 06:08:54](https://bsky.app/profile/axios.com/post/3ma52ldza7225)
+
+---
+
+@forbes.com
+
+NFL Playoff Race 2025: Who Has The Toughest Path Forward?
+www.forbes.com/sites/mikest... (Photo: Todd Kirkland/Getty Images)
+
+[2025-12-17 06:08:39](https://bsky.app/profile/forbes.com/post/3ma52kw2wx224)
+
+---
+
+@forbes.com
+
+President Donald Trump’s approval rating decreased two points in the latest Reuters/Ipsos survey released Tuesday amid persistent discontent with his handling of the economy.
+
+Read more: www.forbes.com/sites/sarado... (Photo: AFP via Getty Images)
+
+[2025-12-17 06:07:56](https://bsky.app/profile/forbes.com/post/3ma52jmiqk224)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-政府「メガソーラー」新規事業への支援を廃止へ 2027年度以降
-https://news.web.nhk/newsweb/na/na-k10015006001000
+再審制度見直し 証拠開示の対象 “関連する証拠”検討へ
+https://news.web.nhk/newsweb/na/na-k10015005931000
 
-[2025-12-17 05:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma4zg55rwe2y)
+[2025-12-17 06:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma52gcc7nk2b)
 
 ---
 
 @reuters.com
 
-U.S. business activity growth hits 6-month low in December reut.rs/4p9pBW0
+Kraft Heinz taps former Kellogg chief as CEO to steer split reut.rs/4qdYMAS
 
-[2025-12-17 05:45:21](https://bsky.app/profile/reuters.com/post/3ma4zbb4vw42o)
-
----
-
-@cbsnews.com
-
-Documents released by Congress shed new light on Jeffrey Epstein's role in an attempt to help billionaire Leon Black squelch an accusation of sexual impropriety. 
-
-
-
-[2025-12-17 05:45:00](https://bsky.app/profile/cbsnews.com/post/3ma4zamyveb2l)
+[2025-12-17 06:05:13](https://bsky.app/profile/reuters.com/post/3ma52ers4b32c)
 
 ---
 
 @cnbc.com
 
-Tesla stock hits record as Wall Street rallies around robotaxi hype despite slow EV sales
+Gretchen Rubin has spent 12 years researching the science of happiness and confidence. Here are 12 useful reminders that have helped her live a more meaningful, regret-free life. The best part? They're short and easy to remember.
 
-[2025-12-17 05:42:25](https://bsky.app/profile/cnbc.com/post/3ma4z3ykhvc24)
-
----
-
-@reuters.com
-
-Venezuela faces big oil discounts, pressure for contract changes after tanker seizure reut.rs/48K2mgg
-
-[2025-12-17 05:40:23](https://bsky.app/profile/reuters.com/post/3ma4yyex3vs2r)
+[2025-12-17 06:04:29](https://bsky.app/profile/cnbc.com/post/3ma52dhm2iv2p)
 
 ---
 
-@japan.reuters.com
+@thealexknapp.bsky.social
 
-米商務省が１６日発表した９月の企業在庫は０．２％増と、ロイターがまとめたエコノミスト予想の０．１％増を小幅上回った。第３・四半期の経済成長に在庫が寄与した可能性を示唆した。 bit.ly/4p0EtWC
+ICYMI, Last week's edition of my emerging tech newsletter included a look at solar power from space, mass production of big satellites, clear insulation for windows, and more. 
 
-[2025-12-17 05:40:22](https://bsky.app/profile/japan.reuters.com/post/3ma4yydk6tk2c)
+www.forbes.com/sites/the-pr...
 
----
-
-@nbcnews.com
-
-Rhode Island officials release a new image of a person of interest as the search continues for the shooter who killed two Brown University students and injured nine others on Saturday.
-
-[2025-12-17 05:40:10](https://bsky.app/profile/nbcnews.com/post/3ma4yxyehy62q)
+[2025-12-17 06:04:16](https://bsky.app/profile/thealexknapp.bsky.social/post/3ma52d2x3ic2h)
 
 ---
 
-@wsj.com
+@bloomberg.com
 
-Exclusive: President Trump is set to interview another candidate for Federal Reserve chair, Fed governor Christopher Waller, on Wednesday.
+<strong><span style="color: red;">Breaking:</span> Warner Bros. is planning to reject Paramount Skydance’s hostile takeover bid due to concerns about financing and other terms</strong>
 
-[2025-12-17 05:40:06](https://bsky.app/profile/wsj.com/post/3ma4yxufizx2q)
+[2025-12-17 06:04:11](https://bsky.app/profile/bloomberg.com/post/3ma52cwdvit23)
 
 ---
 
-@nbcnews.com
+@nhknewsunofficial.bsky.social
 
-Vanity Fair published the two-part profile on Tuesday based on a wide-ranging series of 11 interviews over the course of a year with White House chief of staff Susie Wiles.
+世田谷一家殺害事件 現場住宅に侵入した形跡 警視庁が捜査
+https://news.web.nhk/newsweb/na/na-k10015006011000
 
-[2025-12-17 05:36:27](https://bsky.app/profile/nbcnews.com/post/3ma4yrdaty22z)
+[2025-12-17 06:03:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma52avxxoo2v)
 
 ---
 
