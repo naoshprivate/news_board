@@ -1,9 +1,9 @@
-# [2025-12-16 10:30 updated](2025_12_16.md)
+# [2025-12-16 10:50 updated](2025_12_16.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">President Donald Trump sued the BBC for defamation over edited clips of a speech that made it appear he directed supporters to storm the US Capitol, opening an international front in his fight against media coverage he deems untrue or unfair. https://cnn.it/3XZIlvR <a href="https://bsky.app/profile/cnn.com/post/3ma2ymyor2g2t" target="_blank">cnn.com</a> (2025-12-16 10:28:42)</span><span style="padding-right:50px;">【ライブ配信予定】気象庁・内閣府会見 https://news.web.nhk/newsweb/na/na-k10015005051000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma2yk37yxo26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 10:27:02)</span><span style="padding-right:50px;">英政府は１５日、韓国と自由貿易協定（ＦＴＡ）を更新する最終決定をしたと発表した。英国の欧州連合（ＥＵ）離脱（ブレグジット）後の貿易関係を強化し、優遇的な市場アクセスを確保して低い関税をより長期間維持することを目指す。 bit.ly/4pFL6id <a href="https://bsky.app/profile/japan.reuters.com/post/3ma2yjx4rjk25" target="_blank">japan.reuters.com</a> (2025-12-16 10:27:00)</span><span style="padding-right:50px;">Brown University students recall barricading on campus during shooting, say they feel unsafe with suspect still at large. <a href="https://bsky.app/profile/cbsnews.com/post/3ma2ygfvfyj2j" target="_blank">cbsnews.com</a> (2025-12-16 10:25:01)</span><span style="padding-right:50px;">トランプ米大統領は１５日、大麻を危険性の低い薬物に再分類する大統領令を検討していると述べた。これにより大麻産業の再編や刑事罰の緩和などにつながる可能性がある。 bit.ly/4oVk9pi <a href="https://bsky.app/profile/japan.reuters.com/post/3ma2yfnu4nv2q" target="_blank">japan.reuters.com</a> (2025-12-16 10:24:36)</span>
+<span style="padding-right:50px;">President Trump filed a $5 billion defamation lawsuit against the BBC, alleging it improperly edited footage of his Jan. 6, 2021, speech in a 2024 documentary. <a href="https://bsky.app/profile/washingtonpost.com/post/3ma2zk6tkgp2g" target="_blank">washingtonpost.com</a> (2025-12-16 10:45:02)</span><span style="padding-right:50px;">午前のシドニー株式市場の株価は反発。大手銀行の上昇で金融株指数が前日の下落分の一部を取り戻したほか、鉱業株指数は堅調な銅相場に追随した。 bit.ly/4iYP5DG <a href="https://bsky.app/profile/japan.reuters.com/post/3ma2zirnbkq27" target="_blank">japan.reuters.com</a> (2025-12-16 10:44:14)</span><span style="padding-right:50px;">The US president claims the UK public broadcaster’s edit of his speech in a 2024 documentary was ‘disparaging, inflammatory, and malicious’. on.ft.com/44wKB1n <a href="https://bsky.app/profile/financialtimes.com/post/3ma2zhutzho23" target="_blank">financialtimes.com</a> (2025-12-16 10:43:44)</span><span style="padding-right:50px;">CNBC Daily Open: Debt worries continue to weigh on AI-related stocks <a href="https://bsky.app/profile/cnbc.com/post/3ma2zgw3x222e" target="_blank">cnbc.com</a> (2025-12-16 10:43:12)</span><span style="padding-right:50px;">トランプ米大統領は１５日、合成麻薬フェンタニルを大量破壊兵器に指定する大統領令に署名した。毎年何万人もの米国民が過剰摂取で死亡しているとして、取り締まりに向けた政府の権限を大幅に拡大する。 bit.ly/44wHAhw <a href="https://bsky.app/profile/japan.reuters.com/post/3ma2zgpnch32s" target="_blank">japan.reuters.com</a> (2025-12-16 10:43:05)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49735.42 (🔻315.82 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3342.00 (🔻38.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 155.10 (🔻0.12 : 2025-12-16)</span>
+<span style="padding-right:50px;">NIKKEI: 49657.83 (🔻393.41 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3335.00 (🔻45.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.96 (🔻0.26 : 2025-12-16)</span>
   </div>
 </div>
 
@@ -32,99 +32,96 @@
 
 ## News Headlines
 
-Here are six headlines in English:
+Here are six important stories with headlines in English:
 
-1. Trump Sues BBC for $5 Billion Over Edited Clips
-2. UK and South Korea Agree to Update Free Trade Agreement
-3. Elon Musk's Wealth Tops $600 Billion
-4. FDA Approves Combination Therapy for Certain Type of Cancer
-5. Tesla's Stock Surges on News of Autonomous Taxi Testing
-6. FBI Offers $50,000 Reward for Information on Brown University Shooting Suspect
+1. Trump Sues BBC for Defamation Over Edited Documentary Footage
+2. Ford to Take $19.5 Billion Hit as it Rolls Back Electric Vehicle Plans
+3. Elon Musk's Wealth Reaches New High of $600 Billion
+4. Nasdaq to Offer 24-Hour Trading in US Stocks
+5. US President Trump Considers Reclassifying Marijuana as Low-Risk Substance
+6. Sabalenka Named WTA Player of the Year for Second Straight Season
 
 ----
 
-@cnn.com
+@washingtonpost.com
 
-President Donald Trump sued the BBC for defamation over edited clips of a speech that made it appear he directed supporters to storm the US Capitol, opening an international front in his fight against media coverage he deems untrue or unfair. https://cnn.it/3XZIlvR
+President Trump filed a $5 billion defamation lawsuit against the BBC, alleging it improperly edited footage of his Jan. 6, 2021, speech in a 2024 documentary.
 
-[2025-12-16 10:28:42](https://bsky.app/profile/cnn.com/post/3ma2ymyor2g2t)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【ライブ配信予定】気象庁・内閣府会見
-https://news.web.nhk/newsweb/na/na-k10015005051000
-
-[2025-12-16 10:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma2yk37yxo26)
+[2025-12-16 10:45:02](https://bsky.app/profile/washingtonpost.com/post/3ma2zk6tkgp2g)
 
 ---
 
 @japan.reuters.com
 
-英政府は１５日、韓国と自由貿易協定（ＦＴＡ）を更新する最終決定をしたと発表した。英国の欧州連合（ＥＵ）離脱（ブレグジット）後の貿易関係を強化し、優遇的な市場アクセスを確保して低い関税をより長期間維持することを目指す。 bit.ly/4pFL6id
+午前のシドニー株式市場の株価は反発。大手銀行の上昇で金融株指数が前日の下落分の一部を取り戻したほか、鉱業株指数は堅調な銅相場に追随した。 bit.ly/4iYP5DG
 
-[2025-12-16 10:27:00](https://bsky.app/profile/japan.reuters.com/post/3ma2yjx4rjk25)
+[2025-12-16 10:44:14](https://bsky.app/profile/japan.reuters.com/post/3ma2zirnbkq27)
+
+---
+
+@financialtimes.com
+
+The US president claims the UK public broadcaster’s edit of his speech in a 2024 documentary was ‘disparaging, inflammatory, and malicious’. on.ft.com/44wKB1n
+
+[2025-12-16 10:43:44](https://bsky.app/profile/financialtimes.com/post/3ma2zhutzho23)
+
+---
+
+@cnbc.com
+
+CNBC Daily Open: Debt worries continue to weigh on AI-related stocks
+
+[2025-12-16 10:43:12](https://bsky.app/profile/cnbc.com/post/3ma2zgw3x222e)
+
+---
+
+@japan.reuters.com
+
+トランプ米大統領は１５日、合成麻薬フェンタニルを大量破壊兵器に指定する大統領令に署名した。毎年何万人もの米国民が過剰摂取で死亡しているとして、取り締まりに向けた政府の権限を大幅に拡大する。 bit.ly/44wHAhw
+
+[2025-12-16 10:43:05](https://bsky.app/profile/japan.reuters.com/post/3ma2zgpnch32s)
+
+---
+
+@japan.reuters.com
+
+米取引所運営大手ナスダックは米国株に対する世界的な需要を取り込むため、２４時間取引に向けた書類を１５日に米証券取引委員会（ＳＥＣ）に提出する。 bit.ly/3L3Mpbt
+
+[2025-12-16 10:40:31](https://bsky.app/profile/japan.reuters.com/post/3ma2zc4dut225)
+
+---
+
+@reuters.com
+
+Sabalenka named WTA Player of the Year for second straight season reut.rs/48XavwI
+
+[2025-12-16 10:40:19](https://bsky.app/profile/reuters.com/post/3ma2zbrka252o)
+
+---
+
+@nytimes.com
+
+In @nytopinion.nytimes.com 
+
+We asked readers to tell us about the most memorable gifts they’ve received. Here are 13 that cost (almost) nothing:
+
+[2025-12-16 10:40:02](https://bsky.app/profile/nytimes.com/post/3ma2zbbbggx2s)
 
 ---
 
 @cbsnews.com
 
-Brown University students recall barricading on campus during shooting, say they feel unsafe with suspect still at large.
+Hong Kong pro-democracy activist Jimmy Lai's daughter says she's "grieving" his sedition conviction.
 
-[2025-12-16 10:25:01](https://bsky.app/profile/cbsnews.com/post/3ma2ygfvfyj2j)
-
----
-
-@japan.reuters.com
-
-トランプ米大統領は１５日、大麻を危険性の低い薬物に再分類する大統領令を検討していると述べた。これにより大麻産業の再編や刑事罰の緩和などにつながる可能性がある。 bit.ly/4oVk9pi
-
-[2025-12-16 10:24:36](https://bsky.app/profile/japan.reuters.com/post/3ma2yfnu4nv2q)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】24万羽は過去最大級 鳥インフルエンザ殺処分始まる 兵庫・斎藤知事「食べて感染することはないこと県民に伝えたい」
-(2025-12-16 10:21:59) #ニュース
-
-[2025-12-16 10:24:29](https://bsky.app/profile/sokuho.news/post/3ma2yfhdill25)
-
----
-
-@nhknewsunofficial.bsky.social
-
-仙台 若林区 アパートで火事 焼け跡から2人の遺体
-https://news.web.nhk/newsweb/na/na-k10015004991000
-
-[2025-12-16 10:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma2yeq3kl32x)
-
----
-
-@wsj.com
-
-Welcome to the pissed-off parent pushback: After years of therapists and others encouraging adult children to cut ties with families they deem harmful or “toxic,” estranged parents are speaking out on.wsj.com/4s49U52
-
-[2025-12-16 10:21:36](https://bsky.app/profile/wsj.com/post/3ma2yacjbuq2c)
+[2025-12-16 10:40:01](https://bsky.app/profile/cbsnews.com/post/3ma2zba274l2g)
 
 ---
 
 @japan.reuters.com
 
-フジ・メディア・ホールディングスが大幅に３日続伸し、一時６％高の３８０９円まで上昇、７月２３日以来の高値圏となった。同社は前日、投資家の野村絢氏から議決権比率３３．３％まで株式を買い増すとの通知を受け取ったと発表し、材料視された。午前１０時０９分現在は上げ幅を縮小し、２％超高で推移。市場では「株主還元が強化されるのではないかとの期待で買いが先行した。ただ足元、同社株のバリュエーションは割安感も薄れており、買いの勢いは続いていないようだ」（国内証券・アナリスト）との声が聞かれた。 bit.ly/4iW9gSQ
+米動画配信大手ネットフリックスのグレッグ・ピーターズ、テッド・サランドス両共同最高経営責任者（ＣＥＯ）は１５日、ワーナー・ブラザース・ディスカバリー（ＷＢＤ）の資産を買収する決定に変更はないと従業員宛ての書簡で述べた。 bit.ly/4p2A3hP
 
-[2025-12-16 10:21:03](https://bsky.app/profile/japan.reuters.com/post/3ma2y7csgwp27)
-
----
-
-@japan.reuters.com
-
-米アトランタ地区連銀は１５日、来年２月末に退任するボスティック総裁の後任を選ぶ手続きを開始した。「（同連銀がカバーする）第６連邦準備区に有意なつながりを持つ候補ら」から次期総裁を探す計画だとしている。 bit.ly/4q9a35f
-
-[2025-12-16 10:20:41](https://bsky.app/profile/japan.reuters.com/post/3ma2y6niits2c)
+[2025-12-16 10:36:36](https://bsky.app/profile/japan.reuters.com/post/3ma2z34vqp52q)
 
 ---
 
