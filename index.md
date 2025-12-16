@@ -1,9 +1,9 @@
-# [2025-12-17 03:50 updated](2025_12_17.md)
+# [2025-12-17 04:10 updated](2025_12_17.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Washington threatens European groups over EU’s treatment of US tech giants ft.trib.al/6cdxtSO <a href="https://bsky.app/profile/financialtimes.com/post/3ma4slsh5uf2p" target="_blank">financialtimes.com</a> (2025-12-17 03:45:59)</span><span style="padding-right:50px;">Italy's offshore wind push languishes, putting climate goals at risk reut.rs/3MMWNou <a href="https://bsky.app/profile/reuters.com/post/3ma4skosssd2r" target="_blank">reuters.com</a> (2025-12-17 03:45:21)</span><span style="padding-right:50px;">BREAKING: President Trump says he will deliver a prime-time address to the nation Wednesday night. <a href="https://bsky.app/profile/cbsnews.com/post/3ma4sk3d5dd2q" target="_blank">cbsnews.com</a> (2025-12-17 03:45:01)</span><span style="padding-right:50px;">As the federal government prepares to revise dietary recommendations on saturated fats, a review of research found benefits to cutting back. 🔗 on.wsj.com/3Y1oxZ0 <a href="https://bsky.app/profile/wsj.com/post/3ma4siuecgl2k" target="_blank">wsj.com</a> (2025-12-17 03:44:20)</span><span style="padding-right:50px;">Ford's $19.5 billion EV writedown signals tough road ahead for legacy carmakers reut.rs/3XYhNew <a href="https://bsky.app/profile/reuters.com/post/3ma4sc666u32b" target="_blank">reuters.com</a> (2025-12-17 03:40:36)</span>
+<span style="padding-right:50px;">At Oak Lawn United Methodist Church’s nativity, Mary and Joseph are silhouettes, surrounded by a chain link fence topped with razor wire. Their halos are old bicycle wheels. A shopping cart and two metal bins, frequently used by the unhoused as firepits, flank the scene. <a href="https://bsky.app/profile/npr.org/post/3ma4ttixtbt2d" target="_blank">npr.org</a> (2025-12-17 04:08:11)</span><span style="padding-right:50px;">OpenAI taps former UK finance minister Osborne to lead global Stargate expansion reut.rs/3MDsCjD <a href="https://bsky.app/profile/reuters.com/post/3ma4tob63eb2i" target="_blank">reuters.com</a> (2025-12-17 04:05:15)</span><span style="padding-right:50px;">US Treasury's Bessent says next Fed chair needs 'an open mind' reut.rs/45d2MJz <a href="https://bsky.app/profile/reuters.com/post/3ma4tgtimci2o" target="_blank">reuters.com</a> (2025-12-17 04:01:06)</span><span style="padding-right:50px;">Steven Rogelberg, Chancellor's Professor at UNC Charlotte and author of two books on meeting science, shares 1 tip that can help you avoid unnecessary meetings.  <a href="https://bsky.app/profile/cnbc.com/post/3ma4tgmqn4i2d" target="_blank">cnbc.com</a> (2025-12-17 04:00:59)</span><span style="padding-right:50px;">Actress Taylour Paige spoke to USA TODAY about the "IT: Welcome to Derry" season finale, and her character's growth throughout the series. <a href="https://bsky.app/profile/usatoday.com/post/3ma4tgdjp352h" target="_blank">usatoday.com</a> (2025-12-17 04:00:49)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48149.32 (🔻230.85 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23052.97 (🔺71.15 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.55 (🔺1.29 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.72 (🔻0.50 : 2025-12-16)</span>
+<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48025.32 (🔻354.85 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 22999.06 (🔺17.25 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 176.62 (🔺0.37 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.78 (🔻0.44 : 2025-12-16)</span>
   </div>
 </div>
 
@@ -32,96 +32,100 @@
 
 ## News Headlines
 
-Here are six important stories with headlines:
+Here are six important news stories with headlines:
 
-1. US Unemployment Hits 4-Year High
-2. Trump to Deliver Prime-Time Address to the Nation
-3. Ford's $19.5 Billion EV Writedown Signals Tough Road Ahead for Legacy Carmakers
-4. US Added 64,000 Jobs in November, Unemployment Hits 4-Year High
-5. Trump Administration Hits Out at WTO Ahead of Crunch Meeting
-6. FIFA Slashes World Cup Ticket Prices Amid Global Backlash
+1. Pentagon Refuses to Release Full Video of US Military Strike on Alleged Drug Boat
+2. US Unemployment Rate Hits 4-Year High as Labor Market Cools
+3. New York Attorney General Accuses UPS of Unlawfully Withholding Wages from Seasonal Workers
+4. Washington Threatens European Groups Over EU's Treatment of US Tech Giants
+5. Australia Honors Heroic Shop Owner Who Shielded Wife from Gun Attack
+6. Arctic Experiences Hottest Year on Record, Worsening Climate Change Impacts
 
 ----
 
-@financialtimes.com
+@npr.org
 
-Washington threatens European groups over EU’s treatment of US tech giants ft.trib.al/6cdxtSO
+At Oak Lawn United Methodist Church’s nativity, Mary and Joseph are silhouettes, surrounded by a chain link fence topped with razor wire. Their halos are old bicycle wheels. A shopping cart and two metal bins, frequently used by the unhoused as firepits, flank the scene.
 
-[2025-12-17 03:45:59](https://bsky.app/profile/financialtimes.com/post/3ma4slsh5uf2p)
-
----
-
-@reuters.com
-
-Italy's offshore wind push languishes, putting climate goals at risk reut.rs/3MMWNou
-
-[2025-12-17 03:45:21](https://bsky.app/profile/reuters.com/post/3ma4skosssd2r)
-
----
-
-@cbsnews.com
-
-<strong><span style="color: red;">BREAKING:</span> President Trump says he will deliver a prime-time address to the nation Wednesday night.</strong>
-
-[2025-12-17 03:45:01](https://bsky.app/profile/cbsnews.com/post/3ma4sk3d5dd2q)
-
----
-
-@wsj.com
-
-As the federal government prepares to revise dietary recommendations on saturated fats, a review of research found benefits to cutting back. 🔗 on.wsj.com/3Y1oxZ0
-
-[2025-12-17 03:44:20](https://bsky.app/profile/wsj.com/post/3ma4siuecgl2k)
+[2025-12-17 04:08:11](https://bsky.app/profile/npr.org/post/3ma4ttixtbt2d)
 
 ---
 
 @reuters.com
 
-Ford's $19.5 billion EV writedown signals tough road ahead for legacy carmakers reut.rs/3XYhNew
+OpenAI taps former UK finance minister Osborne to lead global Stargate expansion reut.rs/3MDsCjD
 
-[2025-12-17 03:40:36](https://bsky.app/profile/reuters.com/post/3ma4sc666u32b)
-
----
-
-@nytimes.com
-
-New York’s attorney general, Letitia James, accused UPS of unlawfully withholding millions of dollars of seasonal workers’ wages by not paying minimum wage, overtime or other compensation required under state and federal law.
-
-[2025-12-17 03:40:06](https://bsky.app/profile/nytimes.com/post/3ma4sbbq7uo27)
+[2025-12-17 04:05:15](https://bsky.app/profile/reuters.com/post/3ma4tob63eb2i)
 
 ---
 
-@forbes.com
+@reuters.com
 
-“Avatar: Fire and Ash,” the third in billionaire director James Cameron’s fantasy franchise, is still expected to make a big impact at the box office this weekend.
+US Treasury's Bessent says next Fed chair needs 'an open mind' reut.rs/45d2MJz
 
-[2025-12-17 03:40:04](https://bsky.app/profile/forbes.com/post/3ma4sba5coy2h)
-
----
-
-@cbsnews.com
-
-Rob Reiner and Michele Reiner had plans with their longtime friends Michelle Obama and former President Barack Obama on Sunday, the day that the filmmaker and his wife were found dead inside their Los Angeles home, according to the former first lady.
-
-
-
-[2025-12-17 03:40:01](https://bsky.app/profile/cbsnews.com/post/3ma4sb4qk772m)
+[2025-12-17 04:01:06](https://bsky.app/profile/reuters.com/post/3ma4tgtimci2o)
 
 ---
 
-@apnews.com
+@cnbc.com
 
-The price for some World Cup tickets has been slashed to $60 for teams’ most loyal fans after global backlash due to FIFA’s ticketing plans.
+Steven Rogelberg, Chancellor's Professor at UNC Charlotte and author of two books on meeting science, shares 1 tip that can help you avoid unnecessary meetings. 
 
-[2025-12-17 03:39:49](https://bsky.app/profile/apnews.com/post/3ma4sarwsti23)
+[2025-12-17 04:00:59](https://bsky.app/profile/cnbc.com/post/3ma4tgmqn4i2d)
 
 ---
 
-@japan.reuters.com
+@usatoday.com
 
-Ｓ＆Ｐグローバルが１６日発表した１２月の米総合購買担当者景気指数（ＰＭＩ）速報値は５３．０だった。前月の５４．２から低下し、半年ぶりの低水準となった。新規受注が低調だった。 bit.ly/4pJEHm6
+Actress Taylour Paige spoke to USA TODAY about the "IT: Welcome to Derry" season finale, and her character's growth throughout the series.
 
-[2025-12-17 03:38:16](https://bsky.app/profile/japan.reuters.com/post/3ma4s5yvtdu2c)
+[2025-12-17 04:00:49](https://bsky.app/profile/usatoday.com/post/3ma4tgdjp352h)
+
+---
+
+@cnn.com
+
+The Pentagon will not release to the public the full video of the US military’s strike on an alleged drug boat on September 2, Secretary of Defense Pete Hegseth said. https://cnn.it/48Vsovx
+
+[2025-12-17 04:00:30](https://bsky.app/profile/cnn.com/post/3ma4tfr5nmz22)
+
+---
+
+@washingtonpost.com
+
+Alexander Kleytman was just a boy when he fled the Holocaust and endured a harrowing train journey to Siberia. 
+
+He was killed in the Bondi Beach attack while shielding his wife, Larisa, from the hail of bullets.
+
+[2025-12-17 04:00:25](https://bsky.app/profile/washingtonpost.com/post/3ma4tflxy6a2y)
+
+---
+
+@nbcnews.com
+
+Australian Prime Minister Anthony Albanese hailed 43-year-old shop owner Ahmed al Ahmed for his heroism as he visited the hospital Tuesday.
+
+[2025-12-17 04:00:20](https://bsky.app/profile/nbcnews.com/post/3ma4tfhqy2z2k)
+
+---
+
+@en.afp.com
+
+The Arctic has experienced its hottest year since records began, a US science agency announces, as climate change triggers cascading impacts from melting glaciers and sea ice to greening landscapes and disruptions to global weather.
+AFP's @IssamAhmed reports
+❄️ 🌡️ 
+
+u.afp.com/S7ja
+
+[2025-12-17 04:00:19](https://bsky.app/profile/en.afp.com/post/3ma4tfh2snb2v)
+
+---
+
+@bloomberg.com
+
+A study of the Arctic's "vital signs" shows worsening health as heat rises, ice disappears and rivers turn orange.
+
+[2025-12-17 04:00:11](https://bsky.app/profile/bloomberg.com/post/3ma4tf7eg4d2h)
 
 ---
 
