@@ -1,9 +1,9 @@
-# [2025-12-17 00:30 updated](2025_12_17.md)
+# [2025-12-17 00:50 updated](2025_12_17.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The Olayan sisters have steered their family empire into an influential investment behemoth, with deep connections to both Wall Street and the Saudi Arabian kingdom. Read more: bloom.bg/4akGjxI  🎨: 731 <a href="https://bsky.app/profile/bloomberg.com/post/3ma4hjyjlfq23" target="_blank">bloomberg.com</a> (2025-12-17 00:28:07)</span><span style="padding-right:50px;">SThree shares jump as US market rebounds, guidance confirmed reut.rs/4s0P8TG <a href="https://bsky.app/profile/reuters.com/post/3ma4hey57y42y" target="_blank">reuters.com</a> (2025-12-17 00:25:19)</span><span style="padding-right:50px;">In a series of interviews published in Vanity Fair, Susie Wiles, the White House chief of staff, said President Trump “has an alcoholic’s personality,” called JD Vance a “conspiracy theorist” and concluded that Pam Bondi “completely whiffed” the early handling of the Epstein files. <a href="https://bsky.app/profile/nytimes.com/post/3ma4hejyptq2e" target="_blank">nytimes.com</a> (2025-12-17 00:25:04)</span><span style="padding-right:50px;">Trump officials move slowly on student loan forgiveness, repayment plan backlog: court filing <a href="https://bsky.app/profile/cnbc.com/post/3ma4hdfdd3r2m" target="_blank">cnbc.com</a> (2025-12-17 00:24:25)</span><span style="padding-right:50px;">Stelvio national park: Thousands of dinosaur footprints found on Italian mountain <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma4hc2j5gs2a" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-17 00:23:40)</span>
+<span style="padding-right:50px;">#UPDATE The US jobless rate picked up again in November, hovering at its highest level in four years at 4.6%, official data showed on Tuesday in a report underscoring a labor market cooldown in the world's biggest economy ➡️ u.afp.com/S7jT <a href="https://bsky.app/profile/en.afp.com/post/3ma4ioqyisk2n" target="_blank">en.afp.com</a> (2025-12-17 00:48:41)</span><span style="padding-right:50px;">Dassault Aviation CEO unsure if FCAS fighter will go ahead reut.rs/4s0ZzGV <a href="https://bsky.app/profile/reuters.com/post/3ma4iivt7gt2r" target="_blank">reuters.com</a> (2025-12-17 00:45:24)</span><span style="padding-right:50px;">The party’s frustrated upstarts aim to shake up its leadership with a big year coming up for US politics. <a href="https://bsky.app/profile/bloomberg.com/post/3ma4if4ryxt23" target="_blank">bloomberg.com</a> (2025-12-17 00:43:18)</span><span style="padding-right:50px;">A private non-profit operates over 200 cameras with live facial recognition in New Orleans. The system raises questions about privacy, legal authority and who should control surveillance technology. n.pr/4iWRMpq <a href="https://bsky.app/profile/npr.org/post/3ma4idvpxid2e" target="_blank">npr.org</a> (2025-12-17 00:42:36)</span><span style="padding-right:50px;">Opinion: The message from Mexico is unmistakable: one of America's closest trading partners is openly aligning its tariff wall with the US to block Beijing's predatory export machine, writes Donald Trump's senior counsellor for trade and manufacturing Peter Navarro. ft.trib.al/3nSwrX0 <a href="https://bsky.app/profile/financialtimes.com/post/3ma4iapqup32k" target="_blank">financialtimes.com</a> (2025-12-17 00:40:50)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48202.36 (🔻177.81 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23004.69 (🔺22.88 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 176.33 (🔺0.07 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.52 (🔻0.70 : 2025-12-16)</span>
+<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48272.57 (🔻107.60 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23018.65 (🔺36.83 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 176.11 (🔻0.15 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.60 (🔻0.62 : 2025-12-16)</span>
   </div>
 </div>
 
@@ -34,96 +34,92 @@
 
 Here are six news headlines in English:
 
-1. Olayan Sisters Lead Family Empire to Wall Street and Saudi Arabian Influence
-2. Threes Shares Soar as US Market Sees Rebound and Guidance Confirmed
-3. White House Chief of Staff Criticizes Trump's Personality and Handling of Epstein Files
-4. Pentagon Investigates Sen. Mark Kelly's Involvement in Military Justice System
-5. Portugal to Return to F1 Calendar in 2027 and 2028
-6. Global Insured Catastrophe Losses Expected to Reach $107 Billion in 2025
+1. US Jobless Rate Hits 4.6% in November, Highest in Four Years
+2. Dassault Aviation CEO Questioned on Future of FCAS Fighter Project
+3. New Orleans' Live Facial Recognition System Raises Privacy Concerns
+4. Mexico Aligns with US to Counter China's Export Machine: Trump Advisor
+5. Indian Tribunal Clears Vedanta's Five-Way Demerger Plan
+6. Morgan Stanley Predicts Slower Gains for Gold in 2026
 
 ----
 
-@bloomberg.com
+@en.afp.com
 
-The Olayan sisters have steered their family empire into an influential investment behemoth, with deep connections to both Wall Street and the Saudi Arabian kingdom. Read more: bloom.bg/4akGjxI
+#UPDATE The US jobless rate picked up again in November, hovering at its highest level in four years at 4.6%, official data showed on Tuesday in a report underscoring a labor market cooldown in the world's biggest economy ➡️ u.afp.com/S7jT
 
-🎨: 731
-
-[2025-12-17 00:28:07](https://bsky.app/profile/bloomberg.com/post/3ma4hjyjlfq23)
+[2025-12-17 00:48:41](https://bsky.app/profile/en.afp.com/post/3ma4ioqyisk2n)
 
 ---
 
 @reuters.com
 
-SThree shares jump as US market rebounds, guidance confirmed reut.rs/4s0P8TG
+Dassault Aviation CEO unsure if FCAS fighter will go ahead reut.rs/4s0ZzGV
 
-[2025-12-17 00:25:19](https://bsky.app/profile/reuters.com/post/3ma4hey57y42y)
-
----
-
-@nytimes.com
-
-In a series of interviews published in Vanity Fair, Susie Wiles, the White House chief of staff, said President Trump “has an alcoholic’s personality,” called JD Vance a “conspiracy theorist” and concluded that Pam Bondi “completely whiffed” the early handling of the Epstein files.
-
-[2025-12-17 00:25:04](https://bsky.app/profile/nytimes.com/post/3ma4hejyptq2e)
+[2025-12-17 00:45:24](https://bsky.app/profile/reuters.com/post/3ma4iivt7gt2r)
 
 ---
 
-@cnbc.com
+@bloomberg.com
 
-Trump officials move slowly on student loan forgiveness, repayment plan backlog: court filing
+The party’s frustrated upstarts aim to shake up its leadership with a big year coming up for US politics.
 
-[2025-12-17 00:24:25](https://bsky.app/profile/cnbc.com/post/3ma4hdfdd3r2m)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Stelvio national park: Thousands of dinosaur footprints found on Italian mountain
-
-[2025-12-17 00:23:40](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma4hc2j5gs2a)
-
----
-
-@cnbc.com
-
-Pfizer’s modest 2026 outlook shows its big investments will take time to pay off
-
-[2025-12-17 00:23:15](https://bsky.app/profile/cnbc.com/post/3ma4hbc6mge23)
+[2025-12-17 00:43:18](https://bsky.app/profile/bloomberg.com/post/3ma4if4ryxt23)
 
 ---
 
 @npr.org
 
-In 2015, Reiner collaborated with his son, Nick Reiner, on Being Charlie, a story about addiction, loosely based on Nick's experiences. Rob Reiner talked about the film with Fresh Air in September. n.pr/3MP5DlH
+A private non-profit operates over 200 cameras with live facial recognition in New Orleans. The system raises questions about privacy, legal authority and who should control surveillance technology. n.pr/4iWRMpq
 
-[2025-12-17 00:23:12](https://bsky.app/profile/npr.org/post/3ma4hb7gdsi24)
-
----
-
-@washingtonpost.com
-
-The Pentagon said Pete Hegseth is “escalating” his review of Sen. Mark Kelly’s involvement in a video about service members’ duty to disobey illegal orders — an unprecedented use of the military justice system to investigate a political adversary.
-
-[2025-12-17 00:20:52](https://bsky.app/profile/washingtonpost.com/post/3ma4h4zgkz624)
+[2025-12-17 00:42:36](https://bsky.app/profile/npr.org/post/3ma4idvpxid2e)
 
 ---
 
-@nbcnews.com
+@financialtimes.com
 
-The year 2025 has been filled with cultural absurdities.
+Opinion: The message from Mexico is unmistakable: one of America's closest trading partners is openly aligning its tariff wall with the US to block Beijing's predatory export machine, writes Donald Trump's senior counsellor for trade and manufacturing Peter Navarro. ft.trib.al/3nSwrX0
 
-Here’s a full look at NBC News’ list of the biggest cultural moments of 2025.
-
-[2025-12-17 00:20:10](https://bsky.app/profile/nbcnews.com/post/3ma4h3rvbgw22)
+[2025-12-17 00:40:50](https://bsky.app/profile/financialtimes.com/post/3ma4iapqup32k)
 
 ---
 
 @reuters.com
 
-Portugal to return to F1 calendar in 2027 and 2028 reut.rs/4rYIA8d
+Indian tribunal clears Vedanta's five-way demerger reut.rs/3N28BTW
 
-[2025-12-17 00:15:20](https://bsky.app/profile/reuters.com/post/3ma4gt4yn7t2b)
+[2025-12-17 00:40:40](https://bsky.app/profile/reuters.com/post/3ma4iagdw3k24)
+
+---
+
+@japan.reuters.com
+
+ホンダは１６日、自動車部品メーカーのＡｓｔｅｍｏ（アステモ）を連結子会社化すると発表した。日立製作所から２１％を１５２３億円で追加取得し、出資比率を６１％へ引き上げる。ソフトウエアに強いアステモとの連携を強化し、自動運転やＳＤＶ（機能や価値をソフトウェアで更新する車）の開発を加速。新規株式公開（ＩＰＯ）を視野に入れる。 bit.ly/4qgc0Ny
+
+[2025-12-17 00:40:25](https://bsky.app/profile/japan.reuters.com/post/3ma4i7yekqg2q)
+
+---
+
+@forbes.com
+
+Minor or greater geomagnetic storms are expected later this week, potentially bringing the phenomenon to more states, forecasters said.
+
+[2025-12-17 00:40:07](https://bsky.app/profile/forbes.com/post/3ma4i7hoek32h)
+
+---
+
+@washingtonpost.com
+
+Trump officials argue construction of the president’s planned ballroom is a matter of national security as historic preservationists sue to immediately halt the project.
+
+[2025-12-17 00:40:03](https://bsky.app/profile/washingtonpost.com/post/3ma4i7dh5ay2y)
+
+---
+
+@nytimes.com
+
+New York City and the surrounding areas have some of the highest levels of flu-like illness in the U.S., according to data from the CDC.
+
+[2025-12-17 00:40:02](https://bsky.app/profile/nytimes.com/post/3ma4i7cfecl25)
 
 ---
 
