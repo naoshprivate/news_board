@@ -1,9 +1,9 @@
-# [2025-12-16 18:50 updated](2025_12_16.md)
+# [2025-12-16 19:10 updated](2025_12_16.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">President Trump sued the BBC for defamation Monday over the broadcaster’s editing of a documentary that featured his speech before the Jan. 6, 2021, Capitol riot. <a href="https://bsky.app/profile/wsj.com/post/3ma3ulsdxyb2q" target="_blank">wsj.com</a> (2025-12-16 18:49:06)</span><span style="padding-right:50px;">The U.S. military said Monday that it attacked three boats accused of smuggling drugs in the eastern Pacific Ocean, killing a total of eight people as scrutiny is intensifying in Congress. n.pr/4ajfpGA <a href="https://bsky.app/profile/npr.org/post/3ma3uksmtnj2e" target="_blank">npr.org</a> (2025-12-16 18:48:33)</span><span style="padding-right:50px;">🔔NHKより【速報】です。  衆院定数削減 通常国会での実現へ努力 高市首相・維新吉村代表が会談で一致 (2025-12-16 18:48) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma3uknjjkm2y" target="_blank">sokuho.news</a> (2025-12-16 18:48:28)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】衆院議員の定数削減めぐり高市総理「国勢調査の結果踏まえ成案得る」 自民・維新が与党党首会談 (2025-12-16 18:45:47) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma3uhi6kqx2e" target="_blank">sokuho.news</a> (2025-12-16 18:46:42)</span><span style="padding-right:50px;">🇪🇺 🚗 The EU looks set to scrap a landmark 2035 ban on new petrol and diesel cars on Tuesday, as part of a package of reforms aimed at supporting Europe's embattled auto industry ➡️ u.afp.com/S7Hp <a href="https://bsky.app/profile/en.afp.com/post/3ma3ugaa2mq2q" target="_blank">en.afp.com</a> (2025-12-16 18:46:00)</span>
+<span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】歩行者が普通乗用車にはねられる事故 女性が病院へ搬送で意識不明の重体 現場周辺は全面通行止め (2025-12-16 18:40) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma3vpilsp52v" target="_blank">sokuho.news</a> (2025-12-16 19:09:04)</span><span style="padding-right:50px;">経済対策の裏付けとなる２０２５年度補正予算は１６日の参院本会議で可決、成立した。物価高対策に加え、高市早苗首相肝いりの危機管理投資を盛り込み、歳出総額は１８兆３０３４億円に膨らんだ。 bit.ly/4qcEyYe <a href="https://bsky.app/profile/japan.reuters.com/post/3ma3virsdpl2q" target="_blank">japan.reuters.com</a> (2025-12-16 19:05:19)</span><span style="padding-right:50px;">Shares of LG Energy Solution fall 6% after Ford retreats from EV push reut.rs/45dk21l <a href="https://bsky.app/profile/reuters.com/post/3ma3vinlc5d2p" target="_blank">reuters.com</a> (2025-12-16 19:05:15)</span><span style="padding-right:50px;">中国は１６日、欧州連合（ＥＵ）産豚肉に４．９─１９．８％の反ダンピング（不当廉売）関税を課すと発表した。１７日から５年間適用。関税率は９月に暫定決定で課した１５．６─６２．４％から大幅に引き下げられた。 bit.ly/44YdzHy <a href="https://bsky.app/profile/japan.reuters.com/post/3ma3vdnlcso22" target="_blank">japan.reuters.com</a> (2025-12-16 19:02:27)</span><span style="padding-right:50px;">クリスマスディナー、パエリアをおいしく作るには www.nikkei.com/article/DGXZQO...  エビや貝などを使うイメージが強いかもしれませんが、初めて挑戦するなら鶏肉がおすすめ。  米は洗わない、具は日本の炊き込みご飯よりかなり多めに用意するなど、パエリアをおいしく作るコツを紹介します。 <a href="https://bsky.app/profile/nikkei.com/post/3ma3vbkyn3t2m" target="_blank">nikkei.com</a> (2025-12-16 19:01:17)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.84 (🔻0.38 : 2025-12-16)</span>
+<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.79 (🔻0.43 : 2025-12-16)</span>
   </div>
 </div>
 
@@ -32,101 +32,100 @@
 
 ## News Headlines
 
-1. Trump Sues BBC Over Documentary Editing
-2. US Military Kills 8 in Eastern Pacific Drug Smuggling Operation
-3. Japan: Government Reduces House of Representatives Seats
-4. EU to Scrap 2035 Ban on New Petrol and Diesel Cars
-5. North Korea's Central Bank Denies Excessive Liquidity in Domestic Market
-6. Donald Trump Jr. Engaged to Bettina Anderson
+1. Japanese Prime Minister's Party Agrees to Reduce House of Representatives Seats
+2. China Imposes Tariff on EU Pork Imports
+3. LG Energy Solution Shares Fall 6% After Ford Retreats from EV Push
+4. New Research Suggests Chronic Inflammation May Be Linked to Long-Lasting Covid-19 Effects
+5. President Trump Sues BBC for $10 Billion Over Documentary Editing
+6. Ukraine's President Addresses Dutch Parliament Amid Ongoing Crisis
 
 ----
-
-@wsj.com
-
-President Trump sued the BBC for defamation Monday over the broadcaster’s editing of a documentary that featured his speech before the Jan. 6, 2021, Capitol riot.
-
-[2025-12-16 18:49:06](https://bsky.app/profile/wsj.com/post/3ma3ulsdxyb2q)
-
----
-
-@npr.org
-
-The U.S. military said Monday that it attacked three boats accused of smuggling drugs in the eastern Pacific Ocean, killing a total of eight people as scrutiny is intensifying in Congress. n.pr/4ajfpGA
-
-[2025-12-16 18:48:33](https://bsky.app/profile/npr.org/post/3ma3uksmtnj2e)
-
----
-
-@sokuho.news
-
-🔔NHKより【速報】です。
-
-衆院定数削減 通常国会での実現へ努力 高市首相・維新吉村代表が会談で一致
-(2025-12-16 18:48) #ニュース
-
-[2025-12-16 18:48:28](https://bsky.app/profile/sokuho.news/post/3ma3uknjjkm2y)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】衆院議員の定数削減めぐり高市総理「国勢調査の結果踏まえ成案得る」 自民・維新が与党党首会談
-(2025-12-16 18:45:47) #ニュース
-
-[2025-12-16 18:46:42](https://bsky.app/profile/sokuho.news/post/3ma3uhi6kqx2e)
-
----
-
-@en.afp.com
-
-🇪🇺 🚗 The EU looks set to scrap a landmark 2035 ban on new petrol and diesel cars on Tuesday, as part of a package of reforms aimed at supporting Europe's embattled auto industry ➡️ u.afp.com/S7Hp
-
-[2025-12-16 18:46:00](https://bsky.app/profile/en.afp.com/post/3ma3ugaa2mq2q)
-
----
-
-@japan.reuters.com
-
-韓国銀行（中央銀行）は１６日、ウォン安と居住用不動産価格上昇を国内市場の潤沢な流動性のせいにするのは「言い過ぎ」との認識を示した。 bit.ly/4ajyTee
-
-[2025-12-16 18:45:18](https://bsky.app/profile/japan.reuters.com/post/3ma3ueyeeii2u)
-
----
-
-@reuters.com
-
-Donald Trump Jr. engaged to Palm Beach socialite Bettina Anderson, NYT reports reut.rs/3KC5aTn
-
-[2025-12-16 18:45:16](https://bsky.app/profile/reuters.com/post/3ma3uewws552y)
-
----
-
-@japan.reuters.com
-
-Ｓ＆Ｐグローバルがまとめたユーロ圏の１２月のＨＣＯＢ総合購買担当者景気指数（ＰＭＩ）速報値は５１．９と前月の５２．８から低下し、３カ月ぶりの低水準となった。市場予想の５２．７も下回った。 bit.ly/3XWZ9DK
-
-[2025-12-16 18:44:13](https://bsky.app/profile/japan.reuters.com/post/3ma3ud2dyyj2p)
-
----
 
 @sokuho.news
 
 🛎️FNNより【速報】です。
 
-【速報】普通乗用車が歩行者をはねる事故 女性が病院へ搬送で意識不明の重体 現場周辺は全面通行止め
+【速報】歩行者が普通乗用車にはねられる事故 女性が病院へ搬送で意識不明の重体 現場周辺は全面通行止め
 (2025-12-16 18:40) #ニュース
 
-[2025-12-16 18:42:12](https://bsky.app/profile/sokuho.news/post/3ma3u7h5fyb2r)
+[2025-12-16 19:09:04](https://bsky.app/profile/sokuho.news/post/3ma3vpilsp52v)
 
 ---
 
-@financialtimes.com
+@japan.reuters.com
 
-When digital calendars make time management too complicated on.ft.com/3YB1wfz
+経済対策の裏付けとなる２０２５年度補正予算は１６日の参院本会議で可決、成立した。物価高対策に加え、高市早苗首相肝いりの危機管理投資を盛り込み、歳出総額は１８兆３０３４億円に膨らんだ。 bit.ly/4qcEyYe
 
-[2025-12-16 18:42:04](https://bsky.app/profile/financialtimes.com/post/3ma3u773nnn2v)
+[2025-12-16 19:05:19](https://bsky.app/profile/japan.reuters.com/post/3ma3virsdpl2q)
+
+---
+
+@reuters.com
+
+Shares of LG Energy Solution fall 6% after Ford retreats from EV push reut.rs/45dk21l
+
+[2025-12-16 19:05:15](https://bsky.app/profile/reuters.com/post/3ma3vinlc5d2p)
+
+---
+
+@japan.reuters.com
+
+中国は１６日、欧州連合（ＥＵ）産豚肉に４．９─１９．８％の反ダンピング（不当廉売）関税を課すと発表した。１７日から５年間適用。関税率は９月に暫定決定で課した１５．６─６２．４％から大幅に引き下げられた。 bit.ly/44YdzHy
+
+[2025-12-16 19:02:27](https://bsky.app/profile/japan.reuters.com/post/3ma3vdnlcso22)
+
+---
+
+@nikkei.com
+
+クリスマスディナー、パエリアをおいしく作るには
+www.nikkei.com/article/DGXZQO...
+
+エビや貝などを使うイメージが強いかもしれませんが、初めて挑戦するなら鶏肉がおすすめ。
+
+米は洗わない、具は日本の炊き込みご飯よりかなり多めに用意するなど、パエリアをおいしく作るコツを紹介します。
+
+[2025-12-16 19:01:17](https://bsky.app/profile/nikkei.com/post/3ma3vbkyn3t2m)
+
+---
+
+@apnews.com
+
+Steve Taneyhill, a record-setting quarterback for the South Carolina Gamecocks best known for his distinct long-flowing mullet and his "homerun swing" after touchdown passes, has died.
+
+[2025-12-16 19:00:58](https://bsky.app/profile/apnews.com/post/3ma3vaz75ta2q)
+
+---
+
+@reuters.com
+
+Malaysian PM Anwar names new trade, economy ministers in cabinet reshuffle reut.rs/4q6Fc9n
+
+[2025-12-16 19:00:49](https://bsky.app/profile/reuters.com/post/3ma3vaqoqlp2i)
+
+---
+
+@cnn.com
+
+Erika Kirk, the widow of slain conservative influencer Charlie Kirk, met with podcaster Candace Owens amid an intensifying public feud over Owens' promotion of conspiracy theories surrounding Kirk's death. https://cnn.it/3MEDoWX
+
+[2025-12-16 19:00:15](https://bsky.app/profile/cnn.com/post/3ma3v7pyalr22)
+
+---
+
+@washingtonpost.com
+
+Why some people experience long-lasting physical and mental effects from covid-19 could be linked to chronic inflammation, according to new research that experts say could help develop new treatments.
+
+[2025-12-16 19:00:12](https://bsky.app/profile/washingtonpost.com/post/3ma3v7mluu624)
+
+---
+
+@bloomberg.com
+
+Here’s what you need to know to start your day
+
+[2025-12-16 19:00:12](https://bsky.app/profile/bloomberg.com/post/3ma3v7mjoku2z)
 
 ---
 
