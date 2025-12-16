@@ -1,9 +1,9 @@
-# [2025-12-16 12:10 updated](2025_12_16.md)
+# [2025-12-16 12:30 updated](2025_12_16.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">米プロフットボールリーグ（ＮＦＬ）を代表するＱＢパトリック・マホームズ（チーフス）が１４日の試合で負傷した。初期検査で左膝の前十字靱帯（ＡＣＬ）断裂が判明し、セカンドオピニオンを受けることになった。 bit.ly/48GQnju <a href="https://bsky.app/profile/japan.reuters.com/post/3ma36athxck26" target="_blank">japan.reuters.com</a> (2025-12-16 12:09:16)</span><span style="padding-right:50px;">＜１２：００＞　午前のドル154円後半へじり安、米雇用統計・日銀会合前に手掛けづらさ bit.ly/48VhJku <a href="https://bsky.app/profile/japan.reuters.com/post/3ma366wf5jp2n" target="_blank">japan.reuters.com</a> (2025-12-16 12:08:12)</span><span style="padding-right:50px;">Trump is pushing into the boardroom—and companies are learning how to make the most of it. <a href="https://bsky.app/profile/wsj.com/post/3ma366h22pe2g" target="_blank">wsj.com</a> (2025-12-16 12:07:56)</span><span style="padding-right:50px;">The Indian rupee’s steady slide to fresh record lows is raising worries that prolonged weakness could sap confidence in the still-fragile recovery of the nation’s $5.4 trillion stock market. Read for free with your email on what could move markets today. <a href="https://bsky.app/profile/bloomberg.com/post/3ma3662q3m427" target="_blank">bloomberg.com</a> (2025-12-16 12:07:43)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】経済同友会の次期代表幹事に日本IBM・山口明夫社長 辞任した新浪剛史氏の後任 (2025年12月16日 12:07) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma364y7lvo2v" target="_blank">sokuho.news</a> (2025-12-16 12:07:07)</span>
+<span style="padding-right:50px;">米 フォード EV事業見直しで約3兆円の損失と追加費用を計上 https://news.web.nhk/newsweb/na/na-k10015005161000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma37as5ey42x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 12:27:07)</span><span style="padding-right:50px;">補正予算案が参院予算委で可決 きょう本会議で成立の見通し https://news.web.nhk/newsweb/na/na-k10015005071000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma37anmgfj22" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 12:27:02)</span><span style="padding-right:50px;">トランプ米政権高官は１５日、国防とハイテク分野向け重要鉱物の生産を強化するため、政権が米鉱業部門とのさらなる「歴史的取引」を計画していると語った。 bit.ly/4q6q0Jn <a href="https://bsky.app/profile/japan.reuters.com/post/3ma377e7rkv27" target="_blank">japan.reuters.com</a> (2025-12-16 12:26:21)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】18兆3000億円規模の補正予算案が参院予算委員会で可決 (2025-12-16 12:24:24) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma376ius5n2y" target="_blank">sokuho.news</a> (2025-12-16 12:25:52)</span><span style="padding-right:50px;">🔔NHKより【速報 JUST IN】です。  補正予算案が参院予算委で可決 きょう本会議で成立の見通し (2025-12-16 12:24:59) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma375nrr242v" target="_blank">sokuho.news</a> (2025-12-16 12:25:23)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49523.56 (🔻527.68 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3340.00 (🔻40.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.72 (🔻0.50 : 2025-12-16)</span>
+<span style="padding-right:50px;">NIKKEI: 49523.56 (🔻527.68 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3340.00 (🔻40.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.88 (🔻0.34 : 2025-12-16)</span>
   </div>
 </div>
 
@@ -32,104 +32,102 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are six news headlines in English:
 
-1. NFL Star Patrick Mahomes Suffers Knee Injury
-2. Dollar Falls to 154 Yen Amidst Economic Uncertainty
-3. India's Rupee Hits Record Low, Raising Concerns Over Market Recovery
-4. Goldman Sachs Reshapes Investment Group to Focus on Digital Infrastructure and AI
-5. Australia's Prime Minister Says Sydney Shooting Motivated by Islamic State Ideology
-6. Ukraine Claims to Have Damaged Russian Submarine, Russia Denies Damage
+1. Japan's LDP Eyes $300 Billion Loss and Extra Spending on Ford EV Business Overhaul
+2. Japanese Upper House Passes Budget Revision Bill, Expected to Pass in Lower House Today
+3. US Official Says Ukraine May Seek NATO Security Guarantee Modelled on Article 5
+4. Tesla Stock Surges to 1-Year High on Elon Musk's Comments on Robo-Taxi Testing
+5. European Union May Ease Ban on Internal Combustion Engine Cars to 10% of New Sales by 2035
+6. Australian Police Say Hanukkah Attack Was Terrorist Attack Inspired by Islamic State
 
 ----
 
-@japan.reuters.com
+@nhknewsunofficial.bsky.social
 
-米プロフットボールリーグ（ＮＦＬ）を代表するＱＢパトリック・マホームズ（チーフス）が１４日の試合で負傷した。初期検査で左膝の前十字靱帯（ＡＣＬ）断裂が判明し、セカンドオピニオンを受けることになった。 bit.ly/48GQnju
+米 フォード EV事業見直しで約3兆円の損失と追加費用を計上
+https://news.web.nhk/newsweb/na/na-k10015005161000
 
-[2025-12-16 12:09:16](https://bsky.app/profile/japan.reuters.com/post/3ma36athxck26)
+[2025-12-16 12:27:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma37as5ey42x)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+補正予算案が参院予算委で可決 きょう本会議で成立の見通し
+https://news.web.nhk/newsweb/na/na-k10015005071000
+
+[2025-12-16 12:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma37anmgfj22)
 
 ---
 
 @japan.reuters.com
 
-＜１２：００＞　午前のドル154円後半へじり安、米雇用統計・日銀会合前に手掛けづらさ bit.ly/48VhJku
+トランプ米政権高官は１５日、国防とハイテク分野向け重要鉱物の生産を強化するため、政権が米鉱業部門とのさらなる「歴史的取引」を計画していると語った。 bit.ly/4q6q0Jn
 
-[2025-12-16 12:08:12](https://bsky.app/profile/japan.reuters.com/post/3ma366wf5jp2n)
-
----
-
-@wsj.com
-
-Trump is pushing into the boardroom—and companies are learning how to make the most of it.
-
-[2025-12-16 12:07:56](https://bsky.app/profile/wsj.com/post/3ma366h22pe2g)
-
----
-
-@bloomberg.com
-
-The Indian rupee’s steady slide to fresh record lows is raising worries that prolonged weakness could sap confidence in the still-fragile recovery of the nation’s $5.4 trillion stock market. Read for free with your email on what could move markets today.
-
-[2025-12-16 12:07:43](https://bsky.app/profile/bloomberg.com/post/3ma3662q3m427)
+[2025-12-16 12:26:21](https://bsky.app/profile/japan.reuters.com/post/3ma377e7rkv27)
 
 ---
 
 @sokuho.news
 
-🔔ANNより【速報】です。
+🛎️JNNより【速報】です。
 
-【速報】経済同友会の次期代表幹事に日本IBM・山口明夫社長 辞任した新浪剛史氏の後任
-(2025年12月16日 12:07) #ニュース
+【速報】18兆3000億円規模の補正予算案が参院予算委員会で可決
+(2025-12-16 12:24:24) #ニュース
 
-[2025-12-16 12:07:07](https://bsky.app/profile/sokuho.news/post/3ma364y7lvo2v)
+[2025-12-16 12:25:52](https://bsky.app/profile/sokuho.news/post/3ma376ius5n2y)
+
+---
+
+@sokuho.news
+
+<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>補正予算案が参院予算委で可決 きょう本会議で成立の見通し</strong><br><strong>(2025-12-16 12:24:59) #ニュース</strong>
+
+[2025-12-16 12:25:23](https://bsky.app/profile/sokuho.news/post/3ma375nrr242v)
 
 ---
 
 @japan.reuters.com
 
-前場の東京株式市場で日経平均は続落し、前営業日比６４４円５５銭安の４万９５２３円５６銭で午前の取引を終えた。日本時間夜に米国の１１月雇用統計、１０月小売売上高の発表を控え、持ち高調整の売りが広がった。前日の米株市場の下落、外為市場の円高進行も投資家心理の重しとなった。日経平均は一時７００円超安となった。 bit.ly/4iZcTrj
+トランプ米大統領は１５日、大麻を危険性の低い薬物に再分類する大統領令を検討していると述べた。これにより大麻産業の再編や刑事罰の緩和などにつながる可能性がある。 bit.ly/49eWED6
 
-[2025-12-16 12:07:04](https://bsky.app/profile/japan.reuters.com/post/3ma364uvivq2f)
+[2025-12-16 12:25:21](https://bsky.app/profile/japan.reuters.com/post/3ma375l7mrr2u)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】姫路市の養鶏場で鳥インフルエンザ 兵庫県 過去最大級の24万羽の殺処分開始
+(2025-12-16 12:06) #ニュース
+
+[2025-12-16 12:21:23](https://bsky.app/profile/sokuho.news/post/3ma36wi7bql2a)
 
 ---
 
 @japan.reuters.com
 
-Ｓ＆Ｐグローバルが１６日に発表した１２月の製造業購買担当者景気指数（ＰＭＩ）は４９．７と、前月の４８．７から小幅に上昇した。好不況の分かれ目となる５０は６カ月連続で下回った。サービス業は５２．５で、前月（同）の５３．２から小幅に低下した。 bit.ly/4pEIuAW
+午前のドルは１５５円前半から１５４円後半へじり安となった。米国の雇用統計や日銀の金融政策決定会合を控えて大きくポジションを傾けづらい状況は変わらないが、年末に絡むフローへの思惑もあり、相場が上下する場面もあった。 bit.ly/4iZugrL
 
-[2025-12-16 12:05:21](https://bsky.app/profile/japan.reuters.com/post/3ma35zthw3m22)
-
----
-
-@japan.reuters.com
-
-日本経済新聞電子版は１６日、経済同友会が新浪剛史氏の辞任で空席になっている代表幹事に日本ＩＢＭの山口明夫社長を充てる人事を固めたと報じた。同日の幹事会で了承し、内定するという。 bit.ly/48TcCl0
-
-[2025-12-16 12:04:43](https://bsky.app/profile/japan.reuters.com/post/3ma35yp2rsi2c)
+[2025-12-16 12:20:46](https://bsky.app/profile/japan.reuters.com/post/3ma36vfedse22)
 
 ---
 
 @japan.reuters.com
 
-米人気歌手のマライア・キャリーさんが、２０２６年ミラノ・コルティナ冬季五輪の開会式に出演すると、主催者が１５日に発表した。 bit.ly/4oUyvGo
+米当局者は１５日、ウクライナがロシアとの和平合意案の下、北大西洋条約機構（ＮＡＴＯ）の集団防衛を定める北大西洋条約第５条をモデルにした安全の保証を受ける可能性があると記者団に述べた。 bit.ly/4iWuRKS
 
-[2025-12-16 12:03:43](https://bsky.app/profile/japan.reuters.com/post/3ma35wvh4e72v)
+[2025-12-16 12:20:36](https://bsky.app/profile/japan.reuters.com/post/3ma36v426p62s)
 
 ---
 
-@nikkei.com
+@reuters.com
 
-温暖化で氷河消失3〜5倍に、今世紀半ばにも　国際研究
-www.nikkei.com/article/DGXZQO...
+Flash flood warnings follow levee breach in Washington state reut.rs/48DiMH8
 
-1.5度の温暖化なら年間約2000カ所がなくなると推定。
-
-4度上昇なら約4000カ所が消える可能性があり、アルプス山脈の氷河が1年間ですべて消失する規模にあたります。
-
-スイス・チューリヒ工科大学などの研究グループが分析しました。
-
-[2025-12-16 12:01:18](https://bsky.app/profile/nikkei.com/post/3ma35sldiap24)
+[2025-12-16 12:20:21](https://bsky.app/profile/reuters.com/post/3ma36unojq22b)
 
 ---
 
