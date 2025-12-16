@@ -1,9 +1,9 @@
-# [2025-12-16 14:50 updated](2025_12_16.md)
+# [2025-12-16 15:10 updated](2025_12_16.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">【地震速報】北海道で震度3 津波の心配なし https://news.web.nhk/newsweb/na/na-k10015005461000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3h4rj3bl2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 14:48:02)</span><span style="padding-right:50px;">🔊 Buyout barons suffered the whiplash of a post-pandemic boom. In this episode of The Big View, Jonathan Guilford talks to Thoma Bravo Managing Partner Seth Boro about how the firm is dealing with the fallout as AI once again upends the market reut.rs/4aduObn <a href="https://bsky.app/profile/reuters.com/post/3ma3gzllzjs2k" target="_blank">reuters.com</a> (2025-12-16 14:46:17)</span><span style="padding-right:50px;">【地震速報】北海道で震度3 https://news.web.nhk/newsweb/na/na-k10015005461000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3gxgabjt2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 14:45:02)</span><span style="padding-right:50px;">インドネシアのプラボウォ大統領は１５日、１０００人以上が死亡したスマトラ島の洪水被災地域の活動が今後２─３カ月で正常化する可能性があると述べた。 bit.ly/4pNuPYE <a href="https://bsky.app/profile/japan.reuters.com/post/3ma3gwftk6c22" target="_blank">japan.reuters.com</a> (2025-12-16 14:44:30)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:青森県東方沖, 深さ:20km マグニチュード:5.2, 最大震度:3 📍https://www.google.com/maps?q=40.9,143.1&ll=40.9,143.1&z=7&t=h 地震発生日時:2025-12-16 14:38頃 (10倍速▶210s→21s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3ma3gv7tdfm26" target="_blank">sokuho.news</a> (2025-12-16 14:43:50)</span>
+<span style="padding-right:50px;">＜１５：０１＞　午後3時のドルは154円後半、米雇用統計控え上値重い bit.ly/49j8oDF <a href="https://bsky.app/profile/japan.reuters.com/post/3ma3ibfhsrt2n" target="_blank">japan.reuters.com</a> (2025-12-16 15:08:33)</span><span style="padding-right:50px;">高市首相「海空連絡メカニズム」“日中間で着実な運用確保を” https://news.web.nhk/newsweb/na/na-k10015005371000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3i54iu2h2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 15:06:07)</span><span style="padding-right:50px;">自民と維新 きょう午後6時めどで党首会談を行うと発表 https://news.web.nhk/newsweb/na/na-k10015005481000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3i4y4dtv24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-16 15:06:02)</span><span style="padding-right:50px;">Donald Trump sues the BBC for $10 billion over a misleading edit in a documentary last year <a href="https://bsky.app/profile/bloomberg.com/post/3ma3i3qwvft2f" target="_blank">bloomberg.com</a> (2025-12-16 15:05:23)</span><span style="padding-right:50px;">Trump files $5 billion lawsuit against BBC reut.rs/4q6vHad <a href="https://bsky.app/profile/reuters.com/post/3ma3i3dwaga2r" target="_blank">reuters.com</a> (2025-12-16 15:05:10)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49429.82 (🔻621.42 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3333.00 (🔻47.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.76 (🔻0.46 : 2025-12-16)</span>
+<span style="padding-right:50px;">NIKKEI: 49430.60 (🔻620.64 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48416.56 (🔻177.80 : 2025-12-15)</span><span style="padding-right:50px;">NASDAQ: 23057.41 (🔻272.63 : 2025-12-15)</span><span style="padding-right:50px;">NVIDIA: 176.29 (🔻1.65 : 2025-12-15)</span><span style="padding-right:50px;">トヨタ自動車: 3333.00 (🔻47.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.85 (🔻0.38 : 2025-12-16)</span>
   </div>
 </div>
 
@@ -32,121 +32,107 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
-
-1. Magnitude 5.2 Earthquake Hits Off Northern Japan, No Tsunami Warning Issued
-2. EU Fears US Will Exempt Own Oil and Gas from Methane Emissions Rule
-3. Trump Administration Considers Reclassifying Marijuana as Low-THC Substance
-4. Australian Consumer Sentiment Slides in December Amid Inflation Worries
-5. Morrisons Loses £17mn in Food Fight with Chicken Tax
-6. Japan's LDP to Vote on Diet Size Reduction Bill on December 17
+1. Dollar Hits 154 Yen in Afternoon Trading as US Jobless Numbers Weigh Heavily
+2. Japan's Prime Minister Fumio Kishida Promises Steady Progress on Japan-China Dialogue
+3. LDP and Komeito to Hold Party Chief Talks at 6pm Today
+4. Trump Sues BBC for $10 Billion Over Misleading Documentary Edit
+5. Credit Rating Agency Warns of Potential Rise in Global Private Credit Defaults
+6. EU Relents on Combustion Engine Ban Amidst Auto Industry Pressure
 
 ----
 
+@japan.reuters.com
+
+＜１５：０１＞　午後3時のドルは154円後半、米雇用統計控え上値重い bit.ly/49j8oDF
+
+[2025-12-16 15:08:33](https://bsky.app/profile/japan.reuters.com/post/3ma3ibfhsrt2n)
+
+---
+
 @nhknewsunofficial.bsky.social
 
-【地震速報】北海道で震度3 津波の心配なし
-https://news.web.nhk/newsweb/na/na-k10015005461000
+高市首相「海空連絡メカニズム」“日中間で着実な運用確保を”
+https://news.web.nhk/newsweb/na/na-k10015005371000
 
-[2025-12-16 14:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3h4rj3bl2k)
+[2025-12-16 15:06:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3i54iu2h2m)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+自民と維新 きょう午後6時めどで党首会談を行うと発表
+https://news.web.nhk/newsweb/na/na-k10015005481000
+
+[2025-12-16 15:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3i4y4dtv24)
+
+---
+
+@bloomberg.com
+
+Donald Trump sues the BBC for $10 billion over a misleading edit in a documentary last year
+
+[2025-12-16 15:05:23](https://bsky.app/profile/bloomberg.com/post/3ma3i3qwvft2f)
 
 ---
 
 @reuters.com
 
-🔊 Buyout barons suffered the whiplash of a post-pandemic boom. In this episode of The Big View, Jonathan Guilford talks to Thoma Bravo Managing Partner Seth Boro about how the firm is dealing with the fallout as AI once again upends the market reut.rs/4aduObn
+Trump files $5 billion lawsuit against BBC reut.rs/4q6vHad
 
-[2025-12-16 14:46:17](https://bsky.app/profile/reuters.com/post/3ma3gzllzjs2k)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【地震速報】北海道で震度3
-https://news.web.nhk/newsweb/na/na-k10015005461000
-
-[2025-12-16 14:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3gxgabjt2k)
+[2025-12-16 15:05:10](https://bsky.app/profile/reuters.com/post/3ma3i3dwaga2r)
 
 ---
 
 @japan.reuters.com
 
-インドネシアのプラボウォ大統領は１５日、１０００人以上が死亡したスマトラ島の洪水被災地域の活動が今後２─３カ月で正常化する可能性があると述べた。 bit.ly/4pNuPYE
+信用格付け会社モーニングスターＤＢＲＳは１６日、世界的にプライベートクレジットの借り手企業の利益率が低下しており、２０２６年にはさらなるローンのデフォルト（債務不履行）につながる可能性が高いと指摘した。 bit.ly/4qaFuMw
 
-[2025-12-16 14:44:30](https://bsky.app/profile/japan.reuters.com/post/3ma3gwftk6c22)
+[2025-12-16 15:02:05](https://bsky.app/profile/japan.reuters.com/post/3ma3hvtjtm72v)
+
+---
+
+@nikkei.com
+
+中古住宅、マンションか戸建てか　チェックポイントは
+www.nikkei.com/article/DGXZQO...
+
+耐震など安全性のチェックはどちらも必須です。
+
+戸建なら「水の染み」や「外壁のヒビ」、マンションはゴミ捨て場や駐車場も。
+
+専門家は売り主が「売る理由」の確認も勧めます。
+
+[2025-12-16 15:01:17](https://bsky.app/profile/nikkei.com/post/3ma3hug4nbu24)
 
 ---
 
 @sokuho.news
 
-🔔防災科研より【強震モニタ】動画です。
+🛎️FNNより【速報】です。
 
-震源:青森県東方沖, 深さ:20km
-マグニチュード:5.2, 最大震度:3
-📍https://www.google.com/maps?q=40.9,143.1&ll=40.9,143.1&z=7&t=h
-地震発生日時:2025-12-16 14:38頃
-(10倍速▶210s→21s) #地震
+【速報】和歌山県警の警部 訓練の休憩中に同僚にけん銃の銃口に向け…停職6カ月の懲戒処分
+(2025-12-16 14:51) #ニュース
 
-[2025-12-16 14:43:50](https://bsky.app/profile/sokuho.news/post/3ma3gv7tdfm26)
+[2025-12-16 15:01:16](https://bsky.app/profile/sokuho.news/post/3ma3hufb24y27)
 
 ---
 
 @sokuho.news
 
-🔔気象庁より【地震速報】です。
+🛎️FNNより【速報】です。
 
-14時38分頃、北海道・青森県・岩手県などで最大震度3の地震を観測しました。
-震源:青森県東方沖, 深さ:20km, 規模:M5.2
-この地震による津波の心配はありません。
-(2025-12-16 14:43:10) #地震
+【速報】延岡市のガソリンスタンド強盗致傷事件で会社員の男(38)を逮捕
+(2025-12-16 14:56) #ニュース
 
-[2025-12-16 14:43:12](https://bsky.app/profile/sokuho.news/post/3ma3gu33sji2r)
+[2025-12-16 15:00:49](https://bsky.app/profile/sokuho.news/post/3ma3htlrxxl2y)
 
 ---
 
-@sokuho.news
+@japan.reuters.com
 
-🔔気象庁より【震源速報】です。
+ボンディ米司法長官は１５日、カリフォルニア州の複数の標的に対する爆弾攻撃計画を阻止したと発表した。これに関連し、４人が訴追された。 bit.ly/3N1u1k4
 
-14時38分頃、青森県東方沖(深さ:20km) を震源とする M5.2 の地震を観測しました。
-この地震による津波の心配はありません。
-(2025-12-16 14:42:03) #地震
-
-[2025-12-16 14:42:04](https://bsky.app/profile/sokuho.news/post/3ma3gs2u3f62y)
-
----
-
-@nhknewsunofficial.bsky.social
-
-平口法相 個人の不動産移転登記 国籍記載を求める仕組み導入へ
-https://news.web.nhk/newsweb/na/na-k10015005451000
-
-[2025-12-16 14:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma3gs2au5l2u)
-
----
-
-@sokuho.news
-
-🔔NHKより【地震速報】です。
-
-■震度3■
-渡島東部
-(2025-12-16 14:38) #地震
-
-[2025-12-16 14:40:57](https://bsky.app/profile/sokuho.news/post/3ma3gq2fcqf27)
-
----
-
-@sokuho.news
-
-🔔気象庁より【震度速報】です。
-
-14時38分頃、北海道で最大震度3の地震を観測しました。
-今後の情報に注意してください。
-(2025-12-16 14:40:41) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/16/2025-12-16-14-38-55.html?xlarge_image=1
-
-[2025-12-16 14:40:43](https://bsky.app/profile/sokuho.news/post/3ma3gpnjl752z)
+[2025-12-16 15:00:37](https://bsky.app/profile/japan.reuters.com/post/3ma3ht7hblw2c)
 
 ---
 
