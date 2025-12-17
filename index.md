@@ -1,9 +1,9 @@
-# [2025-12-17 23:50 updated](2025_12_17.md)
+# [2025-12-18 00:10 updated](2025_12_18.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">LIVE: US Treasury unveils Trump Accounts website youtube.com/live/ssOxiUG... <a href="https://bsky.app/profile/reuters.com/post/3ma6vq3xcj22y" target="_blank">reuters.com</a> (2025-12-17 23:47:24)</span><span style="padding-right:50px;">メルカリ、駿河屋と資本業務提携　エンタメ商品数百万点がフリマに（無料記事） www.nikkei.com/article/DGXZQO...  将来は駿河屋の全商品の在庫とフリマを連携させる方針です。エンタメ・ホビー分野では日本最大級の商品数になると説明しています。 <a href="https://bsky.app/profile/nikkei.com/post/3ma6vn54b2s22" target="_blank">nikkei.com</a> (2025-12-17 23:45:44)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】九州道下り線が通行止め 広川IC→八女IC 乗用車が横転し2人意識不明 高速バスがう回運行 福岡 (2025-12-17 23:25) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma6vn4wa6i2x" target="_blank">sokuho.news</a> (2025-12-17 23:45:44)</span><span style="padding-right:50px;">French drone makers call for more state spending as budget talks drag on reut.rs/4pJxlz5 <a href="https://bsky.app/profile/reuters.com/post/3ma6vme4qbq2k" target="_blank">reuters.com</a> (2025-12-17 23:45:18)</span><span style="padding-right:50px;">Hundreds of underage girls married off and hundreds more children kidnapped as U.S. foreign aid cuts contribute to surge in violations against persecuted Rohingya children. <a href="https://bsky.app/profile/apnews.com/post/3ma6vlzrfr326" target="_blank">apnews.com</a> (2025-12-17 23:45:07)</span>
+<span style="padding-right:50px;">米連邦準備理事会（ＦＲＢ）のウォラー理事は１７日、雇用市場の軟化が懸念される中、ＦＲＢには依然として金利を引き下げる余地があるとの認識を示した。 bit.ly/450Ya9q <a href="https://bsky.app/profile/japan.reuters.com/post/3ma6wwrrvvz2c" target="_blank">japan.reuters.com</a> (2025-12-18 00:09:02)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】「2階から火が出ている」奈良・三郷町の住宅で火事 現在も燃焼中 住人1人と連絡取れず安否確認進める (2025-12-17 23:56) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma6wuafiwh2b" target="_blank">sokuho.news</a> (2025-12-18 00:07:36)</span><span style="padding-right:50px;">British PM Keir Starmer on Wednesday warned former Chelsea owner Roman Abramovich "the clock is ticking" over the frozen £2.5 billion ($3.4 billion) generated from the sale of the club, which has been earmarked to help Ukraine's war victims ➡️ u.afp.com/S7tf <a href="https://bsky.app/profile/en.afp.com/post/3ma6wqjvpus2k" target="_blank">en.afp.com</a> (2025-12-18 00:05:32)</span><span style="padding-right:50px;">Olivia Hillier started casually selling her old clothes on resale app Poshmark in 2019. Three years later, she's buying a house with the revenue she made. <a href="https://bsky.app/profile/cnbc.com/post/3ma6wq7kwom2g" target="_blank">cnbc.com</a> (2025-12-18 00:05:21)</span><span style="padding-right:50px;">Lithium surges in China after local authorities announce plan to revoke mining licences reut.rs/4qcnJwl <a href="https://bsky.app/profile/reuters.com/post/3ma6wq23yhk2i" target="_blank">reuters.com</a> (2025-12-18 00:05:16)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48303.02 (🔺174.97 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 23043.98 (🔻91.63 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻1.96 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.54 (🔺0.79 : 2025-12-17)</span>
+<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48313.39 (🔺185.34 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 23058.66 (🔻76.95 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 174.06 (🔻2.04 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.51 (🔺0.76 : 2025-12-17)</span>
   </div>
 </div>
 
@@ -32,33 +32,22 @@
 
 ## News Headlines
 
-Here are the six selected headlines:
+Here are six important stories with headlines in English:
 
-1. US Treasury Unveils Trump Accounts Website
-2. Mercurial and Pochiya Join Forces to Offer Millions of Entertainment Items on Mercari
-3. French Drone Makers Call for Increased Government Spending
-4. Hundreds of Underage Girls Married Off Amid US Foreign Aid Cuts
-5. UK House Prices and Private Rents Experience Slowing Growth
-6. Honda Announces Production Cuts Due to Semiconductor Shortage
+1. Fed Official Says Interest Rate Cuts Remain Possible Amid Economic Concerns
+2. Fire Rages at Residential Building in Japan, Resident's Safety Unconfirmed
+3. British PM Warns Abramovich Over Frozen Chelsea Funds for Ukraine
+4. Woman Buys House with Earnings from Reselling Old Clothes on App
+5. Lithium Prices Surge in China Amid Mining License Revocation
+6. Trump's Venezuela Tanker Blockade Has Significant Oil-Market Impact
 
 ----
 
-@reuters.com
+@japan.reuters.com
 
-LIVE: US Treasury unveils Trump Accounts website youtube.com/live/ssOxiUG...
+米連邦準備理事会（ＦＲＢ）のウォラー理事は１７日、雇用市場の軟化が懸念される中、ＦＲＢには依然として金利を引き下げる余地があるとの認識を示した。 bit.ly/450Ya9q
 
-[2025-12-17 23:47:24](https://bsky.app/profile/reuters.com/post/3ma6vq3xcj22y)
-
----
-
-@nikkei.com
-
-メルカリ、駿河屋と資本業務提携　エンタメ商品数百万点がフリマに（無料記事）
-www.nikkei.com/article/DGXZQO...
-
-将来は駿河屋の全商品の在庫とフリマを連携させる方針です。エンタメ・ホビー分野では日本最大級の商品数になると説明しています。
-
-[2025-12-17 23:45:44](https://bsky.app/profile/nikkei.com/post/3ma6vn54b2s22)
+[2025-12-18 00:09:02](https://bsky.app/profile/japan.reuters.com/post/3ma6wwrrvvz2c)
 
 ---
 
@@ -66,68 +55,74 @@ www.nikkei.com/article/DGXZQO...
 
 🛎️FNNより【速報】です。
 
-【速報】九州道下り線が通行止め 広川IC→八女IC 乗用車が横転し2人意識不明 高速バスがう回運行 福岡
-(2025-12-17 23:25) #ニュース
+【速報】「2階から火が出ている」奈良・三郷町の住宅で火事 現在も燃焼中 住人1人と連絡取れず安否確認進める
+(2025-12-17 23:56) #ニュース
 
-[2025-12-17 23:45:44](https://bsky.app/profile/sokuho.news/post/3ma6vn4wa6i2x)
+[2025-12-18 00:07:36](https://bsky.app/profile/sokuho.news/post/3ma6wuafiwh2b)
+
+---
+
+@en.afp.com
+
+British PM Keir Starmer on Wednesday warned former Chelsea owner Roman Abramovich "the clock is ticking" over the frozen £2.5 billion ($3.4 billion) generated from the sale of the club, which has been earmarked to help Ukraine's war victims ➡️ u.afp.com/S7tf
+
+[2025-12-18 00:05:32](https://bsky.app/profile/en.afp.com/post/3ma6wqjvpus2k)
+
+---
+
+@cnbc.com
+
+Olivia Hillier started casually selling her old clothes on resale app Poshmark in 2019. Three years later, she's buying a house with the revenue she made.
+
+[2025-12-18 00:05:21](https://bsky.app/profile/cnbc.com/post/3ma6wq7kwom2g)
 
 ---
 
 @reuters.com
 
-French drone makers call for more state spending as budget talks drag on reut.rs/4pJxlz5
+Lithium surges in China after local authorities announce plan to revoke mining licences reut.rs/4qcnJwl
 
-[2025-12-17 23:45:18](https://bsky.app/profile/reuters.com/post/3ma6vme4qbq2k)
+[2025-12-18 00:05:16](https://bsky.app/profile/reuters.com/post/3ma6wq23yhk2i)
+
+---
+
+@cnn.com
+
+"While plenty have focused on his declining overall approval ratings, perhaps the better measure of Trump’s political power is those who strongly approve of him," writes Aaron Blake. | Analysis
+
+[2025-12-18 00:02:02](https://bsky.app/profile/cnn.com/post/3ma6wkbeic72u)
+
+---
+
+@wsj.com
+
+Mysterious illnesses also rose after the fires, according to a new study that reviewed emergency-department visits. on.wsj.com/3Y0xkKH
+
+[2025-12-18 00:01:40](https://bsky.app/profile/wsj.com/post/3ma6wjn2uay2h)
 
 ---
 
 @apnews.com
 
-Hundreds of underage girls married off and hundreds more children kidnapped as U.S. foreign aid cuts contribute to surge in violations against persecuted Rohingya children.
+A professor at the Massachusetts Institute of Technology has been fatally shot at his home near Boston and authorities say they have launched a homicide investigation.
 
-[2025-12-17 23:45:07](https://bsky.app/profile/apnews.com/post/3ma6vlzrfr326)
+[2025-12-18 00:00:50](https://bsky.app/profile/apnews.com/post/3ma6wi4prpo22)
 
 ---
 
-@nytimes.com
+@usatoday.com
 
-What’s your most-played game? Do you tend to solve in the morning, afternoon or evening? Your Year in Games will tell all, with personalized game stats from Wordle, Connections, Spelling Bee, and Strands.
+As Emily Cooper heads to Rome, here's what to know about Season 5 of Netflix "Emily in Paris" and how to watch.
 
-Check out your own Year in Games: nyti.ms/3MRvBVH
-
-[2025-12-17 23:43:07](https://bsky.app/profile/nytimes.com/post/3ma6vigpqja2b)
+[2025-12-18 00:00:47](https://bsky.app/profile/usatoday.com/post/3ma6wi24m5q25)
 
 ---
 
 @japan.reuters.com
 
-豪警察当局は１７日、シドニー近郊のボンダイビーチで発生した銃乱射事件の容疑者を殺人やテロ関連犯罪など５９件の罪で訴追したと発表した。 bit.ly/4aTRm0Y
+独ＩＦＯ経済研究所が１７日発表した１２月の業況指数は８７．６と、前月改定値の８８．０から予想外に低下した。 bit.ly/4qcfDDQ
 
-[2025-12-17 23:40:40](https://bsky.app/profile/japan.reuters.com/post/3ma6ve2fn5b22)
-
----
-
-@reuters.com
-
-Growth in UK house prices and private rents slows reut.rs/4antkvm
-
-[2025-12-17 23:40:21](https://bsky.app/profile/reuters.com/post/3ma6vdj4wjy2i)
-
----
-
-@nytimes.com
-
-“We were their friends, and we will miss them forever.” Billy Crystal, Larry David, Martin Short and several other prominent figures and close friends of Rob Reiner’s released a statement on Tuesday memorializing the Hollywood director and his wife, Michele Singer Reiner.
-
-[2025-12-17 23:40:03](https://bsky.app/profile/nytimes.com/post/3ma6vcxaawc2s)
-
----
-
-@reuters.com
-
-Domestic demand to drive German recovery in 2026, says IMK reut.rs/4oZPYxu
-
-[2025-12-17 23:35:11](https://bsky.app/profile/reuters.com/post/3ma6v2bclg52i)
+[2025-12-18 00:00:46](https://bsky.app/profile/japan.reuters.com/post/3ma6whzb7fk2c)
 
 ---
 
@@ -135,11 +130,11 @@ Domestic demand to drive German recovery in 2026, says IMK reut.rs/4oZPYxu
 
 ## 2025-12
 
-[12月17日](2025_12_17.md), [12月16日](2025_12_16.md), [12月15日](2025_12_15.md), [12月14日](2025_12_14.md), [12月13日](2025_12_13.md), [12月12日](2025_12_12.md), [12月11日](2025_12_11.md), 
+[12月18日](2025_12_18.md), [12月17日](2025_12_17.md), [12月16日](2025_12_16.md), [12月15日](2025_12_15.md), [12月14日](2025_12_14.md), [12月13日](2025_12_13.md), [12月12日](2025_12_12.md), 
 
-[12月10日](2025_12_10.md), [12月09日](2025_12_09.md), [12月08日](2025_12_08.md), [12月07日](2025_12_07.md), [12月06日](2025_12_06.md), [12月05日](2025_12_05.md), [12月04日](2025_12_04.md), 
+[12月11日](2025_12_11.md), [12月10日](2025_12_10.md), [12月09日](2025_12_09.md), [12月08日](2025_12_08.md), [12月07日](2025_12_07.md), [12月06日](2025_12_06.md), [12月05日](2025_12_05.md), 
 
-[12月03日](2025_12_03.md), [12月02日](2025_12_02.md), [12月01日](2025_12_01.md), 
+[12月04日](2025_12_04.md), [12月03日](2025_12_03.md), [12月02日](2025_12_02.md), [12月01日](2025_12_01.md), 
 
 ## 2025-11
 
