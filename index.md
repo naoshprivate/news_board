@@ -1,9 +1,9 @@
-# [2025-12-18 06:30 updated](2025_12_18.md)
+# [2025-12-18 06:50 updated](2025_12_18.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Ex-Marine planned attack in New Orleans that would 'recreate' Waco, officials say. <a href="https://bsky.app/profile/nbcnews.com/post/3ma7m2uctqo24" target="_blank">nbcnews.com</a> (2025-12-18 06:27:07)</span><span style="padding-right:50px;">米上院は１７日、２０２６会計年度の国防予算を定める国防権限法（ＮＤＡＡ）案を７７対２０の賛成多数で可決し、ホワイトハウスに送付した。米下院も１０日に賛成多数で可決しており、トランプ大統領の署名を経て成立する見通し。総額は過去最大の９０１０億ドル。 bit.ly/4aiz8pO <a href="https://bsky.app/profile/japan.reuters.com/post/3ma7lzmw2az2u" target="_blank">japan.reuters.com</a> (2025-12-18 06:26:26)</span><span style="padding-right:50px;">EU rules out UK exemption from carbon border levy until markets link reut.rs/4oZmYFS <a href="https://bsky.app/profile/reuters.com/post/3ma7lxg5lop2r" target="_blank">reuters.com</a> (2025-12-18 06:25:12)</span><span style="padding-right:50px;">Strong winds battered Oregon, Washington and British Columbia early Wednesday morning, leaving hundreds of thousands of people without power across a region where unusual amounts of rain in the last week have pushed rivers over their banks and forced tens of thousands of people to flee their homes. <a href="https://bsky.app/profile/nytimes.com/post/3ma7lx5lw5a2r" target="_blank">nytimes.com</a> (2025-12-18 06:25:03)</span><span style="padding-right:50px;">Delta president Glen Hauenstein, who helped turn airline into industry profit leader, to retire in February <a href="https://bsky.app/profile/cnbc.com/post/3ma7lvmg2wy2d" target="_blank">cnbc.com</a> (2025-12-18 06:24:11)</span>
+<span style="padding-right:50px;">The exhibitions in the newly reopened museum offer a riveting look at its history, an engaging if slightly thin survey of its collection, and a show of electric-light sculpture by Tom Lloyd. on.wsj.com/4amEkcd <a href="https://bsky.app/profile/wsj.com/post/3ma7nbuo5dz2i" target="_blank">wsj.com</a> (2025-12-18 06:48:56)</span><span style="padding-right:50px;">Reports: Dolphins bench Tua Tagovailoa, to start rookie QB Quinn Ewers reut.rs/3XX1RsZ <a href="https://bsky.app/profile/reuters.com/post/3ma7n3k3laf2o" target="_blank">reuters.com</a> (2025-12-18 06:45:24)</span><span style="padding-right:50px;">NVIDIA対Google、AI半導体競争で笑うのはTSMCか www.nikkei.com/article/DGXZQO...  AI半導体TPU（テンサー・プロセッシング・ユニット）の台頭は半導体業界の勢力図に影響を及ぼす可能性があります。  ただどちらが勝とうが最後に笑うのはTSMCなど台湾勢になるのかもしれません。 <a href="https://bsky.app/profile/nikkei.com/post/3ma7n3bfkqr26" target="_blank">nikkei.com</a> (2025-12-18 06:45:15)</span><span style="padding-right:50px;">三井住友FG 中島社長 “デジタル分野に3年間で1兆円規模投資” https://news.web.nhk/newsweb/na/na-k10015006861000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma7n2xxgh32y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 06:45:02)</span><span style="padding-right:50px;">Epstein accomplice Ghislaine Maxwell petitions to vacate sex crime conviction <a href="https://bsky.app/profile/cnbc.com/post/3ma7mxef62c2p" target="_blank">cnbc.com</a> (2025-12-18 06:43:04)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.73 (🔺0.98 : 2025-12-17)</span>
+<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.71 (🔺0.96 : 2025-12-17)</span>
   </div>
 </div>
 
@@ -32,94 +32,103 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are six news headlines in English:
 
-1. Ex-Marine Planned Attack in New Orleans That Would 'Recreate' Waco, Officials Say
-2. US House Approves Record $9.01 Trillion Defense Budget
-3. Strong Winds and Heavy Rains Leave Hundreds of Thousands Without Power in US and Canada
-4. Trump Expected to Sign Executive Order to Relax Marijuana Regulations
-5. Russian President Putin Warns of Military Action in Ukraine
-6. UN Chief Calls for Restraint Between US and Venezuela
+1. NVIDIA vs Google: TSMC Set to Laugh Last in AI Chip Battle
+2. Epstein Accomplice Ghislaine Maxwell Seeks to Vacate Sex Crime Conviction
+3. Polish Regulator Gives Green Light for Erste's Takeover of Santander
+4. US Sea-Level Rise Accelerates, Contrasting Trump Administration's Climate Science Assessment
+5. Bridgewater Founder Ray Dalio to Fund Trump's Children's Education in Connecticut
+6. US Senate Approves Record $1.01 Trillion Defense Budget
 
 ----
 
-@nbcnews.com
+@wsj.com
 
-Ex-Marine planned attack in New Orleans that would 'recreate' Waco, officials say.
+The exhibitions in the newly reopened museum offer a riveting look at its history, an engaging if slightly thin survey of its collection, and a show of electric-light sculpture by Tom Lloyd. on.wsj.com/4amEkcd
 
-[2025-12-18 06:27:07](https://bsky.app/profile/nbcnews.com/post/3ma7m2uctqo24)
-
----
-
-@japan.reuters.com
-
-米上院は１７日、２０２６会計年度の国防予算を定める国防権限法（ＮＤＡＡ）案を７７対２０の賛成多数で可決し、ホワイトハウスに送付した。米下院も１０日に賛成多数で可決しており、トランプ大統領の署名を経て成立する見通し。総額は過去最大の９０１０億ドル。 bit.ly/4aiz8pO
-
-[2025-12-18 06:26:26](https://bsky.app/profile/japan.reuters.com/post/3ma7lzmw2az2u)
+[2025-12-18 06:48:56](https://bsky.app/profile/wsj.com/post/3ma7nbuo5dz2i)
 
 ---
 
 @reuters.com
 
-EU rules out UK exemption from carbon border levy until markets link reut.rs/4oZmYFS
+Reports: Dolphins bench Tua Tagovailoa, to start rookie QB Quinn Ewers reut.rs/3XX1RsZ
 
-[2025-12-18 06:25:12](https://bsky.app/profile/reuters.com/post/3ma7lxg5lop2r)
-
----
-
-@nytimes.com
-
-Strong winds battered Oregon, Washington and British Columbia early Wednesday morning, leaving hundreds of thousands of people without power across a region where unusual amounts of rain in the last week have pushed rivers over their banks and forced tens of thousands of people to flee their homes.
-
-[2025-12-18 06:25:03](https://bsky.app/profile/nytimes.com/post/3ma7lx5lw5a2r)
+[2025-12-18 06:45:24](https://bsky.app/profile/reuters.com/post/3ma7n3k3laf2o)
 
 ---
 
-@cnbc.com
+@nikkei.com
 
-Delta president Glen Hauenstein, who helped turn airline into industry profit leader, to retire in February
+NVIDIA対Google、AI半導体競争で笑うのはTSMCか
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-18 06:24:11](https://bsky.app/profile/cnbc.com/post/3ma7lvmg2wy2d)
+AI半導体TPU（テンサー・プロセッシング・ユニット）の台頭は半導体業界の勢力図に影響を及ぼす可能性があります。
 
----
+ただどちらが勝とうが最後に笑うのはTSMCなど台湾勢になるのかもしれません。
 
-@nbcnews.com
-
-A Kansas school has decided to start its holiday break early after illnesses wreaked havoc on its students and staff, with more than 40 calling out sick in one day.
-
-[2025-12-18 06:24:07](https://bsky.app/profile/nbcnews.com/post/3ma7lvj62m726)
+[2025-12-18 06:45:15](https://bsky.app/profile/nikkei.com/post/3ma7n3bfkqr26)
 
 ---
 
-@nbcnews.com
+@nhknewsunofficial.bsky.social
 
-Gil Gerard, who played television’s hunky sci-fi hero William “Buck” Rogers soon after the Star Wars franchise took hold in the late 1970s, has died at age 82.
+三井住友FG 中島社長 “デジタル分野に3年間で1兆円規模投資”
+https://news.web.nhk/newsweb/na/na-k10015006861000
 
-[2025-12-18 06:23:07](https://bsky.app/profile/nbcnews.com/post/3ma7ltpelae2k)
+[2025-12-18 06:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma7n2xxgh32y)
 
 ---
 
 @cnbc.com
 
-Santoli's Wednesday market wrap-up: Ability to absorb unwind of AI-infrastructure trade being tested
+Epstein accomplice Ghislaine Maxwell petitions to vacate sex crime conviction
 
-[2025-12-18 06:23:06](https://bsky.app/profile/cnbc.com/post/3ma7ltolbcc24)
+[2025-12-18 06:43:04](https://bsky.app/profile/cnbc.com/post/3ma7mxef62c2p)
+
+---
+
+@reuters.com
+
+Polish financial regulator gives green light for Erste's takeover of Santander reut.rs/4j6K4cu
+
+[2025-12-18 06:40:25](https://bsky.app/profile/reuters.com/post/3ma7msmxcrh24)
 
 ---
 
 @nbcnews.com
 
-NEW: HHS terminates seven grants totaling millions of dollars to the American Academy of Pediatrics, which is suing Secretary Robert F. Kennedy Jr. over vaccine policy.
+The White House has installed plaques on the exterior of the building bashing President Trump's predecessors, including Presidents Biden and Obama.
 
-[2025-12-18 06:22:57](https://bsky.app/profile/nbcnews.com/post/3ma7ltg33gr2n)
+[2025-12-18 06:40:10](https://bsky.app/profile/nbcnews.com/post/3ma7ms77raa25)
 
 ---
 
-@nbcnews.com
+@sokuho.news
 
-Rep. Ro Khanna, one of the sponsors of the law requiring the release of the investigative files relating to Jeffrey Epstein, says he's giving the Justice Dept. the "benefit of the doubt" that it will make the files public by Friday — warning that there would be repercussions if it doesn't.
+🛎️NNNより【速報】です。
 
-[2025-12-18 06:21:08](https://bsky.app/profile/nbcnews.com/post/3ma7lq5r3js22)
+【速報】徳島市南佐古四番町で家屋全焼 建物内から身元不明の遺体【徳島】
+(2025-12-18 06:29) #ニュース
+
+[2025-12-18 06:38:29](https://bsky.app/profile/sokuho.news/post/3ma7mp6gxyl2r)
+
+---
+
+@japan.reuters.com
+
+（暫定値） bit.ly/4j5fi3B
+
+[2025-12-18 06:38:17](https://bsky.app/profile/japan.reuters.com/post/3ma7motftfu2q)
+
+---
+
+@wsj.com
+
+The best football teams tend to dominate possession. Oklahoma has the ball less than their opponents, and it’s gotten them to the College Football Playoff.
+
+[2025-12-18 06:35:35](https://bsky.app/profile/wsj.com/post/3ma7mjyq3ow2k)
 
 ---
 
