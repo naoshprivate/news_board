@@ -1,9 +1,9 @@
-# [2025-12-18 05:30 updated](2025_12_18.md)
+# [2025-12-18 05:50 updated](2025_12_18.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】未明の徳島市で住宅火災 焼け跡から1人の遺体見つかる 住人の高齢男性と連絡取れず (2025-12-18 05:13) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma7in2wxxh2r" target="_blank">sokuho.news</a> (2025-12-18 05:25:43)</span><span style="padding-right:50px;">China voices support for Venezuela, says it opposes 'unilateral bullying' reut.rs/44AwGHA <a href="https://bsky.app/profile/reuters.com/post/3ma7im5n7442r" target="_blank">reuters.com</a> (2025-12-18 05:25:12)</span><span style="padding-right:50px;">ウクライナへの賠償額審査する委員会設置へ ヨーロッパ評議会 https://news.web.nhk/newsweb/na/na-k10015006891000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma7ik4si5d2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 05:24:02)</span><span style="padding-right:50px;">Inflation expected to remain above Fed target in November as economic data schedule gets back on track <a href="https://bsky.app/profile/yahoofinance.com/post/3ma7ifgbtdb2u" target="_blank">yahoofinance.com</a> (2025-12-18 05:21:27)</span><span style="padding-right:50px;">米ワーナー パラマウントからの買収提案拒否を株主に呼びかけ https://news.web.nhk/newsweb/na/na-k10015007021000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma7iertnsh2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 05:21:03)</span>
+<span style="padding-right:50px;">More owners are giving the greenlight to upgrades that boost the value of their rental property. on.wsj.com/4s4bT9n <a href="https://bsky.app/profile/wsj.com/post/3ma7jvahnbk23" target="_blank">wsj.com</a> (2025-12-18 05:48:11)</span><span style="padding-right:50px;">アサヒグループHD 東アフリカの酒造事業買収を発表 英大手から https://news.web.nhk/newsweb/na/na-k10015006981000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma7jv734ox2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 05:48:08)</span><span style="padding-right:50px;">安倍元首相銃撃事件の裁判 きょう検察が山上被告に求刑へ https://news.web.nhk/newsweb/na/na-k10015006901000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma7jv26kw52w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 05:48:02)</span><span style="padding-right:50px;">The Oscars will be shown only on YouTube from 2029, the Academy said Wednesday, in a radical gambit for a movie industry that remains wary of streaming platforms even as viewing habits shift online.  u.afp.com/S7v6 <a href="https://bsky.app/profile/en.afp.com/post/3ma7jrepfcs2f" target="_blank">en.afp.com</a> (2025-12-18 05:46:01)</span><span style="padding-right:50px;">Gunmen kidnap 13 worshippers in central Nigeria church attack reut.rs/4qjkAuY <a href="https://bsky.app/profile/reuters.com/post/3ma7jq3mchj2i" target="_blank">reuters.com</a> (2025-12-18 05:45:18)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 47942.57 (🔻185.48 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22765.18 (🔻370.43 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 171.33 (🔻4.77 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.70 (🔺0.95 : 2025-12-17)</span>
+<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 47920.45 (🔻207.60 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22746.01 (🔻389.60 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 171.34 (🔻4.76 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.68 (🔺0.93 : 2025-12-17)</span>
   </div>
 </div>
 
@@ -32,99 +32,99 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are six important stories with headlines:
 
-1. Body Found in Burned-Out House in Tokushima City
-2. Wall Street Expects Record Year for IPOs in 2026
-3. Ukraine Seeks Financial Compensation from Europe
-4. US Postal Service Seeks New Revenue Streams to Avoid 2027 Cash Crunch
-5. Netanyahu Approves $35 Billion Gas Deal with Egypt
-6. Former Justice Department Special Counsel Testifies on Trump's Election Scheme
+1. NASA Names Jared Isaacman as New Administrator After Senate Confirmation
+2. Russia's Putin Pledges to Expand 'Security Buffer' in Ukraine
+3. Trump Administration Proposes Donations to Supplement Newborn Stock Market Accounts
+4. US Postal Service Seeks New Delivery Revenue to Avoid 2027 Cash Crunch
+5. Putin Claims Europe is Aiding Ukraine's Security Threat
+6. China Supports Venezuela, Opposes 'Unilateral Bullying' by Other Nations
 
 ----
 
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】未明の徳島市で住宅火災 焼け跡から1人の遺体見つかる 住人の高齢男性と連絡取れず
-(2025-12-18 05:13) #ニュース
-
-[2025-12-18 05:25:43](https://bsky.app/profile/sokuho.news/post/3ma7in2wxxh2r)
-
----
-
-@reuters.com
-
-China voices support for Venezuela, says it opposes 'unilateral bullying' reut.rs/44AwGHA
-
-[2025-12-18 05:25:12](https://bsky.app/profile/reuters.com/post/3ma7im5n7442r)
-
----
-
-@nhknewsunofficial.bsky.social
-
-ウクライナへの賠償額審査する委員会設置へ ヨーロッパ評議会
-https://news.web.nhk/newsweb/na/na-k10015006891000
-
-[2025-12-18 05:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma7ik4si5d2b)
-
----
-
-@yahoofinance.com
-
-Inflation expected to remain above Fed target in November as economic data schedule gets back on track
-
-[2025-12-18 05:21:27](https://bsky.app/profile/yahoofinance.com/post/3ma7ifgbtdb2u)
-
----
-
-@nhknewsunofficial.bsky.social
-
-米ワーナー パラマウントからの買収提案拒否を株主に呼びかけ
-https://news.web.nhk/newsweb/na/na-k10015007021000
-
-[2025-12-18 05:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma7iertnsh2u)
-
----
-
-@japan.reuters.com
-
-米金融・債券市場は小動きとなった。連邦政府機関閉鎖の影響で、発表が遅れたり一部が欠落したりする経済指標を市場が見極める中、米連邦準備理事会（ＦＲＢ）が数カ月は追加利下げに踏み切らないとの見方が広がっている。 bit.ly/453PrTU
-
-[2025-12-18 05:21:01](https://bsky.app/profile/japan.reuters.com/post/3ma7ienq2rn2u)
-
----
-
-@japan.reuters.com
-
-ロシアのプーチン大統領は１７日、ロシアは外交的手段あるいは軍事的手段でウクライナにおける目標を達成し、同国での「安全保障上の緩衝地帯」の拡大を目指すとの考えを示した。 bit.ly/45cXL3G
-
-[2025-12-18 05:20:27](https://bsky.app/profile/japan.reuters.com/post/3ma7idnjbo725)
-
----
-
 @wsj.com
 
-Wall Street is getting a glimpse of what could be the biggest year ever for IPOs in the U.S.
+More owners are giving the greenlight to upgrades that boost the value of their rental property. on.wsj.com/4s4bT9n
 
-[2025-12-18 05:20:18](https://bsky.app/profile/wsj.com/post/3ma7idf2rxh2i)
+[2025-12-18 05:48:11](https://bsky.app/profile/wsj.com/post/3ma7jvahnbk23)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+アサヒグループHD 東アフリカの酒造事業買収を発表 英大手から
+https://news.web.nhk/newsweb/na/na-k10015006981000
+
+[2025-12-18 05:48:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma7jv734ox2b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+安倍元首相銃撃事件の裁判 きょう検察が山上被告に求刑へ
+https://news.web.nhk/newsweb/na/na-k10015006901000
+
+[2025-12-18 05:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma7jv26kw52w)
+
+---
+
+@en.afp.com
+
+The Oscars will be shown only on YouTube from 2029, the Academy said Wednesday, in a radical gambit for a movie industry that remains wary of streaming platforms even as viewing habits shift online.
+
+u.afp.com/S7v6
+
+[2025-12-18 05:46:01](https://bsky.app/profile/en.afp.com/post/3ma7jrepfcs2f)
 
 ---
 
 @reuters.com
 
-President Trump will deliver a rare evening address from the White House about his first year back in office, focusing on what he sees as big victories even as Americans worry about the economy and Republicans face tough midterm elections in 2026 reut.rs/3MAk8tI
+Gunmen kidnap 13 worshippers in central Nigeria church attack reut.rs/4qjkAuY
 
-[2025-12-18 05:20:12](https://bsky.app/profile/reuters.com/post/3ma7id6myns22)
+[2025-12-18 05:45:18](https://bsky.app/profile/reuters.com/post/3ma7jq3mchj2i)
+
+---
+
+@washingtonpost.com
+
+Nick Reiner made his first court appearance in a jail suicide-prevention smock on Wednesday, a day after he was charged with fatally stabbing his parents, filmmaker Rob Reiner and photographer Michele Singer Reiner. 
+
+
+[2025-12-18 05:45:05](https://bsky.app/profile/washingtonpost.com/post/3ma7jpox7ap24)
+
+---
+
+@nytimes.com
+
+Forget those bland treats of yore: These tips make holiday cookies delicious and foolproof for anyone.
+
+[2025-12-18 05:43:03](https://bsky.app/profile/nytimes.com/post/3ma7jm2m3pb2z)
+
+---
+
+@japan.reuters.com
+
+米連邦準備理事会（ＦＲＢ）のウォラー理事は１７日、トランプ米大統領がＦＲＢの独立性に異議を唱えた場合、「絶対に」ＦＲＢの独立性を擁護すると述べた。ウォラー氏はＦＲＢの次期議長候補に名前が挙がっており、トランプ大統領が１７日に面接するとみられている。 bit.ly/4p12Cw6
+
+[2025-12-18 05:40:34](https://bsky.app/profile/japan.reuters.com/post/3ma7jhm75x62s)
+
+---
+
+@reuters.com
+
+Boost, Overtake and Recharge; F1 announces new terms for 2026 reut.rs/3KAbmeE
+
+[2025-12-18 05:40:28](https://bsky.app/profile/reuters.com/post/3ma7jhgcpm32r)
 
 ---
 
 @nbcnews.com
 
-As people across the country prepare for holiday travel, dangerous wind gusts and heavy snow will produce hazardous conditions and potential infrastructure impacts from the Northwest to the North-Central U.S, the NWS says.
+Billionaire entrepreneur Jared Isaacman has been confirmed by the Senate to be the new head of NASA, marking the end of a dramatic saga that began more than a year ago.
 
-[2025-12-18 05:20:11](https://bsky.app/profile/nbcnews.com/post/3ma7id66txf2r)
+[2025-12-18 05:40:15](https://bsky.app/profile/nbcnews.com/post/3ma7jh2ibce2k)
 
 ---
 
