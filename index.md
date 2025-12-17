@@ -1,9 +1,9 @@
-# [2025-12-18 06:50 updated](2025_12_18.md)
+# [2025-12-18 07:10 updated](2025_12_18.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The exhibitions in the newly reopened museum offer a riveting look at its history, an engaging if slightly thin survey of its collection, and a show of electric-light sculpture by Tom Lloyd. on.wsj.com/4amEkcd <a href="https://bsky.app/profile/wsj.com/post/3ma7nbuo5dz2i" target="_blank">wsj.com</a> (2025-12-18 06:48:56)</span><span style="padding-right:50px;">Reports: Dolphins bench Tua Tagovailoa, to start rookie QB Quinn Ewers reut.rs/3XX1RsZ <a href="https://bsky.app/profile/reuters.com/post/3ma7n3k3laf2o" target="_blank">reuters.com</a> (2025-12-18 06:45:24)</span><span style="padding-right:50px;">NVIDIA対Google、AI半導体競争で笑うのはTSMCか www.nikkei.com/article/DGXZQO...  AI半導体TPU（テンサー・プロセッシング・ユニット）の台頭は半導体業界の勢力図に影響を及ぼす可能性があります。  ただどちらが勝とうが最後に笑うのはTSMCなど台湾勢になるのかもしれません。 <a href="https://bsky.app/profile/nikkei.com/post/3ma7n3bfkqr26" target="_blank">nikkei.com</a> (2025-12-18 06:45:15)</span><span style="padding-right:50px;">三井住友FG 中島社長 “デジタル分野に3年間で1兆円規模投資” https://news.web.nhk/newsweb/na/na-k10015006861000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma7n2xxgh32y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 06:45:02)</span><span style="padding-right:50px;">Epstein accomplice Ghislaine Maxwell petitions to vacate sex crime conviction <a href="https://bsky.app/profile/cnbc.com/post/3ma7mxef62c2p" target="_blank">cnbc.com</a> (2025-12-18 06:43:04)</span>
+<span style="padding-right:50px;">🛎️産経より【独自】です。  ＜独自＞SBI新生銀、抽選で住宅ローン3カ月分の金利相当額を還元へ 新規上場を記念 (2025/12/18 06:00) #ニュース https://www.sankei.com/article/20251218-P6DDMI5VQ5PKBHTPFSVOJDQSQ4/ <a href="https://bsky.app/profile/sokuho.news/post/3ma7ofl7hmt2e" target="_blank">sokuho.news</a> (2025-12-18 07:08:54)</span><span style="padding-right:50px;">India v South Africa T20 game in Lucknow called off due to fog reut.rs/4j5hY19 <a href="https://bsky.app/profile/reuters.com/post/3ma7o6zeqla2r" target="_blank">reuters.com</a> (2025-12-18 07:05:14)</span><span style="padding-right:50px;">欧州連合（ＥＵ）欧州議会は１７日、ロシア産天然ガス輸入を段階的に縮小して２０２７年中にゼロにする計画を賛成多数で承認した。今後加盟各国の閣僚が承認すれば正式に発効する。 bit.ly/45h71DZ <a href="https://bsky.app/profile/japan.reuters.com/post/3ma7o3db4od27" target="_blank">japan.reuters.com</a> (2025-12-18 07:03:10)</span><span style="padding-right:50px;">The US government has collected $1 billion in de minimis tariff revenue since rolling back the exemption on low-value packages this spring, according to new data that Customs and Border Protection shared exclusively with CNN. https://cnn.it/4s4a649 <a href="https://bsky.app/profile/cnn.com/post/3ma7nzciv3c2k" target="_blank">cnn.com</a> (2025-12-18 07:02:02)</span><span style="padding-right:50px;">Nigeria's Tinubu seeks $30 billion budget reset to end overlapping fiscal years reut.rs/4iZPe9Y <a href="https://bsky.app/profile/reuters.com/post/3ma7nysiabu2y" target="_blank">reuters.com</a> (2025-12-18 07:01:46)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.71 (🔺0.96 : 2025-12-17)</span>
+<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.62 (🔺0.87 : 2025-12-17)</span>
   </div>
 </div>
 
@@ -32,103 +32,104 @@
 
 ## News Headlines
 
-Here are six news headlines in English:
-
-1. NVIDIA vs Google: TSMC Set to Laugh Last in AI Chip Battle
-2. Epstein Accomplice Ghislaine Maxwell Seeks to Vacate Sex Crime Conviction
-3. Polish Regulator Gives Green Light for Erste's Takeover of Santander
-4. US Sea-Level Rise Accelerates, Contrasting Trump Administration's Climate Science Assessment
-5. Bridgewater Founder Ray Dalio to Fund Trump's Children's Education in Connecticut
-6. US Senate Approves Record $1.01 Trillion Defense Budget
+1. SBI New Bank to Reduce Mortgage Interest by Equivalent of 3 Months' Worth as a One-Time Gift to Celebrate its Listing
+2. EU Parliament Approves Plan to Gradually Reduce Russian Gas Imports to Zero by 2027
+3. US Collects $1 Billion in Tariff Revenue After Scrapping Exemption on Low-Value Packages
+4. Nigeria's Tinubu Seeks $30 Billion Budget Reset to End Overlapping Fiscal Years
+5. Trump's White House Ballroom Projected to Cost $400 Million, Double the Initial Estimate
+6. Ukraine Faces Pressure on Battlefield and Negotiating Table, but Underwater It Appears to Be a Growing Threat to Russia
 
 ----
 
-@wsj.com
-
-The exhibitions in the newly reopened museum offer a riveting look at its history, an engaging if slightly thin survey of its collection, and a show of electric-light sculpture by Tom Lloyd. on.wsj.com/4amEkcd
-
-[2025-12-18 06:48:56](https://bsky.app/profile/wsj.com/post/3ma7nbuo5dz2i)
-
----
-
-@reuters.com
-
-Reports: Dolphins bench Tua Tagovailoa, to start rookie QB Quinn Ewers reut.rs/3XX1RsZ
-
-[2025-12-18 06:45:24](https://bsky.app/profile/reuters.com/post/3ma7n3k3laf2o)
-
----
-
-@nikkei.com
-
-NVIDIA対Google、AI半導体競争で笑うのはTSMCか
-www.nikkei.com/article/DGXZQO...
-
-AI半導体TPU（テンサー・プロセッシング・ユニット）の台頭は半導体業界の勢力図に影響を及ぼす可能性があります。
-
-ただどちらが勝とうが最後に笑うのはTSMCなど台湾勢になるのかもしれません。
-
-[2025-12-18 06:45:15](https://bsky.app/profile/nikkei.com/post/3ma7n3bfkqr26)
-
----
-
-@nhknewsunofficial.bsky.social
-
-三井住友FG 中島社長 “デジタル分野に3年間で1兆円規模投資”
-https://news.web.nhk/newsweb/na/na-k10015006861000
-
-[2025-12-18 06:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma7n2xxgh32y)
-
----
-
-@cnbc.com
-
-Epstein accomplice Ghislaine Maxwell petitions to vacate sex crime conviction
-
-[2025-12-18 06:43:04](https://bsky.app/profile/cnbc.com/post/3ma7mxef62c2p)
-
----
-
-@reuters.com
-
-Polish financial regulator gives green light for Erste's takeover of Santander reut.rs/4j6K4cu
-
-[2025-12-18 06:40:25](https://bsky.app/profile/reuters.com/post/3ma7msmxcrh24)
-
----
-
-@nbcnews.com
-
-The White House has installed plaques on the exterior of the building bashing President Trump's predecessors, including Presidents Biden and Obama.
-
-[2025-12-18 06:40:10](https://bsky.app/profile/nbcnews.com/post/3ma7ms77raa25)
-
----
-
 @sokuho.news
 
-🛎️NNNより【速報】です。
+🛎️産経より【独自】です。
 
-【速報】徳島市南佐古四番町で家屋全焼 建物内から身元不明の遺体【徳島】
-(2025-12-18 06:29) #ニュース
+＜独自＞SBI新生銀、抽選で住宅ローン3カ月分の金利相当額を還元へ 新規上場を記念
+(2025/12/18 06:00) #ニュース
+https://www.sankei.com/article/20251218-P6DDMI5VQ5PKBHTPFSVOJDQSQ4/
 
-[2025-12-18 06:38:29](https://bsky.app/profile/sokuho.news/post/3ma7mp6gxyl2r)
+[2025-12-18 07:08:54](https://bsky.app/profile/sokuho.news/post/3ma7ofl7hmt2e)
+
+---
+
+@reuters.com
+
+India v South Africa T20 game in Lucknow called off due to fog reut.rs/4j5hY19
+
+[2025-12-18 07:05:14](https://bsky.app/profile/reuters.com/post/3ma7o6zeqla2r)
 
 ---
 
 @japan.reuters.com
 
-（暫定値） bit.ly/4j5fi3B
+欧州連合（ＥＵ）欧州議会は１７日、ロシア産天然ガス輸入を段階的に縮小して２０２７年中にゼロにする計画を賛成多数で承認した。今後加盟各国の閣僚が承認すれば正式に発効する。 bit.ly/45h71DZ
 
-[2025-12-18 06:38:17](https://bsky.app/profile/japan.reuters.com/post/3ma7motftfu2q)
+[2025-12-18 07:03:10](https://bsky.app/profile/japan.reuters.com/post/3ma7o3db4od27)
 
 ---
 
-@wsj.com
+@cnn.com
 
-The best football teams tend to dominate possession. Oklahoma has the ball less than their opponents, and it’s gotten them to the College Football Playoff.
+The US government has collected $1 billion in de minimis tariff revenue since rolling back the exemption on low-value packages this spring, according to new data that Customs and Border Protection shared exclusively with CNN. https://cnn.it/4s4a649
 
-[2025-12-18 06:35:35](https://bsky.app/profile/wsj.com/post/3ma7mjyq3ow2k)
+[2025-12-18 07:02:02](https://bsky.app/profile/cnn.com/post/3ma7nzciv3c2k)
+
+---
+
+@reuters.com
+
+Nigeria's Tinubu seeks $30 billion budget reset to end overlapping fiscal years reut.rs/4iZPe9Y
+
+[2025-12-18 07:01:46](https://bsky.app/profile/reuters.com/post/3ma7nysiabu2y)
+
+---
+
+@nikkei.com
+
+インフレ不安で家計「貯蓄から投資」
+www.nikkei.com/article/DGXZQO...
+
+足元で3％前後のインフレが続くなか、現預金のまま放置しておくと実質的な価値が目減りします。
+
+9月末の家計金融資産は、株式・投信への資産シフトを反映して現預金比率が5割を割りました。
+
+[2025-12-18 07:01:32](https://bsky.app/profile/nikkei.com/post/3ma7nyfrftl2m)
+
+---
+
+@apnews.com
+
+The ongoing strike at the Louvre has become a major test of the museum's management.
+
+[2025-12-18 07:00:49](https://bsky.app/profile/apnews.com/post/3ma7nx444j32r)
+
+---
+
+@sokuho.news
+
+🛎️文春より【スクープ】です。
+
+《出直し選出馬》「ベッドの利用は？」小川晶・前橋市長「ラブホ釈明集会」で何を語っていた？「出直し選で勝負を」の声に本人は…
+(2025-12-18 07:00) #ニュース
+
+[2025-12-18 07:00:46](https://bsky.app/profile/sokuho.news/post/3ma7nwzxtan2z)
+
+---
+
+@washingtonpost.com
+
+While gun-control measures remain a bitter partisan political issue in the United States, they are a common response to mass killings in many countries. https://wapo.st/49aSr3g
+
+[2025-12-18 07:00:17](https://bsky.app/profile/washingtonpost.com/post/3ma7nw5q2lj23)
+
+---
+
+@usatoday.com
+
+Trump said the projected cost of his White House ballroom has risen to $400 million, double the initial estimate in July of $200 million.
+
+[2025-12-18 07:00:15](https://bsky.app/profile/usatoday.com/post/3ma7nw3kxtp2t)
 
 ---
 
