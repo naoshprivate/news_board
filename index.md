@@ -1,9 +1,9 @@
-# [2025-12-17 12:10 updated](2025_12_17.md)
+# [2025-12-17 12:30 updated](2025_12_17.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">アスクル 出荷をきょう再開 物流システムを新たに構築 https://news.web.nhk/newsweb/na/na-k10015006191000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma5opfawue2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-17 12:09:02)</span><span style="padding-right:50px;">木原稔官房長官は１７日午前の記者会見で、欧州連合（ＥＵ）欧州委員会がエンジン車の新車販売を２０３５年から実質的に禁止する計画を撤回する方針を打ち出したことについて、「欧州で事業を行う日本の自動車メーカーへの影響などを注視していくことが重要」とコメントした。 bit.ly/48Iitef <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5oohnvlq2s" target="_blank">japan.reuters.com</a> (2025-12-17 12:08:33)</span><span style="padding-right:50px;">福岡 粕屋町 住宅で火事 女性1人と連絡取れず この家の住人か https://news.web.nhk/newsweb/na/na-k10015006271000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma5ojyy7jw2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-17 12:06:01)</span><span style="padding-right:50px;">Ready to cut through the noise to create no-nonsense party outfits?  We asked six stylish, fete-loving women for their advice on mastering the delicate act of dressing for the revelry ahead. 🔗: on.wsj.com/4q4WpQK <a href="https://bsky.app/profile/wsj.com/post/3ma5oiwacdr2c" target="_blank">wsj.com</a> (2025-12-17 12:05:27)</span><span style="padding-right:50px;">欧州連合（ＥＵ）欧州委員会が１６日、２０３５年から内燃エンジン搭載の新車販売を実質的に禁止する計画を撤回する案を示したことを受け、自動車業界では反応が分かれた。 bit.ly/454MnH7 <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5oipg2zb2u" target="_blank">japan.reuters.com</a> (2025-12-17 12:05:20)</span>
+<span style="padding-right:50px;">Rob Reiner once called directing “Stand by Me” the “richest experience” he had making a film, a big statement from a man who gave the world some of its most beloved movies. https://cnn.it/44reznu <a href="https://bsky.app/profile/cnn.com/post/3ma5prdq2e22v" target="_blank">cnn.com</a> (2025-12-17 12:28:03)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】球磨村長の辞職が決定 議会も解散・・・異例の事態に (2025-12-17 12:27) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma5ppqqkqa2e" target="_blank">sokuho.news</a> (2025-12-17 12:27:10)</span><span style="padding-right:50px;">【中継映像】北海道 道央道でバス炎上 乗客避難 けが人なし https://news.web.nhk/newsweb/na/na-k10015006371000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma5pplpaio2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-17 12:27:02)</span><span style="padding-right:50px;">米紙ウォール・ストリート・ジャーナル（ＷＳＪ）は１６日、事情に詳しい関係者の話として、パナマ運河の港湾運営権を米企業などが取得に合意したことに不満を示していた中国が、国有の中国遠洋海運集団（ＣＯＳＣＯ）の参加要求をエスカレートさせ、ＣＯＳＣＯが支配的な持ち分を得るべきだと主張している、と伝えた。 bit.ly/44yUtHX <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5pmgrlmk2q" target="_blank">japan.reuters.com</a> (2025-12-17 12:25:19)</span><span style="padding-right:50px;">The final hours of Rob and Michele Reiner and the shocking end to their efforts to save their son from addiction. <a href="https://bsky.app/profile/wsj.com/post/3ma5ply4kyi2i" target="_blank">wsj.com</a> (2025-12-17 12:25:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49553.71 (🔺140.52 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3329.00 (🔻17.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 154.96 (🔺0.21 : 2025-12-17)</span>
+<span style="padding-right:50px;">NIKKEI: 49553.71 (🔺140.52 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3329.00 (🔻17.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 154.92 (🔺0.17 : 2025-12-17)</span>
   </div>
 </div>
 
@@ -34,109 +34,98 @@
 
 Here are six important stories with headlines in English:
 
-1. Japan's Askr to Resume Vehicle Deliveries After Rebuilding Logistics System
-2. EU Reverses Plan to Ban New Cars with Internal Combustion Engines by 2035
-3. Taiwan Defence Ministry Confirms China's New Aircraft Carrier Passed Through Taiwan Strait
-4. Former Alabama Football Coach Nick Saban Joins Ownership Group of NHL's Nashville Predators
-5. US Expands Travel Ban to 20 New Countries Under Trump Administration
-6. Tesla Ordered to Halt Car Sales in California for 30 Days Due to Safety Concerns
+1. Reiner Recalls 'Richest Experience' Making 'Stand by Me'
+2. Japan's Defense Budget Set to Reach Record High at 9 Trillion Yen
+3. European Union Revokes Plan to Ban Gas-Powered Cars by 2035
+4. Skate Canada Halts Major Events in Alberta Over Transgender Law
+5. China's Export of Excess Capacity Adds to India's Disinflationary Impulse
+6. US Unemployment Rate Casts Shadow Over Markets
 
 ----
 
+@cnn.com
+
+Rob Reiner once called directing “Stand by Me” the “richest experience” he had making a film, a big statement from a man who gave the world some of its most beloved movies. https://cnn.it/44reznu
+
+[2025-12-17 12:28:03](https://bsky.app/profile/cnn.com/post/3ma5prdq2e22v)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】球磨村長の辞職が決定 議会も解散・・・異例の事態に
+(2025-12-17 12:27) #ニュース
+
+[2025-12-17 12:27:10](https://bsky.app/profile/sokuho.news/post/3ma5ppqqkqa2e)
+
+---
+
 @nhknewsunofficial.bsky.social
 
-アスクル 出荷をきょう再開 物流システムを新たに構築
-https://news.web.nhk/newsweb/na/na-k10015006191000
+【中継映像】北海道 道央道でバス炎上 乗客避難 けが人なし
+https://news.web.nhk/newsweb/na/na-k10015006371000
 
-[2025-12-17 12:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma5opfawue2b)
+[2025-12-17 12:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma5pplpaio2w)
 
 ---
 
 @japan.reuters.com
 
-木原稔官房長官は１７日午前の記者会見で、欧州連合（ＥＵ）欧州委員会がエンジン車の新車販売を２０３５年から実質的に禁止する計画を撤回する方針を打ち出したことについて、「欧州で事業を行う日本の自動車メーカーへの影響などを注視していくことが重要」とコメントした。 bit.ly/48Iitef
+米紙ウォール・ストリート・ジャーナル（ＷＳＪ）は１６日、事情に詳しい関係者の話として、パナマ運河の港湾運営権を米企業などが取得に合意したことに不満を示していた中国が、国有の中国遠洋海運集団（ＣＯＳＣＯ）の参加要求をエスカレートさせ、ＣＯＳＣＯが支配的な持ち分を得るべきだと主張している、と伝えた。 bit.ly/44yUtHX
 
-[2025-12-17 12:08:33](https://bsky.app/profile/japan.reuters.com/post/3ma5oohnvlq2s)
-
----
-
-@nhknewsunofficial.bsky.social
-
-福岡 粕屋町 住宅で火事 女性1人と連絡取れず この家の住人か
-https://news.web.nhk/newsweb/na/na-k10015006271000
-
-[2025-12-17 12:06:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma5ojyy7jw2w)
+[2025-12-17 12:25:19](https://bsky.app/profile/japan.reuters.com/post/3ma5pmgrlmk2q)
 
 ---
 
 @wsj.com
 
-Ready to cut through the noise to create no-nonsense party outfits?
+The final hours of Rob and Michele Reiner and the shocking end to their efforts to save their son from addiction.
 
-We asked six stylish, fete-loving women for their advice on mastering the delicate act of dressing for the revelry ahead. 🔗: on.wsj.com/4q4WpQK
+[2025-12-17 12:25:03](https://bsky.app/profile/wsj.com/post/3ma5ply4kyi2i)
 
-[2025-12-17 12:05:27](https://bsky.app/profile/wsj.com/post/3ma5oiwacdr2c)
+---
+
+@nhknewsunofficial.bsky.social
+
+SBI新生銀行 東証プライム市場に株式上場 国内ことし最大規模
+https://news.web.nhk/newsweb/na/na-k10015006331000
+
+[2025-12-17 12:24:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma5pkdslol22)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+政府 来年度予算案の防衛費 過去最大の9兆円台で最終調整
+https://news.web.nhk/newsweb/na/na-k10015006321000
+
+[2025-12-17 12:24:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma5pk755bw24)
 
 ---
 
 @japan.reuters.com
 
-欧州連合（ＥＵ）欧州委員会が１６日、２０３５年から内燃エンジン搭載の新車販売を実質的に禁止する計画を撤回する案を示したことを受け、自動車業界では反応が分かれた。 bit.ly/454MnH7
+オセアニア外国為替市場では豪ドルとニュージーランド（ＮＺ）ドルが小動き。オーストラリア政府が２０２５／２６年度（２５年７月─２６年６月）の中間経済・財政見通しを発表したものの、金利の動向にはほとんど影響を与えなかった。 bit.ly/3KPENcI
 
-[2025-12-17 12:05:20](https://bsky.app/profile/japan.reuters.com/post/3ma5oipg2zb2u)
-
----
-
-@japan.reuters.com
-
-欧州の第５世代戦闘機共同開発計画（ＦＣＡＳ）が迷走している。開発に関わるドイツ、フランス、スペインの間で見解が対立し、先週開かれた３カ国国防相会合でも打開に向けた突破口を見つけられなかったもよう。事情に詳しい関係者の１人は１６日、現時点でＦＣＡＳが実現する公算は「非常に乏しい」と悲観的な見方を示した。 bit.ly/3MM5Ea0
-
-[2025-12-17 12:02:46](https://bsky.app/profile/japan.reuters.com/post/3ma5oe52wk222)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】熊本・球磨村 村長と村議が任期途中で全員退陣 同日選実施へ
-(2025-12-17 12:00) #ニュース
-
-[2025-12-17 12:02:39](https://bsky.app/profile/sokuho.news/post/3ma5odvvzqq2s)
-
----
-
-@sokuho.news
-
-🛎️NNNより【独自】です。
-
-【独自】八潮市陥没事故 影響苦しむ住民ら、来月にも「住民団体」設立へ 健康不安を訴える声も
-(2025-12-17 12:01) #ニュース
-
-[2025-12-17 12:01:20](https://bsky.app/profile/sokuho.news/post/3ma5obkutz72r)
-
----
-
-@nikkei.com
-
-高速道路の逆走防げ　車両に衝撃与える「路面埋め込み型ブレード」
-www.nikkei.com/article/DGXZQO...
-
-路面の突起物やくさび形の段差で物理的に注意喚起。
-
-視覚的には路側の大型看板「プレッシャーウオール」。
-
-高速各社は逆走パターンを5つに分類して対策を講じます。
-
-[2025-12-17 12:01:15](https://bsky.app/profile/nikkei.com/post/3ma5obfrqau2i)
+[2025-12-17 12:21:18](https://bsky.app/profile/japan.reuters.com/post/3ma5pfbgg5s22)
 
 ---
 
 @reuters.com
 
-Second doctor in Matthew Perry overdose case sentenced to home confinement reut.rs/48HUcF5
+Skate Canada halts major events in Alberta over transgender law reut.rs/4aQlLxd
 
-[2025-12-17 12:01:02](https://bsky.app/profile/reuters.com/post/3ma5oazbve42b)
+[2025-12-17 12:20:25](https://bsky.app/profile/reuters.com/post/3ma5pdozuap2r)
+
+---
+
+@japan.reuters.com
+
+欧州連合（ＥＵ）欧州委員会は１６日、域内でエンジン車の新車販売を２０３５年以降禁止する目標を事実上撤回することを正式に提案した。加盟国のドイツ、イタリアや、主要自動車メーカーの圧力に屈した形だ。 bit.ly/4j1dMQ9
+
+[2025-12-17 12:20:23](https://bsky.app/profile/japan.reuters.com/post/3ma5pdmhsqi26)
 
 ---
 
