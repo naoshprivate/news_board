@@ -1,9 +1,9 @@
-# [2025-12-18 02:10 updated](2025_12_18.md)
+# [2025-12-18 02:30 updated](2025_12_18.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">From pulpit to turntables: Portugal's 'DJ Priest' brings his message to Latin America reut.rs/3MJJDbW <a href="https://bsky.app/profile/reuters.com/post/3ma75gkp4n22o" target="_blank">reuters.com</a> (2025-12-18 02:05:14)</span><span style="padding-right:50px;"> Open source could pop the AI bubble — and soon ft.trib.al/DUmq3FQ  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3ma75gjokom23" target="_blank">financialtimes.com</a> (2025-12-18 02:05:13)</span><span style="padding-right:50px;">After buying a ‘plain vanilla’ box, a Chicago trio brought in an interior designer who blended their aesthetics and added elements like a moody den for socializing and a three-person bed. on.wsj.com/44uFnmL <a href="https://bsky.app/profile/wsj.com/post/3ma75ctb5pv2r" target="_blank">wsj.com</a> (2025-12-18 02:03:08)</span><span style="padding-right:50px;">UK police plan tougher action against antisemitic chants and protests reut.rs/4j6dNCm <a href="https://bsky.app/profile/reuters.com/post/3ma757yevfo2x" target="_blank">reuters.com</a> (2025-12-18 02:01:33)</span><span style="padding-right:50px;">Ana Homayoun, an academic advisor who has helped students get into Ivy League schools, says she has seen what separates those who struggle from those who thrive.  It’s not an IQ score, GPA, or even college acceptances to prestigious universities.  <a href="https://bsky.app/profile/cnbc.com/post/3ma757lars225" target="_blank">cnbc.com</a> (2025-12-18 02:01:19)</span>
+<span style="padding-right:50px;">Medical supply firm Medline set to debut after biggest IPO of 2025 <a href="https://bsky.app/profile/cnbc.com/post/3ma76n6psgy2b" target="_blank">cnbc.com</a> (2025-12-18 02:26:50)</span><span style="padding-right:50px;">The House of Representatives is bitterly divided.   New data show that after decades of pulling apart, Democrats and Republicans now present almost exactly inverse images of each other.  Read the analysis: bit.ly/3KzONqs <a href="https://bsky.app/profile/opinion.bloomberg.com/post/3ma76lmnqsc2u" target="_blank">opinion.bloomberg.com</a> (2025-12-18 02:25:57)</span><span style="padding-right:50px;">Action Energy eyes regional expansion after Kuwait stock market listing reut.rs/4aUGsYU <a href="https://bsky.app/profile/reuters.com/post/3ma76kezoqn23" target="_blank">reuters.com</a> (2025-12-18 02:25:16)</span><span style="padding-right:50px;">This biotech name is evolving into a major obesity play. How to trade it with options <a href="https://bsky.app/profile/cnbc.com/post/3ma76izui2w2p" target="_blank">cnbc.com</a> (2025-12-18 02:24:30)</span><span style="padding-right:50px;">Cinven CEO and CFO step down amid risk of ban over price gouging ft.trib.al/Udxjpi5 <a href="https://bsky.app/profile/financialtimes.com/post/3ma76fjhan22p" target="_blank">financialtimes.com</a> (2025-12-18 02:22:33)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 47974.41 (🔻153.64 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22807.46 (🔻328.15 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.54 (🔻5.56 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.58 (🔺0.83 : 2025-12-17)</span>
+<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48020.51 (🔻107.54 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22854.73 (🔻280.88 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 171.46 (🔻4.65 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.58 (🔺0.83 : 2025-12-17)</span>
   </div>
 </div>
 
@@ -34,96 +34,98 @@
 
 Here are six important stories with headlines:
 
-1. US Capitol Displays Statue of Teenage Protester Barbara Rose Johns to Replace Confederate General Robert E. Lee
-2. Waymo to Raise Over $15 Billion in New Funding Round, Valuing Company at Up to $110 Billion
-3. US Plans to Dismantle National Center for Atmospheric Research, a Key Climate Science Agency
-4. Appeals Court Allows National Guard Troops to Remain in Washington, D.C. for Now
-5. Moderate House Republicans Join Democrats to Force Vote on ACA Subsidies, Expiring in December
-6. US Teachers Fear Leaving Classrooms Amid Trump's Deportation Push
+1. US Capitol Displays Statue of Civil Rights Icon in Place of Confederate General
+2. UBS Hires L&G's CIO to Co-Head $1.8 Trillion Investments Unit
+3. Trump Vows to Dismantle National Center for Atmospheric Research
+4. US Teachers Fear Leaving the Classroom Amid Trump's Deportation Push
+5. Tesla: 3 Key Takeaways from Elon Musk's Bizarre 2025
+6. Open Source Could Pop the AI Bubble – and Soon
 
 ----
 
-@reuters.com
+@cnbc.com
 
-From pulpit to turntables: Portugal's 'DJ Priest' brings his message to Latin America reut.rs/3MJJDbW
+Medical supply firm Medline set to debut after biggest IPO of 2025
 
-[2025-12-18 02:05:14](https://bsky.app/profile/reuters.com/post/3ma75gkp4n22o)
-
----
-
-@financialtimes.com
-
- Open source could pop the AI bubble — and soon ft.trib.al/DUmq3FQ  | opinion
-
-[2025-12-18 02:05:13](https://bsky.app/profile/financialtimes.com/post/3ma75gjokom23)
+[2025-12-18 02:26:50](https://bsky.app/profile/cnbc.com/post/3ma76n6psgy2b)
 
 ---
 
-@wsj.com
+@opinion.bloomberg.com
 
-After buying a ‘plain vanilla’ box, a Chicago trio brought in an interior designer who blended their aesthetics and added elements like a moody den for socializing and a three-person bed. on.wsj.com/44uFnmL
+The House of Representatives is bitterly divided. 
 
-[2025-12-18 02:03:08](https://bsky.app/profile/wsj.com/post/3ma75ctb5pv2r)
+New data show that after decades of pulling apart, Democrats and Republicans now present almost exactly inverse images of each other.
+
+Read the analysis: bit.ly/3KzONqs
+
+[2025-12-18 02:25:57](https://bsky.app/profile/opinion.bloomberg.com/post/3ma76lmnqsc2u)
 
 ---
 
 @reuters.com
 
-UK police plan tougher action against antisemitic chants and protests reut.rs/4j6dNCm
+Action Energy eyes regional expansion after Kuwait stock market listing reut.rs/4aUGsYU
 
-[2025-12-18 02:01:33](https://bsky.app/profile/reuters.com/post/3ma757yevfo2x)
+[2025-12-18 02:25:16](https://bsky.app/profile/reuters.com/post/3ma76kezoqn23)
 
 ---
 
 @cnbc.com
 
-Ana Homayoun, an academic advisor who has helped students get into Ivy League schools, says she has seen what separates those who struggle from those who thrive.
+This biotech name is evolving into a major obesity play. How to trade it with options
 
-It’s not an IQ score, GPA, or even college acceptances to prestigious universities. 
-
-[2025-12-18 02:01:19](https://bsky.app/profile/cnbc.com/post/3ma757lars225)
+[2025-12-18 02:24:30](https://bsky.app/profile/cnbc.com/post/3ma76izui2w2p)
 
 ---
 
-@apnews.com
+@financialtimes.com
 
-A new AP-NORC poll finds that most U.S. adults are on board with giving cash or gift cards as holiday presents.
+Cinven CEO and CFO step down amid risk of ban over price gouging ft.trib.al/Udxjpi5
 
-[2025-12-18 02:01:12](https://bsky.app/profile/apnews.com/post/3ma757efuv222)
-
----
-
-@cnn.com
-
-The public display of loyalty from Trump and his inner circle — in part, a coordinated counterattack meant to limit the fallout, one aide said — stood in sharp contrast to the internal feuds, staff turnover and public infighting that defined much of the president's first term. https://cnn.it/48WSdeV
-
-[2025-12-18 02:01:09](https://bsky.app/profile/cnn.com/post/3ma757b7fb425)
+[2025-12-18 02:22:33](https://bsky.app/profile/financialtimes.com/post/3ma76fjhan22p)
 
 ---
 
-@usatoday.com
+@cbsnews.com
 
-In an Instagram post, Mick Foley cited Trump's "incredibly cruel comments" following Rob Reiner's death as the "final straw" in his WWE association.
+Britain's two biggest police forces announced Wednesday that officers would take an "enhanced approach" to counter antisemitism, arresting protesters who use certain slogans and phrases, in response to what they said was surging hate crimes targeting Jewish people in the United Kingdom. 
 
-[2025-12-18 02:00:58](https://bsky.app/profile/usatoday.com/post/3ma756x2lad2o)
-
----
-
-@en.afp.com
-
-VIDEO: 🇺🇸 Rob Reiner’s son charged with parents' murder
-
-The son of famed Hollywood director Rob Reiner has been charged with two counts of first-degree murder over the slaying of his parents. Nick Reiner could face life in prison without the possibility of parole or the death penalty if convicted
-
-[2025-12-18 02:00:56](https://bsky.app/profile/en.afp.com/post/3ma756uktl62f)
+[2025-12-18 02:22:01](https://bsky.app/profile/cbsnews.com/post/3ma76eleo522y)
 
 ---
 
-@bloomberg.com
+@yahoofinance.com
 
-The US plans to dismantle the National Center for Atmospheric Research, a key climate-science agency that the Trump administration is calling a source of environmental activism.
+Tesla: 3 things that defined a bizarre 2025 for Elon Musk and Co.
 
-[2025-12-18 02:00:29](https://bsky.app/profile/bloomberg.com/post/3ma7563jrfj2g)
+[2025-12-18 02:21:07](https://bsky.app/profile/yahoofinance.com/post/3ma76cxotqt2f)
+
+---
+
+@nbcnews.com
+
+A woman who allegedly pushed razor blades into loaves of bread at two Biloxi, Mississippi, Walmart stores is arrested. 
+
+[2025-12-18 02:20:11](https://bsky.app/profile/nbcnews.com/post/3ma76bcaob72r)
+
+---
+
+@washingtonpost.com
+
+A growing number of school districts across the country have turned to AI-powered surveillance to bolster campus security. 
+
+However, some experts say a trend of threat detection systems misfiring puts students under undue suspicion and stress.
+
+[2025-12-18 02:20:03](https://bsky.app/profile/washingtonpost.com/post/3ma76b37ma525)
+
+---
+
+@nytimes.com
+
+From @theathletic.com: Carlos Alcaraz confirmed he has split with coach Juan Carlos Ferrero after six Grand Slam titles and seven years together.
+
+[2025-12-18 02:20:03](https://bsky.app/profile/nytimes.com/post/3ma76b35emj2y)
 
 ---
 
