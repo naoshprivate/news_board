@@ -1,9 +1,9 @@
-# [2025-12-17 10:50 updated](2025_12_17.md)
+# [2025-12-17 11:10 updated](2025_12_17.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">中国不動産開発大手の万科企業は、２０億元（２億８３６０万ドル）規模の社債について、償還の猶予期間を現在の５営業日から３０営業日に延長することを求めている。中国銀行間市場交易商協会（ＮＡＦＭＩＩ）への１６日付の提出書類で明らかになった。 bit.ly/4s24Q0Q <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5k7vq2zs2u" target="_blank">japan.reuters.com</a> (2025-12-17 10:48:50)</span><span style="padding-right:50px;">Chinese chipmaker MetaX jumps 569% in its debut after raising $586 million in a wildly oversubscribed IPO in Shanghai <a href="https://bsky.app/profile/bloomberg.com/post/3ma5k544too27" target="_blank">bloomberg.com</a> (2025-12-17 10:47:16)</span><span style="padding-right:50px;">自動車レースＦ１は１６日、２０２７年と２８年にポルトガルのアルガルベ・インターナショナル・サーキット（通称ポルティマン）でレースを開催すると発表した。ポルトガル・グランプリ（ＧＰ）が６年ぶりに復活する。 bit.ly/4qdlVmS <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5k23cq532q" target="_blank">japan.reuters.com</a> (2025-12-17 10:45:34)</span><span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像3🈡 (2025-12-17 10:45:25) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3ma5jzyp4u32r" target="_blank">sokuho.news</a> (2025-12-17 10:45:31)</span><span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください 🔗http://www.kmoni.bosai.go.jp/  🔶防災科研/強震モニタ/予測震度画像1 (2025-12-17 10:45:13) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3ma5jzpe3qr2y" target="_blank">sokuho.news</a> (2025-12-17 10:45:21)</span>
+<span style="padding-right:50px;">Good morning, Asia. While you were sleeping, one of our most-read stories was about the former UK chancellor’s role in the start-up’s effort to spread ‘democratic’ artificial intelligence for the world. ft.trib.al/znQubbw <a href="https://bsky.app/profile/financialtimes.com/post/3ma5lbqhz5d2b" target="_blank">financialtimes.com</a> (2025-12-17 11:07:45)</span><span style="padding-right:50px;">It’s peak season for an elite squad of interlopers who have turned showing up uninvited into an art form.  “Why go out to a bar and be in that scene if you can go to a company party and learn, network and grow, and have sponsored free food and drinks?”  🔗: on.wsj.com/48XQbLF <a href="https://bsky.app/profile/wsj.com/post/3ma5l4pz4xq2t" target="_blank">wsj.com</a> (2025-12-17 11:04:56)</span><span style="padding-right:50px;">A doctor who pleaded guilty in a scheme to supply ketamine to actor Matthew Perry before his overdose death was sentenced to 8 months of home confinement. <a href="https://bsky.app/profile/cnn.com/post/3ma5kzc2s272k" target="_blank">cnn.com</a> (2025-12-17 11:03:01)</span><span style="padding-right:50px;">スウェーデン財務省は１６日、２０２５年の国内総生産（ＧＤＰ）伸び率予想を９月時点の０．９％から１．６％に引き上げ、不確実性は残っているものの低迷期を経て回復基調に入ったとの見解を示した。 bit.ly/3XZa2ow <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5kyx4c6b22" target="_blank">japan.reuters.com</a> (2025-12-17 11:02:50)</span><span style="padding-right:50px;">The US added Colombia’s largest cocaine cartel to its list of terrorist organizations and threatened to use “all available tools” against such groups it is targeting across Latin America <a href="https://bsky.app/profile/bloomberg.com/post/3ma5kybp6j423" target="_blank">bloomberg.com</a> (2025-12-17 11:02:27)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49409.74 (🔻3.45 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3328.00 (🔻18.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 154.66 (🔻0.09 : 2025-12-17)</span>
+<span style="padding-right:50px;">NIKKEI: 49447.62 (🔺34.43 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3332.00 (🔻14.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 154.79 (🔺0.04 : 2025-12-17)</span>
   </div>
 </div>
 
@@ -32,117 +32,109 @@
 
 ## News Headlines
 
-1. China's Wanda Group Seeks Extension for $2.036 Billion Debt Repayment
-2. Chinese Chipmaker MetaX Sees 569% Surge in Debut IPO
-3. F1 Announces Portuguese Grand Prix Return After 6-Year Absence
-4. Smartphones Sales to Decline 2.1% in 2024, Says Counterpoint Research
-5. Tesla to Expand Gigafactory in Germany to Produce 8 GW of Battery Cells
-6. Europe Abandons Plan to Make New Car Sales Electric by 2035
-7. Trump Expands Travel Ban to 7 Countries, Including Syria
-8. Undefeated UFC Champion Ilia Topuria Reveals 'False Allegations' Behind Hiatus
-9. Trump's $300 Million White House Ballroom Project Faces Delays and Legal Challenges
-10. SBI Shinsei Bank Shares Surge 93.7% on First Trading Day
-11. Pentagon Launches Investigation into Sen. Mark Kelly's Involvement in Military Video
-12. Trump Orders Total Blockade of Sanctioned Oil Tankers from Venezuela
-13. Argentina's Economy Expands 3.3% in Third Quarter
-14. Canada Unveils New Rules to Lower Oil and Gas Methane Emissions
-15. Over 6,000 Thai Workers Stranded in Cambodia Due to Border Dispute
-16. Trump Administration Moves to Dismantle National Center for Atmospheric Research
-17. Argentina's GDP Growth Beats Expectations in Third Quarter
-18. Finns, Poles and Other Baltic States Seek EU's Bigger Role in Defense
-19. Japan's Household Financial Assets Hit Record High of ¥22.86 Trillion
-20. Warehouse Retailer Expands into Travel Industry with Multibillion-Dollar Sales
+Here are six important stories with headlines in English:
+
+1. UK's Former Chancellor Involved in AI Startup Efforts to Spread Democratic AI Globally
+2. US Adds Colombia's Largest Cocaine Cartel to Terrorist Organizations List, Threatens Action
+3. Sweden Raises GDP Growth Forecast to 1.6% Amid Recovery Signs
+4. Twitter-Founder Elon Musk's X Corp Sues Social Media Startup Over 'Twitter' Brand
+5. Tesla to Boost Electric Battery Cell Production in Germany to Meet 2027 Demand
+6. EU Abandons Plan to Phase Out Gas-Powered Cars by 2035 Following Backlash
 
 ----
 
+@financialtimes.com
+
+Good morning, Asia. While you were sleeping, one of our most-read stories was about the former UK chancellor’s role in the start-up’s effort to spread ‘democratic’ artificial intelligence for the world. ft.trib.al/znQubbw
+
+[2025-12-17 11:07:45](https://bsky.app/profile/financialtimes.com/post/3ma5lbqhz5d2b)
+
+---
+
+@wsj.com
+
+It’s peak season for an elite squad of interlopers who have turned showing up uninvited into an art form.
+
+“Why go out to a bar and be in that scene if you can go to a company party and learn, network and grow, and have sponsored free food and drinks?”
+
+🔗: on.wsj.com/48XQbLF
+
+[2025-12-17 11:04:56](https://bsky.app/profile/wsj.com/post/3ma5l4pz4xq2t)
+
+---
+
+@cnn.com
+
+A doctor who pleaded guilty in a scheme to supply ketamine to actor Matthew Perry before his overdose death was sentenced to 8 months of home confinement.
+
+[2025-12-17 11:03:01](https://bsky.app/profile/cnn.com/post/3ma5kzc2s272k)
+
+---
+
 @japan.reuters.com
 
-中国不動産開発大手の万科企業は、２０億元（２億８３６０万ドル）規模の社債について、償還の猶予期間を現在の５営業日から３０営業日に延長することを求めている。中国銀行間市場交易商協会（ＮＡＦＭＩＩ）への１６日付の提出書類で明らかになった。 bit.ly/4s24Q0Q
+スウェーデン財務省は１６日、２０２５年の国内総生産（ＧＤＰ）伸び率予想を９月時点の０．９％から１．６％に引き上げ、不確実性は残っているものの低迷期を経て回復基調に入ったとの見解を示した。 bit.ly/3XZa2ow
 
-[2025-12-17 10:48:50](https://bsky.app/profile/japan.reuters.com/post/3ma5k7vq2zs2u)
+[2025-12-17 11:02:50](https://bsky.app/profile/japan.reuters.com/post/3ma5kyx4c6b22)
 
 ---
 
 @bloomberg.com
 
-Chinese chipmaker MetaX jumps 569% in its debut after raising $586 million in a wildly oversubscribed IPO in Shanghai
+The US added Colombia’s largest cocaine cartel to its list of terrorist organizations and threatened to use “all available tools” against such groups it is targeting across Latin America
 
-[2025-12-17 10:47:16](https://bsky.app/profile/bloomberg.com/post/3ma5k544too27)
+[2025-12-17 11:02:27](https://bsky.app/profile/bloomberg.com/post/3ma5kybp6j423)
+
+---
+
+@nikkei.com
+
+新作「たまごっち」5万種以上の見た目に成長　販売目標4割引き上げ
+www.nikkei.com/article/DGXZQO...
+
+「今まではなぜか成長したら『にょろっち』になった、という程度」。新作では「生物の多様性」を表現しました。
+
+ダイヤルを回せば「宇宙」から「細胞」まで4段階の倍率で観察可能。
+
+たまごっちが泣いても、原因がどこにあるのか、すぐには見つかりません。
+
+開発者は「面倒くさいからこそ思い出に残ります」と話します。
+
+[2025-12-17 11:01:16](https://bsky.app/profile/nikkei.com/post/3ma5kw5mg4g22)
 
 ---
 
 @japan.reuters.com
 
-自動車レースＦ１は１６日、２０２７年と２８年にポルトガルのアルガルベ・インターナショナル・サーキット（通称ポルティマン）でレースを開催すると発表した。ポルトガル・グランプリ（ＧＰ）が６年ぶりに復活する。 bit.ly/4qdlVmS
+Ｓ＆Ｐグローバルが１６日発表した１２月の米総合購買担当者景気指数（ＰＭＩ）速報値は５３．０だった。前月の５４．２から低下し、半年ぶりの低水準となった。新規受注が低調だった。 bit.ly/3KAqd8T
 
-[2025-12-17 10:45:34](https://bsky.app/profile/japan.reuters.com/post/3ma5k23cq532q)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗
-
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像3🈡
-(2025-12-17 10:45:25) #緊急地震速報
-
-[2025-12-17 10:45:31](https://bsky.app/profile/sokuho.news/post/3ma5jzyp4u32r)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗
-
-⚠️揺れに警戒してください
-🔗http://www.kmoni.bosai.go.jp/
-
-🔶防災科研/強震モニタ/予測震度画像1
-(2025-12-17 10:45:13) #緊急地震速報
-
-[2025-12-17 10:45:21](https://bsky.app/profile/sokuho.news/post/3ma5jzpe3qr2y)
-
----
-
-@japan.reuters.com
-
-調査会社カウンターポイントは１６日、世界のスマートフォン出荷台数は来年に２．１％減少する見込みだと発表した。チップ価格の上昇が需要に影響する可能性が高いためという。 bit.ly/3Yym7Be
-
-[2025-12-17 10:44:23](https://bsky.app/profile/japan.reuters.com/post/3ma5jxxopl725)
-
----
-
-@japan.reuters.com
-
-米電気自動車（ＥＶ）大手テスラは１６日、ドイツのベルリン郊外グリューンハイデにあるギガファクトリー（巨大工場）で２０２７年から年間最大８ギガワット時の電池セル生産体制を整えると発表した。 bit.ly/44vijEo
-
-[2025-12-17 10:41:05](https://bsky.app/profile/japan.reuters.com/post/3ma5js2v3ah2n)
+[2025-12-17 11:01:08](https://bsky.app/profile/japan.reuters.com/post/3ma5kvw5fih25)
 
 ---
 
 @reuters.com
 
-Dallas Fed paper argues federal funds rate transmission effectiveness waning reut.rs/4j19rfP
+Warner Bros likely to reject $108.4 billion Paramount bid, back Netflix in bidding war, sources say reut.rs/4qcP7KC
 
-[2025-12-17 10:40:23](https://bsky.app/profile/reuters.com/post/3ma5jqt45j22o)
-
----
-
-@nytimes.com
-
-A team of marine mammal experts had been trying to find a sea lion with an orange rope wrapped around its neck for a month. They were finally able to catch up to it in Cowichan Bay, Canada.
-
-[2025-12-17 10:40:03](https://bsky.app/profile/nytimes.com/post/3ma5jq7rpho2y)
+[2025-12-17 11:01:01](https://bsky.app/profile/reuters.com/post/3ma5kvowl3k2b)
 
 ---
 
-@cbsnews.com
+@usatoday.com
 
-The House won't vote on extending health care tax credits that lapse at the end of the year, angering GOP moderates.
+Rockets coach Ime Udoka slammed the referees in Houston's OT loss to Denver, calling it "the most poorly officiated game I've seen in a long time."
 
-[2025-12-17 10:40:01](https://bsky.app/profile/cbsnews.com/post/3ma5jq5nwi72a)
+[2025-12-17 11:00:55](https://bsky.app/profile/usatoday.com/post/3ma5kvjmv5k2h)
+
+---
+
+@cnbc.com
+
+Garry Ridge thought that being a commanding boss would make him successful, he said — until a professor changed his mind.
+
+“Our purpose was to create positive lasting memories ...  So what changed in my mind was I couldn’t do this alone,” said Ridge
+
+[2025-12-17 11:00:14](https://bsky.app/profile/cnbc.com/post/3ma5kucalam2b)
 
 ---
 
