@@ -1,9 +1,9 @@
-# [2025-12-18 08:10 updated](2025_12_18.md)
+# [2025-12-18 08:30 updated](2025_12_18.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">欧州連合（ＥＵ）は１７日、南米南部共同市場（メルコスル）との自由貿易協定（ＦＴＡ）に関し、一部加盟国が懸念している農産物輸入への影響軽減に向け、規制を強化することで暫定合意した。議長国のデンマークは、農産品の一部に対するセーフガード（緊急輸入制限）措置を発動するトリガー条項を８％に設定することを決めたと発表した。 bit.ly/3MGgXAB <a href="https://bsky.app/profile/japan.reuters.com/post/3ma7rpzyef32u" target="_blank">japan.reuters.com</a> (2025-12-18 08:08:27)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】「事故のような音…女性に声をかけている男性がいる」交差点の信号柱に衝突か 30代とみられる女性 死亡確認 ひき逃げ事件の可能性も 富山・高岡市 (2025-12-18 07:58:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma7robvseh27" target="_blank">sokuho.news</a> (2025-12-18 08:07:28)</span><span style="padding-right:50px;">日本の「サハリン2」からのLNG輸入 特例許可期限延長 米財務省 https://news.web.nhk/newsweb/na/na-k10015007051000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma7rlshxsx2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 08:06:02)</span><span style="padding-right:50px;">Celtic chairman Lawwell steps down citing abuse during tricky season reut.rs/4qlvmkp <a href="https://bsky.app/profile/reuters.com/post/3ma7rkhnz5324" target="_blank">reuters.com</a> (2025-12-18 08:05:19)</span><span style="padding-right:50px;">In a year rife with tariffs and economic uncertainty, many Americans wish they padded their savings a bit more.  <a href="https://bsky.app/profile/cnbc.com/post/3ma7rhaulao25" target="_blank">cnbc.com</a> (2025-12-18 08:03:32)</span>
+<span style="padding-right:50px;">米半導体大手マイクロン・テクノロジーが１７日発表した第２・四半期（２０２５年１２月－２６年２月）の調整後１株利益見通しは「８．４２ドルを中心に上下０．２０ドル」で、ＬＳＥＧがまとめたアナリスト予想の４．７８ドルを大幅に上回った。 bit.ly/3YyOAH7 <a href="https://bsky.app/profile/japan.reuters.com/post/3ma7srrqky32q" target="_blank">japan.reuters.com</a> (2025-12-18 08:27:19)</span><span style="padding-right:50px;">BREAKING: The House fails to adopt two war powers resolutions aimed at blocking President Trump from striking Venezuela. <a href="https://bsky.app/profile/cbsnews.com/post/3ma7sp2sopz2l" target="_blank">cbsnews.com</a> (2025-12-18 08:25:47)</span><span style="padding-right:50px;">Perfect storm of factors propels silver to record high above $65/oz reut.rs/4s0qgLM <a href="https://bsky.app/profile/reuters.com/post/3ma7snznjz524" target="_blank">reuters.com</a> (2025-12-18 08:25:13)</span><span style="padding-right:50px;">From Starbucks to Burger King: Why Western food giants are selling large stakes to Chinese private equity funds <a href="https://bsky.app/profile/cnbc.com/post/3ma7smymmvr2m" target="_blank">cnbc.com</a> (2025-12-18 08:24:38)</span><span style="padding-right:50px;">The US government now admits failures by the pilots of an Army Black Hawk helicopter and a controller in the Reagan National Airport tower during the January 29 midair collision over the Potomac River that killed 67 people. https://cnn.it/3L2YFsR <a href="https://bsky.app/profile/cnn.com/post/3ma7skoo5fo25" target="_blank">cnn.com</a> (2025-12-18 08:23:21)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.63 (🔺0.04 : 2025-12-17)</span>
+<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.60 (🔺0.00 : 2025-12-17)</span>
   </div>
 </div>
 
@@ -34,96 +34,96 @@
 
 Here are six important stories with headlines in English:
 
-1. EU, Mercosur Reach Tentative Agreement on Trade Deal
-2. US Ends Sanctions on Syria, Paving Way for Investment
-3. Amazon Overhauls AI Team Amid Inflection Point
-4. New Job Market Data Paints Murky Picture for Tech Industry
-5. Trump Installs Partisan Plaque on White House Walk of Fame
-6. EU Carbon Tax Changes for Metals Fall Short, Industry Says
+1. Silver Surges to Record High Above $65/oz Amid Perfect Storm of Factors
+2. US Government Admits Failures in 67 Fatal Helicopter Crash Investigation
+3. China's Wang Yi Meets Venezuelan Foreign Minister to Reiterate Opposition to US Pressure
+4. EU Reaches Tentative Agreement on Trade Deal with Mercosur Amid Concerns Over Agricultural Imports
+5. Amazon Overhauls AI Team as Chief Declares 'Inflection Point' in Tech Industry
+6. US Ends Sanctions on Syria, Paving Way for Investment to Return to War-Torn Nation
 
 ----
 
 @japan.reuters.com
 
-欧州連合（ＥＵ）は１７日、南米南部共同市場（メルコスル）との自由貿易協定（ＦＴＡ）に関し、一部加盟国が懸念している農産物輸入への影響軽減に向け、規制を強化することで暫定合意した。議長国のデンマークは、農産品の一部に対するセーフガード（緊急輸入制限）措置を発動するトリガー条項を８％に設定することを決めたと発表した。 bit.ly/3MGgXAB
+米半導体大手マイクロン・テクノロジーが１７日発表した第２・四半期（２０２５年１２月－２６年２月）の調整後１株利益見通しは「８．４２ドルを中心に上下０．２０ドル」で、ＬＳＥＧがまとめたアナリスト予想の４．７８ドルを大幅に上回った。 bit.ly/3YyOAH7
 
-[2025-12-18 08:08:27](https://bsky.app/profile/japan.reuters.com/post/3ma7rpzyef32u)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】「事故のような音…女性に声をかけている男性がいる」交差点の信号柱に衝突か 30代とみられる女性 死亡確認 ひき逃げ事件の可能性も 富山・高岡市
-(2025-12-18 07:58:00) #ニュース
-
-[2025-12-18 08:07:28](https://bsky.app/profile/sokuho.news/post/3ma7robvseh27)
+[2025-12-18 08:27:19](https://bsky.app/profile/japan.reuters.com/post/3ma7srrqky32q)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@cbsnews.com
 
-日本の「サハリン2」からのLNG輸入 特例許可期限延長 米財務省
-https://news.web.nhk/newsweb/na/na-k10015007051000
+<strong><span style="color: red;">BREAKING:</span> The House fails to adopt two war powers resolutions aimed at blocking President Trump from striking Venezuela.</strong>
 
-[2025-12-18 08:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma7rlshxsx2k)
+[2025-12-18 08:25:47](https://bsky.app/profile/cbsnews.com/post/3ma7sp2sopz2l)
 
 ---
 
 @reuters.com
 
-Celtic chairman Lawwell steps down citing abuse during tricky season reut.rs/4qlvmkp
+Perfect storm of factors propels silver to record high above $65/oz reut.rs/4s0qgLM
 
-[2025-12-18 08:05:19](https://bsky.app/profile/reuters.com/post/3ma7rkhnz5324)
+[2025-12-18 08:25:13](https://bsky.app/profile/reuters.com/post/3ma7snznjz524)
 
 ---
 
 @cnbc.com
 
-In a year rife with tariffs and economic uncertainty, many Americans wish they padded their savings a bit more. 
+From Starbucks to Burger King: Why Western food giants are selling large stakes to Chinese private equity funds
 
-[2025-12-18 08:03:32](https://bsky.app/profile/cnbc.com/post/3ma7rhaulao25)
+[2025-12-18 08:24:38](https://bsky.app/profile/cnbc.com/post/3ma7smymmvr2m)
+
+---
+
+@cnn.com
+
+The US government now admits failures by the pilots of an Army Black Hawk helicopter and a controller in the Reagan National Airport tower during the January 29 midair collision over the Potomac River that killed 67 people. https://cnn.it/3L2YFsR
+
+[2025-12-18 08:23:21](https://bsky.app/profile/cnn.com/post/3ma7skoo5fo25)
 
 ---
 
 @japan.reuters.com
 
-きょうの東京株式市場で日経平均株価は、軟調な値動きが想定される。前日の米国株式市場でハイテク株が下落した流れを受けて、東京市場でも日経平均への寄与度が高い人工知能（ＡＩ）や半導体関連株が軒並み下落することが想定される。日経平均は心理的節目の４万９０００円を下回る場面がみられそうだ。 bit.ly/4j2XZ32
+＜０７：５０＞　ドル154.90─156.40円の見通し、米指標で上下　株安なら前日の上昇帳消しも bit.ly/3MG3g4K
 
-[2025-12-18 08:03:16](https://bsky.app/profile/japan.reuters.com/post/3ma7rgrocdd2f)
-
----
-
-@reuters.com
-
-Britain to overhaul benchmark rules to cut industry burden reut.rs/3KRJfYs
-
-[2025-12-18 08:01:30](https://bsky.app/profile/reuters.com/post/3ma7rdmhza62r)
+[2025-12-18 08:21:20](https://bsky.app/profile/japan.reuters.com/post/3ma7sh3sy2s2p)
 
 ---
 
-@usatoday.com
+@japan.reuters.com
 
-Who's left on the MLB free agency market? USA TODAY Sports ranks the top remaining free agents and breaks down who's already signed.
+ウクライナ軍のシルスキー総司令官は１７日、ウクライナ東部ハルキウ州の要衝都市クピャンスクからロシア軍を撃退し、ほぼ９割を掌握していると表明した。交流サイト（ＳＮＳ）テレグラムに投稿。一方、ロシアのベロウソフ国防相は、テレビ放映された国防幹部の会合でウクライナ軍の反撃は成功していないと主張した。 bit.ly/4amk2zJ
 
-[2025-12-18 08:01:26](https://bsky.app/profile/usatoday.com/post/3ma7rdim3yx2o)
-
----
-
-@apnews.com
-
-Police have intensified their search for a suspect in the killing of Massachusetts Institute of Technology physics professor Nuno F.G. Loureiro.
-
-[2025-12-18 08:01:15](https://bsky.app/profile/apnews.com/post/3ma7rd6iurv2k)
+[2025-12-18 08:20:59](https://bsky.app/profile/japan.reuters.com/post/3ma7sghync32q)
 
 ---
 
-@financialtimes.com
+@nbcnews.com
 
-Amazon overhauls AI team as chief declares an ‘inflection point’ ft.trib.al/dtu4gby
+"I saw what it’s like to be confronted with potentially losing a lot, whether it’s your career or your health," Wembanyama said after his season debut. 
 
-[2025-12-18 08:00:55](https://bsky.app/profile/financialtimes.com/post/3ma7rclax2w2w)
+"So I’m not taking this for granted anymore."
+
+[2025-12-18 08:20:15](https://bsky.app/profile/nbcnews.com/post/3ma7sf5jv3q22)
+
+---
+
+@washingtonpost.com
+
+<strong><span style="color: red;">Breaking news:</span> FBI Deputy Director Dan Bongino announced he will leave his role in January.</strong>
+
+[2025-12-18 08:19:18](https://bsky.app/profile/washingtonpost.com/post/3ma7sdgytoj24)
+
+---
+
+@wsj.com
+
+Exclusive: Bolivia is sitting on a metal the world can’t get enough of.
+
+Now, after two decades of Socialist rule, its new pro-U.S. government is betting that lithium—and Washington—can help pull the country out of an economic tailspin.
+
+[2025-12-18 08:15:35](https://bsky.app/profile/wsj.com/post/3ma7s4srybc2z)
 
 ---
 
