@@ -1,9 +1,9 @@
-# [2025-12-18 03:50 updated](2025_12_18.md)
+# [2025-12-18 04:10 updated](2025_12_18.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The IRS is mounting a novel attack on Meta’s international tax maneuvers, seeking $16 billion in connection with tens of billions of dollars in profits booked in Ireland. <a href="https://bsky.app/profile/wsj.com/post/3ma7d5igpp42g" target="_blank">wsj.com</a> (2025-12-18 03:47:32)</span><span style="padding-right:50px;">Breaking news: At least two senators have placed holds on the nomination of Adm. Kevin Lunday to serve as the Coast Guard’s commandant after the service downgraded the definition of swastikas and nooses from hate symbols to “potentially divisive.” <a href="https://bsky.app/profile/washingtonpost.com/post/3ma7d5ftn632e" target="_blank">washingtonpost.com</a> (2025-12-18 03:47:29)</span><span style="padding-right:50px;">M23 still in seized Congo town despite withdrawal pledge, residents say reut.rs/48IpSKr <a href="https://bsky.app/profile/reuters.com/post/3ma7czj3qtt24" target="_blank">reuters.com</a> (2025-12-18 03:45:18)</span><span style="padding-right:50px;">FCC chief Brendan Carr tells Senate that his agency is 'not formally ... independent' <a href="https://bsky.app/profile/cnbc.com/post/3ma7cysejk22e" target="_blank">cnbc.com</a> (2025-12-18 03:44:54)</span><span style="padding-right:50px;"> Jimmy Lai’s conviction is ominous for Hong Kong ft.trib.al/XFgQQX5  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3ma7cxfwc7c2k" target="_blank">financialtimes.com</a> (2025-12-18 03:44:08)</span>
+<span style="padding-right:50px;">Eager to shock, Diogenes hectored refined Athenians in the market square. Plato dubbed him a Socrates gone made. on.wsj.com/3MSgGdT <a href="https://bsky.app/profile/wsj.com/post/3ma7eeaizzn2r" target="_blank">wsj.com</a> (2025-12-18 04:09:12)</span><span style="padding-right:50px;">Trump has repeatedly targeted Rep. Ilhan Omar, who is Muslim, since his first term as president. <a href="https://bsky.app/profile/usatoday.com/post/3ma7ecwiyah2l" target="_blank">usatoday.com</a> (2025-12-18 04:08:28)</span><span style="padding-right:50px;">Oscars to stream on YouTube starting in 2029, leaving ABC <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma7ebful362r" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-18 04:07:36)</span><span style="padding-right:50px;">Prediction markets could hit a trillion dollars in trading volume by the end of this decade, new report says <a href="https://bsky.app/profile/cnbc.com/post/3ma7e7g3hg62x" target="_blank">cnbc.com</a> (2025-12-18 04:06:30)</span><span style="padding-right:50px;">Germany opens joint drone defence centre in Berlin reut.rs/4j3AOG4 <a href="https://bsky.app/profile/reuters.com/post/3ma7e5b4zxj2r" target="_blank">reuters.com</a> (2025-12-18 04:05:18)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 47903.24 (🔻224.81 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22770.73 (🔻364.88 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 171.60 (🔻4.51 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.64 (🔺0.89 : 2025-12-17)</span>
+<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 47924.71 (🔻203.34 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22758.49 (🔻377.12 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 171.34 (🔻4.76 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.62 (🔺0.87 : 2025-12-17)</span>
   </div>
 </div>
 
@@ -32,94 +32,94 @@
 
 ## News Headlines
 
-Here are six selected headlines:
+Here are six important stories with headlines in English:
 
-1. IRS Seeks $16 Billion from Meta Over Alleged Tax Evasion
-2. Senators Block Nomination of Coast Guard Commandant Over Swastika Definition Change
-3. M23 Rebels Refuse to Leave Congo Town Despite Withdrawal Pledge
-4. New York to Allow Terminally Ill Patients to End Their Lives with Medical Aid
-5. Spain to Establish Climate Shelter Network Ahead of Next Summer
-6. Bitcoin Hits $86,000 as Token Faces Lackluster End to 2025
+1. Plato Labels Diogenes a 'Socrates Gone Mad' After Market Square Rants
+2. Germany Opens Joint Drone Defence Centre in Berlin Amid Rising Tensions
+3. House Democrats Plan to Force Votes on War Powers Resolutions Amid Venezuela Tensions
+4. Hyundai and Kia Ordered to Offer Free Repairs to Millions of Models Over Theft Vulnerability
+5. Poland Approves Energy Tariffs, Slightly Increasing Electricity Bills
+6. FCC Chief Says Agency Not 'Formally Independent', Amidst Controversy Over 'Jimmy Kimmel Live!' Ban
 
 ----
 
 @wsj.com
 
-The IRS is mounting a novel attack on Meta’s international tax maneuvers, seeking $16 billion in connection with tens of billions of dollars in profits booked in Ireland.
+Eager to shock, Diogenes hectored refined Athenians in the market square. Plato dubbed him a Socrates gone made. on.wsj.com/3MSgGdT
 
-[2025-12-18 03:47:32](https://bsky.app/profile/wsj.com/post/3ma7d5igpp42g)
-
----
-
-@washingtonpost.com
-
-<strong><span style="color: red;">Breaking news:</span> At least two senators have placed holds on the nomination of Adm. Kevin Lunday to serve as the Coast Guard’s commandant after the service downgraded the definition of swastikas and nooses from hate symbols to “potentially divisive.”</strong>
-
-[2025-12-18 03:47:29](https://bsky.app/profile/washingtonpost.com/post/3ma7d5ftn632e)
+[2025-12-18 04:09:12](https://bsky.app/profile/wsj.com/post/3ma7eeaizzn2r)
 
 ---
 
-@reuters.com
+@usatoday.com
 
-M23 still in seized Congo town despite withdrawal pledge, residents say reut.rs/48IpSKr
+Trump has repeatedly targeted Rep. Ilhan Omar, who is Muslim, since his first term as president.
 
-[2025-12-18 03:45:18](https://bsky.app/profile/reuters.com/post/3ma7czj3qtt24)
-
----
-
-@cnbc.com
-
-FCC chief Brendan Carr tells Senate that his agency is 'not formally ... independent'
-
-[2025-12-18 03:44:54](https://bsky.app/profile/cnbc.com/post/3ma7cysejk22e)
-
----
-
-@financialtimes.com
-
- Jimmy Lai’s conviction is ominous for Hong Kong ft.trib.al/XFgQQX5  | opinion
-
-[2025-12-18 03:44:08](https://bsky.app/profile/financialtimes.com/post/3ma7cxfwc7c2k)
-
----
-
-@nytimes.com
-
-<strong><span style="color: red;">Breaking News</span>: Gov. Kathy Hochul said she would sign a bill that will allow terminally ill New Yorkers to end their lives. Eleven states and several countries in Europe have passed similar laws. nyti.ms/48U2kkE</strong>
-
-[2025-12-18 03:42:56](https://bsky.app/profile/nytimes.com/post/3ma7cvbjhvp2v)
+[2025-12-18 04:08:28](https://bsky.app/profile/usatoday.com/post/3ma7ecwiyah2l)
 
 ---
 
 @bbcnews-world-rss.bsky.social
 
-Spain to open climate shelter network ahead of next summer
+Oscars to stream on YouTube starting in 2029, leaving ABC
 
-[2025-12-18 03:40:34](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma7cr2i4sy27)
+[2025-12-18 04:07:36](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma7ebful362r)
+
+---
+
+@cnbc.com
+
+Prediction markets could hit a trillion dollars in trading volume by the end of this decade, new report says
+
+[2025-12-18 04:06:30](https://bsky.app/profile/cnbc.com/post/3ma7e7g3hg62x)
 
 ---
 
 @reuters.com
 
-Time to go nuclear? Inside the battle to power AI reut.rs/3MPxOAW
+Germany opens joint drone defence centre in Berlin reut.rs/4j3AOG4
 
-[2025-12-18 03:40:31](https://bsky.app/profile/reuters.com/post/3ma7cqwvxi32r)
-
----
-
-@nbcnews.com
-
-Former special counsel Jack Smith tells a congressional committee that his team found "proof beyond a reasonable doubt” that President Trump engaged in a “criminal scheme” to overturn the results of the 2020 election, according to portions of his opening statement obtained by NBC News.
-
-[2025-12-18 03:40:10](https://bsky.app/profile/nbcnews.com/post/3ma7cqd3ljw23)
+[2025-12-18 04:05:18](https://bsky.app/profile/reuters.com/post/3ma7e5b4zxj2r)
 
 ---
 
 @cbsnews.com
 
-The Senate approved a $900 billion defense policy bill known as the National Defense Authorization Act on Wednesday, sending it to the president's desk for his signature. 
+House Democrats plan to force votes Wednesday on two war powers resolutions amid escalating tensions with Venezuela as President Trump has warned that land strikes against the country could commence "soon." 
 
-[2025-12-18 03:40:00](https://bsky.app/profile/cbsnews.com/post/3ma7cq26qtb2h)
+[2025-12-18 04:05:01](https://bsky.app/profile/cbsnews.com/post/3ma7e4qzimb2h)
+
+---
+
+@wsj.com
+
+Get them designer sporting equipment, including a Louis Vuitton bowling ball and an Hermès saddle on.wsj.com/4pMc2ge
+
+[2025-12-18 04:04:38](https://bsky.app/profile/wsj.com/post/3ma7e434y4u2z)
+
+---
+
+@wsj.com
+
+Geese, fronted by Cameron Winter, has taken the music industry by storm. on.wsj.com/49hkZYX
+
+[2025-12-18 04:04:38](https://bsky.app/profile/wsj.com/post/3ma7e433icj2o)
+
+---
+
+@cnbc.com
+
+FBI Deputy Director Dan Bongino plans to step down early next year, MS NOW reports
+
+[2025-12-18 04:04:09](https://bsky.app/profile/cnbc.com/post/3ma7e37cbzy2y)
+
+---
+
+@wsj.com
+
+WSJ readers shared the money dilemmas they encountered in using trust funds and the pitfalls others can avoid.
+
+[2025-12-18 04:03:57](https://bsky.app/profile/wsj.com/post/3ma7e2tjzer2t)
 
 ---
 
