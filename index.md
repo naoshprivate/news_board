@@ -1,9 +1,9 @@
-# [2025-12-18 05:10 updated](2025_12_18.md)
+# [2025-12-18 05:30 updated](2025_12_18.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">日銀 きょうから金融政策決定会合 利上げの実施を最終判断へ https://news.web.nhk/newsweb/na/na-k10015006851000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma7hpczg3w2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 05:09:03)</span><span style="padding-right:50px;">Welcome to “Cannonball’s” Great Performers Awards Show. This is not an ordinary best-of compilation. Our host zeroes in on the specific details that make each performance great. Like, who did the best acting in a helmet this year? And who refused to play it safe. nyti.ms/4pR5ihe <a href="https://bsky.app/profile/nytimes.com/post/3ma7hpa6img2b" target="_blank">nytimes.com</a> (2025-12-18 05:09:02)</span><span style="padding-right:50px;">欧州株式市場はほぼ横ばいで取引を終えた。人工知能（ＡＩ）関連投資への懸念が続く中、ハイテク株が売られて相場の重荷となった。資源株は上昇が目立った。 bit.ly/3Y12kdy <a href="https://bsky.app/profile/japan.reuters.com/post/3ma7hnzom6625" target="_blank">japan.reuters.com</a> (2025-12-18 05:08:22)</span><span style="padding-right:50px;">Oracle stock sinks as reported AI data center snag puts rising debt in focus <a href="https://bsky.app/profile/yahoofinance.com/post/3ma7hkcheyh2y" target="_blank">yahoofinance.com</a> (2025-12-18 05:06:17)</span><span style="padding-right:50px;">「防災庁」約350人配置へ 内閣府防災担当の1.6倍  新交付金も https://news.web.nhk/newsweb/na/na-k10015006831000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma7hjwxx5e2d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 05:06:02)</span>
+<span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】未明の徳島市で住宅火災 焼け跡から1人の遺体見つかる 住人の高齢男性と連絡取れず (2025-12-18 05:13) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma7in2wxxh2r" target="_blank">sokuho.news</a> (2025-12-18 05:25:43)</span><span style="padding-right:50px;">China voices support for Venezuela, says it opposes 'unilateral bullying' reut.rs/44AwGHA <a href="https://bsky.app/profile/reuters.com/post/3ma7im5n7442r" target="_blank">reuters.com</a> (2025-12-18 05:25:12)</span><span style="padding-right:50px;">ウクライナへの賠償額審査する委員会設置へ ヨーロッパ評議会 https://news.web.nhk/newsweb/na/na-k10015006891000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma7ik4si5d2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 05:24:02)</span><span style="padding-right:50px;">Inflation expected to remain above Fed target in November as economic data schedule gets back on track <a href="https://bsky.app/profile/yahoofinance.com/post/3ma7ifgbtdb2u" target="_blank">yahoofinance.com</a> (2025-12-18 05:21:27)</span><span style="padding-right:50px;">米ワーナー パラマウントからの買収提案拒否を株主に呼びかけ https://news.web.nhk/newsweb/na/na-k10015007021000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma7iertnsh2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 05:21:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 47949.63 (🔻178.42 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22761.55 (🔻374.06 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 171.18 (🔻4.92 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.65 (🔺0.90 : 2025-12-17)</span>
+<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 47942.57 (🔻185.48 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22765.18 (🔻370.43 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 171.33 (🔻4.77 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.70 (🔺0.95 : 2025-12-17)</span>
   </div>
 </div>
 
@@ -34,96 +34,97 @@
 
 Here are six important stories with headlines in English:
 
-1. Bank of Japan to Decide on Interest Rate Hike
-2. Stock Market Remains Flat Amid AI-Related Concerns
-3. US Federal Reserve Official Says Rate Cuts Still Possible
-4. Federal Prosecutors Indict Four Former Tricolor Executives
-5. US Allows Oil Sales from Russia's Sakhalin-2 Project
-6. Carlyle Hires Goldman Sachs for Lukoil Asset Bid
+1. Body Found in Burned-Out House in Tokushima City
+2. Wall Street Expects Record Year for IPOs in 2026
+3. Ukraine Seeks Financial Compensation from Europe
+4. US Postal Service Seeks New Revenue Streams to Avoid 2027 Cash Crunch
+5. Netanyahu Approves $35 Billion Gas Deal with Egypt
+6. Former Justice Department Special Counsel Testifies on Trump's Election Scheme
 
 ----
 
-@nhknewsunofficial.bsky.social
+@sokuho.news
 
-日銀 きょうから金融政策決定会合 利上げの実施を最終判断へ
-https://news.web.nhk/newsweb/na/na-k10015006851000
+🛎️FNNより【速報】です。
 
-[2025-12-18 05:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma7hpczg3w2s)
+【速報】未明の徳島市で住宅火災 焼け跡から1人の遺体見つかる 住人の高齢男性と連絡取れず
+(2025-12-18 05:13) #ニュース
 
----
-
-@nytimes.com
-
-Welcome to “Cannonball’s” Great Performers Awards Show. This is not an ordinary best-of compilation. Our host zeroes in on the specific details that make each performance great. Like, who did the best acting in a helmet this year? And who refused to play it safe. nyti.ms/4pR5ihe
-
-[2025-12-18 05:09:02](https://bsky.app/profile/nytimes.com/post/3ma7hpa6img2b)
-
----
-
-@japan.reuters.com
-
-欧州株式市場はほぼ横ばいで取引を終えた。人工知能（ＡＩ）関連投資への懸念が続く中、ハイテク株が売られて相場の重荷となった。資源株は上昇が目立った。 bit.ly/3Y12kdy
-
-[2025-12-18 05:08:22](https://bsky.app/profile/japan.reuters.com/post/3ma7hnzom6625)
-
----
-
-@yahoofinance.com
-
-Oracle stock sinks as reported AI data center snag puts rising debt in focus
-
-[2025-12-18 05:06:17](https://bsky.app/profile/yahoofinance.com/post/3ma7hkcheyh2y)
-
----
-
-@nhknewsunofficial.bsky.social
-
-「防災庁」約350人配置へ 内閣府防災担当の1.6倍  新交付金も
-https://news.web.nhk/newsweb/na/na-k10015006831000
-
-[2025-12-18 05:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma7hjwxx5e2d)
+[2025-12-18 05:25:43](https://bsky.app/profile/sokuho.news/post/3ma7in2wxxh2r)
 
 ---
 
 @reuters.com
 
-Austria's Raiffeisen names former executive Hoellerer as new CEO reut.rs/3KNmLaZ
+China voices support for Venezuela, says it opposes 'unilateral bullying' reut.rs/44AwGHA
 
-[2025-12-18 05:05:11](https://bsky.app/profile/reuters.com/post/3ma7hiefkir2y)
+[2025-12-18 05:25:12](https://bsky.app/profile/reuters.com/post/3ma7im5n7442r)
 
 ---
 
-@cnbc.com
+@nhknewsunofficial.bsky.social
 
-This communication services ETF could be on the verge of a breakout, charts show
+ウクライナへの賠償額審査する委員会設置へ ヨーロッパ評議会
+https://news.web.nhk/newsweb/na/na-k10015006891000
 
-[2025-12-18 05:05:03](https://bsky.app/profile/cnbc.com/post/3ma7hi4m3zq24)
+[2025-12-18 05:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma7ik4si5d2b)
+
+---
+
+@yahoofinance.com
+
+Inflation expected to remain above Fed target in November as economic data schedule gets back on track
+
+[2025-12-18 05:21:27](https://bsky.app/profile/yahoofinance.com/post/3ma7ifgbtdb2u)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+米ワーナー パラマウントからの買収提案拒否を株主に呼びかけ
+https://news.web.nhk/newsweb/na/na-k10015007021000
+
+[2025-12-18 05:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma7iertnsh2u)
+
+---
+
+@japan.reuters.com
+
+米金融・債券市場は小動きとなった。連邦政府機関閉鎖の影響で、発表が遅れたり一部が欠落したりする経済指標を市場が見極める中、米連邦準備理事会（ＦＲＢ）が数カ月は追加利下げに踏み切らないとの見方が広がっている。 bit.ly/453PrTU
+
+[2025-12-18 05:21:01](https://bsky.app/profile/japan.reuters.com/post/3ma7ienq2rn2u)
+
+---
+
+@japan.reuters.com
+
+ロシアのプーチン大統領は１７日、ロシアは外交的手段あるいは軍事的手段でウクライナにおける目標を達成し、同国での「安全保障上の緩衝地帯」の拡大を目指すとの考えを示した。 bit.ly/45cXL3G
+
+[2025-12-18 05:20:27](https://bsky.app/profile/japan.reuters.com/post/3ma7idnjbo725)
 
 ---
 
 @wsj.com
 
-Obituary: In 1998, executives at Enron complained to Merrill Lynch about one of its analysts, John Olson. A few months later, Olson was gone from the firm.
+Wall Street is getting a glimpse of what could be the biggest year ever for IPOs in the U.S.
 
-[2025-12-18 05:03:12](https://bsky.app/profile/wsj.com/post/3ma7hes5zct2g)
-
----
-
-@nhknewsunofficial.bsky.social
-
-臨時国会閉会 「年収の壁」見直し 自民・国民の協議 大詰めへ
-https://news.web.nhk/newsweb/na/na-k10015006811000
-
-[2025-12-18 05:03:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma7heppqn42d)
+[2025-12-18 05:20:18](https://bsky.app/profile/wsj.com/post/3ma7idf2rxh2i)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@reuters.com
 
-東京 赤坂 サウナ店火災 ドアの窓部分に衝撃加わったような跡
-https://news.web.nhk/newsweb/na/na-k10015006871000
+President Trump will deliver a rare evening address from the White House about his first year back in office, focusing on what he sees as big victories even as Americans worry about the economy and Republicans face tough midterm elections in 2026 reut.rs/3MAk8tI
 
-[2025-12-18 05:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma7hekrk4w2b)
+[2025-12-18 05:20:12](https://bsky.app/profile/reuters.com/post/3ma7id6myns22)
+
+---
+
+@nbcnews.com
+
+As people across the country prepare for holiday travel, dangerous wind gusts and heavy snow will produce hazardous conditions and potential infrastructure impacts from the Northwest to the North-Central U.S, the NWS says.
+
+[2025-12-18 05:20:11](https://bsky.app/profile/nbcnews.com/post/3ma7id66txf2r)
 
 ---
 
