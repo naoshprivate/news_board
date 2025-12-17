@@ -1,9 +1,9 @@
-# [2025-12-17 09:10 updated](2025_12_17.md)
+# [2025-12-17 09:30 updated](2025_12_17.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">ロシアの占領下にあるウクライナ南東部のザポリージャ原子力発電所は現在、２本の外部送電線のうち１本からのみ電力供給を受けていると、ロシア当局が１６日に明らかにした。 bit.ly/4qjgFyh <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5ems4ugi2s" target="_blank">japan.reuters.com</a> (2025-12-17 09:08:40)</span><span style="padding-right:50px;">Asia-Pacific markets set to open mixed ahead of Japan trade data <a href="https://bsky.app/profile/cnbc.com/post/3ma5eizn5ci24" target="_blank">cnbc.com</a> (2025-12-17 09:06:33)</span><span style="padding-right:50px;">米軍 新たに麻薬密輸船だとする3隻の船を攻撃し8人殺害 https://news.web.nhk/newsweb/na/na-k10015006161000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma5ei6bv552x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-17 09:06:02)</span><span style="padding-right:50px;">BREAKING: Donald Trump says he is ordering a "complete blockade" of sanctioned oil tankers going into and out of Venezuela <a href="https://bsky.app/profile/bloomberg.com/post/3ma5ehj54b42h" target="_blank">bloomberg.com</a> (2025-12-17 09:05:42)</span><span style="padding-right:50px;">米国株式市場は午後の取引で下げ幅を縮小し、ナスダック総合がプラス圏で取引を終えた一方、Ｓ＆Ｐ総合５００種とダウ工業株３０種は続落した。ヘルスケア関連やエネルギー株への売りが重しとなった。投資家は来年の米金融政策見通しを見極めようと、政府機関閉鎖の影響で遅れて発表された経済指標を精査した。 bit.ly/3Myth65 <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5egsctkg2c" target="_blank">japan.reuters.com</a> (2025-12-17 09:05:18)</span>
+<span style="padding-right:50px;">BREAKING: President Trump orders a "total and complete blockade" of sanctioned oil tankers in and out of Venezuela. <a href="https://bsky.app/profile/cbsnews.com/post/3ma5fqmjdnm2t" target="_blank">cbsnews.com</a> (2025-12-17 09:28:42)</span><span style="padding-right:50px;">アルペンスキーのワールドカップ（Ｗ杯）は１６日、フランスのクルシュベルで女子回転を行い、ミカエラ・シフリン（米国）が１分４２秒５０で優勝。自身の持つＷ杯通算最多記録を１０５勝に更新した。 bit.ly/4oZ0qoS <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5fpgxbcx2c" target="_blank">japan.reuters.com</a> (2025-12-17 09:28:02)</span><span style="padding-right:50px;">米ダラス地区連銀が１６日公表した論文で、米国の金融政策目標を達成する上で政策金利を変更することが妥当だとの見解が示された。 bit.ly/4aRnGBB <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5fnevzwo2p" target="_blank">japan.reuters.com</a> (2025-12-17 09:26:53)</span><span style="padding-right:50px;">欧州連合（ＥＵ）欧州委員会は１６日、ＥＵ域内の自動車業界からの圧力を受け、２０３５年から内燃エンジン搭載の新車販売を実質的に禁止する計画を撤回する方針を発表した。 bit.ly/44xnXpx <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5fkmvtix2q" target="_blank">japan.reuters.com</a> (2025-12-17 09:25:21)</span><span style="padding-right:50px;">Stellantis says EU proposals fall short on auto industry's energy transition needs reut.rs/48Ks984 <a href="https://bsky.app/profile/reuters.com/post/3ma5fkjhcwu2i" target="_blank">reuters.com</a> (2025-12-17 09:25:17)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.82 (🔺0.07 : 2025-12-17)</span>
+<span style="padding-right:50px;">NIKKEI: 49308.08 (🔻105.11 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3328.00 (🔻18.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 154.80 (🔺0.05 : 2025-12-17)</span>
   </div>
 </div>
 
@@ -32,95 +32,96 @@
 
 ## News Headlines
 
-1. Russia's Zaporizhzhia Nuclear Power Plant Now Operating on Single External Power Line
-2. Asia-Pacific Markets Set to Open Mixed Ahead of Japan Trade Data
-3. US Navy Attacks 3 Ships Suspected of Smuggling Narcotics, Killing 8
-4. Trump Orders 'Complete Blockade' of Sanctioned Oil Tankers to Venezuela
-5. ADP Raises $11 Billion for Low-Cost Lending Window, No US Funding
-6. Scientists Extract RNA from Ancient Woolly Mammoth, Gain Insights into Extinction
+Here are six important stories with headlines:
+
+1. Trump Orders Blockade of Sanctioned Oil Tankers in and out of Venezuela
+2. US Unemployment Rate Rises Sharply for Black and Teenage Workers
+3. EU Reverses Plan to Ban New Cars with Internal Combustion Engines
+4. Stellantis Criticizes EU Proposals on Auto Industry's Energy Transition
+5. Chile Central Bank Cuts Interest Rate to 4.5% Amid Easing Inflation
+6. Tesla Faces Sales Suspension in California Over Misleading Autopilot Claims
 
 ----
 
-@japan.reuters.com
+@cbsnews.com
 
-ロシアの占領下にあるウクライナ南東部のザポリージャ原子力発電所は現在、２本の外部送電線のうち１本からのみ電力供給を受けていると、ロシア当局が１６日に明らかにした。 bit.ly/4qjgFyh
+<strong><span style="color: red;">BREAKING:</span> President Trump orders a "total and complete blockade" of sanctioned oil tankers in and out of Venezuela.</strong>
 
-[2025-12-17 09:08:40](https://bsky.app/profile/japan.reuters.com/post/3ma5ems4ugi2s)
-
----
-
-@cnbc.com
-
-Asia-Pacific markets set to open mixed ahead of Japan trade data
-
-[2025-12-17 09:06:33](https://bsky.app/profile/cnbc.com/post/3ma5eizn5ci24)
-
----
-
-@nhknewsunofficial.bsky.social
-
-米軍 新たに麻薬密輸船だとする3隻の船を攻撃し8人殺害
-https://news.web.nhk/newsweb/na/na-k10015006161000
-
-[2025-12-17 09:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma5ei6bv552x)
-
----
-
-@bloomberg.com
-
-<strong><span style="color: red;">BREAKING:</span> Donald Trump says he is ordering a "complete blockade" of sanctioned oil tankers going into and out of Venezuela</strong>
-
-[2025-12-17 09:05:42](https://bsky.app/profile/bloomberg.com/post/3ma5ehj54b42h)
+[2025-12-17 09:28:42](https://bsky.app/profile/cbsnews.com/post/3ma5fqmjdnm2t)
 
 ---
 
 @japan.reuters.com
 
-米国株式市場は午後の取引で下げ幅を縮小し、ナスダック総合がプラス圏で取引を終えた一方、Ｓ＆Ｐ総合５００種とダウ工業株３０種は続落した。ヘルスケア関連やエネルギー株への売りが重しとなった。投資家は来年の米金融政策見通しを見極めようと、政府機関閉鎖の影響で遅れて発表された経済指標を精査した。 bit.ly/3Myth65
+アルペンスキーのワールドカップ（Ｗ杯）は１６日、フランスのクルシュベルで女子回転を行い、ミカエラ・シフリン（米国）が１分４２秒５０で優勝。自身の持つＷ杯通算最多記録を１０５勝に更新した。 bit.ly/4oZ0qoS
 
-[2025-12-17 09:05:18](https://bsky.app/profile/japan.reuters.com/post/3ma5egsctkg2c)
+[2025-12-17 09:28:02](https://bsky.app/profile/japan.reuters.com/post/3ma5fpgxbcx2c)
+
+---
+
+@japan.reuters.com
+
+米ダラス地区連銀が１６日公表した論文で、米国の金融政策目標を達成する上で政策金利を変更することが妥当だとの見解が示された。 bit.ly/4aRnGBB
+
+[2025-12-17 09:26:53](https://bsky.app/profile/japan.reuters.com/post/3ma5fnevzwo2p)
+
+---
+
+@japan.reuters.com
+
+欧州連合（ＥＵ）欧州委員会は１６日、ＥＵ域内の自動車業界からの圧力を受け、２０３５年から内燃エンジン搭載の新車販売を実質的に禁止する計画を撤回する方針を発表した。 bit.ly/44xnXpx
+
+[2025-12-17 09:25:21](https://bsky.app/profile/japan.reuters.com/post/3ma5fkmvtix2q)
 
 ---
 
 @reuters.com
 
-AfDB raises $11 billion for low-cost lending window, no word on US funding reut.rs/4qxLBuP
+Stellantis says EU proposals fall short on auto industry's energy transition needs reut.rs/48Ks984
 
-[2025-12-17 09:05:16](https://bsky.app/profile/reuters.com/post/3ma5egptedi2b)
-
----
-
-@cnbc.com
-
-Cramer's Lighting Round: 'Be careful' with Lumen Technologies
-
-[2025-12-17 09:05:07](https://bsky.app/profile/cnbc.com/post/3ma5egh4irt25)
+[2025-12-17 09:25:17](https://bsky.app/profile/reuters.com/post/3ma5fkjhcwu2i)
 
 ---
 
 @japan.reuters.com
 
-次期米連邦準備理事会（ＦＲＢ）議長の有力候補とされる米国家経済会議（ＮＥＣ）のハセット委員長について、トランプ政権の一部当局者が適性を疑問視する見方を内々に示したと、米政治サイトのポリティコが１６日報じた。 bit.ly/45dJvHX
+米紙ウォール・ストリート・ジャーナル（ＷＳＪ）は１６日、事情に詳しい関係者の話として、パナマ運河の港湾運営権を米企業などが取得に合意したことに不満を示していた中国が、国有の中国遠洋海運集団（ＣＯＳＣＯ）の参加要求をエスカレートさせ、ＣＯＳＣＯが支配的な持ち分を得るべきだと主張している、と伝えた。 bit.ly/4rZVnHv
 
-[2025-12-17 09:02:53](https://bsky.app/profile/japan.reuters.com/post/3ma5eci3iog2c)
-
----
-
-@wsj.com
-
-Scientists have extracted RNA from an ancient woolly mammoth that gives new insight into the extinct beasts—and might one day boost moonshot efforts to resurrect them.
-
-Read more: on.wsj.com/49kj3Or
-
-[2025-12-17 09:02:23](https://bsky.app/profile/wsj.com/post/3ma5eblht3w2t)
+[2025-12-17 09:24:37](https://bsky.app/profile/japan.reuters.com/post/3ma5fjdihnw2p)
 
 ---
 
-@apnews.com
+@japan.reuters.com
 
-"Avatar: Fire and Ash," will probably be a rewarding experience for fans of James Cameron's saga.
+チリ中央銀行は１６日、政策金利を予想通り２５ベーシスポイント（ｂｐ）引き下げ、４．５％とした。決定は全会一致で、インフレが一段と緩和していることを受けた。 bit.ly/4s1DcBc
 
-[2025-12-17 09:01:42](https://bsky.app/profile/apnews.com/post/3ma5eadpcxl23)
+[2025-12-17 09:21:15](https://bsky.app/profile/japan.reuters.com/post/3ma5fdcu5lh2q)
+
+---
+
+@japan.reuters.com
+
+米労働省が１６日発表した１１月の雇用統計で、黒人とティーンエイジャー（１６－１９歳）の階層の失業率が急上昇した。経済が軟化する際に最も影響を受けやすい層とされるだけに、エコノミストの間で警戒感が広がっている。 bit.ly/4j4esUQ
+
+[2025-12-17 09:20:28](https://bsky.app/profile/japan.reuters.com/post/3ma5fbvct5x2q)
+
+---
+
+@bloomberg.com
+
+🎙️ Devastating typhoons in the Philippines this year exposed a vast corruption network.
+
+On today’s Big Take Asia podcast: how billions of dollars meant for flood control vanished and what the crisis means for the country’s economy. ⤵️
+
+[2025-12-17 09:20:19](https://bsky.app/profile/bloomberg.com/post/3ma5fbmxypj2w)
+
+---
+
+@nytimes.com
+
+Amanda Seyfried visited The New York Times kitchen studio for a lesson in making Parmesan cabbage soup. During an afternoon of chopping, simmering and chatting, the actress discussed acting, motherhood, goats, parents and her deep love of Polish food.
+
+[2025-12-17 09:20:05](https://bsky.app/profile/nytimes.com/post/3ma5fb7xblb26)
 
 ---
 
