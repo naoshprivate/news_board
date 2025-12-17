@@ -1,9 +1,9 @@
-# [2025-12-18 03:10 updated](2025_12_18.md)
+# [2025-12-18 03:30 updated](2025_12_18.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">3 things that defined a bizarre 2025 for Elon Musk and Co. <a href="https://bsky.app/profile/yahoofinance.com/post/3ma7aud6chi2k" target="_blank">yahoofinance.com</a> (2025-12-18 03:06:37)</span><span style="padding-right:50px;">Vitidsarn, An off to winning starts in season finale reut.rs/4pK6i6L <a href="https://bsky.app/profile/reuters.com/post/3ma7as2uzpk2c" target="_blank">reuters.com</a> (2025-12-18 03:05:21)</span><span style="padding-right:50px;">BREAKING: The Oscars will move to YouTube in 2029, departing the film awards' longtime home of ABC. <a href="https://bsky.app/profile/apnews.com/post/3ma7aq4e5aj25" target="_blank">apnews.com</a> (2025-12-18 03:04:15)</span><span style="padding-right:50px;">トランプ米大統領がマリファナ（大麻）の規制基準引き下げにつながる分類変更を盛り込んだ大統領令に１８日に署名する見通しであることが分かった。ＣＮＮが１６日、関係者やホワイトハウス高官の情報として報じた。高官によると、署名時期は変更になる可能性もあるという。また、ＮＢＣは関係者４人の情報として、大統領令によって分類変更が迅速に進められる可能性があると報じた。 bit.ly/4pCcNs2 <a href="https://bsky.app/profile/japan.reuters.com/post/3ma7annbne322" target="_blank">japan.reuters.com</a> (2025-12-18 03:02:53)</span><span style="padding-right:50px;">A county court postponed the arraignment of murder suspect Nick Reiner, charged with killing his parents, Hollywood director Rob Reiner and Michele Singer Reiner, to Jan. 7. <a href="https://bsky.app/profile/wsj.com/post/3ma7annd3z22z" target="_blank">wsj.com</a> (2025-12-18 03:02:52)</span>
+<span style="padding-right:50px;">Breaking News: YouTube will stream the Oscars beginning in 2029, winning the rights from ABC, which has held them since 1976. <a href="https://bsky.app/profile/nytimes.com/post/3ma7c53peab2b" target="_blank">nytimes.com</a> (2025-12-18 03:29:25)</span><span style="padding-right:50px;">Investor Ray Dalio said he and his wife, Barbara, will donate $250 to each of the new “Trump accounts” of about 300,000 children across his home state of Connecticut. <a href="https://bsky.app/profile/wsj.com/post/3ma7c4f4gsx2h" target="_blank">wsj.com</a> (2025-12-18 03:29:01)</span><span style="padding-right:50px;">This speedy shrimp dinner comes together in less than 30 minutes and relies on pantry staples like honey and soy sauce. It's one of our most popular recipes of 2025. nyti.ms/4j2RhKv <a href="https://bsky.app/profile/nytimes.com/post/3ma7c2qpb6n2r" target="_blank">nytimes.com</a> (2025-12-18 03:28:06)</span><span style="padding-right:50px;">Waller says Fed policy still in restrictive territory, sees room to cut rates reut.rs/4s8i8Jw <a href="https://bsky.app/profile/reuters.com/post/3ma7bvmm7yc2c" target="_blank">reuters.com</a> (2025-12-18 03:25:14)</span><span style="padding-right:50px;">With tariffs unpopular and prices still high, President Trump has repeatedly teased the promise of tariff rebates and large tax refunds next year. But he has not devised a detailed plan, and the GOP in Congress must approve the expensive policy. <a href="https://bsky.app/profile/nytimes.com/post/3ma7bvbpjrm2r" target="_blank">nytimes.com</a> (2025-12-18 03:25:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48016.53 (🔻111.52 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22854.45 (🔻281.16 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 172.37 (🔻3.73 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.51 (🔺0.76 : 2025-12-17)</span>
+<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 47935.84 (🔻192.21 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22828.63 (🔻306.98 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 172.30 (🔻3.80 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.62 (🔺0.87 : 2025-12-17)</span>
   </div>
 </div>
 
@@ -32,96 +32,94 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are six headlines in English:
 
-1. Trump Expected to Sign Executive Order Lowering Marijuana Regulations
-2. Oscars to Move to YouTube in 2029, Ending Decades-Long Partnership with ABC
-3. Senate Passes $901 Billion Defense Policy Bill Despite Trump Administration's Opposition
-4. High-Profile Murder Case: Nick Reiner's Arraignment Postponed to January 7
-5. US Prices Expected to Rise Next Year, Tariffs Remain Top Concern for Finance Chiefs
-6. Billionaire Jeff Bezos and Wife Donate $5 Million to Neurodiversity Alliance
+1. Oscars Ceremony to Move to YouTube in 2029
+2. Trump to Sign Executive Order Reducing Marijuana Regulations
+3. Hydrogen May Contribute to Climate Crisis, Study Warns
+4. Tesla Sales Halted in California Amid Safety Concerns
+5. Senate Passes $900 Billion Defense Policy Bill
+6. Former Special Counsel Testifies to House Judiciary Committee
 
 ----
 
-@yahoofinance.com
+@nytimes.com
 
-3 things that defined a bizarre 2025 for Elon Musk and Co.
+<strong><span style="color: red;">Breaking News</span>: YouTube will stream the Oscars beginning in 2029, winning the rights from ABC, which has held them since 1976.</strong>
 
-[2025-12-18 03:06:37](https://bsky.app/profile/yahoofinance.com/post/3ma7aud6chi2k)
-
----
-
-@reuters.com
-
-Vitidsarn, An off to winning starts in season finale reut.rs/4pK6i6L
-
-[2025-12-18 03:05:21](https://bsky.app/profile/reuters.com/post/3ma7as2uzpk2c)
-
----
-
-@apnews.com
-
-<strong><span style="color: red;">BREAKING:</span> The Oscars will move to YouTube in 2029, departing the film awards' longtime home of ABC.</strong>
-
-[2025-12-18 03:04:15](https://bsky.app/profile/apnews.com/post/3ma7aq4e5aj25)
-
----
-
-@japan.reuters.com
-
-トランプ米大統領がマリファナ（大麻）の規制基準引き下げにつながる分類変更を盛り込んだ大統領令に１８日に署名する見通しであることが分かった。ＣＮＮが１６日、関係者やホワイトハウス高官の情報として報じた。高官によると、署名時期は変更になる可能性もあるという。また、ＮＢＣは関係者４人の情報として、大統領令によって分類変更が迅速に進められる可能性があると報じた。 bit.ly/4pCcNs2
-
-[2025-12-18 03:02:53](https://bsky.app/profile/japan.reuters.com/post/3ma7annbne322)
+[2025-12-18 03:29:25](https://bsky.app/profile/nytimes.com/post/3ma7c53peab2b)
 
 ---
 
 @wsj.com
 
-A county court postponed the arraignment of murder suspect Nick Reiner, charged with killing his parents, Hollywood director Rob Reiner and Michele Singer Reiner, to Jan. 7.
+Investor Ray Dalio said he and his wife, Barbara, will donate $250 to each of the new “Trump accounts” of about 300,000 children across his home state of Connecticut.
 
-[2025-12-18 03:02:52](https://bsky.app/profile/wsj.com/post/3ma7annd3z22z)
+[2025-12-18 03:29:01](https://bsky.app/profile/wsj.com/post/3ma7c4f4gsx2h)
+
+---
+
+@nytimes.com
+
+This speedy shrimp dinner comes together in less than 30 minutes and relies on pantry staples like honey and soy sauce. It's one of our most popular recipes of 2025. nyti.ms/4j2RhKv
+
+[2025-12-18 03:28:06](https://bsky.app/profile/nytimes.com/post/3ma7c2qpb6n2r)
 
 ---
 
 @reuters.com
 
-Finance chiefs see US prices rising next year, tariffs still a top concern reut.rs/3L03nrb
+Waller says Fed policy still in restrictive territory, sees room to cut rates reut.rs/4s8i8Jw
 
-[2025-12-18 03:01:16](https://bsky.app/profile/reuters.com/post/3ma7akroazh2x)
-
----
-
-@en.afp.com
-
-Hydrogen has long been touted as a possible solution to the climate crisis, but it could also be a small part of the problem, a study warned on Wednesday.
-
-u.afp.com/S7vJ
-
-[2025-12-18 03:00:55](https://bsky.app/profile/en.afp.com/post/3ma7ak5gjkm2q)
+[2025-12-18 03:25:14](https://bsky.app/profile/reuters.com/post/3ma7bvmm7yc2c)
 
 ---
 
-@apnews.com
+@nytimes.com
 
-Mega billionaire Amazon founder Jeff Bezos and Lauren Sanchez Bezos have donated $5 million to David Flink, founder of the Neurodiversity Alliance.
+With tariffs unpopular and prices still high, President Trump has repeatedly teased the promise of tariff rebates and large tax refunds next year. But he has not devised a detailed plan, and the GOP in Congress must approve the expensive policy.
 
-[2025-12-18 03:00:50](https://bsky.app/profile/apnews.com/post/3ma7ajyv2wn22)
-
----
-
-@cnn.com
-
-The California Department of Motor Vehicles could have halted Tesla sales in the state immediately, under terms of a previous administrative law judge’s findings. However, it said it was pausing that action for 90 days in order to continue negotiations with Tesla. https://cnn.it/3Y3Zaps
-
-[2025-12-18 03:00:26](https://bsky.app/profile/cnn.com/post/3ma7ajbaz622u)
+[2025-12-18 03:25:03](https://bsky.app/profile/nytimes.com/post/3ma7bvbpjrm2r)
 
 ---
 
-@washingtonpost.com
+@cnbc.com
 
-Did high prices, high interest rates or tariff uncertainty scare you off from buying a new car this year? You’re in good company.
+ServiceNow shares were rocked this week. Now Bernstein says it’s the cheapest stock in software
 
-[2025-12-18 03:00:23](https://bsky.app/profile/washingtonpost.com/post/3ma7aj6sa3224)
+[2025-12-18 03:24:42](https://bsky.app/profile/cnbc.com/post/3ma7bunnh222m)
+
+---
+
+@nbcnews.com
+
+NEW: Joe Campbell, a Pentecostal preacher who for half a century ministered to thousands of children across four states, has been arrested on child sex abuse charges, the Oklahoma Attorney General’s Office says.
+
+[2025-12-18 03:23:01](https://bsky.app/profile/nbcnews.com/post/3ma7brngot724)
+
+---
+
+@yahoofinance.com
+
+Bitcoin hovers at $86,000 as token faces 'lackluster' end of 2025
+
+[2025-12-18 03:21:47](https://bsky.app/profile/yahoofinance.com/post/3ma7bpgxbk62q)
+
+---
+
+@aljazeera.com
+
+Heavy rains have turned an Iranian beach on Hormuz Island bright red after iron-oxide-rich soil from the area washed into the sea.
+
+[2025-12-18 03:20:47](https://bsky.app/profile/aljazeera.com/post/3ma7bnnsl6k2i)
+
+---
+
+@nbcnews.com
+
+The Duke of Marlborough, a British aristocrat with a troubled past, has been charged with choking someone, police say.
+
+[2025-12-18 03:20:08](https://bsky.app/profile/nbcnews.com/post/3ma7bmjaiqv2x)
 
 ---
 
