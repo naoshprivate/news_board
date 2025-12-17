@@ -1,9 +1,9 @@
-# [2025-12-17 09:50 updated](2025_12_17.md)
+# [2025-12-17 10:10 updated](2025_12_17.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">トランプ米大統領は１６日、ベネズエラに出入りする制裁対象の全石油タンカーに対する全面的な封鎖を命じた。 bit.ly/45dNkgh <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5gtvr7672q" target="_blank">japan.reuters.com</a> (2025-12-17 09:48:26)</span><span style="padding-right:50px;">米アトランタ地区連銀のボスティック総裁は１６日、連邦準備理事会（ＦＲＢ）による追加利下げは金融政策を緩和的にし、経済成長を刺激する一方で、インフレとインフレ期待の上昇リスクを高める可能性があるとの見方を示した。 bit.ly/3XURRQZ <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5gogsdqi2u" target="_blank">japan.reuters.com</a> (2025-12-17 09:45:22)</span><span style="padding-right:50px;">Medical supplies firm Medline raises about $6.3 billion in 2025's biggest IPO reut.rs/4agzm0E <a href="https://bsky.app/profile/reuters.com/post/3ma5goeupqr2i" target="_blank">reuters.com</a> (2025-12-17 09:45:20)</span><span style="padding-right:50px;">The CDC approved a sweeping change to the nation’s childhood immunization schedule, endorsing a recommendation from a federal advisory panel to drop the long-standing practice of giving all newborns a hepatitis B vaccine within 24 hours of birth. <a href="https://bsky.app/profile/washingtonpost.com/post/3ma5gntmhi62e" target="_blank">washingtonpost.com</a> (2025-12-17 09:45:02)</span><span style="padding-right:50px;">Second doctor charged in Matthew Perry death sentenced to 8 months of home confinement for ketamine charge. <a href="https://bsky.app/profile/cbsnews.com/post/3ma5gns2a372b" target="_blank">cbsnews.com</a> (2025-12-17 09:45:00)</span>
+<span style="padding-right:50px;">日銀が１７日に発表した７―９月期の資金循環統計によると、９月末時点の家計の金融資産は前年比４．９％増の２２８６兆円となり、２００５年３月以降の最高を更新した。株高や新ＮＩＳＡ（少額投資非課税制度）への資金流入が残高を大きく押し上げた。 bit.ly/4rZfPIj <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5hxrr3ki27" target="_blank">japan.reuters.com</a> (2025-12-17 10:08:29)</span><span style="padding-right:50px;">The warehouse retailer tiptoed into travel 25 years ago and now accounts for multibillion-dollar bookings in cruises, vacation packages and rental cars. on.wsj.com/4j1qez7 <a href="https://bsky.app/profile/wsj.com/post/3ma5hqoywdg2e" target="_blank">wsj.com</a> (2025-12-17 10:04:31)</span><span style="padding-right:50px;">CNBC Daily Open: Beware confirmation bias in U.S. jobs report for November <a href="https://bsky.app/profile/cnbc.com/post/3ma5hnpf6ow2b" target="_blank">cnbc.com</a> (2025-12-17 10:02:51)</span><span style="padding-right:50px;">Country music is booming, tech bros love cowboy boots and a show about a West Texas oil-company fixer is wildly popular. Enter Stetson, a made-in-America heritage brand, with factories in Texas and a legacy.  🔗: on.wsj.com/4qaNDRc <a href="https://bsky.app/profile/wsj.com/post/3ma5hndeoii2g" target="_blank">wsj.com</a> (2025-12-17 10:02:39)</span><span style="padding-right:50px;">US FAA repeats warning to airlines of 'worsening security situation' when flying over Venezuela reut.rs/4pKF3sC <a href="https://bsky.app/profile/reuters.com/post/3ma5hlpnrcc23" target="_blank">reuters.com</a> (2025-12-17 10:01:45)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49187.72 (🔻225.47 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3332.00 (🔻14.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 154.68 (🔻0.07 : 2025-12-17)</span>
+<span style="padding-right:50px;">NIKKEI: 49332.29 (🔻80.90 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻16.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 154.64 (🔻0.11 : 2025-12-17)</span>
   </div>
 </div>
 
@@ -32,92 +32,106 @@
 
 ## News Headlines
 
-1. Trump Orders Total Blockade on Sanctioned Oil Tankers in Venezuela
-2. Fed Rate Cut May Stimulate Growth, but May Also Fuel Inflation
-3. Medline Raises $6.3 Billion in 2025's Largest IPO
-4. CDC Approves Sweeping Change to Childhood Immunization Schedule
-5. Slovaks Rally Against Government Moves Damaging Rule of Law
-6. Canada Announces New Methane Emission Standards for Oil and Gas Sector
+Here are six news headlines in English:
+
+1. Japan's Household Assets Reach Record High
+2. Warehouse Retailer Enters Travel Market with Multibillion-Dollar Bookings
+3. US President Trump Expands Travel Restrictions to 39 Countries
+4. Former Top Vaccine Official Sues Trump Administration Over Firing
+5. Trump Orders 'Total Blockade' of Sanctioned Venezuelan Oil Tankers
+6. New Zealand Central Bank Chief Sees Low Interest Rates Through 2023
 
 ----
 
 @japan.reuters.com
 
-トランプ米大統領は１６日、ベネズエラに出入りする制裁対象の全石油タンカーに対する全面的な封鎖を命じた。 bit.ly/45dNkgh
+日銀が１７日に発表した７―９月期の資金循環統計によると、９月末時点の家計の金融資産は前年比４．９％増の２２８６兆円となり、２００５年３月以降の最高を更新した。株高や新ＮＩＳＡ（少額投資非課税制度）への資金流入が残高を大きく押し上げた。 bit.ly/4rZfPIj
 
-[2025-12-17 09:48:26](https://bsky.app/profile/japan.reuters.com/post/3ma5gtvr7672q)
-
----
-
-@japan.reuters.com
-
-米アトランタ地区連銀のボスティック総裁は１６日、連邦準備理事会（ＦＲＢ）による追加利下げは金融政策を緩和的にし、経済成長を刺激する一方で、インフレとインフレ期待の上昇リスクを高める可能性があるとの見方を示した。 bit.ly/3XURRQZ
-
-[2025-12-17 09:45:22](https://bsky.app/profile/japan.reuters.com/post/3ma5gogsdqi2u)
+[2025-12-17 10:08:29](https://bsky.app/profile/japan.reuters.com/post/3ma5hxrr3ki27)
 
 ---
 
-@reuters.com
+@wsj.com
 
-Medical supplies firm Medline raises about $6.3 billion in 2025's biggest IPO reut.rs/4agzm0E
+The warehouse retailer tiptoed into travel 25 years ago and now accounts for multibillion-dollar bookings in cruises, vacation packages and rental cars. on.wsj.com/4j1qez7
 
-[2025-12-17 09:45:20](https://bsky.app/profile/reuters.com/post/3ma5goeupqr2i)
-
----
-
-@washingtonpost.com
-
-The CDC approved a sweeping change to the nation’s childhood immunization schedule, endorsing a recommendation from a federal advisory panel to drop the long-standing practice of giving all newborns a hepatitis B vaccine within 24 hours of birth.
-
-[2025-12-17 09:45:02](https://bsky.app/profile/washingtonpost.com/post/3ma5gntmhi62e)
-
----
-
-@cbsnews.com
-
-Second doctor charged in Matthew Perry death sentenced to 8 months of home confinement for ketamine charge.
-
-[2025-12-17 09:45:00](https://bsky.app/profile/cbsnews.com/post/3ma5gns2a372b)
+[2025-12-17 10:04:31](https://bsky.app/profile/wsj.com/post/3ma5hqoywdg2e)
 
 ---
 
 @cnbc.com
 
-Trump orders blockade of sanctioned oil tankers in Venezuela, designates government as 'terrorist organization'
+CNBC Daily Open: Beware confirmation bias in U.S. jobs report for November
 
-[2025-12-17 09:44:57](https://bsky.app/profile/cnbc.com/post/3ma5gnou6kw2b)
+[2025-12-17 10:02:51](https://bsky.app/profile/cnbc.com/post/3ma5hnpf6ow2b)
 
 ---
 
-@japan.reuters.com
+@wsj.com
 
-＜０９：０８＞　日経平均は小幅反発で寄り付く、米雇用統計を通過　短時間でマイナスに転換 bit.ly/4p07kKz
+Country music is booming, tech bros love cowboy boots and a show about a West Texas oil-company fixer is wildly popular. Enter Stetson, a made-in-America heritage brand, with factories in Texas and a legacy.
 
-[2025-12-17 09:44:53](https://bsky.app/profile/japan.reuters.com/post/3ma5gnkyzh62c)
+🔗: on.wsj.com/4qaNDRc
+
+[2025-12-17 10:02:39](https://bsky.app/profile/wsj.com/post/3ma5hndeoii2g)
 
 ---
 
 @reuters.com
 
-Slovaks rally against government moves they see damaging rule of law reut.rs/3MGWU51
+US FAA repeats warning to airlines of 'worsening security situation' when flying over Venezuela reut.rs/4pKF3sC
 
-[2025-12-17 09:40:27](https://bsky.app/profile/reuters.com/post/3ma5gfmw6oe2x)
+[2025-12-17 10:01:45](https://bsky.app/profile/reuters.com/post/3ma5hlpnrcc23)
+
+---
+
+@nikkei.com
+
+市場に潜む反DEI　女性経営者もターゲットか
+www.nikkei.com/article/DGXZQO...
+
+フィナンシャル・タイムズによると、女性経営者のほうがアクティビストの攻撃対象になりやすいといいます。
+
+また昇進を望まない女性が2025年に急増したという調査もあります。
+
+25年はトランプ政権が反DEIの姿勢を鮮明にし、世論も保守化に勢いがあります。
+
+米国社会で「ガラスの天井」は思いのほか固いようです。
+
+[2025-12-17 10:01:15](https://bsky.app/profile/nikkei.com/post/3ma5hktutok2i)
 
 ---
 
 @japan.reuters.com
 
-内閣府が１７日に発表した１０月機械受注統計によると、設備投資の先行指標である船舶・電力を除いた民需の受注額（季節調整値）は、前月比７．０％増となった。２カ月連続の増加。ロイターがまとめた事前予測は前月比２．３％減で、予想に反し増加した。 bit.ly/4oWvp4I
+トランプ米大統領は１６日、米東部時間１７日午後９時（０２００ＧＭＴ、日本時間１８日午前１１時）に国民向けの演説を行うと発表した。演説のテーマについては明らかにしなかった。 bit.ly/3XZ3Mgw
 
-[2025-12-17 09:39:08](https://bsky.app/profile/japan.reuters.com/post/3ma5gdbv5kx2q)
+[2025-12-17 10:01:03](https://bsky.app/profile/japan.reuters.com/post/3ma5hkhuxx422)
 
 ---
 
-@npr.org
+@apnews.com
 
-If you're looking to shake things up in the new year, these streaming platforms will help you diversify your music-listening habits. n.pr/3MFVckn
+The leading international authority on hunger crises and the U.N. food aid agency are warning that more than 17 million people in Afghanistan are facing crisis levels of hunger in the coming winter months.
 
-[2025-12-17 09:38:53](https://bsky.app/profile/npr.org/post/3ma5gctmu2w2b)
+[2025-12-17 10:00:15](https://bsky.app/profile/apnews.com/post/3ma5hizupca23)
+
+---
+
+@bloomberg.com
+
+President Donald Trump’s base broadly supports his airstrikes against suspected drug-runners in the Caribbean Sea, giving him the political latitude he may need to wage an even more aggressive campaign despite an outcry over its legality.
+
+[2025-12-17 10:00:14](https://bsky.app/profile/bloomberg.com/post/3ma5hizfgle2a)
+
+---
+
+@washingtonpost.com
+
+Candace Owens's recent foray into conspiracy theories about the death of conservative activist Charlie Kirk has some of her longtime allies in the conservative movement drawing a line.
+https://wapo.st/4jayDAv
+
+[2025-12-17 10:00:08](https://bsky.app/profile/washingtonpost.com/post/3ma5hitdow62d)
 
 ---
 
