@@ -1,9 +1,9 @@
-# [2025-12-18 04:50 updated](2025_12_18.md)
+# [2025-12-18 05:10 updated](2025_12_18.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">US confirms tariff elements of trade deal with Switzerland reut.rs/4pJhmkg <a href="https://bsky.app/profile/reuters.com/post/3ma7gesfwu523" target="_blank">reuters.com</a> (2025-12-18 04:45:18)</span><span style="padding-right:50px;">Nick Reiner appeared briefly in court on Wednesday, a day after he was charged with murder in the death of his parents, the celebrated director Rob Reiner and his wife, Michele Singer Reiner. He did not enter a plea. <a href="https://bsky.app/profile/nytimes.com/post/3ma7gcbz3nu2s" target="_blank">nytimes.com</a> (2025-12-18 04:43:54)</span><span style="padding-right:50px;">Republican lawmakers decry Intel's testing of Chinese-linked tools after Reuters report reut.rs/4pJ4tqt <a href="https://bsky.app/profile/reuters.com/post/3ma7g4g74742b" target="_blank">reuters.com</a> (2025-12-18 04:40:37)</span><span style="padding-right:50px;">米財務省は、ロシア極東サハリン沖の石油・天然ガス開発事業「サハリン２」プロジェクトからの原油販売許可を来年６月１８日まで延長すると発表した。 bit.ly/4qhbf6N <a href="https://bsky.app/profile/japan.reuters.com/post/3ma7g4aq3h626" target="_blank">japan.reuters.com</a> (2025-12-18 04:40:31)</span><span style="padding-right:50px;">FCC Chair Brendan Carr says the regulatory body is not an independent government agency — a position that counters his previous public statements and the office’s own website. <a href="https://bsky.app/profile/nbcnews.com/post/3ma7g3t577n2r" target="_blank">nbcnews.com</a> (2025-12-18 04:40:17)</span>
+<span style="padding-right:50px;">日銀 きょうから金融政策決定会合 利上げの実施を最終判断へ https://news.web.nhk/newsweb/na/na-k10015006851000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma7hpczg3w2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 05:09:03)</span><span style="padding-right:50px;">Welcome to “Cannonball’s” Great Performers Awards Show. This is not an ordinary best-of compilation. Our host zeroes in on the specific details that make each performance great. Like, who did the best acting in a helmet this year? And who refused to play it safe. nyti.ms/4pR5ihe <a href="https://bsky.app/profile/nytimes.com/post/3ma7hpa6img2b" target="_blank">nytimes.com</a> (2025-12-18 05:09:02)</span><span style="padding-right:50px;">欧州株式市場はほぼ横ばいで取引を終えた。人工知能（ＡＩ）関連投資への懸念が続く中、ハイテク株が売られて相場の重荷となった。資源株は上昇が目立った。 bit.ly/3Y12kdy <a href="https://bsky.app/profile/japan.reuters.com/post/3ma7hnzom6625" target="_blank">japan.reuters.com</a> (2025-12-18 05:08:22)</span><span style="padding-right:50px;">Oracle stock sinks as reported AI data center snag puts rising debt in focus <a href="https://bsky.app/profile/yahoofinance.com/post/3ma7hkcheyh2y" target="_blank">yahoofinance.com</a> (2025-12-18 05:06:17)</span><span style="padding-right:50px;">「防災庁」約350人配置へ 内閣府防災担当の1.6倍  新交付金も https://news.web.nhk/newsweb/na/na-k10015006831000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma7hjwxx5e2d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 05:06:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 47980.28 (🔻147.77 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22769.36 (🔻366.25 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 171.15 (🔻4.96 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.66 (🔺0.91 : 2025-12-17)</span>
+<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 47949.63 (🔻178.42 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22761.55 (🔻374.06 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 171.18 (🔻4.92 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.65 (🔺0.90 : 2025-12-17)</span>
   </div>
 </div>
 
@@ -34,93 +34,96 @@
 
 Here are six important stories with headlines in English:
 
-1. US Confirms Tariff Elements of Trade Deal with Switzerland
-2. US Allows Oil Sales from Russia's Sakhalin-2 Project Through June 18
-3. Trump Administration's EPA Spent $86.5 Million on Employee Leave in First 7 Months
-4. Google Sues Chinese Cybercriminal Group for Scam Text Messages
-5. Oscars Telecast to Stream on YouTube Starting in 2029
-6. Finland's Prime Minister Apologizes to Asian Nations Over Racism Scandal
+1. Bank of Japan to Decide on Interest Rate Hike
+2. Stock Market Remains Flat Amid AI-Related Concerns
+3. US Federal Reserve Official Says Rate Cuts Still Possible
+4. Federal Prosecutors Indict Four Former Tricolor Executives
+5. US Allows Oil Sales from Russia's Sakhalin-2 Project
+6. Carlyle Hires Goldman Sachs for Lukoil Asset Bid
 
 ----
 
-@reuters.com
+@nhknewsunofficial.bsky.social
 
-US confirms tariff elements of trade deal with Switzerland reut.rs/4pJhmkg
+日銀 きょうから金融政策決定会合 利上げの実施を最終判断へ
+https://news.web.nhk/newsweb/na/na-k10015006851000
 
-[2025-12-18 04:45:18](https://bsky.app/profile/reuters.com/post/3ma7gesfwu523)
+[2025-12-18 05:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma7hpczg3w2s)
 
 ---
 
 @nytimes.com
 
-Nick Reiner appeared briefly in court on Wednesday, a day after he was charged with murder in the death of his parents, the celebrated director Rob Reiner and his wife, Michele Singer Reiner. He did not enter a plea.
+Welcome to “Cannonball’s” Great Performers Awards Show. This is not an ordinary best-of compilation. Our host zeroes in on the specific details that make each performance great. Like, who did the best acting in a helmet this year? And who refused to play it safe. nyti.ms/4pR5ihe
 
-[2025-12-18 04:43:54](https://bsky.app/profile/nytimes.com/post/3ma7gcbz3nu2s)
-
----
-
-@reuters.com
-
-Republican lawmakers decry Intel's testing of Chinese-linked tools after Reuters report reut.rs/4pJ4tqt
-
-[2025-12-18 04:40:37](https://bsky.app/profile/reuters.com/post/3ma7g4g74742b)
+[2025-12-18 05:09:02](https://bsky.app/profile/nytimes.com/post/3ma7hpa6img2b)
 
 ---
 
 @japan.reuters.com
 
-米財務省は、ロシア極東サハリン沖の石油・天然ガス開発事業「サハリン２」プロジェクトからの原油販売許可を来年６月１８日まで延長すると発表した。 bit.ly/4qhbf6N
+欧州株式市場はほぼ横ばいで取引を終えた。人工知能（ＡＩ）関連投資への懸念が続く中、ハイテク株が売られて相場の重荷となった。資源株は上昇が目立った。 bit.ly/3Y12kdy
 
-[2025-12-18 04:40:31](https://bsky.app/profile/japan.reuters.com/post/3ma7g4aq3h626)
-
----
-
-@nbcnews.com
-
-FCC Chair Brendan Carr says the regulatory body is not an independent government agency — a position that counters his previous public statements and the office’s own website.
-
-[2025-12-18 04:40:17](https://bsky.app/profile/nbcnews.com/post/3ma7g3t577n2r)
+[2025-12-18 05:08:22](https://bsky.app/profile/japan.reuters.com/post/3ma7hnzom6625)
 
 ---
 
-@nytimes.com
+@yahoofinance.com
 
-“He was a happy, caring man, full of joy,” one mourner said of Rabbi Eli Schlanger. His funeral on Wednesday was the first one held for the 15 people killed in a mass shooting at a Jewish celebration in Sydney, Australia. nyti.ms/3MGOMl4
+Oracle stock sinks as reported AI data center snag puts rising debt in focus
 
-[2025-12-18 04:40:02](https://bsky.app/profile/nytimes.com/post/3ma7g3esu4r2b)
+[2025-12-18 05:06:17](https://bsky.app/profile/yahoofinance.com/post/3ma7hkcheyh2y)
 
 ---
 
-@cbsnews.com
+@nhknewsunofficial.bsky.social
 
-Americans lose hundreds of millions of dollars each year in travel-related fraud, according to the Joint Economic Committee. Here's how to avoid getting burned.
+「防災庁」約350人配置へ 内閣府防災担当の1.6倍  新交付金も
+https://news.web.nhk/newsweb/na/na-k10015006831000
 
-
-[2025-12-18 04:40:01](https://bsky.app/profile/cbsnews.com/post/3ma7g3dhdqf2b)
+[2025-12-18 05:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma7hjwxx5e2d)
 
 ---
 
 @reuters.com
 
-Wall Street's main indexes fell, with the S&P 500 and the tech-heavy Nasdaq at three-week lows as nagging worries about AI weighed on technology stocks reut.rs/4j3E1p6
+Austria's Raiffeisen names former executive Hoellerer as new CEO reut.rs/3KNmLaZ
 
-[2025-12-18 04:39:27](https://bsky.app/profile/reuters.com/post/3ma7g2cw2wc22)
-
----
-
-@reuters.com
-
-US allows oil sales from Russia's Sakhalin-2 project through June 18 reut.rs/49mKSWn
-
-[2025-12-18 04:35:13](https://bsky.app/profile/reuters.com/post/3ma7fsrbeth2r)
+[2025-12-18 05:05:11](https://bsky.app/profile/reuters.com/post/3ma7hiefkir2y)
 
 ---
 
-@bloomberg.com
+@cnbc.com
 
-The Trump administration’s move to cut $7.6 billion in grants to California and other Democratic-led states has prompted a probe by a federal watchdog.
+This communication services ETF could be on the verge of a breakout, charts show
 
-[2025-12-18 04:34:58](https://bsky.app/profile/bloomberg.com/post/3ma7fsck62h2p)
+[2025-12-18 05:05:03](https://bsky.app/profile/cnbc.com/post/3ma7hi4m3zq24)
+
+---
+
+@wsj.com
+
+Obituary: In 1998, executives at Enron complained to Merrill Lynch about one of its analysts, John Olson. A few months later, Olson was gone from the firm.
+
+[2025-12-18 05:03:12](https://bsky.app/profile/wsj.com/post/3ma7hes5zct2g)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+臨時国会閉会 「年収の壁」見直し 自民・国民の協議 大詰めへ
+https://news.web.nhk/newsweb/na/na-k10015006811000
+
+[2025-12-18 05:03:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma7heppqn42d)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+東京 赤坂 サウナ店火災 ドアの窓部分に衝撃加わったような跡
+https://news.web.nhk/newsweb/na/na-k10015006871000
+
+[2025-12-18 05:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma7hekrk4w2b)
 
 ---
 
