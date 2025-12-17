@@ -1,9 +1,9 @@
-# [2025-12-17 08:50 updated](2025_12_17.md)
+# [2025-12-17 09:10 updated](2025_12_17.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">米通商代表部（ＵＳＴＲ）は１６日、欧州連合（ＥＵ）が米国のサービス企業に対する「差別的」行為を続けた場合、ＥＵサービス企業に手数料課金や外国サービスの制限など幅広い対抗措置を取ると警告した。 bit.ly/4aQ9vNd <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5diqp4a62q" target="_blank">japan.reuters.com</a> (2025-12-17 08:48:30)</span><span style="padding-right:50px;">Israeli settler kills 16-year-old Palestinian in West Bank, mayor says reut.rs/4rWt1Op <a href="https://bsky.app/profile/reuters.com/post/3ma5dcwechr2c" target="_blank">reuters.com</a> (2025-12-17 08:45:15)</span><span style="padding-right:50px;">＜０８：２７＞　寄り前の板状況、メディカル・データ・ビジョンが買い優勢　ジェイテクトは売り優勢 bit.ly/3YwkF2l <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5dcdhk2k2q" target="_blank">japan.reuters.com</a> (2025-12-17 08:44:55)</span><span style="padding-right:50px;">Though ambitious and engaging, the New York institution’s reorganized collections galleries struggle to offer a coherent vision of Jewish history and identity. on.wsj.com/4qbxqLB <a href="https://bsky.app/profile/wsj.com/post/3ma5d7u43w52r" target="_blank">wsj.com</a> (2025-12-17 08:43:31)</span><span style="padding-right:50px;">Andersen valued at $1.75bn in IPO for consulting spin-off of Enron auditor ft.trib.al/7Ek9wTD <a href="https://bsky.app/profile/financialtimes.com/post/3ma5d3wnpzk2c" target="_blank">financialtimes.com</a> (2025-12-17 08:41:20)</span>
+<span style="padding-right:50px;">ロシアの占領下にあるウクライナ南東部のザポリージャ原子力発電所は現在、２本の外部送電線のうち１本からのみ電力供給を受けていると、ロシア当局が１６日に明らかにした。 bit.ly/4qjgFyh <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5ems4ugi2s" target="_blank">japan.reuters.com</a> (2025-12-17 09:08:40)</span><span style="padding-right:50px;">Asia-Pacific markets set to open mixed ahead of Japan trade data <a href="https://bsky.app/profile/cnbc.com/post/3ma5eizn5ci24" target="_blank">cnbc.com</a> (2025-12-17 09:06:33)</span><span style="padding-right:50px;">米軍 新たに麻薬密輸船だとする3隻の船を攻撃し8人殺害 https://news.web.nhk/newsweb/na/na-k10015006161000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma5ei6bv552x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-17 09:06:02)</span><span style="padding-right:50px;">BREAKING: Donald Trump says he is ordering a "complete blockade" of sanctioned oil tankers going into and out of Venezuela <a href="https://bsky.app/profile/bloomberg.com/post/3ma5ehj54b42h" target="_blank">bloomberg.com</a> (2025-12-17 09:05:42)</span><span style="padding-right:50px;">米国株式市場は午後の取引で下げ幅を縮小し、ナスダック総合がプラス圏で取引を終えた一方、Ｓ＆Ｐ総合５００種とダウ工業株３０種は続落した。ヘルスケア関連やエネルギー株への売りが重しとなった。投資家は来年の米金融政策見通しを見極めようと、政府機関閉鎖の影響で遅れて発表された経済指標を精査した。 bit.ly/3Myth65 <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5egsctkg2c" target="_blank">japan.reuters.com</a> (2025-12-17 09:05:18)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.75 (🔺0.00 : 2025-12-16)</span>
+<span style="padding-right:50px;">NIKKEI: 49383.29 (🔻667.95 : 2025-12-16)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻50.00 : 2025-12-16)</span><span style="padding-right:50px;">USD/JPY: 154.82 (🔺0.07 : 2025-12-17)</span>
   </div>
 </div>
 
@@ -32,95 +32,95 @@
 
 ## News Headlines
 
-Here are six news headlines in English:
-
-1. EU Warns of Countermeasures Against US Over Alleged Discrimination
-2. Israeli Settler Kills 16-Year-Old Palestinian in West Bank
-3. Medical Data Vision Leads in Panel Sales, JTEKT in Sales
-4. Trump Expands US Entry Ban to Include Palestinians and Syrians
-5. Harvard Medical Affiliate to Pay $15 Million Over Misrepresented Research
-6. US EPA Expects to Finalize Biofuel Rules in First Quarter of 2026
+1. Russia's Zaporizhzhia Nuclear Power Plant Now Operating on Single External Power Line
+2. Asia-Pacific Markets Set to Open Mixed Ahead of Japan Trade Data
+3. US Navy Attacks 3 Ships Suspected of Smuggling Narcotics, Killing 8
+4. Trump Orders 'Complete Blockade' of Sanctioned Oil Tankers to Venezuela
+5. ADP Raises $11 Billion for Low-Cost Lending Window, No US Funding
+6. Scientists Extract RNA from Ancient Woolly Mammoth, Gain Insights into Extinction
 
 ----
 
 @japan.reuters.com
 
-米通商代表部（ＵＳＴＲ）は１６日、欧州連合（ＥＵ）が米国のサービス企業に対する「差別的」行為を続けた場合、ＥＵサービス企業に手数料課金や外国サービスの制限など幅広い対抗措置を取ると警告した。 bit.ly/4aQ9vNd
+ロシアの占領下にあるウクライナ南東部のザポリージャ原子力発電所は現在、２本の外部送電線のうち１本からのみ電力供給を受けていると、ロシア当局が１６日に明らかにした。 bit.ly/4qjgFyh
 
-[2025-12-17 08:48:30](https://bsky.app/profile/japan.reuters.com/post/3ma5diqp4a62q)
+[2025-12-17 09:08:40](https://bsky.app/profile/japan.reuters.com/post/3ma5ems4ugi2s)
 
 ---
 
-@reuters.com
+@cnbc.com
 
-Israeli settler kills 16-year-old Palestinian in West Bank, mayor says reut.rs/4rWt1Op
+Asia-Pacific markets set to open mixed ahead of Japan trade data
 
-[2025-12-17 08:45:15](https://bsky.app/profile/reuters.com/post/3ma5dcwechr2c)
+[2025-12-17 09:06:33](https://bsky.app/profile/cnbc.com/post/3ma5eizn5ci24)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+米軍 新たに麻薬密輸船だとする3隻の船を攻撃し8人殺害
+https://news.web.nhk/newsweb/na/na-k10015006161000
+
+[2025-12-17 09:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma5ei6bv552x)
+
+---
+
+@bloomberg.com
+
+<strong><span style="color: red;">BREAKING:</span> Donald Trump says he is ordering a "complete blockade" of sanctioned oil tankers going into and out of Venezuela</strong>
+
+[2025-12-17 09:05:42](https://bsky.app/profile/bloomberg.com/post/3ma5ehj54b42h)
 
 ---
 
 @japan.reuters.com
 
-＜０８：２７＞　寄り前の板状況、メディカル・データ・ビジョンが買い優勢　ジェイテクトは売り優勢 bit.ly/3YwkF2l
+米国株式市場は午後の取引で下げ幅を縮小し、ナスダック総合がプラス圏で取引を終えた一方、Ｓ＆Ｐ総合５００種とダウ工業株３０種は続落した。ヘルスケア関連やエネルギー株への売りが重しとなった。投資家は来年の米金融政策見通しを見極めようと、政府機関閉鎖の影響で遅れて発表された経済指標を精査した。 bit.ly/3Myth65
 
-[2025-12-17 08:44:55](https://bsky.app/profile/japan.reuters.com/post/3ma5dcdhk2k2q)
+[2025-12-17 09:05:18](https://bsky.app/profile/japan.reuters.com/post/3ma5egsctkg2c)
+
+---
+
+@reuters.com
+
+AfDB raises $11 billion for low-cost lending window, no word on US funding reut.rs/4qxLBuP
+
+[2025-12-17 09:05:16](https://bsky.app/profile/reuters.com/post/3ma5egptedi2b)
+
+---
+
+@cnbc.com
+
+Cramer's Lighting Round: 'Be careful' with Lumen Technologies
+
+[2025-12-17 09:05:07](https://bsky.app/profile/cnbc.com/post/3ma5egh4irt25)
+
+---
+
+@japan.reuters.com
+
+次期米連邦準備理事会（ＦＲＢ）議長の有力候補とされる米国家経済会議（ＮＥＣ）のハセット委員長について、トランプ政権の一部当局者が適性を疑問視する見方を内々に示したと、米政治サイトのポリティコが１６日報じた。 bit.ly/45dJvHX
+
+[2025-12-17 09:02:53](https://bsky.app/profile/japan.reuters.com/post/3ma5eci3iog2c)
 
 ---
 
 @wsj.com
 
-Though ambitious and engaging, the New York institution’s reorganized collections galleries struggle to offer a coherent vision of Jewish history and identity. on.wsj.com/4qbxqLB
+Scientists have extracted RNA from an ancient woolly mammoth that gives new insight into the extinct beasts—and might one day boost moonshot efforts to resurrect them.
 
-[2025-12-17 08:43:31](https://bsky.app/profile/wsj.com/post/3ma5d7u43w52r)
+Read more: on.wsj.com/49kj3Or
 
----
-
-@financialtimes.com
-
-Andersen valued at $1.75bn in IPO for consulting spin-off of Enron auditor ft.trib.al/7Ek9wTD
-
-[2025-12-17 08:41:20](https://bsky.app/profile/financialtimes.com/post/3ma5d3wnpzk2c)
+[2025-12-17 09:02:23](https://bsky.app/profile/wsj.com/post/3ma5eblht3w2t)
 
 ---
 
-@en.afp.com
+@apnews.com
 
-Bondi Beach hero Ahmed al Ahmed, who risked his life by wresting a gun from an attacker in Australia's deadly mass shooting, is now a source of pride for his hometown in Syria. 'He had no motivation for doing this other than heroism and bravery,' says his uncle 
-🎥  🇸🇾 🇦🇺
+"Avatar: Fire and Ash," will probably be a rewarding experience for fans of James Cameron's saga.
 
-[2025-12-17 08:41:20](https://bsky.app/profile/en.afp.com/post/3ma5d3wbwt32v)
-
----
-
-@japan.reuters.com
-
-欧州評議会は１６日、オランダのハーグで会合を開き、ロシアの攻撃と戦争犯罪によるウクライナ側の損害の賠償に向けた「国際請求委員会」の創設に向けた条約案に３４カ国が署名した。十分な資金を確保した上で、少なくとも２５カ国が批准すれば発効する。 bit.ly/4oUd9Jl
-
-[2025-12-17 08:40:31](https://bsky.app/profile/japan.reuters.com/post/3ma5d2hhr452q)
-
----
-
-@reuters.com
-
-China ups demand to controlling stake in Panama ports deal, WSJ reports reut.rs/4pIOysk
-
-[2025-12-17 08:40:21](https://bsky.app/profile/reuters.com/post/3ma5d26lodg23)
-
----
-
-@nbcnews.com
-
-New York City prosecutors accuse Trey Songz of allegedly being involved in two different altercations at Manhattan night spots this month, court documents reveal.
-
-[2025-12-17 08:40:13](https://bsky.app/profile/nbcnews.com/post/3ma5czx2mdc24)
-
----
-
-@nytimes.com
-
-From @theathletic.com: Cooper Flagg broke a record LeBron James set more than two decades ago in the Dallas Mavericks’ 140-133 overtime loss to the Utah Jazz on Monday.
-
-[2025-12-17 08:40:04](https://bsky.app/profile/nytimes.com/post/3ma5cznowez2y)
+[2025-12-17 09:01:42](https://bsky.app/profile/apnews.com/post/3ma5eadpcxl23)
 
 ---
 
