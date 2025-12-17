@@ -1,9 +1,9 @@
-# [2025-12-17 17:50 updated](2025_12_17.md)
+# [2025-12-17 18:10 updated](2025_12_17.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">ホンダは１７日、半導体不足により１２月から来年１月にかけて日本と中国の四輪工場で減産することを明らかにした。日本では埼玉県寄居町と三重県鈴鹿市の２工場で１月５―６日の２日間稼働を停止し、同７ー９日は生産量を減らす。 bit.ly/49fnxGZ <a href="https://bsky.app/profile/japan.reuters.com/post/3ma6boahlwu2s" target="_blank">japan.reuters.com</a> (2025-12-17 17:48:27)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】高市総理 衆院の解散総選挙について「考えている暇ない」臨時国会閉幕で会見 (2025年12月17日 17:46) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma6bkygrho2y" target="_blank">sokuho.news</a> (2025-12-17 17:46:37)</span><span style="padding-right:50px;">フィンランド議員ら「つり目」写真投稿が波紋　アジア人差別と非難 www.nikkei.com/article/DGXZQO...  ミスコンテントで優勝した女性が11月にSNSに投稿した写真が発端。  指で両目尻をつり上げて「中国人と食事する」とのキャプションを付けました。  AFP通信によると、与党連合の一角を成す右派フィン人党の国会議員らが「女性を擁護する」と同じポーズの写真を投稿して騒ぎが拡大しています。 <a href="https://bsky.app/profile/nikkei.com/post/3ma6bijzqbr2x" target="_blank">nikkei.com</a> (2025-12-17 17:45:15)</span><span style="padding-right:50px;">アジア時間の原油先物は１％超上昇。トランプ米大統領がベネズエラに出入港する全ての制裁対象タンカーの全面封鎖を命じたことを受けた。 bit.ly/4j1JvjX <a href="https://bsky.app/profile/japan.reuters.com/post/3ma6biin5ap25" target="_blank">japan.reuters.com</a> (2025-12-17 17:45:14)</span><span style="padding-right:50px;">Warburg Pincus to invest in Hong Kong's Acclime reut.rs/4pHzBqr <a href="https://bsky.app/profile/reuters.com/post/3ma6bihom5h2i" target="_blank">reuters.com</a> (2025-12-17 17:45:13)</span>
+<span style="padding-right:50px;">円相場 値下がり https://news.web.nhk/newsweb/na/na-k10015006771000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma6ct4reea2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-17 18:09:02)</span><span style="padding-right:50px;">インド準備銀行（ＲＢＩ）のマルホトラ総裁は、英紙フィナンシャル・タイムズ（ＦＴ）とのインタビューに応じ、ＲＢＩの予測によると、同国の金利は「長期間、低水準にとどまるはずだ」との見通しを示した。 bit.ly/4j16Xhe <a href="https://bsky.app/profile/japan.reuters.com/post/3ma6cmchvsq27" target="_blank">japan.reuters.com</a> (2025-12-17 18:05:15)</span><span style="padding-right:50px;">Uganda's state-owned oil firm to borrow $2 billion from Vitol reut.rs/4j25FTq <a href="https://bsky.app/profile/reuters.com/post/3ma6cm6msrf2y" target="_blank">reuters.com</a> (2025-12-17 18:05:11)</span><span style="padding-right:50px;">LIVE: Multifaith memorial to honor Bondi shooting victims youtube.com/live/1j7eMdc... <a href="https://bsky.app/profile/reuters.com/post/3ma6ckgwssc2q" target="_blank">reuters.com</a> (2025-12-17 18:04:13)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】京都市で車5台絡む事故 40代女性が心肺停止 1歳女児ら2人軽傷 (2025年12月17日 18:03) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma6cihvl322x" target="_blank">sokuho.news</a> (2025-12-17 18:03:07)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.46 (🔺0.71 : 2025-12-17)</span>
+<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.51 (🔺0.76 : 2025-12-17)</span>
   </div>
 </div>
 
@@ -34,20 +34,45 @@
 
 Here are six important stories with headlines in English:
 
-1. Honda to Reduce Production at Japanese and Chinese Plants Due to Semiconductor Shortage
-2. Finland Politician's Racially Charged Photo Post Sparks Backlash
-3. Oil Prices Rise as US Imposes Sanctions on Venezuelan Tankers
-4. Indian Central Bank Steps in to Boost Struggling Rupee
-5. Ford Motor Estimates $19.5 Billion Write-Down on Electric Vehicle Business
-6. Indonesia Keeps Policy Rate Unchanged Amid Economic Uncertainty
+1. India's RBI Predicts Low Interest Rates for Long Period
+2. Uganda to Borrow $2 Billion from Vitol
+3. IEA Forecasts Coal Demand to Reach Record High in 2025
+4. Honda to Reduce Production at Factories in Japan and China
+5. Finland Politicians Face Backlash Over Racist Photo
+6. Russia's Debt to Increase Sharply, Reaching 600% of GDP by 2042
 
 ----
 
+@nhknewsunofficial.bsky.social
+
+円相場 値下がり
+https://news.web.nhk/newsweb/na/na-k10015006771000
+
+[2025-12-17 18:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma6ct4reea2m)
+
+---
+
 @japan.reuters.com
 
-ホンダは１７日、半導体不足により１２月から来年１月にかけて日本と中国の四輪工場で減産することを明らかにした。日本では埼玉県寄居町と三重県鈴鹿市の２工場で１月５―６日の２日間稼働を停止し、同７ー９日は生産量を減らす。 bit.ly/49fnxGZ
+インド準備銀行（ＲＢＩ）のマルホトラ総裁は、英紙フィナンシャル・タイムズ（ＦＴ）とのインタビューに応じ、ＲＢＩの予測によると、同国の金利は「長期間、低水準にとどまるはずだ」との見通しを示した。 bit.ly/4j16Xhe
 
-[2025-12-17 17:48:27](https://bsky.app/profile/japan.reuters.com/post/3ma6boahlwu2s)
+[2025-12-17 18:05:15](https://bsky.app/profile/japan.reuters.com/post/3ma6cmchvsq27)
+
+---
+
+@reuters.com
+
+Uganda's state-owned oil firm to borrow $2 billion from Vitol reut.rs/4j25FTq
+
+[2025-12-17 18:05:11](https://bsky.app/profile/reuters.com/post/3ma6cm6msrf2y)
+
+---
+
+@reuters.com
+
+LIVE: Multifaith memorial to honor Bondi shooting victims youtube.com/live/1j7eMdc...
+
+[2025-12-17 18:04:13](https://bsky.app/profile/reuters.com/post/3ma6ckgwssc2q)
 
 ---
 
@@ -55,93 +80,56 @@ Here are six important stories with headlines in English:
 
 🔔ANNより【速報】です。
 
-【速報】高市総理 衆院の解散総選挙について「考えている暇ない」臨時国会閉幕で会見
-(2025年12月17日 17:46) #ニュース
+【速報】京都市で車5台絡む事故 40代女性が心肺停止 1歳女児ら2人軽傷
+(2025年12月17日 18:03) #ニュース
 
-[2025-12-17 17:46:37](https://bsky.app/profile/sokuho.news/post/3ma6bkygrho2y)
+[2025-12-17 18:03:07](https://bsky.app/profile/sokuho.news/post/3ma6cihvl322x)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+高市首相 記者会見 臨時国会の閉会受けて
+https://news.web.nhk/newsweb/na/na-k10015006491000
+
+[2025-12-17 18:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma6cifxtqf2v)
 
 ---
 
 @nikkei.com
 
-フィンランド議員ら「つり目」写真投稿が波紋　アジア人差別と非難
+SCSK、プログラミング言語「COBOL」で新会社（無料記事）
 www.nikkei.com/article/DGXZQO...
 
-ミスコンテントで優勝した女性が11月にSNSに投稿した写真が発端。
+COBOL（コボル）は金融機関システムなどで取り入れられてきたものの、利用は縮小傾向にあります。
 
-指で両目尻をつり上げて「中国人と食事する」とのキャプションを付けました。
+新会社は利用企業のシステム刷新や開発、運用を後押しします。
 
-AFP通信によると、与党連合の一角を成す右派フィン人党の国会議員らが「女性を擁護する」と同じポーズの写真を投稿して騒ぎが拡大しています。
-
-[2025-12-17 17:45:15](https://bsky.app/profile/nikkei.com/post/3ma6bijzqbr2x)
+[2025-12-17 18:01:15](https://bsky.app/profile/nikkei.com/post/3ma6cf5kbjy2m)
 
 ---
 
 @japan.reuters.com
 
-アジア時間の原油先物は１％超上昇。トランプ米大統領がベネズエラに出入港する全ての制裁対象タンカーの全面封鎖を命じたことを受けた。 bit.ly/4j1JvjX
+ロシアが１６日に公表した長期的な財政見通しによると、２０４２年まで毎年赤字が続き、債務は６倍に増加して政府が安全と見なす水準を上回ると予測されている。 bit.ly/4aRIOHV
 
-[2025-12-17 17:45:14](https://bsky.app/profile/japan.reuters.com/post/3ma6biin5ap25)
-
----
-
-@reuters.com
-
-Warburg Pincus to invest in Hong Kong's Acclime reut.rs/4pHzBqr
-
-[2025-12-17 17:45:13](https://bsky.app/profile/reuters.com/post/3ma6bihom5h2i)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】高市総理「大変残念ながら審議すらされなかった」議員定数削減法案 来年の通常国会で成立目指す
-(2025-12-17 17:39:44) #ニュース
-
-[2025-12-17 17:43:10](https://bsky.app/profile/sokuho.news/post/3ma6bes6neb2e)
-
----
-
-@sokuho.news
-
-🔔ANNより【速報】です。
-
-【速報】高市総理「中国や国際社会に粘り強く説明していく」“存立危機事態答弁”めぐり
-(2025年12月17日 17:40) #ニュース
-
-[2025-12-17 17:41:03](https://bsky.app/profile/sokuho.news/post/3ma6bazs5m42x)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】少なくとも5台が絡む多重事故で女性が心肺停止 1歳女児ら2人も病院搬送 京都・右京区
-(2025-12-17 17:04) #ニュース
-
-[2025-12-17 17:40:49](https://bsky.app/profile/sokuho.news/post/3ma6balp7nz2r)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】赤坂のサウナで2人死亡火災 司法解剖の結果「死因不詳」-警視庁
-(2025-12-17 17:40) #ニュース
-
-[2025-12-17 17:40:31](https://bsky.app/profile/sokuho.news/post/3ma6ba3d3vz2e)
+[2025-12-17 18:00:36](https://bsky.app/profile/japan.reuters.com/post/3ma6cdxm7np25)
 
 ---
 
 @reuters.com
 
-Jake Paul and Anthony Joshua held open workouts in Miami on December 16, ahead of their controversial heavyweight boxing clash.
+Coupang CEO faces legal action for skipping South Korean hearing on data breach reut.rs/4jawEfG
 
-[2025-12-17 17:40:15](https://bsky.app/profile/reuters.com/post/3ma6b7l5e2c2c)
+[2025-12-17 18:00:33](https://bsky.app/profile/reuters.com/post/3ma6cdvdnyk2r)
+
+---
+
+@cnn.com
+
+Terence Crawford, who claimed the title of best pound-for-pound boxer with a convincing victory over Canelo Alvarez in September, announced his retirement. https://cnn.it/4qhmoVh
+
+[2025-12-17 18:00:17](https://bsky.app/profile/cnn.com/post/3ma6cdg4qsd2x)
 
 ---
 
