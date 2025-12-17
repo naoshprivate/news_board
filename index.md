@@ -1,9 +1,9 @@
-# [2025-12-17 09:30 updated](2025_12_17.md)
+# [2025-12-17 09:50 updated](2025_12_17.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">BREAKING: President Trump orders a "total and complete blockade" of sanctioned oil tankers in and out of Venezuela. <a href="https://bsky.app/profile/cbsnews.com/post/3ma5fqmjdnm2t" target="_blank">cbsnews.com</a> (2025-12-17 09:28:42)</span><span style="padding-right:50px;">アルペンスキーのワールドカップ（Ｗ杯）は１６日、フランスのクルシュベルで女子回転を行い、ミカエラ・シフリン（米国）が１分４２秒５０で優勝。自身の持つＷ杯通算最多記録を１０５勝に更新した。 bit.ly/4oZ0qoS <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5fpgxbcx2c" target="_blank">japan.reuters.com</a> (2025-12-17 09:28:02)</span><span style="padding-right:50px;">米ダラス地区連銀が１６日公表した論文で、米国の金融政策目標を達成する上で政策金利を変更することが妥当だとの見解が示された。 bit.ly/4aRnGBB <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5fnevzwo2p" target="_blank">japan.reuters.com</a> (2025-12-17 09:26:53)</span><span style="padding-right:50px;">欧州連合（ＥＵ）欧州委員会は１６日、ＥＵ域内の自動車業界からの圧力を受け、２０３５年から内燃エンジン搭載の新車販売を実質的に禁止する計画を撤回する方針を発表した。 bit.ly/44xnXpx <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5fkmvtix2q" target="_blank">japan.reuters.com</a> (2025-12-17 09:25:21)</span><span style="padding-right:50px;">Stellantis says EU proposals fall short on auto industry's energy transition needs reut.rs/48Ks984 <a href="https://bsky.app/profile/reuters.com/post/3ma5fkjhcwu2i" target="_blank">reuters.com</a> (2025-12-17 09:25:17)</span>
+<span style="padding-right:50px;">トランプ米大統領は１６日、ベネズエラに出入りする制裁対象の全石油タンカーに対する全面的な封鎖を命じた。 bit.ly/45dNkgh <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5gtvr7672q" target="_blank">japan.reuters.com</a> (2025-12-17 09:48:26)</span><span style="padding-right:50px;">米アトランタ地区連銀のボスティック総裁は１６日、連邦準備理事会（ＦＲＢ）による追加利下げは金融政策を緩和的にし、経済成長を刺激する一方で、インフレとインフレ期待の上昇リスクを高める可能性があるとの見方を示した。 bit.ly/3XURRQZ <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5gogsdqi2u" target="_blank">japan.reuters.com</a> (2025-12-17 09:45:22)</span><span style="padding-right:50px;">Medical supplies firm Medline raises about $6.3 billion in 2025's biggest IPO reut.rs/4agzm0E <a href="https://bsky.app/profile/reuters.com/post/3ma5goeupqr2i" target="_blank">reuters.com</a> (2025-12-17 09:45:20)</span><span style="padding-right:50px;">The CDC approved a sweeping change to the nation’s childhood immunization schedule, endorsing a recommendation from a federal advisory panel to drop the long-standing practice of giving all newborns a hepatitis B vaccine within 24 hours of birth. <a href="https://bsky.app/profile/washingtonpost.com/post/3ma5gntmhi62e" target="_blank">washingtonpost.com</a> (2025-12-17 09:45:02)</span><span style="padding-right:50px;">Second doctor charged in Matthew Perry death sentenced to 8 months of home confinement for ketamine charge. <a href="https://bsky.app/profile/cbsnews.com/post/3ma5gns2a372b" target="_blank">cbsnews.com</a> (2025-12-17 09:45:00)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49308.08 (🔻105.11 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3328.00 (🔻18.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 154.80 (🔺0.05 : 2025-12-17)</span>
+<span style="padding-right:50px;">NIKKEI: 49187.72 (🔻225.47 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3332.00 (🔻14.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 154.68 (🔻0.07 : 2025-12-17)</span>
   </div>
 </div>
 
@@ -32,96 +32,92 @@
 
 ## News Headlines
 
-Here are six important stories with headlines:
-
-1. Trump Orders Blockade of Sanctioned Oil Tankers in and out of Venezuela
-2. US Unemployment Rate Rises Sharply for Black and Teenage Workers
-3. EU Reverses Plan to Ban New Cars with Internal Combustion Engines
-4. Stellantis Criticizes EU Proposals on Auto Industry's Energy Transition
-5. Chile Central Bank Cuts Interest Rate to 4.5% Amid Easing Inflation
-6. Tesla Faces Sales Suspension in California Over Misleading Autopilot Claims
+1. Trump Orders Total Blockade on Sanctioned Oil Tankers in Venezuela
+2. Fed Rate Cut May Stimulate Growth, but May Also Fuel Inflation
+3. Medline Raises $6.3 Billion in 2025's Largest IPO
+4. CDC Approves Sweeping Change to Childhood Immunization Schedule
+5. Slovaks Rally Against Government Moves Damaging Rule of Law
+6. Canada Announces New Methane Emission Standards for Oil and Gas Sector
 
 ----
 
-@cbsnews.com
+@japan.reuters.com
 
-<strong><span style="color: red;">BREAKING:</span> President Trump orders a "total and complete blockade" of sanctioned oil tankers in and out of Venezuela.</strong>
+トランプ米大統領は１６日、ベネズエラに出入りする制裁対象の全石油タンカーに対する全面的な封鎖を命じた。 bit.ly/45dNkgh
 
-[2025-12-17 09:28:42](https://bsky.app/profile/cbsnews.com/post/3ma5fqmjdnm2t)
+[2025-12-17 09:48:26](https://bsky.app/profile/japan.reuters.com/post/3ma5gtvr7672q)
 
 ---
 
 @japan.reuters.com
 
-アルペンスキーのワールドカップ（Ｗ杯）は１６日、フランスのクルシュベルで女子回転を行い、ミカエラ・シフリン（米国）が１分４２秒５０で優勝。自身の持つＷ杯通算最多記録を１０５勝に更新した。 bit.ly/4oZ0qoS
+米アトランタ地区連銀のボスティック総裁は１６日、連邦準備理事会（ＦＲＢ）による追加利下げは金融政策を緩和的にし、経済成長を刺激する一方で、インフレとインフレ期待の上昇リスクを高める可能性があるとの見方を示した。 bit.ly/3XURRQZ
 
-[2025-12-17 09:28:02](https://bsky.app/profile/japan.reuters.com/post/3ma5fpgxbcx2c)
-
----
-
-@japan.reuters.com
-
-米ダラス地区連銀が１６日公表した論文で、米国の金融政策目標を達成する上で政策金利を変更することが妥当だとの見解が示された。 bit.ly/4aRnGBB
-
-[2025-12-17 09:26:53](https://bsky.app/profile/japan.reuters.com/post/3ma5fnevzwo2p)
-
----
-
-@japan.reuters.com
-
-欧州連合（ＥＵ）欧州委員会は１６日、ＥＵ域内の自動車業界からの圧力を受け、２０３５年から内燃エンジン搭載の新車販売を実質的に禁止する計画を撤回する方針を発表した。 bit.ly/44xnXpx
-
-[2025-12-17 09:25:21](https://bsky.app/profile/japan.reuters.com/post/3ma5fkmvtix2q)
+[2025-12-17 09:45:22](https://bsky.app/profile/japan.reuters.com/post/3ma5gogsdqi2u)
 
 ---
 
 @reuters.com
 
-Stellantis says EU proposals fall short on auto industry's energy transition needs reut.rs/48Ks984
+Medical supplies firm Medline raises about $6.3 billion in 2025's biggest IPO reut.rs/4agzm0E
 
-[2025-12-17 09:25:17](https://bsky.app/profile/reuters.com/post/3ma5fkjhcwu2i)
+[2025-12-17 09:45:20](https://bsky.app/profile/reuters.com/post/3ma5goeupqr2i)
+
+---
+
+@washingtonpost.com
+
+The CDC approved a sweeping change to the nation’s childhood immunization schedule, endorsing a recommendation from a federal advisory panel to drop the long-standing practice of giving all newborns a hepatitis B vaccine within 24 hours of birth.
+
+[2025-12-17 09:45:02](https://bsky.app/profile/washingtonpost.com/post/3ma5gntmhi62e)
+
+---
+
+@cbsnews.com
+
+Second doctor charged in Matthew Perry death sentenced to 8 months of home confinement for ketamine charge.
+
+[2025-12-17 09:45:00](https://bsky.app/profile/cbsnews.com/post/3ma5gns2a372b)
+
+---
+
+@cnbc.com
+
+Trump orders blockade of sanctioned oil tankers in Venezuela, designates government as 'terrorist organization'
+
+[2025-12-17 09:44:57](https://bsky.app/profile/cnbc.com/post/3ma5gnou6kw2b)
 
 ---
 
 @japan.reuters.com
 
-米紙ウォール・ストリート・ジャーナル（ＷＳＪ）は１６日、事情に詳しい関係者の話として、パナマ運河の港湾運営権を米企業などが取得に合意したことに不満を示していた中国が、国有の中国遠洋海運集団（ＣＯＳＣＯ）の参加要求をエスカレートさせ、ＣＯＳＣＯが支配的な持ち分を得るべきだと主張している、と伝えた。 bit.ly/4rZVnHv
+＜０９：０８＞　日経平均は小幅反発で寄り付く、米雇用統計を通過　短時間でマイナスに転換 bit.ly/4p07kKz
 
-[2025-12-17 09:24:37](https://bsky.app/profile/japan.reuters.com/post/3ma5fjdihnw2p)
+[2025-12-17 09:44:53](https://bsky.app/profile/japan.reuters.com/post/3ma5gnkyzh62c)
+
+---
+
+@reuters.com
+
+Slovaks rally against government moves they see damaging rule of law reut.rs/3MGWU51
+
+[2025-12-17 09:40:27](https://bsky.app/profile/reuters.com/post/3ma5gfmw6oe2x)
 
 ---
 
 @japan.reuters.com
 
-チリ中央銀行は１６日、政策金利を予想通り２５ベーシスポイント（ｂｐ）引き下げ、４．５％とした。決定は全会一致で、インフレが一段と緩和していることを受けた。 bit.ly/4s1DcBc
+内閣府が１７日に発表した１０月機械受注統計によると、設備投資の先行指標である船舶・電力を除いた民需の受注額（季節調整値）は、前月比７．０％増となった。２カ月連続の増加。ロイターがまとめた事前予測は前月比２．３％減で、予想に反し増加した。 bit.ly/4oWvp4I
 
-[2025-12-17 09:21:15](https://bsky.app/profile/japan.reuters.com/post/3ma5fdcu5lh2q)
-
----
-
-@japan.reuters.com
-
-米労働省が１６日発表した１１月の雇用統計で、黒人とティーンエイジャー（１６－１９歳）の階層の失業率が急上昇した。経済が軟化する際に最も影響を受けやすい層とされるだけに、エコノミストの間で警戒感が広がっている。 bit.ly/4j4esUQ
-
-[2025-12-17 09:20:28](https://bsky.app/profile/japan.reuters.com/post/3ma5fbvct5x2q)
+[2025-12-17 09:39:08](https://bsky.app/profile/japan.reuters.com/post/3ma5gdbv5kx2q)
 
 ---
 
-@bloomberg.com
+@npr.org
 
-🎙️ Devastating typhoons in the Philippines this year exposed a vast corruption network.
+If you're looking to shake things up in the new year, these streaming platforms will help you diversify your music-listening habits. n.pr/3MFVckn
 
-On today’s Big Take Asia podcast: how billions of dollars meant for flood control vanished and what the crisis means for the country’s economy. ⤵️
-
-[2025-12-17 09:20:19](https://bsky.app/profile/bloomberg.com/post/3ma5fbmxypj2w)
-
----
-
-@nytimes.com
-
-Amanda Seyfried visited The New York Times kitchen studio for a lesson in making Parmesan cabbage soup. During an afternoon of chopping, simmering and chatting, the actress discussed acting, motherhood, goats, parents and her deep love of Polish food.
-
-[2025-12-17 09:20:05](https://bsky.app/profile/nytimes.com/post/3ma5fb7xblb26)
+[2025-12-17 09:38:53](https://bsky.app/profile/npr.org/post/3ma5gctmu2w2b)
 
 ---
 
