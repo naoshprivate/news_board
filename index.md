@@ -1,9 +1,9 @@
-# [2025-12-18 08:30 updated](2025_12_18.md)
+# [2025-12-18 08:50 updated](2025_12_18.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">米半導体大手マイクロン・テクノロジーが１７日発表した第２・四半期（２０２５年１２月－２６年２月）の調整後１株利益見通しは「８．４２ドルを中心に上下０．２０ドル」で、ＬＳＥＧがまとめたアナリスト予想の４．７８ドルを大幅に上回った。 bit.ly/3YyOAH7 <a href="https://bsky.app/profile/japan.reuters.com/post/3ma7srrqky32q" target="_blank">japan.reuters.com</a> (2025-12-18 08:27:19)</span><span style="padding-right:50px;">BREAKING: The House fails to adopt two war powers resolutions aimed at blocking President Trump from striking Venezuela. <a href="https://bsky.app/profile/cbsnews.com/post/3ma7sp2sopz2l" target="_blank">cbsnews.com</a> (2025-12-18 08:25:47)</span><span style="padding-right:50px;">Perfect storm of factors propels silver to record high above $65/oz reut.rs/4s0qgLM <a href="https://bsky.app/profile/reuters.com/post/3ma7snznjz524" target="_blank">reuters.com</a> (2025-12-18 08:25:13)</span><span style="padding-right:50px;">From Starbucks to Burger King: Why Western food giants are selling large stakes to Chinese private equity funds <a href="https://bsky.app/profile/cnbc.com/post/3ma7smymmvr2m" target="_blank">cnbc.com</a> (2025-12-18 08:24:38)</span><span style="padding-right:50px;">The US government now admits failures by the pilots of an Army Black Hawk helicopter and a controller in the Reagan National Airport tower during the January 29 midair collision over the Potomac River that killed 67 people. https://cnn.it/3L2YFsR <a href="https://bsky.app/profile/cnn.com/post/3ma7skoo5fo25" target="_blank">cnn.com</a> (2025-12-18 08:23:21)</span>
+<span style="padding-right:50px;">BREAKING: The House passes a GOP health care bill without extending tax credits that help millions pay for ACA insurance. <a href="https://bsky.app/profile/cbsnews.com/post/3ma7tyjyopy2b" target="_blank">cbsnews.com</a> (2025-12-18 08:48:59)</span><span style="padding-right:50px;">米映画芸術科学アカデミーは１７日、映画界最大の祭典であるアカデミー賞授賞式と関連行事を２０２９年から動画投稿サイト「ユーチューブ」で独占配信すると発表した。 bit.ly/3XXQvVB <a href="https://bsky.app/profile/japan.reuters.com/post/3ma7ty53hwl2c" target="_blank">japan.reuters.com</a> (2025-12-18 08:48:46)</span><span style="padding-right:50px;">BP appoints Woodside's Meg O'Neill as CEO after Auchincloss' abrupt exit reut.rs/3Yxu2Pd <a href="https://bsky.app/profile/reuters.com/post/3ma7ts3vja62y" target="_blank">reuters.com</a> (2025-12-18 08:45:23)</span><span style="padding-right:50px;">米アカデミー賞、YouTubeで独占配信　2029年から（無料記事） www.nikkei.com/article/DGXZQO...  米映画芸術科学アカデミーは声明で「アカデミーの活動を世界中の幅広い人々に届けることが可能になる」と説明。  授賞式は長年、テレビで生中継されてきました。  視聴者数は映画「タイタニック」が作品賞に輝いた1998年の約5500万人がピークでした。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3ma7tru23442g" target="_blank">nikkei.com</a> (2025-12-18 08:45:15)</span><span style="padding-right:50px;">As President Trump ramps up pressure on Venezuelan President Nicolás Maduro, the U.S. is targeting oil tankers operating under U.S. sanctions and bound for or departing Venezuela, with a “total and complete blockade” of such vessels. <a href="https://bsky.app/profile/washingtonpost.com/post/3ma7triue4624" target="_blank">washingtonpost.com</a> (2025-12-18 08:45:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.60 (🔺0.00 : 2025-12-17)</span>
+<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.53 (🔻0.06 : 2025-12-17)</span>
   </div>
 </div>
 
@@ -32,98 +32,103 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
-
-1. Silver Surges to Record High Above $65/oz Amid Perfect Storm of Factors
-2. US Government Admits Failures in 67 Fatal Helicopter Crash Investigation
-3. China's Wang Yi Meets Venezuelan Foreign Minister to Reiterate Opposition to US Pressure
-4. EU Reaches Tentative Agreement on Trade Deal with Mercosur Amid Concerns Over Agricultural Imports
-5. Amazon Overhauls AI Team as Chief Declares 'Inflection Point' in Tech Industry
-6. US Ends Sanctions on Syria, Paving Way for Investment to Return to War-Torn Nation
+1. House Passes GOP Health Care Bill Without Extending Tax Credits for ACA Insurance
+2. Academy Awards to Be Exclusively Streamed on YouTube Starting in 2029
+3. US Targets Oil Tankers Operating Under Sanctions for Venezuela
+4. ECB Holds Rates Steady as Euro Zone Economy Shows Resilience
+5. Salad Dressings Recalled in 27 US States Due to Potential Foreign Objects
+6. China's Guangzhou Futures Exchange Sees Surge in Lithium Prices Amid Supply Worries
 
 ----
 
-@japan.reuters.com
+@cbsnews.com
 
-米半導体大手マイクロン・テクノロジーが１７日発表した第２・四半期（２０２５年１２月－２６年２月）の調整後１株利益見通しは「８．４２ドルを中心に上下０．２０ドル」で、ＬＳＥＧがまとめたアナリスト予想の４．７８ドルを大幅に上回った。 bit.ly/3YyOAH7
+<strong><span style="color: red;">BREAKING:</span> The House passes a GOP health care bill without extending tax credits that help millions pay for ACA insurance.</strong>
 
-[2025-12-18 08:27:19](https://bsky.app/profile/japan.reuters.com/post/3ma7srrqky32q)
+[2025-12-18 08:48:59](https://bsky.app/profile/cbsnews.com/post/3ma7tyjyopy2b)
 
 ---
 
-@cbsnews.com
+@japan.reuters.com
 
-<strong><span style="color: red;">BREAKING:</span> The House fails to adopt two war powers resolutions aimed at blocking President Trump from striking Venezuela.</strong>
+米映画芸術科学アカデミーは１７日、映画界最大の祭典であるアカデミー賞授賞式と関連行事を２０２９年から動画投稿サイト「ユーチューブ」で独占配信すると発表した。 bit.ly/3XXQvVB
 
-[2025-12-18 08:25:47](https://bsky.app/profile/cbsnews.com/post/3ma7sp2sopz2l)
+[2025-12-18 08:48:46](https://bsky.app/profile/japan.reuters.com/post/3ma7ty53hwl2c)
 
 ---
 
 @reuters.com
 
-Perfect storm of factors propels silver to record high above $65/oz reut.rs/4s0qgLM
+BP appoints Woodside's Meg O'Neill as CEO after Auchincloss' abrupt exit reut.rs/3Yxu2Pd
 
-[2025-12-18 08:25:13](https://bsky.app/profile/reuters.com/post/3ma7snznjz524)
-
----
-
-@cnbc.com
-
-From Starbucks to Burger King: Why Western food giants are selling large stakes to Chinese private equity funds
-
-[2025-12-18 08:24:38](https://bsky.app/profile/cnbc.com/post/3ma7smymmvr2m)
+[2025-12-18 08:45:23](https://bsky.app/profile/reuters.com/post/3ma7ts3vja62y)
 
 ---
 
-@cnn.com
+@nikkei.com
 
-The US government now admits failures by the pilots of an Army Black Hawk helicopter and a controller in the Reagan National Airport tower during the January 29 midair collision over the Potomac River that killed 67 people. https://cnn.it/3L2YFsR
+米アカデミー賞、YouTubeで独占配信　2029年から（無料記事）
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-18 08:23:21](https://bsky.app/profile/cnn.com/post/3ma7skoo5fo25)
+米映画芸術科学アカデミーは声明で「アカデミーの活動を世界中の幅広い人々に届けることが可能になる」と説明。
 
----
+授賞式は長年、テレビで生中継されてきました。
 
-@japan.reuters.com
+視聴者数は映画「タイタニック」が作品賞に輝いた1998年の約5500万人がピークでした。
 
-＜０７：５０＞　ドル154.90─156.40円の見通し、米指標で上下　株安なら前日の上昇帳消しも bit.ly/3MG3g4K
+#ニュース
 
-[2025-12-18 08:21:20](https://bsky.app/profile/japan.reuters.com/post/3ma7sh3sy2s2p)
-
----
-
-@japan.reuters.com
-
-ウクライナ軍のシルスキー総司令官は１７日、ウクライナ東部ハルキウ州の要衝都市クピャンスクからロシア軍を撃退し、ほぼ９割を掌握していると表明した。交流サイト（ＳＮＳ）テレグラムに投稿。一方、ロシアのベロウソフ国防相は、テレビ放映された国防幹部の会合でウクライナ軍の反撃は成功していないと主張した。 bit.ly/4amk2zJ
-
-[2025-12-18 08:20:59](https://bsky.app/profile/japan.reuters.com/post/3ma7sghync32q)
-
----
-
-@nbcnews.com
-
-"I saw what it’s like to be confronted with potentially losing a lot, whether it’s your career or your health," Wembanyama said after his season debut. 
-
-"So I’m not taking this for granted anymore."
-
-[2025-12-18 08:20:15](https://bsky.app/profile/nbcnews.com/post/3ma7sf5jv3q22)
+[2025-12-18 08:45:15](https://bsky.app/profile/nikkei.com/post/3ma7tru23442g)
 
 ---
 
 @washingtonpost.com
 
-<strong><span style="color: red;">Breaking news:</span> FBI Deputy Director Dan Bongino announced he will leave his role in January.</strong>
+As President Trump ramps up pressure on Venezuelan President Nicolás Maduro, the U.S. is targeting oil tankers operating under U.S. sanctions and bound for or departing Venezuela, with a “total and complete blockade” of such vessels.
 
-[2025-12-18 08:19:18](https://bsky.app/profile/washingtonpost.com/post/3ma7sdgytoj24)
+[2025-12-18 08:45:03](https://bsky.app/profile/washingtonpost.com/post/3ma7triue4624)
 
 ---
 
-@wsj.com
+@reuters.com
 
-Exclusive: Bolivia is sitting on a metal the world can’t get enough of.
+ECB to hold rates steady as euro zone economy shows resilience reut.rs/4iZEDfk
 
-Now, after two decades of Socialist rule, its new pro-U.S. government is betting that lithium—and Washington—can help pull the country out of an economic tailspin.
+[2025-12-18 08:41:00](https://bsky.app/profile/reuters.com/post/3ma7tkbhgwu2c)
 
-[2025-12-18 08:15:35](https://bsky.app/profile/wsj.com/post/3ma7s4srybc2z)
+---
+
+@nbcnews.com
+
+The former students held an on-campus protest to put pressure on Les Wexner to testify and brought up his past friendship with Jeffrey Epstein.
+
+[2025-12-18 08:40:46](https://bsky.app/profile/nbcnews.com/post/3ma7tjtbvgu2q)
+
+---
+
+@nytimes.com
+
+In @nytopinion.nytimes.com 
+
+“It is obvious that the United States should not sell China advanced technology that China could use to target American troops and intelligence officers,” write the national security experts Ben Buchanan and Matt Pottinger.
+
+[2025-12-18 08:40:06](https://bsky.app/profile/nytimes.com/post/3ma7tinp2n62b)
+
+---
+
+@cbsnews.com
+
+Salad dressings recalled in 27 U.S. states because they could contain "foreign objects."
+
+[2025-12-18 08:40:01](https://bsky.app/profile/cbsnews.com/post/3ma7tiiv6242i)
+
+---
+
+@japan.reuters.com
+
+＜０８：２５＞　寄り前の板状況、メディカル・データ・ビジョンが買い優勢　コカ・コーラボトラーズＪＰＨＤは売り優勢 bit.ly/4pc65YY
+
+[2025-12-18 08:38:41](https://bsky.app/profile/japan.reuters.com/post/3ma7tg44v732c)
 
 ---
 
