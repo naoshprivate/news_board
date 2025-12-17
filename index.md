@@ -1,9 +1,9 @@
-# [2025-12-17 14:30 updated](2025_12_17.md)
+# [2025-12-17 14:50 updated](2025_12_17.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Mourners gathered in Sydney on Wednesday as the first funerals began for some of the 15 people killed in Australia’s worst mass shooting in almost three decades. https://cnn.it/48IH0jk <a href="https://bsky.app/profile/cnn.com/post/3ma5wjnpev72o" target="_blank">cnn.com</a> (2025-12-17 14:29:02)</span><span style="padding-right:50px;">＜１４：１５＞　後場の日経平均は一時マイナス圏、主力株がさえない bit.ly/3MHhZML <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5weuclsl2n" target="_blank">japan.reuters.com</a> (2025-12-17 14:26:21)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】日本郵便の不適切点呼問題 丸亀郵便局など香川・高知の4カ所の郵便局に一部車両使用停止処分 (2025-12-17 14:20) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma5wdndy5p2b" target="_blank">sokuho.news</a> (2025-12-17 14:25:40)</span><span style="padding-right:50px;">Monzo shareholders push to oust chair in revolt over CEO’s exit ft.trib.al/2p5SdwV <a href="https://bsky.app/profile/financialtimes.com/post/3ma5w7ytvk22w" target="_blank">financialtimes.com</a> (2025-12-17 14:23:38)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】メンズエステで14歳の女子中学生を働かせ不特定の男性客に接する業務させたか 35歳の男を逮捕＝静岡県警 (2025-12-17 13:51:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma5w5brvel2z" target="_blank">sokuho.news</a> (2025-12-17 14:22:06)</span>
+<span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】除雪中の人が2頭のクマ目撃 親子か…山の方へ歩く 一般住宅から100m 札幌市南区 (2025-12-17 14:48) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma5xm5dyms2x" target="_blank">sokuho.news</a> (2025-12-17 14:48:19)</span><span style="padding-right:50px;">米ホワイトハウスのワイルズ首席補佐官は米誌バニティ・フェアのインタビューで、第２次トランプ政権発足直後に行われた国際開発局（ＵＳＡＩＤ）の解体について「驚愕した」と語り、多額の援助停止を批判した。 bit.ly/4rWK9nb <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5xlvmw7x2p" target="_blank">japan.reuters.com</a> (2025-12-17 14:48:11)</span><span style="padding-right:50px;">米アップルがｉＰｈｏｎｅの部品組み立てとパッケージングを巡りインドのチップメーカーと初期の交渉段階にあると、インドの経済専門紙エコノミック・タイムズ（ＥＴ）が１７日、関係者の話として報じた。 bit.ly/4rYObLG <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5xjxh6vq25" target="_blank">japan.reuters.com</a> (2025-12-17 14:47:06)</span><span style="padding-right:50px;">韓国銀行（中央銀行）は１７日、ウォンが対ドルで現在の水準を維持した場合、来年のインフレ率は予測を上回る可能性があると述べた。 bit.ly/4q7oxCG <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5xg26xm72s" target="_blank">japan.reuters.com</a> (2025-12-17 14:44:54)</span><span style="padding-right:50px;">CNBC's UK Exchange newsletter: When growth got stuck in the chimney: A look back at the U.K. in 2025 <a href="https://bsky.app/profile/cnbc.com/post/3ma5xcbltxm2p" target="_blank">cnbc.com</a> (2025-12-17 14:42:48)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49369.73 (🔻43.46 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3325.00 (🔻21.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.09 (🔺0.34 : 2025-12-17)</span>
+<span style="padding-right:50px;">NIKKEI: 49431.68 (🔺18.49 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3328.00 (🔻18.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.15 (🔺0.40 : 2025-12-17)</span>
   </div>
 </div>
 
@@ -32,104 +32,98 @@
 
 ## News Headlines
 
-Here are six important stories with headlines:
+Here are six news headlines in English:
 
-1. Australia Mourns After Worst Mass Shooting in Almost Three Decades
-2. Japanese Post Office Employee Arrested for Allegedly Forcing 14-Year-Old Girl to Interact with Male Customers
-3. US CDC Abandons Universal Hepatitis B Vaccination for Newborns
-4. Ford Motor Reports $19.5 Billion Write-Down on Electric Vehicle Business
-5. European Union Reverses Plan to Ban Internal Combustion Engine Cars
-6. Petrobras Enters Brazilian Solar Energy Market with Deal for 49.99% Stake in Lightsource bp Subsidiaries
+1. Bear Sightings in Sapporo: Two Bears Spotted Walking Towards Mountains Near Residential Area
+2. US AID's Dissolution Shocks White House Aide, Criticizes Significant Aid Cuts
+3. India Chipmaker in Early Talks with Apple on iPhone Component Assembly and Packaging
+4. South Korea Forecasts Higher Inflation Rate if Won Maintains Current Exchange Rate
+5. Trade Deficit Turns to Surplus in Japan, Exceeding Predictions
+6. Gasoline Prices Drop Below ¥160 for the First Time in 4 Years and 3 Months
 
 ----
 
-@cnn.com
+@sokuho.news
 
-Mourners gathered in Sydney on Wednesday as the first funerals began for some of the 15 people killed in Australia’s worst mass shooting in almost three decades. https://cnn.it/48IH0jk
+🛎️NNNより【速報】です。
 
-[2025-12-17 14:29:02](https://bsky.app/profile/cnn.com/post/3ma5wjnpev72o)
+【速報】除雪中の人が2頭のクマ目撃 親子か…山の方へ歩く 一般住宅から100m 札幌市南区
+(2025-12-17 14:48) #ニュース
+
+[2025-12-17 14:48:19](https://bsky.app/profile/sokuho.news/post/3ma5xm5dyms2x)
 
 ---
 
 @japan.reuters.com
 
-＜１４：１５＞　後場の日経平均は一時マイナス圏、主力株がさえない bit.ly/3MHhZML
+米ホワイトハウスのワイルズ首席補佐官は米誌バニティ・フェアのインタビューで、第２次トランプ政権発足直後に行われた国際開発局（ＵＳＡＩＤ）の解体について「驚愕した」と語り、多額の援助停止を批判した。 bit.ly/4rWK9nb
 
-[2025-12-17 14:26:21](https://bsky.app/profile/japan.reuters.com/post/3ma5weuclsl2n)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】日本郵便の不適切点呼問題 丸亀郵便局など香川・高知の4カ所の郵便局に一部車両使用停止処分
-(2025-12-17 14:20) #ニュース
-
-[2025-12-17 14:25:40](https://bsky.app/profile/sokuho.news/post/3ma5wdndy5p2b)
-
----
-
-@financialtimes.com
-
-Monzo shareholders push to oust chair in revolt over CEO’s exit ft.trib.al/2p5SdwV
-
-[2025-12-17 14:23:38](https://bsky.app/profile/financialtimes.com/post/3ma5w7ytvk22w)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】メンズエステで14歳の女子中学生を働かせ不特定の男性客に接する業務させたか 35歳の男を逮捕＝静岡県警
-(2025-12-17 13:51:00) #ニュース
-
-[2025-12-17 14:22:06](https://bsky.app/profile/sokuho.news/post/3ma5w5brvel2z)
-
----
-
-@sokuho.news
-
-🛎️ANNより【速報】です。
-
-【速報】道央道でバス炎上 乗客・乗員は避難して無事 北海道千歳市
-(2025-12-17 13:59:17) #ニュース
-
-[2025-12-17 14:21:13](https://bsky.app/profile/sokuho.news/post/3ma5w3op6fs2b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-蚊の駆除スプレー訴訟 東京地裁 特許侵害認めず訴え退ける
-https://news.web.nhk/newsweb/na/na-k10015006461000
-
-[2025-12-17 14:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma5w3g42a72u)
+[2025-12-17 14:48:11](https://bsky.app/profile/japan.reuters.com/post/3ma5xlvmw7x2p)
 
 ---
 
 @japan.reuters.com
 
-前場の中国・香港株式市場は３営業日ぶりに反発。投資家は来年の米連邦準備理事会（ＦＲＢ）の政策見通しについて手掛かりを得ようと、政府機関閉鎖の影響で遅れて発表された米経済指標を精査した。 bit.ly/4pOcs5Q
+米アップルがｉＰｈｏｎｅの部品組み立てとパッケージングを巡りインドのチップメーカーと初期の交渉段階にあると、インドの経済専門紙エコノミック・タイムズ（ＥＴ）が１７日、関係者の話として報じた。 bit.ly/4rYObLG
 
-[2025-12-17 14:20:48](https://bsky.app/profile/japan.reuters.com/post/3ma5w2wr7t62c)
+[2025-12-17 14:47:06](https://bsky.app/profile/japan.reuters.com/post/3ma5xjxh6vq25)
 
 ---
 
 @japan.reuters.com
 
-米通商代表部（ＵＳＴＲ）は１６日、欧州連合（ＥＵ）が米国のサービス企業に対する「差別的」行為を続けた場合、ＥＵサービス企業に手数料課金や外国サービスの制限など幅広い対抗措置を取ると警告した。 bit.ly/4s1QwFI
+韓国銀行（中央銀行）は１７日、ウォンが対ドルで現在の水準を維持した場合、来年のインフレ率は予測を上回る可能性があると述べた。 bit.ly/4q7oxCG
 
-[2025-12-17 14:20:18](https://bsky.app/profile/japan.reuters.com/post/3ma5vzzy7h52v)
+[2025-12-17 14:44:54](https://bsky.app/profile/japan.reuters.com/post/3ma5xg26xm72s)
+
+---
+
+@cnbc.com
+
+CNBC's UK Exchange newsletter: When growth got stuck in the chimney: A look back at the U.K. in 2025
+
+[2025-12-17 14:42:48](https://bsky.app/profile/cnbc.com/post/3ma5xcbltxm2p)
+
+---
+
+@japan.reuters.com
+
+財務省が１７日発表した貿易統計速報によると、１１月の貿易収支は３２２３億円の黒字となった。ロイターが事前にまとめた調査機関の予測中央値は７１２億円の黒字で、黒字幅は予想をやや上回った。 bit.ly/45fbZkD
+
+[2025-12-17 14:40:16](https://bsky.app/profile/japan.reuters.com/post/3ma5x5rdsvm2c)
 
 ---
 
 @reuters.com
 
-US CDC ends guidance that all newborns should get hepatitis B vaccine, in major policy shift reut.rs/4oZm3W3
+Oil rises over 1% as Trump's Venezuela blockade stokes uncertainty reut.rs/4qbtqKZ
 
-[2025-12-17 14:20:14](https://bsky.app/profile/reuters.com/post/3ma5vzwkgz52c)
+[2025-12-17 14:40:10](https://bsky.app/profile/reuters.com/post/3ma5x5ll57y2x)
+
+---
+
+@japan.reuters.com
+
+インド株式市場の株価は、小動き。アジア株に追随した。米雇用統計は強弱まちまちな内容となり、米連邦準備理事会（ＦＲＢ）の政策金利見通しの不透明感は晴れなかった。 bit.ly/3N3RmS9
+
+[2025-12-17 14:38:25](https://bsky.app/profile/japan.reuters.com/post/3ma5x2gmxft2n)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+高市首相 きょう夕方に記者会見へ 臨時国会の閉会受けて
+https://news.web.nhk/newsweb/na/na-k10015006491000
+
+[2025-12-17 14:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma5wwaopby2b)
+
+---
+
+@financialtimes.com
+
+ What happens if AI data centres slip the ‘surly bonds of earth’? ft.trib.al/Dn8jC1T  | opinion
+
+[2025-12-17 14:33:32](https://bsky.app/profile/financialtimes.com/post/3ma5wrpsqlw2q)
 
 ---
 
