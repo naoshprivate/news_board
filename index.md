@@ -1,9 +1,9 @@
-# [2025-12-17 19:10 updated](2025_12_17.md)
+# [2025-12-17 19:30 updated](2025_12_17.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Good morning London. While you were sleeping, this was our most-read story ft.trib.al/g9zJ2Gx <a href="https://bsky.app/profile/financialtimes.com/post/3ma6fzhzbhp24" target="_blank">financialtimes.com</a> (2025-12-17 19:06:19)</span><span style="padding-right:50px;">格付け会社Ｓ＆Ｐグローバル・レーティングは１７日のリポートで、日米関税交渉で合意した５５００億ドル（約８２兆円）の対米投資について、投資主体である日本の事業会社の収益性を押し下げると同時に債務返済能力を低下させるリスクがあると指摘した。 bit.ly/492xmHf <a href="https://bsky.app/profile/japan.reuters.com/post/3ma6fxqcojy27" target="_blank">japan.reuters.com</a> (2025-12-17 19:05:20)</span><span style="padding-right:50px;">Australia's gun laws riddled with loopholes and workarounds, experts say reut.rs/4oXmSyA <a href="https://bsky.app/profile/reuters.com/post/3ma6fxla7wo2b" target="_blank">reuters.com</a> (2025-12-17 19:05:15)</span><span style="padding-right:50px;">Australian police charged one of the alleged Bondi Beach gunmen with murder and terrorism on Wednesday, as grief-stricken mourners buried the first of 15 people slain in the attack ➡️ u.afp.com/S7CK <a href="https://bsky.app/profile/en.afp.com/post/3ma6fwffin22q" target="_blank">en.afp.com</a> (2025-12-17 19:04:35)</span><span style="padding-right:50px;">オイシックス・ラ・大地は１７日、米資産運用会社のグランサム、マヨ、ヴァン　オッテルロー（ＧＭＯ）が議決権ベースで１０．１７％を保有する大株主になったと発表した。 bit.ly/4pFghtH <a href="https://bsky.app/profile/japan.reuters.com/post/3ma6fsvqhc62q" target="_blank">japan.reuters.com</a> (2025-12-17 19:02:38)</span>
+<span style="padding-right:50px;">🇺🇸 🇻🇪 US President Donald Trump has announced a blockade of "sanctioned oil vessels" heading to and leaving Venezuela, sharply escalating his pressure campaign against Caracas while issuing new demands for access to the country's crude ➡️ u.afp.com/S7y4 <a href="https://bsky.app/profile/en.afp.com/post/3ma6h6ivate26" target="_blank">en.afp.com</a> (2025-12-17 19:27:01)</span><span style="padding-right:50px;">Funeral takes place for rabbi killed in Bondi shooting <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma6h3edj7u2b" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-17 19:25:15)</span><span style="padding-right:50px;">川崎重工業の橋本康彦社長は１７日、政府が防衛費を一段と増やす姿勢を鮮明にする中、２０３０年度に最大７０００億円を見込んでいた防衛事業の売上高が上振れそうだと明らかにした。「高市（早苗）政権になってよりクリアになった」とし、検討している案件が受注に結びつく「予見性の確度がより高まっていくと考えている」と述べた。ロイターなどの取材に答えた。 bit.ly/4aPyqk4 <a href="https://bsky.app/profile/japan.reuters.com/post/3ma6h3dd6ck26" target="_blank">japan.reuters.com</a> (2025-12-17 19:25:15)</span><span style="padding-right:50px;">UK inflation unexpectedly tumbles, firming Bank of England rate cut bets reut.rs/4j0PXbd <a href="https://bsky.app/profile/reuters.com/post/3ma6h3cfxa52r" target="_blank">reuters.com</a> (2025-12-17 19:25:13)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】多重事故の原因…東進の車が対向車線に突っ込んだか？ 目撃情報やドライブレコーダーで警察の見立て 女性重体・幼児ら3人ケガ 京都の丸太町通り (2025-12-17 18:36:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma6gy4gtj52b" target="_blank">sokuho.news</a> (2025-12-17 19:23:27)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.51 (🔺0.76 : 2025-12-17)</span>
+<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.50 (🔺0.75 : 2025-12-17)</span>
   </div>
 </div>
 
@@ -32,99 +32,100 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are the six selected news headlines:
 
-1. Japan's S&P Global Rating Warns of Risk to Corporate Profitability and Debt Repayment
-2. Japanese Company Gains 10.17% Stake in US Asset Management Firm
-3. Trump Administration's National Security Strategy Aimed to Help Europe, Not Criticize It
-4. Employees at Louvre Museum Extend Strike, Disrupting Operations
+1. US Imposes Blockade on Sanctioned Oil Vessels Headed to Venezuela
+2. UK Inflation Unexpectedly Tumbles, Firming Bank of England Rate Cut Bets
+3. Blackstone Invests $400 Million in Data-Security Firm Cyera Valued at $9 Billion
+4. Poland's Offshore Wind Auction Seen as Key Test for Europe After Failed Tenders
 5. Japan's MUFG to Invest Over $4 Billion in India's Shriram Finance
-6. Global Coal Demand Hits Record High but Expected to Decline by 2030
+6. US National Security Strategy Designed to Help Europe, Not Criticize It, Says State Department Official
 
 ----
 
-@financialtimes.com
-
-Good morning London. While you were sleeping, this was our most-read story ft.trib.al/g9zJ2Gx
-
-[2025-12-17 19:06:19](https://bsky.app/profile/financialtimes.com/post/3ma6fzhzbhp24)
-
----
-
-@japan.reuters.com
-
-格付け会社Ｓ＆Ｐグローバル・レーティングは１７日のリポートで、日米関税交渉で合意した５５００億ドル（約８２兆円）の対米投資について、投資主体である日本の事業会社の収益性を押し下げると同時に債務返済能力を低下させるリスクがあると指摘した。 bit.ly/492xmHf
-
-[2025-12-17 19:05:20](https://bsky.app/profile/japan.reuters.com/post/3ma6fxqcojy27)
-
----
-
-@reuters.com
-
-Australia's gun laws riddled with loopholes and workarounds, experts say reut.rs/4oXmSyA
-
-[2025-12-17 19:05:15](https://bsky.app/profile/reuters.com/post/3ma6fxla7wo2b)
-
----
-
 @en.afp.com
 
-Australian police charged one of the alleged Bondi Beach gunmen with murder and terrorism on Wednesday, as grief-stricken mourners buried the first of 15 people slain in the attack ➡️ u.afp.com/S7CK
+🇺🇸 🇻🇪 US President Donald Trump has announced a blockade of "sanctioned oil vessels" heading to and leaving Venezuela, sharply escalating his pressure campaign against Caracas while issuing new demands for access to the country's crude ➡️ u.afp.com/S7y4
 
-[2025-12-17 19:04:35](https://bsky.app/profile/en.afp.com/post/3ma6fwffin22q)
+[2025-12-17 19:27:01](https://bsky.app/profile/en.afp.com/post/3ma6h6ivate26)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Funeral takes place for rabbi killed in Bondi shooting
+
+[2025-12-17 19:25:15](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma6h3edj7u2b)
 
 ---
 
 @japan.reuters.com
 
-オイシックス・ラ・大地は１７日、米資産運用会社のグランサム、マヨ、ヴァン　オッテルロー（ＧＭＯ）が議決権ベースで１０．１７％を保有する大株主になったと発表した。 bit.ly/4pFghtH
+川崎重工業の橋本康彦社長は１７日、政府が防衛費を一段と増やす姿勢を鮮明にする中、２０３０年度に最大７０００億円を見込んでいた防衛事業の売上高が上振れそうだと明らかにした。「高市（早苗）政権になってよりクリアになった」とし、検討している案件が受注に結びつく「予見性の確度がより高まっていくと考えている」と述べた。ロイターなどの取材に答えた。 bit.ly/4aPyqk4
 
-[2025-12-17 19:02:38](https://bsky.app/profile/japan.reuters.com/post/3ma6fsvqhc62q)
-
----
-
-@wsj.com
-
-Rising sales this fall gave a boost to Sotheby’s and Christie’s, spurring younger bidders to seek out luxury goods as older buyers vie for modern masterworks. Seven chased after a collectible hippo. on.wsj.com/48SPKC5
-
-[2025-12-17 19:01:27](https://bsky.app/profile/wsj.com/post/3ma6fqs374w2o)
-
----
-
-@nikkei.com
-
-セブンイレブンが荷物一時預かり開始　全国378店で、インバウンドに的
-www.nikkei.com/article/DGXZQO...
-
-全国26都道府県にある378店舗に導入。利用者はアプリやサイトから予約します。
-
-利用可能時間は24時間で、バッグサイズが1日500円。スーツケースサイズは同800円です。
-
-[2025-12-17 19:01:16](https://bsky.app/profile/nikkei.com/post/3ma6fqhj4h32x)
+[2025-12-17 19:25:15](https://bsky.app/profile/japan.reuters.com/post/3ma6h3dd6ck26)
 
 ---
 
 @reuters.com
 
-Japan's MUFG to invest over $4 billion for stake in India's Shriram Finance, sources say reut.rs/48HE6ev
+UK inflation unexpectedly tumbles, firming Bank of England rate cut bets reut.rs/4j0PXbd
 
-[2025-12-17 19:00:47](https://bsky.app/profile/reuters.com/post/3ma6fpligbj2i)
+[2025-12-17 19:25:13](https://bsky.app/profile/reuters.com/post/3ma6h3cfxa52r)
 
 ---
 
-@bloomberg.com
+@sokuho.news
 
-The Trump administration’s recently released national security strategy was not intended as empty criticism of Europe but was designed to help steer the continent back on track, a top State Department official said.
+🛎️JNNより【速報】です。
 
-[2025-12-17 19:00:27](https://bsky.app/profile/bloomberg.com/post/3ma6foz2akl27)
+【速報】多重事故の原因…東進の車が対向車線に突っ込んだか？ 目撃情報やドライブレコーダーで警察の見立て 女性重体・幼児ら3人ケガ 京都の丸太町通り
+(2025-12-17 18:36:00) #ニュース
+
+[2025-12-17 19:23:27](https://bsky.app/profile/sokuho.news/post/3ma6gy4gtj52b)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】豚舎の火災 子豚525匹が死んだと判明（山形）
+(2025-12-17 19:11:00) #ニュース
+
+[2025-12-17 19:21:15](https://bsky.app/profile/sokuho.news/post/3ma6gu6mbs22y)
+
+---
+
+@japan.reuters.com
+
+米アマゾンはオープンＡＩへの投資について協議している。オープンＡＩの企業価値を５０００億ドル以上と評価する可能性がある。 bit.ly/3Y2b8jp
+
+[2025-12-17 19:20:24](https://bsky.app/profile/japan.reuters.com/post/3ma6gsolsvn2c)
 
 ---
 
 @nbcnews.com
 
-The Knicks win the NBA Cup after rallying to beat Spurs. Now they can hang a banner next to the 1973 NBA championship banner in Madison Square Garden.
+Australian authorities charge the surviving suspect in the Bondi Beach shooting with 59 offenses, including terrorism and 15 counts of murder.
 
-[2025-12-17 19:00:15](https://bsky.app/profile/nbcnews.com/post/3ma6fomvorj2x)
+[2025-12-17 19:20:08](https://bsky.app/profile/nbcnews.com/post/3ma6gs74syd2k)
+
+---
+
+@wsj.com
+
+Exclusive: Blackstone is leading a $400 million investment in data-security firm Cyera that values the New York-based company at $9 billion.
+
+[2025-12-17 19:18:36](https://bsky.app/profile/wsj.com/post/3ma6gph7cz22q)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Afrikaner refugees: Kenyans found illegally working at US asylum claim centre in South Africa
+
+[2025-12-17 19:18:24](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma6gp462zc2y)
 
 ---
 
