@@ -1,9 +1,9 @@
-# [2025-12-17 11:50 updated](2025_12_17.md)
+# [2025-12-17 12:10 updated](2025_12_17.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">米カリフォルニア州車両管理局は、電気自動車（ＥＶ）メーカー、テスラの同州での販売を３０日間停止する命令を下した。ただ、執行は９０日間保留され、同社は米国最大市場での販売停止を免れた格好だ。 bit.ly/4oZ8Qwu <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5nhu3w4z2c" target="_blank">japan.reuters.com</a> (2025-12-17 11:46:58)</span><span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像5🈡 (2025-12-17 11:45:10) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3ma5newvr3d2v" target="_blank">sokuho.news</a> (2025-12-17 11:45:20)</span><span style="padding-right:50px;">The Trump administration has increased the number of countries whose citizens face a full or partial travel ban on entry to the U.S. from 19 to 39, a significant expansion of the order announced this year.  Here’s every country affected: <a href="https://bsky.app/profile/washingtonpost.com/post/3ma5nefkrjk24" target="_blank">washingtonpost.com</a> (2025-12-17 11:45:02)</span><span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像4 (2025-12-17 11:44:51) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3ma5nec7cw42b" target="_blank">sokuho.news</a> (2025-12-17 11:44:58)</span><span style="padding-right:50px;">🚨地震発生中❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像3 (2025-12-17 11:44:31) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3ma5nduhafn2e" target="_blank">sokuho.news</a> (2025-12-17 11:44:44)</span>
+<span style="padding-right:50px;">アスクル 出荷をきょう再開 物流システムを新たに構築 https://news.web.nhk/newsweb/na/na-k10015006191000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma5opfawue2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-17 12:09:02)</span><span style="padding-right:50px;">木原稔官房長官は１７日午前の記者会見で、欧州連合（ＥＵ）欧州委員会がエンジン車の新車販売を２０３５年から実質的に禁止する計画を撤回する方針を打ち出したことについて、「欧州で事業を行う日本の自動車メーカーへの影響などを注視していくことが重要」とコメントした。 bit.ly/48Iitef <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5oohnvlq2s" target="_blank">japan.reuters.com</a> (2025-12-17 12:08:33)</span><span style="padding-right:50px;">福岡 粕屋町 住宅で火事 女性1人と連絡取れず この家の住人か https://news.web.nhk/newsweb/na/na-k10015006271000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma5ojyy7jw2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-17 12:06:01)</span><span style="padding-right:50px;">Ready to cut through the noise to create no-nonsense party outfits?  We asked six stylish, fete-loving women for their advice on mastering the delicate act of dressing for the revelry ahead. 🔗: on.wsj.com/4q4WpQK <a href="https://bsky.app/profile/wsj.com/post/3ma5oiwacdr2c" target="_blank">wsj.com</a> (2025-12-17 12:05:27)</span><span style="padding-right:50px;">欧州連合（ＥＵ）欧州委員会が１６日、２０３５年から内燃エンジン搭載の新車販売を実質的に禁止する計画を撤回する案を示したことを受け、自動車業界では反応が分かれた。 bit.ly/454MnH7 <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5oipg2zb2u" target="_blank">japan.reuters.com</a> (2025-12-17 12:05:20)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49553.71 (🔺140.52 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3329.00 (🔻17.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 154.98 (🔺0.23 : 2025-12-17)</span>
+<span style="padding-right:50px;">NIKKEI: 49553.71 (🔺140.52 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3329.00 (🔻17.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 154.96 (🔺0.21 : 2025-12-17)</span>
   </div>
 </div>
 
@@ -32,122 +32,111 @@
 
 ## News Headlines
 
-Here are six important news stories with headlines:
+Here are six important stories with headlines in English:
 
-1. US Expands Travel Ban to 39 Countries
-2. Earthquake Hits Japan, Residents Advised to Take Precautions
-3. EU to Reverse Plan to Ban New Gasoline-Powered Car Sales
-4. US Jobless Rate Rises for Black and Teenage Workers
-5. Australia Raises Inflation Forecast, Sees Higher Deficit
-6. NASA's H3 Rocket Launch Aborted Due to Technical Issues
+1. Japan's Askr to Resume Vehicle Deliveries After Rebuilding Logistics System
+2. EU Reverses Plan to Ban New Cars with Internal Combustion Engines by 2035
+3. Taiwan Defence Ministry Confirms China's New Aircraft Carrier Passed Through Taiwan Strait
+4. Former Alabama Football Coach Nick Saban Joins Ownership Group of NHL's Nashville Predators
+5. US Expands Travel Ban to 20 New Countries Under Trump Administration
+6. Tesla Ordered to Halt Car Sales in California for 30 Days Due to Safety Concerns
 
 ----
 
-@japan.reuters.com
+@nhknewsunofficial.bsky.social
 
-米カリフォルニア州車両管理局は、電気自動車（ＥＶ）メーカー、テスラの同州での販売を３０日間停止する命令を下した。ただ、執行は９０日間保留され、同社は米国最大市場での販売停止を免れた格好だ。 bit.ly/4oZ8Qwu
+アスクル 出荷をきょう再開 物流システムを新たに構築
+https://news.web.nhk/newsweb/na/na-k10015006191000
 
-[2025-12-17 11:46:58](https://bsky.app/profile/japan.reuters.com/post/3ma5nhu3w4z2c)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗
-
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像5🈡
-(2025-12-17 11:45:10) #緊急地震速報
-
-[2025-12-17 11:45:20](https://bsky.app/profile/sokuho.news/post/3ma5newvr3d2v)
-
----
-
-@washingtonpost.com
-
-The Trump administration has increased the number of countries whose citizens face a full or partial travel ban on entry to the U.S. from 19 to 39, a significant expansion of the order announced this year.
-
-Here’s every country affected:
-
-[2025-12-17 11:45:02](https://bsky.app/profile/washingtonpost.com/post/3ma5nefkrjk24)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗
-
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像4
-(2025-12-17 11:44:51) #緊急地震速報
-
-[2025-12-17 11:44:58](https://bsky.app/profile/sokuho.news/post/3ma5nec7cw42b)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗
-
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像3
-(2025-12-17 11:44:31) #緊急地震速報
-
-[2025-12-17 11:44:44](https://bsky.app/profile/sokuho.news/post/3ma5nduhafn2e)
+[2025-12-17 12:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma5opfawue2b)
 
 ---
 
 @japan.reuters.com
 
-＜１１：３２＞　前場の日経平均は反発、前日安から買い戻し　イベント控え方向感欠く bit.ly/4qcRbSS
+木原稔官房長官は１７日午前の記者会見で、欧州連合（ＥＵ）欧州委員会がエンジン車の新車販売を２０３５年から実質的に禁止する計画を撤回する方針を打ち出したことについて、「欧州で事業を行う日本の自動車メーカーへの影響などを注視していくことが重要」とコメントした。 bit.ly/48Iitef
 
-[2025-12-17 11:44:32](https://bsky.app/profile/japan.reuters.com/post/3ma5ndjoyhj2n)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗
-
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像2
-(2025-12-17 11:44:15) #緊急地震速報
-
-[2025-12-17 11:44:30](https://bsky.app/profile/sokuho.news/post/3ma5ndha3gd2r)
+[2025-12-17 12:08:33](https://bsky.app/profile/japan.reuters.com/post/3ma5oohnvlq2s)
 
 ---
 
-@sokuho.news
+@nhknewsunofficial.bsky.social
 
-🚨地震発生中❗❗
+福岡 粕屋町 住宅で火事 女性1人と連絡取れず この家の住人か
+https://news.web.nhk/newsweb/na/na-k10015006271000
 
-⚠️揺れに警戒してください
-🔗http://www.kmoni.bosai.go.jp/
-
-🔶防災科研/強震モニタ/予測震度画像1
-(2025-12-17 11:44:14) #緊急地震速報
-
-[2025-12-17 11:44:20](https://bsky.app/profile/sokuho.news/post/3ma5nd6ecel2r)
+[2025-12-17 12:06:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma5ojyy7jw2w)
 
 ---
 
-@cnbc.com
+@wsj.com
 
-Robinhood is rolling out NFL parlay and prop bets on prediction markets platform
+Ready to cut through the noise to create no-nonsense party outfits?
 
-[2025-12-17 11:42:26](https://bsky.app/profile/cnbc.com/post/3ma5n7rhxiq2n)
+We asked six stylish, fete-loving women for their advice on mastering the delicate act of dressing for the revelry ahead. 🔗: on.wsj.com/4q4WpQK
+
+[2025-12-17 12:05:27](https://bsky.app/profile/wsj.com/post/3ma5oiwacdr2c)
 
 ---
 
 @japan.reuters.com
 
-欧州連合（ＥＵ）欧州委員会は１６日、ＥＵ域内の自動車業界からの圧力を受け、２０３５年から内燃エンジン搭載の新車販売を実質的に禁止する計画を撤回する方針を発表した。 bit.ly/4j4kYLt
+欧州連合（ＥＵ）欧州委員会が１６日、２０３５年から内燃エンジン搭載の新車販売を実質的に禁止する計画を撤回する案を示したことを受け、自動車業界では反応が分かれた。 bit.ly/454MnH7
 
-[2025-12-17 11:40:28](https://bsky.app/profile/japan.reuters.com/post/3ma5n4allcc27)
+[2025-12-17 12:05:20](https://bsky.app/profile/japan.reuters.com/post/3ma5oipg2zb2u)
+
+---
+
+@japan.reuters.com
+
+欧州の第５世代戦闘機共同開発計画（ＦＣＡＳ）が迷走している。開発に関わるドイツ、フランス、スペインの間で見解が対立し、先週開かれた３カ国国防相会合でも打開に向けた突破口を見つけられなかったもよう。事情に詳しい関係者の１人は１６日、現時点でＦＣＡＳが実現する公算は「非常に乏しい」と悲観的な見方を示した。 bit.ly/3MM5Ea0
+
+[2025-12-17 12:02:46](https://bsky.app/profile/japan.reuters.com/post/3ma5oe52wk222)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】熊本・球磨村 村長と村議が任期途中で全員退陣 同日選実施へ
+(2025-12-17 12:00) #ニュース
+
+[2025-12-17 12:02:39](https://bsky.app/profile/sokuho.news/post/3ma5odvvzqq2s)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【独自】です。
+
+【独自】八潮市陥没事故 影響苦しむ住民ら、来月にも「住民団体」設立へ 健康不安を訴える声も
+(2025-12-17 12:01) #ニュース
+
+[2025-12-17 12:01:20](https://bsky.app/profile/sokuho.news/post/3ma5obkutz72r)
+
+---
+
+@nikkei.com
+
+高速道路の逆走防げ　車両に衝撃与える「路面埋め込み型ブレード」
+www.nikkei.com/article/DGXZQO...
+
+路面の突起物やくさび形の段差で物理的に注意喚起。
+
+視覚的には路側の大型看板「プレッシャーウオール」。
+
+高速各社は逆走パターンを5つに分類して対策を講じます。
+
+[2025-12-17 12:01:15](https://bsky.app/profile/nikkei.com/post/3ma5obfrqau2i)
+
+---
+
+@reuters.com
+
+Second doctor in Matthew Perry overdose case sentenced to home confinement reut.rs/48HUcF5
+
+[2025-12-17 12:01:02](https://bsky.app/profile/reuters.com/post/3ma5oazbve42b)
 
 ---
 
