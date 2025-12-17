@@ -1,9 +1,9 @@
-# [2025-12-17 12:50 updated](2025_12_17.md)
+# [2025-12-17 13:10 updated](2025_12_17.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】タクシーが飲食店に突っ込み乗客ら2人けが タクシーと軽トラックの事故のはずみで 飲食店は閉店中 大阪・中央区 (2025-12-17 12:35) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma5qri5s652s" target="_blank">sokuho.news</a> (2025-12-17 12:46:02)</span><span style="padding-right:50px;">トランプ米大統領は１６日、ベネズエラに出入港する全ての制裁対象の石油タンカーについて「封鎖」を命じると発表した。トランプ政権がベネズエラの主要な収入源を標的にする中、両国の緊張が急激に高まる見通しだ。 bit.ly/44vbqD3 <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5qq5ssts2q" target="_blank">japan.reuters.com</a> (2025-12-17 12:45:17)</span><span style="padding-right:50px;">オーストラリアの資源会社サウス３２は１６日、傘下のモザンビークのアルミニウム製錬企業モザール（年間精錬能力５６万トン）が製錬施設の保守のため来年３月半ばから操業を休止すると発表した。地元電力会社およびモザンビーク政府との協議で十分な電力を確保できなかったことを受けた措置。 bit.ly/3Y2NhA6 <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5qox2znk26" target="_blank">japan.reuters.com</a> (2025-12-17 12:44:37)</span><span style="padding-right:50px;">２０カ国・地域（Ｇ２０）諸国の金融規制を調整する金融安定理事会（ＦＳＢ）が１６日発表した年次報告書によると、いわゆる「シャドーバンキング」とされる銀行以外の金融セクターが世界の資産に占める割合は２０２４年に５１％、金額で２５６兆８０００億ドルと従来型の銀行業界の２倍のペースで成長した。シャドーバンキングの世界資産に占める割合は過去２番目の高水準で、新型コロナウィルス大流行（パンデミック）発生前の水準に近くなった。 bit.ly/3L6KB1o <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5qimovyn2q" target="_blank">japan.reuters.com</a> (2025-12-17 12:41:05)</span><span style="padding-right:50px;">ロシアの占領下にあるウクライナ南東部のザポリージャ原子力発電所は現在、２本の外部送電線のうち１本からのみ電力供給を受けていると、ロシア当局が１６日に明らかにした。 bit.ly/4rZlLRB <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5qhh2ihr25" target="_blank">japan.reuters.com</a> (2025-12-17 12:40:25)</span>
+<span style="padding-right:50px;">Vice President J.D. Vance praised White House Chief of Staff Susie Wiles after a Vanity Fair interview with Wiles revealed internal tensions in the Trump administration over issues from immigration enforcement to government downsizing. <a href="https://bsky.app/profile/reuters.com/post/3ma5s2xkqes2c" target="_blank">reuters.com</a> (2025-12-17 13:09:14)</span><span style="padding-right:50px;">ロシアが１６日に公表した長期的な財政見通しによると、２０４２年まで毎年赤字が続き、債務は６倍に増加して政府が安全と見なす水準を上回ると予測されている。 bit.ly/4s1OgOK <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5ryyznc227" target="_blank">japan.reuters.com</a> (2025-12-17 13:08:08)</span><span style="padding-right:50px;">米誌バニティ・フェアは１６日、ホワイトハウスのワイルズ首席補佐官のインタビュー記事を掲載した。ワイルズ氏は飲酒しないトランプ大統領について、「アルコール依存症のような性格」で、敵と見なす人物に対して復讐心を抱くと評した。 bit.ly/3YuyoGT <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5rtujjmc2q" target="_blank">japan.reuters.com</a> (2025-12-17 13:05:16)</span><span style="padding-right:50px;">教員免許状偽造の補助教員 初公判で起訴内容認める 福岡地裁 https://news.web.nhk/newsweb/na/na-k10015006351000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma5rpxk2z226" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-17 13:03:02)</span><span style="padding-right:50px;">＜１２：４０＞　新発10年債利回り1.975％、18年半ぶり高水準更新　弱いオペ結果で bit.ly/4oXTqZq <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5rozeruo2q" target="_blank">japan.reuters.com</a> (2025-12-17 13:02:33)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49551.28 (🔺138.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3323.00 (🔻23.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 154.90 (🔺0.15 : 2025-12-17)</span>
+<span style="padding-right:50px;">NIKKEI: 49465.61 (🔺52.42 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3323.00 (🔻23.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 154.94 (🔺0.19 : 2025-12-17)</span>
   </div>
 </div>
 
@@ -32,102 +32,100 @@
 
 ## News Headlines
 
-Here are six news headlines in English:
-
-1. Venezuela Sanctions: Trump Orders US Forces to Block Sanctioned Oil Tankers
-2. India's Economy to Grow at a Slower Pace, RBI Predicts Low Interest Rates for Longer
-3. EU Reverses Plan to Ban Gasoline Cars by 2035 Amid Pressure from Automakers
-4. Finnish President Calls for EU to Play Bigger Role in European Defense and Security
-5. Waymo in Talks to Raise Billions at Over $100 Billion Valuation
-6. China's Excess Capacity Export Adds to India's Disinflationary Impulse
+1. Trump Orders Blockade on Venezuelan Oil Tankers
+2. Russia's Debt to Surge to 6 Times Current Level by 2042
+3. White House Chief of Staff Susie Wiles Reveals Trump's Temperament
+4. New Evidence of Human Fire-Making Dates Back 400,000 Years
+5. MIT Professor Fatally Shot at His Home in Boston
+6. US Approves Swift, Teck Merger, Showing Shift in Canada's Business Policies
 
 ----
 
+@reuters.com
+
+Vice President J.D. Vance praised White House Chief of Staff Susie Wiles after a Vanity Fair interview with Wiles revealed internal tensions in the Trump administration over issues from immigration enforcement to government downsizing.
+
+[2025-12-17 13:09:14](https://bsky.app/profile/reuters.com/post/3ma5s2xkqes2c)
+
+---
+
+@japan.reuters.com
+
+ロシアが１６日に公表した長期的な財政見通しによると、２０４２年まで毎年赤字が続き、債務は６倍に増加して政府が安全と見なす水準を上回ると予測されている。 bit.ly/4s1OgOK
+
+[2025-12-17 13:08:08](https://bsky.app/profile/japan.reuters.com/post/3ma5ryyznc227)
+
+---
+
+@japan.reuters.com
+
+米誌バニティ・フェアは１６日、ホワイトハウスのワイルズ首席補佐官のインタビュー記事を掲載した。ワイルズ氏は飲酒しないトランプ大統領について、「アルコール依存症のような性格」で、敵と見なす人物に対して復讐心を抱くと評した。 bit.ly/3YuyoGT
+
+[2025-12-17 13:05:16](https://bsky.app/profile/japan.reuters.com/post/3ma5rtujjmc2q)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+教員免許状偽造の補助教員 初公判で起訴内容認める 福岡地裁
+https://news.web.nhk/newsweb/na/na-k10015006351000
+
+[2025-12-17 13:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma5rpxk2z226)
+
+---
+
+@japan.reuters.com
+
+＜１２：４０＞　新発10年債利回り1.975％、18年半ぶり高水準更新　弱いオペ結果で bit.ly/4oXTqZq
+
+[2025-12-17 13:02:33](https://bsky.app/profile/japan.reuters.com/post/3ma5rozeruo2q)
+
+---
+
 @sokuho.news
 
-🛎️FNNより【速報】です。
+🛎️NNNより【速報】です。
 
-【速報】タクシーが飲食店に突っ込み乗客ら2人けが タクシーと軽トラックの事故のはずみで 飲食店は閉店中 大阪・中央区
-(2025-12-17 12:35) #ニュース
+【速報】ことしは『古米奮闘（孤軍奮闘）』世相表す創作四字熟語の最優秀はコメ不足 万博や連立政権も「ミャク点満点」「公維継承」
+(2025-12-17 13:00) #ニュース
 
-[2025-12-17 12:46:02](https://bsky.app/profile/sokuho.news/post/3ma5qri5s652s)
-
----
-
-@japan.reuters.com
-
-トランプ米大統領は１６日、ベネズエラに出入港する全ての制裁対象の石油タンカーについて「封鎖」を命じると発表した。トランプ政権がベネズエラの主要な収入源を標的にする中、両国の緊張が急激に高まる見通しだ。 bit.ly/44vbqD3
-
-[2025-12-17 12:45:17](https://bsky.app/profile/japan.reuters.com/post/3ma5qq5ssts2q)
+[2025-12-17 13:01:09](https://bsky.app/profile/sokuho.news/post/3ma5rmjkjg72y)
 
 ---
 
-@japan.reuters.com
+@cnn.com
 
-オーストラリアの資源会社サウス３２は１６日、傘下のモザンビークのアルミニウム製錬企業モザール（年間精錬能力５６万トン）が製錬施設の保守のため来年３月半ばから操業を休止すると発表した。地元電力会社およびモザンビーク政府との協議で十分な電力を確保できなかったことを受けた措置。 bit.ly/3Y2NhA6
+A professor at the Massachusetts Institute of Technology was fatally shot at his home near Boston, and authorities said they had launched a homicide investigation. 
 
-[2025-12-17 12:44:37](https://bsky.app/profile/japan.reuters.com/post/3ma5qox2znk26)
-
----
-
-@japan.reuters.com
-
-２０カ国・地域（Ｇ２０）諸国の金融規制を調整する金融安定理事会（ＦＳＢ）が１６日発表した年次報告書によると、いわゆる「シャドーバンキング」とされる銀行以外の金融セクターが世界の資産に占める割合は２０２４年に５１％、金額で２５６兆８０００億ドルと従来型の銀行業界の２倍のペースで成長した。シャドーバンキングの世界資産に占める割合は過去２番目の高水準で、新型コロナウィルス大流行（パンデミック）発生前の水準に近くなった。 bit.ly/3L6KB1o
-
-[2025-12-17 12:41:05](https://bsky.app/profile/japan.reuters.com/post/3ma5qimovyn2q)
-
----
-
-@japan.reuters.com
-
-ロシアの占領下にあるウクライナ南東部のザポリージャ原子力発電所は現在、２本の外部送電線のうち１本からのみ電力供給を受けていると、ロシア当局が１６日に明らかにした。 bit.ly/4rZlLRB
-
-[2025-12-17 12:40:25](https://bsky.app/profile/japan.reuters.com/post/3ma5qhh2ihr25)
+[2025-12-17 13:01:02](https://bsky.app/profile/cnn.com/post/3ma5rmcfgpt2k)
 
 ---
 
 @reuters.com
 
-Waymo in talks to raise billions at over $100 billion valuation, the Information reports reut.rs/3MEiHdD
+New Zealand central bank lowers some capital requirements for banks reut.rs/44zt88p
 
-[2025-12-17 12:40:23](https://bsky.app/profile/reuters.com/post/3ma5qhf6xhz2x)
-
----
-
-@sokuho.news
-
-🛎️JNNより【独自】です。
-
-【独自】「全部裏金になっているのでは」全国214の政治団体で収支報告書「2年連続未提出」 JNNの調査で判明 怠った場合は事実上解散 自民・共産・立憲・維新・国民の地方議員が代表…
-(2025-12-17 11:59:00) #ニュース
-
-[2025-12-17 12:39:51](https://bsky.app/profile/sokuho.news/post/3ma5qggezpv2b)
+[2025-12-17 13:00:53](https://bsky.app/profile/reuters.com/post/3ma5rm24qst23)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@cnbc.com
 
-米ワイルズ首席補佐官 インタビュー記事波紋 ワイルズ氏は抗議
-https://news.web.nhk/newsweb/na/na-k10015006291000
+Happiness expert Sonja Lyubomirsky recommends telling kids to have more meaningful conversations with their friends.
 
-[2025-12-17 12:39:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma5qf6hjha2b)
+“The key to happiness is feeling loved and feeling connected to other people,” she says.
 
----
+Here are her tips for parents who want to raise happier children.
 
-@nhknewsunofficial.bsky.social
-
-「国宝」 米アカデミー賞2部門で候補絞り込んだリスト入り
-https://news.web.nhk/newsweb/na/na-k10015006241000
-
-[2025-12-17 12:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma5qezkjzy26)
+[2025-12-17 13:00:46](https://bsky.app/profile/cnbc.com/post/3ma5rltv6n724)
 
 ---
 
 @japan.reuters.com
 
-米アマゾンはオープンＡＩへの投資について協議している。オープンＡＩの企業価値を５０００億ドル以上と評価する可能性がある。 bit.ly/48HR3Fb
+１７日の東京市場で、東証プライム市場に新規上場したＳＢＩ新生銀行の初値は１５８６円となり、公開価格を９．３７％上回った。新規株式公開（ＩＰＯ）の公募・売出価格に基づく想定時価総額は約１兆２９８０億円で、今年最大規模となる。 bit.ly/4pIrQRa
 
-[2025-12-17 12:38:53](https://bsky.app/profile/japan.reuters.com/post/3ma5qeppbva27)
+[2025-12-17 13:00:44](https://bsky.app/profile/japan.reuters.com/post/3ma5rlragyi2s)
 
 ---
 
