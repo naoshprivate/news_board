@@ -1,9 +1,9 @@
-# [2025-12-17 19:30 updated](2025_12_17.md)
+# [2025-12-17 19:50 updated](2025_12_17.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🇺🇸 🇻🇪 US President Donald Trump has announced a blockade of "sanctioned oil vessels" heading to and leaving Venezuela, sharply escalating his pressure campaign against Caracas while issuing new demands for access to the country's crude ➡️ u.afp.com/S7y4 <a href="https://bsky.app/profile/en.afp.com/post/3ma6h6ivate26" target="_blank">en.afp.com</a> (2025-12-17 19:27:01)</span><span style="padding-right:50px;">Funeral takes place for rabbi killed in Bondi shooting <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma6h3edj7u2b" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-17 19:25:15)</span><span style="padding-right:50px;">川崎重工業の橋本康彦社長は１７日、政府が防衛費を一段と増やす姿勢を鮮明にする中、２０３０年度に最大７０００億円を見込んでいた防衛事業の売上高が上振れそうだと明らかにした。「高市（早苗）政権になってよりクリアになった」とし、検討している案件が受注に結びつく「予見性の確度がより高まっていくと考えている」と述べた。ロイターなどの取材に答えた。 bit.ly/4aPyqk4 <a href="https://bsky.app/profile/japan.reuters.com/post/3ma6h3dd6ck26" target="_blank">japan.reuters.com</a> (2025-12-17 19:25:15)</span><span style="padding-right:50px;">UK inflation unexpectedly tumbles, firming Bank of England rate cut bets reut.rs/4j0PXbd <a href="https://bsky.app/profile/reuters.com/post/3ma6h3cfxa52r" target="_blank">reuters.com</a> (2025-12-17 19:25:13)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】多重事故の原因…東進の車が対向車線に突っ込んだか？ 目撃情報やドライブレコーダーで警察の見立て 女性重体・幼児ら3人ケガ 京都の丸太町通り (2025-12-17 18:36:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma6gy4gtj52b" target="_blank">sokuho.news</a> (2025-12-17 19:23:27)</span>
+<span style="padding-right:50px;">米国株式市場で取引の平日２４時間化が間近に迫っているが、ニューヨークの金融街ウォール街は歓迎一色というわけではない。 bit.ly/4oZwF7o <a href="https://bsky.app/profile/japan.reuters.com/post/3ma6i77wfcc26" target="_blank">japan.reuters.com</a> (2025-12-17 19:45:19)</span><span style="padding-right:50px;">Japan's premier says country must pursue proactive spending for growth reut.rs/4oYefny <a href="https://bsky.app/profile/reuters.com/post/3ma6i75s5662k" target="_blank">reuters.com</a> (2025-12-17 19:45:17)</span><span style="padding-right:50px;">Crowds gathered to observe a moment of silence for the victims of the Bondi Beach shooting. <a href="https://bsky.app/profile/nbcnews.com/post/3ma6hwotaxn2k" target="_blank">nbcnews.com</a> (2025-12-17 19:40:33)</span><span style="padding-right:50px;">カナダのアナンド外相は１６日、北極圏におけるプレゼンス強化の一環として、グリーンランドとアラスカ州アンカレッジに新たな領事館を開設する計画だと明らかにした。 bit.ly/4s34DdN <a href="https://bsky.app/profile/japan.reuters.com/post/3ma6hwbgea32c" target="_blank">japan.reuters.com</a> (2025-12-17 19:40:19)</span><span style="padding-right:50px;">South Korea central bank sees upside inflation risk with a weaker won reut.rs/3MHqo2H <a href="https://bsky.app/profile/reuters.com/post/3ma6hw7jios2i" target="_blank">reuters.com</a> (2025-12-17 19:40:17)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.50 (🔺0.75 : 2025-12-17)</span>
+<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.44 (🔺0.69 : 2025-12-17)</span>
   </div>
 </div>
 
@@ -32,100 +32,95 @@
 
 ## News Headlines
 
-Here are the six selected news headlines:
-
-1. US Imposes Blockade on Sanctioned Oil Vessels Headed to Venezuela
-2. UK Inflation Unexpectedly Tumbles, Firming Bank of England Rate Cut Bets
-3. Blackstone Invests $400 Million in Data-Security Firm Cyera Valued at $9 Billion
-4. Poland's Offshore Wind Auction Seen as Key Test for Europe After Failed Tenders
-5. Japan's MUFG to Invest Over $4 Billion in India's Shriram Finance
-6. US National Security Strategy Designed to Help Europe, Not Criticize It, Says State Department Official
+1. US Stock Market on Brink of 24/7 Trading as Wall Street Prepares for Change
+2. Japan's Premier Calls for Proactive Spending to Boost Growth
+3. Canada to Establish New Diplomatic Posts in Greenland and Alaska
+4. South Korea Central Bank Warns of Upside Inflation Risk with Weaker Won
+5. Congress Fails to Address Expiring Subsidies for Affordable Care Act Plans
+6. Ford Motor Loses Billions on Electric Vehicle Business Amid Market Shifts
 
 ----
 
-@en.afp.com
-
-🇺🇸 🇻🇪 US President Donald Trump has announced a blockade of "sanctioned oil vessels" heading to and leaving Venezuela, sharply escalating his pressure campaign against Caracas while issuing new demands for access to the country's crude ➡️ u.afp.com/S7y4
-
-[2025-12-17 19:27:01](https://bsky.app/profile/en.afp.com/post/3ma6h6ivate26)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Funeral takes place for rabbi killed in Bondi shooting
-
-[2025-12-17 19:25:15](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma6h3edj7u2b)
-
----
-
 @japan.reuters.com
 
-川崎重工業の橋本康彦社長は１７日、政府が防衛費を一段と増やす姿勢を鮮明にする中、２０３０年度に最大７０００億円を見込んでいた防衛事業の売上高が上振れそうだと明らかにした。「高市（早苗）政権になってよりクリアになった」とし、検討している案件が受注に結びつく「予見性の確度がより高まっていくと考えている」と述べた。ロイターなどの取材に答えた。 bit.ly/4aPyqk4
+米国株式市場で取引の平日２４時間化が間近に迫っているが、ニューヨークの金融街ウォール街は歓迎一色というわけではない。 bit.ly/4oZwF7o
 
-[2025-12-17 19:25:15](https://bsky.app/profile/japan.reuters.com/post/3ma6h3dd6ck26)
+[2025-12-17 19:45:19](https://bsky.app/profile/japan.reuters.com/post/3ma6i77wfcc26)
 
 ---
 
 @reuters.com
 
-UK inflation unexpectedly tumbles, firming Bank of England rate cut bets reut.rs/4j0PXbd
+Japan's premier says country must pursue proactive spending for growth reut.rs/4oYefny
 
-[2025-12-17 19:25:13](https://bsky.app/profile/reuters.com/post/3ma6h3cfxa52r)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】多重事故の原因…東進の車が対向車線に突っ込んだか？ 目撃情報やドライブレコーダーで警察の見立て 女性重体・幼児ら3人ケガ 京都の丸太町通り
-(2025-12-17 18:36:00) #ニュース
-
-[2025-12-17 19:23:27](https://bsky.app/profile/sokuho.news/post/3ma6gy4gtj52b)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】豚舎の火災 子豚525匹が死んだと判明（山形）
-(2025-12-17 19:11:00) #ニュース
-
-[2025-12-17 19:21:15](https://bsky.app/profile/sokuho.news/post/3ma6gu6mbs22y)
-
----
-
-@japan.reuters.com
-
-米アマゾンはオープンＡＩへの投資について協議している。オープンＡＩの企業価値を５０００億ドル以上と評価する可能性がある。 bit.ly/3Y2b8jp
-
-[2025-12-17 19:20:24](https://bsky.app/profile/japan.reuters.com/post/3ma6gsolsvn2c)
+[2025-12-17 19:45:17](https://bsky.app/profile/reuters.com/post/3ma6i75s5662k)
 
 ---
 
 @nbcnews.com
 
-Australian authorities charge the surviving suspect in the Bondi Beach shooting with 59 offenses, including terrorism and 15 counts of murder.
+Crowds gathered to observe a moment of silence for the victims of the Bondi Beach shooting.
 
-[2025-12-17 19:20:08](https://bsky.app/profile/nbcnews.com/post/3ma6gs74syd2k)
-
----
-
-@wsj.com
-
-Exclusive: Blackstone is leading a $400 million investment in data-security firm Cyera that values the New York-based company at $9 billion.
-
-[2025-12-17 19:18:36](https://bsky.app/profile/wsj.com/post/3ma6gph7cz22q)
+[2025-12-17 19:40:33](https://bsky.app/profile/nbcnews.com/post/3ma6hwotaxn2k)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@japan.reuters.com
 
-Afrikaner refugees: Kenyans found illegally working at US asylum claim centre in South Africa
+カナダのアナンド外相は１６日、北極圏におけるプレゼンス強化の一環として、グリーンランドとアラスカ州アンカレッジに新たな領事館を開設する計画だと明らかにした。 bit.ly/4s34DdN
 
-[2025-12-17 19:18:24](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma6gp462zc2y)
+[2025-12-17 19:40:19](https://bsky.app/profile/japan.reuters.com/post/3ma6hwbgea32c)
+
+---
+
+@reuters.com
+
+South Korea central bank sees upside inflation risk with a weaker won reut.rs/3MHqo2H
+
+[2025-12-17 19:40:17](https://bsky.app/profile/reuters.com/post/3ma6hw7jios2i)
+
+---
+
+@npr.org
+
+Congress is poised to leave for a scheduled holiday recess without a solution for addressing the expiration of enhanced subsidies for Affordable Care Act marketplace plans. n.pr/4q9lB8z
+
+[2025-12-17 19:40:11](https://bsky.app/profile/npr.org/post/3ma6hw2npfg2d)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】普通貨物自動車が歩行中の女性をはね意識不明の重体 運転手を過失運転致傷容疑で現行犯逮捕
+(2025-12-17 19:36:00) #ニュース
+
+[2025-12-17 19:39:39](https://bsky.app/profile/sokuho.news/post/3ma6hv46all2b)
+
+---
+
+@yahoofinance.com
+
+America's biggest banks are ending 2025 on top with big growth goals and markets 'wide open'
+
+[2025-12-17 19:36:08](https://bsky.app/profile/yahoofinance.com/post/3ma6hoscz6c26)
+
+---
+
+@japan.reuters.com
+
+英政府は１６日、右派ポピュリスト政党「リフォームＵＫ」のウェールズ元代表が欧州議会でロシアの利益を促進する見返りに賄賂を受け取ったとして有罪判決を言い渡されたことを受け、政治への外国からの金銭的介入に関する調査を命じた。 bit.ly/48Fm5xu
+
+[2025-12-17 19:35:13](https://bsky.app/profile/japan.reuters.com/post/3ma6hn5kthy2q)
+
+---
+
+@reuters.com
+
+Ukraine drone debris sparks fire at Russia's Slavyansk refinery, authorities say reut.rs/4iY8TqO
+
+[2025-12-17 19:35:10](https://bsky.app/profile/reuters.com/post/3ma6hn3gtno2x)
 
 ---
 
