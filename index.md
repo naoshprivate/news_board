@@ -1,9 +1,9 @@
-# [2025-12-17 22:10 updated](2025_12_17.md)
+# [2025-12-17 22:30 updated](2025_12_17.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">東京株式市場で日経平均は３日ぶりに反発し、前営業日比１２８円９９銭高の４万９５１２円２８銭で取引を終えた。警戒されていた１１月の米雇用統計を通過し、安心感から買い戻しが優勢になった。人工知能（ＡＩ）を巡る好材料も追い風だった。買い一巡後はイベントを控え様子見ムードが広がり、日経平均は前日終値を挟んで方向感を欠く値動きとなった。 bit.ly/4qcaxHR <a href="https://bsky.app/profile/japan.reuters.com/post/3ma6pzhtmnn27" target="_blank">japan.reuters.com</a> (2025-12-17 22:05:16)</span><span style="padding-right:50px;">Ford cancels EV battery deal worth $6.5 billion with South Korea's LG Energy Solution reut.rs/4p2LQg2 <a href="https://bsky.app/profile/reuters.com/post/3ma6pzex3ch2o" target="_blank">reuters.com</a> (2025-12-17 22:05:13)</span><span style="padding-right:50px;">Bruce Campbell bought the 1,066-square-foot, 200-passenger Boeing 727 from a salvage company in 1999 for $100,000. <a href="https://bsky.app/profile/cnbc.com/post/3ma6pyfrlip2e" target="_blank">cnbc.com</a> (2025-12-17 22:04:40)</span><span style="padding-right:50px;">A decade ago, the self-proclaimed Islamic State group held vast swaths of territory across Iraq and Syria, but President Trump declared it destroyed in 2019. n.pr/4iZ674F <a href="https://bsky.app/profile/npr.org/post/3ma6pxqhf7224" target="_blank">npr.org</a> (2025-12-17 22:04:18)</span><span style="padding-right:50px;">LIVE: Nick Reiner in court for first appearance over parents' deaths youtube.com/live/LiQPmsr... <a href="https://bsky.app/profile/reuters.com/post/3ma6pwzn6ec2y" target="_blank">reuters.com</a> (2025-12-17 22:03:54)</span>
+<span style="padding-right:50px;">三井住友フィナンシャルグループの中島達社長は、今月１８─１９日に開かれる日銀の金融政策決定会合での利上げについて「上げるのではないかとは予想している」と述べた上で、０．２５％の追加利上げは市場ではほぼ織り込まれているとの見方を示した。むしろ注目すべきは今後の利上げペースや最終到達点（ターミナルレート）に関する日銀のメッセージだと指摘した。 bit.ly/4pJIL5O <a href="https://bsky.app/profile/japan.reuters.com/post/3ma6r5avyg72q" target="_blank">japan.reuters.com</a> (2025-12-17 22:25:17)</span><span style="padding-right:50px;">Honda recalls more than 70,000 US vehicles over reduced brake function, NHTSA says reut.rs/45eEgaZ <a href="https://bsky.app/profile/reuters.com/post/3ma6r54n22x2o" target="_blank">reuters.com</a> (2025-12-17 22:25:12)</span><span style="padding-right:50px;">Oil rebounds from lowest levels since 2021 after Trump orders Venezuela oil tanker blockade <a href="https://bsky.app/profile/cnbc.com/post/3ma6r3rqti625" target="_blank">cnbc.com</a> (2025-12-17 22:24:27)</span><span style="padding-right:50px;">Starmer tells Abramovich to 'pay up now' or face court <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma6qztuqh326" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-17 22:23:22)</span><span style="padding-right:50px;">Oracle’s $10bn Michigan data centre in limbo after Blue Owl funding talks stall ft.trib.al/0na8d89 <a href="https://bsky.app/profile/financialtimes.com/post/3ma6qwnlron2b" target="_blank">financialtimes.com</a> (2025-12-17 22:21:35)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.58 (🔺0.83 : 2025-12-17)</span>
+<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.55 (🔺0.80 : 2025-12-17)</span>
   </div>
 </div>
 
@@ -32,104 +32,95 @@
 
 ## News Headlines
 
-Here are six important stories with headlines:
-
-1. Tokyo Stock Market Bounces Back After Worrying on US Employment Data
-2. Ford Cancels $6.5 Billion EV Battery Deal with LG Energy Solution
-3. Louvre Museum Reopens Partially as Workers End Strike After Heist
-4. Warner Bros. Discovery Rejects Paramount's Hostile Takeover Bid
-5. Thai Central Bank Cuts Rates, Sees More Cuts Ahead After Downgrading GDP Outlook
-6. EnQuest Expects to Surpass 2025 Production Targets Despite Global Challenges
+1. Three Major Banks Predict Japan’s Central Bank to Hike Interest Rates
+2. Honda Recalls Over 70,000 US Vehicles Due to Reduced Brake Function
+3. Oil Prices Rebound from 2021 Lows as Trump Imposes Venezuela Oil Tanker Blockade
+4. Warner Bros. Discovery Rejects Paramount’s $10.8 Billion Hostile Takeover Bid
+5. EU Expands Carbon Border Adjustment Mechanism to Include Auto Parts and Appliances
+6. South Africa Arrests Kenyans Working on US Refugee Applications Amid Controversy
 
 ----
 
 @japan.reuters.com
 
-東京株式市場で日経平均は３日ぶりに反発し、前営業日比１２８円９９銭高の４万９５１２円２８銭で取引を終えた。警戒されていた１１月の米雇用統計を通過し、安心感から買い戻しが優勢になった。人工知能（ＡＩ）を巡る好材料も追い風だった。買い一巡後はイベントを控え様子見ムードが広がり、日経平均は前日終値を挟んで方向感を欠く値動きとなった。 bit.ly/4qcaxHR
+三井住友フィナンシャルグループの中島達社長は、今月１８─１９日に開かれる日銀の金融政策決定会合での利上げについて「上げるのではないかとは予想している」と述べた上で、０．２５％の追加利上げは市場ではほぼ織り込まれているとの見方を示した。むしろ注目すべきは今後の利上げペースや最終到達点（ターミナルレート）に関する日銀のメッセージだと指摘した。 bit.ly/4pJIL5O
 
-[2025-12-17 22:05:16](https://bsky.app/profile/japan.reuters.com/post/3ma6pzhtmnn27)
+[2025-12-17 22:25:17](https://bsky.app/profile/japan.reuters.com/post/3ma6r5avyg72q)
 
 ---
 
 @reuters.com
 
-Ford cancels EV battery deal worth $6.5 billion with South Korea's LG Energy Solution reut.rs/4p2LQg2
+Honda recalls more than 70,000 US vehicles over reduced brake function, NHTSA says reut.rs/45eEgaZ
 
-[2025-12-17 22:05:13](https://bsky.app/profile/reuters.com/post/3ma6pzex3ch2o)
+[2025-12-17 22:25:12](https://bsky.app/profile/reuters.com/post/3ma6r54n22x2o)
 
 ---
 
 @cnbc.com
 
-Bruce Campbell bought the 1,066-square-foot, 200-passenger Boeing 727 from a salvage company in 1999 for $100,000.
+Oil rebounds from lowest levels since 2021 after Trump orders Venezuela oil tanker blockade
 
-[2025-12-17 22:04:40](https://bsky.app/profile/cnbc.com/post/3ma6pyfrlip2e)
-
----
-
-@npr.org
-
-A decade ago, the self-proclaimed Islamic State group held vast swaths of territory across Iraq and Syria, but President Trump declared it destroyed in 2019. n.pr/4iZ674F
-
-[2025-12-17 22:04:18](https://bsky.app/profile/npr.org/post/3ma6pxqhf7224)
+[2025-12-17 22:24:27](https://bsky.app/profile/cnbc.com/post/3ma6r3rqti625)
 
 ---
 
-@reuters.com
+@bbcnews-world-rss.bsky.social
 
-LIVE: Nick Reiner in court for first appearance over parents' deaths youtube.com/live/LiQPmsr...
+Starmer tells Abramovich to 'pay up now' or face court
 
-[2025-12-17 22:03:54](https://bsky.app/profile/reuters.com/post/3ma6pwzn6ec2y)
-
----
-
-@cnn.com
-
-President Donald Trump promised voters in 2024 that if they returned him to the White House, his policies would deliver a blue-collar jobs boom.
-
-[2025-12-17 22:02:01](https://bsky.app/profile/cnn.com/post/3ma6ptodjjd2t)
+[2025-12-17 22:23:22](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma6qztuqh326)
 
 ---
 
-@nikkei.com
+@financialtimes.com
 
-【いぶりがっこをヨーロッパへ】
-秋田のスタートアップが奔走、メニューも進化
-www.nikkei.com/article/DGXZQO...
+Oracle’s $10bn Michigan data centre in limbo after Blue Owl funding talks stall ft.trib.al/0na8d89
 
-ロンドンで現地レストランの料理人を招いた試食会を開催。様々な調理法で新たなメニューを開発してもらう狙いです。
-
-燻製料理があるヨーロッパは、受け入れられる条件が整っているとにらんで販路を開拓します。
-
-ピザやカルパッチョに使う食材として、アフリカでいぶりがっこを売り込む企業もあります。
-
-[2025-12-17 22:01:16](https://bsky.app/profile/nikkei.com/post/3ma6pscoaig2x)
+[2025-12-17 22:21:35](https://bsky.app/profile/financialtimes.com/post/3ma6qwnlron2b)
 
 ---
 
-@reuters.com
+@japan.reuters.com
 
-European shares rise as banking, commodity stocks lead broader gains reut.rs/44zyMHL
+米メディア大手ワーナー・ブラザース・ディスカバリーの取締役会 は１７日、パラマウント・スカイダンスによる１０８４億ドルの敵対的買収案について、十分な資金調達が保証されていないとして拒否した。 bit.ly/3KNrnxR
 
-[2025-12-17 22:00:57](https://bsky.app/profile/reuters.com/post/3ma6prrfj5l2r)
-
----
-
-@apnews.com
-
-A judge says he's optimistic that a pretrial hearing in Luigi Mangione's New York murder case will end this week.
-
-[2025-12-17 22:00:26](https://bsky.app/profile/apnews.com/post/3ma6pqt3r322p)
+[2025-12-17 22:20:54](https://bsky.app/profile/japan.reuters.com/post/3ma6qvgeulk2c)
 
 ---
 
-@washingtonpost.com
+@japan.reuters.com
 
-The alleged gunman in the deadly attack in Bondi Beach was charged with a total of 59 offenses, including committing a terrorist act.
+欧州連合（ＥＵ）は欧州委員会が１７日に発表した草案に基づき、高排出の輸入品に課す炭素国境調整措置（ＣＢＡＭ）の対象を自動車部品や洗濯機に拡大する。また、現在試験段階にあり来年１月から徴収が開始される手数料について、外国企業による回避を可能にするのではないかと懸念される抜け穴を塞ぐ方針も示した。 bit.ly/4pLEChN
 
-His father was killed by police after the pair allegedly opened fire on a Hanukkah festival.
+[2025-12-17 22:20:31](https://bsky.app/profile/japan.reuters.com/post/3ma6quqrfn22c)
 
-[2025-12-17 22:00:23](https://bsky.app/profile/washingtonpost.com/post/3ma6pqqk63k24)
+---
+
+@forbes.com
+
+Apple Confirms iPhone Decision—You Must Upgrade iOS 18 To iOS 26.2 Now
+
+[2025-12-17 22:17:49](https://bsky.app/profile/forbes.com/post/3ma6qpvyozc2x)
+
+---
+
+@forbes.com
+
+Google Issues Free Gmail Upgrade Offer—Now It’s Decision Time
+
+It’s the latest upgrade to Gmail and related apps, including Calendar and Drive.
+www.forbes.com/sites/zakdof... (Photo: NurPhoto via Getty Images)
+
+[2025-12-17 22:16:42](https://bsky.app/profile/forbes.com/post/3ma6qnwbsus2x)
+
+---
+
+@financialtimes.com
+
+US prosecutors announce criminal charges against former Tricolor executives ft.trib.al/tFtNoZ1
+
+[2025-12-17 22:15:52](https://bsky.app/profile/financialtimes.com/post/3ma6qmgxzmr2k)
 
 ---
 
