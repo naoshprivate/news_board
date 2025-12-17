@@ -1,9 +1,9 @@
-# [2025-12-17 15:50 updated](2025_12_17.md)
+# [2025-12-17 16:10 updated](2025_12_17.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】ヤードで火事 タイヤとコンテナ燃える 一時激しく黒煙 (15:46) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma62vo4lsy25" target="_blank">sokuho.news</a> (2025-12-17 15:47:20)</span><span style="padding-right:50px;">Sydney mourners remember slain rabbi at Bondi Beach funeral reut.rs/48F9D0I <a href="https://bsky.app/profile/reuters.com/post/3ma62rtu6o62s" target="_blank">reuters.com</a> (2025-12-17 15:45:11)</span><span style="padding-right:50px;">＜１５：３３＞　大引けの日経平均は反発、米雇用統計通過で安心感　ＡＩ関連も物色 bit.ly/49h3RCE <a href="https://bsky.app/profile/japan.reuters.com/post/3ma62pxa2pc2s" target="_blank">japan.reuters.com</a> (2025-12-17 15:44:08)</span><span style="padding-right:50px;">中国不動産開発大手の万科企業は、２０億元（２億８３６０万ドル）規模の社債について、償還の猶予期間を現在の５営業日から３０営業日に延長することを求めている。中国銀行間市場交易商協会（ＮＡＦＭＩＩ）への１６日付の提出書類で明らかになった。 bit.ly/492m4CF <a href="https://bsky.app/profile/japan.reuters.com/post/3ma62iyslxi2p" target="_blank">japan.reuters.com</a> (2025-12-17 15:40:15)</span><span style="padding-right:50px;">MetaX shares rocket 700% in debut as China AI chips push gathers speed reut.rs/4oXBlKQ <a href="https://bsky.app/profile/reuters.com/post/3ma62ixwbsf2i" target="_blank">reuters.com</a> (2025-12-17 15:40:14)</span>
+<span style="padding-right:50px;">株価 小幅な値動き 18日からの日銀金融政策決定会合を控え https://news.web.nhk/newsweb/na/na-k10015006311000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma63x7eeb42b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-17 16:06:03)</span><span style="padding-right:50px;">Europe to vote on scheme to help abortion access reut.rs/48GGfHo <a href="https://bsky.app/profile/reuters.com/post/3ma63vkv7ho2o" target="_blank">reuters.com</a> (2025-12-17 16:05:10)</span><span style="padding-right:50px;">ブラジル中央銀行が９─１０日に開いた金融政策委員会（ＣＯＰＯＭ）で、雇用市場とサービスインフレの鈍化を指摘し、インフレを目標に確実に収束させるために金利を非常に長期間維持するのが適切であると現時点で結論づけたことが、１６日公表の議事要旨で分かった。 bit.ly/44Sw8Nx <a href="https://bsky.app/profile/japan.reuters.com/post/3ma63qpihep2q" target="_blank">japan.reuters.com</a> (2025-12-17 16:02:27)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】下水道工事現場で土砂に埋もれ男性作業員が意識不明 東京・福生市 (16:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma63qix42526" target="_blank">sokuho.news</a> (2025-12-17 16:02:20)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】三重・御浜町の住宅で火事 家は夫婦の2人暮らし 夫と連絡つかず（12月17日午後3時30分) (2025-12-17 16:01) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma63poijgn25" target="_blank">sokuho.news</a> (2025-12-17 16:01:52)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.37 (🔺0.62 : 2025-12-17)</span>
+<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.46 (🔺0.71 : 2025-12-17)</span>
   </div>
 </div>
 
@@ -32,107 +32,106 @@
 
 ## News Headlines
 
-Here are six important news stories with headlines in English:
-
-1. Bondi Beach Massacre Suspect Charged with 59 Offenses
-2. China's MetaX Shares Soar 700% in Debut on AI Chip Push
-3. Amazon in Talks to Invest $15 Billion in OpenAI
-4. Japan's Mizuho to Buy Majority of India's Avendus from KKR for $523 Million
-5. China's Newest Aircraft Carrier Sails Through Taiwan Strait, Taipei Says
-6. US Bank Increases Holdings of US Government Debt to Lock in Higher Yields
+1. Stocks experience small fluctuations ahead of Bank of Japan's monetary policy decision meeting
+2. Europe to vote on scheme to help abortion access
+3. Brazil's central bank decides to maintain interest rates for a long period to control inflation
+4. Man trapped in soil collapse at sewage construction site in Tokyo found unconscious
+5. Fire breaks out at home in Shiga Prefecture, couple's whereabouts unknown
+6. Japan's October machinery orders see a 7% increase, defying forecast of a 2.3% decrease
 
 ----
+
+@nhknewsunofficial.bsky.social
+
+株価 小幅な値動き 18日からの日銀金融政策決定会合を控え
+https://news.web.nhk/newsweb/na/na-k10015006311000
+
+[2025-12-17 16:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma63x7eeb42b)
+
+---
+
+@reuters.com
+
+Europe to vote on scheme to help abortion access reut.rs/48GGfHo
+
+[2025-12-17 16:05:10](https://bsky.app/profile/reuters.com/post/3ma63vkv7ho2o)
+
+---
+
+@japan.reuters.com
+
+ブラジル中央銀行が９─１０日に開いた金融政策委員会（ＣＯＰＯＭ）で、雇用市場とサービスインフレの鈍化を指摘し、インフレを目標に確実に収束させるために金利を非常に長期間維持するのが適切であると現時点で結論づけたことが、１６日公表の議事要旨で分かった。 bit.ly/44Sw8Nx
+
+[2025-12-17 16:02:27](https://bsky.app/profile/japan.reuters.com/post/3ma63qpihep2q)
+
+---
 
 @sokuho.news
 
 🔔ANNより【速報】です。
 
-【速報】ヤードで火事 タイヤとコンテナ燃える 一時激しく黒煙
-(15:46) #ニュース
+【速報】下水道工事現場で土砂に埋もれ男性作業員が意識不明 東京・福生市
+(16:00) #ニュース
 
-[2025-12-17 15:47:20](https://bsky.app/profile/sokuho.news/post/3ma62vo4lsy25)
-
----
-
-@reuters.com
-
-Sydney mourners remember slain rabbi at Bondi Beach funeral reut.rs/48F9D0I
-
-[2025-12-17 15:45:11](https://bsky.app/profile/reuters.com/post/3ma62rtu6o62s)
+[2025-12-17 16:02:20](https://bsky.app/profile/sokuho.news/post/3ma63qix42526)
 
 ---
 
-@japan.reuters.com
+@sokuho.news
 
-＜１５：３３＞　大引けの日経平均は反発、米雇用統計通過で安心感　ＡＩ関連も物色 bit.ly/49h3RCE
+🛎️NNNより【速報】です。
 
-[2025-12-17 15:44:08](https://bsky.app/profile/japan.reuters.com/post/3ma62pxa2pc2s)
+【速報】三重・御浜町の住宅で火事 家は夫婦の2人暮らし 夫と連絡つかず（12月17日午後3時30分)
+(2025-12-17 16:01) #ニュース
 
----
-
-@japan.reuters.com
-
-中国不動産開発大手の万科企業は、２０億元（２億８３６０万ドル）規模の社債について、償還の猶予期間を現在の５営業日から３０営業日に延長することを求めている。中国銀行間市場交易商協会（ＮＡＦＭＩＩ）への１６日付の提出書類で明らかになった。 bit.ly/492m4CF
-
-[2025-12-17 15:40:15](https://bsky.app/profile/japan.reuters.com/post/3ma62iyslxi2p)
+[2025-12-17 16:01:52](https://bsky.app/profile/sokuho.news/post/3ma63poijgn25)
 
 ---
 
-@reuters.com
+@sokuho.news
 
-MetaX shares rocket 700% in debut as China AI chips push gathers speed reut.rs/4oXBlKQ
+🛎️文春より【スクープ】です。
 
-[2025-12-17 15:40:14](https://bsky.app/profile/reuters.com/post/3ma62ixwbsf2i)
+「カッカせずに大人に」“経済損失1.8兆円”とも…冷え込む日中関係の現状を“財界の重鎮”が語った
+(2025-12-17 16:00) #ニュース
 
----
-
-@japan.reuters.com
-
-米国株式市場で取引の平日２４時間化が間近に迫っているが、ニューヨークの金融街ウォール街は歓迎一色というわけではない。 bit.ly/4s2cgkQ
-
-[2025-12-17 15:36:20](https://bsky.app/profile/japan.reuters.com/post/3ma62bzfevf2c)
-
----
-
-@reuters.com
-
-Apple in talks with Indian chipmakers to assemble, package iPhone components, ET reports reut.rs/4qdW4v9
-
-[2025-12-17 15:35:11](https://bsky.app/profile/reuters.com/post/3ma627xisqq2b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-アスベスト労災認定 昨年度は1211人 14年連続で1000人超
-https://news.web.nhk/newsweb/na/na-k10015006601000
-
-[2025-12-17 15:33:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma6245lcys2u)
-
----
-
-@japan.reuters.com
-
-午後３時のドル／円は、前日ニューヨーク市場の終盤から小幅高の１５５円前半で取引されている。前日の米雇用統計を経て、米景気に対する悲観的な見方がやや後退したとして、ドルが底堅い動きとなった。 bit.ly/3KYEigh
-
-[2025-12-17 15:32:58](https://bsky.app/profile/japan.reuters.com/post/3ma623ynwbj2c)
+[2025-12-17 16:01:19](https://bsky.app/profile/sokuho.news/post/3ma63ooovqq2z)
 
 ---
 
 @nikkei.com
 
-永久凍土から約2万年前のサイの角、1.6メートル超は史上最長
+備蓄米放出で「古米奮闘」　住友生命、25年の創作四字熟語（無料記事）
 www.nikkei.com/article/DGXZQO...
 
-地球上で最も寒い定住地として知られるロシア、サハ共和国の奥地。
+[2025-12-17 16:01:15](https://bsky.app/profile/nikkei.com/post/3ma63okox6v2i)
 
-地元ハンターで化石収集家のロマン・ロマノフ氏が解けた永久凍土から発見。1万9700年前のケブカサイと特定されました。
+---
 
-現生種と同様にケブカサイも角を武器に使っていたと考えられます。
+@sokuho.news
 
-ぶつかり合う壮大な姿は、フランスのショーベ洞窟にある3万年前の壁画の中に永遠にとどめられています。
+🛎️文春より【スクープ】です。
 
-[2025-12-17 15:31:16](https://bsky.app/profile/nikkei.com/post/3ma5zyx7srl2m)
+「400万を渡すようタカってきた」川合俊一・日本バレーボール協会会長を公式代理店の担当者が告発！ 「特別背任罪に問われる可能性も」本人を直撃した
+(2025-12-17 16:00) #ニュース
+
+[2025-12-17 16:01:00](https://bsky.app/profile/sokuho.news/post/3ma63o4lp6g2b)
+
+---
+
+@reuters.com
+
+Blackstone leads investment in data-security firm Cyera at $9 billion valuation, WSJ reports reut.rs/3XWePXZ
+
+[2025-12-17 16:00:45](https://bsky.app/profile/reuters.com/post/3ma63noao5d2p)
+
+---
+
+@japan.reuters.com
+
+内閣府が１７日に発表した１０月機械受注統計によると、設備投資の先行指標である船舶・電力を除いた民需の受注額（季節調整値）は、前月比７．０％増の９９２９億円となり、２カ月連続で増えた。ロイターがまとめた事前予測は２．３％減で、予想に反し増加した。 bit.ly/4oUHacd
+
+[2025-12-17 16:00:42](https://bsky.app/profile/japan.reuters.com/post/3ma63nkxcqv2c)
 
 ---
 
