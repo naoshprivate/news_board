@@ -1,9 +1,9 @@
-# [2025-12-18 01:50 updated](2025_12_18.md)
+# [2025-12-18 02:10 updated](2025_12_18.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Breaking news: An appeals court signaled that it may find the National Guard deployment in D.C. to be lawful, disagreeing with a lower-court judge’s opinion and issuing an order that will allow troops to stay in the city while litigation continues. <a href="https://bsky.app/profile/washingtonpost.com/post/3ma74jtynrv23" target="_blank">washingtonpost.com</a> (2025-12-18 01:49:10)</span><span style="padding-right:50px;">A federal appeals court on Wednesday allowed President Trump to continue deploying National Guard units on the streets of Washington, D.C., at least temporarily. <a href="https://bsky.app/profile/wsj.com/post/3ma74jfke6k2q" target="_blank">wsj.com</a> (2025-12-18 01:48:55)</span><span style="padding-right:50px;">WTO chair rules out reform deal at next major meeting, document shows reut.rs/4pF8HPR <a href="https://bsky.app/profile/reuters.com/post/3ma74cuiscw2b" target="_blank">reuters.com</a> (2025-12-18 01:45:16)</span><span style="padding-right:50px;">Stocks making the biggest moves midday: Oracle, Jabil, Paramount, Texas Pacific & more <a href="https://bsky.app/profile/cnbc.com/post/3ma746waal72m" target="_blank">cnbc.com</a> (2025-12-18 01:43:04)</span><span style="padding-right:50px;">Breaking News: An appeals court allowed National Guard troops to remain in Washington, D.C., for now. <a href="https://bsky.app/profile/nytimes.com/post/3ma746phtpv2s" target="_blank">nytimes.com</a> (2025-12-18 01:42:56)</span>
+<span style="padding-right:50px;">From pulpit to turntables: Portugal's 'DJ Priest' brings his message to Latin America reut.rs/3MJJDbW <a href="https://bsky.app/profile/reuters.com/post/3ma75gkp4n22o" target="_blank">reuters.com</a> (2025-12-18 02:05:14)</span><span style="padding-right:50px;"> Open source could pop the AI bubble — and soon ft.trib.al/DUmq3FQ  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3ma75gjokom23" target="_blank">financialtimes.com</a> (2025-12-18 02:05:13)</span><span style="padding-right:50px;">After buying a ‘plain vanilla’ box, a Chicago trio brought in an interior designer who blended their aesthetics and added elements like a moody den for socializing and a three-person bed. on.wsj.com/44uFnmL <a href="https://bsky.app/profile/wsj.com/post/3ma75ctb5pv2r" target="_blank">wsj.com</a> (2025-12-18 02:03:08)</span><span style="padding-right:50px;">UK police plan tougher action against antisemitic chants and protests reut.rs/4j6dNCm <a href="https://bsky.app/profile/reuters.com/post/3ma757yevfo2x" target="_blank">reuters.com</a> (2025-12-18 02:01:33)</span><span style="padding-right:50px;">Ana Homayoun, an academic advisor who has helped students get into Ivy League schools, says she has seen what separates those who struggle from those who thrive.  It’s not an IQ score, GPA, or even college acceptances to prestigious universities.  <a href="https://bsky.app/profile/cnbc.com/post/3ma757lars225" target="_blank">cnbc.com</a> (2025-12-18 02:01:19)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48018.90 (🔻109.15 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22827.28 (🔻308.33 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.67 (🔻5.43 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.55 (🔺0.80 : 2025-12-17)</span>
+<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 47974.41 (🔻153.64 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22807.46 (🔻328.15 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.54 (🔻5.56 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.58 (🔺0.83 : 2025-12-17)</span>
   </div>
 </div>
 
@@ -32,94 +32,98 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are six important stories with headlines:
 
-1. Appeals Court Allows National Guard to Remain in D.C.
-2. Fed's Waller Favors More Rate Cuts Next Year
-3. Moderate House Republicans Join Democrats to Force Vote on ACA Subsidies
-4. Russian President Putin Warns of Ukraine Consequences
-5. EU Parliament Approves Phase Out of Russian Gas Imports
-6. Michael and Susan Dell Pledge $6.25 Billion for Children's Education
+1. US Capitol Displays Statue of Teenage Protester Barbara Rose Johns to Replace Confederate General Robert E. Lee
+2. Waymo to Raise Over $15 Billion in New Funding Round, Valuing Company at Up to $110 Billion
+3. US Plans to Dismantle National Center for Atmospheric Research, a Key Climate Science Agency
+4. Appeals Court Allows National Guard Troops to Remain in Washington, D.C. for Now
+5. Moderate House Republicans Join Democrats to Force Vote on ACA Subsidies, Expiring in December
+6. US Teachers Fear Leaving Classrooms Amid Trump's Deportation Push
 
 ----
 
-@washingtonpost.com
-
-<strong><span style="color: red;">Breaking news:</span> An appeals court signaled that it may find the National Guard deployment in D.C. to be lawful, disagreeing with a lower-court judge’s opinion and issuing an order that will allow troops to stay in the city while litigation continues.</strong>
-
-[2025-12-18 01:49:10](https://bsky.app/profile/washingtonpost.com/post/3ma74jtynrv23)
-
----
-
-@wsj.com
-
-A federal appeals court on Wednesday allowed President Trump to continue deploying National Guard units on the streets of Washington, D.C., at least temporarily.
-
-[2025-12-18 01:48:55](https://bsky.app/profile/wsj.com/post/3ma74jfke6k2q)
-
----
-
 @reuters.com
 
-WTO chair rules out reform deal at next major meeting, document shows reut.rs/4pF8HPR
+From pulpit to turntables: Portugal's 'DJ Priest' brings his message to Latin America reut.rs/3MJJDbW
 
-[2025-12-18 01:45:16](https://bsky.app/profile/reuters.com/post/3ma74cuiscw2b)
-
----
-
-@cnbc.com
-
-Stocks making the biggest moves midday: Oracle, Jabil, Paramount, Texas Pacific & more
-
-[2025-12-18 01:43:04](https://bsky.app/profile/cnbc.com/post/3ma746waal72m)
-
----
-
-@nytimes.com
-
-<strong><span style="color: red;">Breaking News</span>: An appeals court allowed National Guard troops to remain in Washington, D.C., for now.</strong>
-
-[2025-12-18 01:42:56](https://bsky.app/profile/nytimes.com/post/3ma746phtpv2s)
-
----
-
-@reuters.com
-
-UK stocks rebound on banking gains ahead of BoE rate cut call reut.rs/4qcxVVw
-
-[2025-12-18 01:40:19](https://bsky.app/profile/reuters.com/post/3ma73zzcm2c2o)
-
----
-
-@nbcnews.com
-
-The Trump administration plans to break up Colorado’s National Center for Atmospheric Research, the largest federal climate research lab.
-
-[2025-12-18 01:40:09](https://bsky.app/profile/nbcnews.com/post/3ma73zqfqfl2r)
+[2025-12-18 02:05:14](https://bsky.app/profile/reuters.com/post/3ma75gkp4n22o)
 
 ---
 
 @financialtimes.com
 
-Fed governor Waller says rates could be cut by as much as a full point ft.trib.al/yiSe3of
+ Open source could pop the AI bubble — and soon ft.trib.al/DUmq3FQ  | opinion
 
-[2025-12-18 01:38:19](https://bsky.app/profile/financialtimes.com/post/3ma73whc3zt2o)
+[2025-12-18 02:05:13](https://bsky.app/profile/financialtimes.com/post/3ma75gjokom23)
 
 ---
 
-@yahoofinance.com
+@wsj.com
 
-Fed's Waller favors more rate cuts next year
+After buying a ‘plain vanilla’ box, a Chicago trio brought in an interior designer who blended their aesthetics and added elements like a moody den for socializing and a three-person bed. on.wsj.com/44uFnmL
 
-[2025-12-18 01:36:21](https://bsky.app/profile/yahoofinance.com/post/3ma73svtexp2f)
+[2025-12-18 02:03:08](https://bsky.app/profile/wsj.com/post/3ma75ctb5pv2r)
 
 ---
 
 @reuters.com
 
-Alcaraz splits with coach Ferrero after seven years together reut.rs/3L7WZOL
+UK police plan tougher action against antisemitic chants and protests reut.rs/4j6dNCm
 
-[2025-12-18 01:35:15](https://bsky.app/profile/reuters.com/post/3ma73qxwsyo2r)
+[2025-12-18 02:01:33](https://bsky.app/profile/reuters.com/post/3ma757yevfo2x)
+
+---
+
+@cnbc.com
+
+Ana Homayoun, an academic advisor who has helped students get into Ivy League schools, says she has seen what separates those who struggle from those who thrive.
+
+It’s not an IQ score, GPA, or even college acceptances to prestigious universities. 
+
+[2025-12-18 02:01:19](https://bsky.app/profile/cnbc.com/post/3ma757lars225)
+
+---
+
+@apnews.com
+
+A new AP-NORC poll finds that most U.S. adults are on board with giving cash or gift cards as holiday presents.
+
+[2025-12-18 02:01:12](https://bsky.app/profile/apnews.com/post/3ma757efuv222)
+
+---
+
+@cnn.com
+
+The public display of loyalty from Trump and his inner circle — in part, a coordinated counterattack meant to limit the fallout, one aide said — stood in sharp contrast to the internal feuds, staff turnover and public infighting that defined much of the president's first term. https://cnn.it/48WSdeV
+
+[2025-12-18 02:01:09](https://bsky.app/profile/cnn.com/post/3ma757b7fb425)
+
+---
+
+@usatoday.com
+
+In an Instagram post, Mick Foley cited Trump's "incredibly cruel comments" following Rob Reiner's death as the "final straw" in his WWE association.
+
+[2025-12-18 02:00:58](https://bsky.app/profile/usatoday.com/post/3ma756x2lad2o)
+
+---
+
+@en.afp.com
+
+VIDEO: 🇺🇸 Rob Reiner’s son charged with parents' murder
+
+The son of famed Hollywood director Rob Reiner has been charged with two counts of first-degree murder over the slaying of his parents. Nick Reiner could face life in prison without the possibility of parole or the death penalty if convicted
+
+[2025-12-18 02:00:56](https://bsky.app/profile/en.afp.com/post/3ma756uktl62f)
+
+---
+
+@bloomberg.com
+
+The US plans to dismantle the National Center for Atmospheric Research, a key climate-science agency that the Trump administration is calling a source of environmental activism.
+
+[2025-12-18 02:00:29](https://bsky.app/profile/bloomberg.com/post/3ma7563jrfj2g)
 
 ---
 
