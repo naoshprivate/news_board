@@ -1,9 +1,9 @@
-# [2025-12-17 21:30 updated](2025_12_17.md)
+# [2025-12-17 21:50 updated](2025_12_17.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">BREAKING: Warner Bros asks shareholders to reject takeover bid from Paramount, saying merger with Netflix is better for customers. <a href="https://bsky.app/profile/apnews.com/post/3ma6nvkxqas2p" target="_blank">apnews.com</a> (2025-12-17 21:27:17)</span><span style="padding-right:50px;">津波からの避難 北海道6自治体 新たなルール作りなど検討 https://news.web.nhk/newsweb/na/na-k10015006451000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma6nv6n5em2y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-17 21:27:02)</span><span style="padding-right:50px;">🇦🇺 🏴󠁧󠁢󠁥󠁮󠁧󠁿 An emotional Alex Carey slammed a controversial 106 on his home ground and Usman Khawaja hit a defiant 82 on Wednesday to put Australia in the driving seat of the third Ashes Test against England in Adelaide ➡️ u.afp.com/S7FA <a href="https://bsky.app/profile/en.afp.com/post/3ma6ntvnsgi2y" target="_blank">en.afp.com</a> (2025-12-17 21:26:22)</span><span style="padding-right:50px;">タイ中央銀行は１７日、主要金利の翌日物レポ金利を予想通り２５ベーシスポイント（ｂｐ）引き下げ、１．２５％とした。政治の不透明感、タイバーツ高、米国の関税といった課題に直面する中、減速する景気を下支えする狙いだ。 bit.ly/44y77qz <a href="https://bsky.app/profile/japan.reuters.com/post/3ma6nrzj5jw2q" target="_blank">japan.reuters.com</a> (2025-12-17 21:25:18)</span><span style="padding-right:50px;">Serco sees profit ahead of market view through 2026; CFO to retire next year reut.rs/4aVAFlV <a href="https://bsky.app/profile/reuters.com/post/3ma6nrtbkc42c" target="_blank">reuters.com</a> (2025-12-17 21:25:12)</span>
+<span style="padding-right:50px;">The company's board said in a Wednesday statement that it determined that the Paramount offer "is not in the best interests of WBD and its shareholders." <a href="https://bsky.app/profile/nbcnews.com/post/3ma6oxbt3d72p" target="_blank">nbcnews.com</a> (2025-12-17 21:46:09)</span><span style="padding-right:50px;">オークマは１７日、株式の売り出し価格を１株３３６５円に決定したと発表した。１７日の終値３４７０円を３．０３％下回る。需要に応じて追加で売り出すオーバーアロット分を含め、総額１６８億円。三井住友信託銀行や三菱ＵＦＪ銀行、福岡銀行、三井住友銀行など銀行１０行と三菱ＨＣキャピタルが売却する。 bit.ly/4j5rEJ8 <a href="https://bsky.app/profile/japan.reuters.com/post/3ma6ovpn5hh2c" target="_blank">japan.reuters.com</a> (2025-12-17 21:45:16)</span><span style="padding-right:50px;">Top 25 roundup: No. 20 Tennessee beats No. 11 Louisville to snap skid reut.rs/48Zv37A <a href="https://bsky.app/profile/reuters.com/post/3ma6ovpn2i523" target="_blank">reuters.com</a> (2025-12-17 21:45:16)</span><span style="padding-right:50px;">WBD tells shareholders Netflix deal is superior to Paramount offer: 'It was not a hard choice,' chairman tells CNBC <a href="https://bsky.app/profile/cnbc.com/post/3ma6oucio2f25" target="_blank">cnbc.com</a> (2025-12-17 21:44:29)</span><span style="padding-right:50px;">LIVE: UK rejoins EU's Erasmus student exchange scheme youtube.com/live/sKf-raJ... <a href="https://bsky.app/profile/reuters.com/post/3ma6ottlq2c2y" target="_blank">reuters.com</a> (2025-12-17 21:44:13)</span>
   </div>
 </div>
 
@@ -32,97 +32,95 @@
 
 ## News Headlines
 
-Here are six important news stories with headlines in English:
+Here are six important stories with headlines in English:
 
-1. Warner Bros Urges Shareholders to Reject Paramount's $108 Billion Bid
-2. Australia's Bondi Beach Shooting Victims Were Let Down by Government, Says Rabbi
-3. Bank of Korea Warns of Higher Inflation Next Year Despite Stable Won-Dollar Rate
-4. Mortgage Rates Rise, Causing Loan Demand to Drop After Fed Rate Cut
-5. FIFA Overturns Three Malaysia Matches Amid Player Eligibility Scandal
-6. UK Consumer Price Index Falls to 3.2% in November, Lowest Level Since March
+1. BREAKING: Warner Bros asks shareholders to reject takeover bid from Paramount
+2. Thai central bank cuts rates, open to more cuts after trimming 2026 GDP outlook
+3. BREAKING: UK rejoins EU's Erasmus student exchange scheme
+4. Australia's Bondi Beach shooting: 15 killed, government criticized for failure to prevent attack
+5. South Korea's central bank expects inflation to exceed forecast next year
+6. US stocks making big moves premarket: Netflix, Amazon, Lennar, General Mills & more
 
 ----
 
-@apnews.com
+@nbcnews.com
 
-<strong><span style="color: red;">BREAKING:</span> Warner Bros asks shareholders to reject takeover bid from Paramount, saying merger with Netflix is better for customers.</strong>
+The company's board said in a Wednesday statement that it determined that the Paramount offer "is not in the best interests of WBD and its shareholders."
 
-[2025-12-17 21:27:17](https://bsky.app/profile/apnews.com/post/3ma6nvkxqas2p)
-
----
-
-@nhknewsunofficial.bsky.social
-
-津波からの避難 北海道6自治体 新たなルール作りなど検討
-https://news.web.nhk/newsweb/na/na-k10015006451000
-
-[2025-12-17 21:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma6nv6n5em2y)
-
----
-
-@en.afp.com
-
-🇦🇺 🏴󠁧󠁢󠁥󠁮󠁧󠁿 An emotional Alex Carey slammed a controversial 106 on his home ground and Usman Khawaja hit a defiant 82 on Wednesday to put Australia in the driving seat of the third Ashes Test against England in Adelaide ➡️ u.afp.com/S7FA
-
-[2025-12-17 21:26:22](https://bsky.app/profile/en.afp.com/post/3ma6ntvnsgi2y)
+[2025-12-17 21:46:09](https://bsky.app/profile/nbcnews.com/post/3ma6oxbt3d72p)
 
 ---
 
 @japan.reuters.com
 
-タイ中央銀行は１７日、主要金利の翌日物レポ金利を予想通り２５ベーシスポイント（ｂｐ）引き下げ、１．２５％とした。政治の不透明感、タイバーツ高、米国の関税といった課題に直面する中、減速する景気を下支えする狙いだ。 bit.ly/44y77qz
+オークマは１７日、株式の売り出し価格を１株３３６５円に決定したと発表した。１７日の終値３４７０円を３．０３％下回る。需要に応じて追加で売り出すオーバーアロット分を含め、総額１６８億円。三井住友信託銀行や三菱ＵＦＪ銀行、福岡銀行、三井住友銀行など銀行１０行と三菱ＨＣキャピタルが売却する。 bit.ly/4j5rEJ8
 
-[2025-12-17 21:25:18](https://bsky.app/profile/japan.reuters.com/post/3ma6nrzj5jw2q)
+[2025-12-17 21:45:16](https://bsky.app/profile/japan.reuters.com/post/3ma6ovpn5hh2c)
 
 ---
 
 @reuters.com
 
-Serco sees profit ahead of market view through 2026; CFO to retire next year reut.rs/4aVAFlV
+Top 25 roundup: No. 20 Tennessee beats No. 11 Louisville to snap skid reut.rs/48Zv37A
 
-[2025-12-17 21:25:12](https://bsky.app/profile/reuters.com/post/3ma6nrtbkc42c)
+[2025-12-17 21:45:16](https://bsky.app/profile/reuters.com/post/3ma6ovpn2i523)
 
 ---
 
-@nytimes.com
+@cnbc.com
 
-In Opinion
+WBD tells shareholders Netflix deal is superior to Paramount offer: 'It was not a hard choice,' chairman tells CNBC
 
-The 15 people killed in Australia’s Bondi Beach shooting “were all let down by a government whose role it is to do the things individuals cannot do for themselves: chiefly, keep our nation safe from terrorism and mass shootings,” writes Alex Ryvchin, whose rabbi was one of the victims.
+[2025-12-17 21:44:29](https://bsky.app/profile/cnbc.com/post/3ma6oucio2f25)
 
-[2025-12-17 21:25:03](https://bsky.app/profile/nytimes.com/post/3ma6nrkoju427)
+---
+
+@reuters.com
+
+LIVE: UK rejoins EU's Erasmus student exchange scheme youtube.com/live/sKf-raJ...
+
+[2025-12-17 21:44:13](https://bsky.app/profile/reuters.com/post/3ma6ottlq2c2y)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+自民と維新「OTC類似薬」患者の自己負担上乗せで折り合わず
+https://news.web.nhk/newsweb/na/na-k10015006911000
+
+[2025-12-17 21:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma6opyeli72x)
+
+---
+
+@reuters.com
+
+Thai central bank cuts rates, open to more cuts after trimming 2026 GDP outlook reut.rs/48HZXT5
+
+[2025-12-17 21:40:26](https://bsky.app/profile/reuters.com/post/3ma6on3blse2y)
 
 ---
 
 @japan.reuters.com
 
-香港の投資ファンド、オアシス・マネジメントがフェローテック の株式８．５０％を保有していることが分かった。オアシスが１７日、大量保有報告書を関東財務局に届け出た。報告義務発生日は１０日。保有目的は「ポートフォリオ投資および重要提案行為」としている。 bit.ly/3MHEQHZ
+アサヒグループホールディングスは１７日、 英酒造大手ディアジオの東アフリカ事業を取得すると発表した。取得額は計約４６５４億円。これにより、ケニア、ウガンダ、タンザニアのビールやスピリッツ事業を統括する現地企業「イースト・アフリカン・ブルワリーズ」（ＥＡＢＬ）の株式６５％を間接的に取得する。 bit.ly/3N4oLMx
 
-[2025-12-17 21:20:23](https://bsky.app/profile/japan.reuters.com/post/3ma6nj7dfui2q)
+[2025-12-17 21:40:19](https://bsky.app/profile/japan.reuters.com/post/3ma6omuj2k62p)
 
 ---
 
 @nbcnews.com
 
-Instead of recommending the hepatitis B vaccine for all newborns, the CDC now officially advises women who test negative for the virus to consult health care providers about whether their babies should get their first doses within 24 hours of birth.
+Rhode Island officials release new images and video of a person of interest as the search continues for the shooter who killed two Brown University students and injured nine others Saturday.
 
-[2025-12-17 21:20:09](https://bsky.app/profile/nbcnews.com/post/3ma6nirvo3w2u)
-
----
-
-@cnbc.com
-
-Apple punted on AI this year. Next year will be critical
-
-[2025-12-17 21:18:17](https://bsky.app/profile/cnbc.com/post/3ma6nfhu7y62e)
+[2025-12-17 21:40:17](https://bsky.app/profile/nbcnews.com/post/3ma6omsioza23)
 
 ---
 
-@cnbc.com
+@japan.reuters.com
 
-Why this billionaire real estate developer is waving a red flag over data centers
+米地区連邦準備銀行の四半期調査によると、企業の財務責任者は引き続き関税を最大の懸念事項として挙げており、来年は平均して物価が４．２％上昇すると見込んでいる。近いうちに２％のインフレ目標を達成できないのではないかという連邦準備理事会（ＦＲＢ）の懸念を一層強める可能性がある。 bit.ly/49hDexq
 
-[2025-12-17 21:17:11](https://bsky.app/profile/cnbc.com/post/3ma6ndinlxr25)
+[2025-12-17 21:38:52](https://bsky.app/profile/japan.reuters.com/post/3ma6okbocfs2q)
 
 ---
 
