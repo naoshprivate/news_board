@@ -1,9 +1,9 @@
-# [2025-12-17 20:30 updated](2025_12_17.md)
+# [2025-12-17 20:50 updated](2025_12_17.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">三井住友フィナンシャルグループの中島達社長は、今月１８─１９日に開かれる日銀の金融政策決定会合での利上げについて「上げるのではないかとは予想している」と述べた上で、０．２５％の追加利上げは市場ではほぼ織り込まれているとの見方を示した。むしろ注目すべきは今後の利上げペースや最終到達点（ターミナルレート）に関する日銀のメッセージだと指摘した。 bit.ly/49dRJ5k <a href="https://bsky.app/profile/japan.reuters.com/post/3ma6k5yoduq2s" target="_blank">japan.reuters.com</a> (2025-12-17 20:20:25)</span><span style="padding-right:50px;">Bondi Beach attack: Ten-year-old victim's mum speaks at vigil <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma6k5kk6bz2x" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-17 20:20:10)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】万博会場のパビリオン解体工事で事故 30代の男性作業員が右足骨折などの重傷 大阪 (2025-12-17 20:17) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma6jyx43bn2e" target="_blank">sokuho.news</a> (2025-12-17 20:17:36)</span><span style="padding-right:50px;">Over the past three years, arrivals of asylum seekers in Britain have reached record levels, including 110,000 in the year to September, mostly Pakistanis, Eritreans, Iranians, Afghans and Bangladeshis. Many come on small boats illegally. About half are initially granted asylum <a href="https://bsky.app/profile/reuters.com/post/3ma6jvbt2zs2d" target="_blank">reuters.com</a> (2025-12-17 20:15:24)</span><span style="padding-right:50px;">Adam, who asked Reuters to withhold his surname for privacy reasons, is part of an emerging network of mainly right-wing videographers both stoking and profiting from widespread anger in Britain over the use of the hotels to house asylum seekers reut.rs/4pI88Fb <a href="https://bsky.app/profile/reuters.com/post/3ma6juzj4c22d" target="_blank">reuters.com</a> (2025-12-17 20:15:24)</span>
+<span style="padding-right:50px;">LIVE: British Prime Minister Keir Starmer takes questions in parliament youtube.com/live/TZEMx3_... <a href="https://bsky.app/profile/reuters.com/post/3ma6lknmahs2y" target="_blank">reuters.com</a> (2025-12-17 20:45:24)</span><span style="padding-right:50px;">国際エネルギー機関（ＩＥＡ）は１７日、世界の石炭需要は２０２５年に過去最高を記録するものの、再生可能エネルギーや原子力、天然ガスが発電における石炭支配を後退させるとして、３０年までに減少するとの見通しを示した。 bit.ly/4aS3GyO <a href="https://bsky.app/profile/japan.reuters.com/post/3ma6lkivwct26" target="_blank">japan.reuters.com</a> (2025-12-17 20:45:19)</span><span style="padding-right:50px;">Diageo sells East African Breweries stake to Asahi for $2.3 billion reut.rs/4s2NQYg <a href="https://bsky.app/profile/reuters.com/post/3ma6lkeblnr2s" target="_blank">reuters.com</a> (2025-12-17 20:45:14)</span><span style="padding-right:50px;">Uniforms tell the story of America’s decades-long dependence on workers made anonymous by design. <a href="https://bsky.app/profile/wsj.com/post/3ma6li34tqg2k" target="_blank">wsj.com</a> (2025-12-17 20:43:57)</span><span style="padding-right:50px;">Jared Kushner's firm pulled out of a planned luxury hotel in Serbia, while a holiday resort in Albania is being overshadowed by local scandals. Read more: bloom.bg/4pI12Ag  📷: Nathan Howard/Getty Images <a href="https://bsky.app/profile/bloomberg.com/post/3ma6lglfwmy2x" target="_blank">bloomberg.com</a> (2025-12-17 20:43:07)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.51 (🔺0.76 : 2025-12-17)</span>
+<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.54 (🔺0.79 : 2025-12-17)</span>
   </div>
 </div>
 
@@ -34,95 +34,94 @@
 
 Here are six news headlines in English:
 
-1. Japan's Three Arrows Financial Group President Expects BOJ to Hike Rates
-2. Bondi Beach Attack: Mum of 10-Year-Old Victim Speaks at Vigil
-3. Brazil Central Bank Maintains High Interest Rates to Tame Inflation
-4. Mitsubishi UFJ Financial Group Invests in Indian Non-Bank Shriram Finance
-5. Japan Sees Record-Breaking Number of Foreign Visitors in November
-6. Trump Orders Blockade of Sanctioned Oil Tankers from Venezuela
+1. IAEA Forecasts Global Coal Demand to Peak in 2025, Then Decline by 2030
+2. Diageo Sells East African Breweries Stake to Asahi for $2.3 Billion
+3. Jared Kushner's Firm Abandons Serbia Luxury Hotel Project Amid Scandals
+4. Treasury Yields Nudge Higher as Investors Eye Inflation Data
+5. Australian Police Charge Man with Murder and Terrorism Over Sydney Beach Shooting
+6. NBA Commissioner Adam Silver Says Expansion Verdict to Come in 2026
 
 ----
 
-@japan.reuters.com
-
-三井住友フィナンシャルグループの中島達社長は、今月１８─１９日に開かれる日銀の金融政策決定会合での利上げについて「上げるのではないかとは予想している」と述べた上で、０．２５％の追加利上げは市場ではほぼ織り込まれているとの見方を示した。むしろ注目すべきは今後の利上げペースや最終到達点（ターミナルレート）に関する日銀のメッセージだと指摘した。 bit.ly/49dRJ5k
-
-[2025-12-17 20:20:25](https://bsky.app/profile/japan.reuters.com/post/3ma6k5yoduq2s)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Bondi Beach attack: Ten-year-old victim's mum speaks at vigil
-
-[2025-12-17 20:20:10](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma6k5kk6bz2x)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】万博会場のパビリオン解体工事で事故 30代の男性作業員が右足骨折などの重傷 大阪
-(2025-12-17 20:17) #ニュース
-
-[2025-12-17 20:17:36](https://bsky.app/profile/sokuho.news/post/3ma6jyx43bn2e)
-
----
-
 @reuters.com
 
-Over the past three years, arrivals of asylum seekers in Britain have reached record levels, including 110,000 in the year to September, mostly Pakistanis, Eritreans, Iranians, Afghans and Bangladeshis. Many come on small boats illegally. About half are initially granted asylum
+LIVE: British Prime Minister Keir Starmer takes questions in parliament youtube.com/live/TZEMx3_...
 
-[2025-12-17 20:15:24](https://bsky.app/profile/reuters.com/post/3ma6jvbt2zs2d)
-
----
-
-@reuters.com
-
-Adam, who asked Reuters to withhold his surname for privacy reasons, is part of an emerging network of mainly right-wing videographers both stoking and profiting from widespread anger in Britain over the use of the hotels to house asylum seekers reut.rs/4pI88Fb
-
-[2025-12-17 20:15:24](https://bsky.app/profile/reuters.com/post/3ma6juzj4c22d)
-
----
-
-@reuters.com
-
-The videographers say they provide unfiltered coverage of the impact of rising asylum claims on communities in Britain, an issue they feel is neglected by traditional media. Read our full coverage here: reut.rs/4pI88Fb
-
-[2025-12-17 20:15:24](https://bsky.app/profile/reuters.com/post/3ma6jy3le4k2d)
-
----
-
-@reuters.com
-
-Footage of videographers confronting staff and asylum seekers has surged in popularity this year to gain millions of views on YouTube, according to a Reuters tally. Their online followings now rival the daily print circulation of major British newspapers
-
-[2025-12-17 20:15:24](https://bsky.app/profile/reuters.com/post/3ma6jxgfjos2d)
-
----
-
-@reuters.com
-
-Some residents had made fraudulent claims about conditions in the countries they had escaped, or protested about hotel food by refusing to eat, he said, while people with claims he considered genuine were overlooked. In 2022, he started filming inside the hotel where he worked
-
-[2025-12-17 20:15:24](https://bsky.app/profile/reuters.com/post/3ma6jwvy47k2d)
-
----
-
-@reuters.com
-
-Adam didn’t set out to expose what he calls Britain’s 'broken asylum system.' About four years ago the 32-year-old started working in one of hundreds of hotels being used to house asylum seekers because he wanted to help them settle in the country. What he saw began to anger him
-
-[2025-12-17 20:15:24](https://bsky.app/profile/reuters.com/post/3ma6jw37k2k2d)
+[2025-12-17 20:45:24](https://bsky.app/profile/reuters.com/post/3ma6lknmahs2y)
 
 ---
 
 @japan.reuters.com
 
-ブラジル中央銀行が９─１０日に開いた金融政策委員会（ＣＯＰＯＭ）で、雇用市場とサービスインフレの鈍化を指摘し、インフレを目標に確実に収束させるために金利を非常に長期間維持するのが適切であると現時点で結論づけたことが、１６日公表の議事要旨で分かった。 bit.ly/4qbPjtD
+国際エネルギー機関（ＩＥＡ）は１７日、世界の石炭需要は２０２５年に過去最高を記録するものの、再生可能エネルギーや原子力、天然ガスが発電における石炭支配を後退させるとして、３０年までに減少するとの見通しを示した。 bit.ly/4aS3GyO
 
-[2025-12-17 20:15:20](https://bsky.app/profile/japan.reuters.com/post/3ma6juv5drx27)
+[2025-12-17 20:45:19](https://bsky.app/profile/japan.reuters.com/post/3ma6lkivwct26)
+
+---
+
+@reuters.com
+
+Diageo sells East African Breweries stake to Asahi for $2.3 billion reut.rs/4s2NQYg
+
+[2025-12-17 20:45:14](https://bsky.app/profile/reuters.com/post/3ma6lkeblnr2s)
+
+---
+
+@wsj.com
+
+Uniforms tell the story of America’s decades-long dependence on workers made anonymous by design.
+
+[2025-12-17 20:43:57](https://bsky.app/profile/wsj.com/post/3ma6li34tqg2k)
+
+---
+
+@bloomberg.com
+
+Jared Kushner's firm pulled out of a planned luxury hotel in Serbia, while a holiday resort in Albania is being overshadowed by local scandals. Read more: bloom.bg/4pI12Ag
+
+📷: Nathan Howard/Getty Images
+
+[2025-12-17 20:43:07](https://bsky.app/profile/bloomberg.com/post/3ma6lglfwmy2x)
+
+---
+
+@cnbc.com
+
+Treasury yields nudge higher as investors look ahead to inflation data
+
+[2025-12-17 20:43:01](https://bsky.app/profile/cnbc.com/post/3ma6lgfys6c2d)
+
+---
+
+@japan.reuters.com
+
+豪警察当局は１７日、シドニー近郊のボンダイビーチで発生した銃乱射事件の容疑者を殺人やテロ関連犯罪など５９件の罪で訴追したと発表した。 bit.ly/4jbUOpZ
+
+[2025-12-17 20:40:22](https://bsky.app/profile/japan.reuters.com/post/3ma6lbnu2gs2q)
+
+---
+
+@reuters.com
+
+Adam Silver: NBA expansion verdict due in 2026 reut.rs/4qdS91m
+
+[2025-12-17 20:40:20](https://bsky.app/profile/reuters.com/post/3ma6lbmb7jv2r)
+
+---
+
+@nbcnews.com
+
+A federal judge is allowing construction of the White House ballroom to move forward, rejecting a request by the National Trust for Historic Preservation to temporarily halt President Trump's project.
+
+[2025-12-17 20:40:09](https://bsky.app/profile/nbcnews.com/post/3ma6lbbwfg22u)
+
+---
+
+@yahoofinance.com
+
+Tesla's Robotaxi progress gives investors proof of the AI dream
+
+[2025-12-17 20:36:07](https://bsky.app/profile/yahoofinance.com/post/3ma6l234sfw2k)
 
 ---
 
