@@ -1,9 +1,9 @@
-# [2025-12-18 04:30 updated](2025_12_18.md)
+# [2025-12-18 04:50 updated](2025_12_18.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Exclusive: A group of Democratic senators is asking the Justice Department to explain why federal law enforcement never interviewed Jeffrey Epstein’s longtime lawyer or in-house accountant when they investigated his sex-trafficking scheme. <a href="https://bsky.app/profile/wsj.com/post/3ma7fgwcyxi2g" target="_blank">wsj.com</a> (2025-12-18 04:28:36)</span><span style="padding-right:50px;">The Senate has given final passage to the annual National Defense Authorization Act, which raises troop pay by 3.8%. It also pressures Defense Secretary Pete Hegseth to provide lawmakers with video of strikes on alleged drug boats near Venezuela. n.pr/3L2mH78 <a href="https://bsky.app/profile/npr.org/post/3ma7fbv2izs2b" target="_blank">npr.org</a> (2025-12-18 04:25:47)</span><span style="padding-right:50px;">Finland's prime minister apologises to Asian nations over racism scandal reut.rs/3L6UY5m <a href="https://bsky.app/profile/reuters.com/post/3ma7favx2np2r" target="_blank">reuters.com</a> (2025-12-18 04:25:14)</span><span style="padding-right:50px;">From @theathletic.com: Ohio University fired football coach Brian Smith for cause on Wednesday, more than two weeks after he was unexpectedly placed on leave by the university. <a href="https://bsky.app/profile/nytimes.com/post/3ma7f3bfyxy26" target="_blank">nytimes.com</a> (2025-12-18 04:22:05)</span><span style="padding-right:50px;">Discharge petitions are all the rage on Capitol Hill. <a href="https://bsky.app/profile/axios.com/post/3ma7f2fs7xs23" target="_blank">axios.com</a> (2025-12-18 04:21:36)</span>
+<span style="padding-right:50px;">US confirms tariff elements of trade deal with Switzerland reut.rs/4pJhmkg <a href="https://bsky.app/profile/reuters.com/post/3ma7gesfwu523" target="_blank">reuters.com</a> (2025-12-18 04:45:18)</span><span style="padding-right:50px;">Nick Reiner appeared briefly in court on Wednesday, a day after he was charged with murder in the death of his parents, the celebrated director Rob Reiner and his wife, Michele Singer Reiner. He did not enter a plea. <a href="https://bsky.app/profile/nytimes.com/post/3ma7gcbz3nu2s" target="_blank">nytimes.com</a> (2025-12-18 04:43:54)</span><span style="padding-right:50px;">Republican lawmakers decry Intel's testing of Chinese-linked tools after Reuters report reut.rs/4pJ4tqt <a href="https://bsky.app/profile/reuters.com/post/3ma7g4g74742b" target="_blank">reuters.com</a> (2025-12-18 04:40:37)</span><span style="padding-right:50px;">米財務省は、ロシア極東サハリン沖の石油・天然ガス開発事業「サハリン２」プロジェクトからの原油販売許可を来年６月１８日まで延長すると発表した。 bit.ly/4qhbf6N <a href="https://bsky.app/profile/japan.reuters.com/post/3ma7g4aq3h626" target="_blank">japan.reuters.com</a> (2025-12-18 04:40:31)</span><span style="padding-right:50px;">FCC Chair Brendan Carr says the regulatory body is not an independent government agency — a position that counters his previous public statements and the office’s own website. <a href="https://bsky.app/profile/nbcnews.com/post/3ma7g3t577n2r" target="_blank">nbcnews.com</a> (2025-12-18 04:40:17)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 47957.49 (🔻170.56 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22761.54 (🔻374.06 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.99 (🔻5.11 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.62 (🔺0.87 : 2025-12-17)</span>
+<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 47980.28 (🔻147.77 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22769.36 (🔻366.25 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 171.15 (🔻4.96 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.66 (🔺0.91 : 2025-12-17)</span>
   </div>
 </div>
 
@@ -34,92 +34,93 @@
 
 Here are six important stories with headlines in English:
 
-1. Justice Department Faces Questions Over Epstein Investigation
-2. Senate Approves National Defense Authorization Act with 3.8% Troop Pay Raise
-3. Warner Bros. Discovery Rejects Paramount's $108.4 Billion Acquisition Bid
-4. Google Sues Chinese Cybercrime Group Over Scam Text Messages
-5. Brain Health Expert Reveals 12 Practices for a Healthy Mind
-6. Oscars Telecast to Move to YouTube Starting in 2029
+1. US Confirms Tariff Elements of Trade Deal with Switzerland
+2. US Allows Oil Sales from Russia's Sakhalin-2 Project Through June 18
+3. Trump Administration's EPA Spent $86.5 Million on Employee Leave in First 7 Months
+4. Google Sues Chinese Cybercriminal Group for Scam Text Messages
+5. Oscars Telecast to Stream on YouTube Starting in 2029
+6. Finland's Prime Minister Apologizes to Asian Nations Over Racism Scandal
 
 ----
 
-@wsj.com
-
-Exclusive: A group of Democratic senators is asking the Justice Department to explain why federal law enforcement never interviewed Jeffrey Epstein’s longtime lawyer or in-house accountant when they investigated his sex-trafficking scheme.
-
-[2025-12-18 04:28:36](https://bsky.app/profile/wsj.com/post/3ma7fgwcyxi2g)
-
----
-
-@npr.org
-
-The Senate has given final passage to the annual National Defense Authorization Act, which raises troop pay by 3.8%. It also pressures Defense Secretary Pete Hegseth to provide lawmakers with video of strikes on alleged drug boats near Venezuela. n.pr/3L2mH78
-
-[2025-12-18 04:25:47](https://bsky.app/profile/npr.org/post/3ma7fbv2izs2b)
-
----
-
 @reuters.com
 
-Finland's prime minister apologises to Asian nations over racism scandal reut.rs/3L6UY5m
+US confirms tariff elements of trade deal with Switzerland reut.rs/4pJhmkg
 
-[2025-12-18 04:25:14](https://bsky.app/profile/reuters.com/post/3ma7favx2np2r)
+[2025-12-18 04:45:18](https://bsky.app/profile/reuters.com/post/3ma7gesfwu523)
 
 ---
 
 @nytimes.com
 
-From @theathletic.com: Ohio University fired football coach Brian Smith for cause on Wednesday, more than two weeks after he was unexpectedly placed on leave by the university.
+Nick Reiner appeared briefly in court on Wednesday, a day after he was charged with murder in the death of his parents, the celebrated director Rob Reiner and his wife, Michele Singer Reiner. He did not enter a plea.
 
-[2025-12-18 04:22:05](https://bsky.app/profile/nytimes.com/post/3ma7f3bfyxy26)
+[2025-12-18 04:43:54](https://bsky.app/profile/nytimes.com/post/3ma7gcbz3nu2s)
 
 ---
 
-@axios.com
+@reuters.com
 
-Discharge petitions are all the rage on Capitol Hill.
+Republican lawmakers decry Intel's testing of Chinese-linked tools after Reuters report reut.rs/4pJ4tqt
 
-[2025-12-18 04:21:36](https://bsky.app/profile/axios.com/post/3ma7f2fs7xs23)
+[2025-12-18 04:40:37](https://bsky.app/profile/reuters.com/post/3ma7g4g74742b)
 
 ---
 
 @japan.reuters.com
 
-米メディア大手ワーナー・ブラザース・ディスカバリーの取締役会は１７日、パラマウント・スカイダンスによる１０８４億ドルの敵対的買収案について、十分な資金調達が保証されていないとして拒否した。 bit.ly/4oW7oLd
+米財務省は、ロシア極東サハリン沖の石油・天然ガス開発事業「サハリン２」プロジェクトからの原油販売許可を来年６月１８日まで延長すると発表した。 bit.ly/4qhbf6N
 
-[2025-12-18 04:20:27](https://bsky.app/profile/japan.reuters.com/post/3ma7eyeaj772p)
+[2025-12-18 04:40:31](https://bsky.app/profile/japan.reuters.com/post/3ma7g4aq3h626)
 
 ---
 
 @nbcnews.com
 
-Google is suing a Chinese-speaking cybercriminal group it says is responsible for a massive wave of scam text messages sent to Americans this year, according to a legal complaint.
+FCC Chair Brendan Carr says the regulatory body is not an independent government agency — a position that counters his previous public statements and the office’s own website.
 
-[2025-12-18 04:20:10](https://bsky.app/profile/nbcnews.com/post/3ma7extsf7v2d)
+[2025-12-18 04:40:17](https://bsky.app/profile/nbcnews.com/post/3ma7g3t577n2r)
 
 ---
 
-@forbes.com
+@nytimes.com
 
-Three other companies submitted offers for the media conglomerate, including Netflix, Paramount and Comcast.
+“He was a happy, caring man, full of joy,” one mourner said of Rabbi Eli Schlanger. His funeral on Wednesday was the first one held for the 15 people killed in a mass shooting at a Jewish celebration in Sydney, Australia. nyti.ms/3MGOMl4
 
-[2025-12-18 04:20:04](https://bsky.app/profile/forbes.com/post/3ma7exoksf52l)
+[2025-12-18 04:40:02](https://bsky.app/profile/nytimes.com/post/3ma7g3esu4r2b)
 
 ---
 
 @cbsnews.com
 
-A New York-based food company is voluntarily recalling nondairy ice cream sold nationwide because it may contain foreign materials, including "small stones," according to the U.S. Food and Drug Administration.
+Americans lose hundreds of millions of dollars each year in travel-related fraud, according to the Joint Economic Committee. Here's how to avoid getting burned.
 
-[2025-12-18 04:20:01](https://bsky.app/profile/cbsnews.com/post/3ma7exld6vr2z)
+
+[2025-12-18 04:40:01](https://bsky.app/profile/cbsnews.com/post/3ma7g3dhdqf2b)
+
+---
+
+@reuters.com
+
+Wall Street's main indexes fell, with the S&P 500 and the tech-heavy Nasdaq at three-week lows as nagging worries about AI weighed on technology stocks reut.rs/4j3E1p6
+
+[2025-12-18 04:39:27](https://bsky.app/profile/reuters.com/post/3ma7g2cw2wc22)
+
+---
+
+@reuters.com
+
+US allows oil sales from Russia's Sakhalin-2 project through June 18 reut.rs/49mKSWn
+
+[2025-12-18 04:35:13](https://bsky.app/profile/reuters.com/post/3ma7fsrbeth2r)
 
 ---
 
 @bloomberg.com
 
-🧠 Alphadots challenges players to solve a new puzzle every day using speed and strategy. Try today’s puzzle:
+The Trump administration’s move to cut $7.6 billion in grants to California and other Democratic-led states has prompted a probe by a federal watchdog.
 
-[2025-12-18 04:19:50](https://bsky.app/profile/bloomberg.com/post/3ma7exauqai2u)
+[2025-12-18 04:34:58](https://bsky.app/profile/bloomberg.com/post/3ma7fsck62h2p)
 
 ---
 
