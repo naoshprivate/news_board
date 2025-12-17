@@ -1,9 +1,9 @@
-# [2025-12-17 23:30 updated](2025_12_17.md)
+# [2025-12-17 23:50 updated](2025_12_17.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">From @theathletic.com: Tuesday night’s victory was a statement that the Knicks belong in the NBA championship discussion. New York needed something from everyone to raise its first championship banner since 1973. <a href="https://bsky.app/profile/nytimes.com/post/3ma6ulprz742b" target="_blank">nytimes.com</a> (2025-12-17 23:27:03)</span><span style="padding-right:50px;">Doctors in England start five-day walkout during flu surge reut.rs/4oXZu40 <a href="https://bsky.app/profile/reuters.com/post/3ma6uimv7i32r" target="_blank">reuters.com</a> (2025-12-17 23:25:19)</span><span style="padding-right:50px;">Three holds and a cut? Europe's central banks are about to make their final calls of 2025 <a href="https://bsky.app/profile/cnbc.com/post/3ma6uhdxqyw2e" target="_blank">cnbc.com</a> (2025-12-17 23:24:37)</span><span style="padding-right:50px;">🎾 🇪🇸  Men's tennis world no. 1 Carlos Alcaraz announced on Wednesday he is splitting from his coach Juan Carlos Ferrero after seven hugely successful years together, with assistant coach Samuel Lopez taking over ➡️ u.afp.com/S7tZ <a href="https://bsky.app/profile/en.afp.com/post/3ma6uej63f22v" target="_blank">en.afp.com</a> (2025-12-17 23:23:01)</span><span style="padding-right:50px;">President Trump on Tuesday ordered a “total and complete blockade” of all sanctioned oil tankers entering and leaving Venezuela. <a href="https://bsky.app/profile/wsj.com/post/3ma6uatm72l2z" target="_blank">wsj.com</a> (2025-12-17 23:20:58)</span>
+<span style="padding-right:50px;">LIVE: US Treasury unveils Trump Accounts website youtube.com/live/ssOxiUG... <a href="https://bsky.app/profile/reuters.com/post/3ma6vq3xcj22y" target="_blank">reuters.com</a> (2025-12-17 23:47:24)</span><span style="padding-right:50px;">メルカリ、駿河屋と資本業務提携　エンタメ商品数百万点がフリマに（無料記事） www.nikkei.com/article/DGXZQO...  将来は駿河屋の全商品の在庫とフリマを連携させる方針です。エンタメ・ホビー分野では日本最大級の商品数になると説明しています。 <a href="https://bsky.app/profile/nikkei.com/post/3ma6vn54b2s22" target="_blank">nikkei.com</a> (2025-12-17 23:45:44)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】九州道下り線が通行止め 広川IC→八女IC 乗用車が横転し2人意識不明 高速バスがう回運行 福岡 (2025-12-17 23:25) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma6vn4wa6i2x" target="_blank">sokuho.news</a> (2025-12-17 23:45:44)</span><span style="padding-right:50px;">French drone makers call for more state spending as budget talks drag on reut.rs/4pJxlz5 <a href="https://bsky.app/profile/reuters.com/post/3ma6vme4qbq2k" target="_blank">reuters.com</a> (2025-12-17 23:45:18)</span><span style="padding-right:50px;">Hundreds of underage girls married off and hundreds more children kidnapped as U.S. foreign aid cuts contribute to surge in violations against persecuted Rohingya children. <a href="https://bsky.app/profile/apnews.com/post/3ma6vlzrfr326" target="_blank">apnews.com</a> (2025-12-17 23:45:07)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48172.34 (🔺44.29 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 175.98 (🔻0.12 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.61 (🔺0.86 : 2025-12-17)</span>
+<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48303.02 (🔺174.97 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 23043.98 (🔻91.63 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻1.96 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.54 (🔺0.79 : 2025-12-17)</span>
   </div>
 </div>
 
@@ -32,94 +32,102 @@
 
 ## News Headlines
 
-Here are six headlines in English:
+Here are the six selected headlines:
 
-1. China's Meta X Semiconductor Lists on Shanghai Stock Exchange at 700% Higher Than IPO Price
-2. England's Consumer Price Index Falls to 3.2% in November, Lowest Since March
-3. Warner Bros. Rejects Paramount's Hostile Takeover Bid in Favor of Netflix Deal
-4. Federal Law Requires Release of Jeffrey Epstein Investigation Documents by Friday
-5. Automakers Hyundai and Kia Reach Settlement with Dozens of States Over Anti-Theft Technology
-6. International Energy Agency Forecasts Global Coal Demand to Reach Record High in 2025, Then Decline
+1. US Treasury Unveils Trump Accounts Website
+2. Mercurial and Pochiya Join Forces to Offer Millions of Entertainment Items on Mercari
+3. French Drone Makers Call for Increased Government Spending
+4. Hundreds of Underage Girls Married Off Amid US Foreign Aid Cuts
+5. UK House Prices and Private Rents Experience Slowing Growth
+6. Honda Announces Production Cuts Due to Semiconductor Shortage
 
 ----
 
-@nytimes.com
+@reuters.com
 
-From @theathletic.com: Tuesday night’s victory was a statement that the Knicks belong in the NBA championship discussion. New York needed something from everyone to raise its first championship banner since 1973.
+LIVE: US Treasury unveils Trump Accounts website youtube.com/live/ssOxiUG...
 
-[2025-12-17 23:27:03](https://bsky.app/profile/nytimes.com/post/3ma6ulprz742b)
+[2025-12-17 23:47:24](https://bsky.app/profile/reuters.com/post/3ma6vq3xcj22y)
+
+---
+
+@nikkei.com
+
+メルカリ、駿河屋と資本業務提携　エンタメ商品数百万点がフリマに（無料記事）
+www.nikkei.com/article/DGXZQO...
+
+将来は駿河屋の全商品の在庫とフリマを連携させる方針です。エンタメ・ホビー分野では日本最大級の商品数になると説明しています。
+
+[2025-12-17 23:45:44](https://bsky.app/profile/nikkei.com/post/3ma6vn54b2s22)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】九州道下り線が通行止め 広川IC→八女IC 乗用車が横転し2人意識不明 高速バスがう回運行 福岡
+(2025-12-17 23:25) #ニュース
+
+[2025-12-17 23:45:44](https://bsky.app/profile/sokuho.news/post/3ma6vn4wa6i2x)
 
 ---
 
 @reuters.com
 
-Doctors in England start five-day walkout during flu surge reut.rs/4oXZu40
+French drone makers call for more state spending as budget talks drag on reut.rs/4pJxlz5
 
-[2025-12-17 23:25:19](https://bsky.app/profile/reuters.com/post/3ma6uimv7i32r)
-
----
-
-@cnbc.com
-
-Three holds and a cut? Europe's central banks are about to make their final calls of 2025
-
-[2025-12-17 23:24:37](https://bsky.app/profile/cnbc.com/post/3ma6uhdxqyw2e)
+[2025-12-17 23:45:18](https://bsky.app/profile/reuters.com/post/3ma6vme4qbq2k)
 
 ---
 
-@en.afp.com
+@apnews.com
 
-🎾 🇪🇸  Men's tennis world no. 1 Carlos Alcaraz announced on Wednesday he is splitting from his coach Juan Carlos Ferrero after seven hugely successful years together, with assistant coach Samuel Lopez taking over ➡️ u.afp.com/S7tZ
+Hundreds of underage girls married off and hundreds more children kidnapped as U.S. foreign aid cuts contribute to surge in violations against persecuted Rohingya children.
 
-[2025-12-17 23:23:01](https://bsky.app/profile/en.afp.com/post/3ma6uej63f22v)
+[2025-12-17 23:45:07](https://bsky.app/profile/apnews.com/post/3ma6vlzrfr326)
 
 ---
 
-@wsj.com
+@nytimes.com
 
-President Trump on Tuesday ordered a “total and complete blockade” of all sanctioned oil tankers entering and leaving Venezuela.
+What’s your most-played game? Do you tend to solve in the morning, afternoon or evening? Your Year in Games will tell all, with personalized game stats from Wordle, Connections, Spelling Bee, and Strands.
 
-[2025-12-17 23:20:58](https://bsky.app/profile/wsj.com/post/3ma6uatm72l2z)
+Check out your own Year in Games: nyti.ms/3MRvBVH
+
+[2025-12-17 23:43:07](https://bsky.app/profile/nytimes.com/post/3ma6vigpqja2b)
 
 ---
 
 @japan.reuters.com
 
-中国のＡＩ（人工知能）半導体メーカー、沐曦集成電路（メタＸ）が上海市場に上場し、公開価格比約７００％高で初日の取引を終えた。中国政府がエヌビディアやアドバンスト・マイクロ・ デバイセズ（ＡＭＤ）など米大手のＡＩ半導体に対する依存を減らそうとする中、投資家の買いが集まった。 bit.ly/3KCnXhr
+豪警察当局は１７日、シドニー近郊のボンダイビーチで発生した銃乱射事件の容疑者を殺人やテロ関連犯罪など５９件の罪で訴追したと発表した。 bit.ly/4aTRm0Y
 
-[2025-12-17 23:20:26](https://bsky.app/profile/japan.reuters.com/post/3ma6u7v23gy22)
-
----
-
-@nbcnews.com
-
-Should the Russian businessman fail to free the funds quickly, the British government said it was "fully prepared to take him to court."
-
-[2025-12-17 23:20:10](https://bsky.app/profile/nbcnews.com/post/3ma6u7fxced2k)
-
----
-
-@financialtimes.com
-
- The AfD’s love-in with Maga ft.trib.al/p03v4ZC  | opinion
-
-[2025-12-17 23:16:21](https://bsky.app/profile/financialtimes.com/post/3ma6tylfrz62k)
-
----
-
-@financialtimes.com
-
- Monzo board should stand firm on its chief executive switch ft.trib.al/Ti7TvI2  | opinion
-
-[2025-12-17 23:16:20](https://bsky.app/profile/financialtimes.com/post/3ma6tykteh32f)
+[2025-12-17 23:40:40](https://bsky.app/profile/japan.reuters.com/post/3ma6ve2fn5b22)
 
 ---
 
 @reuters.com
 
-Paris' Louvre reopens partially but staff vote to extend strike reut.rs/3MD5hyF
+Growth in UK house prices and private rents slows reut.rs/4antkvm
 
-[2025-12-17 23:15:22](https://bsky.app/profile/reuters.com/post/3ma6twtfsyl24)
+[2025-12-17 23:40:21](https://bsky.app/profile/reuters.com/post/3ma6vdj4wjy2i)
+
+---
+
+@nytimes.com
+
+“We were their friends, and we will miss them forever.” Billy Crystal, Larry David, Martin Short and several other prominent figures and close friends of Rob Reiner’s released a statement on Tuesday memorializing the Hollywood director and his wife, Michele Singer Reiner.
+
+[2025-12-17 23:40:03](https://bsky.app/profile/nytimes.com/post/3ma6vcxaawc2s)
+
+---
+
+@reuters.com
+
+Domestic demand to drive German recovery in 2026, says IMK reut.rs/4oZPYxu
+
+[2025-12-17 23:35:11](https://bsky.app/profile/reuters.com/post/3ma6v2bclg52i)
 
 ---
 
