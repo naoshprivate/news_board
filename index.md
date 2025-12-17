@@ -1,9 +1,9 @@
-# [2025-12-18 07:50 updated](2025_12_18.md)
+# [2025-12-18 08:10 updated](2025_12_18.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Breaking News: Dan Bongino, the FBI deputy director, said he would step down next month, ending his brief but tumultuous stint at the bureau. <a href="https://bsky.app/profile/nytimes.com/post/3ma7qib43j527" target="_blank">nytimes.com</a> (2025-12-18 07:46:12)</span><span style="padding-right:50px;">EU carbon tax changes for metals are not enough, industry says reut.rs/4j0BPyu <a href="https://bsky.app/profile/reuters.com/post/3ma7qgragcr2c" target="_blank">reuters.com</a> (2025-12-18 07:45:22)</span><span style="padding-right:50px;">【“オーディション発”が躍進】 ILLITや&TEAM生んだKｰPOPの刺激 www.nikkei.com/article/DGXZQO...  2025年の紅白歌合戦にはHANAやBE:FIRSTも出場。韓国オーディション番組の多くはHuluなどで配信され、国の枠を越えてデビュー前から大勢のファンがつきます。  視聴者投票による審査を採用し、ファンを単なる受け手から主体として巻き込む仕掛けです。  かつてのオーディション番組のように頭ごなしにダメ出しをする、プレッシャーで追い込むといったことはしません。 <a href="https://bsky.app/profile/nikkei.com/post/3ma7qgl6nxj22" target="_blank">nikkei.com</a> (2025-12-18 07:45:15)</span><span style="padding-right:50px;">President Trump commended FBI Deputy Director Dan Bongino’s work at the bureau amid public reports that he plans to leave and return to being a conservative podcaster.  Bongino has told colleagues his last official day at the bureau will be in January. <a href="https://bsky.app/profile/washingtonpost.com/post/3ma7qgapezf2b" target="_blank">washingtonpost.com</a> (2025-12-18 07:45:04)</span><span style="padding-right:50px;">米ＩＴ大手オラクルは１７日、中西部ミシガン州のデータセンター建設計画を巡る出資協議は予定通りに進んでいると表明した。交渉不調と報じられたブルー・アウル・キャピタルについては、交渉相手に含まれていないと説明した。 bit.ly/3MGf3jr <a href="https://bsky.app/profile/japan.reuters.com/post/3ma7qfjaima2q" target="_blank">japan.reuters.com</a> (2025-12-18 07:44:40)</span>
+<span style="padding-right:50px;">欧州連合（ＥＵ）は１７日、南米南部共同市場（メルコスル）との自由貿易協定（ＦＴＡ）に関し、一部加盟国が懸念している農産物輸入への影響軽減に向け、規制を強化することで暫定合意した。議長国のデンマークは、農産品の一部に対するセーフガード（緊急輸入制限）措置を発動するトリガー条項を８％に設定することを決めたと発表した。 bit.ly/3MGgXAB <a href="https://bsky.app/profile/japan.reuters.com/post/3ma7rpzyef32u" target="_blank">japan.reuters.com</a> (2025-12-18 08:08:27)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】「事故のような音…女性に声をかけている男性がいる」交差点の信号柱に衝突か 30代とみられる女性 死亡確認 ひき逃げ事件の可能性も 富山・高岡市 (2025-12-18 07:58:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma7robvseh27" target="_blank">sokuho.news</a> (2025-12-18 08:07:28)</span><span style="padding-right:50px;">日本の「サハリン2」からのLNG輸入 特例許可期限延長 米財務省 https://news.web.nhk/newsweb/na/na-k10015007051000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma7rlshxsx2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 08:06:02)</span><span style="padding-right:50px;">Celtic chairman Lawwell steps down citing abuse during tricky season reut.rs/4qlvmkp <a href="https://bsky.app/profile/reuters.com/post/3ma7rkhnz5324" target="_blank">reuters.com</a> (2025-12-18 08:05:19)</span><span style="padding-right:50px;">In a year rife with tariffs and economic uncertainty, many Americans wish they padded their savings a bit more.  <a href="https://bsky.app/profile/cnbc.com/post/3ma7rhaulao25" target="_blank">cnbc.com</a> (2025-12-18 08:03:32)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.59 (🔺0.84 : 2025-12-17)</span>
+<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.63 (🔺0.04 : 2025-12-17)</span>
   </div>
 </div>
 
@@ -32,104 +32,98 @@
 
 ## News Headlines
 
-Here are six selected headlines in English:
+Here are six important stories with headlines in English:
 
-1. FBI Deputy Director Dan Bongino to Step Down Next Month
-2. BP Picks Woodside Boss Meg O'Neill as New CEO
-3. Trump Expected to Sign Order Reclassifying Marijuana as Schedule III Drug
-4. FCC Chair Brendan Carr Says Agency is Not Independent, Contradicting Website
-5. White House Deputy Chief of Staff Says US 'Created the Oil Industry in Venezuela'
-6. Families of Teenagers Who Died by Suicide Sue Meta Over Instagram's Handling of Sexual Blackmail Schemes
+1. EU, Mercosur Reach Tentative Agreement on Trade Deal
+2. US Ends Sanctions on Syria, Paving Way for Investment
+3. Amazon Overhauls AI Team Amid Inflection Point
+4. New Job Market Data Paints Murky Picture for Tech Industry
+5. Trump Installs Partisan Plaque on White House Walk of Fame
+6. EU Carbon Tax Changes for Metals Fall Short, Industry Says
 
 ----
 
-@nytimes.com
+@japan.reuters.com
 
-<strong><span style="color: red;">Breaking News</span>: Dan Bongino, the FBI deputy director, said he would step down next month, ending his brief but tumultuous stint at the bureau.</strong>
+欧州連合（ＥＵ）は１７日、南米南部共同市場（メルコスル）との自由貿易協定（ＦＴＡ）に関し、一部加盟国が懸念している農産物輸入への影響軽減に向け、規制を強化することで暫定合意した。議長国のデンマークは、農産品の一部に対するセーフガード（緊急輸入制限）措置を発動するトリガー条項を８％に設定することを決めたと発表した。 bit.ly/3MGgXAB
 
-[2025-12-18 07:46:12](https://bsky.app/profile/nytimes.com/post/3ma7qib43j527)
+[2025-12-18 08:08:27](https://bsky.app/profile/japan.reuters.com/post/3ma7rpzyef32u)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】「事故のような音…女性に声をかけている男性がいる」交差点の信号柱に衝突か 30代とみられる女性 死亡確認 ひき逃げ事件の可能性も 富山・高岡市
+(2025-12-18 07:58:00) #ニュース
+
+[2025-12-18 08:07:28](https://bsky.app/profile/sokuho.news/post/3ma7robvseh27)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+日本の「サハリン2」からのLNG輸入 特例許可期限延長 米財務省
+https://news.web.nhk/newsweb/na/na-k10015007051000
+
+[2025-12-18 08:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma7rlshxsx2k)
 
 ---
 
 @reuters.com
 
-EU carbon tax changes for metals are not enough, industry says reut.rs/4j0BPyu
+Celtic chairman Lawwell steps down citing abuse during tricky season reut.rs/4qlvmkp
 
-[2025-12-18 07:45:22](https://bsky.app/profile/reuters.com/post/3ma7qgragcr2c)
-
----
-
-@nikkei.com
-
-【“オーディション発”が躍進】
-ILLITや&TEAM生んだKｰPOPの刺激
-www.nikkei.com/article/DGXZQO...
-
-2025年の紅白歌合戦にはHANAやBE:FIRSTも出場。韓国オーディション番組の多くはHuluなどで配信され、国の枠を越えてデビュー前から大勢のファンがつきます。
-
-視聴者投票による審査を採用し、ファンを単なる受け手から主体として巻き込む仕掛けです。
-
-かつてのオーディション番組のように頭ごなしにダメ出しをする、プレッシャーで追い込むといったことはしません。
-
-[2025-12-18 07:45:15](https://bsky.app/profile/nikkei.com/post/3ma7qgl6nxj22)
-
----
-
-@washingtonpost.com
-
-President Trump commended FBI Deputy Director Dan Bongino’s work at the bureau amid public reports that he plans to leave and return to being a conservative podcaster.
-
-Bongino has told colleagues his last official day at the bureau will be in January.
-
-[2025-12-18 07:45:04](https://bsky.app/profile/washingtonpost.com/post/3ma7qgapezf2b)
-
----
-
-@japan.reuters.com
-
-米ＩＴ大手オラクルは１７日、中西部ミシガン州のデータセンター建設計画を巡る出資協議は予定通りに進んでいると表明した。交渉不調と報じられたブルー・アウル・キャピタルについては、交渉相手に含まれていないと説明した。 bit.ly/3MGf3jr
-
-[2025-12-18 07:44:40](https://bsky.app/profile/japan.reuters.com/post/3ma7qfjaima2q)
+[2025-12-18 08:05:19](https://bsky.app/profile/reuters.com/post/3ma7rkhnz5324)
 
 ---
 
 @cnbc.com
 
-Coinbase adds prediction markets and stock trading in push to be one-stop trading app
+In a year rife with tariffs and economic uncertainty, many Americans wish they padded their savings a bit more. 
 
-[2025-12-18 07:44:39](https://bsky.app/profile/cnbc.com/post/3ma7qfijl3l2x)
-
----
-
-@yahoonews.com
-
-<strong><span style="color: red;">Breaking News</span>: FBI Deputy Director Dan Bongino says he plans to leave job next month, ending brief tenure as bureau's No. 2 official.</strong><br><strong>yhoo.it/4q9lp9o</strong>
-
-[2025-12-18 07:43:29](https://bsky.app/profile/yahoonews.com/post/3ma7qdg6udb2q)
+[2025-12-18 08:03:32](https://bsky.app/profile/cnbc.com/post/3ma7rhaulao25)
 
 ---
 
 @japan.reuters.com
 
-ベネズエラ国営石油会社ＰＤＶＳＡは１７日、サイバー攻撃によって停止していた原油と燃料の積み込みを再開した。ただ、米国が制裁対象タンカーの封鎖を発表する中、大半の輸出は保留となっている。 bit.ly/4542CnQ
+きょうの東京株式市場で日経平均株価は、軟調な値動きが想定される。前日の米国株式市場でハイテク株が下落した流れを受けて、東京市場でも日経平均への寄与度が高い人工知能（ＡＩ）や半導体関連株が軒並み下落することが想定される。日経平均は心理的節目の４万９０００円を下回る場面がみられそうだ。 bit.ly/4j2XZ32
 
-[2025-12-18 07:42:21](https://bsky.app/profile/japan.reuters.com/post/3ma7qbfadgx25)
-
----
-
-@cnn.com
-
-Deputy FBI director Dan Bongino is stepping down soon from the job after eight months marked by clashes with his boss, Attorney General Pamela Bondi, and fighting off the conspiracies he once fueled. https://cnn.it/4542BQO
-
-[2025-12-18 07:42:14](https://bsky.app/profile/cnn.com/post/3ma7qb5y66s2b)
+[2025-12-18 08:03:16](https://bsky.app/profile/japan.reuters.com/post/3ma7rgrocdd2f)
 
 ---
 
-@nbcnews.com
+@reuters.com
 
-More than 117,000 immigrants — at least half of whom have lived in the country a decade or more — face potential deportation after the Trump administration pushed to reopen cases previously paused by an immigration judge, an NBC News analysis shows.
+Britain to overhaul benchmark rules to cut industry burden reut.rs/3KRJfYs
 
-[2025-12-18 07:40:35](https://bsky.app/profile/nbcnews.com/post/3ma7q6a4ori23)
+[2025-12-18 08:01:30](https://bsky.app/profile/reuters.com/post/3ma7rdmhza62r)
+
+---
+
+@usatoday.com
+
+Who's left on the MLB free agency market? USA TODAY Sports ranks the top remaining free agents and breaks down who's already signed.
+
+[2025-12-18 08:01:26](https://bsky.app/profile/usatoday.com/post/3ma7rdim3yx2o)
+
+---
+
+@apnews.com
+
+Police have intensified their search for a suspect in the killing of Massachusetts Institute of Technology physics professor Nuno F.G. Loureiro.
+
+[2025-12-18 08:01:15](https://bsky.app/profile/apnews.com/post/3ma7rd6iurv2k)
+
+---
+
+@financialtimes.com
+
+Amazon overhauls AI team as chief declares an ‘inflection point’ ft.trib.al/dtu4gby
+
+[2025-12-18 08:00:55](https://bsky.app/profile/financialtimes.com/post/3ma7rclax2w2w)
 
 ---
 
