@@ -1,9 +1,9 @@
-# [2025-12-17 10:10 updated](2025_12_17.md)
+# [2025-12-17 10:30 updated](2025_12_17.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">日銀が１７日に発表した７―９月期の資金循環統計によると、９月末時点の家計の金融資産は前年比４．９％増の２２８６兆円となり、２００５年３月以降の最高を更新した。株高や新ＮＩＳＡ（少額投資非課税制度）への資金流入が残高を大きく押し上げた。 bit.ly/4rZfPIj <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5hxrr3ki27" target="_blank">japan.reuters.com</a> (2025-12-17 10:08:29)</span><span style="padding-right:50px;">The warehouse retailer tiptoed into travel 25 years ago and now accounts for multibillion-dollar bookings in cruises, vacation packages and rental cars. on.wsj.com/4j1qez7 <a href="https://bsky.app/profile/wsj.com/post/3ma5hqoywdg2e" target="_blank">wsj.com</a> (2025-12-17 10:04:31)</span><span style="padding-right:50px;">CNBC Daily Open: Beware confirmation bias in U.S. jobs report for November <a href="https://bsky.app/profile/cnbc.com/post/3ma5hnpf6ow2b" target="_blank">cnbc.com</a> (2025-12-17 10:02:51)</span><span style="padding-right:50px;">Country music is booming, tech bros love cowboy boots and a show about a West Texas oil-company fixer is wildly popular. Enter Stetson, a made-in-America heritage brand, with factories in Texas and a legacy.  🔗: on.wsj.com/4qaNDRc <a href="https://bsky.app/profile/wsj.com/post/3ma5hndeoii2g" target="_blank">wsj.com</a> (2025-12-17 10:02:39)</span><span style="padding-right:50px;">US FAA repeats warning to airlines of 'worsening security situation' when flying over Venezuela reut.rs/4pKF3sC <a href="https://bsky.app/profile/reuters.com/post/3ma5hlpnrcc23" target="_blank">reuters.com</a> (2025-12-17 10:01:45)</span>
+<span style="padding-right:50px;">１７日の東京市場で、東証プライム市場に新規上場したＳＢＩ新生銀行の初値は１５８６円となり、公開価格を９．３７％上回った。新規株式公開（ＩＰＯ）の公募・売出価格に基づく想定時価総額は約１兆２９８０億円で、今年最大規模となる。 bit.ly/44ZUZ1K <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5j4sfvcc2s" target="_blank">japan.reuters.com</a> (2025-12-17 10:29:12)</span><span style="padding-right:50px;">The Pentagon has launched a new “official Command” phase of its investigation into whether Sen. Mark Kelly will be punished for his involvement in a video that reminded members of the military they have a duty to refuse illegal orders, with a decision likely to be made in about 30 days.  <a href="https://bsky.app/profile/cnn.com/post/3ma5j4ieta72k" target="_blank">cnn.com</a> (2025-12-17 10:29:01)</span><span style="padding-right:50px;">President Donald Trump said he was ordering a “total and complete blockade” of sanctioned oil tankers coming to and leaving from Venezuela, announcing the move in a Truth Social post that escalated his rhetoric against Venezuelan leader Nicolas Maduro’s regime. https://cnn.it/48YOFss <a href="https://bsky.app/profile/cnn.com/post/3ma5j2y6nkb22" target="_blank">cnn.com</a> (2025-12-17 10:28:11)</span><span style="padding-right:50px;">＜１０：１２＞　日経平均は一進一退、週後半のイベント控え方向感欠く bit.ly/4qhk94g <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5iyqs5us2q" target="_blank">japan.reuters.com</a> (2025-12-17 10:26:56)</span><span style="padding-right:50px;">米誌バニティ・フェアは１６日、ホワイトハウスのワイルズ首席補佐官のインタビュー記事を掲載した。ワイルズ氏は飲酒しないトランプ大統領について、「アルコール依存症のような性格」で、敵と見なす人物に対して復讐心を抱くと評した。 bit.ly/3KWqXVJ <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5iup3qfk2q" target="_blank">japan.reuters.com</a> (2025-12-17 10:24:40)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49332.29 (🔻80.90 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3330.00 (🔻16.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 154.64 (🔻0.11 : 2025-12-17)</span>
+<span style="padding-right:50px;">NIKKEI: 49357.06 (🔻56.13 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3327.00 (🔻19.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 154.58 (🔻0.17 : 2025-12-17)</span>
   </div>
 </div>
 
@@ -32,106 +32,104 @@
 
 ## News Headlines
 
-Here are six news headlines in English:
-
-1. Japan's Household Assets Reach Record High
-2. Warehouse Retailer Enters Travel Market with Multibillion-Dollar Bookings
-3. US President Trump Expands Travel Restrictions to 39 Countries
-4. Former Top Vaccine Official Sues Trump Administration Over Firing
-5. Trump Orders 'Total Blockade' of Sanctioned Venezuelan Oil Tankers
-6. New Zealand Central Bank Chief Sees Low Interest Rates Through 2023
+1. SBI新生銀行の新規上場価格が公開価格を上回る
+2. Pentagon investigates Sen. Mark Kelly for refusing illegal orders
+3. Trump orders total blockade of sanctioned Venezuelan oil tankers
+4. 日経平均は一進一退、週後半のイベント控え方向感欠く
+5. Canada unveils new rules to lower oil and gas methane emissions
+6. アルゼンチンGDPが3.3%増加
+7. フィンランド・ポーランドなど8カ国が欧州の防衛強化を求める
+8. 日銀が発表した資金循環統計、家計の金融資産が2005年以来の高値を更新
+9. US FAA repeats warning to airlines of 'worsening security situation' when flying over Venezuela
+10. トランプ米大統領が国民向け演説を行う
+11. アルゼンチンGDPが3.3%増加
+12. ニュージーランド準備銀行総裁が政策金利の低水準が続く可能性を示す
+13. 米製薬大手ファイザーが2026年通期の利益見通しを発表
+14. AlphabetのWaymoが15億ドルを調達するための交渉を進める
+15. 米メディア大手ワーナー・ブラザース・ディスカバリーが買収を検討
+16. ホワイトハウスがベネズエラへの制裁を強化
+17. トランプ米大統領がベネズエラへの全面的な封鎖を命じる
+18. 米FAAがベネズエラ上空を飛行する航空機への注意を呼びかける
 
 ----
 
 @japan.reuters.com
 
-日銀が１７日に発表した７―９月期の資金循環統計によると、９月末時点の家計の金融資産は前年比４．９％増の２２８６兆円となり、２００５年３月以降の最高を更新した。株高や新ＮＩＳＡ（少額投資非課税制度）への資金流入が残高を大きく押し上げた。 bit.ly/4rZfPIj
+１７日の東京市場で、東証プライム市場に新規上場したＳＢＩ新生銀行の初値は１５８６円となり、公開価格を９．３７％上回った。新規株式公開（ＩＰＯ）の公募・売出価格に基づく想定時価総額は約１兆２９８０億円で、今年最大規模となる。 bit.ly/44ZUZ1K
 
-[2025-12-17 10:08:29](https://bsky.app/profile/japan.reuters.com/post/3ma5hxrr3ki27)
-
----
-
-@wsj.com
-
-The warehouse retailer tiptoed into travel 25 years ago and now accounts for multibillion-dollar bookings in cruises, vacation packages and rental cars. on.wsj.com/4j1qez7
-
-[2025-12-17 10:04:31](https://bsky.app/profile/wsj.com/post/3ma5hqoywdg2e)
+[2025-12-17 10:29:12](https://bsky.app/profile/japan.reuters.com/post/3ma5j4sfvcc2s)
 
 ---
 
-@cnbc.com
+@cnn.com
 
-CNBC Daily Open: Beware confirmation bias in U.S. jobs report for November
+The Pentagon has launched a new “official Command” phase of its investigation into whether Sen. Mark Kelly will be punished for his involvement in a video that reminded members of the military they have a duty to refuse illegal orders, with a decision likely to be made in about 30 days. 
 
-[2025-12-17 10:02:51](https://bsky.app/profile/cnbc.com/post/3ma5hnpf6ow2b)
-
----
-
-@wsj.com
-
-Country music is booming, tech bros love cowboy boots and a show about a West Texas oil-company fixer is wildly popular. Enter Stetson, a made-in-America heritage brand, with factories in Texas and a legacy.
-
-🔗: on.wsj.com/4qaNDRc
-
-[2025-12-17 10:02:39](https://bsky.app/profile/wsj.com/post/3ma5hndeoii2g)
+[2025-12-17 10:29:01](https://bsky.app/profile/cnn.com/post/3ma5j4ieta72k)
 
 ---
 
-@reuters.com
+@cnn.com
 
-US FAA repeats warning to airlines of 'worsening security situation' when flying over Venezuela reut.rs/4pKF3sC
+President Donald Trump said he was ordering a “total and complete blockade” of sanctioned oil tankers coming to and leaving from Venezuela, announcing the move in a Truth Social post that escalated his rhetoric against Venezuelan leader Nicolas Maduro’s regime. https://cnn.it/48YOFss
 
-[2025-12-17 10:01:45](https://bsky.app/profile/reuters.com/post/3ma5hlpnrcc23)
-
----
-
-@nikkei.com
-
-市場に潜む反DEI　女性経営者もターゲットか
-www.nikkei.com/article/DGXZQO...
-
-フィナンシャル・タイムズによると、女性経営者のほうがアクティビストの攻撃対象になりやすいといいます。
-
-また昇進を望まない女性が2025年に急増したという調査もあります。
-
-25年はトランプ政権が反DEIの姿勢を鮮明にし、世論も保守化に勢いがあります。
-
-米国社会で「ガラスの天井」は思いのほか固いようです。
-
-[2025-12-17 10:01:15](https://bsky.app/profile/nikkei.com/post/3ma5hktutok2i)
+[2025-12-17 10:28:11](https://bsky.app/profile/cnn.com/post/3ma5j2y6nkb22)
 
 ---
 
 @japan.reuters.com
 
-トランプ米大統領は１６日、米東部時間１７日午後９時（０２００ＧＭＴ、日本時間１８日午前１１時）に国民向けの演説を行うと発表した。演説のテーマについては明らかにしなかった。 bit.ly/3XZ3Mgw
+＜１０：１２＞　日経平均は一進一退、週後半のイベント控え方向感欠く bit.ly/4qhk94g
 
-[2025-12-17 10:01:03](https://bsky.app/profile/japan.reuters.com/post/3ma5hkhuxx422)
-
----
-
-@apnews.com
-
-The leading international authority on hunger crises and the U.N. food aid agency are warning that more than 17 million people in Afghanistan are facing crisis levels of hunger in the coming winter months.
-
-[2025-12-17 10:00:15](https://bsky.app/profile/apnews.com/post/3ma5hizupca23)
+[2025-12-17 10:26:56](https://bsky.app/profile/japan.reuters.com/post/3ma5iyqs5us2q)
 
 ---
 
-@bloomberg.com
+@japan.reuters.com
 
-President Donald Trump’s base broadly supports his airstrikes against suspected drug-runners in the Caribbean Sea, giving him the political latitude he may need to wage an even more aggressive campaign despite an outcry over its legality.
+米誌バニティ・フェアは１６日、ホワイトハウスのワイルズ首席補佐官のインタビュー記事を掲載した。ワイルズ氏は飲酒しないトランプ大統領について、「アルコール依存症のような性格」で、敵と見なす人物に対して復讐心を抱くと評した。 bit.ly/3KWqXVJ
 
-[2025-12-17 10:00:14](https://bsky.app/profile/bloomberg.com/post/3ma5hizfgle2a)
+[2025-12-17 10:24:40](https://bsky.app/profile/japan.reuters.com/post/3ma5iup3qfk2q)
 
 ---
 
-@washingtonpost.com
+@japan.reuters.com
 
-Candace Owens's recent foray into conspiracy theories about the death of conservative activist Charlie Kirk has some of her longtime allies in the conservative movement drawing a line.
-https://wapo.st/4jayDAv
+カナダ銀行（中央銀行）のマックレム総裁は１６日、同国で今後流通するステーブルコインは質の高い流動資産の裏付けが必要で、その価値は中央銀行が発行する通貨と１対１で連動するものでなくてはならないとの考えを示した。 bit.ly/3YxNyv0
 
-[2025-12-17 10:00:08](https://bsky.app/profile/washingtonpost.com/post/3ma5hitdow62d)
+[2025-12-17 10:21:21](https://bsky.app/profile/japan.reuters.com/post/3ma5iorewwb2f)
+
+---
+
+@reuters.com
+
+Canada unveils new rules to lower oil and gas methane emissions reut.rs/4p3NPAT
+
+[2025-12-17 10:20:29](https://bsky.app/profile/reuters.com/post/3ma5inactnd23)
+
+---
+
+@japan.reuters.com
+
+タイとカンボジアの国境紛争に伴いカンボジア側に最大６０００人のタイ人労働者が取り残されている。タイ政府は１６日、取り残された人々の帰国に向けて取り組んでいると明らかにした。 bit.ly/4s8tugz
+
+[2025-12-17 10:18:50](https://bsky.app/profile/japan.reuters.com/post/3ma5ikbe6iq2c)
+
+---
+
+@financialtimes.com
+
+The proclamation issued by the US president cites war and weak governance as justification for the ban, without offering evidence of specific security threats from the nations listed. ft.trib.al/jQnkQhr
+
+[2025-12-17 10:18:08](https://bsky.app/profile/financialtimes.com/post/3ma5iizr5q62y)
+
+---
+
+@usatoday.com
+
+Exclusive: The Trump administration is moving to dismantle the National Center for Atmospheric Research in Colorado, according to a senior White House official, taking aim at one of the world's leading climate research labs.
+
+[2025-12-17 10:16:39](https://bsky.app/profile/usatoday.com/post/3ma5igf25732g)
 
 ---
 
