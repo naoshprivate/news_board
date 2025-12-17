@@ -1,9 +1,9 @@
-# [2025-12-18 01:30 updated](2025_12_18.md)
+# [2025-12-18 01:50 updated](2025_12_18.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">UK removes duplicate entries from sanctions lists, designations remain in place reut.rs/4pBUPG6 <a href="https://bsky.app/profile/reuters.com/post/3ma7375s5kb24" target="_blank">reuters.com</a> (2025-12-18 01:25:18)</span><span style="padding-right:50px;">パスポート申請、最大7000円安く　政府が26年7月からの見直し調整 www.nikkei.com/article/DGXZQO... <a href="https://bsky.app/profile/nikkei.com/post/3ma733ski3a24" target="_blank">nikkei.com</a> (2025-12-18 01:23:25)</span><span style="padding-right:50px;">Breaking News: Four politically vulnerable House Republicans teamed up with Democrats to force a vote in early 2026 on extending Affordable Care Act subsidies. <a href="https://bsky.app/profile/nytimes.com/post/3ma733nyc6426" target="_blank">nytimes.com</a> (2025-12-18 01:23:21)</span><span style="padding-right:50px;">Medline raises $6.3 billion in year's biggest IPO <a href="https://bsky.app/profile/yahoofinance.com/post/3ma72xofffn2f" target="_blank">yahoofinance.com</a> (2025-12-18 01:21:07)</span><span style="padding-right:50px;">How Home Depot became the front line of Trump’s immigration raids ft.trib.al/NkIJ9ei <a href="https://bsky.app/profile/financialtimes.com/post/3ma72wagboe2o" target="_blank">financialtimes.com</a> (2025-12-18 01:20:19)</span>
+<span style="padding-right:50px;">Breaking news: An appeals court signaled that it may find the National Guard deployment in D.C. to be lawful, disagreeing with a lower-court judge’s opinion and issuing an order that will allow troops to stay in the city while litigation continues. <a href="https://bsky.app/profile/washingtonpost.com/post/3ma74jtynrv23" target="_blank">washingtonpost.com</a> (2025-12-18 01:49:10)</span><span style="padding-right:50px;">A federal appeals court on Wednesday allowed President Trump to continue deploying National Guard units on the streets of Washington, D.C., at least temporarily. <a href="https://bsky.app/profile/wsj.com/post/3ma74jfke6k2q" target="_blank">wsj.com</a> (2025-12-18 01:48:55)</span><span style="padding-right:50px;">WTO chair rules out reform deal at next major meeting, document shows reut.rs/4pF8HPR <a href="https://bsky.app/profile/reuters.com/post/3ma74cuiscw2b" target="_blank">reuters.com</a> (2025-12-18 01:45:16)</span><span style="padding-right:50px;">Stocks making the biggest moves midday: Oracle, Jabil, Paramount, Texas Pacific & more <a href="https://bsky.app/profile/cnbc.com/post/3ma746waal72m" target="_blank">cnbc.com</a> (2025-12-18 01:43:04)</span><span style="padding-right:50px;">Breaking News: An appeals court allowed National Guard troops to remain in Washington, D.C., for now. <a href="https://bsky.app/profile/nytimes.com/post/3ma746phtpv2s" target="_blank">nytimes.com</a> (2025-12-18 01:42:56)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48012.36 (🔻115.69 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22845.47 (🔻290.14 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.93 (🔻5.17 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.53 (🔺0.78 : 2025-12-17)</span>
+<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48018.90 (🔻109.15 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22827.28 (🔻308.33 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.67 (🔻5.43 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.55 (🔺0.80 : 2025-12-17)</span>
   </div>
 </div>
 
@@ -32,95 +32,94 @@
 
 ## News Headlines
 
-Here are six important news headlines in English:
+Here are six important stories with headlines in English:
 
-1. Four Republicans Break with Speaker Johnson, Force Vote on Extending ACA Subsidies
-2. EU Parliament Approves Phase Out of Russian Gas Imports
-3. Medline Raises $6.3 Billion in Year's Biggest IPO
-4. Russian President Putin Warns of Further Ukraine Action if Demands Not Met
-5. US President's Chief of Staff Calls Trump 'Alcoholic' and Describes Elon Musk as 'Odd Duck'
-6. Chinese Scientists Develop Prototype for AI-Powered Semiconductor Chips
+1. Appeals Court Allows National Guard to Remain in D.C.
+2. Fed's Waller Favors More Rate Cuts Next Year
+3. Moderate House Republicans Join Democrats to Force Vote on ACA Subsidies
+4. Russian President Putin Warns of Ukraine Consequences
+5. EU Parliament Approves Phase Out of Russian Gas Imports
+6. Michael and Susan Dell Pledge $6.25 Billion for Children's Education
 
 ----
 
-@reuters.com
+@washingtonpost.com
 
-UK removes duplicate entries from sanctions lists, designations remain in place reut.rs/4pBUPG6
+<strong><span style="color: red;">Breaking news:</span> An appeals court signaled that it may find the National Guard deployment in D.C. to be lawful, disagreeing with a lower-court judge’s opinion and issuing an order that will allow troops to stay in the city while litigation continues.</strong>
 
-[2025-12-18 01:25:18](https://bsky.app/profile/reuters.com/post/3ma7375s5kb24)
+[2025-12-18 01:49:10](https://bsky.app/profile/washingtonpost.com/post/3ma74jtynrv23)
 
 ---
 
-@nikkei.com
+@wsj.com
 
-パスポート申請、最大7000円安く　政府が26年7月からの見直し調整
-www.nikkei.com/article/DGXZQO...
+A federal appeals court on Wednesday allowed President Trump to continue deploying National Guard units on the streets of Washington, D.C., at least temporarily.
 
-[2025-12-18 01:23:25](https://bsky.app/profile/nikkei.com/post/3ma733ski3a24)
+[2025-12-18 01:48:55](https://bsky.app/profile/wsj.com/post/3ma74jfke6k2q)
+
+---
+
+@reuters.com
+
+WTO chair rules out reform deal at next major meeting, document shows reut.rs/4pF8HPR
+
+[2025-12-18 01:45:16](https://bsky.app/profile/reuters.com/post/3ma74cuiscw2b)
+
+---
+
+@cnbc.com
+
+Stocks making the biggest moves midday: Oracle, Jabil, Paramount, Texas Pacific & more
+
+[2025-12-18 01:43:04](https://bsky.app/profile/cnbc.com/post/3ma746waal72m)
 
 ---
 
 @nytimes.com
 
-<strong><span style="color: red;">Breaking News</span>: Four politically vulnerable House Republicans teamed up with Democrats to force a vote in early 2026 on extending Affordable Care Act subsidies.</strong>
+<strong><span style="color: red;">Breaking News</span>: An appeals court allowed National Guard troops to remain in Washington, D.C., for now.</strong>
 
-[2025-12-18 01:23:21](https://bsky.app/profile/nytimes.com/post/3ma733nyc6426)
-
----
-
-@yahoofinance.com
-
-Medline raises $6.3 billion in year's biggest IPO
-
-[2025-12-18 01:21:07](https://bsky.app/profile/yahoofinance.com/post/3ma72xofffn2f)
-
----
-
-@financialtimes.com
-
-How Home Depot became the front line of Trump’s immigration raids ft.trib.al/NkIJ9ei
-
-[2025-12-18 01:20:19](https://bsky.app/profile/financialtimes.com/post/3ma72wagboe2o)
-
----
-
-@nbcnews.com
-
-Russian President Vladimir Putin warns that Moscow will seek to extend its gains in Ukraine if Kyiv and its Western allies reject the Kremlin’s demands in peace talks.
-
-[2025-12-18 01:20:10](https://bsky.app/profile/nbcnews.com/post/3ma72vxtppz26)
-
----
-
-@npr.org
-
-Barbara Rose Johns was 16 when she led a walkout at her high school, credited with helping end school segregation. Her statue replaces Robert E. Lee's, which was removed in 2020.
-
-[2025-12-18 01:19:01](https://bsky.app/profile/npr.org/post/3ma72twnykn23)
-
----
-
-@yahoonews.com
-
-Four centrist Republicans broke with Speaker Mike Johnson on Wednesday and signed onto a Democratic-led petition that will force a House vote on extending for three years an enhanced pandemic-era subsidy that lowers health insurance costs for millions of Americans. yhoo.it/4qcH6p5
-
-[2025-12-18 01:16:41](https://bsky.app/profile/yahoonews.com/post/3ma72pr4pjp2u)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Jack Smith defends Trump prosecutions in testimony to Congress
-
-[2025-12-18 01:16:00](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma72ok4rmp2z)
+[2025-12-18 01:42:56](https://bsky.app/profile/nytimes.com/post/3ma746phtpv2s)
 
 ---
 
 @reuters.com
 
-EU Parliament approves phase out of Russian gas imports reut.rs/4q8ZzTu
+UK stocks rebound on banking gains ahead of BoE rate cut call reut.rs/4qcxVVw
 
-[2025-12-18 01:15:25](https://bsky.app/profile/reuters.com/post/3ma72niavaq2s)
+[2025-12-18 01:40:19](https://bsky.app/profile/reuters.com/post/3ma73zzcm2c2o)
+
+---
+
+@nbcnews.com
+
+The Trump administration plans to break up Colorado’s National Center for Atmospheric Research, the largest federal climate research lab.
+
+[2025-12-18 01:40:09](https://bsky.app/profile/nbcnews.com/post/3ma73zqfqfl2r)
+
+---
+
+@financialtimes.com
+
+Fed governor Waller says rates could be cut by as much as a full point ft.trib.al/yiSe3of
+
+[2025-12-18 01:38:19](https://bsky.app/profile/financialtimes.com/post/3ma73whc3zt2o)
+
+---
+
+@yahoofinance.com
+
+Fed's Waller favors more rate cuts next year
+
+[2025-12-18 01:36:21](https://bsky.app/profile/yahoofinance.com/post/3ma73svtexp2f)
+
+---
+
+@reuters.com
+
+Alcaraz splits with coach Ferrero after seven years together reut.rs/3L7WZOL
+
+[2025-12-18 01:35:15](https://bsky.app/profile/reuters.com/post/3ma73qxwsyo2r)
 
 ---
 
