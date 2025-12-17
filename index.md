@@ -1,9 +1,9 @@
-# [2025-12-17 14:50 updated](2025_12_17.md)
+# [2025-12-17 15:10 updated](2025_12_17.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】除雪中の人が2頭のクマ目撃 親子か…山の方へ歩く 一般住宅から100m 札幌市南区 (2025-12-17 14:48) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma5xm5dyms2x" target="_blank">sokuho.news</a> (2025-12-17 14:48:19)</span><span style="padding-right:50px;">米ホワイトハウスのワイルズ首席補佐官は米誌バニティ・フェアのインタビューで、第２次トランプ政権発足直後に行われた国際開発局（ＵＳＡＩＤ）の解体について「驚愕した」と語り、多額の援助停止を批判した。 bit.ly/4rWK9nb <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5xlvmw7x2p" target="_blank">japan.reuters.com</a> (2025-12-17 14:48:11)</span><span style="padding-right:50px;">米アップルがｉＰｈｏｎｅの部品組み立てとパッケージングを巡りインドのチップメーカーと初期の交渉段階にあると、インドの経済専門紙エコノミック・タイムズ（ＥＴ）が１７日、関係者の話として報じた。 bit.ly/4rYObLG <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5xjxh6vq25" target="_blank">japan.reuters.com</a> (2025-12-17 14:47:06)</span><span style="padding-right:50px;">韓国銀行（中央銀行）は１７日、ウォンが対ドルで現在の水準を維持した場合、来年のインフレ率は予測を上回る可能性があると述べた。 bit.ly/4q7oxCG <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5xg26xm72s" target="_blank">japan.reuters.com</a> (2025-12-17 14:44:54)</span><span style="padding-right:50px;">CNBC's UK Exchange newsletter: When growth got stuck in the chimney: A look back at the U.K. in 2025 <a href="https://bsky.app/profile/cnbc.com/post/3ma5xcbltxm2p" target="_blank">cnbc.com</a> (2025-12-17 14:42:48)</span>
+<span style="padding-right:50px;">ことしの“創作四字熟語” 最優秀作品は「古米奮闘」 https://news.web.nhk/newsweb/na/na-k10015006581000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma5yrb2e3f2y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-17 15:09:02)</span><span style="padding-right:50px;">中盤の東南アジア株式市場の株価はまちまち。タイとインドネシアは金融政策決定を控えて狭いレンジでの取引となっている。 bit.ly/3XZsOMG <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5yqom77n2u" target="_blank">japan.reuters.com</a> (2025-12-17 15:08:45)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】アルコール多量摂取による記憶障害となった息子を殺害した母親に執行猶予付き判決 (2025-12-17 15:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma5yl22dsv26" target="_blank">sokuho.news</a> (2025-12-17 15:05:35)</span><span style="padding-right:50px;">Japan's exports to US post first rebound in 8 months as tariff pain eases reut.rs/4oXXFnO <a href="https://bsky.app/profile/reuters.com/post/3ma5ykbjwhh2b" target="_blank">reuters.com</a> (2025-12-17 15:05:10)</span><span style="padding-right:50px;">若田部昌澄・前日銀副総裁（早大教授）は１７日、財政戦略や成長戦略を踏まえ中立金利が上がる状況であれば、日銀が利上げするのは「自然の動き」との認識を示した。都内で行われたシンポジウムで語った。 bit.ly/4p1Qc7f <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5yizyg4z25" target="_blank">japan.reuters.com</a> (2025-12-17 15:04:28)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49431.68 (🔺18.49 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3328.00 (🔻18.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.15 (🔺0.40 : 2025-12-17)</span>
+<span style="padding-right:50px;">NIKKEI: 49538.20 (🔺125.01 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3342.00 (🔻4.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.19 (🔺0.44 : 2025-12-17)</span>
   </div>
 </div>
 
@@ -32,98 +32,110 @@
 
 ## News Headlines
 
-Here are six news headlines in English:
+Here are six important stories with headlines in English:
 
-1. Bear Sightings in Sapporo: Two Bears Spotted Walking Towards Mountains Near Residential Area
-2. US AID's Dissolution Shocks White House Aide, Criticizes Significant Aid Cuts
-3. India Chipmaker in Early Talks with Apple on iPhone Component Assembly and Packaging
-4. South Korea Forecasts Higher Inflation Rate if Won Maintains Current Exchange Rate
-5. Trade Deficit Turns to Surplus in Japan, Exceeding Predictions
-6. Gasoline Prices Drop Below ¥160 for the First Time in 4 Years and 3 Months
+1. Japan's Exports to US Post First Rebound in 8 Months as Tariff Pain Eases
+2. Singapore's GDP Growth Forecast Revised Up to 4.1% for 2025
+3. Japan's Trade Deficit Narrows to ¥322.3 Billion in November
+4. Trump Expected to Sign Executive Order to Fast-Track Reclassification of Cannabis
+5. US Forest Service Trails Deteriorate Due to Staff Cuts Under Trump Administration
+6. Trump Announces Blockade on All Crude Oil Tankers Entering Venezuela's Waters
 
 ----
 
+@nhknewsunofficial.bsky.social
+
+ことしの“創作四字熟語” 最優秀作品は「古米奮闘」
+https://news.web.nhk/newsweb/na/na-k10015006581000
+
+[2025-12-17 15:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma5yrb2e3f2y)
+
+---
+
+@japan.reuters.com
+
+中盤の東南アジア株式市場の株価はまちまち。タイとインドネシアは金融政策決定を控えて狭いレンジでの取引となっている。 bit.ly/3XZsOMG
+
+[2025-12-17 15:08:45](https://bsky.app/profile/japan.reuters.com/post/3ma5yqom77n2u)
+
+---
+
 @sokuho.news
 
-🛎️NNNより【速報】です。
+🛎️FNNより【速報】です。
 
-【速報】除雪中の人が2頭のクマ目撃 親子か…山の方へ歩く 一般住宅から100m 札幌市南区
-(2025-12-17 14:48) #ニュース
+【速報】アルコール多量摂取による記憶障害となった息子を殺害した母親に執行猶予付き判決
+(2025-12-17 15:00) #ニュース
 
-[2025-12-17 14:48:19](https://bsky.app/profile/sokuho.news/post/3ma5xm5dyms2x)
-
----
-
-@japan.reuters.com
-
-米ホワイトハウスのワイルズ首席補佐官は米誌バニティ・フェアのインタビューで、第２次トランプ政権発足直後に行われた国際開発局（ＵＳＡＩＤ）の解体について「驚愕した」と語り、多額の援助停止を批判した。 bit.ly/4rWK9nb
-
-[2025-12-17 14:48:11](https://bsky.app/profile/japan.reuters.com/post/3ma5xlvmw7x2p)
-
----
-
-@japan.reuters.com
-
-米アップルがｉＰｈｏｎｅの部品組み立てとパッケージングを巡りインドのチップメーカーと初期の交渉段階にあると、インドの経済専門紙エコノミック・タイムズ（ＥＴ）が１７日、関係者の話として報じた。 bit.ly/4rYObLG
-
-[2025-12-17 14:47:06](https://bsky.app/profile/japan.reuters.com/post/3ma5xjxh6vq25)
-
----
-
-@japan.reuters.com
-
-韓国銀行（中央銀行）は１７日、ウォンが対ドルで現在の水準を維持した場合、来年のインフレ率は予測を上回る可能性があると述べた。 bit.ly/4q7oxCG
-
-[2025-12-17 14:44:54](https://bsky.app/profile/japan.reuters.com/post/3ma5xg26xm72s)
-
----
-
-@cnbc.com
-
-CNBC's UK Exchange newsletter: When growth got stuck in the chimney: A look back at the U.K. in 2025
-
-[2025-12-17 14:42:48](https://bsky.app/profile/cnbc.com/post/3ma5xcbltxm2p)
-
----
-
-@japan.reuters.com
-
-財務省が１７日発表した貿易統計速報によると、１１月の貿易収支は３２２３億円の黒字となった。ロイターが事前にまとめた調査機関の予測中央値は７１２億円の黒字で、黒字幅は予想をやや上回った。 bit.ly/45fbZkD
-
-[2025-12-17 14:40:16](https://bsky.app/profile/japan.reuters.com/post/3ma5x5rdsvm2c)
+[2025-12-17 15:05:35](https://bsky.app/profile/sokuho.news/post/3ma5yl22dsv26)
 
 ---
 
 @reuters.com
 
-Oil rises over 1% as Trump's Venezuela blockade stokes uncertainty reut.rs/4qbtqKZ
+Japan's exports to US post first rebound in 8 months as tariff pain eases reut.rs/4oXXFnO
 
-[2025-12-17 14:40:10](https://bsky.app/profile/reuters.com/post/3ma5x5ll57y2x)
+[2025-12-17 15:05:10](https://bsky.app/profile/reuters.com/post/3ma5ykbjwhh2b)
 
 ---
 
 @japan.reuters.com
 
-インド株式市場の株価は、小動き。アジア株に追随した。米雇用統計は強弱まちまちな内容となり、米連邦準備理事会（ＦＲＢ）の政策金利見通しの不透明感は晴れなかった。 bit.ly/3N3RmS9
+若田部昌澄・前日銀副総裁（早大教授）は１７日、財政戦略や成長戦略を踏まえ中立金利が上がる状況であれば、日銀が利上げするのは「自然の動き」との認識を示した。都内で行われたシンポジウムで語った。 bit.ly/4p1Qc7f
 
-[2025-12-17 14:38:25](https://bsky.app/profile/japan.reuters.com/post/3ma5x2gmxft2n)
-
----
-
-@nhknewsunofficial.bsky.social
-
-高市首相 きょう夕方に記者会見へ 臨時国会の閉会受けて
-https://news.web.nhk/newsweb/na/na-k10015006491000
-
-[2025-12-17 14:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma5wwaopby2b)
+[2025-12-17 15:04:28](https://bsky.app/profile/japan.reuters.com/post/3ma5yizyg4z25)
 
 ---
 
-@financialtimes.com
+@japan.reuters.com
 
- What happens if AI data centres slip the ‘surly bonds of earth’? ft.trib.al/Dn8jC1T  | opinion
+香港の李家超（ジョン・リー）行政長官は１６日、中国の習近平国家主席と北京で会談し、外国勢力との共謀罪で前日に有罪判決を受けた民主派メディア・蘋果日報（リンゴ日報＝廃刊）創業者の黎智英（ジミー・ライ）氏（７８）が話題になったと明かした。 bit.ly/48XsF10
 
-[2025-12-17 14:33:32](https://bsky.app/profile/financialtimes.com/post/3ma5wrpsqlw2q)
+[2025-12-17 15:02:17](https://bsky.app/profile/japan.reuters.com/post/3ma5yf4l54u26)
+
+---
+
+@nikkei.com
+
+スマホ出さずにゲート通過「人間版ETC」
+www.nikkei.com/article/DGXZQO...
+
+スタートアップのSinumy（大阪市）が開発した自動改札機が注目されています。
+
+ブルートゥースを使ってアプリの電子チケットと連動。
+
+カギは「1人だけ」を間違えずに認証する技術です。
+
+【ローカルビジネスサテライト】
+
+[2025-12-17 15:01:18](https://bsky.app/profile/nikkei.com/post/3ma5ydecarl2f)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】“ホテル密会”で辞職の前橋市・小川前市長 出直し選挙への立候補を正式表明
+(2025-12-17 14:59:28) #ニュース
+
+[2025-12-17 15:01:16](https://bsky.app/profile/sokuho.news/post/3ma5ydcvsvz2b)
+
+---
+
+@reuters.com
+
+Trump targets defense giants' shareholder payouts as cost overruns mount, sources say reut.rs/48WhtSl
+
+[2025-12-17 15:00:38](https://bsky.app/profile/reuters.com/post/3ma5yc65oee23)
+
+---
+
+@japan.reuters.com
+
+トランプ米大統領は１６日、ベネズエラに出入港する全ての制裁対象の石油タンカーについて「封鎖」を命じると発表した。トランプ政権がベネズエラの主要な収入源を標的にする中、両国の緊張が急激に高まる見通しだ。 bit.ly/48ZgMIg
+
+[2025-12-17 15:00:33](https://bsky.app/profile/japan.reuters.com/post/3ma5ybzvzqu2c)
 
 ---
 
