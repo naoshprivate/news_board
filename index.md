@@ -1,9 +1,9 @@
-# [2025-12-17 13:30 updated](2025_12_17.md)
+# [2025-12-17 13:50 updated](2025_12_17.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Investors pile into Venezuelan debt in regime change bet ft.trib.al/u3A1HyB <a href="https://bsky.app/profile/financialtimes.com/post/3ma5t2xibcu2k" target="_blank">financialtimes.com</a> (2025-12-17 13:27:07)</span><span style="padding-right:50px;">政府 EV購入の補助金見直し 1月から40万円増額の見込み https://news.web.nhk/newsweb/na/na-k10015006431000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma5t2uh2ni2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-17 13:27:02)</span><span style="padding-right:50px;">米電気自動車（ＥＶ）大手テスラは１６日、ドイツのベルリン郊外グリューンハイデにあるギガファクトリー（巨大工場）で２０２７年から年間最大８ギガワット時の電池セル生産体制を整えると発表した。 bit.ly/49e5Uat <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5sxiye7z2u" target="_blank">japan.reuters.com</a> (2025-12-17 13:25:11)</span><span style="padding-right:50px;">男子ゴルフのジャスティン・トーマス（３２、米国）が、母校アラバマ大学に１００万ドル（約１億５５００万円）を寄付することになった。大学側は男女ゴルフチームの活動施設改築に役立てたいとしている。 bit.ly/3YCSvTf <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5sr6oboc2q" target="_blank">japan.reuters.com</a> (2025-12-17 13:21:39)</span><span style="padding-right:50px;">トランプ大統領“石油タンカーのベネズエラ出入り全面阻止” https://news.web.nhk/newsweb/na/na-k10015006411000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma5sq64wxo2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-17 13:21:03)</span>
+<span style="padding-right:50px;">President Donald Trump says he is ordering a blockade of all "sanctioned oil tankers" into Venezuela, ramping up pressure on the country's authoritarian leader Nicolás Maduro. n.pr/48IIyd8 <a href="https://bsky.app/profile/npr.org/post/3ma5tt3gl5224" target="_blank">npr.org</a> (2025-12-17 13:40:37)</span><span style="padding-right:50px;">バンク・オブ・アメリカの月次ファンドマネジャー調査によると、世界の投資家は１２月、過去３年半で最も強気のポジションを組んでいる。マクロ経済環境と政策を巡る楽観論が限界まで高まり、リスク資産への配分が増えた。 bit.ly/4aUh1Xr <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5tsiualf2f" target="_blank">japan.reuters.com</a> (2025-12-17 13:40:17)</span><span style="padding-right:50px;">GSK wins US approval for twice-yearly asthma drug reut.rs/4pKBN0q <a href="https://bsky.app/profile/reuters.com/post/3ma5tshrlri2b" target="_blank">reuters.com</a> (2025-12-17 13:40:16)</span><span style="padding-right:50px;">サッカーのフランス１部、パリ・サンジェルマン（ＰＳＧ）に所属していた同国代表ＦＷキリアン・エムバペの未払い給与などを巡る問題で、パリの裁判所は１６日、ＰＳＧに６０００万ユーロ（約１０９億円）を支払うよう命じた。 bit.ly/4pALjTE <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5trnczfg2c" target="_blank">japan.reuters.com</a> (2025-12-17 13:39:48)</span><span style="padding-right:50px;">調査会社カウンターポイントは１６日、世界のスマートフォン出荷台数は来年に２．１％減少する見込みだと発表した。チップ価格の上昇が需要に影響する可能性が高いためという。 bit.ly/3XZfSpW <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5tjiszkc26" target="_blank">japan.reuters.com</a> (2025-12-17 13:35:15)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49452.23 (🔺39.04 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3322.00 (🔻24.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.05 (🔺0.30 : 2025-12-17)</span>
+<span style="padding-right:50px;">NIKKEI: 49353.29 (🔻59.90 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3321.00 (🔻25.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.12 (🔺0.37 : 2025-12-17)</span>
   </div>
 </div>
 
@@ -32,112 +32,93 @@
 
 ## News Headlines
 
-1. Tesla Unveils Plans to Boost Electric Battery Production in Germany
-2. Japanese Bank Invests 60% in Indian Investment Firm
-3. Justin Thomas Donates $10 Million to Alabama University
-4. Trump Administration Calls for Total Ban on Venezuelan Oil Tankers
-5. Japan's Mizuho Bank to Acquire Indian Investment Bank
-6. Former Harvard Morgue Manager Sentenced to 8 Years for Body Part Theft
-7. OpenAI in Talks to Raise $10 Billion from Amazon
-8. Cambodia-Taiwan Border Dispute Leaves Thousands of Workers Stranded
-9. Korean Automakers Hyundai and Kia Settle with US Prosecutors Over Theft Issues
-10. Semiconductor Industry Sees Record Sales in 2026 and 2027
-11. EU Abandons Plan to Make Electric Cars Mandatory by 2035
-12. New Zealand Central Bank Relaxes Capital Requirements for Banks
-13. MIT Professor Fatally Shot at His Home in Boston
-14. Tokyo Stock Exchange Lists New Bank SBI New Life at 1586 Yen
-15. Wildlife Photographer Discovers Ancient Dinosaur Footprints in Italian Park
-16. Scientists Discover Oldest Evidence of Human Fire-Making Dating Back 400,000 Years
-17. Japanese Prime Minister to Meet with Central Asian Leaders in Tokyo
-18. Mysterious Will for Late Zappos CEO Tony Hsieh's $500 Million Estate Declared Fake
-19. Locals in Coal Town Take Matters into Their Own Hands Amid Government Inaction
-20. Kawasaki Heavy Industries Expects Record-Breaking Defense Contract Sales
-21. Bus Catches Fire on Japan's North Road, All Passengers Evacuated
-22. Tokyo Police Investigate Mysterious Break-In at Scene of Family Murder
-23. Lennar Posts Weak Quarterly Profit Amid Slowing Homebuying Demand
+1. Trump Orders Blockade of Sanctioned Oil Tankers Leaving, Entering Venezuela
+2. Bank of America Finds Investors Most Bullish in 3.5 Years
+3. GSK Wins US Approval for Twice-Yearly Asthma Drug
+4. PSG Ordered to Pay Mbappe's Unpaid Wages of €6 Million
+5. Smartphone Shipments to Decline 2.1% in 2024, Says Counterpoint Research
+6. Germany's Merz Suggests Peacekeeping Forces Could Defeat Russian Troops in Ukraine
 
 ----
 
-@financialtimes.com
+@npr.org
 
-Investors pile into Venezuelan debt in regime change bet ft.trib.al/u3A1HyB
+President Donald Trump says he is ordering a blockade of all "sanctioned oil tankers" into Venezuela, ramping up pressure on the country's authoritarian leader Nicolás Maduro. n.pr/48IIyd8
 
-[2025-12-17 13:27:07](https://bsky.app/profile/financialtimes.com/post/3ma5t2xibcu2k)
-
----
-
-@nhknewsunofficial.bsky.social
-
-政府 EV購入の補助金見直し 1月から40万円増額の見込み
-https://news.web.nhk/newsweb/na/na-k10015006431000
-
-[2025-12-17 13:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma5t2uh2ni2k)
+[2025-12-17 13:40:37](https://bsky.app/profile/npr.org/post/3ma5tt3gl5224)
 
 ---
 
 @japan.reuters.com
 
-米電気自動車（ＥＶ）大手テスラは１６日、ドイツのベルリン郊外グリューンハイデにあるギガファクトリー（巨大工場）で２０２７年から年間最大８ギガワット時の電池セル生産体制を整えると発表した。 bit.ly/49e5Uat
+バンク・オブ・アメリカの月次ファンドマネジャー調査によると、世界の投資家は１２月、過去３年半で最も強気のポジションを組んでいる。マクロ経済環境と政策を巡る楽観論が限界まで高まり、リスク資産への配分が増えた。 bit.ly/4aUh1Xr
 
-[2025-12-17 13:25:11](https://bsky.app/profile/japan.reuters.com/post/3ma5sxiye7z2u)
-
----
-
-@japan.reuters.com
-
-男子ゴルフのジャスティン・トーマス（３２、米国）が、母校アラバマ大学に１００万ドル（約１億５５００万円）を寄付することになった。大学側は男女ゴルフチームの活動施設改築に役立てたいとしている。 bit.ly/3YCSvTf
-
-[2025-12-17 13:21:39](https://bsky.app/profile/japan.reuters.com/post/3ma5sr6oboc2q)
-
----
-
-@nhknewsunofficial.bsky.social
-
-トランプ大統領“石油タンカーのベネズエラ出入り全面阻止”
-https://news.web.nhk/newsweb/na/na-k10015006411000
-
-[2025-12-17 13:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma5sq64wxo2b)
-
----
-
-@japan.reuters.com
-
-みずほフィナンシャルグループは１７日、傘下のみずほ証券を通じてインドの投資銀行アベンダス・キャピタルに６０％超を出資することで合意したと発表した。みずほＦＧの木原正裕社長は会見で、投資銀行業務における今後の成長の鍵は地域間の連携にあるとし「欠けていたピースがインドだった」と語った。 bit.ly/4phS3Ff
-
-[2025-12-17 13:20:17](https://bsky.app/profile/japan.reuters.com/post/3ma5soqeeod2q)
+[2025-12-17 13:40:17](https://bsky.app/profile/japan.reuters.com/post/3ma5tsiualf2f)
 
 ---
 
 @reuters.com
 
-Ex-Harvard morgue manager who sold stolen body parts receives eight-year sentence reut.rs/3KMLWuj
+GSK wins US approval for twice-yearly asthma drug reut.rs/4pKBN0q
 
-[2025-12-17 13:20:16](https://bsky.app/profile/reuters.com/post/3ma5soplcey2p)
-
----
-
-@bloomberg.com
-
-OpenAI is in early talks to raise $10 billion from Amazon and use its AI chips
-
-[2025-12-17 13:20:14](https://bsky.app/profile/bloomberg.com/post/3ma5sono33f2p)
-
----
-
-@nhknewsunofficial.bsky.social
-
-みずほFG インド大手投資銀行を買収と発表 企業合併助言に強み
-https://news.web.nhk/newsweb/na/na-k10015006421000
-
-[2025-12-17 13:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma5skrruqq2b)
+[2025-12-17 13:40:16](https://bsky.app/profile/reuters.com/post/3ma5tshrlri2b)
 
 ---
 
 @japan.reuters.com
 
-タイとカンボジアの国境紛争に伴いカンボジア側に最大６０００人のタイ人労働者が取り残されている。タイ政府は１６日、取り残された人々の帰国に向けて取り組んでいると明らかにした。 bit.ly/44vnMuU
+サッカーのフランス１部、パリ・サンジェルマン（ＰＳＧ）に所属していた同国代表ＦＷキリアン・エムバペの未払い給与などを巡る問題で、パリの裁判所は１６日、ＰＳＧに６０００万ユーロ（約１０９億円）を支払うよう命じた。 bit.ly/4pALjTE
 
-[2025-12-17 13:15:18](https://bsky.app/profile/japan.reuters.com/post/3ma5sfsrrwf2p)
+[2025-12-17 13:39:48](https://bsky.app/profile/japan.reuters.com/post/3ma5trnczfg2c)
+
+---
+
+@japan.reuters.com
+
+調査会社カウンターポイントは１６日、世界のスマートフォン出荷台数は来年に２．１％減少する見込みだと発表した。チップ価格の上昇が需要に影響する可能性が高いためという。 bit.ly/3XZfSpW
+
+[2025-12-17 13:35:15](https://bsky.app/profile/japan.reuters.com/post/3ma5tjiszkc26)
+
+---
+
+@japan.reuters.com
+
+ドイツのメルツ首相は、米国と欧州がウクライナに提供する停戦後の安全の保証の下で、平和維持部隊がロシア軍を撃退することもあり得るとの見方を示した。まだ遠い将来の可能性だとも強調した。独公共放送ＺＤＦのインタビューで述べた。 bit.ly/492hLat
+
+[2025-12-17 13:33:05](https://bsky.app/profile/japan.reuters.com/post/3ma5tfmjoux2c)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+大阪 クリニック放火事件から4年 遺族などが犠牲者悼む
+https://news.web.nhk/newsweb/na/na-k10015006441000
+
+[2025-12-17 13:33:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma5tfkywsh2m)
+
+---
+
+@cnn.com
+
+A federal judge indicated that he won’t order President Donald Trump to immediately stop work on the massive new White House ballroom. 
+
+[2025-12-17 13:31:01](https://bsky.app/profile/cnn.com/post/3ma5tbwhflo2u)
+
+---
+
+@apnews.com
+
+With harrowing expressions of grief and declarations of faith, hundreds of mourners gathered in Sydney on Wednesday to begin funerals for the victims of an antisemitic mass shooting in which gunmen targeted Jews celebrating Hanukkah.
+
+[2025-12-17 13:30:47](https://bsky.app/profile/apnews.com/post/3ma5tbizab62k)
+
+---
+
+@reuters.com
+
+Trump orders 'blockade' of sanctioned oil tankers leaving, entering Venezuela reut.rs/3MHHY6G
+
+[2025-12-17 13:30:33](https://bsky.app/profile/reuters.com/post/3ma5tb3i36a2p)
 
 ---
 
