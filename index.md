@@ -1,9 +1,9 @@
-# [2025-12-17 18:50 updated](2025_12_17.md)
+# [2025-12-17 19:10 updated](2025_12_17.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">“衆院定数削減も含め来年春をめどに結論を” 衆院協議会 https://news.web.nhk/newsweb/na/na-k10015006721000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma6eyuu56n2x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-17 18:48:03)</span><span style="padding-right:50px;">台湾国防部（国防省）は１７日、中国の最新鋭空母「福建」が１６日に台湾海峡を通過したと発表した。福建は先月就役した中国軍３隻目となる空母で、台湾海峡を通過するのは初めて。 bit.ly/4p480P9 <a href="https://bsky.app/profile/japan.reuters.com/post/3ma6etvguxx2f" target="_blank">japan.reuters.com</a> (2025-12-17 18:45:18)</span><span style="padding-right:50px;">Japan's military buildup to propel Kawasaki Heavy's defence sales above forecast, CEO says reut.rs/3YwXRPX <a href="https://bsky.app/profile/reuters.com/post/3ma6etqmld723" target="_blank">reuters.com</a> (2025-12-17 18:45:12)</span><span style="padding-right:50px;">赤坂サウナ店火災 “非常ボタン受信盤の電源入れたことない” https://news.web.nhk/newsweb/na/na-k10015006761000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma6ethyv6n2x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-17 18:45:01)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】京都市で車5台絡む事故 40代女性が心肺停止 1歳女児ら2人軽傷 (2025年12月17日 18:41) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma6es72gyr2z" target="_blank">sokuho.news</a> (2025-12-17 18:44:21)</span>
+<span style="padding-right:50px;">Good morning London. While you were sleeping, this was our most-read story ft.trib.al/g9zJ2Gx <a href="https://bsky.app/profile/financialtimes.com/post/3ma6fzhzbhp24" target="_blank">financialtimes.com</a> (2025-12-17 19:06:19)</span><span style="padding-right:50px;">格付け会社Ｓ＆Ｐグローバル・レーティングは１７日のリポートで、日米関税交渉で合意した５５００億ドル（約８２兆円）の対米投資について、投資主体である日本の事業会社の収益性を押し下げると同時に債務返済能力を低下させるリスクがあると指摘した。 bit.ly/492xmHf <a href="https://bsky.app/profile/japan.reuters.com/post/3ma6fxqcojy27" target="_blank">japan.reuters.com</a> (2025-12-17 19:05:20)</span><span style="padding-right:50px;">Australia's gun laws riddled with loopholes and workarounds, experts say reut.rs/4oXmSyA <a href="https://bsky.app/profile/reuters.com/post/3ma6fxla7wo2b" target="_blank">reuters.com</a> (2025-12-17 19:05:15)</span><span style="padding-right:50px;">Australian police charged one of the alleged Bondi Beach gunmen with murder and terrorism on Wednesday, as grief-stricken mourners buried the first of 15 people slain in the attack ➡️ u.afp.com/S7CK <a href="https://bsky.app/profile/en.afp.com/post/3ma6fwffin22q" target="_blank">en.afp.com</a> (2025-12-17 19:04:35)</span><span style="padding-right:50px;">オイシックス・ラ・大地は１７日、米資産運用会社のグランサム、マヨ、ヴァン　オッテルロー（ＧＭＯ）が議決権ベースで１０．１７％を保有する大株主になったと発表した。 bit.ly/4pFghtH <a href="https://bsky.app/profile/japan.reuters.com/post/3ma6fsvqhc62q" target="_blank">japan.reuters.com</a> (2025-12-17 19:02:38)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.50 (🔺0.75 : 2025-12-17)</span>
+<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.51 (🔺0.76 : 2025-12-17)</span>
   </div>
 </div>
 
@@ -32,102 +32,99 @@
 
 ## News Headlines
 
-1. Japan's Military Buildup to Propel Kawasaki Heavy's Defense Sales Above Forecast
-2. Chinese Aircraft Carrier Sails Through Taiwan Strait for the First Time
-3. Coal Demand Hits Record High This Year But Set to Decline by 2030
-4. Moderate Republicans Warn of Soaring Utility Bills After Clean Energy Tax Credits Cut
-5. Chevron Remains a Major Shipper of Venezuelan Oil Despite US Sanctions
-6. India's Russian Oil Imports Show Resilience Despite Sanctions
+Here are six important stories with headlines in English:
+
+1. Japan's S&P Global Rating Warns of Risk to Corporate Profitability and Debt Repayment
+2. Japanese Company Gains 10.17% Stake in US Asset Management Firm
+3. Trump Administration's National Security Strategy Aimed to Help Europe, Not Criticize It
+4. Employees at Louvre Museum Extend Strike, Disrupting Operations
+5. Japan's MUFG to Invest Over $4 Billion in India's Shriram Finance
+6. Global Coal Demand Hits Record High but Expected to Decline by 2030
 
 ----
 
-@nhknewsunofficial.bsky.social
+@financialtimes.com
 
-“衆院定数削減も含め来年春をめどに結論を” 衆院協議会
-https://news.web.nhk/newsweb/na/na-k10015006721000
+Good morning London. While you were sleeping, this was our most-read story ft.trib.al/g9zJ2Gx
 
-[2025-12-17 18:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma6eyuu56n2x)
+[2025-12-17 19:06:19](https://bsky.app/profile/financialtimes.com/post/3ma6fzhzbhp24)
 
 ---
 
 @japan.reuters.com
 
-台湾国防部（国防省）は１７日、中国の最新鋭空母「福建」が１６日に台湾海峡を通過したと発表した。福建は先月就役した中国軍３隻目となる空母で、台湾海峡を通過するのは初めて。 bit.ly/4p480P9
+格付け会社Ｓ＆Ｐグローバル・レーティングは１７日のリポートで、日米関税交渉で合意した５５００億ドル（約８２兆円）の対米投資について、投資主体である日本の事業会社の収益性を押し下げると同時に債務返済能力を低下させるリスクがあると指摘した。 bit.ly/492xmHf
 
-[2025-12-17 18:45:18](https://bsky.app/profile/japan.reuters.com/post/3ma6etvguxx2f)
-
----
-
-@reuters.com
-
-Japan's military buildup to propel Kawasaki Heavy's defence sales above forecast, CEO says reut.rs/3YwXRPX
-
-[2025-12-17 18:45:12](https://bsky.app/profile/reuters.com/post/3ma6etqmld723)
-
----
-
-@nhknewsunofficial.bsky.social
-
-赤坂サウナ店火災 “非常ボタン受信盤の電源入れたことない”
-https://news.web.nhk/newsweb/na/na-k10015006761000
-
-[2025-12-17 18:45:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma6ethyv6n2x)
-
----
-
-@sokuho.news
-
-🔔ANNより【速報】です。
-
-【速報】京都市で車5台絡む事故 40代女性が心肺停止 1歳女児ら2人軽傷
-(2025年12月17日 18:41) #ニュース
-
-[2025-12-17 18:44:21](https://bsky.app/profile/sokuho.news/post/3ma6es72gyr2z)
+[2025-12-17 19:05:20](https://bsky.app/profile/japan.reuters.com/post/3ma6fxqcojy27)
 
 ---
 
 @reuters.com
 
-Global coal demand hit record high this year but is set to decline by 2030, IEA says. reut.rs/49fTLBZ
+Australia's gun laws riddled with loopholes and workarounds, experts say reut.rs/4oXmSyA
 
-[2025-12-17 18:40:12](https://bsky.app/profile/reuters.com/post/3ma6ekrvoag2y)
-
----
-
-@cnn.com
-
-A group of moderate Republicans have warned for months that their party's plan to eliminate clean energy tax credits would contribute to utility bills skyrocketing.
-
-Now, their predictions are coming true.  https://cnn.it/4aPu5gM
-
-[2025-12-17 18:39:05](https://bsky.app/profile/cnn.com/post/3ma6eiskuad23)
+[2025-12-17 19:05:15](https://bsky.app/profile/reuters.com/post/3ma6fxla7wo2b)
 
 ---
 
-@sokuho.news
+@en.afp.com
 
-🛎️JNNより【速報】です。
+Australian police charged one of the alleged Bondi Beach gunmen with murder and terrorism on Wednesday, as grief-stricken mourners buried the first of 15 people slain in the attack ➡️ u.afp.com/S7CK
 
-【速報】通報は車載の緊急装置「車が衝突したよう…子供の泣き声も聞こえる」40代女性が重体 京都・5台絡む多重事故で子どもなど3人ケガ
-(2025-12-17 18:36:25) #ニュース
+[2025-12-17 19:04:35](https://bsky.app/profile/en.afp.com/post/3ma6fwffin22q)
 
-[2025-12-17 18:38:35](https://bsky.app/profile/sokuho.news/post/3ma6ehvnjym27)
+---
+
+@japan.reuters.com
+
+オイシックス・ラ・大地は１７日、米資産運用会社のグランサム、マヨ、ヴァン　オッテルロー（ＧＭＯ）が議決権ベースで１０．１７％を保有する大株主になったと発表した。 bit.ly/4pFghtH
+
+[2025-12-17 19:02:38](https://bsky.app/profile/japan.reuters.com/post/3ma6fsvqhc62q)
 
 ---
 
 @wsj.com
 
-Chevron stands as one of the last big shippers of Venezuelan oil after the U.S. seized a sanctioned tanker last week allegedly carrying the country’s crude to the black market.
+Rising sales this fall gave a boost to Sotheby’s and Christie’s, spurring younger bidders to seek out luxury goods as older buyers vie for modern masterworks. Seven chased after a collectible hippo. on.wsj.com/48SPKC5
 
-[2025-12-17 18:38:14](https://bsky.app/profile/wsj.com/post/3ma6ehbpacq2e)
+[2025-12-17 19:01:27](https://bsky.app/profile/wsj.com/post/3ma6fqs374w2o)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@nikkei.com
 
-Jewish Australians on why Bondi Beach is a 'sanctuary' for them
+セブンイレブンが荷物一時預かり開始　全国378店で、インバウンドに的
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-17 18:37:10](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma6efeuhsz2r)
+全国26都道府県にある378店舗に導入。利用者はアプリやサイトから予約します。
+
+利用可能時間は24時間で、バッグサイズが1日500円。スーツケースサイズは同800円です。
+
+[2025-12-17 19:01:16](https://bsky.app/profile/nikkei.com/post/3ma6fqhj4h32x)
+
+---
+
+@reuters.com
+
+Japan's MUFG to invest over $4 billion for stake in India's Shriram Finance, sources say reut.rs/48HE6ev
+
+[2025-12-17 19:00:47](https://bsky.app/profile/reuters.com/post/3ma6fpligbj2i)
+
+---
+
+@bloomberg.com
+
+The Trump administration’s recently released national security strategy was not intended as empty criticism of Europe but was designed to help steer the continent back on track, a top State Department official said.
+
+[2025-12-17 19:00:27](https://bsky.app/profile/bloomberg.com/post/3ma6foz2akl27)
+
+---
+
+@nbcnews.com
+
+The Knicks win the NBA Cup after rallying to beat Spurs. Now they can hang a banner next to the 1973 NBA championship banner in Madison Square Garden.
+
+[2025-12-17 19:00:15](https://bsky.app/profile/nbcnews.com/post/3ma6fomvorj2x)
 
 ---
 
