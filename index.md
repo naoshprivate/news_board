@@ -1,9 +1,9 @@
-# [2025-12-18 04:10 updated](2025_12_18.md)
+# [2025-12-18 04:30 updated](2025_12_18.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Eager to shock, Diogenes hectored refined Athenians in the market square. Plato dubbed him a Socrates gone made. on.wsj.com/3MSgGdT <a href="https://bsky.app/profile/wsj.com/post/3ma7eeaizzn2r" target="_blank">wsj.com</a> (2025-12-18 04:09:12)</span><span style="padding-right:50px;">Trump has repeatedly targeted Rep. Ilhan Omar, who is Muslim, since his first term as president. <a href="https://bsky.app/profile/usatoday.com/post/3ma7ecwiyah2l" target="_blank">usatoday.com</a> (2025-12-18 04:08:28)</span><span style="padding-right:50px;">Oscars to stream on YouTube starting in 2029, leaving ABC <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma7ebful362r" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-18 04:07:36)</span><span style="padding-right:50px;">Prediction markets could hit a trillion dollars in trading volume by the end of this decade, new report says <a href="https://bsky.app/profile/cnbc.com/post/3ma7e7g3hg62x" target="_blank">cnbc.com</a> (2025-12-18 04:06:30)</span><span style="padding-right:50px;">Germany opens joint drone defence centre in Berlin reut.rs/4j3AOG4 <a href="https://bsky.app/profile/reuters.com/post/3ma7e5b4zxj2r" target="_blank">reuters.com</a> (2025-12-18 04:05:18)</span>
+<span style="padding-right:50px;">Exclusive: A group of Democratic senators is asking the Justice Department to explain why federal law enforcement never interviewed Jeffrey Epstein’s longtime lawyer or in-house accountant when they investigated his sex-trafficking scheme. <a href="https://bsky.app/profile/wsj.com/post/3ma7fgwcyxi2g" target="_blank">wsj.com</a> (2025-12-18 04:28:36)</span><span style="padding-right:50px;">The Senate has given final passage to the annual National Defense Authorization Act, which raises troop pay by 3.8%. It also pressures Defense Secretary Pete Hegseth to provide lawmakers with video of strikes on alleged drug boats near Venezuela. n.pr/3L2mH78 <a href="https://bsky.app/profile/npr.org/post/3ma7fbv2izs2b" target="_blank">npr.org</a> (2025-12-18 04:25:47)</span><span style="padding-right:50px;">Finland's prime minister apologises to Asian nations over racism scandal reut.rs/3L6UY5m <a href="https://bsky.app/profile/reuters.com/post/3ma7favx2np2r" target="_blank">reuters.com</a> (2025-12-18 04:25:14)</span><span style="padding-right:50px;">From @theathletic.com: Ohio University fired football coach Brian Smith for cause on Wednesday, more than two weeks after he was unexpectedly placed on leave by the university. <a href="https://bsky.app/profile/nytimes.com/post/3ma7f3bfyxy26" target="_blank">nytimes.com</a> (2025-12-18 04:22:05)</span><span style="padding-right:50px;">Discharge petitions are all the rage on Capitol Hill. <a href="https://bsky.app/profile/axios.com/post/3ma7f2fs7xs23" target="_blank">axios.com</a> (2025-12-18 04:21:36)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 47924.71 (🔻203.34 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22758.49 (🔻377.12 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 171.34 (🔻4.76 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.62 (🔺0.87 : 2025-12-17)</span>
+<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 47957.49 (🔻170.56 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22761.54 (🔻374.06 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.99 (🔻5.11 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.62 (🔺0.87 : 2025-12-17)</span>
   </div>
 </div>
 
@@ -34,92 +34,92 @@
 
 Here are six important stories with headlines in English:
 
-1. Plato Labels Diogenes a 'Socrates Gone Mad' After Market Square Rants
-2. Germany Opens Joint Drone Defence Centre in Berlin Amid Rising Tensions
-3. House Democrats Plan to Force Votes on War Powers Resolutions Amid Venezuela Tensions
-4. Hyundai and Kia Ordered to Offer Free Repairs to Millions of Models Over Theft Vulnerability
-5. Poland Approves Energy Tariffs, Slightly Increasing Electricity Bills
-6. FCC Chief Says Agency Not 'Formally Independent', Amidst Controversy Over 'Jimmy Kimmel Live!' Ban
+1. Justice Department Faces Questions Over Epstein Investigation
+2. Senate Approves National Defense Authorization Act with 3.8% Troop Pay Raise
+3. Warner Bros. Discovery Rejects Paramount's $108.4 Billion Acquisition Bid
+4. Google Sues Chinese Cybercrime Group Over Scam Text Messages
+5. Brain Health Expert Reveals 12 Practices for a Healthy Mind
+6. Oscars Telecast to Move to YouTube Starting in 2029
 
 ----
 
 @wsj.com
 
-Eager to shock, Diogenes hectored refined Athenians in the market square. Plato dubbed him a Socrates gone made. on.wsj.com/3MSgGdT
+Exclusive: A group of Democratic senators is asking the Justice Department to explain why federal law enforcement never interviewed Jeffrey Epstein’s longtime lawyer or in-house accountant when they investigated his sex-trafficking scheme.
 
-[2025-12-18 04:09:12](https://bsky.app/profile/wsj.com/post/3ma7eeaizzn2r)
-
----
-
-@usatoday.com
-
-Trump has repeatedly targeted Rep. Ilhan Omar, who is Muslim, since his first term as president.
-
-[2025-12-18 04:08:28](https://bsky.app/profile/usatoday.com/post/3ma7ecwiyah2l)
+[2025-12-18 04:28:36](https://bsky.app/profile/wsj.com/post/3ma7fgwcyxi2g)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@npr.org
 
-Oscars to stream on YouTube starting in 2029, leaving ABC
+The Senate has given final passage to the annual National Defense Authorization Act, which raises troop pay by 3.8%. It also pressures Defense Secretary Pete Hegseth to provide lawmakers with video of strikes on alleged drug boats near Venezuela. n.pr/3L2mH78
 
-[2025-12-18 04:07:36](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma7ebful362r)
-
----
-
-@cnbc.com
-
-Prediction markets could hit a trillion dollars in trading volume by the end of this decade, new report says
-
-[2025-12-18 04:06:30](https://bsky.app/profile/cnbc.com/post/3ma7e7g3hg62x)
+[2025-12-18 04:25:47](https://bsky.app/profile/npr.org/post/3ma7fbv2izs2b)
 
 ---
 
 @reuters.com
 
-Germany opens joint drone defence centre in Berlin reut.rs/4j3AOG4
+Finland's prime minister apologises to Asian nations over racism scandal reut.rs/3L6UY5m
 
-[2025-12-18 04:05:18](https://bsky.app/profile/reuters.com/post/3ma7e5b4zxj2r)
+[2025-12-18 04:25:14](https://bsky.app/profile/reuters.com/post/3ma7favx2np2r)
+
+---
+
+@nytimes.com
+
+From @theathletic.com: Ohio University fired football coach Brian Smith for cause on Wednesday, more than two weeks after he was unexpectedly placed on leave by the university.
+
+[2025-12-18 04:22:05](https://bsky.app/profile/nytimes.com/post/3ma7f3bfyxy26)
+
+---
+
+@axios.com
+
+Discharge petitions are all the rage on Capitol Hill.
+
+[2025-12-18 04:21:36](https://bsky.app/profile/axios.com/post/3ma7f2fs7xs23)
+
+---
+
+@japan.reuters.com
+
+米メディア大手ワーナー・ブラザース・ディスカバリーの取締役会は１７日、パラマウント・スカイダンスによる１０８４億ドルの敵対的買収案について、十分な資金調達が保証されていないとして拒否した。 bit.ly/4oW7oLd
+
+[2025-12-18 04:20:27](https://bsky.app/profile/japan.reuters.com/post/3ma7eyeaj772p)
+
+---
+
+@nbcnews.com
+
+Google is suing a Chinese-speaking cybercriminal group it says is responsible for a massive wave of scam text messages sent to Americans this year, according to a legal complaint.
+
+[2025-12-18 04:20:10](https://bsky.app/profile/nbcnews.com/post/3ma7extsf7v2d)
+
+---
+
+@forbes.com
+
+Three other companies submitted offers for the media conglomerate, including Netflix, Paramount and Comcast.
+
+[2025-12-18 04:20:04](https://bsky.app/profile/forbes.com/post/3ma7exoksf52l)
 
 ---
 
 @cbsnews.com
 
-House Democrats plan to force votes Wednesday on two war powers resolutions amid escalating tensions with Venezuela as President Trump has warned that land strikes against the country could commence "soon." 
+A New York-based food company is voluntarily recalling nondairy ice cream sold nationwide because it may contain foreign materials, including "small stones," according to the U.S. Food and Drug Administration.
 
-[2025-12-18 04:05:01](https://bsky.app/profile/cbsnews.com/post/3ma7e4qzimb2h)
-
----
-
-@wsj.com
-
-Get them designer sporting equipment, including a Louis Vuitton bowling ball and an Hermès saddle on.wsj.com/4pMc2ge
-
-[2025-12-18 04:04:38](https://bsky.app/profile/wsj.com/post/3ma7e434y4u2z)
+[2025-12-18 04:20:01](https://bsky.app/profile/cbsnews.com/post/3ma7exld6vr2z)
 
 ---
 
-@wsj.com
+@bloomberg.com
 
-Geese, fronted by Cameron Winter, has taken the music industry by storm. on.wsj.com/49hkZYX
+🧠 Alphadots challenges players to solve a new puzzle every day using speed and strategy. Try today’s puzzle:
 
-[2025-12-18 04:04:38](https://bsky.app/profile/wsj.com/post/3ma7e433icj2o)
-
----
-
-@cnbc.com
-
-FBI Deputy Director Dan Bongino plans to step down early next year, MS NOW reports
-
-[2025-12-18 04:04:09](https://bsky.app/profile/cnbc.com/post/3ma7e37cbzy2y)
-
----
-
-@wsj.com
-
-WSJ readers shared the money dilemmas they encountered in using trust funds and the pitfalls others can avoid.
-
-[2025-12-18 04:03:57](https://bsky.app/profile/wsj.com/post/3ma7e2tjzer2t)
+[2025-12-18 04:19:50](https://bsky.app/profile/bloomberg.com/post/3ma7exauqai2u)
 
 ---
 
