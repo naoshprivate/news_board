@@ -1,9 +1,9 @@
-# [2025-12-18 07:10 updated](2025_12_18.md)
+# [2025-12-18 07:30 updated](2025_12_18.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️産経より【独自】です。  ＜独自＞SBI新生銀、抽選で住宅ローン3カ月分の金利相当額を還元へ 新規上場を記念 (2025/12/18 06:00) #ニュース https://www.sankei.com/article/20251218-P6DDMI5VQ5PKBHTPFSVOJDQSQ4/ <a href="https://bsky.app/profile/sokuho.news/post/3ma7ofl7hmt2e" target="_blank">sokuho.news</a> (2025-12-18 07:08:54)</span><span style="padding-right:50px;">India v South Africa T20 game in Lucknow called off due to fog reut.rs/4j5hY19 <a href="https://bsky.app/profile/reuters.com/post/3ma7o6zeqla2r" target="_blank">reuters.com</a> (2025-12-18 07:05:14)</span><span style="padding-right:50px;">欧州連合（ＥＵ）欧州議会は１７日、ロシア産天然ガス輸入を段階的に縮小して２０２７年中にゼロにする計画を賛成多数で承認した。今後加盟各国の閣僚が承認すれば正式に発効する。 bit.ly/45h71DZ <a href="https://bsky.app/profile/japan.reuters.com/post/3ma7o3db4od27" target="_blank">japan.reuters.com</a> (2025-12-18 07:03:10)</span><span style="padding-right:50px;">The US government has collected $1 billion in de minimis tariff revenue since rolling back the exemption on low-value packages this spring, according to new data that Customs and Border Protection shared exclusively with CNN. https://cnn.it/4s4a649 <a href="https://bsky.app/profile/cnn.com/post/3ma7nzciv3c2k" target="_blank">cnn.com</a> (2025-12-18 07:02:02)</span><span style="padding-right:50px;">Nigeria's Tinubu seeks $30 billion budget reset to end overlapping fiscal years reut.rs/4iZPe9Y <a href="https://bsky.app/profile/reuters.com/post/3ma7nysiabu2y" target="_blank">reuters.com</a> (2025-12-18 07:01:46)</span>
+<span style="padding-right:50px;">メキシコのシェインバウム大統領とブラジルのルラ大統領が１７日、米国とベネズエラの緊張が高まっている事態について、自制と対話を強く呼びかけた。 bit.ly/4oWCnad <a href="https://bsky.app/profile/japan.reuters.com/post/3ma7pgceytt2q" target="_blank">japan.reuters.com</a> (2025-12-18 07:27:12)</span><span style="padding-right:50px;">D.C. United acquire All-Star striker Tai Baribo from Union reut.rs/3KCn74f <a href="https://bsky.app/profile/reuters.com/post/3ma7pdaemyl2b" target="_blank">reuters.com</a> (2025-12-18 07:25:30)</span><span style="padding-right:50px;">Pips is a logic puzzle where players must arrange a set of dominoes to meet the conditions of the board to win. There are three new puzzles each day — can you beat them all? nyti.ms/4qcr929 <a href="https://bsky.app/profile/nytimes.com/post/3ma7pcjd3vk2y" target="_blank">nytimes.com</a> (2025-12-18 07:25:05)</span><span style="padding-right:50px;">Rob Reiner's family breaks silence as son Nick faces court for murder charges <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma7p76exun2s" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-18 07:23:12)</span><span style="padding-right:50px;">As the Brown University investigation entered its fifth day, authorities have so far been unable to identify a person of interest in the deadly shooting.  Police are looking to identify someone who could have been in the proximity of the person of interest and may have information. cbsn.ws/3KDqWWV <a href="https://bsky.app/profile/cbsnews.com/post/3ma7p73trvl2a" target="_blank">cbsnews.com</a> (2025-12-18 07:23:11)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.62 (🔺0.87 : 2025-12-17)</span>
+<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.60 (🔺0.85 : 2025-12-17)</span>
   </div>
 </div>
 
@@ -32,104 +32,103 @@
 
 ## News Headlines
 
-1. SBI New Bank to Reduce Mortgage Interest by Equivalent of 3 Months' Worth as a One-Time Gift to Celebrate its Listing
-2. EU Parliament Approves Plan to Gradually Reduce Russian Gas Imports to Zero by 2027
-3. US Collects $1 Billion in Tariff Revenue After Scrapping Exemption on Low-Value Packages
-4. Nigeria's Tinubu Seeks $30 Billion Budget Reset to End Overlapping Fiscal Years
-5. Trump's White House Ballroom Projected to Cost $400 Million, Double the Initial Estimate
-6. Ukraine Faces Pressure on Battlefield and Negotiating Table, but Underwater It Appears to Be a Growing Threat to Russia
+Here are six news headlines in English:
+
+1. Mexico and Brazil Urge Caution Amid US-Venezuela Tensions
+2. D.C. United Acquire All-Star Striker Tai Baribo from Union
+3. Ukrainian President Warns of Year of War as Russia Prepares for New Conflict
+4. Trump Seemingly Confirms FBI Deputy Director Dan Bongino's Departure
+5. US Collects $1 Billion in Tariff Revenue Since Ending Exemption on Low-Value Packages
+6. Trump's White House Ballroom Projected to Cost $400 Million, Double Initial Estimate
 
 ----
 
-@sokuho.news
+@japan.reuters.com
 
-🛎️産経より【独自】です。
+メキシコのシェインバウム大統領とブラジルのルラ大統領が１７日、米国とベネズエラの緊張が高まっている事態について、自制と対話を強く呼びかけた。 bit.ly/4oWCnad
 
-＜独自＞SBI新生銀、抽選で住宅ローン3カ月分の金利相当額を還元へ 新規上場を記念
-(2025/12/18 06:00) #ニュース
-https://www.sankei.com/article/20251218-P6DDMI5VQ5PKBHTPFSVOJDQSQ4/
-
-[2025-12-18 07:08:54](https://bsky.app/profile/sokuho.news/post/3ma7ofl7hmt2e)
+[2025-12-18 07:27:12](https://bsky.app/profile/japan.reuters.com/post/3ma7pgceytt2q)
 
 ---
 
 @reuters.com
 
-India v South Africa T20 game in Lucknow called off due to fog reut.rs/4j5hY19
+D.C. United acquire All-Star striker Tai Baribo from Union reut.rs/3KCn74f
 
-[2025-12-18 07:05:14](https://bsky.app/profile/reuters.com/post/3ma7o6zeqla2r)
+[2025-12-18 07:25:30](https://bsky.app/profile/reuters.com/post/3ma7pdaemyl2b)
 
 ---
 
-@japan.reuters.com
+@nytimes.com
 
-欧州連合（ＥＵ）欧州議会は１７日、ロシア産天然ガス輸入を段階的に縮小して２０２７年中にゼロにする計画を賛成多数で承認した。今後加盟各国の閣僚が承認すれば正式に発効する。 bit.ly/45h71DZ
+Pips is a logic puzzle where players must arrange a set of dominoes to meet the conditions of the board to win. There are three new puzzles each day — can you beat them all? nyti.ms/4qcr929
 
-[2025-12-18 07:03:10](https://bsky.app/profile/japan.reuters.com/post/3ma7o3db4od27)
+[2025-12-18 07:25:05](https://bsky.app/profile/nytimes.com/post/3ma7pcjd3vk2y)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Rob Reiner's family breaks silence as son Nick faces court for murder charges
+
+[2025-12-18 07:23:12](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma7p76exun2s)
+
+---
+
+@cbsnews.com
+
+As the Brown University investigation entered its fifth day, authorities have so far been unable to identify a person of interest in the deadly shooting.
+
+Police are looking to identify someone who could have been in the proximity of the person of interest and may have information. cbsn.ws/3KDqWWV
+
+[2025-12-18 07:23:11](https://bsky.app/profile/cbsnews.com/post/3ma7p73trvl2a)
 
 ---
 
 @cnn.com
 
-The US government has collected $1 billion in de minimis tariff revenue since rolling back the exemption on low-value packages this spring, according to new data that Customs and Border Protection shared exclusively with CNN. https://cnn.it/4s4a649
+Rob and Michele Reiner died from "multiple sharp force injuries," according to new records from the Los Angeles County Medical Examiner listing their cause of death. https://cnn.it/4j6l6Kr
 
-[2025-12-18 07:02:02](https://bsky.app/profile/cnn.com/post/3ma7nzciv3c2k)
+[2025-12-18 07:21:52](https://bsky.app/profile/cnn.com/post/3ma7p4qzyqs2k)
+
+---
+
+@nbcnews.com
+
+The families of two teenage boys who died by suicide file a lawsuit against Meta, alleging that the tech company has ignored the rising danger of sexual blackmail schemes targeting teens on Instagram.
+
+[2025-12-18 07:20:10](https://bsky.app/profile/nbcnews.com/post/3ma7ozpopo62p)
 
 ---
 
 @reuters.com
 
-Nigeria's Tinubu seeks $30 billion budget reset to end overlapping fiscal years reut.rs/4iZPe9Y
+Poland’s financial watchdog takes legal steps over suspected market abuse in Energa shares reut.rs/4oWBvSZ
 
-[2025-12-18 07:01:46](https://bsky.app/profile/reuters.com/post/3ma7nysiabu2y)
+[2025-12-18 07:15:22](https://bsky.app/profile/reuters.com/post/3ma7or55bas2y)
 
 ---
 
 @nikkei.com
 
-インフレ不安で家計「貯蓄から投資」
+「98円焼きたてパン」で関東攻める　岐阜の「バロー」
 www.nikkei.com/article/DGXZQO...
 
-足元で3％前後のインフレが続くなか、現預金のまま放置しておくと実質的な価値が目減りします。
+店内で焼くインストアベーカリー「北欧倶楽部」は商品の3割が税抜き98円。
 
-9月末の家計金融資産は、株式・投信への資産シフトを反映して現預金比率が5割を割りました。
+パン生地も自前の工場でつくる製造小売りです。おいしさとコスパの両立で「ロピア」など競合に挑みます。
 
-[2025-12-18 07:01:32](https://bsky.app/profile/nikkei.com/post/3ma7nyfrftl2m)
-
----
-
-@apnews.com
-
-The ongoing strike at the Louvre has become a major test of the museum's management.
-
-[2025-12-18 07:00:49](https://bsky.app/profile/apnews.com/post/3ma7nx444j32r)
-
----
-
-@sokuho.news
-
-🛎️文春より【スクープ】です。
-
-《出直し選出馬》「ベッドの利用は？」小川晶・前橋市長「ラブホ釈明集会」で何を語っていた？「出直し選で勝負を」の声に本人は…
-(2025-12-18 07:00) #ニュース
-
-[2025-12-18 07:00:46](https://bsky.app/profile/sokuho.news/post/3ma7nwzxtan2z)
+[2025-12-18 07:15:16](https://bsky.app/profile/nikkei.com/post/3ma7oqx2dpi24)
 
 ---
 
 @washingtonpost.com
 
-While gun-control measures remain a bitter partisan political issue in the United States, they are a common response to mass killings in many countries. https://wapo.st/49aSr3g
+Exclusive: A patchwork of social interactions and a trail of online posts provide a view into Tyler Robinson’s life and his beliefs, a Post examination found.
 
-[2025-12-18 07:00:17](https://bsky.app/profile/washingtonpost.com/post/3ma7nw5q2lj23)
+The Post also reached Robinson, jailed in Utah County, through video calls. 
 
----
-
-@usatoday.com
-
-Trump said the projected cost of his White House ballroom has risen to $400 million, double the initial estimate in July of $200 million.
-
-[2025-12-18 07:00:15](https://bsky.app/profile/usatoday.com/post/3ma7nw3kxtp2t)
+[2025-12-18 07:15:04](https://bsky.app/profile/washingtonpost.com/post/3ma7oqlkwqn24)
 
 ---
 
