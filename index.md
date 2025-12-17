@@ -1,9 +1,9 @@
-# [2025-12-17 13:50 updated](2025_12_17.md)
+# [2025-12-17 14:10 updated](2025_12_17.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">President Donald Trump says he is ordering a blockade of all "sanctioned oil tankers" into Venezuela, ramping up pressure on the country's authoritarian leader Nicolás Maduro. n.pr/48IIyd8 <a href="https://bsky.app/profile/npr.org/post/3ma5tt3gl5224" target="_blank">npr.org</a> (2025-12-17 13:40:37)</span><span style="padding-right:50px;">バンク・オブ・アメリカの月次ファンドマネジャー調査によると、世界の投資家は１２月、過去３年半で最も強気のポジションを組んでいる。マクロ経済環境と政策を巡る楽観論が限界まで高まり、リスク資産への配分が増えた。 bit.ly/4aUh1Xr <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5tsiualf2f" target="_blank">japan.reuters.com</a> (2025-12-17 13:40:17)</span><span style="padding-right:50px;">GSK wins US approval for twice-yearly asthma drug reut.rs/4pKBN0q <a href="https://bsky.app/profile/reuters.com/post/3ma5tshrlri2b" target="_blank">reuters.com</a> (2025-12-17 13:40:16)</span><span style="padding-right:50px;">サッカーのフランス１部、パリ・サンジェルマン（ＰＳＧ）に所属していた同国代表ＦＷキリアン・エムバペの未払い給与などを巡る問題で、パリの裁判所は１６日、ＰＳＧに６０００万ユーロ（約１０９億円）を支払うよう命じた。 bit.ly/4pALjTE <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5trnczfg2c" target="_blank">japan.reuters.com</a> (2025-12-17 13:39:48)</span><span style="padding-right:50px;">調査会社カウンターポイントは１６日、世界のスマートフォン出荷台数は来年に２．１％減少する見込みだと発表した。チップ価格の上昇が需要に影響する可能性が高いためという。 bit.ly/3XZfSpW <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5tjiszkc26" target="_blank">japan.reuters.com</a> (2025-12-17 13:35:15)</span>
+<span style="padding-right:50px;">🔔NHKより【速報 JUST IN】です。  長期金利 10年もの国債利回り1.98%まで上昇 18年半ぶり高水準 (2025-12-17 14:09:01) #ニュース https://news.web.nhk/newsweb/na/na-k10015006501000 <a href="https://bsky.app/profile/sokuho.news/post/3ma5vgodm7j2y" target="_blank">sokuho.news</a> (2025-12-17 14:09:27)</span><span style="padding-right:50px;">上海外国為替市場の人民元相場は１４カ月ぶり高値から小幅に下落している。 bit.ly/4rSkzQ2 <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5vfiru7o2q" target="_blank">japan.reuters.com</a> (2025-12-17 14:08:48)</span><span style="padding-right:50px;">２０２５年末を前に、市場取引がフル稼働する週は今週が最後だ。しかし投資家はまだクリスマス休暇に向けて気を緩めることができない。人工知能（ＡＩ）を巡る不安や財政懸念がお祭り気分を台無しにする恐れがあるからだ。 bit.ly/4q5TWpc <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5v755dwy2c" target="_blank">japan.reuters.com</a> (2025-12-17 14:05:15)</span><span style="padding-right:50px;"> When giving to charity engage your brain, as well as your heart ft.trib.al/ntrk7Rp  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3ma5v3zjkp723" target="_blank">financialtimes.com</a> (2025-12-17 14:03:31)</span><span style="padding-right:50px;"> The worried investor’s guide to 2026 ft.trib.al/VK4CXDd  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3ma5v3zyu642v" target="_blank">financialtimes.com</a> (2025-12-17 14:03:31)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49353.29 (🔻59.90 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3321.00 (🔻25.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.12 (🔺0.37 : 2025-12-17)</span>
+<span style="padding-right:50px;">NIKKEI: 49303.14 (🔻110.05 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3326.00 (🔻20.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.08 (🔺0.33 : 2025-12-17)</span>
   </div>
 </div>
 
@@ -32,93 +32,104 @@
 
 ## News Headlines
 
-1. Trump Orders Blockade of Sanctioned Oil Tankers Leaving, Entering Venezuela
-2. Bank of America Finds Investors Most Bullish in 3.5 Years
-3. GSK Wins US Approval for Twice-Yearly Asthma Drug
-4. PSG Ordered to Pay Mbappe's Unpaid Wages of €6 Million
-5. Smartphone Shipments to Decline 2.1% in 2024, Says Counterpoint Research
-6. Germany's Merz Suggests Peacekeeping Forces Could Defeat Russian Troops in Ukraine
+Here are six news headlines in English:
+
+1. Long-term bond yields surge to 18-year high
+2. US states sue federal government over Trump-era EV subsidies
+3. Australia upgrades inflation forecast, boosting interest rates
+4. Cyberattack on Asurada leaves users' personal data at risk
+5. US President Trump orders blockade of Venezuelan oil tankers
+6. Global smartphone sales to decline 2.1% in 2026, predicts Counterpoint
 
 ----
 
-@npr.org
+@sokuho.news
 
-President Donald Trump says he is ordering a blockade of all "sanctioned oil tankers" into Venezuela, ramping up pressure on the country's authoritarian leader Nicolás Maduro. n.pr/48IIyd8
+<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>長期金利 10年もの国債利回り1.98%まで上昇 18年半ぶり高水準</strong><br><strong>(2025-12-17 14:09:01) #ニュース</strong><br><strong>https://news.web.nhk/newsweb/na/na-k10015006501000</strong>
 
-[2025-12-17 13:40:37](https://bsky.app/profile/npr.org/post/3ma5tt3gl5224)
-
----
-
-@japan.reuters.com
-
-バンク・オブ・アメリカの月次ファンドマネジャー調査によると、世界の投資家は１２月、過去３年半で最も強気のポジションを組んでいる。マクロ経済環境と政策を巡る楽観論が限界まで高まり、リスク資産への配分が増えた。 bit.ly/4aUh1Xr
-
-[2025-12-17 13:40:17](https://bsky.app/profile/japan.reuters.com/post/3ma5tsiualf2f)
-
----
-
-@reuters.com
-
-GSK wins US approval for twice-yearly asthma drug reut.rs/4pKBN0q
-
-[2025-12-17 13:40:16](https://bsky.app/profile/reuters.com/post/3ma5tshrlri2b)
+[2025-12-17 14:09:27](https://bsky.app/profile/sokuho.news/post/3ma5vgodm7j2y)
 
 ---
 
 @japan.reuters.com
 
-サッカーのフランス１部、パリ・サンジェルマン（ＰＳＧ）に所属していた同国代表ＦＷキリアン・エムバペの未払い給与などを巡る問題で、パリの裁判所は１６日、ＰＳＧに６０００万ユーロ（約１０９億円）を支払うよう命じた。 bit.ly/4pALjTE
+上海外国為替市場の人民元相場は１４カ月ぶり高値から小幅に下落している。 bit.ly/4rSkzQ2
 
-[2025-12-17 13:39:48](https://bsky.app/profile/japan.reuters.com/post/3ma5trnczfg2c)
-
----
-
-@japan.reuters.com
-
-調査会社カウンターポイントは１６日、世界のスマートフォン出荷台数は来年に２．１％減少する見込みだと発表した。チップ価格の上昇が需要に影響する可能性が高いためという。 bit.ly/3XZfSpW
-
-[2025-12-17 13:35:15](https://bsky.app/profile/japan.reuters.com/post/3ma5tjiszkc26)
+[2025-12-17 14:08:48](https://bsky.app/profile/japan.reuters.com/post/3ma5vfiru7o2q)
 
 ---
 
 @japan.reuters.com
 
-ドイツのメルツ首相は、米国と欧州がウクライナに提供する停戦後の安全の保証の下で、平和維持部隊がロシア軍を撃退することもあり得るとの見方を示した。まだ遠い将来の可能性だとも強調した。独公共放送ＺＤＦのインタビューで述べた。 bit.ly/492hLat
+２０２５年末を前に、市場取引がフル稼働する週は今週が最後だ。しかし投資家はまだクリスマス休暇に向けて気を緩めることができない。人工知能（ＡＩ）を巡る不安や財政懸念がお祭り気分を台無しにする恐れがあるからだ。 bit.ly/4q5TWpc
 
-[2025-12-17 13:33:05](https://bsky.app/profile/japan.reuters.com/post/3ma5tfmjoux2c)
+[2025-12-17 14:05:15](https://bsky.app/profile/japan.reuters.com/post/3ma5v755dwy2c)
+
+---
+
+@financialtimes.com
+
+ When giving to charity engage your brain, as well as your heart ft.trib.al/ntrk7Rp  | opinion
+
+[2025-12-17 14:03:31](https://bsky.app/profile/financialtimes.com/post/3ma5v3zjkp723)
+
+---
+
+@financialtimes.com
+
+ The worried investor’s guide to 2026 ft.trib.al/VK4CXDd  | opinion
+
+[2025-12-17 14:03:31](https://bsky.app/profile/financialtimes.com/post/3ma5v3zyu642v)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-大阪 クリニック放火事件から4年 遺族などが犠牲者悼む
-https://news.web.nhk/newsweb/na/na-k10015006441000
+【きょうのおはBiz12月17日(水)】新宿駅再開発 鉄道各社が連携
+https://news.web.nhk/newsweb/na/na-k10015006231000
 
-[2025-12-17 13:33:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma5tfkywsh2m)
-
----
-
-@cnn.com
-
-A federal judge indicated that he won’t order President Donald Trump to immediately stop work on the massive new White House ballroom. 
-
-[2025-12-17 13:31:01](https://bsky.app/profile/cnn.com/post/3ma5tbwhflo2u)
+[2025-12-17 14:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma5v3bcyhc2d)
 
 ---
 
-@apnews.com
+@japan.reuters.com
 
-With harrowing expressions of grief and declarations of faith, hundreds of mourners gathered in Sydney on Wednesday to begin funerals for the victims of an antisemitic mass shooting in which gunmen targeted Jews celebrating Hanukkah.
+米国の１６州と首都ワシントンＤＣは１６日、トランプ政権が電気自動車（ＥＶ）充電インフラ向けの２つの助成金制度を停止したのは違法だとして、連邦政府を提訴した。 bit.ly/49h0Dz2
 
-[2025-12-17 13:30:47](https://bsky.app/profile/apnews.com/post/3ma5tbizab62k)
+[2025-12-17 14:02:23](https://bsky.app/profile/japan.reuters.com/post/3ma5uzz2bvg22)
+
+---
+
+@japan.reuters.com
+
+オーストラリア政府は１７日発表した２０２５／２６年度（２５年７月─２６年６月）の中間経済・財政見通しで、インフレ見通しを大幅に引き上げた。歳出は当初の想定を上回る見通しで、物価上昇圧力への対応は金融政策に委ねられることになる。 bit.ly/48Zgb9o
+
+[2025-12-17 14:01:34](https://bsky.app/profile/japan.reuters.com/post/3ma5uykqh3226)
+
+---
+
+@nikkei.com
+
+アスクル社長が語ったサイバー攻撃の内幕　なぜ防げなかったのか
+www.nikkei.com/article/DGXZQO...
+
+「攻撃者は6月にいったんシステムに侵入し、攻撃を受けた10月19日まで潜伏していた」と日本経済新聞の取材に話しました。
+
+サイバー攻撃後には吉岡晃社長をかたったメールが、「社内で高い権限を持っていると攻撃者が推測したとみられる数人」に届いたといいます。
+
+再発防止策を講じたうえで「個人向け通販『LOHACO』を2026年1月にも再開する」と明らかにしました。
+
+#ニュース
+
+[2025-12-17 14:01:15](https://bsky.app/profile/nikkei.com/post/3ma5uxykmhx2m)
 
 ---
 
 @reuters.com
 
-Trump orders 'blockade' of sanctioned oil tankers leaving, entering Venezuela reut.rs/3MHHY6G
+Petrobras enters Brazil solar energy segment in deal for 49.99% of Lightsource bp subsidiaries reut.rs/4agIanh
 
-[2025-12-17 13:30:33](https://bsky.app/profile/reuters.com/post/3ma5tb3i36a2p)
+[2025-12-17 14:00:51](https://bsky.app/profile/reuters.com/post/3ma5uxbpzhd2b)
 
 ---
 
