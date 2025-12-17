@@ -1,9 +1,9 @@
-# [2025-12-17 14:10 updated](2025_12_17.md)
+# [2025-12-17 14:30 updated](2025_12_17.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🔔NHKより【速報 JUST IN】です。  長期金利 10年もの国債利回り1.98%まで上昇 18年半ぶり高水準 (2025-12-17 14:09:01) #ニュース https://news.web.nhk/newsweb/na/na-k10015006501000 <a href="https://bsky.app/profile/sokuho.news/post/3ma5vgodm7j2y" target="_blank">sokuho.news</a> (2025-12-17 14:09:27)</span><span style="padding-right:50px;">上海外国為替市場の人民元相場は１４カ月ぶり高値から小幅に下落している。 bit.ly/4rSkzQ2 <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5vfiru7o2q" target="_blank">japan.reuters.com</a> (2025-12-17 14:08:48)</span><span style="padding-right:50px;">２０２５年末を前に、市場取引がフル稼働する週は今週が最後だ。しかし投資家はまだクリスマス休暇に向けて気を緩めることができない。人工知能（ＡＩ）を巡る不安や財政懸念がお祭り気分を台無しにする恐れがあるからだ。 bit.ly/4q5TWpc <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5v755dwy2c" target="_blank">japan.reuters.com</a> (2025-12-17 14:05:15)</span><span style="padding-right:50px;"> When giving to charity engage your brain, as well as your heart ft.trib.al/ntrk7Rp  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3ma5v3zjkp723" target="_blank">financialtimes.com</a> (2025-12-17 14:03:31)</span><span style="padding-right:50px;"> The worried investor’s guide to 2026 ft.trib.al/VK4CXDd  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3ma5v3zyu642v" target="_blank">financialtimes.com</a> (2025-12-17 14:03:31)</span>
+<span style="padding-right:50px;">Mourners gathered in Sydney on Wednesday as the first funerals began for some of the 15 people killed in Australia’s worst mass shooting in almost three decades. https://cnn.it/48IH0jk <a href="https://bsky.app/profile/cnn.com/post/3ma5wjnpev72o" target="_blank">cnn.com</a> (2025-12-17 14:29:02)</span><span style="padding-right:50px;">＜１４：１５＞　後場の日経平均は一時マイナス圏、主力株がさえない bit.ly/3MHhZML <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5weuclsl2n" target="_blank">japan.reuters.com</a> (2025-12-17 14:26:21)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】日本郵便の不適切点呼問題 丸亀郵便局など香川・高知の4カ所の郵便局に一部車両使用停止処分 (2025-12-17 14:20) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma5wdndy5p2b" target="_blank">sokuho.news</a> (2025-12-17 14:25:40)</span><span style="padding-right:50px;">Monzo shareholders push to oust chair in revolt over CEO’s exit ft.trib.al/2p5SdwV <a href="https://bsky.app/profile/financialtimes.com/post/3ma5w7ytvk22w" target="_blank">financialtimes.com</a> (2025-12-17 14:23:38)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】メンズエステで14歳の女子中学生を働かせ不特定の男性客に接する業務させたか 35歳の男を逮捕＝静岡県警 (2025-12-17 13:51:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma5w5brvel2z" target="_blank">sokuho.news</a> (2025-12-17 14:22:06)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49303.14 (🔻110.05 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3326.00 (🔻20.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.08 (🔺0.33 : 2025-12-17)</span>
+<span style="padding-right:50px;">NIKKEI: 49369.73 (🔻43.46 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3325.00 (🔻21.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.09 (🔺0.34 : 2025-12-17)</span>
   </div>
 </div>
 
@@ -32,104 +32,104 @@
 
 ## News Headlines
 
-Here are six news headlines in English:
+Here are six important stories with headlines:
 
-1. Long-term bond yields surge to 18-year high
-2. US states sue federal government over Trump-era EV subsidies
-3. Australia upgrades inflation forecast, boosting interest rates
-4. Cyberattack on Asurada leaves users' personal data at risk
-5. US President Trump orders blockade of Venezuelan oil tankers
-6. Global smartphone sales to decline 2.1% in 2026, predicts Counterpoint
+1. Australia Mourns After Worst Mass Shooting in Almost Three Decades
+2. Japanese Post Office Employee Arrested for Allegedly Forcing 14-Year-Old Girl to Interact with Male Customers
+3. US CDC Abandons Universal Hepatitis B Vaccination for Newborns
+4. Ford Motor Reports $19.5 Billion Write-Down on Electric Vehicle Business
+5. European Union Reverses Plan to Ban Internal Combustion Engine Cars
+6. Petrobras Enters Brazilian Solar Energy Market with Deal for 49.99% Stake in Lightsource bp Subsidiaries
 
 ----
 
+@cnn.com
+
+Mourners gathered in Sydney on Wednesday as the first funerals began for some of the 15 people killed in Australia’s worst mass shooting in almost three decades. https://cnn.it/48IH0jk
+
+[2025-12-17 14:29:02](https://bsky.app/profile/cnn.com/post/3ma5wjnpev72o)
+
+---
+
+@japan.reuters.com
+
+＜１４：１５＞　後場の日経平均は一時マイナス圏、主力株がさえない bit.ly/3MHhZML
+
+[2025-12-17 14:26:21](https://bsky.app/profile/japan.reuters.com/post/3ma5weuclsl2n)
+
+---
+
 @sokuho.news
 
-<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>長期金利 10年もの国債利回り1.98%まで上昇 18年半ぶり高水準</strong><br><strong>(2025-12-17 14:09:01) #ニュース</strong><br><strong>https://news.web.nhk/newsweb/na/na-k10015006501000</strong>
+🛎️FNNより【速報】です。
 
-[2025-12-17 14:09:27](https://bsky.app/profile/sokuho.news/post/3ma5vgodm7j2y)
+【速報】日本郵便の不適切点呼問題 丸亀郵便局など香川・高知の4カ所の郵便局に一部車両使用停止処分
+(2025-12-17 14:20) #ニュース
 
----
-
-@japan.reuters.com
-
-上海外国為替市場の人民元相場は１４カ月ぶり高値から小幅に下落している。 bit.ly/4rSkzQ2
-
-[2025-12-17 14:08:48](https://bsky.app/profile/japan.reuters.com/post/3ma5vfiru7o2q)
-
----
-
-@japan.reuters.com
-
-２０２５年末を前に、市場取引がフル稼働する週は今週が最後だ。しかし投資家はまだクリスマス休暇に向けて気を緩めることができない。人工知能（ＡＩ）を巡る不安や財政懸念がお祭り気分を台無しにする恐れがあるからだ。 bit.ly/4q5TWpc
-
-[2025-12-17 14:05:15](https://bsky.app/profile/japan.reuters.com/post/3ma5v755dwy2c)
+[2025-12-17 14:25:40](https://bsky.app/profile/sokuho.news/post/3ma5wdndy5p2b)
 
 ---
 
 @financialtimes.com
 
- When giving to charity engage your brain, as well as your heart ft.trib.al/ntrk7Rp  | opinion
+Monzo shareholders push to oust chair in revolt over CEO’s exit ft.trib.al/2p5SdwV
 
-[2025-12-17 14:03:31](https://bsky.app/profile/financialtimes.com/post/3ma5v3zjkp723)
+[2025-12-17 14:23:38](https://bsky.app/profile/financialtimes.com/post/3ma5w7ytvk22w)
 
 ---
 
-@financialtimes.com
+@sokuho.news
 
- The worried investor’s guide to 2026 ft.trib.al/VK4CXDd  | opinion
+🛎️JNNより【速報】です。
 
-[2025-12-17 14:03:31](https://bsky.app/profile/financialtimes.com/post/3ma5v3zyu642v)
+【速報】メンズエステで14歳の女子中学生を働かせ不特定の男性客に接する業務させたか 35歳の男を逮捕＝静岡県警
+(2025-12-17 13:51:00) #ニュース
+
+[2025-12-17 14:22:06](https://bsky.app/profile/sokuho.news/post/3ma5w5brvel2z)
+
+---
+
+@sokuho.news
+
+🛎️ANNより【速報】です。
+
+【速報】道央道でバス炎上 乗客・乗員は避難して無事 北海道千歳市
+(2025-12-17 13:59:17) #ニュース
+
+[2025-12-17 14:21:13](https://bsky.app/profile/sokuho.news/post/3ma5w3op6fs2b)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-【きょうのおはBiz12月17日(水)】新宿駅再開発 鉄道各社が連携
-https://news.web.nhk/newsweb/na/na-k10015006231000
+蚊の駆除スプレー訴訟 東京地裁 特許侵害認めず訴え退ける
+https://news.web.nhk/newsweb/na/na-k10015006461000
 
-[2025-12-17 14:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma5v3bcyhc2d)
-
----
-
-@japan.reuters.com
-
-米国の１６州と首都ワシントンＤＣは１６日、トランプ政権が電気自動車（ＥＶ）充電インフラ向けの２つの助成金制度を停止したのは違法だとして、連邦政府を提訴した。 bit.ly/49h0Dz2
-
-[2025-12-17 14:02:23](https://bsky.app/profile/japan.reuters.com/post/3ma5uzz2bvg22)
+[2025-12-17 14:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma5w3g42a72u)
 
 ---
 
 @japan.reuters.com
 
-オーストラリア政府は１７日発表した２０２５／２６年度（２５年７月─２６年６月）の中間経済・財政見通しで、インフレ見通しを大幅に引き上げた。歳出は当初の想定を上回る見通しで、物価上昇圧力への対応は金融政策に委ねられることになる。 bit.ly/48Zgb9o
+前場の中国・香港株式市場は３営業日ぶりに反発。投資家は来年の米連邦準備理事会（ＦＲＢ）の政策見通しについて手掛かりを得ようと、政府機関閉鎖の影響で遅れて発表された米経済指標を精査した。 bit.ly/4pOcs5Q
 
-[2025-12-17 14:01:34](https://bsky.app/profile/japan.reuters.com/post/3ma5uykqh3226)
+[2025-12-17 14:20:48](https://bsky.app/profile/japan.reuters.com/post/3ma5w2wr7t62c)
 
 ---
 
-@nikkei.com
+@japan.reuters.com
 
-アスクル社長が語ったサイバー攻撃の内幕　なぜ防げなかったのか
-www.nikkei.com/article/DGXZQO...
+米通商代表部（ＵＳＴＲ）は１６日、欧州連合（ＥＵ）が米国のサービス企業に対する「差別的」行為を続けた場合、ＥＵサービス企業に手数料課金や外国サービスの制限など幅広い対抗措置を取ると警告した。 bit.ly/4s1QwFI
 
-「攻撃者は6月にいったんシステムに侵入し、攻撃を受けた10月19日まで潜伏していた」と日本経済新聞の取材に話しました。
-
-サイバー攻撃後には吉岡晃社長をかたったメールが、「社内で高い権限を持っていると攻撃者が推測したとみられる数人」に届いたといいます。
-
-再発防止策を講じたうえで「個人向け通販『LOHACO』を2026年1月にも再開する」と明らかにしました。
-
-#ニュース
-
-[2025-12-17 14:01:15](https://bsky.app/profile/nikkei.com/post/3ma5uxykmhx2m)
+[2025-12-17 14:20:18](https://bsky.app/profile/japan.reuters.com/post/3ma5vzzy7h52v)
 
 ---
 
 @reuters.com
 
-Petrobras enters Brazil solar energy segment in deal for 49.99% of Lightsource bp subsidiaries reut.rs/4agIanh
+US CDC ends guidance that all newborns should get hepatitis B vaccine, in major policy shift reut.rs/4oZm3W3
 
-[2025-12-17 14:00:51](https://bsky.app/profile/reuters.com/post/3ma5uxbpzhd2b)
+[2025-12-17 14:20:14](https://bsky.app/profile/reuters.com/post/3ma5vzwkgz52c)
 
 ---
 
