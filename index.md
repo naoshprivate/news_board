@@ -1,9 +1,9 @@
-# [2025-12-18 05:50 updated](2025_12_18.md)
+# [2025-12-18 06:10 updated](2025_12_18.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">More owners are giving the greenlight to upgrades that boost the value of their rental property. on.wsj.com/4s4bT9n <a href="https://bsky.app/profile/wsj.com/post/3ma7jvahnbk23" target="_blank">wsj.com</a> (2025-12-18 05:48:11)</span><span style="padding-right:50px;">アサヒグループHD 東アフリカの酒造事業買収を発表 英大手から https://news.web.nhk/newsweb/na/na-k10015006981000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma7jv734ox2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 05:48:08)</span><span style="padding-right:50px;">安倍元首相銃撃事件の裁判 きょう検察が山上被告に求刑へ https://news.web.nhk/newsweb/na/na-k10015006901000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma7jv26kw52w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 05:48:02)</span><span style="padding-right:50px;">The Oscars will be shown only on YouTube from 2029, the Academy said Wednesday, in a radical gambit for a movie industry that remains wary of streaming platforms even as viewing habits shift online.  u.afp.com/S7v6 <a href="https://bsky.app/profile/en.afp.com/post/3ma7jrepfcs2f" target="_blank">en.afp.com</a> (2025-12-18 05:46:01)</span><span style="padding-right:50px;">Gunmen kidnap 13 worshippers in central Nigeria church attack reut.rs/4qjkAuY <a href="https://bsky.app/profile/reuters.com/post/3ma7jq3mchj2i" target="_blank">reuters.com</a> (2025-12-18 05:45:18)</span>
+<span style="padding-right:50px;">性的ディープフェイク 半数余りが同級生らが作成 警察庁まとめ https://news.web.nhk/newsweb/na/na-k10015006881000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma7l2lcf3n2l" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 06:09:02)</span><span style="padding-right:50px;">The Bird’s Nest is home to a community of women, all older than 60. They broadly agree that, at this age, women are easier long-term companions than men. On Modern Love, two residents describe what it feels like to grow older together with the support of other women. nyti.ms/49iIGQE <a href="https://bsky.app/profile/nytimes.com/post/3ma7kyt5h5u2b" target="_blank">nytimes.com</a> (2025-12-18 06:08:05)</span><span style="padding-right:50px;">東京電力 柏崎刈羽原発6号機 来年1月20日ごろ軸に再稼働で検討 https://news.web.nhk/newsweb/na/na-k10015007001000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma7kv7htbd2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 06:06:02)</span><span style="padding-right:50px;">Tankers carrying Venezuela's oil byproducts depart from largest port, data says reut.rs/3XWY4Mh <a href="https://bsky.app/profile/reuters.com/post/3ma7ktrpzni2c" target="_blank">reuters.com</a> (2025-12-18 06:05:16)</span><span style="padding-right:50px;">フィンランド首相が謝罪 国会議員の“つり目”写真投稿問題で https://news.web.nhk/newsweb/na/na-k10015007031000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma7kpuancv2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 06:03:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 47920.45 (🔻207.60 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22746.01 (🔻389.60 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 171.34 (🔻4.76 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.68 (🔺0.93 : 2025-12-17)</span>
+<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.72 (🔺0.97 : 2025-12-17)</span>
   </div>
 </div>
 
@@ -32,99 +32,104 @@
 
 ## News Headlines
 
-Here are six important stories with headlines:
+Here are six important stories with headlines in English:
 
-1. NASA Names Jared Isaacman as New Administrator After Senate Confirmation
-2. Russia's Putin Pledges to Expand 'Security Buffer' in Ukraine
-3. Trump Administration Proposes Donations to Supplement Newborn Stock Market Accounts
-4. US Postal Service Seeks New Delivery Revenue to Avoid 2027 Cash Crunch
-5. Putin Claims Europe is Aiding Ukraine's Security Threat
-6. China Supports Venezuela, Opposes 'Unilateral Bullying' by Other Nations
+1. Deepfake Sex Videos Created by Classmates Account for Most of Japan's Cases
+2. Tokyo Electric Power Company Considers Restarting Kashiwazaki-Kariwa Nuclear Power Plant in January 2024
+3. Finland's Prime Minister Apologizes for Posting Unflattering Photos of Parliamentarians
+4. Rare Polar Bear Adoption Captured on Camera in Northern Canada
+5. BlackRock to Match Government Contributions to 'Trump Accounts' for Employees
+6. Federal Appeals Court Rules National Guard Troops Can Remain in Washington D.C.
 
 ----
 
-@wsj.com
-
-More owners are giving the greenlight to upgrades that boost the value of their rental property. on.wsj.com/4s4bT9n
-
-[2025-12-18 05:48:11](https://bsky.app/profile/wsj.com/post/3ma7jvahnbk23)
-
----
-
 @nhknewsunofficial.bsky.social
 
-アサヒグループHD 東アフリカの酒造事業買収を発表 英大手から
-https://news.web.nhk/newsweb/na/na-k10015006981000
+性的ディープフェイク 半数余りが同級生らが作成 警察庁まとめ
+https://news.web.nhk/newsweb/na/na-k10015006881000
 
-[2025-12-18 05:48:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma7jv734ox2b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-安倍元首相銃撃事件の裁判 きょう検察が山上被告に求刑へ
-https://news.web.nhk/newsweb/na/na-k10015006901000
-
-[2025-12-18 05:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma7jv26kw52w)
-
----
-
-@en.afp.com
-
-The Oscars will be shown only on YouTube from 2029, the Academy said Wednesday, in a radical gambit for a movie industry that remains wary of streaming platforms even as viewing habits shift online.
-
-u.afp.com/S7v6
-
-[2025-12-18 05:46:01](https://bsky.app/profile/en.afp.com/post/3ma7jrepfcs2f)
-
----
-
-@reuters.com
-
-Gunmen kidnap 13 worshippers in central Nigeria church attack reut.rs/4qjkAuY
-
-[2025-12-18 05:45:18](https://bsky.app/profile/reuters.com/post/3ma7jq3mchj2i)
-
----
-
-@washingtonpost.com
-
-Nick Reiner made his first court appearance in a jail suicide-prevention smock on Wednesday, a day after he was charged with fatally stabbing his parents, filmmaker Rob Reiner and photographer Michele Singer Reiner. 
-
-
-[2025-12-18 05:45:05](https://bsky.app/profile/washingtonpost.com/post/3ma7jpox7ap24)
+[2025-12-18 06:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma7l2lcf3n2l)
 
 ---
 
 @nytimes.com
 
-Forget those bland treats of yore: These tips make holiday cookies delicious and foolproof for anyone.
+The Bird’s Nest is home to a community of women, all older than 60. They broadly agree that, at this age, women are easier long-term companions than men. On Modern Love, two residents describe what it feels like to grow older together with the support of other women. nyti.ms/49iIGQE
 
-[2025-12-18 05:43:03](https://bsky.app/profile/nytimes.com/post/3ma7jm2m3pb2z)
+[2025-12-18 06:08:05](https://bsky.app/profile/nytimes.com/post/3ma7kyt5h5u2b)
 
 ---
 
-@japan.reuters.com
+@nhknewsunofficial.bsky.social
 
-米連邦準備理事会（ＦＲＢ）のウォラー理事は１７日、トランプ米大統領がＦＲＢの独立性に異議を唱えた場合、「絶対に」ＦＲＢの独立性を擁護すると述べた。ウォラー氏はＦＲＢの次期議長候補に名前が挙がっており、トランプ大統領が１７日に面接するとみられている。 bit.ly/4p12Cw6
+東京電力 柏崎刈羽原発6号機 来年1月20日ごろ軸に再稼働で検討
+https://news.web.nhk/newsweb/na/na-k10015007001000
 
-[2025-12-18 05:40:34](https://bsky.app/profile/japan.reuters.com/post/3ma7jhm75x62s)
+[2025-12-18 06:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma7kv7htbd2u)
 
 ---
 
 @reuters.com
 
-Boost, Overtake and Recharge; F1 announces new terms for 2026 reut.rs/3KAbmeE
+Tankers carrying Venezuela's oil byproducts depart from largest port, data says reut.rs/3XWY4Mh
 
-[2025-12-18 05:40:28](https://bsky.app/profile/reuters.com/post/3ma7jhgcpm32r)
+[2025-12-18 06:05:16](https://bsky.app/profile/reuters.com/post/3ma7ktrpzni2c)
 
 ---
 
-@nbcnews.com
+@nhknewsunofficial.bsky.social
 
-Billionaire entrepreneur Jared Isaacman has been confirmed by the Senate to be the new head of NASA, marking the end of a dramatic saga that began more than a year ago.
+フィンランド首相が謝罪 国会議員の“つり目”写真投稿問題で
+https://news.web.nhk/newsweb/na/na-k10015007031000
 
-[2025-12-18 05:40:15](https://bsky.app/profile/nbcnews.com/post/3ma7jh2ibce2k)
+[2025-12-18 06:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma7kpuancv2k)
+
+---
+
+@cbsnews.com
+
+Researchers in northern Canada have observed a rare case of polar bear adoption, capturing video footage of a wild female bear caring for a cub that was not her own.
+
+
+
+[2025-12-18 06:02:01](https://bsky.app/profile/cbsnews.com/post/3ma7kny5hg32a)
+
+---
+
+@wsj.com
+
+James Cameron returns to Pandora in a 3-hour-plus visual spectacle that offers little in the way of compelling drama. on.wsj.com/3KWK2Y3
+
+[2025-12-18 06:01:39](https://bsky.app/profile/wsj.com/post/3ma7kndg2ax2h)
+
+---
+
+@reuters.com
+
+Strike at Brazil's Petrobras reaches all oil platforms in Campos basin reut.rs/4q7h5Y8
+
+[2025-12-18 06:01:16](https://bsky.app/profile/reuters.com/post/3ma7kmnf6sg2i)
+
+---
+
+@nikkei.com
+
+1位｢Python｣年収700万円超え　プログラミング言語利用実態調査
+www.nikkei.com/article/DGXZQO...
+
+Pythonのように大人気の言語がある一方で、ITエンジニアが利用したくないと考えている言語もあります。
+
+いわば、プログラミング言語の不人気ランキングです。
+
+[2025-12-18 06:01:15](https://bsky.app/profile/nikkei.com/post/3ma7kmlsj7x2f)
+
+---
+
+@japan.reuters.com
+
+トランプ米大統領が南米ベネズエラへの圧力を強める中、中国の王毅外相が１７日、ベネズエラのヒル外相と電話会談を行った。王外相は、中国は「一方的ないじめ行為」に反対し、各国が自国の主権を守ることを支持するとヒル外相に伝えた。中国外務省が声明で明らかにした。 bit.ly/4sakVBV
+
+[2025-12-18 06:00:56](https://bsky.app/profile/japan.reuters.com/post/3ma7klzy5n62p)
 
 ---
 
