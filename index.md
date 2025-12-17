@@ -1,9 +1,9 @@
-# [2025-12-18 00:30 updated](2025_12_18.md)
+# [2025-12-18 00:50 updated](2025_12_18.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">From @theathletic.com: If you’re an undecided college football fan still looking for someone to root for over the next month, let us help you out. Here’s our bandwagon guide, ranked from least to most deserving teams. <a href="https://bsky.app/profile/nytimes.com/post/3ma6xx3zzth2b" target="_blank">nytimes.com</a> (2025-12-18 00:27:06)</span><span style="padding-right:50px;">LATEST: Rebelling against their leaders, four House Republicans sign onto a “discharge petition,” giving Democrats the 218 signatures needed to force a vote on a three-year extension of the Obamacare subsidies that are set to expire for millions of Americans on Dec. 31. <a href="https://bsky.app/profile/nbcnews.com/post/3ma6xwwuh2c24" target="_blank">nbcnews.com</a> (2025-12-18 00:27:01)</span><span style="padding-right:50px;">What is Islamic State, the group linked to the Bondi Beach attack? reut.rs/4p0XMPk <a href="https://bsky.app/profile/reuters.com/post/3ma6xtrazrf2b" target="_blank">reuters.com</a> (2025-12-18 00:25:14)</span><span style="padding-right:50px;">Ray Dalio joins Michael Dell in backing 'Trump accounts' for kids, per program's website <a href="https://bsky.app/profile/cnbc.com/post/3ma6xpvdhfn23" target="_blank">cnbc.com</a> (2025-12-18 00:23:04)</span><span style="padding-right:50px;">The Justice Department indicted Adderall startup Done Global a month after its founder and top doctor were both convicted for a conspiracy to distribute controlled substances. <a href="https://bsky.app/profile/wsj.com/post/3ma6xnvbvoq2h" target="_blank">wsj.com</a> (2025-12-18 00:21:57)</span>
+<span style="padding-right:50px;">How did you do in Connections today? Players must select four groups of four words without making more than three mistakes. nyti.ms/48YpeqS <a href="https://bsky.app/profile/nytimes.com/post/3ma6z6cqeik2x" target="_blank">nytimes.com</a> (2025-12-18 00:49:02)</span><span style="padding-right:50px;">BREAKING: Four Republicans defy Speaker Johnson and sign Democratic petition that will force House vote on extending ACA subsidies. <a href="https://bsky.app/profile/apnews.com/post/3ma6yxrnqi42n" target="_blank">apnews.com</a> (2025-12-18 00:45:23)</span><span style="padding-right:50px;">Italy, France say it's 'premature' to sign EU-Mercosur trade deal reut.rs/44ye37f <a href="https://bsky.app/profile/reuters.com/post/3ma6yxqcthq24" target="_blank">reuters.com</a> (2025-12-18 00:45:21)</span><span style="padding-right:50px;">Trump is good news for Nato, Mark Rutte tells BBC <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma6yqlljxg2b" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-18 00:41:21)</span><span style="padding-right:50px;">Continental picks tyre veteran as CEO to focus on core business reut.rs/4iYHCEO <a href="https://bsky.app/profile/reuters.com/post/3ma6youeylr23" target="_blank">reuters.com</a> (2025-12-18 00:40:23)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48294.38 (🔺166.33 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 23076.32 (🔻59.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 174.41 (🔻1.69 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.47 (🔺0.72 : 2025-12-17)</span>
+<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48121.28 (🔻6.77 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22916.98 (🔻218.63 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 172.52 (🔻3.58 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.45 (🔺0.70 : 2025-12-17)</span>
   </div>
 </div>
 
@@ -32,95 +32,96 @@
 
 ## News Headlines
 
-Here are the six selected headlines:
+Here are the six selected headlines in English:
 
-1. Four House Republicans Rebel Against Leaders, Help Democrats Force Obamacare Subsidy Vote
-2. Poland to Use Anti-Personnel Mines to Beef Up Borders with Belarus and Russia
-3. Maryland Creates Commission to Study Reparations for Slavery After Veto Override
-4. Airbnb Sees 5-Year Slump, Analyst Predicts 2026 Will Be Turning Point
-5. US Imposes Blockade on Russian Sanctioned Tankers, Threatening Rising Naphtha Exports to Venezuela
-6. Professor Fatally Shot at Home Near Boston, Authorities Launch Homicide Investigation
+1. Four Republicans Defy Speaker Johnson, Back Democratic Petition for ACA Subsidies
+2. Italy, France Deem EU-Mercosur Trade Deal 'Premature'
+3. Trump Seen as Good News for NATO, Says Dutch PM Mark Rutte
+4. Tesla Given 90 Days to Comply with Consumer Protection Laws
+5. US Flood Insurance Changes Leave Lower-Income Homeowners Without Coverage
+6. Lithium Prices Surge in China as Local Authorities Revocate Mining Licenses
 
 ----
 
 @nytimes.com
 
-From @theathletic.com: If you’re an undecided college football fan still looking for someone to root for over the next month, let us help you out. Here’s our bandwagon guide, ranked from least to most deserving teams.
+How did you do in Connections today? Players must select four groups of four words without making more than three mistakes. nyti.ms/48YpeqS
 
-[2025-12-18 00:27:06](https://bsky.app/profile/nytimes.com/post/3ma6xx3zzth2b)
+[2025-12-18 00:49:02](https://bsky.app/profile/nytimes.com/post/3ma6z6cqeik2x)
 
 ---
 
-@nbcnews.com
+@apnews.com
 
-LATEST: Rebelling against their leaders, four House Republicans sign onto a “discharge petition,” giving Democrats the 218 signatures needed to force a vote on a three-year extension of the Obamacare subsidies that are set to expire for millions of Americans on Dec. 31.
+<strong><span style="color: red;">BREAKING:</span> Four Republicans defy Speaker Johnson and sign Democratic petition that will force House vote on extending ACA subsidies.</strong>
 
-[2025-12-18 00:27:01](https://bsky.app/profile/nbcnews.com/post/3ma6xwwuh2c24)
+[2025-12-18 00:45:23](https://bsky.app/profile/apnews.com/post/3ma6yxrnqi42n)
 
 ---
 
 @reuters.com
 
-What is Islamic State, the group linked to the Bondi Beach attack? reut.rs/4p0XMPk
+Italy, France say it's 'premature' to sign EU-Mercosur trade deal reut.rs/44ye37f
 
-[2025-12-18 00:25:14](https://bsky.app/profile/reuters.com/post/3ma6xtrazrf2b)
+[2025-12-18 00:45:21](https://bsky.app/profile/reuters.com/post/3ma6yxqcthq24)
 
 ---
 
-@cnbc.com
+@bbcnews-world-rss.bsky.social
 
-Ray Dalio joins Michael Dell in backing 'Trump accounts' for kids, per program's website
+Trump is good news for Nato, Mark Rutte tells BBC
 
-[2025-12-18 00:23:04](https://bsky.app/profile/cnbc.com/post/3ma6xpvdhfn23)
+[2025-12-18 00:41:21](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma6yqlljxg2b)
+
+---
+
+@reuters.com
+
+Continental picks tyre veteran as CEO to focus on core business reut.rs/4iYHCEO
+
+[2025-12-18 00:40:23](https://bsky.app/profile/reuters.com/post/3ma6youeylr23)
+
+---
+
+@nbcnews.com
+
+The year 2025 has been filled with cultural absurdities.
+
+Here’s a full look at NBC News’ list of the biggest cultural moments of 2025.
+
+[2025-12-18 00:40:11](https://bsky.app/profile/nbcnews.com/post/3ma6yoi66qr2d)
 
 ---
 
 @wsj.com
 
-The Justice Department indicted Adderall startup Done Global a month after its founder and top doctor were both convicted for a conspiracy to distribute controlled substances.
+California regulators have given Tesla 90 days to meet compliance after an administrative law judge found the company deceived consumers by falsely implying its cars could drive on their own.
 
-[2025-12-18 00:21:57](https://bsky.app/profile/wsj.com/post/3ma6xnvbvoq2h)
-
----
-
-@reuters.com
-
-Joining a broader regional shift that has seen almost all European countries bordering Russia, with the exception of Norway, announce plans to quit the global treaty banning such weapons, Poland wants to use anti-personnel mines to beef up its borders with Belarus and Russia reut.rs/4afZUiC
-
-[2025-12-18 00:21:11](https://bsky.app/profile/reuters.com/post/3ma6xmjmnpc22)
+[2025-12-18 00:38:04](https://bsky.app/profile/wsj.com/post/3ma6ykpeqtz2h)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@bloomberg.com
 
-小泉防衛相 レーダー照射問題などで英国防相と深刻な懸念共有
-https://news.web.nhk/newsweb/na/na-k10015006941000
+Changes to US government flood insurance have resulted in many lower-income homeowners dropping their coverage, new research finds.
 
-[2025-12-18 00:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma6xmcqvsm2v)
-
----
-
-@financialtimes.com
-
-Varun Chandra out of running for UK ambassador to Washington ft.trib.al/bKNQHSt
-
-[2025-12-18 00:20:55](https://bsky.app/profile/financialtimes.com/post/3ma6xlzqcdp25)
+[2025-12-18 00:35:58](https://bsky.app/profile/bloomberg.com/post/3ma6ygxa4qn2e)
 
 ---
 
-@opinion.bloomberg.com
+@npr.org
 
-Why has Congress found it harder and harder to get anything done? This simple 2x2 matrix can explain: bit.ly/4j5orcw
+Discover a broad range of this year's most compelling classical recordings, including symphonic booty-shakers, mystic violin, pipe organ prog and a guided tour of 18th century German chart-toppers. n.pr/4s22YVY
 
-[2025-12-18 00:20:49](https://bsky.app/profile/opinion.bloomberg.com/post/3ma6xltuo7s2o)
+[2025-12-18 00:35:26](https://bsky.app/profile/npr.org/post/3ma6yfymlu22p)
 
 ---
 
-@nbcnews.com
+@cnn.com
 
-Maryland will create a commission to study potential reparations for slavery after lawmakers voted to override a veto by Gov. Wes Moore, currently the nation's only Black governor, that disappointed many fellow Democrats.
+In a stunning blow to Speaker Mike Johnson, four GOP lawmakers have agreed to back a Democratic push to extend pandemic-era Obamacare subsidies. https://cnn.it/48HCNwa
 
-[2025-12-18 00:20:09](https://bsky.app/profile/nbcnews.com/post/3ma6xknrkms24)
+[2025-12-18 00:35:19](https://bsky.app/profile/cnn.com/post/3ma6yfs3vrg22)
 
 ---
 
