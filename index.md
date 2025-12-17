@@ -1,9 +1,9 @@
-# [2025-12-18 02:30 updated](2025_12_18.md)
+# [2025-12-18 02:50 updated](2025_12_18.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Medical supply firm Medline set to debut after biggest IPO of 2025 <a href="https://bsky.app/profile/cnbc.com/post/3ma76n6psgy2b" target="_blank">cnbc.com</a> (2025-12-18 02:26:50)</span><span style="padding-right:50px;">The House of Representatives is bitterly divided.   New data show that after decades of pulling apart, Democrats and Republicans now present almost exactly inverse images of each other.  Read the analysis: bit.ly/3KzONqs <a href="https://bsky.app/profile/opinion.bloomberg.com/post/3ma76lmnqsc2u" target="_blank">opinion.bloomberg.com</a> (2025-12-18 02:25:57)</span><span style="padding-right:50px;">Action Energy eyes regional expansion after Kuwait stock market listing reut.rs/4aUGsYU <a href="https://bsky.app/profile/reuters.com/post/3ma76kezoqn23" target="_blank">reuters.com</a> (2025-12-18 02:25:16)</span><span style="padding-right:50px;">This biotech name is evolving into a major obesity play. How to trade it with options <a href="https://bsky.app/profile/cnbc.com/post/3ma76izui2w2p" target="_blank">cnbc.com</a> (2025-12-18 02:24:30)</span><span style="padding-right:50px;">Cinven CEO and CFO step down amid risk of ban over price gouging ft.trib.al/Udxjpi5 <a href="https://bsky.app/profile/financialtimes.com/post/3ma76fjhan22p" target="_blank">financialtimes.com</a> (2025-12-18 02:22:33)</span>
+<span style="padding-right:50px;">LATEST: Nick Reiner appears in court for the first time after being charged with murdering his parents, but his arraignment is postponed again to Jan. 7. <a href="https://bsky.app/profile/nbcnews.com/post/3ma77s37tri2r" target="_blank">nbcnews.com</a> (2025-12-18 02:47:28)</span><span style="padding-right:50px;">The Senate passed the sweeping defense-policy bill, despite lawmakers’ pushback on one aviation-safety issue and the Trump administration’s approach to European security. <a href="https://bsky.app/profile/wsj.com/post/3ma77rglkqs23" target="_blank">wsj.com</a> (2025-12-18 02:47:06)</span><span style="padding-right:50px;">The Senate voted to advance a $901 billion bill setting policy for the Pentagon, sending the massive piece of legislation to the White House, which has said President Trump will sign into law reut.rs/4pQTJ9O <a href="https://bsky.app/profile/reuters.com/post/3ma77qpuqpk22" target="_blank">reuters.com</a> (2025-12-18 02:46:42)</span><span style="padding-right:50px;">BREAKING: Senate passes $901 billion defense bill that demands Secretary Pete Hegseth provide video of strikes on alleged drug boats. <a href="https://bsky.app/profile/apnews.com/post/3ma77ojcwcs2k" target="_blank">apnews.com</a> (2025-12-18 02:45:28)</span><span style="padding-right:50px;">Unions say Telefonica scales back Spain layoff plan by a quarter reut.rs/3Y2BDoV <a href="https://bsky.app/profile/reuters.com/post/3ma77o7opmn2r" target="_blank">reuters.com</a> (2025-12-18 02:45:18)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48020.51 (🔻107.54 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22854.73 (🔻280.88 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 171.46 (🔻4.65 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.58 (🔺0.83 : 2025-12-17)</span>
+<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 47998.44 (🔻129.61 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22838.97 (🔻296.64 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 171.97 (🔻4.13 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.54 (🔺0.79 : 2025-12-17)</span>
   </div>
 </div>
 
@@ -32,100 +32,94 @@
 
 ## News Headlines
 
-Here are six important stories with headlines:
+Here are six important stories with headlines in English:
 
-1. US Capitol Displays Statue of Civil Rights Icon in Place of Confederate General
-2. UBS Hires L&G's CIO to Co-Head $1.8 Trillion Investments Unit
-3. Trump Vows to Dismantle National Center for Atmospheric Research
-4. US Teachers Fear Leaving the Classroom Amid Trump's Deportation Push
-5. Tesla: 3 Key Takeaways from Elon Musk's Bizarre 2025
-6. Open Source Could Pop the AI Bubble – and Soon
+1. Senate Passes $901 Billion Defense Bill Amid Controversies
+2. Russian President Putin Vows to Achieve Goals in Ukraine with Force or Diplomacy
+3. US House of Representatives Divided as New Data Shows Worsening Partisan Split
+4. Netflix to Release FIFA Football Simulation Game in Summer 2026
+5. Belarus Moves Back to Soviet-Era Tactics, Freed Nobel Laureate Warns
+6. Tesla and Elon Musk's Bizarre 2025: 3 Key Takeaways
 
 ----
 
-@cnbc.com
+@nbcnews.com
 
-Medical supply firm Medline set to debut after biggest IPO of 2025
+LATEST: Nick Reiner appears in court for the first time after being charged with murdering his parents, but his arraignment is postponed again to Jan. 7.
 
-[2025-12-18 02:26:50](https://bsky.app/profile/cnbc.com/post/3ma76n6psgy2b)
+[2025-12-18 02:47:28](https://bsky.app/profile/nbcnews.com/post/3ma77s37tri2r)
 
 ---
 
-@opinion.bloomberg.com
+@wsj.com
 
-The House of Representatives is bitterly divided. 
+The Senate passed the sweeping defense-policy bill, despite lawmakers’ pushback on one aviation-safety issue and the Trump administration’s approach to European security.
 
-New data show that after decades of pulling apart, Democrats and Republicans now present almost exactly inverse images of each other.
-
-Read the analysis: bit.ly/3KzONqs
-
-[2025-12-18 02:25:57](https://bsky.app/profile/opinion.bloomberg.com/post/3ma76lmnqsc2u)
+[2025-12-18 02:47:06](https://bsky.app/profile/wsj.com/post/3ma77rglkqs23)
 
 ---
 
 @reuters.com
 
-Action Energy eyes regional expansion after Kuwait stock market listing reut.rs/4aUGsYU
+The Senate voted to advance a $901 billion bill setting policy for the Pentagon, sending the massive piece of legislation to the White House, which has said President Trump will sign into law reut.rs/4pQTJ9O
 
-[2025-12-18 02:25:16](https://bsky.app/profile/reuters.com/post/3ma76kezoqn23)
+[2025-12-18 02:46:42](https://bsky.app/profile/reuters.com/post/3ma77qpuqpk22)
 
 ---
 
-@cnbc.com
+@apnews.com
 
-This biotech name is evolving into a major obesity play. How to trade it with options
+<strong><span style="color: red;">BREAKING:</span> Senate passes $901 billion defense bill that demands Secretary Pete Hegseth provide video of strikes on alleged drug boats.</strong>
 
-[2025-12-18 02:24:30](https://bsky.app/profile/cnbc.com/post/3ma76izui2w2p)
+[2025-12-18 02:45:28](https://bsky.app/profile/apnews.com/post/3ma77ojcwcs2k)
+
+---
+
+@reuters.com
+
+Unions say Telefonica scales back Spain layoff plan by a quarter reut.rs/3Y2BDoV
+
+[2025-12-18 02:45:18](https://bsky.app/profile/reuters.com/post/3ma77o7opmn2r)
+
+---
+
+@japan.reuters.com
+
+ユーロ圏金融・債券市場では、ドイツ１０年債利回りが一時、約１週間ぶりの低水準を付けた。欧州中央銀行（ＥＣＢ）理事会を１８日に控える中、市場ではＥＣＢによる来年の利上げ観測が後退している。 bit.ly/4oZgU02
+
+[2025-12-18 02:44:16](https://bsky.app/profile/japan.reuters.com/post/3ma77menbwg2c)
 
 ---
 
 @financialtimes.com
 
-Cinven CEO and CFO step down amid risk of ban over price gouging ft.trib.al/Udxjpi5
+ How Costa Coffee went from hot property to tepid brew ft.trib.al/yKKXnLO  | opinion
 
-[2025-12-18 02:22:33](https://bsky.app/profile/financialtimes.com/post/3ma76fjhan22p)
-
----
-
-@cbsnews.com
-
-Britain's two biggest police forces announced Wednesday that officers would take an "enhanced approach" to counter antisemitism, arresting protesters who use certain slogans and phrases, in response to what they said was surging hate crimes targeting Jewish people in the United Kingdom. 
-
-[2025-12-18 02:22:01](https://bsky.app/profile/cbsnews.com/post/3ma76eleo522y)
+[2025-12-18 02:43:18](https://bsky.app/profile/financialtimes.com/post/3ma77knjbl625)
 
 ---
 
-@yahoofinance.com
+@reuters.com
 
-Tesla: 3 things that defined a bizarre 2025 for Elon Musk and Co.
+Chinese bank CICC to buy two rivals in $16 billion share-swap deal reut.rs/4iYe2iE
 
-[2025-12-18 02:21:07](https://bsky.app/profile/yahoofinance.com/post/3ma76cxotqt2f)
+[2025-12-18 02:40:32](https://bsky.app/profile/reuters.com/post/3ma77fpd7q72c)
 
 ---
 
 @nbcnews.com
 
-A woman who allegedly pushed razor blades into loaves of bread at two Biloxi, Mississippi, Walmart stores is arrested. 
+The Trump administration expands its travel ban to include five more countries and impose new limits on others.
 
-[2025-12-18 02:20:11](https://bsky.app/profile/nbcnews.com/post/3ma76bcaob72r)
-
----
-
-@washingtonpost.com
-
-A growing number of school districts across the country have turned to AI-powered surveillance to bolster campus security. 
-
-However, some experts say a trend of threat detection systems misfiring puts students under undue suspicion and stress.
-
-[2025-12-18 02:20:03](https://bsky.app/profile/washingtonpost.com/post/3ma76b37ma525)
+[2025-12-18 02:40:18](https://bsky.app/profile/nbcnews.com/post/3ma77fbgimv2u)
 
 ---
 
 @nytimes.com
 
-From @theathletic.com: Carlos Alcaraz confirmed he has split with coach Juan Carlos Ferrero after six Grand Slam titles and seven years together.
+Rhinelander v. Rhinelander was one of the most scandalous trials of the Jazz Age. A century later, it reads as a tragedy about the United State's original sin. nyti.ms/4j8CwGk
 
-[2025-12-18 02:20:03](https://bsky.app/profile/nytimes.com/post/3ma76b35emj2y)
+[2025-12-18 02:40:05](https://bsky.app/profile/nytimes.com/post/3ma77evdw3526)
 
 ---
 
