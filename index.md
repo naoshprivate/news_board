@@ -1,9 +1,9 @@
-# [2025-12-18 00:10 updated](2025_12_18.md)
+# [2025-12-18 00:30 updated](2025_12_18.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">米連邦準備理事会（ＦＲＢ）のウォラー理事は１７日、雇用市場の軟化が懸念される中、ＦＲＢには依然として金利を引き下げる余地があるとの認識を示した。 bit.ly/450Ya9q <a href="https://bsky.app/profile/japan.reuters.com/post/3ma6wwrrvvz2c" target="_blank">japan.reuters.com</a> (2025-12-18 00:09:02)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】「2階から火が出ている」奈良・三郷町の住宅で火事 現在も燃焼中 住人1人と連絡取れず安否確認進める (2025-12-17 23:56) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma6wuafiwh2b" target="_blank">sokuho.news</a> (2025-12-18 00:07:36)</span><span style="padding-right:50px;">British PM Keir Starmer on Wednesday warned former Chelsea owner Roman Abramovich "the clock is ticking" over the frozen £2.5 billion ($3.4 billion) generated from the sale of the club, which has been earmarked to help Ukraine's war victims ➡️ u.afp.com/S7tf <a href="https://bsky.app/profile/en.afp.com/post/3ma6wqjvpus2k" target="_blank">en.afp.com</a> (2025-12-18 00:05:32)</span><span style="padding-right:50px;">Olivia Hillier started casually selling her old clothes on resale app Poshmark in 2019. Three years later, she's buying a house with the revenue she made. <a href="https://bsky.app/profile/cnbc.com/post/3ma6wq7kwom2g" target="_blank">cnbc.com</a> (2025-12-18 00:05:21)</span><span style="padding-right:50px;">Lithium surges in China after local authorities announce plan to revoke mining licences reut.rs/4qcnJwl <a href="https://bsky.app/profile/reuters.com/post/3ma6wq23yhk2i" target="_blank">reuters.com</a> (2025-12-18 00:05:16)</span>
+<span style="padding-right:50px;">From @theathletic.com: If you’re an undecided college football fan still looking for someone to root for over the next month, let us help you out. Here’s our bandwagon guide, ranked from least to most deserving teams. <a href="https://bsky.app/profile/nytimes.com/post/3ma6xx3zzth2b" target="_blank">nytimes.com</a> (2025-12-18 00:27:06)</span><span style="padding-right:50px;">LATEST: Rebelling against their leaders, four House Republicans sign onto a “discharge petition,” giving Democrats the 218 signatures needed to force a vote on a three-year extension of the Obamacare subsidies that are set to expire for millions of Americans on Dec. 31. <a href="https://bsky.app/profile/nbcnews.com/post/3ma6xwwuh2c24" target="_blank">nbcnews.com</a> (2025-12-18 00:27:01)</span><span style="padding-right:50px;">What is Islamic State, the group linked to the Bondi Beach attack? reut.rs/4p0XMPk <a href="https://bsky.app/profile/reuters.com/post/3ma6xtrazrf2b" target="_blank">reuters.com</a> (2025-12-18 00:25:14)</span><span style="padding-right:50px;">Ray Dalio joins Michael Dell in backing 'Trump accounts' for kids, per program's website <a href="https://bsky.app/profile/cnbc.com/post/3ma6xpvdhfn23" target="_blank">cnbc.com</a> (2025-12-18 00:23:04)</span><span style="padding-right:50px;">The Justice Department indicted Adderall startup Done Global a month after its founder and top doctor were both convicted for a conspiracy to distribute controlled substances. <a href="https://bsky.app/profile/wsj.com/post/3ma6xnvbvoq2h" target="_blank">wsj.com</a> (2025-12-18 00:21:57)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48313.39 (🔺185.34 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 23058.66 (🔻76.95 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 174.06 (🔻2.04 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.51 (🔺0.76 : 2025-12-17)</span>
+<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48294.38 (🔺166.33 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 23076.32 (🔻59.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 174.41 (🔻1.69 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.47 (🔺0.72 : 2025-12-17)</span>
   </div>
 </div>
 
@@ -32,97 +32,95 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are the six selected headlines:
 
-1. Fed Official Says Interest Rate Cuts Remain Possible Amid Economic Concerns
-2. Fire Rages at Residential Building in Japan, Resident's Safety Unconfirmed
-3. British PM Warns Abramovich Over Frozen Chelsea Funds for Ukraine
-4. Woman Buys House with Earnings from Reselling Old Clothes on App
-5. Lithium Prices Surge in China Amid Mining License Revocation
-6. Trump's Venezuela Tanker Blockade Has Significant Oil-Market Impact
+1. Four House Republicans Rebel Against Leaders, Help Democrats Force Obamacare Subsidy Vote
+2. Poland to Use Anti-Personnel Mines to Beef Up Borders with Belarus and Russia
+3. Maryland Creates Commission to Study Reparations for Slavery After Veto Override
+4. Airbnb Sees 5-Year Slump, Analyst Predicts 2026 Will Be Turning Point
+5. US Imposes Blockade on Russian Sanctioned Tankers, Threatening Rising Naphtha Exports to Venezuela
+6. Professor Fatally Shot at Home Near Boston, Authorities Launch Homicide Investigation
 
 ----
 
-@japan.reuters.com
+@nytimes.com
 
-米連邦準備理事会（ＦＲＢ）のウォラー理事は１７日、雇用市場の軟化が懸念される中、ＦＲＢには依然として金利を引き下げる余地があるとの認識を示した。 bit.ly/450Ya9q
+From @theathletic.com: If you’re an undecided college football fan still looking for someone to root for over the next month, let us help you out. Here’s our bandwagon guide, ranked from least to most deserving teams.
 
-[2025-12-18 00:09:02](https://bsky.app/profile/japan.reuters.com/post/3ma6wwrrvvz2c)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】「2階から火が出ている」奈良・三郷町の住宅で火事 現在も燃焼中 住人1人と連絡取れず安否確認進める
-(2025-12-17 23:56) #ニュース
-
-[2025-12-18 00:07:36](https://bsky.app/profile/sokuho.news/post/3ma6wuafiwh2b)
+[2025-12-18 00:27:06](https://bsky.app/profile/nytimes.com/post/3ma6xx3zzth2b)
 
 ---
 
-@en.afp.com
+@nbcnews.com
 
-British PM Keir Starmer on Wednesday warned former Chelsea owner Roman Abramovich "the clock is ticking" over the frozen £2.5 billion ($3.4 billion) generated from the sale of the club, which has been earmarked to help Ukraine's war victims ➡️ u.afp.com/S7tf
+LATEST: Rebelling against their leaders, four House Republicans sign onto a “discharge petition,” giving Democrats the 218 signatures needed to force a vote on a three-year extension of the Obamacare subsidies that are set to expire for millions of Americans on Dec. 31.
 
-[2025-12-18 00:05:32](https://bsky.app/profile/en.afp.com/post/3ma6wqjvpus2k)
-
----
-
-@cnbc.com
-
-Olivia Hillier started casually selling her old clothes on resale app Poshmark in 2019. Three years later, she's buying a house with the revenue she made.
-
-[2025-12-18 00:05:21](https://bsky.app/profile/cnbc.com/post/3ma6wq7kwom2g)
+[2025-12-18 00:27:01](https://bsky.app/profile/nbcnews.com/post/3ma6xwwuh2c24)
 
 ---
 
 @reuters.com
 
-Lithium surges in China after local authorities announce plan to revoke mining licences reut.rs/4qcnJwl
+What is Islamic State, the group linked to the Bondi Beach attack? reut.rs/4p0XMPk
 
-[2025-12-18 00:05:16](https://bsky.app/profile/reuters.com/post/3ma6wq23yhk2i)
+[2025-12-18 00:25:14](https://bsky.app/profile/reuters.com/post/3ma6xtrazrf2b)
 
 ---
 
-@cnn.com
+@cnbc.com
 
-"While plenty have focused on his declining overall approval ratings, perhaps the better measure of Trump’s political power is those who strongly approve of him," writes Aaron Blake. | Analysis
+Ray Dalio joins Michael Dell in backing 'Trump accounts' for kids, per program's website
 
-[2025-12-18 00:02:02](https://bsky.app/profile/cnn.com/post/3ma6wkbeic72u)
+[2025-12-18 00:23:04](https://bsky.app/profile/cnbc.com/post/3ma6xpvdhfn23)
 
 ---
 
 @wsj.com
 
-Mysterious illnesses also rose after the fires, according to a new study that reviewed emergency-department visits. on.wsj.com/3Y0xkKH
+The Justice Department indicted Adderall startup Done Global a month after its founder and top doctor were both convicted for a conspiracy to distribute controlled substances.
 
-[2025-12-18 00:01:40](https://bsky.app/profile/wsj.com/post/3ma6wjn2uay2h)
-
----
-
-@apnews.com
-
-A professor at the Massachusetts Institute of Technology has been fatally shot at his home near Boston and authorities say they have launched a homicide investigation.
-
-[2025-12-18 00:00:50](https://bsky.app/profile/apnews.com/post/3ma6wi4prpo22)
+[2025-12-18 00:21:57](https://bsky.app/profile/wsj.com/post/3ma6xnvbvoq2h)
 
 ---
 
-@usatoday.com
+@reuters.com
 
-As Emily Cooper heads to Rome, here's what to know about Season 5 of Netflix "Emily in Paris" and how to watch.
+Joining a broader regional shift that has seen almost all European countries bordering Russia, with the exception of Norway, announce plans to quit the global treaty banning such weapons, Poland wants to use anti-personnel mines to beef up its borders with Belarus and Russia reut.rs/4afZUiC
 
-[2025-12-18 00:00:47](https://bsky.app/profile/usatoday.com/post/3ma6wi24m5q25)
+[2025-12-18 00:21:11](https://bsky.app/profile/reuters.com/post/3ma6xmjmnpc22)
 
 ---
 
-@japan.reuters.com
+@nhknewsunofficial.bsky.social
 
-独ＩＦＯ経済研究所が１７日発表した１２月の業況指数は８７．６と、前月改定値の８８．０から予想外に低下した。 bit.ly/4qcfDDQ
+小泉防衛相 レーダー照射問題などで英国防相と深刻な懸念共有
+https://news.web.nhk/newsweb/na/na-k10015006941000
 
-[2025-12-18 00:00:46](https://bsky.app/profile/japan.reuters.com/post/3ma6whzb7fk2c)
+[2025-12-18 00:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma6xmcqvsm2v)
+
+---
+
+@financialtimes.com
+
+Varun Chandra out of running for UK ambassador to Washington ft.trib.al/bKNQHSt
+
+[2025-12-18 00:20:55](https://bsky.app/profile/financialtimes.com/post/3ma6xlzqcdp25)
+
+---
+
+@opinion.bloomberg.com
+
+Why has Congress found it harder and harder to get anything done? This simple 2x2 matrix can explain: bit.ly/4j5orcw
+
+[2025-12-18 00:20:49](https://bsky.app/profile/opinion.bloomberg.com/post/3ma6xltuo7s2o)
+
+---
+
+@nbcnews.com
+
+Maryland will create a commission to study potential reparations for slavery after lawmakers voted to override a veto by Gov. Wes Moore, currently the nation's only Black governor, that disappointed many fellow Democrats.
+
+[2025-12-18 00:20:09](https://bsky.app/profile/nbcnews.com/post/3ma6xknrkms24)
 
 ---
 
