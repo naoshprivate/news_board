@@ -1,9 +1,9 @@
-# [2025-12-17 15:30 updated](2025_12_17.md)
+# [2025-12-17 15:50 updated](2025_12_17.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">BREAKING: A suspected gunman in Sydney’s Bondi Beach massacre has been charged with 59 offenses including 15 charges of murder, Australian police said. <a href="https://bsky.app/profile/apnews.com/post/3ma5zsdg6y72x" target="_blank">apnews.com</a> (2025-12-17 15:27:34)</span><span style="padding-right:50px;">大阪 道頓堀ビル火災 “バックドラフト現象で隊員脱出困難に” https://news.web.nhk/newsweb/na/na-k10015006571000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma5zrgi7sj2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-17 15:27:02)</span><span style="padding-right:50px;">Amazon、OpenAIに1兆5000億円投資へ協議（無料記事） www.nikkei.com/article/DGXZQO...  複数の米欧メディアが報じました。OpenAIは11月にAWSが手がけるAI向けデータセンターを利用する契約を結んだと発表しており、Amazonにとっては顧客企業に投資する構図です。  また、OpenAIはAWSの独自設計のAI半導体「Trainium」の採用も検討。約8割のシェアを持つNVIDIAの一強状態に影響を及ぼす可能性があります。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3ma5zqq5i2l2m" target="_blank">nikkei.com</a> (2025-12-17 15:26:40)</span><span style="padding-right:50px;">アジア新興国通貨は総じて軟調に推移したが、インドルピーINR=は為替介入を受けて約１％上昇した。タイバーツTHB=THとインドネシアルピアIDR=は０７００ＧＭＴ（日本時間午後４時）前後の金融政策決定を前に狭いレンジで取引されている。 bit.ly/4p2vzaN <a href="https://bsky.app/profile/japan.reuters.com/post/3ma5zqapgsf2q" target="_blank">japan.reuters.com</a> (2025-12-17 15:26:24)</span><span style="padding-right:50px;">Breaking News: The surviving suspect in the Bondi Beach massacre has been charged with murder and terrorism after waking from a coma. <a href="https://bsky.app/profile/nytimes.com/post/3ma5zo5t5352s" target="_blank">nytimes.com</a> (2025-12-17 15:25:14)</span>
+<span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】ヤードで火事 タイヤとコンテナ燃える 一時激しく黒煙 (15:46) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma62vo4lsy25" target="_blank">sokuho.news</a> (2025-12-17 15:47:20)</span><span style="padding-right:50px;">Sydney mourners remember slain rabbi at Bondi Beach funeral reut.rs/48F9D0I <a href="https://bsky.app/profile/reuters.com/post/3ma62rtu6o62s" target="_blank">reuters.com</a> (2025-12-17 15:45:11)</span><span style="padding-right:50px;">＜１５：３３＞　大引けの日経平均は反発、米雇用統計通過で安心感　ＡＩ関連も物色 bit.ly/49h3RCE <a href="https://bsky.app/profile/japan.reuters.com/post/3ma62pxa2pc2s" target="_blank">japan.reuters.com</a> (2025-12-17 15:44:08)</span><span style="padding-right:50px;">中国不動産開発大手の万科企業は、２０億元（２億８３６０万ドル）規模の社債について、償還の猶予期間を現在の５営業日から３０営業日に延長することを求めている。中国銀行間市場交易商協会（ＮＡＦＭＩＩ）への１６日付の提出書類で明らかになった。 bit.ly/492m4CF <a href="https://bsky.app/profile/japan.reuters.com/post/3ma62iyslxi2p" target="_blank">japan.reuters.com</a> (2025-12-17 15:40:15)</span><span style="padding-right:50px;">MetaX shares rocket 700% in debut as China AI chips push gathers speed reut.rs/4oXBlKQ <a href="https://bsky.app/profile/reuters.com/post/3ma62ixwbsf2i" target="_blank">reuters.com</a> (2025-12-17 15:40:14)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49557.58 (🔺144.39 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3342.00 (🔻4.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.33 (🔺0.58 : 2025-12-17)</span>
+<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.37 (🔺0.62 : 2025-12-17)</span>
   </div>
 </div>
 
@@ -32,102 +32,107 @@
 
 ## News Headlines
 
-Here are six important stories from the news with headlines in English:
+Here are six important news stories with headlines in English:
 
-1. Bondi Beach Gunman Charged with 59 Offenses, Including 15 Counts of Murder
-2. Japan's Mizuho to Buy Majority of India's Avendus from KKR for up to $523 Million
-3. Amazon in Talks to Invest in OpenAI, Source Says
-4. China's New Aircraft Carrier Sails through Taiwan Strait, Taipei Says
-5. Trump Orders Blockade of All Oil Tankers to Venezuela
-6. US Forest Service Trails Deteriorating Due to Staff Cuts Under Trump Administration
+1. Bondi Beach Massacre Suspect Charged with 59 Offenses
+2. China's MetaX Shares Soar 700% in Debut on AI Chip Push
+3. Amazon in Talks to Invest $15 Billion in OpenAI
+4. Japan's Mizuho to Buy Majority of India's Avendus from KKR for $523 Million
+5. China's Newest Aircraft Carrier Sails Through Taiwan Strait, Taipei Says
+6. US Bank Increases Holdings of US Government Debt to Lock in Higher Yields
 
 ----
 
-@apnews.com
+@sokuho.news
 
-<strong><span style="color: red;">BREAKING:</span> A suspected gunman in Sydney’s Bondi Beach massacre has been charged with 59 offenses including 15 charges of murder, Australian police said.</strong>
+🔔ANNより【速報】です。
 
-[2025-12-17 15:27:34](https://bsky.app/profile/apnews.com/post/3ma5zsdg6y72x)
+【速報】ヤードで火事 タイヤとコンテナ燃える 一時激しく黒煙
+(15:46) #ニュース
 
----
-
-@nhknewsunofficial.bsky.social
-
-大阪 道頓堀ビル火災 “バックドラフト現象で隊員脱出困難に”
-https://news.web.nhk/newsweb/na/na-k10015006571000
-
-[2025-12-17 15:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma5zrgi7sj2b)
-
----
-
-@nikkei.com
-
-Amazon、OpenAIに1兆5000億円投資へ協議（無料記事）
-www.nikkei.com/article/DGXZQO...
-
-複数の米欧メディアが報じました。OpenAIは11月にAWSが手がけるAI向けデータセンターを利用する契約を結んだと発表しており、Amazonにとっては顧客企業に投資する構図です。
-
-また、OpenAIはAWSの独自設計のAI半導体「Trainium」の採用も検討。約8割のシェアを持つNVIDIAの一強状態に影響を及ぼす可能性があります。
-
-#ニュース
-
-[2025-12-17 15:26:40](https://bsky.app/profile/nikkei.com/post/3ma5zqq5i2l2m)
-
----
-
-@japan.reuters.com
-
-アジア新興国通貨は総じて軟調に推移したが、インドルピーINR=は為替介入を受けて約１％上昇した。タイバーツTHB=THとインドネシアルピアIDR=は０７００ＧＭＴ（日本時間午後４時）前後の金融政策決定を前に狭いレンジで取引されている。 bit.ly/4p2vzaN
-
-[2025-12-17 15:26:24](https://bsky.app/profile/japan.reuters.com/post/3ma5zqapgsf2q)
-
----
-
-@nytimes.com
-
-<strong><span style="color: red;">Breaking News</span>: The surviving suspect in the Bondi Beach massacre has been charged with murder and terrorism after waking from a coma.</strong>
-
-[2025-12-17 15:25:14](https://bsky.app/profile/nytimes.com/post/3ma5zo5t5352s)
+[2025-12-17 15:47:20](https://bsky.app/profile/sokuho.news/post/3ma62vo4lsy25)
 
 ---
 
 @reuters.com
 
-Japan's Mizuho to buy majority of India's Avendus from KKR for up to $523 million reut.rs/492lmW1
+Sydney mourners remember slain rabbi at Bondi Beach funeral reut.rs/48F9D0I
 
-[2025-12-17 15:25:11](https://bsky.app/profile/reuters.com/post/3ma5zo3a4e62r)
-
----
-
-@cnn.com
-
-Alleged Bondi shooter charged by Australian police with 59 offenses as first funerals for victims held. https://cnn.it/4iYUXgx
-
-[2025-12-17 15:24:14](https://bsky.app/profile/cnn.com/post/3ma5zmeseut25)
+[2025-12-17 15:45:11](https://bsky.app/profile/reuters.com/post/3ma62rtu6o62s)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@japan.reuters.com
 
-Alleged Bondi gunman charged with 15 counts of murder
+＜１５：３３＞　大引けの日経平均は反発、米雇用統計通過で安心感　ＡＩ関連も物色 bit.ly/49h3RCE
 
-[2025-12-17 15:24:06](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma5zm5ez762x)
-
----
-
-@cnbc.com
-
-European markets head for soft open as sentiment falters
-
-[2025-12-17 15:23:05](https://bsky.app/profile/cnbc.com/post/3ma5zkchku72y)
+[2025-12-17 15:44:08](https://bsky.app/profile/japan.reuters.com/post/3ma62pxa2pc2s)
 
 ---
 
-@aljazeera.com
+@japan.reuters.com
 
-DEVELOPING: Australian police charge alleged Bondi Beach gunman as first funerals held aje.io/n2d3mc
+中国不動産開発大手の万科企業は、２０億元（２億８３６０万ドル）規模の社債について、償還の猶予期間を現在の５営業日から３０営業日に延長することを求めている。中国銀行間市場交易商協会（ＮＡＦＭＩＩ）への１６日付の提出書類で明らかになった。 bit.ly/492m4CF
 
-[2025-12-17 15:22:39](https://bsky.app/profile/aljazeera.com/post/3ma5zjjo5l22q)
+[2025-12-17 15:40:15](https://bsky.app/profile/japan.reuters.com/post/3ma62iyslxi2p)
+
+---
+
+@reuters.com
+
+MetaX shares rocket 700% in debut as China AI chips push gathers speed reut.rs/4oXBlKQ
+
+[2025-12-17 15:40:14](https://bsky.app/profile/reuters.com/post/3ma62ixwbsf2i)
+
+---
+
+@japan.reuters.com
+
+米国株式市場で取引の平日２４時間化が間近に迫っているが、ニューヨークの金融街ウォール街は歓迎一色というわけではない。 bit.ly/4s2cgkQ
+
+[2025-12-17 15:36:20](https://bsky.app/profile/japan.reuters.com/post/3ma62bzfevf2c)
+
+---
+
+@reuters.com
+
+Apple in talks with Indian chipmakers to assemble, package iPhone components, ET reports reut.rs/4qdW4v9
+
+[2025-12-17 15:35:11](https://bsky.app/profile/reuters.com/post/3ma627xisqq2b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+アスベスト労災認定 昨年度は1211人 14年連続で1000人超
+https://news.web.nhk/newsweb/na/na-k10015006601000
+
+[2025-12-17 15:33:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma6245lcys2u)
+
+---
+
+@japan.reuters.com
+
+午後３時のドル／円は、前日ニューヨーク市場の終盤から小幅高の１５５円前半で取引されている。前日の米雇用統計を経て、米景気に対する悲観的な見方がやや後退したとして、ドルが底堅い動きとなった。 bit.ly/3KYEigh
+
+[2025-12-17 15:32:58](https://bsky.app/profile/japan.reuters.com/post/3ma623ynwbj2c)
+
+---
+
+@nikkei.com
+
+永久凍土から約2万年前のサイの角、1.6メートル超は史上最長
+www.nikkei.com/article/DGXZQO...
+
+地球上で最も寒い定住地として知られるロシア、サハ共和国の奥地。
+
+地元ハンターで化石収集家のロマン・ロマノフ氏が解けた永久凍土から発見。1万9700年前のケブカサイと特定されました。
+
+現生種と同様にケブカサイも角を武器に使っていたと考えられます。
+
+ぶつかり合う壮大な姿は、フランスのショーベ洞窟にある3万年前の壁画の中に永遠にとどめられています。
+
+[2025-12-17 15:31:16](https://bsky.app/profile/nikkei.com/post/3ma5zyx7srl2m)
 
 ---
 
