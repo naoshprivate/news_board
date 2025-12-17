@@ -1,9 +1,9 @@
-# [2025-12-17 17:10 updated](2025_12_17.md)
+# [2025-12-17 17:30 updated](2025_12_17.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">LIVE: Ursula von der Leyen speaks in EU parliament  European Commission President Ursula von der Leyen speaks in the European Parliament ahead of a summit of EU leaders on December 18 on support for Ukraine, transatlantic relations and the EU’s strategic autonomy.  www.youtube.com/watch?v=v0sd... <a href="https://bsky.app/profile/reuters.com/post/3ma67h5fnwc2c" target="_blank">reuters.com</a> (2025-12-17 17:08:41)</span><span style="padding-right:50px;">オーストラリア政府は１７日発表した２０２５／２６年度（２５年７月─２６年６月）の中間経済・財政見通しで、インフレ見通しを大幅に引き上げた。歳出は当初の想定を上回る見通しで、物価上昇圧力への対応は金融政策に委ねられることになる。 bit.ly/4am3fwK <a href="https://bsky.app/profile/japan.reuters.com/post/3ma67b3ebu32q" target="_blank">japan.reuters.com</a> (2025-12-17 17:05:18)</span><span style="padding-right:50px;">Japan visitor arrivals growth strong in November despite China travel warning reut.rs/48Tze4L <a href="https://bsky.app/profile/reuters.com/post/3ma67azwctn24" target="_blank">reuters.com</a> (2025-12-17 17:05:16)</span><span style="padding-right:50px;">英国立統計局（ＯＮＳ）が１７日発表した１１月の消費者物価指数（ＣＰＩ）は前年比伸び率が３．２％で、１０月の３．６％から低下し、３月以来の低水準となった。 bit.ly/4rVQz5P <a href="https://bsky.app/profile/japan.reuters.com/post/3ma674uzvep25" target="_blank">japan.reuters.com</a> (2025-12-17 17:02:57)</span><span style="padding-right:50px;">The Trump administration announced Tuesday it was expanding travel restrictions to an additional 20 countries and the Palestinian Authority, doubling the number of nations affected by sweeping limits. n.pr/48IRjnw <a href="https://bsky.app/profile/npr.org/post/3ma6727e5vw2p" target="_blank">npr.org</a> (2025-12-17 17:01:27)</span>
+<span style="padding-right:50px;">フォード・モーターの電気自動車（ＥＶ）事業関連を中心とする１９５億ドルの評価損計上について、複数のアナリストは１６日、需要減退といった変化に対応する上で不可避だったとの認識を示した。 bit.ly/4akYOC9 <a href="https://bsky.app/profile/japan.reuters.com/post/3ma6aepv52d2s" target="_blank">japan.reuters.com</a> (2025-12-17 17:25:14)</span><span style="padding-right:50px;">Indian central bank steps in aggressively to boost struggling rupee, traders say reut.rs/3MMh9yc <a href="https://bsky.app/profile/reuters.com/post/3ma6aenszn72c" target="_blank">reuters.com</a> (2025-12-17 17:25:11)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】何らかの理由で猟銃発射 胸に当たりハンター死亡（山形・白鷹町） (2025-12-17 17:19:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma6adqamsf27" target="_blank">sokuho.news</a> (2025-12-17 17:24:40)</span><span style="padding-right:50px;">【ライブ】高市首相 記者会見 臨時国会の閉会受けて https://news.web.nhk/newsweb/na/na-k10015006491000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma6acssbuw2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-17 17:24:08)</span><span style="padding-right:50px;">“入浴時 赤ちゃん転落事故に注意” 国民生活センター呼びかけ https://news.web.nhk/newsweb/na/na-k10015006681000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma6aco2ya52s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-17 17:24:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.58 (🔺0.83 : 2025-12-17)</span>
+<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.48 (🔺0.73 : 2025-12-17)</span>
   </div>
 </div>
 
@@ -32,105 +32,100 @@
 
 ## News Headlines
 
-Here are six important news stories with headlines in English:
+Here are six news headlines in English:
 
-1. EU Chief Urges Leaders to Support Ukraine Amid Ongoing Conflict
-2. Australia Raises Inflation Forecast Amid Increased Spending
-3. UK Consumer Prices Drop to 3.2% Amid Economic Uncertainty
-4. US Expands Travel Restrictions to 39 Countries, Including Palestinian Territories
-5. Tokyo Rises to Second in Global City Rankings, Osaka Sees Rapid Growth
-6. India's Trade Dispute with US Keeps Rupee Under Pressure
+1. Ford Motor's EV Business Valuation Estimate Reduced to $19.5 Billion Amid Declining Demand
+2. India Central Bank Steps in to Boost Struggling Rupee, Traders Say
+3. Japanese Prime Minister Fumio Kishida Holds Press Conference After Emergency Session of Parliament
+4. Amazon Considers Investing in OpenAI, Valuing Company at Over $50 Billion
+5. European Union to Revise Engine Car Sales Ban Plan, Japanese Automakers' Interests to Be Monitored
+6. Australian Government Raises Inflation Forecast for 2025-26, Expected to Impact Monetary Policy
 
 ----
 
-@reuters.com
-
-LIVE: Ursula von der Leyen speaks in EU parliament
-
-European Commission President Ursula von der Leyen speaks in the European Parliament ahead of a summit of EU leaders on December 18 on support for Ukraine, transatlantic relations and the EU’s strategic autonomy.
-
-www.youtube.com/watch?v=v0sd...
-
-[2025-12-17 17:08:41](https://bsky.app/profile/reuters.com/post/3ma67h5fnwc2c)
-
----
-
 @japan.reuters.com
 
-オーストラリア政府は１７日発表した２０２５／２６年度（２５年７月─２６年６月）の中間経済・財政見通しで、インフレ見通しを大幅に引き上げた。歳出は当初の想定を上回る見通しで、物価上昇圧力への対応は金融政策に委ねられることになる。 bit.ly/4am3fwK
+フォード・モーターの電気自動車（ＥＶ）事業関連を中心とする１９５億ドルの評価損計上について、複数のアナリストは１６日、需要減退といった変化に対応する上で不可避だったとの認識を示した。 bit.ly/4akYOC9
 
-[2025-12-17 17:05:18](https://bsky.app/profile/japan.reuters.com/post/3ma67b3ebu32q)
+[2025-12-17 17:25:14](https://bsky.app/profile/japan.reuters.com/post/3ma6aepv52d2s)
 
 ---
 
 @reuters.com
 
-Japan visitor arrivals growth strong in November despite China travel warning reut.rs/48Tze4L
+Indian central bank steps in aggressively to boost struggling rupee, traders say reut.rs/3MMh9yc
 
-[2025-12-17 17:05:16](https://bsky.app/profile/reuters.com/post/3ma67azwctn24)
+[2025-12-17 17:25:11](https://bsky.app/profile/reuters.com/post/3ma6aenszn72c)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】何らかの理由で猟銃発射 胸に当たりハンター死亡（山形・白鷹町）
+(2025-12-17 17:19:00) #ニュース
+
+[2025-12-17 17:24:40](https://bsky.app/profile/sokuho.news/post/3ma6adqamsf27)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【ライブ】高市首相 記者会見 臨時国会の閉会受けて
+https://news.web.nhk/newsweb/na/na-k10015006491000
+
+[2025-12-17 17:24:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma6acssbuw2b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+“入浴時 赤ちゃん転落事故に注意” 国民生活センター呼びかけ
+https://news.web.nhk/newsweb/na/na-k10015006681000
+
+[2025-12-17 17:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma6aco2ya52s)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+BBC outside Rabbi Schlanger's funeral as mourners pay tribute
+
+[2025-12-17 17:22:30](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma6a7ub67i26)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+DJ Warras: South African DJ shot dead in Johannesburg 
+
+[2025-12-17 17:21:25](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma6a5wtzqo2r)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+足立区14人死傷暴走事故 容疑者“反省している”趣旨の供述
+https://news.web.nhk/newsweb/na/na-k10015006671000
+
+[2025-12-17 17:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma6a5bz3kr2d)
 
 ---
 
 @japan.reuters.com
 
-英国立統計局（ＯＮＳ）が１７日発表した１１月の消費者物価指数（ＣＰＩ）は前年比伸び率が３．２％で、１０月の３．６％から低下し、３月以来の低水準となった。 bit.ly/4rVQz5P
+インドネシア中央銀行は１７日、政策金利を３会合連続で据え置いた。これまでの金融緩和策の効果を見極めつつ、通貨ルピアの下支えを優先する姿勢を維持した。 bit.ly/4s2Fyjk
 
-[2025-12-17 17:02:57](https://bsky.app/profile/japan.reuters.com/post/3ma674uzvep25)
-
----
-
-@npr.org
-
-The Trump administration announced Tuesday it was expanding travel restrictions to an additional 20 countries and the Palestinian Authority, doubling the number of nations affected by sweeping limits. n.pr/48IRjnw
-
-[2025-12-17 17:01:27](https://bsky.app/profile/npr.org/post/3ma6727e5vw2p)
-
----
-
-@nikkei.com
-
-世界都市力ランキング、東京が初の2位　大阪は万博効果で急上昇18位（無料記事）
-www.nikkei.com/article/DGXZQO...
-
-ロンドンが14年連続で首位を維持。東京は「観光地の充実度」や「食事の魅力」など多くの指標で上位に入りました。
-
-3位となったニューヨークは、「物価水準の低さ」や「住宅賃料水準の低さ」の指標が48都市で最下位でした。
-
-ランキングは森ビル系シンクタンクが発表しました。
-
-[2025-12-17 17:01:15](https://bsky.app/profile/nikkei.com/post/3ma66zuhc3v2g)
+[2025-12-17 17:20:25](https://bsky.app/profile/japan.reuters.com/post/3ma6a44otdu2p)
 
 ---
 
 @japan.reuters.com
 
-米ヘッジファンド大手シタデルのケン・グリフィン最高経営責任者（ＣＥＯ）が トランプ大統領に対し、ホワイトハウスと連邦準備理事会（ＦＲＢ）の間に「距離」を置くよう促したと、英紙フィナンシャル・タイムズ（ＦＴ）が１６日に報じた。 bit.ly/4pJbgR6
+川崎重工業の橋本康彦社長は１７日、政府が防衛費を一段と増やす姿勢を鮮明にする中、２０３０年度に最大７０００億円を見込んでいた防衛事業の売上高が上振れそうだと明らかにした。「高市（早苗）政権になってよりクリアになった」とし、検討している案件が受注に結びつく「予見性の確度がより高まっていくと考えている」と述べた。ロイターなどの取材に答えた。 bit.ly/49hcb5m
 
-[2025-12-17 17:00:36](https://bsky.app/profile/japan.reuters.com/post/3ma66yp54kh2p)
-
----
-
-@reuters.com
-
-India equity benchmarks muted amid uncertain Fed outlook, foreign flows reut.rs/3KADiiv
-
-[2025-12-17 17:00:19](https://bsky.app/profile/reuters.com/post/3ma66y6qef42s)
-
----
-
-@bloomberg.com
-
-Here’s what you need to know to start your day
-
-[2025-12-17 17:00:13](https://bsky.app/profile/bloomberg.com/post/3ma66xyr5yu2f)
-
----
-
-@aljazeera.com
-
-Arctic sees hottest year since 1900 as climate crisis continues https://aje.io/nzin8o
-
-[2025-12-17 17:00:04](https://bsky.app/profile/aljazeera.com/post/3ma66xpxycj2d)
+[2025-12-17 17:20:15](https://bsky.app/profile/japan.reuters.com/post/3ma6a3sr4e42p)
 
 ---
 
