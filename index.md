@@ -1,9 +1,9 @@
-# [2025-12-18 07:30 updated](2025_12_18.md)
+# [2025-12-18 07:50 updated](2025_12_18.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">メキシコのシェインバウム大統領とブラジルのルラ大統領が１７日、米国とベネズエラの緊張が高まっている事態について、自制と対話を強く呼びかけた。 bit.ly/4oWCnad <a href="https://bsky.app/profile/japan.reuters.com/post/3ma7pgceytt2q" target="_blank">japan.reuters.com</a> (2025-12-18 07:27:12)</span><span style="padding-right:50px;">D.C. United acquire All-Star striker Tai Baribo from Union reut.rs/3KCn74f <a href="https://bsky.app/profile/reuters.com/post/3ma7pdaemyl2b" target="_blank">reuters.com</a> (2025-12-18 07:25:30)</span><span style="padding-right:50px;">Pips is a logic puzzle where players must arrange a set of dominoes to meet the conditions of the board to win. There are three new puzzles each day — can you beat them all? nyti.ms/4qcr929 <a href="https://bsky.app/profile/nytimes.com/post/3ma7pcjd3vk2y" target="_blank">nytimes.com</a> (2025-12-18 07:25:05)</span><span style="padding-right:50px;">Rob Reiner's family breaks silence as son Nick faces court for murder charges <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma7p76exun2s" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-18 07:23:12)</span><span style="padding-right:50px;">As the Brown University investigation entered its fifth day, authorities have so far been unable to identify a person of interest in the deadly shooting.  Police are looking to identify someone who could have been in the proximity of the person of interest and may have information. cbsn.ws/3KDqWWV <a href="https://bsky.app/profile/cbsnews.com/post/3ma7p73trvl2a" target="_blank">cbsnews.com</a> (2025-12-18 07:23:11)</span>
+<span style="padding-right:50px;">Breaking News: Dan Bongino, the FBI deputy director, said he would step down next month, ending his brief but tumultuous stint at the bureau. <a href="https://bsky.app/profile/nytimes.com/post/3ma7qib43j527" target="_blank">nytimes.com</a> (2025-12-18 07:46:12)</span><span style="padding-right:50px;">EU carbon tax changes for metals are not enough, industry says reut.rs/4j0BPyu <a href="https://bsky.app/profile/reuters.com/post/3ma7qgragcr2c" target="_blank">reuters.com</a> (2025-12-18 07:45:22)</span><span style="padding-right:50px;">【“オーディション発”が躍進】 ILLITや&TEAM生んだKｰPOPの刺激 www.nikkei.com/article/DGXZQO...  2025年の紅白歌合戦にはHANAやBE:FIRSTも出場。韓国オーディション番組の多くはHuluなどで配信され、国の枠を越えてデビュー前から大勢のファンがつきます。  視聴者投票による審査を採用し、ファンを単なる受け手から主体として巻き込む仕掛けです。  かつてのオーディション番組のように頭ごなしにダメ出しをする、プレッシャーで追い込むといったことはしません。 <a href="https://bsky.app/profile/nikkei.com/post/3ma7qgl6nxj22" target="_blank">nikkei.com</a> (2025-12-18 07:45:15)</span><span style="padding-right:50px;">President Trump commended FBI Deputy Director Dan Bongino’s work at the bureau amid public reports that he plans to leave and return to being a conservative podcaster.  Bongino has told colleagues his last official day at the bureau will be in January. <a href="https://bsky.app/profile/washingtonpost.com/post/3ma7qgapezf2b" target="_blank">washingtonpost.com</a> (2025-12-18 07:45:04)</span><span style="padding-right:50px;">米ＩＴ大手オラクルは１７日、中西部ミシガン州のデータセンター建設計画を巡る出資協議は予定通りに進んでいると表明した。交渉不調と報じられたブルー・アウル・キャピタルについては、交渉相手に含まれていないと説明した。 bit.ly/3MGf3jr <a href="https://bsky.app/profile/japan.reuters.com/post/3ma7qfjaima2q" target="_blank">japan.reuters.com</a> (2025-12-18 07:44:40)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.60 (🔺0.85 : 2025-12-17)</span>
+<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.59 (🔺0.84 : 2025-12-17)</span>
   </div>
 </div>
 
@@ -32,103 +32,104 @@
 
 ## News Headlines
 
-Here are six news headlines in English:
+Here are six selected headlines in English:
 
-1. Mexico and Brazil Urge Caution Amid US-Venezuela Tensions
-2. D.C. United Acquire All-Star Striker Tai Baribo from Union
-3. Ukrainian President Warns of Year of War as Russia Prepares for New Conflict
-4. Trump Seemingly Confirms FBI Deputy Director Dan Bongino's Departure
-5. US Collects $1 Billion in Tariff Revenue Since Ending Exemption on Low-Value Packages
-6. Trump's White House Ballroom Projected to Cost $400 Million, Double Initial Estimate
+1. FBI Deputy Director Dan Bongino to Step Down Next Month
+2. BP Picks Woodside Boss Meg O'Neill as New CEO
+3. Trump Expected to Sign Order Reclassifying Marijuana as Schedule III Drug
+4. FCC Chair Brendan Carr Says Agency is Not Independent, Contradicting Website
+5. White House Deputy Chief of Staff Says US 'Created the Oil Industry in Venezuela'
+6. Families of Teenagers Who Died by Suicide Sue Meta Over Instagram's Handling of Sexual Blackmail Schemes
 
 ----
 
-@japan.reuters.com
-
-メキシコのシェインバウム大統領とブラジルのルラ大統領が１７日、米国とベネズエラの緊張が高まっている事態について、自制と対話を強く呼びかけた。 bit.ly/4oWCnad
-
-[2025-12-18 07:27:12](https://bsky.app/profile/japan.reuters.com/post/3ma7pgceytt2q)
-
----
-
-@reuters.com
-
-D.C. United acquire All-Star striker Tai Baribo from Union reut.rs/3KCn74f
-
-[2025-12-18 07:25:30](https://bsky.app/profile/reuters.com/post/3ma7pdaemyl2b)
-
----
-
 @nytimes.com
 
-Pips is a logic puzzle where players must arrange a set of dominoes to meet the conditions of the board to win. There are three new puzzles each day — can you beat them all? nyti.ms/4qcr929
+<strong><span style="color: red;">Breaking News</span>: Dan Bongino, the FBI deputy director, said he would step down next month, ending his brief but tumultuous stint at the bureau.</strong>
 
-[2025-12-18 07:25:05](https://bsky.app/profile/nytimes.com/post/3ma7pcjd3vk2y)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Rob Reiner's family breaks silence as son Nick faces court for murder charges
-
-[2025-12-18 07:23:12](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma7p76exun2s)
-
----
-
-@cbsnews.com
-
-As the Brown University investigation entered its fifth day, authorities have so far been unable to identify a person of interest in the deadly shooting.
-
-Police are looking to identify someone who could have been in the proximity of the person of interest and may have information. cbsn.ws/3KDqWWV
-
-[2025-12-18 07:23:11](https://bsky.app/profile/cbsnews.com/post/3ma7p73trvl2a)
-
----
-
-@cnn.com
-
-Rob and Michele Reiner died from "multiple sharp force injuries," according to new records from the Los Angeles County Medical Examiner listing their cause of death. https://cnn.it/4j6l6Kr
-
-[2025-12-18 07:21:52](https://bsky.app/profile/cnn.com/post/3ma7p4qzyqs2k)
-
----
-
-@nbcnews.com
-
-The families of two teenage boys who died by suicide file a lawsuit against Meta, alleging that the tech company has ignored the rising danger of sexual blackmail schemes targeting teens on Instagram.
-
-[2025-12-18 07:20:10](https://bsky.app/profile/nbcnews.com/post/3ma7ozpopo62p)
+[2025-12-18 07:46:12](https://bsky.app/profile/nytimes.com/post/3ma7qib43j527)
 
 ---
 
 @reuters.com
 
-Poland’s financial watchdog takes legal steps over suspected market abuse in Energa shares reut.rs/4oWBvSZ
+EU carbon tax changes for metals are not enough, industry says reut.rs/4j0BPyu
 
-[2025-12-18 07:15:22](https://bsky.app/profile/reuters.com/post/3ma7or55bas2y)
+[2025-12-18 07:45:22](https://bsky.app/profile/reuters.com/post/3ma7qgragcr2c)
 
 ---
 
 @nikkei.com
 
-「98円焼きたてパン」で関東攻める　岐阜の「バロー」
+【“オーディション発”が躍進】
+ILLITや&TEAM生んだKｰPOPの刺激
 www.nikkei.com/article/DGXZQO...
 
-店内で焼くインストアベーカリー「北欧倶楽部」は商品の3割が税抜き98円。
+2025年の紅白歌合戦にはHANAやBE:FIRSTも出場。韓国オーディション番組の多くはHuluなどで配信され、国の枠を越えてデビュー前から大勢のファンがつきます。
 
-パン生地も自前の工場でつくる製造小売りです。おいしさとコスパの両立で「ロピア」など競合に挑みます。
+視聴者投票による審査を採用し、ファンを単なる受け手から主体として巻き込む仕掛けです。
 
-[2025-12-18 07:15:16](https://bsky.app/profile/nikkei.com/post/3ma7oqx2dpi24)
+かつてのオーディション番組のように頭ごなしにダメ出しをする、プレッシャーで追い込むといったことはしません。
+
+[2025-12-18 07:45:15](https://bsky.app/profile/nikkei.com/post/3ma7qgl6nxj22)
 
 ---
 
 @washingtonpost.com
 
-Exclusive: A patchwork of social interactions and a trail of online posts provide a view into Tyler Robinson’s life and his beliefs, a Post examination found.
+President Trump commended FBI Deputy Director Dan Bongino’s work at the bureau amid public reports that he plans to leave and return to being a conservative podcaster.
 
-The Post also reached Robinson, jailed in Utah County, through video calls. 
+Bongino has told colleagues his last official day at the bureau will be in January.
 
-[2025-12-18 07:15:04](https://bsky.app/profile/washingtonpost.com/post/3ma7oqlkwqn24)
+[2025-12-18 07:45:04](https://bsky.app/profile/washingtonpost.com/post/3ma7qgapezf2b)
+
+---
+
+@japan.reuters.com
+
+米ＩＴ大手オラクルは１７日、中西部ミシガン州のデータセンター建設計画を巡る出資協議は予定通りに進んでいると表明した。交渉不調と報じられたブルー・アウル・キャピタルについては、交渉相手に含まれていないと説明した。 bit.ly/3MGf3jr
+
+[2025-12-18 07:44:40](https://bsky.app/profile/japan.reuters.com/post/3ma7qfjaima2q)
+
+---
+
+@cnbc.com
+
+Coinbase adds prediction markets and stock trading in push to be one-stop trading app
+
+[2025-12-18 07:44:39](https://bsky.app/profile/cnbc.com/post/3ma7qfijl3l2x)
+
+---
+
+@yahoonews.com
+
+<strong><span style="color: red;">Breaking News</span>: FBI Deputy Director Dan Bongino says he plans to leave job next month, ending brief tenure as bureau's No. 2 official.</strong><br><strong>yhoo.it/4q9lp9o</strong>
+
+[2025-12-18 07:43:29](https://bsky.app/profile/yahoonews.com/post/3ma7qdg6udb2q)
+
+---
+
+@japan.reuters.com
+
+ベネズエラ国営石油会社ＰＤＶＳＡは１７日、サイバー攻撃によって停止していた原油と燃料の積み込みを再開した。ただ、米国が制裁対象タンカーの封鎖を発表する中、大半の輸出は保留となっている。 bit.ly/4542CnQ
+
+[2025-12-18 07:42:21](https://bsky.app/profile/japan.reuters.com/post/3ma7qbfadgx25)
+
+---
+
+@cnn.com
+
+Deputy FBI director Dan Bongino is stepping down soon from the job after eight months marked by clashes with his boss, Attorney General Pamela Bondi, and fighting off the conspiracies he once fueled. https://cnn.it/4542BQO
+
+[2025-12-18 07:42:14](https://bsky.app/profile/cnn.com/post/3ma7qb5y66s2b)
+
+---
+
+@nbcnews.com
+
+More than 117,000 immigrants — at least half of whom have lived in the country a decade or more — face potential deportation after the Trump administration pushed to reopen cases previously paused by an immigration judge, an NBC News analysis shows.
+
+[2025-12-18 07:40:35](https://bsky.app/profile/nbcnews.com/post/3ma7q6a4ori23)
 
 ---
 
