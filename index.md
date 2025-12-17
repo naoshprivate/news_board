@@ -1,9 +1,9 @@
-# [2025-12-17 16:30 updated](2025_12_17.md)
+# [2025-12-17 16:50 updated](2025_12_17.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">三菱ＵＦＪフィナンシャル・グループ（ＭＵＦＧ）は、インドのノンバンクであるシュリラム・ファイナンスに４０億ドル以上を出資し、株式約２０％を取得する。関係筋２人が明らかにした。１９日に取引がまとまるという。 bit.ly/4j5huZ1 <a href="https://bsky.app/profile/japan.reuters.com/post/3ma657tqdbd27" target="_blank">japan.reuters.com</a> (2025-12-17 16:28:49)</span><span style="padding-right:50px;">■レートは終値（前日比または前週末比）、安値─高値 bit.ly/3XYWIRe <a href="https://bsky.app/profile/japan.reuters.com/post/3ma6542m5e32u" target="_blank">japan.reuters.com</a> (2025-12-17 16:26:42)</span><span style="padding-right:50px;">From Breakingviews - Breakingviews - Bank of America looks ripe for activist treatment reut.rs/4oShVad <a href="https://bsky.app/profile/reuters.com/post/3ma64zdxvyp2y" target="_blank">reuters.com</a> (2025-12-17 16:25:11)</span><span style="padding-right:50px;">秋篠宮ご夫妻 国際生物学賞の授賞式に出席 https://news.web.nhk/newsweb/na/na-k10015006561000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma64xdznym2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-17 16:24:02)</span><span style="padding-right:50px;">東京株式市場で日経平均は３日ぶりに反発し、前営業日比１２８円９９銭高の４万９５１２円２８銭で取引を終えた。警戒されていた１１月の米雇用統計を通過し、安心感から買い戻しが優勢になった。人工知能（ＡＩ）を巡る好材料も追い風だった。買い一巡後はイベントを控え様子見ムードが広がり、日経平均は前日終値を挟んで方向感を欠く値動きとなった。 bit.ly/48J00OE <a href="https://bsky.app/profile/japan.reuters.com/post/3ma64ubphu32q" target="_blank">japan.reuters.com</a> (2025-12-17 16:22:21)</span>
+<span style="padding-right:50px;">LIVE: Louvre staff continue strike over working conditions  Staff at the Louvre museum in Paris continue their strike demanding better working conditions and urgent renovations.  www.youtube.com/watch?v=OTf_... <a href="https://bsky.app/profile/reuters.com/post/3ma6656tiuc2c" target="_blank">reuters.com</a> (2025-12-17 16:45:13)</span><span style="padding-right:50px;">Robinhood expands sports event contracts as rivals flood industry reut.rs/452Cnhy <a href="https://bsky.app/profile/reuters.com/post/3ma6655pepx2i" target="_blank">reuters.com</a> (2025-12-17 16:45:12)</span><span style="padding-right:50px;">シドニー株式市場の株価は３日続落して引けた。企業収益を巡る懸念や、来年の金融政策環境が引き締め的になるとの観測が金融株を圧迫した。 bit.ly/44rIonW <a href="https://bsky.app/profile/japan.reuters.com/post/3ma664tzdrn2q" target="_blank">japan.reuters.com</a> (2025-12-17 16:45:02)</span><span style="padding-right:50px;">CNBC Daily Open: Beauty is in the eye of the U.S. jobs report beholder <a href="https://bsky.app/profile/cnbc.com/post/3ma65z2f7sn2d" target="_blank">cnbc.com</a> (2025-12-17 16:42:54)</span><span style="padding-right:50px;">台湾国防部（国防省）は１７日、中国の最新鋭空母「福建」が１６日に台湾海峡を通過したと発表した。福建は先月就役した中国軍３隻目となる空母で、台湾海峡を通過するのは初めて。 bit.ly/493cpvJ <a href="https://bsky.app/profile/japan.reuters.com/post/3ma65udxnoe2c" target="_blank">japan.reuters.com</a> (2025-12-17 16:40:17)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.48 (🔺0.73 : 2025-12-17)</span>
+<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.52 (🔺0.77 : 2025-12-17)</span>
   </div>
 </div>
 
@@ -32,99 +32,100 @@
 
 ## News Headlines
 
-Here are six important news stories with headlines in English:
+Here are six important stories with headlines in English:
 
-1. Mitsubishi UFJ to Invest Over $40 Billion in Indian Non-Bank Shriram Finance
-2. Bank of America Seen as Prime Target for Activist Investors
-3. Tokyo Stock Market Rallies for First Time in Three Days, Boosted by AI Hopes
-4. California Suspends Tesla's Electric Vehicle Sales for 30 Days Amid Safety Concerns
-5. Japan Sees Record-Breaking 39.06 Million Foreign Visitors in 11 Months
-6. China's Vanke Offers Interest Payment as it Seeks to Delay Yuan Bond Repayment
+1. Louvre Staff Continue Strike Over Working Conditions
+2. Robinhood Expands Sports Event Contracts Amid Industry Growth
+3. Taiwan Defends Against China's New Aircraft Carrier
+4. Japan Cancels H3 Rocket Launch Due to Technical Issues
+5. Taiwan Sees Record Number of Foreign Visitors in 2024
+6. UK Inflation Falls Sharply to 3.2% in November
 
 ----
 
-@japan.reuters.com
+@reuters.com
 
-三菱ＵＦＪフィナンシャル・グループ（ＭＵＦＧ）は、インドのノンバンクであるシュリラム・ファイナンスに４０億ドル以上を出資し、株式約２０％を取得する。関係筋２人が明らかにした。１９日に取引がまとまるという。 bit.ly/4j5huZ1
+LIVE: Louvre staff continue strike over working conditions
 
-[2025-12-17 16:28:49](https://bsky.app/profile/japan.reuters.com/post/3ma657tqdbd27)
+Staff at the Louvre museum in Paris continue their strike demanding better working conditions and urgent renovations.
 
----
+www.youtube.com/watch?v=OTf_...
 
-@japan.reuters.com
-
-■レートは終値（前日比または前週末比）、安値─高値 bit.ly/3XYWIRe
-
-[2025-12-17 16:26:42](https://bsky.app/profile/japan.reuters.com/post/3ma6542m5e32u)
+[2025-12-17 16:45:13](https://bsky.app/profile/reuters.com/post/3ma6656tiuc2c)
 
 ---
 
 @reuters.com
 
-From Breakingviews - Breakingviews - Bank of America looks ripe for activist treatment reut.rs/4oShVad
+Robinhood expands sports event contracts as rivals flood industry reut.rs/452Cnhy
 
-[2025-12-17 16:25:11](https://bsky.app/profile/reuters.com/post/3ma64zdxvyp2y)
+[2025-12-17 16:45:12](https://bsky.app/profile/reuters.com/post/3ma6655pepx2i)
+
+---
+
+@japan.reuters.com
+
+シドニー株式市場の株価は３日続落して引けた。企業収益を巡る懸念や、来年の金融政策環境が引き締め的になるとの観測が金融株を圧迫した。 bit.ly/44rIonW
+
+[2025-12-17 16:45:02](https://bsky.app/profile/japan.reuters.com/post/3ma664tzdrn2q)
+
+---
+
+@cnbc.com
+
+CNBC Daily Open: Beauty is in the eye of the U.S. jobs report beholder
+
+[2025-12-17 16:42:54](https://bsky.app/profile/cnbc.com/post/3ma65z2f7sn2d)
+
+---
+
+@japan.reuters.com
+
+台湾国防部（国防省）は１７日、中国の最新鋭空母「福建」が１６日に台湾海峡を通過したと発表した。福建は先月就役した中国軍３隻目となる空母で、台湾海峡を通過するのは初めて。 bit.ly/493cpvJ
+
+[2025-12-17 16:40:17](https://bsky.app/profile/japan.reuters.com/post/3ma65udxnoe2c)
+
+---
+
+@reuters.com
+
+US orders unit at TransAlta coal plant in Washington state to stay open reut.rs/3XV9m3D
+
+[2025-12-17 16:40:12](https://bsky.app/profile/reuters.com/post/3ma65u7zxxz2s)
+
+---
+
+@forbes.com
+
+The president and his top supporters have repeatedly mentioned him running for another term, even though the Constitution disallows it.
+
+[2025-12-17 16:40:04](https://bsky.app/profile/forbes.com/post/3ma65ty5b2e2h)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-秋篠宮ご夫妻 国際生物学賞の授賞式に出席
-https://news.web.nhk/newsweb/na/na-k10015006561000
+米トランプ政権 入国の禁止や制限の対象 39か国に拡大へ
+https://news.web.nhk/newsweb/na/na-k10015006541000
 
-[2025-12-17 16:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma64xdznym2w)
-
----
-
-@japan.reuters.com
-
-東京株式市場で日経平均は３日ぶりに反発し、前営業日比１２８円９９銭高の４万９５１２円２８銭で取引を終えた。警戒されていた１１月の米雇用統計を通過し、安心感から買い戻しが優勢になった。人工知能（ＡＩ）を巡る好材料も追い風だった。買い一巡後はイベントを控え様子見ムードが広がり、日経平均は前日終値を挟んで方向感を欠く値動きとなった。 bit.ly/48J00OE
-
-[2025-12-17 16:22:21](https://bsky.app/profile/japan.reuters.com/post/3ma64ubphu32q)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】宮古空港で不発弾発見 宮崎空港での爆発事案受けた磁気探査で
-(2025-12-17 16:15:00) #ニュース
-
-[2025-12-17 16:21:29](https://bsky.app/profile/sokuho.news/post/3ma64sqb4mz26)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Miss Finland's viral 'slanted-eyes' photo stirs racism firestorm
-
-[2025-12-17 16:20:22](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma64qrpdys2z)
+[2025-12-17 16:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma65s7eooj22)
 
 ---
 
 @japan.reuters.com
 
-米カリフォルニア州車両管理局は、電気自動車（ＥＶ）メーカー、テスラの同州での販売を３０日間停止する命令を下した。ただ、執行は９０日間保留され、同社は米国最大市場での販売停止を免れた格好だ。 bit.ly/4pGRdCD
+タイ中央銀行は１７日、主要金利の翌日物レポ金利を予想通り２５ベーシスポイント（ｂｐ）引き下げ、１．２５％とした。政治の不透明感、タイバーツ高、米国の関税といった課題に直面する中、減速する景気を下支えする狙いだ。 bit.ly/48ST1RW
 
-[2025-12-17 16:20:13](https://bsky.app/profile/japan.reuters.com/post/3ma64qhlxdg25)
-
----
-
-@japan.reuters.com
-
-日本政府観光局（ＪＮＴＯ）が１７日に発表した１１月の訪日外国人客数は、前年比１０．４％増の３５１万８０００人だった。紅葉シーズンの後半も高い需要を維持した。中国では日本への渡航自粛が呼び掛けられたが、前年比３．０％増だった。 bit.ly/4s6BwXe
-
-[2025-12-17 16:20:12](https://bsky.app/profile/japan.reuters.com/post/3ma64qh34bg25)
+[2025-12-17 16:38:34](https://bsky.app/profile/japan.reuters.com/post/3ma65rcjgqt2u)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-11月の訪日中国人客56万人 前年同月比の伸び率 3％に大幅縮小
-https://news.web.nhk/newsweb/na/na-k10015006551000
+無所属の参議院議員 芳賀氏と堂込氏の2人が国民民主党に入党
+https://news.web.nhk/newsweb/na/na-k10015006611000
 
-[2025-12-17 16:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma64mnat3z2d)
+[2025-12-17 16:36:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma65mtnxms2v)
 
 ---
 
