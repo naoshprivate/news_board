@@ -1,9 +1,9 @@
-# [2025-12-17 21:50 updated](2025_12_17.md)
+# [2025-12-17 22:10 updated](2025_12_17.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The company's board said in a Wednesday statement that it determined that the Paramount offer "is not in the best interests of WBD and its shareholders." <a href="https://bsky.app/profile/nbcnews.com/post/3ma6oxbt3d72p" target="_blank">nbcnews.com</a> (2025-12-17 21:46:09)</span><span style="padding-right:50px;">オークマは１７日、株式の売り出し価格を１株３３６５円に決定したと発表した。１７日の終値３４７０円を３．０３％下回る。需要に応じて追加で売り出すオーバーアロット分を含め、総額１６８億円。三井住友信託銀行や三菱ＵＦＪ銀行、福岡銀行、三井住友銀行など銀行１０行と三菱ＨＣキャピタルが売却する。 bit.ly/4j5rEJ8 <a href="https://bsky.app/profile/japan.reuters.com/post/3ma6ovpn5hh2c" target="_blank">japan.reuters.com</a> (2025-12-17 21:45:16)</span><span style="padding-right:50px;">Top 25 roundup: No. 20 Tennessee beats No. 11 Louisville to snap skid reut.rs/48Zv37A <a href="https://bsky.app/profile/reuters.com/post/3ma6ovpn2i523" target="_blank">reuters.com</a> (2025-12-17 21:45:16)</span><span style="padding-right:50px;">WBD tells shareholders Netflix deal is superior to Paramount offer: 'It was not a hard choice,' chairman tells CNBC <a href="https://bsky.app/profile/cnbc.com/post/3ma6oucio2f25" target="_blank">cnbc.com</a> (2025-12-17 21:44:29)</span><span style="padding-right:50px;">LIVE: UK rejoins EU's Erasmus student exchange scheme youtube.com/live/sKf-raJ... <a href="https://bsky.app/profile/reuters.com/post/3ma6ottlq2c2y" target="_blank">reuters.com</a> (2025-12-17 21:44:13)</span>
+<span style="padding-right:50px;">東京株式市場で日経平均は３日ぶりに反発し、前営業日比１２８円９９銭高の４万９５１２円２８銭で取引を終えた。警戒されていた１１月の米雇用統計を通過し、安心感から買い戻しが優勢になった。人工知能（ＡＩ）を巡る好材料も追い風だった。買い一巡後はイベントを控え様子見ムードが広がり、日経平均は前日終値を挟んで方向感を欠く値動きとなった。 bit.ly/4qcaxHR <a href="https://bsky.app/profile/japan.reuters.com/post/3ma6pzhtmnn27" target="_blank">japan.reuters.com</a> (2025-12-17 22:05:16)</span><span style="padding-right:50px;">Ford cancels EV battery deal worth $6.5 billion with South Korea's LG Energy Solution reut.rs/4p2LQg2 <a href="https://bsky.app/profile/reuters.com/post/3ma6pzex3ch2o" target="_blank">reuters.com</a> (2025-12-17 22:05:13)</span><span style="padding-right:50px;">Bruce Campbell bought the 1,066-square-foot, 200-passenger Boeing 727 from a salvage company in 1999 for $100,000. <a href="https://bsky.app/profile/cnbc.com/post/3ma6pyfrlip2e" target="_blank">cnbc.com</a> (2025-12-17 22:04:40)</span><span style="padding-right:50px;">A decade ago, the self-proclaimed Islamic State group held vast swaths of territory across Iraq and Syria, but President Trump declared it destroyed in 2019. n.pr/4iZ674F <a href="https://bsky.app/profile/npr.org/post/3ma6pxqhf7224" target="_blank">npr.org</a> (2025-12-17 22:04:18)</span><span style="padding-right:50px;">LIVE: Nick Reiner in court for first appearance over parents' deaths youtube.com/live/LiQPmsr... <a href="https://bsky.app/profile/reuters.com/post/3ma6pwzn6ec2y" target="_blank">reuters.com</a> (2025-12-17 22:03:54)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.50 (🔺0.75 : 2025-12-17)</span>
+<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48114.26 (🔻265.91 : 2025-12-16)</span><span style="padding-right:50px;">NASDAQ: 23111.46 (🔺129.64 : 2025-12-16)</span><span style="padding-right:50px;">NVIDIA: 177.72 (🔺1.46 : 2025-12-16)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.58 (🔺0.83 : 2025-12-17)</span>
   </div>
 </div>
 
@@ -32,95 +32,104 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are six important stories with headlines:
 
-1. BREAKING: Warner Bros asks shareholders to reject takeover bid from Paramount
-2. Thai central bank cuts rates, open to more cuts after trimming 2026 GDP outlook
-3. BREAKING: UK rejoins EU's Erasmus student exchange scheme
-4. Australia's Bondi Beach shooting: 15 killed, government criticized for failure to prevent attack
-5. South Korea's central bank expects inflation to exceed forecast next year
-6. US stocks making big moves premarket: Netflix, Amazon, Lennar, General Mills & more
+1. Tokyo Stock Market Bounces Back After Worrying on US Employment Data
+2. Ford Cancels $6.5 Billion EV Battery Deal with LG Energy Solution
+3. Louvre Museum Reopens Partially as Workers End Strike After Heist
+4. Warner Bros. Discovery Rejects Paramount's Hostile Takeover Bid
+5. Thai Central Bank Cuts Rates, Sees More Cuts Ahead After Downgrading GDP Outlook
+6. EnQuest Expects to Surpass 2025 Production Targets Despite Global Challenges
 
 ----
 
-@nbcnews.com
-
-The company's board said in a Wednesday statement that it determined that the Paramount offer "is not in the best interests of WBD and its shareholders."
-
-[2025-12-17 21:46:09](https://bsky.app/profile/nbcnews.com/post/3ma6oxbt3d72p)
-
----
-
 @japan.reuters.com
 
-オークマは１７日、株式の売り出し価格を１株３３６５円に決定したと発表した。１７日の終値３４７０円を３．０３％下回る。需要に応じて追加で売り出すオーバーアロット分を含め、総額１６８億円。三井住友信託銀行や三菱ＵＦＪ銀行、福岡銀行、三井住友銀行など銀行１０行と三菱ＨＣキャピタルが売却する。 bit.ly/4j5rEJ8
+東京株式市場で日経平均は３日ぶりに反発し、前営業日比１２８円９９銭高の４万９５１２円２８銭で取引を終えた。警戒されていた１１月の米雇用統計を通過し、安心感から買い戻しが優勢になった。人工知能（ＡＩ）を巡る好材料も追い風だった。買い一巡後はイベントを控え様子見ムードが広がり、日経平均は前日終値を挟んで方向感を欠く値動きとなった。 bit.ly/4qcaxHR
 
-[2025-12-17 21:45:16](https://bsky.app/profile/japan.reuters.com/post/3ma6ovpn5hh2c)
+[2025-12-17 22:05:16](https://bsky.app/profile/japan.reuters.com/post/3ma6pzhtmnn27)
 
 ---
 
 @reuters.com
 
-Top 25 roundup: No. 20 Tennessee beats No. 11 Louisville to snap skid reut.rs/48Zv37A
+Ford cancels EV battery deal worth $6.5 billion with South Korea's LG Energy Solution reut.rs/4p2LQg2
 
-[2025-12-17 21:45:16](https://bsky.app/profile/reuters.com/post/3ma6ovpn2i523)
+[2025-12-17 22:05:13](https://bsky.app/profile/reuters.com/post/3ma6pzex3ch2o)
 
 ---
 
 @cnbc.com
 
-WBD tells shareholders Netflix deal is superior to Paramount offer: 'It was not a hard choice,' chairman tells CNBC
+Bruce Campbell bought the 1,066-square-foot, 200-passenger Boeing 727 from a salvage company in 1999 for $100,000.
 
-[2025-12-17 21:44:29](https://bsky.app/profile/cnbc.com/post/3ma6oucio2f25)
+[2025-12-17 22:04:40](https://bsky.app/profile/cnbc.com/post/3ma6pyfrlip2e)
+
+---
+
+@npr.org
+
+A decade ago, the self-proclaimed Islamic State group held vast swaths of territory across Iraq and Syria, but President Trump declared it destroyed in 2019. n.pr/4iZ674F
+
+[2025-12-17 22:04:18](https://bsky.app/profile/npr.org/post/3ma6pxqhf7224)
 
 ---
 
 @reuters.com
 
-LIVE: UK rejoins EU's Erasmus student exchange scheme youtube.com/live/sKf-raJ...
+LIVE: Nick Reiner in court for first appearance over parents' deaths youtube.com/live/LiQPmsr...
 
-[2025-12-17 21:44:13](https://bsky.app/profile/reuters.com/post/3ma6ottlq2c2y)
+[2025-12-17 22:03:54](https://bsky.app/profile/reuters.com/post/3ma6pwzn6ec2y)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@cnn.com
 
-自民と維新「OTC類似薬」患者の自己負担上乗せで折り合わず
-https://news.web.nhk/newsweb/na/na-k10015006911000
+President Donald Trump promised voters in 2024 that if they returned him to the White House, his policies would deliver a blue-collar jobs boom.
 
-[2025-12-17 21:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma6opyeli72x)
+[2025-12-17 22:02:01](https://bsky.app/profile/cnn.com/post/3ma6ptodjjd2t)
+
+---
+
+@nikkei.com
+
+【いぶりがっこをヨーロッパへ】
+秋田のスタートアップが奔走、メニューも進化
+www.nikkei.com/article/DGXZQO...
+
+ロンドンで現地レストランの料理人を招いた試食会を開催。様々な調理法で新たなメニューを開発してもらう狙いです。
+
+燻製料理があるヨーロッパは、受け入れられる条件が整っているとにらんで販路を開拓します。
+
+ピザやカルパッチョに使う食材として、アフリカでいぶりがっこを売り込む企業もあります。
+
+[2025-12-17 22:01:16](https://bsky.app/profile/nikkei.com/post/3ma6pscoaig2x)
 
 ---
 
 @reuters.com
 
-Thai central bank cuts rates, open to more cuts after trimming 2026 GDP outlook reut.rs/48HZXT5
+European shares rise as banking, commodity stocks lead broader gains reut.rs/44zyMHL
 
-[2025-12-17 21:40:26](https://bsky.app/profile/reuters.com/post/3ma6on3blse2y)
-
----
-
-@japan.reuters.com
-
-アサヒグループホールディングスは１７日、 英酒造大手ディアジオの東アフリカ事業を取得すると発表した。取得額は計約４６５４億円。これにより、ケニア、ウガンダ、タンザニアのビールやスピリッツ事業を統括する現地企業「イースト・アフリカン・ブルワリーズ」（ＥＡＢＬ）の株式６５％を間接的に取得する。 bit.ly/3N4oLMx
-
-[2025-12-17 21:40:19](https://bsky.app/profile/japan.reuters.com/post/3ma6omuj2k62p)
+[2025-12-17 22:00:57](https://bsky.app/profile/reuters.com/post/3ma6prrfj5l2r)
 
 ---
 
-@nbcnews.com
+@apnews.com
 
-Rhode Island officials release new images and video of a person of interest as the search continues for the shooter who killed two Brown University students and injured nine others Saturday.
+A judge says he's optimistic that a pretrial hearing in Luigi Mangione's New York murder case will end this week.
 
-[2025-12-17 21:40:17](https://bsky.app/profile/nbcnews.com/post/3ma6omsioza23)
+[2025-12-17 22:00:26](https://bsky.app/profile/apnews.com/post/3ma6pqt3r322p)
 
 ---
 
-@japan.reuters.com
+@washingtonpost.com
 
-米地区連邦準備銀行の四半期調査によると、企業の財務責任者は引き続き関税を最大の懸念事項として挙げており、来年は平均して物価が４．２％上昇すると見込んでいる。近いうちに２％のインフレ目標を達成できないのではないかという連邦準備理事会（ＦＲＢ）の懸念を一層強める可能性がある。 bit.ly/49hDexq
+The alleged gunman in the deadly attack in Bondi Beach was charged with a total of 59 offenses, including committing a terrorist act.
 
-[2025-12-17 21:38:52](https://bsky.app/profile/japan.reuters.com/post/3ma6okbocfs2q)
+His father was killed by police after the pair allegedly opened fire on a Hanukkah festival.
+
+[2025-12-17 22:00:23](https://bsky.app/profile/washingtonpost.com/post/3ma6pqqk63k24)
 
 ---
 
