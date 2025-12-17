@@ -1,9 +1,9 @@
-# [2025-12-18 00:50 updated](2025_12_18.md)
+# [2025-12-18 01:10 updated](2025_12_18.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">How did you do in Connections today? Players must select four groups of four words without making more than three mistakes. nyti.ms/48YpeqS <a href="https://bsky.app/profile/nytimes.com/post/3ma6z6cqeik2x" target="_blank">nytimes.com</a> (2025-12-18 00:49:02)</span><span style="padding-right:50px;">BREAKING: Four Republicans defy Speaker Johnson and sign Democratic petition that will force House vote on extending ACA subsidies. <a href="https://bsky.app/profile/apnews.com/post/3ma6yxrnqi42n" target="_blank">apnews.com</a> (2025-12-18 00:45:23)</span><span style="padding-right:50px;">Italy, France say it's 'premature' to sign EU-Mercosur trade deal reut.rs/44ye37f <a href="https://bsky.app/profile/reuters.com/post/3ma6yxqcthq24" target="_blank">reuters.com</a> (2025-12-18 00:45:21)</span><span style="padding-right:50px;">Trump is good news for Nato, Mark Rutte tells BBC <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma6yqlljxg2b" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-18 00:41:21)</span><span style="padding-right:50px;">Continental picks tyre veteran as CEO to focus on core business reut.rs/4iYHCEO <a href="https://bsky.app/profile/reuters.com/post/3ma6youeylr23" target="_blank">reuters.com</a> (2025-12-18 00:40:23)</span>
+<span style="padding-right:50px;">In a rebuke of Speaker Johnson, four House Republicans sided with the Democrats to force a vote on extending ACA subsidies. <a href="https://bsky.app/profile/wsj.com/post/3ma725gfqxp2q" target="_blank">wsj.com</a> (2025-12-18 01:06:26)</span><span style="padding-right:50px;">Polar bear mother adopts cub in rarely documented case <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma723suu4l2b" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-18 01:05:31)</span><span style="padding-right:50px;">🇲🇽 🇺🇸 🇻🇪 Mexican President Claudia Sheinbaum urged the United Nations on Wednesday to "prevent any bloodshed" in Venezuela, as US President Donald Trump piled pressure on the South American country ➡️ u.afp.com/S7t9 <a href="https://bsky.app/profile/en.afp.com/post/3ma723ouf7o2u" target="_blank">en.afp.com</a> (2025-12-18 01:05:28)</span><span style="padding-right:50px;">From hospital beds, Cambodian soldiers describe 'toxic gas' reut.rs/3MHMl1J <a href="https://bsky.app/profile/reuters.com/post/3ma723airkz24" target="_blank">reuters.com</a> (2025-12-18 01:05:13)</span><span style="padding-right:50px;">The best football teams tend to dominate possession. Oklahoma has the ball less than their opponents, and it’s gotten them to the College Football Playoff. on.wsj.com/4jmcJup <a href="https://bsky.app/profile/wsj.com/post/3ma6zw6gwk22h" target="_blank">wsj.com</a> (2025-12-18 01:02:23)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48121.28 (🔻6.77 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22916.98 (🔻218.63 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 172.52 (🔻3.58 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.45 (🔺0.70 : 2025-12-17)</span>
+<span style="padding-right:50px;">NIKKEI: 49512.28 (🔺99.09 : 2025-12-17)</span><span style="padding-right:50px;">DOW: 48071.36 (🔻56.69 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22908.56 (🔻227.05 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 172.04 (🔻4.06 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3349.00 (🔺3.00 : 2025-12-17)</span><span style="padding-right:50px;">USD/JPY: 155.50 (🔺0.75 : 2025-12-17)</span>
   </div>
 </div>
 
@@ -32,96 +32,96 @@
 
 ## News Headlines
 
-Here are the six selected headlines in English:
+Here are six important stories with headlines in English:
 
-1. Four Republicans Defy Speaker Johnson, Back Democratic Petition for ACA Subsidies
-2. Italy, France Deem EU-Mercosur Trade Deal 'Premature'
-3. Trump Seen as Good News for NATO, Says Dutch PM Mark Rutte
-4. Tesla Given 90 Days to Comply with Consumer Protection Laws
-5. US Flood Insurance Changes Leave Lower-Income Homeowners Without Coverage
-6. Lithium Prices Surge in China as Local Authorities Revocate Mining Licenses
+1. BREAKING: Four Republicans Defy Speaker Johnson, Back Democratic Push for ACA Subsidies
+2. Polar Bear Mother Adopts Rarely Documented Cub
+3. Mexican President Urges UN to Prevent Bloodshed in Venezuela
+4. US President's Chief of Staff Describes Trump as Having 'Alcoholic's Personality'
+5. FIFA Announces Record Financial Contribution for 2026 World Cup
+6. California Regulators Give Tesla 90 Days to Meet Compliance on Autonomous Car Claims
 
 ----
 
-@nytimes.com
+@wsj.com
 
-How did you do in Connections today? Players must select four groups of four words without making more than three mistakes. nyti.ms/48YpeqS
+In a rebuke of Speaker Johnson, four House Republicans sided with the Democrats to force a vote on extending ACA subsidies.
 
-[2025-12-18 00:49:02](https://bsky.app/profile/nytimes.com/post/3ma6z6cqeik2x)
-
----
-
-@apnews.com
-
-<strong><span style="color: red;">BREAKING:</span> Four Republicans defy Speaker Johnson and sign Democratic petition that will force House vote on extending ACA subsidies.</strong>
-
-[2025-12-18 00:45:23](https://bsky.app/profile/apnews.com/post/3ma6yxrnqi42n)
-
----
-
-@reuters.com
-
-Italy, France say it's 'premature' to sign EU-Mercosur trade deal reut.rs/44ye37f
-
-[2025-12-18 00:45:21](https://bsky.app/profile/reuters.com/post/3ma6yxqcthq24)
+[2025-12-18 01:06:26](https://bsky.app/profile/wsj.com/post/3ma725gfqxp2q)
 
 ---
 
 @bbcnews-world-rss.bsky.social
 
-Trump is good news for Nato, Mark Rutte tells BBC
+Polar bear mother adopts cub in rarely documented case
 
-[2025-12-18 00:41:21](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma6yqlljxg2b)
+[2025-12-18 01:05:31](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3ma723suu4l2b)
+
+---
+
+@en.afp.com
+
+🇲🇽 🇺🇸 🇻🇪 Mexican President Claudia Sheinbaum urged the United Nations on Wednesday to "prevent any bloodshed" in Venezuela, as US President Donald Trump piled pressure on the South American country ➡️ u.afp.com/S7t9
+
+[2025-12-18 01:05:28](https://bsky.app/profile/en.afp.com/post/3ma723ouf7o2u)
 
 ---
 
 @reuters.com
 
-Continental picks tyre veteran as CEO to focus on core business reut.rs/4iYHCEO
+From hospital beds, Cambodian soldiers describe 'toxic gas' reut.rs/3MHMl1J
 
-[2025-12-18 00:40:23](https://bsky.app/profile/reuters.com/post/3ma6youeylr23)
-
----
-
-@nbcnews.com
-
-The year 2025 has been filled with cultural absurdities.
-
-Here’s a full look at NBC News’ list of the biggest cultural moments of 2025.
-
-[2025-12-18 00:40:11](https://bsky.app/profile/nbcnews.com/post/3ma6yoi66qr2d)
+[2025-12-18 01:05:13](https://bsky.app/profile/reuters.com/post/3ma723airkz24)
 
 ---
 
 @wsj.com
 
-California regulators have given Tesla 90 days to meet compliance after an administrative law judge found the company deceived consumers by falsely implying its cars could drive on their own.
+The best football teams tend to dominate possession. Oklahoma has the ball less than their opponents, and it’s gotten them to the College Football Playoff. on.wsj.com/4jmcJup
 
-[2025-12-18 00:38:04](https://bsky.app/profile/wsj.com/post/3ma6ykpeqtz2h)
+[2025-12-18 01:02:23](https://bsky.app/profile/wsj.com/post/3ma6zw6gwk22h)
+
+---
+
+@reuters.com
+
+Morning Bid: Inflation Grinch Creeps Up On Wall Street reut.rs/4pF047V
+
+[2025-12-18 01:01:17](https://bsky.app/profile/reuters.com/post/3ma6zua3vfb2b)
+
+---
+
+@usatoday.com
+
+NBA commissioner Adam Silver says that a decision on whether the league will expand beyond its current 30 teams is expected to be made in 2026.
+
+[2025-12-18 01:01:01](https://bsky.app/profile/usatoday.com/post/3ma6ztqiebw2o)
+
+---
+
+@apnews.com
+
+Jayden Daniels says he was frustrated and disappointed by missing so much time during his second year in the NFL.
+
+[2025-12-18 01:00:53](https://bsky.app/profile/apnews.com/post/3ma6ztj647c23)
 
 ---
 
 @bloomberg.com
 
-Changes to US government flood insurance have resulted in many lower-income homeowners dropping their coverage, new research finds.
+Rain will ease Wednesday across the Pacific Northwest after floods and winds left at least 600,000 without power, forced hundreds of people in Washington to flee their homes and killed at least one person.
 
-[2025-12-18 00:35:58](https://bsky.app/profile/bloomberg.com/post/3ma6ygxa4qn2e)
-
----
-
-@npr.org
-
-Discover a broad range of this year's most compelling classical recordings, including symphonic booty-shakers, mystic violin, pipe organ prog and a guided tour of 18th century German chart-toppers. n.pr/4s22YVY
-
-[2025-12-18 00:35:26](https://bsky.app/profile/npr.org/post/3ma6yfymlu22p)
+[2025-12-18 01:00:44](https://bsky.app/profile/bloomberg.com/post/3ma6ztbdphg2z)
 
 ---
 
-@cnn.com
+@washingtonpost.com
 
-In a stunning blow to Speaker Mike Johnson, four GOP lawmakers have agreed to back a Democratic push to extend pandemic-era Obamacare subsidies. https://cnn.it/48HCNwa
+The Post's new food critic, Elazar Sontag, is answering your restaurant questions, rants and raves.
 
-[2025-12-18 00:35:19](https://bsky.app/profile/cnn.com/post/3ma6yfs3vrg22)
+Join the conversation:
+
+[2025-12-18 01:00:38](https://bsky.app/profile/washingtonpost.com/post/3ma6zt2btsb2e)
 
 ---
 
