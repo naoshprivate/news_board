@@ -1,9 +1,9 @@
-# [2025-12-18 17:30 updated](2025_12_18.md)
+# [2025-12-18 17:50 updated](2025_12_18.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">名古屋グランパス 新監督にミハイロ・ペトロヴィッチ氏が就任 https://news.web.nhk/newsweb/na/na-k10015007491000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maaqwy33y62k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 17:27:03)</span><span style="padding-right:50px;">ブルームバーグ・ニュースの１７日の報道によると、米国はロシアがウクライナとの和平合意を拒否する場合に備え、ロシアのエネルギー部門を標的にした新たな制裁を準備している。事情に詳しい関係者の話として報じた。 bit.ly/4qh3bmC <a href="https://bsky.app/profile/japan.reuters.com/post/3maaqttxyps22" target="_blank">japan.reuters.com</a> (2025-12-18 17:25:20)</span><span style="padding-right:50px;">US consumer prices likely posted largest annual increase in 1-1/2 years in November reut.rs/4pE9oJj <a href="https://bsky.app/profile/reuters.com/post/3maaqtqcx2u2s" target="_blank">reuters.com</a> (2025-12-18 17:25:16)</span><span style="padding-right:50px;">片山虎之助氏 死去 90歳 初代総務相 自民参院幹事長など歴任 https://news.web.nhk/newsweb/na/na-k10015007501000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maaqrlixnw22" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 17:24:02)</span><span style="padding-right:50px;">トランプ米大統領は１７日、ホワイトハウスで国民に向けて演説し、第２次政権発足以降の実績を強調した。共和党が来年の中間選挙で厳しい戦いを強いられる見通しとなる中、民主党のバイデン前政権が物価高騰を招いたと非難した。 bit.ly/4jdQxCr <a href="https://bsky.app/profile/japan.reuters.com/post/3maaqkr76oc2p" target="_blank">japan.reuters.com</a> (2025-12-18 17:20:16)</span>
+<span style="padding-right:50px;">Incoming BP chief charted expansive legacy at Australia's Woodside reut.rs/4j1goxv <a href="https://bsky.app/profile/reuters.com/post/3maarxgkayx2r" target="_blank">reuters.com</a> (2025-12-18 17:45:14)</span><span style="padding-right:50px;">2028年 ロス五輪 男子サッカーのアジア枠「3.5」から「2」に減 https://news.web.nhk/newsweb/na/na-k10015007531000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maarx5jn2j2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 17:45:03)</span><span style="padding-right:50px;">香港で強盗事件 被害の外貨両替店 “約10億円の現金奪われた” https://news.web.nhk/newsweb/na/na-k10015007551000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maarrsfise2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 17:42:03)</span><span style="padding-right:50px;">ドイツ連邦議会の予算委員会は１７日、今後数年間で５００億ユーロ（約５８６億ドル）を超える防衛契約を承認した。ドイツはロシアのウクライナ侵攻で軍事支出の拡大を迫られている。 bit.ly/4pDqFlO <a href="https://bsky.app/profile/japan.reuters.com/post/3maarokxhnk22" target="_blank">japan.reuters.com</a> (2025-12-18 17:40:17)</span><span style="padding-right:50px;">Uganda October export earnings nearly double on coffee, gold receipts reut.rs/4qf91ok <a href="https://bsky.app/profile/reuters.com/post/3maaroj3f7j2k" target="_blank">reuters.com</a> (2025-12-18 17:40:15)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.82 (🔺0.22 : 2025-12-18)</span>
+<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.83 (🔺0.23 : 2025-12-18)</span>
   </div>
 </div>
 
@@ -32,103 +32,95 @@
 
 ## News Headlines
 
-Here are the six selected headlines in English:
-
-1. Tragic accident in Japan: Three vehicles involved in a crash, two people injured
-2. Russia's Rostov region hit by drone attacks, killing three people
-3. Trump administration approves $17 billion in arms sales to Taiwan
-4. Japan's government sues over environmental damage
-5. Ukraine drones strike Russia's Rostov region, killing three people
-6. Japan's education ministry to reduce teacher training requirements
+1. Incoming BP chief charted expansive legacy at Australia's Woodside
+2. Russia-Ukraine war live: EU holds key summit to strengthen Kyiv's hand
+3. Germany approves 586 billion dollars in defense deals over next few years
+4. EU leaders vow to agree funding for Ukraine
+5. China creates AI and chip-making technology in heavily guarded lab
+6. US consumer prices likely posted largest annual increase in 1-1/2 years in November
 
 ----
 
+@reuters.com
+
+Incoming BP chief charted expansive legacy at Australia's Woodside reut.rs/4j1goxv
+
+[2025-12-18 17:45:14](https://bsky.app/profile/reuters.com/post/3maarxgkayx2r)
+
+---
+
 @nhknewsunofficial.bsky.social
 
-名古屋グランパス 新監督にミハイロ・ペトロヴィッチ氏が就任
-https://news.web.nhk/newsweb/na/na-k10015007491000
+2028年 ロス五輪 男子サッカーのアジア枠「3.5」から「2」に減
+https://news.web.nhk/newsweb/na/na-k10015007531000
 
-[2025-12-18 17:27:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maaqwy33y62k)
+[2025-12-18 17:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maarx5jn2j2m)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+香港で強盗事件 被害の外貨両替店 “約10億円の現金奪われた”
+https://news.web.nhk/newsweb/na/na-k10015007551000
+
+[2025-12-18 17:42:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maarrsfise2s)
 
 ---
 
 @japan.reuters.com
 
-ブルームバーグ・ニュースの１７日の報道によると、米国はロシアがウクライナとの和平合意を拒否する場合に備え、ロシアのエネルギー部門を標的にした新たな制裁を準備している。事情に詳しい関係者の話として報じた。 bit.ly/4qh3bmC
+ドイツ連邦議会の予算委員会は１７日、今後数年間で５００億ユーロ（約５８６億ドル）を超える防衛契約を承認した。ドイツはロシアのウクライナ侵攻で軍事支出の拡大を迫られている。 bit.ly/4pDqFlO
 
-[2025-12-18 17:25:20](https://bsky.app/profile/japan.reuters.com/post/3maaqttxyps22)
+[2025-12-18 17:40:17](https://bsky.app/profile/japan.reuters.com/post/3maarokxhnk22)
 
 ---
 
 @reuters.com
 
-US consumer prices likely posted largest annual increase in 1-1/2 years in November reut.rs/4pE9oJj
+Uganda October export earnings nearly double on coffee, gold receipts reut.rs/4qf91ok
 
-[2025-12-18 17:25:16](https://bsky.app/profile/reuters.com/post/3maaqtqcx2u2s)
+[2025-12-18 17:40:15](https://bsky.app/profile/reuters.com/post/3maaroj3f7j2k)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-片山虎之助氏 死去 90歳 初代総務相 自民参院幹事長など歴任
-https://news.web.nhk/newsweb/na/na-k10015007501000
+JOC前会長 山下泰裕さんが講義に復帰 けい椎損傷で長期療養
+https://news.web.nhk/newsweb/na/na-k10015007481000
 
-[2025-12-18 17:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maaqrlixnw22)
+[2025-12-18 17:39:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maarmg3jeh2d)
+
+---
+
+@financialtimes.com
+
+EU leaders vow to agree funding for Ukraine ft.trib.al/EcPrkCq
+
+[2025-12-18 17:36:05](https://bsky.app/profile/financialtimes.com/post/3maarh2go4p2b)
 
 ---
 
 @japan.reuters.com
 
-トランプ米大統領は１７日、ホワイトハウスで国民に向けて演説し、第２次政権発足以降の実績を強調した。共和党が来年の中間選挙で厳しい戦いを強いられる見通しとなる中、民主党のバイデン前政権が物価高騰を招いたと非難した。 bit.ly/4jdQxCr
+厳重に警備され深センの研究所で、中国の科学者たちが米政府が長年阻止しようとしてきたものを作り上げた。人工知能（ＡＩ）やスマートフォン、西側の軍事的優位性の中核となる兵器に不可欠な最先端の半導体チップを製造できる機械の試作機だ。 bit.ly/3YFlPsh
 
-[2025-12-18 17:20:16](https://bsky.app/profile/japan.reuters.com/post/3maaqkr76oc2p)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】ダンプカー・乗用車・軽乗用車3台が絡む事故 社内に閉じ込められた2人けが 山口
-(2025-12-18 17:03:00) #ニュース
-
-[2025-12-18 17:16:51](https://bsky.app/profile/sokuho.news/post/3maaqeo3eyw26)
-
----
-
-@sokuho.news
-
-🔔ANNより【速報】です。
-
-【速報】片山虎之助元総務大臣（90）が死去 日本維新の会の共同代表など歴任
-(2025年12月18日 17:16) #ニュース
-
-[2025-12-18 17:16:50](https://bsky.app/profile/sokuho.news/post/3maaqen7tha2y)
-
----
-
-@japan.reuters.com
-
-トランプ米大統領が１６日にベネズエラを出入りする制裁対象の石油タンカーの「全面封鎖」を命じると表明したことを受け、このところ増加しているロシア産ナフサのベネズエラ向け輸出に暗雲が垂れ込めている。ロシアはナフサのベネズエラへの輸送に制裁対象の船舶を使用しているためだ。トレーダーはこれらの船舶が新たな買い手を探して行き先を変更する可能性があると指摘する。 bit.ly/3KXNhOW
-
-[2025-12-18 17:15:17](https://bsky.app/profile/japan.reuters.com/post/3maaqburbsf2q)
+[2025-12-18 17:35:14](https://bsky.app/profile/japan.reuters.com/post/3maarfk6qf22p)
 
 ---
 
 @reuters.com
 
-Three dead, cargo ship catches fire in drone attacks on Russia's Rostov region reut.rs/3XYC3g7
+Top 25 roundup: Braden Huff puts up 37 as No. 7 Zags crush Campbell reut.rs/4qb1O8J
 
-[2025-12-18 17:15:14](https://bsky.app/profile/reuters.com/post/3maaqbrbpkn2r)
+[2025-12-18 17:35:11](https://bsky.app/profile/reuters.com/post/3maarfhkxk42r)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@wsj.com
 
-米トランプ政権 台湾に対し総額1兆7000億円余の武器売却を承認
-https://news.web.nhk/newsweb/na/na-k10015007461000
+Here are four compulsively crunchable recipes to fuel your holiday revels. And for a pairing both festive and fuss-free, how about a shot? 🔗 on.wsj.com/48JU9Zp
 
-[2025-12-18 17:15:06](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maaqbmgwv42s)
+[2025-12-18 17:32:36](https://bsky.app/profile/wsj.com/post/3maaratjgid2i)
 
 ---
 
