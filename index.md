@@ -1,9 +1,9 @@
-# [2025-12-19 05:30 updated](2025_12_19.md)
+# [2025-12-19 05:50 updated](2025_12_19.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">A new drama uses the real, gut-wrenching recordings of a call for help from Gaza to tell a harrowing and profound story. n.pr/4q8v28q <a href="https://bsky.app/profile/npr.org/post/3mabzaszy3524" target="_blank">npr.org</a> (2025-12-19 05:28:25)</span><span style="padding-right:50px;">Democratic lawmakers have released new photos from Jeffrey Epstein’s estate, including images of Microsoft co-founder Bill Gates, Google co-founder Sergey Brin and New York Times columnist David Brooks. ft.trib.al/4oYNHdG <a href="https://bsky.app/profile/financialtimes.com/post/3mabz7o2hlq2w" target="_blank">financialtimes.com</a> (2025-12-19 05:27:47)</span><span style="padding-right:50px;">＜ロンドン株式市場＞ bit.ly/48KN3DX <a href="https://bsky.app/profile/japan.reuters.com/post/3mabz6yxvrz2v" target="_blank">japan.reuters.com</a> (2025-12-19 05:27:24)</span><span style="padding-right:50px;">「年収の壁」178万円への引き上げで合意 高市首相と玉木代表 https://news.web.nhk/newsweb/na/na-k10015007921000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mabz6fhh362b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 05:27:02)</span><span style="padding-right:50px;">Binotto says Audi will have confidence and credibility for F1 debut reut.rs/3Y2Upws <a href="https://bsky.app/profile/reuters.com/post/3mabz36xwy32k" target="_blank">reuters.com</a> (2025-12-19 05:25:16)</span>
+<span style="padding-right:50px;">Frustration is mounting inside the Justice Department as it races to redact thousands of pages of files related to Jeffrey Epstein before they must be released Friday, multiple sources familiar with the process told CNN. https://cnn.it/44z7tNG <a href="https://bsky.app/profile/cnn.com/post/3mac2by4krp2x" target="_blank">cnn.com</a> (2025-12-19 05:46:58)</span><span style="padding-right:50px;">Pips is a logic puzzle where players must arrange a set of dominoes to meet the conditions of the board to win. There are three new puzzles each day — can you beat them all? nyti.ms/4aWhwjG <a href="https://bsky.app/profile/nytimes.com/post/3mac2af2fjr2r" target="_blank">nytimes.com</a> (2025-12-19 05:46:04)</span><span style="padding-right:50px;">Bank of England's Bailey sees inflation near 2% target by May reut.rs/4oYnXq5 <a href="https://bsky.app/profile/reuters.com/post/3mac275etqh2o" target="_blank">reuters.com</a> (2025-12-19 05:45:23)</span><span style="padding-right:50px;">In @nytopinion.nytimes.com   What does it mean to feel healthy? What makes being healthy harder or easier in America? Times Opinion spoke to 14 Americans from all walks of life who are using or have recently used GLP-1 medications. <a href="https://bsky.app/profile/nytimes.com/post/3mac26lxgng2b" target="_blank">nytimes.com</a> (2025-12-19 05:45:04)</span><span style="padding-right:50px;">The move to Schedule III marks the greatest change to U.S. drug laws since the Controlled Substances Act in 1970 and represents a new future for the $32 billion cannabis industry. www.forbes.com/sites/willya... (📸: Patrick T. Fallon/AFP via Getty Images) <a href="https://bsky.app/profile/forbes.com/post/3mac266fg322m" target="_blank">forbes.com</a> (2025-12-19 05:44:50)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 48026.35 (🔻74.83 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23036.26 (🔺24.20 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.67 (🔺0.14 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.58 (🔻0.01 : 2025-12-18)</span>
+<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 48047.67 (🔻53.51 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23068.18 (🔺56.12 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.85 (🔺0.32 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.62 (🔺0.03 : 2025-12-18)</span>
   </div>
 </div>
 
@@ -32,96 +32,97 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are six important stories with headlines:
 
-1. New Photos Released from Jeffrey Epstein's Estate Show Notable Figures
-2. European Stocks Bounce Back After ECB Economic Forecast Revision
-3. Trump Signs Executive Order to Reclassify Marijuana, Easing Research Restrictions
-4. Crime in New York City Subways Drops to Lowest Level Since 2009
-5. European Central Bank Maintains Policy Rates, Raises Growth and Inflation Forecasts
-6. Instacart to Pay $60 Million to Settle FTC Claims of Deceiving Customers
+1. US Justice Department Rushes to Redact Epstein Files Ahead of Friday Deadline
+2. Bank of England Sees Inflation Near 2% Target by May
+3. US Energy Department Taps Big Tech for AI-Powered Research Push
+4. Trump Proposes Ban on Gender-Affirming Care for Transgender Youth
+5. Major Crime in New York City Subway Falls to Lowest Level Since 2009
+6. European Central Bank Keeps Policy Interest Rate Unchanged, Upgrades Economic Outlook
 
 ----
 
-@npr.org
+@cnn.com
 
-A new drama uses the real, gut-wrenching recordings of a call for help from Gaza to tell a harrowing and profound story. n.pr/4q8v28q
+Frustration is mounting inside the Justice Department as it races to redact thousands of pages of files related to Jeffrey Epstein before they must be released Friday, multiple sources familiar with the process told CNN. https://cnn.it/44z7tNG
 
-[2025-12-19 05:28:25](https://bsky.app/profile/npr.org/post/3mabzaszy3524)
-
----
-
-@financialtimes.com
-
-Democratic lawmakers have released new photos from Jeffrey Epstein’s estate, including images of Microsoft co-founder Bill Gates, Google co-founder Sergey Brin and New York Times columnist David Brooks. ft.trib.al/4oYNHdG
-
-[2025-12-19 05:27:47](https://bsky.app/profile/financialtimes.com/post/3mabz7o2hlq2w)
-
----
-
-@japan.reuters.com
-
-＜ロンドン株式市場＞ bit.ly/48KN3DX
-
-[2025-12-19 05:27:24](https://bsky.app/profile/japan.reuters.com/post/3mabz6yxvrz2v)
-
----
-
-@nhknewsunofficial.bsky.social
-
-「年収の壁」178万円への引き上げで合意 高市首相と玉木代表
-https://news.web.nhk/newsweb/na/na-k10015007921000
-
-[2025-12-19 05:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mabz6fhh362b)
-
----
-
-@reuters.com
-
-Binotto says Audi will have confidence and credibility for F1 debut reut.rs/3Y2Upws
-
-[2025-12-19 05:25:16](https://bsky.app/profile/reuters.com/post/3mabz36xwy32k)
+[2025-12-19 05:46:58](https://bsky.app/profile/cnn.com/post/3mac2by4krp2x)
 
 ---
 
 @nytimes.com
 
-Major crime in the New York City subway was lower in 2025 than any year since 2009, according to Gov. Kathy Hochul. nyti.ms/48UIV4t
+Pips is a logic puzzle where players must arrange a set of dominoes to meet the conditions of the board to win. There are three new puzzles each day — can you beat them all? nyti.ms/4aWhwjG
 
-[2025-12-19 05:25:06](https://bsky.app/profile/nytimes.com/post/3mabz2v4g2326)
+[2025-12-19 05:46:04](https://bsky.app/profile/nytimes.com/post/3mac2af2fjr2r)
+
+---
+
+@reuters.com
+
+Bank of England's Bailey sees inflation near 2% target by May reut.rs/4oYnXq5
+
+[2025-12-19 05:45:23](https://bsky.app/profile/reuters.com/post/3mac275etqh2o)
+
+---
+
+@nytimes.com
+
+In @nytopinion.nytimes.com 
+
+What does it mean to feel healthy? What makes being healthy harder or easier in America? Times Opinion spoke to 14 Americans from all walks of life who are using or have recently used GLP-1 medications.
+
+[2025-12-19 05:45:04](https://bsky.app/profile/nytimes.com/post/3mac26lxgng2b)
+
+---
+
+@forbes.com
+
+The move to Schedule III marks the greatest change to U.S. drug laws since the Controlled Substances Act in 1970 and represents a new future for the $32 billion cannabis industry.
+www.forbes.com/sites/willya... (📸: Patrick T. Fallon/AFP via Getty Images)
+
+[2025-12-19 05:44:50](https://bsky.app/profile/forbes.com/post/3mac266fg322m)
+
+---
+
+@wsj.com
+
+Morgan Neville’s documentary argues for the importance of the year in the history of Hollywood—when ‘Nashville’ and ‘Jaws’ came out, among others—though it takes a fuzzy approach to dates and details. on.wsj.com/3Yyi4F5
+
+[2025-12-19 05:42:27](https://bsky.app/profile/wsj.com/post/3mabzzvznvh2q)
+
+---
+
+@cbsnews.com
+
+<strong><span style="color: red;">BREAKING:</span> Authorities are investigating possible ties between the Brown shooting and an MIT professor's killing, sources say.</strong>
+
+[2025-12-19 05:40:40](https://bsky.app/profile/cbsnews.com/post/3mabzwpubyu2j)
 
 ---
 
 @japan.reuters.com
 
-欧州株式市場は３日ぶりに反発して取引を終えた。欧州中央銀行（ＥＣＢ）が経済見通しを一部上方修正したほか、米インフレ率が予想を下回り、来年の米利下げ期待が高まったことが投資家心理を支えた。ドイツのＤＡＸ指数が１．００％高、フランスのＣＡＣ４０指数が０．８０％高と、大半の地域市場がプラス圏だった。 bit.ly/496bESE
+欧州中央銀行（ＥＣＢ）は１８日に開いた理事会で政策金利を据え置くと決定した。金利据え置きは４会合連続。ＥＣＢは声明で「特に内需のけん引により、経済成長は９月時点のの予測よりも力強くなると予想される」と指摘。同時に発表した景気予測では、成長率とインフレ率の見通しを一部上方修正した。 bit.ly/4aHqd1x
 
-[2025-12-19 05:21:06](https://bsky.app/profile/japan.reuters.com/post/3mabytq6hbx2c)
-
----
-
-@nhknewsunofficial.bsky.social
-
-高市首相と中央アジア5か国 初の首脳会合 きょうから開催
-https://news.web.nhk/newsweb/na/na-k10015007871000
-
-[2025-12-19 05:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mabytoysyl22)
+[2025-12-19 05:40:35](https://bsky.app/profile/japan.reuters.com/post/3mabzwl5dcz2v)
 
 ---
 
-@japan.reuters.com
+@reuters.com
 
-欧州中央銀行（ＥＣＢ）は１８日に開いた理事会に合わせて発表した最新の経済見通しで、成長率とインフレ率の一部見通しを上方修正した。 bit.ly/3YBgl1O
+Anthropic asks judge to slash legal fees in $1.5 billion settlement reut.rs/4qniZ7r
 
-[2025-12-19 05:20:38](https://bsky.app/profile/japan.reuters.com/post/3mabysvoahw2p)
+[2025-12-19 05:40:24](https://bsky.app/profile/reuters.com/post/3mabzwap5fu2i)
 
 ---
 
 @nbcnews.com
 
-An uninhabited isle 10 miles off the coast of southwest Scotland is the source of the super-dense granite used to make curling stones for the Winter Olympics.
+An Alaska Airlines passenger was charged in federal court after allegedly trying to open the door of the plane mid-flight, leaving other travelers fearing for their safety.
 
-[2025-12-19 05:20:15](https://bsky.app/profile/nbcnews.com/post/3mabys7kwdx23)
+[2025-12-19 05:40:11](https://bsky.app/profile/nbcnews.com/post/3mabzvu3ibc22)
 
 ---
 
