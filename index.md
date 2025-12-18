@@ -1,9 +1,9 @@
-# [2025-12-19 07:50 updated](2025_12_19.md)
+# [2025-12-19 08:10 updated](2025_12_19.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The newly named pro-migrant archbishop of New York called himself an "unworthy servant" during his first Mass in the city after Pope Leo XIV named his fellow Chicago native to replace a conservative cardinal Thursday.  u.afp.com/S8J7 <a href="https://bsky.app/profile/en.afp.com/post/3macb2iuvxs2j" target="_blank">en.afp.com</a> (2025-12-19 07:48:03)</span><span style="padding-right:50px;">家族向けマンション家賃、初の25万円台　東京23区 www.nikkei.com/article/DGXZQO...   住宅価格上昇により購入を諦めた層が賃貸市場に流れ込み、旺盛な需要につながっています。   一方、引っ越し費用の上昇で転居を控える傾向が強まり、空き部屋が出にくくなっています。オーナー側が強気の価格設定をしやすい環境です。 <a href="https://bsky.app/profile/nikkei.com/post/3macay2s3gr2m" target="_blank">nikkei.com</a> (2025-12-19 07:46:41)</span><span style="padding-right:50px;">It’s more than the 50 stars on the flag—the American story is suffused with celestial imagery and astronomical symbols. on.wsj.com/4aiLNsS <a href="https://bsky.app/profile/wsj.com/post/3macax6sq2s2r" target="_blank">wsj.com</a> (2025-12-19 07:46:12)</span><span style="padding-right:50px;">Trump administration condemns detention of US officials in South Africa reut.rs/4s3poWX <a href="https://bsky.app/profile/reuters.com/post/3macavpbfts2r" target="_blank">reuters.com</a> (2025-12-19 07:45:22)</span><span style="padding-right:50px;">EU首脳会議 ウクライナ融資案を協議 ゼレンスキー大統領も出席 https://news.web.nhk/newsweb/na/na-k10015007951000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3macav73tjc2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 07:45:03)</span>
+<span style="padding-right:50px;">＜０７：５５＞　ドル154.80─156.30円の見通し、日銀は来年の見通しが焦点 bit.ly/4j2CoYB <a href="https://bsky.app/profile/japan.reuters.com/post/3macc6qogz62u" target="_blank">japan.reuters.com</a> (2025-12-19 08:08:19)</span><span style="padding-right:50px;">きょうの東京株式市場で日経平均株価は、前日の米国株高を好感する形で買い先行でスタートする見通し。前日の下落の反動で自律反発狙いの買いも入りそうだ。一方、きょうは日銀の金融政策決定会合の結果公表を控え、次第に様子見姿勢が広がる見通し。 bit.ly/3MOGV4T <a href="https://bsky.app/profile/japan.reuters.com/post/3macc4mrfqr2c" target="_blank">japan.reuters.com</a> (2025-12-19 08:07:08)</span><span style="padding-right:50px;">Law enforcement officers are investigating a possible link between a mass shooting at Brown University in Providence that killed two people last weekend and the shooting death of a Massachusetts Institute of Technology professor two days later near Boston reut.rs/4aXFKKu <a href="https://bsky.app/profile/reuters.com/post/3macc3smujs2a" target="_blank">reuters.com</a> (2025-12-19 08:06:41)</span><span style="padding-right:50px;">A complex inflation reading doesn't stop Trump's team from bragging about lower prices <a href="https://bsky.app/profile/yahoofinance.com/post/3macc2txwre2f" target="_blank">yahoofinance.com</a> (2025-12-19 08:06:09)</span><span style="padding-right:50px;">Britain names Christian Turner as ambassador to the US reut.rs/4pKwAWb <a href="https://bsky.app/profile/reuters.com/post/3macbzhgufy2c" target="_blank">reuters.com</a> (2025-12-19 08:05:22)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.53 (🔻0.07 : 2025-12-18)</span>
+<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.55 (🔺0.02 : 2025-12-18)</span>
   </div>
 </div>
 
@@ -32,104 +32,95 @@
 
 ## News Headlines
 
-Here are the six news headlines in English:
+Here are six important stories with headlines in English:
 
-1. US Officials Detained in South Africa Condemned by Trump Administration
-2. Pope Names Ronald Hicks as New Archbishop of New York
-3. Democrats Release New Images from Epstein Estate as Deadline Looms
-4. SpaceX Loses Contact with Starlink Satellite After Mishap
-5. Tennessee Governor Pardons Country Music Star Jelly Roll
-6. Instacart to Pay $60 Million in Refunds After Deceiving Customers
+1. US Stocks Rise Amid Expectations of a Strong Start to the Trading Week
+2. TikTok Signs Deal to Sell US Operations to American Investors
+3. Nike Shares Tumble as Weak China Sales Dent Faith in Turnaround
+4. US Government Imposes New Sanctions on Tankers Carrying Iranian Oil
+5. FedEx Reports Higher Profit and Revenue, Raises Earnings Outlook
+6. Pope Leo Names Ronald Hicks as Next Archbishop of New York
 
 ----
 
-@en.afp.com
+@japan.reuters.com
 
-The newly named pro-migrant archbishop of New York called himself an "unworthy servant" during his first Mass in the city after Pope Leo XIV named his fellow Chicago native to replace a conservative cardinal Thursday. 
-u.afp.com/S8J7
+＜０７：５５＞　ドル154.80─156.30円の見通し、日銀は来年の見通しが焦点 bit.ly/4j2CoYB
 
-[2025-12-19 07:48:03](https://bsky.app/profile/en.afp.com/post/3macb2iuvxs2j)
-
----
-
-@nikkei.com
-
-家族向けマンション家賃、初の25万円台　東京23区
-www.nikkei.com/article/DGXZQO...
- 
-住宅価格上昇により購入を諦めた層が賃貸市場に流れ込み、旺盛な需要につながっています。
- 
-一方、引っ越し費用の上昇で転居を控える傾向が強まり、空き部屋が出にくくなっています。オーナー側が強気の価格設定をしやすい環境です。
-
-[2025-12-19 07:46:41](https://bsky.app/profile/nikkei.com/post/3macay2s3gr2m)
+[2025-12-19 08:08:19](https://bsky.app/profile/japan.reuters.com/post/3macc6qogz62u)
 
 ---
 
-@wsj.com
+@japan.reuters.com
 
-It’s more than the 50 stars on the flag—the American story is suffused with celestial imagery and astronomical symbols. on.wsj.com/4aiLNsS
+きょうの東京株式市場で日経平均株価は、前日の米国株高を好感する形で買い先行でスタートする見通し。前日の下落の反動で自律反発狙いの買いも入りそうだ。一方、きょうは日銀の金融政策決定会合の結果公表を控え、次第に様子見姿勢が広がる見通し。 bit.ly/3MOGV4T
 
-[2025-12-19 07:46:12](https://bsky.app/profile/wsj.com/post/3macax6sq2s2r)
+[2025-12-19 08:07:08](https://bsky.app/profile/japan.reuters.com/post/3macc4mrfqr2c)
 
 ---
 
 @reuters.com
 
-Trump administration condemns detention of US officials in South Africa reut.rs/4s3poWX
+Law enforcement officers are investigating a possible link between a mass shooting at Brown University in Providence that killed two people last weekend and the shooting death of a Massachusetts Institute of Technology professor two days later near Boston reut.rs/4aXFKKu
 
-[2025-12-19 07:45:22](https://bsky.app/profile/reuters.com/post/3macavpbfts2r)
+[2025-12-19 08:06:41](https://bsky.app/profile/reuters.com/post/3macc3smujs2a)
+
+---
+
+@yahoofinance.com
+
+A complex inflation reading doesn't stop Trump's team from bragging about lower prices
+
+[2025-12-19 08:06:09](https://bsky.app/profile/yahoofinance.com/post/3macc2txwre2f)
+
+---
+
+@reuters.com
+
+Britain names Christian Turner as ambassador to the US reut.rs/4pKwAWb
+
+[2025-12-19 08:05:22](https://bsky.app/profile/reuters.com/post/3macbzhgufy2c)
+
+---
+
+@cbsnews.com
+
+<strong><span style="color: red;">BREAKING:</span> TikTok has signed a deal to sell its U.S. operations to a consortium of American investors, CBS News confirmed.</strong>
+
+[2025-12-19 08:05:15](https://bsky.app/profile/cbsnews.com/post/3macbzb6xhx2p)
+
+---
+
+@apnews.com
+
+TikTok signs deal to sell its U.S. business to American investors, ensuring the popular social platform can continue operating in the U.S.
+
+[2025-12-19 08:03:24](https://bsky.app/profile/apnews.com/post/3macbvwpd542r)
+
+---
+
+@cnbc.com
+
+TikTok signs agreement to create new U.S. joint venture, memo says
+
+[2025-12-19 08:03:13](https://bsky.app/profile/cnbc.com/post/3macbvmsdur2p)
+
+---
+
+@cnn.com
+
+TikTok has signed the deal backed by President Donald Trump to sell its US assets to a group of American investors, CEO Shou Chew told employees in a memo. https://cnn.it/4joXXmF
+
+[2025-12-19 08:03:08](https://bsky.app/profile/cnn.com/post/3macbvhciic24)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-EU首脳会議 ウクライナ融資案を協議 ゼレンスキー大統領も出席
-https://news.web.nhk/newsweb/na/na-k10015007951000
+ベラルーシ ロシア開発の新型中距離弾道ミサイルを国内に配備
+https://news.web.nhk/newsweb/na/na-k10015008131000
 
-[2025-12-19 07:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3macav73tjc2v)
-
----
-
-@reuters.com
-
-<strong><span style="color: red;">BREAKING:</span> ByteDance's TikTok signed a deal to sell its US entity to a joint venture controlled by American investors, according to a memo from TikTok's CEO seen by Reuters reut.rs/3MRSZ5o</strong>
-
-[2025-12-19 07:42:54](https://bsky.app/profile/reuters.com/post/3macarbzlp22a)
-
----
-
-@npr.org
-
-Update: The Trump administration Thursday proposed two rules targeting hospitals that treat transgender children and youth using Medicare and Medicaid as the lever. The move would affect trans youth who have private insurance, too.
-
-[2025-12-19 07:42:32](https://bsky.app/profile/npr.org/post/3macaqmkgwc2p)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】東京・江東区千田の3階建て建物で火事 男性1人が意識不明の重体 女性1人が軽傷
-(2025-12-19 07:38:18) #ニュース
-
-[2025-12-19 07:40:56](https://bsky.app/profile/sokuho.news/post/3macanri2qw27)
-
----
-
-@reuters.com
-
-Democrats release dozens more new images from Epstein estate reut.rs/3YFDWhK
-
-[2025-12-19 07:40:28](https://bsky.app/profile/reuters.com/post/3macamx5hsy2s)
-
----
-
-@nbcnews.com
-
-The WNBA's Players' Association announce that its members voted to authorize a strike if necessary as the extended Jan. 9 deadline for contract negotiations with the league looms.
-
-[2025-12-19 07:40:15](https://bsky.app/profile/nbcnews.com/post/3macamkp5ke2d)
+[2025-12-19 08:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3macbvfnf332s)
 
 ---
 
