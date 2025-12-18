@@ -1,9 +1,9 @@
-# [2025-12-19 05:10 updated](2025_12_19.md)
+# [2025-12-19 05:30 updated](2025_12_19.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Why BlackRock thinks the time is right for a more 'modernized' exposure to bonds <a href="https://bsky.app/profile/cnbc.com/post/3maby5klpu424" target="_blank">cnbc.com</a> (2025-12-19 05:08:42)</span><span style="padding-right:50px;">トランプ米大統領は１８日、連邦政府のマリフアナ（大麻）を巡る規制の緩和を勧告する大統領令に署名した。米政府が数十年にわたり導入していた厳格な規制が一段と転換される可能性がある。 bit.ly/4ql75uI <a href="https://bsky.app/profile/japan.reuters.com/post/3maby5igtr227" target="_blank">japan.reuters.com</a> (2025-12-19 05:08:40)</span><span style="padding-right:50px;">Instacart to pay $60 million to settle FTC claims it deceived customers <a href="https://bsky.app/profile/cnbc.com/post/3maby3d6i4n2e" target="_blank">cnbc.com</a> (2025-12-19 05:07:27)</span><span style="padding-right:50px;">The process to reclassify a drug can take years.   Here's what to know. <a href="https://bsky.app/profile/axios.com/post/3maby24z5h22p" target="_blank">axios.com</a> (2025-12-19 05:06:47)</span><span style="padding-right:50px;">Trump today green-lit "no charge" CBD products for those on Medicare, and his administration wants to increase access for Medicaid enrollees in the future. Here's what to know. <a href="https://bsky.app/profile/axios.com/post/3mabxz6o56k2i" target="_blank">axios.com</a> (2025-12-19 05:06:15)</span>
+<span style="padding-right:50px;">A new drama uses the real, gut-wrenching recordings of a call for help from Gaza to tell a harrowing and profound story. n.pr/4q8v28q <a href="https://bsky.app/profile/npr.org/post/3mabzaszy3524" target="_blank">npr.org</a> (2025-12-19 05:28:25)</span><span style="padding-right:50px;">Democratic lawmakers have released new photos from Jeffrey Epstein’s estate, including images of Microsoft co-founder Bill Gates, Google co-founder Sergey Brin and New York Times columnist David Brooks. ft.trib.al/4oYNHdG <a href="https://bsky.app/profile/financialtimes.com/post/3mabz7o2hlq2w" target="_blank">financialtimes.com</a> (2025-12-19 05:27:47)</span><span style="padding-right:50px;">＜ロンドン株式市場＞ bit.ly/48KN3DX <a href="https://bsky.app/profile/japan.reuters.com/post/3mabz6yxvrz2v" target="_blank">japan.reuters.com</a> (2025-12-19 05:27:24)</span><span style="padding-right:50px;">「年収の壁」178万円への引き上げで合意 高市首相と玉木代表 https://news.web.nhk/newsweb/na/na-k10015007921000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mabz6fhh362b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 05:27:02)</span><span style="padding-right:50px;">Binotto says Audi will have confidence and credibility for F1 debut reut.rs/3Y2Upws <a href="https://bsky.app/profile/reuters.com/post/3mabz36xwy32k" target="_blank">reuters.com</a> (2025-12-19 05:25:16)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47976.72 (🔻124.46 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.30 (🔻5.76 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.43 (🔻0.10 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.54 (🔻0.06 : 2025-12-18)</span>
+<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 48026.35 (🔻74.83 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23036.26 (🔺24.20 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.67 (🔺0.14 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.58 (🔻0.01 : 2025-12-18)</span>
   </div>
 </div>
 
@@ -32,96 +32,96 @@
 
 ## News Headlines
 
-Here are six headlines in English:
+Here are six important stories with headlines in English:
 
-1. Trump Signs Executive Order to Ease Restrictions on Marijuana Research
-2. Instacart to Pay $60 Million to Settle FTC Claims of Deceptive Practices
-3. ECB Keeps Policy Interest Rate Unchanged, Raises Growth and Inflation Forecasts
-4. Trump Chooses Army Lt. Gen. Joshua Rudd to Head NSA and Cyber Command
-5. US House Passes Bill to Ease Permits for Building Out AI Infrastructure
-6. Hogan Lovells to Merge with Cadwalader, Wickersham & Taft in $3.6 Billion Deal
+1. New Photos Released from Jeffrey Epstein's Estate Show Notable Figures
+2. European Stocks Bounce Back After ECB Economic Forecast Revision
+3. Trump Signs Executive Order to Reclassify Marijuana, Easing Research Restrictions
+4. Crime in New York City Subways Drops to Lowest Level Since 2009
+5. European Central Bank Maintains Policy Rates, Raises Growth and Inflation Forecasts
+6. Instacart to Pay $60 Million to Settle FTC Claims of Deceiving Customers
 
 ----
 
-@cnbc.com
+@npr.org
 
-Why BlackRock thinks the time is right for a more 'modernized' exposure to bonds
+A new drama uses the real, gut-wrenching recordings of a call for help from Gaza to tell a harrowing and profound story. n.pr/4q8v28q
 
-[2025-12-19 05:08:42](https://bsky.app/profile/cnbc.com/post/3maby5klpu424)
+[2025-12-19 05:28:25](https://bsky.app/profile/npr.org/post/3mabzaszy3524)
+
+---
+
+@financialtimes.com
+
+Democratic lawmakers have released new photos from Jeffrey Epstein’s estate, including images of Microsoft co-founder Bill Gates, Google co-founder Sergey Brin and New York Times columnist David Brooks. ft.trib.al/4oYNHdG
+
+[2025-12-19 05:27:47](https://bsky.app/profile/financialtimes.com/post/3mabz7o2hlq2w)
 
 ---
 
 @japan.reuters.com
 
-トランプ米大統領は１８日、連邦政府のマリフアナ（大麻）を巡る規制の緩和を勧告する大統領令に署名した。米政府が数十年にわたり導入していた厳格な規制が一段と転換される可能性がある。 bit.ly/4ql75uI
+＜ロンドン株式市場＞ bit.ly/48KN3DX
 
-[2025-12-19 05:08:40](https://bsky.app/profile/japan.reuters.com/post/3maby5igtr227)
-
----
-
-@cnbc.com
-
-Instacart to pay $60 million to settle FTC claims it deceived customers
-
-[2025-12-19 05:07:27](https://bsky.app/profile/cnbc.com/post/3maby3d6i4n2e)
+[2025-12-19 05:27:24](https://bsky.app/profile/japan.reuters.com/post/3mabz6yxvrz2v)
 
 ---
 
-@axios.com
+@nhknewsunofficial.bsky.social
 
-The process to reclassify a drug can take years. 
+「年収の壁」178万円への引き上げで合意 高市首相と玉木代表
+https://news.web.nhk/newsweb/na/na-k10015007921000
 
-Here's what to know.
-
-[2025-12-19 05:06:47](https://bsky.app/profile/axios.com/post/3maby24z5h22p)
-
----
-
-@axios.com
-
-Trump today green-lit "no charge" CBD products for those on Medicare, and his administration wants to increase access for Medicaid enrollees in the future. Here's what to know.
-
-[2025-12-19 05:06:15](https://bsky.app/profile/axios.com/post/3mabxz6o56k2i)
+[2025-12-19 05:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mabz6fhh362b)
 
 ---
 
 @reuters.com
 
-Belgian farmers in anti-trade protest clash with police reut.rs/4pN1e1n
+Binotto says Audi will have confidence and credibility for F1 debut reut.rs/3Y2Upws
 
-[2025-12-19 05:05:19](https://bsky.app/profile/reuters.com/post/3mabxxisst42b)
-
----
-
-@cnbc.com
-
-House passes bill to ease permits for building out AI infrastructure
-
-[2025-12-19 05:04:39](https://bsky.app/profile/cnbc.com/post/3mabxwcrwm624)
-
----
-
-@aljazeera.com
-
-There were chaotic scenes in Albania’s parliament where a vote for the country’s next human rights ombudsman descended into a protest by opposition politicians over alleged election fraud and corruption.
-
-[2025-12-19 05:04:38](https://bsky.app/profile/aljazeera.com/post/3mabxwburnk2w)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Wiz Khalifa sentenced to nine months jail in Romania
-
-[2025-12-19 05:04:09](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mabxvgqidl2b)
+[2025-12-19 05:25:16](https://bsky.app/profile/reuters.com/post/3mabz36xwy32k)
 
 ---
 
 @nytimes.com
 
-<strong><span style="color: red;">Breaking News</span>: President Trump signed an executive order to downgrade cannabis from the most restrictive category of drugs, easing research and other restrictions but falling short of legalizing marijuana.</strong>
+Major crime in the New York City subway was lower in 2025 than any year since 2009, according to Gov. Kathy Hochul. nyti.ms/48UIV4t
 
-[2025-12-19 05:04:03](https://bsky.app/profile/nytimes.com/post/3mabxvav27i2r)
+[2025-12-19 05:25:06](https://bsky.app/profile/nytimes.com/post/3mabz2v4g2326)
+
+---
+
+@japan.reuters.com
+
+欧州株式市場は３日ぶりに反発して取引を終えた。欧州中央銀行（ＥＣＢ）が経済見通しを一部上方修正したほか、米インフレ率が予想を下回り、来年の米利下げ期待が高まったことが投資家心理を支えた。ドイツのＤＡＸ指数が１．００％高、フランスのＣＡＣ４０指数が０．８０％高と、大半の地域市場がプラス圏だった。 bit.ly/496bESE
+
+[2025-12-19 05:21:06](https://bsky.app/profile/japan.reuters.com/post/3mabytq6hbx2c)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+高市首相と中央アジア5か国 初の首脳会合 きょうから開催
+https://news.web.nhk/newsweb/na/na-k10015007871000
+
+[2025-12-19 05:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mabytoysyl22)
+
+---
+
+@japan.reuters.com
+
+欧州中央銀行（ＥＣＢ）は１８日に開いた理事会に合わせて発表した最新の経済見通しで、成長率とインフレ率の一部見通しを上方修正した。 bit.ly/3YBgl1O
+
+[2025-12-19 05:20:38](https://bsky.app/profile/japan.reuters.com/post/3mabysvoahw2p)
+
+---
+
+@nbcnews.com
+
+An uninhabited isle 10 miles off the coast of southwest Scotland is the source of the super-dense granite used to make curling stones for the Winter Olympics.
+
+[2025-12-19 05:20:15](https://bsky.app/profile/nbcnews.com/post/3mabys7kwdx23)
 
 ---
 
