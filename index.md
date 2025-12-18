@@ -1,9 +1,9 @@
-# [2025-12-18 21:10 updated](2025_12_18.md)
+# [2025-12-18 21:30 updated](2025_12_18.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The Bank of England cut its key interest rate to a near three-year low of 3.75%. <a href="https://bsky.app/profile/wsj.com/post/3mab5da5qeg2r" target="_blank">wsj.com</a> (2025-12-18 21:08:41)</span><span style="padding-right:50px;">BoE cuts rates by quarter point to 3.75% ft.trib.al/oV7aQkY <a href="https://bsky.app/profile/financialtimes.com/post/3mab57w3civ2w" target="_blank">financialtimes.com</a> (2025-12-18 21:06:50)</span><span style="padding-right:50px;">アクティビスト（物言う投資家）のエフィッシモ・キャピタル・マネージメントが帝人株を買い増し、保有比率を１４．２１％に引き上げたことが１８日提出の変更報告書で分かった。前回報告は１３．２０％だった。報告義務発生日は１１日。 bit.ly/4qgulKj <a href="https://bsky.app/profile/japan.reuters.com/post/3mab55gcyca2c" target="_blank">japan.reuters.com</a> (2025-12-18 21:05:27)</span><span style="padding-right:50px;">China's Momenta teams up with Grab on autonomous driving in Southeast Asia reut.rs/3Y1UsIM <a href="https://bsky.app/profile/reuters.com/post/3mab556wryq2s" target="_blank">reuters.com</a> (2025-12-18 21:05:19)</span><span style="padding-right:50px;">Buy the dip on Core Scientific as 2026 approaches, says Citizens <a href="https://bsky.app/profile/cnbc.com/post/3mab4yvmylc24" target="_blank">cnbc.com</a> (2025-12-18 21:02:55)</span>
+<span style="padding-right:50px;">Health Secretary Robert F. Kennedy Jr. is expected to announce a package of measures that would together ban gender-affirming care for minors. A press conference is set for 11 a.m. Thursday. n.pr/44xQKdD <a href="https://bsky.app/profile/npr.org/post/3mab6gsao7j23" target="_blank">npr.org</a> (2025-12-18 21:28:35)</span><span style="padding-right:50px;">Acting CFTC Chair Caroline Pham To Join Crypto Payments Firm MoonPay www.forbes.com/sites/digita... (Photo: Caroline Pham) <a href="https://bsky.app/profile/forbes.com/post/3mab6ffnyis2z" target="_blank">forbes.com</a> (2025-12-18 21:27:48)</span><span style="padding-right:50px;">Mario Pineida: Ecuador defender killed in shooting in Guayaquil <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mab6ejsrdf25" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-18 21:27:18)</span><span style="padding-right:50px;">The Bank of England cuts key interest rate to 3.75%, the first reduction in 4 months. <a href="https://bsky.app/profile/apnews.com/post/3mab6djxlsr2k" target="_blank">apnews.com</a> (2025-12-18 21:26:46)</span><span style="padding-right:50px;">Meet The New Billionaires Behind Medline’s Blockbuster IPO www.forbes.com/sites/mattdu... (Photo: Jeff Sciortino for Forbes) <a href="https://bsky.app/profile/forbes.com/post/3mab6d6ck6s2z" target="_blank">forbes.com</a> (2025-12-18 21:26:33)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.77 (🔺0.18 : 2025-12-18)</span>
+<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.76 (🔺0.16 : 2025-12-18)</span>
   </div>
 </div>
 
@@ -34,100 +34,96 @@
 
 Here are six important stories with headlines in English:
 
-1. Bank of England Cuts Interest Rate to Near Three-Year Low
-2. EU Leaders Meet to Discuss Using Frozen Russian Assets to Fund Ukraine
-3. US Companies Developed Venezuelan Oil Fields Before Nationalization
-4. Norway Central Bank Keeps Policy Rate Steady at 4.0%
-5. Taiwan Central Bank Keeps Policy Rate at 2.0%, Raises Economic Growth Forecast
-6. US Approves $11.1 Billion in Arms-Sales Packages for Taiwan
+1. Bank of England Cuts Interest Rate to 3.75% in Christmas Boost to Consumers
+2. Trump Announces $1,776 'Warrior Dividend' Payments for Troops
+3. Vaccination Rates Plummet Across US as Vaccine Hesitancy Fuels Resurgence of Preventable Diseases
+4. Bank of England Cuts Interest Rates to Near Three-Year Low
+5. US Senate Passes NDAA Amendment, Awaits Presidential Signature
+6. Trump Media Merges with Fusion Power Company TAE Technologies in $6 Billion Deal
 
 ----
 
-@wsj.com
+@npr.org
 
-The Bank of England cut its key interest rate to a near three-year low of 3.75%.
+Health Secretary Robert F. Kennedy Jr. is expected to announce a package of measures that would together ban gender-affirming care for minors. A press conference is set for 11 a.m. Thursday. n.pr/44xQKdD
 
-[2025-12-18 21:08:41](https://bsky.app/profile/wsj.com/post/3mab5da5qeg2r)
-
----
-
-@financialtimes.com
-
-BoE cuts rates by quarter point to 3.75% ft.trib.al/oV7aQkY
-
-[2025-12-18 21:06:50](https://bsky.app/profile/financialtimes.com/post/3mab57w3civ2w)
+[2025-12-18 21:28:35](https://bsky.app/profile/npr.org/post/3mab6gsao7j23)
 
 ---
 
-@japan.reuters.com
+@forbes.com
 
-アクティビスト（物言う投資家）のエフィッシモ・キャピタル・マネージメントが帝人株を買い増し、保有比率を１４．２１％に引き上げたことが１８日提出の変更報告書で分かった。前回報告は１３．２０％だった。報告義務発生日は１１日。 bit.ly/4qgulKj
+Acting CFTC Chair Caroline Pham To Join Crypto Payments Firm MoonPay
+www.forbes.com/sites/digita... (Photo: Caroline Pham)
 
-[2025-12-18 21:05:27](https://bsky.app/profile/japan.reuters.com/post/3mab55gcyca2c)
-
----
-
-@reuters.com
-
-China's Momenta teams up with Grab on autonomous driving in Southeast Asia reut.rs/3Y1UsIM
-
-[2025-12-18 21:05:19](https://bsky.app/profile/reuters.com/post/3mab556wryq2s)
+[2025-12-18 21:27:48](https://bsky.app/profile/forbes.com/post/3mab6ffnyis2z)
 
 ---
 
-@cnbc.com
+@bbcnews-world-rss.bsky.social
 
-Buy the dip on Core Scientific as 2026 approaches, says Citizens
+Mario Pineida: Ecuador defender killed in shooting in Guayaquil
 
-[2025-12-18 21:02:55](https://bsky.app/profile/cnbc.com/post/3mab4yvmylc24)
-
----
-
-@en.afp.com
-
-🇪🇺 🇧🇪 Hundreds of tractors converged on Brussels on Thursday in a show of farmers' anger at the EU's planned trade deal with South American bloc Mercosur -- whose fate hung in the balance as summit talks opened in the Belgian capital ➡️ u.afp.com/S84P
-
-[2025-12-18 21:02:17](https://bsky.app/profile/en.afp.com/post/3mab4xrv56w2v)
+[2025-12-18 21:27:18](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mab6ejsrdf25)
 
 ---
 
-@nikkei.com
+@apnews.com
 
-【総延長約10kmの計画】
-東京・高尾山麓に眠る地下壕
-www.nikkei.com/article/DGXZQO...
+The Bank of England cuts key interest rate to 3.75%, the first reduction in 4 months.
 
-太平洋戦争の末期、旧陸軍が本土決戦に備えて掘らせた「浅川地下壕」は、長野県の松代大本営と並ぶ全国屈指の規模です。
-
-敗戦直前の1945年7月からは、軍用航空機のエンジンを製造する地下工場として稼働しました。
-
-元高校教諭の中田均さんはガイドとして、戦争の歴史を静かに語る遺跡の存在を発信してきました。
-
-[2025-12-18 21:01:16](https://bsky.app/profile/nikkei.com/post/3mab4vxcxb72m)
+[2025-12-18 21:26:46](https://bsky.app/profile/apnews.com/post/3mab6djxlsr2k)
 
 ---
 
-@financialtimes.com
+@forbes.com
 
-Trump media agrees $6bn merger deal with Google-backed fusion energy company ft.trib.al/3L7vEWg
+Meet The New Billionaires Behind Medline’s Blockbuster IPO
+www.forbes.com/sites/mattdu... (Photo: Jeff Sciortino for Forbes)
 
-[2025-12-18 21:01:09](https://bsky.app/profile/financialtimes.com/post/3mab4vq7xp32w)
+[2025-12-18 21:26:33](https://bsky.app/profile/forbes.com/post/3mab6d6ck6s2z)
 
 ---
 
-@financialtimes.com
+@bbcnews-world-rss.bsky.social
 
-Good morning, New York. While you were sleeping, this was the most-read story ft.trib.al/3wheGF0
+Trump announces $1,776  'warrior dividend' payments for troops
 
-[2025-12-18 21:01:06](https://bsky.app/profile/financialtimes.com/post/3mab4vnxq6c2f)
+[2025-12-18 21:26:13](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mab6cm6air2b)
+
+---
+
+@bloomberg.com
+
+Russia will be paying for its invasion of Ukraine for years to come, as the government plugs a widening gap in the military budget.
+
+[2025-12-18 21:26:09](https://bsky.app/profile/bloomberg.com/post/3mab6chfvb62d)
+
+---
+
+@forbes.com
+
+Court Ruling Could Reignite Fight Over The Corporate Transparency Act
+www.forbes.com/sites/kellyp... (Photo: Getty Images)
+
+[2025-12-18 21:25:58](https://bsky.app/profile/forbes.com/post/3mab6c4oljk2z)
+
+---
+
+@forbes.com
+
+A Surprise In The House Could Decide The Fate Of Affordable Care Act Subsidies
+www.forbes.com/sites/kellyp... (Photo: Kevin Dietsch/Getty Images)
+
+[2025-12-18 21:25:21](https://bsky.app/profile/forbes.com/post/3mab6azcpsc2z)
 
 ---
 
 @japan.reuters.com
 
-ロシア南部ロストフ州のロストフナドヌーの港とバタイスクがウクライナの無人機（ドローン）による攻撃を受け、貨物船の乗組員２人を含む３人が死亡した。スリュサール州知事が１８日明らかにした。 bit.ly/4s2NMYD
+ケニアの牧畜民のヘレン・エティマンさんは、重度の栄養失調になった息子のピーター・ロコイエンちゃん（４）について、特別な栄養治療食の投与を始めればすぐに回復すると信じていた。 bit.ly/49g30SG
 
-[2025-12-18 21:00:56](https://bsky.app/profile/japan.reuters.com/post/3mab4ve445c2c)
+[2025-12-18 21:25:17](https://bsky.app/profile/japan.reuters.com/post/3mab6avqtn227)
 
 ---
 
