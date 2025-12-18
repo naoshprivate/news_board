@@ -1,9 +1,9 @@
-# [2025-12-18 22:50 updated](2025_12_18.md)
+# [2025-12-18 23:10 updated](2025_12_18.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">U.S. applications for unemployment benefits fell by 13,000 last week, remaining in the same historically healthy range of the past few years even as concerns grow about the health of the labor market. <a href="https://bsky.app/profile/apnews.com/post/3mabcwg74ld24" target="_blank">apnews.com</a> (2025-12-18 22:48:54)</span><span style="padding-right:50px;">スポーツ界の違法賭博対策や経済的活性化を考えるシンポジウム https://news.web.nhk/newsweb/na/na-k10015007981000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mabcuxpkqn2y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 22:48:03)</span><span style="padding-right:50px;">November consumer prices rose at a 2.7% annual rate, lower than expected, delayed data shows <a href="https://bsky.app/profile/cnbc.com/post/3mabcsmyusr2n" target="_blank">cnbc.com</a> (2025-12-18 22:46:47)</span><span style="padding-right:50px;">Lyon roars on return to Ashes stage in Adelaide reut.rs/3N6oqsM <a href="https://bsky.app/profile/reuters.com/post/3mabcpy6hyp2i" target="_blank">reuters.com</a> (2025-12-18 22:45:18)</span><span style="padding-right:50px;">証券口座乗っ取り 相場操縦容疑の社長 “知人から言われ便乗” https://news.web.nhk/newsweb/na/na-k10015007751000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mabcpl7e6a2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 22:45:02)</span>
+<span style="padding-right:50px;">State Farm Arena in Atlanta was ranked fifth in the nation and seventh in the world in the Billboard’s The Year In Touring 2025 Report. Here's why <a href="https://bsky.app/profile/usatoday.com/post/3mabe2ab4yp2c" target="_blank">usatoday.com</a> (2025-12-18 23:08:56)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】アメリカ11月の消費者物価指数 2.7%上昇 (2025-12-18 23:05:32) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mabdxt47ye27" target="_blank">sokuho.news</a> (2025-12-18 23:07:35)</span><span style="padding-right:50px;"> The hard politics of climate overshoot ft.trib.al/qPMwP1x  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3mabdwwyrre25" target="_blank">financialtimes.com</a> (2025-12-18 23:07:05)</span><span style="padding-right:50px;">Trump's new 'warrior dividend' is at least the 10th thing he's said tariffs could pay for <a href="https://bsky.app/profile/yahoofinance.com/post/3mabdwgx7of2q" target="_blank">yahoofinance.com</a> (2025-12-18 23:06:49)</span><span style="padding-right:50px;">🇦🇺 🏴󠁧󠁢󠁥󠁮󠁧󠁿 A pumped-up Australia ripped through England's fragile batting in Adelaide on Thursday to leave the tourists staring down the barrel of a third Test defeat with their Ashes campaign on the brink, barring a miracle ➡️ u.afp.com/S8oU <a href="https://bsky.app/profile/en.afp.com/post/3mabdwfqs4y2j" target="_blank">en.afp.com</a> (2025-12-18 23:06:47)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.49 (🔻0.11 : 2025-12-18)</span>
+<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.38 (🔻0.22 : 2025-12-18)</span>
   </div>
 </div>
 
@@ -34,70 +34,55 @@
 
 Here are six important stories with headlines in English:
 
-1. US Inflation Slows to 2.7% in November, Lower Than Expected
-2. Bondi Beach Terror Attack Suspects Spent Weeks in Philippines Hotel Before Attack
-3. North Korea Sees Record-Breaking Year for Cryptocurrency Heists
-4. Over 1,000 Civilians Killed in Sudan's Darfur Amid Paramilitary Group's Seizure of Camp
-5. Trump's Media Company to Merge with Nuclear Fusion Startup TAE Technologies
-6. US Military Spending Bill Raises Questions About Trump's Involvement
+1. US Consumer Prices Rise 2.7% in November, Lower Than Expected
+2. Australia Rips Through England's Batting in Adelaide, Leaves Ashes Campaign on Brink of Defeat
+3. Polish Constitutional Tribunal Violated EU Law, European Court Rules
+4. Earthquake Hits Off Coast of Fukushima Prefecture, Japan
+5. US Inflation Decelerates Unexpectedly, Despite Tariff Campaign
+6. Trumps' Goal to Release Fannie Mae and Freddie Mac from Government Control Will Take Longer Than Expected
 
 ----
 
-@apnews.com
+@usatoday.com
 
-U.S. applications for unemployment benefits fell by 13,000 last week, remaining in the same historically healthy range of the past few years even as concerns grow about the health of the labor market.
+State Farm Arena in Atlanta was ranked fifth in the nation and seventh in the world in the Billboard’s The Year In Touring 2025 Report. Here's why
 
-[2025-12-18 22:48:54](https://bsky.app/profile/apnews.com/post/3mabcwg74ld24)
-
----
-
-@nhknewsunofficial.bsky.social
-
-スポーツ界の違法賭博対策や経済的活性化を考えるシンポジウム
-https://news.web.nhk/newsweb/na/na-k10015007981000
-
-[2025-12-18 22:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mabcuxpkqn2y)
+[2025-12-18 23:08:56](https://bsky.app/profile/usatoday.com/post/3mabe2ab4yp2c)
 
 ---
 
-@cnbc.com
+@sokuho.news
 
-November consumer prices rose at a 2.7% annual rate, lower than expected, delayed data shows
+🛎️JNNより【速報】です。
 
-[2025-12-18 22:46:47](https://bsky.app/profile/cnbc.com/post/3mabcsmyusr2n)
+【速報】アメリカ11月の消費者物価指数 2.7%上昇
+(2025-12-18 23:05:32) #ニュース
 
----
-
-@reuters.com
-
-Lyon roars on return to Ashes stage in Adelaide reut.rs/3N6oqsM
-
-[2025-12-18 22:45:18](https://bsky.app/profile/reuters.com/post/3mabcpy6hyp2i)
+[2025-12-18 23:07:35](https://bsky.app/profile/sokuho.news/post/3mabdxt47ye27)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@financialtimes.com
 
-証券口座乗っ取り 相場操縦容疑の社長 “知人から言われ便乗”
-https://news.web.nhk/newsweb/na/na-k10015007751000
+ The hard politics of climate overshoot ft.trib.al/qPMwP1x  | opinion
 
-[2025-12-18 22:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mabcpl7e6a2v)
-
----
-
-@cbsnews.com
-
-The father and son suspects in the Bondi Beach terror attack spent most of November in a hotel in the Philippines, but the reason for their visit remains unclear. 
-
-[2025-12-18 22:45:01](https://bsky.app/profile/cbsnews.com/post/3mabcphqnd32q)
+[2025-12-18 23:07:05](https://bsky.app/profile/financialtimes.com/post/3mabdwwyrre25)
 
 ---
 
-@cnbc.com
+@yahoofinance.com
 
-Here are Thursday's biggest analyst calls: Nvidia, Apple, Tesla, Micron, Disney, Rivian, GE Vernova & more
+Trump's new 'warrior dividend' is at least the 10th thing he's said tariffs could pay for
 
-[2025-12-18 22:44:22](https://bsky.app/profile/cnbc.com/post/3mabcocernv2e)
+[2025-12-18 23:06:49](https://bsky.app/profile/yahoofinance.com/post/3mabdwgx7of2q)
+
+---
+
+@en.afp.com
+
+🇦🇺 🏴󠁧󠁢󠁥󠁮󠁧󠁿 A pumped-up Australia ripped through England's fragile batting in Adelaide on Thursday to leave the tourists staring down the barrel of a third Test defeat with their Ashes campaign on the brink, barring a miracle ➡️ u.afp.com/S8oU
+
+[2025-12-18 23:06:47](https://bsky.app/profile/en.afp.com/post/3mabdwfqs4y2j)
 
 ---
 
@@ -105,26 +90,46 @@ Here are Thursday's biggest analyst calls: Nvidia, Apple, Tesla, Micron, Disney,
 
 🔔ANNより【速報】です。
 
-【速報】アメリカの11月の消費者物価指数 前年同月比で2.7%上昇
-(2025年12月18日 22:43) #ニュース
+【速報】米11月の消費者物価2.7%上昇 政府閉鎖の影響で10月分は公表されず
+(23:04) #ニュース
+https://news.tv-asahi.co.jp/news_international/articles/000473918.html?display=full
 
-[2025-12-18 22:43:59](https://bsky.app/profile/sokuho.news/post/3mabcnmhlon2y)
-
----
-
-@cbsnews.com
-
-<strong><span style="color: red;">BREAKING:</span> Inflation rose at an annual rate of 2.7% in November, cooler than economists had forecast, new data shows.  </strong>
-
-[2025-12-18 22:43:20](https://bsky.app/profile/cbsnews.com/post/3mabcmhu6432y)
+[2025-12-18 23:06:17](https://bsky.app/profile/sokuho.news/post/3mabdvjirwx2b)
 
 ---
 
-@cnbc.com
+@reuters.com
 
-Putin ally tells CNBC using frozen Russian assets is a 'dead end'
+Morning Bid: Optics and Oracles reut.rs/454Pr66
 
-[2025-12-18 22:43:12](https://bsky.app/profile/cnbc.com/post/3mabcmafxf224)
+[2025-12-18 23:05:23](https://bsky.app/profile/reuters.com/post/3mabdtvomkh2k)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】佐世保市で建物火災
+(2025-12-18 23:01:00) #ニュース
+
+[2025-12-18 23:04:37](https://bsky.app/profile/sokuho.news/post/3mabdsjnt742r)
+
+---
+
+@wsj.com
+
+Mario Cristobal led Miami to its first ever playoff berth by keeping any and all information close to the vest. But against Texas A&M on Saturday, he hopes to spring an upset in plain sight. on.wsj.com/4iZwesc
+
+[2025-12-18 23:04:23](https://bsky.app/profile/wsj.com/post/3mabds4dcle2q)
+
+---
+
+@reuters.com
+
+US consumer prices increased less than expected in the year to November, but the moderation is likely technical and Americans continued to face affordability challenges that have been partly blamed on tariffs on imports reut.rs/4pGwwqt
+
+[2025-12-18 23:03:06](https://bsky.app/profile/reuters.com/post/3mabdpssk3c24)
 
 ---
 
