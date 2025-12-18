@@ -1,9 +1,9 @@
-# [2025-12-18 15:10 updated](2025_12_18.md)
+# [2025-12-18 15:30 updated](2025_12_18.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">＜１４：４６＞　日経平均は4万9000円挟み小動き、内需株は底堅い bit.ly/4q7NlKI <a href="https://bsky.app/profile/japan.reuters.com/post/3maaj7h5oaa2c" target="_blank">japan.reuters.com</a> (2025-12-18 15:08:40)</span><span style="padding-right:50px;">米アルファベット傘下のグーグルは、自社の人工知能（ＡＩ）半導体を、世界で最も広く利用されている深層学習プラットフォーム「パイトーチ」上でより効率的に動作させるための新たな取り組みを進めている。ＡＩコンピューティング市場で長年エヌビディアが築いてきたソフトウエア環境を含めた支配的地位を弱める狙いがある。事情に詳しい複数の関係者が明らかにした。 bit.ly/3Y1KVBE <a href="https://bsky.app/profile/japan.reuters.com/post/3maaj37h3dv2n" target="_blank">japan.reuters.com</a> (2025-12-18 15:06:17)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】山上徹也被告に無期懲役求刑 安倍元総理銃撃事件 奈良地検 (2025-12-18 15:02:34) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maaj2kxnwp2x" target="_blank">sokuho.news</a> (2025-12-18 15:05:56)</span><span style="padding-right:50px;">Rupee treads water as traders move gingerly, importers lock in hedges reut.rs/4s4PEjs <a href="https://bsky.app/profile/reuters.com/post/3maaizbwsnb2i" target="_blank">reuters.com</a> (2025-12-18 15:05:13)</span><span style="padding-right:50px;">山上徹也被告に無期懲役を求刑　安倍元首相銃撃事件公判で検察側 www.nikkei.com/article/DGXZQO...  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3maaiycqsok22" target="_blank">nikkei.com</a> (2025-12-18 15:04:40)</span>
+<span style="padding-right:50px;">At a time when artists get big through TikTok and catchy hooks built to go viral, Geese represents, in part, a return to an old-school rise on.wsj.com/3XY9xLB <a href="https://bsky.app/profile/wsj.com/post/3maakccdbve2i" target="_blank">wsj.com</a> (2025-12-18 15:28:09)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】越前市長・山田賢一氏が出馬表明 1月の県知事選挙 「いばらの道だが微力を尽くしたい」 (2025-12-18 15:25) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maakbmvk2l2z" target="_blank">sokuho.news</a> (2025-12-18 15:27:47)</span><span style="padding-right:50px;">【速報中】安倍元首相銃撃事件裁判 検察は無期懲役を求刑 https://news.web.nhk/newsweb/na/na-k10015007141000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maakaepc4h22" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 15:27:02)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】福井県知事選挙に越前市の山田賢一市長が立候補を表明 市議会本会議で「この身を捧げることを覚悟し決意した」 (2025-12-18 15:20) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maak6cn6nw2a" target="_blank">sokuho.news</a> (2025-12-18 15:25:55)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】山上徹也被告に対し「無期懲役」求刑 検察側「被告は善悪の判断ができる40代の成人 不遇な生い立ちがあったとしても被害者とは無関係 極めて著しく悪質な犯行」安倍元総理銃撃・… (2025-12-18 15:22) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maak62r64s25" target="_blank">sokuho.news</a> (2025-12-18 15:25:47)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49061.47 (🔺3.16 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3358.00 (🔺8.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.86 (🔺0.26 : 2025-12-18)</span>
+<span style="padding-right:50px;">NIKKEI: 49062.09 (🔺3.78 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3358.00 (🔺8.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.85 (🔺0.26 : 2025-12-18)</span>
   </div>
 </div>
 
@@ -32,102 +32,107 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
-
-1. Japan's Nikkei Average Stuck in 49,000-Range Amid Small Moves
-2. Google Tackles Efficiency of AI Chips on Widely Used Platform
-3. Prosecutors Seek Life Sentence for Ex-Aide in Abe Assassination Trial
-4. South Africa's Inflation Rate Slows to 3.5% in November
-5. China Posts Record Trade Surplus of $1 Trillion in 11 Months
-6. Google Acquires Bardott Resources in $1.3 Billion Deal
+1. Japan's Former Prime Minister Abe's Assassin Faces Life Sentence
+2. Former Japanese Prime Minister Abe's Assassin Seeks Life Imprisonment
+3. US Air Force Plane Crashes in Washington, 67 Dead
+4. Japanese City Mayor Announces Bid for Governor in Upcoming Election
+5. Google Aims to Challenge NVIDIA's Dominance in AI Computing Market
+6. India's Consumer Inflation Rate Slows Down to 3.5% in November
 
 ----
 
-@japan.reuters.com
+@wsj.com
 
-＜１４：４６＞　日経平均は4万9000円挟み小動き、内需株は底堅い bit.ly/4q7NlKI
+At a time when artists get big through TikTok and catchy hooks built to go viral, Geese represents, in part, a return to an old-school rise on.wsj.com/3XY9xLB
 
-[2025-12-18 15:08:40](https://bsky.app/profile/japan.reuters.com/post/3maaj7h5oaa2c)
-
----
-
-@japan.reuters.com
-
-米アルファベット傘下のグーグルは、自社の人工知能（ＡＩ）半導体を、世界で最も広く利用されている深層学習プラットフォーム「パイトーチ」上でより効率的に動作させるための新たな取り組みを進めている。ＡＩコンピューティング市場で長年エヌビディアが築いてきたソフトウエア環境を含めた支配的地位を弱める狙いがある。事情に詳しい複数の関係者が明らかにした。 bit.ly/3Y1KVBE
-
-[2025-12-18 15:06:17](https://bsky.app/profile/japan.reuters.com/post/3maaj37h3dv2n)
+[2025-12-18 15:28:09](https://bsky.app/profile/wsj.com/post/3maakccdbve2i)
 
 ---
 
 @sokuho.news
 
-🛎️JNNより【速報】です。
+🛎️NNNより【速報】です。
 
-【速報】山上徹也被告に無期懲役求刑 安倍元総理銃撃事件 奈良地検
-(2025-12-18 15:02:34) #ニュース
+【速報】越前市長・山田賢一氏が出馬表明 1月の県知事選挙 「いばらの道だが微力を尽くしたい」
+(2025-12-18 15:25) #ニュース
 
-[2025-12-18 15:05:56](https://bsky.app/profile/sokuho.news/post/3maaj2kxnwp2x)
+[2025-12-18 15:27:47](https://bsky.app/profile/sokuho.news/post/3maakbmvk2l2z)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【速報中】安倍元首相銃撃事件裁判 検察は無期懲役を求刑
+https://news.web.nhk/newsweb/na/na-k10015007141000
+
+[2025-12-18 15:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maakaepc4h22)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】福井県知事選挙に越前市の山田賢一市長が立候補を表明 市議会本会議で「この身を捧げることを覚悟し決意した」
+(2025-12-18 15:20) #ニュース
+
+[2025-12-18 15:25:55](https://bsky.app/profile/sokuho.news/post/3maak6cn6nw2a)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】山上徹也被告に対し「無期懲役」求刑 検察側「被告は善悪の判断ができる40代の成人 不遇な生い立ちがあったとしても被害者とは無関係 極めて著しく悪質な犯行」安倍元総理銃撃・…
+(2025-12-18 15:22) #ニュース
+
+[2025-12-18 15:25:47](https://bsky.app/profile/sokuho.news/post/3maak62r64s25)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】越前市長・山田賢一氏が出馬表明 1月の県知事選挙
+(2025-12-18 15:25) #ニュース
+
+[2025-12-18 15:25:33](https://bsky.app/profile/sokuho.news/post/3maak5n5aca27)
 
 ---
 
 @reuters.com
 
-Rupee treads water as traders move gingerly, importers lock in hedges reut.rs/4s4PEjs
+Reports: Nationals hiring Ani Kilambi to GM role reut.rs/4pNg6wL
 
-[2025-12-18 15:05:13](https://bsky.app/profile/reuters.com/post/3maaizbwsnb2i)
-
----
-
-@nikkei.com
-
-山上徹也被告に無期懲役を求刑　安倍元首相銃撃事件公判で検察側
-www.nikkei.com/article/DGXZQO...
-
-#ニュース
-
-[2025-12-18 15:04:40](https://bsky.app/profile/nikkei.com/post/3maaiycqsok22)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【随時更新】ロシア ウクライナに軍事侵攻（12月18日の動き）
-https://news.web.nhk/newsweb/na/na-k10014990651000
-
-[2025-12-18 15:03:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maaivmay732y)
-
----
-
-@cnn.com
-
-Contrary to popular depictions of bee nests as large, intricate hives that hang from trees, the majority of bee species — about 90% — are actually solitary and build their nests in the ground or within rotting logs and the stems of plants. https://cnn.it/4j5oGEn
-
-[2025-12-18 15:03:02](https://bsky.app/profile/cnn.com/post/3maaiveusbq2o)
-
----
-
-@nhknewsunofficial.bsky.social
-
-安倍元首相銃撃事件裁判 検察は山上被告に無期懲役を求刑
-https://news.web.nhk/newsweb/na/na-k10015007141000
-
-[2025-12-18 15:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maaivgxjew2d)
+[2025-12-18 15:25:12](https://bsky.app/profile/reuters.com/post/3maak4zx6gw2r)
 
 ---
 
 @japan.reuters.com
 
-南アフリカ統計局が１７日発表した１１月の消費者物価指数（ＣＰＩ）は前年比３．５％上昇したが、３カ月ぶりに鈍化した。同国では先月にインフレ目標が引き下げられたこともあり、南ア準備銀行（中央銀行）が来年さらに利下げするとの見方が強まった。 bit.ly/495l80r
+米司法省は１７日夜、１月２９日に首都ワシントン近郊のレーガン・ナショナル空港付近で発生したアメリカン航空のリージョナルジェット旅客機が米軍のヘリコプターと空中衝突して６７人が死亡した事故について、連邦政府に責任があると発表した。 bit.ly/4j6J2gL
 
-[2025-12-18 15:02:49](https://bsky.app/profile/japan.reuters.com/post/3maaiuynm222q)
+[2025-12-18 15:24:13](https://bsky.app/profile/japan.reuters.com/post/3maak3bbsgy22)
 
 ---
 
-@sokuho.news
+@nhknewsunofficial.bsky.social
 
-<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>安倍元首相銃撃事件裁判 検察は山上被告に無期懲役を求刑</strong><br><strong>(2025-12-18 15:01:30) #ニュース</strong>
+旧統一教会に賠償命令 献金勧誘で教団側の責任認める 東京高裁
+https://news.web.nhk/newsweb/na/na-k10015007381000
 
-[2025-12-18 15:02:01](https://bsky.app/profile/sokuho.news/post/3maaitlb6ge2r)
+[2025-12-18 15:24:06](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maak354ptq2b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+三重 四日市 大雨浸水の地下駐車場 運営会社が破産申し立て
+https://news.web.nhk/newsweb/na/na-k10015007391000
+
+[2025-12-18 15:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maak2yjqg724)
 
 ---
 
