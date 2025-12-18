@@ -1,9 +1,9 @@
-# [2025-12-19 01:30 updated](2025_12_19.md)
+# [2025-12-19 01:50 updated](2025_12_19.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The U.S. Health Department proposed rules that would effectively ban gender-affirming care for minors, building on Trump administration restrictions. <a href="https://bsky.app/profile/apnews.com/post/3mablv4aigl2r" target="_blank">apnews.com</a> (2025-12-19 01:29:14)</span><span style="padding-right:50px;">Breaking News: New Trump administration rules, if finalized, would pull funding from hospitals that provide gender-related care to minors. <a href="https://bsky.app/profile/nytimes.com/post/3mablqmfaus2y" target="_blank">nytimes.com</a> (2025-12-19 01:26:43)</span><span style="padding-right:50px;">Exclusive: Syrian, Kurdish and US officials are scrambling ahead of a year-end deadline to show some progress in a stalled deal to merge Kurdish forces with the Syrian state, according to several people involved in or familiar with the talks reut.rs/4s52oH2 <a href="https://bsky.app/profile/reuters.com/post/3mablor3bek2c" target="_blank">reuters.com</a> (2025-12-19 01:25:41)</span><span style="padding-right:50px;">Wall St gains as markets take easing inflation in stride, Micron leads tech rally reut.rs/44wmcJo <a href="https://bsky.app/profile/reuters.com/post/3mablo7fvcd2p" target="_blank">reuters.com</a> (2025-12-19 01:25:22)</span><span style="padding-right:50px;">The New York City Council will introduce a bill on Thursday to create a new agency that would deploy mental health teams to respond to 911 calls — advancing a key part of Mayor-elect Zohran Mamdani’s agenda. <a href="https://bsky.app/profile/nytimes.com/post/3mablnmotk32x" target="_blank">nytimes.com</a> (2025-12-19 01:25:03)</span>
+<span style="padding-right:50px;">DNC Chairman Ken Martin has reversed course on his pledge to publicly release a review of the Democratic Party’s 2024 election failures, arguing it would be a distraction. <a href="https://bsky.app/profile/wsj.com/post/3mabmyez57b2q" target="_blank">wsj.com</a> (2025-12-19 01:48:57)</span><span style="padding-right:50px;">BREAKING: Health Secretary Robert F. Kennedy Jr proposed rules to limit gender-affirming care for minors that would bar hospitals providing such care from Medicare and Medicaid programs, and bar Medicaid and children's health programs from covering it reut.rs/4j877DN <a href="https://bsky.app/profile/reuters.com/post/3mabmwo3kls2c" target="_blank">reuters.com</a> (2025-12-19 01:48:00)</span><span style="padding-right:50px;">Lawyers Hogan Lovells and Cadwalader set to merge in record $3.6bn deal ft.trib.al/mRY40Bd <a href="https://bsky.app/profile/financialtimes.com/post/3mabmunyun52p" target="_blank">financialtimes.com</a> (2025-12-19 01:46:52)</span><span style="padding-right:50px;">Bank of England cuts rates after tight vote but signals caution about further moves reut.rs/4ap3g2O <a href="https://bsky.app/profile/reuters.com/post/3mabmrt665z2r" target="_blank">reuters.com</a> (2025-12-19 01:45:17)</span><span style="padding-right:50px;">過激派組織「イスラム国」（ＩＳ）は１８日、オーストラリア・シドニーの観光名所ボンダイビーチで１４日に発生した銃乱射事件について、「誇りの源」と通信アプリ「テレグラム」に投稿した。ただ、この事件について直接的な犯行声明は出していない。 bit.ly/4p2vxjl <a href="https://bsky.app/profile/japan.reuters.com/post/3mabmqgp2ec2n" target="_blank">japan.reuters.com</a> (2025-12-19 01:44:31)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 48297.88 (🔺196.70 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23102.39 (🔺90.33 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.93 (🔺0.40 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.43 (🔻0.17 : 2025-12-18)</span>
+<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 48258.47 (🔺157.29 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23140.04 (🔺127.97 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 175.78 (🔺1.25 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.54 (🔻0.05 : 2025-12-18)</span>
   </div>
 </div>
 
@@ -34,94 +34,92 @@
 
 Here are six important stories with headlines in English:
 
-1. US to Ban Gender-Affirming Care for Minors Under Trump Administration Proposal
-2. US Imposes Sanctions on Two More International Criminal Court Judges
-3. US Imposes Sanctions on Two More International Criminal Court Judges
-4. New York City to Deploy Mental Health Teams in Response to 911 Calls
-5. Trump Imposes Sanctions on Two More International Criminal Court Judges
-6. US Imposes Sanctions on Judges Investigating Israel Over War Crimes Allegations
+1. DNC Reverses Course on 2024 Election Review, Declines to Release Report
+2. US Imposes Sanctions on Two International Criminal Court Judges Over Israel Investigation
+3. Trump Administration Proposes Rules to Limit Gender-Affirming Care for Minors
+4. Micron Surges as Markets React to Easing Inflation and Interest Rate Cuts
+5. New York City Council to Introduce Bill for Mental Health Response Teams
+6. Trump Media and Technology Group to Merge with Nuclear Fusion Company TAE Technologies
 
 ----
 
-@apnews.com
+@wsj.com
 
-The U.S. Health Department proposed rules that would effectively ban gender-affirming care for minors, building on Trump administration restrictions.
+DNC Chairman Ken Martin has reversed course on his pledge to publicly release a review of the Democratic Party’s 2024 election failures, arguing it would be a distraction.
 
-[2025-12-19 01:29:14](https://bsky.app/profile/apnews.com/post/3mablv4aigl2r)
-
----
-
-@nytimes.com
-
-<strong><span style="color: red;">Breaking News</span>: New Trump administration rules, if finalized, would pull funding from hospitals that provide gender-related care to minors.</strong>
-
-[2025-12-19 01:26:43](https://bsky.app/profile/nytimes.com/post/3mablqmfaus2y)
+[2025-12-19 01:48:57](https://bsky.app/profile/wsj.com/post/3mabmyez57b2q)
 
 ---
 
 @reuters.com
 
-Exclusive: Syrian, Kurdish and US officials are scrambling ahead of a year-end deadline to show some progress in a stalled deal to merge Kurdish forces with the Syrian state, according to several people involved in or familiar with the talks reut.rs/4s52oH2
+<strong><span style="color: red;">BREAKING:</span> Health Secretary Robert F. Kennedy Jr proposed rules to limit gender-affirming care for minors that would bar hospitals providing such care from Medicare and Medicaid programs, and bar Medicaid and children's health programs from covering it reut.rs/4j877DN</strong>
 
-[2025-12-19 01:25:41](https://bsky.app/profile/reuters.com/post/3mablor3bek2c)
-
----
-
-@reuters.com
-
-Wall St gains as markets take easing inflation in stride, Micron leads tech rally reut.rs/44wmcJo
-
-[2025-12-19 01:25:22](https://bsky.app/profile/reuters.com/post/3mablo7fvcd2p)
-
----
-
-@nytimes.com
-
-The New York City Council will introduce a bill on Thursday to create a new agency that would deploy mental health teams to respond to 911 calls — advancing a key part of Mayor-elect Zohran Mamdani’s agenda.
-
-[2025-12-19 01:25:03](https://bsky.app/profile/nytimes.com/post/3mablnmotk32x)
-
----
-
-@en.afp.com
-
-#UPDATE 🇺🇸 The United States on Thursday imposed sanctions on two more judges of the International Criminal Court over their investigation of Israel, whose Prime Minister Benjamin Netanyahu faces an arrest warrant from the Hague tribunal
-
-[2025-12-19 01:22:50](https://bsky.app/profile/en.afp.com/post/3mabljohops2r)
-
----
-
-@nbcnews.com
-
-President Trump offered a rapid-fire series of claims about the economic, military and societal impact of the first year of his second administration, some accurate or close to reality, while others appeared to be either misleading or wrong.
-
-[2025-12-19 01:20:15](https://bsky.app/profile/nbcnews.com/post/3mablf2ej462q)
+[2025-12-19 01:48:00](https://bsky.app/profile/reuters.com/post/3mabmwo3kls2c)
 
 ---
 
 @financialtimes.com
 
-New York hedge fund approached by Warner shareholder to buy CNN ft.trib.al/JxU4Ymj
+Lawyers Hogan Lovells and Cadwalader set to merge in record $3.6bn deal ft.trib.al/mRY40Bd
 
-[2025-12-19 01:19:47](https://bsky.app/profile/financialtimes.com/post/3mableacjuq24)
+[2025-12-19 01:46:52](https://bsky.app/profile/financialtimes.com/post/3mabmunyun52p)
 
 ---
 
-@wsj.com
+@reuters.com
 
-An Iranian-linked hacker group leaked sensitive personal data belonging to a former Israeli prime minister this week, one of a number of attacks linked to Tehran.
+Bank of England cuts rates after tight vote but signals caution about further moves reut.rs/4ap3g2O
 
-[2025-12-19 01:19:47](https://bsky.app/profile/wsj.com/post/3mable7lic32u)
+[2025-12-19 01:45:17](https://bsky.app/profile/reuters.com/post/3mabmrt665z2r)
+
+---
+
+@japan.reuters.com
+
+過激派組織「イスラム国」（ＩＳ）は１８日、オーストラリア・シドニーの観光名所ボンダイビーチで１４日に発生した銃乱射事件について、「誇りの源」と通信アプリ「テレグラム」に投稿した。ただ、この事件について直接的な犯行声明は出していない。 bit.ly/4p2vxjl
+
+[2025-12-19 01:44:31](https://bsky.app/profile/japan.reuters.com/post/3mabmqgp2ec2n)
+
+---
+
+@reuters.com
+
+Novo files marketing application for next-gen weight-loss drug reut.rs/3Y2IgaH
+
+[2025-12-19 01:40:23](https://bsky.app/profile/reuters.com/post/3mabmj32m6j2r)
+
+---
+
+@nbcnews.com
+
+A man convicted of fatally shooting a man and woman during home invasion robbery and later confessing to three other killings is scheduled to be executed.
+
+[2025-12-19 01:40:12](https://bsky.app/profile/nbcnews.com/post/3mabmipqf5u2p)
+
+---
+
+@washingtonpost.com
+
+The Democratic National Committee will not publicly release its autopsy of the 2024 presidential campaign, party officials said, a reversal intended to avoid a contentious reckoning over the party’s failure.
+
+[2025-12-19 01:40:04](https://bsky.app/profile/washingtonpost.com/post/3mabmiio4422p)
 
 ---
 
 @nytimes.com
 
-From @theathleticfc.bsky.social: The 2025 Africa Cup of Nations (AFCON) gets underway in Morocco on Sunday, with the Ivory Coast attempting to defend the title they won in dramatic style less than two years ago.
+President Tump has tried to minimize his relationship with Jeffrey Epstein. Documents and interviews that The New York Times conducted with more than 30 former Epstein employees, victims of his abuse and others who crossed paths with the two men reveal an intense and complicated relationship.
 
-Our experts made their predictions.
+[2025-12-19 01:40:04](https://bsky.app/profile/nytimes.com/post/3mabmiih6v62r)
 
-[2025-12-19 01:19:07](https://bsky.app/profile/nytimes.com/post/3mablczdk2r25)
+---
+
+@japan.reuters.com
+
+トランプ米大統領の交流サイト（ＳＮＳ）を運営するトランプ・メディア・アンド・テクノロジー・グループ（ＴＭＴＧ） は１８日、ＴＡＥテクノロジーズと合併することで合意し、核融合発電事業に参入すると発表した。人工知能（ＡＩ）データセンターの増設で電力需要が高まりが見込めると判断した。仮想通貨（暗号資産）や不動産関連、モバイルサービスなどを抱えるトランプ一族企業にとって、さらなる事業分野の拡大となる。 bit.ly/3KDuvwf
+
+[2025-12-19 01:39:11](https://bsky.app/profile/japan.reuters.com/post/3mabmgvp3uv2p)
 
 ---
 
