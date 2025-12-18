@@ -1,9 +1,9 @@
-# [2025-12-19 01:50 updated](2025_12_19.md)
+# [2025-12-19 02:10 updated](2025_12_19.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">DNC Chairman Ken Martin has reversed course on his pledge to publicly release a review of the Democratic Party’s 2024 election failures, arguing it would be a distraction. <a href="https://bsky.app/profile/wsj.com/post/3mabmyez57b2q" target="_blank">wsj.com</a> (2025-12-19 01:48:57)</span><span style="padding-right:50px;">BREAKING: Health Secretary Robert F. Kennedy Jr proposed rules to limit gender-affirming care for minors that would bar hospitals providing such care from Medicare and Medicaid programs, and bar Medicaid and children's health programs from covering it reut.rs/4j877DN <a href="https://bsky.app/profile/reuters.com/post/3mabmwo3kls2c" target="_blank">reuters.com</a> (2025-12-19 01:48:00)</span><span style="padding-right:50px;">Lawyers Hogan Lovells and Cadwalader set to merge in record $3.6bn deal ft.trib.al/mRY40Bd <a href="https://bsky.app/profile/financialtimes.com/post/3mabmunyun52p" target="_blank">financialtimes.com</a> (2025-12-19 01:46:52)</span><span style="padding-right:50px;">Bank of England cuts rates after tight vote but signals caution about further moves reut.rs/4ap3g2O <a href="https://bsky.app/profile/reuters.com/post/3mabmrt665z2r" target="_blank">reuters.com</a> (2025-12-19 01:45:17)</span><span style="padding-right:50px;">過激派組織「イスラム国」（ＩＳ）は１８日、オーストラリア・シドニーの観光名所ボンダイビーチで１４日に発生した銃乱射事件について、「誇りの源」と通信アプリ「テレグラム」に投稿した。ただ、この事件について直接的な犯行声明は出していない。 bit.ly/4p2vxjl <a href="https://bsky.app/profile/japan.reuters.com/post/3mabmqgp2ec2n" target="_blank">japan.reuters.com</a> (2025-12-19 01:44:31)</span>
+<span style="padding-right:50px;">'Absence of data' in CPI report flashes yellow for further interest rate cuts <a href="https://bsky.app/profile/yahoofinance.com/post/3mabnx4nrb626" target="_blank">yahoofinance.com</a> (2025-12-19 02:06:09)</span><span style="padding-right:50px;">France drafts in army for cattle vaccination to defuse farmer protests reut.rs/4aGXcmD <a href="https://bsky.app/profile/reuters.com/post/3mabnvm52be2y" target="_blank">reuters.com</a> (2025-12-19 02:05:18)</span><span style="padding-right:50px;"> In the desert of New Mexico, hundreds of trainees gather to hear from Border Patrol chiefs as they join an agency with an expanded role and new policies under the Trump administration. https://cnn.it/3MBeffR <a href="https://bsky.app/profile/cnn.com/post/3mabnvcyb5q23" target="_blank">cnn.com</a> (2025-12-19 02:05:08)</span><span style="padding-right:50px;">Former Tory donor hit with UK sanctions over alleged Russian energy role ft.trib.al/4aBM0Qq <a href="https://bsky.app/profile/financialtimes.com/post/3mabnv7gzw425" target="_blank">financialtimes.com</a> (2025-12-19 02:05:05)</span><span style="padding-right:50px;"> BP’s new broom has a lot of sweeping to do ft.trib.al/vWQeVUe  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3mabnupta4x2y" target="_blank">financialtimes.com</a> (2025-12-19 02:04:48)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 48258.47 (🔺157.29 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23140.04 (🔺127.97 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 175.78 (🔺1.25 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.54 (🔻0.05 : 2025-12-18)</span>
+<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 48019.39 (🔻81.79 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23018.72 (🔺6.66 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.50 (🔻0.03 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.60 (🔺0.01 : 2025-12-18)</span>
   </div>
 </div>
 
@@ -34,92 +34,92 @@
 
 Here are six important stories with headlines in English:
 
-1. DNC Reverses Course on 2024 Election Review, Declines to Release Report
-2. US Imposes Sanctions on Two International Criminal Court Judges Over Israel Investigation
-3. Trump Administration Proposes Rules to Limit Gender-Affirming Care for Minors
-4. Micron Surges as Markets React to Easing Inflation and Interest Rate Cuts
-5. New York City Council to Introduce Bill for Mental Health Response Teams
-6. Trump Media and Technology Group to Merge with Nuclear Fusion Company TAE Technologies
+1. France Deploys Army to Vaccinate Cattle Amid Farmer Protests
+2. Trump Administration to Restrict Gender-Affirming Care for Minors
+3. US Crypto Industry Cheers 2025 Wins, But Party May Fizzle Next Year
+4. Bank of England Cuts Rates, Signals Caution on Further Moves
+5. Novo Files Marketing Application for Next-Gen Weight-Loss Drug
+6. US to Probe Wearable Devices After Ouraring Complaint
 
 ----
 
-@wsj.com
+@yahoofinance.com
 
-DNC Chairman Ken Martin has reversed course on his pledge to publicly release a review of the Democratic Party’s 2024 election failures, arguing it would be a distraction.
+'Absence of data' in CPI report flashes yellow for further interest rate cuts
 
-[2025-12-19 01:48:57](https://bsky.app/profile/wsj.com/post/3mabmyez57b2q)
+[2025-12-19 02:06:09](https://bsky.app/profile/yahoofinance.com/post/3mabnx4nrb626)
 
 ---
 
 @reuters.com
 
-<strong><span style="color: red;">BREAKING:</span> Health Secretary Robert F. Kennedy Jr proposed rules to limit gender-affirming care for minors that would bar hospitals providing such care from Medicare and Medicaid programs, and bar Medicaid and children's health programs from covering it reut.rs/4j877DN</strong>
+France drafts in army for cattle vaccination to defuse farmer protests reut.rs/4aGXcmD
 
-[2025-12-19 01:48:00](https://bsky.app/profile/reuters.com/post/3mabmwo3kls2c)
+[2025-12-19 02:05:18](https://bsky.app/profile/reuters.com/post/3mabnvm52be2y)
+
+---
+
+@cnn.com
+
+ In the desert of New Mexico, hundreds of trainees gather to hear from Border Patrol chiefs as they join an agency with an expanded role and new policies under the Trump administration. https://cnn.it/3MBeffR
+
+[2025-12-19 02:05:08](https://bsky.app/profile/cnn.com/post/3mabnvcyb5q23)
 
 ---
 
 @financialtimes.com
 
-Lawyers Hogan Lovells and Cadwalader set to merge in record $3.6bn deal ft.trib.al/mRY40Bd
+Former Tory donor hit with UK sanctions over alleged Russian energy role ft.trib.al/4aBM0Qq
 
-[2025-12-19 01:46:52](https://bsky.app/profile/financialtimes.com/post/3mabmunyun52p)
+[2025-12-19 02:05:05](https://bsky.app/profile/financialtimes.com/post/3mabnv7gzw425)
+
+---
+
+@financialtimes.com
+
+ BP’s new broom has a lot of sweeping to do ft.trib.al/vWQeVUe  | opinion
+
+[2025-12-19 02:04:48](https://bsky.app/profile/financialtimes.com/post/3mabnupta4x2y)
+
+---
+
+@usatoday.com
+
+Here are the records about the investigation of Jeffrey Epstein that have been released by investigators and lawmakers so far.
+
+[2025-12-19 02:01:35](https://bsky.app/profile/usatoday.com/post/3mabnoxbag32w)
+
+---
+
+@apnews.com
+
+A business jet crashed while landing at a regional airport in North Carolina, erupting in a large fire, officials say.
+
+[2025-12-19 02:01:33](https://bsky.app/profile/apnews.com/post/3mabnovgbnf2d)
+
+---
+
+@apnews.com
+
+Sunday marks the shortest day of the year in the Northern Hemisphere, signaling the start of astronomical winter.
+
+[2025-12-19 02:01:06](https://bsky.app/profile/apnews.com/post/3mabno3yovf2p)
 
 ---
 
 @reuters.com
 
-Bank of England cuts rates after tight vote but signals caution about further moves reut.rs/4ap3g2O
+Accenture beats quarterly revenue estimate on strong demand for AI services reut.rs/3MFlDXz
 
-[2025-12-19 01:45:17](https://bsky.app/profile/reuters.com/post/3mabmrt665z2r)
-
----
-
-@japan.reuters.com
-
-過激派組織「イスラム国」（ＩＳ）は１８日、オーストラリア・シドニーの観光名所ボンダイビーチで１４日に発生した銃乱射事件について、「誇りの源」と通信アプリ「テレグラム」に投稿した。ただ、この事件について直接的な犯行声明は出していない。 bit.ly/4p2vxjl
-
-[2025-12-19 01:44:31](https://bsky.app/profile/japan.reuters.com/post/3mabmqgp2ec2n)
-
----
-
-@reuters.com
-
-Novo files marketing application for next-gen weight-loss drug reut.rs/3Y2IgaH
-
-[2025-12-19 01:40:23](https://bsky.app/profile/reuters.com/post/3mabmj32m6j2r)
-
----
-
-@nbcnews.com
-
-A man convicted of fatally shooting a man and woman during home invasion robbery and later confessing to three other killings is scheduled to be executed.
-
-[2025-12-19 01:40:12](https://bsky.app/profile/nbcnews.com/post/3mabmipqf5u2p)
+[2025-12-19 02:00:48](https://bsky.app/profile/reuters.com/post/3mabnnkwikz2r)
 
 ---
 
 @washingtonpost.com
 
-The Democratic National Committee will not publicly release its autopsy of the 2024 presidential campaign, party officials said, a reversal intended to avoid a contentious reckoning over the party’s failure.
+Satellites whizzing by each other at close range, maneuvering to gain strategic advantage, is a new development in the militarization of space — and increasingly important.
 
-[2025-12-19 01:40:04](https://bsky.app/profile/washingtonpost.com/post/3mabmiio4422p)
-
----
-
-@nytimes.com
-
-President Tump has tried to minimize his relationship with Jeffrey Epstein. Documents and interviews that The New York Times conducted with more than 30 former Epstein employees, victims of his abuse and others who crossed paths with the two men reveal an intense and complicated relationship.
-
-[2025-12-19 01:40:04](https://bsky.app/profile/nytimes.com/post/3mabmiih6v62r)
-
----
-
-@japan.reuters.com
-
-トランプ米大統領の交流サイト（ＳＮＳ）を運営するトランプ・メディア・アンド・テクノロジー・グループ（ＴＭＴＧ） は１８日、ＴＡＥテクノロジーズと合併することで合意し、核融合発電事業に参入すると発表した。人工知能（ＡＩ）データセンターの増設で電力需要が高まりが見込めると判断した。仮想通貨（暗号資産）や不動産関連、モバイルサービスなどを抱えるトランプ一族企業にとって、さらなる事業分野の拡大となる。 bit.ly/3KDuvwf
-
-[2025-12-19 01:39:11](https://bsky.app/profile/japan.reuters.com/post/3mabmgvp3uv2p)
+[2025-12-19 02:00:43](https://bsky.app/profile/washingtonpost.com/post/3mabnnfxhvi2g)
 
 ---
 
