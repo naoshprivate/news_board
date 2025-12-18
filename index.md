@@ -1,9 +1,9 @@
-# [2025-12-18 19:10 updated](2025_12_18.md)
+# [2025-12-18 19:30 updated](2025_12_18.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">中国商務省は１８日、来年からの鉄鋼製品約３００品目に対する輸出許可制について、鉄鋼輸出をより厳密に監視することを可能にし、世界貿易機関（ＷＴＯ）のルールに沿ったものだと述べた。 bit.ly/4pLvYji <a href="https://bsky.app/profile/japan.reuters.com/post/3maawmargra2n" target="_blank">japan.reuters.com</a> (2025-12-18 19:08:28)</span><span style="padding-right:50px;">レスリング全日本選手権 女子76キロ級 復帰戦の鏡優翔が決勝へ https://news.web.nhk/newsweb/na/na-k10015007681000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maawhy2vmp2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 19:06:03)</span><span style="padding-right:50px;">米議会上院は１７日に２０２６年度国防権限法（ＮＤＡＡ）修正法案を可決した。同法案は先週既に下院を通過しており、トランプ大統領の署名を経て成立する見通しだ。 bit.ly/3Y3GXs9 <a href="https://bsky.app/profile/japan.reuters.com/post/3maawgonien2f" target="_blank">japan.reuters.com</a> (2025-12-18 19:05:21)</span><span style="padding-right:50px;">Exclusive: India to revamp M&A rules to protect retail investors, expedite deals reut.rs/4ajbauA <a href="https://bsky.app/profile/reuters.com/post/3maawgl3o6n2k" target="_blank">reuters.com</a> (2025-12-18 19:05:17)</span><span style="padding-right:50px;">Meta’s LeCun targets €3bn valuation for new AI start-up ft.trib.al/1hJm9Ew <a href="https://bsky.app/profile/financialtimes.com/post/3maawe5ev5u2q" target="_blank">financialtimes.com</a> (2025-12-18 19:03:56)</span>
+<span style="padding-right:50px;">日野自動車は１８日、連結子会社の東北北海道日野自動車、北海道日野自動車、宮城日野自動車、福島日野自動車、南関東日野自動車の株式の８０％を台湾の和泰汽車 に譲渡すると発表した。譲渡価格は合計で約２７０億円。また、静岡日野自動車の株式の８８．５％を愛知日野自動車に譲渡する。 bit.ly/49hDE6V <a href="https://bsky.app/profile/japan.reuters.com/post/3maaxpvyrgd2v" target="_blank">japan.reuters.com</a> (2025-12-18 19:28:25)</span><span style="padding-right:50px;">文科相 能登半島地震の被災地訪問“教育関係施設 復旧に全力” https://news.web.nhk/newsweb/na/na-k10015007711000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maaxnk6xxf2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 19:27:03)</span><span style="padding-right:50px;">トランプ米大統領は１７日、ホワイトハウスで国民に向けて演説し、第２次政権発足以降の実績を強調した。共和党が来年の中間選挙で厳しい戦いを強いられる見通しとなる中、民主党のバイデン前政権が物価高騰を招いたと非難した。 bit.ly/4qAtN2b <a href="https://bsky.app/profile/japan.reuters.com/post/3maaxkm36xy2n" target="_blank">japan.reuters.com</a> (2025-12-18 19:25:26)</span><span style="padding-right:50px;">Trump says next Fed chair will believe in lower interest rates 'by a lot' reut.rs/3KGkBKh <a href="https://bsky.app/profile/reuters.com/post/3maaxkashkh2y" target="_blank">reuters.com</a> (2025-12-18 19:25:15)</span><span style="padding-right:50px;">Mass firings, buyouts and heightened uncertainty led to an exodus of federal workers in 2025. More than 300,000 employees will be out of the government by the end of December. n.pr/4p0qEr6 <a href="https://bsky.app/profile/npr.org/post/3maaxgrx3fm2e" target="_blank">npr.org</a> (2025-12-18 19:23:18)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.94 (🔺0.34 : 2025-12-18)</span>
+<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.95 (🔺0.35 : 2025-12-18)</span>
   </div>
 </div>
 
@@ -32,98 +32,100 @@
 
 ## News Headlines
 
-1. Japan Strengthens Steel Export Controls in Compliance with WTO Rules
-2. Wrestling: Japan's Yuka Kagamimura Advances to Final at Women's 76kg Event
-3. US Senate Approves NDDA Bill, Trump Expected to Sign
-4. India to Revamp M&A Rules to Protect Retail Investors
-5. Meta's LeCun Targets €3bn Valuation for New AI Start-up
-6. Bank of Japan Poised to Raise Rates to 30-Year High Despite Economic Weakness
+Here are six important stories with headlines in English:
+
+1. Toyota Subsidiaries Sold to Taiwanese Automaker for $2.7 Billion
+2. Japan's Education Minister Vows to Restore Schools and Educational Facilities After Earthquake
+3. Trump Emphasizes Achievements in Year-End Address to Nation
+4. Over 300,000 Federal Workers to Leave Government by End of 2025
+5. Kenya Mother's Plea for Son's Rare Disease Treatment Goes Viral
+6. DoorDash Partners with OpenAI to Launch Grocery-Shopping App
 
 ----
 
 @japan.reuters.com
 
-中国商務省は１８日、来年からの鉄鋼製品約３００品目に対する輸出許可制について、鉄鋼輸出をより厳密に監視することを可能にし、世界貿易機関（ＷＴＯ）のルールに沿ったものだと述べた。 bit.ly/4pLvYji
+日野自動車は１８日、連結子会社の東北北海道日野自動車、北海道日野自動車、宮城日野自動車、福島日野自動車、南関東日野自動車の株式の８０％を台湾の和泰汽車 に譲渡すると発表した。譲渡価格は合計で約２７０億円。また、静岡日野自動車の株式の８８．５％を愛知日野自動車に譲渡する。 bit.ly/49hDE6V
 
-[2025-12-18 19:08:28](https://bsky.app/profile/japan.reuters.com/post/3maawmargra2n)
+[2025-12-18 19:28:25](https://bsky.app/profile/japan.reuters.com/post/3maaxpvyrgd2v)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-レスリング全日本選手権 女子76キロ級 復帰戦の鏡優翔が決勝へ
-https://news.web.nhk/newsweb/na/na-k10015007681000
+文科相 能登半島地震の被災地訪問“教育関係施設 復旧に全力”
+https://news.web.nhk/newsweb/na/na-k10015007711000
 
-[2025-12-18 19:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maawhy2vmp2b)
+[2025-12-18 19:27:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maaxnk6xxf2v)
 
 ---
 
 @japan.reuters.com
 
-米議会上院は１７日に２０２６年度国防権限法（ＮＤＡＡ）修正法案を可決した。同法案は先週既に下院を通過しており、トランプ大統領の署名を経て成立する見通しだ。 bit.ly/3Y3GXs9
+トランプ米大統領は１７日、ホワイトハウスで国民に向けて演説し、第２次政権発足以降の実績を強調した。共和党が来年の中間選挙で厳しい戦いを強いられる見通しとなる中、民主党のバイデン前政権が物価高騰を招いたと非難した。 bit.ly/4qAtN2b
 
-[2025-12-18 19:05:21](https://bsky.app/profile/japan.reuters.com/post/3maawgonien2f)
+[2025-12-18 19:25:26](https://bsky.app/profile/japan.reuters.com/post/3maaxkm36xy2n)
 
 ---
 
 @reuters.com
 
-Exclusive: India to revamp M&A rules to protect retail investors, expedite deals reut.rs/4ajbauA
+Trump says next Fed chair will believe in lower interest rates 'by a lot' reut.rs/3KGkBKh
 
-[2025-12-18 19:05:17](https://bsky.app/profile/reuters.com/post/3maawgl3o6n2k)
-
----
-
-@financialtimes.com
-
-Meta’s LeCun targets €3bn valuation for new AI start-up ft.trib.al/1hJm9Ew
-
-[2025-12-18 19:03:56](https://bsky.app/profile/financialtimes.com/post/3maawe5ev5u2q)
+[2025-12-18 19:25:15](https://bsky.app/profile/reuters.com/post/3maaxkashkh2y)
 
 ---
 
-@cnbc.com
+@npr.org
 
-Treasury yields nudge lower as investors await inflation data
+Mass firings, buyouts and heightened uncertainty led to an exodus of federal workers in 2025. More than 300,000 employees will be out of the government by the end of December. n.pr/4p0qEr6
 
-[2025-12-18 19:02:23](https://bsky.app/profile/cnbc.com/post/3maawbeeume24)
+[2025-12-18 19:23:18](https://bsky.app/profile/npr.org/post/3maaxgrx3fm2e)
 
 ---
 
 @nikkei.com
 
-JR東日本の人事役員が求める人材「誠実さと挑戦への意欲」
+片山虎之助氏が死去、90歳　総務相や維新共同代表を歴任
 www.nikkei.com/article/DGXZQO...
 
-社風を聞くと「最優先事項として『究極の安全』を掲げている」。
+#ニュース
 
-「一番人数が多い地域総合職ではゴールデンウイークに現場に配属」。新入社員も即戦力として重視しています。
-
-[2025-12-18 19:01:16](https://bsky.app/profile/nikkei.com/post/3maaw7f5zsx2x)
+[2025-12-18 19:21:16](https://bsky.app/profile/nikkei.com/post/3maaxd5lfma2f)
 
 ---
 
-@apnews.com
+@nhknewsunofficial.bsky.social
 
-The holiday season is a great time to disconnect from screens and connect with loved ones.
+小泉防衛相と比国防相 中国軍レーダー照射問題に強い懸念共有
+https://news.web.nhk/newsweb/na/na-k10015007701000
 
-[2025-12-18 19:00:46](https://bsky.app/profile/apnews.com/post/3maaw6iimi722)
-
----
-
-@reuters.com
-
-Turkey urges peaceful Syria-SDF talks, warns patience running out – foreign minister reut.rs/4pL6rH5
-
-[2025-12-18 19:00:41](https://bsky.app/profile/reuters.com/post/3maaw6denid2b)
+[2025-12-18 19:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maaxcsi65l2b)
 
 ---
 
-@cnn.com
+@japan.reuters.com
 
- President Donald Trump made a series of false claims during his prime-time address from the White House. Here is a fact check. https://cnn.it/49fKEBg
+ケニアの牧畜民のヘレン・エティマンさんは、重度の栄養失調になった息子のピーター・ロコイエンちゃん（４）について、特別な栄養治療食の投与を始めればすぐに回復すると信じていた。 bit.ly/4qfbu24
 
-[2025-12-18 19:00:17](https://bsky.app/profile/cnn.com/post/3maaw5mzjru2x)
+[2025-12-18 19:20:41](https://bsky.app/profile/japan.reuters.com/post/3maaxc3hnq62q)
+
+---
+
+@nbcnews.com
+
+A camel kicked a woman during a Houston church’s Christmas performance, video shows.
+
+[2025-12-18 19:20:11](https://bsky.app/profile/nbcnews.com/post/3maaxb7bicq25)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+“政府の気候変動対策は不十分” 全国の450人余が国を提訴
+https://news.web.nhk/newsweb/na/na-k10015007691000
+
+[2025-12-18 19:18:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maax5lfdnq2s)
 
 ---
 
