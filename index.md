@@ -1,9 +1,9 @@
-# [2025-12-18 20:30 updated](2025_12_18.md)
+# [2025-12-18 20:50 updated](2025_12_18.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">“旧姓使用に法的効力”答申案 連合会長「修正なければ反対」 https://news.web.nhk/newsweb/na/na-k10015007761000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mab2yt5zfg2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 20:27:03)</span><span style="padding-right:50px;">Researchers are examining whether a decline in reading and math scores over the last decade is related to the widespread use of smartphones by young people. n.pr/4ank2iN <a href="https://bsky.app/profile/npr.org/post/3mab2wsml4v2p" target="_blank">npr.org</a> (2025-12-18 20:25:57)</span><span style="padding-right:50px;">米ダラス地区連銀が１７日に発表した調査によると、テキサス、ルイジアナ、ニューメキシコの主要産油３州における石油・ガス関連活動は第４・四半期にわずかに減少した。原油価格の低迷により一部油井の採算性が悪化していることや、地政学的な不確実性が続くことへの懸念が背景にある。 bit.ly/4q83uji <a href="https://bsky.app/profile/japan.reuters.com/post/3mab2vlthoq2n" target="_blank">japan.reuters.com</a> (2025-12-18 20:25:16)</span><span style="padding-right:50px;">Micron surges on upbeat profit forecast as chip prices soar reut.rs/48YMGnX <a href="https://bsky.app/profile/reuters.com/post/3mab2vjngwv2s" target="_blank">reuters.com</a> (2025-12-18 20:25:14)</span><span style="padding-right:50px;">President Trump’s tariffs have redirected the firehose of cheap Chinese exports to Europe. <a href="https://bsky.app/profile/wsj.com/post/3mab2rz6tze2h" target="_blank">wsj.com</a> (2025-12-18 20:23:16)</span>
+<span style="padding-right:50px;">台湾中央銀行は１８日、市場の予想通り、政策金利を２．０％に据え置くことを決定した。また、ハイテク製品の対米輸出が好調となる中、今年の経済成長予測を引き上げた。 bit.ly/48VpUxm <a href="https://bsky.app/profile/japan.reuters.com/post/3mab3zfemjk2v" target="_blank">japan.reuters.com</a> (2025-12-18 20:45:18)</span><span style="padding-right:50px;">Saudi Arabia's STC in joint venture with Humain to advance data centre buildout reut.rs/4jdZ3Bp <a href="https://bsky.app/profile/reuters.com/post/3mab3zaciqb2p" target="_blank">reuters.com</a> (2025-12-18 20:45:12)</span><span style="padding-right:50px;">防衛財源確保への所得税増税 再来年1月開始で自民維新両党一致 https://news.web.nhk/newsweb/na/na-k10015007781000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mab3yyzpiv2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 20:45:03)</span><span style="padding-right:50px;">The U.S. said it had approved $11.1 billion in arms-sales packages for Taiwan, a show of support from Washington as President Trump focuses on trade deals and displays a softer U.S. stance toward China. <a href="https://bsky.app/profile/wsj.com/post/3mab3vivpsd2c" target="_blank">wsj.com</a> (2025-12-18 20:43:07)</span><span style="padding-right:50px;">Visa says new AI shopping tool has helped customers with hundreds of transactions <a href="https://bsky.app/profile/cnbc.com/post/3mab3vevdfj2e" target="_blank">cnbc.com</a> (2025-12-18 20:43:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.85 (🔺0.26 : 2025-12-18)</span>
+<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.76 (🔺0.16 : 2025-12-18)</span>
   </div>
 </div>
 
@@ -34,94 +34,95 @@
 
 Here are six important stories with headlines in English:
 
-1. Japan's Unification Ministry Faces Backlash Over Surname Use Proposal
-2. Smartphone Use Linked to Decline in Reading and Math Scores Among Young People
-3. Oil and Gas Output in US Declines in 4th Quarter Amid Low Oil Prices and Geopolitical Uncertainty
-4. Pope Leo Appoints New Archbishop of New York, Signaling Shift in Church's Approach to Immigration
-5. US Justice Department Blames Government for Deadly Plane Crash Near Washington
-6. Japan's Top Banker Warns of High Likelihood of Interest Rate Hike in Coming Months
+1. Taiwan Keeps Policy Rate Unchanged Amid Strong Economy
+2. Saudi Arabia's STC Partners with Humain on Data Centre Joint Venture
+3. Japan's Central Bank Leaves Interest Rate Unchanged as Economy Grows
+4. US Approves $11.1 Billion in Arms Sales to Taiwan Amid China Tensions
+5. Campari Sells Averna and Zedda Piras in 100 Million Euro Deal
+6. Norway Central Bank Keeps Interest Rate Unchanged Amid Economic Uncertainty
 
 ----
 
-@nhknewsunofficial.bsky.social
-
-“旧姓使用に法的効力”答申案 連合会長「修正なければ反対」
-https://news.web.nhk/newsweb/na/na-k10015007761000
-
-[2025-12-18 20:27:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mab2yt5zfg2b)
-
----
-
-@npr.org
-
-Researchers are examining whether a decline in reading and math scores over the last decade is related to the widespread use of smartphones by young people. n.pr/4ank2iN
-
-[2025-12-18 20:25:57](https://bsky.app/profile/npr.org/post/3mab2wsml4v2p)
-
----
-
 @japan.reuters.com
 
-米ダラス地区連銀が１７日に発表した調査によると、テキサス、ルイジアナ、ニューメキシコの主要産油３州における石油・ガス関連活動は第４・四半期にわずかに減少した。原油価格の低迷により一部油井の採算性が悪化していることや、地政学的な不確実性が続くことへの懸念が背景にある。 bit.ly/4q83uji
+台湾中央銀行は１８日、市場の予想通り、政策金利を２．０％に据え置くことを決定した。また、ハイテク製品の対米輸出が好調となる中、今年の経済成長予測を引き上げた。 bit.ly/48VpUxm
 
-[2025-12-18 20:25:16](https://bsky.app/profile/japan.reuters.com/post/3mab2vlthoq2n)
+[2025-12-18 20:45:18](https://bsky.app/profile/japan.reuters.com/post/3mab3zfemjk2v)
 
 ---
 
 @reuters.com
 
-Micron surges on upbeat profit forecast as chip prices soar reut.rs/48YMGnX
+Saudi Arabia's STC in joint venture with Humain to advance data centre buildout reut.rs/4jdZ3Bp
 
-[2025-12-18 20:25:14](https://bsky.app/profile/reuters.com/post/3mab2vjngwv2s)
+[2025-12-18 20:45:12](https://bsky.app/profile/reuters.com/post/3mab3zaciqb2p)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+防衛財源確保への所得税増税 再来年1月開始で自民維新両党一致
+https://news.web.nhk/newsweb/na/na-k10015007781000
+
+[2025-12-18 20:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mab3yyzpiv2b)
 
 ---
 
 @wsj.com
 
-President Trump’s tariffs have redirected the firehose of cheap Chinese exports to Europe.
+The U.S. said it had approved $11.1 billion in arms-sales packages for Taiwan, a show of support from Washington as President Trump focuses on trade deals and displays a softer U.S. stance toward China.
 
-[2025-12-18 20:23:16](https://bsky.app/profile/wsj.com/post/3mab2rz6tze2h)
+[2025-12-18 20:43:07](https://bsky.app/profile/wsj.com/post/3mab3vivpsd2c)
+
+---
+
+@cnbc.com
+
+Visa says new AI shopping tool has helped customers with hundreds of transactions
+
+[2025-12-18 20:43:03](https://bsky.app/profile/cnbc.com/post/3mab3vevdfj2e)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+日本自動車工業会会長にトヨタの佐藤恒治社長が就任へ
+https://news.web.nhk/newsweb/na/na-k10015007791000
+
+[2025-12-18 20:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mab3tmyleg2b)
+
+---
+
+@reuters.com
+
+Campari sells Averna and Zedda Piras in 100 million euro deal reut.rs/4pVgcSM
+
+[2025-12-18 20:40:41](https://bsky.app/profile/reuters.com/post/3mab3r5lg762x)
 
 ---
 
 @japan.reuters.com
 
-ドイツ政府は来年、投資資金を調達するため、過去最大となる約５１２０億ユーロ（約６０００億ドル）の連邦証券を金融市場で発行する。 bit.ly/48HCTny
+ノルウェー中央銀行は１８日、幅広く予想されていた通り政策金利を４．０％に据え置いた。また、２０２６年にさらなる金融緩和が行われる可能性が高いとの見方を改めて示した。 bit.ly/4q846W8
 
-[2025-12-18 20:23:07](https://bsky.app/profile/japan.reuters.com/post/3mab2rqmdyq2n)
-
----
-
-@cnn.com
-
-Pope Leo appoints new pro-migrant archbishop of New York, signaling the Church's more robust approach to Trump.
-https://cnn.it/3Lad8mN
-
-[2025-12-18 20:22:55](https://bsky.app/profile/cnn.com/post/3mab2resjqy23)
+[2025-12-18 20:40:28](https://bsky.app/profile/japan.reuters.com/post/3mab3qr4f7c27)
 
 ---
 
-@japan.reuters.com
+@reuters.com
 
-米司法省は１７日夜、１月２９日に首都ワシントン近郊のレーガン・ナショナル空港付近で発生したアメリカン航空のリージョナルジェット旅客機が米軍のヘリコプターと空中衝突して６７人が死亡した事故について、連邦政府に責任があると発表した。 bit.ly/3L6rHYA
+AI stocks are taking another beating as Oracle and Nvidia lead a bruising tech selloff into year-end. Meanwhile, US inflation is set to show prices still running hot, and Europe’s central banks deliver their final policy calls of 2025. More on the Morning Bid podcast reut.rs/3Y1KMxX
 
-[2025-12-18 20:20:27](https://bsky.app/profile/japan.reuters.com/post/3mab2mxqgiu2v)
-
----
-
-@nbcnews.com
-
-A former manager of the Harvard Medical School morgue in Boston is sentenced to eight years in prison for stealing and selling body parts "as if they were baubles."
-
-[2025-12-18 20:20:12](https://bsky.app/profile/nbcnews.com/post/3mab2mj3hji23)
+[2025-12-18 20:39:22](https://bsky.app/profile/reuters.com/post/3mab3oslv7k2b)
 
 ---
 
-@japan.reuters.com
+@nhknewsunofficial.bsky.social
 
-全国銀行協会の半沢淳一会長（三菱ＵＦＪ銀行頭取）は１８日の記者会見で、日銀が１８─１９日に開く金融政策決定会合で利上げを決める可能性は高いとの見方を示した。 bit.ly/4pJW9Xv
+マイナ保険証の代わり「資格確認書」交付の仕組み見直しへ
+https://news.web.nhk/newsweb/na/na-k10015007771000
 
-[2025-12-18 20:15:25](https://bsky.app/profile/japan.reuters.com/post/3mab2dxmnrr2c)
+[2025-12-18 20:39:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mab3obuvns2y)
 
 ---
 
