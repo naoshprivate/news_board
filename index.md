@@ -1,9 +1,9 @@
-# [2025-12-19 03:30 updated](2025_12_19.md)
+# [2025-12-19 03:50 updated](2025_12_19.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">A hotel by Kennedy Airport has been transformed into affordable housing in the first hotel-to-housing conversion of its kind in New York City. Here’s a look inside. trib.al/pmaQpaR <a href="https://bsky.app/profile/nytimes.com/post/3mabsi7wkm22j" target="_blank">nytimes.com</a> (2025-12-19 03:27:18)</span><span style="padding-right:50px;">Kennedy Center to be renamed 'Trump-Kennedy Center,' White House says <a href="https://bsky.app/profile/cnbc.com/post/3mabsi257h52m" target="_blank">cnbc.com</a> (2025-12-19 03:27:12)</span><span style="padding-right:50px;">Venezuela authorizes two unsanctioned loaded oil supertankers to depart, sources say reut.rs/49hA5xv <a href="https://bsky.app/profile/reuters.com/post/3mabseote4h2s" target="_blank">reuters.com</a> (2025-12-19 03:25:19)</span><span style="padding-right:50px;">Inflation in November fell to 2.7%, the Bureau of Labor Statistics says, a positive sign for consumers on its face. <a href="https://bsky.app/profile/nbcnews.com/post/3mabs43wgi32k" target="_blank">nbcnews.com</a> (2025-12-19 03:20:31)</span><span style="padding-right:50px;">Mortgage rates hold steady, shrugging off weak jobs data and Fed rate cut <a href="https://bsky.app/profile/yahoofinance.com/post/3mabrwopcid2j" target="_blank">yahoofinance.com</a> (2025-12-19 03:17:29)</span>
+<span style="padding-right:50px;">Kennedy Center board votes to rename the longtime performing arts venue the "Trump Kennedy Center" https://cnn.it/48LMoSP <a href="https://bsky.app/profile/cnn.com/post/3mabtlq33yh23" target="_blank">cnn.com</a> (2025-12-19 03:47:09)</span><span style="padding-right:50px;">At a Coldplay concert in July, Kristin Cabot appeared on the Jumbotron in the arms of her boss. Cabot retreated, trying to make things right with the people who mattered most. Now, for first time since that viral moment, Cabot is sharing her side of the story. <a href="https://bsky.app/profile/nytimes.com/post/3mabtjdewlc25" target="_blank">nytimes.com</a> (2025-12-19 03:45:49)</span><span style="padding-right:50px;">Canada's financial regulator maintains biggest banks' domestic stability buffer, says they are resilient reut.rs/4aimEyu <a href="https://bsky.app/profile/reuters.com/post/3mabtimxv7z2k" target="_blank">reuters.com</a> (2025-12-19 03:45:25)</span><span style="padding-right:50px;">From @theathletic.com: Former Michigan football coach Sherrone Moore had a “long history of domestic violence” against a female football staffer during their relationship, the woman’s lawyer alleged to police. <a href="https://bsky.app/profile/nytimes.com/post/3mabtckjqoc2v" target="_blank">nytimes.com</a> (2025-12-19 03:42:01)</span><span style="padding-right:50px;">US regulator loosens some compliance burdens for Citigroup ft.trib.al/w3Nzze1 <a href="https://bsky.app/profile/financialtimes.com/post/3mabtarbsx62k" target="_blank">financialtimes.com</a> (2025-12-19 03:41:01)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 48120.98 (🔺19.80 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23101.22 (🔺89.16 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.97 (🔺0.44 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.65 (🔺0.06 : 2025-12-18)</span>
+<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 48060.32 (🔻40.86 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23084.59 (🔺72.53 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.93 (🔺0.40 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.68 (🔺0.08 : 2025-12-18)</span>
   </div>
 </div>
 
@@ -34,92 +34,92 @@
 
 Here are six important stories with headlines in English:
 
-1. Hotel by JFK Airport Converted into Affordable Housing in Historic NYC Project
-2. Trump-Kennedy Center Name Change Announced by White House
-3. Venezuela Authorizes Loaded Oil Supertankers to Depart Amid Sanctions
-4. US Inflation Rate Drops to 2.7% in November, a Positive Sign for Consumers
-5. Palo Alto Considers Legislation to Restrict Wealthy Tech Moguls' Property Ownership
-6. US Sanctions More ICC Judges Over Ruling on Israeli War Crime Probe
+1. Trump-Kennedy Center Renaming Sparks Controversy
+2. Former Football Coach Accused of Domestic Violence
+3. US Regulator Eases Compliance Burden for Citigroup
+4. Lovable valued at $6.6 Billion in Latest Funding Round
+5. Trump Administration Accused of Expanding Federal Surveillance
+6. Venezuela Authorizes Unsanctioned Oil Supertankers to Depart
 
 ----
 
-@nytimes.com
+@cnn.com
 
-A hotel by Kennedy Airport has been transformed into affordable housing in the first hotel-to-housing conversion of its kind in New York City. Here’s a look inside. trib.al/pmaQpaR
+Kennedy Center board votes to rename the longtime performing arts venue the "Trump Kennedy Center" https://cnn.it/48LMoSP
 
-[2025-12-19 03:27:18](https://bsky.app/profile/nytimes.com/post/3mabsi7wkm22j)
+[2025-12-19 03:47:09](https://bsky.app/profile/cnn.com/post/3mabtlq33yh23)
 
 ---
 
-@cnbc.com
+@nytimes.com
 
-Kennedy Center to be renamed 'Trump-Kennedy Center,' White House says
+At a Coldplay concert in July, Kristin Cabot appeared on the Jumbotron in the arms of her boss. Cabot retreated, trying to make things right with the people who mattered most. Now, for first time since that viral moment, Cabot is sharing her side of the story.
 
-[2025-12-19 03:27:12](https://bsky.app/profile/cnbc.com/post/3mabsi257h52m)
+[2025-12-19 03:45:49](https://bsky.app/profile/nytimes.com/post/3mabtjdewlc25)
 
 ---
 
 @reuters.com
 
-Venezuela authorizes two unsanctioned loaded oil supertankers to depart, sources say reut.rs/49hA5xv
+Canada's financial regulator maintains biggest banks' domestic stability buffer, says they are resilient reut.rs/4aimEyu
 
-[2025-12-19 03:25:19](https://bsky.app/profile/reuters.com/post/3mabseote4h2s)
+[2025-12-19 03:45:25](https://bsky.app/profile/reuters.com/post/3mabtimxv7z2k)
+
+---
+
+@nytimes.com
+
+From @theathletic.com: Former Michigan football coach Sherrone Moore had a “long history of domestic violence” against a female football staffer during their relationship, the woman’s lawyer alleged to police.
+
+[2025-12-19 03:42:01](https://bsky.app/profile/nytimes.com/post/3mabtckjqoc2v)
+
+---
+
+@financialtimes.com
+
+US regulator loosens some compliance burdens for Citigroup ft.trib.al/w3Nzze1
+
+[2025-12-19 03:41:01](https://bsky.app/profile/financialtimes.com/post/3mabtarbsx62k)
+
+---
+
+@npr.org
+
+GOP Rep. Brian Fitzpatrick of Pennsylvania and Democrat Tom Suozzi discuss their bipartisan push to extend Affordable Care Act subsidies. n.pr/4p5Rr57
+
+[2025-12-19 03:40:37](https://bsky.app/profile/npr.org/post/3mabt7zwd6c2p)
+
+---
+
+@reuters.com
+
+Lovable valued at $6.6 billion in latest funding round as AI coding demand surges reut.rs/4q9ojuW
+
+[2025-12-19 03:40:22](https://bsky.app/profile/reuters.com/post/3mabt7mdgww2b)
 
 ---
 
 @nbcnews.com
 
-Inflation in November fell to 2.7%, the Bureau of Labor Statistics says, a positive sign for consumers on its face.
+The Democratic National Committee won't release its completed postmortem of the 2024 election, a DNC official confirms.
 
-[2025-12-19 03:20:31](https://bsky.app/profile/nbcnews.com/post/3mabs43wgi32k)
-
----
-
-@yahoofinance.com
-
-Mortgage rates hold steady, shrugging off weak jobs data and Fed rate cut
-
-[2025-12-19 03:17:29](https://bsky.app/profile/yahoofinance.com/post/3mabrwopcid2j)
+[2025-12-19 03:40:13](https://bsky.app/profile/nbcnews.com/post/3mabt7cz5kh26)
 
 ---
 
-@axios.com
+@financialtimes.com
 
-NEW: Democrats release new Epstein images with Lolita references and high-profile names
+Lobbyists have occasionally been hired to seek pardons under previous US administrations. But the efforts were less widespread than during Trump’s second term, where seeking pardon has become 'a rational thing' for convicted criminals and those fighting those charges. ft.trib.al/0jG7CKk
 
-[2025-12-19 03:16:21](https://bsky.app/profile/axios.com/post/3mabrunej222s)
-
----
-
-@reuters.com
-
-ECB keeps rates steady, nudges up growth forecast reut.rs/492dYKa
-
-[2025-12-19 03:15:21](https://bsky.app/profile/reuters.com/post/3mabrsuknal2b)
+[2025-12-19 03:40:09](https://bsky.app/profile/financialtimes.com/post/3mabt77hcwn2o)
 
 ---
 
 @nytimes.com
 
-Palo Alto, California, has changed drastically as Mark Zuckerberg, Larry Page and other tech founders have scooped up multiple properties. Greer Stone, a councilman, plans to introduce legislation that would restrict the way the town’s wealthiest homeowners can operate.
+While Rob Reiner’s 1994 film “North” was the first major misstep in his directorial career, it also revealed his sense of humor about criticism of his own work.
 
-[2025-12-19 03:15:05](https://bsky.app/profile/nytimes.com/post/3mabrseziw32y)
-
----
-
-@cnbc.com
-
-Trump promises 'largest tax refund season of all time.' What you can expect
-
-[2025-12-19 03:14:46](https://bsky.app/profile/cnbc.com/post/3mabrrsttx32i)
-
----
-
-@apnews.com
-
-A sheriff said there were deaths Thursday in the crash of a business jet that was trying to land at a regional airport in Statesville, North Carolina.
-
-[2025-12-19 03:11:09](https://bsky.app/profile/apnews.com/post/3mabrleaxv52r)
+[2025-12-19 03:40:04](https://bsky.app/profile/nytimes.com/post/3mabt72vvzo2x)
 
 ---
 
