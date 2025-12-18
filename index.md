@@ -1,9 +1,9 @@
-# [2025-12-19 02:30 updated](2025_12_19.md)
+# [2025-12-19 02:50 updated](2025_12_19.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Darden lifts annual sales forecast as diners seek affordable options reut.rs/4qiRCv7 <a href="https://bsky.app/profile/reuters.com/post/3mabozehbpc2r" target="_blank">reuters.com</a> (2025-12-19 02:25:18)</span><span style="padding-right:50px;">The Democratic National Committee has decided not to publish its report of what went wrong in the 2024 election. Ken Martin, the DNC chairman, ordered the report months ago but is now said to believe that its release would be counterproductive. <a href="https://bsky.app/profile/nytimes.com/post/3maboywyg7r2y" target="_blank">nytimes.com</a> (2025-12-19 02:25:04)</span><span style="padding-right:50px;">It’s not immediately clear how many people were on board. <a href="https://bsky.app/profile/forbes.com/post/3maboywh2w22l" target="_blank">forbes.com</a> (2025-12-19 02:25:03)</span><span style="padding-right:50px;">World Cup fans are getting a crash course in the expensive realities of the American ticket-buying experience. They’re right to be outraged, says columnist Jason Gay. <a href="https://bsky.app/profile/wsj.com/post/3maboyuabmi2s" target="_blank">wsj.com</a> (2025-12-19 02:25:01)</span><span style="padding-right:50px;">Micron stock soars on earnings beat amid 'unprecedented' AI-fueled demand for memory chips <a href="https://bsky.app/profile/yahoofinance.com/post/3mabosai5fl2j" target="_blank">yahoofinance.com</a> (2025-12-19 02:21:19)</span>
+<span style="padding-right:50px;">JPMorgan's top stock ideas for 2026 <a href="https://bsky.app/profile/cnbc.com/post/3mabq7vjjyz23" target="_blank">cnbc.com</a> (2025-12-19 02:46:51)</span><span style="padding-right:50px;">Austria's RBI says Russian unit will book nearly $400 mln provisions in Rasperia lawsuit reut.rs/4j3Sgu7 <a href="https://bsky.app/profile/reuters.com/post/3mabq5ezolw2y" target="_blank">reuters.com</a> (2025-12-19 02:45:26)</span><span style="padding-right:50px;">ユーロ圏金融・債券市場では、ドイツ国債利回りが上昇した。欧州中央銀行（ＥＣＢ）は１８日に開いた理事会で、政策金利を市場の予想通り据え置いた。 bit.ly/4jaw8OO <a href="https://bsky.app/profile/japan.reuters.com/post/3mabq5aay2u2v" target="_blank">japan.reuters.com</a> (2025-12-19 02:45:21)</span><span style="padding-right:50px;">Friday could be a wild day of trading on Wall Street. Here's why <a href="https://bsky.app/profile/cnbc.com/post/3mabq54i4e32g" target="_blank">cnbc.com</a> (2025-12-19 02:45:17)</span><span style="padding-right:50px;">The photos come before the Friday deadline for the Trump administration to release its full Epstein files. <a href="https://bsky.app/profile/forbes.com/post/3mabq4obomd2g" target="_blank">forbes.com</a> (2025-12-19 02:45:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47920.85 (🔻180.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 22990.61 (🔻21.46 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.08 (🔻0.45 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.62 (🔺0.02 : 2025-12-18)</span>
+<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 48031.80 (🔻69.38 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23065.15 (🔺53.09 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.74 (🔺0.21 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.65 (🔺0.05 : 2025-12-18)</span>
   </div>
 </div>
 
@@ -32,94 +32,94 @@
 
 ## News Headlines
 
-Here are six important stories with headlines:
+Here are six important stories with headlines in English:
 
-1. Darden Boosts Sales Forecast as Diners Seek Affordable Options
-2. Trump Administration Proposes Restrictions on Gender Transition Care for Minors
-3. North Korea's Crypto Hacking Operation Smashes Record, Stealing $2.02 Billion
-4. Accenture Beats Quarterly Revenue Estimates on Strong Demand for AI Services
-5. Ukraine Seals Restructuring of Controversial Growth-Linked Debt
-6. France Deploys Army to Vaccinate Cattle Amid Farmer Protests
+1. Trump Administration Proposes Curbs on Gender Transition Care for Young People
+2. Nasdaq Expects Record Listings of Billion-Dollar IPOs in 2026
+3. France Deploys Army to Vaccinate Cattle Amid Farmer Protests
+4. North Korea's Cryptocurrency Hacking Operation Breaks Own Record
+5. Volkswagen to Press Ahead with Cost-Cutting Measures in Germany
+6. Darden Raises Annual Sales Forecast Amid Rise of Affordable Dining Options
 
 ----
 
-@reuters.com
+@cnbc.com
 
-Darden lifts annual sales forecast as diners seek affordable options reut.rs/4qiRCv7
+JPMorgan's top stock ideas for 2026
 
-[2025-12-19 02:25:18](https://bsky.app/profile/reuters.com/post/3mabozehbpc2r)
+[2025-12-19 02:46:51](https://bsky.app/profile/cnbc.com/post/3mabq7vjjyz23)
 
 ---
 
-@nytimes.com
+@reuters.com
 
-The Democratic National Committee has decided not to publish its report of what went wrong in the 2024 election. Ken Martin, the DNC chairman, ordered the report months ago but is now said to believe that its release would be counterproductive.
+Austria's RBI says Russian unit will book nearly $400 mln provisions in Rasperia lawsuit reut.rs/4j3Sgu7
 
-[2025-12-19 02:25:04](https://bsky.app/profile/nytimes.com/post/3maboywyg7r2y)
+[2025-12-19 02:45:26](https://bsky.app/profile/reuters.com/post/3mabq5ezolw2y)
+
+---
+
+@japan.reuters.com
+
+ユーロ圏金融・債券市場では、ドイツ国債利回りが上昇した。欧州中央銀行（ＥＣＢ）は１８日に開いた理事会で、政策金利を市場の予想通り据え置いた。 bit.ly/4jaw8OO
+
+[2025-12-19 02:45:21](https://bsky.app/profile/japan.reuters.com/post/3mabq5aay2u2v)
+
+---
+
+@cnbc.com
+
+Friday could be a wild day of trading on Wall Street. Here's why
+
+[2025-12-19 02:45:17](https://bsky.app/profile/cnbc.com/post/3mabq54i4e32g)
 
 ---
 
 @forbes.com
 
-It’s not immediately clear how many people were on board.
+The photos come before the Friday deadline for the Trump administration to release its full Epstein files.
 
-[2025-12-19 02:25:03](https://bsky.app/profile/forbes.com/post/3maboywh2w22l)
-
----
-
-@wsj.com
-
-World Cup fans are getting a crash course in the expensive realities of the American ticket-buying experience. They’re right to be outraged, says columnist Jason Gay.
-
-[2025-12-19 02:25:01](https://bsky.app/profile/wsj.com/post/3maboyuabmi2s)
+[2025-12-19 02:45:02](https://bsky.app/profile/forbes.com/post/3mabq4obomd2g)
 
 ---
 
-@yahoofinance.com
+@reuters.com
 
-Micron stock soars on earnings beat amid 'unprecedented' AI-fueled demand for memory chips
+Acer, Asus and Hisense win UK court ruling in video streaming patent dispute with Nokia reut.rs/4pdnH6M
 
-[2025-12-19 02:21:19](https://bsky.app/profile/yahoofinance.com/post/3mabosai5fl2j)
+[2025-12-19 02:40:26](https://bsky.app/profile/reuters.com/post/3mabpugwp3c23)
 
 ---
 
 @nbcnews.com
 
-For the second year in a row, North Korea’s vast cryptocurrency hacking operation has broken its own record, stealing $2.02 billion in 2025, new research says.
+Lawmakers around the country, moved by harrowing stories of pregnancies in jail, are calling for new measures that make sure women and babies get the medical help they need.
 
-[2025-12-19 02:20:22](https://bsky.app/profile/nbcnews.com/post/3maboqkgv6e2r)
-
----
-
-@forbes.com
-
-The fight will stream live on Netflix and comes more than a year after the streaming platform shattered viewership records airing a fight between Paul and Mike Tyson.
-
-[2025-12-19 02:20:08](https://bsky.app/profile/forbes.com/post/3maboq5chsf2g)
+[2025-12-19 02:40:13](https://bsky.app/profile/nbcnews.com/post/3mabpu25wev23)
 
 ---
 
 @nytimes.com
 
-Dmitri Kozak had worked with President Vladimir Putin of Russia for three decades before resigning in September. Associates described their breakdown in relations, and a rare moment of dissent in 2022 when he pushed back against the Ukraine war.
+The director Rob Reiner delivered an incredible number of widely acclaimed movies, from “When Harry Met Sally” to “Stand By Me” and “Misery.” On “Cannonball,” Wesley Morris reflects on the impact Reiner had on his life and why his films are so beloved. nyti.ms/3MJFrZR
 
-[2025-12-19 02:20:03](https://bsky.app/profile/nytimes.com/post/3mabopy4j4y26)
-
----
-
-@npr.org
-
-The three octogenarian nuns broke out of a nursing home to go back to live in their convent, sparking a dispute with their church superior. Both sides have appealed to the Vatican for a resolution. n.pr/3YyJVF5
-
-[2025-12-19 02:16:07](https://bsky.app/profile/npr.org/post/3maboiwu24f2e)
+[2025-12-19 02:39:02](https://bsky.app/profile/nytimes.com/post/3mabprwrdvg2x)
 
 ---
 
 @financialtimes.com
 
-Ukraine seals restructuring of controversial growth-linked debt ft.trib.al/viG7uq1
+Bill Gates and Sergey Brin among newly released Epstein photos ft.trib.al/SdFHK35
 
-[2025-12-19 02:16:04](https://bsky.app/profile/financialtimes.com/post/3maboitvu6c2y)
+[2025-12-19 02:38:01](https://bsky.app/profile/financialtimes.com/post/3mabpq4qfcs2q)
+
+---
+
+@en.afp.com
+
+Dressed in an orange puffer jacket, Japanese scientist Yoshinori Iizuka stepped into a storage freezer to retrieve an ice core he hopes will help experts protect the world's disappearing glaciers. u.afp.com/S8oH
+
+[2025-12-19 02:37:56](https://bsky.app/profile/en.afp.com/post/3mabppyhld22d)
 
 ---
 
