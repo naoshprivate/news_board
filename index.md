@@ -1,9 +1,9 @@
-# [2025-12-18 17:50 updated](2025_12_18.md)
+# [2025-12-18 18:10 updated](2025_12_18.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Incoming BP chief charted expansive legacy at Australia's Woodside reut.rs/4j1goxv <a href="https://bsky.app/profile/reuters.com/post/3maarxgkayx2r" target="_blank">reuters.com</a> (2025-12-18 17:45:14)</span><span style="padding-right:50px;">2028年 ロス五輪 男子サッカーのアジア枠「3.5」から「2」に減 https://news.web.nhk/newsweb/na/na-k10015007531000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maarx5jn2j2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 17:45:03)</span><span style="padding-right:50px;">香港で強盗事件 被害の外貨両替店 “約10億円の現金奪われた” https://news.web.nhk/newsweb/na/na-k10015007551000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maarrsfise2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 17:42:03)</span><span style="padding-right:50px;">ドイツ連邦議会の予算委員会は１７日、今後数年間で５００億ユーロ（約５８６億ドル）を超える防衛契約を承認した。ドイツはロシアのウクライナ侵攻で軍事支出の拡大を迫られている。 bit.ly/4pDqFlO <a href="https://bsky.app/profile/japan.reuters.com/post/3maarokxhnk22" target="_blank">japan.reuters.com</a> (2025-12-18 17:40:17)</span><span style="padding-right:50px;">Uganda October export earnings nearly double on coffee, gold receipts reut.rs/4qf91ok <a href="https://bsky.app/profile/reuters.com/post/3maaroj3f7j2k" target="_blank">reuters.com</a> (2025-12-18 17:40:15)</span>
+<span style="padding-right:50px;">東京女子医大病院 手術後の2歳児死亡 医師2人に禁錮刑を求刑 https://news.web.nhk/newsweb/na/na-k10015007591000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maatc26br226" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 18:09:02)</span><span style="padding-right:50px;">A former manager of the Harvard Medical School morgue in Boston was sentenced to eight years in prison for stealing and selling body parts “as if they were baubles.”  <a href="https://bsky.app/profile/cnn.com/post/3maatbxk52o23" target="_blank">cnn.com</a> (2025-12-18 18:09:01)</span><span style="padding-right:50px;">🛎️ANNより【速報】です。  【速報】赤ちゃんの遺体を損壊し冷蔵庫に遺棄か 20代母親を逮捕へ 捜査関係者 (2025-12-18 17:51:55) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maat5fusey2b" target="_blank">sokuho.news</a> (2025-12-18 18:06:29)</span><span style="padding-right:50px;">東京 赤坂 サウナ店火事 夫の手に皮下出血 妻守り助け求めたか https://news.web.nhk/newsweb/na/na-k10015007601000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maat4oau2z2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 18:06:02)</span><span style="padding-right:50px;">米アルファベット傘下のグーグルは、自社の人工知能（ＡＩ）半導体を、世界で最も広く利用されている深層学習プラットフォーム「パイトーチ」上でより効率的に動作させるための新たな取り組みを進めている。ＡＩコンピューティング市場で長年エヌビディアが築いてきたソフトウエア環境を含めた支配的地位を弱める狙いがある。事情に詳しい複数の関係者が明らかにした。 bit.ly/48YFSqp <a href="https://bsky.app/profile/japan.reuters.com/post/3maat3fdqep2c" target="_blank">japan.reuters.com</a> (2025-12-18 18:05:21)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.83 (🔺0.23 : 2025-12-18)</span>
+<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.87 (🔺0.27 : 2025-12-18)</span>
   </div>
 </div>
 
@@ -32,95 +32,107 @@
 
 ## News Headlines
 
-1. Incoming BP chief charted expansive legacy at Australia's Woodside
-2. Russia-Ukraine war live: EU holds key summit to strengthen Kyiv's hand
-3. Germany approves 586 billion dollars in defense deals over next few years
-4. EU leaders vow to agree funding for Ukraine
-5. China creates AI and chip-making technology in heavily guarded lab
-6. US consumer prices likely posted largest annual increase in 1-1/2 years in November
+1. Former Harvard Medical School Morgue Manager Sentenced to 8 Years in Prison for Stealing and Selling Body Parts
+2. Japanese Doctors Face Prosecution for Negligence in 2-Year-Old's Death at Tokyo University Hospital
+3. Tokyo Sauna Shop Fire Leaves Husband with Severe Burns as He Tried to Save Wife
+4. Google Explores New Ways to Improve AI Chip Performance on Popular Deep Learning Platform
+5. Japanese Prime Minister Visits US, Calls for Urgent Action to Address Gaza Humanitarian Crisis
+6. World Trade Organization Reform Talks Stall Ahead of March Ministers' Meeting in Cameroon
 
 ----
 
-@reuters.com
+@nhknewsunofficial.bsky.social
 
-Incoming BP chief charted expansive legacy at Australia's Woodside reut.rs/4j1goxv
+東京女子医大病院 手術後の2歳児死亡 医師2人に禁錮刑を求刑
+https://news.web.nhk/newsweb/na/na-k10015007591000
 
-[2025-12-18 17:45:14](https://bsky.app/profile/reuters.com/post/3maarxgkayx2r)
+[2025-12-18 18:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maatc26br226)
+
+---
+
+@cnn.com
+
+A former manager of the Harvard Medical School morgue in Boston was sentenced to eight years in prison for stealing and selling body parts “as if they were baubles.” 
+
+[2025-12-18 18:09:01](https://bsky.app/profile/cnn.com/post/3maatbxk52o23)
+
+---
+
+@sokuho.news
+
+🛎️ANNより【速報】です。
+
+【速報】赤ちゃんの遺体を損壊し冷蔵庫に遺棄か 20代母親を逮捕へ 捜査関係者
+(2025-12-18 17:51:55) #ニュース
+
+[2025-12-18 18:06:29](https://bsky.app/profile/sokuho.news/post/3maat5fusey2b)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-2028年 ロス五輪 男子サッカーのアジア枠「3.5」から「2」に減
-https://news.web.nhk/newsweb/na/na-k10015007531000
+東京 赤坂 サウナ店火事 夫の手に皮下出血 妻守り助け求めたか
+https://news.web.nhk/newsweb/na/na-k10015007601000
 
-[2025-12-18 17:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maarx5jn2j2m)
-
----
-
-@nhknewsunofficial.bsky.social
-
-香港で強盗事件 被害の外貨両替店 “約10億円の現金奪われた”
-https://news.web.nhk/newsweb/na/na-k10015007551000
-
-[2025-12-18 17:42:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maarrsfise2s)
+[2025-12-18 18:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maat4oau2z2u)
 
 ---
 
 @japan.reuters.com
 
-ドイツ連邦議会の予算委員会は１７日、今後数年間で５００億ユーロ（約５８６億ドル）を超える防衛契約を承認した。ドイツはロシアのウクライナ侵攻で軍事支出の拡大を迫られている。 bit.ly/4pDqFlO
+米アルファベット傘下のグーグルは、自社の人工知能（ＡＩ）半導体を、世界で最も広く利用されている深層学習プラットフォーム「パイトーチ」上でより効率的に動作させるための新たな取り組みを進めている。ＡＩコンピューティング市場で長年エヌビディアが築いてきたソフトウエア環境を含めた支配的地位を弱める狙いがある。事情に詳しい複数の関係者が明らかにした。 bit.ly/48YFSqp
 
-[2025-12-18 17:40:17](https://bsky.app/profile/japan.reuters.com/post/3maarokxhnk22)
+[2025-12-18 18:05:21](https://bsky.app/profile/japan.reuters.com/post/3maat3fdqep2c)
 
 ---
 
 @reuters.com
 
-Uganda October export earnings nearly double on coffee, gold receipts reut.rs/4qf91ok
+Lakers looking to ratchet up defense as they take on Jazz reut.rs/48N0F1C
 
-[2025-12-18 17:40:15](https://bsky.app/profile/reuters.com/post/3maaroj3f7j2k)
-
----
-
-@nhknewsunofficial.bsky.social
-
-JOC前会長 山下泰裕さんが講義に復帰 けい椎損傷で長期療養
-https://news.web.nhk/newsweb/na/na-k10015007481000
-
-[2025-12-18 17:39:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maarmg3jeh2d)
+[2025-12-18 18:05:13](https://bsky.app/profile/reuters.com/post/3maat35wc4h2y)
 
 ---
 
-@financialtimes.com
+@sokuho.news
 
-EU leaders vow to agree funding for Ukraine ft.trib.al/EcPrkCq
+🛎️JNNより【速報】です。
 
-[2025-12-18 17:36:05](https://bsky.app/profile/financialtimes.com/post/3maarh2go4p2b)
+【速報】麻酔科医の男2人に禁錮1年6か月など求刑 東京女子医大2歳児死亡 業務上過失致死の罪 医師2人は無罪主張
+(2025-12-18 18:02:21) #ニュース
+
+[2025-12-18 18:05:09](https://bsky.app/profile/sokuho.news/post/3maat2zmllh2b)
+
+---
+
+@cnbc.com
+
+The next rare earths crunch? Top mining CEO warns copper supply challenges aren't going anywhere
+
+[2025-12-18 18:02:11](https://bsky.app/profile/cnbc.com/post/3maasvqfsre2x)
 
 ---
 
 @japan.reuters.com
 
-厳重に警備され深センの研究所で、中国の科学者たちが米政府が長年阻止しようとしてきたものを作り上げた。人工知能（ＡＩ）やスマートフォン、西側の軍事的優位性の中核となる兵器に不可欠な最先端の半導体チップを製造できる機械の試作機だ。 bit.ly/3YFlPsh
+スウェーデン中央銀行は１８日、政策金利を１．７５％に据え置き、当面はこの水準を維持するとの見通しを示した。 bit.ly/4914BdR
 
-[2025-12-18 17:35:14](https://bsky.app/profile/japan.reuters.com/post/3maarfk6qf22p)
-
----
-
-@reuters.com
-
-Top 25 roundup: Braden Huff puts up 37 as No. 7 Zags crush Campbell reut.rs/4qb1O8J
-
-[2025-12-18 17:35:11](https://bsky.app/profile/reuters.com/post/3maarfhkxk42r)
+[2025-12-18 18:02:10](https://bsky.app/profile/japan.reuters.com/post/3maasvor7df2f)
 
 ---
 
-@wsj.com
+@nikkei.com
 
-Here are four compulsively crunchable recipes to fuel your holiday revels. And for a pairing both festive and fuss-free, how about a shot? 🔗 on.wsj.com/48JU9Zp
+世界の議員定数どう変化？　G7の3カ国で増加、イタリアは3割減
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-18 17:32:36](https://bsky.app/profile/wsj.com/post/3maaratjgid2i)
+自民党と日本維新の会は衆院議員の定数削減法案について今国会での成立を断念。世界の流れはどうなっているのでしょうか。
+
+定数を大きく減らしたのがイタリアです。2020年9月に定数を減らす憲法改正の国民投票で賛成が7割に達しました。
+
+しかし東京大学の伊藤武教授（イタリア政治）は、歳出削減効果は「見込んだほどではなく、予算全体で見れば無視できるレベルの削減額だろう」と分析します。
+
+[2025-12-18 18:01:15](https://bsky.app/profile/nikkei.com/post/3maasu2lyp624)
 
 ---
 
