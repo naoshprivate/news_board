@@ -1,9 +1,9 @@
-# [2025-12-18 13:50 updated](2025_12_18.md)
+# [2025-12-18 14:10 updated](2025_12_18.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">【中継】熊本 九州道で複数台関係の事故 5人病院搬送 意識あり https://news.web.nhk/newsweb/na/na-k10015007311000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maaepcztpi2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 13:48:02)</span><span style="padding-right:50px;">The winning numbers for an estimated $1.25 billion Powerball jackpot — the game's sixth-largest prize ever — are 25, 33, 53, 62 and 66 with a Powerball of 17. <a href="https://bsky.app/profile/cbsnews.com/post/3maaejuzkas2z" target="_blank">cbsnews.com</a> (2025-12-18 13:45:01)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】「私は前を向いて夫の志を紡いでいきます。 被告には自分のした罪を正面から受け止め、きちんと罪を償うよう求めます」安倍元総理の妻・昭恵さんは法廷に出席せず 意見陳述は弁護士… (2025-12-18 13:30) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maaecf3qi52a" target="_blank">sokuho.news</a> (2025-12-18 13:40:49)</span><span style="padding-right:50px;">ベセント米財務長官は１７日、大型減税・歳出法に基づき今年創設された新生児向け投資口座制度「トランプ口座」について、著名投資家レイ・ダリオ氏がコネチカット州の特定の子どもの口座に資金を寄付すると明らかにした。 bit.ly/4oZ9RVi <a href="https://bsky.app/profile/japan.reuters.com/post/3maaebizt6l2q" target="_blank">japan.reuters.com</a> (2025-12-18 13:40:20)</span><span style="padding-right:50px;">Giants QB Jaxson Dart: Being treated like a RB 'nothing new' reut.rs/48YCuf9 <a href="https://bsky.app/profile/reuters.com/post/3maaebg5bpm2y" target="_blank">reuters.com</a> (2025-12-18 13:40:17)</span>
+<span style="padding-right:50px;">自民 小林政調会長「OTC類似薬」“維新と合意目指し調整行う” https://news.web.nhk/newsweb/na/na-k10015007301000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maafuuppdl2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 14:09:02)</span><span style="padding-right:50px;">オーストラリアのアルバニージー首相は１８日、シドニー近郊のボンダイビーチで１４日にユダヤ教の祭りを祝うイベントで銃撃事件が起きたことを受け、ヘイトスピーチ（憎悪表現）対策を強化すると表明した。 bit.ly/3Y1sFIt <a href="https://bsky.app/profile/japan.reuters.com/post/3maaftwmdum2q" target="_blank">japan.reuters.com</a> (2025-12-18 14:08:32)</span><span style="padding-right:50px;">安倍元首相銃撃事件裁判 昭恵さんの意見読み上げ まもなく求刑 https://news.web.nhk/newsweb/na/na-k10015007141000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maafpje2kb2l" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 14:06:02)</span><span style="padding-right:50px;">中国の広州先物取引所で最も活発に取引されている炭酸リチウムの先物価格が１７日、取引時間中に一時１トン＝１０万９８６０元（１万５５９２．２７ドル）と昨年６月以来、約１年半ぶりの高値を付けた。当局が採掘許可を取り消す見通しであることが分かり、供給逼迫懸念が台頭した。 bit.ly/49gs241 <a href="https://bsky.app/profile/japan.reuters.com/post/3maafobkkig2p" target="_blank">japan.reuters.com</a> (2025-12-18 14:05:22)</span><span style="padding-right:50px;">暗号資産（仮想通貨）交換業のコインベースは１７日、スポーツや政治、金融市場の動きなど現実世界の結果を予想する「イベントコントラクト」や株式の取引サービスの提供を開始すると発表した。祖業である仮想通貨取引から事業範囲を広げ、ロビンフッドやインタラクティブ・ブローカーズなどこの分野で先行するライバルと直接対決する様相が強まる。 bit.ly/4p2gndQ <a href="https://bsky.app/profile/japan.reuters.com/post/3maafnquukq2q" target="_blank">japan.reuters.com</a> (2025-12-18 14:05:05)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49015.16 (🔻43.15 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3356.00 (🔺6.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.75 (🔺0.15 : 2025-12-18)</span>
+<span style="padding-right:50px;">NIKKEI: 49087.05 (🔺28.74 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3361.00 (🔺11.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.74 (🔺0.14 : 2025-12-18)</span>
   </div>
 </div>
 
@@ -32,108 +32,97 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are six important news stories from the provided articles, rewritten as headlines in English:
 
-1. Multiple Car Crash on Kyushu Highway Leaves Five Injured
-2. Japanese Government Reaches Agreement on Free School Meals for Children
-3. Leaked Video of General Who Refused to Crush Pro-Democracy Protests in China
-4. Trump Administration Prepares New Sanctions on Russia Amid Ukraine Tensions
-5. US Consumer Giants Expand into China Amid Economic Slowdown
-6. Pulitzer Prize-Winning Journalist Peter Arnett Dies at 91
+1. Japan's LDP to Strengthen Efforts to Reach Agreement on OTC Similar Medicines
+2. Australian Prime Minister Vows to Strengthen Anti-Hate Speech Measures After Sydney Shooting
+3. Abe's Wife Submits Statement in Court on Behalf of Former Japanese Prime Minister in Assassination Trial
+4. Lithium Prices Soar to 15-Month High on Concerns Over Supply Shortages
+5. Coinbase Expands Services to Include Event-Driven Contracts and Stock Trading
+6. Japan's 2026 Budget for Okinawa Region Increased to ¥2.64 Trillion, Still Below Requested Amount
 
 ----
 
 @nhknewsunofficial.bsky.social
 
-【中継】熊本 九州道で複数台関係の事故 5人病院搬送 意識あり
-https://news.web.nhk/newsweb/na/na-k10015007311000
+自民 小林政調会長「OTC類似薬」“維新と合意目指し調整行う”
+https://news.web.nhk/newsweb/na/na-k10015007301000
 
-[2025-12-18 13:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maaepcztpi2v)
-
----
-
-@cbsnews.com
-
-The winning numbers for an estimated $1.25 billion Powerball jackpot — the game's sixth-largest prize ever — are 25, 33, 53, 62 and 66 with a Powerball of 17.
-
-[2025-12-18 13:45:01](https://bsky.app/profile/cbsnews.com/post/3maaejuzkas2z)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】「私は前を向いて夫の志を紡いでいきます。 被告には自分のした罪を正面から受け止め、きちんと罪を償うよう求めます」安倍元総理の妻・昭恵さんは法廷に出席せず 意見陳述は弁護士…
-(2025-12-18 13:30) #ニュース
-
-[2025-12-18 13:40:49](https://bsky.app/profile/sokuho.news/post/3maaecf3qi52a)
+[2025-12-18 14:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maafuuppdl2s)
 
 ---
 
 @japan.reuters.com
 
-ベセント米財務長官は１７日、大型減税・歳出法に基づき今年創設された新生児向け投資口座制度「トランプ口座」について、著名投資家レイ・ダリオ氏がコネチカット州の特定の子どもの口座に資金を寄付すると明らかにした。 bit.ly/4oZ9RVi
+オーストラリアのアルバニージー首相は１８日、シドニー近郊のボンダイビーチで１４日にユダヤ教の祭りを祝うイベントで銃撃事件が起きたことを受け、ヘイトスピーチ（憎悪表現）対策を強化すると表明した。 bit.ly/3Y1sFIt
 
-[2025-12-18 13:40:20](https://bsky.app/profile/japan.reuters.com/post/3maaebizt6l2q)
-
----
-
-@reuters.com
-
-Giants QB Jaxson Dart: Being treated like a RB 'nothing new' reut.rs/48YCuf9
-
-[2025-12-18 13:40:17](https://bsky.app/profile/reuters.com/post/3maaebg5bpm2y)
-
----
-
-@nytimes.com
-
-When China’s rulers ordered tens of thousands of soldiers to crush pro-democracy demonstrations in Beijing in 1989, Gen. Xu Qinxian was the commander who famously said no. Now, leaked video from his court-martial was posted online. nyti.ms/48Ho706
-
-[2025-12-18 13:40:03](https://bsky.app/profile/nytimes.com/post/3maaeaz54mk2e)
-
----
-
-@sokuho.news
-
-🔔ANNより【速報】です。
-
-【速報】「公立小学校の給食無償化」自・維・公の実務者が合意 児童1人5200円を支援
-(2025年12月18日 13:39) #ニュース
-
-[2025-12-18 13:39:46](https://bsky.app/profile/sokuho.news/post/3maaeaiuiwa2b)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】給食無償化は子ども1人あたり月5200円 自民・維新・公明3党の実務者が合意
-(2025-12-18 13:37:21) #ニュース
-
-[2025-12-18 13:39:44](https://bsky.app/profile/sokuho.news/post/3maaeagaq7q2b)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】安倍元首相銃撃事件 妻・昭恵さん「きちんと罪を償うよう求める」 弁護士が裁判で意見代読
-(2025-12-18 13:36) #ニュース
-
-[2025-12-18 13:36:36](https://bsky.app/profile/sokuho.news/post/3maae2suzeh27)
+[2025-12-18 14:08:32](https://bsky.app/profile/japan.reuters.com/post/3maaftwmdum2q)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-【中継】熊本 九州自動車道で複数台関係の事故
-https://news.web.nhk/newsweb/na/na-k10015007311000
+安倍元首相銃撃事件裁判 昭恵さんの意見読み上げ まもなく求刑
+https://news.web.nhk/newsweb/na/na-k10015007141000
 
-[2025-12-18 13:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maadzvdfn22m)
+[2025-12-18 14:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maafpje2kb2l)
+
+---
+
+@japan.reuters.com
+
+中国の広州先物取引所で最も活発に取引されている炭酸リチウムの先物価格が１７日、取引時間中に一時１トン＝１０万９８６０元（１万５５９２．２７ドル）と昨年６月以来、約１年半ぶりの高値を付けた。当局が採掘許可を取り消す見通しであることが分かり、供給逼迫懸念が台頭した。 bit.ly/49gs241
+
+[2025-12-18 14:05:22](https://bsky.app/profile/japan.reuters.com/post/3maafobkkig2p)
+
+---
+
+@japan.reuters.com
+
+暗号資産（仮想通貨）交換業のコインベースは１７日、スポーツや政治、金融市場の動きなど現実世界の結果を予想する「イベントコントラクト」や株式の取引サービスの提供を開始すると発表した。祖業である仮想通貨取引から事業範囲を広げ、ロビンフッドやインタラクティブ・ブローカーズなどこの分野で先行するライバルと直接対決する様相が強まる。 bit.ly/4p2gndQ
+
+[2025-12-18 14:05:05](https://bsky.app/profile/japan.reuters.com/post/3maafnquukq2q)
+
+---
+
+@japan.reuters.com
+
+米プロバスケットボール協会（ＮＢＡ）は１７日、各地で試合を行い、グリズリーズがティンバーウルブズを１１６─１１０で下し、２連勝とした。 bit.ly/4qfIirS
+
+[2025-12-18 14:03:56](https://bsky.app/profile/japan.reuters.com/post/3maaflp25dm2q)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+沖縄振興予算2647億円 10年ぶり増額も県求める額5年連続下回る
+https://news.web.nhk/newsweb/na/na-k10015007281000
+
+[2025-12-18 14:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maafk6qfpr2w)
+
+---
+
+@japan.reuters.com
+
+上海外国為替市場の人民元相場は対ドルで狭いレンジ内で小幅に上昇。米インフレ指標の発表を控える中、１年２カ月ぶりの高値近辺で推移している。投資家は引き続き慎重な姿勢で、トランプ大統領による次期連邦準備理事会（ＦＲＢ）議長の指名を待っている。 bit.ly/3YAMGWs
+
+[2025-12-18 14:02:45](https://bsky.app/profile/japan.reuters.com/post/3maafjloezh2s)
+
+---
+
+@japan.reuters.com
+
+フィンランドのオルポ首相は１７日、連立与党議員が「つり目」写真を交流サイト（ＳＮＳ）に投稿し、アジア人に対する差別だと非難された問題を巡り「心からおわび申し上げます」と謝罪した。 bit.ly/4amAwI7
+
+[2025-12-18 14:01:24](https://bsky.app/profile/japan.reuters.com/post/3maafh6hedu25)
+
+---
+
+@japan.reuters.com
+
+米半導体大手マイクロン・テクノロジーが１７日発表した第２・四半期（２０２５年１２月－２６年２月）の調整後１株利益見通しは「８．４２ドルを中心に上下０．２０ドル」で、ＬＳＥＧがまとめたアナリスト予想の４．７８ドルを大幅に上回った。 bit.ly/48Yv5fT
+
+[2025-12-18 14:01:07](https://bsky.app/profile/japan.reuters.com/post/3maafgofp7d27)
 
 ---
 
