@@ -1,9 +1,9 @@
-# [2025-12-18 12:50 updated](2025_12_18.md)
+# [2025-12-18 13:10 updated](2025_12_18.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">米メディア「ビジネス・インサイダー」は１７日、データセンターの不動産投資信託（ＲＥＩＴ）を手がけるフェルミによる大規模プロジェクトから資金を引き揚げたテナント候補はアマゾンだと伝えた。フェルミのトビー・ノイゲバウアー最高経営責任者（ＣＥＯ）の話としている。 bit.ly/4iZRXQS <a href="https://bsky.app/profile/japan.reuters.com/post/3maabfgruse2v" target="_blank">japan.reuters.com</a> (2025-12-18 12:48:51)</span><span style="padding-right:50px;">米トランプ大統領 国民に向け演説 物価高対策など成果を強調 https://news.web.nhk/newsweb/na/na-k10015007171000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maab6pw53b2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 12:45:04)</span><span style="padding-right:50px;">米アマゾン・ドット・コムが、生成ＡＩ（人工知能）モデル「チャットＧＰＴ」を開発したオープンＡＩへの出資交渉を進めているもようだ。実現すればオープンＡＩの評価額は５０００億ドルを超える可能性があるという。 bit.ly/49hVS8n <a href="https://bsky.app/profile/japan.reuters.com/post/3maab22hb5y2q" target="_blank">japan.reuters.com</a> (2025-12-18 12:42:29)</span><span style="padding-right:50px;">Elliott takes over $1 billion stake in Lululemon, source says reut.rs/44xFSfO <a href="https://bsky.app/profile/reuters.com/post/3maaawbxsom2r" target="_blank">reuters.com</a> (2025-12-18 12:40:22)</span><span style="padding-right:50px;">If you’ve procrastinated on holiday shopping, you are not alone. And you are definitely not doomed. We’ve gathered a wide array of pleasing and practical gifts for everyone that have very fast delivery. <a href="https://bsky.app/profile/nytimes.com/post/3maaavnpd6q2b" target="_blank">nytimes.com</a> (2025-12-18 12:40:01)</span>
+<span style="padding-right:50px;">公明 斉藤代表 自民・維新の政権運営に懸念 “強引で拙速” https://news.web.nhk/newsweb/na/na-k10015007271000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maacjmsd5s2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 13:09:03)</span><span style="padding-right:50px;">徳島道 観光バスにトラック追突 複数台絡む事故 10人病院搬送 https://news.web.nhk/newsweb/na/na-k10015007211000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maacea3auo2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 13:06:02)</span><span style="padding-right:50px;">帝国データバンクは１８日、ドローン・マイニング装置開発販売のドローンネット（東京都千代田区）が破産手続き開始決定を受けたと発表した。１７日に東京地裁に自己破産を申請した。負債は約１４４５億円で２０２５年では最大規模の倒産。 bit.ly/4amyK9V <a href="https://bsky.app/profile/japan.reuters.com/post/3maacceobkj2p" target="_blank">japan.reuters.com</a> (2025-12-18 13:05:02)</span><span style="padding-right:50px;">トランプ米大統領が１６日にベネズエラを出入りする制裁対象の石油タンカーの「全面封鎖」を命じると表明したことを受け、このところ増加しているロシア産ナフサのベネズエラ向け輸出に暗雲が垂れ込めている。ロシアはナフサのベネズエラへの輸送に制裁対象の船舶を使用しているためだ。トレーダーはこれらの船舶が新たな買い手を探して行き先を変更する可能性があると指摘する。 bit.ly/4j6EqXZ <a href="https://bsky.app/profile/japan.reuters.com/post/3maac6b3dmt2s" target="_blank">japan.reuters.com</a> (2025-12-18 13:02:44)</span><span style="padding-right:50px;">China's youth jobless rate at 16.9% in November reut.rs/49hWj2v <a href="https://bsky.app/profile/reuters.com/post/3maac3up3cq24" target="_blank">reuters.com</a> (2025-12-18 13:01:23)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 48859.90 (🔻198.41 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (➖0.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.74 (🔺0.14 : 2025-12-18)</span>
+<span style="padding-right:50px;">NIKKEI: 48916.94 (🔻141.37 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔺3.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.75 (🔺0.16 : 2025-12-18)</span>
   </div>
 </div>
 
@@ -32,104 +32,108 @@
 
 ## News Headlines
 
-Here are six news headlines in English:
+Here are six important stories with headlines in English:
 
-1. Amazon reportedly pulls out of massive data center investment project
-2. Trump touts economic policies in speech to the nation
-3. Amazon.com invests in open AI, valuation could exceed $50 billion
-4. Elliott takes over $1 billion stake in Lululemon
-5. US military strike kills 4 people on alleged drug-running boat
-6. UK finance ministry to overhaul regulations to ease compliance burden
+1. Japan's Public Safety Minister Expresses Concerns Over LDP and Komeito's Government Operations
+2. Truck Crashes into Tourist Bus on Tokai Expressway, Injuring 18 People
+3. Russia's Nord Stream Gas Exports to Venezuela May Be Disrupted Due to US Sanctions
+4. Israeli Prime Minister Approves $35 Billion Gas Deal with Egypt
+5. Former Tennessee Law Enforcement Officer Arrested Over Facebook Post Released from Jail
+6. Amazon's AI Chat Model Chat GPT May Be Valued Over $5,000 Billion If Acquired by OpenAI
 
 ----
 
-@japan.reuters.com
+@nhknewsunofficial.bsky.social
 
-米メディア「ビジネス・インサイダー」は１７日、データセンターの不動産投資信託（ＲＥＩＴ）を手がけるフェルミによる大規模プロジェクトから資金を引き揚げたテナント候補はアマゾンだと伝えた。フェルミのトビー・ノイゲバウアー最高経営責任者（ＣＥＯ）の話としている。 bit.ly/4iZRXQS
+公明 斉藤代表 自民・維新の政権運営に懸念 “強引で拙速”
+https://news.web.nhk/newsweb/na/na-k10015007271000
 
-[2025-12-18 12:48:51](https://bsky.app/profile/japan.reuters.com/post/3maabfgruse2v)
+[2025-12-18 13:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maacjmsd5s2s)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-米トランプ大統領 国民に向け演説 物価高対策など成果を強調
-https://news.web.nhk/newsweb/na/na-k10015007171000
+徳島道 観光バスにトラック追突 複数台絡む事故 10人病院搬送
+https://news.web.nhk/newsweb/na/na-k10015007211000
 
-[2025-12-18 12:45:04](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maab6pw53b2s)
+[2025-12-18 13:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maacea3auo2w)
 
 ---
 
 @japan.reuters.com
 
-米アマゾン・ドット・コムが、生成ＡＩ（人工知能）モデル「チャットＧＰＴ」を開発したオープンＡＩへの出資交渉を進めているもようだ。実現すればオープンＡＩの評価額は５０００億ドルを超える可能性があるという。 bit.ly/49hVS8n
+帝国データバンクは１８日、ドローン・マイニング装置開発販売のドローンネット（東京都千代田区）が破産手続き開始決定を受けたと発表した。１７日に東京地裁に自己破産を申請した。負債は約１４４５億円で２０２５年では最大規模の倒産。 bit.ly/4amyK9V
 
-[2025-12-18 12:42:29](https://bsky.app/profile/japan.reuters.com/post/3maab22hb5y2q)
+[2025-12-18 13:05:02](https://bsky.app/profile/japan.reuters.com/post/3maacceobkj2p)
+
+---
+
+@japan.reuters.com
+
+トランプ米大統領が１６日にベネズエラを出入りする制裁対象の石油タンカーの「全面封鎖」を命じると表明したことを受け、このところ増加しているロシア産ナフサのベネズエラ向け輸出に暗雲が垂れ込めている。ロシアはナフサのベネズエラへの輸送に制裁対象の船舶を使用しているためだ。トレーダーはこれらの船舶が新たな買い手を探して行き先を変更する可能性があると指摘する。 bit.ly/4j6EqXZ
+
+[2025-12-18 13:02:44](https://bsky.app/profile/japan.reuters.com/post/3maac6b3dmt2s)
 
 ---
 
 @reuters.com
 
-Elliott takes over $1 billion stake in Lululemon, source says reut.rs/44xFSfO
+China's youth jobless rate at 16.9% in November reut.rs/49hWj2v
 
-[2025-12-18 12:40:22](https://bsky.app/profile/reuters.com/post/3maaawbxsom2r)
-
----
-
-@nytimes.com
-
-If you’ve procrastinated on holiday shopping, you are not alone. And you are definitely not doomed. We’ve gathered a wide array of pleasing and practical gifts for everyone that have very fast delivery.
-
-[2025-12-18 12:40:01](https://bsky.app/profile/nytimes.com/post/3maaavnpd6q2b)
-
----
-
-@japan.reuters.com
-
-午前のドルは１５５円後半を中心に売買が交錯する展開となった。日銀の金融政策決定会合次第でドル／円相場が上下する可能性が意識されているものの、足元では年末に向けた資金需要に相場が振れる場面もあるとみられ、方向感に欠く値動きが続いている。 bit.ly/3MSW0m1
-
-[2025-12-18 12:38:49](https://bsky.app/profile/japan.reuters.com/post/3maaatijxv227)
-
----
-
-@cbsnews.com
-
-Four people were killed in a U.S. military strike Wednesday on an alleged drug-running boat in the Eastern Pacific, the Pentagon said.
-
-[2025-12-18 12:35:23](https://bsky.app/profile/cbsnews.com/post/3maaanexfoz2p)
-
----
-
-@nhknewsunofficial.bsky.social
-
-ノーベル平和賞 マチャド氏“順調に回復 訪問先オスロ離れる”
-https://news.web.nhk/newsweb/na/na-k10015007231000
-
-[2025-12-18 12:33:04](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maaajbn52f2w)
-
----
-
-@japan.reuters.com
-
-英財務省は１７日、金融指標を管理する広範な規制を抜本的に見直し、業界のコンプライアンス（法令順守）負担を軽減すると発表した。規制対象を金融システムに重大なリスクをもたらす指標に限定する。 bit.ly/4p1v5Su
-
-[2025-12-18 12:32:38](https://bsky.app/profile/japan.reuters.com/post/3maaaigwvvo2c)
+[2025-12-18 13:01:23](https://bsky.app/profile/reuters.com/post/3maac3up3cq24)
 
 ---
 
 @nikkei.com
 
-【3分でわかる 就活・業界研究】
-鉄道業界、利用者数の回復に知恵
+老け見えの元凶「腰曲がり」に注意　「健康寿命」を左右
 www.nikkei.com/article/DGXZQO...
 
-JR東海は東海道新幹線を運行しており、高い収益性が特徴。
+背骨の変形は60代の4割に起こっているという報告も。
 
-JR西日本は京阪神の都市間輸送や山陽・北陸新幹線が収益の柱です。
+専門家は「鏡に映る自分がイメージする姿と違うと気づくことが大事」と言います。
 
-東北新幹線や北陸新幹線はJR東日本が一部を担っています。
+イラストのような姿勢になっていませんか？
 
-[2025-12-18 12:31:15](https://bsky.app/profile/nikkei.com/post/3maaafxvsjs2i)
+[2025-12-18 13:01:15](https://bsky.app/profile/nikkei.com/post/3maac3mnbcf24)
+
+---
+
+@cnbc.com
+
+Happiness expert Sonja Lyubomirsky recommends telling kids to have more meaningful conversations with their friends.
+
+“The key to happiness is feeling loved and feeling connected to other people,” she says.
+
+Here are her tips for parents who want to raise happier children.
+
+[2025-12-18 13:00:29](https://bsky.app/profile/cnbc.com/post/3maac2agfck23)
+
+---
+
+@apnews.com
+
+Israeli Prime Minister Benjamin Netanyahu says he has approved a $35 billion deal to export natural gas to neighboring Egypt over the next 15 years.
+
+[2025-12-18 13:00:15](https://bsky.app/profile/apnews.com/post/3maabzt36v722)
+
+---
+
+@cnn.com
+
+A retired Tennessee law enforcement officer was held in jail for more than a month this fall after police arrested him over a Facebook post of a meme related to the September assassination of conservative activist Charlie Kirk. 
+
+[2025-12-18 13:00:11](https://bsky.app/profile/cnn.com/post/3maabzp6ha422)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+大分 大規模火災からきょうで1か月 被災者の生活再建が課題
+https://news.web.nhk/newsweb/na/na-k10015007121000
+
+[2025-12-18 13:00:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maabznv7642d)
 
 ---
 
