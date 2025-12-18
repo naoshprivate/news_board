@@ -1,9 +1,9 @@
-# [2025-12-18 11:30 updated](2025_12_18.md)
+# [2025-12-18 11:50 updated](2025_12_18.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">米アップルは１７日、日本のスマートフォン市場の競争促進を目的とした新たな法律に準拠するため、ｉＰｈｏｎｅを代替アプリストアに開放したと発表した。 bit.ly/4p07iCs <a href="https://bsky.app/profile/japan.reuters.com/post/3maa4tevnng2q" target="_blank">japan.reuters.com</a> (2025-12-18 11:27:10)</span><span style="padding-right:50px;">強まる米の圧力 ベネズエラ 国連安保理の開催要求 https://news.web.nhk/newsweb/na/na-k10015007081000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maa4t7r56x2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 11:27:03)</span><span style="padding-right:50px;">Peter Arnett, the Pulitzer Prize-winning reporter who covered wars from Vietnam to Iraq, has died at 91. Arnett, who won the 1966 Pulitzer Prize for international reporting for his Vietnam War coverage for The Associated Press. <a href="https://bsky.app/profile/apnews.com/post/3maa4stohq22n" target="_blank">apnews.com</a> (2025-12-18 11:26:52)</span><span style="padding-right:50px;">Nick Reiner appeared briefly in court today after being charged with two counts of first-degree murder in connection with the fatal stabbing of his parents, Hollywood director Rob Reiner and producer Michele Singer Reiner. CNN's Stephanie Elam reports.  Read more: https://cnn.it/4rXPiLz <a href="https://bsky.app/profile/cnn.com/post/3maa4qvm2dc2b" target="_blank">cnn.com</a> (2025-12-18 11:25:46)</span><span style="padding-right:50px;">SoftBank leads decline in Japanese tech stocks as worries over AI spending spill over to Asia <a href="https://bsky.app/profile/cnbc.com/post/3maa4pujkbi2e" target="_blank">cnbc.com</a> (2025-12-18 11:25:12)</span>
+<span style="padding-right:50px;">🛎️NNNより【独自】です。  【独自】安倍元首相銃撃事件、きょう結審 山上被告の伯父「事件通して信者助かった」 (2025-12-18 11:48) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maa627cbk72y" target="_blank">sokuho.news</a> (2025-12-18 11:48:53)</span><span style="padding-right:50px;">木原稔官房長官は１８日午前の記者会見で、日銀の金融政策について「具体的な手法は日銀に委ねられるべきだ」とした上で「日銀には引き続き政府と密接に連携を図り、経済・物価・金融情勢を踏まえつつ、コストプッシュではなく賃金上昇も伴った２％の物価安定目標の持続的・安定的な実現に向けて、適切な金融政策運営を期待する」と述べた。 bit.ly/4saKmDp <a href="https://bsky.app/profile/japan.reuters.com/post/3maa5y3qtro2u" target="_blank">japan.reuters.com</a> (2025-12-18 11:47:42)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】九州自動車道でトラックなど5台が絡む事故 4人けが 上り線人吉IC～八代JCT間が通行止め （12月18日午前11時40分時点） (2025-12-18 11:43:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maa5xim3z52r" target="_blank">sokuho.news</a> (2025-12-18 11:47:22)</span><span style="padding-right:50px;">中国国家統計局が１８日に発表した１１月の１６─２４歳（学生を除く）の若年失業率は１６．９％で、前月の１７．３％から低下した。 bit.ly/3YDU2bG <a href="https://bsky.app/profile/japan.reuters.com/post/3maa5tfuzxg2u" target="_blank">japan.reuters.com</a> (2025-12-18 11:45:05)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】九州自動車道でトラックなど5台が絡む事故 4人けが 上り線人吉IC～八代JCT間が通行止め (2025-12-18 11:43:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maa5sd3pq62y" target="_blank">sokuho.news</a> (2025-12-18 11:44:28)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 48933.57 (🔻124.74 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3351.00 (🔺1.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.72 (🔺0.12 : 2025-12-18)</span>
+<span style="padding-right:50px;">NIKKEI: 49006.89 (🔻51.42 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3355.00 (🔺5.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.74 (🔺0.15 : 2025-12-18)</span>
   </div>
 </div>
 
@@ -32,104 +32,108 @@
 
 ## News Headlines
 
-Here are six news headlines in English:
+Here are six news headlines:
 
-1. Apple Opens App Store in Japan Amid Competition Law Changes
-2. Venezuela Seeks to Expand Social Media Vetting for US Visitors
-3. Palantir CEO Alex Karp Buys Record-Breaking $120 Million Ranch
-4. Trump Announces 'Warrior Dividend' of $1,776 for US Soldiers
-5. US Judge Blocks Michigan from Shutting Down Enbridge's Oil Pipeline
-6. Russia-Ukraine War: Key Events Reach 1,393 Days
+1. Former Japanese Prime Minister's Assassination Trial Concludes Today
+2. US Trade Representative Supports Keeping Trade Accord with Canada and Mexico
+3. Japan's Economy to See Boost as Apple Opens iPhone App Store in Japan
+4. International Soccer Federation Increases Prize Money for 2026 World Cup in North America
+5. Venezuela Runs Out of Oil Storage Space Amid Tanker Curbs
+6. Palantir CEO Buys Record-Breaking $120 Million Ranch in Colorado
 
 ----
 
-@japan.reuters.com
+@sokuho.news
 
-米アップルは１７日、日本のスマートフォン市場の競争促進を目的とした新たな法律に準拠するため、ｉＰｈｏｎｅを代替アプリストアに開放したと発表した。 bit.ly/4p07iCs
+🛎️NNNより【独自】です。
 
-[2025-12-18 11:27:10](https://bsky.app/profile/japan.reuters.com/post/3maa4tevnng2q)
+【独自】安倍元首相銃撃事件、きょう結審 山上被告の伯父「事件通して信者助かった」
+(2025-12-18 11:48) #ニュース
 
----
-
-@nhknewsunofficial.bsky.social
-
-強まる米の圧力 ベネズエラ 国連安保理の開催要求
-https://news.web.nhk/newsweb/na/na-k10015007081000
-
-[2025-12-18 11:27:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maa4t7r56x2u)
-
----
-
-@apnews.com
-
-Peter Arnett, the Pulitzer Prize-winning reporter who covered wars from Vietnam to Iraq, has died at 91. Arnett, who won the 1966 Pulitzer Prize for international reporting for his Vietnam War coverage for The Associated Press.
-
-[2025-12-18 11:26:52](https://bsky.app/profile/apnews.com/post/3maa4stohq22n)
-
----
-
-@cnn.com
-
-Nick Reiner appeared briefly in court today after being charged with two counts of first-degree murder in connection with the fatal stabbing of his parents, Hollywood director Rob Reiner and producer Michele Singer Reiner. CNN's Stephanie Elam reports.
-
-Read more: https://cnn.it/4rXPiLz
-
-[2025-12-18 11:25:46](https://bsky.app/profile/cnn.com/post/3maa4qvm2dc2b)
-
----
-
-@cnbc.com
-
-SoftBank leads decline in Japanese tech stocks as worries over AI spending spill over to Asia
-
-[2025-12-18 11:25:12](https://bsky.app/profile/cnbc.com/post/3maa4pujkbi2e)
-
----
-
-@nhknewsunofficial.bsky.social
-
-自国 「年収の壁」協議大詰め 引き上げ方法や対象範囲調整続く
-https://news.web.nhk/newsweb/na/na-k10015007151000
-
-[2025-12-18 11:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maa4ntsc7w2w)
-
----
-
-@cnbc.com
-
-Trump announces ‘warrior dividend’ of $1,776 to every U.S. soldier
-
-[2025-12-18 11:22:21](https://bsky.app/profile/cnbc.com/post/3maa4kruvnx2d)
+[2025-12-18 11:48:53](https://bsky.app/profile/sokuho.news/post/3maa627cbk72y)
 
 ---
 
 @japan.reuters.com
 
-オイシックス・ラ・大地が３営業日ぶりに反発し、一時８％超高の１５２４円に上昇した。１７日、米資産運用会社のグランサム、マヨ、ヴァン　オッテルロー（ＧＭＯ）が議決権ベースで１０．１７％を保有する大株主になったと発表し、材料視されている。 bit.ly/4pJLpIA
+木原稔官房長官は１８日午前の記者会見で、日銀の金融政策について「具体的な手法は日銀に委ねられるべきだ」とした上で「日銀には引き続き政府と密接に連携を図り、経済・物価・金融情勢を踏まえつつ、コストプッシュではなく賃金上昇も伴った２％の物価安定目標の持続的・安定的な実現に向けて、適切な金融政策運営を期待する」と述べた。 bit.ly/4saKmDp
 
-[2025-12-18 11:21:20](https://bsky.app/profile/japan.reuters.com/post/3maa4ixmef527)
+[2025-12-18 11:47:42](https://bsky.app/profile/japan.reuters.com/post/3maa5y3qtro2u)
 
 ---
 
 @sokuho.news
 
-🔔防災科研より【強震モニタ】動画です。
+🛎️JNNより【速報】です。
 
-震源:熊本県阿蘇地方, 深さ:10km
-マグニチュード:3.0, 最大震度:2
-📍https://www.google.com/maps?q=33.0,131.1&ll=33.0,131.1&z=7&t=h
-地震発生日時:2025-12-18 11:18頃
-(10倍速▶120s→12s) #地震
+【速報】九州自動車道でトラックなど5台が絡む事故 4人けが 上り線人吉IC～八代JCT間が通行止め （12月18日午前11時40分時点）
+(2025-12-18 11:43:00) #ニュース
 
-[2025-12-18 11:21:19](https://bsky.app/profile/sokuho.news/post/3maa4iwqok426)
+[2025-12-18 11:47:22](https://bsky.app/profile/sokuho.news/post/3maa5xim3z52r)
 
 ---
 
-@nytimes.com
+@japan.reuters.com
 
-If you’re feeling a bit worn down, one bowl of this hearty lentil soup will bring you back to life — or at least fool you into thinking so.
+中国国家統計局が１８日に発表した１１月の１６─２４歳（学生を除く）の若年失業率は１６．９％で、前月の１７．３％から低下した。 bit.ly/3YDU2bG
 
-[2025-12-18 11:21:04](https://bsky.app/profile/nytimes.com/post/3maa4iifkeu2b)
+[2025-12-18 11:45:05](https://bsky.app/profile/japan.reuters.com/post/3maa5tfuzxg2u)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】九州自動車道でトラックなど5台が絡む事故 4人けが 上り線人吉IC～八代JCT間が通行止め
+(2025-12-18 11:43:00) #ニュース
+
+[2025-12-18 11:44:28](https://bsky.app/profile/sokuho.news/post/3maa5sd3pq62y)
+
+---
+
+@japan.reuters.com
+
+インド議会は１７日、保険業界における外国資本の出資比率の上限を現行の７４％から１００％に引き上げる法案を可決した。 bit.ly/4amvQC3
+
+[2025-12-18 11:42:40](https://bsky.app/profile/japan.reuters.com/post/3maa5p4fsgs2c)
+
+---
+
+@reuters.com
+
+US asks oil firms if they would return to Venezuela were Maduro to go, Politico reports reut.rs/3KXoxGo
+
+[2025-12-18 11:40:29](https://bsky.app/profile/reuters.com/post/3maa5l73okp2y)
+
+---
+
+@japan.reuters.com
+
+米オープンＡＩ、米グーグル、生成ＡＩ（人工知能）検索サービスの米新興企業パープレキシティが、世界最多の人口を持つインドでのＡＩサービス利用者獲得に向け、無料プランを打ち出している bit.ly/4s2oXvV
+
+[2025-12-18 11:40:08](https://bsky.app/profile/japan.reuters.com/post/3maa5kkw22s2c)
+
+---
+
+@washingtonpost.com
+
+In a televised speech Wednesday night, President Trump said that more than 1.4 million military service members would receive $1,776 payments from the government. 
+
+It’s unclear how the checks would be funded or if congressional approval will be necessary.
+
+[2025-12-18 11:39:14](https://bsky.app/profile/washingtonpost.com/post/3maa5ixcc7h2x)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】青森・台北便が週5便に増便 繁忙期は県政史上初の『デイリー運航』も
+(2025-12-18 11:38) #ニュース
+
+[2025-12-18 11:38:28](https://bsky.app/profile/sokuho.news/post/3maa5hlxm7d26)
 
 ---
 
