@@ -1,9 +1,9 @@
-# [2025-12-18 10:30 updated](2025_12_18.md)
+# [2025-12-18 10:50 updated](2025_12_18.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Mikaela Shiffrin isn’t just winning every slalom of the Olympic season. She’s winning them by an average of more than 1.5 seconds – an eternity in ski racing.  <a href="https://bsky.app/profile/cnn.com/post/3ma7zlg6sxs2c" target="_blank">cnn.com</a> (2025-12-18 10:29:01)</span><span style="padding-right:50px;">米投資会社のバリューアクト・キャピタルが関連ファンドを通じて宝ホールディングス株を買い増し、保有率を９．８４％から１２．４４％に引き上げたことが、１８日に提出された変更報告書で明らかになった。 bit.ly/3N5WtBj <a href="https://bsky.app/profile/japan.reuters.com/post/3ma7ziq3tom2c" target="_blank">japan.reuters.com</a> (2025-12-18 10:27:31)</span><span style="padding-right:50px;">高市早苗政権の経済政策（サナエノミクス）は１０年前のアベノミクスと４０年前のレーガノミクス／サッチャーリズムの中間的なところに立ち位置を修正していくと我々は考えている。 bit.ly/3MHUZ0g <a href="https://bsky.app/profile/japan.reuters.com/post/3ma7zegjubv2p" target="_blank">japan.reuters.com</a> (2025-12-18 10:25:07)</span><span style="padding-right:50px;">The White House is trying to tamp down Americans’ economic anxieties by dangling the prospect of tariff rebates and large tax refunds next year, hoping that the money might assuage voters who blame President Trump for their rising cost of living. <a href="https://bsky.app/profile/nytimes.com/post/3ma7zecmukg2x" target="_blank">nytimes.com</a> (2025-12-18 10:25:03)</span><span style="padding-right:50px;">ロシアのベロウソフ国防相は１７日、２０２５年の対ウクライナ戦費は１１兆ルーブルで、国内総生産（ＧＤＰ）の５．１％に相当すると発表した。今年の戦費の公式試算を示すのは初めて。 bit.ly/4j3G8ZP <a href="https://bsky.app/profile/japan.reuters.com/post/3ma7z644cq32v" target="_blank">japan.reuters.com</a> (2025-12-18 10:21:35)</span>
+<span style="padding-right:50px;">ポーランドは冷戦後初となる対人地雷生産を開始することを決定し、東部国境沿いに配備する計画だとザレフスキ国防次官がロイターに明らかにした。 bit.ly/3MG3ZTv <a href="https://bsky.app/profile/japan.reuters.com/post/3maa2pn3mpu2s" target="_blank">japan.reuters.com</a> (2025-12-18 10:49:17)</span><span style="padding-right:50px;">The Washington Nationals are hiring 31-year-old Anirudh Kilambi as their general manager. The move gives new president of baseball operations Paul Toboni a second-in-command atop the organization’s front office hierarchy. <a href="https://bsky.app/profile/washingtonpost.com/post/3maa2hzzm3w2y" target="_blank">washingtonpost.com</a> (2025-12-18 10:45:02)</span><span style="padding-right:50px;">MetaX and Moore Threads' IPOs underscore Chinese chipmakers' growing challenge to Nvidia <a href="https://bsky.app/profile/cnbc.com/post/3maa2gobkxc2p" target="_blank">cnbc.com</a> (2025-12-18 10:44:16)</span><span style="padding-right:50px;">対話型人工知能（ＡＩ）「チャットＧＰＴ」を手がけるオープンＡＩは、評価額約７５００億ドルでの資金調達について、一部の投資家と予備的な協議を行ったと、ニュースサイトのジ・インフォメーションが関係者の話として１７日に報じた。 bit.ly/4aj8rkV <a href="https://bsky.app/profile/japan.reuters.com/post/3maa2gjhlpl2f" target="_blank">japan.reuters.com</a> (2025-12-18 10:44:11)</span><span style="padding-right:50px;">‘If we don’t do it now, Brazil won’t make any more deals while I’m president,’ Luiz Inácio Lula da Silva warned, after Italy and France asked Brussels to delay a vote on the landmark agreement. ft.trib.al/2NsX7FC <a href="https://bsky.app/profile/financialtimes.com/post/3maa2axwvvk2q" target="_blank">financialtimes.com</a> (2025-12-18 10:41:05)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 48911.79 (🔻146.52 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3350.00 (➖0.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.58 (🔻0.02 : 2025-12-18)</span>
+<span style="padding-right:50px;">NIKKEI: 48893.13 (🔻165.18 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3346.00 (🔻4.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.73 (🔺0.14 : 2025-12-18)</span>
   </div>
 </div>
 
@@ -32,95 +32,122 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
-
-1. Mikaela Shiffrin Dominates Slalom Season with Average Lead of Over 1.5 Seconds
-2. Japan's Economic Policy Shifts to a Middle Ground between Abenomics and Reaganomics
-3. White House Offers Tariff Rebates and Tax Refunds to Ease Economic Anxieties
-4. Russia Confirms $111 Billion Military Budget for 2025, Equivalent to 5.1% of GDP
-5. House Passes Bill to Impose Harsher Penalties on Healthcare Providers for Providing Gender-Affirming Care to Minors
-6. Brazilian Lawmakers Approve Legislation to Reduce Jair Bolsonaro's Prison Time for Attempted Coup
+1. Poland to Begin Producing Anti-Personnel Mines for First Time Since Cold War
+2. Washington Nationals Hire 31-Year-Old Anirudh Kilambi as General Manager
+3. MetaX and Moore Threads' IPOs Highlight Growing Challenge to Nvidia
+4. OpenAI in Talks to Raise $7,500 Billion in Valuation
+5. White House Installs New Plaques on Trump's Presidential Walk of Fame with Insults and Random Capitalization
+6. PSG Wins Intercontinental Cup After Safonov's Heroics
+7. Chile Central Bank Sees 2-3% GDP Growth in 2026
+8. Apple to Charge 15% Fee for App Store Payments
+9. US Fed Terminates Citi's Risk Control Demands
+10. Venezuela's Oil Industry Faces Uncertainty as US Operation Plays Out
+11. Nick Reiner Faces 25 Years to Life in Prison for Parent's Murder
+12. Chinese Billionaire Said to Have 100 U.S.-Born Kids Through Surrogacy
+13. Mikaela Shiffrin Wins Slalom by an Average of 1.5 Seconds
+14. Jeffries' Strategy to Pass ACA Extension Bill
+15. ValueAct Capital Increases Stake in Toyota to 12.44%
+16. Japan's Kishida Government to Modify Economic Policy to be Between Abenomics and Reaganomics
+17. White House Offers Tariff Rebates and Tax Refunds to Ease Economic Anxieties
+18. Russia's Defense Minister Announces 11 Trillion Rubles for Ukraine War in 2025
+19. Japan's Prime Minister Fumio Kishida's Latest Developments
+20. Senate Passes NDAA Bill to Increase Military Spending
+21. House Votes to Pass Bill to Imprison Healthcare Providers for Providing Gender-Affirming Care
+22. Ford CEO Jim Farley Considers Halting EV Development
+23. Brazilian Lawmakers Approve Legislation to Reduce Jair Bolsonaro's Prison Time
+24. Man Injured in Car Accident in Nagasaki Prefecture
+25. Packers' Christian Watson Practices Despite Injury Concerns
+26. Brooklyn Band Geese Revives Interest in Rock Music
+27. Nippon Ishin no Kai's Leader Says Party Will Accept Reduced Number of MPs Even if House Dissolved
+28. Labor Union and Investment Group Ask Amazon, Walmart, and Alphabet About Impact of Trump's Immigration Policy
+29. US Government Notifies Congress of $1.1 Billion Arms Sale to Taiwan
+30. Odell Beckham Jr. and Druski Speak Out After Lawsuit Dismissed
+31. New NISA Saw 87.2% of Users Report Positive Returns
+32. Japan's Kishida Government to Modify Economic Policy to be Between Abenomics and Reaganomics
 
 ----
 
+@japan.reuters.com
+
+ポーランドは冷戦後初となる対人地雷生産を開始することを決定し、東部国境沿いに配備する計画だとザレフスキ国防次官がロイターに明らかにした。 bit.ly/3MG3ZTv
+
+[2025-12-18 10:49:17](https://bsky.app/profile/japan.reuters.com/post/3maa2pn3mpu2s)
+
+---
+
+@washingtonpost.com
+
+The Washington Nationals are hiring 31-year-old Anirudh Kilambi as their general manager. The move gives new president of baseball operations Paul Toboni a second-in-command atop the organization’s front office hierarchy.
+
+[2025-12-18 10:45:02](https://bsky.app/profile/washingtonpost.com/post/3maa2hzzm3w2y)
+
+---
+
+@cnbc.com
+
+MetaX and Moore Threads' IPOs underscore Chinese chipmakers' growing challenge to Nvidia
+
+[2025-12-18 10:44:16](https://bsky.app/profile/cnbc.com/post/3maa2gobkxc2p)
+
+---
+
+@japan.reuters.com
+
+対話型人工知能（ＡＩ）「チャットＧＰＴ」を手がけるオープンＡＩは、評価額約７５００億ドルでの資金調達について、一部の投資家と予備的な協議を行ったと、ニュースサイトのジ・インフォメーションが関係者の話として１７日に報じた。 bit.ly/4aj8rkV
+
+[2025-12-18 10:44:11](https://bsky.app/profile/japan.reuters.com/post/3maa2gjhlpl2f)
+
+---
+
+@financialtimes.com
+
+‘If we don’t do it now, Brazil won’t make any more deals while I’m president,’ Luiz Inácio Lula da Silva warned, after Italy and France asked Brussels to delay a vote on the landmark agreement. ft.trib.al/2NsX7FC
+
+[2025-12-18 10:41:05](https://bsky.app/profile/financialtimes.com/post/3maa2axwvvk2q)
+
+---
+
 @cnn.com
 
-Mikaela Shiffrin isn’t just winning every slalom of the Olympic season. She’s winning them by an average of more than 1.5 seconds – an eternity in ski racing. 
+The White House has installed new plaques along President Donald Trump's "Presidential Walk of Fame," featuring descriptions that read like his Truth Social posts, including insults and random capitalization. CNN's Kaitlan Collins reports from the White House.
 
-[2025-12-18 10:29:01](https://bsky.app/profile/cnn.com/post/3ma7zlg6sxs2c)
+Read more: https://cnn.it/3N6RlwP
 
----
-
-@japan.reuters.com
-
-米投資会社のバリューアクト・キャピタルが関連ファンドを通じて宝ホールディングス株を買い増し、保有率を９．８４％から１２．４４％に引き上げたことが、１８日に提出された変更報告書で明らかになった。 bit.ly/3N5WtBj
-
-[2025-12-18 10:27:31](https://bsky.app/profile/japan.reuters.com/post/3ma7ziq3tom2c)
-
----
-
-@japan.reuters.com
-
-高市早苗政権の経済政策（サナエノミクス）は１０年前のアベノミクスと４０年前のレーガノミクス／サッチャーリズムの中間的なところに立ち位置を修正していくと我々は考えている。 bit.ly/3MHUZ0g
-
-[2025-12-18 10:25:07](https://bsky.app/profile/japan.reuters.com/post/3ma7zegjubv2p)
-
----
-
-@nytimes.com
-
-The White House is trying to tamp down Americans’ economic anxieties by dangling the prospect of tariff rebates and large tax refunds next year, hoping that the money might assuage voters who blame President Trump for their rising cost of living.
-
-[2025-12-18 10:25:03](https://bsky.app/profile/nytimes.com/post/3ma7zecmukg2x)
-
----
-
-@japan.reuters.com
-
-ロシアのベロウソフ国防相は１７日、２０２５年の対ウクライナ戦費は１１兆ルーブルで、国内総生産（ＧＤＰ）の５．１％に相当すると発表した。今年の戦費の公式試算を示すのは初めて。 bit.ly/4j3G8ZP
-
-[2025-12-18 10:21:35](https://bsky.app/profile/japan.reuters.com/post/3ma7z644cq32v)
-
----
-
-@nhknewsunofficial.bsky.social
-
-高市首相動静 2025年12月17日
-https://news.web.nhk/newsweb/na/na-k10015007091000
-
-[2025-12-18 10:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma7z56qxqc2b)
+[2025-12-18 10:40:38](https://bsky.app/profile/cnn.com/post/3maa2a6our62u)
 
 ---
 
 @reuters.com
 
-Reports: Fenway Sports Group to sell Penguins to Hoffmann family reut.rs/3MJMVMi
+Safonov the shootout hero as PSG sink Flamengo to win Intercontinental Cup reut.rs/3L88HsD
 
-[2025-12-18 10:20:36](https://bsky.app/profile/reuters.com/post/3ma7z4e6p242b)
-
----
-
-@japan.reuters.com
-
-米議会上院は１７日に２０２６年度国防権限法（ＮＤＡＡ）修正法案を可決した。同法案は先週既に下院を通過しており、トランプ大統領の署名を経て成立する見通しだ。 bit.ly/4pD7zME
-
-[2025-12-18 10:18:32](https://bsky.app/profile/japan.reuters.com/post/3ma7yyo4egb2c)
-
----
-
-@cnn.com
-
-The House has voted to pass a bill that could imprison health care providers for providing gender-affirming care for minors. Its path in the Senate is unclear. https://cnn.it/4qlzkcJ
-
-[2025-12-18 10:17:51](https://bsky.app/profile/cnn.com/post/3ma7yxgozqo2u)
+[2025-12-18 10:40:33](https://bsky.app/profile/reuters.com/post/3maa27zw46a23)
 
 ---
 
 @japan.reuters.com
 
-米フォード・モーターのジム・ファーリー最高経営責任者（ＣＥＯ）は１５日、ミシガン州のデザインスタジオを歩いていた。考えていたのは、ＥＶ（電気自動車）開発につぎ込んだ時間の重さだ。米国の車づくりを変えられる──そう信じて進めてきた計画を、いま自分の判断で止めようとしている。数千時間の仕事が、振り出しに戻る。 bit.ly/4rUnwzA
+＜１０：１５＞　日経平均は4万9000円挟んだ値動き、主力ハイテク株は２─３％超安 bit.ly/490Xn9R
 
-[2025-12-18 10:16:39](https://bsky.app/profile/japan.reuters.com/post/3ma7yvbuxyj2q)
+[2025-12-18 10:40:13](https://bsky.app/profile/japan.reuters.com/post/3maa27gycnf2c)
+
+---
+
+@washingtonpost.com
+
+President Trump will deliver a televised speech Wednesday night at 9 p.m. EST. Trump is not expected to make major new policy announcements during the address, but officials cautioned he could change his mind.
+
+Live updates here:
+
+[2025-12-18 10:35:01](https://bsky.app/profile/washingtonpost.com/post/3ma7zw53pk72n)
+
+---
+
+@cnbc.com
+
+CNBC Daily Open: Concerns over Oracle's debt spill over into its projects
+
+[2025-12-18 10:34:06](https://bsky.app/profile/cnbc.com/post/3ma7zuix7zo2b)
 
 ---
 
