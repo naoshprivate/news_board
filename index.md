@@ -1,9 +1,9 @@
-# [2025-12-19 03:50 updated](2025_12_19.md)
+# [2025-12-19 04:10 updated](2025_12_19.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Kennedy Center board votes to rename the longtime performing arts venue the "Trump Kennedy Center" https://cnn.it/48LMoSP <a href="https://bsky.app/profile/cnn.com/post/3mabtlq33yh23" target="_blank">cnn.com</a> (2025-12-19 03:47:09)</span><span style="padding-right:50px;">At a Coldplay concert in July, Kristin Cabot appeared on the Jumbotron in the arms of her boss. Cabot retreated, trying to make things right with the people who mattered most. Now, for first time since that viral moment, Cabot is sharing her side of the story. <a href="https://bsky.app/profile/nytimes.com/post/3mabtjdewlc25" target="_blank">nytimes.com</a> (2025-12-19 03:45:49)</span><span style="padding-right:50px;">Canada's financial regulator maintains biggest banks' domestic stability buffer, says they are resilient reut.rs/4aimEyu <a href="https://bsky.app/profile/reuters.com/post/3mabtimxv7z2k" target="_blank">reuters.com</a> (2025-12-19 03:45:25)</span><span style="padding-right:50px;">From @theathletic.com: Former Michigan football coach Sherrone Moore had a “long history of domestic violence” against a female football staffer during their relationship, the woman’s lawyer alleged to police. <a href="https://bsky.app/profile/nytimes.com/post/3mabtckjqoc2v" target="_blank">nytimes.com</a> (2025-12-19 03:42:01)</span><span style="padding-right:50px;">US regulator loosens some compliance burdens for Citigroup ft.trib.al/w3Nzze1 <a href="https://bsky.app/profile/financialtimes.com/post/3mabtarbsx62k" target="_blank">financialtimes.com</a> (2025-12-19 03:41:01)</span>
+<span style="padding-right:50px;">BREAKING: Trump signs order to ease marijuana restrictions <a href="https://bsky.app/profile/axios.com/post/3mabutrdqc22d" target="_blank">axios.com</a> (2025-12-19 04:09:32)</span><span style="padding-right:50px;">The Democratic Party said it would not release an internal review of its loss to Republican President Trump in 2024, saying that a public airing of its failures would distract from focusing on winning future elections reut.rs/4oXZVeD <a href="https://bsky.app/profile/reuters.com/post/3mabunuoktk2c" target="_blank">reuters.com</a> (2025-12-19 04:06:15)</span><span style="padding-right:50px;">EU leaders to propose Ukraine reparations loan using Russia's frozen assets under conditions - draft document reut.rs/4ak7fh9 <a href="https://bsky.app/profile/reuters.com/post/3mabumak2be2o" target="_blank">reuters.com</a> (2025-12-19 04:05:20)</span><span style="padding-right:50px;">Fusion deal: Why Trump Media is merging with TAE Technologies <a href="https://bsky.app/profile/cnbc.com/post/3mabuiwxgsb2n" target="_blank">cnbc.com</a> (2025-12-19 04:03:29)</span><span style="padding-right:50px;">The John F. Kennedy Center for the Performing Arts in Washington is now called the the "Trump-Kennedy Center," according to the White House. bit.ly/3MPJh3u <a href="https://bsky.app/profile/usatoday.com/post/3mabuirbndu2w" target="_blank">usatoday.com</a> (2025-12-19 04:03:23)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 48060.32 (🔻40.86 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23084.59 (🔺72.53 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.93 (🔺0.40 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.68 (🔺0.08 : 2025-12-18)</span>
+<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 48039.07 (🔻62.11 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23053.51 (🔺41.44 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.86 (🔺0.33 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.61 (🔺0.01 : 2025-12-18)</span>
   </div>
 </div>
 
@@ -32,94 +32,94 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are six news headlines in English:
 
-1. Trump-Kennedy Center Renaming Sparks Controversy
-2. Former Football Coach Accused of Domestic Violence
-3. US Regulator Eases Compliance Burden for Citigroup
-4. Lovable valued at $6.6 Billion in Latest Funding Round
-5. Trump Administration Accused of Expanding Federal Surveillance
-6. Venezuela Authorizes Unsanctioned Oil Supertankers to Depart
+1. Trump Signs Order to Ease Marijuana Restrictions
+2. EU Leaders Propose Loan to Ukraine Using Russia's Frozen Assets
+3. John F. Kennedy Center Renamed to Trump-Kennedy Center
+4. Australian Police Detain Several People Over Possible Violent Act
+5. Citi Clears Regulatory Hurdle to Fix Longstanding Problems
+6. Trump to Consider Declaring Christmas Eve and December 26 as Federal Holidays
 
 ----
 
-@cnn.com
+@axios.com
 
-Kennedy Center board votes to rename the longtime performing arts venue the "Trump Kennedy Center" https://cnn.it/48LMoSP
+<strong><span style="color: red;">BREAKING:</span> Trump signs order to ease marijuana restrictions</strong>
 
-[2025-12-19 03:47:09](https://bsky.app/profile/cnn.com/post/3mabtlq33yh23)
-
----
-
-@nytimes.com
-
-At a Coldplay concert in July, Kristin Cabot appeared on the Jumbotron in the arms of her boss. Cabot retreated, trying to make things right with the people who mattered most. Now, for first time since that viral moment, Cabot is sharing her side of the story.
-
-[2025-12-19 03:45:49](https://bsky.app/profile/nytimes.com/post/3mabtjdewlc25)
+[2025-12-19 04:09:32](https://bsky.app/profile/axios.com/post/3mabutrdqc22d)
 
 ---
 
 @reuters.com
 
-Canada's financial regulator maintains biggest banks' domestic stability buffer, says they are resilient reut.rs/4aimEyu
+The Democratic Party said it would not release an internal review of its loss to Republican President Trump in 2024, saying that a public airing of its failures would distract from focusing on winning future elections reut.rs/4oXZVeD
 
-[2025-12-19 03:45:25](https://bsky.app/profile/reuters.com/post/3mabtimxv7z2k)
-
----
-
-@nytimes.com
-
-From @theathletic.com: Former Michigan football coach Sherrone Moore had a “long history of domestic violence” against a female football staffer during their relationship, the woman’s lawyer alleged to police.
-
-[2025-12-19 03:42:01](https://bsky.app/profile/nytimes.com/post/3mabtckjqoc2v)
-
----
-
-@financialtimes.com
-
-US regulator loosens some compliance burdens for Citigroup ft.trib.al/w3Nzze1
-
-[2025-12-19 03:41:01](https://bsky.app/profile/financialtimes.com/post/3mabtarbsx62k)
-
----
-
-@npr.org
-
-GOP Rep. Brian Fitzpatrick of Pennsylvania and Democrat Tom Suozzi discuss their bipartisan push to extend Affordable Care Act subsidies. n.pr/4p5Rr57
-
-[2025-12-19 03:40:37](https://bsky.app/profile/npr.org/post/3mabt7zwd6c2p)
+[2025-12-19 04:06:15](https://bsky.app/profile/reuters.com/post/3mabunuoktk2c)
 
 ---
 
 @reuters.com
 
-Lovable valued at $6.6 billion in latest funding round as AI coding demand surges reut.rs/4q9ojuW
+EU leaders to propose Ukraine reparations loan using Russia's frozen assets under conditions - draft document reut.rs/4ak7fh9
 
-[2025-12-19 03:40:22](https://bsky.app/profile/reuters.com/post/3mabt7mdgww2b)
+[2025-12-19 04:05:20](https://bsky.app/profile/reuters.com/post/3mabumak2be2o)
+
+---
+
+@cnbc.com
+
+Fusion deal: Why Trump Media is merging with TAE Technologies
+
+[2025-12-19 04:03:29](https://bsky.app/profile/cnbc.com/post/3mabuiwxgsb2n)
+
+---
+
+@usatoday.com
+
+The John F. Kennedy Center for the Performing Arts in Washington is now called the the "Trump-Kennedy Center," according to the White House. bit.ly/3MPJh3u
+
+[2025-12-19 04:03:23](https://bsky.app/profile/usatoday.com/post/3mabuirbndu2w)
+
+---
+
+@japan.reuters.com
+
+ベラルーシのルカシェンコ大統領は、米国との関係修復に向けた主要合意に近づいているとし、関係改善がトランプ米大統領との首脳会談につながることを期待していると述べた。一方、ロシアとの緊密な関係を放棄するつもりはないとも明言した。 bit.ly/4qeNYCe
+
+[2025-12-19 04:01:48](https://bsky.app/profile/japan.reuters.com/post/3mabufwjfnf2n)
 
 ---
 
 @nbcnews.com
 
-The Democratic National Committee won't release its completed postmortem of the 2024 election, a DNC official confirms.
+The White House installs plaques mocking former presidents in what is being dubbed the "Presidential Walk of Fame."
 
-[2025-12-19 03:40:13](https://bsky.app/profile/nbcnews.com/post/3mabt7cz5kh26)
-
----
-
-@financialtimes.com
-
-Lobbyists have occasionally been hired to seek pardons under previous US administrations. But the efforts were less widespread than during Trump’s second term, where seeking pardon has become 'a rational thing' for convicted criminals and those fighting those charges. ft.trib.al/0jG7CKk
-
-[2025-12-19 03:40:09](https://bsky.app/profile/financialtimes.com/post/3mabt77hcwn2o)
+[2025-12-19 04:01:20](https://bsky.app/profile/nbcnews.com/post/3mabuf45agf2k)
 
 ---
 
-@nytimes.com
+@usatoday.com
 
-While Rob Reiner’s 1994 film “North” was the first major misstep in his directorial career, it also revealed his sense of humor about criticism of his own work.
+Jake-Paul's fiancée Jutta Leerdam, 26, is an accomplished speed skater from The Netherlands who won a silver medal at the 2022 Olympics in Beijing.
 
-[2025-12-19 03:40:04](https://bsky.app/profile/nytimes.com/post/3mabt72vvzo2x)
+[2025-12-19 04:01:11](https://bsky.app/profile/usatoday.com/post/3mabuetddlw25)
+
+---
+
+@cnn.com
+
+The cavalry is not coming to save the Affordable Care Act’s enhanced premium subsidies before they lapse at year’s end: https://cnn.it/44yjVxa
+
+[2025-12-19 04:01:02](https://bsky.app/profile/cnn.com/post/3mabuekn3se2a)
+
+---
+
+@axios.com
+
+<strong><span style="color: red;">JUST IN:</span> Trump weighs declaring Christmas Eve, Dec. 26 as federal holidays</strong>
+
+[2025-12-19 04:00:47](https://bsky.app/profile/axios.com/post/3mabue3yels2b)
 
 ---
 
