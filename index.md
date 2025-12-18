@@ -1,9 +1,9 @@
-# [2025-12-18 22:30 updated](2025_12_18.md)
+# [2025-12-18 22:50 updated](2025_12_18.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">ドイツ政府は来年、投資資金を調達するため、過去最大となる約５１２０億ユーロ（約６０００億ドル）の連邦証券を金融市場で発行する。 bit.ly/4qm8VLT <a href="https://bsky.app/profile/japan.reuters.com/post/3mabbm6bi6p2q" target="_blank">japan.reuters.com</a> (2025-12-18 22:25:16)</span><span style="padding-right:50px;">Gabon plans new housing tax to help tackle rising debt reut.rs/3Yya3zV <a href="https://bsky.app/profile/reuters.com/post/3mabbm37prs2b" target="_blank">reuters.com</a> (2025-12-18 22:25:13)</span><span style="padding-right:50px;">President Trump defended his handling of the economy and announced a $1,776 “warrior dividend” check for active duty servicemembers that he said would be paid for with tariff revenue. <a href="https://bsky.app/profile/wsj.com/post/3mabbizrk332t" target="_blank">wsj.com</a> (2025-12-18 22:23:31)</span><span style="padding-right:50px;">NEW: Trump's media company to merge with nuclear fusion startup TAE <a href="https://bsky.app/profile/axios.com/post/3mabbh5gijs2f" target="_blank">axios.com</a> (2025-12-18 22:22:28)</span><span style="padding-right:50px;">Rivian CEO on self-driving, designing AI chips, and why Tesla needs more competition <a href="https://bsky.app/profile/yahoofinance.com/post/3mabbf3is332q" target="_blank">yahoofinance.com</a> (2025-12-18 22:21:19)</span>
+<span style="padding-right:50px;">U.S. applications for unemployment benefits fell by 13,000 last week, remaining in the same historically healthy range of the past few years even as concerns grow about the health of the labor market. <a href="https://bsky.app/profile/apnews.com/post/3mabcwg74ld24" target="_blank">apnews.com</a> (2025-12-18 22:48:54)</span><span style="padding-right:50px;">スポーツ界の違法賭博対策や経済的活性化を考えるシンポジウム https://news.web.nhk/newsweb/na/na-k10015007981000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mabcuxpkqn2y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 22:48:03)</span><span style="padding-right:50px;">November consumer prices rose at a 2.7% annual rate, lower than expected, delayed data shows <a href="https://bsky.app/profile/cnbc.com/post/3mabcsmyusr2n" target="_blank">cnbc.com</a> (2025-12-18 22:46:47)</span><span style="padding-right:50px;">Lyon roars on return to Ashes stage in Adelaide reut.rs/3N6oqsM <a href="https://bsky.app/profile/reuters.com/post/3mabcpy6hyp2i" target="_blank">reuters.com</a> (2025-12-18 22:45:18)</span><span style="padding-right:50px;">証券口座乗っ取り 相場操縦容疑の社長 “知人から言われ便乗” https://news.web.nhk/newsweb/na/na-k10015007751000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mabcpl7e6a2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 22:45:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.43 (🔻0.16 : 2025-12-18)</span>
+<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.49 (🔻0.11 : 2025-12-18)</span>
   </div>
 </div>
 
@@ -32,97 +32,99 @@
 
 ## News Headlines
 
-Here are six news headlines in English:
+Here are six important stories with headlines in English:
 
-1. Germany to Issue Record-Breaking 51.2 Billion Euro Bond to Raise Investment Funds
-2. Trump Announces Warrior Dividend Check for Active Duty Servicemembers
-3. Trump's Media Company to Merge with Nuclear Fusion Startup TAE
-4. DR Congo M23 Rebels Begin Pulling Out from Uvira, Leaders Say
-5. China Tightens Steel Export Controls, Approves Rare Earths Export Licenses
-6. Micron Gets Upgrade from Bank of America After Blowout Quarter and Guidance
+1. US Inflation Slows to 2.7% in November, Lower Than Expected
+2. Bondi Beach Terror Attack Suspects Spent Weeks in Philippines Hotel Before Attack
+3. North Korea Sees Record-Breaking Year for Cryptocurrency Heists
+4. Over 1,000 Civilians Killed in Sudan's Darfur Amid Paramilitary Group's Seizure of Camp
+5. Trump's Media Company to Merge with Nuclear Fusion Startup TAE Technologies
+6. US Military Spending Bill Raises Questions About Trump's Involvement
 
 ----
 
-@japan.reuters.com
+@apnews.com
 
-ドイツ政府は来年、投資資金を調達するため、過去最大となる約５１２０億ユーロ（約６０００億ドル）の連邦証券を金融市場で発行する。 bit.ly/4qm8VLT
+U.S. applications for unemployment benefits fell by 13,000 last week, remaining in the same historically healthy range of the past few years even as concerns grow about the health of the labor market.
 
-[2025-12-18 22:25:16](https://bsky.app/profile/japan.reuters.com/post/3mabbm6bi6p2q)
+[2025-12-18 22:48:54](https://bsky.app/profile/apnews.com/post/3mabcwg74ld24)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+スポーツ界の違法賭博対策や経済的活性化を考えるシンポジウム
+https://news.web.nhk/newsweb/na/na-k10015007981000
+
+[2025-12-18 22:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mabcuxpkqn2y)
+
+---
+
+@cnbc.com
+
+November consumer prices rose at a 2.7% annual rate, lower than expected, delayed data shows
+
+[2025-12-18 22:46:47](https://bsky.app/profile/cnbc.com/post/3mabcsmyusr2n)
 
 ---
 
 @reuters.com
 
-Gabon plans new housing tax to help tackle rising debt reut.rs/3Yya3zV
+Lyon roars on return to Ashes stage in Adelaide reut.rs/3N6oqsM
 
-[2025-12-18 22:25:13](https://bsky.app/profile/reuters.com/post/3mabbm37prs2b)
-
----
-
-@wsj.com
-
-President Trump defended his handling of the economy and announced a $1,776 “warrior dividend” check for active duty servicemembers that he said would be paid for with tariff revenue.
-
-[2025-12-18 22:23:31](https://bsky.app/profile/wsj.com/post/3mabbizrk332t)
+[2025-12-18 22:45:18](https://bsky.app/profile/reuters.com/post/3mabcpy6hyp2i)
 
 ---
 
-@axios.com
+@nhknewsunofficial.bsky.social
 
-NEW: Trump's media company to merge with nuclear fusion startup TAE
+証券口座乗っ取り 相場操縦容疑の社長 “知人から言われ便乗”
+https://news.web.nhk/newsweb/na/na-k10015007751000
 
-[2025-12-18 22:22:28](https://bsky.app/profile/axios.com/post/3mabbh5gijs2f)
-
----
-
-@yahoofinance.com
-
-Rivian CEO on self-driving, designing AI chips, and why Tesla needs more competition
-
-[2025-12-18 22:21:19](https://bsky.app/profile/yahoofinance.com/post/3mabbf3is332q)
+[2025-12-18 22:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mabcpl7e6a2v)
 
 ---
 
-@financialtimes.com
+@cbsnews.com
 
-ECB holds interest rates at 2% ft.trib.al/Xxrm05O
+The father and son suspects in the Bondi Beach terror attack spent most of November in a hotel in the Philippines, but the reason for their visit remains unclear. 
 
-[2025-12-18 22:21:04](https://bsky.app/profile/financialtimes.com/post/3mabbenae4c25)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-DR Congo conflict: M23 rebels begin pulling out from Uvira, its leaders say
-
-[2025-12-18 22:20:43](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mabbdzl6ch27)
+[2025-12-18 22:45:01](https://bsky.app/profile/cbsnews.com/post/3mabcphqnd32q)
 
 ---
 
-@japan.reuters.com
+@cnbc.com
 
-中国商務省は１８日、来年からの鉄鋼製品約３００品目に対する輸出許可制について、鉄鋼輸出をより厳密に監視することを可能にし、世界貿易機関（ＷＴＯ）のルールに沿ったものだと述べた。 bit.ly/4pcL5kQ
+Here are Thursday's biggest analyst calls: Nvidia, Apple, Tesla, Micron, Disney, Rivian, GE Vernova & more
 
-[2025-12-18 22:20:31](https://bsky.app/profile/japan.reuters.com/post/3mabbdois7n2n)
-
----
-
-@nbcnews.com
-
-The search for a person of interest in the Brown shooting is intensifying in Providence, Rhode Island, as authorities release a new image of an individual they say could have relevant information to the investigation.
-
-[2025-12-18 22:20:17](https://bsky.app/profile/nbcnews.com/post/3mabbdaftkz23)
+[2025-12-18 22:44:22](https://bsky.app/profile/cnbc.com/post/3mabcocernv2e)
 
 ---
 
 @sokuho.news
 
-🛎️JNNより【速報】です。
+🔔ANNより【速報】です。
 
-【速報】若林区で81歳女性はねて逃走したとして市内の48歳男がひき逃げなどの疑いで逮捕 仙台
-(2025-12-18 22:11:00) #ニュース
+【速報】アメリカの11月の消費者物価指数 前年同月比で2.7%上昇
+(2025年12月18日 22:43) #ニュース
 
-[2025-12-18 22:19:49](https://bsky.app/profile/sokuho.news/post/3mabbcfqptl2v)
+[2025-12-18 22:43:59](https://bsky.app/profile/sokuho.news/post/3mabcnmhlon2y)
+
+---
+
+@cbsnews.com
+
+<strong><span style="color: red;">BREAKING:</span> Inflation rose at an annual rate of 2.7% in November, cooler than economists had forecast, new data shows.  </strong>
+
+[2025-12-18 22:43:20](https://bsky.app/profile/cbsnews.com/post/3mabcmhu6432y)
+
+---
+
+@cnbc.com
+
+Putin ally tells CNBC using frozen Russian assets is a 'dead end'
+
+[2025-12-18 22:43:12](https://bsky.app/profile/cnbc.com/post/3mabcmafxf224)
 
 ---
 
