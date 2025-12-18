@@ -1,9 +1,9 @@
-# [2025-12-19 08:30 updated](2025_12_19.md)
+# [2025-12-19 08:50 updated](2025_12_19.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">欧州連合（ＥＵ）は１８日、首脳会議を開き、凍結しているロシア資産を裏付けとしてウクライナへの融資を実行する計画を巡り、意見の相違克服に取り組んだ。 bit.ly/3MRWuJ4 <a href="https://bsky.app/profile/japan.reuters.com/post/3macd7gzayx22" target="_blank">japan.reuters.com</a> (2025-12-19 08:26:37)</span><span style="padding-right:50px;">NFL's Dallas Cowboys top Forbes' most valuable teams list reut.rs/4aZfvDn <a href="https://bsky.app/profile/reuters.com/post/3macd4zswk62y" target="_blank">reuters.com</a> (2025-12-19 08:25:16)</span><span style="padding-right:50px;">【随時更新】ロシア ウクライナに軍事侵攻（12月19日の動き） https://news.web.nhk/newsweb/na/na-k10014990661000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3macd2x4dhq22" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 08:24:03)</span><span style="padding-right:50px;">South Korea: President Lee's bid to fund hair loss treatment splits opinion <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3macczsprkg2y" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-19 08:23:27)</span><span style="padding-right:50px;">Police issue arrest warrant for suspect in Brown University attack, sources say <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maccxucxo625" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-19 08:22:21)</span>
+<span style="padding-right:50px;">11月の消費者物価指数 前年同月比3.0％上昇 https://news.web.nhk/newsweb/na/na-k10015008141000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maceft7ojk24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 08:48:02)</span><span style="padding-right:50px;">Sunali Khatun: 'We are not from Bangladesh, we are Indian. Why did they do this to us?'  <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3macefdacde2y" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-19 08:47:47)</span><span style="padding-right:50px;">🔔NHKより【速報 JUST IN】です。  11月の消費者物価指数 前年同月比3.0%上昇 (2025-12-19 08:45:38) #ニュース https://news.web.nhk/newsweb/na/na-k10015008141000 <a href="https://bsky.app/profile/sokuho.news/post/3macec6v7uh25" target="_blank">sokuho.news</a> (2025-12-19 08:46:02)</span><span style="padding-right:50px;">UPS company deploys AI to spot fakes amid surge in holiday returns reut.rs/3KI8jkC <a href="https://bsky.app/profile/reuters.com/post/3maceaxao6t2b" target="_blank">reuters.com</a> (2025-12-19 08:45:21)</span><span style="padding-right:50px;">Oscar Adaway III, one of two University of South Carolina athletes who were elbowed by a Texas Department of Public Safety trooper during a game at Texas A&M in November, has accused the trooper of assault in a criminal complaint. <a href="https://bsky.app/profile/washingtonpost.com/post/3maceahgped24" target="_blank">washingtonpost.com</a> (2025-12-19 08:45:04)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.56 (🔺0.03 : 2025-12-18)</span>
+<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.60 (🔺0.08 : 2025-12-18)</span>
   </div>
 </div>
 
@@ -32,104 +32,100 @@
 
 ## News Headlines
 
-Here are six important story headlines in English:
+Here are six important stories with headlines in English:
 
-1. EU Leaders Discuss Plan to Use Frozen Russian Assets to Fund Ukraine
-2. Trump Administration Duties to Hit New EU Wine Imports
-3. Seven Dead in Plane Crash Including Former NASCAR Driver Greg Biffle
-4. TikTok Sells US Business to American Investors to Avoid Ban
-5. China Dominates Renewable Energy Technology Production, Says Science Magazine
-6. US Senators Oppose Compass-Anywhere Brokerage Deal, Saying It Would Hurt Homebuyers
+1. Consumer Prices Rise 3% in November Amid Food and Fuel Price Increases
+2. EU Leaders Debate Using Frozen Russian Assets to Fund Ukraine
+3. TikTok Sells US Business to American Investors to Avoid Ban
+4. NFL's Dallas Cowboys Top Forbes' Most Valuable Teams List
+5. Donald Trump Signs Executive Order to Move Cannabis to Less Restrictive Category
+6. Seven Killed in Plane Crash Involving Former NASCAR Driver Greg Biffle
 
 ----
 
-@japan.reuters.com
+@nhknewsunofficial.bsky.social
 
-欧州連合（ＥＵ）は１８日、首脳会議を開き、凍結しているロシア資産を裏付けとしてウクライナへの融資を実行する計画を巡り、意見の相違克服に取り組んだ。 bit.ly/3MRWuJ4
+11月の消費者物価指数 前年同月比3.0％上昇
+https://news.web.nhk/newsweb/na/na-k10015008141000
 
-[2025-12-19 08:26:37](https://bsky.app/profile/japan.reuters.com/post/3macd7gzayx22)
+[2025-12-19 08:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maceft7ojk24)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Sunali Khatun: 'We are not from Bangladesh, we are Indian. Why did they do this to us?' 
+
+[2025-12-19 08:47:47](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3macefdacde2y)
+
+---
+
+@sokuho.news
+
+<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>11月の消費者物価指数 前年同月比3.0%上昇</strong><br><strong>(2025-12-19 08:45:38) #ニュース</strong><br><strong>https://news.web.nhk/newsweb/na/na-k10015008141000</strong>
+
+[2025-12-19 08:46:02](https://bsky.app/profile/sokuho.news/post/3macec6v7uh25)
 
 ---
 
 @reuters.com
 
-NFL's Dallas Cowboys top Forbes' most valuable teams list reut.rs/4aZfvDn
+UPS company deploys AI to spot fakes amid surge in holiday returns reut.rs/3KI8jkC
 
-[2025-12-19 08:25:16](https://bsky.app/profile/reuters.com/post/3macd4zswk62y)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【随時更新】ロシア ウクライナに軍事侵攻（12月19日の動き）
-https://news.web.nhk/newsweb/na/na-k10014990661000
-
-[2025-12-19 08:24:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3macd2x4dhq22)
+[2025-12-19 08:45:21](https://bsky.app/profile/reuters.com/post/3maceaxao6t2b)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@washingtonpost.com
 
-South Korea: President Lee's bid to fund hair loss treatment splits opinion
+Oscar Adaway III, one of two University of South Carolina athletes who were elbowed by a Texas Department of Public Safety trooper during a game at Texas A&M in November, has accused the trooper of assault in a criminal complaint.
 
-[2025-12-19 08:23:27](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3macczsprkg2y)
+[2025-12-19 08:45:04](https://bsky.app/profile/washingtonpost.com/post/3maceahgped24)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@en.afp.com
 
-Police issue arrest warrant for suspect in Brown University attack, sources say
+EU leaders were locked in late-night talks Thursday over whether to use frozen Russian central bank assets to fund Ukraine, after President Volodymyr Zelensky insisted they had the "moral" and legal right to make the move.
 
-[2025-12-19 08:22:21](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maccxucxo625)
+u.afp.com/S8JB
+
+[2025-12-19 08:45:02](https://bsky.app/profile/en.afp.com/post/3maceaer6ep2f)
+
+---
+
+@cnbc.com
+
+Consumer companies are getting stronger as tech stocks falter, Jim Cramer says
+
+[2025-12-19 08:43:16](https://bsky.app/profile/cnbc.com/post/3mace5a4ng224)
+
+---
+
+@reuters.com
+
+EU-Mercosur trade deal signing delayed as Italy seeks more time reut.rs/4s45zi7
+
+[2025-12-19 08:40:25](https://bsky.app/profile/reuters.com/post/3macdy5iity2i)
+
+---
+
+@sokuho.news
+
+🔔ANNより【速報】です。
+
+【速報】11月の消費者物価指数 前年同月比3.0%上昇 食料品など物価高続く
+(2025年12月19日 08:40) #ニュース
+
+[2025-12-19 08:40:22](https://bsky.app/profile/sokuho.news/post/3macdy2n5xj27)
 
 ---
 
 @nbcnews.com
 
-The National Women’s Soccer League Player's Association rejects a proposal from the league's board that would have allowed teams to circumvent salary cap restrictions, it says.
+TikTok CEO Shou Chew tells employees of the social media app that its owner, China’s ByteDance, has signed binding agreements to create a new joint venture for the app in the U.S., as previously agreed in a deal with the Trump administration.
 
-[2025-12-19 08:20:33](https://bsky.app/profile/nbcnews.com/post/3maccumahzm2u)
-
----
-
-@japan.reuters.com
-
-中国系動画投稿アプリ「ＴｉｋＴｏｋ（ティックトック）」が米投資家主導の企業連合に米国事業を売却する契約を締結したことが分かった。ＴｉｋＴｏｋ最高経営責任者（ＣＥＯ）のメモをロイターが確認した。 bit.ly/48UZzkt
-
-[2025-12-19 08:20:32](https://bsky.app/profile/japan.reuters.com/post/3macculg4bw2q)
-
----
-
-@yahoonews.com
-
-TikTok has signed a deal to sell its U.S. business to three American investors — Oracle, Silver Lake and MGX — ensuring the popular social video platform can continue operating in the United States. yhoo.it/44zvuEi
-
-[2025-12-19 08:18:08](https://bsky.app/profile/yahoonews.com/post/3maccqbkc7b2o)
-
----
-
-@reuters.com
-
-Seven people were killed in the crash of a Cessna 550 business jet in Statesville, North Carolina, including former NASCAR driver Greg Biffle, NASCAR said reut.rs/4p4hBW7
-
-[2025-12-19 08:18:04](https://bsky.app/profile/reuters.com/post/3maccq67fdc2a)
-
----
-
-@nikkei.com
-
-2025年最大の科学成果に「再生可能エネルギーの普及」　米サイエンス誌が選出（無料記事）
-www.nikkei.com/article/DGXZQO...
-
-再生エネによる発電量が初めて石炭火力を上回るなど、気候変動対策の転換点となる可能性が評価されました。
-
-サイエンス誌は中国が再生エネの利用増加を主導したと言及。
-
-同国が世界の太陽電池の80%、風力タービンの70%を供給するなど「再生エネ技術関連の生産を支配している」と説明しました。
-
-#ニュース
-
-[2025-12-19 08:16:40](https://bsky.app/profile/nikkei.com/post/3maccnnytfi2f)
+[2025-12-19 08:40:14](https://bsky.app/profile/nbcnews.com/post/3macdxs67hc2q)
 
 ---
 
