@@ -1,9 +1,9 @@
-# [2025-12-18 23:30 updated](2025_12_18.md)
+# [2025-12-18 23:50 updated](2025_12_18.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Traders see Fed on hold next month, but increase bets of March cut after CPI data <a href="https://bsky.app/profile/cnbc.com/post/3mabf2qejtc2g" target="_blank">cnbc.com</a> (2025-12-18 23:27:06)</span><span style="padding-right:50px;">ヨーロッパ中央銀行 4会合連続 主要な政策金利据え置きを決定 https://news.web.nhk/newsweb/na/na-k10015008011000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mabf2ofmfb2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 23:27:02)</span><span style="padding-right:50px;">Peter Arnett, Pulitzer-winning war reporter, dies aged 91 <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mabf2feedd2s" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-18 23:26:54)</span><span style="padding-right:50px;">"Things That Matter," a series of planned town halls and debates sponsored by Bank of America, will launch early next year. <a href="https://bsky.app/profile/cbsnews.com/post/3mabezjjnjj2l" target="_blank">cbsnews.com</a> (2025-12-18 23:26:26)</span><span style="padding-right:50px;">Trump to announce Medicare pilot program to pay for CBD treatments, report says reut.rs/45hUkc2 <a href="https://bsky.app/profile/reuters.com/post/3mabexdwkch2c" target="_blank">reuters.com</a> (2025-12-18 23:25:13)</span>
+<span style="padding-right:50px;">Austria's top court rules Meta's ad model illegal, orders overhaul of user data practices in EU reut.rs/4anP4ao <a href="https://bsky.app/profile/reuters.com/post/3mabg3a7flw23" target="_blank">reuters.com</a> (2025-12-18 23:45:17)</span><span style="padding-right:50px;">2026 will bring a new Fed Chair, a Supreme Court showdown, and maybe a more partisan central bank. More on today's Reuters Econ World podcast reut.rs/4pEStGr <a href="https://bsky.app/profile/reuters.com/post/3mabfujfel22u" target="_blank">reuters.com</a> (2025-12-18 23:41:32)</span><span style="padding-right:50px;">Why Canada's hottest shale play is catching the eye of US producers reut.rs/4pKECi5 <a href="https://bsky.app/profile/reuters.com/post/3mabfsgdlib2o" target="_blank">reuters.com</a> (2025-12-18 23:40:21)</span><span style="padding-right:50px;">Matilda, described by her school teachers as “our little ray of sunshine,” was enjoying a petting zoo at the festivities on Sunday just before she was killed along with 14 other people. <a href="https://bsky.app/profile/nbcnews.com/post/3mabfs5goal23" target="_blank">nbcnews.com</a> (2025-12-18 23:40:12)</span><span style="padding-right:50px;">U.S. inflation unexpectedly slowed in November, rising 2.7% from a year ago, in a report likely distorted by the government shutdown. <a href="https://bsky.app/profile/nytimes.com/post/3mabfrxulwz2x" target="_blank">nytimes.com</a> (2025-12-18 23:40:06)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 48163.86 (🔺62.68 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 174.40 (🔻0.13 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.39 (🔻0.21 : 2025-12-18)</span>
+<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 48073.49 (🔻27.69 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 22930.26 (🔻81.80 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 172.83 (🔻1.70 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.32 (🔻0.27 : 2025-12-18)</span>
   </div>
 </div>
 
@@ -32,96 +32,94 @@
 
 ## News Headlines
 
-Here are six news headlines in English:
+Here are six headlines in English:
 
-1. Traders See Fed Holding Interest Rates Next Month
-2. Europe's Central Bank Keeps Interest Rates Steady for 4th Straight Meeting
-3. US Consumer Prices Rise 2.7% in November
-4. Trump Announces $10 Billion Arms Deal with Taiwan Amid China's Disapproval
-5. Polish Constitutional Tribunal Found to Have Violated EU Law
-6. US Housing Market: Trump's Plan to Release Fannie Mae and Freddie Mac from Government Control Faces Delays
+1. EU Court Rules Meta's Ad Model Illegal, Orders Overhaul of User Data Practices
+2. US Inflation Slows to 2.7% in November, Defying Market Expectations
+3. Google and Nvidia Back Vibe Coding Startup Lovable at $6.6 Billion Valuation
+4. New Czech Government Considers Several Options for CEZ Buyout
+5. US Government Accepts Fault for Midair Collision, Offers Damages to Families
+6. Pope Names New Archbishop of New York Amid US Immigration Controversy
 
 ----
 
-@cnbc.com
+@reuters.com
 
-Traders see Fed on hold next month, but increase bets of March cut after CPI data
+Austria's top court rules Meta's ad model illegal, orders overhaul of user data practices in EU reut.rs/4anP4ao
 
-[2025-12-18 23:27:06](https://bsky.app/profile/cnbc.com/post/3mabf2qejtc2g)
-
----
-
-@nhknewsunofficial.bsky.social
-
-ヨーロッパ中央銀行 4会合連続 主要な政策金利据え置きを決定
-https://news.web.nhk/newsweb/na/na-k10015008011000
-
-[2025-12-18 23:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mabf2ofmfb2b)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Peter Arnett, Pulitzer-winning war reporter, dies aged 91
-
-[2025-12-18 23:26:54](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mabf2feedd2s)
-
----
-
-@cbsnews.com
-
-"Things That Matter," a series of planned town halls and debates sponsored by Bank of America, will launch early next year.
-
-[2025-12-18 23:26:26](https://bsky.app/profile/cbsnews.com/post/3mabezjjnjj2l)
+[2025-12-18 23:45:17](https://bsky.app/profile/reuters.com/post/3mabg3a7flw23)
 
 ---
 
 @reuters.com
 
-Trump to announce Medicare pilot program to pay for CBD treatments, report says reut.rs/45hUkc2
+2026 will bring a new Fed Chair, a Supreme Court showdown, and maybe a more partisan central bank. More on today's Reuters Econ World podcast reut.rs/4pEStGr
 
-[2025-12-18 23:25:13](https://bsky.app/profile/reuters.com/post/3mabexdwkch2c)
-
----
-
-@wsj.com
-
-The U.S. government accepted fault for a midair collision earlier this year that killed 67 people near Washington, D.C., saying it is willing to pay damages in connection with the incident.
-
-[2025-12-18 23:25:04](https://bsky.app/profile/wsj.com/post/3mabex3s2ym2t)
+[2025-12-18 23:41:32](https://bsky.app/profile/reuters.com/post/3mabfujfel22u)
 
 ---
 
-@cnbc.com
+@reuters.com
 
-Micron stock pops 14% as AI memory demand soars: 'We are more than sold out'
+Why Canada's hottest shale play is catching the eye of US producers reut.rs/4pKECi5
 
-[2025-12-18 23:24:34](https://bsky.app/profile/cnbc.com/post/3mabew7fmqu2b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-米 11月の消費者物価指数 前年同月比2.7％上昇
-https://news.web.nhk/newsweb/na/na-k10015008021000
-
-[2025-12-18 23:24:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mabevdl6fl22)
-
----
-
-@wsj.com
-
-Years after Islamic State’s caliphate collapsed, the group continues to inspire lone-wolf attacks such as the one on Sydney’s Bondi Beach.
-
-[2025-12-18 23:22:03](https://bsky.app/profile/wsj.com/post/3maberphicb2i)
+[2025-12-18 23:40:21](https://bsky.app/profile/reuters.com/post/3mabfsgdlib2o)
 
 ---
 
 @nbcnews.com
 
-Pope Leo XIV makes his most important U.S. appointment to date, naming a fellow Chicagoan as the next archbishop of New York to lead one of the biggest U.S. archdioceses as it navigates relations with the Trump administration and its immigration crackdown.
+Matilda, described by her school teachers as “our little ray of sunshine,” was enjoying a petting zoo at the festivities on Sunday just before she was killed along with 14 other people.
 
-[2025-12-18 23:20:11](https://bsky.app/profile/nbcnews.com/post/3mabeoe3ymn23)
+[2025-12-18 23:40:12](https://bsky.app/profile/nbcnews.com/post/3mabfs5goal23)
+
+---
+
+@nytimes.com
+
+U.S. inflation unexpectedly slowed in November, rising 2.7% from a year ago, in a report likely distorted by the government shutdown.
+
+[2025-12-18 23:40:06](https://bsky.app/profile/nytimes.com/post/3mabfrxulwz2x)
+
+---
+
+@cbsnews.com
+
+The White House says encampment sweeps have enhanced the capital, but city leaders estimate nearly 700 homeless people roam by day and bed down outdoors by night. 
+
+[2025-12-18 23:40:01](https://bsky.app/profile/cbsnews.com/post/3mabfrsvqs62g)
+
+---
+
+@japan.reuters.com
+
+欧州中央銀行（ＥＣＢ）は１８日に開いた理事会に合わせて発表した最新の経済見通しで、成長率とインフレ率の一部見通しを上方修正した。 bit.ly/4anEGiN
+
+[2025-12-18 23:38:45](https://bsky.app/profile/japan.reuters.com/post/3mabfpkahov2u)
+
+---
+
+@reuters.com
+
+New Czech government looking at several CEZ buyout options, minister says reut.rs/3Y1ODv6
+
+[2025-12-18 23:35:14](https://bsky.app/profile/reuters.com/post/3mabfjbrtit2i)
+
+---
+
+@cnbc.com
+
+Google and Nvidia VC arms back vibe coding startup Lovable at $6.6 billion valuation
+
+[2025-12-18 23:35:06](https://bsky.app/profile/cnbc.com/post/3mabfizkmjj24)
+
+---
+
+@wsj.com
+
+Exclusive: Boatsetter and GetMyBoat, online platforms that allow users to rent boats from other users, have signed a deal to combine.
+
+[2025-12-18 23:34:05](https://bsky.app/profile/wsj.com/post/3mabfh7haxh2o)
 
 ---
 
