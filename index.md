@@ -1,9 +1,9 @@
-# [2025-12-19 04:30 updated](2025_12_19.md)
+# [2025-12-19 04:50 updated](2025_12_19.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">ロンドン株式市場は続伸して取引を終えた。イングランド銀行（英中央銀行）が利下げを決めたことが好感された。米インフレ率が予想を下回り、米利下げ観測が強まったことも投資家心理を押し上げた。中型株で構成するＦＴＳＥ２５０種指数は０．７３％高。 bit.ly/4sk8eoa <a href="https://bsky.app/profile/japan.reuters.com/post/3mabvsjq7ai2q" target="_blank">japan.reuters.com</a> (2025-12-19 04:26:45)</span><span style="padding-right:50px;">Breaking: The John F. Kennedy Center for the Performing Arts in Washington is now known as the "Trump-Kennedy Center," according to the White House. bit.ly/4apuoPo <a href="https://bsky.app/profile/usatoday.com/post/3mabvr6nbl52f" target="_blank">usatoday.com</a> (2025-12-19 04:25:59)</span><span style="padding-right:50px;">Trust these numbers? Economists see a lot of flaws in delayed CPI report showing downward inflation <a href="https://bsky.app/profile/cnbc.com/post/3mabvq6x4l62y" target="_blank">cnbc.com</a> (2025-12-19 04:25:26)</span><span style="padding-right:50px;">Carney plays down chances of Canada-US trade deals in key sectors reut.rs/4pOx2D5 <a href="https://bsky.app/profile/reuters.com/post/3mabvpw26no24" target="_blank">reuters.com</a> (2025-12-19 04:25:17)</span><span style="padding-right:50px;">BREAKING: Trump signs order to reclassify marijuana as a less dangerous drug, a move that could ease regulation and boost research. <a href="https://bsky.app/profile/apnews.com/post/3mabvkisbkn2p" target="_blank">apnews.com</a> (2025-12-19 04:22:15)</span>
+<span style="padding-right:50px;">US judge rejects LinkedIn antitrust settlement, citing ‘serious problems’ reut.rs/4p0ywJ6 <a href="https://bsky.app/profile/reuters.com/post/3mabwtphroy2c" target="_blank">reuters.com</a> (2025-12-19 04:45:18)</span><span style="padding-right:50px;">After three weeks of testimony, a judge will now rule on whether evidence found in Mangione's backpack can be used in his state trial for the murder of UnitedHealthcare CEO Brian Thompson. n.pr/3LbhytD <a href="https://bsky.app/profile/npr.org/post/3mabwq2muxs2b" target="_blank">npr.org</a> (2025-12-19 04:43:15)</span><span style="padding-right:50px;">Trump withdrew Isaacman's nomination in May, citing the billionaire's donations to Democrats and ties to Elon Musk. He was renominated last month and confirmed by a 67-30 Senate vote on Wednesday. n.pr/49jrDOk <a href="https://bsky.app/profile/npr.org/post/3mabwplqhfa24" target="_blank">npr.org</a> (2025-12-19 04:43:00)</span><span style="padding-right:50px;">President Trump is escalating pressure on Venezuela—but also keeping his intentions uncertain. <a href="https://bsky.app/profile/wsj.com/post/3mabwnw2tmx2g" target="_blank">wsj.com</a> (2025-12-19 04:42:03)</span><span style="padding-right:50px;">US House Democrats on Thursday published a fresh batch of photographs from Jeffrey Epstein's estate, stepping up pressure on Donald Trump's administration on the eve of its deadline to release federal files on the late financier and convicted sex offender. u.afp.com/S8JJ <a href="https://bsky.app/profile/en.afp.com/post/3mabwnvlceg2y" target="_blank">en.afp.com</a> (2025-12-19 04:42:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47994.36 (🔻106.82 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23018.25 (🔺6.19 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.46 (🔻0.07 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.59 (🔻0.01 : 2025-12-18)</span>
+<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 48000.82 (🔻100.36 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23009.29 (🔻2.77 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.43 (🔻0.10 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.50 (🔻0.09 : 2025-12-18)</span>
   </div>
 </div>
 
@@ -34,92 +34,93 @@
 
 Here are six important stories with headlines in English:
 
-1. London Stock Market Extends Rally as Interest Rate Cut Hopes Rise
-2. Trump Renames John F. Kennedy Center for the Performing Arts to Trump-Kennedy Center
-3. Economists Skeptical of Delayed US Inflation Report
-4. Trump Signs Executive Order to Reclassify Marijuana, Easing Regulations
-5. US Government Threatens to Pull Funding from Hospitals Offering Gender-Affirming Care to Minors
-6. EU Leaders to Propose Ukraine Reparations Loan Using Russia's Frozen Assets
+1. US Judge Rejects LinkedIn Antitrust Settlement
+2. Trump Renominates Isaacman to Federal Reserve Board
+3. Trump Escalates Pressure on Venezuela, but Leaves Intentions Unclear
+4. Democrats Call for Vote on Extending Affordable Care Act Tax Credits
+5. Trump Signs Executive Order Reclassifying Marijuana as Less Dangerous
+6. Trump Renames Kennedy Center for the Performing Arts to Trump-Kennedy Center
 
 ----
 
-@japan.reuters.com
+@reuters.com
 
-ロンドン株式市場は続伸して取引を終えた。イングランド銀行（英中央銀行）が利下げを決めたことが好感された。米インフレ率が予想を下回り、米利下げ観測が強まったことも投資家心理を押し上げた。中型株で構成するＦＴＳＥ２５０種指数は０．７３％高。 bit.ly/4sk8eoa
+US judge rejects LinkedIn antitrust settlement, citing ‘serious problems’ reut.rs/4p0ywJ6
 
-[2025-12-19 04:26:45](https://bsky.app/profile/japan.reuters.com/post/3mabvsjq7ai2q)
+[2025-12-19 04:45:18](https://bsky.app/profile/reuters.com/post/3mabwtphroy2c)
+
+---
+
+@npr.org
+
+After three weeks of testimony, a judge will now rule on whether evidence found in Mangione's backpack can be used in his state trial for the murder of UnitedHealthcare CEO Brian Thompson. n.pr/3LbhytD
+
+[2025-12-19 04:43:15](https://bsky.app/profile/npr.org/post/3mabwq2muxs2b)
+
+---
+
+@npr.org
+
+Trump withdrew Isaacman's nomination in May, citing the billionaire's donations to Democrats and ties to Elon Musk. He was renominated last month and confirmed by a 67-30 Senate vote on Wednesday. n.pr/49jrDOk
+
+[2025-12-19 04:43:00](https://bsky.app/profile/npr.org/post/3mabwplqhfa24)
+
+---
+
+@wsj.com
+
+President Trump is escalating pressure on Venezuela—but also keeping his intentions uncertain.
+
+[2025-12-19 04:42:03](https://bsky.app/profile/wsj.com/post/3mabwnw2tmx2g)
+
+---
+
+@en.afp.com
+
+US House Democrats on Thursday published a fresh batch of photographs from Jeffrey Epstein's estate, stepping up pressure on Donald Trump's administration on the eve of its deadline to release federal files on the late financier and convicted sex offender.
+u.afp.com/S8JJ
+
+[2025-12-19 04:42:02](https://bsky.app/profile/en.afp.com/post/3mabwnvlceg2y)
+
+---
+
+@financialtimes.com
+
+Trump family deal with fusion energy firm adds to complicated UK-US ties ft.trib.al/xfWKzLA
+
+[2025-12-19 04:42:02](https://bsky.app/profile/financialtimes.com/post/3mabwnugefo2w)
 
 ---
 
 @usatoday.com
 
-<strong><span style="color: red;">Breaking:</span> The John F. Kennedy Center for the Performing Arts in Washington is now known as the "Trump-Kennedy Center," according to the White House. bit.ly/4apuoPo</strong>
+<strong><span style="color: red;">BREAKING:</span> President Donald Trump signed an executive order Dec. 18 to federally classify marijuana as a less dangerous substance, the biggest change for the drug since 1970 and an opportunity for the industry to operate more easily.</strong><br><strong></strong><br><strong>Read more at: bit.ly/492osJw</strong>
 
-[2025-12-19 04:25:59](https://bsky.app/profile/usatoday.com/post/3mabvr6nbl52f)
-
----
-
-@cnbc.com
-
-Trust these numbers? Economists see a lot of flaws in delayed CPI report showing downward inflation
-
-[2025-12-19 04:25:26](https://bsky.app/profile/cnbc.com/post/3mabvq6x4l62y)
-
----
-
-@reuters.com
-
-Carney plays down chances of Canada-US trade deals in key sectors reut.rs/4pOx2D5
-
-[2025-12-19 04:25:17](https://bsky.app/profile/reuters.com/post/3mabvpw26no24)
-
----
-
-@apnews.com
-
-<strong><span style="color: red;">BREAKING:</span> Trump signs order to reclassify marijuana as a less dangerous drug, a move that could ease regulation and boost research.</strong>
-
-[2025-12-19 04:22:15](https://bsky.app/profile/apnews.com/post/3mabvkisbkn2p)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Bondi attack: The acts of bravery as horror unfolded
-
-[2025-12-19 04:22:09](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mabvkdzn7t2z)
-
----
-
-@japan.reuters.com
-
-米労働省の労働統計局（ＢＬＳ）が１８日発表した１１月の消費者物価指数（ＣＰＩ）は、前年比２．７％で、市場予想を下回った。ロイターが調査したエコノミスト予想は３．１％上昇だった。 bit.ly/3LalxGT
-
-[2025-12-19 04:20:50](https://bsky.app/profile/japan.reuters.com/post/3mabvhxswxy27)
-
----
-
-@bloomberg.com
-
-Bloomberg News Now is a comprehensive audio report of today's top stories. Hear the latest news, updated throughout the day, covering global business stories in just a few minutes.
-
-[2025-12-19 04:20:29](https://bsky.app/profile/bloomberg.com/post/3mabvhdcshz2g)
+[2025-12-19 04:41:17](https://bsky.app/profile/usatoday.com/post/3mabwmjf6ra2z)
 
 ---
 
 @nbcnews.com
 
-The father and son, who authorities say were inspired by ISIS, spent nearly a month holed up in a budget hotel in an area of the country that has been seen as a hot spot for extremism.
+Kristin Cabot, the woman seen embracing her boss on a “kiss cam” at a Coldplay concert in July, is speaking out for the first time about the fallout from the moment and how it affected her family.
 
-[2025-12-19 04:20:15](https://bsky.app/profile/nbcnews.com/post/3mabvgvykle2q)
+[2025-12-19 04:40:48](https://bsky.app/profile/nbcnews.com/post/3mabwlntmbn23)
 
 ---
 
-@cbsnews.com
+@japan.reuters.com
 
-The Kennedy Center's Board of Trustees voted to rename the performing arts institution the Trump-Kennedy Center, White House press secretary Karoline Leavitt said Thursday.
+米労働省が１８日発表した１２月１３日までの１週間の新規失業保険申請件数（季節調整済み）は１万３０００件減少し、２２万４０００件となった。ロイターがまとめたエコノミスト予想は２２万５０００件だった。 bit.ly/3XZoXiD
 
-[2025-12-19 04:20:01](https://bsky.app/profile/cbsnews.com/post/3mabvgikyln2a)
+[2025-12-19 04:40:36](https://bsky.app/profile/japan.reuters.com/post/3mabwlcwqof2n)
+
+---
+
+@reuters.com
+
+Most Gulf stock markets rise as oil prices hold steady reut.rs/3MRAXjI
+
+[2025-12-19 04:40:32](https://bsky.app/profile/reuters.com/post/3mabwl7e37i2c)
 
 ---
 
