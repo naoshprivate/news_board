@@ -1,9 +1,9 @@
-# [2025-12-18 19:30 updated](2025_12_18.md)
+# [2025-12-18 19:50 updated](2025_12_18.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">日野自動車は１８日、連結子会社の東北北海道日野自動車、北海道日野自動車、宮城日野自動車、福島日野自動車、南関東日野自動車の株式の８０％を台湾の和泰汽車 に譲渡すると発表した。譲渡価格は合計で約２７０億円。また、静岡日野自動車の株式の８８．５％を愛知日野自動車に譲渡する。 bit.ly/49hDE6V <a href="https://bsky.app/profile/japan.reuters.com/post/3maaxpvyrgd2v" target="_blank">japan.reuters.com</a> (2025-12-18 19:28:25)</span><span style="padding-right:50px;">文科相 能登半島地震の被災地訪問“教育関係施設 復旧に全力” https://news.web.nhk/newsweb/na/na-k10015007711000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maaxnk6xxf2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 19:27:03)</span><span style="padding-right:50px;">トランプ米大統領は１７日、ホワイトハウスで国民に向けて演説し、第２次政権発足以降の実績を強調した。共和党が来年の中間選挙で厳しい戦いを強いられる見通しとなる中、民主党のバイデン前政権が物価高騰を招いたと非難した。 bit.ly/4qAtN2b <a href="https://bsky.app/profile/japan.reuters.com/post/3maaxkm36xy2n" target="_blank">japan.reuters.com</a> (2025-12-18 19:25:26)</span><span style="padding-right:50px;">Trump says next Fed chair will believe in lower interest rates 'by a lot' reut.rs/3KGkBKh <a href="https://bsky.app/profile/reuters.com/post/3maaxkashkh2y" target="_blank">reuters.com</a> (2025-12-18 19:25:15)</span><span style="padding-right:50px;">Mass firings, buyouts and heightened uncertainty led to an exodus of federal workers in 2025. More than 300,000 employees will be out of the government by the end of December. n.pr/4p0qEr6 <a href="https://bsky.app/profile/npr.org/post/3maaxgrx3fm2e" target="_blank">npr.org</a> (2025-12-18 19:23:18)</span>
+<span style="padding-right:50px;">President Trump is standing by Susie Wiles despite a series of candid interviews that criticized administration officials. <a href="https://bsky.app/profile/wsj.com/post/3maays5gkh72z" target="_blank">wsj.com</a> (2025-12-18 19:47:33)</span><span style="padding-right:50px;">ドイツ連邦議会の予算委員会は１７日、今後数年間で５００億ユーロ（約５８６億ドル）を超える防衛契約を承認した。ドイツはロシアのウクライナ侵攻で軍事支出の拡大を迫られている。 bit.ly/4oWZy3Z <a href="https://bsky.app/profile/japan.reuters.com/post/3maayo6xjpy2n" target="_blank">japan.reuters.com</a> (2025-12-18 19:45:21)</span><span style="padding-right:50px;">【訪問お待ちしています】 日本経済新聞社、ロブロックスに「支局」　仮想空間をアバターで取材 www.nikkei.com/article/DGXZQO...   ロブロックスは世界最大級のゲームプラットフォーム。若者とともにエンタメから世界の課題まで幅広く考える場にします。   ロブロックスのアプリをダウンロード→検索窓に「ロブラボワールド」と入力→バーチャル空間に入ってください。空間内の一角に「NIKKEI」の建物があります。記者のアバターか、支局前にいる柴犬にチャットで話しかけてみてください！ <a href="https://bsky.app/profile/nikkei.com/post/3maayo2775t2c" target="_blank">nikkei.com</a> (2025-12-18 19:45:16)</span><span style="padding-right:50px;">Inquiry into deadly Optus emergency call outage found failures in firewall upgrade reut.rs/4oWZwZV <a href="https://bsky.app/profile/reuters.com/post/3maaynzdxyd2x" target="_blank">reuters.com</a> (2025-12-18 19:45:15)</span><span style="padding-right:50px;">政府 内閣官房参与に細川昌彦氏を起用 経済安全保障担当など https://news.web.nhk/newsweb/na/na-k10015007371000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maaynqgrii2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 19:45:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.95 (🔺0.35 : 2025-12-18)</span>
+<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.91 (🔺0.32 : 2025-12-18)</span>
   </div>
 </div>
 
@@ -32,100 +32,102 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are six news headlines:
 
-1. Toyota Subsidiaries Sold to Taiwanese Automaker for $2.7 Billion
-2. Japan's Education Minister Vows to Restore Schools and Educational Facilities After Earthquake
-3. Trump Emphasizes Achievements in Year-End Address to Nation
-4. Over 300,000 Federal Workers to Leave Government by End of 2025
-5. Kenya Mother's Plea for Son's Rare Disease Treatment Goes Viral
-6. DoorDash Partners with OpenAI to Launch Grocery-Shopping App
+1. President Trump Stands by Susie Wiles Amid Criticism
+2. Germany Approves €58.6 Billion Defense Deals Amid Ukraine-Russia Tensions
+3. Japan's Nikkei Newspaper Opens Virtual Branch in Roblox
+4. Inquiry into Deadly Optus Emergency Call Outage Reveals Firewall Upgrade Failures
+5. Finland's Prime Minister Apologizes for Racist Comments on Social Media
+6. Boeing and Union Pause Contract Talks for Former Spirit AeroSystems Engineers
 
 ----
 
-@japan.reuters.com
+@wsj.com
 
-日野自動車は１８日、連結子会社の東北北海道日野自動車、北海道日野自動車、宮城日野自動車、福島日野自動車、南関東日野自動車の株式の８０％を台湾の和泰汽車 に譲渡すると発表した。譲渡価格は合計で約２７０億円。また、静岡日野自動車の株式の８８．５％を愛知日野自動車に譲渡する。 bit.ly/49hDE6V
+President Trump is standing by Susie Wiles despite a series of candid interviews that criticized administration officials.
 
-[2025-12-18 19:28:25](https://bsky.app/profile/japan.reuters.com/post/3maaxpvyrgd2v)
-
----
-
-@nhknewsunofficial.bsky.social
-
-文科相 能登半島地震の被災地訪問“教育関係施設 復旧に全力”
-https://news.web.nhk/newsweb/na/na-k10015007711000
-
-[2025-12-18 19:27:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maaxnk6xxf2v)
+[2025-12-18 19:47:33](https://bsky.app/profile/wsj.com/post/3maays5gkh72z)
 
 ---
 
 @japan.reuters.com
 
-トランプ米大統領は１７日、ホワイトハウスで国民に向けて演説し、第２次政権発足以降の実績を強調した。共和党が来年の中間選挙で厳しい戦いを強いられる見通しとなる中、民主党のバイデン前政権が物価高騰を招いたと非難した。 bit.ly/4qAtN2b
+ドイツ連邦議会の予算委員会は１７日、今後数年間で５００億ユーロ（約５８６億ドル）を超える防衛契約を承認した。ドイツはロシアのウクライナ侵攻で軍事支出の拡大を迫られている。 bit.ly/4oWZy3Z
 
-[2025-12-18 19:25:26](https://bsky.app/profile/japan.reuters.com/post/3maaxkm36xy2n)
-
----
-
-@reuters.com
-
-Trump says next Fed chair will believe in lower interest rates 'by a lot' reut.rs/3KGkBKh
-
-[2025-12-18 19:25:15](https://bsky.app/profile/reuters.com/post/3maaxkashkh2y)
-
----
-
-@npr.org
-
-Mass firings, buyouts and heightened uncertainty led to an exodus of federal workers in 2025. More than 300,000 employees will be out of the government by the end of December. n.pr/4p0qEr6
-
-[2025-12-18 19:23:18](https://bsky.app/profile/npr.org/post/3maaxgrx3fm2e)
+[2025-12-18 19:45:21](https://bsky.app/profile/japan.reuters.com/post/3maayo6xjpy2n)
 
 ---
 
 @nikkei.com
 
-片山虎之助氏が死去、90歳　総務相や維新共同代表を歴任
+【訪問お待ちしています】
+日本経済新聞社、ロブロックスに「支局」　仮想空間をアバターで取材
 www.nikkei.com/article/DGXZQO...
+ 
+ロブロックスは世界最大級のゲームプラットフォーム。若者とともにエンタメから世界の課題まで幅広く考える場にします。
+ 
+ロブロックスのアプリをダウンロード→検索窓に「ロブラボワールド」と入力→バーチャル空間に入ってください。空間内の一角に「NIKKEI」の建物があります。記者のアバターか、支局前にいる柴犬にチャットで話しかけてみてください！
 
-#ニュース
+[2025-12-18 19:45:16](https://bsky.app/profile/nikkei.com/post/3maayo2775t2c)
 
-[2025-12-18 19:21:16](https://bsky.app/profile/nikkei.com/post/3maaxd5lfma2f)
+---
+
+@reuters.com
+
+Inquiry into deadly Optus emergency call outage found failures in firewall upgrade reut.rs/4oWZwZV
+
+[2025-12-18 19:45:15](https://bsky.app/profile/reuters.com/post/3maaynzdxyd2x)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-小泉防衛相と比国防相 中国軍レーダー照射問題に強い懸念共有
-https://news.web.nhk/newsweb/na/na-k10015007701000
+政府 内閣官房参与に細川昌彦氏を起用 経済安全保障担当など
+https://news.web.nhk/newsweb/na/na-k10015007371000
 
-[2025-12-18 19:21:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maaxcsi65l2b)
+[2025-12-18 19:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maaynqgrii2b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+日韓基本条約発効60年 高市首相 “両国の関係さらに深めたい”
+https://news.web.nhk/newsweb/na/na-k10015007721000
+
+[2025-12-18 19:42:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maayiemr7g26)
 
 ---
 
 @japan.reuters.com
 
-ケニアの牧畜民のヘレン・エティマンさんは、重度の栄養失調になった息子のピーター・ロコイエンちゃん（４）について、特別な栄養治療食の投与を始めればすぐに回復すると信じていた。 bit.ly/4qfbu24
+厳重に警備され深センの研究所で、中国の科学者たちが米政府が長年阻止しようとしてきたものを作り上げた。人工知能（ＡＩ）やスマートフォン、西側の軍事的優位性の中核となる兵器に不可欠な最先端の半導体チップを製造できる機械の試作機だ。 bit.ly/49j2tzi
 
-[2025-12-18 19:20:41](https://bsky.app/profile/japan.reuters.com/post/3maaxc3hnq62q)
-
----
-
-@nbcnews.com
-
-A camel kicked a woman during a Houston church’s Christmas performance, video shows.
-
-[2025-12-18 19:20:11](https://bsky.app/profile/nbcnews.com/post/3maaxb7bicq25)
+[2025-12-18 19:40:24](https://bsky.app/profile/japan.reuters.com/post/3maayfdqkxg2p)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@reuters.com
 
-“政府の気候変動対策は不十分” 全国の450人余が国を提訴
-https://news.web.nhk/newsweb/na/na-k10015007691000
+Gold steady ahead of key US inflation data; silver near record highs reut.rs/4qjZHQg
 
-[2025-12-18 19:18:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maax5lfdnq2s)
+[2025-12-18 19:40:17](https://bsky.app/profile/reuters.com/post/3maayf5kqjd24)
+
+---
+
+@japan.reuters.com
+
+フィンランドのオルポ首相は１７日、連立与党議員が「つり目」写真を交流サイト（ＳＮＳ）に投稿し、アジア人に対する差別だと非難された問題を巡り「心からおわび申し上げます」と謝罪した。 bit.ly/459Hqgf
+
+[2025-12-18 19:35:29](https://bsky.app/profile/japan.reuters.com/post/3maay4kviho26)
+
+---
+
+@reuters.com
+
+Boeing, union pause contract talks for former Spirit AeroSystems engineers reut.rs/4oWY7T9
+
+[2025-12-18 19:35:15](https://bsky.app/profile/reuters.com/post/3maay457ehb2r)
 
 ---
 
