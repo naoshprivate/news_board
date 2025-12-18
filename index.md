@@ -1,9 +1,9 @@
-# [2025-12-19 00:50 updated](2025_12_19.md)
+# [2025-12-19 01:10 updated](2025_12_19.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Heard on the Street: The AI gold rush is creating shortages for memory chips that could raise prices for all sorts of gadgets. <a href="https://bsky.app/profile/wsj.com/post/3mabjnaieuc2i" target="_blank">wsj.com</a> (2025-12-19 00:49:02)</span><span style="padding-right:50px;">Trump Media to merge with nuclear fusion firm in $6bn deal <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mabjkzjore2r" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-19 00:47:47)</span><span style="padding-right:50px;">Swiss gold exports drop in November as shipments to India plunge reut.rs/3L3Ld7U <a href="https://bsky.app/profile/reuters.com/post/3mabjgqxkbt2k" target="_blank">reuters.com</a> (2025-12-19 00:45:25)</span><span style="padding-right:50px;">Food production no longer profitable for English farms, says review ft.trib.al/0ertCTS <a href="https://bsky.app/profile/financialtimes.com/post/3mabj7wqy6f2k" target="_blank">financialtimes.com</a> (2025-12-19 00:41:36)</span><span style="padding-right:50px;">Cannabis stocks rise ahead of potential Trump order to ease marijuana restrictions reut.rs/4j7hF64 <a href="https://bsky.app/profile/reuters.com/post/3mabj5sc4fc2x" target="_blank">reuters.com</a> (2025-12-19 00:40:24)</span>
+<span style="padding-right:50px;">NEW: Trump admin moves to cut hospital payments over trans care <a href="https://bsky.app/profile/axios.com/post/3mabkpuw3gs2k" target="_blank">axios.com</a> (2025-12-19 01:08:25)</span><span style="padding-right:50px;">Lenders set to lower mortgage rates in early 2026 after BoE rate cut ft.trib.al/EDcTuV8 <a href="https://bsky.app/profile/financialtimes.com/post/3mabkoxll6a24" target="_blank">financialtimes.com</a> (2025-12-19 01:07:54)</span><span style="padding-right:50px;">NEW: Trump administration announces that it would begin to take steps aimed at ending transition-related care for minors nationwide. <a href="https://bsky.app/profile/nbcnews.com/post/3mabkmw6iq32p" target="_blank">nbcnews.com</a> (2025-12-19 01:06:45)</span><span style="padding-right:50px;">Trump Media stock surges more than 30% on surprise merger with power firm TAE <a href="https://bsky.app/profile/yahoofinance.com/post/3mabkm4to5c2f" target="_blank">yahoofinance.com</a> (2025-12-19 01:06:19)</span><span style="padding-right:50px;">Irish foreign multinational employment climbs in 2025 despite Trump tariffs reut.rs/3MNP9Kz <a href="https://bsky.app/profile/reuters.com/post/3mabkkgs6jk2x" target="_blank">reuters.com</a> (2025-12-19 01:05:22)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 48310.63 (🔺209.45 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23109.02 (🔺96.96 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 175.68 (🔺1.15 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.57 (🔻0.03 : 2025-12-18)</span>
+<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 48346.94 (🔺245.76 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23129.15 (🔺117.08 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 175.16 (🔺0.63 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.46 (🔻0.13 : 2025-12-18)</span>
   </div>
 </div>
 
@@ -32,94 +32,94 @@
 
 ## News Headlines
 
-Here are six headlines in English:
+Here are six important stories with headlines in English:
 
-1. US Imposes Sanctions on Two ICC Judges Investigating Israel
-2. Trump's Trade Policies Hurting Small Businesses, Says Report
-3. EU Summit on Knife's Edge Over Plan to Fund Ukraine with Russian Assets
-4. Brian Walshe Sentenced to Life in Prison for Wife's Murder
-5. US Economy Shows Signs of Recovery as Inflation Cools
-6. Lululemon Jumps on $1 Billion Bet Ahead of Leadership Change
+1. UK Stocks Rise as Investors Await Bank of England Rate Cut
+2. Trump Media Surges Over 30% on Surprise Merger with Energy Firm
+3. US Imposes Sanctions on Two ICC Judges Investigating Israel
+4. Somalia's Electronic Visa Website Found to Lack Proper Security
+5. US Economy Shows Signs of Cooling Inflation Amid Government Reopening
+6. Myanmar Vows to Wipe Out Industrial-Scale Cyber Scam Centers
 
 ----
 
-@wsj.com
+@axios.com
 
-Heard on the Street: The AI gold rush is creating shortages for memory chips that could raise prices for all sorts of gadgets.
+NEW: Trump admin moves to cut hospital payments over trans care
 
-[2025-12-19 00:49:02](https://bsky.app/profile/wsj.com/post/3mabjnaieuc2i)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Trump Media to merge with nuclear fusion firm in $6bn deal
-
-[2025-12-19 00:47:47](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mabjkzjore2r)
-
----
-
-@reuters.com
-
-Swiss gold exports drop in November as shipments to India plunge reut.rs/3L3Ld7U
-
-[2025-12-19 00:45:25](https://bsky.app/profile/reuters.com/post/3mabjgqxkbt2k)
+[2025-12-19 01:08:25](https://bsky.app/profile/axios.com/post/3mabkpuw3gs2k)
 
 ---
 
 @financialtimes.com
 
-Food production no longer profitable for English farms, says review ft.trib.al/0ertCTS
+Lenders set to lower mortgage rates in early 2026 after BoE rate cut ft.trib.al/EDcTuV8
 
-[2025-12-19 00:41:36](https://bsky.app/profile/financialtimes.com/post/3mabj7wqy6f2k)
-
----
-
-@reuters.com
-
-Cannabis stocks rise ahead of potential Trump order to ease marijuana restrictions reut.rs/4j7hF64
-
-[2025-12-19 00:40:24](https://bsky.app/profile/reuters.com/post/3mabj5sc4fc2x)
+[2025-12-19 01:07:54](https://bsky.app/profile/financialtimes.com/post/3mabkoxll6a24)
 
 ---
 
 @nbcnews.com
 
-As measles continues to spread in the U.S., it’s likely that the outbreaks that broke records in 2025 will continue into the new year.
+NEW: Trump administration announces that it would begin to take steps aimed at ending transition-related care for minors nationwide.
 
-[2025-12-19 00:40:11](https://bsky.app/profile/nbcnews.com/post/3mabj5g6b3e2q)
+[2025-12-19 01:06:45](https://bsky.app/profile/nbcnews.com/post/3mabkmw6iq32p)
 
 ---
 
-@japan.reuters.com
+@yahoofinance.com
 
-欧州中央銀行（ＥＣＢ）は１８日に開いた理事会で政策金利を据え置くと決定した。金利据え置きは４会合連続。ＥＣＢは声明で「特に内需のけん引により、経済成長は９月時点のの予測よりも力強くなると予想される」と指摘。同時に発表した景気予測では、成長率とインフレ率の見通しを一部上方修正した。 bit.ly/4qmxQ1X
+Trump Media stock surges more than 30% on surprise merger with power firm TAE
 
-[2025-12-19 00:39:16](https://bsky.app/profile/japan.reuters.com/post/3mabj3rkaen2s)
+[2025-12-19 01:06:19](https://bsky.app/profile/yahoofinance.com/post/3mabkm4to5c2f)
+
+---
+
+@reuters.com
+
+Irish foreign multinational employment climbs in 2025 despite Trump tariffs reut.rs/3MNP9Kz
+
+[2025-12-19 01:05:22](https://bsky.app/profile/reuters.com/post/3mabkkgs6jk2x)
 
 ---
 
 @nytimes.com
 
-Paramilitaries in Sudan killed over 1,000 people, one-third of them in summary executions, in an attack in April against a famine-stricken camp for displaced people, the UN human rights body said on Thursday.
+The Bird’s Nest is home to a community of women, all older than 60. They broadly agree that, at this age, women are easier long-term companions than men. On Modern Love, two residents describe what it feels like to grow older together with the support of other women. nyti.ms/4j4QgBO
 
-[2025-12-19 00:39:03](https://bsky.app/profile/nytimes.com/post/3mabj3emge22b)
-
----
-
-@financialtimes.com
-
-The report provides a glimpse into the state of the US economy after a record-length government shutdown halted data collection and caused many official releases to be postponed. ft.trib.al/i8SddRj
-
-[2025-12-19 00:38:54](https://bsky.app/profile/financialtimes.com/post/3mabj34x25r2q)
+[2025-12-19 01:05:05](https://bsky.app/profile/nytimes.com/post/3mabkjwxdax2e)
 
 ---
 
-@financialtimes.com
+@cnn.com
 
-The bloc is seeking to use €210bn in Moscow’s sovereign assets held in Euroclear, the central securities depository based in Belgium, to guarantee a €90bn loan to Kyiv. ft.trib.al/c79urJp
+The Justice Department tried to add a third felony charge related to mortgage fraud against Letitia James when attempting to reindict the New York attorney general last week, according to court documents. https://cnn.it/48Zk525
 
-[2025-12-19 00:38:03](https://bsky.app/profile/financialtimes.com/post/3mabizllyrt2p)
+[2025-12-19 01:02:03](https://bsky.app/profile/cnn.com/post/3mabkejlixf2k)
+
+---
+
+@wsj.com
+
+Customers are getting more wellness-obsessed, and brands are responding with new offerings on.wsj.com/4pDKeui
+
+[2025-12-19 01:01:57](https://bsky.app/profile/wsj.com/post/3mabked73b52s)
+
+---
+
+@reuters.com
+
+Eni and BlackRock's GIP take joint control of carbon capture unit reut.rs/4j5IQye
+
+[2025-12-19 01:00:47](https://bsky.app/profile/reuters.com/post/3mabkcao7ib2y)
+
+---
+
+@washingtonpost.com
+
+The Trump administration is embarking on an expansive effort to root out what it sees as left-wing domestic terrorism, raising concerns among some experts that broad categories of Americans’ political speech could come under surveillance.
+
+[2025-12-19 01:00:46](https://bsky.app/profile/washingtonpost.com/post/3mabkc7vow32g)
 
 ---
 
