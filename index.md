@@ -1,9 +1,9 @@
-# [2025-12-18 18:50 updated](2025_12_18.md)
+# [2025-12-18 19:10 updated](2025_12_18.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">フィギュア 全日本選手権あす開幕 坂本花織 鍵山優真など調整 https://news.web.nhk/newsweb/na/na-k10015007651000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maavhs4mng2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 18:48:02)</span><span style="padding-right:50px;">米製薬大手アッヴィ など製薬会社約５社は、米政府と特定の処方薬の価格引き下げや、トランプ大統領の要求に応じることで合意した。１９日に発表する見通しだと事情に詳しい情報筋が明らかにした。 bit.ly/4pkmFpD <a href="https://bsky.app/profile/japan.reuters.com/post/3maavct66bb2v" target="_blank">japan.reuters.com</a> (2025-12-18 18:45:18)</span><span style="padding-right:50px;">Tidal wave of Chinese tea brands place bets on winning over American tastebuds reut.rs/48Vj1w0 <a href="https://bsky.app/profile/reuters.com/post/3maavcq7rp32k" target="_blank">reuters.com</a> (2025-12-18 18:45:15)</span><span style="padding-right:50px;">LIVE: European farmers hold large-scale protest in Brussels youtube.com/live/azhByLP... <a href="https://bsky.app/profile/reuters.com/post/3maavbji4ts2y" target="_blank">reuters.com</a> (2025-12-18 18:44:34)</span><span style="padding-right:50px;">石油資源開発は１８日、在米孫会社が管理する現地法人を通じて、米国でタイトオイル・ガス資産を保有するバーダッド・リソーシーズ・インターミディエイト・ホールディングスの全持分を取得すると発表した。取得額は約１３億米ドル（約２０２０億円）で、自己資金と借入金を充当する。 bit.ly/4iZerBq <a href="https://bsky.app/profile/japan.reuters.com/post/3maav22biwn2p" target="_blank">japan.reuters.com</a> (2025-12-18 18:40:23)</span>
+<span style="padding-right:50px;">中国商務省は１８日、来年からの鉄鋼製品約３００品目に対する輸出許可制について、鉄鋼輸出をより厳密に監視することを可能にし、世界貿易機関（ＷＴＯ）のルールに沿ったものだと述べた。 bit.ly/4pLvYji <a href="https://bsky.app/profile/japan.reuters.com/post/3maawmargra2n" target="_blank">japan.reuters.com</a> (2025-12-18 19:08:28)</span><span style="padding-right:50px;">レスリング全日本選手権 女子76キロ級 復帰戦の鏡優翔が決勝へ https://news.web.nhk/newsweb/na/na-k10015007681000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maawhy2vmp2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 19:06:03)</span><span style="padding-right:50px;">米議会上院は１７日に２０２６年度国防権限法（ＮＤＡＡ）修正法案を可決した。同法案は先週既に下院を通過しており、トランプ大統領の署名を経て成立する見通しだ。 bit.ly/3Y3GXs9 <a href="https://bsky.app/profile/japan.reuters.com/post/3maawgonien2f" target="_blank">japan.reuters.com</a> (2025-12-18 19:05:21)</span><span style="padding-right:50px;">Exclusive: India to revamp M&A rules to protect retail investors, expedite deals reut.rs/4ajbauA <a href="https://bsky.app/profile/reuters.com/post/3maawgl3o6n2k" target="_blank">reuters.com</a> (2025-12-18 19:05:17)</span><span style="padding-right:50px;">Meta’s LeCun targets €3bn valuation for new AI start-up ft.trib.al/1hJm9Ew <a href="https://bsky.app/profile/financialtimes.com/post/3maawe5ev5u2q" target="_blank">financialtimes.com</a> (2025-12-18 19:03:56)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.92 (🔺0.32 : 2025-12-18)</span>
+<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.94 (🔺0.34 : 2025-12-18)</span>
   </div>
 </div>
 
@@ -32,98 +32,98 @@
 
 ## News Headlines
 
-Here are six news headlines in English:
-
-1. Japan's Figure Skating Championship to Open on Friday
-2. US Drugmakers Agree to Lower Prescription Prices to Meet Trump's Demands
-3. Norway Keeps Interest Rate at 4.0% Amid Rising Inflation Expectations
-4. Taiwan Raises Economic Growth Forecast, Keeps Interest Rate Unchanged
-5. China's Hainan Island Cuts Ties with Mainland China for Tax Purposes
-6. US Energy Firms Report Slight Decline in Oil and Gas Activity in Q4
+1. Japan Strengthens Steel Export Controls in Compliance with WTO Rules
+2. Wrestling: Japan's Yuka Kagamimura Advances to Final at Women's 76kg Event
+3. US Senate Approves NDDA Bill, Trump Expected to Sign
+4. India to Revamp M&A Rules to Protect Retail Investors
+5. Meta's LeCun Targets €3bn Valuation for New AI Start-up
+6. Bank of Japan Poised to Raise Rates to 30-Year High Despite Economic Weakness
 
 ----
 
+@japan.reuters.com
+
+中国商務省は１８日、来年からの鉄鋼製品約３００品目に対する輸出許可制について、鉄鋼輸出をより厳密に監視することを可能にし、世界貿易機関（ＷＴＯ）のルールに沿ったものだと述べた。 bit.ly/4pLvYji
+
+[2025-12-18 19:08:28](https://bsky.app/profile/japan.reuters.com/post/3maawmargra2n)
+
+---
+
 @nhknewsunofficial.bsky.social
 
-フィギュア 全日本選手権あす開幕 坂本花織 鍵山優真など調整
-https://news.web.nhk/newsweb/na/na-k10015007651000
+レスリング全日本選手権 女子76キロ級 復帰戦の鏡優翔が決勝へ
+https://news.web.nhk/newsweb/na/na-k10015007681000
 
-[2025-12-18 18:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maavhs4mng2s)
+[2025-12-18 19:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maawhy2vmp2b)
 
 ---
 
 @japan.reuters.com
 
-米製薬大手アッヴィ など製薬会社約５社は、米政府と特定の処方薬の価格引き下げや、トランプ大統領の要求に応じることで合意した。１９日に発表する見通しだと事情に詳しい情報筋が明らかにした。 bit.ly/4pkmFpD
+米議会上院は１７日に２０２６年度国防権限法（ＮＤＡＡ）修正法案を可決した。同法案は先週既に下院を通過しており、トランプ大統領の署名を経て成立する見通しだ。 bit.ly/3Y3GXs9
 
-[2025-12-18 18:45:18](https://bsky.app/profile/japan.reuters.com/post/3maavct66bb2v)
-
----
-
-@reuters.com
-
-Tidal wave of Chinese tea brands place bets on winning over American tastebuds reut.rs/48Vj1w0
-
-[2025-12-18 18:45:15](https://bsky.app/profile/reuters.com/post/3maavcq7rp32k)
+[2025-12-18 19:05:21](https://bsky.app/profile/japan.reuters.com/post/3maawgonien2f)
 
 ---
 
 @reuters.com
 
-LIVE: European farmers hold large-scale protest in Brussels youtube.com/live/azhByLP...
+Exclusive: India to revamp M&A rules to protect retail investors, expedite deals reut.rs/4ajbauA
 
-[2025-12-18 18:44:34](https://bsky.app/profile/reuters.com/post/3maavbji4ts2y)
+[2025-12-18 19:05:17](https://bsky.app/profile/reuters.com/post/3maawgl3o6n2k)
 
 ---
 
-@japan.reuters.com
+@financialtimes.com
 
-石油資源開発は１８日、在米孫会社が管理する現地法人を通じて、米国でタイトオイル・ガス資産を保有するバーダッド・リソーシーズ・インターミディエイト・ホールディングスの全持分を取得すると発表した。取得額は約１３億米ドル（約２０２０億円）で、自己資金と借入金を充当する。 bit.ly/4iZerBq
+Meta’s LeCun targets €3bn valuation for new AI start-up ft.trib.al/1hJm9Ew
 
-[2025-12-18 18:40:23](https://bsky.app/profile/japan.reuters.com/post/3maav22biwn2p)
+[2025-12-18 19:03:56](https://bsky.app/profile/financialtimes.com/post/3maawe5ev5u2q)
+
+---
+
+@cnbc.com
+
+Treasury yields nudge lower as investors await inflation data
+
+[2025-12-18 19:02:23](https://bsky.app/profile/cnbc.com/post/3maawbeeume24)
+
+---
+
+@nikkei.com
+
+JR東日本の人事役員が求める人材「誠実さと挑戦への意欲」
+www.nikkei.com/article/DGXZQO...
+
+社風を聞くと「最優先事項として『究極の安全』を掲げている」。
+
+「一番人数が多い地域総合職ではゴールデンウイークに現場に配属」。新入社員も即戦力として重視しています。
+
+[2025-12-18 19:01:16](https://bsky.app/profile/nikkei.com/post/3maaw7f5zsx2x)
+
+---
+
+@apnews.com
+
+The holiday season is a great time to disconnect from screens and connect with loved ones.
+
+[2025-12-18 19:00:46](https://bsky.app/profile/apnews.com/post/3maaw6iimi722)
 
 ---
 
 @reuters.com
 
-Taiwan central bank raises growth forecast, keeps rates unchanged reut.rs/3KGJbe2
+Turkey urges peaceful Syria-SDF talks, warns patience running out – foreign minister reut.rs/4pL6rH5
 
-[2025-12-18 18:40:15](https://bsky.app/profile/reuters.com/post/3maauzsqxci24)
-
----
-
-@nhknewsunofficial.bsky.social
-
-政府 内閣広報官に佐伯耕三氏起用の方向 安倍内閣で総理秘書官
-https://news.web.nhk/newsweb/na/na-k10015007621000
-
-[2025-12-18 18:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maauxorpip2d)
+[2025-12-18 19:00:41](https://bsky.app/profile/reuters.com/post/3maaw6denid2b)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@cnn.com
 
-ソフトバンク 小久保裕紀監督と新たに2028年までの3年契約
-https://news.web.nhk/newsweb/na/na-k10015007641000
+ President Donald Trump made a series of false claims during his prime-time address from the White House. Here is a fact check. https://cnn.it/49fKEBg
 
-[2025-12-18 18:36:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maausibilq2b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-大分市佐賀関 大規模火災から1か月 被災者の生活再建が課題
-https://news.web.nhk/newsweb/na/na-k10015007121000
-
-[2025-12-18 18:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maausdeque2v)
-
----
-
-@japan.reuters.com
-
-帝国データバンクは１８日、ドローン・マイニング装置開発販売のドローンネット（東京都千代田区）が破産手続き開始決定を受けたと発表した。１７日に東京地裁に自己破産を申請した。負債は約１４４５億円で２０２５年では最大規模の倒産。 bit.ly/4s0RjXk
-
-[2025-12-18 18:35:23](https://bsky.app/profile/japan.reuters.com/post/3maaur3yjye26)
+[2025-12-18 19:00:17](https://bsky.app/profile/cnn.com/post/3maaw5mzjru2x)
 
 ---
 
