@@ -1,9 +1,9 @@
-# [2025-12-18 09:50 updated](2025_12_18.md)
+# [2025-12-18 10:10 updated](2025_12_18.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Good morning, Asia. While you were sleeping, one of our most-read stories was about market moves that came after the software company lost a key backer for its $10bn project. ft.trib.al/a02fmBn <a href="https://bsky.app/profile/financialtimes.com/post/3ma7xecv2jt23" target="_blank">financialtimes.com</a> (2025-12-18 09:49:16)</span><span style="padding-right:50px;">Bongino's tenure was at times tumultuous, including a clash with Justice Department leadership over the Epstein files. But it also involved the arrest of a suspect in the Jan. 6 pipe bomber case. n.pr/49559zt <a href="https://bsky.app/profile/npr.org/post/3ma7xcodepf24" target="_blank">npr.org</a> (2025-12-18 09:48:21)</span><span style="padding-right:50px;">トランプ米政権は米国籍を取得した一部の帰化者から市民権を剥奪する取り組みを強化する方針だと米紙ニューヨーク・タイムズ（ＮＹＴ）が１７日、内部指針を基に報じた。 bit.ly/3MJ9LDN <a href="https://bsky.app/profile/japan.reuters.com/post/3ma7x5k752x2n" target="_blank">japan.reuters.com</a> (2025-12-18 09:45:28)</span><span style="padding-right:50px;">サッカーのスコットランド・プレミアリーグは１７日に１試合を行い、セルティックの前田大然は敵地のダンディー・ユナイテッド戦でゴールを決めたが、試合は１─２の逆転負けとなった。 bit.ly/4qdoa9A <a href="https://bsky.app/profile/japan.reuters.com/post/3ma7x5htsgk2v" target="_blank">japan.reuters.com</a> (2025-12-18 09:45:26)</span><span style="padding-right:50px;">Taiwan says US has initiated $11.1 billion arms sale procedure reut.rs/3Yxy3Dh <a href="https://bsky.app/profile/reuters.com/post/3ma7x5etan22r" target="_blank">reuters.com</a> (2025-12-18 09:45:23)</span>
+<span style="padding-right:50px;">日本維新の会の吉村洋文代表は１８日午前、フジテレビの番組に出演し、高市早苗首相が衆院解散を決断した場合、議員定数削減の実現前でも「容認できる」と述べた。吉村代表は、解散は首相の専権事項だとし「やめてくれとは言えない」とした。首相が解散を判断した場合、いつでも受けるとの考えを示した。 bit.ly/3MIKtFZ <a href="https://bsky.app/profile/japan.reuters.com/post/3ma7yhuloiy2q" target="_blank">japan.reuters.com</a> (2025-12-18 10:09:09)</span><span style="padding-right:50px;">労働組合の年金基金と協力するＳＯＣインベストメント・グループは１７日、アマゾン・ドット・コム、ウォルマート、アルファベットに書簡を送り、トランプ米大統領の移民政策が、各社の財務やサプライチェーン（供給網）にどのような影響を与えているかを尋ねた。ロイターが文書を確認した。 bit.ly/4oZfEtW <a href="https://bsky.app/profile/japan.reuters.com/post/3ma7yh57g6y2n" target="_blank">japan.reuters.com</a> (2025-12-18 10:08:44)</span><span style="padding-right:50px;">House Minority Leader Hakeem Jeffries adhered to a single principle to defeat Speaker Mike Johnson on extending Affordable Care Act tax credits: Don't give an inch to Republican moderates looking for an escape hatch. <a href="https://bsky.app/profile/axios.com/post/3ma7ygtgvr22w" target="_blank">axios.com</a> (2025-12-18 10:08:34)</span><span style="padding-right:50px;">台湾国防部（国防省）は１８日、米政府が台湾に対する１１１億ドルの武器売却について議会への通知手続きを開始したと発表した。 bit.ly/3Y11kX2 <a href="https://bsky.app/profile/japan.reuters.com/post/3ma7y5w5djs2p" target="_blank">japan.reuters.com</a> (2025-12-18 10:03:35)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】高速道でバス全焼 北海道運輸局がバス会社に立ち入り検査 (2025-12-18 10:00:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3ma7y322aro2a" target="_blank">sokuho.news</a> (2025-12-18 10:01:58)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 48986.31 (🔻72.00 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔺3.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.57 (🔻0.02 : 2025-12-18)</span>
+<span style="padding-right:50px;">NIKKEI: 49028.56 (🔻29.75 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3355.00 (🔺5.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.49 (🔻0.11 : 2025-12-18)</span>
   </div>
 </div>
 
@@ -34,96 +34,102 @@
 
 Here are six important stories with headlines in English:
 
-1. Trump's Approval Ratings Hit New Lows Ahead of Speech on 2026 Agenda
-2. BP Appoints First Female CEO as Meg O'Neill Takes the Helm
-3. US Crude Futures Jump on Trump's Venezuela Blockade
-4. US Senate Passes Largest-Ever Defense Budget in History
-5. Bank of England Set to Cut Interest Rates Amid Economic Slowdown
-6. YouTube Strikes Multiyear Deal to Host Oscars from 2029 to 2033
+1. Japan's Nippon Ishin no Kai Leader Open to Reduced Parliament Seats Despite Opposition
+2. Amazon, Walmart, Alphabet Questioned About Trump's Immigration Policy Impact on Their Businesses
+3. Taiwan Defense Ministry Confirms US Has Initiated $11.1 Billion Arms Sale Procedure
+4. NFL Playoffs to See Major Shift with Patrick Mahomes and Chiefs Out of Contention
+5. EU Leaders Face Crunch Decision on Loaning Russia's Frozen Cash to Ukraine
+6. Billionaire Jared Isaacman Confirmed as New NASA Administrator
 
 ----
 
-@financialtimes.com
+@japan.reuters.com
 
-Good morning, Asia. While you were sleeping, one of our most-read stories was about market moves that came after the software company lost a key backer for its $10bn project. ft.trib.al/a02fmBn
+日本維新の会の吉村洋文代表は１８日午前、フジテレビの番組に出演し、高市早苗首相が衆院解散を決断した場合、議員定数削減の実現前でも「容認できる」と述べた。吉村代表は、解散は首相の専権事項だとし「やめてくれとは言えない」とした。首相が解散を判断した場合、いつでも受けるとの考えを示した。 bit.ly/3MIKtFZ
 
-[2025-12-18 09:49:16](https://bsky.app/profile/financialtimes.com/post/3ma7xecv2jt23)
-
----
-
-@npr.org
-
-Bongino's tenure was at times tumultuous, including a clash with Justice Department leadership over the Epstein files. But it also involved the arrest of a suspect in the Jan. 6 pipe bomber case. n.pr/49559zt
-
-[2025-12-18 09:48:21](https://bsky.app/profile/npr.org/post/3ma7xcodepf24)
+[2025-12-18 10:09:09](https://bsky.app/profile/japan.reuters.com/post/3ma7yhuloiy2q)
 
 ---
 
 @japan.reuters.com
 
-トランプ米政権は米国籍を取得した一部の帰化者から市民権を剥奪する取り組みを強化する方針だと米紙ニューヨーク・タイムズ（ＮＹＴ）が１７日、内部指針を基に報じた。 bit.ly/3MJ9LDN
+労働組合の年金基金と協力するＳＯＣインベストメント・グループは１７日、アマゾン・ドット・コム、ウォルマート、アルファベットに書簡を送り、トランプ米大統領の移民政策が、各社の財務やサプライチェーン（供給網）にどのような影響を与えているかを尋ねた。ロイターが文書を確認した。 bit.ly/4oZfEtW
 
-[2025-12-18 09:45:28](https://bsky.app/profile/japan.reuters.com/post/3ma7x5k752x2n)
+[2025-12-18 10:08:44](https://bsky.app/profile/japan.reuters.com/post/3ma7yh57g6y2n)
+
+---
+
+@axios.com
+
+House Minority Leader Hakeem Jeffries adhered to a single principle to defeat Speaker Mike Johnson on extending Affordable Care Act tax credits: Don't give an inch to Republican moderates looking for an escape hatch.
+
+[2025-12-18 10:08:34](https://bsky.app/profile/axios.com/post/3ma7ygtgvr22w)
 
 ---
 
 @japan.reuters.com
 
-サッカーのスコットランド・プレミアリーグは１７日に１試合を行い、セルティックの前田大然は敵地のダンディー・ユナイテッド戦でゴールを決めたが、試合は１─２の逆転負けとなった。 bit.ly/4qdoa9A
+台湾国防部（国防省）は１８日、米政府が台湾に対する１１１億ドルの武器売却について議会への通知手続きを開始したと発表した。 bit.ly/3Y11kX2
 
-[2025-12-18 09:45:26](https://bsky.app/profile/japan.reuters.com/post/3ma7x5htsgk2v)
+[2025-12-18 10:03:35](https://bsky.app/profile/japan.reuters.com/post/3ma7y5w5djs2p)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】高速道でバス全焼 北海道運輸局がバス会社に立ち入り検査
+(2025-12-18 10:00:00) #ニュース
+
+[2025-12-18 10:01:58](https://bsky.app/profile/sokuho.news/post/3ma7y322aro2a)
+
+---
+
+@usatoday.com
+
+Odell Beckham Jr. and Druski are speaking out after Ashley Parham's lawsuit was tossed out due to missed deadlines and failure to obtain new lawyers.
+
+[2025-12-18 10:01:36](https://bsky.app/profile/usatoday.com/post/3ma7y2f63wi2h)
+
+---
+
+@nikkei.com
+
+新NISAで「運用益10%以上」、利用者の7割超に　満足度向上
+www.nikkei.com/article/DGXZQO...
+
+新NISAの利用者に運用損益をアンケート聞いたところ、プラス（ゼロ%以上）になっている人が87.2%と9割近くに。
+
+2025年はAIの成長期待などから世界の主要な株価指数が相次いで史上最高値を更新。対象商品のパフォーマンスが押し上げられました。
+
+その他「利用してよかったと思うか」や「どのように改善すれば利用しやすいと思うか」などの調査も実施しました。
+
+[2025-12-18 10:01:15](https://bsky.app/profile/nikkei.com/post/3ma7xzqpga32i)
 
 ---
 
 @reuters.com
 
-Taiwan says US has initiated $11.1 billion arms sale procedure reut.rs/3Yxy3Dh
+Chiefs QB Patrick Mahomes expected back sooner than you think reut.rs/4pKHnQv
 
-[2025-12-18 09:45:23](https://bsky.app/profile/reuters.com/post/3ma7x5etan22r)
-
----
-
-@nhknewsunofficial.bsky.social
-
-カーリング混合ダブルス 日本代表ペア 五輪出場逃す
-https://news.web.nhk/newsweb/na/na-k10015007061000
-
-[2025-12-18 09:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma7x4trkvu2x)
-
----
-
-@en.afp.com
-
-Three films about Russian anti-Kremlin journalists and activists under President Vladimir Putin have been shortlisted for the Oscars, in what critics said sent a clear anti-war message.
-
-u.afp.com/S7vX
-
-[2025-12-18 09:45:02](https://bsky.app/profile/en.afp.com/post/3ma7x4rdtfi2j)
-
----
-
-@washingtonpost.com
-
-President Trump will deliver a televised speech tonight that is expected to focus heavily on the economy, an effort to reverse declining public opinion numbers and the view even among some supporters that he has not lived up to key campaign promises. 
-
-
-[2025-12-18 09:45:02](https://bsky.app/profile/washingtonpost.com/post/3ma7x4rajzg2g)
-
----
-
-@japan.reuters.com
-
-Ｓ＆Ｐグローバルは１７日、アルゼンチンの長期外貨建てソブリン格付けを「ＣＣＣ」から「ＣＣＣプラス」に引き上げた。中間選挙後の流動性改善とインフレ率低下を受け経済的な脆弱性が緩和されたことを評価した。 bit.ly/48VusUn
-
-[2025-12-18 09:43:47](https://bsky.app/profile/japan.reuters.com/post/3ma7x2j5ruo2q)
+[2025-12-18 10:01:03](https://bsky.app/profile/reuters.com/post/3ma7xzfhatn2p)
 
 ---
 
 @cnbc.com
 
-Thursday's big stock stories: What’s likely to move the market in the next trading session
+A recent report found that 94% of women and 91% of men say dating is getting harder. Wharton professor Judd Kessler suggests two simple tweaks to your approach. 
 
-[2025-12-18 09:43:24](https://bsky.app/profile/cnbc.com/post/3ma7wzt2ssl2b)
+[2025-12-18 10:00:29](https://bsky.app/profile/cnbc.com/post/3ma7xyezpsz25)
+
+---
+
+@bloomberg.com
+
+The president is set to address the nation tonight, ostensibly to tout his first-year economic accomplishments and promise a brighter outlook for next year
+
+[2025-12-18 10:00:20](https://bsky.app/profile/bloomberg.com/post/3ma7xy3ymw623)
 
 ---
 
