@@ -1,9 +1,9 @@
-# [2025-12-19 07:10 updated](2025_12_19.md)
+# [2025-12-19 07:30 updated](2025_12_19.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">東日本大震災 震源域の海底 断層境界にすべりやすい粘土含む層 https://news.web.nhk/newsweb/na/na-k10015008041000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mac6usgkbx24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 07:09:02)</span><span style="padding-right:50px;">中南米金融市場では株式が反発。米消費者物価指数（ＣＰＩ）上昇率が予想を下回り、投資家心理が改善したほか、メキシコ中央銀行の政策決定やアルゼンチンを巡るニュースも材料視された。 bit.ly/3MJ7Gb0 <a href="https://bsky.app/profile/japan.reuters.com/post/3mac6ugou7f2u" target="_blank">japan.reuters.com</a> (2025-12-19 07:08:52)</span><span style="padding-right:50px;">Former race driver Greg Biffle and members of his family were among seven people who died in a plane crash Thursday in North Carolina, state police said. <a href="https://bsky.app/profile/apnews.com/post/3mac6teoyd222" target="_blank">apnews.com</a> (2025-12-19 07:08:17)</span><span style="padding-right:50px;">The signing of a trade deal between the EU and South American bloc Mercosur will be postponed to January, officials said Thursday, after farmers staged a show of force against the pact outside a Brussels leaders' summit. u.afp.com/S8Jn <a href="https://bsky.app/profile/en.afp.com/post/3mac6smv5aj2u" target="_blank">en.afp.com</a> (2025-12-19 07:07:51)</span><span style="padding-right:50px;">Bradley Cooper directs a drama starring Will Arnett and Laura Dern about a man who, separated from his wife, turns to stand-up comedy for solace. on.wsj.com/4rW2hxk <a href="https://bsky.app/profile/wsj.com/post/3mac6ox5o3i2s" target="_blank">wsj.com</a> (2025-12-19 07:05:48)</span>
+<span style="padding-right:50px;">Alcohol-detection systems in cars sound like a promising idea, but will they get too much control over the vehicle? <a href="https://bsky.app/profile/wsj.com/post/3mac7yeqv6l2u" target="_blank">wsj.com</a> (2025-12-19 07:28:58)</span><span style="padding-right:50px;">米シカゴ地区連銀のグールスビー総裁は１８日、最新のインフレ指標は「良好」であり、これが持続すれば来年の追加利下げの道が開かれるとの見解を示した。フォックス・ビジネスのインタビューに応じた。 bit.ly/4aY0lhL <a href="https://bsky.app/profile/japan.reuters.com/post/3mac7xnxgj526" target="_blank">japan.reuters.com</a> (2025-12-19 07:28:34)</span><span style="padding-right:50px;">トランプ米大統領は１８日、今週末の米ロ当局者会談を前に、ウクライナ戦争終結に向けた協議が「何かに近づいている」との認識を示した。 bit.ly/3N9BX2I <a href="https://bsky.app/profile/japan.reuters.com/post/3mac7vozpup2f" target="_blank">japan.reuters.com</a> (2025-12-19 07:27:28)</span><span style="padding-right:50px;">マーチングバンド強豪 京都と群馬の吹奏楽部 台湾で演奏披露 https://news.web.nhk/newsweb/na/na-k10015007941000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mac7uyduka2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 07:27:03)</span><span style="padding-right:50px;">Seven people have died after a small private jet crashed shortly after takeoff in Statesville, North Carolina, the North Carolina State Highway patrol said. https://cnn.it/4b4dOEG <a href="https://bsky.app/profile/cnn.com/post/3mac7ur2c5b23" target="_blank">cnn.com</a> (2025-12-19 07:26:57)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.47 (🔻0.12 : 2025-12-18)</span>
+<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.54 (🔻0.06 : 2025-12-18)</span>
   </div>
 </div>
 
@@ -32,96 +32,96 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are six news headlines in English:
 
-1. Strong Earthquake Strikes Japan's Tohoku Region
-2. Market Rally Continues on Lower Inflation Expectations
-3. US Stocks Bounce Back as Investors Welcome Inflation Data
-4. Trump Media Set to Merge with Fusion Power Company
-5. US Judge Blocks Release of Judicial Branch Communications
-6. FedEx Posts Higher Quarterly Results, Raises Profit Forecast
+1. Inflation Rate in Chicago Region a Positive Omen for Future Rate Cuts
+2. Trump Confident Ukraine Peace Talks Are Making Progress
+3. Seven Dead After Small Private Jet Crashes in North Carolina
+4. EU Officials Confident of Agreement on Ukraine Compensation Loan
+5. US Energy Regulator Directs PJM to Launch Rules on AI Connections
+6. Starbucks Supplier Hires Investment Banks for Potential Sale
 
 ----
 
-@nhknewsunofficial.bsky.social
+@wsj.com
 
-東日本大震災 震源域の海底 断層境界にすべりやすい粘土含む層
-https://news.web.nhk/newsweb/na/na-k10015008041000
+Alcohol-detection systems in cars sound like a promising idea, but will they get too much control over the vehicle?
 
-[2025-12-19 07:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mac6usgkbx24)
+[2025-12-19 07:28:58](https://bsky.app/profile/wsj.com/post/3mac7yeqv6l2u)
 
 ---
 
 @japan.reuters.com
 
-中南米金融市場では株式が反発。米消費者物価指数（ＣＰＩ）上昇率が予想を下回り、投資家心理が改善したほか、メキシコ中央銀行の政策決定やアルゼンチンを巡るニュースも材料視された。 bit.ly/3MJ7Gb0
+米シカゴ地区連銀のグールスビー総裁は１８日、最新のインフレ指標は「良好」であり、これが持続すれば来年の追加利下げの道が開かれるとの見解を示した。フォックス・ビジネスのインタビューに応じた。 bit.ly/4aY0lhL
 
-[2025-12-19 07:08:52](https://bsky.app/profile/japan.reuters.com/post/3mac6ugou7f2u)
-
----
-
-@apnews.com
-
-Former race driver Greg Biffle and members of his family were among seven people who died in a plane crash Thursday in North Carolina, state police said.
-
-[2025-12-19 07:08:17](https://bsky.app/profile/apnews.com/post/3mac6teoyd222)
+[2025-12-19 07:28:34](https://bsky.app/profile/japan.reuters.com/post/3mac7xnxgj526)
 
 ---
 
-@en.afp.com
+@japan.reuters.com
 
-The signing of a trade deal between the EU and South American bloc Mercosur will be postponed to January, officials said Thursday, after farmers staged a show of force against the pact outside a Brussels leaders' summit.
-u.afp.com/S8Jn
+トランプ米大統領は１８日、今週末の米ロ当局者会談を前に、ウクライナ戦争終結に向けた協議が「何かに近づいている」との認識を示した。 bit.ly/3N9BX2I
 
-[2025-12-19 07:07:51](https://bsky.app/profile/en.afp.com/post/3mac6smv5aj2u)
-
----
-
-@wsj.com
-
-Bradley Cooper directs a drama starring Will Arnett and Laura Dern about a man who, separated from his wife, turns to stand-up comedy for solace. on.wsj.com/4rW2hxk
-
-[2025-12-19 07:05:48](https://bsky.app/profile/wsj.com/post/3mac6ox5o3i2s)
+[2025-12-19 07:27:28](https://bsky.app/profile/japan.reuters.com/post/3mac7vozpup2f)
 
 ---
 
-@reuters.com
+@nhknewsunofficial.bsky.social
 
-Fed's Goolsbee in Fox Business interview welcomes latest inflation data, says more rate cuts may loom reut.rs/3Lbwh7T
+マーチングバンド強豪 京都と群馬の吹奏楽部 台湾で演奏披露
+https://news.web.nhk/newsweb/na/na-k10015007941000
 
-[2025-12-19 07:05:18](https://bsky.app/profile/reuters.com/post/3mac6o27iyv2r)
-
----
-
-@wsj.com
-
-The series returns with two installments, ‘East’ and ‘West,’ that focus on specialists in silversmithing, saddle-making and more. on.wsj.com/4s6hRq6
-
-[2025-12-19 07:01:11](https://bsky.app/profile/wsj.com/post/3mac6gpff7q2s)
+[2025-12-19 07:27:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mac7uyduka2k)
 
 ---
 
-@usatoday.com
+@cnn.com
 
-Texas football is hiring longtime SEC coach Will Muschamp as its new defensive coordinator.
+Seven people have died after a small private jet crashed shortly after takeoff in Statesville, North Carolina, the North Carolina State Highway patrol said. https://cnn.it/4b4dOEG
 
-[2025-12-19 07:01:09](https://bsky.app/profile/usatoday.com/post/3mac6gmgxy62g)
+[2025-12-19 07:26:57](https://bsky.app/profile/cnn.com/post/3mac7ur2c5b23)
 
 ---
 
 @reuters.com
 
-Exclusive: Starbucks supplier Cuisine Solutions hires Morgan Stanley and Rothschild for potential sale, sources say reut.rs/3MQ3Qgc
+Pope Leo replaces New York's Cardinal Dolan in shake-up of US Church reut.rs/4j4pDgn
 
-[2025-12-19 07:00:52](https://bsky.app/profile/reuters.com/post/3mac6g5c55p2p)
+[2025-12-19 07:25:16](https://bsky.app/profile/reuters.com/post/3mac7rqpz742b)
 
 ---
 
-@bloomberg.com
+@cnn.com
 
-The USDA is unlikely to do a second-round package of aid for struggling farmers struggling in the midst of trade tensions and low crop prices
+Seven people have died after a small private jet crashed shortly after takeoff in Statesville, North Carolina the North Carolina State Highway patrol said. https://cnn.it/3MMf05G
 
-[2025-12-19 07:00:22](https://bsky.app/profile/bloomberg.com/post/3mac6f7tw2u27)
+[2025-12-19 07:24:14](https://bsky.app/profile/cnn.com/post/3mac7pvzp6a2b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+重度の知的障害女性 医療保護入院中に死亡 病院側に賠償命令
+https://news.web.nhk/newsweb/na/na-k10015008051000
+
+[2025-12-19 07:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mac7pmoi7x2d)
+
+---
+
+@japan.reuters.com
+
+欧州中央銀行（ＥＣＢ）のラガルド総裁は１８日の会見で、欧州連合（ＥＵ）が計画しているウクライナへの「賠償ローン」について、ＥＵ指導者らが合意に達すると確信していると述べた。 bit.ly/4j1Jtsm
+
+[2025-12-19 07:21:21](https://bsky.app/profile/japan.reuters.com/post/3mac7kqhgh62n)
+
+---
+
+@axios.com
+
+SCOOP: TikTok signs deal for sale of U.S. unit after years-long saga
+
+[2025-12-19 07:20:35](https://bsky.app/profile/axios.com/post/3mac7jf2wa22h)
 
 ---
 
