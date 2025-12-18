@@ -1,9 +1,9 @@
-# [2025-12-19 00:10 updated](2025_12_19.md)
+# [2025-12-19 00:30 updated](2025_12_19.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">BREAKING: Brian Walshe, the Massachusetts man convicted of murdering his wife and dismembering her body in 2023, is sentenced to life in prison without the possibility of parole. <a href="https://bsky.app/profile/nbcnews.com/post/3mabhec2i462k" target="_blank">nbcnews.com</a> (2025-12-19 00:08:14)</span><span style="padding-right:50px;">Yen struggles to exit 'danger zone' even as Japan hikes rates reut.rs/4ahPBKW <a href="https://bsky.app/profile/reuters.com/post/3mabh727qax23" target="_blank">reuters.com</a> (2025-12-19 00:05:18)</span><span style="padding-right:50px;">This oil drilling stock is remarkably cheap. How to trade it with options <a href="https://bsky.app/profile/cnbc.com/post/3mabh5wye2t25" target="_blank">cnbc.com</a> (2025-12-19 00:04:41)</span><span style="padding-right:50px;">During a nationwide address, President Trump says the U.S. is poised for an economic boom. And, some Republican lawmakers joined Democrats to force a vote on enhanced healthcare subsidies. n.pr/4s5v8PN <a href="https://bsky.app/profile/npr.org/post/3mabh5d7n4g2m" target="_blank">npr.org</a> (2025-12-19 00:04:21)</span><span style="padding-right:50px;">President Trump delivered a last-minute live address on Wednesday night, pre-empting late night shows. Jimmy Kimmel called it “a surprise prime-time episode of ‘The Worst Wing’ tonight on every channel.” Here's how others reacted. <a href="https://bsky.app/profile/nytimes.com/post/3mabh33noxp2r" target="_blank">nytimes.com</a> (2025-12-19 00:03:06)</span>
+<span style="padding-right:50px;">Brian Walshe is sentenced to life in prison without parole after being found guilty of his wife's murder days earlier https://cnn.it/4q8OFgC <a href="https://bsky.app/profile/cnn.com/post/3mabihaju5v26" target="_blank">cnn.com</a> (2025-12-19 00:27:47)</span><span style="padding-right:50px;">Lululemon jumps on Elliott's $1 billion bet ahead of leadership change reut.rs/44y98TH <a href="https://bsky.app/profile/reuters.com/post/3mabicur7nt2r" target="_blank">reuters.com</a> (2025-12-19 00:25:21)</span><span style="padding-right:50px;">We set out to find great-looking, functional, high-quality everyday bags that will hold up for years — and we wanted those boxes ticked for $500 or less. After rigorous research and testing, ultimately, seven bags rose to the top. <a href="https://bsky.app/profile/nytimes.com/post/3mabi6rxqdg25" target="_blank">nytimes.com</a> (2025-12-19 00:23:04)</span><span style="padding-right:50px;">BREAKING: Brian Walshe is sentenced to life in prison without parole for the murder of his wife on New Year's Day in 2023.  <a href="https://bsky.app/profile/cbsnews.com/post/3mabi37jyw32y" target="_blank">cbsnews.com</a> (2025-12-19 00:21:03)</span><span style="padding-right:50px;">Ecuadorian police said Mario Pineida, a 33-year-old Barcelona de Guayaquil defender and former national team player, was shot dead in an apparent attack as violence escalates in the Andean nation. <a href="https://bsky.app/profile/cbsnews.com/post/3mabhzdgk3u2g" target="_blank">cbsnews.com</a> (2025-12-19 00:20:01)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 48184.36 (🔺83.18 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 22970.31 (🔻41.75 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 173.03 (🔻1.50 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.49 (🔻0.11 : 2025-12-18)</span>
+<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 48217.62 (🔺116.44 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23069.41 (🔺57.35 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.99 (🔺0.46 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.65 (🔺0.06 : 2025-12-18)</span>
   </div>
 </div>
 
@@ -32,98 +32,94 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are six important stories with headlines:
 
-1. Massachusetts Man Sentenced to Life in Prison for Wife's Murder
-2. Japan Struggles to Exit Economic 'Danger Zone'
-3. Trump Predicts Economic Boom, Seeks Healthcare Subsidy Vote
-4. Saturn's Moon Titan May Not Have Vast Underground Ocean
-5. FBI Investigates Surrogacy Agency After Abrupt Shutdown
-6. French Doctor Sentenced to Life in Prison for Poisoning Patients
+1. Massachusetts Man Sentenced to Life in Prison Without Parole for Wife's Murder
+2. Lululemon Sees Surge in Sales After Taking a $1 Billion Bet
+3. Ecuadorian Soccer Player Killed in Apparent Attack Amid Escalating Violence
+4. Pope Appoints New Leader of New York's Catholic Archdiocese
+5. Trump Administration to Loosen Restrictions on Marijuana, Launch Medicare CBD Pilot Program
+6. Saturn's Moon Titan May Not Have Vast Underground Ocean as Believed
 
 ----
 
-@nbcnews.com
+@cnn.com
 
-<strong><span style="color: red;">BREAKING:</span> Brian Walshe, the Massachusetts man convicted of murdering his wife and dismembering her body in 2023, is sentenced to life in prison without the possibility of parole.</strong>
+Brian Walshe is sentenced to life in prison without parole after being found guilty of his wife's murder days earlier https://cnn.it/4q8OFgC
 
-[2025-12-19 00:08:14](https://bsky.app/profile/nbcnews.com/post/3mabhec2i462k)
+[2025-12-19 00:27:47](https://bsky.app/profile/cnn.com/post/3mabihaju5v26)
 
 ---
 
 @reuters.com
 
-Yen struggles to exit 'danger zone' even as Japan hikes rates reut.rs/4ahPBKW
+Lululemon jumps on Elliott's $1 billion bet ahead of leadership change reut.rs/44y98TH
 
-[2025-12-19 00:05:18](https://bsky.app/profile/reuters.com/post/3mabh727qax23)
-
----
-
-@cnbc.com
-
-This oil drilling stock is remarkably cheap. How to trade it with options
-
-[2025-12-19 00:04:41](https://bsky.app/profile/cnbc.com/post/3mabh5wye2t25)
-
----
-
-@npr.org
-
-During a nationwide address, President Trump says the U.S. is poised for an economic boom. And, some Republican lawmakers joined Democrats to force a vote on enhanced healthcare subsidies. n.pr/4s5v8PN
-
-[2025-12-19 00:04:21](https://bsky.app/profile/npr.org/post/3mabh5d7n4g2m)
+[2025-12-19 00:25:21](https://bsky.app/profile/reuters.com/post/3mabicur7nt2r)
 
 ---
 
 @nytimes.com
 
-President Trump delivered a last-minute live address on Wednesday night, pre-empting late night shows. Jimmy Kimmel called it “a surprise prime-time episode of ‘The Worst Wing’ tonight on every channel.” Here's how others reacted.
+We set out to find great-looking, functional, high-quality everyday bags that will hold up for years — and we wanted those boxes ticked for $500 or less. After rigorous research and testing, ultimately, seven bags rose to the top.
 
-[2025-12-19 00:03:06](https://bsky.app/profile/nytimes.com/post/3mabh33noxp2r)
+[2025-12-19 00:23:04](https://bsky.app/profile/nytimes.com/post/3mabi6rxqdg25)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@cbsnews.com
 
-小児がん経験者の経済状況把握 初の全国調査実施へ 厚労省など
-https://news.web.nhk/newsweb/na/na-k10015007851000
+<strong><span style="color: red;">BREAKING:</span> Brian Walshe is sentenced to life in prison without parole for the murder of his wife on New Year's Day in 2023. </strong>
 
-[2025-12-19 00:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mabh32gsnh24)
+[2025-12-19 00:21:03](https://bsky.app/profile/cbsnews.com/post/3mabi37jyw32y)
+
+---
+
+@cbsnews.com
+
+Ecuadorian police said Mario Pineida, a 33-year-old Barcelona de Guayaquil defender and former national team player, was shot dead in an apparent attack as violence escalates in the Andean nation.
+
+[2025-12-19 00:20:01](https://bsky.app/profile/cbsnews.com/post/3mabhzdgk3u2g)
+
+---
+
+@wsj.com
+
+Pope Leo XIV has appointed a bishop from Illinois as the new leader of New York’s Catholic archdiocese, replacing conservative Cardinal Timothy Dolan.
+
+[2025-12-19 00:16:18](https://bsky.app/profile/wsj.com/post/3mabhsprpd72c)
 
 ---
 
 @reuters.com
 
-CarMax's quarterly profit, revenue dip as used car market weakens reut.rs/3KH8gpc
+Americans facing soaring health insurance costs may get a lifeline in 2026, experts say reut.rs/4oZRCiw
 
-[2025-12-19 00:01:20](https://bsky.app/profile/reuters.com/post/3mabgxx6rjb2b)
-
----
-
-@apnews.com
-
-Saturn's giant moon Titan may not have a vast underground ocean after all.
-
-[2025-12-19 00:01:08](https://bsky.app/profile/apnews.com/post/3mabgxkvs5t24)
+[2025-12-19 00:15:25](https://bsky.app/profile/reuters.com/post/3mabhr52nd32o)
 
 ---
 
-@cnn.com
+@cnbc.com
 
-In President Donald Trump's telling, a land strike on Venezuela could come "soon."
+It's crucial to be in the driver's seat of your career, according to Chris Kempczinski. 
 
-He's been saying that since mid-September. 
-https://cnn.it/3KSprUM
-
-[2025-12-19 00:00:57](https://bsky.app/profile/cnn.com/post/3mabgxb5xt623)
+[2025-12-19 00:14:54](https://bsky.app/profile/cnbc.com/post/3mabhq6w2sy2n)
 
 ---
 
-@washingtonpost.com
+@reuters.com
 
-President Donald Trump’s planned executive order to loosen federal restrictions on marijuana will also announce a pilot program to pay for Medicare patients to use CBD, according to people familiar with the plans.
+Lucasfilm wins bid to throw out UK lawsuit over 'resurrection' of 'Star Wars' character reut.rs/4j4Bhrl
 
-[2025-12-19 00:00:57](https://bsky.app/profile/washingtonpost.com/post/3mabgxah3j224)
+[2025-12-19 00:10:45](https://bsky.app/profile/reuters.com/post/3mabhiroan32o)
+
+---
+
+@japan.reuters.com
+
+スイスの製薬大手ノバルティスとロシュは１８日、米国の医薬品価格引き下げに向けた取り組みを支持し、トランプ政権と協力していると発表した。 bit.ly/49h4EmZ
+
+[2025-12-19 00:10:31](https://bsky.app/profile/japan.reuters.com/post/3mabhiepyeg22)
 
 ---
 
