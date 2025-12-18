@@ -1,9 +1,9 @@
-# [2025-12-18 20:50 updated](2025_12_18.md)
+# [2025-12-18 21:10 updated](2025_12_18.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">台湾中央銀行は１８日、市場の予想通り、政策金利を２．０％に据え置くことを決定した。また、ハイテク製品の対米輸出が好調となる中、今年の経済成長予測を引き上げた。 bit.ly/48VpUxm <a href="https://bsky.app/profile/japan.reuters.com/post/3mab3zfemjk2v" target="_blank">japan.reuters.com</a> (2025-12-18 20:45:18)</span><span style="padding-right:50px;">Saudi Arabia's STC in joint venture with Humain to advance data centre buildout reut.rs/4jdZ3Bp <a href="https://bsky.app/profile/reuters.com/post/3mab3zaciqb2p" target="_blank">reuters.com</a> (2025-12-18 20:45:12)</span><span style="padding-right:50px;">防衛財源確保への所得税増税 再来年1月開始で自民維新両党一致 https://news.web.nhk/newsweb/na/na-k10015007781000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mab3yyzpiv2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 20:45:03)</span><span style="padding-right:50px;">The U.S. said it had approved $11.1 billion in arms-sales packages for Taiwan, a show of support from Washington as President Trump focuses on trade deals and displays a softer U.S. stance toward China. <a href="https://bsky.app/profile/wsj.com/post/3mab3vivpsd2c" target="_blank">wsj.com</a> (2025-12-18 20:43:07)</span><span style="padding-right:50px;">Visa says new AI shopping tool has helped customers with hundreds of transactions <a href="https://bsky.app/profile/cnbc.com/post/3mab3vevdfj2e" target="_blank">cnbc.com</a> (2025-12-18 20:43:03)</span>
+<span style="padding-right:50px;">The Bank of England cut its key interest rate to a near three-year low of 3.75%. <a href="https://bsky.app/profile/wsj.com/post/3mab5da5qeg2r" target="_blank">wsj.com</a> (2025-12-18 21:08:41)</span><span style="padding-right:50px;">BoE cuts rates by quarter point to 3.75% ft.trib.al/oV7aQkY <a href="https://bsky.app/profile/financialtimes.com/post/3mab57w3civ2w" target="_blank">financialtimes.com</a> (2025-12-18 21:06:50)</span><span style="padding-right:50px;">アクティビスト（物言う投資家）のエフィッシモ・キャピタル・マネージメントが帝人株を買い増し、保有比率を１４．２１％に引き上げたことが１８日提出の変更報告書で分かった。前回報告は１３．２０％だった。報告義務発生日は１１日。 bit.ly/4qgulKj <a href="https://bsky.app/profile/japan.reuters.com/post/3mab55gcyca2c" target="_blank">japan.reuters.com</a> (2025-12-18 21:05:27)</span><span style="padding-right:50px;">China's Momenta teams up with Grab on autonomous driving in Southeast Asia reut.rs/3Y1UsIM <a href="https://bsky.app/profile/reuters.com/post/3mab556wryq2s" target="_blank">reuters.com</a> (2025-12-18 21:05:19)</span><span style="padding-right:50px;">Buy the dip on Core Scientific as 2026 approaches, says Citizens <a href="https://bsky.app/profile/cnbc.com/post/3mab4yvmylc24" target="_blank">cnbc.com</a> (2025-12-18 21:02:55)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.76 (🔺0.16 : 2025-12-18)</span>
+<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.77 (🔺0.18 : 2025-12-18)</span>
   </div>
 </div>
 
@@ -34,95 +34,100 @@
 
 Here are six important stories with headlines in English:
 
-1. Taiwan Keeps Policy Rate Unchanged Amid Strong Economy
-2. Saudi Arabia's STC Partners with Humain on Data Centre Joint Venture
-3. Japan's Central Bank Leaves Interest Rate Unchanged as Economy Grows
-4. US Approves $11.1 Billion in Arms Sales to Taiwan Amid China Tensions
-5. Campari Sells Averna and Zedda Piras in 100 Million Euro Deal
-6. Norway Central Bank Keeps Interest Rate Unchanged Amid Economic Uncertainty
+1. Bank of England Cuts Interest Rate to Near Three-Year Low
+2. EU Leaders Meet to Discuss Using Frozen Russian Assets to Fund Ukraine
+3. US Companies Developed Venezuelan Oil Fields Before Nationalization
+4. Norway Central Bank Keeps Policy Rate Steady at 4.0%
+5. Taiwan Central Bank Keeps Policy Rate at 2.0%, Raises Economic Growth Forecast
+6. US Approves $11.1 Billion in Arms-Sales Packages for Taiwan
 
 ----
 
+@wsj.com
+
+The Bank of England cut its key interest rate to a near three-year low of 3.75%.
+
+[2025-12-18 21:08:41](https://bsky.app/profile/wsj.com/post/3mab5da5qeg2r)
+
+---
+
+@financialtimes.com
+
+BoE cuts rates by quarter point to 3.75% ft.trib.al/oV7aQkY
+
+[2025-12-18 21:06:50](https://bsky.app/profile/financialtimes.com/post/3mab57w3civ2w)
+
+---
+
 @japan.reuters.com
 
-台湾中央銀行は１８日、市場の予想通り、政策金利を２．０％に据え置くことを決定した。また、ハイテク製品の対米輸出が好調となる中、今年の経済成長予測を引き上げた。 bit.ly/48VpUxm
+アクティビスト（物言う投資家）のエフィッシモ・キャピタル・マネージメントが帝人株を買い増し、保有比率を１４．２１％に引き上げたことが１８日提出の変更報告書で分かった。前回報告は１３．２０％だった。報告義務発生日は１１日。 bit.ly/4qgulKj
 
-[2025-12-18 20:45:18](https://bsky.app/profile/japan.reuters.com/post/3mab3zfemjk2v)
+[2025-12-18 21:05:27](https://bsky.app/profile/japan.reuters.com/post/3mab55gcyca2c)
 
 ---
 
 @reuters.com
 
-Saudi Arabia's STC in joint venture with Humain to advance data centre buildout reut.rs/4jdZ3Bp
+China's Momenta teams up with Grab on autonomous driving in Southeast Asia reut.rs/3Y1UsIM
 
-[2025-12-18 20:45:12](https://bsky.app/profile/reuters.com/post/3mab3zaciqb2p)
-
----
-
-@nhknewsunofficial.bsky.social
-
-防衛財源確保への所得税増税 再来年1月開始で自民維新両党一致
-https://news.web.nhk/newsweb/na/na-k10015007781000
-
-[2025-12-18 20:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mab3yyzpiv2b)
-
----
-
-@wsj.com
-
-The U.S. said it had approved $11.1 billion in arms-sales packages for Taiwan, a show of support from Washington as President Trump focuses on trade deals and displays a softer U.S. stance toward China.
-
-[2025-12-18 20:43:07](https://bsky.app/profile/wsj.com/post/3mab3vivpsd2c)
+[2025-12-18 21:05:19](https://bsky.app/profile/reuters.com/post/3mab556wryq2s)
 
 ---
 
 @cnbc.com
 
-Visa says new AI shopping tool has helped customers with hundreds of transactions
+Buy the dip on Core Scientific as 2026 approaches, says Citizens
 
-[2025-12-18 20:43:03](https://bsky.app/profile/cnbc.com/post/3mab3vevdfj2e)
-
----
-
-@nhknewsunofficial.bsky.social
-
-日本自動車工業会会長にトヨタの佐藤恒治社長が就任へ
-https://news.web.nhk/newsweb/na/na-k10015007791000
-
-[2025-12-18 20:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mab3tmyleg2b)
+[2025-12-18 21:02:55](https://bsky.app/profile/cnbc.com/post/3mab4yvmylc24)
 
 ---
 
-@reuters.com
+@en.afp.com
 
-Campari sells Averna and Zedda Piras in 100 million euro deal reut.rs/4pVgcSM
+🇪🇺 🇧🇪 Hundreds of tractors converged on Brussels on Thursday in a show of farmers' anger at the EU's planned trade deal with South American bloc Mercosur -- whose fate hung in the balance as summit talks opened in the Belgian capital ➡️ u.afp.com/S84P
 
-[2025-12-18 20:40:41](https://bsky.app/profile/reuters.com/post/3mab3r5lg762x)
+[2025-12-18 21:02:17](https://bsky.app/profile/en.afp.com/post/3mab4xrv56w2v)
+
+---
+
+@nikkei.com
+
+【総延長約10kmの計画】
+東京・高尾山麓に眠る地下壕
+www.nikkei.com/article/DGXZQO...
+
+太平洋戦争の末期、旧陸軍が本土決戦に備えて掘らせた「浅川地下壕」は、長野県の松代大本営と並ぶ全国屈指の規模です。
+
+敗戦直前の1945年7月からは、軍用航空機のエンジンを製造する地下工場として稼働しました。
+
+元高校教諭の中田均さんはガイドとして、戦争の歴史を静かに語る遺跡の存在を発信してきました。
+
+[2025-12-18 21:01:16](https://bsky.app/profile/nikkei.com/post/3mab4vxcxb72m)
+
+---
+
+@financialtimes.com
+
+Trump media agrees $6bn merger deal with Google-backed fusion energy company ft.trib.al/3L7vEWg
+
+[2025-12-18 21:01:09](https://bsky.app/profile/financialtimes.com/post/3mab4vq7xp32w)
+
+---
+
+@financialtimes.com
+
+Good morning, New York. While you were sleeping, this was the most-read story ft.trib.al/3wheGF0
+
+[2025-12-18 21:01:06](https://bsky.app/profile/financialtimes.com/post/3mab4vnxq6c2f)
 
 ---
 
 @japan.reuters.com
 
-ノルウェー中央銀行は１８日、幅広く予想されていた通り政策金利を４．０％に据え置いた。また、２０２６年にさらなる金融緩和が行われる可能性が高いとの見方を改めて示した。 bit.ly/4q846W8
+ロシア南部ロストフ州のロストフナドヌーの港とバタイスクがウクライナの無人機（ドローン）による攻撃を受け、貨物船の乗組員２人を含む３人が死亡した。スリュサール州知事が１８日明らかにした。 bit.ly/4s2NMYD
 
-[2025-12-18 20:40:28](https://bsky.app/profile/japan.reuters.com/post/3mab3qr4f7c27)
-
----
-
-@reuters.com
-
-AI stocks are taking another beating as Oracle and Nvidia lead a bruising tech selloff into year-end. Meanwhile, US inflation is set to show prices still running hot, and Europe’s central banks deliver their final policy calls of 2025. More on the Morning Bid podcast reut.rs/3Y1KMxX
-
-[2025-12-18 20:39:22](https://bsky.app/profile/reuters.com/post/3mab3oslv7k2b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-マイナ保険証の代わり「資格確認書」交付の仕組み見直しへ
-https://news.web.nhk/newsweb/na/na-k10015007771000
-
-[2025-12-18 20:39:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mab3obuvns2y)
+[2025-12-18 21:00:56](https://bsky.app/profile/japan.reuters.com/post/3mab4ve445c2c)
 
 ---
 
