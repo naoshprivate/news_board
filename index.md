@@ -1,9 +1,9 @@
-# [2025-12-18 20:10 updated](2025_12_18.md)
+# [2025-12-18 20:30 updated](2025_12_18.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;"> The EU’s economic security blanket is patchy and thin ft.trib.al/DucTryb  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3maazv4on242v" target="_blank">financialtimes.com</a> (2025-12-18 20:07:07)</span><span style="padding-right:50px;"> Europe’s second-class citizens ft.trib.al/wLGzevR  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3maazv44tyb2k" target="_blank">financialtimes.com</a> (2025-12-18 20:07:06)</span><span style="padding-right:50px;">AI ran our office vending machine for several weeks. It lost hundreds of dollars, gave away a PlayStation, bought a live fish—and taught us a lot about AI agents, writes Joanna Stern. <a href="https://bsky.app/profile/wsj.com/post/3maazuo3dua2t" target="_blank">wsj.com</a> (2025-12-18 20:06:51)</span><span style="padding-right:50px;">中国商務省は１８日、レアアース（希土類）輸出の一般ライセンスを数件付与したと発表した。迅速な輸出を目指した新しい許可カテゴリーとなる。 bit.ly/3KOc1cp <a href="https://bsky.app/profile/japan.reuters.com/post/3maazs6uvp42v" target="_blank">japan.reuters.com</a> (2025-12-18 20:05:28)</span><span style="padding-right:50px;">Standard General in talks to invest in Warner Bros Discovery networks, FT says reut.rs/3MNlLnJ <a href="https://bsky.app/profile/reuters.com/post/3maazryln7g2b" target="_blank">reuters.com</a> (2025-12-18 20:05:22)</span>
+<span style="padding-right:50px;">“旧姓使用に法的効力”答申案 連合会長「修正なければ反対」 https://news.web.nhk/newsweb/na/na-k10015007761000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mab2yt5zfg2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 20:27:03)</span><span style="padding-right:50px;">Researchers are examining whether a decline in reading and math scores over the last decade is related to the widespread use of smartphones by young people. n.pr/4ank2iN <a href="https://bsky.app/profile/npr.org/post/3mab2wsml4v2p" target="_blank">npr.org</a> (2025-12-18 20:25:57)</span><span style="padding-right:50px;">米ダラス地区連銀が１７日に発表した調査によると、テキサス、ルイジアナ、ニューメキシコの主要産油３州における石油・ガス関連活動は第４・四半期にわずかに減少した。原油価格の低迷により一部油井の採算性が悪化していることや、地政学的な不確実性が続くことへの懸念が背景にある。 bit.ly/4q83uji <a href="https://bsky.app/profile/japan.reuters.com/post/3mab2vlthoq2n" target="_blank">japan.reuters.com</a> (2025-12-18 20:25:16)</span><span style="padding-right:50px;">Micron surges on upbeat profit forecast as chip prices soar reut.rs/48YMGnX <a href="https://bsky.app/profile/reuters.com/post/3mab2vjngwv2s" target="_blank">reuters.com</a> (2025-12-18 20:25:14)</span><span style="padding-right:50px;">President Trump’s tariffs have redirected the firehose of cheap Chinese exports to Europe. <a href="https://bsky.app/profile/wsj.com/post/3mab2rz6tze2h" target="_blank">wsj.com</a> (2025-12-18 20:23:16)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.84 (🔺0.25 : 2025-12-18)</span>
+<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.85 (🔺0.26 : 2025-12-18)</span>
   </div>
 </div>
 
@@ -34,100 +34,94 @@
 
 Here are six important stories with headlines in English:
 
-1. EU's Economic Security Blanket is Patchy and Thin
-2. Lufthansa Plays Catch Up with European Rivals After Bumpy Ride
-3. China Rapidly Expands Rare Earth Exports Amid Global Concerns
-4. Trump Vows to Stamp Out Extremism After Bondi Beach Shooting
-5. Boeing and Union Pause Contract Talks for Former Spirit AeroSystems Engineers
-6. China Develops Supercomputer Capable of Manufacturing Advanced Semiconductors
+1. Japan's Unification Ministry Faces Backlash Over Surname Use Proposal
+2. Smartphone Use Linked to Decline in Reading and Math Scores Among Young People
+3. Oil and Gas Output in US Declines in 4th Quarter Amid Low Oil Prices and Geopolitical Uncertainty
+4. Pope Leo Appoints New Archbishop of New York, Signaling Shift in Church's Approach to Immigration
+5. US Justice Department Blames Government for Deadly Plane Crash Near Washington
+6. Japan's Top Banker Warns of High Likelihood of Interest Rate Hike in Coming Months
 
 ----
 
-@financialtimes.com
+@nhknewsunofficial.bsky.social
 
- The EU’s economic security blanket is patchy and thin ft.trib.al/DucTryb  | opinion
+“旧姓使用に法的効力”答申案 連合会長「修正なければ反対」
+https://news.web.nhk/newsweb/na/na-k10015007761000
 
-[2025-12-18 20:07:07](https://bsky.app/profile/financialtimes.com/post/3maazv4on242v)
-
----
-
-@financialtimes.com
-
- Europe’s second-class citizens ft.trib.al/wLGzevR  | opinion
-
-[2025-12-18 20:07:06](https://bsky.app/profile/financialtimes.com/post/3maazv44tyb2k)
+[2025-12-18 20:27:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mab2yt5zfg2b)
 
 ---
 
-@wsj.com
+@npr.org
 
-AI ran our office vending machine for several weeks. It lost hundreds of dollars, gave away a PlayStation, bought a live fish—and taught us a lot about AI agents, writes Joanna Stern.
+Researchers are examining whether a decline in reading and math scores over the last decade is related to the widespread use of smartphones by young people. n.pr/4ank2iN
 
-[2025-12-18 20:06:51](https://bsky.app/profile/wsj.com/post/3maazuo3dua2t)
+[2025-12-18 20:25:57](https://bsky.app/profile/npr.org/post/3mab2wsml4v2p)
 
 ---
 
 @japan.reuters.com
 
-中国商務省は１８日、レアアース（希土類）輸出の一般ライセンスを数件付与したと発表した。迅速な輸出を目指した新しい許可カテゴリーとなる。 bit.ly/3KOc1cp
+米ダラス地区連銀が１７日に発表した調査によると、テキサス、ルイジアナ、ニューメキシコの主要産油３州における石油・ガス関連活動は第４・四半期にわずかに減少した。原油価格の低迷により一部油井の採算性が悪化していることや、地政学的な不確実性が続くことへの懸念が背景にある。 bit.ly/4q83uji
 
-[2025-12-18 20:05:28](https://bsky.app/profile/japan.reuters.com/post/3maazs6uvp42v)
-
----
-
-@reuters.com
-
-Standard General in talks to invest in Warner Bros Discovery networks, FT says reut.rs/3MNlLnJ
-
-[2025-12-18 20:05:22](https://bsky.app/profile/reuters.com/post/3maazryln7g2b)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Family release video of Matilda as aunt calls for 'happiness and love'
-
-[2025-12-18 20:03:38](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maazowqao326)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【Q＆A】東京電力HD 再建に向けたポイントは
-https://news.web.nhk/newsweb/na/na-k10015007731000
-
-[2025-12-18 20:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maaznwh3go2k)
-
----
-
-@nikkei.com
-
-AI広告炎上でも止められない　米コカ・コーラやGUESS、コスト削減優先
-www.nikkei.com/article/DGXZQO...
-
-米コカ・コーラのAI広告には、消費者からシーンによってトラックのタイヤの数が違うなど間違いを指摘する声が上がりました。
-
-アメリカでの世論調査では18歳以上の成人のうち65%がブランドによるAI広告の利用が不快に感じると回答。
-
-しかし企業はリスクを認識しつつも楽観的なようです。
-
-[2025-12-18 20:01:15](https://bsky.app/profile/nikkei.com/post/3maazknguam2m)
+[2025-12-18 20:25:16](https://bsky.app/profile/japan.reuters.com/post/3mab2vlthoq2n)
 
 ---
 
 @reuters.com
 
-Lufthansa plays catch up with European rivals after bumpy ride reut.rs/4pLXehD
+Micron surges on upbeat profit forecast as chip prices soar reut.rs/48YMGnX
 
-[2025-12-18 20:01:00](https://bsky.app/profile/reuters.com/post/3maazk6rdta2k)
+[2025-12-18 20:25:14](https://bsky.app/profile/reuters.com/post/3mab2vjngwv2s)
 
 ---
 
-@bloomberg.com
+@wsj.com
 
-Fight over airspace security pits cash-strapped police departments against lawmakers vying to disrupt what they say is Beijing’s deep reach into the United States
+President Trump’s tariffs have redirected the firehose of cheap Chinese exports to Europe.
 
-[2025-12-18 20:00:34](https://bsky.app/profile/bloomberg.com/post/3maazjg4dxg2p)
+[2025-12-18 20:23:16](https://bsky.app/profile/wsj.com/post/3mab2rz6tze2h)
+
+---
+
+@japan.reuters.com
+
+ドイツ政府は来年、投資資金を調達するため、過去最大となる約５１２０億ユーロ（約６０００億ドル）の連邦証券を金融市場で発行する。 bit.ly/48HCTny
+
+[2025-12-18 20:23:07](https://bsky.app/profile/japan.reuters.com/post/3mab2rqmdyq2n)
+
+---
+
+@cnn.com
+
+Pope Leo appoints new pro-migrant archbishop of New York, signaling the Church's more robust approach to Trump.
+https://cnn.it/3Lad8mN
+
+[2025-12-18 20:22:55](https://bsky.app/profile/cnn.com/post/3mab2resjqy23)
+
+---
+
+@japan.reuters.com
+
+米司法省は１７日夜、１月２９日に首都ワシントン近郊のレーガン・ナショナル空港付近で発生したアメリカン航空のリージョナルジェット旅客機が米軍のヘリコプターと空中衝突して６７人が死亡した事故について、連邦政府に責任があると発表した。 bit.ly/3L6rHYA
+
+[2025-12-18 20:20:27](https://bsky.app/profile/japan.reuters.com/post/3mab2mxqgiu2v)
+
+---
+
+@nbcnews.com
+
+A former manager of the Harvard Medical School morgue in Boston is sentenced to eight years in prison for stealing and selling body parts "as if they were baubles."
+
+[2025-12-18 20:20:12](https://bsky.app/profile/nbcnews.com/post/3mab2mj3hji23)
+
+---
+
+@japan.reuters.com
+
+全国銀行協会の半沢淳一会長（三菱ＵＦＪ銀行頭取）は１８日の記者会見で、日銀が１８─１９日に開く金融政策決定会合で利上げを決める可能性は高いとの見方を示した。 bit.ly/4pJW9Xv
+
+[2025-12-18 20:15:25](https://bsky.app/profile/japan.reuters.com/post/3mab2dxmnrr2c)
 
 ---
 
