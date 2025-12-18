@@ -1,9 +1,9 @@
-# [2025-12-18 09:30 updated](2025_12_18.md)
+# [2025-12-18 09:50 updated](2025_12_18.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🔔NHKより【速報 JUST IN】です。  株価 一時800円以上値下がり 半導体関連の銘柄中心に売り注文 (2025-12-18 09:26:57) #ニュース https://news.web.nhk/newsweb/na/na-k10015007101000 <a href="https://bsky.app/profile/sokuho.news/post/3ma7w56pzvj2x" target="_blank">sokuho.news</a> (2025-12-18 09:27:22)</span><span style="padding-right:50px;">HK-listed Budweiser APAC CFO Lares to leave next year reut.rs/4j0IOYe <a href="https://bsky.app/profile/reuters.com/post/3ma7vzht3vs2i" target="_blank">reuters.com</a> (2025-12-18 09:25:18)</span><span style="padding-right:50px;">CBS News Exclusive: The Navy disciplined 18 SEALS earlier this year for racist memes shared in a group chat, documents show. <a href="https://bsky.app/profile/cbsnews.com/post/3ma7vywz6dn2i" target="_blank">cbsnews.com</a> (2025-12-18 09:25:00)</span><span style="padding-right:50px;">＜０９：１０＞　日経平均は反落で寄り付く、米ハイテク株安受け半導体株が軒並み下落 bit.ly/4j3CvTH <a href="https://bsky.app/profile/japan.reuters.com/post/3ma7vur4jrb2c" target="_blank">japan.reuters.com</a> (2025-12-18 09:22:40)</span><span style="padding-right:50px;">BP appointed Meg O’Neill as its new CEO, making her Big Oil’s first female leader, as the producer struggles to revive its fortunes after a botched pivot toward renewable energy. bloom.bg/4pRwJYg  📷: Matt Jelonek/Bloomberg <a href="https://bsky.app/profile/bloomberg.com/post/3ma7vslqrtz2p" target="_blank">bloomberg.com</a> (2025-12-18 09:21:27)</span>
+<span style="padding-right:50px;">Good morning, Asia. While you were sleeping, one of our most-read stories was about market moves that came after the software company lost a key backer for its $10bn project. ft.trib.al/a02fmBn <a href="https://bsky.app/profile/financialtimes.com/post/3ma7xecv2jt23" target="_blank">financialtimes.com</a> (2025-12-18 09:49:16)</span><span style="padding-right:50px;">Bongino's tenure was at times tumultuous, including a clash with Justice Department leadership over the Epstein files. But it also involved the arrest of a suspect in the Jan. 6 pipe bomber case. n.pr/49559zt <a href="https://bsky.app/profile/npr.org/post/3ma7xcodepf24" target="_blank">npr.org</a> (2025-12-18 09:48:21)</span><span style="padding-right:50px;">トランプ米政権は米国籍を取得した一部の帰化者から市民権を剥奪する取り組みを強化する方針だと米紙ニューヨーク・タイムズ（ＮＹＴ）が１７日、内部指針を基に報じた。 bit.ly/3MJ9LDN <a href="https://bsky.app/profile/japan.reuters.com/post/3ma7x5k752x2n" target="_blank">japan.reuters.com</a> (2025-12-18 09:45:28)</span><span style="padding-right:50px;">サッカーのスコットランド・プレミアリーグは１７日に１試合を行い、セルティックの前田大然は敵地のダンディー・ユナイテッド戦でゴールを決めたが、試合は１─２の逆転負けとなった。 bit.ly/4qdoa9A <a href="https://bsky.app/profile/japan.reuters.com/post/3ma7x5htsgk2v" target="_blank">japan.reuters.com</a> (2025-12-18 09:45:26)</span><span style="padding-right:50px;">Taiwan says US has initiated $11.1 billion arms sale procedure reut.rs/3Yxy3Dh <a href="https://bsky.app/profile/reuters.com/post/3ma7x5etan22r" target="_blank">reuters.com</a> (2025-12-18 09:45:23)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 48864.19 (🔻194.12 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3360.00 (🔺10.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.46 (🔻0.13 : 2025-12-18)</span>
+<span style="padding-right:50px;">NIKKEI: 48986.31 (🔻72.00 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3353.00 (🔺3.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.57 (🔻0.02 : 2025-12-18)</span>
   </div>
 </div>
 
@@ -32,98 +32,98 @@
 
 ## News Headlines
 
-Here are six news headlines in English:
+Here are six important stories with headlines in English:
 
-1. Stock Market Plunges to 800 Yen Amid Semiconductor-Related Sell Orders
-2. BP Appoints First Female CEO, Meg O'Neill, Amid Renewable Energy Push
+1. Trump's Approval Ratings Hit New Lows Ahead of Speech on 2026 Agenda
+2. BP Appoints First Female CEO as Meg O'Neill Takes the Helm
 3. US Crude Futures Jump on Trump's Venezuela Blockade
-4. US Senate Confirms Jared Isaacman as NASA Administrator in 67-30 Vote
-5. US Government Admits Negligence in Helicopter-Plane Collision that Killed 67
-6. Judge Blocks ICE from Requiring Congress Members to Give Prior Notice of Detention Center Visits
+4. US Senate Passes Largest-Ever Defense Budget in History
+5. Bank of England Set to Cut Interest Rates Amid Economic Slowdown
+6. YouTube Strikes Multiyear Deal to Host Oscars from 2029 to 2033
 
 ----
 
-@sokuho.news
+@financialtimes.com
 
-<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>株価 一時800円以上値下がり 半導体関連の銘柄中心に売り注文</strong><br><strong>(2025-12-18 09:26:57) #ニュース</strong><br><strong>https://news.web.nhk/newsweb/na/na-k10015007101000</strong>
+Good morning, Asia. While you were sleeping, one of our most-read stories was about market moves that came after the software company lost a key backer for its $10bn project. ft.trib.al/a02fmBn
 
-[2025-12-18 09:27:22](https://bsky.app/profile/sokuho.news/post/3ma7w56pzvj2x)
-
----
-
-@reuters.com
-
-HK-listed Budweiser APAC CFO Lares to leave next year reut.rs/4j0IOYe
-
-[2025-12-18 09:25:18](https://bsky.app/profile/reuters.com/post/3ma7vzht3vs2i)
+[2025-12-18 09:49:16](https://bsky.app/profile/financialtimes.com/post/3ma7xecv2jt23)
 
 ---
 
-@cbsnews.com
+@npr.org
 
-CBS News Exclusive: The Navy disciplined 18 SEALS earlier this year for racist memes shared in a group chat, documents show.
+Bongino's tenure was at times tumultuous, including a clash with Justice Department leadership over the Epstein files. But it also involved the arrest of a suspect in the Jan. 6 pipe bomber case. n.pr/49559zt
 
-[2025-12-18 09:25:00](https://bsky.app/profile/cbsnews.com/post/3ma7vywz6dn2i)
+[2025-12-18 09:48:21](https://bsky.app/profile/npr.org/post/3ma7xcodepf24)
 
 ---
 
 @japan.reuters.com
 
-＜０９：１０＞　日経平均は反落で寄り付く、米ハイテク株安受け半導体株が軒並み下落 bit.ly/4j3CvTH
+トランプ米政権は米国籍を取得した一部の帰化者から市民権を剥奪する取り組みを強化する方針だと米紙ニューヨーク・タイムズ（ＮＹＴ）が１７日、内部指針を基に報じた。 bit.ly/3MJ9LDN
 
-[2025-12-18 09:22:40](https://bsky.app/profile/japan.reuters.com/post/3ma7vur4jrb2c)
-
----
-
-@bloomberg.com
-
-BP appointed Meg O’Neill as its new CEO, making her Big Oil’s first female leader, as the producer struggles to revive its fortunes after a botched pivot toward renewable energy. bloom.bg/4pRwJYg
-
-📷: Matt Jelonek/Bloomberg
-
-[2025-12-18 09:21:27](https://bsky.app/profile/bloomberg.com/post/3ma7vslqrtz2p)
-
----
-
-@nytimes.com
-
-A Wisconsin woman who was convicted after she stabbed a friend in 2014 to please the fictional character Slender Man and who fled a group home last month will not contest the state’s efforts to keep her at a psychiatric facility, her lawyer said.
-
-[2025-12-18 09:20:05](https://bsky.app/profile/nytimes.com/post/3ma7vq4xyd62v)
-
----
-
-@wsj.com
-
-YouTube struck a multiyear deal with the Academy of Motion Picture Arts and Sciences, which will run the Hollywood awards show from 2029 through 2033, after decades airing on Disney’s ABC.
-
-[2025-12-18 09:19:33](https://bsky.app/profile/wsj.com/post/3ma7vp6x2ly2i)
-
----
-
-@reuters.com
-
-US crude futures jump in Asia trade on Trump's Venezuela blockade reut.rs/3YAwAw0
-
-[2025-12-18 09:15:31](https://bsky.app/profile/reuters.com/post/3ma7vhykpnp2p)
+[2025-12-18 09:45:28](https://bsky.app/profile/japan.reuters.com/post/3ma7x5k752x2n)
 
 ---
 
 @japan.reuters.com
 
-＊この記事は見出しのみの速報です。 bit.ly/3MG6TYq
+サッカーのスコットランド・プレミアリーグは１７日に１試合を行い、セルティックの前田大然は敵地のダンディー・ユナイテッド戦でゴールを決めたが、試合は１─２の逆転負けとなった。 bit.ly/4qdoa9A
 
-[2025-12-18 09:15:21](https://bsky.app/profile/japan.reuters.com/post/3ma7vhnzxwj2s)
+[2025-12-18 09:45:26](https://bsky.app/profile/japan.reuters.com/post/3ma7x5htsgk2v)
+
+---
+
+@reuters.com
+
+Taiwan says US has initiated $11.1 billion arms sale procedure reut.rs/3Yxy3Dh
+
+[2025-12-18 09:45:23](https://bsky.app/profile/reuters.com/post/3ma7x5etan22r)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+カーリング混合ダブルス 日本代表ペア 五輪出場逃す
+https://news.web.nhk/newsweb/na/na-k10015007061000
+
+[2025-12-18 09:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3ma7x4trkvu2x)
+
+---
+
+@en.afp.com
+
+Three films about Russian anti-Kremlin journalists and activists under President Vladimir Putin have been shortlisted for the Oscars, in what critics said sent a clear anti-war message.
+
+u.afp.com/S7vX
+
+[2025-12-18 09:45:02](https://bsky.app/profile/en.afp.com/post/3ma7x4rdtfi2j)
 
 ---
 
 @washingtonpost.com
 
-Exclusive: About an hour before allegedly killing Charlie Kirk, Tyler Robinson was bragging about his Wordle score.
+President Trump will deliver a televised speech tonight that is expected to focus heavily on the economy, an effort to reverse declining public opinion numbers and the view even among some supporters that he has not lived up to key campaign promises. 
 
-The Post interviewed 21 people who knew Robinson, as well as hundreds of messages he exchanged online over the past five years: https://wapo.st/4qdaX0u
 
-[2025-12-18 09:15:03](https://bsky.app/profile/washingtonpost.com/post/3ma7vh5fldd2i)
+[2025-12-18 09:45:02](https://bsky.app/profile/washingtonpost.com/post/3ma7x4rajzg2g)
+
+---
+
+@japan.reuters.com
+
+Ｓ＆Ｐグローバルは１７日、アルゼンチンの長期外貨建てソブリン格付けを「ＣＣＣ」から「ＣＣＣプラス」に引き上げた。中間選挙後の流動性改善とインフレ率低下を受け経済的な脆弱性が緩和されたことを評価した。 bit.ly/48VusUn
+
+[2025-12-18 09:43:47](https://bsky.app/profile/japan.reuters.com/post/3ma7x2j5ruo2q)
+
+---
+
+@cnbc.com
+
+Thursday's big stock stories: What’s likely to move the market in the next trading session
+
+[2025-12-18 09:43:24](https://bsky.app/profile/cnbc.com/post/3ma7wzt2ssl2b)
 
 ---
 
