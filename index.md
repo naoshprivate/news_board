@@ -1,9 +1,9 @@
-# [2025-12-18 14:50 updated](2025_12_18.md)
+# [2025-12-18 15:10 updated](2025_12_18.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">石油資源開発は１８日、在米孫会社が管理する現地法人を通じて、米国でタイトオイル・ガス資産を保有するバーダッド・リソーシーズ・インターミディエイト・ホールディングスの全持分を取得すると発表した。取得額は約１３億米ドル（約２０２０億円）で、自己資金と借入金を充当する。 bit.ly/4pUZmU4 <a href="https://bsky.app/profile/japan.reuters.com/post/3maahynorep2p" target="_blank">japan.reuters.com</a> (2025-12-18 14:46:58)</span><span style="padding-right:50px;">A Statue of Liberty replica in Guaíba, in southern Brazil, toppled over after the city experienced high winds. No one was injured in the collapse. <a href="https://bsky.app/profile/cnn.com/post/3maahqiottb2c" target="_blank">cnn.com</a> (2025-12-18 14:42:24)</span><span style="padding-right:50px;">徳島道 観光バスなど複数台絡む事故 10人搬送 命に別状なし https://news.web.nhk/newsweb/na/na-k10015007211000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maahpuuvla22" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 14:42:02)</span><span style="padding-right:50px;">米政府は１７日、中国からの軍事的圧力が強まる台湾に対して過去最大規模となる約１１１億ドルの武器売却を承認した。トランプ政権２期目では２回目となる。 bit.ly/3MASY5Y <a href="https://bsky.app/profile/japan.reuters.com/post/3maahmtjzqh2p" target="_blank">japan.reuters.com</a> (2025-12-18 14:40:21)</span><span style="padding-right:50px;">No evidence alleged Bondi gunmen received military training in the Philippines, says security adviser reut.rs/3Y1tEs9 <a href="https://bsky.app/profile/reuters.com/post/3maahmslkpd2c" target="_blank">reuters.com</a> (2025-12-18 14:40:20)</span>
+<span style="padding-right:50px;">＜１４：４６＞　日経平均は4万9000円挟み小動き、内需株は底堅い bit.ly/4q7NlKI <a href="https://bsky.app/profile/japan.reuters.com/post/3maaj7h5oaa2c" target="_blank">japan.reuters.com</a> (2025-12-18 15:08:40)</span><span style="padding-right:50px;">米アルファベット傘下のグーグルは、自社の人工知能（ＡＩ）半導体を、世界で最も広く利用されている深層学習プラットフォーム「パイトーチ」上でより効率的に動作させるための新たな取り組みを進めている。ＡＩコンピューティング市場で長年エヌビディアが築いてきたソフトウエア環境を含めた支配的地位を弱める狙いがある。事情に詳しい複数の関係者が明らかにした。 bit.ly/3Y1KVBE <a href="https://bsky.app/profile/japan.reuters.com/post/3maaj37h3dv2n" target="_blank">japan.reuters.com</a> (2025-12-18 15:06:17)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】山上徹也被告に無期懲役求刑 安倍元総理銃撃事件 奈良地検 (2025-12-18 15:02:34) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maaj2kxnwp2x" target="_blank">sokuho.news</a> (2025-12-18 15:05:56)</span><span style="padding-right:50px;">Rupee treads water as traders move gingerly, importers lock in hedges reut.rs/4s4PEjs <a href="https://bsky.app/profile/reuters.com/post/3maaizbwsnb2i" target="_blank">reuters.com</a> (2025-12-18 15:05:13)</span><span style="padding-right:50px;">山上徹也被告に無期懲役を求刑　安倍元首相銃撃事件公判で検察側 www.nikkei.com/article/DGXZQO...  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3maaiycqsok22" target="_blank">nikkei.com</a> (2025-12-18 15:04:40)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49038.36 (🔻19.95 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3360.00 (🔺10.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.86 (🔺0.27 : 2025-12-18)</span>
+<span style="padding-right:50px;">NIKKEI: 49061.47 (🔺3.16 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3358.00 (🔺8.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.86 (🔺0.26 : 2025-12-18)</span>
   </div>
 </div>
 
@@ -32,108 +32,102 @@
 
 ## News Headlines
 
-Here are six important stories with headlines:
+Here are six important stories with headlines in English:
 
-1. US Firms Acquire Oil and Gas Assets in the US for $1.3 Billion
-2. Statue of Liberty Replicas Falls in Brazil Amid High Winds
-3. US Approves $11.1 Billion in Military Aid to Taiwan Amid China Tensions
-4. Biden Administration Under Fire as Trump Pins Inflation Concerns on Him
-5. US Approves $500 Billion Defense Spending Plan Amid Ukraine Crisis
-6. US Approves Jared Isaacman as Next NASA Administrator
+1. Japan's Nikkei Average Stuck in 49,000-Range Amid Small Moves
+2. Google Tackles Efficiency of AI Chips on Widely Used Platform
+3. Prosecutors Seek Life Sentence for Ex-Aide in Abe Assassination Trial
+4. South Africa's Inflation Rate Slows to 3.5% in November
+5. China Posts Record Trade Surplus of $1 Trillion in 11 Months
+6. Google Acquires Bardott Resources in $1.3 Billion Deal
 
 ----
 
 @japan.reuters.com
 
-石油資源開発は１８日、在米孫会社が管理する現地法人を通じて、米国でタイトオイル・ガス資産を保有するバーダッド・リソーシーズ・インターミディエイト・ホールディングスの全持分を取得すると発表した。取得額は約１３億米ドル（約２０２０億円）で、自己資金と借入金を充当する。 bit.ly/4pUZmU4
+＜１４：４６＞　日経平均は4万9000円挟み小動き、内需株は底堅い bit.ly/4q7NlKI
 
-[2025-12-18 14:46:58](https://bsky.app/profile/japan.reuters.com/post/3maahynorep2p)
-
----
-
-@cnn.com
-
-A Statue of Liberty replica in Guaíba, in southern Brazil, toppled over after the city experienced high winds. No one was injured in the collapse.
-
-[2025-12-18 14:42:24](https://bsky.app/profile/cnn.com/post/3maahqiottb2c)
-
----
-
-@nhknewsunofficial.bsky.social
-
-徳島道 観光バスなど複数台絡む事故 10人搬送 命に別状なし
-https://news.web.nhk/newsweb/na/na-k10015007211000
-
-[2025-12-18 14:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maahpuuvla22)
+[2025-12-18 15:08:40](https://bsky.app/profile/japan.reuters.com/post/3maaj7h5oaa2c)
 
 ---
 
 @japan.reuters.com
 
-米政府は１７日、中国からの軍事的圧力が強まる台湾に対して過去最大規模となる約１１１億ドルの武器売却を承認した。トランプ政権２期目では２回目となる。 bit.ly/3MASY5Y
+米アルファベット傘下のグーグルは、自社の人工知能（ＡＩ）半導体を、世界で最も広く利用されている深層学習プラットフォーム「パイトーチ」上でより効率的に動作させるための新たな取り組みを進めている。ＡＩコンピューティング市場で長年エヌビディアが築いてきたソフトウエア環境を含めた支配的地位を弱める狙いがある。事情に詳しい複数の関係者が明らかにした。 bit.ly/3Y1KVBE
 
-[2025-12-18 14:40:21](https://bsky.app/profile/japan.reuters.com/post/3maahmtjzqh2p)
-
----
-
-@reuters.com
-
-No evidence alleged Bondi gunmen received military training in the Philippines, says security adviser reut.rs/3Y1tEs9
-
-[2025-12-18 14:40:20](https://bsky.app/profile/reuters.com/post/3maahmslkpd2c)
-
----
-
-@nikkei.com
-
-公立小学校の給食無償化、所得制限設けず月5200円　自維公が合意
-www.nikkei.com/article/DGXZQO...
-
-基準額は今後の物価動向も踏まえ設定します。
-
-自治体の負担が生じない仕組みによって実質無償化を実現します。
-
-自治体向けに新たな交付金を創設し、基準額と児童数に応じて食材費の相当額を補助します。
-
-#ニュース
-
-[2025-12-18 14:40:02](https://bsky.app/profile/nikkei.com/post/3maahmb22vr2x)
+[2025-12-18 15:06:17](https://bsky.app/profile/japan.reuters.com/post/3maaj37h3dv2n)
 
 ---
 
 @sokuho.news
 
-🔔ANNより【速報】です。
+🛎️JNNより【速報】です。
 
-【速報】公立小学校の給食無償化で3党合意 児童1人あたり月5200円を支援
-(14:36) #ニュース
+【速報】山上徹也被告に無期懲役求刑 安倍元総理銃撃事件 奈良地検
+(2025-12-18 15:02:34) #ニュース
 
-[2025-12-18 14:39:18](https://bsky.app/profile/sokuho.news/post/3maahkx5aap2r)
+[2025-12-18 15:05:56](https://bsky.app/profile/sokuho.news/post/3maaj2kxnwp2x)
 
 ---
 
-@financialtimes.com
+@reuters.com
 
-‘I inherited a mess and I am fixing it,’ the US president said during a televised address during which he pinned cost-of-living concerns squarely on Joe Biden’s administration. ft.trib.al/K7qfzNK
+Rupee treads water as traders move gingerly, importers lock in hedges reut.rs/4s4PEjs
 
-[2025-12-18 14:39:09](https://bsky.app/profile/financialtimes.com/post/3maahkoiage2p)
+[2025-12-18 15:05:13](https://bsky.app/profile/reuters.com/post/3maaizbwsnb2i)
+
+---
+
+@nikkei.com
+
+山上徹也被告に無期懲役を求刑　安倍元首相銃撃事件公判で検察側
+www.nikkei.com/article/DGXZQO...
+
+#ニュース
+
+[2025-12-18 15:04:40](https://bsky.app/profile/nikkei.com/post/3maaiycqsok22)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-警察庁 ドローン禁止区域の拡大など提言取りまとめ
-https://news.web.nhk/newsweb/na/na-k10015007341000
+【随時更新】ロシア ウクライナに軍事侵攻（12月18日の動き）
+https://news.web.nhk/newsweb/na/na-k10014990651000
 
-[2025-12-18 14:39:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maahkj3ksu2s)
+[2025-12-18 15:03:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maaivmay732y)
 
 ---
 
-@financialtimes.com
+@cnn.com
 
-Inside the ‘industrial scale’ Trump pardon machine ft.trib.al/stfL2xH
+Contrary to popular depictions of bee nests as large, intricate hives that hang from trees, the majority of bee species — about 90% — are actually solitary and build their nests in the ground or within rotting logs and the stems of plants. https://cnn.it/4j5oGEn
 
-[2025-12-18 14:36:50](https://bsky.app/profile/financialtimes.com/post/3maahgjydo32p)
+[2025-12-18 15:03:02](https://bsky.app/profile/cnn.com/post/3maaiveusbq2o)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+安倍元首相銃撃事件裁判 検察は山上被告に無期懲役を求刑
+https://news.web.nhk/newsweb/na/na-k10015007141000
+
+[2025-12-18 15:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maaivgxjew2d)
+
+---
+
+@japan.reuters.com
+
+南アフリカ統計局が１７日発表した１１月の消費者物価指数（ＣＰＩ）は前年比３．５％上昇したが、３カ月ぶりに鈍化した。同国では先月にインフレ目標が引き下げられたこともあり、南ア準備銀行（中央銀行）が来年さらに利下げするとの見方が強まった。 bit.ly/495l80r
+
+[2025-12-18 15:02:49](https://bsky.app/profile/japan.reuters.com/post/3maaiuynm222q)
+
+---
+
+@sokuho.news
+
+<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>安倍元首相銃撃事件裁判 検察は山上被告に無期懲役を求刑</strong><br><strong>(2025-12-18 15:01:30) #ニュース</strong>
+
+[2025-12-18 15:02:01](https://bsky.app/profile/sokuho.news/post/3maaitlb6ge2r)
 
 ---
 
