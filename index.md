@@ -1,9 +1,9 @@
-# [2025-12-18 10:50 updated](2025_12_18.md)
+# [2025-12-18 11:10 updated](2025_12_18.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">ポーランドは冷戦後初となる対人地雷生産を開始することを決定し、東部国境沿いに配備する計画だとザレフスキ国防次官がロイターに明らかにした。 bit.ly/3MG3ZTv <a href="https://bsky.app/profile/japan.reuters.com/post/3maa2pn3mpu2s" target="_blank">japan.reuters.com</a> (2025-12-18 10:49:17)</span><span style="padding-right:50px;">The Washington Nationals are hiring 31-year-old Anirudh Kilambi as their general manager. The move gives new president of baseball operations Paul Toboni a second-in-command atop the organization’s front office hierarchy. <a href="https://bsky.app/profile/washingtonpost.com/post/3maa2hzzm3w2y" target="_blank">washingtonpost.com</a> (2025-12-18 10:45:02)</span><span style="padding-right:50px;">MetaX and Moore Threads' IPOs underscore Chinese chipmakers' growing challenge to Nvidia <a href="https://bsky.app/profile/cnbc.com/post/3maa2gobkxc2p" target="_blank">cnbc.com</a> (2025-12-18 10:44:16)</span><span style="padding-right:50px;">対話型人工知能（ＡＩ）「チャットＧＰＴ」を手がけるオープンＡＩは、評価額約７５００億ドルでの資金調達について、一部の投資家と予備的な協議を行ったと、ニュースサイトのジ・インフォメーションが関係者の話として１７日に報じた。 bit.ly/4aj8rkV <a href="https://bsky.app/profile/japan.reuters.com/post/3maa2gjhlpl2f" target="_blank">japan.reuters.com</a> (2025-12-18 10:44:11)</span><span style="padding-right:50px;">‘If we don’t do it now, Brazil won’t make any more deals while I’m president,’ Luiz Inácio Lula da Silva warned, after Italy and France asked Brussels to delay a vote on the landmark agreement. ft.trib.al/2NsX7FC <a href="https://bsky.app/profile/financialtimes.com/post/3maa2axwvvk2q" target="_blank">financialtimes.com</a> (2025-12-18 10:41:05)</span>
+<span style="padding-right:50px;">米下院は１７日、医療保険制度改革法（オバマケア）の補助金延長を盛り込まない共和党の代替案を可決した。これを受け、補助金が年末に期限切れとなることがほぼ確実となった。 bit.ly/4qg1FB9 <a href="https://bsky.app/profile/japan.reuters.com/post/3maa3s3frbb22" target="_blank">japan.reuters.com</a> (2025-12-18 11:08:33)</span><span style="padding-right:50px;">Breaking news: The government has admitted fault in the Jan. 29 collision between an Army helicopter and a commercial jet over the Potomac River, opening the door for the families of the 67 victims to pursue a monetary settlement. <a href="https://bsky.app/profile/washingtonpost.com/post/3maa3pcvrmj25" target="_blank">washingtonpost.com</a> (2025-12-18 11:07:00)</span><span style="padding-right:50px;">LIVE: President Trump addresses the nation  www.youtube.com/watch?v=5GRD... <a href="https://bsky.app/profile/reuters.com/post/3maa3ogqzkc2k" target="_blank">reuters.com</a> (2025-12-18 11:06:30)</span><span style="padding-right:50px;">The world’s best-performing stock is turning into a cautionary tale for investors chasing outsized returns from the artificial-intelligence boom. bloom.bg/3N5OJzi  📷: An Rong Xu/Bloomberg <a href="https://bsky.app/profile/bloomberg.com/post/3maa3m3jt5t2x" target="_blank">bloomberg.com</a> (2025-12-18 11:05:11)</span><span style="padding-right:50px;">Watch live: President Trump is addressing the nation as his administration tries to tamp down economic anxieties. Follow our coverage. <a href="https://bsky.app/profile/nytimes.com/post/3maa3lxityx2y" target="_blank">nytimes.com</a> (2025-12-18 11:05:07)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 48893.13 (🔻165.18 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3346.00 (🔻4.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.73 (🔺0.14 : 2025-12-18)</span>
+<span style="padding-right:50px;">NIKKEI: 48905.43 (🔻152.88 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3351.00 (🔺1.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.73 (🔺0.13 : 2025-12-18)</span>
   </div>
 </div>
 
@@ -32,122 +32,98 @@
 
 ## News Headlines
 
-1. Poland to Begin Producing Anti-Personnel Mines for First Time Since Cold War
-2. Washington Nationals Hire 31-Year-Old Anirudh Kilambi as General Manager
-3. MetaX and Moore Threads' IPOs Highlight Growing Challenge to Nvidia
-4. OpenAI in Talks to Raise $7,500 Billion in Valuation
-5. White House Installs New Plaques on Trump's Presidential Walk of Fame with Insults and Random Capitalization
-6. PSG Wins Intercontinental Cup After Safonov's Heroics
-7. Chile Central Bank Sees 2-3% GDP Growth in 2026
-8. Apple to Charge 15% Fee for App Store Payments
-9. US Fed Terminates Citi's Risk Control Demands
-10. Venezuela's Oil Industry Faces Uncertainty as US Operation Plays Out
-11. Nick Reiner Faces 25 Years to Life in Prison for Parent's Murder
-12. Chinese Billionaire Said to Have 100 U.S.-Born Kids Through Surrogacy
-13. Mikaela Shiffrin Wins Slalom by an Average of 1.5 Seconds
-14. Jeffries' Strategy to Pass ACA Extension Bill
-15. ValueAct Capital Increases Stake in Toyota to 12.44%
-16. Japan's Kishida Government to Modify Economic Policy to be Between Abenomics and Reaganomics
-17. White House Offers Tariff Rebates and Tax Refunds to Ease Economic Anxieties
-18. Russia's Defense Minister Announces 11 Trillion Rubles for Ukraine War in 2025
-19. Japan's Prime Minister Fumio Kishida's Latest Developments
-20. Senate Passes NDAA Bill to Increase Military Spending
-21. House Votes to Pass Bill to Imprison Healthcare Providers for Providing Gender-Affirming Care
-22. Ford CEO Jim Farley Considers Halting EV Development
-23. Brazilian Lawmakers Approve Legislation to Reduce Jair Bolsonaro's Prison Time
-24. Man Injured in Car Accident in Nagasaki Prefecture
-25. Packers' Christian Watson Practices Despite Injury Concerns
-26. Brooklyn Band Geese Revives Interest in Rock Music
-27. Nippon Ishin no Kai's Leader Says Party Will Accept Reduced Number of MPs Even if House Dissolved
-28. Labor Union and Investment Group Ask Amazon, Walmart, and Alphabet About Impact of Trump's Immigration Policy
-29. US Government Notifies Congress of $1.1 Billion Arms Sale to Taiwan
-30. Odell Beckham Jr. and Druski Speak Out After Lawsuit Dismissed
-31. New NISA Saw 87.2% of Users Report Positive Returns
-32. Japan's Kishida Government to Modify Economic Policy to be Between Abenomics and Reaganomics
+Here are six news headlines in English:
+
+1. US Senate Rejects Republican Alternative to Extend ObamaCare Subsidies
+2. Trump Administration Takes Responsibility for Helicopter Collision That Killed 67 People
+3. World's Best-Performing Stock Becomes Cautionary Tale for AI Investors
+4. Trump Addresses Nation Amid Economic Anxieties
+5. China's State-Owned Company to Acquire Two Securities Firms for $16 Billion
+6. Judge Blocks Michigan from Shutting Down Enbridge Oil Pipeline
 
 ----
 
 @japan.reuters.com
 
-ポーランドは冷戦後初となる対人地雷生産を開始することを決定し、東部国境沿いに配備する計画だとザレフスキ国防次官がロイターに明らかにした。 bit.ly/3MG3ZTv
+米下院は１７日、医療保険制度改革法（オバマケア）の補助金延長を盛り込まない共和党の代替案を可決した。これを受け、補助金が年末に期限切れとなることがほぼ確実となった。 bit.ly/4qg1FB9
 
-[2025-12-18 10:49:17](https://bsky.app/profile/japan.reuters.com/post/3maa2pn3mpu2s)
+[2025-12-18 11:08:33](https://bsky.app/profile/japan.reuters.com/post/3maa3s3frbb22)
 
 ---
 
 @washingtonpost.com
 
-The Washington Nationals are hiring 31-year-old Anirudh Kilambi as their general manager. The move gives new president of baseball operations Paul Toboni a second-in-command atop the organization’s front office hierarchy.
+<strong><span style="color: red;">Breaking news:</span> The government has admitted fault in the Jan. 29 collision between an Army helicopter and a commercial jet over the Potomac River, opening the door for the families of the 67 victims to pursue a monetary settlement.</strong>
 
-[2025-12-18 10:45:02](https://bsky.app/profile/washingtonpost.com/post/3maa2hzzm3w2y)
-
----
-
-@cnbc.com
-
-MetaX and Moore Threads' IPOs underscore Chinese chipmakers' growing challenge to Nvidia
-
-[2025-12-18 10:44:16](https://bsky.app/profile/cnbc.com/post/3maa2gobkxc2p)
-
----
-
-@japan.reuters.com
-
-対話型人工知能（ＡＩ）「チャットＧＰＴ」を手がけるオープンＡＩは、評価額約７５００億ドルでの資金調達について、一部の投資家と予備的な協議を行ったと、ニュースサイトのジ・インフォメーションが関係者の話として１７日に報じた。 bit.ly/4aj8rkV
-
-[2025-12-18 10:44:11](https://bsky.app/profile/japan.reuters.com/post/3maa2gjhlpl2f)
-
----
-
-@financialtimes.com
-
-‘If we don’t do it now, Brazil won’t make any more deals while I’m president,’ Luiz Inácio Lula da Silva warned, after Italy and France asked Brussels to delay a vote on the landmark agreement. ft.trib.al/2NsX7FC
-
-[2025-12-18 10:41:05](https://bsky.app/profile/financialtimes.com/post/3maa2axwvvk2q)
-
----
-
-@cnn.com
-
-The White House has installed new plaques along President Donald Trump's "Presidential Walk of Fame," featuring descriptions that read like his Truth Social posts, including insults and random capitalization. CNN's Kaitlan Collins reports from the White House.
-
-Read more: https://cnn.it/3N6RlwP
-
-[2025-12-18 10:40:38](https://bsky.app/profile/cnn.com/post/3maa2a6our62u)
+[2025-12-18 11:07:00](https://bsky.app/profile/washingtonpost.com/post/3maa3pcvrmj25)
 
 ---
 
 @reuters.com
 
-Safonov the shootout hero as PSG sink Flamengo to win Intercontinental Cup reut.rs/3L88HsD
+LIVE: President Trump addresses the nation
 
-[2025-12-18 10:40:33](https://bsky.app/profile/reuters.com/post/3maa27zw46a23)
+www.youtube.com/watch?v=5GRD...
+
+[2025-12-18 11:06:30](https://bsky.app/profile/reuters.com/post/3maa3ogqzkc2k)
 
 ---
 
-@japan.reuters.com
+@bloomberg.com
 
-＜１０：１５＞　日経平均は4万9000円挟んだ値動き、主力ハイテク株は２─３％超安 bit.ly/490Xn9R
+The world’s best-performing stock is turning into a cautionary tale for investors chasing outsized returns from the artificial-intelligence boom. bloom.bg/3N5OJzi
 
-[2025-12-18 10:40:13](https://bsky.app/profile/japan.reuters.com/post/3maa27gycnf2c)
+📷: An Rong Xu/Bloomberg
+
+[2025-12-18 11:05:11](https://bsky.app/profile/bloomberg.com/post/3maa3m3jt5t2x)
+
+---
+
+@nytimes.com
+
+Watch live: President Trump is addressing the nation as his administration tries to tamp down economic anxieties. Follow our coverage.
+
+[2025-12-18 11:05:07](https://bsky.app/profile/nytimes.com/post/3maa3lxityx2y)
 
 ---
 
 @washingtonpost.com
 
-President Trump will deliver a televised speech Wednesday night at 9 p.m. EST. Trump is not expected to make major new policy announcements during the address, but officials cautioned he could change his mind.
+Follow live updates of President Donald Trump's speech here:
 
-Live updates here:
-
-[2025-12-18 10:35:01](https://bsky.app/profile/washingtonpost.com/post/3ma7zw53pk72n)
+[2025-12-18 11:04:52](https://bsky.app/profile/washingtonpost.com/post/3maa3lj3hiy24)
 
 ---
 
-@cnbc.com
+@apnews.com
 
-CNBC Daily Open: Concerns over Oracle's debt spill over into its projects
+Pulitzer Prize-winning journalist Peter Arnett, who traveled the world covering wars from Vietnam to Iraq, has died.
 
-[2025-12-18 10:34:06](https://bsky.app/profile/cnbc.com/post/3ma7zuix7zo2b)
+[2025-12-18 11:04:10](https://bsky.app/profile/apnews.com/post/3maa3kapz5v23)
+
+---
+
+@japan.reuters.com
+
+中国国有の中国国際金融（ＣＩＣＣ）は１７日、同業の東興証券と信達証券を約１６０億ドルで買収する計画を発表した。 bit.ly/3YlqkZf
+
+[2025-12-18 11:04:09](https://bsky.app/profile/japan.reuters.com/post/3maa3ka3gov2s)
+
+---
+
+@cnn.com
+
+It’s been a rough year for job seekers. The last thing they wanted was a Spotify Wrapped-style reminder of that. They got one anyway, when LinkedIn launched an inaugural Year in Review. https://cnn.it/49iFlRu
+
+[2025-12-18 11:04:04](https://bsky.app/profile/cnn.com/post/3maa3k3b4wg2x)
+
+---
+
+@japan.reuters.com
+
+サッカーのイングランド・リーグカップは１７日、各地で準々決勝を行い、マンチェスター・シティー（マンＣ）はブレントフォードに２─０で白星を挙げ、ベスト４に進出した。 bit.ly/48L4cxm
+
+[2025-12-18 11:04:00](https://bsky.app/profile/japan.reuters.com/post/3maa3jxhsel2f)
 
 ---
 
