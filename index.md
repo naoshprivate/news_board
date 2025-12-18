@@ -1,9 +1,9 @@
-# [2025-12-18 23:10 updated](2025_12_18.md)
+# [2025-12-18 23:30 updated](2025_12_18.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">State Farm Arena in Atlanta was ranked fifth in the nation and seventh in the world in the Billboard’s The Year In Touring 2025 Report. Here's why <a href="https://bsky.app/profile/usatoday.com/post/3mabe2ab4yp2c" target="_blank">usatoday.com</a> (2025-12-18 23:08:56)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】アメリカ11月の消費者物価指数 2.7%上昇 (2025-12-18 23:05:32) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mabdxt47ye27" target="_blank">sokuho.news</a> (2025-12-18 23:07:35)</span><span style="padding-right:50px;"> The hard politics of climate overshoot ft.trib.al/qPMwP1x  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3mabdwwyrre25" target="_blank">financialtimes.com</a> (2025-12-18 23:07:05)</span><span style="padding-right:50px;">Trump's new 'warrior dividend' is at least the 10th thing he's said tariffs could pay for <a href="https://bsky.app/profile/yahoofinance.com/post/3mabdwgx7of2q" target="_blank">yahoofinance.com</a> (2025-12-18 23:06:49)</span><span style="padding-right:50px;">🇦🇺 🏴󠁧󠁢󠁥󠁮󠁧󠁿 A pumped-up Australia ripped through England's fragile batting in Adelaide on Thursday to leave the tourists staring down the barrel of a third Test defeat with their Ashes campaign on the brink, barring a miracle ➡️ u.afp.com/S8oU <a href="https://bsky.app/profile/en.afp.com/post/3mabdwfqs4y2j" target="_blank">en.afp.com</a> (2025-12-18 23:06:47)</span>
+<span style="padding-right:50px;">Traders see Fed on hold next month, but increase bets of March cut after CPI data <a href="https://bsky.app/profile/cnbc.com/post/3mabf2qejtc2g" target="_blank">cnbc.com</a> (2025-12-18 23:27:06)</span><span style="padding-right:50px;">ヨーロッパ中央銀行 4会合連続 主要な政策金利据え置きを決定 https://news.web.nhk/newsweb/na/na-k10015008011000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mabf2ofmfb2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 23:27:02)</span><span style="padding-right:50px;">Peter Arnett, Pulitzer-winning war reporter, dies aged 91 <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mabf2feedd2s" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-18 23:26:54)</span><span style="padding-right:50px;">"Things That Matter," a series of planned town halls and debates sponsored by Bank of America, will launch early next year. <a href="https://bsky.app/profile/cbsnews.com/post/3mabezjjnjj2l" target="_blank">cbsnews.com</a> (2025-12-18 23:26:26)</span><span style="padding-right:50px;">Trump to announce Medicare pilot program to pay for CBD treatments, report says reut.rs/45hUkc2 <a href="https://bsky.app/profile/reuters.com/post/3mabexdwkch2c" target="_blank">reuters.com</a> (2025-12-18 23:25:13)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.38 (🔻0.22 : 2025-12-18)</span>
+<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 48163.86 (🔺62.68 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 174.40 (🔻0.13 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.39 (🔻0.21 : 2025-12-18)</span>
   </div>
 </div>
 
@@ -32,104 +32,96 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are six news headlines in English:
 
-1. US Consumer Prices Rise 2.7% in November, Lower Than Expected
-2. Australia Rips Through England's Batting in Adelaide, Leaves Ashes Campaign on Brink of Defeat
-3. Polish Constitutional Tribunal Violated EU Law, European Court Rules
-4. Earthquake Hits Off Coast of Fukushima Prefecture, Japan
-5. US Inflation Decelerates Unexpectedly, Despite Tariff Campaign
-6. Trumps' Goal to Release Fannie Mae and Freddie Mac from Government Control Will Take Longer Than Expected
+1. Traders See Fed Holding Interest Rates Next Month
+2. Europe's Central Bank Keeps Interest Rates Steady for 4th Straight Meeting
+3. US Consumer Prices Rise 2.7% in November
+4. Trump Announces $10 Billion Arms Deal with Taiwan Amid China's Disapproval
+5. Polish Constitutional Tribunal Found to Have Violated EU Law
+6. US Housing Market: Trump's Plan to Release Fannie Mae and Freddie Mac from Government Control Faces Delays
 
 ----
 
-@usatoday.com
+@cnbc.com
 
-State Farm Arena in Atlanta was ranked fifth in the nation and seventh in the world in the Billboard’s The Year In Touring 2025 Report. Here's why
+Traders see Fed on hold next month, but increase bets of March cut after CPI data
 
-[2025-12-18 23:08:56](https://bsky.app/profile/usatoday.com/post/3mabe2ab4yp2c)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】アメリカ11月の消費者物価指数 2.7%上昇
-(2025-12-18 23:05:32) #ニュース
-
-[2025-12-18 23:07:35](https://bsky.app/profile/sokuho.news/post/3mabdxt47ye27)
+[2025-12-18 23:27:06](https://bsky.app/profile/cnbc.com/post/3mabf2qejtc2g)
 
 ---
 
-@financialtimes.com
+@nhknewsunofficial.bsky.social
 
- The hard politics of climate overshoot ft.trib.al/qPMwP1x  | opinion
+ヨーロッパ中央銀行 4会合連続 主要な政策金利据え置きを決定
+https://news.web.nhk/newsweb/na/na-k10015008011000
 
-[2025-12-18 23:07:05](https://bsky.app/profile/financialtimes.com/post/3mabdwwyrre25)
-
----
-
-@yahoofinance.com
-
-Trump's new 'warrior dividend' is at least the 10th thing he's said tariffs could pay for
-
-[2025-12-18 23:06:49](https://bsky.app/profile/yahoofinance.com/post/3mabdwgx7of2q)
+[2025-12-18 23:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mabf2ofmfb2b)
 
 ---
 
-@en.afp.com
+@bbcnews-world-rss.bsky.social
 
-🇦🇺 🏴󠁧󠁢󠁥󠁮󠁧󠁿 A pumped-up Australia ripped through England's fragile batting in Adelaide on Thursday to leave the tourists staring down the barrel of a third Test defeat with their Ashes campaign on the brink, barring a miracle ➡️ u.afp.com/S8oU
+Peter Arnett, Pulitzer-winning war reporter, dies aged 91
 
-[2025-12-18 23:06:47](https://bsky.app/profile/en.afp.com/post/3mabdwfqs4y2j)
+[2025-12-18 23:26:54](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mabf2feedd2s)
 
 ---
 
-@sokuho.news
+@cbsnews.com
 
-🔔ANNより【速報】です。
+"Things That Matter," a series of planned town halls and debates sponsored by Bank of America, will launch early next year.
 
-【速報】米11月の消費者物価2.7%上昇 政府閉鎖の影響で10月分は公表されず
-(23:04) #ニュース
-https://news.tv-asahi.co.jp/news_international/articles/000473918.html?display=full
-
-[2025-12-18 23:06:17](https://bsky.app/profile/sokuho.news/post/3mabdvjirwx2b)
+[2025-12-18 23:26:26](https://bsky.app/profile/cbsnews.com/post/3mabezjjnjj2l)
 
 ---
 
 @reuters.com
 
-Morning Bid: Optics and Oracles reut.rs/454Pr66
+Trump to announce Medicare pilot program to pay for CBD treatments, report says reut.rs/45hUkc2
 
-[2025-12-18 23:05:23](https://bsky.app/profile/reuters.com/post/3mabdtvomkh2k)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】佐世保市で建物火災
-(2025-12-18 23:01:00) #ニュース
-
-[2025-12-18 23:04:37](https://bsky.app/profile/sokuho.news/post/3mabdsjnt742r)
+[2025-12-18 23:25:13](https://bsky.app/profile/reuters.com/post/3mabexdwkch2c)
 
 ---
 
 @wsj.com
 
-Mario Cristobal led Miami to its first ever playoff berth by keeping any and all information close to the vest. But against Texas A&M on Saturday, he hopes to spring an upset in plain sight. on.wsj.com/4iZwesc
+The U.S. government accepted fault for a midair collision earlier this year that killed 67 people near Washington, D.C., saying it is willing to pay damages in connection with the incident.
 
-[2025-12-18 23:04:23](https://bsky.app/profile/wsj.com/post/3mabds4dcle2q)
+[2025-12-18 23:25:04](https://bsky.app/profile/wsj.com/post/3mabex3s2ym2t)
 
 ---
 
-@reuters.com
+@cnbc.com
 
-US consumer prices increased less than expected in the year to November, but the moderation is likely technical and Americans continued to face affordability challenges that have been partly blamed on tariffs on imports reut.rs/4pGwwqt
+Micron stock pops 14% as AI memory demand soars: 'We are more than sold out'
 
-[2025-12-18 23:03:06](https://bsky.app/profile/reuters.com/post/3mabdpssk3c24)
+[2025-12-18 23:24:34](https://bsky.app/profile/cnbc.com/post/3mabew7fmqu2b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+米 11月の消費者物価指数 前年同月比2.7％上昇
+https://news.web.nhk/newsweb/na/na-k10015008021000
+
+[2025-12-18 23:24:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mabevdl6fl22)
+
+---
+
+@wsj.com
+
+Years after Islamic State’s caliphate collapsed, the group continues to inspire lone-wolf attacks such as the one on Sydney’s Bondi Beach.
+
+[2025-12-18 23:22:03](https://bsky.app/profile/wsj.com/post/3maberphicb2i)
+
+---
+
+@nbcnews.com
+
+Pope Leo XIV makes his most important U.S. appointment to date, naming a fellow Chicagoan as the next archbishop of New York to lead one of the biggest U.S. archdioceses as it navigates relations with the Trump administration and its immigration crackdown.
+
+[2025-12-18 23:20:11](https://bsky.app/profile/nbcnews.com/post/3mabeoe3ymn23)
 
 ---
 
