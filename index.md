@@ -1,9 +1,9 @@
-# [2025-12-19 03:10 updated](2025_12_19.md)
+# [2025-12-19 03:30 updated](2025_12_19.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;"> Trump is on to something: finance and fusion have much in common ft.trib.al/lUAZFZQ  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3mabrihhy6q2w" target="_blank">financialtimes.com</a> (2025-12-19 03:09:32)</span><span style="padding-right:50px;">President Trump&#39;s peace plan for Gaza hinges on international troops in Gaza, but Israel is skeptical and no country has yet agreed to send their soldiers. n.pr/4pKcLyg <a href="https://bsky.app/profile/npr.org/post/3mabrhntu2v24" target="_blank">npr.org</a> (2025-12-19 03:09:05)</span><span style="padding-right:50px;">Financial data firm FactSet's quarterly profit climbs on steady subscription growth reut.rs/495HGhH <a href="https://bsky.app/profile/reuters.com/post/3mabrauck5r2c" target="_blank">reuters.com</a> (2025-12-19 03:05:17)</span><span style="padding-right:50px;">American Airlines no longer lets basic economy flyers earn miles <a href="https://bsky.app/profile/cnbc.com/post/3mabr5sddih2m" target="_blank">cnbc.com</a> (2025-12-19 03:03:34)</span><span style="padding-right:50px;">With Carey's enduring Christmas hit, we may be looking at a record that borders on the untouchable. n.pr/4q9clBw <a href="https://bsky.app/profile/npr.org/post/3mabr3wnjga2y" target="_blank">npr.org</a> (2025-12-19 03:02:31)</span>
+<span style="padding-right:50px;">A hotel by Kennedy Airport has been transformed into affordable housing in the first hotel-to-housing conversion of its kind in New York City. Here’s a look inside. trib.al/pmaQpaR <a href="https://bsky.app/profile/nytimes.com/post/3mabsi7wkm22j" target="_blank">nytimes.com</a> (2025-12-19 03:27:18)</span><span style="padding-right:50px;">Kennedy Center to be renamed 'Trump-Kennedy Center,' White House says <a href="https://bsky.app/profile/cnbc.com/post/3mabsi257h52m" target="_blank">cnbc.com</a> (2025-12-19 03:27:12)</span><span style="padding-right:50px;">Venezuela authorizes two unsanctioned loaded oil supertankers to depart, sources say reut.rs/49hA5xv <a href="https://bsky.app/profile/reuters.com/post/3mabseote4h2s" target="_blank">reuters.com</a> (2025-12-19 03:25:19)</span><span style="padding-right:50px;">Inflation in November fell to 2.7%, the Bureau of Labor Statistics says, a positive sign for consumers on its face. <a href="https://bsky.app/profile/nbcnews.com/post/3mabs43wgi32k" target="_blank">nbcnews.com</a> (2025-12-19 03:20:31)</span><span style="padding-right:50px;">Mortgage rates hold steady, shrugging off weak jobs data and Fed rate cut <a href="https://bsky.app/profile/yahoofinance.com/post/3mabrwopcid2j" target="_blank">yahoofinance.com</a> (2025-12-19 03:17:29)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 48085.63 (🔻15.55 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23092.84 (🔺80.78 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 175.33 (🔺0.80 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.60 (🔺0.01 : 2025-12-18)</span>
+<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 48120.98 (🔺19.80 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23101.22 (🔺89.16 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.97 (🔺0.44 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.65 (🔺0.06 : 2025-12-18)</span>
   </div>
 </div>
 
@@ -32,94 +32,94 @@
 
 ## News Headlines
 
-Here are six news headlines in English:
+Here are six important stories with headlines in English:
 
-1. Trump's Peace Plan for Gaza Hinges on International Troops, But Israel Remains Skeptical
-2. FactSet's Quarterly Profit Surges on Steady Subscription Growth
-3. US Sanctions More ICC Judges Over Israeli War Crime Probe Ruling
-4. Private Jet Crashes in North Carolina, Multiple Fatalities Reported
-5. CPI Inflation Print Draws Caution from Economists: It's Hard to Take This Data Seriously
-6. Austria's RBI to Book Nearly $400 Million Provisions in Rasperia Lawsuit
+1. Hotel by JFK Airport Converted into Affordable Housing in Historic NYC Project
+2. Trump-Kennedy Center Name Change Announced by White House
+3. Venezuela Authorizes Loaded Oil Supertankers to Depart Amid Sanctions
+4. US Inflation Rate Drops to 2.7% in November, a Positive Sign for Consumers
+5. Palo Alto Considers Legislation to Restrict Wealthy Tech Moguls' Property Ownership
+6. US Sanctions More ICC Judges Over Ruling on Israeli War Crime Probe
 
 ----
 
-@financialtimes.com
+@nytimes.com
 
- Trump is on to something: finance and fusion have much in common ft.trib.al/lUAZFZQ  | opinion
+A hotel by Kennedy Airport has been transformed into affordable housing in the first hotel-to-housing conversion of its kind in New York City. Here’s a look inside. trib.al/pmaQpaR
 
-[2025-12-19 03:09:32](https://bsky.app/profile/financialtimes.com/post/3mabrihhy6q2w)
-
----
-
-@npr.org
-
-President Trump&#39;s peace plan for Gaza hinges on international troops in Gaza, but Israel is skeptical and no country has yet agreed to send their soldiers. n.pr/4pKcLyg
-
-[2025-12-19 03:09:05](https://bsky.app/profile/npr.org/post/3mabrhntu2v24)
-
----
-
-@reuters.com
-
-Financial data firm FactSet's quarterly profit climbs on steady subscription growth reut.rs/495HGhH
-
-[2025-12-19 03:05:17](https://bsky.app/profile/reuters.com/post/3mabrauck5r2c)
+[2025-12-19 03:27:18](https://bsky.app/profile/nytimes.com/post/3mabsi7wkm22j)
 
 ---
 
 @cnbc.com
 
-American Airlines no longer lets basic economy flyers earn miles
+Kennedy Center to be renamed 'Trump-Kennedy Center,' White House says
 
-[2025-12-19 03:03:34](https://bsky.app/profile/cnbc.com/post/3mabr5sddih2m)
-
----
-
-@npr.org
-
-With Carey's enduring Christmas hit, we may be looking at a record that borders on the untouchable. n.pr/4q9clBw
-
-[2025-12-19 03:02:31](https://bsky.app/profile/npr.org/post/3mabr3wnjga2y)
-
----
-
-@yahoofinance.com
-
-2025 was the best year for IPOS since 2021. Over $30 billion was raised in the first three quarters alone!
-
-[2025-12-19 03:02:19](https://bsky.app/profile/yahoofinance.com/post/3mabr3l2jt52j)
+[2025-12-19 03:27:12](https://bsky.app/profile/cnbc.com/post/3mabsi257h52m)
 
 ---
 
 @reuters.com
 
-Pirelli says 99.3% of 500 mln euro bond converted, diluting Sinochem and Camfin stakes reut.rs/4j2cjJr
+Venezuela authorizes two unsanctioned loaded oil supertankers to depart, sources say reut.rs/49hA5xv
 
-[2025-12-19 03:01:08](https://bsky.app/profile/reuters.com/post/3mabqzhfy7d2i)
-
----
-
-@usatoday.com
-
-A 2-for-1 ticket offer for the fight between Jake Paul and Anthony Joshua raised questions about what's behind the apparent sluggish ticket sales.
-
-[2025-12-19 03:00:59](https://bsky.app/profile/usatoday.com/post/3mabqz6addp2g)
+[2025-12-19 03:25:19](https://bsky.app/profile/reuters.com/post/3mabseote4h2s)
 
 ---
 
-@wsj.com
+@nbcnews.com
 
-You Can Keep Your Holiday Rom Com. I’ll Take a Military Thriller. on.wsj.com/4sjY0nM
+Inflation in November fell to 2.7%, the Bureau of Labor Statistics says, a positive sign for consumers on its face.
 
-[2025-12-19 03:00:58](https://bsky.app/profile/wsj.com/post/3mabqz67njn2e)
+[2025-12-19 03:20:31](https://bsky.app/profile/nbcnews.com/post/3mabs43wgi32k)
+
+---
+
+@yahoofinance.com
+
+Mortgage rates hold steady, shrugging off weak jobs data and Fed rate cut
+
+[2025-12-19 03:17:29](https://bsky.app/profile/yahoofinance.com/post/3mabrwopcid2j)
+
+---
+
+@axios.com
+
+NEW: Democrats release new Epstein images with Lolita references and high-profile names
+
+[2025-12-19 03:16:21](https://bsky.app/profile/axios.com/post/3mabrunej222s)
+
+---
+
+@reuters.com
+
+ECB keeps rates steady, nudges up growth forecast reut.rs/492dYKa
+
+[2025-12-19 03:15:21](https://bsky.app/profile/reuters.com/post/3mabrsuknal2b)
+
+---
+
+@nytimes.com
+
+Palo Alto, California, has changed drastically as Mark Zuckerberg, Larry Page and other tech founders have scooped up multiple properties. Greer Stone, a councilman, plans to introduce legislation that would restrict the way the town’s wealthiest homeowners can operate.
+
+[2025-12-19 03:15:05](https://bsky.app/profile/nytimes.com/post/3mabrseziw32y)
+
+---
+
+@cnbc.com
+
+Trump promises 'largest tax refund season of all time.' What you can expect
+
+[2025-12-19 03:14:46](https://bsky.app/profile/cnbc.com/post/3mabrrsttx32i)
 
 ---
 
 @apnews.com
 
-Security footage released by the FBI shows a route taken by a person police are seeking in connection with the Brown University shooting.
+A sheriff said there were deaths Thursday in the crash of a business jet that was trying to land at a regional airport in Statesville, North Carolina.
 
-[2025-12-19 03:00:44](https://bsky.app/profile/apnews.com/post/3mabqypqrd62q)
+[2025-12-19 03:11:09](https://bsky.app/profile/apnews.com/post/3mabrleaxv52r)
 
 ---
 
