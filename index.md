@@ -1,9 +1,9 @@
-# [2025-12-18 15:50 updated](2025_12_18.md)
+# [2025-12-18 16:10 updated](2025_12_18.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;"> Two views of AI and Big Tech ft.trib.al/v7ifpe7  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3maald2fvel2b" target="_blank">financialtimes.com</a> (2025-12-18 15:46:28)</span><span style="padding-right:50px;">第一三共系、国内初の処方箋不要の緊急避妊薬　1回7480円で2月発売 www.nikkei.com/article/DGXZQO...  2026年2月2日に発売します。使用する年齢の制限はなく、薬剤師の前での服用が義務付けられます。  避妊の失敗や性暴力などによる望まない妊娠を避けるため、性交から原則72時間以内に1錠服用します。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3maalav4p2z2i" target="_blank">nikkei.com</a> (2025-12-18 15:45:15)</span><span style="padding-right:50px;">Europe's auto industry future may be electric even after EU climbdown reut.rs/3YAQnLO <a href="https://bsky.app/profile/reuters.com/post/3maalat7ibx2b" target="_blank">reuters.com</a> (2025-12-18 15:45:13)</span><span style="padding-right:50px;">桑田真澄氏 オイシックスCBOに就任「勝てるチームに育てたい」 https://news.web.nhk/newsweb/na/na-k10015007411000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maalam3ewz24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 15:45:03)</span><span style="padding-right:50px;">＜１５：３１＞　大引けの日経平均は反落、一時4万9000円割れ　ＡＩ株安で bit.ly/4oWOcgn <a href="https://bsky.app/profile/japan.reuters.com/post/3maalah3bjm25" target="_blank">japan.reuters.com</a> (2025-12-18 15:45:01)</span>
+<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】乗用車が大型トラックに追突…渋滞2キロ 山陽道上り線岩国IC付近 山口 (2025-12-18 16:01:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maamjux7jc2y" target="_blank">sokuho.news</a> (2025-12-18 16:08:11)</span><span style="padding-right:50px;">■レートは終値（前日比または前週末比）、安値─高値 bit.ly/3MQvVE5 <a href="https://bsky.app/profile/japan.reuters.com/post/3maamjsu5pp2p" target="_blank">japan.reuters.com</a> (2025-12-18 16:08:09)</span><span style="padding-right:50px;">東京株式市場で日経平均は反落し、前営業日比５１０円７８銭安の４万９００１円５０銭で取引を終えた。前日の米国株市場で、ＡＩ（人工知能）への巨額投資に対する収益性の懸念が高まり、テクノロジー株が下落した流れを引き継いだ。指数寄与度の大きい半導体株やＡＩ関連銘柄が軟調で、相場の重しとなった。日経平均は一時８００円超値下がりし、節目の４万９０００円を割り込んだ。 bit.ly/3L9cVjI <a href="https://bsky.app/profile/japan.reuters.com/post/3maamhpjkpt2c" target="_blank">japan.reuters.com</a> (2025-12-18 16:06:58)</span><span style="padding-right:50px;">Morning Bid: BoE to make the cut as others stay the course reut.rs/49ecY77 <a href="https://bsky.app/profile/reuters.com/post/3maamekxw6i2c" target="_blank">reuters.com</a> (2025-12-18 16:05:13)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】渋滞2キロ…山陽道上り線岩国IC付近で乗用車が大型貨物に追突 山口 (2025-12-18 16:01:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maamddnd2k2z" target="_blank">sokuho.news</a> (2025-12-18 16:04:31)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.89 (🔺0.29 : 2025-12-18)</span>
+<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.91 (🔺0.32 : 2025-12-18)</span>
   </div>
 </div>
 
@@ -32,103 +32,111 @@
 
 ## News Headlines
 
-Here are six selected news headlines in English:
-
-1. US Approves $11bn in Arms Sales to Taiwan in Deal Likely to Anger China
-2. Apple Opens Up iPhonE to Alternatives in Japan
-3. US Approves $11bn Arms Sale to Taiwan
-4. Nationalists Hire Ani Kilambi as GM Role
-5. US Justice Department Says Government Responsible for Airplane Crash that Killed 67
-6. Ecuador International Pineida Dies in Attack
+1. Bank of England to Make Rate Cut as Others Stay the Course
+2. Car Crash Causes 2km Traffic Jam on Yamaguchi Highway
+3. Minneapolis Police Chief Criticizes Federal Agents Over Confrontation
+4. New Medicine for Hansen's Disease to be Tested on 800+ Patients
+5. China's Youth Unemployment Rate Falls to 16.9% in November
+6. Southwest Airlines CEO Wants to Avoid 'Meeting Bloat' in 2026
+7. EU Leaders to Discuss Funding for Ukraine and South America Trade Deal
+8. Japan and US Agree to Raise Minimum Tax Threshold to ¥1.78m
+9. Russian Defense Minister Announces $111 Billion Budget for 2025 Ukraine War
+10. First OTC Birth Control Pill Set to Launch in Japan in February
 
 ----
 
-@financialtimes.com
+@sokuho.news
 
- Two views of AI and Big Tech ft.trib.al/v7ifpe7  | opinion
+🛎️JNNより【速報】です。
 
-[2025-12-18 15:46:28](https://bsky.app/profile/financialtimes.com/post/3maald2fvel2b)
+【速報】乗用車が大型トラックに追突…渋滞2キロ 山陽道上り線岩国IC付近 山口
+(2025-12-18 16:01:00) #ニュース
+
+[2025-12-18 16:08:11](https://bsky.app/profile/sokuho.news/post/3maamjux7jc2y)
+
+---
+
+@japan.reuters.com
+
+■レートは終値（前日比または前週末比）、安値─高値 bit.ly/3MQvVE5
+
+[2025-12-18 16:08:09](https://bsky.app/profile/japan.reuters.com/post/3maamjsu5pp2p)
+
+---
+
+@japan.reuters.com
+
+東京株式市場で日経平均は反落し、前営業日比５１０円７８銭安の４万９００１円５０銭で取引を終えた。前日の米国株市場で、ＡＩ（人工知能）への巨額投資に対する収益性の懸念が高まり、テクノロジー株が下落した流れを引き継いだ。指数寄与度の大きい半導体株やＡＩ関連銘柄が軟調で、相場の重しとなった。日経平均は一時８００円超値下がりし、節目の４万９０００円を割り込んだ。 bit.ly/3L9cVjI
+
+[2025-12-18 16:06:58](https://bsky.app/profile/japan.reuters.com/post/3maamhpjkpt2c)
+
+---
+
+@reuters.com
+
+Morning Bid: BoE to make the cut as others stay the course reut.rs/49ecY77
+
+[2025-12-18 16:05:13](https://bsky.app/profile/reuters.com/post/3maamekxw6i2c)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】渋滞2キロ…山陽道上り線岩国IC付近で乗用車が大型貨物に追突 山口
+(2025-12-18 16:01:00) #ニュース
+
+[2025-12-18 16:04:31](https://bsky.app/profile/sokuho.news/post/3maamddnd2k2z)
+
+---
+
+@cnn.com
+
+Minneapolis’ police chief is criticizing federal immigration agents after a confrontation with protesters and an attempted arrest of a woman in which an officer kneeled on her back as she lay atop a snow bank and then tried to drag her to a car. 
+
+[2025-12-18 16:03:01](https://bsky.app/profile/cnn.com/post/3maamann3sk2t)
 
 ---
 
 @nikkei.com
 
-第一三共系、国内初の処方箋不要の緊急避妊薬　1回7480円で2月発売
+戦中戦後、ハンセン病患者800人超へ開発中の薬投与
 www.nikkei.com/article/DGXZQO...
 
-2026年2月2日に発売します。使用する年齢の制限はなく、薬剤師の前での服用が義務付けられます。
+旧日本軍などが臨床試験を進め、死亡例も疑われる薬剤「虹波」に関し投与の実態が次々に判明しています。
 
-避妊の失敗や性暴力などによる望まない妊娠を避けるため、性交から原則72時間以内に1錠服用します。
+投与を経験した故長州次郎さんは「胃がでんぐり返るような痛み」に襲われました。
 
-#ニュース
+「独裁的な園長に向かって入所者がものを言うのは難しい時代だった」。
 
-[2025-12-18 15:45:15](https://bsky.app/profile/nikkei.com/post/3maalav4p2z2i)
+関係者は「医療倫理を見つめ直し、全容解明を急いでほしい」と語ります。
+
+[2025-12-18 16:01:15](https://bsky.app/profile/nikkei.com/post/3maam5iljnt24)
+
+---
+
+@japan.reuters.com
+
+中国国家統計局が１８日に発表した１１月の１６─２４歳（学生を除く）の若年失業率は１６．９％で、前月の１７．３％から低下した。 bit.ly/4p1CpNY
+
+[2025-12-18 16:00:52](https://bsky.app/profile/japan.reuters.com/post/3maam4s3jfi22)
 
 ---
 
 @reuters.com
 
-Europe's auto industry future may be electric even after EU climbdown reut.rs/3YAQnLO
+India streamlines visa rules in boost for Chinese professionals reut.rs/3Yz9Hcl
 
-[2025-12-18 15:45:13](https://bsky.app/profile/reuters.com/post/3maalat7ibx2b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-桑田真澄氏 オイシックスCBOに就任「勝てるチームに育てたい」
-https://news.web.nhk/newsweb/na/na-k10015007411000
-
-[2025-12-18 15:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maalam3ewz24)
+[2025-12-18 16:00:48](https://bsky.app/profile/reuters.com/post/3maam4ohgv52x)
 
 ---
 
-@japan.reuters.com
+@apnews.com
 
-＜１５：３１＞　大引けの日経平均は反落、一時4万9000円割れ　ＡＩ株安で bit.ly/4oWOcgn
+A pilot has been taken to the hospital with injuries after a small plane crashed into a residential neighborhood in southern New Hampshire.
 
-[2025-12-18 15:45:01](https://bsky.app/profile/japan.reuters.com/post/3maalah3bjm25)
-
----
-
-@nhknewsunofficial.bsky.social
-
-楽天 ルーキー宗山塁 推定年俸4000万円で契約更改
-https://news.web.nhk/newsweb/na/na-k10015007401000
-
-[2025-12-18 15:42:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maal37kk6m2w)
-
----
-
-@japan.reuters.com
-
-臨時国会が１７日、閉会した。その夜に記者会見を開いた高市早苗首相は「まだまだ取り組まなきゃいけないことがいっぱいある」と、来年１月にも召集する通常国会への意気込みを語った。ただ、自民党内には日本維新の会との連立への不満が渦巻く。外交安保関連の政策や議員定数削減など重要課題も山積し、足元は「内憂外患」の様相だ。解散総選挙のタイミングにも注目が集まっており、高市政権は来年、一つの正念場を迎える。 bit.ly/4oWNWOr
-
-[2025-12-18 15:40:35](https://bsky.app/profile/japan.reuters.com/post/3maakyjiinq2v)
-
----
-
-@japan.reuters.com
-
-終活関連サービスの鎌倉新書は１８日、ＳＯＭＰＯホールディングスとの資本業務提携を決議したと発表した。第三者割当増資と自社株処分により約２３億円を調達する。ＳＯＭＰＯＨＤは議決権比率で１０．００％の株式を保有する第２位株主になる見込み。 bit.ly/3L9XGqN
-
-[2025-12-18 15:40:33](https://bsky.app/profile/japan.reuters.com/post/3maakyi77px2p)
-
----
-
-@reuters.com
-
-Can Ukraine survive without the EU's 'reparation loan'? reut.rs/4qjDkdN
-
-[2025-12-18 15:40:14](https://bsky.app/profile/reuters.com/post/3maakxvpvgx2c)
-
----
-
-@japan.reuters.com
-
-＜１５：１３＞　国債先物は反発、長期金利1.97％　持ち高調整主体 bit.ly/48MT7Mk
-
-[2025-12-18 15:38:22](https://bsky.app/profile/japan.reuters.com/post/3maakuktqff2q)
+[2025-12-18 16:00:31](https://bsky.app/profile/apnews.com/post/3maam45v54o2u)
 
 ---
 
