@@ -1,9 +1,9 @@
-# [2025-12-19 02:10 updated](2025_12_19.md)
+# [2025-12-19 02:30 updated](2025_12_19.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">'Absence of data' in CPI report flashes yellow for further interest rate cuts <a href="https://bsky.app/profile/yahoofinance.com/post/3mabnx4nrb626" target="_blank">yahoofinance.com</a> (2025-12-19 02:06:09)</span><span style="padding-right:50px;">France drafts in army for cattle vaccination to defuse farmer protests reut.rs/4aGXcmD <a href="https://bsky.app/profile/reuters.com/post/3mabnvm52be2y" target="_blank">reuters.com</a> (2025-12-19 02:05:18)</span><span style="padding-right:50px;"> In the desert of New Mexico, hundreds of trainees gather to hear from Border Patrol chiefs as they join an agency with an expanded role and new policies under the Trump administration. https://cnn.it/3MBeffR <a href="https://bsky.app/profile/cnn.com/post/3mabnvcyb5q23" target="_blank">cnn.com</a> (2025-12-19 02:05:08)</span><span style="padding-right:50px;">Former Tory donor hit with UK sanctions over alleged Russian energy role ft.trib.al/4aBM0Qq <a href="https://bsky.app/profile/financialtimes.com/post/3mabnv7gzw425" target="_blank">financialtimes.com</a> (2025-12-19 02:05:05)</span><span style="padding-right:50px;"> BP’s new broom has a lot of sweeping to do ft.trib.al/vWQeVUe  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3mabnupta4x2y" target="_blank">financialtimes.com</a> (2025-12-19 02:04:48)</span>
+<span style="padding-right:50px;">Darden lifts annual sales forecast as diners seek affordable options reut.rs/4qiRCv7 <a href="https://bsky.app/profile/reuters.com/post/3mabozehbpc2r" target="_blank">reuters.com</a> (2025-12-19 02:25:18)</span><span style="padding-right:50px;">The Democratic National Committee has decided not to publish its report of what went wrong in the 2024 election. Ken Martin, the DNC chairman, ordered the report months ago but is now said to believe that its release would be counterproductive. <a href="https://bsky.app/profile/nytimes.com/post/3maboywyg7r2y" target="_blank">nytimes.com</a> (2025-12-19 02:25:04)</span><span style="padding-right:50px;">It’s not immediately clear how many people were on board. <a href="https://bsky.app/profile/forbes.com/post/3maboywh2w22l" target="_blank">forbes.com</a> (2025-12-19 02:25:03)</span><span style="padding-right:50px;">World Cup fans are getting a crash course in the expensive realities of the American ticket-buying experience. They’re right to be outraged, says columnist Jason Gay. <a href="https://bsky.app/profile/wsj.com/post/3maboyuabmi2s" target="_blank">wsj.com</a> (2025-12-19 02:25:01)</span><span style="padding-right:50px;">Micron stock soars on earnings beat amid 'unprecedented' AI-fueled demand for memory chips <a href="https://bsky.app/profile/yahoofinance.com/post/3mabosai5fl2j" target="_blank">yahoofinance.com</a> (2025-12-19 02:21:19)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 48019.39 (🔻81.79 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23018.72 (🔺6.66 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.50 (🔻0.03 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.60 (🔺0.01 : 2025-12-18)</span>
+<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47920.85 (🔻180.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 22990.61 (🔻21.46 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.08 (🔻0.45 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.62 (🔺0.02 : 2025-12-18)</span>
   </div>
 </div>
 
@@ -32,94 +32,94 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are six important stories with headlines:
 
-1. France Deploys Army to Vaccinate Cattle Amid Farmer Protests
-2. Trump Administration to Restrict Gender-Affirming Care for Minors
-3. US Crypto Industry Cheers 2025 Wins, But Party May Fizzle Next Year
-4. Bank of England Cuts Rates, Signals Caution on Further Moves
-5. Novo Files Marketing Application for Next-Gen Weight-Loss Drug
-6. US to Probe Wearable Devices After Ouraring Complaint
+1. Darden Boosts Sales Forecast as Diners Seek Affordable Options
+2. Trump Administration Proposes Restrictions on Gender Transition Care for Minors
+3. North Korea's Crypto Hacking Operation Smashes Record, Stealing $2.02 Billion
+4. Accenture Beats Quarterly Revenue Estimates on Strong Demand for AI Services
+5. Ukraine Seals Restructuring of Controversial Growth-Linked Debt
+6. France Deploys Army to Vaccinate Cattle Amid Farmer Protests
 
 ----
 
+@reuters.com
+
+Darden lifts annual sales forecast as diners seek affordable options reut.rs/4qiRCv7
+
+[2025-12-19 02:25:18](https://bsky.app/profile/reuters.com/post/3mabozehbpc2r)
+
+---
+
+@nytimes.com
+
+The Democratic National Committee has decided not to publish its report of what went wrong in the 2024 election. Ken Martin, the DNC chairman, ordered the report months ago but is now said to believe that its release would be counterproductive.
+
+[2025-12-19 02:25:04](https://bsky.app/profile/nytimes.com/post/3maboywyg7r2y)
+
+---
+
+@forbes.com
+
+It’s not immediately clear how many people were on board.
+
+[2025-12-19 02:25:03](https://bsky.app/profile/forbes.com/post/3maboywh2w22l)
+
+---
+
+@wsj.com
+
+World Cup fans are getting a crash course in the expensive realities of the American ticket-buying experience. They’re right to be outraged, says columnist Jason Gay.
+
+[2025-12-19 02:25:01](https://bsky.app/profile/wsj.com/post/3maboyuabmi2s)
+
+---
+
 @yahoofinance.com
 
-'Absence of data' in CPI report flashes yellow for further interest rate cuts
+Micron stock soars on earnings beat amid 'unprecedented' AI-fueled demand for memory chips
 
-[2025-12-19 02:06:09](https://bsky.app/profile/yahoofinance.com/post/3mabnx4nrb626)
-
----
-
-@reuters.com
-
-France drafts in army for cattle vaccination to defuse farmer protests reut.rs/4aGXcmD
-
-[2025-12-19 02:05:18](https://bsky.app/profile/reuters.com/post/3mabnvm52be2y)
+[2025-12-19 02:21:19](https://bsky.app/profile/yahoofinance.com/post/3mabosai5fl2j)
 
 ---
 
-@cnn.com
+@nbcnews.com
 
- In the desert of New Mexico, hundreds of trainees gather to hear from Border Patrol chiefs as they join an agency with an expanded role and new policies under the Trump administration. https://cnn.it/3MBeffR
+For the second year in a row, North Korea’s vast cryptocurrency hacking operation has broken its own record, stealing $2.02 billion in 2025, new research says.
 
-[2025-12-19 02:05:08](https://bsky.app/profile/cnn.com/post/3mabnvcyb5q23)
+[2025-12-19 02:20:22](https://bsky.app/profile/nbcnews.com/post/3maboqkgv6e2r)
+
+---
+
+@forbes.com
+
+The fight will stream live on Netflix and comes more than a year after the streaming platform shattered viewership records airing a fight between Paul and Mike Tyson.
+
+[2025-12-19 02:20:08](https://bsky.app/profile/forbes.com/post/3maboq5chsf2g)
+
+---
+
+@nytimes.com
+
+Dmitri Kozak had worked with President Vladimir Putin of Russia for three decades before resigning in September. Associates described their breakdown in relations, and a rare moment of dissent in 2022 when he pushed back against the Ukraine war.
+
+[2025-12-19 02:20:03](https://bsky.app/profile/nytimes.com/post/3mabopy4j4y26)
+
+---
+
+@npr.org
+
+The three octogenarian nuns broke out of a nursing home to go back to live in their convent, sparking a dispute with their church superior. Both sides have appealed to the Vatican for a resolution. n.pr/3YyJVF5
+
+[2025-12-19 02:16:07](https://bsky.app/profile/npr.org/post/3maboiwu24f2e)
 
 ---
 
 @financialtimes.com
 
-Former Tory donor hit with UK sanctions over alleged Russian energy role ft.trib.al/4aBM0Qq
+Ukraine seals restructuring of controversial growth-linked debt ft.trib.al/viG7uq1
 
-[2025-12-19 02:05:05](https://bsky.app/profile/financialtimes.com/post/3mabnv7gzw425)
-
----
-
-@financialtimes.com
-
- BP’s new broom has a lot of sweeping to do ft.trib.al/vWQeVUe  | opinion
-
-[2025-12-19 02:04:48](https://bsky.app/profile/financialtimes.com/post/3mabnupta4x2y)
-
----
-
-@usatoday.com
-
-Here are the records about the investigation of Jeffrey Epstein that have been released by investigators and lawmakers so far.
-
-[2025-12-19 02:01:35](https://bsky.app/profile/usatoday.com/post/3mabnoxbag32w)
-
----
-
-@apnews.com
-
-A business jet crashed while landing at a regional airport in North Carolina, erupting in a large fire, officials say.
-
-[2025-12-19 02:01:33](https://bsky.app/profile/apnews.com/post/3mabnovgbnf2d)
-
----
-
-@apnews.com
-
-Sunday marks the shortest day of the year in the Northern Hemisphere, signaling the start of astronomical winter.
-
-[2025-12-19 02:01:06](https://bsky.app/profile/apnews.com/post/3mabno3yovf2p)
-
----
-
-@reuters.com
-
-Accenture beats quarterly revenue estimate on strong demand for AI services reut.rs/3MFlDXz
-
-[2025-12-19 02:00:48](https://bsky.app/profile/reuters.com/post/3mabnnkwikz2r)
-
----
-
-@washingtonpost.com
-
-Satellites whizzing by each other at close range, maneuvering to gain strategic advantage, is a new development in the militarization of space — and increasingly important.
-
-[2025-12-19 02:00:43](https://bsky.app/profile/washingtonpost.com/post/3mabnnfxhvi2g)
+[2025-12-19 02:16:04](https://bsky.app/profile/financialtimes.com/post/3maboitvu6c2y)
 
 ---
 
