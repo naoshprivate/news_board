@@ -1,9 +1,9 @@
-# [2025-12-19 06:50 updated](2025_12_19.md)
+# [2025-12-19 07:10 updated](2025_12_19.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">From @theathletic.com: “A blessing and a curse” is how Harry Aikines-Aryeetey describes the “Hercules gene” that makes his body carry more muscle mass than the average human. It sounds like a benefit for athletes, but the reality is far more complicated. nyti.ms/49hQmT7 <a href="https://bsky.app/profile/nytimes.com/post/3mac5papvtb2a" target="_blank">nytimes.com</a> (2025-12-19 06:48:04)</span><span style="padding-right:50px;">【動画】Pickup NEWS（12月19日） https://news.web.nhk/newsweb/na/na-k10015007821000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mac5pbvizs2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 06:48:03)</span><span style="padding-right:50px;">【Apple・Googleの決済支配に一石】 スマホ新法施行、課金手数料はなお高止まり www.nikkei.com/article/DGXZQO...   アプリストア外での決済が可能になります。アプリ事業者の手数料が軽減されれば、結果的に消費者負担が減る可能性も。  ただ、規制で先行する韓国やEUではすでに「骨抜き」になっています。 <a href="https://bsky.app/profile/nikkei.com/post/3mac5m3ohbd2x" target="_blank">nikkei.com</a> (2025-12-19 06:46:18)</span><span style="padding-right:50px;"> on.wsj.com/3N7BLRz <a href="https://bsky.app/profile/wsj.com/post/3mac5knarp22h" target="_blank">wsj.com</a> (2025-12-19 06:45:30)</span><span style="padding-right:50px;">Ben & Jerry's board says more directors face removal reut.rs/45iVcgy <a href="https://bsky.app/profile/reuters.com/post/3mac5kcxspx2p" target="_blank">reuters.com</a> (2025-12-19 06:45:19)</span>
+<span style="padding-right:50px;">東日本大震災 震源域の海底 断層境界にすべりやすい粘土含む層 https://news.web.nhk/newsweb/na/na-k10015008041000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mac6usgkbx24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 07:09:02)</span><span style="padding-right:50px;">中南米金融市場では株式が反発。米消費者物価指数（ＣＰＩ）上昇率が予想を下回り、投資家心理が改善したほか、メキシコ中央銀行の政策決定やアルゼンチンを巡るニュースも材料視された。 bit.ly/3MJ7Gb0 <a href="https://bsky.app/profile/japan.reuters.com/post/3mac6ugou7f2u" target="_blank">japan.reuters.com</a> (2025-12-19 07:08:52)</span><span style="padding-right:50px;">Former race driver Greg Biffle and members of his family were among seven people who died in a plane crash Thursday in North Carolina, state police said. <a href="https://bsky.app/profile/apnews.com/post/3mac6teoyd222" target="_blank">apnews.com</a> (2025-12-19 07:08:17)</span><span style="padding-right:50px;">The signing of a trade deal between the EU and South American bloc Mercosur will be postponed to January, officials said Thursday, after farmers staged a show of force against the pact outside a Brussels leaders' summit. u.afp.com/S8Jn <a href="https://bsky.app/profile/en.afp.com/post/3mac6smv5aj2u" target="_blank">en.afp.com</a> (2025-12-19 07:07:51)</span><span style="padding-right:50px;">Bradley Cooper directs a drama starring Will Arnett and Laura Dern about a man who, separated from his wife, turns to stand-up comedy for solace. on.wsj.com/4rW2hxk <a href="https://bsky.app/profile/wsj.com/post/3mac6ox5o3i2s" target="_blank">wsj.com</a> (2025-12-19 07:05:48)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.57 (🔻0.03 : 2025-12-18)</span>
+<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.47 (🔻0.12 : 2025-12-18)</span>
   </div>
 </div>
 
@@ -34,101 +34,94 @@
 
 Here are six important stories with headlines in English:
 
-1. Trump-Kennedy Center Renaming Sparks Outrage Among Democrats
-2. FedEx Posts Higher Quarterly Results, Raises Profit Forecast
-3. Brazil's Central Bank Keeps Options Open as Lula Seeks Rate Cut
-4. NASCAR Driver Greg Biffle and Family Believed Dead in Plane Crash
-5. Medicaid Fraud Probe Finds Widespread Abuse in Minnesota Programs
-6. Trump Administration to Repurpose $2.6 Billion in Military Housing Aid
+1. Strong Earthquake Strikes Japan's Tohoku Region
+2. Market Rally Continues on Lower Inflation Expectations
+3. US Stocks Bounce Back as Investors Welcome Inflation Data
+4. Trump Media Set to Merge with Fusion Power Company
+5. US Judge Blocks Release of Judicial Branch Communications
+6. FedEx Posts Higher Quarterly Results, Raises Profit Forecast
 
 ----
 
-@nytimes.com
-
-From @theathletic.com: “A blessing and a curse” is how Harry Aikines-Aryeetey describes the “Hercules gene” that makes his body carry more muscle mass than the average human. It sounds like a benefit for athletes, but the reality is far more complicated. nyti.ms/49hQmT7
-
-[2025-12-19 06:48:04](https://bsky.app/profile/nytimes.com/post/3mac5papvtb2a)
-
----
-
 @nhknewsunofficial.bsky.social
 
-【動画】Pickup NEWS（12月19日）
-https://news.web.nhk/newsweb/na/na-k10015007821000
+東日本大震災 震源域の海底 断層境界にすべりやすい粘土含む層
+https://news.web.nhk/newsweb/na/na-k10015008041000
 
-[2025-12-19 06:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mac5pbvizs2u)
+[2025-12-19 07:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mac6usgkbx24)
 
 ---
 
-@nikkei.com
+@japan.reuters.com
 
-【Apple・Googleの決済支配に一石】
-スマホ新法施行、課金手数料はなお高止まり
-www.nikkei.com/article/DGXZQO...
- 
-アプリストア外での決済が可能になります。アプリ事業者の手数料が軽減されれば、結果的に消費者負担が減る可能性も。
+中南米金融市場では株式が反発。米消費者物価指数（ＣＰＩ）上昇率が予想を下回り、投資家心理が改善したほか、メキシコ中央銀行の政策決定やアルゼンチンを巡るニュースも材料視された。 bit.ly/3MJ7Gb0
 
-ただ、規制で先行する韓国やEUではすでに「骨抜き」になっています。
+[2025-12-19 07:08:52](https://bsky.app/profile/japan.reuters.com/post/3mac6ugou7f2u)
 
-[2025-12-19 06:46:18](https://bsky.app/profile/nikkei.com/post/3mac5m3ohbd2x)
+---
+
+@apnews.com
+
+Former race driver Greg Biffle and members of his family were among seven people who died in a plane crash Thursday in North Carolina, state police said.
+
+[2025-12-19 07:08:17](https://bsky.app/profile/apnews.com/post/3mac6teoyd222)
+
+---
+
+@en.afp.com
+
+The signing of a trade deal between the EU and South American bloc Mercosur will be postponed to January, officials said Thursday, after farmers staged a show of force against the pact outside a Brussels leaders' summit.
+u.afp.com/S8Jn
+
+[2025-12-19 07:07:51](https://bsky.app/profile/en.afp.com/post/3mac6smv5aj2u)
 
 ---
 
 @wsj.com
 
- on.wsj.com/3N7BLRz
+Bradley Cooper directs a drama starring Will Arnett and Laura Dern about a man who, separated from his wife, turns to stand-up comedy for solace. on.wsj.com/4rW2hxk
 
-[2025-12-19 06:45:30](https://bsky.app/profile/wsj.com/post/3mac5knarp22h)
+[2025-12-19 07:05:48](https://bsky.app/profile/wsj.com/post/3mac6ox5o3i2s)
 
 ---
 
 @reuters.com
 
-Ben & Jerry's board says more directors face removal reut.rs/45iVcgy
+Fed's Goolsbee in Fox Business interview welcomes latest inflation data, says more rate cuts may loom reut.rs/3Lbwh7T
 
-[2025-12-19 06:45:19](https://bsky.app/profile/reuters.com/post/3mac5kcxspx2p)
+[2025-12-19 07:05:18](https://bsky.app/profile/reuters.com/post/3mac6o27iyv2r)
 
 ---
 
-@washingtonpost.com
+@wsj.com
 
-The Kennedy Center’s vice president of public relations said the renaming vote was unanimous.
+The series returns with two installments, ‘East’ and ‘West,’ that focus on specialists in silversmithing, saddle-making and more. on.wsj.com/4s6hRq6
 
-Yet Rep. Joyce Beatty (D-Ohio), an ex officio member of the board, said she was “muted on the call and not allowed to speak or voice my opposition.” https://wapo.st/4schjzl
+[2025-12-19 07:01:11](https://bsky.app/profile/wsj.com/post/3mac6gpff7q2s)
 
-[2025-12-19 06:45:06](https://bsky.app/profile/washingtonpost.com/post/3mac5jw6tqf2x)
+---
+
+@usatoday.com
+
+Texas football is hiring longtime SEC coach Will Muschamp as its new defensive coordinator.
+
+[2025-12-19 07:01:09](https://bsky.app/profile/usatoday.com/post/3mac6gmgxy62g)
+
+---
+
+@reuters.com
+
+Exclusive: Starbucks supplier Cuisine Solutions hires Morgan Stanley and Rothschild for potential sale, sources say reut.rs/3MQ3Qgc
+
+[2025-12-19 07:00:52](https://bsky.app/profile/reuters.com/post/3mac6g5c55p2p)
 
 ---
 
 @bloomberg.com
 
-Republicans’ plan to fast-track federal approvals of power plants, pipelines and other energy and infrastructure projects passed the House on Thursday.
+The USDA is unlikely to do a second-round package of aid for struggling farmers struggling in the midst of trade tensions and low crop prices
 
-[2025-12-19 06:40:39](https://bsky.app/profile/bloomberg.com/post/3mac5by5njd24)
-
----
-
-@reuters.com
-
-Brazil's central bank keeps options open as Lula 'senses' rate cut ahead reut.rs/4s3WGFh
-
-[2025-12-19 06:40:22](https://bsky.app/profile/reuters.com/post/3mac5bhwlx22k)
-
----
-
-@nbcnews.com
-
-Ecuadorian police say that Mario Pineida, a 33-year-old Barcelona de Guayaquil defender and former national team player, was shot dead in an apparent attack as violence escalates in the nation.
-
-[2025-12-19 06:40:13](https://bsky.app/profile/nbcnews.com/post/3mac5b75z7k23)
-
----
-
-@cnbc.com
-
-Congressional stock trading ban bill to get a vote in new year, House Republicans say
-
-[2025-12-19 06:37:22](https://bsky.app/profile/cnbc.com/post/3mac544i6uo24)
+[2025-12-19 07:00:22](https://bsky.app/profile/bloomberg.com/post/3mac6f7tw2u27)
 
 ---
 
