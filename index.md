@@ -1,9 +1,9 @@
-# [2025-12-19 05:50 updated](2025_12_19.md)
+# [2025-12-19 06:10 updated](2025_12_19.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Frustration is mounting inside the Justice Department as it races to redact thousands of pages of files related to Jeffrey Epstein before they must be released Friday, multiple sources familiar with the process told CNN. https://cnn.it/44z7tNG <a href="https://bsky.app/profile/cnn.com/post/3mac2by4krp2x" target="_blank">cnn.com</a> (2025-12-19 05:46:58)</span><span style="padding-right:50px;">Pips is a logic puzzle where players must arrange a set of dominoes to meet the conditions of the board to win. There are three new puzzles each day — can you beat them all? nyti.ms/4aWhwjG <a href="https://bsky.app/profile/nytimes.com/post/3mac2af2fjr2r" target="_blank">nytimes.com</a> (2025-12-19 05:46:04)</span><span style="padding-right:50px;">Bank of England's Bailey sees inflation near 2% target by May reut.rs/4oYnXq5 <a href="https://bsky.app/profile/reuters.com/post/3mac275etqh2o" target="_blank">reuters.com</a> (2025-12-19 05:45:23)</span><span style="padding-right:50px;">In @nytopinion.nytimes.com   What does it mean to feel healthy? What makes being healthy harder or easier in America? Times Opinion spoke to 14 Americans from all walks of life who are using or have recently used GLP-1 medications. <a href="https://bsky.app/profile/nytimes.com/post/3mac26lxgng2b" target="_blank">nytimes.com</a> (2025-12-19 05:45:04)</span><span style="padding-right:50px;">The move to Schedule III marks the greatest change to U.S. drug laws since the Controlled Substances Act in 1970 and represents a new future for the $32 billion cannabis industry. www.forbes.com/sites/willya... (📸: Patrick T. Fallon/AFP via Getty Images) <a href="https://bsky.app/profile/forbes.com/post/3mac266fg322m" target="_blank">forbes.com</a> (2025-12-19 05:44:50)</span>
+<span style="padding-right:50px;">From @theathletic.com: Ohio University’s head football coach Brian Smith was fired because of a romantic relationship he had with an undergraduate student on campus and an allegation that he was intoxicated during a public appearance, documents show. <a href="https://bsky.app/profile/nytimes.com/post/3mac3e6x4xe2b" target="_blank">nytimes.com</a> (2025-12-19 06:06:06)</span><span style="padding-right:50px;">Kennedy seeks to cut US children's access to gender-affirming care reut.rs/4qhC8HN <a href="https://bsky.app/profile/reuters.com/post/3mac3coqoku2x" target="_blank">reuters.com</a> (2025-12-19 06:05:15)</span><span style="padding-right:50px;">BREAKING: Retired NASCAR driver Greg Biffle and his wife and kids were killed in a North Carolina plane crash, lawmaker says. <a href="https://bsky.app/profile/cbsnews.com/post/3mac3beoxp52m" target="_blank">cbsnews.com</a> (2025-12-19 06:04:31)</span><span style="padding-right:50px;">Former special counsel Jack Smith did not invoke his Fifth Amendment rights during eight hours of testimony Wednesday behind closed doors to the House Judiciary Committee, the panel’s chairman said. https://cnn.it/48NRPk0 <a href="https://bsky.app/profile/cnn.com/post/3mac34xkkxw2a" target="_blank">cnn.com</a> (2025-12-19 06:02:03)</span><span style="padding-right:50px;">House Democrats release latest Epstein images as DOJ deadline looms https://aje.io/ol7t99 <a href="https://bsky.app/profile/aljazeera.com/post/3mac34x3ogj2h" target="_blank">aljazeera.com</a> (2025-12-19 06:02:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 48047.67 (🔻53.51 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23068.18 (🔺56.12 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.85 (🔺0.32 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.62 (🔺0.03 : 2025-12-18)</span>
+<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.61 (🔺0.01 : 2025-12-18)</span>
   </div>
 </div>
 
@@ -34,95 +34,92 @@
 
 Here are six important stories with headlines:
 
-1. US Justice Department Rushes to Redact Epstein Files Ahead of Friday Deadline
-2. Bank of England Sees Inflation Near 2% Target by May
-3. US Energy Department Taps Big Tech for AI-Powered Research Push
-4. Trump Proposes Ban on Gender-Affirming Care for Transgender Youth
-5. Major Crime in New York City Subway Falls to Lowest Level Since 2009
-6. European Central Bank Keeps Policy Interest Rate Unchanged, Upgrades Economic Outlook
+1. Ohio University Football Coach Fired Over Romantic Relationship with Undergraduate Student
+2. Retired NASCAR Driver Greg Biffle and Family Killed in Plane Crash
+3. President Trump Orders Reclassification of Cannabis as Less-Dangerous Drug
+4. US to Ban Gender-Affirming Care for Minors Under New Trump Administration Restrictions
+5. Brown University Shooting Investigation Finds Possible Ties to MIT Professor's Killing
+6. Bitcoin Plunges Amid Pressure of $23 Billion in Options Contracts Set to Expire
 
 ----
 
-@cnn.com
-
-Frustration is mounting inside the Justice Department as it races to redact thousands of pages of files related to Jeffrey Epstein before they must be released Friday, multiple sources familiar with the process told CNN. https://cnn.it/44z7tNG
-
-[2025-12-19 05:46:58](https://bsky.app/profile/cnn.com/post/3mac2by4krp2x)
-
----
-
 @nytimes.com
 
-Pips is a logic puzzle where players must arrange a set of dominoes to meet the conditions of the board to win. There are three new puzzles each day — can you beat them all? nyti.ms/4aWhwjG
+From @theathletic.com: Ohio University’s head football coach Brian Smith was fired because of a romantic relationship he had with an undergraduate student on campus and an allegation that he was intoxicated during a public appearance, documents show.
 
-[2025-12-19 05:46:04](https://bsky.app/profile/nytimes.com/post/3mac2af2fjr2r)
+[2025-12-19 06:06:06](https://bsky.app/profile/nytimes.com/post/3mac3e6x4xe2b)
 
 ---
 
 @reuters.com
 
-Bank of England's Bailey sees inflation near 2% target by May reut.rs/4oYnXq5
+Kennedy seeks to cut US children's access to gender-affirming care reut.rs/4qhC8HN
 
-[2025-12-19 05:45:23](https://bsky.app/profile/reuters.com/post/3mac275etqh2o)
-
----
-
-@nytimes.com
-
-In @nytopinion.nytimes.com 
-
-What does it mean to feel healthy? What makes being healthy harder or easier in America? Times Opinion spoke to 14 Americans from all walks of life who are using or have recently used GLP-1 medications.
-
-[2025-12-19 05:45:04](https://bsky.app/profile/nytimes.com/post/3mac26lxgng2b)
-
----
-
-@forbes.com
-
-The move to Schedule III marks the greatest change to U.S. drug laws since the Controlled Substances Act in 1970 and represents a new future for the $32 billion cannabis industry.
-www.forbes.com/sites/willya... (📸: Patrick T. Fallon/AFP via Getty Images)
-
-[2025-12-19 05:44:50](https://bsky.app/profile/forbes.com/post/3mac266fg322m)
-
----
-
-@wsj.com
-
-Morgan Neville’s documentary argues for the importance of the year in the history of Hollywood—when ‘Nashville’ and ‘Jaws’ came out, among others—though it takes a fuzzy approach to dates and details. on.wsj.com/3Yyi4F5
-
-[2025-12-19 05:42:27](https://bsky.app/profile/wsj.com/post/3mabzzvznvh2q)
+[2025-12-19 06:05:15](https://bsky.app/profile/reuters.com/post/3mac3coqoku2x)
 
 ---
 
 @cbsnews.com
 
-<strong><span style="color: red;">BREAKING:</span> Authorities are investigating possible ties between the Brown shooting and an MIT professor's killing, sources say.</strong>
+<strong><span style="color: red;">BREAKING:</span> Retired NASCAR driver Greg Biffle and his wife and kids were killed in a North Carolina plane crash, lawmaker says.</strong>
 
-[2025-12-19 05:40:40](https://bsky.app/profile/cbsnews.com/post/3mabzwpubyu2j)
+[2025-12-19 06:04:31](https://bsky.app/profile/cbsnews.com/post/3mac3beoxp52m)
+
+---
+
+@cnn.com
+
+Former special counsel Jack Smith did not invoke his Fifth Amendment rights during eight hours of testimony Wednesday behind closed doors to the House Judiciary Committee, the panel’s chairman said. https://cnn.it/48NRPk0
+
+[2025-12-19 06:02:03](https://bsky.app/profile/cnn.com/post/3mac34xkkxw2a)
+
+---
+
+@aljazeera.com
+
+House Democrats release latest Epstein images as DOJ deadline looms https://aje.io/ol7t99
+
+[2025-12-19 06:02:03](https://bsky.app/profile/aljazeera.com/post/3mac34x3ogj2h)
 
 ---
 
 @japan.reuters.com
 
-欧州中央銀行（ＥＣＢ）は１８日に開いた理事会で政策金利を据え置くと決定した。金利据え置きは４会合連続。ＥＣＢは声明で「特に内需のけん引により、経済成長は９月時点のの予測よりも力強くなると予想される」と指摘。同時に発表した景気予測では、成長率とインフレ率の見通しを一部上方修正した。 bit.ly/4aHqd1x
+終盤のニューヨーク外為市場では、米ドルが日本円とスイスフランに対して下落した。米インフレが予想を下回る伸びとなったことが背景。欧州中央銀行（ＥＣＢ）が金利を据え置いたことを受けてユーロは軟化した。 bit.ly/44CsKWO
 
-[2025-12-19 05:40:35](https://bsky.app/profile/japan.reuters.com/post/3mabzwl5dcz2v)
-
----
-
-@reuters.com
-
-Anthropic asks judge to slash legal fees in $1.5 billion settlement reut.rs/4qniZ7r
-
-[2025-12-19 05:40:24](https://bsky.app/profile/reuters.com/post/3mabzwap5fu2i)
+[2025-12-19 06:01:57](https://bsky.app/profile/japan.reuters.com/post/3mac34rtj2l2c)
 
 ---
 
-@nbcnews.com
+@npr.org
 
-An Alaska Airlines passenger was charged in federal court after allegedly trying to open the door of the plane mid-flight, leaving other travelers fearing for their safety.
+The arts institution will be called the Trump-Kennedy Center. The president's press secretary said it comes after a unanimous vote by the center's board, which Trump took over earlier this year.
 
-[2025-12-19 05:40:11](https://bsky.app/profile/nbcnews.com/post/3mabzvu3ibc22)
+[2025-12-19 06:01:24](https://bsky.app/profile/npr.org/post/3mac33sifjv2e)
+
+---
+
+@japan.reuters.com
+
+過激派組織「イスラム国」（ＩＳ）は１８日、オーストラリア・シドニーの観光名所ボンダイビーチで１４日に発生した銃乱射事件について、「誇りの源」と通信アプリ「テレグラム」に投稿した。ただ、この事件について直接的な犯行声明は出していない。 bit.ly/4p513xk
+
+[2025-12-19 06:01:20](https://bsky.app/profile/japan.reuters.com/post/3mac33nynsd2c)
+
+---
+
+@financialtimes.com
+
+Washington’s John F Kennedy Center for the Performing Arts will be renamed the Trump–Kennedy Center. The board of the centre had 'voted unanimously' to rename the events hub, White House press secretary Karoline Leavitt said. ft.trib.al/T2qe2TI
+
+[2025-12-19 06:01:07](https://bsky.app/profile/financialtimes.com/post/3mac33br35d2f)
+
+---
+
+@usatoday.com
+
+Andrew Ridgeley and the late George Michael of Wham! released "Last Christmas" in December 1984.
+
+[2025-12-19 06:01:05](https://bsky.app/profile/usatoday.com/post/3mac337z7nt2g)
 
 ---
 
