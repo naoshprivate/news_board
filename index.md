@@ -1,9 +1,9 @@
-# [2025-12-19 01:10 updated](2025_12_19.md)
+# [2025-12-19 01:30 updated](2025_12_19.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NEW: Trump admin moves to cut hospital payments over trans care <a href="https://bsky.app/profile/axios.com/post/3mabkpuw3gs2k" target="_blank">axios.com</a> (2025-12-19 01:08:25)</span><span style="padding-right:50px;">Lenders set to lower mortgage rates in early 2026 after BoE rate cut ft.trib.al/EDcTuV8 <a href="https://bsky.app/profile/financialtimes.com/post/3mabkoxll6a24" target="_blank">financialtimes.com</a> (2025-12-19 01:07:54)</span><span style="padding-right:50px;">NEW: Trump administration announces that it would begin to take steps aimed at ending transition-related care for minors nationwide. <a href="https://bsky.app/profile/nbcnews.com/post/3mabkmw6iq32p" target="_blank">nbcnews.com</a> (2025-12-19 01:06:45)</span><span style="padding-right:50px;">Trump Media stock surges more than 30% on surprise merger with power firm TAE <a href="https://bsky.app/profile/yahoofinance.com/post/3mabkm4to5c2f" target="_blank">yahoofinance.com</a> (2025-12-19 01:06:19)</span><span style="padding-right:50px;">Irish foreign multinational employment climbs in 2025 despite Trump tariffs reut.rs/3MNP9Kz <a href="https://bsky.app/profile/reuters.com/post/3mabkkgs6jk2x" target="_blank">reuters.com</a> (2025-12-19 01:05:22)</span>
+<span style="padding-right:50px;">The U.S. Health Department proposed rules that would effectively ban gender-affirming care for minors, building on Trump administration restrictions. <a href="https://bsky.app/profile/apnews.com/post/3mablv4aigl2r" target="_blank">apnews.com</a> (2025-12-19 01:29:14)</span><span style="padding-right:50px;">Breaking News: New Trump administration rules, if finalized, would pull funding from hospitals that provide gender-related care to minors. <a href="https://bsky.app/profile/nytimes.com/post/3mablqmfaus2y" target="_blank">nytimes.com</a> (2025-12-19 01:26:43)</span><span style="padding-right:50px;">Exclusive: Syrian, Kurdish and US officials are scrambling ahead of a year-end deadline to show some progress in a stalled deal to merge Kurdish forces with the Syrian state, according to several people involved in or familiar with the talks reut.rs/4s52oH2 <a href="https://bsky.app/profile/reuters.com/post/3mablor3bek2c" target="_blank">reuters.com</a> (2025-12-19 01:25:41)</span><span style="padding-right:50px;">Wall St gains as markets take easing inflation in stride, Micron leads tech rally reut.rs/44wmcJo <a href="https://bsky.app/profile/reuters.com/post/3mablo7fvcd2p" target="_blank">reuters.com</a> (2025-12-19 01:25:22)</span><span style="padding-right:50px;">The New York City Council will introduce a bill on Thursday to create a new agency that would deploy mental health teams to respond to 911 calls — advancing a key part of Mayor-elect Zohran Mamdani’s agenda. <a href="https://bsky.app/profile/nytimes.com/post/3mablnmotk32x" target="_blank">nytimes.com</a> (2025-12-19 01:25:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 48346.94 (🔺245.76 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23129.15 (🔺117.08 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 175.16 (🔺0.63 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.46 (🔻0.13 : 2025-12-18)</span>
+<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 48297.88 (🔺196.70 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23102.39 (🔺90.33 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.93 (🔺0.40 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.43 (🔻0.17 : 2025-12-18)</span>
   </div>
 </div>
 
@@ -34,92 +34,94 @@
 
 Here are six important stories with headlines in English:
 
-1. UK Stocks Rise as Investors Await Bank of England Rate Cut
-2. Trump Media Surges Over 30% on Surprise Merger with Energy Firm
-3. US Imposes Sanctions on Two ICC Judges Investigating Israel
-4. Somalia's Electronic Visa Website Found to Lack Proper Security
-5. US Economy Shows Signs of Cooling Inflation Amid Government Reopening
-6. Myanmar Vows to Wipe Out Industrial-Scale Cyber Scam Centers
+1. US to Ban Gender-Affirming Care for Minors Under Trump Administration Proposal
+2. US Imposes Sanctions on Two More International Criminal Court Judges
+3. US Imposes Sanctions on Two More International Criminal Court Judges
+4. New York City to Deploy Mental Health Teams in Response to 911 Calls
+5. Trump Imposes Sanctions on Two More International Criminal Court Judges
+6. US Imposes Sanctions on Judges Investigating Israel Over War Crimes Allegations
 
 ----
 
-@axios.com
+@apnews.com
 
-NEW: Trump admin moves to cut hospital payments over trans care
+The U.S. Health Department proposed rules that would effectively ban gender-affirming care for minors, building on Trump administration restrictions.
 
-[2025-12-19 01:08:25](https://bsky.app/profile/axios.com/post/3mabkpuw3gs2k)
-
----
-
-@financialtimes.com
-
-Lenders set to lower mortgage rates in early 2026 after BoE rate cut ft.trib.al/EDcTuV8
-
-[2025-12-19 01:07:54](https://bsky.app/profile/financialtimes.com/post/3mabkoxll6a24)
-
----
-
-@nbcnews.com
-
-NEW: Trump administration announces that it would begin to take steps aimed at ending transition-related care for minors nationwide.
-
-[2025-12-19 01:06:45](https://bsky.app/profile/nbcnews.com/post/3mabkmw6iq32p)
-
----
-
-@yahoofinance.com
-
-Trump Media stock surges more than 30% on surprise merger with power firm TAE
-
-[2025-12-19 01:06:19](https://bsky.app/profile/yahoofinance.com/post/3mabkm4to5c2f)
-
----
-
-@reuters.com
-
-Irish foreign multinational employment climbs in 2025 despite Trump tariffs reut.rs/3MNP9Kz
-
-[2025-12-19 01:05:22](https://bsky.app/profile/reuters.com/post/3mabkkgs6jk2x)
+[2025-12-19 01:29:14](https://bsky.app/profile/apnews.com/post/3mablv4aigl2r)
 
 ---
 
 @nytimes.com
 
-The Bird’s Nest is home to a community of women, all older than 60. They broadly agree that, at this age, women are easier long-term companions than men. On Modern Love, two residents describe what it feels like to grow older together with the support of other women. nyti.ms/4j4QgBO
+<strong><span style="color: red;">Breaking News</span>: New Trump administration rules, if finalized, would pull funding from hospitals that provide gender-related care to minors.</strong>
 
-[2025-12-19 01:05:05](https://bsky.app/profile/nytimes.com/post/3mabkjwxdax2e)
-
----
-
-@cnn.com
-
-The Justice Department tried to add a third felony charge related to mortgage fraud against Letitia James when attempting to reindict the New York attorney general last week, according to court documents. https://cnn.it/48Zk525
-
-[2025-12-19 01:02:03](https://bsky.app/profile/cnn.com/post/3mabkejlixf2k)
-
----
-
-@wsj.com
-
-Customers are getting more wellness-obsessed, and brands are responding with new offerings on.wsj.com/4pDKeui
-
-[2025-12-19 01:01:57](https://bsky.app/profile/wsj.com/post/3mabked73b52s)
+[2025-12-19 01:26:43](https://bsky.app/profile/nytimes.com/post/3mablqmfaus2y)
 
 ---
 
 @reuters.com
 
-Eni and BlackRock's GIP take joint control of carbon capture unit reut.rs/4j5IQye
+Exclusive: Syrian, Kurdish and US officials are scrambling ahead of a year-end deadline to show some progress in a stalled deal to merge Kurdish forces with the Syrian state, according to several people involved in or familiar with the talks reut.rs/4s52oH2
 
-[2025-12-19 01:00:47](https://bsky.app/profile/reuters.com/post/3mabkcao7ib2y)
+[2025-12-19 01:25:41](https://bsky.app/profile/reuters.com/post/3mablor3bek2c)
 
 ---
 
-@washingtonpost.com
+@reuters.com
 
-The Trump administration is embarking on an expansive effort to root out what it sees as left-wing domestic terrorism, raising concerns among some experts that broad categories of Americans’ political speech could come under surveillance.
+Wall St gains as markets take easing inflation in stride, Micron leads tech rally reut.rs/44wmcJo
 
-[2025-12-19 01:00:46](https://bsky.app/profile/washingtonpost.com/post/3mabkc7vow32g)
+[2025-12-19 01:25:22](https://bsky.app/profile/reuters.com/post/3mablo7fvcd2p)
+
+---
+
+@nytimes.com
+
+The New York City Council will introduce a bill on Thursday to create a new agency that would deploy mental health teams to respond to 911 calls — advancing a key part of Mayor-elect Zohran Mamdani’s agenda.
+
+[2025-12-19 01:25:03](https://bsky.app/profile/nytimes.com/post/3mablnmotk32x)
+
+---
+
+@en.afp.com
+
+#UPDATE 🇺🇸 The United States on Thursday imposed sanctions on two more judges of the International Criminal Court over their investigation of Israel, whose Prime Minister Benjamin Netanyahu faces an arrest warrant from the Hague tribunal
+
+[2025-12-19 01:22:50](https://bsky.app/profile/en.afp.com/post/3mabljohops2r)
+
+---
+
+@nbcnews.com
+
+President Trump offered a rapid-fire series of claims about the economic, military and societal impact of the first year of his second administration, some accurate or close to reality, while others appeared to be either misleading or wrong.
+
+[2025-12-19 01:20:15](https://bsky.app/profile/nbcnews.com/post/3mablf2ej462q)
+
+---
+
+@financialtimes.com
+
+New York hedge fund approached by Warner shareholder to buy CNN ft.trib.al/JxU4Ymj
+
+[2025-12-19 01:19:47](https://bsky.app/profile/financialtimes.com/post/3mableacjuq24)
+
+---
+
+@wsj.com
+
+An Iranian-linked hacker group leaked sensitive personal data belonging to a former Israeli prime minister this week, one of a number of attacks linked to Tehran.
+
+[2025-12-19 01:19:47](https://bsky.app/profile/wsj.com/post/3mable7lic32u)
+
+---
+
+@nytimes.com
+
+From @theathleticfc.bsky.social: The 2025 Africa Cup of Nations (AFCON) gets underway in Morocco on Sunday, with the Ivory Coast attempting to defend the title they won in dramatic style less than two years ago.
+
+Our experts made their predictions.
+
+[2025-12-19 01:19:07](https://bsky.app/profile/nytimes.com/post/3mablczdk2r25)
 
 ---
 
