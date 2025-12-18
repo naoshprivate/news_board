@@ -1,9 +1,9 @@
-# [2025-12-18 11:10 updated](2025_12_18.md)
+# [2025-12-18 11:30 updated](2025_12_18.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">米下院は１７日、医療保険制度改革法（オバマケア）の補助金延長を盛り込まない共和党の代替案を可決した。これを受け、補助金が年末に期限切れとなることがほぼ確実となった。 bit.ly/4qg1FB9 <a href="https://bsky.app/profile/japan.reuters.com/post/3maa3s3frbb22" target="_blank">japan.reuters.com</a> (2025-12-18 11:08:33)</span><span style="padding-right:50px;">Breaking news: The government has admitted fault in the Jan. 29 collision between an Army helicopter and a commercial jet over the Potomac River, opening the door for the families of the 67 victims to pursue a monetary settlement. <a href="https://bsky.app/profile/washingtonpost.com/post/3maa3pcvrmj25" target="_blank">washingtonpost.com</a> (2025-12-18 11:07:00)</span><span style="padding-right:50px;">LIVE: President Trump addresses the nation  www.youtube.com/watch?v=5GRD... <a href="https://bsky.app/profile/reuters.com/post/3maa3ogqzkc2k" target="_blank">reuters.com</a> (2025-12-18 11:06:30)</span><span style="padding-right:50px;">The world’s best-performing stock is turning into a cautionary tale for investors chasing outsized returns from the artificial-intelligence boom. bloom.bg/3N5OJzi  📷: An Rong Xu/Bloomberg <a href="https://bsky.app/profile/bloomberg.com/post/3maa3m3jt5t2x" target="_blank">bloomberg.com</a> (2025-12-18 11:05:11)</span><span style="padding-right:50px;">Watch live: President Trump is addressing the nation as his administration tries to tamp down economic anxieties. Follow our coverage. <a href="https://bsky.app/profile/nytimes.com/post/3maa3lxityx2y" target="_blank">nytimes.com</a> (2025-12-18 11:05:07)</span>
+<span style="padding-right:50px;">米アップルは１７日、日本のスマートフォン市場の競争促進を目的とした新たな法律に準拠するため、ｉＰｈｏｎｅを代替アプリストアに開放したと発表した。 bit.ly/4p07iCs <a href="https://bsky.app/profile/japan.reuters.com/post/3maa4tevnng2q" target="_blank">japan.reuters.com</a> (2025-12-18 11:27:10)</span><span style="padding-right:50px;">強まる米の圧力 ベネズエラ 国連安保理の開催要求 https://news.web.nhk/newsweb/na/na-k10015007081000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maa4t7r56x2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 11:27:03)</span><span style="padding-right:50px;">Peter Arnett, the Pulitzer Prize-winning reporter who covered wars from Vietnam to Iraq, has died at 91. Arnett, who won the 1966 Pulitzer Prize for international reporting for his Vietnam War coverage for The Associated Press. <a href="https://bsky.app/profile/apnews.com/post/3maa4stohq22n" target="_blank">apnews.com</a> (2025-12-18 11:26:52)</span><span style="padding-right:50px;">Nick Reiner appeared briefly in court today after being charged with two counts of first-degree murder in connection with the fatal stabbing of his parents, Hollywood director Rob Reiner and producer Michele Singer Reiner. CNN's Stephanie Elam reports.  Read more: https://cnn.it/4rXPiLz <a href="https://bsky.app/profile/cnn.com/post/3maa4qvm2dc2b" target="_blank">cnn.com</a> (2025-12-18 11:25:46)</span><span style="padding-right:50px;">SoftBank leads decline in Japanese tech stocks as worries over AI spending spill over to Asia <a href="https://bsky.app/profile/cnbc.com/post/3maa4pujkbi2e" target="_blank">cnbc.com</a> (2025-12-18 11:25:12)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 48905.43 (🔻152.88 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3351.00 (🔺1.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.73 (🔺0.13 : 2025-12-18)</span>
+<span style="padding-right:50px;">NIKKEI: 48933.57 (🔻124.74 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3351.00 (🔺1.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.72 (🔺0.12 : 2025-12-18)</span>
   </div>
 </div>
 
@@ -34,96 +34,102 @@
 
 Here are six news headlines in English:
 
-1. US Senate Rejects Republican Alternative to Extend ObamaCare Subsidies
-2. Trump Administration Takes Responsibility for Helicopter Collision That Killed 67 People
-3. World's Best-Performing Stock Becomes Cautionary Tale for AI Investors
-4. Trump Addresses Nation Amid Economic Anxieties
-5. China's State-Owned Company to Acquire Two Securities Firms for $16 Billion
-6. Judge Blocks Michigan from Shutting Down Enbridge Oil Pipeline
+1. Apple Opens App Store in Japan Amid Competition Law Changes
+2. Venezuela Seeks to Expand Social Media Vetting for US Visitors
+3. Palantir CEO Alex Karp Buys Record-Breaking $120 Million Ranch
+4. Trump Announces 'Warrior Dividend' of $1,776 for US Soldiers
+5. US Judge Blocks Michigan from Shutting Down Enbridge's Oil Pipeline
+6. Russia-Ukraine War: Key Events Reach 1,393 Days
 
 ----
 
 @japan.reuters.com
 
-米下院は１７日、医療保険制度改革法（オバマケア）の補助金延長を盛り込まない共和党の代替案を可決した。これを受け、補助金が年末に期限切れとなることがほぼ確実となった。 bit.ly/4qg1FB9
+米アップルは１７日、日本のスマートフォン市場の競争促進を目的とした新たな法律に準拠するため、ｉＰｈｏｎｅを代替アプリストアに開放したと発表した。 bit.ly/4p07iCs
 
-[2025-12-18 11:08:33](https://bsky.app/profile/japan.reuters.com/post/3maa3s3frbb22)
-
----
-
-@washingtonpost.com
-
-<strong><span style="color: red;">Breaking news:</span> The government has admitted fault in the Jan. 29 collision between an Army helicopter and a commercial jet over the Potomac River, opening the door for the families of the 67 victims to pursue a monetary settlement.</strong>
-
-[2025-12-18 11:07:00](https://bsky.app/profile/washingtonpost.com/post/3maa3pcvrmj25)
+[2025-12-18 11:27:10](https://bsky.app/profile/japan.reuters.com/post/3maa4tevnng2q)
 
 ---
 
-@reuters.com
+@nhknewsunofficial.bsky.social
 
-LIVE: President Trump addresses the nation
+強まる米の圧力 ベネズエラ 国連安保理の開催要求
+https://news.web.nhk/newsweb/na/na-k10015007081000
 
-www.youtube.com/watch?v=5GRD...
-
-[2025-12-18 11:06:30](https://bsky.app/profile/reuters.com/post/3maa3ogqzkc2k)
-
----
-
-@bloomberg.com
-
-The world’s best-performing stock is turning into a cautionary tale for investors chasing outsized returns from the artificial-intelligence boom. bloom.bg/3N5OJzi
-
-📷: An Rong Xu/Bloomberg
-
-[2025-12-18 11:05:11](https://bsky.app/profile/bloomberg.com/post/3maa3m3jt5t2x)
-
----
-
-@nytimes.com
-
-Watch live: President Trump is addressing the nation as his administration tries to tamp down economic anxieties. Follow our coverage.
-
-[2025-12-18 11:05:07](https://bsky.app/profile/nytimes.com/post/3maa3lxityx2y)
-
----
-
-@washingtonpost.com
-
-Follow live updates of President Donald Trump's speech here:
-
-[2025-12-18 11:04:52](https://bsky.app/profile/washingtonpost.com/post/3maa3lj3hiy24)
+[2025-12-18 11:27:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maa4t7r56x2u)
 
 ---
 
 @apnews.com
 
-Pulitzer Prize-winning journalist Peter Arnett, who traveled the world covering wars from Vietnam to Iraq, has died.
+Peter Arnett, the Pulitzer Prize-winning reporter who covered wars from Vietnam to Iraq, has died at 91. Arnett, who won the 1966 Pulitzer Prize for international reporting for his Vietnam War coverage for The Associated Press.
 
-[2025-12-18 11:04:10](https://bsky.app/profile/apnews.com/post/3maa3kapz5v23)
-
----
-
-@japan.reuters.com
-
-中国国有の中国国際金融（ＣＩＣＣ）は１７日、同業の東興証券と信達証券を約１６０億ドルで買収する計画を発表した。 bit.ly/3YlqkZf
-
-[2025-12-18 11:04:09](https://bsky.app/profile/japan.reuters.com/post/3maa3ka3gov2s)
+[2025-12-18 11:26:52](https://bsky.app/profile/apnews.com/post/3maa4stohq22n)
 
 ---
 
 @cnn.com
 
-It’s been a rough year for job seekers. The last thing they wanted was a Spotify Wrapped-style reminder of that. They got one anyway, when LinkedIn launched an inaugural Year in Review. https://cnn.it/49iFlRu
+Nick Reiner appeared briefly in court today after being charged with two counts of first-degree murder in connection with the fatal stabbing of his parents, Hollywood director Rob Reiner and producer Michele Singer Reiner. CNN's Stephanie Elam reports.
 
-[2025-12-18 11:04:04](https://bsky.app/profile/cnn.com/post/3maa3k3b4wg2x)
+Read more: https://cnn.it/4rXPiLz
+
+[2025-12-18 11:25:46](https://bsky.app/profile/cnn.com/post/3maa4qvm2dc2b)
+
+---
+
+@cnbc.com
+
+SoftBank leads decline in Japanese tech stocks as worries over AI spending spill over to Asia
+
+[2025-12-18 11:25:12](https://bsky.app/profile/cnbc.com/post/3maa4pujkbi2e)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+自国 「年収の壁」協議大詰め 引き上げ方法や対象範囲調整続く
+https://news.web.nhk/newsweb/na/na-k10015007151000
+
+[2025-12-18 11:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maa4ntsc7w2w)
+
+---
+
+@cnbc.com
+
+Trump announces ‘warrior dividend’ of $1,776 to every U.S. soldier
+
+[2025-12-18 11:22:21](https://bsky.app/profile/cnbc.com/post/3maa4kruvnx2d)
 
 ---
 
 @japan.reuters.com
 
-サッカーのイングランド・リーグカップは１７日、各地で準々決勝を行い、マンチェスター・シティー（マンＣ）はブレントフォードに２─０で白星を挙げ、ベスト４に進出した。 bit.ly/48L4cxm
+オイシックス・ラ・大地が３営業日ぶりに反発し、一時８％超高の１５２４円に上昇した。１７日、米資産運用会社のグランサム、マヨ、ヴァン　オッテルロー（ＧＭＯ）が議決権ベースで１０．１７％を保有する大株主になったと発表し、材料視されている。 bit.ly/4pJLpIA
 
-[2025-12-18 11:04:00](https://bsky.app/profile/japan.reuters.com/post/3maa3jxhsel2f)
+[2025-12-18 11:21:20](https://bsky.app/profile/japan.reuters.com/post/3maa4ixmef527)
+
+---
+
+@sokuho.news
+
+🔔防災科研より【強震モニタ】動画です。
+
+震源:熊本県阿蘇地方, 深さ:10km
+マグニチュード:3.0, 最大震度:2
+📍https://www.google.com/maps?q=33.0,131.1&ll=33.0,131.1&z=7&t=h
+地震発生日時:2025-12-18 11:18頃
+(10倍速▶120s→12s) #地震
+
+[2025-12-18 11:21:19](https://bsky.app/profile/sokuho.news/post/3maa4iwqok426)
+
+---
+
+@nytimes.com
+
+If you’re feeling a bit worn down, one bowl of this hearty lentil soup will bring you back to life — or at least fool you into thinking so.
+
+[2025-12-18 11:21:04](https://bsky.app/profile/nytimes.com/post/3maa4iifkeu2b)
 
 ---
 
