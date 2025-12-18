@@ -1,9 +1,9 @@
-# [2025-12-19 02:50 updated](2025_12_19.md)
+# [2025-12-19 03:10 updated](2025_12_19.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">JPMorgan's top stock ideas for 2026 <a href="https://bsky.app/profile/cnbc.com/post/3mabq7vjjyz23" target="_blank">cnbc.com</a> (2025-12-19 02:46:51)</span><span style="padding-right:50px;">Austria's RBI says Russian unit will book nearly $400 mln provisions in Rasperia lawsuit reut.rs/4j3Sgu7 <a href="https://bsky.app/profile/reuters.com/post/3mabq5ezolw2y" target="_blank">reuters.com</a> (2025-12-19 02:45:26)</span><span style="padding-right:50px;">ユーロ圏金融・債券市場では、ドイツ国債利回りが上昇した。欧州中央銀行（ＥＣＢ）は１８日に開いた理事会で、政策金利を市場の予想通り据え置いた。 bit.ly/4jaw8OO <a href="https://bsky.app/profile/japan.reuters.com/post/3mabq5aay2u2v" target="_blank">japan.reuters.com</a> (2025-12-19 02:45:21)</span><span style="padding-right:50px;">Friday could be a wild day of trading on Wall Street. Here's why <a href="https://bsky.app/profile/cnbc.com/post/3mabq54i4e32g" target="_blank">cnbc.com</a> (2025-12-19 02:45:17)</span><span style="padding-right:50px;">The photos come before the Friday deadline for the Trump administration to release its full Epstein files. <a href="https://bsky.app/profile/forbes.com/post/3mabq4obomd2g" target="_blank">forbes.com</a> (2025-12-19 02:45:02)</span>
+<span style="padding-right:50px;"> Trump is on to something: finance and fusion have much in common ft.trib.al/lUAZFZQ  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3mabrihhy6q2w" target="_blank">financialtimes.com</a> (2025-12-19 03:09:32)</span><span style="padding-right:50px;">President Trump&#39;s peace plan for Gaza hinges on international troops in Gaza, but Israel is skeptical and no country has yet agreed to send their soldiers. n.pr/4pKcLyg <a href="https://bsky.app/profile/npr.org/post/3mabrhntu2v24" target="_blank">npr.org</a> (2025-12-19 03:09:05)</span><span style="padding-right:50px;">Financial data firm FactSet's quarterly profit climbs on steady subscription growth reut.rs/495HGhH <a href="https://bsky.app/profile/reuters.com/post/3mabrauck5r2c" target="_blank">reuters.com</a> (2025-12-19 03:05:17)</span><span style="padding-right:50px;">American Airlines no longer lets basic economy flyers earn miles <a href="https://bsky.app/profile/cnbc.com/post/3mabr5sddih2m" target="_blank">cnbc.com</a> (2025-12-19 03:03:34)</span><span style="padding-right:50px;">With Carey's enduring Christmas hit, we may be looking at a record that borders on the untouchable. n.pr/4q9clBw <a href="https://bsky.app/profile/npr.org/post/3mabr3wnjga2y" target="_blank">npr.org</a> (2025-12-19 03:02:31)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 48031.80 (🔻69.38 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23065.15 (🔺53.09 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.74 (🔺0.21 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.65 (🔺0.05 : 2025-12-18)</span>
+<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 48085.63 (🔻15.55 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23092.84 (🔺80.78 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 175.33 (🔺0.80 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.60 (🔺0.01 : 2025-12-18)</span>
   </div>
 </div>
 
@@ -32,94 +32,94 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are six news headlines in English:
 
-1. Trump Administration Proposes Curbs on Gender Transition Care for Young People
-2. Nasdaq Expects Record Listings of Billion-Dollar IPOs in 2026
-3. France Deploys Army to Vaccinate Cattle Amid Farmer Protests
-4. North Korea's Cryptocurrency Hacking Operation Breaks Own Record
-5. Volkswagen to Press Ahead with Cost-Cutting Measures in Germany
-6. Darden Raises Annual Sales Forecast Amid Rise of Affordable Dining Options
+1. Trump's Peace Plan for Gaza Hinges on International Troops, But Israel Remains Skeptical
+2. FactSet's Quarterly Profit Surges on Steady Subscription Growth
+3. US Sanctions More ICC Judges Over Israeli War Crime Probe Ruling
+4. Private Jet Crashes in North Carolina, Multiple Fatalities Reported
+5. CPI Inflation Print Draws Caution from Economists: It's Hard to Take This Data Seriously
+6. Austria's RBI to Book Nearly $400 Million Provisions in Rasperia Lawsuit
 
 ----
 
-@cnbc.com
-
-JPMorgan's top stock ideas for 2026
-
-[2025-12-19 02:46:51](https://bsky.app/profile/cnbc.com/post/3mabq7vjjyz23)
-
----
-
-@reuters.com
-
-Austria's RBI says Russian unit will book nearly $400 mln provisions in Rasperia lawsuit reut.rs/4j3Sgu7
-
-[2025-12-19 02:45:26](https://bsky.app/profile/reuters.com/post/3mabq5ezolw2y)
-
----
-
-@japan.reuters.com
-
-ユーロ圏金融・債券市場では、ドイツ国債利回りが上昇した。欧州中央銀行（ＥＣＢ）は１８日に開いた理事会で、政策金利を市場の予想通り据え置いた。 bit.ly/4jaw8OO
-
-[2025-12-19 02:45:21](https://bsky.app/profile/japan.reuters.com/post/3mabq5aay2u2v)
-
----
-
-@cnbc.com
-
-Friday could be a wild day of trading on Wall Street. Here's why
-
-[2025-12-19 02:45:17](https://bsky.app/profile/cnbc.com/post/3mabq54i4e32g)
-
----
-
-@forbes.com
-
-The photos come before the Friday deadline for the Trump administration to release its full Epstein files.
-
-[2025-12-19 02:45:02](https://bsky.app/profile/forbes.com/post/3mabq4obomd2g)
-
----
-
-@reuters.com
-
-Acer, Asus and Hisense win UK court ruling in video streaming patent dispute with Nokia reut.rs/4pdnH6M
-
-[2025-12-19 02:40:26](https://bsky.app/profile/reuters.com/post/3mabpugwp3c23)
-
----
-
-@nbcnews.com
-
-Lawmakers around the country, moved by harrowing stories of pregnancies in jail, are calling for new measures that make sure women and babies get the medical help they need.
-
-[2025-12-19 02:40:13](https://bsky.app/profile/nbcnews.com/post/3mabpu25wev23)
-
----
-
-@nytimes.com
-
-The director Rob Reiner delivered an incredible number of widely acclaimed movies, from “When Harry Met Sally” to “Stand By Me” and “Misery.” On “Cannonball,” Wesley Morris reflects on the impact Reiner had on his life and why his films are so beloved. nyti.ms/3MJFrZR
-
-[2025-12-19 02:39:02](https://bsky.app/profile/nytimes.com/post/3mabprwrdvg2x)
-
----
-
 @financialtimes.com
 
-Bill Gates and Sergey Brin among newly released Epstein photos ft.trib.al/SdFHK35
+ Trump is on to something: finance and fusion have much in common ft.trib.al/lUAZFZQ  | opinion
 
-[2025-12-19 02:38:01](https://bsky.app/profile/financialtimes.com/post/3mabpq4qfcs2q)
+[2025-12-19 03:09:32](https://bsky.app/profile/financialtimes.com/post/3mabrihhy6q2w)
 
 ---
 
-@en.afp.com
+@npr.org
 
-Dressed in an orange puffer jacket, Japanese scientist Yoshinori Iizuka stepped into a storage freezer to retrieve an ice core he hopes will help experts protect the world's disappearing glaciers. u.afp.com/S8oH
+President Trump&#39;s peace plan for Gaza hinges on international troops in Gaza, but Israel is skeptical and no country has yet agreed to send their soldiers. n.pr/4pKcLyg
 
-[2025-12-19 02:37:56](https://bsky.app/profile/en.afp.com/post/3mabppyhld22d)
+[2025-12-19 03:09:05](https://bsky.app/profile/npr.org/post/3mabrhntu2v24)
+
+---
+
+@reuters.com
+
+Financial data firm FactSet's quarterly profit climbs on steady subscription growth reut.rs/495HGhH
+
+[2025-12-19 03:05:17](https://bsky.app/profile/reuters.com/post/3mabrauck5r2c)
+
+---
+
+@cnbc.com
+
+American Airlines no longer lets basic economy flyers earn miles
+
+[2025-12-19 03:03:34](https://bsky.app/profile/cnbc.com/post/3mabr5sddih2m)
+
+---
+
+@npr.org
+
+With Carey's enduring Christmas hit, we may be looking at a record that borders on the untouchable. n.pr/4q9clBw
+
+[2025-12-19 03:02:31](https://bsky.app/profile/npr.org/post/3mabr3wnjga2y)
+
+---
+
+@yahoofinance.com
+
+2025 was the best year for IPOS since 2021. Over $30 billion was raised in the first three quarters alone!
+
+[2025-12-19 03:02:19](https://bsky.app/profile/yahoofinance.com/post/3mabr3l2jt52j)
+
+---
+
+@reuters.com
+
+Pirelli says 99.3% of 500 mln euro bond converted, diluting Sinochem and Camfin stakes reut.rs/4j2cjJr
+
+[2025-12-19 03:01:08](https://bsky.app/profile/reuters.com/post/3mabqzhfy7d2i)
+
+---
+
+@usatoday.com
+
+A 2-for-1 ticket offer for the fight between Jake Paul and Anthony Joshua raised questions about what's behind the apparent sluggish ticket sales.
+
+[2025-12-19 03:00:59](https://bsky.app/profile/usatoday.com/post/3mabqz6addp2g)
+
+---
+
+@wsj.com
+
+You Can Keep Your Holiday Rom Com. I’ll Take a Military Thriller. on.wsj.com/4sjY0nM
+
+[2025-12-19 03:00:58](https://bsky.app/profile/wsj.com/post/3mabqz67njn2e)
+
+---
+
+@apnews.com
+
+Security footage released by the FBI shows a route taken by a person police are seeking in connection with the Brown University shooting.
+
+[2025-12-19 03:00:44](https://bsky.app/profile/apnews.com/post/3mabqypqrd62q)
 
 ---
 
