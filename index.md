@@ -1,9 +1,9 @@
-# [2025-12-18 11:50 updated](2025_12_18.md)
+# [2025-12-18 12:10 updated](2025_12_18.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️NNNより【独自】です。  【独自】安倍元首相銃撃事件、きょう結審 山上被告の伯父「事件通して信者助かった」 (2025-12-18 11:48) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maa627cbk72y" target="_blank">sokuho.news</a> (2025-12-18 11:48:53)</span><span style="padding-right:50px;">木原稔官房長官は１８日午前の記者会見で、日銀の金融政策について「具体的な手法は日銀に委ねられるべきだ」とした上で「日銀には引き続き政府と密接に連携を図り、経済・物価・金融情勢を踏まえつつ、コストプッシュではなく賃金上昇も伴った２％の物価安定目標の持続的・安定的な実現に向けて、適切な金融政策運営を期待する」と述べた。 bit.ly/4saKmDp <a href="https://bsky.app/profile/japan.reuters.com/post/3maa5y3qtro2u" target="_blank">japan.reuters.com</a> (2025-12-18 11:47:42)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】九州自動車道でトラックなど5台が絡む事故 4人けが 上り線人吉IC～八代JCT間が通行止め （12月18日午前11時40分時点） (2025-12-18 11:43:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maa5xim3z52r" target="_blank">sokuho.news</a> (2025-12-18 11:47:22)</span><span style="padding-right:50px;">中国国家統計局が１８日に発表した１１月の１６─２４歳（学生を除く）の若年失業率は１６．９％で、前月の１７．３％から低下した。 bit.ly/3YDU2bG <a href="https://bsky.app/profile/japan.reuters.com/post/3maa5tfuzxg2u" target="_blank">japan.reuters.com</a> (2025-12-18 11:45:05)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】九州自動車道でトラックなど5台が絡む事故 4人けが 上り線人吉IC～八代JCT間が通行止め (2025-12-18 11:43:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maa5sd3pq62y" target="_blank">sokuho.news</a> (2025-12-18 11:44:28)</span>
+<span style="padding-right:50px;">前場の東京株式市場で日経平均は反落し、前営業日比５０５円３９銭安の４万９００６円８９銭となった。前日の米国株式市場で人工知能（ＡＩ）開発に向けたテクノロジー業界の負債拡大を巡る懸念が広がり、ハイテク株が軒並み下落した流れを引き継いだ。東京市場では指数寄与度の高いＡＩや半導体関連株が売られ、日経平均は心理的節目の４万９０００円を下回る場面がみられた。 bit.ly/3YwOeAP <a href="https://bsky.app/profile/japan.reuters.com/post/3maa75txkav2q" target="_blank">japan.reuters.com</a> (2025-12-18 12:08:49)</span><span style="padding-right:50px;">韓国の具潤哲・企画財政相は１８日、対ドルで１６年ぶりの安値圏で推移するウォンの投機的な動きに対する警告を強め、「外国為替市場のボラティリティーが拡大していることを懸念している」と述べた。 bit.ly/3XXnI3v <a href="https://bsky.app/profile/japan.reuters.com/post/3maa6tlhcsa2p" target="_blank">japan.reuters.com</a> (2025-12-18 12:03:04)</span><span style="padding-right:50px;">The US military conducted a strike against another alleged drug-trafficking boat in the eastern Pacific Ocean on Wednesday, killing 4 people, according to US Southern Command. https://cnn.it/48Mimy8 <a href="https://bsky.app/profile/cnn.com/post/3maa6tjhgsn2k" target="_blank">cnn.com</a> (2025-12-18 12:03:02)</span><span style="padding-right:50px;">President Trump announced tonight all members of the military will receive a $1,776 "Warrior Dividend," while touting his tariffs and economic policies more broadly. <a href="https://bsky.app/profile/axios.com/post/3maa6s6pj4k2w" target="_blank">axios.com</a> (2025-12-18 12:02:17)</span><span style="padding-right:50px;">BREAKING: The U.S. announces a massive package of arms sales to Taiwan valued at more than $10 billion, including medium-range missiles, howitzers and drones. <a href="https://bsky.app/profile/apnews.com/post/3maa6r5cxj222" target="_blank">apnews.com</a> (2025-12-18 12:01:42)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49006.89 (🔻51.42 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3355.00 (🔺5.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.74 (🔺0.15 : 2025-12-18)</span>
+<span style="padding-right:50px;">NIKKEI: 49006.89 (🔻51.42 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3355.00 (🔺5.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.71 (🔺0.11 : 2025-12-18)</span>
   </div>
 </div>
 
@@ -32,108 +32,103 @@
 
 ## News Headlines
 
-Here are six news headlines:
+Here are six important stories with headlines:
 
-1. Former Japanese Prime Minister's Assassination Trial Concludes Today
-2. US Trade Representative Supports Keeping Trade Accord with Canada and Mexico
-3. Japan's Economy to See Boost as Apple Opens iPhone App Store in Japan
-4. International Soccer Federation Increases Prize Money for 2026 World Cup in North America
-5. Venezuela Runs Out of Oil Storage Space Amid Tanker Curbs
-6. Palantir CEO Buys Record-Breaking $120 Million Ranch in Colorado
+1. Tokyo Stock Market Falls, Index Down 50.39 Yen
+2. South Korea Warns of Speculative Behavior in Won Market
+3. US Conducts Airstrike Against Drug Trafficking Boat in Eastern Pacific
+4. Trump Announces $1,776 'Warrior Dividend' for US Military Personnel
+5. New Zealand Economy Returns to Growth in Third Quarter
+6. India's Chip Industry Seeks to Catch Up with US, Taiwan, and China
 
 ----
 
-@sokuho.news
+@japan.reuters.com
 
-🛎️NNNより【独自】です。
+前場の東京株式市場で日経平均は反落し、前営業日比５０５円３９銭安の４万９００６円８９銭となった。前日の米国株式市場で人工知能（ＡＩ）開発に向けたテクノロジー業界の負債拡大を巡る懸念が広がり、ハイテク株が軒並み下落した流れを引き継いだ。東京市場では指数寄与度の高いＡＩや半導体関連株が売られ、日経平均は心理的節目の４万９０００円を下回る場面がみられた。 bit.ly/3YwOeAP
 
-【独自】安倍元首相銃撃事件、きょう結審 山上被告の伯父「事件通して信者助かった」
-(2025-12-18 11:48) #ニュース
-
-[2025-12-18 11:48:53](https://bsky.app/profile/sokuho.news/post/3maa627cbk72y)
+[2025-12-18 12:08:49](https://bsky.app/profile/japan.reuters.com/post/3maa75txkav2q)
 
 ---
 
 @japan.reuters.com
 
-木原稔官房長官は１８日午前の記者会見で、日銀の金融政策について「具体的な手法は日銀に委ねられるべきだ」とした上で「日銀には引き続き政府と密接に連携を図り、経済・物価・金融情勢を踏まえつつ、コストプッシュではなく賃金上昇も伴った２％の物価安定目標の持続的・安定的な実現に向けて、適切な金融政策運営を期待する」と述べた。 bit.ly/4saKmDp
+韓国の具潤哲・企画財政相は１８日、対ドルで１６年ぶりの安値圏で推移するウォンの投機的な動きに対する警告を強め、「外国為替市場のボラティリティーが拡大していることを懸念している」と述べた。 bit.ly/3XXnI3v
 
-[2025-12-18 11:47:42](https://bsky.app/profile/japan.reuters.com/post/3maa5y3qtro2u)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】九州自動車道でトラックなど5台が絡む事故 4人けが 上り線人吉IC～八代JCT間が通行止め （12月18日午前11時40分時点）
-(2025-12-18 11:43:00) #ニュース
-
-[2025-12-18 11:47:22](https://bsky.app/profile/sokuho.news/post/3maa5xim3z52r)
+[2025-12-18 12:03:04](https://bsky.app/profile/japan.reuters.com/post/3maa6tlhcsa2p)
 
 ---
 
-@japan.reuters.com
+@cnn.com
 
-中国国家統計局が１８日に発表した１１月の１６─２４歳（学生を除く）の若年失業率は１６．９％で、前月の１７．３％から低下した。 bit.ly/3YDU2bG
+The US military conducted a strike against another alleged drug-trafficking boat in the eastern Pacific Ocean on Wednesday, killing 4 people, according to US Southern Command. https://cnn.it/48Mimy8
 
-[2025-12-18 11:45:05](https://bsky.app/profile/japan.reuters.com/post/3maa5tfuzxg2u)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】九州自動車道でトラックなど5台が絡む事故 4人けが 上り線人吉IC～八代JCT間が通行止め
-(2025-12-18 11:43:00) #ニュース
-
-[2025-12-18 11:44:28](https://bsky.app/profile/sokuho.news/post/3maa5sd3pq62y)
+[2025-12-18 12:03:02](https://bsky.app/profile/cnn.com/post/3maa6tjhgsn2k)
 
 ---
 
-@japan.reuters.com
+@axios.com
 
-インド議会は１７日、保険業界における外国資本の出資比率の上限を現行の７４％から１００％に引き上げる法案を可決した。 bit.ly/4amvQC3
+President Trump announced tonight all members of the military will receive a $1,776 "Warrior Dividend," while touting his tariffs and economic policies more broadly.
 
-[2025-12-18 11:42:40](https://bsky.app/profile/japan.reuters.com/post/3maa5p4fsgs2c)
+[2025-12-18 12:02:17](https://bsky.app/profile/axios.com/post/3maa6s6pj4k2w)
+
+---
+
+@apnews.com
+
+<strong><span style="color: red;">BREAKING:</span> The U.S. announces a massive package of arms sales to Taiwan valued at more than $10 billion, including medium-range missiles, howitzers and drones.</strong>
+
+[2025-12-18 12:01:42](https://bsky.app/profile/apnews.com/post/3maa6r5cxj222)
 
 ---
 
 @reuters.com
 
-US asks oil firms if they would return to Venezuela were Maduro to go, Politico reports reut.rs/3KXoxGo
+Insmed scraps development of sinus drug after mid-stage study failure reut.rs/3L8cgPx
 
-[2025-12-18 11:40:29](https://bsky.app/profile/reuters.com/post/3maa5l73okp2y)
+[2025-12-18 12:01:29](https://bsky.app/profile/reuters.com/post/3maa6qqhvdt2k)
+
+---
+
+@nikkei.com
+
+「ポケモン生態図鑑」80万部超え　30年分の設定、生活様式で分類
+www.nikkei.com/article/DGXZQO...
+
+企画と執筆を担当した米原善成さんは、日本学術振興会の特別研究員などを務め、水鳥など生き物の行動生態学を研究してきました。
+
+ポケモン入社後、3年以上かけて7500件以上の生態情報をゲームから集計。
+
+それぞれの作品の図鑑に記載されている内容に矛盾が生じることもありそうですが……？　
+ 
+米原さんは「一見矛盾していても、記載されていない部分を考えることで、合理的に解消できるんです」と話します。
+
+[2025-12-18 12:01:16](https://bsky.app/profile/nikkei.com/post/3maa6qed7ry2n)
 
 ---
 
 @japan.reuters.com
 
-米オープンＡＩ、米グーグル、生成ＡＩ（人工知能）検索サービスの米新興企業パープレキシティが、世界最多の人口を持つインドでのＡＩサービス利用者獲得に向け、無料プランを打ち出している bit.ly/4s2oXvV
+米紙ウォール・ストリート・ジャーナル（ＷＳＪ）は１７日、トランプ大統領が３期目を務めることが可能かどうかについて、弁護士で憲法学者のアラン・ダーショウィッツ氏が憲法上は明確ではないとの見解をトランプ氏に示したと報じた。 bit.ly/4p2z2Gz
 
-[2025-12-18 11:40:08](https://bsky.app/profile/japan.reuters.com/post/3maa5kkw22s2c)
-
----
-
-@washingtonpost.com
-
-In a televised speech Wednesday night, President Trump said that more than 1.4 million military service members would receive $1,776 payments from the government. 
-
-It’s unclear how the checks would be funded or if congressional approval will be necessary.
-
-[2025-12-18 11:39:14](https://bsky.app/profile/washingtonpost.com/post/3maa5ixcc7h2x)
+[2025-12-18 12:01:15](https://bsky.app/profile/japan.reuters.com/post/3maa6qdanb226)
 
 ---
 
-@sokuho.news
+@usatoday.com
 
-🛎️NNNより【速報】です。
+The "Survivor" Season 49 finale aired Wednesday night, Dec. 17, crowning one contestant $1 million and the title of sole survivor.
 
-【速報】青森・台北便が週5便に増便 繁忙期は県政史上初の『デイリー運航』も
-(2025-12-18 11:38) #ニュース
+[2025-12-18 12:01:11](https://bsky.app/profile/usatoday.com/post/3maa6q7colr25)
 
-[2025-12-18 11:38:28](https://bsky.app/profile/sokuho.news/post/3maa5hlxm7d26)
+---
+
+@aljazeera.com
+
+Can India catch up with the US, Taiwan and China in the global chip race? https://aje.io/pn81uw
+
+[2025-12-18 12:00:09](https://bsky.app/profile/aljazeera.com/post/3maa6oeee4627)
 
 ---
 
