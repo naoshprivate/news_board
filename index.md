@@ -1,9 +1,9 @@
-# [2025-12-18 15:30 updated](2025_12_18.md)
+# [2025-12-18 15:50 updated](2025_12_18.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">At a time when artists get big through TikTok and catchy hooks built to go viral, Geese represents, in part, a return to an old-school rise on.wsj.com/3XY9xLB <a href="https://bsky.app/profile/wsj.com/post/3maakccdbve2i" target="_blank">wsj.com</a> (2025-12-18 15:28:09)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】越前市長・山田賢一氏が出馬表明 1月の県知事選挙 「いばらの道だが微力を尽くしたい」 (2025-12-18 15:25) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maakbmvk2l2z" target="_blank">sokuho.news</a> (2025-12-18 15:27:47)</span><span style="padding-right:50px;">【速報中】安倍元首相銃撃事件裁判 検察は無期懲役を求刑 https://news.web.nhk/newsweb/na/na-k10015007141000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maakaepc4h22" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 15:27:02)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】福井県知事選挙に越前市の山田賢一市長が立候補を表明 市議会本会議で「この身を捧げることを覚悟し決意した」 (2025-12-18 15:20) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maak6cn6nw2a" target="_blank">sokuho.news</a> (2025-12-18 15:25:55)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】山上徹也被告に対し「無期懲役」求刑 検察側「被告は善悪の判断ができる40代の成人 不遇な生い立ちがあったとしても被害者とは無関係 極めて著しく悪質な犯行」安倍元総理銃撃・… (2025-12-18 15:22) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maak62r64s25" target="_blank">sokuho.news</a> (2025-12-18 15:25:47)</span>
+<span style="padding-right:50px;"> Two views of AI and Big Tech ft.trib.al/v7ifpe7  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3maald2fvel2b" target="_blank">financialtimes.com</a> (2025-12-18 15:46:28)</span><span style="padding-right:50px;">第一三共系、国内初の処方箋不要の緊急避妊薬　1回7480円で2月発売 www.nikkei.com/article/DGXZQO...  2026年2月2日に発売します。使用する年齢の制限はなく、薬剤師の前での服用が義務付けられます。  避妊の失敗や性暴力などによる望まない妊娠を避けるため、性交から原則72時間以内に1錠服用します。  #ニュース <a href="https://bsky.app/profile/nikkei.com/post/3maalav4p2z2i" target="_blank">nikkei.com</a> (2025-12-18 15:45:15)</span><span style="padding-right:50px;">Europe's auto industry future may be electric even after EU climbdown reut.rs/3YAQnLO <a href="https://bsky.app/profile/reuters.com/post/3maalat7ibx2b" target="_blank">reuters.com</a> (2025-12-18 15:45:13)</span><span style="padding-right:50px;">桑田真澄氏 オイシックスCBOに就任「勝てるチームに育てたい」 https://news.web.nhk/newsweb/na/na-k10015007411000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maalam3ewz24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 15:45:03)</span><span style="padding-right:50px;">＜１５：３１＞　大引けの日経平均は反落、一時4万9000円割れ　ＡＩ株安で bit.ly/4oWOcgn <a href="https://bsky.app/profile/japan.reuters.com/post/3maalah3bjm25" target="_blank">japan.reuters.com</a> (2025-12-18 15:45:01)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49062.09 (🔺3.78 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3358.00 (🔺8.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.85 (🔺0.26 : 2025-12-18)</span>
+<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.89 (🔺0.29 : 2025-12-18)</span>
   </div>
 </div>
 
@@ -32,107 +32,103 @@
 
 ## News Headlines
 
-1. Japan's Former Prime Minister Abe's Assassin Faces Life Sentence
-2. Former Japanese Prime Minister Abe's Assassin Seeks Life Imprisonment
-3. US Air Force Plane Crashes in Washington, 67 Dead
-4. Japanese City Mayor Announces Bid for Governor in Upcoming Election
-5. Google Aims to Challenge NVIDIA's Dominance in AI Computing Market
-6. India's Consumer Inflation Rate Slows Down to 3.5% in November
+Here are six selected news headlines in English:
+
+1. US Approves $11bn in Arms Sales to Taiwan in Deal Likely to Anger China
+2. Apple Opens Up iPhonE to Alternatives in Japan
+3. US Approves $11bn Arms Sale to Taiwan
+4. Nationalists Hire Ani Kilambi as GM Role
+5. US Justice Department Says Government Responsible for Airplane Crash that Killed 67
+6. Ecuador International Pineida Dies in Attack
 
 ----
 
-@wsj.com
+@financialtimes.com
 
-At a time when artists get big through TikTok and catchy hooks built to go viral, Geese represents, in part, a return to an old-school rise on.wsj.com/3XY9xLB
+ Two views of AI and Big Tech ft.trib.al/v7ifpe7  | opinion
 
-[2025-12-18 15:28:09](https://bsky.app/profile/wsj.com/post/3maakccdbve2i)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】越前市長・山田賢一氏が出馬表明 1月の県知事選挙 「いばらの道だが微力を尽くしたい」
-(2025-12-18 15:25) #ニュース
-
-[2025-12-18 15:27:47](https://bsky.app/profile/sokuho.news/post/3maakbmvk2l2z)
+[2025-12-18 15:46:28](https://bsky.app/profile/financialtimes.com/post/3maald2fvel2b)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@nikkei.com
 
-【速報中】安倍元首相銃撃事件裁判 検察は無期懲役を求刑
-https://news.web.nhk/newsweb/na/na-k10015007141000
+第一三共系、国内初の処方箋不要の緊急避妊薬　1回7480円で2月発売
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-18 15:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maakaepc4h22)
+2026年2月2日に発売します。使用する年齢の制限はなく、薬剤師の前での服用が義務付けられます。
 
----
+避妊の失敗や性暴力などによる望まない妊娠を避けるため、性交から原則72時間以内に1錠服用します。
 
-@sokuho.news
+#ニュース
 
-🛎️FNNより【速報】です。
-
-【速報】福井県知事選挙に越前市の山田賢一市長が立候補を表明 市議会本会議で「この身を捧げることを覚悟し決意した」
-(2025-12-18 15:20) #ニュース
-
-[2025-12-18 15:25:55](https://bsky.app/profile/sokuho.news/post/3maak6cn6nw2a)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】山上徹也被告に対し「無期懲役」求刑 検察側「被告は善悪の判断ができる40代の成人 不遇な生い立ちがあったとしても被害者とは無関係 極めて著しく悪質な犯行」安倍元総理銃撃・…
-(2025-12-18 15:22) #ニュース
-
-[2025-12-18 15:25:47](https://bsky.app/profile/sokuho.news/post/3maak62r64s25)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】越前市長・山田賢一氏が出馬表明 1月の県知事選挙
-(2025-12-18 15:25) #ニュース
-
-[2025-12-18 15:25:33](https://bsky.app/profile/sokuho.news/post/3maak5n5aca27)
+[2025-12-18 15:45:15](https://bsky.app/profile/nikkei.com/post/3maalav4p2z2i)
 
 ---
 
 @reuters.com
 
-Reports: Nationals hiring Ani Kilambi to GM role reut.rs/4pNg6wL
+Europe's auto industry future may be electric even after EU climbdown reut.rs/3YAQnLO
 
-[2025-12-18 15:25:12](https://bsky.app/profile/reuters.com/post/3maak4zx6gw2r)
+[2025-12-18 15:45:13](https://bsky.app/profile/reuters.com/post/3maalat7ibx2b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+桑田真澄氏 オイシックスCBOに就任「勝てるチームに育てたい」
+https://news.web.nhk/newsweb/na/na-k10015007411000
+
+[2025-12-18 15:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maalam3ewz24)
 
 ---
 
 @japan.reuters.com
 
-米司法省は１７日夜、１月２９日に首都ワシントン近郊のレーガン・ナショナル空港付近で発生したアメリカン航空のリージョナルジェット旅客機が米軍のヘリコプターと空中衝突して６７人が死亡した事故について、連邦政府に責任があると発表した。 bit.ly/4j6J2gL
+＜１５：３１＞　大引けの日経平均は反落、一時4万9000円割れ　ＡＩ株安で bit.ly/4oWOcgn
 
-[2025-12-18 15:24:13](https://bsky.app/profile/japan.reuters.com/post/3maak3bbsgy22)
-
----
-
-@nhknewsunofficial.bsky.social
-
-旧統一教会に賠償命令 献金勧誘で教団側の責任認める 東京高裁
-https://news.web.nhk/newsweb/na/na-k10015007381000
-
-[2025-12-18 15:24:06](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maak354ptq2b)
+[2025-12-18 15:45:01](https://bsky.app/profile/japan.reuters.com/post/3maalah3bjm25)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-三重 四日市 大雨浸水の地下駐車場 運営会社が破産申し立て
-https://news.web.nhk/newsweb/na/na-k10015007391000
+楽天 ルーキー宗山塁 推定年俸4000万円で契約更改
+https://news.web.nhk/newsweb/na/na-k10015007401000
 
-[2025-12-18 15:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maak2yjqg724)
+[2025-12-18 15:42:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maal37kk6m2w)
+
+---
+
+@japan.reuters.com
+
+臨時国会が１７日、閉会した。その夜に記者会見を開いた高市早苗首相は「まだまだ取り組まなきゃいけないことがいっぱいある」と、来年１月にも召集する通常国会への意気込みを語った。ただ、自民党内には日本維新の会との連立への不満が渦巻く。外交安保関連の政策や議員定数削減など重要課題も山積し、足元は「内憂外患」の様相だ。解散総選挙のタイミングにも注目が集まっており、高市政権は来年、一つの正念場を迎える。 bit.ly/4oWNWOr
+
+[2025-12-18 15:40:35](https://bsky.app/profile/japan.reuters.com/post/3maakyjiinq2v)
+
+---
+
+@japan.reuters.com
+
+終活関連サービスの鎌倉新書は１８日、ＳＯＭＰＯホールディングスとの資本業務提携を決議したと発表した。第三者割当増資と自社株処分により約２３億円を調達する。ＳＯＭＰＯＨＤは議決権比率で１０．００％の株式を保有する第２位株主になる見込み。 bit.ly/3L9XGqN
+
+[2025-12-18 15:40:33](https://bsky.app/profile/japan.reuters.com/post/3maakyi77px2p)
+
+---
+
+@reuters.com
+
+Can Ukraine survive without the EU's 'reparation loan'? reut.rs/4qjDkdN
+
+[2025-12-18 15:40:14](https://bsky.app/profile/reuters.com/post/3maakxvpvgx2c)
+
+---
+
+@japan.reuters.com
+
+＜１５：１３＞　国債先物は反発、長期金利1.97％　持ち高調整主体 bit.ly/48MT7Mk
+
+[2025-12-18 15:38:22](https://bsky.app/profile/japan.reuters.com/post/3maakuktqff2q)
 
 ---
 
