@@ -1,9 +1,9 @@
-# [2025-12-18 14:10 updated](2025_12_18.md)
+# [2025-12-18 14:30 updated](2025_12_18.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">自民 小林政調会長「OTC類似薬」“維新と合意目指し調整行う” https://news.web.nhk/newsweb/na/na-k10015007301000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maafuuppdl2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 14:09:02)</span><span style="padding-right:50px;">オーストラリアのアルバニージー首相は１８日、シドニー近郊のボンダイビーチで１４日にユダヤ教の祭りを祝うイベントで銃撃事件が起きたことを受け、ヘイトスピーチ（憎悪表現）対策を強化すると表明した。 bit.ly/3Y1sFIt <a href="https://bsky.app/profile/japan.reuters.com/post/3maaftwmdum2q" target="_blank">japan.reuters.com</a> (2025-12-18 14:08:32)</span><span style="padding-right:50px;">安倍元首相銃撃事件裁判 昭恵さんの意見読み上げ まもなく求刑 https://news.web.nhk/newsweb/na/na-k10015007141000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maafpje2kb2l" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 14:06:02)</span><span style="padding-right:50px;">中国の広州先物取引所で最も活発に取引されている炭酸リチウムの先物価格が１７日、取引時間中に一時１トン＝１０万９８６０元（１万５５９２．２７ドル）と昨年６月以来、約１年半ぶりの高値を付けた。当局が採掘許可を取り消す見通しであることが分かり、供給逼迫懸念が台頭した。 bit.ly/49gs241 <a href="https://bsky.app/profile/japan.reuters.com/post/3maafobkkig2p" target="_blank">japan.reuters.com</a> (2025-12-18 14:05:22)</span><span style="padding-right:50px;">暗号資産（仮想通貨）交換業のコインベースは１７日、スポーツや政治、金融市場の動きなど現実世界の結果を予想する「イベントコントラクト」や株式の取引サービスの提供を開始すると発表した。祖業である仮想通貨取引から事業範囲を広げ、ロビンフッドやインタラクティブ・ブローカーズなどこの分野で先行するライバルと直接対決する様相が強まる。 bit.ly/4p2gndQ <a href="https://bsky.app/profile/japan.reuters.com/post/3maafnquukq2q" target="_blank">japan.reuters.com</a> (2025-12-18 14:05:05)</span>
+<span style="padding-right:50px;">LIVE: Qatar celebrates national day  Qatar marks its national day with a parade along the Doha Corniche, the capital city’s waterfront promenade.  www.youtube.com/watch?v=dx0q... <a href="https://bsky.app/profile/reuters.com/post/3maagvse5gs2k" target="_blank">reuters.com</a> (2025-12-18 14:27:29)</span><span style="padding-right:50px;">＜１３：２８＞　後場の日経平均はマイナス圏で一進一退、ＡＩ関連株の下げが継続 bit.ly/3YxjQ9o <a href="https://bsky.app/profile/japan.reuters.com/post/3maagutjva42q" target="_blank">japan.reuters.com</a> (2025-12-18 14:26:56)</span><span style="padding-right:50px;">People can’t get enough hockey romance.   Steamy novels about love on the ice have a global following, and in places without much hockey or even ice, including Australia and Spain.   The phenomenon has sparked curiosity and confusion. on.wsj.com/44CHc14 <a href="https://bsky.app/profile/wsj.com/post/3maagsjnt5f2h" target="_blank">wsj.com</a> (2025-12-18 14:25:38)</span><span style="padding-right:50px;">Putin’s retaliation threat over frozen assets rattles EU capitals ft.trib.al/MDP8maR <a href="https://bsky.app/profile/financialtimes.com/post/3maagsgozkk2o" target="_blank">financialtimes.com</a> (2025-12-18 14:25:36)</span><span style="padding-right:50px;">ジェネリックがある医薬品 上乗せ分の負担 差額の2分の1以上へ https://news.web.nhk/newsweb/na/na-k10015007291000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maagppnrpx24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 14:24:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49087.05 (🔺28.74 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3361.00 (🔺11.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.74 (🔺0.14 : 2025-12-18)</span>
+<span style="padding-right:50px;">NIKKEI: 49091.01 (🔺32.70 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3362.00 (🔺12.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.75 (🔺0.15 : 2025-12-18)</span>
   </div>
 </div>
 
@@ -32,97 +32,131 @@
 
 ## News Headlines
 
-Here are six important news stories from the provided articles, rewritten as headlines in English:
+Here are six important stories with headlines in English:
 
-1. Japan's LDP to Strengthen Efforts to Reach Agreement on OTC Similar Medicines
-2. Australian Prime Minister Vows to Strengthen Anti-Hate Speech Measures After Sydney Shooting
-3. Abe's Wife Submits Statement in Court on Behalf of Former Japanese Prime Minister in Assassination Trial
-4. Lithium Prices Soar to 15-Month High on Concerns Over Supply Shortages
-5. Coinbase Expands Services to Include Event-Driven Contracts and Stock Trading
-6. Japan's 2026 Budget for Okinawa Region Increased to ¥2.64 Trillion, Still Below Requested Amount
+1. Qatar Celebrates National Day with Grand Parade
+2. EU Capitals Rattled by Putin's Threat Over Frozen Assets
+3. China's Lithium Prices Hit 18-Month High Amid Supply Concerns
+4. Germany Approves $58.6 Billion Defense Deal Amid Military Spending Increase
+5. Ukraine Drones Hit Russian Tanker in Port, Causing Deaths
+6. US Approves Largest Ever Arms Sale to Taiwan Amid Tensions
 
 ----
 
-@nhknewsunofficial.bsky.social
+@reuters.com
 
-自民 小林政調会長「OTC類似薬」“維新と合意目指し調整行う”
-https://news.web.nhk/newsweb/na/na-k10015007301000
+LIVE: Qatar celebrates national day
 
-[2025-12-18 14:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maafuuppdl2s)
+Qatar marks its national day with a parade along the Doha Corniche, the capital city’s waterfront promenade.
 
----
+www.youtube.com/watch?v=dx0q...
 
-@japan.reuters.com
-
-オーストラリアのアルバニージー首相は１８日、シドニー近郊のボンダイビーチで１４日にユダヤ教の祭りを祝うイベントで銃撃事件が起きたことを受け、ヘイトスピーチ（憎悪表現）対策を強化すると表明した。 bit.ly/3Y1sFIt
-
-[2025-12-18 14:08:32](https://bsky.app/profile/japan.reuters.com/post/3maaftwmdum2q)
-
----
-
-@nhknewsunofficial.bsky.social
-
-安倍元首相銃撃事件裁判 昭恵さんの意見読み上げ まもなく求刑
-https://news.web.nhk/newsweb/na/na-k10015007141000
-
-[2025-12-18 14:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maafpje2kb2l)
+[2025-12-18 14:27:29](https://bsky.app/profile/reuters.com/post/3maagvse5gs2k)
 
 ---
 
 @japan.reuters.com
 
-中国の広州先物取引所で最も活発に取引されている炭酸リチウムの先物価格が１７日、取引時間中に一時１トン＝１０万９８６０元（１万５５９２．２７ドル）と昨年６月以来、約１年半ぶりの高値を付けた。当局が採掘許可を取り消す見通しであることが分かり、供給逼迫懸念が台頭した。 bit.ly/49gs241
+＜１３：２８＞　後場の日経平均はマイナス圏で一進一退、ＡＩ関連株の下げが継続 bit.ly/3YxjQ9o
 
-[2025-12-18 14:05:22](https://bsky.app/profile/japan.reuters.com/post/3maafobkkig2p)
-
----
-
-@japan.reuters.com
-
-暗号資産（仮想通貨）交換業のコインベースは１７日、スポーツや政治、金融市場の動きなど現実世界の結果を予想する「イベントコントラクト」や株式の取引サービスの提供を開始すると発表した。祖業である仮想通貨取引から事業範囲を広げ、ロビンフッドやインタラクティブ・ブローカーズなどこの分野で先行するライバルと直接対決する様相が強まる。 bit.ly/4p2gndQ
-
-[2025-12-18 14:05:05](https://bsky.app/profile/japan.reuters.com/post/3maafnquukq2q)
+[2025-12-18 14:26:56](https://bsky.app/profile/japan.reuters.com/post/3maagutjva42q)
 
 ---
 
-@japan.reuters.com
+@wsj.com
 
-米プロバスケットボール協会（ＮＢＡ）は１７日、各地で試合を行い、グリズリーズがティンバーウルブズを１１６─１１０で下し、２連勝とした。 bit.ly/4qfIirS
+People can’t get enough hockey romance. 
 
-[2025-12-18 14:03:56](https://bsky.app/profile/japan.reuters.com/post/3maaflp25dm2q)
+Steamy novels about love on the ice have a global following, and in places without much hockey or even ice, including Australia and Spain. 
+
+The phenomenon has sparked curiosity and confusion. on.wsj.com/44CHc14
+
+[2025-12-18 14:25:38](https://bsky.app/profile/wsj.com/post/3maagsjnt5f2h)
+
+---
+
+@financialtimes.com
+
+Putin’s retaliation threat over frozen assets rattles EU capitals ft.trib.al/MDP8maR
+
+[2025-12-18 14:25:36](https://bsky.app/profile/financialtimes.com/post/3maagsgozkk2o)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-沖縄振興予算2647億円 10年ぶり増額も県求める額5年連続下回る
-https://news.web.nhk/newsweb/na/na-k10015007281000
+ジェネリックがある医薬品 上乗せ分の負担 差額の2分の1以上へ
+https://news.web.nhk/newsweb/na/na-k10015007291000
 
-[2025-12-18 14:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maafk6qfpr2w)
-
----
-
-@japan.reuters.com
-
-上海外国為替市場の人民元相場は対ドルで狭いレンジ内で小幅に上昇。米インフレ指標の発表を控える中、１年２カ月ぶりの高値近辺で推移している。投資家は引き続き慎重な姿勢で、トランプ大統領による次期連邦準備理事会（ＦＲＢ）議長の指名を待っている。 bit.ly/3YAMGWs
-
-[2025-12-18 14:02:45](https://bsky.app/profile/japan.reuters.com/post/3maafjloezh2s)
+[2025-12-18 14:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maagppnrpx24)
 
 ---
 
-@japan.reuters.com
+@sokuho.news
 
-フィンランドのオルポ首相は１７日、連立与党議員が「つり目」写真を交流サイト（ＳＮＳ）に投稿し、アジア人に対する差別だと非難された問題を巡り「心からおわび申し上げます」と謝罪した。 bit.ly/4amAwI7
+🔔防災科研より【強震モニタ】動画です。
 
-[2025-12-18 14:01:24](https://bsky.app/profile/japan.reuters.com/post/3maafh6hedu25)
+震源:三陸沖, 深さ:10km
+マグニチュード:4.6, 最大震度:1
+📍https://www.google.com/maps?q=39.7,143.2&ll=39.7,143.2&z=7&t=h
+地震発生日時:2025-12-18 14:20頃
+(10倍速▶180s→18s) #地震
+
+[2025-12-18 14:23:50](https://bsky.app/profile/sokuho.news/post/3maagpcakk42b)
 
 ---
 
-@japan.reuters.com
+@sokuho.news
 
-米半導体大手マイクロン・テクノロジーが１７日発表した第２・四半期（２０２５年１２月－２６年２月）の調整後１株利益見通しは「８．４２ドルを中心に上下０．２０ドル」で、ＬＳＥＧがまとめたアナリスト予想の４．７８ドルを大幅に上回った。 bit.ly/48Yv5fT
+🔔気象庁より【地震速報】です。
 
-[2025-12-18 14:01:07](https://bsky.app/profile/japan.reuters.com/post/3maafgofp7d27)
+14時20分頃、岩手県で最大震度1の地震を観測しました。
+震源:三陸沖, 深さ:10km, 規模:M4.6
+この地震による津波の心配はありません。
+(2025-12-18 14:23:12) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/18/2025-12-18-14-20-11.html?xlarge_image=1
+
+[2025-12-18 14:23:13](https://bsky.app/profile/sokuho.news/post/3maago73mb52s)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗
+
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像3🈡
+(2025-12-18 14:20:55) #緊急地震速報
+
+[2025-12-18 14:21:02](https://bsky.app/profile/sokuho.news/post/3maagkbjkcf2b)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗
+
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像2
+(2025-12-18 14:20:42) #緊急地震速報
+
+[2025-12-18 14:20:49](https://bsky.app/profile/sokuho.news/post/3maagjvjn7l2b)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗
+
+⚠️揺れに警戒してください
+🔗http://www.kmoni.bosai.go.jp/
+
+🔶防災科研/強震モニタ/予測震度画像1
+(2025-12-18 14:20:28) #緊急地震速報
+
+[2025-12-18 14:20:35](https://bsky.app/profile/sokuho.news/post/3maagji5xg52r)
 
 ---
 
