@@ -1,9 +1,9 @@
-# [2025-12-18 21:30 updated](2025_12_18.md)
+# [2025-12-18 21:50 updated](2025_12_18.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Health Secretary Robert F. Kennedy Jr. is expected to announce a package of measures that would together ban gender-affirming care for minors. A press conference is set for 11 a.m. Thursday. n.pr/44xQKdD <a href="https://bsky.app/profile/npr.org/post/3mab6gsao7j23" target="_blank">npr.org</a> (2025-12-18 21:28:35)</span><span style="padding-right:50px;">Acting CFTC Chair Caroline Pham To Join Crypto Payments Firm MoonPay www.forbes.com/sites/digita... (Photo: Caroline Pham) <a href="https://bsky.app/profile/forbes.com/post/3mab6ffnyis2z" target="_blank">forbes.com</a> (2025-12-18 21:27:48)</span><span style="padding-right:50px;">Mario Pineida: Ecuador defender killed in shooting in Guayaquil <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mab6ejsrdf25" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-18 21:27:18)</span><span style="padding-right:50px;">The Bank of England cuts key interest rate to 3.75%, the first reduction in 4 months. <a href="https://bsky.app/profile/apnews.com/post/3mab6djxlsr2k" target="_blank">apnews.com</a> (2025-12-18 21:26:46)</span><span style="padding-right:50px;">Meet The New Billionaires Behind Medline’s Blockbuster IPO www.forbes.com/sites/mattdu... (Photo: Jeff Sciortino for Forbes) <a href="https://bsky.app/profile/forbes.com/post/3mab6d6ck6s2z" target="_blank">forbes.com</a> (2025-12-18 21:26:33)</span>
+<span style="padding-right:50px;">A fiery President Trump — addressing Americans from a holiday-decked White House — insisted the economy is stronger than people think it is and any problems are all Democrats' fault.  It's a message that poll after poll says most voters don't believe. <a href="https://bsky.app/profile/axios.com/post/3mab7kyixgs2u" target="_blank">axios.com</a> (2025-12-18 21:48:49)</span><span style="padding-right:50px;">全トヨタ労連 物価上昇踏まえ賃上げ継続を要求へ 来年の春闘 https://news.web.nhk/newsweb/na/na-k10015007861000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mab7jnxdri2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 21:48:03)</span><span style="padding-right:50px;">How To Be The Manager Everyone Wants To Work For www.forbes.com/sites/juliak... (Photo: Getty Images) <a href="https://bsky.app/profile/forbes.com/post/3mab7fmvro22z" target="_blank">forbes.com</a> (2025-12-18 21:45:49)</span><span style="padding-right:50px;">Cisco Secure Email Attacks: 0-Day Exploit Confirmed, No Fix Available www.forbes.com/sites/daveyw... (Photo: Getty Images) <a href="https://bsky.app/profile/forbes.com/post/3mab7eu66mc2z" target="_blank">forbes.com</a> (2025-12-18 21:45:24)</span><span style="padding-right:50px;">European shares muted as investors cautious ahead of US data, ECB decision reut.rs/3KPpukf <a href="https://bsky.app/profile/reuters.com/post/3mab7epxhyz2s" target="_blank">reuters.com</a> (2025-12-18 21:45:19)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.76 (🔺0.16 : 2025-12-18)</span>
+<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.81 (🔺0.22 : 2025-12-18)</span>
   </div>
 </div>
 
@@ -34,96 +34,98 @@
 
 Here are six important stories with headlines in English:
 
-1. Bank of England Cuts Interest Rate to 3.75% in Christmas Boost to Consumers
-2. Trump Announces $1,776 'Warrior Dividend' Payments for Troops
-3. Vaccination Rates Plummet Across US as Vaccine Hesitancy Fuels Resurgence of Preventable Diseases
-4. Bank of England Cuts Interest Rates to Near Three-Year Low
-5. US Senate Passes NDAA Amendment, Awaits Presidential Signature
-6. Trump Media Merges with Fusion Power Company TAE Technologies in $6 Billion Deal
+1. Trump Announces $1,776 'Warrior Dividend' Payments for Troops
+2. Russian Invasion of Ukraine to Cost Russia for Years to Come
+3. Thai Central Bank Proposes Controls on Gold Trade, Cuts Interest Rate
+4. Tokyo to Import Three US-Made Toyota Models Starting 2026
+5. World's First Utility-Scale Fusion Power Plant to be Built by Trump Media and TAE Technologies
+6. Vaccination Rates Plummet Across the US, Fueling Resurgence of Preventable Diseases
 
 ----
 
-@npr.org
+@axios.com
 
-Health Secretary Robert F. Kennedy Jr. is expected to announce a package of measures that would together ban gender-affirming care for minors. A press conference is set for 11 a.m. Thursday. n.pr/44xQKdD
+A fiery President Trump — addressing Americans from a holiday-decked White House — insisted the economy is stronger than people think it is and any problems are all Democrats' fault.
 
-[2025-12-18 21:28:35](https://bsky.app/profile/npr.org/post/3mab6gsao7j23)
+It's a message that poll after poll says most voters don't believe.
+
+[2025-12-18 21:48:49](https://bsky.app/profile/axios.com/post/3mab7kyixgs2u)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+全トヨタ労連 物価上昇踏まえ賃上げ継続を要求へ 来年の春闘
+https://news.web.nhk/newsweb/na/na-k10015007861000
+
+[2025-12-18 21:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mab7jnxdri2w)
 
 ---
 
 @forbes.com
 
-Acting CFTC Chair Caroline Pham To Join Crypto Payments Firm MoonPay
-www.forbes.com/sites/digita... (Photo: Caroline Pham)
+How To Be The Manager Everyone Wants To Work For
+www.forbes.com/sites/juliak... (Photo: Getty Images)
 
-[2025-12-18 21:27:48](https://bsky.app/profile/forbes.com/post/3mab6ffnyis2z)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Mario Pineida: Ecuador defender killed in shooting in Guayaquil
-
-[2025-12-18 21:27:18](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mab6ejsrdf25)
-
----
-
-@apnews.com
-
-The Bank of England cuts key interest rate to 3.75%, the first reduction in 4 months.
-
-[2025-12-18 21:26:46](https://bsky.app/profile/apnews.com/post/3mab6djxlsr2k)
+[2025-12-18 21:45:49](https://bsky.app/profile/forbes.com/post/3mab7fmvro22z)
 
 ---
 
 @forbes.com
 
-Meet The New Billionaires Behind Medline’s Blockbuster IPO
-www.forbes.com/sites/mattdu... (Photo: Jeff Sciortino for Forbes)
+Cisco Secure Email Attacks: 0-Day Exploit Confirmed, No Fix Available
+www.forbes.com/sites/daveyw... (Photo: Getty Images)
 
-[2025-12-18 21:26:33](https://bsky.app/profile/forbes.com/post/3mab6d6ck6s2z)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Trump announces $1,776  'warrior dividend' payments for troops
-
-[2025-12-18 21:26:13](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mab6cm6air2b)
+[2025-12-18 21:45:24](https://bsky.app/profile/forbes.com/post/3mab7eu66mc2z)
 
 ---
 
-@bloomberg.com
+@reuters.com
 
-Russia will be paying for its invasion of Ukraine for years to come, as the government plugs a widening gap in the military budget.
+European shares muted as investors cautious ahead of US data, ECB decision reut.rs/3KPpukf
 
-[2025-12-18 21:26:09](https://bsky.app/profile/bloomberg.com/post/3mab6chfvb62d)
+[2025-12-18 21:45:19](https://bsky.app/profile/reuters.com/post/3mab7epxhyz2s)
 
 ---
 
 @forbes.com
 
-Court Ruling Could Reignite Fight Over The Corporate Transparency Act
-www.forbes.com/sites/kellyp... (Photo: Getty Images)
+Google Warns Android Users—These Apps Are Tracking Your Location
+www.forbes.com/sites/zakdof... (Photo: Getty Images)
 
-[2025-12-18 21:25:58](https://bsky.app/profile/forbes.com/post/3mab6c4oljk2z)
+[2025-12-18 21:44:57](https://bsky.app/profile/forbes.com/post/3mab7e2pn6k2z)
 
 ---
 
 @forbes.com
 
-A Surprise In The House Could Decide The Fate Of Affordable Care Act Subsidies
-www.forbes.com/sites/kellyp... (Photo: Kevin Dietsch/Getty Images)
+Google Suddenly Issues Emergency Update For Millions Of Pixel Owners www.forbes.com/sites/zakdof... (Photo: dpa/picture alliance via Getty Images)
 
-[2025-12-18 21:25:21](https://bsky.app/profile/forbes.com/post/3mab6azcpsc2z)
+[2025-12-18 21:44:27](https://bsky.app/profile/forbes.com/post/3mab7d6nyl22z)
 
 ---
 
-@japan.reuters.com
+@cnbc.com
 
-ケニアの牧畜民のヘレン・エティマンさんは、重度の栄養失調になった息子のピーター・ロコイエンちゃん（４）について、特別な栄養治療食の投与を始めればすぐに回復すると信じていた。 bit.ly/49g30SG
+Giorgos Tsetis built Nutrafol into a $3.5 billion brand. Now he's investing in AI and backing social causes
 
-[2025-12-18 21:25:17](https://bsky.app/profile/japan.reuters.com/post/3mab6avqtn227)
+[2025-12-18 21:44:18](https://bsky.app/profile/cnbc.com/post/3mab7cvszig2n)
+
+---
+
+@forbes.com
+
+Dan Bongino Will Leave FBI—As Trump Says He Wants Show Back www.forbes.com/sites/kirkog... (Photo: Michael M. Santiago/Getty Images)
+
+[2025-12-18 21:43:59](https://bsky.app/profile/forbes.com/post/3mab7cdsfqc2z)
+
+---
+
+@cnbc.com
+
+Health care is 'engine' of the job market — and that's risky for the economy
+
+[2025-12-18 21:43:07](https://bsky.app/profile/cnbc.com/post/3mab7arkx5k24)
 
 ---
 
