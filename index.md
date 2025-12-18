@@ -1,9 +1,9 @@
-# [2025-12-19 04:50 updated](2025_12_19.md)
+# [2025-12-19 05:10 updated](2025_12_19.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">US judge rejects LinkedIn antitrust settlement, citing ‘serious problems’ reut.rs/4p0ywJ6 <a href="https://bsky.app/profile/reuters.com/post/3mabwtphroy2c" target="_blank">reuters.com</a> (2025-12-19 04:45:18)</span><span style="padding-right:50px;">After three weeks of testimony, a judge will now rule on whether evidence found in Mangione's backpack can be used in his state trial for the murder of UnitedHealthcare CEO Brian Thompson. n.pr/3LbhytD <a href="https://bsky.app/profile/npr.org/post/3mabwq2muxs2b" target="_blank">npr.org</a> (2025-12-19 04:43:15)</span><span style="padding-right:50px;">Trump withdrew Isaacman's nomination in May, citing the billionaire's donations to Democrats and ties to Elon Musk. He was renominated last month and confirmed by a 67-30 Senate vote on Wednesday. n.pr/49jrDOk <a href="https://bsky.app/profile/npr.org/post/3mabwplqhfa24" target="_blank">npr.org</a> (2025-12-19 04:43:00)</span><span style="padding-right:50px;">President Trump is escalating pressure on Venezuela—but also keeping his intentions uncertain. <a href="https://bsky.app/profile/wsj.com/post/3mabwnw2tmx2g" target="_blank">wsj.com</a> (2025-12-19 04:42:03)</span><span style="padding-right:50px;">US House Democrats on Thursday published a fresh batch of photographs from Jeffrey Epstein's estate, stepping up pressure on Donald Trump's administration on the eve of its deadline to release federal files on the late financier and convicted sex offender. u.afp.com/S8JJ <a href="https://bsky.app/profile/en.afp.com/post/3mabwnvlceg2y" target="_blank">en.afp.com</a> (2025-12-19 04:42:02)</span>
+<span style="padding-right:50px;">Why BlackRock thinks the time is right for a more 'modernized' exposure to bonds <a href="https://bsky.app/profile/cnbc.com/post/3maby5klpu424" target="_blank">cnbc.com</a> (2025-12-19 05:08:42)</span><span style="padding-right:50px;">トランプ米大統領は１８日、連邦政府のマリフアナ（大麻）を巡る規制の緩和を勧告する大統領令に署名した。米政府が数十年にわたり導入していた厳格な規制が一段と転換される可能性がある。 bit.ly/4ql75uI <a href="https://bsky.app/profile/japan.reuters.com/post/3maby5igtr227" target="_blank">japan.reuters.com</a> (2025-12-19 05:08:40)</span><span style="padding-right:50px;">Instacart to pay $60 million to settle FTC claims it deceived customers <a href="https://bsky.app/profile/cnbc.com/post/3maby3d6i4n2e" target="_blank">cnbc.com</a> (2025-12-19 05:07:27)</span><span style="padding-right:50px;">The process to reclassify a drug can take years.   Here's what to know. <a href="https://bsky.app/profile/axios.com/post/3maby24z5h22p" target="_blank">axios.com</a> (2025-12-19 05:06:47)</span><span style="padding-right:50px;">Trump today green-lit "no charge" CBD products for those on Medicare, and his administration wants to increase access for Medicaid enrollees in the future. Here's what to know. <a href="https://bsky.app/profile/axios.com/post/3mabxz6o56k2i" target="_blank">axios.com</a> (2025-12-19 05:06:15)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 48000.82 (🔻100.36 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23009.29 (🔻2.77 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.43 (🔻0.10 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.50 (🔻0.09 : 2025-12-18)</span>
+<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47976.72 (🔻124.46 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.30 (🔻5.76 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.43 (🔻0.10 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.54 (🔻0.06 : 2025-12-18)</span>
   </div>
 </div>
 
@@ -32,95 +32,96 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are six headlines in English:
 
-1. US Judge Rejects LinkedIn Antitrust Settlement
-2. Trump Renominates Isaacman to Federal Reserve Board
-3. Trump Escalates Pressure on Venezuela, but Leaves Intentions Unclear
-4. Democrats Call for Vote on Extending Affordable Care Act Tax Credits
-5. Trump Signs Executive Order Reclassifying Marijuana as Less Dangerous
-6. Trump Renames Kennedy Center for the Performing Arts to Trump-Kennedy Center
+1. Trump Signs Executive Order to Ease Restrictions on Marijuana Research
+2. Instacart to Pay $60 Million to Settle FTC Claims of Deceptive Practices
+3. ECB Keeps Policy Interest Rate Unchanged, Raises Growth and Inflation Forecasts
+4. Trump Chooses Army Lt. Gen. Joshua Rudd to Head NSA and Cyber Command
+5. US House Passes Bill to Ease Permits for Building Out AI Infrastructure
+6. Hogan Lovells to Merge with Cadwalader, Wickersham & Taft in $3.6 Billion Deal
 
 ----
 
-@reuters.com
+@cnbc.com
 
-US judge rejects LinkedIn antitrust settlement, citing ‘serious problems’ reut.rs/4p0ywJ6
+Why BlackRock thinks the time is right for a more 'modernized' exposure to bonds
 
-[2025-12-19 04:45:18](https://bsky.app/profile/reuters.com/post/3mabwtphroy2c)
-
----
-
-@npr.org
-
-After three weeks of testimony, a judge will now rule on whether evidence found in Mangione's backpack can be used in his state trial for the murder of UnitedHealthcare CEO Brian Thompson. n.pr/3LbhytD
-
-[2025-12-19 04:43:15](https://bsky.app/profile/npr.org/post/3mabwq2muxs2b)
-
----
-
-@npr.org
-
-Trump withdrew Isaacman's nomination in May, citing the billionaire's donations to Democrats and ties to Elon Musk. He was renominated last month and confirmed by a 67-30 Senate vote on Wednesday. n.pr/49jrDOk
-
-[2025-12-19 04:43:00](https://bsky.app/profile/npr.org/post/3mabwplqhfa24)
-
----
-
-@wsj.com
-
-President Trump is escalating pressure on Venezuela—but also keeping his intentions uncertain.
-
-[2025-12-19 04:42:03](https://bsky.app/profile/wsj.com/post/3mabwnw2tmx2g)
-
----
-
-@en.afp.com
-
-US House Democrats on Thursday published a fresh batch of photographs from Jeffrey Epstein's estate, stepping up pressure on Donald Trump's administration on the eve of its deadline to release federal files on the late financier and convicted sex offender.
-u.afp.com/S8JJ
-
-[2025-12-19 04:42:02](https://bsky.app/profile/en.afp.com/post/3mabwnvlceg2y)
-
----
-
-@financialtimes.com
-
-Trump family deal with fusion energy firm adds to complicated UK-US ties ft.trib.al/xfWKzLA
-
-[2025-12-19 04:42:02](https://bsky.app/profile/financialtimes.com/post/3mabwnugefo2w)
-
----
-
-@usatoday.com
-
-<strong><span style="color: red;">BREAKING:</span> President Donald Trump signed an executive order Dec. 18 to federally classify marijuana as a less dangerous substance, the biggest change for the drug since 1970 and an opportunity for the industry to operate more easily.</strong><br><strong></strong><br><strong>Read more at: bit.ly/492osJw</strong>
-
-[2025-12-19 04:41:17](https://bsky.app/profile/usatoday.com/post/3mabwmjf6ra2z)
-
----
-
-@nbcnews.com
-
-Kristin Cabot, the woman seen embracing her boss on a “kiss cam” at a Coldplay concert in July, is speaking out for the first time about the fallout from the moment and how it affected her family.
-
-[2025-12-19 04:40:48](https://bsky.app/profile/nbcnews.com/post/3mabwlntmbn23)
+[2025-12-19 05:08:42](https://bsky.app/profile/cnbc.com/post/3maby5klpu424)
 
 ---
 
 @japan.reuters.com
 
-米労働省が１８日発表した１２月１３日までの１週間の新規失業保険申請件数（季節調整済み）は１万３０００件減少し、２２万４０００件となった。ロイターがまとめたエコノミスト予想は２２万５０００件だった。 bit.ly/3XZoXiD
+トランプ米大統領は１８日、連邦政府のマリフアナ（大麻）を巡る規制の緩和を勧告する大統領令に署名した。米政府が数十年にわたり導入していた厳格な規制が一段と転換される可能性がある。 bit.ly/4ql75uI
 
-[2025-12-19 04:40:36](https://bsky.app/profile/japan.reuters.com/post/3mabwlcwqof2n)
+[2025-12-19 05:08:40](https://bsky.app/profile/japan.reuters.com/post/3maby5igtr227)
+
+---
+
+@cnbc.com
+
+Instacart to pay $60 million to settle FTC claims it deceived customers
+
+[2025-12-19 05:07:27](https://bsky.app/profile/cnbc.com/post/3maby3d6i4n2e)
+
+---
+
+@axios.com
+
+The process to reclassify a drug can take years. 
+
+Here's what to know.
+
+[2025-12-19 05:06:47](https://bsky.app/profile/axios.com/post/3maby24z5h22p)
+
+---
+
+@axios.com
+
+Trump today green-lit "no charge" CBD products for those on Medicare, and his administration wants to increase access for Medicaid enrollees in the future. Here's what to know.
+
+[2025-12-19 05:06:15](https://bsky.app/profile/axios.com/post/3mabxz6o56k2i)
 
 ---
 
 @reuters.com
 
-Most Gulf stock markets rise as oil prices hold steady reut.rs/3MRAXjI
+Belgian farmers in anti-trade protest clash with police reut.rs/4pN1e1n
 
-[2025-12-19 04:40:32](https://bsky.app/profile/reuters.com/post/3mabwl7e37i2c)
+[2025-12-19 05:05:19](https://bsky.app/profile/reuters.com/post/3mabxxisst42b)
+
+---
+
+@cnbc.com
+
+House passes bill to ease permits for building out AI infrastructure
+
+[2025-12-19 05:04:39](https://bsky.app/profile/cnbc.com/post/3mabxwcrwm624)
+
+---
+
+@aljazeera.com
+
+There were chaotic scenes in Albania’s parliament where a vote for the country’s next human rights ombudsman descended into a protest by opposition politicians over alleged election fraud and corruption.
+
+[2025-12-19 05:04:38](https://bsky.app/profile/aljazeera.com/post/3mabxwburnk2w)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Wiz Khalifa sentenced to nine months jail in Romania
+
+[2025-12-19 05:04:09](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mabxvgqidl2b)
+
+---
+
+@nytimes.com
+
+<strong><span style="color: red;">Breaking News</span>: President Trump signed an executive order to downgrade cannabis from the most restrictive category of drugs, easing research and other restrictions but falling short of legalizing marijuana.</strong>
+
+[2025-12-19 05:04:03](https://bsky.app/profile/nytimes.com/post/3mabxvav27i2r)
 
 ---
 
