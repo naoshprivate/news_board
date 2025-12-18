@@ -1,9 +1,9 @@
-# [2025-12-19 00:30 updated](2025_12_19.md)
+# [2025-12-19 00:50 updated](2025_12_19.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Brian Walshe is sentenced to life in prison without parole after being found guilty of his wife's murder days earlier https://cnn.it/4q8OFgC <a href="https://bsky.app/profile/cnn.com/post/3mabihaju5v26" target="_blank">cnn.com</a> (2025-12-19 00:27:47)</span><span style="padding-right:50px;">Lululemon jumps on Elliott's $1 billion bet ahead of leadership change reut.rs/44y98TH <a href="https://bsky.app/profile/reuters.com/post/3mabicur7nt2r" target="_blank">reuters.com</a> (2025-12-19 00:25:21)</span><span style="padding-right:50px;">We set out to find great-looking, functional, high-quality everyday bags that will hold up for years — and we wanted those boxes ticked for $500 or less. After rigorous research and testing, ultimately, seven bags rose to the top. <a href="https://bsky.app/profile/nytimes.com/post/3mabi6rxqdg25" target="_blank">nytimes.com</a> (2025-12-19 00:23:04)</span><span style="padding-right:50px;">BREAKING: Brian Walshe is sentenced to life in prison without parole for the murder of his wife on New Year's Day in 2023.  <a href="https://bsky.app/profile/cbsnews.com/post/3mabi37jyw32y" target="_blank">cbsnews.com</a> (2025-12-19 00:21:03)</span><span style="padding-right:50px;">Ecuadorian police said Mario Pineida, a 33-year-old Barcelona de Guayaquil defender and former national team player, was shot dead in an apparent attack as violence escalates in the Andean nation. <a href="https://bsky.app/profile/cbsnews.com/post/3mabhzdgk3u2g" target="_blank">cbsnews.com</a> (2025-12-19 00:20:01)</span>
+<span style="padding-right:50px;">Heard on the Street: The AI gold rush is creating shortages for memory chips that could raise prices for all sorts of gadgets. <a href="https://bsky.app/profile/wsj.com/post/3mabjnaieuc2i" target="_blank">wsj.com</a> (2025-12-19 00:49:02)</span><span style="padding-right:50px;">Trump Media to merge with nuclear fusion firm in $6bn deal <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mabjkzjore2r" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-19 00:47:47)</span><span style="padding-right:50px;">Swiss gold exports drop in November as shipments to India plunge reut.rs/3L3Ld7U <a href="https://bsky.app/profile/reuters.com/post/3mabjgqxkbt2k" target="_blank">reuters.com</a> (2025-12-19 00:45:25)</span><span style="padding-right:50px;">Food production no longer profitable for English farms, says review ft.trib.al/0ertCTS <a href="https://bsky.app/profile/financialtimes.com/post/3mabj7wqy6f2k" target="_blank">financialtimes.com</a> (2025-12-19 00:41:36)</span><span style="padding-right:50px;">Cannabis stocks rise ahead of potential Trump order to ease marijuana restrictions reut.rs/4j7hF64 <a href="https://bsky.app/profile/reuters.com/post/3mabj5sc4fc2x" target="_blank">reuters.com</a> (2025-12-19 00:40:24)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 48217.62 (🔺116.44 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23069.41 (🔺57.35 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.99 (🔺0.46 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.65 (🔺0.06 : 2025-12-18)</span>
+<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 48310.63 (🔺209.45 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23109.02 (🔺96.96 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 175.68 (🔺1.15 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.57 (🔻0.03 : 2025-12-18)</span>
   </div>
 </div>
 
@@ -32,94 +32,94 @@
 
 ## News Headlines
 
-Here are six important stories with headlines:
+Here are six headlines in English:
 
-1. Massachusetts Man Sentenced to Life in Prison Without Parole for Wife's Murder
-2. Lululemon Sees Surge in Sales After Taking a $1 Billion Bet
-3. Ecuadorian Soccer Player Killed in Apparent Attack Amid Escalating Violence
-4. Pope Appoints New Leader of New York's Catholic Archdiocese
-5. Trump Administration to Loosen Restrictions on Marijuana, Launch Medicare CBD Pilot Program
-6. Saturn's Moon Titan May Not Have Vast Underground Ocean as Believed
+1. US Imposes Sanctions on Two ICC Judges Investigating Israel
+2. Trump's Trade Policies Hurting Small Businesses, Says Report
+3. EU Summit on Knife's Edge Over Plan to Fund Ukraine with Russian Assets
+4. Brian Walshe Sentenced to Life in Prison for Wife's Murder
+5. US Economy Shows Signs of Recovery as Inflation Cools
+6. Lululemon Jumps on $1 Billion Bet Ahead of Leadership Change
 
 ----
 
-@cnn.com
-
-Brian Walshe is sentenced to life in prison without parole after being found guilty of his wife's murder days earlier https://cnn.it/4q8OFgC
-
-[2025-12-19 00:27:47](https://bsky.app/profile/cnn.com/post/3mabihaju5v26)
-
----
-
-@reuters.com
-
-Lululemon jumps on Elliott's $1 billion bet ahead of leadership change reut.rs/44y98TH
-
-[2025-12-19 00:25:21](https://bsky.app/profile/reuters.com/post/3mabicur7nt2r)
-
----
-
-@nytimes.com
-
-We set out to find great-looking, functional, high-quality everyday bags that will hold up for years — and we wanted those boxes ticked for $500 or less. After rigorous research and testing, ultimately, seven bags rose to the top.
-
-[2025-12-19 00:23:04](https://bsky.app/profile/nytimes.com/post/3mabi6rxqdg25)
-
----
-
-@cbsnews.com
-
-<strong><span style="color: red;">BREAKING:</span> Brian Walshe is sentenced to life in prison without parole for the murder of his wife on New Year's Day in 2023. </strong>
-
-[2025-12-19 00:21:03](https://bsky.app/profile/cbsnews.com/post/3mabi37jyw32y)
-
----
-
-@cbsnews.com
-
-Ecuadorian police said Mario Pineida, a 33-year-old Barcelona de Guayaquil defender and former national team player, was shot dead in an apparent attack as violence escalates in the Andean nation.
-
-[2025-12-19 00:20:01](https://bsky.app/profile/cbsnews.com/post/3mabhzdgk3u2g)
-
----
-
 @wsj.com
 
-Pope Leo XIV has appointed a bishop from Illinois as the new leader of New York’s Catholic archdiocese, replacing conservative Cardinal Timothy Dolan.
+Heard on the Street: The AI gold rush is creating shortages for memory chips that could raise prices for all sorts of gadgets.
 
-[2025-12-19 00:16:18](https://bsky.app/profile/wsj.com/post/3mabhsprpd72c)
+[2025-12-19 00:49:02](https://bsky.app/profile/wsj.com/post/3mabjnaieuc2i)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Trump Media to merge with nuclear fusion firm in $6bn deal
+
+[2025-12-19 00:47:47](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mabjkzjore2r)
 
 ---
 
 @reuters.com
 
-Americans facing soaring health insurance costs may get a lifeline in 2026, experts say reut.rs/4oZRCiw
+Swiss gold exports drop in November as shipments to India plunge reut.rs/3L3Ld7U
 
-[2025-12-19 00:15:25](https://bsky.app/profile/reuters.com/post/3mabhr52nd32o)
+[2025-12-19 00:45:25](https://bsky.app/profile/reuters.com/post/3mabjgqxkbt2k)
 
 ---
 
-@cnbc.com
+@financialtimes.com
 
-It's crucial to be in the driver's seat of your career, according to Chris Kempczinski. 
+Food production no longer profitable for English farms, says review ft.trib.al/0ertCTS
 
-[2025-12-19 00:14:54](https://bsky.app/profile/cnbc.com/post/3mabhq6w2sy2n)
+[2025-12-19 00:41:36](https://bsky.app/profile/financialtimes.com/post/3mabj7wqy6f2k)
 
 ---
 
 @reuters.com
 
-Lucasfilm wins bid to throw out UK lawsuit over 'resurrection' of 'Star Wars' character reut.rs/4j4Bhrl
+Cannabis stocks rise ahead of potential Trump order to ease marijuana restrictions reut.rs/4j7hF64
 
-[2025-12-19 00:10:45](https://bsky.app/profile/reuters.com/post/3mabhiroan32o)
+[2025-12-19 00:40:24](https://bsky.app/profile/reuters.com/post/3mabj5sc4fc2x)
+
+---
+
+@nbcnews.com
+
+As measles continues to spread in the U.S., it’s likely that the outbreaks that broke records in 2025 will continue into the new year.
+
+[2025-12-19 00:40:11](https://bsky.app/profile/nbcnews.com/post/3mabj5g6b3e2q)
 
 ---
 
 @japan.reuters.com
 
-スイスの製薬大手ノバルティスとロシュは１８日、米国の医薬品価格引き下げに向けた取り組みを支持し、トランプ政権と協力していると発表した。 bit.ly/49h4EmZ
+欧州中央銀行（ＥＣＢ）は１８日に開いた理事会で政策金利を据え置くと決定した。金利据え置きは４会合連続。ＥＣＢは声明で「特に内需のけん引により、経済成長は９月時点のの予測よりも力強くなると予想される」と指摘。同時に発表した景気予測では、成長率とインフレ率の見通しを一部上方修正した。 bit.ly/4qmxQ1X
 
-[2025-12-19 00:10:31](https://bsky.app/profile/japan.reuters.com/post/3mabhiepyeg22)
+[2025-12-19 00:39:16](https://bsky.app/profile/japan.reuters.com/post/3mabj3rkaen2s)
+
+---
+
+@nytimes.com
+
+Paramilitaries in Sudan killed over 1,000 people, one-third of them in summary executions, in an attack in April against a famine-stricken camp for displaced people, the UN human rights body said on Thursday.
+
+[2025-12-19 00:39:03](https://bsky.app/profile/nytimes.com/post/3mabj3emge22b)
+
+---
+
+@financialtimes.com
+
+The report provides a glimpse into the state of the US economy after a record-length government shutdown halted data collection and caused many official releases to be postponed. ft.trib.al/i8SddRj
+
+[2025-12-19 00:38:54](https://bsky.app/profile/financialtimes.com/post/3mabj34x25r2q)
+
+---
+
+@financialtimes.com
+
+The bloc is seeking to use €210bn in Moscow’s sovereign assets held in Euroclear, the central securities depository based in Belgium, to guarantee a €90bn loan to Kyiv. ft.trib.al/c79urJp
+
+[2025-12-19 00:38:03](https://bsky.app/profile/financialtimes.com/post/3mabizllyrt2p)
 
 ---
 
