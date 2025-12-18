@@ -1,9 +1,9 @@
-# [2025-12-18 19:50 updated](2025_12_18.md)
+# [2025-12-18 20:10 updated](2025_12_18.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">President Trump is standing by Susie Wiles despite a series of candid interviews that criticized administration officials. <a href="https://bsky.app/profile/wsj.com/post/3maays5gkh72z" target="_blank">wsj.com</a> (2025-12-18 19:47:33)</span><span style="padding-right:50px;">ドイツ連邦議会の予算委員会は１７日、今後数年間で５００億ユーロ（約５８６億ドル）を超える防衛契約を承認した。ドイツはロシアのウクライナ侵攻で軍事支出の拡大を迫られている。 bit.ly/4oWZy3Z <a href="https://bsky.app/profile/japan.reuters.com/post/3maayo6xjpy2n" target="_blank">japan.reuters.com</a> (2025-12-18 19:45:21)</span><span style="padding-right:50px;">【訪問お待ちしています】 日本経済新聞社、ロブロックスに「支局」　仮想空間をアバターで取材 www.nikkei.com/article/DGXZQO...   ロブロックスは世界最大級のゲームプラットフォーム。若者とともにエンタメから世界の課題まで幅広く考える場にします。   ロブロックスのアプリをダウンロード→検索窓に「ロブラボワールド」と入力→バーチャル空間に入ってください。空間内の一角に「NIKKEI」の建物があります。記者のアバターか、支局前にいる柴犬にチャットで話しかけてみてください！ <a href="https://bsky.app/profile/nikkei.com/post/3maayo2775t2c" target="_blank">nikkei.com</a> (2025-12-18 19:45:16)</span><span style="padding-right:50px;">Inquiry into deadly Optus emergency call outage found failures in firewall upgrade reut.rs/4oWZwZV <a href="https://bsky.app/profile/reuters.com/post/3maaynzdxyd2x" target="_blank">reuters.com</a> (2025-12-18 19:45:15)</span><span style="padding-right:50px;">政府 内閣官房参与に細川昌彦氏を起用 経済安全保障担当など https://news.web.nhk/newsweb/na/na-k10015007371000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maaynqgrii2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-18 19:45:03)</span>
+<span style="padding-right:50px;"> The EU’s economic security blanket is patchy and thin ft.trib.al/DucTryb  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3maazv4on242v" target="_blank">financialtimes.com</a> (2025-12-18 20:07:07)</span><span style="padding-right:50px;"> Europe’s second-class citizens ft.trib.al/wLGzevR  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3maazv44tyb2k" target="_blank">financialtimes.com</a> (2025-12-18 20:07:06)</span><span style="padding-right:50px;">AI ran our office vending machine for several weeks. It lost hundreds of dollars, gave away a PlayStation, bought a live fish—and taught us a lot about AI agents, writes Joanna Stern. <a href="https://bsky.app/profile/wsj.com/post/3maazuo3dua2t" target="_blank">wsj.com</a> (2025-12-18 20:06:51)</span><span style="padding-right:50px;">中国商務省は１８日、レアアース（希土類）輸出の一般ライセンスを数件付与したと発表した。迅速な輸出を目指した新しい許可カテゴリーとなる。 bit.ly/3KOc1cp <a href="https://bsky.app/profile/japan.reuters.com/post/3maazs6uvp42v" target="_blank">japan.reuters.com</a> (2025-12-18 20:05:28)</span><span style="padding-right:50px;">Standard General in talks to invest in Warner Bros Discovery networks, FT says reut.rs/3MNlLnJ <a href="https://bsky.app/profile/reuters.com/post/3maazryln7g2b" target="_blank">reuters.com</a> (2025-12-18 20:05:22)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.91 (🔺0.32 : 2025-12-18)</span>
+<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47885.97 (🔻242.08 : 2025-12-17)</span><span style="padding-right:50px;">NASDAQ: 22693.32 (🔻442.29 : 2025-12-17)</span><span style="padding-right:50px;">NVIDIA: 170.94 (🔻5.16 : 2025-12-17)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.84 (🔺0.25 : 2025-12-18)</span>
   </div>
 </div>
 
@@ -32,102 +32,102 @@
 
 ## News Headlines
 
-Here are six news headlines:
+Here are six important stories with headlines in English:
 
-1. President Trump Stands by Susie Wiles Amid Criticism
-2. Germany Approves €58.6 Billion Defense Deals Amid Ukraine-Russia Tensions
-3. Japan's Nikkei Newspaper Opens Virtual Branch in Roblox
-4. Inquiry into Deadly Optus Emergency Call Outage Reveals Firewall Upgrade Failures
-5. Finland's Prime Minister Apologizes for Racist Comments on Social Media
-6. Boeing and Union Pause Contract Talks for Former Spirit AeroSystems Engineers
+1. EU's Economic Security Blanket is Patchy and Thin
+2. Lufthansa Plays Catch Up with European Rivals After Bumpy Ride
+3. China Rapidly Expands Rare Earth Exports Amid Global Concerns
+4. Trump Vows to Stamp Out Extremism After Bondi Beach Shooting
+5. Boeing and Union Pause Contract Talks for Former Spirit AeroSystems Engineers
+6. China Develops Supercomputer Capable of Manufacturing Advanced Semiconductors
 
 ----
 
+@financialtimes.com
+
+ The EU’s economic security blanket is patchy and thin ft.trib.al/DucTryb  | opinion
+
+[2025-12-18 20:07:07](https://bsky.app/profile/financialtimes.com/post/3maazv4on242v)
+
+---
+
+@financialtimes.com
+
+ Europe’s second-class citizens ft.trib.al/wLGzevR  | opinion
+
+[2025-12-18 20:07:06](https://bsky.app/profile/financialtimes.com/post/3maazv44tyb2k)
+
+---
+
 @wsj.com
 
-President Trump is standing by Susie Wiles despite a series of candid interviews that criticized administration officials.
+AI ran our office vending machine for several weeks. It lost hundreds of dollars, gave away a PlayStation, bought a live fish—and taught us a lot about AI agents, writes Joanna Stern.
 
-[2025-12-18 19:47:33](https://bsky.app/profile/wsj.com/post/3maays5gkh72z)
+[2025-12-18 20:06:51](https://bsky.app/profile/wsj.com/post/3maazuo3dua2t)
 
 ---
 
 @japan.reuters.com
 
-ドイツ連邦議会の予算委員会は１７日、今後数年間で５００億ユーロ（約５８６億ドル）を超える防衛契約を承認した。ドイツはロシアのウクライナ侵攻で軍事支出の拡大を迫られている。 bit.ly/4oWZy3Z
+中国商務省は１８日、レアアース（希土類）輸出の一般ライセンスを数件付与したと発表した。迅速な輸出を目指した新しい許可カテゴリーとなる。 bit.ly/3KOc1cp
 
-[2025-12-18 19:45:21](https://bsky.app/profile/japan.reuters.com/post/3maayo6xjpy2n)
+[2025-12-18 20:05:28](https://bsky.app/profile/japan.reuters.com/post/3maazs6uvp42v)
+
+---
+
+@reuters.com
+
+Standard General in talks to invest in Warner Bros Discovery networks, FT says reut.rs/3MNlLnJ
+
+[2025-12-18 20:05:22](https://bsky.app/profile/reuters.com/post/3maazryln7g2b)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Family release video of Matilda as aunt calls for 'happiness and love'
+
+[2025-12-18 20:03:38](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maazowqao326)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【Q＆A】東京電力HD 再建に向けたポイントは
+https://news.web.nhk/newsweb/na/na-k10015007731000
+
+[2025-12-18 20:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maaznwh3go2k)
 
 ---
 
 @nikkei.com
 
-【訪問お待ちしています】
-日本経済新聞社、ロブロックスに「支局」　仮想空間をアバターで取材
+AI広告炎上でも止められない　米コカ・コーラやGUESS、コスト削減優先
 www.nikkei.com/article/DGXZQO...
- 
-ロブロックスは世界最大級のゲームプラットフォーム。若者とともにエンタメから世界の課題まで幅広く考える場にします。
- 
-ロブロックスのアプリをダウンロード→検索窓に「ロブラボワールド」と入力→バーチャル空間に入ってください。空間内の一角に「NIKKEI」の建物があります。記者のアバターか、支局前にいる柴犬にチャットで話しかけてみてください！
 
-[2025-12-18 19:45:16](https://bsky.app/profile/nikkei.com/post/3maayo2775t2c)
+米コカ・コーラのAI広告には、消費者からシーンによってトラックのタイヤの数が違うなど間違いを指摘する声が上がりました。
 
----
+アメリカでの世論調査では18歳以上の成人のうち65%がブランドによるAI広告の利用が不快に感じると回答。
 
-@reuters.com
+しかし企業はリスクを認識しつつも楽観的なようです。
 
-Inquiry into deadly Optus emergency call outage found failures in firewall upgrade reut.rs/4oWZwZV
-
-[2025-12-18 19:45:15](https://bsky.app/profile/reuters.com/post/3maaynzdxyd2x)
-
----
-
-@nhknewsunofficial.bsky.social
-
-政府 内閣官房参与に細川昌彦氏を起用 経済安全保障担当など
-https://news.web.nhk/newsweb/na/na-k10015007371000
-
-[2025-12-18 19:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maaynqgrii2b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-日韓基本条約発効60年 高市首相 “両国の関係さらに深めたい”
-https://news.web.nhk/newsweb/na/na-k10015007721000
-
-[2025-12-18 19:42:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maayiemr7g26)
-
----
-
-@japan.reuters.com
-
-厳重に警備され深センの研究所で、中国の科学者たちが米政府が長年阻止しようとしてきたものを作り上げた。人工知能（ＡＩ）やスマートフォン、西側の軍事的優位性の中核となる兵器に不可欠な最先端の半導体チップを製造できる機械の試作機だ。 bit.ly/49j2tzi
-
-[2025-12-18 19:40:24](https://bsky.app/profile/japan.reuters.com/post/3maayfdqkxg2p)
+[2025-12-18 20:01:15](https://bsky.app/profile/nikkei.com/post/3maazknguam2m)
 
 ---
 
 @reuters.com
 
-Gold steady ahead of key US inflation data; silver near record highs reut.rs/4qjZHQg
+Lufthansa plays catch up with European rivals after bumpy ride reut.rs/4pLXehD
 
-[2025-12-18 19:40:17](https://bsky.app/profile/reuters.com/post/3maayf5kqjd24)
-
----
-
-@japan.reuters.com
-
-フィンランドのオルポ首相は１７日、連立与党議員が「つり目」写真を交流サイト（ＳＮＳ）に投稿し、アジア人に対する差別だと非難された問題を巡り「心からおわび申し上げます」と謝罪した。 bit.ly/459Hqgf
-
-[2025-12-18 19:35:29](https://bsky.app/profile/japan.reuters.com/post/3maay4kviho26)
+[2025-12-18 20:01:00](https://bsky.app/profile/reuters.com/post/3maazk6rdta2k)
 
 ---
 
-@reuters.com
+@bloomberg.com
 
-Boeing, union pause contract talks for former Spirit AeroSystems engineers reut.rs/4oWY7T9
+Fight over airspace security pits cash-strapped police departments against lawmakers vying to disrupt what they say is Beijing’s deep reach into the United States
 
-[2025-12-18 19:35:15](https://bsky.app/profile/reuters.com/post/3maay457ehb2r)
+[2025-12-18 20:00:34](https://bsky.app/profile/bloomberg.com/post/3maazjg4dxg2p)
 
 ---
 
