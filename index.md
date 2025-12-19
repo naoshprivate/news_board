@@ -1,9 +1,9 @@
-# [2025-12-19 22:10 updated](2025_12_19.md)
+# [2025-12-19 22:30 updated](2025_12_19.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】台湾で複数の切りつけ事件 発煙弾投げ込みも… これまでに2人死亡 犯人は別の事件で指名手配中の27歳男 警察官に取り囲まれ屋上から飛び降りる (2025-12-19 21:26:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3madr3yxmnw2x" target="_blank">sokuho.news</a> (2025-12-19 22:07:53)</span><span style="padding-right:50px;">中国国防省は１９日、米国による１１１億ドル規模の対台湾武器売却計画を受け、中国軍が訓練を強化し「国家の主権と領土の一体性を守るため強力な措置を講じる」との声明を発表した。 bit.ly/3KUkScA <a href="https://bsky.app/profile/japan.reuters.com/post/3madqxhybyf2q" target="_blank">japan.reuters.com</a> (2025-12-19 22:05:21)</span><span style="padding-right:50px;">China, US seek Thailand-Cambodia ceasefire ahead of ASEAN meeting reut.rs/4pSOo1I <a href="https://bsky.app/profile/reuters.com/post/3madqxda5w72y" target="_blank">reuters.com</a> (2025-12-19 22:05:16)</span><span style="padding-right:50px;">TikTok parent Bytedance has formalized agreements with investors to form a new U.S. joint venture, as it works to complete a deal to prevent the app from being banned in the U.S. over national security concerns. <a href="https://bsky.app/profile/wsj.com/post/3madqwumls62s" target="_blank">wsj.com</a> (2025-12-19 22:05:01)</span><span style="padding-right:50px;">It was a big night for Morocco fans after their team's win in the FIFA Arab Cup final in Qatar on Thursday. Al Jazeera’s Andrew Richardson spoke to some of them. <a href="https://bsky.app/profile/aljazeera.com/post/3madqq7gbks2i" target="_blank">aljazeera.com</a> (2025-12-19 22:01:18)</span>
+<span style="padding-right:50px;">H3ロケット8号機 22日に打ち上げ 打ち上げに支障なし https://news.web.nhk/newsweb/na/na-k10015008971000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mads6chzeo2d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 22:27:02)</span><span style="padding-right:50px;">日本の長期金利（新発１０年国債利回り）が１９日、１９９９年８月以来、２６年ぶりとなる２．０２０％をつけた。日銀が金融政策決定会合で政策金利の０．７５％への引き上げを決め、金利上昇に弾みがついた。追加利上げは市場の予想通りだったが、１９日午後の日本国債市場ではさらなる利上げ継続が意識されて売りが膨らんだ（金利は上昇）。市場では長期金利の２％は通過点に過ぎず、さらなる上昇を見込む向きが多い。 bit.ly/4s1dk8F <a href="https://bsky.app/profile/japan.reuters.com/post/3mads3cwom42c" target="_blank">japan.reuters.com</a> (2025-12-19 22:25:24)</span><span style="padding-right:50px;">Openers lead West Indies fightback after New Zealand declare on 575-8 reut.rs/4jbQ2ZO <a href="https://bsky.app/profile/reuters.com/post/3mads33qenk2b" target="_blank">reuters.com</a> (2025-12-19 22:25:16)</span><span style="padding-right:50px;">’Tis the season for home burglaries — a security expert shares his advice on how to keep it safe ft.trib.al/Uf0W6xJ <a href="https://bsky.app/profile/financialtimes.com/post/3mads2rrxlb2w" target="_blank">financialtimes.com</a> (2025-12-19 22:25:06)</span><span style="padding-right:50px;">Mathias Döpfner, CEO of Business Insider and Politico parent Axel Springer, is hunting for “new gold” in U.S. media holdings. It is proving harder than he expected. <a href="https://bsky.app/profile/wsj.com/post/3madrxx4cls2r" target="_blank">wsj.com</a> (2025-12-19 22:23:31)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.23 (🔺1.71 : 2025-12-19)</span>
+<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.26 (🔺1.73 : 2025-12-19)</span>
   </div>
 </div>
 
@@ -32,102 +32,95 @@
 
 ## News Headlines
 
-Here are six news headlines in English:
+Here are six important stories with headlines:
 
-1. Taiwan Relaxes Exporter Dollar Sales to Halt Currency Depreciation
-2. US and China Seek Ceasefire in Thailand-Cambodia Conflict Ahead of ASEAN Meeting
-3. TikTok Parent Company Forms US Joint Venture to Prevent App Ban
-4. Australia to Establish National Gun Buyback Program After Mass Shooting
-5. French Central Bank Sees Higher Growth Ahead if Political Uncertainty Eases
-6. Trump Administration Stops Special Visa Program for Immigrants
+1. H3ロケット8号機 22日に打ち上げ 打ち上げに支障なし
+2. Japan's Long-Term Interest Rate Hits 26-Year High
+3. New Zealand vs. West Indies: West Indies Fight Back After New Zealand Declare on 575-8
+4. China, US Seek Thailand-Cambodia Ceasefire Ahead of ASEAN Meeting
+5. Australia Plans National Gun Buyback Program After Mass Killing
+6. US to Stop Dreamers Program for Immigrants, Affecting Japanese Residents
 
 ----
 
-@sokuho.news
+@nhknewsunofficial.bsky.social
 
-🛎️JNNより【速報】です。
+H3ロケット8号機 22日に打ち上げ 打ち上げに支障なし
+https://news.web.nhk/newsweb/na/na-k10015008971000
 
-【速報】台湾で複数の切りつけ事件 発煙弾投げ込みも… これまでに2人死亡 犯人は別の事件で指名手配中の27歳男 警察官に取り囲まれ屋上から飛び降りる
-(2025-12-19 21:26:00) #ニュース
-
-[2025-12-19 22:07:53](https://bsky.app/profile/sokuho.news/post/3madr3yxmnw2x)
+[2025-12-19 22:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mads6chzeo2d)
 
 ---
 
 @japan.reuters.com
 
-中国国防省は１９日、米国による１１１億ドル規模の対台湾武器売却計画を受け、中国軍が訓練を強化し「国家の主権と領土の一体性を守るため強力な措置を講じる」との声明を発表した。 bit.ly/3KUkScA
+日本の長期金利（新発１０年国債利回り）が１９日、１９９９年８月以来、２６年ぶりとなる２．０２０％をつけた。日銀が金融政策決定会合で政策金利の０．７５％への引き上げを決め、金利上昇に弾みがついた。追加利上げは市場の予想通りだったが、１９日午後の日本国債市場ではさらなる利上げ継続が意識されて売りが膨らんだ（金利は上昇）。市場では長期金利の２％は通過点に過ぎず、さらなる上昇を見込む向きが多い。 bit.ly/4s1dk8F
 
-[2025-12-19 22:05:21](https://bsky.app/profile/japan.reuters.com/post/3madqxhybyf2q)
+[2025-12-19 22:25:24](https://bsky.app/profile/japan.reuters.com/post/3mads3cwom42c)
 
 ---
 
 @reuters.com
 
-China, US seek Thailand-Cambodia ceasefire ahead of ASEAN meeting reut.rs/4pSOo1I
+Openers lead West Indies fightback after New Zealand declare on 575-8 reut.rs/4jbQ2ZO
 
-[2025-12-19 22:05:16](https://bsky.app/profile/reuters.com/post/3madqxda5w72y)
+[2025-12-19 22:25:16](https://bsky.app/profile/reuters.com/post/3mads33qenk2b)
+
+---
+
+@financialtimes.com
+
+’Tis the season for home burglaries — a security expert shares his advice on how to keep it safe ft.trib.al/Uf0W6xJ
+
+[2025-12-19 22:25:06](https://bsky.app/profile/financialtimes.com/post/3mads2rrxlb2w)
 
 ---
 
 @wsj.com
 
-TikTok parent Bytedance has formalized agreements with investors to form a new U.S. joint venture, as it works to complete a deal to prevent the app from being banned in the U.S. over national security concerns.
+Mathias Döpfner, CEO of Business Insider and Politico parent Axel Springer, is hunting for “new gold” in U.S. media holdings. It is proving harder than he expected.
 
-[2025-12-19 22:05:01](https://bsky.app/profile/wsj.com/post/3madqwumls62s)
-
----
-
-@aljazeera.com
-
-It was a big night for Morocco fans after their team's win in the FIFA Arab Cup final in Qatar on Thursday. Al Jazeera’s Andrew Richardson spoke to some of them.
-
-[2025-12-19 22:01:18](https://bsky.app/profile/aljazeera.com/post/3madqq7gbks2i)
+[2025-12-19 22:23:31](https://bsky.app/profile/wsj.com/post/3madrxx4cls2r)
 
 ---
 
-@reuters.com
+@npr.org
 
-Taiwan relaxes exporter dollar sales to halt currency depreciation, traders say reut.rs/490SEVD
+This week, we've got annoying holiday movies, chatty White House insiders, and cheese. n.pr/49hPY7c
 
-[2025-12-19 22:01:06](https://bsky.app/profile/reuters.com/post/3madqpuqf4p2y)
+[2025-12-19 22:23:22](https://bsky.app/profile/npr.org/post/3madrxp2tjf2e)
 
 ---
 
 @cnbc.com
 
-In January, Tim Riegel realized his side hustle profit margins were shrinking, due to rising costs of goods. So, he raised his prices and started earning more money.
+Stay away from Lyft as autonomous vehicles disrupt ridesharing market, says Wedbush
 
-[2025-12-19 22:01:00](https://bsky.app/profile/cnbc.com/post/3madqpoiwco2m)
-
----
-
-@usatoday.com
-
-The first "Avengers: Doomsday" trailer has arrived, revealing one of Marvel's most beloved heroes will make a surprise return.
-
-[2025-12-19 22:00:54](https://bsky.app/profile/usatoday.com/post/3madqpilm2g2z)
+[2025-12-19 22:22:45](https://bsky.app/profile/cnbc.com/post/3madrwlly4j2e)
 
 ---
 
-@nikkei.com
+@japan.reuters.com
 
-米、永住権の特別制度を停止　日本人に影響も（無料記事）
-www.nikkei.com/article/DGXZQO...
+夕方の取引でドルが一時１５７．０２円まで上昇し、１１月２４日以来、約１カ月ぶり高値を更新した。市場では、今年１月高値の１５８円後半が当面の上値めどとする声が上がっている。 bit.ly/493spxR
 
-AP通信によると、トランプ政権は移民に抽選で永住権を与える特別なビザ制度を停止しました。
-
-遺体で見つかったブラウン大銃撃事件の容疑者が制度を利用して入国し永住権を取得していたとし、安全確保を理由に挙げました。
-
-[2025-12-19 22:00:53](https://bsky.app/profile/nikkei.com/post/3madqpi23ep2x)
+[2025-12-19 22:20:28](https://bsky.app/profile/japan.reuters.com/post/3madrsibsae2c)
 
 ---
 
-@apnews.com
+@cbsnews.com
 
-Miami and Texas A&M are both in the College Football Playoff for the first time where the Hurricanes are contending for their sixth national championship and first since 2001.
+Officials say the same gunman who opened fire at Brown University also killed an MIT professor two days later. Here's what we know about the suspect, who was found dead Thursday night. 
 
-[2025-12-19 22:00:50](https://bsky.app/profile/apnews.com/post/3madqperueh2d)
+[2025-12-19 22:20:01](https://bsky.app/profile/cbsnews.com/post/3madrroy5ms2l)
+
+---
+
+@reuters.com
+
+An beats Yamaguchi to top group at World Tour Finals reut.rs/4p45Lv5
+
+[2025-12-19 22:15:18](https://bsky.app/profile/reuters.com/post/3madrjbgask2o)
 
 ---
 
