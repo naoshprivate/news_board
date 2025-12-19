@@ -1,9 +1,9 @@
-# [2025-12-19 19:30 updated](2025_12_19.md)
+# [2025-12-19 19:50 updated](2025_12_19.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">高校授業料と給食費の無償化 国と地方が円滑な実施に向け連携 https://news.web.nhk/newsweb/na/na-k10015008661000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madi4hktdn2l" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 19:27:03)</span><span style="padding-right:50px;">US Homeland Security orders pause of DV1 visa program reut.rs/4s6N10A <a href="https://bsky.app/profile/reuters.com/post/3madhz2ybgf2y" target="_blank">reuters.com</a> (2025-12-19 19:25:11)</span><span style="padding-right:50px;">China blamed for UK government cyber attack ft.trib.al/HdbhTS2 <a href="https://bsky.app/profile/financialtimes.com/post/3madhyrd6ap2q" target="_blank">financialtimes.com</a> (2025-12-19 19:25:01)</span><span style="padding-right:50px;">危うい米国の対ベネズエラ圧力（無料記事） www.nikkei.com/article/DGXZQO...  米政権は麻薬カルテルと「戦争状態」にあるとみなして攻撃を正当化するが、法的根拠を明確にしなければならない。合法性を疑う声は米国内にもある――。  米政権がマドゥロ政権への威嚇を続けています。ベネズエラ情勢を巡る社説です。 <a href="https://bsky.app/profile/nikkei.com/post/3madhuxs6bu2m" target="_blank">nikkei.com</a> (2025-12-19 19:22:54)</span><span style="padding-right:50px;"> Management consultants’ new gravy train: buying other companies ft.trib.al/l3BZC4L  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3madhuke27g2f" target="_blank">financialtimes.com</a> (2025-12-19 19:22:39)</span>
+<span style="padding-right:50px;">中国南部とベトナムの首都を結ぶ新鉄道の起工式 貿易拡大へ https://news.web.nhk/newsweb/na/na-k10015008751000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madjc66dtb2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 19:48:08)</span><span style="padding-right:50px;">日銀 利上げ決定 私たちの暮らしに影響は？ https://news.web.nhk/newsweb/na/na-k10015008421000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madjbz27ik2x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 19:48:02)</span><span style="padding-right:50px;">Rhode Island Attorney General Peter Neronha recaps how law enforcement identified and found the suspect in the Brown University shooting. The suspect was found dead in a storage facility in New Hampshire, officials say. <a href="https://bsky.app/profile/nbcnews.com/post/3madj67gqb62k" target="_blank">nbcnews.com</a> (2025-12-19 19:45:57)</span><span style="padding-right:50px;">日銀は１８、１９日に開いた金融政策決定会合で、政策金利である無担保コール翌日物金利の誘導目標を０．７５％に引き上げることを全員一致で決めた。これを受け、円債市場では、新発１０年国債利回り（長期金利）は２．０２０％と、１９９９年８月以来の高水準を付けた。 bit.ly/48JPZAK <a href="https://bsky.app/profile/japan.reuters.com/post/3madj55brxp27" target="_blank">japan.reuters.com</a> (2025-12-19 19:45:22)</span><span style="padding-right:50px;">India's Adani seeks to operate more airports as part of $11 billion expansion reut.rs/4j66p9V <a href="https://bsky.app/profile/reuters.com/post/3madj4xjz332p" target="_blank">reuters.com</a> (2025-12-19 19:45:15)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.27 (🔺1.74 : 2025-12-19)</span>
+<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.37 (🔺1.84 : 2025-12-19)</span>
   </div>
 </div>
 
@@ -32,102 +32,97 @@
 
 ## News Headlines
 
-Here are six news headlines in English:
+Here are six headlines in English:
 
-1. Japan and local governments collaborate for smooth implementation of free education and meal fees 
-2. US Suspends DV1 Visa Program Amid Security Concerns
-3. China blamed for UK government cyber attack
-4. BMW Recalls 36,922 Vehicles in the US
-5. Denmark's Maersk Ship Successfully Navigates Red Sea and Bab-el-Mandeb Strait After 2 Years
-6. US to Host Ceasefire Talks with Qatari, Turkish, and Egyptian Officials Over Gaza Conflict
+1. Japan Central Bank Raises Interest Rate to 0.75%
+2. Japan's MUFG to Buy 20% Stake in India's Shriram Finance for $4.4 Billion
+3. US Homeland Security Orders Pause of DV1 Visa Program
+4. BMW to Recall 36,922 Vehicles in US
+5. UK Competition Watchdog to Probe AB Foods' Hovis Purchase
+6. China Blamed for UK Government Cyber Attack
 
 ----
 
 @nhknewsunofficial.bsky.social
 
-高校授業料と給食費の無償化 国と地方が円滑な実施に向け連携
-https://news.web.nhk/newsweb/na/na-k10015008661000
+中国南部とベトナムの首都を結ぶ新鉄道の起工式 貿易拡大へ
+https://news.web.nhk/newsweb/na/na-k10015008751000
 
-[2025-12-19 19:27:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madi4hktdn2l)
-
----
-
-@reuters.com
-
-US Homeland Security orders pause of DV1 visa program reut.rs/4s6N10A
-
-[2025-12-19 19:25:11](https://bsky.app/profile/reuters.com/post/3madhz2ybgf2y)
-
----
-
-@financialtimes.com
-
-China blamed for UK government cyber attack ft.trib.al/HdbhTS2
-
-[2025-12-19 19:25:01](https://bsky.app/profile/financialtimes.com/post/3madhyrd6ap2q)
-
----
-
-@nikkei.com
-
-危うい米国の対ベネズエラ圧力（無料記事）
-www.nikkei.com/article/DGXZQO...
-
-米政権は麻薬カルテルと「戦争状態」にあるとみなして攻撃を正当化するが、法的根拠を明確にしなければならない。合法性を疑う声は米国内にもある――。
-
-米政権がマドゥロ政権への威嚇を続けています。ベネズエラ情勢を巡る社説です。
-
-[2025-12-19 19:22:54](https://bsky.app/profile/nikkei.com/post/3madhuxs6bu2m)
-
----
-
-@financialtimes.com
-
- Management consultants’ new gravy train: buying other companies ft.trib.al/l3BZC4L  | opinion
-
-[2025-12-19 19:22:39](https://bsky.app/profile/financialtimes.com/post/3madhuke27g2f)
-
----
-
-@reuters.com
-
-BMW to recall 36,922 vehicles in US, NHTSA says reut.rs/454n08o
-
-[2025-12-19 19:15:24](https://bsky.app/profile/reuters.com/post/3madhhknb5k2y)
+[2025-12-19 19:48:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madjc66dtb2m)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-東京女子医大病院 男児死亡裁判 審理終了 弁護側は無罪を主張
-https://news.web.nhk/newsweb/na/na-k10015008731000
+日銀 利上げ決定 私たちの暮らしに影響は？
+https://news.web.nhk/newsweb/na/na-k10015008421000
 
-[2025-12-19 19:15:06](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madhh3v3he26)
-
----
-
-@nhknewsunofficial.bsky.social
-
-JR東海とコンサル5社に排除措置命令 陸橋点検業務で談合か
-https://news.web.nhk/newsweb/na/na-k10015008621000
-
-[2025-12-19 19:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madhgxpn4e2b)
+[2025-12-19 19:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madjbz27ik2x)
 
 ---
 
-@wsj.com
+@nbcnews.com
 
-Millions of Americans face higher health-insurance premiums and more uncertainty, with Congress set to break for the rest of the year.
+Rhode Island Attorney General Peter Neronha recaps how law enforcement identified and found the suspect in the Brown University shooting. The suspect was found dead in a storage facility in New Hampshire, officials say.
 
-[2025-12-19 19:13:27](https://bsky.app/profile/wsj.com/post/3madhe3w2we2q)
+[2025-12-19 19:45:57](https://bsky.app/profile/nbcnews.com/post/3madj67gqb62k)
 
 ---
 
 @japan.reuters.com
 
-デンマーク海運大手マースクは１９日、同社の船舶１隻が約２年ぶりに紅海とバブ・エル・マンデブ海峡の航行に成功したと発表した。 bit.ly/4s4yH8X
+日銀は１８、１９日に開いた金融政策決定会合で、政策金利である無担保コール翌日物金利の誘導目標を０．７５％に引き上げることを全員一致で決めた。これを受け、円債市場では、新発１０年国債利回り（長期金利）は２．０２０％と、１９９９年８月以来の高水準を付けた。 bit.ly/48JPZAK
 
-[2025-12-19 19:13:27](https://bsky.app/profile/japan.reuters.com/post/3madhe3mtpt2v)
+[2025-12-19 19:45:22](https://bsky.app/profile/japan.reuters.com/post/3madj55brxp27)
+
+---
+
+@reuters.com
+
+India's Adani seeks to operate more airports as part of $11 billion expansion reut.rs/4j66p9V
+
+[2025-12-19 19:45:15](https://bsky.app/profile/reuters.com/post/3madj4xjz332p)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+クリスマスケーキも値上げ 続く物価の上昇で各地の消費は
+https://news.web.nhk/newsweb/na/na-k10015008381000
+
+[2025-12-19 19:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madj4mffv52d)
+
+---
+
+@japan.reuters.com
+
+フランス上下両院の議員で構成される合同委員会のメンバーは１９日、２０２６年予算を巡る妥協案を取りまとめることができなかった。ルコルニュ首相は適切な予算が合意できるまで新年の歳出、徴税、借り入れを認める緊急立法を求めざるを得なくなりそうだ。 bit.ly/491JcB4
+
+[2025-12-19 19:44:48](https://bsky.app/profile/japan.reuters.com/post/3madj457utc22)
+
+---
+
+@wsj.com
+
+The so-called Epstein Files have been a topic of fascination for years, and the Justice Department is preparing to release more records. Here’s a guide to what is public so far.
+
+[2025-12-19 19:43:21](https://bsky.app/profile/wsj.com/post/3madizkyx6z2e)
+
+---
+
+@cnbc.com
+
+Treasury yields inch higher as investors digest cooler inflation data
+
+[2025-12-19 19:42:13](https://bsky.app/profile/cnbc.com/post/3madixjcuqh24)
+
+---
+
+@reuters.com
+
+Japan's MUFG to buy 20% stake in India's Shriram Finance for $4.4 billion reut.rs/4aoHJr9
+
+[2025-12-19 19:40:19](https://bsky.app/profile/reuters.com/post/3madiu55lzs2p)
 
 ---
 
