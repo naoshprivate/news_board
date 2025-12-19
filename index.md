@@ -1,9 +1,9 @@
-# [2025-12-19 13:10 updated](2025_12_19.md)
+# [2025-12-19 13:30 updated](2025_12_19.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">BREAKING: The Brown University gunman also killed an MIT professor on Monday, officials say. <a href="https://bsky.app/profile/cbsnews.com/post/3macsxu2iv22l" target="_blank">cbsnews.com</a> (2025-12-19 13:08:42)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:石川県能登地方, 深さ:10km マグニチュード:3.2, 最大震度:1 📍https://www.google.com/maps?q=37.2,136.7&ll=37.2,136.7&z=7&t=h 地震発生日時:2025-12-19 13:04頃 (10倍速▶120s→12s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3macsvheqb72y" target="_blank">sokuho.news</a> (2025-12-19 13:07:21)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  13時4分頃、石川県で最大震度1の地震を観測しました。 震源:石川県能登地方, 深さ:10km, 規模:M3.2 この地震による津波の心配はありません。 (2025-12-19 13:06:51) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/19/2025-12-19-13-04-12.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3macsumbwpj27" target="_blank">sokuho.news</a> (2025-12-19 13:06:52)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】債券市場で長期金利上昇一時2%台に 19年半ぶり高水準 日銀の利上げ決定受け (2025年12月19日 13:02) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3macsrpi7gw2b" target="_blank">sokuho.news</a> (2025-12-19 13:05:16)</span><span style="padding-right:50px;">🚨地震発生中❗❗  ⚠️揺れに警戒してください  🔶防災科研/強震モニタ/予測震度画像3🈡 (2025-12-19 13:04:53) #緊急地震速報 <a href="https://bsky.app/profile/sokuho.news/post/3macsrlvq5x2a" target="_blank">sokuho.news</a> (2025-12-19 13:05:12)</span>
+<span style="padding-right:50px;">インド株式市場の株価は反発。アジア株の上昇に追随している。米消費者物価指数（ＣＰＩ）伸び率が予想を下回り、来年の追加利下げ観測が強まった後を受けた。 bit.ly/48NzBzf <a href="https://bsky.app/profile/japan.reuters.com/post/3mactzd2xse2c" target="_blank">japan.reuters.com</a> (2025-12-19 13:27:25)</span><span style="padding-right:50px;">トランプ米政権は、米半導体大手エヌビディアの２番目に先進的な人工知能（ＡＩ）向け半導体の中国への初出荷につながる可能性のある調査を開始したと、５人の関係者が明らかにした。物議を醸している販売許可方針を実行に移した形だ。 bit.ly/3YyOcIH <a href="https://bsky.app/profile/japan.reuters.com/post/3macttyijhy2q" target="_blank">japan.reuters.com</a> (2025-12-19 13:24:26)</span><span style="padding-right:50px;">米 富豪エプスタイン氏めぐる捜査資料 公開期限 19日に迫る https://news.web.nhk/newsweb/na/na-k10015008321000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mactteg4sw2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 13:24:03)</span><span style="padding-right:50px;">Officials say the suspected Brown University shooter was also responsible for the killing of an MIT professor at his Massachusetts home this week. Follow live updates: https://cnn.it/4s2xLSq <a href="https://bsky.app/profile/cnn.com/post/3mactqftl3z2v" target="_blank">cnn.com</a> (2025-12-19 13:22:26)</span><span style="padding-right:50px;">EU leaders to loan €90bn to Ukraine - but fail to agree on using Russian assets  <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mactqcxreh26" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-19 13:22:22)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49666.24 (🔺278.53 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3419.00 (🔺30.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 155.84 (🔺0.31 : 2025-12-19)</span>
+<span style="padding-right:50px;">NIKKEI: 49641.17 (🔺253.46 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3422.00 (🔺33.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 156.00 (🔺0.47 : 2025-12-19)</span>
   </div>
 </div>
 
@@ -32,129 +32,98 @@
 
 ## News Headlines
 
-Here are six news headlines:
+Here are six news headlines in English:
 
-1. Brown University Gunman Also Killed MIT Professor, Officials Say
-2. Japan Raises Interest Rates to 30-Year High Amid Persistent Inflation and Weak Currency
-3. Long-Term Bond Yields Surge to 2% Amid BoJ Rate Hike
-4. Australia PM Launches Gun 'Buyback' Plan After Bondi Beach Attack
-5. Prosecutor's Office Files Complaint Against Virginia Sheriff for Using Office to Fuel Re-election Bid
-6. Harrison Ford to Receive Lifetime Achievement Award from SAG-AFTRA
+1. Asian Stocks Rally as US Consumer Price Index Growth Falls Short of Expectations
+2. Trump Administration Probes Nvidia's Advanced AI Chip Sales to China
+3. Person of Interest in Brown University Shooting Found Dead in New Hampshire Storage Facility
+4. EU Leaders Loan €90 Billion to Ukraine, But Fail to Agree on Using Russian Assets
+5. Japan Raises Interest Rates to 30-Year High Amid Persistent Inflation and Weak Currency
+6. McDonald's CEO Chris Kempczinski Shares Career Advice: 'You Need Thick Skin'
 
 ----
 
-@cbsnews.com
+@japan.reuters.com
 
-<strong><span style="color: red;">BREAKING:</span> The Brown University gunman also killed an MIT professor on Monday, officials say.</strong>
+インド株式市場の株価は反発。アジア株の上昇に追随している。米消費者物価指数（ＣＰＩ）伸び率が予想を下回り、来年の追加利下げ観測が強まった後を受けた。 bit.ly/48NzBzf
 
-[2025-12-19 13:08:42](https://bsky.app/profile/cbsnews.com/post/3macsxu2iv22l)
-
----
-
-@sokuho.news
-
-🔔防災科研より【強震モニタ】動画です。
-
-震源:石川県能登地方, 深さ:10km
-マグニチュード:3.2, 最大震度:1
-📍https://www.google.com/maps?q=37.2,136.7&ll=37.2,136.7&z=7&t=h
-地震発生日時:2025-12-19 13:04頃
-(10倍速▶120s→12s) #地震
-
-[2025-12-19 13:07:21](https://bsky.app/profile/sokuho.news/post/3macsvheqb72y)
-
----
-
-@sokuho.news
-
-🔔気象庁より【地震速報】です。
-
-13時4分頃、石川県で最大震度1の地震を観測しました。
-震源:石川県能登地方, 深さ:10km, 規模:M3.2
-この地震による津波の心配はありません。
-(2025-12-19 13:06:51) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/19/2025-12-19-13-04-12.html?xlarge_image=1
-
-[2025-12-19 13:06:52](https://bsky.app/profile/sokuho.news/post/3macsumbwpj27)
-
----
-
-@sokuho.news
-
-🔔ANNより【速報】です。
-
-【速報】債券市場で長期金利上昇一時2%台に 19年半ぶり高水準 日銀の利上げ決定受け
-(2025年12月19日 13:02) #ニュース
-
-[2025-12-19 13:05:16](https://bsky.app/profile/sokuho.news/post/3macsrpi7gw2b)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗
-
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像3🈡
-(2025-12-19 13:04:53) #緊急地震速報
-
-[2025-12-19 13:05:12](https://bsky.app/profile/sokuho.news/post/3macsrlvq5x2a)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗
-
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像2
-(2025-12-19 13:04:42) #緊急地震速報
-
-[2025-12-19 13:04:49](https://bsky.app/profile/sokuho.news/post/3macsqw6g2v25)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗
-
-⚠️揺れに警戒してください
-🔗http://www.kmoni.bosai.go.jp/
-
-🔶防災科研/強震モニタ/予測震度画像1
-(2025-12-19 13:04:24) #緊急地震速報
-
-[2025-12-19 13:04:30](https://bsky.app/profile/sokuho.news/post/3macsqefnri2s)
+[2025-12-19 13:27:25](https://bsky.app/profile/japan.reuters.com/post/3mactzd2xse2c)
 
 ---
 
 @japan.reuters.com
 
-＜１２：５０＞　後場の日経平均は一時７００円超高、市場は植田日銀総裁の会見に注目 bit.ly/44BeDRC
+トランプ米政権は、米半導体大手エヌビディアの２番目に先進的な人工知能（ＡＩ）向け半導体の中国への初出荷につながる可能性のある調査を開始したと、５人の関係者が明らかにした。物議を醸している販売許可方針を実行に移した形だ。 bit.ly/3YyOcIH
 
-[2025-12-19 13:03:06](https://bsky.app/profile/japan.reuters.com/post/3macsntub2m27)
+[2025-12-19 13:24:26](https://bsky.app/profile/japan.reuters.com/post/3macttyijhy2q)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-【会見予定 15時半】日銀 植田総裁 利上げ決定を受け
-https://news.web.nhk/newsweb/na/na-k10015008201000
+米 富豪エプスタイン氏めぐる捜査資料 公開期限 19日に迫る
+https://news.web.nhk/newsweb/na/na-k10015008321000
 
-[2025-12-19 13:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3macsnswlqd2v)
+[2025-12-19 13:24:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mactteg4sw2b)
 
 ---
 
-@sokuho.news
+@cnn.com
 
-🛎️NNNより【速報】です。
+Officials say the suspected Brown University shooter was also responsible for the killing of an MIT professor at his Massachusetts home this week. Follow live updates: https://cnn.it/4s2xLSq
 
-【速報】浜田市の浜田道路で普通乗用車とトラックが追突する事故 島根県
-(2025-12-19 13:02) #ニュース
+[2025-12-19 13:22:26](https://bsky.app/profile/cnn.com/post/3mactqftl3z2v)
 
-[2025-12-19 13:02:50](https://bsky.app/profile/sokuho.news/post/3macsnepwbt25)
+---
+
+@bbcnews-world-rss.bsky.social
+
+EU leaders to loan €90bn to Ukraine - but fail to agree on using Russian assets 
+
+[2025-12-19 13:22:22](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mactqcxreh26)
+
+---
+
+@japan.reuters.com
+
+＜１２：５７＞　長期金利が2％に上昇、19年半ぶり高水準　国債先物は下げ幅拡大 bit.ly/3KZwScO
+
+[2025-12-19 13:21:00](https://bsky.app/profile/japan.reuters.com/post/3mactnttx6a2q)
+
+---
+
+@reuters.com
+
+Irish central bank raises growth forecasts, says economy resisting US headwinds reut.rs/48M9cll
+
+[2025-12-19 13:20:20](https://bsky.app/profile/reuters.com/post/3mactmnjgwy2i)
+
+---
+
+@nytimes.com
+
+In @nytopinion.nytimes.com 
+
+“The mind-set shift needed here is to acknowledge that while climate change is real and harmful, the utility of fossil fuels is not something the oil and gas industry tricked the public into,” Matthew Yglesias writes.
+
+[2025-12-19 13:20:07](https://bsky.app/profile/nytimes.com/post/3mactmbjtfv2r)
+
+---
+
+@nbcnews.com
+
+<strong><span style="color: red;">BREAKING:</span> Person of interest in Brown University shooting is found dead of a self-inflicted gunshot wound in a New Hampshire storage facility, officials say.</strong>
+
+[2025-12-19 13:19:29](https://bsky.app/profile/nbcnews.com/post/3mactl5ho4q2u)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+東京 江東区の住宅で火事 住人の86歳男性が死亡
+https://news.web.nhk/newsweb/na/na-k10015008151000
+
+[2025-12-19 13:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mactimiyzq2y)
 
 ---
 
