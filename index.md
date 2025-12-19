@@ -1,9 +1,9 @@
-# [2025-12-19 14:30 updated](2025_12_19.md)
+# [2025-12-19 14:50 updated](2025_12_19.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">＜１４：０４＞　ドル156円前半で値動き落ち着く、日銀会合直後は上下60銭の変動 bit.ly/4apcSe0 <a href="https://bsky.app/profile/japan.reuters.com/post/3macxdzqtgt22" target="_blank">japan.reuters.com</a> (2025-12-19 14:27:05)</span><span style="padding-right:50px;">法相 “保護司制度盛り込んだ再犯防止指針 国連総会で採択” https://news.web.nhk/newsweb/na/na-k10015008401000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3macx6nz7ab2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 14:24:03)</span><span style="padding-right:50px;">Bumper Christmas for air travel as 300mn take to the skies ft.trib.al/YUcdlFz <a href="https://bsky.app/profile/financialtimes.com/post/3macx54dolw2f" target="_blank">financialtimes.com</a> (2025-12-19 14:23:13)</span><span style="padding-right:50px;">上海外国為替市場の人民元相場は、横ばい。ドルが１１月の米消費者物価指数（ＣＰＩ）に反応薄だったことが背景となっている。ただ、週間では４週連続の上昇となる見込み。 bit.ly/4qlwg0f <a href="https://bsky.app/profile/japan.reuters.com/post/3macwyrcpii2q" target="_blank">japan.reuters.com</a> (2025-12-19 14:20:47)</span><span style="padding-right:50px;">Yen dips after BOJ raises rates in widely anticipated move reut.rs/4oYWfJP <a href="https://bsky.app/profile/reuters.com/post/3macwxvdkgo2x" target="_blank">reuters.com</a> (2025-12-19 14:20:18)</span>
+<span style="padding-right:50px;">Aside from Larry Ellison’s database company, private equity group Silver Lake and Abu Dhabi’s MGX will also be part of the deal orchestrated by US President Donald Trump. ft.trib.al/wXk8JWQ <a href="https://bsky.app/profile/financialtimes.com/post/3macyeyxut32v" target="_blank">financialtimes.com</a> (2025-12-19 14:45:32)</span><span style="padding-right:50px;">Secretary of Homeland Security Kristi Noem announced late Thursday the Trump administration will pause the diversity visa lottery program, which she said was used eight years ago by the now-deceased man accused of killing two Brown University students and an MIT professor. <a href="https://bsky.app/profile/cbsnews.com/post/3macydmdai42i" target="_blank">cbsnews.com</a> (2025-12-19 14:44:45)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】クマ緊急銃猟へ 勝山市荒土町布市区の民家敷地内の小屋に成獣1頭 福井県内で3例目 (2025-12-19 14:35) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3macy4odjek2s" target="_blank">sokuho.news</a> (2025-12-19 14:40:52)</span><span style="padding-right:50px;">Women's sport thrives in 2025 with unprecedented growth, famous victories reut.rs/4qfTBQL <a href="https://bsky.app/profile/reuters.com/post/3macy3sf54r2p" target="_blank">reuters.com</a> (2025-12-19 14:40:23)</span><span style="padding-right:50px;">In @nytopinion  “In the face of great evil, great good arose,” our columnist David French writes. “Ahmed el Ahmed, Boris and Sofia Gurman and Jessica Rozen — remember their names. Remember their deeds.” <a href="https://bsky.app/profile/nytimes.com/post/3macy3ftxzb2y" target="_blank">nytimes.com</a> (2025-12-19 14:40:10)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49543.52 (🔺155.81 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3419.00 (🔺30.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 155.92 (🔺0.39 : 2025-12-19)</span>
+<span style="padding-right:50px;">NIKKEI: 49625.69 (🔺237.98 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3425.00 (🔺36.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 155.92 (🔺0.39 : 2025-12-19)</span>
   </div>
 </div>
 
@@ -32,103 +32,99 @@
 
 ## News Headlines
 
-1. Japan's Yen Dips After BOJ Raises Rates in Widely Anticipated Move
-2. Christmas Travel Season Sees Record 300 Million People Take to the Skies
-3. Japan's Long-Term Bond Yields Rise to 2% or Higher Amid BOJ Rate Hike
-4. India's ICICI Prudential AMC Sees Shares Jump 20% in Market Debut
-5. Rob Reiner's Impact on Hollywood: A Look Back at His Beloved Films
-6. Toyota Ships Three US-Produced Models to Japan, Boosting US Ties
+Here are six important stories with headlines in English:
+
+1. Trump Administration Suspends Green Card Lottery Program Amid Shooting Investigation
+2. Japan's Cabinet Reaffirms No-Nuclear Weapons Pledge Amid Senior Official's Suggestion
+3. Bitcoin Price Volatility Persists Amid Market Uncertainty
+4. Australian Surfer Commended for Saving Lives in Bondi Beach Shooting
+5. US Dollar Rises as Yen Dips After BOJ Raises Interest Rates
+6. Global Air Travel Sees Record-Breaking Numbers Ahead of Christmas
 
 ----
 
-@japan.reuters.com
-
-＜１４：０４＞　ドル156円前半で値動き落ち着く、日銀会合直後は上下60銭の変動 bit.ly/4apcSe0
-
-[2025-12-19 14:27:05](https://bsky.app/profile/japan.reuters.com/post/3macxdzqtgt22)
-
----
-
-@nhknewsunofficial.bsky.social
-
-法相 “保護司制度盛り込んだ再犯防止指針 国連総会で採択”
-https://news.web.nhk/newsweb/na/na-k10015008401000
-
-[2025-12-19 14:24:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3macx6nz7ab2b)
-
----
-
 @financialtimes.com
 
-Bumper Christmas for air travel as 300mn take to the skies ft.trib.al/YUcdlFz
+Aside from Larry Ellison’s database company, private equity group Silver Lake and Abu Dhabi’s MGX will also be part of the deal orchestrated by US President Donald Trump. ft.trib.al/wXk8JWQ
 
-[2025-12-19 14:23:13](https://bsky.app/profile/financialtimes.com/post/3macx54dolw2f)
+[2025-12-19 14:45:32](https://bsky.app/profile/financialtimes.com/post/3macyeyxut32v)
 
 ---
 
-@japan.reuters.com
+@cbsnews.com
 
-上海外国為替市場の人民元相場は、横ばい。ドルが１１月の米消費者物価指数（ＣＰＩ）に反応薄だったことが背景となっている。ただ、週間では４週連続の上昇となる見込み。 bit.ly/4qlwg0f
+Secretary of Homeland Security Kristi Noem announced late Thursday the Trump administration will pause the diversity visa lottery program, which she said was used eight years ago by the now-deceased man accused of killing two Brown University students and an MIT professor.
 
-[2025-12-19 14:20:47](https://bsky.app/profile/japan.reuters.com/post/3macwyrcpii2q)
+[2025-12-19 14:44:45](https://bsky.app/profile/cbsnews.com/post/3macydmdai42i)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】クマ緊急銃猟へ 勝山市荒土町布市区の民家敷地内の小屋に成獣1頭 福井県内で3例目
+(2025-12-19 14:35) #ニュース
+
+[2025-12-19 14:40:52](https://bsky.app/profile/sokuho.news/post/3macy4odjek2s)
 
 ---
 
 @reuters.com
 
-Yen dips after BOJ raises rates in widely anticipated move reut.rs/4oYWfJP
+Women's sport thrives in 2025 with unprecedented growth, famous victories reut.rs/4qfTBQL
 
-[2025-12-19 14:20:18](https://bsky.app/profile/reuters.com/post/3macwxvdkgo2x)
+[2025-12-19 14:40:23](https://bsky.app/profile/reuters.com/post/3macy3sf54r2p)
 
 ---
 
 @nytimes.com
 
-If you’re worried about unnoticed catastrophic leaks — if you travel often for work, for example, or have a weekend or rental property that you can’t keep daily tabs on — this nifty device is a great way to gain peace of mind.
+In @nytopinion
 
-[2025-12-19 14:20:05](https://bsky.app/profile/nytimes.com/post/3macwxim3dn25)
+“In the face of great evil, great good arose,” our columnist David French writes. “Ahmed el Ahmed, Boris and Sofia Gurman and Jessica Rozen — remember their names. Remember their deeds.”
 
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】勝山市荒土町布市の住宅敷地にある小屋にクマが潜伏中
-(2025-12-19 14:05) #ニュース
-
-[2025-12-19 14:17:44](https://bsky.app/profile/sokuho.news/post/3macwtc33ut27)
+[2025-12-19 14:40:10](https://bsky.app/profile/nytimes.com/post/3macy3ftxzb2y)
 
 ---
 
-@sokuho.news
+@financialtimes.com
 
-🛎️JNNより【速報】です。
+ Time to find sustenance in a renewed flowering of botanical art ft.trib.al/7uCMXz9  | opinion
 
-【速報】インフルエンザ感染者数が3週連続減少 全国平均で「36.96人」 厚生労働省
-(2025-12-19 14:13:21) #ニュース
-
-😷感染症情報
-🔗https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/infulenza/index.html
-
-[2025-12-19 14:16:14](https://bsky.app/profile/sokuho.news/post/3macwqmjuuc2r)
+[2025-12-19 14:40:06](https://bsky.app/profile/financialtimes.com/post/3macy3cmsel2y)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@financialtimes.com
 
-債券市場で長期金利2％超に上昇 日銀の利上げ受け 約26年ぶり
-https://news.web.nhk/newsweb/na/na-k10015007161000
+ Behemoth bills are causing hold-ups in the Lords ft.trib.al/zD5fNQT  | opinion
 
-[2025-12-19 14:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3macwok2vx52y)
+[2025-12-19 14:40:06](https://bsky.app/profile/financialtimes.com/post/3macy3c2nvt2k)
+
+---
+
+@financialtimes.com
+
+ America Inc’s new boardroom trend: the chief exiting officer ft.trib.al/nEzxE3l  | opinion
+
+[2025-12-19 14:40:06](https://bsky.app/profile/financialtimes.com/post/3macy3c2iws2v)
+
+---
+
+@financialtimes.com
+
+ Prediction markets and the casino mentality of 2025 ft.trib.al/g3qUJN9  | opinion
+
+[2025-12-19 14:40:05](https://bsky.app/profile/financialtimes.com/post/3macy3bly6l2k)
 
 ---
 
 @japan.reuters.com
 
-共同石油統計イニシアチブ（ＪＯＤＩ）が１８日公表した統計によると、１０月のサウジアラビアの原油輸出が２０２３年４月以来の高水準に達した。 bit.ly/4pOJxyu
+バングラデシュのハシナ政権を打倒した学生主導の抗議デモに関わった若者のリーダー、シャリフ・オスマン・ハディ氏（３２）が１８日遅くに亡くなったのを受け、いくつかの都市で暴動が発生した。同氏が立候補していた来年２月の総選挙を控え、混乱拡大が懸念される。 bit.ly/3MQuk16
 
-[2025-12-19 14:14:44](https://bsky.app/profile/japan.reuters.com/post/3macwnx7obl22)
+[2025-12-19 14:38:54](https://bsky.app/profile/japan.reuters.com/post/3macxz5bg4x2c)
 
 ---
 
