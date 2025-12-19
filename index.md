@@ -1,9 +1,9 @@
-# [2025-12-19 18:50 updated](2025_12_19.md)
+# [2025-12-19 19:10 updated](2025_12_19.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】「市電と車の事故」助手席側のドア大きくへこむ 札幌市電は一時運転見合わせ 札幌市 (2025-12-19 18:47) #ニュース  🚃鉄道運行情報 🔗https://transit.yahoo.co.jp/diainfo <a href="https://bsky.app/profile/sokuho.news/post/3madfwfcjof2v" target="_blank">sokuho.news</a> (2025-12-19 18:47:54)</span><span style="padding-right:50px;">Unpopular Labour is running out of opportunities to change its fate ft.trib.al/erroUU6 <a href="https://bsky.app/profile/financialtimes.com/post/3madfuruhwy2w" target="_blank">financialtimes.com</a> (2025-12-19 18:47:00)</span><span style="padding-right:50px;">日本の長期金利（新発１０年国債利回り）が１９日、１９９９年８月以来、２６年ぶりとなる２．０２０％をつけた。日銀が金融政策決定会合で政策金利の０．７５％への引き上げを決め、金利上昇に弾みがついた。追加利上げは市場の予想通りだったが、１９日午後の日本国債市場ではさらなる利上げ継続が意識されて売りが膨らんだ（金利は上昇）。市場では長期金利の２％は通過点に過ぎず、さらなる上昇を見込む向きが多い。 bit.ly/3MV7ghL <a href="https://bsky.app/profile/japan.reuters.com/post/3madfur643b25" target="_blank">japan.reuters.com</a> (2025-12-19 18:46:59)</span><span style="padding-right:50px;">BOJ Governor Ueda's comments at news conference reut.rs/4qcnL7u <a href="https://bsky.app/profile/reuters.com/post/3madfrnjxhf24" target="_blank">reuters.com</a> (2025-12-19 18:45:15)</span><span style="padding-right:50px;">円相場 値下がり 次の利上げまでには時間かかる見方広がる https://news.web.nhk/newsweb/na/na-k10015008701000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madfre2q3l2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 18:45:03)</span>
+<span style="padding-right:50px;">「メガソーラー」規制に関する政府の対策パッケージ案明らかに https://news.web.nhk/newsweb/na/na-k10015008681000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madh4bq7im26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 19:09:03)</span><span style="padding-right:50px;">🇺🇸 A man believed to be behind both a mass shooting at Brown University and the killing of an MIT professor has been found dead after a days-long manhunt, authorities said on Thursday ➡️ u.afp.com/S8Ux <a href="https://bsky.app/profile/en.afp.com/post/3madgzlx7rk2v" target="_blank">en.afp.com</a> (2025-12-19 19:07:35)</span><span style="padding-right:50px;">If you're tempted to bail on potentially fun events becuase you feel awkward, read this. Level up your small talk game and practice social courage with six tips from psychologists. n.pr/3MD63M9 <a href="https://bsky.app/profile/npr.org/post/3madgx57c2224" target="_blank">npr.org</a> (2025-12-19 19:06:13)</span><span style="padding-right:50px;">UK competition watchdog to probe AB Foods' Hovis purchase reut.rs/490IeFv <a href="https://bsky.app/profile/reuters.com/post/3madgvcekth2i" target="_blank">reuters.com</a> (2025-12-19 19:05:11)</span><span style="padding-right:50px;">刑事司法制度めぐり新たな研究会 録音・録画の対象範囲議論へ https://news.web.nhk/newsweb/na/na-k10015008541000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madgriyewu26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 19:03:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.14 (🔺1.61 : 2025-12-19)</span>
+<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.19 (🔺1.66 : 2025-12-19)</span>
   </div>
 </div>
 
@@ -32,108 +32,110 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are six news headlines in English:
 
-1. Train and Car Collision Causes Severe Damage to Tram in Sapporo
-2. BOJ Governor Ueda: Current Real Interest Rate is Extremely Low, May Continue to Raise Policy Rate
-3. Dollar Hits 156 JPY, Exceeds 1-Month High as Yen Depreciates
-4. European Union to Provide Massive Interest-Free Loan to Ukraine
-5. China Announces Plans to Maintain Anti-Dumping Duties on US, S.Korea, EU Rubber Imports
-6. UK Should Prioritize Helping People in Their 50s and 60s to Stay in Work: House of Lords Committee
+1. Japan's government sets out measures to regulate large-scale solar power projects
+2. US man suspected of Brown University shooting and MIT professor's murder found dead
+3. UK watchdog to probe AB Foods' Hovis purchase
+4. Taiwan eases export restrictions on US dollar sales to stabilize currency
+5. Euro area growth highly uncertain due to trade war and tensions, ECB's Rehn says
+6. Taiwan, US, Qatar, and Turkey to meet for Gaza ceasefire talks
 
 ----
 
-@sokuho.news
+@nhknewsunofficial.bsky.social
 
-🛎️NNNより【速報】です。
+「メガソーラー」規制に関する政府の対策パッケージ案明らかに
+https://news.web.nhk/newsweb/na/na-k10015008681000
 
-【速報】「市電と車の事故」助手席側のドア大きくへこむ 札幌市電は一時運転見合わせ 札幌市
-(2025-12-19 18:47) #ニュース
-
-🚃鉄道運行情報
-🔗https://transit.yahoo.co.jp/diainfo
-
-[2025-12-19 18:47:54](https://bsky.app/profile/sokuho.news/post/3madfwfcjof2v)
+[2025-12-19 19:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madh4bq7im26)
 
 ---
 
-@financialtimes.com
+@en.afp.com
 
-Unpopular Labour is running out of opportunities to change its fate ft.trib.al/erroUU6
+🇺🇸 A man believed to be behind both a mass shooting at Brown University and the killing of an MIT professor has been found dead after a days-long manhunt, authorities said on Thursday ➡️ u.afp.com/S8Ux
 
-[2025-12-19 18:47:00](https://bsky.app/profile/financialtimes.com/post/3madfuruhwy2w)
+[2025-12-19 19:07:35](https://bsky.app/profile/en.afp.com/post/3madgzlx7rk2v)
 
 ---
 
-@japan.reuters.com
+@npr.org
 
-日本の長期金利（新発１０年国債利回り）が１９日、１９９９年８月以来、２６年ぶりとなる２．０２０％をつけた。日銀が金融政策決定会合で政策金利の０．７５％への引き上げを決め、金利上昇に弾みがついた。追加利上げは市場の予想通りだったが、１９日午後の日本国債市場ではさらなる利上げ継続が意識されて売りが膨らんだ（金利は上昇）。市場では長期金利の２％は通過点に過ぎず、さらなる上昇を見込む向きが多い。 bit.ly/3MV7ghL
+If you're tempted to bail on potentially fun events becuase you feel awkward, read this. Level up your small talk game and practice social courage with six tips from psychologists. n.pr/3MD63M9
 
-[2025-12-19 18:46:59](https://bsky.app/profile/japan.reuters.com/post/3madfur643b25)
+[2025-12-19 19:06:13](https://bsky.app/profile/npr.org/post/3madgx57c2224)
 
 ---
 
 @reuters.com
 
-BOJ Governor Ueda's comments at news conference reut.rs/4qcnL7u
+UK competition watchdog to probe AB Foods' Hovis purchase reut.rs/490IeFv
 
-[2025-12-19 18:45:15](https://bsky.app/profile/reuters.com/post/3madfrnjxhf24)
+[2025-12-19 19:05:11](https://bsky.app/profile/reuters.com/post/3madgvcekth2i)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-円相場 値下がり 次の利上げまでには時間かかる見方広がる
-https://news.web.nhk/newsweb/na/na-k10015008701000
+刑事司法制度めぐり新たな研究会 録音・録画の対象範囲議論へ
+https://news.web.nhk/newsweb/na/na-k10015008541000
 
-[2025-12-19 18:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madfre2q3l2b)
+[2025-12-19 19:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madgriyewu26)
+
+---
+
+@cnbc.com
+
+Kristi Noem says U.S. green card lottery suspended after Brown University shooting
+
+[2025-12-19 19:02:47](https://bsky.app/profile/cnbc.com/post/3madgqysduu2p)
 
 ---
 
 @japan.reuters.com
 
-＜１８：２９＞　ドル157円台へ上昇、1カ月ぶり高値　円が広範にじり安 bit.ly/3L59s5E
+台湾中央銀行は台湾ドル安を抑えるため、輸出業者による米ドル売却規制を緩和した。３人の為替トレーダーが１９日明らかにした。 bit.ly/44DPGox
 
-[2025-12-19 18:44:12](https://bsky.app/profile/japan.reuters.com/post/3madfprennp2p)
-
----
-
-@nhknewsunofficial.bsky.social
-
-贈収賄事件 通報の元社員に賠償求めた裁判 訴え退ける
-https://news.web.nhk/newsweb/na/na-k10015008611000
-
-[2025-12-19 18:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madflxmnpj2l)
+[2025-12-19 19:02:38](https://bsky.app/profile/japan.reuters.com/post/3madgqqt5s72q)
 
 ---
 
 @sokuho.news
 
-🛎️NNNより【速報】です。
+🔔ANNより【速報】です。
 
-【速報】住宅で母親と息子あわせて4人が血だらけの状態で見つかる…3人は意識不明の重体 西東京市
-(2025-12-19 18:40) #ニュース
+【速報】ニデック（旧日本電産）創業者・永守重信氏 不適切会計問題調査中に取締役辞任
+(2025年12月19日 19:01) #ニュース
 
-[2025-12-19 18:41:00](https://bsky.app/profile/sokuho.news/post/3madfk2xur326)
+[2025-12-19 19:02:15](https://bsky.app/profile/sokuho.news/post/3madgq33ase2a)
 
 ---
 
 @reuters.com
 
-Ford to recall over 272,000 US vehicles due to loss of park function reut.rs/490yT09
+Growth in euro area highly uncertain due to trade war and tensions, ECB's Rehn says reut.rs/4s3H8RN
 
-[2025-12-19 18:40:11](https://bsky.app/profile/reuters.com/post/3madfimhgip2p)
+[2025-12-19 19:01:02](https://bsky.app/profile/reuters.com/post/3madgnutfvj2y)
 
 ---
 
-@sokuho.news
+@nikkei.com
 
-🛎️FNNより【速報】です。
+クリスマスにティファニーの指輪、外国人女性との婚約は成立したか
+www.nikkei.com/telling/DGXZTS...
 
-【速報】母親と子ども3人が住宅で血を流し倒れているのを発見「誰もいないはずの自宅にチェーン」帰宅の父が通報 東京・西東京市
-(2025-12-19 18:37) #ニュース
+男性は東欧ベラルーシを訪れてプロポーズ。しかし帰国の1年後に、女性から「別れてほしい」という連絡が。
 
-[2025-12-19 18:40:10](https://bsky.app/profile/sokuho.news/post/3madfilijx52x)
+諦めきれなかった男性は指輪の購入代金も含めた約630万円の賠償を求めて提訴しました。
+
+訴訟では婚約が成立したといえるのかどうかが争点に。
+
+一連のやりとりで女性は小突きました。「女性とのロマンチックな関係をはじめないほうがいいのでは」。
+
+#揺れた天秤
+
+[2025-12-19 19:00:50](https://bsky.app/profile/nikkei.com/post/3madgnjfdy524)
 
 ---
 
