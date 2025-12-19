@@ -1,9 +1,9 @@
-# [2025-12-20 05:10 updated](2025_12_20.md)
+# [2025-12-20 05:30 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">首都直下地震の新被害想定公表 国は減災に向け基本計画改定へ https://news.web.nhk/newsweb/na/na-k10015009061000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maein5iucy2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 05:09:02)</span><span style="padding-right:50px;">BREAKING: Jeffrey Epstein files released by the Justice Department. Follow live with USA TODAY as we examine the documents and explain what they mean. <a href="https://bsky.app/profile/usatoday.com/post/3maeilwrwah2w" target="_blank">usatoday.com</a> (2025-12-20 05:08:24)</span><span style="padding-right:50px;">台湾 台北中心部で殺傷事件 3人死亡9人重軽傷 容疑者は死亡 https://news.web.nhk/newsweb/na/na-k10015009081000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maeihsor5q2d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 05:06:03)</span><span style="padding-right:50px;">Japan finance minister warns of action against any excessive forex moves reut.rs/44B9xov <a href="https://bsky.app/profile/reuters.com/post/3maeig6tnjd2y" target="_blank">reuters.com</a> (2025-12-20 05:05:11)</span><span style="padding-right:50px;">BREAKING: The Justice Department has released its files on Jeffrey Epstein as it faced a Friday, Dec. 19 deadline.  Read the latest updates at: bit.ly/494lFzN  <a href="https://bsky.app/profile/usatoday.com/post/3maeidy5vcd2o" target="_blank">usatoday.com</a> (2025-12-20 05:03:57)</span>
+<span style="padding-right:50px;">Judging by Christmas tree sales, consumers aren’t pulling the plug on holiday shopping—but they might be dimming the lights. <a href="https://bsky.app/profile/wsj.com/post/3maejqobun523" target="_blank">wsj.com</a> (2025-12-20 05:28:56)</span><span style="padding-right:50px;">Bowen Yang is leaving "Saturday Night Live" after this weekend's Christmas episode https://cnn.it/4qlbrC1 <a href="https://bsky.app/profile/cnn.com/post/3maejmy3nl524" target="_blank">cnn.com</a> (2025-12-20 05:26:53)</span><span style="padding-right:50px;">＜ロンドン株式市場＞ bit.ly/4qjdpCS <a href="https://bsky.app/profile/japan.reuters.com/post/3maejlysk3b2p" target="_blank">japan.reuters.com</a> (2025-12-20 05:26:20)</span><span style="padding-right:50px;">Carnival Corp sees strong annual profit, resumes dividend as bookings rise reut.rs/48MEbO9 <a href="https://bsky.app/profile/reuters.com/post/3maejjv37yr2b" target="_blank">reuters.com</a> (2025-12-20 05:25:09)</span><span style="padding-right:50px;">The deal announced Friday tacks on to similar reduced price agreements the Trump administration has made with five other pharmaceutical companies. <a href="https://bsky.app/profile/forbes.com/post/3maejjqrryg2q" target="_blank">forbes.com</a> (2025-12-20 05:25:04)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48180.36 (🔺205.54 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23275.54 (🔺153.64 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.69 (🔺4.03 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.53 (🔺2.00 : 2025-12-19)</span>
+<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48138.81 (🔺163.99 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23277.23 (🔺155.33 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.41 (🔺3.75 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.57 (🔺2.04 : 2025-12-19)</span>
   </div>
 </div>
 
@@ -32,96 +32,98 @@
 
 ## News Headlines
 
-Here are six news headlines in English:
+Here are six important stories with headlines in English:
 
-1. Japan to Revise Disaster Reduction Plan Following New Estimates of Capital's Earthquake Damage
-2. Jeffrey Epstein Files Released by US Justice Department
-3. Taiwan Capital Sees Deadly Stabbing Incident, Three Dead and Nine Injured
-4. Trump Announces Deals with Nine Pharmaceutical Companies to Lower US Drug Prices
-5. Costco Adjusts Product Lineup for Holiday Season to Keep Prices Low
-6. Russian Defense Firms Targeted by Hackers Using AI and Other Tactics
+1. Bowen Yang Leaves SNL After This Weekend's Episode
+2. Russia Cuts Key Interest Rate to 16% Amid Economic Slowdown
+3. Jeffrey Epstein Files Released by Justice Department
+4. Taiwan Train Station Stabbing Leaves 3 Dead, 9 Injured
+5. Trump Administration Signs Deals with 9 Pharmaceutical Companies to Lower Drug Prices
+6. US Blocks Russian Drone Found in Turkey Amid Ongoing Conflict
 
 ----
 
-@nhknewsunofficial.bsky.social
+@wsj.com
 
-首都直下地震の新被害想定公表 国は減災に向け基本計画改定へ
-https://news.web.nhk/newsweb/na/na-k10015009061000
+Judging by Christmas tree sales, consumers aren’t pulling the plug on holiday shopping—but they might be dimming the lights.
 
-[2025-12-20 05:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maein5iucy2k)
-
----
-
-@usatoday.com
-
-<strong><span style="color: red;">BREAKING:</span> Jeffrey Epstein files released by the Justice Department. Follow live with USA TODAY as we examine the documents and explain what they mean.</strong>
-
-[2025-12-20 05:08:24](https://bsky.app/profile/usatoday.com/post/3maeilwrwah2w)
-
----
-
-@nhknewsunofficial.bsky.social
-
-台湾 台北中心部で殺傷事件 3人死亡9人重軽傷 容疑者は死亡
-https://news.web.nhk/newsweb/na/na-k10015009081000
-
-[2025-12-20 05:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maeihsor5q2d)
-
----
-
-@reuters.com
-
-Japan finance minister warns of action against any excessive forex moves reut.rs/44B9xov
-
-[2025-12-20 05:05:11](https://bsky.app/profile/reuters.com/post/3maeig6tnjd2y)
-
----
-
-@usatoday.com
-
-<strong><span style="color: red;">BREAKING:</span> The Justice Department has released its files on Jeffrey Epstein as it faced a Friday, Dec. 19 deadline.</strong><br><strong></strong><br><strong>Read the latest updates at: bit.ly/494lFzN</strong><br><strong></strong>
-
-[2025-12-20 05:03:57](https://bsky.app/profile/usatoday.com/post/3maeidy5vcd2o)
-
----
-
-@npr.org
-
-Don't get swindled while buying those last-minute gifts. Amy Nofziger, a fraud specialist with AARP, shares top schemes she's been seeing this season — and tips on how to protect yourself. n.pr/4alEC3b
-
-[2025-12-20 05:03:44](https://bsky.app/profile/npr.org/post/3maeidm6nsc2p)
+[2025-12-20 05:28:56](https://bsky.app/profile/wsj.com/post/3maejqobun523)
 
 ---
 
 @cnn.com
 
-The white wreaths were piled high on the doorsteps of a funeral house in Hong Kong, a stark reminder of a city still laying its dead to rest more than four weeks after a devastating fire. https://cnn.it/491yIlr
+Bowen Yang is leaving "Saturday Night Live" after this weekend's Christmas episode https://cnn.it/4qlbrC1
 
-[2025-12-20 05:02:04](https://bsky.app/profile/cnn.com/post/3maeiamh6s323)
-
----
-
-@reuters.com
-
-Volaris-Viva merger eyes lower fleet costs for new airline group reut.rs/4qoX7Zj
-
-[2025-12-20 05:01:11](https://bsky.app/profile/reuters.com/post/3maei6zhoxx23)
-
----
-
-@apnews.com
-
-Crews are set to blow up the 94-year-old Black Hawk Bridge over the Mississippi River.
-
-[2025-12-20 05:01:08](https://bsky.app/profile/apnews.com/post/3maei6wzljo2q)
+[2025-12-20 05:26:53](https://bsky.app/profile/cnn.com/post/3maejmy3nl524)
 
 ---
 
 @japan.reuters.com
 
-台北中心部の主要鉄道駅付近で１９日、刃物を持った男が複数の人を刺すなどし、３人が死亡、５人が負傷した。男は警察の追跡中にビルから転落し死亡した。 bit.ly/3N8f2F0
+＜ロンドン株式市場＞ bit.ly/4qjdpCS
 
-[2025-12-20 05:00:53](https://bsky.app/profile/japan.reuters.com/post/3maei6isibi26)
+[2025-12-20 05:26:20](https://bsky.app/profile/japan.reuters.com/post/3maejlysk3b2p)
+
+---
+
+@reuters.com
+
+Carnival Corp sees strong annual profit, resumes dividend as bookings rise reut.rs/48MEbO9
+
+[2025-12-20 05:25:09](https://bsky.app/profile/reuters.com/post/3maejjv37yr2b)
+
+---
+
+@forbes.com
+
+The deal announced Friday tacks on to similar reduced price agreements the Trump administration has made with five other pharmaceutical companies.
+
+[2025-12-20 05:25:04](https://bsky.app/profile/forbes.com/post/3maejjqrryg2q)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+日本と中央アジア5か国の首脳会合 共同宣言の原案が明らかに
+https://news.web.nhk/newsweb/na/na-k10015008841000
+
+[2025-12-20 05:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maejhxkzgr2b)
+
+---
+
+@thealexknapp.bsky.social
+
+In this week's edition of my emerging tech newsletter, The Prototype, I took a look at a drug that holds promise for regenerating injured spinal columns, a discovery that could lead to rejuvenating immune systems in old age and why it's good to swear at the gym. 
+
+www.forbes.com/sites/the-pr...
+
+[2025-12-20 05:21:24](https://bsky.app/profile/thealexknapp.bsky.social/post/3maejd6fmns27)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+国立大学病院長 “物価上昇に合わせ診療報酬引き上げ検討を”
+https://news.web.nhk/newsweb/na/na-k10015008961000
+
+[2025-12-20 05:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maejcmamil24)
+
+---
+
+@cbsnews.com
+
+Kennedy Center adds Trump's name to building.
+
+[2025-12-20 05:20:41](https://bsky.app/profile/cbsnews.com/post/3maejbvdinb2h)
+
+---
+
+@japan.reuters.com
+
+ロシア中央銀行は１９日の理事会で、主要政策金利を５０ベーシスポイント（ｂｐ）引き下げ１６％にすると決定した。インフレが鈍化傾向にあり経済が減速する中、大方の市場予想に沿った内容。プーチン大統領が同日開いた記者会見で「経済の減速は中銀がインフレ対策で金融を引き締めた結果だ」と指摘したことに歩調を合わせる形となった。 bit.ly/4p8hetN
+
+[2025-12-20 05:16:20](https://bsky.app/profile/japan.reuters.com/post/3maej24hz4y26)
 
 ---
 
