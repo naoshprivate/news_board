@@ -1,9 +1,9 @@
-# [2025-12-19 17:50 updated](2025_12_19.md)
+# [2025-12-19 18:10 updated](2025_12_19.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】レスリング全日本選手権 日体大の吉田泰造選手（高松北高出身）が優勝【香川】 (2025-12-19 17:40) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3madchpwujt2x" target="_blank">sokuho.news</a> (2025-12-19 17:46:00)</span><span style="padding-right:50px;">米政府高官が先週、難民として米国に渡航する南アフリカの白人に対し、歓迎セットの一つとして子ども向けに書かれたトランプ大統領の伝記を配布することを提案した。 bit.ly/4j21vuG <a href="https://bsky.app/profile/japan.reuters.com/post/3madcgkpsq22s" target="_blank">japan.reuters.com</a> (2025-12-19 17:45:21)</span><span style="padding-right:50px;">Texas fires DC Pete Kwiatkowski, brings back Will Muschamp reut.rs/4j2gDYS <a href="https://bsky.app/profile/reuters.com/post/3madcg7pcnm2o" target="_blank">reuters.com</a> (2025-12-19 17:45:10)</span><span style="padding-right:50px;">The video stream appeared to show a YouTuber, who describes himself as "a shepherd for individual investors." Read more: bloom.bg/490FS9D  📷️: whitehouse.gov  <a href="https://bsky.app/profile/bloomberg.com/post/3madcg43p272a" target="_blank">bloomberg.com</a> (2025-12-19 17:45:06)</span><span style="padding-right:50px;">中国政府は１９日、米国防権限法（ＮＤＡＡ）に盛り込まれた「中国に否定的な条項」について、「強い不満と断固たる反対」を表明し、米国に実施を見送るよう求めた。 bit.ly/4j5uA8B <a href="https://bsky.app/profile/japan.reuters.com/post/3madcb7x7ed27" target="_blank">japan.reuters.com</a> (2025-12-19 17:42:22)</span>
+<span style="padding-right:50px;">12月の月例経済報告「緩やかに回復」基調判断 4か月連続で維持 https://news.web.nhk/newsweb/na/na-k10015008571000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maddr3zpuk26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 18:09:07)</span><span style="padding-right:50px;">木原官房長官 野党に陳謝 佐藤官房副長官起用で“混乱招いた” https://news.web.nhk/newsweb/na/na-k10015008601000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maddqxlgwj2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 18:09:02)</span><span style="padding-right:50px;">金融庁は１９日、地域の金融機能増強を図る政策パッケージ「地域金融力強化プラン」を公表した。人口減や少子高齢化に直面する地域経済の持続的発展のため、地銀など金融機関が地元企業の成長支援などで貢献できるよう、環境整備を強化する。 bit.ly/4p4qiQ6 <a href="https://bsky.app/profile/japan.reuters.com/post/3maddpo6cve2p" target="_blank">japan.reuters.com</a> (2025-12-19 18:08:21)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】津山市の養鶏場で高病原性鳥インフルエンザ疑い例 遺伝子検査で陽性の場合は県内3年ぶり【岡山】 (2025-12-19 18:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maddlwb3oj2x" target="_blank">sokuho.news</a> (2025-12-19 18:06:15)</span><span style="padding-right:50px;">日銀は１８、１９日に開いた金融政策決定会合で、政策金利である無担保コール翌日物金利の誘導目標を０．７５％に引き上げることを全員一致で決めた。利上げは１月以来。政策金利は１９９５年９月以来、３０年ぶりの高水準となった。企業への聞き取りなどを踏まえ、賃金と物価がともに緩やかに上昇していくメカニズムが維持される可能性が高いと判断、経済・物価の中心的な見通しが実現する確度は高まっているとした。 bit.ly/4s6uly4 <a href="https://bsky.app/profile/japan.reuters.com/post/3maddkhpz2t2v" target="_blank">japan.reuters.com</a> (2025-12-19 18:05:26)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 156.88 (🔺1.35 : 2025-12-19)</span>
+<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 156.95 (🔺1.42 : 2025-12-19)</span>
   </div>
 </div>
 
@@ -32,99 +32,111 @@
 
 ## News Headlines
 
-Here are six news headlines in English:
+Here are six headlines based on the provided news articles:
 
-1. Japanese Wrestler Wins National Championship
-2. US Official Proposed Distributing Trump Biography to South African White Refugees
-3. Texas Fires DC Pete Kwiatkowski, Brings Back Will Muschamp
-4. Sharp Upgraded by S&P Global Rating Amid Debt Restructuring Talks
-5. BOJ Raises Policy Rate to 0.75%, Long-Term Interest Rate Hits 20.20%
-6. Trump Administration Investigates AI Chips for Export to China
+1. Japan's December Economic Report: Economy Continues to Recover at a Moderate Pace
+2. Government Official Apologizes to Opposition Party Over Cabinet Shuffle
+3. Bank of Japan Raises Interest Rate Target to 0.75% in Effort to Support Economic Growth
+4. Vietnam Begins Construction on Railway Link to China Amid Infrastructure Spending Spree
+5. Bangladeshi Activist's Death Sparks Violence as Protests Continue Ahead of General Election
+6. US Green Card Lottery Program Halted Amid Concerns Over National Security
 
 ----
+
+@nhknewsunofficial.bsky.social
+
+12月の月例経済報告「緩やかに回復」基調判断 4か月連続で維持
+https://news.web.nhk/newsweb/na/na-k10015008571000
+
+[2025-12-19 18:09:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maddr3zpuk26)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+木原官房長官 野党に陳謝 佐藤官房副長官起用で“混乱招いた”
+https://news.web.nhk/newsweb/na/na-k10015008601000
+
+[2025-12-19 18:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maddqxlgwj2b)
+
+---
+
+@japan.reuters.com
+
+金融庁は１９日、地域の金融機能増強を図る政策パッケージ「地域金融力強化プラン」を公表した。人口減や少子高齢化に直面する地域経済の持続的発展のため、地銀など金融機関が地元企業の成長支援などで貢献できるよう、環境整備を強化する。 bit.ly/4p4qiQ6
+
+[2025-12-19 18:08:21](https://bsky.app/profile/japan.reuters.com/post/3maddpo6cve2p)
+
+---
 
 @sokuho.news
 
 🛎️FNNより【速報】です。
 
-【速報】レスリング全日本選手権 日体大の吉田泰造選手（高松北高出身）が優勝【香川】
-(2025-12-19 17:40) #ニュース
+【速報】津山市の養鶏場で高病原性鳥インフルエンザ疑い例 遺伝子検査で陽性の場合は県内3年ぶり【岡山】
+(2025-12-19 18:00) #ニュース
 
-[2025-12-19 17:46:00](https://bsky.app/profile/sokuho.news/post/3madchpwujt2x)
+[2025-12-19 18:06:15](https://bsky.app/profile/sokuho.news/post/3maddlwb3oj2x)
 
 ---
 
 @japan.reuters.com
 
-米政府高官が先週、難民として米国に渡航する南アフリカの白人に対し、歓迎セットの一つとして子ども向けに書かれたトランプ大統領の伝記を配布することを提案した。 bit.ly/4j21vuG
+日銀は１８、１９日に開いた金融政策決定会合で、政策金利である無担保コール翌日物金利の誘導目標を０．７５％に引き上げることを全員一致で決めた。利上げは１月以来。政策金利は１９９５年９月以来、３０年ぶりの高水準となった。企業への聞き取りなどを踏まえ、賃金と物価がともに緩やかに上昇していくメカニズムが維持される可能性が高いと判断、経済・物価の中心的な見通しが実現する確度は高まっているとした。 bit.ly/4s6uly4
 
-[2025-12-19 17:45:21](https://bsky.app/profile/japan.reuters.com/post/3madcgkpsq22s)
+[2025-12-19 18:05:26](https://bsky.app/profile/japan.reuters.com/post/3maddkhpz2t2v)
 
 ---
 
 @reuters.com
 
-Texas fires DC Pete Kwiatkowski, brings back Will Muschamp reut.rs/4j2gDYS
+Vietnam starts work on rail link to China amid infrastructure spending spree reut.rs/4s6qHEw
 
-[2025-12-19 17:45:10](https://bsky.app/profile/reuters.com/post/3madcg7pcnm2o)
+[2025-12-19 18:05:16](https://bsky.app/profile/reuters.com/post/3maddk5rsdm2o)
+
+---
+
+@sokuho.news
+
+🔔ANNより【速報】です。
+
+【速報】ニデック（旧日本電産）創業者・永守重信氏 不適切会計問題調査中に取締役辞任
+(2025年12月19日 18:02) #ニュース
+
+[2025-12-19 18:02:47](https://bsky.app/profile/sokuho.news/post/3maddfqbmxu26)
+
+---
+
+@japan.reuters.com
+
+バングラデシュのハシナ政権を打倒した学生主導の抗議デモに関わった若者のリーダー、シャリフ・オスマン・ハディ氏（３２）が１８日遅くに亡くなったのを受け、いくつかの都市で暴動が発生した。同氏が立候補していた来年２月の総選挙を控え、混乱拡大が懸念される。 bit.ly/4qfOLD3
+
+[2025-12-19 18:01:00](https://bsky.app/profile/japan.reuters.com/post/3maddckcfqi22)
+
+---
+
+@nikkei.com
+
+ニデック永守重信氏が取締役辞任、名誉会長に
+www.nikkei.com/article/DGXZQO...
+
+ニデックは9月に不適切会計の疑いが見つかりました。
+
+10月に日本取引所グループが内部管理体制の改善を求める特別注意銘柄に指定。
+
+永守氏が経営の一線から退き、一定のけじめをつけます。
+
+#ニュース
+
+[2025-12-19 18:00:39](https://bsky.app/profile/nikkei.com/post/3maddbvx2362g)
 
 ---
 
 @bloomberg.com
 
-The video stream appeared to show a YouTuber, who describes himself as "a shepherd for individual investors." Read more: bloom.bg/490FS9D
+The Trump administration halted the US green card lottery program, which it said was used by the suspect in the Brown University shooting and killing of a Massachusetts Institute of Technology professor
 
-📷️: whitehouse.gov 
-
-[2025-12-19 17:45:06](https://bsky.app/profile/bloomberg.com/post/3madcg43p272a)
-
----
-
-@japan.reuters.com
-
-中国政府は１９日、米国防権限法（ＮＤＡＡ）に盛り込まれた「中国に否定的な条項」について、「強い不満と断固たる反対」を表明し、米国に実施を見送るよう求めた。 bit.ly/4j5uA8B
-
-[2025-12-19 17:42:22](https://bsky.app/profile/japan.reuters.com/post/3madcb7x7ed27)
-
----
-
-@japan.reuters.com
-
-Ｓ＆Ｐグローバル・レーティングは１９日、シャープを格上げ方向の「クレジット・ウォッチ」に指定したと発表した。銀行団との大規模な借り換え協議が進展しているとみているため。借り換えが確定した場合、現在のＢマイナスから一段階引き上げる可能性が高いという。 bit.ly/4pSzIj8
-
-[2025-12-19 17:40:42](https://bsky.app/profile/japan.reuters.com/post/3madc6al5td2v)
-
----
-
-@japan.reuters.com
-
-日銀は１８、１９日に開いた金融政策決定会合で、政策金利である無担保コール翌日物金利の誘導目標を０．７５％に引き上げることを全員一致で決めた。これを受け、円債市場では、新発１０年国債利回り（長期金利）は２．０２０％と、１９９９年８月以来の高水準を付けた。 bit.ly/4qhTGU8
-
-[2025-12-19 17:40:23](https://bsky.app/profile/japan.reuters.com/post/3madc5obsuq22)
-
----
-
-@reuters.com
-
-Rugby-Mighty Springboks continue to set the standards reut.rs/3KQ0aup
-
-[2025-12-19 17:40:16](https://bsky.app/profile/reuters.com/post/3madc5i2ajy2c)
-
----
-
-@japan.reuters.com
-
-月例経済報告の景気判断の推移は以下の通り。 bit.ly/48ZvNJY
-
-[2025-12-19 17:38:04](https://bsky.app/profile/japan.reuters.com/post/3madbzjcn2p2f)
-
----
-
-@japan.reuters.com
-
-トランプ米大統領は１８日、来年５月に任期が切れる連邦準備理事会（ＦＲＢ）のパウエル議長の後任候補として、前日にウォラーＦＲＢ理事と面会したと明らかにし、「素晴らしい人物だ」と称賛した。議長候補として現在３─４人が最終選考に残っているとした。 bit.ly/3Y5C55P
-
-[2025-12-19 17:35:28](https://bsky.app/profile/japan.reuters.com/post/3madbuueh5m2q)
+[2025-12-19 18:00:30](https://bsky.app/profile/bloomberg.com/post/3maddbnaj6k2d)
 
 ---
 
