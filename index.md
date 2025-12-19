@@ -1,9 +1,9 @@
-# [2025-12-19 14:10 updated](2025_12_19.md)
+# [2025-12-19 14:30 updated](2025_12_19.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">オセアニア外国為替市場では豪ドルとニュージーランド（ＮＺ）ドルが対円で上昇。日銀が１９日、政策金利を３０年ぶりの高水準に引き上げたが、市場では広く予想されていた。両通貨は対ドルでは週間で下落している。 bit.ly/48Xz7VR <a href="https://bsky.app/profile/japan.reuters.com/post/3macwe2tyig2c" target="_blank">japan.reuters.com</a> (2025-12-19 14:09:13)</span><span style="padding-right:50px;">India's ICICI Prudential AMC sees shares jump 20% in market debut after stellar IPO <a href="https://bsky.app/profile/cnbc.com/post/3macwbk3cgb2x" target="_blank">cnbc.com</a> (2025-12-19 14:07:48)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】勝山市荒土町布市の住宅にクマが潜伏中 (2025-12-19 14:05) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3macw53rf3g2a" target="_blank">sokuho.news</a> (2025-12-19 14:05:19)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】全国のインフルエンザの患者数「36.96人」3週連続減少も依然高い水準 厚労省 (2025年12月19日 14:03) #ニュース  😷感染症情報 🔗https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/infulenza/index.html <a href="https://bsky.app/profile/sokuho.news/post/3macvzldvnf2e" target="_blank">sokuho.news</a> (2025-12-19 14:03:21)</span><span style="padding-right:50px;">In the hours after police discovered the bodies of Rob Reiner and Michele Singer Reiner inside their Brentwood, California, home, speculation was rife over what could have led someone to murder the beloved Hollywood director and his other half, a charismatic photographer and producer.  <a href="https://bsky.app/profile/cnn.com/post/3macvyylaq62c" target="_blank">cnn.com</a> (2025-12-19 14:03:01)</span>
+<span style="padding-right:50px;">＜１４：０４＞　ドル156円前半で値動き落ち着く、日銀会合直後は上下60銭の変動 bit.ly/4apcSe0 <a href="https://bsky.app/profile/japan.reuters.com/post/3macxdzqtgt22" target="_blank">japan.reuters.com</a> (2025-12-19 14:27:05)</span><span style="padding-right:50px;">法相 “保護司制度盛り込んだ再犯防止指針 国連総会で採択” https://news.web.nhk/newsweb/na/na-k10015008401000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3macx6nz7ab2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 14:24:03)</span><span style="padding-right:50px;">Bumper Christmas for air travel as 300mn take to the skies ft.trib.al/YUcdlFz <a href="https://bsky.app/profile/financialtimes.com/post/3macx54dolw2f" target="_blank">financialtimes.com</a> (2025-12-19 14:23:13)</span><span style="padding-right:50px;">上海外国為替市場の人民元相場は、横ばい。ドルが１１月の米消費者物価指数（ＣＰＩ）に反応薄だったことが背景となっている。ただ、週間では４週連続の上昇となる見込み。 bit.ly/4qlwg0f <a href="https://bsky.app/profile/japan.reuters.com/post/3macwyrcpii2q" target="_blank">japan.reuters.com</a> (2025-12-19 14:20:47)</span><span style="padding-right:50px;">Yen dips after BOJ raises rates in widely anticipated move reut.rs/4oYWfJP <a href="https://bsky.app/profile/reuters.com/post/3macwxvdkgo2x" target="_blank">reuters.com</a> (2025-12-19 14:20:18)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49468.59 (🔺80.88 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3412.00 (🔺23.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 156.01 (🔺0.48 : 2025-12-19)</span>
+<span style="padding-right:50px;">NIKKEI: 49543.52 (🔺155.81 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3419.00 (🔺30.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 155.92 (🔺0.39 : 2025-12-19)</span>
   </div>
 </div>
 
@@ -32,30 +32,61 @@
 
 ## News Headlines
 
-Here are six news headlines in English:
-
-1. India's ICICI Prudential AMC Sees Shares Jump 20% in Market Debut After Stellar IPO
-2. France's Macron Hopes EU Will Pass Mercosur Clauses During Delay
-3. Trump Administration Prohibits Certain Immigrants from Obtaining Truck Driver's Licenses
-4. Toyota's US-Produced Models to Be Shipped to Japan Next Year
-5. New Study Finds Forever Chemicals in Contaminated Fish Eaten by Americans
-6. Director Rob Reiner's Impact on Hollywood and His Beloved Films
+1. Japan's Yen Dips After BOJ Raises Rates in Widely Anticipated Move
+2. Christmas Travel Season Sees Record 300 Million People Take to the Skies
+3. Japan's Long-Term Bond Yields Rise to 2% or Higher Amid BOJ Rate Hike
+4. India's ICICI Prudential AMC Sees Shares Jump 20% in Market Debut
+5. Rob Reiner's Impact on Hollywood: A Look Back at His Beloved Films
+6. Toyota Ships Three US-Produced Models to Japan, Boosting US Ties
 
 ----
 
 @japan.reuters.com
 
-オセアニア外国為替市場では豪ドルとニュージーランド（ＮＺ）ドルが対円で上昇。日銀が１９日、政策金利を３０年ぶりの高水準に引き上げたが、市場では広く予想されていた。両通貨は対ドルでは週間で下落している。 bit.ly/48Xz7VR
+＜１４：０４＞　ドル156円前半で値動き落ち着く、日銀会合直後は上下60銭の変動 bit.ly/4apcSe0
 
-[2025-12-19 14:09:13](https://bsky.app/profile/japan.reuters.com/post/3macwe2tyig2c)
+[2025-12-19 14:27:05](https://bsky.app/profile/japan.reuters.com/post/3macxdzqtgt22)
 
 ---
 
-@cnbc.com
+@nhknewsunofficial.bsky.social
 
-India's ICICI Prudential AMC sees shares jump 20% in market debut after stellar IPO
+法相 “保護司制度盛り込んだ再犯防止指針 国連総会で採択”
+https://news.web.nhk/newsweb/na/na-k10015008401000
 
-[2025-12-19 14:07:48](https://bsky.app/profile/cnbc.com/post/3macwbk3cgb2x)
+[2025-12-19 14:24:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3macx6nz7ab2b)
+
+---
+
+@financialtimes.com
+
+Bumper Christmas for air travel as 300mn take to the skies ft.trib.al/YUcdlFz
+
+[2025-12-19 14:23:13](https://bsky.app/profile/financialtimes.com/post/3macx54dolw2f)
+
+---
+
+@japan.reuters.com
+
+上海外国為替市場の人民元相場は、横ばい。ドルが１１月の米消費者物価指数（ＣＰＩ）に反応薄だったことが背景となっている。ただ、週間では４週連続の上昇となる見込み。 bit.ly/4qlwg0f
+
+[2025-12-19 14:20:47](https://bsky.app/profile/japan.reuters.com/post/3macwyrcpii2q)
+
+---
+
+@reuters.com
+
+Yen dips after BOJ raises rates in widely anticipated move reut.rs/4oYWfJP
+
+[2025-12-19 14:20:18](https://bsky.app/profile/reuters.com/post/3macwxvdkgo2x)
+
+---
+
+@nytimes.com
+
+If you’re worried about unnoticed catastrophic leaks — if you travel often for work, for example, or have a weekend or rental property that you can’t keep daily tabs on — this nifty device is a great way to gain peace of mind.
+
+[2025-12-19 14:20:05](https://bsky.app/profile/nytimes.com/post/3macwxim3dn25)
 
 ---
 
@@ -63,74 +94,41 @@ India's ICICI Prudential AMC sees shares jump 20% in market debut after stellar 
 
 🛎️NNNより【速報】です。
 
-【速報】勝山市荒土町布市の住宅にクマが潜伏中
+【速報】勝山市荒土町布市の住宅敷地にある小屋にクマが潜伏中
 (2025-12-19 14:05) #ニュース
 
-[2025-12-19 14:05:19](https://bsky.app/profile/sokuho.news/post/3macw53rf3g2a)
+[2025-12-19 14:17:44](https://bsky.app/profile/sokuho.news/post/3macwtc33ut27)
 
 ---
 
 @sokuho.news
 
-🔔ANNより【速報】です。
+🛎️JNNより【速報】です。
 
-【速報】全国のインフルエンザの患者数「36.96人」3週連続減少も依然高い水準 厚労省
-(2025年12月19日 14:03) #ニュース
+【速報】インフルエンザ感染者数が3週連続減少 全国平均で「36.96人」 厚生労働省
+(2025-12-19 14:13:21) #ニュース
 
 😷感染症情報
 🔗https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/infulenza/index.html
 
-[2025-12-19 14:03:21](https://bsky.app/profile/sokuho.news/post/3macvzldvnf2e)
+[2025-12-19 14:16:14](https://bsky.app/profile/sokuho.news/post/3macwqmjuuc2r)
 
 ---
 
-@cnn.com
+@nhknewsunofficial.bsky.social
 
-In the hours after police discovered the bodies of Rob Reiner and Michele Singer Reiner inside their Brentwood, California, home, speculation was rife over what could have led someone to murder the beloved Hollywood director and his other half, a charismatic photographer and producer. 
+債券市場で長期金利2％超に上昇 日銀の利上げ受け 約26年ぶり
+https://news.web.nhk/newsweb/na/na-k10015007161000
 
-[2025-12-19 14:03:01](https://bsky.app/profile/cnn.com/post/3macvyylaq62c)
-
----
-
-@reuters.com
-
-Wanxiang to pay $53 million to resolve US probe into imported Chinese auto parts, DOJ says reut.rs/44DDkg9
-
-[2025-12-19 14:01:12](https://bsky.app/profile/reuters.com/post/3macvvq2c7n2c)
+[2025-12-19 14:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3macwok2vx52y)
 
 ---
 
-@cnbc.com
+@japan.reuters.com
 
-Nearly 40% of adults say their biggest financial regret from this year is not saving enough money, according to a new survey.
+共同石油統計イニシアチブ（ＪＯＤＩ）が１８日公表した統計によると、１０月のサウジアラビアの原油輸出が２０２３年４月以来の高水準に達した。 bit.ly/4pOJxyu
 
-These are the three most common financial regrets from 2025.
-
-[2025-12-19 14:00:52](https://bsky.app/profile/cnbc.com/post/3macvv5ganw2m)
-
----
-
-@bloomberg.com
-
-Toyota will ship three models produced in America to Japan next year, the Japanese auto giant’s latest gesture designed to indulge US President Donald Trump.
-
-[2025-12-19 14:00:27](https://bsky.app/profile/bloomberg.com/post/3macvufv3cb2z)
-
----
-
-@washingtonpost.com
-
-Most of the seafood Americans eat comes from abroad — and that means they’re exposed to a higher level of “forever chemicals,” or PFAS, through contaminated fish, according to a new study.
-
-[2025-12-19 14:00:11](https://bsky.app/profile/washingtonpost.com/post/3macvtwfntj2n)
-
----
-
-@nytimes.com
-
-The director Rob Reiner delivered an incredible number of widely acclaimed movies, from “When Harry Met Sally” to “Stand By Me” and “Misery.” On “Cannonball,” Wesley Morris reflects on the impact Reiner had on his life and why his films are so beloved. nyti.ms/4ajIsd5
-
-[2025-12-19 14:00:03](https://bsky.app/profile/nytimes.com/post/3macvto77ey26)
+[2025-12-19 14:14:44](https://bsky.app/profile/japan.reuters.com/post/3macwnx7obl22)
 
 ---
 
