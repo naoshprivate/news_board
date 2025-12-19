@@ -1,9 +1,9 @@
-# [2025-12-19 23:30 updated](2025_12_19.md)
+# [2025-12-19 23:50 updated](2025_12_19.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Dave Willat was just 11 years old when he showed up for what he thought would be a routine church choir practice in 1965. He and his fellow singers ended up making history. n.pr/3KZCl3a <a href="https://bsky.app/profile/npr.org/post/3madvj65c7x2n" target="_blank">npr.org</a> (2025-12-19 23:26:50)</span><span style="padding-right:50px;">The DOJ is expected to release "several hundred thousand" Jeffrey Epstein records today. Here's what to know.  <a href="https://bsky.app/profile/cbsnews.com/post/3madvgncyte2p" target="_blank">cbsnews.com</a> (2025-12-19 23:25:25)</span><span style="padding-right:50px;">Paris court orders Shein to verify age for sex toy sales or risk fines reut.rs/3XZUxgd <a href="https://bsky.app/profile/reuters.com/post/3madvgbbzya2b" target="_blank">reuters.com</a> (2025-12-19 23:25:12)</span><span style="padding-right:50px;">A heavyweight champion meets a YouTuber-turned-pugilist as Anthony Joshua faces Jake Paul in Miami’s wildest matchup.   Plus: AFCON kicks off in Morocco and Russian neutral athletes return in Lake Placid.    Here’s your Inside Track to the sporting weekend: www.reuters.com/sports/insid... <a href="https://bsky.app/profile/reuters.com/post/3madvceltds2x" target="_blank">reuters.com</a> (2025-12-19 23:23:02)</span><span style="padding-right:50px;">The merger, if it goes through, will offer the first test of public markets' appetite for the tech. <a href="https://bsky.app/profile/axios.com/post/3madvbihbxk2x" target="_blank">axios.com</a> (2025-12-19 23:22:32)</span>
+<span style="padding-right:50px;">VIDEO: 🇦🇺 Surfers and swimmers pay tribute to Bondi Beach shooting victims   Hundreds of surfers and swimmers plunged into the ocean off Australia's Bondi Beach on Friday to pay tribute to the 15 people killed at a Jewish festival there on 14 December, in one of the country's worst mass shootings <a href="https://bsky.app/profile/en.afp.com/post/3madwprz6s42j" target="_blank">en.afp.com</a> (2025-12-19 23:48:26)</span><span style="padding-right:50px;">エナジック 野球部監督 体罰などで謹慎処分 日本学生野球協会 https://news.web.nhk/newsweb/na/na-k10015009021000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madwp5iyzl2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 23:48:03)</span><span style="padding-right:50px;">US coffee drinkers face higher prices even after Trump's tariff reset reut.rs/4oZuH6P <a href="https://bsky.app/profile/reuters.com/post/3madwk3vtz523" target="_blank">reuters.com</a> (2025-12-19 23:45:15)</span><span style="padding-right:50px;">ウズベキスタン大統領 重要鉱物開発など巡り日本の投資に期待 https://news.web.nhk/newsweb/na/na-k10015008991000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madwjsun5p24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 23:45:03)</span><span style="padding-right:50px;">A reliable stock market indicator from Bank of America just triggered a sell signal <a href="https://bsky.app/profile/cnbc.com/post/3madwilzjky2y" target="_blank">cnbc.com</a> (2025-12-19 23:44:25)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48058.25 (🔺83.43 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 176.59 (🔻0.07 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.24 (🔺1.71 : 2025-12-19)</span>
+<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48140.52 (🔺165.70 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23232.72 (🔺110.82 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 179.46 (🔺2.80 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.34 (🔺1.81 : 2025-12-19)</span>
   </div>
 </div>
 
@@ -32,98 +32,99 @@
 
 ## News Headlines
 
-Here are six headlines in English:
+Here are six news headlines in English:
 
-1. DOJ to Release Thousands of Jeffrey Epstein Records
-2. China Threatens Forceful Measures Over US Arms Sales to Taiwan
-3. Oracle Stock Jumps 5% After Cloud Provider Joins Investor Group to Run TikTok's US Business
-4. French Scholar Warns of Finitude Capitalism, a System Where the Rich Compete Over Limited Wealth
-5. Putin Claims Ukraine is On the Retreat as War Rages On
-6. Japan Holds Economic View Steady in Monthly Report
+1. Australia: Hundreds pay tribute to Bondi Beach shooting victims
+2. US coffee drinkers face higher prices after Trump's tariff reset
+3. EU leaders agree to provide Ukraine with massive interest-free loan
+4. ECB policymakers not yet ready to take rate cut off the table
+5. Lawrence Ampe: Uganda prison officer sacked for 'politicking' on TikTok
+6. Oracle stock jumps 5% as cloud provider joins TikTok investor group
 
 ----
 
-@npr.org
+@en.afp.com
 
-Dave Willat was just 11 years old when he showed up for what he thought would be a routine church choir practice in 1965. He and his fellow singers ended up making history. n.pr/3KZCl3a
-
-[2025-12-19 23:26:50](https://bsky.app/profile/npr.org/post/3madvj65c7x2n)
-
----
-
-@cbsnews.com
-
-The DOJ is expected to release "several hundred thousand" Jeffrey Epstein records today. Here's what to know. 
-
-[2025-12-19 23:25:25](https://bsky.app/profile/cbsnews.com/post/3madvgncyte2p)
-
----
-
-@reuters.com
-
-Paris court orders Shein to verify age for sex toy sales or risk fines reut.rs/3XZUxgd
-
-[2025-12-19 23:25:12](https://bsky.app/profile/reuters.com/post/3madvgbbzya2b)
-
----
-
-@reuters.com
-
-A heavyweight champion meets a YouTuber-turned-pugilist as Anthony Joshua faces Jake Paul in Miami’s wildest matchup.
+VIDEO: 🇦🇺 Surfers and swimmers pay tribute to Bondi Beach shooting victims
  
-Plus: AFCON kicks off in Morocco and Russian neutral athletes return in Lake Placid. 
- 
-Here’s your Inside Track to the sporting weekend: www.reuters.com/sports/insid...
+Hundreds of surfers and swimmers plunged into the ocean off Australia's Bondi Beach on Friday to pay tribute to the 15 people killed at a Jewish festival there on 14 December, in one of the country's worst mass shootings
 
-[2025-12-19 23:23:02](https://bsky.app/profile/reuters.com/post/3madvceltds2x)
+[2025-12-19 23:48:26](https://bsky.app/profile/en.afp.com/post/3madwprz6s42j)
 
 ---
 
-@axios.com
+@nhknewsunofficial.bsky.social
 
-The merger, if it goes through, will offer the first test of public markets' appetite for the tech.
+エナジック 野球部監督 体罰などで謹慎処分 日本学生野球協会
+https://news.web.nhk/newsweb/na/na-k10015009021000
 
-[2025-12-19 23:22:32](https://bsky.app/profile/axios.com/post/3madvbihbxk2x)
-
----
-
-@wsj.com
-
-Fusion could produce almost-limitless amounts of carbon-free energy if it can be harnessed on earth; President Trump’s media company is betting a breakthrough is imminent.
-
-[2025-12-19 23:21:18](https://bsky.app/profile/wsj.com/post/3madv7c26tb2z)
-
----
-
-@japan.reuters.com
-
-中国政府は１９日、米国防権限法（ＮＤＡＡ）に盛り込まれた「中国に否定的な条項」について、「強い不満と断固たる反対」を表明し、米国に実施を見送るよう求めた。 bit.ly/4snu2PR
-
-[2025-12-19 23:20:37](https://bsky.app/profile/japan.reuters.com/post/3madv622vpc27)
-
----
-
-@nbcnews.com
-
-President Trump suspends the green card lottery program that allowed the suspect in the Brown University and MIT shootings to come to the U.S.
-
-[2025-12-19 23:20:08](https://bsky.app/profile/nbcnews.com/post/3madv56qzzo2n)
+[2025-12-19 23:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madwp5iyzl2w)
 
 ---
 
 @reuters.com
 
-Big central banks signal rate-cut cycle is ending reut.rs/3Yo1ZSB
+US coffee drinkers face higher prices even after Trump's tariff reset reut.rs/4oZuH6P
 
-[2025-12-19 23:15:22](https://bsky.app/profile/reuters.com/post/3maduuo63zh2p)
+[2025-12-19 23:45:15](https://bsky.app/profile/reuters.com/post/3madwk3vtz523)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+ウズベキスタン大統領 重要鉱物開発など巡り日本の投資に期待
+https://news.web.nhk/newsweb/na/na-k10015008991000
+
+[2025-12-19 23:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madwjsun5p24)
 
 ---
 
 @cnbc.com
 
-Oracle stock jumps 5% as cloud provider joins investor group to run TikTok's U.S. business
+A reliable stock market indicator from Bank of America just triggered a sell signal
 
-[2025-12-19 23:13:27](https://bsky.app/profile/cnbc.com/post/3maduraa45f23)
+[2025-12-19 23:44:25](https://bsky.app/profile/cnbc.com/post/3madwilzjky2y)
+
+---
+
+@cnbc.com
+
+Palo Alto Networks announces multibillion-dollar deal with Google Cloud
+
+[2025-12-19 23:43:07](https://bsky.app/profile/cnbc.com/post/3madwgbmg7q2g)
+
+---
+
+@japan.reuters.com
+
+英国のブライアント貿易担当閣外相は１９日、政府が１０月にハッキング被害に遭っていたことを明らかにした。中国のハッカーグループがシステムに侵入し、外務省のデータに不正アクセスしたとする英紙サンの報道を一部認めた。 bit.ly/3MT5Q7n
+
+[2025-12-19 23:40:25](https://bsky.app/profile/japan.reuters.com/post/3madwbhi2ay2c)
+
+---
+
+@reuters.com
+
+German economic recovery to get a subdued start next year, Bundesbank says reut.rs/3Y60nN3
+
+[2025-12-19 23:40:24](https://bsky.app/profile/reuters.com/post/3madwbgb56k24)
+
+---
+
+@nbcnews.com
+
+European Union leaders agree to provide a massive interest-free loan to Ukraine to meet its military and economic needs for the next two years, EU Council President Antonio Costa says. 
+
+[2025-12-19 23:40:09](https://bsky.app/profile/nbcnews.com/post/3madway66bh2k)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+台湾 台北 男が複数人刺し2人死亡 男もビルから飛び降り死亡か
+https://news.web.nhk/newsweb/na/na-k10015008941000
+
+[2025-12-19 23:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madw72tleq2d)
 
 ---
 
