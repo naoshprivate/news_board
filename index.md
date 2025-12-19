@@ -1,9 +1,9 @@
-# [2025-12-19 16:30 updated](2025_12_19.md)
+# [2025-12-19 16:50 updated](2025_12_19.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">東京株式市場で日経平均は、前営業日比５０５円７１銭高の４万９５０７円２１銭と反発して取引を終えた。正午過ぎに日銀が金融政策決定会合で利上げを決めたことが伝わり、いったん材料出尽くしが意識されて後場に一段高になる場面があった。一方、引け後に控える植田和男総裁の記者会見を見極めたいとのムードも残り、買い一巡後は方向感に乏しくなった。 bit.ly/4q9MskQ <a href="https://bsky.app/profile/japan.reuters.com/post/3mad5mfyzub2n" target="_blank">japan.reuters.com</a> (2025-12-19 16:19:09)</span><span style="padding-right:50px;">Violent protests have erupted in Bangladesh, after the killing of youth leader Sharif Osman Hadi. Protesters burnt down buildings and vandalised offices, including the HQ of the largest daily newspaper. Hadi was standing as a candidate in elections scheduled for early next year. <a href="https://bsky.app/profile/aljazeera.com/post/3mad5ij4mdk2i" target="_blank">aljazeera.com</a> (2025-12-19 16:16:58)</span><span style="padding-right:50px;">UK borrows 11.7 billion pounds in November, ONS says reut.rs/4s2DYxI <a href="https://bsky.app/profile/reuters.com/post/3mad5feopuq2y" target="_blank">reuters.com</a> (2025-12-19 16:15:13)</span><span style="padding-right:50px;">NBA レイカーズ 八村塁 3試合ぶりのふた桁13得点で勝利に貢献 https://news.web.nhk/newsweb/na/na-k10015008491000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mad5f56lo22v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 16:15:03)</span><span style="padding-right:50px;">米国土安全保障省のノーム長官は１８日夜、米国市民権・移民局に対し、多様性抽選移民ビザ（ＤＶ１）制度を一時停止するよう指示したと述べた。 bit.ly/4qhMcR2 <a href="https://bsky.app/profile/japan.reuters.com/post/3mad5dpzql42c" target="_blank">japan.reuters.com</a> (2025-12-19 16:14:18)</span>
+<span style="padding-right:50px;">EU leaders have agreed to provide a $105bn interest-free loan to Ukraine for its defence over the next two years, but the money will not come from frozen Russian assets. <a href="https://bsky.app/profile/aljazeera.com/post/3mad75vxuls2i" target="_blank">aljazeera.com</a> (2025-12-19 16:46:50)</span><span style="padding-right:50px;">日銀の植田和男総裁は１９日、金融政策決定会合後の会見で、現在の実質金利はきわめて低水準との認識を示し、今後も日銀が示している経済・物価の見通しが実現していけば、引き続き政策金利を引き上げていくことになると述べた。「先行きの金利パスや金融緩和の度合いを調整するペースは、今後の経済、物価、金融情勢次第であり、毎回の決定会合で適切に判断していく」と語った。 bit.ly/3Y3jYgY <a href="https://bsky.app/profile/japan.reuters.com/post/3mad75lmmih2q" target="_blank">japan.reuters.com</a> (2025-12-19 16:46:39)</span><span style="padding-right:50px;">Indian shares track Asia gains after soft US inflation boosts easing bets reut.rs/4sn5NBl <a href="https://bsky.app/profile/reuters.com/post/3mad732asaz2r" target="_blank">reuters.com</a> (2025-12-19 16:45:14)</span><span style="padding-right:50px;">【詳細】日銀 植田総裁が会見 利上げ決定を受け https://news.web.nhk/newsweb/na/na-k10015008201000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mad72rnlqd26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 16:45:03)</span><span style="padding-right:50px;">市場調査グループＧｆＫとニュルンベルク市場判断研究所（ＮＩＭ）がまとめた２０２６年１月の独消費者信頼感指数はマイナス２６．９と、２５年１２月改定値のマイナス２３．４から低下した。 bit.ly/4aXCTRK <a href="https://bsky.app/profile/japan.reuters.com/post/3mad6z5sk7x2f" target="_blank">japan.reuters.com</a> (2025-12-19 16:44:10)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 156.22 (🔺0.69 : 2025-12-19)</span>
+<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 156.59 (🔺1.06 : 2025-12-19)</span>
   </div>
 </div>
 
@@ -32,96 +32,93 @@
 
 ## News Headlines
 
-Here are six news headlines in English:
-
-1. Japan's Nikkei Average Rises 505.71 Yen to 49,507.21 Yen
-2. Bangladesh Erupts in Violent Protests After Youth Leader's Killing
-3. US Borrows 11.7 Billion Pounds in November, ONS Says
-4. ByteDance Forms Joint Venture to Avoid US TikTok Ban
-5. Bank of Japan Raises Interest Rates to 30-Year High, Signals More Hikes
-6. Trump Administration Halts Green Card Lottery Program Citing Security Concerns
+1. EU Leaders Agree to Provide $105 Billion Interest-Free Loan to Ukraine
+2. Japan's Central Bank Hikes Interest Rates to 0.75%
+3. Indian Shares Track Asia Gains as US Inflation Eases
+4. Countries Added to Trump's Travel Ban See Pause on Legal Immigration
+5. UK Government Hacked in October, Minister Confirms
+6. US Citizenship and Immigration Services Pauses Diversity Visa Program
 
 ----
 
-@japan.reuters.com
-
-東京株式市場で日経平均は、前営業日比５０５円７１銭高の４万９５０７円２１銭と反発して取引を終えた。正午過ぎに日銀が金融政策決定会合で利上げを決めたことが伝わり、いったん材料出尽くしが意識されて後場に一段高になる場面があった。一方、引け後に控える植田和男総裁の記者会見を見極めたいとのムードも残り、買い一巡後は方向感に乏しくなった。 bit.ly/4q9MskQ
-
-[2025-12-19 16:19:09](https://bsky.app/profile/japan.reuters.com/post/3mad5mfyzub2n)
-
----
-
 @aljazeera.com
 
-Violent protests have erupted in Bangladesh, after the killing of youth leader Sharif Osman Hadi. Protesters burnt down buildings and vandalised offices, including the HQ of the largest daily newspaper. Hadi was standing as a candidate in elections scheduled for early next year.
+EU leaders have agreed to provide a $105bn interest-free loan to Ukraine for its defence over the next two years, but the money will not come from frozen Russian assets.
 
-[2025-12-19 16:16:58](https://bsky.app/profile/aljazeera.com/post/3mad5ij4mdk2i)
+[2025-12-19 16:46:50](https://bsky.app/profile/aljazeera.com/post/3mad75vxuls2i)
+
+---
+
+@japan.reuters.com
+
+日銀の植田和男総裁は１９日、金融政策決定会合後の会見で、現在の実質金利はきわめて低水準との認識を示し、今後も日銀が示している経済・物価の見通しが実現していけば、引き続き政策金利を引き上げていくことになると述べた。「先行きの金利パスや金融緩和の度合いを調整するペースは、今後の経済、物価、金融情勢次第であり、毎回の決定会合で適切に判断していく」と語った。 bit.ly/3Y3jYgY
+
+[2025-12-19 16:46:39](https://bsky.app/profile/japan.reuters.com/post/3mad75lmmih2q)
 
 ---
 
 @reuters.com
 
-UK borrows 11.7 billion pounds in November, ONS says reut.rs/4s2DYxI
+Indian shares track Asia gains after soft US inflation boosts easing bets reut.rs/4sn5NBl
 
-[2025-12-19 16:15:13](https://bsky.app/profile/reuters.com/post/3mad5feopuq2y)
+[2025-12-19 16:45:14](https://bsky.app/profile/reuters.com/post/3mad732asaz2r)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-NBA レイカーズ 八村塁 3試合ぶりのふた桁13得点で勝利に貢献
-https://news.web.nhk/newsweb/na/na-k10015008491000
+【詳細】日銀 植田総裁が会見 利上げ決定を受け
+https://news.web.nhk/newsweb/na/na-k10015008201000
 
-[2025-12-19 16:15:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mad5f56lo22v)
-
----
-
-@japan.reuters.com
-
-米国土安全保障省のノーム長官は１８日夜、米国市民権・移民局に対し、多様性抽選移民ビザ（ＤＶ１）制度を一時停止するよう指示したと述べた。 bit.ly/4qhMcR2
-
-[2025-12-19 16:14:18](https://bsky.app/profile/japan.reuters.com/post/3mad5dpzql42c)
+[2025-12-19 16:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mad72rnlqd26)
 
 ---
 
 @japan.reuters.com
 
-中国系動画投稿アプリ「ＴｉｋＴｏｋ（ティックトック）」が米政府による禁止措置を回避するため、米投資家主導の企業連合に米国事業の８０％強を売却する契約を締結した。ティックトックの周受資最高経営責任者（ＣＥＯ）が１８日、従業員に伝えた。 bit.ly/4pVMuNF
+市場調査グループＧｆＫとニュルンベルク市場判断研究所（ＮＩＭ）がまとめた２０２６年１月の独消費者信頼感指数はマイナス２６．９と、２５年１２月改定値のマイナス２３．４から低下した。 bit.ly/4aXCTRK
 
-[2025-12-19 16:10:31](https://bsky.app/profile/japan.reuters.com/post/3mad54xkuio2f)
+[2025-12-19 16:44:10](https://bsky.app/profile/japan.reuters.com/post/3mad6z5sk7x2f)
+
+---
+
+@cnbc.com
+
+CNBC Daily Open: Investors might not want to take U.S. inflation numbers in November at face value
+
+[2025-12-19 16:43:06](https://bsky.app/profile/cnbc.com/post/3mad6xamqjm2p)
 
 ---
 
 @reuters.com
 
-Trump urges 2028 astronaut moon landing in sweeping space policy order reut.rs/4s6M7kG
+Transfer roundup: Starting QBs, Penn State’s Chaz Coleman entering portal reut.rs/4ap4ZoN
 
-[2025-12-19 16:10:17](https://bsky.app/profile/reuters.com/post/3mad54kxclp24)
+[2025-12-19 16:40:20](https://bsky.app/profile/reuters.com/post/3mad6sbro7z2i)
 
 ---
 
 @japan.reuters.com
 
-シドニー株式市場の株価は上昇。金融株が上げを主導した。 bit.ly/3KCCYQk
+韓国銀行（中央銀行）は１９日、ウォン安是正に向け、国内の外国為替市場でドル供給を拡大することを目的とした臨時措置を発表した。 bit.ly/3LakdDR
 
-[2025-12-19 16:09:07](https://bsky.app/profile/japan.reuters.com/post/3mad52hwt6j2n)
-
----
-
-@nhknewsunofficial.bsky.social
-
-株価 値上がり 日銀利上げ決定で金融関連銘柄に買い注文広がる
-https://news.web.nhk/newsweb/na/na-k10015008301000
-
-[2025-12-19 16:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mad4v27wk22s)
+[2025-12-19 16:38:22](https://bsky.app/profile/japan.reuters.com/post/3mad6ordj3o2c)
 
 ---
 
 @reuters.com
 
-US military says it carried out strikes on two vessels, killing five reut.rs/4pLhQ9A
+Judge found guilty of obstructing arrest in Trump immigration crackdown reut.rs/492SE7t
 
-[2025-12-19 16:05:19](https://bsky.app/profile/reuters.com/post/3mad4to2t672y)
+[2025-12-19 16:35:14](https://bsky.app/profile/reuters.com/post/3mad6j5xrc324)
+
+---
+
+@npr.org
+
+Homeland Security Secretary Kristi Noem said in a post on the social platform X that, at Trump's direction, she is ordering the United States Citizenship and Immigration Services to pause the program. n.pr/3N99KJp
+
+[2025-12-19 16:33:33](https://bsky.app/profile/npr.org/post/3mad6g5rbkj2e)
 
 ---
 
