@@ -1,9 +1,9 @@
-# [2025-12-19 20:30 updated](2025_12_19.md)
+# [2025-12-19 20:50 updated](2025_12_19.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🇷🇺 Vladimir Putin on Friday hailed his troops' progress in Ukraine during an annual press conference in Moscow -- a staple of his 25-year rule -- with the Russian president emboldened by battlefield gains in Ukraine during a US diplomatic push to end the almost four-year war ➡️ u.afp.com/S8Uz <a href="https://bsky.app/profile/en.afp.com/post/3madljyri7y2y" target="_blank">en.afp.com</a> (2025-12-19 20:28:20)</span><span style="padding-right:50px;">欧州中央銀行（ＥＣＢ）理事会メンバーのエスクリバ・スペイン中銀総裁は１９日、金利を変更する理由はないとし、金融政策は当面安定的に推移するとの見通しを示した。 bit.ly/4j5YsBz <a href="https://bsky.app/profile/japan.reuters.com/post/3madlhuelly27" target="_blank">japan.reuters.com</a> (2025-12-19 20:27:09)</span><span style="padding-right:50px;">Bank of Korea announces temporary measures to boost dollar supply in FX market reut.rs/44Dwnfb <a href="https://bsky.app/profile/reuters.com/post/3madlecko5m2r" target="_blank">reuters.com</a> (2025-12-19 20:25:09)</span><span style="padding-right:50px;"> Inflation risk is still under-appreciated by investors ft.trib.al/h3qwGfy  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3madlcz6jg22k" target="_blank">financialtimes.com</a> (2025-12-19 20:24:26)</span><span style="padding-right:50px;">President Trump this week answered growing concerns in Asia that he could give China a pass on its increasing regional militarism with one of the largest-ever U.S. arms sales to Taiwan. <a href="https://bsky.app/profile/wsj.com/post/3madlck5vgz2o" target="_blank">wsj.com</a> (2025-12-19 20:24:10)</span>
+<span style="padding-right:50px;">三菱ＵＦＪ銀行、みずほ銀行、三井住友銀行は１９日、円の普通預金金利を０．２％から０．３％に引き上げると発表した。来年２月２日から改定する。 bit.ly/3Y3whda <a href="https://bsky.app/profile/japan.reuters.com/post/3madmidlef225" target="_blank">japan.reuters.com</a> (2025-12-19 20:45:18)</span><span style="padding-right:50px;">Luka Doncic's 45-point triple-double carries Lakers past Jazz reut.rs/4sl3Rcu <a href="https://bsky.app/profile/reuters.com/post/3madmia2xjw2b" target="_blank">reuters.com</a> (2025-12-19 20:45:15)</span><span style="padding-right:50px;">There’s a record 1.4 billion barrels of crude currently on the world’s oceans, pushing down benchmark prices and sending gasoline under $3 a gallon at the pump in the US. Read more: bloom.bg/4aVWIZE  📷: Justin Hamel/Bloomberg <a href="https://bsky.app/profile/bloomberg.com/post/3madmg6fk3d23" target="_blank">bloomberg.com</a> (2025-12-19 20:44:06)</span><span style="padding-right:50px;">“台北中心部 男が刃物で切りつけ 複数けが人” 台湾メディア https://news.web.nhk/newsweb/na/na-k10015008941000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madmclml2y2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 20:42:03)</span><span style="padding-right:50px;">GIVĒON treats performance as therapy, pouring out his heart like a bottle of wine. The R&B singer treats us to ballads and anthems of heartache, backed by strings and horns. n.pr/3Y6snjB <a href="https://bsky.app/profile/npr.org/post/3madmb3g5pz2x" target="_blank">npr.org</a> (2025-12-19 20:41:15)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.29 (🔺1.76 : 2025-12-19)</span>
+<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.25 (🔺1.73 : 2025-12-19)</span>
   </div>
 </div>
 
@@ -34,100 +34,95 @@
 
 Here are six important stories with headlines in English:
 
-1. Putin Stresses Ukraine Conflict Conditions Have Not Changed
-2. European Central Bank Official Says No Interest Rate Hike Needed
-3. US to Sell Taiwan $10 Billion in Arms Amid China Concerns
-4. Russian President Warns of Risk to European Central Bank Reserves
-5. Bangladesh Newspaper Staff Struggle to Breathe as Offices Set Ablaze
-6. US Congress Fails to Address Obamacare Subsidies Cliff Ahead of Deadline
+1. Three Japanese Banks Raise Deposit Interest Rates to 0.3%
+2. Luka Doncic's 45-point triple-double leads Lakers past Jazz
+3. Global Oil Glut Causes Gas Prices to Plummet Below $3 per Gallon
+4. Former Husband Found Guilty in German Pelicot Case
+5. Japanese Government and Komeito Agree on 2026 Tax Reform Plan
+6. Black Hawk Bridge to be Demolished After 94 Years
 
 ----
 
-@en.afp.com
-
-🇷🇺 Vladimir Putin on Friday hailed his troops' progress in Ukraine during an annual press conference in Moscow -- a staple of his 25-year rule -- with the Russian president emboldened by battlefield gains in Ukraine during a US diplomatic push to end the almost four-year war ➡️ u.afp.com/S8Uz
-
-[2025-12-19 20:28:20](https://bsky.app/profile/en.afp.com/post/3madljyri7y2y)
-
----
-
 @japan.reuters.com
 
-欧州中央銀行（ＥＣＢ）理事会メンバーのエスクリバ・スペイン中銀総裁は１９日、金利を変更する理由はないとし、金融政策は当面安定的に推移するとの見通しを示した。 bit.ly/4j5YsBz
+三菱ＵＦＪ銀行、みずほ銀行、三井住友銀行は１９日、円の普通預金金利を０．２％から０．３％に引き上げると発表した。来年２月２日から改定する。 bit.ly/3Y3whda
 
-[2025-12-19 20:27:09](https://bsky.app/profile/japan.reuters.com/post/3madlhuelly27)
-
----
-
-@reuters.com
-
-Bank of Korea announces temporary measures to boost dollar supply in FX market reut.rs/44Dwnfb
-
-[2025-12-19 20:25:09](https://bsky.app/profile/reuters.com/post/3madlecko5m2r)
-
----
-
-@financialtimes.com
-
- Inflation risk is still under-appreciated by investors ft.trib.al/h3qwGfy  | opinion
-
-[2025-12-19 20:24:26](https://bsky.app/profile/financialtimes.com/post/3madlcz6jg22k)
-
----
-
-@wsj.com
-
-President Trump this week answered growing concerns in Asia that he could give China a pass on its increasing regional militarism with one of the largest-ever U.S. arms sales to Taiwan.
-
-[2025-12-19 20:24:10](https://bsky.app/profile/wsj.com/post/3madlck5vgz2o)
-
----
-
-@nbcnews.com
-
-The man suspected of killing two students and wounding nine others in a shooting at Brown University before fatally shooting an MIT professor days later was found dead in a New Hampshire storage unit, officials say.
-
-[2025-12-19 20:20:21](https://bsky.app/profile/nbcnews.com/post/3madl3pqqz42r)
-
----
-
-@nikkei.com
-
-3メガバンク、普通預金金利0.3%に　日銀の利上げ受け
-www.nikkei.com/article/DGXZQO...
- 
-三菱UFJ、三井住友、みずほの3メガバンクと三井住友信託銀行が発表。いずれも2026年2月2日から適用します。
- 
-三菱UFJとみずほ銀行は住宅ローン利用者の約8割が使う変動型金利の指標、短期プライムレート（短プラ）も引き上げ。住宅ローン利用世帯の負担感は一段と増すことになります。
- 
-#ニュース
-
-[2025-12-19 20:16:39](https://bsky.app/profile/nikkei.com/post/3madkv3py4q2g)
+[2025-12-19 20:45:18](https://bsky.app/profile/japan.reuters.com/post/3madmidlef225)
 
 ---
 
 @reuters.com
 
-UK consumers reined in their shopping in run-up to budget reut.rs/3MMUmCs
+Luka Doncic's 45-point triple-double carries Lakers past Jazz reut.rs/4sl3Rcu
 
-[2025-12-19 20:15:18](https://bsky.app/profile/reuters.com/post/3madksonapq2b)
+[2025-12-19 20:45:15](https://bsky.app/profile/reuters.com/post/3madmia2xjw2b)
+
+---
+
+@bloomberg.com
+
+There’s a record 1.4 billion barrels of crude currently on the world’s oceans, pushing down benchmark prices and sending gasoline under $3 a gallon at the pump in the US. Read more: bloom.bg/4aVWIZE
+
+📷: Justin Hamel/Bloomberg
+
+[2025-12-19 20:44:06](https://bsky.app/profile/bloomberg.com/post/3madmg6fk3d23)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-高市首相 自民経済安保本部の提言 “安保関連3文書に反映を”
-https://news.web.nhk/newsweb/na/na-k10015008781000
+“台北中心部 男が刃物で切りつけ 複数けが人” 台湾メディア
+https://news.web.nhk/newsweb/na/na-k10015008941000
 
-[2025-12-19 20:15:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madkscona62d)
+[2025-12-19 20:42:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madmclml2y2b)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@npr.org
 
-Bangladesh newspaper staff 'gasping for air' as offices set ablaze
+GIVĒON treats performance as therapy, pouring out his heart like a bottle of wine. The R&B singer treats us to ballads and anthems of heartache, backed by strings and horns. n.pr/3Y6snjB
 
-[2025-12-19 20:11:20](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3madklmki6c2r)
+[2025-12-19 20:41:15](https://bsky.app/profile/npr.org/post/3madmb3g5pz2x)
+
+---
+
+@cnn.com
+
+A man accused of drugging, raping and filming his wife for several years is found guilty in what has been called the "German Pelicot" case.
+
+[2025-12-19 20:40:50](https://bsky.app/profile/cnn.com/post/3madmadbv2q2x)
+
+---
+
+@reuters.com
+
+Giannis Antetokounmpo 'locked in' with Bucks, not in on reported trade talks reut.rs/3YBlsit
+
+[2025-12-19 20:40:40](https://bsky.app/profile/reuters.com/post/3madma24cwu2i)
+
+---
+
+@japan.reuters.com
+
+自民党と日本維新の会は１９日、２０２６年度の与党税制改正大綱を決定した。防衛財源確保のため２７年１月から所得税額の１％を新たに徴収すると決める一方、「年収の壁」の１７８万円までの引き上げや自動車取得時に課税される「環境性能割」の廃止など国民民主党の主張も採用。少数与党として臨む来年度税制改正や当初予算編成に向けた国会の多数派形成を強く意識した内容となった。 bit.ly/3MDcfnn
+
+[2025-12-19 20:40:23](https://bsky.app/profile/japan.reuters.com/post/3madm7jg2oy2c)
+
+---
+
+@nbcnews.com
+
+The man suspected of killing two students and wounding nine others in a shooting at Brown University before fatally shooting an MIT professor days later is found dead in a New Hampshire storage unit, officials say.
+
+[2025-12-19 20:40:12](https://bsky.app/profile/nbcnews.com/post/3madm77nbea2u)
+
+---
+
+@japan.reuters.com
+
+オランダに本拠を置く半導体大手ネクスペリアの中国法人が、主要製品の２０２６年生産分を全てカバーするシリコンウエハーの供給を中国国内企業から確保したことが、内部文書で明らかになった。 bit.ly/4aYi5cS
+
+[2025-12-19 20:35:54](https://bsky.app/profile/japan.reuters.com/post/3madlxisiuv22)
 
 ---
 
