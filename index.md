@@ -1,9 +1,9 @@
-# [2025-12-20 02:50 updated](2025_12_20.md)
+# [2025-12-20 03:10 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">From @theathletic.com: President Trump signed a law that arms state and local police with the ability to take down drones at sporting events — a significant leap in stadium security after years of pressure from pro leagues. <a href="https://bsky.app/profile/nytimes.com/post/3maeastlngw2r" target="_blank">nytimes.com</a> (2025-12-20 02:49:05)</span><span style="padding-right:50px;">German court jails man for drugging, raping wife, posting assaults online reut.rs/4s6Z26m <a href="https://bsky.app/profile/reuters.com/post/3maealw6grs23" target="_blank">reuters.com</a> (2025-12-20 02:45:13)</span><span style="padding-right:50px;">Here's what to know about the diversity immigrant visas halted after Brown shooting <a href="https://bsky.app/profile/axios.com/post/3maeaknbkjs23" target="_blank">axios.com</a> (2025-12-20 02:44:31)</span><span style="padding-right:50px;">Stocks making the biggest moves midday: Lamb Weston, KB Home, Carnival, Oracle, CoreWeave & more <a href="https://bsky.app/profile/cnbc.com/post/3maeakcashj24" target="_blank">cnbc.com</a> (2025-12-20 02:44:19)</span><span style="padding-right:50px;">German court jails man for drugging, raping and filming wife for years <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maeag6vmwe26" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-20 02:42:01)</span>
+<span style="padding-right:50px;">UK museum displays thousands of African artefacts it knows almost nothing about reut.rs/4j3WLVj <a href="https://bsky.app/profile/reuters.com/post/3maebqctz5z2p" target="_blank">reuters.com</a> (2025-12-20 03:05:35)</span><span style="padding-right:50px;">UnitedHealth pledges operational changes after external audits reut.rs/4s1NFwB <a href="https://bsky.app/profile/reuters.com/post/3maebq37cm22y" target="_blank">reuters.com</a> (2025-12-20 03:05:27)</span><span style="padding-right:50px;">Turkey's Isbank CEO says economic programme may need a pause to avoid side effects reut.rs/4j6RFHR <a href="https://bsky.app/profile/reuters.com/post/3maebpt3umb2k" target="_blank">reuters.com</a> (2025-12-20 03:05:18)</span><span style="padding-right:50px;">Exclusive: US senator presses tanker giants over cartel-linked fuel smuggling at sea reut.rs/4p2dcTy <a href="https://bsky.app/profile/reuters.com/post/3maebplrxch2s" target="_blank">reuters.com</a> (2025-12-20 03:05:10)</span><span style="padding-right:50px;">From @theathleticfc.bsky.social: Exorbitant World Cup ticket prices are symptomatic of a greater issue across sports in America. Why have ticket prices soared in the U.S. while remaining comparatively low in most of the United Kingdom, Europe and elsewhere? <a href="https://bsky.app/profile/nytimes.com/post/3maebnnyqdn2y" target="_blank">nytimes.com</a> (2025-12-20 03:04:06)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48243.46 (🔺268.64 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23280.11 (🔺158.21 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.76 (🔺4.09 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.46 (🔺1.93 : 2025-12-19)</span>
+<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48261.00 (🔺286.18 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23281.66 (🔺159.76 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.18 (🔺3.51 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.44 (🔺1.91 : 2025-12-19)</span>
   </div>
 </div>
 
@@ -34,94 +34,92 @@
 
 Here are six important stories with headlines in English:
 
-1. Trump Signs Law to Allow Police to Disable Drones at Sporting Events
-2. German Man Sentenced to Jail for Drugging and Raping Wife
-3. US Labor Market Stuck in a Rut, New Jobs Report Shows
-4. US Judge Blocks Trump Administration's Plan to Alter Homelessness Funding
-5. Two Men Arrested for Killing 15 People at Hanukkah Celebration in Sydney
-6. Google Hires 20% of New AI Engineers from Former Employees
+1. UK Museum Displays Thousands of African Artifacts with Little Known History
+2. US Senator Presses Tanker Giants Over Cartel-Linked Fuel Smuggling
+3. US Stocks Plummet as Nike Hits Worst Day Since April Tariff-Driven Selloff
+4. DOJ to Release Trove of Documents Connected to Jeffrey Epstein
+5. Death Toll in US Military's Anti-Drug Operation Exceeds 100
+6. Wall Street Officials Predict Grim Outlook for 2026 Stock Market
 
 ----
 
-@nytimes.com
+@reuters.com
 
-From @theathletic.com: President Trump signed a law that arms state and local police with the ability to take down drones at sporting events — a significant leap in stadium security after years of pressure from pro leagues.
+UK museum displays thousands of African artefacts it knows almost nothing about reut.rs/4j3WLVj
 
-[2025-12-20 02:49:05](https://bsky.app/profile/nytimes.com/post/3maeastlngw2r)
+[2025-12-20 03:05:35](https://bsky.app/profile/reuters.com/post/3maebqctz5z2p)
 
 ---
 
 @reuters.com
 
-German court jails man for drugging, raping wife, posting assaults online reut.rs/4s6Z26m
+UnitedHealth pledges operational changes after external audits reut.rs/4s1NFwB
 
-[2025-12-20 02:45:13](https://bsky.app/profile/reuters.com/post/3maealw6grs23)
+[2025-12-20 03:05:27](https://bsky.app/profile/reuters.com/post/3maebq37cm22y)
 
 ---
 
-@axios.com
+@reuters.com
 
-Here's what to know about the diversity immigrant visas halted after Brown shooting
+Turkey's Isbank CEO says economic programme may need a pause to avoid side effects reut.rs/4j6RFHR
 
-[2025-12-20 02:44:31](https://bsky.app/profile/axios.com/post/3maeaknbkjs23)
+[2025-12-20 03:05:18](https://bsky.app/profile/reuters.com/post/3maebpt3umb2k)
+
+---
+
+@reuters.com
+
+Exclusive: US senator presses tanker giants over cartel-linked fuel smuggling at sea reut.rs/4p2dcTy
+
+[2025-12-20 03:05:10](https://bsky.app/profile/reuters.com/post/3maebplrxch2s)
+
+---
+
+@nytimes.com
+
+From @theathleticfc.bsky.social: Exorbitant World Cup ticket prices are symptomatic of a greater issue across sports in America. Why have ticket prices soared in the U.S. while remaining comparatively low in most of the United Kingdom, Europe and elsewhere?
+
+[2025-12-20 03:04:06](https://bsky.app/profile/nytimes.com/post/3maebnnyqdn2y)
 
 ---
 
 @cnbc.com
 
-Stocks making the biggest moves midday: Lamb Weston, KB Home, Carnival, Oracle, CoreWeave & more
+Santa Claus rally: What is it and will it occur this year?
 
-[2025-12-20 02:44:19](https://bsky.app/profile/cnbc.com/post/3maeakcashj24)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-German court jails man for drugging, raping and filming wife for years
-
-[2025-12-20 02:42:01](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maeag6vmwe26)
-
----
-
-@reuters.com
-
-Fed seeks feedback on limited 'payment accounts' for some firms reut.rs/4pLNtjh
-
-[2025-12-20 02:40:21](https://bsky.app/profile/reuters.com/post/3maead76vqs2y)
+[2025-12-20 03:03:28](https://bsky.app/profile/cnbc.com/post/3maebmjybyl2g)
 
 ---
 
 @wsj.com
 
-Three months after Charlie Kirk was shot and killed, his commitment to open debate is at the center of a bitter fight within the MAGA movement over the rise of antisemitic ideas and conspiracy theories.
+The deal at Seaway at the Surf Club set a condo record for Miami-Dade County. on.wsj.com/48KAQPE
 
-[2025-12-20 02:40:19](https://bsky.app/profile/wsj.com/post/3maead5tbt52c)
+[2025-12-20 03:02:56](https://bsky.app/profile/wsj.com/post/3maeblle34t2e)
 
 ---
 
-@nytimes.com
+@cnbc.com
 
-Here is what we know about the two men that opened fire and killed 15 people at a Hanukkah celebration on Bondi Beach in Sydney, Australia.
+Nike is headed for its worst day since the tariff-driven selloff in April. Here's what's tripping up the stock today. #CNBCData cnb.cx/4aYZD3Q
 
-[2025-12-20 02:40:04](https://bsky.app/profile/nytimes.com/post/3maeacpegve2z)
+[2025-12-20 03:01:34](https://bsky.app/profile/cnbc.com/post/3maebj5pfor25)
 
 ---
 
 @reuters.com
 
-Court in Brazil's Minas Gerais slaps down Nestle copyright lawsuit reut.rs/3YH0jDu
+London's FTSE 100 climbs as miners, defence outperform in data-heavy week reut.rs/4snYbhZ
 
-[2025-12-20 02:35:10](https://bsky.app/profile/reuters.com/post/3mae7zwfa2r2b)
+[2025-12-20 03:01:31](https://bsky.app/profile/reuters.com/post/3maebj2khnl2r)
 
 ---
 
-@nytimes.com
+@usatoday.com
 
-From @theathletic.com: "They thought it was over," Ernest Jones IV said. But Seattle got the last laugh. 
+Why is Coastal Carolina's field teal? Here's how Brooks Stadium's turf field came to be.
 
-When the clock finally stopped ticking, the scoreboard read: Seahawks 38, Rams 37. The significance of those numbers cannot be overstated.
-
-[2025-12-20 02:35:04](https://bsky.app/profile/nytimes.com/post/3mae7zrcl6v2r)
+[2025-12-20 03:01:05](https://bsky.app/profile/usatoday.com/post/3maebibgjen2f)
 
 ---
 
