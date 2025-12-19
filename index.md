@@ -1,9 +1,9 @@
-# [2025-12-19 17:30 updated](2025_12_19.md)
+# [2025-12-19 17:50 updated](2025_12_19.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">ニデックは１９日、永守重信氏が同日付で代表取締役グローバルグループ代表を辞任したと発表した。本人の意向によるものという。永守氏が務めていた取締役会議長の後任には、岸田光哉社長が就く。 bit.ly/4sanIeo <a href="https://bsky.app/profile/japan.reuters.com/post/3madbjcgmni2p" target="_blank">japan.reuters.com</a> (2025-12-19 17:29:00)</span><span style="padding-right:50px;">英国立統計局（ＯＮＳ）が１９日発表した１１月の公的部門純借入額は１１７億ポンド（１５６億４０００万ドル）だった。１１月の財政赤字としては２０２１年以来最小となったものの、エコノミスト予想（１００億ポンド）以上の規模となった。 bit.ly/4qfGnDs <a href="https://bsky.app/profile/japan.reuters.com/post/3madbesfihi2p" target="_blank">japan.reuters.com</a> (2025-12-19 17:26:29)</span><span style="padding-right:50px;">イングランド銀行（英中央銀行）は１８日、政策金利を０．２５％ポイント引き下げ３．７５％とすることを決定した。５対４の僅差での決定で、すでに緩やかなペースとなっている利下げが今後さらに減速する可能性を示唆した。 bit.ly/4j4HHH3 <a href="https://bsky.app/profile/japan.reuters.com/post/3madbculfrr2q" target="_blank">japan.reuters.com</a> (2025-12-19 17:25:24)</span><span style="padding-right:50px;">Oilers goalie Tristan Jarry leaves with injury reut.rs/4aXFqeI <a href="https://bsky.app/profile/reuters.com/post/3madbcotq632o" target="_blank">reuters.com</a> (2025-12-19 17:25:18)</span><span style="padding-right:50px;">中立金利とは　景気を刺激も冷やしもしない水準（無料記事） www.nikkei.com/article/DGXZQO... <a href="https://bsky.app/profile/nikkei.com/post/3madbalyvi726" target="_blank">nikkei.com</a> (2025-12-19 17:24:08)</span>
+<span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】レスリング全日本選手権 日体大の吉田泰造選手（高松北高出身）が優勝【香川】 (2025-12-19 17:40) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3madchpwujt2x" target="_blank">sokuho.news</a> (2025-12-19 17:46:00)</span><span style="padding-right:50px;">米政府高官が先週、難民として米国に渡航する南アフリカの白人に対し、歓迎セットの一つとして子ども向けに書かれたトランプ大統領の伝記を配布することを提案した。 bit.ly/4j21vuG <a href="https://bsky.app/profile/japan.reuters.com/post/3madcgkpsq22s" target="_blank">japan.reuters.com</a> (2025-12-19 17:45:21)</span><span style="padding-right:50px;">Texas fires DC Pete Kwiatkowski, brings back Will Muschamp reut.rs/4j2gDYS <a href="https://bsky.app/profile/reuters.com/post/3madcg7pcnm2o" target="_blank">reuters.com</a> (2025-12-19 17:45:10)</span><span style="padding-right:50px;">The video stream appeared to show a YouTuber, who describes himself as "a shepherd for individual investors." Read more: bloom.bg/490FS9D  📷️: whitehouse.gov  <a href="https://bsky.app/profile/bloomberg.com/post/3madcg43p272a" target="_blank">bloomberg.com</a> (2025-12-19 17:45:06)</span><span style="padding-right:50px;">中国政府は１９日、米国防権限法（ＮＤＡＡ）に盛り込まれた「中国に否定的な条項」について、「強い不満と断固たる反対」を表明し、米国に実施を見送るよう求めた。 bit.ly/4j5uA8B <a href="https://bsky.app/profile/japan.reuters.com/post/3madcb7x7ed27" target="_blank">japan.reuters.com</a> (2025-12-19 17:42:22)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 156.81 (🔺1.28 : 2025-12-19)</span>
+<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 156.88 (🔺1.35 : 2025-12-19)</span>
   </div>
 </div>
 
@@ -32,99 +32,99 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are six news headlines in English:
 
-1. Nidec CEO to Step Down Amid Accounting Scandal
-2. UK Budget Deficit Hits Record Low in November Despite Larger Than Expected Deficit
-3. Bank of England Cuts Interest Rates to 3.75% Amid Economic Uncertainty
-4. France Sees Moderate Economic Growth in Next Few Years Despite Ongoing Uncertainty
-5. Japanese Government Keeps Economic Outlook Steady as Inflation Concerns Persist
-6. Japan's Central Bank to Maintain Expansionary Monetary Policy Amid Economic Uncertainty
+1. Japanese Wrestler Wins National Championship
+2. US Official Proposed Distributing Trump Biography to South African White Refugees
+3. Texas Fires DC Pete Kwiatkowski, Brings Back Will Muschamp
+4. Sharp Upgraded by S&P Global Rating Amid Debt Restructuring Talks
+5. BOJ Raises Policy Rate to 0.75%, Long-Term Interest Rate Hits 20.20%
+6. Trump Administration Investigates AI Chips for Export to China
 
 ----
 
-@japan.reuters.com
+@sokuho.news
 
-ニデックは１９日、永守重信氏が同日付で代表取締役グローバルグループ代表を辞任したと発表した。本人の意向によるものという。永守氏が務めていた取締役会議長の後任には、岸田光哉社長が就く。 bit.ly/4sanIeo
+🛎️FNNより【速報】です。
 
-[2025-12-19 17:29:00](https://bsky.app/profile/japan.reuters.com/post/3madbjcgmni2p)
+【速報】レスリング全日本選手権 日体大の吉田泰造選手（高松北高出身）が優勝【香川】
+(2025-12-19 17:40) #ニュース
 
----
-
-@japan.reuters.com
-
-英国立統計局（ＯＮＳ）が１９日発表した１１月の公的部門純借入額は１１７億ポンド（１５６億４０００万ドル）だった。１１月の財政赤字としては２０２１年以来最小となったものの、エコノミスト予想（１００億ポンド）以上の規模となった。 bit.ly/4qfGnDs
-
-[2025-12-19 17:26:29](https://bsky.app/profile/japan.reuters.com/post/3madbesfihi2p)
+[2025-12-19 17:46:00](https://bsky.app/profile/sokuho.news/post/3madchpwujt2x)
 
 ---
 
 @japan.reuters.com
 
-イングランド銀行（英中央銀行）は１８日、政策金利を０．２５％ポイント引き下げ３．７５％とすることを決定した。５対４の僅差での決定で、すでに緩やかなペースとなっている利下げが今後さらに減速する可能性を示唆した。 bit.ly/4j4HHH3
+米政府高官が先週、難民として米国に渡航する南アフリカの白人に対し、歓迎セットの一つとして子ども向けに書かれたトランプ大統領の伝記を配布することを提案した。 bit.ly/4j21vuG
 
-[2025-12-19 17:25:24](https://bsky.app/profile/japan.reuters.com/post/3madbculfrr2q)
+[2025-12-19 17:45:21](https://bsky.app/profile/japan.reuters.com/post/3madcgkpsq22s)
 
 ---
 
 @reuters.com
 
-Oilers goalie Tristan Jarry leaves with injury reut.rs/4aXFqeI
+Texas fires DC Pete Kwiatkowski, brings back Will Muschamp reut.rs/4j2gDYS
 
-[2025-12-19 17:25:18](https://bsky.app/profile/reuters.com/post/3madbcotq632o)
-
----
-
-@nikkei.com
-
-中立金利とは　景気を刺激も冷やしもしない水準（無料記事）
-www.nikkei.com/article/DGXZQO...
-
-[2025-12-19 17:24:08](https://bsky.app/profile/nikkei.com/post/3madbalyvi726)
+[2025-12-19 17:45:10](https://bsky.app/profile/reuters.com/post/3madcg7pcnm2o)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@bloomberg.com
 
-ニデック永守重信氏 代表取締役辞任 不適切会計問題で調査中
-https://news.web.nhk/newsweb/na/na-k10015008591000
+The video stream appeared to show a YouTuber, who describes himself as "a shepherd for individual investors." Read more: bloom.bg/490FS9D
 
-[2025-12-19 17:24:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madbbnl3kb2b)
+📷️: whitehouse.gov 
 
----
-
-@sokuho.news
-
-<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>ニデック永守重信氏 代表取締役辞任 不適切会計問題で調査中</strong><br><strong>(2025-12-19 17:21:59) #ニュース</strong><br><strong>https://news.web.nhk/newsweb/na/na-k10015008591000</strong>
-
-[2025-12-19 17:22:21](https://bsky.app/profile/sokuho.news/post/3madb5gjxhw2v)
+[2025-12-19 17:45:06](https://bsky.app/profile/bloomberg.com/post/3madcg43p272a)
 
 ---
 
 @japan.reuters.com
 
-現物市場で新発１０年国債利回り（長期金利）は前日比３．５ベーシスポイント（ｂｐ）上昇の２．０００％と、２００６年５月以来１９年半ぶりの高水準を付けた。新発２年国債利回りは同２．０ｂｐ上昇の１．０８５％と、０７年６月以来１８年半ぶり高水準を付けた。 bit.ly/4pTKcPi
+中国政府は１９日、米国防権限法（ＮＤＡＡ）に盛り込まれた「中国に否定的な条項」について、「強い不満と断固たる反対」を表明し、米国に実施を見送るよう求めた。 bit.ly/4j5uA8B
 
-[2025-12-19 17:20:26](https://bsky.app/profile/japan.reuters.com/post/3madb3muxfi2u)
+[2025-12-19 17:42:22](https://bsky.app/profile/japan.reuters.com/post/3madcb7x7ed27)
 
 ---
 
 @japan.reuters.com
 
-フランス銀行（中央銀行）は１９日、長期経済予測を更新した。政治的な不透明感が解消されれば、家計消費の回復や企業投資に支えられ、今後数年間は緩やかながらも着実な成長を遂げるとの見通しを示した。 bit.ly/44BYf3d
+Ｓ＆Ｐグローバル・レーティングは１９日、シャープを格上げ方向の「クレジット・ウォッチ」に指定したと発表した。銀行団との大規模な借り換え協議が進展しているとみているため。借り換えが確定した場合、現在のＢマイナスから一段階引き上げる可能性が高いという。 bit.ly/4pSzIj8
 
-[2025-12-19 17:20:12](https://bsky.app/profile/japan.reuters.com/post/3madazlid5q22)
+[2025-12-19 17:40:42](https://bsky.app/profile/japan.reuters.com/post/3madc6al5td2v)
 
 ---
 
-@sokuho.news
+@japan.reuters.com
 
-🔔NHKより【速報】です。
+日銀は１８、１９日に開いた金融政策決定会合で、政策金利である無担保コール翌日物金利の誘導目標を０．７５％に引き上げることを全員一致で決めた。これを受け、円債市場では、新発１０年国債利回り（長期金利）は２．０２０％と、１９９９年８月以来の高水準を付けた。 bit.ly/4qhTGU8
 
-二デック永守重信氏 代表取締役を辞任 不適切会計問題で第三者委の調査進む中
-(2025-12-19 17:18) #ニュース
+[2025-12-19 17:40:23](https://bsky.app/profile/japan.reuters.com/post/3madc5obsuq22)
 
-[2025-12-19 17:19:09](https://bsky.app/profile/sokuho.news/post/3madaxoyxea2y)
+---
+
+@reuters.com
+
+Rugby-Mighty Springboks continue to set the standards reut.rs/3KQ0aup
+
+[2025-12-19 17:40:16](https://bsky.app/profile/reuters.com/post/3madc5i2ajy2c)
+
+---
+
+@japan.reuters.com
+
+月例経済報告の景気判断の推移は以下の通り。 bit.ly/48ZvNJY
+
+[2025-12-19 17:38:04](https://bsky.app/profile/japan.reuters.com/post/3madbzjcn2p2f)
+
+---
+
+@japan.reuters.com
+
+トランプ米大統領は１８日、来年５月に任期が切れる連邦準備理事会（ＦＲＢ）のパウエル議長の後任候補として、前日にウォラーＦＲＢ理事と面会したと明らかにし、「素晴らしい人物だ」と称賛した。議長候補として現在３─４人が最終選考に残っているとした。 bit.ly/3Y5C55P
+
+[2025-12-19 17:35:28](https://bsky.app/profile/japan.reuters.com/post/3madbuueh5m2q)
 
 ---
 
