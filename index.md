@@ -1,9 +1,9 @@
-# [2025-12-19 21:50 updated](2025_12_19.md)
+# [2025-12-19 22:10 updated](2025_12_19.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">An unpredictable and exciting college football season is coming to a close. This weekend's first-round slate is set up for two tight games and two blowouts — but in the playoffs, anything goes. n.pr/3XZGbfM <a href="https://bsky.app/profile/npr.org/post/3madq26vrxx2n" target="_blank">npr.org</a> (2025-12-19 21:48:58)</span><span style="padding-right:50px;">Wall Street banked on a flurry of deals under Trump in 2025. It wasn't that simple <a href="https://bsky.app/profile/cnbc.com/post/3madpz73xit2x" target="_blank">cnbc.com</a> (2025-12-19 21:48:25)</span><span style="padding-right:50px;">The attack on a Hanukkah celebration shocked the world, but the extraordinary acts of bravery heartened many in Australia and beyond. <a href="https://bsky.app/profile/wsj.com/post/3madpxxms4a2h" target="_blank">wsj.com</a> (2025-12-19 21:47:44)</span><span style="padding-right:50px;">As Trump accounts debut for kids, some experts say the government should focus on retirement savings next <a href="https://bsky.app/profile/cnbc.com/post/3madpwu4hdv23" target="_blank">cnbc.com</a> (2025-12-19 21:47:07)</span><span style="padding-right:50px;">英国立統計局（ＯＮＳ）が１９日発表した１１月の小売売上高は前月比０．１％減と、エコノミスト予想（０．４％増）に反してマイナスとなった。 bit.ly/4j5GGi1 <a href="https://bsky.app/profile/japan.reuters.com/post/3madptrjsck25" target="_blank">japan.reuters.com</a> (2025-12-19 21:45:23)</span>
+<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】台湾で複数の切りつけ事件 発煙弾投げ込みも… これまでに2人死亡 犯人は別の事件で指名手配中の27歳男 警察官に取り囲まれ屋上から飛び降りる (2025-12-19 21:26:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3madr3yxmnw2x" target="_blank">sokuho.news</a> (2025-12-19 22:07:53)</span><span style="padding-right:50px;">中国国防省は１９日、米国による１１１億ドル規模の対台湾武器売却計画を受け、中国軍が訓練を強化し「国家の主権と領土の一体性を守るため強力な措置を講じる」との声明を発表した。 bit.ly/3KUkScA <a href="https://bsky.app/profile/japan.reuters.com/post/3madqxhybyf2q" target="_blank">japan.reuters.com</a> (2025-12-19 22:05:21)</span><span style="padding-right:50px;">China, US seek Thailand-Cambodia ceasefire ahead of ASEAN meeting reut.rs/4pSOo1I <a href="https://bsky.app/profile/reuters.com/post/3madqxda5w72y" target="_blank">reuters.com</a> (2025-12-19 22:05:16)</span><span style="padding-right:50px;">TikTok parent Bytedance has formalized agreements with investors to form a new U.S. joint venture, as it works to complete a deal to prevent the app from being banned in the U.S. over national security concerns. <a href="https://bsky.app/profile/wsj.com/post/3madqwumls62s" target="_blank">wsj.com</a> (2025-12-19 22:05:01)</span><span style="padding-right:50px;">It was a big night for Morocco fans after their team's win in the FIFA Arab Cup final in Qatar on Thursday. Al Jazeera’s Andrew Richardson spoke to some of them. <a href="https://bsky.app/profile/aljazeera.com/post/3madqq7gbks2i" target="_blank">aljazeera.com</a> (2025-12-19 22:01:18)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.23 (🔺1.70 : 2025-12-19)</span>
+<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.23 (🔺1.71 : 2025-12-19)</span>
   </div>
 </div>
 
@@ -34,93 +34,100 @@
 
 Here are six news headlines in English:
 
-1. Trump Administration to Release Long-Suppressed Jeffrey Epstein Records
-2. European Leaders Commit to Lend Ukraine $105 Billion to Fight Russian Invasion
-3. German Producer Prices Fall 2.3% YoY in November
-4. Fed Members Meet with Trump to Discuss Next Chairman
-5. Lululemon Should Roll Out the Red Carpet for Elliott
-6. Trump Orders Suspension of US Green-Card Lottery Program
+1. Taiwan Relaxes Exporter Dollar Sales to Halt Currency Depreciation
+2. US and China Seek Ceasefire in Thailand-Cambodia Conflict Ahead of ASEAN Meeting
+3. TikTok Parent Company Forms US Joint Venture to Prevent App Ban
+4. Australia to Establish National Gun Buyback Program After Mass Shooting
+5. French Central Bank Sees Higher Growth Ahead if Political Uncertainty Eases
+6. Trump Administration Stops Special Visa Program for Immigrants
 
 ----
 
-@npr.org
+@sokuho.news
 
-An unpredictable and exciting college football season is coming to a close. This weekend's first-round slate is set up for two tight games and two blowouts — but in the playoffs, anything goes. n.pr/3XZGbfM
+🛎️JNNより【速報】です。
 
-[2025-12-19 21:48:58](https://bsky.app/profile/npr.org/post/3madq26vrxx2n)
+【速報】台湾で複数の切りつけ事件 発煙弾投げ込みも… これまでに2人死亡 犯人は別の事件で指名手配中の27歳男 警察官に取り囲まれ屋上から飛び降りる
+(2025-12-19 21:26:00) #ニュース
 
----
-
-@cnbc.com
-
-Wall Street banked on a flurry of deals under Trump in 2025. It wasn't that simple
-
-[2025-12-19 21:48:25](https://bsky.app/profile/cnbc.com/post/3madpz73xit2x)
-
----
-
-@wsj.com
-
-The attack on a Hanukkah celebration shocked the world, but the extraordinary acts of bravery heartened many in Australia and beyond.
-
-[2025-12-19 21:47:44](https://bsky.app/profile/wsj.com/post/3madpxxms4a2h)
-
----
-
-@cnbc.com
-
-As Trump accounts debut for kids, some experts say the government should focus on retirement savings next
-
-[2025-12-19 21:47:07](https://bsky.app/profile/cnbc.com/post/3madpwu4hdv23)
+[2025-12-19 22:07:53](https://bsky.app/profile/sokuho.news/post/3madr3yxmnw2x)
 
 ---
 
 @japan.reuters.com
 
-英国立統計局（ＯＮＳ）が１９日発表した１１月の小売売上高は前月比０．１％減と、エコノミスト予想（０．４％増）に反してマイナスとなった。 bit.ly/4j5GGi1
+中国国防省は１９日、米国による１１１億ドル規模の対台湾武器売却計画を受け、中国軍が訓練を強化し「国家の主権と領土の一体性を守るため強力な措置を講じる」との声明を発表した。 bit.ly/3KUkScA
 
-[2025-12-19 21:45:23](https://bsky.app/profile/japan.reuters.com/post/3madptrjsck25)
-
----
-
-@reuters.com
-
-French central bank sees higher growth ahead - if political clouds clear reut.rs/3N9raph
-
-[2025-12-19 21:45:16](https://bsky.app/profile/reuters.com/post/3madptkd6rx2i)
-
----
-
-@nhknewsunofficial.bsky.social
-
-自民 萩生田氏 21日から台湾訪問 頼総統と面会の方向で調整
-https://news.web.nhk/newsweb/na/na-k10015008651000
-
-[2025-12-19 21:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madptactcc2u)
-
----
-
-@cnbc.com
-
-Quad witching, Nike slides, weed rules and more in Morning Squawk
-
-[2025-12-19 21:44:25](https://bsky.app/profile/cnbc.com/post/3madps27qis2x)
+[2025-12-19 22:05:21](https://bsky.app/profile/japan.reuters.com/post/3madqxhybyf2q)
 
 ---
 
 @reuters.com
 
-One big question from TikTok's divestment from its US business: who will own the all-powerful algorithm? Listen to today's Morning Bid podcast to know more reut.rs/48VETZD
+China, US seek Thailand-Cambodia ceasefire ahead of ASEAN meeting reut.rs/4pSOo1I
 
-[2025-12-19 21:43:29](https://bsky.app/profile/reuters.com/post/3madpqebk5c2l)
+[2025-12-19 22:05:16](https://bsky.app/profile/reuters.com/post/3madqxda5w72y)
+
+---
+
+@wsj.com
+
+TikTok parent Bytedance has formalized agreements with investors to form a new U.S. joint venture, as it works to complete a deal to prevent the app from being banned in the U.S. over national security concerns.
+
+[2025-12-19 22:05:01](https://bsky.app/profile/wsj.com/post/3madqwumls62s)
+
+---
+
+@aljazeera.com
+
+It was a big night for Morocco fans after their team's win in the FIFA Arab Cup final in Qatar on Thursday. Al Jazeera’s Andrew Richardson spoke to some of them.
+
+[2025-12-19 22:01:18](https://bsky.app/profile/aljazeera.com/post/3madqq7gbks2i)
+
+---
+
+@reuters.com
+
+Taiwan relaxes exporter dollar sales to halt currency depreciation, traders say reut.rs/490SEVD
+
+[2025-12-19 22:01:06](https://bsky.app/profile/reuters.com/post/3madqpuqf4p2y)
 
 ---
 
 @cnbc.com
 
-UnitedHealth Group commits to improvements after independent audit, patient backlash
+In January, Tim Riegel realized his side hustle profit margins were shrinking, due to rising costs of goods. So, he raised his prices and started earning more money.
 
-[2025-12-19 21:43:15](https://bsky.app/profile/cnbc.com/post/3madppxa5gl24)
+[2025-12-19 22:01:00](https://bsky.app/profile/cnbc.com/post/3madqpoiwco2m)
+
+---
+
+@usatoday.com
+
+The first "Avengers: Doomsday" trailer has arrived, revealing one of Marvel's most beloved heroes will make a surprise return.
+
+[2025-12-19 22:00:54](https://bsky.app/profile/usatoday.com/post/3madqpilm2g2z)
+
+---
+
+@nikkei.com
+
+米、永住権の特別制度を停止　日本人に影響も（無料記事）
+www.nikkei.com/article/DGXZQO...
+
+AP通信によると、トランプ政権は移民に抽選で永住権を与える特別なビザ制度を停止しました。
+
+遺体で見つかったブラウン大銃撃事件の容疑者が制度を利用して入国し永住権を取得していたとし、安全確保を理由に挙げました。
+
+[2025-12-19 22:00:53](https://bsky.app/profile/nikkei.com/post/3madqpi23ep2x)
+
+---
+
+@apnews.com
+
+Miami and Texas A&M are both in the College Football Playoff for the first time where the Hurricanes are contending for their sixth national championship and first since 2001.
+
+[2025-12-19 22:00:50](https://bsky.app/profile/apnews.com/post/3madqperueh2d)
 
 ---
 
