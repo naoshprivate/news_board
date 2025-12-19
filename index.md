@@ -1,9 +1,9 @@
-# [2025-12-19 19:10 updated](2025_12_19.md)
+# [2025-12-19 19:30 updated](2025_12_19.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">「メガソーラー」規制に関する政府の対策パッケージ案明らかに https://news.web.nhk/newsweb/na/na-k10015008681000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madh4bq7im26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 19:09:03)</span><span style="padding-right:50px;">🇺🇸 A man believed to be behind both a mass shooting at Brown University and the killing of an MIT professor has been found dead after a days-long manhunt, authorities said on Thursday ➡️ u.afp.com/S8Ux <a href="https://bsky.app/profile/en.afp.com/post/3madgzlx7rk2v" target="_blank">en.afp.com</a> (2025-12-19 19:07:35)</span><span style="padding-right:50px;">If you're tempted to bail on potentially fun events becuase you feel awkward, read this. Level up your small talk game and practice social courage with six tips from psychologists. n.pr/3MD63M9 <a href="https://bsky.app/profile/npr.org/post/3madgx57c2224" target="_blank">npr.org</a> (2025-12-19 19:06:13)</span><span style="padding-right:50px;">UK competition watchdog to probe AB Foods' Hovis purchase reut.rs/490IeFv <a href="https://bsky.app/profile/reuters.com/post/3madgvcekth2i" target="_blank">reuters.com</a> (2025-12-19 19:05:11)</span><span style="padding-right:50px;">刑事司法制度めぐり新たな研究会 録音・録画の対象範囲議論へ https://news.web.nhk/newsweb/na/na-k10015008541000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madgriyewu26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 19:03:02)</span>
+<span style="padding-right:50px;">高校授業料と給食費の無償化 国と地方が円滑な実施に向け連携 https://news.web.nhk/newsweb/na/na-k10015008661000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madi4hktdn2l" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 19:27:03)</span><span style="padding-right:50px;">US Homeland Security orders pause of DV1 visa program reut.rs/4s6N10A <a href="https://bsky.app/profile/reuters.com/post/3madhz2ybgf2y" target="_blank">reuters.com</a> (2025-12-19 19:25:11)</span><span style="padding-right:50px;">China blamed for UK government cyber attack ft.trib.al/HdbhTS2 <a href="https://bsky.app/profile/financialtimes.com/post/3madhyrd6ap2q" target="_blank">financialtimes.com</a> (2025-12-19 19:25:01)</span><span style="padding-right:50px;">危うい米国の対ベネズエラ圧力（無料記事） www.nikkei.com/article/DGXZQO...  米政権は麻薬カルテルと「戦争状態」にあるとみなして攻撃を正当化するが、法的根拠を明確にしなければならない。合法性を疑う声は米国内にもある――。  米政権がマドゥロ政権への威嚇を続けています。ベネズエラ情勢を巡る社説です。 <a href="https://bsky.app/profile/nikkei.com/post/3madhuxs6bu2m" target="_blank">nikkei.com</a> (2025-12-19 19:22:54)</span><span style="padding-right:50px;"> Management consultants’ new gravy train: buying other companies ft.trib.al/l3BZC4L  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3madhuke27g2f" target="_blank">financialtimes.com</a> (2025-12-19 19:22:39)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.19 (🔺1.66 : 2025-12-19)</span>
+<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.27 (🔺1.74 : 2025-12-19)</span>
   </div>
 </div>
 
@@ -34,108 +34,100 @@
 
 Here are six news headlines in English:
 
-1. Japan's government sets out measures to regulate large-scale solar power projects
-2. US man suspected of Brown University shooting and MIT professor's murder found dead
-3. UK watchdog to probe AB Foods' Hovis purchase
-4. Taiwan eases export restrictions on US dollar sales to stabilize currency
-5. Euro area growth highly uncertain due to trade war and tensions, ECB's Rehn says
-6. Taiwan, US, Qatar, and Turkey to meet for Gaza ceasefire talks
+1. Japan and local governments collaborate for smooth implementation of free education and meal fees 
+2. US Suspends DV1 Visa Program Amid Security Concerns
+3. China blamed for UK government cyber attack
+4. BMW Recalls 36,922 Vehicles in the US
+5. Denmark's Maersk Ship Successfully Navigates Red Sea and Bab-el-Mandeb Strait After 2 Years
+6. US to Host Ceasefire Talks with Qatari, Turkish, and Egyptian Officials Over Gaza Conflict
 
 ----
 
 @nhknewsunofficial.bsky.social
 
-「メガソーラー」規制に関する政府の対策パッケージ案明らかに
-https://news.web.nhk/newsweb/na/na-k10015008681000
+高校授業料と給食費の無償化 国と地方が円滑な実施に向け連携
+https://news.web.nhk/newsweb/na/na-k10015008661000
 
-[2025-12-19 19:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madh4bq7im26)
-
----
-
-@en.afp.com
-
-🇺🇸 A man believed to be behind both a mass shooting at Brown University and the killing of an MIT professor has been found dead after a days-long manhunt, authorities said on Thursday ➡️ u.afp.com/S8Ux
-
-[2025-12-19 19:07:35](https://bsky.app/profile/en.afp.com/post/3madgzlx7rk2v)
-
----
-
-@npr.org
-
-If you're tempted to bail on potentially fun events becuase you feel awkward, read this. Level up your small talk game and practice social courage with six tips from psychologists. n.pr/3MD63M9
-
-[2025-12-19 19:06:13](https://bsky.app/profile/npr.org/post/3madgx57c2224)
+[2025-12-19 19:27:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madi4hktdn2l)
 
 ---
 
 @reuters.com
 
-UK competition watchdog to probe AB Foods' Hovis purchase reut.rs/490IeFv
+US Homeland Security orders pause of DV1 visa program reut.rs/4s6N10A
 
-[2025-12-19 19:05:11](https://bsky.app/profile/reuters.com/post/3madgvcekth2i)
-
----
-
-@nhknewsunofficial.bsky.social
-
-刑事司法制度めぐり新たな研究会 録音・録画の対象範囲議論へ
-https://news.web.nhk/newsweb/na/na-k10015008541000
-
-[2025-12-19 19:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madgriyewu26)
+[2025-12-19 19:25:11](https://bsky.app/profile/reuters.com/post/3madhz2ybgf2y)
 
 ---
 
-@cnbc.com
+@financialtimes.com
 
-Kristi Noem says U.S. green card lottery suspended after Brown University shooting
+China blamed for UK government cyber attack ft.trib.al/HdbhTS2
 
-[2025-12-19 19:02:47](https://bsky.app/profile/cnbc.com/post/3madgqysduu2p)
-
----
-
-@japan.reuters.com
-
-台湾中央銀行は台湾ドル安を抑えるため、輸出業者による米ドル売却規制を緩和した。３人の為替トレーダーが１９日明らかにした。 bit.ly/44DPGox
-
-[2025-12-19 19:02:38](https://bsky.app/profile/japan.reuters.com/post/3madgqqt5s72q)
-
----
-
-@sokuho.news
-
-🔔ANNより【速報】です。
-
-【速報】ニデック（旧日本電産）創業者・永守重信氏 不適切会計問題調査中に取締役辞任
-(2025年12月19日 19:01) #ニュース
-
-[2025-12-19 19:02:15](https://bsky.app/profile/sokuho.news/post/3madgq33ase2a)
-
----
-
-@reuters.com
-
-Growth in euro area highly uncertain due to trade war and tensions, ECB's Rehn says reut.rs/4s3H8RN
-
-[2025-12-19 19:01:02](https://bsky.app/profile/reuters.com/post/3madgnutfvj2y)
+[2025-12-19 19:25:01](https://bsky.app/profile/financialtimes.com/post/3madhyrd6ap2q)
 
 ---
 
 @nikkei.com
 
-クリスマスにティファニーの指輪、外国人女性との婚約は成立したか
-www.nikkei.com/telling/DGXZTS...
+危うい米国の対ベネズエラ圧力（無料記事）
+www.nikkei.com/article/DGXZQO...
 
-男性は東欧ベラルーシを訪れてプロポーズ。しかし帰国の1年後に、女性から「別れてほしい」という連絡が。
+米政権は麻薬カルテルと「戦争状態」にあるとみなして攻撃を正当化するが、法的根拠を明確にしなければならない。合法性を疑う声は米国内にもある――。
 
-諦めきれなかった男性は指輪の購入代金も含めた約630万円の賠償を求めて提訴しました。
+米政権がマドゥロ政権への威嚇を続けています。ベネズエラ情勢を巡る社説です。
 
-訴訟では婚約が成立したといえるのかどうかが争点に。
+[2025-12-19 19:22:54](https://bsky.app/profile/nikkei.com/post/3madhuxs6bu2m)
 
-一連のやりとりで女性は小突きました。「女性とのロマンチックな関係をはじめないほうがいいのでは」。
+---
 
-#揺れた天秤
+@financialtimes.com
 
-[2025-12-19 19:00:50](https://bsky.app/profile/nikkei.com/post/3madgnjfdy524)
+ Management consultants’ new gravy train: buying other companies ft.trib.al/l3BZC4L  | opinion
+
+[2025-12-19 19:22:39](https://bsky.app/profile/financialtimes.com/post/3madhuke27g2f)
+
+---
+
+@reuters.com
+
+BMW to recall 36,922 vehicles in US, NHTSA says reut.rs/454n08o
+
+[2025-12-19 19:15:24](https://bsky.app/profile/reuters.com/post/3madhhknb5k2y)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+東京女子医大病院 男児死亡裁判 審理終了 弁護側は無罪を主張
+https://news.web.nhk/newsweb/na/na-k10015008731000
+
+[2025-12-19 19:15:06](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madhh3v3he26)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+JR東海とコンサル5社に排除措置命令 陸橋点検業務で談合か
+https://news.web.nhk/newsweb/na/na-k10015008621000
+
+[2025-12-19 19:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madhgxpn4e2b)
+
+---
+
+@wsj.com
+
+Millions of Americans face higher health-insurance premiums and more uncertainty, with Congress set to break for the rest of the year.
+
+[2025-12-19 19:13:27](https://bsky.app/profile/wsj.com/post/3madhe3w2we2q)
+
+---
+
+@japan.reuters.com
+
+デンマーク海運大手マースクは１９日、同社の船舶１隻が約２年ぶりに紅海とバブ・エル・マンデブ海峡の航行に成功したと発表した。 bit.ly/4s4yH8X
+
+[2025-12-19 19:13:27](https://bsky.app/profile/japan.reuters.com/post/3madhe3mtpt2v)
 
 ---
 
