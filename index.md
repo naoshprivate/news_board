@@ -1,9 +1,9 @@
-# [2025-12-20 00:30 updated](2025_12_20.md)
+# [2025-12-20 00:50 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Japan's JERA secures government subsidy for US ammonia imports reut.rs/4aqIShM <a href="https://bsky.app/profile/reuters.com/post/3madyrms62q2k" target="_blank">reuters.com</a> (2025-12-20 00:25:15)</span><span style="padding-right:50px;">片山財務相 円安進み「行き過ぎた動きには適切な対応をとる」 https://news.web.nhk/newsweb/na/na-k10015009051000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madypjarrv2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 00:24:02)</span><span style="padding-right:50px;">Nvidia has rarely been cheaper the last 10 years. Bernstein says buy it for 2026 <a href="https://bsky.app/profile/cnbc.com/post/3madyoa2rz724" target="_blank">cnbc.com</a> (2025-12-20 00:23:21)</span><span style="padding-right:50px;">The U.S. Navy will commission the first in a series of new warships that will make up President Trump’s envisioned “Golden Fleet.” <a href="https://bsky.app/profile/wsj.com/post/3madykd6fy42k" target="_blank">wsj.com</a> (2025-12-20 00:21:10)</span><span style="padding-right:50px;">Having unleashed a multiagency manhunt, the clue investigators needed in the Brown University shooting was ultimately found not on a street corner but in a Reddit thread. <a href="https://bsky.app/profile/nbcnews.com/post/3madyj4yv6y2p" target="_blank">nbcnews.com</a> (2025-12-20 00:20:30)</span>
+<span style="padding-right:50px;">夕方の取引でドルが一時１５７．０２円まで上昇し、１１月２４日以来、約１カ月ぶり高値を更新した。市場では、今年１月高値の１５８円後半が当面の上値めどとする声が上がっている。 bit.ly/3MMcMTV <a href="https://bsky.app/profile/japan.reuters.com/post/3madzvmct3n27" target="_blank">japan.reuters.com</a> (2025-12-20 00:45:22)</span><span style="padding-right:50px;">Pulte and other Trump loyalists at mortgage regulator clash with Fannie and Freddie staffers reut.rs/4j9fbUX <a href="https://bsky.app/profile/reuters.com/post/3madzvidk6x2c" target="_blank">reuters.com</a> (2025-12-20 00:45:18)</span><span style="padding-right:50px;">VIDEO: 🇮🇹 200-million-year-old dinosaur footprints found in Italy  Hundreds of metres of dinosaur tracks with toes and claws have been found in the Italian Alps, authorities say. The footprints, some measuring up to 40 centimetres in diameter, were first spotted by a nature photographer <a href="https://bsky.app/profile/en.afp.com/post/3madzuhicql2k" target="_blank">en.afp.com</a> (2025-12-20 00:44:44)</span><span style="padding-right:50px;">The so-called Epstein Files have been a topic of fascination for years, and the Justice Department is preparing to release more records. Here’s a guide to what is public so far. 🔗 on.wsj.com/4pPEWfo <a href="https://bsky.app/profile/wsj.com/post/3madzpynfrz2r" target="_blank">wsj.com</a> (2025-12-20 00:42:14)</span><span style="padding-right:50px;">Canton Zurich urges government to soften UBS capital requirements plan reut.rs/4p2qgrW <a href="https://bsky.app/profile/reuters.com/post/3madzmmg5s22b" target="_blank">reuters.com</a> (2025-12-20 00:40:21)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48211.67 (🔺236.85 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23198.61 (🔺76.71 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 178.51 (🔺1.85 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.43 (🔺1.90 : 2025-12-19)</span>
+<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48201.07 (🔺226.25 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23189.35 (🔺67.45 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 178.85 (🔺2.19 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.43 (🔺1.90 : 2025-12-19)</span>
   </div>
 </div>
 
@@ -32,97 +32,100 @@
 
 ## News Headlines
 
-Here are six headlines in English:
+Here are six selected news stories with headlines in English:
 
-1. Japan's JERA Secures Government Subsidy for US Ammonia Imports
-2. Nvidia at 10-Year Low: Bernstein Says Buy for 2026
-3. US Navy to Commission New Warships as Part of 'Golden Fleet'
-4. Spanish Consumer Credit Hits Near 18-Year High on Economic Boom
-5. President Trump Leaves Door Open to War with Venezuela
-6. Germany Headed for Biggest Deficit Since Reunification, Bundesbank Says
+1. Dollar Hits 15-Month High Against Yen
+2. UBS Faces Backlash Over Proposed Capital Requirements
+3. 200-Million-Year-Old Dinosaur Footprints Discovered in Italy
+4. US Treasury to Release More Documents on Epstein Case
+5. Norway's Crown Princess May Need Lung Transplant
+6. US Companies to Get Slice of TikTok US Pie
 
 ----
 
-@reuters.com
-
-Japan's JERA secures government subsidy for US ammonia imports reut.rs/4aqIShM
-
-[2025-12-20 00:25:15](https://bsky.app/profile/reuters.com/post/3madyrms62q2k)
-
----
-
-@nhknewsunofficial.bsky.social
-
-片山財務相 円安進み「行き過ぎた動きには適切な対応をとる」
-https://news.web.nhk/newsweb/na/na-k10015009051000
-
-[2025-12-20 00:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madypjarrv2w)
-
----
-
-@cnbc.com
-
-Nvidia has rarely been cheaper the last 10 years. Bernstein says buy it for 2026
-
-[2025-12-20 00:23:21](https://bsky.app/profile/cnbc.com/post/3madyoa2rz724)
-
----
-
-@wsj.com
-
-The U.S. Navy will commission the first in a series of new warships that will make up President Trump’s envisioned “Golden Fleet.”
-
-[2025-12-20 00:21:10](https://bsky.app/profile/wsj.com/post/3madykd6fy42k)
-
----
-
-@nbcnews.com
-
-Having unleashed a multiagency manhunt, the clue investigators needed in the Brown University shooting was ultimately found not on a street corner but in a Reddit thread.
-
-[2025-12-20 00:20:30](https://bsky.app/profile/nbcnews.com/post/3madyj4yv6y2p)
-
----
-
 @japan.reuters.com
 
-中国国防省は１９日、米国による１１１億ドル規模の対台湾武器売却計画を受け、中国軍が訓練を強化し「国家の主権と領土の一体性を守るため強力な措置を講じる」との声明を発表した。 bit.ly/4pmNPw5
+夕方の取引でドルが一時１５７．０２円まで上昇し、１１月２４日以来、約１カ月ぶり高値を更新した。市場では、今年１月高値の１５８円後半が当面の上値めどとする声が上がっている。 bit.ly/3MMcMTV
 
-[2025-12-20 00:15:26](https://bsky.app/profile/japan.reuters.com/post/3madya2rusf2c)
+[2025-12-20 00:45:22](https://bsky.app/profile/japan.reuters.com/post/3madzvmct3n27)
 
 ---
 
 @reuters.com
 
-Spanish consumer credit hits near 18-year high on economic boom reut.rs/48Xb21y
+Pulte and other Trump loyalists at mortgage regulator clash with Fannie and Freddie staffers reut.rs/4j9fbUX
 
-[2025-12-20 00:15:19](https://bsky.app/profile/reuters.com/post/3mady7ux4h42b)
-
----
-
-@forbes.com
-
-Rain and wind on the East Coast threaten to disrupt flights on one of the busiest travel days of the year.
-
-[2025-12-20 00:15:04](https://bsky.app/profile/forbes.com/post/3mady7g4vox25)
-
----
-
-@cnbc.com
-
-November home sales struggle as supply stalls
-
-[2025-12-20 00:15:01](https://bsky.app/profile/cnbc.com/post/3mady7cvknd24)
+[2025-12-20 00:45:18](https://bsky.app/profile/reuters.com/post/3madzvidk6x2c)
 
 ---
 
 @en.afp.com
 
-VIDEO: 🇺🇸 What we know about Nick Reiner, charged with murdering his parents
+VIDEO: 🇮🇹 200-million-year-old dinosaur footprints found in Italy
 
-Nick Reiner, the son of Hollywood director Rob Reiner, has been charged with stabbing his parents to death in their Los Angeles home. Rob Reiner, 78, and his wife Michele Singer Reiner, 70, were discovered by their daughter
+Hundreds of metres of dinosaur tracks with toes and claws have been found in the Italian Alps, authorities say. The footprints, some measuring up to 40 centimetres in diameter, were first spotted by a nature photographer
 
-[2025-12-20 00:14:44](https://bsky.app/profile/en.afp.com/post/3mady6tdvq72j)
+[2025-12-20 00:44:44](https://bsky.app/profile/en.afp.com/post/3madzuhicql2k)
+
+---
+
+@wsj.com
+
+The so-called Epstein Files have been a topic of fascination for years, and the Justice Department is preparing to release more records. Here’s a guide to what is public so far. 🔗 on.wsj.com/4pPEWfo
+
+[2025-12-20 00:42:14](https://bsky.app/profile/wsj.com/post/3madzpynfrz2r)
+
+---
+
+@reuters.com
+
+Canton Zurich urges government to soften UBS capital requirements plan reut.rs/4p2qgrW
+
+[2025-12-20 00:40:21](https://bsky.app/profile/reuters.com/post/3madzmmg5s22b)
+
+---
+
+@nytimes.com
+
+"I think today's Wordle word is actually the worst in the entire history of the game."
+
+Wordle 1644 is trending as Friday's puzzle is breaking many streaks. How did you do?
+
+[2025-12-20 00:40:05](https://bsky.app/profile/nytimes.com/post/3madzm5aqrk27)
+
+---
+
+@cbsnews.com
+
+Comedian and actor Albert Brooks said he's still in shock over the death of one of his oldest and best friends, Rob Reiner.  
+
+[2025-12-20 00:40:01](https://bsky.app/profile/cbsnews.com/post/3madzm244ak2z)
+
+---
+
+@yahoofinance.com
+
+TikTok's sale saga may finally be coming to a close. Here's a look at the U.S. companies getting a slice of the TikTok US pie. 🍰
+
+yhoo.it/4qnfjCG
+
+[2025-12-20 00:36:06](https://bsky.app/profile/yahoofinance.com/post/3madzez7hbz2j)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Norway's crown princess likely needs lung transplant, palace says
+
+[2025-12-20 00:35:26](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3madzdtxaig25)
+
+---
+
+@reuters.com
+
+Conagra retains annual forecasts, takes $968 mln charge in Q2 amid muted demand reut.rs/4s7b6o9
+
+[2025-12-20 00:35:13](https://bsky.app/profile/reuters.com/post/3madzdhnrk22k)
 
 ---
 
