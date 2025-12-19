@@ -1,9 +1,9 @@
-# [2025-12-20 06:30 updated](2025_12_20.md)
+# [2025-12-20 06:50 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">BREAKING: The Justice Department has released its files on Jeffrey Epstein as it faced a Friday, Dec. 19 deadline.  Correction: An earlier version of this post was published before the official release of the new Epstein files.  Read the latest updates: bit.ly/4asbUxG <a href="https://bsky.app/profile/usatoday.com/post/3maen4njyb52g" target="_blank">usatoday.com</a> (2025-12-20 06:29:20)</span><span style="padding-right:50px;">BREAKING — Epstein files now live: A trove of new documents have been dropped by the Justice Department. Follow as we break down what's inside.  Correction: An earlier version of this post was published before the official release of the new Epstein files. <a href="https://bsky.app/profile/usatoday.com/post/3maen3g72ph2o" target="_blank">usatoday.com</a> (2025-12-20 06:28:38)</span><span style="padding-right:50px;">Rep. Elise Stefanik ends her campaign for New York governor and says she won't seek reelection to the House next year. <a href="https://bsky.app/profile/apnews.com/post/3maemzqwqct25" target="_blank">apnews.com</a> (2025-12-20 06:27:43)</span><span style="padding-right:50px;">The Justice Department has begun publishing the Epstein files, releasing documents related to convicted sex offender Jeffrey Epstein's criminal charges and his death by suicide in federal custody. n.pr/48OZQW1 <a href="https://bsky.app/profile/npr.org/post/3maemwyel3t2m" target="_blank">npr.org</a> (2025-12-20 06:26:10)</span><span style="padding-right:50px;">Breaking News: The Justice Department released hundreds of thousands of records tied to investigations of Jeffrey Epstein. Follow live. <a href="https://bsky.app/profile/nytimes.com/post/3maemvtccsg2y" target="_blank">nytimes.com</a> (2025-12-20 06:25:31)</span>
+<span style="padding-right:50px;">Tesla won its fight over a record-breaking pay package for Chief Executive Elon Musk that was approved by shareholders in 2018. <a href="https://bsky.app/profile/wsj.com/post/3maenzacq742i" target="_blank">wsj.com</a> (2025-12-20 06:45:19)</span><span style="padding-right:50px;">National security law in 2026: Legal adaptation in a constrained security economy reut.rs/4qbD54m <a href="https://bsky.app/profile/reuters.com/post/3maenz5pi4y2o" target="_blank">reuters.com</a> (2025-12-20 06:45:16)</span><span style="padding-right:50px;">The man suspected in a mass shooting at Brown University and the killing of a Massachusetts Institute of Technology professor was in the same academic program as the professor in Portugal before attending Brown on a student visa. Here's what else we know.  <a href="https://bsky.app/profile/apnews.com/post/3maenz2atux2p" target="_blank">apnews.com</a> (2025-12-20 06:45:13)</span><span style="padding-right:50px;">Column: The Kennedy Center board voted to rename the living monument to the 35th president as the “Trump Kennedy Center” and a nationwide freak-out ensued.  The name-change stunt feels needlessly provocative and strangely timed.  <a href="https://bsky.app/profile/washingtonpost.com/post/3maenyr5ruv2y" target="_blank">washingtonpost.com</a> (2025-12-20 06:45:03)</span><span style="padding-right:50px;">The US Justice Department on Friday began releasing the long-awaited records from the investigation into the politically explosive case of convicted sex offender Jeffrey Epstein.  u.afp.com/S8i8 <a href="https://bsky.app/profile/en.afp.com/post/3maenyqjtih2q" target="_blank">en.afp.com</a> (2025-12-20 06:45:02)</span>
   </div>
 </div>
 
@@ -34,94 +34,124 @@
 
 Here are six important stories with headlines in English:
 
-1. US Justice Department Releases Hundreds of Thousands of Epstein Files
-2. Rep. Elise Stefanik Ends Campaign for New York Governor, Won't Seek Reelection
-3. US Space Agency Places $3.5 Billion Order for 72 Satellites
-4. Judge Overturns Conviction of Man Accused of Killing DJ Jam Master Jay
-5. Rubio Says US Has Pledges of Up to 7,500 Security Personnel for Haiti
-6. Justice Department Begins Publishing Epstein Files, Fulfilling Congressional Order
+1. Tesla Wins Delaware Supreme Court Ruling on Musk's 2018 Pay Package
+2. Epstein Files Released: Justice Department Publishes Thousands of Documents Related to Investigation
+3. US Justice Department Releases Documents on Jeffrey Epstein's Sex-Trafficking Investigation
+4. Republican Rep. Elise Stefanik Ends Campaign for New York Governor, Won't Seek Re-election
+5. Earthquake Hits Japan: 4.4 Magnitude Quake Strikes Off Coast of Miyagi Prefecture
+6. US Space Development Agency Places $3.5 Billion Order for 72 Satellites
 
 ----
 
-@usatoday.com
+@wsj.com
 
-<strong><span style="color: red;">BREAKING:</span> The Justice Department has released its files on Jeffrey Epstein as it faced a Friday, Dec. 19 deadline.</strong><br><strong></strong><br><strong>Correction: An earlier version of this post was published before the official release of the new Epstein files.</strong><br><strong></strong><br><strong>Read the latest updates: bit.ly/4asbUxG</strong>
+Tesla won its fight over a record-breaking pay package for Chief Executive Elon Musk that was approved by shareholders in 2018.
 
-[2025-12-20 06:29:20](https://bsky.app/profile/usatoday.com/post/3maen4njyb52g)
-
----
-
-@usatoday.com
-
-<strong><span style="color: red;">BREAKING </span>— Epstein files now live: A trove of new documents have been dropped by the Justice Department. Follow as we break down what's inside.</strong><br><strong></strong><br><strong>Correction: An earlier version of this post was published before the official release of the new Epstein files.</strong>
-
-[2025-12-20 06:28:38](https://bsky.app/profile/usatoday.com/post/3maen3g72ph2o)
-
----
-
-@apnews.com
-
-Rep. Elise Stefanik ends her campaign for New York governor and says she won't seek reelection to the House next year.
-
-[2025-12-20 06:27:43](https://bsky.app/profile/apnews.com/post/3maemzqwqct25)
-
----
-
-@npr.org
-
-The Justice Department has begun publishing the Epstein files, releasing documents related to convicted sex offender Jeffrey Epstein's criminal charges and his death by suicide in federal custody. n.pr/48OZQW1
-
-[2025-12-20 06:26:10](https://bsky.app/profile/npr.org/post/3maemwyel3t2m)
-
----
-
-@nytimes.com
-
-<strong><span style="color: red;">Breaking News</span>: The Justice Department released hundreds of thousands of records tied to investigations of Jeffrey Epstein. Follow live.</strong>
-
-[2025-12-20 06:25:31](https://bsky.app/profile/nytimes.com/post/3maemvtccsg2y)
+[2025-12-20 06:45:19](https://bsky.app/profile/wsj.com/post/3maenzacq742i)
 
 ---
 
 @reuters.com
 
-US Space Development Agency places $3.5 billion order for 72 satellites reut.rs/4qjjfUO
+National security law in 2026: Legal adaptation in a constrained security economy reut.rs/4qbD54m
 
-[2025-12-20 06:25:09](https://bsky.app/profile/reuters.com/post/3maemv6t7a52k)
-
----
-
-@wsj.com
-
-The writer drew on his own youth in this story thrumming with music, memory and the chaos of the holidays. on.wsj.com/4qnkBy0
-
-[2025-12-20 06:21:02](https://bsky.app/profile/wsj.com/post/3maemnspdsp23)
+[2025-12-20 06:45:16](https://bsky.app/profile/reuters.com/post/3maenz5pi4y2o)
 
 ---
 
-@japan.reuters.com
+@apnews.com
 
-（暫定値） bit.ly/4pQ81HE
+The man suspected in a mass shooting at Brown University and the killing of a Massachusetts Institute of Technology professor was in the same academic program as the professor in Portugal before attending Brown on a student visa. Here's what else we know. 
 
-[2025-12-20 06:20:56](https://bsky.app/profile/japan.reuters.com/post/3maemnmyoiq25)
-
----
-
-@cnn.com
-
-The Justice Department has released records from the sex-trafficking investigation of Jeffrey Epstein.
-
-Follow for live updates: https://cnn.it/4arvDxk
-
-[2025-12-20 06:20:35](https://bsky.app/profile/cnn.com/post/3maemmzfoxt2x)
+[2025-12-20 06:45:13](https://bsky.app/profile/apnews.com/post/3maenz2atux2p)
 
 ---
 
-@nytimes.com
+@washingtonpost.com
 
-<strong><span style="color: red;">Breaking News</span>: Rep. Elise Stefanik of New York said she would leave Congress at the end of her term, and suspended her campaign for governor.</strong>
+Column: The Kennedy Center board voted to rename the living monument to the 35th president as the “Trump Kennedy Center” and a nationwide freak-out ensued.
 
-[2025-12-20 06:19:55](https://bsky.app/profile/nytimes.com/post/3maemlteb7e26)
+The name-change stunt feels needlessly provocative and strangely timed. 
+
+[2025-12-20 06:45:03](https://bsky.app/profile/washingtonpost.com/post/3maenyr5ruv2y)
+
+---
+
+@en.afp.com
+
+The US Justice Department on Friday began releasing the long-awaited records from the investigation into the politically explosive case of convicted sex offender Jeffrey Epstein.
+
+u.afp.com/S8i8
+
+[2025-12-20 06:45:02](https://bsky.app/profile/en.afp.com/post/3maenyqjtih2q)
+
+---
+
+@sokuho.news
+
+🔔防災科研より【強震モニタ】動画です。
+
+震源:三陸沖, 深さ:10km
+マグニチュード:4.4, 最大震度:1
+📍https://www.google.com/maps?q=39.6,143.3&ll=39.6,143.3&z=7&t=h
+地震発生日時:2025-12-20 06:40頃
+(10倍速▶180s→18s) #地震
+
+[2025-12-20 06:43:50](https://bsky.app/profile/sokuho.news/post/3maenwlqfds2y)
+
+---
+
+@sokuho.news
+
+🔔気象庁より【地震速報】です。
+
+6時40分頃、岩手県で最大震度1の地震を観測しました。
+震源:三陸沖, 深さ:10km, 規模:M4.4
+この地震による津波の心配はありません。
+(2025-12-20 06:43:14) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/20/2025-12-20-06-40-08.html?xlarge_image=1
+
+[2025-12-20 06:43:15](https://bsky.app/profile/sokuho.news/post/3maenvkceqn25)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗
+
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像3🈡
+(2025-12-20 06:40:53) #緊急地震速報
+
+[2025-12-20 06:41:00](https://bsky.app/profile/sokuho.news/post/3maenrjiphg2y)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗
+
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像2
+(2025-12-20 06:40:38) #緊急地震速報
+
+[2025-12-20 06:40:45](https://bsky.app/profile/sokuho.news/post/3maenr32y3r2x)
+
+---
+
+@sokuho.news
+
+🚨地震発生中❗❗
+
+⚠️揺れに警戒してください
+🔗http://www.kmoni.bosai.go.jp/
+
+🔶防災科研/強震モニタ/予測震度画像1
+(2025-12-20 06:40:19) #緊急地震速報
+
+[2025-12-20 06:40:27](https://bsky.app/profile/sokuho.news/post/3maenqjll4x2e)
 
 ---
 
