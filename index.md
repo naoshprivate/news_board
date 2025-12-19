@@ -1,9 +1,9 @@
-# [2025-12-19 16:50 updated](2025_12_19.md)
+# [2025-12-19 17:10 updated](2025_12_19.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">EU leaders have agreed to provide a $105bn interest-free loan to Ukraine for its defence over the next two years, but the money will not come from frozen Russian assets. <a href="https://bsky.app/profile/aljazeera.com/post/3mad75vxuls2i" target="_blank">aljazeera.com</a> (2025-12-19 16:46:50)</span><span style="padding-right:50px;">日銀の植田和男総裁は１９日、金融政策決定会合後の会見で、現在の実質金利はきわめて低水準との認識を示し、今後も日銀が示している経済・物価の見通しが実現していけば、引き続き政策金利を引き上げていくことになると述べた。「先行きの金利パスや金融緩和の度合いを調整するペースは、今後の経済、物価、金融情勢次第であり、毎回の決定会合で適切に判断していく」と語った。 bit.ly/3Y3jYgY <a href="https://bsky.app/profile/japan.reuters.com/post/3mad75lmmih2q" target="_blank">japan.reuters.com</a> (2025-12-19 16:46:39)</span><span style="padding-right:50px;">Indian shares track Asia gains after soft US inflation boosts easing bets reut.rs/4sn5NBl <a href="https://bsky.app/profile/reuters.com/post/3mad732asaz2r" target="_blank">reuters.com</a> (2025-12-19 16:45:14)</span><span style="padding-right:50px;">【詳細】日銀 植田総裁が会見 利上げ決定を受け https://news.web.nhk/newsweb/na/na-k10015008201000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mad72rnlqd26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 16:45:03)</span><span style="padding-right:50px;">市場調査グループＧｆＫとニュルンベルク市場判断研究所（ＮＩＭ）がまとめた２０２６年１月の独消費者信頼感指数はマイナス２６．９と、２５年１２月改定値のマイナス２３．４から低下した。 bit.ly/4aXCTRK <a href="https://bsky.app/profile/japan.reuters.com/post/3mad6z5sk7x2f" target="_blank">japan.reuters.com</a> (2025-12-19 16:44:10)</span>
+<span style="padding-right:50px;">政府は１９日に公表した１２月の月例経済報告で、景気の基調判断を１６カ月連続で据え置き、「緩やかに回復している」のままとした。先行きについても前月から書きぶりを変えず、雇用や所得環境の改善が景気回復を下支えするとみる一方、米国の通商政策や物価上昇をリスク要因に挙げた。 bit.ly/3Y09mPR <a href="https://bsky.app/profile/japan.reuters.com/post/3madaf3uara2p" target="_blank">japan.reuters.com</a> (2025-12-19 17:08:45)</span><span style="padding-right:50px;">赤沢亮正経済産業相は１９日の閣議後会見で、日銀が０．７５％への追加利上げを決定したことを受け「経済界には一定の影響が出ることは考えられえる。それについては注視していきたい」と述べた。 bit.ly/4p1cMN2 <a href="https://bsky.app/profile/japan.reuters.com/post/3mada6tn3of2c" target="_blank">japan.reuters.com</a> (2025-12-19 17:05:10)</span><span style="padding-right:50px;">Australia's 'Bondi Hero' handed $1.65 mln collected from fundraising reut.rs/4aTCnEo <a href="https://bsky.app/profile/reuters.com/post/3mada6nut342p" target="_blank">reuters.com</a> (2025-12-19 17:05:09)</span><span style="padding-right:50px;">投資運用業などを手掛けるスパークス・グループは１９日、株主優待制度を導入すると発表した。株式の流動性向上や投資家層拡大を図る。 bit.ly/4qnXFPb <a href="https://bsky.app/profile/japan.reuters.com/post/3mada2ctbai2p" target="_blank">japan.reuters.com</a> (2025-12-19 17:02:43)</span><span style="padding-right:50px;">EU leaders announced a multi-billion dollar funding plan for Ukraine’s economy and military for the next two years – with the package funded for now by borrowing cash and not tapping into billions of dollars of frozen Russian assets held in the bloc.  <a href="https://bsky.app/profile/cnn.com/post/3mad7z33g3z26" target="_blank">cnn.com</a> (2025-12-19 17:02:01)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 156.59 (🔺1.06 : 2025-12-19)</span>
+<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 156.82 (🔺1.29 : 2025-12-19)</span>
   </div>
 </div>
 
@@ -32,93 +32,97 @@
 
 ## News Headlines
 
-1. EU Leaders Agree to Provide $105 Billion Interest-Free Loan to Ukraine
-2. Japan's Central Bank Hikes Interest Rates to 0.75%
-3. Indian Shares Track Asia Gains as US Inflation Eases
-4. Countries Added to Trump's Travel Ban See Pause on Legal Immigration
-5. UK Government Hacked in October, Minister Confirms
-6. US Citizenship and Immigration Services Pauses Diversity Visa Program
+Here are six important stories with headlines in English:
+
+1. Japan Maintains Cautionary Tone on Economic Recovery
+2. BOJ's Kuroda: Policy Rate May Rise if Economy and Inflation Meet Projections
+3. EU Leaders Agree to Provide $105 Billion Interest-Free Loan to Ukraine
+4. ECB's Lagarde Says EU Leaders' Meeting on Ukraine Was Productive
+5. US Inflation Rate Falls to 3.1% in November, Easing Pressure on Fed
+6. Japan's LDP and Komeito Parties Agree on Tax Reform Outline
 
 ----
 
+@japan.reuters.com
+
+政府は１９日に公表した１２月の月例経済報告で、景気の基調判断を１６カ月連続で据え置き、「緩やかに回復している」のままとした。先行きについても前月から書きぶりを変えず、雇用や所得環境の改善が景気回復を下支えするとみる一方、米国の通商政策や物価上昇をリスク要因に挙げた。 bit.ly/3Y09mPR
+
+[2025-12-19 17:08:45](https://bsky.app/profile/japan.reuters.com/post/3madaf3uara2p)
+
+---
+
+@japan.reuters.com
+
+赤沢亮正経済産業相は１９日の閣議後会見で、日銀が０．７５％への追加利上げを決定したことを受け「経済界には一定の影響が出ることは考えられえる。それについては注視していきたい」と述べた。 bit.ly/4p1cMN2
+
+[2025-12-19 17:05:10](https://bsky.app/profile/japan.reuters.com/post/3mada6tn3of2c)
+
+---
+
+@reuters.com
+
+Australia's 'Bondi Hero' handed $1.65 mln collected from fundraising reut.rs/4aTCnEo
+
+[2025-12-19 17:05:09](https://bsky.app/profile/reuters.com/post/3mada6nut342p)
+
+---
+
+@japan.reuters.com
+
+投資運用業などを手掛けるスパークス・グループは１９日、株主優待制度を導入すると発表した。株式の流動性向上や投資家層拡大を図る。 bit.ly/4qnXFPb
+
+[2025-12-19 17:02:43](https://bsky.app/profile/japan.reuters.com/post/3mada2ctbai2p)
+
+---
+
+@cnn.com
+
+EU leaders announced a multi-billion dollar funding plan for Ukraine’s economy and military for the next two years – with the package funded for now by borrowing cash and not tapping into billions of dollars of frozen Russian assets held in the bloc. 
+
+[2025-12-19 17:02:01](https://bsky.app/profile/cnn.com/post/3mad7z33g3z26)
+
+---
+
+@sokuho.news
+
+🛎️文春より【スクープ】です。
+
+【紅白“落選”の裏側】AKB篠田麻里子が選外となった理由に“例の騒動”「紅白側は篠田抜きで出演してほしいと最終判断」
+(2025-12-19 17:00) #ニュース
+
+[2025-12-19 17:00:41](https://bsky.app/profile/sokuho.news/post/3mad7wof6ed2a)
+
+---
+
+@reuters.com
+
+Sport-Dodgers and Panthers repeat as Thunder, Inter Miami launch new eras in 2025 reut.rs/4apjtFi
+
+[2025-12-19 17:00:33](https://bsky.app/profile/reuters.com/post/3mad7whheqp2b)
+
+---
+
+@japan.reuters.com
+
+アジア時間の原油先物は軟調。２週連続で下落する見通しとなっている。ロシアとウクライナの和平合意への期待が高まり、ベネズエラの石油タンカー封鎖による供給障害への懸念が相殺された。 bit.ly/48XG6y3
+
+[2025-12-19 17:00:31](https://bsky.app/profile/japan.reuters.com/post/3mad7wer5q72f)
+
+---
+
+@bloomberg.com
+
+President Trump said he was interviewing “three or four” candidates for Federal Reserve chair and expected to have a decision pretty quickly.
+
+[2025-12-19 17:00:12](https://bsky.app/profile/bloomberg.com/post/3mad7vsj3d52f)
+
+---
+
 @aljazeera.com
 
-EU leaders have agreed to provide a $105bn interest-free loan to Ukraine for its defence over the next two years, but the money will not come from frozen Russian assets.
+RSF artillery strikes kill 16 civilians in Sudan’s embattled Kordofan https://aje.io/utzses
 
-[2025-12-19 16:46:50](https://bsky.app/profile/aljazeera.com/post/3mad75vxuls2i)
-
----
-
-@japan.reuters.com
-
-日銀の植田和男総裁は１９日、金融政策決定会合後の会見で、現在の実質金利はきわめて低水準との認識を示し、今後も日銀が示している経済・物価の見通しが実現していけば、引き続き政策金利を引き上げていくことになると述べた。「先行きの金利パスや金融緩和の度合いを調整するペースは、今後の経済、物価、金融情勢次第であり、毎回の決定会合で適切に判断していく」と語った。 bit.ly/3Y3jYgY
-
-[2025-12-19 16:46:39](https://bsky.app/profile/japan.reuters.com/post/3mad75lmmih2q)
-
----
-
-@reuters.com
-
-Indian shares track Asia gains after soft US inflation boosts easing bets reut.rs/4sn5NBl
-
-[2025-12-19 16:45:14](https://bsky.app/profile/reuters.com/post/3mad732asaz2r)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【詳細】日銀 植田総裁が会見 利上げ決定を受け
-https://news.web.nhk/newsweb/na/na-k10015008201000
-
-[2025-12-19 16:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mad72rnlqd26)
-
----
-
-@japan.reuters.com
-
-市場調査グループＧｆＫとニュルンベルク市場判断研究所（ＮＩＭ）がまとめた２０２６年１月の独消費者信頼感指数はマイナス２６．９と、２５年１２月改定値のマイナス２３．４から低下した。 bit.ly/4aXCTRK
-
-[2025-12-19 16:44:10](https://bsky.app/profile/japan.reuters.com/post/3mad6z5sk7x2f)
-
----
-
-@cnbc.com
-
-CNBC Daily Open: Investors might not want to take U.S. inflation numbers in November at face value
-
-[2025-12-19 16:43:06](https://bsky.app/profile/cnbc.com/post/3mad6xamqjm2p)
-
----
-
-@reuters.com
-
-Transfer roundup: Starting QBs, Penn State’s Chaz Coleman entering portal reut.rs/4ap4ZoN
-
-[2025-12-19 16:40:20](https://bsky.app/profile/reuters.com/post/3mad6sbro7z2i)
-
----
-
-@japan.reuters.com
-
-韓国銀行（中央銀行）は１９日、ウォン安是正に向け、国内の外国為替市場でドル供給を拡大することを目的とした臨時措置を発表した。 bit.ly/3LakdDR
-
-[2025-12-19 16:38:22](https://bsky.app/profile/japan.reuters.com/post/3mad6ordj3o2c)
-
----
-
-@reuters.com
-
-Judge found guilty of obstructing arrest in Trump immigration crackdown reut.rs/492SE7t
-
-[2025-12-19 16:35:14](https://bsky.app/profile/reuters.com/post/3mad6j5xrc324)
-
----
-
-@npr.org
-
-Homeland Security Secretary Kristi Noem said in a post on the social platform X that, at Trump's direction, she is ordering the United States Citizenship and Immigration Services to pause the program. n.pr/3N99KJp
-
-[2025-12-19 16:33:33](https://bsky.app/profile/npr.org/post/3mad6g5rbkj2e)
+[2025-12-19 17:00:04](https://bsky.app/profile/aljazeera.com/post/3mad7vl73du2v)
 
 ---
 
