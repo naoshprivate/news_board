@@ -1,9 +1,9 @@
-# [2025-12-19 23:50 updated](2025_12_19.md)
+# [2025-12-20 00:10 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">VIDEO: 🇦🇺 Surfers and swimmers pay tribute to Bondi Beach shooting victims   Hundreds of surfers and swimmers plunged into the ocean off Australia's Bondi Beach on Friday to pay tribute to the 15 people killed at a Jewish festival there on 14 December, in one of the country's worst mass shootings <a href="https://bsky.app/profile/en.afp.com/post/3madwprz6s42j" target="_blank">en.afp.com</a> (2025-12-19 23:48:26)</span><span style="padding-right:50px;">エナジック 野球部監督 体罰などで謹慎処分 日本学生野球協会 https://news.web.nhk/newsweb/na/na-k10015009021000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madwp5iyzl2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 23:48:03)</span><span style="padding-right:50px;">US coffee drinkers face higher prices even after Trump's tariff reset reut.rs/4oZuH6P <a href="https://bsky.app/profile/reuters.com/post/3madwk3vtz523" target="_blank">reuters.com</a> (2025-12-19 23:45:15)</span><span style="padding-right:50px;">ウズベキスタン大統領 重要鉱物開発など巡り日本の投資に期待 https://news.web.nhk/newsweb/na/na-k10015008991000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madwjsun5p24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 23:45:03)</span><span style="padding-right:50px;">A reliable stock market indicator from Bank of America just triggered a sell signal <a href="https://bsky.app/profile/cnbc.com/post/3madwilzjky2y" target="_blank">cnbc.com</a> (2025-12-19 23:44:25)</span>
+<span style="padding-right:50px;">LIVE: UN Secretary General Antonio Guterres speaks on Gaza www.youtube.com/live/iUWhEP7... <a href="https://bsky.app/profile/reuters.com/post/3madxtx6cs22l" target="_blank">reuters.com</a> (2025-12-20 00:08:39)</span><span style="padding-right:50px;">French authorities set new conditions on Nestle's Perrier production reut.rs/4qncOjM <a href="https://bsky.app/profile/reuters.com/post/3madxo2mj7g23" target="_blank">reuters.com</a> (2025-12-20 00:05:21)</span><span style="padding-right:50px;">Home sales rose in November for the third straight month, with lower mortgage rates injecting some fresh momentum into the long sluggish housing market. <a href="https://bsky.app/profile/wsj.com/post/3madxmbnas22s" target="_blank">wsj.com</a> (2025-12-20 00:04:22)</span><span style="padding-right:50px;">Americans have deep nostalgia, and love, for America's chain restaurants. Why? We asked and more than 150 readers answered. n.pr/4j814Pt <a href="https://bsky.app/profile/npr.org/post/3madxlqjkjl2p" target="_blank">npr.org</a> (2025-12-20 00:04:04)</span><span style="padding-right:50px;">German industry voices frustration over EU-Mercosur deal delay reut.rs/3KRuTY3 <a href="https://bsky.app/profile/reuters.com/post/3madxh2g24p2y" target="_blank">reuters.com</a> (2025-12-20 00:01:26)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48140.52 (🔺165.70 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23232.72 (🔺110.82 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 179.46 (🔺2.80 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.34 (🔺1.81 : 2025-12-19)</span>
+<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48211.22 (🔺236.40 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23245.34 (🔺123.44 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 179.38 (🔺2.72 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.40 (🔺1.88 : 2025-12-19)</span>
   </div>
 </div>
 
@@ -34,97 +34,93 @@
 
 Here are six news headlines in English:
 
-1. Australia: Hundreds pay tribute to Bondi Beach shooting victims
-2. US coffee drinkers face higher prices after Trump's tariff reset
-3. EU leaders agree to provide Ukraine with massive interest-free loan
-4. ECB policymakers not yet ready to take rate cut off the table
-5. Lawrence Ampe: Uganda prison officer sacked for 'politicking' on TikTok
-6. Oracle stock jumps 5% as cloud provider joins TikTok investor group
+1. UN Secretary General Speaks on Gaza Crisis
+2. French Authorities Impose New Conditions on Perrier Production
+3. US Housing Market Sees Third Straight Month of Sales Increase
+4. Americans Share Love for Chain Restaurants Amid Nostalgia
+5. Trump Leaves Door Open for War with Venezuela
+6. Ukrainian and Russian Athletes to Compete Together in Luge World Cup
 
 ----
 
-@en.afp.com
+@reuters.com
 
-VIDEO: 🇦🇺 Surfers and swimmers pay tribute to Bondi Beach shooting victims
- 
-Hundreds of surfers and swimmers plunged into the ocean off Australia's Bondi Beach on Friday to pay tribute to the 15 people killed at a Jewish festival there on 14 December, in one of the country's worst mass shootings
+LIVE: UN Secretary General Antonio Guterres speaks on Gaza
+www.youtube.com/live/iUWhEP7...
 
-[2025-12-19 23:48:26](https://bsky.app/profile/en.afp.com/post/3madwprz6s42j)
-
----
-
-@nhknewsunofficial.bsky.social
-
-エナジック 野球部監督 体罰などで謹慎処分 日本学生野球協会
-https://news.web.nhk/newsweb/na/na-k10015009021000
-
-[2025-12-19 23:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madwp5iyzl2w)
+[2025-12-20 00:08:39](https://bsky.app/profile/reuters.com/post/3madxtx6cs22l)
 
 ---
 
 @reuters.com
 
-US coffee drinkers face higher prices even after Trump's tariff reset reut.rs/4oZuH6P
+French authorities set new conditions on Nestle's Perrier production reut.rs/4qncOjM
 
-[2025-12-19 23:45:15](https://bsky.app/profile/reuters.com/post/3madwk3vtz523)
-
----
-
-@nhknewsunofficial.bsky.social
-
-ウズベキスタン大統領 重要鉱物開発など巡り日本の投資に期待
-https://news.web.nhk/newsweb/na/na-k10015008991000
-
-[2025-12-19 23:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madwjsun5p24)
+[2025-12-20 00:05:21](https://bsky.app/profile/reuters.com/post/3madxo2mj7g23)
 
 ---
 
-@cnbc.com
+@wsj.com
 
-A reliable stock market indicator from Bank of America just triggered a sell signal
+Home sales rose in November for the third straight month, with lower mortgage rates injecting some fresh momentum into the long sluggish housing market.
 
-[2025-12-19 23:44:25](https://bsky.app/profile/cnbc.com/post/3madwilzjky2y)
+[2025-12-20 00:04:22](https://bsky.app/profile/wsj.com/post/3madxmbnas22s)
 
 ---
 
-@cnbc.com
+@npr.org
 
-Palo Alto Networks announces multibillion-dollar deal with Google Cloud
+Americans have deep nostalgia, and love, for America's chain restaurants. Why? We asked and more than 150 readers answered. n.pr/4j814Pt
 
-[2025-12-19 23:43:07](https://bsky.app/profile/cnbc.com/post/3madwgbmg7q2g)
+[2025-12-20 00:04:04](https://bsky.app/profile/npr.org/post/3madxlqjkjl2p)
+
+---
+
+@reuters.com
+
+German industry voices frustration over EU-Mercosur deal delay reut.rs/3KRuTY3
+
+[2025-12-20 00:01:26](https://bsky.app/profile/reuters.com/post/3madxh2g24p2y)
+
+---
+
+@washingtonpost.com
+
+A man who worked as a supervisor at Voice of America pleaded guilty to making death threats against Rep. Marjorie Taylor Greene, her family and staff in ominous voice messages left at her Georgia offices, using pseudonyms such as “Kevin” and “Ruben.” 
+
+[2025-12-20 00:01:04](https://bsky.app/profile/washingtonpost.com/post/3madxgep3e22p)
+
+---
+
+@usatoday.com
+
+"The SpongeBob Movie: Search for SquarePants" returns the goofy hero from Bikini Bottom. But is the new animated comedy suitable for all youngsters?
+
+[2025-12-20 00:01:04](https://bsky.app/profile/usatoday.com/post/3madxgffgmd2w)
 
 ---
 
 @japan.reuters.com
 
-英国のブライアント貿易担当閣外相は１９日、政府が１０月にハッキング被害に遭っていたことを明らかにした。中国のハッカーグループがシステムに侵入し、外務省のデータに不正アクセスしたとする英紙サンの報道を一部認めた。 bit.ly/3MT5Q7n
+トランプ米大統領は、ベネズエラとの戦争の可能性を否定しなかった。１９日に公開されたＮＢＣニュースとのインタビューで明らかになった。 bit.ly/4j1wFCk
 
-[2025-12-19 23:40:25](https://bsky.app/profile/japan.reuters.com/post/3madwbhi2ay2c)
-
----
-
-@reuters.com
-
-German economic recovery to get a subdued start next year, Bundesbank says reut.rs/3Y60nN3
-
-[2025-12-19 23:40:24](https://bsky.app/profile/reuters.com/post/3madwbgb56k24)
+[2025-12-20 00:01:00](https://bsky.app/profile/japan.reuters.com/post/3madxgbn4hl2p)
 
 ---
 
-@nbcnews.com
+@apnews.com
 
-European Union leaders agree to provide a massive interest-free loan to Ukraine to meet its military and economic needs for the next two years, EU Council President Antonio Costa says. 
+Ukrainian and Russian athletes are set to compete side by side in a World Cup men's luge race on Saturday.
 
-[2025-12-19 23:40:09](https://bsky.app/profile/nbcnews.com/post/3madway66bh2k)
+[2025-12-20 00:00:36](https://bsky.app/profile/apnews.com/post/3madxfjw2rj2n)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@cnbc.com
 
-台湾 台北 男が複数人刺し2人死亡 男もビルから飛び降り死亡か
-https://news.web.nhk/newsweb/na/na-k10015008941000
+When husband-and-wife duo Chris Halim and Raena Lim quit their jobs in 2016 to start their own sustainable fashion business, they had little idea of the success it would become. But they knew one thing for sure — and it's advice they stand by today.
 
-[2025-12-19 23:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madw72tleq2d)
+[2025-12-20 00:00:29](https://bsky.app/profile/cnbc.com/post/3madxfdyert2d)
 
 ---
 
@@ -132,11 +128,11 @@ https://news.web.nhk/newsweb/na/na-k10015008941000
 
 ## 2025-12
 
-[12月19日](2025_12_19.md), [12月18日](2025_12_18.md), [12月17日](2025_12_17.md), [12月16日](2025_12_16.md), [12月15日](2025_12_15.md), [12月14日](2025_12_14.md), [12月13日](2025_12_13.md), 
+[12月20日](2025_12_20.md), [12月19日](2025_12_19.md), [12月18日](2025_12_18.md), [12月17日](2025_12_17.md), [12月16日](2025_12_16.md), [12月15日](2025_12_15.md), [12月14日](2025_12_14.md), 
 
-[12月12日](2025_12_12.md), [12月11日](2025_12_11.md), [12月10日](2025_12_10.md), [12月09日](2025_12_09.md), [12月08日](2025_12_08.md), [12月07日](2025_12_07.md), [12月06日](2025_12_06.md), 
+[12月13日](2025_12_13.md), [12月12日](2025_12_12.md), [12月11日](2025_12_11.md), [12月10日](2025_12_10.md), [12月09日](2025_12_09.md), [12月08日](2025_12_08.md), [12月07日](2025_12_07.md), 
 
-[12月05日](2025_12_05.md), [12月04日](2025_12_04.md), [12月03日](2025_12_03.md), [12月02日](2025_12_02.md), [12月01日](2025_12_01.md), 
+[12月06日](2025_12_06.md), [12月05日](2025_12_05.md), [12月04日](2025_12_04.md), [12月03日](2025_12_03.md), [12月02日](2025_12_02.md), [12月01日](2025_12_01.md), 
 
 ## 2025-11
 
