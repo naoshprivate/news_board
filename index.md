@@ -1,9 +1,9 @@
-# [2025-12-20 05:30 updated](2025_12_20.md)
+# [2025-12-20 05:50 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Judging by Christmas tree sales, consumers aren’t pulling the plug on holiday shopping—but they might be dimming the lights. <a href="https://bsky.app/profile/wsj.com/post/3maejqobun523" target="_blank">wsj.com</a> (2025-12-20 05:28:56)</span><span style="padding-right:50px;">Bowen Yang is leaving "Saturday Night Live" after this weekend's Christmas episode https://cnn.it/4qlbrC1 <a href="https://bsky.app/profile/cnn.com/post/3maejmy3nl524" target="_blank">cnn.com</a> (2025-12-20 05:26:53)</span><span style="padding-right:50px;">＜ロンドン株式市場＞ bit.ly/4qjdpCS <a href="https://bsky.app/profile/japan.reuters.com/post/3maejlysk3b2p" target="_blank">japan.reuters.com</a> (2025-12-20 05:26:20)</span><span style="padding-right:50px;">Carnival Corp sees strong annual profit, resumes dividend as bookings rise reut.rs/48MEbO9 <a href="https://bsky.app/profile/reuters.com/post/3maejjv37yr2b" target="_blank">reuters.com</a> (2025-12-20 05:25:09)</span><span style="padding-right:50px;">The deal announced Friday tacks on to similar reduced price agreements the Trump administration has made with five other pharmaceutical companies. <a href="https://bsky.app/profile/forbes.com/post/3maejjqrryg2q" target="_blank">forbes.com</a> (2025-12-20 05:25:04)</span>
+<span style="padding-right:50px;">A federal judge said HUD cannot dramatically change its funding policies on homelessness for now. States, cities and nonprofits say the proposed overhaul would push thousands back onto the streets. n.pr/3MMVjL5 <a href="https://bsky.app/profile/npr.org/post/3maektg65j72x" target="_blank">npr.org</a> (2025-12-20 05:48:22)</span><span style="padding-right:50px;">Union Pacific kicks off regulatory review for $85 billion coast‑to‑coast rail merger reut.rs/44yQLOC <a href="https://bsky.app/profile/reuters.com/post/3maeknti7tq2r" target="_blank">reuters.com</a> (2025-12-20 05:45:15)</span><span style="padding-right:50px;">飢餓の状況を監視する国連組織「総合的食料安全保障レベル分類（ＩＰＣ）」は１９日、パレスチナ自治区ガザで飢きんはなくなったと発表した。イスラエルとイスラム組織ハマスとの間で１０月１０日に成立した停戦により、人道支援や食糧供給が改善したという。 bit.ly/4j8Vxbp <a href="https://bsky.app/profile/japan.reuters.com/post/3maeknsnm4n2s" target="_blank">japan.reuters.com</a> (2025-12-20 05:45:14)</span><span style="padding-right:50px;">赤坂サウナ店火災 施工業者 全国の納入先に点検呼びかけ https://news.web.nhk/newsweb/na/na-k10015008861000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maeki4vavg2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 05:42:02)</span><span style="padding-right:50px;">World Court to hear Myanmar genocide case in January reut.rs/4aZMtUd <a href="https://bsky.app/profile/reuters.com/post/3maekeyug642y" target="_blank">reuters.com</a> (2025-12-20 05:40:19)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48138.81 (🔺163.99 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23277.23 (🔺155.33 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.41 (🔺3.75 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.57 (🔺2.04 : 2025-12-19)</span>
+<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48095.09 (🔺120.27 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23297.61 (🔺175.71 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.79 (🔺4.12 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.59 (🔺2.06 : 2025-12-19)</span>
   </div>
 </div>
 
@@ -32,98 +32,96 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are six headlines in English:
 
-1. Bowen Yang Leaves SNL After This Weekend's Episode
-2. Russia Cuts Key Interest Rate to 16% Amid Economic Slowdown
-3. Jeffrey Epstein Files Released by Justice Department
-4. Taiwan Train Station Stabbing Leaves 3 Dead, 9 Injured
-5. Trump Administration Signs Deals with 9 Pharmaceutical Companies to Lower Drug Prices
-6. US Blocks Russian Drone Found in Turkey Amid Ongoing Conflict
+1. US Appeals Harvard Court Victory on $2 Billion Funding Freeze
+2. World Court to Hear Myanmar Genocide Case in January
+3. UN Says Gaza's Hunger Situation Has Improved After Ceasefire
+4. Japan's Central Bank Cuts Interest Rates by 50 Basis Points
+5. Jeffrey Epstein Files Released by US Justice Department
+6. Tokyo Suffers 3 Deaths and 9 Injuries in Central District Shooting
 
 ----
 
-@wsj.com
+@npr.org
 
-Judging by Christmas tree sales, consumers aren’t pulling the plug on holiday shopping—but they might be dimming the lights.
+A federal judge said HUD cannot dramatically change its funding policies on homelessness for now. States, cities and nonprofits say the proposed overhaul would push thousands back onto the streets. n.pr/3MMVjL5
 
-[2025-12-20 05:28:56](https://bsky.app/profile/wsj.com/post/3maejqobun523)
-
----
-
-@cnn.com
-
-Bowen Yang is leaving "Saturday Night Live" after this weekend's Christmas episode https://cnn.it/4qlbrC1
-
-[2025-12-20 05:26:53](https://bsky.app/profile/cnn.com/post/3maejmy3nl524)
-
----
-
-@japan.reuters.com
-
-＜ロンドン株式市場＞ bit.ly/4qjdpCS
-
-[2025-12-20 05:26:20](https://bsky.app/profile/japan.reuters.com/post/3maejlysk3b2p)
+[2025-12-20 05:48:22](https://bsky.app/profile/npr.org/post/3maektg65j72x)
 
 ---
 
 @reuters.com
 
-Carnival Corp sees strong annual profit, resumes dividend as bookings rise reut.rs/48MEbO9
+Union Pacific kicks off regulatory review for $85 billion coast‑to‑coast rail merger reut.rs/44yQLOC
 
-[2025-12-20 05:25:09](https://bsky.app/profile/reuters.com/post/3maejjv37yr2b)
-
----
-
-@forbes.com
-
-The deal announced Friday tacks on to similar reduced price agreements the Trump administration has made with five other pharmaceutical companies.
-
-[2025-12-20 05:25:04](https://bsky.app/profile/forbes.com/post/3maejjqrryg2q)
-
----
-
-@nhknewsunofficial.bsky.social
-
-日本と中央アジア5か国の首脳会合 共同宣言の原案が明らかに
-https://news.web.nhk/newsweb/na/na-k10015008841000
-
-[2025-12-20 05:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maejhxkzgr2b)
-
----
-
-@thealexknapp.bsky.social
-
-In this week's edition of my emerging tech newsletter, The Prototype, I took a look at a drug that holds promise for regenerating injured spinal columns, a discovery that could lead to rejuvenating immune systems in old age and why it's good to swear at the gym. 
-
-www.forbes.com/sites/the-pr...
-
-[2025-12-20 05:21:24](https://bsky.app/profile/thealexknapp.bsky.social/post/3maejd6fmns27)
-
----
-
-@nhknewsunofficial.bsky.social
-
-国立大学病院長 “物価上昇に合わせ診療報酬引き上げ検討を”
-https://news.web.nhk/newsweb/na/na-k10015008961000
-
-[2025-12-20 05:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maejcmamil24)
-
----
-
-@cbsnews.com
-
-Kennedy Center adds Trump's name to building.
-
-[2025-12-20 05:20:41](https://bsky.app/profile/cbsnews.com/post/3maejbvdinb2h)
+[2025-12-20 05:45:15](https://bsky.app/profile/reuters.com/post/3maeknti7tq2r)
 
 ---
 
 @japan.reuters.com
 
-ロシア中央銀行は１９日の理事会で、主要政策金利を５０ベーシスポイント（ｂｐ）引き下げ１６％にすると決定した。インフレが鈍化傾向にあり経済が減速する中、大方の市場予想に沿った内容。プーチン大統領が同日開いた記者会見で「経済の減速は中銀がインフレ対策で金融を引き締めた結果だ」と指摘したことに歩調を合わせる形となった。 bit.ly/4p8hetN
+飢餓の状況を監視する国連組織「総合的食料安全保障レベル分類（ＩＰＣ）」は１９日、パレスチナ自治区ガザで飢きんはなくなったと発表した。イスラエルとイスラム組織ハマスとの間で１０月１０日に成立した停戦により、人道支援や食糧供給が改善したという。 bit.ly/4j8Vxbp
 
-[2025-12-20 05:16:20](https://bsky.app/profile/japan.reuters.com/post/3maej24hz4y26)
+[2025-12-20 05:45:14](https://bsky.app/profile/japan.reuters.com/post/3maeknsnm4n2s)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+赤坂サウナ店火災 施工業者 全国の納入先に点検呼びかけ
+https://news.web.nhk/newsweb/na/na-k10015008861000
+
+[2025-12-20 05:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maeki4vavg2k)
+
+---
+
+@reuters.com
+
+World Court to hear Myanmar genocide case in January reut.rs/4aZMtUd
+
+[2025-12-20 05:40:19](https://bsky.app/profile/reuters.com/post/3maekeyug642y)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+ガザ地区 停戦で食料状況改善「飢きん」状態脱するも不安続く
+https://news.web.nhk/newsweb/na/na-k10015009091000
+
+[2025-12-20 05:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maekcsjs6324)
+
+---
+
+@japan.reuters.com
+
+ロンドン株式市場はまちまちで取引を終えた。ＦＴＳＥ１００種は続伸。一方、国内志向の強い中型株で構成するＦＴＳＥ２５０種指数は０．０６％下落した。週間ベースではＦＴＳＥ１００種は２．５７％、ＦＴＳＥ２５０種は１．９９％いずれも上昇した。 bit.ly/4pMbiHJ
+
+[2025-12-20 05:38:43](https://bsky.app/profile/japan.reuters.com/post/3maekc5sple2p)
+
+---
+
+@wsj.com
+
+Exclusive: Los Angeles Dodgers’ first baseman Freddie Freeman and his wife, Chelsea Freeman, sold their L.A. house for $6.45 million—$1.375 million less than they paid in 2023.
+
+[2025-12-20 05:38:02](https://bsky.app/profile/wsj.com/post/3maekaw4tym2u)
+
+---
+
+@wsj.com
+
+The baseball star took a $1.375 million loss on the sale of the new-construction Studio City home. on.wsj.com/49jHj45
+
+[2025-12-20 05:37:52](https://bsky.app/profile/wsj.com/post/3maekamy5jq2k)
+
+---
+
+@japan.reuters.com
+
+米国のルビオ国務長官は１９日、ベネズエラへの対応を巡り、同国と関係が近いロシアと米国との間で緊張が高まる可能性について懸念していないと述べた。 bit.ly/45aq9n7
+
+[2025-12-20 05:36:33](https://bsky.app/profile/japan.reuters.com/post/3maek6bxwjx25)
 
 ---
 
