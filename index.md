@@ -1,9 +1,9 @@
-# [2025-12-19 11:50 updated](2025_12_19.md)
+# [2025-12-19 12:10 updated](2025_12_19.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Under CEO Charlie Scharf, Wells Fargo is clinching more big deals. <a href="https://bsky.app/profile/wsj.com/post/3macoieam3o2k" target="_blank">wsj.com</a> (2025-12-19 11:48:27)</span><span style="padding-right:50px;">「国際卓越研究大学」東京科学大学を認定へ 京都大学も候補に https://news.web.nhk/newsweb/na/na-k10015008231000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3macohomw5724" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 11:48:02)</span><span style="padding-right:50px;">JUST IN: Manhunt over — Brown University shooting suspect found dead from self-inflicted gunshot wound, authorities say <a href="https://bsky.app/profile/usatoday.com/post/3macofqpct62f" target="_blank">usatoday.com</a> (2025-12-19 11:46:59)</span><span style="padding-right:50px;">JUST IN: The suspect in the mass shooting at Brown University that killed two and injured nine others was found dead, officials announced. <a href="https://bsky.app/profile/axios.com/post/3macoey5l2c2w" target="_blank">axios.com</a> (2025-12-19 11:46:34)</span><span style="padding-right:50px;">米大リーグ（ＭＬＢ）のカブスは１８日、今季までプロ野球ＤｅＮＡに所属していたタイラー・オースティン一塁手と１年契約を結んだと発表した。関係者によると、年俸は１２５万ドル（約１億９０００万円）だという。ＭＬＢ公式サイトが報じた。 bit.ly/44WBGXl <a href="https://bsky.app/profile/japan.reuters.com/post/3macodpbvub2q" target="_blank">japan.reuters.com</a> (2025-12-19 11:45:51)</span>
+<span style="padding-right:50px;">＜１１：３３＞　前場の日経平均は反発、日銀イベント控えハト派期待が先行 bit.ly/3KPMoYJ <a href="https://bsky.app/profile/japan.reuters.com/post/3macpnlde3u27" target="_blank">japan.reuters.com</a> (2025-12-19 12:09:16)</span><span style="padding-right:50px;">Near-term market sentiment may get an immediate test with the listing of ICICI Prudential AMC. A standout debut may set the tone for other fund houses preparing to go public. Read for free with your email on what could move markets today. <a href="https://bsky.app/profile/bloomberg.com/post/3macpkteurz23" target="_blank">bloomberg.com</a> (2025-12-19 12:07:44)</span><span style="padding-right:50px;">木原稔官房長官は１９日午前の会見で、首相官邸の幹部が「核保有すべき」と記者団との懇談で語ったと報じられていることについて、発言の撤回を指示するかなどの措置を取るかどうか明言しなかった。 bit.ly/48Wwe7S <a href="https://bsky.app/profile/japan.reuters.com/post/3macpjh4zeu2u" target="_blank">japan.reuters.com</a> (2025-12-19 12:06:57)</span><span style="padding-right:50px;">Rep. Henry Cuellar, the Texas Democrat who was pardoned by Trump then angered the president by not switching parties in return, has steadily built a powerful political presence in and around Laredo. <a href="https://bsky.app/profile/wsj.com/post/3macpjgejrz2s" target="_blank">wsj.com</a> (2025-12-19 12:06:56)</span><span style="padding-right:50px;">トヨタ 米で生産のセダンなど3車種 来年から「逆輸入」の方針 https://news.web.nhk/newsweb/na/na-k10015008281000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3macpi4vvox2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 12:06:11)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49568.66 (🔺180.95 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3420.00 (🔺31.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 155.79 (🔺0.26 : 2025-12-19)</span>
+<span style="padding-right:50px;">NIKKEI: 49568.66 (🔺180.95 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3420.00 (🔺31.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 155.81 (🔺0.28 : 2025-12-19)</span>
   </div>
 </div>
 
@@ -32,103 +32,95 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
-
-1. Wells Fargo Clinches Big Deals Under New CEO
-2. Brown University Shooting Suspect Found Dead
-3. Tyson Austin Signs One-Year Deal with Chicago Cubs
-4. Japan's Economy to See Sustained Growth, Finance Minister Says
-5. US and EU Delay Trade Deal with South America's Mercosur Bloc
-6. Trump Administration to Restrict Gender Transition Care for Minors
+1. Toyota to Import Sedans Produced in the US Starting Next Year
+2. Japan to Develop and Collaborate on AI Through New Basic Plan
+3. NHK's Kohaku Uta Gassen Announces Performer Song List
+4. Saudi Arabia to Host WTO Ministerial Conference in 2028
+5. Wisconsin Judge Found Guilty of Obstructing Federal Agents
+6. EU Agrees to Provide Interest-Free Loan to Ukraine
 
 ----
 
+@japan.reuters.com
+
+＜１１：３３＞　前場の日経平均は反発、日銀イベント控えハト派期待が先行 bit.ly/3KPMoYJ
+
+[2025-12-19 12:09:16](https://bsky.app/profile/japan.reuters.com/post/3macpnlde3u27)
+
+---
+
+@bloomberg.com
+
+Near-term market sentiment may get an immediate test with the listing of ICICI Prudential AMC. A standout debut may set the tone for other fund houses preparing to go public. Read for free with your email on what could move markets today.
+
+[2025-12-19 12:07:44](https://bsky.app/profile/bloomberg.com/post/3macpkteurz23)
+
+---
+
+@japan.reuters.com
+
+木原稔官房長官は１９日午前の会見で、首相官邸の幹部が「核保有すべき」と記者団との懇談で語ったと報じられていることについて、発言の撤回を指示するかなどの措置を取るかどうか明言しなかった。 bit.ly/48Wwe7S
+
+[2025-12-19 12:06:57](https://bsky.app/profile/japan.reuters.com/post/3macpjh4zeu2u)
+
+---
+
 @wsj.com
 
-Under CEO Charlie Scharf, Wells Fargo is clinching more big deals.
+Rep. Henry Cuellar, the Texas Democrat who was pardoned by Trump then angered the president by not switching parties in return, has steadily built a powerful political presence in and around Laredo.
 
-[2025-12-19 11:48:27](https://bsky.app/profile/wsj.com/post/3macoieam3o2k)
+[2025-12-19 12:06:56](https://bsky.app/profile/wsj.com/post/3macpjgejrz2s)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-「国際卓越研究大学」東京科学大学を認定へ 京都大学も候補に
-https://news.web.nhk/newsweb/na/na-k10015008231000
+トヨタ 米で生産のセダンなど3車種 来年から「逆輸入」の方針
+https://news.web.nhk/newsweb/na/na-k10015008281000
 
-[2025-12-19 11:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3macohomw5724)
-
----
-
-@usatoday.com
-
-<strong><span style="color: red;">JUST IN:</span> Manhunt over — Brown University shooting suspect found dead from self-inflicted gunshot wound, authorities say</strong>
-
-[2025-12-19 11:46:59](https://bsky.app/profile/usatoday.com/post/3macofqpct62f)
+[2025-12-19 12:06:11](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3macpi4vvox2m)
 
 ---
 
-@axios.com
+@nhknewsunofficial.bsky.social
 
-<strong><span style="color: red;">JUST IN:</span> The suspect in the mass shooting at Brown University that killed two and injured nine others was found dead, officials announced.</strong>
+政府 初の「AI基本計画」案まとめる 首相“官民連携し開発を”
+https://news.web.nhk/newsweb/na/na-k10015008241000
 
-[2025-12-19 11:46:34](https://bsky.app/profile/axios.com/post/3macoey5l2c2w)
-
----
-
-@japan.reuters.com
-
-米大リーグ（ＭＬＢ）のカブスは１８日、今季までプロ野球ＤｅＮＡに所属していたタイラー・オースティン一塁手と１年契約を結んだと発表した。関係者によると、年俸は１２５万ドル（約１億９０００万円）だという。ＭＬＢ公式サイトが報じた。 bit.ly/44WBGXl
-
-[2025-12-19 11:45:51](https://bsky.app/profile/japan.reuters.com/post/3macodpbvub2q)
+[2025-12-19 12:06:06](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3macphymt3t2s)
 
 ---
 
-@japan.reuters.com
+@nhknewsunofficial.bsky.social
 
-市場調査会社ＧｆＫが発表した１２月の英消費者信頼感指数はマイナス１７に上昇し、８月、１０月と並んで今年最高の水準だった。リーブス英財務相が１１月に発表した年次予算案に家計への即時増税がほとんど盛り込まれなかったことを受けた。 bit.ly/4pN8Zo0
+NHK紅白歌合戦 出場歌手の曲目を発表
+https://news.web.nhk/newsweb/na/na-k10015007331000
 
-[2025-12-19 11:44:35](https://bsky.app/profile/japan.reuters.com/post/3macobhcn7l2c)
+[2025-12-19 12:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3macphudma32v)
 
 ---
 
 @sokuho.news
 
-🛎️JNNより【速報】です。
+<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>NHK紅白歌合戦 出場歌手の曲目を発表</strong><br><strong>(2025-12-19 12:03:27) #ニュース</strong><br><strong>https://news.web.nhk/newsweb/na/na-k10015007331000</strong>
 
-【速報】木原官房長官「非核三原則を堅持している」 安保担当の官邸関係者が「日本は核保有すべき」発言で 長崎の被爆者は…
-(2025-12-19 11:41:20) #ニュース
-
-[2025-12-19 11:43:57](https://bsky.app/profile/sokuho.news/post/3macoacswg72y)
+[2025-12-19 12:03:49](https://bsky.app/profile/sokuho.news/post/3macpdunoxj2y)
 
 ---
 
-@sokuho.news
+@japan.reuters.com
 
-🛎️NNNより【速報】です。
+世界貿易機関（ＷＴＯ）の文書によると、サウジアラビアが２０２８年の閣僚会議開催国に立候補した。 bit.ly/4p6H40V
 
-【速報】踏切で列車と乗用車衝突 車から高齢の男女救助 路面は圧雪アイスバーン JR留萌線
-(2025-12-19 11:26) #ニュース
-
-[2025-12-19 11:42:50](https://bsky.app/profile/sokuho.news/post/3maco6d5rgo2s)
+[2025-12-19 12:03:11](https://bsky.app/profile/japan.reuters.com/post/3macpcpkzj42p)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@cnn.com
 
-日銀 きょう利上げに踏み切る見通し 30年ぶり高水準の案で議論
-https://news.web.nhk/newsweb/na/na-k10015008081000
+Imagine this: You’re a South Korean teenager taking a notoriously grueling 8-hour college entrance exam. You’ve been prepping for this for months, perhaps years. https://cnn.it/4j4Ek31
 
-[2025-12-19 11:42:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maco54gxiz22)
-
----
-
-@nhknewsunofficial.bsky.social
-
-安全な米国車追加試験せず輸入可に 国交省1月下旬にも省令改正
-https://news.web.nhk/newsweb/na/na-k10015008221000
-
-[2025-12-19 11:42:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maco4y6r4b22)
+[2025-12-19 12:01:02](https://bsky.app/profile/cnn.com/post/3macp6u7ot42k)
 
 ---
 
