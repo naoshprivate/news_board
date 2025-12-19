@@ -1,9 +1,9 @@
-# [2025-12-19 11:30 updated](2025_12_19.md)
+# [2025-12-19 11:50 updated](2025_12_19.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">米エネルギー省は１８日、人工知能（ＡＩ）を活用して科学研究を加速し、米国のエネルギー・安全保障の能力の強化を目指す国家計画「ジェネシス・ミッション」の推進を巡り、マイクロソフト、アルファベット傘下のグーグル、エヌビディアなどのテック大手を含む２４の組織と協定を締結したと発表した。 bit.ly/4qkJydf <a href="https://bsky.app/profile/japan.reuters.com/post/3macnerr2r32c" target="_blank">japan.reuters.com</a> (2025-12-19 11:28:33)</span><span style="padding-right:50px;">When a gunman murdered 35 people in Tasmania in 1996, Australia's political leaders united to implement some of the West's toughest gun laws. Nearly three decades later, after 15 people were killed at a Jewish festival at Bondi Beach, consensus is more elusive reut.rs/48N0WBC <a href="https://bsky.app/profile/reuters.com/post/3macnelc6ss2j" target="_blank">reuters.com</a> (2025-12-19 11:28:26)</span><span style="padding-right:50px;">ブラジル中央銀行のガリポロ総裁は１８日、データに基づく政策アプローチを継続すると述べ、次回の金利変更に関する指針は示さなかった。来月の金融政策会合を控え、あらゆる政策選択肢をオープンに維持した。 bit.ly/491A0gm <a href="https://bsky.app/profile/japan.reuters.com/post/3macnctacec2f" target="_blank">japan.reuters.com</a> (2025-12-19 11:27:28)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】踏切で列車と乗用車衝突 車から高齢の男女救助 夕方まで全線運転見合わせ JR留萌線 (2025-12-19 11:26) #ニュース  🚃鉄道運行情報 🔗https://transit.yahoo.co.jp/diainfo <a href="https://bsky.app/profile/sokuho.news/post/3macnauhyqg2s" target="_blank">sokuho.news</a> (2025-12-19 11:26:22)</span><span style="padding-right:50px;">China boosts AI chip output by upgrading older ASML machines ft.trib.al/3iL9BmK <a href="https://bsky.app/profile/financialtimes.com/post/3macnarkf5y24" target="_blank">financialtimes.com</a> (2025-12-19 11:26:19)</span>
+<span style="padding-right:50px;">Under CEO Charlie Scharf, Wells Fargo is clinching more big deals. <a href="https://bsky.app/profile/wsj.com/post/3macoieam3o2k" target="_blank">wsj.com</a> (2025-12-19 11:48:27)</span><span style="padding-right:50px;">「国際卓越研究大学」東京科学大学を認定へ 京都大学も候補に https://news.web.nhk/newsweb/na/na-k10015008231000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3macohomw5724" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 11:48:02)</span><span style="padding-right:50px;">JUST IN: Manhunt over — Brown University shooting suspect found dead from self-inflicted gunshot wound, authorities say <a href="https://bsky.app/profile/usatoday.com/post/3macofqpct62f" target="_blank">usatoday.com</a> (2025-12-19 11:46:59)</span><span style="padding-right:50px;">JUST IN: The suspect in the mass shooting at Brown University that killed two and injured nine others was found dead, officials announced. <a href="https://bsky.app/profile/axios.com/post/3macoey5l2c2w" target="_blank">axios.com</a> (2025-12-19 11:46:34)</span><span style="padding-right:50px;">米大リーグ（ＭＬＢ）のカブスは１８日、今季までプロ野球ＤｅＮＡに所属していたタイラー・オースティン一塁手と１年契約を結んだと発表した。関係者によると、年俸は１２５万ドル（約１億９０００万円）だという。ＭＬＢ公式サイトが報じた。 bit.ly/44WBGXl <a href="https://bsky.app/profile/japan.reuters.com/post/3macodpbvub2q" target="_blank">japan.reuters.com</a> (2025-12-19 11:45:51)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49513.67 (🔺125.96 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3422.00 (🔺33.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 155.71 (🔺0.18 : 2025-12-19)</span>
+<span style="padding-right:50px;">NIKKEI: 49568.66 (🔺180.95 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3420.00 (🔺31.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 155.79 (🔺0.26 : 2025-12-19)</span>
   </div>
 </div>
 
@@ -32,38 +32,74 @@
 
 ## News Headlines
 
-Here are six news headlines in English:
+Here are six important stories with headlines in English:
 
-1. Microsoft, Google, and Other Tech Giants Partner with US Energy Department on AI-Powered Research
-2. Brazil's Lula Veto's Bill to Reduce Bolsonaro's Sentence by 80%
-3. Exclusive: Trump Administration to Review Nvidia AI Chip Sales to China
-4. Tokyo University to Be Stripped of International Research University Status for Up to a Year
-5. Trump Imposes Partial Maritime Blockade on Venezuela, Raising Concerns About Taiwan's Security
-6. EU to Provide €90 Billion Loan to Ukraine Amid Ongoing Conflict
+1. Wells Fargo Clinches Big Deals Under New CEO
+2. Brown University Shooting Suspect Found Dead
+3. Tyson Austin Signs One-Year Deal with Chicago Cubs
+4. Japan's Economy to See Sustained Growth, Finance Minister Says
+5. US and EU Delay Trade Deal with South America's Mercosur Bloc
+6. Trump Administration to Restrict Gender Transition Care for Minors
 
 ----
 
-@japan.reuters.com
+@wsj.com
 
-米エネルギー省は１８日、人工知能（ＡＩ）を活用して科学研究を加速し、米国のエネルギー・安全保障の能力の強化を目指す国家計画「ジェネシス・ミッション」の推進を巡り、マイクロソフト、アルファベット傘下のグーグル、エヌビディアなどのテック大手を含む２４の組織と協定を締結したと発表した。 bit.ly/4qkJydf
+Under CEO Charlie Scharf, Wells Fargo is clinching more big deals.
 
-[2025-12-19 11:28:33](https://bsky.app/profile/japan.reuters.com/post/3macnerr2r32c)
-
----
-
-@reuters.com
-
-When a gunman murdered 35 people in Tasmania in 1996, Australia's political leaders united to implement some of the West's toughest gun laws. Nearly three decades later, after 15 people were killed at a Jewish festival at Bondi Beach, consensus is more elusive reut.rs/48N0WBC
-
-[2025-12-19 11:28:26](https://bsky.app/profile/reuters.com/post/3macnelc6ss2j)
+[2025-12-19 11:48:27](https://bsky.app/profile/wsj.com/post/3macoieam3o2k)
 
 ---
 
+@nhknewsunofficial.bsky.social
+
+「国際卓越研究大学」東京科学大学を認定へ 京都大学も候補に
+https://news.web.nhk/newsweb/na/na-k10015008231000
+
+[2025-12-19 11:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3macohomw5724)
+
+---
+
+@usatoday.com
+
+<strong><span style="color: red;">JUST IN:</span> Manhunt over — Brown University shooting suspect found dead from self-inflicted gunshot wound, authorities say</strong>
+
+[2025-12-19 11:46:59](https://bsky.app/profile/usatoday.com/post/3macofqpct62f)
+
+---
+
+@axios.com
+
+<strong><span style="color: red;">JUST IN:</span> The suspect in the mass shooting at Brown University that killed two and injured nine others was found dead, officials announced.</strong>
+
+[2025-12-19 11:46:34](https://bsky.app/profile/axios.com/post/3macoey5l2c2w)
+
+---
+
 @japan.reuters.com
 
-ブラジル中央銀行のガリポロ総裁は１８日、データに基づく政策アプローチを継続すると述べ、次回の金利変更に関する指針は示さなかった。来月の金融政策会合を控え、あらゆる政策選択肢をオープンに維持した。 bit.ly/491A0gm
+米大リーグ（ＭＬＢ）のカブスは１８日、今季までプロ野球ＤｅＮＡに所属していたタイラー・オースティン一塁手と１年契約を結んだと発表した。関係者によると、年俸は１２５万ドル（約１億９０００万円）だという。ＭＬＢ公式サイトが報じた。 bit.ly/44WBGXl
 
-[2025-12-19 11:27:28](https://bsky.app/profile/japan.reuters.com/post/3macnctacec2f)
+[2025-12-19 11:45:51](https://bsky.app/profile/japan.reuters.com/post/3macodpbvub2q)
+
+---
+
+@japan.reuters.com
+
+市場調査会社ＧｆＫが発表した１２月の英消費者信頼感指数はマイナス１７に上昇し、８月、１０月と並んで今年最高の水準だった。リーブス英財務相が１１月に発表した年次予算案に家計への即時増税がほとんど盛り込まれなかったことを受けた。 bit.ly/4pN8Zo0
+
+[2025-12-19 11:44:35](https://bsky.app/profile/japan.reuters.com/post/3macobhcn7l2c)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】木原官房長官「非核三原則を堅持している」 安保担当の官邸関係者が「日本は核保有すべき」発言で 長崎の被爆者は…
+(2025-12-19 11:41:20) #ニュース
+
+[2025-12-19 11:43:57](https://bsky.app/profile/sokuho.news/post/3macoacswg72y)
 
 ---
 
@@ -71,61 +107,28 @@ When a gunman murdered 35 people in Tasmania in 1996, Australia's political lead
 
 🛎️NNNより【速報】です。
 
-【速報】踏切で列車と乗用車衝突 車から高齢の男女救助 夕方まで全線運転見合わせ JR留萌線
+【速報】踏切で列車と乗用車衝突 車から高齢の男女救助 路面は圧雪アイスバーン JR留萌線
 (2025-12-19 11:26) #ニュース
 
-🚃鉄道運行情報
-🔗https://transit.yahoo.co.jp/diainfo
-
-[2025-12-19 11:26:22](https://bsky.app/profile/sokuho.news/post/3macnauhyqg2s)
+[2025-12-19 11:42:50](https://bsky.app/profile/sokuho.news/post/3maco6d5rgo2s)
 
 ---
 
-@financialtimes.com
+@nhknewsunofficial.bsky.social
 
-China boosts AI chip output by upgrading older ASML machines ft.trib.al/3iL9BmK
+日銀 きょう利上げに踏み切る見通し 30年ぶり高水準の案で議論
+https://news.web.nhk/newsweb/na/na-k10015008081000
 
-[2025-12-19 11:26:19](https://bsky.app/profile/financialtimes.com/post/3macnarkf5y24)
-
----
-
-@apnews.com
-
-<strong><span style="color: red;">BREAKING:</span> Man suspected in the shooting at Brown University has been found dead in a New Hampshire storage facility, AP source says.</strong>
-
-[2025-12-19 11:25:37](https://bsky.app/profile/apnews.com/post/3macn7jpiuz2x)
+[2025-12-19 11:42:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maco54gxiz22)
 
 ---
 
-@japan.reuters.com
+@nhknewsunofficial.bsky.social
 
-米紙ウォール・ストリート・ジャーナル（ＷＳＪ）は１８日、対話型人工知能（ＡＩ）「チャットＧＰＴ」を手がけるオープンＡＩが新たな資金調達ラウンドで最大１０００億ドルの調達を目指しており、目標全額を調達できれば同社の評価額は最大８３００億ドルに達する可能性があると報じた。 bit.ly/4pP5ZHN
+安全な米国車追加試験せず輸入可に 国交省1月下旬にも省令改正
+https://news.web.nhk/newsweb/na/na-k10015008221000
 
-[2025-12-19 11:22:37](https://bsky.app/profile/japan.reuters.com/post/3macn25t7we2c)
-
----
-
-@cbsnews.com
-
-<strong><span style="color: red;">BREAKING:</span> The Brown University shooting suspect was found dead in a New Hampshire storage unit, sources say.</strong>
-
-[2025-12-19 11:21:31](https://bsky.app/profile/cbsnews.com/post/3macmy7rnpi2h)
-
----
-
-@japan.reuters.com
-
-＜１１：１０＞　前場の国債先物は反落、長期金利1.975％　日銀会合結果待ち bit.ly/4qnJmtX
-
-[2025-12-19 11:20:55](https://bsky.app/profile/japan.reuters.com/post/3macmx4nfjr25)
-
----
-
-@reuters.com
-
-Hansen appointed head coach of New Zealand’s Black Ferns until 2027 reut.rs/4qc6f3e
-
-[2025-12-19 11:20:16](https://bsky.app/profile/reuters.com/post/3macmvxthue2p)
+[2025-12-19 11:42:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maco4y6r4b22)
 
 ---
 
