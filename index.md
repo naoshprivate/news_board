@@ -1,9 +1,9 @@
-# [2025-12-20 01:30 updated](2025_12_20.md)
+# [2025-12-20 01:50 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Ros Atkins on...the links between the UAE and Sudan <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mae4efij3i26" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-20 01:29:25)</span><span style="padding-right:50px;">Trump officials will release only some Epstein files as deadline looms <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mae4cilpw527" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-20 01:28:22)</span><span style="padding-right:50px;">Bethany Kozma leads a key global health office at the Department of Health and Human Services. In past experience in the public eye, she's campaigned against abortion and gender-affirming care. n.pr/44y60HA <a href="https://bsky.app/profile/npr.org/post/3mae4bl4vue2b" target="_blank">npr.org</a> (2025-12-20 01:27:51)</span><span style="padding-right:50px;">Putin vows no more wars if West treats Russia with respect <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mae4alvv322r" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-20 01:27:18)</span><span style="padding-right:50px;">It’s beginning to look a lot like holiday job season ft.trib.al/4yKeFop <a href="https://bsky.app/profile/financialtimes.com/post/3mae4a537eg2o" target="_blank">financialtimes.com</a> (2025-12-20 01:27:03)</span>
+<span style="padding-right:50px;">Breaking News: Workers began adding President Trump’s name to the Kennedy Center, despite no action by Congress to legally rename it. This sparked outrage among the Kennedy family, since it was built to be a living memorial to the 35th president. <a href="https://bsky.app/profile/nytimes.com/post/3mae5hfd4ix2y" target="_blank">nytimes.com</a> (2025-12-20 01:49:00)</span><span style="padding-right:50px;">For some, dictionaries are more than writing tools. They are doorways to discoveries. on.wsj.com/49gMP7H <a href="https://bsky.app/profile/wsj.com/post/3mae5h4gf2w2k" target="_blank">wsj.com</a> (2025-12-20 01:48:51)</span><span style="padding-right:50px;">Roman North Africa went from a place where Christians were persecuted to a region known for its devotion. on.wsj.com/4alBFj5 <a href="https://bsky.app/profile/wsj.com/post/3mae5d6bhnz2t" target="_blank">wsj.com</a> (2025-12-20 01:46:38)</span><span style="padding-right:50px;">US lawmakers urge Pentagon to add DeepSeek, Xiaomi to list of firms allegedly aiding Chinese military reut.rs/4s70kOM <a href="https://bsky.app/profile/reuters.com/post/3mae5avvile24" target="_blank">reuters.com</a> (2025-12-20 01:45:23)</span><span style="padding-right:50px;">Deputy Attorney General Todd Blanche said Friday the administration will not release all of its Epstein files Friday, as it’s legally required to do. <a href="https://bsky.app/profile/forbes.com/post/3mae5adlnsp2z" target="_blank">forbes.com</a> (2025-12-20 01:45:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48260.49 (🔺285.67 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23250.33 (🔺128.43 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 179.29 (🔺2.62 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.48 (🔺1.95 : 2025-12-19)</span>
+<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48219.70 (🔺244.88 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23223.35 (🔺101.45 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 179.47 (🔺2.81 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.41 (🔺1.88 : 2025-12-19)</span>
   </div>
 </div>
 
@@ -32,94 +32,94 @@
 
 ## News Headlines
 
-Here are six news headlines in English:
+Here are six important stories with headlines in English:
 
-1. Putin Vows No More Wars if West Treats Russia with Respect
-2. UK Imposes Sanctions on Perpetrators of Violence Against Syrian Civilians
-3. Exclusive: Elon Musk Did Not Buy Sydell Miller's $78.9 Million Penthouse
-4. Ford's Bet on Electric Truck Leads to $19.5 Billion Write-Down
-5. Visa, Mastercard to Pay $167.5 Million in ATM User Fee Settlement
-6. US to Release 'Several Hundred Thousand' Epstein Files on Friday
+1. Trump's Name Added to Kennedy Center Despite No Congressional Approval
+2. US Lawmakers Urge Pentagon to Add Xiaomi to List of Firms Allegedly Aiding Chinese Military
+3. US to Release Some Epstein Files, but Not All, as Deadline Looms
+4. No Longer Famine in Gaza, UN Announces After Humanitarian Aid Influx
+5. Putin Claims No Willingness from Ukraine to Negotiate Peace, Kyiv Denies
+6. UN Refugee Agency Reports Women and Children Arriving Exhausted and Traumatized from Eastern DRC
 
 ----
 
-@bbcnews-world-rss.bsky.social
+@nytimes.com
 
-Ros Atkins on...the links between the UAE and Sudan
+<strong><span style="color: red;">Breaking News</span>: Workers began adding President Trump’s name to the Kennedy Center, despite no action by Congress to legally rename it. This sparked outrage among the Kennedy family, since it was built to be a living memorial to the 35th president.</strong>
 
-[2025-12-20 01:29:25](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mae4efij3i26)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Trump officials will release only some Epstein files as deadline looms
-
-[2025-12-20 01:28:22](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mae4cilpw527)
-
----
-
-@npr.org
-
-Bethany Kozma leads a key global health office at the Department of Health and Human Services. In past experience in the public eye, she's campaigned against abortion and gender-affirming care. n.pr/44y60HA
-
-[2025-12-20 01:27:51](https://bsky.app/profile/npr.org/post/3mae4bl4vue2b)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Putin vows no more wars if West treats Russia with respect
-
-[2025-12-20 01:27:18](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mae4alvv322r)
-
----
-
-@financialtimes.com
-
-It’s beginning to look a lot like holiday job season ft.trib.al/4yKeFop
-
-[2025-12-20 01:27:03](https://bsky.app/profile/financialtimes.com/post/3mae4a537eg2o)
-
----
-
-@reuters.com
-
-Trump to announce new deals to lower drug prices, White House says reut.rs/4s3DpDW
-
-[2025-12-20 01:25:25](https://bsky.app/profile/reuters.com/post/3mae457katr2y)
-
----
-
-@cnn.com
-
-Kennedy Center gets new signage bearing Trump's name a day after board of trustees voted to rename the facility. https://cnn.it/4qmBLMc
-
-[2025-12-20 01:20:46](https://bsky.app/profile/cnn.com/post/3mae3uvmdq42a)
+[2025-12-20 01:49:00](https://bsky.app/profile/nytimes.com/post/3mae5hfd4ix2y)
 
 ---
 
 @wsj.com
 
-The northern frontier of China has been the source of unease and conflict for thousands of years. on.wsj.com/3KRDMRp
+For some, dictionaries are more than writing tools. They are doorways to discoveries. on.wsj.com/49gMP7H
 
-[2025-12-20 01:20:07](https://bsky.app/profile/wsj.com/post/3mae3tq4qmb2u)
-
----
-
-@financialtimes.com
-
- Europe risks a self-fulfilling prophecy over the threat from Russia ft.trib.al/5nekh4L  | opinion
-
-[2025-12-20 01:18:08](https://bsky.app/profile/financialtimes.com/post/3mae3q76q3524)
+[2025-12-20 01:48:51](https://bsky.app/profile/wsj.com/post/3mae5h4gf2w2k)
 
 ---
 
-@nytimes.com
+@wsj.com
 
-Nutty, buttery and a bit boozy, these festive cookies come together in minutes, making them perfect for holiday baking. nyti.ms/3L2rCoC
+Roman North Africa went from a place where Christians were persecuted to a region known for its devotion. on.wsj.com/4alBFj5
 
-[2025-12-20 01:16:06](https://bsky.app/profile/nytimes.com/post/3mae3mkx4mq2y)
+[2025-12-20 01:46:38](https://bsky.app/profile/wsj.com/post/3mae5d6bhnz2t)
+
+---
+
+@reuters.com
+
+US lawmakers urge Pentagon to add DeepSeek, Xiaomi to list of firms allegedly aiding Chinese military reut.rs/4s70kOM
+
+[2025-12-20 01:45:23](https://bsky.app/profile/reuters.com/post/3mae5avvile24)
+
+---
+
+@forbes.com
+
+Deputy Attorney General Todd Blanche said Friday the administration will not release all of its Epstein files Friday, as it’s legally required to do.
+
+[2025-12-20 01:45:03](https://bsky.app/profile/forbes.com/post/3mae5adlnsp2z)
+
+---
+
+@cnbc.com
+
+'Avatar: Fire and Ash' snares $12 million in Thursday previews
+
+[2025-12-20 01:45:00](https://bsky.app/profile/cnbc.com/post/3mae5a7rcbr24)
+
+---
+
+@wsj.com
+
+The magazine introduced many now-classic works by writers including Longfellow, Whitman and Frost. on.wsj.com/3NaKuCw
+
+[2025-12-20 01:42:05](https://bsky.app/profile/wsj.com/post/3mae52zms2o2k)
+
+---
+
+@axios.com
+
+American Airlines tightens frequent flyer perks on basic economy tickets
+
+[2025-12-20 01:41:54](https://bsky.app/profile/axios.com/post/3mae52p5dyk22)
+
+---
+
+@reuters.com
+
+Google Cloud lands deal with Palo Alto Networks 'approaching $10 billion,' per source reut.rs/44DH6WW
+
+[2025-12-20 01:40:32](https://bsky.app/profile/reuters.com/post/3mae4yatmk32k)
+
+---
+
+@nbcnews.com
+
+A jury found a Wisconsin judge accused of helping a Mexican immigrant dodge federal authorities guilty of obstruction.
+
+[2025-12-20 01:40:08](https://bsky.app/profile/nbcnews.com/post/3mae4xjvodf26)
 
 ---
 
