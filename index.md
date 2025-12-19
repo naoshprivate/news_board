@@ -1,9 +1,9 @@
-# [2025-12-19 10:50 updated](2025_12_19.md)
+# [2025-12-19 11:10 updated](2025_12_19.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">ドイツ自動車最大手フォルクスワーゲン（ＶＷ）グループのブルーメ最高経営責任者（ＣＥＯ）は１８日、コスト削減を今後も継続する方針を示した。ベルリンで開催された同社の経営会議での発言を広報担当者が伝えた。ブルーメ氏は２０２６年の優先事項の一つに「財務」を掲げ、「目下の任務は、長期的に競争力を維持するため、コストを削減し続けることだ」と述べたという。 bit.ly/4pQZXX2 <a href="https://bsky.app/profile/japan.reuters.com/post/3mackvwkjwb2f" target="_blank">japan.reuters.com</a> (2025-12-19 10:44:27)</span><span style="padding-right:50px;">CNBC Daily Open: Best not to put too much stock in U.S. CPI report for November <a href="https://bsky.app/profile/cnbc.com/post/3macktpe3re2m" target="_blank">cnbc.com</a> (2025-12-19 10:43:13)</span><span style="padding-right:50px;">Australia announced gun buyback scheme in wake of Bondi attack <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mackqlnjea2a" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-19 10:41:28)</span><span style="padding-right:50px;">Rams' Puka Nacua apologizes, 'had no idea' gesture was offensive reut.rs/48Vazyh <a href="https://bsky.app/profile/reuters.com/post/3mackonfl6h2y" target="_blank">reuters.com</a> (2025-12-19 10:40:23)</span><span style="padding-right:50px;">Breaking News: The New York City Council voted to allow thousands of new street vending permits in a push to help vendors sell legally. <a href="https://bsky.app/profile/nytimes.com/post/3macko2atwo2r" target="_blank">nytimes.com</a> (2025-12-19 10:40:02)</span>
+<span style="padding-right:50px;">高市首相動静 2025年12月18日 https://news.web.nhk/newsweb/na/na-k10015008161000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3macmbx7zjj2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 11:09:02)</span><span style="padding-right:50px;">＊この記事は見出しのみの速報です。 bit.ly/4p5oNBs <a href="https://bsky.app/profile/japan.reuters.com/post/3macmbsuinm2c" target="_blank">japan.reuters.com</a> (2025-12-19 11:09:00)</span><span style="padding-right:50px;">米メディア大手ワーナー・ブラザース・ディスカバリー（ＷＢＤ）の第５位株主である運用会社ハリス・アソシエイツは１８日、パラマウント・スカイダンスが買収の条件を巡る問題に対処し、価格を改善した修正案を提示すれば検討する用意があると述べた。 bit.ly/4aq0YR1 <a href="https://bsky.app/profile/japan.reuters.com/post/3macm34isz52u" target="_blank">japan.reuters.com</a> (2025-12-19 11:05:15)</span><span style="padding-right:50px;">首都直下地震 あなたの街の揺れは？ 自治体ごとの震度を詳しく https://news.web.nhk/newsweb/na/na-k10015001041000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maclx7rpn22b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 11:03:02)</span><span style="padding-right:50px;">アジア時間の原油先物は軟調。２週連続で下落する見通しとなっている。ロシアとウクライナの和平合意への期待が高まり、ベネズエラの石油タンカー封鎖による供給障害への懸念が相殺された。 bit.ly/4s2rTZo <a href="https://bsky.app/profile/japan.reuters.com/post/3maclwyunt42c" target="_blank">japan.reuters.com</a> (2025-12-19 11:02:57)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49417.62 (🔺29.91 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3413.00 (🔺24.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 155.71 (🔺0.18 : 2025-12-19)</span>
+<span style="padding-right:50px;">NIKKEI: 49487.71 (🔺100.00 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3413.00 (🔺24.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 155.69 (🔺0.17 : 2025-12-19)</span>
   </div>
 </div>
 
@@ -32,108 +32,99 @@
 
 ## News Headlines
 
-1. Volkswagen Group to Continue Cost-Cutting Efforts
-2. Australia Unveils Gun Buyback Scheme in Wake of Bondi Attack
-3. NYC Council Approves Thousands of New Street Vending Permits
-4. JR Train and Car Collide in Hokkaido, Japan; No Injuries Reported
-5. Actor Clear Miyamae Sentenced to 1 Year in Prison for Marijuana Possession
-6. US Coast Guard Reverses Course on Harassment Policy After Congressional Backlash
-7. Mexico Central Bank Cuts Interest Rate Amid Inflation Fears
-8. UK Appoints New Ambassador to US, Christian Turner
-9. NASA's Artemis Program Gets Boost from Trump Executive Order
-10. Italy's Nexi Rejects TPG Offer for Digital Banking Assets
-11. US House Passes Bill to Speed Up Permitting for Big Energy Projects
-12. Dodgers to Receive $74,748 Each in Postseason Share
-13. Ukraine Reaches Agreement on Debt Restructuring
-14. Roche's Mako Wins BBC Sports Personality of the Year Award
-15. Trump Signs Executive Order to Protect NASA's Artemis Program
+1. Warner Bros. Discovery’s fifth-largest shareholder to consider revised bid for Paramount Global
+2. Tokyo Metropolitan Government releases new estimates of potential earthquake damage
+3. Asian oil prices fall for second straight week
+4. Trump administration to impose partial maritime blockade on Venezuela
+5. EU to lend Ukraine €90 billion to help with economic recovery
+6. Pfizer develops new treatment for psoriasis using AI technology
 
 ----
 
+@nhknewsunofficial.bsky.social
+
+高市首相動静 2025年12月18日
+https://news.web.nhk/newsweb/na/na-k10015008161000
+
+[2025-12-19 11:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3macmbx7zjj2b)
+
+---
+
 @japan.reuters.com
 
-ドイツ自動車最大手フォルクスワーゲン（ＶＷ）グループのブルーメ最高経営責任者（ＣＥＯ）は１８日、コスト削減を今後も継続する方針を示した。ベルリンで開催された同社の経営会議での発言を広報担当者が伝えた。ブルーメ氏は２０２６年の優先事項の一つに「財務」を掲げ、「目下の任務は、長期的に競争力を維持するため、コストを削減し続けることだ」と述べたという。 bit.ly/4pQZXX2
+＊この記事は見出しのみの速報です。 bit.ly/4p5oNBs
 
-[2025-12-19 10:44:27](https://bsky.app/profile/japan.reuters.com/post/3mackvwkjwb2f)
-
----
-
-@cnbc.com
-
-CNBC Daily Open: Best not to put too much stock in U.S. CPI report for November
-
-[2025-12-19 10:43:13](https://bsky.app/profile/cnbc.com/post/3macktpe3re2m)
+[2025-12-19 11:09:00](https://bsky.app/profile/japan.reuters.com/post/3macmbsuinm2c)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@japan.reuters.com
 
-Australia announced gun buyback scheme in wake of Bondi attack
+米メディア大手ワーナー・ブラザース・ディスカバリー（ＷＢＤ）の第５位株主である運用会社ハリス・アソシエイツは１８日、パラマウント・スカイダンスが買収の条件を巡る問題に対処し、価格を改善した修正案を提示すれば検討する用意があると述べた。 bit.ly/4aq0YR1
 
-[2025-12-19 10:41:28](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mackqlnjea2a)
-
----
-
-@reuters.com
-
-Rams' Puka Nacua apologizes, 'had no idea' gesture was offensive reut.rs/48Vazyh
-
-[2025-12-19 10:40:23](https://bsky.app/profile/reuters.com/post/3mackonfl6h2y)
-
----
-
-@nytimes.com
-
-<strong><span style="color: red;">Breaking News</span>: The New York City Council voted to allow thousands of new street vending permits in a push to help vendors sell legally.</strong>
-
-[2025-12-19 10:40:02](https://bsky.app/profile/nytimes.com/post/3macko2atwo2r)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】JR留萌線 列車と乗用車が衝突 深川～石狩沼田で運転見合わせ 高齢の男女2人が軽傷 列車の乗客乗員8人にけがなし
-(2025-12-19 10:18:00) #ニュース
-
-🚃鉄道運行情報
-🔗https://transit.yahoo.co.jp/diainfo
-
-[2025-12-19 10:38:03](https://bsky.app/profile/sokuho.news/post/3mackki426l2r)
+[2025-12-19 11:05:15](https://bsky.app/profile/japan.reuters.com/post/3macm34isz52u)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-俳優 清水尋也被告 大麻所持で執行猶予付き有罪判決 東京地裁
-https://news.web.nhk/newsweb/na/na-k10015008171000
+首都直下地震 あなたの街の揺れは？ 自治体ごとの震度を詳しく
+https://news.web.nhk/newsweb/na/na-k10015001041000
 
-[2025-12-19 10:33:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mackbkvgv722)
+[2025-12-19 11:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maclx7rpn22b)
 
 ---
 
-@usatoday.com
+@japan.reuters.com
 
-Lily Collins teased the new season has a lot more "twists and turns" and "plenty of unexpected moments." Here's who is joining Emily in Rome.
+アジア時間の原油先物は軟調。２週連続で下落する見通しとなっている。ロシアとウクライナの和平合意への期待が高まり、ベネズエラの石油タンカー封鎖による供給障害への懸念が相殺された。 bit.ly/4s2rTZo
 
-[2025-12-19 10:30:37](https://bsky.app/profile/usatoday.com/post/3mack56piiy2w)
+[2025-12-19 11:02:57](https://bsky.app/profile/japan.reuters.com/post/3maclwyunt42c)
+
+---
+
+@financialtimes.com
+
+Good morning, Asia. While you were sleeping, one of our most-read stories was about the largest-ever law firm tie-up, with 3,000 lawyers and combined revenues of more than $3.6bn. ft.trib.al/IrIhLwD
+
+[2025-12-19 11:02:05](https://bsky.app/profile/financialtimes.com/post/3maclvhd3aj2q)
+
+---
+
+@cnn.com
+
+With under two weeks to go before he’s sworn in, New York City mayor-elect Zohran Mamdani has not announced many hires for his administration. One of the few that he has announced was forced to almost immediately resign after her past antisemitic tweets came to light. https://cnn.it/3KTPmvm
+
+[2025-12-19 11:01:02](https://bsky.app/profile/cnn.com/post/3macltkwjci22)
+
+---
+
+@nikkei.com
+
+東日本大震災の震源断層、滑りやすい粘土の鉱物が堆積
+www.nikkei.com/article/DGXZQO...
+
+滑りやすい断層にひずみが集中したことで、巨大な地震を引き起こした可能性があります。
+
+海洋研究開発機構（JAMSTEC）などが海底下の地層を掘削して回収しました。
+
+[2025-12-19 11:00:51](https://bsky.app/profile/nikkei.com/post/3macltaugfg2y)
 
 ---
 
 @reuters.com
 
-Italy's Nexi rejects TPG offer for digital banking assets reut.rs/3MULfQ9
+Playoff berth within Bills' grasp in matchup vs. hapless Browns reut.rs/4aUoy8D
 
-[2025-12-19 10:30:25](https://bsky.app/profile/reuters.com/post/3mack4tjvkl2r)
+[2025-12-19 11:00:45](https://bsky.app/profile/reuters.com/post/3maclt2xs642b)
 
 ---
 
-@bloomberg.com
+@japan.reuters.com
 
-Turkey's leader wants to give back a missile-defense system his country bought from Russia. Here's why that's a big deal ⤵️
+トランプ米大統領は、ベネズエラに部分的な海上封鎖措置を打ち出して同国のマドゥロ政権に対する圧力を劇的に強化した。ただ同時にそれは「中国による台湾の海上封鎖を抑止する」という、米国にとって外交安全保障政策上の最優先目標を危うくするリスクもはらんでいる。 bit.ly/4qlnWxx
 
-[2025-12-19 10:30:09](https://bsky.app/profile/bloomberg.com/post/3mack4e5tzp23)
+[2025-12-19 11:00:39](https://bsky.app/profile/japan.reuters.com/post/3maclsuyyg622)
 
 ---
 
