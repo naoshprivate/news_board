@@ -1,9 +1,9 @@
-# [2025-12-20 03:10 updated](2025_12_20.md)
+# [2025-12-20 03:30 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">UK museum displays thousands of African artefacts it knows almost nothing about reut.rs/4j3WLVj <a href="https://bsky.app/profile/reuters.com/post/3maebqctz5z2p" target="_blank">reuters.com</a> (2025-12-20 03:05:35)</span><span style="padding-right:50px;">UnitedHealth pledges operational changes after external audits reut.rs/4s1NFwB <a href="https://bsky.app/profile/reuters.com/post/3maebq37cm22y" target="_blank">reuters.com</a> (2025-12-20 03:05:27)</span><span style="padding-right:50px;">Turkey's Isbank CEO says economic programme may need a pause to avoid side effects reut.rs/4j6RFHR <a href="https://bsky.app/profile/reuters.com/post/3maebpt3umb2k" target="_blank">reuters.com</a> (2025-12-20 03:05:18)</span><span style="padding-right:50px;">Exclusive: US senator presses tanker giants over cartel-linked fuel smuggling at sea reut.rs/4p2dcTy <a href="https://bsky.app/profile/reuters.com/post/3maebplrxch2s" target="_blank">reuters.com</a> (2025-12-20 03:05:10)</span><span style="padding-right:50px;">From @theathleticfc.bsky.social: Exorbitant World Cup ticket prices are symptomatic of a greater issue across sports in America. Why have ticket prices soared in the U.S. while remaining comparatively low in most of the United Kingdom, Europe and elsewhere? <a href="https://bsky.app/profile/nytimes.com/post/3maebnnyqdn2y" target="_blank">nytimes.com</a> (2025-12-20 03:04:06)</span>
+<span style="padding-right:50px;">This gingerbread cookie  — maxed out on spice, packed with two types of fiery ginger and lots of prickly black pepper — is a cozy treat that’s perfect for munching on during the holidays. <a href="https://bsky.app/profile/nytimes.com/post/3maed2epbat27" target="_blank">nytimes.com</a> (2025-12-20 03:29:06)</span><span style="padding-right:50px;">Putin tells BBC western leaders deceived Russia <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maecx57zfy2y" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-20 03:27:17)</span><span style="padding-right:50px;">Euro zone consumer confidence falls to -14.6 in December reut.rs/4j38C5Y <a href="https://bsky.app/profile/reuters.com/post/3maecuefrsm2c" target="_blank">reuters.com</a> (2025-12-20 03:25:44)</span><span style="padding-right:50px;">Temu-owner PDD Holdings appoints co-CEO Zhao as co-chairman of board reut.rs/4aWMdoT <a href="https://bsky.app/profile/reuters.com/post/3maecu4mbh52b" target="_blank">reuters.com</a> (2025-12-20 03:25:36)</span><span style="padding-right:50px;">Embraer's Eve makes maiden flight of 'flying car' prototype reut.rs/4s6iPCN <a href="https://bsky.app/profile/reuters.com/post/3maectuo7pk23" target="_blank">reuters.com</a> (2025-12-20 03:25:28)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48261.00 (🔺286.18 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23281.66 (🔺159.76 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.18 (🔺3.51 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.44 (🔺1.91 : 2025-12-19)</span>
+<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48273.12 (🔺298.30 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23277.17 (🔺155.28 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 179.98 (🔺3.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.43 (🔺1.90 : 2025-12-19)</span>
   </div>
 </div>
 
@@ -34,92 +34,92 @@
 
 Here are six important stories with headlines in English:
 
-1. UK Museum Displays Thousands of African Artifacts with Little Known History
-2. US Senator Presses Tanker Giants Over Cartel-Linked Fuel Smuggling
-3. US Stocks Plummet as Nike Hits Worst Day Since April Tariff-Driven Selloff
-4. DOJ to Release Trove of Documents Connected to Jeffrey Epstein
-5. Death Toll in US Military's Anti-Drug Operation Exceeds 100
-6. Wall Street Officials Predict Grim Outlook for 2026 Stock Market
+1. Euro Zone Consumer Confidence Falls to 14.6 in December
+2. Turkey's Isbank CEO Warns of Economic Program Pause to Avoid Side Effects
+3. US Senator Presses Tanker Giants over Cartel-Linked Fuel Smuggling at Sea
+4. Australia's Macquarie Group to Pay $23 Million Penalty for Misreporting Short Sales
+5. Famine Declared in Gaza Over, but Food Situation Remains Dire
+6. Wall Street's 2026 Stock Market Outlook: Market Strategist Survey Reveals Optimism
 
 ----
 
-@reuters.com
+@nytimes.com
 
-UK museum displays thousands of African artefacts it knows almost nothing about reut.rs/4j3WLVj
+This gingerbread cookie  — maxed out on spice, packed with two types of fiery ginger and lots of prickly black pepper — is a cozy treat that’s perfect for munching on during the holidays.
 
-[2025-12-20 03:05:35](https://bsky.app/profile/reuters.com/post/3maebqctz5z2p)
+[2025-12-20 03:29:06](https://bsky.app/profile/nytimes.com/post/3maed2epbat27)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Putin tells BBC western leaders deceived Russia
+
+[2025-12-20 03:27:17](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maecx57zfy2y)
 
 ---
 
 @reuters.com
 
-UnitedHealth pledges operational changes after external audits reut.rs/4s1NFwB
+Euro zone consumer confidence falls to -14.6 in December reut.rs/4j38C5Y
 
-[2025-12-20 03:05:27](https://bsky.app/profile/reuters.com/post/3maebq37cm22y)
-
----
-
-@reuters.com
-
-Turkey's Isbank CEO says economic programme may need a pause to avoid side effects reut.rs/4j6RFHR
-
-[2025-12-20 03:05:18](https://bsky.app/profile/reuters.com/post/3maebpt3umb2k)
+[2025-12-20 03:25:44](https://bsky.app/profile/reuters.com/post/3maecuefrsm2c)
 
 ---
 
 @reuters.com
 
-Exclusive: US senator presses tanker giants over cartel-linked fuel smuggling at sea reut.rs/4p2dcTy
+Temu-owner PDD Holdings appoints co-CEO Zhao as co-chairman of board reut.rs/4aWMdoT
 
-[2025-12-20 03:05:10](https://bsky.app/profile/reuters.com/post/3maebplrxch2s)
+[2025-12-20 03:25:36](https://bsky.app/profile/reuters.com/post/3maecu4mbh52b)
+
+---
+
+@reuters.com
+
+Embraer's Eve makes maiden flight of 'flying car' prototype reut.rs/4s6iPCN
+
+[2025-12-20 03:25:28](https://bsky.app/profile/reuters.com/post/3maectuo7pk23)
+
+---
+
+@reuters.com
+
+India cenbank minutes flag scope for more easing as growth seen slowing next year reut.rs/4ar9O0T
+
+[2025-12-20 03:25:20](https://bsky.app/profile/reuters.com/post/3maectncz3x24)
+
+---
+
+@reuters.com
+
+Rome to charge tourists to get close to the famed Trevi Fountain reut.rs/3MJf2eG
+
+[2025-12-20 03:25:12](https://bsky.app/profile/reuters.com/post/3maectfehov2b)
 
 ---
 
 @nytimes.com
 
-From @theathleticfc.bsky.social: Exorbitant World Cup ticket prices are symptomatic of a greater issue across sports in America. Why have ticket prices soared in the U.S. while remaining comparatively low in most of the United Kingdom, Europe and elsewhere?
+Workers began adding President Trump’s name to the Kennedy Center on Friday, despite no action by Congress to legally rename it. It comes a day after Trump’s board of loyalists moved to rename the performing arts center as the Trump-Kennedy Center. nyti.ms/4pa6FpX
 
-[2025-12-20 03:04:06](https://bsky.app/profile/nytimes.com/post/3maebnnyqdn2y)
+[2025-12-20 03:25:03](https://bsky.app/profile/nytimes.com/post/3maect5gnqm25)
 
 ---
 
-@cnbc.com
+@nbcnews.com
 
-Santa Claus rally: What is it and will it occur this year?
+Members of the Kennedy family speak out after the board of the Kennedy Center in Washington, D.C. votes to rename it the Trump-Kennedy Center.
 
-[2025-12-20 03:03:28](https://bsky.app/profile/cnbc.com/post/3maebmjybyl2g)
+[2025-12-20 03:20:15](https://bsky.app/profile/nbcnews.com/post/3maeckkmwym2k)
 
 ---
 
 @wsj.com
 
-The deal at Seaway at the Surf Club set a condo record for Miami-Dade County. on.wsj.com/48KAQPE
+Retired Nascar driver Greg Biffle, his wife and their two children were among the seven people killed when a business jet crashed while landing at an airport in North Carolina Thursday.
 
-[2025-12-20 03:02:56](https://bsky.app/profile/wsj.com/post/3maeblle34t2e)
-
----
-
-@cnbc.com
-
-Nike is headed for its worst day since the tariff-driven selloff in April. Here's what's tripping up the stock today. #CNBCData cnb.cx/4aYZD3Q
-
-[2025-12-20 03:01:34](https://bsky.app/profile/cnbc.com/post/3maebj5pfor25)
-
----
-
-@reuters.com
-
-London's FTSE 100 climbs as miners, defence outperform in data-heavy week reut.rs/4snYbhZ
-
-[2025-12-20 03:01:31](https://bsky.app/profile/reuters.com/post/3maebj2khnl2r)
-
----
-
-@usatoday.com
-
-Why is Coastal Carolina's field teal? Here's how Brooks Stadium's turf field came to be.
-
-[2025-12-20 03:01:05](https://bsky.app/profile/usatoday.com/post/3maebibgjen2f)
+[2025-12-20 03:18:30](https://bsky.app/profile/wsj.com/post/3maechglioj2r)
 
 ---
 
