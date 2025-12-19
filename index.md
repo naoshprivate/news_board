@@ -1,9 +1,9 @@
-# [2025-12-19 13:30 updated](2025_12_19.md)
+# [2025-12-19 13:50 updated](2025_12_19.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">インド株式市場の株価は反発。アジア株の上昇に追随している。米消費者物価指数（ＣＰＩ）伸び率が予想を下回り、来年の追加利下げ観測が強まった後を受けた。 bit.ly/48NzBzf <a href="https://bsky.app/profile/japan.reuters.com/post/3mactzd2xse2c" target="_blank">japan.reuters.com</a> (2025-12-19 13:27:25)</span><span style="padding-right:50px;">トランプ米政権は、米半導体大手エヌビディアの２番目に先進的な人工知能（ＡＩ）向け半導体の中国への初出荷につながる可能性のある調査を開始したと、５人の関係者が明らかにした。物議を醸している販売許可方針を実行に移した形だ。 bit.ly/3YyOcIH <a href="https://bsky.app/profile/japan.reuters.com/post/3macttyijhy2q" target="_blank">japan.reuters.com</a> (2025-12-19 13:24:26)</span><span style="padding-right:50px;">米 富豪エプスタイン氏めぐる捜査資料 公開期限 19日に迫る https://news.web.nhk/newsweb/na/na-k10015008321000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mactteg4sw2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 13:24:03)</span><span style="padding-right:50px;">Officials say the suspected Brown University shooter was also responsible for the killing of an MIT professor at his Massachusetts home this week. Follow live updates: https://cnn.it/4s2xLSq <a href="https://bsky.app/profile/cnn.com/post/3mactqftl3z2v" target="_blank">cnn.com</a> (2025-12-19 13:22:26)</span><span style="padding-right:50px;">EU leaders to loan €90bn to Ukraine - but fail to agree on using Russian assets  <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mactqcxreh26" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-19 13:22:22)</span>
+<span style="padding-right:50px;">政府 内閣広報官に佐伯耕三氏を起用 安倍内閣で首相秘書官 https://news.web.nhk/newsweb/na/na-k10015008341000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3macv6bwxyd2x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 13:48:03)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】新潟県警 「パワハラ」で50代の男性警部補を懲戒処分と発表《新潟》 (2025-12-19 13:42) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3macv44bluz2a" target="_blank">sokuho.news</a> (2025-12-19 13:46:52)</span><span style="padding-right:50px;">Kids who are stars in sports and music don’t usually grow up to be stars as adults, a new study found. 🔗 on.wsj.com/3KPddMF <a href="https://bsky.app/profile/wsj.com/post/3macv34pbbb2c" target="_blank">wsj.com</a> (2025-12-19 13:46:19)</span><span style="padding-right:50px;">「TikTok」米企業連合と新たに合弁会社設立で合意 米メディア https://news.web.nhk/newsweb/na/na-k10015008351000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3macuz2ghdr2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 13:45:07)</span><span style="padding-right:50px;">木原官房長官 カフェオレ飲んで冬場の牛乳の消費拡大呼びかけ https://news.web.nhk/newsweb/na/na-k10015008361000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3macuyvfx6h2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 13:45:02)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49641.17 (🔺253.46 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3422.00 (🔺33.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 156.00 (🔺0.47 : 2025-12-19)</span>
+<span style="padding-right:50px;">NIKKEI: 49453.08 (🔺65.37 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3411.00 (🔺22.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 156.07 (🔺0.55 : 2025-12-19)</span>
   </div>
 </div>
 
@@ -34,96 +34,107 @@
 
 Here are six news headlines in English:
 
-1. Asian Stocks Rally as US Consumer Price Index Growth Falls Short of Expectations
-2. Trump Administration Probes Nvidia's Advanced AI Chip Sales to China
-3. Person of Interest in Brown University Shooting Found Dead in New Hampshire Storage Facility
-4. EU Leaders Loan €90 Billion to Ukraine, But Fail to Agree on Using Russian Assets
-5. Japan Raises Interest Rates to 30-Year High Amid Persistent Inflation and Weak Currency
-6. McDonald's CEO Chris Kempczinski Shares Career Advice: 'You Need Thick Skin'
+1. Japan's Government Appoints New Spokesperson, Komei Sae as Prime Minister's Secretary
+2. New Study Finds Children Who Excel in Sports or Music as Kids Rarely Become Stars as Adults
+3. Toyota Sees Sales Boost as European Union Revokes Plan to Ban Engine Car Sales
+4. Brazilian Central Bank Lowers Inflation Forecast, Keeps Interest Rate Target
+5. Person of Interest in Brown University Shooting Found Dead in New Hampshire Storage Facility
+6. Tokyo Residency Fire Leaves 86-Year-Old Man Dead
 
 ----
 
-@japan.reuters.com
+@nhknewsunofficial.bsky.social
 
-インド株式市場の株価は反発。アジア株の上昇に追随している。米消費者物価指数（ＣＰＩ）伸び率が予想を下回り、来年の追加利下げ観測が強まった後を受けた。 bit.ly/48NzBzf
+政府 内閣広報官に佐伯耕三氏を起用 安倍内閣で首相秘書官
+https://news.web.nhk/newsweb/na/na-k10015008341000
 
-[2025-12-19 13:27:25](https://bsky.app/profile/japan.reuters.com/post/3mactzd2xse2c)
+[2025-12-19 13:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3macv6bwxyd2x)
 
 ---
 
-@japan.reuters.com
+@sokuho.news
 
-トランプ米政権は、米半導体大手エヌビディアの２番目に先進的な人工知能（ＡＩ）向け半導体の中国への初出荷につながる可能性のある調査を開始したと、５人の関係者が明らかにした。物議を醸している販売許可方針を実行に移した形だ。 bit.ly/3YyOcIH
+🛎️NNNより【速報】です。
 
-[2025-12-19 13:24:26](https://bsky.app/profile/japan.reuters.com/post/3macttyijhy2q)
+【速報】新潟県警 「パワハラ」で50代の男性警部補を懲戒処分と発表《新潟》
+(2025-12-19 13:42) #ニュース
+
+[2025-12-19 13:46:52](https://bsky.app/profile/sokuho.news/post/3macv44bluz2a)
+
+---
+
+@wsj.com
+
+Kids who are stars in sports and music don’t usually grow up to be stars as adults, a new study found. 🔗 on.wsj.com/3KPddMF
+
+[2025-12-19 13:46:19](https://bsky.app/profile/wsj.com/post/3macv34pbbb2c)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-米 富豪エプスタイン氏めぐる捜査資料 公開期限 19日に迫る
-https://news.web.nhk/newsweb/na/na-k10015008321000
+「TikTok」米企業連合と新たに合弁会社設立で合意 米メディア
+https://news.web.nhk/newsweb/na/na-k10015008351000
 
-[2025-12-19 13:24:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mactteg4sw2b)
-
----
-
-@cnn.com
-
-Officials say the suspected Brown University shooter was also responsible for the killing of an MIT professor at his Massachusetts home this week. Follow live updates: https://cnn.it/4s2xLSq
-
-[2025-12-19 13:22:26](https://bsky.app/profile/cnn.com/post/3mactqftl3z2v)
+[2025-12-19 13:45:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3macuz2ghdr2w)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@nhknewsunofficial.bsky.social
 
-EU leaders to loan €90bn to Ukraine - but fail to agree on using Russian assets 
+木原官房長官 カフェオレ飲んで冬場の牛乳の消費拡大呼びかけ
+https://news.web.nhk/newsweb/na/na-k10015008361000
 
-[2025-12-19 13:22:22](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mactqcxreh26)
+[2025-12-19 13:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3macuyvfx6h2b)
 
 ---
 
 @japan.reuters.com
 
-＜１２：５７＞　長期金利が2％に上昇、19年半ぶり高水準　国債先物は下げ幅拡大 bit.ly/3KZwScO
+トヨタ自動車が年初来高値を更新し、２０２４年５月以来の高値で推移している。欧州連合（ＥＵ）欧州委員会がエンジン車の新車販売を禁止する計画を撤回する方針を打ち出し、ハイブリッド車（ＨＶ）を強みとする同社が恩恵を受けるとの見方が広がっている。米連邦準備理事会（ＦＲＢ）の利下げや関税影響の一巡など、複数の好材料も重なっているという。 bit.ly/4s4hGMd
 
-[2025-12-19 13:21:00](https://bsky.app/profile/japan.reuters.com/post/3mactnttx6a2q)
+[2025-12-19 13:44:54](https://bsky.app/profile/japan.reuters.com/post/3macuylm4jg2n)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】新潟県警 パワハラで50代の男性警部補を懲戒処分《新潟》
+(2025-12-19 13:42) #ニュース
+
+[2025-12-19 13:43:02](https://bsky.app/profile/sokuho.news/post/3macuvajajj2s)
+
+---
+
+@sokuho.news
+
+🔔防災科研より【強震モニタ】動画です。
+
+震源:宮古島北西沖, 深さ:160km
+マグニチュード:4.8, 最大震度:1
+📍https://www.google.com/maps?q=26.4,124.9&ll=26.4,124.9&z=7&t=h
+地震発生日時:2025-12-19 13:36頃
+(10倍速▶210s→21s) #地震
+
+[2025-12-19 13:41:17](https://bsky.app/profile/sokuho.news/post/3macus5ok5g2y)
 
 ---
 
 @reuters.com
 
-Irish central bank raises growth forecasts, says economy resisting US headwinds reut.rs/48M9cll
+India's ICICI Prudential Asset Management jumps 20% in trading debut reut.rs/4pJc1cF
 
-[2025-12-19 13:20:20](https://bsky.app/profile/reuters.com/post/3mactmnjgwy2i)
+[2025-12-19 13:40:23](https://bsky.app/profile/reuters.com/post/3macuqjctih2y)
 
 ---
 
 @nytimes.com
 
-In @nytopinion.nytimes.com 
+A new rule from the Trump administration prohibits certain classes of immigrants from obtaining truck driver’s licenses. The Transportation Department said the change is intended to make roads safer, but there’s no data to suggest that immigrants cause more truck accidents.
 
-“The mind-set shift needed here is to acknowledge that while climate change is real and harmful, the utility of fossil fuels is not something the oil and gas industry tricked the public into,” Matthew Yglesias writes.
-
-[2025-12-19 13:20:07](https://bsky.app/profile/nytimes.com/post/3mactmbjtfv2r)
-
----
-
-@nbcnews.com
-
-<strong><span style="color: red;">BREAKING:</span> Person of interest in Brown University shooting is found dead of a self-inflicted gunshot wound in a New Hampshire storage facility, officials say.</strong>
-
-[2025-12-19 13:19:29](https://bsky.app/profile/nbcnews.com/post/3mactl5ho4q2u)
-
----
-
-@nhknewsunofficial.bsky.social
-
-東京 江東区の住宅で火事 住人の86歳男性が死亡
-https://news.web.nhk/newsweb/na/na-k10015008151000
-
-[2025-12-19 13:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mactimiyzq2y)
+[2025-12-19 13:40:03](https://bsky.app/profile/nytimes.com/post/3macupvs5g32v)
 
 ---
 
