@@ -1,9 +1,9 @@
-# [2025-12-19 19:50 updated](2025_12_19.md)
+# [2025-12-19 20:10 updated](2025_12_19.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">中国南部とベトナムの首都を結ぶ新鉄道の起工式 貿易拡大へ https://news.web.nhk/newsweb/na/na-k10015008751000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madjc66dtb2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 19:48:08)</span><span style="padding-right:50px;">日銀 利上げ決定 私たちの暮らしに影響は？ https://news.web.nhk/newsweb/na/na-k10015008421000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madjbz27ik2x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 19:48:02)</span><span style="padding-right:50px;">Rhode Island Attorney General Peter Neronha recaps how law enforcement identified and found the suspect in the Brown University shooting. The suspect was found dead in a storage facility in New Hampshire, officials say. <a href="https://bsky.app/profile/nbcnews.com/post/3madj67gqb62k" target="_blank">nbcnews.com</a> (2025-12-19 19:45:57)</span><span style="padding-right:50px;">日銀は１８、１９日に開いた金融政策決定会合で、政策金利である無担保コール翌日物金利の誘導目標を０．７５％に引き上げることを全員一致で決めた。これを受け、円債市場では、新発１０年国債利回り（長期金利）は２．０２０％と、１９９９年８月以来の高水準を付けた。 bit.ly/48JPZAK <a href="https://bsky.app/profile/japan.reuters.com/post/3madj55brxp27" target="_blank">japan.reuters.com</a> (2025-12-19 19:45:22)</span><span style="padding-right:50px;">India's Adani seeks to operate more airports as part of $11 billion expansion reut.rs/4j66p9V <a href="https://bsky.app/profile/reuters.com/post/3madj4xjz332p" target="_blank">reuters.com</a> (2025-12-19 19:45:15)</span>
+<span style="padding-right:50px;">ロシアのプーチン大統領は１９日、世界の主要産油国が欧州連合（ＥＵ）内に保有する外貨準備にリスクが及んでいると警告した。 bit.ly/48NoQgk <a href="https://bsky.app/profile/japan.reuters.com/post/3madkgofz7p27" target="_blank">japan.reuters.com</a> (2025-12-19 20:08:35)</span><span style="padding-right:50px;">バングラデシュのハシナ政権を打倒した学生主導の抗議デモに関わった若者のリーダー、シャリフ・オスマン・ハディ氏（３２）が１８日遅くに亡くなったのを受け、いくつかの都市で暴動が発生した。同氏が立候補していた来年２月の総選挙を控え、混乱拡大が懸念される。 bit.ly/3Y3FFNL <a href="https://bsky.app/profile/japan.reuters.com/post/3madkattf4425" target="_blank">japan.reuters.com</a> (2025-12-19 20:05:20)</span><span style="padding-right:50px;">Notable deaths of 2025 reut.rs/4s6OfJn <a href="https://bsky.app/profile/reuters.com/post/3madkar5ozl2r" target="_blank">reuters.com</a> (2025-12-19 20:05:17)</span><span style="padding-right:50px;">ロシアのプーチン大統領は１９日、年末恒例の記者会見を行い、ウクライナ紛争終結に向けたロシアの条件は、２０２４年６月に自ら示した内容から変わっていないと強調した。米国が和平に向けて取り組む中、歩み寄りの姿勢は示さなかった。 bit.ly/3Y3P6wE <a href="https://bsky.app/profile/japan.reuters.com/post/3madk5k6rzb2q" target="_blank">japan.reuters.com</a> (2025-12-19 20:03:29)</span><span style="padding-right:50px;">サッカー日本代表 W杯直前 5月に国立競技場で壮行試合へ https://news.web.nhk/newsweb/na/na-k10015008811000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madk4xld6v2y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 20:03:07)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.37 (🔺1.84 : 2025-12-19)</span>
+<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.28 (🔺1.75 : 2025-12-19)</span>
   </div>
 </div>
 
@@ -34,95 +34,95 @@
 
 Here are six headlines in English:
 
-1. Japan Central Bank Raises Interest Rate to 0.75%
-2. Japan's MUFG to Buy 20% Stake in India's Shriram Finance for $4.4 Billion
-3. US Homeland Security Orders Pause of DV1 Visa Program
-4. BMW to Recall 36,922 Vehicles in US
-5. UK Competition Watchdog to Probe AB Foods' Hovis Purchase
-6. China Blamed for UK Government Cyber Attack
+1. Putin Warns of Risks to European Reserves Amid Global Oil Price Volatility
+2. Pro-Trump Youth Leader Dies Amid Bangladesh Protests, Elections Loom
+3. Russia's Putin Reiterates Unchanged Conditions for Ukraine Peace Deal
+4. US Congress Fails to Address Obamacare Subsidy Cliff Ahead of New Year
+5. Austria's Top Court Ruling Puts Meta's Personalized Advertising in Jeopardy
+6. Trump Denies Denying Possibility of War with Venezuela in NBC Interview
 
 ----
 
-@nhknewsunofficial.bsky.social
+@japan.reuters.com
 
-中国南部とベトナムの首都を結ぶ新鉄道の起工式 貿易拡大へ
-https://news.web.nhk/newsweb/na/na-k10015008751000
+ロシアのプーチン大統領は１９日、世界の主要産油国が欧州連合（ＥＵ）内に保有する外貨準備にリスクが及んでいると警告した。 bit.ly/48NoQgk
 
-[2025-12-19 19:48:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madjc66dtb2m)
-
----
-
-@nhknewsunofficial.bsky.social
-
-日銀 利上げ決定 私たちの暮らしに影響は？
-https://news.web.nhk/newsweb/na/na-k10015008421000
-
-[2025-12-19 19:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madjbz27ik2x)
-
----
-
-@nbcnews.com
-
-Rhode Island Attorney General Peter Neronha recaps how law enforcement identified and found the suspect in the Brown University shooting. The suspect was found dead in a storage facility in New Hampshire, officials say.
-
-[2025-12-19 19:45:57](https://bsky.app/profile/nbcnews.com/post/3madj67gqb62k)
+[2025-12-19 20:08:35](https://bsky.app/profile/japan.reuters.com/post/3madkgofz7p27)
 
 ---
 
 @japan.reuters.com
 
-日銀は１８、１９日に開いた金融政策決定会合で、政策金利である無担保コール翌日物金利の誘導目標を０．７５％に引き上げることを全員一致で決めた。これを受け、円債市場では、新発１０年国債利回り（長期金利）は２．０２０％と、１９９９年８月以来の高水準を付けた。 bit.ly/48JPZAK
+バングラデシュのハシナ政権を打倒した学生主導の抗議デモに関わった若者のリーダー、シャリフ・オスマン・ハディ氏（３２）が１８日遅くに亡くなったのを受け、いくつかの都市で暴動が発生した。同氏が立候補していた来年２月の総選挙を控え、混乱拡大が懸念される。 bit.ly/3Y3FFNL
 
-[2025-12-19 19:45:22](https://bsky.app/profile/japan.reuters.com/post/3madj55brxp27)
+[2025-12-19 20:05:20](https://bsky.app/profile/japan.reuters.com/post/3madkattf4425)
 
 ---
 
 @reuters.com
 
-India's Adani seeks to operate more airports as part of $11 billion expansion reut.rs/4j66p9V
+Notable deaths of 2025 reut.rs/4s6OfJn
 
-[2025-12-19 19:45:15](https://bsky.app/profile/reuters.com/post/3madj4xjz332p)
-
----
-
-@nhknewsunofficial.bsky.social
-
-クリスマスケーキも値上げ 続く物価の上昇で各地の消費は
-https://news.web.nhk/newsweb/na/na-k10015008381000
-
-[2025-12-19 19:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madj4mffv52d)
+[2025-12-19 20:05:17](https://bsky.app/profile/reuters.com/post/3madkar5ozl2r)
 
 ---
 
 @japan.reuters.com
 
-フランス上下両院の議員で構成される合同委員会のメンバーは１９日、２０２６年予算を巡る妥協案を取りまとめることができなかった。ルコルニュ首相は適切な予算が合意できるまで新年の歳出、徴税、借り入れを認める緊急立法を求めざるを得なくなりそうだ。 bit.ly/491JcB4
+ロシアのプーチン大統領は１９日、年末恒例の記者会見を行い、ウクライナ紛争終結に向けたロシアの条件は、２０２４年６月に自ら示した内容から変わっていないと強調した。米国が和平に向けて取り組む中、歩み寄りの姿勢は示さなかった。 bit.ly/3Y3P6wE
 
-[2025-12-19 19:44:48](https://bsky.app/profile/japan.reuters.com/post/3madj457utc22)
+[2025-12-19 20:03:29](https://bsky.app/profile/japan.reuters.com/post/3madk5k6rzb2q)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+サッカー日本代表 W杯直前 5月に国立競技場で壮行試合へ
+https://news.web.nhk/newsweb/na/na-k10015008811000
+
+[2025-12-19 20:03:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madk4xld6v2y)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+フィギュア全日本選手権開幕 男子シングルSP 鍵山優真がトップ
+https://news.web.nhk/newsweb/na/na-k10015008551000
+
+[2025-12-19 20:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madk4txqnu2b)
 
 ---
 
 @wsj.com
 
-The so-called Epstein Files have been a topic of fascination for years, and the Justice Department is preparing to release more records. Here’s a guide to what is public so far.
+President Trump signed into law new powers to screen and restrict U.S. investment in Chinese technology firms.
 
-[2025-12-19 19:43:21](https://bsky.app/profile/wsj.com/post/3madizkyx6z2e)
-
----
-
-@cnbc.com
-
-Treasury yields inch higher as investors digest cooler inflation data
-
-[2025-12-19 19:42:13](https://bsky.app/profile/cnbc.com/post/3madixjcuqh24)
+[2025-12-19 20:02:32](https://bsky.app/profile/wsj.com/post/3madk3ufjns2k)
 
 ---
 
 @reuters.com
 
-Japan's MUFG to buy 20% stake in India's Shriram Finance for $4.4 billion reut.rs/4aoHJr9
+Civilian infrastructure damaged in Ukrainian attack on Russia's Oryol region, governor says reut.rs/4s6O5lf
 
-[2025-12-19 19:40:19](https://bsky.app/profile/reuters.com/post/3madiu55lzs2p)
+[2025-12-19 20:01:01](https://bsky.app/profile/reuters.com/post/3madjz53qu62c)
+
+---
+
+@nikkei.com
+
+住宅ローン、日銀利上げの影響を試算　平均例で計月1万4000円増
+www.nikkei.com/article/DGXZQO...
+
+[2025-12-19 20:00:50](https://bsky.app/profile/nikkei.com/post/3madjysc24j2n)
+
+---
+
+@cnn.com
+
+Congressional Republicans have sent lawmakers home for the holidays without voting to address the Obamacare subsidies cliff that will hit millions of Americans on New Year's Day — infuriating some of their own rank and file. https://cnn.it/4qhbYom
+
+[2025-12-19 20:00:18](https://bsky.app/profile/cnn.com/post/3madjxud3wc25)
 
 ---
 
