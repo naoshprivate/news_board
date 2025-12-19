@@ -1,9 +1,9 @@
-# [2025-12-19 18:10 updated](2025_12_19.md)
+# [2025-12-19 18:30 updated](2025_12_19.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">12月の月例経済報告「緩やかに回復」基調判断 4か月連続で維持 https://news.web.nhk/newsweb/na/na-k10015008571000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maddr3zpuk26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 18:09:07)</span><span style="padding-right:50px;">木原官房長官 野党に陳謝 佐藤官房副長官起用で“混乱招いた” https://news.web.nhk/newsweb/na/na-k10015008601000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maddqxlgwj2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 18:09:02)</span><span style="padding-right:50px;">金融庁は１９日、地域の金融機能増強を図る政策パッケージ「地域金融力強化プラン」を公表した。人口減や少子高齢化に直面する地域経済の持続的発展のため、地銀など金融機関が地元企業の成長支援などで貢献できるよう、環境整備を強化する。 bit.ly/4p4qiQ6 <a href="https://bsky.app/profile/japan.reuters.com/post/3maddpo6cve2p" target="_blank">japan.reuters.com</a> (2025-12-19 18:08:21)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】津山市の養鶏場で高病原性鳥インフルエンザ疑い例 遺伝子検査で陽性の場合は県内3年ぶり【岡山】 (2025-12-19 18:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maddlwb3oj2x" target="_blank">sokuho.news</a> (2025-12-19 18:06:15)</span><span style="padding-right:50px;">日銀は１８、１９日に開いた金融政策決定会合で、政策金利である無担保コール翌日物金利の誘導目標を０．７５％に引き上げることを全員一致で決めた。利上げは１月以来。政策金利は１９９５年９月以来、３０年ぶりの高水準となった。企業への聞き取りなどを踏まえ、賃金と物価がともに緩やかに上昇していくメカニズムが維持される可能性が高いと判断、経済・物価の中心的な見通しが実現する確度は高まっているとした。 bit.ly/4s6uly4 <a href="https://bsky.app/profile/japan.reuters.com/post/3maddkhpz2t2v" target="_blank">japan.reuters.com</a> (2025-12-19 18:05:26)</span>
+<span style="padding-right:50px;">Russian President Vladimir Putin opened his year-end news conference, an event that will be closely watched for his response to the U.S.-backed peace plan for Ukraine. <a href="https://bsky.app/profile/apnews.com/post/3madeuidlgd25" target="_blank">apnews.com</a> (2025-12-19 18:28:56)</span><span style="padding-right:50px;">中国国防省は１９日、米国による１１１億ドル規模の対台湾武器売却計画を受け、中国軍が訓練を強化し「国家の主権と領土の一体性を守るため強力な措置を講じる」との声明を発表した。 bit.ly/44BvQdL <a href="https://bsky.app/profile/japan.reuters.com/post/3maderrblfr26" target="_blank">japan.reuters.com</a> (2025-12-19 18:27:25)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】札幌市電「ロープウェイ入口駅」停留場付近で軽自動車の単独事故…路面電車が通れず一時”内回り”で運行見合わせ＿ケガ人の情報なし＜北海道札幌市＞ (2025-12-19 18:15) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3madeosftwj2b" target="_blank">sokuho.news</a> (2025-12-19 18:25:45)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】H3ロケット8号機 22日午前打ち上げへ 鹿児島・種子島 (2025-12-19 18:20) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3madeoksb5g27" target="_blank">sokuho.news</a> (2025-12-19 18:25:37)</span><span style="padding-right:50px;">欧州連合（ＥＵ）首脳は１９日、ウクライナの対ロシア防衛資金として、凍結されたロシア資産を利用するのではなく、現金を借り入れることを決定した。 bit.ly/4s4xj6f <a href="https://bsky.app/profile/japan.reuters.com/post/3madeof3qsa2q" target="_blank">japan.reuters.com</a> (2025-12-19 18:25:31)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 156.95 (🔺1.42 : 2025-12-19)</span>
+<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.05 (🔺1.53 : 2025-12-19)</span>
   </div>
 </div>
 
@@ -32,40 +32,30 @@
 
 ## News Headlines
 
-Here are six headlines based on the provided news articles:
+Here are six news headlines in English:
 
-1. Japan's December Economic Report: Economy Continues to Recover at a Moderate Pace
-2. Government Official Apologizes to Opposition Party Over Cabinet Shuffle
-3. Bank of Japan Raises Interest Rate Target to 0.75% in Effort to Support Economic Growth
-4. Vietnam Begins Construction on Railway Link to China Amid Infrastructure Spending Spree
-5. Bangladeshi Activist's Death Sparks Violence as Protests Continue Ahead of General Election
-6. US Green Card Lottery Program Halted Amid Concerns Over National Security
+1. Putin to Address Ukraine Peace Plan at Year-End News Conference
+2. China Responds to US $11 Billion Arms Sale to Taiwan with Military Warning
+3. EU Leaders Decide to Take Out Loans to Fund Ukraine Defense
+4. Japan's BOJ to Maintain Low Interest Rates for Now, Pledges to Hike Rates if Economy Remains on Track
+5. Vietnam to Build Railway Link to China Amid Infrastructure Spending Spree
+6. Trump Administration Halts US Green Card Lottery Program Amid Security Concerns
 
 ----
 
-@nhknewsunofficial.bsky.social
+@apnews.com
 
-12月の月例経済報告「緩やかに回復」基調判断 4か月連続で維持
-https://news.web.nhk/newsweb/na/na-k10015008571000
+Russian President Vladimir Putin opened his year-end news conference, an event that will be closely watched for his response to the U.S.-backed peace plan for Ukraine.
 
-[2025-12-19 18:09:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maddr3zpuk26)
-
----
-
-@nhknewsunofficial.bsky.social
-
-木原官房長官 野党に陳謝 佐藤官房副長官起用で“混乱招いた”
-https://news.web.nhk/newsweb/na/na-k10015008601000
-
-[2025-12-19 18:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maddqxlgwj2b)
+[2025-12-19 18:28:56](https://bsky.app/profile/apnews.com/post/3madeuidlgd25)
 
 ---
 
 @japan.reuters.com
 
-金融庁は１９日、地域の金融機能増強を図る政策パッケージ「地域金融力強化プラン」を公表した。人口減や少子高齢化に直面する地域経済の持続的発展のため、地銀など金融機関が地元企業の成長支援などで貢献できるよう、環境整備を強化する。 bit.ly/4p4qiQ6
+中国国防省は１９日、米国による１１１億ドル規模の対台湾武器売却計画を受け、中国軍が訓練を強化し「国家の主権と領土の一体性を守るため強力な措置を講じる」との声明を発表した。 bit.ly/44BvQdL
 
-[2025-12-19 18:08:21](https://bsky.app/profile/japan.reuters.com/post/3maddpo6cve2p)
+[2025-12-19 18:27:25](https://bsky.app/profile/japan.reuters.com/post/3maderrblfr26)
 
 ---
 
@@ -73,70 +63,75 @@ https://news.web.nhk/newsweb/na/na-k10015008601000
 
 🛎️FNNより【速報】です。
 
-【速報】津山市の養鶏場で高病原性鳥インフルエンザ疑い例 遺伝子検査で陽性の場合は県内3年ぶり【岡山】
-(2025-12-19 18:00) #ニュース
+【速報】札幌市電「ロープウェイ入口駅」停留場付近で軽自動車の単独事故…路面電車が通れず一時”内回り”で運行見合わせ＿ケガ人の情報なし＜北海道札幌市＞
+(2025-12-19 18:15) #ニュース
 
-[2025-12-19 18:06:15](https://bsky.app/profile/sokuho.news/post/3maddlwb3oj2x)
-
----
-
-@japan.reuters.com
-
-日銀は１８、１９日に開いた金融政策決定会合で、政策金利である無担保コール翌日物金利の誘導目標を０．７５％に引き上げることを全員一致で決めた。利上げは１月以来。政策金利は１９９５年９月以来、３０年ぶりの高水準となった。企業への聞き取りなどを踏まえ、賃金と物価がともに緩やかに上昇していくメカニズムが維持される可能性が高いと判断、経済・物価の中心的な見通しが実現する確度は高まっているとした。 bit.ly/4s6uly4
-
-[2025-12-19 18:05:26](https://bsky.app/profile/japan.reuters.com/post/3maddkhpz2t2v)
-
----
-
-@reuters.com
-
-Vietnam starts work on rail link to China amid infrastructure spending spree reut.rs/4s6qHEw
-
-[2025-12-19 18:05:16](https://bsky.app/profile/reuters.com/post/3maddk5rsdm2o)
+[2025-12-19 18:25:45](https://bsky.app/profile/sokuho.news/post/3madeosftwj2b)
 
 ---
 
 @sokuho.news
 
-🔔ANNより【速報】です。
+🛎️FNNより【速報】です。
 
-【速報】ニデック（旧日本電産）創業者・永守重信氏 不適切会計問題調査中に取締役辞任
-(2025年12月19日 18:02) #ニュース
+【速報】H3ロケット8号機 22日午前打ち上げへ 鹿児島・種子島
+(2025-12-19 18:20) #ニュース
 
-[2025-12-19 18:02:47](https://bsky.app/profile/sokuho.news/post/3maddfqbmxu26)
+[2025-12-19 18:25:37](https://bsky.app/profile/sokuho.news/post/3madeoksb5g27)
 
 ---
 
 @japan.reuters.com
 
-バングラデシュのハシナ政権を打倒した学生主導の抗議デモに関わった若者のリーダー、シャリフ・オスマン・ハディ氏（３２）が１８日遅くに亡くなったのを受け、いくつかの都市で暴動が発生した。同氏が立候補していた来年２月の総選挙を控え、混乱拡大が懸念される。 bit.ly/4qfOLD3
+欧州連合（ＥＵ）首脳は１９日、ウクライナの対ロシア防衛資金として、凍結されたロシア資産を利用するのではなく、現金を借り入れることを決定した。 bit.ly/4s4xj6f
 
-[2025-12-19 18:01:00](https://bsky.app/profile/japan.reuters.com/post/3maddckcfqi22)
-
----
-
-@nikkei.com
-
-ニデック永守重信氏が取締役辞任、名誉会長に
-www.nikkei.com/article/DGXZQO...
-
-ニデックは9月に不適切会計の疑いが見つかりました。
-
-10月に日本取引所グループが内部管理体制の改善を求める特別注意銘柄に指定。
-
-永守氏が経営の一線から退き、一定のけじめをつけます。
-
-#ニュース
-
-[2025-12-19 18:00:39](https://bsky.app/profile/nikkei.com/post/3maddbvx2362g)
+[2025-12-19 18:25:31](https://bsky.app/profile/japan.reuters.com/post/3madeof3qsa2q)
 
 ---
 
-@bloomberg.com
+@reuters.com
 
-The Trump administration halted the US green card lottery program, which it said was used by the suspect in the Brown University shooting and killing of a Massachusetts Institute of Technology professor
+Italy parliamentary panel approves 'people's' claim on central bank's gold reut.rs/4s04HuR
 
-[2025-12-19 18:00:30](https://bsky.app/profile/bloomberg.com/post/3maddbnaj6k2d)
+[2025-12-19 18:25:13](https://bsky.app/profile/reuters.com/post/3madentu4su2b)
+
+---
+
+@japan.reuters.com
+
+日銀の植田和男総裁は１９日、金融政策決定会合後の会見で、現在の実質金利はきわめて低い水準にあるとの認識を示し、今後も日銀が示している経済・物価の見通しが実現していけば、引き続き政策金利を引き上げていくことになると述べた。ターミナルレート（金利の到達点）を考慮するうえで意識される中立金利について、推計値の下限までには「少し距離がある」とも語った。 bit.ly/4pIk2i5
+
+[2025-12-19 18:24:43](https://bsky.app/profile/japan.reuters.com/post/3mademxcynt27)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】東京・西東京市で親子4人が倒れた状態で見つかる
+(2025-12-19 18:21:31) #ニュース
+
+[2025-12-19 18:24:01](https://bsky.app/profile/sokuho.news/post/3madeloqtim2y)
+
+---
+
+@cnbc.com
+
+Data center deals hit record $61 billion in 2025 as AI valuation risks and funding concerns grip investors
+
+[2025-12-19 18:22:26](https://bsky.app/profile/cnbc.com/post/3madeittlci2e)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】札幌市電ロープウェイ入口駅停留所付近で乗用車の単独事故…一時内回りで運行見合わせ＿現在は運行再開＿けが人情報なし＜北海道札幌市＞
+(2025-12-19 18:15) #ニュース
+
+[2025-12-19 18:20:36](https://bsky.app/profile/sokuho.news/post/3madeflt5uy2y)
 
 ---
 
