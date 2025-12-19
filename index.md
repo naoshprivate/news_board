@@ -1,9 +1,9 @@
-# [2025-12-19 08:50 updated](2025_12_19.md)
+# [2025-12-19 09:10 updated](2025_12_19.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">11月の消費者物価指数 前年同月比3.0％上昇 https://news.web.nhk/newsweb/na/na-k10015008141000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maceft7ojk24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 08:48:02)</span><span style="padding-right:50px;">Sunali Khatun: 'We are not from Bangladesh, we are Indian. Why did they do this to us?'  <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3macefdacde2y" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-19 08:47:47)</span><span style="padding-right:50px;">🔔NHKより【速報 JUST IN】です。  11月の消費者物価指数 前年同月比3.0%上昇 (2025-12-19 08:45:38) #ニュース https://news.web.nhk/newsweb/na/na-k10015008141000 <a href="https://bsky.app/profile/sokuho.news/post/3macec6v7uh25" target="_blank">sokuho.news</a> (2025-12-19 08:46:02)</span><span style="padding-right:50px;">UPS company deploys AI to spot fakes amid surge in holiday returns reut.rs/3KI8jkC <a href="https://bsky.app/profile/reuters.com/post/3maceaxao6t2b" target="_blank">reuters.com</a> (2025-12-19 08:45:21)</span><span style="padding-right:50px;">Oscar Adaway III, one of two University of South Carolina athletes who were elbowed by a Texas Department of Public Safety trooper during a game at Texas A&M in November, has accused the trooper of assault in a criminal complaint. <a href="https://bsky.app/profile/washingtonpost.com/post/3maceahgped24" target="_blank">washingtonpost.com</a> (2025-12-19 08:45:04)</span>
+<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】新庄市で乗用車が男性をはねる はねられた男性は重体か（山形） (2025-12-19 09:00:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3macfhkiksr2v" target="_blank">sokuho.news</a> (2025-12-19 09:06:56)</span><span style="padding-right:50px;">Petrobras' strike-hit P-40 platform shut after gas leak reut.rs/3MC5B0D <a href="https://bsky.app/profile/reuters.com/post/3macfeix3ix2r" target="_blank">reuters.com</a> (2025-12-19 09:05:14)</span><span style="padding-right:50px;">An interstellar comet first spotted passing through our solar system in July is beginning its departure from our corner of the universe — but first it will fly by Earth, and scientists are capturing stunning new images during its approach. https://cnn.it/3KCb9aQ <a href="https://bsky.app/profile/cnn.com/post/3macfe6mizu24" target="_blank">cnn.com</a> (2025-12-19 09:05:03)</span><span style="padding-right:50px;">Friday's big stock stories: What’s likely to move the market in the next trading session <a href="https://bsky.app/profile/cnbc.com/post/3macfdqectw2p" target="_blank">cnbc.com</a> (2025-12-19 09:04:48)</span><span style="padding-right:50px;">Cramer's Lightning Round: 'No' to SentinelOne <a href="https://bsky.app/profile/cnbc.com/post/3macfbjsr2g2e" target="_blank">cnbc.com</a> (2025-12-19 09:03:34)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.60 (🔺0.08 : 2025-12-18)</span>
+<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.66 (🔺0.14 : 2025-12-19)</span>
   </div>
 </div>
 
@@ -32,100 +32,100 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are six news headlines in English:
 
-1. Consumer Prices Rise 3% in November Amid Food and Fuel Price Increases
-2. EU Leaders Debate Using Frozen Russian Assets to Fund Ukraine
-3. TikTok Sells US Business to American Investors to Avoid Ban
-4. NFL's Dallas Cowboys Top Forbes' Most Valuable Teams List
-5. Donald Trump Signs Executive Order to Move Cannabis to Less Restrictive Category
-6. Seven Killed in Plane Crash Involving Former NASCAR Driver Greg Biffle
+1. Driver Seriously Injured After Being Struck by Car in Yamagata, Japan
+2. Petrobras' P-40 Platform Shut Down Due to Gas Leak
+3. Stunning Images of Interstellar Comet as it Approaches Earth
+4. Trump Administration to Take Steps to End Transition-Related Care for Minors Nationwide
+5. Japan's Consumer Inflation Remains Above Central Bank's Target for 44th Month
+6. US House Panel Votes to Pay Air Traffic Controllers During Future Government Shutdowns
 
 ----
 
-@nhknewsunofficial.bsky.social
-
-11月の消費者物価指数 前年同月比3.0％上昇
-https://news.web.nhk/newsweb/na/na-k10015008141000
-
-[2025-12-19 08:48:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maceft7ojk24)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Sunali Khatun: 'We are not from Bangladesh, we are Indian. Why did they do this to us?' 
-
-[2025-12-19 08:47:47](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3macefdacde2y)
-
----
-
 @sokuho.news
 
-<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>11月の消費者物価指数 前年同月比3.0%上昇</strong><br><strong>(2025-12-19 08:45:38) #ニュース</strong><br><strong>https://news.web.nhk/newsweb/na/na-k10015008141000</strong>
+🛎️JNNより【速報】です。
 
-[2025-12-19 08:46:02](https://bsky.app/profile/sokuho.news/post/3macec6v7uh25)
+【速報】新庄市で乗用車が男性をはねる はねられた男性は重体か（山形）
+(2025-12-19 09:00:00) #ニュース
+
+[2025-12-19 09:06:56](https://bsky.app/profile/sokuho.news/post/3macfhkiksr2v)
 
 ---
 
 @reuters.com
 
-UPS company deploys AI to spot fakes amid surge in holiday returns reut.rs/3KI8jkC
+Petrobras' strike-hit P-40 platform shut after gas leak reut.rs/3MC5B0D
 
-[2025-12-19 08:45:21](https://bsky.app/profile/reuters.com/post/3maceaxao6t2b)
-
----
-
-@washingtonpost.com
-
-Oscar Adaway III, one of two University of South Carolina athletes who were elbowed by a Texas Department of Public Safety trooper during a game at Texas A&M in November, has accused the trooper of assault in a criminal complaint.
-
-[2025-12-19 08:45:04](https://bsky.app/profile/washingtonpost.com/post/3maceahgped24)
+[2025-12-19 09:05:14](https://bsky.app/profile/reuters.com/post/3macfeix3ix2r)
 
 ---
 
-@en.afp.com
+@cnn.com
 
-EU leaders were locked in late-night talks Thursday over whether to use frozen Russian central bank assets to fund Ukraine, after President Volodymyr Zelensky insisted they had the "moral" and legal right to make the move.
+An interstellar comet first spotted passing through our solar system in July is beginning its departure from our corner of the universe — but first it will fly by Earth, and scientists are capturing stunning new images during its approach. https://cnn.it/3KCb9aQ
 
-u.afp.com/S8JB
-
-[2025-12-19 08:45:02](https://bsky.app/profile/en.afp.com/post/3maceaer6ep2f)
+[2025-12-19 09:05:03](https://bsky.app/profile/cnn.com/post/3macfe6mizu24)
 
 ---
 
 @cnbc.com
 
-Consumer companies are getting stronger as tech stocks falter, Jim Cramer says
+Friday's big stock stories: What’s likely to move the market in the next trading session
 
-[2025-12-19 08:43:16](https://bsky.app/profile/cnbc.com/post/3mace5a4ng224)
+[2025-12-19 09:04:48](https://bsky.app/profile/cnbc.com/post/3macfdqectw2p)
 
 ---
 
-@reuters.com
+@cnbc.com
 
-EU-Mercosur trade deal signing delayed as Italy seeks more time reut.rs/4s45zi7
+Cramer's Lightning Round: 'No' to SentinelOne
 
-[2025-12-19 08:40:25](https://bsky.app/profile/reuters.com/post/3macdy5iity2i)
+[2025-12-19 09:03:34](https://bsky.app/profile/cnbc.com/post/3macfbjsr2g2e)
 
 ---
 
 @sokuho.news
 
-🔔ANNより【速報】です。
+🛎️JNNより【速報】です。
 
-【速報】11月の消費者物価指数 前年同月比3.0%上昇 食料品など物価高続く
-(2025年12月19日 08:40) #ニュース
+【速報】新庄市で乗用車が男性をはねる（山形）
+(2025-12-19 09:00:00) #ニュース
 
-[2025-12-19 08:40:22](https://bsky.app/profile/sokuho.news/post/3macdy2n5xj27)
+[2025-12-19 09:03:29](https://bsky.app/profile/sokuho.news/post/3macfbfaakq25)
+
+---
+
+@japan.reuters.com
+
+ナスダックやニューヨーク証券取引所などの米主要証券取引所は１８日、トランプ大統領が連邦政府機関の閉庁を命じた２４日と２６日の取引を予定通りに行うと発表した。 bit.ly/45bUKk7
+
+[2025-12-19 09:03:19](https://bsky.app/profile/japan.reuters.com/post/3macfb3ejqr22)
+
+---
+
+@wsj.com
+
+The onetime billionaire spent his vast fortune on lavish homes in Bel-Air, Malibu and New York City. But the aftermath of his death reveals a dire financial situation. on.wsj.com/4aXKhwu
+
+[2025-12-19 09:03:06](https://bsky.app/profile/wsj.com/post/3macfapl7be2z)
+
+---
+
+@apnews.com
+
+A British baker's critique of Mexican bread has sparked outrage on social media, leading to a public apology.
+
+[2025-12-19 09:01:42](https://bsky.app/profile/apnews.com/post/3macf67bwdk2r)
 
 ---
 
 @nbcnews.com
 
-TikTok CEO Shou Chew tells employees of the social media app that its owner, China’s ByteDance, has signed binding agreements to create a new joint venture for the app in the U.S., as previously agreed in a deal with the Trump administration.
+The Trump administration has announced that it will begin to take steps aimed at ending transition-related care for minors nationwide.
 
-[2025-12-19 08:40:14](https://bsky.app/profile/nbcnews.com/post/3macdxs67hc2q)
+[2025-12-19 09:00:54](https://bsky.app/profile/nbcnews.com/post/3macf4rjavq2q)
 
 ---
 
