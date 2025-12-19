@@ -1,9 +1,9 @@
-# [2025-12-20 03:50 updated](2025_12_20.md)
+# [2025-12-20 04:10 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Don’t believe the fake gloom about London ft.trib.al/Sv4FlVA <a href="https://bsky.app/profile/financialtimes.com/post/3maee5z3chf2b" target="_blank">financialtimes.com</a> (2025-12-20 03:49:02)</span><span style="padding-right:50px;">Eurozone consumer sentiment unexpectedly weakened in December despite cooling inflation and economic resilience against tariffs. <a href="https://bsky.app/profile/wsj.com/post/3maedy7ay7w2c" target="_blank">wsj.com</a> (2025-12-20 03:45:47)</span><span style="padding-right:50px;">Germany removes dividend ban for Uniper, paving way for IPO reut.rs/3Y0x1jb <a href="https://bsky.app/profile/reuters.com/post/3maedx7y3gi24" target="_blank">reuters.com</a> (2025-12-20 03:45:14)</span><span style="padding-right:50px;">We’re proud to serve you. And, we’re relying on your help to fuel our fair, independent reporting in the year ahead.  Click here to join the community of supporters giving the NPR Network a strong start to 2026: n.pr/4pCcFIx <a href="https://bsky.app/profile/npr.org/post/3maedwwgpq227" target="_blank">npr.org</a> (2025-12-20 03:45:04)</span><span style="padding-right:50px;"> The SEC is heading into dangerous territory ft.trib.al/QAZZXPo  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3maedw4ktrf23" target="_blank">financialtimes.com</a> (2025-12-20 03:44:37)</span>
+<span style="padding-right:50px;">UK rules out using frozen Russian assets to aid Ukraine ft.trib.al/UYmE01a <a href="https://bsky.app/profile/financialtimes.com/post/3maef67xitm2q" target="_blank">financialtimes.com</a> (2025-12-20 04:07:03)</span><span style="padding-right:50px;">LIVE: President Trump to make an announcement in White House Roosevelt Room youtube.com/live/SvGzEdN... <a href="https://bsky.app/profile/reuters.com/post/3maef6256vc2q" target="_blank">reuters.com</a> (2025-12-20 04:06:57)</span><span style="padding-right:50px;">Vladimir Putin has said Russia wants its most hardline demands to form the basis for any peace talks with Ukraine and expressed confidence his forces will keep making battlefield advances. ft.trib.al/6LMTA3a <a href="https://bsky.app/profile/financialtimes.com/post/3maef3xv7sv2w" target="_blank">financialtimes.com</a> (2025-12-20 04:05:47)</span><span style="padding-right:50px;">How the companies in our 50 to watch list for 2025 actually fared. <a href="https://bsky.app/profile/bloomberg.com/post/3maef32zevz2d" target="_blank">bloomberg.com</a> (2025-12-20 04:05:17)</span><span style="padding-right:50px;">Wall St climbs as tech rebound gains momentum, Nike slides reut.rs/44CVf6H <a href="https://bsky.app/profile/reuters.com/post/3maef2ta63n2k" target="_blank">reuters.com</a> (2025-12-20 04:05:09)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48233.91 (🔺259.09 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23256.85 (🔺134.95 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 179.89 (🔺3.22 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.49 (🔺1.96 : 2025-12-19)</span>
+<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48206.02 (🔺231.20 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23272.11 (🔺150.21 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.04 (🔺3.38 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.54 (🔺2.01 : 2025-12-19)</span>
   </div>
 </div>
 
@@ -32,96 +32,96 @@
 
 ## News Headlines
 
-Here are six news headlines:
+Here are six selected stories with headlines in English:
 
-1. Eurozone Consumer Sentiment Unexpectedly Weakens in December Amid Cooling Inflation
-2. Germany Removes Dividend Ban for Uniper, Paving Way for IPO
-3. Deputy AG to Release 'Several Hundred Thousand Documents' from Jeffrey Epstein Investigation Files
-4. Ukraine Security Service Attacks Russian Tanker in Mediterranean, Aiming to Disrupt Oil Supplies
-5. Tracy Letts and Carrie Coon on Their Broadway Return in 'Bug'
-6. Putin Tells BBC Western Leaders 'Deceived Russia' Amid Tensions
+1. UK Rules Out Using Frozen Russian Assets to Aid Ukraine
+2. Trump to Make Announcement in White House Roosevelt Room
+3. Putin Demands Hardline Terms for Ukraine Peace Talks
+4. Wall Street Climbs as Tech Rebound Gains Momentum
+5. Tourists to Pay Entrance Fee to Visit Rome's Trevi Fountain
+6. US Diplomat's Remarks Spark Fresh Round of Ukraine Peace Talks
 
 ----
 
 @financialtimes.com
 
-Don’t believe the fake gloom about London ft.trib.al/Sv4FlVA
+UK rules out using frozen Russian assets to aid Ukraine ft.trib.al/UYmE01a
 
-[2025-12-20 03:49:02](https://bsky.app/profile/financialtimes.com/post/3maee5z3chf2b)
-
----
-
-@wsj.com
-
-Eurozone consumer sentiment unexpectedly weakened in December despite cooling inflation and economic resilience against tariffs.
-
-[2025-12-20 03:45:47](https://bsky.app/profile/wsj.com/post/3maedy7ay7w2c)
+[2025-12-20 04:07:03](https://bsky.app/profile/financialtimes.com/post/3maef67xitm2q)
 
 ---
 
 @reuters.com
 
-Germany removes dividend ban for Uniper, paving way for IPO reut.rs/3Y0x1jb
+LIVE: President Trump to make an announcement in White House Roosevelt Room youtube.com/live/SvGzEdN...
 
-[2025-12-20 03:45:14](https://bsky.app/profile/reuters.com/post/3maedx7y3gi24)
-
----
-
-@npr.org
-
-We’re proud to serve you. And, we’re relying on your help to fuel our fair, independent reporting in the year ahead.
-
-Click here to join the community of supporters giving the NPR Network a strong start to 2026: n.pr/4pCcFIx
-
-[2025-12-20 03:45:04](https://bsky.app/profile/npr.org/post/3maedwwgpq227)
+[2025-12-20 04:06:57](https://bsky.app/profile/reuters.com/post/3maef6256vc2q)
 
 ---
 
 @financialtimes.com
 
- The SEC is heading into dangerous territory ft.trib.al/QAZZXPo  | opinion
+Vladimir Putin has said Russia wants its most hardline demands to form the basis for any peace talks with Ukraine and expressed confidence his forces will keep making battlefield advances. ft.trib.al/6LMTA3a
 
-[2025-12-20 03:44:37](https://bsky.app/profile/financialtimes.com/post/3maedw4ktrf23)
-
----
-
-@apnews.com
-
-Federal data shows military lawyers detailed as immigration judges ordered deportation nearly 80% of the time. One judge who didn’t? He was fired after five weeks on the bench.
-
-[2025-12-20 03:43:06](https://bsky.app/profile/apnews.com/post/3maedtfxd3a2q)
+[2025-12-20 04:05:47](https://bsky.app/profile/financialtimes.com/post/3maef3xv7sv2w)
 
 ---
 
-@japan.reuters.com
+@bloomberg.com
 
-米ミシガン大学が１９日発表した１２月の消費者信頼感指数確報値は５２．９と、１１月の５１．０から上昇した。速報値の５３．３からは下方修正された。市場予想は５３．４だった。 bit.ly/44CT0QP
+How the companies in our 50 to watch list for 2025 actually fared.
 
-[2025-12-20 03:41:08](https://bsky.app/profile/japan.reuters.com/post/3maedpv2vy62q)
+[2025-12-20 04:05:17](https://bsky.app/profile/bloomberg.com/post/3maef32zevz2d)
 
 ---
 
 @reuters.com
 
-Exclusive: Morgan Stanley seen as front-runner for SpaceX IPO, sources say reut.rs/4b0FnPf
+Wall St climbs as tech rebound gains momentum, Nike slides reut.rs/44CVf6H
 
-[2025-12-20 03:40:52](https://bsky.app/profile/reuters.com/post/3maedpg2pj62b)
-
----
-
-@nbcnews.com
-
-Deputy AG Todd Blanche says the Justice Dept. would release "several hundred thousand documents" from its Jeffrey Epstein investigative files on Friday — but that there's still much more to come.
-
-[2025-12-20 03:40:09](https://bsky.app/profile/nbcnews.com/post/3maedo4ow7b2x)
+[2025-12-20 04:05:09](https://bsky.app/profile/reuters.com/post/3maef2ta63n2k)
 
 ---
 
-@nytimes.com
+@reuters.com
 
-A 17-year-old worker died at a pork producer in Nebraska run by the governor’s family. Two investigations later, the boy’s mother is still searching for answers.
+French government calls for Christmas truce in farmer protests reut.rs/4pOJZwF
 
-[2025-12-20 03:40:04](https://bsky.app/profile/nytimes.com/post/3maednxwglw27)
+[2025-12-20 04:01:07](https://bsky.app/profile/reuters.com/post/3maeetmiuku2o)
+
+---
+
+@cnn.com
+
+Top lawyer for military joint chiefs told chairman that officers should retire if faced with an unlawful order https://cnn.it/48WfX4d
+
+[2025-12-20 04:01:06](https://bsky.app/profile/cnn.com/post/3maeetlom5r2c)
+
+---
+
+@usatoday.com
+
+Major celebrations are on the way in 2026 for the country's 250th birthday. President Donald Trump is helping shape them.
+
+[2025-12-20 04:00:47](https://bsky.app/profile/usatoday.com/post/3maeeszau5q2f)
+
+---
+
+@washingtonpost.com
+
+Italy brought us cappuccinos. Australia introduced the flat white. Cuba created the cafecito, and the Middle East, the qahwa.
+
+Japan is bringing us coffee omakase.
+
+[2025-12-20 04:00:23](https://bsky.app/profile/washingtonpost.com/post/3maeesd4fkt25)
+
+---
+
+@cnbc.com
+
+Tired of the same old dinner and a movie routine? Mark Travers, a psychologist who studies couples, shares how people in the happiest relationships keep the spark alive — and they all cost $0.
+
+[2025-12-20 04:00:21](https://bsky.app/profile/cnbc.com/post/3maeesay4vo2i)
 
 ---
 
