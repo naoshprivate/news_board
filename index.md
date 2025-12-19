@@ -1,9 +1,9 @@
-# [2025-12-19 20:10 updated](2025_12_19.md)
+# [2025-12-19 20:30 updated](2025_12_19.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">ロシアのプーチン大統領は１９日、世界の主要産油国が欧州連合（ＥＵ）内に保有する外貨準備にリスクが及んでいると警告した。 bit.ly/48NoQgk <a href="https://bsky.app/profile/japan.reuters.com/post/3madkgofz7p27" target="_blank">japan.reuters.com</a> (2025-12-19 20:08:35)</span><span style="padding-right:50px;">バングラデシュのハシナ政権を打倒した学生主導の抗議デモに関わった若者のリーダー、シャリフ・オスマン・ハディ氏（３２）が１８日遅くに亡くなったのを受け、いくつかの都市で暴動が発生した。同氏が立候補していた来年２月の総選挙を控え、混乱拡大が懸念される。 bit.ly/3Y3FFNL <a href="https://bsky.app/profile/japan.reuters.com/post/3madkattf4425" target="_blank">japan.reuters.com</a> (2025-12-19 20:05:20)</span><span style="padding-right:50px;">Notable deaths of 2025 reut.rs/4s6OfJn <a href="https://bsky.app/profile/reuters.com/post/3madkar5ozl2r" target="_blank">reuters.com</a> (2025-12-19 20:05:17)</span><span style="padding-right:50px;">ロシアのプーチン大統領は１９日、年末恒例の記者会見を行い、ウクライナ紛争終結に向けたロシアの条件は、２０２４年６月に自ら示した内容から変わっていないと強調した。米国が和平に向けて取り組む中、歩み寄りの姿勢は示さなかった。 bit.ly/3Y3P6wE <a href="https://bsky.app/profile/japan.reuters.com/post/3madk5k6rzb2q" target="_blank">japan.reuters.com</a> (2025-12-19 20:03:29)</span><span style="padding-right:50px;">サッカー日本代表 W杯直前 5月に国立競技場で壮行試合へ https://news.web.nhk/newsweb/na/na-k10015008811000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madk4xld6v2y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 20:03:07)</span>
+<span style="padding-right:50px;">🇷🇺 Vladimir Putin on Friday hailed his troops' progress in Ukraine during an annual press conference in Moscow -- a staple of his 25-year rule -- with the Russian president emboldened by battlefield gains in Ukraine during a US diplomatic push to end the almost four-year war ➡️ u.afp.com/S8Uz <a href="https://bsky.app/profile/en.afp.com/post/3madljyri7y2y" target="_blank">en.afp.com</a> (2025-12-19 20:28:20)</span><span style="padding-right:50px;">欧州中央銀行（ＥＣＢ）理事会メンバーのエスクリバ・スペイン中銀総裁は１９日、金利を変更する理由はないとし、金融政策は当面安定的に推移するとの見通しを示した。 bit.ly/4j5YsBz <a href="https://bsky.app/profile/japan.reuters.com/post/3madlhuelly27" target="_blank">japan.reuters.com</a> (2025-12-19 20:27:09)</span><span style="padding-right:50px;">Bank of Korea announces temporary measures to boost dollar supply in FX market reut.rs/44Dwnfb <a href="https://bsky.app/profile/reuters.com/post/3madlecko5m2r" target="_blank">reuters.com</a> (2025-12-19 20:25:09)</span><span style="padding-right:50px;"> Inflation risk is still under-appreciated by investors ft.trib.al/h3qwGfy  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3madlcz6jg22k" target="_blank">financialtimes.com</a> (2025-12-19 20:24:26)</span><span style="padding-right:50px;">President Trump this week answered growing concerns in Asia that he could give China a pass on its increasing regional militarism with one of the largest-ever U.S. arms sales to Taiwan. <a href="https://bsky.app/profile/wsj.com/post/3madlck5vgz2o" target="_blank">wsj.com</a> (2025-12-19 20:24:10)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.28 (🔺1.75 : 2025-12-19)</span>
+<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.29 (🔺1.76 : 2025-12-19)</span>
   </div>
 </div>
 
@@ -32,97 +32,102 @@
 
 ## News Headlines
 
-Here are six headlines in English:
+Here are six important stories with headlines in English:
 
-1. Putin Warns of Risks to European Reserves Amid Global Oil Price Volatility
-2. Pro-Trump Youth Leader Dies Amid Bangladesh Protests, Elections Loom
-3. Russia's Putin Reiterates Unchanged Conditions for Ukraine Peace Deal
-4. US Congress Fails to Address Obamacare Subsidy Cliff Ahead of New Year
-5. Austria's Top Court Ruling Puts Meta's Personalized Advertising in Jeopardy
-6. Trump Denies Denying Possibility of War with Venezuela in NBC Interview
+1. Putin Stresses Ukraine Conflict Conditions Have Not Changed
+2. European Central Bank Official Says No Interest Rate Hike Needed
+3. US to Sell Taiwan $10 Billion in Arms Amid China Concerns
+4. Russian President Warns of Risk to European Central Bank Reserves
+5. Bangladesh Newspaper Staff Struggle to Breathe as Offices Set Ablaze
+6. US Congress Fails to Address Obamacare Subsidies Cliff Ahead of Deadline
 
 ----
 
-@japan.reuters.com
+@en.afp.com
 
-ロシアのプーチン大統領は１９日、世界の主要産油国が欧州連合（ＥＵ）内に保有する外貨準備にリスクが及んでいると警告した。 bit.ly/48NoQgk
+🇷🇺 Vladimir Putin on Friday hailed his troops' progress in Ukraine during an annual press conference in Moscow -- a staple of his 25-year rule -- with the Russian president emboldened by battlefield gains in Ukraine during a US diplomatic push to end the almost four-year war ➡️ u.afp.com/S8Uz
 
-[2025-12-19 20:08:35](https://bsky.app/profile/japan.reuters.com/post/3madkgofz7p27)
+[2025-12-19 20:28:20](https://bsky.app/profile/en.afp.com/post/3madljyri7y2y)
 
 ---
 
 @japan.reuters.com
 
-バングラデシュのハシナ政権を打倒した学生主導の抗議デモに関わった若者のリーダー、シャリフ・オスマン・ハディ氏（３２）が１８日遅くに亡くなったのを受け、いくつかの都市で暴動が発生した。同氏が立候補していた来年２月の総選挙を控え、混乱拡大が懸念される。 bit.ly/3Y3FFNL
+欧州中央銀行（ＥＣＢ）理事会メンバーのエスクリバ・スペイン中銀総裁は１９日、金利を変更する理由はないとし、金融政策は当面安定的に推移するとの見通しを示した。 bit.ly/4j5YsBz
 
-[2025-12-19 20:05:20](https://bsky.app/profile/japan.reuters.com/post/3madkattf4425)
+[2025-12-19 20:27:09](https://bsky.app/profile/japan.reuters.com/post/3madlhuelly27)
 
 ---
 
 @reuters.com
 
-Notable deaths of 2025 reut.rs/4s6OfJn
+Bank of Korea announces temporary measures to boost dollar supply in FX market reut.rs/44Dwnfb
 
-[2025-12-19 20:05:17](https://bsky.app/profile/reuters.com/post/3madkar5ozl2r)
-
----
-
-@japan.reuters.com
-
-ロシアのプーチン大統領は１９日、年末恒例の記者会見を行い、ウクライナ紛争終結に向けたロシアの条件は、２０２４年６月に自ら示した内容から変わっていないと強調した。米国が和平に向けて取り組む中、歩み寄りの姿勢は示さなかった。 bit.ly/3Y3P6wE
-
-[2025-12-19 20:03:29](https://bsky.app/profile/japan.reuters.com/post/3madk5k6rzb2q)
+[2025-12-19 20:25:09](https://bsky.app/profile/reuters.com/post/3madlecko5m2r)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@financialtimes.com
 
-サッカー日本代表 W杯直前 5月に国立競技場で壮行試合へ
-https://news.web.nhk/newsweb/na/na-k10015008811000
+ Inflation risk is still under-appreciated by investors ft.trib.al/h3qwGfy  | opinion
 
-[2025-12-19 20:03:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madk4xld6v2y)
-
----
-
-@nhknewsunofficial.bsky.social
-
-フィギュア全日本選手権開幕 男子シングルSP 鍵山優真がトップ
-https://news.web.nhk/newsweb/na/na-k10015008551000
-
-[2025-12-19 20:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madk4txqnu2b)
+[2025-12-19 20:24:26](https://bsky.app/profile/financialtimes.com/post/3madlcz6jg22k)
 
 ---
 
 @wsj.com
 
-President Trump signed into law new powers to screen and restrict U.S. investment in Chinese technology firms.
+President Trump this week answered growing concerns in Asia that he could give China a pass on its increasing regional militarism with one of the largest-ever U.S. arms sales to Taiwan.
 
-[2025-12-19 20:02:32](https://bsky.app/profile/wsj.com/post/3madk3ufjns2k)
+[2025-12-19 20:24:10](https://bsky.app/profile/wsj.com/post/3madlck5vgz2o)
 
 ---
 
-@reuters.com
+@nbcnews.com
 
-Civilian infrastructure damaged in Ukrainian attack on Russia's Oryol region, governor says reut.rs/4s6O5lf
+The man suspected of killing two students and wounding nine others in a shooting at Brown University before fatally shooting an MIT professor days later was found dead in a New Hampshire storage unit, officials say.
 
-[2025-12-19 20:01:01](https://bsky.app/profile/reuters.com/post/3madjz53qu62c)
+[2025-12-19 20:20:21](https://bsky.app/profile/nbcnews.com/post/3madl3pqqz42r)
 
 ---
 
 @nikkei.com
 
-住宅ローン、日銀利上げの影響を試算　平均例で計月1万4000円増
+3メガバンク、普通預金金利0.3%に　日銀の利上げ受け
 www.nikkei.com/article/DGXZQO...
+ 
+三菱UFJ、三井住友、みずほの3メガバンクと三井住友信託銀行が発表。いずれも2026年2月2日から適用します。
+ 
+三菱UFJとみずほ銀行は住宅ローン利用者の約8割が使う変動型金利の指標、短期プライムレート（短プラ）も引き上げ。住宅ローン利用世帯の負担感は一段と増すことになります。
+ 
+#ニュース
 
-[2025-12-19 20:00:50](https://bsky.app/profile/nikkei.com/post/3madjysc24j2n)
+[2025-12-19 20:16:39](https://bsky.app/profile/nikkei.com/post/3madkv3py4q2g)
 
 ---
 
-@cnn.com
+@reuters.com
 
-Congressional Republicans have sent lawmakers home for the holidays without voting to address the Obamacare subsidies cliff that will hit millions of Americans on New Year's Day — infuriating some of their own rank and file. https://cnn.it/4qhbYom
+UK consumers reined in their shopping in run-up to budget reut.rs/3MMUmCs
 
-[2025-12-19 20:00:18](https://bsky.app/profile/cnn.com/post/3madjxud3wc25)
+[2025-12-19 20:15:18](https://bsky.app/profile/reuters.com/post/3madksonapq2b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+高市首相 自民経済安保本部の提言 “安保関連3文書に反映を”
+https://news.web.nhk/newsweb/na/na-k10015008781000
+
+[2025-12-19 20:15:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madkscona62d)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Bangladesh newspaper staff 'gasping for air' as offices set ablaze
+
+[2025-12-19 20:11:20](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3madklmki6c2r)
 
 ---
 
