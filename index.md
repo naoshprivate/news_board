@@ -1,9 +1,9 @@
-# [2025-12-19 12:10 updated](2025_12_19.md)
+# [2025-12-19 12:30 updated](2025_12_19.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">＜１１：３３＞　前場の日経平均は反発、日銀イベント控えハト派期待が先行 bit.ly/3KPMoYJ <a href="https://bsky.app/profile/japan.reuters.com/post/3macpnlde3u27" target="_blank">japan.reuters.com</a> (2025-12-19 12:09:16)</span><span style="padding-right:50px;">Near-term market sentiment may get an immediate test with the listing of ICICI Prudential AMC. A standout debut may set the tone for other fund houses preparing to go public. Read for free with your email on what could move markets today. <a href="https://bsky.app/profile/bloomberg.com/post/3macpkteurz23" target="_blank">bloomberg.com</a> (2025-12-19 12:07:44)</span><span style="padding-right:50px;">木原稔官房長官は１９日午前の会見で、首相官邸の幹部が「核保有すべき」と記者団との懇談で語ったと報じられていることについて、発言の撤回を指示するかなどの措置を取るかどうか明言しなかった。 bit.ly/48Wwe7S <a href="https://bsky.app/profile/japan.reuters.com/post/3macpjh4zeu2u" target="_blank">japan.reuters.com</a> (2025-12-19 12:06:57)</span><span style="padding-right:50px;">Rep. Henry Cuellar, the Texas Democrat who was pardoned by Trump then angered the president by not switching parties in return, has steadily built a powerful political presence in and around Laredo. <a href="https://bsky.app/profile/wsj.com/post/3macpjgejrz2s" target="_blank">wsj.com</a> (2025-12-19 12:06:56)</span><span style="padding-right:50px;">トヨタ 米で生産のセダンなど3車種 来年から「逆輸入」の方針 https://news.web.nhk/newsweb/na/na-k10015008281000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3macpi4vvox2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 12:06:11)</span>
+<span style="padding-right:50px;">🔔NHKより【速報 JUST IN】です。  日銀 利上げ決定 政策金利0.75%に引き上げ 30年ぶり高水準 (2025-12-19 12:28:01) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3macqq45auf2b" target="_blank">sokuho.news</a> (2025-12-19 12:28:34)</span><span style="padding-right:50px;">🔔FNNより【速報】です。  【速報】日銀が政策金利を0.75%程度に引き上げ …30年ぶりの水準 植田総裁が午後の会見で決定の背景など説明へ (2025-12-19 12:19) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3macqpo3l7m2b" target="_blank">sokuho.news</a> (2025-12-19 12:28:20)</span><span style="padding-right:50px;">午前のドルは１５５円後半で買いが強まっているが、日銀の金融政策決定会合の結果待ちとなる中、積極的な取引は手控えられた。利上げが織り込み済みで、市場の注目は今後の利上げ見通しや植田和男日銀総裁の会見に集まっている。 bit.ly/49kFx2E <a href="https://bsky.app/profile/japan.reuters.com/post/3macqnjt3nr26" target="_blank">japan.reuters.com</a> (2025-12-19 12:27:08)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】日銀 政策金利を0.75%に引き上げ “追加利上げの環境整う”と判断 30年ぶり高水準 (2025-12-19 12:21) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3macqnh7ku32v" target="_blank">sokuho.news</a> (2025-12-19 12:27:05)</span><span style="padding-right:50px;">Man suspected of killing 2 at Brown University was a former student who attended the college 25 years ago, officials say. <a href="https://bsky.app/profile/apnews.com/post/3macqmlpwsd2p" target="_blank">apnews.com</a> (2025-12-19 12:26:36)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49568.66 (🔺180.95 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3420.00 (🔺31.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 155.81 (🔺0.28 : 2025-12-19)</span>
+<span style="padding-right:50px;">NIKKEI: 49568.66 (🔺180.95 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3420.00 (🔺31.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 156.05 (🔺0.52 : 2025-12-19)</span>
   </div>
 </div>
 
@@ -32,95 +32,111 @@
 
 ## News Headlines
 
-1. Toyota to Import Sedans Produced in the US Starting Next Year
-2. Japan to Develop and Collaborate on AI Through New Basic Plan
-3. NHK's Kohaku Uta Gassen Announces Performer Song List
-4. Saudi Arabia to Host WTO Ministerial Conference in 2028
-5. Wisconsin Judge Found Guilty of Obstructing Federal Agents
-6. EU Agrees to Provide Interest-Free Loan to Ukraine
+Here are six important news stories with headlines in English:
+
+1. Japan Raises Interest Rate to 0.75%, Highest Level in 30 Years
+2. Brown University Shooting Suspect Found Dead in New Hampshire Storage Unit
+3. European Leaders Agree on $105 Billion Funding Plan for Ukraine
+4. UK Car Production Steadies as JLR Recovers and Nissan Launches EV Production
+5. Stock Market Rises as Investors Await Japan's Interest Rate Decision
+6. Toyota to Import Sedans from US to Japan, First Time in Over 50 Years
 
 ----
 
-@japan.reuters.com
+@sokuho.news
 
-＜１１：３３＞　前場の日経平均は反発、日銀イベント控えハト派期待が先行 bit.ly/3KPMoYJ
+<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>日銀 利上げ決定 政策金利0.75%に引き上げ 30年ぶり高水準</strong><br><strong>(2025-12-19 12:28:01) #ニュース</strong>
 
-[2025-12-19 12:09:16](https://bsky.app/profile/japan.reuters.com/post/3macpnlde3u27)
-
----
-
-@bloomberg.com
-
-Near-term market sentiment may get an immediate test with the listing of ICICI Prudential AMC. A standout debut may set the tone for other fund houses preparing to go public. Read for free with your email on what could move markets today.
-
-[2025-12-19 12:07:44](https://bsky.app/profile/bloomberg.com/post/3macpkteurz23)
-
----
-
-@japan.reuters.com
-
-木原稔官房長官は１９日午前の会見で、首相官邸の幹部が「核保有すべき」と記者団との懇談で語ったと報じられていることについて、発言の撤回を指示するかなどの措置を取るかどうか明言しなかった。 bit.ly/48Wwe7S
-
-[2025-12-19 12:06:57](https://bsky.app/profile/japan.reuters.com/post/3macpjh4zeu2u)
-
----
-
-@wsj.com
-
-Rep. Henry Cuellar, the Texas Democrat who was pardoned by Trump then angered the president by not switching parties in return, has steadily built a powerful political presence in and around Laredo.
-
-[2025-12-19 12:06:56](https://bsky.app/profile/wsj.com/post/3macpjgejrz2s)
-
----
-
-@nhknewsunofficial.bsky.social
-
-トヨタ 米で生産のセダンなど3車種 来年から「逆輸入」の方針
-https://news.web.nhk/newsweb/na/na-k10015008281000
-
-[2025-12-19 12:06:11](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3macpi4vvox2m)
-
----
-
-@nhknewsunofficial.bsky.social
-
-政府 初の「AI基本計画」案まとめる 首相“官民連携し開発を”
-https://news.web.nhk/newsweb/na/na-k10015008241000
-
-[2025-12-19 12:06:06](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3macphymt3t2s)
-
----
-
-@nhknewsunofficial.bsky.social
-
-NHK紅白歌合戦 出場歌手の曲目を発表
-https://news.web.nhk/newsweb/na/na-k10015007331000
-
-[2025-12-19 12:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3macphudma32v)
+[2025-12-19 12:28:34](https://bsky.app/profile/sokuho.news/post/3macqq45auf2b)
 
 ---
 
 @sokuho.news
 
-<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>NHK紅白歌合戦 出場歌手の曲目を発表</strong><br><strong>(2025-12-19 12:03:27) #ニュース</strong><br><strong>https://news.web.nhk/newsweb/na/na-k10015007331000</strong>
+🔔FNNより【速報】です。
 
-[2025-12-19 12:03:49](https://bsky.app/profile/sokuho.news/post/3macpdunoxj2y)
+【速報】日銀が政策金利を0.75%程度に引き上げ …30年ぶりの水準 植田総裁が午後の会見で決定の背景など説明へ
+(2025-12-19 12:19) #ニュース
+
+[2025-12-19 12:28:20](https://bsky.app/profile/sokuho.news/post/3macqpo3l7m2b)
 
 ---
 
 @japan.reuters.com
 
-世界貿易機関（ＷＴＯ）の文書によると、サウジアラビアが２０２８年の閣僚会議開催国に立候補した。 bit.ly/4p6H40V
+午前のドルは１５５円後半で買いが強まっているが、日銀の金融政策決定会合の結果待ちとなる中、積極的な取引は手控えられた。利上げが織り込み済みで、市場の注目は今後の利上げ見通しや植田和男日銀総裁の会見に集まっている。 bit.ly/49kFx2E
 
-[2025-12-19 12:03:11](https://bsky.app/profile/japan.reuters.com/post/3macpcpkzj42p)
+[2025-12-19 12:27:08](https://bsky.app/profile/japan.reuters.com/post/3macqnjt3nr26)
 
 ---
 
-@cnn.com
+@sokuho.news
 
-Imagine this: You’re a South Korean teenager taking a notoriously grueling 8-hour college entrance exam. You’ve been prepping for this for months, perhaps years. https://cnn.it/4j4Ek31
+🛎️NNNより【速報】です。
 
-[2025-12-19 12:01:02](https://bsky.app/profile/cnn.com/post/3macp6u7ot42k)
+【速報】日銀 政策金利を0.75%に引き上げ “追加利上げの環境整う”と判断 30年ぶり高水準
+(2025-12-19 12:21) #ニュース
+
+[2025-12-19 12:27:05](https://bsky.app/profile/sokuho.news/post/3macqnh7ku32v)
+
+---
+
+@apnews.com
+
+Man suspected of killing 2 at Brown University was a former student who attended the college 25 years ago, officials say.
+
+[2025-12-19 12:26:36](https://bsky.app/profile/apnews.com/post/3macqmlpwsd2p)
+
+---
+
+@sokuho.news
+
+🔔ANNより【速報】です。
+
+【速報】日銀が政策金利を0.75%程度に引き上げ 30年ぶりの高水準 金融政策決定会合
+(2025年12月19日 12:21) #ニュース
+https://news.tv-asahi.co.jp/news_economy/articles/000474010.html?display=full
+
+[2025-12-19 12:24:24](https://bsky.app/profile/sokuho.news/post/3macqinow4l2x)
+
+---
+
+@sokuho.news
+
+🔔FNNより【速報】です。
+
+【速報】日銀が政策金利を0.75%程度に引き上げ …30年ぶりの水準
+(2025-12-19 12:19) #ニュース
+
+[2025-12-19 12:24:24](https://bsky.app/profile/sokuho.news/post/3macqinhjnk27)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】日銀 政策金利を0.75%に引き上げ 30年ぶり高水準に きょうの金融政策決定会合で追加利上げ決定
+(2025-12-19 12:23:19) #ニュース
+
+[2025-12-19 12:24:02](https://bsky.app/profile/sokuho.news/post/3macqhy7hzr2y)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+日銀 利上げ決定 ことし1月以来 政策金利0.75％程度に引き上げ
+https://news.web.nhk/newsweb/na/na-k10015008081000
+
+[2025-12-19 12:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3macqi2pbxd22)
+
+---
+
+@sokuho.news
+
+<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>日銀 利上げ決定 ことし1月以来 政策金利0.75%程度に引き上げ</strong><br><strong>(2025-12-19 12:22:14) #ニュース</strong>
+
+[2025-12-19 12:22:41](https://bsky.app/profile/sokuho.news/post/3macqflllar2y)
 
 ---
 
