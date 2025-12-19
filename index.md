@@ -1,9 +1,9 @@
-# [2025-12-20 02:10 updated](2025_12_20.md)
+# [2025-12-20 02:30 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:石川県西方沖, 深さ:10km マグニチュード:3.3, 最大震度:2 📍https://www.google.com/maps?q=37.0,136.7&ll=37.0,136.7&z=7&t=h 地震発生日時:2025-12-20 02:05頃 (10倍速▶120s→12s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3mae6l52cdp2y" target="_blank">sokuho.news</a> (2025-12-20 02:09:00)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  2時5分頃、石川県で最大震度2の地震を観測しました。 震源:石川県西方沖, 深さ:10km, 規模:M3.3 この地震による津波の心配はありません。 (2025-12-20 02:08:33) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/20/2025-12-20-02-05-43.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3mae6kfxsee2x" target="_blank">sokuho.news</a> (2025-12-20 02:08:35)</span><span style="padding-right:50px;">Consumer sentiment shows 'substantial decline' from last year amid higher prices, tough job market <a href="https://bsky.app/profile/yahoofinance.com/post/3mae6gkayy62f" target="_blank">yahoofinance.com</a> (2025-12-20 02:06:26)</span><span style="padding-right:50px;">Lamb Weston sticks to annual sales forecast despite upbeat quarterly results reut.rs/4pMMY8V <a href="https://bsky.app/profile/reuters.com/post/3mae6eidlrq2i" target="_blank">reuters.com</a> (2025-12-20 02:05:16)</span><span style="padding-right:50px;">Trump name added to Kennedy Center signage <a href="https://bsky.app/profile/cnbc.com/post/3mae6ebggia2d" target="_blank">cnbc.com</a> (2025-12-20 02:05:09)</span>
+<span style="padding-right:50px;">Breaking News: The National Weather Service warned of dangerously high fire risk today in parts of Colorado and Wyoming. <a href="https://bsky.app/profile/nytimes.com/post/3mae7jzwuvw2v" target="_blank">nytimes.com</a> (2025-12-20 02:26:16)</span><span style="padding-right:50px;">Exclusive: Nexperia's China unit switches to local firms for wafer supplies, document shows reut.rs/4j6fgsl <a href="https://bsky.app/profile/reuters.com/post/3mae7i24xup2o" target="_blank">reuters.com</a> (2025-12-20 02:25:09)</span><span style="padding-right:50px;">John Koch, a 76-year-old radio reporter in North Florida, has  witnessed every state execution since the serial killer Ted Bundy’s in 1989. This year, the state has had a record number of 19 executions. “It gets hard,” he told us. nyti.ms/4aZ9gzv <a href="https://bsky.app/profile/nytimes.com/post/3mae7hx7cgv2y" target="_blank">nytimes.com</a> (2025-12-20 02:25:07)</span><span style="padding-right:50px;">Claire's new owner Ames Watson feuds with Asia-based suppliers over millions in unpaid debt <a href="https://bsky.app/profile/cnbc.com/post/3mae7gjeobm2g" target="_blank">cnbc.com</a> (2025-12-20 02:24:19)</span><span style="padding-right:50px;">Europe has demonstrated that when faced with Russian threats and intimidation, the continent struggles to stand strong. <a href="https://bsky.app/profile/wsj.com/post/3mae7busi5q2u" target="_blank">wsj.com</a> (2025-12-20 02:21:42)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48223.44 (🔺248.62 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23253.65 (🔺131.75 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.16 (🔺3.50 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.46 (🔺1.94 : 2025-12-19)</span>
+<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48250.93 (🔺276.11 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23276.02 (🔺154.12 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.51 (🔺3.85 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.54 (🔺2.01 : 2025-12-19)</span>
   </div>
 </div>
 
@@ -32,108 +32,94 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are six news headlines in English:
 
-1. Magnitude 3.3 Earthquake Hits Off Japan's Coast
-2. Famine No Longer in Gaza, UN Announces
-3. US Treasury to Proceed with Treasury Bill Sales Despite Crisis
-4. Nvidia Stock Gains on Trump Chip Export Review
-5. Workers Add Trump's Name to Kennedy Center Signage Without Congressional Approval
-6. UN Aims to Fix Budget Rule Amid Crisis
+1. Record Number of Executions in Florida Tests Reporter's Resolve
+2. Google Hires 20% of AI Software Engineers from Former Employees
+3. US Home Sales Increase Moderately in November
+4. European Cities Struggle to Protect Subway Systems from Rising Floods
+5. Russian Spies Caught Operating in European Waters on Oil Ships
+6. UN Declares Gaza's Food Crisis Over After Ceasefire with Israel and Hamas
 
 ----
 
-@sokuho.news
+@nytimes.com
 
-🔔防災科研より【強震モニタ】動画です。
+<strong><span style="color: red;">Breaking News</span>: The National Weather Service warned of dangerously high fire risk today in parts of Colorado and Wyoming.</strong>
 
-震源:石川県西方沖, 深さ:10km
-マグニチュード:3.3, 最大震度:2
-📍https://www.google.com/maps?q=37.0,136.7&ll=37.0,136.7&z=7&t=h
-地震発生日時:2025-12-20 02:05頃
-(10倍速▶120s→12s) #地震
-
-[2025-12-20 02:09:00](https://bsky.app/profile/sokuho.news/post/3mae6l52cdp2y)
-
----
-
-@sokuho.news
-
-🔔気象庁より【地震速報】です。
-
-2時5分頃、石川県で最大震度2の地震を観測しました。
-震源:石川県西方沖, 深さ:10km, 規模:M3.3
-この地震による津波の心配はありません。
-(2025-12-20 02:08:33) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/20/2025-12-20-02-05-43.html?xlarge_image=1
-
-[2025-12-20 02:08:35](https://bsky.app/profile/sokuho.news/post/3mae6kfxsee2x)
-
----
-
-@yahoofinance.com
-
-Consumer sentiment shows 'substantial decline' from last year amid higher prices, tough job market
-
-[2025-12-20 02:06:26](https://bsky.app/profile/yahoofinance.com/post/3mae6gkayy62f)
+[2025-12-20 02:26:16](https://bsky.app/profile/nytimes.com/post/3mae7jzwuvw2v)
 
 ---
 
 @reuters.com
 
-Lamb Weston sticks to annual sales forecast despite upbeat quarterly results reut.rs/4pMMY8V
+Exclusive: Nexperia's China unit switches to local firms for wafer supplies, document shows reut.rs/4j6fgsl
 
-[2025-12-20 02:05:16](https://bsky.app/profile/reuters.com/post/3mae6eidlrq2i)
+[2025-12-20 02:25:09](https://bsky.app/profile/reuters.com/post/3mae7i24xup2o)
+
+---
+
+@nytimes.com
+
+John Koch, a 76-year-old radio reporter in North Florida, has  witnessed every state execution since the serial killer Ted Bundy’s in 1989. This year, the state has had a record number of 19 executions. “It gets hard,” he told us. nyti.ms/4aZ9gzv
+
+[2025-12-20 02:25:07](https://bsky.app/profile/nytimes.com/post/3mae7hx7cgv2y)
 
 ---
 
 @cnbc.com
 
-Trump name added to Kennedy Center signage
+Claire's new owner Ames Watson feuds with Asia-based suppliers over millions in unpaid debt
 
-[2025-12-20 02:05:09](https://bsky.app/profile/cnbc.com/post/3mae6ebggia2d)
-
----
-
-@cnbc.com
-
-Google's boomerang year: 20% of AI software engineers hired in 2025 were ex-employees
-
-[2025-12-20 02:02:59](https://bsky.app/profile/cnbc.com/post/3mae6afmcbu2e)
+[2025-12-20 02:24:19](https://bsky.app/profile/cnbc.com/post/3mae7gjeobm2g)
 
 ---
 
 @wsj.com
 
-Globe-trotting homeowners channeled years of five-star travel into the design of their South Carolina home. on.wsj.com/4aWvKB5
+Europe has demonstrated that when faced with Russian threats and intimidation, the continent struggles to stand strong.
 
-[2025-12-20 02:02:27](https://bsky.app/profile/wsj.com/post/3mae67grr772k)
-
----
-
-@reuters.com
-
-ARKO Petroleum discloses nine-month revenue fall in US IPO paperwork reut.rs/494deV4
-
-[2025-12-20 02:01:34](https://bsky.app/profile/reuters.com/post/3mae65txzbg24)
+[2025-12-20 02:21:42](https://bsky.app/profile/wsj.com/post/3mae7busi5q2u)
 
 ---
 
-@washingtonpost.com
+@npr.org
 
-As the planet warms, subway systems in major cities have struggled to cope with floods far beyond what they were originally designed to handle. 
+Details are beginning to emerge about the life of Claudio Manuel Neves Valente, the gunman who killed two and injured nine others in the attack at Brown University last week. He is also believed to have killed an MIT professor on Monday, police said. n.pr/3N9ZQXZ
 
-This is what it will take to protect the New York subway — and its nearly 1.2 billion annual riders.
-
-[2025-12-20 02:00:48](https://bsky.app/profile/washingtonpost.com/post/3mae64im4vv2p)
+[2025-12-20 02:20:51](https://bsky.app/profile/npr.org/post/3mae7ad2s6h2d)
 
 ---
 
-@cnn.com
+@nbcnews.com
 
-Russian personnel with links to the country’s military and security services have engaged in spying in European waters while working covertly on ships carrying Russian oil, Western and Ukrainian intelligence sources exclusively told CNN. https://cnn.it/491TEZG
+Erika Kirk, widow of assassinated Turning Point USA co-founder Charlie Kirk, endorses Vice President JD Vance in the 2028 presidential election in a speech opening the group's America Fest annual conference.
 
-[2025-12-20 02:00:46](https://bsky.app/profile/cnn.com/post/3mae64g4qcr2v)
+[2025-12-20 02:20:24](https://bsky.app/profile/nbcnews.com/post/3mae77k3el32q)
+
+---
+
+@yahoonews.com
+
+President Trump announced Thursday the White House will host the “Patriot Games,” a competition with young athletes from across the country, as part of the celebration of the United States’ 250th anniversary next year. yhoo.it/4qixSYj
+
+[2025-12-20 02:20:08](https://bsky.app/profile/yahoonews.com/post/3mae772apzb2q)
+
+---
+
+@cbsnews.com
+
+Members of American Airlines' loyalty program will no longer earn miles or other travel rewards when purchasing a basic economy ticket. 
+
+[2025-12-20 02:20:01](https://bsky.app/profile/cbsnews.com/post/3mae76u27tq2h)
+
+---
+
+@npr.org
+
+The late, great Fela Kuti is known as the "Black President" for his role as both a musical and a political leader. Now he has become the first African artist to get this Grammy honor. n.pr/4oXdpat
+
+[2025-12-20 02:15:35](https://bsky.app/profile/npr.org/post/3mae6wwgdvs2i)
 
 ---
 
