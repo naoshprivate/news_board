@@ -1,9 +1,9 @@
-# [2025-12-19 09:10 updated](2025_12_19.md)
+# [2025-12-19 09:30 updated](2025_12_19.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】新庄市で乗用車が男性をはねる はねられた男性は重体か（山形） (2025-12-19 09:00:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3macfhkiksr2v" target="_blank">sokuho.news</a> (2025-12-19 09:06:56)</span><span style="padding-right:50px;">Petrobras' strike-hit P-40 platform shut after gas leak reut.rs/3MC5B0D <a href="https://bsky.app/profile/reuters.com/post/3macfeix3ix2r" target="_blank">reuters.com</a> (2025-12-19 09:05:14)</span><span style="padding-right:50px;">An interstellar comet first spotted passing through our solar system in July is beginning its departure from our corner of the universe — but first it will fly by Earth, and scientists are capturing stunning new images during its approach. https://cnn.it/3KCb9aQ <a href="https://bsky.app/profile/cnn.com/post/3macfe6mizu24" target="_blank">cnn.com</a> (2025-12-19 09:05:03)</span><span style="padding-right:50px;">Friday's big stock stories: What’s likely to move the market in the next trading session <a href="https://bsky.app/profile/cnbc.com/post/3macfdqectw2p" target="_blank">cnbc.com</a> (2025-12-19 09:04:48)</span><span style="padding-right:50px;">Cramer's Lightning Round: 'No' to SentinelOne <a href="https://bsky.app/profile/cnbc.com/post/3macfbjsr2g2e" target="_blank">cnbc.com</a> (2025-12-19 09:03:34)</span>
+<span style="padding-right:50px;">＜０９：０８＞　日経平均は反発で寄り付く、米株高の流れ引き継ぐ　半導体株に買い戻し bit.ly/4pKBYsn <a href="https://bsky.app/profile/japan.reuters.com/post/3macglyydns2n" target="_blank">japan.reuters.com</a> (2025-12-19 09:27:19)</span><span style="padding-right:50px;">TikTok's parent signs binding agreements to create a US joint venture majority-owned by American investors. bloom.bg/4qnoF1b  📷: Gabby Jones/Bloomberg <a href="https://bsky.app/profile/bloomberg.com/post/3macgkqjchu23" target="_blank">bloomberg.com</a> (2025-12-19 09:26:37)</span><span style="padding-right:50px;">US annual consumer inflation slows in November, but report distorted by missing data reut.rs/4pWCxzm <a href="https://bsky.app/profile/reuters.com/post/3macgicultd2x" target="_blank">reuters.com</a> (2025-12-19 09:25:15)</span><span style="padding-right:50px;">欧州連合（ＥＵ）筋によると、ＥＵ執行機関の欧州委員会のフォンデアライエン委員長は１８日、ＥＵ首脳に対し、ＥＵと南部共同市場（メルコスル）の貿易協定の署名が来年１月に延期されたと伝えた。ＥＵの貿易拡大計画の行方に疑念が生じている。 bit.ly/4pe22ve <a href="https://bsky.app/profile/japan.reuters.com/post/3macghqur6725" target="_blank">japan.reuters.com</a> (2025-12-19 09:24:57)</span><span style="padding-right:50px;">Stigma of Ukraine's forgotten soldiers who 'died the wrong way' <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3macgfeos732e" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-19 09:23:36)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49001.50 (🔻56.81 : 2025-12-18)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3363.00 (🔺13.00 : 2025-12-18)</span><span style="padding-right:50px;">USD/JPY: 155.66 (🔺0.14 : 2025-12-19)</span>
+<span style="padding-right:50px;">NIKKEI: 49309.56 (🔻78.15 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3408.00 (🔺19.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 155.67 (🔺0.15 : 2025-12-19)</span>
   </div>
 </div>
 
@@ -32,100 +32,98 @@
 
 ## News Headlines
 
-Here are six news headlines in English:
+Here are six important stories with headlines in English:
 
-1. Driver Seriously Injured After Being Struck by Car in Yamagata, Japan
-2. Petrobras' P-40 Platform Shut Down Due to Gas Leak
-3. Stunning Images of Interstellar Comet as it Approaches Earth
-4. Trump Administration to Take Steps to End Transition-Related Care for Minors Nationwide
-5. Japan's Consumer Inflation Remains Above Central Bank's Target for 44th Month
-6. US House Panel Votes to Pay Air Traffic Controllers During Future Government Shutdowns
+1. US Stocks Bounce Back Amid Semiconductor Rally
+2. TikTok Owner Agrees to Sell US Business in Joint Venture
+3. US Inflation Slows in November, but Data Distorted by Missing Figures
+4. EU Trade Deal with Mercosur Delayed Until January Due to Uncertainty
+5. Former Billionaire's Lavish Lifestyle Hides Dire Financial Situation
+6. President Trump Signs Executive Order to Reclassify Marijuana as Less Dangerous Drug
 
 ----
 
-@sokuho.news
+@japan.reuters.com
 
-🛎️JNNより【速報】です。
+＜０９：０８＞　日経平均は反発で寄り付く、米株高の流れ引き継ぐ　半導体株に買い戻し bit.ly/4pKBYsn
 
-【速報】新庄市で乗用車が男性をはねる はねられた男性は重体か（山形）
-(2025-12-19 09:00:00) #ニュース
+[2025-12-19 09:27:19](https://bsky.app/profile/japan.reuters.com/post/3macglyydns2n)
 
-[2025-12-19 09:06:56](https://bsky.app/profile/sokuho.news/post/3macfhkiksr2v)
+---
+
+@bloomberg.com
+
+TikTok's parent signs binding agreements to create a US joint venture majority-owned by American investors. bloom.bg/4qnoF1b
+
+📷: Gabby Jones/Bloomberg
+
+[2025-12-19 09:26:37](https://bsky.app/profile/bloomberg.com/post/3macgkqjchu23)
 
 ---
 
 @reuters.com
 
-Petrobras' strike-hit P-40 platform shut after gas leak reut.rs/3MC5B0D
+US annual consumer inflation slows in November, but report distorted by missing data reut.rs/4pWCxzm
 
-[2025-12-19 09:05:14](https://bsky.app/profile/reuters.com/post/3macfeix3ix2r)
-
----
-
-@cnn.com
-
-An interstellar comet first spotted passing through our solar system in July is beginning its departure from our corner of the universe — but first it will fly by Earth, and scientists are capturing stunning new images during its approach. https://cnn.it/3KCb9aQ
-
-[2025-12-19 09:05:03](https://bsky.app/profile/cnn.com/post/3macfe6mizu24)
-
----
-
-@cnbc.com
-
-Friday's big stock stories: What’s likely to move the market in the next trading session
-
-[2025-12-19 09:04:48](https://bsky.app/profile/cnbc.com/post/3macfdqectw2p)
-
----
-
-@cnbc.com
-
-Cramer's Lightning Round: 'No' to SentinelOne
-
-[2025-12-19 09:03:34](https://bsky.app/profile/cnbc.com/post/3macfbjsr2g2e)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】新庄市で乗用車が男性をはねる（山形）
-(2025-12-19 09:00:00) #ニュース
-
-[2025-12-19 09:03:29](https://bsky.app/profile/sokuho.news/post/3macfbfaakq25)
+[2025-12-19 09:25:15](https://bsky.app/profile/reuters.com/post/3macgicultd2x)
 
 ---
 
 @japan.reuters.com
 
-ナスダックやニューヨーク証券取引所などの米主要証券取引所は１８日、トランプ大統領が連邦政府機関の閉庁を命じた２４日と２６日の取引を予定通りに行うと発表した。 bit.ly/45bUKk7
+欧州連合（ＥＵ）筋によると、ＥＵ執行機関の欧州委員会のフォンデアライエン委員長は１８日、ＥＵ首脳に対し、ＥＵと南部共同市場（メルコスル）の貿易協定の署名が来年１月に延期されたと伝えた。ＥＵの貿易拡大計画の行方に疑念が生じている。 bit.ly/4pe22ve
 
-[2025-12-19 09:03:19](https://bsky.app/profile/japan.reuters.com/post/3macfb3ejqr22)
+[2025-12-19 09:24:57](https://bsky.app/profile/japan.reuters.com/post/3macghqur6725)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Stigma of Ukraine's forgotten soldiers who 'died the wrong way'
+
+[2025-12-19 09:23:36](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3macgfeos732e)
 
 ---
 
 @wsj.com
 
-The onetime billionaire spent his vast fortune on lavish homes in Bel-Air, Malibu and New York City. But the aftermath of his death reveals a dire financial situation. on.wsj.com/4aXKhwu
+Kristen Waggoner has helped the evangelical right get much of what it wanted from a conservative Supreme Court, with a carefully honed message and cheery disposition.
 
-[2025-12-19 09:03:06](https://bsky.app/profile/wsj.com/post/3macfapl7be2z)
+[2025-12-19 09:21:10](https://bsky.app/profile/wsj.com/post/3macgaz362e2h)
 
 ---
 
-@apnews.com
+@japan.reuters.com
 
-A British baker's critique of Mexican bread has sparked outrage on social media, leading to a public apology.
+米財務省が１８日発表したデータによると、１０月の外国人による米国債保有額は９兆２４３０億ドルと、前月の９兆２４８０億ドルから減少し、２カ月連続の減少となった。過去最長の米政府機関閉鎖によって市場心理が悪化した。 bit.ly/4b4lxTc
 
-[2025-12-19 09:01:42](https://bsky.app/profile/apnews.com/post/3macf67bwdk2r)
+[2025-12-19 09:21:05](https://bsky.app/profile/japan.reuters.com/post/3macgatnul62u)
 
 ---
 
 @nbcnews.com
 
-The Trump administration has announced that it will begin to take steps aimed at ending transition-related care for minors nationwide.
+The year 2025 has been filled with cultural absurdities.
 
-[2025-12-19 09:00:54](https://bsky.app/profile/nbcnews.com/post/3macf4rjavq2q)
+Here’s a full look at NBC News’ list of the biggest cultural moments of 2025.
+
+[2025-12-19 09:20:32](https://bsky.app/profile/nbcnews.com/post/3macg7u5dwi2k)
+
+---
+
+@cbsnews.com
+
+Authorities searching for car they believe Brown shooting suspect rented, sources say. Here's what we know.
+
+[2025-12-19 09:20:12](https://bsky.app/profile/cbsnews.com/post/3macg7boe422a)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+TikTok owner agrees to sell US business
+
+[2025-12-19 09:20:08](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3macg7673432y)
 
 ---
 
