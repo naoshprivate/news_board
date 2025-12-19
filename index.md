@@ -1,9 +1,9 @@
-# [2025-12-20 06:50 updated](2025_12_20.md)
+# [2025-12-20 07:10 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Tesla won its fight over a record-breaking pay package for Chief Executive Elon Musk that was approved by shareholders in 2018. <a href="https://bsky.app/profile/wsj.com/post/3maenzacq742i" target="_blank">wsj.com</a> (2025-12-20 06:45:19)</span><span style="padding-right:50px;">National security law in 2026: Legal adaptation in a constrained security economy reut.rs/4qbD54m <a href="https://bsky.app/profile/reuters.com/post/3maenz5pi4y2o" target="_blank">reuters.com</a> (2025-12-20 06:45:16)</span><span style="padding-right:50px;">The man suspected in a mass shooting at Brown University and the killing of a Massachusetts Institute of Technology professor was in the same academic program as the professor in Portugal before attending Brown on a student visa. Here's what else we know.  <a href="https://bsky.app/profile/apnews.com/post/3maenz2atux2p" target="_blank">apnews.com</a> (2025-12-20 06:45:13)</span><span style="padding-right:50px;">Column: The Kennedy Center board voted to rename the living monument to the 35th president as the “Trump Kennedy Center” and a nationwide freak-out ensued.  The name-change stunt feels needlessly provocative and strangely timed.  <a href="https://bsky.app/profile/washingtonpost.com/post/3maenyr5ruv2y" target="_blank">washingtonpost.com</a> (2025-12-20 06:45:03)</span><span style="padding-right:50px;">The US Justice Department on Friday began releasing the long-awaited records from the investigation into the politically explosive case of convicted sex offender Jeffrey Epstein.  u.afp.com/S8i8 <a href="https://bsky.app/profile/en.afp.com/post/3maenyqjtih2q" target="_blank">en.afp.com</a> (2025-12-20 06:45:02)</span>
+<span style="padding-right:50px;">Removed Ben & Jerry's chair says Magnum aimed to 'smear' her <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maepbdf6s22b" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-20 07:07:43)</span><span style="padding-right:50px;">Exclusive: AI chip firm Cerebras set to file for US IPO after delay, sources say reut.rs/44za9uL <a href="https://bsky.app/profile/reuters.com/post/3maep4qeodv2s" target="_blank">reuters.com</a> (2025-12-20 07:05:10)</span><span style="padding-right:50px;">BREAKING: The Brown University shooting suspect died by suicide days before being found, an autopsy finds. <a href="https://bsky.app/profile/cbsnews.com/post/3maep4ohwfk2f" target="_blank">cbsnews.com</a> (2025-12-20 07:05:08)</span><span style="padding-right:50px;">Palestinians tell BBC they were sexually abused in Israeli prisons <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maeoyysrva2v" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-20 07:03:04)</span><span style="padding-right:50px;">Eric Adams, the one-term mayor, moved to block a key proposal of Zohran Mamdani's platform to address cost of living in New York. <a href="https://bsky.app/profile/usatoday.com/post/3maeowr6jfb2o" target="_blank">usatoday.com</a> (2025-12-20 07:01:50)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.33 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.72 (🔺2.19 : 2025-12-19)</span>
+<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.33 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.75 (🔺2.22 : 2025-12-20)</span>
   </div>
 </div>
 
@@ -32,126 +32,94 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are six important stories from the news with headlines in English:
 
-1. Tesla Wins Delaware Supreme Court Ruling on Musk's 2018 Pay Package
-2. Epstein Files Released: Justice Department Publishes Thousands of Documents Related to Investigation
-3. US Justice Department Releases Documents on Jeffrey Epstein's Sex-Trafficking Investigation
-4. Republican Rep. Elise Stefanik Ends Campaign for New York Governor, Won't Seek Re-election
-5. Earthquake Hits Japan: 4.4 Magnitude Quake Strikes Off Coast of Miyagi Prefecture
-6. US Space Development Agency Places $3.5 Billion Order for 72 Satellites
+1. Brown University Shooting Suspect Died by Suicide, Autopsy Finds
+2. US Justice Department Releases Jeffrey Epstein Investigation Records
+3. Tesla Wins Appeal, Restores Elon Musk's $56 Billion Pay Package
+4. Measles Cases Rise in South Carolina, Health Department Reports 144 Cases
+5. Pentagon to Buy Thousands of Small Drones for the US Military
+6. Elise Stefanik Drops Out of NY Governor's Race, Won't Seek Re-election to Congress
 
 ----
 
-@wsj.com
+@bbcnews-world-rss.bsky.social
 
-Tesla won its fight over a record-breaking pay package for Chief Executive Elon Musk that was approved by shareholders in 2018.
+Removed Ben & Jerry's chair says Magnum aimed to 'smear' her
 
-[2025-12-20 06:45:19](https://bsky.app/profile/wsj.com/post/3maenzacq742i)
+[2025-12-20 07:07:43](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maepbdf6s22b)
 
 ---
 
 @reuters.com
 
-National security law in 2026: Legal adaptation in a constrained security economy reut.rs/4qbD54m
+Exclusive: AI chip firm Cerebras set to file for US IPO after delay, sources say reut.rs/44za9uL
 
-[2025-12-20 06:45:16](https://bsky.app/profile/reuters.com/post/3maenz5pi4y2o)
-
----
-
-@apnews.com
-
-The man suspected in a mass shooting at Brown University and the killing of a Massachusetts Institute of Technology professor was in the same academic program as the professor in Portugal before attending Brown on a student visa. Here's what else we know. 
-
-[2025-12-20 06:45:13](https://bsky.app/profile/apnews.com/post/3maenz2atux2p)
+[2025-12-20 07:05:10](https://bsky.app/profile/reuters.com/post/3maep4qeodv2s)
 
 ---
 
-@washingtonpost.com
+@cbsnews.com
 
-Column: The Kennedy Center board voted to rename the living monument to the 35th president as the “Trump Kennedy Center” and a nationwide freak-out ensued.
+<strong><span style="color: red;">BREAKING:</span> The Brown University shooting suspect died by suicide days before being found, an autopsy finds.</strong>
 
-The name-change stunt feels needlessly provocative and strangely timed. 
-
-[2025-12-20 06:45:03](https://bsky.app/profile/washingtonpost.com/post/3maenyr5ruv2y)
+[2025-12-20 07:05:08](https://bsky.app/profile/cbsnews.com/post/3maep4ohwfk2f)
 
 ---
 
-@en.afp.com
+@bbcnews-world-rss.bsky.social
 
-The US Justice Department on Friday began releasing the long-awaited records from the investigation into the politically explosive case of convicted sex offender Jeffrey Epstein.
+Palestinians tell BBC they were sexually abused in Israeli prisons
 
-u.afp.com/S8i8
-
-[2025-12-20 06:45:02](https://bsky.app/profile/en.afp.com/post/3maenyqjtih2q)
+[2025-12-20 07:03:04](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maeoyysrva2v)
 
 ---
 
-@sokuho.news
+@usatoday.com
 
-🔔防災科研より【強震モニタ】動画です。
+Eric Adams, the one-term mayor, moved to block a key proposal of Zohran Mamdani's platform to address cost of living in New York.
 
-震源:三陸沖, 深さ:10km
-マグニチュード:4.4, 最大震度:1
-📍https://www.google.com/maps?q=39.6,143.3&ll=39.6,143.3&z=7&t=h
-地震発生日時:2025-12-20 06:40頃
-(10倍速▶180s→18s) #地震
-
-[2025-12-20 06:43:50](https://bsky.app/profile/sokuho.news/post/3maenwlqfds2y)
+[2025-12-20 07:01:50](https://bsky.app/profile/usatoday.com/post/3maeowr6jfb2o)
 
 ---
 
-@sokuho.news
+@reuters.com
 
-🔔気象庁より【地震速報】です。
+Measles cases in South Carolina rise by nine to 144, state health department says reut.rs/3L7U0Wy
 
-6時40分頃、岩手県で最大震度1の地震を観測しました。
-震源:三陸沖, 深さ:10km, 規模:M4.4
-この地震による津波の心配はありません。
-(2025-12-20 06:43:14) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/20/2025-12-20-06-40-08.html?xlarge_image=1
-
-[2025-12-20 06:43:15](https://bsky.app/profile/sokuho.news/post/3maenvkceqn25)
+[2025-12-20 07:01:27](https://bsky.app/profile/reuters.com/post/3maeow3wlgh2i)
 
 ---
 
-@sokuho.news
+@japan.reuters.com
 
-🚨地震発生中❗❗
+米ニューヨーク連銀のウィリアムズ総裁は１９日、連邦準備理事会（ＦＲＢ）が先週に決定した利下げに続く追加利下げを行う差し迫った必要性はないとの見解を示した。 bit.ly/4pJA8Ij
 
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像3🈡
-(2025-12-20 06:40:53) #緊急地震速報
-
-[2025-12-20 06:41:00](https://bsky.app/profile/sokuho.news/post/3maenrjiphg2y)
+[2025-12-20 07:00:41](https://bsky.app/profile/japan.reuters.com/post/3maeoupj6nz2c)
 
 ---
 
-@sokuho.news
+@nbcnews.com
 
-🚨地震発生中❗❗
+Australia launches a gun buyback program after the Bondi beach attack.
 
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像2
-(2025-12-20 06:40:38) #緊急地震速報
-
-[2025-12-20 06:40:45](https://bsky.app/profile/sokuho.news/post/3maenr32y3r2x)
+[2025-12-20 07:00:36](https://bsky.app/profile/nbcnews.com/post/3maeoukuuyv2q)
 
 ---
 
-@sokuho.news
+@bloomberg.com
 
-🚨地震発生中❗❗
+Yale University is creating a new program to offer student loans to graduate and professional students, now that the government is limiting the amount they can borrow though the federal lending program.
 
-⚠️揺れに警戒してください
-🔗http://www.kmoni.bosai.go.jp/
+[2025-12-20 07:00:26](https://bsky.app/profile/bloomberg.com/post/3maeoub2gv52g)
 
-🔶防災科研/強震モニタ/予測震度画像1
-(2025-12-20 06:40:19) #緊急地震速報
+---
 
-[2025-12-20 06:40:27](https://bsky.app/profile/sokuho.news/post/3maenqjll4x2e)
+@cnn.com
+
+The Department of Homeland Security announced its intention to pause a visa program intended to admit certain individuals to the United States, though it’s unclear whether it’s been suspended entirely. https://cnn.it/4pMPP1x
+
+[2025-12-20 07:00:19](https://bsky.app/profile/cnn.com/post/3maeou2fhvf23)
 
 ---
 
