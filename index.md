@@ -1,9 +1,9 @@
-# [2025-12-19 23:10 updated](2025_12_19.md)
+# [2025-12-19 23:30 updated](2025_12_19.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Nidec says founder and chairman Nagamori resigns from board reut.rs/4j7oeFQ <a href="https://bsky.app/profile/reuters.com/post/3maducrbwmj2y" target="_blank">reuters.com</a> (2025-12-19 23:05:21)</span><span style="padding-right:50px;">Blanche said the files “will come in all different forms,” including “photographs.” <a href="https://bsky.app/profile/forbes.com/post/3maduce7ywr2c" target="_blank">forbes.com</a> (2025-12-19 23:05:07)</span><span style="padding-right:50px;">Affordability means not just the prices we pay, but the means to pay them. We may be focusing too much on the first and not enough on the second, WSJ’s Greg Ip writes. <a href="https://bsky.app/profile/wsj.com/post/3madub2hgld2u" target="_blank">wsj.com</a> (2025-12-19 23:04:24)</span><span style="padding-right:50px;">UN-backed experts say Gaza food supplies improving but 100,000 still in 'catastrophic conditions' <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3madua5scfh2v" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-19 23:03:53)</span><span style="padding-right:50px;">Italian restorers use laser beams to clean an ancient Roman marble column in the piazza outside the prime minister's office, removing layers of dust and grime that had covered the monument for decades. <a href="https://bsky.app/profile/apnews.com/post/3madu3yyvjs22" target="_blank">apnews.com</a> (2025-12-19 23:01:35)</span>
+<span style="padding-right:50px;">Dave Willat was just 11 years old when he showed up for what he thought would be a routine church choir practice in 1965. He and his fellow singers ended up making history. n.pr/3KZCl3a <a href="https://bsky.app/profile/npr.org/post/3madvj65c7x2n" target="_blank">npr.org</a> (2025-12-19 23:26:50)</span><span style="padding-right:50px;">The DOJ is expected to release "several hundred thousand" Jeffrey Epstein records today. Here's what to know.  <a href="https://bsky.app/profile/cbsnews.com/post/3madvgncyte2p" target="_blank">cbsnews.com</a> (2025-12-19 23:25:25)</span><span style="padding-right:50px;">Paris court orders Shein to verify age for sex toy sales or risk fines reut.rs/3XZUxgd <a href="https://bsky.app/profile/reuters.com/post/3madvgbbzya2b" target="_blank">reuters.com</a> (2025-12-19 23:25:12)</span><span style="padding-right:50px;">A heavyweight champion meets a YouTuber-turned-pugilist as Anthony Joshua faces Jake Paul in Miami’s wildest matchup.   Plus: AFCON kicks off in Morocco and Russian neutral athletes return in Lake Placid.    Here’s your Inside Track to the sporting weekend: www.reuters.com/sports/insid... <a href="https://bsky.app/profile/reuters.com/post/3madvceltds2x" target="_blank">reuters.com</a> (2025-12-19 23:23:02)</span><span style="padding-right:50px;">The merger, if it goes through, will offer the first test of public markets' appetite for the tech. <a href="https://bsky.app/profile/axios.com/post/3madvbihbxk2x" target="_blank">axios.com</a> (2025-12-19 23:22:32)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.25 (🔺1.72 : 2025-12-19)</span>
+<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48058.25 (🔺83.43 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 176.59 (🔻0.07 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.24 (🔺1.71 : 2025-12-19)</span>
   </div>
 </div>
 
@@ -32,93 +32,98 @@
 
 ## News Headlines
 
-1. Nidec's Founder and Chairman Nagamori Resigns from Board
-2. Experts Say Gaza Food Supplies Improving but 100,000 Still in 'Catastrophic Conditions'
-3. Italian Restorers Use Laser Beams to Clean Ancient Roman Marble Column
-4. China Threatens 'Forceful Measures' Over US Arms Sales Package to Taiwan
-5. Putin Claims Ukraine is 'on the Retreat'
+Here are six headlines in English:
+
+1. DOJ to Release Thousands of Jeffrey Epstein Records
+2. China Threatens Forceful Measures Over US Arms Sales to Taiwan
+3. Oracle Stock Jumps 5% After Cloud Provider Joins Investor Group to Run TikTok's US Business
+4. French Scholar Warns of Finitude Capitalism, a System Where the Rich Compete Over Limited Wealth
+5. Putin Claims Ukraine is On the Retreat as War Rages On
 6. Japan Holds Economic View Steady in Monthly Report
 
 ----
 
-@reuters.com
+@npr.org
 
-Nidec says founder and chairman Nagamori resigns from board reut.rs/4j7oeFQ
+Dave Willat was just 11 years old when he showed up for what he thought would be a routine church choir practice in 1965. He and his fellow singers ended up making history. n.pr/3KZCl3a
 
-[2025-12-19 23:05:21](https://bsky.app/profile/reuters.com/post/3maducrbwmj2y)
+[2025-12-19 23:26:50](https://bsky.app/profile/npr.org/post/3madvj65c7x2n)
 
 ---
 
-@forbes.com
+@cbsnews.com
 
-Blanche said the files “will come in all different forms,” including “photographs.”
+The DOJ is expected to release "several hundred thousand" Jeffrey Epstein records today. Here's what to know. 
 
-[2025-12-19 23:05:07](https://bsky.app/profile/forbes.com/post/3maduce7ywr2c)
+[2025-12-19 23:25:25](https://bsky.app/profile/cbsnews.com/post/3madvgncyte2p)
+
+---
+
+@reuters.com
+
+Paris court orders Shein to verify age for sex toy sales or risk fines reut.rs/3XZUxgd
+
+[2025-12-19 23:25:12](https://bsky.app/profile/reuters.com/post/3madvgbbzya2b)
+
+---
+
+@reuters.com
+
+A heavyweight champion meets a YouTuber-turned-pugilist as Anthony Joshua faces Jake Paul in Miami’s wildest matchup.
+ 
+Plus: AFCON kicks off in Morocco and Russian neutral athletes return in Lake Placid. 
+ 
+Here’s your Inside Track to the sporting weekend: www.reuters.com/sports/insid...
+
+[2025-12-19 23:23:02](https://bsky.app/profile/reuters.com/post/3madvceltds2x)
+
+---
+
+@axios.com
+
+The merger, if it goes through, will offer the first test of public markets' appetite for the tech.
+
+[2025-12-19 23:22:32](https://bsky.app/profile/axios.com/post/3madvbihbxk2x)
 
 ---
 
 @wsj.com
 
-Affordability means not just the prices we pay, but the means to pay them. We may be focusing too much on the first and not enough on the second, WSJ’s Greg Ip writes.
+Fusion could produce almost-limitless amounts of carbon-free energy if it can be harnessed on earth; President Trump’s media company is betting a breakthrough is imminent.
 
-[2025-12-19 23:04:24](https://bsky.app/profile/wsj.com/post/3madub2hgld2u)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-UN-backed experts say Gaza food supplies improving but 100,000 still in 'catastrophic conditions'
-
-[2025-12-19 23:03:53](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3madua5scfh2v)
-
----
-
-@apnews.com
-
-Italian restorers use laser beams to clean an ancient Roman marble column in the piazza outside the prime minister's office, removing layers of dust and grime that had covered the monument for decades.
-
-[2025-12-19 23:01:35](https://bsky.app/profile/apnews.com/post/3madu3yyvjs22)
-
----
-
-@reuters.com
-
-China threatens 'forceful measures' over US arms sales package to Taiwan reut.rs/4jf16W0
-
-[2025-12-19 23:01:10](https://bsky.app/profile/reuters.com/post/3madu3ba67i2y)
-
----
-
-@usatoday.com
-
-Kermit the Frog and his gaggle of pals, including Sabrina Carpenter, have something exciting coming soon. Here's what to know about "The Muppet Show".
-
-[2025-12-19 23:01:00](https://bsky.app/profile/usatoday.com/post/3madu2xzv3w2w)
+[2025-12-19 23:21:18](https://bsky.app/profile/wsj.com/post/3madv7c26tb2z)
 
 ---
 
 @japan.reuters.com
 
-ニデックは１９日、永守重信氏が同日付で代表取締役グローバルグループ代表を辞任したと発表した。本人の意向によるものという。永守氏が務めていた取締役会議長の後任には、岸田光哉社長が就く。 bit.ly/4qhEUfY
+中国政府は１９日、米国防権限法（ＮＤＡＡ）に盛り込まれた「中国に否定的な条項」について、「強い不満と断固たる反対」を表明し、米国に実施を見送るよう求めた。 bit.ly/4snu2PR
 
-[2025-12-19 23:00:57](https://bsky.app/profile/japan.reuters.com/post/3madu2v6n5526)
-
----
-
-@cnn.com
-
-Five days after an extensive manhunt began, law enforcement closed in on the Brown University shooting suspect after the emergence of apparent ties between the attack Saturday at the Providence, Rhode Island, school and the killing of a professor at his Massachusetts home.
-https://cnn.it/4s6SeFP
-
-[2025-12-19 23:00:45](https://bsky.app/profile/cnn.com/post/3madu2jtszx22)
+[2025-12-19 23:20:37](https://bsky.app/profile/japan.reuters.com/post/3madv622vpc27)
 
 ---
 
-@washingtonpost.com
+@nbcnews.com
 
-Ohio University cited extramarital affairs, including with an undergraduate student, and alleged improper use of alcohol in firing football coach Brian Smith, a letter to him from the school president showed.
+President Trump suspends the green card lottery program that allowed the suspect in the Brown University and MIT shootings to come to the U.S.
 
-[2025-12-19 23:00:44](https://bsky.app/profile/washingtonpost.com/post/3madu2ivxsm2n)
+[2025-12-19 23:20:08](https://bsky.app/profile/nbcnews.com/post/3madv56qzzo2n)
+
+---
+
+@reuters.com
+
+Big central banks signal rate-cut cycle is ending reut.rs/3Yo1ZSB
+
+[2025-12-19 23:15:22](https://bsky.app/profile/reuters.com/post/3maduuo63zh2p)
+
+---
+
+@cnbc.com
+
+Oracle stock jumps 5% as cloud provider joins investor group to run TikTok's U.S. business
+
+[2025-12-19 23:13:27](https://bsky.app/profile/cnbc.com/post/3maduraa45f23)
 
 ---
 
