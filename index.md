@@ -1,9 +1,9 @@
-# [2025-12-20 00:10 updated](2025_12_20.md)
+# [2025-12-20 00:30 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">LIVE: UN Secretary General Antonio Guterres speaks on Gaza www.youtube.com/live/iUWhEP7... <a href="https://bsky.app/profile/reuters.com/post/3madxtx6cs22l" target="_blank">reuters.com</a> (2025-12-20 00:08:39)</span><span style="padding-right:50px;">French authorities set new conditions on Nestle's Perrier production reut.rs/4qncOjM <a href="https://bsky.app/profile/reuters.com/post/3madxo2mj7g23" target="_blank">reuters.com</a> (2025-12-20 00:05:21)</span><span style="padding-right:50px;">Home sales rose in November for the third straight month, with lower mortgage rates injecting some fresh momentum into the long sluggish housing market. <a href="https://bsky.app/profile/wsj.com/post/3madxmbnas22s" target="_blank">wsj.com</a> (2025-12-20 00:04:22)</span><span style="padding-right:50px;">Americans have deep nostalgia, and love, for America's chain restaurants. Why? We asked and more than 150 readers answered. n.pr/4j814Pt <a href="https://bsky.app/profile/npr.org/post/3madxlqjkjl2p" target="_blank">npr.org</a> (2025-12-20 00:04:04)</span><span style="padding-right:50px;">German industry voices frustration over EU-Mercosur deal delay reut.rs/3KRuTY3 <a href="https://bsky.app/profile/reuters.com/post/3madxh2g24p2y" target="_blank">reuters.com</a> (2025-12-20 00:01:26)</span>
+<span style="padding-right:50px;">Japan's JERA secures government subsidy for US ammonia imports reut.rs/4aqIShM <a href="https://bsky.app/profile/reuters.com/post/3madyrms62q2k" target="_blank">reuters.com</a> (2025-12-20 00:25:15)</span><span style="padding-right:50px;">片山財務相 円安進み「行き過ぎた動きには適切な対応をとる」 https://news.web.nhk/newsweb/na/na-k10015009051000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madypjarrv2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 00:24:02)</span><span style="padding-right:50px;">Nvidia has rarely been cheaper the last 10 years. Bernstein says buy it for 2026 <a href="https://bsky.app/profile/cnbc.com/post/3madyoa2rz724" target="_blank">cnbc.com</a> (2025-12-20 00:23:21)</span><span style="padding-right:50px;">The U.S. Navy will commission the first in a series of new warships that will make up President Trump’s envisioned “Golden Fleet.” <a href="https://bsky.app/profile/wsj.com/post/3madykd6fy42k" target="_blank">wsj.com</a> (2025-12-20 00:21:10)</span><span style="padding-right:50px;">Having unleashed a multiagency manhunt, the clue investigators needed in the Brown University shooting was ultimately found not on a street corner but in a Reddit thread. <a href="https://bsky.app/profile/nbcnews.com/post/3madyj4yv6y2p" target="_blank">nbcnews.com</a> (2025-12-20 00:20:30)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48211.22 (🔺236.40 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23245.34 (🔺123.44 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 179.38 (🔺2.72 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.40 (🔺1.88 : 2025-12-19)</span>
+<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48211.67 (🔺236.85 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23198.61 (🔺76.71 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 178.51 (🔺1.85 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.43 (🔺1.90 : 2025-12-19)</span>
   </div>
 </div>
 
@@ -32,95 +32,97 @@
 
 ## News Headlines
 
-Here are six news headlines in English:
+Here are six headlines in English:
 
-1. UN Secretary General Speaks on Gaza Crisis
-2. French Authorities Impose New Conditions on Perrier Production
-3. US Housing Market Sees Third Straight Month of Sales Increase
-4. Americans Share Love for Chain Restaurants Amid Nostalgia
-5. Trump Leaves Door Open for War with Venezuela
-6. Ukrainian and Russian Athletes to Compete Together in Luge World Cup
+1. Japan's JERA Secures Government Subsidy for US Ammonia Imports
+2. Nvidia at 10-Year Low: Bernstein Says Buy for 2026
+3. US Navy to Commission New Warships as Part of 'Golden Fleet'
+4. Spanish Consumer Credit Hits Near 18-Year High on Economic Boom
+5. President Trump Leaves Door Open to War with Venezuela
+6. Germany Headed for Biggest Deficit Since Reunification, Bundesbank Says
 
 ----
 
 @reuters.com
 
-LIVE: UN Secretary General Antonio Guterres speaks on Gaza
-www.youtube.com/live/iUWhEP7...
+Japan's JERA secures government subsidy for US ammonia imports reut.rs/4aqIShM
 
-[2025-12-20 00:08:39](https://bsky.app/profile/reuters.com/post/3madxtx6cs22l)
-
----
-
-@reuters.com
-
-French authorities set new conditions on Nestle's Perrier production reut.rs/4qncOjM
-
-[2025-12-20 00:05:21](https://bsky.app/profile/reuters.com/post/3madxo2mj7g23)
+[2025-12-20 00:25:15](https://bsky.app/profile/reuters.com/post/3madyrms62q2k)
 
 ---
 
-@wsj.com
+@nhknewsunofficial.bsky.social
 
-Home sales rose in November for the third straight month, with lower mortgage rates injecting some fresh momentum into the long sluggish housing market.
+片山財務相 円安進み「行き過ぎた動きには適切な対応をとる」
+https://news.web.nhk/newsweb/na/na-k10015009051000
 
-[2025-12-20 00:04:22](https://bsky.app/profile/wsj.com/post/3madxmbnas22s)
-
----
-
-@npr.org
-
-Americans have deep nostalgia, and love, for America's chain restaurants. Why? We asked and more than 150 readers answered. n.pr/4j814Pt
-
-[2025-12-20 00:04:04](https://bsky.app/profile/npr.org/post/3madxlqjkjl2p)
-
----
-
-@reuters.com
-
-German industry voices frustration over EU-Mercosur deal delay reut.rs/3KRuTY3
-
-[2025-12-20 00:01:26](https://bsky.app/profile/reuters.com/post/3madxh2g24p2y)
-
----
-
-@washingtonpost.com
-
-A man who worked as a supervisor at Voice of America pleaded guilty to making death threats against Rep. Marjorie Taylor Greene, her family and staff in ominous voice messages left at her Georgia offices, using pseudonyms such as “Kevin” and “Ruben.” 
-
-[2025-12-20 00:01:04](https://bsky.app/profile/washingtonpost.com/post/3madxgep3e22p)
-
----
-
-@usatoday.com
-
-"The SpongeBob Movie: Search for SquarePants" returns the goofy hero from Bikini Bottom. But is the new animated comedy suitable for all youngsters?
-
-[2025-12-20 00:01:04](https://bsky.app/profile/usatoday.com/post/3madxgffgmd2w)
-
----
-
-@japan.reuters.com
-
-トランプ米大統領は、ベネズエラとの戦争の可能性を否定しなかった。１９日に公開されたＮＢＣニュースとのインタビューで明らかになった。 bit.ly/4j1wFCk
-
-[2025-12-20 00:01:00](https://bsky.app/profile/japan.reuters.com/post/3madxgbn4hl2p)
-
----
-
-@apnews.com
-
-Ukrainian and Russian athletes are set to compete side by side in a World Cup men's luge race on Saturday.
-
-[2025-12-20 00:00:36](https://bsky.app/profile/apnews.com/post/3madxfjw2rj2n)
+[2025-12-20 00:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madypjarrv2w)
 
 ---
 
 @cnbc.com
 
-When husband-and-wife duo Chris Halim and Raena Lim quit their jobs in 2016 to start their own sustainable fashion business, they had little idea of the success it would become. But they knew one thing for sure — and it's advice they stand by today.
+Nvidia has rarely been cheaper the last 10 years. Bernstein says buy it for 2026
 
-[2025-12-20 00:00:29](https://bsky.app/profile/cnbc.com/post/3madxfdyert2d)
+[2025-12-20 00:23:21](https://bsky.app/profile/cnbc.com/post/3madyoa2rz724)
+
+---
+
+@wsj.com
+
+The U.S. Navy will commission the first in a series of new warships that will make up President Trump’s envisioned “Golden Fleet.”
+
+[2025-12-20 00:21:10](https://bsky.app/profile/wsj.com/post/3madykd6fy42k)
+
+---
+
+@nbcnews.com
+
+Having unleashed a multiagency manhunt, the clue investigators needed in the Brown University shooting was ultimately found not on a street corner but in a Reddit thread.
+
+[2025-12-20 00:20:30](https://bsky.app/profile/nbcnews.com/post/3madyj4yv6y2p)
+
+---
+
+@japan.reuters.com
+
+中国国防省は１９日、米国による１１１億ドル規模の対台湾武器売却計画を受け、中国軍が訓練を強化し「国家の主権と領土の一体性を守るため強力な措置を講じる」との声明を発表した。 bit.ly/4pmNPw5
+
+[2025-12-20 00:15:26](https://bsky.app/profile/japan.reuters.com/post/3madya2rusf2c)
+
+---
+
+@reuters.com
+
+Spanish consumer credit hits near 18-year high on economic boom reut.rs/48Xb21y
+
+[2025-12-20 00:15:19](https://bsky.app/profile/reuters.com/post/3mady7ux4h42b)
+
+---
+
+@forbes.com
+
+Rain and wind on the East Coast threaten to disrupt flights on one of the busiest travel days of the year.
+
+[2025-12-20 00:15:04](https://bsky.app/profile/forbes.com/post/3mady7g4vox25)
+
+---
+
+@cnbc.com
+
+November home sales struggle as supply stalls
+
+[2025-12-20 00:15:01](https://bsky.app/profile/cnbc.com/post/3mady7cvknd24)
+
+---
+
+@en.afp.com
+
+VIDEO: 🇺🇸 What we know about Nick Reiner, charged with murdering his parents
+
+Nick Reiner, the son of Hollywood director Rob Reiner, has been charged with stabbing his parents to death in their Los Angeles home. Rob Reiner, 78, and his wife Michele Singer Reiner, 70, were discovered by their daughter
+
+[2025-12-20 00:14:44](https://bsky.app/profile/en.afp.com/post/3mady6tdvq72j)
 
 ---
 
