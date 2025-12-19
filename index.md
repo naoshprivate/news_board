@@ -1,9 +1,9 @@
-# [2025-12-19 18:30 updated](2025_12_19.md)
+# [2025-12-19 18:50 updated](2025_12_19.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Russian President Vladimir Putin opened his year-end news conference, an event that will be closely watched for his response to the U.S.-backed peace plan for Ukraine. <a href="https://bsky.app/profile/apnews.com/post/3madeuidlgd25" target="_blank">apnews.com</a> (2025-12-19 18:28:56)</span><span style="padding-right:50px;">中国国防省は１９日、米国による１１１億ドル規模の対台湾武器売却計画を受け、中国軍が訓練を強化し「国家の主権と領土の一体性を守るため強力な措置を講じる」との声明を発表した。 bit.ly/44BvQdL <a href="https://bsky.app/profile/japan.reuters.com/post/3maderrblfr26" target="_blank">japan.reuters.com</a> (2025-12-19 18:27:25)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】札幌市電「ロープウェイ入口駅」停留場付近で軽自動車の単独事故…路面電車が通れず一時”内回り”で運行見合わせ＿ケガ人の情報なし＜北海道札幌市＞ (2025-12-19 18:15) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3madeosftwj2b" target="_blank">sokuho.news</a> (2025-12-19 18:25:45)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】H3ロケット8号機 22日午前打ち上げへ 鹿児島・種子島 (2025-12-19 18:20) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3madeoksb5g27" target="_blank">sokuho.news</a> (2025-12-19 18:25:37)</span><span style="padding-right:50px;">欧州連合（ＥＵ）首脳は１９日、ウクライナの対ロシア防衛資金として、凍結されたロシア資産を利用するのではなく、現金を借り入れることを決定した。 bit.ly/4s4xj6f <a href="https://bsky.app/profile/japan.reuters.com/post/3madeof3qsa2q" target="_blank">japan.reuters.com</a> (2025-12-19 18:25:31)</span>
+<span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】「市電と車の事故」助手席側のドア大きくへこむ 札幌市電は一時運転見合わせ 札幌市 (2025-12-19 18:47) #ニュース  🚃鉄道運行情報 🔗https://transit.yahoo.co.jp/diainfo <a href="https://bsky.app/profile/sokuho.news/post/3madfwfcjof2v" target="_blank">sokuho.news</a> (2025-12-19 18:47:54)</span><span style="padding-right:50px;">Unpopular Labour is running out of opportunities to change its fate ft.trib.al/erroUU6 <a href="https://bsky.app/profile/financialtimes.com/post/3madfuruhwy2w" target="_blank">financialtimes.com</a> (2025-12-19 18:47:00)</span><span style="padding-right:50px;">日本の長期金利（新発１０年国債利回り）が１９日、１９９９年８月以来、２６年ぶりとなる２．０２０％をつけた。日銀が金融政策決定会合で政策金利の０．７５％への引き上げを決め、金利上昇に弾みがついた。追加利上げは市場の予想通りだったが、１９日午後の日本国債市場ではさらなる利上げ継続が意識されて売りが膨らんだ（金利は上昇）。市場では長期金利の２％は通過点に過ぎず、さらなる上昇を見込む向きが多い。 bit.ly/3MV7ghL <a href="https://bsky.app/profile/japan.reuters.com/post/3madfur643b25" target="_blank">japan.reuters.com</a> (2025-12-19 18:46:59)</span><span style="padding-right:50px;">BOJ Governor Ueda's comments at news conference reut.rs/4qcnL7u <a href="https://bsky.app/profile/reuters.com/post/3madfrnjxhf24" target="_blank">reuters.com</a> (2025-12-19 18:45:15)</span><span style="padding-right:50px;">円相場 値下がり 次の利上げまでには時間かかる見方広がる https://news.web.nhk/newsweb/na/na-k10015008701000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madfre2q3l2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 18:45:03)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.05 (🔺1.53 : 2025-12-19)</span>
+<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.14 (🔺1.61 : 2025-12-19)</span>
   </div>
 </div>
 
@@ -32,95 +32,97 @@
 
 ## News Headlines
 
-Here are six news headlines in English:
+Here are six important stories with headlines in English:
 
-1. Putin to Address Ukraine Peace Plan at Year-End News Conference
-2. China Responds to US $11 Billion Arms Sale to Taiwan with Military Warning
-3. EU Leaders Decide to Take Out Loans to Fund Ukraine Defense
-4. Japan's BOJ to Maintain Low Interest Rates for Now, Pledges to Hike Rates if Economy Remains on Track
-5. Vietnam to Build Railway Link to China Amid Infrastructure Spending Spree
-6. Trump Administration Halts US Green Card Lottery Program Amid Security Concerns
+1. Train and Car Collision Causes Severe Damage to Tram in Sapporo
+2. BOJ Governor Ueda: Current Real Interest Rate is Extremely Low, May Continue to Raise Policy Rate
+3. Dollar Hits 156 JPY, Exceeds 1-Month High as Yen Depreciates
+4. European Union to Provide Massive Interest-Free Loan to Ukraine
+5. China Announces Plans to Maintain Anti-Dumping Duties on US, S.Korea, EU Rubber Imports
+6. UK Should Prioritize Helping People in Their 50s and 60s to Stay in Work: House of Lords Committee
 
 ----
 
-@apnews.com
+@sokuho.news
 
-Russian President Vladimir Putin opened his year-end news conference, an event that will be closely watched for his response to the U.S.-backed peace plan for Ukraine.
+🛎️NNNより【速報】です。
 
-[2025-12-19 18:28:56](https://bsky.app/profile/apnews.com/post/3madeuidlgd25)
+【速報】「市電と車の事故」助手席側のドア大きくへこむ 札幌市電は一時運転見合わせ 札幌市
+(2025-12-19 18:47) #ニュース
+
+🚃鉄道運行情報
+🔗https://transit.yahoo.co.jp/diainfo
+
+[2025-12-19 18:47:54](https://bsky.app/profile/sokuho.news/post/3madfwfcjof2v)
+
+---
+
+@financialtimes.com
+
+Unpopular Labour is running out of opportunities to change its fate ft.trib.al/erroUU6
+
+[2025-12-19 18:47:00](https://bsky.app/profile/financialtimes.com/post/3madfuruhwy2w)
 
 ---
 
 @japan.reuters.com
 
-中国国防省は１９日、米国による１１１億ドル規模の対台湾武器売却計画を受け、中国軍が訓練を強化し「国家の主権と領土の一体性を守るため強力な措置を講じる」との声明を発表した。 bit.ly/44BvQdL
+日本の長期金利（新発１０年国債利回り）が１９日、１９９９年８月以来、２６年ぶりとなる２．０２０％をつけた。日銀が金融政策決定会合で政策金利の０．７５％への引き上げを決め、金利上昇に弾みがついた。追加利上げは市場の予想通りだったが、１９日午後の日本国債市場ではさらなる利上げ継続が意識されて売りが膨らんだ（金利は上昇）。市場では長期金利の２％は通過点に過ぎず、さらなる上昇を見込む向きが多い。 bit.ly/3MV7ghL
 
-[2025-12-19 18:27:25](https://bsky.app/profile/japan.reuters.com/post/3maderrblfr26)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】札幌市電「ロープウェイ入口駅」停留場付近で軽自動車の単独事故…路面電車が通れず一時”内回り”で運行見合わせ＿ケガ人の情報なし＜北海道札幌市＞
-(2025-12-19 18:15) #ニュース
-
-[2025-12-19 18:25:45](https://bsky.app/profile/sokuho.news/post/3madeosftwj2b)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】H3ロケット8号機 22日午前打ち上げへ 鹿児島・種子島
-(2025-12-19 18:20) #ニュース
-
-[2025-12-19 18:25:37](https://bsky.app/profile/sokuho.news/post/3madeoksb5g27)
-
----
-
-@japan.reuters.com
-
-欧州連合（ＥＵ）首脳は１９日、ウクライナの対ロシア防衛資金として、凍結されたロシア資産を利用するのではなく、現金を借り入れることを決定した。 bit.ly/4s4xj6f
-
-[2025-12-19 18:25:31](https://bsky.app/profile/japan.reuters.com/post/3madeof3qsa2q)
+[2025-12-19 18:46:59](https://bsky.app/profile/japan.reuters.com/post/3madfur643b25)
 
 ---
 
 @reuters.com
 
-Italy parliamentary panel approves 'people's' claim on central bank's gold reut.rs/4s04HuR
+BOJ Governor Ueda's comments at news conference reut.rs/4qcnL7u
 
-[2025-12-19 18:25:13](https://bsky.app/profile/reuters.com/post/3madentu4su2b)
+[2025-12-19 18:45:15](https://bsky.app/profile/reuters.com/post/3madfrnjxhf24)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+円相場 値下がり 次の利上げまでには時間かかる見方広がる
+https://news.web.nhk/newsweb/na/na-k10015008701000
+
+[2025-12-19 18:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madfre2q3l2b)
 
 ---
 
 @japan.reuters.com
 
-日銀の植田和男総裁は１９日、金融政策決定会合後の会見で、現在の実質金利はきわめて低い水準にあるとの認識を示し、今後も日銀が示している経済・物価の見通しが実現していけば、引き続き政策金利を引き上げていくことになると述べた。ターミナルレート（金利の到達点）を考慮するうえで意識される中立金利について、推計値の下限までには「少し距離がある」とも語った。 bit.ly/4pIk2i5
+＜１８：２９＞　ドル157円台へ上昇、1カ月ぶり高値　円が広範にじり安 bit.ly/3L59s5E
 
-[2025-12-19 18:24:43](https://bsky.app/profile/japan.reuters.com/post/3mademxcynt27)
+[2025-12-19 18:44:12](https://bsky.app/profile/japan.reuters.com/post/3madfprennp2p)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+贈収賄事件 通報の元社員に賠償求めた裁判 訴え退ける
+https://news.web.nhk/newsweb/na/na-k10015008611000
+
+[2025-12-19 18:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madflxmnpj2l)
 
 ---
 
 @sokuho.news
 
-🛎️JNNより【速報】です。
+🛎️NNNより【速報】です。
 
-【速報】東京・西東京市で親子4人が倒れた状態で見つかる
-(2025-12-19 18:21:31) #ニュース
+【速報】住宅で母親と息子あわせて4人が血だらけの状態で見つかる…3人は意識不明の重体 西東京市
+(2025-12-19 18:40) #ニュース
 
-[2025-12-19 18:24:01](https://bsky.app/profile/sokuho.news/post/3madeloqtim2y)
+[2025-12-19 18:41:00](https://bsky.app/profile/sokuho.news/post/3madfk2xur326)
 
 ---
 
-@cnbc.com
+@reuters.com
 
-Data center deals hit record $61 billion in 2025 as AI valuation risks and funding concerns grip investors
+Ford to recall over 272,000 US vehicles due to loss of park function reut.rs/490yT09
 
-[2025-12-19 18:22:26](https://bsky.app/profile/cnbc.com/post/3madeittlci2e)
+[2025-12-19 18:40:11](https://bsky.app/profile/reuters.com/post/3madfimhgip2p)
 
 ---
 
@@ -128,10 +130,10 @@ Data center deals hit record $61 billion in 2025 as AI valuation risks and fundi
 
 🛎️FNNより【速報】です。
 
-【速報】札幌市電ロープウェイ入口駅停留所付近で乗用車の単独事故…一時内回りで運行見合わせ＿現在は運行再開＿けが人情報なし＜北海道札幌市＞
-(2025-12-19 18:15) #ニュース
+【速報】母親と子ども3人が住宅で血を流し倒れているのを発見「誰もいないはずの自宅にチェーン」帰宅の父が通報 東京・西東京市
+(2025-12-19 18:37) #ニュース
 
-[2025-12-19 18:20:36](https://bsky.app/profile/sokuho.news/post/3madeflt5uy2y)
+[2025-12-19 18:40:10](https://bsky.app/profile/sokuho.news/post/3madfilijx52x)
 
 ---
 
