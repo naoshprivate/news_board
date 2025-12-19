@@ -1,9 +1,9 @@
-# [2025-12-20 02:30 updated](2025_12_20.md)
+# [2025-12-20 02:50 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Breaking News: The National Weather Service warned of dangerously high fire risk today in parts of Colorado and Wyoming. <a href="https://bsky.app/profile/nytimes.com/post/3mae7jzwuvw2v" target="_blank">nytimes.com</a> (2025-12-20 02:26:16)</span><span style="padding-right:50px;">Exclusive: Nexperia's China unit switches to local firms for wafer supplies, document shows reut.rs/4j6fgsl <a href="https://bsky.app/profile/reuters.com/post/3mae7i24xup2o" target="_blank">reuters.com</a> (2025-12-20 02:25:09)</span><span style="padding-right:50px;">John Koch, a 76-year-old radio reporter in North Florida, has  witnessed every state execution since the serial killer Ted Bundy’s in 1989. This year, the state has had a record number of 19 executions. “It gets hard,” he told us. nyti.ms/4aZ9gzv <a href="https://bsky.app/profile/nytimes.com/post/3mae7hx7cgv2y" target="_blank">nytimes.com</a> (2025-12-20 02:25:07)</span><span style="padding-right:50px;">Claire's new owner Ames Watson feuds with Asia-based suppliers over millions in unpaid debt <a href="https://bsky.app/profile/cnbc.com/post/3mae7gjeobm2g" target="_blank">cnbc.com</a> (2025-12-20 02:24:19)</span><span style="padding-right:50px;">Europe has demonstrated that when faced with Russian threats and intimidation, the continent struggles to stand strong. <a href="https://bsky.app/profile/wsj.com/post/3mae7busi5q2u" target="_blank">wsj.com</a> (2025-12-20 02:21:42)</span>
+<span style="padding-right:50px;">From @theathletic.com: President Trump signed a law that arms state and local police with the ability to take down drones at sporting events — a significant leap in stadium security after years of pressure from pro leagues. <a href="https://bsky.app/profile/nytimes.com/post/3maeastlngw2r" target="_blank">nytimes.com</a> (2025-12-20 02:49:05)</span><span style="padding-right:50px;">German court jails man for drugging, raping wife, posting assaults online reut.rs/4s6Z26m <a href="https://bsky.app/profile/reuters.com/post/3maealw6grs23" target="_blank">reuters.com</a> (2025-12-20 02:45:13)</span><span style="padding-right:50px;">Here's what to know about the diversity immigrant visas halted after Brown shooting <a href="https://bsky.app/profile/axios.com/post/3maeaknbkjs23" target="_blank">axios.com</a> (2025-12-20 02:44:31)</span><span style="padding-right:50px;">Stocks making the biggest moves midday: Lamb Weston, KB Home, Carnival, Oracle, CoreWeave & more <a href="https://bsky.app/profile/cnbc.com/post/3maeakcashj24" target="_blank">cnbc.com</a> (2025-12-20 02:44:19)</span><span style="padding-right:50px;">German court jails man for drugging, raping and filming wife for years <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maeag6vmwe26" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-20 02:42:01)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48250.93 (🔺276.11 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23276.02 (🔺154.12 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.51 (🔺3.85 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.54 (🔺2.01 : 2025-12-19)</span>
+<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48243.46 (🔺268.64 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23280.11 (🔺158.21 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.76 (🔺4.09 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.46 (🔺1.93 : 2025-12-19)</span>
   </div>
 </div>
 
@@ -32,94 +32,96 @@
 
 ## News Headlines
 
-Here are six news headlines in English:
+Here are six important stories with headlines in English:
 
-1. Record Number of Executions in Florida Tests Reporter's Resolve
-2. Google Hires 20% of AI Software Engineers from Former Employees
-3. US Home Sales Increase Moderately in November
-4. European Cities Struggle to Protect Subway Systems from Rising Floods
-5. Russian Spies Caught Operating in European Waters on Oil Ships
-6. UN Declares Gaza's Food Crisis Over After Ceasefire with Israel and Hamas
+1. Trump Signs Law to Allow Police to Disable Drones at Sporting Events
+2. German Man Sentenced to Jail for Drugging and Raping Wife
+3. US Labor Market Stuck in a Rut, New Jobs Report Shows
+4. US Judge Blocks Trump Administration's Plan to Alter Homelessness Funding
+5. Two Men Arrested for Killing 15 People at Hanukkah Celebration in Sydney
+6. Google Hires 20% of New AI Engineers from Former Employees
 
 ----
 
 @nytimes.com
 
-<strong><span style="color: red;">Breaking News</span>: The National Weather Service warned of dangerously high fire risk today in parts of Colorado and Wyoming.</strong>
+From @theathletic.com: President Trump signed a law that arms state and local police with the ability to take down drones at sporting events — a significant leap in stadium security after years of pressure from pro leagues.
 
-[2025-12-20 02:26:16](https://bsky.app/profile/nytimes.com/post/3mae7jzwuvw2v)
+[2025-12-20 02:49:05](https://bsky.app/profile/nytimes.com/post/3maeastlngw2r)
 
 ---
 
 @reuters.com
 
-Exclusive: Nexperia's China unit switches to local firms for wafer supplies, document shows reut.rs/4j6fgsl
+German court jails man for drugging, raping wife, posting assaults online reut.rs/4s6Z26m
 
-[2025-12-20 02:25:09](https://bsky.app/profile/reuters.com/post/3mae7i24xup2o)
+[2025-12-20 02:45:13](https://bsky.app/profile/reuters.com/post/3maealw6grs23)
 
 ---
 
-@nytimes.com
+@axios.com
 
-John Koch, a 76-year-old radio reporter in North Florida, has  witnessed every state execution since the serial killer Ted Bundy’s in 1989. This year, the state has had a record number of 19 executions. “It gets hard,” he told us. nyti.ms/4aZ9gzv
+Here's what to know about the diversity immigrant visas halted after Brown shooting
 
-[2025-12-20 02:25:07](https://bsky.app/profile/nytimes.com/post/3mae7hx7cgv2y)
+[2025-12-20 02:44:31](https://bsky.app/profile/axios.com/post/3maeaknbkjs23)
 
 ---
 
 @cnbc.com
 
-Claire's new owner Ames Watson feuds with Asia-based suppliers over millions in unpaid debt
+Stocks making the biggest moves midday: Lamb Weston, KB Home, Carnival, Oracle, CoreWeave & more
 
-[2025-12-20 02:24:19](https://bsky.app/profile/cnbc.com/post/3mae7gjeobm2g)
+[2025-12-20 02:44:19](https://bsky.app/profile/cnbc.com/post/3maeakcashj24)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+German court jails man for drugging, raping and filming wife for years
+
+[2025-12-20 02:42:01](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maeag6vmwe26)
+
+---
+
+@reuters.com
+
+Fed seeks feedback on limited 'payment accounts' for some firms reut.rs/4pLNtjh
+
+[2025-12-20 02:40:21](https://bsky.app/profile/reuters.com/post/3maead76vqs2y)
 
 ---
 
 @wsj.com
 
-Europe has demonstrated that when faced with Russian threats and intimidation, the continent struggles to stand strong.
+Three months after Charlie Kirk was shot and killed, his commitment to open debate is at the center of a bitter fight within the MAGA movement over the rise of antisemitic ideas and conspiracy theories.
 
-[2025-12-20 02:21:42](https://bsky.app/profile/wsj.com/post/3mae7busi5q2u)
-
----
-
-@npr.org
-
-Details are beginning to emerge about the life of Claudio Manuel Neves Valente, the gunman who killed two and injured nine others in the attack at Brown University last week. He is also believed to have killed an MIT professor on Monday, police said. n.pr/3N9ZQXZ
-
-[2025-12-20 02:20:51](https://bsky.app/profile/npr.org/post/3mae7ad2s6h2d)
+[2025-12-20 02:40:19](https://bsky.app/profile/wsj.com/post/3maead5tbt52c)
 
 ---
 
-@nbcnews.com
+@nytimes.com
 
-Erika Kirk, widow of assassinated Turning Point USA co-founder Charlie Kirk, endorses Vice President JD Vance in the 2028 presidential election in a speech opening the group's America Fest annual conference.
+Here is what we know about the two men that opened fire and killed 15 people at a Hanukkah celebration on Bondi Beach in Sydney, Australia.
 
-[2025-12-20 02:20:24](https://bsky.app/profile/nbcnews.com/post/3mae77k3el32q)
-
----
-
-@yahoonews.com
-
-President Trump announced Thursday the White House will host the “Patriot Games,” a competition with young athletes from across the country, as part of the celebration of the United States’ 250th anniversary next year. yhoo.it/4qixSYj
-
-[2025-12-20 02:20:08](https://bsky.app/profile/yahoonews.com/post/3mae772apzb2q)
+[2025-12-20 02:40:04](https://bsky.app/profile/nytimes.com/post/3maeacpegve2z)
 
 ---
 
-@cbsnews.com
+@reuters.com
 
-Members of American Airlines' loyalty program will no longer earn miles or other travel rewards when purchasing a basic economy ticket. 
+Court in Brazil's Minas Gerais slaps down Nestle copyright lawsuit reut.rs/3YH0jDu
 
-[2025-12-20 02:20:01](https://bsky.app/profile/cbsnews.com/post/3mae76u27tq2h)
+[2025-12-20 02:35:10](https://bsky.app/profile/reuters.com/post/3mae7zwfa2r2b)
 
 ---
 
-@npr.org
+@nytimes.com
 
-The late, great Fela Kuti is known as the "Black President" for his role as both a musical and a political leader. Now he has become the first African artist to get this Grammy honor. n.pr/4oXdpat
+From @theathletic.com: "They thought it was over," Ernest Jones IV said. But Seattle got the last laugh. 
 
-[2025-12-20 02:15:35](https://bsky.app/profile/npr.org/post/3mae6wwgdvs2i)
+When the clock finally stopped ticking, the scoreboard read: Seahawks 38, Rams 37. The significance of those numbers cannot be overstated.
+
+[2025-12-20 02:35:04](https://bsky.app/profile/nytimes.com/post/3mae7zrcl6v2r)
 
 ---
 
