@@ -1,9 +1,9 @@
-# [2025-12-20 08:30 updated](2025_12_20.md)
+# [2025-12-20 08:50 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">US carries out 'massive' strike against IS in Syria <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maetstlcfk2x" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-20 08:29:06)</span><span style="padding-right:50px;">Bondi attack suspects kept to themselves during Philippines stay, hotel staffer recalls reut.rs/4pMN8wO <a href="https://bsky.app/profile/reuters.com/post/3maetlpzmc72r" target="_blank">reuters.com</a> (2025-12-20 08:25:08)</span><span style="padding-right:50px;">Meet the 49-year-old military veteran and federal worker whose songs about his beloved Eagles have turned him into one of Philadelphia’s biggest sports stars.   🔗: on.wsj.com/3MT3ANs <a href="https://bsky.app/profile/wsj.com/post/3maetdcsgyf2e" target="_blank">wsj.com</a> (2025-12-20 08:20:26)</span><span style="padding-right:50px;">Secretary of Defense Pete Hegseth announced via social media that the U.S. is conducting a large-scale retaliatory strike against ISIS in Syria after two U.S. soldiers and an interpreter were killed in an attack. <a href="https://bsky.app/profile/nbcnews.com/post/3maetcty7wp2q" target="_blank">nbcnews.com</a> (2025-12-20 08:20:10)</span><span style="padding-right:50px;">Los Angeles Angels, Tyler Skaggs' family reach settlement in wrongful death lawsuit. <a href="https://bsky.app/profile/cbsnews.com/post/3maetclfgai2j" target="_blank">cbsnews.com</a> (2025-12-20 08:20:01)</span>
+<span style="padding-right:50px;">Secretary of state defends Trump’s foreign policy ft.trib.al/nfc7Ddj <a href="https://bsky.app/profile/financialtimes.com/post/3maeuuaftk52v" target="_blank">financialtimes.com</a> (2025-12-20 08:47:47)</span><span style="padding-right:50px;">Pandya's fiery fifty steers India to series-clinching win over South Africa reut.rs/4s8Ec6v <a href="https://bsky.app/profile/reuters.com/post/3maeupmwym523" target="_blank">reuters.com</a> (2025-12-20 08:45:13)</span><span style="padding-right:50px;">The Trump administration reversed a Biden-era ban on antipersonnel land mines except on the Korean Peninsula.  The memo, signed by Defense Secretary Pete Hegseth, says the reversal would give the U.S. military a “force multiplier” against enemies. <a href="https://bsky.app/profile/washingtonpost.com/post/3maeupdsax52i" target="_blank">washingtonpost.com</a> (2025-12-20 08:45:03)</span><span style="padding-right:50px;">Justice Dept. appealing decision tossing James Comey, Letitia James cases because of prosecutor's appointment. <a href="https://bsky.app/profile/cbsnews.com/post/3maeupblfcj2a" target="_blank">cbsnews.com</a> (2025-12-20 08:45:01)</span><span style="padding-right:50px;">Paychex CEO gives a read on the labor market for small businesses <a href="https://bsky.app/profile/cnbc.com/post/3maeukabx4x2b" target="_blank">cnbc.com</a> (2025-12-20 08:42:12)</span>
   </div>
 </div>
 
@@ -32,96 +32,103 @@
 
 ## News Headlines
 
-Here are six important news stories with headlines:
+Here are six important stories with headlines:
 
-1. US Launches Retaliatory Strikes Against ISIS in Syria
-2. US Imposes Sanctions on Seven Individuals Linked to Venezuela
-3. US to Strip Alleged Bosnian War Criminal of Citizenship
-4. Lebanon Drafts Law to Address Funding Shortfalls in Financial System
-5. US to Shift Away from Directly Recommending Vaccines for Children
-6. Dakota Access Pipeline to Continue Operating, US Army Corps of Engineers Says
+1. US Strikes ISIS Targets in Syria in Retaliation for Killing of American Soldiers
+2. Supreme Court Sides with Immigration Judges in Challenge to Public Speaking Policy
+3. Epstein Files Released, Revealing New Details of Investigation
+4. US to Downgrade Cannabis to Lower Category of Drugs, Allowing Wider Use
+5. EU Council Backs Digital Euro with Both Online and Offline Functionality
+6. US Conducts Massive Strike Against ISIS in Syria in Response to Attack
 
 ----
 
-@bbcnews-world-rss.bsky.social
+@financialtimes.com
 
-US carries out 'massive' strike against IS in Syria
+Secretary of state defends Trump’s foreign policy ft.trib.al/nfc7Ddj
 
-[2025-12-20 08:29:06](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maetstlcfk2x)
+[2025-12-20 08:47:47](https://bsky.app/profile/financialtimes.com/post/3maeuuaftk52v)
 
 ---
 
 @reuters.com
 
-Bondi attack suspects kept to themselves during Philippines stay, hotel staffer recalls reut.rs/4pMN8wO
+Pandya's fiery fifty steers India to series-clinching win over South Africa reut.rs/4s8Ec6v
 
-[2025-12-20 08:25:08](https://bsky.app/profile/reuters.com/post/3maetlpzmc72r)
-
----
-
-@wsj.com
-
-Meet the 49-year-old military veteran and federal worker whose songs about his beloved Eagles have turned him into one of Philadelphia’s biggest sports stars. 
-
-🔗: on.wsj.com/3MT3ANs
-
-[2025-12-20 08:20:26](https://bsky.app/profile/wsj.com/post/3maetdcsgyf2e)
+[2025-12-20 08:45:13](https://bsky.app/profile/reuters.com/post/3maeupmwym523)
 
 ---
 
-@nbcnews.com
+@washingtonpost.com
 
-Secretary of Defense Pete Hegseth announced via social media that the U.S. is conducting a large-scale retaliatory strike against ISIS in Syria after two U.S. soldiers and an interpreter were killed in an attack.
+The Trump administration reversed a Biden-era ban on antipersonnel land mines except on the Korean Peninsula.
 
-[2025-12-20 08:20:10](https://bsky.app/profile/nbcnews.com/post/3maetcty7wp2q)
+The memo, signed by Defense Secretary Pete Hegseth, says the reversal would give the U.S. military a “force multiplier” against enemies.
+
+[2025-12-20 08:45:03](https://bsky.app/profile/washingtonpost.com/post/3maeupdsax52i)
 
 ---
 
 @cbsnews.com
 
-Los Angeles Angels, Tyler Skaggs' family reach settlement in wrongful death lawsuit.
+Justice Dept. appealing decision tossing James Comey, Letitia James cases because of prosecutor's appointment.
 
-[2025-12-20 08:20:01](https://bsky.app/profile/cbsnews.com/post/3maetclfgai2j)
-
----
-
-@japan.reuters.com
-
-米金融・債券市場では、国債利回りが世界の債券利回りと連動して上昇した。投資家らは米経済指標の発表や連邦準備制度理事会（ＦＲＢ）の政策の方向性を引き続き見極めたいとしている。 bit.ly/4p0Bpth
-
-[2025-12-20 08:15:22](https://bsky.app/profile/japan.reuters.com/post/3maet2az5zt22)
-
----
-
-@reuters.com
-
-Starbucks taps Amazon's Anand Varadarajan as new chief technology officer reut.rs/48OveE6
-
-[2025-12-20 08:15:17](https://bsky.app/profile/reuters.com/post/3maet23ztre2k)
+[2025-12-20 08:45:01](https://bsky.app/profile/cbsnews.com/post/3maeupblfcj2a)
 
 ---
 
 @cnbc.com
 
-Former Trump advisor Dina Powell McCormick leaves Meta board after eight-month stint
+Paychex CEO gives a read on the labor market for small businesses
 
-[2025-12-20 08:12:36](https://bsky.app/profile/cnbc.com/post/3maesvd47jv2n)
-
----
-
-@reuters.com
-
-UK author David Walliams dropped by publisher after harassment allegations reut.rs/4qdLHY8
-
-[2025-12-20 08:10:20](https://bsky.app/profile/reuters.com/post/3maesrb576p2s)
+[2025-12-20 08:42:12](https://bsky.app/profile/cnbc.com/post/3maeukabx4x2b)
 
 ---
 
-@nytimes.com
+@nhknewsunofficial.bsky.social
 
-President Trump ordered cannabis to be downgraded to a lower category of drugs, a change that would allow for more widespread use by patients and permit cannabis producers to take advantage of standard business tax breaks. We explain why.
+トランプ政権 永住権得られる抽せん制度停止 大学銃撃事件受け
+https://news.web.nhk/newsweb/na/na-k10015009131000
 
-[2025-12-20 08:10:03](https://bsky.app/profile/nytimes.com/post/3maesqqgkhh2x)
+[2025-12-20 08:42:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maeuk7hvb52m)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【随時更新】ロシア ウクライナに軍事侵攻（12月20日の動き）
+https://news.web.nhk/newsweb/na/na-k10014990671000
+
+[2025-12-20 08:42:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maeuk2prs424)
+
+---
+
+@usatoday.com
+
+The long-awaited Epstein Files are out – some of them anyway – and, as expected, they include a trove of investigative files and other evidence from criminal investigations of Jeffrey Epstein.
+ 
+There are two call logs with a note for Epstein stating, “I have a female for him.” bit.ly/494WwVG
+
+[2025-12-20 08:41:25](https://bsky.app/profile/usatoday.com/post/3maeuitkflm2f)
+
+---
+
+@wsj.com
+
+Health Secretary Robert F. Kennedy Jr. has considered moving to align the U.S. childhood vaccine schedule with Denmark’s, which recommends fewer vaccines.
+
+[2025-12-20 08:41:21](https://bsky.app/profile/wsj.com/post/3maeuiqazjs23)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】飲食店経営の女性（41）売上金53万円などが入ったカバン奪われけが 自転車の男が逃走 神戸・中央区
+(2025-12-20 08:23) #ニュース
+
+[2025-12-20 08:40:45](https://bsky.app/profile/sokuho.news/post/3maeuhn7mg626)
 
 ---
 
