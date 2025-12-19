@@ -1,9 +1,9 @@
-# [2025-12-19 22:30 updated](2025_12_19.md)
+# [2025-12-19 22:50 updated](2025_12_19.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">H3ロケット8号機 22日に打ち上げ 打ち上げに支障なし https://news.web.nhk/newsweb/na/na-k10015008971000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mads6chzeo2d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 22:27:02)</span><span style="padding-right:50px;">日本の長期金利（新発１０年国債利回り）が１９日、１９９９年８月以来、２６年ぶりとなる２．０２０％をつけた。日銀が金融政策決定会合で政策金利の０．７５％への引き上げを決め、金利上昇に弾みがついた。追加利上げは市場の予想通りだったが、１９日午後の日本国債市場ではさらなる利上げ継続が意識されて売りが膨らんだ（金利は上昇）。市場では長期金利の２％は通過点に過ぎず、さらなる上昇を見込む向きが多い。 bit.ly/4s1dk8F <a href="https://bsky.app/profile/japan.reuters.com/post/3mads3cwom42c" target="_blank">japan.reuters.com</a> (2025-12-19 22:25:24)</span><span style="padding-right:50px;">Openers lead West Indies fightback after New Zealand declare on 575-8 reut.rs/4jbQ2ZO <a href="https://bsky.app/profile/reuters.com/post/3mads33qenk2b" target="_blank">reuters.com</a> (2025-12-19 22:25:16)</span><span style="padding-right:50px;">’Tis the season for home burglaries — a security expert shares his advice on how to keep it safe ft.trib.al/Uf0W6xJ <a href="https://bsky.app/profile/financialtimes.com/post/3mads2rrxlb2w" target="_blank">financialtimes.com</a> (2025-12-19 22:25:06)</span><span style="padding-right:50px;">Mathias Döpfner, CEO of Business Insider and Politico parent Axel Springer, is hunting for “new gold” in U.S. media holdings. It is proving harder than he expected. <a href="https://bsky.app/profile/wsj.com/post/3madrxx4cls2r" target="_blank">wsj.com</a> (2025-12-19 22:23:31)</span>
+<span style="padding-right:50px;">#UPDATE 🇷🇺 Russia's Vladimir Putin on Friday said during his annual end-of-year press conference that the ball was in the court of the West and Kyiv in talks to end the war in Ukraine, while hailing Moscow's recent battlefield gains and threatening more ➡️ u.afp.com/S8Uz <a href="https://bsky.app/profile/en.afp.com/post/3madte45vgs2e" target="_blank">en.afp.com</a> (2025-12-19 22:48:13)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】「誰もいないはずの自宅にチェーン錠がかかっている」母親と息子3人の計4人死亡 無理心中か 部屋から血の付いた斧と包丁1本ずつ見つかる 東京・西東京市 (2025-12-19 22:38:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3madtacud2v2y" target="_blank">sokuho.news</a> (2025-12-19 22:46:05)</span><span style="padding-right:50px;">President Donald Trump's announcement of the Patriot Games, a sporting event to celebrate 250 years of America, has sparked debate. Critics have likened the idea to The Hunger Games series, noting that in both, one boy and one girl are chosen to represent their region. https://cnn.it/4j2tE4G <a href="https://bsky.app/profile/cnn.com/post/3madt7krtdf24" target="_blank">cnn.com</a> (2025-12-19 22:45:40)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】鎌で首切りつけ殺害未遂容疑で逮捕 小値賀町の男(83)は殺意を否認《長崎》 (2025-12-19 22:45) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3madt7j7l4r2r" target="_blank">sokuho.news</a> (2025-12-19 22:45:38)</span><span style="padding-right:50px;">Japan holds economic view steady in monthly report reut.rs/4p7dmsF <a href="https://bsky.app/profile/reuters.com/post/3madt6rsbmh2y" target="_blank">reuters.com</a> (2025-12-19 22:45:14)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.26 (🔺1.73 : 2025-12-19)</span>
+<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.32 (🔺1.79 : 2025-12-19)</span>
   </div>
 </div>
 
@@ -32,95 +32,106 @@
 
 ## News Headlines
 
-Here are six important stories with headlines:
+Here are six news headlines in English:
 
-1. H3ロケット8号機 22日に打ち上げ 打ち上げに支障なし
-2. Japan's Long-Term Interest Rate Hits 26-Year High
-3. New Zealand vs. West Indies: West Indies Fight Back After New Zealand Declare on 575-8
-4. China, US Seek Thailand-Cambodia Ceasefire Ahead of ASEAN Meeting
-5. Australia Plans National Gun Buyback Program After Mass Killing
-6. US to Stop Dreamers Program for Immigrants, Affecting Japanese Residents
+1. Putin Says West and Kyiv Must Act to End Ukraine War
+2. Australia to Launch National Gun Buyback Scheme After Mass Shooting
+3. Oil Prices Stable After Trump's Comments on Venezuela
+4. UK Financial Watchdog to Investigate Travel Retailer WH Smith
+5. China and US Seek Ceasefire in Thailand-Cambodia Conflict Ahead of ASEAN Meeting
+6. Japan's Long-Term Interest Rate Hits 26-Year High Amid Monetary Policy Hike
 
 ----
 
-@nhknewsunofficial.bsky.social
+@en.afp.com
 
-H3ロケット8号機 22日に打ち上げ 打ち上げに支障なし
-https://news.web.nhk/newsweb/na/na-k10015008971000
+#UPDATE 🇷🇺 Russia's Vladimir Putin on Friday said during his annual end-of-year press conference that the ball was in the court of the West and Kyiv in talks to end the war in Ukraine, while hailing Moscow's recent battlefield gains and threatening more ➡️ u.afp.com/S8Uz
 
-[2025-12-19 22:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mads6chzeo2d)
+[2025-12-19 22:48:13](https://bsky.app/profile/en.afp.com/post/3madte45vgs2e)
 
 ---
 
-@japan.reuters.com
+@sokuho.news
 
-日本の長期金利（新発１０年国債利回り）が１９日、１９９９年８月以来、２６年ぶりとなる２．０２０％をつけた。日銀が金融政策決定会合で政策金利の０．７５％への引き上げを決め、金利上昇に弾みがついた。追加利上げは市場の予想通りだったが、１９日午後の日本国債市場ではさらなる利上げ継続が意識されて売りが膨らんだ（金利は上昇）。市場では長期金利の２％は通過点に過ぎず、さらなる上昇を見込む向きが多い。 bit.ly/4s1dk8F
+🛎️JNNより【速報】です。
 
-[2025-12-19 22:25:24](https://bsky.app/profile/japan.reuters.com/post/3mads3cwom42c)
+【速報】「誰もいないはずの自宅にチェーン錠がかかっている」母親と息子3人の計4人死亡 無理心中か 部屋から血の付いた斧と包丁1本ずつ見つかる 東京・西東京市
+(2025-12-19 22:38:00) #ニュース
+
+[2025-12-19 22:46:05](https://bsky.app/profile/sokuho.news/post/3madtacud2v2y)
+
+---
+
+@cnn.com
+
+President Donald Trump's announcement of the Patriot Games, a sporting event to celebrate 250 years of America, has sparked debate. Critics have likened the idea to The Hunger Games series, noting that in both, one boy and one girl are chosen to represent their region. https://cnn.it/4j2tE4G
+
+[2025-12-19 22:45:40](https://bsky.app/profile/cnn.com/post/3madt7krtdf24)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】鎌で首切りつけ殺害未遂容疑で逮捕 小値賀町の男(83)は殺意を否認《長崎》
+(2025-12-19 22:45) #ニュース
+
+[2025-12-19 22:45:38](https://bsky.app/profile/sokuho.news/post/3madt7j7l4r2r)
 
 ---
 
 @reuters.com
 
-Openers lead West Indies fightback after New Zealand declare on 575-8 reut.rs/4jbQ2ZO
+Japan holds economic view steady in monthly report reut.rs/4p7dmsF
 
-[2025-12-19 22:25:16](https://bsky.app/profile/reuters.com/post/3mads33qenk2b)
+[2025-12-19 22:45:14](https://bsky.app/profile/reuters.com/post/3madt6rsbmh2y)
 
 ---
 
 @financialtimes.com
 
-’Tis the season for home burglaries — a security expert shares his advice on how to keep it safe ft.trib.al/Uf0W6xJ
+Gen Z protests swept the world this year, pushing for political change in countries from Turkey and Indonesia to France and Mexico. ⁠
+⁠
+Protesters have rallied behind an unlikely symbol: a Jolly Roger-inspired straw hat-wearing pirate flag. www.ft.com/ft-explains
 
-[2025-12-19 22:25:06](https://bsky.app/profile/financialtimes.com/post/3mads2rrxlb2w)
+[2025-12-19 22:45:06](https://bsky.app/profile/financialtimes.com/post/3madt6jzie22b)
 
 ---
 
 @wsj.com
 
-Mathias Döpfner, CEO of Business Insider and Politico parent Axel Springer, is hunting for “new gold” in U.S. media holdings. It is proving harder than he expected.
+Sony is taking control of Snoopy and Charlie Brown, the latest Hollywood power play that leverages cartoon icons across the entertainment industry.
 
-[2025-12-19 22:23:31](https://bsky.app/profile/wsj.com/post/3madrxx4cls2r)
-
----
-
-@npr.org
-
-This week, we've got annoying holiday movies, chatty White House insiders, and cheese. n.pr/49hPY7c
-
-[2025-12-19 22:23:22](https://bsky.app/profile/npr.org/post/3madrxp2tjf2e)
+[2025-12-19 22:45:01](https://bsky.app/profile/wsj.com/post/3madt6fj3bt2h)
 
 ---
 
-@cnbc.com
+@nhknewsunofficial.bsky.social
 
-Stay away from Lyft as autonomous vehicles disrupt ridesharing market, says Wedbush
+フィギュア 女子シングルSP 坂本花織トップ 全日本選手権
+https://news.web.nhk/newsweb/na/na-k10015009011000
 
-[2025-12-19 22:22:45](https://bsky.app/profile/cnbc.com/post/3madrwlly4j2e)
-
----
-
-@japan.reuters.com
-
-夕方の取引でドルが一時１５７．０２円まで上昇し、１１月２４日以来、約１カ月ぶり高値を更新した。市場では、今年１月高値の１５８円後半が当面の上値めどとする声が上がっている。 bit.ly/493spxR
-
-[2025-12-19 22:20:28](https://bsky.app/profile/japan.reuters.com/post/3madrsibsae2c)
+[2025-12-19 22:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madsz5qbn72u)
 
 ---
 
-@cbsnews.com
+@financialtimes.com
 
-Officials say the same gunman who opened fire at Brown University also killed an MIT professor two days later. Here's what we know about the suspect, who was found dead Thursday night. 
+Which genius from history would have been the best investor? ft.trib.al/eZQku7N
 
-[2025-12-19 22:20:01](https://bsky.app/profile/cbsnews.com/post/3madrroy5ms2l)
+[2025-12-19 22:41:11](https://bsky.app/profile/financialtimes.com/post/3madsxkfxhu2f)
 
 ---
 
-@reuters.com
+@sokuho.news
 
-An beats Yamaguchi to top group at World Tour Finals reut.rs/4p45Lv5
+🛎️JNNより【速報】です。
 
-[2025-12-19 22:15:18](https://bsky.app/profile/reuters.com/post/3madrjbgask2o)
+【速報】「誰もいないはずの自宅にチェーン錠がかかっている」 東京・西東京市で母と息子の4人が死亡 無理心中か 警視庁
+(2025-12-19 22:38:18) #ニュース
+
+[2025-12-19 22:41:05](https://bsky.app/profile/sokuho.news/post/3madsxegdhr2b)
 
 ---
 
