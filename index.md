@@ -1,9 +1,9 @@
-# [2025-12-19 15:10 updated](2025_12_19.md)
+# [2025-12-19 15:30 updated](2025_12_19.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">中盤の東南アジア株式市場の株価は高安まちまちで推移している。 bit.ly/4s3MVaf <a href="https://bsky.app/profile/japan.reuters.com/post/3macznxfs4422" target="_blank">japan.reuters.com</a> (2025-12-19 15:08:26)</span><span style="padding-right:50px;">From Alsatians to autonomy: China seeks home-grown edge in police dogs reut.rs/44xHrdJ <a href="https://bsky.app/profile/reuters.com/post/3maczi4uvpy2y" target="_blank">reuters.com</a> (2025-12-19 15:05:10)</span><span style="padding-right:50px;">A Milwaukee judge has been found guilty of obstruction for helping a migrant evade arrest, the AP reports.  <a href="https://bsky.app/profile/cbsnews.com/post/3maczhtj3mt2t" target="_blank">cbsnews.com</a> (2025-12-19 15:05:00)</span><span style="padding-right:50px;">In March 2021, a Brown University doctoral candidate wrote an op-ed in the school paper criticizing Brown’s increasing use of surveillance cameras and lack of transparency.  <a href="https://bsky.app/profile/cnn.com/post/3maczebuc3l2o" target="_blank">cnn.com</a> (2025-12-19 15:03:01)</span><span style="padding-right:50px;">A person of interest in the Brown University shooting was found dead of a self-inflicted gunshot wound in a New Hampshire storage facility, officials say. <a href="https://bsky.app/profile/nbcnews.com/post/3maczdazhbi2u" target="_blank">nbcnews.com</a> (2025-12-19 15:02:27)</span>
+<span style="padding-right:50px;">鈴木農相 “コメ価格暴落防ぐには生産抑えることも必要” https://news.web.nhk/newsweb/na/na-k10015008431000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mad2pbjdb72l" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 15:27:02)</span><span style="padding-right:50px;">Exclusive: Mexican airlines Volaris and Viva Aerobus strike merger agreement reut.rs/4930pKy <a href="https://bsky.app/profile/reuters.com/post/3mad2lyxqfx2r" target="_blank">reuters.com</a> (2025-12-19 15:25:14)</span><span style="padding-right:50px;">＜１５：０２＞　午後3時のドルは156円ちょうど付近、日銀利上げで小幅円安 bit.ly/4pMPVGz <a href="https://bsky.app/profile/japan.reuters.com/post/3mad2fofadu27" target="_blank">japan.reuters.com</a> (2025-12-19 15:21:42)</span><span style="padding-right:50px;">80兆円規模対米投資 初の協議委員会 赤澤経産相“着実に進展” https://news.web.nhk/newsweb/na/na-k10015008461000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mad2ekum672l" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 15:21:02)</span><span style="padding-right:50px;">米政府高官が先週、難民として米国に渡航する南アフリカの白人に対し、歓迎セットの一つとして子ども向けに書かれたトランプ大統領の伝記を配布することを提案した。 bit.ly/48VkQdP <a href="https://bsky.app/profile/japan.reuters.com/post/3mad23u4c6p2c" target="_blank">japan.reuters.com</a> (2025-12-19 15:16:12)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49600.60 (🔺212.89 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 155.99 (🔺0.47 : 2025-12-19)</span>
+<span style="padding-right:50px;">NIKKEI: 49618.33 (🔺230.62 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3428.00 (🔺39.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 155.95 (🔺0.42 : 2025-12-19)</span>
   </div>
 </div>
 
@@ -32,106 +32,109 @@
 
 ## News Headlines
 
-Here are six news headlines:
+Here are six headlines in English:
 
-1. Taiwan Dollar Remains Stable Amid Central Bank's Rate Decision
-2. Japan to Free Up Public Funding for Nuclear Power Renewal
-3. Person of Interest in Brown University Shooting Found Dead
-4. Facebook's Personalized Advertising Model Ruled Unlawful in Austria
-5. US President Trump Suspends Diversity Visa Lottery Program
-6. Japan Reaffirms No-Nuclear Pledge Amid Senior Official's Suggestion
+1. Japan Agriculture Minister: We May Need to Restrict Production to Prevent Rice Price Plunge
+2. Exclusive: Mexican Airlines Volaris and Viva Aerobus Strike Merger Agreement
+3. BOJ Hikes Interest Rates, Policymakers Vote 7-0 to Raise Target to 0.75%
+4. Japan to Raise Medical Fees by 3.09% for First Time in 30 Years to Cope with Inflation
+5. Chinese and Hong Kong Stock Markets Close Higher, But Outlook Uncertain Amid Ongoing Economic Concerns
+6. US Military Confirms Lethal Kinetic Strikes on Two Vessels in the Middle East
 
 ----
 
-@japan.reuters.com
+@nhknewsunofficial.bsky.social
 
-中盤の東南アジア株式市場の株価は高安まちまちで推移している。 bit.ly/4s3MVaf
+鈴木農相 “コメ価格暴落防ぐには生産抑えることも必要”
+https://news.web.nhk/newsweb/na/na-k10015008431000
 
-[2025-12-19 15:08:26](https://bsky.app/profile/japan.reuters.com/post/3macznxfs4422)
-
----
-
-@reuters.com
-
-From Alsatians to autonomy: China seeks home-grown edge in police dogs reut.rs/44xHrdJ
-
-[2025-12-19 15:05:10](https://bsky.app/profile/reuters.com/post/3maczi4uvpy2y)
-
----
-
-@cbsnews.com
-
-A Milwaukee judge has been found guilty of obstruction for helping a migrant evade arrest, the AP reports. 
-
-[2025-12-19 15:05:00](https://bsky.app/profile/cbsnews.com/post/3maczhtj3mt2t)
-
----
-
-@cnn.com
-
-In March 2021, a Brown University doctoral candidate wrote an op-ed in the school paper criticizing Brown’s increasing use of surveillance cameras and lack of transparency. 
-
-[2025-12-19 15:03:01](https://bsky.app/profile/cnn.com/post/3maczebuc3l2o)
-
----
-
-@nbcnews.com
-
-A person of interest in the Brown University shooting was found dead of a self-inflicted gunshot wound in a New Hampshire storage facility, officials say.
-
-[2025-12-19 15:02:27](https://bsky.app/profile/nbcnews.com/post/3maczdazhbi2u)
-
----
-
-@japan.reuters.com
-
-アジア新興国通貨は総じて小動き。前日に中央銀行が金利を据え置き、好調なハイテク輸出を背景に成長率見通しを引き上げた
- 台湾ドル
- も
- １米ドル＝３１．５４５台湾ドルとほぼ変わらず。 bit.ly/4aj8yNk
-
-[2025-12-19 15:02:22](https://bsky.app/profile/japan.reuters.com/post/3maczd4duly2f)
+[2025-12-19 15:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mad2pbjdb72l)
 
 ---
 
 @reuters.com
 
-Japan to free up more public funding in nuclear power renewal push reut.rs/3KTZKTS
+Exclusive: Mexican airlines Volaris and Viva Aerobus strike merger agreement reut.rs/4930pKy
 
-[2025-12-19 15:01:07](https://bsky.app/profile/reuters.com/post/3maczauux4h2x)
+[2025-12-19 15:25:14](https://bsky.app/profile/reuters.com/post/3mad2lyxqfx2r)
+
+---
+
+@japan.reuters.com
+
+＜１５：０２＞　午後3時のドルは156円ちょうど付近、日銀利上げで小幅円安 bit.ly/4pMPVGz
+
+[2025-12-19 15:21:42](https://bsky.app/profile/japan.reuters.com/post/3mad2fofadu27)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+80兆円規模対米投資 初の協議委員会 赤澤経産相“着実に進展”
+https://news.web.nhk/newsweb/na/na-k10015008461000
+
+[2025-12-19 15:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mad2ekum672l)
+
+---
+
+@japan.reuters.com
+
+米政府高官が先週、難民として米国に渡航する南アフリカの白人に対し、歓迎セットの一つとして子ども向けに書かれたトランプ大統領の伝記を配布することを提案した。 bit.ly/48VkQdP
+
+[2025-12-19 15:16:12](https://bsky.app/profile/japan.reuters.com/post/3mad23u4c6p2c)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】大阪市中央卸売市場で「ヒトの内臓のようなものが入った大量の瓶」捨てられているのが見つかる 病院などから出た“医療廃棄物”か 警察が捜査
+(2025-12-19 15:07) #ニュース
+
+[2025-12-19 15:16:11](https://bsky.app/profile/sokuho.news/post/3mad23sxxex26)
+
+---
+
+@reuters.com
+
+'Marvellous' emerging markets tipped for another star showing in 2026 reut.rs/3MGn4VH
+
+[2025-12-19 15:15:18](https://bsky.app/profile/reuters.com/post/3mad22aydv524)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+診療報酬改定「本体」30年ぶりに3％超引き上げで最終調整
+https://news.web.nhk/newsweb/na/na-k10015008471000
+
+[2025-12-19 15:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maczzsxszb2b)
+
+---
+
+@japan.reuters.com
+
+中国・香港株式市場はともに上昇して前場を終えた。ただ週間では、中国株は企業利益の落ち込みを受けて新たな政策シグナルが待たれる中、投資家が慎重姿勢を続けたため横ばいとなり、香港株は下落する見通しとなった。 bit.ly/3Y3Kabg
+
+[2025-12-19 15:14:52](https://bsky.app/profile/japan.reuters.com/post/3maczzi3qra2v)
 
 ---
 
 @nikkei.com
 
-ペットボトルだけで再生ペット樹脂を製造　アサヒ飲料など（無料記事）
+診療報酬本体3.09%上げ　2026年度、インフレ対応で30年ぶり改定率
 www.nikkei.com/article/DGXZQO...
 
-品質や量産化の課題などを検証し、2029年の商用化を目指します。
+政府は医療従事者の人件費などに回る本体部分を3.09%引き上げる最終調整に入りました。
 
-使い終わった再生ペットボトルは繰り返しのリサイクルが可能といいます。
+医療機関のインフレ対応や賃上げの原資とします。診療報酬の総額は医療費として国民が負担します。
 
-従来は再生ペット樹脂の品質を安定させるため、一部石油由来の原料を使用する必要があり、使用済みペットボトルの利用率は約72%でした。
+30年ぶりの水準に達した背景には医療機関の経営難があります。厚労省の医療経済実態調査によると、24年度は病院の7割弱が赤字でした。
 
 #ニュース
 
-[2025-12-19 15:00:40](https://bsky.app/profile/nikkei.com/post/3macza3ivn72n)
-
----
-
-@washingtonpost.com
-
-The Office of Special Counsel took the unusual move of filing a complaint against a Virginia sheriff for allegedly using his public office to fuel his 2025 reelection bid, the first such action against a local or state official in at least a decade.
-
-[2025-12-19 15:00:09](https://bsky.app/profile/washingtonpost.com/post/3macz75qfvv25)
-
----
-
-@aljazeera.com
-
-US military says 'lethal kinetic strikes on two vessels' killed three people in one craft and two in another https://aje.io/otsq15
-
-[2025-12-19 15:00:03](https://bsky.app/profile/aljazeera.com/post/3macz6y2q6y22)
+[2025-12-19 15:14:00](https://bsky.app/profile/nikkei.com/post/3maczxvnmzk26)
 
 ---
 
