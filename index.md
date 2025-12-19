@@ -1,9 +1,9 @@
-# [2025-12-20 08:10 updated](2025_12_20.md)
+# [2025-12-20 08:30 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">BREAKING: U.S. forces begin strike against ISIS infrastructure and weapons sites in Syria in retaliation for an attack that killed three Americans. <a href="https://bsky.app/profile/nbcnews.com/post/3maesmybnsx2n" target="_blank">nbcnews.com</a> (2025-12-20 08:07:57)</span><span style="padding-right:50px;">トランプ米大統領は８月、首都ワシントンで犯罪取り締まり強化の号令をかけた。その現場で、司法省の足元が揺らいでいる。違法な捜索や起訴への詰めの甘さ、担当幹部の不用意な発言。法曹関係者は、小さなほころびが法廷で積み重なり、刑事と民事の双方で「政府の手続きは適正に行われている」とする前提が傷つけられているとみている。 bit.ly/48NIOHN <a href="https://bsky.app/profile/japan.reuters.com/post/3maeslghbmy2q" target="_blank">japan.reuters.com</a> (2025-12-20 08:07:04)</span><span style="padding-right:50px;">Breaking news: The U.S. military launched a series of strikes against dozens of sites in central Syria, in retaliation for killing two American soldiers and an interpreter. <a href="https://bsky.app/profile/washingtonpost.com/post/3maesjlaxca2y" target="_blank">washingtonpost.com</a> (2025-12-20 08:06:02)</span><span style="padding-right:50px;">US imposes new Venezuela-related sanctions on seven people, Treasury Department says reut.rs/4p31Ezm <a href="https://bsky.app/profile/reuters.com/post/3maeshze2ei2x" target="_blank">reuters.com</a> (2025-12-20 08:05:10)</span><span style="padding-right:50px;">Though Emily spends most of the season in a relationship with Marcello, the two part ways in the finale. Here's what we know so far about Season 6. <a href="https://bsky.app/profile/usatoday.com/post/3maesawsclf2w" target="_blank">usatoday.com</a> (2025-12-20 08:01:12)</span>
+<span style="padding-right:50px;">US carries out 'massive' strike against IS in Syria <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maetstlcfk2x" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-20 08:29:06)</span><span style="padding-right:50px;">Bondi attack suspects kept to themselves during Philippines stay, hotel staffer recalls reut.rs/4pMN8wO <a href="https://bsky.app/profile/reuters.com/post/3maetlpzmc72r" target="_blank">reuters.com</a> (2025-12-20 08:25:08)</span><span style="padding-right:50px;">Meet the 49-year-old military veteran and federal worker whose songs about his beloved Eagles have turned him into one of Philadelphia’s biggest sports stars.   🔗: on.wsj.com/3MT3ANs <a href="https://bsky.app/profile/wsj.com/post/3maetdcsgyf2e" target="_blank">wsj.com</a> (2025-12-20 08:20:26)</span><span style="padding-right:50px;">Secretary of Defense Pete Hegseth announced via social media that the U.S. is conducting a large-scale retaliatory strike against ISIS in Syria after two U.S. soldiers and an interpreter were killed in an attack. <a href="https://bsky.app/profile/nbcnews.com/post/3maetcty7wp2q" target="_blank">nbcnews.com</a> (2025-12-20 08:20:10)</span><span style="padding-right:50px;">Los Angeles Angels, Tyler Skaggs' family reach settlement in wrongful death lawsuit. <a href="https://bsky.app/profile/cbsnews.com/post/3maetclfgai2j" target="_blank">cbsnews.com</a> (2025-12-20 08:20:01)</span>
   </div>
 </div>
 
@@ -32,94 +32,96 @@
 
 ## News Headlines
 
-Here are the six selected stories with headlines:
+Here are six important news stories with headlines:
 
-1. US Launches Airstrikes on ISIS Targets in Syria in Retaliation for American Deaths
-2. US Imposes New Sanctions on Seven Individuals Linked to Venezuela
-3. US Army Corps of Engineers Says Dakota Access Pipeline Should Continue Operating
-4. US to Strip Alleged Bosnian War Criminal of Citizenship
-5. Delaware Supreme Court Restores Elon Musk's $139 Billion Pay Package
-6. Russia Cuts Interest Rates to 16% in Bid to Boost Economy
+1. US Launches Retaliatory Strikes Against ISIS in Syria
+2. US Imposes Sanctions on Seven Individuals Linked to Venezuela
+3. US to Strip Alleged Bosnian War Criminal of Citizenship
+4. Lebanon Drafts Law to Address Funding Shortfalls in Financial System
+5. US to Shift Away from Directly Recommending Vaccines for Children
+6. Dakota Access Pipeline to Continue Operating, US Army Corps of Engineers Says
 
 ----
 
+@bbcnews-world-rss.bsky.social
+
+US carries out 'massive' strike against IS in Syria
+
+[2025-12-20 08:29:06](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maetstlcfk2x)
+
+---
+
+@reuters.com
+
+Bondi attack suspects kept to themselves during Philippines stay, hotel staffer recalls reut.rs/4pMN8wO
+
+[2025-12-20 08:25:08](https://bsky.app/profile/reuters.com/post/3maetlpzmc72r)
+
+---
+
+@wsj.com
+
+Meet the 49-year-old military veteran and federal worker whose songs about his beloved Eagles have turned him into one of Philadelphia’s biggest sports stars. 
+
+🔗: on.wsj.com/3MT3ANs
+
+[2025-12-20 08:20:26](https://bsky.app/profile/wsj.com/post/3maetdcsgyf2e)
+
+---
+
 @nbcnews.com
 
-<strong><span style="color: red;">BREAKING:</span> U.S. forces begin strike against ISIS infrastructure and weapons sites in Syria in retaliation for an attack that killed three Americans.</strong>
+Secretary of Defense Pete Hegseth announced via social media that the U.S. is conducting a large-scale retaliatory strike against ISIS in Syria after two U.S. soldiers and an interpreter were killed in an attack.
 
-[2025-12-20 08:07:57](https://bsky.app/profile/nbcnews.com/post/3maesmybnsx2n)
+[2025-12-20 08:20:10](https://bsky.app/profile/nbcnews.com/post/3maetcty7wp2q)
+
+---
+
+@cbsnews.com
+
+Los Angeles Angels, Tyler Skaggs' family reach settlement in wrongful death lawsuit.
+
+[2025-12-20 08:20:01](https://bsky.app/profile/cbsnews.com/post/3maetclfgai2j)
 
 ---
 
 @japan.reuters.com
 
-トランプ米大統領は８月、首都ワシントンで犯罪取り締まり強化の号令をかけた。その現場で、司法省の足元が揺らいでいる。違法な捜索や起訴への詰めの甘さ、担当幹部の不用意な発言。法曹関係者は、小さなほころびが法廷で積み重なり、刑事と民事の双方で「政府の手続きは適正に行われている」とする前提が傷つけられているとみている。 bit.ly/48NIOHN
+米金融・債券市場では、国債利回りが世界の債券利回りと連動して上昇した。投資家らは米経済指標の発表や連邦準備制度理事会（ＦＲＢ）の政策の方向性を引き続き見極めたいとしている。 bit.ly/4p0Bpth
 
-[2025-12-20 08:07:04](https://bsky.app/profile/japan.reuters.com/post/3maeslghbmy2q)
-
----
-
-@washingtonpost.com
-
-<strong><span style="color: red;">Breaking news:</span> The U.S. military launched a series of strikes against dozens of sites in central Syria, in retaliation for killing two American soldiers and an interpreter.</strong>
-
-[2025-12-20 08:06:02](https://bsky.app/profile/washingtonpost.com/post/3maesjlaxca2y)
+[2025-12-20 08:15:22](https://bsky.app/profile/japan.reuters.com/post/3maet2az5zt22)
 
 ---
 
 @reuters.com
 
-US imposes new Venezuela-related sanctions on seven people, Treasury Department says reut.rs/4p31Ezm
+Starbucks taps Amazon's Anand Varadarajan as new chief technology officer reut.rs/48OveE6
 
-[2025-12-20 08:05:10](https://bsky.app/profile/reuters.com/post/3maeshze2ei2x)
-
----
-
-@usatoday.com
-
-Though Emily spends most of the season in a relationship with Marcello, the two part ways in the finale. Here's what we know so far about Season 6.
-
-[2025-12-20 08:01:12](https://bsky.app/profile/usatoday.com/post/3maesawsclf2w)
-
----
-
-@cnn.com
-
-Republican Rep. Elise Stefanik announced Friday she was ending her short-lived bid for governor of New York and would not run for another term in Congress. https://cnn.it/4qjjHT2
-
-[2025-12-20 08:01:04](https://bsky.app/profile/cnn.com/post/3maesaokylp2t)
-
----
-
-@reuters.com
-
-Dakota Access pipeline should continue operating, US Army Corps of Engineers says reut.rs/3MWwtIF
-
-[2025-12-20 08:01:04](https://bsky.app/profile/reuters.com/post/3maesaow63p2r)
-
----
-
-@cnn.com
-
-Federal investigators on Friday will begin sifting through the wreckage of a business jet that crashed in North Carolina and killed all seven people aboard, including retired NASCAR driver Greg Biffle and his family. 
-
-[2025-12-20 08:01:03](https://bsky.app/profile/cnn.com/post/3maesanqunp2t)
-
----
-
-@npr.org
-
-Fourteen companies in total have now reached what the administration calls most-favored-nation pricing deals.
-
-[2025-12-20 08:01:02](https://bsky.app/profile/npr.org/post/3maesamui7d2p)
+[2025-12-20 08:15:17](https://bsky.app/profile/reuters.com/post/3maet23ztre2k)
 
 ---
 
 @cnbc.com
 
-Utkarsh Amitabh is a founder, author and Ph.D. candidate who spends 3.5 hours a day, on average, training AI models for tech startup micro1. 
+Former Trump advisor Dina Powell McCormick leaves Meta board after eight-month stint
 
-[2025-12-20 08:00:53](https://bsky.app/profile/cnbc.com/post/3maesaecful2m)
+[2025-12-20 08:12:36](https://bsky.app/profile/cnbc.com/post/3maesvd47jv2n)
+
+---
+
+@reuters.com
+
+UK author David Walliams dropped by publisher after harassment allegations reut.rs/4qdLHY8
+
+[2025-12-20 08:10:20](https://bsky.app/profile/reuters.com/post/3maesrb576p2s)
+
+---
+
+@nytimes.com
+
+President Trump ordered cannabis to be downgraded to a lower category of drugs, a change that would allow for more widespread use by patients and permit cannabis producers to take advantage of standard business tax breaks. We explain why.
+
+[2025-12-20 08:10:03](https://bsky.app/profile/nytimes.com/post/3maesqqgkhh2x)
 
 ---
 
