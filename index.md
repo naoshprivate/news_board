@@ -1,9 +1,9 @@
-# [2025-12-20 05:50 updated](2025_12_20.md)
+# [2025-12-20 06:10 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">A federal judge said HUD cannot dramatically change its funding policies on homelessness for now. States, cities and nonprofits say the proposed overhaul would push thousands back onto the streets. n.pr/3MMVjL5 <a href="https://bsky.app/profile/npr.org/post/3maektg65j72x" target="_blank">npr.org</a> (2025-12-20 05:48:22)</span><span style="padding-right:50px;">Union Pacific kicks off regulatory review for $85 billion coast‑to‑coast rail merger reut.rs/44yQLOC <a href="https://bsky.app/profile/reuters.com/post/3maeknti7tq2r" target="_blank">reuters.com</a> (2025-12-20 05:45:15)</span><span style="padding-right:50px;">飢餓の状況を監視する国連組織「総合的食料安全保障レベル分類（ＩＰＣ）」は１９日、パレスチナ自治区ガザで飢きんはなくなったと発表した。イスラエルとイスラム組織ハマスとの間で１０月１０日に成立した停戦により、人道支援や食糧供給が改善したという。 bit.ly/4j8Vxbp <a href="https://bsky.app/profile/japan.reuters.com/post/3maeknsnm4n2s" target="_blank">japan.reuters.com</a> (2025-12-20 05:45:14)</span><span style="padding-right:50px;">赤坂サウナ店火災 施工業者 全国の納入先に点検呼びかけ https://news.web.nhk/newsweb/na/na-k10015008861000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maeki4vavg2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 05:42:02)</span><span style="padding-right:50px;">World Court to hear Myanmar genocide case in January reut.rs/4aZMtUd <a href="https://bsky.app/profile/reuters.com/post/3maekeyug642y" target="_blank">reuters.com</a> (2025-12-20 05:40:19)</span>
+<span style="padding-right:50px;">BREAKING: Justice Dept. begins releasing records related to Jeffrey Epstein.   Follow live as NBC News reviews the files. <a href="https://bsky.app/profile/nbcnews.com/post/3maelx7rdwi25" target="_blank">nbcnews.com</a> (2025-12-20 06:08:24)</span><span style="padding-right:50px;">Breaking: The US Justice Department released files from investigations into notorious sex offender Jeffrey Epstein  <a href="https://bsky.app/profile/bloomberg.com/post/3maelwoyf3q2x" target="_blank">bloomberg.com</a> (2025-12-20 06:08:06)</span><span style="padding-right:50px;">Suffragists didn't just march. They baked, held bake sales and sold cookbooks to raise money for the cause of equality. <a href="https://bsky.app/profile/npr.org/post/3maelutffg62n" target="_blank">npr.org</a> (2025-12-20 06:07:04)</span><span style="padding-right:50px;">香港 高層住宅火災 独立委員会が初会合 真相究明進むかが焦点 https://news.web.nhk/newsweb/na/na-k10015008901000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maelt2wcla2d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 06:06:02)</span><span style="padding-right:50px;">Epstein files totaling more than 60,000 pages have already been released this year. Here's what we've seen so far. <a href="https://bsky.app/profile/cbsnews.com/post/3maelsfadm72a" target="_blank">cbsnews.com</a> (2025-12-20 06:05:42)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48095.09 (🔺120.27 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23297.61 (🔺175.71 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.79 (🔺4.12 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.59 (🔺2.06 : 2025-12-19)</span>
+<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.33 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.69 (🔺2.16 : 2025-12-19)</span>
   </div>
 </div>
 
@@ -32,96 +32,96 @@
 
 ## News Headlines
 
-Here are six headlines in English:
+Here are six important stories with headlines in English:
 
-1. US Appeals Harvard Court Victory on $2 Billion Funding Freeze
-2. World Court to Hear Myanmar Genocide Case in January
-3. UN Says Gaza's Hunger Situation Has Improved After Ceasefire
-4. Japan's Central Bank Cuts Interest Rates by 50 Basis Points
-5. Jeffrey Epstein Files Released by US Justice Department
-6. Tokyo Suffers 3 Deaths and 9 Injuries in Central District Shooting
+1. US Justice Department Releases Thousands of Records Related to Jeffrey Epstein Investigation
+2. Trump Administration Complies with Law, Releases Jeffrey Epstein Files
+3. Judge Blocks Trump Administration's Plan to Overhaul Homelessness Funding Conditions
+4. World Court to Hear Myanmar Genocide Case in January
+5. US Appeals Harvard Court Victory on $2 Billion Funding Freeze
+6. Nigeria Projects 2026 Deficit of 4.28% of GDP as Tinubu Proposes Spending Plan
 
 ----
 
+@nbcnews.com
+
+<strong><span style="color: red;">BREAKING:</span> Justice Dept. begins releasing records related to Jeffrey Epstein. </strong><br><strong></strong><br><strong>Follow live as NBC News reviews the files.</strong>
+
+[2025-12-20 06:08:24](https://bsky.app/profile/nbcnews.com/post/3maelx7rdwi25)
+
+---
+
+@bloomberg.com
+
+<strong><span style="color: red;">Breaking:</span> The US Justice Department released files from investigations into notorious sex offender Jeffrey Epstein </strong>
+
+[2025-12-20 06:08:06](https://bsky.app/profile/bloomberg.com/post/3maelwoyf3q2x)
+
+---
+
 @npr.org
 
-A federal judge said HUD cannot dramatically change its funding policies on homelessness for now. States, cities and nonprofits say the proposed overhaul would push thousands back onto the streets. n.pr/3MMVjL5
+Suffragists didn't just march. They baked, held bake sales and sold cookbooks to raise money for the cause of equality.
 
-[2025-12-20 05:48:22](https://bsky.app/profile/npr.org/post/3maektg65j72x)
-
----
-
-@reuters.com
-
-Union Pacific kicks off regulatory review for $85 billion coast‑to‑coast rail merger reut.rs/44yQLOC
-
-[2025-12-20 05:45:15](https://bsky.app/profile/reuters.com/post/3maeknti7tq2r)
-
----
-
-@japan.reuters.com
-
-飢餓の状況を監視する国連組織「総合的食料安全保障レベル分類（ＩＰＣ）」は１９日、パレスチナ自治区ガザで飢きんはなくなったと発表した。イスラエルとイスラム組織ハマスとの間で１０月１０日に成立した停戦により、人道支援や食糧供給が改善したという。 bit.ly/4j8Vxbp
-
-[2025-12-20 05:45:14](https://bsky.app/profile/japan.reuters.com/post/3maeknsnm4n2s)
+[2025-12-20 06:07:04](https://bsky.app/profile/npr.org/post/3maelutffg62n)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-赤坂サウナ店火災 施工業者 全国の納入先に点検呼びかけ
-https://news.web.nhk/newsweb/na/na-k10015008861000
+香港 高層住宅火災 独立委員会が初会合 真相究明進むかが焦点
+https://news.web.nhk/newsweb/na/na-k10015008901000
 
-[2025-12-20 05:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maeki4vavg2k)
+[2025-12-20 06:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maelt2wcla2d)
+
+---
+
+@cbsnews.com
+
+Epstein files totaling more than 60,000 pages have already been released this year. Here's what we've seen so far.
+
+[2025-12-20 06:05:42](https://bsky.app/profile/cbsnews.com/post/3maelsfadm72a)
 
 ---
 
 @reuters.com
 
-World Court to hear Myanmar genocide case in January reut.rs/4aZMtUd
+Ex-prosecutor sues over arrest while protesting law firm Skadden's deal with Trump reut.rs/3MO3WoE
 
-[2025-12-20 05:40:19](https://bsky.app/profile/reuters.com/post/3maekeyug642y)
+[2025-12-20 06:05:09](https://bsky.app/profile/reuters.com/post/3maelrgb4322k)
+
+---
+
+@forbes.com
+
+The Trump administration complied with a federal law requiring them to release the files.
+
+[2025-12-20 06:05:07](https://bsky.app/profile/forbes.com/post/3maelreli2a2s)
+
+---
+
+@en.afp.com
+
+<strong><span style="color: red;">BREAKING </span>Trump administration begins release of Epstein files</strong>
+
+[2025-12-20 06:05:02](https://bsky.app/profile/en.afp.com/post/3maelr7gnws2f)
+
+---
+
+@apnews.com
+
+<strong><span style="color: red;">BREAKING:</span> Justice Department begins releasing long-awaited files tied to Jeffrey Epstein's sex trafficking investigation.</strong>
+
+[2025-12-20 06:04:45](https://bsky.app/profile/apnews.com/post/3maelqpi2m52u)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-ガザ地区 停戦で食料状況改善「飢きん」状態脱するも不安続く
-https://news.web.nhk/newsweb/na/na-k10015009091000
+プーチン大統領「条件が満たされないかぎり和平は実現しない」
+https://news.web.nhk/newsweb/na/na-k10015009071000
 
-[2025-12-20 05:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maekcsjs6324)
-
----
-
-@japan.reuters.com
-
-ロンドン株式市場はまちまちで取引を終えた。ＦＴＳＥ１００種は続伸。一方、国内志向の強い中型株で構成するＦＴＳＥ２５０種指数は０．０６％下落した。週間ベースではＦＴＳＥ１００種は２．５７％、ＦＴＳＥ２５０種は１．９９％いずれも上昇した。 bit.ly/4pMbiHJ
-
-[2025-12-20 05:38:43](https://bsky.app/profile/japan.reuters.com/post/3maekc5sple2p)
-
----
-
-@wsj.com
-
-Exclusive: Los Angeles Dodgers’ first baseman Freddie Freeman and his wife, Chelsea Freeman, sold their L.A. house for $6.45 million—$1.375 million less than they paid in 2023.
-
-[2025-12-20 05:38:02](https://bsky.app/profile/wsj.com/post/3maekaw4tym2u)
-
----
-
-@wsj.com
-
-The baseball star took a $1.375 million loss on the sale of the new-construction Studio City home. on.wsj.com/49jHj45
-
-[2025-12-20 05:37:52](https://bsky.app/profile/wsj.com/post/3maekamy5jq2k)
-
----
-
-@japan.reuters.com
-
-米国のルビオ国務長官は１９日、ベネズエラへの対応を巡り、同国と関係が近いロシアと米国との間で緊張が高まる可能性について懸念していないと述べた。 bit.ly/45aq9n7
-
-[2025-12-20 05:36:33](https://bsky.app/profile/japan.reuters.com/post/3maek6bxwjx25)
+[2025-12-20 06:03:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maelnppury2b)
 
 ---
 
