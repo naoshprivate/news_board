@@ -1,9 +1,9 @@
-# [2025-12-20 07:10 updated](2025_12_20.md)
+# [2025-12-20 07:30 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Removed Ben & Jerry's chair says Magnum aimed to 'smear' her <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maepbdf6s22b" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-20 07:07:43)</span><span style="padding-right:50px;">Exclusive: AI chip firm Cerebras set to file for US IPO after delay, sources say reut.rs/44za9uL <a href="https://bsky.app/profile/reuters.com/post/3maep4qeodv2s" target="_blank">reuters.com</a> (2025-12-20 07:05:10)</span><span style="padding-right:50px;">BREAKING: The Brown University shooting suspect died by suicide days before being found, an autopsy finds. <a href="https://bsky.app/profile/cbsnews.com/post/3maep4ohwfk2f" target="_blank">cbsnews.com</a> (2025-12-20 07:05:08)</span><span style="padding-right:50px;">Palestinians tell BBC they were sexually abused in Israeli prisons <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maeoyysrva2v" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-20 07:03:04)</span><span style="padding-right:50px;">Eric Adams, the one-term mayor, moved to block a key proposal of Zohran Mamdani's platform to address cost of living in New York. <a href="https://bsky.app/profile/usatoday.com/post/3maeowr6jfb2o" target="_blank">usatoday.com</a> (2025-12-20 07:01:50)</span>
+<span style="padding-right:50px;">Elon Musk’s 2018 CEO pay package from Tesla, worth some $56 billion when it vested, must be restored, the Delaware Supreme Court ruled Friday. <a href="https://bsky.app/profile/cnbc.com/post/3maeqcmglnh2p" target="_blank">cnbc.com</a> (2025-12-20 07:26:21)</span><span style="padding-right:50px;">Italy sells digital payment unit PagoPA to Poste, state mint for up to 500 mln euros reut.rs/4alhJgd <a href="https://bsky.app/profile/reuters.com/post/3maeqahcsof23" target="_blank">reuters.com</a> (2025-12-20 07:25:08)</span><span style="padding-right:50px;">The U.S. recommends immunization against 18 diseases, while Denmark recommends 10. on.wsj.com/4p5g9mj <a href="https://bsky.app/profile/wsj.com/post/3maeq34va5v2h" target="_blank">wsj.com</a> (2025-12-20 07:22:10)</span><span style="padding-right:50px;">BREAKING: US launches attacks on Islamic State targets in Syria days after ambush that left two soldiers dead <a href="https://bsky.app/profile/usatoday.com/post/3maeq34yhjn25" target="_blank">usatoday.com</a> (2025-12-20 07:22:10)</span><span style="padding-right:50px;">BREAKING: The DOJ acknowledges to Congress that the Epstein files release is incomplete and expects additional disclosures by end of year. <a href="https://bsky.app/profile/apnews.com/post/3maeq33mi3422" target="_blank">apnews.com</a> (2025-12-20 07:22:09)</span>
   </div>
 </div>
 
@@ -32,94 +32,94 @@
 
 ## News Headlines
 
-Here are six important stories from the news with headlines in English:
+Here are six selected news headlines in English:
 
-1. Brown University Shooting Suspect Died by Suicide, Autopsy Finds
-2. US Justice Department Releases Jeffrey Epstein Investigation Records
-3. Tesla Wins Appeal, Restores Elon Musk's $56 Billion Pay Package
-4. Measles Cases Rise in South Carolina, Health Department Reports 144 Cases
-5. Pentagon to Buy Thousands of Small Drones for the US Military
-6. Elise Stefanik Drops Out of NY Governor's Race, Won't Seek Re-election to Congress
+1. BREAKING: US Launches Airstrikes Against ISIS in Syria in Retaliation for Soldier Deaths
+2. Delaware Supreme Court Reinstates Elon Musk's $56 Billion Tesla Pay Package
+3. US to Pause Visa Program for Certain Individuals Amid Border Security Concerns
+4. Palestinians Allegedly Sexually Abused in Israeli Prisons, According to Reports
+5. US Launches Large-Scale Attack on ISIS Targets in Syria
+6. Measles Cases Rise to 144 in South Carolina, State Health Department Reports
 
 ----
 
-@bbcnews-world-rss.bsky.social
+@cnbc.com
 
-Removed Ben & Jerry's chair says Magnum aimed to 'smear' her
+Elon Musk’s 2018 CEO pay package from Tesla, worth some $56 billion when it vested, must be restored, the Delaware Supreme Court ruled Friday.
 
-[2025-12-20 07:07:43](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maepbdf6s22b)
+[2025-12-20 07:26:21](https://bsky.app/profile/cnbc.com/post/3maeqcmglnh2p)
 
 ---
 
 @reuters.com
 
-Exclusive: AI chip firm Cerebras set to file for US IPO after delay, sources say reut.rs/44za9uL
+Italy sells digital payment unit PagoPA to Poste, state mint for up to 500 mln euros reut.rs/4alhJgd
 
-[2025-12-20 07:05:10](https://bsky.app/profile/reuters.com/post/3maep4qeodv2s)
-
----
-
-@cbsnews.com
-
-<strong><span style="color: red;">BREAKING:</span> The Brown University shooting suspect died by suicide days before being found, an autopsy finds.</strong>
-
-[2025-12-20 07:05:08](https://bsky.app/profile/cbsnews.com/post/3maep4ohwfk2f)
+[2025-12-20 07:25:08](https://bsky.app/profile/reuters.com/post/3maeqahcsof23)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@wsj.com
 
-Palestinians tell BBC they were sexually abused in Israeli prisons
+The U.S. recommends immunization against 18 diseases, while Denmark recommends 10. on.wsj.com/4p5g9mj
 
-[2025-12-20 07:03:04](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maeoyysrva2v)
+[2025-12-20 07:22:10](https://bsky.app/profile/wsj.com/post/3maeq34va5v2h)
 
 ---
 
 @usatoday.com
 
-Eric Adams, the one-term mayor, moved to block a key proposal of Zohran Mamdani's platform to address cost of living in New York.
+<strong><span style="color: red;">BREAKING:</span> US launches attacks on Islamic State targets in Syria days after ambush that left two soldiers dead</strong>
 
-[2025-12-20 07:01:50](https://bsky.app/profile/usatoday.com/post/3maeowr6jfb2o)
-
----
-
-@reuters.com
-
-Measles cases in South Carolina rise by nine to 144, state health department says reut.rs/3L7U0Wy
-
-[2025-12-20 07:01:27](https://bsky.app/profile/reuters.com/post/3maeow3wlgh2i)
+[2025-12-20 07:22:10](https://bsky.app/profile/usatoday.com/post/3maeq34yhjn25)
 
 ---
 
-@japan.reuters.com
+@apnews.com
 
-米ニューヨーク連銀のウィリアムズ総裁は１９日、連邦準備理事会（ＦＲＢ）が先週に決定した利下げに続く追加利下げを行う差し迫った必要性はないとの見解を示した。 bit.ly/4pJA8Ij
+<strong><span style="color: red;">BREAKING:</span> The DOJ acknowledges to Congress that the Epstein files release is incomplete and expects additional disclosures by end of year.</strong>
 
-[2025-12-20 07:00:41](https://bsky.app/profile/japan.reuters.com/post/3maeoupj6nz2c)
-
----
-
-@nbcnews.com
-
-Australia launches a gun buyback program after the Bondi beach attack.
-
-[2025-12-20 07:00:36](https://bsky.app/profile/nbcnews.com/post/3maeoukuuyv2q)
+[2025-12-20 07:22:09](https://bsky.app/profile/apnews.com/post/3maeq33mi3422)
 
 ---
 
-@bloomberg.com
+@wsj.com
 
-Yale University is creating a new program to offer student loans to graduate and professional students, now that the government is limiting the amount they can borrow though the federal lending program.
+The Justice Department has released files related to the government’s investigation of Jeffrey Epstein, a milestone in a long-running fight over the sex offender’s case.
 
-[2025-12-20 07:00:26](https://bsky.app/profile/bloomberg.com/post/3maeoub2gv52g)
+[2025-12-20 07:20:41](https://bsky.app/profile/wsj.com/post/3maepyiaiww2h)
+
+---
+
+@npr.org
+
+Doctors and children's hospitals say nothing in the evidence has changed to justify the Trump administration's efforts to ban gender-affirming care for teens and tweens. n.pr/4pMl0tF
+
+[2025-12-20 07:20:02](https://bsky.app/profile/npr.org/post/3maepxcouqs24)
 
 ---
 
 @cnn.com
 
-The Department of Homeland Security announced its intention to pause a visa program intended to admit certain individuals to the United States, though it’s unclear whether it’s been suspended entirely. https://cnn.it/4pMPP1x
+The US struck multiple targets in Syria that the US military tied to ISIS as retaliation for the recent attack against American troops there that killed two service members, according to two US officials. https://cnn.it/3KVsLhW
 
-[2025-12-20 07:00:19](https://bsky.app/profile/cnn.com/post/3maeou2fhvf23)
+[2025-12-20 07:19:26](https://bsky.app/profile/cnn.com/post/3maepwakluf2q)
+
+---
+
+@japan.reuters.com
+
+＜為替＞ 円がドルなどの主要通貨に対し大きく下落した。日銀が利上げを決定したものの、今後の追加利上げに関する方針を明確に示さなかったことを受けた。 bit.ly/49lmdCv
+
+[2025-12-20 07:16:14](https://bsky.app/profile/japan.reuters.com/post/3maepqj7dl62n)
+
+---
+
+@japan.reuters.com
+
+台北中心部の主要鉄道駅付近で１９日、刃物を持った男が複数の人を刺すなどし、３人が死亡、５人が負傷した。男は警察の追跡中にビルから転落し死亡した。 bit.ly/3MS1ltO
+
+[2025-12-20 07:15:19](https://bsky.app/profile/japan.reuters.com/post/3maepovd4ir22)
 
 ---
 
