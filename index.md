@@ -1,9 +1,9 @@
-# [2025-12-20 04:30 updated](2025_12_20.md)
+# [2025-12-20 04:50 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Pope Leo names new leader of the Catholic Church in London reut.rs/3Y4vB7m <a href="https://bsky.app/profile/reuters.com/post/3maeg6lksvz2y" target="_blank">reuters.com</a> (2025-12-20 04:25:08)</span><span style="padding-right:50px;">Robinhood is in the midst of a bearish reversal, says Carter Worth <a href="https://bsky.app/profile/cnbc.com/post/3maeg2yg3gn2d" target="_blank">cnbc.com</a> (2025-12-20 04:23:08)</span><span style="padding-right:50px;">This prime rib roast is a perfect centerpiece for a joyous holiday meal. The clear, rich fat that runs into the pan below the meat is also the perfect vehicle for Yorkshire pudding. nyti.ms/4qBksHp <a href="https://bsky.app/profile/nytimes.com/post/3maeg2t4aql2b" target="_blank">nytimes.com</a> (2025-12-20 04:23:02)</span><span style="padding-right:50px;">The White House plans to break up a key weather and climate research center in Colorado, a move experts say could jeopardize the accuracy of forecasting and prediction systems. n.pr/4b0Esyh <a href="https://bsky.app/profile/npr.org/post/3maefsd467c23" target="_blank">npr.org</a> (2025-12-20 04:18:17)</span><span style="padding-right:50px;">片山さつき財務相は１９日、足元の為替円安に関し「一方向で急激な動きがこの半日、この数時間明らかにあるので憂慮している」と述べた。行き過ぎた動きには適切に対応する考えも強調した。主要７カ国（Ｇ７）財務相・中銀総裁会議後、省内で記者団に語った。 bit.ly/49jViqC <a href="https://bsky.app/profile/japan.reuters.com/post/3maefmwbdi42q" target="_blank">japan.reuters.com</a> (2025-12-20 04:15:16)</span>
+<span style="padding-right:50px;">Breaking News: President Trump announced deals with nine drug companies to reduce the prices of some medications. <a href="https://bsky.app/profile/nytimes.com/post/3maehiuvca32y" target="_blank">nytimes.com</a> (2025-12-20 04:48:48)</span><span style="padding-right:50px;">The Kennedy Center installed President Trump’s name on its exterior, a dramatic change to a building established by law as a “living memorial” to a slain president. The signage follows a vote by the board of trustees to rename it “Trump Kennedy Center.” https://wapo.st/48KUjQe <a href="https://bsky.app/profile/washingtonpost.com/post/3maehd65mno2m" target="_blank">washingtonpost.com</a> (2025-12-20 04:45:36)</span><span style="padding-right:50px;">米ニューヨーク連銀のウィリアムズ総裁は１９日、連邦準備理事会（ＦＲＢ）が先週に決定した利下げに続く追加利下げを行う差し迫った必要性はないとの見解を示した。 bit.ly/4s6ZtO3 <a href="https://bsky.app/profile/japan.reuters.com/post/3maehck727h25" target="_blank">japan.reuters.com</a> (2025-12-20 04:45:15)</span><span style="padding-right:50px;">Altimmune's liver disease drug shows benefits in study, but investors remain unimpressed reut.rs/4s3RJMC <a href="https://bsky.app/profile/reuters.com/post/3maehchnqgd2x" target="_blank">reuters.com</a> (2025-12-20 04:45:12)</span><span style="padding-right:50px;">In the Christmas-mad Philippines, thousands cheer as towering hand-crafted lanterns light up the night sky in San Fernando, northwest of the country's capital.  u.afp.com/S8ig <a href="https://bsky.app/profile/en.afp.com/post/3maehcc4kkh2v" target="_blank">en.afp.com</a> (2025-12-20 04:45:07)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48243.96 (🔺269.14 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23282.45 (🔺160.55 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.51 (🔺3.84 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.55 (🔺2.02 : 2025-12-19)</span>
+<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48251.35 (🔺276.53 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23285.63 (🔺163.74 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.63 (🔺3.97 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.53 (🔺2.00 : 2025-12-19)</span>
   </div>
 </div>
 
@@ -30,96 +30,88 @@
 
 ---
 
-## News Headlines
-
-Here are six important stories with headlines:
-
-1. Pope Appoints New Leader of Catholic Church in London
-2. US to Break Up Key Weather and Climate Research Center in Colorado
-3. Russia Demands Hardline Terms for Ukraine Peace Talks
-4. Italy to Celebrate 250th Birthday with Major Celebrations in 2026
-5. US Military Lawyers Ordered to Deport Immigrants 80% of the Time
-6. US to Impose Entrance Fee on Rome's Trevi Fountain to Combat Overtourism
-
-----
-
-@reuters.com
-
-Pope Leo names new leader of the Catholic Church in London reut.rs/3Y4vB7m
-
-[2025-12-20 04:25:08](https://bsky.app/profile/reuters.com/post/3maeg6lksvz2y)
-
----
-
-@cnbc.com
-
-Robinhood is in the midst of a bearish reversal, says Carter Worth
-
-[2025-12-20 04:23:08](https://bsky.app/profile/cnbc.com/post/3maeg2yg3gn2d)
-
----
-
 @nytimes.com
 
-This prime rib roast is a perfect centerpiece for a joyous holiday meal. The clear, rich fat that runs into the pan below the meat is also the perfect vehicle for Yorkshire pudding. nyti.ms/4qBksHp
+<strong><span style="color: red;">Breaking News</span>: President Trump announced deals with nine drug companies to reduce the prices of some medications.</strong>
 
-[2025-12-20 04:23:02](https://bsky.app/profile/nytimes.com/post/3maeg2t4aql2b)
+[2025-12-20 04:48:48](https://bsky.app/profile/nytimes.com/post/3maehiuvca32y)
 
 ---
 
-@npr.org
+@washingtonpost.com
 
-The White House plans to break up a key weather and climate research center in Colorado, a move experts say could jeopardize the accuracy of forecasting and prediction systems. n.pr/4b0Esyh
+The Kennedy Center installed President Trump’s name on its exterior, a dramatic change to a building established by law as a “living memorial” to a slain president. The signage follows a vote by the board of trustees to rename it “Trump Kennedy Center.” https://wapo.st/48KUjQe
 
-[2025-12-20 04:18:17](https://bsky.app/profile/npr.org/post/3maefsd467c23)
+[2025-12-20 04:45:36](https://bsky.app/profile/washingtonpost.com/post/3maehd65mno2m)
 
 ---
 
 @japan.reuters.com
 
-片山さつき財務相は１９日、足元の為替円安に関し「一方向で急激な動きがこの半日、この数時間明らかにあるので憂慮している」と述べた。行き過ぎた動きには適切に対応する考えも強調した。主要７カ国（Ｇ７）財務相・中銀総裁会議後、省内で記者団に語った。 bit.ly/49jViqC
+米ニューヨーク連銀のウィリアムズ総裁は１９日、連邦準備理事会（ＦＲＢ）が先週に決定した利下げに続く追加利下げを行う差し迫った必要性はないとの見解を示した。 bit.ly/4s6ZtO3
 
-[2025-12-20 04:15:16](https://bsky.app/profile/japan.reuters.com/post/3maefmwbdi42q)
+[2025-12-20 04:45:15](https://bsky.app/profile/japan.reuters.com/post/3maehck727h25)
 
 ---
 
 @reuters.com
 
-Maersk tests Red Sea route as Gaza ceasefire offers hope reut.rs/4aYDTFe
+Altimmune's liver disease drug shows benefits in study, but investors remain unimpressed reut.rs/4s3RJMC
 
-[2025-12-20 04:15:15](https://bsky.app/profile/reuters.com/post/3maefmvmui324)
+[2025-12-20 04:45:12](https://bsky.app/profile/reuters.com/post/3maehchnqgd2x)
+
+---
+
+@en.afp.com
+
+In the Christmas-mad Philippines, thousands cheer as towering hand-crafted lanterns light up the night sky in San Fernando, northwest of the country's capital.
+
+u.afp.com/S8ig
+
+[2025-12-20 04:45:07](https://bsky.app/profile/en.afp.com/post/3maehcc4kkh2v)
+
+---
+
+@forbes.com
+
+This weekend’s episode is expected to be his last. 
+
+[2025-12-20 04:45:04](https://bsky.app/profile/forbes.com/post/3maehc7mp452f)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】「建物の2階から炎が見える」 広島市東区牛田新町の住宅で火事
+(2025-12-20 04:34:00) #ニュース
+
+[2025-12-20 04:44:57](https://bsky.app/profile/sokuho.news/post/3maehbz2zb526)
 
 ---
 
 @cnbc.com
 
-This is Jefferies top 2026 real estate play on an aging population. It also pays a solid dividend
+Wall Street heads into the new week with a year-end rally in doubt
 
-[2025-12-20 04:12:58](https://bsky.app/profile/cnbc.com/post/3maefit3clr2i)
-
----
-
-@wsj.com
-
-The tightly-choreographed back and forth between the Russian president and average citizens comes as talks continue on finding a path to end the conflict.
-
-[2025-12-20 04:12:50](https://bsky.app/profile/wsj.com/post/3maefiktn2y2u)
+[2025-12-20 04:44:51](https://bsky.app/profile/cnbc.com/post/3maehbtjypf2i)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@cnn.com
 
-Australia was seen as a world leader in gun control - Bondi has exposed a more complicated reality
+Trump announces "Most Favored Nation" deals with nine drug companies, aiming to lower prices for US patients https://cnn.it/45jzskF
 
-[2025-12-20 04:12:33](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maefi3i62c2r)
+[2025-12-20 04:44:35](https://bsky.app/profile/cnn.com/post/3maehbdpg7v2b)
 
 ---
 
-@reuters.com
+@nytimes.com
 
-BioMarin to buy Amicus Therapeutics for $4.8 billion in rare disease bet reut.rs/4pXXD0g
+The Botanical Collection started out as a hobby for Lego designers, who were building plants and flowers only to keep around the office before the company decided to create a portfolio of botanical designs specifically for grown-ups. nyti.ms/4qc1BlK
 
-[2025-12-20 04:10:22](https://bsky.app/profile/reuters.com/post/3maefe5zf4h2b)
+[2025-12-20 04:42:06](https://bsky.app/profile/nytimes.com/post/3maeh4vsx3u2s)
 
 ---
 
