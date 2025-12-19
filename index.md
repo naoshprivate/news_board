@@ -1,9 +1,9 @@
-# [2025-12-19 16:10 updated](2025_12_19.md)
+# [2025-12-19 16:30 updated](2025_12_19.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">シドニー株式市場の株価は上昇。金融株が上げを主導した。 bit.ly/3KCCYQk <a href="https://bsky.app/profile/japan.reuters.com/post/3mad52hwt6j2n" target="_blank">japan.reuters.com</a> (2025-12-19 16:09:07)</span><span style="padding-right:50px;">株価 値上がり 日銀利上げ決定で金融関連銘柄に買い注文広がる https://news.web.nhk/newsweb/na/na-k10015008301000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mad4v27wk22s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 16:06:03)</span><span style="padding-right:50px;">US military says it carried out strikes on two vessels, killing five reut.rs/4pLhQ9A <a href="https://bsky.app/profile/reuters.com/post/3mad4to2t672y" target="_blank">reuters.com</a> (2025-12-19 16:05:19)</span><span style="padding-right:50px;">豪連邦裁判所は金融大手ＡＮＺグループに対し、１４０億豪ドルの国債取引を巡る不適切な処理などについて２億５０００万豪ドル（１億６５２５万ドル）の罰金を科した。オーストラリア証券投資委員会（ＡＳＩＣ）が１９日に発表した。 bit.ly/4j4Dmnf <a href="https://bsky.app/profile/japan.reuters.com/post/3mad4pc2c3r2u" target="_blank">japan.reuters.com</a> (2025-12-19 16:02:52)</span><span style="padding-right:50px;">The GOP-controlled House passed a bill that would block Medicaid funds from being used for gender identity care to minors.  <a href="https://bsky.app/profile/cnn.com/post/3mad4nrs5652o" target="_blank">cnn.com</a> (2025-12-19 16:02:01)</span>
+<span style="padding-right:50px;">東京株式市場で日経平均は、前営業日比５０５円７１銭高の４万９５０７円２１銭と反発して取引を終えた。正午過ぎに日銀が金融政策決定会合で利上げを決めたことが伝わり、いったん材料出尽くしが意識されて後場に一段高になる場面があった。一方、引け後に控える植田和男総裁の記者会見を見極めたいとのムードも残り、買い一巡後は方向感に乏しくなった。 bit.ly/4q9MskQ <a href="https://bsky.app/profile/japan.reuters.com/post/3mad5mfyzub2n" target="_blank">japan.reuters.com</a> (2025-12-19 16:19:09)</span><span style="padding-right:50px;">Violent protests have erupted in Bangladesh, after the killing of youth leader Sharif Osman Hadi. Protesters burnt down buildings and vandalised offices, including the HQ of the largest daily newspaper. Hadi was standing as a candidate in elections scheduled for early next year. <a href="https://bsky.app/profile/aljazeera.com/post/3mad5ij4mdk2i" target="_blank">aljazeera.com</a> (2025-12-19 16:16:58)</span><span style="padding-right:50px;">UK borrows 11.7 billion pounds in November, ONS says reut.rs/4s2DYxI <a href="https://bsky.app/profile/reuters.com/post/3mad5feopuq2y" target="_blank">reuters.com</a> (2025-12-19 16:15:13)</span><span style="padding-right:50px;">NBA レイカーズ 八村塁 3試合ぶりのふた桁13得点で勝利に貢献 https://news.web.nhk/newsweb/na/na-k10015008491000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mad5f56lo22v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 16:15:03)</span><span style="padding-right:50px;">米国土安全保障省のノーム長官は１８日夜、米国市民権・移民局に対し、多様性抽選移民ビザ（ＤＶ１）制度を一時停止するよう指示したと述べた。 bit.ly/4qhMcR2 <a href="https://bsky.app/profile/japan.reuters.com/post/3mad5dpzql42c" target="_blank">japan.reuters.com</a> (2025-12-19 16:14:18)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 156.16 (🔺0.64 : 2025-12-19)</span>
+<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 156.22 (🔺0.69 : 2025-12-19)</span>
   </div>
 </div>
 
@@ -32,14 +32,73 @@
 
 ## News Headlines
 
-1. Bank of Japan Raises Interest Rates to 30-Year High
-2. US Military Strikes Two Vessels, Killing Five
-3. Australian Court Fines ANZ Group $25M Over Unseemly Trading Practices
-4. Trump Administration Halts Green Card Lottery Program
-5. Bank of Japan Raises Interest Rates, Signals Further Hikes
-6. Islamic State Calls Palmyra Attack a Blow to US and Syrian Forces
+Here are six news headlines in English:
+
+1. Japan's Nikkei Average Rises 505.71 Yen to 49,507.21 Yen
+2. Bangladesh Erupts in Violent Protests After Youth Leader's Killing
+3. US Borrows 11.7 Billion Pounds in November, ONS Says
+4. ByteDance Forms Joint Venture to Avoid US TikTok Ban
+5. Bank of Japan Raises Interest Rates to 30-Year High, Signals More Hikes
+6. Trump Administration Halts Green Card Lottery Program Citing Security Concerns
 
 ----
+
+@japan.reuters.com
+
+東京株式市場で日経平均は、前営業日比５０５円７１銭高の４万９５０７円２１銭と反発して取引を終えた。正午過ぎに日銀が金融政策決定会合で利上げを決めたことが伝わり、いったん材料出尽くしが意識されて後場に一段高になる場面があった。一方、引け後に控える植田和男総裁の記者会見を見極めたいとのムードも残り、買い一巡後は方向感に乏しくなった。 bit.ly/4q9MskQ
+
+[2025-12-19 16:19:09](https://bsky.app/profile/japan.reuters.com/post/3mad5mfyzub2n)
+
+---
+
+@aljazeera.com
+
+Violent protests have erupted in Bangladesh, after the killing of youth leader Sharif Osman Hadi. Protesters burnt down buildings and vandalised offices, including the HQ of the largest daily newspaper. Hadi was standing as a candidate in elections scheduled for early next year.
+
+[2025-12-19 16:16:58](https://bsky.app/profile/aljazeera.com/post/3mad5ij4mdk2i)
+
+---
+
+@reuters.com
+
+UK borrows 11.7 billion pounds in November, ONS says reut.rs/4s2DYxI
+
+[2025-12-19 16:15:13](https://bsky.app/profile/reuters.com/post/3mad5feopuq2y)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+NBA レイカーズ 八村塁 3試合ぶりのふた桁13得点で勝利に貢献
+https://news.web.nhk/newsweb/na/na-k10015008491000
+
+[2025-12-19 16:15:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mad5f56lo22v)
+
+---
+
+@japan.reuters.com
+
+米国土安全保障省のノーム長官は１８日夜、米国市民権・移民局に対し、多様性抽選移民ビザ（ＤＶ１）制度を一時停止するよう指示したと述べた。 bit.ly/4qhMcR2
+
+[2025-12-19 16:14:18](https://bsky.app/profile/japan.reuters.com/post/3mad5dpzql42c)
+
+---
+
+@japan.reuters.com
+
+中国系動画投稿アプリ「ＴｉｋＴｏｋ（ティックトック）」が米政府による禁止措置を回避するため、米投資家主導の企業連合に米国事業の８０％強を売却する契約を締結した。ティックトックの周受資最高経営責任者（ＣＥＯ）が１８日、従業員に伝えた。 bit.ly/4pVMuNF
+
+[2025-12-19 16:10:31](https://bsky.app/profile/japan.reuters.com/post/3mad54xkuio2f)
+
+---
+
+@reuters.com
+
+Trump urges 2028 astronaut moon landing in sweeping space policy order reut.rs/4s6M7kG
+
+[2025-12-19 16:10:17](https://bsky.app/profile/reuters.com/post/3mad54kxclp24)
+
+---
 
 @japan.reuters.com
 
@@ -63,70 +122,6 @@ https://news.web.nhk/newsweb/na/na-k10015008301000
 US military says it carried out strikes on two vessels, killing five reut.rs/4pLhQ9A
 
 [2025-12-19 16:05:19](https://bsky.app/profile/reuters.com/post/3mad4to2t672y)
-
----
-
-@japan.reuters.com
-
-豪連邦裁判所は金融大手ＡＮＺグループに対し、１４０億豪ドルの国債取引を巡る不適切な処理などについて２億５０００万豪ドル（１億６５２５万ドル）の罰金を科した。オーストラリア証券投資委員会（ＡＳＩＣ）が１９日に発表した。 bit.ly/4j4Dmnf
-
-[2025-12-19 16:02:52](https://bsky.app/profile/japan.reuters.com/post/3mad4pc2c3r2u)
-
----
-
-@cnn.com
-
-The GOP-controlled House passed a bill that would block Medicaid funds from being used for gender identity care to minors. 
-
-[2025-12-19 16:02:01](https://bsky.app/profile/cnn.com/post/3mad4nrs5652o)
-
----
-
-@bloomberg.com
-
-Bonus checks. New holidays. A return to the moon. In the span of less than 24 hours, President Donald Trump has unveiled a series of initiatives with widespread appeal — with promises of more to come — as he also contends with falling popularity and economic uncertainty.
-
-[2025-12-19 16:01:53](https://bsky.app/profile/bloomberg.com/post/3mad4nk23ir2h)
-
----
-
-@japan.reuters.com
-
-日銀は１８、１９日に開いた金融政策決定会合で、政策金利である無担保コール翌日物金利の誘導目標を０．７５％に引き上げることを全員一致で決めた。利上げは１月以来。政策金利は１９９５年９月以来、３０年ぶりの高水準となった。企業への聞き取りなどを踏まえ、賃金と物価がともに緩やかに上昇していくメカニズムが維持される可能性が高いと判断、経済・物価の中心的な見通しが実現する確度は高まっているとした。 bit.ly/3L31fyV
-
-[2025-12-19 16:01:44](https://bsky.app/profile/japan.reuters.com/post/3mad4naxhdz27)
-
----
-
-@nikkei.com
-
-【動物実験を代替】　
-サイフューズ、細胞の集合体で肝臓を再現
-www.nikkei.com/article/DGXZQO...
-
-健康な時や肝炎が起きた時の肝臓の状態を再現しており、薬の効果検証に活用できます。
-
-近年は動物愛護など倫理的な観点から動物実験を減らすべきだとの意識が高まっており、人の病態を再現することで置き換え需要を見込みます。
-
-動物を使っての薬剤の効果検証は、人への効果と一致しないことも多く、創薬の不確実性を高める一因になっています。
-
-[2025-12-19 16:00:40](https://bsky.app/profile/nikkei.com/post/3mad4leba7x2c)
-
----
-
-@reuters.com
-
-Warner Bros Discovery shareholder Harris Associates says open to revised Paramount bid reut.rs/45jww7F
-
-[2025-12-19 16:00:33](https://bsky.app/profile/reuters.com/post/3mad4l5vtks2o)
-
----
-
-@apnews.com
-
-Jake Paul proudly boasts he has become the face of boxing during the past decade. Now the YouTuber-turned-fighter is ready to embark on his riskiest ring venture yet.
-
-[2025-12-19 16:00:29](https://bsky.app/profile/apnews.com/post/3mad4kzfchz23)
 
 ---
 
