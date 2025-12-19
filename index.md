@@ -1,9 +1,9 @@
-# [2025-12-19 17:10 updated](2025_12_19.md)
+# [2025-12-19 17:30 updated](2025_12_19.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">政府は１９日に公表した１２月の月例経済報告で、景気の基調判断を１６カ月連続で据え置き、「緩やかに回復している」のままとした。先行きについても前月から書きぶりを変えず、雇用や所得環境の改善が景気回復を下支えするとみる一方、米国の通商政策や物価上昇をリスク要因に挙げた。 bit.ly/3Y09mPR <a href="https://bsky.app/profile/japan.reuters.com/post/3madaf3uara2p" target="_blank">japan.reuters.com</a> (2025-12-19 17:08:45)</span><span style="padding-right:50px;">赤沢亮正経済産業相は１９日の閣議後会見で、日銀が０．７５％への追加利上げを決定したことを受け「経済界には一定の影響が出ることは考えられえる。それについては注視していきたい」と述べた。 bit.ly/4p1cMN2 <a href="https://bsky.app/profile/japan.reuters.com/post/3mada6tn3of2c" target="_blank">japan.reuters.com</a> (2025-12-19 17:05:10)</span><span style="padding-right:50px;">Australia's 'Bondi Hero' handed $1.65 mln collected from fundraising reut.rs/4aTCnEo <a href="https://bsky.app/profile/reuters.com/post/3mada6nut342p" target="_blank">reuters.com</a> (2025-12-19 17:05:09)</span><span style="padding-right:50px;">投資運用業などを手掛けるスパークス・グループは１９日、株主優待制度を導入すると発表した。株式の流動性向上や投資家層拡大を図る。 bit.ly/4qnXFPb <a href="https://bsky.app/profile/japan.reuters.com/post/3mada2ctbai2p" target="_blank">japan.reuters.com</a> (2025-12-19 17:02:43)</span><span style="padding-right:50px;">EU leaders announced a multi-billion dollar funding plan for Ukraine’s economy and military for the next two years – with the package funded for now by borrowing cash and not tapping into billions of dollars of frozen Russian assets held in the bloc.  <a href="https://bsky.app/profile/cnn.com/post/3mad7z33g3z26" target="_blank">cnn.com</a> (2025-12-19 17:02:01)</span>
+<span style="padding-right:50px;">ニデックは１９日、永守重信氏が同日付で代表取締役グローバルグループ代表を辞任したと発表した。本人の意向によるものという。永守氏が務めていた取締役会議長の後任には、岸田光哉社長が就く。 bit.ly/4sanIeo <a href="https://bsky.app/profile/japan.reuters.com/post/3madbjcgmni2p" target="_blank">japan.reuters.com</a> (2025-12-19 17:29:00)</span><span style="padding-right:50px;">英国立統計局（ＯＮＳ）が１９日発表した１１月の公的部門純借入額は１１７億ポンド（１５６億４０００万ドル）だった。１１月の財政赤字としては２０２１年以来最小となったものの、エコノミスト予想（１００億ポンド）以上の規模となった。 bit.ly/4qfGnDs <a href="https://bsky.app/profile/japan.reuters.com/post/3madbesfihi2p" target="_blank">japan.reuters.com</a> (2025-12-19 17:26:29)</span><span style="padding-right:50px;">イングランド銀行（英中央銀行）は１８日、政策金利を０．２５％ポイント引き下げ３．７５％とすることを決定した。５対４の僅差での決定で、すでに緩やかなペースとなっている利下げが今後さらに減速する可能性を示唆した。 bit.ly/4j4HHH3 <a href="https://bsky.app/profile/japan.reuters.com/post/3madbculfrr2q" target="_blank">japan.reuters.com</a> (2025-12-19 17:25:24)</span><span style="padding-right:50px;">Oilers goalie Tristan Jarry leaves with injury reut.rs/4aXFqeI <a href="https://bsky.app/profile/reuters.com/post/3madbcotq632o" target="_blank">reuters.com</a> (2025-12-19 17:25:18)</span><span style="padding-right:50px;">中立金利とは　景気を刺激も冷やしもしない水準（無料記事） www.nikkei.com/article/DGXZQO... <a href="https://bsky.app/profile/nikkei.com/post/3madbalyvi726" target="_blank">nikkei.com</a> (2025-12-19 17:24:08)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 156.82 (🔺1.29 : 2025-12-19)</span>
+<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 156.81 (🔺1.28 : 2025-12-19)</span>
   </div>
 </div>
 
@@ -34,95 +34,97 @@
 
 Here are six important stories with headlines in English:
 
-1. Japan Maintains Cautionary Tone on Economic Recovery
-2. BOJ's Kuroda: Policy Rate May Rise if Economy and Inflation Meet Projections
-3. EU Leaders Agree to Provide $105 Billion Interest-Free Loan to Ukraine
-4. ECB's Lagarde Says EU Leaders' Meeting on Ukraine Was Productive
-5. US Inflation Rate Falls to 3.1% in November, Easing Pressure on Fed
-6. Japan's LDP and Komeito Parties Agree on Tax Reform Outline
+1. Nidec CEO to Step Down Amid Accounting Scandal
+2. UK Budget Deficit Hits Record Low in November Despite Larger Than Expected Deficit
+3. Bank of England Cuts Interest Rates to 3.75% Amid Economic Uncertainty
+4. France Sees Moderate Economic Growth in Next Few Years Despite Ongoing Uncertainty
+5. Japanese Government Keeps Economic Outlook Steady as Inflation Concerns Persist
+6. Japan's Central Bank to Maintain Expansionary Monetary Policy Amid Economic Uncertainty
 
 ----
 
 @japan.reuters.com
 
-政府は１９日に公表した１２月の月例経済報告で、景気の基調判断を１６カ月連続で据え置き、「緩やかに回復している」のままとした。先行きについても前月から書きぶりを変えず、雇用や所得環境の改善が景気回復を下支えするとみる一方、米国の通商政策や物価上昇をリスク要因に挙げた。 bit.ly/3Y09mPR
+ニデックは１９日、永守重信氏が同日付で代表取締役グローバルグループ代表を辞任したと発表した。本人の意向によるものという。永守氏が務めていた取締役会議長の後任には、岸田光哉社長が就く。 bit.ly/4sanIeo
 
-[2025-12-19 17:08:45](https://bsky.app/profile/japan.reuters.com/post/3madaf3uara2p)
+[2025-12-19 17:29:00](https://bsky.app/profile/japan.reuters.com/post/3madbjcgmni2p)
 
 ---
 
 @japan.reuters.com
 
-赤沢亮正経済産業相は１９日の閣議後会見で、日銀が０．７５％への追加利上げを決定したことを受け「経済界には一定の影響が出ることは考えられえる。それについては注視していきたい」と述べた。 bit.ly/4p1cMN2
+英国立統計局（ＯＮＳ）が１９日発表した１１月の公的部門純借入額は１１７億ポンド（１５６億４０００万ドル）だった。１１月の財政赤字としては２０２１年以来最小となったものの、エコノミスト予想（１００億ポンド）以上の規模となった。 bit.ly/4qfGnDs
 
-[2025-12-19 17:05:10](https://bsky.app/profile/japan.reuters.com/post/3mada6tn3of2c)
+[2025-12-19 17:26:29](https://bsky.app/profile/japan.reuters.com/post/3madbesfihi2p)
+
+---
+
+@japan.reuters.com
+
+イングランド銀行（英中央銀行）は１８日、政策金利を０．２５％ポイント引き下げ３．７５％とすることを決定した。５対４の僅差での決定で、すでに緩やかなペースとなっている利下げが今後さらに減速する可能性を示唆した。 bit.ly/4j4HHH3
+
+[2025-12-19 17:25:24](https://bsky.app/profile/japan.reuters.com/post/3madbculfrr2q)
 
 ---
 
 @reuters.com
 
-Australia's 'Bondi Hero' handed $1.65 mln collected from fundraising reut.rs/4aTCnEo
+Oilers goalie Tristan Jarry leaves with injury reut.rs/4aXFqeI
 
-[2025-12-19 17:05:09](https://bsky.app/profile/reuters.com/post/3mada6nut342p)
-
----
-
-@japan.reuters.com
-
-投資運用業などを手掛けるスパークス・グループは１９日、株主優待制度を導入すると発表した。株式の流動性向上や投資家層拡大を図る。 bit.ly/4qnXFPb
-
-[2025-12-19 17:02:43](https://bsky.app/profile/japan.reuters.com/post/3mada2ctbai2p)
+[2025-12-19 17:25:18](https://bsky.app/profile/reuters.com/post/3madbcotq632o)
 
 ---
 
-@cnn.com
+@nikkei.com
 
-EU leaders announced a multi-billion dollar funding plan for Ukraine’s economy and military for the next two years – with the package funded for now by borrowing cash and not tapping into billions of dollars of frozen Russian assets held in the bloc. 
+中立金利とは　景気を刺激も冷やしもしない水準（無料記事）
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-19 17:02:01](https://bsky.app/profile/cnn.com/post/3mad7z33g3z26)
+[2025-12-19 17:24:08](https://bsky.app/profile/nikkei.com/post/3madbalyvi726)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+ニデック永守重信氏 代表取締役辞任 不適切会計問題で調査中
+https://news.web.nhk/newsweb/na/na-k10015008591000
+
+[2025-12-19 17:24:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madbbnl3kb2b)
 
 ---
 
 @sokuho.news
 
-🛎️文春より【スクープ】です。
+<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>ニデック永守重信氏 代表取締役辞任 不適切会計問題で調査中</strong><br><strong>(2025-12-19 17:21:59) #ニュース</strong><br><strong>https://news.web.nhk/newsweb/na/na-k10015008591000</strong>
 
-【紅白“落選”の裏側】AKB篠田麻里子が選外となった理由に“例の騒動”「紅白側は篠田抜きで出演してほしいと最終判断」
-(2025-12-19 17:00) #ニュース
-
-[2025-12-19 17:00:41](https://bsky.app/profile/sokuho.news/post/3mad7wof6ed2a)
-
----
-
-@reuters.com
-
-Sport-Dodgers and Panthers repeat as Thunder, Inter Miami launch new eras in 2025 reut.rs/4apjtFi
-
-[2025-12-19 17:00:33](https://bsky.app/profile/reuters.com/post/3mad7whheqp2b)
+[2025-12-19 17:22:21](https://bsky.app/profile/sokuho.news/post/3madb5gjxhw2v)
 
 ---
 
 @japan.reuters.com
 
-アジア時間の原油先物は軟調。２週連続で下落する見通しとなっている。ロシアとウクライナの和平合意への期待が高まり、ベネズエラの石油タンカー封鎖による供給障害への懸念が相殺された。 bit.ly/48XG6y3
+現物市場で新発１０年国債利回り（長期金利）は前日比３．５ベーシスポイント（ｂｐ）上昇の２．０００％と、２００６年５月以来１９年半ぶりの高水準を付けた。新発２年国債利回りは同２．０ｂｐ上昇の１．０８５％と、０７年６月以来１８年半ぶり高水準を付けた。 bit.ly/4pTKcPi
 
-[2025-12-19 17:00:31](https://bsky.app/profile/japan.reuters.com/post/3mad7wer5q72f)
-
----
-
-@bloomberg.com
-
-President Trump said he was interviewing “three or four” candidates for Federal Reserve chair and expected to have a decision pretty quickly.
-
-[2025-12-19 17:00:12](https://bsky.app/profile/bloomberg.com/post/3mad7vsj3d52f)
+[2025-12-19 17:20:26](https://bsky.app/profile/japan.reuters.com/post/3madb3muxfi2u)
 
 ---
 
-@aljazeera.com
+@japan.reuters.com
 
-RSF artillery strikes kill 16 civilians in Sudan’s embattled Kordofan https://aje.io/utzses
+フランス銀行（中央銀行）は１９日、長期経済予測を更新した。政治的な不透明感が解消されれば、家計消費の回復や企業投資に支えられ、今後数年間は緩やかながらも着実な成長を遂げるとの見通しを示した。 bit.ly/44BYf3d
 
-[2025-12-19 17:00:04](https://bsky.app/profile/aljazeera.com/post/3mad7vl73du2v)
+[2025-12-19 17:20:12](https://bsky.app/profile/japan.reuters.com/post/3madazlid5q22)
+
+---
+
+@sokuho.news
+
+🔔NHKより【速報】です。
+
+二デック永守重信氏 代表取締役を辞任 不適切会計問題で第三者委の調査進む中
+(2025-12-19 17:18) #ニュース
+
+[2025-12-19 17:19:09](https://bsky.app/profile/sokuho.news/post/3madaxoyxea2y)
 
 ---
 
