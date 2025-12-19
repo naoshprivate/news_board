@@ -1,9 +1,9 @@
-# [2025-12-20 01:50 updated](2025_12_20.md)
+# [2025-12-20 02:05 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Breaking News: Workers began adding President Trump’s name to the Kennedy Center, despite no action by Congress to legally rename it. This sparked outrage among the Kennedy family, since it was built to be a living memorial to the 35th president. <a href="https://bsky.app/profile/nytimes.com/post/3mae5hfd4ix2y" target="_blank">nytimes.com</a> (2025-12-20 01:49:00)</span><span style="padding-right:50px;">For some, dictionaries are more than writing tools. They are doorways to discoveries. on.wsj.com/49gMP7H <a href="https://bsky.app/profile/wsj.com/post/3mae5h4gf2w2k" target="_blank">wsj.com</a> (2025-12-20 01:48:51)</span><span style="padding-right:50px;">Roman North Africa went from a place where Christians were persecuted to a region known for its devotion. on.wsj.com/4alBFj5 <a href="https://bsky.app/profile/wsj.com/post/3mae5d6bhnz2t" target="_blank">wsj.com</a> (2025-12-20 01:46:38)</span><span style="padding-right:50px;">US lawmakers urge Pentagon to add DeepSeek, Xiaomi to list of firms allegedly aiding Chinese military reut.rs/4s70kOM <a href="https://bsky.app/profile/reuters.com/post/3mae5avvile24" target="_blank">reuters.com</a> (2025-12-20 01:45:23)</span><span style="padding-right:50px;">Deputy Attorney General Todd Blanche said Friday the administration will not release all of its Epstein files Friday, as it’s legally required to do. <a href="https://bsky.app/profile/forbes.com/post/3mae5adlnsp2z" target="_blank">forbes.com</a> (2025-12-20 01:45:03)</span>
+<span style="padding-right:50px;">Google's boomerang year: 20% of AI software engineers hired in 2025 were ex-employees <a href="https://bsky.app/profile/cnbc.com/post/3mae6afmcbu2e" target="_blank">cnbc.com</a> (2025-12-20 02:02:59)</span><span style="padding-right:50px;">Globe-trotting homeowners channeled years of five-star travel into the design of their South Carolina home. on.wsj.com/4aWvKB5 <a href="https://bsky.app/profile/wsj.com/post/3mae67grr772k" target="_blank">wsj.com</a> (2025-12-20 02:02:27)</span><span style="padding-right:50px;">ARKO Petroleum discloses nine-month revenue fall in US IPO paperwork reut.rs/494deV4 <a href="https://bsky.app/profile/reuters.com/post/3mae65txzbg24" target="_blank">reuters.com</a> (2025-12-20 02:01:34)</span><span style="padding-right:50px;">As the planet warms, subway systems in major cities have struggled to cope with floods far beyond what they were originally designed to handle.   This is what it will take to protect the New York subway — and its nearly 1.2 billion annual riders. <a href="https://bsky.app/profile/washingtonpost.com/post/3mae64im4vv2p" target="_blank">washingtonpost.com</a> (2025-12-20 02:00:48)</span><span style="padding-right:50px;">Russian personnel with links to the country’s military and security services have engaged in spying in European waters while working covertly on ships carrying Russian oil, Western and Ukrainian intelligence sources exclusively told CNN. https://cnn.it/491TEZG <a href="https://bsky.app/profile/cnn.com/post/3mae64g4qcr2v" target="_blank">cnn.com</a> (2025-12-20 02:00:46)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48219.70 (🔺244.88 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23223.35 (🔺101.45 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 179.47 (🔺2.81 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.41 (🔺1.88 : 2025-12-19)</span>
+<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48227.89 (🔺253.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23254.06 (🔺132.16 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.16 (🔺3.50 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.46 (🔺1.93 : 2025-12-19)</span>
   </div>
 </div>
 
@@ -32,94 +32,96 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are six news headlines in English:
 
-1. Trump's Name Added to Kennedy Center Despite No Congressional Approval
-2. US Lawmakers Urge Pentagon to Add Xiaomi to List of Firms Allegedly Aiding Chinese Military
-3. US to Release Some Epstein Files, but Not All, as Deadline Looms
-4. No Longer Famine in Gaza, UN Announces After Humanitarian Aid Influx
-5. Putin Claims No Willingness from Ukraine to Negotiate Peace, Kyiv Denies
-6. UN Refugee Agency Reports Women and Children Arriving Exhausted and Traumatized from Eastern DRC
+1. Russia Spies Caught Operating in European Waters Through Oil Shipments
+2. New York Subway Confronts Floods: A $50 Billion Upgrade to Save a $10 Billion System
+3. UN Says No Famine in Gaza After Ceasefire, Humanitarian Aid
+4. US Treasury to Proceed with Sales of Treasury Bills and Coupons in December
+5. Wildfire Fighters to Receive $450,000 Payment, College Tuition under New Law
+6. Avatar: Fire and Ash Snares $12 Million in Thursday Previews
 
 ----
 
-@nytimes.com
-
-<strong><span style="color: red;">Breaking News</span>: Workers began adding President Trump’s name to the Kennedy Center, despite no action by Congress to legally rename it. This sparked outrage among the Kennedy family, since it was built to be a living memorial to the 35th president.</strong>
-
-[2025-12-20 01:49:00](https://bsky.app/profile/nytimes.com/post/3mae5hfd4ix2y)
-
----
-
-@wsj.com
-
-For some, dictionaries are more than writing tools. They are doorways to discoveries. on.wsj.com/49gMP7H
-
-[2025-12-20 01:48:51](https://bsky.app/profile/wsj.com/post/3mae5h4gf2w2k)
-
----
-
-@wsj.com
-
-Roman North Africa went from a place where Christians were persecuted to a region known for its devotion. on.wsj.com/4alBFj5
-
-[2025-12-20 01:46:38](https://bsky.app/profile/wsj.com/post/3mae5d6bhnz2t)
-
----
-
-@reuters.com
-
-US lawmakers urge Pentagon to add DeepSeek, Xiaomi to list of firms allegedly aiding Chinese military reut.rs/4s70kOM
-
-[2025-12-20 01:45:23](https://bsky.app/profile/reuters.com/post/3mae5avvile24)
-
----
-
-@forbes.com
-
-Deputy Attorney General Todd Blanche said Friday the administration will not release all of its Epstein files Friday, as it’s legally required to do.
-
-[2025-12-20 01:45:03](https://bsky.app/profile/forbes.com/post/3mae5adlnsp2z)
-
----
-
 @cnbc.com
 
-'Avatar: Fire and Ash' snares $12 million in Thursday previews
+Google's boomerang year: 20% of AI software engineers hired in 2025 were ex-employees
 
-[2025-12-20 01:45:00](https://bsky.app/profile/cnbc.com/post/3mae5a7rcbr24)
+[2025-12-20 02:02:59](https://bsky.app/profile/cnbc.com/post/3mae6afmcbu2e)
 
 ---
 
 @wsj.com
 
-The magazine introduced many now-classic works by writers including Longfellow, Whitman and Frost. on.wsj.com/3NaKuCw
+Globe-trotting homeowners channeled years of five-star travel into the design of their South Carolina home. on.wsj.com/4aWvKB5
 
-[2025-12-20 01:42:05](https://bsky.app/profile/wsj.com/post/3mae52zms2o2k)
-
----
-
-@axios.com
-
-American Airlines tightens frequent flyer perks on basic economy tickets
-
-[2025-12-20 01:41:54](https://bsky.app/profile/axios.com/post/3mae52p5dyk22)
+[2025-12-20 02:02:27](https://bsky.app/profile/wsj.com/post/3mae67grr772k)
 
 ---
 
 @reuters.com
 
-Google Cloud lands deal with Palo Alto Networks 'approaching $10 billion,' per source reut.rs/44DH6WW
+ARKO Petroleum discloses nine-month revenue fall in US IPO paperwork reut.rs/494deV4
 
-[2025-12-20 01:40:32](https://bsky.app/profile/reuters.com/post/3mae4yatmk32k)
+[2025-12-20 02:01:34](https://bsky.app/profile/reuters.com/post/3mae65txzbg24)
+
+---
+
+@washingtonpost.com
+
+As the planet warms, subway systems in major cities have struggled to cope with floods far beyond what they were originally designed to handle. 
+
+This is what it will take to protect the New York subway — and its nearly 1.2 billion annual riders.
+
+[2025-12-20 02:00:48](https://bsky.app/profile/washingtonpost.com/post/3mae64im4vv2p)
+
+---
+
+@cnn.com
+
+Russian personnel with links to the country’s military and security services have engaged in spying in European waters while working covertly on ships carrying Russian oil, Western and Ukrainian intelligence sources exclusively told CNN. https://cnn.it/491TEZG
+
+[2025-12-20 02:00:46](https://bsky.app/profile/cnn.com/post/3mae64g4qcr2v)
+
+---
+
+@usatoday.com
+
+A post on Reddit described a chance encounter with the Brown shooting suspect. It helped crack the whole case, officials said.
+
+[2025-12-20 02:00:15](https://bsky.app/profile/usatoday.com/post/3mae63j6qia2w)
 
 ---
 
 @nbcnews.com
 
-A jury found a Wisconsin judge accused of helping a Mexican immigrant dodge federal authorities guilty of obstruction.
+A German court jails a man for repeatedly drugging his wife, sexually assaulting her and posting videos of the attacks online, in a case that has drawn comparisons with a high‑profile French trial last year.
 
-[2025-12-20 01:40:08](https://bsky.app/profile/nbcnews.com/post/3mae4xjvodf26)
+[2025-12-20 02:00:14](https://bsky.app/profile/nbcnews.com/post/3mae63hoex524)
+
+---
+
+@bloomberg.com
+
+How have Canadian consumers held up so well under tough economic circumstances this year? Christine Dobby explains all in our Bay Street Edition newsletter
+
+[2025-12-20 02:00:12](https://bsky.app/profile/bloomberg.com/post/3mae63g7z5l23)
+
+---
+
+@apnews.com
+
+Florida's Supreme Court has upheld a state law allowing nonunanimous juries to sentence people to death.
+
+[2025-12-20 02:00:08](https://bsky.app/profile/apnews.com/post/3mae63cd7zc2q)
+
+---
+
+@aljazeera.com
+
+Israel, Lebanon officials meet as pressure mounts to disarm Hezbollah https://aje.io/arw4hp
+
+[2025-12-20 02:00:03](https://bsky.app/profile/aljazeera.com/post/3mae636433d27)
 
 ---
 
