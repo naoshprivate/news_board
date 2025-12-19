@@ -1,9 +1,9 @@
-# [2025-12-20 07:50 updated](2025_12_20.md)
+# [2025-12-20 08:10 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">US to strip alleged Bosnian war criminal's citizenship <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maerf4dek72z" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-20 07:45:38)</span><span style="padding-right:50px;">全米リアルター協会（ＮＡＲ）が１９日に発表した１１月の米中古住宅販売戸数（季節調整済み）は年率換算で前月比０．５％増の４１３万戸となった。ロイターがまとめたエコノミスト予想は４１５万戸。経済の不透明感や高水準にある住宅ローン金利で需要が抑制されたほか、市場に出回る在庫が限られたため、わずかな伸びにとどまった。前年同月比では１．０％減少した。 bit.ly/3LcC6lx <a href="https://bsky.app/profile/japan.reuters.com/post/3maeredjqbb2q" target="_blank">japan.reuters.com</a> (2025-12-20 07:45:13)</span><span style="padding-right:50px;">US issues sanctions on family members and associates of Venezuela's Maduro reut.rs/45l11dp <a href="https://bsky.app/profile/reuters.com/post/3maered3lrf2c" target="_blank">reuters.com</a> (2025-12-20 07:45:12)</span><span style="padding-right:50px;">Breaking news: The Trump administration plans to shift the federal government away from directly recommending most vaccines for children and suggest parents consult with doctors to make their own vaccine choices. <a href="https://bsky.app/profile/washingtonpost.com/post/3maerapkkun24" target="_blank">washingtonpost.com</a> (2025-12-20 07:43:11)</span><span style="padding-right:50px;">Lebanon drafts law to address funding shortfalls in financial system reut.rs/4qiK1fU <a href="https://bsky.app/profile/reuters.com/post/3maer3laolo2i" target="_blank">reuters.com</a> (2025-12-20 07:40:19)</span>
+<span style="padding-right:50px;">BREAKING: U.S. forces begin strike against ISIS infrastructure and weapons sites in Syria in retaliation for an attack that killed three Americans. <a href="https://bsky.app/profile/nbcnews.com/post/3maesmybnsx2n" target="_blank">nbcnews.com</a> (2025-12-20 08:07:57)</span><span style="padding-right:50px;">トランプ米大統領は８月、首都ワシントンで犯罪取り締まり強化の号令をかけた。その現場で、司法省の足元が揺らいでいる。違法な捜索や起訴への詰めの甘さ、担当幹部の不用意な発言。法曹関係者は、小さなほころびが法廷で積み重なり、刑事と民事の双方で「政府の手続きは適正に行われている」とする前提が傷つけられているとみている。 bit.ly/48NIOHN <a href="https://bsky.app/profile/japan.reuters.com/post/3maeslghbmy2q" target="_blank">japan.reuters.com</a> (2025-12-20 08:07:04)</span><span style="padding-right:50px;">Breaking news: The U.S. military launched a series of strikes against dozens of sites in central Syria, in retaliation for killing two American soldiers and an interpreter. <a href="https://bsky.app/profile/washingtonpost.com/post/3maesjlaxca2y" target="_blank">washingtonpost.com</a> (2025-12-20 08:06:02)</span><span style="padding-right:50px;">US imposes new Venezuela-related sanctions on seven people, Treasury Department says reut.rs/4p31Ezm <a href="https://bsky.app/profile/reuters.com/post/3maeshze2ei2x" target="_blank">reuters.com</a> (2025-12-20 08:05:10)</span><span style="padding-right:50px;">Though Emily spends most of the season in a relationship with Marcello, the two part ways in the finale. Here's what we know so far about Season 6. <a href="https://bsky.app/profile/usatoday.com/post/3maesawsclf2w" target="_blank">usatoday.com</a> (2025-12-20 08:01:12)</span>
   </div>
 </div>
 
@@ -32,94 +32,94 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are the six selected stories with headlines:
 
-1. US Strikes ISIS Targets in Syria After Killing of Three Americans
-2. Tesla CEO Elon Musk's $56 Billion Pay Package Restored by Delaware Supreme Court
-3. US Imposes Sanctions on Family Members and Associates of Venezuela's Maduro
-4. Greek Coastguard to Process Asylum Claims for Nearly 540 People Rescued at Sea
-5. Trump Administration Shifts Vaccine Recommendations, Suggests Parents Consult with Doctors
-6. Breaking: US Launches Attacks on Islamic State Targets in Syria After Deadly Ambush
+1. US Launches Airstrikes on ISIS Targets in Syria in Retaliation for American Deaths
+2. US Imposes New Sanctions on Seven Individuals Linked to Venezuela
+3. US Army Corps of Engineers Says Dakota Access Pipeline Should Continue Operating
+4. US to Strip Alleged Bosnian War Criminal of Citizenship
+5. Delaware Supreme Court Restores Elon Musk's $139 Billion Pay Package
+6. Russia Cuts Interest Rates to 16% in Bid to Boost Economy
 
 ----
 
-@bbcnews-world-rss.bsky.social
+@nbcnews.com
 
-US to strip alleged Bosnian war criminal's citizenship
+<strong><span style="color: red;">BREAKING:</span> U.S. forces begin strike against ISIS infrastructure and weapons sites in Syria in retaliation for an attack that killed three Americans.</strong>
 
-[2025-12-20 07:45:38](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maerf4dek72z)
+[2025-12-20 08:07:57](https://bsky.app/profile/nbcnews.com/post/3maesmybnsx2n)
 
 ---
 
 @japan.reuters.com
 
-全米リアルター協会（ＮＡＲ）が１９日に発表した１１月の米中古住宅販売戸数（季節調整済み）は年率換算で前月比０．５％増の４１３万戸となった。ロイターがまとめたエコノミスト予想は４１５万戸。経済の不透明感や高水準にある住宅ローン金利で需要が抑制されたほか、市場に出回る在庫が限られたため、わずかな伸びにとどまった。前年同月比では１．０％減少した。 bit.ly/3LcC6lx
+トランプ米大統領は８月、首都ワシントンで犯罪取り締まり強化の号令をかけた。その現場で、司法省の足元が揺らいでいる。違法な捜索や起訴への詰めの甘さ、担当幹部の不用意な発言。法曹関係者は、小さなほころびが法廷で積み重なり、刑事と民事の双方で「政府の手続きは適正に行われている」とする前提が傷つけられているとみている。 bit.ly/48NIOHN
 
-[2025-12-20 07:45:13](https://bsky.app/profile/japan.reuters.com/post/3maeredjqbb2q)
-
----
-
-@reuters.com
-
-US issues sanctions on family members and associates of Venezuela's Maduro reut.rs/45l11dp
-
-[2025-12-20 07:45:12](https://bsky.app/profile/reuters.com/post/3maered3lrf2c)
+[2025-12-20 08:07:04](https://bsky.app/profile/japan.reuters.com/post/3maeslghbmy2q)
 
 ---
 
 @washingtonpost.com
 
-<strong><span style="color: red;">Breaking news:</span> The Trump administration plans to shift the federal government away from directly recommending most vaccines for children and suggest parents consult with doctors to make their own vaccine choices.</strong>
+<strong><span style="color: red;">Breaking news:</span> The U.S. military launched a series of strikes against dozens of sites in central Syria, in retaliation for killing two American soldiers and an interpreter.</strong>
 
-[2025-12-20 07:43:11](https://bsky.app/profile/washingtonpost.com/post/3maerapkkun24)
-
----
-
-@reuters.com
-
-Lebanon drafts law to address funding shortfalls in financial system reut.rs/4qiK1fU
-
-[2025-12-20 07:40:19](https://bsky.app/profile/reuters.com/post/3maer3laolo2i)
-
----
-
-@nytimes.com
-
-The NBA wants to make it harder for gamblers to profit from inside information about players’ health. The league will now require teams to submit injury reports closer to tipoff, as one attempt to close inside information.
-
-[2025-12-20 07:40:06](https://bsky.app/profile/nytimes.com/post/3maer36yjkp26)
-
----
-
-@nytimes.com
-
-Could a customized pillow take the guesswork out of pillow shopping? Wirecutter experts from the sleep team set out to find out. "The answer was clear: Not even a custom pillow can make everyone happy, but this one comes pretty close."
-
-[2025-12-20 07:37:03](https://bsky.app/profile/nytimes.com/post/3maeqvqlvn32b)
+[2025-12-20 08:06:02](https://bsky.app/profile/washingtonpost.com/post/3maesjlaxca2y)
 
 ---
 
 @reuters.com
 
-Google lawsuit says data scraping company uses fake searches to steal web content reut.rs/44zcyWj
+US imposes new Venezuela-related sanctions on seven people, Treasury Department says reut.rs/4p31Ezm
 
-[2025-12-20 07:35:17](https://bsky.app/profile/reuters.com/post/3maeqslhls62b)
+[2025-12-20 08:05:10](https://bsky.app/profile/reuters.com/post/3maeshze2ei2x)
+
+---
+
+@usatoday.com
+
+Though Emily spends most of the season in a relationship with Marcello, the two part ways in the finale. Here's what we know so far about Season 6.
+
+[2025-12-20 08:01:12](https://bsky.app/profile/usatoday.com/post/3maesawsclf2w)
+
+---
+
+@cnn.com
+
+Republican Rep. Elise Stefanik announced Friday she was ending her short-lived bid for governor of New York and would not run for another term in Congress. https://cnn.it/4qjjHT2
+
+[2025-12-20 08:01:04](https://bsky.app/profile/cnn.com/post/3maesaokylp2t)
 
 ---
 
 @reuters.com
 
-Trump takes aim at diversity visa after suspect in Brown shooting linked to program reut.rs/4aXeSu2
+Dakota Access pipeline should continue operating, US Army Corps of Engineers says reut.rs/3MWwtIF
 
-[2025-12-20 07:35:08](https://bsky.app/profile/reuters.com/post/3maeqsdggow2r)
+[2025-12-20 08:01:04](https://bsky.app/profile/reuters.com/post/3maesaow63p2r)
 
 ---
 
-@wsj.com
+@cnn.com
 
-The 1.5-acre property sits between the Atlantic Ocean and Intracoastal Waterway, and has frontage on each. on.wsj.com/4pNlSOI
+Federal investigators on Friday will begin sifting through the wreckage of a business jet that crashed in North Carolina and killed all seven people aboard, including retired NASCAR driver Greg Biffle and his family. 
 
-[2025-12-20 07:33:26](https://bsky.app/profile/wsj.com/post/3maeqpbsqnk2c)
+[2025-12-20 08:01:03](https://bsky.app/profile/cnn.com/post/3maesanqunp2t)
+
+---
+
+@npr.org
+
+Fourteen companies in total have now reached what the administration calls most-favored-nation pricing deals.
+
+[2025-12-20 08:01:02](https://bsky.app/profile/npr.org/post/3maesamui7d2p)
+
+---
+
+@cnbc.com
+
+Utkarsh Amitabh is a founder, author and Ph.D. candidate who spends 3.5 hours a day, on average, training AI models for tech startup micro1. 
+
+[2025-12-20 08:00:53](https://bsky.app/profile/cnbc.com/post/3maesaecful2m)
 
 ---
 
