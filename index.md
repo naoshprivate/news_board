@@ -1,9 +1,9 @@
-# [2025-12-20 00:50 updated](2025_12_20.md)
+# [2025-12-20 01:10 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">夕方の取引でドルが一時１５７．０２円まで上昇し、１１月２４日以来、約１カ月ぶり高値を更新した。市場では、今年１月高値の１５８円後半が当面の上値めどとする声が上がっている。 bit.ly/3MMcMTV <a href="https://bsky.app/profile/japan.reuters.com/post/3madzvmct3n27" target="_blank">japan.reuters.com</a> (2025-12-20 00:45:22)</span><span style="padding-right:50px;">Pulte and other Trump loyalists at mortgage regulator clash with Fannie and Freddie staffers reut.rs/4j9fbUX <a href="https://bsky.app/profile/reuters.com/post/3madzvidk6x2c" target="_blank">reuters.com</a> (2025-12-20 00:45:18)</span><span style="padding-right:50px;">VIDEO: 🇮🇹 200-million-year-old dinosaur footprints found in Italy  Hundreds of metres of dinosaur tracks with toes and claws have been found in the Italian Alps, authorities say. The footprints, some measuring up to 40 centimetres in diameter, were first spotted by a nature photographer <a href="https://bsky.app/profile/en.afp.com/post/3madzuhicql2k" target="_blank">en.afp.com</a> (2025-12-20 00:44:44)</span><span style="padding-right:50px;">The so-called Epstein Files have been a topic of fascination for years, and the Justice Department is preparing to release more records. Here’s a guide to what is public so far. 🔗 on.wsj.com/4pPEWfo <a href="https://bsky.app/profile/wsj.com/post/3madzpynfrz2r" target="_blank">wsj.com</a> (2025-12-20 00:42:14)</span><span style="padding-right:50px;">Canton Zurich urges government to soften UBS capital requirements plan reut.rs/4p2qgrW <a href="https://bsky.app/profile/reuters.com/post/3madzmmg5s22b" target="_blank">reuters.com</a> (2025-12-20 00:40:21)</span>
+<span style="padding-right:50px;">An ancient string instrument evolved into the flat-top acoustic guitar—an essential element in American folk, blues and rock. on.wsj.com/3YyzPnM <a href="https://bsky.app/profile/wsj.com/post/3mae34kjunw2e" target="_blank">wsj.com</a> (2025-12-20 01:07:09)</span><span style="padding-right:50px;">Taiwan: Knife attacker kills three after smoke bombing Taipei metro <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mae33zopv62y" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-20 01:06:51)</span><span style="padding-right:50px;">Pete Davidson welcomed his "perfect angel girl" daughter with model girlfriend Elsie Hewitt and named the child after the actor's late father. <a href="https://bsky.app/profile/usatoday.com/post/3mae2zrnc3h2q" target="_blank">usatoday.com</a> (2025-12-20 01:05:36)</span><span style="padding-right:50px;">Prince Harry and Meghan to revamp Archewell charitable arm reut.rs/4aWqqh8 <a href="https://bsky.app/profile/reuters.com/post/3mae2zff2ac2b" target="_blank">reuters.com</a> (2025-12-20 01:05:23)</span><span style="padding-right:50px;">Visa, Mastercard to pay $167.5 million in ATM user fee settlement reut.rs/3L5TV5L <a href="https://bsky.app/profile/reuters.com/post/3mae2vkud7b2b" target="_blank">reuters.com</a> (2025-12-20 01:03:14)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48201.07 (🔺226.25 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23189.35 (🔺67.45 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 178.85 (🔺2.19 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.43 (🔺1.90 : 2025-12-19)</span>
+<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48231.45 (🔺256.63 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23237.55 (🔺115.65 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 179.42 (🔺2.76 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.46 (🔺1.94 : 2025-12-19)</span>
   </div>
 </div>
 
@@ -32,100 +32,94 @@
 
 ## News Headlines
 
-Here are six selected news stories with headlines in English:
+Here are six headlines:
 
-1. Dollar Hits 15-Month High Against Yen
-2. UBS Faces Backlash Over Proposed Capital Requirements
-3. 200-Million-Year-Old Dinosaur Footprints Discovered in Italy
-4. US Treasury to Release More Documents on Epstein Case
-5. Norway's Crown Princess May Need Lung Transplant
-6. US Companies to Get Slice of TikTok US Pie
+1. Taiwan: Knife Attacker Kills Three After Smoke Bombing Taipei Metro
+2. Prince Harry and Meghan to Revamp Archewell Charitable Arm
+3. Ford Recalls 273,000 Vehicles Over Parking Function Issue
+4. Dollar Hits 15-Month High Against Yen as Interest Rates Rise
+5. US to Release 'Several Hundred Thousand' Epstein Files on Friday
+6. 200-Million-Year-Old Dinosaur Footprints Found in Italian Alps
 
 ----
 
-@japan.reuters.com
-
-夕方の取引でドルが一時１５７．０２円まで上昇し、１１月２４日以来、約１カ月ぶり高値を更新した。市場では、今年１月高値の１５８円後半が当面の上値めどとする声が上がっている。 bit.ly/3MMcMTV
-
-[2025-12-20 00:45:22](https://bsky.app/profile/japan.reuters.com/post/3madzvmct3n27)
-
----
-
-@reuters.com
-
-Pulte and other Trump loyalists at mortgage regulator clash with Fannie and Freddie staffers reut.rs/4j9fbUX
-
-[2025-12-20 00:45:18](https://bsky.app/profile/reuters.com/post/3madzvidk6x2c)
-
----
-
-@en.afp.com
-
-VIDEO: 🇮🇹 200-million-year-old dinosaur footprints found in Italy
-
-Hundreds of metres of dinosaur tracks with toes and claws have been found in the Italian Alps, authorities say. The footprints, some measuring up to 40 centimetres in diameter, were first spotted by a nature photographer
-
-[2025-12-20 00:44:44](https://bsky.app/profile/en.afp.com/post/3madzuhicql2k)
-
----
-
 @wsj.com
 
-The so-called Epstein Files have been a topic of fascination for years, and the Justice Department is preparing to release more records. Here’s a guide to what is public so far. 🔗 on.wsj.com/4pPEWfo
+An ancient string instrument evolved into the flat-top acoustic guitar—an essential element in American folk, blues and rock. on.wsj.com/3YyzPnM
 
-[2025-12-20 00:42:14](https://bsky.app/profile/wsj.com/post/3madzpynfrz2r)
-
----
-
-@reuters.com
-
-Canton Zurich urges government to soften UBS capital requirements plan reut.rs/4p2qgrW
-
-[2025-12-20 00:40:21](https://bsky.app/profile/reuters.com/post/3madzmmg5s22b)
-
----
-
-@nytimes.com
-
-"I think today's Wordle word is actually the worst in the entire history of the game."
-
-Wordle 1644 is trending as Friday's puzzle is breaking many streaks. How did you do?
-
-[2025-12-20 00:40:05](https://bsky.app/profile/nytimes.com/post/3madzm5aqrk27)
-
----
-
-@cbsnews.com
-
-Comedian and actor Albert Brooks said he's still in shock over the death of one of his oldest and best friends, Rob Reiner.  
-
-[2025-12-20 00:40:01](https://bsky.app/profile/cbsnews.com/post/3madzm244ak2z)
-
----
-
-@yahoofinance.com
-
-TikTok's sale saga may finally be coming to a close. Here's a look at the U.S. companies getting a slice of the TikTok US pie. 🍰
-
-yhoo.it/4qnfjCG
-
-[2025-12-20 00:36:06](https://bsky.app/profile/yahoofinance.com/post/3madzez7hbz2j)
+[2025-12-20 01:07:09](https://bsky.app/profile/wsj.com/post/3mae34kjunw2e)
 
 ---
 
 @bbcnews-world-rss.bsky.social
 
-Norway's crown princess likely needs lung transplant, palace says
+Taiwan: Knife attacker kills three after smoke bombing Taipei metro
 
-[2025-12-20 00:35:26](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3madzdtxaig25)
+[2025-12-20 01:06:51](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mae33zopv62y)
+
+---
+
+@usatoday.com
+
+Pete Davidson welcomed his "perfect angel girl" daughter with model girlfriend Elsie Hewitt and named the child after the actor's late father.
+
+[2025-12-20 01:05:36](https://bsky.app/profile/usatoday.com/post/3mae2zrnc3h2q)
 
 ---
 
 @reuters.com
 
-Conagra retains annual forecasts, takes $968 mln charge in Q2 amid muted demand reut.rs/4s7b6o9
+Prince Harry and Meghan to revamp Archewell charitable arm reut.rs/4aWqqh8
 
-[2025-12-20 00:35:13](https://bsky.app/profile/reuters.com/post/3madzdhnrk22k)
+[2025-12-20 01:05:23](https://bsky.app/profile/reuters.com/post/3mae2zff2ac2b)
+
+---
+
+@reuters.com
+
+Visa, Mastercard to pay $167.5 million in ATM user fee settlement reut.rs/3L5TV5L
+
+[2025-12-20 01:03:14](https://bsky.app/profile/reuters.com/post/3mae2vkud7b2b)
+
+---
+
+@wsj.com
+
+Caroline Palmer’s story of magazine strivers takes a turn into the dark corner of the fashion closet. on.wsj.com/3MKHLQo
+
+[2025-12-20 01:02:32](https://bsky.app/profile/wsj.com/post/3mae2ucpr7i2g)
+
+---
+
+@wsj.com
+
+It can be hard working with a leaders who are convinced they always know best. But there are strategies you can try to get your points across on.wsj.com/49k0RFz
+
+[2025-12-20 01:02:32](https://bsky.app/profile/wsj.com/post/3mae2uckhbi2q)
+
+---
+
+@apnews.com
+
+The Africa Cup of Nations begins Sunday with host Morocco aiming for a spectacle befitting its quest to become a global soccer power.
+
+[2025-12-20 01:02:06](https://bsky.app/profile/apnews.com/post/3mae2tj74f723)
+
+---
+
+@japan.reuters.com
+
+オランダに本拠を置く半導体大手ネクスペリアの中国法人が、主要製品の２０２６年生産分を全てカバーするシリコンウエハーの供給を中国国内企業から確保したことが、内部文書で明らかになった。 bit.ly/3MKbvN8
+
+[2025-12-20 01:01:05](https://bsky.app/profile/japan.reuters.com/post/3mae2rpmpk622)
+
+---
+
+@washingtonpost.com
+
+The Gaza Strip is no longer facing famine in any of its regions, but more than three-quarters of the population still experience acute food insecurity and malnutrition, the global authority on hunger said.
+
+[2025-12-20 01:00:53](https://bsky.app/profile/washingtonpost.com/post/3mae2rddwc22p)
 
 ---
 
