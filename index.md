@@ -1,9 +1,9 @@
-# [2025-12-19 20:50 updated](2025_12_19.md)
+# [2025-12-19 21:10 updated](2025_12_19.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">三菱ＵＦＪ銀行、みずほ銀行、三井住友銀行は１９日、円の普通預金金利を０．２％から０．３％に引き上げると発表した。来年２月２日から改定する。 bit.ly/3Y3whda <a href="https://bsky.app/profile/japan.reuters.com/post/3madmidlef225" target="_blank">japan.reuters.com</a> (2025-12-19 20:45:18)</span><span style="padding-right:50px;">Luka Doncic's 45-point triple-double carries Lakers past Jazz reut.rs/4sl3Rcu <a href="https://bsky.app/profile/reuters.com/post/3madmia2xjw2b" target="_blank">reuters.com</a> (2025-12-19 20:45:15)</span><span style="padding-right:50px;">There’s a record 1.4 billion barrels of crude currently on the world’s oceans, pushing down benchmark prices and sending gasoline under $3 a gallon at the pump in the US. Read more: bloom.bg/4aVWIZE  📷: Justin Hamel/Bloomberg <a href="https://bsky.app/profile/bloomberg.com/post/3madmg6fk3d23" target="_blank">bloomberg.com</a> (2025-12-19 20:44:06)</span><span style="padding-right:50px;">“台北中心部 男が刃物で切りつけ 複数けが人” 台湾メディア https://news.web.nhk/newsweb/na/na-k10015008941000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madmclml2y2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-19 20:42:03)</span><span style="padding-right:50px;">GIVĒON treats performance as therapy, pouring out his heart like a bottle of wine. The R&B singer treats us to ballads and anthems of heartache, backed by strings and horns. n.pr/3Y6snjB <a href="https://bsky.app/profile/npr.org/post/3madmb3g5pz2x" target="_blank">npr.org</a> (2025-12-19 20:41:15)</span>
+<span style="padding-right:50px;">三菱ＵＦＪフィナンシャル・グループ（ＭＵＦＧ）は１９日、インドのノンバンク大手シュリラム・ファイナンスに約６８００億円（約３９６２億インドルピー）を投じ、２０％の持ち分を取得すると発表した。海外事業の拡大を図る中で「空白地」となっていたインドに本格進出し、米国に次ぐ成長の柱と位置付けるアジア事業の強化につなげる。将来的には追加出資の可能性も検討するという。 bit.ly/3N7eIX4 <a href="https://bsky.app/profile/japan.reuters.com/post/3madnm7t75w2v" target="_blank">japan.reuters.com</a> (2025-12-19 21:05:22)</span><span style="padding-right:50px;">UK regulator investigates WH Smith after accounting failures hit profits reut.rs/456yvw2 <a href="https://bsky.app/profile/reuters.com/post/3madnlxnusj2i" target="_blank">reuters.com</a> (2025-12-19 21:05:14)</span><span style="padding-right:50px;">Ole Miss turned into the messiest situation in college football after losing its coach. Now it’s up to defensive coordinator Pete Golding to lead the Rebels into the playoff. on.wsj.com/4j60d1D <a href="https://bsky.app/profile/wsj.com/post/3madnkbeev22h" target="_blank">wsj.com</a> (2025-12-19 21:04:17)</span><span style="padding-right:50px;">来週の外為市場でドル／円は、日銀の金融政策決定会合の余韻が残る中、財政懸念に伴う根強い円安圧力が想定される。欧米がクリスマス休暇に入るため、取引量が薄くなることが見込まれ、材料次第で値幅が出やすい点も要注意だ。 bit.ly/4j8PvYo <a href="https://bsky.app/profile/japan.reuters.com/post/3madne4ankd25" target="_blank">japan.reuters.com</a> (2025-12-19 21:00:50)</span><span style="padding-right:50px;">Three 2-point conversions lead Seahawks' rally for OT win over Rams reut.rs/4p6Eyb8 <a href="https://bsky.app/profile/reuters.com/post/3madnduee7b2o" target="_blank">reuters.com</a> (2025-12-19 21:00:42)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.25 (🔺1.73 : 2025-12-19)</span>
+<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 47951.85 (🔻149.33 : 2025-12-18)</span><span style="padding-right:50px;">NASDAQ: 23006.36 (🔻5.70 : 2025-12-18)</span><span style="padding-right:50px;">NVIDIA: 174.14 (🔻0.39 : 2025-12-18)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.29 (🔺1.76 : 2025-12-19)</span>
   </div>
 </div>
 
@@ -32,97 +32,102 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are the six headlines:
 
-1. Three Japanese Banks Raise Deposit Interest Rates to 0.3%
-2. Luka Doncic's 45-point triple-double leads Lakers past Jazz
-3. Global Oil Glut Causes Gas Prices to Plummet Below $3 per Gallon
-4. Former Husband Found Guilty in German Pelicot Case
-5. Japanese Government and Komeito Agree on 2026 Tax Reform Plan
-6. Black Hawk Bridge to be Demolished After 94 Years
+1. Mitsubishi UFJ Financial Group Invests in Indian Non-Bank Firm Shriram Finance
+2. UK Regulator Investigates WH Smith Over Accounting Failures
+3. Ole Miss Turns to Defensive Coordinator Pete Golding to Lead Team to Playoff
+4. Japan's Nikkei Average Rises 505 Yen 71 Sen Amid Central Bank Decision
+5. Putin Takes Aim at Zelenskyy in Annual Q&A Session
+6. World's Oil Supplies Reach Record High, Pushing Down Prices
 
 ----
 
 @japan.reuters.com
 
-三菱ＵＦＪ銀行、みずほ銀行、三井住友銀行は１９日、円の普通預金金利を０．２％から０．３％に引き上げると発表した。来年２月２日から改定する。 bit.ly/3Y3whda
+三菱ＵＦＪフィナンシャル・グループ（ＭＵＦＧ）は１９日、インドのノンバンク大手シュリラム・ファイナンスに約６８００億円（約３９６２億インドルピー）を投じ、２０％の持ち分を取得すると発表した。海外事業の拡大を図る中で「空白地」となっていたインドに本格進出し、米国に次ぐ成長の柱と位置付けるアジア事業の強化につなげる。将来的には追加出資の可能性も検討するという。 bit.ly/3N7eIX4
 
-[2025-12-19 20:45:18](https://bsky.app/profile/japan.reuters.com/post/3madmidlef225)
+[2025-12-19 21:05:22](https://bsky.app/profile/japan.reuters.com/post/3madnm7t75w2v)
 
 ---
 
 @reuters.com
 
-Luka Doncic's 45-point triple-double carries Lakers past Jazz reut.rs/4sl3Rcu
+UK regulator investigates WH Smith after accounting failures hit profits reut.rs/456yvw2
 
-[2025-12-19 20:45:15](https://bsky.app/profile/reuters.com/post/3madmia2xjw2b)
+[2025-12-19 21:05:14](https://bsky.app/profile/reuters.com/post/3madnlxnusj2i)
 
 ---
 
-@bloomberg.com
+@wsj.com
 
-There’s a record 1.4 billion barrels of crude currently on the world’s oceans, pushing down benchmark prices and sending gasoline under $3 a gallon at the pump in the US. Read more: bloom.bg/4aVWIZE
+Ole Miss turned into the messiest situation in college football after losing its coach. Now it’s up to defensive coordinator Pete Golding to lead the Rebels into the playoff. on.wsj.com/4j60d1D
 
-📷: Justin Hamel/Bloomberg
+[2025-12-19 21:04:17](https://bsky.app/profile/wsj.com/post/3madnkbeev22h)
 
-[2025-12-19 20:44:06](https://bsky.app/profile/bloomberg.com/post/3madmg6fk3d23)
+---
+
+@japan.reuters.com
+
+来週の外為市場でドル／円は、日銀の金融政策決定会合の余韻が残る中、財政懸念に伴う根強い円安圧力が想定される。欧米がクリスマス休暇に入るため、取引量が薄くなることが見込まれ、材料次第で値幅が出やすい点も要注意だ。 bit.ly/4j8PvYo
+
+[2025-12-19 21:00:50](https://bsky.app/profile/japan.reuters.com/post/3madne4ankd25)
+
+---
+
+@reuters.com
+
+Three 2-point conversions lead Seahawks' rally for OT win over Rams reut.rs/4p6Eyb8
+
+[2025-12-19 21:00:42](https://bsky.app/profile/reuters.com/post/3madnduee7b2o)
+
+---
+
+@nikkei.com
+
+「給食無償化、月5200円では足りず」　堺市長が上積み期待（無料記事）
+www.nikkei.com/article/DGXZQO...
+
+同市の給食費は月5600～5700円。
+
+自民・日本維新の会・公明の3党が月5200円程度の支援で合意しましたが、無償化する場合の差額は市が一般財源から捻出する必要があります。
+
+堺市は国が決定する以前から小学校給食を段階的に無償化していました。
+
+[2025-12-19 21:00:40](https://bsky.app/profile/nikkei.com/post/3madndsdknf2i)
+
+---
+
+@washingtonpost.com
+
+Top Republican lawmakers signaled they are ending their inquiries into a controversial U.S. military strike on an alleged drug smuggling vessel in the waters off Venezuela.
+
+[2025-12-19 21:00:26](https://bsky.app/profile/washingtonpost.com/post/3madndenlw624)
+
+---
+
+@usatoday.com
+
+Although a new law requires the full release of the Epstein files, experts expect some records to be withheld or redacted. How many is the question.
+
+[2025-12-19 21:00:17](https://bsky.app/profile/usatoday.com/post/3madnd44dtw2l)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-“台北中心部 男が刃物で切りつけ 複数けが人” 台湾メディア
-https://news.web.nhk/newsweb/na/na-k10015008941000
+サッカーJリーグ 秋春制移行期間開催 特別大会 対戦カード発表
+https://news.web.nhk/newsweb/na/na-k10015008821000
 
-[2025-12-19 20:42:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madmclml2y2b)
-
----
-
-@npr.org
-
-GIVĒON treats performance as therapy, pouring out his heart like a bottle of wine. The R&B singer treats us to ballads and anthems of heartache, backed by strings and horns. n.pr/3Y6snjB
-
-[2025-12-19 20:41:15](https://bsky.app/profile/npr.org/post/3madmb3g5pz2x)
-
----
-
-@cnn.com
-
-A man accused of drugging, raping and filming his wife for several years is found guilty in what has been called the "German Pelicot" case.
-
-[2025-12-19 20:40:50](https://bsky.app/profile/cnn.com/post/3madmadbv2q2x)
-
----
-
-@reuters.com
-
-Giannis Antetokounmpo 'locked in' with Bucks, not in on reported trade talks reut.rs/3YBlsit
-
-[2025-12-19 20:40:40](https://bsky.app/profile/reuters.com/post/3madma24cwu2i)
-
----
-
-@japan.reuters.com
-
-自民党と日本維新の会は１９日、２０２６年度の与党税制改正大綱を決定した。防衛財源確保のため２７年１月から所得税額の１％を新たに徴収すると決める一方、「年収の壁」の１７８万円までの引き上げや自動車取得時に課税される「環境性能割」の廃止など国民民主党の主張も採用。少数与党として臨む来年度税制改正や当初予算編成に向けた国会の多数派形成を強く意識した内容となった。 bit.ly/3MDcfnn
-
-[2025-12-19 20:40:23](https://bsky.app/profile/japan.reuters.com/post/3madm7jg2oy2c)
+[2025-12-19 21:00:13](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3madnd2yqbc2b)
 
 ---
 
 @nbcnews.com
 
-The man suspected of killing two students and wounding nine others in a shooting at Brown University before fatally shooting an MIT professor days later is found dead in a New Hampshire storage unit, officials say.
+The U.S. move to lift sweeping sanctions on Syria could encourage more refugees to return to their country and also help encourage investments, the head of the U.N. refugee agency in Lebanon says.  
 
-[2025-12-19 20:40:12](https://bsky.app/profile/nbcnews.com/post/3madm77nbea2u)
-
----
-
-@japan.reuters.com
-
-オランダに本拠を置く半導体大手ネクスペリアの中国法人が、主要製品の２０２６年生産分を全てカバーするシリコンウエハーの供給を中国国内企業から確保したことが、内部文書で明らかになった。 bit.ly/4aYi5cS
-
-[2025-12-19 20:35:54](https://bsky.app/profile/japan.reuters.com/post/3madlxisiuv22)
+[2025-12-19 21:00:11](https://bsky.app/profile/nbcnews.com/post/3madncx24532u)
 
 ---
 
