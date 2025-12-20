@@ -1,9 +1,9 @@
-# [2025-12-21 01:50 updated](2025_12_21.md)
+# [2025-12-21 02:10 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Bowen Yang plans to leave “Saturday Night Live,” a stunning midseason exit announcement for one of the show’s biggest stars, its first Chinese American cast member, and one of its first out gay performers. <a href="https://bsky.app/profile/washingtonpost.com/post/3magnpc7eic24" target="_blank">washingtonpost.com</a> (2025-12-21 01:45:05)</span><span style="padding-right:50px;">The Trump administration is intensifying efforts to deport people to countries where they have no connections. Last month, U.S. lawyers filed almost 5,000 motions to dismiss asylum cases and force applicants to seek protection elsewhere. <a href="https://bsky.app/profile/nytimes.com/post/3magngeljow2y" target="_blank">nytimes.com</a> (2025-12-21 01:40:05)</span><span style="padding-right:50px;">Bowen Yang will depart “SNL” mid-season after Saturday’s episode hosted by his “Wicked” buddy Ariana Grande. <a href="https://bsky.app/profile/apnews.com/post/3magnfvsx2w22" target="_blank">apnews.com</a> (2025-12-21 01:39:50)</span><span style="padding-right:50px;">Many farmers are pushing for more federal dollars to provide much-needed stability. Others, especially young farmers, are turning away from the government, looking to local networks for assistance. <a href="https://bsky.app/profile/npr.org/post/3magnbh6mf325" target="_blank">npr.org</a> (2025-12-21 01:37:20)</span><span style="padding-right:50px;">BREAKING: The Justice Department released more files related to Jeffrey Epstein on Saturday.  <a href="https://bsky.app/profile/cbsnews.com/post/3magnba2dps2q" target="_blank">cbsnews.com</a> (2025-12-21 01:37:13)</span>
+<span style="padding-right:50px;">Gold and silver hit records in 2025. They aren't the only metals having a massive year. <a href="https://bsky.app/profile/yahoofinance.com/post/3magouu3tzu26" target="_blank">yahoofinance.com</a> (2025-12-21 02:06:05)</span><span style="padding-right:50px;">Bills add 4-time Pro Bowl DE Matthew Judon to practice squad reut.rs/3Y2Pn35 <a href="https://bsky.app/profile/reuters.com/post/3magot74zig2b" target="_blank">reuters.com</a> (2025-12-21 02:05:09)</span><span style="padding-right:50px;">It’s peak season for an elite squad of interlopers who have turned showing up uninvited into an art form.  “Why go out to a bar and be in that scene if you can go to a company party and learn, network and grow, and have sponsored free food and drinks?”    on.wsj.com/3YALUbY <a href="https://bsky.app/profile/wsj.com/post/3magoqukov42r" target="_blank">wsj.com</a> (2025-12-21 02:03:51)</span><span style="padding-right:50px;">Steve Kornacki breaks down the latest NBC News Decision Desk Poll and the issues that matter most to Americans. The poll was conducted Nov. 20-Dec. 8 and surveyed 20,252 adults nationwide online. <a href="https://bsky.app/profile/nbcnews.com/post/3magootdw4423" target="_blank">nbcnews.com</a> (2025-12-21 02:02:43)</span><span style="padding-right:50px;">Reports: ASU coach Kenny Dillingham signs 5-year contract reut.rs/48ZU5U3 <a href="https://bsky.app/profile/reuters.com/post/3magom3rlvn2o" target="_blank">reuters.com</a> (2025-12-21 02:01:11)</span>
   </div>
 </div>
 
@@ -32,96 +32,107 @@
 
 ## News Headlines
 
-[{"en": "Bowen Yang Exits ‘Saturday Night Live’ After This Weekend’s Episode", "jp": ""Saturday Night Live"のBowen Yang、番組中盤で降板"}, 
-{"en": "US Officials to Meet with Russian Counterparts in Florida for Ukraine Talks", "jp": "米・ロシア官僚、フロリダでウクライナ交渉"}, 
-{"en": "US, Russian Officials to Meet in Florida for Ukraine Talks", "jp": "米・ロシア官僚、フロリダでウクライナ交渉"}, 
-{"en": "Pope Leo XIV Summons Cardinals for Two Days of Meetings", "jp": "パプア・レオ14世、世界の枢機卿を招集"}, 
-{"en": "US Interdicts Sanctioned Vessel Off Venezuelan Coast", "jp": "米、ベネズエラ沿岸で制裁船を拿捕"}, 
-{"en": "Newcastle's Howe Slams 'Stonewall Penalty' Snub", "jp": "ニューカッスル監督、ストーンウォールペナルティーへの処分に抗議"}, 
-{"en": "Judge Orders Special Elections After Redrawing Electoral Map", "jp": "連邦裁判所、選挙区割り直しに伴う特別選挙を命じる"}]
+- Gold and Silver Prices Hit Records in 2025
+  - 2025年に金・銀の価格が歴史的記録を更新
+- Walmart Builds Its Own Workforce to Combat Labor Shortage
+  - Walmartが労働者不足対策として自社の従業員を増やす
+- Bowen Yang to Leave 'Saturday Night Live' Mid-Season
+  - 『Saturday Night Live』のボーウェン・ヤンが中期に降板
+- US Intercepts Sanctioned Vessel Off Venezuelan Coast
+  - アメリカがベネズエラ沿岸に制裁対象船を拘束
+- Pope Leo XIV Summons Cardinals for Meetings
+  - ローマ教皇レオ14世が枢機卿を集会に招く
+- Christmas Tree Sales Indicate Cautious Consumer Spending
+  - クリスマス TREEの売り上げは消費者が慎重に取り組むことを示す
+
 
 ----
 
-@washingtonpost.com
+@yahoofinance.com
 
-Bowen Yang plans to leave “Saturday Night Live,” a stunning midseason exit announcement for one of the show’s biggest stars, its first Chinese American cast member, and one of its first out gay performers.
+Gold and silver hit records in 2025. They aren't the only metals having a massive year.
 
-[2025-12-21 01:45:05](https://bsky.app/profile/washingtonpost.com/post/3magnpc7eic24)
-
----
-
-@nytimes.com
-
-The Trump administration is intensifying efforts to deport people to countries where they have no connections. Last month, U.S. lawyers filed almost 5,000 motions to dismiss asylum cases and force applicants to seek protection elsewhere.
-
-[2025-12-21 01:40:05](https://bsky.app/profile/nytimes.com/post/3magngeljow2y)
+[2025-12-21 02:06:05](https://bsky.app/profile/yahoofinance.com/post/3magouu3tzu26)
 
 ---
 
-@apnews.com
+@reuters.com
 
-Bowen Yang will depart “SNL” mid-season after Saturday’s episode hosted by his “Wicked” buddy Ariana Grande.
+Bills add 4-time Pro Bowl DE Matthew Judon to practice squad reut.rs/3Y2Pn35
 
-[2025-12-21 01:39:50](https://bsky.app/profile/apnews.com/post/3magnfvsx2w22)
-
----
-
-@npr.org
-
-Many farmers are pushing for more federal dollars to provide much-needed stability. Others, especially young farmers, are turning away from the government, looking to local networks for assistance.
-
-[2025-12-21 01:37:20](https://bsky.app/profile/npr.org/post/3magnbh6mf325)
+[2025-12-21 02:05:09](https://bsky.app/profile/reuters.com/post/3magot74zig2b)
 
 ---
 
-@cbsnews.com
+@wsj.com
 
-<strong><span style="color: red;">BREAKING:</span> The Justice Department released more files related to Jeffrey Epstein on Saturday. </strong>
+It’s peak season for an elite squad of interlopers who have turned showing up uninvited into an art form.
 
-[2025-12-21 01:37:13](https://bsky.app/profile/cbsnews.com/post/3magnba2dps2q)
+“Why go out to a bar and be in that scene if you can go to a company party and learn, network and grow, and have sponsored free food and drinks?”  
+
+on.wsj.com/3YALUbY
+
+[2025-12-21 02:03:51](https://bsky.app/profile/wsj.com/post/3magoqukov42r)
 
 ---
 
-@cbsnews.com
+@nbcnews.com
 
-One person is dead and three upstate New York police officers have been injured after law enforcement responded to a domestic violence situation in Rochester, officials said early Saturday morning. 
+Steve Kornacki breaks down the latest NBC News Decision Desk Poll and the issues that matter most to Americans. The poll was conducted Nov. 20-Dec. 8 and surveyed 20,252 adults nationwide online.
 
-The man who called the police to the scene was also injured.
+[2025-12-21 02:02:43](https://bsky.app/profile/nbcnews.com/post/3magootdw4423)
 
-[2025-12-21 01:35:01](https://bsky.app/profile/cbsnews.com/post/3magn5cezhx2a)
+---
+
+@reuters.com
+
+Reports: ASU coach Kenny Dillingham signs 5-year contract reut.rs/48ZU5U3
+
+[2025-12-21 02:01:11](https://bsky.app/profile/reuters.com/post/3magom3rlvn2o)
 
 ---
 
 @usatoday.com
 
-The winter solstice is here! Here's what to know about the shortest day and longest night of the year.
+Meet Chase DeMoor, the former college football player and Netflix dating show star who will face Andrew Tate in his pro boxing debut on Saturday.
 
-[2025-12-21 01:30:21](https://bsky.app/profile/usatoday.com/post/3magmuxrpjv2w)
-
----
-
-@cnn.com
-
-Here are the major questions remaining about the cases:
-https://cnn.it/4j7eFq8
-
-[2025-12-21 01:30:07](https://bsky.app/profile/cnn.com/post/3magmujp2cy2c)
+[2025-12-21 02:00:59](https://bsky.app/profile/usatoday.com/post/3magolq7ix52g)
 
 ---
 
-@nytimes.com
+@apnews.com
 
-A.I. chatbots have been designed to behave in a humanlike way, rather than as tools with no inner life. Some experts in human-computer interaction say this approach creates cognitive dissonance for users about what exactly they are interacting with and how much to trust it.
+As the number of skilled tradespeople dwindles in the U.S., Walmart is building up its own workforce to keep conveyor belts moving and refrigerated grocery cases cold.
 
-[2025-12-21 01:25:03](https://bsky.app/profile/nytimes.com/post/3magmlhz5vq2r)
+[2025-12-21 02:00:58](https://bsky.app/profile/apnews.com/post/3magolpdwqs26)
 
 ---
 
-@nytimes.com
+@washingtonpost.com
 
-Ready the night before and baked off in the morning, this puffy, golden-topped casserole is not just festive, it’s smart.
+A giant redwood in England was crowned the world’s tallest living Christmas tree. But to even qualify for the Guinness World Records, a forestry team had to navigate a large festive challenge: decorating all 147 feet of it.
 
-[2025-12-21 01:17:05](https://bsky.app/profile/nytimes.com/post/3magm57zr7r2a)
+[2025-12-21 02:00:26](https://bsky.app/profile/washingtonpost.com/post/3magokr5fs52m)
+
+---
+
+@bloomberg.com
+
+Looking for a climate read for the holidays? We've got you covered with eight must-reads.
+
+[2025-12-21 02:00:19](https://bsky.app/profile/bloomberg.com/post/3magokjunny2w)
+
+---
+
+@cnbc.com
+
+We teach our kids to read, write and ride a bike. But we often skip one essential life skill: money management.
+
+Learn how to teach kids to save and spend wisely, and talk about money, with the latest online course from Smarter by CNBC Make It.
+
+smarter.cnbcmakeit.com/p/how-to-rai...
+
+[2025-12-21 02:00:10](https://bsky.app/profile/cnbc.com/post/3magokbrkw22n)
 
 ---
 
