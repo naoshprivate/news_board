@@ -1,9 +1,9 @@
-# [2025-12-20 18:30 updated](2025_12_20.md)
+# [2025-12-20 18:50 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️FNNより【独自】です。  【独自】東京23区の多くの避難所が「スフィア基準」満たせず 被災者が尊厳保ち生活できる居住スペースなどの国際基準 (2025-12-20 18:13) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mafuykats327" target="_blank">sokuho.news</a> (2025-12-20 18:22:52)</span><span style="padding-right:50px;">高市首相 中央アジア5か国の首脳と相次ぎ会談 https://news.web.nhk/newsweb/na/na-k10015009361000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafupyo7jp2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 18:18:03)</span><span style="padding-right:50px;">宮城 大和町の山林で倒れた男性 死亡確認 クマに襲われたか https://news.web.nhk/newsweb/na/na-k10015009221000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafukmzvrd2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 18:15:02)</span><span style="padding-right:50px;">近鉄京都線 特急電車と車衝突 1人死亡 車運転していた人か https://news.web.nhk/newsweb/na/na-k10015009271000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafuf7zqgp2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 18:12:01)</span><span style="padding-right:50px;">円相場1ドル=157円台後半 利上げ発表前から約2円 円安進む https://news.web.nhk/newsweb/na/na-k10015009381000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafu7vkquh2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 18:09:02)</span>
+<span style="padding-right:50px;">Gill dropped, Kishan back for India's T20 World Cup title defence reut.rs/44Bp2N7 <a href="https://bsky.app/profile/reuters.com/post/3mafwagmzhn2i" target="_blank">reuters.com</a> (2025-12-20 18:45:10)</span><span style="padding-right:50px;">Ukraine says it hit Russian oil rig, patrol ship in Caspian Sea reut.rs/4pGTo9o <a href="https://bsky.app/profile/reuters.com/post/3mafvxhijso2i" target="_blank">reuters.com</a> (2025-12-20 18:40:09)</span><span style="padding-right:50px;">JAXA 再使用型ロケット実験機「RV-X」エンジン燃焼試験を実施 https://news.web.nhk/newsweb/na/na-k10015009391000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafvq5xo7n2x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 18:36:02)</span><span style="padding-right:50px;">Why are the beds at hotels so much more comfortable than the rumpled, lumpy things we settle for at home?  For our writer, it’s usually about the pillows. What she discovered: Tracking down five-star comforts isn’t simple, but it can be done. 🔗: on.wsj.com/4j5ALcM <a href="https://bsky.app/profile/wsj.com/post/3mafvow4byi2s" target="_blank">wsj.com</a> (2025-12-20 18:35:22)</span><span style="padding-right:50px;">Sustainable Switch: Your Climate News Wrapped reut.rs/4aYZJIE <a href="https://bsky.app/profile/reuters.com/post/3mafvohonjg2p" target="_blank">reuters.com</a> (2025-12-20 18:35:07)</span>
   </div>
 </div>
 
@@ -32,16 +32,84 @@
 
 ## News Headlines
 
-Here are six important stories with headlines:
+Here are six news headlines in English:
 
-1. Tokyo's Evacuation Centers Fail to Meet Sphere Standards
-2. Japanese Prime Minister Meets with Central Asian Leaders
-3. Man Dies After Falling in the Woods in Miyagi Prefecture, Possibly Attacked by a Bear
-4. Train Collision in Kintetsu Kyoto Line Leaves One Dead
-5. Elon Musk's $55 Billion Pay Package Restored by Delaware Supreme Court
-6. Seven Elephants Killed in Train Accident in India
+1. India's T20 World Cup Title Defence Hinges on Gill's Return
+2. Ukraine Claims Success in Strikes on Russian Oil Rig and Patrol Ship
+3. Japan's My Japan Syndrome: The Unspoken Phenomenon of Expat Life
+4. Students Return to School Amid Ruins as Palestine Fights to Save Education
+5. Trump Signs Over Kennedy Center to Himself, Adding to His Legacy
+6. Delaware Supreme Court Upholds Elon Musk's $55 Billion Pay Package
 
 ----
+
+@reuters.com
+
+Gill dropped, Kishan back for India's T20 World Cup title defence reut.rs/44Bp2N7
+
+[2025-12-20 18:45:10](https://bsky.app/profile/reuters.com/post/3mafwagmzhn2i)
+
+---
+
+@reuters.com
+
+Ukraine says it hit Russian oil rig, patrol ship in Caspian Sea reut.rs/4pGTo9o
+
+[2025-12-20 18:40:09](https://bsky.app/profile/reuters.com/post/3mafvxhijso2i)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+JAXA 再使用型ロケット実験機「RV-X」エンジン燃焼試験を実施
+https://news.web.nhk/newsweb/na/na-k10015009391000
+
+[2025-12-20 18:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafvq5xo7n2x)
+
+---
+
+@wsj.com
+
+Why are the beds at hotels so much more comfortable than the rumpled, lumpy things we settle for at home?
+
+For our writer, it’s usually about the pillows. What she discovered: Tracking down five-star comforts isn’t simple, but it can be done. 🔗: on.wsj.com/4j5ALcM
+
+[2025-12-20 18:35:22](https://bsky.app/profile/wsj.com/post/3mafvow4byi2s)
+
+---
+
+@reuters.com
+
+Sustainable Switch: Your Climate News Wrapped reut.rs/4aYZJIE
+
+[2025-12-20 18:35:07](https://bsky.app/profile/reuters.com/post/3mafvohonjg2p)
+
+---
+
+@nikkei.com
+
+令和なコトバ「マイジャパン症候群」　日本好きが高じて
+www.nikkei.com/article/DGXZQO...
+
+日本に長年住んでいるというアメリカ人が「高市さんには、もっと外国人への規制を厳しくしてもらわないと」。
+
+法政大学准教授のグレゴリー・ケズナジャットさんが自著で「マイジャパン症候群」という言葉を紹介しました。
+
+「自分だけは日本通だと自負して、他の外国人を見下す現象のことを皮肉を込めてそう呼びます」。
+
+実はこの「症候群」にかかっている人は、日本社会における自分の立場を危ういものと感じている場合が多いといいます。
+
+[2025-12-20 18:30:39](https://bsky.app/profile/nikkei.com/post/3mafvgi2dv522)
+
+---
+
+@aljazeera.com
+
+Students return for in-person classes amid ruins as Palestinians fight to salvage education from systematic decimation.
+
+[2025-12-20 18:30:03](https://bsky.app/profile/aljazeera.com/post/3mafvfg2zqu27)
+
+---
 
 @sokuho.news
 
@@ -69,72 +137,6 @@ https://news.web.nhk/newsweb/na/na-k10015009361000
 https://news.web.nhk/newsweb/na/na-k10015009221000
 
 [2025-12-20 18:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafukmzvrd2b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-近鉄京都線 特急電車と車衝突 1人死亡 車運転していた人か
-https://news.web.nhk/newsweb/na/na-k10015009271000
-
-[2025-12-20 18:12:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafuf7zqgp2b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-円相場1ドル=157円台後半 利上げ発表前から約2円 円安進む
-https://news.web.nhk/newsweb/na/na-k10015009381000
-
-[2025-12-20 18:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafu7vkquh2b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-全国高校駅伝 開会式 男女各58校出場 あす京都で開催
-https://news.web.nhk/newsweb/na/na-k10015009371000
-
-[2025-12-20 18:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafu2laatx2b)
-
----
-
-@wsj.com
-
-It was once a gathering for nerdy researchers. Now it's the center of the tech universe. We went inside the meeting of AI's brightest minds.
-
-[2025-12-20 18:02:04](https://bsky.app/profile/wsj.com/post/3maftte5qkh2o)
-
----
-
-@cnn.com
-
-Trump governs with the mindset that “there’s nothing he can’t do. Nothing, zero, nothing,” his chief of staff said recently to Vanity Fair. It shows this week on the walls of the Kennedy Center – or now “The Donald J. Trump and The John F. Kennedy Memorial Center for the Performing Arts." | Analysis
-
-[2025-12-20 18:01:01](https://bsky.app/profile/cnn.com/post/3maftripcki2c)
-
----
-
-@nikkei.com
-
-ぜんそくや関節リウマチ…慢性炎症の原因タンパク質発見　千葉大学など
-www.nikkei.com/article/DGXZQO...
-
-発見したタンパク質を標的とした新しい治療薬開発につながる可能性があります。
-
-免疫細胞の１つ「T細胞」は体内に侵入したウイルスなどの異物を排除した後、一部は「記憶T細胞」として炎症が起きている組織にとどまります。
-
-研究チームは、組織にとどまり炎症の原因となる物質を放出する一部の記憶T細胞で、HLFというタンパク質が特異的に発現していることを発見しました。
-
-[2025-12-20 18:00:39](https://bsky.app/profile/nikkei.com/post/3maftqtfbju2i)
-
----
-
-@japan.reuters.com
-
-ルビオ米国務長官は１９日の記者会見で日中間の緊張について「以前から存在していた」との認識を示した上で、「日本との強固な同盟関係を継続しつつ、中国と生産的に協力できる方法を見いだせると強く信じている」と語った。 bit.ly/4p6hObc
-
-[2025-12-20 18:00:24](https://bsky.app/profile/japan.reuters.com/post/3maftqeub6y2c)
 
 ---
 
