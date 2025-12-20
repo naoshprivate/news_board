@@ -1,9 +1,9 @@
-# [2025-12-21 02:10 updated](2025_12_21.md)
+# [2025-12-21 02:30 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Gold and silver hit records in 2025. They aren't the only metals having a massive year. <a href="https://bsky.app/profile/yahoofinance.com/post/3magouu3tzu26" target="_blank">yahoofinance.com</a> (2025-12-21 02:06:05)</span><span style="padding-right:50px;">Bills add 4-time Pro Bowl DE Matthew Judon to practice squad reut.rs/3Y2Pn35 <a href="https://bsky.app/profile/reuters.com/post/3magot74zig2b" target="_blank">reuters.com</a> (2025-12-21 02:05:09)</span><span style="padding-right:50px;">It’s peak season for an elite squad of interlopers who have turned showing up uninvited into an art form.  “Why go out to a bar and be in that scene if you can go to a company party and learn, network and grow, and have sponsored free food and drinks?”    on.wsj.com/3YALUbY <a href="https://bsky.app/profile/wsj.com/post/3magoqukov42r" target="_blank">wsj.com</a> (2025-12-21 02:03:51)</span><span style="padding-right:50px;">Steve Kornacki breaks down the latest NBC News Decision Desk Poll and the issues that matter most to Americans. The poll was conducted Nov. 20-Dec. 8 and surveyed 20,252 adults nationwide online. <a href="https://bsky.app/profile/nbcnews.com/post/3magootdw4423" target="_blank">nbcnews.com</a> (2025-12-21 02:02:43)</span><span style="padding-right:50px;">Reports: ASU coach Kenny Dillingham signs 5-year contract reut.rs/48ZU5U3 <a href="https://bsky.app/profile/reuters.com/post/3magom3rlvn2o" target="_blank">reuters.com</a> (2025-12-21 02:01:11)</span>
+<span style="padding-right:50px;">Haaland propels Man City to top with double against West Ham reut.rs/4j7PfJf <a href="https://bsky.app/profile/reuters.com/post/3magpf7fqw22k" target="_blank">reuters.com</a> (2025-12-21 02:15:14)</span><span style="padding-right:50px;">UK's Prince William and son George volunteer at homelessness charity reut.rs/3YJC7jT <a href="https://bsky.app/profile/reuters.com/post/3magp456yvt2y" target="_blank">reuters.com</a> (2025-12-21 02:10:09)</span><span style="padding-right:50px;">Gold and silver hit records in 2025. They aren't the only metals having a massive year. <a href="https://bsky.app/profile/yahoofinance.com/post/3magouu3tzu26" target="_blank">yahoofinance.com</a> (2025-12-21 02:06:05)</span><span style="padding-right:50px;">Bills add 4-time Pro Bowl DE Matthew Judon to practice squad reut.rs/3Y2Pn35 <a href="https://bsky.app/profile/reuters.com/post/3magot74zig2b" target="_blank">reuters.com</a> (2025-12-21 02:05:09)</span><span style="padding-right:50px;">It’s peak season for an elite squad of interlopers who have turned showing up uninvited into an art form.  “Why go out to a bar and be in that scene if you can go to a company party and learn, network and grow, and have sponsored free food and drinks?”    on.wsj.com/3YALUbY <a href="https://bsky.app/profile/wsj.com/post/3magoqukov42r" target="_blank">wsj.com</a> (2025-12-21 02:03:51)</span>
   </div>
 </div>
 
@@ -32,21 +32,37 @@
 
 ## News Headlines
 
-- Gold and Silver Prices Hit Records in 2025
-  - 2025年に金・銀の価格が歴史的記録を更新
-- Walmart Builds Its Own Workforce to Combat Labor Shortage
-  - Walmartが労働者不足対策として自社の従業員を増やす
-- Bowen Yang to Leave 'Saturday Night Live' Mid-Season
-  - 『Saturday Night Live』のボーウェン・ヤンが中期に降板
-- US Intercepts Sanctioned Vessel Off Venezuelan Coast
-  - アメリカがベネズエラ沿岸に制裁対象船を拘束
-- Pope Leo XIV Summons Cardinals for Meetings
-  - ローマ教皇レオ14世が枢機卿を集会に招く
-- Christmas Tree Sales Indicate Cautious Consumer Spending
-  - クリスマス TREEの売り上げは消費者が慎重に取り組むことを示す
+- Haaland propels Man City to top with double against West Ham
+  - アサバンサンスタナーンがパレーロータンスタウサンタンスタウサンタムー
+- Prince William and son George volunteer at homelessness charity
+  - パーサイヵショス はゲーュータンスタウサンタンスタウサンタムー
+- Gold and silver hit records in 2025
+  - アスタアースタアー・2025年に諁年だ
+- Bills add 4-time Pro Bowl DE Matthew Judon to practice squad
+  - パースュートフーセトローケンスタウサンタムー、パルパスタタトュートロー
+- Meet the elite squad of party crashers
+  - アフングメールーコンディコースタウサンタンスタウサンタムー
+- Walmart builds own workforce to fill skilled labor gap
+  - アフョンドタンスタウサンタムーにパレーローのパレーロータンスタウサンタンスタウサンタムー
 
 
 ----
+
+@reuters.com
+
+Haaland propels Man City to top with double against West Ham reut.rs/4j7PfJf
+
+[2025-12-21 02:15:14](https://bsky.app/profile/reuters.com/post/3magpf7fqw22k)
+
+---
+
+@reuters.com
+
+UK's Prince William and son George volunteer at homelessness charity reut.rs/3YJC7jT
+
+[2025-12-21 02:10:09](https://bsky.app/profile/reuters.com/post/3magp456yvt2y)
+
+---
 
 @yahoofinance.com
 
@@ -113,26 +129,6 @@ As the number of skilled tradespeople dwindles in the U.S., Walmart is building 
 A giant redwood in England was crowned the world’s tallest living Christmas tree. But to even qualify for the Guinness World Records, a forestry team had to navigate a large festive challenge: decorating all 147 feet of it.
 
 [2025-12-21 02:00:26](https://bsky.app/profile/washingtonpost.com/post/3magokr5fs52m)
-
----
-
-@bloomberg.com
-
-Looking for a climate read for the holidays? We've got you covered with eight must-reads.
-
-[2025-12-21 02:00:19](https://bsky.app/profile/bloomberg.com/post/3magokjunny2w)
-
----
-
-@cnbc.com
-
-We teach our kids to read, write and ride a bike. But we often skip one essential life skill: money management.
-
-Learn how to teach kids to save and spend wisely, and talk about money, with the latest online course from Smarter by CNBC Make It.
-
-smarter.cnbcmakeit.com/p/how-to-rai...
-
-[2025-12-21 02:00:10](https://bsky.app/profile/cnbc.com/post/3magokbrkw22n)
 
 ---
 
