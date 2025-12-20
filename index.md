@@ -1,9 +1,9 @@
-# [2025-12-20 22:50 updated](2025_12_20.md)
+# [2025-12-20 23:10 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The justice department's release of a trove of several thousand documents concerning Jeffrey Epstein contained no explosive revelations about Donald Trump's past association with the late sex offender. ft.trib.al/mDbsNI1 <a href="https://bsky.app/profile/financialtimes.com/post/3magdu3e4tf2k" target="_blank">financialtimes.com</a> (2025-12-20 22:48:48)</span><span style="padding-right:50px;">Lucid's big SUV arrives with high expectations, and big risks <a href="https://bsky.app/profile/cnbc.com/post/3magdttfjss2y" target="_blank">cnbc.com</a> (2025-12-20 22:48:40)</span><span style="padding-right:50px;">Abel takes over for Buffett in less than two weeks. Wall Street has some advice for new Berkshire CEO <a href="https://bsky.app/profile/cnbc.com/post/3magdq4ociz23" target="_blank">cnbc.com</a> (2025-12-20 22:46:35)</span><span style="padding-right:50px;">The Oreo-sized baby turtle represents a turning point in Rockalina's recovery: Spending time with her own kind. <a href="https://bsky.app/profile/npr.org/post/3magdoksozv2y" target="_blank">npr.org</a> (2025-12-20 22:45:43)</span><span style="padding-right:50px;">Seven wild Asiatic elephants were killed and a calf was injured when a high-speed passenger train collided with a herd crossing the tracks in India's northeastern state of Assam early Saturday, local authorities said. <a href="https://bsky.app/profile/cbsnews.com/post/3magdncfjd52t" target="_blank">cbsnews.com</a> (2025-12-20 22:45:00)</span>
+<span style="padding-right:50px;">Weary homebuyers have a new headache: Misleading AI listing photos <a href="https://bsky.app/profile/yahoofinance.com/post/3magesyfezq2x" target="_blank">yahoofinance.com</a> (2025-12-20 23:06:05)</span><span style="padding-right:50px;">The home on the Big Island’s Kona-Kohala Coast has multiple structures surrounding a central courtyard. on.wsj.com/48OCoZ1 <a href="https://bsky.app/profile/wsj.com/post/3magemaiv5r2z" target="_blank">wsj.com</a> (2025-12-20 23:02:18)</span><span style="padding-right:50px;">Woke up to a sore, scratchy throat? You may blame it on dry air, but it’s usually a sign your body is fighting a viral infection.  Over-the-counter pain relievers such as ibuprofen can help, but here are some soothing home remedies to consider:  <a href="https://bsky.app/profile/washingtonpost.com/post/3magejw3gae23" target="_blank">washingtonpost.com</a> (2025-12-20 23:01:01)</span><span style="padding-right:50px;">Wagner Moura has picked up awards right and left for Brazil's Oscar hopeful "The Secret Agent." The dictatorship drama couldn't be timelier. <a href="https://bsky.app/profile/usatoday.com/post/3magejmydtu2f" target="_blank">usatoday.com</a> (2025-12-20 23:00:51)</span><span style="padding-right:50px;">AP photographers used an infrared filter on modified cameras to capture how beams are used to track vehicles and people, enable facial recognition — and ultimately, assert digital control. <a href="https://bsky.app/profile/apnews.com/post/3mageignxzg2r" target="_blank">apnews.com</a> (2025-12-20 23:00:11)</span>
   </div>
 </div>
 
@@ -34,14 +34,82 @@
 
 Here are six news headlines in English:
 
-1. 7 Elephants Killed in Train Collision in India's Assam State
-2. Bank of America Reveals Top Stock Picks for 2026
-3. Ford Recalls 273,000 Vehicles Due to Parking Function Issue
-4. Morocco's Hakimi Ready to Play at Cup of Nations After Injury
-5. Earthquake Hits Northern Japan, No Tsunami Warning Issued
-6. Wall Street's Top Stock Picks for 2026: Under-the-Radar Name Could Triple in Value
+1. Homebuyers Face New Headache: Misleading AI Listing Photos
+2. Small Oreo-Sized Turtle Represents Turning Point in Rockalina's Recovery
+3. Seven Elephants Killed in Train Collision in India's Assam State
+4. Ford Recalls 273,000 Vehicles Due to Parking Function Issue
+5. Bloomberg's Jessica Loudis Battles Demanding German Bureaucracy to Get Driver's License
+6. Central Construction Company's Collapse Highlights Risks of Rapid Expansion
 
 ----
+
+@yahoofinance.com
+
+Weary homebuyers have a new headache: Misleading AI listing photos
+
+[2025-12-20 23:06:05](https://bsky.app/profile/yahoofinance.com/post/3magesyfezq2x)
+
+---
+
+@wsj.com
+
+The home on the Big Island’s Kona-Kohala Coast has multiple structures surrounding a central courtyard. on.wsj.com/48OCoZ1
+
+[2025-12-20 23:02:18](https://bsky.app/profile/wsj.com/post/3magemaiv5r2z)
+
+---
+
+@washingtonpost.com
+
+Woke up to a sore, scratchy throat? You may blame it on dry air, but it’s usually a sign your body is fighting a viral infection.
+
+Over-the-counter pain relievers such as ibuprofen can help, but here are some soothing home remedies to consider: 
+
+[2025-12-20 23:01:01](https://bsky.app/profile/washingtonpost.com/post/3magejw3gae23)
+
+---
+
+@usatoday.com
+
+Wagner Moura has picked up awards right and left for Brazil's Oscar hopeful "The Secret Agent." The dictatorship drama couldn't be timelier.
+
+[2025-12-20 23:00:51](https://bsky.app/profile/usatoday.com/post/3magejmydtu2f)
+
+---
+
+@apnews.com
+
+AP photographers used an infrared filter on modified cameras to capture how beams are used to track vehicles and people, enable facial recognition — and ultimately, assert digital control.
+
+[2025-12-20 23:00:11](https://bsky.app/profile/apnews.com/post/3mageignxzg2r)
+
+---
+
+@bloomberg.com
+
+As investigators followed Jeffrey Epstein’s money in 2007, his elite team of attorneys waged an aggressive battle to stop them. A cache of private emails obtained by Bloomberg News reveals details of the fight. 
+
+Read our exclusive from October: 
+
+[2025-12-20 23:00:09](https://bsky.app/profile/bloomberg.com/post/3mageiex4p52p)
+
+---
+
+@cbsnews.com
+
+A life ring and a piece of a lifeboat from the Edmund Fitzgerald were sold at auction Friday for $150,000, a month after the 50th anniversary of the famous ship's sinking in Lake Superior with 29 men aboard.
+
+[2025-12-20 23:00:00](https://bsky.app/profile/cbsnews.com/post/3magei4ta6a2c)
+
+---
+
+@cnbc.com
+
+S&P 500 coasts to a third year of superior returns. Three key questions for Wall Street entering 2026
+
+[2025-12-20 22:52:55](https://bsky.app/profile/cnbc.com/post/3mage3gxa5d23)
+
+---
 
 @financialtimes.com
 
@@ -56,71 +124,6 @@ The justice department's release of a trove of several thousand documents concer
 Lucid's big SUV arrives with high expectations, and big risks
 
 [2025-12-20 22:48:40](https://bsky.app/profile/cnbc.com/post/3magdttfjss2y)
-
----
-
-@cnbc.com
-
-Abel takes over for Buffett in less than two weeks. Wall Street has some advice for new Berkshire CEO
-
-[2025-12-20 22:46:35](https://bsky.app/profile/cnbc.com/post/3magdq4ociz23)
-
----
-
-@npr.org
-
-The Oreo-sized baby turtle represents a turning point in Rockalina's recovery: Spending time with her own kind.
-
-[2025-12-20 22:45:43](https://bsky.app/profile/npr.org/post/3magdoksozv2y)
-
----
-
-@cbsnews.com
-
-Seven wild Asiatic elephants were killed and a calf was injured when a high-speed passenger train collided with a herd crossing the tracks in India's northeastern state of Assam early Saturday, local authorities said.
-
-[2025-12-20 22:45:00](https://bsky.app/profile/cbsnews.com/post/3magdncfjd52t)
-
----
-
-@cnbc.com
-
-Bank of America says Nvidia and these stocks are its top picks for 2026
-
-[2025-12-20 22:44:28](https://bsky.app/profile/cnbc.com/post/3magdmdjrcn24)
-
----
-
-@cnbc.com
-
-Wall Street's top stock picks for 2026: Mizuho’s under-the-radar name that could more than triple in value
-
-[2025-12-20 22:42:23](https://bsky.app/profile/cnbc.com/post/3magdim6she2m)
-
----
-
-@nhknewsunofficial.bsky.social
-
-北海道東部で地震相次ぐ 根室市で震度3の揺れを2回観測
-https://news.web.nhk/newsweb/na/na-k10015009521000
-
-[2025-12-20 22:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3magd5cxfmh2m)
-
----
-
-@bloomberg.com
-
-When Bloomberg’s Jessica Loudis set out to get her German driver’s license, she didn’t expect a bureaucracy so demanding it felt like a second job.
-
-[2025-12-20 22:30:24](https://bsky.app/profile/bloomberg.com/post/3magct6vwbp27)
-
----
-
-@usatoday.com
-
-Jake Paul stepped into the ring with a quality boxer and it showed on Friday night.
-
-[2025-12-20 22:30:23](https://bsky.app/profile/usatoday.com/post/3magct5lk4d2o)
 
 ---
 
