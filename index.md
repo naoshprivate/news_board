@@ -1,9 +1,9 @@
-# [2025-12-20 12:50 updated](2025_12_20.md)
+# [2025-12-20 13:10 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">米司法省 エプスタイン氏の捜査資料を公開 性的虐待などで起訴 https://news.web.nhk/newsweb/na/na-k10015009201000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafcbwnpoa24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 12:48:03)</span><span style="padding-right:50px;">🛎️産経より【独自】です。  ＜独自＞不具合のドクターヘリに部品誤装着で一時運休 ヒラタ学園、マニュアル確認せず (2025/12/20 12:30) #ニュース  🚃鉄道運行情報 🔗https://transit.yahoo.co.jp/diainfo https://www.sankei.com/article/20251220-MZQ7X4KU3FMLBOX53GX6233HXE/ <a href="https://bsky.app/profile/sokuho.news/post/3mafc6o53xc2s" target="_blank">sokuho.news</a> (2025-12-20 12:46:15)</span><span style="padding-right:50px;">Russia's Dmitriev heading for US to meet Witkoff, Kushner, source says reut.rs/48PkXHL <a href="https://bsky.app/profile/reuters.com/post/3mafbtw3vqj2y" target="_blank">reuters.com</a> (2025-12-20 12:40:15)</span><span style="padding-right:50px;">In @nytopinion.nytimes.com   “I get the sense from my students that A.I. feels like the sour icing on an already bitter cake,” Colleen Kinder writes. “Adults need to step up and set parameters so that it’s not on these kids to self-regulate.” <a href="https://bsky.app/profile/nytimes.com/post/3mafbtmtwoe2r" target="_blank">nytimes.com</a> (2025-12-20 12:40:05)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】罠にかかったクマに襲われたか “猟友会”の男性死亡 宮城 (12:37) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mafbslc2qy2y" target="_blank">sokuho.news</a> (2025-12-20 12:39:30)</span>
+<span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】踏切で特急列車と衝突した車が大破・炎上 乗客や乗員にけがなし 近鉄京都線 (13:05) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mafdhwiw252b" target="_blank">sokuho.news</a> (2025-12-20 13:09:20)</span><span style="padding-right:50px;">A top Justice Department attorney argued in court that President Donald Trump’s inflammatory rally speech before the January 6, 2021, attack on the US Capitol was at least partially aimed at furthering the broader interests of the United States. <a href="https://bsky.app/profile/cnn.com/post/3mafcz2kdgk24" target="_blank">cnn.com</a> (2025-12-20 13:01:01)</span><span style="padding-right:50px;">【大阪出発のすし旅、行き先は北九州？富山？】 JR西日本が「旅ガチャ」商品（無料記事） www.nikkei.com/article/DGXZQO...  「北九州VS富山　大阪発すし決戦きっぷ」は往復の運賃とすしクーポンを含めて9800円。行き先は申込時の抽選で決まります。  新幹線・特急の運賃とクーポン代を合わせると、通常なら北九州は3万4000円、富山は2万5000円程度するといいます。 <a href="https://bsky.app/profile/nikkei.com/post/3mafcyiqg6a24" target="_blank">nikkei.com</a> (2025-12-20 13:00:43)</span><span style="padding-right:50px;">US drops Uganda deportation order against Chinese dissident, lawyer says reut.rs/4pHJJzr <a href="https://bsky.app/profile/reuters.com/post/3mafcygsg3g2y" target="_blank">reuters.com</a> (2025-12-20 13:00:41)</span><span style="padding-right:50px;">中四国のアンテナショップ、東京でご当地「お雑煮」ふるまうイベント（無料記事） www.nikkei.com/article/DGXZQO...  「とっとり・おかやま新橋館」など4施設が連携し、2026年1月にスタンプラリーを共同開催。  計6県の特色ある雑煮を有料でふるまいます。 <a href="https://bsky.app/profile/nikkei.com/post/3mafcyfrxmk2m" target="_blank">nikkei.com</a> (2025-12-20 13:00:40)</span>
   </div>
 </div>
 
@@ -34,115 +34,110 @@
 
 Here are six important stories with headlines in English:
 
-1. Japan's Justice Ministry Releases Files on Epstein's Investigation
-2. US Justice Dept. to Appeal Dismissal of Cases Against Trump Allies
-3. Taipei Attack: Man with Knife and Smoke Grenades Targets Crowds
-4. US FDA Grants Priority Vouchers to Merck's Cholesterol and Cancer Treatments
-5. Japan and Central Asian Countries Hold First-Ever Summit
-6. US Releases Thousands of Files on Epstein's Sex Trafficking Case
+1. Breakthrough in Retirement Planning: Updated 4% Rule Allows for 4.7% Annual Withdrawal
+2. Japan Introduces Coffee Omakase, a New Twist on the Classic Coffee Experience
+3. US Drops Deportation Order Against Chinese Dissident, Lawyer Says
+4. Russia's Dmitriev to Meet Witkoff and Kushner in US, Source Says
+5. Near-Death Experience: Man Survives Bear Attack in Japan's Miyagi Prefecture
+6. US Justice Department to Appeal Dismissal of Cases Against Trump Foes Comey and James
 
 ----
-
-@nhknewsunofficial.bsky.social
-
-米司法省 エプスタイン氏の捜査資料を公開 性的虐待などで起訴
-https://news.web.nhk/newsweb/na/na-k10015009201000
-
-[2025-12-20 12:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafcbwnpoa24)
-
----
-
-@sokuho.news
-
-🛎️産経より【独自】です。
-
-＜独自＞不具合のドクターヘリに部品誤装着で一時運休 ヒラタ学園、マニュアル確認せず
-(2025/12/20 12:30) #ニュース
-
-🚃鉄道運行情報
-🔗https://transit.yahoo.co.jp/diainfo
-https://www.sankei.com/article/20251220-MZQ7X4KU3FMLBOX53GX6233HXE/
-
-[2025-12-20 12:46:15](https://bsky.app/profile/sokuho.news/post/3mafc6o53xc2s)
-
----
-
-@reuters.com
-
-Russia's Dmitriev heading for US to meet Witkoff, Kushner, source says reut.rs/48PkXHL
-
-[2025-12-20 12:40:15](https://bsky.app/profile/reuters.com/post/3mafbtw3vqj2y)
-
----
-
-@nytimes.com
-
-In @nytopinion.nytimes.com 
-
-“I get the sense from my students that A.I. feels like the sour icing on an already bitter cake,” Colleen Kinder writes. “Adults need to step up and set parameters so that it’s not on these kids to self-regulate.”
-
-[2025-12-20 12:40:05](https://bsky.app/profile/nytimes.com/post/3mafbtmtwoe2r)
-
----
 
 @sokuho.news
 
 🔔ANNより【速報】です。
 
-【速報】罠にかかったクマに襲われたか “猟友会”の男性死亡 宮城
-(12:37) #ニュース
+【速報】踏切で特急列車と衝突した車が大破・炎上 乗客や乗員にけがなし 近鉄京都線
+(13:05) #ニュース
 
-[2025-12-20 12:39:30](https://bsky.app/profile/sokuho.news/post/3mafbslc2qy2y)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】高市首相 中央アジア5カ国と初の首脳会合で成果強調「互恵的協力関係を一層引き上げる」 中露を意識し関係強化へ 「東京宣言」を採択
-(2025-12-20 12:38) #ニュース
-
-[2025-12-20 12:39:16](https://bsky.app/profile/sokuho.news/post/3mafbs56lxt2v)
+[2025-12-20 13:09:20](https://bsky.app/profile/sokuho.news/post/3mafdhwiw252b)
 
 ---
 
-@sokuho.news
+@cnn.com
 
-🛎️NNNより【速報】です。
+A top Justice Department attorney argued in court that President Donald Trump’s inflammatory rally speech before the January 6, 2021, attack on the US Capitol was at least partially aimed at furthering the broader interests of the United States.
 
-【速報】近鉄京都線の踏切で列車と車が衝突、車から火 京都
-(2025-12-20 12:33) #ニュース
-
-[2025-12-20 12:38:17](https://bsky.app/profile/sokuho.news/post/3mafbqfb2gr26)
+[2025-12-20 13:01:01](https://bsky.app/profile/cnn.com/post/3mafcz2kdgk24)
 
 ---
 
-@sokuho.news
+@nikkei.com
 
-🛎️NNNより【速報】です。
+【大阪出発のすし旅、行き先は北九州？富山？】
+JR西日本が「旅ガチャ」商品（無料記事）
+www.nikkei.com/article/DGXZQO...
 
-【速報】大和町の山林でわなにかかったクマの横に倒れた男性、消防が男性の『死亡』確認（宮城）
-(2025-12-20 12:20) #ニュース
+「北九州VS富山　大阪発すし決戦きっぷ」は往復の運賃とすしクーポンを含めて9800円。行き先は申込時の抽選で決まります。
 
-[2025-12-20 12:33:58](https://bsky.app/profile/sokuho.news/post/3mafbiomytl2a)
+新幹線・特急の運賃とクーポン代を合わせると、通常なら北九州は3万4000円、富山は2万5000円程度するといいます。
+
+[2025-12-20 13:00:43](https://bsky.app/profile/nikkei.com/post/3mafcyiqg6a24)
+
+---
+
+@reuters.com
+
+US drops Uganda deportation order against Chinese dissident, lawyer says reut.rs/4pHJJzr
+
+[2025-12-20 13:00:41](https://bsky.app/profile/reuters.com/post/3mafcygsg3g2y)
+
+---
+
+@nikkei.com
+
+中四国のアンテナショップ、東京でご当地「お雑煮」ふるまうイベント（無料記事）
+www.nikkei.com/article/DGXZQO...
+
+「とっとり・おかやま新橋館」など4施設が連携し、2026年1月にスタンプラリーを共同開催。
+
+計6県の特色ある雑煮を有料でふるまいます。
+
+[2025-12-20 13:00:40](https://bsky.app/profile/nikkei.com/post/3mafcyfrxmk2m)
+
+---
+
+@cnbc.com
+
+Retirement researcher Bill Bengen has updated the classic 4% rule and says some retirees can safely plan to withdraw 4.7%, even in worst-case scenarios.
+
+The rule says it’s generally safe to withdraw 4% of a balanced portfolio annually, adjusted for inflation, for a 30-year retirement.
+
+[2025-12-20 13:00:38](https://bsky.app/profile/cnbc.com/post/3mafcyecjpk2n)
 
 ---
 
 @japan.reuters.com
 
-男子テニスで元世界ランキング３位、スタン・バブリンカ（４０、スイス）は１９日、２０２６年限りで現役を引退する意向を示した。 bit.ly/4j4SRf7
+トランプ米大統領は８月、首都ワシントンで犯罪取り締まり強化の号令をかけた。その現場で、司法省の足元が揺らいでいる。違法な捜索や起訴への詰めの甘さ、担当幹部の不用意な発言。法曹関係者は、小さなほころびが法廷で積み重なり、刑事と民事の双方で「政府の手続きは適正に行われている」とする前提が傷つけられているとみている。 bit.ly/3YAFWb9
 
-[2025-12-20 12:33:54](https://bsky.app/profile/japan.reuters.com/post/3mafbik5sib2v)
+[2025-12-20 13:00:31](https://bsky.app/profile/japan.reuters.com/post/3mafcy536no22)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@bloomberg.com
 
-年越し前に 生活苦しい人の全国一斉相談会 弁護士らが対応
-https://news.web.nhk/newsweb/na/na-k10015009241000
+A turbulent global environment brought new challenges.
 
-[2025-12-20 12:33:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafbh2fy6f2l)
+[2025-12-20 13:00:28](https://bsky.app/profile/bloomberg.com/post/3mafcy2xyms23)
+
+---
+
+@apnews.com
+
+As 2025 wraps up, there are a few things we'd like to leave behind when the new year rolls around.
+
+[2025-12-20 13:00:08](https://bsky.app/profile/apnews.com/post/3mafcxhyok623)
+
+---
+
+@washingtonpost.com
+
+Italy brought us cappuccinos. Australia introduced the flat white. Cuba created the cafecito, and the Middle East, the qahwa.
+
+Now, Japan is bringing us coffee omakase. https://wapo.st/3KG1dNz
+
+[2025-12-20 13:00:06](https://bsky.app/profile/washingtonpost.com/post/3mafcxgsgnw2e)
 
 ---
 
