@@ -1,9 +1,9 @@
-# [2025-12-21 01:32 updated](2025_12_21.md)
+# [2025-12-21 01:50 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The winter solstice is here! Here's what to know about the shortest day and longest night of the year. <a href="https://bsky.app/profile/usatoday.com/post/3magmuxrpjv2w" target="_blank">usatoday.com</a> (2025-12-21 01:30:21)</span><span style="padding-right:50px;">Here are the major questions remaining about the cases: https://cnn.it/4j7eFq8 <a href="https://bsky.app/profile/cnn.com/post/3magmujp2cy2c" target="_blank">cnn.com</a> (2025-12-21 01:30:07)</span><span style="padding-right:50px;">A.I. chatbots have been designed to behave in a humanlike way, rather than as tools with no inner life. Some experts in human-computer interaction say this approach creates cognitive dissonance for users about what exactly they are interacting with and how much to trust it. <a href="https://bsky.app/profile/nytimes.com/post/3magmlhz5vq2r" target="_blank">nytimes.com</a> (2025-12-21 01:25:03)</span><span style="padding-right:50px;">Ready the night before and baked off in the morning, this puffy, golden-topped casserole is not just festive, it’s smart. <a href="https://bsky.app/profile/nytimes.com/post/3magm57zr7r2a" target="_blank">nytimes.com</a> (2025-12-21 01:17:05)</span><span style="padding-right:50px;">The actor and comedian Bowen Yang will leave “Saturday Night Live” after this weekend’s episode, he announced in a post on Instagram on Saturday. It’s an unexpected midseason departure for the five-time Emmy nominee. <a href="https://bsky.app/profile/nytimes.com/post/3maglzowgqo2b" target="_blank">nytimes.com</a> (2025-12-21 01:15:06)</span>
+<span style="padding-right:50px;">Bowen Yang plans to leave “Saturday Night Live,” a stunning midseason exit announcement for one of the show’s biggest stars, its first Chinese American cast member, and one of its first out gay performers. <a href="https://bsky.app/profile/washingtonpost.com/post/3magnpc7eic24" target="_blank">washingtonpost.com</a> (2025-12-21 01:45:05)</span><span style="padding-right:50px;">The Trump administration is intensifying efforts to deport people to countries where they have no connections. Last month, U.S. lawyers filed almost 5,000 motions to dismiss asylum cases and force applicants to seek protection elsewhere. <a href="https://bsky.app/profile/nytimes.com/post/3magngeljow2y" target="_blank">nytimes.com</a> (2025-12-21 01:40:05)</span><span style="padding-right:50px;">Bowen Yang will depart “SNL” mid-season after Saturday’s episode hosted by his “Wicked” buddy Ariana Grande. <a href="https://bsky.app/profile/apnews.com/post/3magnfvsx2w22" target="_blank">apnews.com</a> (2025-12-21 01:39:50)</span><span style="padding-right:50px;">Many farmers are pushing for more federal dollars to provide much-needed stability. Others, especially young farmers, are turning away from the government, looking to local networks for assistance. <a href="https://bsky.app/profile/npr.org/post/3magnbh6mf325" target="_blank">npr.org</a> (2025-12-21 01:37:20)</span><span style="padding-right:50px;">BREAKING: The Justice Department released more files related to Jeffrey Epstein on Saturday.  <a href="https://bsky.app/profile/cbsnews.com/post/3magnba2dps2q" target="_blank">cbsnews.com</a> (2025-12-21 01:37:13)</span>
   </div>
 </div>
 
@@ -32,21 +32,65 @@
 
 ## News Headlines
 
-- What to know about the shortest day and longest night of the year
-  - 最短の日と最長の夜のことを知っておく
-- Bowen Yang to leave 'Saturday Night Live' after this weekend's episode
-  - ボーウェン・ヤンが「Saturday Night Live」から去る
-- US, Russian officials to meet in Florida for more Ukraine talks
-  - 米・ロシア官僚がフロリダでウクライナの話し合い
-- China's surveillance empire built on US technology
-  - 中国は米国の技術で作った監視帝国
-- US interdicting sanctioned vessel off Venezuela coast
-  - ベネズエラ岸で制裁船を米が拿捕
-- Pope Leo XIV summons world's cardinals for meetings
-  - 教皇レオ14世が世界の枢機卿を集める
-
+[{"en": "Bowen Yang Exits ‘Saturday Night Live’ After This Weekend’s Episode", "jp": ""Saturday Night Live"のBowen Yang、番組中盤で降板"}, 
+{"en": "US Officials to Meet with Russian Counterparts in Florida for Ukraine Talks", "jp": "米・ロシア官僚、フロリダでウクライナ交渉"}, 
+{"en": "US, Russian Officials to Meet in Florida for Ukraine Talks", "jp": "米・ロシア官僚、フロリダでウクライナ交渉"}, 
+{"en": "Pope Leo XIV Summons Cardinals for Two Days of Meetings", "jp": "パプア・レオ14世、世界の枢機卿を招集"}, 
+{"en": "US Interdicts Sanctioned Vessel Off Venezuelan Coast", "jp": "米、ベネズエラ沿岸で制裁船を拿捕"}, 
+{"en": "Newcastle's Howe Slams 'Stonewall Penalty' Snub", "jp": "ニューカッスル監督、ストーンウォールペナルティーへの処分に抗議"}, 
+{"en": "Judge Orders Special Elections After Redrawing Electoral Map", "jp": "連邦裁判所、選挙区割り直しに伴う特別選挙を命じる"}]
 
 ----
+
+@washingtonpost.com
+
+Bowen Yang plans to leave “Saturday Night Live,” a stunning midseason exit announcement for one of the show’s biggest stars, its first Chinese American cast member, and one of its first out gay performers.
+
+[2025-12-21 01:45:05](https://bsky.app/profile/washingtonpost.com/post/3magnpc7eic24)
+
+---
+
+@nytimes.com
+
+The Trump administration is intensifying efforts to deport people to countries where they have no connections. Last month, U.S. lawyers filed almost 5,000 motions to dismiss asylum cases and force applicants to seek protection elsewhere.
+
+[2025-12-21 01:40:05](https://bsky.app/profile/nytimes.com/post/3magngeljow2y)
+
+---
+
+@apnews.com
+
+Bowen Yang will depart “SNL” mid-season after Saturday’s episode hosted by his “Wicked” buddy Ariana Grande.
+
+[2025-12-21 01:39:50](https://bsky.app/profile/apnews.com/post/3magnfvsx2w22)
+
+---
+
+@npr.org
+
+Many farmers are pushing for more federal dollars to provide much-needed stability. Others, especially young farmers, are turning away from the government, looking to local networks for assistance.
+
+[2025-12-21 01:37:20](https://bsky.app/profile/npr.org/post/3magnbh6mf325)
+
+---
+
+@cbsnews.com
+
+<strong><span style="color: red;">BREAKING:</span> The Justice Department released more files related to Jeffrey Epstein on Saturday. </strong>
+
+[2025-12-21 01:37:13](https://bsky.app/profile/cbsnews.com/post/3magnba2dps2q)
+
+---
+
+@cbsnews.com
+
+One person is dead and three upstate New York police officers have been injured after law enforcement responded to a domestic violence situation in Rochester, officials said early Saturday morning. 
+
+The man who called the police to the scene was also injured.
+
+[2025-12-21 01:35:01](https://bsky.app/profile/cbsnews.com/post/3magn5cezhx2a)
+
+---
 
 @usatoday.com
 
@@ -78,54 +122,6 @@ A.I. chatbots have been designed to behave in a humanlike way, rather than as to
 Ready the night before and baked off in the morning, this puffy, golden-topped casserole is not just festive, it’s smart.
 
 [2025-12-21 01:17:05](https://bsky.app/profile/nytimes.com/post/3magm57zr7r2a)
-
----
-
-@nytimes.com
-
-The actor and comedian Bowen Yang will leave “Saturday Night Live” after this weekend’s episode, he announced in a post on Instagram on Saturday. It’s an unexpected midseason departure for the five-time Emmy nominee.
-
-[2025-12-21 01:15:06](https://bsky.app/profile/nytimes.com/post/3maglzowgqo2b)
-
----
-
-@apnews.com
-
-China is exporting a surveillance empire built on U.S. technology. An AP investigation found Tibetans in Nepal are trapped under constant watch. 
-
-[2025-12-21 01:15:06](https://bsky.app/profile/apnews.com/post/3maglzoqkwc22)
-
----
-
-@reuters.com
-
-US, Russian officials to meet in Florida for more Ukraine talks reut.rs/4qoY3No
-
-[2025-12-21 01:10:10](https://bsky.app/profile/reuters.com/post/3maglqu7bc62k)
-
----
-
-@yahoofinance.com
-
-What's changing for retirement savers and retirees in 2026
-
-[2025-12-21 01:06:06](https://bsky.app/profile/yahoofinance.com/post/3magljleq2j2q)
-
----
-
-@reuters.com
-
-Exclusive: US interdicting sanctioned vessel off Venezuelan coast, officials say reut.rs/3L5cM0F
-
-[2025-12-21 01:05:09](https://bsky.app/profile/reuters.com/post/3maglhvlzdv2r)
-
----
-
-@cbsnews.com
-
-Pope Leo XIV has summoned the world's cardinals for two days of meetings to help him govern the church, the Vatican said Saturday, in the clearest sign yet that the new year will signal the unofficial start of his pontificate.
-
-[2025-12-21 01:05:01](https://bsky.app/profile/cbsnews.com/post/3maglhnj4uw2b)
 
 ---
 
