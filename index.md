@@ -1,9 +1,9 @@
-# [2025-12-20 10:30 updated](2025_12_20.md)
+# [2025-12-20 10:50 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Medtronic's diabetes business MiniMed files for US IPO reut.rs/44GC24a <a href="https://bsky.app/profile/reuters.com/post/3maezzr2c2w2o" target="_blank">reuters.com</a> (2025-12-20 10:20:21)</span><span style="padding-right:50px;">Upon arriving at the James Madison University campus in Virginia’s Blue Ridge Mountains in 1999, Jeff Bourne spied a 12,500-seat football stadium on a campus that only started playing the sport a little more than 25 years earlier.  He somehow saw a future. https://cnn.it/3MMqiH5 <a href="https://bsky.app/profile/cnn.com/post/3maezxbsmjm2t" target="_blank">cnn.com</a> (2025-12-20 10:18:58)</span><span style="padding-right:50px;">The Kennedy Center installed President Trump’s name on its exterior, a dramatic change to a building established by law as a “living memorial” to a slain president. The signage follows a vote by the board of trustees to rename it “Trump Kennedy Center.” https://wapo.st/4qh6FVU <a href="https://bsky.app/profile/washingtonpost.com/post/3maezrfbzj62m" target="_blank">washingtonpost.com</a> (2025-12-20 10:15:41)</span><span style="padding-right:50px;">米国のルビオ国務長官は１９日、ベネズエラへの対応を巡り、同国と関係が近いロシアと米国との間で緊張が高まる可能性について懸念していないと述べた。 bit.ly/4jd7FZe <a href="https://bsky.app/profile/japan.reuters.com/post/3maezqnd3xj2q" target="_blank">japan.reuters.com</a> (2025-12-20 10:15:15)</span><span style="padding-right:50px;">Newly released files from the Justice Department investigation into Jeffrey Epstein include photos of former President Bill Clinton. It isn't clear why they were included. Clinton associated with Epstein in the 1990s and early 2000s, but he's never been accused of wrongdoing by Epstein's accusers. <a href="https://bsky.app/profile/apnews.com/post/3maezqgdkdx2x" target="_blank">apnews.com</a> (2025-12-20 10:15:08)</span>
+<span style="padding-right:50px;">米大リーグ（ＭＬＢ）ドジャースに所属する大谷翔平選手の野球カードが、競売で手数料込みの３００万ドル（約４億７０００万円）で落札された。ＭＬＢ公式サイトが１９日に伝えた。 bit.ly/4arOuIC <a href="https://bsky.app/profile/japan.reuters.com/post/3maf3hbwvtq2q" target="_blank">japan.reuters.com</a> (2025-12-20 10:45:49)</span><span style="padding-right:50px;">US carries out large-scale retaliatory strikes against ISIS in Syria reut.rs/45l7DIK <a href="https://bsky.app/profile/reuters.com/post/3maf35bugmi2s" target="_blank">reuters.com</a> (2025-12-20 10:40:13)</span><span style="padding-right:50px;">Here’s what to know about the dominant version of the flu that’s circulating now. <a href="https://bsky.app/profile/nytimes.com/post/3maf352mxsb2r" target="_blank">nytimes.com</a> (2025-12-20 10:40:06)</span><span style="padding-right:50px;">Kids who are stars in sports and music don’t usually grow up to be stars as adults, a new study found. on.wsj.com/458cxc0 <a href="https://bsky.app/profile/wsj.com/post/3maf2mapbdn2h" target="_blank">wsj.com</a> (2025-12-20 10:30:42)</span><span style="padding-right:50px;">10兆円ファンド支援、東大まさかの「保留」 www.nikkei.com/article/DGXZQO...  注目論文「トップ10%論文」は2015〜24年の10年間で約1万6000本。  京大（約9700本）や東北大（約6600本）を引き離し、国際卓越研究大学の本命候補でした。  相次ぐ不祥事から見えた問題とは。 <a href="https://bsky.app/profile/nikkei.com/post/3maf2m6pnb324" target="_blank">nikkei.com</a> (2025-12-20 10:30:40)</span>
   </div>
 </div>
 
@@ -32,98 +32,103 @@
 
 ## News Headlines
 
-Here are six headlines in English:
+Here are six news headlines in English:
 
-1. Medtronic's Diabetes Business Files for US IPO
-2. James Madison University's Football Stadium a Testament to Jeff Bourne's Vision
-3. Kennedy Center Renamed Trump Kennedy Center Amid Controversy
-4. US Defense Secretary Announces Plan to Attack IS in Syria
-5. Volkswagen to Discontinue Retro Electric Bus in US Market
-6. Exclusive: Ghislaine Maxwell's Secrets Revealed in Jeffrey Epstein's Emails
+1. Shohei Ohtani's Baseball Card Sells for $3 Million at Auction
+2. US Launches Retaliatory Strikes Against ISIS in Syria
+3. New Study Finds Childhood Stars Don't Often Become Adults Stars
+4. Japan's University of Tokyo's Research Funding Support in Jeopardy
+5. SoftBank Races to Meet $22.5 Billion Funding Commitment to OpenAI
+6. US Launches Airstrikes on Syria After Killing of Two US Soldiers
 
 ----
 
-@reuters.com
-
-Medtronic's diabetes business MiniMed files for US IPO reut.rs/44GC24a
-
-[2025-12-20 10:20:21](https://bsky.app/profile/reuters.com/post/3maezzr2c2w2o)
-
----
-
-@cnn.com
-
-Upon arriving at the James Madison University campus in Virginia’s Blue Ridge Mountains in 1999, Jeff Bourne spied a 12,500-seat football stadium on a campus that only started playing the sport a little more than 25 years earlier.
-
-He somehow saw a future. https://cnn.it/3MMqiH5
-
-[2025-12-20 10:18:58](https://bsky.app/profile/cnn.com/post/3maezxbsmjm2t)
-
----
-
-@washingtonpost.com
-
-The Kennedy Center installed President Trump’s name on its exterior, a dramatic change to a building established by law as a “living memorial” to a slain president. The signage follows a vote by the board of trustees to rename it “Trump Kennedy Center.” https://wapo.st/4qh6FVU
-
-[2025-12-20 10:15:41](https://bsky.app/profile/washingtonpost.com/post/3maezrfbzj62m)
-
----
-
 @japan.reuters.com
 
-米国のルビオ国務長官は１９日、ベネズエラへの対応を巡り、同国と関係が近いロシアと米国との間で緊張が高まる可能性について懸念していないと述べた。 bit.ly/4jd7FZe
+米大リーグ（ＭＬＢ）ドジャースに所属する大谷翔平選手の野球カードが、競売で手数料込みの３００万ドル（約４億７０００万円）で落札された。ＭＬＢ公式サイトが１９日に伝えた。 bit.ly/4arOuIC
 
-[2025-12-20 10:15:15](https://bsky.app/profile/japan.reuters.com/post/3maezqnd3xj2q)
-
----
-
-@apnews.com
-
-Newly released files from the Justice Department investigation into Jeffrey Epstein include photos of former President Bill Clinton. It isn't clear why they were included. Clinton associated with Epstein in the 1990s and early 2000s, but he's never been accused of wrongdoing by Epstein's accusers.
-
-[2025-12-20 10:15:08](https://bsky.app/profile/apnews.com/post/3maezqgdkdx2x)
-
----
-
-@wsj.com
-
-WSJ’s House of the Week brings readers to South Carolina’s Kiawah Island, where the owners built a home with direct beach access on the 14th hole of a Jack Nicklaus-designed golf course. on.wsj.com/3YALBOm
-
-[2025-12-20 10:13:50](https://bsky.app/profile/wsj.com/post/3maezo3wdva2i)
+[2025-12-20 10:45:49](https://bsky.app/profile/japan.reuters.com/post/3maf3hbwvtq2q)
 
 ---
 
 @reuters.com
 
-Musk wins appeal that restores 2018 Tesla pay deal now worth about $139 billion reut.rs/48Yi9Xy
+US carries out large-scale retaliatory strikes against ISIS in Syria reut.rs/45l7DIK
 
-[2025-12-20 10:10:11](https://bsky.app/profile/reuters.com/post/3maezhle2av2i)
+[2025-12-20 10:40:13](https://bsky.app/profile/reuters.com/post/3maf35bugmi2s)
 
 ---
 
 @nytimes.com
 
-In @nytopinion.nytimes.com 
+Here’s what to know about the dominant version of the flu that’s circulating now.
 
-President Trump’s move to reschedule marijuana has “reignited familiar arguments about whether cannabis is harmless or dangerous, medicine or vice, success or failure,”  Aaron E. Carroll writes. “That debate misses the point.”
+[2025-12-20 10:40:06](https://bsky.app/profile/nytimes.com/post/3maf352mxsb2r)
 
-[2025-12-20 10:05:06](https://bsky.app/profile/nytimes.com/post/3maez6i2ggb2a)
+---
+
+@wsj.com
+
+Kids who are stars in sports and music don’t usually grow up to be stars as adults, a new study found. on.wsj.com/458cxc0
+
+[2025-12-20 10:30:42](https://bsky.app/profile/wsj.com/post/3maf2mapbdn2h)
+
+---
+
+@nikkei.com
+
+10兆円ファンド支援、東大まさかの「保留」
+www.nikkei.com/article/DGXZQO...
+
+注目論文「トップ10%論文」は2015〜24年の10年間で約1万6000本。
+
+京大（約9700本）や東北大（約6600本）を引き離し、国際卓越研究大学の本命候補でした。
+
+相次ぐ不祥事から見えた問題とは。
+
+[2025-12-20 10:30:40](https://bsky.app/profile/nikkei.com/post/3maf2m6pnb324)
+
+---
+
+@bloomberg.com
+
+The US launched airstrikes on Syria on Friday, according to a US official, fulfilling President Donald Trump’s vow to strike back after the killing of two US soldiers.
+
+[2025-12-20 10:30:30](https://bsky.app/profile/bloomberg.com/post/3maf2lvga3o2z)
 
 ---
 
 @japan.reuters.com
 
-セブン＆アイ・ホールディングスは２０日、北米のコンビニエンスストア事業会社、セブン―イレブン・インク（ＳＥＩ）のジョセフ・マイケル・デピント最高経営責任者（ＣＥＯ）が１２月３１日付（米国時間）で退任すると発表した。 bit.ly/48OdokD
+トランプ米大統領は８月、首都ワシントンで犯罪取り締まり強化の号令をかけた。その現場で、司法省の足元が揺らいでいる。違法な捜索や起訴への詰めの甘さ、担当幹部の不用意な発言。法曹関係者は、小さなほころびが法廷で積み重なり、刑事と民事の双方で「政府の手続きは適正に行われている」とする前提が傷つけられているとみている。 bit.ly/3YHNdG4
 
-[2025-12-20 10:04:54](https://bsky.app/profile/japan.reuters.com/post/3maez64igwg2u)
+[2025-12-20 10:30:29](https://bsky.app/profile/japan.reuters.com/post/3maf2lunzak27)
+
+---
+
+@reuters.com
+
+Exclusive: SoftBank races to fulfill $22.5 billion funding commitment to OpenAI by year-end, sources say reut.rs/4qdUJEw
+
+[2025-12-20 10:30:26](https://bsky.app/profile/reuters.com/post/3maf2lrvrxj2y)
 
 ---
 
 @usatoday.com
 
-Bowen Yang is exiting Studio 8H. Following departures from Ego Nwodim and Heidi Gardner, Yang will exit the cast of "Saturday Night Live."
+"Tony & Ziva" forever is no longer a thing after Paramount+ says the "NCIS" series will end after Season 1. How the stars handled the cancelation.
 
-[2025-12-20 10:01:58](https://bsky.app/profile/usatoday.com/post/3maeyyv7o262l)
+[2025-12-20 10:30:17](https://bsky.app/profile/usatoday.com/post/3maf2lj7yym2w)
+
+---
+
+@washingtonpost.com
+
+A Colorado man went to the emergency room with what he called “the worst pain of my life" after eating hot sauce made with peppers measuring over 2 million Scoville heat units.
+
+Then the bill came — about two years later.
+
+[2025-12-20 10:30:05](https://bsky.app/profile/washingtonpost.com/post/3maf2l5d3me2d)
 
 ---
 
