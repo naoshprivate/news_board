@@ -1,9 +1,9 @@
-# [2025-12-20 13:10 updated](2025_12_20.md)
+# [2025-12-20 13:30 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】踏切で特急列車と衝突した車が大破・炎上 乗客や乗員にけがなし 近鉄京都線 (13:05) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mafdhwiw252b" target="_blank">sokuho.news</a> (2025-12-20 13:09:20)</span><span style="padding-right:50px;">A top Justice Department attorney argued in court that President Donald Trump’s inflammatory rally speech before the January 6, 2021, attack on the US Capitol was at least partially aimed at furthering the broader interests of the United States. <a href="https://bsky.app/profile/cnn.com/post/3mafcz2kdgk24" target="_blank">cnn.com</a> (2025-12-20 13:01:01)</span><span style="padding-right:50px;">【大阪出発のすし旅、行き先は北九州？富山？】 JR西日本が「旅ガチャ」商品（無料記事） www.nikkei.com/article/DGXZQO...  「北九州VS富山　大阪発すし決戦きっぷ」は往復の運賃とすしクーポンを含めて9800円。行き先は申込時の抽選で決まります。  新幹線・特急の運賃とクーポン代を合わせると、通常なら北九州は3万4000円、富山は2万5000円程度するといいます。 <a href="https://bsky.app/profile/nikkei.com/post/3mafcyiqg6a24" target="_blank">nikkei.com</a> (2025-12-20 13:00:43)</span><span style="padding-right:50px;">US drops Uganda deportation order against Chinese dissident, lawyer says reut.rs/4pHJJzr <a href="https://bsky.app/profile/reuters.com/post/3mafcygsg3g2y" target="_blank">reuters.com</a> (2025-12-20 13:00:41)</span><span style="padding-right:50px;">中四国のアンテナショップ、東京でご当地「お雑煮」ふるまうイベント（無料記事） www.nikkei.com/article/DGXZQO...  「とっとり・おかやま新橋館」など4施設が連携し、2026年1月にスタンプラリーを共同開催。  計6県の特色ある雑煮を有料でふるまいます。 <a href="https://bsky.app/profile/nikkei.com/post/3mafcyfrxmk2m" target="_blank">nikkei.com</a> (2025-12-20 13:00:40)</span>
+<span style="padding-right:50px;">The Trump administration launched military strikes in Syria to "eliminate" Islamic State group fighters in retaliation for an attack that killed two U.S. troops and an American interpreter a week ago. n.pr/3LcRVZt <a href="https://bsky.app/profile/npr.org/post/3mafegji53w24" target="_blank">npr.org</a> (2025-12-20 13:26:27)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】京都・精華町で列車事故 衝突した車から出火 近鉄京都線狛田・新祝園駅間の踏切 (2025-12-20 13:24) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mafecnci2d2e" target="_blank">sokuho.news</a> (2025-12-20 13:24:17)</span><span style="padding-right:50px;">The latest travel scourge: Miracle flights full of passengers touched by "Jetway Jesus." on.wsj.com/4qmo3sx <a href="https://bsky.app/profile/wsj.com/post/3mafe4jyx2j2o" target="_blank">wsj.com</a> (2025-12-20 13:20:52)</span><span style="padding-right:50px;">Aktis Oncology files for US IPO as biotech listings rebound reut.rs/4p3Xszg <a href="https://bsky.app/profile/reuters.com/post/3mafe3b4q4e2y" target="_blank">reuters.com</a> (2025-12-20 13:20:09)</span><span style="padding-right:50px;">Pips is a logic puzzle where players must arrange a set of dominoes to meet the conditions of the board to win. There are three new puzzles each day — can you beat them all? nyti.ms/4p0cPsN <a href="https://bsky.app/profile/nytimes.com/post/3mafe35464y2e" target="_blank">nytimes.com</a> (2025-12-20 13:20:05)</span>
   </div>
 </div>
 
@@ -32,16 +32,102 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are six news headlines in English:
 
-1. Breakthrough in Retirement Planning: Updated 4% Rule Allows for 4.7% Annual Withdrawal
-2. Japan Introduces Coffee Omakase, a New Twist on the Classic Coffee Experience
-3. US Drops Deportation Order Against Chinese Dissident, Lawyer Says
-4. Russia's Dmitriev to Meet Witkoff and Kushner in US, Source Says
-5. Near-Death Experience: Man Survives Bear Attack in Japan's Miyagi Prefecture
-6. US Justice Department to Appeal Dismissal of Cases Against Trump Foes Comey and James
+1. US Launches Military Strikes in Syria to Retaliate Against ISIS
+2. US Health Agency Announces Two Medicare Pilot Programs on Drug Pricing
+3. Japan Introduces Coffee Omakase, a New Twist on the Classic Coffee Experience
+4. Italy's Cappuccino, Australia's Flat White, and Now Japan's Coffee Omakase: A Global Coffee Journey
+5. Boeing Seeks FAA Emissions Waiver to Sell 35 Additional 777F Freighters
+6. Russia's Dmitriev Heading to US to Meet Witkoff, Kushner, Says Source
 
 ----
+
+@npr.org
+
+The Trump administration launched military strikes in Syria to "eliminate" Islamic State group fighters in retaliation for an attack that killed two U.S. troops and an American interpreter a week ago. n.pr/3LcRVZt
+
+[2025-12-20 13:26:27](https://bsky.app/profile/npr.org/post/3mafegji53w24)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】京都・精華町で列車事故 衝突した車から出火 近鉄京都線狛田・新祝園駅間の踏切
+(2025-12-20 13:24) #ニュース
+
+[2025-12-20 13:24:17](https://bsky.app/profile/sokuho.news/post/3mafecnci2d2e)
+
+---
+
+@wsj.com
+
+The latest travel scourge: Miracle flights full of passengers touched by "Jetway Jesus." on.wsj.com/4qmo3sx
+
+[2025-12-20 13:20:52](https://bsky.app/profile/wsj.com/post/3mafe4jyx2j2o)
+
+---
+
+@reuters.com
+
+Aktis Oncology files for US IPO as biotech listings rebound reut.rs/4p3Xszg
+
+[2025-12-20 13:20:09](https://bsky.app/profile/reuters.com/post/3mafe3b4q4e2y)
+
+---
+
+@nytimes.com
+
+Pips is a logic puzzle where players must arrange a set of dominoes to meet the conditions of the board to win. There are three new puzzles each day — can you beat them all? nyti.ms/4p0cPsN
+
+[2025-12-20 13:20:05](https://bsky.app/profile/nytimes.com/post/3mafe35464y2e)
+
+---
+
+@nikkei.com
+
+SHEIN停止請求を棄却　フランス裁判所、政府は控訴へ（無料記事）
+www.nikkei.com/article/DGXZQO...
+
+シーインは児童を想起させる成人用玩具「ラブドール」などを販売。
+
+フランス政府は通販サイトを3カ月停止するよう求めていました。
+
+裁判所はシーインが公序良俗に著しく反していると認めたものの、既にサイト上の違法商品を削除したと指摘。
+
+停止処分は重すぎると判断しました。
+
+#ニュース
+
+[2025-12-20 13:16:40](https://bsky.app/profile/nikkei.com/post/3mafduzbdpa2f)
+
+---
+
+@japan.reuters.com
+
+米大リーグ（ＭＬＢ）パドレスが、フリーエージェントとなっていた右腕マイケル・キング投手と韓国人の宋成文内野手と契約を結ぶと、ＭＬＢ公式サイトが１９日に伝えた。 bit.ly/4p8biki
+
+[2025-12-20 13:15:17](https://bsky.app/profile/japan.reuters.com/post/3mafdsksmvm2c)
+
+---
+
+@reuters.com
+
+US health agency announces two Medicare pilot programs on drug pricing reut.rs/44Bgxlb
+
+[2025-12-20 13:10:09](https://bsky.app/profile/reuters.com/post/3mafdjeozch2k)
+
+---
+
+@japan.reuters.com
+
+米大リーグ（ＭＬＢ）エンゼルスが１９日、２０１９年に薬物の過剰摂取で急死したタイラー・スカッグス投手の遺族との民事裁判で和解に至った。和解の条件は明かされていない。 bit.ly/44BDqFd
+
+[2025-12-20 13:09:51](https://bsky.app/profile/japan.reuters.com/post/3mafditv7tm2q)
+
+---
 
 @sokuho.news
 
@@ -51,93 +137,6 @@ Here are six important stories with headlines in English:
 (13:05) #ニュース
 
 [2025-12-20 13:09:20](https://bsky.app/profile/sokuho.news/post/3mafdhwiw252b)
-
----
-
-@cnn.com
-
-A top Justice Department attorney argued in court that President Donald Trump’s inflammatory rally speech before the January 6, 2021, attack on the US Capitol was at least partially aimed at furthering the broader interests of the United States.
-
-[2025-12-20 13:01:01](https://bsky.app/profile/cnn.com/post/3mafcz2kdgk24)
-
----
-
-@nikkei.com
-
-【大阪出発のすし旅、行き先は北九州？富山？】
-JR西日本が「旅ガチャ」商品（無料記事）
-www.nikkei.com/article/DGXZQO...
-
-「北九州VS富山　大阪発すし決戦きっぷ」は往復の運賃とすしクーポンを含めて9800円。行き先は申込時の抽選で決まります。
-
-新幹線・特急の運賃とクーポン代を合わせると、通常なら北九州は3万4000円、富山は2万5000円程度するといいます。
-
-[2025-12-20 13:00:43](https://bsky.app/profile/nikkei.com/post/3mafcyiqg6a24)
-
----
-
-@reuters.com
-
-US drops Uganda deportation order against Chinese dissident, lawyer says reut.rs/4pHJJzr
-
-[2025-12-20 13:00:41](https://bsky.app/profile/reuters.com/post/3mafcygsg3g2y)
-
----
-
-@nikkei.com
-
-中四国のアンテナショップ、東京でご当地「お雑煮」ふるまうイベント（無料記事）
-www.nikkei.com/article/DGXZQO...
-
-「とっとり・おかやま新橋館」など4施設が連携し、2026年1月にスタンプラリーを共同開催。
-
-計6県の特色ある雑煮を有料でふるまいます。
-
-[2025-12-20 13:00:40](https://bsky.app/profile/nikkei.com/post/3mafcyfrxmk2m)
-
----
-
-@cnbc.com
-
-Retirement researcher Bill Bengen has updated the classic 4% rule and says some retirees can safely plan to withdraw 4.7%, even in worst-case scenarios.
-
-The rule says it’s generally safe to withdraw 4% of a balanced portfolio annually, adjusted for inflation, for a 30-year retirement.
-
-[2025-12-20 13:00:38](https://bsky.app/profile/cnbc.com/post/3mafcyecjpk2n)
-
----
-
-@japan.reuters.com
-
-トランプ米大統領は８月、首都ワシントンで犯罪取り締まり強化の号令をかけた。その現場で、司法省の足元が揺らいでいる。違法な捜索や起訴への詰めの甘さ、担当幹部の不用意な発言。法曹関係者は、小さなほころびが法廷で積み重なり、刑事と民事の双方で「政府の手続きは適正に行われている」とする前提が傷つけられているとみている。 bit.ly/3YAFWb9
-
-[2025-12-20 13:00:31](https://bsky.app/profile/japan.reuters.com/post/3mafcy536no22)
-
----
-
-@bloomberg.com
-
-A turbulent global environment brought new challenges.
-
-[2025-12-20 13:00:28](https://bsky.app/profile/bloomberg.com/post/3mafcy2xyms23)
-
----
-
-@apnews.com
-
-As 2025 wraps up, there are a few things we'd like to leave behind when the new year rolls around.
-
-[2025-12-20 13:00:08](https://bsky.app/profile/apnews.com/post/3mafcxhyok623)
-
----
-
-@washingtonpost.com
-
-Italy brought us cappuccinos. Australia introduced the flat white. Cuba created the cafecito, and the Middle East, the qahwa.
-
-Now, Japan is bringing us coffee omakase. https://wapo.st/3KG1dNz
-
-[2025-12-20 13:00:06](https://bsky.app/profile/washingtonpost.com/post/3mafcxgsgnw2e)
 
 ---
 
