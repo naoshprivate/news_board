@@ -1,9 +1,9 @@
-# [2025-12-21 04:32 updated](2025_12_21.md)
+# [2025-12-21 04:50 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Haaland double sends Man City top, Chelsea hit back to draw at Newcastle reut.rs/48O4Xph <a href="https://bsky.app/profile/reuters.com/post/3magwnhft5d2b" target="_blank">reuters.com</a> (2025-12-21 04:25:07)</span><span style="padding-right:50px;">Blue Origin: Engineer becomes first wheelchair user to go to space  <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3magwhmuju32v" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-21 04:21:50)</span><span style="padding-right:50px;">Winless Wolves equal unwanted Premier League record as relegation looms large reut.rs/4p1yh0x <a href="https://bsky.app/profile/reuters.com/post/3magw3syyrd2c" target="_blank">reuters.com</a> (2025-12-21 04:15:15)</span><span style="padding-right:50px;">BREAKING: U.S. forces stop a second sanctioned merchant vessel off the coast of Venezuela in international waters, U.S. officials say. <a href="https://bsky.app/profile/apnews.com/post/3magw2fzld32p" target="_blank">apnews.com</a> (2025-12-21 04:14:28)</span><span style="padding-right:50px;">Exclusive: The Trump administration is ramping up its efforts to deport people to other nations, filing almost 5,000 motions in November alone seeking to dismiss asylum cases and arguing that applicants can get asylum there. w/ @Allison McCann + @haleaziz.bsky.social  www.nytimes.com/2025/12/20/u... <a href="https://bsky.app/profile/jazmineulloa.bsky.social/post/3magvxawhcs2y" target="_blank">jazmineulloa.bsky.social</a> (2025-12-21 04:12:42)</span>
+<span style="padding-right:50px;">Strands is a word search with a unique twist. Can you uncover the theme? Play here: trib.al/R9ryEzr <a href="https://bsky.app/profile/nytimes.com/post/3magxxga3fc2q" target="_blank">nytimes.com</a> (2025-12-21 04:48:35)</span><span style="padding-right:50px;">ゼレンスキー大統領 “ロシア占領地域で大統領選出来ず” https://news.web.nhk/newsweb/na/na-k10015009551000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3magxwjwl3s2l" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 04:48:03)</span><span style="padding-right:50px;">You could find a pink slip in your stocking this season—so now is a good time to game out what you’ll do if you’re laid off. on.wsj.com/4jcPwuy <a href="https://bsky.app/profile/wsj.com/post/3magxtkvwbz2h" target="_blank">wsj.com</a> (2025-12-21 04:46:25)</span><span style="padding-right:50px;">Isak on target but injured as Liverpool hang on to defeat Tottenham reut.rs/48NBzj1 <a href="https://bsky.app/profile/reuters.com/post/3magxrenfiq2y" target="_blank">reuters.com</a> (2025-12-21 04:45:12)</span><span style="padding-right:50px;">働く障害者 70万人超で過去最多 法定雇用率達成した企業は46％ https://news.web.nhk/newsweb/na/na-k10015009341000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3magxr4y5js2l" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 04:45:02)</span>
   </div>
 </div>
 
@@ -30,84 +30,97 @@
 
 ---
 
-@reuters.com
+## News Headlines
 
-Haaland double sends Man City top, Chelsea hit back to draw at Newcastle reut.rs/48O4Xph
+[{"en": "Strands Word Search Has a Hidden Theme", "jp": "ストランズワードサーチに秘密のテーマが隠されている"},
+{"en": "Zelensky Says Ukraine Can't Hold Presidential Election in Occupied Territory", "jp": "ゼレンスキー大統領「ロシア占領地域で大統領選挙は実行不可能」"},
+{"en": "U.S. Seizes Sanctioned Vessel Off Venezuela's Coast", "jp": "米国がベネズエラ沖で制裁船を拿捕"},
+{"en": "U.S. Forces Stop Second Merchant Vessel Off Venezuela's Coast", "jp": "米国軍がベネズエラ沖で2隻目の商船を拿捕"},
+{"en": "Blue Origin Engineer Becomes First Wheelchair User to Go to Space", "jp": "ブルーオリジンエンジニアが宇宙に初めての車いす乗り"};
+{"en": "Forecasters Warn of Parade of Storms to Bring Heavy Rain to Northern California", "jp": "気象庁が北部カリフォルニアに大雨警報を発出"}]
 
-[2025-12-21 04:25:07](https://bsky.app/profile/reuters.com/post/3magwnhft5d2b)
+----
 
----
+@nytimes.com
 
-@bbcnews-world-rss.bsky.social
+Strands is a word search with a unique twist. Can you uncover the theme? Play here: trib.al/R9ryEzr
 
-Blue Origin: Engineer becomes first wheelchair user to go to space 
-
-[2025-12-21 04:21:50](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3magwhmuju32v)
-
----
-
-@reuters.com
-
-Winless Wolves equal unwanted Premier League record as relegation looms large reut.rs/4p1yh0x
-
-[2025-12-21 04:15:15](https://bsky.app/profile/reuters.com/post/3magw3syyrd2c)
+[2025-12-21 04:48:35](https://bsky.app/profile/nytimes.com/post/3magxxga3fc2q)
 
 ---
 
-@apnews.com
+@nhknewsunofficial.bsky.social
 
-<strong><span style="color: red;">BREAKING:</span> U.S. forces stop a second sanctioned merchant vessel off the coast of Venezuela in international waters, U.S. officials say.</strong>
+ゼレンスキー大統領 “ロシア占領地域で大統領選出来ず”
+https://news.web.nhk/newsweb/na/na-k10015009551000
 
-[2025-12-21 04:14:28](https://bsky.app/profile/apnews.com/post/3magw2fzld32p)
+[2025-12-21 04:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3magxwjwl3s2l)
 
 ---
 
-@jazmineulloa.bsky.social
+@wsj.com
 
-Exclusive: The Trump administration is ramping up its efforts to deport people to other nations, filing almost 5,000 motions in November alone seeking to dismiss asylum cases and arguing that applicants can get asylum there. w/ @Allison McCann + @haleaziz.bsky.social 
-www.nytimes.com/2025/12/20/u...
+You could find a pink slip in your stocking this season—so now is a good time to game out what you’ll do if you’re laid off. on.wsj.com/4jcPwuy
 
-[2025-12-21 04:12:42](https://bsky.app/profile/jazmineulloa.bsky.social/post/3magvxawhcs2y)
+[2025-12-21 04:46:25](https://bsky.app/profile/wsj.com/post/3magxtkvwbz2h)
 
 ---
 
 @reuters.com
 
-'Merry Christmas but it's not enough,' Man City boss tells league leading team reut.rs/492lt3R
+Isak on target but injured as Liverpool hang on to defeat Tottenham reut.rs/48NBzj1
 
-[2025-12-21 04:05:10](https://bsky.app/profile/reuters.com/post/3magvjsdrlo2y)
+[2025-12-21 04:45:12](https://bsky.app/profile/reuters.com/post/3magxrenfiq2y)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+働く障害者 70万人超で過去最多 法定雇用率達成した企業は46％
+https://news.web.nhk/newsweb/na/na-k10015009341000
+
+[2025-12-21 04:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3magxr4y5js2l)
 
 ---
 
 @nytimes.com
 
-Forecasters said a parade of storms from the Pacific Ocean will pull in a river of moisture this weekend. Over the next week, parts of Northern California could get seven to 10 inches of rain.
+Pips is a logic puzzle where players must arrange a set of dominoes to meet the conditions of the board to win. There are three new puzzles each day — Easy, Medium and Hard — so you can solve at your own speed, in any order you want. trib.al/6qNMoQ4
 
-[2025-12-21 04:05:03](https://bsky.app/profile/nytimes.com/post/3magvjlnyn427)
-
----
-
-@apnews.com
-
-Pope Leo XIV has summoned the world's cardinals for meetings to help him govern the church, marking the unofficial start of his pontificate.
-
-[2025-12-21 04:01:40](https://bsky.app/profile/apnews.com/post/3magvdjxjg32k)
+[2025-12-21 04:43:01](https://bsky.app/profile/nytimes.com/post/3magxnhopvc2i)
 
 ---
 
-@reuters.com
+@nhknewsunofficial.bsky.social
 
-Brown University shooter took IT job in Portugal after abandoning physics pursuit reut.rs/4arK9Fq
+警察とメガバンクなど連携 詐欺被害金 追跡や回収の新拠点検討
+https://news.web.nhk/newsweb/na/na-k10015009461000
 
-[2025-12-21 04:01:08](https://bsky.app/profile/reuters.com/post/3magvclfvk323)
+[2025-12-21 04:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3magxlqxmyr2l)
 
 ---
 
-@usatoday.com
+@nytimes.com
 
-Jake Paul is now linked to Muhammad Ali, with both boxers having suffered broken jaws in the boxing ring.
+More than a half-million people from across Mexico and the rest of the world were expected to descend on GNP Seguros Stadium this week to see Bad Bunny’s eight sold-out concerts, which end on Sunday.
 
-[2025-12-21 04:00:55](https://bsky.app/profile/usatoday.com/post/3magvc6n4462f)
+[2025-12-21 04:40:05](https://bsky.app/profile/nytimes.com/post/3magxiaakbr2a)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+US seizes sanctioned vessel in international waters off Venezuela's coast
+
+[2025-12-21 04:38:16](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3magxez6um72z)
+
+---
+
+@cnn.com
+
+Personnel from the United States boarded and seized a vessel off the coast of Venezuela, according to an official familiar with the matter, as the Trump administration ramps up pressure on Caracas. https://cnn.it/4s8NQWU
+
+[2025-12-21 04:37:23](https://bsky.app/profile/cnn.com/post/3magxdflx222k)
 
 ---
 
