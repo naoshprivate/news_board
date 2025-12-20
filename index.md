@@ -1,9 +1,9 @@
-# [2025-12-21 05:30 updated](2025_12_21.md)
+# [2025-12-21 05:50 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Former world heavyweight champion Anthony Joshua beat YouTuber-turned boxer Jake Paul by knockout on Friday night, seemingly breaking Paul's jaw in the process.  <a href="https://bsky.app/profile/cnn.com/post/3magzgt4whk2x" target="_blank">cnn.com</a> (2025-12-21 05:15:05)</span><span style="padding-right:50px;">Democrats continued their criticism Saturday of the agency’s partial release of the documents and heavy redactions in the files.  <a href="https://bsky.app/profile/forbes.com/post/3magzgrpyw42q" target="_blank">forbes.com</a> (2025-12-21 05:15:04)</span><span style="padding-right:50px;">The U.S. seizes another vessel off the coast of Venezuela days after announcing oil tanker blockade, sources say.  <a href="https://bsky.app/profile/cbsnews.com/post/3magzgonrx52g" target="_blank">cbsnews.com</a> (2025-12-21 05:15:01)</span><span style="padding-right:50px;">VIDEO From February, visitors to Rome's famed Trevi Fountain must pay a two-euro entrance fee to help tackle overtourism. Some 30,000 people visit the fountain daily, with large crowds making the area a target for pickpockets. Rome residents will be exempt from the charge 🎥 🇮🇹 <a href="https://bsky.app/profile/en.afp.com/post/3magzfhzyhl2d" target="_blank">en.afp.com</a> (2025-12-21 05:14:20)</span><span style="padding-right:50px;">An NPR analysis of the Epstein files shows some documents, originally available on Friday, are no longer on the Department of Justice's "Epstein Library" website as the DOJ releases more files. n.pr/4pO8hXB <a href="https://bsky.app/profile/npr.org/post/3magz2vbd4w2d" target="_blank">npr.org</a> (2025-12-21 05:08:25)</span>
+<span style="padding-right:50px;">An escalating standoff between the U.S. and Venezuela has led both countries’ militaries to jam satellite navigation signals in the Caribbean to guard against a potential attack, data show, putting air and sea traffic in the region at greater risk of a collision or accident. <a href="https://bsky.app/profile/nytimes.com/post/3mah2tjr7ui25" target="_blank">nytimes.com</a> (2025-12-21 05:40:06)</span><span style="padding-right:50px;">Pope Leo XIV has summoned the world's cardinals for two days of meetings to help him govern the church, in the clearest sign yet that the new year will signal the unofficial start of his pontificate. n.pr/44ykAyM <a href="https://bsky.app/profile/npr.org/post/3mah2ejpmut2b" target="_blank">npr.org</a> (2025-12-21 05:31:42)</span><span style="padding-right:50px;">Dave Chappelle's surprise Netflix special titled "The Unstoppable," dropped Friday night, Dec. 20. <a href="https://bsky.app/profile/usatoday.com/post/3mah2cdcnvq2h" target="_blank">usatoday.com</a> (2025-12-21 05:30:28)</span><span style="padding-right:50px;">Former world heavyweight champion Anthony Joshua beat YouTuber-turned boxer Jake Paul by knockout on Friday night, seemingly breaking Paul's jaw in the process.  <a href="https://bsky.app/profile/cnn.com/post/3magzgt4whk2x" target="_blank">cnn.com</a> (2025-12-21 05:15:05)</span><span style="padding-right:50px;">Democrats continued their criticism Saturday of the agency’s partial release of the documents and heavy redactions in the files.  <a href="https://bsky.app/profile/forbes.com/post/3magzgrpyw42q" target="_blank">forbes.com</a> (2025-12-21 05:15:04)</span>
   </div>
 </div>
 
@@ -32,21 +32,45 @@
 
 ## News Headlines
 
-- Joshua Knocks Out Jake Paul
-  - ジャック・ポールをKOで破ったアンソニー・ジョシュア
-- Democrats Criticize DOJ Over Epstein File Release
-  - エプスタインのファイルをめぐって民主党が文書公開を批判
-- US Seizes Sanctioned Vessel Off Venezuela
-  - 米国がベネズエラ沖で制裁船を拿捕
-- Trevi Fountain Visitors to Pay Entrance Fee
-  - ローマのトレヴィの泉への入場料を徴収
-- EU Prepares for a Laid-Off Christmas
-  - 年末の失業者増加でEUが対応
-- Avatar Returns to Theaters
-  - 映画「アバター」が復活
+- US, Venezuela Military Jam Satellite Signals in Caribbean
+  - テスメインスターシアングプローックを了した
+- Pope Leo XIV Prepares for Pontificate
+  - フンーコラック　パレーストアムコャドに当前を使加
+- US Seizes Vessel Off Venezuela Coast
+  - アサインスターックを年了に当前を了した
+- Democrats Criticize Trump Administration's Handling of Epstein Files
+  - ヘェゲインスターック　パレーストアムコャドを海潯きに了
+- Wolves Equal Unwanted Premier League Record
+  - ウエルサインスターック　一保很海潯きに話を各よるに了
+- Blue Origin: Engineer Becomes First Wheelchair User to Go to Space
+  - フェビンスターック　サゥストアムストアムコャド、ディケメイャスターックを使加
 
 
 ----
+
+@nytimes.com
+
+An escalating standoff between the U.S. and Venezuela has led both countries’ militaries to jam satellite navigation signals in the Caribbean to guard against a potential attack, data show, putting air and sea traffic in the region at greater risk of a collision or accident.
+
+[2025-12-21 05:40:06](https://bsky.app/profile/nytimes.com/post/3mah2tjr7ui25)
+
+---
+
+@npr.org
+
+Pope Leo XIV has summoned the world's cardinals for two days of meetings to help him govern the church, in the clearest sign yet that the new year will signal the unofficial start of his pontificate. n.pr/44ykAyM
+
+[2025-12-21 05:31:42](https://bsky.app/profile/npr.org/post/3mah2ejpmut2b)
+
+---
+
+@usatoday.com
+
+Dave Chappelle's surprise Netflix special titled "The Unstoppable," dropped Friday night, Dec. 20.
+
+[2025-12-21 05:30:28](https://bsky.app/profile/usatoday.com/post/3mah2cdcnvq2h)
+
+---
 
 @cnn.com
 
@@ -105,30 +129,6 @@ Company coming? These tips from an exemplary host take the guesswork out of crea
 (2025-12-21 04:54:00) #ニュース
 
 [2025-12-21 05:03:11](https://bsky.app/profile/sokuho.news/post/3magyrjfohf2x)
-
----
-
-@reuters.com
-
-Leverkusen earn 3-1 comeback win at Leipzig to take over third spot reut.rs/4s8PeZC
-
-[2025-12-21 05:01:05](https://bsky.app/profile/reuters.com/post/3magynrfrol2k)
-
----
-
-@apnews.com
-
-Idalia Bisbal moved from New York City to Allentown, Pa., hoping for a cheaper life. Three years later, she feels disappointed by high prices. The area remains a political battleground, with Republicans and Democrats vying for control as economic anxiety affects both parties ahead of midterms.
-
-[2025-12-21 05:00:49](https://bsky.app/profile/apnews.com/post/3magyncqp3j25)
-
----
-
-@usatoday.com
-
-"Avatar" is back, baby! James Cameron's "Fire & Ash" is in theaters. Also returning are a couple of streaming shows, "Emily in Paris" and "Fallout."
-
-[2025-12-21 05:00:30](https://bsky.app/profile/usatoday.com/post/3magymqdt3b2g)
 
 ---
 
