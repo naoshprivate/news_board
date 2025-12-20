@@ -1,9 +1,9 @@
-# [2025-12-21 03:30 updated](2025_12_21.md)
+# [2025-12-21 03:50 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Ukrainian President Volodymyr Zelensky says Washington has proposed the first face-to-face negotiations between Ukraine and Russia in half a year, as diplomats converge on the US city of Miami for fresh talks on ending the war 🇺🇦  🇺🇦  🇷🇺   u.afp.com/S8S5 <a href="https://bsky.app/profile/en.afp.com/post/3magtftkmb62d" target="_blank">en.afp.com</a> (2025-12-21 03:27:10)</span><span style="padding-right:50px;">Ukraine has used drones four times in the past few weeks to hit oil tankers from Russia’s shadow fleet, escalating the war in the seas and showing that Ukraine’s security services agency feels increasingly emboldened to launch audacious attacks and claim them publicly. <a href="https://bsky.app/profile/nytimes.com/post/3magtc2cezb2b" target="_blank">nytimes.com</a> (2025-12-21 03:25:03)</span><span style="padding-right:50px;">The Ursids, a winter solstice light show that has been active since Wednesday, will reach its peak Sunday night into Monday morning. Here is how to watch. <a href="https://bsky.app/profile/nytimes.com/post/3magtc2dcd22b" target="_blank">nytimes.com</a> (2025-12-21 03:25:03)</span><span style="padding-right:50px;">Twenty months ago, Sam Bankman-Fried was sentenced to more than two decades in prison after being found guilty of a multibillion-dollar fraud. Since then, he has become a prolific jailhouse lawyer, dispensing advice to his fellow prisoners, including the former president of Honduras and Sean Combs. <a href="https://bsky.app/profile/nytimes.com/post/3magt5wl7622f" target="_blank">nytimes.com</a> (2025-12-21 03:22:45)</span><span style="padding-right:50px;">台北 3人死亡殺傷事件 頼総統 “市民の安全や社会の安定守る” https://news.web.nhk/newsweb/na/na-k10015009531000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3magsq7qpkk2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 03:15:03)</span>
+<span style="padding-right:50px;">Ducks F Frank Vatrano fined $5K for unsportsmanlike conduct reut.rs/4qiKTBl <a href="https://bsky.app/profile/reuters.com/post/3magug5rquw2p" target="_blank">reuters.com</a> (2025-12-21 03:45:14)</span><span style="padding-right:50px;">Industry titans and Trump allies are weighing in during the final days of a sharp-elbowed campaign to succeed Jerome Powell as chair of the Fed. <a href="https://bsky.app/profile/wsj.com/post/3magueghh4r2z" target="_blank">wsj.com</a> (2025-12-21 03:44:16)</span><span style="padding-right:50px;">Congress is poised to leave for a scheduled holiday recess without a solution for addressing the expiration of enhanced subsidies for Affordable Care Act marketplace plans. <a href="https://bsky.app/profile/npr.org/post/3maguec5jde2x" target="_blank">npr.org</a> (2025-12-21 03:44:12)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】夜の住宅地で建物火災 高齢夫婦と連絡取れず 性別不明の1人の遺体発見 （島根・江津市） (2025-12-21 03:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3magu5xn6dw27" target="_blank">sokuho.news</a> (2025-12-21 03:40:39)</span><span style="padding-right:50px;">Tourists look past Guyana. It's ready to change their minds. The world's fastest-growing economy is using its oil wealth to develop its ecotourism options. <a href="https://bsky.app/profile/bloomberg.com/post/3magtlnjpbt2u" target="_blank">bloomberg.com</a> (2025-12-21 03:30:25)</span>
   </div>
 </div>
 
@@ -32,21 +32,81 @@
 
 ## News Headlines
 
-- Ukraine and Russia to Hold First Face-to-Face Negotiations in Six Months
-  - アルビタローバーーはい一亞にでいだ、ブタルタタルイントにいだたそたそを必性がいだ
-- Ukraine Uses Drones to Attack Oil Tankers from Russia's Shadow Fleet
-  - アルビタローバーーはロコタタタタジイシアタタタタジイシアタタタタジイシア
-- Ursid Meteor Shower to Peak on Sunday Night and Monday Morning
-  - ィトケルタタタタトィコタタタタトィコタタタタトィコタタタタトィコタタタ
-- Former US President's Ex-Aide Faces Trial on Jan. 3
-  - セカイスートリーサイーグ・ケイケイジイシアタタタタジイシアタタタタジイシア
-- Gold and Silver Prices Soar to Records in 2025
-  - アフンデートによるタタタタジイシアタタタタジイシア、コンデートによるタタタタジイシア、コンデートによるタタタタジイシア
-- Walmart to Train Skilled Tradespeople to Fill Labor Shortages
-  - アサェコタタタタジイシアによるスコタタタタジイシアトショストによるタタタタジイシア
+- Ducks' Frank Vatrano Fined $5K for Unsportsmanlike Conduct
+  - フランク・バトラーノに5万ドルの罰金
+- Trump Allies Weigh in on Fed Chair Succession
+  - トランプの盟友が連邦準備制度理事会議長選出をめぐって激しい争い
+- House Poised to Leave Without Solution for Expired ACA Subsidies
+  - 国会が休会に：安保法案における補助金の期限切れに解決策なし
+- Body Found in Burning Building, Elderly Couple's Whereabouts Unknown
+  - 『高齢夫婦の連絡がとれず』夜の住宅地で火災、遺体1体発見
+- Guyana's Oil Wealth Fuels Ecotourism Boom
+  - ガイアナ、石油資源で観光ブーム
+- Jake Paul Suffers Broken Jaw in Boxing Match
+  - ジェイク・ポール、ボクシングの試合で顎骨骨折
 
 
 ----
+
+@reuters.com
+
+Ducks F Frank Vatrano fined $5K for unsportsmanlike conduct reut.rs/4qiKTBl
+
+[2025-12-21 03:45:14](https://bsky.app/profile/reuters.com/post/3magug5rquw2p)
+
+---
+
+@wsj.com
+
+Industry titans and Trump allies are weighing in during the final days of a sharp-elbowed campaign to succeed Jerome Powell as chair of the Fed.
+
+[2025-12-21 03:44:16](https://bsky.app/profile/wsj.com/post/3magueghh4r2z)
+
+---
+
+@npr.org
+
+Congress is poised to leave for a scheduled holiday recess without a solution for addressing the expiration of enhanced subsidies for Affordable Care Act marketplace plans.
+
+[2025-12-21 03:44:12](https://bsky.app/profile/npr.org/post/3maguec5jde2x)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】夜の住宅地で建物火災 高齢夫婦と連絡取れず 性別不明の1人の遺体発見 （島根・江津市）
+(2025-12-21 03:00) #ニュース
+
+[2025-12-21 03:40:39](https://bsky.app/profile/sokuho.news/post/3magu5xn6dw27)
+
+---
+
+@bloomberg.com
+
+Tourists look past Guyana. It's ready to change their minds. The world's fastest-growing economy is using its oil wealth to develop its ecotourism options.
+
+[2025-12-21 03:30:25](https://bsky.app/profile/bloomberg.com/post/3magtlnjpbt2u)
+
+---
+
+@usatoday.com
+
+Jake Paul says he suffered a 'double broken jaw' after he was knocked out in the sixth round by Anthony Joshua on Friday, Dec. 19.
+
+[2025-12-21 03:30:21](https://bsky.app/profile/usatoday.com/post/3magtlk7arx2c)
+
+---
+
+@cnn.com
+
+While everyone else's stockings are hung with care, Mom's is often the last to be filled — if it's filled at all. Why? For many families, moms are the magic makers of the holidays, but so often their needs can be overlooked.
+https://cnn.it/4s8ElHb
+
+[2025-12-21 03:30:07](https://bsky.app/profile/cnn.com/post/3magtl4bynd2v)
+
+---
 
 @en.afp.com
 
@@ -72,64 +132,6 @@ Ukraine has used drones four times in the past few weeks to hit oil tankers from
 The Ursids, a winter solstice light show that has been active since Wednesday, will reach its peak Sunday night into Monday morning. Here is how to watch.
 
 [2025-12-21 03:25:03](https://bsky.app/profile/nytimes.com/post/3magtc2dcd22b)
-
----
-
-@nytimes.com
-
-Twenty months ago, Sam Bankman-Fried was sentenced to more than two decades in prison after being found guilty of a multibillion-dollar fraud. Since then, he has become a prolific jailhouse lawyer, dispensing advice to his fellow prisoners, including the former president of Honduras and Sean Combs.
-
-[2025-12-21 03:22:45](https://bsky.app/profile/nytimes.com/post/3magt5wl7622f)
-
----
-
-@nhknewsunofficial.bsky.social
-
-台北 3人死亡殺傷事件 頼総統 “市民の安全や社会の安定守る”
-https://news.web.nhk/newsweb/na/na-k10015009531000
-
-[2025-12-21 03:15:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3magsq7qpkk2u)
-
----
-
-@nhknewsunofficial.bsky.social
-
-女性の健康課題 国が指針 働く人に企業はどう向き合う？
-https://news.web.nhk/newsweb/na/na-k10015009481000
-
-[2025-12-21 03:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3magsa4obkq2y)
-
----
-
-@nbcnews.com
-
-<strong><span style="color: red;">BREAKING:</span> The Coast Guard is seizing a vessel the Trump administration says is sanctioned off the Venezuelan coast in an ongoing operation, U.S. officials say.</strong>
-
-[2025-12-21 03:05:49](https://bsky.app/profile/nbcnews.com/post/3mags7ofpte2q)
-
----
-
-@wsj.com
-
-This is not your average sporting equipment. For loved ones who are constantly pushing themselves to be better, faster or stronger, and also appreciate a luxury experience, get them designer gear to play with. on.wsj.com/4938CP4
-
-[2025-12-21 03:04:20](https://bsky.app/profile/wsj.com/post/3mags4zgl6k2h)
-
----
-
-@apnews.com
-
-Originally a Christian holiday celebrating the birth of Jesus, Christmas has evolved into a global cultural event.
-
-[2025-12-21 03:00:47](https://bsky.app/profile/apnews.com/post/3magrwnz6vc2k)
-
----
-
-@usatoday.com
-
-It began with a ceramic sombrero chip-and-dip server. It kicked off an annual holiday tradition of tacky presents.
-
-[2025-12-21 03:00:22](https://bsky.app/profile/usatoday.com/post/3magrvwjwks2w)
 
 ---
 
