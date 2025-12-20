@@ -1,9 +1,9 @@
-# [2025-12-20 16:30 updated](2025_12_20.md)
+# [2025-12-20 16:50 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Australian state to ban intifada chants after Bondi shooting <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mafolvyln426" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-20 16:28:24)</span><span style="padding-right:50px;">Fatigue, joint pain, rashes, brain fog or tingling in the hands and feet can seem like normal signs of aging—but they may also point to an autoimmune disease.   🔗: on.wsj.com/4aVx5rX <a href="https://bsky.app/profile/wsj.com/post/3mafohdx5uu2c" target="_blank">wsj.com</a> (2025-12-20 16:25:52)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】廃棄物処理場で火事 出火から12時間経過も消火活動続く 東京・江東区 (16:24) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mafoghj2xd2b" target="_blank">sokuho.news</a> (2025-12-20 16:25:22)</span><span style="padding-right:50px;">Ghana's president urged to rally African leaders behind push for slavery reparations reut.rs/48Nohmz <a href="https://bsky.app/profile/reuters.com/post/3mafofyabxp2y" target="_blank">reuters.com</a> (2025-12-20 16:25:06)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】路線バス含む4台が絡む事故 2人を病院に搬送 「明治通り」の通行止めは解除 福岡市早良区 (2025-12-20 15:40) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mafnvca2zx27" target="_blank">sokuho.news</a> (2025-12-20 16:15:46)</span>
+<span style="padding-right:50px;">フィギュア “りくりゅう”ペア SPでトップ 全日本選手権 https://news.web.nhk/newsweb/na/na-k10015009351000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafpp363kg2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 16:48:03)</span><span style="padding-right:50px;">フィギュア全日本選手権 アイスダンスRD 吉田 森田がトップに https://news.web.nhk/newsweb/na/na-k10015009311000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafozmrllg2y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 16:36:03)</span><span style="padding-right:50px;">Pakistan court hands Imran Khan, wife 17-year jail terms in another graft case reut.rs/492qo4V <a href="https://bsky.app/profile/reuters.com/post/3mafoxuccwp2y" target="_blank">reuters.com</a> (2025-12-20 16:35:06)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】佐賀バルーナーズ 79対64で横浜BCに勝利 金丸が20得点の活躍【佐賀県】 (2025-12-20 16:20) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mafoqdgfph2z" target="_blank">sokuho.news</a> (2025-12-20 16:30:54)</span><span style="padding-right:50px;">Seven elephants killed in India train accident reut.rs/49lYdz6 <a href="https://bsky.app/profile/reuters.com/post/3mafopgykqm2r" target="_blank">reuters.com</a> (2025-12-20 16:30:24)</span>
   </div>
 </div>
 
@@ -34,14 +34,75 @@
 
 Here are six important stories with headlines in English:
 
-1. Australia to Ban Intifada Chants After Bondi Shooting
-2. World Bank Approves $700 Million for Pakistan's Economic Stability
-3. Excavations in Pompeii Reveal Ancient Roman Self-Healing Concrete
-4. Taipei Attacker Acted Alone, Police Say After Four Die
-5. OWGR Chairman Says Working with LIV to Resolve World Ranking Points Issue
-6. UN’s Top Court to Hold Myanmar Genocide Hearings in January
+1. Pakistan Court Hands Imran Khan, Wife 17-Year Jail Terms in Graft Case
+2. Seven Elephants Killed in India Train Accident
+3. World Bank Approves $700 Million for Pakistan's Economic Stability
+4. Ghana's President Urged to Rally African Leaders Behind Slavery Reparations
+5. Ancient Roman Self-Healing Concrete Process Revealed in Pompeii Excavations
+6. UN's Top Court to Hold Myanmar Genocide Hearings in January
 
 ----
+
+@nhknewsunofficial.bsky.social
+
+フィギュア “りくりゅう”ペア SPでトップ 全日本選手権
+https://news.web.nhk/newsweb/na/na-k10015009351000
+
+[2025-12-20 16:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafpp363kg2b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+フィギュア全日本選手権 アイスダンスRD 吉田 森田がトップに
+https://news.web.nhk/newsweb/na/na-k10015009311000
+
+[2025-12-20 16:36:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafozmrllg2y)
+
+---
+
+@reuters.com
+
+Pakistan court hands Imran Khan, wife 17-year jail terms in another graft case reut.rs/492qo4V
+
+[2025-12-20 16:35:06](https://bsky.app/profile/reuters.com/post/3mafoxuccwp2y)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】佐賀バルーナーズ 79対64で横浜BCに勝利 金丸が20得点の活躍【佐賀県】
+(2025-12-20 16:20) #ニュース
+
+[2025-12-20 16:30:54](https://bsky.app/profile/sokuho.news/post/3mafoqdgfph2z)
+
+---
+
+@reuters.com
+
+Seven elephants killed in India train accident reut.rs/49lYdz6
+
+[2025-12-20 16:30:24](https://bsky.app/profile/reuters.com/post/3mafopgykqm2r)
+
+---
+
+@japan.reuters.com
+
+米司法省は１９日、性的虐待罪で起訴された後に死亡した富豪ジェフリー・エプスタイン氏に関する資料を公開した。開示は一部にとどまり、多くが黒塗りされている。１００ページ以上が黒塗りされた資料もある。同省は残る資料についても、公開に向けた精査を行っているとした。 bit.ly/4aqppxR
+
+[2025-12-20 16:30:19](https://bsky.app/profile/japan.reuters.com/post/3mafopcqdt42u)
+
+---
+
+@aljazeera.com
+
+Police fill the streets of Dhaka ahead of Sharif Osman Hadi's funeral at Bangladesh's parliament house.
+
+[2025-12-20 16:30:05](https://bsky.app/profile/aljazeera.com/post/3mafoov4aqi2i)
+
+---
 
 @bbcnews-world-rss.bsky.social
 
@@ -69,75 +130,6 @@ Fatigue, joint pain, rashes, brain fog or tingling in the hands and feet can see
 (16:24) #ニュース
 
 [2025-12-20 16:25:22](https://bsky.app/profile/sokuho.news/post/3mafoghj2xd2b)
-
----
-
-@reuters.com
-
-Ghana's president urged to rally African leaders behind push for slavery reparations reut.rs/48Nohmz
-
-[2025-12-20 16:25:06](https://bsky.app/profile/reuters.com/post/3mafofyabxp2y)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】路線バス含む4台が絡む事故 2人を病院に搬送 「明治通り」の通行止めは解除 福岡市早良区
-(2025-12-20 15:40) #ニュース
-
-[2025-12-20 16:15:46](https://bsky.app/profile/sokuho.news/post/3mafnvca2zx27)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Images and high-profile figures - What's in the Epstein files?
-
-[2025-12-20 16:14:10](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mafnsh43da2v)
-
----
-
-@reuters.com
-
-World Bank approves $700 million for Pakistan's economic stability reut.rs/3KGp4g3
-
-[2025-12-20 16:10:12](https://bsky.app/profile/reuters.com/post/3mafnlczjch2k)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】長崎市岡町で横転事故 車3台が玉突き
-(2025-12-20 16:06:00) #ニュース
-
-[2025-12-20 16:08:57](https://bsky.app/profile/sokuho.news/post/3mafnj3nqdy2s)
-
----
-
-@cnn.com
-
-Excavations of an ancient construction site in Pompeii have revealed the process of how Romans mixed their self-healing concrete. https://cnn.it/3MUd237
-
-[2025-12-20 16:01:02](https://bsky.app/profile/cnn.com/post/3mafn2wu67r2a)
-
----
-
-@nikkei.com
-
-LINEヤフー、AIが書くコード　社内の生産性4割アップも
-www.nikkei.com/article/DGXZQO...
-
-独自の開発支援基盤「Ark Developer」を構築しました。
-
-コードの生成や補完、校正のほか、定型的な仕様書の作成といった付帯業務までAIが代行。
-
-作業負荷軽減につながっています。
-
-[2025-12-20 16:00:39](https://bsky.app/profile/nikkei.com/post/3mafn2arhjc22)
 
 ---
 
