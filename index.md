@@ -1,9 +1,9 @@
-# [2025-12-20 21:10 updated](2025_12_20.md)
+# [2025-12-20 21:30 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">What’s next for EVs after a year of unraveling <a href="https://bsky.app/profile/yahoofinance.com/post/3mag64gliun2k" target="_blank">yahoofinance.com</a> (2025-12-20 21:06:06)</span><span style="padding-right:50px;">Huetter clinches first World Cup win of season, Vonn finishes third reut.rs/44xGHW4 <a href="https://bsky.app/profile/reuters.com/post/3mag62t4ahc2c" target="_blank">reuters.com</a> (2025-12-20 21:05:12)</span><span style="padding-right:50px;">An exhibition at the Country Music Hall of Fame and Museum examines an Alabama region’s history as a recording mecca, attracting Paul Simon, the Rolling Stones and many others. on.wsj.com/4aqW2eF <a href="https://bsky.app/profile/wsj.com/post/3mag5t6mrae2e" target="_blank">wsj.com</a> (2025-12-20 21:00:55)</span><span style="padding-right:50px;">The French painter’s frequently stunning works on paper are the subject of an enlightening exhibition at New York’s Morgan Library & Museum. on.wsj.com/48ZxKGb <a href="https://bsky.app/profile/wsj.com/post/3mag5t6hihx2t" target="_blank">wsj.com</a> (2025-12-20 21:00:55)</span><span style="padding-right:50px;">French presidential silverware keeper faces trial over suspected porcelain theft reut.rs/4953tWu <a href="https://bsky.app/profile/reuters.com/post/3mag5t4vdit2b" target="_blank">reuters.com</a> (2025-12-20 21:00:53)</span>
+<span style="padding-right:50px;">Playing the long game, Chevron is betting it is in prime position to unlock some of the world’s richest oil reserves—in Venezuela. <a href="https://bsky.app/profile/wsj.com/post/3mag766ta2z2h" target="_blank">wsj.com</a> (2025-12-20 21:24:58)</span><span style="padding-right:50px;">Anthony Joshua knocked out Jake Paul in the sixth round of their heavyweight fight on Friday night.   The two-time heavyweight champion displayed why he is one of the sport's elite punchers when he dropped Paul twice in the fifth round. <a href="https://bsky.app/profile/cbsnews.com/post/3mag6x4bdmf2g" target="_blank">cbsnews.com</a> (2025-12-20 21:21:01)</span><span style="padding-right:50px;">Space scientist, educator and broadcaster Maggie Aderin-Pocock on the search for life beyond Earth, what we might gain from mining on the Moon — and how to divert a killer asteroid ft.trib.al/sJB4LcE <a href="https://bsky.app/profile/financialtimes.com/post/3mag6tlleqg23" target="_blank">financialtimes.com</a> (2025-12-20 21:19:03)</span><span style="padding-right:50px;">鍵山優真 五輪代表内定確実 フィギュア全日本選手権を連覇 https://news.web.nhk/newsweb/na/na-k10015009491000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mag6ruskxl2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 21:18:03)</span><span style="padding-right:50px;">The Associated Press has tracked 145 cases of sabotage and disruption that Western officials blame on Russia since its 2022 invasion of Ukraine. They say Moscow wants to drain Europe’s investigative resources. <a href="https://bsky.app/profile/apnews.com/post/3mag6mjha7f2q" target="_blank">apnews.com</a> (2025-12-20 21:15:06)</span>
   </div>
 </div>
 
@@ -34,14 +34,82 @@
 
 Here are six news headlines in English:
 
-1. Tesla's $2.6 billion Elon Musk compensation package ruled invalid by US Supreme Court
-2. Imran Khan and wife sentenced to 17 years in prison for state gift fraud
-3. Los Angeles Angels, Tyler Skaggs' family reach settlement in wrongful death lawsuit
-4. Italian police seize 1.4 tonnes of drugs in nationwide crackdown
-5. Brussels like a local: Exploring the city's hidden gems and secrets
-6. Built with US tech, China's surveillance empire spreads to Nepal, crushing 'Free Tibet' movement
+1. Chevron Bets on Rich Oil Reserves in Venezuela
+2. Anthony Joshua Knocks Out Jake Paul in Heavyweight Fight
+3. Space Scientist Discusses Search for Life Beyond Earth, Moon Mining, and Asteroid Deflection
+4. Google's AI Executive Promoted to Save Dominance
+5. Russian Sabotage Cases in Ukraine Reach 145, Western Officials Say
+6. Trump Appointee Pushed for Probe of Democratic Congressman, Inspired by Conservative Media Outlet
 
 ----
+
+@wsj.com
+
+Playing the long game, Chevron is betting it is in prime position to unlock some of the world’s richest oil reserves—in Venezuela.
+
+[2025-12-20 21:24:58](https://bsky.app/profile/wsj.com/post/3mag766ta2z2h)
+
+---
+
+@cbsnews.com
+
+Anthony Joshua knocked out Jake Paul in the sixth round of their heavyweight fight on Friday night. 
+
+The two-time heavyweight champion displayed why he is one of the sport's elite punchers when he dropped Paul twice in the fifth round.
+
+[2025-12-20 21:21:01](https://bsky.app/profile/cbsnews.com/post/3mag6x4bdmf2g)
+
+---
+
+@financialtimes.com
+
+Space scientist, educator and broadcaster Maggie Aderin-Pocock on the search for life beyond Earth, what we might gain from mining on the Moon — and how to divert a killer asteroid ft.trib.al/sJB4LcE
+
+[2025-12-20 21:19:03](https://bsky.app/profile/financialtimes.com/post/3mag6tlleqg23)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+鍵山優真 五輪代表内定確実 フィギュア全日本選手権を連覇
+https://news.web.nhk/newsweb/na/na-k10015009491000
+
+[2025-12-20 21:18:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mag6ruskxl2u)
+
+---
+
+@apnews.com
+
+The Associated Press has tracked 145 cases of sabotage and disruption that Western officials blame on Russia since its 2022 invasion of Ukraine. They say Moscow wants to drain Europe’s investigative resources.
+
+[2025-12-20 21:15:06](https://bsky.app/profile/apnews.com/post/3mag6mjha7f2q)
+
+---
+
+@cnbc.com
+
+How Build-A-Bear went from a penny stock to a retail winner
+
+[2025-12-20 21:15:00](https://bsky.app/profile/cnbc.com/post/3mag6mdsihs2b)
+
+---
+
+@cnbc.com
+
+Google was at risk of losing its dominance — until it promoted this AI executive
+
+[2025-12-20 21:12:51](https://bsky.app/profile/cnbc.com/post/3mag6iiztxm24)
+
+---
+
+@cnn.com
+
+The two-time heavyweight champion displayed why he is one of the sport’s elite punchers when he dropped the fading Paul twice in the fifth round.
+https://cnn.it/4alKkC5
+
+[2025-12-20 21:10:41](https://bsky.app/profile/cnn.com/post/3mag6engqhl2x)
+
+---
 
 @yahoofinance.com
 
@@ -56,77 +124,6 @@ What’s next for EVs after a year of unraveling
 Huetter clinches first World Cup win of season, Vonn finishes third reut.rs/44xGHW4
 
 [2025-12-20 21:05:12](https://bsky.app/profile/reuters.com/post/3mag62t4ahc2c)
-
----
-
-@wsj.com
-
-An exhibition at the Country Music Hall of Fame and Museum examines an Alabama region’s history as a recording mecca, attracting Paul Simon, the Rolling Stones and many others. on.wsj.com/4aqW2eF
-
-[2025-12-20 21:00:55](https://bsky.app/profile/wsj.com/post/3mag5t6mrae2e)
-
----
-
-@wsj.com
-
-The French painter’s frequently stunning works on paper are the subject of an enlightening exhibition at New York’s Morgan Library & Museum. on.wsj.com/48ZxKGb
-
-[2025-12-20 21:00:55](https://bsky.app/profile/wsj.com/post/3mag5t6hihx2t)
-
----
-
-@reuters.com
-
-French presidential silverware keeper faces trial over suspected porcelain theft reut.rs/4953tWu
-
-[2025-12-20 21:00:53](https://bsky.app/profile/reuters.com/post/3mag5t4vdit2b)
-
----
-
-@nikkei.com
-
-針金1本で動物一筆書き　リアルな造形続けて30年
-www.nikkei.com/article/DGXZQO...
-
-チョウやスズメ、全長2〜3メートルのオオサンショウウオ…。造形作家・橋寛憲さんはペンチや手で針金を折り曲げ、生き物の制作を続けてきました。
-
-運命の出会いは美大進学を目指して予備校に通っていた高3の時。図書館で一束の針金を拾ったことでした。
-
-2025年11月 #注目された記事
-
-[2025-12-20 21:00:40](https://bsky.app/profile/nikkei.com/post/3mag5spknto2m)
-
----
-
-@usatoday.com
-
-Roblox is one of the world's largest online platforms for kids. But lawsuits allege that predators are hiding in plain sight. bit.ly/48ZEFz5
-
-[2025-12-20 21:00:30](https://bsky.app/profile/usatoday.com/post/3mag5sfztr22z)
-
----
-
-@washingtonpost.com
-
-Column: President Trump mocked the affordability struggles facing American families over housing, food, and health care. The friends and family who ask for costly gifts tend to ignore your financial limits, too. 
-
-[2025-12-20 21:00:13](https://bsky.app/profile/washingtonpost.com/post/3mag5rwetoc2e)
-
----
-
-@aljazeera.com
-
-Russian attack on Ukraine’s Odesa kills at least 8 as peace talks lumber on https://aje.io/11dl7s
-
-[2025-12-20 21:00:02](https://bsky.app/profile/aljazeera.com/post/3mag5rm23ag27)
-
----
-
-@cbsnews.com
-
-Los Angeles Angels, Tyler Skaggs' family reach settlement in wrongful death lawsuit: cbsn.ws/4pXJrVd 
-
-[2025-12-20 21:00:00](https://bsky.app/profile/cbsnews.com/post/3mag5rk7n5w2q)
 
 ---
 
