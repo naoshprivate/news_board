@@ -1,9 +1,9 @@
-# [2025-12-21 00:30 updated](2025_12_21.md)
+# [2025-12-21 00:50 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">We set out to discover whether GapStudio items are actually an upgrade — in design, quality, or both — or simply overpriced Gap offerings. nyti.ms/4pE1KOV <a href="https://bsky.app/profile/nytimes.com/post/3magjby7ljv2b" target="_blank">nytimes.com</a> (2025-12-21 00:26:03)</span><span style="padding-right:50px;">Brazil's Lula warns US intervention in Venezuela could be catastrophic reut.rs/4aZJHhK <a href="https://bsky.app/profile/reuters.com/post/3magjacxrj62i" target="_blank">reuters.com</a> (2025-12-21 00:25:07)</span><span style="padding-right:50px;">Robey Warshaw partners share £40mn profit ft.trib.al/a3YJxTE <a href="https://bsky.app/profile/financialtimes.com/post/3magiykulkq2b" target="_blank">financialtimes.com</a> (2025-12-21 00:20:47)</span><span style="padding-right:50px;">Can you beat the AP's weekend editor? Take the weekly quiz. <a href="https://bsky.app/profile/apnews.com/post/3magixfjv7l2q" target="_blank">apnews.com</a> (2025-12-21 00:20:08)</span><span style="padding-right:50px;">Most of the documents released Friday that mention Trump had already been made public. <a href="https://bsky.app/profile/forbes.com/post/3magixc2o452h" target="_blank">forbes.com</a> (2025-12-21 00:20:04)</span>
+<span style="padding-right:50px;">Before President Trump relented and signed legislation directing the Justice Department to release its Epstein-related files — some of which became public on Friday — his administration and House Republicans released tens of thousands of documents. Here’s a timeline of those earlier disclosures. <a href="https://bsky.app/profile/nytimes.com/post/3magkfb3l7s2m" target="_blank">nytimes.com</a> (2025-12-21 00:45:47)</span><span style="padding-right:50px;">Newcastle's Howe slams 'stonewall penalty' snub as defensive woes continue reut.rs/456scZq <a href="https://bsky.app/profile/reuters.com/post/3magkeeiihh2o" target="_blank">reuters.com</a> (2025-12-21 00:45:17)</span><span style="padding-right:50px;">A federal judge ordered special elections after earlier ordering the state to redraw the electoral map used to select justices, concluding the current configuration dilutes the power of Black voters. n.pr/3YDihXz <a href="https://bsky.app/profile/npr.org/post/3magka2czjg23" target="_blank">npr.org</a> (2025-12-21 00:42:52)</span><span style="padding-right:50px;">A Trump administration homelessness plan that required people to get treatment for addiction or mental illness as a condition of receiving housing funds was temporarily blocked by a federal judge on Friday. The administration has said it will try again. <a href="https://bsky.app/profile/nytimes.com/post/3magjs52dfa2e" target="_blank">nytimes.com</a> (2025-12-21 00:35:05)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:沖縄本島近海, 深さ:10km マグニチュード:2.3, 最大震度:1 📍https://www.google.com/maps?q=26.4,127.1&ll=26.4,127.1&z=7&t=h 地震発生日時:2025-12-21 00:29頃 (10倍速▶90s→9s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3magjnkt36l2z" target="_blank">sokuho.news</a> (2025-12-21 00:32:32)</span>
   </div>
 </div>
 
@@ -32,99 +32,114 @@
 
 ## News Headlines
 
-- GapStudio Items: Overpriced or Upgraded?
-  - GapStudioアイテムは値段が高すぎるのか、デザインと品質が向上したのか
-- Lula Warns US Intervention in Venezuela Could Be Catastrophic
-  - ブラジルのルラがボリビアへの米国介入を危険視
-- Robey Warshaw Partners Share £40mn Profit
-  - ロビー・ウォーシャウのパートナーが4000万ポンドの利益を分配
-- Beat the AP's Weekend Editor in Weekly Quiz
-  - 週間クイズでAPの週末編集長を破る
-- Jeffrey Epstein Investigation: Takeaways from Released Documents
-  - ジェフリー・エプスタイン事件の調査結果から見えたこと
-- Imagine a Future Where Technology Transforms Daily Life
-  - 将来は、日常生活は技術によって劇的に変化するかもしれない
+- Trump Administration's Homelessness Plan Temporarily Blocked by Federal Judge
+  - トランプ政権のホームレス計画は、連邦裁判所によって一時的に阻止された
+- Judge Orders Special Elections After Ruling Electoral Map Dilutes Black Voters' Power
+  - 裁判官は、選出した司法長官の選挙区を再調整するよう命令
+- Newcastle's Howe Slams 'Stonewall Penalty' Snub as Defensive Woes Continue
+  - ニューカッスル・ユナイテッドのホウが「ストーンウォールペナルティーの扱いを非難
+- Israel Launches New Raids in Syria's Quneitra, Establishes Checkpoints
+  - イスラエルがシリアのクネイタラで新たな攻撃を開始、チェックポイントを設置
+- Brazil's Lula Warns US Intervention in Venezuela Could Be Catastrophic
+  - ブラジルのルラ元大統領が、米国のベネズエラへの介入は惨事となる可能性を警告
+- Anthony Joshua Defeats Jake Paul via Sixth-Round Knockout
+  - アントニー・ジョシュアがジェイク・パウルを6回TKOで破る
 
 
 ----
 
 @nytimes.com
 
-We set out to discover whether GapStudio items are actually an upgrade — in design, quality, or both — or simply overpriced Gap offerings. nyti.ms/4pE1KOV
+Before President Trump relented and signed legislation directing the Justice Department to release its Epstein-related files — some of which became public on Friday — his administration and House Republicans released tens of thousands of documents. Here’s a timeline of those earlier disclosures.
 
-[2025-12-21 00:26:03](https://bsky.app/profile/nytimes.com/post/3magjby7ljv2b)
+[2025-12-21 00:45:47](https://bsky.app/profile/nytimes.com/post/3magkfb3l7s2m)
 
 ---
 
 @reuters.com
 
-Brazil's Lula warns US intervention in Venezuela could be catastrophic reut.rs/4aZJHhK
+Newcastle's Howe slams 'stonewall penalty' snub as defensive woes continue reut.rs/456scZq
 
-[2025-12-21 00:25:07](https://bsky.app/profile/reuters.com/post/3magjacxrj62i)
-
----
-
-@financialtimes.com
-
-Robey Warshaw partners share £40mn profit ft.trib.al/a3YJxTE
-
-[2025-12-21 00:20:47](https://bsky.app/profile/financialtimes.com/post/3magiykulkq2b)
+[2025-12-21 00:45:17](https://bsky.app/profile/reuters.com/post/3magkeeiihh2o)
 
 ---
 
-@apnews.com
+@npr.org
 
-Can you beat the AP's weekend editor? Take the weekly quiz.
+A federal judge ordered special elections after earlier ordering the state to redraw the electoral map used to select justices, concluding the current configuration dilutes the power of Black voters. n.pr/3YDihXz
 
-[2025-12-21 00:20:08](https://bsky.app/profile/apnews.com/post/3magixfjv7l2q)
-
----
-
-@forbes.com
-
-Most of the documents released Friday that mention Trump had already been made public.
-
-[2025-12-21 00:20:04](https://bsky.app/profile/forbes.com/post/3magixc2o452h)
-
----
-
-@yahoofinance.com
-
-The interview’s on Zoom. Here's how to actually stand out.
-
-[2025-12-21 00:06:06](https://bsky.app/profile/yahoofinance.com/post/3magi6ck2iy2d)
+[2025-12-21 00:42:52](https://bsky.app/profile/npr.org/post/3magka2czjg23)
 
 ---
 
 @nytimes.com
 
-The Justice Department released more than 13,000 files on Friday arising from investigations into the convicted sex offender Jeffrey Epstein, and said more documents would be released in the coming weeks. Here are takeaways about what the first batch of files did and did not divulge.
+A Trump administration homelessness plan that required people to get treatment for addiction or mental illness as a condition of receiving housing funds was temporarily blocked by a federal judge on Friday. The administration has said it will try again.
 
-[2025-12-21 00:05:05](https://bsky.app/profile/nytimes.com/post/3magi4icvbw2x)
+[2025-12-21 00:35:05](https://bsky.app/profile/nytimes.com/post/3magjs52dfa2e)
 
 ---
 
-@wsj.com
+@sokuho.news
 
-Five experts look ahead and imagine a future that looks totally different. on.wsj.com/4p1dolR
+🔔防災科研より【強震モニタ】動画です。
 
-[2025-12-21 00:02:44](https://bsky.app/profile/wsj.com/post/3maghybmyzf2h)
+震源:沖縄本島近海, 深さ:10km
+マグニチュード:2.3, 最大震度:1
+📍https://www.google.com/maps?q=26.4,127.1&ll=26.4,127.1&z=7&t=h
+地震発生日時:2025-12-21 00:29頃
+(10倍速▶90s→9s) #地震
+
+[2025-12-21 00:32:32](https://bsky.app/profile/sokuho.news/post/3magjnkt36l2z)
+
+---
+
+@sokuho.news
+
+🔔気象庁より【地震速報】です。
+
+0時29分頃、沖縄県で最大震度1の地震を観測しました。
+震源:沖縄本島近海, 深さ:10km, 規模:M2.3
+この地震による津波の心配はありません。
+(2025-12-21 00:32:10) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/21/2025-12-21-00-29-00.html?xlarge_image=1
+
+[2025-12-21 00:32:10](https://bsky.app/profile/sokuho.news/post/3magjmx3sf42a)
+
+---
+
+@bloomberg.com
+
+Would you eat an antelope? A 12-hour hunt for an invasive species shows how America’s appetite for wild meat is reshaping conservation and culture.
+
+[2025-12-21 00:30:31](https://bsky.app/profile/bloomberg.com/post/3magjjxopp32p)
 
 ---
 
 @usatoday.com
 
-These social media influencers are cooking up recipes from the past and unearthing long-forgotten history.
+A look at some of dishes colonial Americans like George Washington enjoyed during the Christmas season.
 
-[2025-12-21 00:00:43](https://bsky.app/profile/usatoday.com/post/3maghuomkmb25)
+[2025-12-21 00:30:22](https://bsky.app/profile/usatoday.com/post/3magjjp3jrz2c)
+
+---
+
+@cnn.com
+
+A judge Friday voided the conviction of one of the two men found guilty of the 2002 killing of Run-DMC star Jam Master Jay, ruling that there wasn't enough evidence that the man had a motive to kill the hip-hop luminary.
+https://cnn.it/44DpEC1
+
+[2025-12-21 00:30:08](https://bsky.app/profile/cnn.com/post/3magjjbev3g26)
 
 ---
 
 @washingtonpost.com
 
-Less than a day after the Kennedy Center announced it was renaming itself after the president, the signage was already updated at its iconic building. But across the internet, the name was largely unchanged.
+Anthony Joshua defeated Jake Paul via sixth-round knockout in their match in Miami.
 
-[2025-12-21 00:00:28](https://bsky.app/profile/washingtonpost.com/post/3maghu7pxlg2x)
+“The end goal was to get Jake Paul, pin him down and hurt him,” Joshua said. “It took a bit longer than expected, but the right hand finally found a destination.
+
+[2025-12-21 00:30:07](https://bsky.app/profile/washingtonpost.com/post/3magjjadpvk2d)
 
 ---
 
