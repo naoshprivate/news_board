@@ -1,9 +1,9 @@
-# [2025-12-20 15:10 updated](2025_12_20.md)
+# [2025-12-20 15:30 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Google warns staff with US visas against international travel due to embassy delays, Business Insider says reut.rs/4pGXT3K <a href="https://bsky.app/profile/reuters.com/post/3mafjwxbga424" target="_blank">reuters.com</a> (2025-12-20 15:05:07)</span><span style="padding-right:50px;">For Australia’s tiny Jewish population, Bondi Beach was a refuge within a vast country that offered sanctuary to families fleeing a seething hate that killed six million of their kind within the lifetime of some of their oldest members. <a href="https://bsky.app/profile/cnn.com/post/3mafjpmwciu2u" target="_blank">cnn.com</a> (2025-12-20 15:01:01)</span><span style="padding-right:50px;">【高校野球の７イニング制検討】 「真夏の甲子園開催」はなぜ変えられない？ www.nikkei.com/article/DGXZQO...  高野連はテレビ局から放映権料を徴収していません。  24年度の高野連の収入に当たる経常収益約16億円のうち、甲子園の入場料収入は約14億円を占めました。  大会に出場する学校への宿泊費や交通費などの支援金はこれが原資となります。  一方、高野連は甲子園を無料で使用。多額の球場使用料が発生することになるドーム球場などへの移行は、大会運営の屋台骨を揺るがしかねません。 <a href="https://bsky.app/profile/nikkei.com/post/3mafjp22jxh2n" target="_blank">nikkei.com</a> (2025-12-20 15:00:42)</span><span style="padding-right:50px;">書籍、5年で1割値上がり　雑誌は2割高 www.nikkei.com/article/DGXZQO...  文庫は新刊のみの試算で801円と5年で101円上昇。手軽さが魅力でしたが、最近は1000円超えも珍しくありません。  印刷用紙代・物流費の上昇や販売部数の減少が響きます。  2025年11月 #注目された記事 <a href="https://bsky.app/profile/nikkei.com/post/3mafjoyqfgt2m" target="_blank">nikkei.com</a> (2025-12-20 15:00:40)</span><span style="padding-right:50px;">Oilers place newly-acquired G Tristan Jarry on IR reut.rs/3Y1jw2G <a href="https://bsky.app/profile/reuters.com/post/3mafjopeqvp2b" target="_blank">reuters.com</a> (2025-12-20 15:00:30)</span>
+<span style="padding-right:50px;">22兆円に マスク氏への巨額報酬案 一転有効との判断 州最高裁 https://news.web.nhk/newsweb/na/na-k10015009291000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafl6eb6tq2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 15:27:07)</span><span style="padding-right:50px;">近鉄京都線 踏切で特急電車と車衝突 1人重体 運転していた人か https://news.web.nhk/newsweb/na/na-k10015009271000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafl673tuw26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 15:27:02)</span><span style="padding-right:50px;">Joshua delivers reality check to Paul with sixth-round KO reut.rs/498WwE3 <a href="https://bsky.app/profile/reuters.com/post/3mafl2oioe62o" target="_blank">reuters.com</a> (2025-12-20 15:25:06)</span><span style="padding-right:50px;">Consumer sentiment in Germany to fall heading into 2026, survey shows reut.rs/4aJJJKP <a href="https://bsky.app/profile/reuters.com/post/3mafkiwnzvg2i" target="_blank">reuters.com</a> (2025-12-20 15:15:10)</span><span style="padding-right:50px;">鳴門海峡付近で漁船が転覆か 船内で発見の男性 意識不明 https://news.web.nhk/newsweb/na/na-k10015009281000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafkiqacat2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 15:15:02)</span>
   </div>
 </div>
 
@@ -32,16 +32,75 @@
 
 ## News Headlines
 
-Here are six headlines in English:
+Here are six important stories with headlines in English:
 
-1. Google warns staff with US visas against international travel due to embassy delays
-2. Universal Studios in early planning stages for theme park in Saudi Arabia
-3. USDA confirms bird flu case in Wisconsin dairy herd as new wildlife spillover
-4. The Justice Department releases thousands of new photos and records on Jeffrey Epstein, but many pages are redacted
-5. New antiviral drug for riketsiosis approved in Japan, the first oral medication in decades
-6. US FDA grants market authorization to six on! PLUS nicotine pouch products
+1. Tesla CEO's $2.2 billion compensation package deemed valid by Delaware Supreme Court
+2. Joshua delivers reality check to Paul with sixth-round KO
+3. Germany's consumer sentiment set to fall heading into 2026
+4. Final fugitive caught in Louisiana jailbreak
+5. China issues new rules to regulate internet platform pricing
+6. England needs 329 runs to win in third Ashes test
 
 ----
+
+@nhknewsunofficial.bsky.social
+
+22兆円に マスク氏への巨額報酬案 一転有効との判断 州最高裁
+https://news.web.nhk/newsweb/na/na-k10015009291000
+
+[2025-12-20 15:27:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafl6eb6tq2m)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+近鉄京都線 踏切で特急電車と車衝突 1人重体 運転していた人か
+https://news.web.nhk/newsweb/na/na-k10015009271000
+
+[2025-12-20 15:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafl673tuw26)
+
+---
+
+@reuters.com
+
+Joshua delivers reality check to Paul with sixth-round KO reut.rs/498WwE3
+
+[2025-12-20 15:25:06](https://bsky.app/profile/reuters.com/post/3mafl2oioe62o)
+
+---
+
+@reuters.com
+
+Consumer sentiment in Germany to fall heading into 2026, survey shows reut.rs/4aJJJKP
+
+[2025-12-20 15:15:10](https://bsky.app/profile/reuters.com/post/3mafkiwnzvg2i)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+鳴門海峡付近で漁船が転覆か 船内で発見の男性 意識不明
+https://news.web.nhk/newsweb/na/na-k10015009281000
+
+[2025-12-20 15:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafkiqacat2k)
+
+---
+
+@financialtimes.com
+
+How a failed baseball player and ex-stock broker became a major arms dealer ft.trib.al/yI20Q8Q
+
+[2025-12-20 15:14:23](https://bsky.app/profile/financialtimes.com/post/3mafkhjfujd2q)
+
+---
+
+@reuters.com
+
+Arsenal's Arteta says he has to earn the right to get contract extension reut.rs/4pXyVNJ
+
+[2025-12-20 15:10:07](https://bsky.app/profile/reuters.com/post/3mafk7vpas72x)
+
+---
 
 @reuters.com
 
@@ -74,71 +133,6 @@ www.nikkei.com/article/DGXZQO...
 一方、高野連は甲子園を無料で使用。多額の球場使用料が発生することになるドーム球場などへの移行は、大会運営の屋台骨を揺るがしかねません。
 
 [2025-12-20 15:00:42](https://bsky.app/profile/nikkei.com/post/3mafjp22jxh2n)
-
----
-
-@nikkei.com
-
-書籍、5年で1割値上がり　雑誌は2割高
-www.nikkei.com/article/DGXZQO...
-
-文庫は新刊のみの試算で801円と5年で101円上昇。手軽さが魅力でしたが、最近は1000円超えも珍しくありません。
-
-印刷用紙代・物流費の上昇や販売部数の減少が響きます。
-
-2025年11月 #注目された記事
-
-[2025-12-20 15:00:40](https://bsky.app/profile/nikkei.com/post/3mafjoyqfgt2m)
-
----
-
-@reuters.com
-
-Oilers place newly-acquired G Tristan Jarry on IR reut.rs/3Y1jw2G
-
-[2025-12-20 15:00:30](https://bsky.app/profile/reuters.com/post/3mafjopeqvp2b)
-
----
-
-@bloomberg.com
-
-Follow Bloomberg India on WhatsApp for exclusive content and analysis on what billionaires, businesses and markets are doing. whatsapp.com/channel/0029...
-
-[2025-12-20 15:00:23](https://bsky.app/profile/bloomberg.com/post/3mafjohut6523)
-
----
-
-@washingtonpost.com
-
-In 2023, the Education Department launched investigations into a Texas school district after several alleged incidents of racial bullying, and an investigator was planning to visit.
-
-Then the 2024 presidential election happened — and the visit didn’t.
-
-[2025-12-20 15:00:10](https://bsky.app/profile/washingtonpost.com/post/3mafjo3mjou2y)
-
----
-
-@cbsnews.com
-
-The last of two inmates who had been on the run since escaping from a jail in the southern Louisiana city of Opelousas earlier this month has been caught, officials said Friday.
-
-[2025-12-20 15:00:01](https://bsky.app/profile/cbsnews.com/post/3mafjntowff2p)
-
----
-
-@wsj.com
-
-The Justice Department has released files related to the government’s investigation of Jeffrey Epstein, but lawmakers said the latest disclosure fell short of what they demanded.
-
-[2025-12-20 14:53:43](https://bsky.app/profile/wsj.com/post/3mafjclftbb2h)
-
----
-
-@wsj.com
-
-Twenty-five years ago, two promising physicists graduated from a prestigious science university in Lisbon. This week, one gunned the other down after firing on a classroom of university students, authorities say.
-
-[2025-12-20 14:52:11](https://bsky.app/profile/wsj.com/post/3mafj7t3yjg2r)
 
 ---
 
