@@ -1,9 +1,9 @@
-# [2025-12-20 21:50 updated](2025_12_20.md)
+# [2025-12-20 22:10 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">DraftKings is entering the red-hot prediction markets business, launching technology that lets users trade contracts linked to sporting and financial events.  <a href="https://bsky.app/profile/cbsnews.com/post/3magabzx4w72q" target="_blank">cbsnews.com</a> (2025-12-20 21:45:01)</span><span style="padding-right:50px;">【地震速報】北海道根室市など震度3 津波の心配なし（21:30） https://news.web.nhk/newsweb/na/na-k10015006091000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maga4uw5wq2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 21:42:06)</span><span style="padding-right:50px;">【地震速報】北海道根室市で震度3 津波の心配なし（21:33） https://news.web.nhk/newsweb/na/na-k10015009501000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maga4ql2yn2y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 21:42:02)</span><span style="padding-right:50px;">【地震速報】北海道根室市などで震度3 津波の心配なし https://news.web.nhk/newsweb/na/na-k10015006091000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mag7xfi7kx2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 21:39:02)</span><span style="padding-right:50px;">Discover a broad range of this year's most compelling classical recordings, including symphonic booty-shakers, mystic violin, pipe organ prog and a guided tour of 18th century German chart-toppers. <a href="https://bsky.app/profile/npr.org/post/3mag7vpu2ng2b" target="_blank">npr.org</a> (2025-12-20 21:38:08)</span>
+<span style="padding-right:50px;">Stellantis CEO says investments at risk in Europe after EU auto package reut.rs/49njA36 <a href="https://bsky.app/profile/reuters.com/post/3magbfznpic2r" target="_blank">reuters.com</a> (2025-12-20 22:05:09)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:根室半島南東沖, 深さ:10km マグニチュード:5.0, 最大震度:2 📍https://www.google.com/maps?q=42.7,146.0&ll=42.7,146.0&z=7&t=h 地震発生日時:2025-12-20 21:58頃 (10倍速▶210s→21s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3magbd7bddb2y" target="_blank">sokuho.news</a> (2025-12-20 22:03:34)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  21時58分頃、北海道で最大震度2の地震を観測しました。 震源:根室半島南東沖, 深さ:10km, 規模:M5.0 この地震による津波の心配はありません。 (2025-12-20 22:02:54) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/20/2025-12-20-21-59-02.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3magbbzunuz2e" target="_blank">sokuho.news</a> (2025-12-20 22:02:54)</span><span style="padding-right:50px;">WSJ readers share their opinions about the latest assisted-driving technologies that are designed to make driving safer on.wsj.com/3MUCndf <a href="https://bsky.app/profile/wsj.com/post/3magba4od6n2g" target="_blank">wsj.com</a> (2025-12-20 22:01:51)</span><span style="padding-right:50px;">Morocco's Hakimi ready to play at Cup of Nations after injury reut.rs/498MfYw <a href="https://bsky.app/profile/reuters.com/post/3magb6emokk23" target="_blank">reuters.com</a> (2025-12-20 22:00:52)</span>
   </div>
 </div>
 
@@ -32,57 +32,22 @@
 
 ## News Headlines
 
-Here are six news headlines in English:
+Here are six important stories with headlines in English:
 
-1. Italy's Supreme Court Rules in Favor of TIM in 1998 Concession Fee Case
-2. 5.4 Magnitude Earthquake Strikes Off Coast of Hokkaido, Japan
-3. Italian Couple Accused of Misrepresenting Value of State Gifts, Including Jewelry
-4. Anthony Joshua Knocks Out Jake Paul in Heavyweight Fight
-5. Russian Sabotage and Disruption: AP Tracks 145 Cases Since Ukraine Invasion
-6. Build-A-Bear Goes from Penny Stock to Retail Winner
+1. EU Auto Package Sparks Investment Risk for Stellantis CEO
+2. Magnitude 5.0 Earthquake Hits Off Hokkaido Coast
+3. DraftKings Enters Prediction Markets Business with New Technology
+4. Italy's Supreme Court Rules in Favor of TIM in 1998 Concession Fee Case
+5. Airlines and Roads Expect Heavy Holiday Travel
+6. Albert Brooks Mourns Loss of Friendship with Director Rob Reiner
 
 ----
 
-@cbsnews.com
+@reuters.com
 
-DraftKings is entering the red-hot prediction markets business, launching technology that lets users trade contracts linked to sporting and financial events. 
+Stellantis CEO says investments at risk in Europe after EU auto package reut.rs/49njA36
 
-[2025-12-20 21:45:01](https://bsky.app/profile/cbsnews.com/post/3magabzx4w72q)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【地震速報】北海道根室市など震度3 津波の心配なし（21:30）
-https://news.web.nhk/newsweb/na/na-k10015006091000
-
-[2025-12-20 21:42:06](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maga4uw5wq2b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【地震速報】北海道根室市で震度3 津波の心配なし（21:33）
-https://news.web.nhk/newsweb/na/na-k10015009501000
-
-[2025-12-20 21:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maga4ql2yn2y)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【地震速報】北海道根室市などで震度3 津波の心配なし
-https://news.web.nhk/newsweb/na/na-k10015006091000
-
-[2025-12-20 21:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mag7xfi7kx2v)
-
----
-
-@npr.org
-
-Discover a broad range of this year's most compelling classical recordings, including symphonic booty-shakers, mystic violin, pipe organ prog and a guided tour of 18th century German chart-toppers.
-
-[2025-12-20 21:38:08](https://bsky.app/profile/npr.org/post/3mag7vpu2ng2b)
+[2025-12-20 22:05:09](https://bsky.app/profile/reuters.com/post/3magbfznpic2r)
 
 ---
 
@@ -90,25 +55,13 @@ Discover a broad range of this year's most compelling classical recordings, incl
 
 🔔防災科研より【強震モニタ】動画です。
 
-震源:根室半島南東沖, 深さ:ごく浅い
-マグニチュード:5.2, 最大震度:3
+震源:根室半島南東沖, 深さ:10km
+マグニチュード:5.0, 最大震度:2
 📍https://www.google.com/maps?q=42.7,146.0&ll=42.7,146.0&z=7&t=h
-地震発生日時:2025-12-20 21:33頃
+地震発生日時:2025-12-20 21:58頃
 (10倍速▶210s→21s) #地震
 
-[2025-12-20 21:38:05](https://bsky.app/profile/sokuho.news/post/3mag7vn65fg2r)
-
----
-
-@sokuho.news
-
-🔔NHKより【地震速報】です。
-
-■震度3■
-根室南部
-(2025-12-20 21:33) #地震
-
-[2025-12-20 21:37:34](https://bsky.app/profile/sokuho.news/post/3mag7uppwzv27)
+[2025-12-20 22:03:34](https://bsky.app/profile/sokuho.news/post/3magbd7bddb2y)
 
 ---
 
@@ -116,13 +69,64 @@ Discover a broad range of this year's most compelling classical recordings, incl
 
 🔔気象庁より【地震速報】です。
 
-21時33分頃、北海道で最大震度3の地震を観測しました。
-震源:根室半島南東沖, 深さ:ごく浅い, 規模:M5.2
+21時58分頃、北海道で最大震度2の地震を観測しました。
+震源:根室半島南東沖, 深さ:10km, 規模:M5.0
 この地震による津波の心配はありません。
-(2025-12-20 21:37:21) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/20/2025-12-20-21-34-05.html?xlarge_image=1
+(2025-12-20 22:02:54) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/20/2025-12-20-21-59-02.html?xlarge_image=1
 
-[2025-12-20 21:37:22](https://bsky.app/profile/sokuho.news/post/3mag7ue5ilp2b)
+[2025-12-20 22:02:54](https://bsky.app/profile/sokuho.news/post/3magbbzunuz2e)
+
+---
+
+@wsj.com
+
+WSJ readers share their opinions about the latest assisted-driving technologies that are designed to make driving safer on.wsj.com/3MUCndf
+
+[2025-12-20 22:01:51](https://bsky.app/profile/wsj.com/post/3magba4od6n2g)
+
+---
+
+@reuters.com
+
+Morocco's Hakimi ready to play at Cup of Nations after injury reut.rs/498MfYw
+
+[2025-12-20 22:00:52](https://bsky.app/profile/reuters.com/post/3magb6emokk23)
+
+---
+
+@nikkei.com
+
+中央建設の破綻、カリスマ経営のツケ
+www.nikkei.com/article/DGXZQO...
+
+長らく「愛媛県内の老舗建築業者」だった同社は、渡部功治氏の社長就任後に事業を急速に拡大します。
+
+「新豊洲Brilliaランニングスタジアム」（当時）は2018年に国内の優秀な建築物を表彰するBCS賞を受賞。
+
+21年の東京オリンピックの関連施設も手掛けます。
+
+しかし、積極的な人材採用を進める裏で役員・幹部クラスを含めた社員の退職が相次いでいました。
+
+[2025-12-20 22:00:40](https://bsky.app/profile/nikkei.com/post/3magb5zfrdm22)
+
+---
+
+@cnbc.com
+
+Known as "Health with Hunter" on social media, this nutrition and health coach recommends this healthy breakfast to feel your best.
+
+“I’ll say six out of every seven days a week, I have a yogurt bowl just because I know it’s balanced,” he tells CNBC Make It.
+
+[2025-12-20 22:00:35](https://bsky.app/profile/cnbc.com/post/3magb5ulzwp2i)
+
+---
+
+@usatoday.com
+
+Actor and comedian Albert Brooks is grieving the loss of his friendship with director Rob Reiner, which dates back more than half a century.
+
+[2025-12-20 22:00:29](https://bsky.app/profile/usatoday.com/post/3magb5oxsvb2t)
 
 ---
 
@@ -132,19 +136,23 @@ https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/20/2025-12-20-21-34
 
 ⚠️揺れに警戒してください
 
-🔶防災科研/強震モニタ/予測震度画像9🈡
-(2025-12-20 21:35:05) #緊急地震速報
+🔶防災科研/強震モニタ/予測震度画像7🈡
+(2025-12-20 22:00:05) #緊急地震速報
 
-[2025-12-20 21:36:04](https://bsky.app/profile/sokuho.news/post/3mag7rzk4472b)
+[2025-12-20 22:00:16](https://bsky.app/profile/sokuho.news/post/3magb5bwhzz2e)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@sokuho.news
 
-【地震速報】北海道根室地方で震度3
-https://news.web.nhk/newsweb/na/na-k10015006091000
+🚨地震発生中❗❗❗
 
-[2025-12-20 21:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mag7rzrz2z22)
+⚠️揺れに警戒してください
+
+🔶防災科研/強震モニタ/予測震度画像6
+(2025-12-20 21:59:52) #緊急地震速報
+
+[2025-12-20 22:00:14](https://bsky.app/profile/sokuho.news/post/3magb5aag7g2y)
 
 ---
 
