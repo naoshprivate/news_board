@@ -1,9 +1,9 @@
-# [2025-12-21 00:50 updated](2025_12_21.md)
+# [2025-12-21 01:10 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Before President Trump relented and signed legislation directing the Justice Department to release its Epstein-related files — some of which became public on Friday — his administration and House Republicans released tens of thousands of documents. Here’s a timeline of those earlier disclosures. <a href="https://bsky.app/profile/nytimes.com/post/3magkfb3l7s2m" target="_blank">nytimes.com</a> (2025-12-21 00:45:47)</span><span style="padding-right:50px;">Newcastle's Howe slams 'stonewall penalty' snub as defensive woes continue reut.rs/456scZq <a href="https://bsky.app/profile/reuters.com/post/3magkeeiihh2o" target="_blank">reuters.com</a> (2025-12-21 00:45:17)</span><span style="padding-right:50px;">A federal judge ordered special elections after earlier ordering the state to redraw the electoral map used to select justices, concluding the current configuration dilutes the power of Black voters. n.pr/3YDihXz <a href="https://bsky.app/profile/npr.org/post/3magka2czjg23" target="_blank">npr.org</a> (2025-12-21 00:42:52)</span><span style="padding-right:50px;">A Trump administration homelessness plan that required people to get treatment for addiction or mental illness as a condition of receiving housing funds was temporarily blocked by a federal judge on Friday. The administration has said it will try again. <a href="https://bsky.app/profile/nytimes.com/post/3magjs52dfa2e" target="_blank">nytimes.com</a> (2025-12-21 00:35:05)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:沖縄本島近海, 深さ:10km マグニチュード:2.3, 最大震度:1 📍https://www.google.com/maps?q=26.4,127.1&ll=26.4,127.1&z=7&t=h 地震発生日時:2025-12-21 00:29頃 (10倍速▶90s→9s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3magjnkt36l2z" target="_blank">sokuho.news</a> (2025-12-21 00:32:32)</span>
+<span style="padding-right:50px;">What's changing for retirement savers and retirees in 2026 <a href="https://bsky.app/profile/yahoofinance.com/post/3magljleq2j2q" target="_blank">yahoofinance.com</a> (2025-12-21 01:06:06)</span><span style="padding-right:50px;">Exclusive: US interdicting sanctioned vessel off Venezuelan coast, officials say reut.rs/3L5cM0F <a href="https://bsky.app/profile/reuters.com/post/3maglhvlzdv2r" target="_blank">reuters.com</a> (2025-12-21 01:05:09)</span><span style="padding-right:50px;">Pope Leo XIV has summoned the world's cardinals for two days of meetings to help him govern the church, the Vatican said Saturday, in the clearest sign yet that the new year will signal the unofficial start of his pontificate. <a href="https://bsky.app/profile/cbsnews.com/post/3maglhnj4uw2b" target="_blank">cbsnews.com</a> (2025-12-21 01:05:01)</span><span style="padding-right:50px;">Over the years, Christmas-tree sales have been a decent indicator of how overall consumer spending is doing. This year, the needles are pointing to a more cautious consumer.  🔗: on.wsj.com/44CGwsB <a href="https://bsky.app/profile/wsj.com/post/3magldwbept2s" target="_blank">wsj.com</a> (2025-12-21 01:02:56)</span><span style="padding-right:50px;">The attack at Australia's Bondi Beach earlier this week on people who were celebrating the first night of Hanukkah was horrific. Stories have emerged about those who died trying to stop the gunmen. n.pr/4s8cXJo <a href="https://bsky.app/profile/npr.org/post/3magldtkzwz2g" target="_blank">npr.org</a> (2025-12-21 01:02:53)</span>
   </div>
 </div>
 
@@ -32,114 +32,101 @@
 
 ## News Headlines
 
-- Trump Administration's Homelessness Plan Temporarily Blocked by Federal Judge
-  - トランプ政権のホームレス計画は、連邦裁判所によって一時的に阻止された
-- Judge Orders Special Elections After Ruling Electoral Map Dilutes Black Voters' Power
-  - 裁判官は、選出した司法長官の選挙区を再調整するよう命令
-- Newcastle's Howe Slams 'Stonewall Penalty' Snub as Defensive Woes Continue
-  - ニューカッスル・ユナイテッドのホウが「ストーンウォールペナルティーの扱いを非難
-- Israel Launches New Raids in Syria's Quneitra, Establishes Checkpoints
-  - イスラエルがシリアのクネイタラで新たな攻撃を開始、チェックポイントを設置
-- Brazil's Lula Warns US Intervention in Venezuela Could Be Catastrophic
-  - ブラジルのルラ元大統領が、米国のベネズエラへの介入は惨事となる可能性を警告
-- Anthony Joshua Defeats Jake Paul via Sixth-Round Knockout
-  - アントニー・ジョシュアがジェイク・パウルを6回TKOで破る
+- What's changing for retirement savers and retirees in 2026
+  - 2026年以降は退職者にどのような変化が訪れるか
+- US interdicts sanctioned vessel off Venezuelan coast
+  - アメリカ、ベネズエラ沖で制裁対象船を拿捕
+- Pope Leo XIV summons world's cardinals for meetings
+  - パピヨル14世、世界の枢機卿を集会に
+- Christmas tree sales indicate cautious consumer spending
+  - クリスマスツリーの売れ行きは消費支出の予兆
+- New Zealanders who died trying to stop gunman at Bondi Beach
+  - オーストラリアのボンディビーチでの銃撃事件で亡くなったニュージーランド人
+- Black lawmakers propose bill to investigate deaths at juvenile detention facility
+  - 黒人メンバーが同居収容施設での死亡の調査を求める法案を提出
 
 
 ----
 
-@nytimes.com
+@yahoofinance.com
 
-Before President Trump relented and signed legislation directing the Justice Department to release its Epstein-related files — some of which became public on Friday — his administration and House Republicans released tens of thousands of documents. Here’s a timeline of those earlier disclosures.
+What's changing for retirement savers and retirees in 2026
 
-[2025-12-21 00:45:47](https://bsky.app/profile/nytimes.com/post/3magkfb3l7s2m)
+[2025-12-21 01:06:06](https://bsky.app/profile/yahoofinance.com/post/3magljleq2j2q)
 
 ---
 
 @reuters.com
 
-Newcastle's Howe slams 'stonewall penalty' snub as defensive woes continue reut.rs/456scZq
+Exclusive: US interdicting sanctioned vessel off Venezuelan coast, officials say reut.rs/3L5cM0F
 
-[2025-12-21 00:45:17](https://bsky.app/profile/reuters.com/post/3magkeeiihh2o)
+[2025-12-21 01:05:09](https://bsky.app/profile/reuters.com/post/3maglhvlzdv2r)
+
+---
+
+@cbsnews.com
+
+Pope Leo XIV has summoned the world's cardinals for two days of meetings to help him govern the church, the Vatican said Saturday, in the clearest sign yet that the new year will signal the unofficial start of his pontificate.
+
+[2025-12-21 01:05:01](https://bsky.app/profile/cbsnews.com/post/3maglhnj4uw2b)
+
+---
+
+@wsj.com
+
+Over the years, Christmas-tree sales have been a decent indicator of how overall consumer spending is doing. This year, the needles are pointing to a more cautious consumer.
+
+🔗: on.wsj.com/44CGwsB
+
+[2025-12-21 01:02:56](https://bsky.app/profile/wsj.com/post/3magldwbept2s)
 
 ---
 
 @npr.org
 
-A federal judge ordered special elections after earlier ordering the state to redraw the electoral map used to select justices, concluding the current configuration dilutes the power of Black voters. n.pr/3YDihXz
+The attack at Australia's Bondi Beach earlier this week on people who were celebrating the first night of Hanukkah was horrific. Stories have emerged about those who died trying to stop the gunmen. n.pr/4s8cXJo
 
-[2025-12-21 00:42:52](https://bsky.app/profile/npr.org/post/3magka2czjg23)
-
----
-
-@nytimes.com
-
-A Trump administration homelessness plan that required people to get treatment for addiction or mental illness as a condition of receiving housing funds was temporarily blocked by a federal judge on Friday. The administration has said it will try again.
-
-[2025-12-21 00:35:05](https://bsky.app/profile/nytimes.com/post/3magjs52dfa2e)
-
----
-
-@sokuho.news
-
-🔔防災科研より【強震モニタ】動画です。
-
-震源:沖縄本島近海, 深さ:10km
-マグニチュード:2.3, 最大震度:1
-📍https://www.google.com/maps?q=26.4,127.1&ll=26.4,127.1&z=7&t=h
-地震発生日時:2025-12-21 00:29頃
-(10倍速▶90s→9s) #地震
-
-[2025-12-21 00:32:32](https://bsky.app/profile/sokuho.news/post/3magjnkt36l2z)
-
----
-
-@sokuho.news
-
-🔔気象庁より【地震速報】です。
-
-0時29分頃、沖縄県で最大震度1の地震を観測しました。
-震源:沖縄本島近海, 深さ:10km, 規模:M2.3
-この地震による津波の心配はありません。
-(2025-12-21 00:32:10) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/21/2025-12-21-00-29-00.html?xlarge_image=1
-
-[2025-12-21 00:32:10](https://bsky.app/profile/sokuho.news/post/3magjmx3sf42a)
-
----
-
-@bloomberg.com
-
-Would you eat an antelope? A 12-hour hunt for an invasive species shows how America’s appetite for wild meat is reshaping conservation and culture.
-
-[2025-12-21 00:30:31](https://bsky.app/profile/bloomberg.com/post/3magjjxopp32p)
+[2025-12-21 01:02:53](https://bsky.app/profile/npr.org/post/3magldtkzwz2g)
 
 ---
 
 @usatoday.com
 
-A look at some of dishes colonial Americans like George Washington enjoyed during the Christmas season.
+Combining zealous courtroom advocacy with a deft media touch, Nick Reiner's defense lawyer, Alan Jackson, aims high in tough cases.
 
-[2025-12-21 00:30:22](https://bsky.app/profile/usatoday.com/post/3magjjp3jrz2c)
-
----
-
-@cnn.com
-
-A judge Friday voided the conviction of one of the two men found guilty of the 2002 killing of Run-DMC star Jam Master Jay, ruling that there wasn't enough evidence that the man had a motive to kill the hip-hop luminary.
-https://cnn.it/44DpEC1
-
-[2025-12-21 00:30:08](https://bsky.app/profile/cnn.com/post/3magjjbev3g26)
+[2025-12-21 01:01:00](https://bsky.app/profile/usatoday.com/post/3maglai5f2f2h)
 
 ---
 
 @washingtonpost.com
 
-Anthony Joshua defeated Jake Paul via sixth-round knockout in their match in Miami.
+A group of Black Maryland lawmakers plan to propose a bill that would create a commission to investigate the deaths of hundreds of Black children who died at a segregated juvenile detention facility during the late 19th and early 20th centuries.
 
-“The end goal was to get Jake Paul, pin him down and hurt him,” Joshua said. “It took a bit longer than expected, but the right hand finally found a destination.
+[2025-12-21 01:00:29](https://bsky.app/profile/washingtonpost.com/post/3magl7kslni24)
 
-[2025-12-21 00:30:07](https://bsky.app/profile/washingtonpost.com/post/3magjjadpvk2d)
+---
+
+@bloomberg.com
+
+Bitcoin's plunge has forced retail traders to reevaluate their tactics for the coming year.
+
+[2025-12-21 01:00:14](https://bsky.app/profile/bloomberg.com/post/3magl74b46r2e)
+
+---
+
+@apnews.com
+
+Wastewater flushed down the drain can be used to heat and cool homes and buildings in a sustainable way and climate experts say it's an untapped source of energy due to its stable temperature of approximately 70°F.
+
+[2025-12-21 01:00:12](https://bsky.app/profile/apnews.com/post/3magl6zomrz2x)
+
+---
+
+@nbcnews.com
+
+<strong><span style="color: red;">BREAKING:</span> Bowen Yang, the first Asian cast member on "Saturday Night Live," announces he is departing the show after tonight's episode.</strong>
+
+[2025-12-21 00:59:27](https://bsky.app/profile/nbcnews.com/post/3magl5otwiz2d)
 
 ---
 
