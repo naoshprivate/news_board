@@ -1,9 +1,9 @@
-# [2025-12-20 09:50 updated](2025_12_20.md)
+# [2025-12-20 10:10 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">スノーボードW杯 ハーフパイプ第2戦 山田琉聖が初優勝 https://news.web.nhk/newsweb/na/na-k10015009161000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maeya75jbo2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 09:48:07)</span><span style="padding-right:50px;">米 ヘグセス国防長官 “シリアでISを攻撃 米兵襲撃への報復” https://news.web.nhk/newsweb/na/na-k10015009171000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maeya2kggm2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 09:48:03)</span><span style="padding-right:50px;">TSX climbs to record high as risk appetite grows reut.rs/45jZvbr <a href="https://bsky.app/profile/reuters.com/post/3maey2tum6s23" target="_blank">reuters.com</a> (2025-12-20 09:45:10)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】山形市谷柏で住宅火災 ケガ人はいない模様 (2025-12-20 09:30:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maexwvzx4o2y" target="_blank">sokuho.news</a> (2025-12-20 09:42:58)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】津山市の養鶏場で鳥インフル確認 県内では3年ぶり 約43万羽の殺処分始まる【岡山】 (2025-12-20 09:27) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maexsznoth2a" target="_blank">sokuho.news</a> (2025-12-20 09:40:48)</span>
+<span style="padding-right:50px;">In @nytopinion.nytimes.com   President Trump’s move to reschedule marijuana has “reignited familiar arguments about whether cannabis is harmless or dangerous, medicine or vice, success or failure,”  Aaron E. Carroll writes. “That debate misses the point.” <a href="https://bsky.app/profile/nytimes.com/post/3maez6i2ggb2a" target="_blank">nytimes.com</a> (2025-12-20 10:05:06)</span><span style="padding-right:50px;">セブン＆アイ・ホールディングスは２０日、北米のコンビニエンスストア事業会社、セブン―イレブン・インク（ＳＥＩ）のジョセフ・マイケル・デピント最高経営責任者（ＣＥＯ）が１２月３１日付（米国時間）で退任すると発表した。 bit.ly/48OdokD <a href="https://bsky.app/profile/japan.reuters.com/post/3maez64igwg2u" target="_blank">japan.reuters.com</a> (2025-12-20 10:04:54)</span><span style="padding-right:50px;">Bowen Yang is exiting Studio 8H. Following departures from Ego Nwodim and Heidi Gardner, Yang will exit the cast of "Saturday Night Live." <a href="https://bsky.app/profile/usatoday.com/post/3maeyyv7o262l" target="_blank">usatoday.com</a> (2025-12-20 10:01:58)</span><span style="padding-right:50px;">President Trump said he would convene insurance companies in a bid to pressure them to reduce costs for Americans who will see their premiums rise following the expiration of Obamacare subsidies at year’s end <a href="https://bsky.app/profile/bloomberg.com/post/3maeyxk7cw72e" target="_blank">bloomberg.com</a> (2025-12-20 10:01:13)</span><span style="padding-right:50px;">Tourists visiting the Trevi Fountain are now going to pay more than just the legendary coin toss over their shoulder. <a href="https://bsky.app/profile/apnews.com/post/3maeyxiljiv2q" target="_blank">apnews.com</a> (2025-12-20 10:01:12)</span>
   </div>
 </div>
 
@@ -32,105 +32,103 @@
 
 ## News Headlines
 
-Here are six important stories with headlines:
+Here are six important stories with headlines in English:
 
-1. US Launches Large-Scale Attacks on ISIL in Syria, Trump Says
-2. Trump Administration Imposes Restrictions on Mexican Train Crews Operating in US
-3. US Judge Skeptical of Chamber's Challenge to Trump's $100,000 H-1B Visa Fee
-4. US-Taiwan Arms Deal: Trump Pledges $11.1 Billion for Weapons to Taiwan
-5. Volkswagen Pulls Plug on Retro Electric Bus in US Market
-6. Biden Administration's NEC Chairman Supports Trump's Inflation Rate Claims
+1. US Judge Skeptical of Chamber's Challenge to Trump's $100,000 H-1B Visa Fee
+2. Four Die in ICE Custody as 2025 Deaths Reach 20-Year High
+3. Trump Administration Imposes Restrictions on Mexican Train Crews Operating in US
+4. US Launches Large-Scale Attacks on ISIL in Syria, Trump Says
+5. Exclusive: BofA Bonuses Will Jump for Investment Bankers This Year, Sources Say
+6. Bowen Yang Exits 'Saturday Night Live' Cast After Departures of Ego Nwodim and Heidi Gardner
 
 ----
 
-@nhknewsunofficial.bsky.social
+@nytimes.com
 
-スノーボードW杯 ハーフパイプ第2戦 山田琉聖が初優勝
-https://news.web.nhk/newsweb/na/na-k10015009161000
+In @nytopinion.nytimes.com 
 
-[2025-12-20 09:48:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maeya75jbo2v)
+President Trump’s move to reschedule marijuana has “reignited familiar arguments about whether cannabis is harmless or dangerous, medicine or vice, success or failure,”  Aaron E. Carroll writes. “That debate misses the point.”
 
----
-
-@nhknewsunofficial.bsky.social
-
-米 ヘグセス国防長官 “シリアでISを攻撃 米兵襲撃への報復”
-https://news.web.nhk/newsweb/na/na-k10015009171000
-
-[2025-12-20 09:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maeya2kggm2s)
-
----
-
-@reuters.com
-
-TSX climbs to record high as risk appetite grows reut.rs/45jZvbr
-
-[2025-12-20 09:45:10](https://bsky.app/profile/reuters.com/post/3maey2tum6s23)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】山形市谷柏で住宅火災 ケガ人はいない模様
-(2025-12-20 09:30:00) #ニュース
-
-[2025-12-20 09:42:58](https://bsky.app/profile/sokuho.news/post/3maexwvzx4o2y)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】津山市の養鶏場で鳥インフル確認 県内では3年ぶり 約43万羽の殺処分始まる【岡山】
-(2025-12-20 09:27) #ニュース
-
-[2025-12-20 09:40:48](https://bsky.app/profile/sokuho.news/post/3maexsznoth2a)
-
----
-
-@reuters.com
-
-Sergio Garcia signs multi-year extension, fills out all-Spanish team reut.rs/4smpB7Q
-
-[2025-12-20 09:40:10](https://bsky.app/profile/reuters.com/post/3maexrvqeeb2i)
-
----
-
-@wsj.com
-
-Volkswagen is pulling the plug on its retro electric bus in the U.S. next year, after the expiration of tax incentives for customers caused electric vehicle sales to tank. on.wsj.com/4qbKSiC
-
-[2025-12-20 09:36:21](https://bsky.app/profile/wsj.com/post/3maexl3firi2i)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】津山市の養鶏場で鳥インフル確認【岡山】
-(2025-12-20 09:27) #ニュース
-
-[2025-12-20 09:35:49](https://bsky.app/profile/sokuho.news/post/3maexk4gz3q2y)
-
----
-
-@reuters.com
-
-US judge skeptical of Chamber's challenge to Trump's $100,000 H-1B visa fee reut.rs/4jaQLKD
-
-[2025-12-20 09:35:08](https://bsky.app/profile/reuters.com/post/3maexivr7mi2r)
+[2025-12-20 10:05:06](https://bsky.app/profile/nytimes.com/post/3maez6i2ggb2a)
 
 ---
 
 @japan.reuters.com
 
-フィギュアスケートのミラノ・コルティナ冬季五輪代表最終選考会を兼ねる全日本選手権は１９日、東京・国立代々木競技場で競技を行い、男子ショートプログラム（ＳＰ）では２連覇を目指す鍵山優真が首位発進した。 bit.ly/3MLaeW6
+セブン＆アイ・ホールディングスは２０日、北米のコンビニエンスストア事業会社、セブン―イレブン・インク（ＳＥＩ）のジョセフ・マイケル・デピント最高経営責任者（ＣＥＯ）が１２月３１日付（米国時間）で退任すると発表した。 bit.ly/48OdokD
 
-[2025-12-20 09:33:19](https://bsky.app/profile/japan.reuters.com/post/3maexfnqtza2q)
+[2025-12-20 10:04:54](https://bsky.app/profile/japan.reuters.com/post/3maez64igwg2u)
+
+---
+
+@usatoday.com
+
+Bowen Yang is exiting Studio 8H. Following departures from Ego Nwodim and Heidi Gardner, Yang will exit the cast of "Saturday Night Live."
+
+[2025-12-20 10:01:58](https://bsky.app/profile/usatoday.com/post/3maeyyv7o262l)
+
+---
+
+@bloomberg.com
+
+President Trump said he would convene insurance companies in a bid to pressure them to reduce costs for Americans who will see their premiums rise following the expiration of Obamacare subsidies at year’s end
+
+[2025-12-20 10:01:13](https://bsky.app/profile/bloomberg.com/post/3maeyxk7cw72e)
+
+---
+
+@apnews.com
+
+Tourists visiting the Trevi Fountain are now going to pay more than just the legendary coin toss over their shoulder.
+
+[2025-12-20 10:01:12](https://bsky.app/profile/apnews.com/post/3maeyxiljiv2q)
+
+---
+
+@reuters.com
+
+Jones reveals Salah apology as Liverpool close ranks reut.rs/4pOt1i3
+
+[2025-12-20 10:00:58](https://bsky.app/profile/reuters.com/post/3maeyx46qjp2b)
+
+---
+
+@nikkei.com
+
+タイで「モンチッチ」の人気上昇中　ポスト「ラブブ」狙えるか
+www.nikkei.com/article/DGXZQO...
+
+玩具メーカーのセキグチが1974年に日本で発売しヒットしましたが、タイで認知されるようになったのは最近。
+
+人気女優のチョンプーさんやアイドル「ブラックピンク」のタイ人メンバー、リサさんらがSNSで投稿したのが発端です。
+
+[2025-12-20 10:00:41](https://bsky.app/profile/nikkei.com/post/3maeywldbgc2n)
+
+---
+
+@en.afp.com
+
+There is no rest for Matey Mateev in the run up to the festive season as the world's gastronauts dig deep to splash out on his beluga caviar.
+
+u.afp.com/S8ix
+
+[2025-12-20 10:00:39](https://bsky.app/profile/en.afp.com/post/3maeywjsgul2x)
+
+---
+
+@japan.reuters.com
+
+ミャンマーの反政府勢力の戦闘員であるカンは１０月に、主要都市ヤンゴンと首都ネピドーのほぼ中間にある村パズンミャウンで国軍と交戦した。しかし迫撃砲やドローンによる攻撃にさらされ続け、１週間後には近隣の拠点への撤退を余儀なくされた。戦闘経験が豊富なカンにとっても、かつて経験したことがない激しい戦いだった。 bit.ly/455PYoo
+
+[2025-12-20 10:00:38](https://bsky.app/profile/japan.reuters.com/post/3maeywitjz525)
+
+---
+
+@cnbc.com
+
+If you're one of the nearly 68 million Americans who speaks another language, consider putting your skills to use by picking up some translation gigs.
+
+[2025-12-20 10:00:20](https://bsky.app/profile/cnbc.com/post/3maeyvxeqzb24)
 
 ---
 
