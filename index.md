@@ -1,9 +1,9 @@
-# [2025-12-21 04:10 updated](2025_12_21.md)
+# [2025-12-21 04:32 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">'Merry Christmas but it's not enough,' Man City boss tells league leading team reut.rs/492lt3R <a href="https://bsky.app/profile/reuters.com/post/3magvjsdrlo2y" target="_blank">reuters.com</a> (2025-12-21 04:05:10)</span><span style="padding-right:50px;">Forecasters said a parade of storms from the Pacific Ocean will pull in a river of moisture this weekend. Over the next week, parts of Northern California could get seven to 10 inches of rain. <a href="https://bsky.app/profile/nytimes.com/post/3magvjlnyn427" target="_blank">nytimes.com</a> (2025-12-21 04:05:03)</span><span style="padding-right:50px;">Pope Leo XIV has summoned the world's cardinals for meetings to help him govern the church, marking the unofficial start of his pontificate. <a href="https://bsky.app/profile/apnews.com/post/3magvdjxjg32k" target="_blank">apnews.com</a> (2025-12-21 04:01:40)</span><span style="padding-right:50px;">Brown University shooter took IT job in Portugal after abandoning physics pursuit reut.rs/4arK9Fq <a href="https://bsky.app/profile/reuters.com/post/3magvclfvk323" target="_blank">reuters.com</a> (2025-12-21 04:01:08)</span><span style="padding-right:50px;">Jake Paul is now linked to Muhammad Ali, with both boxers having suffered broken jaws in the boxing ring. <a href="https://bsky.app/profile/usatoday.com/post/3magvc6n4462f" target="_blank">usatoday.com</a> (2025-12-21 04:00:55)</span>
+<span style="padding-right:50px;">Haaland double sends Man City top, Chelsea hit back to draw at Newcastle reut.rs/48O4Xph <a href="https://bsky.app/profile/reuters.com/post/3magwnhft5d2b" target="_blank">reuters.com</a> (2025-12-21 04:25:07)</span><span style="padding-right:50px;">Blue Origin: Engineer becomes first wheelchair user to go to space  <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3magwhmuju32v" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-21 04:21:50)</span><span style="padding-right:50px;">Winless Wolves equal unwanted Premier League record as relegation looms large reut.rs/4p1yh0x <a href="https://bsky.app/profile/reuters.com/post/3magw3syyrd2c" target="_blank">reuters.com</a> (2025-12-21 04:15:15)</span><span style="padding-right:50px;">BREAKING: U.S. forces stop a second sanctioned merchant vessel off the coast of Venezuela in international waters, U.S. officials say. <a href="https://bsky.app/profile/apnews.com/post/3magw2fzld32p" target="_blank">apnews.com</a> (2025-12-21 04:14:28)</span><span style="padding-right:50px;">Exclusive: The Trump administration is ramping up its efforts to deport people to other nations, filing almost 5,000 motions in November alone seeking to dismiss asylum cases and arguing that applicants can get asylum there. w/ @Allison McCann + @haleaziz.bsky.social  www.nytimes.com/2025/12/20/u... <a href="https://bsky.app/profile/jazmineulloa.bsky.social/post/3magvxawhcs2y" target="_blank">jazmineulloa.bsky.social</a> (2025-12-21 04:12:42)</span>
   </div>
 </div>
 
@@ -30,23 +30,46 @@
 
 ---
 
-## News Headlines
+@reuters.com
 
-- Man City Boss Tells Team to Improve
-  - マンチェスター・シティ監督はチームに改善を求める
-- Severe Storms to Hit Northern California
-  - 北部カリフォルニアに激しい嵐が到来
-- Pope Leo XIV Convenes Cardinals for Meetings
-  - ローマ教皇レオ十四世が枢機卿を集会
-- Brown University Shooter Takes IT Job in Portugal
-  - ブラウン大学の射撃犯がポルトガルへのIT職に
-- Two Refineries to Shut Down in California
-  - カリフォルニアで2つの石油精製所が閉鎖
-- Ukraine Proposes Face-to-Face Negotiations with Russia
-  - ウクライナがロシアとの面会交渉を提案
+Haaland double sends Man City top, Chelsea hit back to draw at Newcastle reut.rs/48O4Xph
 
+[2025-12-21 04:25:07](https://bsky.app/profile/reuters.com/post/3magwnhft5d2b)
 
-----
+---
+
+@bbcnews-world-rss.bsky.social
+
+Blue Origin: Engineer becomes first wheelchair user to go to space 
+
+[2025-12-21 04:21:50](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3magwhmuju32v)
+
+---
+
+@reuters.com
+
+Winless Wolves equal unwanted Premier League record as relegation looms large reut.rs/4p1yh0x
+
+[2025-12-21 04:15:15](https://bsky.app/profile/reuters.com/post/3magw3syyrd2c)
+
+---
+
+@apnews.com
+
+<strong><span style="color: red;">BREAKING:</span> U.S. forces stop a second sanctioned merchant vessel off the coast of Venezuela in international waters, U.S. officials say.</strong>
+
+[2025-12-21 04:14:28](https://bsky.app/profile/apnews.com/post/3magw2fzld32p)
+
+---
+
+@jazmineulloa.bsky.social
+
+Exclusive: The Trump administration is ramping up its efforts to deport people to other nations, filing almost 5,000 motions in November alone seeking to dismiss asylum cases and arguing that applicants can get asylum there. w/ @Allison McCann + @haleaziz.bsky.social 
+www.nytimes.com/2025/12/20/u...
+
+[2025-12-21 04:12:42](https://bsky.app/profile/jazmineulloa.bsky.social/post/3magvxawhcs2y)
+
+---
 
 @reuters.com
 
@@ -85,49 +108,6 @@ Brown University shooter took IT job in Portugal after abandoning physics pursui
 Jake Paul is now linked to Muhammad Ali, with both boxers having suffered broken jaws in the boxing ring.
 
 [2025-12-21 04:00:55](https://bsky.app/profile/usatoday.com/post/3magvc6n4462f)
-
----
-
-@cnn.com
-
-Refineries in the state have been closing for years with two more set to shutter soon: a Los Angeles-area refinery at the end of the month and a Bay Area one in April. Together, the two refineries provide about 17% of the state's supply of gasoline.
-https://cnn.it/4sdlD1k
-
-[2025-12-21 04:00:20](https://bsky.app/profile/cnn.com/post/3magvb53bai2c)
-
----
-
-@washingtonpost.com
-
-Heading into 2026 with two meetings with President Trump on the schedule, President Xi Jinping’s negotiating position might be weakened by widening imbalances in the world’s second largest economy.
-
-[2025-12-21 04:00:18](https://bsky.app/profile/washingtonpost.com/post/3magvb3f7t423)
-
----
-
-@cnbc.com
-
-If you want to overhaul your career, whether you're in your 20s or your 60s, you can do so by asking yourself one simple question first, says Hoda Kotb.
-
-[2025-12-21 04:00:17](https://bsky.app/profile/cnbc.com/post/3magvb2gcnz2x)
-
----
-
-@cbsnews.com
-
-Republican Rep. Elise Stefanik dropped out of the New York governor's race Friday, concluding that a potentially fractious GOP primary could hurt Republicans' chances in an uphill statewide contest, as President Trump signaled he would not make an endorsement at this stage.  
-
-[2025-12-21 04:00:01](https://bsky.app/profile/cbsnews.com/post/3magvalgd6d2y)
-
----
-
-@nytimes.com
-
-"Ignore the reviewers who didn’t actually make this recipe and touted their own homemade concoctions. This recipe is fantastic."
-
-The most popular comment agrees: This is how you make the best scrambled eggs.
-
-[2025-12-21 03:56:01](https://bsky.app/profile/nytimes.com/post/3maguzgpc3e2s)
 
 ---
 
