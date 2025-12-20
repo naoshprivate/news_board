@@ -1,9 +1,9 @@
-# [2025-12-20 13:30 updated](2025_12_20.md)
+# [2025-12-20 13:50 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The Trump administration launched military strikes in Syria to "eliminate" Islamic State group fighters in retaliation for an attack that killed two U.S. troops and an American interpreter a week ago. n.pr/3LcRVZt <a href="https://bsky.app/profile/npr.org/post/3mafegji53w24" target="_blank">npr.org</a> (2025-12-20 13:26:27)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】京都・精華町で列車事故 衝突した車から出火 近鉄京都線狛田・新祝園駅間の踏切 (2025-12-20 13:24) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mafecnci2d2e" target="_blank">sokuho.news</a> (2025-12-20 13:24:17)</span><span style="padding-right:50px;">The latest travel scourge: Miracle flights full of passengers touched by "Jetway Jesus." on.wsj.com/4qmo3sx <a href="https://bsky.app/profile/wsj.com/post/3mafe4jyx2j2o" target="_blank">wsj.com</a> (2025-12-20 13:20:52)</span><span style="padding-right:50px;">Aktis Oncology files for US IPO as biotech listings rebound reut.rs/4p3Xszg <a href="https://bsky.app/profile/reuters.com/post/3mafe3b4q4e2y" target="_blank">reuters.com</a> (2025-12-20 13:20:09)</span><span style="padding-right:50px;">Pips is a logic puzzle where players must arrange a set of dominoes to meet the conditions of the board to win. There are three new puzzles each day — can you beat them all? nyti.ms/4p0cPsN <a href="https://bsky.app/profile/nytimes.com/post/3mafe35464y2e" target="_blank">nytimes.com</a> (2025-12-20 13:20:05)</span>
+<span style="padding-right:50px;">U.S. to drop childhood vaccine recommendations as it looks to Denmark, Washington Post reports reut.rs/4qjrQqn <a href="https://bsky.app/profile/reuters.com/post/3maff72pocw2i" target="_blank">reuters.com</a> (2025-12-20 13:40:10)</span><span style="padding-right:50px;">幸せ感じる脳の仕組み　カギは不安抑制 www.nikkei.com/article/DGXZQO...  脳の奥深くに幸せをつかさどる部位を見つけた――  理化学研究所の研究成果が注目を集めました。  安全に長生きできるのに幸福度の低い日本。  「幸福とは何か」という問いに脳科学が答えを示し始めました。 <a href="https://bsky.app/profile/nikkei.com/post/3mafenzp7ge2y" target="_blank">nikkei.com</a> (2025-12-20 13:30:39)</span><span style="padding-right:50px;">セブン＆アイ・ホールディングスは２０日、北米のコンビニエンスストア事業会社、セブン―イレブン・インク（ＳＥＩ）のジョセフ・マイケル・デピント最高経営責任者（ＣＥＯ）が１２月３１日付（米国時間）で退任すると発表した。 bit.ly/3L6SdAW <a href="https://bsky.app/profile/japan.reuters.com/post/3mafensxxrw2f" target="_blank">japan.reuters.com</a> (2025-12-20 13:30:32)</span><span style="padding-right:50px;">Meta's Dina Powell McCormick quits board, may stay on as adviser reut.rs/4s5fWCb <a href="https://bsky.app/profile/reuters.com/post/3mafenrpzew2x" target="_blank">reuters.com</a> (2025-12-20 13:30:30)</span><span style="padding-right:50px;">India's Prime Minister Narendra Modi’s government pushed through far-reaching policy reforms in the final parliamentary session of the year, seeking to bolster the economy in the face of trade headwinds <a href="https://bsky.app/profile/bloomberg.com/post/3mafend3wwz2a" target="_blank">bloomberg.com</a> (2025-12-20 13:30:15)</span>
   </div>
 </div>
 
@@ -32,16 +32,73 @@
 
 ## News Headlines
 
-Here are six news headlines in English:
+Here are six important news stories with headlines in English:
 
-1. US Launches Military Strikes in Syria to Retaliate Against ISIS
-2. US Health Agency Announces Two Medicare Pilot Programs on Drug Pricing
-3. Japan Introduces Coffee Omakase, a New Twist on the Classic Coffee Experience
-4. Italy's Cappuccino, Australia's Flat White, and Now Japan's Coffee Omakase: A Global Coffee Journey
-5. Boeing Seeks FAA Emissions Waiver to Sell 35 Additional 777F Freighters
-6. Russia's Dmitriev Heading to US to Meet Witkoff, Kushner, Says Source
+1. US to Drop Childhood Vaccine Recommendations as it Looks to Denmark
+2. Japan's Happiness Formula: Researchers Discover Brain Region Linked to Feelings of Joy
+3. Meta's Dina Powell McCormick Quits Board, May Stay on as Adviser
+4. US Drops Deportation Order Against Chinese Dissident, Lawyer Says
+5. Japan's Coffee Culture Meets Omakase: A New Coffee Experience
+6. US Drops Childhood Vaccine Recommendations as it Looks to Denmark
 
 ----
+
+@reuters.com
+
+U.S. to drop childhood vaccine recommendations as it looks to Denmark, Washington Post reports reut.rs/4qjrQqn
+
+[2025-12-20 13:40:10](https://bsky.app/profile/reuters.com/post/3maff72pocw2i)
+
+---
+
+@nikkei.com
+
+幸せ感じる脳の仕組み　カギは不安抑制
+www.nikkei.com/article/DGXZQO...
+
+脳の奥深くに幸せをつかさどる部位を見つけた――
+
+理化学研究所の研究成果が注目を集めました。
+
+安全に長生きできるのに幸福度の低い日本。
+
+「幸福とは何か」という問いに脳科学が答えを示し始めました。
+
+[2025-12-20 13:30:39](https://bsky.app/profile/nikkei.com/post/3mafenzp7ge2y)
+
+---
+
+@japan.reuters.com
+
+セブン＆アイ・ホールディングスは２０日、北米のコンビニエンスストア事業会社、セブン―イレブン・インク（ＳＥＩ）のジョセフ・マイケル・デピント最高経営責任者（ＣＥＯ）が１２月３１日付（米国時間）で退任すると発表した。 bit.ly/3L6SdAW
+
+[2025-12-20 13:30:32](https://bsky.app/profile/japan.reuters.com/post/3mafensxxrw2f)
+
+---
+
+@reuters.com
+
+Meta's Dina Powell McCormick quits board, may stay on as adviser reut.rs/4s5fWCb
+
+[2025-12-20 13:30:30](https://bsky.app/profile/reuters.com/post/3mafenrpzew2x)
+
+---
+
+@bloomberg.com
+
+India's Prime Minister Narendra Modi’s government pushed through far-reaching policy reforms in the final parliamentary session of the year, seeking to bolster the economy in the face of trade headwinds
+
+[2025-12-20 13:30:15](https://bsky.app/profile/bloomberg.com/post/3mafend3wwz2a)
+
+---
+
+@aljazeera.com
+
+New sanctions come days after the Trump administration imposed a blockade on Venezuela’s oil tankers.
+
+[2025-12-20 13:30:04](https://bsky.app/profile/aljazeera.com/post/3mafemyd6pw2d)
+
+---
 
 @npr.org
 
@@ -75,68 +132,6 @@ The latest travel scourge: Miracle flights full of passengers touched by "Jetway
 Aktis Oncology files for US IPO as biotech listings rebound reut.rs/4p3Xszg
 
 [2025-12-20 13:20:09](https://bsky.app/profile/reuters.com/post/3mafe3b4q4e2y)
-
----
-
-@nytimes.com
-
-Pips is a logic puzzle where players must arrange a set of dominoes to meet the conditions of the board to win. There are three new puzzles each day — can you beat them all? nyti.ms/4p0cPsN
-
-[2025-12-20 13:20:05](https://bsky.app/profile/nytimes.com/post/3mafe35464y2e)
-
----
-
-@nikkei.com
-
-SHEIN停止請求を棄却　フランス裁判所、政府は控訴へ（無料記事）
-www.nikkei.com/article/DGXZQO...
-
-シーインは児童を想起させる成人用玩具「ラブドール」などを販売。
-
-フランス政府は通販サイトを3カ月停止するよう求めていました。
-
-裁判所はシーインが公序良俗に著しく反していると認めたものの、既にサイト上の違法商品を削除したと指摘。
-
-停止処分は重すぎると判断しました。
-
-#ニュース
-
-[2025-12-20 13:16:40](https://bsky.app/profile/nikkei.com/post/3mafduzbdpa2f)
-
----
-
-@japan.reuters.com
-
-米大リーグ（ＭＬＢ）パドレスが、フリーエージェントとなっていた右腕マイケル・キング投手と韓国人の宋成文内野手と契約を結ぶと、ＭＬＢ公式サイトが１９日に伝えた。 bit.ly/4p8biki
-
-[2025-12-20 13:15:17](https://bsky.app/profile/japan.reuters.com/post/3mafdsksmvm2c)
-
----
-
-@reuters.com
-
-US health agency announces two Medicare pilot programs on drug pricing reut.rs/44Bgxlb
-
-[2025-12-20 13:10:09](https://bsky.app/profile/reuters.com/post/3mafdjeozch2k)
-
----
-
-@japan.reuters.com
-
-米大リーグ（ＭＬＢ）エンゼルスが１９日、２０１９年に薬物の過剰摂取で急死したタイラー・スカッグス投手の遺族との民事裁判で和解に至った。和解の条件は明かされていない。 bit.ly/44BDqFd
-
-[2025-12-20 13:09:51](https://bsky.app/profile/japan.reuters.com/post/3mafditv7tm2q)
-
----
-
-@sokuho.news
-
-🔔ANNより【速報】です。
-
-【速報】踏切で特急列車と衝突した車が大破・炎上 乗客や乗員にけがなし 近鉄京都線
-(13:05) #ニュース
-
-[2025-12-20 13:09:20](https://bsky.app/profile/sokuho.news/post/3mafdhwiw252b)
 
 ---
 
