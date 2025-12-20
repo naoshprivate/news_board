@@ -1,9 +1,9 @@
-# [2025-12-21 06:10 updated](2025_12_21.md)
+# [2025-12-21 06:30 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">A non-fashion guy, our writer needed rugged boots for the city—but not the "Blunnies" he saw on every subway car. And so the hunt began. on.wsj.com/494Asdy <a href="https://bsky.app/profile/wsj.com/post/3mah4dq2e2c2i" target="_blank">wsj.com</a> (2025-12-21 06:07:03)</span><span style="padding-right:50px;">The Lumbee Tribe of North Carolina has finally received full federal recognition, which it has sought since 1888. Tribal leaders were moved to tears after President Trump signed the measure. n.pr/3L95mJU <a href="https://bsky.app/profile/npr.org/post/3mah43ffll324" target="_blank">npr.org</a> (2025-12-21 06:02:23)</span><span style="padding-right:50px;">Which Ole Miss coaches are following Lane Kiffin to LSU in 2026? Here's a look so far as Kiffin builds his new staff: <a href="https://bsky.app/profile/usatoday.com/post/3mah3ytsuxl2w" target="_blank">usatoday.com</a> (2025-12-21 06:00:58)</span><span style="padding-right:50px;">60-year-old executive Ron Vachris first learned some of his most important leadership lessons more than three decades ago, when he was in charge of just a single store, he says.  “That was the time that I really developed my leadership skills,” Vachris said. <a href="https://bsky.app/profile/cnbc.com/post/3mah3xwlzte2y" target="_blank">cnbc.com</a> (2025-12-21 06:00:27)</span><span style="padding-right:50px;">The U.S. is intercepting another vessel days after President Trump announced a “complete blockade” on all sanctioned oil tankers entering or leaving Venezuela. <a href="https://bsky.app/profile/washingtonpost.com/post/3mah3xjxvz723" target="_blank">washingtonpost.com</a> (2025-12-21 06:00:14)</span>
+<span style="padding-right:50px;">Slot sees signs Liverpool improving in messy Spurs win, but laments Isak injury reut.rs/48ZgSQ0 <a href="https://bsky.app/profile/reuters.com/post/3mah5e2ebgx2p" target="_blank">reuters.com</a> (2025-12-21 06:25:07)</span><span style="padding-right:50px;">Fifteen people were killed in a December 14 attack on a Hanukkah celebration in Sydney, Australia, including a 10-year-old girl, a long-serving rabbi and a Holocaust survivor. Here is what we know about the victims’ lives. trib.al/zRMJhOU <a href="https://bsky.app/profile/nytimes.com/post/3mah5asboas2j" target="_blank">nytimes.com</a> (2025-12-21 06:23:18)</span><span style="padding-right:50px;">Automotive crash test dummies are born in Ohio, brought to "life" near Detroit, and then sent around the world to make cars safer. <a href="https://bsky.app/profile/npr.org/post/3mah4xp25ox2g" target="_blank">npr.org</a> (2025-12-21 06:18:13)</span><span style="padding-right:50px;">The Justice Department released thousands of files related to sex offender and accused sex trafficker Jeffrey Epstein after Congress passed a law forcing the Trump administration to do so.   CNN reporters went through the thousands of files, and you can read highlights below: https://cnn.it/44A5Nng <a href="https://bsky.app/profile/cnn.com/post/3mah4s5gbfr22" target="_blank">cnn.com</a> (2025-12-21 06:15:07)</span><span style="padding-right:50px;">A non-fashion guy, our writer needed rugged boots for the city—but not the "Blunnies" he saw on every subway car. And so the hunt began. on.wsj.com/494Asdy <a href="https://bsky.app/profile/wsj.com/post/3mah4dq2e2c2i" target="_blank">wsj.com</a> (2025-12-21 06:07:03)</span>
   </div>
 </div>
 
@@ -32,21 +32,55 @@
 
 ## News Headlines
 
-- US Seizes Sanctioned Vessel in International Waters Off Venezuela's Coast
-  - ベネズエラ海岸外の国際水域で制裁船を拿捕
-- Lumbee Tribe Receives Full Federal Recognition
-  - ルンバー族が連邦承認を得る
-- US Stops Second Merchant Vessel Off Venezuela's Coast
-  - ベネズエラ海岸外の第二の商船拿捕
+- US Seizes Sanctioned Vessel Off Venezuela
+  - エアサンタロのフォンタトングを测徘
+- Liverpool Hang On to Defeat Tottenham
+  - モンタュートーを测徘、トアストーインドー
+- Leverkusen Earn 3-1 Comeback Win at Leipzig
+  - モンタュートーシアー3一の测徘曲、ユインケユントー
+- Bad Bunny's Concerts in Mexico Attract Half-Million Fans
+  - パイショナーのフォンタトングを三きな打紀、坈パックタートングをがある
 - Pope Leo XIV Summons Cardinals for Meetings
-  - ローマ教皇レオ14世が枢機卿会議招集
-- James Cameron's 'Avatar: The Way of Water' is Back in Theaters
-  - ジェームズ・キャメロン監督の『アバター: 水の道』再上映
-- US Forces Seize Another Vessel Off Venezuela's Coast
-  - ベネズエラ海岸外の第三の船拿捕
+  - パトメイーンタートングを测徘に日本、トアストーインドー
+- US Intercepts Another Vessel Following Trump's Blockade
+  - エアサンタトングを测徘バーャショナには、アザースタートングをたんしたにくだ
 
 
 ----
+
+@reuters.com
+
+Slot sees signs Liverpool improving in messy Spurs win, but laments Isak injury reut.rs/48ZgSQ0
+
+[2025-12-21 06:25:07](https://bsky.app/profile/reuters.com/post/3mah5e2ebgx2p)
+
+---
+
+@nytimes.com
+
+Fifteen people were killed in a December 14 attack on a Hanukkah celebration in Sydney, Australia, including a 10-year-old girl, a long-serving rabbi and a Holocaust survivor. Here is what we know about the victims’ lives. trib.al/zRMJhOU
+
+[2025-12-21 06:23:18](https://bsky.app/profile/nytimes.com/post/3mah5asboas2j)
+
+---
+
+@npr.org
+
+Automotive crash test dummies are born in Ohio, brought to "life" near Detroit, and then sent around the world to make cars safer.
+
+[2025-12-21 06:18:13](https://bsky.app/profile/npr.org/post/3mah4xp25ox2g)
+
+---
+
+@cnn.com
+
+The Justice Department released thousands of files related to sex offender and accused sex trafficker Jeffrey Epstein after Congress passed a law forcing the Trump administration to do so. 
+
+CNN reporters went through the thousands of files, and you can read highlights below: https://cnn.it/44A5Nng
+
+[2025-12-21 06:15:07](https://bsky.app/profile/cnn.com/post/3mah4s5gbfr22)
+
+---
 
 @wsj.com
 
@@ -95,40 +129,6 @@ The U.S. is intercepting another vessel days after President Trump announced a �
 Malachi Toney’s tiebreaking 11-yard touchdown reception with less than two minutes left lifted No. 10 seed Miami to a 10-3 win over No. 7 Texas A&M Saturday in the College Football Playoff.
 
 [2025-12-21 06:00:07](https://bsky.app/profile/apnews.com/post/3mah3xdt3ux2q)
-
----
-
-@forbes.com
-
-‘The White Lotus’ Season 4 Officially Casts Its First Actors
-www.forbes.com/sites/paulta... (Photo: HBO)
-
-[2025-12-21 05:51:19](https://bsky.app/profile/forbes.com/post/3mah3hmdiwc2l)
-
----
-
-@forbes.com
-
-Billions Of Passwords Have Leaked — Hack Attacks Are Ongoing, Act Now
-www.forbes.com/sites/daveyw... (Photo: Getty Images)
-
-[2025-12-21 05:50:51](https://bsky.app/profile/forbes.com/post/3mah3grizak2l)
-
----
-
-@nytimes.com
-
-An escalating standoff between the U.S. and Venezuela has led both countries’ militaries to jam satellite navigation signals in the Caribbean to guard against a potential attack, data show, putting air and sea traffic in the region at greater risk of a collision or accident.
-
-[2025-12-21 05:40:06](https://bsky.app/profile/nytimes.com/post/3mah2tjr7ui25)
-
----
-
-@npr.org
-
-Pope Leo XIV has summoned the world's cardinals for two days of meetings to help him govern the church, in the clearest sign yet that the new year will signal the unofficial start of his pontificate. n.pr/44ykAyM
-
-[2025-12-21 05:31:42](https://bsky.app/profile/npr.org/post/3mah2ejpmut2b)
 
 ---
 
