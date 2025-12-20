@@ -1,9 +1,9 @@
-# [2025-12-20 15:50 updated](2025_12_20.md)
+# [2025-12-20 16:10 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🔔気象庁より【地震速報】です。  15時45分頃、北海道で最大震度1の地震を観測しました。 震源:宗谷地方南部, 深さ:ごく浅い, 規模:M3.3 この地震による津波の心配はありません。 (2025-12-20 15:48:56) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/20/2025-12-20-15-45-54.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3mafmfdqgwx2y" target="_blank">sokuho.news</a> (2025-12-20 15:48:57)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】路線バス含む4台が絡む事故 2人を病院に搬送 「明治通り」一部区間が通行止め 福岡市早良区 (2025-12-20 15:40) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mafm7nonpa26" target="_blank">sokuho.news</a> (2025-12-20 15:45:46)</span><span style="padding-right:50px;">米プロバスケットボール協会（ＮＢＡ）は１９日、各地で試合を行い、ティンバーウルブズが１１２─１０７で西地区で首位独走のサンダーを破った。 bit.ly/4pGYX7K <a href="https://bsky.app/profile/japan.reuters.com/post/3mafm7covi52u" target="_blank">japan.reuters.com</a> (2025-12-20 15:45:35)</span><span style="padding-right:50px;">Taipei attacker acted alone, police say after four die reut.rs/4qnolj1 <a href="https://bsky.app/profile/reuters.com/post/3mafm6mlcag23" target="_blank">reuters.com</a> (2025-12-20 15:45:12)</span><span style="padding-right:50px;">外国人旅行客 日本で暮らす外国人 首都直下地震に備えどう対応 https://news.web.nhk/newsweb/na/na-k10015008891000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafm6fbl5j2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 15:45:02)</span>
+<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】長崎市岡町で横転事故 車3台が玉突き (2025-12-20 16:06:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mafnj3nqdy2s" target="_blank">sokuho.news</a> (2025-12-20 16:08:57)</span><span style="padding-right:50px;">Excavations of an ancient construction site in Pompeii have revealed the process of how Romans mixed their self-healing concrete. https://cnn.it/3MUd237 <a href="https://bsky.app/profile/cnn.com/post/3mafn2wu67r2a" target="_blank">cnn.com</a> (2025-12-20 16:01:02)</span><span style="padding-right:50px;">LINEヤフー、AIが書くコード　社内の生産性4割アップも www.nikkei.com/article/DGXZQO...  独自の開発支援基盤「Ark Developer」を構築しました。  コードの生成や補完、校正のほか、定型的な仕様書の作成といった付帯業務までAIが代行。  作業負荷軽減につながっています。 <a href="https://bsky.app/profile/nikkei.com/post/3mafn2arhjc22" target="_blank">nikkei.com</a> (2025-12-20 16:00:39)</span><span style="padding-right:50px;">Antonio La Cava on why libraries still matter in a digital world reut.rs/49mnOrF <a href="https://bsky.app/profile/reuters.com/post/3mafn22gpsl2i" target="_blank">reuters.com</a> (2025-12-20 16:00:32)</span><span style="padding-right:50px;">Symone Austin was laid off from her six-figure tech job in January and reworked her budget immediately.  Here's how she estimates she spends $1,000 less per month now, compared with before the layoff. <a href="https://bsky.app/profile/cnbc.com/post/3mafmzg5vop2d" target="_blank">cnbc.com</a> (2025-12-20 16:00:11)</span>
   </div>
 </div>
 
@@ -32,111 +32,106 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
-
-1. M3.3 Earthquake Hits Off Northern Japan Coast
-2. Four-Vehicle Accident in Fukuoka Leaves Two Injured
-3. Conviction Overturned in Murder of Rap Star Jam Master Jay
-4. Japanese High School Baseball to Remain at Koshien Stadium
-5. Tesla CEO Elon Musk's Massive $56 Billion Compensation Package Declared Invalid
-6. US Sanctions Venezuelan Family Members of Maduro
+1. Investigation Launched into Racial Bullying Incidents in Texas School District
+2. UN to Hold Hearings on Myanmar Genocide in January
+3. Roman Self-Healing Concrete Discovered in Pompeii Excavations
+4. Japan's Economy Minister Says Tensions with China Exist, But Seeks Cooperation
+5. After Layoff, Tech Worker Adjusts Budget and Saves $1,000 Monthly
+6. Sri Lanka's Tea Plantation Workers Take Refuge in Government Schools Amid Mudslides
 
 ----
 
 @sokuho.news
 
-🔔気象庁より【地震速報】です。
+🛎️JNNより【速報】です。
 
-15時45分頃、北海道で最大震度1の地震を観測しました。
-震源:宗谷地方南部, 深さ:ごく浅い, 規模:M3.3
-この地震による津波の心配はありません。
-(2025-12-20 15:48:56) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/20/2025-12-20-15-45-54.html?xlarge_image=1
+【速報】長崎市岡町で横転事故 車3台が玉突き
+(2025-12-20 16:06:00) #ニュース
 
-[2025-12-20 15:48:57](https://bsky.app/profile/sokuho.news/post/3mafmfdqgwx2y)
+[2025-12-20 16:08:57](https://bsky.app/profile/sokuho.news/post/3mafnj3nqdy2s)
 
 ---
 
-@sokuho.news
+@cnn.com
 
-🛎️FNNより【速報】です。
+Excavations of an ancient construction site in Pompeii have revealed the process of how Romans mixed their self-healing concrete. https://cnn.it/3MUd237
 
-【速報】路線バス含む4台が絡む事故 2人を病院に搬送 「明治通り」一部区間が通行止め 福岡市早良区
-(2025-12-20 15:40) #ニュース
-
-[2025-12-20 15:45:46](https://bsky.app/profile/sokuho.news/post/3mafm7nonpa26)
-
----
-
-@japan.reuters.com
-
-米プロバスケットボール協会（ＮＢＡ）は１９日、各地で試合を行い、ティンバーウルブズが１１２─１０７で西地区で首位独走のサンダーを破った。 bit.ly/4pGYX7K
-
-[2025-12-20 15:45:35](https://bsky.app/profile/japan.reuters.com/post/3mafm7covi52u)
-
----
-
-@reuters.com
-
-Taipei attacker acted alone, police say after four die reut.rs/4qnolj1
-
-[2025-12-20 15:45:12](https://bsky.app/profile/reuters.com/post/3mafm6mlcag23)
-
----
-
-@nhknewsunofficial.bsky.social
-
-外国人旅行客 日本で暮らす外国人 首都直下地震に備えどう対応
-https://news.web.nhk/newsweb/na/na-k10015008891000
-
-[2025-12-20 15:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafm6fbl5j2m)
-
----
-
-@reuters.com
-
-Hodge hundred helps West Indies avoid follow-on against NZ reut.rs/4p40bZw
-
-[2025-12-20 15:40:09](https://bsky.app/profile/reuters.com/post/3maflvlwvl32i)
-
----
-
-@reuters.com
-
-Conviction overturned for one man found guilty in Jam Master Jay's murder reut.rs/3MKfZmY
-
-[2025-12-20 15:35:07](https://bsky.app/profile/reuters.com/post/3maflmlufgw2b)
+[2025-12-20 16:01:02](https://bsky.app/profile/cnn.com/post/3mafn2wu67r2a)
 
 ---
 
 @nikkei.com
 
-タワマン高層階、首都直下地震で孤立リスク
+LINEヤフー、AIが書くコード　社内の生産性4割アップも
 www.nikkei.com/article/DGXZQO...
 
-倒壊リスクは低く「在宅避難の方が快適に過ごせる可能性が高い」という指摘も。
+独自の開発支援基盤「Ark Developer」を構築しました。
 
-一方で停止するエレベーターの数は2013年の想定から5割増。
+コードの生成や補完、校正のほか、定型的な仕様書の作成といった付帯業務までAIが代行。
 
-在宅避難が長期間に及ぶことへの備えが不可欠です。
+作業負荷軽減につながっています。
 
-[2025-12-20 15:30:39](https://bsky.app/profile/nikkei.com/post/3mafleltafm2c)
+[2025-12-20 16:00:39](https://bsky.app/profile/nikkei.com/post/3mafn2arhjc22)
 
 ---
 
 @reuters.com
 
-OWGR chairman says working with LIV to resolve world ranking points issue reut.rs/4jao6Fu
+Antonio La Cava on why libraries still matter in a digital world reut.rs/49mnOrF
 
-[2025-12-20 15:30:16](https://bsky.app/profile/reuters.com/post/3mafldwakzg24)
+[2025-12-20 16:00:32](https://bsky.app/profile/reuters.com/post/3mafn22gpsl2i)
+
+---
+
+@cnbc.com
+
+Symone Austin was laid off from her six-figure tech job in January and reworked her budget immediately.
+
+Here's how she estimates she spends $1,000 less per month now, compared with before the layoff.
+
+[2025-12-20 16:00:11](https://bsky.app/profile/cnbc.com/post/3mafmzg5vop2d)
+
+---
+
+@apnews.com
+
+After Sri Lanka struggled through one of the worst storms in its history, tea plantation workers are taking temporary refuge in government schools and temples as entire villages were buried in mud in the central highlands.
+
+[2025-12-20 16:00:10](https://bsky.app/profile/apnews.com/post/3mafmzezcty2k)
+
+---
+
+@bloomberg.com
+
+A journey through Jharkhand reveals why coal remains embedded in India's economy, politics and daily life — and what it would take to break free. Read more: bloom.bg/48MrJOl
+
+📷️: Clara Ferreira Marques/Bloomberg
+
+[2025-12-20 16:00:06](https://bsky.app/profile/bloomberg.com/post/3mafmzb433n24)
 
 ---
 
 @aljazeera.com
 
-Conviction overturned in murder of rap star Jam Master Jay, Run-DMC member https://aje.io/bv17lm
+UN’s top court to hold Myanmar genocide hearings in January https://aje.io/tzf6iu
 
-[2025-12-20 15:30:04](https://bsky.app/profile/aljazeera.com/post/3mafldkxtg727)
+[2025-12-20 16:00:03](https://bsky.app/profile/aljazeera.com/post/3mafmz6stqa22)
+
+---
+
+@wsj.com
+
+For all his flashy possessions—a storied Bel-Air estate known as Casa Encantada, a Malibu beach house, a New York pied-à-terre and an enviable art collection—Gary Winnick was severely strapped for cash and deeply in debt. on.wsj.com/45itX5I
+
+[2025-12-20 15:56:24](https://bsky.app/profile/wsj.com/post/3mafmsoapoe2k)
+
+---
+
+@japan.reuters.com
+
+ルビオ米国務長官は１９日の記者会見で日中間の緊張について「以前から存在していた」との認識を示した上で、「日本との強固な同盟関係を継続しつつ、中国と生産的に協力できる方法を見いだせると強く信じている」と語った。 bit.ly/4pa6evV
+
+[2025-12-20 15:56:11](https://bsky.app/profile/japan.reuters.com/post/3mafmsbm5u327)
 
 ---
 
