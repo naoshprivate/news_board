@@ -1,9 +1,9 @@
-# [2025-12-20 14:10 updated](2025_12_20.md)
+# [2025-12-20 14:30 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;"> SpyGPT will shake James Bond’s world ft.trib.al/JZt2EfV  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3mafglfxhli2k" target="_blank">financialtimes.com</a> (2025-12-20 14:04:59)</span><span style="padding-right:50px;"> Elliott’s bookshop gamble is turning into a page-turner ft.trib.al/jaMQxwm  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3mafglfi4qu2c" target="_blank">financialtimes.com</a> (2025-12-20 14:04:58)</span><span style="padding-right:50px;"> Have we reached a tipping point on public debt? ft.trib.al/mG4pyrF  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3mafgevbywr2b" target="_blank">financialtimes.com</a> (2025-12-20 14:01:20)</span><span style="padding-right:50px;"> Pitting Nimbys against Yimbys is a bad idea ft.trib.al/8eV9I4w  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3mafgevbbpa2q" target="_blank">financialtimes.com</a> (2025-12-20 14:01:20)</span><span style="padding-right:50px;">Torrential downpours and deadly flooding in the tropical, disaster-prone Philippines are not new. But revelations in recent months that politicians, officials and contractors had looted billions of dollars from the nationwide program supposed to mitigate their effects have roiled the country. <a href="https://bsky.app/profile/cnn.com/post/3mafgednyay23" target="_blank">cnn.com</a> (2025-12-20 14:01:01)</span>
+<span style="padding-right:50px;">Hoffmann family agrees to buy Penguins from Fenway Sports Group reut.rs/455Z4By <a href="https://bsky.app/profile/reuters.com/post/3mafhgpg4h52p" target="_blank">reuters.com</a> (2025-12-20 14:20:14)</span><span style="padding-right:50px;">Trump fails to put Epstein behind him with partial release of files ft.trib.al/q7YGZtB <a href="https://bsky.app/profile/financialtimes.com/post/3mafhex43vr23" target="_blank">financialtimes.com</a> (2025-12-20 14:19:15)</span><span style="padding-right:50px;">Former heavyweight champion Anthony Joshua defeated social media star-turned boxer Jake Paul with a knockout in the sixth round of the pair's bout. <a href="https://bsky.app/profile/nbcnews.com/post/3mafh4o7hjx24" target="_blank">nbcnews.com</a> (2025-12-20 14:14:38)</span><span style="padding-right:50px;">USDA confirms bird flu case in Wisconsin dairy herd as new wildlife spillover reut.rs/48X6cTn <a href="https://bsky.app/profile/reuters.com/post/3mafguooc3d2y" target="_blank">reuters.com</a> (2025-12-20 14:10:10)</span><span style="padding-right:50px;"> SpyGPT will shake James Bond’s world ft.trib.al/JZt2EfV  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3mafglfxhli2k" target="_blank">financialtimes.com</a> (2025-12-20 14:04:59)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 155.59 (🔺0.02 : 2025-12-19)</span>
+<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.75 (➖0.00 : 2025-12-20)</span>
   </div>
 </div>
 
@@ -32,16 +32,46 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
-
-1. US FDA Grants Market Authorization to Six On! PLUS Nicotine Pouch Products
-2. Justice Department Releases Thousands of Jeffrey Epstein Documents, but Many Remain Redacted
-3. US Drops Childhood Vaccine Recommendations, Citing Denmark's Approach
-4. Retirement Rule Update: Safe Withdrawal Rate Rises to 4.7% Annually
-5. US Justice Department Attorney Argues Trump's Capitol Rally Speech Was Part of National Interest
-6. Meta's Dina Powell McCormick Quits Board, May Stay on as Adviser
+1. Hoffmann Family Set to Purchase Penguins from Fenway Sports Group
+2. Trump Continues to Face Epstein Scandal After Partial Release of Documents
+3. Anthony Joshua Knocks Out Jake Paul in Boxing Match
+4. USDA Confirms Bird Flu Outbreak in Wisconsin Dairy Herd
+5. Meta's Dina Powell McCormick Steps Down from Board, May Remain as Adviser
+6. India's Modi Government Pushes Through Economic Reforms Amid Trade Headwinds
 
 ----
+
+@reuters.com
+
+Hoffmann family agrees to buy Penguins from Fenway Sports Group reut.rs/455Z4By
+
+[2025-12-20 14:20:14](https://bsky.app/profile/reuters.com/post/3mafhgpg4h52p)
+
+---
+
+@financialtimes.com
+
+Trump fails to put Epstein behind him with partial release of files ft.trib.al/q7YGZtB
+
+[2025-12-20 14:19:15](https://bsky.app/profile/financialtimes.com/post/3mafhex43vr23)
+
+---
+
+@nbcnews.com
+
+Former heavyweight champion Anthony Joshua defeated social media star-turned boxer Jake Paul with a knockout in the sixth round of the pair's bout.
+
+[2025-12-20 14:14:38](https://bsky.app/profile/nbcnews.com/post/3mafh4o7hjx24)
+
+---
+
+@reuters.com
+
+USDA confirms bird flu case in Wisconsin dairy herd as new wildlife spillover reut.rs/48X6cTn
+
+[2025-12-20 14:10:10](https://bsky.app/profile/reuters.com/post/3mafguooc3d2y)
+
+---
 
 @financialtimes.com
 
@@ -88,51 +118,6 @@ Torrential downpours and deadly flooding in the tropical, disaster-prone Philipp
 The Justice Department released thousands of new photos and records on Jeffrey Epstein on Friday, but at least 550 pages in the documents are fully redacted.
 
 [2025-12-20 14:01:01](https://bsky.app/profile/cbsnews.com/post/3mafgedl3xa2q)
-
----
-
-@reuters.com
-
-US FDA grants market authorization to six on! PLUS nicotine pouch products reut.rs/4pNLCL7
-
-[2025-12-20 14:01:00](https://bsky.app/profile/reuters.com/post/3mafgecwlxn2p)
-
----
-
-@nikkei.com
-
-りん病の新たな抗菌薬、数十年ぶりに承認　世界初の飲み薬
-www.nikkei.com/article/DGXZQO...
-
-世界で年8200万人以上が新たに感染。排尿時の痛みやかゆみなどが起こり、放置すると不妊につながることも。
-
-既存の薬に耐性を持つ菌が広がり、世界的な課題となっていました。
-
-採算性の問題で大手企業が新薬から撤退。非営利団体に各国が出資し、公共のために開発する取り組みが進んでいます。
-
-[2025-12-20 14:00:52](https://bsky.app/profile/nikkei.com/post/3mafge2itau2f)
-
----
-
-@wsj.com
-
-Influencers have described propranolol as a magic pill that eases nervous jitters in all kinds of settings.
-
-“It almost seems like a cheat code, if you will.”
-
-Prescriptions are on the rise, especially for young women. 🔗 on.wsj.com/3MuZESZ
-
-[2025-12-20 14:00:47](https://bsky.app/profile/wsj.com/post/3mafgdvsfhe2e)
-
----
-
-@cnbc.com
-
-"Start communicating like someone who deserves to be taken seriously and others will follow suit," says executive coach Melody Wilding, author of "Managing Up."
-
-The ability to package your ideas and communicate decisively changes how people perceive and respond to you in every setting.
-
-[2025-12-20 14:00:38](https://bsky.app/profile/cnbc.com/post/3mafgdnmzoz24)
 
 ---
 
