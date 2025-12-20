@@ -1,9 +1,9 @@
-# [2025-12-21 03:50 updated](2025_12_21.md)
+# [2025-12-21 04:10 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Ducks F Frank Vatrano fined $5K for unsportsmanlike conduct reut.rs/4qiKTBl <a href="https://bsky.app/profile/reuters.com/post/3magug5rquw2p" target="_blank">reuters.com</a> (2025-12-21 03:45:14)</span><span style="padding-right:50px;">Industry titans and Trump allies are weighing in during the final days of a sharp-elbowed campaign to succeed Jerome Powell as chair of the Fed. <a href="https://bsky.app/profile/wsj.com/post/3magueghh4r2z" target="_blank">wsj.com</a> (2025-12-21 03:44:16)</span><span style="padding-right:50px;">Congress is poised to leave for a scheduled holiday recess without a solution for addressing the expiration of enhanced subsidies for Affordable Care Act marketplace plans. <a href="https://bsky.app/profile/npr.org/post/3maguec5jde2x" target="_blank">npr.org</a> (2025-12-21 03:44:12)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】夜の住宅地で建物火災 高齢夫婦と連絡取れず 性別不明の1人の遺体発見 （島根・江津市） (2025-12-21 03:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3magu5xn6dw27" target="_blank">sokuho.news</a> (2025-12-21 03:40:39)</span><span style="padding-right:50px;">Tourists look past Guyana. It's ready to change their minds. The world's fastest-growing economy is using its oil wealth to develop its ecotourism options. <a href="https://bsky.app/profile/bloomberg.com/post/3magtlnjpbt2u" target="_blank">bloomberg.com</a> (2025-12-21 03:30:25)</span>
+<span style="padding-right:50px;">'Merry Christmas but it's not enough,' Man City boss tells league leading team reut.rs/492lt3R <a href="https://bsky.app/profile/reuters.com/post/3magvjsdrlo2y" target="_blank">reuters.com</a> (2025-12-21 04:05:10)</span><span style="padding-right:50px;">Forecasters said a parade of storms from the Pacific Ocean will pull in a river of moisture this weekend. Over the next week, parts of Northern California could get seven to 10 inches of rain. <a href="https://bsky.app/profile/nytimes.com/post/3magvjlnyn427" target="_blank">nytimes.com</a> (2025-12-21 04:05:03)</span><span style="padding-right:50px;">Pope Leo XIV has summoned the world's cardinals for meetings to help him govern the church, marking the unofficial start of his pontificate. <a href="https://bsky.app/profile/apnews.com/post/3magvdjxjg32k" target="_blank">apnews.com</a> (2025-12-21 04:01:40)</span><span style="padding-right:50px;">Brown University shooter took IT job in Portugal after abandoning physics pursuit reut.rs/4arK9Fq <a href="https://bsky.app/profile/reuters.com/post/3magvclfvk323" target="_blank">reuters.com</a> (2025-12-21 04:01:08)</span><span style="padding-right:50px;">Jake Paul is now linked to Muhammad Ali, with both boxers having suffered broken jaws in the boxing ring. <a href="https://bsky.app/profile/usatoday.com/post/3magvc6n4462f" target="_blank">usatoday.com</a> (2025-12-21 04:00:55)</span>
   </div>
 </div>
 
@@ -32,106 +32,102 @@
 
 ## News Headlines
 
-- Ducks' Frank Vatrano Fined $5K for Unsportsmanlike Conduct
-  - フランク・バトラーノに5万ドルの罰金
-- Trump Allies Weigh in on Fed Chair Succession
-  - トランプの盟友が連邦準備制度理事会議長選出をめぐって激しい争い
-- House Poised to Leave Without Solution for Expired ACA Subsidies
-  - 国会が休会に：安保法案における補助金の期限切れに解決策なし
-- Body Found in Burning Building, Elderly Couple's Whereabouts Unknown
-  - 『高齢夫婦の連絡がとれず』夜の住宅地で火災、遺体1体発見
-- Guyana's Oil Wealth Fuels Ecotourism Boom
-  - ガイアナ、石油資源で観光ブーム
-- Jake Paul Suffers Broken Jaw in Boxing Match
-  - ジェイク・ポール、ボクシングの試合で顎骨骨折
+- Man City Boss Tells Team to Improve
+  - マンチェスター・シティ監督はチームに改善を求める
+- Severe Storms to Hit Northern California
+  - 北部カリフォルニアに激しい嵐が到来
+- Pope Leo XIV Convenes Cardinals for Meetings
+  - ローマ教皇レオ十四世が枢機卿を集会
+- Brown University Shooter Takes IT Job in Portugal
+  - ブラウン大学の射撃犯がポルトガルへのIT職に
+- Two Refineries to Shut Down in California
+  - カリフォルニアで2つの石油精製所が閉鎖
+- Ukraine Proposes Face-to-Face Negotiations with Russia
+  - ウクライナがロシアとの面会交渉を提案
 
 
 ----
 
 @reuters.com
 
-Ducks F Frank Vatrano fined $5K for unsportsmanlike conduct reut.rs/4qiKTBl
+'Merry Christmas but it's not enough,' Man City boss tells league leading team reut.rs/492lt3R
 
-[2025-12-21 03:45:14](https://bsky.app/profile/reuters.com/post/3magug5rquw2p)
-
----
-
-@wsj.com
-
-Industry titans and Trump allies are weighing in during the final days of a sharp-elbowed campaign to succeed Jerome Powell as chair of the Fed.
-
-[2025-12-21 03:44:16](https://bsky.app/profile/wsj.com/post/3magueghh4r2z)
+[2025-12-21 04:05:10](https://bsky.app/profile/reuters.com/post/3magvjsdrlo2y)
 
 ---
 
-@npr.org
+@nytimes.com
 
-Congress is poised to leave for a scheduled holiday recess without a solution for addressing the expiration of enhanced subsidies for Affordable Care Act marketplace plans.
+Forecasters said a parade of storms from the Pacific Ocean will pull in a river of moisture this weekend. Over the next week, parts of Northern California could get seven to 10 inches of rain.
 
-[2025-12-21 03:44:12](https://bsky.app/profile/npr.org/post/3maguec5jde2x)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】夜の住宅地で建物火災 高齢夫婦と連絡取れず 性別不明の1人の遺体発見 （島根・江津市）
-(2025-12-21 03:00) #ニュース
-
-[2025-12-21 03:40:39](https://bsky.app/profile/sokuho.news/post/3magu5xn6dw27)
+[2025-12-21 04:05:03](https://bsky.app/profile/nytimes.com/post/3magvjlnyn427)
 
 ---
 
-@bloomberg.com
+@apnews.com
 
-Tourists look past Guyana. It's ready to change their minds. The world's fastest-growing economy is using its oil wealth to develop its ecotourism options.
+Pope Leo XIV has summoned the world's cardinals for meetings to help him govern the church, marking the unofficial start of his pontificate.
 
-[2025-12-21 03:30:25](https://bsky.app/profile/bloomberg.com/post/3magtlnjpbt2u)
+[2025-12-21 04:01:40](https://bsky.app/profile/apnews.com/post/3magvdjxjg32k)
+
+---
+
+@reuters.com
+
+Brown University shooter took IT job in Portugal after abandoning physics pursuit reut.rs/4arK9Fq
+
+[2025-12-21 04:01:08](https://bsky.app/profile/reuters.com/post/3magvclfvk323)
 
 ---
 
 @usatoday.com
 
-Jake Paul says he suffered a 'double broken jaw' after he was knocked out in the sixth round by Anthony Joshua on Friday, Dec. 19.
+Jake Paul is now linked to Muhammad Ali, with both boxers having suffered broken jaws in the boxing ring.
 
-[2025-12-21 03:30:21](https://bsky.app/profile/usatoday.com/post/3magtlk7arx2c)
+[2025-12-21 04:00:55](https://bsky.app/profile/usatoday.com/post/3magvc6n4462f)
 
 ---
 
 @cnn.com
 
-While everyone else's stockings are hung with care, Mom's is often the last to be filled — if it's filled at all. Why? For many families, moms are the magic makers of the holidays, but so often their needs can be overlooked.
-https://cnn.it/4s8ElHb
+Refineries in the state have been closing for years with two more set to shutter soon: a Los Angeles-area refinery at the end of the month and a Bay Area one in April. Together, the two refineries provide about 17% of the state's supply of gasoline.
+https://cnn.it/4sdlD1k
 
-[2025-12-21 03:30:07](https://bsky.app/profile/cnn.com/post/3magtl4bynd2v)
+[2025-12-21 04:00:20](https://bsky.app/profile/cnn.com/post/3magvb53bai2c)
 
 ---
 
-@en.afp.com
+@washingtonpost.com
 
-Ukrainian President Volodymyr Zelensky says Washington has proposed the first face-to-face negotiations between Ukraine and Russia in half a year, as diplomats converge on the US city of Miami for fresh talks on ending the war
-🇺🇦  🇺🇦  🇷🇺 
+Heading into 2026 with two meetings with President Trump on the schedule, President Xi Jinping’s negotiating position might be weakened by widening imbalances in the world’s second largest economy.
 
-u.afp.com/S8S5
+[2025-12-21 04:00:18](https://bsky.app/profile/washingtonpost.com/post/3magvb3f7t423)
 
-[2025-12-21 03:27:10](https://bsky.app/profile/en.afp.com/post/3magtftkmb62d)
+---
+
+@cnbc.com
+
+If you want to overhaul your career, whether you're in your 20s or your 60s, you can do so by asking yourself one simple question first, says Hoda Kotb.
+
+[2025-12-21 04:00:17](https://bsky.app/profile/cnbc.com/post/3magvb2gcnz2x)
+
+---
+
+@cbsnews.com
+
+Republican Rep. Elise Stefanik dropped out of the New York governor's race Friday, concluding that a potentially fractious GOP primary could hurt Republicans' chances in an uphill statewide contest, as President Trump signaled he would not make an endorsement at this stage.  
+
+[2025-12-21 04:00:01](https://bsky.app/profile/cbsnews.com/post/3magvalgd6d2y)
 
 ---
 
 @nytimes.com
 
-Ukraine has used drones four times in the past few weeks to hit oil tankers from Russia’s shadow fleet, escalating the war in the seas and showing that Ukraine’s security services agency feels increasingly emboldened to launch audacious attacks and claim them publicly.
+"Ignore the reviewers who didn’t actually make this recipe and touted their own homemade concoctions. This recipe is fantastic."
 
-[2025-12-21 03:25:03](https://bsky.app/profile/nytimes.com/post/3magtc2cezb2b)
+The most popular comment agrees: This is how you make the best scrambled eggs.
 
----
-
-@nytimes.com
-
-The Ursids, a winter solstice light show that has been active since Wednesday, will reach its peak Sunday night into Monday morning. Here is how to watch.
-
-[2025-12-21 03:25:03](https://bsky.app/profile/nytimes.com/post/3magtc2dcd22b)
+[2025-12-21 03:56:01](https://bsky.app/profile/nytimes.com/post/3maguzgpc3e2s)
 
 ---
 
