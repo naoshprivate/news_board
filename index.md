@@ -1,9 +1,9 @@
-# [2025-12-20 17:10 updated](2025_12_20.md)
+# [2025-12-20 17:30 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Parents of addicts face an impossible choice, Elizabeth Bernstein writes: Offer help and risk enabling their child’s behavior, or sever ties and maybe lose them forever. <a href="https://bsky.app/profile/wsj.com/post/3mafqsjt3ey2u" target="_blank">wsj.com</a> (2025-12-20 17:07:55)</span><span style="padding-right:50px;">アサヒGHD勝木社長「防げた攻撃だった」　ランサム被害から2カ月 www.nikkei.com/article/DGXZQO...  2023～25年に500億円を投じて推進したDX。そのさなかでサイバー攻撃を受けました。  リスク診断や模擬攻撃で対策をしてきましたが「我々に見えなかった盲点があった」と振り返りました。 <a href="https://bsky.app/profile/nikkei.com/post/3mafqfuaqse2g" target="_blank">nikkei.com</a> (2025-12-20 17:00:50)</span><span style="padding-right:50px;">米軍は１９日、シリアにある過激派組織「イスラム国」（ＩＳ）の数十カ所の拠点に対し、大規模な空爆を実施した。シリア中部で先週、米兵士ら３人が殺害されたことへの報復。 bit.ly/4qlMu9z <a href="https://bsky.app/profile/japan.reuters.com/post/3mafqf433u72q" target="_blank">japan.reuters.com</a> (2025-12-20 17:00:24)</span><span style="padding-right:50px;">China envoy visits Cambodia seeking to de-escalate fighting with Thailand reut.rs/3Y1UVL9 <a href="https://bsky.app/profile/reuters.com/post/3mafqf2vc6d2x" target="_blank">reuters.com</a> (2025-12-20 17:00:23)</span><span style="padding-right:50px;">A months-long joint investigation by CNN and investigative newsroom Lighthouse Reports has examined the actions of the SAF and traced what happened as its troops recaptured the strategic city of Wad Madani and surrounding areas in Jazira state at the beginning of the year. https://cnn.it/4qb55ox <a href="https://bsky.app/profile/cnn.com/post/3mafqezhdmx2o" target="_blank">cnn.com</a> (2025-12-20 17:00:21)</span>
+<span style="padding-right:50px;">Explainer: What is so special about TikTok's algorithm? reut.rs/3L6YtbU <a href="https://bsky.app/profile/reuters.com/post/3mafr7i6utd2p" target="_blank">reuters.com</a> (2025-12-20 17:15:09)</span><span style="padding-right:50px;">Parents of addicts face an impossible choice, Elizabeth Bernstein writes: Offer help and risk enabling their child’s behavior, or sever ties and maybe lose them forever. <a href="https://bsky.app/profile/wsj.com/post/3mafqsjt3ey2u" target="_blank">wsj.com</a> (2025-12-20 17:07:55)</span><span style="padding-right:50px;">アサヒGHD勝木社長「防げた攻撃だった」　ランサム被害から2カ月 www.nikkei.com/article/DGXZQO...  2023～25年に500億円を投じて推進したDX。そのさなかでサイバー攻撃を受けました。  リスク診断や模擬攻撃で対策をしてきましたが「我々に見えなかった盲点があった」と振り返りました。 <a href="https://bsky.app/profile/nikkei.com/post/3mafqfuaqse2g" target="_blank">nikkei.com</a> (2025-12-20 17:00:50)</span><span style="padding-right:50px;">米軍は１９日、シリアにある過激派組織「イスラム国」（ＩＳ）の数十カ所の拠点に対し、大規模な空爆を実施した。シリア中部で先週、米兵士ら３人が殺害されたことへの報復。 bit.ly/4qlMu9z <a href="https://bsky.app/profile/japan.reuters.com/post/3mafqf433u72q" target="_blank">japan.reuters.com</a> (2025-12-20 17:00:24)</span><span style="padding-right:50px;">China envoy visits Cambodia seeking to de-escalate fighting with Thailand reut.rs/3Y1UVL9 <a href="https://bsky.app/profile/reuters.com/post/3mafqf2vc6d2x" target="_blank">reuters.com</a> (2025-12-20 17:00:23)</span>
   </div>
 </div>
 
@@ -34,14 +34,22 @@
 
 Here are six important stories with headlines:
 
-1. Parents of Addicts Face Impossible Choice: Help or Sever Ties
-2. Japan's Nikkei: Flat 35 Loan Limit Raised to ¥120 Million Amid Housing Price Surge
-3. US Air Strikes Hit ISIS Strongholds in Syria After Soldier Killings
-4. Pakistan Court Hands Imran Khan 17-Year Jail Term in Graft Case
-5. World Bank Approves $700 Million for Pakistan's Economic Stability
-6. Epstein Files: What's Revealed in Newly Released Documents
+1. US Launches Airstrikes on ISIS Targets in Syria
+2. US Pushes for Ceasefire in Sudan's Civil War
+3. LINE and Yahoo Develop AI-Powered Development Platform
+4. Pakistan Court Hands Imran Khan and Wife 17-Year Jail Terms
+5. Seven Elephants Killed in India Train Accident
+6. World Bank Approves $700 Million for Pakistan's Economic Stability
 
 ----
+
+@reuters.com
+
+Explainer: What is so special about TikTok's algorithm? reut.rs/3L6YtbU
+
+[2025-12-20 17:15:09](https://bsky.app/profile/reuters.com/post/3mafr7i6utd2p)
+
+---
 
 @wsj.com
 
@@ -119,24 +127,6 @@ https://news.web.nhk/newsweb/na/na-k10015009331000
 Ted Sarandos is already an entertainment power broker: “Half the town wants to do business with him, and the other half wants an invite just to hang.”
 
 [2025-12-20 16:51:06](https://bsky.app/profile/wsj.com/post/3mafpui6jut2h)
-
----
-
-@nikkei.com
-
-【日経特報】
-フラット35の限度額、8000万→1億2000万円に　住宅価格高騰に対応
-www.nikkei.com/article/DGXZQO...
-
-フラット35は最長35年の全期間固定金利の公的住宅ローン。
-
-限度額は2005年から変わっておらず、都市部を中心とする住宅価格の上昇に追いつけなくなっていました。
-
-日銀が利上げを進めているなか、政府は固定金利型のニーズが高まることも踏まえ、制度を使いやすくします。
-
-#ニュース
-
-[2025-12-20 16:49:34](https://bsky.app/profile/nikkei.com/post/3mafprppznu2c)
 
 ---
 
