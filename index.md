@@ -1,9 +1,9 @@
-# [2025-12-20 17:30 updated](2025_12_20.md)
+# [2025-12-20 17:50 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Explainer: What is so special about TikTok's algorithm? reut.rs/3L6YtbU <a href="https://bsky.app/profile/reuters.com/post/3mafr7i6utd2p" target="_blank">reuters.com</a> (2025-12-20 17:15:09)</span><span style="padding-right:50px;">Parents of addicts face an impossible choice, Elizabeth Bernstein writes: Offer help and risk enabling their child’s behavior, or sever ties and maybe lose them forever. <a href="https://bsky.app/profile/wsj.com/post/3mafqsjt3ey2u" target="_blank">wsj.com</a> (2025-12-20 17:07:55)</span><span style="padding-right:50px;">アサヒGHD勝木社長「防げた攻撃だった」　ランサム被害から2カ月 www.nikkei.com/article/DGXZQO...  2023～25年に500億円を投じて推進したDX。そのさなかでサイバー攻撃を受けました。  リスク診断や模擬攻撃で対策をしてきましたが「我々に見えなかった盲点があった」と振り返りました。 <a href="https://bsky.app/profile/nikkei.com/post/3mafqfuaqse2g" target="_blank">nikkei.com</a> (2025-12-20 17:00:50)</span><span style="padding-right:50px;">米軍は１９日、シリアにある過激派組織「イスラム国」（ＩＳ）の数十カ所の拠点に対し、大規模な空爆を実施した。シリア中部で先週、米兵士ら３人が殺害されたことへの報復。 bit.ly/4qlMu9z <a href="https://bsky.app/profile/japan.reuters.com/post/3mafqf433u72q" target="_blank">japan.reuters.com</a> (2025-12-20 17:00:24)</span><span style="padding-right:50px;">China envoy visits Cambodia seeking to de-escalate fighting with Thailand reut.rs/3Y1UVL9 <a href="https://bsky.app/profile/reuters.com/post/3mafqf2vc6d2x" target="_blank">reuters.com</a> (2025-12-20 17:00:23)</span>
+<span style="padding-right:50px;">Steve Witkoff’s unlikely diplomatic ascent was bolstered by two fans: Donald Trump and Vladimir Putin. <a href="https://bsky.app/profile/wsj.com/post/3mafsvn4oeh23" target="_blank">wsj.com</a> (2025-12-20 17:45:27)</span><span style="padding-right:50px;">An to face Wang in women's title clash at World Tour Finals reut.rs/492oKjP <a href="https://bsky.app/profile/reuters.com/post/3mafsd577ox24" target="_blank">reuters.com</a> (2025-12-20 17:35:06)</span><span style="padding-right:50px;">Essex is at the heart of the UK government’s AI ambitions — plans that could radically reshape British society and politics. <a href="https://bsky.app/profile/bloomberg.com/post/3mafs2rhym42w" target="_blank">bloomberg.com</a> (2025-12-20 17:30:25)</span><span style="padding-right:50px;">米電気自動車（ＥＶ）大手テスラが２０１８年に承認したイーロン・マスク最高経営責任者（ＣＥＯ）の巨額報酬パッケージについて、デラウェア州の最高裁は１９日、報酬案を無効とした下級審の判断を覆した。 bit.ly/4s6en79 <a href="https://bsky.app/profile/japan.reuters.com/post/3mafs2mm7lx2q" target="_blank">japan.reuters.com</a> (2025-12-20 17:30:20)</span><span style="padding-right:50px;">Elon Musk, already the world's richest man, scored another huge windfall Friday when the Delaware Supreme Court reversed a decision that deprived him of a $55 billion pay package that Tesla doled out in 2018 as an incentive for its CEO to steer the automaker to new heights. <a href="https://bsky.app/profile/apnews.com/post/3mafs2cs7hk2d" target="_blank">apnews.com</a> (2025-12-20 17:30:10)</span>
   </div>
 </div>
 
@@ -32,101 +32,99 @@
 
 ## News Headlines
 
-Here are six important stories with headlines:
+Here are six important stories with headlines in English:
 
-1. US Launches Airstrikes on ISIS Targets in Syria
-2. US Pushes for Ceasefire in Sudan's Civil War
-3. LINE and Yahoo Develop AI-Powered Development Platform
-4. Pakistan Court Hands Imran Khan and Wife 17-Year Jail Terms
-5. Seven Elephants Killed in India Train Accident
+1. US Court Upholds $55 Billion Pay Package for Elon Musk
+2. TikTok's Algorithm Explained: What Makes It So Special?
+3. Parents of Addicts Face Impossible Choice: Enable or Lose Their Child Forever
+4. US Pushes for Ceasefire in Sudan's Civil War as Kordofan Violence Escalates
+5. Ghana's President Urged to Rally African Leaders Behind Slavery Reparations Push
 6. World Bank Approves $700 Million for Pakistan's Economic Stability
 
 ----
 
-@reuters.com
-
-Explainer: What is so special about TikTok's algorithm? reut.rs/3L6YtbU
-
-[2025-12-20 17:15:09](https://bsky.app/profile/reuters.com/post/3mafr7i6utd2p)
-
----
-
 @wsj.com
 
-Parents of addicts face an impossible choice, Elizabeth Bernstein writes: Offer help and risk enabling their child’s behavior, or sever ties and maybe lose them forever.
+Steve Witkoff’s unlikely diplomatic ascent was bolstered by two fans: Donald Trump and Vladimir Putin.
 
-[2025-12-20 17:07:55](https://bsky.app/profile/wsj.com/post/3mafqsjt3ey2u)
-
----
-
-@nikkei.com
-
-アサヒGHD勝木社長「防げた攻撃だった」　ランサム被害から2カ月
-www.nikkei.com/article/DGXZQO...
-
-2023～25年に500億円を投じて推進したDX。そのさなかでサイバー攻撃を受けました。
-
-リスク診断や模擬攻撃で対策をしてきましたが「我々に見えなかった盲点があった」と振り返りました。
-
-[2025-12-20 17:00:50](https://bsky.app/profile/nikkei.com/post/3mafqfuaqse2g)
-
----
-
-@japan.reuters.com
-
-米軍は１９日、シリアにある過激派組織「イスラム国」（ＩＳ）の数十カ所の拠点に対し、大規模な空爆を実施した。シリア中部で先週、米兵士ら３人が殺害されたことへの報復。 bit.ly/4qlMu9z
-
-[2025-12-20 17:00:24](https://bsky.app/profile/japan.reuters.com/post/3mafqf433u72q)
+[2025-12-20 17:45:27](https://bsky.app/profile/wsj.com/post/3mafsvn4oeh23)
 
 ---
 
 @reuters.com
 
-China envoy visits Cambodia seeking to de-escalate fighting with Thailand reut.rs/3Y1UVL9
+An to face Wang in women's title clash at World Tour Finals reut.rs/492oKjP
 
-[2025-12-20 17:00:23](https://bsky.app/profile/reuters.com/post/3mafqf2vc6d2x)
-
----
-
-@cnn.com
-
-A months-long joint investigation by CNN and investigative newsroom Lighthouse Reports has examined the actions of the SAF and traced what happened as its troops recaptured the strategic city of Wad Madani and surrounding areas in Jazira state at the beginning of the year.
-https://cnn.it/4qb55ox
-
-[2025-12-20 17:00:21](https://bsky.app/profile/cnn.com/post/3mafqezhdmx2o)
+[2025-12-20 17:35:06](https://bsky.app/profile/reuters.com/post/3mafsd577ox24)
 
 ---
 
 @bloomberg.com
 
-A yearlong campaign by the far-right Alternative for Germany party to court Donald Trump’s MAGA movement is beginning to bear fruit.
+Essex is at the heart of the UK government’s AI ambitions — plans that could radically reshape British society and politics.
 
-[2025-12-20 17:00:09](https://bsky.app/profile/bloomberg.com/post/3mafqenucrh2w)
-
----
-
-@aljazeera.com
-
-US pushes for ceasefire in Sudan’s civil war as Kordofan violence escalates https://aje.io/f300ad
-
-[2025-12-20 17:00:04](https://bsky.app/profile/aljazeera.com/post/3mafqejgaqe2v)
+[2025-12-20 17:30:25](https://bsky.app/profile/bloomberg.com/post/3mafs2rhym42w)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@japan.reuters.com
 
-渡辺謙さんのカフェ閉店へ「思いつないでほしい」 宮城 気仙沼
-https://news.web.nhk/newsweb/na/na-k10015009331000
+米電気自動車（ＥＶ）大手テスラが２０１８年に承認したイーロン・マスク最高経営責任者（ＣＥＯ）の巨額報酬パッケージについて、デラウェア州の最高裁は１９日、報酬案を無効とした下級審の判断を覆した。 bit.ly/4s6en79
 
-[2025-12-20 17:00:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafqeiizkg24)
+[2025-12-20 17:30:20](https://bsky.app/profile/japan.reuters.com/post/3mafs2mm7lx2q)
+
+---
+
+@apnews.com
+
+Elon Musk, already the world's richest man, scored another huge windfall Friday when the Delaware Supreme Court reversed a decision that deprived him of a $55 billion pay package that Tesla doled out in 2018 as an incentive for its CEO to steer the automaker to new heights.
+
+[2025-12-20 17:30:10](https://bsky.app/profile/apnews.com/post/3mafs2cs7hk2d)
 
 ---
 
 @wsj.com
 
-Ted Sarandos is already an entertainment power broker: “Half the town wants to do business with him, and the other half wants an invite just to hang.”
+Review: Sydney Sweeney stars alongside Amanda Seyfried in "The Housemaid," a clever thriller about the employee of a woman whose lavish Long Island mansion is home to some disturbing happenings. on.wsj.com/4qdcRhM
 
-[2025-12-20 16:51:06](https://bsky.app/profile/wsj.com/post/3mafpui6jut2h)
+[2025-12-20 17:28:50](https://bsky.app/profile/wsj.com/post/3mafrxx4otm2i)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+鳴門海峡付近で漁船が転覆 船内で発見の70代男性死亡
+https://news.web.nhk/newsweb/na/na-k10015009281000
+
+[2025-12-20 17:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafrpg4nvc2m)
+
+---
+
+@financialtimes.com
+
+Stop right here for the FT's best films of 2025. And let us know if you agree with Danny Leigh's choices ft.trib.al/wJzOjnf
+
+[2025-12-20 17:18:55](https://bsky.app/profile/financialtimes.com/post/3mafrg7q3542y)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+広島 養殖かき死ぬ被害相次ぐ 影響長期化も懸念
+https://news.web.nhk/newsweb/na/na-k10015009321000
+
+[2025-12-20 17:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafrep3gcu22)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】プロボクシング高知市出身の市原涼選手が県勢2人目の全日本新人王に
+(2025-12-20 17:15) #ニュース
+
+[2025-12-20 17:15:58](https://bsky.app/profile/sokuho.news/post/3mafrax2cil2y)
 
 ---
 
