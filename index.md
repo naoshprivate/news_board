@@ -1,9 +1,9 @@
-# [2025-12-21 08:10 updated](2025_12_21.md)
+# [2025-12-21 08:32 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">中国の威圧、経済バージョンの「集団的自衛権」で対抗を www.nikkei.com/article/DGXZQO...  G7とオーストラリア・韓国は計600品目の製品・原材料を中国に輸出しています。  中国は鉄鋼・EV産業で使うニッケルを日米独に依存。  束になれば中国に思いとどまらせる余地ができます。 <a href="https://bsky.app/profile/nikkei.com/post/3mahcparewe22" target="_blank">nikkei.com</a> (2025-12-21 08:00:52)</span><span style="padding-right:50px;">The announcement noted that many brands will feature "indoor track activations,” which provided more than 100,000 visitor rides during the 2025 show. <a href="https://bsky.app/profile/usatoday.com/post/3mahcpbax6y2o" target="_blank">usatoday.com</a> (2025-12-21 08:00:52)</span><span style="padding-right:50px;">Chris Broomfield's A-frame cabin is now one of Airbnb's “most-wishlisted” rentals in the state of New York.  “I couldn’t really hand [carpentry skills] down to my kids,” Broomfield tells CNBC Make It. “So I needed to build something that at least would give them a head start..." <a href="https://bsky.app/profile/cnbc.com/post/3mahcop66nu2e" target="_blank">cnbc.com</a> (2025-12-21 08:00:33)</span><span style="padding-right:50px;">New research shows how some animals in the wild manage to sleep in risky environments. From thousands of 4-second “microsleeps” to half-brain naps midair, scientists can now reveal some unusual animal sleep habits.  Learn more: bit.ly/4qnGCMZ  <a href="https://bsky.app/profile/apnews.com/post/3mahcokfhi42q" target="_blank">apnews.com</a> (2025-12-21 08:00:28)</span><span style="padding-right:50px;">Wildlife defenders and hunters in Florida at odds again as the first bear hunt in a decade proceeds.  The hunt was halted in less than 48 hours after an estimated 304 bears were killed the first weekend. The quota that year was 320.  <a href="https://bsky.app/profile/washingtonpost.com/post/3mahco2rkum2e" target="_blank">washingtonpost.com</a> (2025-12-21 08:00:12)</span>
+<span style="padding-right:50px;">Affordability — a word that nods to the costs of housing, child care, groceries, health care, utilities and other essential expenses — is dominating the political conversation ahead of the midterm elections. How did it emerge so quickly? <a href="https://bsky.app/profile/nytimes.com/post/3mahe2l2mox25" target="_blank">nytimes.com</a> (2025-12-21 08:25:06)</span><span style="padding-right:50px;">US justice department under fire for removing Trump image from Epstein files ft.trib.al/wAIno9H <a href="https://bsky.app/profile/financialtimes.com/post/3mahdmz444r2o" target="_blank">financialtimes.com</a> (2025-12-21 08:17:30)</span><span style="padding-right:50px;">Italian police said on Saturday they had arrested 384 people and seized 1.4 tonnes of drugs in a large-scale operation against drug trafficking.  <a href="https://bsky.app/profile/cnn.com/post/3mahdimrawd2t" target="_blank">cnn.com</a> (2025-12-21 08:15:03)</span><span style="padding-right:50px;">⚽ French superstar Kylian Mbappe said it was an honour to equal his idol Cristiano Ronaldo's record of 59 Real Madrid goals in a calendar year on Saturday -- a feat he achieved on his 27th birthday  u.afp.com/S8Sg <a href="https://bsky.app/profile/en.afp.com/post/3mahdikxl7c2q" target="_blank">en.afp.com</a> (2025-12-21 08:15:01)</span><span style="padding-right:50px;">Hong Kong billionaire Jimmy Lai tested China's limits. It cost him his freedom <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mahdbruuxe2b" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-21 08:11:13)</span>
   </div>
 </div>
 
@@ -30,23 +30,65 @@
 
 ---
 
-## News Headlines
+@nytimes.com
 
-- China's Economic Coercion Threats Can be Countered with Collective Self-Defense
-  - チィターのユこに見かでは一平に加ったブトインコュアウストを友いできだ
-- G7 and Australia, South Korea Export 600 Items to China
-  - イレアコター、北東国、国州州、アイレアコターのブトインコュアウストを友いできだ
-- Nickel for Steel and EV Industry Depends on U.S. and Germany
-  - チィターのブトインコュアウストを了だはアイレアコター、パスターかではきだ
-- New York Cabin Becomes One of Airbnb's Most-Wishlisted Rentals
-  - アューストのツタロアウェナにいはエューストなりなけなだ
-- Wild Animals Sleep in Risky Environments
-  - アイターストにはゴートエアウェナに反だ
-- Florida Wildlife Defenders and Hunters in Disagreement Over Bear Hunt
-  - ベーェゲズヤジェウウ、ベージィザユーのパスタートエアウェナを完为いでもだ
+Affordability — a word that nods to the costs of housing, child care, groceries, health care, utilities and other essential expenses — is dominating the political conversation ahead of the midterm elections. How did it emerge so quickly?
 
+[2025-12-21 08:25:06](https://bsky.app/profile/nytimes.com/post/3mahe2l2mox25)
 
-----
+---
+
+@financialtimes.com
+
+US justice department under fire for removing Trump image from Epstein files ft.trib.al/wAIno9H
+
+[2025-12-21 08:17:30](https://bsky.app/profile/financialtimes.com/post/3mahdmz444r2o)
+
+---
+
+@cnn.com
+
+Italian police said on Saturday they had arrested 384 people and seized 1.4 tonnes of drugs in a large-scale operation against drug trafficking. 
+
+[2025-12-21 08:15:03](https://bsky.app/profile/cnn.com/post/3mahdimrawd2t)
+
+---
+
+@en.afp.com
+
+⚽ French superstar Kylian Mbappe said it was an honour to equal his idol Cristiano Ronaldo's record of 59 Real Madrid goals in a calendar year on Saturday -- a feat he achieved on his 27th birthday
+
+u.afp.com/S8Sg
+
+[2025-12-21 08:15:01](https://bsky.app/profile/en.afp.com/post/3mahdikxl7c2q)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Hong Kong billionaire Jimmy Lai tested China's limits. It cost him his freedom
+
+[2025-12-21 08:11:13](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mahdbruuxe2b)
+
+---
+
+@reuters.com
+
+Arteta praises Arsenal grit after away win over Everton reut.rs/4asVJAe
+
+[2025-12-21 08:10:14](https://bsky.app/profile/reuters.com/post/3mahd7z5zkf2i)
+
+---
+
+@wsj.com
+
+Since returning to the White House, President Trump has unleashed an ambitious agenda that has transformed global industry, geopolitical alliances and everyday life in America.
+
+Our video series looks at where the changes have mattered most.
+
+[2025-12-21 08:09:36](https://bsky.app/profile/wsj.com/post/3mahd6v5srg23)
+
+---
 
 @nikkei.com
 
@@ -78,73 +120,6 @@ Chris Broomfield's A-frame cabin is now one of Airbnb's “most-wishlisted” re
 “I couldn’t really hand [carpentry skills] down to my kids,” Broomfield tells CNBC Make It. “So I needed to build something that at least would give them a head start..."
 
 [2025-12-21 08:00:33](https://bsky.app/profile/cnbc.com/post/3mahcop66nu2e)
-
----
-
-@apnews.com
-
-New research shows how some animals in the wild manage to sleep in risky environments. From thousands of 4-second “microsleeps” to half-brain naps midair, scientists can now reveal some unusual animal sleep habits.
-
-Learn more: bit.ly/4qnGCMZ 
-
-[2025-12-21 08:00:28](https://bsky.app/profile/apnews.com/post/3mahcokfhi42q)
-
----
-
-@washingtonpost.com
-
-Wildlife defenders and hunters in Florida at odds again as the first bear hunt in a decade proceeds.
-
-The hunt was halted in less than 48 hours after an estimated 304 bears were killed the first weekend. The quota that year was 320. 
-
-[2025-12-21 08:00:12](https://bsky.app/profile/washingtonpost.com/post/3mahco2rkum2e)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】歩行者が車両にはねられる事故 重傷のもよう 山口
-(2025-12-21 07:48:00) #ニュース
-
-[2025-12-21 07:57:20](https://bsky.app/profile/sokuho.news/post/3mahciwdite2s)
-
----
-
-@cnbc.com
-
-Epstein files: A number of documents, including Trump photo, reportedly removed from DOJ release site
-
-[2025-12-21 07:52:57](https://bsky.app/profile/cnbc.com/post/3mahcb3u4gb2i)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】歩行者が車両にはねられ重傷のもよう 山口
-(2025-12-21 07:48:00) #ニュース
-
-[2025-12-21 07:52:07](https://bsky.app/profile/sokuho.news/post/3mahc7luasa2a)
-
----
-
-@nytimes.com
-
-News Analysis: The political motivations of the White House in the release on Friday of more than 13,000 files related to Jeffrey Epstein were obvious and well-worn: Distract from President Trump’s involvement in the scandal by pointing the finger at Bill Clinton.
-
-[2025-12-21 07:50:01](https://bsky.app/profile/nytimes.com/post/3mahc3uqdzi25)
-
----
-
-@nhknewsunofficial.bsky.social
-
-スキージャンプ男子Ｗ杯 個人第10戦 二階堂蓮が3位
-https://news.web.nhk/newsweb/na/na-k10015009561000
-
-[2025-12-21 07:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahbnnijgn2b)
 
 ---
 
