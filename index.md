@@ -1,9 +1,9 @@
-# [2025-12-20 15:30 updated](2025_12_20.md)
+# [2025-12-20 15:50 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">22兆円に マスク氏への巨額報酬案 一転有効との判断 州最高裁 https://news.web.nhk/newsweb/na/na-k10015009291000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafl6eb6tq2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 15:27:07)</span><span style="padding-right:50px;">近鉄京都線 踏切で特急電車と車衝突 1人重体 運転していた人か https://news.web.nhk/newsweb/na/na-k10015009271000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafl673tuw26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 15:27:02)</span><span style="padding-right:50px;">Joshua delivers reality check to Paul with sixth-round KO reut.rs/498WwE3 <a href="https://bsky.app/profile/reuters.com/post/3mafl2oioe62o" target="_blank">reuters.com</a> (2025-12-20 15:25:06)</span><span style="padding-right:50px;">Consumer sentiment in Germany to fall heading into 2026, survey shows reut.rs/4aJJJKP <a href="https://bsky.app/profile/reuters.com/post/3mafkiwnzvg2i" target="_blank">reuters.com</a> (2025-12-20 15:15:10)</span><span style="padding-right:50px;">鳴門海峡付近で漁船が転覆か 船内で発見の男性 意識不明 https://news.web.nhk/newsweb/na/na-k10015009281000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafkiqacat2k" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 15:15:02)</span>
+<span style="padding-right:50px;">🔔気象庁より【地震速報】です。  15時45分頃、北海道で最大震度1の地震を観測しました。 震源:宗谷地方南部, 深さ:ごく浅い, 規模:M3.3 この地震による津波の心配はありません。 (2025-12-20 15:48:56) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/20/2025-12-20-15-45-54.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3mafmfdqgwx2y" target="_blank">sokuho.news</a> (2025-12-20 15:48:57)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】路線バス含む4台が絡む事故 2人を病院に搬送 「明治通り」一部区間が通行止め 福岡市早良区 (2025-12-20 15:40) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mafm7nonpa26" target="_blank">sokuho.news</a> (2025-12-20 15:45:46)</span><span style="padding-right:50px;">米プロバスケットボール協会（ＮＢＡ）は１９日、各地で試合を行い、ティンバーウルブズが１１２─１０７で西地区で首位独走のサンダーを破った。 bit.ly/4pGYX7K <a href="https://bsky.app/profile/japan.reuters.com/post/3mafm7covi52u" target="_blank">japan.reuters.com</a> (2025-12-20 15:45:35)</span><span style="padding-right:50px;">Taipei attacker acted alone, police say after four die reut.rs/4qnolj1 <a href="https://bsky.app/profile/reuters.com/post/3mafm6mlcag23" target="_blank">reuters.com</a> (2025-12-20 15:45:12)</span><span style="padding-right:50px;">外国人旅行客 日本で暮らす外国人 首都直下地震に備えどう対応 https://news.web.nhk/newsweb/na/na-k10015008891000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafm6fbl5j2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 15:45:02)</span>
   </div>
 </div>
 
@@ -34,105 +34,109 @@
 
 Here are six important stories with headlines in English:
 
-1. Tesla CEO's $2.2 billion compensation package deemed valid by Delaware Supreme Court
-2. Joshua delivers reality check to Paul with sixth-round KO
-3. Germany's consumer sentiment set to fall heading into 2026
-4. Final fugitive caught in Louisiana jailbreak
-5. China issues new rules to regulate internet platform pricing
-6. England needs 329 runs to win in third Ashes test
+1. M3.3 Earthquake Hits Off Northern Japan Coast
+2. Four-Vehicle Accident in Fukuoka Leaves Two Injured
+3. Conviction Overturned in Murder of Rap Star Jam Master Jay
+4. Japanese High School Baseball to Remain at Koshien Stadium
+5. Tesla CEO Elon Musk's Massive $56 Billion Compensation Package Declared Invalid
+6. US Sanctions Venezuelan Family Members of Maduro
 
 ----
 
+@sokuho.news
+
+🔔気象庁より【地震速報】です。
+
+15時45分頃、北海道で最大震度1の地震を観測しました。
+震源:宗谷地方南部, 深さ:ごく浅い, 規模:M3.3
+この地震による津波の心配はありません。
+(2025-12-20 15:48:56) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/20/2025-12-20-15-45-54.html?xlarge_image=1
+
+[2025-12-20 15:48:57](https://bsky.app/profile/sokuho.news/post/3mafmfdqgwx2y)
+
+---
+
+@sokuho.news
+
+🛎️FNNより【速報】です。
+
+【速報】路線バス含む4台が絡む事故 2人を病院に搬送 「明治通り」一部区間が通行止め 福岡市早良区
+(2025-12-20 15:40) #ニュース
+
+[2025-12-20 15:45:46](https://bsky.app/profile/sokuho.news/post/3mafm7nonpa26)
+
+---
+
+@japan.reuters.com
+
+米プロバスケットボール協会（ＮＢＡ）は１９日、各地で試合を行い、ティンバーウルブズが１１２─１０７で西地区で首位独走のサンダーを破った。 bit.ly/4pGYX7K
+
+[2025-12-20 15:45:35](https://bsky.app/profile/japan.reuters.com/post/3mafm7covi52u)
+
+---
+
+@reuters.com
+
+Taipei attacker acted alone, police say after four die reut.rs/4qnolj1
+
+[2025-12-20 15:45:12](https://bsky.app/profile/reuters.com/post/3mafm6mlcag23)
+
+---
+
 @nhknewsunofficial.bsky.social
 
-22兆円に マスク氏への巨額報酬案 一転有効との判断 州最高裁
-https://news.web.nhk/newsweb/na/na-k10015009291000
+外国人旅行客 日本で暮らす外国人 首都直下地震に備えどう対応
+https://news.web.nhk/newsweb/na/na-k10015008891000
 
-[2025-12-20 15:27:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafl6eb6tq2m)
-
----
-
-@nhknewsunofficial.bsky.social
-
-近鉄京都線 踏切で特急電車と車衝突 1人重体 運転していた人か
-https://news.web.nhk/newsweb/na/na-k10015009271000
-
-[2025-12-20 15:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafl673tuw26)
+[2025-12-20 15:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafm6fbl5j2m)
 
 ---
 
 @reuters.com
 
-Joshua delivers reality check to Paul with sixth-round KO reut.rs/498WwE3
+Hodge hundred helps West Indies avoid follow-on against NZ reut.rs/4p40bZw
 
-[2025-12-20 15:25:06](https://bsky.app/profile/reuters.com/post/3mafl2oioe62o)
-
----
-
-@reuters.com
-
-Consumer sentiment in Germany to fall heading into 2026, survey shows reut.rs/4aJJJKP
-
-[2025-12-20 15:15:10](https://bsky.app/profile/reuters.com/post/3mafkiwnzvg2i)
-
----
-
-@nhknewsunofficial.bsky.social
-
-鳴門海峡付近で漁船が転覆か 船内で発見の男性 意識不明
-https://news.web.nhk/newsweb/na/na-k10015009281000
-
-[2025-12-20 15:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafkiqacat2k)
-
----
-
-@financialtimes.com
-
-How a failed baseball player and ex-stock broker became a major arms dealer ft.trib.al/yI20Q8Q
-
-[2025-12-20 15:14:23](https://bsky.app/profile/financialtimes.com/post/3mafkhjfujd2q)
+[2025-12-20 15:40:09](https://bsky.app/profile/reuters.com/post/3maflvlwvl32i)
 
 ---
 
 @reuters.com
 
-Arsenal's Arteta says he has to earn the right to get contract extension reut.rs/4pXyVNJ
+Conviction overturned for one man found guilty in Jam Master Jay's murder reut.rs/3MKfZmY
 
-[2025-12-20 15:10:07](https://bsky.app/profile/reuters.com/post/3mafk7vpas72x)
-
----
-
-@reuters.com
-
-Google warns staff with US visas against international travel due to embassy delays, Business Insider says reut.rs/4pGXT3K
-
-[2025-12-20 15:05:07](https://bsky.app/profile/reuters.com/post/3mafjwxbga424)
-
----
-
-@cnn.com
-
-For Australia’s tiny Jewish population, Bondi Beach was a refuge within a vast country that offered sanctuary to families fleeing a seething hate that killed six million of their kind within the lifetime of some of their oldest members.
-
-[2025-12-20 15:01:01](https://bsky.app/profile/cnn.com/post/3mafjpmwciu2u)
+[2025-12-20 15:35:07](https://bsky.app/profile/reuters.com/post/3maflmlufgw2b)
 
 ---
 
 @nikkei.com
 
-【高校野球の７イニング制検討】
-「真夏の甲子園開催」はなぜ変えられない？
+タワマン高層階、首都直下地震で孤立リスク
 www.nikkei.com/article/DGXZQO...
 
-高野連はテレビ局から放映権料を徴収していません。
+倒壊リスクは低く「在宅避難の方が快適に過ごせる可能性が高い」という指摘も。
 
-24年度の高野連の収入に当たる経常収益約16億円のうち、甲子園の入場料収入は約14億円を占めました。
+一方で停止するエレベーターの数は2013年の想定から5割増。
 
-大会に出場する学校への宿泊費や交通費などの支援金はこれが原資となります。
+在宅避難が長期間に及ぶことへの備えが不可欠です。
 
-一方、高野連は甲子園を無料で使用。多額の球場使用料が発生することになるドーム球場などへの移行は、大会運営の屋台骨を揺るがしかねません。
+[2025-12-20 15:30:39](https://bsky.app/profile/nikkei.com/post/3mafleltafm2c)
 
-[2025-12-20 15:00:42](https://bsky.app/profile/nikkei.com/post/3mafjp22jxh2n)
+---
+
+@reuters.com
+
+OWGR chairman says working with LIV to resolve world ranking points issue reut.rs/4jao6Fu
+
+[2025-12-20 15:30:16](https://bsky.app/profile/reuters.com/post/3mafldwakzg24)
+
+---
+
+@aljazeera.com
+
+Conviction overturned in murder of rap star Jam Master Jay, Run-DMC member https://aje.io/bv17lm
+
+[2025-12-20 15:30:04](https://bsky.app/profile/aljazeera.com/post/3mafldkxtg727)
 
 ---
 
