@@ -1,9 +1,9 @@
-# [2025-12-20 08:50 updated](2025_12_20.md)
+# [2025-12-20 09:10 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Secretary of state defends Trump’s foreign policy ft.trib.al/nfc7Ddj <a href="https://bsky.app/profile/financialtimes.com/post/3maeuuaftk52v" target="_blank">financialtimes.com</a> (2025-12-20 08:47:47)</span><span style="padding-right:50px;">Pandya's fiery fifty steers India to series-clinching win over South Africa reut.rs/4s8Ec6v <a href="https://bsky.app/profile/reuters.com/post/3maeupmwym523" target="_blank">reuters.com</a> (2025-12-20 08:45:13)</span><span style="padding-right:50px;">The Trump administration reversed a Biden-era ban on antipersonnel land mines except on the Korean Peninsula.  The memo, signed by Defense Secretary Pete Hegseth, says the reversal would give the U.S. military a “force multiplier” against enemies. <a href="https://bsky.app/profile/washingtonpost.com/post/3maeupdsax52i" target="_blank">washingtonpost.com</a> (2025-12-20 08:45:03)</span><span style="padding-right:50px;">Justice Dept. appealing decision tossing James Comey, Letitia James cases because of prosecutor's appointment. <a href="https://bsky.app/profile/cbsnews.com/post/3maeupblfcj2a" target="_blank">cbsnews.com</a> (2025-12-20 08:45:01)</span><span style="padding-right:50px;">Paychex CEO gives a read on the labor market for small businesses <a href="https://bsky.app/profile/cnbc.com/post/3maeukabx4x2b" target="_blank">cnbc.com</a> (2025-12-20 08:42:12)</span>
+<span style="padding-right:50px;">Update: The Justice Department released some of the Epstein files, including many previously public documents, related to convicted sex offender Jeffrey Epstein’s criminal charges and his death by suicide in federal custody. <a href="https://bsky.app/profile/npr.org/post/3maevwdi2pf2b" target="_blank">npr.org</a> (2025-12-20 09:06:51)</span><span style="padding-right:50px;">Wawrinka to retire in 2026 after 24-year pro career reut.rs/4seivlN <a href="https://bsky.app/profile/reuters.com/post/3maevtepib22b" target="_blank">reuters.com</a> (2025-12-20 09:05:12)</span><span style="padding-right:50px;">Data center stocks can get on track if OpenAI raises money, Jim Cramer says <a href="https://bsky.app/profile/cnbc.com/post/3maevsotpew24" target="_blank">cnbc.com</a> (2025-12-20 09:04:49)</span><span style="padding-right:50px;">Cramer's Lighting Round: Sell EchoStar <a href="https://bsky.app/profile/cnbc.com/post/3maevothojf2p" target="_blank">cnbc.com</a> (2025-12-20 09:02:40)</span><span style="padding-right:50px;">In Salzburg, Austria, Christmas involves both St. Nick and Krampus, a mythological punisher with roots stretching back to late antiquity and many fans in the present-day Central Alps. <a href="https://bsky.app/profile/npr.org/post/3maevnovjlr2x" target="_blank">npr.org</a> (2025-12-20 09:02:01)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.33 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.75 (🔺2.22 : 2025-12-20)</span>
+<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.33 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 155.59 (🔺0.02 : 2025-12-19)</span>
   </div>
 </div>
 
@@ -32,103 +32,104 @@
 
 ## News Headlines
 
-Here are six important stories with headlines:
+Here are six story headlines in English:
 
-1. US Strikes ISIS Targets in Syria in Retaliation for Killing of American Soldiers
-2. Supreme Court Sides with Immigration Judges in Challenge to Public Speaking Policy
-3. Epstein Files Released, Revealing New Details of Investigation
-4. US to Downgrade Cannabis to Lower Category of Drugs, Allowing Wider Use
-5. EU Council Backs Digital Euro with Both Online and Offline Functionality
-6. US Conducts Massive Strike Against ISIS in Syria in Response to Attack
+1. Epstein Files Released, Shedding Light on Jeffrey Epstein's Crimes
+2. Wawrinka to Retire in 2026 After 24-Year Professional Career
+3. US Transportation Secretary's Daughter Criticizes Airport Security Patrol
+4. Prices Surge 25% Since 2020, Leaving Consumers Feeling Pinched
+5. Sen. Cynthia Lummis to Retire in 2027, Ending Allyship with Crypto Industry
+6. US Strikes ISIS Targets in Syria in Retaliation for Killing of American Soldiers
 
 ----
 
-@financialtimes.com
+@npr.org
 
-Secretary of state defends Trump’s foreign policy ft.trib.al/nfc7Ddj
+Update: The Justice Department released some of the Epstein files, including many previously public documents, related to convicted sex offender Jeffrey Epstein’s criminal charges and his death by suicide in federal custody.
 
-[2025-12-20 08:47:47](https://bsky.app/profile/financialtimes.com/post/3maeuuaftk52v)
+[2025-12-20 09:06:51](https://bsky.app/profile/npr.org/post/3maevwdi2pf2b)
 
 ---
 
 @reuters.com
 
-Pandya's fiery fifty steers India to series-clinching win over South Africa reut.rs/4s8Ec6v
+Wawrinka to retire in 2026 after 24-year pro career reut.rs/4seivlN
 
-[2025-12-20 08:45:13](https://bsky.app/profile/reuters.com/post/3maeupmwym523)
-
----
-
-@washingtonpost.com
-
-The Trump administration reversed a Biden-era ban on antipersonnel land mines except on the Korean Peninsula.
-
-The memo, signed by Defense Secretary Pete Hegseth, says the reversal would give the U.S. military a “force multiplier” against enemies.
-
-[2025-12-20 08:45:03](https://bsky.app/profile/washingtonpost.com/post/3maeupdsax52i)
-
----
-
-@cbsnews.com
-
-Justice Dept. appealing decision tossing James Comey, Letitia James cases because of prosecutor's appointment.
-
-[2025-12-20 08:45:01](https://bsky.app/profile/cbsnews.com/post/3maeupblfcj2a)
+[2025-12-20 09:05:12](https://bsky.app/profile/reuters.com/post/3maevtepib22b)
 
 ---
 
 @cnbc.com
 
-Paychex CEO gives a read on the labor market for small businesses
+Data center stocks can get on track if OpenAI raises money, Jim Cramer says
 
-[2025-12-20 08:42:12](https://bsky.app/profile/cnbc.com/post/3maeukabx4x2b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-トランプ政権 永住権得られる抽せん制度停止 大学銃撃事件受け
-https://news.web.nhk/newsweb/na/na-k10015009131000
-
-[2025-12-20 08:42:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maeuk7hvb52m)
+[2025-12-20 09:04:49](https://bsky.app/profile/cnbc.com/post/3maevsotpew24)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@cnbc.com
 
-【随時更新】ロシア ウクライナに軍事侵攻（12月20日の動き）
-https://news.web.nhk/newsweb/na/na-k10014990671000
+Cramer's Lighting Round: Sell EchoStar
 
-[2025-12-20 08:42:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maeuk2prs424)
+[2025-12-20 09:02:40](https://bsky.app/profile/cnbc.com/post/3maevothojf2p)
 
 ---
 
-@usatoday.com
+@npr.org
 
-The long-awaited Epstein Files are out – some of them anyway – and, as expected, they include a trove of investigative files and other evidence from criminal investigations of Jeffrey Epstein.
- 
-There are two call logs with a note for Epstein stating, “I have a female for him.” bit.ly/494WwVG
+In Salzburg, Austria, Christmas involves both St. Nick and Krampus, a mythological punisher with roots stretching back to late antiquity and many fans in the present-day Central Alps.
 
-[2025-12-20 08:41:25](https://bsky.app/profile/usatoday.com/post/3maeuitkflm2f)
+[2025-12-20 09:02:01](https://bsky.app/profile/npr.org/post/3maevnovjlr2x)
+
+---
+
+@reuters.com
+
+Canadian dollar steadies after mixed retail sales data reut.rs/4jqSnjH
+
+[2025-12-20 09:01:31](https://bsky.app/profile/reuters.com/post/3maevmrqg4v2r)
 
 ---
 
 @wsj.com
 
-Health Secretary Robert F. Kennedy Jr. has considered moving to align the U.S. childhood vaccine schedule with Denmark’s, which recommends fewer vaccines.
+ on.wsj.com/4s2VHFz
 
-[2025-12-20 08:41:21](https://bsky.app/profile/wsj.com/post/3maeuiqazjs23)
+[2025-12-20 09:01:02](https://bsky.app/profile/wsj.com/post/3maevlwemyu2c)
 
 ---
 
-@sokuho.news
+@japan.reuters.com
 
-🛎️FNNより【速報】です。
+ニューヨーク外為市場では、円がドルなどの主要通貨に対し大きく下落した。日銀が利上げを決定したものの、今後の追加利上げに関する方針を明確に示さなかったことを受けた。 bit.ly/4akHMEi
 
-【速報】飲食店経営の女性（41）売上金53万円などが入ったカバン奪われけが 自転車の男が逃走 神戸・中央区
-(2025-12-20 08:23) #ニュース
+[2025-12-20 09:00:57](https://bsky.app/profile/japan.reuters.com/post/3maevlr7vi62q)
 
-[2025-12-20 08:40:45](https://bsky.app/profile/sokuho.news/post/3maeuhn7mg626)
+---
+
+@nikkei.com
+
+【石川県立図書館、来館者全国トップ】
+魅せる円形本棚、撮影・雑談もOK
+www.nikkei.com/article/DGXZQO...
+
+金沢駅から車で約20分ほどの場所にあり、兼六園などと並び目的地の一つにする観光客も。
+
+子供連れ専用スペースや「サイレントルーム」など多様なニーズに対応しています。
+
+県外からの来館も絶えず、2024年度の来館者数は119万人でした。
+
+[2025-12-20 09:00:50](https://bsky.app/profile/nikkei.com/post/3maevlkhnqq2g)
+
+---
+
+@cnn.com
+
+President Donald Trump's name was added to the John F. Kennedy Center for the Performing Arts one day after the institution's board of trustees voted to change the facility's name to the "Trump Kennedy Center."
+
+Read more: https://cnn.it/48Z9vrF
+
+[2025-12-20 09:00:44](https://bsky.app/profile/cnn.com/post/3maevlf6ysy22)
 
 ---
 
