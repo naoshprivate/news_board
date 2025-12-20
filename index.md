@@ -1,9 +1,9 @@
-# [2025-12-21 06:30 updated](2025_12_21.md)
+# [2025-12-21 06:50 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Slot sees signs Liverpool improving in messy Spurs win, but laments Isak injury reut.rs/48ZgSQ0 <a href="https://bsky.app/profile/reuters.com/post/3mah5e2ebgx2p" target="_blank">reuters.com</a> (2025-12-21 06:25:07)</span><span style="padding-right:50px;">Fifteen people were killed in a December 14 attack on a Hanukkah celebration in Sydney, Australia, including a 10-year-old girl, a long-serving rabbi and a Holocaust survivor. Here is what we know about the victims’ lives. trib.al/zRMJhOU <a href="https://bsky.app/profile/nytimes.com/post/3mah5asboas2j" target="_blank">nytimes.com</a> (2025-12-21 06:23:18)</span><span style="padding-right:50px;">Automotive crash test dummies are born in Ohio, brought to "life" near Detroit, and then sent around the world to make cars safer. <a href="https://bsky.app/profile/npr.org/post/3mah4xp25ox2g" target="_blank">npr.org</a> (2025-12-21 06:18:13)</span><span style="padding-right:50px;">The Justice Department released thousands of files related to sex offender and accused sex trafficker Jeffrey Epstein after Congress passed a law forcing the Trump administration to do so.   CNN reporters went through the thousands of files, and you can read highlights below: https://cnn.it/44A5Nng <a href="https://bsky.app/profile/cnn.com/post/3mah4s5gbfr22" target="_blank">cnn.com</a> (2025-12-21 06:15:07)</span><span style="padding-right:50px;">A non-fashion guy, our writer needed rugged boots for the city—but not the "Blunnies" he saw on every subway car. And so the hunt began. on.wsj.com/494Asdy <a href="https://bsky.app/profile/wsj.com/post/3mah4dq2e2c2i" target="_blank">wsj.com</a> (2025-12-21 06:07:03)</span>
+<span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】江津市の住宅で火災 焼け跡から2人の遺体を発見 高齢の夫婦と連絡取れず 島根県 (2025-12-21 06:45) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mah6igly2b26" target="_blank">sokuho.news</a> (2025-12-21 06:45:28)</span><span style="padding-right:50px;">Roche CEO points to higher future drug prices in Switzerland after US deal reut.rs/4spGv5B <a href="https://bsky.app/profile/reuters.com/post/3mah6hxwtqp2s" target="_blank">reuters.com</a> (2025-12-21 06:45:13)</span><span style="padding-right:50px;">【動画】Pickup NEWS（12月21日） https://news.web.nhk/newsweb/na/na-k10015009471000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mah64ypljt26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 06:39:02)</span><span style="padding-right:50px;">The comedian is scheduled to co-host his final show on Saturday with Wicked star Ariana Grande. n.pr/4spC5vx <a href="https://bsky.app/profile/npr.org/post/3mah5y4odrs23" target="_blank">npr.org</a> (2025-12-21 06:36:21)</span><span style="padding-right:50px;">Victims of convicted sex offender Jeffrey Epstein fume after some of the files from a long-awaited cache of records from cases against him were released -- under tight control by the Trump administration -- with pages blacked-out & photos censored ⤵️  u.afp.com/S8Sf <a href="https://bsky.app/profile/en.afp.com/post/3mah5wklcs52f" target="_blank">en.afp.com</a> (2025-12-21 06:35:28)</span>
   </div>
 </div>
 
@@ -32,103 +32,116 @@
 
 ## News Headlines
 
-- US Seizes Sanctioned Vessel Off Venezuela
-  - エアサンタロのフォンタトングを测徘
-- Liverpool Hang On to Defeat Tottenham
-  - モンタュートーを测徘、トアストーインドー
-- Leverkusen Earn 3-1 Comeback Win at Leipzig
-  - モンタュートーシアー3一の测徘曲、ユインケユントー
-- Bad Bunny's Concerts in Mexico Attract Half-Million Fans
-  - パイショナーのフォンタトングを三きな打紀、坈パックタートングをがある
-- Pope Leo XIV Summons Cardinals for Meetings
-  - パトメイーンタートングを测徘に日本、トアストーインドー
-- US Intercepts Another Vessel Following Trump's Blockade
-  - エアサンタトングを测徘バーャショナには、アザースタートングをたんしたにくだ
+- Two Bodies Found in Burning House in Japan
+  - 日本の家で火事　焼け跡から２人の遺体を発見
+- Roche CEO Predicts Higher Drug Prices in Switzerland After US Deal
+  - Roche社長、日本との合弁によりスイスで薬物価格の上昇予測
+- US Seizes Second Oil Vessel Off Venezuela Coast
+  - 米国がベネズエラ沖で油槽船を拿捕
+- James Van Der Beek Addresses Public Scrutiny of His Weight
+  - ジェームズ・ヴァン・ダー・ビーが体重に関する世間の注目を話題に
+- US Intercepts Another Vessel Off Venezuela Coast
+  - 米国がベネズエラ沖でもう1隻の船を拿捕
+- Lumbee Tribe Receives Full Federal Recognition After 133 Years
+  - ロンバート族が133年ぶりに完全な連邦認定を受ける
 
 
 ----
 
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】江津市の住宅で火災 焼け跡から2人の遺体を発見 高齢の夫婦と連絡取れず 島根県
+(2025-12-21 06:45) #ニュース
+
+[2025-12-21 06:45:28](https://bsky.app/profile/sokuho.news/post/3mah6igly2b26)
+
+---
+
 @reuters.com
 
-Slot sees signs Liverpool improving in messy Spurs win, but laments Isak injury reut.rs/48ZgSQ0
+Roche CEO points to higher future drug prices in Switzerland after US deal reut.rs/4spGv5B
 
-[2025-12-21 06:25:07](https://bsky.app/profile/reuters.com/post/3mah5e2ebgx2p)
-
----
-
-@nytimes.com
-
-Fifteen people were killed in a December 14 attack on a Hanukkah celebration in Sydney, Australia, including a 10-year-old girl, a long-serving rabbi and a Holocaust survivor. Here is what we know about the victims’ lives. trib.al/zRMJhOU
-
-[2025-12-21 06:23:18](https://bsky.app/profile/nytimes.com/post/3mah5asboas2j)
+[2025-12-21 06:45:13](https://bsky.app/profile/reuters.com/post/3mah6hxwtqp2s)
 
 ---
 
-@npr.org
+@nhknewsunofficial.bsky.social
 
-Automotive crash test dummies are born in Ohio, brought to "life" near Detroit, and then sent around the world to make cars safer.
+【動画】Pickup NEWS（12月21日）
+https://news.web.nhk/newsweb/na/na-k10015009471000
 
-[2025-12-21 06:18:13](https://bsky.app/profile/npr.org/post/3mah4xp25ox2g)
-
----
-
-@cnn.com
-
-The Justice Department released thousands of files related to sex offender and accused sex trafficker Jeffrey Epstein after Congress passed a law forcing the Trump administration to do so. 
-
-CNN reporters went through the thousands of files, and you can read highlights below: https://cnn.it/44A5Nng
-
-[2025-12-21 06:15:07](https://bsky.app/profile/cnn.com/post/3mah4s5gbfr22)
-
----
-
-@wsj.com
-
-A non-fashion guy, our writer needed rugged boots for the city—but not the "Blunnies" he saw on every subway car. And so the hunt began. on.wsj.com/494Asdy
-
-[2025-12-21 06:07:03](https://bsky.app/profile/wsj.com/post/3mah4dq2e2c2i)
+[2025-12-21 06:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mah64ypljt26)
 
 ---
 
 @npr.org
 
-The Lumbee Tribe of North Carolina has finally received full federal recognition, which it has sought since 1888. Tribal leaders were moved to tears after President Trump signed the measure. n.pr/3L95mJU
+The comedian is scheduled to co-host his final show on Saturday with Wicked star Ariana Grande. n.pr/4spC5vx
 
-[2025-12-21 06:02:23](https://bsky.app/profile/npr.org/post/3mah43ffll324)
-
----
-
-@usatoday.com
-
-Which Ole Miss coaches are following Lane Kiffin to LSU in 2026? Here's a look so far as Kiffin builds his new staff:
-
-[2025-12-21 06:00:58](https://bsky.app/profile/usatoday.com/post/3mah3ytsuxl2w)
+[2025-12-21 06:36:21](https://bsky.app/profile/npr.org/post/3mah5y4odrs23)
 
 ---
 
-@cnbc.com
+@en.afp.com
 
-60-year-old executive Ron Vachris first learned some of his most important leadership lessons more than three decades ago, when he was in charge of just a single store, he says.
+Victims of convicted sex offender Jeffrey Epstein fume after some of the files from a long-awaited cache of records from cases against him were released -- under tight control by the Trump administration -- with pages blacked-out & photos censored ⤵️ 
+u.afp.com/S8Sf
 
-“That was the time that I really developed my leadership skills,” Vachris said.
+[2025-12-21 06:35:28](https://bsky.app/profile/en.afp.com/post/3mah5wklcs52f)
 
-[2025-12-21 06:00:27](https://bsky.app/profile/cnbc.com/post/3mah3xwlzte2y)
+---
+
+@sokuho.news
+
+🔔防災科研より【強震モニタ】動画です。
+
+震源:青森県西方沖, 深さ:10km
+マグニチュード:4.2, 最大震度:1
+📍https://www.google.com/maps?q=41.1,139.0&ll=41.1,139.0&z=7&t=h
+地震発生日時:2025-12-21 06:30頃
+(10倍速▶180s→18s) #地震
+
+[2025-12-21 06:33:25](https://bsky.app/profile/sokuho.news/post/3mah5svh3ug2y)
+
+---
+
+@sokuho.news
+
+🔔気象庁より【地震速報】です。
+
+6時30分頃、北海道・青森県で最大震度1の地震を観測しました。
+震源:青森県西方沖, 深さ:10km, 規模:M4.2
+この地震による津波の心配はありません。
+(2025-12-21 06:32:47) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/21/2025-12-21-06-30-01.html?xlarge_image=1
+
+[2025-12-21 06:32:50](https://bsky.app/profile/sokuho.news/post/3mah5rtgtgs26)
 
 ---
 
 @washingtonpost.com
 
-The U.S. is intercepting another vessel days after President Trump announced a “complete blockade” on all sanctioned oil tankers entering or leaving Venezuela.
+Justice Department files related to Jeffrey Epstein, included a 1996 complaint to the FBI about the disgraced financier allegedly possessing and distributing “child pornography” about a decade before a federal investigation was launched.
 
-[2025-12-21 06:00:14](https://bsky.app/profile/washingtonpost.com/post/3mah3xjxvz723)
+[2025-12-21 06:31:53](https://bsky.app/profile/washingtonpost.com/post/3mah5q56g2y2n)
 
 ---
 
 @apnews.com
 
-Malachi Toney’s tiebreaking 11-yard touchdown reception with less than two minutes left lifted No. 10 seed Miami to a 10-3 win over No. 7 Texas A&M Saturday in the College Football Playoff.
+<strong><span style="color: red;">BREAKING:</span> At least 16 files from the Epstein release disappeared from DOJ's webpage, including a photo of Trump, with no explanation.</strong>
 
-[2025-12-21 06:00:07](https://bsky.app/profile/apnews.com/post/3mah3xdt3ux2q)
+[2025-12-21 06:30:34](https://bsky.app/profile/apnews.com/post/3mah5nruqal25)
+
+---
+
+@usatoday.com
+
+James Van Der Beek, who's battling colorectal cancer, addressed public scrutiny of his weight after his appearance at a "Dawson's Creek" cast reunion.
+
+[2025-12-21 06:30:10](https://bsky.app/profile/usatoday.com/post/3mah5n2jkmp2h)
 
 ---
 
