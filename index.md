@@ -1,9 +1,9 @@
-# [2025-12-20 20:10 updated](2025_12_20.md)
+# [2025-12-20 20:30 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">There's a Chinese billionaire said to have 100 U.S.-born kids. Inside the surrogacy industry that builds mega-families for elites who never set foot in America.   🔗: on.wsj.com/4pHjVDo <a href="https://bsky.app/profile/wsj.com/post/3mag2mc5uub2o" target="_blank">wsj.com</a> (2025-12-20 20:03:23)</span><span style="padding-right:50px;">文字切り絵で小説の神髄　超精細な技、紙1枚に刻む www.nikkei.com/article/DGXZQO...  桜の樹の下には屍体が埋まっている――。切り抜かれた白い文字が黒い紙の上に浮かびます。  切り絵作家の梨々さんは、梶井基次郎が重ねた自然の美と人間の暗い衝動を、紙が生む陰影で表現。  創作の原点は絵本「モチモチの木」です。暗闇に浮かぶ木の輪郭を見た瞬間、胸がざわめきました。  切り絵作家として生きることにしたのは、20歳を前にした出来事がきっかけでした。 <a href="https://bsky.app/profile/nikkei.com/post/3mag2hqq25e2g" target="_blank">nikkei.com</a> (2025-12-20 20:00:51)</span><span style="padding-right:50px;">McDonald’s CEO Chris Kempczinski has some career guidance to share, provided you have “thick skin.” <a href="https://bsky.app/profile/cnbc.com/post/3mag2h2dgdz2y" target="_blank">cnbc.com</a> (2025-12-20 20:00:27)</span><span style="padding-right:50px;">A Northern California fisherman may have set state and world records by catching a canary rockfish he says weighed in at 10.25 pounds. <a href="https://bsky.app/profile/apnews.com/post/3mag2gpqiz42k" target="_blank">apnews.com</a> (2025-12-20 20:00:16)</span><span style="padding-right:50px;">The divorce and the surrounding speculation have only fueled attacks against Paxton in one of the nation’s most heated Republican primaries as he seeks to unseat Sen. John Cornyn. <a href="https://bsky.app/profile/cnn.com/post/3mag2gnewfc2k" target="_blank">cnn.com</a> (2025-12-20 20:00:13)</span>
+<span style="padding-right:50px;">Brussels like a local reut.rs/3MSvol6 <a href="https://bsky.app/profile/reuters.com/post/3mag3t5seis2y" target="_blank">reuters.com</a> (2025-12-20 20:25:07)</span><span style="padding-right:50px;">維新 吉村代表 衆院定数削減法案 来年通常国会での成立に全力 https://news.web.nhk/newsweb/na/na-k10015009421000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mag3rcpien24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 20:24:03)</span><span style="padding-right:50px;">ルビオ米国務長官は１９日の記者会見で日中間の緊張について「以前から存在していた」との認識を示した上で、「日本との強固な同盟関係を継続しつつ、中国と生産的に協力できる方法を見いだせると強く信じている」と語った。 bit.ly/49jyMhE <a href="https://bsky.app/profile/japan.reuters.com/post/3mag3bizkn52u" target="_blank">japan.reuters.com</a> (2025-12-20 20:15:15)</span><span style="padding-right:50px;">Insight: How Brazil's deadliest police raid turned into a bloodbath reut.rs/48MC0do <a href="https://bsky.app/profile/reuters.com/post/3mag3bi7ual2x" target="_blank">reuters.com</a> (2025-12-20 20:15:14)</span><span style="padding-right:50px;">Exclusive: Trump appointee inspired by conservative media outlet to push for probe of Democratic congressman reut.rs/3L17rYn <a href="https://bsky.app/profile/reuters.com/post/3mag2yevppv24" target="_blank">reuters.com</a> (2025-12-20 20:10:08)</span>
   </div>
 </div>
 
@@ -32,16 +32,57 @@
 
 ## News Headlines
 
-Here are six important stories with headlines:
+Here are six headlines in English based on the given news:
 
-1. Billionaire's Secret Kids: Chinese Tycoon's 'Elite Surrogacy Empire'
-2. Vatican Weighs In on Dispute Over 3 Octogenarian Nuns Who Broke Out of Nursing Home
-3. Tesla CEO Elon Musk's $56M Pay Package Ruled Invalid by Delaware Supreme Court
-4. Pakistani Court Sentences Ex-PM Imran Khan to 17 Years in Prison for State Gift Fraud
-5. Tesla's $56M Pay Package for Elon Musk Ruled Invalid
-6. US Lawmakers Revive Privateering, a Practice Banished Since the Age of Sail
+1. US Lawmakers Revive Privateering Practice to Target Enemies
+2. Tesla CEO Elon Musk's $56 Million Bonus Package Ruled Invalid by Delaware Supreme Court
+3. Former Pakistani PM Imran Khan and Wife Sentenced to 17 Years in Prison for State Gift Fraud
+4. Thieves in Santa and Elf Costumes Steal Groceries from Montreal Supermarket in Robin Hood-Style Heist
+5. Bengaluru's People Tree Hospital to Be Acquired by Fortis Healthcare for $58 Million
+6. Ukraine Says It Has Hit Russian Oil Rig and Patrol Ship in Caspian Sea
 
 ----
+
+@reuters.com
+
+Brussels like a local reut.rs/3MSvol6
+
+[2025-12-20 20:25:07](https://bsky.app/profile/reuters.com/post/3mag3t5seis2y)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+維新 吉村代表 衆院定数削減法案 来年通常国会での成立に全力
+https://news.web.nhk/newsweb/na/na-k10015009421000
+
+[2025-12-20 20:24:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mag3rcpien24)
+
+---
+
+@japan.reuters.com
+
+ルビオ米国務長官は１９日の記者会見で日中間の緊張について「以前から存在していた」との認識を示した上で、「日本との強固な同盟関係を継続しつつ、中国と生産的に協力できる方法を見いだせると強く信じている」と語った。 bit.ly/49jyMhE
+
+[2025-12-20 20:15:15](https://bsky.app/profile/japan.reuters.com/post/3mag3bizkn52u)
+
+---
+
+@reuters.com
+
+Insight: How Brazil's deadliest police raid turned into a bloodbath reut.rs/48MC0do
+
+[2025-12-20 20:15:14](https://bsky.app/profile/reuters.com/post/3mag3bi7ual2x)
+
+---
+
+@reuters.com
+
+Exclusive: Trump appointee inspired by conservative media outlet to push for probe of Democratic congressman reut.rs/3L17rYn
+
+[2025-12-20 20:10:08](https://bsky.app/profile/reuters.com/post/3mag2yevppv24)
+
+---
 
 @wsj.com
 
@@ -91,47 +132,6 @@ A Northern California fisherman may have set state and world records by catching
 The divorce and the surrounding speculation have only fueled attacks against Paxton in one of the nation’s most heated Republican primaries as he seeks to unseat Sen. John Cornyn.
 
 [2025-12-20 20:00:13](https://bsky.app/profile/cnn.com/post/3mag2gnewfc2k)
-
----
-
-@washingtonpost.com
-
-U.S. lawmakers moved to revive privateering, a practice banished since the age of sail, which will allow government-backed ships to target enemies.
-
-[2025-12-20 20:00:13](https://bsky.app/profile/washingtonpost.com/post/3mag2gmiyu22m)
-
----
-
-@apnews.com
-
-A Pakistani court convicted and sentenced imprisoned former Prime Minister Imran Khan and his wife, Bushra Bibi, to 17 years in prison.
-
-[2025-12-20 19:54:08](https://bsky.app/profile/apnews.com/post/3mag23qemas2r)
-
----
-
-@japan.reuters.com
-
-米電気自動車（ＥＶ）大手テスラが２０１８年に承認したイーロン・マスク最高経営責任者（ＣＥＯ）の巨額報酬パッケージについて、デラウェア州の最高裁は１９日、報酬案を無効とした下級審の判断を覆した。 bit.ly/3YpvSlv
-
-[2025-12-20 19:45:09](https://bsky.app/profile/japan.reuters.com/post/3mafzlox2d327)
-
----
-
-@nhknewsunofficial.bsky.social
-
-米 相互関税など合法性めぐる最高裁判断 今月から来月上旬にも
-https://news.web.nhk/newsweb/na/na-k10015009301000
-
-[2025-12-20 19:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafzg7iwsb2m)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Imran Khan and wife sentenced for state gift fraud
-
-[2025-12-20 19:39:04](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mafzatplmh2b)
 
 ---
 
