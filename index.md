@@ -1,9 +1,9 @@
-# [2025-12-21 07:10 updated](2025_12_21.md)
+# [2025-12-21 07:30 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Review: Bradley Cooper directs "Is This Thing On?," a drama starring Will Arnett and Laura Dern about a man who, separated from his wife, turns to stand-up comedy for solace. on.wsj.com/49mbmbm <a href="https://bsky.app/profile/wsj.com/post/3mah7pz65rj2c" target="_blank">wsj.com</a> (2025-12-21 07:07:36)</span><span style="padding-right:50px;">North Korea's KCNA: Japan's ambition for nuclear weapons should be curbed reut.rs/4qoi2M7 <a href="https://bsky.app/profile/reuters.com/post/3mah7ln7xm22c" target="_blank">reuters.com</a> (2025-12-21 07:05:09)</span><span style="padding-right:50px;">A punt return touchdown by Seattle started a fourth-quarter comeback win over Los Angeles and it's sparked unprecedented change to the Rams' staff. <a href="https://bsky.app/profile/usatoday.com/post/3mah7dvsmyf2g" target="_blank">usatoday.com</a> (2025-12-21 07:00:50)</span><span style="padding-right:50px;">Kings star C Domantas Sabonis (knee) to miss 4 to 5 more weeks reut.rs/4aZLDXu <a href="https://bsky.app/profile/reuters.com/post/3mah7dkrhhy2i" target="_blank">reuters.com</a> (2025-12-21 07:00:38)</span><span style="padding-right:50px;">When recruits were punched and tackled during a role-playing exercise at the Texas game wardens academy last year, they were taking part in a longstanding police training tradition that critics say should be retired. <a href="https://bsky.app/profile/apnews.com/post/3mah7d3k62u2q" target="_blank">apnews.com</a> (2025-12-21 07:00:23)</span>
+<span style="padding-right:50px;">A Southeast Asian border conflict has resumed. Fighting this month has killed at least 21 people in Thailand and 18 in Cambodia, officials say. Foreign ministers from regional bloc ASEAN are to meet Monday in Kuala Lumpur and discuss the crisis. AFP's graphic shows where fresh violence has flared <a href="https://bsky.app/profile/en.afp.com/post/3mahawf6dtp2f" target="_blank">en.afp.com</a> (2025-12-21 07:29:04)</span><span style="padding-right:50px;">The payment option is booming among online holiday shoppers this year. But like any form of credit, it comes with drawbacks. Here's how to use BNPL responsibly — and protect yourself from risk. <a href="https://bsky.app/profile/npr.org/post/3mahapwwzqk2y" target="_blank">npr.org</a> (2025-12-21 07:25:28)</span><span style="padding-right:50px;">Arsenal take back Premier League top spot with 1-0 win over Everton reut.rs/3MXI0HH <a href="https://bsky.app/profile/reuters.com/post/3mahapc5ekc2r" target="_blank">reuters.com</a> (2025-12-21 07:25:06)</span><span style="padding-right:50px;">Someone could become $1.5 billion richer after this evening — if they pick the winning numbers in the latest Powerball jackpot.  <a href="https://bsky.app/profile/cnn.com/post/3maha72v5mj22" target="_blank">cnn.com</a> (2025-12-21 07:16:01)</span><span style="padding-right:50px;">Cowboys activate CB Trevon Diggs from IR reut.rs/4592uU6 <a href="https://bsky.app/profile/reuters.com/post/3maha5qilga24" target="_blank">reuters.com</a> (2025-12-21 07:15:17)</span>
   </div>
 </div>
 
@@ -32,14 +32,88 @@
 
 ## News Headlines
 
-[{"en": "Bradley Cooper directs 'Is This Thing On?' starring Will Arnett and Laura Dern", "jp": ""Is This Thing On?"のBradley Cooper監督作品"}, 
-{"en": "North Korea calls for Japan to curb nuclear ambitions", "jp": "北朝鮮「日本の核兵器の野心を抑えるべき"}, 
-{"en": "Seattle Seahawks' comeback win sparks changes to Rams staff", "jp": "シアトル・シーホークス、ラムズスタッフに対する大胆な変更"}, 
-{"en": "US Justice Department files related to Jeffrey Epstein", "jp": "ジェフリー・エプスタイン事件の米国司法省のファイル"}, 
-{"en": "Tsunami warning lifted after 4.2-magnitude earthquake hits off Japan's coast", "jp": "4.2の地震で津波警報解除"}, 
-{"en": "US seizes second oil vessel off Venezuela coast", "jp": "米国、ベネズエラ沖で2隻目の石油タンカーを拿捕"}]
+- Southeast Asian Border Conflict Escalates, 39 Killed
+  - ASEAN外交緊急集会　東南アジアの国境紛争が激化　39人死亡
+- BNPL Payment Option Booming Among Online Holiday Shoppers
+  - 「買い物の代金を分割払い」人気の増加　オンラインのクリスマス買い物で
+- Arsenal Takes Back Premier League Top Spot with Win Over Everton
+  - イトルタイングメストエクトメンディストエルストエャンチイストエグトンディストエル
+- Anant Ambani Gifts Soccer Star a Seven-Figure Watch
+  - エイコンタインディストエカーショナーストエャンチイストエルタカーショナー
+- Powerball Jackpot Reaches $1.5 Billion
+  - パスレインディストエャンチイストエル、パスレインディストエャンチイストエルトショナータートメンディストエル
+- Cowboys Activate CB Trevon Diggs from IR
+  - カイトャンチイストエルケエングトスディストエャンチイストエル、ケエングトスディストエャンチイストエル
+- Justice Department Files Related to Jeffrey Epstein Disappear
+  - アサイコンタインディストエャンチイストエル、パユンタインディストエャンチイストエル
+
 
 ----
+
+@en.afp.com
+
+A Southeast Asian border conflict has resumed. Fighting this month has killed at least 21 people in Thailand and 18 in Cambodia, officials say. Foreign ministers from regional bloc ASEAN are to meet Monday in Kuala Lumpur and discuss the crisis.
+AFP's graphic shows where fresh violence has flared
+
+[2025-12-21 07:29:04](https://bsky.app/profile/en.afp.com/post/3mahawf6dtp2f)
+
+---
+
+@npr.org
+
+The payment option is booming among online holiday shoppers this year. But like any form of credit, it comes with drawbacks. Here's how to use BNPL responsibly — and protect yourself from risk.
+
+[2025-12-21 07:25:28](https://bsky.app/profile/npr.org/post/3mahapwwzqk2y)
+
+---
+
+@reuters.com
+
+Arsenal take back Premier League top spot with 1-0 win over Everton reut.rs/3MXI0HH
+
+[2025-12-21 07:25:06](https://bsky.app/profile/reuters.com/post/3mahapc5ekc2r)
+
+---
+
+@cnn.com
+
+Someone could become $1.5 billion richer after this evening — if they pick the winning numbers in the latest Powerball jackpot. 
+
+[2025-12-21 07:16:01](https://bsky.app/profile/cnn.com/post/3maha72v5mj22)
+
+---
+
+@reuters.com
+
+Cowboys activate CB Trevon Diggs from IR reut.rs/4592uU6
+
+[2025-12-21 07:15:17](https://bsky.app/profile/reuters.com/post/3maha5qilga24)
+
+---
+
+@nytimes.com
+
+Buying items for the Salvation Army’s Angel Tree program, which for more than four decades has collected gifts for children across the U.S., has become an annual social media trend and a source of heated debate online.
+
+[2025-12-21 07:15:07](https://bsky.app/profile/nytimes.com/post/3maha5gxfkw2b)
+
+---
+
+@reuters.com
+
+Juventus back in the Scudetto hunt with 2-1 win over Roma reut.rs/4pWlrSA
+
+[2025-12-21 07:10:09](https://bsky.app/profile/reuters.com/post/3mah7ulatoa2i)
+
+---
+
+@forbes.com
+
+Anant Ambani, son of India’s richest man Mukesh Ambani, gifted the soccer star a seven-figure watch on his recent trip to India. 
+
+[2025-12-21 07:10:04](https://bsky.app/profile/forbes.com/post/3mah7ugia3l2w)
+
+---
 
 @wsj.com
 
@@ -54,78 +128,6 @@ Review: Bradley Cooper directs "Is This Thing On?," a drama starring Will Arnett
 North Korea's KCNA: Japan's ambition for nuclear weapons should be curbed reut.rs/4qoi2M7
 
 [2025-12-21 07:05:09](https://bsky.app/profile/reuters.com/post/3mah7ln7xm22c)
-
----
-
-@usatoday.com
-
-A punt return touchdown by Seattle started a fourth-quarter comeback win over Los Angeles and it's sparked unprecedented change to the Rams' staff.
-
-[2025-12-21 07:00:50](https://bsky.app/profile/usatoday.com/post/3mah7dvsmyf2g)
-
----
-
-@reuters.com
-
-Kings star C Domantas Sabonis (knee) to miss 4 to 5 more weeks reut.rs/4aZLDXu
-
-[2025-12-21 07:00:38](https://bsky.app/profile/reuters.com/post/3mah7dkrhhy2i)
-
----
-
-@apnews.com
-
-When recruits were punched and tackled during a role-playing exercise at the Texas game wardens academy last year, they were taking part in a longstanding police training tradition that critics say should be retired.
-
-[2025-12-21 07:00:23](https://bsky.app/profile/apnews.com/post/3mah7d3k62u2q)
-
----
-
-@sokuho.news
-
-🛎️文春より【スクープ】です。
-
-《一夫多妻男が逮捕》「盗撮画像で5000万円稼いだ」「女性を“監禁”」容疑者の母を直撃した！
-(2025-12-21 07:00) #ニュース
-
-[2025-12-21 07:00:17](https://bsky.app/profile/sokuho.news/post/3mah7cwc3cn2b)
-
----
-
-@washingtonpost.com
-
-It took only a few weeks for Pete Marocco to gut USAID.
-
-But for 17 years, he has been battling a Florida interior design firm in a lawsuit described as “reaching Dickensian levels of challenges to the effectiveness of the civil justice system.” 
-
-[2025-12-21 07:00:11](https://bsky.app/profile/washingtonpost.com/post/3mah7cqumtg2d)
-
----
-
-@reuters.com
-
-No comfort for Frank, as Tottenham set new calendar-year record for home defeats reut.rs/4qiYjNJ
-
-[2025-12-21 06:50:15](https://bsky.app/profile/reuters.com/post/3mah6qykyk22b)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】江津市の住宅で火災 焼け跡から2人の遺体を発見 高齢の夫婦と連絡取れず 島根県
-(2025-12-21 06:45) #ニュース
-
-[2025-12-21 06:45:28](https://bsky.app/profile/sokuho.news/post/3mah6igly2b26)
-
----
-
-@reuters.com
-
-Roche CEO points to higher future drug prices in Switzerland after US deal reut.rs/4spGv5B
-
-[2025-12-21 06:45:13](https://bsky.app/profile/reuters.com/post/3mah6hxwtqp2s)
 
 ---
 
