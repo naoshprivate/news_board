@@ -1,9 +1,9 @@
-# [2025-12-21 02:30 updated](2025_12_21.md)
+# [2025-12-21 02:50 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Haaland propels Man City to top with double against West Ham reut.rs/4j7PfJf <a href="https://bsky.app/profile/reuters.com/post/3magpf7fqw22k" target="_blank">reuters.com</a> (2025-12-21 02:15:14)</span><span style="padding-right:50px;">UK's Prince William and son George volunteer at homelessness charity reut.rs/3YJC7jT <a href="https://bsky.app/profile/reuters.com/post/3magp456yvt2y" target="_blank">reuters.com</a> (2025-12-21 02:10:09)</span><span style="padding-right:50px;">Gold and silver hit records in 2025. They aren't the only metals having a massive year. <a href="https://bsky.app/profile/yahoofinance.com/post/3magouu3tzu26" target="_blank">yahoofinance.com</a> (2025-12-21 02:06:05)</span><span style="padding-right:50px;">Bills add 4-time Pro Bowl DE Matthew Judon to practice squad reut.rs/3Y2Pn35 <a href="https://bsky.app/profile/reuters.com/post/3magot74zig2b" target="_blank">reuters.com</a> (2025-12-21 02:05:09)</span><span style="padding-right:50px;">It’s peak season for an elite squad of interlopers who have turned showing up uninvited into an art form.  “Why go out to a bar and be in that scene if you can go to a company party and learn, network and grow, and have sponsored free food and drinks?”    on.wsj.com/3YALUbY <a href="https://bsky.app/profile/wsj.com/post/3magoqukov42r" target="_blank">wsj.com</a> (2025-12-21 02:03:51)</span>
+<span style="padding-right:50px;">These are some of the most popular gifts of the year, according to Wirecutter readers. <a href="https://bsky.app/profile/nytimes.com/post/3magqyrzjpk2z" target="_blank">nytimes.com</a> (2025-12-21 02:44:05)</span><span style="padding-right:50px;">⚽ Erling Haaland fires Manchester City to the top of the Premier League by beating West Ham 3-0, while Chelsea fights back to salvage a 2-2 draw at Newcastle ⤵️   u.afp.com/S8Sw <a href="https://bsky.app/profile/en.afp.com/post/3magqw435ev2u" target="_blank">en.afp.com</a> (2025-12-21 02:42:35)</span><span style="padding-right:50px;">A passenger train in Assam, India, hit a herd of elephants, killing seven of them and injuring one more. The accident on Saturday partly derailed the train, according to railway and forest authorities, and no humans were injured. <a href="https://bsky.app/profile/nytimes.com/post/3magqrop7pu2y" target="_blank">nytimes.com</a> (2025-12-21 02:40:06)</span><span style="padding-right:50px;">A Colorado state senator was responsible for the vehicle crash that killed her in November, officials said on Friday. An autopsy released by the local coroner’s office showed that her blood alcohol concentration after she died was more than twice the legal limit. <a href="https://bsky.app/profile/nytimes.com/post/3magqip7s332y" target="_blank">nytimes.com</a> (2025-12-21 02:35:05)</span><span style="padding-right:50px;">"Avatar 3" director James Cameron unpacks "Fire and Ash" spoilers and why it's unlikely you'll see a fourth and fifth movie any time soon. <a href="https://bsky.app/profile/usatoday.com/post/3magqahzgzm25" target="_blank">usatoday.com</a> (2025-12-21 02:30:29)</span>
   </div>
 </div>
 
@@ -33,20 +33,89 @@
 ## News Headlines
 
 - Haaland propels Man City to top with double against West Ham
-  - アサバンサンスタナーンがパレーロータンスタウサンタンスタウサンタムー
-- Prince William and son George volunteer at homelessness charity
-  - パーサイヵショス はゲーュータンスタウサンタンスタウサンタムー
+  - ハーランドが連携したマンチェスター・シティがプレミアリーグ首位
 - Gold and silver hit records in 2025
-  - アスタアースタアー・2025年に諁年だ
-- Bills add 4-time Pro Bowl DE Matthew Judon to practice squad
-  - パースュートフーセトローケンスタウサンタムー、パルパスタタトュートロー
-- Meet the elite squad of party crashers
-  - アフングメールーコンディコースタウサンタンスタウサンタムー
-- Walmart builds own workforce to fill skilled labor gap
-  - アフョンドタンスタウサンタムーにパレーローのパレーロータンスタウサンタンスタウサンタムー
+  - 2025年、金と銀の価格が記録高
+- Surveillance empire built on US tech exports
+  - 米技術を利用した中国の監視帝国
+- Walmart builds its own workforce to address skilled trades shortage
+  - ワルマートがスキルマネー不足を補うために自社の労働者を増やす
+- Ukraine talks set to resume in Florida
+  - ウクライナ交渉がフロリダで再開
+- Blue Jackets acquire F Mason Marchment from Kraken
+  - ブルージャケット、クレイクンからFマーシャンメントを引き取る
 
 
 ----
+
+@nytimes.com
+
+These are some of the most popular gifts of the year, according to Wirecutter readers.
+
+[2025-12-21 02:44:05](https://bsky.app/profile/nytimes.com/post/3magqyrzjpk2z)
+
+---
+
+@en.afp.com
+
+⚽ Erling Haaland fires Manchester City to the top of the Premier League by beating West Ham 3-0, while Chelsea fights back to salvage a 2-2 draw at Newcastle ⤵️ 
+
+u.afp.com/S8Sw
+
+[2025-12-21 02:42:35](https://bsky.app/profile/en.afp.com/post/3magqw435ev2u)
+
+---
+
+@nytimes.com
+
+A passenger train in Assam, India, hit a herd of elephants, killing seven of them and injuring one more. The accident on Saturday partly derailed the train, according to railway and forest authorities, and no humans were injured.
+
+[2025-12-21 02:40:06](https://bsky.app/profile/nytimes.com/post/3magqrop7pu2y)
+
+---
+
+@nytimes.com
+
+A Colorado state senator was responsible for the vehicle crash that killed her in November, officials said on Friday. An autopsy released by the local coroner’s office showed that her blood alcohol concentration after she died was more than twice the legal limit.
+
+[2025-12-21 02:35:05](https://bsky.app/profile/nytimes.com/post/3magqip7s332y)
+
+---
+
+@usatoday.com
+
+"Avatar 3" director James Cameron unpacks "Fire and Ash" spoilers and why it's unlikely you'll see a fourth and fifth movie any time soon.
+
+[2025-12-21 02:30:29](https://bsky.app/profile/usatoday.com/post/3magqahzgzm25)
+
+---
+
+@reuters.com
+
+Elon Musk becomes first person worth $700 billion after court ruling on pay package reut.rs/4rYPr1k
+
+[2025-12-21 02:30:29](https://bsky.app/profile/reuters.com/post/3magqai6ipp2b)
+
+---
+
+@bloomberg.com
+
+Would you eat an antelope? A hunt for nilgai in Texas reveals how the appetite for wild meat is reshaping conservation, culture and the business of invasive species in the US. Read more: bloom.bg/4qlcZff
+
+📷️: Courtesy King Ranch
+
+[2025-12-21 02:30:22](https://bsky.app/profile/bloomberg.com/post/3magqabatef2h)
+
+---
+
+@cnn.com
+
+The Ursid meteor shower, which marks the final celestial event of the year, will peak between Sunday night and early Monday morning.
+https://cnn.it/4pNGaaV
+
+[2025-12-21 02:30:05](https://bsky.app/profile/cnn.com/post/3magq7r2qpx2x)
+
+---
 
 @reuters.com
 
@@ -61,74 +130,6 @@ Haaland propels Man City to top with double against West Ham reut.rs/4j7PfJf
 UK's Prince William and son George volunteer at homelessness charity reut.rs/3YJC7jT
 
 [2025-12-21 02:10:09](https://bsky.app/profile/reuters.com/post/3magp456yvt2y)
-
----
-
-@yahoofinance.com
-
-Gold and silver hit records in 2025. They aren't the only metals having a massive year.
-
-[2025-12-21 02:06:05](https://bsky.app/profile/yahoofinance.com/post/3magouu3tzu26)
-
----
-
-@reuters.com
-
-Bills add 4-time Pro Bowl DE Matthew Judon to practice squad reut.rs/3Y2Pn35
-
-[2025-12-21 02:05:09](https://bsky.app/profile/reuters.com/post/3magot74zig2b)
-
----
-
-@wsj.com
-
-It’s peak season for an elite squad of interlopers who have turned showing up uninvited into an art form.
-
-“Why go out to a bar and be in that scene if you can go to a company party and learn, network and grow, and have sponsored free food and drinks?”  
-
-on.wsj.com/3YALUbY
-
-[2025-12-21 02:03:51](https://bsky.app/profile/wsj.com/post/3magoqukov42r)
-
----
-
-@nbcnews.com
-
-Steve Kornacki breaks down the latest NBC News Decision Desk Poll and the issues that matter most to Americans. The poll was conducted Nov. 20-Dec. 8 and surveyed 20,252 adults nationwide online.
-
-[2025-12-21 02:02:43](https://bsky.app/profile/nbcnews.com/post/3magootdw4423)
-
----
-
-@reuters.com
-
-Reports: ASU coach Kenny Dillingham signs 5-year contract reut.rs/48ZU5U3
-
-[2025-12-21 02:01:11](https://bsky.app/profile/reuters.com/post/3magom3rlvn2o)
-
----
-
-@usatoday.com
-
-Meet Chase DeMoor, the former college football player and Netflix dating show star who will face Andrew Tate in his pro boxing debut on Saturday.
-
-[2025-12-21 02:00:59](https://bsky.app/profile/usatoday.com/post/3magolq7ix52g)
-
----
-
-@apnews.com
-
-As the number of skilled tradespeople dwindles in the U.S., Walmart is building up its own workforce to keep conveyor belts moving and refrigerated grocery cases cold.
-
-[2025-12-21 02:00:58](https://bsky.app/profile/apnews.com/post/3magolpdwqs26)
-
----
-
-@washingtonpost.com
-
-A giant redwood in England was crowned the world’s tallest living Christmas tree. But to even qualify for the Guinness World Records, a forestry team had to navigate a large festive challenge: decorating all 147 feet of it.
-
-[2025-12-21 02:00:26](https://bsky.app/profile/washingtonpost.com/post/3magokr5fs52m)
 
 ---
 
