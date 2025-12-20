@@ -1,9 +1,9 @@
-# [2025-12-20 23:10 updated](2025_12_20.md)
+# [2025-12-20 23:30 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Weary homebuyers have a new headache: Misleading AI listing photos <a href="https://bsky.app/profile/yahoofinance.com/post/3magesyfezq2x" target="_blank">yahoofinance.com</a> (2025-12-20 23:06:05)</span><span style="padding-right:50px;">The home on the Big Island’s Kona-Kohala Coast has multiple structures surrounding a central courtyard. on.wsj.com/48OCoZ1 <a href="https://bsky.app/profile/wsj.com/post/3magemaiv5r2z" target="_blank">wsj.com</a> (2025-12-20 23:02:18)</span><span style="padding-right:50px;">Woke up to a sore, scratchy throat? You may blame it on dry air, but it’s usually a sign your body is fighting a viral infection.  Over-the-counter pain relievers such as ibuprofen can help, but here are some soothing home remedies to consider:  <a href="https://bsky.app/profile/washingtonpost.com/post/3magejw3gae23" target="_blank">washingtonpost.com</a> (2025-12-20 23:01:01)</span><span style="padding-right:50px;">Wagner Moura has picked up awards right and left for Brazil's Oscar hopeful "The Secret Agent." The dictatorship drama couldn't be timelier. <a href="https://bsky.app/profile/usatoday.com/post/3magejmydtu2f" target="_blank">usatoday.com</a> (2025-12-20 23:00:51)</span><span style="padding-right:50px;">AP photographers used an infrared filter on modified cameras to capture how beams are used to track vehicles and people, enable facial recognition — and ultimately, assert digital control. <a href="https://bsky.app/profile/apnews.com/post/3mageignxzg2r" target="_blank">apnews.com</a> (2025-12-20 23:00:11)</span>
+<span style="padding-right:50px;">Africa Cup of Nations moved to every four years reut.rs/3MNEWOn <a href="https://bsky.app/profile/reuters.com/post/3magfuyskd624" target="_blank">reuters.com</a> (2025-12-20 23:25:06)</span><span style="padding-right:50px;">A man in Austria was charged in the death of his girlfriend after leaving her behind while hiking, in a case testing ideas of freedom and responsibility in the mountains. <a href="https://bsky.app/profile/nytimes.com/post/3magfuxzu462x" target="_blank">nytimes.com</a> (2025-12-20 23:25:05)</span><span style="padding-right:50px;">Social media influencers who play detective after tragedies are getting it disastrously wrong — falsely accusing innocent people of crimes with little evidence, massive reach and virtually no accountability. <a href="https://bsky.app/profile/axios.com/post/3magfpnvj6s2t" target="_blank">axios.com</a> (2025-12-20 23:22:07)</span><span style="padding-right:50px;">The FT's top 10 novels of the year. Have you read any of them? Have you read all of them? on.ft.com/4ildcwb <a href="https://bsky.app/profile/financialtimes.com/post/3magfk7cqd32k" target="_blank">financialtimes.com</a> (2025-12-20 23:19:04)</span><span style="padding-right:50px;">Weary homebuyers have a new headache: Misleading AI listing photos <a href="https://bsky.app/profile/yahoofinance.com/post/3magesyfezq2x" target="_blank">yahoofinance.com</a> (2025-12-20 23:06:05)</span>
   </div>
 </div>
 
@@ -32,16 +32,46 @@
 
 ## News Headlines
 
-Here are six news headlines in English:
-
-1. Homebuyers Face New Headache: Misleading AI Listing Photos
-2. Small Oreo-Sized Turtle Represents Turning Point in Rockalina's Recovery
-3. Seven Elephants Killed in Train Collision in India's Assam State
-4. Ford Recalls 273,000 Vehicles Due to Parking Function Issue
-5. Bloomberg's Jessica Loudis Battles Demanding German Bureaucracy to Get Driver's License
-6. Central Construction Company's Collapse Highlights Risks of Rapid Expansion
+1. Africa Cup of Nations Tournament to Be Held Every Four Years
+2. Austria Man Charged in Girlfriend's Death After Leaving Her Behind While Hiking
+3. Misleading AI Listing Photos Cause Headaches for Weary Homebuyers
+4. Wagner Moura Picked Up Awards for Brazil's Oscar-Hopeful The Secret Agent
+5. Life Ring and Lifeboat from Edmund Fitzgerald Sell for $150,000 at Auction
+6. Seven Asiatic Elephants Killed in India Train Crash
 
 ----
+
+@reuters.com
+
+Africa Cup of Nations moved to every four years reut.rs/3MNEWOn
+
+[2025-12-20 23:25:06](https://bsky.app/profile/reuters.com/post/3magfuyskd624)
+
+---
+
+@nytimes.com
+
+A man in Austria was charged in the death of his girlfriend after leaving her behind while hiking, in a case testing ideas of freedom and responsibility in the mountains.
+
+[2025-12-20 23:25:05](https://bsky.app/profile/nytimes.com/post/3magfuxzu462x)
+
+---
+
+@axios.com
+
+Social media influencers who play detective after tragedies are getting it disastrously wrong — falsely accusing innocent people of crimes with little evidence, massive reach and virtually no accountability.
+
+[2025-12-20 23:22:07](https://bsky.app/profile/axios.com/post/3magfpnvj6s2t)
+
+---
+
+@financialtimes.com
+
+The FT's top 10 novels of the year. Have you read any of them? Have you read all of them? on.ft.com/4ildcwb
+
+[2025-12-20 23:19:04](https://bsky.app/profile/financialtimes.com/post/3magfk7cqd32k)
+
+---
 
 @yahoofinance.com
 
@@ -92,38 +122,6 @@ As investigators followed Jeffrey Epstein’s money in 2007, his elite team of a
 Read our exclusive from October: 
 
 [2025-12-20 23:00:09](https://bsky.app/profile/bloomberg.com/post/3mageiex4p52p)
-
----
-
-@cbsnews.com
-
-A life ring and a piece of a lifeboat from the Edmund Fitzgerald were sold at auction Friday for $150,000, a month after the 50th anniversary of the famous ship's sinking in Lake Superior with 29 men aboard.
-
-[2025-12-20 23:00:00](https://bsky.app/profile/cbsnews.com/post/3magei4ta6a2c)
-
----
-
-@cnbc.com
-
-S&P 500 coasts to a third year of superior returns. Three key questions for Wall Street entering 2026
-
-[2025-12-20 22:52:55](https://bsky.app/profile/cnbc.com/post/3mage3gxa5d23)
-
----
-
-@financialtimes.com
-
-The justice department's release of a trove of several thousand documents concerning Jeffrey Epstein contained no explosive revelations about Donald Trump's past association with the late sex offender. ft.trib.al/mDbsNI1
-
-[2025-12-20 22:48:48](https://bsky.app/profile/financialtimes.com/post/3magdu3e4tf2k)
-
----
-
-@cnbc.com
-
-Lucid's big SUV arrives with high expectations, and big risks
-
-[2025-12-20 22:48:40](https://bsky.app/profile/cnbc.com/post/3magdttfjss2y)
 
 ---
 
