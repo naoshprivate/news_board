@@ -1,9 +1,9 @@
-# [2025-12-20 12:10 updated](2025_12_20.md)
+# [2025-12-20 12:30 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🔔NHKより【速報 JUST IN】です。  京都 精華町 “近鉄京都線の特急電車が車と衝突” (2025-12-20 12:00:03) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maf7ysr5i62e" target="_blank">sokuho.news</a> (2025-12-20 12:07:12)</span><span style="padding-right:50px;">兵庫県警 警察官9人 オンラインカジノで賭博の疑い 書類送検 https://news.web.nhk/newsweb/na/na-k10015009251000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maf7wrk2zc2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 12:06:01)</span><span style="padding-right:50px;">京都 精華町 “近鉄京都線の特急電車が車と衝突” https://news.web.nhk/newsweb/na/na-k10015009271000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maf7rg67pw2y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 12:03:02)</span><span style="padding-right:50px;">A man with a knife and smoke grenades attacked crowds indiscriminately in Taipei, Taiwan's national news agency and the city government say. <a href="https://bsky.app/profile/apnews.com/post/3maf7qpoahm2r" target="_blank">apnews.com</a> (2025-12-20 12:02:40)</span><span style="padding-right:50px;">住宅ローンの繰り上げ返済、注意点は？ www.nikkei.com/article/DGXZQO...  繰り上げ返済をするタイミングが早いほど、利息軽減効果は大きくなります。  ただ、闇雲に繰り上げ返済をすればよいというわけでもありません。判断するポイントを押さえる必要があります。 <a href="https://bsky.app/profile/nikkei.com/post/3maf7nk7kab2x" target="_blank">nikkei.com</a> (2025-12-20 12:00:54)</span>
+<span style="padding-right:50px;">サッカーのイタリア・スーパーカップ（杯）は１９日、リヤドで準決勝を行い、ボローニャがＰＫ戦の末に同大会８回優勝のインテルを下し、決勝に進んだ。 bit.ly/3YEAVhK <a href="https://bsky.app/profile/japan.reuters.com/post/3mafb4gblsu25" target="_blank">japan.reuters.com</a> (2025-12-20 12:27:07)</span><span style="padding-right:50px;">US Justice Dept to appeal dismissal of cases against Trump foes Comey, James reut.rs/4jakSC3 <a href="https://bsky.app/profile/reuters.com/post/3mafaq4ca652k" target="_blank">reuters.com</a> (2025-12-20 12:20:14)</span><span style="padding-right:50px;">The roughly 20,000-square-foot unit is asking $78.9 million, ending rumors tech billionaire Elon Musk bought it late last year. on.wsj.com/4qojPAN <a href="https://bsky.app/profile/wsj.com/post/3mafanvsfmv2i" target="_blank">wsj.com</a> (2025-12-20 12:19:00)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】宮城・大和町でイノシシ用の罠にかかったクマに男性が襲われ死亡 消防 (2025年12月20日 12:14) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mafafzvqlb25" target="_blank">sokuho.news</a> (2025-12-20 12:14:36)</span><span style="padding-right:50px;">宮城 大和町の山林に倒れた男性 クマに襲われたか https://news.web.nhk/newsweb/na/na-k10015009221000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafabjeuj62x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 12:12:02)</span>
   </div>
 </div>
 
@@ -32,16 +32,76 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are six news headlines in English:
 
-1. Multiple Deaths in Taipei Knife Attack
-2. US FDA Grants Priority Vouchers to Merck's Cholesterol Pill and Cancer Therapy
-3. US Justice Department Releases Files on Jeffrey Epstein
-4. Japan and Central Asian Countries Strengthen Cooperation
-5. US FDA Approves Cytokinetics' Heart Disease Drug
-6. Trump Announces Servicemember Bonuses Amid Economic Pressures
+1. Italy Super Cup: Inter Milan's 8th Title Bid Ends in PK Shootout Loss
+2. US Justice Department to Appeal Dismissal of Trump Associates' Cases
+3. Elon Musk's Bel Air Mansion Sells for $78.9 Million
+4. 17 Injured in NJ Transit Train Derailment in Montclair, New Jersey
+5. US Airstrikes Hit ISIS Targets in Syria in Response to Soldier Deaths
+6. Jeffrey Epstein Files: Thousands of Documents Released by US Department of Justice
 
 ----
+
+@japan.reuters.com
+
+サッカーのイタリア・スーパーカップ（杯）は１９日、リヤドで準決勝を行い、ボローニャがＰＫ戦の末に同大会８回優勝のインテルを下し、決勝に進んだ。 bit.ly/3YEAVhK
+
+[2025-12-20 12:27:07](https://bsky.app/profile/japan.reuters.com/post/3mafb4gblsu25)
+
+---
+
+@reuters.com
+
+US Justice Dept to appeal dismissal of cases against Trump foes Comey, James reut.rs/4jakSC3
+
+[2025-12-20 12:20:14](https://bsky.app/profile/reuters.com/post/3mafaq4ca652k)
+
+---
+
+@wsj.com
+
+The roughly 20,000-square-foot unit is asking $78.9 million, ending rumors tech billionaire Elon Musk bought it late last year. on.wsj.com/4qojPAN
+
+[2025-12-20 12:19:00](https://bsky.app/profile/wsj.com/post/3mafanvsfmv2i)
+
+---
+
+@sokuho.news
+
+🔔ANNより【速報】です。
+
+【速報】宮城・大和町でイノシシ用の罠にかかったクマに男性が襲われ死亡 消防
+(2025年12月20日 12:14) #ニュース
+
+[2025-12-20 12:14:36](https://bsky.app/profile/sokuho.news/post/3mafafzvqlb25)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+宮城 大和町の山林に倒れた男性 クマに襲われたか
+https://news.web.nhk/newsweb/na/na-k10015009221000
+
+[2025-12-20 12:12:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafabjeuj62x)
+
+---
+
+@reuters.com
+
+Angels settle wrongful death lawsuit with Tyler Skaggs’ family reut.rs/4s8Nn6X
+
+[2025-12-20 12:10:10](https://bsky.app/profile/reuters.com/post/3mafa6534cj2i)
+
+---
+
+@japan.reuters.com
+
+サッカーのドイツ１部ブンデスリーガは１９日、１試合を行い、町野修斗が途中出場したボルシアＭＧは敵地でドルトムントに０─２で敗れた。 bit.ly/4pL00U5
+
+[2025-12-20 12:09:53](https://bsky.app/profile/japan.reuters.com/post/3mafa5mnz5k26)
+
+---
 
 @sokuho.news
 
@@ -66,67 +126,6 @@ https://news.web.nhk/newsweb/na/na-k10015009251000
 https://news.web.nhk/newsweb/na/na-k10015009271000
 
 [2025-12-20 12:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maf7rg67pw2y)
-
----
-
-@apnews.com
-
-A man with a knife and smoke grenades attacked crowds indiscriminately in Taipei, Taiwan's national news agency and the city government say.
-
-[2025-12-20 12:02:40](https://bsky.app/profile/apnews.com/post/3maf7qpoahm2r)
-
----
-
-@nikkei.com
-
-住宅ローンの繰り上げ返済、注意点は？
-www.nikkei.com/article/DGXZQO...
-
-繰り上げ返済をするタイミングが早いほど、利息軽減効果は大きくなります。
-
-ただ、闇雲に繰り上げ返済をすればよいというわけでもありません。判断するポイントを押さえる必要があります。
-
-[2025-12-20 12:00:54](https://bsky.app/profile/nikkei.com/post/3maf7nk7kab2x)
-
----
-
-@reuters.com
-
-White House's Hassett tells Fox Business Trump is right where others are wrong about inflation reut.rs/3MJuEik
-
-[2025-12-20 12:00:51](https://bsky.app/profile/reuters.com/post/3maf7nh5pix2c)
-
----
-
-@usatoday.com
-
-Ashanti's curated list of gifts she loves to give and wouldn’t mind receiving herself – from everyday must-haves to her favorite things.
-
-[2025-12-20 12:00:49](https://bsky.app/profile/usatoday.com/post/3maf7nezdcw2w)
-
----
-
-@washingtonpost.com
-
-Nine drug companies announced price cuts with President Trump at the White House, offering discounts on drugs sold through a new government website in exchange for tariff relief and other incentives, including faster FDA reviews for future approvals. 
-
-[2025-12-20 12:00:07](https://bsky.app/profile/washingtonpost.com/post/3maf7m5d25p2b)
-
----
-
-@nytimes.com
-
-An unusual object orbiting a rapidly spinning star could be the most stretched-out planet ever found.
-
-[2025-12-20 12:00:04](https://bsky.app/profile/nytimes.com/post/3maf7m2fsdr2z)
-
----
-
-@cbsnews.com
-
-NEW: 17 people were injured in an NJ Transit train derailment in Montclair, New Jersey, on Friday.
-
-[2025-12-20 12:00:01](https://bsky.app/profile/cbsnews.com/post/3maf7lxnkkm2g)
 
 ---
 
