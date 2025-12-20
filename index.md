@@ -1,9 +1,9 @@
-# [2025-12-21 05:10 updated](2025_12_21.md)
+# [2025-12-21 05:30 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">An NPR analysis of the Epstein files shows some documents, originally available on Friday, are no longer on the Department of Justice's "Epstein Library" website as the DOJ releases more files. n.pr/4pO8hXB <a href="https://bsky.app/profile/npr.org/post/3magz2vbd4w2d" target="_blank">npr.org</a> (2025-12-21 05:08:25)</span><span style="padding-right:50px;">Company coming? These tips from an exemplary host take the guesswork out of creating a haven for your guests. 🔗: on.wsj.com/4pCWbQR <a href="https://bsky.app/profile/wsj.com/post/3magyubfngy2c" target="_blank">wsj.com</a> (2025-12-21 05:04:43)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】静岡県裾野市で殺人未遂事件 犯人の男は逃走中 知人男性の背中付近を刃物の様なもので刺したか (2025-12-21 04:54:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3magyrjfohf2x" target="_blank">sokuho.news</a> (2025-12-21 05:03:11)</span><span style="padding-right:50px;">Leverkusen earn 3-1 comeback win at Leipzig to take over third spot reut.rs/4s8PeZC <a href="https://bsky.app/profile/reuters.com/post/3magynrfrol2k" target="_blank">reuters.com</a> (2025-12-21 05:01:05)</span><span style="padding-right:50px;">Idalia Bisbal moved from New York City to Allentown, Pa., hoping for a cheaper life. Three years later, she feels disappointed by high prices. The area remains a political battleground, with Republicans and Democrats vying for control as economic anxiety affects both parties ahead of midterms. <a href="https://bsky.app/profile/apnews.com/post/3magyncqp3j25" target="_blank">apnews.com</a> (2025-12-21 05:00:49)</span>
+<span style="padding-right:50px;">Former world heavyweight champion Anthony Joshua beat YouTuber-turned boxer Jake Paul by knockout on Friday night, seemingly breaking Paul's jaw in the process.  <a href="https://bsky.app/profile/cnn.com/post/3magzgt4whk2x" target="_blank">cnn.com</a> (2025-12-21 05:15:05)</span><span style="padding-right:50px;">Democrats continued their criticism Saturday of the agency’s partial release of the documents and heavy redactions in the files.  <a href="https://bsky.app/profile/forbes.com/post/3magzgrpyw42q" target="_blank">forbes.com</a> (2025-12-21 05:15:04)</span><span style="padding-right:50px;">The U.S. seizes another vessel off the coast of Venezuela days after announcing oil tanker blockade, sources say.  <a href="https://bsky.app/profile/cbsnews.com/post/3magzgonrx52g" target="_blank">cbsnews.com</a> (2025-12-21 05:15:01)</span><span style="padding-right:50px;">VIDEO From February, visitors to Rome's famed Trevi Fountain must pay a two-euro entrance fee to help tackle overtourism. Some 30,000 people visit the fountain daily, with large crowds making the area a target for pickpockets. Rome residents will be exempt from the charge 🎥 🇮🇹 <a href="https://bsky.app/profile/en.afp.com/post/3magzfhzyhl2d" target="_blank">en.afp.com</a> (2025-12-21 05:14:20)</span><span style="padding-right:50px;">An NPR analysis of the Epstein files shows some documents, originally available on Friday, are no longer on the Department of Justice's "Epstein Library" website as the DOJ releases more files. n.pr/4pO8hXB <a href="https://bsky.app/profile/npr.org/post/3magz2vbd4w2d" target="_blank">npr.org</a> (2025-12-21 05:08:25)</span>
   </div>
 </div>
 
@@ -32,21 +32,54 @@
 
 ## News Headlines
 
-- US Seizes Sanctioned Vessel in International Waters Off Venezuela's Coast
-  - アメリカ、ベネズエラ沖で制裁船を拿捕
-- Leverkusen Earn 3-1 Comeback Win at Leipzig to Take Over Third Spot
-  - レバークーゼン、ライプツィヒに3-1で逆転勝利　3位に躍り出る
-- Rare Look Inside the Secret LEGO Museum Reveals System Behind a Toy Giant's Longevity
-  - レゴ博物館秘密の内部を初めて公開　玩具巨大企業の長期を支えるシステムが明らかに
-- Giannis Antetokounmpo, Anthony Davis, and Trae Young Lead List of NBA Players Who Could Be Traded
-  - アンテトクンボ、デービス、トレイ・ヤング　NBAトレードの可能性の高い選手たち
-- More Than a Half-Million Fans Expected to Attend Bad Bunny's Concerts in Mexico
-  - バッド・バニーをはじめとする8公演を観るために約50万人が集まる
-- Exclusive: Trump Administration Ramping Up Efforts to Deport People to Other Nations
-  - トランプ政権、他国に国民を移送する取り組みを強化
+- Joshua Knocks Out Jake Paul
+  - ジャック・ポールをKOで破ったアンソニー・ジョシュア
+- Democrats Criticize DOJ Over Epstein File Release
+  - エプスタインのファイルをめぐって民主党が文書公開を批判
+- US Seizes Sanctioned Vessel Off Venezuela
+  - 米国がベネズエラ沖で制裁船を拿捕
+- Trevi Fountain Visitors to Pay Entrance Fee
+  - ローマのトレヴィの泉への入場料を徴収
+- EU Prepares for a Laid-Off Christmas
+  - 年末の失業者増加でEUが対応
+- Avatar Returns to Theaters
+  - 映画「アバター」が復活
 
 
 ----
+
+@cnn.com
+
+Former world heavyweight champion Anthony Joshua beat YouTuber-turned boxer Jake Paul by knockout on Friday night, seemingly breaking Paul's jaw in the process. 
+
+[2025-12-21 05:15:05](https://bsky.app/profile/cnn.com/post/3magzgt4whk2x)
+
+---
+
+@forbes.com
+
+Democrats continued their criticism Saturday of the agency’s partial release of the documents and heavy redactions in the files. 
+
+[2025-12-21 05:15:04](https://bsky.app/profile/forbes.com/post/3magzgrpyw42q)
+
+---
+
+@cbsnews.com
+
+The U.S. seizes another vessel off the coast of Venezuela days after announcing oil tanker blockade, sources say. 
+
+[2025-12-21 05:15:01](https://bsky.app/profile/cbsnews.com/post/3magzgonrx52g)
+
+---
+
+@en.afp.com
+
+VIDEO From February, visitors to Rome's famed Trevi Fountain must pay a two-euro entrance fee to help tackle overtourism. Some 30,000 people visit the fountain daily, with large crowds making the area a target for pickpockets. Rome residents will be exempt from the charge
+🎥 🇮🇹
+
+[2025-12-21 05:14:20](https://bsky.app/profile/en.afp.com/post/3magzfhzyhl2d)
+
+---
 
 @npr.org
 
@@ -96,41 +129,6 @@ Idalia Bisbal moved from New York City to Allentown, Pa., hoping for a cheaper l
 "Avatar" is back, baby! James Cameron's "Fire & Ash" is in theaters. Also returning are a couple of streaming shows, "Emily in Paris" and "Fallout."
 
 [2025-12-21 05:00:30](https://bsky.app/profile/usatoday.com/post/3magymqdt3b2g)
-
----
-
-@washingtonpost.com
-
-Provocative podcaster Tucker Carlson is at the center of some of the most heated disputes in MAGA. And he has an audience – online, among influencers and inside the White House. That worries some on the right.
-
-[2025-12-21 05:00:14](https://bsky.app/profile/washingtonpost.com/post/3magymbafr725)
-
----
-
-@cbsnews.com
-
-Rare look inside the secret LEGO Museum reveals the system behind a toy giant's remarkable longevity: 
-
-[2025-12-21 05:00:01](https://bsky.app/profile/cbsnews.com/post/3magyluuaw42p)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】静岡県裾野市で殺人未遂事件発生 犯人の男は逃走中 知人男性の背中付近を刃物の様なもので刺したか
-(2025-12-21 04:54:00) #ニュース
-
-[2025-12-21 04:57:47](https://bsky.app/profile/sokuho.news/post/3magyhuwyzm2r)
-
----
-
-@bbcnews-world-rss.bsky.social
-
-Survivors and lawmakers voice frustration over Jeffery Epstein file release 
-
-[2025-12-21 04:56:22](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3magyfelbs62v)
 
 ---
 
