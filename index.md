@@ -1,9 +1,9 @@
-# [2025-12-20 19:30 updated](2025_12_20.md)
+# [2025-12-20 19:50 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">“りくりゅう”ペア 直前に脱臼もSPでトップ 全日本選手権 https://news.web.nhk/newsweb/na/na-k10015009351000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafy3c25vw2l" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 19:18:03)</span><span style="padding-right:50px;">Built with U.S. technology, China’s surveillance empire now reaches Nepal. An AP investigation finds how this was used to crush the ‘Free Tibet’ movement in the Himalayan kingdom. <a href="https://bsky.app/profile/apnews.com/post/3mafxvwvnht2k" target="_blank">apnews.com</a> (2025-12-20 19:15:06)</span><span style="padding-right:50px;">台北 殺傷事件 3人死亡 容疑者は事前に現場に 計画的犯行か https://news.web.nhk/newsweb/na/na-k10015009081000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafxqkmtqj2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 19:12:03)</span><span style="padding-right:50px;">How AI tools are easing the load at home for India’s women reut.rs/3LdYye1 <a href="https://bsky.app/profile/reuters.com/post/3mafxn5etjp2r" target="_blank">reuters.com</a> (2025-12-20 19:10:10)</span><span style="padding-right:50px;">ラグビー リーグワン スピアーズとサンゴリアスが2連勝 https://news.web.nhk/newsweb/na/na-k10015009431000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafxl7ide62x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 19:09:03)</span>
+<span style="padding-right:50px;">米電気自動車（ＥＶ）大手テスラが２０１８年に承認したイーロン・マスク最高経営責任者（ＣＥＯ）の巨額報酬パッケージについて、デラウェア州の最高裁は１９日、報酬案を無効とした下級審の判断を覆した。 bit.ly/3YpvSlv <a href="https://bsky.app/profile/japan.reuters.com/post/3mafzlox2d327" target="_blank">japan.reuters.com</a> (2025-12-20 19:45:09)</span><span style="padding-right:50px;">米 相互関税など合法性めぐる最高裁判断 今月から来月上旬にも https://news.web.nhk/newsweb/na/na-k10015009301000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafzg7iwsb2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 19:42:02)</span><span style="padding-right:50px;">Imran Khan and wife sentenced for state gift fraud <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mafzatplmh2b" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-20 19:39:04)</span><span style="padding-right:50px;">Ten years ago, the WSJ’s retirement columnist, Glenn Ruffenach, retired. He had it all worked out. Then life threw him a curveball.   “I can’t help but wonder about what might have been.”  🔗: on.wsj.com/4j2WsKn <a href="https://bsky.app/profile/wsj.com/post/3mafz6pmmyg2h" target="_blank">wsj.com</a> (2025-12-20 19:37:53)</span><span style="padding-right:50px;">The three octogenarian nuns broke out of a nursing home to go back to live in their convent, sparking a dispute with their church superior. Both sides have appealed to the Vatican for a resolution. <a href="https://bsky.app/profile/npr.org/post/3mafz6mvkzn2b" target="_blank">npr.org</a> (2025-12-20 19:37:51)</span>
   </div>
 </div>
 
@@ -32,106 +32,114 @@
 
 ## News Headlines
 
-Here are six news headlines in English:
-
-1. Japanese Pair's Sudden Withdrawal Leaves Fans in Shock: Injury or Strategy?
-2. China's Surveillance Empire Expands to Nepal, Fueling Fears of Repression
-3. Thieves in Santa Claus Costumes Steal Groceries in Montreal, Claiming to be Robin Hood
-4. India's Women Find Relief from Household Chores with AI-Powered Assistants
-5. Ukraine Claims to Have Hit Russian Oil Rig and Patrol Ship in Caspian Sea
-6. Elon Musk's $55 Billion Pay Package Revived After Delaware Supreme Court Ruling
+1. Delaware Supreme Court Upholds Tesla CEO Elon Musk's Massive Compensation Package
+2. US Trade Agreements Face Supreme Court Ruling
+3. Imran Khan Sentenced for State Gift Fraud
+4. Japanese Botanist's Legacy Lives On in Social Media
+5. Lynsey Addario Reflects on War Photography and Family Life
+6. Thieves Dressed as Santa and Elves Steal Groceries in Montreal
+7. Ukraine Says it Hit Russian Oil Rig and Patrol Ship
+8. Japan's 'My Japan Syndrome' Affects Foreigners' Lives
+9. High School Students Return to Classrooms Amid Ruins in Gaza
+10. Japan's PM Fumio Kishida Holds Talks with Central Asia Leaders
 
 ----
 
-@nhknewsunofficial.bsky.social
+@japan.reuters.com
 
-“りくりゅう”ペア 直前に脱臼もSPでトップ 全日本選手権
-https://news.web.nhk/newsweb/na/na-k10015009351000
+米電気自動車（ＥＶ）大手テスラが２０１８年に承認したイーロン・マスク最高経営責任者（ＣＥＯ）の巨額報酬パッケージについて、デラウェア州の最高裁は１９日、報酬案を無効とした下級審の判断を覆した。 bit.ly/3YpvSlv
 
-[2025-12-20 19:18:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafy3c25vw2l)
-
----
-
-@apnews.com
-
-Built with U.S. technology, China’s surveillance empire now reaches Nepal. An AP investigation finds how this was used to crush the ‘Free Tibet’ movement in the Himalayan kingdom.
-
-[2025-12-20 19:15:06](https://bsky.app/profile/apnews.com/post/3mafxvwvnht2k)
+[2025-12-20 19:45:09](https://bsky.app/profile/japan.reuters.com/post/3mafzlox2d327)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-台北 殺傷事件 3人死亡 容疑者は事前に現場に 計画的犯行か
-https://news.web.nhk/newsweb/na/na-k10015009081000
+米 相互関税など合法性めぐる最高裁判断 今月から来月上旬にも
+https://news.web.nhk/newsweb/na/na-k10015009301000
 
-[2025-12-20 19:12:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafxqkmtqj2v)
-
----
-
-@reuters.com
-
-How AI tools are easing the load at home for India’s women reut.rs/3LdYye1
-
-[2025-12-20 19:10:10](https://bsky.app/profile/reuters.com/post/3mafxn5etjp2r)
+[2025-12-20 19:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafzg7iwsb2m)
 
 ---
 
-@nhknewsunofficial.bsky.social
+@bbcnews-world-rss.bsky.social
 
-ラグビー リーグワン スピアーズとサンゴリアスが2連勝
-https://news.web.nhk/newsweb/na/na-k10015009431000
+Imran Khan and wife sentenced for state gift fraud
 
-[2025-12-20 19:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafxl7ide62x)
+[2025-12-20 19:39:04](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mafzatplmh2b)
 
 ---
 
-@cnn.com
+@wsj.com
 
-A group of thieves wearing Santa Clause and elf costumes stole cartloads of groceries from a supermarket in Montreal on Monday night, with an activist group later claiming credit for what they said was a Robin Hood-inspired heist to provide food to the needy. https://cnn.it/4p3V37W
+Ten years ago, the WSJ’s retirement columnist, Glenn Ruffenach, retired. He had it all worked out. Then life threw him a curveball. 
 
-[2025-12-20 19:01:03](https://bsky.app/profile/cnn.com/post/3mafx4tdqms2b)
+“I can’t help but wonder about what might have been.”
+
+🔗: on.wsj.com/4j2WsKn
+
+[2025-12-20 19:37:53](https://bsky.app/profile/wsj.com/post/3mafz6pmmyg2h)
+
+---
+
+@npr.org
+
+The three octogenarian nuns broke out of a nursing home to go back to live in their convent, sparking a dispute with their church superior. Both sides have appealed to the Vatican for a resolution.
+
+[2025-12-20 19:37:51](https://bsky.app/profile/npr.org/post/3mafz6mvkzn2b)
+
+---
+
+@financialtimes.com
+
+ America’s current account woes ft.trib.al/DHePSxi  | opinion
+
+[2025-12-20 19:37:03](https://bsky.app/profile/financialtimes.com/post/3mafz574lgl2k)
 
 ---
 
 @nikkei.com
 
-野菜1日350グラム取るには？　朝食が肝心
+【朝ドラ「らんまん」の牧野富太郎博士】
+高知の植物園、インスタに1000字解説
 www.nikkei.com/article/DGXZQO...
 
-摂取の壁になっているのが調理の手間。
+日本の植物分類学の父、牧野博士は日本人として初めて国内の新種の植物に学名を付けたことで知られます。
 
-専門家は朝食にカット野菜やジュースを取り入れることを薦めています。
+高知県立牧野植物園のインスタグラムは、植物の特徴や牧野博士との関わりなどを長文テキストで伝え、フォロワーは6万超。
 
-野菜100%のジュースは200ミリリットルで、野菜60グラムほどに相当するといいます。
+2025年に開いた企画展「こんにちは、タネです。」では、植物の「子孫を残す」部分に焦点を当てました。
 
-[2025-12-20 19:00:49](https://bsky.app/profile/nikkei.com/post/3mafx4gcarj24)
+「未来の牧野博士を生み出したい」。植物ファンに「好奇心の種」を植えようと熱意にあふれています。
 
----
-
-@reuters.com
-
-Fortis Healthcare to acquire Bengaluru's People Tree Hospital for 4.3 billion rupees reut.rs/49jweA6
-
-[2025-12-20 19:00:35](https://bsky.app/profile/reuters.com/post/3mafx3ynuaf2s)
+[2025-12-20 19:30:40](https://bsky.app/profile/nikkei.com/post/3mafyrsjw5l2x)
 
 ---
 
-@washingtonpost.com
+@bloomberg.com
 
-Bobby Wagner is close to becoming the third player in NFL history to make 2,000 tackles.
+Pulitzer Prize-winning war photographer Lynsey Addario reflects on surviving frontline abductions, documenting conflict in the age of social media, and switching from firefights to family life.
 
-But there is no secret technique he employs, no magical drill, no special footwork. “Just see the guy, hit the guy,” he says.
-
-[2025-12-20 19:00:13](https://bsky.app/profile/washingtonpost.com/post/3mafx3dnerm24)
+[2025-12-20 19:30:26](https://bsky.app/profile/bloomberg.com/post/3mafyregc362g)
 
 ---
 
-@apnews.com
+@sokuho.news
 
-Victor Wembanyama has joined an exclusive club by recording his 100th consecutive regular-season game with at least one block.
+🛎️NNNより【速報】です。
 
-[2025-12-20 19:00:05](https://bsky.app/profile/apnews.com/post/3mafx347kec2p)
+【速報】長崎ヴェルカ 渋谷とのGAME1に勝ち 10連勝 首位キープ《長崎》
+(2025-12-20 19:29) #ニュース
+
+[2025-12-20 19:30:05](https://bsky.app/profile/sokuho.news/post/3mafyqqmggj2v)
+
+---
+
+@aljazeera.com
+
+At least 13 people in Gaza, including two-week-old and one-month-old babies, have died from winter weather.
+
+[2025-12-20 19:30:03](https://bsky.app/profile/aljazeera.com/post/3mafyqouj572v)
 
 ---
 
