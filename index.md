@@ -1,9 +1,9 @@
-# [2025-12-20 18:50 updated](2025_12_20.md)
+# [2025-12-20 19:10 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Gill dropped, Kishan back for India's T20 World Cup title defence reut.rs/44Bp2N7 <a href="https://bsky.app/profile/reuters.com/post/3mafwagmzhn2i" target="_blank">reuters.com</a> (2025-12-20 18:45:10)</span><span style="padding-right:50px;">Ukraine says it hit Russian oil rig, patrol ship in Caspian Sea reut.rs/4pGTo9o <a href="https://bsky.app/profile/reuters.com/post/3mafvxhijso2i" target="_blank">reuters.com</a> (2025-12-20 18:40:09)</span><span style="padding-right:50px;">JAXA 再使用型ロケット実験機「RV-X」エンジン燃焼試験を実施 https://news.web.nhk/newsweb/na/na-k10015009391000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafvq5xo7n2x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 18:36:02)</span><span style="padding-right:50px;">Why are the beds at hotels so much more comfortable than the rumpled, lumpy things we settle for at home?  For our writer, it’s usually about the pillows. What she discovered: Tracking down five-star comforts isn’t simple, but it can be done. 🔗: on.wsj.com/4j5ALcM <a href="https://bsky.app/profile/wsj.com/post/3mafvow4byi2s" target="_blank">wsj.com</a> (2025-12-20 18:35:22)</span><span style="padding-right:50px;">Sustainable Switch: Your Climate News Wrapped reut.rs/4aYZJIE <a href="https://bsky.app/profile/reuters.com/post/3mafvohonjg2p" target="_blank">reuters.com</a> (2025-12-20 18:35:07)</span>
+<span style="padding-right:50px;">ラグビー リーグワン スピアーズとサンゴリアスが2連勝 https://news.web.nhk/newsweb/na/na-k10015009431000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafxl7ide62x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 19:09:03)</span><span style="padding-right:50px;">A group of thieves wearing Santa Clause and elf costumes stole cartloads of groceries from a supermarket in Montreal on Monday night, with an activist group later claiming credit for what they said was a Robin Hood-inspired heist to provide food to the needy. https://cnn.it/4p3V37W <a href="https://bsky.app/profile/cnn.com/post/3mafx4tdqms2b" target="_blank">cnn.com</a> (2025-12-20 19:01:03)</span><span style="padding-right:50px;">野菜1日350グラム取るには？　朝食が肝心 www.nikkei.com/article/DGXZQO...  摂取の壁になっているのが調理の手間。  専門家は朝食にカット野菜やジュースを取り入れることを薦めています。  野菜100%のジュースは200ミリリットルで、野菜60グラムほどに相当するといいます。 <a href="https://bsky.app/profile/nikkei.com/post/3mafx4gcarj24" target="_blank">nikkei.com</a> (2025-12-20 19:00:49)</span><span style="padding-right:50px;">Fortis Healthcare to acquire Bengaluru's People Tree Hospital for 4.3 billion rupees reut.rs/49jweA6 <a href="https://bsky.app/profile/reuters.com/post/3mafx3ynuaf2s" target="_blank">reuters.com</a> (2025-12-20 19:00:35)</span><span style="padding-right:50px;">Bobby Wagner is close to becoming the third player in NFL history to make 2,000 tackles.  But there is no secret technique he employs, no magical drill, no special footwork. “Just see the guy, hit the guy,” he says. <a href="https://bsky.app/profile/washingtonpost.com/post/3mafx3dnerm24" target="_blank">washingtonpost.com</a> (2025-12-20 19:00:13)</span>
   </div>
 </div>
 
@@ -32,16 +32,110 @@
 
 ## News Headlines
 
-Here are six news headlines in English:
-
-1. India's T20 World Cup Title Defence Hinges on Gill's Return
-2. Ukraine Claims Success in Strikes on Russian Oil Rig and Patrol Ship
-3. Japan's My Japan Syndrome: The Unspoken Phenomenon of Expat Life
-4. Students Return to School Amid Ruins as Palestine Fights to Save Education
-5. Trump Signs Over Kennedy Center to Himself, Adding to His Legacy
-6. Delaware Supreme Court Upholds Elon Musk's $55 Billion Pay Package
+1. Rugby League One: Spireites and Sunwolves win two consecutive matches
+2. Thieves in Santa and elf costumes steal groceries in Montreal
+3. How to eat 350 grams of vegetables a day: The importance of breakfast
+4. Fortis Healthcare to acquire People Tree Hospital in Bengaluru for 4.3 billion rupees
+5. Bobby Wagner close to becoming third player to reach 2,000 tackles in NFL history
+6. Victor Wembanyama makes 100th consecutive regular-season game with at least one block
+7. Aghil Keshavarz executed for espionage
+8. Gill dropped, Kishan back for India's T20 World Cup title defence
+9. Ukraine says it hit Russian oil rig, patrol ship in Caspian Sea
+10. JAXA conducts engine combustion test for reusable rocket RV-X
+11. Why hotel beds are so much more comfortable than home beds
+12. Sustainable Switch: Your Climate News Wrapped
+13. My Japan Syndrome: A phenomenon where expats feel superior to other foreigners
+14. Students return to classes in ruined schools in Palestine
+15. Japanese Prime Minister Kishida meets with leaders of five Central Asian countries
+16. Man found dead in mountainous area of Miyagi Prefecture, possibly attacked by bear
+17. Train collision in Kyoto kills one person
+18. Yen falls to 157 yen to the dollar as Bank of Japan prepares to raise interest rates
+19. National High School Track and Field Championship to be held in Kyoto
+20. Japanese researchers discover protein that causes chronic inflammation
+21. US Secretary of State Antony Blinken says Japan-US alliance is strong and will continue
+22. Eileen Tyrrell makes a living in New York with no guaranteed income
+23. Netanyahu announces October 7 inquiry, sparking anger among Israelis
+24. Steve Witkoff's diplomatic rise aided by Donald Trump and Vladimir Putin
+25. An to face Wang in women's title clash at World Tour Finals
+26. UK government's AI ambitions could reshape society and politics
+27. Tesla's $55 billion pay package for Elon Musk deemed invalid by Delaware Supreme Court
+28. Review: Sydney Sweeney stars in thriller The Housemaid
+29. Fisherman dies after boat capsizes in Naruto Strait
+30. Tokyo's best films of 2025
+31. Oyster farming in Hiroshima affected by disease
+32. Pro boxer from Kochi becomes second all-time champion
+33. Explainer: What makes TikTok's algorithm special
+34. Parents of addicts face impossible choices
+35. Asahi GHD President says attack was preventable, discusses cybersecurity measures
+36. US military conducts airstrikes on IS targets in Syria
 
 ----
+
+@nhknewsunofficial.bsky.social
+
+ラグビー リーグワン スピアーズとサンゴリアスが2連勝
+https://news.web.nhk/newsweb/na/na-k10015009431000
+
+[2025-12-20 19:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafxl7ide62x)
+
+---
+
+@cnn.com
+
+A group of thieves wearing Santa Clause and elf costumes stole cartloads of groceries from a supermarket in Montreal on Monday night, with an activist group later claiming credit for what they said was a Robin Hood-inspired heist to provide food to the needy. https://cnn.it/4p3V37W
+
+[2025-12-20 19:01:03](https://bsky.app/profile/cnn.com/post/3mafx4tdqms2b)
+
+---
+
+@nikkei.com
+
+野菜1日350グラム取るには？　朝食が肝心
+www.nikkei.com/article/DGXZQO...
+
+摂取の壁になっているのが調理の手間。
+
+専門家は朝食にカット野菜やジュースを取り入れることを薦めています。
+
+野菜100%のジュースは200ミリリットルで、野菜60グラムほどに相当するといいます。
+
+[2025-12-20 19:00:49](https://bsky.app/profile/nikkei.com/post/3mafx4gcarj24)
+
+---
+
+@reuters.com
+
+Fortis Healthcare to acquire Bengaluru's People Tree Hospital for 4.3 billion rupees reut.rs/49jweA6
+
+[2025-12-20 19:00:35](https://bsky.app/profile/reuters.com/post/3mafx3ynuaf2s)
+
+---
+
+@washingtonpost.com
+
+Bobby Wagner is close to becoming the third player in NFL history to make 2,000 tackles.
+
+But there is no secret technique he employs, no magical drill, no special footwork. “Just see the guy, hit the guy,” he says.
+
+[2025-12-20 19:00:13](https://bsky.app/profile/washingtonpost.com/post/3mafx3dnerm24)
+
+---
+
+@apnews.com
+
+Victor Wembanyama has joined an exclusive club by recording his 100th consecutive regular-season game with at least one block.
+
+[2025-12-20 19:00:05](https://bsky.app/profile/apnews.com/post/3mafx347kec2p)
+
+---
+
+@aljazeera.com
+
+Aghil Keshavarz is the latest person put to death for espionage since June conflict with Israel.
+
+[2025-12-20 19:00:04](https://bsky.app/profile/aljazeera.com/post/3mafx337txc22)
+
+---
 
 @reuters.com
 
@@ -65,78 +159,6 @@ JAXA 再使用型ロケット実験機「RV-X」エンジン燃焼試験を実�
 https://news.web.nhk/newsweb/na/na-k10015009391000
 
 [2025-12-20 18:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafvq5xo7n2x)
-
----
-
-@wsj.com
-
-Why are the beds at hotels so much more comfortable than the rumpled, lumpy things we settle for at home?
-
-For our writer, it’s usually about the pillows. What she discovered: Tracking down five-star comforts isn’t simple, but it can be done. 🔗: on.wsj.com/4j5ALcM
-
-[2025-12-20 18:35:22](https://bsky.app/profile/wsj.com/post/3mafvow4byi2s)
-
----
-
-@reuters.com
-
-Sustainable Switch: Your Climate News Wrapped reut.rs/4aYZJIE
-
-[2025-12-20 18:35:07](https://bsky.app/profile/reuters.com/post/3mafvohonjg2p)
-
----
-
-@nikkei.com
-
-令和なコトバ「マイジャパン症候群」　日本好きが高じて
-www.nikkei.com/article/DGXZQO...
-
-日本に長年住んでいるというアメリカ人が「高市さんには、もっと外国人への規制を厳しくしてもらわないと」。
-
-法政大学准教授のグレゴリー・ケズナジャットさんが自著で「マイジャパン症候群」という言葉を紹介しました。
-
-「自分だけは日本通だと自負して、他の外国人を見下す現象のことを皮肉を込めてそう呼びます」。
-
-実はこの「症候群」にかかっている人は、日本社会における自分の立場を危ういものと感じている場合が多いといいます。
-
-[2025-12-20 18:30:39](https://bsky.app/profile/nikkei.com/post/3mafvgi2dv522)
-
----
-
-@aljazeera.com
-
-Students return for in-person classes amid ruins as Palestinians fight to salvage education from systematic decimation.
-
-[2025-12-20 18:30:03](https://bsky.app/profile/aljazeera.com/post/3mafvfg2zqu27)
-
----
-
-@sokuho.news
-
-🛎️FNNより【独自】です。
-
-【独自】東京23区の多くの避難所が「スフィア基準」満たせず 被災者が尊厳保ち生活できる居住スペースなどの国際基準
-(2025-12-20 18:13) #ニュース
-
-[2025-12-20 18:22:52](https://bsky.app/profile/sokuho.news/post/3mafuykats327)
-
----
-
-@nhknewsunofficial.bsky.social
-
-高市首相 中央アジア5か国の首脳と相次ぎ会談
-https://news.web.nhk/newsweb/na/na-k10015009361000
-
-[2025-12-20 18:18:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafupyo7jp2v)
-
----
-
-@nhknewsunofficial.bsky.social
-
-宮城 大和町の山林で倒れた男性 死亡確認 クマに襲われたか
-https://news.web.nhk/newsweb/na/na-k10015009221000
-
-[2025-12-20 18:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafukmzvrd2b)
 
 ---
 
