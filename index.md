@@ -1,9 +1,9 @@
-# [2025-12-20 14:30 updated](2025_12_20.md)
+# [2025-12-20 14:50 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Hoffmann family agrees to buy Penguins from Fenway Sports Group reut.rs/455Z4By <a href="https://bsky.app/profile/reuters.com/post/3mafhgpg4h52p" target="_blank">reuters.com</a> (2025-12-20 14:20:14)</span><span style="padding-right:50px;">Trump fails to put Epstein behind him with partial release of files ft.trib.al/q7YGZtB <a href="https://bsky.app/profile/financialtimes.com/post/3mafhex43vr23" target="_blank">financialtimes.com</a> (2025-12-20 14:19:15)</span><span style="padding-right:50px;">Former heavyweight champion Anthony Joshua defeated social media star-turned boxer Jake Paul with a knockout in the sixth round of the pair's bout. <a href="https://bsky.app/profile/nbcnews.com/post/3mafh4o7hjx24" target="_blank">nbcnews.com</a> (2025-12-20 14:14:38)</span><span style="padding-right:50px;">USDA confirms bird flu case in Wisconsin dairy herd as new wildlife spillover reut.rs/48X6cTn <a href="https://bsky.app/profile/reuters.com/post/3mafguooc3d2y" target="_blank">reuters.com</a> (2025-12-20 14:10:10)</span><span style="padding-right:50px;"> SpyGPT will shake James Bond’s world ft.trib.al/JZt2EfV  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3mafglfxhli2k" target="_blank">financialtimes.com</a> (2025-12-20 14:04:59)</span>
+<span style="padding-right:50px;">England 106-2, need 329 runs for victory in third Ashes test reut.rs/4qk2qJt <a href="https://bsky.app/profile/reuters.com/post/3mafikcqefr2i" target="_blank">reuters.com</a> (2025-12-20 14:40:09)</span><span style="padding-right:50px;">この写真の場所、特定できますか？ SNS投稿ですぐに居場所が… https://news.web.nhk/newsweb/na/na-k10015008191000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafiieipem2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 14:39:02)</span><span style="padding-right:50px;"> The case for denial ft.trib.al/ZK9nBFT  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3mafib3injt2f" target="_blank">financialtimes.com</a> (2025-12-20 14:35:00)</span><span style="padding-right:50px;"> Here comes the sun: light amid the UK gloom ft.trib.al/VmG4i9o  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3mafib3jh7e2c" target="_blank">financialtimes.com</a> (2025-12-20 14:35:00)</span><span style="padding-right:50px;"> What wines are worth cellaring? ft.trib.al/9wM18ji  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3mafib3hz5w2k" target="_blank">financialtimes.com</a> (2025-12-20 14:35:00)</span>
   </div>
 </div>
 
@@ -32,92 +32,95 @@
 
 ## News Headlines
 
-1. Hoffmann Family Set to Purchase Penguins from Fenway Sports Group
-2. Trump Continues to Face Epstein Scandal After Partial Release of Documents
-3. Anthony Joshua Knocks Out Jake Paul in Boxing Match
-4. USDA Confirms Bird Flu Outbreak in Wisconsin Dairy Herd
-5. Meta's Dina Powell McCormick Steps Down from Board, May Remain as Adviser
-6. India's Modi Government Pushes Through Economic Reforms Amid Trade Headwinds
+Here are six selected news stories with headlines in English:
+
+1. England Stalls in Third Ashes Test, Need 329 Runs for Victory
+2. US FDA Approves Six New Nicotine Pouch Products
+3. New Antibiotic for Urinary Tract Infections Approved in Japan
+4. US to Drop Childhood Vaccine Recommendations Amid Shift to Denmark Model
+5. Seven & i Holdings Announces CEO Joe DePinto's Retirement
+6. India's Modi Government Pushes Through Economic Reforms in Final Parliamentary Session
 
 ----
 
 @reuters.com
 
-Hoffmann family agrees to buy Penguins from Fenway Sports Group reut.rs/455Z4By
+England 106-2, need 329 runs for victory in third Ashes test reut.rs/4qk2qJt
 
-[2025-12-20 14:20:14](https://bsky.app/profile/reuters.com/post/3mafhgpg4h52p)
+[2025-12-20 14:40:09](https://bsky.app/profile/reuters.com/post/3mafikcqefr2i)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+この写真の場所、特定できますか？ SNS投稿ですぐに居場所が…
+https://news.web.nhk/newsweb/na/na-k10015008191000
+
+[2025-12-20 14:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafiieipem2s)
 
 ---
 
 @financialtimes.com
 
-Trump fails to put Epstein behind him with partial release of files ft.trib.al/q7YGZtB
+ The case for denial ft.trib.al/ZK9nBFT  | opinion
 
-[2025-12-20 14:19:15](https://bsky.app/profile/financialtimes.com/post/3mafhex43vr23)
-
----
-
-@nbcnews.com
-
-Former heavyweight champion Anthony Joshua defeated social media star-turned boxer Jake Paul with a knockout in the sixth round of the pair's bout.
-
-[2025-12-20 14:14:38](https://bsky.app/profile/nbcnews.com/post/3mafh4o7hjx24)
-
----
-
-@reuters.com
-
-USDA confirms bird flu case in Wisconsin dairy herd as new wildlife spillover reut.rs/48X6cTn
-
-[2025-12-20 14:10:10](https://bsky.app/profile/reuters.com/post/3mafguooc3d2y)
+[2025-12-20 14:35:00](https://bsky.app/profile/financialtimes.com/post/3mafib3injt2f)
 
 ---
 
 @financialtimes.com
 
- SpyGPT will shake James Bond’s world ft.trib.al/JZt2EfV  | opinion
+ Here comes the sun: light amid the UK gloom ft.trib.al/VmG4i9o  | opinion
 
-[2025-12-20 14:04:59](https://bsky.app/profile/financialtimes.com/post/3mafglfxhli2k)
-
----
-
-@financialtimes.com
-
- Elliott’s bookshop gamble is turning into a page-turner ft.trib.al/jaMQxwm  | opinion
-
-[2025-12-20 14:04:58](https://bsky.app/profile/financialtimes.com/post/3mafglfi4qu2c)
+[2025-12-20 14:35:00](https://bsky.app/profile/financialtimes.com/post/3mafib3jh7e2c)
 
 ---
 
 @financialtimes.com
 
- Have we reached a tipping point on public debt? ft.trib.al/mG4pyrF  | opinion
+ What wines are worth cellaring? ft.trib.al/9wM18ji  | opinion
 
-[2025-12-20 14:01:20](https://bsky.app/profile/financialtimes.com/post/3mafgevbywr2b)
+[2025-12-20 14:35:00](https://bsky.app/profile/financialtimes.com/post/3mafib3hz5w2k)
 
 ---
 
 @financialtimes.com
 
- Pitting Nimbys against Yimbys is a bad idea ft.trib.al/8eV9I4w  | opinion
+ Year in a word 2025 ft.trib.al/Y6YWygp  | opinion
 
-[2025-12-20 14:01:20](https://bsky.app/profile/financialtimes.com/post/3mafgevbbpa2q)
-
----
-
-@cnn.com
-
-Torrential downpours and deadly flooding in the tropical, disaster-prone Philippines are not new. But revelations in recent months that politicians, officials and contractors had looted billions of dollars from the nationwide program supposed to mitigate their effects have roiled the country.
-
-[2025-12-20 14:01:01](https://bsky.app/profile/cnn.com/post/3mafgednyay23)
+[2025-12-20 14:34:59](https://bsky.app/profile/financialtimes.com/post/3mafib2yprd2f)
 
 ---
 
-@cbsnews.com
+@financialtimes.com
 
-The Justice Department released thousands of new photos and records on Jeffrey Epstein on Friday, but at least 550 pages in the documents are fully redacted.
+ Leather tabards. Pork scratchings. Flaming desserts — Jay Rayner reviews Rosi, London ft.trib.al/Ql0N48u  | opinion
 
-[2025-12-20 14:01:01](https://bsky.app/profile/cbsnews.com/post/3mafgedl3xa2q)
+[2025-12-20 14:34:58](https://bsky.app/profile/financialtimes.com/post/3mafib2bbnb25)
+
+---
+
+@japan.reuters.com
+
+米電気自動車（ＥＶ）大手テスラが２０１８年に承認したイーロン・マスク最高経営責任者（ＣＥＯ）の巨額報酬パッケージについて、デラウェア州の最高裁は１９日、報酬案を無効とした下級審の判断を覆した。 bit.ly/4j8ITJE
+
+[2025-12-20 14:32:35](https://bsky.app/profile/japan.reuters.com/post/3mafi4rlqwk2c)
+
+---
+
+@financialtimes.com
+
+ Year in a word: Tradwife ft.trib.al/xSsglYt  | opinion
+
+[2025-12-20 14:31:21](https://bsky.app/profile/financialtimes.com/post/3mafi2kukna2w)
+
+---
+
+@financialtimes.com
+
+ From the Grinch to the Christ Child — my top five Christmas heroes ft.trib.al/SyLc701  | opinion
+
+[2025-12-20 14:31:20](https://bsky.app/profile/financialtimes.com/post/3mafi2khmye2c)
 
 ---
 
