@@ -1,9 +1,9 @@
-# [2025-12-21 06:50 updated](2025_12_21.md)
+# [2025-12-21 07:10 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】江津市の住宅で火災 焼け跡から2人の遺体を発見 高齢の夫婦と連絡取れず 島根県 (2025-12-21 06:45) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mah6igly2b26" target="_blank">sokuho.news</a> (2025-12-21 06:45:28)</span><span style="padding-right:50px;">Roche CEO points to higher future drug prices in Switzerland after US deal reut.rs/4spGv5B <a href="https://bsky.app/profile/reuters.com/post/3mah6hxwtqp2s" target="_blank">reuters.com</a> (2025-12-21 06:45:13)</span><span style="padding-right:50px;">【動画】Pickup NEWS（12月21日） https://news.web.nhk/newsweb/na/na-k10015009471000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mah64ypljt26" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 06:39:02)</span><span style="padding-right:50px;">The comedian is scheduled to co-host his final show on Saturday with Wicked star Ariana Grande. n.pr/4spC5vx <a href="https://bsky.app/profile/npr.org/post/3mah5y4odrs23" target="_blank">npr.org</a> (2025-12-21 06:36:21)</span><span style="padding-right:50px;">Victims of convicted sex offender Jeffrey Epstein fume after some of the files from a long-awaited cache of records from cases against him were released -- under tight control by the Trump administration -- with pages blacked-out & photos censored ⤵️  u.afp.com/S8Sf <a href="https://bsky.app/profile/en.afp.com/post/3mah5wklcs52f" target="_blank">en.afp.com</a> (2025-12-21 06:35:28)</span>
+<span style="padding-right:50px;">Review: Bradley Cooper directs "Is This Thing On?," a drama starring Will Arnett and Laura Dern about a man who, separated from his wife, turns to stand-up comedy for solace. on.wsj.com/49mbmbm <a href="https://bsky.app/profile/wsj.com/post/3mah7pz65rj2c" target="_blank">wsj.com</a> (2025-12-21 07:07:36)</span><span style="padding-right:50px;">North Korea's KCNA: Japan's ambition for nuclear weapons should be curbed reut.rs/4qoi2M7 <a href="https://bsky.app/profile/reuters.com/post/3mah7ln7xm22c" target="_blank">reuters.com</a> (2025-12-21 07:05:09)</span><span style="padding-right:50px;">A punt return touchdown by Seattle started a fourth-quarter comeback win over Los Angeles and it's sparked unprecedented change to the Rams' staff. <a href="https://bsky.app/profile/usatoday.com/post/3mah7dvsmyf2g" target="_blank">usatoday.com</a> (2025-12-21 07:00:50)</span><span style="padding-right:50px;">Kings star C Domantas Sabonis (knee) to miss 4 to 5 more weeks reut.rs/4aZLDXu <a href="https://bsky.app/profile/reuters.com/post/3mah7dkrhhy2i" target="_blank">reuters.com</a> (2025-12-21 07:00:38)</span><span style="padding-right:50px;">When recruits were punched and tackled during a role-playing exercise at the Texas game wardens academy last year, they were taking part in a longstanding police training tradition that critics say should be retired. <a href="https://bsky.app/profile/apnews.com/post/3mah7d3k62u2q" target="_blank">apnews.com</a> (2025-12-21 07:00:23)</span>
   </div>
 </div>
 
@@ -32,21 +32,83 @@
 
 ## News Headlines
 
-- Two Bodies Found in Burning House in Japan
-  - 日本の家で火事　焼け跡から２人の遺体を発見
-- Roche CEO Predicts Higher Drug Prices in Switzerland After US Deal
-  - Roche社長、日本との合弁によりスイスで薬物価格の上昇予測
-- US Seizes Second Oil Vessel Off Venezuela Coast
-  - 米国がベネズエラ沖で油槽船を拿捕
-- James Van Der Beek Addresses Public Scrutiny of His Weight
-  - ジェームズ・ヴァン・ダー・ビーが体重に関する世間の注目を話題に
-- US Intercepts Another Vessel Off Venezuela Coast
-  - 米国がベネズエラ沖でもう1隻の船を拿捕
-- Lumbee Tribe Receives Full Federal Recognition After 133 Years
-  - ロンバート族が133年ぶりに完全な連邦認定を受ける
-
+[{"en": "Bradley Cooper directs 'Is This Thing On?' starring Will Arnett and Laura Dern", "jp": ""Is This Thing On?"のBradley Cooper監督作品"}, 
+{"en": "North Korea calls for Japan to curb nuclear ambitions", "jp": "北朝鮮「日本の核兵器の野心を抑えるべき"}, 
+{"en": "Seattle Seahawks' comeback win sparks changes to Rams staff", "jp": "シアトル・シーホークス、ラムズスタッフに対する大胆な変更"}, 
+{"en": "US Justice Department files related to Jeffrey Epstein", "jp": "ジェフリー・エプスタイン事件の米国司法省のファイル"}, 
+{"en": "Tsunami warning lifted after 4.2-magnitude earthquake hits off Japan's coast", "jp": "4.2の地震で津波警報解除"}, 
+{"en": "US seizes second oil vessel off Venezuela coast", "jp": "米国、ベネズエラ沖で2隻目の石油タンカーを拿捕"}]
 
 ----
+
+@wsj.com
+
+Review: Bradley Cooper directs "Is This Thing On?," a drama starring Will Arnett and Laura Dern about a man who, separated from his wife, turns to stand-up comedy for solace. on.wsj.com/49mbmbm
+
+[2025-12-21 07:07:36](https://bsky.app/profile/wsj.com/post/3mah7pz65rj2c)
+
+---
+
+@reuters.com
+
+North Korea's KCNA: Japan's ambition for nuclear weapons should be curbed reut.rs/4qoi2M7
+
+[2025-12-21 07:05:09](https://bsky.app/profile/reuters.com/post/3mah7ln7xm22c)
+
+---
+
+@usatoday.com
+
+A punt return touchdown by Seattle started a fourth-quarter comeback win over Los Angeles and it's sparked unprecedented change to the Rams' staff.
+
+[2025-12-21 07:00:50](https://bsky.app/profile/usatoday.com/post/3mah7dvsmyf2g)
+
+---
+
+@reuters.com
+
+Kings star C Domantas Sabonis (knee) to miss 4 to 5 more weeks reut.rs/4aZLDXu
+
+[2025-12-21 07:00:38](https://bsky.app/profile/reuters.com/post/3mah7dkrhhy2i)
+
+---
+
+@apnews.com
+
+When recruits were punched and tackled during a role-playing exercise at the Texas game wardens academy last year, they were taking part in a longstanding police training tradition that critics say should be retired.
+
+[2025-12-21 07:00:23](https://bsky.app/profile/apnews.com/post/3mah7d3k62u2q)
+
+---
+
+@sokuho.news
+
+🛎️文春より【スクープ】です。
+
+《一夫多妻男が逮捕》「盗撮画像で5000万円稼いだ」「女性を“監禁”」容疑者の母を直撃した！
+(2025-12-21 07:00) #ニュース
+
+[2025-12-21 07:00:17](https://bsky.app/profile/sokuho.news/post/3mah7cwc3cn2b)
+
+---
+
+@washingtonpost.com
+
+It took only a few weeks for Pete Marocco to gut USAID.
+
+But for 17 years, he has been battling a Florida interior design firm in a lawsuit described as “reaching Dickensian levels of challenges to the effectiveness of the civil justice system.” 
+
+[2025-12-21 07:00:11](https://bsky.app/profile/washingtonpost.com/post/3mah7cqumtg2d)
+
+---
+
+@reuters.com
+
+No comfort for Frank, as Tottenham set new calendar-year record for home defeats reut.rs/4qiYjNJ
+
+[2025-12-21 06:50:15](https://bsky.app/profile/reuters.com/post/3mah6qykyk22b)
+
+---
 
 @sokuho.news
 
@@ -64,84 +126,6 @@
 Roche CEO points to higher future drug prices in Switzerland after US deal reut.rs/4spGv5B
 
 [2025-12-21 06:45:13](https://bsky.app/profile/reuters.com/post/3mah6hxwtqp2s)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【動画】Pickup NEWS（12月21日）
-https://news.web.nhk/newsweb/na/na-k10015009471000
-
-[2025-12-21 06:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mah64ypljt26)
-
----
-
-@npr.org
-
-The comedian is scheduled to co-host his final show on Saturday with Wicked star Ariana Grande. n.pr/4spC5vx
-
-[2025-12-21 06:36:21](https://bsky.app/profile/npr.org/post/3mah5y4odrs23)
-
----
-
-@en.afp.com
-
-Victims of convicted sex offender Jeffrey Epstein fume after some of the files from a long-awaited cache of records from cases against him were released -- under tight control by the Trump administration -- with pages blacked-out & photos censored ⤵️ 
-u.afp.com/S8Sf
-
-[2025-12-21 06:35:28](https://bsky.app/profile/en.afp.com/post/3mah5wklcs52f)
-
----
-
-@sokuho.news
-
-🔔防災科研より【強震モニタ】動画です。
-
-震源:青森県西方沖, 深さ:10km
-マグニチュード:4.2, 最大震度:1
-📍https://www.google.com/maps?q=41.1,139.0&ll=41.1,139.0&z=7&t=h
-地震発生日時:2025-12-21 06:30頃
-(10倍速▶180s→18s) #地震
-
-[2025-12-21 06:33:25](https://bsky.app/profile/sokuho.news/post/3mah5svh3ug2y)
-
----
-
-@sokuho.news
-
-🔔気象庁より【地震速報】です。
-
-6時30分頃、北海道・青森県で最大震度1の地震を観測しました。
-震源:青森県西方沖, 深さ:10km, 規模:M4.2
-この地震による津波の心配はありません。
-(2025-12-21 06:32:47) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/21/2025-12-21-06-30-01.html?xlarge_image=1
-
-[2025-12-21 06:32:50](https://bsky.app/profile/sokuho.news/post/3mah5rtgtgs26)
-
----
-
-@washingtonpost.com
-
-Justice Department files related to Jeffrey Epstein, included a 1996 complaint to the FBI about the disgraced financier allegedly possessing and distributing “child pornography” about a decade before a federal investigation was launched.
-
-[2025-12-21 06:31:53](https://bsky.app/profile/washingtonpost.com/post/3mah5q56g2y2n)
-
----
-
-@apnews.com
-
-<strong><span style="color: red;">BREAKING:</span> At least 16 files from the Epstein release disappeared from DOJ's webpage, including a photo of Trump, with no explanation.</strong>
-
-[2025-12-21 06:30:34](https://bsky.app/profile/apnews.com/post/3mah5nruqal25)
-
----
-
-@usatoday.com
-
-James Van Der Beek, who's battling colorectal cancer, addressed public scrutiny of his weight after his appearance at a "Dawson's Creek" cast reunion.
-
-[2025-12-21 06:30:10](https://bsky.app/profile/usatoday.com/post/3mah5n2jkmp2h)
 
 ---
 
