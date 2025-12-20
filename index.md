@@ -1,9 +1,9 @@
-# [2025-12-21 01:31 updated](2025_12_21.md)
+# [2025-12-21 01:32 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">A.I. chatbots have been designed to behave in a humanlike way, rather than as tools with no inner life. Some experts in human-computer interaction say this approach creates cognitive dissonance for users about what exactly they are interacting with and how much to trust it. <a href="https://bsky.app/profile/nytimes.com/post/3magmlhz5vq2r" target="_blank">nytimes.com</a> (2025-12-21 01:25:03)</span><span style="padding-right:50px;">Ready the night before and baked off in the morning, this puffy, golden-topped casserole is not just festive, it’s smart. <a href="https://bsky.app/profile/nytimes.com/post/3magm57zr7r2a" target="_blank">nytimes.com</a> (2025-12-21 01:17:05)</span><span style="padding-right:50px;">The actor and comedian Bowen Yang will leave “Saturday Night Live” after this weekend’s episode, he announced in a post on Instagram on Saturday. It’s an unexpected midseason departure for the five-time Emmy nominee. <a href="https://bsky.app/profile/nytimes.com/post/3maglzowgqo2b" target="_blank">nytimes.com</a> (2025-12-21 01:15:06)</span><span style="padding-right:50px;">China is exporting a surveillance empire built on U.S. technology. An AP investigation found Tibetans in Nepal are trapped under constant watch.  <a href="https://bsky.app/profile/apnews.com/post/3maglzoqkwc22" target="_blank">apnews.com</a> (2025-12-21 01:15:06)</span><span style="padding-right:50px;">US, Russian officials to meet in Florida for more Ukraine talks reut.rs/4qoY3No <a href="https://bsky.app/profile/reuters.com/post/3maglqu7bc62k" target="_blank">reuters.com</a> (2025-12-21 01:10:10)</span>
+<span style="padding-right:50px;">The winter solstice is here! Here's what to know about the shortest day and longest night of the year. <a href="https://bsky.app/profile/usatoday.com/post/3magmuxrpjv2w" target="_blank">usatoday.com</a> (2025-12-21 01:30:21)</span><span style="padding-right:50px;">Here are the major questions remaining about the cases: https://cnn.it/4j7eFq8 <a href="https://bsky.app/profile/cnn.com/post/3magmujp2cy2c" target="_blank">cnn.com</a> (2025-12-21 01:30:07)</span><span style="padding-right:50px;">A.I. chatbots have been designed to behave in a humanlike way, rather than as tools with no inner life. Some experts in human-computer interaction say this approach creates cognitive dissonance for users about what exactly they are interacting with and how much to trust it. <a href="https://bsky.app/profile/nytimes.com/post/3magmlhz5vq2r" target="_blank">nytimes.com</a> (2025-12-21 01:25:03)</span><span style="padding-right:50px;">Ready the night before and baked off in the morning, this puffy, golden-topped casserole is not just festive, it’s smart. <a href="https://bsky.app/profile/nytimes.com/post/3magm57zr7r2a" target="_blank">nytimes.com</a> (2025-12-21 01:17:05)</span><span style="padding-right:50px;">The actor and comedian Bowen Yang will leave “Saturday Night Live” after this weekend’s episode, he announced in a post on Instagram on Saturday. It’s an unexpected midseason departure for the five-time Emmy nominee. <a href="https://bsky.app/profile/nytimes.com/post/3maglzowgqo2b" target="_blank">nytimes.com</a> (2025-12-21 01:15:06)</span>
   </div>
 </div>
 
@@ -32,21 +32,38 @@
 
 ## News Headlines
 
-- Bowen Yang Exits 'Saturday Night Live' After This Weekend's Episode
-  - フラバーケインストルストメインストアプル、トアストメインストス。
-- US, Russian Officials to Meet in Florida for Ukraine Talks
-  - アイプルにフラバーケインストメインストスデープがブイトストメインストスデープルの明選、ブイトストメインストスデープル、ブイトストメインストスデープル、トアストメインストスデープル。
-- Judge Blocks Trump Administration's Homelessness Plan
-  - パトメインストスデープルにブイトストメインストスデープルはフイトストメインストスデープル、ブイトストメインストスデープル、フイトストメインストスデープル、ブイトストメインストスデープル。
-- Bitcoin's Plunge Forces Retail Traders to Rethink Strategies
-  - パトメインストスデープルはパドサーティザンデープル、ブイトストメインストスデープル、ブイトストメインストスデープル。
-- Wastewater Can Be Used to Heat and Cool Homes
-  - パトメインストスデープルはパイアショナーストスデープル、パトメインストスデープル、ブイトストメインストスデープル。
-- Pope Leo XIV to Meet with Cardinals to Discuss Church Governance
-  - フスイアストメインストスデープルはブイトストメインストスデープル、ブイトストメインストスデープル、フスイアストメインストスデープル。
+- What to know about the shortest day and longest night of the year
+  - 最短の日と最長の夜のことを知っておく
+- Bowen Yang to leave 'Saturday Night Live' after this weekend's episode
+  - ボーウェン・ヤンが「Saturday Night Live」から去る
+- US, Russian officials to meet in Florida for more Ukraine talks
+  - 米・ロシア官僚がフロリダでウクライナの話し合い
+- China's surveillance empire built on US technology
+  - 中国は米国の技術で作った監視帝国
+- US interdicting sanctioned vessel off Venezuela coast
+  - ベネズエラ岸で制裁船を米が拿捕
+- Pope Leo XIV summons world's cardinals for meetings
+  - 教皇レオ14世が世界の枢機卿を集める
 
 
 ----
+
+@usatoday.com
+
+The winter solstice is here! Here's what to know about the shortest day and longest night of the year.
+
+[2025-12-21 01:30:21](https://bsky.app/profile/usatoday.com/post/3magmuxrpjv2w)
+
+---
+
+@cnn.com
+
+Here are the major questions remaining about the cases:
+https://cnn.it/4j7eFq8
+
+[2025-12-21 01:30:07](https://bsky.app/profile/cnn.com/post/3magmujp2cy2c)
+
+---
 
 @nytimes.com
 
@@ -109,24 +126,6 @@ Exclusive: US interdicting sanctioned vessel off Venezuelan coast, officials sa
 Pope Leo XIV has summoned the world's cardinals for two days of meetings to help him govern the church, the Vatican said Saturday, in the clearest sign yet that the new year will signal the unofficial start of his pontificate.
 
 [2025-12-21 01:05:01](https://bsky.app/profile/cbsnews.com/post/3maglhnj4uw2b)
-
----
-
-@wsj.com
-
-Over the years, Christmas-tree sales have been a decent indicator of how overall consumer spending is doing. This year, the needles are pointing to a more cautious consumer.
-
-🔗: on.wsj.com/44CGwsB
-
-[2025-12-21 01:02:56](https://bsky.app/profile/wsj.com/post/3magldwbept2s)
-
----
-
-@npr.org
-
-The attack at Australia's Bondi Beach earlier this week on people who were celebrating the first night of Hanukkah was horrific. Stories have emerged about those who died trying to stop the gunmen. n.pr/4s8cXJo
-
-[2025-12-21 01:02:53](https://bsky.app/profile/npr.org/post/3magldtkzwz2g)
 
 ---
 
