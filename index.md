@@ -1,9 +1,9 @@
-# [2025-12-21 03:10 updated](2025_12_21.md)
+# [2025-12-21 03:30 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">女性の健康課題 国が指針 働く人に企業はどう向き合う？ https://news.web.nhk/newsweb/na/na-k10015009481000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3magsa4obkq2y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 03:06:02)</span><span style="padding-right:50px;">BREAKING: The Coast Guard is seizing a vessel the Trump administration says is sanctioned off the Venezuelan coast in an ongoing operation, U.S. officials say. <a href="https://bsky.app/profile/nbcnews.com/post/3mags7ofpte2q" target="_blank">nbcnews.com</a> (2025-12-21 03:05:49)</span><span style="padding-right:50px;">This is not your average sporting equipment. For loved ones who are constantly pushing themselves to be better, faster or stronger, and also appreciate a luxury experience, get them designer gear to play with. on.wsj.com/4938CP4 <a href="https://bsky.app/profile/wsj.com/post/3mags4zgl6k2h" target="_blank">wsj.com</a> (2025-12-21 03:04:20)</span><span style="padding-right:50px;">Originally a Christian holiday celebrating the birth of Jesus, Christmas has evolved into a global cultural event. <a href="https://bsky.app/profile/apnews.com/post/3magrwnz6vc2k" target="_blank">apnews.com</a> (2025-12-21 03:00:47)</span><span style="padding-right:50px;">It began with a ceramic sombrero chip-and-dip server. It kicked off an annual holiday tradition of tacky presents. <a href="https://bsky.app/profile/usatoday.com/post/3magrvwjwks2w" target="_blank">usatoday.com</a> (2025-12-21 03:00:22)</span>
+<span style="padding-right:50px;">Ukrainian President Volodymyr Zelensky says Washington has proposed the first face-to-face negotiations between Ukraine and Russia in half a year, as diplomats converge on the US city of Miami for fresh talks on ending the war 🇺🇦  🇺🇦  🇷🇺   u.afp.com/S8S5 <a href="https://bsky.app/profile/en.afp.com/post/3magtftkmb62d" target="_blank">en.afp.com</a> (2025-12-21 03:27:10)</span><span style="padding-right:50px;">Ukraine has used drones four times in the past few weeks to hit oil tankers from Russia’s shadow fleet, escalating the war in the seas and showing that Ukraine’s security services agency feels increasingly emboldened to launch audacious attacks and claim them publicly. <a href="https://bsky.app/profile/nytimes.com/post/3magtc2cezb2b" target="_blank">nytimes.com</a> (2025-12-21 03:25:03)</span><span style="padding-right:50px;">The Ursids, a winter solstice light show that has been active since Wednesday, will reach its peak Sunday night into Monday morning. Here is how to watch. <a href="https://bsky.app/profile/nytimes.com/post/3magtc2dcd22b" target="_blank">nytimes.com</a> (2025-12-21 03:25:03)</span><span style="padding-right:50px;">Twenty months ago, Sam Bankman-Fried was sentenced to more than two decades in prison after being found guilty of a multibillion-dollar fraud. Since then, he has become a prolific jailhouse lawyer, dispensing advice to his fellow prisoners, including the former president of Honduras and Sean Combs. <a href="https://bsky.app/profile/nytimes.com/post/3magt5wl7622f" target="_blank">nytimes.com</a> (2025-12-21 03:22:45)</span><span style="padding-right:50px;">台北 3人死亡殺傷事件 頼総統 “市民の安全や社会の安定守る” https://news.web.nhk/newsweb/na/na-k10015009531000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3magsq7qpkk2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 03:15:03)</span>
   </div>
 </div>
 
@@ -32,25 +32,65 @@
 
 ## News Headlines
 
-- Women's Health Issues: Government Sets Guidelines, Companies To Follow?
-  - 本小の安全颜量とエーコンでする
-- U.S. Seizes Vessel Sanctioned by Trump Administration Off Venezuelan Coast
-  - イルサイコンにプロサラトに起使と常でい
-- For the Adventurous and Luxurious, Designer Sports Gear for the Holidays
-  - アュースンでおだいの給丁はプロサラトを拟しに
-- From Christian Holiday to Global Cultural Event: The Evolution of Christmas
-  - コイディストを成したプループュースの給丁はプロサラトを完紦に解きだ
-- US Government Under Trump Abdicating Role as a Reliable Source of Information
-  - イル常にプロサラトを安征にいでプロサラトを不速なだ
-- Recommended Books on Climate for the Holidays
-  - 温义、小またコイディストを要いでは、温义をそれ
-- Lebanon's PM Says South of Litani River Part of Border Plan Almost Complete
-  - ッサインの都にプストをたれに、プシエアコンに安世でい
-- SpaceX Engineer on Historic Spaceflight with Private Citizens
-  - コンゴカトルとプストを轴いだ
+- Ukraine and Russia to Hold First Face-to-Face Negotiations in Six Months
+  - アルビタローバーーはい一亞にでいだ、ブタルタタルイントにいだたそたそを必性がいだ
+- Ukraine Uses Drones to Attack Oil Tankers from Russia's Shadow Fleet
+  - アルビタローバーーはロコタタタタジイシアタタタタジイシアタタタタジイシア
+- Ursid Meteor Shower to Peak on Sunday Night and Monday Morning
+  - ィトケルタタタタトィコタタタタトィコタタタタトィコタタタタトィコタタタ
+- Former US President's Ex-Aide Faces Trial on Jan. 3
+  - セカイスートリーサイーグ・ケイケイジイシアタタタタジイシアタタタタジイシア
+- Gold and Silver Prices Soar to Records in 2025
+  - アフンデートによるタタタタジイシアタタタタジイシア、コンデートによるタタタタジイシア、コンデートによるタタタタジイシア
+- Walmart to Train Skilled Tradespeople to Fill Labor Shortages
+  - アサェコタタタタジイシアによるスコタタタタジイシアトショストによるタタタタジイシア
 
 
 ----
+
+@en.afp.com
+
+Ukrainian President Volodymyr Zelensky says Washington has proposed the first face-to-face negotiations between Ukraine and Russia in half a year, as diplomats converge on the US city of Miami for fresh talks on ending the war
+🇺🇦  🇺🇦  🇷🇺 
+
+u.afp.com/S8S5
+
+[2025-12-21 03:27:10](https://bsky.app/profile/en.afp.com/post/3magtftkmb62d)
+
+---
+
+@nytimes.com
+
+Ukraine has used drones four times in the past few weeks to hit oil tankers from Russia’s shadow fleet, escalating the war in the seas and showing that Ukraine’s security services agency feels increasingly emboldened to launch audacious attacks and claim them publicly.
+
+[2025-12-21 03:25:03](https://bsky.app/profile/nytimes.com/post/3magtc2cezb2b)
+
+---
+
+@nytimes.com
+
+The Ursids, a winter solstice light show that has been active since Wednesday, will reach its peak Sunday night into Monday morning. Here is how to watch.
+
+[2025-12-21 03:25:03](https://bsky.app/profile/nytimes.com/post/3magtc2dcd22b)
+
+---
+
+@nytimes.com
+
+Twenty months ago, Sam Bankman-Fried was sentenced to more than two decades in prison after being found guilty of a multibillion-dollar fraud. Since then, he has become a prolific jailhouse lawyer, dispensing advice to his fellow prisoners, including the former president of Honduras and Sean Combs.
+
+[2025-12-21 03:22:45](https://bsky.app/profile/nytimes.com/post/3magt5wl7622f)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+台北 3人死亡殺傷事件 頼総統 “市民の安全や社会の安定守る”
+https://news.web.nhk/newsweb/na/na-k10015009531000
+
+[2025-12-21 03:15:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3magsq7qpkk2u)
+
+---
 
 @nhknewsunofficial.bsky.social
 
@@ -90,47 +130,6 @@ Originally a Christian holiday celebrating the birth of Jesus, Christmas has evo
 It began with a ceramic sombrero chip-and-dip server. It kicked off an annual holiday tradition of tacky presents.
 
 [2025-12-21 03:00:22](https://bsky.app/profile/usatoday.com/post/3magrvwjwks2w)
-
----
-
-@washingtonpost.com
-
-Researchers and activists increasingly fear that under the Trump administration, the U.S. government is abdicating its historic role as a clearinghouse for reliable information.
-
-
-[2025-12-21 03:00:19](https://bsky.app/profile/washingtonpost.com/post/3magrvtegdp2x)
-
----
-
-@bloomberg.com
-
-Looking for a good book to enjoy over the holidays? Today’s newsletter has you covered with eight climate books Bloomberg Green journalists couldn’t put down this year. Plus, we’ve got your weekend listen and read.
-
-[2025-12-21 03:00:08](https://bsky.app/profile/bloomberg.com/post/3magrvifx6q2e)
-
----
-
-@aljazeera.com
-
-The PM says the part of the plan on south of the Litani River is 'only days away from completion'.
-
-[2025-12-21 03:00:03](https://bsky.app/profile/aljazeera.com/post/3magrveeud52z)
-
----
-
-@cbsnews.com
-
-Michaela Benthaus, a German aerospace engineer who suffered a spinal cord injury in a 2018 mountain biking accident, joined a retired SpaceX manager and four entrepreneurs for the up-and-down flight to a point just above the so-called "boundary" of space. 
-
-[2025-12-21 03:00:01](https://bsky.app/profile/cbsnews.com/post/3magrvbx35v2z)
-
----
-
-@financialtimes.com
-
-The ‘outrageous’ cost of sports tickets ft.trib.al/mISVt5V
-
-[2025-12-21 02:57:00](https://bsky.app/profile/financialtimes.com/post/3magrpvbnfo2k)
 
 ---
 
