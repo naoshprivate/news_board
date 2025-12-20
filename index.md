@@ -1,9 +1,9 @@
-# [2025-12-20 17:50 updated](2025_12_20.md)
+# [2025-12-20 18:10 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Steve Witkoff’s unlikely diplomatic ascent was bolstered by two fans: Donald Trump and Vladimir Putin. <a href="https://bsky.app/profile/wsj.com/post/3mafsvn4oeh23" target="_blank">wsj.com</a> (2025-12-20 17:45:27)</span><span style="padding-right:50px;">An to face Wang in women's title clash at World Tour Finals reut.rs/492oKjP <a href="https://bsky.app/profile/reuters.com/post/3mafsd577ox24" target="_blank">reuters.com</a> (2025-12-20 17:35:06)</span><span style="padding-right:50px;">Essex is at the heart of the UK government’s AI ambitions — plans that could radically reshape British society and politics. <a href="https://bsky.app/profile/bloomberg.com/post/3mafs2rhym42w" target="_blank">bloomberg.com</a> (2025-12-20 17:30:25)</span><span style="padding-right:50px;">米電気自動車（ＥＶ）大手テスラが２０１８年に承認したイーロン・マスク最高経営責任者（ＣＥＯ）の巨額報酬パッケージについて、デラウェア州の最高裁は１９日、報酬案を無効とした下級審の判断を覆した。 bit.ly/4s6en79 <a href="https://bsky.app/profile/japan.reuters.com/post/3mafs2mm7lx2q" target="_blank">japan.reuters.com</a> (2025-12-20 17:30:20)</span><span style="padding-right:50px;">Elon Musk, already the world's richest man, scored another huge windfall Friday when the Delaware Supreme Court reversed a decision that deprived him of a $55 billion pay package that Tesla doled out in 2018 as an incentive for its CEO to steer the automaker to new heights. <a href="https://bsky.app/profile/apnews.com/post/3mafs2cs7hk2d" target="_blank">apnews.com</a> (2025-12-20 17:30:10)</span>
+<span style="padding-right:50px;">円相場1ドル=157円台後半 利上げ発表前から約2円 円安進む https://news.web.nhk/newsweb/na/na-k10015009381000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafu7vkquh2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 18:09:02)</span><span style="padding-right:50px;">全国高校駅伝 開会式 男女各58校出場 あす京都で開催 https://news.web.nhk/newsweb/na/na-k10015009371000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafu2laatx2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 18:06:03)</span><span style="padding-right:50px;">It was once a gathering for nerdy researchers. Now it's the center of the tech universe. We went inside the meeting of AI's brightest minds. <a href="https://bsky.app/profile/wsj.com/post/3maftte5qkh2o" target="_blank">wsj.com</a> (2025-12-20 18:02:04)</span><span style="padding-right:50px;">Trump governs with the mindset that “there’s nothing he can’t do. Nothing, zero, nothing,” his chief of staff said recently to Vanity Fair. It shows this week on the walls of the Kennedy Center – or now “The Donald J. Trump and The John F. Kennedy Memorial Center for the Performing Arts." | Analysis <a href="https://bsky.app/profile/cnn.com/post/3maftripcki2c" target="_blank">cnn.com</a> (2025-12-20 18:01:01)</span><span style="padding-right:50px;">ぜんそくや関節リウマチ…慢性炎症の原因タンパク質発見　千葉大学など www.nikkei.com/article/DGXZQO...  発見したタンパク質を標的とした新しい治療薬開発につながる可能性があります。  免疫細胞の１つ「T細胞」は体内に侵入したウイルスなどの異物を排除した後、一部は「記憶T細胞」として炎症が起きている組織にとどまります。  研究チームは、組織にとどまり炎症の原因となる物質を放出する一部の記憶T細胞で、HLFというタンパク質が特異的に発現していることを発見しました。 <a href="https://bsky.app/profile/nikkei.com/post/3maftqtfbju2i" target="_blank">nikkei.com</a> (2025-12-20 18:00:39)</span>
   </div>
 </div>
 
@@ -32,16 +32,89 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are six important stories with headlines:
 
-1. US Court Upholds $55 Billion Pay Package for Elon Musk
-2. TikTok's Algorithm Explained: What Makes It So Special?
-3. Parents of Addicts Face Impossible Choice: Enable or Lose Their Child Forever
-4. US Pushes for Ceasefire in Sudan's Civil War as Kordofan Violence Escalates
-5. Ghana's President Urged to Rally African Leaders Behind Slavery Reparations Push
-6. World Bank Approves $700 Million for Pakistan's Economic Stability
+1. Japan's Yen Falls to 157 per Dollar After a 2-Euro Rally
+2. Netanyahu Announces October 7 Inquiry Amid Israeli Protests
+3. Elon Musk's $55 Billion Pay Package Reinstated by Delaware Supreme Court
+4. Massive Fire Breaks Out at Tokyo's Garbage Plant, Still Uncontrolled After 12 Hours
+5. China and Thailand Seek to De-escalate Fighting as Cambodia Visits
+6. Pakistan Court Sentences Imran Khan and Wife to 17 Years in Prison in Graft Case
 
 ----
+
+@nhknewsunofficial.bsky.social
+
+円相場1ドル=157円台後半 利上げ発表前から約2円 円安進む
+https://news.web.nhk/newsweb/na/na-k10015009381000
+
+[2025-12-20 18:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafu7vkquh2b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+全国高校駅伝 開会式 男女各58校出場 あす京都で開催
+https://news.web.nhk/newsweb/na/na-k10015009371000
+
+[2025-12-20 18:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafu2laatx2b)
+
+---
+
+@wsj.com
+
+It was once a gathering for nerdy researchers. Now it's the center of the tech universe. We went inside the meeting of AI's brightest minds.
+
+[2025-12-20 18:02:04](https://bsky.app/profile/wsj.com/post/3maftte5qkh2o)
+
+---
+
+@cnn.com
+
+Trump governs with the mindset that “there’s nothing he can’t do. Nothing, zero, nothing,” his chief of staff said recently to Vanity Fair. It shows this week on the walls of the Kennedy Center – or now “The Donald J. Trump and The John F. Kennedy Memorial Center for the Performing Arts." | Analysis
+
+[2025-12-20 18:01:01](https://bsky.app/profile/cnn.com/post/3maftripcki2c)
+
+---
+
+@nikkei.com
+
+ぜんそくや関節リウマチ…慢性炎症の原因タンパク質発見　千葉大学など
+www.nikkei.com/article/DGXZQO...
+
+発見したタンパク質を標的とした新しい治療薬開発につながる可能性があります。
+
+免疫細胞の１つ「T細胞」は体内に侵入したウイルスなどの異物を排除した後、一部は「記憶T細胞」として炎症が起きている組織にとどまります。
+
+研究チームは、組織にとどまり炎症の原因となる物質を放出する一部の記憶T細胞で、HLFというタンパク質が特異的に発現していることを発見しました。
+
+[2025-12-20 18:00:39](https://bsky.app/profile/nikkei.com/post/3maftqtfbju2i)
+
+---
+
+@japan.reuters.com
+
+ルビオ米国務長官は１９日の記者会見で日中間の緊張について「以前から存在していた」との認識を示した上で、「日本との強固な同盟関係を継続しつつ、中国と生産的に協力できる方法を見いだせると強く信じている」と語った。 bit.ly/4p6hObc
+
+[2025-12-20 18:00:24](https://bsky.app/profile/japan.reuters.com/post/3maftqeub6y2c)
+
+---
+
+@cnbc.com
+
+Eileen Tyrrell moved to New York with little savings and no guaranteed paycheck — and stayed. Here how she makes it work.
+
+[2025-12-20 18:00:12](https://bsky.app/profile/cnbc.com/post/3maftpznwhi24)
+
+---
+
+@aljazeera.com
+
+Netanyahu finally announces October 7 inquiry: Why are Israelis furious? https://aje.io/l2jveu
+
+[2025-12-20 18:00:04](https://bsky.app/profile/aljazeera.com/post/3maftpsdrhb27)
+
+---
 
 @wsj.com
 
@@ -56,75 +129,6 @@ Steve Witkoff’s unlikely diplomatic ascent was bolstered by two fans: Donald T
 An to face Wang in women's title clash at World Tour Finals reut.rs/492oKjP
 
 [2025-12-20 17:35:06](https://bsky.app/profile/reuters.com/post/3mafsd577ox24)
-
----
-
-@bloomberg.com
-
-Essex is at the heart of the UK government’s AI ambitions — plans that could radically reshape British society and politics.
-
-[2025-12-20 17:30:25](https://bsky.app/profile/bloomberg.com/post/3mafs2rhym42w)
-
----
-
-@japan.reuters.com
-
-米電気自動車（ＥＶ）大手テスラが２０１８年に承認したイーロン・マスク最高経営責任者（ＣＥＯ）の巨額報酬パッケージについて、デラウェア州の最高裁は１９日、報酬案を無効とした下級審の判断を覆した。 bit.ly/4s6en79
-
-[2025-12-20 17:30:20](https://bsky.app/profile/japan.reuters.com/post/3mafs2mm7lx2q)
-
----
-
-@apnews.com
-
-Elon Musk, already the world's richest man, scored another huge windfall Friday when the Delaware Supreme Court reversed a decision that deprived him of a $55 billion pay package that Tesla doled out in 2018 as an incentive for its CEO to steer the automaker to new heights.
-
-[2025-12-20 17:30:10](https://bsky.app/profile/apnews.com/post/3mafs2cs7hk2d)
-
----
-
-@wsj.com
-
-Review: Sydney Sweeney stars alongside Amanda Seyfried in "The Housemaid," a clever thriller about the employee of a woman whose lavish Long Island mansion is home to some disturbing happenings. on.wsj.com/4qdcRhM
-
-[2025-12-20 17:28:50](https://bsky.app/profile/wsj.com/post/3mafrxx4otm2i)
-
----
-
-@nhknewsunofficial.bsky.social
-
-鳴門海峡付近で漁船が転覆 船内で発見の70代男性死亡
-https://news.web.nhk/newsweb/na/na-k10015009281000
-
-[2025-12-20 17:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafrpg4nvc2m)
-
----
-
-@financialtimes.com
-
-Stop right here for the FT's best films of 2025. And let us know if you agree with Danny Leigh's choices ft.trib.al/wJzOjnf
-
-[2025-12-20 17:18:55](https://bsky.app/profile/financialtimes.com/post/3mafrg7q3542y)
-
----
-
-@nhknewsunofficial.bsky.social
-
-広島 養殖かき死ぬ被害相次ぐ 影響長期化も懸念
-https://news.web.nhk/newsweb/na/na-k10015009321000
-
-[2025-12-20 17:18:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafrep3gcu22)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】プロボクシング高知市出身の市原涼選手が県勢2人目の全日本新人王に
-(2025-12-20 17:15) #ニュース
-
-[2025-12-20 17:15:58](https://bsky.app/profile/sokuho.news/post/3mafrax2cil2y)
 
 ---
 
