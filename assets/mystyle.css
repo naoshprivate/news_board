@@ -5,6 +5,19 @@ body {
   max-width: 800px;
 }
 
-ol {
-  padding-left: 2vw;
+/* リスト全体の左側に余白を作る */
+ul, ol {
+    padding-left: 2em !important;
+    margin-bottom: 1em;
+}
+
+/* ネストされたリストにさらにインデントをつける */
+ul ul, ul ol, ol ul, ol ol {
+    margin-left: 1.5em;
+    margin-bottom: 0;
+}
+
+/* リストのマーカー（点）を表示させる */
+ul {
+    list-style-type: disc !important;
 }

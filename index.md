@@ -1,9 +1,9 @@
-# [2025-12-21 00:10 updated](2025_12_21.md)
+# [2025-12-21 00:30 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">The interview’s on Zoom. Here's how to actually stand out. <a href="https://bsky.app/profile/yahoofinance.com/post/3magi6ck2iy2d" target="_blank">yahoofinance.com</a> (2025-12-21 00:06:06)</span><span style="padding-right:50px;">The Justice Department released more than 13,000 files on Friday arising from investigations into the convicted sex offender Jeffrey Epstein, and said more documents would be released in the coming weeks. Here are takeaways about what the first batch of files did and did not divulge. <a href="https://bsky.app/profile/nytimes.com/post/3magi4icvbw2x" target="_blank">nytimes.com</a> (2025-12-21 00:05:05)</span><span style="padding-right:50px;">Five experts look ahead and imagine a future that looks totally different. on.wsj.com/4p1dolR <a href="https://bsky.app/profile/wsj.com/post/3maghybmyzf2h" target="_blank">wsj.com</a> (2025-12-21 00:02:44)</span><span style="padding-right:50px;">These social media influencers are cooking up recipes from the past and unearthing long-forgotten history. <a href="https://bsky.app/profile/usatoday.com/post/3maghuomkmb25" target="_blank">usatoday.com</a> (2025-12-21 00:00:43)</span><span style="padding-right:50px;">Less than a day after the Kennedy Center announced it was renaming itself after the president, the signage was already updated at its iconic building. But across the internet, the name was largely unchanged. <a href="https://bsky.app/profile/washingtonpost.com/post/3maghu7pxlg2x" target="_blank">washingtonpost.com</a> (2025-12-21 00:00:28)</span>
+<span style="padding-right:50px;">We set out to discover whether GapStudio items are actually an upgrade — in design, quality, or both — or simply overpriced Gap offerings. nyti.ms/4pE1KOV <a href="https://bsky.app/profile/nytimes.com/post/3magjby7ljv2b" target="_blank">nytimes.com</a> (2025-12-21 00:26:03)</span><span style="padding-right:50px;">Brazil's Lula warns US intervention in Venezuela could be catastrophic reut.rs/4aZJHhK <a href="https://bsky.app/profile/reuters.com/post/3magjacxrj62i" target="_blank">reuters.com</a> (2025-12-21 00:25:07)</span><span style="padding-right:50px;">Robey Warshaw partners share £40mn profit ft.trib.al/a3YJxTE <a href="https://bsky.app/profile/financialtimes.com/post/3magiykulkq2b" target="_blank">financialtimes.com</a> (2025-12-21 00:20:47)</span><span style="padding-right:50px;">Can you beat the AP's weekend editor? Take the weekly quiz. <a href="https://bsky.app/profile/apnews.com/post/3magixfjv7l2q" target="_blank">apnews.com</a> (2025-12-21 00:20:08)</span><span style="padding-right:50px;">Most of the documents released Friday that mention Trump had already been made public. <a href="https://bsky.app/profile/forbes.com/post/3magixc2o452h" target="_blank">forbes.com</a> (2025-12-21 00:20:04)</span>
   </div>
 </div>
 
@@ -32,21 +32,61 @@
 
 ## News Headlines
 
-- How to Stand Out in a Virtual Interview
-    - オンラインインタビューで自分を立つ
-- Justice Department Releases Thousands of Jeffrey Epstein Files
-    - ジェフリー・エプスタインの捜査関連のファイル13,000件公開
-- Experts Predict a Future That's Totally Different
-    - 将来はまるで別世界に変化する
-- Influencers Uncover Forgotten Recipes
-    - 歴史の隠れたレシピを発見する
-- Renaming the Kennedy Center Sparks Little Change
-    - ケネディーセンターを改名したもののインターネットではほぼ変わらない
-- Bear Caught in Sweet-Scented Bear Trap
-    - くまに甘いにおいを帯びたくま捕らえ
+- GapStudio Items: Overpriced or Upgraded?
+  - GapStudioアイテムは値段が高すぎるのか、デザインと品質が向上したのか
+- Lula Warns US Intervention in Venezuela Could Be Catastrophic
+  - ブラジルのルラがボリビアへの米国介入を危険視
+- Robey Warshaw Partners Share £40mn Profit
+  - ロビー・ウォーシャウのパートナーが4000万ポンドの利益を分配
+- Beat the AP's Weekend Editor in Weekly Quiz
+  - 週間クイズでAPの週末編集長を破る
+- Jeffrey Epstein Investigation: Takeaways from Released Documents
+  - ジェフリー・エプスタイン事件の調査結果から見えたこと
+- Imagine a Future Where Technology Transforms Daily Life
+  - 将来は、日常生活は技術によって劇的に変化するかもしれない
 
 
 ----
+
+@nytimes.com
+
+We set out to discover whether GapStudio items are actually an upgrade — in design, quality, or both — or simply overpriced Gap offerings. nyti.ms/4pE1KOV
+
+[2025-12-21 00:26:03](https://bsky.app/profile/nytimes.com/post/3magjby7ljv2b)
+
+---
+
+@reuters.com
+
+Brazil's Lula warns US intervention in Venezuela could be catastrophic reut.rs/4aZJHhK
+
+[2025-12-21 00:25:07](https://bsky.app/profile/reuters.com/post/3magjacxrj62i)
+
+---
+
+@financialtimes.com
+
+Robey Warshaw partners share £40mn profit ft.trib.al/a3YJxTE
+
+[2025-12-21 00:20:47](https://bsky.app/profile/financialtimes.com/post/3magiykulkq2b)
+
+---
+
+@apnews.com
+
+Can you beat the AP's weekend editor? Take the weekly quiz.
+
+[2025-12-21 00:20:08](https://bsky.app/profile/apnews.com/post/3magixfjv7l2q)
+
+---
+
+@forbes.com
+
+Most of the documents released Friday that mention Trump had already been made public.
+
+[2025-12-21 00:20:04](https://bsky.app/profile/forbes.com/post/3magixc2o452h)
+
+---
 
 @yahoofinance.com
 
@@ -85,46 +125,6 @@ These social media influencers are cooking up recipes from the past and unearthi
 Less than a day after the Kennedy Center announced it was renaming itself after the president, the signage was already updated at its iconic building. But across the internet, the name was largely unchanged.
 
 [2025-12-21 00:00:28](https://bsky.app/profile/washingtonpost.com/post/3maghu7pxlg2x)
-
----
-
-@bloomberg.com
-
-Sharpen your focus with today’s Alphadots puzzle — the daily word game from Bloomberg.
-
-🎯 Play now:
-
-[2025-12-21 00:00:25](https://bsky.app/profile/bloomberg.com/post/3maghu4tzv623)
-
----
-
-@apnews.com
-
-Fernando Moreno has been waiting for a kidney transplant for about two years. His Philadelphia hospital connected him with a pilot project called the Great Social Experiment.
-
-[2025-12-21 00:00:16](https://bsky.app/profile/apnews.com/post/3maghtukkw72q)
-
----
-
-@sokuho.news
-
-🔔令和7年12月21日(日)になりました。
-🌀2025年355日目、残り11日(3.01%)
-
-🍀赤口/旧暦11月2日🌒
-🐍巳/平成37年/昭和100年
-
-🌈今日も平穏に過ごせますように✨
-
-[2025-12-21 00:00:01](https://bsky.app/profile/sokuho.news/post/3maghtgdqss2y)
-
----
-
-@cbsnews.com
-
-A bear living under a California home doesn't seem to want to come out, not even falling for a sweet-scented bear trap – but another, non-intended bear did end up inside the trap. 
-
-[2025-12-21 00:00:01](https://bsky.app/profile/cbsnews.com/post/3maghtg7oe32z)
 
 ---
 
