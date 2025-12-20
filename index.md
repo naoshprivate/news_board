@@ -1,9 +1,9 @@
-# [2025-12-20 19:50 updated](2025_12_20.md)
+# [2025-12-20 20:10 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">米電気自動車（ＥＶ）大手テスラが２０１８年に承認したイーロン・マスク最高経営責任者（ＣＥＯ）の巨額報酬パッケージについて、デラウェア州の最高裁は１９日、報酬案を無効とした下級審の判断を覆した。 bit.ly/3YpvSlv <a href="https://bsky.app/profile/japan.reuters.com/post/3mafzlox2d327" target="_blank">japan.reuters.com</a> (2025-12-20 19:45:09)</span><span style="padding-right:50px;">米 相互関税など合法性めぐる最高裁判断 今月から来月上旬にも https://news.web.nhk/newsweb/na/na-k10015009301000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafzg7iwsb2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 19:42:02)</span><span style="padding-right:50px;">Imran Khan and wife sentenced for state gift fraud <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mafzatplmh2b" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-20 19:39:04)</span><span style="padding-right:50px;">Ten years ago, the WSJ’s retirement columnist, Glenn Ruffenach, retired. He had it all worked out. Then life threw him a curveball.   “I can’t help but wonder about what might have been.”  🔗: on.wsj.com/4j2WsKn <a href="https://bsky.app/profile/wsj.com/post/3mafz6pmmyg2h" target="_blank">wsj.com</a> (2025-12-20 19:37:53)</span><span style="padding-right:50px;">The three octogenarian nuns broke out of a nursing home to go back to live in their convent, sparking a dispute with their church superior. Both sides have appealed to the Vatican for a resolution. <a href="https://bsky.app/profile/npr.org/post/3mafz6mvkzn2b" target="_blank">npr.org</a> (2025-12-20 19:37:51)</span>
+<span style="padding-right:50px;">There's a Chinese billionaire said to have 100 U.S.-born kids. Inside the surrogacy industry that builds mega-families for elites who never set foot in America.   🔗: on.wsj.com/4pHjVDo <a href="https://bsky.app/profile/wsj.com/post/3mag2mc5uub2o" target="_blank">wsj.com</a> (2025-12-20 20:03:23)</span><span style="padding-right:50px;">文字切り絵で小説の神髄　超精細な技、紙1枚に刻む www.nikkei.com/article/DGXZQO...  桜の樹の下には屍体が埋まっている――。切り抜かれた白い文字が黒い紙の上に浮かびます。  切り絵作家の梨々さんは、梶井基次郎が重ねた自然の美と人間の暗い衝動を、紙が生む陰影で表現。  創作の原点は絵本「モチモチの木」です。暗闇に浮かぶ木の輪郭を見た瞬間、胸がざわめきました。  切り絵作家として生きることにしたのは、20歳を前にした出来事がきっかけでした。 <a href="https://bsky.app/profile/nikkei.com/post/3mag2hqq25e2g" target="_blank">nikkei.com</a> (2025-12-20 20:00:51)</span><span style="padding-right:50px;">McDonald’s CEO Chris Kempczinski has some career guidance to share, provided you have “thick skin.” <a href="https://bsky.app/profile/cnbc.com/post/3mag2h2dgdz2y" target="_blank">cnbc.com</a> (2025-12-20 20:00:27)</span><span style="padding-right:50px;">A Northern California fisherman may have set state and world records by catching a canary rockfish he says weighed in at 10.25 pounds. <a href="https://bsky.app/profile/apnews.com/post/3mag2gpqiz42k" target="_blank">apnews.com</a> (2025-12-20 20:00:16)</span><span style="padding-right:50px;">The divorce and the surrounding speculation have only fueled attacks against Paxton in one of the nation’s most heated Republican primaries as he seeks to unseat Sen. John Cornyn. <a href="https://bsky.app/profile/cnn.com/post/3mag2gnewfc2k" target="_blank">cnn.com</a> (2025-12-20 20:00:13)</span>
   </div>
 </div>
 
@@ -32,18 +32,83 @@
 
 ## News Headlines
 
-1. Delaware Supreme Court Upholds Tesla CEO Elon Musk's Massive Compensation Package
-2. US Trade Agreements Face Supreme Court Ruling
-3. Imran Khan Sentenced for State Gift Fraud
-4. Japanese Botanist's Legacy Lives On in Social Media
-5. Lynsey Addario Reflects on War Photography and Family Life
-6. Thieves Dressed as Santa and Elves Steal Groceries in Montreal
-7. Ukraine Says it Hit Russian Oil Rig and Patrol Ship
-8. Japan's 'My Japan Syndrome' Affects Foreigners' Lives
-9. High School Students Return to Classrooms Amid Ruins in Gaza
-10. Japan's PM Fumio Kishida Holds Talks with Central Asia Leaders
+Here are six important stories with headlines:
+
+1. Billionaire's Secret Kids: Chinese Tycoon's 'Elite Surrogacy Empire'
+2. Vatican Weighs In on Dispute Over 3 Octogenarian Nuns Who Broke Out of Nursing Home
+3. Tesla CEO Elon Musk's $56M Pay Package Ruled Invalid by Delaware Supreme Court
+4. Pakistani Court Sentences Ex-PM Imran Khan to 17 Years in Prison for State Gift Fraud
+5. Tesla's $56M Pay Package for Elon Musk Ruled Invalid
+6. US Lawmakers Revive Privateering, a Practice Banished Since the Age of Sail
 
 ----
+
+@wsj.com
+
+There's a Chinese billionaire said to have 100 U.S.-born kids. Inside the surrogacy industry that builds mega-families for elites who never set foot in America. 
+
+🔗: on.wsj.com/4pHjVDo
+
+[2025-12-20 20:03:23](https://bsky.app/profile/wsj.com/post/3mag2mc5uub2o)
+
+---
+
+@nikkei.com
+
+文字切り絵で小説の神髄　超精細な技、紙1枚に刻む
+www.nikkei.com/article/DGXZQO...
+
+桜の樹の下には屍体が埋まっている――。切り抜かれた白い文字が黒い紙の上に浮かびます。
+
+切り絵作家の梨々さんは、梶井基次郎が重ねた自然の美と人間の暗い衝動を、紙が生む陰影で表現。
+
+創作の原点は絵本「モチモチの木」です。暗闇に浮かぶ木の輪郭を見た瞬間、胸がざわめきました。
+
+切り絵作家として生きることにしたのは、20歳を前にした出来事がきっかけでした。
+
+[2025-12-20 20:00:51](https://bsky.app/profile/nikkei.com/post/3mag2hqq25e2g)
+
+---
+
+@cnbc.com
+
+McDonald’s CEO Chris Kempczinski has some career guidance to share, provided you have “thick skin.”
+
+[2025-12-20 20:00:27](https://bsky.app/profile/cnbc.com/post/3mag2h2dgdz2y)
+
+---
+
+@apnews.com
+
+A Northern California fisherman may have set state and world records by catching a canary rockfish he says weighed in at 10.25 pounds.
+
+[2025-12-20 20:00:16](https://bsky.app/profile/apnews.com/post/3mag2gpqiz42k)
+
+---
+
+@cnn.com
+
+The divorce and the surrounding speculation have only fueled attacks against Paxton in one of the nation’s most heated Republican primaries as he seeks to unseat Sen. John Cornyn.
+
+[2025-12-20 20:00:13](https://bsky.app/profile/cnn.com/post/3mag2gnewfc2k)
+
+---
+
+@washingtonpost.com
+
+U.S. lawmakers moved to revive privateering, a practice banished since the age of sail, which will allow government-backed ships to target enemies.
+
+[2025-12-20 20:00:13](https://bsky.app/profile/washingtonpost.com/post/3mag2gmiyu22m)
+
+---
+
+@apnews.com
+
+A Pakistani court convicted and sentenced imprisoned former Prime Minister Imran Khan and his wife, Bushra Bibi, to 17 years in prison.
+
+[2025-12-20 19:54:08](https://bsky.app/profile/apnews.com/post/3mag23qemas2r)
+
+---
 
 @japan.reuters.com
 
@@ -67,79 +132,6 @@ https://news.web.nhk/newsweb/na/na-k10015009301000
 Imran Khan and wife sentenced for state gift fraud
 
 [2025-12-20 19:39:04](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mafzatplmh2b)
-
----
-
-@wsj.com
-
-Ten years ago, the WSJ’s retirement columnist, Glenn Ruffenach, retired. He had it all worked out. Then life threw him a curveball. 
-
-“I can’t help but wonder about what might have been.”
-
-🔗: on.wsj.com/4j2WsKn
-
-[2025-12-20 19:37:53](https://bsky.app/profile/wsj.com/post/3mafz6pmmyg2h)
-
----
-
-@npr.org
-
-The three octogenarian nuns broke out of a nursing home to go back to live in their convent, sparking a dispute with their church superior. Both sides have appealed to the Vatican for a resolution.
-
-[2025-12-20 19:37:51](https://bsky.app/profile/npr.org/post/3mafz6mvkzn2b)
-
----
-
-@financialtimes.com
-
- America’s current account woes ft.trib.al/DHePSxi  | opinion
-
-[2025-12-20 19:37:03](https://bsky.app/profile/financialtimes.com/post/3mafz574lgl2k)
-
----
-
-@nikkei.com
-
-【朝ドラ「らんまん」の牧野富太郎博士】
-高知の植物園、インスタに1000字解説
-www.nikkei.com/article/DGXZQO...
-
-日本の植物分類学の父、牧野博士は日本人として初めて国内の新種の植物に学名を付けたことで知られます。
-
-高知県立牧野植物園のインスタグラムは、植物の特徴や牧野博士との関わりなどを長文テキストで伝え、フォロワーは6万超。
-
-2025年に開いた企画展「こんにちは、タネです。」では、植物の「子孫を残す」部分に焦点を当てました。
-
-「未来の牧野博士を生み出したい」。植物ファンに「好奇心の種」を植えようと熱意にあふれています。
-
-[2025-12-20 19:30:40](https://bsky.app/profile/nikkei.com/post/3mafyrsjw5l2x)
-
----
-
-@bloomberg.com
-
-Pulitzer Prize-winning war photographer Lynsey Addario reflects on surviving frontline abductions, documenting conflict in the age of social media, and switching from firefights to family life.
-
-[2025-12-20 19:30:26](https://bsky.app/profile/bloomberg.com/post/3mafyregc362g)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】長崎ヴェルカ 渋谷とのGAME1に勝ち 10連勝 首位キープ《長崎》
-(2025-12-20 19:29) #ニュース
-
-[2025-12-20 19:30:05](https://bsky.app/profile/sokuho.news/post/3mafyqqmggj2v)
-
----
-
-@aljazeera.com
-
-At least 13 people in Gaza, including two-week-old and one-month-old babies, have died from winter weather.
-
-[2025-12-20 19:30:03](https://bsky.app/profile/aljazeera.com/post/3mafyqouj572v)
 
 ---
 
