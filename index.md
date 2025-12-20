@@ -1,9 +1,9 @@
-# [2025-12-21 02:50 updated](2025_12_21.md)
+# [2025-12-21 03:10 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">These are some of the most popular gifts of the year, according to Wirecutter readers. <a href="https://bsky.app/profile/nytimes.com/post/3magqyrzjpk2z" target="_blank">nytimes.com</a> (2025-12-21 02:44:05)</span><span style="padding-right:50px;">⚽ Erling Haaland fires Manchester City to the top of the Premier League by beating West Ham 3-0, while Chelsea fights back to salvage a 2-2 draw at Newcastle ⤵️   u.afp.com/S8Sw <a href="https://bsky.app/profile/en.afp.com/post/3magqw435ev2u" target="_blank">en.afp.com</a> (2025-12-21 02:42:35)</span><span style="padding-right:50px;">A passenger train in Assam, India, hit a herd of elephants, killing seven of them and injuring one more. The accident on Saturday partly derailed the train, according to railway and forest authorities, and no humans were injured. <a href="https://bsky.app/profile/nytimes.com/post/3magqrop7pu2y" target="_blank">nytimes.com</a> (2025-12-21 02:40:06)</span><span style="padding-right:50px;">A Colorado state senator was responsible for the vehicle crash that killed her in November, officials said on Friday. An autopsy released by the local coroner’s office showed that her blood alcohol concentration after she died was more than twice the legal limit. <a href="https://bsky.app/profile/nytimes.com/post/3magqip7s332y" target="_blank">nytimes.com</a> (2025-12-21 02:35:05)</span><span style="padding-right:50px;">"Avatar 3" director James Cameron unpacks "Fire and Ash" spoilers and why it's unlikely you'll see a fourth and fifth movie any time soon. <a href="https://bsky.app/profile/usatoday.com/post/3magqahzgzm25" target="_blank">usatoday.com</a> (2025-12-21 02:30:29)</span>
+<span style="padding-right:50px;">女性の健康課題 国が指針 働く人に企業はどう向き合う？ https://news.web.nhk/newsweb/na/na-k10015009481000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3magsa4obkq2y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 03:06:02)</span><span style="padding-right:50px;">BREAKING: The Coast Guard is seizing a vessel the Trump administration says is sanctioned off the Venezuelan coast in an ongoing operation, U.S. officials say. <a href="https://bsky.app/profile/nbcnews.com/post/3mags7ofpte2q" target="_blank">nbcnews.com</a> (2025-12-21 03:05:49)</span><span style="padding-right:50px;">This is not your average sporting equipment. For loved ones who are constantly pushing themselves to be better, faster or stronger, and also appreciate a luxury experience, get them designer gear to play with. on.wsj.com/4938CP4 <a href="https://bsky.app/profile/wsj.com/post/3mags4zgl6k2h" target="_blank">wsj.com</a> (2025-12-21 03:04:20)</span><span style="padding-right:50px;">Originally a Christian holiday celebrating the birth of Jesus, Christmas has evolved into a global cultural event. <a href="https://bsky.app/profile/apnews.com/post/3magrwnz6vc2k" target="_blank">apnews.com</a> (2025-12-21 03:00:47)</span><span style="padding-right:50px;">It began with a ceramic sombrero chip-and-dip server. It kicked off an annual holiday tradition of tacky presents. <a href="https://bsky.app/profile/usatoday.com/post/3magrvwjwks2w" target="_blank">usatoday.com</a> (2025-12-21 03:00:22)</span>
   </div>
 </div>
 
@@ -32,104 +32,105 @@
 
 ## News Headlines
 
-- Haaland propels Man City to top with double against West Ham
-  - ハーランドが連携したマンチェスター・シティがプレミアリーグ首位
-- Gold and silver hit records in 2025
-  - 2025年、金と銀の価格が記録高
-- Surveillance empire built on US tech exports
-  - 米技術を利用した中国の監視帝国
-- Walmart builds its own workforce to address skilled trades shortage
-  - ワルマートがスキルマネー不足を補うために自社の労働者を増やす
-- Ukraine talks set to resume in Florida
-  - ウクライナ交渉がフロリダで再開
-- Blue Jackets acquire F Mason Marchment from Kraken
-  - ブルージャケット、クレイクンからFマーシャンメントを引き取る
+- Women's Health Issues: Government Sets Guidelines, Companies To Follow?
+  - 本小の安全颜量とエーコンでする
+- U.S. Seizes Vessel Sanctioned by Trump Administration Off Venezuelan Coast
+  - イルサイコンにプロサラトに起使と常でい
+- For the Adventurous and Luxurious, Designer Sports Gear for the Holidays
+  - アュースンでおだいの給丁はプロサラトを拟しに
+- From Christian Holiday to Global Cultural Event: The Evolution of Christmas
+  - コイディストを成したプループュースの給丁はプロサラトを完紦に解きだ
+- US Government Under Trump Abdicating Role as a Reliable Source of Information
+  - イル常にプロサラトを安征にいでプロサラトを不速なだ
+- Recommended Books on Climate for the Holidays
+  - 温义、小またコイディストを要いでは、温义をそれ
+- Lebanon's PM Says South of Litani River Part of Border Plan Almost Complete
+  - ッサインの都にプストをたれに、プシエアコンに安世でい
+- SpaceX Engineer on Historic Spaceflight with Private Citizens
+  - コンゴカトルとプストを轴いだ
 
 
 ----
 
-@nytimes.com
+@nhknewsunofficial.bsky.social
 
-These are some of the most popular gifts of the year, according to Wirecutter readers.
+女性の健康課題 国が指針 働く人に企業はどう向き合う？
+https://news.web.nhk/newsweb/na/na-k10015009481000
 
-[2025-12-21 02:44:05](https://bsky.app/profile/nytimes.com/post/3magqyrzjpk2z)
-
----
-
-@en.afp.com
-
-⚽ Erling Haaland fires Manchester City to the top of the Premier League by beating West Ham 3-0, while Chelsea fights back to salvage a 2-2 draw at Newcastle ⤵️ 
-
-u.afp.com/S8Sw
-
-[2025-12-21 02:42:35](https://bsky.app/profile/en.afp.com/post/3magqw435ev2u)
+[2025-12-21 03:06:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3magsa4obkq2y)
 
 ---
 
-@nytimes.com
+@nbcnews.com
 
-A passenger train in Assam, India, hit a herd of elephants, killing seven of them and injuring one more. The accident on Saturday partly derailed the train, according to railway and forest authorities, and no humans were injured.
+<strong><span style="color: red;">BREAKING:</span> The Coast Guard is seizing a vessel the Trump administration says is sanctioned off the Venezuelan coast in an ongoing operation, U.S. officials say.</strong>
 
-[2025-12-21 02:40:06](https://bsky.app/profile/nytimes.com/post/3magqrop7pu2y)
+[2025-12-21 03:05:49](https://bsky.app/profile/nbcnews.com/post/3mags7ofpte2q)
 
 ---
 
-@nytimes.com
+@wsj.com
 
-A Colorado state senator was responsible for the vehicle crash that killed her in November, officials said on Friday. An autopsy released by the local coroner’s office showed that her blood alcohol concentration after she died was more than twice the legal limit.
+This is not your average sporting equipment. For loved ones who are constantly pushing themselves to be better, faster or stronger, and also appreciate a luxury experience, get them designer gear to play with. on.wsj.com/4938CP4
 
-[2025-12-21 02:35:05](https://bsky.app/profile/nytimes.com/post/3magqip7s332y)
+[2025-12-21 03:04:20](https://bsky.app/profile/wsj.com/post/3mags4zgl6k2h)
+
+---
+
+@apnews.com
+
+Originally a Christian holiday celebrating the birth of Jesus, Christmas has evolved into a global cultural event.
+
+[2025-12-21 03:00:47](https://bsky.app/profile/apnews.com/post/3magrwnz6vc2k)
 
 ---
 
 @usatoday.com
 
-"Avatar 3" director James Cameron unpacks "Fire and Ash" spoilers and why it's unlikely you'll see a fourth and fifth movie any time soon.
+It began with a ceramic sombrero chip-and-dip server. It kicked off an annual holiday tradition of tacky presents.
 
-[2025-12-21 02:30:29](https://bsky.app/profile/usatoday.com/post/3magqahzgzm25)
+[2025-12-21 03:00:22](https://bsky.app/profile/usatoday.com/post/3magrvwjwks2w)
 
 ---
 
-@reuters.com
+@washingtonpost.com
 
-Elon Musk becomes first person worth $700 billion after court ruling on pay package reut.rs/4rYPr1k
+Researchers and activists increasingly fear that under the Trump administration, the U.S. government is abdicating its historic role as a clearinghouse for reliable information.
 
-[2025-12-21 02:30:29](https://bsky.app/profile/reuters.com/post/3magqai6ipp2b)
+
+[2025-12-21 03:00:19](https://bsky.app/profile/washingtonpost.com/post/3magrvtegdp2x)
 
 ---
 
 @bloomberg.com
 
-Would you eat an antelope? A hunt for nilgai in Texas reveals how the appetite for wild meat is reshaping conservation, culture and the business of invasive species in the US. Read more: bloom.bg/4qlcZff
+Looking for a good book to enjoy over the holidays? Today’s newsletter has you covered with eight climate books Bloomberg Green journalists couldn’t put down this year. Plus, we’ve got your weekend listen and read.
 
-📷️: Courtesy King Ranch
-
-[2025-12-21 02:30:22](https://bsky.app/profile/bloomberg.com/post/3magqabatef2h)
+[2025-12-21 03:00:08](https://bsky.app/profile/bloomberg.com/post/3magrvifx6q2e)
 
 ---
 
-@cnn.com
+@aljazeera.com
 
-The Ursid meteor shower, which marks the final celestial event of the year, will peak between Sunday night and early Monday morning.
-https://cnn.it/4pNGaaV
+The PM says the part of the plan on south of the Litani River is 'only days away from completion'.
 
-[2025-12-21 02:30:05](https://bsky.app/profile/cnn.com/post/3magq7r2qpx2x)
-
----
-
-@reuters.com
-
-Haaland propels Man City to top with double against West Ham reut.rs/4j7PfJf
-
-[2025-12-21 02:15:14](https://bsky.app/profile/reuters.com/post/3magpf7fqw22k)
+[2025-12-21 03:00:03](https://bsky.app/profile/aljazeera.com/post/3magrveeud52z)
 
 ---
 
-@reuters.com
+@cbsnews.com
 
-UK's Prince William and son George volunteer at homelessness charity reut.rs/3YJC7jT
+Michaela Benthaus, a German aerospace engineer who suffered a spinal cord injury in a 2018 mountain biking accident, joined a retired SpaceX manager and four entrepreneurs for the up-and-down flight to a point just above the so-called "boundary" of space. 
 
-[2025-12-21 02:10:09](https://bsky.app/profile/reuters.com/post/3magp456yvt2y)
+[2025-12-21 03:00:01](https://bsky.app/profile/cbsnews.com/post/3magrvbx35v2z)
+
+---
+
+@financialtimes.com
+
+The ‘outrageous’ cost of sports tickets ft.trib.al/mISVt5V
+
+[2025-12-21 02:57:00](https://bsky.app/profile/financialtimes.com/post/3magrpvbnfo2k)
 
 ---
 
