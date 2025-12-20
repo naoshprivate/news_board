@@ -1,9 +1,9 @@
-# [2025-12-20 10:50 updated](2025_12_20.md)
+# [2025-12-20 11:10 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">米大リーグ（ＭＬＢ）ドジャースに所属する大谷翔平選手の野球カードが、競売で手数料込みの３００万ドル（約４億７０００万円）で落札された。ＭＬＢ公式サイトが１９日に伝えた。 bit.ly/4arOuIC <a href="https://bsky.app/profile/japan.reuters.com/post/3maf3hbwvtq2q" target="_blank">japan.reuters.com</a> (2025-12-20 10:45:49)</span><span style="padding-right:50px;">US carries out large-scale retaliatory strikes against ISIS in Syria reut.rs/45l7DIK <a href="https://bsky.app/profile/reuters.com/post/3maf35bugmi2s" target="_blank">reuters.com</a> (2025-12-20 10:40:13)</span><span style="padding-right:50px;">Here’s what to know about the dominant version of the flu that’s circulating now. <a href="https://bsky.app/profile/nytimes.com/post/3maf352mxsb2r" target="_blank">nytimes.com</a> (2025-12-20 10:40:06)</span><span style="padding-right:50px;">Kids who are stars in sports and music don’t usually grow up to be stars as adults, a new study found. on.wsj.com/458cxc0 <a href="https://bsky.app/profile/wsj.com/post/3maf2mapbdn2h" target="_blank">wsj.com</a> (2025-12-20 10:30:42)</span><span style="padding-right:50px;">10兆円ファンド支援、東大まさかの「保留」 www.nikkei.com/article/DGXZQO...  注目論文「トップ10%論文」は2015〜24年の10年間で約1万6000本。  京大（約9700本）や東北大（約6600本）を引き離し、国際卓越研究大学の本命候補でした。  相次ぐ不祥事から見えた問題とは。 <a href="https://bsky.app/profile/nikkei.com/post/3maf2m6pnb324" target="_blank">nikkei.com</a> (2025-12-20 10:30:40)</span>
+<span style="padding-right:50px;">Lucknow: Kebabs, biryani and much more in Indian city on Unesco culinary list <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maf4gkqagr2b" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-20 11:03:18)</span><span style="padding-right:50px;">「日本は核不拡散のリーダー」米国務省 “核保有”発言受け https://news.web.nhk/newsweb/na/na-k10015009181000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maf4g63agz24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 11:03:02)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】津山市の養鶏場で鳥インフルエンザの発生が確定 今季1例目 県は殺処分などの作業を開始 封じ込めと風評被害の防止に全力【岡山】 (2025-12-20 10:33:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maf4e26vmj2v" target="_blank">sokuho.news</a> (2025-12-20 11:01:54)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】山林でクマに襲われたか80代男性死亡 宮城・大和町吉田 (2025-12-20 10:50:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maf4dpxuzt2b" target="_blank">sokuho.news</a> (2025-12-20 11:01:43)</span><span style="padding-right:50px;">A historic city celebrating the birthday of a nation. A solar eclipse with a side of world-class cuisine and art. A bucolic wine region without the price-gouging. Consider this list fuel for your 2026 wanderlust. on.wsj.com/48PirBj <a href="https://bsky.app/profile/wsj.com/post/3maf4cxopst2q" target="_blank">wsj.com</a> (2025-12-20 11:01:18)</span>
   </div>
 </div>
 
@@ -34,101 +34,106 @@
 
 Here are six news headlines in English:
 
-1. Shohei Ohtani's Baseball Card Sells for $3 Million at Auction
-2. US Launches Retaliatory Strikes Against ISIS in Syria
-3. New Study Finds Childhood Stars Don't Often Become Adults Stars
-4. Japan's University of Tokyo's Research Funding Support in Jeopardy
-5. SoftBank Races to Meet $22.5 Billion Funding Commitment to OpenAI
-6. US Launches Airstrikes on Syria After Killing of Two US Soldiers
+1. Russian missiles attack port near Ukraine's Odesa, kill seven, officials say
+2. US carries out large-scale retaliatory strikes against ISIS in Syria
+3. Trump administration proposes new Medicare payment cuts for prescription drugs
+4. SoftBank races to fulfill $22.5 billion funding commitment to OpenAI by year-end
+5. Newly released files from Epstein investigation include photos of former President Bill Clinton
+6. Musk wins appeal that restores 2018 Tesla pay deal now worth about $139 billion
 
 ----
 
-@japan.reuters.com
+@bbcnews-world-rss.bsky.social
 
-米大リーグ（ＭＬＢ）ドジャースに所属する大谷翔平選手の野球カードが、競売で手数料込みの３００万ドル（約４億７０００万円）で落札された。ＭＬＢ公式サイトが１９日に伝えた。 bit.ly/4arOuIC
+Lucknow: Kebabs, biryani and much more in Indian city on Unesco culinary list
 
-[2025-12-20 10:45:49](https://bsky.app/profile/japan.reuters.com/post/3maf3hbwvtq2q)
-
----
-
-@reuters.com
-
-US carries out large-scale retaliatory strikes against ISIS in Syria reut.rs/45l7DIK
-
-[2025-12-20 10:40:13](https://bsky.app/profile/reuters.com/post/3maf35bugmi2s)
+[2025-12-20 11:03:18](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maf4gkqagr2b)
 
 ---
 
-@nytimes.com
+@nhknewsunofficial.bsky.social
 
-Here’s what to know about the dominant version of the flu that’s circulating now.
+「日本は核不拡散のリーダー」米国務省 “核保有”発言受け
+https://news.web.nhk/newsweb/na/na-k10015009181000
 
-[2025-12-20 10:40:06](https://bsky.app/profile/nytimes.com/post/3maf352mxsb2r)
+[2025-12-20 11:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maf4g63agz24)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】津山市の養鶏場で鳥インフルエンザの発生が確定 今季1例目 県は殺処分などの作業を開始 封じ込めと風評被害の防止に全力【岡山】
+(2025-12-20 10:33:00) #ニュース
+
+[2025-12-20 11:01:54](https://bsky.app/profile/sokuho.news/post/3maf4e26vmj2v)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】山林でクマに襲われたか80代男性死亡 宮城・大和町吉田
+(2025-12-20 10:50:00) #ニュース
+
+[2025-12-20 11:01:43](https://bsky.app/profile/sokuho.news/post/3maf4dpxuzt2b)
 
 ---
 
 @wsj.com
 
-Kids who are stars in sports and music don’t usually grow up to be stars as adults, a new study found. on.wsj.com/458cxc0
+A historic city celebrating the birthday of a nation. A solar eclipse with a side of world-class cuisine and art. A bucolic wine region without the price-gouging. Consider this list fuel for your 2026 wanderlust. on.wsj.com/48PirBj
 
-[2025-12-20 10:30:42](https://bsky.app/profile/wsj.com/post/3maf2mapbdn2h)
+[2025-12-20 11:01:18](https://bsky.app/profile/wsj.com/post/3maf4cxopst2q)
+
+---
+
+@cnn.com
+
+As investigators work to find a motive behind the mass shooting at Brown University and the slaying of an acclaimed MIT professor, former classmates of the accused killer described him as a brilliant but exceptionally difficult student.
+
+[2025-12-20 11:01:01](https://bsky.app/profile/cnn.com/post/3maf4chsrho2a)
 
 ---
 
 @nikkei.com
 
-10兆円ファンド支援、東大まさかの「保留」
+HPVワクチン無料接種まだ間に合う　10〜20代、3回接種完了は3割
 www.nikkei.com/article/DGXZQO...
+ 
+HPVは子宮頸がんだけでなく肛門がんや中咽頭がんの原因となります。
+ 
+子宮頸がんは毎年1万人がかかり、約3000人が死亡。海外では減少傾向にある子宮頸がんですが、日本は後れをとっています。
 
-注目論文「トップ10%論文」は2015〜24年の10年間で約1万6000本。
+2025年11月 #注目された記事
 
-京大（約9700本）や東北大（約6600本）を引き離し、国際卓越研究大学の本命候補でした。
-
-相次ぐ不祥事から見えた問題とは。
-
-[2025-12-20 10:30:40](https://bsky.app/profile/nikkei.com/post/3maf2m6pnb324)
-
----
-
-@bloomberg.com
-
-The US launched airstrikes on Syria on Friday, according to a US official, fulfilling President Donald Trump’s vow to strike back after the killing of two US soldiers.
-
-[2025-12-20 10:30:30](https://bsky.app/profile/bloomberg.com/post/3maf2lvga3o2z)
-
----
-
-@japan.reuters.com
-
-トランプ米大統領は８月、首都ワシントンで犯罪取り締まり強化の号令をかけた。その現場で、司法省の足元が揺らいでいる。違法な捜索や起訴への詰めの甘さ、担当幹部の不用意な発言。法曹関係者は、小さなほころびが法廷で積み重なり、刑事と民事の双方で「政府の手続きは適正に行われている」とする前提が傷つけられているとみている。 bit.ly/3YHNdG4
-
-[2025-12-20 10:30:29](https://bsky.app/profile/japan.reuters.com/post/3maf2lunzak27)
-
----
-
-@reuters.com
-
-Exclusive: SoftBank races to fulfill $22.5 billion funding commitment to OpenAI by year-end, sources say reut.rs/4qdUJEw
-
-[2025-12-20 10:30:26](https://bsky.app/profile/reuters.com/post/3maf2lrvrxj2y)
+[2025-12-20 11:00:56](https://bsky.app/profile/nikkei.com/post/3maf4ccgqb626)
 
 ---
 
 @usatoday.com
 
-"Tony & Ziva" forever is no longer a thing after Paramount+ says the "NCIS" series will end after Season 1. How the stars handled the cancelation.
+Savannah Louie spoke to USA TODAY about winning Season 49 "Survivor," that uncomfortable jury question, being a villain and her return for Season 50.
 
-[2025-12-20 10:30:17](https://bsky.app/profile/usatoday.com/post/3maf2lj7yym2w)
+[2025-12-20 11:00:51](https://bsky.app/profile/usatoday.com/post/3maf4c6d56o2h)
 
 ---
 
-@washingtonpost.com
+@reuters.com
 
-A Colorado man went to the emergency room with what he called “the worst pain of my life" after eating hot sauce made with peppers measuring over 2 million Scoville heat units.
+Russian missiles attack port near Ukraine's Odesa, kill seven, officials say reut.rs/4j4QeKh
 
-Then the bill came — about two years later.
+[2025-12-20 11:00:48](https://bsky.app/profile/reuters.com/post/3maf4c35au524)
 
-[2025-12-20 10:30:05](https://bsky.app/profile/washingtonpost.com/post/3maf2l5d3me2d)
+---
+
+@japan.reuters.com
+
+米国株式市場は続伸して取引を終えた。ハイテク株が上昇し、ナイキなどの消費関連銘柄の下落を相殺した。 bit.ly/4j4FcV7
+
+[2025-12-20 11:00:35](https://bsky.app/profile/japan.reuters.com/post/3maf4bog7iv2c)
 
 ---
 
