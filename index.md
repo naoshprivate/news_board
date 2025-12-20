@@ -1,9 +1,9 @@
-# [2025-12-20 18:10 updated](2025_12_20.md)
+# [2025-12-20 18:30 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">円相場1ドル=157円台後半 利上げ発表前から約2円 円安進む https://news.web.nhk/newsweb/na/na-k10015009381000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafu7vkquh2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 18:09:02)</span><span style="padding-right:50px;">全国高校駅伝 開会式 男女各58校出場 あす京都で開催 https://news.web.nhk/newsweb/na/na-k10015009371000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafu2laatx2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 18:06:03)</span><span style="padding-right:50px;">It was once a gathering for nerdy researchers. Now it's the center of the tech universe. We went inside the meeting of AI's brightest minds. <a href="https://bsky.app/profile/wsj.com/post/3maftte5qkh2o" target="_blank">wsj.com</a> (2025-12-20 18:02:04)</span><span style="padding-right:50px;">Trump governs with the mindset that “there’s nothing he can’t do. Nothing, zero, nothing,” his chief of staff said recently to Vanity Fair. It shows this week on the walls of the Kennedy Center – or now “The Donald J. Trump and The John F. Kennedy Memorial Center for the Performing Arts." | Analysis <a href="https://bsky.app/profile/cnn.com/post/3maftripcki2c" target="_blank">cnn.com</a> (2025-12-20 18:01:01)</span><span style="padding-right:50px;">ぜんそくや関節リウマチ…慢性炎症の原因タンパク質発見　千葉大学など www.nikkei.com/article/DGXZQO...  発見したタンパク質を標的とした新しい治療薬開発につながる可能性があります。  免疫細胞の１つ「T細胞」は体内に侵入したウイルスなどの異物を排除した後、一部は「記憶T細胞」として炎症が起きている組織にとどまります。  研究チームは、組織にとどまり炎症の原因となる物質を放出する一部の記憶T細胞で、HLFというタンパク質が特異的に発現していることを発見しました。 <a href="https://bsky.app/profile/nikkei.com/post/3maftqtfbju2i" target="_blank">nikkei.com</a> (2025-12-20 18:00:39)</span>
+<span style="padding-right:50px;">🛎️FNNより【独自】です。  【独自】東京23区の多くの避難所が「スフィア基準」満たせず 被災者が尊厳保ち生活できる居住スペースなどの国際基準 (2025-12-20 18:13) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mafuykats327" target="_blank">sokuho.news</a> (2025-12-20 18:22:52)</span><span style="padding-right:50px;">高市首相 中央アジア5か国の首脳と相次ぎ会談 https://news.web.nhk/newsweb/na/na-k10015009361000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafupyo7jp2v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 18:18:03)</span><span style="padding-right:50px;">宮城 大和町の山林で倒れた男性 死亡確認 クマに襲われたか https://news.web.nhk/newsweb/na/na-k10015009221000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafukmzvrd2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 18:15:02)</span><span style="padding-right:50px;">近鉄京都線 特急電車と車衝突 1人死亡 車運転していた人か https://news.web.nhk/newsweb/na/na-k10015009271000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafuf7zqgp2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 18:12:01)</span><span style="padding-right:50px;">円相場1ドル=157円台後半 利上げ発表前から約2円 円安進む https://news.web.nhk/newsweb/na/na-k10015009381000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafu7vkquh2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 18:09:02)</span>
   </div>
 </div>
 
@@ -34,14 +34,52 @@
 
 Here are six important stories with headlines:
 
-1. Japan's Yen Falls to 157 per Dollar After a 2-Euro Rally
-2. Netanyahu Announces October 7 Inquiry Amid Israeli Protests
-3. Elon Musk's $55 Billion Pay Package Reinstated by Delaware Supreme Court
-4. Massive Fire Breaks Out at Tokyo's Garbage Plant, Still Uncontrolled After 12 Hours
-5. China and Thailand Seek to De-escalate Fighting as Cambodia Visits
-6. Pakistan Court Sentences Imran Khan and Wife to 17 Years in Prison in Graft Case
+1. Tokyo's Evacuation Centers Fail to Meet Sphere Standards
+2. Japanese Prime Minister Meets with Central Asian Leaders
+3. Man Dies After Falling in the Woods in Miyagi Prefecture, Possibly Attacked by a Bear
+4. Train Collision in Kintetsu Kyoto Line Leaves One Dead
+5. Elon Musk's $55 Billion Pay Package Restored by Delaware Supreme Court
+6. Seven Elephants Killed in Train Accident in India
 
 ----
+
+@sokuho.news
+
+🛎️FNNより【独自】です。
+
+【独自】東京23区の多くの避難所が「スフィア基準」満たせず 被災者が尊厳保ち生活できる居住スペースなどの国際基準
+(2025-12-20 18:13) #ニュース
+
+[2025-12-20 18:22:52](https://bsky.app/profile/sokuho.news/post/3mafuykats327)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+高市首相 中央アジア5か国の首脳と相次ぎ会談
+https://news.web.nhk/newsweb/na/na-k10015009361000
+
+[2025-12-20 18:18:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafupyo7jp2v)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+宮城 大和町の山林で倒れた男性 死亡確認 クマに襲われたか
+https://news.web.nhk/newsweb/na/na-k10015009221000
+
+[2025-12-20 18:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafukmzvrd2b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+近鉄京都線 特急電車と車衝突 1人死亡 車運転していた人か
+https://news.web.nhk/newsweb/na/na-k10015009271000
+
+[2025-12-20 18:12:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafuf7zqgp2b)
+
+---
 
 @nhknewsunofficial.bsky.social
 
@@ -97,38 +135,6 @@ www.nikkei.com/article/DGXZQO...
 ルビオ米国務長官は１９日の記者会見で日中間の緊張について「以前から存在していた」との認識を示した上で、「日本との強固な同盟関係を継続しつつ、中国と生産的に協力できる方法を見いだせると強く信じている」と語った。 bit.ly/4p6hObc
 
 [2025-12-20 18:00:24](https://bsky.app/profile/japan.reuters.com/post/3maftqeub6y2c)
-
----
-
-@cnbc.com
-
-Eileen Tyrrell moved to New York with little savings and no guaranteed paycheck — and stayed. Here how she makes it work.
-
-[2025-12-20 18:00:12](https://bsky.app/profile/cnbc.com/post/3maftpznwhi24)
-
----
-
-@aljazeera.com
-
-Netanyahu finally announces October 7 inquiry: Why are Israelis furious? https://aje.io/l2jveu
-
-[2025-12-20 18:00:04](https://bsky.app/profile/aljazeera.com/post/3maftpsdrhb27)
-
----
-
-@wsj.com
-
-Steve Witkoff’s unlikely diplomatic ascent was bolstered by two fans: Donald Trump and Vladimir Putin.
-
-[2025-12-20 17:45:27](https://bsky.app/profile/wsj.com/post/3mafsvn4oeh23)
-
----
-
-@reuters.com
-
-An to face Wang in women's title clash at World Tour Finals reut.rs/492oKjP
-
-[2025-12-20 17:35:06](https://bsky.app/profile/reuters.com/post/3mafsd577ox24)
 
 ---
 
