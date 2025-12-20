@@ -1,9 +1,9 @@
-# [2025-12-20 16:50 updated](2025_12_20.md)
+# [2025-12-20 17:10 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">フィギュア “りくりゅう”ペア SPでトップ 全日本選手権 https://news.web.nhk/newsweb/na/na-k10015009351000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafpp363kg2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 16:48:03)</span><span style="padding-right:50px;">フィギュア全日本選手権 アイスダンスRD 吉田 森田がトップに https://news.web.nhk/newsweb/na/na-k10015009311000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafozmrllg2y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 16:36:03)</span><span style="padding-right:50px;">Pakistan court hands Imran Khan, wife 17-year jail terms in another graft case reut.rs/492qo4V <a href="https://bsky.app/profile/reuters.com/post/3mafoxuccwp2y" target="_blank">reuters.com</a> (2025-12-20 16:35:06)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】佐賀バルーナーズ 79対64で横浜BCに勝利 金丸が20得点の活躍【佐賀県】 (2025-12-20 16:20) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mafoqdgfph2z" target="_blank">sokuho.news</a> (2025-12-20 16:30:54)</span><span style="padding-right:50px;">Seven elephants killed in India train accident reut.rs/49lYdz6 <a href="https://bsky.app/profile/reuters.com/post/3mafopgykqm2r" target="_blank">reuters.com</a> (2025-12-20 16:30:24)</span>
+<span style="padding-right:50px;">Parents of addicts face an impossible choice, Elizabeth Bernstein writes: Offer help and risk enabling their child’s behavior, or sever ties and maybe lose them forever. <a href="https://bsky.app/profile/wsj.com/post/3mafqsjt3ey2u" target="_blank">wsj.com</a> (2025-12-20 17:07:55)</span><span style="padding-right:50px;">アサヒGHD勝木社長「防げた攻撃だった」　ランサム被害から2カ月 www.nikkei.com/article/DGXZQO...  2023～25年に500億円を投じて推進したDX。そのさなかでサイバー攻撃を受けました。  リスク診断や模擬攻撃で対策をしてきましたが「我々に見えなかった盲点があった」と振り返りました。 <a href="https://bsky.app/profile/nikkei.com/post/3mafqfuaqse2g" target="_blank">nikkei.com</a> (2025-12-20 17:00:50)</span><span style="padding-right:50px;">米軍は１９日、シリアにある過激派組織「イスラム国」（ＩＳ）の数十カ所の拠点に対し、大規模な空爆を実施した。シリア中部で先週、米兵士ら３人が殺害されたことへの報復。 bit.ly/4qlMu9z <a href="https://bsky.app/profile/japan.reuters.com/post/3mafqf433u72q" target="_blank">japan.reuters.com</a> (2025-12-20 17:00:24)</span><span style="padding-right:50px;">China envoy visits Cambodia seeking to de-escalate fighting with Thailand reut.rs/3Y1UVL9 <a href="https://bsky.app/profile/reuters.com/post/3mafqf2vc6d2x" target="_blank">reuters.com</a> (2025-12-20 17:00:23)</span><span style="padding-right:50px;">A months-long joint investigation by CNN and investigative newsroom Lighthouse Reports has examined the actions of the SAF and traced what happened as its troops recaptured the strategic city of Wad Madani and surrounding areas in Jazira state at the beginning of the year. https://cnn.it/4qb55ox <a href="https://bsky.app/profile/cnn.com/post/3mafqezhdmx2o" target="_blank">cnn.com</a> (2025-12-20 17:00:21)</span>
   </div>
 </div>
 
@@ -32,104 +32,111 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are six important stories with headlines:
 
-1. Pakistan Court Hands Imran Khan, Wife 17-Year Jail Terms in Graft Case
-2. Seven Elephants Killed in India Train Accident
-3. World Bank Approves $700 Million for Pakistan's Economic Stability
-4. Ghana's President Urged to Rally African Leaders Behind Slavery Reparations
-5. Ancient Roman Self-Healing Concrete Process Revealed in Pompeii Excavations
-6. UN's Top Court to Hold Myanmar Genocide Hearings in January
+1. Parents of Addicts Face Impossible Choice: Help or Sever Ties
+2. Japan's Nikkei: Flat 35 Loan Limit Raised to ¥120 Million Amid Housing Price Surge
+3. US Air Strikes Hit ISIS Strongholds in Syria After Soldier Killings
+4. Pakistan Court Hands Imran Khan 17-Year Jail Term in Graft Case
+5. World Bank Approves $700 Million for Pakistan's Economic Stability
+6. Epstein Files: What's Revealed in Newly Released Documents
 
 ----
 
-@nhknewsunofficial.bsky.social
+@wsj.com
 
-フィギュア “りくりゅう”ペア SPでトップ 全日本選手権
-https://news.web.nhk/newsweb/na/na-k10015009351000
+Parents of addicts face an impossible choice, Elizabeth Bernstein writes: Offer help and risk enabling their child’s behavior, or sever ties and maybe lose them forever.
 
-[2025-12-20 16:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafpp363kg2b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-フィギュア全日本選手権 アイスダンスRD 吉田 森田がトップに
-https://news.web.nhk/newsweb/na/na-k10015009311000
-
-[2025-12-20 16:36:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafozmrllg2y)
+[2025-12-20 17:07:55](https://bsky.app/profile/wsj.com/post/3mafqsjt3ey2u)
 
 ---
 
-@reuters.com
+@nikkei.com
 
-Pakistan court hands Imran Khan, wife 17-year jail terms in another graft case reut.rs/492qo4V
+アサヒGHD勝木社長「防げた攻撃だった」　ランサム被害から2カ月
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-20 16:35:06](https://bsky.app/profile/reuters.com/post/3mafoxuccwp2y)
+2023～25年に500億円を投じて推進したDX。そのさなかでサイバー攻撃を受けました。
 
----
+リスク診断や模擬攻撃で対策をしてきましたが「我々に見えなかった盲点があった」と振り返りました。
 
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】佐賀バルーナーズ 79対64で横浜BCに勝利 金丸が20得点の活躍【佐賀県】
-(2025-12-20 16:20) #ニュース
-
-[2025-12-20 16:30:54](https://bsky.app/profile/sokuho.news/post/3mafoqdgfph2z)
-
----
-
-@reuters.com
-
-Seven elephants killed in India train accident reut.rs/49lYdz6
-
-[2025-12-20 16:30:24](https://bsky.app/profile/reuters.com/post/3mafopgykqm2r)
+[2025-12-20 17:00:50](https://bsky.app/profile/nikkei.com/post/3mafqfuaqse2g)
 
 ---
 
 @japan.reuters.com
 
-米司法省は１９日、性的虐待罪で起訴された後に死亡した富豪ジェフリー・エプスタイン氏に関する資料を公開した。開示は一部にとどまり、多くが黒塗りされている。１００ページ以上が黒塗りされた資料もある。同省は残る資料についても、公開に向けた精査を行っているとした。 bit.ly/4aqppxR
+米軍は１９日、シリアにある過激派組織「イスラム国」（ＩＳ）の数十カ所の拠点に対し、大規模な空爆を実施した。シリア中部で先週、米兵士ら３人が殺害されたことへの報復。 bit.ly/4qlMu9z
 
-[2025-12-20 16:30:19](https://bsky.app/profile/japan.reuters.com/post/3mafopcqdt42u)
+[2025-12-20 17:00:24](https://bsky.app/profile/japan.reuters.com/post/3mafqf433u72q)
+
+---
+
+@reuters.com
+
+China envoy visits Cambodia seeking to de-escalate fighting with Thailand reut.rs/3Y1UVL9
+
+[2025-12-20 17:00:23](https://bsky.app/profile/reuters.com/post/3mafqf2vc6d2x)
+
+---
+
+@cnn.com
+
+A months-long joint investigation by CNN and investigative newsroom Lighthouse Reports has examined the actions of the SAF and traced what happened as its troops recaptured the strategic city of Wad Madani and surrounding areas in Jazira state at the beginning of the year.
+https://cnn.it/4qb55ox
+
+[2025-12-20 17:00:21](https://bsky.app/profile/cnn.com/post/3mafqezhdmx2o)
+
+---
+
+@bloomberg.com
+
+A yearlong campaign by the far-right Alternative for Germany party to court Donald Trump’s MAGA movement is beginning to bear fruit.
+
+[2025-12-20 17:00:09](https://bsky.app/profile/bloomberg.com/post/3mafqenucrh2w)
 
 ---
 
 @aljazeera.com
 
-Police fill the streets of Dhaka ahead of Sharif Osman Hadi's funeral at Bangladesh's parliament house.
+US pushes for ceasefire in Sudan’s civil war as Kordofan violence escalates https://aje.io/f300ad
 
-[2025-12-20 16:30:05](https://bsky.app/profile/aljazeera.com/post/3mafoov4aqi2i)
+[2025-12-20 17:00:04](https://bsky.app/profile/aljazeera.com/post/3mafqejgaqe2v)
 
 ---
 
-@bbcnews-world-rss.bsky.social
+@nhknewsunofficial.bsky.social
 
-Australian state to ban intifada chants after Bondi shooting
+渡辺謙さんのカフェ閉店へ「思いつないでほしい」 宮城 気仙沼
+https://news.web.nhk/newsweb/na/na-k10015009331000
 
-[2025-12-20 16:28:24](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3mafolvyln426)
+[2025-12-20 17:00:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafqeiizkg24)
 
 ---
 
 @wsj.com
 
-Fatigue, joint pain, rashes, brain fog or tingling in the hands and feet can seem like normal signs of aging—but they may also point to an autoimmune disease. 
+Ted Sarandos is already an entertainment power broker: “Half the town wants to do business with him, and the other half wants an invite just to hang.”
 
-🔗: on.wsj.com/4aVx5rX
-
-[2025-12-20 16:25:52](https://bsky.app/profile/wsj.com/post/3mafohdx5uu2c)
+[2025-12-20 16:51:06](https://bsky.app/profile/wsj.com/post/3mafpui6jut2h)
 
 ---
 
-@sokuho.news
+@nikkei.com
 
-🔔ANNより【速報】です。
+【日経特報】
+フラット35の限度額、8000万→1億2000万円に　住宅価格高騰に対応
+www.nikkei.com/article/DGXZQO...
 
-【速報】廃棄物処理場で火事 出火から12時間経過も消火活動続く 東京・江東区
-(16:24) #ニュース
+フラット35は最長35年の全期間固定金利の公的住宅ローン。
 
-[2025-12-20 16:25:22](https://bsky.app/profile/sokuho.news/post/3mafoghj2xd2b)
+限度額は2005年から変わっておらず、都市部を中心とする住宅価格の上昇に追いつけなくなっていました。
+
+日銀が利上げを進めているなか、政府は固定金利型のニーズが高まることも踏まえ、制度を使いやすくします。
+
+#ニュース
+
+[2025-12-20 16:49:34](https://bsky.app/profile/nikkei.com/post/3mafprppznu2c)
 
 ---
 
