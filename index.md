@@ -1,9 +1,9 @@
-# [2025-12-20 14:50 updated](2025_12_20.md)
+# [2025-12-20 15:10 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">England 106-2, need 329 runs for victory in third Ashes test reut.rs/4qk2qJt <a href="https://bsky.app/profile/reuters.com/post/3mafikcqefr2i" target="_blank">reuters.com</a> (2025-12-20 14:40:09)</span><span style="padding-right:50px;">この写真の場所、特定できますか？ SNS投稿ですぐに居場所が… https://news.web.nhk/newsweb/na/na-k10015008191000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafiieipem2s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 14:39:02)</span><span style="padding-right:50px;"> The case for denial ft.trib.al/ZK9nBFT  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3mafib3injt2f" target="_blank">financialtimes.com</a> (2025-12-20 14:35:00)</span><span style="padding-right:50px;"> Here comes the sun: light amid the UK gloom ft.trib.al/VmG4i9o  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3mafib3jh7e2c" target="_blank">financialtimes.com</a> (2025-12-20 14:35:00)</span><span style="padding-right:50px;"> What wines are worth cellaring? ft.trib.al/9wM18ji  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3mafib3hz5w2k" target="_blank">financialtimes.com</a> (2025-12-20 14:35:00)</span>
+<span style="padding-right:50px;">Google warns staff with US visas against international travel due to embassy delays, Business Insider says reut.rs/4pGXT3K <a href="https://bsky.app/profile/reuters.com/post/3mafjwxbga424" target="_blank">reuters.com</a> (2025-12-20 15:05:07)</span><span style="padding-right:50px;">For Australia’s tiny Jewish population, Bondi Beach was a refuge within a vast country that offered sanctuary to families fleeing a seething hate that killed six million of their kind within the lifetime of some of their oldest members. <a href="https://bsky.app/profile/cnn.com/post/3mafjpmwciu2u" target="_blank">cnn.com</a> (2025-12-20 15:01:01)</span><span style="padding-right:50px;">【高校野球の７イニング制検討】 「真夏の甲子園開催」はなぜ変えられない？ www.nikkei.com/article/DGXZQO...  高野連はテレビ局から放映権料を徴収していません。  24年度の高野連の収入に当たる経常収益約16億円のうち、甲子園の入場料収入は約14億円を占めました。  大会に出場する学校への宿泊費や交通費などの支援金はこれが原資となります。  一方、高野連は甲子園を無料で使用。多額の球場使用料が発生することになるドーム球場などへの移行は、大会運営の屋台骨を揺るがしかねません。 <a href="https://bsky.app/profile/nikkei.com/post/3mafjp22jxh2n" target="_blank">nikkei.com</a> (2025-12-20 15:00:42)</span><span style="padding-right:50px;">書籍、5年で1割値上がり　雑誌は2割高 www.nikkei.com/article/DGXZQO...  文庫は新刊のみの試算で801円と5年で101円上昇。手軽さが魅力でしたが、最近は1000円超えも珍しくありません。  印刷用紙代・物流費の上昇や販売部数の減少が響きます。  2025年11月 #注目された記事 <a href="https://bsky.app/profile/nikkei.com/post/3mafjoyqfgt2m" target="_blank">nikkei.com</a> (2025-12-20 15:00:40)</span><span style="padding-right:50px;">Oilers place newly-acquired G Tristan Jarry on IR reut.rs/3Y1jw2G <a href="https://bsky.app/profile/reuters.com/post/3mafjopeqvp2b" target="_blank">reuters.com</a> (2025-12-20 15:00:30)</span>
   </div>
 </div>
 
@@ -32,95 +32,113 @@
 
 ## News Headlines
 
-Here are six selected news stories with headlines in English:
+Here are six headlines in English:
 
-1. England Stalls in Third Ashes Test, Need 329 Runs for Victory
-2. US FDA Approves Six New Nicotine Pouch Products
-3. New Antibiotic for Urinary Tract Infections Approved in Japan
-4. US to Drop Childhood Vaccine Recommendations Amid Shift to Denmark Model
-5. Seven & i Holdings Announces CEO Joe DePinto's Retirement
-6. India's Modi Government Pushes Through Economic Reforms in Final Parliamentary Session
+1. Google warns staff with US visas against international travel due to embassy delays
+2. Universal Studios in early planning stages for theme park in Saudi Arabia
+3. USDA confirms bird flu case in Wisconsin dairy herd as new wildlife spillover
+4. The Justice Department releases thousands of new photos and records on Jeffrey Epstein, but many pages are redacted
+5. New antiviral drug for riketsiosis approved in Japan, the first oral medication in decades
+6. US FDA grants market authorization to six on! PLUS nicotine pouch products
 
 ----
 
 @reuters.com
 
-England 106-2, need 329 runs for victory in third Ashes test reut.rs/4qk2qJt
+Google warns staff with US visas against international travel due to embassy delays, Business Insider says reut.rs/4pGXT3K
 
-[2025-12-20 14:40:09](https://bsky.app/profile/reuters.com/post/3mafikcqefr2i)
-
----
-
-@nhknewsunofficial.bsky.social
-
-この写真の場所、特定できますか？ SNS投稿ですぐに居場所が…
-https://news.web.nhk/newsweb/na/na-k10015008191000
-
-[2025-12-20 14:39:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafiieipem2s)
+[2025-12-20 15:05:07](https://bsky.app/profile/reuters.com/post/3mafjwxbga424)
 
 ---
 
-@financialtimes.com
+@cnn.com
 
- The case for denial ft.trib.al/ZK9nBFT  | opinion
+For Australia’s tiny Jewish population, Bondi Beach was a refuge within a vast country that offered sanctuary to families fleeing a seething hate that killed six million of their kind within the lifetime of some of their oldest members.
 
-[2025-12-20 14:35:00](https://bsky.app/profile/financialtimes.com/post/3mafib3injt2f)
-
----
-
-@financialtimes.com
-
- Here comes the sun: light amid the UK gloom ft.trib.al/VmG4i9o  | opinion
-
-[2025-12-20 14:35:00](https://bsky.app/profile/financialtimes.com/post/3mafib3jh7e2c)
+[2025-12-20 15:01:01](https://bsky.app/profile/cnn.com/post/3mafjpmwciu2u)
 
 ---
 
-@financialtimes.com
+@nikkei.com
 
- What wines are worth cellaring? ft.trib.al/9wM18ji  | opinion
+【高校野球の７イニング制検討】
+「真夏の甲子園開催」はなぜ変えられない？
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-20 14:35:00](https://bsky.app/profile/financialtimes.com/post/3mafib3hz5w2k)
+高野連はテレビ局から放映権料を徴収していません。
 
----
+24年度の高野連の収入に当たる経常収益約16億円のうち、甲子園の入場料収入は約14億円を占めました。
 
-@financialtimes.com
+大会に出場する学校への宿泊費や交通費などの支援金はこれが原資となります。
 
- Year in a word 2025 ft.trib.al/Y6YWygp  | opinion
+一方、高野連は甲子園を無料で使用。多額の球場使用料が発生することになるドーム球場などへの移行は、大会運営の屋台骨を揺るがしかねません。
 
-[2025-12-20 14:34:59](https://bsky.app/profile/financialtimes.com/post/3mafib2yprd2f)
-
----
-
-@financialtimes.com
-
- Leather tabards. Pork scratchings. Flaming desserts — Jay Rayner reviews Rosi, London ft.trib.al/Ql0N48u  | opinion
-
-[2025-12-20 14:34:58](https://bsky.app/profile/financialtimes.com/post/3mafib2bbnb25)
+[2025-12-20 15:00:42](https://bsky.app/profile/nikkei.com/post/3mafjp22jxh2n)
 
 ---
 
-@japan.reuters.com
+@nikkei.com
 
-米電気自動車（ＥＶ）大手テスラが２０１８年に承認したイーロン・マスク最高経営責任者（ＣＥＯ）の巨額報酬パッケージについて、デラウェア州の最高裁は１９日、報酬案を無効とした下級審の判断を覆した。 bit.ly/4j8ITJE
+書籍、5年で1割値上がり　雑誌は2割高
+www.nikkei.com/article/DGXZQO...
 
-[2025-12-20 14:32:35](https://bsky.app/profile/japan.reuters.com/post/3mafi4rlqwk2c)
+文庫は新刊のみの試算で801円と5年で101円上昇。手軽さが魅力でしたが、最近は1000円超えも珍しくありません。
+
+印刷用紙代・物流費の上昇や販売部数の減少が響きます。
+
+2025年11月 #注目された記事
+
+[2025-12-20 15:00:40](https://bsky.app/profile/nikkei.com/post/3mafjoyqfgt2m)
 
 ---
 
-@financialtimes.com
+@reuters.com
 
- Year in a word: Tradwife ft.trib.al/xSsglYt  | opinion
+Oilers place newly-acquired G Tristan Jarry on IR reut.rs/3Y1jw2G
 
-[2025-12-20 14:31:21](https://bsky.app/profile/financialtimes.com/post/3mafi2kukna2w)
+[2025-12-20 15:00:30](https://bsky.app/profile/reuters.com/post/3mafjopeqvp2b)
 
 ---
 
-@financialtimes.com
+@bloomberg.com
 
- From the Grinch to the Christ Child — my top five Christmas heroes ft.trib.al/SyLc701  | opinion
+Follow Bloomberg India on WhatsApp for exclusive content and analysis on what billionaires, businesses and markets are doing. whatsapp.com/channel/0029...
 
-[2025-12-20 14:31:20](https://bsky.app/profile/financialtimes.com/post/3mafi2khmye2c)
+[2025-12-20 15:00:23](https://bsky.app/profile/bloomberg.com/post/3mafjohut6523)
+
+---
+
+@washingtonpost.com
+
+In 2023, the Education Department launched investigations into a Texas school district after several alleged incidents of racial bullying, and an investigator was planning to visit.
+
+Then the 2024 presidential election happened — and the visit didn’t.
+
+[2025-12-20 15:00:10](https://bsky.app/profile/washingtonpost.com/post/3mafjo3mjou2y)
+
+---
+
+@cbsnews.com
+
+The last of two inmates who had been on the run since escaping from a jail in the southern Louisiana city of Opelousas earlier this month has been caught, officials said Friday.
+
+[2025-12-20 15:00:01](https://bsky.app/profile/cbsnews.com/post/3mafjntowff2p)
+
+---
+
+@wsj.com
+
+The Justice Department has released files related to the government’s investigation of Jeffrey Epstein, but lawmakers said the latest disclosure fell short of what they demanded.
+
+[2025-12-20 14:53:43](https://bsky.app/profile/wsj.com/post/3mafjclftbb2h)
+
+---
+
+@wsj.com
+
+Twenty-five years ago, two promising physicists graduated from a prestigious science university in Lisbon. This week, one gunned the other down after firing on a classroom of university students, authorities say.
+
+[2025-12-20 14:52:11](https://bsky.app/profile/wsj.com/post/3mafj7t3yjg2r)
 
 ---
 
