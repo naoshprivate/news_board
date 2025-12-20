@@ -1,9 +1,9 @@
-# [2025-12-20 13:50 updated](2025_12_20.md)
+# [2025-12-20 14:10 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">U.S. to drop childhood vaccine recommendations as it looks to Denmark, Washington Post reports reut.rs/4qjrQqn <a href="https://bsky.app/profile/reuters.com/post/3maff72pocw2i" target="_blank">reuters.com</a> (2025-12-20 13:40:10)</span><span style="padding-right:50px;">幸せ感じる脳の仕組み　カギは不安抑制 www.nikkei.com/article/DGXZQO...  脳の奥深くに幸せをつかさどる部位を見つけた――  理化学研究所の研究成果が注目を集めました。  安全に長生きできるのに幸福度の低い日本。  「幸福とは何か」という問いに脳科学が答えを示し始めました。 <a href="https://bsky.app/profile/nikkei.com/post/3mafenzp7ge2y" target="_blank">nikkei.com</a> (2025-12-20 13:30:39)</span><span style="padding-right:50px;">セブン＆アイ・ホールディングスは２０日、北米のコンビニエンスストア事業会社、セブン―イレブン・インク（ＳＥＩ）のジョセフ・マイケル・デピント最高経営責任者（ＣＥＯ）が１２月３１日付（米国時間）で退任すると発表した。 bit.ly/3L6SdAW <a href="https://bsky.app/profile/japan.reuters.com/post/3mafensxxrw2f" target="_blank">japan.reuters.com</a> (2025-12-20 13:30:32)</span><span style="padding-right:50px;">Meta's Dina Powell McCormick quits board, may stay on as adviser reut.rs/4s5fWCb <a href="https://bsky.app/profile/reuters.com/post/3mafenrpzew2x" target="_blank">reuters.com</a> (2025-12-20 13:30:30)</span><span style="padding-right:50px;">India's Prime Minister Narendra Modi’s government pushed through far-reaching policy reforms in the final parliamentary session of the year, seeking to bolster the economy in the face of trade headwinds <a href="https://bsky.app/profile/bloomberg.com/post/3mafend3wwz2a" target="_blank">bloomberg.com</a> (2025-12-20 13:30:15)</span>
+<span style="padding-right:50px;"> SpyGPT will shake James Bond’s world ft.trib.al/JZt2EfV  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3mafglfxhli2k" target="_blank">financialtimes.com</a> (2025-12-20 14:04:59)</span><span style="padding-right:50px;"> Elliott’s bookshop gamble is turning into a page-turner ft.trib.al/jaMQxwm  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3mafglfi4qu2c" target="_blank">financialtimes.com</a> (2025-12-20 14:04:58)</span><span style="padding-right:50px;"> Have we reached a tipping point on public debt? ft.trib.al/mG4pyrF  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3mafgevbywr2b" target="_blank">financialtimes.com</a> (2025-12-20 14:01:20)</span><span style="padding-right:50px;"> Pitting Nimbys against Yimbys is a bad idea ft.trib.al/8eV9I4w  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3mafgevbbpa2q" target="_blank">financialtimes.com</a> (2025-12-20 14:01:20)</span><span style="padding-right:50px;">Torrential downpours and deadly flooding in the tropical, disaster-prone Philippines are not new. But revelations in recent months that politicians, officials and contractors had looted billions of dollars from the nationwide program supposed to mitigate their effects have roiled the country. <a href="https://bsky.app/profile/cnn.com/post/3mafgednyay23" target="_blank">cnn.com</a> (2025-12-20 14:01:01)</span>
   </div>
 </div>
 
@@ -32,106 +32,107 @@
 
 ## News Headlines
 
-Here are six important news stories with headlines in English:
+Here are six important stories with headlines in English:
 
-1. US to Drop Childhood Vaccine Recommendations as it Looks to Denmark
-2. Japan's Happiness Formula: Researchers Discover Brain Region Linked to Feelings of Joy
-3. Meta's Dina Powell McCormick Quits Board, May Stay on as Adviser
-4. US Drops Deportation Order Against Chinese Dissident, Lawyer Says
-5. Japan's Coffee Culture Meets Omakase: A New Coffee Experience
-6. US Drops Childhood Vaccine Recommendations as it Looks to Denmark
+1. US FDA Grants Market Authorization to Six On! PLUS Nicotine Pouch Products
+2. Justice Department Releases Thousands of Jeffrey Epstein Documents, but Many Remain Redacted
+3. US Drops Childhood Vaccine Recommendations, Citing Denmark's Approach
+4. Retirement Rule Update: Safe Withdrawal Rate Rises to 4.7% Annually
+5. US Justice Department Attorney Argues Trump's Capitol Rally Speech Was Part of National Interest
+6. Meta's Dina Powell McCormick Quits Board, May Stay on as Adviser
 
 ----
 
+@financialtimes.com
+
+ SpyGPT will shake James Bond’s world ft.trib.al/JZt2EfV  | opinion
+
+[2025-12-20 14:04:59](https://bsky.app/profile/financialtimes.com/post/3mafglfxhli2k)
+
+---
+
+@financialtimes.com
+
+ Elliott’s bookshop gamble is turning into a page-turner ft.trib.al/jaMQxwm  | opinion
+
+[2025-12-20 14:04:58](https://bsky.app/profile/financialtimes.com/post/3mafglfi4qu2c)
+
+---
+
+@financialtimes.com
+
+ Have we reached a tipping point on public debt? ft.trib.al/mG4pyrF  | opinion
+
+[2025-12-20 14:01:20](https://bsky.app/profile/financialtimes.com/post/3mafgevbywr2b)
+
+---
+
+@financialtimes.com
+
+ Pitting Nimbys against Yimbys is a bad idea ft.trib.al/8eV9I4w  | opinion
+
+[2025-12-20 14:01:20](https://bsky.app/profile/financialtimes.com/post/3mafgevbbpa2q)
+
+---
+
+@cnn.com
+
+Torrential downpours and deadly flooding in the tropical, disaster-prone Philippines are not new. But revelations in recent months that politicians, officials and contractors had looted billions of dollars from the nationwide program supposed to mitigate their effects have roiled the country.
+
+[2025-12-20 14:01:01](https://bsky.app/profile/cnn.com/post/3mafgednyay23)
+
+---
+
+@cbsnews.com
+
+The Justice Department released thousands of new photos and records on Jeffrey Epstein on Friday, but at least 550 pages in the documents are fully redacted.
+
+[2025-12-20 14:01:01](https://bsky.app/profile/cbsnews.com/post/3mafgedl3xa2q)
+
+---
+
 @reuters.com
 
-U.S. to drop childhood vaccine recommendations as it looks to Denmark, Washington Post reports reut.rs/4qjrQqn
+US FDA grants market authorization to six on! PLUS nicotine pouch products reut.rs/4pNLCL7
 
-[2025-12-20 13:40:10](https://bsky.app/profile/reuters.com/post/3maff72pocw2i)
+[2025-12-20 14:01:00](https://bsky.app/profile/reuters.com/post/3mafgecwlxn2p)
 
 ---
 
 @nikkei.com
 
-幸せ感じる脳の仕組み　カギは不安抑制
+りん病の新たな抗菌薬、数十年ぶりに承認　世界初の飲み薬
 www.nikkei.com/article/DGXZQO...
 
-脳の奥深くに幸せをつかさどる部位を見つけた――
+世界で年8200万人以上が新たに感染。排尿時の痛みやかゆみなどが起こり、放置すると不妊につながることも。
 
-理化学研究所の研究成果が注目を集めました。
+既存の薬に耐性を持つ菌が広がり、世界的な課題となっていました。
 
-安全に長生きできるのに幸福度の低い日本。
+採算性の問題で大手企業が新薬から撤退。非営利団体に各国が出資し、公共のために開発する取り組みが進んでいます。
 
-「幸福とは何か」という問いに脳科学が答えを示し始めました。
-
-[2025-12-20 13:30:39](https://bsky.app/profile/nikkei.com/post/3mafenzp7ge2y)
-
----
-
-@japan.reuters.com
-
-セブン＆アイ・ホールディングスは２０日、北米のコンビニエンスストア事業会社、セブン―イレブン・インク（ＳＥＩ）のジョセフ・マイケル・デピント最高経営責任者（ＣＥＯ）が１２月３１日付（米国時間）で退任すると発表した。 bit.ly/3L6SdAW
-
-[2025-12-20 13:30:32](https://bsky.app/profile/japan.reuters.com/post/3mafensxxrw2f)
-
----
-
-@reuters.com
-
-Meta's Dina Powell McCormick quits board, may stay on as adviser reut.rs/4s5fWCb
-
-[2025-12-20 13:30:30](https://bsky.app/profile/reuters.com/post/3mafenrpzew2x)
-
----
-
-@bloomberg.com
-
-India's Prime Minister Narendra Modi’s government pushed through far-reaching policy reforms in the final parliamentary session of the year, seeking to bolster the economy in the face of trade headwinds
-
-[2025-12-20 13:30:15](https://bsky.app/profile/bloomberg.com/post/3mafend3wwz2a)
-
----
-
-@aljazeera.com
-
-New sanctions come days after the Trump administration imposed a blockade on Venezuela’s oil tankers.
-
-[2025-12-20 13:30:04](https://bsky.app/profile/aljazeera.com/post/3mafemyd6pw2d)
-
----
-
-@npr.org
-
-The Trump administration launched military strikes in Syria to "eliminate" Islamic State group fighters in retaliation for an attack that killed two U.S. troops and an American interpreter a week ago. n.pr/3LcRVZt
-
-[2025-12-20 13:26:27](https://bsky.app/profile/npr.org/post/3mafegji53w24)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】京都・精華町で列車事故 衝突した車から出火 近鉄京都線狛田・新祝園駅間の踏切
-(2025-12-20 13:24) #ニュース
-
-[2025-12-20 13:24:17](https://bsky.app/profile/sokuho.news/post/3mafecnci2d2e)
+[2025-12-20 14:00:52](https://bsky.app/profile/nikkei.com/post/3mafge2itau2f)
 
 ---
 
 @wsj.com
 
-The latest travel scourge: Miracle flights full of passengers touched by "Jetway Jesus." on.wsj.com/4qmo3sx
+Influencers have described propranolol as a magic pill that eases nervous jitters in all kinds of settings.
 
-[2025-12-20 13:20:52](https://bsky.app/profile/wsj.com/post/3mafe4jyx2j2o)
+“It almost seems like a cheat code, if you will.”
+
+Prescriptions are on the rise, especially for young women. 🔗 on.wsj.com/3MuZESZ
+
+[2025-12-20 14:00:47](https://bsky.app/profile/wsj.com/post/3mafgdvsfhe2e)
 
 ---
 
-@reuters.com
+@cnbc.com
 
-Aktis Oncology files for US IPO as biotech listings rebound reut.rs/4p3Xszg
+"Start communicating like someone who deserves to be taken seriously and others will follow suit," says executive coach Melody Wilding, author of "Managing Up."
 
-[2025-12-20 13:20:09](https://bsky.app/profile/reuters.com/post/3mafe3b4q4e2y)
+The ability to package your ideas and communicate decisively changes how people perceive and respond to you in every setting.
+
+[2025-12-20 14:00:38](https://bsky.app/profile/cnbc.com/post/3mafgdnmzoz24)
 
 ---
 
