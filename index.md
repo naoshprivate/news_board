@@ -1,9 +1,9 @@
-# [2025-12-20 22:10 updated](2025_12_20.md)
+# [2025-12-20 22:30 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Stellantis CEO says investments at risk in Europe after EU auto package reut.rs/49njA36 <a href="https://bsky.app/profile/reuters.com/post/3magbfznpic2r" target="_blank">reuters.com</a> (2025-12-20 22:05:09)</span><span style="padding-right:50px;">🔔防災科研より【強震モニタ】動画です。  震源:根室半島南東沖, 深さ:10km マグニチュード:5.0, 最大震度:2 📍https://www.google.com/maps?q=42.7,146.0&ll=42.7,146.0&z=7&t=h 地震発生日時:2025-12-20 21:58頃 (10倍速▶210s→21s) #地震 <a href="https://bsky.app/profile/sokuho.news/post/3magbd7bddb2y" target="_blank">sokuho.news</a> (2025-12-20 22:03:34)</span><span style="padding-right:50px;">🔔気象庁より【地震速報】です。  21時58分頃、北海道で最大震度2の地震を観測しました。 震源:根室半島南東沖, 深さ:10km, 規模:M5.0 この地震による津波の心配はありません。 (2025-12-20 22:02:54) #地震 https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/20/2025-12-20-21-59-02.html?xlarge_image=1 <a href="https://bsky.app/profile/sokuho.news/post/3magbbzunuz2e" target="_blank">sokuho.news</a> (2025-12-20 22:02:54)</span><span style="padding-right:50px;">WSJ readers share their opinions about the latest assisted-driving technologies that are designed to make driving safer on.wsj.com/3MUCndf <a href="https://bsky.app/profile/wsj.com/post/3magba4od6n2g" target="_blank">wsj.com</a> (2025-12-20 22:01:51)</span><span style="padding-right:50px;">Morocco's Hakimi ready to play at Cup of Nations after injury reut.rs/498MfYw <a href="https://bsky.app/profile/reuters.com/post/3magb6emokk23" target="_blank">reuters.com</a> (2025-12-20 22:00:52)</span>
+<span style="padding-right:50px;">Ford Motor is recalling nearly 273,000 vehicles due to an issue with the parking function that could cause cars to roll away, increasing the risk of a crash, according to the National Highway Traffic Safety Administration.  <a href="https://bsky.app/profile/cbsnews.com/post/3magccfexbj2p" target="_blank">cbsnews.com</a> (2025-12-20 22:21:01)</span><span style="padding-right:50px;">Von Allmen denies Odermatt in Val Gardena classic downhill reut.rs/4s8FYVa <a href="https://bsky.app/profile/reuters.com/post/3magbxxukwo2r" target="_blank">reuters.com</a> (2025-12-20 22:15:11)</span><span style="padding-right:50px;">JAXA H3ロケット8号機打ち上げ中止 原因は作業手順の変更 https://news.web.nhk/newsweb/na/na-k10015009401000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3magbxrh6hi2x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 22:15:02)</span><span style="padding-right:50px;">Clinton in Epstein files, Jake Paul and America hits IS reut.rs/4p0UziL <a href="https://bsky.app/profile/reuters.com/post/3magbpdzpk72b" target="_blank">reuters.com</a> (2025-12-20 22:10:22)</span><span style="padding-right:50px;">Stellantis CEO says investments at risk in Europe after EU auto package reut.rs/49njA36 <a href="https://bsky.app/profile/reuters.com/post/3magbfznpic2r" target="_blank">reuters.com</a> (2025-12-20 22:05:09)</span>
   </div>
 </div>
 
@@ -34,14 +34,47 @@
 
 Here are six important stories with headlines in English:
 
-1. EU Auto Package Sparks Investment Risk for Stellantis CEO
-2. Magnitude 5.0 Earthquake Hits Off Hokkaido Coast
-3. DraftKings Enters Prediction Markets Business with New Technology
-4. Italy's Supreme Court Rules in Favor of TIM in 1998 Concession Fee Case
-5. Airlines and Roads Expect Heavy Holiday Travel
-6. Albert Brooks Mourns Loss of Friendship with Director Rob Reiner
+1. Ford Recalls 273,000 Vehicles Due to Parking Function Issue
+2. Magnitude 5.0 Earthquake Hits Off Japan's Hokkaido Coast
+3. Stellantis CEO Warns of Investment Risks in Europe Amid Auto Package Dispute
+4. DraftKings Enters Prediction Markets Business with New Technology
+5. Italy's Supreme Court Rules in Favor of TIM in 1998 Concession Fee Case
+6. Holiday Travel Expected to Reach Record Highs in the US This Year
 
 ----
+
+@cbsnews.com
+
+Ford Motor is recalling nearly 273,000 vehicles due to an issue with the parking function that could cause cars to roll away, increasing the risk of a crash, according to the National Highway Traffic Safety Administration. 
+
+[2025-12-20 22:21:01](https://bsky.app/profile/cbsnews.com/post/3magccfexbj2p)
+
+---
+
+@reuters.com
+
+Von Allmen denies Odermatt in Val Gardena classic downhill reut.rs/4s8FYVa
+
+[2025-12-20 22:15:11](https://bsky.app/profile/reuters.com/post/3magbxxukwo2r)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+JAXA H3ロケット8号機打ち上げ中止 原因は作業手順の変更
+https://news.web.nhk/newsweb/na/na-k10015009401000
+
+[2025-12-20 22:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3magbxrh6hi2x)
+
+---
+
+@reuters.com
+
+Clinton in Epstein files, Jake Paul and America hits IS reut.rs/4p0UziL
+
+[2025-12-20 22:10:22](https://bsky.app/profile/reuters.com/post/3magbpdzpk72b)
+
+---
 
 @reuters.com
 
@@ -109,50 +142,6 @@ www.nikkei.com/article/DGXZQO...
 しかし、積極的な人材採用を進める裏で役員・幹部クラスを含めた社員の退職が相次いでいました。
 
 [2025-12-20 22:00:40](https://bsky.app/profile/nikkei.com/post/3magb5zfrdm22)
-
----
-
-@cnbc.com
-
-Known as "Health with Hunter" on social media, this nutrition and health coach recommends this healthy breakfast to feel your best.
-
-“I’ll say six out of every seven days a week, I have a yogurt bowl just because I know it’s balanced,” he tells CNBC Make It.
-
-[2025-12-20 22:00:35](https://bsky.app/profile/cnbc.com/post/3magb5ulzwp2i)
-
----
-
-@usatoday.com
-
-Actor and comedian Albert Brooks is grieving the loss of his friendship with director Rob Reiner, which dates back more than half a century.
-
-[2025-12-20 22:00:29](https://bsky.app/profile/usatoday.com/post/3magb5oxsvb2t)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗❗
-
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像7🈡
-(2025-12-20 22:00:05) #緊急地震速報
-
-[2025-12-20 22:00:16](https://bsky.app/profile/sokuho.news/post/3magb5bwhzz2e)
-
----
-
-@sokuho.news
-
-🚨地震発生中❗❗❗
-
-⚠️揺れに警戒してください
-
-🔶防災科研/強震モニタ/予測震度画像6
-(2025-12-20 21:59:52) #緊急地震速報
-
-[2025-12-20 22:00:14](https://bsky.app/profile/sokuho.news/post/3magb5aag7g2y)
 
 ---
 
