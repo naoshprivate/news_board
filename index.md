@@ -1,9 +1,9 @@
-# [2025-12-21 05:50 updated](2025_12_21.md)
+# [2025-12-21 06:10 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">An escalating standoff between the U.S. and Venezuela has led both countries’ militaries to jam satellite navigation signals in the Caribbean to guard against a potential attack, data show, putting air and sea traffic in the region at greater risk of a collision or accident. <a href="https://bsky.app/profile/nytimes.com/post/3mah2tjr7ui25" target="_blank">nytimes.com</a> (2025-12-21 05:40:06)</span><span style="padding-right:50px;">Pope Leo XIV has summoned the world's cardinals for two days of meetings to help him govern the church, in the clearest sign yet that the new year will signal the unofficial start of his pontificate. n.pr/44ykAyM <a href="https://bsky.app/profile/npr.org/post/3mah2ejpmut2b" target="_blank">npr.org</a> (2025-12-21 05:31:42)</span><span style="padding-right:50px;">Dave Chappelle's surprise Netflix special titled "The Unstoppable," dropped Friday night, Dec. 20. <a href="https://bsky.app/profile/usatoday.com/post/3mah2cdcnvq2h" target="_blank">usatoday.com</a> (2025-12-21 05:30:28)</span><span style="padding-right:50px;">Former world heavyweight champion Anthony Joshua beat YouTuber-turned boxer Jake Paul by knockout on Friday night, seemingly breaking Paul's jaw in the process.  <a href="https://bsky.app/profile/cnn.com/post/3magzgt4whk2x" target="_blank">cnn.com</a> (2025-12-21 05:15:05)</span><span style="padding-right:50px;">Democrats continued their criticism Saturday of the agency’s partial release of the documents and heavy redactions in the files.  <a href="https://bsky.app/profile/forbes.com/post/3magzgrpyw42q" target="_blank">forbes.com</a> (2025-12-21 05:15:04)</span>
+<span style="padding-right:50px;">A non-fashion guy, our writer needed rugged boots for the city—but not the "Blunnies" he saw on every subway car. And so the hunt began. on.wsj.com/494Asdy <a href="https://bsky.app/profile/wsj.com/post/3mah4dq2e2c2i" target="_blank">wsj.com</a> (2025-12-21 06:07:03)</span><span style="padding-right:50px;">The Lumbee Tribe of North Carolina has finally received full federal recognition, which it has sought since 1888. Tribal leaders were moved to tears after President Trump signed the measure. n.pr/3L95mJU <a href="https://bsky.app/profile/npr.org/post/3mah43ffll324" target="_blank">npr.org</a> (2025-12-21 06:02:23)</span><span style="padding-right:50px;">Which Ole Miss coaches are following Lane Kiffin to LSU in 2026? Here's a look so far as Kiffin builds his new staff: <a href="https://bsky.app/profile/usatoday.com/post/3mah3ytsuxl2w" target="_blank">usatoday.com</a> (2025-12-21 06:00:58)</span><span style="padding-right:50px;">60-year-old executive Ron Vachris first learned some of his most important leadership lessons more than three decades ago, when he was in charge of just a single store, he says.  “That was the time that I really developed my leadership skills,” Vachris said. <a href="https://bsky.app/profile/cnbc.com/post/3mah3xwlzte2y" target="_blank">cnbc.com</a> (2025-12-21 06:00:27)</span><span style="padding-right:50px;">The U.S. is intercepting another vessel days after President Trump announced a “complete blockade” on all sanctioned oil tankers entering or leaving Venezuela. <a href="https://bsky.app/profile/washingtonpost.com/post/3mah3xjxvz723" target="_blank">washingtonpost.com</a> (2025-12-21 06:00:14)</span>
   </div>
 </div>
 
@@ -32,21 +32,89 @@
 
 ## News Headlines
 
-- US, Venezuela Military Jam Satellite Signals in Caribbean
-  - テスメインスターシアングプローックを了した
-- Pope Leo XIV Prepares for Pontificate
-  - フンーコラック　パレーストアムコャドに当前を使加
-- US Seizes Vessel Off Venezuela Coast
-  - アサインスターックを年了に当前を了した
-- Democrats Criticize Trump Administration's Handling of Epstein Files
-  - ヘェゲインスターック　パレーストアムコャドを海潯きに了
-- Wolves Equal Unwanted Premier League Record
-  - ウエルサインスターック　一保很海潯きに話を各よるに了
-- Blue Origin: Engineer Becomes First Wheelchair User to Go to Space
-  - フェビンスターック　サゥストアムストアムコャド、ディケメイャスターックを使加
+- US Seizes Sanctioned Vessel in International Waters Off Venezuela's Coast
+  - ベネズエラ海岸外の国際水域で制裁船を拿捕
+- Lumbee Tribe Receives Full Federal Recognition
+  - ルンバー族が連邦承認を得る
+- US Stops Second Merchant Vessel Off Venezuela's Coast
+  - ベネズエラ海岸外の第二の商船拿捕
+- Pope Leo XIV Summons Cardinals for Meetings
+  - ローマ教皇レオ14世が枢機卿会議招集
+- James Cameron's 'Avatar: The Way of Water' is Back in Theaters
+  - ジェームズ・キャメロン監督の『アバター: 水の道』再上映
+- US Forces Seize Another Vessel Off Venezuela's Coast
+  - ベネズエラ海岸外の第三の船拿捕
 
 
 ----
+
+@wsj.com
+
+A non-fashion guy, our writer needed rugged boots for the city—but not the "Blunnies" he saw on every subway car. And so the hunt began. on.wsj.com/494Asdy
+
+[2025-12-21 06:07:03](https://bsky.app/profile/wsj.com/post/3mah4dq2e2c2i)
+
+---
+
+@npr.org
+
+The Lumbee Tribe of North Carolina has finally received full federal recognition, which it has sought since 1888. Tribal leaders were moved to tears after President Trump signed the measure. n.pr/3L95mJU
+
+[2025-12-21 06:02:23](https://bsky.app/profile/npr.org/post/3mah43ffll324)
+
+---
+
+@usatoday.com
+
+Which Ole Miss coaches are following Lane Kiffin to LSU in 2026? Here's a look so far as Kiffin builds his new staff:
+
+[2025-12-21 06:00:58](https://bsky.app/profile/usatoday.com/post/3mah3ytsuxl2w)
+
+---
+
+@cnbc.com
+
+60-year-old executive Ron Vachris first learned some of his most important leadership lessons more than three decades ago, when he was in charge of just a single store, he says.
+
+“That was the time that I really developed my leadership skills,” Vachris said.
+
+[2025-12-21 06:00:27](https://bsky.app/profile/cnbc.com/post/3mah3xwlzte2y)
+
+---
+
+@washingtonpost.com
+
+The U.S. is intercepting another vessel days after President Trump announced a “complete blockade” on all sanctioned oil tankers entering or leaving Venezuela.
+
+[2025-12-21 06:00:14](https://bsky.app/profile/washingtonpost.com/post/3mah3xjxvz723)
+
+---
+
+@apnews.com
+
+Malachi Toney’s tiebreaking 11-yard touchdown reception with less than two minutes left lifted No. 10 seed Miami to a 10-3 win over No. 7 Texas A&M Saturday in the College Football Playoff.
+
+[2025-12-21 06:00:07](https://bsky.app/profile/apnews.com/post/3mah3xdt3ux2q)
+
+---
+
+@forbes.com
+
+‘The White Lotus’ Season 4 Officially Casts Its First Actors
+www.forbes.com/sites/paulta... (Photo: HBO)
+
+[2025-12-21 05:51:19](https://bsky.app/profile/forbes.com/post/3mah3hmdiwc2l)
+
+---
+
+@forbes.com
+
+Billions Of Passwords Have Leaked — Hack Attacks Are Ongoing, Act Now
+www.forbes.com/sites/daveyw... (Photo: Getty Images)
+
+[2025-12-21 05:50:51](https://bsky.app/profile/forbes.com/post/3mah3grizak2l)
+
+---
 
 @nytimes.com
 
@@ -61,74 +129,6 @@ An escalating standoff between the U.S. and Venezuela has led both countries’ 
 Pope Leo XIV has summoned the world's cardinals for two days of meetings to help him govern the church, in the clearest sign yet that the new year will signal the unofficial start of his pontificate. n.pr/44ykAyM
 
 [2025-12-21 05:31:42](https://bsky.app/profile/npr.org/post/3mah2ejpmut2b)
-
----
-
-@usatoday.com
-
-Dave Chappelle's surprise Netflix special titled "The Unstoppable," dropped Friday night, Dec. 20.
-
-[2025-12-21 05:30:28](https://bsky.app/profile/usatoday.com/post/3mah2cdcnvq2h)
-
----
-
-@cnn.com
-
-Former world heavyweight champion Anthony Joshua beat YouTuber-turned boxer Jake Paul by knockout on Friday night, seemingly breaking Paul's jaw in the process. 
-
-[2025-12-21 05:15:05](https://bsky.app/profile/cnn.com/post/3magzgt4whk2x)
-
----
-
-@forbes.com
-
-Democrats continued their criticism Saturday of the agency’s partial release of the documents and heavy redactions in the files. 
-
-[2025-12-21 05:15:04](https://bsky.app/profile/forbes.com/post/3magzgrpyw42q)
-
----
-
-@cbsnews.com
-
-The U.S. seizes another vessel off the coast of Venezuela days after announcing oil tanker blockade, sources say. 
-
-[2025-12-21 05:15:01](https://bsky.app/profile/cbsnews.com/post/3magzgonrx52g)
-
----
-
-@en.afp.com
-
-VIDEO From February, visitors to Rome's famed Trevi Fountain must pay a two-euro entrance fee to help tackle overtourism. Some 30,000 people visit the fountain daily, with large crowds making the area a target for pickpockets. Rome residents will be exempt from the charge
-🎥 🇮🇹
-
-[2025-12-21 05:14:20](https://bsky.app/profile/en.afp.com/post/3magzfhzyhl2d)
-
----
-
-@npr.org
-
-An NPR analysis of the Epstein files shows some documents, originally available on Friday, are no longer on the Department of Justice's "Epstein Library" website as the DOJ releases more files. n.pr/4pO8hXB
-
-[2025-12-21 05:08:25](https://bsky.app/profile/npr.org/post/3magz2vbd4w2d)
-
----
-
-@wsj.com
-
-Company coming? These tips from an exemplary host take the guesswork out of creating a haven for your guests. 🔗: on.wsj.com/4pCWbQR
-
-[2025-12-21 05:04:43](https://bsky.app/profile/wsj.com/post/3magyubfngy2c)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】静岡県裾野市で殺人未遂事件 犯人の男は逃走中 知人男性の背中付近を刃物の様なもので刺したか
-(2025-12-21 04:54:00) #ニュース
-
-[2025-12-21 05:03:11](https://bsky.app/profile/sokuho.news/post/3magyrjfohf2x)
 
 ---
 
