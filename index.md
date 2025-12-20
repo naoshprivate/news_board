@@ -1,9 +1,9 @@
-# [2025-12-20 10:10 updated](2025_12_20.md)
+# [2025-12-20 10:30 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">In @nytopinion.nytimes.com   President Trump’s move to reschedule marijuana has “reignited familiar arguments about whether cannabis is harmless or dangerous, medicine or vice, success or failure,”  Aaron E. Carroll writes. “That debate misses the point.” <a href="https://bsky.app/profile/nytimes.com/post/3maez6i2ggb2a" target="_blank">nytimes.com</a> (2025-12-20 10:05:06)</span><span style="padding-right:50px;">セブン＆アイ・ホールディングスは２０日、北米のコンビニエンスストア事業会社、セブン―イレブン・インク（ＳＥＩ）のジョセフ・マイケル・デピント最高経営責任者（ＣＥＯ）が１２月３１日付（米国時間）で退任すると発表した。 bit.ly/48OdokD <a href="https://bsky.app/profile/japan.reuters.com/post/3maez64igwg2u" target="_blank">japan.reuters.com</a> (2025-12-20 10:04:54)</span><span style="padding-right:50px;">Bowen Yang is exiting Studio 8H. Following departures from Ego Nwodim and Heidi Gardner, Yang will exit the cast of "Saturday Night Live." <a href="https://bsky.app/profile/usatoday.com/post/3maeyyv7o262l" target="_blank">usatoday.com</a> (2025-12-20 10:01:58)</span><span style="padding-right:50px;">President Trump said he would convene insurance companies in a bid to pressure them to reduce costs for Americans who will see their premiums rise following the expiration of Obamacare subsidies at year’s end <a href="https://bsky.app/profile/bloomberg.com/post/3maeyxk7cw72e" target="_blank">bloomberg.com</a> (2025-12-20 10:01:13)</span><span style="padding-right:50px;">Tourists visiting the Trevi Fountain are now going to pay more than just the legendary coin toss over their shoulder. <a href="https://bsky.app/profile/apnews.com/post/3maeyxiljiv2q" target="_blank">apnews.com</a> (2025-12-20 10:01:12)</span>
+<span style="padding-right:50px;">Medtronic's diabetes business MiniMed files for US IPO reut.rs/44GC24a <a href="https://bsky.app/profile/reuters.com/post/3maezzr2c2w2o" target="_blank">reuters.com</a> (2025-12-20 10:20:21)</span><span style="padding-right:50px;">Upon arriving at the James Madison University campus in Virginia’s Blue Ridge Mountains in 1999, Jeff Bourne spied a 12,500-seat football stadium on a campus that only started playing the sport a little more than 25 years earlier.  He somehow saw a future. https://cnn.it/3MMqiH5 <a href="https://bsky.app/profile/cnn.com/post/3maezxbsmjm2t" target="_blank">cnn.com</a> (2025-12-20 10:18:58)</span><span style="padding-right:50px;">The Kennedy Center installed President Trump’s name on its exterior, a dramatic change to a building established by law as a “living memorial” to a slain president. The signage follows a vote by the board of trustees to rename it “Trump Kennedy Center.” https://wapo.st/4qh6FVU <a href="https://bsky.app/profile/washingtonpost.com/post/3maezrfbzj62m" target="_blank">washingtonpost.com</a> (2025-12-20 10:15:41)</span><span style="padding-right:50px;">米国のルビオ国務長官は１９日、ベネズエラへの対応を巡り、同国と関係が近いロシアと米国との間で緊張が高まる可能性について懸念していないと述べた。 bit.ly/4jd7FZe <a href="https://bsky.app/profile/japan.reuters.com/post/3maezqnd3xj2q" target="_blank">japan.reuters.com</a> (2025-12-20 10:15:15)</span><span style="padding-right:50px;">Newly released files from the Justice Department investigation into Jeffrey Epstein include photos of former President Bill Clinton. It isn't clear why they were included. Clinton associated with Epstein in the 1990s and early 2000s, but he's never been accused of wrongdoing by Epstein's accusers. <a href="https://bsky.app/profile/apnews.com/post/3maezqgdkdx2x" target="_blank">apnews.com</a> (2025-12-20 10:15:08)</span>
   </div>
 </div>
 
@@ -32,16 +32,74 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are six headlines in English:
 
-1. US Judge Skeptical of Chamber's Challenge to Trump's $100,000 H-1B Visa Fee
-2. Four Die in ICE Custody as 2025 Deaths Reach 20-Year High
-3. Trump Administration Imposes Restrictions on Mexican Train Crews Operating in US
-4. US Launches Large-Scale Attacks on ISIL in Syria, Trump Says
-5. Exclusive: BofA Bonuses Will Jump for Investment Bankers This Year, Sources Say
-6. Bowen Yang Exits 'Saturday Night Live' Cast After Departures of Ego Nwodim and Heidi Gardner
+1. Medtronic's Diabetes Business Files for US IPO
+2. James Madison University's Football Stadium a Testament to Jeff Bourne's Vision
+3. Kennedy Center Renamed Trump Kennedy Center Amid Controversy
+4. US Defense Secretary Announces Plan to Attack IS in Syria
+5. Volkswagen to Discontinue Retro Electric Bus in US Market
+6. Exclusive: Ghislaine Maxwell's Secrets Revealed in Jeffrey Epstein's Emails
 
 ----
+
+@reuters.com
+
+Medtronic's diabetes business MiniMed files for US IPO reut.rs/44GC24a
+
+[2025-12-20 10:20:21](https://bsky.app/profile/reuters.com/post/3maezzr2c2w2o)
+
+---
+
+@cnn.com
+
+Upon arriving at the James Madison University campus in Virginia’s Blue Ridge Mountains in 1999, Jeff Bourne spied a 12,500-seat football stadium on a campus that only started playing the sport a little more than 25 years earlier.
+
+He somehow saw a future. https://cnn.it/3MMqiH5
+
+[2025-12-20 10:18:58](https://bsky.app/profile/cnn.com/post/3maezxbsmjm2t)
+
+---
+
+@washingtonpost.com
+
+The Kennedy Center installed President Trump’s name on its exterior, a dramatic change to a building established by law as a “living memorial” to a slain president. The signage follows a vote by the board of trustees to rename it “Trump Kennedy Center.” https://wapo.st/4qh6FVU
+
+[2025-12-20 10:15:41](https://bsky.app/profile/washingtonpost.com/post/3maezrfbzj62m)
+
+---
+
+@japan.reuters.com
+
+米国のルビオ国務長官は１９日、ベネズエラへの対応を巡り、同国と関係が近いロシアと米国との間で緊張が高まる可能性について懸念していないと述べた。 bit.ly/4jd7FZe
+
+[2025-12-20 10:15:15](https://bsky.app/profile/japan.reuters.com/post/3maezqnd3xj2q)
+
+---
+
+@apnews.com
+
+Newly released files from the Justice Department investigation into Jeffrey Epstein include photos of former President Bill Clinton. It isn't clear why they were included. Clinton associated with Epstein in the 1990s and early 2000s, but he's never been accused of wrongdoing by Epstein's accusers.
+
+[2025-12-20 10:15:08](https://bsky.app/profile/apnews.com/post/3maezqgdkdx2x)
+
+---
+
+@wsj.com
+
+WSJ’s House of the Week brings readers to South Carolina’s Kiawah Island, where the owners built a home with direct beach access on the 14th hole of a Jack Nicklaus-designed golf course. on.wsj.com/3YALBOm
+
+[2025-12-20 10:13:50](https://bsky.app/profile/wsj.com/post/3maezo3wdva2i)
+
+---
+
+@reuters.com
+
+Musk wins appeal that restores 2018 Tesla pay deal now worth about $139 billion reut.rs/48Yi9Xy
+
+[2025-12-20 10:10:11](https://bsky.app/profile/reuters.com/post/3maezhle2av2i)
+
+---
 
 @nytimes.com
 
@@ -66,69 +124,6 @@ President Trump’s move to reschedule marijuana has “reignited familiar argum
 Bowen Yang is exiting Studio 8H. Following departures from Ego Nwodim and Heidi Gardner, Yang will exit the cast of "Saturday Night Live."
 
 [2025-12-20 10:01:58](https://bsky.app/profile/usatoday.com/post/3maeyyv7o262l)
-
----
-
-@bloomberg.com
-
-President Trump said he would convene insurance companies in a bid to pressure them to reduce costs for Americans who will see their premiums rise following the expiration of Obamacare subsidies at year’s end
-
-[2025-12-20 10:01:13](https://bsky.app/profile/bloomberg.com/post/3maeyxk7cw72e)
-
----
-
-@apnews.com
-
-Tourists visiting the Trevi Fountain are now going to pay more than just the legendary coin toss over their shoulder.
-
-[2025-12-20 10:01:12](https://bsky.app/profile/apnews.com/post/3maeyxiljiv2q)
-
----
-
-@reuters.com
-
-Jones reveals Salah apology as Liverpool close ranks reut.rs/4pOt1i3
-
-[2025-12-20 10:00:58](https://bsky.app/profile/reuters.com/post/3maeyx46qjp2b)
-
----
-
-@nikkei.com
-
-タイで「モンチッチ」の人気上昇中　ポスト「ラブブ」狙えるか
-www.nikkei.com/article/DGXZQO...
-
-玩具メーカーのセキグチが1974年に日本で発売しヒットしましたが、タイで認知されるようになったのは最近。
-
-人気女優のチョンプーさんやアイドル「ブラックピンク」のタイ人メンバー、リサさんらがSNSで投稿したのが発端です。
-
-[2025-12-20 10:00:41](https://bsky.app/profile/nikkei.com/post/3maeywldbgc2n)
-
----
-
-@en.afp.com
-
-There is no rest for Matey Mateev in the run up to the festive season as the world's gastronauts dig deep to splash out on his beluga caviar.
-
-u.afp.com/S8ix
-
-[2025-12-20 10:00:39](https://bsky.app/profile/en.afp.com/post/3maeywjsgul2x)
-
----
-
-@japan.reuters.com
-
-ミャンマーの反政府勢力の戦闘員であるカンは１０月に、主要都市ヤンゴンと首都ネピドーのほぼ中間にある村パズンミャウンで国軍と交戦した。しかし迫撃砲やドローンによる攻撃にさらされ続け、１週間後には近隣の拠点への撤退を余儀なくされた。戦闘経験が豊富なカンにとっても、かつて経験したことがない激しい戦いだった。 bit.ly/455PYoo
-
-[2025-12-20 10:00:38](https://bsky.app/profile/japan.reuters.com/post/3maeywitjz525)
-
----
-
-@cnbc.com
-
-If you're one of the nearly 68 million Americans who speaks another language, consider putting your skills to use by picking up some translation gigs.
-
-[2025-12-20 10:00:20](https://bsky.app/profile/cnbc.com/post/3maeyvxeqzb24)
 
 ---
 
