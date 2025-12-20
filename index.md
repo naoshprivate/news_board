@@ -1,9 +1,9 @@
-# [2025-12-21 04:50 updated](2025_12_21.md)
+# [2025-12-21 05:10 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Strands is a word search with a unique twist. Can you uncover the theme? Play here: trib.al/R9ryEzr <a href="https://bsky.app/profile/nytimes.com/post/3magxxga3fc2q" target="_blank">nytimes.com</a> (2025-12-21 04:48:35)</span><span style="padding-right:50px;">ゼレンスキー大統領 “ロシア占領地域で大統領選出来ず” https://news.web.nhk/newsweb/na/na-k10015009551000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3magxwjwl3s2l" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 04:48:03)</span><span style="padding-right:50px;">You could find a pink slip in your stocking this season—so now is a good time to game out what you’ll do if you’re laid off. on.wsj.com/4jcPwuy <a href="https://bsky.app/profile/wsj.com/post/3magxtkvwbz2h" target="_blank">wsj.com</a> (2025-12-21 04:46:25)</span><span style="padding-right:50px;">Isak on target but injured as Liverpool hang on to defeat Tottenham reut.rs/48NBzj1 <a href="https://bsky.app/profile/reuters.com/post/3magxrenfiq2y" target="_blank">reuters.com</a> (2025-12-21 04:45:12)</span><span style="padding-right:50px;">働く障害者 70万人超で過去最多 法定雇用率達成した企業は46％ https://news.web.nhk/newsweb/na/na-k10015009341000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3magxr4y5js2l" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 04:45:02)</span>
+<span style="padding-right:50px;">An NPR analysis of the Epstein files shows some documents, originally available on Friday, are no longer on the Department of Justice's "Epstein Library" website as the DOJ releases more files. n.pr/4pO8hXB <a href="https://bsky.app/profile/npr.org/post/3magz2vbd4w2d" target="_blank">npr.org</a> (2025-12-21 05:08:25)</span><span style="padding-right:50px;">Company coming? These tips from an exemplary host take the guesswork out of creating a haven for your guests. 🔗: on.wsj.com/4pCWbQR <a href="https://bsky.app/profile/wsj.com/post/3magyubfngy2c" target="_blank">wsj.com</a> (2025-12-21 05:04:43)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】静岡県裾野市で殺人未遂事件 犯人の男は逃走中 知人男性の背中付近を刃物の様なもので刺したか (2025-12-21 04:54:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3magyrjfohf2x" target="_blank">sokuho.news</a> (2025-12-21 05:03:11)</span><span style="padding-right:50px;">Leverkusen earn 3-1 comeback win at Leipzig to take over third spot reut.rs/4s8PeZC <a href="https://bsky.app/profile/reuters.com/post/3magynrfrol2k" target="_blank">reuters.com</a> (2025-12-21 05:01:05)</span><span style="padding-right:50px;">Idalia Bisbal moved from New York City to Allentown, Pa., hoping for a cheaper life. Three years later, she feels disappointed by high prices. The area remains a political battleground, with Republicans and Democrats vying for control as economic anxiety affects both parties ahead of midterms. <a href="https://bsky.app/profile/apnews.com/post/3magyncqp3j25" target="_blank">apnews.com</a> (2025-12-21 05:00:49)</span>
   </div>
 </div>
 
@@ -32,95 +32,105 @@
 
 ## News Headlines
 
-[{"en": "Strands Word Search Has a Hidden Theme", "jp": "ストランズワードサーチに秘密のテーマが隠されている"},
-{"en": "Zelensky Says Ukraine Can't Hold Presidential Election in Occupied Territory", "jp": "ゼレンスキー大統領「ロシア占領地域で大統領選挙は実行不可能」"},
-{"en": "U.S. Seizes Sanctioned Vessel Off Venezuela's Coast", "jp": "米国がベネズエラ沖で制裁船を拿捕"},
-{"en": "U.S. Forces Stop Second Merchant Vessel Off Venezuela's Coast", "jp": "米国軍がベネズエラ沖で2隻目の商船を拿捕"},
-{"en": "Blue Origin Engineer Becomes First Wheelchair User to Go to Space", "jp": "ブルーオリジンエンジニアが宇宙に初めての車いす乗り"};
-{"en": "Forecasters Warn of Parade of Storms to Bring Heavy Rain to Northern California", "jp": "気象庁が北部カリフォルニアに大雨警報を発出"}]
+- US Seizes Sanctioned Vessel in International Waters Off Venezuela's Coast
+  - アメリカ、ベネズエラ沖で制裁船を拿捕
+- Leverkusen Earn 3-1 Comeback Win at Leipzig to Take Over Third Spot
+  - レバークーゼン、ライプツィヒに3-1で逆転勝利　3位に躍り出る
+- Rare Look Inside the Secret LEGO Museum Reveals System Behind a Toy Giant's Longevity
+  - レゴ博物館秘密の内部を初めて公開　玩具巨大企業の長期を支えるシステムが明らかに
+- Giannis Antetokounmpo, Anthony Davis, and Trae Young Lead List of NBA Players Who Could Be Traded
+  - アンテトクンボ、デービス、トレイ・ヤング　NBAトレードの可能性の高い選手たち
+- More Than a Half-Million Fans Expected to Attend Bad Bunny's Concerts in Mexico
+  - バッド・バニーをはじめとする8公演を観るために約50万人が集まる
+- Exclusive: Trump Administration Ramping Up Efforts to Deport People to Other Nations
+  - トランプ政権、他国に国民を移送する取り組みを強化
+
 
 ----
 
-@nytimes.com
+@npr.org
 
-Strands is a word search with a unique twist. Can you uncover the theme? Play here: trib.al/R9ryEzr
+An NPR analysis of the Epstein files shows some documents, originally available on Friday, are no longer on the Department of Justice's "Epstein Library" website as the DOJ releases more files. n.pr/4pO8hXB
 
-[2025-12-21 04:48:35](https://bsky.app/profile/nytimes.com/post/3magxxga3fc2q)
-
----
-
-@nhknewsunofficial.bsky.social
-
-ゼレンスキー大統領 “ロシア占領地域で大統領選出来ず”
-https://news.web.nhk/newsweb/na/na-k10015009551000
-
-[2025-12-21 04:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3magxwjwl3s2l)
+[2025-12-21 05:08:25](https://bsky.app/profile/npr.org/post/3magz2vbd4w2d)
 
 ---
 
 @wsj.com
 
-You could find a pink slip in your stocking this season—so now is a good time to game out what you’ll do if you’re laid off. on.wsj.com/4jcPwuy
+Company coming? These tips from an exemplary host take the guesswork out of creating a haven for your guests. 🔗: on.wsj.com/4pCWbQR
 
-[2025-12-21 04:46:25](https://bsky.app/profile/wsj.com/post/3magxtkvwbz2h)
+[2025-12-21 05:04:43](https://bsky.app/profile/wsj.com/post/3magyubfngy2c)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】静岡県裾野市で殺人未遂事件 犯人の男は逃走中 知人男性の背中付近を刃物の様なもので刺したか
+(2025-12-21 04:54:00) #ニュース
+
+[2025-12-21 05:03:11](https://bsky.app/profile/sokuho.news/post/3magyrjfohf2x)
 
 ---
 
 @reuters.com
 
-Isak on target but injured as Liverpool hang on to defeat Tottenham reut.rs/48NBzj1
+Leverkusen earn 3-1 comeback win at Leipzig to take over third spot reut.rs/4s8PeZC
 
-[2025-12-21 04:45:12](https://bsky.app/profile/reuters.com/post/3magxrenfiq2y)
-
----
-
-@nhknewsunofficial.bsky.social
-
-働く障害者 70万人超で過去最多 法定雇用率達成した企業は46％
-https://news.web.nhk/newsweb/na/na-k10015009341000
-
-[2025-12-21 04:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3magxr4y5js2l)
+[2025-12-21 05:01:05](https://bsky.app/profile/reuters.com/post/3magynrfrol2k)
 
 ---
 
-@nytimes.com
+@apnews.com
 
-Pips is a logic puzzle where players must arrange a set of dominoes to meet the conditions of the board to win. There are three new puzzles each day — Easy, Medium and Hard — so you can solve at your own speed, in any order you want. trib.al/6qNMoQ4
+Idalia Bisbal moved from New York City to Allentown, Pa., hoping for a cheaper life. Three years later, she feels disappointed by high prices. The area remains a political battleground, with Republicans and Democrats vying for control as economic anxiety affects both parties ahead of midterms.
 
-[2025-12-21 04:43:01](https://bsky.app/profile/nytimes.com/post/3magxnhopvc2i)
-
----
-
-@nhknewsunofficial.bsky.social
-
-警察とメガバンクなど連携 詐欺被害金 追跡や回収の新拠点検討
-https://news.web.nhk/newsweb/na/na-k10015009461000
-
-[2025-12-21 04:42:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3magxlqxmyr2l)
+[2025-12-21 05:00:49](https://bsky.app/profile/apnews.com/post/3magyncqp3j25)
 
 ---
 
-@nytimes.com
+@usatoday.com
 
-More than a half-million people from across Mexico and the rest of the world were expected to descend on GNP Seguros Stadium this week to see Bad Bunny’s eight sold-out concerts, which end on Sunday.
+"Avatar" is back, baby! James Cameron's "Fire & Ash" is in theaters. Also returning are a couple of streaming shows, "Emily in Paris" and "Fallout."
 
-[2025-12-21 04:40:05](https://bsky.app/profile/nytimes.com/post/3magxiaakbr2a)
+[2025-12-21 05:00:30](https://bsky.app/profile/usatoday.com/post/3magymqdt3b2g)
+
+---
+
+@washingtonpost.com
+
+Provocative podcaster Tucker Carlson is at the center of some of the most heated disputes in MAGA. And he has an audience – online, among influencers and inside the White House. That worries some on the right.
+
+[2025-12-21 05:00:14](https://bsky.app/profile/washingtonpost.com/post/3magymbafr725)
+
+---
+
+@cbsnews.com
+
+Rare look inside the secret LEGO Museum reveals the system behind a toy giant's remarkable longevity: 
+
+[2025-12-21 05:00:01](https://bsky.app/profile/cbsnews.com/post/3magyluuaw42p)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】静岡県裾野市で殺人未遂事件発生 犯人の男は逃走中 知人男性の背中付近を刃物の様なもので刺したか
+(2025-12-21 04:54:00) #ニュース
+
+[2025-12-21 04:57:47](https://bsky.app/profile/sokuho.news/post/3magyhuwyzm2r)
 
 ---
 
 @bbcnews-world-rss.bsky.social
 
-US seizes sanctioned vessel in international waters off Venezuela's coast
+Survivors and lawmakers voice frustration over Jeffery Epstein file release 
 
-[2025-12-21 04:38:16](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3magxez6um72z)
-
----
-
-@cnn.com
-
-Personnel from the United States boarded and seized a vessel off the coast of Venezuela, according to an official familiar with the matter, as the Trump administration ramps up pressure on Caracas. https://cnn.it/4s8NQWU
-
-[2025-12-21 04:37:23](https://bsky.app/profile/cnn.com/post/3magxdflx222k)
+[2025-12-21 04:56:22](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3magyfelbs62v)
 
 ---
 
