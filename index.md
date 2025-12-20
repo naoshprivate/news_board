@@ -1,9 +1,9 @@
-# [2025-12-20 11:50 updated](2025_12_20.md)
+# [2025-12-20 12:10 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">US FDA grants priority vouchers to Merck's cholesterol pill, cancer therapy reut.rs/4p2ZkbG <a href="https://bsky.app/profile/reuters.com/post/3maf6inc4hl2x" target="_blank">reuters.com</a> (2025-12-20 11:40:16)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】船が転覆、船内で1人発見、心肺停止 兵庫・南あわじ市沖 (2025-12-20 11:37) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maf6dz3v642r" target="_blank">sokuho.news</a> (2025-12-20 11:37:40)</span><span style="padding-right:50px;">The US Department of Justice released thousands of its files on the late sex offender Jeffrey Epstein. Here is what we have learned so far from the long-awaited disclosure: ft.trib.al/TqVvYzM <a href="https://bsky.app/profile/financialtimes.com/post/3maf67gygqz2v" target="_blank">financialtimes.com</a> (2025-12-20 11:35:07)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】電車と車が衝突か…近鉄京都線「新祝園駅」付近で事故発生 現場に煙、警察と消防が対応 ケガ人情報は調査中 京都府 (2025-12-20 11:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maf5y5m7ft27" target="_blank">sokuho.news</a> (2025-12-20 11:31:02)</span><span style="padding-right:50px;">Flock Safety technology helped Providence Police track down 48-year-old Claudio Neves Valente, who police say was responsible for both the Brown University shooting and the killing of an MIT professor days later. <a href="https://bsky.app/profile/cnn.com/post/3maf5y4f5tc23" target="_blank">cnn.com</a> (2025-12-20 11:31:01)</span>
+<span style="padding-right:50px;">🔔NHKより【速報 JUST IN】です。  京都 精華町 “近鉄京都線の特急電車が車と衝突” (2025-12-20 12:00:03) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maf7ysr5i62e" target="_blank">sokuho.news</a> (2025-12-20 12:07:12)</span><span style="padding-right:50px;">兵庫県警 警察官9人 オンラインカジノで賭博の疑い 書類送検 https://news.web.nhk/newsweb/na/na-k10015009251000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maf7wrk2zc2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 12:06:01)</span><span style="padding-right:50px;">京都 精華町 “近鉄京都線の特急電車が車と衝突” https://news.web.nhk/newsweb/na/na-k10015009271000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maf7rg67pw2y" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 12:03:02)</span><span style="padding-right:50px;">A man with a knife and smoke grenades attacked crowds indiscriminately in Taipei, Taiwan's national news agency and the city government say. <a href="https://bsky.app/profile/apnews.com/post/3maf7qpoahm2r" target="_blank">apnews.com</a> (2025-12-20 12:02:40)</span><span style="padding-right:50px;">住宅ローンの繰り上げ返済、注意点は？ www.nikkei.com/article/DGXZQO...  繰り上げ返済をするタイミングが早いほど、利息軽減効果は大きくなります。  ただ、闇雲に繰り上げ返済をすればよいというわけでもありません。判断するポイントを押さえる必要があります。 <a href="https://bsky.app/profile/nikkei.com/post/3maf7nk7kab2x" target="_blank">nikkei.com</a> (2025-12-20 12:00:54)</span>
   </div>
 </div>
 
@@ -32,109 +32,101 @@
 
 ## News Headlines
 
-Here are six news headlines in English:
+Here are six important stories with headlines in English:
 
-1. US FDA Grants Priority Vouchers to Merck's Cholesterol Pill
-2. Ship Overturns Off Japan's Coast, One Person Found, Unconscious
-3. Justice Department Releases Thousands of Files on Jeffrey Epstein
-4. Trump Announces Servicemember Bonuses Amid Economic Pressure
-5. India's Coal Towns Resist Shift to Cleaner Energy Despite Government Push
-6. US FDA Approves Cytokinetics' Heart Disease Drug
+1. Multiple Deaths in Taipei Knife Attack
+2. US FDA Grants Priority Vouchers to Merck's Cholesterol Pill and Cancer Therapy
+3. US Justice Department Releases Files on Jeffrey Epstein
+4. Japan and Central Asian Countries Strengthen Cooperation
+5. US FDA Approves Cytokinetics' Heart Disease Drug
+6. Trump Announces Servicemember Bonuses Amid Economic Pressures
 
 ----
 
-@reuters.com
-
-US FDA grants priority vouchers to Merck's cholesterol pill, cancer therapy reut.rs/4p2ZkbG
-
-[2025-12-20 11:40:16](https://bsky.app/profile/reuters.com/post/3maf6inc4hl2x)
-
----
-
 @sokuho.news
 
-🛎️NNNより【速報】です。
+<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>京都 精華町 “近鉄京都線の特急電車が車と衝突”</strong><br><strong>(2025-12-20 12:00:03) #ニュース</strong>
 
-【速報】船が転覆、船内で1人発見、心肺停止 兵庫・南あわじ市沖
-(2025-12-20 11:37) #ニュース
-
-[2025-12-20 11:37:40](https://bsky.app/profile/sokuho.news/post/3maf6dz3v642r)
+[2025-12-20 12:07:12](https://bsky.app/profile/sokuho.news/post/3maf7ysr5i62e)
 
 ---
 
-@financialtimes.com
+@nhknewsunofficial.bsky.social
 
-The US Department of Justice released thousands of its files on the late sex offender Jeffrey Epstein. Here is what we have learned so far from the long-awaited disclosure: ft.trib.al/TqVvYzM
+兵庫県警 警察官9人 オンラインカジノで賭博の疑い 書類送検
+https://news.web.nhk/newsweb/na/na-k10015009251000
 
-[2025-12-20 11:35:07](https://bsky.app/profile/financialtimes.com/post/3maf67gygqz2v)
-
----
-
-@sokuho.news
-
-🛎️FNNより【速報】です。
-
-【速報】電車と車が衝突か…近鉄京都線「新祝園駅」付近で事故発生 現場に煙、警察と消防が対応 ケガ人情報は調査中 京都府
-(2025-12-20 11:00) #ニュース
-
-[2025-12-20 11:31:02](https://bsky.app/profile/sokuho.news/post/3maf5y5m7ft27)
+[2025-12-20 12:06:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maf7wrk2zc2w)
 
 ---
 
-@cnn.com
+@nhknewsunofficial.bsky.social
 
-Flock Safety technology helped Providence Police track down 48-year-old Claudio Neves Valente, who police say was responsible for both the Brown University shooting and the killing of an MIT professor days later.
+京都 精華町 “近鉄京都線の特急電車が車と衝突”
+https://news.web.nhk/newsweb/na/na-k10015009271000
 
-[2025-12-20 11:31:01](https://bsky.app/profile/cnn.com/post/3maf5y4f5tc23)
+[2025-12-20 12:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maf7rg67pw2y)
+
+---
+
+@apnews.com
+
+A man with a knife and smoke grenades attacked crowds indiscriminately in Taipei, Taiwan's national news agency and the city government say.
+
+[2025-12-20 12:02:40](https://bsky.app/profile/apnews.com/post/3maf7qpoahm2r)
 
 ---
 
 @nikkei.com
 
-「トレビの泉」に入場料導入へ　観光公害対策（無料記事）
+住宅ローンの繰り上げ返済、注意点は？
 www.nikkei.com/article/DGXZQO...
 
-2026年2月1日から2ユーロ（約370円）を徴収します。
+繰り上げ返済をするタイミングが早いほど、利息軽減効果は大きくなります。
 
-泉は後ろを向いて硬貨を投げ入れるとローマを再訪できるとの言い伝えで知られる名所。
+ただ、闇雲に繰り上げ返済をすればよいというわけでもありません。判断するポイントを押さえる必要があります。
 
-25年1月1日から12月8日までに周辺を訪れた人は計約900万人に上るといいます。
-
-#ニュース
-
-[2025-12-20 11:30:40](https://bsky.app/profile/nikkei.com/post/3maf5xicvtx24)
+[2025-12-20 12:00:54](https://bsky.app/profile/nikkei.com/post/3maf7nk7kab2x)
 
 ---
 
 @reuters.com
 
-US FDA approves Cytokinetics' heart disease drug reut.rs/4s32Vtb
+White House's Hassett tells Fox Business Trump is right where others are wrong about inflation reut.rs/3MJuEik
 
-[2025-12-20 11:30:38](https://bsky.app/profile/reuters.com/post/3maf5xgtshb2i)
-
----
-
-@bloomberg.com
-
-India excels at solar power. But in coal towns like Dhanbad, life still revolves around the dirtiest fuel as informal markets, political ties and generations of dependence keep coal entrenched.
-
-[2025-12-20 11:30:32](https://bsky.app/profile/bloomberg.com/post/3maf5xaxf6p23)
+[2025-12-20 12:00:51](https://bsky.app/profile/reuters.com/post/3maf7nh5pix2c)
 
 ---
 
 @usatoday.com
 
-Staff at a First Watch in Naples, Florida, donated their holiday party funds to support cook Norman and his growing family.
+Ashanti's curated list of gifts she loves to give and wouldn’t mind receiving herself – from everyday must-haves to her favorite things.
 
-[2025-12-20 11:30:24](https://bsky.app/profile/usatoday.com/post/3maf5wz4wr62f)
+[2025-12-20 12:00:49](https://bsky.app/profile/usatoday.com/post/3maf7nezdcw2w)
 
 ---
 
-@bloomberg.com
+@washingtonpost.com
 
-Trump Demands Smithsonian Documents Ahead of 250th Anniversary
+Nine drug companies announced price cuts with President Trump at the White House, offering discounts on drugs sold through a new government website in exchange for tariff relief and other incentives, including faster FDA reviews for future approvals. 
 
-[2025-12-20 11:30:19](https://bsky.app/profile/bloomberg.com/post/3maf5wuni6z2g)
+[2025-12-20 12:00:07](https://bsky.app/profile/washingtonpost.com/post/3maf7m5d25p2b)
+
+---
+
+@nytimes.com
+
+An unusual object orbiting a rapidly spinning star could be the most stretched-out planet ever found.
+
+[2025-12-20 12:00:04](https://bsky.app/profile/nytimes.com/post/3maf7m2fsdr2z)
+
+---
+
+@cbsnews.com
+
+NEW: 17 people were injured in an NJ Transit train derailment in Montclair, New Jersey, on Friday.
+
+[2025-12-20 12:00:01](https://bsky.app/profile/cbsnews.com/post/3maf7lxnkkm2g)
 
 ---
 
