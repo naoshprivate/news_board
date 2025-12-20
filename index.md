@@ -1,9 +1,9 @@
-# [2025-12-20 09:10 updated](2025_12_20.md)
+# [2025-12-20 09:30 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Update: The Justice Department released some of the Epstein files, including many previously public documents, related to convicted sex offender Jeffrey Epstein’s criminal charges and his death by suicide in federal custody. <a href="https://bsky.app/profile/npr.org/post/3maevwdi2pf2b" target="_blank">npr.org</a> (2025-12-20 09:06:51)</span><span style="padding-right:50px;">Wawrinka to retire in 2026 after 24-year pro career reut.rs/4seivlN <a href="https://bsky.app/profile/reuters.com/post/3maevtepib22b" target="_blank">reuters.com</a> (2025-12-20 09:05:12)</span><span style="padding-right:50px;">Data center stocks can get on track if OpenAI raises money, Jim Cramer says <a href="https://bsky.app/profile/cnbc.com/post/3maevsotpew24" target="_blank">cnbc.com</a> (2025-12-20 09:04:49)</span><span style="padding-right:50px;">Cramer's Lighting Round: Sell EchoStar <a href="https://bsky.app/profile/cnbc.com/post/3maevothojf2p" target="_blank">cnbc.com</a> (2025-12-20 09:02:40)</span><span style="padding-right:50px;">In Salzburg, Austria, Christmas involves both St. Nick and Krampus, a mythological punisher with roots stretching back to late antiquity and many fans in the present-day Central Alps. <a href="https://bsky.app/profile/npr.org/post/3maevnovjlr2x" target="_blank">npr.org</a> (2025-12-20 09:02:01)</span>
+<span style="padding-right:50px;">US-Taiwan arms deal: With a new $11.1 billion weapons pact, Trump has pledged far more money for weapons to Taiwan than his predecessors reut.rs/4p60zXw <a href="https://bsky.app/profile/reuters.com/post/3maex3qag7c2e" target="_blank">reuters.com</a> (2025-12-20 09:27:46)</span><span style="padding-right:50px;">Trump administration imposes restrictions on Mexican train crews operating inside US reut.rs/4p8Ccsv <a href="https://bsky.app/profile/reuters.com/post/3maewwykjdn2b" target="_blank">reuters.com</a> (2025-12-20 09:25:07)</span><span style="padding-right:50px;">Breaking News: A father and his 6-year-old son who were separated by immigration officials in New York City have been deported to China. <a href="https://bsky.app/profile/nytimes.com/post/3maewnwun3e2b" target="_blank">nytimes.com</a> (2025-12-20 09:20:04)</span><span style="padding-right:50px;">Bill Clinton is among the VIPs in new photographs released in the Jeffrey Epstein files by the U.S. Department of Justice.    The photos are included without context or details of when and where they were taken. bit.ly/4ar7hnw <a href="https://bsky.app/profile/usatoday.com/post/3maewjdgsez2q" target="_blank">usatoday.com</a> (2025-12-20 09:17:29)</span><span style="padding-right:50px;">The French government has been at loggerheads with Shein for weeks after authorities said they had found illicit products being sold on the platform.   on.wsj.com/4pN1BJn <a href="https://bsky.app/profile/wsj.com/post/3maewi7o5el2k" target="_blank">wsj.com</a> (2025-12-20 09:16:51)</span>
   </div>
 </div>
 
@@ -32,104 +32,100 @@
 
 ## News Headlines
 
-Here are six story headlines in English:
+Here are six news headlines in English:
 
-1. Epstein Files Released, Shedding Light on Jeffrey Epstein's Crimes
-2. Wawrinka to Retire in 2026 After 24-Year Professional Career
-3. US Transportation Secretary's Daughter Criticizes Airport Security Patrol
-4. Prices Surge 25% Since 2020, Leaving Consumers Feeling Pinched
-5. Sen. Cynthia Lummis to Retire in 2027, Ending Allyship with Crypto Industry
-6. US Strikes ISIS Targets in Syria in Retaliation for Killing of American Soldiers
+1. US-Taiwan Arms Deal: Trump Commits $11.1 Billion for Weapons
+2. US Imposes Restrictions on Mexican Train Crews Operating in the US
+3. Bill Clinton's Name Linked to Jeffrey Epstein in Newly Released Photos
+4. France Cracks Down on Shein Over Illicit Products Sold on Platform
+5. Delaware Supreme Court Restores Elon Musk's $56 Billion Pay Package
+6. Migrants Fuel Britain's Nighttime Workforce as Economy Relies on Foreign Labor
 
 ----
 
-@npr.org
+@reuters.com
 
-Update: The Justice Department released some of the Epstein files, including many previously public documents, related to convicted sex offender Jeffrey Epstein’s criminal charges and his death by suicide in federal custody.
+US-Taiwan arms deal: With a new $11.1 billion weapons pact, Trump has pledged far more money for weapons to Taiwan than his predecessors reut.rs/4p60zXw
 
-[2025-12-20 09:06:51](https://bsky.app/profile/npr.org/post/3maevwdi2pf2b)
+[2025-12-20 09:27:46](https://bsky.app/profile/reuters.com/post/3maex3qag7c2e)
 
 ---
 
 @reuters.com
 
-Wawrinka to retire in 2026 after 24-year pro career reut.rs/4seivlN
+Trump administration imposes restrictions on Mexican train crews operating inside US reut.rs/4p8Ccsv
 
-[2025-12-20 09:05:12](https://bsky.app/profile/reuters.com/post/3maevtepib22b)
-
----
-
-@cnbc.com
-
-Data center stocks can get on track if OpenAI raises money, Jim Cramer says
-
-[2025-12-20 09:04:49](https://bsky.app/profile/cnbc.com/post/3maevsotpew24)
+[2025-12-20 09:25:07](https://bsky.app/profile/reuters.com/post/3maewwykjdn2b)
 
 ---
 
-@cnbc.com
+@nytimes.com
 
-Cramer's Lighting Round: Sell EchoStar
+<strong><span style="color: red;">Breaking News</span>: A father and his 6-year-old son who were separated by immigration officials in New York City have been deported to China.</strong>
 
-[2025-12-20 09:02:40](https://bsky.app/profile/cnbc.com/post/3maevothojf2p)
-
----
-
-@npr.org
-
-In Salzburg, Austria, Christmas involves both St. Nick and Krampus, a mythological punisher with roots stretching back to late antiquity and many fans in the present-day Central Alps.
-
-[2025-12-20 09:02:01](https://bsky.app/profile/npr.org/post/3maevnovjlr2x)
+[2025-12-20 09:20:04](https://bsky.app/profile/nytimes.com/post/3maewnwun3e2b)
 
 ---
 
-@reuters.com
+@usatoday.com
 
-Canadian dollar steadies after mixed retail sales data reut.rs/4jqSnjH
+Bill Clinton is among the VIPs in new photographs released in the Jeffrey Epstein files by the U.S. Department of Justice.
+  
+The photos are included without context or details of when and where they were taken. bit.ly/4ar7hnw
 
-[2025-12-20 09:01:31](https://bsky.app/profile/reuters.com/post/3maevmrqg4v2r)
+[2025-12-20 09:17:29](https://bsky.app/profile/usatoday.com/post/3maewjdgsez2q)
 
 ---
 
 @wsj.com
 
- on.wsj.com/4s2VHFz
+The French government has been at loggerheads with Shein for weeks after authorities said they had found illicit products being sold on the platform. 
 
-[2025-12-20 09:01:02](https://bsky.app/profile/wsj.com/post/3maevlwemyu2c)
+on.wsj.com/4pN1BJn
+
+[2025-12-20 09:16:51](https://bsky.app/profile/wsj.com/post/3maewi7o5el2k)
 
 ---
 
 @japan.reuters.com
 
-ニューヨーク外為市場では、円がドルなどの主要通貨に対し大きく下落した。日銀が利上げを決定したものの、今後の追加利上げに関する方針を明確に示さなかったことを受けた。 bit.ly/4akHMEi
+米ホワイトハウスの国家経済会議（ＮＥＣ）のハセット委員長は１９日、トランプ大統領のインフレ率は極めて低いとする主張は正しいとの考えを示した。 bit.ly/4p2OzWE
 
-[2025-12-20 09:00:57](https://bsky.app/profile/japan.reuters.com/post/3maevlr7vi62q)
-
----
-
-@nikkei.com
-
-【石川県立図書館、来館者全国トップ】
-魅せる円形本棚、撮影・雑談もOK
-www.nikkei.com/article/DGXZQO...
-
-金沢駅から車で約20分ほどの場所にあり、兼六園などと並び目的地の一つにする観光客も。
-
-子供連れ専用スペースや「サイレントルーム」など多様なニーズに対応しています。
-
-県外からの来館も絶えず、2024年度の来館者数は119万人でした。
-
-[2025-12-20 09:00:50](https://bsky.app/profile/nikkei.com/post/3maevlkhnqq2g)
+[2025-12-20 09:15:30](https://bsky.app/profile/japan.reuters.com/post/3maewfrltck22)
 
 ---
 
-@cnn.com
+@reuters.com
 
-President Donald Trump's name was added to the John F. Kennedy Center for the Performing Arts one day after the institution's board of trustees voted to change the facility's name to the "Trump Kennedy Center."
+LatAm assets tick up with Colombia and Chile in focus reut.rs/3LbUbjB
 
-Read more: https://cnn.it/48Z9vrF
+[2025-12-20 09:15:11](https://bsky.app/profile/reuters.com/post/3maewf7kl532b)
 
-[2025-12-20 09:00:44](https://bsky.app/profile/cnn.com/post/3maevlf6ysy22)
+---
+
+@en.afp.com
+
+In the last decade, Britain's nine-million-strong nighttime workforce has become increasingly reliant on migrants like Leandro Cristovao from Angola, who has worked at a south London market for seven years.
+
+u.afp.com/S8iA
+
+[2025-12-20 09:15:05](https://bsky.app/profile/en.afp.com/post/3maewezrvms2f)
+
+---
+
+@washingtonpost.com
+
+The Delaware Supreme Court ruled to restore Elon Musk’s disputed $56 billion pay package, reversing another court’s decision that it had been awarded through an unfair process.
+
+[2025-12-20 09:15:03](https://bsky.app/profile/washingtonpost.com/post/3maeweyan4l2n)
+
+---
+
+@japan.reuters.com
+
+中南米金融市場では通貨と株価の指数がともに上昇した。銅価格の値上がりを背景にチリ株式市場が上昇を主導した。一方、米国とベネズエラの緊張の高まりなど地政学的緊張を見極めようとするムードも強かった。 bit.ly/3MHXbot
+
+[2025-12-20 09:14:34](https://bsky.app/profile/japan.reuters.com/post/3maewe4urd72s)
 
 ---
 
