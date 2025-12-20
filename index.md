@@ -1,9 +1,9 @@
-# [2025-12-20 23:30 updated](2025_12_20.md)
+# [2025-12-20 23:50 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Africa Cup of Nations moved to every four years reut.rs/3MNEWOn <a href="https://bsky.app/profile/reuters.com/post/3magfuyskd624" target="_blank">reuters.com</a> (2025-12-20 23:25:06)</span><span style="padding-right:50px;">A man in Austria was charged in the death of his girlfriend after leaving her behind while hiking, in a case testing ideas of freedom and responsibility in the mountains. <a href="https://bsky.app/profile/nytimes.com/post/3magfuxzu462x" target="_blank">nytimes.com</a> (2025-12-20 23:25:05)</span><span style="padding-right:50px;">Social media influencers who play detective after tragedies are getting it disastrously wrong — falsely accusing innocent people of crimes with little evidence, massive reach and virtually no accountability. <a href="https://bsky.app/profile/axios.com/post/3magfpnvj6s2t" target="_blank">axios.com</a> (2025-12-20 23:22:07)</span><span style="padding-right:50px;">The FT's top 10 novels of the year. Have you read any of them? Have you read all of them? on.ft.com/4ildcwb <a href="https://bsky.app/profile/financialtimes.com/post/3magfk7cqd32k" target="_blank">financialtimes.com</a> (2025-12-20 23:19:04)</span><span style="padding-right:50px;">Weary homebuyers have a new headache: Misleading AI listing photos <a href="https://bsky.app/profile/yahoofinance.com/post/3magesyfezq2x" target="_blank">yahoofinance.com</a> (2025-12-20 23:06:05)</span>
+<span style="padding-right:50px;">Newcastle squander two-goal lead in 2-2 draw with Chelsea reut.rs/49rohbd <a href="https://bsky.app/profile/reuters.com/post/3maggyw6t5j2o" target="_blank">reuters.com</a> (2025-12-20 23:45:11)</span><span style="padding-right:50px;">Thanks to miniaturized sleep labs, scientists are able to track the extreme ways animals snooze in risky environments. <a href="https://bsky.app/profile/apnews.com/post/3maggyr3tmt22" target="_blank">apnews.com</a> (2025-12-20 23:45:06)</span><span style="padding-right:50px;">スキージャンプ女子W杯個人 第9戦 丸山希が今シーズン5勝目 https://news.web.nhk/newsweb/na/na-k10015009541000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maggypmxwy2l" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 23:45:02)</span><span style="padding-right:50px;">Starting Feb. 1, the city of Rome is imposing a 2-euro, or $2.35, fee for tourists to get close to the fountain during prime-time daylight hours. <a href="https://bsky.app/profile/cbsnews.com/post/3maggylz6kk2l" target="_blank">cbsnews.com</a> (2025-12-20 23:45:01)</span><span style="padding-right:50px;">Michaela Benthaus, a 33-year-old German aerospace and mechatronics engineer at the European Space Agency, just became the first wheelchair user ever to travel past the Kármán Line — a common demarcation for outer space that lies 100 kilometers above sea level. https://cnn.it/4scLWEM <a href="https://bsky.app/profile/cnn.com/post/3maggustvv624" target="_blank">cnn.com</a> (2025-12-20 23:42:54)</span>
   </div>
 </div>
 
@@ -32,96 +32,101 @@
 
 ## News Headlines
 
-1. Africa Cup of Nations Tournament to Be Held Every Four Years
-2. Austria Man Charged in Girlfriend's Death After Leaving Her Behind While Hiking
-3. Misleading AI Listing Photos Cause Headaches for Weary Homebuyers
-4. Wagner Moura Picked Up Awards for Brazil's Oscar-Hopeful The Secret Agent
-5. Life Ring and Lifeboat from Edmund Fitzgerald Sell for $150,000 at Auction
-6. Seven Asiatic Elephants Killed in India Train Crash
+- Newcastle Fails to Hold Lead in 2-2 Draw with Chelsea
+  - ニューカッスル、チェルシーに2-2で引き分け
+- Scientists Track Extreme Animal Sleep Patterns in the Wild
+  - 科学者たちは、危険な環境で眠る動物の睡眠パターンを追跡
+- Rome Imposes Fee for Tourists to Visit Fountains
+  - ローマ市、観光地の噴水に2ユーロの料金を導入
+- First Wheelchair User Travels to Outer Space
+  - 欧州宇宙機関の33歳の女性、宇宙旅行に初めての輪椅の乗客
+- Celebrated Journalist Lou Cannon Dies at 92
+  - 92歳のロナルド・レーガンを長く追ったジャーナリスト、ルー・キャノンが亡くなる
+- Influencer's Boxing Match Ends in Disappointment
+  - インフルエンサーのボクシング試合、予想外の結果に終わる
+
 
 ----
 
 @reuters.com
 
-Africa Cup of Nations moved to every four years reut.rs/3MNEWOn
+Newcastle squander two-goal lead in 2-2 draw with Chelsea reut.rs/49rohbd
 
-[2025-12-20 23:25:06](https://bsky.app/profile/reuters.com/post/3magfuyskd624)
-
----
-
-@nytimes.com
-
-A man in Austria was charged in the death of his girlfriend after leaving her behind while hiking, in a case testing ideas of freedom and responsibility in the mountains.
-
-[2025-12-20 23:25:05](https://bsky.app/profile/nytimes.com/post/3magfuxzu462x)
-
----
-
-@axios.com
-
-Social media influencers who play detective after tragedies are getting it disastrously wrong — falsely accusing innocent people of crimes with little evidence, massive reach and virtually no accountability.
-
-[2025-12-20 23:22:07](https://bsky.app/profile/axios.com/post/3magfpnvj6s2t)
-
----
-
-@financialtimes.com
-
-The FT's top 10 novels of the year. Have you read any of them? Have you read all of them? on.ft.com/4ildcwb
-
-[2025-12-20 23:19:04](https://bsky.app/profile/financialtimes.com/post/3magfk7cqd32k)
-
----
-
-@yahoofinance.com
-
-Weary homebuyers have a new headache: Misleading AI listing photos
-
-[2025-12-20 23:06:05](https://bsky.app/profile/yahoofinance.com/post/3magesyfezq2x)
-
----
-
-@wsj.com
-
-The home on the Big Island’s Kona-Kohala Coast has multiple structures surrounding a central courtyard. on.wsj.com/48OCoZ1
-
-[2025-12-20 23:02:18](https://bsky.app/profile/wsj.com/post/3magemaiv5r2z)
-
----
-
-@washingtonpost.com
-
-Woke up to a sore, scratchy throat? You may blame it on dry air, but it’s usually a sign your body is fighting a viral infection.
-
-Over-the-counter pain relievers such as ibuprofen can help, but here are some soothing home remedies to consider: 
-
-[2025-12-20 23:01:01](https://bsky.app/profile/washingtonpost.com/post/3magejw3gae23)
-
----
-
-@usatoday.com
-
-Wagner Moura has picked up awards right and left for Brazil's Oscar hopeful "The Secret Agent." The dictatorship drama couldn't be timelier.
-
-[2025-12-20 23:00:51](https://bsky.app/profile/usatoday.com/post/3magejmydtu2f)
+[2025-12-20 23:45:11](https://bsky.app/profile/reuters.com/post/3maggyw6t5j2o)
 
 ---
 
 @apnews.com
 
-AP photographers used an infrared filter on modified cameras to capture how beams are used to track vehicles and people, enable facial recognition — and ultimately, assert digital control.
+Thanks to miniaturized sleep labs, scientists are able to track the extreme ways animals snooze in risky environments.
 
-[2025-12-20 23:00:11](https://bsky.app/profile/apnews.com/post/3mageignxzg2r)
+[2025-12-20 23:45:06](https://bsky.app/profile/apnews.com/post/3maggyr3tmt22)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+スキージャンプ女子W杯個人 第9戦 丸山希が今シーズン5勝目
+https://news.web.nhk/newsweb/na/na-k10015009541000
+
+[2025-12-20 23:45:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maggypmxwy2l)
+
+---
+
+@cbsnews.com
+
+Starting Feb. 1, the city of Rome is imposing a 2-euro, or $2.35, fee for tourists to get close to the fountain during prime-time daylight hours.
+
+[2025-12-20 23:45:01](https://bsky.app/profile/cbsnews.com/post/3maggylz6kk2l)
+
+---
+
+@cnn.com
+
+Michaela Benthaus, a 33-year-old German aerospace and mechatronics engineer at the European Space Agency, just became the first wheelchair user ever to travel past the Kármán Line — a common demarcation for outer space that lies 100 kilometers above sea level.
+https://cnn.it/4scLWEM
+
+[2025-12-20 23:42:54](https://bsky.app/profile/cnn.com/post/3maggustvv624)
+
+---
+
+@nytimes.com
+
+Lou Cannon died on Friday at age 92. The journalist and author was widely regarded as a foremost authority on Ronald Reagan, whom Cannon covered from his time as California governor through his years in the White House.
+
+[2025-12-20 23:40:06](https://bsky.app/profile/nytimes.com/post/3maggpsg65l26)
+
+---
+
+@wsj.com
+
+The impish influencer’s Netflix boxing battle with Anthony Joshua ends predictably, with defeat and annoyed customers. on.wsj.com/4jhLDnZ
+
+[2025-12-20 23:38:04](https://bsky.app/profile/wsj.com/post/3maggm6hig32i)
+
+---
+
+@cnbc.com
+
+Roomba's bankruptcy may wreck a lot more than one robot vacuum maker
+
+[2025-12-20 23:32:34](https://bsky.app/profile/cnbc.com/post/3maggcdbc662e)
+
+---
+
+@usatoday.com
+
+Jake Paul and Anthony Joshua meet in the ring. But how much will they make for the fight? Here is what to know:
+
+[2025-12-20 23:30:43](https://bsky.app/profile/usatoday.com/post/3magg6zp2lw2l)
 
 ---
 
 @bloomberg.com
 
-As investigators followed Jeffrey Epstein’s money in 2007, his elite team of attorneys waged an aggressive battle to stop them. A cache of private emails obtained by Bloomberg News reveals details of the fight. 
+A swift push to tighten gun laws following the Bondi Beach terrorist attack underscores how far apart Australia and the US stand on confronting firearm violence.
 
-Read our exclusive from October: 
-
-[2025-12-20 23:00:09](https://bsky.app/profile/bloomberg.com/post/3mageiex4p52p)
+[2025-12-20 23:30:24](https://bsky.app/profile/bloomberg.com/post/3magg6hxk3b2a)
 
 ---
 
