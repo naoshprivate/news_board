@@ -1,9 +1,9 @@
-# [2025-12-20 22:30 updated](2025_12_20.md)
+# [2025-12-20 22:50 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Ford Motor is recalling nearly 273,000 vehicles due to an issue with the parking function that could cause cars to roll away, increasing the risk of a crash, according to the National Highway Traffic Safety Administration.  <a href="https://bsky.app/profile/cbsnews.com/post/3magccfexbj2p" target="_blank">cbsnews.com</a> (2025-12-20 22:21:01)</span><span style="padding-right:50px;">Von Allmen denies Odermatt in Val Gardena classic downhill reut.rs/4s8FYVa <a href="https://bsky.app/profile/reuters.com/post/3magbxxukwo2r" target="_blank">reuters.com</a> (2025-12-20 22:15:11)</span><span style="padding-right:50px;">JAXA H3ロケット8号機打ち上げ中止 原因は作業手順の変更 https://news.web.nhk/newsweb/na/na-k10015009401000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3magbxrh6hi2x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 22:15:02)</span><span style="padding-right:50px;">Clinton in Epstein files, Jake Paul and America hits IS reut.rs/4p0UziL <a href="https://bsky.app/profile/reuters.com/post/3magbpdzpk72b" target="_blank">reuters.com</a> (2025-12-20 22:10:22)</span><span style="padding-right:50px;">Stellantis CEO says investments at risk in Europe after EU auto package reut.rs/49njA36 <a href="https://bsky.app/profile/reuters.com/post/3magbfznpic2r" target="_blank">reuters.com</a> (2025-12-20 22:05:09)</span>
+<span style="padding-right:50px;">The justice department's release of a trove of several thousand documents concerning Jeffrey Epstein contained no explosive revelations about Donald Trump's past association with the late sex offender. ft.trib.al/mDbsNI1 <a href="https://bsky.app/profile/financialtimes.com/post/3magdu3e4tf2k" target="_blank">financialtimes.com</a> (2025-12-20 22:48:48)</span><span style="padding-right:50px;">Lucid's big SUV arrives with high expectations, and big risks <a href="https://bsky.app/profile/cnbc.com/post/3magdttfjss2y" target="_blank">cnbc.com</a> (2025-12-20 22:48:40)</span><span style="padding-right:50px;">Abel takes over for Buffett in less than two weeks. Wall Street has some advice for new Berkshire CEO <a href="https://bsky.app/profile/cnbc.com/post/3magdq4ociz23" target="_blank">cnbc.com</a> (2025-12-20 22:46:35)</span><span style="padding-right:50px;">The Oreo-sized baby turtle represents a turning point in Rockalina's recovery: Spending time with her own kind. <a href="https://bsky.app/profile/npr.org/post/3magdoksozv2y" target="_blank">npr.org</a> (2025-12-20 22:45:43)</span><span style="padding-right:50px;">Seven wild Asiatic elephants were killed and a calf was injured when a high-speed passenger train collided with a herd crossing the tracks in India's northeastern state of Assam early Saturday, local authorities said. <a href="https://bsky.app/profile/cbsnews.com/post/3magdncfjd52t" target="_blank">cbsnews.com</a> (2025-12-20 22:45:00)</span>
   </div>
 </div>
 
@@ -32,116 +32,95 @@
 
 ## News Headlines
 
-Here are six important stories with headlines in English:
+Here are six news headlines in English:
 
-1. Ford Recalls 273,000 Vehicles Due to Parking Function Issue
-2. Magnitude 5.0 Earthquake Hits Off Japan's Hokkaido Coast
-3. Stellantis CEO Warns of Investment Risks in Europe Amid Auto Package Dispute
-4. DraftKings Enters Prediction Markets Business with New Technology
-5. Italy's Supreme Court Rules in Favor of TIM in 1998 Concession Fee Case
-6. Holiday Travel Expected to Reach Record Highs in the US This Year
+1. 7 Elephants Killed in Train Collision in India's Assam State
+2. Bank of America Reveals Top Stock Picks for 2026
+3. Ford Recalls 273,000 Vehicles Due to Parking Function Issue
+4. Morocco's Hakimi Ready to Play at Cup of Nations After Injury
+5. Earthquake Hits Northern Japan, No Tsunami Warning Issued
+6. Wall Street's Top Stock Picks for 2026: Under-the-Radar Name Could Triple in Value
 
 ----
 
-@cbsnews.com
+@financialtimes.com
 
-Ford Motor is recalling nearly 273,000 vehicles due to an issue with the parking function that could cause cars to roll away, increasing the risk of a crash, according to the National Highway Traffic Safety Administration. 
+The justice department's release of a trove of several thousand documents concerning Jeffrey Epstein contained no explosive revelations about Donald Trump's past association with the late sex offender. ft.trib.al/mDbsNI1
 
-[2025-12-20 22:21:01](https://bsky.app/profile/cbsnews.com/post/3magccfexbj2p)
+[2025-12-20 22:48:48](https://bsky.app/profile/financialtimes.com/post/3magdu3e4tf2k)
 
 ---
 
-@reuters.com
+@cnbc.com
 
-Von Allmen denies Odermatt in Val Gardena classic downhill reut.rs/4s8FYVa
+Lucid's big SUV arrives with high expectations, and big risks
 
-[2025-12-20 22:15:11](https://bsky.app/profile/reuters.com/post/3magbxxukwo2r)
+[2025-12-20 22:48:40](https://bsky.app/profile/cnbc.com/post/3magdttfjss2y)
+
+---
+
+@cnbc.com
+
+Abel takes over for Buffett in less than two weeks. Wall Street has some advice for new Berkshire CEO
+
+[2025-12-20 22:46:35](https://bsky.app/profile/cnbc.com/post/3magdq4ociz23)
+
+---
+
+@npr.org
+
+The Oreo-sized baby turtle represents a turning point in Rockalina's recovery: Spending time with her own kind.
+
+[2025-12-20 22:45:43](https://bsky.app/profile/npr.org/post/3magdoksozv2y)
+
+---
+
+@cbsnews.com
+
+Seven wild Asiatic elephants were killed and a calf was injured when a high-speed passenger train collided with a herd crossing the tracks in India's northeastern state of Assam early Saturday, local authorities said.
+
+[2025-12-20 22:45:00](https://bsky.app/profile/cbsnews.com/post/3magdncfjd52t)
+
+---
+
+@cnbc.com
+
+Bank of America says Nvidia and these stocks are its top picks for 2026
+
+[2025-12-20 22:44:28](https://bsky.app/profile/cnbc.com/post/3magdmdjrcn24)
+
+---
+
+@cnbc.com
+
+Wall Street's top stock picks for 2026: Mizuho’s under-the-radar name that could more than triple in value
+
+[2025-12-20 22:42:23](https://bsky.app/profile/cnbc.com/post/3magdim6she2m)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-JAXA H3ロケット8号機打ち上げ中止 原因は作業手順の変更
-https://news.web.nhk/newsweb/na/na-k10015009401000
+北海道東部で地震相次ぐ 根室市で震度3の揺れを2回観測
+https://news.web.nhk/newsweb/na/na-k10015009521000
 
-[2025-12-20 22:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3magbxrh6hi2x)
-
----
-
-@reuters.com
-
-Clinton in Epstein files, Jake Paul and America hits IS reut.rs/4p0UziL
-
-[2025-12-20 22:10:22](https://bsky.app/profile/reuters.com/post/3magbpdzpk72b)
+[2025-12-20 22:36:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3magd5cxfmh2m)
 
 ---
 
-@reuters.com
+@bloomberg.com
 
-Stellantis CEO says investments at risk in Europe after EU auto package reut.rs/49njA36
+When Bloomberg’s Jessica Loudis set out to get her German driver’s license, she didn’t expect a bureaucracy so demanding it felt like a second job.
 
-[2025-12-20 22:05:09](https://bsky.app/profile/reuters.com/post/3magbfznpic2r)
-
----
-
-@sokuho.news
-
-🔔防災科研より【強震モニタ】動画です。
-
-震源:根室半島南東沖, 深さ:10km
-マグニチュード:5.0, 最大震度:2
-📍https://www.google.com/maps?q=42.7,146.0&ll=42.7,146.0&z=7&t=h
-地震発生日時:2025-12-20 21:58頃
-(10倍速▶210s→21s) #地震
-
-[2025-12-20 22:03:34](https://bsky.app/profile/sokuho.news/post/3magbd7bddb2y)
+[2025-12-20 22:30:24](https://bsky.app/profile/bloomberg.com/post/3magct6vwbp27)
 
 ---
 
-@sokuho.news
+@usatoday.com
 
-🔔気象庁より【地震速報】です。
+Jake Paul stepped into the ring with a quality boxer and it showed on Friday night.
 
-21時58分頃、北海道で最大震度2の地震を観測しました。
-震源:根室半島南東沖, 深さ:10km, 規模:M5.0
-この地震による津波の心配はありません。
-(2025-12-20 22:02:54) #地震
-https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/20/2025-12-20-21-59-02.html?xlarge_image=1
-
-[2025-12-20 22:02:54](https://bsky.app/profile/sokuho.news/post/3magbbzunuz2e)
-
----
-
-@wsj.com
-
-WSJ readers share their opinions about the latest assisted-driving technologies that are designed to make driving safer on.wsj.com/3MUCndf
-
-[2025-12-20 22:01:51](https://bsky.app/profile/wsj.com/post/3magba4od6n2g)
-
----
-
-@reuters.com
-
-Morocco's Hakimi ready to play at Cup of Nations after injury reut.rs/498MfYw
-
-[2025-12-20 22:00:52](https://bsky.app/profile/reuters.com/post/3magb6emokk23)
-
----
-
-@nikkei.com
-
-中央建設の破綻、カリスマ経営のツケ
-www.nikkei.com/article/DGXZQO...
-
-長らく「愛媛県内の老舗建築業者」だった同社は、渡部功治氏の社長就任後に事業を急速に拡大します。
-
-「新豊洲Brilliaランニングスタジアム」（当時）は2018年に国内の優秀な建築物を表彰するBCS賞を受賞。
-
-21年の東京オリンピックの関連施設も手掛けます。
-
-しかし、積極的な人材採用を進める裏で役員・幹部クラスを含めた社員の退職が相次いでいました。
-
-[2025-12-20 22:00:40](https://bsky.app/profile/nikkei.com/post/3magb5zfrdm22)
+[2025-12-20 22:30:23](https://bsky.app/profile/usatoday.com/post/3magct5lk4d2o)
 
 ---
 
