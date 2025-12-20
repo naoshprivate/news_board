@@ -1,9 +1,9 @@
-# [2025-12-20 12:30 updated](2025_12_20.md)
+# [2025-12-20 12:50 updated](2025_12_20.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">サッカーのイタリア・スーパーカップ（杯）は１９日、リヤドで準決勝を行い、ボローニャがＰＫ戦の末に同大会８回優勝のインテルを下し、決勝に進んだ。 bit.ly/3YEAVhK <a href="https://bsky.app/profile/japan.reuters.com/post/3mafb4gblsu25" target="_blank">japan.reuters.com</a> (2025-12-20 12:27:07)</span><span style="padding-right:50px;">US Justice Dept to appeal dismissal of cases against Trump foes Comey, James reut.rs/4jakSC3 <a href="https://bsky.app/profile/reuters.com/post/3mafaq4ca652k" target="_blank">reuters.com</a> (2025-12-20 12:20:14)</span><span style="padding-right:50px;">The roughly 20,000-square-foot unit is asking $78.9 million, ending rumors tech billionaire Elon Musk bought it late last year. on.wsj.com/4qojPAN <a href="https://bsky.app/profile/wsj.com/post/3mafanvsfmv2i" target="_blank">wsj.com</a> (2025-12-20 12:19:00)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】宮城・大和町でイノシシ用の罠にかかったクマに男性が襲われ死亡 消防 (2025年12月20日 12:14) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mafafzvqlb25" target="_blank">sokuho.news</a> (2025-12-20 12:14:36)</span><span style="padding-right:50px;">宮城 大和町の山林に倒れた男性 クマに襲われたか https://news.web.nhk/newsweb/na/na-k10015009221000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafabjeuj62x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 12:12:02)</span>
+<span style="padding-right:50px;">米司法省 エプスタイン氏の捜査資料を公開 性的虐待などで起訴 https://news.web.nhk/newsweb/na/na-k10015009201000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafcbwnpoa24" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-20 12:48:03)</span><span style="padding-right:50px;">🛎️産経より【独自】です。  ＜独自＞不具合のドクターヘリに部品誤装着で一時運休 ヒラタ学園、マニュアル確認せず (2025/12/20 12:30) #ニュース  🚃鉄道運行情報 🔗https://transit.yahoo.co.jp/diainfo https://www.sankei.com/article/20251220-MZQ7X4KU3FMLBOX53GX6233HXE/ <a href="https://bsky.app/profile/sokuho.news/post/3mafc6o53xc2s" target="_blank">sokuho.news</a> (2025-12-20 12:46:15)</span><span style="padding-right:50px;">Russia's Dmitriev heading for US to meet Witkoff, Kushner, source says reut.rs/48PkXHL <a href="https://bsky.app/profile/reuters.com/post/3mafbtw3vqj2y" target="_blank">reuters.com</a> (2025-12-20 12:40:15)</span><span style="padding-right:50px;">In @nytopinion.nytimes.com   “I get the sense from my students that A.I. feels like the sour icing on an already bitter cake,” Colleen Kinder writes. “Adults need to step up and set parameters so that it’s not on these kids to self-regulate.” <a href="https://bsky.app/profile/nytimes.com/post/3mafbtmtwoe2r" target="_blank">nytimes.com</a> (2025-12-20 12:40:05)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】罠にかかったクマに襲われたか “猟友会”の男性死亡 宮城 (12:37) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mafbslc2qy2y" target="_blank">sokuho.news</a> (2025-12-20 12:39:30)</span>
   </div>
 </div>
 
@@ -32,38 +32,56 @@
 
 ## News Headlines
 
-Here are six news headlines in English:
+Here are six important stories with headlines in English:
 
-1. Italy Super Cup: Inter Milan's 8th Title Bid Ends in PK Shootout Loss
-2. US Justice Department to Appeal Dismissal of Trump Associates' Cases
-3. Elon Musk's Bel Air Mansion Sells for $78.9 Million
-4. 17 Injured in NJ Transit Train Derailment in Montclair, New Jersey
-5. US Airstrikes Hit ISIS Targets in Syria in Response to Soldier Deaths
-6. Jeffrey Epstein Files: Thousands of Documents Released by US Department of Justice
+1. Japan's Justice Ministry Releases Files on Epstein's Investigation
+2. US Justice Dept. to Appeal Dismissal of Cases Against Trump Allies
+3. Taipei Attack: Man with Knife and Smoke Grenades Targets Crowds
+4. US FDA Grants Priority Vouchers to Merck's Cholesterol and Cancer Treatments
+5. Japan and Central Asian Countries Hold First-Ever Summit
+6. US Releases Thousands of Files on Epstein's Sex Trafficking Case
 
 ----
 
-@japan.reuters.com
+@nhknewsunofficial.bsky.social
 
-サッカーのイタリア・スーパーカップ（杯）は１９日、リヤドで準決勝を行い、ボローニャがＰＫ戦の末に同大会８回優勝のインテルを下し、決勝に進んだ。 bit.ly/3YEAVhK
+米司法省 エプスタイン氏の捜査資料を公開 性的虐待などで起訴
+https://news.web.nhk/newsweb/na/na-k10015009201000
 
-[2025-12-20 12:27:07](https://bsky.app/profile/japan.reuters.com/post/3mafb4gblsu25)
+[2025-12-20 12:48:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafcbwnpoa24)
+
+---
+
+@sokuho.news
+
+🛎️産経より【独自】です。
+
+＜独自＞不具合のドクターヘリに部品誤装着で一時運休 ヒラタ学園、マニュアル確認せず
+(2025/12/20 12:30) #ニュース
+
+🚃鉄道運行情報
+🔗https://transit.yahoo.co.jp/diainfo
+https://www.sankei.com/article/20251220-MZQ7X4KU3FMLBOX53GX6233HXE/
+
+[2025-12-20 12:46:15](https://bsky.app/profile/sokuho.news/post/3mafc6o53xc2s)
 
 ---
 
 @reuters.com
 
-US Justice Dept to appeal dismissal of cases against Trump foes Comey, James reut.rs/4jakSC3
+Russia's Dmitriev heading for US to meet Witkoff, Kushner, source says reut.rs/48PkXHL
 
-[2025-12-20 12:20:14](https://bsky.app/profile/reuters.com/post/3mafaq4ca652k)
+[2025-12-20 12:40:15](https://bsky.app/profile/reuters.com/post/3mafbtw3vqj2y)
 
 ---
 
-@wsj.com
+@nytimes.com
 
-The roughly 20,000-square-foot unit is asking $78.9 million, ending rumors tech billionaire Elon Musk bought it late last year. on.wsj.com/4qojPAN
+In @nytopinion.nytimes.com 
 
-[2025-12-20 12:19:00](https://bsky.app/profile/wsj.com/post/3mafanvsfmv2i)
+“I get the sense from my students that A.I. feels like the sour icing on an already bitter cake,” Colleen Kinder writes. “Adults need to step up and set parameters so that it’s not on these kids to self-regulate.”
+
+[2025-12-20 12:40:05](https://bsky.app/profile/nytimes.com/post/3mafbtmtwoe2r)
 
 ---
 
@@ -71,61 +89,60 @@ The roughly 20,000-square-foot unit is asking $78.9 million, ending rumors tech 
 
 🔔ANNより【速報】です。
 
-【速報】宮城・大和町でイノシシ用の罠にかかったクマに男性が襲われ死亡 消防
-(2025年12月20日 12:14) #ニュース
+【速報】罠にかかったクマに襲われたか “猟友会”の男性死亡 宮城
+(12:37) #ニュース
 
-[2025-12-20 12:14:36](https://bsky.app/profile/sokuho.news/post/3mafafzvqlb25)
-
----
-
-@nhknewsunofficial.bsky.social
-
-宮城 大和町の山林に倒れた男性 クマに襲われたか
-https://news.web.nhk/newsweb/na/na-k10015009221000
-
-[2025-12-20 12:12:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafabjeuj62x)
-
----
-
-@reuters.com
-
-Angels settle wrongful death lawsuit with Tyler Skaggs’ family reut.rs/4s8Nn6X
-
-[2025-12-20 12:10:10](https://bsky.app/profile/reuters.com/post/3mafa6534cj2i)
-
----
-
-@japan.reuters.com
-
-サッカーのドイツ１部ブンデスリーガは１９日、１試合を行い、町野修斗が途中出場したボルシアＭＧは敵地でドルトムントに０─２で敗れた。 bit.ly/4pL00U5
-
-[2025-12-20 12:09:53](https://bsky.app/profile/japan.reuters.com/post/3mafa5mnz5k26)
+[2025-12-20 12:39:30](https://bsky.app/profile/sokuho.news/post/3mafbslc2qy2y)
 
 ---
 
 @sokuho.news
 
-<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>京都 精華町 “近鉄京都線の特急電車が車と衝突”</strong><br><strong>(2025-12-20 12:00:03) #ニュース</strong>
+🛎️FNNより【速報】です。
 
-[2025-12-20 12:07:12](https://bsky.app/profile/sokuho.news/post/3maf7ysr5i62e)
+【速報】高市首相 中央アジア5カ国と初の首脳会合で成果強調「互恵的協力関係を一層引き上げる」 中露を意識し関係強化へ 「東京宣言」を採択
+(2025-12-20 12:38) #ニュース
+
+[2025-12-20 12:39:16](https://bsky.app/profile/sokuho.news/post/3mafbs56lxt2v)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】近鉄京都線の踏切で列車と車が衝突、車から火 京都
+(2025-12-20 12:33) #ニュース
+
+[2025-12-20 12:38:17](https://bsky.app/profile/sokuho.news/post/3mafbqfb2gr26)
+
+---
+
+@sokuho.news
+
+🛎️NNNより【速報】です。
+
+【速報】大和町の山林でわなにかかったクマの横に倒れた男性、消防が男性の『死亡』確認（宮城）
+(2025-12-20 12:20) #ニュース
+
+[2025-12-20 12:33:58](https://bsky.app/profile/sokuho.news/post/3mafbiomytl2a)
+
+---
+
+@japan.reuters.com
+
+男子テニスで元世界ランキング３位、スタン・バブリンカ（４０、スイス）は１９日、２０２６年限りで現役を引退する意向を示した。 bit.ly/4j4SRf7
+
+[2025-12-20 12:33:54](https://bsky.app/profile/japan.reuters.com/post/3mafbik5sib2v)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-兵庫県警 警察官9人 オンラインカジノで賭博の疑い 書類送検
-https://news.web.nhk/newsweb/na/na-k10015009251000
+年越し前に 生活苦しい人の全国一斉相談会 弁護士らが対応
+https://news.web.nhk/newsweb/na/na-k10015009241000
 
-[2025-12-20 12:06:01](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maf7wrk2zc2w)
-
----
-
-@nhknewsunofficial.bsky.social
-
-京都 精華町 “近鉄京都線の特急電車が車と衝突”
-https://news.web.nhk/newsweb/na/na-k10015009271000
-
-[2025-12-20 12:03:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maf7rg67pw2y)
+[2025-12-20 12:33:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mafbh2fy6f2l)
 
 ---
 
