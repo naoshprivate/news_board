@@ -1,9 +1,9 @@
-# [2025-12-21 20:10 updated](2025_12_21.md)
+# [2025-12-21 20:30 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">レスリング全日本選手権 藤波朱理 57キロ級に変更後 初の優勝 https://news.web.nhk/newsweb/na/na-k10015010001000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mailfjxswf2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 20:09:07)</span><span style="padding-right:50px;">“巨大地震” 100年に満たない間隔で起きてしまう可能性も https://news.web.nhk/newsweb/na/na-k10015009711000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mailfeqy2n2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 20:09:02)</span><span style="padding-right:50px;">South Korea's An wins World Tour Finals to equal calendar year title record reut.rs/49j9tMJ <a href="https://bsky.app/profile/reuters.com/post/3mail6gh2e52y" target="_blank">reuters.com</a> (2025-12-21 20:05:11)</span><span style="padding-right:50px;">🇦🇺 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England skipper Ben Stokes said on Sunday it "sucks" to lose the Ashes inside 11 days but vowed his side would bounce back as a more consistent unit in the final two Tests in Melbourne and Sydney ➡️ u.afp.com/S8SF <a href="https://bsky.app/profile/en.afp.com/post/3mail652ke42q" target="_blank">en.afp.com</a> (2025-12-21 20:05:01)</span><span style="padding-right:50px;">【関門海峡が目の前、寿司と絶景満喫】 山口県下関市・唐戸市場の「活きいき馬関街」 www.nikkei.com/article/DGXZQO...  週末に開催されるイベントには新鮮な寿司や海鮮丼、ふぐなどの屋台が並び、県外や海外からも観光客が押し寄せます。  下関観光「最強コンテンツ」のルーツは、市場の仲卸業者の動きから「自然発生」したものでした。 <a href="https://bsky.app/profile/nikkei.com/post/3maikwokfee26" target="_blank">nikkei.com</a> (2025-12-21 20:00:51)</span>
+<span style="padding-right:50px;">🇺🇸 🇻🇪 The United States "apprehended" an oil tanker off Venezuela on Saturday, a move Caracas deemed a "theft and kidnapping," in the latest salvo of a pressure campaign by Washington, the US government said ➡️ u.afp.com/S8Tk <a href="https://bsky.app/profile/en.afp.com/post/3maimhanph42q" target="_blank">en.afp.com</a> (2025-12-21 20:28:01)</span><span style="padding-right:50px;">Minute's silence held on Bondi beach to mark week since terror attack <a href="https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maimb2bshg2r" target="_blank">bbcnews-world-rss.bsky.social</a> (2025-12-21 20:24:32)</span><span style="padding-right:50px;">バレーボール 全日本選手権 男子はウルフドッグス名古屋が優勝 https://news.web.nhk/newsweb/na/na-k10015010031000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maimaewvus2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 20:24:08)</span><span style="padding-right:50px;">小泉防衛相 離島防衛 水陸機動団視察“南西地域の防衛強化を” https://news.web.nhk/newsweb/na/na-k10015010021000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maima7tydd2u" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 20:24:02)</span><span style="padding-right:50px;">入社1年目で知りたかった国の予算の基礎　5分動画でわかる www.nikkei.com/article/DGXZQO...  この時期よく出てくるのが国の予算に関するニュース。  どういう仕組みで決まり、何にお金を使っているのでしょうか。動画で解説します。 <a href="https://bsky.app/profile/nikkei.com/post/3mailsyc55c2y" target="_blank">nikkei.com</a> (2025-12-21 20:16:41)</span>
   </div>
 </div>
 
@@ -32,15 +32,75 @@
 
 ## News Headlines
 
-- Japanese Wrestler Fujiwara Shiori Wins 57kg Weight Class Championship in All-Japan Wrestling Championship
-- Large Earthquake May Occur Within 100 Years
-- South Korea's An Wins World Tour Finals to Equal Calendar Year Title Record
-- England Captain Ben Stokes Vows to Bounce Back After Ashes Loss
-- Swedish Customs Board Russian Ship in Swedish Waters for Inspection
-- Australian Team Wins Ashes in Record 11 Days
-
+[{"en": "US "apprehended" oil tanker off Venezuela, Caracas calls it "theft and kidnapping""}, 
+{"en": "Minute's silence held on Bondi beach to mark week since terror attack"}, 
+{"en": "Japanese volleyball team Wolf Dogs Nagoya wins All Japan Championship"}, 
+{"en": "Japan's defense minister visits island defense unit, vows to strengthen defense in southwest region"}, 
+{"en": "Japan's new hires learn the basics of the country's budget in just 5 minutes"}, 
+{"en": "Congress wraps up the year with few legislative accomplishments and a growing list of retiring lawmakers"}, 
+{"en": "Kremlin denies plans for three-way talks between Ukraine, Russia, and the US"}, 
+{"en": "Asian Football Confederation to launch Nations League competition"}, 
+{"en": "Australia wins Ashes in just 11 days, England's tail-end resistance falls short"}, 
+{"en": "Swedish customs board Russian ship in Swedish waters for inspection"}, 
+{"en": "Australian people hold candlelight vigil for Bondi Beach shooting victims"}, 
+{"en": "Texas Tech stuns No. 3 Duke in second half comeback"}]
 
 ----
+
+@en.afp.com
+
+🇺🇸 🇻🇪 The United States "apprehended" an oil tanker off Venezuela on Saturday, a move Caracas deemed a "theft and kidnapping," in the latest salvo of a pressure campaign by Washington, the US government said ➡️ u.afp.com/S8Tk
+
+[2025-12-21 20:28:01](https://bsky.app/profile/en.afp.com/post/3maimhanph42q)
+
+---
+
+@bbcnews-world-rss.bsky.social
+
+Minute's silence held on Bondi beach to mark week since terror attack
+
+[2025-12-21 20:24:32](https://bsky.app/profile/bbcnews-world-rss.bsky.social/post/3maimb2bshg2r)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+バレーボール 全日本選手権 男子はウルフドッグス名古屋が優勝
+https://news.web.nhk/newsweb/na/na-k10015010031000
+
+[2025-12-21 20:24:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maimaewvus2m)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+小泉防衛相 離島防衛 水陸機動団視察“南西地域の防衛強化を”
+https://news.web.nhk/newsweb/na/na-k10015010021000
+
+[2025-12-21 20:24:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maima7tydd2u)
+
+---
+
+@nikkei.com
+
+入社1年目で知りたかった国の予算の基礎　5分動画でわかる
+www.nikkei.com/article/DGXZQO...
+
+この時期よく出てくるのが国の予算に関するニュース。
+
+どういう仕組みで決まり、何にお金を使っているのでしょうか。動画で解説します。
+
+[2025-12-21 20:16:41](https://bsky.app/profile/nikkei.com/post/3mailsyc55c2y)
+
+---
+
+@apnews.com
+
+<strong><span style="color: red;">BREAKING:</span> Israel’s Cabinet has approved a proposal for 19 new settlements in the occupied West Bank, the far-right finance minister says.</strong>
+
+[2025-12-21 20:11:02](https://bsky.app/profile/apnews.com/post/3mailivhoon2n)
+
+---
 
 @nhknewsunofficial.bsky.social
 
@@ -73,66 +133,6 @@ South Korea's An wins World Tour Finals to equal calendar year title record reut
 🇦🇺 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England skipper Ben Stokes said on Sunday it "sucks" to lose the Ashes inside 11 days but vowed his side would bounce back as a more consistent unit in the final two Tests in Melbourne and Sydney ➡️ u.afp.com/S8SF
 
 [2025-12-21 20:05:01](https://bsky.app/profile/en.afp.com/post/3mail652ke42q)
-
----
-
-@nikkei.com
-
-【関門海峡が目の前、寿司と絶景満喫】
-山口県下関市・唐戸市場の「活きいき馬関街」
-www.nikkei.com/article/DGXZQO...
-
-週末に開催されるイベントには新鮮な寿司や海鮮丼、ふぐなどの屋台が並び、県外や海外からも観光客が押し寄せます。
-
-下関観光「最強コンテンツ」のルーツは、市場の仲卸業者の動きから「自然発生」したものでした。
-
-[2025-12-21 20:00:51](https://bsky.app/profile/nikkei.com/post/3maikwokfee26)
-
----
-
-@cnbc.com
-
-I recently made my first full-time hire to support my business and received more than 1,000 applications in just a few days.
-
-Here’s how the person she hired stood out among 1,000+ applicants, despite not having experience and how you can do the same.
-
-[2025-12-21 20:00:16](https://bsky.app/profile/cnbc.com/post/3maikvmt5ur2e)
-
----
-
-@npr.org
-
-Congress is wrapping up the year without a lot of legislative accomplishments under its belt and a growing list of lawmakers who are retiring. Former members say the challenges on Capitol Hill have been brewing for a long time. n.pr/3L60qp3
-
-[2025-12-21 19:45:14](https://bsky.app/profile/npr.org/post/3maik2rbqg32m)
-
----
-
-@nhknewsunofficial.bsky.social
-
-タイとカンボジアの軍事衝突 非難の応酬続き収束見通せず
-https://news.web.nhk/newsweb/na/na-k10015009721000
-
-[2025-12-21 19:45:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maik2ii4xv2w)
-
----
-
-@sokuho.news
-
-🛎️NNNより【速報】です。
-
-【速報】B1長崎ヴェルカ 11連勝で首位キープ サンロッカーズ渋谷に連勝《長崎》
-(2025-12-21 19:35) #ニュース
-
-[2025-12-21 19:36:02](https://bsky.app/profile/sokuho.news/post/3maijkcm2fl27)
-
----
-
-@en.afp.com
-
-🇺🇦 🇷🇺 🇺🇸 The Kremlin on Sunday denied that three-way talks between Ukraine, Russia and the United States were on the cards, as diplomats gathered in Miami for talks on ending the conflict in Ukraine ➡️ u.afp.com/S8S9
-
-[2025-12-21 19:34:58](https://bsky.app/profile/en.afp.com/post/3maijif7cjy2u)
 
 ---
 
