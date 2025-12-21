@@ -1,9 +1,9 @@
-# [2025-12-21 19:50 updated](2025_12_21.md)
+# [2025-12-21 20:10 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Congress is wrapping up the year without a lot of legislative accomplishments under its belt and a growing list of lawmakers who are retiring. Former members say the challenges on Capitol Hill have been brewing for a long time. n.pr/3L60qp3 <a href="https://bsky.app/profile/npr.org/post/3maik2rbqg32m" target="_blank">npr.org</a> (2025-12-21 19:45:14)</span><span style="padding-right:50px;">タイとカンボジアの軍事衝突 非難の応酬続き収束見通せず https://news.web.nhk/newsweb/na/na-k10015009721000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maik2ii4xv2w" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 19:45:03)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】B1長崎ヴェルカ 11連勝で首位キープ サンロッカーズ渋谷に連勝《長崎》 (2025-12-21 19:35) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3maijkcm2fl27" target="_blank">sokuho.news</a> (2025-12-21 19:36:02)</span><span style="padding-right:50px;">🇺🇦 🇷🇺 🇺🇸 The Kremlin on Sunday denied that three-way talks between Ukraine, Russia and the United States were on the cards, as diplomats gathered in Miami for talks on ending the conflict in Ukraine ➡️ u.afp.com/S8S9 <a href="https://bsky.app/profile/en.afp.com/post/3maijif7cjy2u" target="_blank">en.afp.com</a> (2025-12-21 19:34:58)</span><span style="padding-right:50px;">Essex is at the heart of the UK government’s AI ambitions — plans that could radically reshape British society and politics. <a href="https://bsky.app/profile/bloomberg.com/post/3maij7qxpp623" target="_blank">bloomberg.com</a> (2025-12-21 19:30:08)</span>
+<span style="padding-right:50px;">レスリング全日本選手権 藤波朱理 57キロ級に変更後 初の優勝 https://news.web.nhk/newsweb/na/na-k10015010001000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mailfjxswf2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 20:09:07)</span><span style="padding-right:50px;">“巨大地震” 100年に満たない間隔で起きてしまう可能性も https://news.web.nhk/newsweb/na/na-k10015009711000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mailfeqy2n2b" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 20:09:02)</span><span style="padding-right:50px;">South Korea's An wins World Tour Finals to equal calendar year title record reut.rs/49j9tMJ <a href="https://bsky.app/profile/reuters.com/post/3mail6gh2e52y" target="_blank">reuters.com</a> (2025-12-21 20:05:11)</span><span style="padding-right:50px;">🇦🇺 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England skipper Ben Stokes said on Sunday it "sucks" to lose the Ashes inside 11 days but vowed his side would bounce back as a more consistent unit in the final two Tests in Melbourne and Sydney ➡️ u.afp.com/S8SF <a href="https://bsky.app/profile/en.afp.com/post/3mail652ke42q" target="_blank">en.afp.com</a> (2025-12-21 20:05:01)</span><span style="padding-right:50px;">【関門海峡が目の前、寿司と絶景満喫】 山口県下関市・唐戸市場の「活きいき馬関街」 www.nikkei.com/article/DGXZQO...  週末に開催されるイベントには新鮮な寿司や海鮮丼、ふぐなどの屋台が並び、県外や海外からも観光客が押し寄せます。  下関観光「最強コンテンツ」のルーツは、市場の仲卸業者の動きから「自然発生」したものでした。 <a href="https://bsky.app/profile/nikkei.com/post/3maikwokfee26" target="_blank">nikkei.com</a> (2025-12-21 20:00:51)</span>
   </div>
 </div>
 
@@ -32,15 +32,73 @@
 
 ## News Headlines
 
-- US Congress Wraps Up Year with Few Legislative Accomplishments
-- Japan's AI Ambitions Could Radically Reshape Society and Politics
-- Japan's AI Ambitions Could Radically Reshape Society and Politics
-- Swedish Customs Boards Russian Ship in Swedish Waters to Conduct Inspection
-- Millions of Homeowners Are Still Locked into Ultralow Mortgage Rates
-- US Says Russia Has Not Abandoned Plan to Annex Parts of Europe
+- Japanese Wrestler Fujiwara Shiori Wins 57kg Weight Class Championship in All-Japan Wrestling Championship
+- Large Earthquake May Occur Within 100 Years
+- South Korea's An Wins World Tour Finals to Equal Calendar Year Title Record
+- England Captain Ben Stokes Vows to Bounce Back After Ashes Loss
+- Swedish Customs Board Russian Ship in Swedish Waters for Inspection
+- Australian Team Wins Ashes in Record 11 Days
 
 
 ----
+
+@nhknewsunofficial.bsky.social
+
+レスリング全日本選手権 藤波朱理 57キロ級に変更後 初の優勝
+https://news.web.nhk/newsweb/na/na-k10015010001000
+
+[2025-12-21 20:09:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mailfjxswf2b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+“巨大地震” 100年に満たない間隔で起きてしまう可能性も
+https://news.web.nhk/newsweb/na/na-k10015009711000
+
+[2025-12-21 20:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mailfeqy2n2b)
+
+---
+
+@reuters.com
+
+South Korea's An wins World Tour Finals to equal calendar year title record reut.rs/49j9tMJ
+
+[2025-12-21 20:05:11](https://bsky.app/profile/reuters.com/post/3mail6gh2e52y)
+
+---
+
+@en.afp.com
+
+🇦🇺 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England skipper Ben Stokes said on Sunday it "sucks" to lose the Ashes inside 11 days but vowed his side would bounce back as a more consistent unit in the final two Tests in Melbourne and Sydney ➡️ u.afp.com/S8SF
+
+[2025-12-21 20:05:01](https://bsky.app/profile/en.afp.com/post/3mail652ke42q)
+
+---
+
+@nikkei.com
+
+【関門海峡が目の前、寿司と絶景満喫】
+山口県下関市・唐戸市場の「活きいき馬関街」
+www.nikkei.com/article/DGXZQO...
+
+週末に開催されるイベントには新鮮な寿司や海鮮丼、ふぐなどの屋台が並び、県外や海外からも観光客が押し寄せます。
+
+下関観光「最強コンテンツ」のルーツは、市場の仲卸業者の動きから「自然発生」したものでした。
+
+[2025-12-21 20:00:51](https://bsky.app/profile/nikkei.com/post/3maikwokfee26)
+
+---
+
+@cnbc.com
+
+I recently made my first full-time hire to support my business and received more than 1,000 applications in just a few days.
+
+Here’s how the person she hired stood out among 1,000+ applicants, despite not having experience and how you can do the same.
+
+[2025-12-21 20:00:16](https://bsky.app/profile/cnbc.com/post/3maikvmt5ur2e)
+
+---
 
 @npr.org
 
@@ -75,58 +133,6 @@ https://news.web.nhk/newsweb/na/na-k10015009721000
 🇺🇦 🇷🇺 🇺🇸 The Kremlin on Sunday denied that three-way talks between Ukraine, Russia and the United States were on the cards, as diplomats gathered in Miami for talks on ending the conflict in Ukraine ➡️ u.afp.com/S8S9
 
 [2025-12-21 19:34:58](https://bsky.app/profile/en.afp.com/post/3maijif7cjy2u)
-
----
-
-@bloomberg.com
-
-Essex is at the heart of the UK government’s AI ambitions — plans that could radically reshape British society and politics.
-
-[2025-12-21 19:30:08](https://bsky.app/profile/bloomberg.com/post/3maij7qxpp623)
-
----
-
-@aljazeera.com
-
-One Palestinian killed by Israeli army in Gaza while two Palestinians, including a child, are shot dead in West Bank.
-
-[2025-12-21 19:30:04](https://bsky.app/profile/aljazeera.com/post/3maij7nkfbr2p)
-
----
-
-@nhknewsunofficial.bsky.social
-
-豪 シドニー 銃撃事件から1週間 現場で大規模な追悼集会
-https://news.web.nhk/newsweb/na/na-k10015009991000
-
-[2025-12-21 19:21:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maiipkuqvt2k)
-
----
-
-@nhknewsunofficial.bsky.social
-
-東京デフリンピックでメダル獲得の陸上選手らが感謝のイベント
-https://news.web.nhk/newsweb/na/na-k10015009901000
-
-[2025-12-21 19:12:07](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maii7me4bk22)
-
----
-
-@nhknewsunofficial.bsky.social
-
-横浜 泉区の工場で火災 男性1人がけが
-https://news.web.nhk/newsweb/na/na-k10015009891000
-
-[2025-12-21 19:12:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maii7gybfg2m)
-
----
-
-@nhknewsunofficial.bsky.social
-
-立民 吉田代表代行“来年度予算案 物価高対応実効性問われる”
-https://news.web.nhk/newsweb/na/na-k10015009951000
-
-[2025-12-21 19:09:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maii24bezp2l)
 
 ---
 
