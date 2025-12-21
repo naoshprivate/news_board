@@ -1,9 +1,9 @@
-# [2025-12-21 14:50 updated](2025_12_21.md)
+# [2025-12-21 15:10 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】全国高校駅伝・男子 鎮西学院は51位 (2025-12-21 14:43:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mahzdi2u242v" target="_blank">sokuho.news</a> (2025-12-21 14:45:53)</span><span style="padding-right:50px;"> Year in a word: Affordability ft.trib.al/EqnloZ3  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3mahytvqjha2f" target="_blank">financialtimes.com</a> (2025-12-21 14:37:10)</span><span style="padding-right:50px;"> Wool is no longer the black sheep of agricultural commodities ft.trib.al/hzK6S8z  | opinion <a href="https://bsky.app/profile/financialtimes.com/post/3mahytvd7s42y" target="_blank">financialtimes.com</a> (2025-12-21 14:37:10)</span><span style="padding-right:50px;">【速報中】全国高校駅伝 男子 学法石川が初優勝 大会新記録で https://news.web.nhk/newsweb/na/na-k10015007911000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahyrxof4w2x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 14:36:03)</span><span style="padding-right:50px;">🛎️FNNより【速報】です。  【速報】全国高校駅伝 男子・学法石川が初優勝 大会新記録 (2025-12-21 14:30) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mahyrexvbl2x" target="_blank">sokuho.news</a> (2025-12-21 14:35:46)</span>
+<span style="padding-right:50px;">全国高校駅伝 男子 学法石川が初優勝 大会新記録で【全結果】 https://news.web.nhk/newsweb/na/na-k10015007911000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mai2mxvck72v" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 15:09:03)</span><span style="padding-right:50px;">🔔NHKより【速報 JUST IN】です。  全国高校駅伝 男子 学法石川が初優勝 大会新記録で【全結果】 (2025-12-21 15:05:51) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mai2i26tjd2x" target="_blank">sokuho.news</a> (2025-12-21 15:06:20)</span><span style="padding-right:50px;">The Indiana Pacers star Tyrese Haliburton packed a career’s worth of heroics into one deep playoff run. He shares his thoughts on what comes next and how to dress for success in our “Annual Self-Assessment.”  <a href="https://bsky.app/profile/cnn.com/post/3mai2adhck32c" target="_blank">cnn.com</a> (2025-12-21 15:02:01)</span><span style="padding-right:50px;">スマホの振動・対話型AIに潜む個人情報流出リスク www.nikkei.com/article/DGXZQO...  スマホが音声を出す時の振動を手掛かりに通話を盗聴。  対話型AIが使用者の持病や体重を聞き出し。  思わぬ形で情報流出の可能性を指摘する科学研究が現れています。  2025年11月 #注目された記事 <a href="https://bsky.app/profile/nikkei.com/post/3mai25ux3gg2x" target="_blank">nikkei.com</a> (2025-12-21 15:00:39)</span><span style="padding-right:50px;">米誌フォーブスの長者番付によると、米電気自動車（ＥＶ）大手テスラのイーロン・マスク最高経営責任者（ＣＥＯ）の純資産が１９日までに約７４９０億ドルとなり、初めて７０００億ドルを突破した。 bit.ly/3Lf31Nz <a href="https://bsky.app/profile/japan.reuters.com/post/3mai25aakio2s" target="_blank">japan.reuters.com</a> (2025-12-21 15:00:17)</span>
   </div>
 </div>
 
@@ -32,111 +32,113 @@
 
 ## News Headlines
 
-- Japanese Team Wins National High School Relay Championship for the First Time
-  - 全国高校駅伝で初優勝　学法石川
-- US Seizes Second Oil Tanker Off Venezuela
-  - 米国がベネズエラ沖で石油タンカーを拿捕
-- Mass Shooting in South Africa Leaves at Least 9 Dead
-  - 南アフリカで9人以上の殺人事件
-- New Stew Recipes to Warm Your Belly and Home
-  - 季節の représentation　温めにいいスープのレシピ
-- Oregon Beats James Madison in College Football Playoff
-  - カレッジフットボール　オレゴン大学が決勝勝利
-- Australian PM Announces Intelligence Review After Bondi Attack
-  - オーストラリアの首相　「ボンディで起きた事件を調べる調査チームを設置
+- Japan High School Track and Field Championship: Hokuriku University Leads to First Victory
+  - 全国高校駅伝　男子　学法石川が初優勝　大会新記録で
+- Revolut Faces Off with Former Staff Over Tax on Share Awards
+  - Revolut　従業員と税金問題で対立
+- Tesla CEO Elon Musk's Net Worth Surpasses $70 Billion
+  - テスラCEOイーロン・マスクの純資産は7000億ドルを超える
+- South African Police Launch Manhunt After Mass Shooting Kills 9
+  - 南アフリカ　銃撃事件　9人死亡　10人けが
+- Australian Aboriginal Art Shines at Museum
+  - オーストラリア　先住民アート　美術館で脚光
+- US Coast Guard Seizes Oil Tanker in Venezuela
+  - 米国　ベネズエラ沖　石油タンカー拿捕
 
 
 ----
 
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】全国高校駅伝・男子 鎮西学院は51位
-(2025-12-21 14:43:00) #ニュース
-
-[2025-12-21 14:45:53](https://bsky.app/profile/sokuho.news/post/3mahzdi2u242v)
-
----
-
-@financialtimes.com
-
- Year in a word: Affordability ft.trib.al/EqnloZ3  | opinion
-
-[2025-12-21 14:37:10](https://bsky.app/profile/financialtimes.com/post/3mahytvqjha2f)
-
----
-
-@financialtimes.com
-
- Wool is no longer the black sheep of agricultural commodities ft.trib.al/hzK6S8z  | opinion
-
-[2025-12-21 14:37:10](https://bsky.app/profile/financialtimes.com/post/3mahytvd7s42y)
-
----
-
 @nhknewsunofficial.bsky.social
 
-【速報中】全国高校駅伝 男子 学法石川が初優勝 大会新記録で
+全国高校駅伝 男子 学法石川が初優勝 大会新記録で【全結果】
 https://news.web.nhk/newsweb/na/na-k10015007911000
 
-[2025-12-21 14:36:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahyrxof4w2x)
+[2025-12-21 15:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mai2mxvck72v)
 
 ---
 
 @sokuho.news
 
-🛎️FNNより【速報】です。
+<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>全国高校駅伝 男子 学法石川が初優勝 大会新記録で【全結果】</strong><br><strong>(2025-12-21 15:05:51) #ニュース</strong>
 
-【速報】全国高校駅伝 男子・学法石川が初優勝 大会新記録
-(2025-12-21 14:30) #ニュース
-
-[2025-12-21 14:35:46](https://bsky.app/profile/sokuho.news/post/3mahyrexvbl2x)
+[2025-12-21 15:06:20](https://bsky.app/profile/sokuho.news/post/3mai2i26tjd2x)
 
 ---
 
-@sokuho.news
+@cnn.com
 
-<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>【速報中】全国高校駅伝 男子 学法石川が初優勝 大会新記録で</strong><br><strong>(2025-12-21 14:34:25) #ニュース</strong>
+The Indiana Pacers star Tyrese Haliburton packed a career’s worth of heroics into one deep playoff run. He shares his thoughts on what comes next and how to dress for success in our “Annual Self-Assessment.” 
 
-[2025-12-21 14:34:48](https://bsky.app/profile/sokuho.news/post/3mahypoc7je2s)
+[2025-12-21 15:02:01](https://bsky.app/profile/cnn.com/post/3mai2adhck32c)
 
 ---
 
 @nikkei.com
 
-オーストラリアの先住民アート「アボリジナルアーツ」、美術館で脚光
+スマホの振動・対話型AIに潜む個人情報流出リスク
 www.nikkei.com/article/DGXZQO...
 
-6万年ほど前からオーストラリア大陸に定住し、壁画や踊りで受け継がれる神話などで文化を継承してきた先住民。
+スマホが音声を出す時の振動を手掛かりに通話を盗聴。
 
-アボリジナルアーツにはそうした先住民の独特の世界観や文化が反映されており、オークションでコレクターが高額落札する例も出ています。
+対話型AIが使用者の持病や体重を聞き出し。
 
-[2025-12-21 14:30:40](https://bsky.app/profile/nikkei.com/post/3mahyib62dz2m)
+思わぬ形で情報流出の可能性を指摘する科学研究が現れています。
+
+2025年11月 #注目された記事
+
+[2025-12-21 15:00:39](https://bsky.app/profile/nikkei.com/post/3mai25ux3gg2x)
 
 ---
 
 @japan.reuters.com
 
-ノーム米国土安全保障省長官は２０日、沿岸警備隊がベネズエラ沖の国際水域で石油タンカーを拿捕（だほ）したと発表した。米国がベネズエラ沖で石油タンカーを拿捕するのは今月１０日に続き２隻目。 bit.ly/4sfCFvJ
+米誌フォーブスの長者番付によると、米電気自動車（ＥＶ）大手テスラのイーロン・マスク最高経営責任者（ＣＥＯ）の純資産が１９日までに約７４９０億ドルとなり、初めて７０００億ドルを突破した。 bit.ly/3Lf31Nz
 
-[2025-12-21 14:30:16](https://bsky.app/profile/japan.reuters.com/post/3mahyhkhnia2n)
+[2025-12-21 15:00:17](https://bsky.app/profile/japan.reuters.com/post/3mai25aakio2s)
 
 ---
 
-@apnews.com
+@washingtonpost.com
 
-It's not that unusual for a 20-something to text Mom from the doctor's office for help answering a health question.
+Beyond the gray halls of monotony, there exist airports where you may actually want to stay awhile. So we set out to rank the best in the United States.
 
-[2025-12-21 14:30:08](https://bsky.app/profile/apnews.com/post/3mahyhd7liq2d)
+[2025-12-21 15:00:10](https://bsky.app/profile/washingtonpost.com/post/3mai24zd74s23)
+
+---
+
+@sokuho.news
+
+🛎️JNNより【速報】です。
+
+【速報】全国高校駅伝 男女そろって出場した倉敷高校は男子3位 女子6位入賞【岡山】
+(2025-12-21 14:49:00) #ニュース
+
+[2025-12-21 15:00:08](https://bsky.app/profile/sokuho.news/post/3mai24xo4si2v)
 
 ---
 
 @aljazeera.com
 
-South African police say that a manhunt is underway after a mass shooting killed at least 9 people and injured 10 more.
+Al Jazeera Media Network says initiative will shift role of AI 'from passive tool to active partner in journalism'.
 
-[2025-12-21 14:30:02](https://bsky.app/profile/aljazeera.com/post/3mahyh5iped22)
+[2025-12-21 15:00:04](https://bsky.app/profile/aljazeera.com/post/3mai24twk2v2d)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+全国高校駅伝 男子 学法石川が初優勝 大会新記録で【詳しく】
+https://news.web.nhk/newsweb/na/na-k10015007911000
+
+[2025-12-21 15:00:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mai24uwlco22)
+
+---
+
+@sokuho.news
+
+<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>全国高校駅伝 男子 学法石川が初優勝 大会新記録で【詳しく】</strong><br><strong>(2025-12-21 14:58:05) #ニュース</strong>
+
+[2025-12-21 14:58:33](https://bsky.app/profile/sokuho.news/post/3mai224qjn427)
 
 ---
 
