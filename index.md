@@ -1,9 +1,9 @@
-# [2025-12-22 05:10 updated](2025_12_22.md)
+# [2025-12-22 05:30 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">New Zealand court declines airport group's appeal on pricing rules reut.rs/44GM9G9 <a href="https://bsky.app/profile/reuters.com/post/3majjdxjwsk2x" target="_blank">reuters.com</a> (2025-12-22 05:05:09)</span><span style="padding-right:50px;">It seemed like the solution to Elaine Traverse’s financial problems, and a dog desperately needing a potty break led her to it. https://cnn.it/496hGCy <a href="https://bsky.app/profile/cnn.com/post/3majj36yans2k" target="_blank">cnn.com</a> (2025-12-22 05:00:15)</span><span style="padding-right:50px;">Missions were shattered. Entire agencies were deleted. Nearly 300,000 employees were forced out of the federal workforce.    Here’s a look into how DOGE and the White House carried out a once-unthinkable transformation of the federal government:  <a href="https://bsky.app/profile/washingtonpost.com/post/3majj35lna22d" target="_blank">washingtonpost.com</a> (2025-12-22 05:00:13)</span><span style="padding-right:50px;">The first round of the College Football Playoff is complete and the quarterfinals are set. Who were the winners from the weekend? We break them down. <a href="https://bsky.app/profile/usatoday.com/post/3majj33uo7t25" target="_blank">usatoday.com</a> (2025-12-22 05:00:11)</span><span style="padding-right:50px;">The proliferation of illegal firearms from the U.S. has fueled a spike in gun violence in Canada, where most guns used in crimes are smuggled across the border. <a href="https://bsky.app/profile/nytimes.com/post/3majj2ydafn2b" target="_blank">nytimes.com</a> (2025-12-22 05:00:08)</span>
+<span style="padding-right:50px;">JUST IN: The US was pursuing an oil tanker in international waters near Venezuela after attempting to intercept it, a US official said. https://cnn.it/4jc7ltJ <a href="https://bsky.app/profile/cnn.com/post/3majjzvzgvn2c" target="_blank">cnn.com</a> (2025-12-22 05:17:25)</span><span style="padding-right:50px;">🔔ANNより【速報】です。  【速報】MLBホワイトソックス 村上宗隆選手と契約合意を発表 (2025年12月22日 05:16) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3majjy5dvel27" target="_blank">sokuho.news</a> (2025-12-22 05:16:26)</span><span style="padding-right:50px;">来年度予算案 一般会計総額 120兆円超で過去最大となる見通し https://news.web.nhk/newsweb/na/na-k10015009911000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3majjvpmui42s" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-22 05:15:02)</span><span style="padding-right:50px;">2025 has been filled with delicious recipes, and these are our biggest hits published this year. nyti.ms/48YYRkO <a href="https://bsky.app/profile/nytimes.com/post/3majjtvlcc62b" target="_blank">nytimes.com</a> (2025-12-22 05:14:04)</span><span style="padding-right:50px;">New Zealand court declines airport group's appeal on pricing rules reut.rs/44GM9G9 <a href="https://bsky.app/profile/reuters.com/post/3majjdxjwsk2x" target="_blank">reuters.com</a> (2025-12-22 05:05:09)</span>
   </div>
 </div>
 
@@ -32,15 +32,51 @@
 
 ## News Headlines
 
+- US Pursues Venezuela-Linked Oil Tanker in International Waters
+- MLB's White Sox Signs Japanese Player Tomoyuki Sugano to Contract
+- Japan's FY 2024 Budget to Exceed 120 Trillion Yen for First Time
 - New Zealand Court Rejects Airport Group's Appeal on Pricing Rules
-- Financial Woes and a Potty Break Lead to Unlikely Solution
-- Government Agencies Merged, 300,000 Employees Laid Off in Federal Workforce Overhaul
-- College Football Playoff Quarterfinals Set After First Round
-- Illegal Firearms from US Fuel Gun Violence in Canada
-- Yellowstone National Park Experiences Muddy Volcanic Eruption
+- Woman Finds Financial Solution in Dog's Potty Break
+- Federal Government Transformation: A Look into the Merger of DOGE and White House Agencies
 
 
 ----
+
+@cnn.com
+
+<strong><span style="color: red;">JUST IN:</span> The US was pursuing an oil tanker in international waters near Venezuela after attempting to intercept it, a US official said. https://cnn.it/4jc7ltJ</strong>
+
+[2025-12-22 05:17:25](https://bsky.app/profile/cnn.com/post/3majjzvzgvn2c)
+
+---
+
+@sokuho.news
+
+🔔ANNより【速報】です。
+
+【速報】MLBホワイトソックス 村上宗隆選手と契約合意を発表
+(2025年12月22日 05:16) #ニュース
+
+[2025-12-22 05:16:26](https://bsky.app/profile/sokuho.news/post/3majjy5dvel27)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+来年度予算案 一般会計総額 120兆円超で過去最大となる見通し
+https://news.web.nhk/newsweb/na/na-k10015009911000
+
+[2025-12-22 05:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3majjvpmui42s)
+
+---
+
+@nytimes.com
+
+2025 has been filled with delicious recipes, and these are our biggest hits published this year. nyti.ms/48YYRkO
+
+[2025-12-22 05:14:04](https://bsky.app/profile/nytimes.com/post/3majjtvlcc62b)
+
+---
 
 @reuters.com
 
@@ -89,38 +125,6 @@ The proliferation of illegal firearms from the U.S. has fueled a spike in gun vi
 “Kablooey!” That’s the word U.S. Geological Survey volcanic experts used to describe a muddy eruption at Black Diamond Pool in Yellowstone National Park. 
 
 [2025-12-22 05:00:08](https://bsky.app/profile/apnews.com/post/3majj2z3ynx2k)
-
----
-
-@wsj.com
-
-Alabama and Miami were underdogs on the road in the playoff’s first round. Then two massive interceptions, 360 miles apart, changed everything.
-
-[2025-12-22 05:00:05](https://bsky.app/profile/wsj.com/post/3majj2wh5pq2z)
-
----
-
-@nytimes.com
-
-Heavy rains in Washington State this month prompted officials to warn about flooded roadways, water damage to homes and one rare potential consequence: toilet rats.
-
-[2025-12-22 04:55:05](https://bsky.app/profile/nytimes.com/post/3majiry3gug2v)
-
----
-
-@nytimes.com
-
-Many book nooks have interactive elements, like tiny doors that open or lights you can turn on, but Lego has taken the concept a step further. Its book nooks open up and allow for a more expansive view of the world hidden inside. nyti.ms/3Yxqo86
-
-[2025-12-22 04:49:02](https://bsky.app/profile/nytimes.com/post/3majih5o6qe2b)
-
----
-
-@reuters.com
-
-Amorim rues bad luck, Fernandes injured in United loss at Villa reut.rs/48N9h8m
-
-[2025-12-22 04:45:13](https://bsky.app/profile/reuters.com/post/3majiadkvkr2r)
 
 ---
 
