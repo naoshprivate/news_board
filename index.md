@@ -1,9 +1,9 @@
-# [2025-12-21 11:50 updated](2025_12_21.md)
+# [2025-12-21 12:10 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">FAA documents reviewed by The Wall Street Journal show an explosion of SpaceX’s Starship on Jan. 16 posed a greater danger to planes in the air over the Caribbean than was publicly known. <a href="https://bsky.app/profile/wsj.com/post/3mahpdhvte223" target="_blank">wsj.com</a> (2025-12-21 11:46:55)</span><span style="padding-right:50px;">北朝鮮の外交当局者が日本の核兵器保有への野心は「徹底的に抑止される」べきだと述べたと、国営の朝鮮中央通信（ＫＣＮＡ）が２１日伝えた。 bit.ly/4spTaWb <a href="https://bsky.app/profile/japan.reuters.com/post/3mahpadmgaw2n" target="_blank">japan.reuters.com</a> (2025-12-21 11:45:10)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】全国高校駅伝・女子 諫早は39位 (2025-12-21 11:36:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mahoyrfrpa2b" target="_blank">sokuho.news</a> (2025-12-21 11:40:56)</span><span style="padding-right:50px;">【速報中】全国高校駅伝 女子 長野東が連覇 女子では史上4校目 https://news.web.nhk/newsweb/na/na-k10015007901000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahokpvfm72x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 11:33:03)</span><span style="padding-right:50px;">A massive outage knocked out power to 130,000 homes and businesses in San Francisco on Saturday, Pacific Gas and Electric Co. said. <a href="https://bsky.app/profile/apnews.com/post/3mahohwhapd2k" target="_blank">apnews.com</a> (2025-12-21 11:31:31)</span>
+<span style="padding-right:50px;">サッカーのドイツ１部ブンデスリーガは２０日、各地で試合を行い、レーバークーゼンがライプチヒを３─１で下し、３位に浮上した。 bit.ly/4spTGn5 <a href="https://bsky.app/profile/japan.reuters.com/post/3mahqlnkpyu2q" target="_blank">japan.reuters.com</a> (2025-12-21 12:09:23)</span><span style="padding-right:50px;">全国高校駅伝 女子 長野東が連覇 女子では史上4校目【詳しく】 https://news.web.nhk/newsweb/na/na-k10015007901000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahqlaigii2d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 12:09:08)</span><span style="padding-right:50px;">日曜討論 防衛装備品の移転 運用指針めぐり与野党が論戦 https://news.web.nhk/newsweb/na/na-k10015009601000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahql3q6in2m" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 12:09:03)</span><span style="padding-right:50px;">🔔NHKより【速報 JUST IN】です。  全国高校駅伝 女子 長野東が連覇 女子では史上4校目【詳しく】 (2025-12-21 11:57:08) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mahqj4lece2b" target="_blank">sokuho.news</a> (2025-12-21 12:07:59)</span><span style="padding-right:50px;">It took 24 seconds to fire 29 shots from a pair of 9mm pistols. One round killed an insurance adjuster holding his own gun. The shooters claimed self-defense. A WSJ investigation reopened the case. <a href="https://bsky.app/profile/wsj.com/post/3mahqetcpge2q" target="_blank">wsj.com</a> (2025-12-21 12:05:34)</span>
   </div>
 </div>
 
@@ -32,111 +32,120 @@
 
 ## News Headlines
 
-- SpaceX Starship Explosion Posed Greater Danger to Planes
-  - スペースX スターシップが起こした爆発が飛行機に与えた危険は公表されたものより大きかった
-- North Korea Says Japan's Nuclear Ambitions Should be Thoroughly Prevented
-  - 北朝鮮「日本の核武装化の野望は徹底的に抑止されるべき"と言い切る
-- Massive Power Outage Hits San Francisco
-  - サンフランシスコで大規模な停電
-- Moai Statues' Civilization Not Yet Extinct
-  - モアイ像の文明は滅びていない
-- Nick Saban Accuses Texas A&M of Using Crowd Noise
-  - ニックス・サバンがテキサスA&Mに選手の歓声を誘発したと批判
-- British Author David Walliams Denies Inappropriate Behavior
-  - イギリスの作家デビッド・ウォリアムス氏が不適切な行為を否定
+- Bundesliga: Leverkusen Tops Leipzig 3-1, Rises to 3rd
+  - ブンデスリーガ：レバークーゼンがライプチヒを3-1で下し３位に浮上
+- Long-Distance Relay: Nagano East Wins 4th National Title
+  - 全国高校駅伝 女子：長野東が連覇　女子では史上４校目
+- Defense Equipment Transfer: LDP, Opposition Clash in Debate
+  - 日曜討論　防衛装備品の移転　運用指針めぐり与野党が論戦
+- Earthquake Hits Wakayama Prefecture
+  - 和歌山県で地震　最大震度1
+- Tesla CEO Elon Musk's Net Worth Surpasses $70 Billion
+  - テスラ最高経営責任者イーロン・マスクの純資産が7000億ドルを突破
+- Ex-Coach Saban Accuses Texas A&M of Cheating
+  - 元アラバマ大学野球部長サバンがテキサスA＆Mにチートの疑いを指摘
 
 
 ----
 
-@wsj.com
-
-FAA documents reviewed by The Wall Street Journal show an explosion of SpaceX’s Starship on Jan. 16 posed a greater danger to planes in the air over the Caribbean than was publicly known.
-
-[2025-12-21 11:46:55](https://bsky.app/profile/wsj.com/post/3mahpdhvte223)
-
----
-
 @japan.reuters.com
 
-北朝鮮の外交当局者が日本の核兵器保有への野心は「徹底的に抑止される」べきだと述べたと、国営の朝鮮中央通信（ＫＣＮＡ）が２１日伝えた。 bit.ly/4spTaWb
+サッカーのドイツ１部ブンデスリーガは２０日、各地で試合を行い、レーバークーゼンがライプチヒを３─１で下し、３位に浮上した。 bit.ly/4spTGn5
 
-[2025-12-21 11:45:10](https://bsky.app/profile/japan.reuters.com/post/3mahpadmgaw2n)
-
----
-
-@sokuho.news
-
-🛎️JNNより【速報】です。
-
-【速報】全国高校駅伝・女子 諫早は39位
-(2025-12-21 11:36:00) #ニュース
-
-[2025-12-21 11:40:56](https://bsky.app/profile/sokuho.news/post/3mahoyrfrpa2b)
+[2025-12-21 12:09:23](https://bsky.app/profile/japan.reuters.com/post/3mahqlnkpyu2q)
 
 ---
 
 @nhknewsunofficial.bsky.social
 
-【速報中】全国高校駅伝 女子 長野東が連覇 女子では史上4校目
+全国高校駅伝 女子 長野東が連覇 女子では史上4校目【詳しく】
 https://news.web.nhk/newsweb/na/na-k10015007901000
 
-[2025-12-21 11:33:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahokpvfm72x)
+[2025-12-21 12:09:08](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahqlaigii2d)
 
 ---
 
-@apnews.com
+@nhknewsunofficial.bsky.social
 
-A massive outage knocked out power to 130,000 homes and businesses in San Francisco on Saturday, Pacific Gas and Electric Co. said.
+日曜討論 防衛装備品の移転 運用指針めぐり与野党が論戦
+https://news.web.nhk/newsweb/na/na-k10015009601000
 
-[2025-12-21 11:31:31](https://bsky.app/profile/apnews.com/post/3mahohwhapd2k)
+[2025-12-21 12:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahql3q6in2m)
 
 ---
 
 @sokuho.news
 
-<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>【速報中】全国高校駅伝 女子 長野東が連覇 女子では史上4校目</strong><br><strong>(2025-12-21 11:30:17) #ニュース</strong>
+<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>全国高校駅伝 女子 長野東が連覇 女子では史上4校目【詳しく】</strong><br><strong>(2025-12-21 11:57:08) #ニュース</strong>
 
-[2025-12-21 11:30:40](https://bsky.app/profile/sokuho.news/post/3mahogfzgiu2b)
+[2025-12-21 12:07:59](https://bsky.app/profile/sokuho.news/post/3mahqj4lece2b)
+
+---
+
+@wsj.com
+
+It took 24 seconds to fire 29 shots from a pair of 9mm pistols. One round killed an insurance adjuster holding his own gun. The shooters claimed self-defense. A WSJ investigation reopened the case.
+
+[2025-12-21 12:05:34](https://bsky.app/profile/wsj.com/post/3mahqetcpge2q)
+
+---
+
+@sokuho.news
+
+🔔防災科研より【強震モニタ】動画です。
+
+震源:和歌山県北部, 深さ:10km
+マグニチュード:2.6, 最大震度:1
+📍https://www.google.com/maps?q=34.1,135.3&ll=34.1,135.3&z=7&t=h
+地震発生日時:2025-12-21 12:00頃
+(10倍速▶120s→12s) #地震
+
+[2025-12-21 12:03:27](https://bsky.app/profile/sokuho.news/post/3mahqaztu7n2b)
+
+---
+
+@sokuho.news
+
+🔔気象庁より【地震速報】です。
+
+12時0分頃、和歌山県で最大震度1の地震を観測しました。
+震源:和歌山県北部, 深さ:10km, 規模:M2.6
+この地震による津波の心配はありません。
+(2025-12-21 12:03:01) #地震
+https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/21/2025-12-21-12-00-28.html?xlarge_image=1
+
+[2025-12-21 12:03:01](https://bsky.app/profile/sokuho.news/post/3mahqabwpg726)
 
 ---
 
 @nikkei.com
 
-【モアイ像の文明は滅びていない？】
-古代人の骨に残るDNA、歴史の常識覆す
+トランプ運動MAGAの未来は？
 www.nikkei.com/article/DGXZQO...
 
-イースター島では、住人がモアイ像建設などのため島の木々を伐採し、自然や生態系を破壊して文明が滅びた――。
+約10年で国民の15%が「MAGA運動の担い手」を自認するほどに発展。
 
-そんな説が唱えられてきましたが、スイスのローザンヌ大学は人骨のDNAから、人口が急減した痕跡はなかったとの研究を発表しました。
+欧州・アジアにも影響を及ぼす一方、内部では多くの亀裂も生じています。
 
-梅毒の起源、ナポレオンの敗北を招いた病原菌…。解析技術の進歩が、遺跡や文献の調査に頼ってきた歴史学に革新をもたらしています。
+[2025-12-21 12:00:39](https://bsky.app/profile/nikkei.com/post/3mahq3znqlv2x)
 
-[2025-12-21 11:30:40](https://bsky.app/profile/nikkei.com/post/3mahogfam7p2c)
+---
+
+@cnbc.com
+
+David McGranaghan and Julian Miller, two former actors, pitched their pandemic-born party game business to investors on ABC's "Shark Tank."
+
+McGranaghan and Miller, a married couple based in Los Angeles, are the founders of McMiller which has generated $12.5 million in revenue.
+
+[2025-12-21 12:00:17](https://bsky.app/profile/cnbc.com/post/3mahq3enes42m)
 
 ---
 
 @usatoday.com
 
-Former Alabama football coach Nick Saban claimed Texas A&M pipes in crowd noise at Kyle Field, with Aggies coach Mike Elko firing back at him
+Curtis Jackson, better known as 50 Cent, made an appearance before the fourth quarter of Oklahoma's CFP first-round game vs. Alabama. Here's why:
 
-[2025-12-21 11:30:14](https://bsky.app/profile/usatoday.com/post/3mahofmrd3y2g)
-
----
-
-@apnews.com
-
-British children's author and comedian David Walliams has denied allegations of inappropriate behavior after HarperCollins decided not to publish his future books.
-
-[2025-12-21 11:30:09](https://bsky.app/profile/apnews.com/post/3mahofhvsy22n)
-
----
-
-@japan.reuters.com
-
-米大リーグ（ＭＬＢ）ナショナルズからフリーエージェント（ＦＡ）となっていたジョシュ・ベル一塁手（３３）が１９日、ツインズと１年契約を結んだ。２０２７年の相互オプションが付帯する。 bit.ly/4q7BME5
-
-[2025-12-21 11:27:48](https://bsky.app/profile/japan.reuters.com/post/3mahobbcjp325)
+[2025-12-21 12:00:10](https://bsky.app/profile/usatoday.com/post/3mahq35bszl2o)
 
 ---
 
