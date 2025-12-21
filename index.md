@@ -1,9 +1,9 @@
-# [2025-12-22 04:10 updated](2025_12_22.md)
+# [2025-12-22 04:30 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">Connections is a daily game about finding common threads between words. Players must select four groups of four words without making more than three mistakes. Play now. trib.al/R27QzUh <a href="https://bsky.app/profile/nytimes.com/post/3majg5p3sms26" target="_blank">nytimes.com</a> (2025-12-22 04:07:57)</span><span style="padding-right:50px;">Congress's punt ensures healthcare will remain a top issue in January — and 'very likely through spring' <a href="https://bsky.app/profile/yahoofinance.com/post/3majg2etvf72s" target="_blank">yahoofinance.com</a> (2025-12-22 04:06:06)</span><span style="padding-right:50px;">American Tien defeats Belgian Blockx to win Next Gen ATP Finals title reut.rs/48Q0oej <a href="https://bsky.app/profile/reuters.com/post/3majfymx6zq2r" target="_blank">reuters.com</a> (2025-12-22 04:05:07)</span><span style="padding-right:50px;">Timberwolves head coach Chris Finch fined $35K by NBA reut.rs/3MN2oeC <a href="https://bsky.app/profile/reuters.com/post/3majfrarlit2o" target="_blank">reuters.com</a> (2025-12-22 04:01:00)</span><span style="padding-right:50px;">"Rush Hour" director Brett Ratner, who is helming first lady Melania Trump's upcoming documentary, is in a photo in the Epstein files. <a href="https://bsky.app/profile/usatoday.com/post/3majfqpszwt2o" target="_blank">usatoday.com</a> (2025-12-22 04:00:42)</span>
+<span style="padding-right:50px;">A top Justice Department official said Sunday that the agency temporarily removed some newly public Jeffrey Epstein files to address complaints from victims about the agency’s failure to redact their images or information. <a href="https://bsky.app/profile/wsj.com/post/3majhcw4ge52k" target="_blank">wsj.com</a> (2025-12-22 04:28:46)</span><span style="padding-right:50px;">The vintage champagne market is picking up again ahead of the new year. What's behind it? ft.trib.al/lu7hegG <a href="https://bsky.app/profile/financialtimes.com/post/3majh47xnag2o" target="_blank">financialtimes.com</a> (2025-12-22 04:25:02)</span><span style="padding-right:50px;">Breaking News: The U.S. is pursuing a Venezuela-linked oil tanker after boarding a different one, a notable escalation of President Trump’s pressure campaign. <a href="https://bsky.app/profile/nytimes.com/post/3majgv6hlod27" target="_blank">nytimes.com</a> (2025-12-22 04:21:05)</span><span style="padding-right:50px;">Pips is a logic puzzle where players must arrange a set of dominoes to meet the conditions of the board to win. Even though the game is timed, there’s no way to lose. trib.al/8exmvdp <a href="https://bsky.app/profile/nytimes.com/post/3majgis36ms2p" target="_blank">nytimes.com</a> (2025-12-22 04:14:10)</span><span style="padding-right:50px;">Strands is a word search with a unique twist. Can you uncover the theme? Play here: trib.al/KhiloF6 <a href="https://bsky.app/profile/nytimes.com/post/3majgdt7wks2j" target="_blank">nytimes.com</a> (2025-12-22 04:11:23)</span>
   </div>
 </div>
 
@@ -32,15 +32,55 @@
 
 ## News Headlines
 
-- US Coast Guard Pursues Sanctioned Vessel Off Venezuela
-- Congress's Delay on Healthcare Ensures It'll Remain a Top Issue
-- Waymo Pauses Robotaxi Service in San Francisco After Blackout
-- Prince William and Son George Volunteer at Homeless Shelter in London
-- US Coast Guard Intercepts Second Tanker Off Venezuela This Weekend
-- Fraudulent AI-Generated Music Tracks Appear on Streaming Platforms
+- US Justice Department removes some Jeffrey Epstein files after victim complaints
+- Vintage champagne market sees resurgence ahead of new year
+- US pursuing third Venezuela-linked oil tanker in escalation of Trump's pressure campaign
+- US Coast Guard in 'active pursuit' of sanctioned vessel in international waters off Venezuela
+- American wins Next Gen ATP Finals title with victory over Belgian opponent
+- Southwest Airlines CEO considers introducing network of airport lounges for customers
 
 
 ----
+
+@wsj.com
+
+A top Justice Department official said Sunday that the agency temporarily removed some newly public Jeffrey Epstein files to address complaints from victims about the agency’s failure to redact their images or information.
+
+[2025-12-22 04:28:46](https://bsky.app/profile/wsj.com/post/3majhcw4ge52k)
+
+---
+
+@financialtimes.com
+
+The vintage champagne market is picking up again ahead of the new year. What's behind it? ft.trib.al/lu7hegG
+
+[2025-12-22 04:25:02](https://bsky.app/profile/financialtimes.com/post/3majh47xnag2o)
+
+---
+
+@nytimes.com
+
+<strong><span style="color: red;">Breaking News</span>: The U.S. is pursuing a Venezuela-linked oil tanker after boarding a different one, a notable escalation of President Trump’s pressure campaign.</strong>
+
+[2025-12-22 04:21:05](https://bsky.app/profile/nytimes.com/post/3majgv6hlod27)
+
+---
+
+@nytimes.com
+
+Pips is a logic puzzle where players must arrange a set of dominoes to meet the conditions of the board to win. Even though the game is timed, there’s no way to lose. trib.al/8exmvdp
+
+[2025-12-22 04:14:10](https://bsky.app/profile/nytimes.com/post/3majgis36ms2p)
+
+---
+
+@nytimes.com
+
+Strands is a word search with a unique twist. Can you uncover the theme? Play here: trib.al/KhiloF6
+
+[2025-12-22 04:11:23](https://bsky.app/profile/nytimes.com/post/3majgdt7wks2j)
+
+---
 
 @nytimes.com
 
@@ -79,52 +119,6 @@ Timberwolves head coach Chris Finch fined $35K by NBA reut.rs/3MN2oeC
 "Rush Hour" director Brett Ratner, who is helming first lady Melania Trump's upcoming documentary, is in a photo in the Epstein files.
 
 [2025-12-22 04:00:42](https://bsky.app/profile/usatoday.com/post/3majfqpszwt2o)
-
----
-
-@apnews.com
-
-Warner Bros. Discovery is in the middle of a Hollywood tug-of-war between Netflix and Paramount. And chances are it’ll be a long, bumpy regulatory road ahead for either buyer.
-
-[2025-12-22 04:00:20](https://bsky.app/profile/apnews.com/post/3majfq34qn62d)
-
----
-
-@cnn.com
-
-The Prince of Wales and his son George volunteered at a homeless charity in London this week, a trip reminiscent of William’s own upbringing having been introduced to the shelter at a similar age by his mother Diana, the late Princess of Wales. https://cnn.it/3Lfvgf3
-
-[2025-12-22 04:00:16](https://bsky.app/profile/cnn.com/post/3majfpwuma325)
-
----
-
-@washingtonpost.com
-
-The U.S. Coast Guard is pursuing a tanker off the coast of Venezuela, a U.S. official said, in what would mark the third interception of a tanker in the waters off that country this month.
-
-This would be the second tanker the U.S. stopped this weekend. 
-
-[2025-12-22 04:00:15](https://bsky.app/profile/washingtonpost.com/post/3majfpwfwmh2x)
-
----
-
-@cnbc.com
-
-Southwest's CEO Bob Jordan said the carrier is weighing a network of airport lounges.
-
-Jordan told CNBC he thinks “lounges would be a huge, next benefit for our customers.”
-
-[2025-12-22 04:00:10](https://bsky.app/profile/cnbc.com/post/3majfprfm5y2b)
-
----
-
-@en.afp.com
-
-Does the latest track by your favorite singer sound slightly off? You may be right. Fraudulent AI-generated tracks are increasingly appearing in artists' own profiles on streaming platforms, presented as their original work.
-
-u.afp.com/S8T9
-
-[2025-12-22 04:00:07](https://bsky.app/profile/en.afp.com/post/3majfpotzyg2j)
 
 ---
 
