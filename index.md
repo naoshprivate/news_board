@@ -1,9 +1,9 @@
-# [2025-12-21 11:30 updated](2025_12_21.md)
+# [2025-12-21 11:50 updated](2025_12_21.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">米大リーグ（ＭＬＢ）ナショナルズからフリーエージェント（ＦＡ）となっていたジョシュ・ベル一塁手（３３）が１９日、ツインズと１年契約を結んだ。２０２７年の相互オプションが付帯する。 bit.ly/4q7BME5 <a href="https://bsky.app/profile/japan.reuters.com/post/3mahobbcjp325" target="_blank">japan.reuters.com</a> (2025-12-21 11:27:48)</span><span style="padding-right:50px;">【地震情報】青森・岩手で震度4 津波の心配なし（10:29） https://news.web.nhk/newsweb/na/na-k10015009511000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maho7xxwsh2x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 11:27:02)</span><span style="padding-right:50px;">全国高校駅伝 男子【速報予定 12:30】優勝争いは 58校が出場 https://news.web.nhk/newsweb/na/na-k10015007911000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maho2muge72d" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 11:24:03)</span><span style="padding-right:50px;">Some of the most influential people from Trump world, past and present, are facing off on either side of the struggle for control of Warner Bros. Discovery. <a href="https://bsky.app/profile/wsj.com/post/3mahnxsxsdp2u" target="_blank">wsj.com</a> (2025-12-21 11:22:30)</span><span style="padding-right:50px;">ノーム米国土安全保障省長官は２０日、沿岸警備隊がベネズエラ沖の国際水域で石油タンカーを拿捕（だほ）したと発表した。米国がベネズエラ沖で石油タンカーを拿捕するのは今月１０日に続き２隻目。 bit.ly/3YK9FOR <a href="https://bsky.app/profile/japan.reuters.com/post/3mahnu6nakn2u" target="_blank">japan.reuters.com</a> (2025-12-21 11:20:29)</span>
+<span style="padding-right:50px;">FAA documents reviewed by The Wall Street Journal show an explosion of SpaceX’s Starship on Jan. 16 posed a greater danger to planes in the air over the Caribbean than was publicly known. <a href="https://bsky.app/profile/wsj.com/post/3mahpdhvte223" target="_blank">wsj.com</a> (2025-12-21 11:46:55)</span><span style="padding-right:50px;">北朝鮮の外交当局者が日本の核兵器保有への野心は「徹底的に抑止される」べきだと述べたと、国営の朝鮮中央通信（ＫＣＮＡ）が２１日伝えた。 bit.ly/4spTaWb <a href="https://bsky.app/profile/japan.reuters.com/post/3mahpadmgaw2n" target="_blank">japan.reuters.com</a> (2025-12-21 11:45:10)</span><span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】全国高校駅伝・女子 諫早は39位 (2025-12-21 11:36:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3mahoyrfrpa2b" target="_blank">sokuho.news</a> (2025-12-21 11:40:56)</span><span style="padding-right:50px;">【速報中】全国高校駅伝 女子 長野東が連覇 女子では史上4校目 https://news.web.nhk/newsweb/na/na-k10015007901000 <a href="https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahokpvfm72x" target="_blank">nhknewsunofficial.bsky.social</a> (2025-12-21 11:33:03)</span><span style="padding-right:50px;">A massive outage knocked out power to 130,000 homes and businesses in San Francisco on Saturday, Pacific Gas and Electric Co. said. <a href="https://bsky.app/profile/apnews.com/post/3mahohwhapd2k" target="_blank">apnews.com</a> (2025-12-21 11:31:31)</span>
   </div>
 </div>
 
@@ -32,96 +32,35 @@
 
 ## News Headlines
 
-- Josh Bell Signs 1-Year Deal with Twins
-  - ツインズと１年契約　ジョシュ・ベル選手
-- US Approves Capture of Venezuela Oil Tanker
-  - 米国がベネズエラ沖で石油タンカーを拿捕
-- Z Generation Aims for 3-Day Weekends
-  - Ｚ世代、35％が週休３日希望
-- US Indicts Ex-Trump Aides in Warner Bros. Discovery Feud
-  - トランプ元側近たちが戦う　ワーナー・ブラザーズ・ディスカバリー
-- Ukraine's Zelenskyy Open to Meeting with US, Russia, and Ukraine Officials
-  - ゼレンスキー大統領　米国・ウクライナ・ロシアによる高官会談の提案を受け入れる
-- Japan to Abolish Preferential Tax Treatment for Personal Importers
-  - 個人輸入を悪用する転売事業者に影響　税金の優遇制度廃止へ
+- SpaceX Starship Explosion Posed Greater Danger to Planes
+  - スペースX スターシップが起こした爆発が飛行機に与えた危険は公表されたものより大きかった
+- North Korea Says Japan's Nuclear Ambitions Should be Thoroughly Prevented
+  - 北朝鮮「日本の核武装化の野望は徹底的に抑止されるべき"と言い切る
+- Massive Power Outage Hits San Francisco
+  - サンフランシスコで大規模な停電
+- Moai Statues' Civilization Not Yet Extinct
+  - モアイ像の文明は滅びていない
+- Nick Saban Accuses Texas A&M of Using Crowd Noise
+  - ニックス・サバンがテキサスA&Mに選手の歓声を誘発したと批判
+- British Author David Walliams Denies Inappropriate Behavior
+  - イギリスの作家デビッド・ウォリアムス氏が不適切な行為を否定
 
 
 ----
 
-@japan.reuters.com
-
-米大リーグ（ＭＬＢ）ナショナルズからフリーエージェント（ＦＡ）となっていたジョシュ・ベル一塁手（３３）が１９日、ツインズと１年契約を結んだ。２０２７年の相互オプションが付帯する。 bit.ly/4q7BME5
-
-[2025-12-21 11:27:48](https://bsky.app/profile/japan.reuters.com/post/3mahobbcjp325)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【地震情報】青森・岩手で震度4 津波の心配なし（10:29）
-https://news.web.nhk/newsweb/na/na-k10015009511000
-
-[2025-12-21 11:27:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maho7xxwsh2x)
-
----
-
-@nhknewsunofficial.bsky.social
-
-全国高校駅伝 男子【速報予定 12:30】優勝争いは 58校が出場
-https://news.web.nhk/newsweb/na/na-k10015007911000
-
-[2025-12-21 11:24:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3maho2muge72d)
-
----
-
 @wsj.com
 
-Some of the most influential people from Trump world, past and present, are facing off on either side of the struggle for control of Warner Bros. Discovery.
+FAA documents reviewed by The Wall Street Journal show an explosion of SpaceX’s Starship on Jan. 16 posed a greater danger to planes in the air over the Caribbean than was publicly known.
 
-[2025-12-21 11:22:30](https://bsky.app/profile/wsj.com/post/3mahnxsxsdp2u)
-
----
-
-@japan.reuters.com
-
-ノーム米国土安全保障省長官は２０日、沿岸警備隊がベネズエラ沖の国際水域で石油タンカーを拿捕（だほ）したと発表した。米国がベネズエラ沖で石油タンカーを拿捕するのは今月１０日に続き２隻目。 bit.ly/3YK9FOR
-
-[2025-12-21 11:20:29](https://bsky.app/profile/japan.reuters.com/post/3mahnu6nakn2u)
+[2025-12-21 11:46:55](https://bsky.app/profile/wsj.com/post/3mahpdhvte223)
 
 ---
 
 @japan.reuters.com
 
-ウクライナのゼレンスキー大統領は２０日、米国、ウクライナ、ロシアによる高官会談の提案を米国から受けたと明らかにし、さらなる捕虜交換を促し、各国による会談に道を開くなら提案を支持するとの見解を示した。 bit.ly/3Nb2uwB
+北朝鮮の外交当局者が日本の核兵器保有への野心は「徹底的に抑止される」べきだと述べたと、国営の朝鮮中央通信（ＫＣＮＡ）が２１日伝えた。 bit.ly/4spTaWb
 
-[2025-12-21 11:15:10](https://bsky.app/profile/japan.reuters.com/post/3mahnkofddo2q)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【速報中】全国高校駅伝 女子 長野東 トップ守り最終5区へ
-https://news.web.nhk/newsweb/na/na-k10015007901000
-
-[2025-12-21 11:15:02](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahnkjkred2b)
-
----
-
-@nhknewsunofficial.bsky.social
-
-北朝鮮“日本が核武装化の野望語った” 官邸幹部の発言に対し
-https://news.web.nhk/newsweb/na/na-k10015009641000
-
-[2025-12-21 11:09:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahn7shy5w2k)
-
----
-
-@nhknewsunofficial.bsky.social
-
-【速報中】全国高校駅伝 女子 長野東 リード広げトップで4区へ
-https://news.web.nhk/newsweb/na/na-k10015007901000
-
-[2025-12-21 11:06:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahn2hf5qt2d)
+[2025-12-21 11:45:10](https://bsky.app/profile/japan.reuters.com/post/3mahpadmgaw2n)
 
 ---
 
@@ -129,10 +68,75 @@ https://news.web.nhk/newsweb/na/na-k10015007901000
 
 🛎️JNNより【速報】です。
 
-【速報】「鳥インフルエンザ」が確認された養鶏場で飼育の約24万羽を殺処分 兵庫県
-(2025-12-21 10:56:20) #ニュース
+【速報】全国高校駅伝・女子 諫早は39位
+(2025-12-21 11:36:00) #ニュース
 
-[2025-12-21 11:05:17](https://bsky.app/profile/sokuho.news/post/3mahmyznlw52r)
+[2025-12-21 11:40:56](https://bsky.app/profile/sokuho.news/post/3mahoyrfrpa2b)
+
+---
+
+@nhknewsunofficial.bsky.social
+
+【速報中】全国高校駅伝 女子 長野東が連覇 女子では史上4校目
+https://news.web.nhk/newsweb/na/na-k10015007901000
+
+[2025-12-21 11:33:03](https://bsky.app/profile/nhknewsunofficial.bsky.social/post/3mahokpvfm72x)
+
+---
+
+@apnews.com
+
+A massive outage knocked out power to 130,000 homes and businesses in San Francisco on Saturday, Pacific Gas and Electric Co. said.
+
+[2025-12-21 11:31:31](https://bsky.app/profile/apnews.com/post/3mahohwhapd2k)
+
+---
+
+@sokuho.news
+
+<strong>🔔NHKより【<span style="color: red;">速報 JUST IN</span>】です。</strong><br><strong></strong><br><strong>【速報中】全国高校駅伝 女子 長野東が連覇 女子では史上4校目</strong><br><strong>(2025-12-21 11:30:17) #ニュース</strong>
+
+[2025-12-21 11:30:40](https://bsky.app/profile/sokuho.news/post/3mahogfzgiu2b)
+
+---
+
+@nikkei.com
+
+【モアイ像の文明は滅びていない？】
+古代人の骨に残るDNA、歴史の常識覆す
+www.nikkei.com/article/DGXZQO...
+
+イースター島では、住人がモアイ像建設などのため島の木々を伐採し、自然や生態系を破壊して文明が滅びた――。
+
+そんな説が唱えられてきましたが、スイスのローザンヌ大学は人骨のDNAから、人口が急減した痕跡はなかったとの研究を発表しました。
+
+梅毒の起源、ナポレオンの敗北を招いた病原菌…。解析技術の進歩が、遺跡や文献の調査に頼ってきた歴史学に革新をもたらしています。
+
+[2025-12-21 11:30:40](https://bsky.app/profile/nikkei.com/post/3mahogfam7p2c)
+
+---
+
+@usatoday.com
+
+Former Alabama football coach Nick Saban claimed Texas A&M pipes in crowd noise at Kyle Field, with Aggies coach Mike Elko firing back at him
+
+[2025-12-21 11:30:14](https://bsky.app/profile/usatoday.com/post/3mahofmrd3y2g)
+
+---
+
+@apnews.com
+
+British children's author and comedian David Walliams has denied allegations of inappropriate behavior after HarperCollins decided not to publish his future books.
+
+[2025-12-21 11:30:09](https://bsky.app/profile/apnews.com/post/3mahofhvsy22n)
+
+---
+
+@japan.reuters.com
+
+米大リーグ（ＭＬＢ）ナショナルズからフリーエージェント（ＦＡ）となっていたジョシュ・ベル一塁手（３３）が１９日、ツインズと１年契約を結んだ。２０２７年の相互オプションが付帯する。 bit.ly/4q7BME5
+
+[2025-12-21 11:27:48](https://bsky.app/profile/japan.reuters.com/post/3mahobbcjp325)
 
 ---
 
