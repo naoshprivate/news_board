@@ -1,9 +1,9 @@
-# [2025-12-22 07:50 updated](2025_12_22.md)
+# [2025-12-22 08:10 updated](2025_12_22.md)
 
 <div id="google_translate_element"></div>
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll1 90s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">サウナの防火対策はどう規定？　非常ボタンの義務無し www.nikkei.com/article/DGXZQO...  火災で夫婦が亡くなった東京・赤坂の個室サウナ店では、非常ボタンの受信盤の電源が入っていなかったことが判明。  サウナは公衆浴場法に基づく厚生労働省の要領では、非常用ブザーの設置を推奨しているものの判断は自治体に委ねられています。旅館業法には規定はありません。  消防法に基づく安全対策も求められ、従業員などが客の避難誘導や初期消火に責任を負う規定があります。 <a href="https://bsky.app/profile/nikkei.com/post/3majseqqpkf24" target="_blank">nikkei.com</a> (2025-12-22 07:46:39)</span><span style="padding-right:50px;">In @nytopinion.nytimes.com   The Democratic Socialists of America are still a small political group. But as economic inequality keeps burning, members are attracting interest and getting elected to office. Now activists are dealing with the opportunities and tensions of the moment, writes Mara Gay. <a href="https://bsky.app/profile/nytimes.com/post/3majsbwqj7x2a" target="_blank">nytimes.com</a> (2025-12-22 07:45:04)</span><span style="padding-right:50px;">"Avatar: Fire and Ash," the third installment in James Cameron's blockbuster sci-fi fantasy series, debuted atop the North American box office with $88 million in ticket sales, industry estimates showed Sunday.  u.afp.com/S8qc <a href="https://bsky.app/profile/en.afp.com/post/3majsbvbpzv2x" target="_blank">en.afp.com</a> (2025-12-22 07:45:03)</span><span style="padding-right:50px;">＜日本企業ＡＤＲ銘柄＞ bit.ly/4qFVLJV <a href="https://bsky.app/profile/japan.reuters.com/post/3majrx74k4k25" target="_blank">japan.reuters.com</a> (2025-12-22 07:39:04)</span><span style="padding-right:50px;">🛎️NNNより【速報】です。  【速報】朝乃山（富山市出身） 初場所幕内復帰 (2025-12-22 07:37) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3majrunowye2z" target="_blank">sokuho.news</a> (2025-12-22 07:37:39)</span>
+<span style="padding-right:50px;">🛎️JNNより【速報】です。  【速報】国道2号 船坂山トンネル付近で大型トラック2台が絡む事故 現場通行止め【岡山】 (2025-12-22 08:04:00) #ニュース <a href="https://bsky.app/profile/sokuho.news/post/3majtlbodnu2b" target="_blank">sokuho.news</a> (2025-12-22 08:08:12)</span><span style="padding-right:50px;">ASEAN to seek resolution to Thailand-Cambodia conflict with Malaysia meeting reut.rs/4j97ePv <a href="https://bsky.app/profile/reuters.com/post/3majtfrvhkb2i" target="_blank">reuters.com</a> (2025-12-22 08:05:07)</span><span style="padding-right:50px;">Samsung Biologics to buy U.S. drug production facility from GSK for $280 mln reut.rs/48S0xha <a href="https://bsky.app/profile/reuters.com/post/3majt6lfl7w2y" target="_blank">reuters.com</a> (2025-12-22 08:01:06)</span><span style="padding-right:50px;">米政権のウィットコフ特使は２１日、ウクライナ戦争終結に向けてフロリダで過去３日間に行われた米・欧州・ウクライナ当局者間の協議について、生産的だったと評価し、立場の調整に重点が置かれたと明らかにした。 bit.ly/4antjaF <a href="https://bsky.app/profile/japan.reuters.com/post/3majt5ut3cd25" target="_blank">japan.reuters.com</a> (2025-12-22 08:00:42)</span><span style="padding-right:50px;">日銀が３０年ぶりの高水準となる０．７５％への利上げを決定した。植田和男総裁は会見で、実質金利はまだ極めて低いところにあるとして、利上げ継続の方針を示す一方、今後の利上げペースについて具体的な示唆を与えなかった。日銀では、今回の利上げの影響をつぶさに点検しながら、追加利上げのタイミングは慎重に探るべきだとの声がある。ただ、円安への懸念は政策委員の間でも強く、状況次第では調整が速まる可能性もある。 bit.ly/495imIC <a href="https://bsky.app/profile/japan.reuters.com/post/3majt5ow4qh2q" target="_blank">japan.reuters.com</a> (2025-12-22 08:00:36)</span>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div style="overflow:hidden; white-space:nowrap;">
   <div style="display:inline-block; animation:scroll2 45s linear infinite; font-size: 22px;">
-<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.47 (🔻0.28 : 2025-12-21)</span>
+<span style="padding-right:50px;">NIKKEI: 49507.21 (🔺119.50 : 2025-12-19)</span><span style="padding-right:50px;">DOW: 48134.89 (🔺160.07 : 2025-12-19)</span><span style="padding-right:50px;">NASDAQ: 23307.62 (🔺185.72 : 2025-12-19)</span><span style="padding-right:50px;">NVIDIA: 180.99 (🔺4.32 : 2025-12-19)</span><span style="padding-right:50px;">トヨタ自動車: 3424.00 (🔺35.00 : 2025-12-19)</span><span style="padding-right:50px;">USD/JPY: 157.59 (🔻0.16 : 2025-12-21)</span>
   </div>
 </div>
 
@@ -32,107 +32,101 @@
 
 ## News Headlines
 
-- Japan's Sauna Fire Prevention Measures
-- Avatar: Fire and Ash Tops North American Box Office
-- Japanese Companies with ADR Listings
-- Fast Retailing Raises Starting Salary to 37,000 Yen
-- James Ransone, Actor in The Wire and Black Phone, Dies at 46
-- Japan's Disaster Compensation Rate Stagnates at 27%
+- Two large trucks collide in Japan's Okayama Prefecture, causing traffic congestion
+- ASEAN to seek resolution to Thailand-Cambodia conflict with Malaysia meeting
+- Samsung Biologics to acquire US drug production facility from GSK for $280 million
+- Bank of Japan raises interest rates to 0.75% for first time in 30 years
+- US seeks to board third oil tanker linked to Venezuela
+- Powerball jackpot grows to estimated $1.6 billion after another drawing passes without a winner
 
 
 ----
 
-@nikkei.com
-
-サウナの防火対策はどう規定？　非常ボタンの義務無し
-www.nikkei.com/article/DGXZQO...
-
-火災で夫婦が亡くなった東京・赤坂の個室サウナ店では、非常ボタンの受信盤の電源が入っていなかったことが判明。
-
-サウナは公衆浴場法に基づく厚生労働省の要領では、非常用ブザーの設置を推奨しているものの判断は自治体に委ねられています。旅館業法には規定はありません。
-
-消防法に基づく安全対策も求められ、従業員などが客の避難誘導や初期消火に責任を負う規定があります。
-
-[2025-12-22 07:46:39](https://bsky.app/profile/nikkei.com/post/3majseqqpkf24)
-
----
-
-@nytimes.com
-
-In @nytopinion.nytimes.com 
-
-The Democratic Socialists of America are still a small political group. But as economic inequality keeps burning, members are attracting interest and getting elected to office. Now activists are dealing with the opportunities and tensions of the moment, writes Mara Gay.
-
-[2025-12-22 07:45:04](https://bsky.app/profile/nytimes.com/post/3majsbwqj7x2a)
-
----
-
-@en.afp.com
-
-"Avatar: Fire and Ash," the third installment in James Cameron's blockbuster sci-fi fantasy series, debuted atop the North American box office with $88 million in ticket sales, industry estimates showed Sunday.
-
-u.afp.com/S8qc
-
-[2025-12-22 07:45:03](https://bsky.app/profile/en.afp.com/post/3majsbvbpzv2x)
-
----
-
-@japan.reuters.com
-
-＜日本企業ＡＤＲ銘柄＞ bit.ly/4qFVLJV
-
-[2025-12-22 07:39:04](https://bsky.app/profile/japan.reuters.com/post/3majrx74k4k25)
-
----
-
 @sokuho.news
 
-🛎️NNNより【速報】です。
+🛎️JNNより【速報】です。
 
-【速報】朝乃山（富山市出身） 初場所幕内復帰
-(2025-12-22 07:37) #ニュース
+【速報】国道2号 船坂山トンネル付近で大型トラック2台が絡む事故 現場通行止め【岡山】
+(2025-12-22 08:04:00) #ニュース
 
-[2025-12-22 07:37:39](https://bsky.app/profile/sokuho.news/post/3majrunowye2z)
-
----
-
-@wsj.com
-
-Jean-Paul Marat met his end in his bathtub. The assailant was sent to the guillotine but the murder would live on in an indelible painting. on.wsj.com/4pa16b7
-
-[2025-12-22 07:36:40](https://bsky.app/profile/wsj.com/post/3majrsvtoxm2u)
+[2025-12-22 08:08:12](https://bsky.app/profile/sokuho.news/post/3majtlbodnu2b)
 
 ---
 
 @reuters.com
 
-Charlie Kirk's widow consoles Nicki Minaj after 'assassin' gaffe reut.rs/4pPbMgr
+ASEAN to seek resolution to Thailand-Cambodia conflict with Malaysia meeting reut.rs/4j97ePv
 
-[2025-12-22 07:35:08](https://bsky.app/profile/reuters.com/post/3majrq63p5s2i)
-
----
-
-@wsj.com
-
-Exclusive: On Hawaii’s Kona-Kohala Coast, a venture capitalist’s seven-bedroom compound is coming on the market for $47 million, making it one of the priciest listings in the state.
-
-[2025-12-22 07:33:28](https://bsky.app/profile/wsj.com/post/3majrn6peou2u)
+[2025-12-22 08:05:07](https://bsky.app/profile/reuters.com/post/3majtfrvhkb2i)
 
 ---
 
-@npr.org
+@reuters.com
 
-Researchers retrieved reef monitoring devices that had been placed in deep coral reefs in Guam. The devices were placed up to 330 feet below the surface. n.pr/4qrFubn
+Samsung Biologics to buy U.S. drug production facility from GSK for $280 mln reut.rs/48S0xha
 
-[2025-12-22 07:32:55](https://bsky.app/profile/npr.org/post/3majrm7cu5y2b)
+[2025-12-22 08:01:06](https://bsky.app/profile/reuters.com/post/3majt6lfl7w2y)
 
 ---
 
-@npr.org
+@japan.reuters.com
 
-A report from the advocacy group Everytown For Gun Safety analyzed data from local police departments on nearly 350,000 guns used in crimes from 2020 to 2024, including where they came from.
+米政権のウィットコフ特使は２１日、ウクライナ戦争終結に向けてフロリダで過去３日間に行われた米・欧州・ウクライナ当局者間の協議について、生産的だったと評価し、立場の調整に重点が置かれたと明らかにした。 bit.ly/4antjaF
 
-[2025-12-22 07:31:35](https://bsky.app/profile/npr.org/post/3majrjsvcft2i)
+[2025-12-22 08:00:42](https://bsky.app/profile/japan.reuters.com/post/3majt5ut3cd25)
+
+---
+
+@japan.reuters.com
+
+日銀が３０年ぶりの高水準となる０．７５％への利上げを決定した。植田和男総裁は会見で、実質金利はまだ極めて低いところにあるとして、利上げ継続の方針を示す一方、今後の利上げペースについて具体的な示唆を与えなかった。日銀では、今回の利上げの影響をつぶさに点検しながら、追加利上げのタイミングは慎重に探るべきだとの声がある。ただ、円安への懸念は政策委員の間でも強く、状況次第では調整が速まる可能性もある。 bit.ly/495imIC
+
+[2025-12-22 08:00:36](https://bsky.app/profile/japan.reuters.com/post/3majt5ow4qh2q)
+
+---
+
+@cnbc.com
+
+Ashley Peters fell in love with anime during the pandemic. 
+
+Shortly after graduating from UC Irvine, she boarded a flight to move to Japan. 
+
+"Being here has freed up not just money, but mental space," said Peters.
+
+[2025-12-22 08:00:30](https://bsky.app/profile/cnbc.com/post/3majt5j7hig2x)
+
+---
+
+@usatoday.com
+
+Georgetown suspended men's basketball coach Ed Cooley, who threw his water bottle into the home crowd, which appeared to hit a child.
+
+[2025-12-22 08:00:25](https://bsky.app/profile/usatoday.com/post/3majt5ea4dr2c)
+
+---
+
+@cnn.com
+
+Power was restored Sunday morning to the bulk of the 130,000 homes and businesses in San Francisco impacted by a massive outage on Saturday that caused major disruptions in the city.
+https://cnn.it/4qdcdkg
+
+[2025-12-22 08:00:11](https://bsky.app/profile/cnn.com/post/3majt4wy3a62x)
+
+---
+
+@washingtonpost.com
+
+This year, millions of American families that have relied on Obamacare are being squeezed on multiple sides: Premiums are rising, covid-era subsidies are shrinking, and there are fewer choices with insurers pulling out of some markets.
+
+[2025-12-22 08:00:09](https://bsky.app/profile/washingtonpost.com/post/3majt4vm2vd2m)
+
+---
+
+@apnews.com
+
+A spectacular bicycle kick has earned royal approval for Ayoub El Kaabi as host Morocco opened the 35th Africa Cup of Nations with a 2-0 win over Comoros.
+
+[2025-12-22 08:00:07](https://bsky.app/profile/apnews.com/post/3majt4tqlqc22)
 
 ---
 
